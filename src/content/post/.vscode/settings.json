@@ -1,0 +1,62 @@
+{
+  "[markdown]": {
+    "editor.quickSuggestions": {
+      "comments": false,
+      "other": true,
+      "strings": false
+    }
+  },
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 5000,
+  "files.exclude": {
+    "_site/**": true
+  },
+  "files.watcherExclude": {
+    "**/.git/**": true,
+    "**/node_modules/*/**": true
+  },
+  "foam.edit.linkReferenceDefinitions": "off",
+  "foam.graph.style": {
+    "fontSize": 12,
+    "highlightedForeground": "#F9C74F",
+    "lineColor": "#C9EEFF",
+    "lineWidth": 0.2,
+    "node": {
+      "note": "#AA77FF",
+      "tag": "#62CDFF"
+    },
+    "particleWidth": 1
+  },
+  "markdown.preview.breaks": true,
+  "markdown.styles": [".vscode/custom-tag-style.css"],
+  "markdownlint.config": {
+    // https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md
+    "MD018": false, // no space after hash, allow tags
+    "MD024": false, // duplicate heading
+    "MD025": false, // multiple top-level headings
+    "MD013": false, // line_length
+    "MD033": false // no-inline-html
+  },
+  "pasteImage.path": "${projectRoot}/assets",
+  "pasteImage.showFilePathConfirmInputBox": true,
+  "peacock.color": "#ab317f",
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#ca459a",
+    "activityBar.background": "#ca459a",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#93c639",
+    "activityBarBadge.foreground": "#15202b",
+    "commandCenter.border": "#e7e7e799",
+    "sash.hoverBorder": "#ca459a",
+    "statusBar.background": "#ab317f",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#ca459a",
+    "statusBarItem.remoteBackground": "#ab317f",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#ab317f",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#ab317f99",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  }
+}

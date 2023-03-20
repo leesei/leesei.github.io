@@ -11,3 +11,6 @@
 !.prettierrc
 !.eslintrc.js
 !README.md
+
+# ignore assets
+/src/content/post/assets

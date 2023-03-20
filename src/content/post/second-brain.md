@@ -1,0 +1,238 @@
+---
+title: Second Brain
+description: ""
+created: 2023-01-13
+tags:
+  - learning
+featured: true
+---
+
+[Personal knowledge management - Wikiwand](https://www.wikiwand.com/en/Personal_knowledge_management)
+[Personal Knowledge Management (PKM)](https://www.nozdrenkov.com/pkm/)
+
+[Visual PKM - YouTube](https://www.youtube.com/playlist?list=PL6mqgtMZ4NP1emKF-bWvgS5vBD0_NM0v4)
+[学习方法 - 如何构造高效的知识管理系统 ｜ 为什么学了就忘 ｜把书读透的读书方法 ｜ 高效学习方法 - YouTube](https://www.youtube.com/watch?v=5Yn4-aSggI0)
+
+My requirements:
+
+- Zettelkasten method
+  hence graph visualization is a plus
+- local file (edit in VSCode)
+- tag list
+- tag search
+- export to static site
+  MDX and component support is a plus
+  wikilink support is a plus
+  (this restrict my notes to be a single folder structure)
+
+[[markdown]]
+
+## Methodology
+
+Semantic connections: links, metadata, map of content (MoC)
+System related: tags
+
+Map of content is a page that summarize other pages related to it, like a topic index
+
+[Building a Second Brain](https://www.buildingasecondbrain.com/)
+[Tiago Forte - YouTube](https://www.youtube.com/channel/UCmvYCRYPDlzSHVNCI_ViJDQ)
+[Building a Second Brain with Tiago Forte - YouTube](https://www.youtube.com/watch?v=DZVaVav8lGo)
+[How to Take Digital Notes and Build Your Second Brain in 2021 (With Tiago Forte) - YouTube](https://www.youtube.com/watch?v=MlBQhdqmaQc)
+CODE (creation): Capture, Organize, Distill, Express
+PARA (storage): Project, Areas, Resources, Archives
+
+[Home | Johnny•Decimal](https://johnnydecimal.com/) decimal is not the key, discover topics and tags of your knowledge
+I use graph view and use scripts to analyze the frontmatters
+
+[Networked Thought](https://jzhao.xyz/posts/networked-thought/)
+
+### Zettelkasten
+
+[Zettelkasten - Wikiwand](https://www.wikiwand.com/en/Zettelkasten)
+[Getting Started • Zettelkasten Method](https://zettelkasten.de/posts/overview/)
+[A Beginner’s Guide to the Zettelkasten Method | Zenkit](https://zenkit.com/en/blog/a-beginners-guide-to-the-zettelkasten-method/)
+[How to make atomic literature notes using the Zettelkasten method](https://meda.io/how-to-make-atomic-literature-notes/)
+
+[如何聪明地做笔记 | 提高写作、学习和思考能力 | Zettelkasten 卡片盒笔记法 | 使用 DEVONthink，Roamresearch，Obsidian 进行实践 | 打造自己的成长知识库 - YouTube](https://www.youtube.com/watch?v=2VurHJtWKtk)
+[How To Take Smart Notes: 10 Principles to Revolutionize Your Note-Taking and Writing - Forte Labs](https://fortelabs.com/blog/how-to-take-smart-notes/)
+How to Take Smart Notes, Sönke Ahrens
+
+- Fleeting Notes
+  needs to be organized timely
+- Literature Notes
+  on a book, paper, podcast
+  brief, in your own words
+- Permanent Notes
+  organized from the above
+  link and backlinks when adding new note
+  index for a topic
+- Project Notes
+  all notes related to a project
+  archive after completion
+
+Artem Kirsanov
+[Understanding note-taking | Zettelkasten - YouTube](https://www.youtube.com/watch?v=-r6fnC5lVfE) !important t=242
+
+### LATCH
+
+Location
+Alphabet
+Time
+Category
+Hierarchy
+
+[Visualize your location index with Obsidian Map View - YouTube](https://www.youtube.com/watch?v=g9QOHaAqhXc)
+[How to organize your notes in Obsidian // The LATCH method - YouTube](https://www.youtube.com/watch?v=vS-b_RUtL1A)
+
+## App Comparison
+
+[Notion vs Roam vs Obsidian | ULTIMATE Note-taking App? For Students - YouTube](https://www.youtube.com/watch?v=SyV4xez9Lp0)
+[Notion vs Obsidian // Databases vs Dataview - YouTube](https://www.youtube.com/watch?v=AhhFLXfldJQ)
+[How to choose a note-taking app | Zettelkasten | Notion vs Roam vs Obsidian - YouTube](https://www.youtube.com/watch?v=4MxI68kg8to)
+[Why I chose Obsidian over Roam (as a Roam investor) - YouTube](https://www.youtube.com/watch?v=AWUk8-6yG2g)
+[Best Note-Taking App For Building A Second Brain | by Vinod Sharma | Medium](https://authorvinod.medium.com/best-note-taking-app-for-building-a-second-brain-cf4c6f53df6c)
+
+## Obsidian
+
+> cannot share database across machines
+> editor is wimpy
+
+[Obsidian](https://obsidian.md/) more organic, built on dataview
+[Index - Obsidian Help](https://help.obsidian.md/Obsidian/Index)
+
+[Publishing Obsidian.md notes with GitLab Pages | GitLab](https://about.gitlab.com/blog/2022/03/15/publishing-obsidian-notes-with-gitlab-pages/)
+
+[How I’m using ObsidianMD to learn Programming in 2023 | by Josiah Brown | Feb, 2023 | Medium](https://medium.com/@josiah.alen.brown/how-im-using-obsidianmd-to-learn-programming-in-2023-cf3647da874e)
+
+[天哪我給大腦開外掛了！它完全顛覆了大家對筆記軟體的認知 | Obsidian 教學 - YouTube](https://www.youtube.com/watch?v=Egj_DdGUIDI)
+
+[How to get started with Obsidian in 2022 - from scratch! - YouTube](https://www.youtube.com/watch?v=OUrOfIqvGS4)
+[How to organize your notes in Obsidian // The LATCH method - YouTube](https://www.youtube.com/watch?v=vS-b_RUtL1A)
+[How I use Obsidian for work as a software developer advocate - YouTube](https://www.youtube.com/watch?v=D7e1ud_Dk24)
+
+Some thoughts are on general methodology
+[8 Factors for Effective Use of Obsidian Tags, Links, and Folders | by Denise Todd | Medium](https://denisetodd.medium.com/8-features-to-help-you-decide-how-to-use-obsidian-tags-and-links-effectively-6ecc4408d226)
+[Yet Another Hot Take on "Folders versus Tags"](https://www.eleanorkonik.com/yet-another-hot-take-on-folders-versus-tags/)
+
+### Plugins
+
+[Top 10 Obsidian Plugins I Can't Do Without - YouTube](https://www.youtube.com/watch?v=W7kTtn9empU)
+[Obsidian Gems of the Year 2022: Best Plugins | by Prakash Joshi Pax | Feb, 2023 | Medium](https://beingpax.medium.com/obsidian-gems-of-the-year-2022-best-plugins-ed666dcec4cb)
+[The Must-Have Obsidian plugins | Personal Knowledge Management Journal](https://pkmjournal.com/the-must-have-obsidian-plugins-5a99821b18b2)
+
+[blacksmithgu/obsidian-dataview: A high-performance data index and query language over Markdown files, for https://obsidian.md/.](https://github.com/blacksmithgu/obsidian-dataview)
+[How to use the Obsidian Dataview plugin - YouTube](https://www.youtube.com/watch?v=JTObSymEvWA)
+[How to Use Obsidian Dataview: A Complete Beginners Guide | by Prakash Joshi Pax | Medium](https://beingpax.medium.com/how-to-use-obsidian-dataview-a-complete-beginners-guide-2a275c274936)
+
+[pjeby/tag-wrangler: Rename, merge, toggle, and search tags from the Obsidian tag pane](https://github.com/pjeby/tag-wrangler)
+[Two Obsidian Plugins You’ll Wonder How you Lived Without | by Denise Todd | Medium](https://denisetodd.medium.com/two-obsidian-plugins-youll-wonder-how-you-lived-without-ea135c664d62)
+
+### Publishing
+
+[Publishing your Obsidian Vault Online with Quartz](https://brandonkboswell.com/blog/Publishing-your-Obsidian-Vault-Online-with-Quartz/)
+
+[jackyzha0/quartz: 🌱 host your own second brain and digital garden for free](https://github.com/jackyzha0/quartz)
+[zoni/obsidian-export: Rust library and CLI to export an Obsidian vault to regular Markdown](https://github.com/zoni/obsidian-export)
+[jackyzha0/hugo-obsidian: simple GitHub action to parse Markdown Links into a .json file for Hugo](https://github.com/jackyzha0/hugo-obsidian)
+
+[yoursamlan/pubsidian: An Obsidian-Publish alternative but it's FREE](https://github.com/yoursamlan/pubsidian)
+
+## Roam
+
+> as a service only
+
+[[#Foam]]
+
+[Roam Research – A note taking tool for networked thought.](https://roamresearch.com/)
+
+[100 ROAM TIPS: Beginner to Advanced in 25 Mins | Roam Research Course - YouTube](https://www.youtube.com/watch?v=4yXK9OMc2OU)
+
+## Tana
+
+[Tana：2022 最惊艳的笔记软件，凭什么人人都在排队等待试用？ | 回到 Axton - YouTube](https://www.youtube.com/watch?v=gR6axU2mF0M)
+
+## Notion
+
+> hierarchical, contrary to Zettelkasten
+> cloud-based
+
+[Notion – One workspace. Every team.](https://www.notion.so/product) built on database
+[為什麼許多人都改用 Notion 做為主力筆記軟體？看完這個你就明白了 👍 - YouTube](https://www.youtube.com/watch?v=Q_PfYlAtvHc)
+[A Beginner's Guide to Notion - SitePoint](https://www.sitepoint.com/notion-beginners-guide/)
+
+## Emanote
+
+[Emanote](https://emanote.srid.ca/)
+[zk – Emanote](https://emanote.srid.ca/start/resources/zk)
+
+## zk
+
+[mickael-menu/zk: A plain text note-taking assistant](https://github.com/mickael-menu/zk)
+[mickael-menu/zk-vscode: Visual Studio Code extension for zk](https://github.com/mickael-menu/zk-vscode)
+
+[sirupsen/zk: Zettelkasten on the command-line 📚 🔍](https://github.com/sirupsen/zk)
+
+## VSCode
+
+[svsool/memo: Markdown knowledge base with bidirectional [[link]]s built on top of VSCode](https://github.com/svsool/memo)
+
+### Foam
+
+[Foam | A personal knowledge management and sharing system for VSCode](https://foambubble.github.io/foam/) Roam-like
+[foambubble/foam-template: Foam workpace template](https://github.com/foambubble/foam-template)
+[Discussions · foambubble/foam](https://github.com/foambubble/foam/discussions)
+
+[Zettelkasten Note-Taking In VSCode | by Fred Grott | Medium](https://fredgrott.medium.com/zettelkasten-note-taking-in-vscode-80d713038c5d)
+[Foam as My Content Engine | RheinardKorf.com](https://rheinardkorf.com/foam-as-my-content-engine/)
+
+#### Publish
+
+[juanfrank77/foam-eleventy-template: Foam workspace template rendered by Eleventy.](https://github.com/juanfrank77/foam-eleventy-template)
+
+[rheinardkorf/rheinardkorf.com: A blog, by Rheinard Korf](https://github.com/rheinardkorf/rheinardkorf.com) 11ty example
+[rheinardkorf/markdown_11ty_template: A template to turn VSCode into a wiki space.](https://github.com/rheinardkorf/markdown_11ty_template) theme used
+
+[yenly/foamy-nextjs: Basic Foam + NextJS with MDX starter for building a digital garden](https://github.com/yenly/foamy-nextjs)
+[Initial working version with MDX remote by zomars · Pull Request #9 · yenly/foamy-nextjs](https://github.com/yenly/foamy-nextjs/pull/9)
+
+[hikerpig/foam-template-gatsby-kb: A Foam/Obsidian template using gatsby-theme-kb for publishing your knowledge base](https://github.com/hikerpig/foam-template-gatsby-kb)
+
+### Emanote
+
+> Haskell tool for Zettelkasten and website generation
+
+[Emanote](https://emanote.srid.ca/)
+
+- [Full-text search – Emanote](https://emanote.srid.ca/guide/html-template/search)
+- [HTML Templates – Emanote](https://emanote.srid.ca/guide/html-template)
+- [Obsidian-style queries – Emanote](https://emanote.srid.ca/guide/query)
+
+[srid/emanote-template: Notebook template for Emanote](https://github.com/srid/emanote-template)
+
+```sh
+emanote run --port=8080
+mkdir /tmp/dist; emanote gen /tmp/dist
+```
+
+### Front Matter
+
+#cms
+
+[Headless CMS right in your code editor | Front Matter](https://frontmatter.codes/)
+[gldraphael/docusaurus-fm-exp](https://github.com/gldraphael/docusaurus-fm-exp)
+
+### Markdown Notes
+
+> wiki link doesn't work
+
+[Markdown Notes - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=kortina.vscode-markdown-notes)
+[Suping Up VS Code as a Markdown Notebook — Andrew Kortina](https://kortina.nyc/essays/suping-up-vs-code-as-a-markdown-notebook/)
+
+### Dendron
+
+> hierarchical, contrary to Zettelkasten
+
+[Dendron](https://www.dendron.so/)
+[Dendron Wiki](https://wiki.dendron.so/)
+
+[Tag Search - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=d3vr.tag-search)
