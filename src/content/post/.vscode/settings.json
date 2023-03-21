@@ -38,7 +38,7 @@
     "MD013": false, // line_length
     "MD033": false // no-inline-html
   },
-  "pasteImage.path": "${projectRoot}/assets",
+  "pasteImage.path": "${projectRoot}/_assets",
   "pasteImage.showFilePathConfirmInputBox": true,
   "peacock.color": "#ab317f",
   "workbench.colorCustomizations": {

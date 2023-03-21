@@ -375,7 +375,7 @@ em-dash used like colon to introduce list, or comma to separate out indefinite r
 
 [Hello Future Me - YouTube](https://www.youtube.com/channel/UCFQMO-YL87u-6Rt8hIVsRjA)
 
-![](./assets/natural-languages/story-cycle.png)
+![](./_assets/natural-languages/story-cycle.png)
 
 ### On Writing Technical report
 

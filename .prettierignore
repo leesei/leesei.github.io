@@ -14,5 +14,5 @@
 !.eslintrc.js
 !README.md
 
-# ignore assets
-/src/content/post/assets
+# ignore post assets
+/src/content/post/_assets

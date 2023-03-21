@@ -350,14 +350,14 @@ first multistage rocket, detach booster in Korolev cross fashion (still used in 
 [有苏联失败的前车之鉴，星舰上满屁股的发动机，能稳定工作吗？【科学火箭叔】 - YouTube](https://www.youtube.com/watch?v=Cf_oVzYupSA)
 [【并非好奇】解密 SpaceX 猛禽火箭發動機工作原理 爲什麽它先進的超出你的想象 - YouTube](https://www.youtube.com/watch?v=7NPEATB8oLA)
 
-![Merlin engine](./assets/engines/merlin-engine.png)
+![Merlin engine](./_assets/engines/merlin-engine.png)
 
 - open cycle
 - Kerolox: RP-1 (rocket grade kerosene) @-10°C + LOX (liquid oxygen) @-207°C
 - uses pyroph oric T-TEB as ignition fluid
 - uses gas generator for a turbine to spin the main pumps
 
-![Raptor engine](./assets/engines/raptor-engine.png)
+![Raptor engine](./_assets/engines/raptor-engine.png)
 
 - full flow, staged combustion
 - Methalox: liquid methane @-180°C + LOX (liquid oxygen) @-207°C

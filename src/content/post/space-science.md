@@ -388,7 +388,7 @@ Starship Launch System (SLS), using Superheavy as first stage booster
 [Starship - YouTube](https://www.youtube.com/playlist?list=PLBQ5P5txVQr9_jeZLGa0n5EIYvsOJFAnY) SN8 began to trial flip landing
 [What's Inside The SpaceX Starship? - YouTube](https://www.youtube.com/watch?v=OKy2Z2BnyU8)
 
-![](./assets/qspace-science/falcon-9-vs-starship.png)
+![](./_assets/qspace-science/falcon-9-vs-starship.png)
 
 Falcon
 

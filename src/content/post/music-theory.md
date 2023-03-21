@@ -106,7 +106,7 @@ This is how digital synthesizers mimics different instruments
 
 ### Math and Music
 
-```
+```katex
 $$
 f = \frac{V}{\lambda} = \frac{1}{2L}\sqrt{\frac{T}{\rho}}
 $$
@@ -224,8 +224,8 @@ Refer to the number of sharps and flats to add in the Circle of fifths
 [The Circle of Fifths Explained | LedgerNote](https://ledgernote.com/columns/music-theory/circle-of-fifths-explained/)
 [The Ultimate Guide to the Circle of Fifths - Musical U](https://www.musical-u.com/learn/how-to-use-circle-fifths/)
 
-![](./assets/music-theory/circle-of-fifths.png)
-![](./assets/music-theory/circle-of-fifths-star.svg)
+![](./_assets/music-theory/circle-of-fifths.png)
+![](./_assets/music-theory/circle-of-fifths-star.svg)
 
 1234567
 CDEFGAB
@@ -355,8 +355,7 @@ timidity file.mid -Ow -o - | lame - file.ogg
 ```
 
 [[web-audio]]
-
-> see `creative-coding.md#sonic-pi`
+[[creative-coding#Sonic Pi]]
 
 [pippi](https://pippi.world/)
 [luvsound/pippi: computer music with python](https://github.com/luvsound/pippi)
