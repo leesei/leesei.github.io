@@ -18,7 +18,7 @@ export async function getStaticPaths() {
 
   const tags_db = getTagsDB(posts);
 
-  return tags_db.tag_slugs.map(slug => {
+  return tags_db.tag_slugs.map((slug) => {
     return {
       params: { slug: slug },
       props: { tag: tags_db.slug_to_tag.get(slug) },
@@ -29,7 +29,11 @@ export async function getStaticPaths() {
 const { slug } = Astro.params;
 const { tag } = Astro.props;
 const filteredPosts = await getCollection("post", ({ data }) => !data.draft);
-const tagPosts = getPostsByTag(filteredPosts, slug!);
+const tagPosts = getPostsByTag(filteredPosts, slug!).sort((a, b) => {
+  const a_date = a.data.updated || a.data.created;
+  const b_date = b.data.updated || b.data.created;
+  return b_date.getTime() - a_date.getTime();
+});
 ---
 
 <Layout title={`Tag: ${tag} | ${SITE.title}`}>

@@ -76,7 +76,7 @@ Then I tried the low level [vfile](https://unifiedjs.com/explore/package/vfile/)
 [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) fits my purpose in first glance, but it has a full load of issues.
 Finally I moved back to [vfile](https://unifiedjs.com/explore/package/vfile/) and used [yaml](https://eemeli.org/yaml/) for file output.
 
-## Customizing Astro Paper
+## Customizing AstroPaper
 
 Due credits must be given to Astro and AstroPaper.
 Astro make a great static site generator with:
@@ -125,8 +125,15 @@ AstroPaper adopted many best practices. Though I do not agree with some of its d
       `.png` takes too long to generate, use `.svg`
 
 Handling of tags and WikiLinks are the most tricky.
-I prioritize my UX in Foam so they will have to be sluggified in the website to match the URLs.
-AstroPaper and `remark-wiki-link` have their own take on how to sluggify stuffs. I have to read their code and make it the way I wanted.
+I prioritize my UX in Foam so they will have to be slugified in the website to match the URLs.
+AstroPaper and `remark-wiki-link` have their own take on how to slugify stuffs. I have to read their code and make it the way I wanted.
+
+I gradually added these features:
+
+- [x] use [React Icons](https://react-icons.github.io/react-icons/)  
+       pick the right icon that can be affected by `{text,fill}-skin-{base,accent}`
+- [x] render `updated` date  
+       Post lists sort by `updated || created`
 
 ## TODO
 
@@ -139,12 +146,11 @@ AstroPaper and `remark-wiki-link` have their own take on how to sluggify stuffs.
        https://github.com/withastro/docs
 - [ ] MDX support?  
        https://github.com/mdx-js/mdx/tree/main/packages/remark-mdx
-- [ ] use [React Icons](https://react-icons.github.io/react-icons/)
 - [ ] link to edit post in github
-- [ ] github issue as comments
+- [ ] github issue as comments/discussion
 - [ ] sort out post assets in Foam and Astro
 - [ ] re-org tags
-- [ ] copy code?
+- [ ] overlay button to copy code?
 - [ ] directives/admonition/callout? (alert, warn, info)  
        https://stackoverflow.com/questions/50544499/how-to-make-a-styled-markdown-admonition-box-in-a-github-gist use emoji  
        https://help.obsidian.md/Editing+and+formatting/Callouts

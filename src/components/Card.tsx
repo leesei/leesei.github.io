@@ -1,7 +1,7 @@
-import Datetime from "@components/Datetime";
+import { CreatedDatetime, UpdatedDatetime } from "@components/Datetime";
+import { Fragment } from "react";
 import Tag from "@components/Tag";
 import type { PostFrontmatter } from "@content/_schemas";
-import { Fragment } from "react";
 
 export interface Props {
   href?: string;
@@ -10,7 +10,7 @@ export interface Props {
 }
 
 export default function Card({ href, frontmatter, secHeading = true }: Props) {
-  const { title, created, description, tags } = frontmatter;
+  const { title, created, updated, description, tags } = frontmatter;
   return (
     <li className="my-6">
       <a
@@ -27,15 +27,20 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
           </h3>
         )}
       </a>
-      <Datetime datetime={created} />
+      <div className="flex">
+        {updated && (
+          <UpdatedDatetime datetime={updated} size="lg" className="my-2 mr-8" />
+        )}
+        <CreatedDatetime datetime={created} size="lg" className="my-2" />
+      </div>
+      <p>{description}</p>
       <ul className="tags-container">
-        {tags.map(tag => (
+        {tags.map((tag) => (
           <Fragment key={tag}>
             <Tag name={tag} />
           </Fragment>
         ))}
       </ul>
-      <p>{description}</p>
     </li>
   );
 }

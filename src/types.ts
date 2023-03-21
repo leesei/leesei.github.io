@@ -1,3 +1,5 @@
+import type { IconType } from "react-icons";
+
 export type Site = {
   website: string;
   author: string;
@@ -16,7 +18,7 @@ export type SocialObjects = {
 }[];
 
 export type SocialIcons = {
-  [social in SocialMedia]: string;
+  [social in SocialMedia]: IconType;
 };
 
 export type SocialMedia =

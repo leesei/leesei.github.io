@@ -7,10 +7,10 @@ import type { CollectionEntry } from "astro:content";
 const getSortedPosts = (posts: CollectionEntry<"post">[]) =>
   posts
     .filter(({ data }) => !data.draft)
-    .sort(
-      (a, b) =>
-        Math.floor(new Date(b.data.created).getTime() / 1000) -
-        Math.floor(new Date(a.data.created).getTime() / 1000)
-    );
+    .sort((a, b) => {
+      const a_date = a.data.updated || a.data.created;
+      const b_date = b.data.updated || b.data.created;
+      return b_date.getTime() - a_date.getTime();
+    });
 
 export default getSortedPosts;

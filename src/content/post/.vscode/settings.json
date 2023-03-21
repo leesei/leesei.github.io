@@ -6,6 +6,7 @@
       "strings": false
     }
   },
+  "editor.minimap.enabled": false,
   "files.autoSave": "afterDelay",
   "files.autoSaveDelay": 5000,
   "files.exclude": {
@@ -58,5 +59,6 @@
     "titleBar.activeForeground": "#e7e7e7",
     "titleBar.inactiveBackground": "#ab317f99",
     "titleBar.inactiveForeground": "#e7e7e799"
-  }
+  },
+  "cSpell.words": ["reactjs"]
 }

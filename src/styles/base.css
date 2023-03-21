@@ -77,14 +77,8 @@
   tfoot td:first-child {
     padding-left: 0.5714286em;
   }
-  .prose h2#table-of-contents {
-    @apply mb-2;
-  }
   .prose details {
     @apply inline-block cursor-pointer select-none text-skin-base;
-  }
-  .prose h2#table-of-contents + p {
-    @apply hidden;
   }
   .prose summary {
     @apply focus-outline;
@@ -122,31 +116,34 @@
     @apply relative underline decoration-dashed hover:-top-0.5 hover:text-skin-accent focus-visible:p-1;
   }
   ul.tags-container li.tag a svg {
-    @apply -mr-5 h-6 w-6 text-skin-base opacity-80 group-hover:fill-skin-accent;
+    @apply -mr-5 h-6 w-6 opacity-80 group-hover:fill-skin-accent;
   }
 
   /* ===== TailwindCSS Typography customization ===== */
   .prose blockquote p:first-of-type::before {
-    content: ""
+    content: "";
   }
   .prose blockquote p:last-of-type::after {
-    content: ""
+    content: "";
   }
 
   /* ===== remark-wiki-link customization ===== */
   .prose a.internal::before {
-    content: "[["
+    content: "[[";
   }
   .prose a.internal::after {
-    content: "]]"
+    content: "]]";
   }
 
   /* ===== rehype-toc customization ===== */
+  .prose nav.toc {
+    @apply rounded-lg border-4 border-dashed px-0.5;
+  }
   .prose nav.toc ol.toc-level-1 {
-    list-style-type: "\25FC  "
+    list-style-type: "\25FC  ";
   }
   .prose nav.toc ol:not(.toc-level-1) {
-    list-style-type: "\25FB  "
+    list-style-type: "\25FB  ";
   }
   .prose nav.toc li.toc-item {
     @apply my-1;
@@ -154,7 +151,6 @@
   .prose nav.toc ol:not(.toc-level-1) {
     @apply my-1;
   }
-
   /* ~~~~~ My styles end ~~~~~ */
 }
 

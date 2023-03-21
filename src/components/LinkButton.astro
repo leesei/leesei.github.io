@@ -1,14 +1,23 @@
 ---
+import type { HTMLAttributeAnchorTarget } from "react";
+
 export interface Props {
   href: string;
   className?: string;
   ariaLabel?: string;
   title?: string;
-  target?: string;
+  target?: HTMLAttributeAnchorTarget;
   disabled?: boolean;
 }
 
-const { href, className, ariaLabel, title, target="", disabled = false } = Astro.props;
+const {
+  href,
+  className,
+  ariaLabel,
+  title,
+  target = "_self",
+  disabled = false,
+} = Astro.props;
 ---
 
 <a

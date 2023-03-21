@@ -1,22 +1,24 @@
 ---
 import { getCollection } from "astro:content";
-import Layout from "@layouts/Layout.astro";
-import Header from "@components/Header.astro";
+import { MdRssFeed } from "react-icons/md";
+import { SOCIALS } from "@config";
+import { TbArrowRight } from "react-icons/tb";
+import Card from "@components/Card";
 import Footer from "@components/Footer.astro";
+import getSortedPosts from "@utils/getSortedPosts";
+import Header from "@components/Header.astro";
+import Hr from "@components/Hr.astro";
+import Layout from "@layouts/Layout.astro";
 import Link from "@components/Link";
 import LinkButton from "@components/LinkButton.astro";
-import Hr from "@components/Hr.astro";
-import Card from "@components/Card";
 import Socials from "@components/Socials.astro";
-import getSortedPosts from "@utils/getSortedPosts";
-import { SOCIALS } from "@config";
 
 const posts = await getCollection("post");
 
 const sortedPosts = getSortedPosts(posts);
 const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
 
-const socialCount = SOCIALS.filter(social => social.active).length;
+const socialCount = SOCIALS.filter((social) => social.active).length;
 ---
 
 <Layout>
@@ -31,13 +33,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         aria-label="rss feed"
         title="RSS Feed"
       >
-        <svg xmlns="http://www.w3.org/2000/svg" class="rss-icon"
-          ><path
-            d="M19 20.001C19 11.729 12.271 5 4 5v2c7.168 0 13 5.832 13 13.001h2z"
-          ></path><path
-            d="M12 20.001h2C14 14.486 9.514 10 4 10v2c4.411 0 8 3.589 8 8.001z"
-          ></path><circle cx="6" cy="18" r="2"></circle>
-        </svg>
+        <MdRssFeed className="rss-icon" />
       </a>
       <h2>Too much knowledge, I need an external brain 🧠</h2>
 
@@ -121,11 +117,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       <div class="all-posts-btn-wrapper">
         <LinkButton href="/posts">
           All Posts
-          <svg xmlns="http://www.w3.org/2000/svg"
-            ><path
-              d="m11.293 17.293 1.414 1.414L19.414 12l-6.707-6.707-1.414 1.414L15.586 11H6v2h9.586z"
-            ></path>
-          </svg>
+          <TbArrowRight />
         </LinkButton>
       </div>
     </section>

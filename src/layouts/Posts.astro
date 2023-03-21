@@ -1,11 +1,12 @@
 ---
 import { SITE } from "@config";
-import Layout from "@layouts/Layout.astro";
-import Main from "@layouts/Main.astro";
-import Header from "@components/Header.astro";
-import Footer from "@components/Footer.astro";
+import { TbArrowLeft, TbArrowRight } from "react-icons/tb";
 import Card from "@components/Card";
+import Footer from "@components/Footer.astro";
+import Header from "@components/Header.astro";
+import Layout from "@layouts/Layout.astro";
 import LinkButton from "@components/LinkButton.astro";
+import Main from "@layouts/Main.astro";
 import type { CollectionEntry } from "astro:content";
 
 export interface Props {
@@ -45,9 +46,7 @@ const next = pageNum < totalPages ? "" : "disabled";
           className={`mr-4 select-none ${prev}`}
           ariaLabel="Previous"
         >
-          <svg xmlns="http://www.w3.org/2000/svg" class={`${prev}-svg`}>
-            <path d="M12.707 17.293 8.414 13H18v-2H8.414l4.293-4.293-1.414-1.414L4.586 12l6.707 6.707z" />
-          </svg>
+          <TbArrowLeft className={`${next}-svg`} />
           Prev
         </LinkButton>
         <LinkButton
@@ -57,9 +56,7 @@ const next = pageNum < totalPages ? "" : "disabled";
           ariaLabel="Next"
         >
           Next
-          <svg xmlns="http://www.w3.org/2000/svg" class={`${next}-svg`}>
-            <path d="m11.293 17.293 1.414 1.414L19.414 12l-6.707-6.707-1.414 1.414L15.586 11H6v2h9.586z" />
-          </svg>
+          <TbArrowRight className={`${next}-svg`} />
         </LinkButton>
       </nav>
     )

@@ -1,9 +1,10 @@
 ---
-import Layout from "@layouts/Layout.astro";
-import Header from "@components/Header.astro";
+import { BiChevronLeft } from "react-icons/bi";
+import { CreatedDatetime, UpdatedDatetime } from "@components/Datetime";
 import Footer from "@components/Footer.astro";
+import Header from "@components/Header.astro";
+import Layout from "@layouts/Layout.astro";
 import Tag from "@components/Tag";
-import Datetime from "@components/Datetime";
 import type { CollectionEntry } from "astro:content";
 
 export interface Props {
@@ -12,7 +13,8 @@ export interface Props {
 
 const { post } = Astro.props;
 
-const { title, author, description, ogImage, created, tags } = post.data;
+const { title, author, description, ogImage, created, updated, tags } =
+  post.data;
 
 const { Content } = await post.render();
 
@@ -27,18 +29,22 @@ const ogUrl = new URL(ogImage ? ogImage : `${post.slug}.svg`, Astro.url.origin)
       class="focus-outline mt-8 mb-2 flex hover:opacity-75"
       onclick="history.back()"
     >
-      <svg xmlns="http://www.w3.org/2000/svg"
-        ><path
-          d="M13.293 6.293 7.586 12l5.707 5.707 1.414-1.414L10.414 12l4.293-4.293z"
-        ></path>
-      </svg><span>Go back</span>
+      <BiChevronLeft /><span>Go back</span>
     </button>
   </div>
   <main id="main-content">
     <h1 class="post-title">{title}</h1>
-    <Datetime datetime={created} size="lg" className="my-2" />
+    <div class="flex">
+      {
+        updated && (
+          <UpdatedDatetime datetime={updated} size="lg" className="my-2 mr-8" />
+        )
+      }
+      <CreatedDatetime datetime={created} size="lg" className="my-2" />
+    </div>
+    <p>{description}</p>
     <ul class="tags-container">
-      {tags.map(tag => <Tag name={tag} />)}
+      {tags.map((tag) => <Tag name={tag} />)}
     </ul>
 
     <article id="article" role="article" class="prose mx-auto mt-8 max-w-3xl">

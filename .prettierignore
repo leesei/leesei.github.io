@@ -1,5 +1,7 @@
 # Ignore everything
 /*
+*.png
+*.svg
 
 # Except these files & folders
 !/src
