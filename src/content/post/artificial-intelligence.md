@@ -438,6 +438,8 @@ ChatGPT was based on GPT3
 [lencx/ChatGPT: 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT)
 [f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts)
 
+[深度体验 GPT-4 加持的 ChatGPT，两个字：逆天-36 氪](https://36kr.com/p/2172595355021831)
+
 Glitch Prompt
 [GPT3: An Even Bigger Language Model - Computerphile - YouTube](https://www.youtube.com/watch?v=_8yVOC4ciXc)
 [ChatGPT with Rob Miles - Computerphile - YouTube](https://www.youtube.com/watch?v=viJt_DXTfwA)

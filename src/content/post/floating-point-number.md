@@ -1,6 +1,6 @@
 ---
 title: Floating Point Number
-description: Floating point numbers in computer is only an *approximation* of
+description: Floating point number in computer is only an *approximation* of
   the actual value
 created: 2023-03-18
 tags:

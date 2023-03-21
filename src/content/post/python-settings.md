@@ -481,7 +481,7 @@ flask-security flask-sqlalchemy
 ### Async
 
 [[web-dev#ASGI]]
-[[fastspi]]
+[[fastapi]]
 
 [Sanic Framework](https://sanic.dev/en/) one of the first extremely fast Python frameworks based on `asyncio`, uses `uvloop`
 

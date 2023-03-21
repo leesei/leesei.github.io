@@ -63,6 +63,7 @@ GitHub org:
 yay -S rustup
 
 rustup show
+rustup toolchain install stable
 rustup update
 rustup default stable
 

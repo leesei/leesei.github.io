@@ -123,6 +123,13 @@ Jeff Geerling
 
 [How to use Vagrant provision with Ansible for playbook development – Linuxserver.io](https://www.linuxserver.io/index.php/2016/02/08/how-to-use-vagrant-provision-with-ansible-for-playbook-development/) !important
 
+## Event-Driven
+
+[Event-Driven Ansible](https://www.ansible.com/use-cases/event-driven-automation)
+
+[Ansible Blog | Ansible.com | Event Driven Automation](https://www.ansible.com/blog/topic/event-driven-automation)
+[Kubernetes Meets Event-Driven Ansible](https://www.ansible.com/blog/kubernetes-meets-event-driven-ansible)
+
 ## Testing
 
 [How We Test Our Ansible Roles with Molecule - The Zapier Engineering Blog - Zapier](https://zapier.com/engineering/ansible-molecule/)

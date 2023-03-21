@@ -997,6 +997,7 @@ Forward?
 
 [chancejs/chancejs: Chance - Random generator helper for JavaScript](https://github.com/chancejs/chancejs)
 [josdejong/mathjs: An extensive math library for JavaScript and Node.js](https://github.com/josdejong/mathjs)
+[pmndrs/maath: 🪶 Math helpers for the rest of us](https://github.com/pmndrs/maath)
 
 [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
 [Resources - Tutorialzine](https://tutorialzine.com/tag/resources)
@@ -1045,7 +1046,6 @@ Forward?
 [Micromodal.js - Tiny javascript library for creating accessible modal dialogs](https://micromodal.now.sh/)
 [gdkraus/accessible-modal-dialog: An demonstration of how to code a modal dialog/window so that it is accessible to people with disabilities.](https://github.com/gdkraus/accessible-modal-dialog)
 [SweetAlert2 - a beautiful, responsive, customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes](https://sweetalert2.github.io/)
-[notie - jaredreich.com](https://jaredreich.com/notie)
 
 ### Tooptip
 
@@ -1059,6 +1059,11 @@ Forward?
 
 [Home - NOTY - a dependency-free notification library](https://ned.im/noty/#/) DEPRECATED
 [Notifications in React JS using Noty](https://blog.praveen.science/notifications-in-react-js-using-noty/)
+
+[notie - jaredreich.com](https://jaredreich.com/notie)
+[jaredreich/notie: 🔔 a clean and simple notification, input, and selection suite for javascript, with no dependencies](https://github.com/jaredreich/notie)
+
+[CodeSeven/toastr: Simple javascript toast notifications](https://github.com/CodeSeven/toastr)
 
 ### Zip
 

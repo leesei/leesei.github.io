@@ -2,6 +2,7 @@
 title: CSS Notes
 description: ""
 created: 2015-12-21
+updated: 2023-03-21
 tags:
   - css
   - web
@@ -21,6 +22,7 @@ tags:
 
 [The Importance of Learning CSS](https://www.joshwcomeau.com/css/the-importance-of-learning-css/)
 [Understanding the CSS Specifications](https://www.w3.org/Style/CSS/read)
+[5 tips to become better at CSS - DEV Community](https://dev.to/sp90/5-tips-to-become-better-at-css-3d24)
 [Modern CSS Explained For Dinosaurs – Actualize – Medium](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525)
 
 [Where is CSS4? When is it coming out? - YouTube](https://www.youtube.com/watch?v=Jtmkk6odggs)
@@ -671,6 +673,9 @@ Create a file named `<component>.module.css` and `import styles from './<compone
 [CSS Diner - Where we feast on CSS Selectors!](http://flukeout.github.io/)
 [CSS Selectors: The Full Reference Guide 🚀 - DEV Community](https://dev.to/underscorecode/css-selectors-the-full-reference-guide-3cbf)
 
+[The Skinny on CSS Attribute Selectors | CSS-Tricks](https://css-tricks.com/attribute-selectors/)
+[How and why to use attribute selectors in CSS - LogRocket Blog](https://blog.logrocket.com/use-attribute-selectors-css/)
+
 [The 30 CSS Selectors You Must Memorize](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048) !important
 [Selectors - Web developer guides | MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_Started/Selectors)
 
@@ -683,8 +688,6 @@ Create a file named `<component>.module.css` and `import styles from './<compone
 [The dangers of nesting abuse in CSS compilers](http://belenalbeza.com/the-dangers-of-nesting-abuse-in-css-compilers/)
 [Understanding Style Precedence in CSS: Specificity, Inheritance, and the Cascade - Vanseo Design](http://vanseodesign.com/css/css-specificity-inheritance-cascaade/)
 [CSS Specificity Wars | Stuff & Nonsense blog](https://stuffandnonsense.co.uk/archives/css_specificity_wars.html)
-
-[The Skinny on CSS Attribute Selectors | CSS-Tricks](https://css-tricks.com/attribute-selectors/)
 
 [Webstock ‘11: Nicole Sullivan - CSS Tools for Massive Websites on Vimeo](https://vimeo.com/72759139) [blog](http://www.stubbornella.org/content/2011/04/28/our-best-practices-are-killing-us/) specificity
 Abstract look and feel as class, add class to element as mixins
@@ -813,6 +816,10 @@ The overlay should be a `absolute` position in a `relative` container, together 
 [Learn CSS Units – Em, Rem, VH, and VW with Code Examples ✨✨](https://www.freecodecamp.org/news/learn-css-units-em-rem-vh-vw-with-code-examples/)
 [Investigating the new CSS viewport-relative units - LogRocket Blog](https://blog.logrocket.com/investigating-new-css-viewport-relative-units/) Vi, Vb
 
+[Logical Properties](https://web.dev/learn/css/logical-properties/) based on text rather than space, handles rlt and vertical layouts seamlessly
+[Late to Logical | CSS-Tricks - CSS-Tricks](https://css-tricks.com/late-to-logical/)
+[Logical properties](https://youtu.be/-oyeaIirVC0?t=418)
+
 [Container Units Should Be Pretty Handy | CSS-Tricks](https://css-tricks.com/container-units-should-be-pretty-handy/)
 
 ## Color
@@ -832,6 +839,8 @@ The overlay should be a `absolute` position in a `relative` container, together 
 
 ## Image
 
+[How to Show Images on Click | CSS-Tricks](https://css-tricks.com/how-to-show-images-on-click/)
+
 [html - How do I auto-resize an image to fit a 'div' container? - Stack Overflow](https://stackoverflow.com/questions/3029422/how-do-i-auto-resize-an-image-to-fit-a-div-container)
 [object-fit | CSS-Tricks](https://css-tricks.com/almanac/properties/o/object-fit/)
 [Cropping Images in CSS With object-fit ← Alligator.io](https://alligator.io/css/cropping-images-object-fit/)
@@ -841,11 +850,8 @@ The overlay should be a `absolute` position in a `relative` container, together 
 [Image Fitting](https://cloudinary.com/visualweb/display/IMMC/Image+Fitting)
 [Preserve an Image's Aspect Ratio When Resized | kirupa.com](https://www.kirupa.com/html5/preserve_an_image_aspect_ratio_when_resized.htm)
 
-[How to Show Images on Click | CSS-Tricks](https://css-tricks.com/how-to-show-images-on-click/)
-
 [First Look At The CSS object-view-box Property - Ahmad Shadeed](https://ishadeed.com/article/css-object-view-box/)
-
-[next/image | Next.js](https://nextjs.org/docs/api-reference/next/image#layout)
+[A guide to CSS object-view-box - LogRocket Blog](https://blog.logrocket.com/guide-css-object-view-box/)
 
 ## Media Queries
 
@@ -894,13 +900,12 @@ The overlay should be a `absolute` position in a `relative` container, together 
 [Modern Layouts: Getting Out of Our Ruts // Speaker Deck](https://speakerdeck.com/jensimmons/modern-layouts-getting-out-of-our-ruts-3)
 
 [Build a Responsive, Modern Dashboard Layout With CSS Grid and Flexbox](https://medium.com/better-programming/build-a-responsive-modern-dashboard-layout-with-css-grid-and-flexbox-bd343776a97e)
+[Solving All CSS Layout Issues — any screen, any root font size, without JS | by Joana Borges Late | Mar, 2023 | Level Up Coding](https://levelup.gitconnected.com/solving-all-css-layout-issues-any-screen-any-root-font-size-without-js-62349644a71e)
 
 [Layout Land - YouTube](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
 [Don’t Use My Grid System (or any others) - Miriam Suzanne - btconfDUS2018 on Vimeo](https://vimeo.com/268576559)
 
 [Methods for Equal Height Columns by Craig Fox on CodePen](https://codepen.io/craigwfox/post/methods-for-equal-height-columns)
-
-[Logical properties](https://youtu.be/-oyeaIirVC0?t=418), handles rlt and vertical layouts seamlessly
 
 ### Viewport
 
@@ -1031,7 +1036,8 @@ Spacing:
 
 #### Libraries
 
-> see `#bulma`
+[[#Bulma]]
+[[#Tailwind]]
 
 [React Blocks](http://whoisandy.github.io/react-blocks/)
 
@@ -1039,6 +1045,11 @@ Spacing:
 
 [kristoferjoseph/flexboxgrid: Grid based on CSS3 flexbox](https://github.com/kristoferjoseph/flexboxgrid)
 [roylee0704/react-flexbox-grid: A set of React components implementing flexboxgrid with the power of CSS Modules.](https://github.com/roylee0704/react-flexbox-grid)
+
+#### Yoga
+
+[Yoga Layout | A cross-platform layout engine](https://yogalayout.com/)
+[facebook/yoga: Yoga is a cross-platform layout engine which implements Flexbox.](https://github.com/facebook/yoga)
 
 ### Grid
 
@@ -1057,6 +1068,7 @@ IE 10 and 11 support a outdated Grid syntax.
 [What We Want from Grid | CSS-Tricks - CSS-Tricks](https://css-tricks.com/what-we-want-from-grid/) SVG scaling issue in comments
 [Simple Named Grid Areas - CSS-Tricks](https://css-tricks.com/simple-named-grid-areas/) !important
 [Grid Layout Ah-ha Moment - Ahmad Shadeed](https://ishadeed.com/article/css-grid/) !important
+[CSS Grid Handbook – Complete Guide to Grid Containers and Grid Items](https://www.freecodecamp.org/news/complete-guide-to-css-grid/)
 [CSS Grid Template Areas In Action - Ahmad Shadeed](https://ishadeed.com/article/grid-area/) [codepen](https://codepen.io/shadeed/pen/f88b1ee06e63a2691f24328c2123aeba)
 [How to Use CSS Grid Layout – Grid Properties Explained with Examples](https://www.freecodecamp.org/news/how-to-use-css-grid-layout/)
 [Learn CSS Grid the easy way - YouTube](https://www.youtube.com/watch?v=rg7Fvvl3taU)
@@ -1310,6 +1322,7 @@ use responsive font size (`vw`/`vh`) on small screen, use fixed font size on lar
 [53 CSS-Techniques You Couldn't Live Without — Smashing Magazine](https://www.smashingmagazine.com/2007/01/53-css-techniques-you-couldnt-live-without/)
 [12 CSS tips and tricks - Duomly Blog - Programming courses online](https://www.blog.duomly.com/12-css-tips-and-tricks-which-help-you-to-create-an-amazing-websites/)
 [3 underused CSS features to learn for 2020 - DEV Community 👩‍💻👨‍💻](https://dev.to/brob/3-underused-css-features-to-learn-for-2020-14fl)
+[6 CSS snippets every front-end developer should know in 2023](https://web.dev/6-css-snippets-every-front-end-developer-should-know-in-2023/)
 
 [Good and Bad CSS Practices for Beginners](https://speckyboy.com/2016/05/10/good-bad-css-practices/)
 [You should avoid these 7 CSS No-Gos! ☝️ - DEV Community 👩‍💻👨‍💻](https://dev.to/webdeasy/you-should-avoid-these-7-css-no-gos-2kj)

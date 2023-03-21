@@ -38,10 +38,11 @@ WITH
 SELECT * FROM cte1 JOIN cte2
 ```
 
-[me talking out loud » Blog Archive » “Getting” Joins](http://www.khankennels.com/blog/index.php/archives/2007/04/20/getting-joins/)
 [A Visual Explanation of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
+[me talking out loud » Blog Archive » “Getting” Joins](http://www.khankennels.com/blog/index.php/archives/2007/04/20/getting-joins/)
 
 [SQL Fundamentals from @iamtylerwclark on @eggheadio](https://egghead.io/courses/sql-fundamentals)
+[SQL Riddles to Test Your Wits. Timestamps, dependent filters, and… | by Matt Sosna | Feb, 2023 | Towards Data Science](https://towardsdatascience.com/sql-riddles-to-test-your-wits-8ce31202ae7f)
 
 [SQL Fiddle](http://sqlfiddle.com/)
 [Format SQL Server Queries Easily - Online SQL Formatter | Devart](http://www.sql-format.com/) "Subquery" -> "Indent subquery"

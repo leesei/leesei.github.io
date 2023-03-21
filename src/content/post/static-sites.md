@@ -13,6 +13,7 @@ tags:
 [[astro]]
 [[nextjs]]
 [[dev-documentation]]
+[[web-asset-optimization]]
 
 [StaticGen | Top Open Source Static Site Generators](https://www.staticgen.com/)
 [Static Site Generator | Nikola](https://getnikola.com/)

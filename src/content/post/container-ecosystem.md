@@ -23,6 +23,7 @@ tags:
 [The ABC of DevOps Implementation With Containerization and Docker - DZone DevOps](https://dzone.com/articles/the-abc-of-devops-implementation-with-containeriza)
 
 [Inside the Linux Container Ecosystem - Online Edition](https://www.sdxcentral.com/reports/linux-container-ecosystem/)
+[4 container design patterns for Kubernetes | by Daniele Polencic | Feb, 2023 | ITNEXT](https://itnext.io/4-container-design-patterns-for-kubernetes-a8593028b4cd)
 [The Docker Ecosystem | DigitalOcean](https://www.digitalocean.com/community/tutorial_series/the-docker-ecosystem) !important, 2015-01
 [Sysdig | The Container Ecosystem Project](https://sysdig.com/blog/the-container-ecosystem-project/) 2015-10
 [Docker Ecosystem Rosetta Stones – zwischenzugs](https://zwischenzugs.com/2015/12/22/docker-ecosystem-rosetta-stones/) 2015-12
@@ -34,6 +35,7 @@ tags:
 [Codeship Webinar Video: An Introduction to Web Apps with Docker](http://resources.codeship.com/webinars/thank-you-video-an-introduction-to-web-apps-with-docker)
 [解读 2017 之容器篇：后 Kubernetes 时代](https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&mid=2247488689&idx=1&sn=00fe79c0156d62f7db6d8ef2447457b2&=41) history
 [The Docker Ecosystem: An Introduction to Common Components | DigitalOcean](https://www.digitalocean.com/community/tutorials/the-docker-ecosystem-an-introduction-to-common-components) 2015-02
+[Docker Vs. AWS ECS Vs. Azure Vs. Kubernetes: Container Face-Off | CRN](https://www.crn.com/news/cloud/docker-vs-aws-ecs-vs-azure-vs-kubernetes-container-face-off)
 
 [Fundamentals of Containers, Kubernetes, and Red Hat OpenShift | edX](https://www.edx.org/course/fundamentals-containers-kubernetes-red-hat-do081x)
 [50+ Useful Docker Tools | Caylent](http://caylent.com/50-useful-docker-tools/)

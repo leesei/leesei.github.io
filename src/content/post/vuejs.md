@@ -221,10 +221,6 @@ Vue provides hooks for CSS/JavaScript animation
 
 [VueJS + TailwindCSS = A match made in heaven - VueTailwind](https://vuetailwind.com/)
 
-[Vue-Multiselect | Vue Select Library](https://vue-multiselect.js.org/)
-
-[justjavac/vue-cli-renderer](https://github.com/justjavac/vue-cli-renderer)
-
 ## Ecosystem
 
 [Plugins | Vue.js](https://vuejs.org/guide/reusability/plugins.html)
@@ -240,6 +236,14 @@ Vue Router 4 (for Vue 3) is Vue's official routing library. vue-router provides 
 [tangbc/vue-virtual-scroll-list: ⚡️ A vue component support big amount data list with high scroll performance.](https://github.com/tangbc/vue-virtual-scroll-list#readme)
 
 [Useful Vue Directives — Tooltips and Scroll Lock - The Startup - Medium](https://medium.com/swlh/useful-vue-directives-tooltips-and-scroll-lock-1621daeab625)
+
+### UI Components
+
+[Vue-Multiselect | Vue Select Library](https://vue-multiselect.js.org/)
+
+[Vue-Toastification](https://vue-toastification.maronato.dev/)
+
+[justjavac/vue-cli-renderer](https://github.com/justjavac/vue-cli-renderer)
 
 ## Vue 2
 

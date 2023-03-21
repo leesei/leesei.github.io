@@ -33,6 +33,11 @@ Canvas Interaction
 
 [Read Leaflet Tips and Tricks | Leanpub](https://leanpub.com/leaflet-tips-and-tricks/read)
 
+## kepler.gl
+
+[kepler.gl](https://kepler.gl/)
+[keplergl/kepler.gl: Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.](https://github.com/keplergl/kepler.gl)
+
 ---
 
 ## Projection

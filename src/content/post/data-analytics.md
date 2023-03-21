@@ -210,6 +210,8 @@ Beam is introducing a framework through which APIs in languages other than Java 
 [MatrixDS – A community for working on and sharing advanced analytics](https://matrixds.com/)
 [Deepnote - Data science notebook for teams](https://deepnote.com/)
 
+[Introducing the Jupyter Extension for VS Code - Python](https://devblogs.microsoft.com/python/introducing-the-jupyter-extension-for-vs-code/)
+
 [Jupyter Notebook: An Introduction – Real Python](https://realpython.com/jupyter-notebook-introduction/)
 [Basics of Jupyter Notebook and Python | Packt Hub](https://hub.packtpub.com/basics-jupyter-notebook-python/)
 [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
@@ -268,6 +270,11 @@ Beam is introducing a framework through which APIs in languages other than Java 
 ### Jupylet
 
 [JUPYLET PROGRAMMER’S REFERENCE GUIDE — Jupylet documentation](https://jupylet.readthedocs.io/en/latest/index.html)
+
+### Polyglot Notebook
+
+[Announcing Polyglot Notebooks! Multi-language notebooks in Visual Studio Code - .NET Blog](https://devblogs.microsoft.com/dotnet/announcing-polyglot-notebooks-harness-the-power-of-multilanguage-notebooks-in-visual-studio-code/)
+[Polyglot Notebooks fully released for VS Code, with support for multiple languages - not including Python • DEVCLASS](https://devclass.com/2023/03/17/polyglot-notebooks-fully-released-for-vs-code-with-support-for-multiple-languages-not-including-python/) history of Jupyter Notebook
 
 ## Datasets
 

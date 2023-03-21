@@ -2,6 +2,7 @@
 title: Next.js
 description: ""
 created: 2021-01-19
+updated: 2023-03-21
 tags:
   - reactjs
   - static-site
@@ -117,9 +118,6 @@ npx build && npx export -o build/ # static HTML (SSG) without need of app server
 [Data Fetching: getStaticProps | Next.js](https://nextjs.org/docs/api-reference/data-fetching/get-static-props)
 [Data Fetching in Next.js](https://blog.openreplay.com/data-fetching-in-next-js/)
 
-[i18next/next-i18next: The easiest way to translate your NextJs apps.](https://github.com/i18next/next-i18next#static-html-export-ssg)
-[Static HTML Export with i18n compatibility in Next.js](https://locize.com/blog/next-i18n-static/)
-
 [What do you know about pre-rendering, SSG,& getStaticProps in Next.js? – TecForFun](https://www.tecforfun.com/frameworks/what-do-you-know-about-pre-rendering-ssg-getstaticprops-in-next-js/)
 [How to use getStaticPaths on dynamic routes in Next.js – TecForFun](https://www.tecforfun.com/frameworks/how-to-ulilize-getstaticpaths-on-dynamic-routes-in-next-js/)
 
@@ -151,6 +149,12 @@ Equivalent to `http-proxy-middleware`'s `src/setupProxy.js`
 [With Iron Session](https://iron-session-example.vercel.app/)
 
 [next.js/examples/with-supertokens at main · vercel/next.js](https://github.com/vercel/next.js/tree/main/examples/with-supertokens)
+
+## i18n
+
+[i18next/next-i18next: The easiest way to translate your NextJs apps.](https://github.com/i18next/next-i18next#static-html-export-ssg)
+[Static HTML Export with i18n compatibility in Next.js](https://locize.com/blog/next-i18n-static/)
+[Internationalization In Next.js 13 With React Server Components — Smashing Magazine](https://www.smashingmagazine.com/2023/03/internationalization-nextjs-13-react-server-components/)
 
 ## Image
 

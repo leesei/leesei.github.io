@@ -6,13 +6,13 @@ tags:
   - flux
   - javascript
   - reactjs
+  - reactjs-state
   - web
   - web-dev
 ---
 
 Sometimes React.js alone may serve your need, you don't have to prematurely flux it.
 [The Case for Flux — Startups, Wanderlust, and Life Hacking — Medium](https://medium.com/swlh/the-case-for-flux-379b7d1982c6)
-[GantMan/ReactStateMuseum: A whirlwind tour of React state management systems by example](https://github.com/GantMan/ReactStateMuseum)
 
 And there are other strategies besides Flux for architecting your application.
 [6 no-Flux strategies for React component communication](http://andrewhfarmer.com/component-communication/)
@@ -150,3 +150,11 @@ State.on("test:tick", (tick) => {
 
 - Put state in `Container`
 - Subscribe to `Container` in components
+
+## Rematch
+
+> uses Redux core, alternative to Redux Toolkit
+
+[Rematch | Rematch](https://rematchjs.org/)
+[Introduction | Rematch](https://rematchjs.org/docs/)
+[Rematch - a better Redux?](https://blog.openreplay.com/rematch-a-better-redux)

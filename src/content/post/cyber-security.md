@@ -170,6 +170,8 @@ OpenVAS
 [trufflesecurity/trufflehog: Find credentials all over the place](https://github.com/trufflesecurity/trufflehog)
 [RhinoSecurityLabs/pacu: The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.](https://github.com/RhinoSecurityLabs/pacu)
 
+[SCARLETEEL: Operation leveraging Terraform, Kubernetes, and AWS for data theft – Sysdig](https://sysdig.com/blog/cloud-breach-terraform-data-theft/)
+
 ### Honeypot
 
 [Kippo - SSH Honeypot](https://www.kitploit.com/2019/06/kippo-ssh-honeypot.html)

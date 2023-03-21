@@ -2,6 +2,7 @@
 title: Money and Banking
 description: ""
 created: 2015-10-09
+updated: 2023-03-21
 tags:
   - economics
   - monetary-policy
@@ -13,6 +14,8 @@ tags:
 
 [This cartoon explains how the rich got rich and the poor got poor - Vox](http://www.vox.com/2016/5/23/11704246/wealth-inequality-cartoon)
 [Income-Inequality.info - explore income inequality data](https://income-inequality.info/)
+
+[Mapped: Minimum Wage Around the World](https://www.visualcapitalist.com/minimum-wage-around-the-world/)
 
 [Is Inequality Inevitable? - Scientific American](https://www.scientificamerican.com/article/is-inequality-inevitable/)
 [Why do The Rich Get Richer? - by Philip Rosedale](https://philiprosedale.substack.com/p/why-do-the-rich-get-richer?s=r)
@@ -43,7 +46,7 @@ tags:
 
 ## Cryptocurrency
 
-> see `blockchain.md#cryptocurrency`
+[[blockchain##Cryptocurrency]]
 
 ### Ars Technica
 

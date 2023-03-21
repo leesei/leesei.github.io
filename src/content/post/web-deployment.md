@@ -2,10 +2,13 @@
 title: Web Deployment
 description: ""
 created: 2016-02-05
+updated: 2023-03-20
 tags:
   - web
-  - web-deploy
+  - web/deploy
 ---
+
+[[devops]]
 
 [毛記電視網站是怎樣練成的？| Gap 撈 Tech](http://blog.gaplotech.com/how-tvmost-is-built/)
 [tech@TVB – Medium](https://medium.com/techattvb)
@@ -110,7 +113,3 @@ class ParameterizedSimulation extends Simulation {
 [Object Storage versus Block Storage: Understanding the Technology Differences - Druva](http://www.druva.com/blog/object-storage-versus-block-storage-understanding-technology-differences/)
 [Block vs. file storage to support virtual server environments - Storage Technology Magazine](http://searchstorage.techtarget.com/magazineContent/Block-vs-file-storage-to-support-virtual-server-environments)
 [How an object store differs from file and block storage](http://searchcloudstorage.techtarget.com/feature/How-an-object-store-differs-from-file-and-block-storage)
-
-## ops stuff
-
-> `~/caravan/devops`, `devops.md`

@@ -1467,13 +1467,16 @@ only supports 2.7 and lacked the performance improvements originally intended, a
 [Welcome to mypyc documentation! — mypyc documentation](https://mypyc.readthedocs.io/en/latest/) use type hints
 [mypyc/mypyc: Compile type annotated Python to fast C extensions](https://github.com/mypyc/mypyc)
 
-```
+```sh
 pip install mypy
 mypyc .../module.py
 python -c "import module"
 ```
 
-[Shed Skin — An experimental (restricted-Python)-to-C++ compiler](https://shedskin.github.io/) 2.4-2.6, deprecated
+[Exaloop](https://exaloop.io/)
+[Welcome to Codon - Codon](https://docs.exaloop.io/codon)
+[exaloop/codon: A high-performance, zero-overhead, extensible Python compiler using LLVM](https://github.com/exaloop/codon)
+[Python-based compiler achieves orders-of-magnitude speedups | MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2023/codon-python-based-compiler-achieve-orders-magnitude-speedups-0314)
 
 ### C-binding
 

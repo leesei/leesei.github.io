@@ -12,7 +12,7 @@ tags:
 [Web Components Resources](http://ebidel.github.io/webcomponents/)
 [open-wc](https://open-wc.org/)
 
-[Custom Elements Everywhere](https://custom-elements-everywhere.com/)
+[Custom Elements Everywhere](https://custom-elements-everywhere.com/) Making sure frameworks and custom elements can be BFFs
 
 [AMP - a web component framework to easily create user-first web experiences - amp.dev](https://amp.dev/)
 

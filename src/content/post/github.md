@@ -153,6 +153,7 @@ Put YAML in `.github/workflows/`
 [actions/virtual-environments: GitHub Actions virtual environments](https://github.com/actions/virtual-environments)
 [verona/update-snmalloc.yaml at master · microsoft/verona](https://github.com/microsoft/verona/blob/master/.github/workflows/update-snmalloc.yaml)
 
+[A guide to using act with GitHub Actions - LogRocket Blog](https://blog.logrocket.com/guide-using-act-github-actions/)
 [How to build a CI/CD pipeline with GitHub Actions in four simple steps | The GitHub Blog](https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/)
 [7 advanced workflow automation features with GitHub Actions | The GitHub Blog](https://github.blog/2021-11-18-7-advanced-workflow-automation-features-with-github-actions/)
 [Building Your First GitHub Action | Azure DevOps Blog](https://devblogs.microsoft.com/devops/building-your-first-github-action/)

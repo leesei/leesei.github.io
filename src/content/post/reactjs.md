@@ -1,7 +1,8 @@
 ---
 title: React.js
-description: ""
+description: "The library for web and native user interfaces"
 created: 2015-12-04
+updated: 2023-03-21
 tags:
   - frontend
   - javascript
@@ -11,18 +12,17 @@ tags:
 ---
 
 > React is moving fast, post older then 2 years should be discarded
+> TODO: remove old docs (reviewed to `#Hook`)
 
-[Getting Started | React](http://facebook.github.io/react/docs/getting-started.html)
-[Tutorial | React](http://facebook.github.io/react/docs/tutorial.html)
-[Thinking in React | React](http://facebook.github.io/react/docs/thinking-in-react.html)
-[reactjs/react-basic: A description of the conceptual model of React without implementation burden.](https://github.com/reactjs/react-basic)
-[React Tutorial: A Comprehensive Guide to learning React.js in 2018](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
+[React – The library for web and native user interfaces](https://react.dev/)
+[Quick Start – React](https://react.dev/learn)
+[Introducing react.dev – React](https://react.dev/blog/2023/03/16/introducing-react-dev)
+
 [Learn React - Best React Tutorials (2022) | gitconnected](https://gitconnected.com/learn/react)
 [The Beginner's Guide to React | egghead.io](https://egghead.io/courses/the-beginner-s-guide-to-react) 2021
 [React Crash Course for Beginners 2021 - Learn ReactJS from Scratch in this 100% Free Tutorial! - YouTube](https://www.youtube.com/watch?v=Dorf8i6lCuk)
 [React Course - Beginner's Tutorial for React JavaScript Library [2022] - YouTube](https://www.youtube.com/watch?v=bMknfKXIFA8)
 [React Tutorial: Learn React JS - Free 11-Hour Course](https://scrimba.com/learn/learnreact)
-[Watch The 2020 Reactathon San Francisco Developer Conference for Free](https://www.freecodecamp.org/news/reactathon-2020-conference-live-youtube/)
 
 [ReactJs Roadmap🗺 for beginners - 2021 - DEV Community](https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en) mind map
 [Why React Hooks? - YouTube](https://www.youtube.com/watch?v=eX_L39UvZes) an overview of React API history
@@ -46,15 +46,43 @@ React blends view and controller more the higher up in the component hierarchy. 
 [Learn](https://reactarmory.com/guides)
 [React Fundamentals](https://frontarm.com/courses/react-fundamentals) some free lessons
 
-[What’s new in the React.js 16 JavaScript UI library | InfoWorld](https://www.infoworld.com/article/3228113/react/whats-new-in-the-react-16-javascript-ui-library.html)
-[What's New in React v16.6](https://alligator.io/react/whats-new-react-16.6/)
-[Why React16 is a blessing to React developers – freeCodeCamp.org](https://medium.freecodecamp.org/why-react16-is-a-blessing-to-react-developers-31433bfc210a)
-`React.lazy()`, `React.memo()`, Context API
-[Sneak Peek: Beyond React 16 – React Blog](https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html)
-[React 16.x Roadmap – React Blog](https://reactjs.org/blog/2018/11/27/react-16-roadmap.html)
-[Dan Abramov: Beyond React 16 | JSConf Iceland 2018 - YouTube](https://www.youtube.com/watch?v=nLF0n9SACd4)
+[Watch The 2020 Reactathon San Francisco Developer Conference for Free](https://www.freecodecamp.org/news/reactathon-2020-conference-live-youtube/)
+
+## Introduction
+
+[React Screencasts](https://www.reactscreencasts.com/crash_courses/react_with_hooks)
+
+[Fullstack React 🐬: React Tutorial: Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
+[Fullstack React: 30 Days of React](https://www.fullstackreact.com/30-days-of-react/)
+[Start Learning React from @joemaddalone on @eggheadio](https://egghead.io/courses/start-learning-react)
+[React Testing Cookbook from @trevordmiller on @eggheadio](https://egghead.io/courses/react-testing-cookbook)
+
+[React.Component – React](https://reactjs.org/docs/react-component.html)
+[React lifecycle methods diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/) [src](https://github.com/wojtekmaj/react-lifecycle-methods-diagram)
+[React Component Lifecycle - DEV Community 👩‍💻👨‍💻](https://dev.to/jaylcaetano/react-component-lifecycle-2npl)
+
+[JavaScript's History and How it Led To ReactJS - The New Stack](http://thenewstack.io/javascripts-history-and-how-it-led-to-reactjs/)
+[Baby’s First Reaction — JavaScript Scene — Medium](https://medium.com/javascript-scene/baby-s-first-reaction-2103348eccdd)
+[The React Handbook](https://flaviocopes.com/page/react-handbook/)
+[ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
+[Josh Haberman: React Demystified](http://blog.reverberate.org/2014/02/react-demystified.html)
+[The React.js Way: Getting Started Tutorial](http://blog.risingstack.com/the-react-way-getting-started-tutorial/)
+[ifandelse/ReactJS-Rethinking-Web-UI](https://github.com/ifandelse/ReactJS-Rethinking-Web-UI)
+[ES2015 (ES6) Features Commonly Used with Functional Style React - BEKK Open](http://open.bekk.no/es2015-es6-features-commonly-used-with-functional-style-react)
+[Introduction | React 入门教程](http://hulufei.gitbooks.io/react-tutorial/content/)
+[Setting State in React - Frontend Masters](https://frontendmasters.com/courses/react/setting-state/)
+[These are the concepts you should know in React.js (after you learn the basics)](https://medium.freecodecamp.org/these-are-the-concepts-you-should-know-in-react-js-after-you-learn-the-basics-ee1d2f4b8030)
+[Reintroducing React: every React update since v16 demystified.](https://medium.freecodecamp.org/reintroducing-react-every-react-update-since-v16-demystified-60686ee292cc)
+
+[React JS Todo 2 - JSFiddle](http://jsfiddle.net/johnthethird/NXCyC/9/)
+
+[Want to learn React.js? Here’s my free course which teaches it by building a chat app.](https://medium.freecodecamp.org/want-to-learn-react-js-heres-my-free-course-which-teaches-it-through-building-a-chat-app-c86333e5b88c)
+[Building a chat app with React.js and Chatkit | Scrimba.com](https://scrimba.com/g/greactchatkit)
+[Building a React-based Chat Client with Redux – ITNEXT](https://itnext.io/building-a-react-based-chat-client-with-redux-816b47cb8c74)
 
 ## React Project
+
+> DO NOT use Create React App anymore
 
 ```sh
 npm create vite@latest my-app -- --template react-ts
@@ -93,59 +121,9 @@ yarn create next-app --ts my-app
 [Scalable file structure for React and other projects](https://react-file-structure.surge.sh/)
 move files around until it feels right
 
-### Environments
+## Commentary
 
-[My Awesome Custom React Environment Variables Setup](https://medium.com/@robertsavian/my-awesome-custom-react-environment-variables-setup-8ebb0797d8ac)
-[Feature/different env config files #1343 by tuchk4 · Pull Request #1344 · facebook/create-react-app](https://github.com/facebook/create-react-app/pull/1344)
-[bkeepers/dotenv: A Ruby gem to load environment variables from `.env`.](https://github.com/bkeepers/dotenv#what-other-env-files-can-i-use)
-
-[Adding Custom Environment Variables · Create React App](https://create-react-app.dev/docs/adding-custom-environment-variables)
-[Deployment · Create React App](https://create-react-app.dev/docs/deployment#customizing-environment-variables-for-arbitrary-build-environments)
-
-### Live server
-
-[React Live Demo](https://react-live.kitten.sh/)
-[FormidableLabs/react-live: A production-focused playground for live editing React components](https://github.com/FormidableLabs/react-live)
-
-## Introduction
-
-[React Tutorials and Courses - Thinkster](https://thinkster.io/topics/react)
-[Getting Started with React - Thinkster](https://thinkster.io/getting-started-with-react)
-[React Screencasts](https://www.reactscreencasts.com/crash_courses/react_with_hooks)
-[The Road to React](https://roadtoreact.com/) several free courses
-
-[petehunt/react-howto: Your guide to the (sometimes overwhelming!) React ecosystem.](https://github.com/petecinnhunt/react-howto) !important
-[A React Beginners Roadmap through the React Eco System](https://codeburst.io/a-react-beginners-roadmap-through-the-react-eco-system-e27c57e2678a)
-
-[Fullstack React 🐬: React Tutorial: Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
-[Fullstack React: 30 Days of React](https://www.fullstackreact.com/30-days-of-react/)
-[Start Learning React from @joemaddalone on @eggheadio](https://egghead.io/courses/start-learning-react)
-[React Testing Cookbook from @trevordmiller on @eggheadio](https://egghead.io/courses/react-testing-cookbook)
-
-[React.Component – React](https://reactjs.org/docs/react-component.html)
-[React lifecycle methods diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/) [src](https://github.com/wojtekmaj/react-lifecycle-methods-diagram)
-[React Component Lifecycle - DEV Community 👩‍💻👨‍💻](https://dev.to/jaylcaetano/react-component-lifecycle-2npl)
-
-[JavaScript's History and How it Led To ReactJS - The New Stack](http://thenewstack.io/javascripts-history-and-how-it-led-to-reactjs/)
-[Baby’s First Reaction — JavaScript Scene — Medium](https://medium.com/javascript-scene/baby-s-first-reaction-2103348eccdd)
-[The React Handbook](https://flaviocopes.com/page/react-handbook/)
-[ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
-[Josh Haberman: React Demystified](http://blog.reverberate.org/2014/02/react-demystified.html)
-[The React.js Way: Getting Started Tutorial](http://blog.risingstack.com/the-react-way-getting-started-tutorial/)
-[ifandelse/ReactJS-Rethinking-Web-UI](https://github.com/ifandelse/ReactJS-Rethinking-Web-UI)
-[ES2015 (ES6) Features Commonly Used with Functional Style React - BEKK Open](http://open.bekk.no/es2015-es6-features-commonly-used-with-functional-style-react)
-[Introduction | React 入门教程](http://hulufei.gitbooks.io/react-tutorial/content/)
-[Setting State in React - Frontend Masters](https://frontendmasters.com/courses/react/setting-state/)
-[These are the concepts you should know in React.js (after you learn the basics)](https://medium.freecodecamp.org/these-are-the-concepts-you-should-know-in-react-js-after-you-learn-the-basics-ee1d2f4b8030)
-[Reintroducing React: every React update since v16 demystified.](https://medium.freecodecamp.org/reintroducing-react-every-react-update-since-v16-demystified-60686ee292cc)
-
-[React JS Todo 2 - JSFiddle](http://jsfiddle.net/johnthethird/NXCyC/9/)
-
-[Want to learn React.js? Here’s my free course which teaches it by building a chat app.](https://medium.freecodecamp.org/want-to-learn-react-js-heres-my-free-course-which-teaches-it-through-building-a-chat-app-c86333e5b88c)
-[Building a chat app with React.js and Chatkit | Scrimba.com](https://scrimba.com/g/greactchatkit)
-[Building a React-based Chat Client with Redux – ITNEXT](https://itnext.io/building-a-react-based-chat-client-with-redux-816b47cb8c74)
-
-## Why React
+### Why React
 
 [Why We Moved From Angular to React](http://blog.belong.co/why-we-moved-from-angular-to-react)
 [Why I Ditched Angular for React](http://sixrevisions.com/javascript/why-i-ditched-angular-for-react/)
@@ -162,43 +140,26 @@ move files around until it feels right
 [Is React killing Angular? - Quora](https://www.quora.com/Is-React-killing-Angular)
 [Should I learn ReactJS or AngularJS? - Quora](https://www.quora.com/Should-I-learn-ReactJS-or-AngularJS)
 
-## On the contrary
+### On the contrary
 
 [React vs. Vue: Clash of the JavaScript titans | InfoWorld](https://www.infoworld.com/article/3291619/javascript/react-vs-vue-clash-of-the-javascript-titans.html)
 
 [Don't React - webbisauna](http://staltz.com/dont-react/)
 [You probably shouldn’t be using React – Noteworthy - The Journal Blog](https://blog.usejournal.com/you-probably-shouldt-be-using-react-2f45ca487c8e)
 [Boiling React Down to a Few Lines in jQuery - Hackflow](http://hackflow.com/blog/2015/03/08/boiling-react-down-to-few-lines-in-jquery/)
-[Is React Overrated?. Or does it actually have some merits… | by Aphinya Dechalert | Mad Hash*Map* | Medium](https://medium.com/madhash/is-react-overrated-c7f8efb75e3e)
+[Is React Overrated?. Or does it actually have some merits… | by Aphinya Dechalert | matcha.fyi](https://medium.matcha.fyi/is-react-overrated-c7f8efb75e3e)
 [Really, why React? - DEV Community](https://dev.to/jfbrennan/really-why-react-5958)
 
 ## React/TypeScript
 
-[TypeScript and React](https://fettblog.eu/typescript-react/)
-[TypeScript and React: Events](https://fettblog.eu/typescript-react/events/)
-[Setup TypeScript with React | React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/docs/basic/setup)
-[Minimal TypeScript Crash Course For React - With Interactive Code Exercises](https://profy.dev/article/react-typescript)
+[React TypeScript: Basics and Best Practices | by Fernando Doglio | Bits and Pieces](https://blog.bitsrc.io/react-typescript-cheetsheet-2b6fa2cecfe2)
+[The React TypeScript Cheatsheet – How To Set Up Types on Hooks](https://www.freecodecamp.org/news/react-typescript-how-to-set-up-types-on-hooks/)
+[How to Use TypeScript with React Components](https://dmitripavlutin.com/typescript-react-components/)
+[Making the most boring website ever with TypeScript, NodeJs, React. - YouTube](https://www.youtube.com/playlist?list=PL7b0cPjh8z6K_4qLNu_QdE3RpiU6omViC) 2022
 
 [The React.ReactNode type is a black hole |> Changelog](https://changelog.com/posts/the-react-reactnode-type-is-a-black-hole) `<ReactNode>`, in particular `<ReactFragment>` is equivalent to `any`
 
-[Using TypeScript with React ← Alligator.io](https://alligator.io/react/typescript-with-react/)
-[How to Use TypeScript in React | The Ionic Blog](https://blog.ionicframework.com/how-to-use-typescript-in-react/)
-[Getting started with Typescript in Create React App](https://medium.com/byteconf/getting-started-with-typescript-in-create-react-app-2306b713088f)
-[Using Create React App v2 and TypeScript ― Scotch](https://scotch.io/tutorials/using-create-react-app-v2-and-typescript)
-[Using TypeScript with React ← Alligator.io](https://alligator.io/react/typescript-with-react/)
-[React TypeScript: Basics and Best Practices | by Fernando Doglio | Bits and Pieces](https://blog.bitsrc.io/react-typescript-cheetsheet-2b6fa2cecfe2)
-[How to Migrate a React App to TypeScript - SitePoint](https://www.sitepoint.com/how-to-migrate-a-react-app-to-typescript/)
-[The React TypeScript Cheatsheet – How To Set Up Types on Hooks](https://www.freecodecamp.org/news/react-typescript-how-to-set-up-types-on-hooks/)
-[How to Use TypeScript with React Components](https://dmitripavlutin.com/typescript-react-components/)
-
-[TypeScript and React using create-react-app: A step-by-step guide to setting up your first app](https://levelup.gitconnected.com/typescript-and-react-using-create-react-app-a-step-by-step-guide-to-setting-up-your-first-app-6deda70843a4)
-[React-Redux with Typescript – Better Programming – Medium](https://medium.com/better-programming/react-redux-with-typescript-7ff678bc17ab)
-
-[Making the most boring website ever with TypeScript, NodeJs, React. - YouTube](https://www.youtube.com/playlist?list=PL7b0cPjh8z6K_4qLNu_QdE3RpiU6omViC)
-
-- write all your code in `.ts`/`.tsx`
-- context
-  [reactjs - React createContext issue in Typescript? - Stack Overflow](https://stackoverflow.com/questions/54577865/react-createcontext-issue-in-typescript)
+[reactjs - React createContext issue in Typescript? - Stack Overflow](https://stackoverflow.com/questions/54577865/react-createcontext-issue-in-typescript)
 
 ```js
 import { createContext } from 'react';
@@ -230,8 +191,8 @@ const handleClick: MouseEventHandler<HTMLButtonElement> = (event) => {
 };
 ```
 
-- missing `.d.ts`
-  create `modules.d.ts` and define module
+missing `.d.ts`:
+create `modules.d.ts` and define module
 
 ## Minimal React
 
@@ -240,7 +201,7 @@ const handleClick: MouseEventHandler<HTMLButtonElement> = (event) => {
 [Minimal React.js Without A Build Step (Updated) | Shing's Blog](https://shinglyu.github.io/web/2018/02/08/minimal-react-js-without-a-build-step-updated.html) 2018-02
 [How to add React to a simple html file – Toni Petrina – Medium](https://medium.com/@to_pe/how-to-add-react-to-a-simple-html-file-a11511c0235f) 2017-01
 
-[Pure React](https://daveceddia.com/pure-react/) coupon code: INDIA9?
+[Learn to think in React | Pure React](https://www.purereact.com/) coupon code: INDIA9?
 
 ## Internals
 
@@ -264,14 +225,10 @@ const handleClick: MouseEventHandler<HTMLButtonElement> = (event) => {
 [SyntheticEvent – React](https://reactjs.org/docs/events.html)
 [Getting started with React SyntheticEvent - LogRocket Blog](https://blog.logrocket.com/getting-started-react-synthetic-event/)
 
-[React Components, Elements, and Instances – React Blog](https://reactjs.org/blog/2015/12/18/react-components-elements-and-instances.html)
-[React Components, Elements, and Instances — Medium](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca)
 [How Does React Tell a Class from a Function? — Overreacted](https://overreacted.io/how-does-react-tell-a-class-from-a-function/)
 [Why Do React Elements Have a \$\$typeof Property? — Overreacted](https://overreacted.io/why-do-react-elements-have-typeof-property/)
 
 [Why Do We Write super(props)? — Overreacted](https://overreacted.io/why-do-we-write-super-props/)
-[Understanding Constructors with React Components ← Alligator.io](https://alligator.io/react/constructors-with-react-components/)
-for `this.state` and `this.props`
 
 [Lucy | How does React decide to re-render a component?](https://lucybain.com/blog/2017/react-js-when-to-rerender/)
 
@@ -299,11 +256,10 @@ for `this.state` and `this.props`
 
 ### Fiber/Concurrent Rendering
 
-[React 16: A look inside a rewrite of our frontend UI library - Facebook Code](https://code.fb.com/web/react-16-a-look-inside-an-api-compatible-rewrite-of-our-frontend-ui-library/)
-[Facebook scraps React as we know it, welcomes successor React Fiber - JAXenter](https://jaxenter.com/facebook-rewrites-react-133403.html)
-[Sneak Peek: Beyond React 16 - React Blog](https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html)
-[Update on Async Rendering - React Blog](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)
-[Concurrent UI Patterns (Experimental) – React](https://reactjs.org/docs/concurrent-mode-patterns.html)
+[React v18.0 – React](https://react.dev/blog/2022/03/29/react-v18) Concurrent React
+[React Conf 2021 Recap – React](https://react.dev/blog/2021/12/17/react-conf-2021-recap)
+
+[Concurrent UI Patterns (Experimental) – React](https://reactjs.org/docs/concurrent-mode-patterns.html) outdated
 [acdlite/react-fiber-architecture: A description of React's new core algorithm, React Fiber](https://github.com/acdlite/react-fiber-architecture)
 
 [Get Ready For Concurrent Rendering In React - Well Red - Medium](https://medium.com/well-red/get-ready-for-concurrent-rendering-in-react-120c2fdcd7a9) use `<StrictMode>` to get ready, `<ConcurrentMode>` to opt-in
@@ -313,20 +269,18 @@ for `this.state` and `this.props`
 [React: Rendering using Concurrent Mode and Suspense | by Shanika Wickramasinghe | Bits and Pieces](https://blog.bitsrc.io/react-rendering-using-concurrent-mode-and-suspense-1600c574f996)
 
 [A deep dive into React Fiber - LogRocket Blog](https://blog.logrocket.com/deep-dive-react-fiber/) 2022-03
-[acdlite/react-fiber-architecture: A description of React's new core algorithm, React Fiber](https://github.com/acdlite/react-fiber-architecture)
 [Inside Fiber: in-depth overview of the new reconciliation algorithm in React](https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e)
 [The how and why on React’s usage of linked list in Fiber](https://medium.com/react-in-depth/the-how-and-why-on-reacts-usage-of-linked-list-in-fiber-67f1014d0eb7)
 
 [Lin Clark - A Cartoon Intro to Fiber - React Conf 2017 - YouTube](https://www.youtube.com/watch?v=ZCuYPiUIONs)
 [Andrew Clark: What's Next for React — ReactNext 2016 - YouTube](https://www.youtube.com/watch?v=aV1271hd9ew)
 
-### Fire
-
-[React Fire: Modernizing React DOM · Issue #13525 · facebook/react](https://github.com/facebook/react/issues/13525) an effort to modernize `react-dom`
-
 ## Components
 
-[React.Component - React](https://reactjs.org/docs/react-component.html)
+> many of these are outdated (HOC, props drilling, render props)
+> but lifecycle, slot pattern, controlled vs uncontrolled, compound components are fundamentals
+
+[Component – React](https://react.dev/reference/react/Component)
 
 - Stateful and Stateless
 - Classes and Functions
@@ -355,10 +309,6 @@ Set `displayName` property of the function to help debugging.
 [Anti-patterns to avoid when building a component library in React Native](https://levelup.gitconnected.com/anti-patterns-to-avoid-when-building-a-component-library-in-react-native-61f11d8c9797)
 [How to write great React - The Startup - Medium](https://medium.com/swlh/how-to-write-great-react-c4f23f2f3f4f)
 
-sub-component/namespacing
-[Component Dot Notation with TypeScript | Spencer Miskoviak](https://www.skovy.dev/blog/using-component-dot-notation-with-typescript-to-create-a-set-of-components)
-[Composing React Components with TypeScript | Pluralsight](https://www.pluralsight.com/guides/composing-react-components-with-typescript)
-
 ### Props passing
 
 [Composition vs Inheritance – React](https://reactjs.org/docs/composition-vs-inheritance.html)
@@ -371,7 +321,7 @@ sub-component/namespacing
 [How to use React Context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
 [How to Avoid Prop Drilling with Composition - The Non-Traditional Developer - Medium](https://medium.com/the-non-traditional-developer/how-to-avoid-prop-drilling-with-composition-6862cd4e253a)
 
-[How to pass props to components in React - RWieruch](https://www.robinwieruch.de/react-pass-props-to-component)
+[How to pass props to components in React - RWieruch](https://www.robinwieruch.de/react-pass-props-to-component) slot pattern
 [the-road-to-learn-react/react-slot-pattern-example: An example implementation of React's slot pattern for passing components as props](https://github.com/the-road-to-learn-react/react-slot-pattern-example)
 
 [In-depth explanation of state and props update in React](https://medium.com/react-in-depth/in-depth-explanation-of-state-and-props-update-in-react-51ab94563311)
@@ -382,9 +332,12 @@ An component is _controlled_ if the parent explicitly set its value (probably fr
 Note that controlled components are no longer interactive by default (as it reflects the state). You must use `onChange()` to update the state when the component is changed.
 Also note that `null` or `undefined` are considered uncontrolled in React. Set initial state of controlled component to `''` or `false`.
 
-[Forms | React](https://facebook.github.io/react/docs/forms.html)
+[Sharing State Between Components – React](https://react.dev/learn/sharing-state-between-components#controlled-and-uncontrolled-components)
+[<input> – React](https://react.dev/reference/react-dom/components/input)
+[<select> – React](https://react.dev/reference/react-dom/components/select)
+[<textarea> – React](https://react.dev/reference/react-dom/components/textarea)
+
 [Value of null for Controlled Input | React](https://facebook.github.io/react/tips/controlled-input-null-value.html)
-[Video: Controlled vs Uncontrolled Components in React](http://www.sitepoint.com/video-controlled-vs-uncontrolled-components-in-react/)
 [How “Controllable” React components maximize reusability](https://medium.com/myheritage-engineering/how-controllable-react-components-maximize-reusability-86e3d233fa8e)
 [To Be or Not to Be - Better Programming - Medium](https://medium.com/better-programming/to-be-or-not-to-be-2c372198a01c)
 
@@ -395,211 +348,20 @@ Also note that `null` or `undefined` are considered uncontrolled in React. Set i
 
 [jquense/uncontrollable: Wrap a controlled react component, to allow spcific prop/handler pairs to be uncontrolled](https://github.com/jquense/uncontrollable)
 
-### Compound Components
+### Compound Components/Sub-Components/Namespacing
 
 [React Tutorial - Compound Components in React - Styled Components - React Design Patterns - YouTube](https://www.youtube.com/watch?v=nHMAMS38x-E)
+[Ryan Florence - Compound Components - YouTube](https://www.youtube.com/watch?v=hEGg-3pIHlE) critics on how we compose components, uses `cloneElement()`
+
+[Component Dot Notation with TypeScript | Spencer Miskoviak](https://www.skovy.dev/blog/using-component-dot-notation-with-typescript-to-create-a-set-of-components)
+[Composing React Components with TypeScript | Pluralsight](https://www.pluralsight.com/guides/composing-react-components-with-typescript)
 
 [Compound Components In React — Smashing Magazine](https://www.smashingmagazine.com/2021/08/compound-components-react/)
 [Compound Components with React Context API - Noteworthy - The Journal Blog](https://blog.usejournal.com/compound-components-react-context-38da96bfb384)
-[Ryan Florence - Compound Components - YouTube](https://www.youtube.com/watch?v=hEGg-3pIHlE) critics on how we compose components, uses `cloneElement()`
 [Using the React.cloneElement() function to clone elements - LogRocket Blog](https://blog.logrocket.com/using-react-cloneelement-function/)
-
 [React.js — Compound Components - Dane Sirois - Medium](https://medium.com/@Dane_s/react-js-compound-components-a6e54b5c9992)
 
 [enkidevs/seapig: 🌊🐷 Utility for generalized composition of React components](https://github.com/enkidevs/seapig)
-
-## State
-
-3 camps:
-
-- Flux (Redux, Zustand)
-- Proxy (Mobx, Valtio)
-- Atomic (Recoil, Jotai)
-
-[[flux-alternatives]]
-
-[React State Management – Intermediate JavaScript Course - YouTube](https://www.youtube.com/watch?v=-bEzt5ISACA) 2022-11
-[React State Management in 2020 - Better Programming - Medium](https://medium.com/better-programming/react-state-management-in-2020-719d10c816bf)
-[State of React State Management for 2019 - Bits and Pieces](https://blog.bitsrc.io/state-of-react-state-management-in-2019-779647206bbc)
-[Application State Management – kentcdodds](https://blog.kentcdodds.com/application-state-management-66de608ccb24)
-[Exploring React's State Propagation](https://www.sitepoint.com/exploring-reacts-state-propagation/)
-[Common React.js mistakes: Unneeded state - React Kung Fu](http://reactkungfu.com/2015/09/common-react-dot-js-mistakes-unneeded-state/)
-[State is an antipattern : reactjs](https://www.reddit.com/r/reactjs/comments/3bjdoe/state_is_an_antipattern/)
-[How to become a pro with React setState() in 10 minutes](https://medium.freecodecamp.org/get-pro-with-react-setstate-in-10-minutes-d38251d1c781)
-[How Does setState Know What to Do? — Overreacted](https://overreacted.io/how-does-setstate-know-what-to-do/)
-[How State Updates Are Merged in React - Robin Kim - Medium](https://medium.com/@rykyou/how-state-updates-are-merged-in-react-e07fc669fec2)
-[Top 6 React state management libraries for 2022](https://blog.openreplay.com/top-6-react-state-management-libraries-for-2022)
-[3 Essential Tips for Managing State in React Applications](https://www.telerik.com/blogs/3-essential-tips-for-managing-state-in-react-applications)
-[Changing children's state from another component with React Hooks](https://itnext.io/changing-children-state-from-another-component-with-react-hooks-5c982c042e8) `forwardRef()` and context
-[Where do I put my business logic in a React Redux application? | CodeWinds](http://codewinds.com/blog/2016-08-16-business-logic-redux.html)
-
-[4 options to prevent extra rerenders with React context · Daishi Kato's blog](https://blog.axlight.com/posts/4-options-to-prevent-extra-rerenders-with-react-context/)
-[Global state with React | Basefactor](https://www.basefactor.com/global-state-with-react)
-
-[Four patterns for global state with React hooks: Context or Redux](https://itnext.io/four-patterns-for-global-state-with-react-hooks-context-or-redux-cbc2dc787380)
-[Redux-less context-based useSelector hook that has same performance as React-Redux](https://itnext.io/redux-less-context-based-useselector-hook-that-has-same-performance-as-react-redux-450b1853f744)
-[React Global State without Redux - RWieruch](https://www.robinwieruch.de/react-global-state-without-redux)
-[React State with Hooks: useReducer, useState, useContext - RWieruch](https://www.robinwieruch.de/react-state-usereducer-usestate-usecontext) !important
-[Passing callbacks down with React Hooks - Trabe - Medium](https://medium.com/trabe/passing-callbacks-down-with-react-hooks-4723c4652aff) `useContext()`, with `useMemo()`, `useCallback()` to make the callback stable
-[Improve Performance in React.js Using Hooks - Better Programming - Medium](https://medium.com/better-programming/improve-performance-in-react-js-using-hooks-3d0ebbad6956)
-[React — Why useContext() will clean your code – Michael Majdanski – Medium](https://medium.com/@mmajdanski/react-why-usecontext-will-clean-your-code-ca2b185e23f5)
-[Simple Painter in ReactJS — useContext, useState – Prima – Medium](https://medium.com/@anMagpie/simple-painter-in-reactjs-usecontext-usestate-2f7c1dfc898d)
-[The modern guide to React state patterns - LogRocket Blog](https://blog.logrocket.com/modern-guide-react-state-patterns/)
-
-[React Tracked · Simple and fast global state with React Context. Eliminate unnecessary re-renders without hassle.](https://react-tracked.js.org/)
-[dai-shi/react-tracked: Simple and fast global state with React Context. Eliminate unnecessary re-renders without hassle.](https://github.com/dai-shi/react-tracked)
-
-[useRedux — state management pattern with React Hooks](https://hackernoon.com/useredux-state-management-pattern-with-react-hooks-fa8e1413b9f1)
-[diegohaz/constate: React Context + State](https://github.com/diegohaz/constate)
-
-[developit/stockroom: 🗃 Offload your store management to a worker easily.](https://github.com/developit/stockroom)
-
-[Pullstate · Simple state stores using immer and React hooks](https://lostpebble.github.io/pullstate/)
-
-[storeon/storeon: 🌩 A tiny (185 bytes) event-based Redux-like state manager for React, Preact, Angular, Vue, and Svelte](https://github.com/storeon/storeon)
-[Storeon: "Redux" in 173 bytes — Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/storeon-redux-in-173-bytes)
-[Event-driven state management in React using Storeon - LogRocket Blog](https://blog.logrocket.com/event-driven-state-management-in-react-using-storeon/)
-
-### Context API
-
-> since 16.3
-> TODO: clean-up trivial posts
-
-[Context - React](https://reactjs.org/docs/context.html)
-Store states local to a compound component, alleviate the need for Redux
-
-[diegohaz/awesome-react-context: 😎 A curated list of stuff related to the new React Context API](https://github.com/diegohaz/awesome-react-context)
-
-[Heres how React's New Context API Works - YouTube](https://www.youtube.com/watch?v=XLJN4JfniH4)
-[What can the React Context API do for you? Multi-language text, Modals, and Themes](https://codeburst.io/what-can-react-context-api-do-for-you-multi-language-text-modals-and-theme-switchers-9cfbc8e5ee5e)
-
-[Digging Into React Context | CSS-Tricks](https://css-tricks.com/digging-into-react-context/)
-[Understanding the React Context API ← Alligator.io](https://alligator.io/react/context-api/)
-[Nesting and overriding new React Context API - DEV Community 👩‍💻👨‍💻](https://dev.to/iamandrewluca/nesting-and-overriding-new-react-context-api-220i)
-[An Introduction To React’s Context API — Smashing Magazine](https://www.smashingmagazine.com/2020/01/introduction-react-context-api/)
-[Redux vs. The React Context API](https://daveceddia.com/context-api-vs-redux/)
-[React's Context API explained: Provider and Consumer - RWieruch](https://www.robinwieruch.de/react-context-api)
-[React’s ⚛️ new Context API – DailyJS – Medium](https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b)
-[React Context API – Zsolt Nagy](http://www.zsoltnagy.eu/react-context-api/)
-[React Context API - A Replacement for Redux? – Bits and Pieces](https://blog.bitsrc.io/react-context-api-a-replacement-for-redux-6e20790492b3)
-[React Context API vs Redux — the eternal dichotomy – SoftwareMill Tech Blog](https://blog.softwaremill.com/react-context-api-vs-redux-the-eternal-dichotomy-24639907fc98)
-[Implementing State Management using Context API and Hooks in React - DEV Community 👩‍💻👨‍💻](https://dev.to/gloriamaris/implementing-state-management-using-context-api-and-hooks-in-react-36jk)
-[Learn the React Context API with a Practical Example You Can Bring to Your Apps](https://itnext.io/understanding-the-react-context-api-through-building-a-shared-snackbar-for-in-app-notifications-6c199446b80c)
-[React Context and Re-Renders: React Take the Wheel - Ryan Florence - Medium](https://medium.com/@ryanflorence/react-context-and-re-renders-react-take-the-wheel-cd1d20663647) use state and `setState()` as value for Provider, usable with Hooks
-
-In the old days, most React routers (and Redux) use the undocumented `this.context`
-[React.js: Communication between Components with Contexts - JScrambler Blog](https://blog.jscrambler.com/react-js-communication-between-components-with-contexts/)
-
-### Hook as Redux alternative
-
-> TODO: clean-up trivial posts
-
-Hooks provides some helper functions that can make it an alternative to introducing Redux to your project.
-But React Hooks and Redux are not mutually exclusive!!
-[Stop Asking if React Hooks Replace Redux - The Startup - Medium](https://medium.com/swlh/stop-asking-if-react-hooks-replace-redux-448c54d79551)
-
-> see `redux-js.md#hooks-api`
-
-```js
-import React, { useReducer } from "react";
-export const Store = React.createContext();
-
-const initialState = {
-  counter: 5,
-};
-
-const reducer = (state = initialState, action) => {
-  switch (action.types) {
-    case "ADD":
-      return { ...state, counter: state.counter + 1 };
-    case "SUB":
-      return { ...state, counter: state.counter - 1 };
-    default:
-      return state;
-  }
-};
-
-export const StoreProvider = (props) => {
-  const [state, dispatch] = useReducer(reducer, initialState);
-  return (
-    <Store.Provider value={{ state, dispatch }}>
-      {props.children}
-    </Store.Provider>
-  );
-};
-```
-
-[Simplifying Global State with React Hooks - Pete Givens - Medium](https://medium.com/@pgivens/simplifying-global-state-with-react-hooks-4d7df52d363)
-[React Hooks is the functional paradise you’ve been waiting for](https://medium.com/capbase-engineering/react-hooks-is-the-functional-paradise-youve-been-waiting-for-994e53f65f94)
-[State management using only React Hooks - LogRocket Blog](https://blog.logrocket.com/state-management-using-only-react-hooks/)
-[Using React Hooks to manage local state with Functional Components](https://medium.com/capbase-engineering/part-2-using-react-hooks-to-manage-local-state-with-functional-components-3676fcd5646e)
-[A simpler entry to Redux (without Redux) using React Hooks | by Elliott Greaves | The Startup | Medium](https://medium.com/swlh/a-simpler-entry-to-redux-without-redux-using-react-hooks-3de90ec2f060)
-[The React Hooks based alternative to Redux and the Flux pattern](https://medium.com/capbase-engineering/part-3-the-react-hooks-based-alternative-to-redux-and-the-flux-pattern-a726220a8a9a)
-[Mimic Redux with React Context API and hooks - The Startup - Medium](https://medium.com/swlh/mimic-redux-with-react-context-api-and-hooks-21fbec280205)
-[An alternative to React Redux by React Hooks API (For both JavaScript and TypeScript)](https://itnext.io/an-alternative-to-react-redux-by-react-hooks-api-for-both-javascript-and-typescript-c5e9a351ba0b)
-[Replacing Redux with React Hooks and Context: A small concrete example with reactive-react-redux](https://levelup.gitconnected.com/redux-meets-hooks-for-non-redux-users-a-small-concrete-example-with-reactive-react-redux-6babc881639b)
-[State Management with React Hooks — No Redux or Context API](https://medium.com/javascript-in-plain-english/state-management-with-react-hooks-no-redux-or-context-api-8b3035ceecf8)
-
-[Do React Hooks Replace Redux? - JavaScript Scene - Medium](https://medium.com/javascript-scene/do-react-hooks-replace-redux-210bab340672)
-[Use Hooks + Context, not React + Redux - LogRocket Blog](https://blog.logrocket.com/use-hooks-and-context-not-react-and-redux/) `useContext()`, `useReducer()`
-[React's useReducer vs Redux - RWieruch](https://www.robinwieruch.de/redux-vs-usereducer)
-
-[Life after Redux - ITNEXT](https://itnext.io/life-after-redux-21f33b7f189e)
-[Replace Redux state with React Hooks and Context - ITNEXT](https://itnext.io/replace-redux-state-with-react-hooks-and-context-7906e0fd5521)
-[Replacing redux with react hooks and context (part 1)](https://medium.com/octopus-labs-london/replacing-redux-with-react-hooks-and-context-part-1-11b72ffdb533)
-[Replacing redux with react hooks and context (part 2)](https://medium.com/octopus-labs-london/replacing-redux-with-react-hooks-and-context-part-2-838fd20e6739)
-[How to Redux with React Hooks? - RWieruch](https://www.robinwieruch.de/redux-with-react-hooks/)
-[A simpler entry to Redux (without Redux) using React Hooks](https://medium.com/swlh/a-simpler-entry-to-redux-without-redux-using-react-hooks-3de90ec2f060)
-
-[The Container Pattern for Better State Management in React. | by Spencer | Sep, 2020 | Medium | Better Programming](https://medium.com/better-programming/the-container-pattern-for-better-state-management-in-react-9351fe4381d1) like Recoil very much
-
-### Recoil
-
-> larger footprint
-
-[Recoil](https://recoiljs.org/)
-
-[Recoil - a New State Management Library for React](https://www.infoq.com/news/2020/05/recoil-react-state-management/)
-[Recoil: State Management for Today's React - Dave McCabe aka @mcc_abe at @ReactEurope 2020 - YouTube](https://www.youtube.com/watch?v=_ISAA_Jt9kI)
-[React: Intro to Recoil - YouTube](https://www.youtube.com/watch?v=So4ny9Aa7Oo)
-
-### Jotai
-
-> like Recoil, but smaller; better memory footprint with `WeakMap`
-
-[Jotai, primitive and flexible state management for React](https://jotai.org/)
-[Utils — Jotai, primitive and flexible state management for React](https://jotai.org/docs/api/utils) cover most use cases
-
-[pmndrs/jotai: 👻 Primitive, flexible state management for React](https://github.com/pmndrs/jotai)
-[jotai/xstate.md at master · pmndrs/jotai · GitHub](https://github.com/pmndrs/jotai/blob/master/docs/api/xstate.md)
-
-[Manage Application State with Jotai Atoms | egghead.io](https://egghead.io/courses/manage-application-state-with-jotai-atoms-2c3a29f0)
-[Jotai, a New Granular State Management Library for React](https://www.infoq.com/news/2020/09/jotai-react-state-management/)
-[Jotai: The ultimate React State Management | Blog 100mslive](https://www.100ms.live/blog/jotai-react-state-management)
-[Redux-Free State Management with Jotai | by Nathan Sebhastian | Bits and Pieces](https://blog.bitsrc.io/redux-free-state-management-with-jotai-2c8f34a6a4a)
-[Jotai vs. Recoil: What are the differences? - LogRocket Blog](https://blog.logrocket.com/jotai-vs-recoil-what-are-the-differences/)
-
-### Zustand
-
-> like Redux; small footprint
-
-[Zustand](https://zustand-demo.pmnd.rs/)
-[Zustand Documentation](https://docs.pmnd.rs/zustand/)
-[Working with Zustand | TkDodo's blog](https://tkdodo.eu/blog/working-with-zustand)
-
-### Hookstate
-
-[Hookstate: supercharged React.useState hook | Hookstate](https://hookstate.js.org/)
-
-### Nano Stores
-
-[nanostores/nanostores: A tiny (334 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores](https://github.com/nanostores/nanostores)
-
-### Proxy-based
-
-[pmndrs/valtio: 💊 Valtio makes proxy-state simple for React and Vanilla](https://github.com/pmndrs/valtio) Suspense compatible
-
-[bennyg123/entangle: Global state management tool for react hooks inspired by RecoilJS and Jotai using proxies.](https://github.com/bennyg123/entangle)
 
 ## Refs
 
@@ -642,13 +404,15 @@ Use `React.createRef()`/`React.useRef()`, not string ref or callback ref
 ## Code Splitting/Lazy Loading
 
 > since 16.6
+> not my concern, built tool/app framework should take care of this
 
-[Code-Splitting – React](https://reactjs.org/docs/code-splitting.html)
+[lazy – React](https://react.dev/reference/react/lazy)
+[<Suspense> – React](https://react.dev/reference/react/Suspense)
+
 [Magic of React Suspense with concurrent react and React.lazy API - By Vivek Nayyar](https://hackernoon.com/magic-of-react-suspense-with-concurrent-react-and-react-lazy-api-e32dc5f30ed1)
 [Async React using React Router & Suspense – ITNEXT](https://itnext.io/async-react-using-react-router-suspense-a86ade1176dc)
 [Analyze your React app’s bundle size and reduce it using code-splitting · Emma Goto](https://www.emgoto.com/react-bundles-and-code-splitting/)
 [React.js: reduce your javascript bundle with code splitting](https://medium.com/kaliop/react-js-reduce-your-javascript-bundle-with-code-splitting-f2d24abd42b8)
-[React.js Hooks Crash Course - YouTube](https://www.youtube.com/watch?v=-MlNBTSg_Ww)
 [Lazy Loading React Components (with react.lazy and suspense)](https://blog.bitsrc.io/lazy-loading-react-components-with-react-lazy-and-suspense-f05c4cfde10c)
 [How to Reduce React App Loading Time By 70% - DEV Community](https://dev.to/nilanth/how-to-reduce-react-app-loading-time-by-70-1kmm)
 
@@ -792,6 +556,7 @@ new API to replace life cycle API, co-locate effect/logic and state to a reusabl
 [React Today and Tomorrow - Sophie Alpert and Dan Abramov - React Conf 2018 - YouTube](https://www.youtube.com/watch?v=V-QO-KO90iQ)
 [90% Cleaner React With Hooks - Ryan Florence - React Conf 2018 - YouTube](https://www.youtube.com/watch?v=wXLf18DsV-I)
 [ryanflorence/react-conf-2018](https://github.com/ryanflorence/react-conf-2018)
+[React.js Hooks Crash Course - YouTube](https://www.youtube.com/watch?v=-MlNBTSg_Ww)
 
 [Developer Productivity Tips from 25 React Experts | KendoReact](https://www.telerik.com/kendo-react-ui/react-hooks-guide/)
 [Hooked on React - ITNEXT](https://itnext.io/hooked-on-react-10affe4cca3c)
@@ -993,6 +758,8 @@ const BookEntryList = (props) => {
 [@mantine/hooks](https://mantine.dev/hooks/)
 [@mantine/hooks - npm](https://www.npmjs.com/package/@mantine/hooks)
 [streamich/react-use: React Hooks — 👍](https://github.com/streamich/react-use)
+[pmndrs/its-fine: 🐶🔥 A collection of escape hatches for React.](https://github.com/pmndrs/its-fine)
+
 [craig1123/react-recipes: 👩‍🍳 A list of React Hooks utility library containing popular customized hooks](https://github.com/craig1123/react-recipes) inactive
 [kripod/react-hooks: Essential set of React Hooks for convenient Web API consumption and state management.](https://github.com/kripod/react-hooks) inactive
 [rehooks/awesome-react-hooks: Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks) inactive
@@ -1122,10 +889,6 @@ We noticed you're in Vietnam. Get 70% off the Official React Query Course with c
 [Reparenting is now possible with React | The Startup](https://medium.com/swlh/reparenting-with-react-426d12fb6d0d)
 
 Reparenting nodes, good for moving components without re-initializing
-
-## Alligator.io
-
-[Posts About React ← Alligator.io](https://alligator.io/react)
 
 ## Resources
 
@@ -1365,7 +1128,7 @@ const Conditional = (props) => {
 [Build a Drag and Drop layout builder with React and ImmutableJS](https://medium.com/javascript-in-plain-english/build-a-drag-and-drop-dnd-layout-builder-with-react-and-immutablejs-78a0797259a6) TypeScript, raw HTML events
 [How To Use The HTML Drag-And-Drop API In React — Smashing Magazine](https://www.smashingmagazine.com/2020/02/html-drag-drop-api-react/)
 
-[pmndrs/use-gesture: 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.](https://github.com/pmndrs/use-gesture)
+[pmndrs/use-gesture: 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.](https://github.com/pmndrs/use-gesture) multi-frameworks
 
 [dnd kit – a modern drag and drop toolkit for React](https://dndkit.com/)
 
@@ -1497,15 +1260,14 @@ const Conditional = (props) => {
 [Shopify Polaris](https://polaris.shopify.com/)
 [Base Web - Base Web React Components](https://baseweb.design/) by Uber
 
-[create-react-app & Tailwind CSS – Mike Francis – Medium](https://medium.com/@mikeeeeeeey/create-react-app-tailwind-css-feat-postcss-631d9e33ba8c)
-[Steps to setup Tailwind with React using POSTCSS – Ajit Singh – Medium](https://medium.com/@ajitid/steps-to-setup-tailwind-with-react-using-postcss-66147b93f5f4)
-
 [Material Design Color, Flat Colors, Icons, Color Palette | Material UI](https://www.materialui.co/)
 
 [Fluent UI - Controls - React](https://developer.microsoft.com/en-us/fluentui/#/controls/web)
 [microsoft/fluentui: Fluent UI web represents a collection of utilities, React components, and web components for building web applications.](https://github.com/microsoft/fluentui)
 
 [React Materialize](https://react-materialize.github.io/)
+[react-materialize/react-materialize: Material design for react, powered by materializecss](https://github.com/react-materialize/react-materialize)
+
 [React Desktop | React UI Components for OS X El Capitan and Windows 10](http://reactdesktop.js.org/)
 
 [Semantic UI React](https://react.semantic-ui.com/)
@@ -1532,6 +1294,8 @@ const Conditional = (props) => {
 [TanStack Virtual | React Virtual, Solid Virtual, Svelte Virtual, Vue Virtual](https://tanstack.com/virtual/v3)
 
 [Primitives – Radix UI](https://www.radix-ui.com/)
+
+[Getting Started | restart/ui](https://react-restart.github.io/ui/)
 
 [React Aria](https://react-spectrum.adobe.com/react-aria/)
 
@@ -1591,9 +1355,9 @@ Spinners:
 modal:
 [reactjs/react-modal: Accessible modal dialog component for React](https://github.com/reactjs/react-modal)
 [Dialog (Modal) — Reach UI](https://reach.tech/dialog)
+[SweetAlert](https://sweetalert.js.org/) multi-frameworks
 [sweetalert2/sweetalert2-react-content: Official SweetAlert2 enhancer adding support for React elements as content](https://github.com/sweetalert2/sweetalert2-react-content)
-[therealtx/react-boron: Modal component for ReactJS](https://github.com/therealtx/react-boron)
-[https://react-bootstrap.github.io/react-overlays/api/Modal](https://react-bootstrap.github.io/react-overlays/api/Modal)
+[Modal | restart/ui](https://react-restart.github.io/ui/Modal)
 
 tooltip:
 [wwayne/react-tooltip: react tooltip component](https://github.com/wwayne/react-tooltip)
@@ -1697,7 +1461,7 @@ Table/Date Grid:
 ### Notification
 
 [React-toastify | React-Toastify](https://fkhadra.github.io/react-toastify/introduction)
-[React-toastify v8 is live - DEV Community](https://dev.to/fkhadra/react-toastify-v8-is-live-4bal)
+[fkhadra/react-toastify: React notification made easy 🚀 !](https://github.com/fkhadra/react-toastify#readme)
 
 [Super easy: Custom Toast message manager with React (and TypeScript) | by Dayan Petrow | Medium](https://dayanpetrow.medium.com/super-easy-custom-toast-message-manager-with-react-and-typescript-c9b8bfb714af)
 
@@ -2115,224 +1879,3 @@ Enzyme is created by Airbnb, provide additional testing utilities to interact wi
 [React Component Testing - DEV Community](https://dev.to/ohdylan/react-component-testing-54ie)
 
 [React Testing Course for Beginners – Code and Test 3 Apps - YouTube](https://www.youtube.com/watch?v=8vfQ6SWBZ-U)
-
----
-
-# Archive
-
-## Smart and Dump Components
-
-> this split is mostly moot with hooks
-> dependencies can be consumed through hooks easily on any component
-
-Smart and Dump
-Container and Presentational
-View/Page/Screen and Component
-Fat and Skinny
-
-[Presentational and Container Components — Medium](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
-[Presentational and Container Components in Redux docs](http://redux.js.org/docs/basics/UsageWithReact.html#presentational-and-container-components)
-[Smart and Dumb Components in React | Jake Trent](https://jaketrent.com/post/smart-dumb-components-react/)
-[Leveling Up With React: Container Components | CSS-Tricks](https://css-tricks.com/learning-react-container-components/)
-[Categorizing Components Into Smart & Dumb Components, in React ← Alligator.io](https://alligator.io/react/smart-dumb-components/)
-
-## Render Props/HoC
-
-> abstracting behavior in hooks is much better
-
-[Michael Jackson - Never Write Another HoC - YouTube](https://www.youtube.com/watch?v=BcVAq3YFiuc) inversion of control, higher component invokes render props function
-[Render Props in React – Byteconf – Medium](https://medium.com/byteconf/render-props-in-react-6081b6fa3593)
-[An Overview of Render Props in React | CSS-Tricks](https://css-tricks.com/an-overview-of-render-props-in-react/)
-[Using Render Props In React | React Resources](https://reactresources.com/topics/render-props)
-
-[How to Use React Higher-Order Components - Ross Bulat - Medium](https://medium.com/@rossbulat/how-to-use-react-higher-order-components-c0be6821eb6c)
-
-[React Higher-Order Components](https://tylermcginnis.com/react-higher-order-components/)
-[Andrew Clark - Recomposing your React application at react-europe 2016 - YouTube](https://www.youtube.com/watch?v=zD_judE-bXk)
-[Use Render Props with React | egghead.io](https://egghead.io/lessons/react-use-render-props-with-react)
-
-[React Render Props](https://tylermcginnis.com/react-render-props/)
-[Use a Render Prop! – componentDidBlog](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce)
-[When to NOT use Render Props](https://kentcdodds.com/blog/when-to-not-use-render-props/)
-
-[Introduction to higher order components (HOC) in React](https://medium.com/@soorajchandran/introduction-to-higher-order-components-hoc-in-react-383c9343a3aa)
-[How Are Function Components Different from Classes? — Overreacted](https://overreacted.io/how-are-function-components-different-from-classes/)
-[Container Components and Stateless Functional Components in React – Zsolt Nagy](http://www.zsoltnagy.eu/container-components-and-stateless-functional-components-in-react/)
-
-[Why I stopped spreading props on React Components - DEV Community 👩‍💻👨‍💻](https://dev.to/aurelio/why-i-stopped-spreading-props-on-react-components-o3f)
-
-## James K Nelson
-
-[Interacting with the DOM in React.js, By Example](http://jamesknelson.com/react-js-by-example-interacting-with-the-dom/)
-[Interacting with the DOM in React.js, By Example](http://jamesknelson.com/react-js-by-example-interacting-with-the-dom/)
-[Learn React By Itself -- no JSX, no Flux, no ES6, no Webpack.](http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/)
-[Structuring React Applications: Higher-Order Components - James K Nelson](http://jamesknelson.com/structuring-react-applications-higher-order-components/#more-338)
-
-## dan_abramov
-
-[Mixins Are Dead. Long Live Composition — Medium](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750) higher-order component vs mixin
-[Two React Tips — Medium](https://medium.com/@dan_abramov/two-weird-tricks-that-fix-react-7cf9bbdef375#.oggyawin6)
-
-- Beware of multiple React instances
-- Always put a root `<div>` into `<body>` and mount React to it.
-
-The new terms are "Container" (connected) and "Presentational Components" (not connected, can be stateful or pure).
-
-## Router
-
-> use app framework like Next.js
-
-[React Router Mega Demo](http://react-router-mega-demo.herokuapp.com/)
-
-[Building a Router with Raw React](http://jamesknelson.com/routing-with-raw-react/)
-[React and pushState: You're doing it wrong](http://jamesknelson.com/push-state-vs-hash-based-routing-with-react-js/)
-[Simple Routing with Redux and React](http://jamesknelson.com/simple-routing-redux-react/)
-
-[ReactDOM.render and the Top Level React API | React](http://facebook.github.io/react/blog/2015/10/01/react-render-and-top-level-api.html) you need to call `unmountComponentAtNode()` if you ever change the root component
-
-[Remixing React Router | Remix](https://remix.run/blog/remixing-react-router) 2022-03, handle data in router
-[The Holy Grail of React Router transitions on the web](https://itnext.io/the-holy-grail-of-react-router-transitions-on-the-web-4b29a74861df)
-
-[You might not need React Router](https://medium.freecodecamp.com/you-might-not-need-react-router-38673620f3d#.opx7tmqtk)
-
-[molefrog/wouter: A minimalistic (~1KB) routing for React. Nothing extra, just HOOKS.](https://github.com/molefrog/wouter)
-
-### TanStack Router
-
-> was React Location
-
-[TanStack Router | React Router, Solid Router, Svelte Router, Vue Router](https://tanstack.com/router/v1)
-[Comparison | TanStack Router vs React Router | TanStack Router Docs](https://tanstack.com/router/v1/docs/comparison)
-[What Is TanStack Router And Why I Love It - YouTube](https://www.youtube.com/watch?v=OwoZtv6u9p4)
-
-### Reach Router
-
-[Reach Router - Overview](https://reach.tech/router)
-
-[Battle of the Routers: Reach Router vs React Router ← Alligator.io](https://alligator.io/react/reach-router-vs-react-router/)
-
-### React Router
-
-> 202302: all react-router pre-v6 (2021-11) tutorials are obsolete
-
-[React Router](https://reactrouter.com/en/main) [source](https://github.com/remix-run/react-router)
-[Leveling Up With React: React Router | CSS-Tricks](https://css-tricks.com/learning-react-router/)
-
-[A guide to using React Router v6 in React apps - LogRocket Blog](https://blog.logrocket.com/react-router-v6/)
-[Complete guide to authentication with React Router v6 - LogRocket Blog](https://blog.logrocket.com/complete-guide-authentication-with-react-router-v6/)
-[A Complete Guide to React Router: Everything You Need to Know](https://ui.dev/react-router-tutorial)
-
-### other
-
-[acdlite/redux-router: Redux bindings for React Router – keep your router state inside your Redux store](https://github.com/acdlite/redux-router)
-[react-router-component :: viewdocs.io](http://strml.viewdocs.io/react-router-component)
-[router5/react-router5](https://github.com/router5/react-router5)
-[callum/redux-routing: Universal routing built on top of redux](https://github.com/callum/redux-routing)
-[FormidableLabs/redux-little-router: A tiny router for Redux that lets the URL do the talking.](https://github.com/FormidableLabs/redux-little-router)
-
-[An Introduction to the Redux-First Routing Model – freeCodeCamp](https://medium.freecodecamp.org/an-introduction-to-the-redux-first-routing-model-98926ebf53cb)
-[mksarge/redux-first-routing: A minimal, framework-agnostic API for accomplishing Redux-first routing.](https://github.com/mksarge/redux-first-routing)
-[mksarge/redux-json-router: Declarative, Redux-first routing for React/Redux browser applications.](https://github.com/mksarge/redux-json-router)
-
-[flexdinesh/react-render-in-browser: A React component to render browser specific content](https://github.com/flexdinesh/react-render-in-browser)
-
-[MoOx/react-topbar-progress-indicator: `topbar` progress indicator as a React component](https://github.com/MoOx/react-topbar-progress-indicator)
-[topbar by buunguyen](https://buunguyen.github.io/topbar/)
-
-### Pure JavaScript
-
-[router5 | HTML5 router for reactive applications](http://router5.github.io/)
-[Routie | Javascript hash router](http://projects.jga.me/routie/)
-[visionmedia/page.js](https://github.com/visionmedia/page.js)
-[tildeio/router.js](https://github.com/tildeio/router.js/)
-[glassresistor/i40](https://github.com/glassresistor/i40)
-[bevacqua/ruta3](https://github.com/bevacqua/ruta3)
-[leeluolee/stateman](https://github.com/leeluolee/stateman)
-
-## create-react-app
-
-> [STOP USING CREATE REACT APP - YouTube](https://www.youtube.com/watch?v=7m14f0ZzMyY)
-> tool for yesteryear
-
-[Create React App · Set up a modern web app by running one command.](https://create-react-app.dev/)
-[facebook/create-react-app: Set up a modern web app by running one command.](https://github.com/facebook/create-react-app) must have
-[create-react-app/packages/react-scripts at master · facebook/create-react-app](https://github.com/facebook/create-react-app/tree/master/packages/react-scripts)
-[npm dependency is breaking some React apps today — here's the fix](https://www.bleepingcomputer.com/news/security/npm-dependency-is-breaking-some-react-apps-today-heres-the-fix/)
-
-[10 Fun Facts About Create React App - Better Programming - Medium](https://medium.com/better-programming/10-fun-facts-about-create-react-app-eb7124aa3785)
-[create-react-app/CHANGELOG.md at master · facebook/create-react-app](https://github.com/facebook/create-react-app/blob/master/CHANGELOG.md) latest
-[Create React App 2.0: Babel 7, Sass, and More – React Blog](https://reactjs.org/blog/2018/10/01/create-react-app-v2.html)
-
-[My Awesome Custom React Environment Variables Setup](https://medium.com/@robertsavian/my-awesome-custom-react-environment-variables-setup-8ebb0797d8ac)
-[Feature/different env config files #1343 by tuchk4 · Pull Request #1344 · facebook/create-react-app](https://github.com/facebook/create-react-app/pull/1344)
-[bkeepers/dotenv: A Ruby gem to load environment variables from `.env`.](https://github.com/bkeepers/dotenv#what-other-env-files-can-i-use)
-
-[Customizing create-react-app: How to Make Your Own Template](https://auth0.com/blog/how-to-configure-create-react-app/)
-
-Fix `react-scripts` issue when running on Dropbox's synced folder:
-`ln -sf ../react-scripts/bin/react-scripts.js node_modules/.bin/react-scripts`
-
-`npx create-react-app my-app --template typescript` since 3.3
-[create-react-app/packages/cra-template-typescript at master · facebook/create-react-app](https://github.com/facebook/create-react-app/tree/master/packages/cra-template-typescript)
-[cra-template-\* - npm search](https://www.npmjs.com/search?q=cra-template-*)
-[rafrex/spa-github-pages: Host single page apps with GitHub Pages](https://github.com/rafrex/spa-github-pages) React Router `<BrowserRouter />` and custom `404.html`
-
-[From create-react-app to PWA - LogRocket Blog](https://blog.logrocket.com/from-create-react-app-to-pwa/)
-
-[JetBrains/create-react-kotlin-app: Create React apps using Kotlin with no build configuration](https://github.com/JetBrains/create-react-kotlin-app)
-
-[Create Apps with No Configuration - React Blog](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html)
-[Getting started with create-react-app, Redux, React Router & Redux Thunk](https://medium.com/@notrab/getting-started-with-create-react-app-redux-react-router-redux-thunk-d6a19259f71f)
-[notrab/create-react-app-redux: Basic starter kit for using React Router & Redux with create-react-app](https://github.com/notrab/create-react-app-redux)
-[Beyond Create React App: React Router, Redux, Redux Saga, and More](https://auth0.com/blog/beyond-create-react-app-react-router-redux-saga-and-more/)
-[btg5679/react-redux-prod-starter: A ReactJS/Redux Production ready project foundation](https://github.com/btg5679/react-redux-prod-starter)
-[How to build a React project from scratch using Webpack 4 and Babel](https://hackernoon.com/how-to-build-a-react-project-from-scratch-using-webpack-4-and-babel-56d4a26afd32)
-[v4 Create React + Redux app structure with build configurations. What’s new?](https://medium.com/@shystruk/v4-create-react-redux-app-structure-with-build-configurations-whats-new-523bdec328c6)
-
-### Extending CRA
-
-[How to Use the Optional Chaining Operator in Your React App Right Now - DEV Community 👩‍💻👨‍💻](https://dev.to/aumayeung/how-to-use-the-optional-chaining-operator-in-your-react-app-right-now-1ocj)
-[10 Fun Facts About Create React App - Better Programming - Medium](https://medium.com/better-programming/10-fun-facts-about-create-react-app-eb7124aa3785)
-
-[dilanx/craco: Create React App Configuration Override, an easy and comprehensible configuration layer for Create React App.](https://github.com/dilanx/craco) override CRA settings, not supporting CRA 5
-[javascript - How to make an import shortcut/alias in create-react-app? - Stack Overflow](https://stackoverflow.com/questions/63067555/how-to-make-an-import-shortcut-alias-in-create-react-app)
-
-[arackaf/customize-cra: Override webpack configurations for create-react-app 2.0](https://github.com/arackaf/customize-cra)
-
-[timarney/react-app-rewired: Override create-react-app webpack configs without ejecting](https://github.com/timarney/react-app-rewired)
-[Customize Create React App (CRA) without ejecting using react-app-rewired from @dceddia on @eggheadio](https://egghead.io/lessons/react-customize-create-react-app-cra-without-ejecting-using-react-app-rewired)
-[Override Create React App conf w/react-app-rewired - Today I Learned](https://til.hashrocket.com/posts/ihkbvw5zfv-override-create-react-app-conf-wreact-app-rewired)
-
-### Proxy
-
-Easiest way: add "proxy" key to `package.json` (for simple proxying)
-
-```json
-{
-  "proxy": "http://myhost.com:4000"
-}
-```
-
-[Proxying API Requests in Development | Create React App](https://create-react-app.dev/docs/proxying-api-requests-in-development/#configuring-the-proxy-manually) `src/setupProxy.js` since 2.0
-
-Or install `http-proxy-middleware` and add `src/setupProxy.js` to the project.
-
-```js
-const proxy = require("http-proxy-middleware");
-module.exports = function (app) {
-  app.use(
-    "/api1",
-    proxy({
-      target: "http://myhost1:4000",
-      changeOrigin: true,
-    })
-  );
-  app.use(
-    "/api2",
-    proxy({
-      target: "http://myhost2:5000",
-      changeOrigin: true,
-    })
-  );
-};
-```

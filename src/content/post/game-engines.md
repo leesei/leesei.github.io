@@ -113,7 +113,7 @@ camera at infinitely far away creates an orthographic projection that removes di
 
 ## Web
 
-[[web-3d]] for 3D engines
+[[web-3d#Game Engines]]
 
 [HTML5 Game Engines - Find Which is Right For You](http://html5gameengine.com/)
 [Collection: JavaScript Game Engines](https://github.com/collections/javascript-game-engines)
@@ -135,9 +135,6 @@ camera at infinitely far away creates an orthographic projection that removes di
 [React Game Kit](http://reactnext.surge.sh/)
 [FormidableLabs/react-game-kit: Component library for making games with React & React Native](https://github.com/formidablelabs/react-game-kit)
 
-[Poimandres](https://github.com/pmndrs?type=source)
-[@react-three/cannon](https://cannon.pmnd.rs/#/)
-[pmndrs/use-cannon: 👋💣 physics based hooks for @react-three/fiber](https://github.com/pmndrs/use-cannon)
 [Matter.js - a 2D rigid body JavaScript physics engine](http://brm.io/matter-js/)
 [kripken/ammo.js: Direct port of the Bullet physics engine to JavaScript using Emscripten](https://github.com/kripken/ammo.js/)
 

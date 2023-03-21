@@ -108,6 +108,9 @@ Real VR has to be like this:
 
 ## WebAR/WebXR
 
+[[web-3d]]
+[[web-3d#Game Engines]]
+
 [Create WebAR](http://www.createwebxr.com/webAR.html)
 [Augmented reality for the web | Google Developers](https://developers.google.com/web/updates/2018/06/ar-for-the-web)
 [Augmented Reality on the Web in 2019 | SitePen](https://www.sitepen.com/blog/augmented-reality-on-the-web-in-2019/)

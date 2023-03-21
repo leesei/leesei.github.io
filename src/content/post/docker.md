@@ -737,15 +737,13 @@ Docker daemon exposed Docker API via UNIX socket at: `unix:///var/run/docker.soc
 
 ## Builder
 
-[Dockerfile](https://docs.docker.com/engine/reference/builder/)
+> old builder will be deprecated, update to buildx
+
+[Overview of Docker Build](https://docs.docker.com/build/)
+[Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
 [Best practices for writing Dockerfiles | Docker Documentation](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
-[Intro Guide to Dockerfile Best Practices - Docker Blog](https://www.docker.com/blog/intro-guide-to-dockerfile-best-practices/)
-[Dockerfile : Best practices for building an image | by Maxime Lafond | The Startup | Medium](https://medium.com/swlh/dockerfile-best-practices-for-building-an-image-6120e512b1fa)
 [Container Best Practices: What They Are and Why You Should Care – The New Stack](https://thenewstack.io/container-best-practices-what-they-are-and-why-you-should-care/)
 [hexops/dockerfile: Dockerfile best-practices for writing production-worthy Docker images.](https://github.com/hexops/dockerfile)
-
-[Build secrets and SSH forwarding in Docker 18.09 – Tõnis Tiigi – Medium](https://medium.com/@tonistiigi/build-secrets-and-ssh-forwarding-in-docker-18-09-ae8161d066)
-[Docker build secrets, the sneaky way](https://pythonspeed.com/articles/docker-build-secrets/)
 
 Builder log (annotated):
 
@@ -768,7 +766,7 @@ Successfully tagged demo:latest
 So you can actually `docker run bb7b8fc505de ls /tmp` to see only `foo` but not `bar`.
 This actually sets breakpoint in your Dockerfile for debugging.
 
-[image-spec/annotations.md at master · opencontainers/image-spec](https://github.com/opencontainers/image-spec/blob/master/annotations.md)
+[image-spec/annotations.md at main · opencontainers/image-spec](https://github.com/opencontainers/image-spec/blob/main/annotations.md)
 [Shipping Manifests, Bill of Lading and Docker - Metadata for Containers - YouTube](https://www.youtube.com/watch?v=j4SZ1qoR8Hs) [slides](https://speakerdeck.com/garethr/shipping-manifests-bill-of-lading-and-docker-metadata-and-container)
 
 ```
@@ -795,6 +793,35 @@ This actually sets breakpoint in your Dockerfile for debugging.
 [How to Maximize Your Docker Image Caching Techniques - CenturyLink Cloud Developer Center](https://www.ctl.io/developers/blog/post/more-docker-image-cache-tips/)
 [Dockerfile: ADD vs COPY - CenturyLink Cloud Developer Center](https://www.ctl.io/developers/blog/post/dockerfile-add-vs-copy/)
 
+### ARG and ENV
+
+[Docker ARG, ENV and .env - a Complete Guide · vsupalov](https://vsupalov.com/docker-arg-env-variable-guide/)
+[Arguments and variables in Docker – manifoldco](https://blog.manifold.co/arguments-and-variables-in-docker-94746642f64b)
+
+[Docker Environment Configs, Variables, and Entrypoints | DevOps and Docker Talk](https://ddt.transistor.fm/episodes/docker-environment-configs-variables-and-entrypoints)
+
+### Build Secrets
+
+[Build secrets and SSH forwarding in Docker 18.09 – Tõnis Tiigi – Medium](https://medium.com/@tonistiigi/build-secrets-and-ssh-forwarding-in-docker-18-09-ae8161d066)
+[Docker build secrets, the sneaky way](https://pythonspeed.com/articles/docker-build-secrets/)
+
+### Multi-stage builds
+
+> BuildKit's Dockerfile support multiple build contexts
+
+[Use multi-stage builds | Docker Documentation](https://docs.docker.com/develop/develop-images/multistage-build/)
+[Advanced Dockerfiles: Faster Builds and Smaller Images Using BuildKit and Multistage Builds - Docker Blog](https://www.docker.com/blog/advanced-dockerfiles-faster-builds-and-smaller-images-using-buildkit-and-multistage-builds/)
+
+[Builder pattern vs. Multi-stage builds in Docker](https://blog.alexellis.io/mutli-stage-docker-builds/)
+[Docker build patterns — Matthias Noback - Blog](https://matthiasnoback.nl/2017/04/docker-build-patterns/)
+[Straightforward multi-stage build with a single Dockerfile (and a Makefile)](https://medium.com/@xcoulon/straightforward-multi-stage-build-with-a-single-dockerfile-and-a-makefile-dd558fd9acff)
+[Advanced multi-stage build patterns – Tõnis Tiigi – Medium](https://medium.com/@tonistiigi/advanced-multi-stage-build-patterns-6f741b852fae)
+[Lightweight Docker images with Alpine – Anuradha Weeraman | Blog](https://weeraman.com/lightweight-docker-images-with-alpine-5dc21936f689)
+[Using docker multi-stage builds for deploying front-end](https://medium.com/@saabeilin/using-docker-multi-stage-builds-for-deploying-front-end-44ee6783322e)
+[Leveraging Multi-stage Builds to use a Single Dockerfile for Dev and Prod – mikesir87's blog](https://blog.mikesir87.io/2018/07/leveraging-multi-stage-builds-single-dockerfile-dev-prod/)
+
+[Can You Mount a Volume While Building Your Docker Image to Cache Dependencies? · vsupalov](https://vsupalov.com/cache-docker-build-dependencies-without-volume-mounting/) Use intermediate image
+
 ### Modern ways
 
 [The hunt for a better Dockerfile](https://matduggan.com/the-hunt-for-a-better-dockerfile/)
@@ -803,26 +830,26 @@ This actually sets breakpoint in your Dockerfile for debugging.
 
 ### Buildkit (new builder)
 
-[Install Docker Buildx](https://docs.docker.com/build/install-buildx/)
 [BuildKit](https://docs.docker.com/build/buildkit/)
+[moby/buildkit: concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit](https://github.com/moby/buildkit)
+
+[Install Docker Buildx](https://docs.docker.com/build/install-buildx/)
+[docker buildx](https://docs.docker.com/engine/reference/commandline/buildx/)
+[docker/buildx: Docker CLI plugin for extended build capabilities with BuildKit](https://github.com/docker/buildx) `dokcer buildx` invokes Buildkit
 
 ```sh
 DOCKER_BUILDKIT=1 docker build .
+# or install `docker-buildx` with package manager
 ```
-
-[Overview of Docker Build](https://docs.docker.com/build/)
-[moby/buildkit: concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit](https://github.com/moby/buildkit)
 
 [buildkit/reference.md at master · moby/buildkit](https://github.com/moby/buildkit/blob/master/frontend/dockerfile/docs/reference.md) new syntax in Dockerfile 1.4
 [buildkit/buildkit.go at master · moby/buildkit](https://github.com/moby/buildkit/blob/master/examples/buildkit1/buildkit.go) build script in Go
 [docker/dockerfile - Docker Image | Docker Hub](https://hub.docker.com/r/docker/dockerfile/)
 
-[Martin Heinz - Building Docker Images The Proper Way](https://martinheinz.dev/blog/42) 2021, BuildKit (experimental)
+[Martin Heinz - Building Docker Images The Proper Way](https://martinheinz.dev/blog/42) 2021-02, BuildKit (`dockerfile:experimental`), can use `dockerfile:1.4` now
 [Dockerfiles now Support Multiple Build Contexts - Docker](https://www.docker.com/blog/dockerfiles-now-support-multiple-build-contexts/)
-
 [Introduction to heredocs in Dockerfiles - Docker Blog](https://www.docker.com/blog/introduction-to-heredocs-in-dockerfiles/)
 
-[docker/buildx: Docker CLI plugin for extended build capabilities with BuildKit](https://github.com/docker/buildx) `dokcer buildx` invokes Buildkit
 [Cutting Build Time In Half with Docker’s Buildx Kubernetes Driver](https://releasehub.com/blog/cutting-build-time-in-half-docker-buildx-kubernetes)
 
 ### Buildah
@@ -839,28 +866,6 @@ DOCKER_BUILDKIT=1 docker build .
 
 [ansible-community/ansible-bender: ansible-playbook + buildah = a sweet container image](https://github.com/ansible-community/ansible-bender)
 [Build and run Buildah inside a Podman container - Red Hat Developer Blog](https://developers.redhat.com/blog/2019/04/04/build-and-run-buildah-inside-a-podman-container/)
-
-### ARG and ENV
-
-[Docker ARG, ENV and .env - a Complete Guide · vsupalov](https://vsupalov.com/docker-arg-env-variable-guide/)
-[Arguments and variables in Docker – manifoldco](https://blog.manifold.co/arguments-and-variables-in-docker-94746642f64b)
-
-[Docker Environment Configs, Variables, and Entrypoints | DevOps and Docker Talk](https://ddt.transistor.fm/episodes/docker-environment-configs-variables-and-entrypoints)
-
-### Multi-stage builds
-
-[Use multi-stage builds | Docker Documentation](https://docs.docker.com/develop/develop-images/multistage-build/)
-[Advanced Dockerfiles: Faster Builds and Smaller Images Using BuildKit and Multistage Builds - Docker Blog](https://www.docker.com/blog/advanced-dockerfiles-faster-builds-and-smaller-images-using-buildkit-and-multistage-builds/)
-
-[Builder pattern vs. Multi-stage builds in Docker](https://blog.alexellis.io/mutli-stage-docker-builds/)
-[Docker build patterns — Matthias Noback - Blog](https://matthiasnoback.nl/2017/04/docker-build-patterns/)
-[Straightforward multi-stage build with a single Dockerfile (and a Makefile)](https://medium.com/@xcoulon/straightforward-multi-stage-build-with-a-single-dockerfile-and-a-makefile-dd558fd9acff)
-[Advanced multi-stage build patterns – Tõnis Tiigi – Medium](https://medium.com/@tonistiigi/advanced-multi-stage-build-patterns-6f741b852fae)
-[Lightweight Docker images with Alpine – Anuradha Weeraman | Blog](https://weeraman.com/lightweight-docker-images-with-alpine-5dc21936f689)
-[Using docker multi-stage builds for deploying front-end](https://medium.com/@saabeilin/using-docker-multi-stage-builds-for-deploying-front-end-44ee6783322e)
-[Leveraging Multi-stage Builds to use a Single Dockerfile for Dev and Prod – mikesir87's blog](https://blog.mikesir87.io/2018/07/leveraging-multi-stage-builds-single-dockerfile-dev-prod/)
-
-[Can You Mount a Volume While Building Your Docker Image to Cache Dependencies? · vsupalov](https://vsupalov.com/cache-docker-build-dependencies-without-volume-mounting/) Use intermediate image
 
 ### Image Analysis
 

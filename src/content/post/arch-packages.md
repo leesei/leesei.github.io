@@ -23,6 +23,7 @@ set -x CARAVAN_ENV [home|64.48]
 ```
 
 - merge `~/caravan/home/rfs`, `~/caravan/home/rfs.$CARAVAN_ENV`, `~/caravan/home/.local`, `~/caravan/home/$CARAVAN_ENV.local`
+- setup pCloud Sync `~/blog` <-> `pCloudDrive/caravan/blog`
 
 The packages are to be installed with `yay -S --needed` (aliased to `yinst`).
 Look them up in [Arch](https://www.archlinux.org/packages/) and [AUR](https://aur.archlinux.org/packages/) repo to find info about them if you are using other distro/OS.
