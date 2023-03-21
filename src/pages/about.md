@@ -132,6 +132,7 @@ I gradually added these features:
 
 - [x] use [React Icons](https://react-icons.github.io/react-icons/)  
        pick the right icon that can be affected by `{text,fill}-skin-{base,accent}`
+      Need to manually specify `/index` upon import, see [here](https://github.com/react-icons/react-icons/issues/509#issuecomment-1470087348)
 - [x] render `updated` date  
        Post lists sort by `updated || created`
 
@@ -161,6 +162,7 @@ I gradually added these features:
       ```
       The language "autohotkey" doesn't exist, falling back to plaintext.
       The language "dockerfile" doesn't exist, falling back to plaintext.
+      The language "katex" doesn't exist, falling back to plaintext.
       The language "logstash" doesn't exist, falling back to plaintext.
       The language "reg" doesn't exist, falling back to plaintext.
       ```

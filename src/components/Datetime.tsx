@@ -1,5 +1,5 @@
 import React from "react";
-import { BiCalendar, BiCalendarEdit } from "react-icons/bi";
+import { BiCalendar, BiCalendarEdit } from "react-icons/bi/index";
 
 export interface Props {
   datetime: string | Date;

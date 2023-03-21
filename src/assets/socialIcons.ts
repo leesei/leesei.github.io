@@ -20,7 +20,7 @@ import {
   TbBrandWhatsapp,
   TbBrandYoutube,
   TbMail,
-} from "react-icons/tb";
+} from "react-icons/tb/index";
 
 const socialIcons: SocialIcons = {
   Github: TbBrandGithub,

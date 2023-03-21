@@ -1,4 +1,4 @@
-import { BiSearchAlt2 } from "react-icons/bi";
+import { BiSearchAlt2 } from "react-icons/bi/index";
 import { useEffect, useRef, useState } from "react";
 import Card from "@components/Card";
 import Fuse from "fuse.js";
