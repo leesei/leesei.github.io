@@ -1,5 +1,5 @@
-import { slugifyStr } from "./slugify";
 import type { CollectionEntry } from "astro:content";
+import { slugifyStr } from "./slugify";
 
 export const getUniqueTags = (posts: CollectionEntry<"post">[]) => {
   let tags = new Set<string>();

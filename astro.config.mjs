@@ -28,7 +28,7 @@ export default defineConfig({
       [
         remarkWikiLink,
         {
-          hrefTemplate: permalink => {
+          hrefTemplate: (permalink) => {
             const [path, hash] = permalink.split("#");
             // path, being filename, is already slugified
             return hash
@@ -39,7 +39,7 @@ export default defineConfig({
           },
           // the default pageResolver messed up the permalink
           // `(name) => [name.replace(/ /g, '_').toLowerCase()]`
-          pageResolver: name => [name],
+          pageResolver: (name) => [name],
         },
       ],
       remarkBreaks,

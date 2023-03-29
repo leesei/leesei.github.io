@@ -16,4 +16,4 @@
 
 Ignore link title parsing
 
-[docker run <IMAGE> <MULTIPLE COMMANDS> - Stack Overflow](https://stackoverflow.com/questions/28490874/docker-run-image-multiple-commands) `["sh", "-c", "miltiple CMD with &&"]`
+[docker run <IMAGE> <MULTIPLE COMMANDS> - Stack Overflow](https://stackoverflow.com/questions/28490874/docker-run-image-multiple-commands) `["sh", "-c", "multiple CMD with &&"]`

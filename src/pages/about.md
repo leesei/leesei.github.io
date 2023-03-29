@@ -87,20 +87,19 @@ Astro make a great static site generator with:
 - new Content Collections exposes raw data which I can manipulate with script
 - great templating language
 
-AstroPaper adopted many best practices. Though I do not agree with some of its decision it is highly customizable. It provide me a kick start and I completed these in 4 days (part time):
+AstroPaper adopted many best practices. While I do not agree with some of its decisions, it is highly customizable. It provide me a kick start and I completed these in 4 days (part time):
 
 - [x] disable smartypants
 - [x] TailwindCSS Typography customization
-      remove `"` in `::before` and `::after` of `<blockquote>` (Markdown `>`)
-- [x] line break  
-       https://github.com/remarkjs/remark-breaks
-- [x] links in new tab  
-       https://github.com/rehypejs/rehype-external-links
-- [x] resolve wiki link  
-       https://github.com/landakram/remark-wiki-link  
-       customize wiki link with `[[link]]`, `content` in `::before` and `::after`
-      added trivial `pageResolver: name => [name]` so permalink will not be messed with
-      slugify section
+      remove `"` in `::before` and `::after` of `<blockquote>` (Markdown `> `)
+- [x] line break
+      https://github.com/remarkjs/remark-breaks
+- [x] links in new tab
+      https://github.com/rehypejs/rehype-external-links
+- [x] resolve wiki link
+      https://github.com/landakram/remark-wiki-link
+      customize wiki link with `[[link]]`, `content` in `::before` and `::after`
+      added trivial `pageResolver: name => [name]` so permalink will not be messed with slugified section (in `[[post-slug#Section Title]]`)
 - [x] add `<Tag/>` in `<Card/>`
       convert `<Tag/>` from `.astro` to `.tsx`
 - [x] use `post.slug` (filename) as `/post/{slug}`
@@ -130,15 +129,21 @@ AstroPaper and `remark-wiki-link` have their own take on how to slugify stuffs. 
 
 I gradually added these features:
 
-- [x] use [React Icons](https://react-icons.github.io/react-icons/)  
-       pick the right icon that can be affected by `{text,fill}-skin-{base,accent}`
+- [x] use [React Icons](https://react-icons.github.io/react-icons/)
+      pick the right icon that can be affected by `{text,fill}-skin-{base,accent}`
       Need to manually specify `/index` upon import, see [here](https://github.com/react-icons/react-icons/issues/509#issuecomment-1470087348)
-- [x] render `updated` date  
-       Post lists sort by `updated || created`
+- [x] render `updated` date
+      Post lists sort by `updated || created`
+- [x] sort out post assets in Foam and Astro
+      `_assets` in `post/` for Foam's preview
+      with `_` prefix so Astro will ignore it
+      all my posts refer to `./_assets/{path}`
+      in `package.json:build` do a copy to `dist/`
 
 ## TODO
 
-- [ ] save Workspace panel layout in VS Code
+### Astro
+
 - [ ] TOC on right hand side  
        tracks location  
        `file.data.astro.frontmatter` in plugin  
@@ -149,20 +154,26 @@ I gradually added these features:
        https://github.com/mdx-js/mdx/tree/main/packages/remark-mdx
 - [ ] link to edit post in github
 - [ ] github issue as comments/discussion
-- [ ] sort out post assets in Foam and Astro
-- [ ] re-org tags
-- [ ] overlay button to copy code?
+- [ ] add search to `/tags` Page
 - [ ] directives/admonition/callout? (alert, warn, info)  
        https://stackoverflow.com/questions/50544499/how-to-make-a-styled-markdown-admonition-box-in-a-github-gist use emoji  
        https://help.obsidian.md/Editing+and+formatting/Callouts
 - [ ] github emoji
-- [ ] embed Foam's graph view
-- [ ] add languages for codeblock
+- [ ] embed Foam's graph view (Obsidian)
+- [ ] overlay button to copy from codeblocks?
+- [ ] add languages for codeblocks
 
-      ```
-      The language "autohotkey" doesn't exist, falling back to plaintext.
-      The language "dockerfile" doesn't exist, falling back to plaintext.
-      The language "katex" doesn't exist, falling back to plaintext.
-      The language "logstash" doesn't exist, falling back to plaintext.
-      The language "reg" doesn't exist, falling back to plaintext.
-      ```
+```txt
+The language "autohotkey" doesn't exist, falling back to plaintext.
+The language "dockerfile" doesn't exist, falling back to plaintext.
+The language "katex" doesn't exist, falling back to plaintext.
+The language "logstash" doesn't exist, falling back to plaintext.
+The language "reg" doesn't exist, falling back to plaintext.
+```
+
+### Foam
+
+- [ ] save Workspace panel layout in VS Code
+- [ ] suggest tag in frontmatter
+- [ ] search in tag panel
+- [ ] re-org tags

@@ -1,13 +1,13 @@
 ---
-import { getCollection } from "astro:content";
+import Card from "@components/Card";
+import Footer from "@components/Footer.astro";
+import Header from "@components/Header.astro";
+import { SITE } from "@config";
 import Layout from "@layouts/Layout.astro";
 import Main from "@layouts/Main.astro";
-import Header from "@components/Header.astro";
-import Footer from "@components/Footer.astro";
-import Card from "@components/Card";
-import { getTagsDB } from "@utils/tags";
 import getPostsByTag from "@utils/getPostsByTag";
-import { SITE } from "@config";
+import { getTagsDB } from "@utils/tags";
+import { getCollection } from "astro:content";
 
 export interface Props {
   tag: string;
