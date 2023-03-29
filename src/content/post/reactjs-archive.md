@@ -1,6 +1,6 @@
 ---
 title: React.js Archives
-description: "Archived React.js notes"
+description: Archived React.js notes
 created: 2023-03-21
 tags:
   - frontend
@@ -10,12 +10,10 @@ tags:
   - web-dev
 ---
 
-# Archive
-
 ## Smart and Dump Components
 
 > this split is mostly moot with hooks
-> dependencies can be consumed through hooks easily on any component
+> dependencies can be consumed through hooks easily on _any_ component
 
 Smart and Dump
 Container and Presentational

@@ -12,22 +12,20 @@ tags:
 [[reactive-programming]]
 [[immutability]]
 
+[Functional programming - Wikiwand](https://www.wikiwand.com/en/Functional_programming)
+[Category:Functional programming - Wikiwand](https://www.wikiwand.com/en/Category:Functional_programming)
+[Functional reactive programming - Wikiwand](https://www.wikiwand.com/en/Functional_reactive_programming)
 Contrast: [Imperative programming - Wikiwand](https://www.wikiwand.com/en/Imperative_programming)
 
-[初探 Functional Programming：徹底改變程式思維 - 基礎概念篇 - YouTube](https://www.youtube.com/watch?v=qpOcRG3e9Q8)
-
-[The Functional Evolution of Object-Oriented Programming](https://www.infoq.com/presentations/oop-functional-evolution/)
-[Category:Functional programming - Wikiwand](https://www.wikiwand.com/en/Category:Functional_programming)
-[Functional programming - Wikiwand](https://www.wikiwand.com/en/Functional_programming)
-[Functional reactive programming - Wikiwand](https://www.wikiwand.com/en/Functional_reactive_programming)
 [Lambda calculus - Wikiwand](https://www.wikiwand.com/en/Lambda_calculus)
 [Monad (functional programming) - Wikiwand](https://www.wikiwand.com/en/Monad_%28functional_programming%29)
-[Embarrassingly parallel - Wikiwand](https://www.wikiwand.com/en/Embarrassingly_parallel)
 [Why Functional Programming Matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf) (PDF)
 [What is functional reactive programming? | Packt Hub](https://hub.packtpub.com/what-is-functional-reactive-programming/)
 [What Making a Cup Of Tea Taught me about Functional Programming.](https://medium.com/@samuel.fare/what-making-a-cup-of-tea-taught-me-about-functional-programming-a09909679924) think declaratively`
 [What is Functional Reactive Programming (FRP)? - QuickBird Studios Blog](https://quickbirdstudios.com/blog/what-is-functional-reactive-programming-frp/)
 [Jane Street Tech Blog - Breaking down FRP](https://blog.janestreet.com/breaking-down-frp/)
+[The Functional Evolution of Object-Oriented Programming](https://www.infoq.com/presentations/oop-functional-evolution/)
+[初探 Functional Programming：徹底改變程式思維 - 基礎概念篇 - YouTube](https://www.youtube.com/watch?v=qpOcRG3e9Q8)
 
 [Functional Programming buzzwords - DEV Community 👩‍💻👨‍💻](https://dev.to/leolanese/functional-programming-buzzwords-36c1) FRP is not FP
 
@@ -91,7 +89,7 @@ Immutability in JavaScript:
 
 [The Two Pillars of JavaScript — Pt 2: Functional Programming — JavaScript Scene — Medium](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
 [Understanding recursion in functional JavaScript programming](http://www.integralist.co.uk/posts/js-recursion.html)
-[Polymorphic functions and method dispatch in JavaScript « Eric Elliott – JavaScript Architect (A JavaScript Blog)](http://ericleads.com/2011/06/polymorphic-functions-and-multiple-dispatch-in-javascript/)
+[Polymorphic functions and method dispatch in JavaScript](https://ericleads.wordpress.com/2011/06/polymorphic-functions-and-multiple-dispatch-in-javascript/)
 
 [Getting Functional with Javascript (Part 1)](http://www.datchley.name/getting-functional-with-javascript-part-1/)
 [Getting Functional with Javascript (Part 2)](http://www.datchley.name/getting-functional-with-javascript-part-2/)
@@ -213,6 +211,11 @@ myFunctor.map((x) => x) === myFunctor;
 // composition === chaining
 myFunctor.map((x) => f(g(x))) === myFunctor.map(g).map(f);
 ```
+
+## Recursion
+
+[Recursion (computer science) - Wikiwand](<https://www.wikiwand.com/en/Recursion_(computer_science)>)
+[Fantastic tail calls, and how to implement them - Leaning Technologies](https://leaningtech.com/fantastic-tail-calls-and-how-to-implement-them/)
 
 ## Currying
 

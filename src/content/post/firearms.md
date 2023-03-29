@@ -1,12 +1,12 @@
 ---
 title: Firearms
-description: ""
+description: Weapons with gun powder
 created: 2015-06-13
 tags:
   - weapons
 ---
 
-Weapons with gun powder.
+> TODO: separate out `military`
 
 [Firearm - Wikiwand](https://www.wikiwand.com/en/Firearm)
 [History of the firearm - Wikiwand](https://www.wikiwand.com/en/History_of_the_firearm)
@@ -27,6 +27,9 @@ Weapons with gun powder.
 More on military vehicles
 [AiTelly - YouTube](https://www.youtube.com/@Aitelly)
 [Armor Cast - YouTube](https://www.youtube.com/@ArmorCast)
+[Not What You Think - YouTube](https://www.youtube.com/@NotWhatYouThink/videos)
+[名将榜 - YouTube](https://www.youtube.com/@agl)
+[CRAZY262 - YouTube](https://www.youtube.com/@CRAZY-fu9pj/videos)
 
 [Fuels, Explosives and Propellants: What's the difference? - YouTube](https://www.youtube.com/watch?v=HEhH7735gSs)
 
@@ -192,12 +195,11 @@ Single action triggers should provide more accuracy (as the aim is not affected 
 
 ## Long Guns
 
+[Rifle - Wikiwand](https://www.wikiwand.com/en/rifle)
 [步枪 - Wikiwand](https://www.wikiwand.com/zh/%E6%AD%A5%E6%9E%AA)
 
-[Arquebus - Wikiwand](https://www.wikiwand.com/en/Arquebus) mussel loaded, slow match ignition, smoothbore
+[Arquebus - Wikiwand](https://www.wikiwand.com/en/Arquebus) ~1500, mussel loaded, slow match ignition, smoothbore (滑膛)
 [Musket - Wikiwand](https://www.wikiwand.com/en/musket) mussel loaded, flintlock ignition, paper cartridge, most likely smoothbore
-
-Arquebus (1500)
 Mussel loading Musket (early 1700 - early 1800)
 Mussel loading Rifle (early 1700)
 Mussel loading Rifle (~1850) using Percussion Cap and [Minié ball](https://www.wikiwand.com/en/Mini%C3%A9_ball)
@@ -207,14 +209,8 @@ Bolt Action Repeating Rifle was widely used in WW I(~1900) and WW II(~1940) Spri
 Semi Automatic M1 "GARAND" (~1930)
 Fully Automatic M16 Assault Rifle (~1960) and AK47 (~1950)
 
-滑膛槍
-綫膛槍
-
+[简单捋一捋 步枪的进化 - YouTube](https://www.youtube.com/watch?v=yL6oCZG8HmE)
 [We Fired Weapons From The 1500s, 1700s and 1900s! - YouTube](https://www.youtube.com/watch?v=TL6rKRYPQEY)
-
-## Shotgun
-
-[How a Pump Shotgun Works - YouTube](https://www.youtube.com/watch?v=21uh28Z77Xg)
 
 ## Carbine
 
@@ -231,7 +227,7 @@ Overlaps with Assault Rifle and SMG
 uses rifle calibers (.30-.40) with reduced firepower
 speed and magazine size of a submachine gun + power and range of a rifle
 
-German's STG44 is the grandfather of modern assault rifles
+German's STG44 (MP43/MP44) is the grandfather of modern assault rifles
 [The Story of the STG 44: The Birth of the Assault Rifle - YouTube](https://www.youtube.com/watch?v=mJSxRGSM-Q0)
 [What's the difference between an MP 43/1 and an STG 44? With firearms expert Jonathan Ferguson - YouTube](https://www.youtube.com/watch?v=hQua4HX0knA)
 [Sturmgewehr MP-44 Part I: Mechanics - YouTube](https://www.youtube.com/watch?v=HnXBshjGFo8)
@@ -246,6 +242,10 @@ Russian RPK, AK-47
 [【不止遊戲】究竟如何區分如此多的 AK 型號？ - YouTube](https://www.youtube.com/watch?v=ln7P5R0-W5Q)
 
 [M16A2/A4 vs AR-15 - How Do They Compare and What's the Difference? - YouTube](https://www.youtube.com/watch?v=RLV2aTCyPYA)
+
+## Shotgun
+
+[How a Pump Shotgun Works - YouTube](https://www.youtube.com/watch?v=21uh28Z77Xg)
 
 ## Machine Guns
 
@@ -284,6 +284,7 @@ Modern incarnations are also called "minigun"
 [Hitler's Zipper: The MG-42 Universal Machine Gun - YouTube](https://www.youtube.com/watch?v=OVPxZdBxUJU) Hitler's Buzzsaw
 [The Most Successful Machine Gun in the World? - YouTube](https://www.youtube.com/watch?v=zZgd75hJTbQ) MG-42 (and the modern MP-3), reducing the production cost of MG-34
 [MG-34: The Universal Machine Gun Concept - YouTube](https://www.youtube.com/watch?v=E-KgQ-OZJZ8)
+[奧馬哈海灘上的死亡電鋸，盟軍最恐懼的死神，9 小時收割 4000 多條人命 IM134 重机枪 IMG42 通用机枪 I - YouTube](https://www.youtube.com/watch?v=MRgb0ulLoOI)
 
 ## Bunker Busters
 
@@ -333,6 +334,7 @@ Bazooka: 以彈頭的火箭為發射動力
 [【世界最先進主戰坦克 評測】都说自己是第一，究竟誰更強？ M1 主戰坦克 、T-90 主戰坦克、豹 2 主戰坦克、挑戰者主戰坦克、T-14 主戰坦克、阿瓊主戰坦克、勒克萊爾主戰坦克 - YouTube](https://www.youtube.com/watch?v=f1XJyWSr7y0)
 [【俄制坦克究竟有多差？】俄軍坦克在烏克蘭殘骸遍地！為何俄制坦克總被開罐？ - YouTube](https://www.youtube.com/watch?v=UlF6zZNItAc)
 [【M1 坦克堅持人工裝彈的原因】美軍 M1 系列坦克為何不用自動裝彈機？詳解 M1 坦克火力系統！ - YouTube](https://www.youtube.com/watch?v=FZLZ1eN3XZ4)
+[德國豹式坦克，二戰坦克巔峰之作，專為剋制 T-34 而生 - YouTube](https://www.youtube.com/watch?v=2qnjy7nV5Oo)
 
 ## Anti-Armor/Armor Piercing ammo
 
@@ -342,6 +344,7 @@ Bazooka: 以彈頭的火箭為發射動力
 [A Guide to Tank Ammo | Koala Explains: Tank Ammunition Types and their Differences - YouTube](https://www.youtube.com/watch?v=01eqS2K0aTQ)
 
 [Why do modern tanks have smoothbore main guns? - YouTube](https://www.youtube.com/watch?v=1kch8uIoJrY) !important
+[【262 思货】现代坦克为啥用滑膛炮？二战虎豹 300 万焦耳，现代“豹 2”700 万焦耳！ - YouTube](https://www.youtube.com/watch?v=Tz6bQQ_J-6Q)
 [坦克炮，滑膛还是线膛？为什么？【科学火箭叔】 - YouTube](https://www.youtube.com/watch?v=EnueGwAD2nU)
 smoothbore is preferred for APCR and APDS
 
@@ -361,7 +364,7 @@ Sub-calibre AP rounds have smaller and denser core (碳化鎢), using larger bar
 Chemical shells contains explosive filler that will explode on timer, on contact or by proximity.
 高爆彈/榴彈 (Armor Piercing High Explosive, APHE): explodes after penetration, the shockwave and shrapnel deal AoE damage; not useful for AP due to reduced mass; also have BC, CBC variants; also used for Anti-Air shells
 [高爆彈\_百度百科](https://baike.baidu.hk/item/%E9%AB%98%E7%88%86%E5%BD%88/10395223)
-破甲彈 (High Explosive Anti Tank/HEAT): contains explosive and metal cone, the explosion happens outside of the armor and it will form a metal stream at supersonic speed to pierce the armor and wreck havoc; smooth bore barrel should be used to keep the stream focused; initial velocity is irrelevant; needs room between the explosion and the armor for the stream formation, as seen by the standoff probe in the front to detonate the explosive; also have BC, CBC variants; aka HEAT-MP (Multipurpose) or MPAT (Multipurpose Anti Tank)
+破甲彈 (High Explosive Anti Tank/HEAT): contains explosives and an (inverted) metal cone, the explosion happens outside of the armor and the shockwave will form focused a jet of metal particles at supersonic speed to pierce the armor and wreck havoc; smooth bore barrel should be used to keep the jet focused; initial velocity is irrelevant; needs room between the explosion and the armor for the jet formation, as seen by the standoff probe in the front to detonate the explosive; also have BC, CBC variants; used in RPGs; aka HEAT-MP (Multipurpose) or MPAT (Multipurpose Anti Tank)
 尾翼穩定破甲彈 HEAT-FS: Since we're not using rifle, fin stabilizer is used, also reduces the weight of shell
 碎甲彈 (High Explosive Squash Head, HESH/High Explosive Plastic, HEP): contains explosive that will deform, spread and stick to outside of armor, explosion will send shockwave through the armor and create spall and shrapnel inside to injure the crews; prefer rifle barrels to spread the HE; used by UK so they tends to keep Challenge 2's rifle barrel
 Armor Piercing Incendiary round
@@ -386,11 +389,15 @@ Non-Explosive Reactive Armor (NERA)
 [What Are Those Bricks on Russian Tanks? | Koala Explains: Explosive Reactive Armor (ERA) - YouTube](https://www.youtube.com/watch?v=zmf_s8faAC4)
 [What Are Those Cages on Russian Tanks? | Koala Explains: "Cope Cages" (& Why They're Not Working) - YouTube](https://www.youtube.com/watch?v=cVMVU6vHrT4)
 
+[Why Protecting Tanks is Getting Much More Difficult - YouTube](https://www.youtube.com/watch?v=C4NmOss83XI) RPG history
+
 ### Anti-Tank Guided Missile/ATGM
 
 [Anti-tank guided missile - Wikiwand](https://www.wikiwand.com/en/Anti-tank_guided_missile)
 [The Insane Engineering of the Javelin - YouTube](https://www.youtube.com/watch?v=SUdHzKRiBX8)
 [Javelin Missile | How a Javelin Missile works - YouTube](https://www.youtube.com/watch?v=E5C20L0yvY0)
+
+A round of Javelin costs around $200000, while the cost of a battle tank is around $1 to 2 million.
 
 ## Artillery
 
@@ -400,6 +407,8 @@ Non-Explosive Reactive Armor (NERA)
 [坦克、突击炮、坦克歼击车、自行火炮究竟是如何分类的？ - YouTube](https://www.youtube.com/watch?v=WrdWbBr2l14)
 
 [How does the ammunition of a towed artillery work? - YouTube](https://www.youtube.com/watch?v=ScZuCDYSM2g)
+
+[高射炮如何擊落飛機！誕生幾百年依然不可替代！末端防空的主力！ - YouTube](https://www.youtube.com/watch?v=VXPHhQhaI7k)
 
 ### Recoilless rifle
 
@@ -417,7 +426,11 @@ Non-Explosive Reactive Armor (NERA)
 
 ### German 88mm Flak
 
+It was called Flak 18 to mask to fact that it was designed in the 30's.
+
 [Why Was the German 88mm Flak the BEST Gun Throughout WW2? - YouTube](https://www.youtube.com/watch?v=78Yso7ikUsU)
+[二戰全能火炮，海陸空三位一體，盟軍部隊最大阻礙 I88 毫米高射炮 I 謝爾曼坦克 I - YouTube](https://www.youtube.com/watch?v=vByvx2z-n_A)
+[真正的炮王：88 毫米反一切炮！ - YouTube](https://www.youtube.com/watch?v=fxgUF1dgCIY) more on spec of Flak 18, 36 (anti-tank), 37, 41 (anti-air) and accessories
 
 ### Schwerer Gustav
 
@@ -512,6 +525,7 @@ Sterling L2A3, British SMG, refinement of STEN, improved magazine
 M3 submachine gun 0.45, 11.43mm
 KPV Russian HMG
 [British Submachine Gun Overview: Lanchester, Sten, Sterling, and More! - YouTube](https://www.youtube.com/watch?v=8-PmLxkOmaM)
+[德國的 MP40，英國的司登，美國的湯普森，蘇聯的波波沙，到底哪個牛？ - YouTube](https://www.youtube.com/watch?v=XfitcvdnMNc)
 
 |      Name       |   Country    |  Year   | Type  | Action | Reloading |      Ammo       | Remark |
 | :-------------: | :----------: | :-----: | :---: | :----: | :-------: | :-------------: | :----: |

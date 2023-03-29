@@ -23,11 +23,13 @@ My requirements:
 - export to static site
   MDX and component support is a plus
   wikilink support is a plus
-  (this restrict my notes to be a single folder structure)
+  (this restrict my notes to be a single folder structure for better support of both Foam and static site generation)
 
 [[markdown]]
 
 ## Methodology
+
+[[learning#Learning Theory]]
 
 Semantic connections: links, metadata, map of content (MoC)
 System related: tags
@@ -53,7 +55,11 @@ I use graph view and use scripts to analyze the frontmatters
 [A Beginner’s Guide to the Zettelkasten Method | Zenkit](https://zenkit.com/en/blog/a-beginners-guide-to-the-zettelkasten-method/)
 [How to make atomic literature notes using the Zettelkasten method](https://meda.io/how-to-make-atomic-literature-notes/)
 
+Small notes make it easy and link things together.
+My notes used to be too long and I'm working on promoting sections to their own notes.
+
 [如何聪明地做笔记 | 提高写作、学习和思考能力 | Zettelkasten 卡片盒笔记法 | 使用 DEVONthink，Roamresearch，Obsidian 进行实践 | 打造自己的成长知识库 - YouTube](https://www.youtube.com/watch?v=2VurHJtWKtk)
+[Zettelkasten Note-Taking: What I wish I knew about Smart Notes - YouTube](https://www.youtube.com/watch?v=yqKspwjXu18)
 [How To Take Smart Notes: 10 Principles to Revolutionize Your Note-Taking and Writing - Forte Labs](https://fortelabs.com/blog/how-to-take-smart-notes/)
 How to Take Smart Notes, Sönke Ahrens
 
@@ -61,11 +67,11 @@ How to Take Smart Notes, Sönke Ahrens
   needs to be organized timely
 - Literature Notes
   on a book, paper, podcast
-  brief, in your own words
+  brief summary of your understanding/thought, in your own words
 - Permanent Notes
   organized from the above
   link and backlinks when adding new note
-  index for a topic
+  single idea on one note, or index for a topic/map of content (MoC)
 - Project Notes
   all notes related to a project
   archive after completion
@@ -106,6 +112,7 @@ Hierarchy
 
 [天哪我給大腦開外掛了！它完全顛覆了大家對筆記軟體的認知 | Obsidian 教學 - YouTube](https://www.youtube.com/watch?v=Egj_DdGUIDI)
 
+[Watch This to Finally Understand The Zettelkasten Method in Obsidian - YouTube](https://www.youtube.com/watch?v=wvAZ9-hmWQU)
 [How to get started with Obsidian in 2022 - from scratch! - YouTube](https://www.youtube.com/watch?v=OUrOfIqvGS4)
 [How to organize your notes in Obsidian // The LATCH method - YouTube](https://www.youtube.com/watch?v=vS-b_RUtL1A)
 [How I use Obsidian for work as a software developer advocate - YouTube](https://www.youtube.com/watch?v=D7e1ud_Dk24)

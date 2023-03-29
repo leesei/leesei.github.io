@@ -2,6 +2,7 @@
 title: Visual Studio Code
 description: ""
 created: 2017-06-19
+updated: 2023-03-24
 tags:
   - app
   - package-manager
@@ -12,9 +13,6 @@ tags:
 [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
 [Visual Studio Code for Chromebooks and Raspberry Pi](https://code.headmelted.com/)
 
-[VS Code Can Do That?](https://vscodecandothat.com/)
-[VS Code Can Do That?! VS Code Tips and Tricks - YouTube](https://www.youtube.com/watch?v=x5GzCohd4eo)
-
 [Visual Studio Code Tutorial for Beginners - Introduction - YouTube](https://www.youtube.com/watch?v=VqCgcpAypFQ)
 [Visual Studio Code Introduction](https://academind.com/tutorials/visual-studio-code-introduction)
 
@@ -23,35 +21,9 @@ tags:
 [Get Started - default (Workspace) - Visual Studio Code](https://vscode.dev/) VSCode on the web
 
 [Visual Studio Code - ArchWiki](https://wiki.archlinux.org/title/Visual_Studio_Code)
-[viatsko/awesome-vscode: 🎨 A curated list of delightful VS Code packages and resources.](https://github.com/viatsko/awesome-vscode)
-[Microsoft/vscode-recipes](https://github.com/Microsoft/vscode-recipes)
 
 [The History of Visual Studio Code | Microsoft Build 2020 | Channel 9](https://channel9.msdn.com/Events/Build/2020/BDL134)
 [Visual Studio Code Is So Popular But Why?](https://blog.eduonix.com/software-development/visual-studio-code-popular/)
-[Why I moved away from Atom to Visual Studio Code and my Setup · EQuimper's Blog](https://equimper.me/post/why-i-moved-away-from-atom-to-visual-studio-code-and-my-setup/)
-
-[Dan Taylor - Get Productive with Python in Visual Studio Code - YouTube](https://www.youtube.com/watch?v=6YLMWU-5H9o)
-[qubitron/pydemo: Get Productive with Python and Visual Studio Code - slides, video, and demo code](https://github.com/qubitron/pydemo)
-[Python in Visual Studio Code - VSCode Features You Need to Know - YouTube](https://www.youtube.com/watch?v=HUtHp3duGbI)
-
-[Some Little Improvements to My VS Code Workflow (Workspaces, Icons, Tasks) | CSS-Tricks](<https://css-tricks.com/some-little-improvements-to-my-vs-code-workflow-(workspaces,-icons,-tasks/)>)
-
-## Must Read Docs
-
-[Documentation for Visual Studio Code](https://code.visualstudio.com/docs)
-[Visual Studio Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
-
-[vscode](https://vscode.readthedocs.io/en/latest/)
-[Visual Studio Code User and Workspace Settings](https://code.visualstudio.com/docs/getstarted/settings)
-
-[VSCode: 10 Most Useful Tips And Tricks - YouTube](https://www.youtube.com/watch?v=cVGMldhVRxU&list=WL&index=97)
-[microsoft/vscode-tips-and-tricks: Collection of helpful tips and tricks for VS Code.](https://github.com/microsoft/vscode-tips-and-tricks)
-
-[A Visual Studio Code Tutorial](https://flaviocopes.com/vscode/)
-[Tips to use VSCode more efficiently - DEV Community 👩‍💻👨‍💻](https://dev.to/selrond/tips-to-use-vscode-more-efficiently-3h6p)
-
-Welcome screen
-Interactive Playground
 
 ## VSCodium
 
@@ -60,17 +32,80 @@ Interactive Playground
 [Why and how you should migrate from Visual Studio Code to VSCodium - DEV Community 👩‍💻👨‍💻](https://dev.to/misterf/why-and-how-you-should-to-migrate-from-visual-studio-code-to-vscodium-j7d)
 [VSCodium: 100% Open Source Version of Microsoft VS Code](https://itsfoss.com/vscodium/)
 
+## Must Read Docs
+
+[Documentation for Visual Studio Code](https://code.visualstudio.com/docs)
+
+[vscode-docs](https://vscode-docs.readthedocs.io/en/stable/)
+[vscode](https://vscode.readthedocs.io/en/latest/)
+
+[VSCode: 10 Most Useful Tips And Tricks - YouTube](https://www.youtube.com/watch?v=cVGMldhVRxU&list=WL&index=97)
+
+[A Visual Studio Code Tutorial](https://flaviocopes.com/vscode/)
+[Tips to use VSCode more efficiently - DEV Community 👩‍💻👨‍💻](https://dev.to/selrond/tips-to-use-vscode-more-efficiently-3h6p)
+
+Welcome screen
+Interactive Playground
+
+## Tips and Tricks
+
+[viatsko/awesome-vscode: 🎨 A curated list of delightful VS Code packages and resources.](https://github.com/viatsko/awesome-vscode)
+[Microsoft/vscode-recipes](https://github.com/Microsoft/vscode-recipes)
+[Visual Studio Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
+[microsoft/vscode-tips-and-tricks: Collection of helpful tips and tricks for VS Code.](https://github.com/microsoft/vscode-tips-and-tricks)
+
+[VS Code Can Do That?](https://vscodecandothat.com/)
+[VS Code Can Do That?! VS Code Tips and Tricks - YouTube](https://www.youtube.com/watch?v=x5GzCohd4eo)
+
+[Why I moved away from Atom to Visual Studio Code and my Setup · EQuimper's Blog](https://equimper.me/post/why-i-moved-away-from-atom-to-visual-studio-code-and-my-setup/)
+
+[Dan Taylor - Get Productive with Python in Visual Studio Code - YouTube](https://www.youtube.com/watch?v=6YLMWU-5H9o)
+[qubitron/pydemo: Get Productive with Python and Visual Studio Code - slides, video, and demo code](https://github.com/qubitron/pydemo)
+[Python in Visual Studio Code - VSCode Features You Need to Know - YouTube](https://www.youtube.com/watch?v=HUtHp3duGbI)
+[Powerful VSCode Tips And Tricks For Python Development And Design - YouTube](https://www.youtube.com/watch?v=fj2tuTIcUys)
+[25 VS Code Productivity Tips and Speed Hacks - YouTube](https://www.youtube.com/watch?v=ifTF3ags0XI&t=610s)
+
+[Some Little Improvements to My VS Code Workflow (Workspaces, Icons, Tasks) | CSS-Tricks](<https://css-tricks.com/some-little-improvements-to-my-vs-code-workflow-(workspaces,-icons,-tasks/)>)
+
 ## Workspaces
 
-Each workspace (`.code-workspace`) can contain a list of folders and per workspace settings. This is equivalent to Sublime's project.
+Workspace settings are placed in `./.vscode/`. On per folder level we can set `files.exclude` and `files.watcherExclude`.
+There's also a workspace (`.code-workspace`) file can contain a list of folders and workspace settings.
 
-[Multi-root Workspaces in Visual Studio Code](https://code.visualstudio.com/docs/editor/multi-root-workspaces)
 [Visual Studio Code User and Workspace Settings](https://code.visualstudio.com/docs/getstarted/settings)
+
+[Visual Studio Code User and Workspace Settings](https://code.visualstudio.com/docs/getstarted/settings)
+[Workspaces in Visual Studio Code](https://code.visualstudio.com/docs/editor/workspaces)
+[What is a 'workspace' in Visual Studio Code? - Stack Overflow](https://stackoverflow.com/questions/44629890/what-is-a-workspace-in-visual-studio-code)
+[Multi-root Workspaces in Visual Studio Code](https://code.visualstudio.com/docs/editor/multi-root-workspaces)
+[Workspace Search in VS Code — A deep dive on find in files, replace, search editors and more! - YouTube](https://www.youtube.com/watch?v=Uc4I4ByUe0A)
 
 [Some Little Improvements to My VS Code Workflow (Workspaces, Icons, Tasks) | CSS-Tricks](<https://css-tricks.com/some-little-improvements-to-my-vs-code-workflow-(workspaces,-icons,-tasks/)>)
 
 [Totally confused by workspaces and folders in VSCode : vscode](https://www.reddit.com/r/vscode/comments/9z1b34/totally_confused_by_workspaces_and_folders_in/)
 [What is a 'workspace' in VS Code? - Stack Overflow](https://stackoverflow.com/questions/44629890/what-is-a-workspace-in-vs-code)
+
+## Customization
+
+### Writing Snippets
+
+[Snippets in Visual Studio Code](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
+[snippet-creator - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=nikitaKunevich.snippet-creator)
+[codetalks-new/vscode-snippets-ext-template: A template project for create complex vscode snippets extension easily](https://github.com/codetalks-new/vscode-snippets-ext-template)
+
+### Key Bindings
+
+[Visual Studio Code Key Bindings](https://code.visualstudio.com/docs/getstarted/keybindings)
+[when clause contexts | Visual Studio Code Extension API](https://code.visualstudio.com/api/references/when-clause-contexts)
+[Allow keybindings.json on .vscode folder. · Issue #4504 · microsoft/vscode](https://github.com/Microsoft/vscode/issues/4504) no workspace keybindings
+
+```json
+# unregister current key binding before overriding
+{ "key": "ctrl+shift+n", "command": "-workbench.action.newWindow" }
+```
+
+[Keybinding Issues · microsoft/vscode Wiki](https://github.com/microsoft/vscode/wiki/Keybinding-Issues#basic-troubleshooting)
+`Developer: Toggle Keyboard Shortcuts Troubleshooting`
 
 ## CLI
 
@@ -220,53 +255,21 @@ Plantuml
 
 [My VSCode + Tailwind CSS Workflow Tips (Shortcuts and Extensions) - YouTube](https://www.youtube.com/watch?v=qIHR2wmxy3U)
 
-### Plugins
-
-[Better Comments - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
-[Bookmarks - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
-[Code Spell Checker - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
-[Data Preview - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.vscode-data-preview)
-[Excel Viewer - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer)
-[vscode-faker - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker)
-[File Utils - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) ~= Sidebar Enhancements
-[GitLens — Git supercharged - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-[hadolint - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=exiasr.hadolint)
-[HexEditor - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor)
-[Kubernetes - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools)
-[Paste JSON as Code - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
-[Peacock - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock&wt.mc_id=devto-blog-jopapa)
-[Project Manager - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
-[Sublime Text Keymap and Settings Importer - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
-[WordCounter - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=kirozen.wordcounter)
+### Code Screenshot
 
 `carbon-now-sh` invokes browser, `Polacode` has some incorrect position and too much forks
+
 [CodeSnap - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
 [RayThis: Instant Beautiful Code Screenshots - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Goopware.raythis)
 
-[Introducing MongoDB for VS Code | MongoDB](https://www.mongodb.com/blog/post/introducing-mongodb-for-vs-code)
-[MongoDB for VS Code - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode)
+### REST client
 
-[Remote - Containers - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
-[Use a Docker container as a development environment with Visual Studio Code - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/use-docker-container-dev-env-vs-code/)
+[[http-agents#REST Client]]
+[[http-agents#Thunder Client]]
 
-> see `http-agents.md#gui-app`
+### Copilot
 
-[REST Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
-[VS Code’s REST Client Plugin is All You Need to Make API Calls | by Paige Niedringhaus | Bits and Pieces](https://blog.bitsrc.io/vs-codes-rest-client-plugin-is-all-you-need-to-make-api-calls-e9e95fcfd85a)
-[In VS Code REST CLIENT plugin - how do you store variables from data retrieved from a request? - Stack Overflow](https://stackoverflow.com/a/71553765)
-
-[RapidAPI Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=RapidAPI.vscode-rapidapi-client)
-[I Abandoned Postman for This NEW VS Code Extension | Build, Test & Sell APIs 🤑 - YouTube](https://www.youtube.com/watch?v=MTrj3tNf9jA)
-POSTMan in VS Code, generate types
-
-[Thunder Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
-
-### Copilit
-
-[Copilot for VS Code - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Metatype.copilot-vscode)
-
-[Introducing Copilot for VS Code – AngularDoc – Medium](https://medium.com/angulardoc/introducing-copilot-for-vs-code-c1b1a16bdd21)
-[前端工程师的必备 VS Code 插件 -- Copilot - 知乎](https://zhuanlan.zhihu.com/p/62929504)
+[[github#Copilot]]
 
 ### Remote Development
 
@@ -290,6 +293,31 @@ POSTMan in VS Code, generate types
 [VS Live Share Audio - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio)
 
 [Collaborate using Visual Studio Code - Visual Studio Live Share - Visual Studio Live Share | Microsoft Docs](https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode#share-a-terminal)
+
+### Others
+
+[Better Comments - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+[Bookmarks - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
+[Code Spell Checker - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+[Data Preview - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.vscode-data-preview)
+[Excel Viewer - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer)
+[vscode-faker - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker)
+[File Utils - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) ~= Sidebar Enhancements
+[GitLens — Git supercharged - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+[hadolint - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=exiasr.hadolint)
+[HexEditor - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor)
+[Kubernetes - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools)
+[Paste JSON as Code - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
+[Peacock - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock&wt.mc_id=devto-blog-jopapa) change chrome color for easier window identification
+[Project Manager - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
+[Sublime Text Keymap and Settings Importer - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
+[WordCounter - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=kirozen.wordcounter)
+
+[Introducing MongoDB for VS Code | MongoDB](https://www.mongodb.com/blog/post/introducing-mongodb-for-vs-code)
+[MongoDB for VS Code - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode)
+
+[Remote - Containers - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+[Use a Docker container as a development environment with Visual Studio Code - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/use-docker-container-dev-env-vs-code/)
 
 ### Settings Sync
 
@@ -321,8 +349,3 @@ DO ignore these folders in `syncLocalSettings.json`:
 // @sync os=windows
 // "key": "windows setting",
 ```
-
-[Visual Studio Code Settings Sync Gist](https://gist.github.com/samselikoff/381689dc8fb5ae466a6c8833e84bd612) Tailwind, Vim mode
-
-My Gist:
-[Visual Studio Code Settings Sync Gist](https://gist.github.com/leesei/7cd001966cff7a345118892acb06ba5f)

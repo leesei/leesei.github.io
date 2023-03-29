@@ -7,6 +7,8 @@ tags:
   - gundam
 ---
 
+[[plamo]]
+
 [GUNDAM.INFO | The official Gundam news and video portal](https://hk.gundam.info/)
 
 [Gundam Month: The History of Gundam - YouTube](https://www.youtube.com/watch?v=v3u2OjO1xOA)

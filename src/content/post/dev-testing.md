@@ -4,9 +4,11 @@ description: ""
 created: 2015-06-17
 tags:
   - comp.lang
-  - testing
   - unit-test
+  - dev/testing
 ---
+
+> TODO: split to lang specific files
 
 [What is Software Testing? The 10 Most Common Types of Tests Developers Use in Projects](https://www.freecodecamp.org/news/types-of-software-testing/)
 
@@ -104,9 +106,9 @@ Unit test cons:
 
 ## User story
 
-[How to write Well-Formed User Stories | Pivotal P.O.V.](https://blog.pivotal.io/labs/labs/well-formed-stories)
+[How To Write Well-Formed User Stories](https://tanzu.vmware.com/content/blog/how-to-write-well-formed-user-stories)
 
-```
+```cucumber
 Scenario: title
 Given [some context]
 And [additional context]
@@ -276,7 +278,8 @@ Some test runners take the features and generate test scripts in various languag
 [pytest: helps you write better programs — pytest documentation](https://docs.pytest.org/en/latest/)
 [Effective Python Testing With Pytest – Real Python](https://realpython.com/pytest-python-testing/)
 [Testing Your Code with Python's pytest | Linux Journal](https://www.linuxjournal.com/content/testing-your-code-pythons-pytest)
-[hackebrot/pytest-emoji: pytest + emoji ==](https://github.com/hackebrot/pytest-emoji)
+[hackebrot/pytest-emoji: pytest + emoji ==](https://github.com/hackebrot/pytest-emoji)[Python 3.x | Asyncio Testing - YouTube](https://www.youtube.com/watch?v=bNtOA1EmuKk)
+
 [hackebrot/pytest-tricks: Tips and Tricks for the Python Testing Tool](https://github.com/hackebrot/pytest-tricks)
 [PyTest Tutorial: What is, Install, Fixture, Assertions](https://www.guru99.com/pytest-tutorial.html)
 [Martin Heinz - Pytest Features, That You Need in Your (Testing) Life](https://martinheinz.dev/blog/7)
@@ -305,7 +308,7 @@ Some test runners take the features and generate test scripts in various languag
 [Welcome to Nox — Nox documentation](https://nox.thea.codes/en/stable/) easier to break the abstraction
 [Thea Flowers - Break the Cycle: Three excellent Python tools to automate repetitive tasks - YouTube](https://www.youtube.com/watch?v=-BHverY7IwU)
 
-#### Mock/Stub
+### Mock/Stub
 
 [Welcome to Faker’s documentation! — Faker documentation](https://faker.readthedocs.io/en/master/)
 [joke2k/faker: Faker is a Python package that generates fake data for you.](https://github.com/joke2k/faker)
@@ -339,6 +342,8 @@ Some test runners take the features and generate test scripts in various languag
 [ReactiveConf 2017 - Rogelio Guzman: Jest as a Platform - YouTube](https://www.youtube.com/watch?v=NtjyeojAOBs)
 
 [Testing Library | Testing Library](https://testing-library.com/)
+
+[Jasmine](https://jasmine.github.io/)
 
 [Intern: Software testing for humans](https://theintern.github.io/) [video](https://www.youtube.com/watch?v=_KFjuEKLqDA)
 
@@ -385,7 +390,7 @@ const experiment = lab.experiment;
 const test = lab.test;
 
 experiment("getting started with hapi testing,", () => {
-  test("lab considers this test as TOOD and skips it");
+  test("lab considers this test as TODO and skips it");
 
   test("always succeeding :)", () => {});
 });
@@ -465,46 +470,6 @@ Reporters:
 [namuol/tap-difflet](https://github.com/namuol/tap-difflet)
 [tap-nyan - npm](https://www.npmjs.com/package/tap-nyan)
 
-### Browser
-
-[⚙️ Explain Selenium & Webdrivers automation (Like I'm Five) - DEV Community 👩‍💻👨‍💻](https://dev.to/uilicious/explain-selenium-webdrivers-like-i-m-five-16ng)
-[Google Open Source Blog: Introducing WebDriver](http://google-opensource.blogspot.hk/2009/05/introducing-webdriver.html)
-[WebdriverIO · Next-gen WebDriver test framework for Node.js](https://webdriver.io/)
-
-task runner for browser tests:
-[testem/testem: Test'em 'Scripts! A test runner that makes Javascript unit testing fun.](https://github.com/testem/testem)
-[substack/testling: unit tests in all the browsers](https://github.com/substack/testling)
-
-[UI-licious | End-to-end user journey testing for the modern web](https://uilicious.com/#page-top)
-[[Success] Test: Untitled Test](https://snippet.uilicious.com/test/public/8t9HK5ACWLGSJKhBzREKz2)
-
-[nolanlawson/fuite: A tool for finding memory leaks in web apps](https://github.com/nolanlawson/fuite)
-[assaf/zombie: Insanely fast, full-stack, headless browser testing using node.js](https://github.com/assaf/zombie) `jsdom`, old stack
-
-[defunctzombie/zuul: multi-framework javascript browser testing](https://github.com/defunctzombie/zuul)
-[prometheusresearch/zuul-builder-webpack: Webpack builder for zuul test runner](https://github.com/prometheusresearch/zuul-builder-webpack)
-
-[Jasmine](http://jasmine.github.io/edge/introduction.html)
-[uxebu/kommando: A functional / acceptance test runner (using Webdriver)](https://github.com/uxebu/kommando)
-
-[Selenium - Web Browser Automation](http://www.seleniumhq.org/)
-[Selenium, Travis-CI and WebRTC == <&](https://blog.andyet.com/2015/07/28/selenium-travis-webrtc/)
-[Using Python with Selenium to Automate Mouse Clicks and Filling Forms](https://towardsdatascience.com/using-python-and-selenium-to-automate-filling-forms-and-mouse-clicks-f87c74ed5c0f)
-[Advanced Automation Tips with Python | Selenium - DEV Community 👩‍💻👨‍💻](https://dev.to/coderasha/advanced-automation-tips-with-python-selenium-17j0)
-[How I DIY’d my Budget Using Python for Selenium and Beautiful Soup | by Jennifer Kim | Towards Data Science](https://towardsdatascience.com/how-i-diyd-my-budget-using-python-for-selenium-and-beautiful-soup-4d2edc5c519)
-[Learn How to Automate Browser Testing With Selenium WebDriver — Part 1 - DZone DevOps](https://dzone.com/articles/learn-how-to-automate-browser-with-selenium-webdri)
-[Automate 99% of Websites with Selenium 4 and Python | by Frank Andrade | Geek Culture | May, 2022 | Medium](https://medium.com/geekculture/automate-99-of-websites-with-selenium-4-and-python-38122280493c)
-
-[Sahi (software) - Wikiwand](<https://www.wikiwand.com/en/Sahi_(software)>)
-[Sahi - Web Automation and Test Tool download | SourceForge.net](https://sourceforge.net/projects/sahi/)
-
-[5 Best Python Frameworks for WebView Testing | Codementor](https://www.codementor.io/saifsadiq1995/5-best-python-frameworks-for-webview-testing-rp182gqxa)
-
-[Robot Framework](https://robotframework.org/)
-[Robot Framework documentation](http://robotframework.org/robotframework/#user-guide)
-[Robot Framework Introduction](https://www.slideshare.net/pekkaklarck/robot-framework-introduction)
-[QuickStartGuide/QuickStart.rst at master · robotframework/QuickStartGuide](https://github.com/robotframework/QuickStartGuide/blob/master/QuickStart.rst)
-
 ### Assertion
 
 [hapijs-code · GitHub](https://github.com/hapijs/code)
@@ -513,11 +478,6 @@ task runner for browser tests:
 [Automattic/expect.js](https://github.com/Automattic/expect.js)
 [shouldjs/should.js](https://github.com/shouldjs/should.js)
 [sindresorhus/core-assert: Node.js `assert` as a standalone module](https://github.com/sindresorhus/core-assert)
-
-### Runner
-
-[airportyh/testem](https://github.com/airportyh/testem)
-[cybertk/abao: REST API automated testing tool based on RAML](https://github.com/cybertk/abao)
 
 ### End-to-end
 
@@ -528,6 +488,9 @@ task runner for browser tests:
 [Late to the Party; End-to-End Testing: Part 2 – codeburst](https://codeburst.io/late-to-the-party-end-to-end-testing-part-2-3246c69248ca)
 [Late to the Party; End-to-End Testing: Part 3 – codeburst](https://codeburst.io/late-to-the-party-end-to-end-testing-part-3-be8bd5d66ada)
 [Late to the Party; End-to-End Testing: Part 5 – codeburst](https://codeburst.io/late-to-the-party-end-to-end-testing-part-5-d8dd9159fee7)
+
+[UI-licious | End-to-end user journey testing for the modern web](https://uilicious.com/#page-top)
+[[Success] Test: Untitled Test](https://snippet.uilicious.com/test/public/8t9HK5ACWLGSJKhBzREKz2)
 
 [Karma - Spectacular Test Runner for Javascript](http://karma-runner.github.io/latest/index.html)
 [ksunair-introtokarma](https://github.com/ksunair/introtokarma)

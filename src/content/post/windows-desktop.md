@@ -75,7 +75,7 @@ Only Windows 10 Professional and Enterprise supports RDP server and it only allo
 [Windows 10 PowerToys: How to use and configure FancyZones - TechRepublic](https://www.techrepublic.com/article/windows-10-powertoys-how-to-use-and-configure-fancyzones/)
 [FancyZones Overview · microsoft/PowerToys Wiki · GitHub](https://github.com/microsoft/PowerToys/wiki/FancyZones-Overview)
 
-[微軟竟給 Windows 量身打造了一套生產力小工具？看在這誠意的份上我只好安裝了 #PowerToys - YouTube](https://www.youtube.com/watch?v=EAoIGJjWdbA)
+[微軟竟給 Windows 量身打造了一套生產力小工具？看在這誠意的份上我只好安裝了 PowerToys - YouTube](https://www.youtube.com/watch?v=EAoIGJjWdbA)
 
 ## CMD Shell/Batch Script (.bat)
 

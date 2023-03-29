@@ -178,6 +178,8 @@ Pattern (picture) marker:
 
 ---
 
+[真的晕到吐...VR 眼镜最强劝退指南 - YouTube](https://www.youtube.com/watch?v=RROr6EmKz-k)
+
 # Headmount Display Headsets
 
 [AR 眼镜到什么程度了？为什么最近广告这么多？ - YouTube](https://www.youtube.com/watch?v=hJZ3pRkBMMo)

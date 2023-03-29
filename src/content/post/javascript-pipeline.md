@@ -88,7 +88,7 @@ tags:
 
 > ESM bunddles are also useful for Deno and modern browser
 
-[[deno-notes]]
+[[deno]]
 
 [UNPKG](https://unpkg.com/) UMD
 [Skypack: search millions of open source JavaScript packages](https://www.skypack.dev/) ESM

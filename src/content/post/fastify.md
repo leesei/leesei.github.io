@@ -6,7 +6,7 @@ tags:
   - backend
   - fastify
   - javascript
-  - typecript
+  - typescript
   - web
   - web-dev
   - web-framework

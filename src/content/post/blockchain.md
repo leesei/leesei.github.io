@@ -131,7 +131,7 @@ SegWit2x
 
 [OpenSea: Buy Crypto Collectibles, CryptoKitties, Decentraland, and more on Ethereum](https://testnets.opensea.io/)
 [How to Make an NFT and Render it on the OpenSea Marketplace](https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/)
-[NFT 完全新手教學：NFT 是什麼？如何上架 NFT 作品？上架費用多少？OurSong 平台入金方法介紹 #區塊鏈 (169478) - Cool3c](https://www.cool3c.com/article/169478)
+[NFT 完全新手教學：NFT 是什麼？如何上架 NFT 作品？上架費用多少？OurSong 平台入金方法介紹 區塊鏈 (169478) - Cool3c](https://www.cool3c.com/article/169478)
 [在元宇宙裡買塊地？區塊鏈虛擬土地購買全攻略【2022 最新版】 - INSIDE](https://www.inside.com.tw/article/26632-buy-a-piece-of-land-in-the-metaverse)
 [NFT 現況及未來!! 去中心化還能被審查? 我們離 web3.0 還有多遠? | 在地上滾的工程師 Nic - YouTube](https://www.youtube.com/watch?v=p5Rcgfud21U)
 [NFT 智能合約開發全攻略! 發行 NFT 背後的技術實戰及原理! 盲盒、公開發售怎麼做到的? | 在地上滾的工程師 Nic - YouTube](https://www.youtube.com/watch?v=3vWw9Xt48bs)
@@ -157,6 +157,7 @@ SegWit2x
 [Is Web3 all Hype? Top 10 Web 3.0 Questions & Answers - YouTube](https://www.youtube.com/watch?v=wHTcrmhskto)
 [Decentralization for Web3 Builders: Principles, Models, How | Future](https://future.a16z.com/web3-decentralization-models-framework-principles-how-to/)
 
+[終將改變一切的 Web3.0 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=Ks_QkNTbGJY)
 [Web3.0 到底是怎么回事儿？ - YouTube](https://www.youtube.com/watch?v=YdWP-wJh9jA)
 [关于元宇宙，你需要知道的那些事儿~ ｜ NFT Metaverse - YouTube](https://www.youtube.com/watch?v=pFRXGxwat_U)
 

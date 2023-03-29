@@ -8,7 +8,7 @@ tags:
 ---
 
 Learn how to code for kids
-[兒童程式這樣學，6 階段讓孩子愛上 Coding！ #程式語言 (178371) - Cool3c](https://www.cool3c.com/article/178371)
+[兒童程式這樣學，6 階段讓孩子愛上 Coding！ 程式語言 (178371) - Cool3c](https://www.cool3c.com/article/178371)
 
 [Learn today, build a brighter tomorrow. | Code.org](https://code.org/)
 [Code.org - Learn Computer Science](https://studio.code.org/courses) where President Obama learned JavaScript programming
@@ -67,19 +67,6 @@ Learn how to code for kids
 
 [Computer Science - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 [How do computers read code? - YouTube](https://www.youtube.com/watch?v=QXjU9qTsYCc)
-
-Computerphile
-[Multi Programming - Computerphile - YouTube](https://www.youtube.com/watch?v=MB0yDMQj1lU)
-[OS Context Switching - Computerphile - YouTube](https://www.youtube.com/watch?v=DKmBRl8j3Ak)
-[Multithreading Code - Computerphile - YouTube](https://www.youtube.com/watch?v=7ENFeb-J75k)
-[Multiple Processor Systems - Computerphile - YouTube](https://www.youtube.com/watch?v=3RvkfuXUv1c)
-[GUI Programming Introduction - Computerphile - YouTube](https://www.youtube.com/watch?v=odjdWym0t4I)
-[GUI: Under the Hood - Computerphile - YouTube](https://www.youtube.com/watch?v=ptcHHXp1PEU)
-[How Computer Memory Works - YouTube](https://www.youtube.com/playlist?list=PLzH6n4zXuckoxFPyhsMOYMGqyZOeN2SDJ)
-[What's Virtual Memory? - Computerphile - YouTube](https://www.youtube.com/watch?v=5lFnKYCZT5o)
-
-[How does Computer Memory Work? 💻🛠 - YouTube](https://www.youtube.com/watch?v=7J7X7aZvMXQ)
-[Building the Bits and Qubits - YouTube](https://www.youtube.com/watch?v=F8U1d2Hqark)
 
 ## Hour of Code
 
@@ -545,7 +532,7 @@ Server administration is difficult
 
 [Hacking Minecraft - YouTube](https://www.youtube.com/playlist?list=PLME-KWdxI8dfQ1mKqnED8eAxZIb82ju6H)
 [Learn Python and Electronics with Minecraft Pi Edition](https://www.makeuseof.com/tag/learn-python-electronics-minecraft-pi-edition/)
-[How to Make a Raspberry Pi Minecraft Server @Raspberry_Pi #PiDay #RaspberryPi « Adafruit Industries – Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/2019/10/11/how-to-make-a-raspberry-pi-minecraft-server-raspberry_pi-piday-raspberrypi/)
+[How to Make a Raspberry Pi Minecraft Server « Adafruit Industries – Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/2019/10/11/how-to-make-a-raspberry-pi-minecraft-server-raspberry_pi-piday-raspberrypi/)
 [How to Install Minecraft Server on Raspberry Pi | Linuxize](https://linuxize.com/post/how-to-install-minecraft-server-on-raspberry-pi/)
 
 #### Minecraft: Education Edition

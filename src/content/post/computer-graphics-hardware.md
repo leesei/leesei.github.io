@@ -1,14 +1,18 @@
 ---
-title: Computer Graphics
-description: ""
+title: Computer Graphics (Hardware)
+description: Computer Graphics on the hardware side
 created: 2016-10-18
+updated: 2023-03-23
 tags:
   - comp.hardware
+  - graphics/hardware
 ---
+
+The requirements for computer graphics stems from rendering games.
+See [[computer-graphics-software]] for the software side.
 
 [GPU Hierarchy - Comparison of Graphics Cards for Gaming](http://www.tomshardware.com/reviews/gpu-hierarchy,4388.html)
 [GPU Database | TechPowerUp](https://www.techpowerup.com/gpu-specs/) performance comparison
-[How Rendering Graphics Works in Games! - YouTube](https://www.youtube.com/watch?v=cvcAjgMUPUA)
 
 [How Do Graphics Cards Work? - ExtremeTech](https://www.extremetech.com/gaming/269335-how-graphics-cards-work)
 
@@ -25,8 +29,12 @@ RAM of GPU matters the most on high texture and output resolution.
 
 ## History
 
+> some will touch on game graphics
+
+Ahoy
 [A Brief History of Graphics - YouTube](https://www.youtube.com/watch?v=QyjyWUrHsFc)
 [A Brief History of Graphics - YouTube](https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f) series
+
 [The 30 Year History of AMD Graphics, In Pictures](http://www.tomshardware.com/picturestory/735-history-of-amd-graphics.html)
 [The History Of Nvidia GPUs](http://www.tomshardware.com/picturestory/715-history-of-nvidia-gpus.html)
 
@@ -83,6 +91,7 @@ DSR Dynamic Super Resolution
 [Did Nvidia Just Do Us A Favor? - DLDSR Explained - YouTube](https://www.youtube.com/watch?v=BgL8G1XjrMk)
 [免费的性能增强是怎么来的？DLSS/NIS/FSR 技术解析 - YouTube](https://www.youtube.com/watch?v=QN3SAxTSt94)
 
+[GDC 2023: Introducing the FidelityFX SDK with new technologies, an early look at FSR 3 + more! - AMD GPUOpen](https://gpuopen.com/gdc-2023-fidelityfx-sdk-fsr3/)
 [AMD FidelityFX Super Resolution, FSR 測試 / 效能提升 畫質稍減 邊緣重建 | XFastest News](https://news.xfastest.com/amd/96855/amd-fidelityfx-super-resolution-fsr/)
 [What Is AMD's FSR and What Does it Do?](https://www.makeuseof.com/amd-fsr-explained/)
 [AMD FidelityFX Super Resolution Quality Comparison & Benchmarks (FSR) - YouTube](https://www.youtube.com/watch?v=KCzjQ4qP124)

@@ -5,6 +5,7 @@ created: 2017-06-16
 tags:
   - javascript/runtime
   - web
+  - web/browsers
 ---
 
 [Google Chrome](http://www.google.com/chrome/)

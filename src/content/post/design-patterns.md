@@ -27,6 +27,8 @@ Contains [Programming paradigm - Wikiwand](https://www.wikiwand.com/en/Programmi
 [Software Design | Khalil Stemmler](https://khalilstemmler.com/articles/categories/software-design/)
 [Composing Software: The Book - JavaScript Scene - Medium](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc) !important
 
+[SOLID, GRASP, and Other Basic Principles of Object-Oriented Design - DZone](https://dzone.com/articles/solid-grasp-and-other-basic-principles-of-object-o)
+
 [架构整洁之道, 看这一篇就够了！ - 阿里技术](https://mp.weixin.qq.c3gleeseom/s/Kd1T40KZWvdThKC3IN6n-Q)
 
 ## Object Oriented Programming
@@ -91,6 +93,7 @@ John Vlissides: <http://en.wikipedia.org/wiki/John_Vlissides>
 ## RAII
 
 [Resource acquisition is initialization - Wikiwand](https://www.wikiwand.com/en/Resource_acquisition_is_initialization)
+[Rust and RAII Memory Management - Computerphile - YouTube](https://www.youtube.com/watch?v=pTMvh6VzDls)
 
 ## CSP
 
@@ -122,6 +125,7 @@ John Vlissides: <http://en.wikipedia.org/wiki/John_Vlissides>
 [Software Design - Introduction to SOLID Principles in 8 Minutes - YouTube](https://www.youtube.com/watch?v=yxf2spbpTSw)
 [Uncle Bob's SOLID principles made easy 🍀 - in Python! - YouTube](https://www.youtube.com/watch?v=pTB30aXS77U)
 [This is the Only Right Way to Write React clean-code - SOLID - YouTube](https://www.youtube.com/watch?v=MSq_DCRxOxw)
+[5 Principles that will make you a SOLID JavaScript Developer](http://thefullstack.xyz/solid-javascript/)
 
 S: Single Responsibility Principle
 O: Open-Closed Principle
@@ -182,7 +186,7 @@ Dependency Inversion: a design pattern to create abstract class for dependency t
 [Using Dagger 2 for dependency injection in Android - Tutorial](https://www.vogella.com/tutorials/Dagger/article.html)
 [Dagger in Kotlin: Gotchas and Optimizations - Android Developers - Medium](https://medium.com/androiddevelopers/dagger-in-kotlin-gotchas-and-optimizations-7446d8dfd7dc)
 
-## CUPID properties
+## CUPID Properties
 
 [CUPID - for joyful code](https://cupid.dev/)
 [CUPID - for joyful coding - Speaker Deck](https://speakerdeck.com/tastapod/cupid-for-joyful-coding)
@@ -198,6 +202,29 @@ Dependency Inversion: a design pattern to create abstract class for dependency t
 [Daniel Terhorst-North - SOLID vs. CUPID - YouTube](https://www.youtube.com/watch?v=2QahGarHpXQ)
 
 [CUPID—the back story - Dan North & Associates Ltd](https://dannorth.net/2021/03/16/cupid-the-back-story/)
+
+## GRASP Principles
+
+> general responsibility assignment software patterns
+
+[GRASP (object-oriented design) - Wikiwand](<https://www.wikiwand.com/en/GRASP_(object-oriented_design)>) easier to understand and more practical than SOLID
+[GRASP: 9 Must-Know Design Principles for Code - Fluent C++](https://www.fluentcpp.com/2021/06/23/grasp-9-must-know-design-principles-for-code/)
+
+[GRASP Design Principles: Why They Matter (And How to Use Them) - YouTube](https://www.youtube.com/watch?v=fGNF6wuD-fg)
+[ArjanCodes/2023-grasp](https://github.com/ArjanCodes/2023-grasp)
+
+- Creator
+- Information Expert
+- Controller
+- Protected variations
+- Indirection
+- Low coupling
+- High cohesion
+- Polymorphism
+- Pure fabrication
+
+[rao.pdf](https://home.cs.colorado.edu/~kena/classes/5448/f12/presentation-materials/rao.pdf)
+<https://personal.utdallas.edu/~chung/SP/applying-uml-and-patterns.pdf>
 
 ## CQRS
 
@@ -235,6 +262,18 @@ Allows changing schema by replaying event history to get latest state.
 
 ## MVC/MVVM/MVP
 
+[Which Software Architecture Should You Use: MVC, MVP, or MVVM? - YouTube](https://www.youtube.com/watch?v=eHhXoCNCI1c)
+[ArjanCodes/2022-gui](https://github.com/ArjanCodes/2022-gui)
+
+**MVC**
+V has reference to M, C has reference to V and M
+**MVP**
+V has reference to P, P has reference to V and M
+P serves as a facade between V and M
+**MVVM**
+data binding
+V bind to VM's property, VM don't have reference to V
+
 [Why I No Longer Use MVC Frameworks](https://www.infoq.com/articles/no-more-mvc-frameworks/) !important
 MVP is not as flexible as MVVM as the Presenter can only exist with a View.
 
@@ -255,7 +294,6 @@ A proper Model is ignorant of the ViewModel, and a proper ViewModel is ignorant 
 [Understanding The Difference Between MVC, MVP and MVVM Design Patterns](https://www.linkedin.com/pulse/understanding-difference-between-mvc-mvp-mvvm-design-rishabh-software)
 [Architecture Comparison Between MVC vs. MVP vs. MVVM](https://www.bacancytechnology.com/blog/mvc-vs-mvp-vs-mvvm)
 [MVC/MVP/MVVM/CLEAN/VIPER/REDUX/MVI/PRNSAASPFRUICC — building abstractions for the sake of building…](https://proandroiddev.com/mvc-mvp-mvvm-clean-viper-redux-mvi-prnsaaspfruicc-building-abstractions-for-the-sake-of-building-18459ab89386)
-[Which Software Architecture Should You Use: MVC, MVP, or MVVM? - YouTube](https://www.youtube.com/watch?v=eHhXoCNCI1c)
 
 [Access a Control Method from a ViewModel – Xamarin Help](https://www.xamarinhelp.com/access-a-control-method-from-a-viewmodel/)
 store control in VM, binding control to `ContentControl` in View

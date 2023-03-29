@@ -1,5 +1,5 @@
 ---
-title: Tuned mass damper
+title: Tuned Mass Damper
 description: ""
 created: 2018-07-05
 tags:

@@ -307,11 +307,21 @@ Panasonic TH-L50EM6 VIERA® LED TV \$6464@2014
 
 LG TV are more suitable for PC display
 Their OLED can be pitch black
-[LG 樂金電視機 分類及價錢 - 香港格價網 Price.com.hk](https://www.price.com.hk/category.php?c=100008&brand=LG%20%E6%A8%82%E9%87%91&filter=104855&p_r=500,11100)
+[LG 樂金電視機 分類及價錢 - 香港格價網 Price.com.hk](https://www.price.com.hk/category.php?c=100008&brand=LG%20%E6%A8%82%E9%87%91&filter=104855&p_r=3000,8000)
 
 - 2020 CX
 - 2021 C1
 - 2022 C2
+
+# Printer
+
+After 2020 there are official printers with ink tank, no more after market modifications needed.
+I've bought an Epson L4160.
+
+[教學系列｜電腦清潔 通用 Epson 噴頭清潔 完整教學 讓您省下 300-800 元維修費 廠商不願說的秘密大公開 正確清潔噴頭方法 電腦驅動清潔 EPSON 維修/印客屋/印表機維修-20211124P32 - YouTube](https://www.youtube.com/watch?v=aCB8ENL9GA4)
+[教學系列｜別亂聽強打噴頭再把機器用壞了！傳授正確清潔泡噴頭方式！保養＋清潔噴頭兩用清潔液！—EPSON 維修/印客屋/inkchipless/印表機維修-20220105P36 - YouTube](https://www.youtube.com/watch?v=7Fb8ULgKKfY) 清潔液
+
+[印表機再也不怕噴墨頭阻塞 達人傳授省錢又好用獨門撇步 - YouTube](https://www.youtube.com/watch?v=-LpovVAwe2Q)
 
 # 投影仪
 

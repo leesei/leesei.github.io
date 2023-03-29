@@ -1,10 +1,12 @@
 ---
-title: Web Scraping
-description: ""
+title: Browser automation
+description: Automates browser, for web scraping and testing
 created: 2017-11-20
+updated: 2023-03-22
 tags:
-  - scraping
   - web
+  - web/scraping
+  - web/browsers
 ---
 
 [Web crawler - Wikiwand](https://www.wikiwand.com/en/Web_crawler)
@@ -25,11 +27,45 @@ tags:
 [Turn Websites into structured data /Dataflow kit](https://dataflowkit.com/)
 [Knowledge Graph, AI Web Data Extraction and Crawling | Diffbot](https://www.diffbot.com/)
 
-[postlight/mercury-parser at devawesome](https://github.com/postlight/mercury-parser)
-
 [Chromeless, Chrominator, Chromy, Navalia, Lambdium, GhostJS, AutoGCD](https://medium.com/@kensoh/chromeless-chrominator-chromy-navalia-lambdium-ghostjs-autogcd-ef34bcd26907)
 
-[SelectorGadget - Chrome Web Store](https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb/related)
+[SelectorGadget - Chrome Web Store](https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb)
+
+[⚙️ Explain Selenium & Webdrivers automation (Like I'm Five) - DEV Community 👩‍💻👨‍💻](https://dev.to/uilicious/explain-selenium-webdrivers-like-i-m-five-16ng)
+[Google Open Source Blog: Introducing WebDriver](http://google-opensource.blogspot.hk/2009/05/introducing-webdriver.html)
+[WebdriverIO · Next-gen WebDriver test framework for Node.js](https://webdriver.io/)
+
+task runner for browser tests:
+[testem/testem: Test'em 'Scripts! A test runner that makes Javascript unit testing fun.](https://github.com/testem/testem)
+[substack/testling: unit tests in all the browsers](https://github.com/substack/testling)
+
+[Introducing fuite: a tool for finding memory leaks in web apps | Read the Tea Leaves](https://nolanlawson.com/2021/12/17/introducing-fuite-a-tool-for-finding-memory-leaks-in-web-apps/)
+[nolanlawson/fuite: A tool for finding memory leaks in web apps](https://github.com/nolanlawson/fuite)
+
+## Selenium
+
+[Selenium - Web Browser Automation](http://www.seleniumhq.org/)
+[Selenium, Travis-CI and WebRTC == <&](https://blog.andyet.com/2015/07/28/selenium-travis-webrtc/)
+[Using Python with Selenium to Automate Mouse Clicks and Filling Forms](https://towardsdatascience.com/using-python-and-selenium-to-automate-filling-forms-and-mouse-clicks-f87c74ed5c0f)
+[Advanced Automation Tips with Python | Selenium - DEV Community 👩‍💻👨‍💻](https://dev.to/coderasha/advanced-automation-tips-with-python-selenium-17j0)
+[How I DIY’d my Budget Using Python for Selenium and Beautiful Soup | by Jennifer Kim | Towards Data Science](https://towardsdatascience.com/how-i-diyd-my-budget-using-python-for-selenium-and-beautiful-soup-4d2edc5c519)
+[Learn How to Automate Browser Testing With Selenium WebDriver — Part 1 - DZone DevOps](https://dzone.com/articles/learn-how-to-automate-browser-with-selenium-webdri)
+[Automate 99% of Websites with Selenium 4 and Python | by Frank Andrade | Geek Culture | May, 2022 | Medium](https://medium.com/geekculture/automate-99-of-websites-with-selenium-4-and-python-38122280493c)
+
+[Sahi (software) - Wikiwand](<https://www.wikiwand.com/en/Sahi_(software)>)
+[Sahi - Web Automation and Test Tool download | SourceForge.net](https://sourceforge.net/projects/sahi/)
+
+[5 Best Python Frameworks for WebView Testing | Codementor](https://www.codementor.io/saifsadiq1995/5-best-python-frameworks-for-webview-testing-rp182gqxa)
+
+[Robot Framework](https://robotframework.org/)
+[Robot Framework documentation](http://robotframework.org/robotframework/#user-guide)
+[Robot Framework Introduction](https://www.slideshare.net/pekkaklarck/robot-framework-introduction)
+[QuickStartGuide/QuickStart.rst at master · robotframework/QuickStartGuide](https://github.com/robotframework/QuickStartGuide/blob/master/QuickStart.rst)
+
+## Nightwatch.js
+
+[Nightwatch.js | Node.js powered End-to-End testing framework](https://nightwatchjs.org/)
+[nightwatchjs/nightwatch: End-to-end testing framework written in Node.js and using the W3C Webdriver API](https://github.com/nightwatchjs/nightwatch)
 
 ## Headless Chrome
 
@@ -107,11 +143,11 @@ tags:
 [Mastering Web Scraping in Python: From Zero to Hero - ZenRows](https://www.zenrows.com/blog/mastering-web-scraping-in-python-from-zero-to-hero)
 [Web scraping and parsing with Beautiful Soup & Python - YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfV1MIRBOcqClP6VZXsvyZS)
 
-[Newspaper3k: Article scraping & curation — newspaper documentation](https://newspaper.readthedocs.io/en/latest/)
-[jmcarp/robobrowser](https://github.com/jmcarp/robobrowser)
+[Newspaper3k: Article scraping & curation — newspaper 0.0.2 documentation](https://newspaper.readthedocs.io/en/latest/)
+[codelucas/newspaper: News, full-text, and article metadata extraction in Python 3. Advanced docs:](https://github.com/codelucas/newspaper)
+
 [michaelhelmick/lassie: Web Content Retrieval for Humans™](https://github.com/michaelhelmick/lassie)
-[chineking/cola: A high-level distributed crawling framework.](https://github.com/chineking/cola)
-[matiasb/demiurge: PyQuery-based scraping micro-framework.](https://github.com/matiasb/demiurge)
+[qinxuye/cola: A high-level distributed crawling framework.](https://github.com/qinxuye/cola)
 
 ### Scrapy
 
@@ -122,9 +158,6 @@ tags:
 [The Scrapinghub Blog – Turn Web Content Into Useful Data](https://blog.scrapinghub.com/)
 [Scraping the Steam Game Store with Scrapy – The Scrapinghub Blog](https://blog.scrapinghub.com/2017/07/07/scraping-the-steam-game-store-with-scrapy/)
 [How to Build your own Price Monitoring Tool – The Scrapinghub Blog](https://blog.scrapinghub.com/2016/11/24/how-to-build-your-own-price-monitoring-tool/)
-
-[scrapinghub/portia: Visual scraping for Scrapy](https://github.com/scrapinghub/portia)
-[Portia](https://portia.scrapinghub.com/) hosted version
 
 ### woob
 
@@ -137,6 +170,8 @@ tags:
 
 [ChukwuEmekaAjah/beautiful-dom: A JavaScript library that models essential HTML DOM API methods and properties relevant for extracting data from crawled web pages or XML documents](https://github.com/ChukwuEmekaAjah/beautiful-dom)
 [Beautiful-dom; a HTML parser built with TypeScript - DEV Community 👩‍💻👨‍💻](https://dev.to/ajahso4/beautiful-dom-a-html-parser-built-with-typescript-26op)
+
+[postlight/parser: 📜 Extract meaningful content from the chaos of a web page](https://github.com/postlight/parser)
 
 [cheeriojs/cheerio: Fast, flexible, and lean implementation of core jQuery designed specifically for the server.](https://github.com/cheeriojs/cheerio)
 

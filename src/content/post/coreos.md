@@ -7,7 +7,7 @@ tags:
   - coreos
   - devops
   - shell-tool
-  - web-deploy
+  - dev/deploy
 ---
 
 # CoreOS

@@ -492,6 +492,11 @@ Fallout 76 is an online only game with in-game store.
 [Who Created Angels & Demons? Diablo Lore: Part 1 - YouTube](https://www.youtube.com/watch?v=BShXixAtYp0)
 [Who Were The Ancients? Diablo Lore: Part 2 - YouTube](https://www.youtube.com/watch?v=lM6cGRGlxD8)
 
+# Plants vs. Zombies: Garden Warfare 2
+
+[Plants vs. Zombies: Garden Warfare 2 Wiki Guide - IGN](https://www.ign.com/wikis/plants-vs-zombies-garden-warfare-2/)
+[Category:Plants vs. Zombies: Garden Warfare 2 | Plants vs. Zombies Wiki | Fandom](https://plantsvszombies.fandom.com/wiki/Category:Plants_vs._Zombies:_Garden_Warfare_2)
+
 # Warframe
 
 [How Did Warframe, a Free MMO, Become My Favorite Game? | Good Cheap Games - YouTube](https://www.youtube.com/watch?v=VKYwETRFpE0)

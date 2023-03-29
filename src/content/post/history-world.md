@@ -28,6 +28,7 @@ tags:
 [World history | Arts and humanities | Khan Academy](https://www.khanacademy.org/humanities/world-history)
 [Human prehistory | 23andMe | Partner content | Khan Academy](https://www.khanacademy.org/partner-content/23andme/human-prehistory)
 [Crash Course World History | Partner content | Khan Academy](https://www.khanacademy.org/partner-content/crash-course1/crash-course-world-history)
+[Extra History - YouTube](https://www.youtube.com/@extrahistory)
 
 [History of the Entire World (Ancient, Medieval, Modern) | World History Documentary - YouTube](https://www.youtube.com/watch?v=T5PwyuzSYcs)
 

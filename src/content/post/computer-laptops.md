@@ -1,6 +1,6 @@
 ---
 title: Laptop
-description: ""
+description: Mostly my study of laptop on market in 2019
 created: 2019-05-03
 tags:
   - comp.hardware
@@ -8,12 +8,14 @@ tags:
   - ultrabook
 ---
 
+> TODO: move time related info to `computer-laptops-2019`
+
 [Laptop Mag: Find the Perfect Laptop, Tablet or 2-in-1 for You](https://www.laptopmag.com/)
 [广州笔记本乐园官方网站 广州二手 IBM/Thinkpad 笔记本电脑 专卖二手 Thinkpad 笔记本 二手笔记本论坛 二手笔记本网站 Thinkpad 笔记本电脑 - Powered by Discuz!](http://www.lybook.com.cn/forum.php)
 [cyber-pro](http://www.cyber-system-pro.com.hk/)
 [Compare Laptops - Latest laptop Comparison by Price, Specification, Features, Performance & Reviews | Gadgets Now](https://www.gadgetsnow.com/compare-laptops)
 
-![Panels](./computer-laptops/ABCD panel.png)
+![Panels](./_assets/computer-laptops/ABCD%20panel.png)
 A: LCD Back Cover
 B: Front bezel
 C: Palmrest
@@ -33,8 +35,6 @@ Lookup spec by product ID
 [partslookup - HK](https://support.lenovo.com/hk/en/partslookup)
 [Home - Global Support - US](https://support.lenovo.com/us/en/)
 [Product Specifications Reference(PSREF)](http://psref.lenovo.com/)
-
-[[ROM][ICS]Ideapad K1 Official Release - Lenovo Community](https://forums.lenovo.com/t5/Lenovo-Android-based-Tablets-and/ROM-ICS-Ideapad-K1-Official-Release/td-p/810399)
 
 [THINK: A brief history of ThinkPads, from IBM to Lenovo - NotebookCheck.net News](https://www.notebookcheck.net/THINK-A-brief-history-of-ThinkPads-from-IBM-to-Lenovo.418728.0.html)
 [ThinkPad 综合站 - 知乎](https://zhuanlan.zhihu.com/thinkpad)

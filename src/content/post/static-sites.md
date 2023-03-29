@@ -105,6 +105,7 @@ tags:
 [Getting Started—Eleventy, a simpler static site generator.](https://www.11ty.dev/docs/getting-started/)
 
 [Exploring 11ty with Zach Leatherman - YouTube](https://www.youtube.com/watch?v=iuwqOkH6jKY)
+[What's New in Eleventy 2: A Great SSG Just Got Better](https://www.sitepoint.com/eleventy-2/)
 
 [Slinkity](https://slinkity.dev/) enable component frameworks for templates
 [Quick start](https://slinkity.dev/docs/quick-start/)

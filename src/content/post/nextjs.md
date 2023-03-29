@@ -89,7 +89,7 @@ npx build && npx export -o build/ # static HTML (SSG) without need of app server
 [Data Fetching: Incremental Static Regeneration | Next.js](https://nextjs.org/docs/basic-features/data-fetching/incremental-static-regeneration)
 [Incremental Static Regeneration with Next.js - LogRocket Blog](https://blog.logrocket.com/incremental-static-regeneration-with-next-js/)
 
-[elmasse/nextein: A static site generator with markdown + react for Next.js](https://github.com/elmasse/nextein)
+[javascript - Next.JS links do not work after exporting static HTML - Stack Overflow](https://stackoverflow.com/questions/71075761/next-js-links-do-not-work-after-exporting-static-html)
 
 [Blog - Markdown/MDX with Next.js | Next.js](https://nextjs.org/blog/markdown)
 [How I Built my Blog using MDX, Next.js, and React](https://www.joshwcomeau.com/blog/how-i-built-my-blog/) compares MDX loaders
@@ -102,8 +102,10 @@ npx build && npx export -o build/ # static HTML (SSG) without need of app server
 
 [hashicorp/next-mdx-remote: Load mdx content from anywhere through getStaticProps in next.js](https://github.com/hashicorp/next-mdx-remote) replaces `next-mdx-enhanced`
 
-[Nextra – Next.js Static Site Generator](https://nextra.site/)///
+[Nextra – Next.js Static Site Generator](https://nextra.site/)
 [How I built my second brain using Next.JS - DEV Community](https://dev.to/shaan_alam/how-i-built-my-second-brain-using-nextjs-56e7)
+
+[elmasse/nextein: A static site generator with markdown + react for Next.js](https://github.com/elmasse/nextein)
 
 ## Routes
 
@@ -189,11 +191,15 @@ This new and improved image component requires less client-side JavaScript and s
 ### T3 App
 
 [Create T3 App](https://create.t3.gg/) Next.js + Prisma + trpc
+[T3 Stack Tutorial - FROM 0 TO PROD FOR $0 (Next.js, tRPC, TypeScript, Tailwind, Prisma & More) - YouTube](https://www.youtube.com/watch?v=YkOSUVzOAA4) 3 hours
 [Full Stack Dev Just Got WAY Better 👀 - YouTube](https://www.youtube.com/watch?v=uu57PhChTOE) tRPC v10 is a major change, with `codemod` migration
-[init.tips - start on the right stack](https://init.tips/)
 [The T3 Stack - How We Built It - YouTube](https://www.youtube.com/watch?v=H-FXwnEjSsI)
+
+[init.tips - start on the right stack](https://init.tips/)
 [Building a MODERN Full Stack App for FREE w/ NextJS 12, Typescript, Prisma and more - T3 Stack - YouTube](https://www.youtube.com/watch?v=PKy2lYEnhgs)
 [I PORTED MY APP TO SOLIDJS IN 2 HOURS - No more NextJS??! - YouTube](https://www.youtube.com/watch?v=PRDtEyC5X1U) [repo](https://github.com/t3dotgg/democratic-geodude) vite + trpc + Solid.js + tailwind
+[Flaws of the T3 Stack - YouTube](https://www.youtube.com/watch?v=-R9uHm0G5m4)
+[Build Your First Application With the T3 Stack: NextJS, Typescript, Tailwind & tRPC for Beginners! - YouTube](https://www.youtube.com/watch?v=e4Zq0FCuWhw)
 [How tRPC really works - YouTube](https://www.youtube.com/watch?v=x4mu-jOiA0Q)
 [The BEST Stack For Your Next Project - YouTube](https://www.youtube.com/watch?v=PbjHxIuHduU)
 [We Fixed Mobile Dev - YouTube](https://www.youtube.com/watch?v=TthS0MPTy0A)
@@ -256,6 +262,12 @@ This new and improved image component requires less client-side JavaScript and s
 [Unsupported Features](https://nextjs.org/docs/advanced-features/static-html-export#unsupported-features)
 
 [Speed up your Next.js (React) app with this neat trick - YouTube](https://www.youtube.com/watch?v=98gcHJSW1mY) pure HTML+CSS
+
+1. Add `{trailingSlash: true}` so all pages will use `{page}/index.html` link
+2. use rewrite (not applicable if you don't have control to web server)
+
+[javascript - Next.JS links do not work after exporting static HTML - Stack Overflow](https://stackoverflow.com/questions/71075761/next-js-links-do-not-work-after-exporting-static-html)
+[Exporting a NextJS app with correct static page routes on the server](https://anjanesh.dev/exporting-a-nextjs-app-with-correct-static-page-routes-on-the-server)
 
 ```js
 export const config = {

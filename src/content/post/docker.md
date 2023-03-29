@@ -7,7 +7,7 @@ tags:
   - devops
   - docker
   - shell-tool
-  - web-deploy
+  - dev/deploy
 ---
 
 Docker packs your apps and services in a portable container.
@@ -747,7 +747,7 @@ Docker daemon exposed Docker API via UNIX socket at: `unix:///var/run/docker.soc
 
 Builder log (annotated):
 
-```
+```txt
 Sending build context to Docker daemon  2.048kB
 Step 1/3 : FROM ubuntu:xenial
  ---> 747cb2d60bbe                              # image ID
@@ -769,7 +769,7 @@ This actually sets breakpoint in your Dockerfile for debugging.
 [image-spec/annotations.md at main · opencontainers/image-spec](https://github.com/opencontainers/image-spec/blob/main/annotations.md)
 [Shipping Manifests, Bill of Lading and Docker - Metadata for Containers - YouTube](https://www.youtube.com/watch?v=j4SZ1qoR8Hs) [slides](https://speakerdeck.com/garethr/shipping-manifests-bill-of-lading-and-docker-metadata-and-container)
 
-```
+```sh
 --label org.opencontainers.image.created=$(date --iso-8601=s)
 --org.opencontainers.image.revision=$(git rev-parse HEAD)
 ```
@@ -1128,7 +1128,7 @@ Default `ENTRYPOINT` is `/bin/sh -c`, you can override `ENTRYPOINT` with `--entr
 
 [Docker Tip #63: Difference between an Array and String Based CMD — Nick Janetakis](https://nickjanetakis.com/blog/docker-tip-63-difference-between-an-array-and-string-based-cmd)
 
-[docker run "IMAGE" "MULTIPLE COMMANDS" - Stack Overflow](https://stackoverflow.com/questions/28490874/docker-run-image-multiple-commands) `["sh", "-c", "miltiple CMD with &&"]`
+[docker run "IMAGE" "MULTIPLE COMMANDS" - Stack Overflow](https://stackoverflow.com/questions/28490874/docker-run-image-multiple-commands) `["sh", "-c", "multiple CMD with &&"]`
 [Running multiple commands in entrypoint · Issue #52 · docker-library/redmine](https://github.com/docker-library/redmine/issues/52) can use multiline in Compose file
 
 ### Executable Images
@@ -1421,7 +1421,7 @@ This will merge the layers and make the image smaller.
 
 systemd service file:
 
-```
+```txt
 [Unit]
 Description=Run pg
 After=docker.service

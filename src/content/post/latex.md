@@ -23,6 +23,8 @@ tags:
 [如何优雅的编辑数学公式？LaTeX 公式入门 - YouTube](https://www.youtube.com/watch?v=4MkdR6qChSY)
 [文章寫好了卻為排版苦惱？也許你該考慮用 LaTex 完成下一個專業的報告 (使用 Overleaf 雲端編輯器) - YouTube](https://www.youtube.com/watch?v=mQamBS6uTOc)
 
+[LaTeX is The Best Thing to Explain Computer Graphics (Olive.c Ep.12 - Math Behind 3D Projection) - YouTube](https://www.youtube.com/watch?v=J39D-OTiyeY)
+
 `$...$` inline math
 `$$...$$` display math block
 

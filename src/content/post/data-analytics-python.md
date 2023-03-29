@@ -281,12 +281,14 @@ with pd.option_context('display.max_rows', None, 'display.max_columns', None):  
 
 [Categorical data — pandas documentation](https://pandas.pydata.org/pandas-docs/stable/user_guide/categorical.html)
 [Pandas Category Type: Pros and Cons | by Arli | Jan, 2023 | Level Up Coding](https://levelup.gitconnected.com/pandas-category-type-pros-and-cons-1bcac1bdea71)
+[Working with Large Data Sets Made Easy: Understanding Pandas Data Types - YouTube](https://www.youtube.com/watch?v=uVy23GEehpc)
 
 ```python
 df.info()
 
 df["A"].astype("category")
 df["A"].value_counts()
+df.astype({"A": "category", "B": "boolean", "D": "datetime[timezone]})
 ```
 
 ### Indexing/Selection
@@ -406,6 +408,12 @@ Or use:
 [pbpython/crosstab_cheatsheet.pdf at master · chris1610/pbpython](https://github.com/chris1610/pbpython/blob/master/extras/crosstab_cheatsheet.pdf)
 
 [Introducing PivotUI: Never Use Pandas To GroupBy and Pivot Your Data Again | by Avi Chawla | Nov, 2022 | Towards Data Science](https://towardsdatascience.com/introducing-pivotui-never-use-pandas-to-groupby-and-pivot-your-data-again-ed0fcf95b6ed)
+
+### Check memory usage
+
+```py
+df.memory_usage(deep=True)
+```
 
 ### #perfmatters
 

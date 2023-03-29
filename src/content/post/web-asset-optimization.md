@@ -5,6 +5,7 @@ created: 2023-03-20
 tags:
   - web
   - web/deploy
+  - dev/deploy
 ---
 
 [[image-optimization]]

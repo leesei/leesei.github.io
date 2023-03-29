@@ -4,6 +4,7 @@ description: ""
 created: 2018-07-03
 tags:
   - noodles
+  - trivia
 ---
 
 [Japanese noodles - Wikiwand](https://www.wikiwand.com/en/Japanese_noodles)

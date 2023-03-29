@@ -13,9 +13,9 @@ In measuring network latencies, use percentiles.
 [What is best metric in Web Performance Monitoring? Average, Percentiles, or Standard Deviation? - Catchpoint's Blog](http://blog.catchpoint.com/2010/09/02/web_performance_metrics_best/)
 [What is latency, throughput and degree of concurrency?](http://vanillajava.blogspot.hk/2012/04/what-is-latency-throughput-and-degree.html)
 [Who moved my 99th percentile latency? | LinkedIn Engineering](https://engineering.linkedin.com/performance/who-moved-my-99th-percentile-latency)
-[Latency Tip Of The Day: #LatencyTipOfTheDay: Q: What's wrong with this picture? A: Everything!](http://latencytipoftheday.blogspot.hk/2014/06/latencytipoftheday-q-whats-wrong-with_21.html)
-[Latency Tip Of The Day: #LatencyTipOfTheDay: You can't average percentiles. Period.](http://latencytipoftheday.blogspot.hk/2014/06/latencytipoftheday-you-cant-average.html)
-[Latency Tip Of The Day: #LatencyTipOfTheDay: MOST page loads will experience the 99%'lie server response](http://latencytipoftheday.blogspot.hk/2014/06/latencytipoftheday-most-page-loads.html)
+[Latency Tip Of The Day: Q: What's wrong with this picture? A: Everything!](http://latencytipoftheday.blogspot.hk/2014/06/latencytipoftheday-q-whats-wrong-with_21.html)
+[Latency Tip Of The Day: You can't average percentiles. Period.](http://latencytipoftheday.blogspot.hk/2014/06/latencytipoftheday-you-cant-average.html)
+[Latency Tip Of The Day: MOST page loads will experience the 99%'lie server response](http://latencytipoftheday.blogspot.hk/2014/06/latencytipoftheday-most-page-loads.html)
 ["How NOT to Measure Latency" by Gil Tene - YouTube](https://www.youtube.com/watch?v=lJ8ydIuPFeU)
 
 FPS is not enough, use frame time.

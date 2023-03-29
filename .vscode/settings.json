@@ -1,9 +1,13 @@
 {
+    "cSpell.words": [
+        "frontmatter"
+    ],
     "files.exclude": {
         "**/.git": true,
         "**/Thumbs.db": true,
         "src/content/post/**": true,
     },
+    "peacock.color": "#dc7ab7",
     "workbench.colorCustomizations": {
         "activityBar.activeBackground": "#e7a2cd",
         "activityBar.background": "#e7a2cd",
@@ -23,8 +27,4 @@
         "titleBar.inactiveBackground": "#dc7ab799",
         "titleBar.inactiveForeground": "#15202b99"
     },
-    "peacock.color": "#dc7ab7",
-    "cSpell.words": [
-        "frontmatter"
-    ]
 }

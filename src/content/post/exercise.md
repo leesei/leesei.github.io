@@ -207,6 +207,8 @@ Isometric: contraction and hold
 
 [Road Race Lite 903 - Google Sheets](https://docs.google.com/spreadsheets/d/1gxiZY7Kx5Z5_GYwm5XdesZRf8TvivPJwU0VvvWTSx7Y/edit) my bike
 
+[几百块和几万块的自行车真有区别吗？自行车好玩在哪里？Is there really a difference between bikes at different prices? - YouTube](https://www.youtube.com/watch?v=pF-B9H85MFg)
+
 [Global Cycling Network - YouTube](https://www.youtube.com/channel/UCuTaETsuCOkJ0H_GAztWt0Q)
 [GCN's Guide To Buying Your First Road Bike - YouTube](https://www.youtube.com/watch?v=_T7NTe3uBN4)
 

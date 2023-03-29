@@ -84,6 +84,9 @@ Since WiFi is single duplex, repeater will half the bandwidth and increase laten
 Mesh network supports seamless transition
 [五组 MESH 路由器横评，发现了一个可怕的问题！！ - YouTube](https://www.youtube.com/watch?v=zmjrIsVpvDM)
 
+[Testing ASUS [AiMesh] [Repeater] [Access Point] Whole-home WiFi - YouTube](https://www.youtube.com/watch?v=5sagIw6_ofE)
+[AiMesh vs. Repeater vs. Access Point [ASUS RT-AC68U Operation Modes] - YouTube](https://www.youtube.com/watch?v=ic0bgo_ueQ0)
+
 [2021 年 Mesh 分佈式 WiFi 系統 6 大購買重點 - MESH 選購 Part.2 - by Upsangel](https://upsangel.com/router-2/6-key-points-buying-mesh-wifi-system/)
 [MESH WIFI 的無縫自動切換是怎麼做到的？MESH 選購 Part.3](https://upsangel.com/router-2/mesh-wifi-roaming-seamless-switch/)
 [為什麼我買了 Mesh 但 WiFi 還是不快 - Mesh 選購 Part.4 - by Upsangel](https://upsangel.com/router-2/why-mesh-wifi-slow/)

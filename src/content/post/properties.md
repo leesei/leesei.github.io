@@ -37,7 +37,7 @@ RVD A 類樓價 開工紙 入伙紙
 
 [【居屋 2018】「白表」、「綠表」資格有咩分別？](https://www.moneyhero.com.hk/blog/zh/居屋2018-居屋-白表-綠表-資格有咩分別)
 [「白居二」恒常化？ 了解「白表」點買免補地價二手居屋！](https://www.moneyhero.com.hk/blog/zh/白居二-恒常化-了解白表點買免補地價二手居屋)
-[#今次 FactFact：居屋與白居二，何關乎？](https://www.facebook.com/ourhongkongfoundation/posts/2105382282876565/)
+[今次 FactFact：居屋與白居二，何關乎？](https://www.facebook.com/ourhongkongfoundation/posts/2105382282876565/)
 [【居屋 2020】一文睇清居屋/白居二/綠置居分別 | 房地產指南 | squarefoot.com.hk](https://www.squarefoot.com.hk/%E6%88%BF%E5%9C%B0%E7%94%A2%E6%8C%87%E5%8D%97/%E5%B1%85%E5%B1%8B2020%E4%B8%80%E6%96%87%E7%9D%87%E6%B8%85%E5%B1%85%E5%B1%8B-%E7%99%BD%E5%B1%85%E4%BA%8C-%E7%B6%A0%E7%BD%AE%E5%B1%85%E5%88%86%E5%88%A5-90105/)
 
 ## 睇樓

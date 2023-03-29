@@ -3,7 +3,7 @@ title: Data Visualization
 description: ""
 created: 2016-04-08
 tags:
-  - comp
+  - big-data
   - visualization
 ---
 
@@ -269,7 +269,7 @@ Server-client architecture, with Python, JS, Scala, R clients
 
 [[d3-js]]
 [[web-2d]]
-[[web-chart]]
+[[web-visualization]]
 
 [Data Visualization with JavaScript](http://jsdatav.is/intro.html)
 [10 JavaScript libraries to draw your own diagrams](http://modeling-languages.com/javascript-drawing-libraries-diagrams/)

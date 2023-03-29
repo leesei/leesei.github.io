@@ -632,6 +632,7 @@ Higher end NVMe sticks have DRAM buffer for caching the mapping tables for trans
 
 [SD card - Wikiwand](https://www.wikiwand.com/en/SD_card#/Speed)
 UHS bus is used in SD/TF cards. It is marked in roman numerals on the card.
+[Confusing Symbols on SD Cards - YouTube](https://www.youtube.com/watch?v=Bw89C41NY7U)
 
 [Top SBC Micro SD Card (Group Benchmark) - YouTube](https://www.youtube.com/watch?v=YUResed38uo)
 [Explaining SD Cards: 2020 Update - YouTube](https://www.youtube.com/watch?v=oLQ8A_vcBqU)

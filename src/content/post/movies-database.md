@@ -4,7 +4,6 @@ description: ""
 created: 2015-08-26
 tags:
   - movies
-  - trivia
 ---
 
 I'm picking service that can organize my _to watch_ and _watched_ movies.
@@ -100,7 +99,7 @@ Innovative and personalized recommendation system.
 
 [Shazam's Origin Story & Powers Explained | ScreenRant](https://screenrant.com/shazam-movie-origin-powers-wizard-explained/)
 [Shazam Family Explained: Who Plays The Adults & What Are Their Powers?](https://screenrant.com/shazam-family-dc-movie-team-explained/)
-[《正義聯盟》4 小時導剪版始末超萬字解析！這完全是不一樣的兩部電影！ #正义联盟 #正義聯盟 - YouTube](https://www.youtube.com/watch?v=qvI_ts7rF4U)
+[《正義聯盟》4 小時導剪版始末超萬字解析！這完全是不一樣的兩部電影！ - YouTube](https://www.youtube.com/watch?v=qvI_ts7rF4U)
 
 [一口气看完 DC 神剧《和平使者》第一季，开年王炸！赵喜娜本色出演！ - YouTube](https://www.youtube.com/watch?v=NiaeVMNuGaU)
 

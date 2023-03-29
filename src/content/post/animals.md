@@ -143,6 +143,10 @@ New World deer: Moose, Reindeer, Roe deer
 kangaroo, wombats, Tasmanian devils and koala
 [樹熊 Koala 冷知識 | Move Hub Limited](https://app.move-hub.net/MH-FC-KOALA/index.html)
 
+## Bees
+
+[Is it Cruel to Use Bees as Digital Sensors? - YouTube](https://www.youtube.com/watch?v=lG-ZqO734tM) also pigeon-guided bomb
+
 ## Chilopoda (centipedes)
 
 [Centipede - Wikiwand](https://www.wikiwand.com/en/Centipede)

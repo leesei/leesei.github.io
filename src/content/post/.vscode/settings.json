@@ -1,3 +1,4 @@
+// Sort JSON: https://novicelab.org/jsonabc/
 {
   "[markdown]": {
     "editor.quickSuggestions": {
@@ -6,15 +7,31 @@
       "strings": false
     }
   },
+  "cSpell.words": [
+    "Astro",
+    "astrojs",
+    "bilibili",
+    "containerd",
+    "database",
+    "distro",
+    "flexbox",
+    "forza",
+    "frontmatter",
+    "gundam",
+    "perfmatters",
+    "reactjs",
+    "voxel",
+    "wikiwand"
+  ],
   "editor.minimap.enabled": false,
   "files.autoSave": "afterDelay",
-  "files.autoSaveDelay": 5000,
+  "files.autoSaveDelay": 120000,
   "files.exclude": {
-    "_site/**": true
+    "_assets/**": true
   },
   "files.watcherExclude": {
     "**/.git/**": true,
-    "**/node_modules/*/**": true
+    "_assets/**": true
   },
   "foam.edit.linkReferenceDefinitions": "off",
   "foam.graph.style": {
@@ -59,6 +76,5 @@
     "titleBar.activeForeground": "#e7e7e7",
     "titleBar.inactiveBackground": "#ab317f99",
     "titleBar.inactiveForeground": "#e7e7e799"
-  },
-  "cSpell.words": ["reactjs"]
+  }
 }

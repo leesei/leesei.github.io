@@ -333,7 +333,7 @@ Apple devices supports PD via C-to-Lightening cable.
 
 [How to accurately measure (and understand) your smartphone's charging speed](https://www.androidpolice.com/2018/04/07/accurately-measure-understand-smartphones-charging-speed/)
 
-[#電壓電流表|痞客邦](https://www.pixnet.net/tags/%E9%9B%BB%E5%A3%93%E9%9B%BB%E6%B5%81%E8%A1%A8)
+[電壓電流表|痞客邦](https://www.pixnet.net/tags/%E9%9B%BB%E5%A3%93%E9%9B%BB%E6%B5%81%E8%A1%A8)
 
 [YZXstudio ZY1276 蓝表 ZY1270 彩表 USB PD TC 电压电流容量测试仪-淘宝网](https://item.taobao.com/item.htm?id=38401794937)
 [YZXSTUDIO ZY1271 飛龍 USB 電壓電流表簡介及測試 @ 港都狼窩 WolfLSI's Den :: 痞客邦 ::](http://wolflsi.pixnet.net/blog/post/64972513)

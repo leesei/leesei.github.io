@@ -8,7 +8,8 @@ tags:
   - docker
   - kubernetes
   - shell-tool
-  - web-deploy
+  - web/deploy
+  - dev/deploy
 ---
 
 # Kubernetes
@@ -22,6 +23,8 @@ tags:
 [Kubernetes for Beginners](https://training.play-with-kubernetes.com/kubernetes-workshop/)
 [Deploying and Scaling Microservices with Docker and Kubernetes](http://container.training/kube-selfpaced.yml.html#1)
 
+[Kubernetes: The Documentary [PART 1] - YouTube](https://www.youtube.com/watch?v=BE77h7dmoQU)
+[Kubernetes: The Documentary [PART 2] - YouTube](https://www.youtube.com/watch?v=318elIq37PE)
 [解读 2017 之容器篇：后 Kubernetes 时代](https://mp.weixin.qq.com/s/k_0Ya0wPQEy30Yo9LaI2aQ)
 [The rise and future of Kubernetes and open source at Google | Google Cloud Blog](https://cloud.google.com/blog/products/containers-kubernetes/the-rise-and-future-of-kubernetes-and-open-source-at-google)
 [Kubernetes: The smart person's guide - TechRepublic](https://www.techrepublic.com/article/kubernetes-the-smart-persons-guide/#ftag=CAD-00-10aag7f)

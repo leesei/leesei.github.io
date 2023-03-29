@@ -4,7 +4,8 @@ description: ""
 created: 2021-07-07
 tags:
   - app
-  - web-deploy
+  - web/deploy
+  - dev/deploy
   - wordpress
 ---
 

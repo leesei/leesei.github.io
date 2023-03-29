@@ -35,6 +35,9 @@ tags:
 [What Is the Mosh Shell and How Do You Use It?](https://www.cloudsavvyit.com/1224/what-is-the-mosh-shell-and-how-do-you-use-it/amp/)
 [TimeToogo/tunshell: Remote shell into ephemeral environments 🐚 🦀](https://github.com/TimeToogo/tunshell)
 
+## X11 Forwarding
+
+[What You Need to Know About X11 Forwarding](https://goteleport.com/blog/x11-forwarding/)
 [How To Configure X11 Forwarding Using SSH In Linux - OSTechNix](https://ostechnix.com/how-to-configure-x11-forwarding-using-ssh-in-linux/)
 
 ## `ssh_config`

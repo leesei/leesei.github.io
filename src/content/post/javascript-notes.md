@@ -301,7 +301,7 @@ const arr = new Int32Array(sharedBuffer);
 
 ## Closure/IFFE
 
-[Self Invoked Anonymous Function? Sounds iffy… « Eric Elliott – JavaScript Architect (A JavaScript Blog)](http://ericleads.com/2013/02/self-invoked-anonymous-function-sounds-iffy/)
+[Self Invoked Anonymous Function? Sounds iffy…](https://ericleads.wordpress.com/2013/02/self-invoked-anonymous-function-sounds-iffy/)
 [What is an IIFE in Javascript? - Prashant Ram - Medium](https://medium.com/@prashantramnyc/what-is-an-iife-in-javascript-24baf0febf08)
 
 [13. Callable entities in ECMAScript 6: Avoid IIFEs in ES6](http://exploringjs.com/es6/ch_callables.html#sec_iifes-in-es6)
@@ -545,9 +545,9 @@ console.log(obj);
 [Delegation vs Inheritance in JavaScript – JavaScript, JavaScript…](https://javascriptweblog.wordpress.com/2010/12/22/delegation-vs-inheritance-in-javascript/)
 [A fresh look at JavaScript Mixins – JavaScript, JavaScript…](https://javascriptweblog.wordpress.com/2011/05/31/a-fresh-look-at-javascript-mixins/#more-2613)
 
-[Fluent JavaScript – Three Different Kinds of Prototypal OO « Eric Elliott – JavaScript Architect (A JavaScript Blog)](http://ericleads.com/2013/02/fluent-javascript-three-different-kinds-of-prototypal-oo/)
-[Classical Inheritance is Obsolete – How to Think in Prototypal OO « Eric Elliott – JavaScript Architect (A JavaScript Blog)](http://ericleads.com/2013/06/classical-inheritance-is-obsolete-how-to-think-in-prototypal-oo/) [slide](http://slidedeck.io/dilvie/fluent-prototypal-oo)
-[Stop Using Constructor Functions in JavaScript « Eric Elliott – JavaScript Architect (A JavaScript Blog)](http://ericleads.com/2012/09/stop-using-constructor-functions-in-javascript/)
+[Fluent JavaScript – Three Different Kinds of Prototypal OO](https://ericleads.wordpress.com/2013/02/fluent-javascript-three-different-kinds-of-prototypal-oo/)
+[Classical Inheritance is Obsolete – How to Think in Prototypal OO](https://ericleads.wordpress.com/2013/06/classical-inheritance-is-obsolete-how-to-think-in-prototypal-oo/) [slide](http://slidedeck.io/dilvie/fluent-prototypal-oo)
+[Stop Using Constructor Functions in JavaScript](https://ericleads.wordpress.com/2012/09/stop-using-constructor-functions-in-javascript/)
 
 [JS Objects: Inherited a Mess](http://davidwalsh.name/javascript-objects)
 [JS Objects: Distractions](http://davidwalsh.name/javascript-objects-distractions)
@@ -657,7 +657,7 @@ Class Inheritance: instances inherit from classes (like a blueprint — a de
 [StrongLoop | An Introduction To JavaScript ES6 Classes](https://strongloop.com/strongblog/an-introduction-to-javascript-es6-classes/)
 [Javascript Classes — Under The Hood – tajawal – Medium](https://medium.com/tech-tajawal/javascript-classes-under-the-hood-6b26d2667677)
 
-[JavaScript Constructor Functions vs Factory Functions « Eric Elliott – JavaScript Architect (A JavaScript Blog)](http://ericleads.com/2013/01/javascript-constructor-functions-vs-factory-functions/)
+[JavaScript Constructor Functions vs Factory Functions](https://ericleads.wordpress.com/2013/01/javascript-constructor-functions-vs-factory-functions/)
 
 <http://ejohn.org/blog/simple-javascript-inheritance/>
 <http://phrogz.net/JS/classes/OOPinJS.html>

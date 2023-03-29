@@ -78,10 +78,11 @@ Harmonic intervals: play notes simultaneously
 ### 音名/唱名
 
 [音名 - Wikiwand](https://www.wikiwand.com/zh-hant/%E9%9F%B3%E5%90%8D)
+[Key signature names and translations - Wikiwand](https://www.wikiwand.com/en/Key_signature_names_and_translations)
 [Solfège - Wikiwand](https://www.wikiwand.com/en/Solf%C3%A8ge)
 [唱名 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%94%B1%E5%90%8D)
 
-音名 corresponds to a specific frequency
+音名 corresponds to a note at specific frequency
 唱名 is am alias given to the n-th note in the scale
 
 |      |     |     |     |     |     |     |     |
@@ -224,8 +225,8 @@ Refer to the number of sharps and flats to add in the Circle of fifths
 [The Circle of Fifths Explained | LedgerNote](https://ledgernote.com/columns/music-theory/circle-of-fifths-explained/)
 [The Ultimate Guide to the Circle of Fifths - Musical U](https://www.musical-u.com/learn/how-to-use-circle-fifths/)
 
-![](./_assets/music-theory/circle-of-fifths.png)
-![](./_assets/music-theory/circle-of-fifths-star.svg)
+![Circle of Fifths (circular)](./_assets/music-theory/circle-of-fifths.png)
+![Circle of Fifths (star)](./_assets/music-theory/circle-of-fifths-star.svg)
 
 1234567
 CDEFGAB
@@ -270,6 +271,15 @@ quavers (eighth note): cat-er-pil-lar cat-er-pil-lar
 semiquavers (sixteenth note)
 
 [What's the difference between 3/4 and 6/8 time? - YouTube](https://www.youtube.com/watch?v=N4q2kBe82-o)
+
+[Slur (music) - Wikiwand](<https://www.wikiwand.com/en/Slur_(music)>)
+[圓滑線 - Wikiwand](https://www.wikiwand.com/zh/%E5%9C%93%E6%BB%91%E7%B7%9A)
+
+valid: `((3:2:2 D2D)`
+invalid: ((3 D2D)
+
+[Staccato - Wikiwand](https://www.wikiwand.com/en/Staccato)
+[斷奏 - Wikiwand](https://www.wikiwand.com/zh/%E8%B7%B3%E9%9F%B3) 斷音
 
 ## Tempo (speed)
 
@@ -323,13 +333,55 @@ Clefs are symbols to denote how high or low the music is going to sound
 [abc | home](http://abcnotation.com/) a text-based music notation system and the de facto standard for folk and traditional music. It can be used to generate MIDI and score.
 [ABC notation - Wikiwand](https://www.wikiwand.com/en/ABC_notation)
 
+[ABC (musical notation) - Just Solve the File Format Problem](<http://justsolve.archiveteam.org/wiki/ABC_(musical_notation)>)
+[abcjs: Table of Contents](https://paulrosen.github.io/abcjs/examples/toc.html)
 [abc | learning](http://abcnotation.com/learn)
+[abc | examples](https://abcnotation.com/examples)
+[Making Music with Abc 2.pdf](https://abcplus.sourceforge.net/abcplus_en.html)
+
 [6 of the best – a guide to abc software « abc notation blog](http://abcnotation.com/blog/2017/11/12/6-of-the-best-a-guide-to-abc-software/)
+
+#### Editor
+
+online
+[abcjs: Quick Editor](https://editor.drawthedots.com/)
+[ABC edit with abc2svg](http://moinejf.free.fr/js/edit-1.xhtml)
+
+[jwdj/EasyABC: EasyABC](https://github.com/jwdj/EasyABC)
+
+[ABC Music Notation - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=softaware.abc-music) can produce warning
+[ABC Tools - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ishiharaf.abc-tools) with play
+
+#### Library
+
+[abcweb](https://wim.vree.org/js/)
 
 [paulrosen/abcjs: javascript for rendering abc music notation](https://github.com/paulrosen/abcjs)
 [abcjs](https://abcjs.net/)
 [abcjs demo](https://abcjs.net/abcjs-editor.html)
 [Draw The Dots: Tune Editor](http://drawthedots.com/)
+
+[abcm2ps/abc2svg documentation](http://moinejf.free.fr/abcm2ps-doc/index.html)
+[abc2svg: Documentation](https://chiselapp.com/user/moinejf/repository/abc2svg/doc/trunk/README.md)
+[abc:standard:v2.2 [abc wiki]](http://abcnotation.com/wiki/abc:standard:v2.2)
+
+#### Tips and Tricks
+
+[abc:standard:v2.1 Use of fields within the tune body](https://abcnotation.com/wiki/abc:standard:v2.1#use_of_fields_within_the_tune_body) use `[]` or `\{field}`
+
+```abc
+E2E EFE|E2E EFG|[M:9/8] A2G F2E D2|]
+\L:1/4\\K:Bb\"Eb"e4|
+```
+
+#### Scores
+
+[Tunes - ABC Music Notation](https://abcmusicnotation.weebly.com/tunes.html)
+
+### LilyPond
+
+[LilyPond – Music notation for everyone](https://lilypond.org/)
+[LilyPond / LilyPond · GitLab](https://gitlab.com/lilypond/lilypond)
 
 ### MusicXML
 

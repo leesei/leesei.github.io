@@ -34,6 +34,7 @@ http://127.0.0.1:8000/redoc # ReDoc
 [Serving a Machine Learning Model with FastAPI and Streamlit | TestDriven.io](https://testdriven.io/blog/fastapi-streamlit/)
 
 [FastAPI Course for Beginners - YouTube](https://www.youtube.com/watch?v=tLKKmouUams) [transcript](https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/)
+[How To Build a CRUD (TO-DO) App on AWS using FastAPI and Python - YouTube](https://www.youtube.com/watch?v=iLt00bqp6is)
 [5 Advanced Features of FastAPI You Should Try | by Kaustubh Gupta | Jan, 2022 | Level Up Coding](https://levelup.gitconnected.com/5-advance-features-of-fastapi-you-should-try-7c0ac7eebb3e)
 
 [Request Files - FastAPI](https://fastapi.tiangolo.com/tutorial/request-files/)

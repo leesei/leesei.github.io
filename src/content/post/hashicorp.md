@@ -4,8 +4,7 @@ description: ""
 created: 2016-03-19
 tags:
   - devops
-  - web
-  - web-deploy
+  - dev/deploy
 ---
 
 # HashiCorp

@@ -82,6 +82,9 @@ BTW, `blockdiag` would be the first runner up. It also features several unique d
 [Protocol | An ASCII Header Generator for Network Protocols](https://www.luismg.com/protocol/) ASCII RFC-like header diagrams
 [luismartingarcia/protocol: An ASCII Header Generator for Network Protocols](https://github.com/luismartingarcia/protocol)
 
+[Javascript List of Lists Visualization](https://websemantics.github.io/lolviz.js/)
+[websemantics/lolviz.js: A faithful (albeit optimized) port of Terence Parr List of Lists Visualization library, https://github.com/parrt/lolviz from Python to Javascript.](https://github.com/websemantics/lolviz.js)
+
 ### PlantUML
 
 [Welcome to The Hitchhiker’s Guide to PlantUML! — The Hitchhiker's Guide to PlantUML documentation](https://crashedmind.github.io/PlantUMLHitchhikersGuide/)

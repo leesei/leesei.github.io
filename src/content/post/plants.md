@@ -5,7 +5,6 @@ created: 2022-01-20
 tags:
   - learning
   - plants
-  - trivia
 ---
 
 [The Tree Guide at arborday.org](https://www.arborday.org/trees/treeguide/index.cfm)

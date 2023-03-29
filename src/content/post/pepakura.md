@@ -27,7 +27,7 @@ Susuki 大田牌 130gsm\*60sheets 教協$20
 [Gallery : Pepakura Designer](https://tamasoft.co.jp/pepakura-en/gallery/list.php)
 [ペーパークラフト［BOOOON! CITY］](http://www.isdesign.co.jp/boooon-city/)
 [Paper Craft - Canon Creative Park](https://creativepark.canon/en/categories/CAT-ST01-0071/top.html)
-[#STAYHOME おうちであそべる・たのしめる！ | ヤマハ発動機](https://global.yamaha-motor.com/jp/stayhome/)
+[STAYHOME おうちであそべる・たのしめる！ | ヤマハ発動機](https://global.yamaha-motor.com/jp/stayhome/)
 [Cubeecraft](https://www.cubeecraft.com/)
 [ペーパークラフト 無料ダウンロード │ ペーパーミュージアム](https://paperm.jp/craft/index.html)
 

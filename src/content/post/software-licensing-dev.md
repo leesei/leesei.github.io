@@ -5,6 +5,7 @@ created: 2015-06-27
 tags:
   - app
   - licence
+  - dev/deploy
 ---
 
 [bdrister/AquaticPrime](https://github.com/bdrister/AquaticPrime)

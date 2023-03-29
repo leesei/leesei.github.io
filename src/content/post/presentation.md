@@ -174,6 +174,11 @@ Built with Vite
 
 [webpro/reveal-md: reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file](https://github.com/webpro/reveal-md)
 
+## Slides
+
+[~renerocksai/slides - Slideshows at 10 000 FPS! A simple but powerful IMGUI based, OpenGL-rendered slideshow app in Zig - sourcehut git](https://git.sr.ht/~renerocksai/slides)
+[Rendering Slideshows with 16 000 FPS - Rene Schallner - Software You Can Love 2022 - YouTube](https://www.youtube.com/watch?v=YKYNVAwaMik)
+
 ## landslide
 
 [adamzap/landslide: Generate HTML5 slideshows from markdown, ReST, or textile](https://github.com/adamzap/landslide)

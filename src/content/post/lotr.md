@@ -6,7 +6,6 @@ tags:
   - lord-of-the-rings
   - lotr
   - movies
-  - trivia
 ---
 
 [從此改變奇幻 魔戒是怎麼成為傳奇的? 萬字深入解析小說和電影三部曲 | 超粒方 - YouTube](https://www.youtube.com/watch?v=5Lpxo6OaOcE)

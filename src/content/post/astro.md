@@ -24,6 +24,7 @@ tags:
 [Your First Steps with the Astro Framework: A Quickstart Guide](https://www.danywalls.com/your-first-steps-with-the-astro-framework-a-quickstart-guide)
 
 [Astro Crash Course in 20 Minutes! - YouTube](https://www.youtube.com/watch?v=zrPVTf761OI) 2022-12
+[Astro Crash Course - YouTube](https://www.youtube.com/watch?v=Oi9z5gfIHJs) 2022-08, 1:35
 [Astro Crash Course - YouTube](https://www.youtube.com/playlist?list=PLtLXFsdHI8JSX0qJsHfMDSTR3taqvXa5S) 2021-2022
 
 ## Server-side Rendering

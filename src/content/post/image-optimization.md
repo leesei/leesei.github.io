@@ -79,9 +79,9 @@ jpegoptim -P -p --all-progressive -s -m 90 --no-action <file>
 [DeflOpt Program: Optimize Compressed Files](http://www.dotnetperls.com/deflopt)
 [pngquant — lossy PNG compressor](https://pngquant.org/)
 [TinyPNG – Compress PNG images while preserving transparency](https://tinypng.com/) use color palette instead
-[PNGCRUSH](https://pmt.sourceforge.io/pngcrush/) very slow, creates larget file ><
+[PNGCRUSH](https://pmt.sourceforge.io/pngcrush/) very slow, creates larger file ><
 pingo
-[Advance Projects](http://www.advancemame.it/doc-advpng.html) `advpng`, uses zopflipng, creates larget file ><
+[Advance Projects](http://www.advancemame.it/doc-advpng.html) `advpng`, uses zopflipng, creates larger file ><
 
 zopflipng
 
@@ -92,8 +92,10 @@ zopflipng
 [svg/svgo-gui: Node-WebKit based GUI for SVGO](https://github.com/svg/svgo-gui)
 
 [SVGOMG - SVGO's Missing GUI](https://jakearchibald.github.io/svgomg/) with live feedback
-[SVGito: Little Optimizations for SVGs – Design + Sketch – Medium](https://medium.com/sketch-app-sources/svgito-little-optimizations-for-svgs-22114af9fdc9)
-[SVG Editor](http://petercollingridge.appspot.com/svg-editor)
+[SVGito - An SVG Optimizer — Sketch Master](https://sketchmaster.com/svg-optimizer)
+
+[Case Study: Optimizing SVG Text & Image Delivery with Inline SVG – Sara Soueidan, inclusive design engineer](https://www.sarasoueidan.com/blog/optimizing-svg-delivery-with-svg/)
+[Web Performance Calendar » Tips For Optimising SVG Delivery For The Web](https://calendar.perfplanet.com/2014/tips-for-optimising-svg-delivery-for-the-web/)
 
 ---
 

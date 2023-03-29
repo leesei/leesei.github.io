@@ -65,6 +65,10 @@ B. F. Skinner
 
 [Respect, empathy, and compassion (Brain Science #6) |> Changelog](https://changelog.com/brainscience/6)
 
+## Lost Aversion
+
+[Board Game Design Day: Board Game Design and the Psychology of Loss Aversion - YouTube](https://www.youtube.com/watch?v=F_1YcCcBVfY)
+
 ## ADHD
 
 difficulties at controlling attention

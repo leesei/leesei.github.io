@@ -301,7 +301,9 @@ Form submitter will see the service's reCAPTCHA for anti-spamming and submit suc
 
 ## Document
 
-[Welcome to relatorio’s documentation! — relatorio documentation](https://relatorio.readthedocs.io/en/latest/index.html) generates OpenOffice document
+[Welcome to relatorio’s documentation! — relatorio documentation](https://relatorio.readthedocs.io/en/latest/index.html) generates OpenOffice document from code
+
+[Fdawgs/docsmith: RESTful API for converting clinical documents and files](https://github.com/Fdawgs/docsmith)
 
 ### Excel (Pandas)
 

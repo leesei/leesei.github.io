@@ -12,6 +12,8 @@ tags:
 [[learning#Google Search]]
 [[learn-to-code-kids]]
 
+> split `c-lang`, `nim`, `swift`, `v-lang`, `computing-fundamentals`
+
 Learn how to code
 The first part covers learning in general, call for spin-off.
 
@@ -151,10 +153,20 @@ Parallelism:
 - about _doing_ lots of things at once, about execution
 - Concurrency is a prerequisite
 
+[Embarrassingly parallel - Wikiwand](https://www.wikiwand.com/en/Embarrassingly_parallel)
+
 [Concurrency is not parallelism - The Go Blog](http://blog.golang.org/concurrency-is-not-parallelism)
 [The Way of the Gopher. Making the Switch from Node.js to… | by Alexandra Bueno | Digg Data | Medium](https://medium.com/digg-data/the-way-of-the-gopher-6693db15ae1f#.h4j5b62nh)
 
 [Asynchronous vs Multithreading and Multiprocessing Programming (The Main Difference) - YouTube](https://www.youtube.com/watch?v=0vFgKr5bjWI)
+
+[Zig's I/O and Concurrency Story - King Protty - Software You Can Love 2022 - YouTube](https://www.youtube.com/watch?v=Ul8OO4vQMTw)
+Linux's epoll, BSD's kqueue, none of them worked for file IO
+Windows IOCP, proactive completion based IO, no extra syscall for polling state, no batch submission
+non of them worked great for file IO, use thread pool
+Linux io-uring, proactive completion based IO, no extra syscall for polling state, batch submission, kernel space thread pool
+porting io-uring to zig in user space
+per thread ring buffer use by many
 
 [Multitasking vs Multithreading vs Multiprocessing - YouTube](https://www.youtube.com/watch?v=Tn0u-IIBmtc)
 [Fork and Pthreads - A Guide To Get You Started with Multiprocessing - YouTube](https://www.youtube.com/watch?v=VCCCXTyJZzs)
@@ -163,6 +175,8 @@ Parallelism:
 [Thinking Concurrently: How Modern Network Applications Handle Multiple Connections | Linux Journal](https://www.linuxjournal.com/content/thinking-concurrently)
 [还在疑惑并发和并行？ - laike9m's blog](https://laike9m.com/blog/huan-zai-yi-huo-bing-fa-he-bing-xing,61/)
 [async-await: Cooperative vs Preemptive scheduling](https://kerkour.com/cooperative-vs-preemptive-scheduling/)
+
+[What Color is Your Function? – journal.stuffwithstuff.com](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/) the chasm between sync and async code
 
 [Parallel vs Concurrent in Node.js](http://bytearcher.com/articles/parallel-vs-concurrent/)
 [Concurrent JavaScript: It can work! | WebKit](https://webkit.org/blog/7846/concurrent-javascript-it-can-work/)
@@ -234,11 +248,22 @@ Causal Profiler (`coz`)
 
 ## API
 
-[Idiot's Guide to ABI Versioning - 250bpm](http://250bpm.com/blog:41)
+### Fluent API
+
+[Fluent interface - Wikiwand](https://www.wikiwand.com/en/Fluent_interface)
+[FluentInterface](https://martinfowler.com/bliki/FluentInterface.html)
+
+[JavaScript like a Boss: Understanding Fluent APIs — SitePoint](https://www.sitepoint.com/javascript-like-boss-understanding-fluent-apis/)
+[Chain Your JavaScript Methods Like a Boss with Fluent APIs](https://www.linkedin.com/pulse/chain-your-javascript-methods-like-boss-fluent-apis-anthony-gore)
+[fluent-ffmpeg/node-fluent-ffmpeg: A fluent API to FFMPEG (http://www.ffmpeg.org)](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)
+
+[Fluent API - C# Refresh](https://www.codingame.com/playgrounds/52999/c-refresh/fluent-api)
 
 ## ABI
 
 [Binary-code compatibility - Wikiwand](https://www.wikiwand.com/en/Binary-code_compatibility)
+
+[Idiot's Guide to ABI Versioning - 250bpm](http://250bpm.com/blog:41)
 
 ### Pointer to implementation
 
@@ -291,8 +316,10 @@ Causal Profiler (`coz`)
 [InfoQ - YouTube](https://www.youtube.com/channel/UCkQX1tChV7Z7l1LFF4L9j_g) MarakanaTechTV/NewCircle now part of InfoQ
 [in28minutes - YouTube](https://www.youtube.com/rithustutorials)
 [Derek Banas - YouTube](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
-[Hussein Nasser - YouTube](https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg) backend technologies
 [ArjanCodes - YouTube](https://www.youtube.com/channel/UCVhQ2NnY5Rskt6UjCUkJ_DA) mostly Python
+
+[Hussein Nasser - YouTube](https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg) backend technologies, many on databases
+[The Backend Engineering Show - YouTube](https://www.youtube.com/playlist?list=PLQnljOFTspQU0ICDe-cL1EwXC4GDSayKY)
 
 [Topic:Computer programming - Wikiversity](https://en.wikiversity.org/wiki/Topic:Computer_programming)
 [10 Useful Sites for Learning How to Code](http://www.onextrapixel.com/2013/11/14/10-useful-sites-for-learning-how-to-code/)
@@ -398,7 +425,6 @@ Read the answers by:
 
 [The Top Five Developer Skills That'll Make You a Hero (Hint: Involves LEGOs)](https://www.freecodecamp.org/news/the-hero-developer-who-knew-how-to-build-lego-bricks/amp/)
 
-[5 Principles that will make you a SOLID JavaScript Developer](http://thefullstack.xyz/solid-javascript/)
 [7 books you must read to be a real software developer | InfoWorld](https://www.infoworld.com/article/3269032/application-development/7-books-you-must-read-to-be-a-real-software-developer.html)
 [8 career pitfalls every software developer should avoid | InfoWorld](https://www.infoworld.com/article/3270728/it-careers/8-career-pitfalls-every-developer-should-avoid.html)
 
@@ -504,7 +530,9 @@ While `libphonenumber` has a JS port (generated by Closure), this library is sma
 
 Smaller still, look up the ISO 3166-1 alpha-2 country code and use the length/regex directly from
 <https://gitlab.com/catamphetamine/libphonenumber-js/-/blob/master/PhoneNumberMetadata.xml>
+
 [ISO 3166-1 alpha-2 - Wikiwand](https://www.wikiwand.com/en/ISO_3166-1_alpha-2)
+[wooorm/iso-3166: ISO 3166 (standard for country codes and codes for their subdivisions)](https://github.com/wooorm/iso-3166)
 
 [React Phone Number Input](https://catamphetamine.gitlab.io/react-phone-number-input/#with-country-select)
 
@@ -549,10 +577,6 @@ Used in many Go application for formatting output, e.g. `docker`, `kubectl`
 [A Brief Introduction to LLVM - YouTube](https://www.youtube.com/watch?v=a5-WaD8VV38)
 [SE-Radio Episode 291: Morgan Wilde on LLVM : Software Engineering Radio](http://www.se-radio.net/2017/05/se-radio-episode-291-morgan-wilde-on-llvm/)
 
-## Floating Point Number
-
-[[floating-point-number]]
-
 ## How program runs
 
 [Executable and Linkable Format - Wikiwand](https://www.wikiwand.com/en/Executable_and_Linkable_Format)
@@ -564,24 +588,42 @@ Used in many Go application for formatting output, e.g. `docker`, `kubectl`
 [Programming Languages - YouTube](https://www.youtube.com/playlist?list=PL7141DE955793D3F0)
 [Hardware Basics - YouTube](https://www.youtube.com/watch?v=9-KUm9YpPm0)
 [Operating System Basics - YouTube](https://www.youtube.com/watch?v=9GDX-IyZ_C8)
+[Basics of OS | Chapter-1 | Operating System - YouTube](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhDsKg2oXhVuN5z_1ysjJyg)
+
+[[floating-point-number]]
 
 [Imperative vs Declarative Scenarios in User Stories • Ben Mabey](http://benmabey.com/2008/05/19/imperative-vs-declarative-scenarios-in-user-stories.html)
 [Threads vs. Processes: A Look At How They Work Within Your Program](https://www.backblaze.com/blog/whats-the-diff-programs-processes-and-threads/)
 
+Computerphile
+[Multi Programming - Computerphile - YouTube](https://www.youtube.com/watch?v=MB0yDMQj1lU)
+[OS Context Switching - Computerphile - YouTube](https://www.youtube.com/watch?v=DKmBRl8j3Ak)
 [Multithreading Code - Computerphile - YouTube](https://www.youtube.com/watch?v=7ENFeb-J75k)
 [Multiple Processor Systems - Computerphile - YouTube](https://www.youtube.com/watch?v=3RvkfuXUv1c)
-[OS Context Switching - Computerphile - YouTube](https://www.youtube.com/watch?v=DKmBRl8j3Ak)
+[GUI Programming Introduction - Computerphile - YouTube](https://www.youtube.com/watch?v=odjdWym0t4I)
+[GUI: Under the Hood - Computerphile - YouTube](https://www.youtube.com/watch?v=ptcHHXp1PEU)
 
 [An Analysis of Hash Map Implementations in Popular Languages](https://rcoh.me/posts/hash-map-analysis/)
+[Why Linked Lists vs Arrays isn’t a real choice - YouTube](https://www.youtube.com/watch?v=34ky600VTN0)
+[Hash Tables, Associative Arrays, and Dictionaries (Data Structures and Optimization) - YouTube](https://www.youtube.com/watch?v=S5NY1fqisSY)
 
-[Covariance and contravariance (computer science) - Wikiwand](<https://www.wikiwand.com/en/Covariance_and_contravariance_(computer_science)>) C# uses `in`, `out` keywords to control variance
-[c# - Covariance and contravariance in programming languages - Stack Overflow](https://stackoverflow.com/questions/1163465/covariance-and-contravariance-in-programming-languages)
-[Covariance and Contravariance - withoutbugs.com](https://www.withoutbugs.com/2011/04/covariance-and-contravariance.html)
-[C# : Is Variance (Covariance / Contravariance) another word for Polymorphism? - Stack Overflow](https://stackoverflow.com/questions/1078423/c-sharp-is-variance-covariance-contravariance-another-word-for-polymorphis)
+### Memory Heirachy/Memory Management
 
-### Memory access
+[How Computer Memory Works - YouTube](https://www.youtube.com/playlist?list=PLzH6n4zXuckoxFPyhsMOYMGqyZOeN2SDJ)
+[What's Virtual Memory? - Computerphile - YouTube](https://www.youtube.com/watch?v=5lFnKYCZT5o)
+
+[How does Computer Memory Work? 💻🛠 - YouTube](https://www.youtube.com/watch?v=7J7X7aZvMXQ)
+[Building the Bits and Qubits - YouTube](https://www.youtube.com/watch?v=F8U1d2Hqark)
 
 [Memory, Cache Locality, and why Arrays are Fast (Data Structures and Optimization) - YouTube](https://www.youtube.com/watch?v=247cXLkYt2M)
+[The Origins of Process Memory | Exploring the Use of Various Memory Allocators in Linux C - YouTube](https://www.youtube.com/watch?v=c7xf5dvUb_Q)
+
+[What's a Memory Allocator Anyway? - Benjamin Feng - YouTube](https://www.youtube.com/watch?v=vHWiDx_l4V0)
+[Garbage Collection (Mark & Sweep) - Computerphile - YouTube](https://www.youtube.com/watch?v=c32zXYAK7CI)
+
+[🚀 Demystifying memory management in modern programming languages | Technorage](https://deepu.tech/memory-management-in-programming/)
+[🚀 Visualizing memory management in Golang | Technorage](https://deepu.tech/memory-management-in-golang/)
+[🚀 Visualizing memory management in V8 Engine (JavaScript, NodeJS, Deno, WebAssembly) | Technorage](https://deepu.tech/memory-management-in-v8/)
 
 ### Endianess
 
@@ -594,15 +636,11 @@ unsigned LE: 45216
 signed BE: -24400
 unsigned BE: 41136
 
----
-
 ```python
 f =  open('test.bin','wb')
 f.write(b'\xA0\xB0')
 f.close()
 ```
-
----
 
 ## Computer Science
 
@@ -680,7 +718,7 @@ Halstead Metrics -> Maintainability Index
 
 ## Architecture Design
 
-> move to `design-patterns.md`
+> move to [[design-patterns]]
 
 [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 [The Rule of Three](http://blog.codinghorror.com/rule-of-three/)
@@ -810,14 +848,24 @@ Halstead Metrics -> Maintainability Index
 [Detailed Design of a Lock-Free Queue](https://moodycamel.com/blog/2014/detailed-design-of-a-lock-free-queue)
 [cameron314/readerwriterqueue: A fast single-producer, single-consumer lock-free queue for C++](https://github.com/cameron314/readerwriterqueue)
 
+#### Covariance and Contravariance
+
+[Covariance and contravariance (computer science) - Wikiwand](<https://www.wikiwand.com/en/Covariance_and_contravariance_(computer_science)>) C# uses `in`, `out` keywords to control variance
+[c# - Covariance and contravariance in programming languages - Stack Overflow](https://stackoverflow.com/questions/1163465/covariance-and-contravariance-in-programming-languages)
+[Covariance and Contravariance - withoutbugs.com](https://www.withoutbugs.com/2011/04/covariance-and-contravariance.html)
+[C# : Is Variance (Covariance / Contravariance) another word for Polymorphism? - Stack Overflow](https://stackoverflow.com/questions/1078423/c-sharp-is-variance-covariance-contravariance-another-word-for-polymorphis)
+
 #### State Machine
 
-> see `reactive-programming.md#xstate`
+[[reactive-programming#Xstate]]
 
 [Finite-state machine - Wikiwand](https://www.wikiwand.com/en/Finite-state_machine)
 [Deterministic finite automaton - Wikiwand](https://www.wikiwand.com/en/Deterministic_finite_automaton)
 [Finite State Machines](https://flaviocopes.com/finite-state-machines/)
 [Chomsky Language Levels - YouTube](https://www.youtube.com/playlist?list=PLzH6n4zXuckpkgSrHX87sDCmEZSumytL3)
+
+[Automata & Python - Computerphile - YouTube](https://www.youtube.com/watch?v=32bC33nJR3A)
+[Automata & Python (Long Version) - Computerphile - YouTube](https://www.youtube.com/watch?v=oHVHkkah3MY)
 
 [Ragel State Machine Compiler](http://www.colm.net/open-source/ragel/)
 [State Machines & Tools--Quantum Leaps](http://www.state-machine.com/)
@@ -875,6 +923,8 @@ A\* Algorithm:
 
 #### Natural sort
 
+[[python-snippets#Natural sort]]
+
 [Sorting for Humans : Natural Sort Order](https://blog.codinghorror.com/sorting-for-humans-natural-sort-order/)
 
 [DaveKoelle.com | The Alphanum Algorithm](http://www.davekoelle.com/alphanum.html)
@@ -897,10 +947,13 @@ A\* Algorithm:
 [TIFU by using Math.random() — Medium](https://medium.com/@betable/tifu-by-using-math-random-f1c308c4fd9d#.sp9i13hux)
 [V8 JavaScript Engine: There's Math.random(), and then there's Math.random()](http://v8project.blogspot.de/2015/12/theres-mathrandom-and-then-theres.html)
 
+#### Perlin noise
+
 [Perlin noise - Wikiwand](https://www.wikiwand.com/en/Perlin_noise) a smoother gradient noise
 [The Theory of Noise: An Overview of Perlin Noise - YouTube](https://www.youtube.com/watch?v=H6FhG9VKhJg)
 [How to turn a few Numbers into Worlds (Perlin Noise) - YouTube](https://www.youtube.com/watch?v=ZsEnnB2wrbI)
 [Understanding Perlin Noise](https://adrianb.io/2014/08/09/perlinnoise.html)
+[Mathf.PerlinNoise | Smooth Random Values | Unity Quick Tutorial - YouTube](https://www.youtube.com/watch?v=gdSFs0PeBNQ)
 
 #### Visualization
 
@@ -929,6 +982,7 @@ Non-exact (rounded) results is good enough for many scenarios.
 [Dynamic Programming - GeeksforGeeks](https://www.geeksforgeeks.org/dynamic-programming/)
 [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges - YouTube](https://www.youtube.com/watch?v=oBt53YbR9Kk) (memoized) recursion and tabulation
 [How to Count Dice Rolls - An Introduction to Dynamic Programming - YouTube](https://www.youtube.com/watch?v=oifN-YVlrq8)
+[Solving the subsets problem with dynamic programming - YouTube](https://www.youtube.com/watch?v=Kbsjju9PUuw)
 [What can “The Simpsons” teach us about Dynamic Programming? - YouTube](https://www.youtube.com/watch?v=6z4ePR7YYa8) several typical examples
 
 - Fibbonaci number
@@ -1056,6 +1110,20 @@ Language specific optimization can be added when parsing the source code to inte
 
 Following is are lists of learning resources for the programming languages I'm interested in.
 
+[[c-sharp]]
+[[go-lang]]
+[[java]]
+[[javascript-notes]]
+[[julia]]
+[[nodejs-notes]]
+[[php-lang]]
+[[python-notes]]
+[[regex]]
+[[rust]]
+[[web-dev]]
+[[v-lang]]
+[[zig-lang]]
+
 [HOPL](https://hopl.info/) Online Historical Encyclopaedia of Programming Languages
 [C isn't a programming language anymore • The Register](https://www.theregister.com/2022/03/23/c_not_a_language/)
 you must speak C when communicating with kernel
@@ -1098,16 +1166,6 @@ you must speak C when communicating with kernel
 [Libraries - The Open Source Discovery Service](https://libraries.io/)
 [free-courses/free-courses.github.io: Free Programing Courses list](https://github.com/free-courses/free-courses.github.io)
 
-[[go-notes]]
-[[java]]
-[[javascript-notes]]
-[[julia]]
-[[nodejs-notes]]
-[[python-notes]]
-[[regex]]
-[[rust]]
-[[web-dev]]
-
 [The Art of Code - Dylan Beattie - YouTube](https://www.youtube.com/watch?v=6avJHaC3C2U)
 Game of Life can be used to build logic gates
 Quines
@@ -1122,14 +1180,6 @@ Quines
 [Microsoft-backed Language Server Protocol strives for language, tools interoperability | InfoWorld](https://www.infoworld.com/article/3088698/application-development/microsoft-backed-langauge-server-protocol-strives-for-language-tools-interoperability.html)
 [Microsoft/language-server-protocol: Defines a common protocol for language servers.](https://github.com/Microsoft/language-server-protocol)
 Protocol to abstract editor from specific language.
-
-## Memory Management
-
-[🚀 Demystifying memory management in modern programming languages | Technorage](https://deepu.tech/memory-management-in-programming/)
-[🚀 Visualizing memory management in Golang | Technorage](https://deepu.tech/memory-management-in-golang/)
-[🚀 Visualizing memory management in V8 Engine (JavaScript, NodeJS, Deno, WebAssembly) | Technorage](https://deepu.tech/memory-management-in-v8/)
-
-[The Origins of Process Memory | Exploring the Use of Various Memory Allocators in Linux C - YouTube](https://www.youtube.com/watch?v=c7xf5dvUb_Q)
 
 ## Abstract Syntax Tree (AST)
 
@@ -1576,10 +1626,6 @@ libuv:
 [Do rust web servers use libuv (through libgreen)? or are threads + blocking syscalls faster? any links about the topic? : rust](https://www.reddit.com/r/rust/comments/2l0a4b/do_rust_web_servers_use_libuv_through_libgreen_or/)
 [uvloop: Blazing fast Python networking — magicstack](http://magic.io/blog/uvloop-blazing-fast-python-networking/)
 
-## C&#35;
-
-[[c-sharp]]
-
 ## Crystal
 
 [The Crystal Programming Language - A compiled language with Ruby like syntax and type inference](https://crystal-lang.org/)
@@ -1599,7 +1645,13 @@ libuv:
 
 ## Carbon
 
+Google's langauge for replacing C
+
+[carbon-language/carbon-lang: Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)](https://github.com/carbon-language/carbon-lang)
+[Carbon (programming language) - Wikiwand](<https://www.wikiwand.com/en/Carbon_(programming_language)>)
+
 [Carbon Lang… The C++ killer? - YouTube](https://www.youtube.com/watch?v=-bHK0qmp06c)
+[Carbon Lang First Look & Crash Course | Google's C++ Successor - YouTube](https://www.youtube.com/watch?v=MMxbP8ME2Ag)
 
 ## D
 
@@ -1677,7 +1729,7 @@ Elm -> ReScript -> F#
 ## Nim
 
 > transpiles to C/C++ code
-> V seems a better choice
+> [[v-lang]] seems a better choice
 
 [Nim Programming Language](https://nim-lang.org/)
 [Nim Docs](https://nim-lang.org/documentation.html)
@@ -1781,10 +1833,6 @@ proc init*(flags: uint32): cint {.importc: "SDL_Init", dynlib: libName.}
 
 [Reason](http://facebook.github.io/reason/)
 
-## Python
-
-> see `python-notes.md#learn`
-
 ## Perl
 
 [The Perl Programming Language - www.perl.org](https://www.perl.org/)
@@ -1797,10 +1845,6 @@ proc init*(flags: uint32): cint {.importc: "SDL_Init", dynlib: libName.}
 
 [The Official RPerl Website](http://rperl.org/)
 [This Perl goes to 11](http://perl11.org/) JIT compiler and Perl 6
-
-## PHP
-
-[[php]]
 
 ## R
 
@@ -1862,54 +1906,3 @@ The language used by data analysts.
 
 [x140yu-Developing_iOS_8_Apps_With_Swift · GitHub](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift)
 [Start Developing iOS Apps (Swift): Jump Right In](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
-
-## V
-
-[The V Programming Language](https://vlang.io/)
-
-- Go-like syntax
-- compiles to human readable C
-- C compatibility,
-- manual memory allocation
-- generics
-- optionals (explicitly null pointers)
-
-[The V Programming Language](https://vlang.io/docs)
-[builtin | vdoc](https://modules.vlang.io/)
-
-[https://vpm.vlang.io](https://vpm.vlang.io/) `v install [module]`
-
-[The V Programming Language: Vain Or Virtuous? | Hackaday](https://hackaday.com/2019/07/23/the-v-programming-language-vain-or-virtuous/)
-
-## Zig
-
-Yet another system language wanted to replace C.
-
-- Interoperable by design (C friendly ABI)
-- Many supported targets
-- No libc dependency
-- `errdefer` (more advanced `defer` in Go)
-
-[Home ⚡ Zig Programming Language](https://ziglang.org/)
-[ziglang/zig: General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.](https://github.com/ziglang/zig)
-[Documentation - The Zig Programming Language](https://ziglang.org/documentation/master/)
-
-[In-depth Overview ⚡ Zig Programming Language](https://ziglang.org/learn/overview/#integration-with-c-libraries-without-ffibindings)
-[Learn ⚡ Zig Programming Language](https://ziglang.org/learn/)
-
-[How To Zig?](https://www.nmichaels.org/zig/)
-[Chapter 0 - Getting Started | ziglearn.org](https://ziglearn.org/)
-[nrdmn/awesome-zig](https://github.com/nrdmn/awesome-zig)
-[std - Zig](https://ziglang.org/documentation/master/std/)
-
-[Introduction to the Zig Programming Language - Andrew Kelley](http://andrewkelley.me/post/intro-to-zig.html)
-
-[Is Zig the Long Awaited C Replacement? | by Erik Engheim | Medium](https://erik-engheim.medium.com/is-zig-the-long-awaited-c-replacement-c8eeace1e692)
-[Understanding the Zig Programming Language | The Startup](https://medium.com/swlh/zig-the-introduction-dcd173a86975)
-[Software Reliability C++ vs Zig. A tiny comparison of C++ and Zig in… | by Erik Engheim | Medium](https://erik-engheim.medium.com/software-reliability-c-vs-zig-dbb2d0005b9c)
-[C++ vs Zig Template Based Programming | by Erik Engheim | Level Up Coding](https://levelup.gitconnected.com/c-vs-zig-template-based-programming-d3e248885aa)
-
-[The Road to Zig 1.0 - Andrew Kelley - YouTube](https://www.youtube.com/watch?v=Gv2I7qTux7g) 2019-05
-[Zig Roadmap 2023 - Andrew Kelley - YouTube](https://www.youtube.com/watch?v=AqDdWEiSwMM) 2022-04, history
-[Zig Status Update & Demo - Cross Compilation & Async Functions - YouTube](https://www.youtube.com/watch?v=1U7Yy2XgcrE)
-[Using Zig to Build Lua for WebAssembly in the Browser - YouTube](https://www.youtube.com/watch?v=DtZBac-IUBQ)

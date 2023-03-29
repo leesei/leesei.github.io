@@ -37,7 +37,7 @@ tags:
 [Why is Blender Free - YouTube](https://www.youtube.com/watch?v=yfg8ydtOUDg)
 
 [Blender Guru](https://www.blenderguru.com/)
-[Blender Guru - YouTube](https://www.youtube.com/c/BlenderGuruOfficial)
+[Blender Guru - YouTube](https://www.youtube.com/@blenderguru)
 [Blender 2.8 Beginner Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
 [Blender 基礎教學 - YouTube](https://www.youtube.com/playlist?list=PL7enJ2-v6SPkncr7Cll_w2kSk0JfZLtK3)
 [Make BEAUTIFUL characters using a FREE APP (Blender) - YouTube](https://www.youtube.com/watch?v=o366hhdw9dc)

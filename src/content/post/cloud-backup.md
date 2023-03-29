@@ -175,7 +175,7 @@ Virtual file system
 
 ## FreeFileSync
 
-[#Quick Start - FreeFileSync](https://freefilesync.org/manual.php) also sync locally
+[Quick Start - FreeFileSync](https://freefilesync.org/manual.php) also sync locally
 
 ---
 

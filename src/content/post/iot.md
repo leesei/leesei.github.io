@@ -299,6 +299,13 @@ Adafruit's open source derivative of MicroPython
 
 [ziutek/emgo: Emgo: Bare metal Go (language for programming embedded systems)](https://github.com/ziutek/emgo)
 
+## Zig for SoC
+
+[ZigEmbeddedGroup/microzig: Unified abstraction layer and HAL for several microcontrollers](https://github.com/ZigEmbeddedGroup/microzig)
+
+[ZEG](https://microzig.tech/)
+[Intro to Zig on Embedded](https://sycl.it/agenda/workshops/intro-to-zig-on-embedded/)
+
 ## Toit
 
 [Toit - IoT software platform for the ESP32](https://toit.io/)

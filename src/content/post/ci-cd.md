@@ -5,7 +5,7 @@ created: 2019-11-04
 tags:
   - devops
   - gitops
-  - web-deploy
+  - dev/deploy
 ---
 
 [Continuous integration - Wikiwand](https://www.wikiwand.com/en/Continuous_integration)

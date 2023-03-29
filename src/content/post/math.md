@@ -40,6 +40,11 @@ tags:
 
 [Lockdown math - YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDP5CVelJJ1bNDouqrAhVPev) 3Blue1Brown
 
+## Calculation
+
+[Wolfram|Alpha: Computational Intelligence](https://www.wolframalpha.com/)
+[DLMF: NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov/)
+
 ## Invented or Discovered
 
 [Is math discovered or invented? - Jeff Dekofsky - YouTube](https://www.youtube.com/watch?v=X_xR5Kes4Rs)
@@ -210,6 +215,11 @@ Khan Academy
 [class17-slides-all.pdf](https://math.mit.edu/~dav/05.dir/class17-slides-all.pdf)
 [How To Catch A Cheater With Math - YouTube](https://www.youtube.com/watch?v=XTcP4oo4JI4) explains probabilistic tests, statistical power (sensitivity), p-value
 
+3Blue1Brown
+[Binomial distributions | Probabilities of probabilities, part 1 - YouTube](https://www.youtube.com/watch?v=8idr1WZ1A7Q)
+[Why “probability of 0” does not mean “impossible” | Probabilities of probabilities, part 2 - YouTube](https://www.youtube.com/watch?v=ZA4JkHKZM50) Probability Density Function, where the area under the function is 1
+[But what is a convolution? - YouTube](https://www.youtube.com/watch?v=KuXjwB4LzSA)
+
 妈咪说 MommyTalk  
 [概率也能骗人？什么是伯特兰悖论？用数学告诉你为什么说话要严谨 - YouTube](https://www.youtube.com/watch?v=h2grRS_VYfA)
 [一个反直觉的硬币游戏，伯特兰箱子悖论 - YouTube](https://www.youtube.com/watch?v=kq_Ey8l_1yc)
@@ -268,7 +278,15 @@ p-value is the probability that random chance generated the data, or something e
 [False Discovery Rates, FDR, clearly explained - YouTube](https://www.youtube.com/watch?v=K8LQSvtjcEo)
 [p-hacking and power calculations - YouTube](https://www.youtube.com/watch?v=UFhJefdVCjE)
 
+### Central Limit Theorem
+
+[Central limit theorem - Wikiwand](https://www.wikiwand.com/en/Central%20Limit%20Theorem)
+
+[But what is the Central Limit Theorem? - YouTube](https://www.youtube.com/watch?v=zeJD6dqJ5lo)
+
 ### Benford's Law
+
+[Benford's law - Wikiwand](https://www.wikiwand.com/en/Benford's_law)
 
 [Why do Biden's votes not follow Benford's Law? - YouTube](https://www.youtube.com/watch?v=etx0k1nLn78)
 

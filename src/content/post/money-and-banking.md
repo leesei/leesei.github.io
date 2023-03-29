@@ -37,11 +37,14 @@ tags:
 
 ### Money supply
 
+[货币是怎么产生的？国家要印多少钱？每个人都要了解的财富密码 - YouTube](https://www.youtube.com/watch?v=jW6AxaKjEmE)
+
 [Money supply - Wikiwand](http://www.wikiwand.com/en/Money_supply)
 [M1 Definition | Investopedia](http://www.investopedia.com/terms/m/m1.asp)
 [M2 Definition | Investopedia](http://www.investopedia.com/terms/m/m2.asp)
 [M3 Definition | Investopedia](http://www.investopedia.com/terms/m/m3.asp)
 
+[纸币被印出来之后是怎么进入市场流通的？How does cash come into circulation?【柴知道 ChaiKnows】【科普 Science】【冷知识 Trivia】 - YouTube](https://www.youtube.com/watch?v=JVGk6lxaGbc)
 [More Money Less Problems | Radiolab | WNYC Studios](https://www.wnycstudios.org/podcasts/radiolab/articles/more-money-less-problems)
 
 ## Cryptocurrency

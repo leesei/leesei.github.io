@@ -5,6 +5,8 @@ created: 2015-04-02
 tags:
   - comp.hardware
   - lcd
+  - micro-led
+  - mini-led
   - oled
 ---
 
@@ -261,6 +263,21 @@ Cheap HDR is worst than SDR
 [The Expanding Gamut of Color on the Web | CSS-Tricks](https://css-tricks.com/the-expanding-gamut-of-color-on-the-web/)
 
 [The Windows HDR Calibration app is here - DirectX Developer Blog](https://devblogs.microsoft.com/directx/the-windows-hdr-calibration-app-is-here/)
+
+## High Refresh Rate
+
+[The CHEAPEST 144Hz Gaming Monitors on Amazon! - YouTube](https://www.youtube.com/watch?v=76KPzzMccjM)
+[【硬件科普】显示器的 1ms 响应时间其实是个骗局？详解显示器灰阶响应时间 - YouTube](https://www.youtube.com/watch?v=0OjXIJ5bsLc)
+[【硬件科普】拼多多第三方买的 144Hz 屏幕居然是假的？如何判断刷屏幕新率的真假？ - YouTube](https://www.youtube.com/watch?v=-VoGiddwFXw)
+
+Latency and Display Analysis Tool (LDAT)
+[NVIDIA Reviewer Toolkit for Graphics Performance](https://www.nvidia.com/en-us/geforce/news/nvidia-reviewer-toolkit/)
+[Automated System Latency Test Methodology (NVIDIA Latency Analyzer Validation) - YouTube](https://www.youtube.com/watch?v=0SZ7ZCac38A)
+[Which game settings cause the most lag? - Nvidia Reflex Latency Analyzer - YouTube](https://www.youtube.com/watch?v=aL5YTWRpzoA)
+[Introducing NVIDIA Reflex: Optimize and Measure Latency in Competitive Games | GeForce News | NVIDIA](https://www.nvidia.com/en-us/geforce/news/reflex-low-latency-platform/)
+
+[OSRTT User Guide & Explainer – Open Source Response Time Tool | TechteamGB](https://techteamgb.co.uk/2022/01/14/osrtt-user-guide-explainer-open-source-response-time-tool/?utm_source=rss&utm_medium=rss&utm_campaign=osrtt-user-guide-explainer-open-source-response-time-tool)
+[OSRTT User Guide & Explainer - Open Source Response Time Tool - YouTube](https://www.youtube.com/watch?v=pZjya0h7pgQ)
 
 ## 4K
 

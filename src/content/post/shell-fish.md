@@ -1,10 +1,13 @@
 ---
-title: Fish notes
+title: Fish shell
 description: ""
 created: 2016-02-18
 tags:
-  - app
   - fish-shell
+  - fisher
+  - linux
+  - settings
+  - shell
 ---
 
 [fish shell](http://fishshell.com/)
@@ -66,7 +69,7 @@ Fish featured on Ars:
 [history - Show and manipulate command history — fish-shell 3 documentation](https://fishshell.com/docs/current/cmds/history.html)
 
 History search is simply typing and <kbd>Up</kbd>, no more <kbd>Ctrl</kbd>+<kbd>R</kbd> by default.  
-But you can bind manually, see `#fzf-key-bindings`
+But you can bind manually, see [[#fzf key bindings]]
 
 ## Parameter expansion
 
@@ -137,20 +140,23 @@ fisher install laughedelic/pisces
 fisher install setomits/venv-fish
 ```
 
-## oh-my-fish
+## Other package manager
+
+> I prefer fisher over these
 
 [oh-my-fish/oh-my-fish: The Fish Shell Framework](https://github.com/oh-my-fish/oh-my-fish)
 [packages-main/packages at master · oh-my-fish/packages-main](https://github.com/oh-my-fish/packages-main/tree/master/packages)
 
+[danhper/fundle: A minimalist package manager for fish shell](https://github.com/danhper/fundle)
+
 ## Plugins
 
-[edc/bass: Make Bash utilities usable in Fish shell](https://github.com/edc/bass#nvm)
-
-[jorgebucaran/nvm.fish: Node.js version manager lovingly made for Fish.](https://github.com/jorgebucaran/nvm.fish)
-[brigand/fast-nvm-fish: a wrapper around node version manager for fish shell with good performance](https://github.com/brigand/fast-nvm-fish)
 [fish-plugins · GitHub Topics](https://github.com/topics/fish-plugins)
 
-[onodera-punpun/neet: A script to easily play and manage your anime/drama/series.](https://github.com/onodera-punpun/neet)
+[edc/bass: Make Bash utilities usable in Fish shell](https://github.com/edc/bass)
+
+[jorgebucaran/nvm.fish: Node.js version manager lovingly made for Fish.](https://github.com/jorgebucaran/nvm.fish) I'm using this native Fish script, the syntax is a bit different from the official one
+[brigand/fast-nvm-fish: a wrapper around node version manager for fish shell with good performance](https://github.com/brigand/fast-nvm-fish)
 
 [danhper/fish-ssh-agent](https://github.com/danhper/fish-ssh-agent)
 
@@ -165,6 +171,7 @@ fisher install setomits/venv-fish
 
 ### fzf key bindings
 
+`/usr/share/fish/vendor_functions.d/fzf_key_bindings.fish`
+
 [PatrickF1/fzf.fish: Augment your fish command line with fzf key bindings.](https://github.com/PatrickF1/fzf.fish)
-[fzf_key_bindings.fish](fzf_key_bindings.fish)
 [halostatue/fish-fzf: FZF Helpers for Fish](https://github.com/halostatue/fish-fzf) + [jethrokuan/fzf: Ef-🐟-ient fish keybindings for fzf](https://github.com/jethrokuan/fzf)

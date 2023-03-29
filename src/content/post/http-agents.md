@@ -200,11 +200,6 @@ httrack -c8 [url]
 
 ## GUI App
 
-[REST Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
-[Bye bye Postman ! Let's share your REST API calls in team, easily ! - DEV Community 👩‍💻👨‍💻](https://dev.to/monisnap/bye-bye-postman-let-s-share-your-rest-api-calls-in-team-easily-h6l)
-[REST Client for your early Rest API-based project using Visual Studio Code - DEV Community](https://dev.to/dendihandian/rest-client-for-your-early-rest-api-based-project-using-visual-studio-code-4p1i)
-[[VSCode 插件推荐] REST Client: 也许是比 Postman 更好的选择 - 知乎](https://zhuanlan.zhihu.com/p/54266685)
-
 [Hurl - Run and Test HTTP Requests](https://hurl.dev/) similar to REST Client, but more powerful
 
 [Insomnia REST Client](https://insomnia.rest/) open source, also supports GraphQL
@@ -230,6 +225,22 @@ httrack -c8 [url]
 [How to visualize data in Postman - YouTube](https://www.youtube.com/playlist?list=PL6yYBvW22vbqiyhb_U-RWfxuZNv0DKBP8)
 
 [Inspector](https://inspector.swagger.io/builder?url=https%3A%2F%2Fswapi.co%2Fapi%2Fpeople) web GUI from Swagger
+
+### REST Client
+
+[RapidAPI Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=RapidAPI.vscode-rapidapi-client) HTTP requests in plain text, generate types
+
+[I Abandoned Postman for This NEW VS Code Extension | Build, Test & Sell APIs 🤑 - YouTube](https://www.youtube.com/watch?v=MTrj3tNf9jA)
+[Bye bye Postman ! Let's share your REST API calls in team, easily ! - DEV Community 👩‍💻👨‍💻](https://dev.to/monisnap/bye-bye-postman-let-s-share-your-rest-api-calls-in-team-easily-h6l)
+[REST Client for your early Rest API-based project using Visual Studio Code - DEV Community](https://dev.to/dendihandian/rest-client-for-your-early-rest-api-based-project-using-visual-studio-code-4p1i)
+[VS Code’s REST Client Plugin is All You Need to Make API Calls | by Paige Niedringhaus | Bits and Pieces](https://blog.bitsrc.io/vs-codes-rest-client-plugin-is-all-you-need-to-make-api-calls-e9e95fcfd85a)
+[[VSCode 插件推荐] REST Client: 也许是比 Postman 更好的选择 - 知乎](https://zhuanlan.zhihu.com/p/54266685)
+
+[In VS Code REST CLIENT plugin - how do you store variables from data retrieved from a request? - Stack Overflow](https://stackoverflow.com/a/71553765)
+
+### Thunder Client
+
+[Thunder Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) POSTMan in VS Code
 
 ## Node.js
 

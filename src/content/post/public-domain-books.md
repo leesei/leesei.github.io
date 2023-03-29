@@ -4,7 +4,6 @@ description: ""
 created: 2015-04-18
 tags:
   - learning
-  - trivia
 ---
 
 [Approved Textbooks | American Inst. of Mathematics](http://aimath.org/textbooks/approved-textbooks/)

@@ -489,12 +489,6 @@ To start using WinUI 3.0 developers must:
 3. Update control references to ensure WinUI controls and not SDK controls are being loaded
 4. Test and verify
 
-### Fluent Design
-
-[Fluent Design for Windows](https://www.microsoft.com/design/fluent/#/windows)
-[Design and UI for UWP - UWP applications | Microsoft Docs](https://docs.microsoft.com/en-us/windows/uwp/design/)
-[Fluent Design System for Windows | Microsoft Docs](https://docs.microsoft.com/en-us/windows/apps/fluent-design-system)
-
 ## Winforms
 
 [dotnet/winforms: Windows Forms is a .NET Core UI framework for building Windows desktop applications.](https://github.com/dotnet/winforms) .NET wrapper around Win32 API

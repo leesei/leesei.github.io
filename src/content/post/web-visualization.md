@@ -1,11 +1,15 @@
 ---
-title: Charts on the Web
+title: Data Visualization on the Web
 description: ""
 created: 2016-04-08
 tags:
-  - chart
+  - big-data
+  - visualization
+  - visualization/js
   - web
 ---
+
+[[d3-js]]
 
 [How to Choose a JavaScript Charting Library - ZingChart Blog](http://www.zingchart.com/blog/2015/09/15/how-to-choose-a-javascript-charting-library/)
 [Best jQuery Chart Libraries for Building Interactive Charts | Code Geekz](https://codegeekz.com/best-jquery-chart-libraries-for-building-interactive-charts/)
@@ -14,15 +18,13 @@ tags:
 [vis.js - A dynamic, browser based visualization library.](http://visjs.org/)
 [react-vis](https://uber.github.io/react-vis/)
 
-[Jutsu](http://www.joelotter.com/jutsu/)
 [nhnent/tui.chart: 🍞🍯 Beautiful chart for data visualization.](https://github.com/nhnent/tui.chart)
-
-[Victory | Home](https://formidable.com/open-source/victory/)
 
 [Chartist - Simple responsive charts](https://gionkunz.github.io/chartist-js/)
 
 [JavaScript Charts in one powerful declarative library | ZingChart](https://www.zingchart.com/) free with watermark
 
+[Image Charts | Instantly create beautiful charts](https://www.image-charts.com/)
 [Open Source Image Charts Replacement | QuickChart](https://quickchart.io/)
 
 ## Polychart
@@ -37,8 +39,8 @@ tags:
 
 ## Victory
 
-[Victory](https://formidable.com/open-source/victory/about/)
-[Creating Victory charts in React Native - LogRocket Blog](https://blog.logrocket.com/creating-victory-charts-react-native/)Spectacle
+[Victory](https://formidable.com/open-source/victory/)
+[Creating Victory charts in React Native - LogRocket Blog](https://blog.logrocket.com/creating-victory-charts-react-native/) Spectacle
 
 ## Chart.js
 
@@ -47,14 +49,3 @@ tags:
 
 [react-chartjs-2 | react-chartjs-2](https://react-chartjs-2.netlify.app/)
 [How to build a marketing dashboard (twitter & youtube) with React - DEV Community](https://dev.to/canonic/how-to-build-a-twitter-youtube-analytics-dashboard-with-react-2p2d)
-
-## g.raphael
-
-> see `svg.md#raphael`
-
-[DmitryBaranovskiy-g.raphael: Charts for Raphaël](https://github.com/DmitryBaranovskiy/g.raphael)
-[g.Raphaël Reference](https://rawgit.com/DmitryBaranovskiy/g.raphael/master/docs/reference.html)
-
-## D3.js
-
-[[d3-js]]

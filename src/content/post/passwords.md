@@ -25,7 +25,7 @@ tags:
 
 [How I cracked my neighbor’s WiFi password without breaking a sweat | Ars Technica](http://arstechnica.com/security/2012/08/wireless-password-easily-cracked/)
 
-[Authentication – from “Programming JavaScript Applications” « Eric Elliott – JavaScript Architect (A JavaScript Blog)](http://ericleads.com/2013/08/authentication-from-programming-javascript-applications/)
+[Authentication – from “Programming JavaScript Applications”](https://ericleads.wordpress.com/2013/08/authentication-from-programming-javascript-applications/)
 
 [Your Password is Too Damn Short](http://blog.codinghorror.com/your-password-is-too-damn-short/)
 

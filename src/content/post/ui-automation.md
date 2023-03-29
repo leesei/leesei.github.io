@@ -13,8 +13,8 @@ tags:
 [Open-Source RPA Software 2022 for macOS, Linux and Windows. Codeless UI Automation](https://ui.vision/rpa)
 [Linux-Fu: Automation For Chrome And The Desktop By Matching Screenshots | Hackaday](https://hackaday.com/2020/06/15/linux-fu-automation-for-chrome-and-the-desktop-by-matching-screenshots/)
 
-[[autohotkey]]
-[[autoit]]
+[[autohotkey]] Windows
+[[autoit]] Windows
 
 ## Microsoft Power Automate Desktop
 

@@ -35,6 +35,9 @@ tags:
 
 [Animated QR codes: how do they work, and how to create your own?](https://www.bleepingcomputer.com/news/technology/animated-qr-codes-how-do-they-work-and-how-to-create-your-own/)
 
+[《柴知道》科普：二维码是什么原理？ - YouTube](https://www.youtube.com/watch?v=nG8s1QXnRJc)
+[Vol.120 二维码的秘密 - YouTube](https://www.youtube.com/watch?v=XW8sgT_D0To)
+
 ### parsers
 
 [ZXing Decoder Online](http://zxing.org/w/decode.jspx)

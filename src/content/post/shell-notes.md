@@ -164,6 +164,7 @@ Follow [The Art of Unix Programming](http://www.faqs.org/docs/artu/), implement 
 
 [The #! magic, details about the shebang/hash-bang mechanism](http://www.in-ulm.de/~mascheck/various/shebang/)
 [Sambal : Passing options to node on the shebang (#!) line](http://sambal.org/2014/02/passing-options-node-shebang-line/)
+[Executing Python Scripts With a Shebang – Real Python](https://realpython.com/python-shebang/)
 
 [`envns`](http://stackoverflow.com/a/25046028/665507):
 
@@ -189,6 +190,15 @@ exec $PROG "${ARGS[@]}"
 ```sh
 #!/bin/bash
 node --harmonic "$@"
+```
+
+Use `-s` to pass extra arguments
+
+```py
+#!/usr/bin/env -S python3 -i
+
+print("Hello, World!")
+# you will be drop to a interactive shell
 ```
 
 ### parsing command line

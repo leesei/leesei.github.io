@@ -1,0 +1,8 @@
+{
+  "Insert `updated` date": {
+    "scope": "yaml",
+    "prefix": "up",
+    "body": ["updated: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}", ""],
+    "description": "Insert `updated` date"
+  }
+}

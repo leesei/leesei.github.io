@@ -5,7 +5,7 @@ created: 2018-07-03
 tags:
   - devops
   - gitops
-  - web-deploy
+  - dev/deploy
 ---
 
 GitOps is the new PaaS.

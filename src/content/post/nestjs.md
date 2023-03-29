@@ -4,7 +4,7 @@ description: ""
 created: 2023-03-08
 tags:
   - nestjs
-  - typecript
+  - typescript
   - web
   - web-dev
   - web-framework

@@ -3,8 +3,8 @@ title: Image Tools
 description: ""
 created: 2016-08-04
 tags:
-  - ImageMagick
   - app
+  - image-magick
   - primitive
   - shell-tool
 ---
@@ -12,6 +12,7 @@ tags:
 [fogleman/primitive: Reproducing images with geometric primitives.](https://github.com/fogleman/primitive)
 [Bigjpg - AI 人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片](https://bigjpg.com/)
 [分享 3 款图片处理神器，渣图还原大法好，老厉害了！ - 知乎](https://zhuanlan.zhihu.com/p/61399728)
+[LunaPic | Free Online Photo Editor | Transparent Background](https://www7.lunapic.com/editor/?action=transparent)
 
 ## ImageMagick
 

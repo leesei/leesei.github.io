@@ -219,14 +219,13 @@ CSS props as classes. So instead of actually writing any CSS, you just apply the
 [Bulma cheatsheet](https://devhints.io/bulma) !important
 [Responsiveness | Bulma: Free, open source, and modern CSS framework based on Flexbox](https://bulma.io/documentation/overview/responsiveness/)
 
-| Breakpoints  |                      |
-| ------------ | -------------------- | --- | ------- |
+| Breakpoints  | Screen sizes         |
+| ------------ | -------------------- |
 | `mobile`     | width <= 768         |
 | `tablet`     | 769 <= width < 1024  |
 | `desktop`    | 1024 <= width < 1216 |
 | `widescreen` | 1216 <= width < 1408 |
 | `fullhd`     | 1408 <= width        |
-| `is-touch`   | `mobile              |     | tablet` |
 
 [Get started with Bulma | Creative Bloq](https://www.creativebloq.com/how-to/get-started-with-bulma)
 [All Bulma CSS classes list](https://bulma.dev/classes)
@@ -849,6 +848,7 @@ The overlay should be a `absolute` position in a `relative` container, together 
 
 [Image Fitting](https://cloudinary.com/visualweb/display/IMMC/Image+Fitting)
 [Preserve an Image's Aspect Ratio When Resized | kirupa.com](https://www.kirupa.com/html5/preserve_an_image_aspect_ratio_when_resized.htm)
+[Cropping & Scaling Images Using SVG Documents – Sara Soueidan, inclusive design engineer](https://www.sarasoueidan.com/blog/svg-object-fit/) in case your don't want to use `object-fit`
 
 [First Look At The CSS object-view-box Property - Ahmad Shadeed](https://ishadeed.com/article/css-object-view-box/)
 [A guide to CSS object-view-box - LogRocket Blog](https://blog.logrocket.com/guide-css-object-view-box/)

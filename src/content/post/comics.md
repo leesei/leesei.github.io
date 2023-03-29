@@ -4,7 +4,6 @@ description: ""
 created: 2015-04-24
 tags:
   - comics
-  - trivia
 ---
 
 This history of US comics divides into 4 distinct periods:

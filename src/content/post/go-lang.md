@@ -4,7 +4,7 @@ description: ""
 created: 2015-02-16
 tags:
   - comp.lang
-  - golang
+  - go-lang
   - package-manager
 ---
 
@@ -182,6 +182,8 @@ GOOS=windows GOARCH=amd64 go build -o app.exe app/main.go
 [探讨 docker 容器对共享内存的支持情况 | Tony Bai](https://tonybai.com/2014/10/12/discussion-on-shared-mem-support-in-docker/)
 [Python and Go : Part IV - Using Python in Memory](https://www.ardanlabs.com/blog/2020/09/using-python-memory.html)
 
+[Zig Makes CGo Cross-compilation Just Work - Loris Cro - YouTube](https://www.youtube.com/watch?v=nBLFMwoDDaY)
+
 [runtime: provide centralized facility for managing (c)go pointer handles · Issue #37033 · golang/go](https://github.com/golang/go/issues/37033)
 
 ## Packages
@@ -230,6 +232,9 @@ fmt.Printf("%[2]v%[1]v%[2]v%[1]v", "o", "c")
 [uber-go/zap: Blazing fast, structured, leveled logging in Go.](https://github.com/uber-go/zap)
 
 [Masterminds/squirrel: Fluent SQL generation for golang](https://github.com/Masterminds/squirrel)
+
+[google/gopacket: Provides packet processing capabilities for Go](https://github.com/google/gopacket)
+[dreadl0ck/gopcap: Fast Golang PCAP Reader & Benchmark Comparison](https://github.com/dreadl0ck/gopcap) recommends `pcapgo`, benchmarks, not using `binary.Read()`
 
 ### import
 

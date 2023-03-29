@@ -5,6 +5,7 @@ created: 2019-07-31
 tags:
   - history
   - isreal
+  - jewish
   - middle-east
   - palestine
 ---
@@ -12,6 +13,10 @@ tags:
 [The Middle East's cold war, explained - YouTube](https://www.youtube.com/watch?v=veMFCFyOwFI)
 Saudi Arabia backed Sunni, Iran backed Shia in proxy wars across middle east and Northern Africa
 [中东为什么这么乱？Why is the Middle East so chaotic?【柴知道 ChaiKnows】【科普 Science】【冷知识 Trivia】 - YouTube](https://www.youtube.com/watch?v=exjVfT6uRrg)
+
+## Jewish
+
+[【大国角斗】真实 or 虚构？犹太流亡史给我们什么启发？ - YouTube](https://www.youtube.com/watch?v=EETY1qqm43k)
 
 ## 以巴衝突
 

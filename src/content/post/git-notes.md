@@ -424,7 +424,7 @@ git commit --amend --author "New Author <new@email>"
 
 ```sh
 # amend several commits, useful for not yet pushed commits
-git rebase -i HEAD^5 # or commitish
+git rebase -i HEAD^5 # or committish
 # pick commits to change author to `edit`
 # for each commit
 git commit --amend --author "New Author <new@email>" --no-edit

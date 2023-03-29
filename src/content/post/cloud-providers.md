@@ -4,7 +4,8 @@ description: ""
 created: 2015-06-17
 tags:
   - web
-  - web-deploy
+  - web/deploy
+  - dev/deploy
 ---
 
 [The history of cloud: a fairy tale | Network World](http://www.networkworld.com/article/3217325/cloud-computing/the-history-of-cloud-a-fairy-tale.html)

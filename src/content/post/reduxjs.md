@@ -1,6 +1,6 @@
 ---
 title: Redux
-description: "Redux = **_Red_**ucer + Fl**_ux_**"
+description: Redux = **_Red_**ucer + Fl**_ux_**
 created: 2015-12-04
 updated: 2023-03-21
 tags:

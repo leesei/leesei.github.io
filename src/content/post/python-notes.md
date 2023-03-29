@@ -719,13 +719,15 @@ Use `dis.dis()` to pretty print a function's byte code
 
 [PEP 544 – Protocols: Structural subtyping (static duck typing) | peps.python.org](https://peps.python.org/pep-0544/)
 
-Structural/duck type check in Mypy static analysis, matches runtime behavior
+[Protocol Or ABC In Python - When to use which one? - YouTube](https://www.youtube.com/watch?v=xvb5hGLoK0A)
+
+- ABC: nominal typing, derived class has to import abc, error at object construction
+- Prototype: structural/duck typing, better, smaller interface, abstract 3rd library, error at object usage
+
 Protocol name can be `Iterable`, `PathLike`, `Ducky`
 
 [Deciphering Glyph :: I Want A New Duck](https://blog.glyph.im/2020/07/new-duck.html) structural vs nominal typing
 [Deciphering Glyph :: Interfaces and Protocols](https://blog.glyph.im/2021/03/interfaces-and-protocols.html)
-
-[Protocol Or ABC In Python - When to use which one? - YouTube](https://www.youtube.com/watch?v=xvb5hGLoK0A)
 [Protocol Types in Python 3.8](https://auth0.com/blog/protocol-types-in-python/)
 
 ## Functions
@@ -865,6 +867,7 @@ Prints the path the module is form
 `object == eval(repr(object))`
 
 [Python String Conversion 101: Why Every Class Needs a “repr” – dbader.org](https://dbader.org/blog/python-repr-vs-str)
+[When Should You Use .**repr**() vs .**str**() in Python? – Real Python](https://realpython.com/python-repr-vs-str/)
 [Can someone explain what **repr**() does a little more thoroughly please? | Codecademy](https://www.codecademy.com/en/forum_questions/551c137f51b887bbc4001b73)
 [python - Difference between **str** and **repr**? - Stack Overflow](https://stackoverflow.com/questions/1436703/difference-between-str-and-repr)
 
@@ -1506,7 +1509,7 @@ python -c "import module"
 [pybind/pybind11: Seamless operability between C++11 and Python](https://github.com/pybind/pybind11)
 [Ivan Smirnov - pybind11 - seamless operability between C++11 and Python - YouTube](https://www.youtube.com/watch?v=jQedHfF1Jfw)
 [Python wrappers for C++ with pybind11 — LSST DM Developer Guide Current documentation](https://developer.lsst.io/pybind11/how-to.html)
-[C++ in Python the Easy Way! #pybind11 - YouTube](https://www.youtube.com/watch?v=_5T70cAXDJ0) easier than Boost.Python
+[C++ in Python the Easy Way! - YouTube](https://www.youtube.com/watch?v=_5T70cAXDJ0) easier than Boost.Python
 
 [Boost.Python](https://www.boost.org/doc/libs/release/libs/python/doc/html/index.html)
 [Using C++ with Python 3 in 2018 - Keith Whitley - Medium](https://medium.com/@keithwhitley/using-c-with-python-3-in-2018-480f3e46c8c) build with Docker

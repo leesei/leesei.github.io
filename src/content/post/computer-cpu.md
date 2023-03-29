@@ -1,6 +1,6 @@
 ---
 title: CPUs
-description: ""
+description: The history of CPU, companies, ISA and chip fabrication
 created: 2019-05-03
 tags:
   - comp.hardware
@@ -77,6 +77,7 @@ tags:
 [Goodbye x86. The FUTURE is RISC-V - YouTube](https://www.youtube.com/watch?v=67KW4t42SZk)
 [RISC-V: How much is open source? Featuring the new ESP32-C3 - YouTube](https://www.youtube.com/watch?v=VdPsJW6AHqc)
 [The Genius of RISC-V Microprocessors - Erik Engheim - ACCU 2022 - YouTube](https://www.youtube.com/watch?v=L9jvLsvkmdM)
+[RISC-V 2023 Update: From Embedded Computing to Data Center & Desktop - YouTube](https://www.youtube.com/watch?v=AJVSZEX6d9M)
 
 [SiFive Launches HiFive Unmatched RISC-V Development Board for Desktops | Tom's Hardware](https://www.tomshardware.com/news/sifive-launches-hifive-unmatched-risc-v-development-board-for-desktops)
 
@@ -587,8 +588,11 @@ Pyrolytic Graphite Sheet (PGS) has a staggering thermal conductivity of 1950W/mK
 [How are microchips made? - YouTube](https://www.youtube.com/watch?v=g8Qav3vIv9s)
 [I Can Die Now. - YouTube](https://www.youtube.com/watch?v=2ehSCWoaOqQ) Intel Israel Fab
 
+硬件茶谈
 [【硬件科普】带你认识 CPU 第 00 期——什么是 MOSFET - YouTube](https://www.youtube.com/watch?v=P91wpwVGH6M)
 [【硬件科普】带你认识 CPU 第 01 期——什么是逻辑门 - YouTube](https://www.youtube.com/watch?v=bk1-KqUq4gQ)
+
+[ASML 遭遇生存危机？全新光刻机技术让芯片成本大跳水 - YouTube](https://www.youtube.com/watch?v=SsUXlw30LRQ) pattern shaping
 
 [中兴禁令之芯片为什么这么难做？芯片的基本原理是什么？李永乐老师带你了解！（2018 最新） - YouTube](https://www.youtube.com/watch?v=7MFly82e46Q)
 [为什么你的电脑还没用上国产 CPU？丨科普丨冷知识丨柴知道 ChaiKnows - YouTube](https://www.youtube.com/watch?v=_5txTIdG53c)

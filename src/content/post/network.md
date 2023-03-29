@@ -268,6 +268,11 @@ Fabrics: A local-area RDMA network is usually referred to as a fabric.
 
 [aramperes/onetun: Access your WireGuard network from any device, without root access or having to install WireGuard locally.](https://github.com/aramperes/onetun)
 
+### SoftEther VPN
+
+[SoftEther VPN Project - SoftEther VPN Project](https://www.softether.org/)
+multiple technologies
+
 ### OpenVPN/IPSec
 
 [OpenVPN - Open Source VPN](https://openvpn.net/)

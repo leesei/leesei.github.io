@@ -1,10 +1,12 @@
 ---
-title: Espressif - maker
+title: Espressif
 description: ""
 created: 2018-10-20
 tags:
+  - maker
   - esp32
   - esp8266
+  - esp-c3
   - espressif
   - iot
 ---
@@ -98,6 +100,10 @@ D0WDQ6 is the standard package, D0WD is smaller
 
 > To use the Bluetooth or BLE functionality of the ESP32, you will need to use the Espressif IDF not the Arduino IDE. ?
 
+[Which Processor can kill the ESP32? - YouTube](https://www.youtube.com/watch?v=_sgC7d1XvGE) compares with S2, S2 is a slight improvement upon ESP32
+Pros: Wifi and Bluetooth, price, memory, many specializations
+Cons: power hungry, Bluetooth 4.2 only, deep sleep causes a reboot, low quality ADC
+
 [ESP32 Development Boards Review and Comparison - Maker Advisor](https://makeradvisor.com/esp32-development-boards-review-comparison/)
 [Getting Started with the ESP32 Development Board | Random Nerd Tutorials](https://randomnerdtutorials.com/getting-started-with-esp32/) !important
 [Introduction to the ESP32 WiFi / Bluetooth Wireless Microcontroller](https://predictabledesigns.com/introduction-to-the-esp32-wifi-bluetooth-wireless-microcontroller)
@@ -177,15 +183,24 @@ LuaNode/Doit ESP-WROOM32 30pins
 
 ## ESP32-S2
 
+Compared with ESP32
+
+- more pins and less restricted
+- improved Wifi
+- BLE5
+- no Hall and SDIO slave
+- larger flash
+- native USB, works with MicroPython
+
 [New Part Day: Espressif Announces ESP32-S2 With USB | Hackaday](https://hackaday.com/2019/05/21/new-part-day-espressif-announces-esp32-s2-with-usb/) no Bluetooth, USB OTG
 [The ESP32-S2, Is It Almost Ready? – Hackster Blog](https://blog.hackster.io/the-esp32-s2-is-it-almost-ready-aa62f2d6b916)
 
 ## ESP-C3
 
+> RISC-V, few pins
+
 [ESP32-C3 Wi-Fi & Bluetooth 5 (LE) MCU | Espressif Systems](https://www.espressif.com/en/products/socs/esp32-c3)
 [Hands-On: The RISC-V ESP32-C3 Will Be Your New ESP8266 | Hackaday](https://hackaday.com/2021/02/08/hands-on-the-risc-v-esp32-c3-will-be-your-new-esp8266/)
-
-RISC-V
 
 ## ESP8266
 

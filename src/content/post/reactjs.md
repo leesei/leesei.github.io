@@ -1,6 +1,6 @@
 ---
 title: React.js
-description: "The library for web and native user interfaces"
+description: The library for web and native user interfaces
 created: 2015-12-04
 updated: 2023-03-21
 tags:
@@ -24,6 +24,7 @@ tags:
 [React Course - Beginner's Tutorial for React JavaScript Library [2022] - YouTube](https://www.youtube.com/watch?v=bMknfKXIFA8)
 [React Tutorial: Learn React JS - Free 11-Hour Course](https://scrimba.com/learn/learnreact)
 
+[React.js: The Documentary - YouTube](https://www.youtube.com/watch?v=8pDqJVdNa44&t=3255s)
 [ReactJs Roadmap🗺 for beginners - 2021 - DEV Community](https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en) mind map
 [Why React Hooks? - YouTube](https://www.youtube.com/watch?v=eX_L39UvZes) an overview of React API history
 render props and HOC creates false hierarchies and wrapper hells
@@ -84,6 +85,8 @@ React blends view and controller more the higher up in the component hierarchy. 
 
 > DO NOT use Create React App anymore
 
+[Replace Create React App recommendation with Vite by t3dotgg · Pull Request #5487 · reactjs/react.dev](https://github.com/reactjs/react.dev/pull/5487)
+
 ```sh
 npm create vite@latest my-app -- --template react-ts
 yarn create vite my-app --template react-ts
@@ -91,6 +94,9 @@ yarn create vite my-app --template react-ts
 # or use Next.js right away
 npx create-next-app@latest --ts my-app
 yarn create next-app --ts my-app
+
+npm create t3-app@latest
+yarn create t3-app
 ```
 
 ### Project structure
@@ -570,9 +576,6 @@ new API to replace life cycle API, co-locate effect/logic and state to a reusabl
 [React Hooks — Gotchas - Fuzz - Medium](https://medium.com/fuzz/react-hooks-gotchas-b8fcd25cc1b6)
 [Best Practices With React Hooks — Smashing Magazine](https://www.smashingmagazine.com/2020/04/react-hooks-best-practices/)
 
-[DejaVu: Caching versus Memoization - DEV Community 👩‍💻👨‍💻](https://dev.to/thekashey/dejavu-caching-versus-memoization-298n) PUSH mode of hook cause double rendering
-[Easier Asynchronous State Modelling in React Redux or Hooks](https://medium.com/@jesterxl/easier-asynchronous-state-modelling-in-react-redux-or-hooks-a05924b7bfa1)
-
 [Introducing: Redux Hooks – ITNEXT](https://itnext.io/introducing-redux-hooks-1bf9c568ecc2)
 [An Intro to Advanced React Hooks - In the Weeds - Medium](https://medium.com/in-the-weeds/an-intro-to-advanced-react-hooks-a8af6397fe28)
 [Why React Hooks, and how did we even get here? – freeCodeCamp.org](https://medium.freecodecamp.org/why-react-hooks-and-how-did-we-even-get-here-aa5ed5dc96af)
@@ -831,6 +834,7 @@ const BookEntryList = (props) => {
 > basically a `useEffect()` wrapping and async task with loading state, Suspense will support this use case in future release
 
 [How to fetch data with React Hooks? - RWieruch](https://www.robinwieruch.de/react-hooks-fetch-data) `useDataApi()`, `useEffect()` and states managed by `useReducer()`
+[Easier Asynchronous State Modelling in React Redux or Hooks](https://medium.com/@jesterxl/easier-asynchronous-state-modelling-in-react-redux-or-hooks-a05924b7bfa1)
 [Handling API request race conditions in React](https://sebastienlorber.com/handling-api-request-race-conditions-in-react) how to handle stale API calls
 
 [dai-shi/react-hooks-fetch: Minimal data fetching library with React Suspense](https://github.com/dai-shi/react-hooks-fetch)
@@ -1012,6 +1016,7 @@ ESDoc requires `class` syntax.
 [5 Packages to Optimize and Speed Up Your React App During Development - DEV Community](https://dev.to/nilanth/5-packages-to-optimize-and-speed-up-your-react-app-during-development-4h5f)
 
 [Fix the slow render before you fix the re-render](https://kentcdodds.com/blog/fix-the-slow-render-before-you-fix-the-re-render)
+[DejaVu: Caching versus Memoization - DEV Community 👩‍💻👨‍💻](https://dev.to/thekashey/dejavu-caching-versus-memoization-298n) PUSH mode of hook cause double rendering
 [Before You memo() — Overreacted](https://overreacted.io/before-you-memo/)
 
 [Introducing the React Profiler – React Blog](https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html)

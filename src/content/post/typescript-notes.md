@@ -254,3 +254,11 @@ export default VERSION = 2016030600;
       "@services/*": ["services/*"]
   }
 ```
+
+### Typing JSON import
+
+[Importing JSON file in TypeScript - Stack Overflow](https://stackoverflow.com/questions/49996456/importing-json-file-in-typescript)
+[Strongly Typed JSON in TypeScript - DEV Community](https://dev.to/nickytonline/strongly-typed-json-in-typescript-5gb2)
+
+- `"resolveJsonModule": true` in `tsconfig.json`
+- `declare module` for your JSON file

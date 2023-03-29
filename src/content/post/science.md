@@ -6,6 +6,8 @@ tags:
   - science
 ---
 
+> TODO: split `relativity`
+
 [[biology]]
 [[food]]
 [[scientific-method]]
@@ -162,6 +164,7 @@ Field theory introduces infinite quantities, which is concealed with renormaliza
 [Physics - Focus: A Higgs Boson without the Mess](https://physics.aps.org/story/v23/st21)
 
 [The Higgs Boson Explained - YouTube](https://www.youtube.com/watch?v=IqAWqwh3Etw)
+[The Crazy Mass-Giving Mechanism of the Higgs Field Simplified - YouTube](https://www.youtube.com/watch?v=R7dsACYTTXE)
 
 ### Forces
 
@@ -243,6 +246,17 @@ Weak force has handiness
 
 ## Relativity
 
+[What is Relativity? | Live Science](https://www.livescience.com/32216-what-is-relativity.html)
+[10 Ways You See Einstein’s Theory of Relativity in Real Life](https://interestingengineering.com/10-ways-can-see-einsteins-theory-relativity-real-life-keyword-theory-relativity)
+[HyperPhysics Concepts](http://hyperphysics.phy-astr.gsu.edu/hbase/Relativ/relcon.html#relcon)
+
+[Einstein's Theory of Special Relativity | Space](https://www.space.com/36273-theory-special-relativity.html)
+[Einstein's Theory of General Relativity: A Simplified Explanation | Space](https://www.space.com/17661-theory-general-relativity.html)
+[General relativity | New Scientist](https://www.newscientist.com/definition/general-relativity/)
+“Space-time tells matter how to move; matter tells space-time how to curve”
+
+[Spacetime Globe | ALEX on Science](https://alexonscience.com/projects/spacetimeglobe/)
+
 [Relativity - YouTube](https://www.youtube.com/playlist?list=PL1lNrW4e0G8Vwvb5rrxW4Y1UQC7PlTBJS) Up and Atom
 [Relativity - YouTube](https://www.youtube.com/playlist?list=PLF56602BAC693237E) ViaScience
 [Intro to Special Relativity Course - YouTube](https://www.youtube.com/playlist?list=PLoaVOjvkzQtyjhV55wZcdicAz5KexgKvm) minutephysics
@@ -251,8 +265,7 @@ Weak force has handiness
 [一个公式理解相对论：从伽利略变换到洛伦兹变换 - YouTube](https://www.youtube.com/watch?v=9xfaNMfT_rY)
 [【震撼】智商 200 也無法解答，宇宙最大的謎團，時間 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=6SkbNlWMG5w)
 [《相對論》究竟在説什麽，其實一切都是相對的 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=B-I2guiXzRA)
-
-[Spacetime Globe | ALEX on Science](https://alexonscience.com/projects/spacetimeglobe/)
+[光速到底是怎么回事，光速不变会推出什么奇怪的结论？ - YouTube](https://www.youtube.com/watch?v=Xp3dQryAmaU)
 
 雅桑了嗎
 [8 分鐘讀懂狹義相對論！時間變慢、長度變短、質量變重、E=mc² 一次性全搞明白 | 雅桑了嗎 - YouTube](https://www.youtube.com/watch?v=wspDAnUrHTA)
@@ -271,15 +284,6 @@ Weak force has handiness
 [思维“改造”！反“直觉”的科学宇宙观！ - YouTube](https://www.youtube.com/watch?v=tsH2ML3en6g)
 [“时间之谜”！如何正确的理解“光速不变”！ - YouTube](https://www.youtube.com/watch?v=SYzxG9cg5EA)
 [【4K】莫比乌斯之瞳！几何视角的宇宙是怎样的？ - YouTube](https://www.youtube.com/watch?v=r_wu1rSzO3k)
-
-[What is Relativity? | Live Science](https://www.livescience.com/32216-what-is-relativity.html)
-[10 Ways You See Einstein’s Theory of Relativity in Real Life](https://interestingengineering.com/10-ways-can-see-einsteins-theory-relativity-real-life-keyword-theory-relativity)
-[HyperPhysics Concepts](http://hyperphysics.phy-astr.gsu.edu/hbase/Relativ/relcon.html#relcon)
-
-[Einstein's Theory of Special Relativity | Space](https://www.space.com/36273-theory-special-relativity.html)
-[Einstein's Theory of General Relativity: A Simplified Explanation | Space](https://www.space.com/17661-theory-general-relativity.html)
-[General relativity | New Scientist](https://www.newscientist.com/definition/general-relativity/)
-“Space-time tells matter how to move; matter tells space-time how to curve”
 
 [Why doesn't gravity fit into quantum theory? - Physics Stack Exchange](https://physics.stackexchange.com/questions/238010/why-doesnt-gravity-fit-into-quantum-theory)
 [Quantum Gravity | The Search For a Theory of Everything | 3by3 - YouTube](https://www.youtube.com/watch?v=d-86tNCSJsg)

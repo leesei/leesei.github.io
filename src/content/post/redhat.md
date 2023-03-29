@@ -30,6 +30,9 @@ Package Management: RPM (`dnf` after 22)
 Rawhide is the Fedora's rolling release
 [Releases/Rawhide - FedoraProject](https://fedoraproject.org/wiki/Releases/Rawhide?rd=Rawhide)
 
+[Nobara Project](https://nobaraproject.org/)
+[I Love Nobara Linux - Goodbye Manjaro and Distro Hopping - YouTube](https://www.youtube.com/watch?v=THKLxThT7Ic)
+
 ## CentOS
 
 ### Firewall

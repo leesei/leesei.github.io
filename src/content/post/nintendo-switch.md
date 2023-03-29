@@ -301,9 +301,9 @@ Vertical Jump
 - ZL (Pound)
 - Jump
 
-[18 Crazy, Incredible Super Mario Odyssey Jumps & Stunts | #MarioMegaJump Compilation](https://www.youtube.com/watch?v=50VhyctqMtM)
-[24 Seriously Crazy Stunts in Super Mario Odyssey | #MarioMegaJump Compilation 2](https://www.youtube.com/watch?v=jeKDvcfiu0M)
-[23 Insane Mario Moves in Super Mario Odyssey | #MarioMegaJump Compilation 3](https://www.youtube.com/watch?v=7ZP7eL8C9ig)
+[18 Crazy, Incredible Super Mario Odyssey Jumps & Stunts | MarioMegaJump Compilation](https://www.youtube.com/watch?v=50VhyctqMtM)
+[24 Seriously Crazy Stunts in Super Mario Odyssey | MarioMegaJump Compilation 2](https://www.youtube.com/watch?v=jeKDvcfiu0M)
+[23 Insane Mario Moves in Super Mario Odyssey | MarioMegaJump Compilation 3](https://www.youtube.com/watch?v=7ZP7eL8C9ig)
 
 [Understanding Mario Odyssey's Multiple Endings - YouTube](https://www.youtube.com/watch?v=0F-4jpu7y7s) 4 ending depending on the number of Power Moons you get
 [Super Mario Odyssey - All Bowser Reactions to Mario's Costumes - YouTube](https://www.youtube.com/watch?v=W9U025H8Tlw)

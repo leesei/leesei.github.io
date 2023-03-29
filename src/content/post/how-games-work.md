@@ -1,12 +1,14 @@
 ---
-title: How Games Works
-description: ""
+title: How Games Work
+description: How games mechanics works, game design and how to make games, apart
+  from rendering
 created: 2015-08-31
+updated: 2023-03-23
 tags:
   - games
 ---
 
-[[computer-graphics]]
+[[computer-graphics-software]]
 
 [The Way Games Work - YouTube](https://www.youtube.com/playlist?list=PLA7C9A06DDA635552) by ClanOfTheGrayWolf
 [How Games Work - YouTube](https://www.youtube.com/playlist?list=PLoJSah60cTP5Hulr9HxLyv-JVXFZycdmw) by TheHappieCat
@@ -14,17 +16,31 @@ tags:
 [Gaming Topics - YouTube - YouTube](https://www.youtube.com/playlist?list=PLJAzFcYKyx4RA6_z6pq3bJlJuENg5kWKV)
 
 [GDC - YouTube](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
+[GDC Vault](https://www.gdcvault.com/)
 [Warbot - YouTube](https://www.youtube.com/channel/UCNOVwMpD-5A1xzcQGbIHNeA)
-[Extra Credits - YouTube](https://www.youtube.com/user/ExtraCreditz)
-[Game Maker's Toolkit - YouTube](https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw)
+[gameranx - YouTube](https://www.youtube.com/@gameranxTV)
 [Gamker 攻壳 - YouTube](https://www.youtube.com/channel/UCLgGLSFMZQB8c0WGcwE49Gw)
 
+[Extra Credits - YouTube](https://www.youtube.com/@extracredits) previously on Extra History channel
+[Extra Credits (ALL EPISODES) - YouTube](https://www.youtube.com/playlist?list=PLB9B0CA00461BB187)
+[Extra Credits: Making Your First Game - YouTube](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5C6QC36h5eApOyXtx98ehGi)
+[Because Games Matter - Tales of Games Improving People's Lives - YouTube](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5CLOH26pszrrzA3O2CEGj2w)
+[Extra Credits: Games and the LawExtra Credits: Games and the Law - YouTube](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5BF-cMaj6gIe-7uD5rZG9ur)
+[Extra Credits: Games in Education - YouTube](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5BIUqSDPmfBuKjTN2QBv9wI)
+[Extra Credits: Games You Might Not Have Tried - YouTube](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5CBRVhUoAvuJ66aSvb8Gd0L)
+[Extra Credits: Game Community - YouTube](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5BpAzGdNmfiwlBxX-Ij4i20)\
+[Extra Credits: Game Design - YouTube](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5BkTruCmaBBZ8z6cP9KzPiX)
+[Extra Credits: Game Careers - YouTube](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5DuIIh7p9FOaR6f-WTTzz_A)
+[Extra Credits: Game Industry - YouTube](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5BjqBfCTq5pgJsSFZShCxSU)
+
+[Game Maker's Toolkit - YouTube](https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw)
 [Game Maker's Toolkit - YouTube](https://www.youtube.com/user/McBacon1337)
 [Tech Toolbox for Game Programmers - YouTube](https://www.youtube.com/watch?v=W_okgL6HJX8)
+[The 2018 Game Developer Roadmap – codeburst](https://codeburst.io/the-2018-game-developer-roadmap-e07e45b3c423)
 
 [Game Development Tutorials](http://www.lessmilk.com/)
 [GameFromScratch.com – Game Development News, Tutorials and More](https://gamefromscratch.com/)
-[The 2018 Game Developer Roadmap – codeburst](https://codeburst.io/the-2018-game-developer-roadmap-e07e45b3c423)
+[BorisTheBrave.Com](https://www.boristhebrave.com/)
 
 [Game Dev News, Tutorials & Interviews - The GameAnalytics Blog](https://gameanalytics.com/blog)
 [The road to video game hell • Eurogamer.net](https://www.eurogamer.net/articles/2018-07-23-the-road-to-video-game-hell)
@@ -35,6 +51,19 @@ tags:
 [Game Programming Tutorials - YouTube](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmqFs83T4W-FZQ9kK983tZC) freeCodeCamp.org
 [Table Flip Games - YouTube](https://www.youtube.com/channel/UCjG7y5Iw4TLHcK6ckuqUj_A)
 [Retro Game Mechanics Explained - YouTube](https://www.youtube.com/channel/UCwRqWnW5ZkVaP_lZF7caZ-g)
+
+## Rendering
+
+[How Rendering Graphics Works in Games! - YouTube](https://www.youtube.com/watch?v=cvcAjgMUPUA)
+
+[How The Wind Waker Redefined Cel Shading - YouTube](https://www.youtube.com/watch?v=mnxs6CR6Zrk)
+[Why Did Link's Cel Shading Disappear? - YouTube](https://www.youtube.com/watch?v=By7qcgaqGI4)
+
+Deferred Lighting/Deferred Shading
+
+1. unlit rendering pass
+   outputs 2D image and normal buffer/normal map (left/right, up/down, front/back normals encoded in each of RGB channels)
+2. lighting pass
 
 ## Game Design
 
@@ -75,12 +104,6 @@ tags:
 [How To Make Your Game Just Completely Hilarious: The Stanley Parable - YouTube](https://www.youtube.com/watch?v=pLbmZT70rtA)
 [別玩這款遊戲! 你可能會被「控制」好幾年！〖遊戲不止〗 - YouTube](https://www.youtube.com/watch?v=2dLMTHX19U4)
 
-## Free to Play
-
-[Let’s go whaling: Tricks for monetising mobile game players with free-to-play - YouTube](https://www.youtube.com/watch?v=xNjI03CGkb4)
-[The Tech Industry’s War on Kids - Richard Freed - Medium](https://medium.com/@richardnfreed/the-tech-industrys-psychological-war-on-kids-c452870464ce)
-[5 Psychological Tricks in Free-To-Play Games (and How to Avoid Them)](https://www.howtogeek.com/765113/5-psychological-tricks-in-free-to-play-games-and-how-to-avoid-them/)
-
 ## Game Animation
 
 [New Frame Plus - YouTube](https://www.youtube.com/channel/UCxO_ya-RmAXCXJCU54AxYFw)
@@ -100,120 +123,23 @@ tags:
 [What Happened with Mass Effect Andromeda’s Animation? - YouTube](https://www.youtube.com/watch?v=NmLPpcVQFJM)
 [How to Direct a Dialogue Scene - YouTube](https://www.youtube.com/watch?v=hQ3YNy1Sgh8)
 
+## Procedural Generation
+
+[[learn-to-code#Perlin noise]]
+
+[how are massive game environments made? - YouTube](https://www.youtube.com/watch?v=cAr7aj_MPMc)
+
+[A new way to generate worlds - YouTube](https://www.youtube.com/watch?v=dFYMOzoSDNE)
+wave function collapse for specifics, Perlin noise for the category
+
+[Procedural Terrain Generation - YouTube](https://www.youtube.com/playlist?list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3)
+
 ## Consoles
 
 [Super NES Features - YouTube](https://www.youtube.com/playlist?list=PLHQ0utQyFw5KCcj1ljIhExH_lvGwfn6GV)
 [Game Console Operating Systems | This Does Not Compute Podcast #37 - YouTube](https://www.youtube.com/watch?v=fTVyx4AO18U)
 
 ["Game Development in Eight Bits" by Kevin Zurawel - YouTube](https://www.youtube.com/watch?v=TPbroUDHG0s)
-
-## Digital Right Management
-
-[Dungeon Master - Clever Floppy Disk Anti-Piracy | MVG - YouTube](https://www.youtube.com/watch?v=VheNpiSZxf0)
-[Spyro Had One of the Coolest Anti-Piracy Measures Ever | Tech Rules - YouTube](https://www.youtube.com/watch?v=4GYSeXLr5sY)
-[10 Super Anti-Piracy Measures & Traps in Video Games! - YouTube](https://www.youtube.com/watch?v=DWaxMZxiHWo)
-
-[How Capcom's clever CPS2 Arcade Game Copy Protection stopped bootleg games | MVG - YouTube](https://www.youtube.com/watch?v=vCtXZM8iG-o)
-
-[Clever Anti Piracy on the Super Nintendo | MVG - YouTube](https://www.youtube.com/watch?v=KLyK1FMwc8Q)
-[Super Nintendo Games with Anti-Piracy - Part 2 | MVG - YouTube](https://www.youtube.com/watch?v=4TGQZ-kbnDk)
-
-[How the Sony Playstation Portable PSP Security was defeated | MVG - YouTube](https://www.youtube.com/watch?v=qIxKPu20R58)
-[How a Terrible Game Cracked the 3DS's Security - Early Days of 3DS Hacking - YouTube](https://www.youtube.com/watch?v=ImR-TdDAIJE)
-
-[How the Nintendo GameCube Security was defeated | MVG - YouTube](https://www.youtube.com/watch?v=Uxjl_kD3imQ)
-
-[Sony's Clever but Flawed PlayStation Copy Protection--And How They Might Have Fixed It - YouTube](https://www.youtube.com/watch?v=XUwSOfQ1D3c)
-[How the Sony Playstation 2 Security Was Defeated | MVG - YouTube](https://www.youtube.com/watch?v=VGMR6FHey68)
-[The Sony Playstation 3 - The "Unhackable" Console | MVG - YouTube](https://www.youtube.com/watch?v=siOXFGZj_z0)
-
-[How the Xbox 360 Hypervisor Security was Defeated | MVG - YouTube](https://www.youtube.com/watch?v=Vq1lxeg_gNs)
-
-## The 8-bit Guy
-
-[How "oldschool" graphics worked Part 1 - Commodore and Nintendo - YouTube](https://www.youtube.com/watch?v=Tfh0ytz8S0k)
-[How "oldschool" graphics work, part 2 - Apple and Atari - YouTube](https://www.youtube.com/watch?v=_rsycfDliZU)
-Color cells: segmenting the whole screen into smaller cells (say 8x8), each cells can render two colors.
-Sprite: image rendered on separate layer
-
-[CGA Graphics - Not as bad as you thought! - YouTube](https://www.youtube.com/watch?v=niKblgZupOc) composite and RGBI mode of the CGA era
-[How Oldschool Sound/Music worked - YouTube](https://www.youtube.com/watch?v=q_3d1x2VPxk)
-
-## Scaling
-
-[Pixel Art Scaling Comparison Part I | Unindented](https://unindented.org/articles/pixel-art-scaling-comparison-part-1/)
-[Pixel Art Scaling Comparison Part II | Unindented](https://unindented.org/articles/pixel-art-scaling-comparison-part-2/)
-
-## Frame-rate and Fluency
-
-[帧数和流畅的那些事（上） - YouTube](https://www.youtube.com/watch?v=O5w9odp3n48)
-
-- motion blur
-- input feedback
-- stable frame time
-
-[Frame Rates - YouTube](https://www.youtube.com/watch?v=Rjdmi7628GM)
-[帧数与硬件的谍战：揭秘显卡掉帧陷阱！——帧数与流畅度 2【GAMKER】 - YouTube](https://www.youtube.com/watch?v=5mwMLSLcq1Q) !important game setting
-[超高幀數真能帶來優勢嗎？幀數超過刷新率是浪費嗎？【Gamker 攻殼】 - YouTube](https://www.youtube.com/watch?v=eUBZfpN2bG8)
-[【极客周刊】玩游戏为何要 60 帧才流畅，电影却只需 24 帧？ - YouTube](https://www.youtube.com/watch?v=--OKrYxOb6Y)
-[为什么 24 帧的电影很顺畅，30 帧的游戏没法儿玩？24 FPS Movie and 30 FPS Game【柴知道 ChaiKnows】【科普 Science】【冷知识 Trivia】 - YouTube](https://www.youtube.com/watch?v=5hKhEX7vODU)
-[【聊電 Jing】什麼是 1% & 0.1% Lows 為何它比平均 FPS 還要更重要? - YouTube](https://www.youtube.com/watch?v=hR4zl3RKWH8)
-[手机插帧芯片 MEMC 有意义吗？「硬核显示技术第五期」详解一加 8Pro 的 MEMC 插帧补偿技术 - YouTube](https://www.youtube.com/watch?v=5hBy7VHC3Q4)
-
-[Topaz Labs: AI Image Quality Software](https://www.topazlabs.com/)
-[The ultimate guide to 60 fps frame rate conversion in 2022](https://www.topazlabs.com/learn/the-ultimate-guide-to-60-fps-frame-rate-conversion-in-2021)
-
-[The CHEAPEST 144Hz Gaming Monitors on Amazon! - YouTube](https://www.youtube.com/watch?v=76KPzzMccjM)
-[Does High FPS make you a better gamer? Ft. Shroud - FINAL ANSWER - YouTube](https://www.youtube.com/watch?v=OX31kZbAXsA)
-[Does 240Hz Matter for Gaming ft. Gav from Slow Mo Guys - YouTube](https://www.youtube.com/watch?v=tV8P6T5tTYs)
-[What's the Resolution and Refresh Rate of Your Eyes? - YouTube](https://www.youtube.com/watch?v=e_CbbAbf7gE)
-[PC Setup Customization: Refresh Rate - YouTube](https://www.youtube.com/watch?v=ruw36VMtAPQ)
-[【硬件科普】显示器的 1ms 响应时间其实是个骗局？详解显示器灰阶响应时间 - YouTube](https://www.youtube.com/watch?v=0OjXIJ5bsLc)
-[【硬件科普】拼多多第三方买的 144Hz 屏幕居然是假的？如何判断刷屏幕新率的真假？ - YouTube](https://www.youtube.com/watch?v=-VoGiddwFXw)
-
-Latency and Display Analysis Tool (LDAT)
-[NVIDIA Reviewer Toolkit for Graphics Performance](https://www.nvidia.com/en-us/geforce/news/nvidia-reviewer-toolkit/)
-[Automated System Latency Test Methodology (NVIDIA Latency Analyzer Validation) - YouTube](https://www.youtube.com/watch?v=0SZ7ZCac38A)
-[Which game settings cause the most lag? - Nvidia Reflex Latency Analyzer - YouTube](https://www.youtube.com/watch?v=aL5YTWRpzoA)
-[Introducing NVIDIA Reflex: Optimize and Measure Latency in Competitive Games | GeForce News | NVIDIA](https://www.nvidia.com/en-us/geforce/news/reflex-low-latency-platform/)
-
-[OSRTT User Guide & Explainer – Open Source Response Time Tool | TechteamGB](https://techteamgb.co.uk/2022/01/14/osrtt-user-guide-explainer-open-source-response-time-tool/?utm_source=rss&utm_medium=rss&utm_campaign=osrtt-user-guide-explainer-open-source-response-time-tool)
-[OSRTT User Guide & Explainer - Open Source Response Time Tool - YouTube](https://www.youtube.com/watch?v=pZjya0h7pgQ)
-
-[Game timers: Issues and solutions of variable framerate](http://fabiensanglard.net/timer_and_framerate/index.php)
-[Tested: Graphics settings and how they affect performance - YouTube](https://www.youtube.com/watch?v=DW2m14vzFM8)
-
-- Shadow, High+
-- AA, SMAA, High+
-- Occlusion, SSAO (HBAO, VXAO too demanding)
-- Tessellation, Mid+
-- Anisotropic Filtering, 16X or Max, works with texture quality
-
-nVidia Settings
-
-- Power management mode: Prefer maximum performance
-- Texture filtering - Quality: High performance
-
-### Frame Rate Monitoring
-
-[How to See Your Frames Per Second (FPS) in Games | PCMag](https://www.pcmag.com/how-to/how-to-see-your-frames-per-second-fps-in-games)
-MSI Afterburner w/ RivaTuner Statistics Server
-
-[MangoHud · frostworx/steamtinkerlaunch Wiki](https://github.com/frostworx/steamtinkerlaunch/wiki/MangoHud) RivaTuner
-[GOverlay](https://www.goverlay.com/)
-
-[MSI Afterburner Overlay Customization Guide | Gaming PC Builder](https://www.gamingpcbuilder.com/msi-afterburner-overlay-customization-guide/)
-
-To backup OSD settings:
-
-- `.\Profiles` overclocking settings
-- `.\Bundle\OSDServer\Profiles` OSD settings
-
-[DevTechProfile/CapFrameX: Frametime capture and analysis tool](https://github.com/DevTechProfile/CapFrameX)
-
-[OCAT - GPUOpen](https://gpuopen.com/ocat/)
-
-[CPU and GPU Bottleneck: A Detailed Guide to Bottlenecking in 2019](https://www.wepc.com/tips/cpu-gpu-bottleneck/)
 
 ## Physics
 
@@ -253,7 +179,8 @@ To backup OSD settings:
 [How Does VIDEO GAME AI Work? - YouTube](https://www.youtube.com/watch?v=cIfowwJj_GA)
 Most "AI" in games are actually "Dynamic Game Difficult Balancing"
 
-[How "Smart" AI (Basically) Works in Games (Goal Oriented Action Planning) - YouTube](https://www.youtube.com/watch?v=nEnNtiumgII)
+[How "Smart" AI (Basically) Works in Games (Goal Oriented Action Planning) - YouTube](https://www.youtube.com/watch?v=nEnNtiumgII) 2016
+[Goal-Oriented Action Planning: Ten Years of AI Programming - YouTube](https://www.youtube.com/watch?v=gm7K68663rA) 2017
 [Combat AI for Action-Adventure Games Tutorial [Unity/C#] [GOAP] - YouTube](https://www.youtube.com/watch?v=n6vn7d5R_2c)
 
 ## Balancing
@@ -283,3 +210,31 @@ A perfectly balanced game is not fun to play as the player have to level up them
 
 - [chriscourses/pokemon-style-game](https://github.com/chriscourses/pokemon-style-game)
 - Tiled map editor
+
+## Free to Play
+
+[Let’s go whaling: Tricks for monetising mobile game players with free-to-play - YouTube](https://www.youtube.com/watch?v=xNjI03CGkb4)
+[The Tech Industry’s War on Kids - Richard Freed - Medium](https://medium.com/@richardnfreed/the-tech-industrys-psychological-war-on-kids-c452870464ce)
+[5 Psychological Tricks in Free-To-Play Games (and How to Avoid Them)](https://www.howtogeek.com/765113/5-psychological-tricks-in-free-to-play-games-and-how-to-avoid-them/)
+
+## Digital Right Management
+
+[Dungeon Master - Clever Floppy Disk Anti-Piracy | MVG - YouTube](https://www.youtube.com/watch?v=VheNpiSZxf0)
+[Spyro Had One of the Coolest Anti-Piracy Measures Ever | Tech Rules - YouTube](https://www.youtube.com/watch?v=4GYSeXLr5sY)
+[10 Super Anti-Piracy Measures & Traps in Video Games! - YouTube](https://www.youtube.com/watch?v=DWaxMZxiHWo)
+
+[How Capcom's clever CPS2 Arcade Game Copy Protection stopped bootleg games | MVG - YouTube](https://www.youtube.com/watch?v=vCtXZM8iG-o)
+
+[Clever Anti Piracy on the Super Nintendo | MVG - YouTube](https://www.youtube.com/watch?v=KLyK1FMwc8Q)
+[Super Nintendo Games with Anti-Piracy - Part 2 | MVG - YouTube](https://www.youtube.com/watch?v=4TGQZ-kbnDk)
+
+[How the Sony Playstation Portable PSP Security was defeated | MVG - YouTube](https://www.youtube.com/watch?v=qIxKPu20R58)
+[How a Terrible Game Cracked the 3DS's Security - Early Days of 3DS Hacking - YouTube](https://www.youtube.com/watch?v=ImR-TdDAIJE)
+
+[How the Nintendo GameCube Security was defeated | MVG - YouTube](https://www.youtube.com/watch?v=Uxjl_kD3imQ)
+
+[Sony's Clever but Flawed PlayStation Copy Protection--And How They Might Have Fixed It - YouTube](https://www.youtube.com/watch?v=XUwSOfQ1D3c)
+[How the Sony Playstation 2 Security Was Defeated | MVG - YouTube](https://www.youtube.com/watch?v=VGMR6FHey68)
+[The Sony Playstation 3 - The "Unhackable" Console | MVG - YouTube](https://www.youtube.com/watch?v=siOXFGZj_z0)
+
+[How the Xbox 360 Hypervisor Security was Defeated | MVG - YouTube](https://www.youtube.com/watch?v=Vq1lxeg_gNs)

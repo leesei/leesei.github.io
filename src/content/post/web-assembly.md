@@ -2,21 +2,20 @@
 title: Web Assembly
 description: ""
 created: 2017-06-19
+updated: 2023-03-28
 tags:
   - web
+  - wasm
 ---
 
 [WebAssembly](http://webassembly.org/)
-[Bytecode Alliance](https://bytecodealliance.org/)
-
-[WebAssembly 中文网|Wasm 中文文档](https://www.wasm.com.cn/)
 [WebAssembly - Wikiwand](https://www.wikiwand.com/en/WebAssembly)
-[WebAssembly-design · GitHub](https://github.com/WebAssembly/design)
-[Announcing the Bytecode Alliance: Building a secure by default, composable future for WebAssembly - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2019/11/announcing-the-bytecode-alliance/)
 
-[The State of WebAssembly 2021](https://blog.scottlogic.com/2021/06/21/state-of-wasm.html)
-[The State of WebAssembly - 2020 and 2021](https://platform.uno/blog/the-state-of-webassembly-2020-and-2021/)
-[The State of WebAssembly – 2021 and 2022](https://platform.uno/blog/the-state-of-webassembly-2021-and-2022/)
+[Bytecode Alliance](https://bytecodealliance.org/)
+[WebAssembly 中文网|Wasm 中文文档](https://www.wasm.com.cn/)
+[WebAssembly-design · GitHub](https://github.com/WebAssembly/design)
+
+[The State of WebAssembly – 2022 and 2023](https://platform.uno/blog/the-state-of-webassembly-2022-and-2023/)
 
 [WebAssembly Core Specification](https://www.w3.org/TR/wasm-core-1/)
 [WebAssembly feature detection](https://web.dev/webassembly-feature-detection/)
@@ -34,8 +33,9 @@ Playgrounds:
 [Compiler Explorer](https://rust.godbolt.org/z/PZqG56)
 
 [mbasso/awesome-wasm: 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.](https://github.com/mbasso/awesome-wasm)
-[appcypher/awesome-wasm-langs: 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly](https://github.com/appcypher/awesome-wasm-langs)
+[WebAssembly Language Support Matrix | Fermyon • Experience the next wave of cloud computing.](https://www.fermyon.com/wasm-languages/webassembly-language-support) !important
 
+[How to Think About WebAssembly (Amid the Hype) | Fermyon • Experience the next wave of cloud computing.](https://www.fermyon.com/blog/how-to-think-about-wasm)
 [Four go wild for wasm: Corporate quartet come together to build safe WebAssembly sandbox • The Register](https://www.theregister.co.uk/AMP/2019/11/13/webassembly_buildup_group/)
 [bytecodealliance/wasm-micro-runtime: WebAssembly Micro Runtime (WAMR)](https://github.com/bytecodealliance/wasm-micro-runtime)
 
@@ -79,17 +79,12 @@ Playgrounds:
 [WebAssembly and the Death of JavaScript - JS Monthly - February 2018 - YouTube](https://www.youtube.com/watch?v=pBYqen3B2gc)
 [WebAssembly: Disrupting JavaScript - YouTube](https://www.youtube.com/watch?v=7mBf3Gig9io)
 
-[The Web is getting its bytecode: WebAssembly | Ars Technica](http://arstechnica.com/information-technology/2015/06/the-web-is-getting-its-bytecode-webassembly/)
-
 [WebAssembly -Part I | An Introduction — (Part 1) – tech-lah – Medium](https://medium.com/tech-lah/webassembly-part-i-an-introduction-part-1-205f207d56e9)
 [WebAssembly -Part II.A | Wasm with Rust – tech-lah – Medium](https://medium.com/tech-lah/webassembly-part-ii-a-wasm-with-rust-2356dbc6526e)
 [WebAssembly -Part II.b | Golang with WASM – tech-lah – Medium](https://medium.com/tech-lah/webassembly-part-ii-b-golang-with-wasm-8b3c690221b4)
 
 [The anatomy of WebAssembly: Writing your first WebAssembly module using C (C++) | by Uday Hiwarale | JsPoint | Medium](https://medium.com/jspoint/the-anatomy-of-webassembly-writing-your-first-webassembly-module-using-c-c-d9ee18f7ac9b)
 [Programming using Web Assembly – Alexander Curtis – Medium](https://medium.com/@alexc73/programming-using-web-assembly-c4c73a4e09a9)
-
-[inline-webassembly - npm](https://www.npmjs.com/package/inline-webassembly)
-[WebAssembly is easy — a hello world example - DEV Community 👩‍💻👨‍💻](https://dev.to/dorin/webassembly-is-easy-a-hello-world-example-3dbb)
 
 [JS Party #32: WASM is AWSM with Kevin Ball, Suz Hinton, and Jay Phelps | News and podcasts for developers | Changelog](https://changelog.com/jsparty/32)
 [Zoom on Web: WebAssembly SIMD, WebTransport, and WebCodecs](https://www.infoq.com/news/2020/08/zoom-web-chrome-apis/)
@@ -146,6 +141,14 @@ Playgrounds:
 [appcypher/awesome-wasm-langs: 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly](https://github.com/appcypher/awesome-wasm-langs)
 [WebAssembly Language Support Matrix | Fermyon Technologies (@FermyonTech)](https://www.fermyon.com/wasm-languages/webassembly-language-support)
 
+[Wasmer - The Universal WebAssembly Runtime](https://wasmer.io/) compiling multiple languages to WASM, WAT and to native binary
+[wasmerio/wasmer-js: Monorepo for Javascript WebAssembly packages by Wasmer](https://github.com/wasmerio/wasmer-js)
+[WebAssembly.sh](https://webassembly.sh/)
+[Announcing WebAssembly.sh - Wasmer - Medium](https://medium.com/wasmer/webassembly-sh-408b010c14db)
+[WebAssembly Runtime 開源專案 Wasmer 3.0 簡化 WAPM 套件安裝與使用 | iThome](https://www.ithome.com.tw/news/154415)
+
+[Compile WebAssembly on Linux to native Windows using Wasmer & Zig - YouTube](https://www.youtube.com/watch?v=VbYy2gqjnJI)
+
 ## Motoko
 
 [Motoko Programming Language :: Internet Computer](https://sdk.dfinity.org/docs/language-guide/motoko.html)
@@ -155,6 +158,9 @@ Playgrounds:
 [dfinity/motoko-base: The Motoko base library](https://github.com/dfinity/motoko-base)
 
 ## Grain
+
+[Grain: A strongly-typed functional programming language for the modern web.](https://grain-lang.org/)
+[grain-lang/grain: The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾](https://github.com/grain-lang/grain)
 
 [Oscar Spencer — Grain: Your WebAssembly-First Programming Language - YouTube](https://www.youtube.com/watch?v=O8tyml3xBMM)
 [Grain: Your WebAssembly-First Programming Language - WebAssembly Summit 2021](https://www.infoq.com/news/2021/05/grain-web-assembly-first/)
@@ -334,99 +340,14 @@ cp target/wasm32-wasi/release/*wasm .
 [Wrapping JavaScript libraries in Blazor WebAssembly/WASM](https://blog.elmah.io/wrapping-javascript-libraries-in-blazor-webassembly-wasm/amp/)
 [Blazor WebAsm — C# on the client side (again) | by Jacek Chmiel | Avenga | Medium](https://medium.com/avenga/blazor-webasm-c-on-the-client-side-again-1ced1c79500a)
 
+## Zig
+
+[Using Zig to Build Lua for WebAssembly in the Browser - YouTube](https://www.youtube.com/watch?v=DtZBac-IUBQ)
+[Programming WebAssembly with Zig - Getting Started with the ZIG programming language - YouTube](https://www.youtube.com/watch?v=R2GW197izwQ)
+
 ## Chasm
 
 A compile to WASM language
 
 [https://colineberhardt.github.io/chasm/](https://colineberhardt.github.io/chasm/)
 [Build your own WebAssembly Compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
-
-## Runtime
-
-[Welcome - Atmo](https://atmo.suborbital.dev/)
-
-### WASI
-
-[WASI](https://wasi.dev/) can also replace the Emscripten driven runtime in browser
-sandboxing idea similar to Deno
-
-[Deis Labs](https://deislabs.io/posts/wagi-updates/)
-[WebAssembly runtimes compared - LogRocket Blog](https://blog.logrocket.com/webassembly-runtimes-compared/)
-
-[Alfonso de la Rocha: @adlrocha - Playing with Wasmtime and Web Assembly's linear memory](https://adlrocha.substack.com/p/adlrocha-playing-with-wasmtime-and)
-
-[Wasmtime — a small and efficient runtime for WebAssembly & WASI](https://wasmtime.dev/)
-[Introduction - Wasmtime](https://docs.wasmtime.dev/introduction.html)
-[bytecodealliance/wasmtime: Standalone JIT-style runtime for WebAssembly, using Cranelift](https://github.com/bytecodealliance/wasmtime)
-stand-alone WebAssembly runtime that can be used as a CLI tool or embedded into other systems. It's very configurable and scalable so that it can serve as the base for many use-case specific runtimes, from small IoT devices all the way up to cloud data centers.
-
-[bytecodealliance/lucet: Lucet, the Sandboxing WebAssembly Compiler.](https://github.com/bytecodealliance/lucet)
-[Announcing Lucet: Fastly’s native WebAssembly compiler and runtime | Fastly](https://www.fastly.com/blog/announcing-lucet-fastly-native-webassembly-compiler-runtime)
-[How Lucet and Wasmtime make a stronger compiler, together | Fastly](https://www.fastly.com/blog/how-lucet-wasmtime-make-stronger-compiler-together)
-a use-case specific runtime. It's ideal for fast CDNs and Edge Compute, using AOT compilation and other techniques to provide low-latency and high-concurrency. We are refactoring it to use Wasmtime at its core.
-
-[bytecodealliance/wasm-micro-runtime: WebAssembly Micro Runtime (WAMR)](https://github.com/bytecodealliance/wasm-micro-runtime)
-another use-case specific runtime. It's ideal for small embedded devices that have extremely limited resources. It provides a small footprint and uses an interpreter to keep memory overhead low.
-
-[as-wasi - npm](https://www.npmjs.com/package/as-wasi) WASI runtime for AssemblyScript
-
-[wasm3/wasm3: 🚀 The fastest WebAssembly interpreter, and the most universal runtime](https://github.com/wasm3/wasm3)
-
-[wapm | WebAssembly Package Manager](https://wapm.io/)
-[bytecodealliance/wizer: The WebAssembly Pre-Initializer](https://github.com/bytecodealliance/wizer)
-
-[Wasmer - The Universal WebAssembly Runtime](https://wasmer.io/)
-[wasmerio/wasmer-js: Monorepo for Javascript WebAssembly packages by Wasmer](https://github.com/wasmerio/wasmer-js)
-[WebAssembly.sh](https://webassembly.sh/)
-[Announcing WebAssembly.sh - Wasmer - Medium](https://medium.com/wasmer/webassembly-sh-408b010c14db)
-[WebAssembly Runtime 開源專案 Wasmer 3.0 簡化 WAPM 套件安裝與使用 | iThome](https://www.ithome.com.tw/news/154415)
-
-[WASM to WASI - DEV Community 👩‍💻👨‍💻](https://dev.to/jeikabu/wasm-to-wasi-5866)
-[Running WASI in the Browser and Node.js with Wasmer-JS](https://www.infoq.com/news/2019/10/wasmer-js-wasi-wasm-browser/)
-
-[Standardizing WASI: A system interface to run WebAssembly outside the web - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
-[Bringing WebAssembly outside the web with WASI by Lin Clark - YouTube](https://www.youtube.com/watch?v=fh9WXPu0hw8)
-[WebAssembly Reference Types Implemented in wasmtime, Lets Wasm Modules Handle Complex Types](https://www.infoq.com/news/2020/09/wasm-reference-types-wasmtime/)
-[WASM Components: The Interchangeable Parts of Software - YouTube](https://www.youtube.com/watch?v=ZxEqvtGUGLY)
-
-### WasmEdge
-
-[WasmEdge Runtime](https://wasmedge.org/)
-[WasmEdge/WasmEdge: WasmEdge Runtime is a high-performance, extensible, and hardware optimized WebAssembly Virtual Machine for automotive, cloud, AI, and blockchain applications.](https://github.com/WasmEdge/WasmEdge)
-
-### Docker
-
-[Introducing the Docker+Wasm Technical Preview](https://www.docker.com/blog/docker-wasm-technical-preview/)
-[Build, Share, and Run WebAssembly Apps Using Docker](https://www.docker.com/blog/build-share-run-webassembly-apps-docker/)
-[Docker+Wasm (Beta) | Docker Documentation](https://docs.docker.com/desktop/wasm/)
-
-### Rust
-
-[wasmi - Rust](https://paritytech.github.io/wasmi/wasmi/index.html)
-[paritytech/wasmi: Wasm interpreter in Rust](https://github.com/paritytech/wasmi)
-
----
-
-# Deprecated Techs
-
-## SIMD
-
-[Introducing SIMD.js ✩ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2014/10/introducing-simd-js/)
-[The state of SIMD.js performance in Firefox | JavaScript](https://blog.mozilla.org/javascript/2015/03/10/state-of-simd-js-performance-in-firefox/)
-[HTML5DevConf Peter Jensen, Intel: SIMD Programming in JavaScript - YouTube](https://www.youtube.com/watch?v=CbMXkbqQBcQ)
-
-[tc39/ecmascript_simd: SIMD numeric type for EcmaScript](https://github.com/tc39/ecmascript_simd)
-
-## asm.js
-
-> not standardized, obsoleted by WebAssembly
-
-[asm.js](http://asmjs.org/)
-[asm.js - Wikiwand](https://www.wikiwand.com/en/Asm.js)
-
-[asm.js: A Low Level, Highly Optimizable Subset of JavaScript for Compilers | Badass JavaScript](http://badassjs.com/post/43420901994/asm-js-a-low-level-highly-optimizable-subset-of)
-[asm.js: closing the gap between JavaScript and native](http://www.2ality.com/2013/02/asm-js.html)
-[John Resig - Asm.js: The JavaScript Compile Target](http://ejohn.org/blog/asmjs-javascript-compile-target/)
-[Massive: The asm.js Benchmark ✩ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2014/11/massive-the-asm-js-benchmark/)
-[Brendan Eich » Blog Archive » From ASM.JS to WebAssembly](https://brendaneich.com/2015/06/from-asm-js-to-webassembly/)
-[Figma is powered by WebAssembly](https://www.figma.com/blog/webassembly-cut-figmas-load-time-by-3x/)

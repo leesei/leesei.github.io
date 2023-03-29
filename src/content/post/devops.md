@@ -4,7 +4,7 @@ description: ""
 created: 2016-02-17
 tags:
   - devops
-  - web-deploy
+  - dev/deploy
 ---
 
 [DevOps - Wikiwand](http://www.wikiwand.com/en/DevOps)
@@ -123,7 +123,7 @@ Reddit:
 [Autopilot Pattern Applications](http://autopilotpattern.io/)
 
 [Welcome to WALKOFF’s documentation! — WALKOFF 1.0 documentation](https://walkoff.readthedocs.io/en/latest/)
-[nsacyber/WALKOFF: A flexible, easy to use, automation framework allowing users to integrate their capabilities and devices to cut through the repetitive, tedious tasks slowing them down. #nsacyber](https://github.com/nsacyber/WALKOFF)
+[nsacyber/WALKOFF: A flexible, easy to use, automation framework allowing users to integrate their capabilities and devices to cut through the repetitive, tedious tasks slowing them down.](https://github.com/nsacyber/WALKOFF)
 
 [Automating Infrastructure at HashiCorp with Mitchell Hashimoto - Software Engineering Daily](http://softwareengineeringdaily.com/2016/04/05/automating-infrastructure-hashicorp/)
 Deployment:
@@ -502,6 +502,8 @@ Check every X minutes, recheck every Y minutes up to N times before generating a
 [Top 51 Log Management Tools for Monitoring, Analytics and more](https://stackify.com/best-log-management-tools/)
 [Metrics For Your Web Application's Dashboards](https://sirupsen.com/metrics)
 
+[highlight.io: The open source monitoring platform.](https://www.highlight.io/) tRPC friendly
+
 [giampaolo/psutil: A cross-platform process and system utilities module for Python](https://github.com/giampaolo/psutil)
 [jnweiger/showspeed: print I/O activity of process, files, or network.](https://github.com/jnweiger/showspeed)
 [raboof/nethogs: Linux 'net top' tool](https://github.com/raboof/nethogs)
@@ -635,6 +637,7 @@ Graphite is a dashboard for single metric time series. It acts as the "sink" of 
 [Prometheus - Monitoring system & time series database](https://prometheus.io/)
 [Prometheus](https://github.com/prometheus)
 [Rancher Labs | Docker Monitoring Continued: Prometheus and Sysdig | Rancher Labs](http://rancher.com/docker-monitoring-continued-prometheus-and-sysdig/)
+[Prometheus: The Documentary - YouTube](https://www.youtube.com/watch?v=rT4fJNbfe14)
 
 [PromCat: Resource Catalog, Enterprise Prometheus Monitoring](https://sysdig.com/blog/promcat-prometheus-catalog/)
 

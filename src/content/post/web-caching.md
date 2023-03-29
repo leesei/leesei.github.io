@@ -5,7 +5,8 @@ created: 2016-01-26
 tags:
   - cache
   - web
-  - web-deploy
+  - web/deploy
+  - dev/deploy
 ---
 
 [HTTP caching with Nginx and Memcached | OCTO talks !](http://blog.octo.com/en/http-caching-with-nginx-and-memcached/)

@@ -3,7 +3,7 @@ title: Syntax Highlighting
 description: ""
 created: 2015-10-08
 tags:
-  - syntax
+  - syntax-highlight
   - web
   - web-dev
 ---

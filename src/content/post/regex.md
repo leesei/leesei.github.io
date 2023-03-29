@@ -66,8 +66,8 @@ These highlight matches in input test string.
 [Regex Tester - Javascript, PCRE, PHP](http://www.regexpal.com/)
 [RegExp playground](http://leaverou.github.io/regexplained/) (JavaScript)
 [ReFiddle](http://refiddle.com/) (JavaScript, Ruby, .Net)
+[Regex Tester and Debugger Online - Javascript, PCRE, PHP](https://www.regextester.com/)
 [Python Regex Tool](http://www.pythonregex.com/)
-[Rego - A Go regular expression tester](https://regoio.herokuapp.com/)
 [Rubular: a Ruby regular expression editor and tester](http://rubular.com/)
 
 ## #perfmatters

@@ -22,7 +22,7 @@ tags:
 A persistent connection between the client and the server and both parties can start sending data at any time.
 
 [[feathersjs]]
-[[go-notes#Iris]]
+[[go-lang#Iris]]
 
 [websocket.org - Powered by Kaazing](https://www.websocket.org/)
 [HTML5 WebSocket - A Quantum Leap in Scalability for the Web](http://websocket.org/quantum.html)

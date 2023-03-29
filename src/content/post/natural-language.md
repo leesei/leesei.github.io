@@ -1,5 +1,5 @@
 ---
-title: Natural Languages
+title: Natural Language
 description: ""
 created: 2015-04-10
 tags:

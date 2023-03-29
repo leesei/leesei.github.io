@@ -1193,7 +1193,7 @@ Better than DALL-E, also open source
 [Topic: deepfakes](https://github.com/topics/deepfakes)
 [宅男福音 deepfakes 开源了 - AI 前线](https://mp.weixin.qq.com/s/hUcQ1SEZlHp7c-wQ-jlfRg)
 
-[#VoCo. Adobe MAX 2016 (Sneak Peeks) | Adobe Creative Cloud - YouTube](https://www.youtube.com/watch?v=I3l4XLZ59iw)
+[VoCo. Adobe MAX 2016 (Sneak Peeks) | Adobe Creative Cloud - YouTube](https://www.youtube.com/watch?v=I3l4XLZ59iw)
 [VoCo: Text-based Insertion and Replacement in Audio Narration - YouTube](https://www.youtube.com/watch?v=RB7upq8nzIU)
 
 [Episode 67 GAN and Deep Fakes, Part 1 | Malicious Life](https://malicious.life/episode/episode-67/)

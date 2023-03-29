@@ -9,7 +9,7 @@ tags:
   - typescript/runtime
 ---
 
-[[deno-notes]]
+[[deno]]
 [[bun]]
 
 ## REPL

@@ -7,6 +7,7 @@ tags:
   - devops
   - shell-tool
   - web-deploy
+  - dev/deploy
 ---
 
 > rename to `cloud-native`? separate `Containers` from it
@@ -497,7 +498,7 @@ Compared to the Docker Engine, containerd exposes essentially a CRUD interface a
 [A monitoring solution for Docker hosts, containers and containerized services](https://stefanprodan.com/2016/a-monitoring-solution-for-docker-hosts-containers-and-containerized-services/) Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
 [Monitor your applications with Prometheus](https://blog.alexellis.io/prometheus-monitoring/) Prometheus, NodeExporter
 
-[#SwarmWeek: Realtime Cluster Monitoring with Docker Swarm and Riemann | Docker Blog](https://blog.docker.com/2016/03/realtime-cluster-monitoring-docker-swarm-riemann/)
+[SwarmWeek: Realtime Cluster Monitoring with Docker Swarm and Riemann | Docker Blog](https://blog.docker.com/2016/03/realtime-cluster-monitoring-docker-swarm-riemann/)
 [Monitoring Metrics for Docker Containers](https://www.infoq.com/news/2016/07/containermetrics)
 [How Docker changes application monitoring | InfoWorld](http://www.infoworld.com/article/3138035/data-center/how-docker-changes-application-monitoring.html)
 

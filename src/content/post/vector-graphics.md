@@ -13,6 +13,12 @@ Selection Tool
 
 [Deke's Techniques, videos and tutorials from deke.com](https://www.deke.com/techniques)
 
+## Bézier
+
+[The Bézier Game](https://bezier.method.ac/)
+
+[gkurve: simpler vector graphics - Stephen Gutekanst - Software You Can Love 2022 - YouTube](https://www.youtube.com/watch?v=QTybQ-5MlrE) used in [[zig-lang#Mach engine]]
+
 ## Illustrator
 
 [Affinity Designer vs. Adobe Illustrator: can Designer replace Illustrator? - 99designs](https://99designs.hk/blog/design-resources/affinity-designer-vs-adobe-illustrator-review/)

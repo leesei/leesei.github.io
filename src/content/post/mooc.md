@@ -195,6 +195,7 @@ seneca-in-practice
 [Wendover Productions - YouTube](https://www.youtube.com/@Wendoverproductions)
 [Zepherus - YouTube](https://www.youtube.com/channel/UC-x0TtqNsBBQAQzFLnKZHnw)
 [柴知道 ChaiKnows Official Channel - YouTube](https://www.youtube.com/channel/UCQtwvRQWnT5Buh9hpvNNryQ)
+[壹读 iRead - 轻幽默·有情趣 - YouTube](https://www.youtube.com/@feidie1min)
 [林辰 Buchi - YouTube](https://www.youtube.com/@LinBuchi)
 [混乱博物馆 ChaosMuseum - YouTube](https://www.youtube.com/channel/UCsFM7d3CsTEnUgNQl9QO7ZA)
 [瑞森老哥 Reason - YouTube](https://www.youtube.com/channel/UCwQn3kcFaRMNWaiwKokIo7A)

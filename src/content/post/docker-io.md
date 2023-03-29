@@ -1,13 +1,13 @@
 ---
 title: Docker.io
-description: ""
+description: "Tools provided by Docker.io"
 created: 2014-12-11
 tags:
   - container
   - devops
   - docker
   - shell-tool
-  - web-deploy
+  - dev/deploy
 ---
 
 [Mirantis acquires Docker Enterprise – TechCrunch](https://techcrunch.com/2019/11/13/mirantis-acquires-docker-enterprise/amp/)
@@ -115,8 +115,8 @@ Docker [acquired](https://blog.docker.com/2016/03/docker-welcomes-aurora-project
 [Libswarm (in a nutshell) · Container42](http://www.container42.com/2014/07/03/libswarm/)
 [Have Docker, Will Swarm — On Docker — Medium](https://medium.com/on-docker/have-docker-will-swarm-eafae7b58461) setup Swarm in a SINGLE machine
 
-[#SwarmWeek: It’s a Wrap – Thanks Y’all! | Docker Blog](https://blog.docker.com/2016/03/swarm-week-roundup-docker-swarm/)
-[#SwarmWeek – Video Tutorials to Join Your First Docker Swarm Cluster | Docker Blog](https://blog.docker.com/2016/03/swarmweek-join-your-first-swarm/)
+[SwarmWeek: It’s a Wrap – Thanks Y’all! | Docker Blog](https://blog.docker.com/2016/03/swarm-week-roundup-docker-swarm/)
+[SwarmWeek – Video Tutorials to Join Your First Docker Swarm Cluster | Docker Blog](https://blog.docker.com/2016/03/swarmweek-join-your-first-swarm/)
 [Docker Swarm - YouTube](https://www.youtube.com/playlist?list=PLkA60AVN3hh8lmRdhPKzsNJvZxJ8dpj4t)
 [ScaleSwarm: Auto-scaling a swarm cluster - YouTube](https://www.youtube.com/watch?v=fE0qVTGC6MA)
 [Sentient Clusters: Micro-services, Atlassian products, and the Docker Swarm - Nicola Paolucci - YouTube](https://www.youtube.com/watch?v=Pmh5m9eczsE) 30 minutes walk-through

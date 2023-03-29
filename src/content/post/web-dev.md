@@ -908,12 +908,13 @@ Forward?
 
 [The Ultimate Website Code Generator](https://webcode.tools/)
 
-[Hyperplexed - YouTube](https://www.youtube.com/@Hyperplexed) sometimes use libraries
+[Hyperplexed - YouTube](https://www.youtube.com/@Hyperplexed) short videos of implementing cool effects in pure CSS/JS, sometimes use libraries
 
 [CSS Text Hover Effect | Animation When Mouse Cursor on Over Text](https://webdevtrick.com/css-text-hover-effect/)
 [CSS Menu Hover Underline Effect | Line in Bottom Of Text](https://webdevtrick.com/css-menu-hover-underline/)
 [Create a shine effect using only CSS - LogRocket Blog](https://blog.logrocket.com/shine-effect-only-css/)
 [How to Create a CSS-Only Ribbon for Your Website](https://www.freecodecamp.org/news/make-a-css-only-ribbon/)
+[Carousel - That Drove Me Crazy - YouTube](https://www.youtube.com/watch?v=FH4aM6BgAb8)
 
 [Fullscreen slider with HTML, CSS and JavaScript - DEV Community 👩‍💻👨‍💻](https://dev.to/ibrahima92/fullscreen-slider-with-html-css-and-javascript-4odn)
 

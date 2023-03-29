@@ -12,7 +12,7 @@ tags:
   - inotify-tools
   - locate
   - mega
-  - openRTSP
+  - openrtsp
   - pt
   - rsync
   - shell-tool
@@ -73,7 +73,7 @@ tags:
 
 [rmdupes](https://xyne.archlinux.ca/projects/rmdupes/)
 
-[CZ-NIC/pz: Easily handle day to day CLI operation via Python instead of regular Bash programs. 🇺🇦 #supporting](https://github.com/CZ-NIC/pz)
+[CZ-NIC/pz: Easily handle day to day CLI operation via Python instead of regular Bash programs.](https://github.com/CZ-NIC/pz)
 
 [hollywood.computer](https://a.hollywood.computer/)
 
@@ -302,6 +302,10 @@ mv "$(find -inum 123456)" ../some/where/
 Pipe with other tools to provide fuzzy filtering interface
 [Fussy match `load-session` · Issue #59 · jimeh/tmuxifier](https://github.com/jimeh/tmuxifier/issues/59#issuecomment-529772274)
 
+## peco
+
+[peco/peco: Simplistic interactive filtering tool](https://github.com/peco/peco)
+
 ## skim
 
 [lotabout/skim: Fuzzy Finder in rust!](https://github.com/lotabout/skim)
@@ -526,7 +530,6 @@ fortune | cowsay -f stegosaurus
 
 ## JSON manipulation
 
-[JSONSelect](http://jsonselect.org/#overview)
 [json(1) - JSON love for your command line](http://trentm.com/json/)
 [maxogden/jsonmap: CLI JSON mapping/transformation utility](https://github.com/maxogden/jsonmap)
 [FGRibreau/jq.node: jq.node - like jq but WAY MORE powerful](https://github.com/FGRibreau/jq.node)
@@ -536,6 +539,11 @@ fortune | cowsay -f stegosaurus
 [jzelinskie/faq: Format Agnostic jQ](https://github.com/jzelinskie/faq)
 
 [antonmedv/fx: Terminal JSON viewer](https://github.com/antonmedv/fx) viewer and reducer
+
+[simeji/jid: json incremental digger](https://github.com/simeji/jid) interactive filter with autocomplete
+
+[lloyd/JSONSelect: CSS-like selectors for JSON](https://github.com/lloyd/JSONSelect) inactive
+[dtao/gquery: Generic jQuery](https://github.com/dtao/gquery) inactive
 
 ### Python
 
@@ -547,8 +555,9 @@ fortune | cowsay -f stegosaurus
 
 [Welcome to Flupy — flupy 1.0.2 documentation](https://flupy.readthedocs.io/en/latest/)
 
-### [jq](https://stedolan.github.io/jq/)
+### jq
 
+[jq](https://stedolan.github.io/jq/)
 [jq Manual](https://stedolan.github.io/jq/manual/)
 [jqterm: jq as a service](https://jqterm.com/?query=.)
 [jq play](https://jqplay.org/)
@@ -557,7 +566,7 @@ fortune | cowsay -f stegosaurus
 [jiq - JSON Incremental jq-filterer](https://jq.alhur.es/jiq/)
 [fiatjaf/jiq: jid on jq - interactive JSON query tool using jq expressions](https://github.com/fiatjaf/jiq)
 
-[joelpurra/jqnpm: A package manager built for the command-line JSON processor jq.](https://github.com/joelpurra/jqnpm)
+[joelpurra/jqnpm: A package manager built for the command-line JSON processor jq.](https://github.com/joelpurra/jqnpm) inactive
 
 [jq/builtin.jq at master · stedolan/jq](https://github.com/stedolan/jq/blob/master/src/builtin.jq)
 [FAQ · stedolan/jq Wiki](https://github.com/stedolan/jq/wiki/FAQ#numbers)

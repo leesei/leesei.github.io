@@ -1,6 +1,6 @@
 ---
 title: React.js
-description: "React.js state"
+description: React.js state
 created: 2023-03-21
 tags:
   - frontend

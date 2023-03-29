@@ -1,5 +1,5 @@
 ---
-title: zsh settings
+title: Zsh shell
 description: ""
 created: 2014-12-08
 tags:
@@ -10,6 +10,10 @@ tags:
   - zsh
 ---
 
+I've been using Zsh for a several years and customized it with themes and `oh-my-zsh`.
+The makes Zsh a bit sluggish and I found [Starship](https://starship.rs/) to place Spaceship.
+That's when I jumped ship to [[shell-fish]].
+
 [Zsh](http://www.zsh.org/)
 [ZshWiki](http://zshwiki.org/home/)
 [zsh: Table of Contents](http://zsh.sourceforge.net/Doc/Release/zsh_toc.html)
@@ -18,8 +22,8 @@ tags:
 
 [unixorn/awesome-zsh-plugins: A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.](https://github.com/unixorn/awesome-zsh-plugins)
 
-[Home · Spaceship ZSH](https://denysdovhan.com/spaceship-prompt/)
-[denysdovhan/spaceship-prompt: A Zsh prompt for Astronauts](https://github.com/denysdovhan/spaceship-prompt)
+[Minimalistic, powerful and extremely customizable Zsh prompt - Spaceship](https://spaceship-prompt.sh/)
+[spaceship-prompt/spaceship-prompt: Minimalistic, powerful and extremely customizable Zsh prompt](https://github.com/spaceship-prompt/spaceship-prompt)
 
 [Command Line Power User - YouTube](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf) video series by Web Bos
 [Master Your Z Shell with These Outrageously Useful Tips - Blog - Reason I Am Here - Nacho Caballero](http://reasoniamhere.com/2014/01/11/outrageously-useful-tips-to-master-your-z-shell/)

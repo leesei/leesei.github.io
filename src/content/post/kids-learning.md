@@ -4,7 +4,6 @@ description: ""
 created: 2016-08-17
 tags:
   - learning
-  - trivia
 ---
 
 [[learn-to-code-kids]]

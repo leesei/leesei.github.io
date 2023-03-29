@@ -36,6 +36,10 @@ tags:
 [How to build a PC, the last guide you'll ever need! - YouTube](https://www.youtube.com/watch?v=BL4DCEp7blY) LTT
 [宿舍神机！全网第二细的 ITX 装机教程 - YouTube](https://www.youtube.com/watch?v=EXRFOceNL7w)
 
+Branch Education
+[How do Computers Work? - YouTube](https://www.youtube.com/playlist?list=PL6rx9p3tbsMsZ9hUvU-kDOXc8Fot04Hhu)
+[How do Desktop Computers Work? 💻🛠🔬 [3D ANIMATED Teardown] - YouTube](https://www.youtube.com/watch?v=d86ws7mQYIg)
+
 # Analog Computer
 
 [Analog computer - Wikiwand](https://www.wikiwand.com/en/Analog_computer)
@@ -117,7 +121,7 @@ A4 机箱: GPU 背靠底板
 
 # Display Card/GPU
 
-[[computer-graphics]]
+[[computer-graphics-hardware]]
 
 ---
 

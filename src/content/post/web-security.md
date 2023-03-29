@@ -130,15 +130,20 @@ Same Origin Policy
 [Cross-site request forgery - Wikiwand](https://www.wikiwand.com/en/Cross-site_request_forgery)
 [What is CSRF (Cross-site request forgery)? Tutorial & Examples | Web Security Academy](https://portswigger.net/web-security/csrf)
 [Bypassing CSRF Protections: A Double Defeat of the Double-Submit Cookie Pattern](https://www.owasp.org/images/3/32/David_Johansson-Double_Defeat_of_Double-Submit_Cookie.pdf)
+[Bypassing CSRF Protections: A Double Defeat of the Double-Submit Cookie Pattern](https://www.owasp.org/images/3/32/David_Johansson-Double_Defeat_of_Double-Submit_Cookie.pdf)
+[Cross-Site Request Forgery is dead!](https://scotthelme.co.uk/csrf-is-dead/)
+[CSRF Is Dead, Long Live SameSite=Lax! (or is it?) – Stephen's Thoughts](https://stephenreescarter.net/csrf-is-dead-long-live-samesite-lax/)
+[讓我們來談談 CSRF](https://blog.techbridge.cc/2017/02/25/csrf-introduction/)
+
 [Cross Site Request Forgery vs Server Side Request Forgery Explained - YouTube](https://www.youtube.com/watch?v=a7OMdTuYaGc)
 [Cross-Site Request Forgery (CSRF) Explained - YouTube](https://www.youtube.com/watch?v=eWEgUcHPle0)
 
 These are vulnerabilities that **exploits trust on user's browser**. Malicious scripts initiates attack from user's browser to the target site and reuse the **cookie** in the browser. The attack usually involves form submit or URL operation.
-SOP only blocks reading response, not helpful in blocking CSRF
+Same-Origin policy (SOP) only blocks reading response, not helpful in blocking CSRF
 
 The counter-measure is to:
 
-- create synchronizer tokens unique to the submitting form
+- create synchronizer tokens (`csrftoken`) unique to each submitting form
 - use AJAX (protected by SOP and CORS) with Cookie-to-Header Token
 
 ## XSS

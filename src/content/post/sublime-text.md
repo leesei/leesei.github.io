@@ -10,6 +10,8 @@ tags:
   - sublime-text
 ---
 
+> Now I mostly use [[vscode]].
+
 [Sublime Text: The text editor you'll fall in love with](http://www.sublimetext.com/)
 [Sublime Text Issues](https://github.com/SublimeTextIssues)
 

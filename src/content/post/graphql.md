@@ -18,6 +18,7 @@ tags:
 [GraphQL is the New API Gateway - Level Up Coding](https://levelup.gitconnected.com/graphql-is-the-new-api-gateway-383edeed4bcd)
 [Understand GraphQL in 5 minutes - Je suis un dev](https://www.jesuisundev.com/en/understand-graphql-in-5-minutes/)
 
+[GraphQL: The Documentary - YouTube](https://www.youtube.com/watch?v=783ccP__No8)
 [GraphQL Beyond the Spec | pragmaticlead.com](https://pragmaticlead.com/posts/graphql-beyond-the-spec)
 
 ## GraphQL

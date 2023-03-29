@@ -79,6 +79,7 @@ no idols
 [大赦 (基督教) - Wikiwand](<https://www.wikiwand.com/zh/%E5%A4%A7%E8%B5%A6_(%E5%9F%BA%E7%9D%A3%E6%95%99)>) 贖罪券
 
 [Protestantism - Wikiwand](https://www.wikiwand.com/en/Protestantism) forked from Catholic Church when it sold Indulgence, Martin Luther challenged the interpretation of building Christianity upon the Roman Pope
+Gutenberg's printing of German Bible in some way triggered the Reformation
 [基督新教 - Wikiwand](https://www.wikiwand.com/zh/%E6%96%B0%E6%95%99)
 [Reformation - Wikiwand](https://www.wikiwand.com/en/Reformation)
 [宗教改革 - Wikiwand](https://www.wikiwand.com/zh/%E5%AE%97%E6%95%99%E6%94%B9%E9%9D%A9)

@@ -4,7 +4,8 @@ description: ""
 created: 2015-06-17
 tags:
   - web
-  - web-deploy
+  - web/deploy
+  - dev/deploy
 ---
 
 [Reverse proxy - Wikiwand](https://www.wikiwand.com/en/Reverse_proxy)

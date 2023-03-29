@@ -8,7 +8,7 @@ tags:
   - docker
   - openshift
   - shell-tool
-  - web-deploy
+  - dev/deploy
 ---
 
 # OpenShift

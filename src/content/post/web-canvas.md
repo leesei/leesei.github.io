@@ -1,14 +1,16 @@
 ---
-title: Canvas
+title: HTML Canvas
 description: ""
 created: 2016-04-08
 tags:
   - web
+  - web/2d
+  - web/3d
 ---
 
 [Javascript 2D Canvas Libraries - Google Sheets](https://docs.google.com/spreadsheets/d/1JYEGMN2jJtmwyjB4DMw3uaYLVMkduf61suKpiOzo0hc/edit#gid=0)
 
-## Vanilla <canvas>
+## Vanilla `<canvas>`
 
 [HTML Canvas 2D Context](https://www.w3.org/TR/2dcontext/)
 [Canvas tutorial - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
@@ -59,13 +61,14 @@ tags:
 
 ## EaselJS
 
-[EaselJS | A JavaScript library that makes working with the HTML5 Canvas element easy.](http://www.createjs.com/easeljs)
-[EaselJS API Documentation : EaselJS](http://www.createjs.com/docs/easeljs/modules/EaselJS.html)
+[EaselJS | A JavaScript library that makes working with the HTML5 Canvas element easy.](https://createjs.com/easeljs)
+[EaselJS v1.0.0 API Documentation : EaselJS](https://createjs.com/docs/easeljs/modules/EaselJS.html)
+[CreateJS/EaselJS: The Easel Javascript library provides a full, hierarchical display list, a core interaction model, and helper classes to make working with the HTML5 Canvas element much easier.](https://github.com/CreateJS/EaselJS)
 
 ## Konva
 
-[Konva - JavaScript 2d canvas library](https://konvajs.github.io/)
-[Demos | Konva - JavaScript 2d canvas framework](http://konvajs.github.io/docs/sandbox/)
+[Konva - JavaScript 2d canvas library](https://konvajs.org/)
+[Framework Demos | Konva - JavaScript 2d canvas library](https://konvajs.org/docs/sandbox/)
 [konvajs/konva: Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.](https://github.com/konvajs/konva)
 
 Fork of KineticJS

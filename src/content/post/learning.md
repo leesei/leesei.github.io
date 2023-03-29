@@ -85,10 +85,13 @@ Podcast and mailing lists is a good way to discover Unknown Unknown
 
 [Constructionism (learning theory) - Wikiwand](<https://www.wikiwand.com/en/Constructionism_(learning_theory)>)
 
+[Marty Lobdell - Study Less Study Smart - YouTube](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
+
 [Project-based learning - Wikiwand](https://www.wikiwand.com/en/Project-based_learning)
 [What is Project Based Learning? | PBLWorks](https://www.pblworks.org/what-is-pbl)
 
 [为什么费曼技巧被称为终极学习法 (Why feynman technique works) - YouTube](https://www.youtube.com/watch?v=7iNJyEbYDdc)
+[My Biggest Studying Mistake - The Feynman Technique - YouTube](https://www.youtube.com/watch?v=IDB_3S1ezsc&t=177s)
 [The Feynman Technique Can Help You Learn Anything Like An Engineer](https://wonderfulengineering.com/the-feynman-technique-can-help-you-learn-anything-like-an-engineer/amp/)
 Step 1 - Choosing a Subject
 Step 2 - Write As If You Are Discussing With A Child

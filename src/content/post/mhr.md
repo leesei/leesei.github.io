@@ -221,8 +221,8 @@ Assassin 月
 
 ## Money/Farming
 
-[【MHRise】掘礦獵人出動！五分鐘賺 40,000Zeny！（HR4 大社遺跡）#燕雀石 #輝龍石 #靈鶴石 - YouTube](https://www.youtube.com/watch?v=ozOjkvdHyOU)
-[【MHRise】掘礦獵人再出動！五分鐘賺 80,000Zeny！（HR6 熔岩洞 Part1）#紅蓮石 #輝龍石 #靈鶴石 #白鳩石 #獄炎石 - YouTube](https://www.youtube.com/watch?v=Fc3KiD1M3Go)
+[【MHRise】掘礦獵人出動！五分鐘賺 40,000Zeny！（HR4 大社遺跡）燕雀石 輝龍石 靈鶴石 - YouTube](https://www.youtube.com/watch?v=ozOjkvdHyOU)
+[【MHRise】掘礦獵人再出動！五分鐘賺 80,000Zeny！（HR6 熔岩洞 Part1）紅蓮石 輝龍石 靈鶴石 白鳩石 獄炎石 - YouTube](https://www.youtube.com/watch?v=Fc3KiD1M3Go)
 [MHRise 攻略｜快速刷錢方法　 10 分鐘輕鬆賺 15 萬　整裝買藥不缺錢](https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/606050/)
 [【密技】還缺錢嗎？一起當礦工讓你發大財！ @魔物獵人 哈啦板 - 巴哈姆特](https://m.gamer.com.tw/forum/C.php?bsn=05786&snA=159687&bpage=1&ltype=)
 [第二話-金錢｜ 10 分賺 32 萬神技｜我有第一桶金了，你呢?｜ Sky【魔物獵人崛起 MH Rise】 - YouTube](https://www.youtube.com/watch?v=ppApAeiD_TQ)

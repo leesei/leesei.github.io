@@ -14,6 +14,11 @@ tags:
 [How Do Touchscreens Work? - YouTube](https://www.youtube.com/watch?v=cFvh7qM6LdA)
 [How does Multitouch work? - YouTube](https://www.youtube.com/watch?v=4mPdNV_smWg)
 
+## Camera
+
+[The Crazy Computations Inside Your Smartphone Cameras - YouTube](https://www.youtube.com/watch?v=yY8OFp0-UZw)
+[The Chips That See: Rise of the Image Sensor - YouTube](https://www.youtube.com/watch?v=4dX2IsZDBfg)
+
 ## Tablets
 
 [测了 114 项之后，我发现平板电脑居然存在这些问题，如何买心仪的平板电脑？（上） - YouTube](https://www.youtube.com/watch?v=HR2QSSzJrgE)

@@ -65,7 +65,9 @@ tags:
 
 [rzashakeri/beautify-github-profile: This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐](https://github.com/rzashakeri/beautify-github-profile)
 [abhisheknaiidu/awesome-github-profile-readme: 😎 A curated list of awesome GitHub Profile READMEs 📝](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+
 [anuraghazra/github-readme-stats: Dynamically generated stats for your github readmes](https://github.com/anuraghazra/github-readme-stats)
+[Showing your private contributions and achievements on your profile - GitHub Docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile)
 
 ## GitHub repo list
 
@@ -136,6 +138,20 @@ If error "fatal: A branch named 'gh-pages' already exists." is encountered, clea
 ```sh
 rm -rf node_modules/gh-pages/.cache
 ```
+
+## Copilot
+
+[GitHub Copilot · Your AI pair programmer](https://github.com/features/copilot)
+[Quickstart for GitHub Copilot - GitHub Docs](https://docs.github.com/en/copilot/quickstart)
+[Request a discount - GitHub Education](https://education.github.com/discount_requests/application) free for teachers and students
+
+[Copilot for VS Code - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Metatype.copilot-vscode)
+
+[Get Started with the Future of Coding: GitHub Copilot - YouTube](https://www.youtube.com/watch?v=Fi3AJZZregI)
+[CoPilot Review: My Thoughts After 6 Months - YouTube](https://www.youtube.com/watch?v=RDd71IUIgpg)
+
+[Introducing Copilot for VS Code – AngularDoc – Medium](https://medium.com/angulardoc/introducing-copilot-for-vs-code-c1b1a16bdd21)
+[前端工程师的必备 VS Code 插件 -- Copilot - 知乎](https://zhuanlan.zhihu.com/p/62929504)
 
 ## GitHub Actions
 

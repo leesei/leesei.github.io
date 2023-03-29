@@ -273,7 +273,7 @@ Zelda BotW Graphic Packs:
 [Ryujinx - Nintendo Switch Emulator](https://ryujinx.org/)
 
 [Egg NS Emulator – Nintendo Switch emulator for Android](https://eggns.wordpress.com/)
-[Egg NS Emulator on Twitter: "You guys may don't understand the game setting on the emulator. This time I'll explain each button in detail🧐 Come and optimize the settings for your favorite game.👇🔥 #EggNSEmulator #NintendoSwitch https://t.co/Vfp08uHuoX" / Twitter](https://twitter.com/emulatorns/status/1441417145540177920?lang=en)
+[Egg NS Emulator on Twitter: "You guys may don't understand the game setting on the emulator. This time I'll explain each button in detail🧐 Come and optimize the settings for your favorite game.👇🔥 https://t.co/Vfp08uHuoX" / Twitter](https://twitter.com/emulatorns/status/1441417145540177920?lang=en)
 
 [Skyline - Nintendo Switch Emulator](https://skyline-emu.one/)
 [skyline-emu/skyline: Run Nintendo Switch homebrew & games on your Android device!](https://github.com/skyline-emu/skyline)

@@ -289,7 +289,7 @@ Only My Railgun - fripSide
 [纲之炼金术师全集 一朵老香菇解说的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibili](https://space.bilibili.com/40857648/channel/detail?cid=135824)
 
 [井川一講《鋼之煉金術師》 - YouTube](https://www.youtube.com/playlist?list=PLv3iA6yjAwsis0nZpum8plakKygFwhpGw)
-[想要保護所有人 就要站在最高的地方 鋼之鍊金術師 人物故事 羅伊 馬斯坦古 #老爹講動畫 - YouTube](https://www.youtube.com/watch?v=LB-7ZvHHCtw) 大總統主線
+[想要保護所有人 就要站在最高的地方 鋼之鍊金術師 人物故事 羅伊 馬斯坦古 老爹講動畫 - YouTube](https://www.youtube.com/watch?v=LB-7ZvHHCtw) 大總統主線
 
 ## 天元突破
 
@@ -364,8 +364,8 @@ S 级安年
 [《禁书目录》和《超电磁炮》的区别 - Anitama - 讲道理的动漫媒体](http://www.anitama.cn/article/f06be1232025f497)
 [魔法禁書目錄與超科學電磁砲 @ goi3511767dc :: 隨意窩 Xuite 日誌](https://blog.xuite.net/goijwjpq/wretch/113938874-%E9%AD%94%E6%B3%95%E7%A6%81%E6%9B%B8%E7%9B%AE%E9%8C%84%E8%88%87%E8%B6%85%E7%A7%91%E5%AD%B8%E9%9B%BB%E7%A3%81%E7%A0%B2)
 
-[#魔法禁書目錄 - YouTube](https://www.youtube.com/results?search_query=%23%E9%AD%94%E6%B3%95%E7%A6%81%E6%9B%B8%E7%9B%AE%E9%8C%84)
-[#科學超電磁砲 - YouTube](https://www.youtube.com/results?search_query=%23%E7%A7%91%E5%AD%B8%E8%B6%85%E9%9B%BB%E7%A3%81%E7%A0%B2)
+[魔法禁書目錄 - YouTube](https://www.youtube.com/results?search_query=%23%E9%AD%94%E6%B3%95%E7%A6%81%E6%9B%B8%E7%9B%AE%E9%8C%84)
+[科學超電磁砲 - YouTube](https://www.youtube.com/results?search_query=%23%E7%A7%91%E5%AD%B8%E8%B6%85%E9%9B%BB%E7%A3%81%E7%A0%B2)
 
 ## 鬼滅之刃
 
@@ -611,15 +611,15 @@ E N
 
 ## 修真聊天群
 
-[聊炼丹，谈练功，闯秘境 ！奇幻搞笑动画《修真聊天群》第 1 季 第 1-24 话完整版 #修真 #仙侠 #搞笑 #宋书航 - YouTube](https://www.youtube.com/watch?v=egfZA7dkurM)
+[聊炼丹，谈练功，闯秘境 ！奇幻搞笑动画《修真聊天群》第 1 季 第 1-24 话完整版 - YouTube](https://www.youtube.com/watch?v=egfZA7dkurM)
 
 ## 刺客伍六七
 
 [【NG】先趁打架吻她、再摟她肩，追妹子就是這麼簡單《刺客伍六七》 - YouTube](https://www.youtube.com/watch?v=zLFe4flWCVA)
 [【NG】壯漢一柱擎天硬梆梆《刺客伍六七》S2 - YouTube](https://www.youtube.com/watch?v=fAwHRt5Kog4)
 [【NG】他眼神兇狠，把少女壓在身下想 ？《刺客伍六七》S3 - YouTube](https://www.youtube.com/watch?v=u9Ed8KHko3A)
-[【FULL】《伍六七之玄武国篇》第 1-10 集完整版 蓝光 1080P #热血 #冒险 #搞笑 #刺客伍六七 #战斗 #ScissorSeven - YouTube](https://www.youtube.com/watch?v=rQ9os7OlynA)
-[【已完结】热血少年的全新冒险《伍六七之玄武国篇》总集篇 #刺客伍六七 #战斗 #搞笑 #感人 #热血 #Scissor7 - YouTube](https://www.youtube.com/watch?v=Z3G7sQRYcts)
+[【FULL】《伍六七之玄武国篇》第 1-10 集完整版 蓝光 1080P - YouTube](https://www.youtube.com/watch?v=rQ9os7OlynA)
+[【已完结】热血少年的全新冒险《伍六七之玄武国篇》总集篇 - YouTube](https://www.youtube.com/watch?v=Z3G7sQRYcts)
 
 ## Database
 

@@ -10,7 +10,8 @@ tags:
 [[flutter]]
 [[qt]]
 [[rust#GUI]]
-[[go-notes#GUI]]
+[[go-lang#GUI]]
+[[zig-lang#GUI]]
 
 [Cross-platform GUI Toolkit Trainwreck, 2016 Edition](http://blog.johnnovak.net/2016/05/29/cross-platform-gui-trainwreck-2016-edition/) !important
 

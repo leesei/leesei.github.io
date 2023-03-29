@@ -7,7 +7,7 @@ tags:
   - sql
 ---
 
-> mysql and mariadb is the most popular dialect
+> mysql and mariadb are the most popular dialects
 
 [SQL - Wikiwand](https://www.wikiwand.com/en/SQL)
 [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
@@ -15,6 +15,7 @@ tags:
 [List of SQLite Syntax Diagrams](https://www.sqlite.org/syntax.html)
 [SQLite Syntax: sql-stmt](https://www.sqlite.org/syntax/sql-stmt.html)
 [WWW SQL Designer](https://ondras.zarovi.cz/sql/demo/)
+[Database.Guide](https://database.guide/)
 
 [The Magic of SQL - YouTube](https://www.youtube.com/c/TheMagicofSQL)
 [Basic SQL queries - SQL programming for beginners - YouTube](https://www.youtube.com/watch?v=tK-HXzuUunI)

@@ -75,6 +75,10 @@ For the softwares I install on my system, see `arch-packages.md`.
 [Apparatus: A hybrid graphics editor and programming environment for creating interactive diagrams](http://aprt.us/)
 ["Apparatus: A Hybrid Graphics Editor / Programming Environment" by Toby Schachman - YouTube](https://www.youtube.com/watch?v=i3Xack9ufYk)
 
+[Motion Canvas - Visualize complex ideas programmatically](https://motioncanvas.io/)
+[motion-canvas/motion-canvas: Visualize Complex Ideas Programmatically](https://github.com/motion-canvas/motion-canvas)
+[motion-canvas/examples: A set of examples for Motion Canvas](https://github.com/motion-canvas/examples)
+
 [Tracker Video Analysis and Modeling Tool for Physics Education](https://physlets.org/tracker/)
 [Tracker Video Analysis and Modeling Tool](https://www.compadre.org/osp/items/detail.cfm?ID=7365)
 [Getting Started with Tracker - YouTube](https://www.youtube.com/watch?v=La3H7JywgX0)

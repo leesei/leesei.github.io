@@ -2,6 +2,7 @@
 title: Keyboard
 description: ""
 created: 2015-06-15
+updated: 2023-03-22
 tags:
   - comp.hardware
   - logitech
@@ -49,6 +50,8 @@ Clicky: jade
 [Home | Open Steno Project](http://www.openstenoproject.org/)
 [Plover: Thought to Text at 240 WPM - YouTube](https://www.youtube.com/watch?v=Wpv-Qb-dB6g)
 
+---
+
 # Products
 
 ## Ergonomic Keyboard
@@ -68,16 +71,31 @@ Clicky: jade
 Perixx Periboard-512II B weird arrow and insert/delete block
 Perixx Periduo-505 (Mouse Combo) ¥298 from Taobao @2021-08
 
-## Logitech Wireless Touch Keyboard K400 Plus
+## Wireless Keyboard with Touchpad
+
+### Logitech Wireless Touch Keyboard K400 Plus
 
 [Getting Started - Wireless Touch Keyboard K400 Plus – Logitech Support + Download](https://support.logi.com/hc/en-us/articles/360024322853--Getting-Started-Wireless-Touch-Keyboard-K400-Plus)
 [無線觸控鍵盤 K400 Plus 設定指南](https://www.logitech.com/zh-hk/manuals/11916)
 
-[pwr-Solaar/Solaar: Linux device manager for Logitech devices](https://github.com/pwr-Solaar/Solaar)
-
 ¥126 from Taobao @2019-07
 
-## 雷柏
+### 雷柏
 
 K2600/K2800 ¥109 from Taobao
 E6700 ¥999 from Taobao
+
+## Logitech
+
+[Logitech Unifying receiver - Wikiwand](https://www.wikiwand.com/en/Logitech_Unifying_receiver)
+
+[Logi Bolt 無線技術 - 安全與高效能](https://www.logitech.com/zh-hk/business/work-setups/logi-bolt-wireless-technology.html) point to point protocol based on Bluetooth
+
+[Connecting a Logitech device to your Unifying Receiver (Windows and Mac) - YouTube](https://www.youtube.com/watch?v=kTE89RaQG7Y)
+[Pairing two Logitech Devices with the same USB Receiver (Windows 10) - YouTube](https://www.youtube.com/watch?v=6YFIWmMy0Nk)
+
+[Unifying Software – Logitech Support + Download](https://support.logi.com/hc/en-us/articles/360025297913) Windows and macOS
+[下載 Logitech Options 自訂軟體](https://www.logitech.com/zh-hk/software/options.html)
+[Logi Options+ | 適用於羅技產品的軟體應用程式](https://www.logitech.com/zh-hk/software/logi-options-plus.html)
+
+[pwr-Solaar/Solaar: Linux device manager for Logitech devices](https://github.com/pwr-Solaar/Solaar) supports Unifying, Bolt and Lightspeed

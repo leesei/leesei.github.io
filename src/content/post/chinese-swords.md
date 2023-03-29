@@ -3,7 +3,7 @@ title: Chinese Swords
 description: ""
 created: 2016-09-26
 tags:
-  - trivia
+  - weapons
 ---
 
 # 中國名劍

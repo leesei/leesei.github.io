@@ -2,12 +2,13 @@
 title: Database
 description: ""
 created: 2015-08-03
+updated: 2023-03-24
 tags:
-  - comp
   - database
 ---
 
 > TODO: merge `caravan/database/` here
+> TODO: split `mysql`, `postgresql`, `redis`, `tikv-tidb`, `datebase-graph`, `datebase-as-a-service`, `datebase-transactional`, `datebase-kv`, `datebase-document`, ` datebase-lightweight`, `datebase-multimodal `
 
 [Database - Wikiwand](https://www.wikiwand.com/en/Database)
 [Databases 101 - Thomas LaRock](https://thomaslarock.com/2018/07/databases-101/)
@@ -151,6 +152,20 @@ Innodb B-tree, fast for read and update workload
 
 [RocksDB - Wikiwand](https://www.wikiwand.com/en/RocksDB) KV
 
+[How Discord Stores Trillions of Messages | Deep Dive - YouTube](https://www.youtube.com/watch?v=xynXjChKkJc)
+
+- B tree
+- B+ tree
+- LSM tree
+
+### Log Structured Merge (LSM) Tree
+
+[The Secret Sauce Behind NoSQL: LSM Tree - YouTube](https://www.youtube.com/watch?v=I6jB0nM9SKU)
+
+- optimized for fast write
+- bloom filter (which return firm no or probably yes) for key lookup on level
+  B-Tree, used in SQL DB, is optimized for fast write
+
 ## SQL family
 
 [BretFisher/sysbench-docker-hpe: Sysbench Dockerfiles and Scripts for VM and Container benchmarking MySQL](https://github.com/BretFisher/sysbench-docker-hpe)
@@ -197,8 +212,6 @@ Provides ACID consistency.
 ## SQL
 
 [[sql]]
-
-[Database.Guide |](https://database.guide/)
 
 ## Datalog
 
@@ -415,14 +428,6 @@ The first three supports relationship by a second index lookup, `JOIN`-like oper
 
 [SQL is Dead, Hail to Flux – devconnected](http://devconnected.com/sql-is-dead-hail-to-flux/)
 [Monitoring systemd services in realtime with Chronograf – devconnected](http://devconnected.com/monitoring-systemd-services-in-realtime-with-chronograf/)
-
-## Log Structured Merge (LSM) Tree
-
-[The Secret Sauce Behind NoSQL: LSM Tree - YouTube](https://www.youtube.com/watch?v=I6jB0nM9SKU)
-
-- optimized for fast write
-- bloom filter (which return firm no or propably yes) for key lookup on level
-  B-Tree, used in SQL DB, is optimized for fast write
 
 ## UI Client
 
@@ -786,6 +791,9 @@ Append only, fast write in expense of read
 Java tuning and GC pause
 Sharding per core, localize memory and lockless
 
+[Seastar - Seastar](https://seastar.io/)
+C++ framework for high-performance server applications on modern hardware
+
 ## BigTable
 
 [Bigtable - Scalable NoSQL Database Service | Google Cloud](https://cloud.google.com/bigtable/)
@@ -812,7 +820,7 @@ Sharding per core, localize memory and lockless
 
 # In-memory/Lite Database
 
-> see `#leveldb`
+[[#LevelDB]]
 
 [In-memory database - Wikiwand](https://www.wikiwand.com/en/In-memory_database)
 
@@ -1013,7 +1021,6 @@ Better scaling strategy than RMDBS
 [PostgreSQL: The world's most advanced open source database](https://www.postgresql.org/)
 [PostgreSQL - Wikiwand](https://www.wikiwand.com/en/PostgreSQL)
 [PostgreSQL History - 2ndQuadrant | PostgreSQL](https://www.2ndquadrant.com/en/postgresql/postgresql-story/)
-[Postgres Architecture Explained - YouTube](https://www.youtube.com/watch?v=Q56kljmIN14)
 
 [PostgreSQL 12 Top Features Explained - YouTube](https://www.youtube.com/watch?v=PfbzNdrecv4)
 [PostgreSQL 13 Has Some Performance Boosts! Let us discuss it! - YouTube](https://www.youtube.com/watch?v=wMbTHFXImzI)
@@ -1036,6 +1043,9 @@ Indices points to offset in heap and may become stale (needs to be vacuumed)
 [PostgreSQL for Everybody - YouTube](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Oj3ndXmNS1FFOUyQP-gEa)
 [Intermediate PostgreSQL | Coursera](https://www.coursera.org/learn/intermediate-postgresql)
 [Learn PostgreSQL Tutorial - Full Course for Beginners - YouTube](https://www.youtube.com/watch?v=qw--VYLpxG4)
+
+[Postgres Architecture Explained - YouTube](https://www.youtube.com/watch?v=Q56kljmIN14) !important
+[All Postgres Locks Explained | A Deep Dive - YouTube](https://www.youtube.com/watch?v=URwmzTeuHdk)
 
 [Home - Postgres Conference](https://postgresconf.org/)
 [Postgres Guide](http://postgresguide.com/)
@@ -1150,9 +1160,9 @@ Row based, each row is stored as a record of proprietary format on storage
 adjacent rows are stored consecutively on block device
 Write ahead lock to support rollback and crash recovery
 Query language of choice is SQL
-Btree index
+B-tree index
 Query optimizers and query executor
-Multithreaded, lock btree
+Multithreaded, lock b-tree
 
 HA is a byproduct of scaling out to multiple node
 

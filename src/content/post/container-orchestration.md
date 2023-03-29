@@ -5,7 +5,7 @@ created: 2014-12-11
 tags:
   - container
   - devops
-  - web-deploy
+  - dev/deploy
 ---
 
 # Container Orchestration

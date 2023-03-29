@@ -106,19 +106,21 @@ package2==0.0.1; python_version < '3.7' and
 
 ### Poetry
 
-> supports ``, but the package itself is too large
-
 [Poetry - Python dependency management and packaging made easy.](https://poetry.eustace.io/) uses `pyproject.toml`, also build and publish packages
 [python-poetry/poetry: Python dependency management and packaging made easy.](https://github.com/python-poetry/poetry)
 
 [Dependency Management With Python Poetry – Real Python](https://realpython.com/dependency-management-python-poetry/)
 [How I break up with pip and fall in love with poetry my new girlfriend. - DEV Community](https://dev.to/espoir/how-i-break-up-with-pip-and-fall-in-love-with-poetry-my-new-girlfriend-4465)
+[How to Create and Use Virtual Environments in Python With Poetry - YouTube](https://www.youtube.com/watch?v=0f3moPe_bhk)
+
 [why I will never use python-poetry - YouTube](https://www.youtube.com/watch?v=Gr9o8MW_pb0)
 
 ```sh
 pipx install poetry
 
+
 poetry env --bin <path_to_python>
+poetry config virtialenvs.in-project true
 poetry shell
 poetry add <package>
 ```

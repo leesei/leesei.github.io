@@ -167,10 +167,11 @@ Kevin MacLeod
 
 ### Clip arts/images
 
-[SVG Repo - Free SVG Vectors and Icons](https://www.svgrepo.com/)
+> TODO: review and remove low quality ones
+
+[SVG Repo - Free SVG Vectors and Icons](https://www.svgrepo.com/) edit vector
 [Free Vectors, Stock Photos & PSD Downloads | Freepik](https://www.freepik.com/)
 [Free Vector Art & Graphics](https://www.freevector.com/)
-[Free Vector Art, Images, & Graphics for Free Download](https://www.vector4free.com/)
 [1 million+ Stunning Free Images to Use Anywhere - Pixabay](https://pixabay.com/)
 [Beautiful Free Images & Pictures | Unsplash](https://unsplash.com/)
 [Free stock photos · Pexels](https://www.pexels.com/)
@@ -178,10 +179,11 @@ Kevin MacLeod
 [免费素材图片 · Pexels](https://www.pexels.com/zh-cn/)
 [搜图神器-一键搜索聚合，海量图片资源免费下载！](http://soutushenqi.com/)
 [以图搜图、以图搜视频所需插件和平台！ – 零度解说](https://www.freedidi.com/4430.html)
+[Free Vector Art, Images, & Graphics for Free Download](https://www.vector4free.com/) downvote
 
 [Peeps Avatar Builder by UI8.net](https://peeps.ui8.net/)
 
-[Free SVG images, SVG cut files and transparent PNG with CC0 public domain license](https://freesvg.org/) with contents of [Open Clipart](https://openclipart.org/)
+[Free SVG images, SVG cut files and transparent PNG with CC0 public domain license](https://freesvg.org/) with contents of [Open Clipart](https://openclipart.org/) invalid cert
 [ClipartMax - PNG Clipart Free Download, Largest Transparent Clip Art Images Collection](https://www.clipartmax.com/)
 [Royalty-free vector clip art, svg files and graphics | Public domain vectors](https://publicdomainvectors.org/)
 [Free Openclipart, Download Free Clip Art, Free Clip Art on Clipart Library](http://clipart-library.com/openclipart.html)

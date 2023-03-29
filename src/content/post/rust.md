@@ -1,13 +1,12 @@
 ---
 title: Rust
-description: ""
+description: "Static typed, GC-free system language created by Mozilla."
 created: 2015-11-19
 tags:
   - comp.lang
   - rust
 ---
 
-Static typed, GC-free system language created by Mozilla.
 [The Rust Programming Language](http://www.rust-lang.org/)
 [The Rust Reference](https://doc.rust-lang.org/reference.html)
 [Style Guidelines](http://doc.rust-lang.org/nightly/style/)
@@ -76,7 +75,7 @@ rustup install nightly
 ### Cargo
 
 [Getting started with the Rust package manager, Cargo | Opensource.com](https://opensource.com/article/20/3/rust-cargo)
-[Introduction - The Cargo Book](https://doc.rust-lang.org/cargo/index.html)
+[The Cargo Book](https://doc.rust-lang.org/cargo/index.html)
 [Configuration - The Cargo Book](https://doc.rust-lang.org/cargo/reference/config.html)
 [Environment Variables - The Cargo Book](https://doc.rust-lang.org/cargo/reference/environment-variables.html)
 [My top 7 Rust commands for using Cargo | Opensource.com](https://opensource.com/article/20/11/commands-rusts-cargo)
@@ -114,7 +113,7 @@ cargo test
 
 ## Editions
 
-[Introduction - The Edition Guide](https://doc.rust-lang.org/edition-guide/introduction.html)
+[The Edition Guide](https://doc.rust-lang.org/edition-guide/introduction.html)
 
 The source code is compiled to High level intermediate representation, then mid level, then LLVM IR, then machine code. Editions mostly affect MIR.
 
@@ -404,12 +403,12 @@ Docs that is available locally with `rustup doc`
 First party
 [The Rust Programming Language - The Rust Programming Language](https://doc.rust-lang.org/book/index.html)
 [Overview - Rust Forge](https://forge.rust-lang.org/)
-[Introduction - The Edition Guide](https://doc.rust-lang.org/stable/edition-guide/introduction.html)
-[Introduction - Rust By Example](https://doc.rust-lang.org/rust-by-example/index.html)
-[Introduction - The Rust Reference](https://doc.rust-lang.org/stable/reference/index.html)
+[The Edition Guide](https://doc.rust-lang.org/stable/edition-guide/introduction.html)
+[Rust By Example](https://doc.rust-lang.org/rust-by-example/index.html)
+[The Rust Reference](https://doc.rust-lang.org/stable/reference/index.html)
 [Table of Contents - Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
 [About - Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)
-[Introduction - The Rustonomicon](https://doc.rust-lang.org/nomicon/) unsafe Rust
+[The Rustonomicon](https://doc.rust-lang.org/nomicon/) unsafe Rust
 [What is rustdoc? - The rustdoc book](https://doc.rust-lang.org/rustdoc/index.html)
 [What is rustc? - The rustc book](https://doc.rust-lang.org/rustc/index.html)
 [Rust Compiler Error Index](https://doc.rust-lang.org/error-index.html)
@@ -418,14 +417,11 @@ First party
 
 [Rust RFCs](https://rust-lang.github.io/rfcs/)
 [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/README.html)
-[Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html)
-[Introduction | 24 days of Rust](https://zsiciarz.github.io/24daysofrust/index.html)
+[Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html) Rust's type safety makes this has to be done in unsafe mode
+[24 days of Rust](https://zsiciarz.github.io/24daysofrust/index.html)
 [Introduction to Programming Using Rust](http://gradebot.org/doc/ipur/)
-[Introduction - Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
-[Introduction - Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
+[Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
 [vinodotdev/node-to-rust](https://github.com/vinodotdev/node-to-rust)
-
-[Writing an OS in Rust](https://os.phil-opp.com/)
 
 [The Rust Language & Ecosystem - The Rust eBookshelf](https://rams3s.github.io/rust-ebookshelf/)
 [Tracking issue for RFC 1828: Rust Bookshelf · Issue #39588 · rust-lang/rust](https://github.com/rust-lang/rust/issues/39588)
@@ -471,6 +467,8 @@ First party
 
 ## Ownership Model
 
+[Understanding Ownership - The Rust Programming Language](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
+
 | Type  | Ownership         | Alias? | Mutate?                         |
 | ----- | ----------------- | ------ | ------------------------------- |
 | T     | Owned             |        | ✔                               |
@@ -491,10 +489,10 @@ fn first(v: &Vec<Book>) -> &String {
 ```
 
 [rust-lang/polonius: Defines the Rust borrow checker.](https://github.com/rust-lang/polonius)
+[What is Polonius? - Polonius](https://rust-lang.github.io/polonius/)
 
 [Why Rust's ownership/borrowing is hard](http://softwaremaniacs.org/blog/2016/02/12/ownership-borrowing-hard/en/)
 [Why Rust's ownership/borrowing is hard | Hacker News](https://news.ycombinator.com/item?id=11093389)
-[Understanding Rust: ownership, borrowing, lifetimes — Medium](https://medium.com/@bugaevc/understanding-rust-ownership-borrowing-lifetimes-ff9ee9f79a9c#.9cbsukcv1)
 [Graphical depiction of ownership and borrowing in Rust - Rufflewind's Scratchpad](https://rufflewind.com/2017-02-15/rust-move-copy-borrow)
 [Fear not the Rust Borrow Checker](http://squidarth.com/rc/rust/2018/05/31/rust-borrowing-and-ownership.html)
 [Understanding lifetimes - help - The Rust Programming Language Forum](https://users.rust-lang.org/t/understanding-lifetimes/6401/11)
@@ -769,7 +767,7 @@ fn first(v: &Vec<Book>) -> &String {
 
 [rust-windowing/winit: Window handling library in pure Rust](https://github.com/rust-windowing/winit)
 
-[Introduction - CXX-Qt Documentation](https://kdab.github.io/cxx-qt/book/)
+[CXX-Qt Documentation](https://kdab.github.io/cxx-qt/book/)
 [KDAB/cxx-qt: Safe interop between Rust and Qt](https://github.com/KDAB/cxx-qt)
 
 #### Xilem
@@ -878,12 +876,18 @@ async fn my_function(i: i32) {
 [Writing a GPU-Accelerated Path Tracer in Rust - Part 1 | bheisler.github.io](https://bheisler.github.io/post/writing-gpu-accelerated-path-tracer-part-1/)
 [Writing a GPU-Accelerated Path Tracer in Rust - Part 2 | bheisler.github.io](https://bheisler.github.io/post/writing-gpu-accelerated-path-tracer-part-2/)
 
+## Operating System
+
+[Writing an OS in Rust](https://os.phil-opp.com/)
+[Ashley Williams - intermezzOS: a teaching operating system - YouTube](https://www.youtube.com/watch?v=WxbrhruIAa8)
+[Writing an Embedded Operating System in Rust - Alistair Francis, Western Digital - YouTube](https://www.youtube.com/watch?v=yT0cRctyZOE)
+
 ## Embedded system
 
 [Rust Embedded](https://github.com/rust-embedded/)
 
 [Embedded Rust documentation](https://docs.rust-embedded.org/)
-[Introduction - The Embedded Rust Book](https://docs.rust-embedded.org/book/)
+[The Embedded Rust Book](https://docs.rust-embedded.org/book/)
 
 [Use Rust for embedded development | Opensource.com](https://opensource.com/article/21/10/rust-embedded-development)
 
@@ -891,7 +895,7 @@ async fn my_function(i: i32) {
 [Program the real world using Rust on Raspberry Pi | Opensource.com](https://opensource.com/article/19/3/physical-computing-rust-raspberry-pi)
 
 [Tock Embedded Operating System](https://www.tockos.org/)
-[Introduction - Tock Tutorial](https://book.tockos.org/)
+[Tock Tutorial](https://book.tockos.org/)
 
 [rust-embedded/cortex-m-quickstart: Template to develop bare metal applications for Cortex-M microcontrollers](https://github.com/rust-embedded/cortex-m-quickstart)
 [Learn Embedded Rust WITHOUT Any Expensive Hardware | Rust ARM QEMU Cargo Tutorial - YouTube](https://www.youtube.com/watch?v=_sYnzFe9A6E)
@@ -925,7 +929,7 @@ async fn my_function(i: i32) {
 
 [Unsafe Rust - The Rust Programming Language](https://doc.rust-lang.org/book/ch19-01-unsafe-rust.html#using-extern-functions-to-call-external-code)
 
-[Introduction - The `bindgen` User Guide](https://rust-lang.github.io/rust-bindgen/)
+[The `bindgen` User Guide](https://rust-lang.github.io/rust-bindgen/)
 [rust-lang/rust-bindgen: Automatically generates Rust FFI bindings to C (and some C++) libraries.](https://github.com/rust-lang/rust-bindgen)
 [Using C Libraries in Rust. A practical guide to FFI using bindgen… | by Jeff Hiner | Dwelo Research and Development | Medium](https://medium.com/dwelo-r-d/using-c-libraries-in-rust-13961948c72a)
 [Wrapping Unsafe C Libraries in Rust | by Jeff Hiner | Dwelo Research and Development | Medium](https://medium.com/dwelo-r-d/wrapping-unsafe-c-libraries-in-rust-d75aeb283c65)

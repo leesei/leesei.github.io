@@ -4,6 +4,7 @@ description: ""
 created: 2016-12-22
 tags:
   - anime
+  - manga
   - jojo
 ---
 

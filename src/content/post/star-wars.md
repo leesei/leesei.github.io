@@ -4,7 +4,7 @@ description: ""
 created: 2016-02-07
 tags:
   - star-wars
-  - trivia
+  - movies
 ---
 
 [Star Wars - Wikiwand](http://www.wikiwand.com/en/Star_Wars)
@@ -79,7 +79,7 @@ Episode VII-IX
 
 [Star Wars Episode IV in one picture](http://swanh.net/) in infographics style
 [星际大战系列 - YouTube](https://www.youtube.com/playlist?list=PLzQ6y52QTNAxSh9G57iDoW82F52Vu5jkG) 大聪看电影
-[一次看完《星球大战》全系列 10 部回顾解析，为你无缝连接《星球大战 9：天行者崛起》 #星際大戰 9 #星球大战 9 - YouTube](https://www.youtube.com/watch?v=__glibS28yM) 大聪看电影
+[一次看完《星球大战》全系列 10 部回顾解析，为你无缝连接《星球大战 9：天行者崛起》 - YouTube](https://www.youtube.com/watch?v=__glibS28yM) 大聪看电影
 [一口气看完《星球大战》主线剧情，恢弘无比的星际战场， 光明与黑暗的极限拉扯 - YouTube](https://www.youtube.com/watch?v=ahs4wceaZtQ)
 [認識星際大戰 - YouTube](https://www.youtube.com/playlist?list=PLNsYSXaDLA89dP3cUfyy3FA8M0gdu8mBV) 超粒方
 

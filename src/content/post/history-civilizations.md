@@ -210,7 +210,7 @@ around the same time, the British Romans were attacked by the Celtic Picks from 
 ### Alexander the Great
 
 [Alexander the Great's Conquests - YouTube](https://www.youtube.com/playlist?list=PLaBYW76inbX5gW1dT5HvFcKUkrG5hvJPF) Kings and Generals
-[Alexander the Great (All Parts) - YouTube](https://www.youtube.com/watch?v=K7lb6KWBanI)
+[Alexander the Great (All Parts) - YouTube](https://www.youtube.com/watch?v=K7lb6KWBanI) Epic History TV
 [鐵血斯巴達？被這支 300 人的軍隊幹翻在地……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=ybY2d2c2o3U)
 
 ## Celts
@@ -273,6 +273,7 @@ When Rome Empire crumbles, the Greek speaking officials fled to modern Turkey an
 [朝着大海奔跑了四百年的国家：带您了解“白色蒙古”俄罗斯的历史 - YouTube](https://www.youtube.com/watch?v=J8VpYl31V4Y)
 [是「白俄羅斯」還是「白羅斯」? 烏克蘭、俄羅斯、白羅斯的共同起源故事! (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=cEJWyLzbXbs)
 [恩怨一千年 ▶ 烏克蘭與俄羅斯有什麼深仇大恨? 克里米亞危機、頓巴斯戰爭的前因後果 - YouTube](https://www.youtube.com/watch?v=zuoqLNK8_mc)
+[战斗民族俄罗斯的前世今生 The History of Russia【柴知道 ChaiKnows】【科普】 - YouTube](https://www.youtube.com/watch?v=h4k5UapmYhQ)
 
 ---
 

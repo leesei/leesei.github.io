@@ -20,6 +20,8 @@ tags:
 [Badge Generator](http://badges.amercier.com/) for Shields.io and others
 [bevry-badges](https://github.com/bevry/badges)
 
+[Bragit: Show off your Github repository buttons with elegance](http://websemantics.github.io/bragit/)
+
 [Is it maintained?](http://isitmaintained.com/)
 
 [badges/README.md at master · Naereen/badges](https://github.com/Naereen/badges/blob/master/README.md)

@@ -34,3 +34,7 @@ tags:
 
 [All 39 GIMP Tools Explained - YouTube](https://www.youtube.com/watch?v=_z9cFpwak9c)
 [HOW TO USE GIMP - Complete Tutorial for Beginners 2020 - YouTube](https://www.youtube.com/watch?v=x6pXJ7Ijir0)
+
+## Tips and Tricks
+
+[Remove Watermarks in Photoshop](https://www.youtube.com/shorts/yVP5lkqNYYg)
