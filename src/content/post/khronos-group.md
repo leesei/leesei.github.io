@@ -26,7 +26,7 @@ EGL is an interface between Khronos rendering APIs (such as OpenGL ES or OpenVG)
 [Shader - Wikiwand](http://www.wikiwand.com/en/Shader)
 [High-Level Shading Language (HLSL) - Wikiwand](http://www.wikiwand.com/en/High-Level_Shading_Language) by Microsoft
 [OpenGL Shading Language (GLSL/GLslang) - Wikiwand](http://www.wikiwand.com/en/OpenGL_Shading_Language) by Khronos Group
-[Cg (programming language) - Wikiwand](http://www.wikiwand.com/en/Cg_%28programming_language%29) by Nvidia, enables programmer to use C-like syntax to create shaders, generate HLSL or GLSL code.
+[Cg (programming language) - Wikiwand](<http://www.wikiwand.com/en/Cg_(programming_language)>) by Nvidia, enables programmer to use C-like syntax to create shaders, generate HLSL or GLSL code.
 The shader programs are loaded to a OpenGL application (context/shell) for execution.
 <http://www0.cs.ucl.ac.uk/staff/ucacbbl/cigpu2008/slides/shader-vs-cuda.pdf>
 
@@ -110,7 +110,7 @@ Tegra 3 T30L | Tegra 3 T30L | Nexus 7
 ## Vulkan
 
 [Vulkan - Industry Forged](https://www.khronos.org/vulkan/)
-[Vulkan (API) - Wikiwand](https://www.wikiwand.com/en/Vulkan_%28API%29)
+[Vulkan (API) - Wikiwand](<https://www.wikiwand.com/en/Vulkan_(API)>)
 Vulkan is the successor to OpenGL. It aims to offer lower-level access to the graphics hardware to improve rendering performance.
 
 [Vulkan in 30 minutes](https://renderdoc.org/vulkan-in-30-minutes.html)

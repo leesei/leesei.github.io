@@ -25,8 +25,8 @@ tags:
 
 [List of Settings | Best Settings to Choose | Monster Hunter Rise | MHR (MH Rise)｜ Game8](https://game8.co/games/Monster-Hunter-Rise/archives/316046)
 
-[Monster Hunter Rise 攻略｜教學沒教 10 個玩法　空中腳踏/連續壁走｜香港 01 ｜遊戲動漫](https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/573376/monster-hunter-rise%E6%94%BB%E7%95%A5-%E6%95%99%E5%AD%B8%E6%B2%92%E6%95%9910%E5%80%8B%E7%8E%A9%E6%B3%95-%E7%A9%BA%E4%B8%AD%E8%85%B3%E8%B8%8F-%E9%80%A3%E7%BA%8C%E5%A3%81%E8%B5%B0)
-[MHRise 攻略｜獵人必學 10 個慳時間方便功能／遊戲設定／狩獵技巧](https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/609265/mhrise%E6%94%BB%E7%95%A5-%E7%8D%B5%E4%BA%BA%E5%BF%85%E5%AD%B810%E5%80%8B%E6%85%B3%E6%99%82%E9%96%93%E6%96%B9%E4%BE%BF%E5%8A%9F%E8%83%BD-%E9%81%8A%E6%88%B2%E8%A8%AD%E5%AE%9A-%E7%8B%A9%E7%8D%B5%E6%8A%80%E5%B7%A7)
+[Monster Hunter Rise 攻略｜教學沒教 10 個玩法　空中腳踏/連續壁走｜香港 01 ｜遊戲動漫](https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/573376/)
+[MHRise 攻略｜獵人必學 10 個慳時間方便功能／遊戲設定／狩獵技巧](https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/609265/)
 [【攻略】【Rise 攻略串】交換技、副營地位置、勳章條件、委託任務、先人遺物 @魔物獵人 哈啦板 - 巴哈姆特](https://forum.gamer.com.tw/C.php?bsn=5786&snA=159426)
 
 [魔物獵人 哈啦板 - 巴哈姆特](https://forum.gamer.com.tw/A.php?bsn=5786)
@@ -96,7 +96,7 @@ Assassin 月
 [How To Use Every Weapon in 1 Minute or Less Each (Timestamps in Description) – Monster Hunter Rise - YouTube](https://www.youtube.com/watch?v=7rl9vu3laDA)
 [Monster Hunter Rise | ALL 14 WEAPONS EXPLAINED - What Fits Your Playstyle Best? - YouTube](https://www.youtube.com/watch?v=rQ8jsXvi02o)
 [Monster Hunter Rise | ADVANCED WEAPON TIPS - For All 14 Types - YouTube](https://www.youtube.com/watch?v=RTnFjj_Usfo)
-[MHRise 攻略｜全武器快速上手教學合集　連招詳細說明＋使用心得](https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/603334/mhrise%E6%94%BB%E7%95%A5-%E5%85%A8%E6%AD%A6%E5%99%A8%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%E6%95%99%E5%AD%B8%E5%90%88%E9%9B%86-%E9%80%A3%E6%8B%9B%E8%A9%B3%E7%B4%B0%E8%AA%AA%E6%98%8E-%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97)
+[MHRise 攻略｜全武器快速上手教學合集　連招詳細說明＋使用心得](https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/603334/)
 [魔物獵人 崛起 (Monster Hunter Rise) 武器使用方法 | 娛樂計程車](https://www.entertainment14.net/blog/post/110969064-%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA-%E5%B4%9B%E8%B5%B7-monster-hunter-rise-%E6%AD%A6%E5%99%A8%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95)
 
 [gaijin hunter MHRise tutorial - YouTube](https://www.youtube.com/c/gaijinhunter/search?query=mhrise%20tutorial)

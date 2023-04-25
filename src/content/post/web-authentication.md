@@ -62,6 +62,13 @@ Use MAC with server nonce instead of send password, allows authentication over n
 
 [Open-source authentication platform - Fief](https://www.fief.dev/)
 
+[Keycloak](https://www.keycloak.org/)
+
+[Self-Hosted - FusionAuth](https://fusionauth.io/platform/self-hosting)
+
+[Lucia](https://lucia-auth.com/?framework=none)
+[pilcrowOnPaper/lucia: Authentication, simple and clean](https://github.com/pilcrowOnPaper/lucia)
+
 [tarent/loginsrv: JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, ..](https://github.com/tarent/loginsrv)
 [leesei/docker-auth-server: Dockerized JWT key server](https://github.com/leesei/docker-auth-server)
 
@@ -80,7 +87,7 @@ Use MAC with server nonce instead of send password, allows authentication over n
 [Clerk | Authentication and User Management](https://clerk.dev/) free 5000 monthly active users
 [Passwordless Authentication & Login in Next.js with Clerk - YouTube](https://www.youtube.com/watch?v=1n9N5k8gsDw)
 
-[Auth. Built for Devs, By Devs - FusionAuth](https://fusionauth.io/)
+[Auth. Built for Devs, By Devs - FusionAuth](https://fusionauth.io/) OIDC and OAuth server
 
 [Oso | Batteries-Included Authorization](https://www.osohq.com/)
 
@@ -156,7 +163,7 @@ physical keys
 
 > originally NextAuth.js
 
-[Auth.js](https://authjs.dev/)
+[Auth.js](https://authjs.dev/) work with OAuth 2 or OpenID Connect provider
 
 ## WebAuthn
 
@@ -177,7 +184,7 @@ physical keys
 [XACML - Wikiwand](https://www.wikiwand.com/en/XACML)
 
 [The Identity Cookbook: Blockchain for Identity: Access Request Management](http://www.theidentitycookbook.com/2016/06/blockchain-for-identity-access-request.html)
-[Improving Enterprise Business Process Management Systems: Enrich RBAC and ABAC with ProBAC, #infosec #security #BPM](http://improving-bpm-systems.blogspot.hk/2015/01/enrich-rbac-and-abac-with-probac.html)
+[Improving Enterprise Business Process Management Systems: Enrich RBAC and ABAC with ProBAC](http://improving-bpm-systems.blogspot.hk/2015/01/enrich-rbac-and-abac-with-probac.html)
 
 ## Blockchain
 
@@ -325,9 +332,14 @@ does not to mandate SSL/TLS
 
 [OAuth - Wikiwand](https://www.wikiwand.com/en/OAuth)
 [The OAuth Bible](https://oauthbible.com/)
+[Home | OAuth.XYZ](https://oauth.xyz/)
 
 [OAuth.com - OAuth 2.0 Simplified](https://www.oauth.com/)
 [OAuth 2.0 Simplified - A guide to building OAuth 2.0 servers](https://oauth2simplified.com/)
+[OAuth 2.0 Authorization Framework](https://auth0.com/docs/authenticate/protocols/oauth)
+
+OAuth Access Key is like a safe key made of ice, good only for a short period.
+Every time the Refresh Key is used, a new (Access Key, Refresh Key) pair is returned. Any reuse of Refresh Key will yield the corresponding Access Key invalid.
 
 [OAuth 2.0 Playground](https://oauth.com/playground/)
 [OAuth 2.0 debugger](https://oauthdebugger.com/)
@@ -347,8 +359,10 @@ does not to mandate SSL/TLS
 [OAuth 2.0 and OpenID Connect (in plain English) - YouTube](https://www.youtube.com/watch?v=996OiexHze0)
 [An Illustrated Guide to OAuth and OpenID Connect - YouTube](https://www.youtube.com/watch?v=t18YB3xDfXI)
 [OAuth 2.0: An Overview - YouTube](https://www.youtube.com/watch?v=CPbvxxslDTU)
-[Overview of OAuth 2.0 and OpenID Connect - Using OAuth 2.0 and OpenID Connect with Caché - Caché & Ensemble 2018.1](https://docs.intersystems.com/latest/csp/docbook/DocBook.UI.Page.cls?KEY=GOAUTH_background)
-[The unreasonable effectiveness of the Julia programming language – Ars Technica](https://arstechnica.com/science/2020/10/the-unreasonable-effectiveness-of-the-julia-programming-language/?amp=1)
+[Overview of OAuth 2.0 and OpenID Connect - Using OAuth 2.0 and OpenID Connect with Caché - Caché & Ensemble 2018.1](https://docs.intersystems.com/latest/csp/docbook/DocBook.UI.Page.cls?
+KEY=GOAUTH_background)
+
+[The unreasonable effectiveness of the Julia programming language – Ars Technica](https://arstechnica.com/science/2020/10/the-unreasonable-effectiveness-of-the-julia-programming-language/amp/)
 
 Grant Types
 
@@ -398,6 +412,13 @@ OAuth 2.0 serves as the authorization framework, the actual authentication occur
 
 [lelylan/simple-oauth2: A simple Node.js client library for Oauth2](https://github.com/lelylan/simple-oauth2)
 
+[Episode 376: Justin Richer On API Security with OAuth 2 : Software Engineering Radio](https://www.se-radio.net/2019/08/episode-376-justin-richer-on-api-security-with-oauth-2/)
+Server pre-register, get API key and secret (configuration secret)
+Each mobile app registers at run time (dynamical client registration), gets dynamic client ID and secret individually (run time secret) RFC 7591
+Claims are signed by third party and can be revoked
+OpenID Connect: using OAuth2 to authorize access of identity info
+PKSI client send hashed secret before login
+
 ### OpenID
 
 OAuth 2.0 is designed for authorization (permissions), for authentication (identity); hacky way to get user profile and info
@@ -407,6 +428,8 @@ OpenID Connect is build upon OAuth 2.0 (with `openid` and `profile` scope) desig
 [OpenID Connect | OpenID](https://openid.net/connect/)
 [Final: OpenID Connect Core 1.0 incorporating errata set 1](https://openid.net/specs/openid-connect-core-1_0.html)
 [RFC 8414 - OAuth 2.0 Authorization Server Metadata](https://tools.ietf.org/html/rfc8414) OAuth Discovery
+
+[OpenID Connect Protocol](https://auth0.com/docs/authenticate/protocols/openid-connect-protocol)
 
 [OpenID Connect debugger](https://oidcdebugger.com/)
 [OpenID Connect Playground](https://openidconnect.net/) ebook

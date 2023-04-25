@@ -20,7 +20,6 @@ A more performant implementation is to use [persistent data structure](https://w
 
 [Immutable object - Wikiwand](https://www.wikiwand.com/en/Immutable_object)
 [Persistent data structure - Wikiwand](https://www.wikiwand.com/en/Persistent_data_structure)
-[Trie - Wikiwand](https://www.wikiwand.com/en/Trie)
 
 [List of immutable libraries](https://gist.github.com/jlongster/bce43d9be633da55053f)
 [immutable-data.md · markerikson/redux-ecosystem-links](https://github.com/markerikson/redux-ecosystem-links/blob/master/immutable-data.md#immutable-update-utilities)

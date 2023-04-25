@@ -47,7 +47,7 @@ tags:
 
 [武備志 Martialab - Home](https://www.facebook.com/Martialabhk/)
 [武備志｜提供 MMA、柔道等搏擊運動比賽及技術資訊｜香港 01](https://www.hk01.com/channel/166/%E6%AD%A6%E5%82%99%E5%BF%97)
-[【Swordbreaker/破刃短劍】中世紀特殊短劍 可以破劍的「破刃劍」｜香港 01 ｜武備志](https://www.hk01.com/%E6%AD%A6%E5%82%99%E5%BF%97/204747/swordbreaker-%E7%A0%B4%E5%88%83%E7%9F%AD%E5%8A%8D-%E4%B8%AD%E4%B8%96%E7%B4%80%E7%89%B9%E6%AE%8A%E7%9F%AD%E5%8A%8D-%E5%8F%AF%E4%BB%A5%E7%A0%B4%E5%8A%8D%E7%9A%84-%E7%A0%B4%E5%88%83%E5%8A%8D)
+[【Swordbreaker/破刃短劍】中世紀特殊短劍 可以破劍的「破刃劍」｜香港 01 ｜武備志](https://www.hk01.com/%E6%AD%A6%E5%82%99%E5%BF%97/204747/)
 
 [Historical European martial arts - Wikiwand](https://www.wikiwand.com/en/Historical_European_martial_arts)
 [如何重現青銅時代的劍術？——研究古代冷兵器對戰，需要現代戰士參與！ - PanSci 泛科學](https://pansci.asia/archives/339084)
@@ -192,8 +192,8 @@ A stone age tool that predates bow and arrow
 
 ## Bows
 
-[【射箭】淺談弓種（上）｜香港 01 ｜武備志](https://www.hk01.com/%E6%AD%A6%E5%82%99%E5%BF%97/173199/%E5%B0%84%E7%AE%AD-%E6%B7%BA%E8%AB%87%E5%BC%93%E7%A8%AE-%E4%B8%8A)
-[【射箭】淺談弓種（下）｜香港 01 ｜武備志](https://www.hk01.com/%E6%AD%A6%E5%82%99%E5%BF%97/173265/%E5%B0%84%E7%AE%AD-%E6%B7%BA%E8%AB%87%E5%BC%93%E7%A8%AE-%E4%B8%8B)
+[【射箭】淺談弓種（上）｜香港 01 ｜武備志](https://www.hk01.com/%E6%AD%A6%E5%82%99%E5%BF%97/173199/)
+[【射箭】淺談弓種（下）｜香港 01 ｜武備志](https://www.hk01.com/%E6%AD%A6%E5%82%99%E5%BF%97/173265/)
 [射箭知識 | ArcherySharing.com](https://archerysharing.wordpress.com/%e5%b0%84%e7%ae%ad%e7%9f%a5%e8%ad%98/)
 [複合弓與反曲弓的優劣對比 - 每日頭條](https://kknews.cc/zh-hk/sports/p8pvvo2.html)
 [【不止遊戲】遊戲和電影中的「直拉弓」「反曲弓」「複合弓」到底是怎麼區分的？ - YouTube](https://www.youtube.com/watch?v=oAPIuKJMSYs)
@@ -206,14 +206,14 @@ A stone age tool that predates bow and arrow
 [JoergSprave - YouTube](https://www.youtube.com/user/JoergSprave) Slingshot Channel, all things powered by rubber
 
 [MIDIEVAL WEAPONS AND COMBAT - The Longbow (MIDDLE AGES BATTLE HISTORY DOCUMENTARY) - YouTube](https://www.youtube.com/watch?time_continue=3&v=5tuJvei2Uw8)
-[英格蘭長弓：英法百年戰爭的傳奇｜香港 01 ｜武備志](https://www.hk01.com/%E6%AD%A6%E5%82%99%E5%BF%97/260253/%E8%8B%B1%E6%A0%BC%E8%98%AD%E9%95%B7%E5%BC%93-%E8%8B%B1%E6%B3%95%E7%99%BE%E5%B9%B4%E6%88%B0%E7%88%AD%E7%9A%84%E5%82%B3%E5%A5%87)
-[上長下短的巨弓——和弓｜香港 01 ｜武備志](https://www.hk01.com/%E6%AD%A6%E5%82%99%E5%BF%97/138739/%E4%B8%8A%E9%95%B7%E4%B8%8B%E7%9F%AD%E7%9A%84%E5%B7%A8%E5%BC%93-%E5%92%8C%E5%BC%93)
+[【英格蘭長弓】重挫法國軍隊的弓箭傳說　威力足以穿透金屬板甲｜香港 01 ｜武備志](https://www.hk01.com/%E6%AD%A6%E5%82%99%E5%BF%97/511395/)
+[上長下短的巨弓——和弓｜香港 01 ｜武備志](https://www.hk01.com/%E6%AD%A6%E5%82%99%E5%BF%97/138739/)
+[遠程角弓——韓國角弓｜香港 01 ｜武備志](https://www.hk01.com/%E6%AD%A6%E5%82%99%E5%BF%97/126563/)
+[為什麼斯基泰騎射手戴弓箭袋方式與別不同？｜香港 01 ｜武備志](https://www.hk01.com/%E6%AD%A6%E5%82%99%E5%BF%97/141744/)
 [關於日本人使弓上下不對稱，有個複雜的說法！ - 每日頭條](https://kknews.cc/news/g83q5m8.html)
-[遠程角弓——韓國角弓｜香港 01 ｜武備志](https://www.hk01.com/%E6%AD%A6%E5%82%99%E5%BF%97/126563/%E9%81%A0%E7%A8%8B%E8%A7%92%E5%BC%93-%E9%9F%93%E5%9C%8B%E8%A7%92%E5%BC%93)
-[為什麼斯基泰騎射手戴弓箭袋方式與別不同？｜香港 01 ｜武備志](https://www.hk01.com/%E6%AD%A6%E5%82%99%E5%BF%97/141744/%E7%82%BA%E4%BB%80%E9%BA%BC%E6%96%AF%E5%9F%BA%E6%B3%B0%E9%A8%8E%E5%B0%84%E6%89%8B%E6%88%B4%E5%BC%93%E7%AE%AD%E8%A2%8B%E6%96%B9%E5%BC%8F%E8%88%87%E5%88%A5%E4%B8%8D%E5%90%8C)
 
 [Archer's paradox - Wikiwand](https://www.wikiwand.com/en/Archer%27s_paradox)
-[箭該放在弓的那一邊？｜香港 01 ｜武備志](https://www.hk01.com/%E6%AD%A6%E5%82%99%E5%BF%97/87800/%E7%AE%AD%E8%A9%B2%E6%94%BE%E5%9C%A8%E5%BC%93%E7%9A%84%E9%82%A3%E4%B8%80%E9%82%8A)
+[箭該放在弓的那一邊？｜香港 01 ｜武備志](https://www.hk01.com/%E6%AD%A6%E5%82%99%E5%BF%97/87800/)
 
 [archhk - YouTube](https://www.youtube.com/user/archhk/feed)
 [[Youtube 筆記] 謝肅方介紹中華射藝 – Toxophilia – Medium](https://medium.com/toxophilia/youtube-%E7%AD%86%E8%A8%98-%E8%AC%9D%E8%82%85%E6%96%B9%E4%BB%8B%E7%B4%B9%E4%B8%AD%E8%8F%AF%E5%B0%84%E8%97%9D-dc520b7f7863)

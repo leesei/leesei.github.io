@@ -47,7 +47,7 @@ WebXR includes AR, obsoletes WebVR spec
 
 [TojiCode: Oculus Rift and HTC Vive review](http://blog.tojicode.com/2016/04/oculus-rift-and-htc-vive-review.html)
 
-[#AltDevBlog » Latency Mitigation Strategies](https://web.archive.org/web/20140719085135/http://www.altdev.co/2013/02/22/latency-mitigation-strategies/) !important
+[AltDevBlog » Latency Mitigation Strategies](https://web.archive.org/web/20140719085135/http://www.altdev.co/2013/02/22/latency-mitigation-strategies/) !important
 [networking - Transatlantic ping faster than sending a pixel to the screen? - Super User](http://superuser.com/questions/419070/transatlantic-ping-faster-than-sending-a-pixel-to-the-screen)
 
 [Virtual Reality Oasis - YouTube](https://www.youtube.com/c/VirtualRealityOasis)

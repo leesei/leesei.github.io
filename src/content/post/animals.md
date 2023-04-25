@@ -8,6 +8,13 @@ tags:
   - science
 ---
 
+Bilaterians
+
+- Vertebrates
+  -- Mollusks
+  -- Arthropods
+
+Anthropoids
 [Animal Adventures - YouTube](https://www.youtube.com/channel/UCKE-RaAbPFZPb6UsovQJX1w)
 [Animal Planet - YouTube](https://www.youtube.com/channel/UCkEBDbzLyH-LbB2FgMoSMaQ)
 [Animalogic - YouTube](https://www.youtube.com/c/animalogic)
@@ -66,6 +73,9 @@ raccoon dog/tanuki 狸貓; raccoon 浣熊
 [Difference Between Alligators and Crocodiles | Compare the Difference Between Similar Terms](https://www.differencebetween.com/difference-between-alligators-and-crocodiles/)
 [Difference Between Caiman and Alligator | Compare the Difference Between Similar Terms](https://www.differencebetween.com/difference-between-caiman-and-alligator/)
 
+Armadillo vs Pangolin
+Stork vs Pelican
+
 ## Hominidae (great apes)
 
 > under the order primates
@@ -94,6 +104,8 @@ Cougar=Puma, Jaguar, Panther, Leopard 金錢豹 美洲豹
 [Caninae - Wikiwand](https://www.wikiwand.com/en/Caninae)
 
 [All 15 Species of Wild Dog (Wolves, Jackals & Dogs) | Canines Pt. 1 - YouTube](https://www.youtube.com/watch?v=qFM92aMtUek)
+
+[從二哈的傳奇故事，到邊牧的超級智商！遠古的狼為何自願變成狗？關於狗的那些真相【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=jG0luF6OA8U)
 
 ## Bovidae (cows)
 
@@ -144,6 +156,10 @@ kangaroo, wombats, Tasmanian devils and koala
 [樹熊 Koala 冷知識 | Move Hub Limited](https://app.move-hub.net/MH-FC-KOALA/index.html)
 
 ## Bees
+
+Bee's colony:
+Man-made hive
+Natural nest
 
 [Is it Cruel to Use Bees as Digital Sensors? - YouTube](https://www.youtube.com/watch?v=lG-ZqO734tM) also pigeon-guided bomb
 
@@ -241,7 +257,7 @@ Arms, like those on an octopus, have suction cups the entire length of the limb.
 
 ## (Sharks)
 
-軟骨鲁
+軟骨魚
 鮫: 全頭亞綱
 鯊: 板鰓亞綱
 
@@ -253,6 +269,8 @@ Arms, like those on an octopus, have suction cups the entire length of the limb.
 [150 歲才性成熟，壽命超過 500 歲！格陵蘭鯊的長壽秘訣，給人類帶來怎麼樣的啟示？【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=wEbHcDihQWI)
 
 ## Batoidea (rays)
+
+Saw fish are rays
 
 Batoidea (rays) 鰩總目 有"大翅膀"
 [我領養了一隻被鯊魚咬傷的魔鬼魚，名字叫「巨人喬治」。保護蝠鲼，人人有責！【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=VhVWZWDCre4) 鱝科 蝠鱝 魔鬼魚 Mobulas/Mantas, 大, 胸鰭更像翅膀

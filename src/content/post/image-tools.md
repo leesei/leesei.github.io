@@ -90,8 +90,8 @@ convert image.jpg ...  -append output.jpg
 
 ### creating image
 
-http://www.imagemagick.org/Usage/canvas/#random
-http://www.imagemagick.org/Usage/canvas/#tile
+[Canvas Creation: Random -- IM v6 Examples](https://legacy.imagemagick.org/Usage/canvas/#random)
+[Canvas Creation: Tile -- IM v6 Examples](https://legacy.imagemagick.org/Usage/canvas/#tile)
 
 ```sh
 # solid color image
@@ -150,3 +150,29 @@ convert -list colorspace
 convert flower_original.jpeg -colorspace Gray greyscale_flower.jpeg
 convert flower_original.jpeg -negate flower_negative.jpeg
 ```
+
+## Photon
+
+[Photon: A WebAssembly Image Processing Library](https://silvia-odwyer.github.io/photon/)
+
+## Node.js
+
+[sharp - High performance Node.js image processing](https://sharp.pixelplumbing.com/) is VIPS's Node binding
+[lovell/sharp: High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.](https://github.com/lovell/sharp)
+[How To Process Images in Node.js with Sharp | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-process-images-in-node-js-with-sharp)
+
+[jimp-dev/jimp: An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.](https://github.com/jimp-dev/jimp)
+
+## Python
+
+[Wand documentation](http://docs.wand-py.org/en/latest/index.html#)
+[ImageMagick/PythonMagick: PythonMagick](https://github.com/ImageMagick/PythonMagick)
+[python - Documents and examples of PythonMagick - Stack Overflow](http://stackoverflow.com/questions/1740158/documents-and-examples-of-pythonmagick/5188661#5188661)
+
+[Python Imaging Library (PIL)](http://www.pythonware.com/products/pil/)
+[Pillow — Pillow (PIL Fork) documentation](http://pillow.readthedocs.io/en/latest/)
+`python-image` of most distro points to `pillow`
+[Image Module — Pillow (PIL Fork) documentation](https://pillow.readthedocs.io/en/stable/reference/Image.html)
+[Concepts — Pillow (PIL Fork) documentation](https://pillow.readthedocs.io/en/stable/handbook/concepts.html)
+
+[Imageio website](https://imageio.github.io/)

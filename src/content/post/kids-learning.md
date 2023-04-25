@@ -13,10 +13,10 @@ tags:
 [親子口腔護理樂園 - 六歲以下兒童的家長 - 照顧寶寶口腔 - 0 至 6 歲幼兒清潔口腔的方法](http://www.toothclub.gov.hk/chi/pnc/pnc_2_1_1_2.html)
 
 [荔枝與孖寶](http://laichimama.blogspot.com/)
-[【學習金字塔】如何讓孩子牢記所學知識？｜ Miss Duscha ｜香港 01 ｜親子](https://www.hk01.com/%E8%A6%AA%E5%AD%90/359429/%E5%AD%B8%E7%BF%92%E9%87%91%E5%AD%97%E5%A1%94-%E5%A6%82%E4%BD%95%E8%AE%93%E5%AD%A9%E5%AD%90%E7%89%A2%E8%A8%98%E6%89%80%E5%AD%B8%E7%9F%A5%E8%AD%98-miss-duscha)
-[問問題有技巧　不要再只停留「甚麼」和「為什麼」｜ Miss Duscha ｜香港 01 ｜親子](https://www.hk01.com/%E8%A6%AA%E5%AD%90/362912/%E5%95%8F%E5%95%8F%E9%A1%8C%E6%9C%89%E6%8A%80%E5%B7%A7-%E4%B8%8D%E8%A6%81%E5%86%8D%E5%8F%AA%E5%81%9C%E7%95%99-%E7%94%9A%E9%BA%BC-%E5%92%8C-%E7%82%BA%E4%BB%80%E9%BA%BC-miss-duscha)
-[【爸爸媽咪唔易做】學習冷靜四部曲　處理孩子情緒 │H.Y 老師｜香港 01 ｜親子](https://www.hk01.com/%E8%A6%AA%E5%AD%90/357596/%E7%88%B8%E7%88%B8%E5%AA%BD%E5%92%AA%E5%94%94%E6%98%93%E5%81%9A-%E5%AD%B8%E7%BF%92%E5%86%B7%E9%9D%9C%E5%9B%9B%E9%83%A8%E6%9B%B2-%E8%99%95%E7%90%86%E5%AD%A9%E5%AD%90%E6%83%85%E7%B7%92-h-y%E8%80%81%E5%B8%AB)
-[【爸爸媽咪唔易做】小朋友也可以選擇「冷靜」的方法 │H.Y 老師｜香港 01 ｜親子](https://www.hk01.com/%E8%A6%AA%E5%AD%90/354893/%E7%88%B8%E7%88%B8%E5%AA%BD%E5%92%AA%E5%94%94%E6%98%93%E5%81%9A-%E5%B0%8F%E6%9C%8B%E5%8F%8B%E4%B9%9F%E5%8F%AF%E4%BB%A5%E9%81%B8%E6%93%87-%E5%86%B7%E9%9D%9C-%E7%9A%84%E6%96%B9%E6%B3%95-h-y%E8%80%81%E5%B8%AB)
+[【學習金字塔】如何讓孩子牢記所學知識？｜ Miss Duscha ｜香港 01 ｜親子](https://www.hk01.com/%E8%A6%AA%E5%AD%90/359429/)
+[問問題有技巧　不要再只停留「甚麼」和「為什麼」｜ Miss Duscha ｜香港 01 ｜親子](https://www.hk01.com/%E8%A6%AA%E5%AD%90/362912/)
+[【爸爸媽咪唔易做】學習冷靜四部曲　處理孩子情緒 │H.Y 老師｜香港 01 ｜親子](https://www.hk01.com/%E8%A6%AA%E5%AD%90/357596/)
+[【爸爸媽咪唔易做】小朋友也可以選擇「冷靜」的方法 │H.Y 老師｜香港 01 ｜親子](https://www.hk01.com/%E8%A6%AA%E5%AD%90/354893/)
 [I talked to 70 parents who raised highly successful adults—here are 4 things they refused to do with their kids](https://www.cnbc.com/2022/07/09/i-talked-to-70-parents-who-raised-highly-successful-adults-here-is-what-they-did-differently.html)
 
 [Worksheets](https://www.worksheetplace.com/)
@@ -58,6 +58,7 @@ tags:
 [瞳心 Eunice - YouTube](https://www.youtube.com/user/eunicewyf)
 [Peekaboo Kidz - YouTube](https://www.youtube.com/user/Peekaboo) Dr. Binocs  
 [Explained With LEGO Bricks | Homeschool with LEGO Lessons - YouTube](https://www.youtube.com/playlist?list=PLRNbTEZ7dhL0LMDtir9pIgT89718ghah3)
+[Super Simple Learning - YouTube](https://www.youtube.com/user/supersimplelearning)
 
 ## 德育
 
@@ -285,8 +286,8 @@ synthetic phonics
 [Free eBook library | Oxford Owl from Oxford University Press](https://www.oxfordowl.co.uk/for-home/find-a-book/library-page)
 [Language Worksheets](https://www.worksheetplace.com/index.php?function=DisplayCategory&showCategory=Y&links=1&id=43&link1=43)
 [English Created Resources](https://www.nortechplus.com/)
-[【小朋友學英文】網上免費教材　拼圖卡紙學發音生字｜香港 01 ｜親子](https://www.hk01.com/%E8%A6%AA%E5%AD%90/176302/%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%AD%B8%E8%8B%B1%E6%96%87-%E7%B6%B2%E4%B8%8A%E5%85%8D%E8%B2%BB%E6%95%99%E6%9D%90-%E6%8B%BC%E5%9C%96%E5%8D%A1%E7%B4%99%E5%AD%B8%E7%99%BC%E9%9F%B3%E7%94%9F%E5%AD%97)
-[【學 ABC】D for dog 已 out？　 26 張圖睇晒現今小朋友學啲咩｜香港 01 ｜熱爆話題](https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/305869/%E5%AD%B8abc-d-for-dog%E5%B7%B2out-26%E5%BC%B5%E5%9C%96%E7%9D%87%E6%99%92%E7%8F%BE%E4%BB%8A%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%AD%B8%E5%95%B2%E5%92%A9#media_id=2548090)
+[【小朋友學英文】網上免費教材　拼圖卡紙學發音生字｜香港 01 ｜親子](https://www.hk01.com/%E8%A6%AA%E5%AD%90/176302/)
+[【學 ABC】D for dog 已 out？　 26 張圖睇晒現今小朋友學啲咩｜香港 01 ｜熱爆話題](https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/305869/)
 [The Count Censored (ORIGINAL) - YouTube](https://www.youtube.com/watch?v=6AXPnH0C9UA)
 
 [英文洗腦兒歌排行榜: 學好英文 一字既之曰：LOOP - Mami 親子日常｜ PressLogic](http://mami.presslogic.com/2017/11/27/article/5095/)
@@ -339,7 +340,7 @@ synthetic phonics
 [Re-Learning Math with Scott Flansburg, the Human Calculator (Part 1) - YouTube](httpsx://www.youtube.com/watch?v=hesKQ_y1P7k)
 [Re-Learning Math with Scott Flansburg, the Human Calculator (Part 2) - YouTube](https://www.youtube.com/watch?v=rtB93yzgedc)
 
-[【溫數學】免費初小溫習工作紙　運算、圖形、度量衡及統計圖｜香港 01 ｜親子](https://www.hk01.com/%E8%A6%AA%E5%AD%90/390481/%E6%BA%AB%E6%95%B8%E5%AD%B8-%E5%85%8D%E8%B2%BB%E5%88%9D%E5%B0%8F%E6%BA%AB%E7%BF%92%E5%B7%A5%E4%BD%9C%E7%B4%99-%E9%81%8B%E7%AE%97-%E5%9C%96%E5%BD%A2-%E5%BA%A6%E9%87%8F%E8%A1%A1%E5%8F%8A%E7%B5%B1%E8%A8%88%E5%9C%96)
+[【溫數學】免費初小溫習工作紙　運算、圖形、度量衡及統計圖｜香港 01 ｜親子](https://www.hk01.com/%E8%A6%AA%E5%AD%90/390481/)
 [自製數學工作紙](https://www.facebook.com/107792393977946/posts/215059739917877/)
 
 [Free Online Graph Paper / Asymmetric and Specialty Grid Paper PDFs](https://incompetech.com/graphpaper/)
@@ -352,8 +353,8 @@ synthetic phonics
 [Let Grow - Future-proofing Our Kids and Our Country](https://letgrow.org/)
 [FreeRangeKids | Give Our Kids the Freedom We Had](https://freerangekids.wordpress.com/)
 
-[【輕鬆做功課 1】擺脫做「伴讀書僮」　正向面對孩子改正問題｜香港 01 ｜親子](https://www.hk01.com/%E8%A6%AA%E5%AD%90/245246/%E8%BC%95%E9%AC%86%E5%81%9A%E5%8A%9F%E8%AA%B21-%E6%93%BA%E8%84%AB%E5%81%9A-%E4%BC%B4%E8%AE%80%E6%9B%B8%E5%83%AE-%E6%AD%A3%E5%90%91%E9%9D%A2%E5%B0%8D%E5%AD%A9%E5%AD%90%E6%94%B9%E6%AD%A3%E5%95%8F%E9%A1%8C)
-[【輕鬆做功課 2】幫助緩慢「樹懶型」小孩　正向面對默書測驗｜香港 01 ｜親子](https://www.hk01.com/%E8%A6%AA%E5%AD%90/247702/%E8%BC%95%E9%AC%86%E5%81%9A%E5%8A%9F%E8%AA%B22-%E5%B9%AB%E5%8A%A9%E7%B7%A9%E6%85%A2-%E6%A8%B9%E6%87%B6%E5%9E%8B-%E5%B0%8F%E5%AD%A9-%E6%AD%A3%E5%90%91%E9%9D%A2%E5%B0%8D%E9%BB%98%E6%9B%B8%E6%B8%AC%E9%A9%97)
+[【輕鬆做功課 1】擺脫做「伴讀書僮」　正向面對孩子改正問題｜香港 01 ｜親子](https://www.hk01.com/%E8%A6%AA%E5%AD%90/245246/)
+[【輕鬆做功課 2】幫助緩慢「樹懶型」小孩　正向面對默書測驗｜香港 01 ｜親子](https://www.hk01.com/%E8%A6%AA%E5%AD%90/247702/)
 
 [煤氣燈效應：極端腦控技術，就在你的身邊，PUA 是一種心理武器，它的殺傷力和隱蔽性，可能超出你的想象……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=GV7z8kguY90)
 
@@ -412,7 +413,7 @@ modeling by rod which popped up when pivoted on the surface
 ## Kindergarden
 
 [升學天地 全方位升學資訊平台](https://www.schooland.hk/)
-[【爸爸媽咪唔易做】善用剔除法　減少選校的煩惱 │H.Y 老師｜香港 01 ｜親子](https://www.hk01.com/%E8%A6%AA%E5%AD%90/320882/%E7%88%B8%E7%88%B8%E5%AA%BD%E5%92%AA%E5%94%94%E6%98%93%E5%81%9A-%E5%96%84%E7%94%A8%E5%89%94%E9%99%A4%E6%B3%95-%E6%B8%9B%E5%B0%91%E9%81%B8%E6%A0%A1%E7%9A%84%E7%85%A9%E6%83%B1-h-y%E8%80%81%E5%B8%AB)
+[【爸爸媽咪唔易做】善用剔除法　減少選校的煩惱 │H.Y 老師｜香港 01 ｜親子](https://www.hk01.com/%E8%A6%AA%E5%AD%90/320882/)
 
 [國際英文幼稚園(羅福道) St. Catherine's International Kindergarten](https://www.schooland.hk/kg/catherine2)
 [BabeBaMa(寶貝爸媽) [幼稚園/小學入學資訊;親子活動行事曆;產前講座大全] - Posts](https://www.facebook.com/323739367713362/posts/2564213116999298?s=1119288799)

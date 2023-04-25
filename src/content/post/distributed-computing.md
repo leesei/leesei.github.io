@@ -38,8 +38,11 @@ tags:
 A split brain is what happens when you have multiple autonomous sub-clusters forming, and more than one believe they're the "master". This can cause irreconcilable changes and data loss.
 
 [Building Your Own Consensus | Hackaday](https://hackaday.com/2022/11/30/building-your-own-consensus/)
+[Episode 377: Heidi Howard on Distributed Consensus : Software Engineering Radio](https://www.se-radio.net/2019/08/episode-377-heidi-howard-on-distributed-consensus/)
 [分布式系统的事务处理 | | 酷 壳 - CoolShell](https://coolshell.cn/articles/10910.html)
 [Paxos (computer science) - Wikiwand](<https://www.wikiwand.com/en/Paxos_(computer_science)>)
+[Paxos Made Live - An Engineering Perspective (2006 Invited Talk) – Google Research](https://research.google/pubs/pub33002/)
+[Paxos Made Moderately Complex](http://www.cs.cornell.edu/courses/cs7412/2011sp/paxos.pdf)
 
 [Raft Consensus Algorithm](https://raft.github.io/)
 [Raft (computer science) - Wikiwand](<http://www.wikiwand.com/en/Raft_(computer_science)>)

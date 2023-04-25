@@ -13,6 +13,7 @@ tags:
 
 [DDR Memories Comparison and Overview|NXP](http://www.nxp.com/pages/ddr-memories-comparison-and-overview:784_LPBB_DDR)
 [Everything You Need To Know About DDR, DDR2 and DDR3 Memories - Hardware Secrets](http://www.hardwaresecrets.com/everything-you-need-to-know-about-ddr-ddr2-and-ddr3-memories/)
+[Laptop DDR4 caveats - x8 layout versus x16 versus single and dual channel](https://rk.edu.pl/en/laptop-ddr4-caveats-x8-layout-versus-x16-versus-single-and-dual-channel/) channels, x8 and x16 layout
 
 ## Timing/Latency
 

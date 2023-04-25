@@ -450,11 +450,20 @@ EKS control plane is \$0.2/hr + EC2 instances in cluster
 
 ## Load Balancers
 
-[New Network Load Balancer – Effortless Scaling to Millions of Requests per Second | AWS News Blog](https://aws.amazon.com/blogs/aws/new-network-load-balancer-effortless-scaling-to-millions-of-requests-per-second/) NLB
+[Load Balancer - Amazon Elastic Load Balancer (ELB) - AWS](https://aws.amazon.com/elasticloadbalancing/)
+[Network Traffic Distribution – Elastic Load Balancing – Amazon Web Services](https://aws.amazon.com/elasticloadbalancing/features/) features comparison
 
-[New – AWS Application Load Balancer | AWS News Blog](https://aws.amazon.com/blogs/aws/new-aws-application-load-balancer/) ALB
+[Network Load Balancer | Elastic Load Balancing | Amazon Web Services](https://aws.amazon.com/elasticloadbalancing/network-load-balancer/) NLB, recommended
+[New Network Load Balancer – Effortless Scaling to Millions of Requests per Second | AWS News Blog](https://aws.amazon.com/blogs/aws/new-network-load-balancer-effortless-scaling-to-millions-of-requests-per-second/)
 
-[AWS | Elastic Load Balancing - Cloud Network Load Balancer](https://aws.amazon.com/elasticloadbalancing/)
+[Application Load Balancer | Elastic Load Balancing | Amazon Web Services](https://aws.amazon.com/elasticloadbalancing/application-load-balancer/) ALB
+[New – AWS Application Load Balancer | AWS News Blog](https://aws.amazon.com/blogs/aws/new-aws-application-load-balancer/)
+
+[Classic Load Balancer | Elastic Load Balancing | Amazon Web Services](https://aws.amazon.com/elasticloadbalancing/classic-load-balancer/)
+
+[kubernetes-sigs/aws-load-balancer-controller: A Kubernetes controller for Elastic Load Balancers](https://github.com/kubernetes-sigs/aws-load-balancer-controller)
+K8s pod affinity
+AWS Application Load Balancer(ALB) is a popular and mature service to load balance traffic on the application layer(L7). Both Path-based and Host-based routing rules are supported.
 
 ## CloudFormation
 

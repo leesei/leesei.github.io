@@ -23,7 +23,7 @@ tags:
 
 [Amazon.com Help - Which Kindle E-reader Do I Have?](https://www.amazon.com/gp/help/customer/display.html?nodeId=201263790)
 
-[Kindle Paperwhite 3](https://www.wikiwand.com/en/Amazon_Kindle#/Kindle_Paperwhite_%283rd_generation%29):
+[Kindle Paperwhite 3](<https://www.wikiwand.com/en/Amazon_Kindle#/Kindle_Paperwhite_(3rd_generation)>):
 
 - 7th Generation, 2015
 - 6-inch, 1440×1080, 300 ppi E Ink Carta HD display
@@ -32,7 +32,7 @@ tags:
 - 6.7" x 4.6" x 0.36" (169 mm x 117 mm x 9.1 mm)
   \$770@201604
 
-[Kindle Paperwhite 4](https://www.wikiwand.com/en/Amazon_Kindle#/Kindle_Paperwhite_%284rd_generation%29)
+[Kindle Paperwhite 4](<https://www.wikiwand.com/en/Amazon_Kindle#/Kindle_Paperwhite_(4rd_generation)>)
 
 - 10th Generation, 2018
 - 6-inch, 1440×1080, 300 ppi E Ink Carta HD display
@@ -155,7 +155,7 @@ pandoc -f gfm -t html5 -s ${FIN} -o ${FIN%.*}.pdf
 
 ## Converting Website
 
-> see `http-agents.md#wget`
+[[http-agents#wget]]
 
 ```sh
 # use `ebook-convert` from Calibre to convert static site to ebook
@@ -216,7 +216,7 @@ make docs
 killercup's [killercup/trpl-ebook](https://github.com/killercup/trpl-ebook) project converts Rust docs to HTML (hence eBook) with `pandoc`. OBSOLETE!
 The upstream code have some issue in headings so [patch](https://github.com/rust-lang/rust/issues/20866) is needed when generating ebook.
 
-> see `rust.md#books`
+[[rust#Books]]
 
 Save as HTML with some hacks:  
 https://github.com/rust-lang/rust/issues/20866#issuecomment-495962961

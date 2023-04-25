@@ -55,7 +55,7 @@ tags:
 
 [Tour Builder | Build Mobile Walking Tours - PocketSights](https://pocketsights.com/)
 
-[#MM ｜挑戰做電車車長揸「叮叮」直擊屈地街製造電車過程 越級挑戰 120 號古董電車控制台 獨家闖入 888 車長飯堂 報到室睇百年電車用具 任職 30 年「電車狄龍」憶 90 年代邊食飯邊揸車｜#試一次【4K】 - YouTube](https://www.youtube.com/watch?v=OxJFbNi5TNQ)
+[MM ｜挑戰做電車車長揸「叮叮」直擊屈地街製造電車過程 越級挑戰 120 號古董電車控制台 獨家闖入 888 車長飯堂 報到室睇百年電車用具 任職 30 年「電車狄龍」憶 90 年代邊食飯邊揸車 - YouTube](https://www.youtube.com/watch?v=OxJFbNi5TNQ)
 
 ## 蒲
 
@@ -123,24 +123,3 @@ tags:
 
 [香港餐廳指南 – 飲食資訊 | OpenRice 香港開飯喇](http://www.openrice.com/zh/hongkong)
 [KC 賞味隨筆](http://gourmetkc.blogspot.hk/)
-
----
-
-# Travelling
-
-## 日本
-
-[日本自由行必備 6 款超實用 APP 　交通 Wifi 購物翻譯行程規劃不再煩惱](https://www.hk01.com/%E6%97%85%E9%81%8A/825453/%E6%97%A5%E6%9C%AC%E8%87%AA%E7%94%B1%E8%A1%8C%E5%BF%85%E5%82%996%E6%AC%BE%E8%B6%85%E5%AF%A6%E7%94%A8app-%E4%BA%A4%E9%80%9Awifi%E8%B3%BC%E7%89%A9%E7%BF%BB%E8%AD%AF%E8%A1%8C%E7%A8%8B%E8%A6%8F%E5%8A%83%E4%B8%8D%E5%86%8D%E7%85%A9%E6%83%B1)
-
-## 大陸
-
-多謝你嘅回覆，以下係你要嘅香港開大陸戶口教學！
-<https://bit.ly/2vhR8Mp>
-
-萬象天地美食一日遊推介
-⇨bit.ly/2XEVxVF
-
-深圳最新玩樂美食好去處
-⇨bit.ly/2Ps9oMn
-⇨ 跟地鐵線去深圳玩
-goo.gl/Qexf2y

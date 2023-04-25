@@ -9,6 +9,13 @@ tags:
 
 # PHP Packages
 
+## Standard Library and Extensions
+
+[PHP: Function Reference - Manual](https://www.php.net/manual/en/funcref.php)
+[PHP: Other Basic Extensions - Manual](https://www.php.net/manual/en/refs.basic.other.php)
+
+[PHP: SPL - Manual](https://www.php.net/book.spl) Standard PHP Library
+
 ## Async/Concurrency
 
 [Asynchronous Multitasking PHP | AMPHP](https://amphp.org/)

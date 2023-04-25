@@ -3,8 +3,8 @@ title: DevOps
 description: ""
 created: 2016-02-17
 tags:
-  - devops
   - dev/deploy
+  - devops
 ---
 
 [DevOps - Wikiwand](http://www.wikiwand.com/en/DevOps)
@@ -25,7 +25,7 @@ tags:
 [[ci-cd]]
 
 > devops topics includes: CI/CD, deployment
-> should this be `sysadmin.md`? IT operations = system administrators
+> should this be [[sysadmin]]? IT operations = system administrators
 > being late to this game, the solutions I consider should be able to handle containers
 
 [WTF Is DevOps? | devo.ps](http://devo.ps/blog/wtf-is-devops/)
@@ -88,7 +88,6 @@ tags:
 [High Velocity Ops](https://hvops.com/)
 
 [World's #1 Digital Cloud Certification Course & Training Provider - A Cloud Guru](https://acloudguru.com/) Merged with Linux Academy
-[Linux Training](https://linuxacademy.com/) non-free, search for free course with equivalent syllabus
 [Adrian Cockcroft's Blog: Ops, DevOps and PaaS (NoOps) at Netflix](http://perfcap.blogspot.hk/2012/03/ops-devops-and-noops-at-netflix.html)
 
 [OneOps | Home](http://oneops.com/) by Walmart
@@ -141,7 +140,7 @@ Takes app and deploy to machine
 [DevOps for University Students — DevOps for University Students 2014.02.19 documentation](http://lancealbertson.com/slides/devopsbootcamp-scale12x/)
 [Docker And Kubernetes: Furthering The Goals Of DevOps Automation](https://www.forbes.com/sites/forbestechcouncil/2018/10/10/docker-and-kubernetes-furthering-the-goals-of-devops-automation/amp/)
 
-[#CONF: Open Source Infrastructure - YouTube](https://www.youtube.com/playlist?list=PLDVc2EaAVPg-HLaFRHB4awByrtbkjBdV4)
+[CONF: Open Source Infrastructure - YouTube](https://www.youtube.com/playlist?list=PLDVc2EaAVPg-HLaFRHB4awByrtbkjBdV4)
 [Cluster Management at Google - YouTube](https://www.youtube.com/watch?v=VQAAkO5B5Hg)
 
 [Ubuntu Server Guide | Ubuntu](https://ubuntu.com/server/docs)
@@ -424,7 +423,7 @@ Etcd > Zookeeper
 
 ### Consul
 
-> see `hashicorp.md#consul`
+[[hashicorp#Consul]]
 
 ### SkyDNS/CoreDNS
 
@@ -587,6 +586,9 @@ One way is to persistent log to `fluentd` for 2 weeks and then store them in Ela
 [List of All Plugins | Fluentd](https://www.fluentd.org/plugins/all)
 [Fluentd: Unified Logging Layer](https://github.com/fluent)
 
+[Parseable | Parseable](https://www.parseable.io/)
+[Rust-Powered Log Observability at Scale - YouTube](https://www.youtube.com/watch?v=2Eg_Keqt1I0)
+
 [9 Splunk alternatives for log analysis | InfoWorld](https://www.infoworld.com/article/3063614/analytics/9-splunk-alternatives-for-log-analysis.html)
 
 [SIEM, AIOps, Application Management, Log Management, Machine Learning, and Compliance | Splunk](https://www.splunk.com/)
@@ -597,15 +599,21 @@ One way is to persistent log to `fluentd` for 2 weeks and then store them in Ela
 [Open Source: Declarative Tracking for React Apps | by Jeremy Gayed | NYT Open](https://open.nytimes.com/introducing-react-tracking-declarative-tracking-for-react-apps-2c76706bb79a?gi=bcb81208841f)
 [nytimes/react-tracking: 🎯 Declarative tracking for React apps.](https://github.com/NYTimes/react-tracking)
 [react-tracking: Declarative tracking for React apps - LogRocket Blog](https://blog.logrocket.com/react-tracking-declarative-tracking-react-apps/)
+[react-tracking: Declarative tracking for React apps - LogRocket Blog](https://blog.logrocket.com/react-tracking-declarative-tracking-react-apps/)
 
 [Graylog Log Management » ADMIN Magazine](http://www.admin-magazine.com/Articles/Installing-and-operating-the-Graylog-SIEM-solution)
 
 [Faster logging with SLF4J | What is coming to myhead](https://whatiscomingtomyhead.wordpress.com/2010/12/03/faster-logging-with-slf4j/)
 [SLF4J](http://www.slf4j.org/)
 
+#### Logflare
+
+[Introduction | Logflare Docs](https://docs.logflare.app/)
+[Supabase Logs: open source logging server](https://supabase.com/blog/supabase-logs-self-hosted)
+
 #### Loki
 
-[Loki. Prometheus-inspired logging for cloud natives. | Grafana Labs](https://grafana.com/loki)
+[Loki. Prometheus-inspired logging for cloud natives. | Grafana Labs](https://grafana.com/loki) Grafana Labs' take on Logstash
 [grafana/loki: Like Prometheus, but for logs.](https://github.com/grafana/loki)
 
 [Meet Grafana LOKI, a Log Aggregation System for Everything | Techno Tim Documentation](https://docs.technotim.live/posts/grafana-loki/)
@@ -618,8 +626,10 @@ One way is to persistent log to `fluentd` for 2 weeks and then store them in Ela
 ### Graphite
 
 Graphite is a dashboard for single metric time series. It acts as the "sink" of metrics from a wild range of system monitors.
+Grafana is a modern implementation of Graphite.
 
 [Graphite Documentation — Graphite documentation](http://graphite.readthedocs.io/en/latest/)
+[graphite-project/graphite-web: A highly scalable real-time graphing system](https://github.com/graphite-project/graphite-web)
 [hw-cookbooks/graphite: Heavy Water Graphite Cookbook for Chef](https://github.com/hw-cookbooks/graphite)
 
 [Diamond](https://diamond.readthedocs.io/en/latest/) daemon that collects system metrics and publishes them to Graphite
@@ -629,8 +639,10 @@ Graphite is a dashboard for single metric time series. It acts as the "sink" of 
 
 [Grafana - Beautiful Metrics, Analytics, dashboards and monitoring!](http://grafana.org/)
 [grafana/grafana: Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB](https://github.com/grafana/grafana)
-[How to Setup InfluxDB, Telegraf and Grafana on Docker: Part 1 – The New Stack](https://thenewstack.io/how-to-setup-influxdb-telegraf-and-grafana-on-docker-part-1/)
+[How to Setup InfluxDB, Telegraf and Grafana on Docker: Part 1 – The New Stack](https://thenewstack.io/how-to-setup-influxdb-telegraf-and-grafana-on-docker-part-1/) 2019-10
 [Will Grafana Become Easier to Use in 2022? – The New Stack](https://thenewstack.io/will-grafana-become-easier-to-use-in-2022/)
+
+[Grafana vs. Kibana: The Key Differences to Know | Logz.io](https://logz.io/blog/grafana-vs-kibana/)
 
 ### Prometheus
 

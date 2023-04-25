@@ -2,8 +2,9 @@
 title: Web Deployment
 description: ""
 created: 2016-02-05
-updated: 2023-03-20
+updated: 2023-04-17
 tags:
+  - dev/deploy
   - web
   - web/deploy
 ---
@@ -35,34 +36,35 @@ tags:
 
 [TinyWeb Server on Windows](https://ccm.net/faq/2568-tinyweb-server-on-windows)
 
-## Benchmarking
+## Load Testing
+
+[Load Testing: An Unorthodox Guide](https://www.marcobehler.com/guides/load-testing)
+
+[Locust - A modern load testing framework](https://locust.io/) Python
+[fcsonline/drill: Drill is an HTTP load testing application written in Rust](https://github.com/fcsonline/drill)
+[codesenberg/bombardier: Fast cross-platform HTTP benchmarking tool written in Go](https://github.com/codesenberg/bombardier)
+[h2load - HTTP/2 benchmarking tool - HOW-TO — nghttp2 documentation](https://nghttp2.org/documentation/h2load-howto.html)
+[mcollina/autocannon: fast HTTP/1.1 benchmarking tool written in Node.js](https://github.com/mcollina/autocannon)
+
+[k6.io - Performance testing for developers, like unit-testing, for performance](https://k6.io/)
+[grafana/k6: A modern load testing tool, using Go and JavaScript - https://k6.io](https://github.com/grafana/k6)
+
+[SmokePing - About SmokePing](http://oss.oetiker.ch/smokeping/index.en.html) deluxe latency measurement tool
+[Smokeping on Nginx](http://tomoconnor.eu/blogish/smokeping-nginx/)
 
 [ab - Apache HTTP server benchmarking tool - Apache HTTP Server](https://httpd.apache.org/docs/current/programs/ab.html)
 Use `ab -k` (keepalive) to avoid testing connections (kernel responsibility)
 [Simultaneously benchmark many URLs with ApacheBench and GNU parallel · Simon Holywell](https://www.simonholywell.com/post/2015/06/parallel-benchmark-many-urls-with-apachebench/)
 
-[brianfrankcooper/YCSB: Yahoo! Cloud Serving Benchmark](https://github.com/brianfrankcooper/YCSB)
-
-[wg/wrk: Modern HTTP benchmarking tool](https://github.com/wg/wrk)
-[giltene/wrk2: A constant throughput, correct latency recording variant of wrk](https://github.com/giltene/wrk2)
-[rakyll/hey: HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom](https://github.com/rakyll/hey)
-[fcsonline/drill: Drill is an HTTP load testing application written in Rust](https://github.com/fcsonline/drill)
-
-[k6.io - Performance testing for developers, like unit-testing, for performance](https://k6.io/)
-
-[Siege Home](https://www.joedog.org/siege-home/)
-
-[Locust - A modern load testing framework](https://locust.io/) in Python
-
-[mcollina/autocannon: fast HTTP/1.1 benchmarking tool written in Node.js](https://github.com/mcollina/autocannon)
-[alexfernandez/loadtest: Runs a load test on the selected URL. Easy to extend minimally for your own ends.](https://github.com/alexfernandez/loadtest)
-
-[SmokePing - About SmokePing](http://oss.oetiker.ch/smokeping/index.en.html)
-[Smokeping on Nginx](http://tomoconnor.eu/blogish/smokeping-nginx/#.VvbNZGF96_5)
+[alexfernandez/loadtest: Runs a load test on the selected URL. Easy to extend minimally for your own ends.](https://github.com/alexfernandez/loadtest) Node.js
+[wg/wrk: Modern HTTP benchmarking tool](https://github.com/wg/wrk) inactive
+[giltene/wrk2: A constant throughput, correct latency recording variant of wrk](https://github.com/giltene/wrk2) inactive
+[rakyll/hey: HTTP load generator, ApacheBench (ab) replacement](https://github.com/rakyll/hey) inactive
 
 ### Gatling
 
-[Gatling Open-Source Load Testing - For DevOps and CI/CD](https://gatling.io/)
+[Gatling - Professional Load Testing Tool](https://gatling.io/)
+[gatling/gatling: Modern Load Testing as Code](https://github.com/gatling/gatling)
 [Gatling - Reference](https://gatling.io/docs/gatling/reference/current/)
 [52-technologies-in-2016/10-gatling](https://github.com/shekhargulati/52-technologies-in-2016/blob/master/10-gatling/README.md)
 [Load Testing APIs and Websites with Gatling: It’s Never Too Late to Get Started](https://www.infoq.com/articles/load-testing-apis-gatling/)

@@ -71,6 +71,7 @@ Alkalines leak more frequently.
 
 9V battery typical capacity 400/565 mAh
 
+[一节南孚电池等于几节常规电池？哪种干电池更值得买？ - YouTube](https://www.youtube.com/watch?v=xgfyPCN25eo)
 [实测金霸王，松下，双鹿等电池的放电性能，没想到这个品牌落败了！ - 知乎](https://zhuanlan.zhihu.com/p/48156544) TL;DR: 双鹿绿能量
 [买了半辈子电池，才发现这样买得值：市售 5 号电池大横评 - 知乎](https://zhuanlan.zhihu.com/p/52565927) 白象, 長虹, 松下
 [24 款电池 PK，南孚落败，真正的聚能环是谁？ - 知乎](https://zhuanlan.zhihu.com/p/32761383) 白象, GP, 双鹿
@@ -347,22 +348,23 @@ Apple devices supports PD via C-to-Lightening cable.
 
 [充电头网 – 我们只谈充电](http://www.chongdiantou.com/wp/)
 
-Now that most laptop supports PD charging, we can use PD charger as laptop adapters.
+Now that most laptop supports PD charging, we can use PD charger as laptop adapters. Needs Type-C 45-65W.
 
 Xpower X4WT Travelling $278
 Xpower WC3Q3 QC3, Travelling $278
-Xpower WC3QT QC3, Travelling \$248
-Xpower TX-P365QD-GAN $200?@2021
+Xpower WC3QT QC3, Travelling $248
+Xpower TX-P365QD-GAN, GAN 65W $200?@2021
 USB-C, PPS, PD, 65W, QC4
 USB-C, PD, 18W
 USB-A, QC3
 
-Universal Laptop Adapter:
+[MOMAX UM23 GaN 氮化鎵 100W 4 口快速充電器(國際旅行轉頭)](https://www.agrade.com.hk/products/momax-um23-gan-%E6%B0%AE%E5%8C%96%E9%8E%B5-100w-4%E5%8F%A3%E5%BF%AB%E9%80%9F%E5%85%85%E9%9B%BB%E5%99%A8%E5%9C%8B%E9%9A%9B%E6%97%85%E8%A1%8C%E8%BD%89%E9%A0%AD)
+[ONE PLUG GaN 100W 四輸出快速充電器 UM23AUK – Momax Official](https://www.momax.net/products/um23a)
+Momax UM23UK, GAN, 100W $?@2022
+USB-Ax2, 5V/3A (15W max)
+USB-Cx2, 5V/9V/12V/15V/3A, 20V/5A, 65W+30W (95W max)
 
-Maxtron 15-24V 90W $298
-Cooler Master 19V 90W $218
-
-[Anker | PowerPort Atom III Slim (Four Ports)](https://www.anker.com/products/variant/powerport-atom-iii-slim-four-ports/A2045111) 146g 90x86.5x20mm ¥186@2021-10
+[Anker Anker PowerPort Atom III Slim (Four Port) 桌上充電器 – Anker Hong Kong Official Store](https://ankerhongkong.com/products/anker-anker-powerport-atom-iii-slim-four-port-%E6%A1%8C%E4%B8%8A%E5%85%85%E9%9B%BB%E5%99%A8) 146g 90x86.5x20mm ¥186@2021-10
 [3A1C 多口充，ANKER PowerPort Atom 3 Slim 4 口氮化镓桌面充电器评测（A2045） – 充电头网](http://www.chongdiantou.com/wp/archives/43222.html)
 USB-Ax3, 5V/2.4A, 20W
 USB-C, 5V/2.4A 9V/3A 15V/3A 20V/2.25A, PD 45W
@@ -396,27 +398,14 @@ USB-Ax2, 3.6-6.5V/3A, 6.5V/3A, 9V-12V/1.5A QC3 20W
 USB-C 1, 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/3A PD 60W
 USB-C 2, 5V/3A, 9V/3A, 12V/2.5A, 15V/2A, 20V/1.5A 30W
 
-[XPower DCPD2 75W 2 x PD 3.0 Charger | XPower - Be Your Power](http://www.xpower.com.hk/xpower-dcpd2-75w-2-x-pd-30-charger) XPower 觀廣 \$388
-USB-Ax2, 5V/2.4A 12W
-USB-C 1, 5V/3A, 9V/3A, 12V/3A, 15V/2A PD 30W
-USB-C 2, 3.6V-6V/3A, 6V-9V/2A, 9V-12V/1.5A PD 18W
+## Laptop Adapter
 
-[2 Ports Travel Charger - Accessories](https://www.verbatim.com.hk/accessories/2-ports-travel-charger.html) 76x69x34 mm 171g \$238
-USB-C, 5V/3A, 9V/3A, 12V/3A, 20V/3A PD 60W
-USB-A, 3.6V-6.5V/3A, 6.5V-9V/2A, 9V-12V/1.5A QC 18W
+> prefer USB-C adapter
 
-[4 Ports 75W Hub Charger - Accessories](https://www.verbatim.com.hk/accessories/4-ports-75w-hub-charger.html)
-Verbatim 觀廣 \$288
-USB-C, ?, PD 60W
+Universal Laptop Adapter:
 
-[雜碎開箱：你想點叉佢都得！XPower 充電三寶！ - 科技雜碎](https://www.hktechusers.hk/2018/02/xpower.html)
-[XPower DC4PD Type-C PD 充電器 XP-DC4PD | XPower - Be Your Power](https://www.xpower.com.hk/xpower-dc4pd-type-c-pd%E5%85%85%E9%9B%BB%E5%99%A8) 220g 8 字腳 觀廣 \$298
-USB-Ax1, 3.6V-6V/3A, 6V-9V/2A, 9V-12V/1.5A QC3 18W
-USB-Ax2, 5V/2.4A 12W
-USB-C, 5V\*20V/3A PD 60W
-
-[PD3.0 45W 快充 手机旅行充电器 PD 快充 45W 笔记本电脑手机充电头-淘宝网](https://item.taobao.com/item.htm?id=594925482710) 120g ¥46
-USB-C, 5V/3A, 9V/3A, 12V/3A, 15V/3A, 18V/2.5A, 20V/2.2A PD 45W
+Maxtron 15-24V 90W $298
+Cooler Master 19V 90W $218
 
 ## Power Banks
 

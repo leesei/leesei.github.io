@@ -2,33 +2,80 @@
 title: Router
 description: ""
 created: 2016-04-12
+updated: 2023-04-04
 tags:
   - comp.hardware
 ---
 
-[DD-WRT](http://www.dd-wrt.com/)
-[OpenWRT](http://www.openwrt.org/) [OpenWrt 中文网](http://www.openwrt.org.cn/)
-[[OpenWrt Wiki] Table of Hardware](https://openwrt.org/toh/start) not Broadcom friendly
-[X-Wrt](https://bitsum.com/xwrt.htm/) a set of packages and patches to enhance the end user experience of OpenWrt
-[Gargoyle Router Management Utility](https://www.gargoyle-router.com/) based on OpenWrt
-[LEDE - Linux Embedded Development Environment](https://www.lede-project.org/) OpenWrt fork
+[TechInfoDepot](http://en.techinfodepot.shoutwiki.com/wiki/Main_Page) hardware spec
+
+[9 things to check after installing wireless access points | Computerworld](http://www.computerworld.com/article/3112958/wireless-networking/9-things-to-check-after-installing-wireless-access-points.html)
+
+[What is Microsoft Virtual WiFi Miniport Adapter?](https://helpdeskgeek.com/windows-7/what-is-microsoft-virtual-wifi-miniport-adapter/) using it as access point
+
+## Firmwares
+
 [FreshTomato – Alternative open source firmware for Broadcom based routers](https://freshtomato.org/)
-[[#Merlin]]
 
-[Which one is the best firmware for my wireless router? - YouTube](https://www.youtube.com/watch?v=5Onz9YTCMzY)
-
-[慳成千蚊？！2020 從大陸網購平價又安全的路由器 Router！？ - by Upsangel](https://upsangel.com/router-2/half-price-router-on-taobao-2020/)
-[Wi-Fi6 分享器推薦，讓你網路飛起來的 6 款超狂分享器! | HANK 瘋網路](https://hanknetwork.com/wifi6-router-recommend/)
+[DD-WRT](http://www.dd-wrt.com/) archaic
 
 [Tarifa](http://tarifa.sourceforge.net/) for old WRT54GL router
 [HyperWRT - Wikiwand](https://www.wikiwand.com/en/HyperWRT) for old WRT54GS router
 [Tomato Firmware | polarcloud.com](http://www.polarcloud.com/tomato) for old WRT54GS router, with built-in ad-blocker
 
-[Review: 6 slick open source routers | InfoWorld](http://www.infoworld.com/article/3106865/networking/review-6-slick-open-source-routers.html)
+### OpenWRT
 
-[9 things to check after installing wireless access points | Computerworld](http://www.computerworld.com/article/3112958/wireless-networking/9-things-to-check-after-installing-wireless-access-points.html)
+[[OpenWrt Wiki] Welcome to the OpenWrt Project](https://openwrt.org/)
+[[OpenWrt Wiki] 歡迎來到 OpenWrt 項目](https://openwrt.org/zh-tw/)
+[OpenWrt - Wikiwand](https://www.wikiwand.com/en/OpenWrt)
+[[OpenWrt Wiki] Table of Hardware](https://openwrt.org/toh/start) not Broadcom friendly
 
-[What is Microsoft Virtual WiFi Miniport Adapter?](https://helpdeskgeek.com/windows-7/what-is-microsoft-virtual-wifi-miniport-adapter/) using it as access point
+[X-Wrt - Wikiwand](https://www.wikiwand.com/en/X-Wrt)
+[X-Wrt](https://bitsum.com/xwrt.htm)
+[X-Wrt, for IoT, a custom Distribution for OpenWrt](https://x-wrt.com/)
+a set of packages and patches to enhance the end user experience of OpenWrt
+[x-wrt/x-wrt: This repository is a fork of https://git.openwrt.org/openwrt/openwrt.git](https://github.com/x-wrt/x-wrt)
+
+[Gargoyle Router Management Utility](https://www.gargoyle-router.com/) based on OpenWrt
+
+[LEDE - Linux Embedded Development Environment](https://www.lede-project.org/) OpenWrt fork, merged back to OpenWrt in 2018
+[LEDE - Wikiwand](https://www.wikiwand.com/en/LEDE)
+
+### Merlin
+
+Asus has been using Tomato-RT-based firmware on its routers, Merlin is an improvement of the open source firmware.
+
+[Home | Asuswrt-Merlin](https://www.asuswrt-merlin.net/)
+[RMerl/asuswrt-merlin.ng: Third party firmware for Asus routers (newer codebase)](https://github.com/RMerl/asuswrt-merlin.ng)
+
+[5 Reasons why I prefer ASUSWRT-Merlin to ASUSWRT Firmware [RT-AC68U] - YouTube](https://www.youtube.com/watch?v=XykUML3T2VA)
+[About Asuswrt · RMerl/asuswrt-merlin.ng Wiki](https://github.com/RMerl/asuswrt-merlin.ng/wiki/About-Asuswrt/)
+
+[Xwrt-Vortex](http://xvtx.ru/xwrt/) a third party alternative firmware based on Asuswrt-Merlin project
+
+### Firmware comparison
+
+For Asus router, use [[#Merlin]] if possible
+
+[Which one is the best firmware for my wireless router? - YouTube](https://www.youtube.com/watch?v=5Onz9YTCMzY)
+
+[DD-WRT vs OpenWrt: The Better Router Firmware in 2023?](https://approvedmodems.org/dd-wrt-vs-openwrt/)
+[DD-WRT vs. OpenWrt: Which router firmware should you use? | Windows Central](https://www.windowscentral.com/dd-wrt-vs-openwrt)
+
+## Compile/Cross-compile
+
+[RMerl/am-toolchains: Asuswrt-Merlin toolchains](https://github.com/RMerl/am-toolchains)
+[gnuton/asuswrt-merlin-toolchains-docker - Docker Image | Docker Hub](https://hub.docker.com/r/gnuton/asuswrt-merlin-toolchains-docker)
+`configure` with `--host=armv7-a`
+[Cross-compiling collectd for ASUSWRT « irq5.io](https://irq5.io/2019/05/31/cross-compiling-collectd-for-asuswrt/) 2019
+
+[[OpenWrt Wiki] Creating packages](https://openwrt.org/docs/guide-developer/packages)
+[[OpenWrt Wiki] Using the SDK](https://openwrt.org/docs/guide-developer/toolchain/using_the_sdk)
+[OpenWrt build system – Usage [Old OpenWrt Wiki]](https://oldwiki.archive.openwrt.org/doc/howto/build)
+[Cross Compile [Old OpenWrt Wiki]](https://oldwiki.archive.openwrt.org/doc/devel/crosscompile)
+[Suricata6: initial commit by Grommish · Pull Request #13924 · openwrt/packages](https://github.com/openwrt/packages/pull/13924)
+
+[Spot suspicious activity on your local network with Suricata Intrusion Detection System (IDS) on Raspberry Pi – Juliana Fajardini](https://jufajardini.wordpress.com/2021/02/15/suricata-on-your-raspberry-pi/) native compile
 
 ## Ad-blocking
 
@@ -42,7 +89,7 @@ tags:
 [Configuring the Pi Hole with Asus Routers (Merlin or John's Fork) | Carlos Felicio](https://web.archive.org/web/20201004175701/https://carlosfelic.io/network/configuring-the-pi-hole-with-asus-routers-merlin-or-johns-fork/)
 [Guide for Asuswrt-merlin users with screenshots (forcing all traffic to Pi-hole) : pihole](https://www.reddit.com/r/pihole/comments/dfm5j4/guide_for_asuswrtmerlin_users_with_screenshots/)
 
-## Entware
+## Entware/Opkg
 
 > package manager for softwares/add-ons
 
@@ -52,6 +99,12 @@ tags:
 [Home · Entware/Entware Wiki](https://github.com/Entware/Entware/wiki)
 [Entware · RMerl/asuswrt-merlin.ng Wiki](https://github.com/RMerl/asuswrt-merlin.ng/wiki/Entware)
 [Entware: the ultimate repo for embedded devices - My Cloud OS 5 Personal & Network Attached Storage / Community Developed Apps - WD Community](https://community.wd.com/t/entware-the-ultimate-repo-for-embedded-devices/259909)
+
+[[OpenWrt Wiki] Opkg package manager](https://openwrt.org/docs/guide-user/additional-software/opkg)
+[openwrt/packages: Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md](https://github.com/openwrt/packages)
+
+Repo feed is stored in `/etc/opkg/distfeeds.conf`, `/etc/opkg/customfeeds.conf`.
+Repo cache are located in `/var/opkg-lists/`.
 
 ---
 
@@ -87,24 +140,15 @@ Broadcom BCM6750 3 core@1.5Mhz
 5Ghz 4x4
 USB3 x 1
 
+[ASUS RT-AX58U - TechInfoDepot](http://en.techinfodepot.shoutwiki.com/wiki/ASUS_RT-AX58U)
+[ASUS RT-AX3000 - TechInfoDepot](http://en.techinfodepot.shoutwiki.com/wiki/ASUS_RT-AX3000)
+
 [[Troubleshooting] Firmware update failed | Official Support | ASUS Global](https://www.asus.com/support/FAQ/1030652/)
 
 [ASUS RT-AC68U [BEST WIRELESS ROUTER I've ever had] - YouTube](https://www.youtube.com/watch?v=ahm4hszpSk0&list=PLzCWb3z_t2bIkhbJizvyXiwQGJY0DuYIB)
 
 [WLAN 的常用维护命令\_51CTO 博客\_wlan 配置命令](https://blog.51cto.com/u_11282904/1951987)
 `dis wlan client status`
-
-### Merlin
-
-Asus has been using OpenWRT-based firmware on its routers, Merlin is an improvement of the open source firmware.
-
-[Home | Asuswrt-Merlin](https://www.asuswrt-merlin.net/)
-[RMerl/asuswrt-merlin.ng: Third party firmware for Asus routers (newer codebase)](https://github.com/RMerl/asuswrt-merlin.ng)
-
-[5 Reasons why I prefer ASUSWRT-Merlin to ASUSWRT Firmware [RT-AC68U] - YouTube](https://www.youtube.com/watch?v=XykUML3T2VA)
-[About Asuswrt · RMerl/asuswrt-merlin.ng Wiki](https://github.com/RMerl/asuswrt-merlin.ng/wiki/About-Asuswrt/)
-
-[Xwrt-Vortex](http://xvtx.ru/xwrt/) a third party alternative firmware based on Asuswrt-Merlin project
 
 ## Netgear
 
@@ -123,10 +167,20 @@ TL-WN826N 802.11n USB
 
 AX200 802.11ax M.2
 
+## XiaoMi AX3600
+
+[Xiaomi AIoT Wireless Router AX3600 Review « irq5.io](https://irq5.io/2020/07/13/xiaomi-aiot-wireless-router-ax3600-review/)
+[Custom Firmware for the Xiaomi AX3600 Wireless Router « irq5.io](https://irq5.io/2020/08/10/custom-firmware-for-the-xiaomi-ax3600-wireless-router/)
+
 ## Picks
 
 [12 款 WiFi6 路由器测评，谁是最强王者！【4K】 - YouTube](https://www.youtube.com/watch?v=f6Q1iH6ff8s)
 [【测评】四款入门 WIFI 6 路由器横评 接近 1000 元的差价差距有多大？小米 AX3600 华硕 AX3000 网件 RAX40 TP-Link tl3020 - YouTube](https://www.youtube.com/watch?v=vTO7etVhGJc)
+
+[慳成千蚊？！2020 從大陸網購平價又安全的路由器 Router！？ - by Upsangel](https://upsangel.com/router-2/half-price-router-on-taobao-2020/)
+[Wi-Fi6 分享器推薦，讓你網路飛起來的 6 款超狂分享器! | HANK 瘋網路](https://hanknetwork.com/wifi6-router-recommend/)
+
+[Review: 6 slick open source routers | InfoWorld](http://www.infoworld.com/article/3106865/networking/review-6-slick-open-source-routers.html)
 
 Most AX mobile in 2020 are 2x2 MIMO @80MHz
 

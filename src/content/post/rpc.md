@@ -106,7 +106,7 @@ A high performance, open source, general RPC framework that puts mobile and HTTP
 
 [grpc-ecosystem/grpc-gateway: gRPC to JSON proxy generator following the gRPC HTTP spec](https://github.com/grpc-ecosystem/grpc-gateway)
 
-[How to use gRPC-web with React – freeCodeCamp.org](https://medium.freecodecamp.org/how-to-use-grpc-web-with-react-1c93feb691b5)
+[How to use gRPC-web with React](https://www.freecodecamp.org/news/how-to-use-grpc-web-with-react-1c93feb691b5)
 [Ditching REST with gRPC-web and Envoy - The Startup - Medium](https://medium.com/swlh/ditching-rest-with-grpc-web-and-envoy-bfaa89a39b32)
 
 ### Go

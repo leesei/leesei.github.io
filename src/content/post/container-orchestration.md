@@ -4,8 +4,8 @@ description: ""
 created: 2014-12-11
 tags:
   - container
-  - devops
   - dev/deploy
+  - devops
 ---
 
 # Container Orchestration

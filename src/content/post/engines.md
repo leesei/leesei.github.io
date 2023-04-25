@@ -184,6 +184,8 @@ SPCCI (Spark Controlled Combustion Ignition) compresses the gasoline-air mixture
 ### Rotary Engines
 
 [Rotary Engine | How It Works - YouTube](https://www.youtube.com/watch?v=pAOtFaMqrRw)
+["Inside-out Wankel" rotary engine delivers 5X the power of a diesel](https://newatlas.com/automotive/inside-out-wankel/)
+
 [See through Rotary Engine in Slow Motion - (Wankel Engine) 4K - YouTube](https://www.youtube.com/watch?v=pCteBhr4dGY)
 [The Differences Between Piston and Rotary Engines - YouTube](https://www.youtube.com/watch?v=4x04M8YwOBw)
 [How Rotary Engines Dominated Motorsports - YouTube](https://www.youtube.com/watch?v=4LfuQHrdU20)
@@ -334,7 +336,7 @@ first multistage rocket, detach booster in Korolev cross fashion (still used in 
 [The Soyuz and the Korolev Cross - YouTube](https://www.youtube.com/watch?v=Uf1Wu1BT5jo)
 [KSP - Korolev Cross - Soyuz Booster Separation - YouTube](https://www.youtube.com/watch?v=_6brSoEfwKg)
 
-[Dynetics reporting “outstanding” progress on F-1B rocket engine – Ars Technica](https://arstechnica.com/science/2013/08/dynetics-reporting-outstanding-progress-on-f-1b-rocket-engine/?amp=1)
+[Dynetics reporting “outstanding” progress on F-1B rocket engine – Ars Technica](https://arstechnica.com/science/2013/08/dynetics-reporting-outstanding-progress-on-f-1b-rocket-engine/amp/)
 
 ### Ionic Thruster
 
@@ -364,6 +366,12 @@ first multistage rocket, detach booster in Korolev cross fashion (still used in 
 - spark ignition
 - uses two preburners (gas generators) for turbines to spin the main pumps
 - hot gases in combustion chamber archives 98.5-99% efficiency
+
+### Rotating Detonating Engines
+
+[How NASA Reinvented the Rocket Engine - YouTube](https://www.youtube.com/watch?v=RVxgyz_avQM)
+
+- aero-spike nozzle acts like a self adapting nozzle at different atmospheric pressure to prevent overexpansion and underexpansion of exhaust gas
 
 ## Electric Motor
 

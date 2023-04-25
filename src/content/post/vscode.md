@@ -55,7 +55,8 @@ Interactive Playground
 [microsoft/vscode-tips-and-tricks: Collection of helpful tips and tricks for VS Code.](https://github.com/microsoft/vscode-tips-and-tricks)
 
 [VS Code Can Do That?](https://vscodecandothat.com/)
-[VS Code Can Do That?! VS Code Tips and Tricks - YouTube](https://www.youtube.com/watch?v=x5GzCohd4eo)
+[VS Code Can Do That?! VS Code Tips and Tricks - YouTube](https://www.youtube.com/watch?v=x5GzCohd4eo) 1.25 hours
+[Visual Studio Code Course | VS Code Customization | Frontend Masters | Frontend Masters](https://frontendmasters.com/courses/customize-vs-code/) free, 3.5 hours
 
 [Why I moved away from Atom to Visual Studio Code and my Setup · EQuimper's Blog](https://equimper.me/post/why-i-moved-away-from-atom-to-visual-studio-code-and-my-setup/)
 
@@ -137,7 +138,7 @@ Installed extensions:
 [My list of Microsoft Visual Code Studio Extensions | virtuallyGhetto](https://www.virtuallyghetto.com/2018/07/my-list-of-microsoft-visual-code-studio-extensions.html)
 [VS Code Top-Ten Pro Tips - YouTube](https://www.youtube.com/watch?v=u21W_tfPVrY)
 [Become a VS Code Ninja with these Extensions and Tools [2020] - DEV](https://dev.to/vikrantnegi/become-a-vs-code-ninja-with-these-extensions-and-tools-2020-1119)
-[✨ Immensely upgrade your development environment with these Visual Studio Code extensions](https://medium.freecodecamp.org/immensely-upgrade-your-development-environment-with-these-visual-studio-code-extensions-9cd790478530)
+[✨ Immensely upgrade your development environment with these Visual Studio Code extensions](https://www.freecodecamp.org/news/immensely-upgrade-your-development-environment-with-these-visual-studio-code-extensions-9cd790478530)
 [Python Development in Visual Studio Code (Setup Guide) – Real Python](https://realpython.com/courses/python-development-visual-studio-code-setup-guide/)
 [Python Development in Visual Studio Code – Real Python](https://realpython.com/python-development-visual-studio-code/)
 [Visual Studio Code Settings and Extensions for Faster JavaScript Development - Codesmith Development](https://codesmithdev.com/visual-studio-code-settings-and-extensions-for-faster-javascript-development/)
@@ -325,6 +326,8 @@ Plantuml
 
 [Settings Sync in Visual Studio Code](https://code.visualstudio.com/docs/editor/settings-sync)
 [How to Sync Your VS Code Settings and Extensions Across Multiple Devices | by Devin Ryan Riota | Better Programming](https://betterprogramming.pub/sync-visual-studio-code-settings-extensions-shortcuts-across-multiple-devices-9fa6a980f25e)
+
+[如何清空 Visual Studio Code 儲存在雲端的設定同步資料並重建擴充套件 | The Will Will Web](https://blog.miniasp.com/post/2023/03/27/Visual-Studio-Code-Settings-Sync-Clear-Cloud-Data)
 
 #### deprecated
 

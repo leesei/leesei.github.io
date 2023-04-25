@@ -632,24 +632,6 @@ Wuchisan: Alexandria
 
 ---
 
-## 農作物
-
-[五穀 - Wikiwand](https://www.wikiwand.com/zh-hant/%E4%BA%94%E8%B0%B7)
-[五谷（食物）\_百度百科](https://baike.baidu.com/item/%E4%BA%94%E8%B0%B7/92646)
-[五谷杂粮\_百度百科](https://baike.baidu.com/item/%E4%BA%94%E8%B0%B7%E6%9D%82%E7%B2%AE)
-[你知道，五穀是哪五穀嗎?](https://shop.kgcheck.com.tw/column_content.php?column_content_sn=26232)
-稻
-黍(今粟米?/糜?)
-穀(粟/禾/糜?/稷/小米): 主要種植於北方黃河流域
-麥(小麥)
-菽(大豆, 泛指豆類)
-加上麻(大麻)稱為六穀
-良莠不分: 狗尾草又稱莠, 狗尾草幼苗和穀子幼苗很難區分
-高梁和小麥並非中國原生作物
-小麥是從小亞細亞 Fertile Crescent 在 2000B.C.經俄羅斯引入, 取代穀為北方主要農作物
-
-[六畜 - Wikiwand](https://www.wikiwand.com/zh/%E5%85%AD%E7%95%9C)
-
 ## 萬里長城
 
 自春秋戰國時代為抵禦塞北遊牧部落而建的工程設施

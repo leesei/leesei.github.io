@@ -4,9 +4,11 @@ description: ""
 created: 2017-06-19
 updated: 2023-03-28
 tags:
-  - web
   - wasm
+  - web
 ---
+
+[[web-assembly-runtime]]
 
 [WebAssembly](http://webassembly.org/)
 [WebAssembly - Wikiwand](https://www.wikiwand.com/en/WebAssembly)
@@ -37,7 +39,6 @@ Playgrounds:
 
 [How to Think About WebAssembly (Amid the Hype) | Fermyon • Experience the next wave of cloud computing.](https://www.fermyon.com/blog/how-to-think-about-wasm)
 [Four go wild for wasm: Corporate quartet come together to build safe WebAssembly sandbox • The Register](https://www.theregister.co.uk/AMP/2019/11/13/webassembly_buildup_group/)
-[bytecodealliance/wasm-micro-runtime: WebAssembly Micro Runtime (WAMR)](https://github.com/bytecodealliance/wasm-micro-runtime)
 
 [Understand WebAssembly in 5 minutes - Je suis un dev](https://www.jesuisundev.com/en/understand-webassembly-in-5-minutes/)
 [WebAssembly – Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/category/webassembly/)
@@ -46,15 +47,12 @@ Playgrounds:
 
 [The Three Pillars of WebAssembly – The New Stack](https://thenewstack.io/the-three-pillars-of-webassembly/)
 [Is WebAssembly magic performance pixie dust? — surma.dev](https://surma.dev/things/js-to-asc/index.html)
-[WebAssembly, Expanding the Pie - Ben Smith at WebAssembly Summit](https://www.infoq.com/news/2020/05/webassembly-summit-2020-apie/)
-[Building a Containerless Future with WebAssembly - Kevin Hoffman at WebAssembly Summit](https://www.infoq.com/news/2020/05/webassembly-summit-containerless/)
-[WASM: Universal Application Runtime - Cybernetist](https://cybernetist.com/2019/04/25/wasm-universal-application-runtime/)
-[WebAssembly: What Is It And Why Should You Care? | Hackaday](https://hackaday.com/2019/04/04/webassembly-what-is-it-and-why-should-you-care/)
-[7 Things You Should Know About WebAssembly](https://auth0.com/blog/2015/10/14/7-things-you-should-know-about-web-assembly)
-[WebAssembly: a binary format for the web](http://www.2ality.com/2015/06/web-assembly.html)
-[What is WebAssembly? The next-generation web platform explained | InfoWorld](https://www.infoworld.com/article/3291780/what-is-webassembly-the-next-generation-web-platform-explained.html)
+[WebAssembly, Expanding the Pie - Ben Smith at WebAssembly Summit](https://www.infoq.com/news/2020/05/webassembly-summit-2020-apie/) 2020-05
+[Building a Containerless Future with WebAssembly - Kevin Hoffman at WebAssembly Summit](https://www.infoq.com/news/2020/05/webassembly-summit-containerless/) 2020-05
+[What is WebAssembly? The next-generation web platform explained | InfoWorld](https://www.infoworld.com/article/3291780/what-is-webassembly-the-next-generation-web-platform-explained.html) 2022-05
+
 [What is WebAssembly? The Dawn of a New Era — JavaScript Scene — Medium](https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6)
-[Get started with WebAssembly — using only 14 lines of JavaScript](https://medium.freecodecamp.org/get-started-with-webassembly-using-only-14-lines-of-javascript-b37b6aaca1e4)
+[Get started with WebAssembly — using only 14 lines of JavaScript](https://www.freecodecamp.org/news/get-started-with-webassembly-using-only-14-lines-of-javascript-b37b6aaca1e4)
 [WebAssembly Will Finally Let You Run High-Performance Applications in Your Browser - IEEE Spectrum](https://spectrum.ieee.org/computing/software/webassembly-will-finally-let-you-run-highperformance-applications-in-your-browser) history
 [An Introduction to WebAssembly - DZone Web Dev](https://dzone.com/articles/an-introduction-to-webassembly)
 [WebAssembly tutorial: Get started with WebAssembly | InfoWorld](https://www.infoworld.com/article/3258547/web-development/webassembly-tutorial-get-started-with-webassembly.html)
@@ -108,6 +106,17 @@ Playgrounds:
 [wasmcloud](https://github.com/wasmCloud)
 [Getting Started with wasmCloud – The New Stack](https://thenewstack.io/getting-started-with-wasmcloud/)
 
+## Wasm Interface Type (WIT)/WebAssembly Interface (WAI)
+
+> like gRPC
+
+[bytecodealliance/wit-bindgen: A language binding generator for WebAssembly interface types](https://github.com/bytecodealliance/wit-bindgen)
+[component-model/WIT.md at main · WebAssembly/component-model](https://github.com/WebAssembly/component-model/blob/main/design/mvp/WIT.md)
+
+[wasmerio/wai: A language binding generator for `wai` (a precursor to WebAssembly interface types)](https://github.com/wasmerio/wai) for Wasmer
+[wai/WAI.md at main · wasmerio/wai](https://github.com/wasmerio/wai/blob/main/WAI.md)
+[WAI is the Answer !!!](https://wasmer.io/posts/WAI-is-the-answer)
+
 ## WebAssembly text format (WAT)
 
 [Text Format — WebAssembly 1.1 (Draft 2021-05-06)](https://webassembly.github.io/spec/core/text/index.html)
@@ -141,14 +150,6 @@ Playgrounds:
 [appcypher/awesome-wasm-langs: 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly](https://github.com/appcypher/awesome-wasm-langs)
 [WebAssembly Language Support Matrix | Fermyon Technologies (@FermyonTech)](https://www.fermyon.com/wasm-languages/webassembly-language-support)
 
-[Wasmer - The Universal WebAssembly Runtime](https://wasmer.io/) compiling multiple languages to WASM, WAT and to native binary
-[wasmerio/wasmer-js: Monorepo for Javascript WebAssembly packages by Wasmer](https://github.com/wasmerio/wasmer-js)
-[WebAssembly.sh](https://webassembly.sh/)
-[Announcing WebAssembly.sh - Wasmer - Medium](https://medium.com/wasmer/webassembly-sh-408b010c14db)
-[WebAssembly Runtime 開源專案 Wasmer 3.0 簡化 WAPM 套件安裝與使用 | iThome](https://www.ithome.com.tw/news/154415)
-
-[Compile WebAssembly on Linux to native Windows using Wasmer & Zig - YouTube](https://www.youtube.com/watch?v=VbYy2gqjnJI)
-
 ## Motoko
 
 [Motoko Programming Language :: Internet Computer](https://sdk.dfinity.org/docs/language-guide/motoko.html)
@@ -174,6 +175,7 @@ Playgrounds:
 [From JavaScript to WebAssembly in three steps](https://engineering.q42.nl/webassembly/)
 
 [WebAssembly/binaryen: Compiler infrastructure and toolchain library for WebAssembly](https://github.com/WebAssembly/binaryen)
+`wasm-opt` to reduce file size
 
 ## speedy.js
 
@@ -222,12 +224,14 @@ Playgrounds:
 
 ```sh
 rustup target add wasm32-wasi
+rustup target add wasm32-unknown-unknown
 
 cargo build --release --target wasm32-wasi
 cp target/wasm32-wasi/release/*wasm .
 ```
 
 [Rust and WebAssembly · GitHub](https://github.com/rustwasm/)
+[Introduction - The `wasm-bindgen` Guide](https://rustwasm.github.io/docs/wasm-bindgen/introduction.html)
 [rustwasm/wasm-bindgen: Interoperating JS and Rust code](https://github.com/rustwasm/wasm-bindgen)
 [Rust, WebAssembly, and the future of Serverless by Steve Klabnik - YouTube](https://www.youtube.com/watch?v=CMB6AlE1QuI)
 [Rust in the Browser for JavaScripters: New Frontiers, New Possibilities - YouTube](https://www.youtube.com/watch?v=ohuTy8MmbLc) 2019-11
@@ -235,9 +239,6 @@ cp target/wasm32-wasi/release/*wasm .
 
 [Introduction - Hello wasm-pack!](https://rustwasm.github.io/docs/wasm-pack/)
 [ashleygwilliams/wasm-pack: 📦✨ your favorite rust -> wasm workflow tool!](https://github.com/ashleygwilliams/wasm-pack)
-
-[The rustwasmc tool](https://www.secondstate.io/articles/rustwasmc/)
-[second-state/rustwasmc: Tool for building Rust functions for Node.js. Combine the performance of Rust, safety and portability of WebAssembly, and ease of use of JavaScript.](https://github.com/second-state/rustwasmc)
 
 [Makepad](http://makepad.nl/) Play with Rust+Wasm live
 
@@ -275,12 +276,25 @@ cp target/wasm32-wasi/release/*wasm .
 [lord/wargo: Easy Rust to WebAssembly](https://github.com/lord/wargo)
 [Rust to WebAssembly, Made Easy – Lord i/o](https://lord.io/blog/2017/wargo/)
 
-[Rust + Vite = 🚀 - DEV Community 👩‍💻👨‍💻](https://dev.to/lencx/rust-vite--3d9p)
-[rwasm/awesome-rsw: 🕸 A curated list of awesome things related to rsw](https://github.com/rwasm/awesome-rsw)
-[rwasm/vite-plugin-rsw: 🦀 wasm-pack plugin for Vite](https://github.com/rwasm/vite-plugin-rsw)
-[rwasm/rsw-rs: 🦞 wasm-pack based build tool](https://github.com/rwasm/rsw-rs)
-
 [An introduction to profiling a Rust web application - LogRocket Blog](https://blog.logrocket.com/an-introduction-to-profiling-a-rust-web-application/)
+
+### WAI
+
+[wai-bindgen-rust - crates.io: Rust Package Registry](https://crates.io/crates/wai-bindgen-rust) for Wasmer
+[Build Universal Libraries with Rust - YouTube](https://www.youtube.com/watch?v=uKlHwko36c4)
+
+### rsw
+
+[rwasm/rsw-rs: 🦞 wasm-pack based build tool](https://github.com/rwasm/rsw-rs)
+[rwasm/awesome-rsw: 🕸 A curated list of awesome things related to rsw](https://github.com/rwasm/awesome-rsw)
+
+[rwasm/vite-plugin-rsw: 🦀 wasm-pack plugin for Vite](https://github.com/rwasm/vite-plugin-rsw)
+[Rust + Vite = 🚀 - DEV Community 👩‍💻👨‍💻](https://dev.to/lencx/rust-vite--3d9p)
+
+### rustwasmc
+
+[The rustwasmc tool](https://www.secondstate.io/articles/rustwasmc/) for WasmEdge
+[second-state/rustwasmc: Tool for building Rust functions for Node.js. Combine the performance of Rust, safety and portability of WebAssembly, and ease of use of JavaScript.](https://github.com/second-state/rustwasmc)
 
 ### Frontend
 
@@ -311,6 +325,8 @@ cp target/wasm32-wasi/release/*wasm .
 [Quick Tutorial: Write Go, Run WASM! - DEV Community 👩‍💻👨‍💻](https://dev.to/cia_rana/quick-tutorial-write-go-run-wasm-2ilf)
 `GOOS=js GOARCH=wasm go1.11beta3 build -o test.wasm main.go`
 
+[TinyGo](https://tinygo.org/) compiler for microcontroller and WASI
+
 [Go and WebAssembly | Learn the Basics of WASM - YouTube](https://www.youtube.com/watch?v=10Mz3z-W1BE)
 
 [Go WebAssembly Internals - Part 1 - DEV Community 👩‍💻👨‍💻](https://dev.to/x1unix/go-webassembly-internals-part-1-14aj)
@@ -318,18 +334,23 @@ cp target/wasm32-wasi/release/*wasm .
 
 ## C#/.NET/Blazor
 
-> known as Razor Components in preview builds of .NET Core
->
-> [SteveSandersonMS/dotnet-wasi-sdk: Packages for building .NET projects as standalone WASI-compliant modules](https://github.com/SteveSandersonMS/dotnet-wasi-sdk)
+> Blazor was known as Razor Components in preview builds of .NET Core
+> Blazor is used for building web services/web pages
 
 [Blazor - Wikiwand](https://www.wikiwand.com/en/Blazor)
-[Blazor | Build client web apps with C# | .NET](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
-[dotnet/blazor: Blazor is a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.](https://github.com/dotnet/blazor)
-[Introduction to ASP.NET Core Blazor | Microsoft Docs](https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-3.1)
+[Blazor | Build client web apps with C# | .NET](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
+[dotnet/aspnetcore: ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.](https://github.com/dotnet/aspnetcore) Blazor now part of ASP.NET Core
+[ASP.NET Core Blazor | Microsoft Learn](https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-8.0)
+[ASP.NET Core Blazor Hybrid | Microsoft Learn](https://learn.microsoft.com/en-us/aspnet/core/blazor/hybrid/?view=aspnetcore-8.0)
 [Building a Progressive Web App with Blazor | Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/building-a-progressive-web-app-with-blazor/)
 
-[Blazor, a new framework for browser-based .NET apps - Steve Sanderson - YouTube](https://www.youtube.com/watch?v=uW-Kk7Qpv5U) 2019-07
+Blazor WebAssembly: .NET CLR on browser with WASM
+Blazor Server: SSR with live update
+
 [Blazor, a new framework for browser-based .NET apps - Steve Sanderson - YouTube](https://www.youtube.com/watch?v=Khn7sDUSEJM) 2020-02
+[Blazor Web Apps - Goodbye JavaScript! I'm in love with C# - YouTube](https://www.youtube.com/watch?v=Oeh2IJw7Zig) 2020-08
+[Intro to Blazor WebAssembly and How It Is Different from Blazor Server - YouTube](https://www.youtube.com/watch?v=KOMo77bVKSw) 2020-06
+
 [Blazor - .NET in the browser | DotNetCurry](https://www.dotnetcurry.com/dotnet/1460/blazor-getting-started)
 [Blazor – on the server or on the client – csharp.christiannagel.com](https://csharp.christiannagel.com/2019/08/27/blazorserverandclient/)
 [Blazor Vs. Traditional Web Apps – ChristianFindlay.com](https://christianfindlay.com/2020/07/09/blazor-vs-traditional-web-apps/amp/)
@@ -340,14 +361,10 @@ cp target/wasm32-wasi/release/*wasm .
 [Wrapping JavaScript libraries in Blazor WebAssembly/WASM](https://blog.elmah.io/wrapping-javascript-libraries-in-blazor-webassembly-wasm/amp/)
 [Blazor WebAsm — C# on the client side (again) | by Jacek Chmiel | Avenga | Medium](https://medium.com/avenga/blazor-webasm-c-on-the-client-side-again-1ced1c79500a)
 
+[SteveSandersonMS/dotnet-wasi-sdk: Packages for building .NET projects as standalone WASI-compliant modules](https://github.com/SteveSandersonMS/dotnet-wasi-sdk)
+
 ## Zig
 
 [Using Zig to Build Lua for WebAssembly in the Browser - YouTube](https://www.youtube.com/watch?v=DtZBac-IUBQ)
 [Programming WebAssembly with Zig - Getting Started with the ZIG programming language - YouTube](https://www.youtube.com/watch?v=R2GW197izwQ)
-
-## Chasm
-
-A compile to WASM language
-
-[https://colineberhardt.github.io/chasm/](https://colineberhardt.github.io/chasm/)
-[Build your own WebAssembly Compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
+[Zig loves WASI! - Jakub Konka - YouTube](https://www.youtube.com/watch?v=g_Degmqfo4Q)

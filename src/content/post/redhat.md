@@ -20,7 +20,7 @@ tags:
 
 Package Management: RPM (`dnf` after 22)
 
-[Fedora (operating system) - Wikiwand](https://www.wikiwand.com/en/Fedora_%28operating_system%29)
+[Fedora (operating system) - Wikiwand](<https://www.wikiwand.com/en/Fedora_(operating_system)>)
 [FedoraProject](https://fedoraproject.org/wiki/Fedora_Project_Wiki)
 
 [The relationship between Fedora and Red Hat Enterprise Linux | Red Hat](https://www.redhat.com/en/technologies/linux-platforms/articles/relationship-between-fedora-and-rhel)

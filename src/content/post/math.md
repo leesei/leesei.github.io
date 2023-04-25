@@ -88,6 +88,7 @@ Encode mathematics operation as numbers, one can create a number (statement) tha
 [immersivemath - YouTube](https://www.youtube.com/channel/UCMTYA0DDzT-bEzwWGPHTCOA)
 
 [Matrix Multiplication Explained (with Python examples): Complete Guide](https://pyshark.com/matrix-multiplication-explained-using-python/)
+[The fastest matrix multiplication algorithm - YouTube](https://www.youtube.com/watch?v=sZxjuT1kUd0)
 
 [Covariance and contravariance of vectors - Wikiwand](https://www.wikiwand.com/en/Covariance_and_contravariance_of_vectors)
 [Variance-covariance matrix using matrix notation of factor analysis - YouTube](https://www.youtube.com/watch?v=G16c2ZODcg8)
@@ -148,19 +149,24 @@ Eigenvalue = sum of squared distances of projected points on principal component
 
 [Markov chain - Wikiwand](https://www.wikiwand.com/en/Markov%20Chains)
 [Markov Chains Clearly Explained! - YouTube](https://www.youtube.com/playlist?list=PLM8wYQRetTxBkdvBtz-gw8b9lcVkdXQKV)
+[Markov Decision Processes - Computerphile - YouTube](https://www.youtube.com/watch?v=2iF9PRriA7w)
 
 equilibrium probability = left eigen vector of the adjacency matrix
 
+## Combinatorics
+
+[Combinatorics - YouTube](https://www.youtube.com/playlist?list=PL0kfjAYPrUS4mfG6qVvAU5x4S9-n2b8WO)
+
 ## Group Theory
 
-[Group (mathematics) - Wikiwand](https://www.wikiwand.com/en/Group_%28mathematics%29) Set with binary operation defined
-[Ring (mathematics) - Wikiwand](https://www.wikiwand.com/en/Ring_%28mathematics%29) Group closed in addition, subtraction and multiplication
-[Field (mathematics) - Wikiwand](https://www.wikiwand.com/en/Field_%28mathematics%29) Ring closed also in division
+[Group (mathematics) - Wikiwand](<https://www.wikiwand.com/en/Group_(mathematics)>) Set with binary operation defined
+[Ring (mathematics) - Wikiwand](<https://www.wikiwand.com/en/Ring_(mathematics)>) Group closed in addition, subtraction and multiplication
+[Field (mathematics) - Wikiwand](<https://www.wikiwand.com/en/Field_(mathematics)>) Ring closed also in division
 [Explanaria - Groups & Clear Crystal Conundrums](https://explanaria.github.io/crystalgroups/)
 
 [Galois theory - Wikiwand](https://www.wikiwand.com/en/Galois_theory)
 [从五次方程到伽罗瓦理论 - YouTube](https://www.youtube.com/playlist?list=PLYtoePJQbGmiq3lqkJcxSKW0eW5objmjQ)
-[Why you can't solve quintic equations (Galois theory approach) #SoME2 - YouTube](https://www.youtube.com/watch?v=zCU9tZ2VkWc)
+[Why you can't solve quintic equations (Galois theory approach) SoME2 - YouTube](https://www.youtube.com/watch?v=zCU9tZ2VkWc)
 [What is the square root of two? | The Fundamental Theorem of Galois Theory - YouTube](https://www.youtube.com/watch?v=CwvuZ8aHyH4)
 
 [Group theory, abstraction, and the 196,883-dimensional monster - YouTube](https://www.youtube.com/watch?v=mH0oCDa74tE)
@@ -399,3 +405,38 @@ uses complex number and group theory
 [Mandelbrot set - Wikiwand](https://www.wikiwand.com/en/Mandelbrot_set) bounded set of simple function on complex number to generate fractal
 
 [Draw the Mandelbrot Set in Python – Real Python](https://realpython.com/mandelbrot-set-python/)
+
+## Prover
+
+[Isabelle](https://isabelle.in.tum.de/)
+
+### TLA+
+
+[The TLA+ Home Page](https://lamport.azurewebsites.net/tla/tla.html)
+[Introduction :: Learn TLA+](https://learntla.com/introduction/)
+[Designing Distributed Systems with TLA+](https://www.infoq.com/presentations/tla-plus)
+[TLA+: The Best Debugger/ Optimizer You’ve Never Heard of – The New Stack](https://thenewstack.io/tla-the-best-debugger-optimizer-youve-never-heard-of/)
+[The Temporal Logic of Actions](https://lamport.azurewebsites.net/pubs/lamport-actions.pdf)
+
+[Leslie Lamport's The TLA+ Video Course - YouTube](https://www.youtube.com/playlist?list=PLWAv2Etpa7AOAwkreYImYt0gIpOdWQevD)
+[Leslie Lamport: Thinking Above the Code - YouTube](https://www.youtube.com/watch?v=-4Yp3j_jk8Q)
+[Lamport TLA+ Course Lecture 1: Introduction to TLA+ (HD) - YouTube](https://www.youtube.com/watch?v=p54W-XOIEF8)
+[Lamport TLA+ Course Lecture 2: State Machines in TLA+ (HD) - YouTube](https://www.youtube.com/watch?v=4snwZl726c4)
+[A gentle intro to TLA+ - YouTube](https://www.youtube.com/watch?v=D_sh1nnX3zY)
+[YOW! 2019 - Hillel Wayne - Designing Distributed Systems with TLA+ - YouTube](https://www.youtube.com/watch?v=ATobswwFwQA&t=19s)
+["Tackling Concurrency Bugs with TLA+" by Hillel Wayne - YouTube](https://www.youtube.com/watch?v=_9B__0S21y8)
+
+Inductive invariance
+Thinking at a more abstract level will improve your code
+
+[TLA+](https://github.com/tlaplus)
+[The TLA Toolbox](https://lamport.azurewebsites.net/tla/toolbox.html)
+
+[PlusCal - Wikiwand](https://www.wikiwand.com/en/PlusCal)
+[PlusCal :: Learn TLA+](https://learntla.com/pluscal/)
+[A Simple Example](http://lamport.azurewebsites.net/tla/peterson.html?back-link=high-level-view.html#pluscal?unhideBut@EQhide-pluscal@AMPunhideDiv@EQpluscal)
+[quux00/PlusCal-Examples: Algorithm examples in PlusCal, the algorithm language of Lamport's TLA+](https://github.com/quux00/PlusCal-Examples)
+[muratdem/PlusCal-examples: Pluscal/TLA+ modeling of distributed systems/protocols](https://github.com/muratdem/PlusCal-examples)
+
+[How Amazon Web Services Uses Formal Methods | April 2015 | Communications of the ACM](https://cacm.acm.org/magazines/2015/4/184701-how-amazon-web-services-uses-formal-methods/fulltext)
+[TLA+ with Leslie Lamport - Software Engineering Daily](https://softwareengineeringdaily.com/2018/11/09/tla-with-leslie-lamport/)

@@ -29,4 +29,4 @@ pass the standing end (usually with livestock) around a static object (usually a
 
 普魯士抓結（Prusik Knot）/手抓結: 易向上, 不易向下
 [【一日一结】法式抓结（French prusik）即自锁抓结（Auto Block）](https://www.sohu.com/a/211262721_99893772)
-[繩結七 : 抓繩結 (Friction Hitch) @ 好攝的男人 :: 痞客邦 ::](https://avery1234.pixnet.net/blog/post/66863547-%E7%B9%A9%E7%B5%90%E4%B8%83-%3A-%E6%8A%93%E7%B9%A9%E7%B5%90-%28friction-hitch%29)
+[繩結七 : 抓繩結 (Friction Hitch) @ 好攝的男人 :: 痞客邦 ::](<https://avery1234.pixnet.net/blog/post/66863547-%E7%B9%A9%E7%B5%90%E4%B8%83-%3A-%E6%8A%93%E7%B9%A9%E7%B5%90-(friction-hitch)>)

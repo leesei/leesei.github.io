@@ -5,9 +5,9 @@ created: 2014-12-11
 tags:
   - container
   - coreos
+  - dev/deploy
   - devops
   - shell-tool
-  - dev/deploy
 ---
 
 # CoreOS

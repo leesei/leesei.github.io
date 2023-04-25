@@ -116,3 +116,13 @@ tags:
 [Developing A Spring Boot Application for Kubernetes Cluster: A Tutorial [Part 2] - DZone Cloud](https://dzone.com/articles/developing-a-spring-boot-application-for-kubernete-2)
 [Developing A Spring Boot Application for Kubernetes Cluster: A Tutorial [Part 3] - DZone Cloud](https://dzone.com/articles/developing-a-spring-boot-application-for-kubernete-3)
 [Developing A Spring Boot Application for Kubernetes Cluster: A Tutorial [Part 4] - DZone Cloud](https://dzone.com/articles/developing-a-spring-boot-application-for-kubernete-4)
+
+[Episode 381: Josh Long on Spring Boot : Software Engineering Radio](https://www.se-radio.net/2019/09/episode-381-josh-long-on-spring-boot/)
+Spring boot
+embedded Jetty and does not need Tomcat
+Code generation
+Uses POJO config instead of inheriting Beans
+Service loader (auto configs) that implements best practices of using typical services
+Spring in a nail, project generator
+Actuator operation management endpoints
+Reactive stream API

@@ -1,7 +1,8 @@
 ---
-title: avconv/ffmpeg
+title: ffmpeg
 description: ""
 created: 2015-01-13
+updated: 2023-03-29
 tags:
   - app
   - avconv
@@ -9,13 +10,9 @@ tags:
   - shell-tool
 ---
 
+[FFmpeg - Wikiwand](https://www.wikiwand.com/en/FFmpeg)
 FFmpeg is a library and utility for AV format conversion.
-Libav is a fork of FFmpeg with more transparent governance.
-The parameters for `ffmepg` and `avconv` are _MOSTLY_ compatible.
 
-[The FFmpeg/Libav situation](http://blog.pkh.me/p/13-the-ffmpeg-libav-situation.html)
-[FFmpeg versus Libav · mpv-player/mpv Wiki](https://github.com/mpv-player/mpv/wiki/FFmpeg-versus-Libav)
-[Debate/libav-provider/ffmpeg - Debian Wiki](https://wiki.debian.org/Debate/libav-provider/ffmpeg)
 [libavcodec - What is ffmpeg, avcodec, x264? - Stack Overflow](https://stackoverflow.com/questions/16772558/what-is-ffmpeg-avcodec-x264)
 
 ```sh
@@ -35,22 +32,18 @@ ffmpeg [global options] [[infile options][-i infile]]... {[outfile options] outf
 | `-filter:v`, `-vf`     | Video filters                       |
 | `-filter:a`, `-af`     | Audio filters                       |
 
-## FFMpeg on Debian
+## Libav kerfuffle
 
-> http://stackoverflow.com/a/9477756/665507
+> Libav is dead as of 2022
 
-If you wanted real FFMpeg on Ubuntu/Debian:
+[Libav - Wikiwand](https://www.wikiwand.com/en/Libav)
+Libav is a fork of FFmpeg in 2011 with more transparent governance.
+But the maintainers failed to maintain their original intention and rejected to merge changes from FFmpeg.
+They managed to keep their popularity as Debian/Ubuntu used it as default. That changed in 2015 and momentum to Libav is lost.
 
-```sh
-sudo add-apt-repository ppa:jon-severinsson/ffmpeg
-sudo apt-get update
-sudo apt-get install ffmpeg
-```
+[The FFmpeg/Libav situation](https://web.archive.org/web/20230122183833/http://blog.pkh.me/p/13-the-ffmpeg-libav-situation.html)
 
-```sh
-# list codecs
-ffmpeg -formats -E
-```
+[ubuntu - What are the differences and similarities between ffmpeg, libav, and avconv? - Stack Overflow](https://stackoverflow.com/questions/9477115/what-are-the-differences-and-similarities-between-ffmpeg-libav-and-avconv/9477756#9477756)
 
 ## screenshot
 
@@ -78,6 +71,11 @@ ffmpeg -ss <second/hh:mm:ss[.xxx]> -i <infile> -to <second/hh:mm:ss[.xxx]> -c co
 ## transcode clips
 
 ```sh
+# list codecs
+ffmpeg -formats -E
+# list private options
+ffmpeg -h encoder=<encoder>
+
 # use `h264_nvenc` for NVIDIA card.
 ffmpeg \
   -i 'Top Gear - [06x01] - 2005.05.22 [m00tv].avi' \
@@ -94,9 +92,6 @@ ffmpeg \
 ```
 
 [HWAccelIntro – FFmpeg](https://trac.ffmpeg.org/wiki/HWAccelIntro)
-
-List private options
-`ffmpeg -h encoder=<encoder>`
 
 [Media  |  Google Developers](https://developers.google.com/media/vp9/settings/vod/) VP9 encoder
 [Hardware/VAAPI – FFmpeg](https://trac.ffmpeg.org/wiki/Hardware/VAAPI)

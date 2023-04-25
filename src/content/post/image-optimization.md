@@ -21,29 +21,6 @@ tags:
 [BPG Image format](http://bellard.org/bpg/) H.265
 [A new image format for the Web | WebP | Google Developers](https://developers.google.com/speed/webp/)
 
-[squoosh/cli at dev · GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh/tree/dev/cli)
-
-[imagemin](https://github.com/imagemin?type=source) provides prebuild binaries
-[imagemin/imagemin-cli: Minify images seamlessly](https://github.com/imagemin/imagemin-cli)
-[imagemin/imagemin: Minify images seamlessly](https://github.com/imagemin/imagemin)
-
-```sh
-npm i -g imagemin-cli imagemin-mozjpeg imagemin-pngcrush imagemin-pngquant
-imagemin --plugin=pngcrush --plugin=pngquant --plugin=mozjpeg --plugin=gifsicle --plugin=svgo "images/**" "outdir"
-```
-
-[imgmini - npm](https://www.npmjs.com/package/imgmini) `gulp-image` contains all the binaries
-[Asikur22/npm-imgmini: Image Minify with Gulp Image.](https://github.com/Asikur22/npm-imgmini) CLI wrapper for `gulp-image`
-[1000ch/gulp-image: Optimize PNG, JPEG, GIF, SVG images with gulp task.](https://github.com/1000ch/gulp-image) uses `imagemin` binaries
-
-```sh
-npm i -g @leesei/imgmini
-find <folder> -type f | xargs -P$(nproc) -- imgmini -s
-```
-
-[wuwu8ku/imgminify: imgminify](https://github.com/wuwu8ku/imgminify) bundled binaries, custom wrapper
-[robinLiu1989/webpack-imgmini: a image compress use webpack](https://github.com/robinLiu1989/webpack-imgmini)
-
 [toy/image_optim: Optimize images using multiple utilities](https://github.com/toy/image_optim) Ruby
 [spatie/image-optimizer: Easily optimize images using PHP](https://github.com/spatie/image-optimizer) PHP, saving not prominent
 
@@ -96,6 +73,43 @@ zopflipng
 
 [Case Study: Optimizing SVG Text & Image Delivery with Inline SVG – Sara Soueidan, inclusive design engineer](https://www.sarasoueidan.com/blog/optimizing-svg-delivery-with-svg/)
 [Web Performance Calendar » Tips For Optimising SVG Delivery For The Web](https://calendar.perfplanet.com/2014/tips-for-optimising-svg-delivery-for-the-web/)
+
+# imagemin
+
+> imagemin provides prebuilt native binaries
+
+[imagemin](https://github.com/imagemin?type=source) not actively maintained, dependencies are old
+[imagemin/imagemin-cli: Minify images seamlessly](https://github.com/imagemin/imagemin-cli)
+[imagemin/imagemin: Minify images seamlessly](https://github.com/imagemin/imagemin)
+[1000ch/gulp-image: Optimize PNG, JPEG, GIF, SVG images with gulp task.](https://github.com/1000ch/gulp-image) uses `imagemin` binaries
+
+```sh
+npm i -g imagemin-cli imagemin-mozjpeg imagemin-pngcrush imagemin-pngquant
+imagemin --plugin=pngcrush --plugin=pngquant --plugin=mozjpeg --plugin=gifsicle --plugin=svgo "images/**" "outdir"
+```
+
+[imgmini - npm](https://www.npmjs.com/package/imgmini) `gulp-image` contains all the binaries
+[Asikur22/npm-imgmini: Image Minify with Gulp Image.](https://github.com/Asikur22/npm-imgmini) CLI wrapper for `gulp-image`
+
+```sh
+npm i -g @leesei/imgmini
+find <folder> -type f | xargs -P$(nproc) -- imgmini -s
+```
+
+[wuwu8ku/imgminify: imgminify](https://github.com/wuwu8ku/imgminify) bundled binaries, custom wrapper
+[robinLiu1989/webpack-imgmini: a image compress use webpack](https://github.com/robinLiu1989/webpack-imgmini)
+
+# Squoosh
+
+> WebAssembly
+
+[GoogleChromeLabs/squoosh: Make images smaller using best-in-class codecs, right in the browser.](https://github.com/GoogleChromeLabs/squoosh)
+
+[Introducing libSquoosh](https://web.dev/introducing-libsquoosh/)
+[@squoosh/lib - npm](https://www.npmjs.com/package/@squoosh/lib)
+[@squoosh/cli - npm](https://www.npmjs.com/package/@squoosh/cli)
+
+[jamsinclair/jSquash: Browser & V8 Runtime focussed wasm bundles derived from the Squoosh App.](https://github.com/jamsinclair/jSquash)
 
 ---
 

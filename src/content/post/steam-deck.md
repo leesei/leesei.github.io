@@ -69,7 +69,7 @@ Gaming On Linux
 [Steam Deck 1TB Storage Upgrade - YouTube](https://www.youtube.com/watch?v=uMA8x47cO_M)
 [How To Re-Image Your Steam Deck - YouTube](https://www.youtube.com/watch?v=IK_5Rwtp9sQ)
 
-[Steam Deck 升級 SSD 教學｜ 800 蚊簡易 64GB 升 1TB！簡單 5 步完成安裝](https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/850176/steam-deck%E5%8D%87%E7%B4%9Assd%E6%95%99%E5%AD%B8-800%E8%9A%8A%E7%B0%A1%E6%98%9364gb%E5%8D%871tb-%E7%B0%A1%E5%96%AE5%E6%AD%A5%E5%AE%8C%E6%88%90%E5%AE%89%E8%A3%9D)
+[Steam Deck 升級 SSD 教學｜ 800 蚊簡易 64GB 升 1TB！簡單 5 步完成安裝](https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/850176/)
 [Steam Deck 改機全攻略：如何拆機、SSD 更換、改雙系統、安裝 Windows、FSR 硬開啟、rEFInd 切換開機、副廠底座動手玩 - YouTube](https://www.youtube.com/watch?v=P__EKkN4DqQ)
 [Windows on Steam Deck?? You NEED this Software!! - YouTube](https://www.youtube.com/watch?v=JtGyQzRFOXU)
 
@@ -79,6 +79,8 @@ Gaming On Linux
 
 [How to Add Streaming Apps to Steam Deck — The Light Den Academy](https://www.thelightdenacademy.com/content/how-to-add-streaming-apps-to-steam-deck)
 [Steam Deck | How to Add Your Favorite Streaming Apps - YouTube](https://www.youtube.com/watch?v=RCVy2BzxzN8)
+
+[Epic Games Store on the Steam Deck - YouTube](https://www.youtube.com/watch?v=UvuGAQDagWE) Windows
 
 ## Plugin/Extension
 

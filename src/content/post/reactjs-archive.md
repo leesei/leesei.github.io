@@ -1,8 +1,9 @@
 ---
-title: React.js Archives
+title: React.js (Archives)
 description: Archived React.js notes
 created: 2023-03-21
 tags:
+  - archived
   - frontend
   - javascript
   - reactjs
@@ -127,7 +128,7 @@ The new terms are "Container" (connected) and "Presentational Components" (not c
 [callum/redux-routing: Universal routing built on top of redux](https://github.com/callum/redux-routing)
 [FormidableLabs/redux-little-router: A tiny router for Redux that lets the URL do the talking.](https://github.com/FormidableLabs/redux-little-router)
 
-[An Introduction to the Redux-First Routing Model – freeCodeCamp](https://medium.freecodecamp.org/an-introduction-to-the-redux-first-routing-model-98926ebf53cb)
+[An Introduction to the Redux-First Routing Model – freeCodeCamp](https://www.freecodecamp.org/news/an-introduction-to-the-redux-first-routing-model-98926ebf53cb)
 [mksarge/redux-first-routing: A minimal, framework-agnostic API for accomplishing Redux-first routing.](https://github.com/mksarge/redux-first-routing)
 [mksarge/redux-json-router: Declarative, Redux-first routing for React/Redux browser applications.](https://github.com/mksarge/redux-json-router)
 

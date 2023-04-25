@@ -38,6 +38,7 @@ tags:
 [Jobserver Implementation | GNU make](http://make.mad-scientist.net/papers/jobserver-implementation/)
 
 [GNU make: Automatic Variables](https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html)
+[GNU Autoconf, Automake and Libtool](http://www.sourceware.org/autobook/)
 
 ```sh
 # show rules

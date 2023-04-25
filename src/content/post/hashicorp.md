@@ -3,8 +3,8 @@ title: HashiCorp
 description: ""
 created: 2016-03-19
 tags:
-  - devops
   - dev/deploy
+  - devops
 ---
 
 # HashiCorp

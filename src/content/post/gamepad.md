@@ -20,7 +20,7 @@ tags:
 
 [Glossary:Controller - PCGamingWiki PCGW - bugs, fixes, crashes, mods, guides and improvements for every PC game](http://pcgamingwiki.com/wiki/Glossary:Controller#XInput_Plus)
 
-[XInput and DirectInput (Windows)](https://msdn.microsoft.com/en-us/library/windows/desktop/ee417014%28v=vs.85%29.aspx)
+[XInput and DirectInput (Windows)](<https://msdn.microsoft.com/en-us/library/windows/desktop/ee417014(v=vs.85).aspx>)
 [DirectInput - Wikiwand](https://www.wikiwand.com/en/DirectInput#/DirectInput_vs_XInput)
 
 [手柄哥子俊 - YouTube](https://www.youtube.com/channel/UC24bt5d-Gg5m8Gdu7daaQVQ)
@@ -116,7 +116,7 @@ It's better to add any non-steam games to your Steam Library and use Steam's con
 ### XPadder
 
 [Xpadder](https://xpadder.com/?lang=english&country=US) \$9.99 app
-[Download Xpadder (Last freeware version) 5.3](http://www.majorgeeks.com/mg/getmirror/xpadder_%28last_freeware_version%29,1.html)
+[Download Xpadder (Last freeware version) 5.3](<http://www.majorgeeks.com/mg/getmirror/xpadder_(last_freeware_version),1.html>)
 [Steam Community :: Guide :: Working Controller guide.](https://steamcommunity.com/sharedfiles/filedetails/?id=509137138) Xpadder
 
 ### InputMapper

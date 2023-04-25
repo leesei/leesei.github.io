@@ -153,6 +153,21 @@ rm -rf node_modules/gh-pages/.cache
 [Introducing Copilot for VS Code – AngularDoc – Medium](https://medium.com/angulardoc/introducing-copilot-for-vs-code-c1b1a16bdd21)
 [前端工程师的必备 VS Code 插件 -- Copilot - 知乎](https://zhuanlan.zhihu.com/p/62929504)
 
+### Copilot Labs
+
+[GitHub Next | GitHub Copilot Labs](https://githubnext.com/projects/copilot-labs)
+[Github Copilot is even better with Copilot Labs! - YouTube](https://www.youtube.com/watch?v=SObHvP_8qRo)
+
+[GitHub Copilot Labs - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs)
+
+### Alternatives
+
+[Bito](https://bito.ai/)
+[【永久免费 ChatGPT4 编程 AI 助手】Bito AI VSCode 扩展对话式生成代码 10 倍提高开发效率 可平替 Github Copilot - YouTube](https://www.youtube.com/watch?v=UvGUAn5ua3c)
+
+[AWS CodeWhisperer… The Copilot Killer? - YouTube](https://www.youtube.com/watch?v=FJACTC9wFhU)
+[Amazon CodeWhisperer - 免费｜支持中文｜可在 vscode 等编辑器直接使用｜自动代码生成 - 知乎](https://zhuanlan.zhihu.com/p/621800084)
+
 ## GitHub Actions
 
 Put YAML in `.github/workflows/`
@@ -164,6 +179,7 @@ Put YAML in `.github/workflows/`
 [sdras/awesome-actions: A curated list of awesome actions to use on GitHub](https://github.com/sdras/awesome-actions)
 
 [Automatic Deployment With Github Actions - YouTube](https://www.youtube.com/watch?v=X3F3El_yvFg)
+[Announcing the GitHub Actions extension for VS Code | The GitHub Blog](https://github.blog/2023-03-28-announcing-the-github-actions-extension-for-vs-code/)
 
 [Deploy to GitHub Pages · Actions · GitHub Marketplace](https://github.com/marketplace/actions/deploy-to-github-pages)
 [actions/virtual-environments: GitHub Actions virtual environments](https://github.com/actions/virtual-environments)
@@ -223,7 +239,7 @@ Put YAML in `.github/workflows/`
 
 ## Links
 
-```
+```txt
 # browse tree in browser
 https://github.com/<user>/<repo>/tree/<branch>/<folder>
 # e.g.:
@@ -294,7 +310,7 @@ You must use `git` user (not USERNAME) for git protocol; you can then use multip
 
 `~/.git/config`:
 
-```
+```conf
 # Personal GitHub
 Host github.com
   HostName github.com
@@ -310,7 +326,7 @@ Host github-COMPANY
   IdentitiesOnly yes
 ```
 
-```
+```sh
 > ssh -T git@github.com
 Hi <personal username>! You've successfully authenticated...
 > ssh -T git@github-COMPANY

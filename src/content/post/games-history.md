@@ -107,6 +107,25 @@ tags:
 [Crash Bandicoot Co-Creator Andy Gavin: Extended Interview | Ars Technica - YouTube](https://www.youtube.com/watch?v=pSHj5UKSylk)
 [US20070066403A1 - Method for dynamically adjusting an interactive application such as a videogame based on continuing assessments of user capability - Google Patents](https://patents.google.com/patent/US20070066403A1/en)
 
+## Bio Hazard
+
+[【万字解析】一口气看完生化危机 0 到生化危机 8 的编年史，25 年的时光都改变了什么 resident evil village - YouTube](https://www.youtube.com/watch?v=htRcR_b7YU8)
+
+[這才是原味的生存恐怖!【生化危機/惡靈古堡 1】原版+重製版 完全鑒賞 Resident Evil 1 - YouTube](https://www.youtube.com/watch?v=d66PEOEPU_o)
+[老生化時代的巔峰「生化危機 2/惡靈古堡 2」原版+重製版 完全鑒賞 (Resident Evil 2) 4K60 畫質 - YouTube](https://www.youtube.com/watch?v=jiWWfT5Q-hg)
+[【生化危機/惡靈古堡系列】莫依菈/娜塔莉亞 - 暴躁少女孤島驚魂記 (遊戲統計局#52)(女子圖鑒) Resident Evil Revelations 2 - YouTube](https://www.youtube.com/watch?v=5cuaO-e9BjQ)
+[為什麼這個遊戲永遠不過時?【生化危機 4】全鑒賞 (惡靈古堡 4) Resident Evil 4 - YouTube](https://www.youtube.com/watch?v=D0Z0vhw8oY8)
+[又吃書了?!「生化危機/惡靈古堡 4」新版/原版全部區別解析 Resident Evil 4 Remake (4K60 畫質) - YouTube](https://www.youtube.com/watch?v=6IJCrTDwzCA)
+[「惡靈古堡/生化危機 7」回顧 - 八代主角伊森是誰？Resident Evil 7 Biohazard 2017 - YouTube](https://www.youtube.com/watch?v=ZV6CGOVimLw)
+[村裡那點事~ 「惡靈古堡 8/生化危機 8 村莊」評鑒+劇情詳解 - Resident Evil Village 2021 - YouTube](https://www.youtube.com/watch?v=Gu5t15wMYbE)
+[最強毒二代之謎! 《蘿絲魅影》(生化危機/惡靈古堡 8 村莊) DLC 解析 Resident Evil Village Shadow of Rose 2022 - YouTube](https://www.youtube.com/watch?v=S1V5dZwcW1E)
+
+[【生化危機/惡靈古堡系列】克蕾兒編年史, 克妹從少女到御姐的瘋狂歷程 (遊戲統計局#31) Resident Evil 2 Remake 2019 - YouTube](https://www.youtube.com/watch?v=0Z97FUuUfgU)
+[【生化危機/惡靈古堡系列】艾達·王編年史, 讓人欲罷不能的傳奇美魔女 (遊戲統計局#35) Resident Evil 2 Remake 2019 - YouTube](https://www.youtube.com/watch?v=XYOk5ga5NCI)
+[【生化危機 3/惡靈古堡 3】吉兒女神編年史, 帶你徹底認識系列的元老! (遊戲統計局#31) Resident Evil 3 Remake 2020 - YouTube](https://www.youtube.com/watch?v=MPTivIw384Y)
+[【生化危機/惡靈古堡系列】莫依菈/娜塔莉亞 - 暴躁少女孤島驚魂記 (遊戲統計局#52)(女子圖鑒) Resident Evil Revelations 2 - YouTube](https://www.youtube.com/watch?v=5cuaO-e9BjQ)
+[一次搞懂! 惡靈古堡(生化危機)系列各大組織揭秘 Resident Evil All Organisations Explained - YouTube](https://www.youtube.com/watch?v=OPxXmiw1fJo)
+
 ## Speed Runs
 
 Speed runs usually exploit glitches in game.
@@ -139,6 +158,8 @@ Speed runs usually exploit glitches in game.
 [有史以来销量最高的游戏主机：一代神机 PS2！那些你知或不知的历史 - YouTube](https://www.youtube.com/watch?v=mSQQxtCLg4A)
 [【科技杂谈 92】索尼 PS2 游戏机发展史第一期：PS2 研发的那些事儿（history of sony PS2） - YouTube](https://www.youtube.com/watch?v=-uv8rNXExlA)
 [【索尼 PS2 游戏机发展史】第二期：天下无敌【科技杂谈 93】 - YouTube](https://www.youtube.com/watch?v=rb907LLVFw4)
+[【索尼 PS2 游戏机发展史】第三期：最糟糕的首发【科技杂谈 97】 - YouTube](https://www.youtube.com/watch?v=QAzxCZf4GCI)
+[【索尼 PS2 游戏机发展史】第四期：一起上我赶时间【科技杂谈 98】 - YouTube](https://www.youtube.com/watch?v=2W_qSZ5ZLeU)
 [21 世纪最贵游戏主机！索尼 PS3 主机发展历史第一期【科技杂谈 54】 - YouTube](https://www.youtube.com/watch?v=-rlEbvPUJdQ)
 [死亡 FLAG 插满的主机！索尼 PS3 主机发展历史第二期【科技杂谈 57】 - YouTube](https://www.youtube.com/watch?v=dN9v6czDTQw)
 [【科技杂谈 59】走向破产的索尼 SCE！索尼 PS3 主机发展历史第三期 - YouTube](https://www.youtube.com/watch?v=7OwSJsu6Kek)

@@ -16,7 +16,11 @@ Documents the history of Internet and major events.
 
 [A Complete History Archive - The History of the Web](https://thehistoryoftheweb.com/complete-history/)
 [Learn the History of the Internet in Dr. Chuck's 9-Hour Course](https://www.freecodecamp.org/news/learn-the-history-of-the-internet-in-dr-chucks/) !important
+
+[How the Internet Crossed the Sea | Nostalgia Nerd - YouTube](https://www.youtube.com/watch?v=A8q7Ayvw5kA)
 [How the Internet works: Submarine fiber, brains in jars, and coaxial cables | Ars Technica](http://arstechnica.com/information-technology/2016/05/how-the-internet-works-submarine-cables-data-centres-last-mile/)
+[Transmission Line Theory is Born - the GENIUS of Lord Kelvin and the FAILED transatlantic cable - YouTube](https://www.youtube.com/watch?v=ASNQ8rNzcLc)
+
 [We're gunna program like it's 1999 by Lee Byron - YouTube](https://www.youtube.com/watch?v=jMZssfxL6Sg) on frontend features
 [ForEveryone.net | The web, past and future | Web Foundation - YouTube](https://www.youtube.com/watch?v=cCE2EyV_IiY)
 [How Does The Internet Work? (3mins) | Web Development Basics 2021 - YouTube](https://www.youtube.com/watch?v=ibPcdsvp7DU)

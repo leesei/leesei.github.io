@@ -1,6 +1,6 @@
 ---
 title: SVG
-description: "Scalable Vector Graphics"
+description: Scalable Vector Graphics
 created: 2016-02-21
 updated: 2023-03-24
 tags:

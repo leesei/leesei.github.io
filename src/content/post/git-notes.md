@@ -52,7 +52,6 @@ You can always check reflog to restore commit no matter how you messed with your
 
 [12 Best Resources to Learn Git Online for FREE in 2023 - DEV Community 👩‍💻👨‍💻](https://dev.to/javinpaul/12-best-resources-to-learn-git-online-in-2023-4apo)
 
-[Learn Git Version Control using Interactive Browser-Based Labs | Katacoda](https://www.katacoda.com/courses/git)
 [Learn git concepts, not commands - DEV Community 👩‍💻👨‍💻](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
 [Git: A Complete Guide. Covering the essential commands for a… | by Rahul Pathak | Towards Data Science](https://towardsdatascience.com/git-a-complete-guide-d49675d02a5d)
 
@@ -75,7 +74,7 @@ You can always check reflog to restore commit no matter how you messed with your
 [Git 版本控制系統 | ihower 的 Git 教室](https://ihower.tw/git/)
 [Learn Git Branching](https://learngitbranching.js.org/) !important
 [Interactive Git Tutorials – Rebase and Bisect – zwischenzugs](https://zwischenzugs.com/2016/04/24/interactive-git-tutorials-rebase-and-bisect/)
-[How to become a Git expert – freeCodeCamp.org](https://medium.freecodecamp.org/how-to-become-a-git-expert-e7c38bf54826)
+[How to become a Git expert](https://www.freecodecamp.org/news/how-to-become-a-git-expert-e7c38bf54826)
 [Git It Right » Linux Magazine](http://www.linux-magazine.com/Issues/2018/216/Version-Control-with-Git)
 [Many Branches » Linux Magazine](http://www.linuxpromagazine.com/Online/Features/Remote-Git-Repositories)
 
@@ -167,7 +166,7 @@ You can always check reflog to restore commit no matter how you messed with your
 
 ## plugins
 
-> see `learn-to-code.md#changelog`
+[[learn-to-code#Changelog]]
 
 [stevemao/awesome-git-addons: A curated list of addons that extends git cli.](https://github.com/stevemao/awesome-git-addons)
 
@@ -715,6 +714,9 @@ Using `diff-so-fancy` as PAGER
 [Setting up and using Meld as your git difftool and mergetool - Stack Overflow](https://stackoverflow.com/questions/34119866/setting-up-and-using-meld-as-your-git-difftool-and-mergetool)
 [git merge - How to set Meld as git mergetool - Stack Overflow](https://stackoverflow.com/questions/12956509/how-to-set-meld-as-git-mergetool)
 [Git Tutorial: Diff and Merge Tools - YouTube](https://www.youtube.com/watch?v=iCGrKFH2oeo)
+
+[The EXTREMELY helpful guide to merge conflicts - YouTube](https://www.youtube.com/watch?v=HosPml1qkrg)
+VS Code's 3-way Merge Editor
 
 ### vimdiff
 

@@ -263,6 +263,8 @@ Wireshark can open many dump formats (e.g. `.cap`/`.pcap` from `tcpdump`)
 ```sh
 # list listening TCP ports
 netstat -ntlp
+netstat -4 tcp:80
+
 lsof -i udp:24000
 lsof -i tcp:80
 ```

@@ -11,6 +11,15 @@ tags:
 [What RESTful actually means](https://codewords.recurse.com/issues/five/what-restful-actually-means) !important
 [What is a REST API? - Twilio](https://www.twilio.com/docs/glossary/what-is-a-rest-api)
 
+[The Rest of ReST - Dylan Beattie - YouTube](https://www.youtube.com/watch?v=g8E1B7rTZBI)
+
+- most people are not doing REST
+- JSON+Hypermedia is REST
+  JSON-LD, JSONAPI, Hydra, HAL
+- resource expansion, `?expand=[update, friend.name]`
+- API versioning
+- OAuth2
+
 [The RESTful cookbook](http://restcookbook.com/)
 [REST API Tutorial](http://www.restapitutorial.com/)
 [Design an easy to use and flexible REST API - DEV Community 👩‍💻👨‍💻](https://dev.to/khalyomede/design-an-easy-to-use-and-flexible-rest-endpoints-3fia)

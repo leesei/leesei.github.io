@@ -28,13 +28,14 @@ tags:
 
 [10 Best Tiling Window Managers for Linux](https://www.tecmint.com/best-tiling-window-managers-for-linux/amp/)
 
-[Way Cooler](http://way-cooler.org/) awesome tiling Wayland WM, Rust, with Lua integrated
+[Way Cooler](http://way-cooler.org/) awesome tiling Wayland WM, Rust, with Lua integration
 
 [i3 - improved tiling wm](https://i3wm.org/)
 [i3: i3 User’s Guide](https://i3wm.org/docs/userguide.html)
+`compton` to set opacity
 
 [baskerville/bspwm: A tiling window manager based on binary space partitioning](https://github.com/baskerville/bspwm)
-[https://stumpwm.github.io](https://stumpwm.github.io/)
+[StumpWM](https://stumpwm.github.io/)
 [conformal/spectrwm: A small dynamic tiling window manager for X11.](https://github.com/conformal/spectrwm)
 [Bluetile - full-featured tiling for the GNOME desktop environment](https://bluetile.org/)
 [xmonad | the tiling window manager that rocks](http://xmonad.org/) Haskell
@@ -45,6 +46,7 @@ tags:
 [How To Install Pop Shell Window Tiling Extension On Ubuntu 20.04, 20.10 Or 21.04, Fedora 32, 33 Or 34, Debian Bullseye Or Sid, And Arch Linux Or Manjaro - Linux Uprising Blog](https://www.linuxuprising.com/2020/05/how-to-install-pop-shell-tiling.html)
 [How to Install Pop Shell Window Tiling Extension on Ubuntu 20.04](https://linoxide.com/how-to-install-pop-shell-window-tiling-extension-on-ubuntu-20-04/)
 
+[Material Shell - A new desktop experience](https://material-shell.com/)
 [material-shell/material-shell: A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.](https://github.com/material-shell/material-shell)
 ['Material Shell' is an Impressive Tiling GNOME Shell Extension - OMG! Ubuntu!](https://www.omgubuntu.co.uk/2019/07/material-shell-tiling-gnome-shell-extension/amp)
 

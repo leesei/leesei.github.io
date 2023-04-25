@@ -11,6 +11,8 @@ tags:
   - natural-language
 ---
 
+> split to lang specific files
+
 [The Language Realm - Your Free Resource for language and Translation Services](http://www.languagerealm.com/)  
 [Free Language Courses | Language Transfer](https://www.languagetransfer.org/home)  
 [The Hardest Language To Spell - YouTube](https://www.youtube.com/watch?v=btn0-Vce5ug)  
@@ -81,7 +83,7 @@ Wanda Skyes
 [阿滴英文 - YouTube](https://www.youtube.com/channel/UCeo3JwE3HezUWFdVcehQk9Q/playlists)
 [英文學習技巧 - YouTube](https://www.youtube.com/playlist?list=PLG47EBGFEJNblUqd5nm2joeKlnRuKbY5H) 阿滴英文
 [阿滴教文法 - YouTube](https://www.youtube.com/playlist?list=PLG47EBGFEJNZ7X_-UAd0S3gU5igZxbjws) 阿滴英文
-[[KH]英文閱讀法-旋元佑 - YouTube](https://www.youtube.com/playlist?list=PLhvhy0dgLGeAFzCnlnd3sAp8drXZk4x4h)
+[英文閱讀法-旋元佑 - YouTube](https://www.youtube.com/playlist?list=PLhvhy0dgLGeAFzCnlnd3sAp8drXZk4x4h)
 [Tom's Language Files - YouTube](https://www.youtube.com/playlist?list=PL96C35uN7xGLDEnHuhD7CTZES3KXFnwm0)
 [哥倫布 Columbus - YouTube](https://www.youtube.com/channel/UCXJJ9PYUbJ2GzZdb1lzTo8Q)
 [CrazyEnglish - YouTube](https://www.youtube.com/@Crazy-English)
@@ -109,6 +111,21 @@ Wanda Skyes
 [VoiceTube《看影片學英語》70,000 部英文學習影片，每天更新](https://tw.voicetube.com)
 [Learning a language? Speak it like you’re playing a video game | Marianna Pascal | TEDxPenangRoad - YouTube](https://www.youtube.com/watch?v=Ge7c7otG2mk) being able to communicate with low level of English
 [如何用「回音法」學好英文口說 | 史嘉琳 Karen Chung | TEDxNTUST - YouTube](https://www.youtube.com/watch?v=sQEWEPIHLzQ)
+
+### Adjectives
+
+Order of multiple adjectives:
+
+- order of number
+- opinion
+- size
+- age
+- shape
+- color
+- origin
+- material
+- purpose
+- proper adjectives (European, Euclidean)
 
 ### Dict
 
@@ -355,7 +372,7 @@ em-dash used like colon to introduce list, or comma to separate out indefinite r
 
 ### Doge Grammar
 
-[Doge (meme) - Wikiwand](https://www.wikiwand.com/en/Doge_%28meme%29)
+[Doge (meme) - Wikiwand](<https://www.wikiwand.com/en/Doge_(meme)>)
 
 [A Linguist Explains the Grammar of Doge. Wow. - The Toast](http://the-toast.net/2014/02/06/linguist-explains-grammar-doge-wow/)
 [How to speak Doge – Scientific Scribbles](https://blogs.unimelb.edu.au/sciencecommunication/2016/10/22/how-to-speak-doge/)
@@ -469,6 +486,7 @@ favor active over passive voice, except for:
 [Chinese English Dictionary with Pinyin, Strokes, & Audio - Yabla Chinese](https://chinese.yabla.com/chinese-english-pinyin-dictionary.php) write in stroke
 [MDBG Chinese Dictionary](https://www.mdbg.net/chinese/dictionary) write in stroke
 
+[教育部《成語典》2020 [進階版]](https://dict.idioms.moe.edu.tw/search.jsp)
 [漢語多功能字庫 Multi-function Chinese Character Database](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
 
 [網上普通話字典 | 普通話網](https://www.putonghuaweb.com/dict)

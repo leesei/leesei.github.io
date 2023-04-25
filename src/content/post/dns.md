@@ -51,7 +51,9 @@ Secondary Name Server (NS record) for second level domains and sub-domains
 [How to Launch a 65Gbps DDoS, and How to Stop One](https://blog.cloudflare.com/65gbps-ddos-no-problem/)
 [SAD DNS Explained](https://blog.cloudflare.com/sad-dns-explained/)
 
-> see `network.md#anycast`
+## Anycast
+
+[[network#Anycast]]
 
 ## Domain Name
 

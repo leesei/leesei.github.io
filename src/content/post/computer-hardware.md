@@ -17,14 +17,6 @@ tags:
 [Hardware Unboxed - YouTube](https://www.youtube.com/c/Hardwareunboxednow)
 [板廠沒有說的秘密 TOPPC - YouTube](https://www.youtube.com/channel/UCcBHyNvAbtxX8TRJYSQiObw)
 
-# Computer History
-
-[【亦】唠唠计算机与 AI 的童年：大器晚成！六一儿童节特别篇 - YouTube](https://www.youtube.com/watch?v=-kGy0_8n68Y) history of computer
-[Intel predicted the future - YouTube](https://www.youtube.com/watch?v=5-eFLcCDNo8) Intel's education material from 1996
-
-[GeekLogic / 极客逻辑 - YouTube](https://www.youtube.com/@geeklogic)
-[XMF-I Restoration: A Chinese Apple II Clone 35 Years Ago / 极限修复！35 年前清华大学研制点错科技树的中文电脑 - YouTube](https://www.youtube.com/watch?v=EGc8j9_w4FQ)
-
 # PC Assembly
 
 硬件茶谈
@@ -62,6 +54,7 @@ Analytical Engine
 
 [Why Algorithms Suck and Analog Computers are the Future - De Gruyter Conversations](https://blog.degruyter.com/algorithms-suck-analog-computers-future/)
 [Forget Digital Computing, You Need An Analog Computer | Hackaday](https://hackaday.com/2021/10/03/forget-digital-computing-you-need-an-analog-computer/)
+[十分钟略懂存内计算：解除人工智能最后的「封印」？ - YouTube](https://www.youtube.com/watch?v=4LTDer2nQ4Q) AI inference is a suitable use case for analog computing
 
 # Bit Flip/Bit Rot
 
@@ -91,7 +84,7 @@ Analytical Engine
 ## ITX
 
 [Mini-ITX - Wikiwand](https://www.wikiwand.com/en/Mini-ITX) 170x170mm
-[Taking a look at Thin Mini-ITX AM4 motherboards](https://rk.edu.pl/en/taking-look-thin-mini-itx-am4-motherboards/)
+[Taking a look at Thin Mini-ITX AM4 motherboards](https://rk.edu.pl/en/taking-look-thin-mini-itx-am4-motherboards/) Mini-ITX powered by external power brick
 [Nano-ITX - Wikiwand](https://www.wikiwand.com/en/Nano-ITX)
 [Pico-ITX - Wikiwand](https://www.wikiwand.com/en/Pico-ITX) 100x72mm
 Mobile ITX 60x60mm
@@ -106,10 +99,13 @@ A4 机箱: GPU 背靠底板
 
 [宿舍神机！全网第二细的 ITX 装机教程 - YouTube](https://www.youtube.com/watch?v=EXRFOceNL7w)
 
-闪鳞有高性價比
+闪鳞有比較高性價比
 [蜂鸟 i100 升级版？8.1 升手提 ITX 机箱 -关于闪鳞 S300 你不知道的 3 件事！\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1AP411V7Fw/)
 [不仅直接拎走，散热和 IO 设计也很用心 - 闪鳞 S300 ITX 机箱解析 - 知乎](https://zhuanlan.zhihu.com/p/567425393)
 [【ITXLAB】便宜也有好货 优质入门 ITX 机箱 闪鳞 S400 体验\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1vR4y1C77d/)
+
+[立式便携小钢炮——闪鳞 S200 现已上市 - 哔哩哔哩](https://www.bilibili.com/read/cv18858163)
+[饼の聊箱 篇九十四：立式 ITX 结构，更加 mini 的占地面积，闪鳞 S200 机箱装机分享*机箱*什么值得买](https://post.smzdm.com/p/a60q94ve/)
 
 ---
 
@@ -219,12 +215,21 @@ Since CPU and GPU both takes 12V, make sure the 12V rail (not the total) can sup
 
 [How Power Supplies Work - Turbo Nerd Edition - YouTube](https://www.youtube.com/watch?v=i9ZnaA8DZDs)
 
+- linear PSU (Full bridge rectifiers)
+- switching PSU (AC->high voltage DC->PF corrected high voltage high frequency AC->DC)
+
+[How Power Supplies Are Made (2020) | PSU Factory Tour, ft. Cooler Master - YouTube](https://www.youtube.com/watch?v=WLTKRZxXa4I)
+[Power Supply Testing & Failure Analysis: Engineering the Best PSUs (2020) - YouTube](https://www.youtube.com/watch?v=WToOFblsXqM)
+
+SFF: Small Form Factor
+UCFF: Ultra-Compact Form-Factor
+
 Gamers Nexus
 [Talking Catastrophic PSU Failures with JonnyGuru - YouTube](https://www.youtube.com/watch?v=hLWFJ91gKSo)
 [Power Supplies Need a New Rating System (80 Plus Misunderstandings & Cheated Results) - YouTube](https://www.youtube.com/watch?v=QrhuOwNdkA4)
 [Power Supply Mistakes, Tier Lists, & Myths, ft. Jonny Guru - YouTube](https://www.youtube.com/watch?v=keMS-4SYGNU)
 [Good vs. Bad Power Supply Differences Explained by PSU Expert Jonny Guru - YouTube](https://www.youtube.com/watch?v=yDX_1PWUWdw)
-\
+
 [[psucultists] PSU Tier List - Cases and Power Supplies - Linus Tech Tips](https://linustechtips.com/main/topic/1116640-psucultists-psu-tier-list/)
 [PSU Hierarchy (Aug. 2020) - Power Supply Unit Tier List](https://www.gamingscan.com/psu-hierarchy/)
 
@@ -234,6 +239,7 @@ Gamers Nexus
 [Differences of All OCZ and PC & Power Cooling Power Supply Units](https://www.custompcguide.net/differences-of-all-ocz-and-pc-power-cooling-power-supply-units/)
 
 [如何查詢電源供應器 PSU 是哪家代工的 並附常見電供查詢結果 - YouTube](https://www.youtube.com/watch?v=iwiw9tafv04)
+[如何查詢電源供應器 PSU 是哪家代工的](https://www.chsnote.com/2021/10/psu-manufacturer.html)
 
 ## Pinout
 
@@ -256,8 +262,6 @@ You can turn on the PSU by using a paper-clip or jumper wire to short the **gree
 [How to Test the PC's PSU - YouTube](https://www.youtube.com/watch?v=hMP_zqlgzDc)
 [Video Guide: Test a Power Supply with a Paperclip | GamersNexus - Gaming PC Builds & Hardware Benchmarks](https://www.gamersnexus.net/guides/754-video-guide-test-a-psu-with-a-paperclip)
 
-[【硬件科普】intel 要换电源接口标准了？老电源还能不能用了？一个视频带你从根本去了解新 ATX12VO - YouTube](https://www.youtube.com/watch?v=cafBKrlLdpY)
-
 ## Rails
 
 With DC-DC conversion, there is no race between the 5V, 12V rails
@@ -267,6 +271,18 @@ Multiple 12V rails no longer matters (in 2014), quality PSU will have multiple r
 [Specs Dictionary - Rails (PSU) | GamersNexus - Gaming PC Builds & Hardware Benchmarks](https://www.gamersnexus.net/dictionary/6-psu/47-rails-psu)
 
 [Single Rail vs Multi Rail PC Power Supplies as Fast As Possible - YouTube](https://www.youtube.com/watch?v=rC-ImSeYn2A)
+
+## Power Factor
+
+[Power Factor Explained - The Engineering Mindset](https://theengineeringmindset.com/power-factor-explained/)
+[Understanding Power Factor and How It Affects your Energy Bills](https://circuitdigest.com/tutorial/what-is-power-factor-and-how-it-affects-your-energy-bills)
+
+## ATX12VO
+
+[【硬件科普】intel 要换电源接口标准了？老电源还能不能用了？一个视频带你从根本去了解新 ATX12VO - YouTube](https://www.youtube.com/watch?v=cafBKrlLdpY)
+
+[Intel's ATX12VO Spec Explained & What Manufacturers Think - YouTube](https://www.youtube.com/watch?v=ur2eSL344Xs)
+[The Future of Power Supplies - Maybe (Motherboard Cost, Cables, & ATX12VO) - YouTube](https://www.youtube.com/watch?v=Zc9oRKexV_s)
 
 ## 80 Plus
 

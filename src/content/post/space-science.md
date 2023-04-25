@@ -8,7 +8,7 @@ tags:
 
 [[astronomy]]
 
-> TODO: move topics to `astronomy.md`
+> TODO: move topics to [[astronomy]]
 
 [Space.com: NASA, Space Exploration and Astronomy News](https://www.space.com/)
 [Home | NASA Space Place – NASA Science for Kids](https://spaceplace.nasa.gov/)
@@ -20,7 +20,7 @@ tags:
 
 NASA
 [NASA Documentaries - YouTube](https://www.youtube.com/playlist?list=PL2aBZuCeDwlQAGW6uo18_FMl0eIhkeOOv)
-[#BackToSchool with NASA Science - YouTube](https://www.youtube.com/playlist?list=PL2aBZuCeDwlQHIpnk-mRVKL_VQCOIsCS_)
+[BackToSchool with NASA Science - YouTube](https://www.youtube.com/playlist?list=PL2aBZuCeDwlQHIpnk-mRVKL_VQCOIsCS_)
 
 Crash Course
 [Big History - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtMczXZUmjb3mZSU1Roxnrey)
@@ -139,6 +139,7 @@ Which violates conservation of momentum
 [宇宙到底有多危險？「黒暗森林」假說 - YouTube](https://www.youtube.com/watch?v=QfLj8NghgDQ)
 [宇宙 7 級文明有多可怕？無視黑暗森林法則、重啟宇宙只是基礎，最可怕的還在後面！| 腦補大轟炸 - YouTube](https://www.youtube.com/watch?v=t8fuUiUH7Gw)
 [【細思極恐】 “費米悖論” “黑暗森林法則” 竟然都有一個無法解釋的漏洞！ - YouTube](https://www.youtube.com/watch?v=sxJViAg8DwE)
+[Why Aliens Might Already Be On Their Way To Us - YouTube](https://www.youtube.com/watch?v=GDSf2h9_39I)
 
 ## Asteroids/Comets/Meteoroids/Meteors
 
@@ -159,6 +160,8 @@ Kuiper Belt, Oort cloud, Mostly icy
 [流星雨是如何产生的？英仙座流星雨又来啦！ - YouTube](https://www.youtube.com/watch?v=qQ3ubHntk5c)
 [關於彗星的秘密：生也彗星，亡也彗星「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=yZsUb2d4M6I) Project Rosetta
 [Are there centaurs in outer space? • Daniel and Jorge Explain the Universe - Podcast Addict](https://podcastaddict.com/episode/116943172)
+
+[Daniel and Jorge Explain the Universe: How to land a robot on an asteroid on Apple Podcasts](https://podcasts.apple.com/au/podcast/how-to-land-a-robot-on-an-asteroid/id1436616330?i=1000497279911)
 
 ## Space Station
 

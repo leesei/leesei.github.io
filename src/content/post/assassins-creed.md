@@ -11,13 +11,13 @@ tags:
 [Assassin's Creed](https://www.reddit.com/r/assassinscreed/)
 [Assassin's Creed Wiki | Fandom](https://assassinscreed.fandom.com/wiki/Assassin%27s_Creed_Wiki)
 
-[The Evolution of Assassin's Creed: From the Holy Land to Valhalla Assassin's Creed Valhalla](https://in.ign.com/assassins-creed-2020-playstation-5/148883/feature/the-evolution-of-assassins-creed-from-the-holy-land-to-valhalla?amp=1)
+[The Evolution of Assassin's Creed: From the Holy Land to Valhalla Assassin's Creed Valhalla](https://in.ign.com/assassins-creed-2020-playstation-5/148883/feature/the-evolution-of-assassins-creed-from-the-holy-land-to-valhalla)
 
 Nothing is true, everything is permitted
 <https://youtu.be/IcaED6Jefi4?t=2741>
 
 [How Ubisoft CEO's Kid Changed Assassin's Creed - EssentiallySports](https://www.essentiallysports.com/how-ubisoft-ceos-kid-changed-assassins-creed-esports-news/amp/)
-[Loomer on Twitter: "Excerpts from the Assassin's Creed brand bible, likely circa 2008-2010-ish. #GDC Transcription here: https://t.co/3Oi1UQiFkK Full GDC talk here: https://t.co/bG3nJpzQsp https://t.co/MoapPiKSQp" / Twitter](https://twitter.com/loomer979/status/979818084578992129)
+[Loomer on Twitter: "Excerpts from the Assassin's Creed brand bible, likely circa 2008-2010-ish. GDC Transcription here: https://t.co/3Oi1UQiFkK Full GDC talk here: https://t.co/bG3nJpzQsp https://t.co/MoapPiKSQp" / Twitter](https://twitter.com/loomer979/status/979818084578992129)
 [AC Bible Excerpts (likely circa 2008-2010-ish) - Pastebin.com](https://pastebin.com/ymJKLtnX)
 
 [Assassin's Creed: What If - YouTube](https://www.youtube.com/playlist?list=PL_rnO4iz0ALmrxolECxydkYHtkE1_A7ud)

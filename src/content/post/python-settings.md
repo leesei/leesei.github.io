@@ -31,9 +31,6 @@ On Windows Python loads according to `%PATH%` variable.
 python -c "import site; print(site.getsitepackages())"
 ```
 
-[Presentations & Blog Posts — Conda documentation](http://conda.pydata.org/docs/)
-[Anaconda Distribution | Continuum Analytics: Documentation](https://docs.continuum.io/anaconda/)
-
 [Python Module of the Week - Python Module of the Week](https://pymotw.com/2/index.html)
 [Python 3 Module of the Week — PyMOTW 3](https://pymotw.com/3/)
 [dhellmann / PyMOTW-3 — Bitbucket](https://bitbucket.org/dhellmann/pymotw-3/)
@@ -52,9 +49,19 @@ python -c "import site; print(site.getsitepackages())"
 - global dependencies (solved with virtual env)
 - no dependency resolution
 
-[How to use GitHub as a PyPi server – freeCodeCamp.org](https://medium.freecodecamp.org/how-to-use-github-as-a-pypi-server-1c3b0d07db2)
+[How to use GitHub as a PyPi server](https://www.freecodecamp.org/news/how-to-use-github-as-a-pypi-server-1c3b0d07db2)
 
 [my python project setup (+ all tools) (intermediate) anthony explains #396 - YouTube](https://www.youtube.com/watch?v=q8DkatMZvUs)
+
+## Anaconda
+
+[Anaconda Distribution | Continuum Analytics: Documentation](https://docs.continuum.io/anaconda/)
+[Presentations & Blog Posts — Conda documentation](http://conda.pydata.org/docs/)
+
+- introduces the whole root file system
+- still depends on system libraries
+- the conda environment could potentially leak
+- could have used Docker nowadays
 
 ### Installing pip
 
@@ -521,7 +528,6 @@ flask-security flask-sqlalchemy
 [Welcome to web2py’s API documentation!](http://web2py.readthedocs.io/en/latest/)
 [web2py video course 2013 on Vimeo](https://vimeo.com/album/3016728)
 
-[jczic/MicroWebSrv: A micro HTTP Web server that supports WebSockets, html/python language templating and routing handlers, for MicroPython (used on Pycom modules & ESP32)](https://github.com/jczic/MicroWebSrv)
 [channelcat/sanic: Async Python 3.5+ web server that's written to go fast](https://github.com/channelcat/sanic)
 [encode/apistar: A smart Web API framework, designed for Python 3. 🌟](https://github.com/encode/apistar)
 [molten: modern API framework — molten 0.1.0 documentation](https://moltenframework.com/)
@@ -666,24 +672,15 @@ asyncio.run(main())
 [Welcome to PyPubSub’s Home Page! — Pypubsub v4.0.3 Documentation](https://pypubsub.readthedocs.io/en/v4.0.3/)
 [schollii/pypubsub: A Python publish-subcribe library (moved here from SourceForge.net where I had it for many years)](https://github.com/schollii/pypubsub)
 
-## Image manipulation
-
-[Wand documentation](http://docs.wand-py.org/en/latest/index.html#)
-[ImageMagick/PythonMagick: PythonMagick](https://github.com/ImageMagick/PythonMagick)
-[python - Documents and examples of PythonMagick - Stack Overflow](http://stackoverflow.com/questions/1740158/documents-and-examples-of-pythonmagick/5188661#5188661)
-
-[Python Imaging Library (PIL)](http://www.pythonware.com/products/pil/)
-[Pillow — Pillow (PIL Fork) documentation](http://pillow.readthedocs.io/en/latest/)
-`python-image` of most distro points to `pillow`
-[Image Module — Pillow (PIL Fork) documentation](https://pillow.readthedocs.io/en/stable/reference/Image.html)
-[Concepts — Pillow (PIL Fork) documentation](https://pillow.readthedocs.io/en/stable/handbook/concepts.html)
-
-[Imageio website](https://imageio.github.io/)
-
 ## Configs
 
 [python-decouple · PyPI](https://pypi.org/project/python-decouple/) load `.env`
 [Do You Really Need Environment Variables in Python? | iRead](https://iread.ga/posts/49/do-you-really-need-environment-variables-in-python)
+
+### Dynaconf
+
+[Dynaconf](https://www.dynaconf.com/)
+[PulpCon 2021 - Dynaconf: What is it, How Pulp uses it, What is coming on v4.0 - YouTube](https://www.youtube.com/watch?v=lzgvvODsw_w)
 
 ### ConfigParser
 
@@ -699,6 +696,7 @@ print({section: dict(config[section]) for section in config.sections()})
 
 ## Database/ORM
 
+[Raw SQL, SQL Query Builder, or ORM? - YouTube](https://www.youtube.com/watch?v=x1fCJ7sUXCM)
 [Object-relational Mappers (ORMs) - Full Stack Python](https://www.fullstackpython.com/object-relational-mappers-orms.html)
 [Why should you use an ORM (Object Relational Mapper)? - HedgeDoc](https://monadical.com/posts/why-use-orm.html)
 
@@ -1041,6 +1039,8 @@ The resulting search path is accessible in the Python variable `sys.path` which 
 > TODO: clean up articles using `setuptools`
 > TODO: clean up articles using `pyproject.toml`
 
+[[python-the-packaging-gradient]]
+
 [[#pip-tools]]
 [[#Poetry]]
 [[#PDM]]
@@ -1149,7 +1149,7 @@ Defines `pyproject.toml`, decouples from `setuptools` to allow multiple build to
 Build wheel with a minimal `setup.py` and `setup.cfg`.
 [Building a Python package, and a docker image via Pipenv](https://medium.com/@greut/building-a-python-package-a-docker-image-using-pipenv-233d8793b6cc)
 
-## Package as Exe/Freezing
+## Packaging Application/Freezing
 
 The act of bundling all dependencies, and optionally to make a standalone binary, is called _freezing_ in Python
 
@@ -1163,12 +1163,21 @@ The act of bundling all dependencies, and optionally to make a standalone binary
 
 [`py2exe`](http://www.py2exe.org/) and [`py2app`](https://wiki.python.org/moin/MacPython/py2app) are Windows and OSX specific solution
 
+osnap
+pynist
+nuitka
+
 [Briefcase](https://briefcase.readthedocs.io/en/latest/)
 [Nuitka the Python Compiler — Nuitka the Python Compiler documentation](https://nuitka.net/)
 
 [linkedin/shiv: shiv is a command line utility for building fully self contained Python zipapps as outlined in PEP 441, but with all their dependencies included.](https://github.com/linkedin/shiv)
 
 [pantsbuild/pex: A library and tool for generating .pex (Python EXecutable) files](https://github.com/pantsbuild/pex)
+
+- shebang + zip file
+- requires system Python
+- OS specific (can be built for cross-platform)
+- similar to wheels
 
 ### PyInstaller
 

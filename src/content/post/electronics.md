@@ -51,6 +51,7 @@ tags:
 [RimstarOrg - YouTube](https://www.youtube.com/channel/UCSY6p1ZwMs0lW2XP7Zc7k9g)
 [ElectroBOOM101 - YouTube](https://www.youtube.com/playlist?list=PLr_CZLgMkHeWFl1uf5yR2ouhIh00ycHn9)
 
+[Visual Electric - YouTube](https://www.youtube.com/@VisualElectric_)
 [Electronic Basics - YouTube](https://www.youtube.com/playlist?list=PLAROrg3NQn7cyu01HpOv5BWo217XWBZu0) Great Scott
 [Electronics for Beginners - YouTube](https://www.youtube.com/playlist?list=PLzqS33DOPhJkRn6e9_OTdQwRojO8qlusI) Afrotechmods
 [Electronics Tutorials - YouTube](https://www.youtube.com/playlist?list=PLqyw60j6c9OsgLwbklRYIIYL3dgmd6Fyw) Crazy Couple
@@ -203,6 +204,16 @@ so capacitors are often used in pairs:
 
 [Should a Person Touch 200,000 Volts? A Van de Graaff generator experiment! - YouTube](https://www.youtube.com/watch?v=ubZuSZYVBng)
 [Van de Graaff Generators - YouTube](https://www.youtube.com/playlist?list=PLFsZmHTZL-zka0LhlvO6DsH3Jd3eR816H)
+
+## Phase Lock Loop
+
+[Phase-locked loop - Wikiwand](https://www.wikiwand.com/en/Phase-locked_loop)
+
+[锁相放大器的基本工作原理 - YouTube](https://www.youtube.com/watch?v=YMF38HO5Ipg)
+[让频率提升几十倍的电路！锁相环的工作原理！ - YouTube](https://www.youtube.com/watch?v=YtlwIFsiWtE)
+
+Voltage Control Oscillator (VCO) outputs the high frequency.
+But it needs the Phase Comparator and Low pass filter to ???
 
 ## Oscilloscopes
 
@@ -536,6 +547,11 @@ Arduino's PWM (`analogWrite()`) frequency is about 500Hz, 8 bit resolution.
 [ATmega168A Pulse Width Modulation - PWM - Protostack](https://protostack.com.au/2011/06/atmega168a-pulse-width-modulation-pwm/)
 
 [ESP32 LED PWM Controller Example and Sample Code](http://iot-bits.com/esp32/esp32-led-pwm-controller-example-sample-code/)
+
+## MEMS
+
+[MEMS - Wikiwand](https://www.wikiwand.com/en/Microelectromechanical_systems)
+[The ingenious micro mechanisms inside your phone - YouTube](https://www.youtube.com/watch?v=9X4frIQo7x0)
 
 ## EDA tools
 

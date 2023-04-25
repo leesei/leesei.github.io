@@ -3,12 +3,12 @@ title: Espressif
 description: ""
 created: 2018-10-20
 tags:
-  - maker
+  - esp-c3
   - esp32
   - esp8266
-  - esp-c3
   - espressif
   - iot
+  - maker
 ---
 
 # Espressif (ESP)
@@ -342,7 +342,6 @@ Andreas Spiess, the guy with Sweden accent
 [An ESP8266 Sundial For Your Wall | Hackaday](https://hackaday.com/2019/03/20/an-esp8266-sundial-for-your-wall/)
 [dheera/shadow-clock: a wall clock](https://github.com/dheera/shadow-clock)
 
-[AM Radio Transmitter – bitluni's lab](http://bitluni.net/am-radio-transmitter/)
 [ESP32 Composite Video – bitluni's lab](http://bitluni.net/esp32-composite-video/)
 [ESP32 VGA – bitluni's lab](http://bitluni.net/esp32-vga/)
 [ESP32/ESP8266 Plot Sensor Readings in Real Time Charts | Random Nerd Tutorials](https://randomnerdtutorials.com/esp32-esp8266-plot-chart-web-server/)

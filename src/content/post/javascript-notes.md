@@ -13,7 +13,7 @@ Sun (now Oracle) owns the trademark of the name "Java", hence "JavaScript". So t
 
 Harmony stands for the ES5+ feature set. Some of them will be in ES6, some of them will be in the future version of ES.
 
-[The Complete JavaScript Handbook – freeCodeCamp.org](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
+[The Complete JavaScript Handbook](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c)
 
 [ECMAScript - Wikiwand](http://www.wikiwand.com/en/ECMAScript)
 [Brendan Eich » Blog Archive » A Brief History of JavaScript](https://brendaneich.com/2010/07/a-brief-history-of-javascript/)
@@ -86,8 +86,8 @@ Harmony stands for the ES5+ feature set. Some of them will be in ES6, some of th
 
 [Video: An overview of ECMAScript 6](http://www.2ality.com/2013/06/video-es6.html)
 [Four talks on ECMAS cript 6/ECMAScript.next](http://www.2ality.com/2012/11/es6-talks.html)
-[#RSConf. Dr. Axel Rauschmayer. Using ECMAScript 6 today. Part I - YouTube](https://www.youtube.com/watch?v=Fg3bEZIcnUw)
-[#RSConf. Dr. Axel Rauschmayer. Using ECMAScript 6 today. Part II - YouTube](https://www.youtube.com/watch?v=Vhhq1WpzsnM)
+[RSConf. Dr. Axel Rauschmayer. Using ECMAScript 6 today. Part I - YouTube](https://www.youtube.com/watch?v=Fg3bEZIcnUw)
+[RSConf. Dr. Axel Rauschmayer. Using ECMAScript 6 today. Part II - YouTube](https://www.youtube.com/watch?v=Vhhq1WpzsnM)
 
 [How to Write an Open Source JavaScript Library - Video Tutorial Series @eggheadio](https://egghead.io/series/how-to-write-an-open-source-javascript-library)
 
@@ -108,7 +108,7 @@ Harmony stands for the ES5+ feature set. Some of them will be in ES6, some of th
 [Human JavaScript](http://read.humanjavascript.com/) &yet + React.js
 
 [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) learn and deeply understand all of JavaScript
-[You Might Not Know JS: Insights From the JavaScript Bible](https://medium.freecodecamp.org/you-might-not-know-js-insights-from-the-javascript-bible-2ee9518302aa)
+[You Might Not Know JS: Insights From the JavaScript Bible](https://www.freecodecamp.org/news/you-might-not-know-js-insights-from-the-javascript-bible-2ee9518302aa)
 [Kyle Simpson proved I STILL don't know JavaScript (arrays) - DEV Community 👩‍💻👨‍💻](https://dev.to/paceaux/kyle-simpson-proved-i-still-don-t-know-javascript-2fnp)
 
 [Exploring ES6](http://exploringjs.com/es6/) Axel Rauschmayer, ES6
@@ -290,7 +290,7 @@ const arr = new Int32Array(sharedBuffer);
 
 ## Destructuring
 
-[Destructuring and parameter handling in ECMAScript 6](http://www.2ality.com/2015/01/es6-destructuring.html#the_spread_operator_%28...%29)
+[Destructuring and parameter handling in ECMAScript 6](<http://www.2ality.com/2015/01/es6-destructuring.html#the_spread_operator_(...)>)
 [ES6 Destructuring: The Complete Guide – codeburst](https://codeburst.io/es6-destructuring-the-complete-guide-7f842d08b98f)
 [Javascript's three dots ( ... ): Spread vs rest operators ― Scotch.io](https://scotch.io/bar-talk/javascripts-three-dots-spread-vs-rest-operators543)
 
@@ -321,8 +321,15 @@ const arr = new Int32Array(sharedBuffer);
 [How Callbacks Work - macwright.org](http://www.macwright.org/2013/07/10/how-callbacks-work.html)
 [Understanding callback functions in Javascript](http://recurial.com/programming/understanding-callback-functions-in-javascript/)
 
+[Home - Documentation](http://caolan.github.io/async/v3/)
 [caolan/async: Async utilities for node and the browser](https://github.com/caolan/async)
 [mcollina/steed: horsepower for your modules](https://github.com/mcollina/steed)
+
+[feross/run-auto: Determine the best order for running async functions, LIKE MAGIC!](https://github.com/feross/run-auto)
+[feross/run-series: Run an array of functions in series](https://github.com/feross/run-series)
+[feross/run-parallel: Run an array of functions in parallel](https://github.com/feross/run-parallel)
+[feross/run-parallel-limit: Run an array of functions in parallel, but limit the number of tasks executing at the same time](https://github.com/feross/run-parallel-limit)
+[feross/run-waterfall: Run an array of functions in series, each passing its results to the next function](https://github.com/feross/run-waterfall)
 
 ### Releasing Zalgo
 
@@ -896,9 +903,9 @@ ReasonML is backed by ReScript which compiles OCaml to JavaScript.
 
 [Taming the asynchronous beast with ES7](http://pouchdb.com/2015/03/05/taming-the-async-beast-with-es7.html)
 [ECMAScript - A Taste from ES2019 (ES10)](https://nitayneeman.com/posts/a-taste-from-ecmascript-2019/)
-[ES5 to ESNext — here’s every feature added to JavaScript since 2015](https://medium.freecodecamp.org/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e)
+[ES5 to ESNext — here’s every feature added to JavaScript since 2015](https://www.freecodecamp.org/news/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e)
 
-[Here are examples of everything new in ECMAScript 2016, 2017, and 2018](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e)
+[Here are examples of everything new in ECMAScript 2016, 2017, and 2018](https://www.freecodecamp.org/news/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e)
 [ES2021](https://h3manth.com/ES2021/)
 
 ## JavaScript Enterprise Container (JEC)

@@ -155,6 +155,11 @@ mongoexport --db users --collection contacts --type=csv --headerline contacts.cs
 [Partitions — MongoDB Realm](https://docs.mongodb.com/realm/sync/partitions/)
 [Partition Strategies — MongoDB Realm](https://docs.mongodb.com/realm/sync/partition-strategies/#std-label-partition-strategies)
 
+## Internals
+
+[MongoDB internal Architecture. I’m a big believer that database… | by Hussein Nasser | Medium](https://medium.com/@hnasr/mongodb-internal-architecture-9a32f1403d6f)
+[MongoDB Internal Architecture - YouTube](https://www.youtube.com/watch?v=ONzdr4SmOng)
+
 ## Indexes
 
 [MongoDB Performance 101: How To Improve the Speed of MongoDB App](https://medium.com/better-programming/mongodb-performance-101-how-to-improve-the-speed-of-mongodb-app-a59f2390ee5)

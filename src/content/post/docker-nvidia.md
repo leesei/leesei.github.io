@@ -4,9 +4,9 @@ description: ""
 created: 2017-11-03
 tags:
   - container
+  - dev/deploy
   - docker
   - nvidia
-  - dev/deploy
 ---
 
 [Installing Docker and The Docker Utility Engine for NVIDIA GPUs — NVIDIA AI Enterprise documentation](https://docs.nvidia.com/ai-enterprise/deployment-guide/dg-docker.html)

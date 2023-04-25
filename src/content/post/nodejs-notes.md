@@ -21,7 +21,7 @@ tags:
 [The Node Way](http://thenodeway.io/)
 [Node Labs](http://www.nodelabs.org/)
 [Node v4.0.0](https://talks.continuation.io/nova-node-meetup-9-15/#/) History
-[The definitive Node.js handbook – freeCodeCamp.org](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
+[The definitive Node.js handbook](https://www.freecodecamp.org/news/the-definitive-node-js-handbook-6912378afc6e)
 [nodejs/Release: Node.js Foundation Release Working Group](https://github.com/nodejs/Release) release cadence
 
 [Node Hero - Getting Started With Node.js | @RisingStack](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/) !important
@@ -101,7 +101,7 @@ Obsoleted:
 [Understanding Worker Threads in Node.js - NodeSource](https://nodesource.com/blog/worker-threads-nodejs/)
 
 [node.js - Nodejs worker threads shared object/store - Stack Overflow](https://stackoverflow.com/questions/51053222/nodejs-worker-threads-shared-object-store)
-[Limiting concurrent operations in JavaScript – freeCodeCamp.org](https://medium.freecodecamp.org/how-to-limit-concurrent-operations-in-javascript-b57d7b80d573)
+[Limiting concurrent operations in JavaScript](https://www.freecodecamp.org/news/how-to-limit-concurrent-operations-in-javascript-b57d7b80d573)
 
 [SUCHMOKUO/node-worker-threads-pool: Simple worker threads pool using node's worker_threads module.](https://github.com/SUCHMOKUO/node-worker-threads-pool)
 
@@ -187,7 +187,7 @@ See [leesei/openslide-prop2json](https://github.com/leesei/openslide-prop2json).
 
 ## Stream
 
-[Node.js Streams: Everything you need to know – freeCodeCamp.org](https://medium.freecodecamp.org/node-js-streams-everything-you-need-to-know-c9141306be93)
+[Node.js Streams: Everything you need to know](https://www.freecodecamp.org/news/node-js-streams-everything-you-need-to-know-c9141306be93)
 [Stream Node.js v5.10.0 Manual & Documentation](https://nodejs.org/api/stream.html)
 [StrongLoop | What’s New in io.js 1.0 Beta? – Streams3](https://strongloop.com/strongblog/whats-new-io-js-beta-streams3/)
 [stream - What is Streams3 in Node.js and how does it differ from Streams2? - Stack Overflow](http://stackoverflow.com/a/21549237/665507)
@@ -422,7 +422,7 @@ stream.on("end", function () {
 [JavaScript engine fundamentals: Shapes and Inline Caches · Mathias Bynens](https://mathiasbynens.be/notes/shapes-ics)
 [JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer - JSConf EU 2018 - YouTube](https://www.youtube.com/watch?v=5nmpokoRaZI)
 
-[JavaScript essentials: why you should know how the engine works](https://medium.freecodecamp.org/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553) hidden class/object shapes, inline caching
+[JavaScript essentials: why you should know how the engine works](https://www.freecodecamp.org/news/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553) hidden class/object shapes, inline caching
 [JavaScript Engines Hidden Classes (and Why You Should Keep Them in Mind) | concise notes](https://draft.li/blog/2016/12/22/javascript-engines-hidden-classes/)
 [JavaScript engine fundamentals: Shapes and Inline Caches · Mathias Bynens](https://mathiasbynens.be/notes/shapes-ics)
 

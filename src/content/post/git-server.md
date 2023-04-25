@@ -95,7 +95,7 @@ You can even edit it to override the access control.
 [GitLab Documentation](http://doc.gitlab.com/ce/)
 [GitLab CI](http://doc.gitlab.com/ce/ci/quick_start/README.html) integrated to GitLab
 
-The Omnibus package simplifies the setup of GitLab ALOT
+The Omnibus package (by Chef) simplifies the setup of GitLab ALOT
 [Download GitLab Community Edition (CE) | GitLab](https://about.gitlab.com/downloads/)
 
 [GitLab 11.0 released with Auto DevOps and License Management | GitLab](https://about.gitlab.com/2018/06/22/gitlab-11-0-released/)

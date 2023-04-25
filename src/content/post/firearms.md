@@ -169,7 +169,7 @@ Recoil Action (mid 1900): the expanded gas in the barrel is used push the lever 
 Blow Back Action (mid 1900):
 Fully Automatic: load, pull and hold the trigger until your magazine is empty. Advanced design will also route the exhaust upwards to suppress the recoil.
 
-[Trigger (firearms) - Wikiwand](http://www.wikiwand.com/en/Trigger_%28firearms%29)
+[Trigger (firearms) - Wikiwand](<http://www.wikiwand.com/en/Trigger_(firearms)>)
 Single Action: the trigger only releases the lever, the lever has to be manually loaded
 Double Action: the trigger pulls the lever back and releases it
 Single action triggers should provide more accuracy (as the aim is not affected by the sudden release of the spring)

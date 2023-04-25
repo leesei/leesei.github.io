@@ -131,6 +131,8 @@ I need an app that can:
 [Invisibilia : NPR](http://www.npr.org/podcasts/510307/invisibilia) is about the invisible forces that control human behavior – ideas, beliefs, assumptions and emotions
 [Hidden Brain : NPR](https://www.npr.org/series/423302056/hidden-brain)
 [Curious Minds Podcast](http://www.cmpod.net/) A Podcast For Curious Minds
+[Science Rules! With Bill Nye](https://www.askbillnye.com/)
+[Unexplainable podcast](https://www.vox.com/unexplainable)
 
 ### Trivia
 

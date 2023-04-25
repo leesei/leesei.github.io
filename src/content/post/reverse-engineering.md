@@ -6,6 +6,11 @@ tags:
   - security
 ---
 
+[[learn-to-code#ABI]]
+[[learn-to-code#Assembly]]
+
+[Reverse Engineering - Computerphile - YouTube](https://www.youtube.com/watch?v=9tZmSFjoOm4)
+
 # Binary Analysis/Malware Analysis/Reverse Engineering
 
 [rshipp/awesome-malware-analysis: A curated list of awesome malware analysis tools and resources.](https://github.com/rshipp/awesome-malware-analysis)
@@ -26,13 +31,8 @@ tags:
 
 [io12/pwninit: pwninit - automate starting binary exploit challenges](https://github.com/io12/pwninit)
 
-[IDA Freeware](https://hex-rays.com/ida-free/)
-
 [angr](http://angr.io/)
 [angr/angr: A powerful and user-friendly binary analysis platform!](https://github.com/angr/angr)
-
-[hugsy/gef: GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux](https://github.com/hugsy/gef)
-[GEF - GDB Enhanced Features documentation](https://hugsy.github.io/gef/)
 
 [CyberChef](https://gchq.github.io/CyberChef/)
 [gchq/CyberChef: The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis](https://github.com/gchq/CyberChef)
@@ -46,6 +46,12 @@ tags:
 [Reverse Engineering A Modern IP Camera | Hackaday](https://hackaday.com/2019/03/28/reverse-engineering-a-modern-ip-camera/)
 [Reverse Engineering Shimano Bike Electronics | Hackaday](https://hackaday.com/2019/03/26/reverse-engineering-shimano-bike-electronics/)
 
+## IDA
+
+[IDA Freeware](https://hex-rays.com/ida-free/)
+
+[EVERYONE in Cyber Security Should Understand Reversing (its EASY) - YouTube](https://www.youtube.com/watch?v=gh2RXE9BIN8) !important, C calling convention
+
 ## Ghidra
 
 [Ghidra](https://ghidra-sre.org/)
@@ -57,15 +63,29 @@ tags:
 [Ghidra - Journey from Classified NSA Tool to Open Source - YouTube](https://www.youtube.com/watch?v=kx2xp7IQNSc)
 [Reversing WannaCry - YouTube](https://www.youtube.com/playlist?list=PLniOzp3l9V83Yf52IXJTvW9rjstdqkduP)
 
+## Cutter
+
+[Cutter](https://cutter.re/)
+
 ## ELF
+
+[Executable and Linkable Format - Wikiwand](https://www.wikiwand.com/en/Executable_and_Linkable_Format)
+[Global Offset Table - Wikiwand](https://www.wikiwand.com/en/Global_Offset_Table)
 
 [ELF - A Common Lisp library for manipulating ELF files](http://eschulte.github.io/elf/)
 [eschulte/elf: Actively maintained at https://github.com/grammatech/elf](https://github.com/eschulte/elf)
 
 [Understanding the ELF specimen | Packt Hub](https://hub.packtpub.com/understanding-elf-specimen/)
 
-`readelf`
-`objdump`
+```sh
+readelf <binary>
+
+objdump -d -Mintel <binary>
+```
+
+## PE format
+
+[Portable Executable - Wikiwand](https://www.wikiwand.com/en/Portable_Executable)
 
 ## C Sharp
 
@@ -92,3 +112,20 @@ tags:
 ## Wasm
 
 [What’s in that .wasm? Introducing: wasm-decompile · V8](https://v8.dev/blog/wasm-decompile)
+
+# Dynamic Analysis
+
+[x64dbg](https://x64dbg.com/)
+
+[Cheat Engine](https://www.cheatengine.org/)
+
+## ReClass.NET
+
+[ReClassNET/ReClass.NET: More than a ReClass port to the .NET platform.](https://github.com/ReClassNET/ReClass.NET)
+
+[Reclass Tutorial - ReClass.NET - How To Reverse Structures - YouTube](https://www.youtube.com/watch?v=vQb21RM9-5M)
+
+## GEF
+
+[hugsy/gef: GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux](https://github.com/hugsy/gef)
+[GEF - GDB Enhanced Features documentation](https://hugsy.github.io/gef/)

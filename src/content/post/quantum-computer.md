@@ -39,7 +39,7 @@ tags:
 [PLAY NETTY](https://phys.cam/game/) study on how human solved problem as quantum computers
 
 [How Does Quantum Computing Work? - ExtremeTech](https://www.extremetech.com/extreme/284306-how-quantum-computing-works)
-[What is a quantum computer? Explained with a simple example.](https://medium.freecodecamp.org/what-is-a-quantum-computer-explained-with-a-simple-example-b8f602035365)
+[What is a quantum computer? Explained with a simple example.](https://www.freecodecamp.org/news/what-is-a-quantum-computer-explained-with-a-simple-example-b8f602035365)
 [4 technical hurdles to quantum computing | InfoWorld](https://www.infoworld.com/article/3601172/4-technical-hurdles-to-quantum-computing.html)
 [Quantum Computing’s Internals Demystified - Leo Whitehead - Medium](https://medium.com/@lduck11007/quantum-computings-internals-demystified-53326d6c3098)
 full-scale error correction will require tens of qubits to make just one logical qubit

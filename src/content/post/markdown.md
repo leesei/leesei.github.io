@@ -68,7 +68,6 @@ tags:
 
 [Recipage](https://suka.js.org/recipage/) markdown loader with decent theming
 [kivikakk/comrak: CommonMark + GFM compatible Markdown parser and renderer](https://github.com/kivikakk/comrak)
-[Convert Markdown to PDF Tutorial – Linux Academy](https://linuxacademy.com/blog/tutorials/convert-markdown-to-pdf-tutorial/)
 [rvagg/archived-gfm2html: Convert a GitHub style Markdown file to HTML, complete with inline CSS](https://github.com/rvagg/archived-gfm2html) obsolete
 
 [showdownjs/showdown: A bidirectional Markdown to HTML to Markdown converter written in Javascript](https://github.com/showdownjs/showdown)

@@ -4,13 +4,14 @@ description: ""
 created: 2014-12-11
 tags:
   - container
+  - dev/deploy
   - devops
   - shell-tool
   - web-deploy
-  - dev/deploy
 ---
 
-> rename to `cloud-native`? separate `Containers` from it
+> TODO: remove articles before 2022
+> TODO: rename to `cloud-native`? separate `Containers` from it
 
 # Container Ecosystem
 
@@ -469,7 +470,7 @@ Compared to the Docker Engine, containerd exposes essentially a CRUD interface a
 
 ## Monitoring
 
-> see `devops.md#health-monitoring`
+[[devops#Health monitoring]]
 
 [Building A Central Logging Service In-House — Smashing Magazine](https://www.smashingmagazine.com/2018/05/building-central-logging-service/)
 [4 Common Kubernetes-Monitoring Traps to Avoid - The New Stack](https://thenewstack.io/4-common-kubernetes-monitoring-traps-to-avoid/)
@@ -478,15 +479,12 @@ Compared to the Docker Engine, containerd exposes essentially a CRUD interface a
 [Dockers Monitoring Tools -](https://www.level-up.one/dockers-monitoring-tools/)
 [Deep Dive into Docker Logging - Level UpLevel Up](https://www.level-up.one/deep-dive-into-docker-logging/)
 [ctop](https://ctop.sh/) [bcicen/ctop: Top-like interface for container metrics](https://github.com/bcicen/ctop)
-[Monitoring Docker Containers - docker stats, cAdvisor, Universal Control Plane](http://blog.couchbase.com/2016/april/monitoring-docker-containers-docker-stats-cadvisor-universal-control-plane)
 [Gathering container metrics](http://jpetazzo.github.io/2013/10/08/docker-containers-metrics/)
 [Adventures in GELF](http://jpetazzo.github.io/2017/01/20/docker-logging-gelf/)
 
 [Auditing Docker Containers in a DevOps Environment » ADMIN Magazine](http://www.admin-magazine.com/Archive/2018/43/Auditing-Docker-Containers-in-a-DevOps-Environment) with `auditd`
 
 [Monitoring Kubernetes, part 1: the challenges + data sources - Cloud Native Computing Foundation](https://www.cncf.io/blog/2019/01/09/monitoring-kubernetes-part-1-the-challenges-data-sources/)
-
-[Monitoring Your Kubernetes Cluster with Grafana, Prometheus, and Alertmanager - YouTube](https://www.youtube.com/watch?v=4HIn5SBGjCg)
 
 [Container Monitoring: Top Docker Metrics to Watch](https://sematext.com/blog/2016/06/28/top-docker-metrics-to-watch/)
 [Open Source Docker Monitoring & Logging](https://sematext.com/blog/2016/07/19/open-source-docker-monitoring-logging/)
@@ -495,21 +493,33 @@ Compared to the Docker Engine, containerd exposes essentially a CRUD interface a
 [Collect all Logs From a Docker Swarm Cluster](http://jmkhael.hopto.org/collect-all-logs-from-a-docker-swarm-cluster/)
 [Multiple Docker containers logging to a single syslog](http://jpetazzo.github.io/2014/08/24/syslog-docker/)
 
-[A monitoring solution for Docker hosts, containers and containerized services](https://stefanprodan.com/2016/a-monitoring-solution-for-docker-hosts-containers-and-containerized-services/) Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
-[Monitor your applications with Prometheus](https://blog.alexellis.io/prometheus-monitoring/) Prometheus, NodeExporter
-
 [SwarmWeek: Realtime Cluster Monitoring with Docker Swarm and Riemann | Docker Blog](https://blog.docker.com/2016/03/realtime-cluster-monitoring-docker-swarm-riemann/)
 [Monitoring Metrics for Docker Containers](https://www.infoq.com/news/2016/07/containermetrics)
 [How Docker changes application monitoring | InfoWorld](http://www.infoworld.com/article/3138035/data-center/how-docker-changes-application-monitoring.html)
 
-[An Overview of the Logging Ecosystem in 2017 - via @codeship | via @codeship](https://blog.codeship.com/an-overview-of-the-logging-ecosystem-in-2017/)
-[Monitoring Docker Containers with Elasticsearch and cAdvisor | via @codeship](https://blog.codeship.com/monitoring-docker-containers-with-elasticsearch-and-cadvisor/) ELK 2.x + cAdvisor
-[Monitoring Docker Containers: docker stats, cAdvisor... | via @codeship](https://blog.codeship.com/monitoring-docker-containers/) Prometheus + InfluxDB + cAdvisor
-
 [Kubernetes Monitoring: Best Practices on Vimeo](https://vimeo.com/285843343)
 
-[google/cadvisor: Analyzes resource usage and performance characteristics of running containers.](https://github.com/google/cadvisor)
 [Sysdig | Wiki | Getting Started](http://www.sysdig.org/wiki/getting-started/)
+
+### cAdvisor
+
+[google/cadvisor: Analyzes resource usage and performance characteristics of running containers.](https://github.com/google/cadvisor)
+
+[Kubernetes Podcast from Google: Episode 113 - Instrumentation and cAdvisor, with David Ashpole](https://kubernetespodcast.com/episode/113-instrumentation-and-cadvisor/)
+cAdvisor, cgroup monitoring, mostly a Prometheus endpoint
+As service or lib in k8s
+Hipster -> metrics server + storage
+State metrics
+
+[A monitoring solution for Docker hosts, containers and containerized services](https://stefanprodan.com/2016/a-monitoring-solution-for-docker-hosts-containers-and-containerized-services/) Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
+[Monitoring Docker Containers: docker stats, cAdvisor... | via @codeship](https://blog.codeship.com/monitoring-docker-containers/) Prometheus + InfluxDB + cAdvisor
+[Monitoring Docker Containers with Elasticsearch and cAdvisor | via @codeship](https://blog.codeship.com/monitoring-docker-containers-with-elasticsearch-and-cadvisor/) ELK 2.x + cAdvisor
+[Monitoring Docker Containers - docker stats, cAdvisor, Universal Control Plane](http://blog.couchbase.com/2016/april/monitoring-docker-containers-docker-stats-cadvisor-universal-control-plane)
+
+### Prometheus
+
+[Monitor your applications with Prometheus](https://blog.alexellis.io/prometheus-monitoring/) Prometheus, NodeExporter
+[Monitoring Your Kubernetes Cluster with Grafana, Prometheus, and Alertmanager - YouTube](https://www.youtube.com/watch?v=4HIn5SBGjCg)
 
 ### Zabbix
 

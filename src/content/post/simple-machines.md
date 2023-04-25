@@ -21,9 +21,9 @@ tags:
 3. [Pulley - Wikiwand](https://www.wikiwand.com/en/Pulley)
    [Why Snatch Blocks are AWESOME (How Pulleys Work) - Smarter Every Day 228 - YouTube](https://www.youtube.com/watch?v=M2w3NZzPwOM)
 4. [Inclined plane (ramp) - Wikiwand](https://www.wikiwand.com/en/Inclined_plane)
-5. [Wedge (mechanical device) - Wikiwand](https://www.wikiwand.com/en/Wedge_%28mechanical_device%29)
+5. [Wedge (mechanical device) - Wikiwand](<https://www.wikiwand.com/en/Wedge_(mechanical_device)>)
    Change direction of force
-6. [Screw (simple machine) - Wikiwand](https://www.wikiwand.com/en/Screw_%28simple_machine%29)
+6. [Screw (simple machine) - Wikiwand](<https://www.wikiwand.com/en/Screw_(simple_machine)>)
 
 [Mechanical advantage - Wikiwand](https://www.wikiwand.com/en/Mechanical_advantage)
 \> 1 means force is amplified; < 1 means distance (hence speed) is amplified

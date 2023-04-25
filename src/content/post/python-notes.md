@@ -49,7 +49,7 @@ All python code are executed statements, no such thing as declaration
 
 [Python 3.7 beginner's cheat sheet | Opensource.com](https://opensource.com/article/18/9/python-37-beginners-cheat-sheet)
 [Welcome to Python Cheatsheet! — pysheeet](https://www.pythonsheets.com/index.html)
-[An A-Z of useful Python tricks – freeCodeCamp.org](https://medium.freecodecamp.org/an-a-z-of-useful-python-tricks-b467524ee747)
+[An A-Z of useful Python tricks](https://www.freecodecamp.org/news/an-a-z-of-useful-python-tricks-b467524ee747)
 
 [From Anaconda Python to PyPy: Know your Python distributions | InfoWorld](https://www.infoworld.com/article/3267976/python/anaconda-cpython-pypy-and-more-know-your-python-distributions.html)
 
@@ -64,14 +64,12 @@ All python code are executed statements, no such thing as declaration
 
 1. Windows store (Python 3.7+)
 
-[Get Python 3.7 - Microsoft Store](https://www.microsoft.com/en-us/p/python-37/9nj46sx7x90p?activetab=pivot:overviewtab)
-[Get Python 3.8 - Microsoft Store](https://www.microsoft.com/en-us/p/python-38/9mssztt1n39l?activetab=pivot:overviewtab)
+[3. Using Python on Windows — Python documentation](https://docs.python.org/3/using/windows.html#the-microsoft-store-package)
+[Python 3.8 - Microsoft Store Apps](https://apps.microsoft.com/store/detail/python-38/9MSSZTT1N39L?hl=en-us&gl=us&activetab=pivot%3Aoverviewtab)
 
 This provides `python3.exe` already on PATH
 
-[3. Using Python on Windows — Python documentation](https://docs.python.org/3/using/windows.html#the-microsoft-store-package)
-
-2. Installer (any version)
+1. Installer (any version)
 
 [How To Install Python 3 on Windows {Quickstart}](https://phoenixnap.com/kb/how-to-install-python-3-windows)
 The installer has a "Add Python to PATH" option
@@ -202,7 +200,7 @@ Tech With Tim
 [The Mouse Vs. The Python - Python Programming from the Frontlines](http://www.blog.pythonlibrary.org/)
 [Python Programming Tutorials](https://pythonprogramming.net/)
 [BeginnersGuide - Python Wiki](https://wiki.python.org/moin/BeginnersGuide)
-[Learning Python: From Zero to Hero – freeCodeCamp](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
+[Learning Python: From Zero to Hero – freeCodeCamp](https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567)
 [IBM developerWorks : Linux : Technical library](http://www.ibm.com/developerworks/views/linux/libraryview.jsp?type_by=Articles?sort_order=desc&expand=&sort_by=Date&show_abstract=true&view_by=Search&search_by=charming+python%3A) Charming Python, mostly Python 2
 
 [Hidden features of Python - Stack Overflow](http://stackoverflow.com/questions/101268/hidden-features-of-python)
@@ -622,6 +620,7 @@ class Person:
 [JSON Encoding Python Dataclasses](https://www.bruceeckel.com/2018/09/16/json-encoding-python-dataclasses/)
 
 [Which Python @dataclass is best? Feat. Pydantic, NamedTuple, attrs... - YouTube](https://www.youtube.com/watch?v=vCLetdhswMg)
+[Attrs, Pydantic, or Python Data Classes: Which One Is The Best? - YouTube](https://www.youtube.com/watch?v=zN4VCb0LbQI)
 
 [konradhalas/dacite: Simple creation of data classes from dictionaries.](https://github.com/konradhalas/dacite) with type checking
 
@@ -634,7 +633,6 @@ class Person:
 [Raymond Hettinger - Dataclasses: The code generator to end all code generators - PyCon 2018 - YouTube](https://www.youtube.com/watch?v=T-TwcmT6Rcw)
 [This Is Why Python Data Classes Are Awesome - YouTube](https://www.youtube.com/watch?v=CvQ7e6yUtnw)
 [Python dataclasses will save you HOURS, also featuring attrs - YouTube](https://www.youtube.com/watch?v=vBH6GRJ1REM)
-[Attrs, Pydantic, or Python Data Classes: Which One Is The Best? - YouTube](https://www.youtube.com/watch?v=zN4VCb0LbQI)
 
 [python - Data Classes vs typing.NamedTuple primary use cases - Stack Overflow](https://stackoverflow.com/questions/51671699)
 
@@ -948,7 +946,7 @@ with context_manager_example():
 
 ```python
 with ignored(OSError):
- os.remove('somefile.tmp')
+  os.remove('somefile.tmp')
 ```
 
 ## Structural Pattern Matching (~= switch)
@@ -1195,6 +1193,13 @@ while True:
             print(output.strip())
         break
 ```
+
+### sh
+
+> full-fledged subprocess replacement
+
+[sh documentation](http://amoffat.github.io/sh/)
+[amoffat/sh: Python process launching](https://github.com/amoffat/sh)
 
 ## Functional
 
@@ -1527,6 +1532,7 @@ python -c "import module"
 
 [Speed up your Python using Rust - Red Hat Developer](https://developers.redhat.com/blog/2017/11/16/speed-python-using-rust/)
 [How to use Rust with Python, and Python with Rust | InfoWorld](https://www.infoworld.com/article/3664124/how-to-use-rust-with-python-and-python-with-rust.html)
+[Why you should use Python and Rust together | Opensource.com](https://opensource.com/article/23/3/python-loves-rust)
 
 [dgrunwald/rust-cpython: Rust <-> Python bindings](https://github.com/dgrunwald/rust-cpython)
 
@@ -1657,8 +1663,4 @@ stats.dump_stats(filename='output.prof')
 
 ## Embedded System
 
-[MicroPython - Python for microcontrollers](https://micropython.org/)
-[MicroPython - Wikiwand](https://www.wikiwand.com/en/MicroPython)
-[MicroPython - Adafruit Learning System](https://learn.adafruit.com/category/micropython?view=all)
-
-[micropython/micropython: MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems](https://github.com/micropython/micropython)
+[[iot#MicroPython]]

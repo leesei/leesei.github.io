@@ -392,7 +392,7 @@ route print
 [RFC 7530 - Network File System (NFS) Version 4 Protocol](https://tools.ietf.org/html/rfc7530)
 [RFC 7931 - NFSv4.0 Migration: Specification Update](https://tools.ietf.org/html/rfc7931)
 
-[Administering Client for NFS](https://technet.microsoft.com/en-us/library/cc771698(v=ws.11%29.aspx)
+[nfsadmin | Microsoft Learn](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/nfsadmin)
 
 ## GNU tools
 
@@ -838,7 +838,7 @@ Settings > System > Multitasking > Alt + Tab
 
 ### WinGet
 
-[Windows Package Manager | Microsoft Docs](https://docs.microsoft.com/en-us/windows/package-manager/)
+[Windows Package Manager | Microsoft Learn](https://learn.microsoft.com/en-us/windows/package-manager/)
 [Using Native Package Manager (WinGet) on Windows 10 | Windows OS Hub](http://woshub.com/using-winget-package-manager-windows/)
 [Windows FINALLY Got a Package Manager - Here's Why It's Awesome - YouTube](https://www.youtube.com/watch?v=uxr7m8wDeGA)
 
@@ -926,9 +926,7 @@ FiraCode-ttf
 Firefox
 GoogleChrome
 google-backup-and-sync
-lockhunter
 microsoft-windows-terminal
-jre8
 KB2919355
 KB2919442
 KB2999226
@@ -945,7 +943,6 @@ teamviewer
 vcredist140
 vscode
 visualstudio2019community
-visualstudio2019professional
 winmerge
 wireshark
 ```
@@ -968,7 +965,7 @@ origin
 Work setup
 
 ```
-cinst -y 7zip autohotkey.portable chocolatey dotnet FiraCode-ttf GoogleChrome lockhunter mediainfo microsoft-windows-terminal notepad2-mod sumatrapdf.install tigervnc vscode visualstudio2019professional winmerge
+cinst -y 7zip autohotkey.portable chocolatey dotnet FiraCode-ttf GoogleChrome mediainfo microsoft-windows-terminal notepad2-mod sumatrapdf.install tigervnc vscode visualstudio2019professional winmerge
 ```
 
 ---

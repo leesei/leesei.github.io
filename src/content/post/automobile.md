@@ -179,6 +179,13 @@ Toyota owns brands such as Hino, Lexus, Ranz, and Daihatsu.
 [无人驾驶出租车 落地深圳 已成现实「SIGNOW」 - YouTube](https://www.youtube.com/watch?v=NQHLx2U8HU0)
 [The Truth About Self Driving Cars - YouTube](https://www.youtube.com/watch?v=d5TiaIYdug4)
 
+[AI DRIVR - YouTube](https://www.youtube.com/%40AIDRIVR)
+[AI DRIVR Shorts - YouTube](https://www.youtube.com/%40AIDRIVRShorts)
+
+[comma.ai](https://comma.ai/)
+[Self-Driving Engineering with George Hotz - Software Engineering Daily](https://softwareengineeringdaily.com/2018/08/08/self-driving-engineering-with-george-hotz/)
+[commaai/opendbc: democratize access to car decoder rings](https://github.com/commaai/opendbc)
+
 ## CAN bus
 
 [CAN bus - Wikiwand](https://www.wikiwand.com/en/CAN_bus)
@@ -187,7 +194,3 @@ Toyota owns brands such as Hino, Lexus, Ranz, and Daihatsu.
 [Tech Spotlight: The CoAP Protocol | element14 | Tech Connection](https://www.element14.com/community/docs/DOC-90554/l/tech-spotlight-the-coap-protoco) disable JavaScript
 
 [CAN Bus Explained (2021) | AutoPi](https://www.autopi.io/blog/can-bus-explained/)
-
-[comma.ai](https://comma.ai/)
-[Self-Driving Engineering with George Hotz - Software Engineering Daily](https://softwareengineeringdaily.com/2018/08/08/self-driving-engineering-with-george-hotz/)
-[commaai/opendbc: democratize access to car decoder rings](https://github.com/commaai/opendbc)

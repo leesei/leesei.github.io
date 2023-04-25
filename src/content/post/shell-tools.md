@@ -54,6 +54,10 @@ tags:
 [jlevy/the-art-of-command-line: Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
 [CLI: improved](https://remysharp.com/2018/08/23/cli-improved)
 [Command Line Interface Guidelines](https://clig.dev/) writing CLI apps
+[CLI Tools Are Not Inherently User-Hostile - Mindy Preston - Software You Can Love 2022 - YouTube](https://www.youtube.com/watch?v=IcV9TVb-vF4)
+
+- the shell and the browser the TWO portable platforms
+- why GUIs are hard to follow
 
 [denisidoro/navi: An interactive cheatsheet tool for the command-line](https://github.com/denisidoro/navi)
 [b4b4r07/enhancd: A next-generation cd command with your interactive filter](https://github.com/b4b4r07/enhancd)
@@ -151,7 +155,6 @@ passwd -l user    # lock user password
 ## Command palette
 
 [denisidoro/navi: An interactive cheatsheet tool for the command-line](https://github.com/denisidoro/navi)
-[Introducing navi: an interactive cheatsheet tool by denisidoro | Katacoda](https://www.katacoda.com/denisidoro/scenarios/navi#)
 
 [pindexis/marker: The terminal command palette](https://github.com/pindexis/marker)
 [Linux Fu: Marker Is A Command Line Menu | Hackaday](https://hackaday.com/2018/10/24/linux-fu-marker-is-a-command-line-menu/)

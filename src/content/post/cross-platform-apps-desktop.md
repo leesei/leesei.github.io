@@ -12,6 +12,7 @@ tags:
 [[rust#GUI]]
 [[go-lang#GUI]]
 [[zig-lang#GUI]]
+[[v-lang]]
 
 [Cross-platform GUI Toolkit Trainwreck, 2016 Edition](http://blog.johnnovak.net/2016/05/29/cross-platform-gui-trainwreck-2016-edition/) !important
 
@@ -22,7 +23,7 @@ tags:
 ## HTML Renderer
 
 [[electron]]
-[[nwjs]]
+[[nw-js]]
 
 ### Tauri
 
@@ -97,6 +98,11 @@ Rust core + TypeScript UI
 
 [Introduction - Vuido](https://vuido.mimec.org/introduction)
 [Building a Desktop App with Vue: Vuido - DEV Community 👩‍💻👨‍💻](https://dev.to/vuevixens/building-a-desktop-app-with-vue-vuido-490n)
+
+## microui
+
+[rxi/microui: A tiny immediate-mode UI library](https://github.com/rxi/microui)
+[Microui v2: An Implementation Overview | rxi](https://rxi.github.io/microui_v2_an_implementation_overview.html)
 
 ## libmatoya
 

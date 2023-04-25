@@ -105,6 +105,9 @@ I setup key 3 as middle key, and emulate scroll wheel by holding it and moving t
 But this setup puts stress to my thumb, so I look for trackball with hardware scroll.
 [Logitech M570 Wireless Trackball](http://www.logitech.com/en-ca/product/wireless-trackball-m570) was not considered for being wireless and thumb-operated.
 
+[SetPoint – Logitech Support + Download](https://support.logi.com/hc/en-nz/articles/360025141274)
+[uberOptions: Enable all options on all buttons in SetPoint - uberOptions](http://uberoptions.net/)
+
 ### Linux setting
 
 [Logitech_Marblemouse_USB - Community Help Wiki](https://help.ubuntu.com/community/Logitech_Marblemouse_USB)

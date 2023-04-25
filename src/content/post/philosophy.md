@@ -12,7 +12,7 @@ tags:
 
 ## 辯證反合
 
-[黑格爾：正反合 - EP46 ｜香港 01 ｜哲學](https://www.hk01.com/%E5%93%B2%E5%AD%B8/48418/%E9%BB%91%E6%A0%BC%E7%88%BE-%E6%AD%A3%E5%8F%8D%E5%90%88-ep46)
+[黑格爾：正反合 - EP46 ｜香港 01 ｜哲學](https://www.hk01.com/%E5%93%B2%E5%AD%B8/48418/)
 [搞懂黑格爾的辯證法，才明白「要辯證的看問題」這句話是在耍無賴 - 每日頭條](https://kknews.cc/zh-hk/culture/2q4may.html)
 [【不用數字的研究】連載 09：基本功之三，辯證正反合 | 《不用數字的研究》](https://reswithoutnumbers.blogspot.com/2017/01/09.html)
 
@@ -55,6 +55,8 @@ Consciousness is passive and created by sub-conscious
 [Theory of Knowledge](http://www.theoryofknowledge.info/)
 [Naive Realism - Quora](http://www.quora.com/Naive-Realism)
 
+knowledge is justified true belief
+
 ## Cynicism
 
 [Cynicism (philosophy) - Wikiwand](<https://www.wikiwand.com/en/Cynicism_(philosophy)>)
@@ -69,13 +71,29 @@ Consciousness is passive and created by sub-conscious
 
 [The philosophy of Stoicism - Massimo Pigliucci - YouTube](https://www.youtube.com/watch?v=R9OCA6UFE-0)
 
-## Utilitarianism
+## Morality
+
+[Justice: What's The Right Thing To Do? Episode 01 "THE MORAL SIDE OF MURDER" - YouTube](https://www.youtube.com/watch?v=kBdfcR-8hEY)
+
+consquentialist: locates morality in the consequence of an act
+categorical: locates morality in certain duties and rights (absolute moral requirements regardless of the consequences -> Utilitarianism)
+
+### Justice
+
+[【偷定唔偷？】看看道德發展六階段 - 心理學 ‧ 家 Psychology x Family - Posts](https://www.facebook.com/psychologyxfamily/photos/a.2429275663777517/2486718518033231)
+
+[Course | Justice | edX](https://learning.edx.org/course/course-v1:HarvardX+ER22.1x+2T2018/home)
+[Justice with Michael Sandel - YouTube](https://www.youtube.com/playlist?list=PL30C13C91CFFEFEA6)
+
+[When is Torture Justified? | Lt. Col. Jon S. Jackson | TEDxMemphis - YouTube](https://www.youtube.com/watch?v=3548Ac9wGN8)
+
+### Utilitarianism
 
 [Utilitarianism - Wikiwand](https://www.wikiwand.com/en/utilitarianism)
 [功利主義 - Wikiwand](https://www.wikiwand.com/zh/%E5%8A%9F%E5%88%A9%E4%B8%BB%E7%BE%A9)
 [What is Utilitarianism? | Utilitarianism.net](https://utilitarianism.net/)
 
-## Deontology
+### Deontology
 
 [Deontology - Wikiwand](https://www.wikiwand.com/en/Deontology)
 [義務倫理學 - Wikiwand](https://www.wikiwand.com/zh/%E4%B9%89%E5%8A%A1%E4%BC%A6%E7%90%86%E5%AD%A6)

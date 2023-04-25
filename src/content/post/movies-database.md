@@ -64,19 +64,26 @@ Innovative and personalized recommendation system.
 ## Movies Terms
 
 [Behind the Jargon of the Film Industry | TechStuff Podcast](https://www.techstuffpodcast.com/podcasts/behind-the-jargon-of-the-film-industry.htm)
-[An Autumn's Tale & (電影工作英文職稱) @ 「常用英文」你才不會忘記 Blog- :: 痞客邦 ::](http://davytw.pixnet.net/blog/post/57202113-an-autumn%27s-tale-%26-%28%E9%9B%BB%E5%BD%B1%E5%B7%A5%E4%BD%9C%E8%8B%B1%E6%96%87%E8%81%B7%E7%A8%B1%29)
+[An Autumn's Tale & (電影工作英文職稱) @ 「常用英文」你才不會忘記 Blog- :: 痞客邦 ::](<http://davytw.pixnet.net/blog/post/57202113-an-autumn%27s-tale-%26-(%E9%9B%BB%E5%BD%B1%E5%B7%A5%E4%BD%9C%E8%8B%B1%E6%96%87%E8%81%B7%E7%A8%B1)>)
 [電影工作人員職稱（中英文對照） @ 優影設計有限公司的部落格-專司影片製作.活動紀錄.網站設計與行銷 :: 痞客邦 ::](http://yoing99.pixnet.net/blog/post/44007742-%E9%9B%BB%E5%BD%B1%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%93%A1%E8%81%B7%E7%A8%B1%EF%BC%88%E4%B8%AD%E8%8B%B1%E6%96%87%E5%B0%8D%E7%85%A7%EF%BC%89)
 [影视制作岗位中英文对照表（但愿成为最详细的）](https://www.douban.com/note/356877119/)
 
 [為什麼「蜘蛛人不上 Disney+」？《蜘蛛人:無家日》票房超好都是 Sony 功勞？｜為什麼會 Jon - YouTube](https://www.youtube.com/watch?v=dZAAXO8iLkg)
 
-## Making of
+## Behind the Scenes
 
 [befores & afters - VFX magazine](https://beforesandafters.com/)
 [Corridor Crew - YouTube](https://www.youtube.com/channel/UCSpFnDQr88xCZ80N-X7t0nQ) recreate CG in movies
 [Behind the Seams - YouTube](https://www.youtube.com/@behindtheseams300) fashion and costumes
+[BEHIND THE SCENES & B-ROLL - YouTube](https://www.youtube.com/playlist?list=PLQ7_GA82PpMGBaHHowmE-Ucs__mY7UA5M)
+[經典電影大解密｜ Breaks Down - YouTube](https://www.youtube.com/playlist?list=PLiyT3ZJaRwTvS7o7p9DJoIDPCDO1Ph2co)
 
 [The Incredible True Story Of How "Titanic" Got Made](https://www.buzzfeednews.com/article/sarahmarshall/20-years-ago-titanic-took-over-the-world-heres-why)
+
+### Foley
+
+[《西線無戰事》聲音設計如何創造人體倒地、坦克車、中彈等逼真音效？｜科普長知識｜ GQ Taiwan - YouTube](https://www.youtube.com/watch?v=SPZgXIIUT6Q)
+[PlayStation 遊戲擬音師的工作日常！從腳步聲、開門聲到骨頭碎掉聲都是親自錄製｜科普長知識｜ GQ Taiwan - YouTube](https://www.youtube.com/watch?v=bh0itp9D3Cc)
 
 ## Lord of the Rings
 

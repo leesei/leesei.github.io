@@ -15,7 +15,7 @@ tags:
 [List of Intel microprocessors - Wikiwand](https://www.wikiwand.com/en/List_of_Intel_microprocessors)
 
 [List of AMD microprocessors - Wikiwand](https://www.wikiwand.com/en/List_of_AMD_microprocessors)
-[The rise and fall of AMD | Series | Ars Technica](https://arstechnica.com/series/the-rise-and-fall-of-amd/?amp=1)
+[The rise and fall of AMD | Series | Ars Technica](https://arstechnica.com/series/the-rise-and-fall-of-amd/amp/)
 [AMD History and Innovations (1969-2022) | Documentary - YouTube](https://www.youtube.com/watch?v=2DzTGCO-IkM)
 [Every AMD CPU Ever! - YouTube](https://www.youtube.com/watch?v=K8Lz3ANjlDs)
 
@@ -48,7 +48,9 @@ tags:
 
 [Actually Hardcore Overclocking - YouTube](https://www.youtube.com/c/ActuallyHardcoreOverclocking)
 
-## RISC and CISC
+## Instruction Set Architecture (ISA)
+
+### RISC and CISC
 
 [Reduced instruction set computer - Wikiwand](https://www.wikiwand.com/en/Reduced_instruction_set_computer)
 [Complex instruction set computer - Wikiwand](https://www.wikiwand.com/en/Complex_instruction_set_computer)
@@ -59,7 +61,47 @@ tags:
 [【亦】x86 已死？ - YouTube](https://www.youtube.com/watch?v=0Rs6AasXJag)
 [RISC vs CISC - Is it Still a Thing? - YouTube](https://www.youtube.com/watch?v=g16wZWKcao4)
 
-## RISC-V
+### Arm
+
+[移动芯片性能排行榜](https://www.socpk.com/)
+[Documentation – Arm Developer](https://developer.arm.com/documentation/#cf%5Bnavigationhierarchiesproducts%5D%3DArchitectures%2CLearn%20the%20architecture)
+
+[Arm processors: Everything you need to know | ZDNet](https://www.zdnet.com/google-amp/article/introducing-the-arm-processor-again-what-you-should-know-about-it-now/)
+[ARM Assembly - YouTube](https://www.youtube.com/playlist?list=PLc7W4b0WHTAXkCy3RUAO0Eqx52ALTLUdq)
+
+LowSpecGamer
+[How Amateurs created the world´s most popular Processor - YouTube](https://www.youtube.com/watch?v=nIwdhPOVOUk)
+[ARM's Secret Weapon - YouTube](https://www.youtube.com/watch?v=vx1-6yRAGk0)
+
+[Arm Cortex-X1 and Cortex-A78 CPUs: Big cores with big differences](https://www.androidauthority.com/arm-cortex-x1-cortex-a78-1119666/)
+[骁龙 888 性能分析：翻车！ - YouTube](https://www.youtube.com/watch?v=O7Bj7ONuqgM) X1 as big core, but less cache
+[深度揭秘手机芯片能效！到底谁功耗最高？为什么会翻车？ - YouTube](https://www.youtube.com/watch?v=kkrzM7i64oE) 2022
+
+[Intel is in serious trouble. ARM is the Future. - YouTube](https://www.youtube.com/watch?v=IfHG7bj-CEI) 2018
+
+[Why are Apple’s chips faster than Qualcomm’s? – Gary explains - YouTube](https://www.youtube.com/watch?v=TiVF_ZzzLM0) 2017, A11 Bionic vs Snapdragon 835
+[Apple Silicon Macs - Apple's ARM SoC Tech Explained! - YouTube](https://www.youtube.com/watch?v=ZtO2z5JATVU)
+
+[What is the Qualcomm Snapdragon 8cx? - YouTube](https://www.youtube.com/watch?v=OpXy-L9cnCo)
+[Qualcomm's Snapdragon 8cx SMASHES Intel Core i5 - YouTube](https://www.youtube.com/watch?v=ZphrqgnoZbM)
+
+[Meet the New Surface Pro X – Ultra-thin and Always Connected – Microsoft Surface](https://www.microsoft.com/en-us/p/surface-pro-x/8vdnrp2m6hhc)
+[Microsoft Surface Pro X review: ARM processor hurts app compatibility - The Verge](https://www.theverge.com/2019/11/5/20948092/microsoft-surface-pro-x-review-arm-windows-10-apps-features-specs-price) SQ1 is an improved 8cx
+[The SQ1 is just the beginning. ARM is coming for the PC - YouTube](https://www.youtube.com/watch?v=hzKb_fV7UB8)
+[Microsoft SQ1 vs Qualcomm Snapdragon 8cx](https://www.notebookcheck.net/SQ1-vs-8cx_11516_11394.247596.0.html)
+
+#### Apple M1
+
+[Current x86 vs. Apple M1 Performance Measurements Are Flawed - ExtremeTech](https://www.extremetech.com/computing/318020-flaw-current-measurements-x86-versus-apple-m1-performance)
+[【亦】唠唠苹果 M1 Ultra：半导体新时代！ - YouTube](https://www.youtube.com/watch?v=lri6O8EBnlI)
+[【M1 芯片 Mac】别等了 想买就买吧！UMA 统一内存是如何实现性能翻倍的？8G 够用吗？分析下一代 M 系列芯片会有怎样的性能 - YouTube](https://www.youtube.com/watch?v=p-mXLVU3HlU)
+[吹牛还是真牛？苹果 M1 全网最硬核评测（上） - YouTube](https://www.youtube.com/watch?v=WMyAGVmiPWE)
+[苹果 M1(下)：真实使用表现如何？ - YouTube](https://www.youtube.com/watch?v=Mq5np26UkDI)
+
+[苹果 M1 Pro/M1 Max 评测：有多强？能做什么？ - YouTube](https://www.youtube.com/watch?v=KSf2tvF53ws)
+[【亦】为什么苹果电脑不适合玩游戏？ - YouTube](https://www.youtube.com/watch?v=wupCpEhB7DE)
+
+### RISC-V
 
 [RISC-V International](https://riscv.org/)
 [RISC-V, the Linux of the chip world, is starting to produce technological breakthroughs | ZDNet](https://www.zdnet.com/google-amp/article/risc-v-the-linux-of-the-chip-world-is-starting-to-produce-technological-breakthroughs/)
@@ -128,42 +170,6 @@ Undervolting on Ryzen will lower temperature AND increase performance
 [How to undervolt your CPU for cooler temps - YouTube](https://www.youtube.com/watch?v=R460NL_wdGc)
 [How to UNDERVOLT Ryzen 5000 series CPUs (FULL Tutorial) - YouTube](https://www.youtube.com/watch?v=xmQV1ZM_WmU)
 3600 can undervolt 0.075V, 3700 and 3900 can undervolt 0.1V
-
-## Arm
-
-[移动芯片性能排行榜](https://www.socpk.com/)
-
-[Arm processors: Everything you need to know | ZDNet](https://www.zdnet.com/google-amp/article/introducing-the-arm-processor-again-what-you-should-know-about-it-now/)
-[ARM Assembly - YouTube](https://www.youtube.com/playlist?list=PLc7W4b0WHTAXkCy3RUAO0Eqx52ALTLUdq)
-[How Amateurs created the world´s most popular Processor - YouTube](https://www.youtube.com/watch?v=nIwdhPOVOUk)
-
-[Arm Cortex-X1 and Cortex-A78 CPUs: Big cores with big differences](https://www.androidauthority.com/arm-cortex-x1-cortex-a78-1119666/)
-[骁龙 888 性能分析：翻车！ - YouTube](https://www.youtube.com/watch?v=O7Bj7ONuqgM) X1 as big core, but less cache
-[深度揭秘手机芯片能效！到底谁功耗最高？为什么会翻车？ - YouTube](https://www.youtube.com/watch?v=kkrzM7i64oE) 2022
-
-[Intel is in serious trouble. ARM is the Future. - YouTube](https://www.youtube.com/watch?v=IfHG7bj-CEI) 2018
-
-[Why are Apple’s chips faster than Qualcomm’s? – Gary explains - YouTube](https://www.youtube.com/watch?v=TiVF_ZzzLM0) 2017, A11 Bionic vs Snapdragon 835
-[Apple Silicon Macs - Apple's ARM SoC Tech Explained! - YouTube](https://www.youtube.com/watch?v=ZtO2z5JATVU)
-
-[What is the Qualcomm Snapdragon 8cx? - YouTube](https://www.youtube.com/watch?v=OpXy-L9cnCo)
-[Qualcomm's Snapdragon 8cx SMASHES Intel Core i5 - YouTube](https://www.youtube.com/watch?v=ZphrqgnoZbM)
-
-[Meet the New Surface Pro X – Ultra-thin and Always Connected – Microsoft Surface](https://www.microsoft.com/en-us/p/surface-pro-x/8vdnrp2m6hhc)
-[Microsoft Surface Pro X review: ARM processor hurts app compatibility - The Verge](https://www.theverge.com/2019/11/5/20948092/microsoft-surface-pro-x-review-arm-windows-10-apps-features-specs-price) SQ1 is an improved 8cx
-[The SQ1 is just the beginning. ARM is coming for the PC - YouTube](https://www.youtube.com/watch?v=hzKb_fV7UB8)
-[Microsoft SQ1 vs Qualcomm Snapdragon 8cx](https://www.notebookcheck.net/SQ1-vs-8cx_11516_11394.247596.0.html)
-
-### Apple M1
-
-[Current x86 vs. Apple M1 Performance Measurements Are Flawed - ExtremeTech](https://www.extremetech.com/computing/318020-flaw-current-measurements-x86-versus-apple-m1-performance)
-[【亦】唠唠苹果 M1 Ultra：半导体新时代！ - YouTube](https://www.youtube.com/watch?v=lri6O8EBnlI)
-[【M1 芯片 Mac】别等了 想买就买吧！UMA 统一内存是如何实现性能翻倍的？8G 够用吗？分析下一代 M 系列芯片会有怎样的性能 - YouTube](https://www.youtube.com/watch?v=p-mXLVU3HlU)
-[吹牛还是真牛？苹果 M1 全网最硬核评测（上） - YouTube](https://www.youtube.com/watch?v=WMyAGVmiPWE)
-[苹果 M1(下)：真实使用表现如何？ - YouTube](https://www.youtube.com/watch?v=Mq5np26UkDI)
-
-[苹果 M1 Pro/M1 Max 评测：有多强？能做什么？ - YouTube](https://www.youtube.com/watch?v=KSf2tvF53ws)
-[【亦】为什么苹果电脑不适合玩游戏？ - YouTube](https://www.youtube.com/watch?v=wupCpEhB7DE)
 
 ## UCIe
 
@@ -260,6 +266,9 @@ Sunny Cove CPU + Tremont Atom CPU, like ARM's big.LITTLE architecture
 [免费提升性能！“保姆级”CPU 超频教程（英特尔篇） - YouTube](https://www.youtube.com/watch?v=f-EQCu_5wrM)
 
 ## 2022 CPU
+
+Ryzen 5000 generation is more performant and scales better with power than Intel 11th generation.
+It reverses with Intel 12th generation Ryzen 6000 generation.
 
 ### AMD
 
@@ -578,15 +587,18 @@ Pyrolytic Graphite Sheet (PGS) has a staggering thermal conductivity of 1950W/mK
 
 # Chip Making
 
+[SemiAnalysis | Dylan Patel | Substack](https://www.semianalysis.com/)
+
 [Why making chips is so hard - YouTube](https://www.youtube.com/watch?v=CkNn98WE5_k)
 
 [How Chips are Manufactured – with Optics from ZEISS - YouTube](https://www.youtube.com/watch?v=bUJiMJweI8M)
 [From Sand to Silicon: the Making of a Chip | Intel - YouTube](https://www.youtube.com/watch?v=Q5paWn7bFg4)
 [From Sand to Silicon: The Making of a Microchip | Intel - YouTube](https://www.youtube.com/watch?v=_VMYPLXnd7E)
 [The Amazing, Humble Silicon Wafer - YouTube](https://www.youtube.com/watch?v=sIRfWyyOFPg)
+[日美科技战：半导体巅峰之争背后的秘密 - YouTube](https://www.youtube.com/watch?v=FwXQSQcyWGQ)
 [Intel: The Making of a Chip with 22nm/3D Transistors | Intel - YouTube](https://www.youtube.com/watch?v=d9SWNLZvA8g)
 [How are microchips made? - YouTube](https://www.youtube.com/watch?v=g8Qav3vIv9s)
-[I Can Die Now. - YouTube](https://www.youtube.com/watch?v=2ehSCWoaOqQ) Intel Israel Fab
+[I Can Die Now. - YouTube](https://www.youtube.com/watch?v=2ehSCWoaOqQ) 2022, Intel Israel Fab
 
 硬件茶谈
 [【硬件科普】带你认识 CPU 第 00 期——什么是 MOSFET - YouTube](https://www.youtube.com/watch?v=P91wpwVGH6M)
@@ -610,10 +622,10 @@ Pyrolytic Graphite Sheet (PGS) has a staggering thermal conductivity of 1950W/mK
 
 ## Functional Types
 
-[Application-specific integrated circuit - Wikiwand](https://www.wikiwand.com/en/Application-specific_integrated_circuit) high performance, fixed pipeline, high one-time cost
+[Application-specific integrated circuit - Wikiwand](https://www.wikiwand.com/en/Application-specific_integrated_circuit) ASIC: high performance, fixed pipeline, high one-time cost
 [Structured ASIC platform - Wikiwand](https://www.wikiwand.com/en/Structured_ASIC_platform) hybrid
 [Gate array - Wikiwand](https://www.wikiwand.com/en/Gate_array)
-[Field-programmable gate array - Wikiwand](https://www.wikiwand.com/en/Field-programmable_gate_array) high performance, programmable pipeline, low one-time cost
+[Field-programmable gate array - Wikiwand](https://www.wikiwand.com/en/Field-programmable_gate_array) FPGA: high performance, programmable pipeline, low one-time cost
 
 [These Chips Are Better Than CPUs - YouTube](https://www.youtube.com/watch?v=7Elgs5HzIbE)
 [Difference Between ASIC and FPGA | Difference Between](http://www.differencebetween.net/technology/difference-between-asic-and-fpga/)
@@ -638,6 +650,8 @@ Pyrolytic Graphite Sheet (PGS) has a staggering thermal conductivity of 1950W/mK
 [What is the MOSFET: Basics, Working Principle and Applications](https://www.elprocus.com/mosfet-as-a-switch-circuit-diagram-free-circuits/)
 [Insulated Gate Bipolar Transistor Characteristics](https://www.elprocus.com/insulated-gate-bipolar-transistor-circuit-and-characteristics/)
 [Transistors - Major Difference between BJT and MOSFET](https://www.elprocus.com/difference-between-bjt-and-mosfet/)
+[The Future of the Transistor](https://www.semianalysis.com/p/the-future-of-the-transistor)
+
 [Transistors - The Invention That Changed The World - YouTube](https://www.youtube.com/watch?v=OwS9aTE2Go4)
 [Transistors Explained - How transistors work - YouTube](https://www.youtube.com/watch?v=J4oO7PT_nzQ)
 
@@ -655,6 +669,8 @@ Pyrolytic Graphite Sheet (PGS) has a staggering thermal conductivity of 1950W/mK
 [芯片制造的核心：光刻机！中芯国际在购得 EUV 光刻机后差距还有多大？梁孟松的传奇（58） - YouTube](https://www.youtube.com/watch?v=-w2Cvd3rxsU)
 [Vol.137 如何在纳米尺度雕刻芯片？ - YouTube](https://www.youtube.com/watch?v=Co7-_d1NjkM)
 [EUV 光刻太贵了：替代技术正加快速度转正-快科技-科技改变生活](https://m.mydrivers.com/newsview/870055.html?ref=https%3A//www.google.com/)
+
+[用 GPU 榨干光刻机性能！英伟达计算光刻要改写芯片历史？ - YouTube](https://www.youtube.com/watch?v=N8gb_nABdWs)
 
 [How Carl Zeiss Crafts Optics for a $150 Million EUV Machine - YouTube](https://www.youtube.com/watch?v=V__HbVlnICc)
 [The Extreme Engineering of ASML’s EUV Light Source - YouTube](https://www.youtube.com/watch?v=5Ge2RcvDlgw)
@@ -691,4 +707,30 @@ FinFET is used for nodes < 28nm
 
 [Is a smaller manufacturing process always better? Intel's 10nm SuperFin suggests otherwise | VentureBeat](https://venturebeat.com/2020/09/21/is-smaller-always-better-in-chips-intels-new-10nm-superfin-technology-suggests-otherwise/amp/)
 
-[【亦】唠唠苹果 M1 Ultra：半导体新时代！ - YouTube](https://www.youtube.com/watch?v=lri6O8EBnlI) Advanced packaging
+## Packaging
+
+[A Brief History of Semiconductor Packaging - YouTube](https://www.youtube.com/watch?v=nNpuiJitKwk)
+
+- Plastic Encapulation
+- Dual Inline Package (DIP): leads of 2.54mm apart, through hole mounting
+- Surface Mounting Technology (SMT): smaller leads catered for Very Large Scale Integration (VLSI); allow use of both side of PCB
+  - Small-Outline Integrated circuit (SOIC): gull-wing leads
+  - Quad Flat Package (QFP): lead pitch of 0.65 to 1 mm; Shrink QFP, Very Small QFP, Thin QFP variants
+  - [How Motherboards Are Made (2019) | Taiwan Automated Factory Tour, ft. Gigabyte - YouTube](https://www.youtube.com/watch?v=cnAFTMaS5R0) fully auto SMT soldering
+- Pin Grid Array (PGA)
+- Ball Grid Array (BGA): surface mount version of PGA
+- Flip Chip: the chip is flipped and wire bonding is ditched
+- Chip scale packaing: package with a die occupying > 80% of the total packaging area
+  - Wafer Level Package: die interconnects are hooked up before being cut out of the wafer
+- Advanced Packaging
+  chiplets, multi chip modiles, hybrid circuits, system in packages
+
+### Advanced Packaging
+
+[【亦】唠唠苹果 M1 Ultra：半导体新时代！ - YouTube](https://www.youtube.com/watch?v=lri6O8EBnlI)
+[Why AMD's Chiplets Work - YouTube](https://www.youtube.com/watch?v=-x9nGo0Ge70)
+
+[Advanced Packaging Part 1 – Pad Limited Designs, Breakdown Of Economic Semiconductor Scaling, Heterogeneous Compute, and Chiplets](https://www.semianalysis.com/p/advanced-packaging-part-1-pad-limited)
+[Advanced Packaging Part 2 - Review Of Options/Use From Intel, TSMC, Samsung, AMD, ASE, Sony, Micron, SKHynix, YMTC, Tesla, and Nvidia](https://www.semianalysis.com/p/advanced-packaging-part-2-review)
+[Advanced Packaging Part 3 – Intel’s Curious Bet on Thermocompression Bonding, ASM Pacific, Kulicke and Soffa, and Besi TCB Tool Landscape](https://www.semianalysis.com/p/advanced-packaging-part-3-intels)
+[The Future Of Packaging Gets Blurry – Fanouts, ABF, Organic Interposers, Embedded Bridges – Advanced Packaging Part 4](https://www.semianalysis.com/p/the-future-of-packaging-gets-blurry)

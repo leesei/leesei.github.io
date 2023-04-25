@@ -1,7 +1,8 @@
 ---
-title: Go notes
+title: The Go Programming Language
 description: ""
 created: 2015-02-16
+updated: 2023-03-30
 tags:
   - comp.lang
   - go-lang
@@ -14,10 +15,12 @@ tags:
 [Go (programming language) - Wikiwand](<https://www.wikiwand.com/en/Go_(programming_language)>)
 [Go: A Documentary](https://golang.design/history/)
 [What reasons are there to not use Go (programming language)? - Quora](https://www.quora.com/What-reasons-are-there-to-not-use-Go-programming-language)
+[The Why of Go - YouTube](https://www.youtube.com/watch?v=bmZNaUcwBt4)
 
 [Go 1 and the Future of Go Programs - go.dev](https://go.dev/doc/go1compat)
 [How to Write Go Code - go.dev](https://go.dev/doc/code)
-[Learn Go Programming - Golang Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=YS4e4q9oBaU)
+[Learn Go Programming - Golang Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=YS4e4q9oBaU) 2019-06, 6:29
+[Golang Tutorial for Beginners | Full Go Course - YouTube](https://www.youtube.com/watch?v=yyUHQIec83I) 2021-12, 3:24
 [Getting started with VS Code Go - YouTube](https://www.youtube.com/watch?v=1MXIGYrMk80) 2021-01
 
 [Awesome Go](https://awesome-go.com/)
@@ -27,7 +30,7 @@ tags:
 
 [Tap the power of Google's Go language | InfoWorld](http://www.infoworld.com/article/3190210/application-development/tap-the-power-of-googles-go-language.html)
 [Understand Go in 5 minutes - Je suis un dev](https://www.jesuisundev.com/en/understand-go-in-5-minutes/)
-[Practical Go - The acme of foolishness](https://dave.cheney.net/practical-go)
+[Practical Go | Dave Cheney](https://dave.cheney.net/practical-go)
 
 [go command - cmd/go - pkg.go.dev](https://pkg.go.dev/cmd/go)
 
@@ -39,6 +42,8 @@ tags:
 [Go command and packages cheat sheet | Opensource.com](https://opensource.com/article/18/10/go-command-and-packages-cheat-sheet)
 
 ```sh
+go mod init <package>
+
 go run a.go
 go build a.go
 go run -x -v a.go
@@ -56,10 +61,6 @@ go env -w GOPROXY=<https://goproxy.io,direct>
 Now it defaults to `$HOME/go` and stores packages and `GOBIN`
 
 ## Version Manager
-
-[Go 1.17 Release Notes - The Go Programming Language](https://go.dev/doc/go1.17)
-[Go 1.18 Release Notes - The Go Programming Language](https://go.dev/doc/go1.18)
-[Go 1.19 Release Notes - The Go Programming Language](https://go.dev/doc/go1.19)
 
 [kevincobain2000/gobrew: Go version manager. Superr simple tool to install and manage Go versions. Install go without root. Gobrew doesn't require shell rehash.](https://github.com/kevincobain2000/gobrew)
 [Go Version manager — gobrew. Install and manage Go versions on Mac… | by pulkit kathuria | web-developer | Medium](https://medium.com/web-developer/go-version-manager-gobrew-c8750157dfe6)
@@ -146,9 +147,7 @@ Use `-ldflags=-w` flag to disable DWARF to reduce binary size
 
 [gopherjs/gopherjs: A compiler from Go to JavaScript for running Go code in a browser](https://github.com/gopherjs/gopherjs)
 
-[Introducing Joy](https://mat.tm/joy/)
-[matthewmueller/joy: A delightful Go to Javascript compiler](https://github.com/matthewmueller/joy)
-on hold in light of WASM target
+[[web-assembly#Go]]
 
 [How to Use //go:generate · The Ethically-Trained Programmer](https://blog.carlmjohnson.net/post/2016-11-27-how-to-use-go-generate/)
 [How to Use //go:embed · The Ethically-Trained Programmer](https://blog.carlmjohnson.net/post/2021/how-to-use-go-embed/)
@@ -157,7 +156,8 @@ on hold in light of WASM target
 
 ### Cross Compile
 
-[Cross compilation with Go 1.5 - The acme of foolishness](https://dave.cheney.net/2015/08/22/cross-compilation-with-go-1-5)
+[Cross compilation with Go 1.5 | Dave Cheney](https://dave.cheney.net/2015/08/22/cross-compilation-with-go-1-5)
+[Cross compilation just got a whole lot better in Go 1.5 | Dave Cheney](https://dave.cheney.net/2015/03/03/cross-compilation-just-got-a-whole-lot-better-in-go-1-5)
 [Cross-compiling made easy with Golang | Opensource.com](https://opensource.com/article/21/1/go-cross-compiling)
 [Golang 跨平台交叉编译 | Tony Bai](https://tonybai.com/2014/10/20/cross-compilation-with-golang/)
 [How to cross-compile Go programs for Windows, macOS, and Linux](https://freshman.tech/snippets/go/cross-compile-go-programs/)
@@ -174,21 +174,102 @@ GOOS=windows GOARCH=amd64 go build -o app.exe app/main.go
 
 ### Cgo
 
+- Cgo has slower build time
+- cross compilation is difficult  
+  alleviated by [[zig-lang#Cross Compile]]
+- many Go tools are unavailable
+- performance penalty
+
 [C? Go? Cgo! - go.dev](https://go.dev/blog/cgo)
 [cgo command - cmd/cgo - pkg.go.dev](https://pkg.go.dev/cmd/cgo)
 [cgo · golang/go Wiki](https://github.com/golang/go/wiki/cgo)
+
+[cgo is not Go | Dave Cheney](https://dave.cheney.net/2016/01/18/cgo-is-not-go)
+[Statically compiled Go programs, always, even with cgo, using musl — Dominik Honnef](https://honnef.co/articles/statically-compiled-go-programs-always-even-with-cgo-using-musl/) using Zig is easier
 
 [Go 与 C 语言的互操作 | Tony Bai](https://tonybai.com/2012/09/26/interoperability-between-go-and-c/)
 [探讨 docker 容器对共享内存的支持情况 | Tony Bai](https://tonybai.com/2014/10/12/discussion-on-shared-mem-support-in-docker/)
 [Python and Go : Part IV - Using Python in Memory](https://www.ardanlabs.com/blog/2020/09/using-python-memory.html)
 
-[Zig Makes CGo Cross-compilation Just Work - Loris Cro - YouTube](https://www.youtube.com/watch?v=nBLFMwoDDaY)
+```sh
+CGO_ENABLED=1 go build
+CGO_ENABLED=1 GOOS=linux go build
+# zig produces static linked executable, with your choice of libc
+CGO_ENABLED=1 GOOS=linux CC="zig cc -target aarch64-linux-musl" go build
+```
 
 [runtime: provide centralized facility for managing (c)go pointer handles · Issue #37033 · golang/go](https://github.com/golang/go/issues/37033)
 
+## Package Manager
+
+[Deprecation of 'go get' for installing executables - The Go Programming Language](https://go.dev/doc/go-get-install-deprecation)
+Use `go get` for package management of `go.mod`
+Use `go install` for executables
+
+```sh
+go install example.com/cmd@latest
+```
+
+[Managing dependencies - The Go Programming Language](https://golang.org/doc/modules/managing-dependencies)
+[PackageManagementTools · golang/go Wiki](https://github.com/golang/go/wiki/PackageManagementTools)
+[The Saga of Go Dependency Management GopherAcademy](https://blog.gopheracademy.com/advent-2016/saga-go-dependency-management/)
+
+### Modules
+
+> previously `vgo`, "versioned Go"
+> alternative to GOPATH, added in Go 1.11 (2018-08)
+> control with GO111MODULE environment variable
+> default on if `go.mod` exists in Go 1.14 (2020-02)
+> package and binary management before Go 1.16 is quite messy
+
+[Modules · golang/go Wiki](https://github.com/golang/go/wiki/Modules)
+[Go Modules Reference - The Go Programming Language](https://golang.org/ref/mod)
+
+[Packages and Modules in Go (Golang) - Part 1 - Welcome To Golang By Example](https://golangbyexample.com/packages-modules-go-first/)
+[Packages and Modules in Go (Golang) - Part 2 - Welcome To Golang By Example](https://golangbyexample.com/packages-modules-go-second/)
+
+[Go update all modules - Stack Overflow](https://stackoverflow.com/questions/67201708/go-update-all-modules)
+[Go Modules | RheinardKorf.com](https://rheinardkorf.com/go-modules/)
+
+```sh
+go mod init  # init project
+go mod tidy  # sync `go.mod` with project
+
+go get [MODULE]  # get/upgrade dependency
+go install # build and install commands
+
+go list -m -u all # list upgrades
+go get -u # upgrade dependencies to latest
+go get -u=patch # upgrade dependencies limited to patch version
+go get -u -t # upgrade test dependencies
+go get -u ./... # upgrade recursively in any subdirectories
+go mod tidy ./... # after upgrade
+```
+
+### GOPATH
+
+[How to Write Go Code (with GOPATH) - The Go Programming Language](https://go.dev/doc/gopath_code)
+[Why is GO111MODULE everywhere, and everything about Go Modules (updated with Go 1.17) - DEV Community 👩‍💻👨‍💻](https://dev.to/maelvls/why-is-go111module-everywhere-and-everything-about-go-modules-24k)
+
+- `go get` installs to `$GOPATH/src` before 1.11
+- `GO111MODULE=on go get` deprecated in 1.17, use `go install` instead
+
+[The App Engine SDK and workspaces (GOPATH) - go.dev](https://go.dev/blog/appengine-gopath)
+
+## stdlib
+
+[Standard library - pkg.go.dev](https://pkg.go.dev/std)
+[fs package - io/fs - pkg.go.dev](https://pkg.go.dev/io/fs)
+[fmt package - fmt - pkg.go.dev](https://pkg.go.dev/fmt)
+[log package - log - pkg.go.dev](https://pkg.go.dev/log)
+[strings package - strings - pkg.go.dev](https://pkg.go.dev/strings)
+[strconv package - strconv - pkg.go.dev](https://pkg.go.dev/strconv)
+[reflect package - reflect - pkg.go.dev](https://pkg.go.dev/reflect)
+[json package - encoding/json - pkg.go.dev](https://pkg.go.dev/encoding/json)
+
 ## Packages
 
-`go get` can retrieve packages given the URL
+`go get` can install dependencies given the URL
 std package are located at `$GOROOT/pkg/<platform>/`
 no std package are located at `$GOROOT/src/`
 
@@ -202,27 +283,15 @@ no std package are located at `$GOROOT/src/`
 
 [The Go Programming Language Specification - go.dev](https://go.dev/ref/spec#Package_initialization) Package initialization
 [The Go init Function | TutorialEdge.net](https://tutorialedge.net/golang/the-go-init-function/)
-
-[Standard library - pkg.go.dev](https://pkg.go.dev/std)
-[fs package - io/fs - pkg.go.dev](https://pkg.go.dev/io/fs)
-[fmt package - fmt - pkg.go.dev](https://pkg.go.dev/fmt)
-[log package - log - pkg.go.dev](https://pkg.go.dev/log)
-[strings package - strings - pkg.go.dev](https://pkg.go.dev/strings)
-[strconv package - strconv - pkg.go.dev](https://pkg.go.dev/strconv)
-[reflect package - reflect - pkg.go.dev](https://pkg.go.dev/reflect)
-[json package - encoding/json - pkg.go.dev](https://pkg.go.dev/encoding/json)
-
-```go
-fmt.Printf("%T\n", variable)  // print type of variable
-
-// The next line prints: coco
-fmt.Printf("%[2]v%[1]v%[2]v%[1]v", "o", "c")
-```
+[go 打包机制 | 李乾坤的博客](https://qiankunli.github.io/2020/03/15/go_package.html)
 
 [mobile module - golang.org/x/mobile - pkg.go.dev](https://pkg.go.dev/golang.org/x/mobile)
 [golang/mobile: [mirror] Go on Mobile](https://github.com/golang/mobile/)
 
+[jefferyjob/go-easy-utils: Quick toolbox for common data processing developed by Go language。Go 语言开发的常用数据处理的快捷工具箱。](https://github.com/jefferyjob/go-easy-utils)
+
 [mitchellh/protostructure: Encode and decode Go (golang) struct types via protocol buffers.](https://github.com/mitchellh/protostructure)
+
 [ulikunitz/xz: Pure golang package for reading and writing xz-compressed files](https://github.com/ulikunitz/xz)
 [mholt/archiver: Easily create & extract archives, and compress & decompress files of various formats](https://github.com/mholt/archiver)
 
@@ -230,6 +299,7 @@ fmt.Printf("%[2]v%[1]v%[2]v%[1]v", "o", "c")
 [spf13/afero: A FileSystem Abstraction System for Go](https://github.com/spf13/afero)
 
 [uber-go/zap: Blazing fast, structured, leveled logging in Go.](https://github.com/uber-go/zap)
+[stats_api package - gopkg.in/fukata/golang-stats-api-handler.v1 - Go Packages](https://pkg.go.dev/gopkg.in/fukata/golang-stats-api-handler.v1)
 
 [Masterminds/squirrel: Fluent SQL generation for golang](https://github.com/Masterminds/squirrel)
 
@@ -248,7 +318,7 @@ fmt.Printf("%[2]v%[1]v%[2]v%[1]v", "o", "c")
 import   "lib/math"         math.Sin
 import m "lib/math"         m.Sin
 import . "lib/math"         Sin  // include symbols to local namespace
-import _ "lib/math"         // subpress unused warning, run init, no load symbol
+import _ "lib/math"         // suppress unused warning, run init, no load symbol
 ```
 
 ### Print Formatting
@@ -256,7 +326,14 @@ import _ "lib/math"         // subpress unused warning, run init, no load symbol
 [fmt package - fmt - Go Packages](https://pkg.go.dev/fmt)
 [Go 学习笔记：Println 与 Printf 的区别，以及 Printf 的详细用法\_zgh0711 的博客-CSDN 博客](https://blog.csdn.net/zgh0711/article/details/78843361)
 
+```go
+fmt.Printf("%T\n", variable)  // print type of variable
+
+// The next line prints: coco
+fmt.Printf("%[2]v%[1]v%[2]v%[1]v", "o", "c")
 ```
+
+```txt
 # General
 %v the value in a default format
    when printing structs, the plus flag (%+v) adds field names
@@ -325,92 +402,11 @@ formatting the value exactly as if it were an integer.
 [template package - text/template - Go Packages](https://pkg.go.dev/text/template)
 [valyala/fasttemplate: Simple and fast template engine for Go](https://github.com/valyala/fasttemplate)
 
-### Dependency Management
-
-[Managing dependencies - The Go Programming Language](https://golang.org/doc/modules/managing-dependencies)
-[PackageManagementTools · golang/go Wiki](https://github.com/golang/go/wiki/PackageManagementTools)
-[The Saga of Go Dependency Management GopherAcademy](https://blog.gopheracademy.com/advent-2016/saga-go-dependency-management/)
-[go 打包机制 | 李乾坤的博客](https://qiankunli.github.io/2020/03/15/go_package.html)
-
-#### Modules
-
-> previously `vgo`, "versioned Go"
-> alternative to GOPATH, added in Go 1.11 (2018-08)
-> control with GO111MODULE environment variable
-> default on if `go.mod` exists in Go 1.14 (2020-02)
-> package and binary management before Go 1.16 is quite messy
-
-[Go Modules in 2019 - go.dev](https://go.dev/blog/modules2019) plan for 2019
-[Using Go Modules - go.dev](https://go.dev/blog/using-go-modules) 2019-03, 1.11 5 part series
-[Modules · golang/go Wiki](https://github.com/golang/go/wiki/Modules)
-[Go Modules Reference - The Go Programming Language](https://golang.org/ref/mod)
-
-[Introduction to Go Modules - Roberto Selbach](https://roberto.selbach.dev/intro-to-go-modules/)
-[Go 1.11 Rocket Tutorial](https://getstream.io/blog/go-1-11-rocket-tutorial/)
-[跳出 Go module 的泥潭 | 鸟窝](https://colobu.com/2018/08/27/learn-go-module/) 1.11
-[Go module 再回顾 | 鸟窝](https://colobu.com/2019/09/23/review-go-module-again/) 1.13
-
-[Modules Part 01: Why And What](https://www.ardanlabs.com/blog/2019/10/modules-01-why-and-what.html)
-[Modules Part 02: Projects, Dependencies and Gopls](https://www.ardanlabs.com/blog/2019/12/modules-02-projects-dependencies-gopls.html)
-[Modules Part 03: Minimal Version Selection](https://www.ardanlabs.com/blog/2019/12/modules-03-minimal-version-selection.html)
-[Modules Part 04: Mirrors, Checksums and Athens](https://www.ardanlabs.com/blog/2020/02/modules-04-mirros-checksums-athens.html)
-[Modules Part 05: Gopls Improvements](https://www.ardanlabs.com/blog/2020/04/modules-05-gopls-improvements.html)
-[Modules Part 06: Vendoring](https://www.ardanlabs.com/blog/2020/04/modules-06-vendoring.html)
-
-[Packages and Modules in Go (Golang) - Part 1 - Welcome To Golang By Example](https://golangbyexample.com/packages-modules-go-first/)
-[Packages and Modules in Go (Golang) - Part 2 - Welcome To Golang By Example](https://golangbyexample.com/packages-modules-go-second/)
-
-[Go update all modules - Stack Overflow](https://stackoverflow.com/questions/67201708/go-update-all-modules)
-[Go Modules | RheinardKorf.com](https://rheinardkorf.com/go-modules/)
-
-```sh
-go mod init  # init project
-go mod tidy  # sync `go.mod` with project
-
-go get [MODULE]  # get/upgrade dependency
-go install # build and install commands
-
-go list -m -u all # list upgrades
-go get -u # upgrade dependencies to latest
-go get -u=patch # upgrade dependencies limited to patch version
-go get -u -t # upgrade test dependencies
-go get -u ./... # upgrade recursively in any subdirectories
-go mod tidy ./... # after upgrade
-```
-
-#### dep
-
-> obsolete
-
-[Dependency Management Tool - Google Docs](https://docs.google.com/document/d/1qnmjwfMmvSCDaY4jxPmLAccaaUI5FfySNE90gB0pTKQ/edit#)
-
-[golang/dep: Go dependency management tool experiment (deprecated)](https://github.com/golang/dep)
-[Go 1.11 Modules (vgo) vs dep · Issue #1959 · golang/dep](https://github.com/golang/dep/issues/1959)
-
-#### GOPATH
-
-[How to Write Go Code (with GOPATH) - The Go Programming Language](https://go.dev/doc/gopath_code)
-[Why is GO111MODULE everywhere, and everything about Go Modules (updated with Go 1.17) - DEV Community 👩‍💻👨‍💻](https://dev.to/maelvls/why-is-go111module-everywhere-and-everything-about-go-modules-24k)
-
-- `go get` installs to `$GOPATH/src` before 1.11
-- `GO111MODULE=on go get` deprecated in 1.17, use `go install` instead
-
-[The App Engine SDK and workspaces (GOPATH) - go.dev](https://go.dev/blog/appengine-gopath)
-
-### Vendoring
-
-> 1.5's vendoring is obsolete, `go mod` can use `vendor/` though
-> vendoring is good for locking dependencies in production build
-
-[Go Modules Reference - go.dev](https://go.dev/ref/mod#vendoring) `vendor/modules.txt` in `go.mod`
-
-Go's `vendor/` = Node's `node_modules/`
-import from project local instead of `GOPATH`
-default in Go 1.7
-
-[Go 1.5 Vendor Experiment](https://go.googlesource.com/proposal/+/master/design/25719-go15vendor.md)
-
 ### web
+
+[This Go package was archived. What do we do now? - YouTube](https://www.youtube.com/watch?v=j584uJhWWhE)
+compares Gin, Echo, Chi
+[Gorilla Toolkit Open Source Project Becomes Abandonware - The New Stack](https://thenewstack.io/gorilla-toolkit-open-source-project-becomes-abandonware/)
 
 [RESTful routing in Go](https://www.openmymind.net/RESTful-routing-in-Go/)
 [Go actions responses](https://www.openmymind.net/Go-action-responses/)
@@ -439,9 +435,6 @@ default in Go 1.7
 [i-love-flamingo/flamingo: Flamingo Framework and Core Library. Flamingo is a go based framework for pluggable web projects. It is used to build scalable and maintainable (web)applications.](https://github.com/i-love-flamingo/flamingo)
 [i-love-flamingo/swagger: Adds Swagger UI (open API) support](https://github.com/i-love-flamingo/swagger)
 
-[Buffalo - Rapid Web Development in Go](https://gobuffalo.io/)
-[swaggo/buffalo-swagger: Buffalo middleware to automatically generate RESTful API documentation with Swagger 2.0.](https://github.com/swaggo/buffalo-swagger)
-
 [Echo - High performance, minimalist Go web framework](https://echo.labstack.com/) HTTP/2, auto TLS
 [labstack/echo: High performance, minimalist Go web framework](https://github.com/labstack/echo)
 [swaggo/echo-swagger: echo middleware to automatically generate RESTful API documentation with Swagger 2.0.](https://github.com/swaggo/echo-swagger)
@@ -451,12 +444,6 @@ default in Go 1.7
 [Nerzal/atreugo-swagger: swagger handler for atreugo](https://github.com/Nerzal/atreugo-swagger)
 
 [goadesign/goa: Design-based APIs and microservices in Go](https://github.com/goadesign/goa)
-
-[Gin Web Framework](https://gin-gonic.com/)
-[gin-gonic/gin: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.](https://github.com/gin-gonic/gin)
-[swaggo/gin-swagger: gin middleware to automatically generate RESTful API documentation with Swagger 2.0.](https://github.com/swaggo/gin-swagger)
-[Building microservices in Go with Gin - LogRocket Blog](https://blog.logrocket.com/building-microservices-go-gin/)
-[Simple REST service in Golang with OpenAPI spec and ORM | by Tamas Ragoncsa | Dev Genius](https://blog.devgenius.io/simple-rest-service-in-golang-with-openapi-spec-and-orm-a447b1086e21) gin, viper, gorm, gin-swagger
 
 [go-zero](https://go-zero.dev/) stack, API and RPC
 [zeromicro/go-zero: go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.](https://github.com/zeromicro/go-zero)
@@ -469,17 +456,37 @@ default in Go 1.7
 
 [chi](https://go-chi.io/#/) routing, middleware, render and docgen
 
-[go-martini/martini: Classy web framework for Go](https://github.com/go-martini/martini) no longer maintained
-[gorilla/mux: A powerful URL router and dispatcher for golang.](https://github.com/gorilla/mux) no longer maintained, only routing
-[Build Server With Go Under 10 minutes - DEV Community 👩‍💻👨‍💻](https://dev.to/aniket762/build-server-with-go-under-10-minutes-1i9m) with mux
-[Build a CRUD Rest API in Go using Mux, Postgres, Docker and Docker Compose - DEV Community](https://dev.to/francescoxx/build-a-crud-rest-api-in-go-using-mux-postgres-docker-and-docker-compose-2a75)
+#### Gin
+
+[Gin Web Framework](https://gin-gonic.com/)
+[gin-gonic/gin: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.](https://github.com/gin-gonic/gin)
+
+[gin package - github.com/gin-gonic/gin - Go Packages](https://pkg.go.dev/github.com/gin-gonic/gin)
+[gin-gonic/examples: A repository to host examples and tutorials for Gin.](https://github.com/gin-gonic/examples)
+
+[swaggo/gin-swagger: gin middleware to automatically generate RESTful API documentation with Swagger 2.0.](https://github.com/swaggo/gin-swagger)
+[Building microservices in Go with Gin - LogRocket Blog](https://blog.logrocket.com/building-microservices-go-gin/)
+[Simple REST service in Golang with OpenAPI spec and ORM | by Tamas Ragoncsa | Dev Genius](https://blog.devgenius.io/simple-rest-service-in-golang-with-openapi-spec-and-orm-a447b1086e21) gin, viper, gorm, gin-swagger
+
+- [validator](https://github.com/go-playground/validator)
+
+#### Gower
+
+[falling-ts/gower: Go 语言开发 Web 的一种快速启动目录，默认使用模板集成模式，非前后端分离。Go language development Web a quick start directory, the default use of template integration mode, not front-end separation.](https://github.com/falling-ts/gower)
+[Home - Wiki - Gitee.com](https://gitee.com/falling-ts/gower/wikis/Home)
+
+- based on Gin
+- Laravel-inspires
+- frontend packaging with Vite
 
 #### Buffalo
 
 [Buffalo - Rapid Web Development in Go](https://gobuffalo.io/en/)
 [Buffalo - The Go Web Eco-System](https://github.com/gobuffalo?type=source)
+
 [gobuffalo/plugins](https://github.com/gobuffalo/plugins)
 [buffalo-cli/cli/internal/plugins at master · gobuffalo/buffalo-cli](https://github.com/gobuffalo/buffalo-cli/tree/master/cli/internal/plugins)
+[swaggo/buffalo-swagger: Buffalo middleware to automatically generate RESTful API documentation with Swagger 2.0.](https://github.com/swaggo/buffalo-swagger)
 
 #### Iris
 
@@ -509,6 +516,8 @@ default in Go 1.7
 [charmbracelet/gum: A tool for glamorous shell scripts 🎀](https://github.com/charmbracelet/gum)
 [charmbracelet/bubbles: TUI components for Bubble Tea 🍡](https://github.com/charmbracelet/bubbles)
 [charmbracelet/bubbletea: A powerful little TUI framework 🏗](https://github.com/charmbracelet/bubbletea)
+
+[hanslub42/rlwrap: A readline wrapper](https://github.com/hanslub42/rlwrap)
 
 [muesli/termenv: Advanced ANSI style & color support for your terminal applications](https://github.com/muesli/termenv)
 
@@ -556,11 +565,18 @@ go build -v
 [Go database/sql tutorial](http://go-database-sql.org/index.html)
 [go-pg/pg: Golang ORM with focus on PostgreSQL features and performance](https://github.com/go-pg/pg)
 
+[jmoiron/sqlx: general purpose extensions to golang's database/sql](https://github.com/jmoiron/sqlx)
+
+[rocketlaunchr/dbq: Zero boilerplate database operations for Go](https://github.com/rocketlaunchr/dbq)
+
 [GORM - The fantastic ORM library for Golang, aims to be developer friendly.](https://gorm.io/)
 
 [Working with SQLite using Go and Python](https://www.ardanlabs.com/blog/2020/11/working-with-sqlite-using-go-python.html)
 
-[rocketlaunchr/dbq: Zero boilerplate database operations for Go](https://github.com/rocketlaunchr/dbq)
+[A Billion Dollar Go Mistake | Neenad Ingole | ITNEXT](https://itnext.io/a-billion-dollar-go-mistake-820338199998) proper transaction
+
+- rollback in `defer` with error check (more boilerplate)
+- can use service layer to abstract that logic
 
 ### RPC
 
@@ -679,9 +695,6 @@ type S = struct {
 
 [Golang Dojo - YouTube](https://www.youtube.com/channel/UCEXtPiqFrcdzFRKqwazI1NA)
 
-Building a Trie data structure.
-[Tries - YouTube](https://www.youtube.com/watch?v=9HqbKLcxQmo)
-
 ## Playground
 
 [Go Playground - The Go Programming Language](https://go.dev/play/)
@@ -692,7 +705,7 @@ Building a Trie data structure.
 
 [DevBits Playground](https://devbits.app/play)
 
-## Go Blog
+## Whitepaper
 
 > collection of whitepaper-ish articles in Go Blog
 
@@ -747,6 +760,7 @@ Building a Trie data structure.
 [Golang tutorial: Table Of Contents](https://golangbot.com/learn-golang-series/)
 [Go Code Tutorials by Envato Tuts+](https://code.tutsplus.com/categories/go)
 [Getting started with Go for frontend developers - LogRocket Blog](https://blog.logrocket.com/getting-started-with-go-for-frontend-developers/)
+[Practical Go | Dave Cheney](https://dave.cheney.net/practical-go)
 [Let's Eat GO ! 實務開發雜談 by Golang :: 第 11 屆 iThome 鐵人賽](https://ithelp.ithome.com.tw/users/20080192/ironman/2194)
 [golang](https://freshman.tech/tags/golang/) snippets
 
@@ -761,7 +775,7 @@ Building a Trie data structure.
 [mholt/meetupchat: Simple chat using TCP, as a quick workshop for beginner (Go) programmers](https://github.com/mholt/meetupchat)
 
 [The Go Blog - go.dev](https://go.dev/blog/)
-[Go - The acme of foolishness](https://dave.cheney.net/category/golang)
+[Go | Dave Cheney](https://dave.cheney.net/category/golang)
 [Go (Golang) Programming Blog - Ardan Labs](https://www.ardanlabs.com/categories/go-programing/)
 [Golang Development | TutorialEdge.net](https://tutorialedge.net/golang/)
 
@@ -871,6 +885,9 @@ On why slice, map and function types don't support comparison, please read [this
 
 use `chan struct{}` to signify that this is a channel for event/signal
 
+[Curious Channels | Dave Cheney](https://dave.cheney.net/2013/04/30/curious-channels)
+[Channel Axioms | Dave Cheney](https://dave.cheney.net/2014/03/19/channel-axioms)
+
 [Go Concurrency from the Ground Up | doxsey.net](https://www.doxsey.net/blog/go-concurrency-from-the-ground-up/)
 [Visualizing Concurrency in Go · divan's blog](http://divan.github.io/posts/go_concurrency_visualize/)
 [Goroutine IDs · Scott Mansfield](http://blog.sgmansfield.com/2015/12/goroutine-ids/)
@@ -907,6 +924,7 @@ use `chan struct{}` to signify that this is a channel for event/signal
 [Introducing the Go Race Detector - go.dev](https://go.dev/blog/race-detector)
 [Data races explained · YourBasic Go](https://yourbasic.org/golang/data-races-explained/)
 [Data races in Go(Golang) and how to fix them](https://www.sohamkamani.com/golang/data-races/)
+[Wednesday pop quiz: spot the race | Dave Cheney](https://dave.cheney.net/2015/11/18/wednesday-pop-quiz-spot-the-race)
 [谈谈 Golang 中的 Data Race - poslua | ms2008 Blog](https://ms2008.github.io/2019/05/12/golang-data-race/)
 
 ## Date time
@@ -1004,7 +1022,7 @@ go test -count=1
 [Getting Started In Testing Your Go Application | Toptal](https://www.toptal.com/go/your-introductory-course-to-testing-with-go)
 
 [Go Testing with Test Driven Development - DEV Community](https://dev.to/eternaldev/go-testing-with-test-driven-development-c88)
-[Writing table driven tests in Go - The acme of foolishness](https://dave.cheney.net/2013/06/09/writing-table-driven-tests-in-go)
+[Writing table driven tests in Go | Dave Cheney](https://dave.cheney.net/2013/06/09/writing-table-driven-tests-in-go)
 
 [An Introduction to Testing in Go | TutorialEdge.net](https://tutorialedge.net/golang/intro-testing-in-go/)
 [Advanced Go Testing Tutorial | TutorialEdge.net](https://tutorialedge.net/golang/advanced-go-testing-tutorial/)

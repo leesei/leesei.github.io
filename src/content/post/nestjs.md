@@ -16,6 +16,9 @@ tags:
 
 [Nestjs🐺⚡ | The framework of Nodejs Series' Articles - DEV Community](https://dev.to/krtirtho/series/14048) 2021-08
 [NestJs Course for Beginners - Create a REST API - YouTube](https://www.youtube.com/watch?v=GHTA143_b-s) 2022-02
+[geersch/nestjs-getting-started: Develop enterprise back-end applications using the NestJS framework, Node.js and TypeScript. You'll learn how to setup a NestJS application, create controllers, route handlers, validate input, setup Swagger (OpenAPI), configure middleware, and more.](https://github.com/geersch/nestjs-getting-started)
+
+[NestJS interceptors: Guide and use cases - LogRocket Blog](https://blog.logrocket.com/nestjs-interceptors-guide-use-cases/)
 
 ## Ecosystem
 
@@ -24,5 +27,7 @@ tags:
 
 ### OpenAPI
 
-[eropple/nestjs-openapi3: OpenAPI 3.x document generation and serving for NestJS.](https://github.com/eropple/nestjs-openapi3)
 [OpenAPI (Swagger) | NestJS - A progressive Node.js framework](https://docs.nestjs.com/openapi/introduction)
+[@nestjs/swagger - npm](https://www.npmjs.com/package/@nestjs/swagger)
+
+[eropple/nestjs-openapi3: OpenAPI 3.x document generation and serving for NestJS.](https://github.com/eropple/nestjs-openapi3)

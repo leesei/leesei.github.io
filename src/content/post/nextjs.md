@@ -75,6 +75,7 @@ npx build && npx export -o build/ # static HTML (SSG) without need of app server
 [Next.js 13… this changes everything - YouTube](https://www.youtube.com/watch?v=_w0Ikk4JY7U)
 [Next.js 13 - The Basics - YouTube](https://www.youtube.com/watch?v=__mSgDEOyv8)
 [Next.js 13 Fundamentals - YouTube](https://www.youtube.com/watch?v=QUlWAKx2ZH8)
+[NextJS 13 Tutorial: Create a Static Blog from Markdown Files - YouTube](https://www.youtube.com/watch?v=Hiabp1GY8fA) 53 minutes
 
 [NextJS 13 & Why it's complicated - YouTube](https://www.youtube.com/watch?v=qAWeMZkR_VY)
 [NextJS 13 - First Look at the /app Folder & Complete Demo - YouTube](https://www.youtube.com/watch?v=bDDuLuCqHg0)
@@ -154,8 +155,11 @@ Equivalent to `http-proxy-middleware`'s `src/setupProxy.js`
 
 ## i18n
 
+[amannn/next-intl: A minimal, but complete solution for managing translations, date, time and number formatting in Next.js apps. 🌐](https://github.com/amannn/next-intl)
+
 [i18next/next-i18next: The easiest way to translate your NextJs apps.](https://github.com/i18next/next-i18next#static-html-export-ssg)
 [Static HTML Export with i18n compatibility in Next.js](https://locize.com/blog/next-i18n-static/)
+[I18n with React and i18next | DigitalOcean](https://www.digitalocean.com/community/tutorials/react-i18n-with-react-and-i18next)
 [Internationalization In Next.js 13 With React Server Components — Smashing Magazine](https://www.smashingmagazine.com/2023/03/internationalization-nextjs-13-react-server-components/)
 
 ## Image
@@ -192,8 +196,9 @@ This new and improved image component requires less client-side JavaScript and s
 
 [Create T3 App](https://create.t3.gg/) Next.js + Prisma + trpc
 [T3 Stack Tutorial - FROM 0 TO PROD FOR $0 (Next.js, tRPC, TypeScript, Tailwind, Prisma & More) - YouTube](https://www.youtube.com/watch?v=YkOSUVzOAA4) 3 hours
-[Full Stack Dev Just Got WAY Better 👀 - YouTube](https://www.youtube.com/watch?v=uu57PhChTOE) tRPC v10 is a major change, with `codemod` migration
-[The T3 Stack - How We Built It - YouTube](https://www.youtube.com/watch?v=H-FXwnEjSsI)
+[Full Stack Dev Just Got WAY Better 👀 - YouTube](https://www.youtube.com/watch?v=uu57PhChTOE) 2022-12,tRPC v10 is a major change, with `codemod` migration
+[The T3 Stack - How We Built It - YouTube](https://www.youtube.com/watch?v=H-FXwnEjSsI) 2022-07
+[My Stack Is Changing - YouTube](https://www.youtube.com/watch?v=hgglCqAXHuE)
 
 [init.tips - start on the right stack](https://init.tips/)
 [Building a MODERN Full Stack App for FREE w/ NextJS 12, Typescript, Prisma and more - T3 Stack - YouTube](https://www.youtube.com/watch?v=PKy2lYEnhgs)

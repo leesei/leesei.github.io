@@ -41,6 +41,8 @@ npx degit solidjs/templates/ts ts-demo
 [How we wrote the Fastest JavaScript UI Framework, Again! | by Ryan Carniato | Level Up Coding](https://levelup.gitconnected.com/how-we-wrote-the-fastest-javascript-ui-framework-again-db097ddd99b6)
 [JavaScript UI Compilers: Comparing Svelte and Solid | by Ryan Carniato | Medium](https://ryansolid.medium.com/javascript-ui-compilers-comparing-svelte-and-solid-cbcba2120cea)
 
+[Ryan Carniato - YouTube](https://www.youtube.com/c/RyanCarniato9)
+
 #### Solid.js Ecosystem
 
 [solidjs-community/solid-primitives: A library of high-quality primitives that extend SolidJS reactivity.](https://github.com/solidjs-community/solid-primitives)
@@ -53,3 +55,4 @@ npx degit solidjs/templates/ts ts-demo
 [solidjs/solid-start: SolidStart, the Solid app framework](https://github.com/solidjs/solid-start)
 [Introducing SolidStart w/ Nikhil Saraf - YouTube](https://www.youtube.com/watch?v=eAwuPvRXNdY)
 [a solid start - YouTube](https://www.youtube.com/watch?v=DVWu2b7mvFg)
+[STREAM VOD: SOLID START SHIPPED!!! CHAT W/ RYAN CARNIATO - YouTube](https://www.youtube.com/watch?v=hSECorasSK8) 2022-11

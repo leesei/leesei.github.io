@@ -4,12 +4,12 @@ description: ""
 created: 2014-12-11
 tags:
   - container
+  - dev/deploy
   - devops
   - docker
   - kubernetes
   - shell-tool
   - web/deploy
-  - dev/deploy
 ---
 
 # Kubernetes
@@ -46,8 +46,9 @@ tags:
 [Yet Another Kubernetes (k8s) Guide - Better Programming - Medium](https://medium.com/better-programming/yet-another-kubernetes-k8s-guide-52377a72ce65)
 [Kubernetes? It's all Greek to me. | GitLab](https://about.gitlab.com/blog/2019/10/24/kubernetes-101/)
 [Kubernetes 101 - YouTube](https://www.youtube.com/playlist?list=PL2_OBreMn7FoYmfx27iSwocotjiikS5BD)
-[Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours] - YouTube](https://www.youtube.com/watch?v=X48VuDVv0do)
-[Kubernetes Crash Course for Absolute Beginners [NEW] - YouTube](https://www.youtube.com/watch?v=s_o8dwzRlu4)
+[Kubernetes Crash Course: Learn the Basics and Build a Microservice Application - YouTube](https://www.youtube.com/watch?v=XuSQU5Grv1g) 2023-04
+[Kubernetes Crash Course for Absolute Beginners [NEW] - YouTube](https://www.youtube.com/watch?v=s_o8dwzRlu4) 2021-09
+[Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours] - YouTube](https://www.youtube.com/watch?v=X48VuDVv0do) 2020-11
 
 [Kubernetes: The Illustrated Children's Guide to Kubernetes](http://blog.kubernetes.io/2016/06/illustrated-childrens-guide-to-kubernetes.html)
 [Phippy and Friends - Cloud Native Computing Foundation](https://www.cncf.io/phippy/)
@@ -65,7 +66,7 @@ tags:
 [4 reasons you should use Kubernetes | InfoWorld](http://www.infoworld.com/article/3173266/data-center/4-reasons-you-should-use-kubernetes.html)
 [Making Kubernetes work for the average engineer—via PaaS | InfoWorld](https://www.infoworld.com/article/3273104/containers/making-kubernetes-work-for-the-average-engineer-via-paas.html) why k8s is complex
 [Has Kubernetes Already Become Too Unnecessarily Complex for Enterprise IT? - The New Stack](https://thenewstack.io/has-kubernetes-already-become-too-unnecessarily-complex-for-enterprise-it/)
-[Building Applications to Increase Kubernetes Adoption, and Make Life Easier - Kate Kuchin, Heptio - YouTube](https://www.youtube.com/watch?v=X2icFkQMg60) "Kubernetes was designed by systems engineers, for systems engineers, which is great, if you’re a systems engineer.""
+[Building Applications to Increase Kubernetes Adoption, and Make Life Easier - Kate Kuchin, Heptio - YouTube](https://www.youtube.com/watch?v=X2icFkQMg60) "Kubernetes was designed by systems engineers, for systems engineers, which is great, if you’re a systems engineer."
 [Kubernetes for Sysadmins – Kelsey Hightower at PuppetConf 2016 - YouTube](https://www.youtube.com/watch?v=HlAXp0-M6SY)
 
 [Getting Started with Kubernetes - via @codeship | via @codeship](https://blog.codeship.com/getting-started-with-kubernetes/)
@@ -173,6 +174,7 @@ Kubernetes pods are a group of containers that act like a single VM: they have a
 [Kubernetes Playground](http://labs.play-with-k8s.com/)
 [Introducing PWK (play with K8s) – Marcos Nils – Medium](https://medium.com/@marcosnils/introducing-pwk-play-with-k8s-159fcfeb787b)
 
+[Learnk8s — the Kubernetes training company](https://learnk8s.io/)
 [Learn - kubedex.com](https://kubedex.com/learn/)
 [Learn Kubernetes - Best Kubernetes Tutorials (2019) | gitconnected](https://gitconnected.com/learn/kubernetes)
 [Getting Started with Kubernetes | Pluralsight](https://www.pluralsight.com/courses/getting-started-kubernetes)
@@ -185,8 +187,6 @@ Kubernetes pods are a group of containers that act like a single VM: they have a
 [Introduction to Kubernetes](https://www.edx.org/course/introduction-to-kubernetes)
 [Fundamentals of Containers, Kubernetes, and Red Hat OpenShift](https://www.edx.org/course/fundamentals-containers-kubernetes-red-red-hat-do081x)
 [Kubernetes Tutorial | Kubernetes | Kubernetes tutorial for beginners - YouTube](https://www.youtube.com/watch?v=gpmerrSpbHg)
-[Learn Kubernetes using Interactive Browser-Based Labs | Katacoda](https://www.katacoda.com/courses/kubernetes)
-[Auto-scaling Containers with Kubernetes | Kubernetes | Katacoda](https://www.katacoda.com/courses/kubernetes/autoscaling-containers)
 [magicsandbox](https://console.magicsandbox.com/)
 [heptio/kubernetes-workshop: Documentation on our Kubernetes Workshops](https://github.com/heptio/kubernetes-workshop)
 [tkssharma/k8s-learning: Just for learning](https://github.com/tkssharma/k8s-learning)
@@ -323,8 +323,6 @@ Pod spec will be embedded as `spec.template` inside a controller.
 [How to Get Your Kubernetes Deployment Priorities Straight | D2iQ](https://d2iq.com/blog/how-to-get-your-kubernetes-deployment-priorities-straight)
 [Lessons Learned Shipping Instana Self-Hosted On Kubernetes - Instana](https://www.instana.com/blog/lessons-learned-shipping-instana-self-hosted-on-kubernetes/)
 
-[Auto-scaling Containers with Kubernetes | Kubernetes | Katacoda](https://www.katacoda.com/courses/kubernetes/autoscaling-containers)
-[Liveness and Readiness Healthchecks | Kubernetes | Katacoda](https://www.katacoda.com/courses/kubernetes/liveness-readiness-healthchecks)
 [Scaling SpringBoot with Message Queues and Kubernetes ♦︎ Learnk8s](https://learnk8s.io/blog/scaling-spring-boot-microservices/)
 
 [workshop/k8sprod.md at master · gravitational/workshop](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
@@ -500,9 +498,6 @@ Each installer is actually a "distribution" of Kubernetes.
 
 [Kubernetes on bare-metal in 10 minutes](https://blog.alexellis.io/kubernetes-in-10-minutes/) native with `kubeadm`, Ubuntu 16.04 packages
 [Kubernetes on Ubuntu](http://alexander.holbreich.org/kubernetes-on-ubuntu/) native with `kubeadm`, install dashboard and test with `kube-test-container`
-
-[Getting Started With Kubeadm | Kubernetes | Katacoda](https://www.katacoda.com/courses/kubernetes/launch-cluster)
-[Getting Started With Kubeadm | Kubernetes | Katacoda](https://www.katacoda.com/courses/kubernetes/getting-started-with-kubeadm)
 
 [How To Create a Kubernetes Cluster Using Kubeadm on Debian 9 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-create-a-kubernetes-cluster-using-kubeadm-on-debian-9) Ansible + `kubeadm`
 
@@ -707,13 +702,12 @@ integrated into `kubeadm` (experimental in 1.16)
 [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 [Kubectl Cheat Sheet - Kubernetes Commands — A Cloud Guru](https://acloudguru.com/blog/engineering/kubernetes-cheat-sheet)
 [Overview of kubectl - Kubernetes](https://kubernetes.io/docs/reference/kubectl/overview/)
-[Start containers using Kubectl | Kubernetes | Katacoda](https://www.katacoda.com/courses/kubernetes/kubectl-run-containers)
 [How does 'kubectl exec' work? · Erkan Erol](https://erkanerol.github.io/post/how-kubectl-exec-works/)
 
 [Extend kubectl with plugins - Kubernetes](https://kubernetes.io/docs/tasks/extend-kubectl/kubectl-plugins/) stable in 1.14
 [Boosting your kubectl productivity ♦︎ Learnk8s](https://learnk8s.io/blog/kubectl-productivity/)
 [Pimp my Kubernetes Shell – ITNEXT](https://itnext.io/pimp-my-kubernetes-shell-f144710232a0)
-[How to set up a serious Kubernetes terminal – freeCodeCamp.org](https://medium.freecodecamp.org/how-to-set-up-a-serious-kubernetes-terminal-dd07cab51cd4)
+[How to set up a serious Kubernetes terminal](https://www.freecodecamp.org/news/how-to-set-up-a-serious-kubernetes-terminal-dd07cab51cd4)
 [GoogleContainerTools/krew: 📦 Package manager for "kubectl plugins"](https://github.com/GoogleContainerTools/krew)
 [ahmetb/kubectx: Switch faster between clusters and namespaces in kubectl](https://github.com/ahmetb/kubectx)
 
@@ -770,7 +764,6 @@ Sample configs:
 [Helm Deployments - kubedex.com](https://kubedex.com/helm-deployments/) Helm and other chart managers
 [alexellis/arkade: Open Source Kubernetes Marketplace](https://github.com/alexellis/arkade)
 
-[Helm Package Manager | Kubernetes | Katacoda](https://www.katacoda.com/courses/kubernetes/helm-package-manager)
 [Breaking Changes in Helm 3 (and How to Fix Them) - ITNEXT](https://itnext.io/breaking-changes-in-helm-3-and-how-to-fix-them-39fea23e06ff)
 
 [The Chart Best Practices Guide | Docs](https://helm.sh/docs/topics/chart_best_practices/)
@@ -866,8 +859,6 @@ Spiritual successor of ksonnet, also uses jsonnet underneath
 [ksonnet: Simplify working with Kubernetes configurations](https://blog.heptio.com/ksonnet-intro-43f6183a97a6)
 [The Next Chapter for ksonnet – Heptio](https://blog.heptio.com/the-next-chapter-for-ksonnet-1dcbbad30cb)
 
-[Use Ksonnet to Deploy Containers | Kubernetes | Katacoda](https://www.katacoda.com/courses/kubernetes/ksonnet-intro)
-
 [Super quick view at ksonnet – Alberto García L. – Medium](https://medium.com/@enxebre/super-quick-view-at-ksonnet-20defac2962)
 [YAML is for Computers. ksonnet is for Humans - Bryan Liles, Heptio (Any Skill Level) - YouTube](https://www.youtube.com/watch?v=FjdS21McgpE)
 
@@ -915,6 +906,8 @@ Spiritual successor of ksonnet, also uses jsonnet underneath
 Kubelet interface to call external services
 
 ### Krustlet
+
+> run WebAssembly on Kubernetes
 
 [Krustlet](https://krustlet.dev/)
 [krustlet/krustlet: Kubernetes Rust Kubelet](https://github.com/krustlet/krustlet)
@@ -1384,7 +1377,6 @@ CNI: container network interface
 [Setting up Nginx Ingress on Kubernetes – Hacker Noon](https://hackernoon.com/setting-up-nginx-ingress-on-kubernetes-2b733d8d2f45)
 [gokulchandra/k8s-ingress-setup](https://github.com/gokulchandra/k8s-ingress-setup)
 
-[Create Ingress Routing | Kubernetes | Katacoda](https://www.katacoda.com/courses/kubernetes/create-kubernetes-ingress-routes)
 [Pain(less) NGINX Ingress – Daniel Martins](https://danielfm.me/posts/painless-nginx-ingress.html)
 [Kubernetes Ingress – Jay Gorrell – Medium](https://medium.com/@cashisclay/kubernetes-ingress-82aa960f658e)
 [Setting up Nginx Ingress on Kubernetes - Solan - Medium](https://medium.com/solanz/setting-up-nginx-ingress-on-kubernetes-d86f05af8c7c)

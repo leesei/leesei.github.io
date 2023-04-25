@@ -145,7 +145,7 @@ default markup language in Redmine
 
 ## JavaScript
 
-> see `react-js.md#documentation`
+[[reactjs#Documentation]]
 
 [Let's talk JS ⚡: documentation](https://areknawo.com/lets-talk-js-documentation/amp/)
 

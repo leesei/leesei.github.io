@@ -24,7 +24,7 @@ The Julia programming language is optimized for scientific computing, effective 
 [Possible Python rival? Programming language Julia is winning over developers | ZDNet](https://www.zdnet.com/google-amp/article/possible-python-rival-programming-language-julia-is-winning-over-developers/)
 [Julia » ADMIN Magazine](http://www.admin-magazine.com/Articles/Julia-Fast-as-Fortran-easy-as-Python)
 [Julia: The programming language of the future? - JAXenter](https://jaxenter.com/julia-survey-results-160782.html)
-[The unreasonable effectiveness of the Julia programming language – Ars Technica](https://arstechnica.com/science/2020/10/the-unreasonable-effectiveness-of-the-julia-programming-language/?amp=1)
+[The unreasonable effectiveness of the Julia programming language – Ars Technica](https://arstechnica.com/science/2020/10/the-unreasonable-effectiveness-of-the-julia-programming-language/amp/)
 
 [Scientific computing’s future: Can any coding language top a 1950s behemoth? | Ars Technica](https://arstechnica.com/science/2014/05/scientific-computings-future-can-any-coding-language-top-a-1950s-behemoth/)
 [What is the Julia language? A fresh approach to numerical computing | InfoWorld](https://www.infoworld.com/article/3284380/data-science/what-is-julia-a-fresh-approach-to-numerical-computing.html)

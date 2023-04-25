@@ -9,6 +9,8 @@ tags:
   - web/dev
 ---
 
+> split `css-tailwindcss`, `css-bulma`
+
 [CSS | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [Learn CSS](https://web.dev/learn/css/)
 [CSS Reference | Codrops](http://tympanus.net/codrops/css_reference/)
@@ -44,7 +46,7 @@ Adjacent margin collapse; adjacent padding don't.
 [Interneting Is Hard | Web Development Tutorials For Complete Beginners](https://internetingishard.com/)
 [the new code – A Complete Reading List For CSS](http://thenewcode.com/919/A-Complete-Reading-List-For-CSS)
 [The CSS Handbook](https://flaviocopes.com/page/css-handbook/)
-[The CSS Handbook: a handy guide to CSS for developers](https://medium.freecodecamp.org/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11) !important
+[The CSS Handbook: a handy guide to CSS for developers](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11) !important
 [AtoZ CSS Archives - SitePoint](https://www.sitepoint.com/tag/atoz-css/)
 [A Complete Guide to CSS Functions | CSS-Tricks](https://css-tricks.com/complete-guide-to-css-functions/)
 [Understanding The Box Model in CSS - DEV Community](https://dev.to/yamanidev/understanding-the-box-model-in-css-1af)
@@ -103,7 +105,7 @@ Also explains the the “magic” of Styling and Layout on the web
 
 [CSS Houdini Wiki](https://wiki.css-houdini.org/)
 [Houdini – Demystifying CSS | Web Updates - Google Developers](https://developers.google.com/web/updates/2016/05/houdini)
-[A guide to understanding CSS Houdini with the help of cartoons](https://medium.freecodecamp.org/a-guide-to-understanding-css-houdini-with-the-help-of-cartoons-f40af2540093)
+[A guide to understanding CSS Houdini with the help of cartoons](https://www.freecodecamp.org/news/a-guide-to-understanding-css-houdini-with-the-help-of-cartoons-f40af2540093)
 [CSS Houdini Could Change the Way We Write and Manage CSS | CSS-Tricks](https://css-tricks.com/css-houdini-could-change-the-way-we-write-and-manage-css/)
 [Houdini: Maybe The Most Exciting Development In CSS You've Never Heard Of – Smashing Magazine](https://www.smashingmagazine.com/2016/03/houdini-maybe-the-most-exciting-development-in-css-youve-never-heard-of/)
 
@@ -134,6 +136,8 @@ Also explains the the “magic” of Styling and Layout on the web
 [CSS Purge - Saving the web 1kb at a time.](http://www.csspurge.com/) the problem of too much CSS
 [You might not need a CSS framework ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2016/04/you-might-not-need-a-css-framework/)
 [Why We Don't Use a CSS Framework - Scott Tolinski, Reactive Conf](https://www.infoq.com/news/2020/06/css-variables-design-systems/)
+
+[CSS in 2023 - Tailwind vs MUI vs Bootstrap vs Chakra vs... - YouTube](https://www.youtube.com/watch?v=CQuTF-bkOgc)
 
 [The CSS Holy War & How To Think Beyond Dogma – gitconnected | Become a Better Developer](https://levelup.gitconnected.com/the-css-holy-war-how-to-think-beyond-dogma-e2c67692d409)
 [淺談 CSS 方法論與 Atomic CSS | TechBridge 技術共筆部落格](https://blog.techbridge.cc/2017/04/29/css-methodology-atomiccss/)
@@ -271,8 +275,12 @@ The `select` class set z-index of arrow to 4. Use this to override:
 
 ### UnoCSS
 
+> use multiple frameworks in one
+
 [UnoCSS Interactive Docs](https://uno.antfu.me/)
 [unocss/unocss: The instant on-demand atomic CSS engine.](https://github.com/unocss/unocss)
+
+[Is Tailwind CSS No Longer Needed? A Look Into UnoCSS! - YouTube](https://www.youtube.com/watch?v=1vwq4uaYQGU)
 
 ### Material
 
@@ -316,13 +324,15 @@ Grid sizes
 [Bootstrap 4 tutorial - best & free guide of responsive web design - Material Design for Bootstrap](https://mdbootstrap.com/education/bootstrap/)
 [Bootstrap Layout - examples & tutorial. Basic & advanced usage - Material Design for Bootstrap](https://mdbootstrap.com/docs/jquery/layout/overview/)
 
-### Tailwind
+### Tailwind CSS
 
 > functional/atomic CSS
 
 [Tailwind CSS - A Utility-First CSS Framework for Rapid UI Development](https://tailwindcss.com/docs/)
 [Responsive Design - Tailwind CSS](https://tailwindcss.com/docs/responsive-design)
 [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography)
+
+[Tailwind CSS v3.3: Extended color palette, ESM/TS support, logical properties, and more - Tailwind CSS](https://tailwindcss.com/blog/tailwindcss-v3-3)
 
 [Typewind – Typesafe Tailwind](https://typewind.dev/)
 
@@ -349,8 +359,14 @@ Copy and paste
 [Tailwind CSS Components. Examples and templates](https://tailwindcomponents.com/)
 [Home | Collection of Tailwindcss Templates & Components](https://tailwindtemplates.io/)
 [Tailwind Toolbox - Free Starter Templates and Components for Tailwind CSS](https://www.tailwindtoolbox.com/)
+
+[shadcn/ui - Beautifully designed components built with Radix UI and Tailwind CSS.](https://ui.shadcn.com/) React
+[shadcn/ui: Beautifully designed components built with Radix UI and Tailwind CSS.](https://github.com/shadcn/ui)
+
 [Flowbite - Build websites even faster with components on top of Tailwind CSS](https://flowbite.com/#components)
 [Flowbite - Plugins and Resources for Tailwind CSS](https://flowbite.com/resources/)
+[themesberg/flowbite: The most popular and open-source library of Tailwind CSS components](https://github.com/themesberg/flowbite)
+[themesberg/flowbite-react: Official React components built for Flowbite and Tailwind CSS](https://github.com/themesberg/flowbite-react)
 
 [Utility-first CSS - You have to try it first! - DEV Community 👩‍💻👨‍💻](https://dev.to/mzanggl/utility-first-css-you-have-to-try-it-first-3m85)
 [Utility-First CSS With Tailwind - DZone Web Dev](https://dzone.com/articles/utility-first-css-with-tailwind-nearform)
@@ -374,6 +390,8 @@ Copy and paste
 > on-demand alternative to Tailwind
 
 [Windi CSS](https://windicss.org/)
+
+[The Story | Windi CSS](https://windicss.org/posts/story.html)
 
 ### Milligram
 
@@ -955,6 +973,7 @@ Gist: use padding to squeeze the available space in the container to the aspect 
 [Quick! What's the Difference Between Flexbox and Grid? | CSS-Tricks](https://css-tricks.com/quick-whats-the-difference-between-flexbox-and-grid/)
 [Flexbox or CSS Grid? How to Make the Right Layout Decision - SitePoint](https://www.sitepoint.com/flexbox-or-grid-how-to-choose/)
 [Grid for layout, Flexbox for components - Ahmad Shadeed](https://ishadeed.com/article/grid-layout-flexbox-components/)
+[CSS Flexbox vs. CSS Grid](https://blog.openreplay.com/css-flexbox-vs-css-grid/)
 
 [Responsive Grid and Flexbox Page Layout Tutorial (Part 1 of 2: HTML) - YouTube](https://www.youtube.com/watch?v=zD71BgBpryE)
 [Responsive Grid and Flexbox Page Layout Tutorial (Part 2 of 2: CSS) - YouTube](https://www.youtube.com/watch?v=5DZv0G8jmMA)
@@ -1037,7 +1056,7 @@ Spacing:
 #### Libraries
 
 [[#Bulma]]
-[[#Tailwind]]
+[[#Tailwind CSS]]
 
 [React Blocks](http://whoisandy.github.io/react-blocks/)
 
@@ -1099,7 +1118,7 @@ IE 10 and 11 support a outdated Grid syntax.
 [An Introduction to CSS Grid Layout: Part 1 – Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2017/10/an-introduction-to-css-grid-layout-part-1/)
 [An Introduction to CSS Grid Layout: Part 2 – Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2017/10/an-introduction-to-css-grid-layout-part-2/)
 [The future of layout with CSS: Grid Layouts — Medium](https://medium.com/@patrickbrosset/css-grid-layout-6c9cba6e8a5a#.1qlu7xwcx)
-[11 Things I Learned Reading the CSS Grid Specification](https://medium.freecodecamp.org/11-things-i-learned-reading-the-css-grid-specification-fb3983aa5e0)
+[11 Things I Learned Reading the CSS Grid Specification](https://www.freecodecamp.org/news/11-things-i-learned-reading-the-css-grid-specification-fb3983aa5e0)
 [CSS Grid Level 2: Here Comes Subgrid — Smashing Magazine](https://www.smashingmagazine.com/2018/07/css-grid-2/)
 
 [How CSS Grid Changes Everything // Speaker Deck](https://speakerdeck.com/jensimmons/how-css-grid-changes-everything)
@@ -1108,9 +1127,9 @@ IE 10 and 11 support a outdated Grid syntax.
 [Expandable Sections Within a CSS Grid | CSS-Tricks](https://css-tricks.com/expandable-sections-within-a-css-grid/)
 
 [Using CSS Grid the right way | hey it's violet](https://vgpena.github.io/using-css-grid-the-right-way/)
-[Learn CSS Grid in 5 Minutes – freeCodeCamp](https://medium.freecodecamp.org/learn-css-grid-in-5-minutes-f582e87b1228)
-[How to prototype websites quickly with CSS Grid – freeCodeCamp](https://medium.freecodecamp.org/how-to-prototype-websites-quickly-with-css-grid-ffc9cba08583)
-[Want to learn CSS Grid? Here’s my free full-length course. Merry Christmas!](https://medium.freecodecamp.org/heres-my-free-css-grid-course-merry-christmas-3826dd24f098)
+[Learn CSS Grid in 5 minutes - A tutorial for beginners](https://www.freecodecamp.org/news/learn-css-grid-in-5-minutes-f582e87b1228)
+[CSS Grid tutorial: Learn to prototype websites quickly with CSS Grid](https://www.freecodecamp.org/news/how-to-prototype-websites-quickly-with-css-grid-ffc9cba08583)
+[Learn CSS Grid for FREE in this interactive 14-part tutorial](https://www.freecodecamp.org/news/heres-my-free-css-grid-course-merry-christmas-3826dd24f098)
 [Why CSS Grid is better than Bootstrap for creating layouts](https://hackernoon.com/how-css-grid-beats-bootstrap-85d5881cf163)
 
 [Teaching CSS grid to newcomers](https://www.chenhuijing.com/blog/teaching-css-grid-to-newcomers/)

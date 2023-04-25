@@ -34,7 +34,7 @@ It also removed most of the need for Redux middlewares (`redux-thunk`, `redux-sa
 
 [React Redux Tutorial for Beginners [2019] - RWieruch](https://www.robinwieruch.de/react-redux-tutorial) !important
 [How Redux Works: A Counter-Example](https://daveceddia.com/how-does-redux-work/)
-[Understanding Redux: The World’s Easiest Guide to Beginning Redux](https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6)
+[Understanding Redux: The World’s Easiest Guide to Beginning Redux](https://www.freecodecamp.org/news/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6)
 
 [Understanding Redux: Beginner's guide to modern state management](https://www.educative.io/blog/understanding-redux)
 [Redux Basics Explained From A Beginner's Perspective - DEV Community 👩‍💻👨‍💻](https://dev.to/dylanmesty/redux-basics-explained-from-a-beginner-s-perspective-abm)

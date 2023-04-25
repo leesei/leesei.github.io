@@ -189,140 +189,23 @@ cat /etc/lsb-release
 
 ## Package Manager
 
-[What to Expect (and Not Expect) from Linux Universal Packages - The New Stack](https://thenewstack.io/expect-not-expect-linux-universal-packages/) !important
-[Modern Package Formats » ADMIN Magazine](http://www.admin-magazine.com/Archive/2018/45/Flatpak-Snap-and-AppImage)
-[Linux Package Managers Compared - AppImage vs Snap vs Flatpak](https://www.ostechnix.com/linux-package-managers-compared-appimage-vs-snap-vs-flatpak/)
-
-[Flatpak vs Snaps vs Appimage vs Packages - Linux packaging formats compared - YouTube](https://www.youtube.com/watch?v=9HuExVD56Bo)
-[What are the differences between snaps, appimage, flatpak and others? - Ask Ubuntu](https://askubuntu.com/questions/866511/what-are-the-differences-between-snaps-appimage-flatpak-and-others)
-[A technical comparison between the snap and the Flatpak formats](https://readyspace.com.hk/a-technical-comparison-between-the-snap-and-the-flatpak-formats/)
-[Flatpak vs Snaps vs Appimage vs Packages - Linux packaging formats compared - YouTube](https://www.youtube.com/watch?v=9HuExVD56Bo)
-[FLATPAK is the FUTURE of LINUX application distribution - YouTube](https://www.youtube.com/watch?v=zs9QpPKDw74)
-
-[Subuser - Portability, Security, Maintainability](http://subuser.org/) using Docker Container
-[Subuser uses Docker containers to deliver desktop apps for Linux | InfoWorld](http://www.infoworld.com/article/3088574/desktop-apps/subuser-uses-docker-containers-to-deliver-desktop-apps-for-linux.html)
-
-[Orbital Apps - A New generation of Linux Apps](https://www.orbital-apps.com/)
-[AppStream](https://www.freedesktop.org/wiki/Distributions/AppStream/)
-[ximion/appstream: Tools and libraries to work with AppStream metadata](https://github.com/ximion/appstream)
-
-[Repology: all metapackages](https://repology.org/)
-
-[Arsen6331/lure - lure - Gitea: Git with a cup of tea](https://gitea.arsenm.dev/Arsen6331/lure) Linux User REpository
-
-[vinifmor/bauh: Graphical user interface for managing your Linux applications. Supports AppImage, Arch (repositories/AUR), Flatpak, Snap and native Web applications.](https://github.com/vinifmor/bauh)
-[Manage AppImages, AUR, Flatpaks And Snaps With Bauh - OSTechNix](https://ostechnix.com/manage-appimages-aur-flatpaks-and-snaps-with-bauh/)
-[Bauh - Manage Snaps, Flatpaks and AppImages from One Interface - It's FOSS](https://itsfoss.com/bauh-package-manager/)
-
-There is a distro dependent package format, then there is the native manager, then there is a frontend for the manager.
-
-pacman (Arch)
-apk (Alphine)
-apt (Debian)
-yum (RHEL, Fedora <22, CentOS)
-dnf (Fedora 22+)
-
-[Category:Linux package management-related software - Wikiwand](https://www.wikiwand.com/en/Category:Linux_package_management-related_software)
-[Category:Free package management systems - Wikiwand](https://www.wikiwand.com/en/Category:Free_package_management_systems)
-
-### Snap
-
-[snap: command reference - Snaps are universal Linux packages](https://snapcraft.io/docs/reference/snap-command) Shared runtimes between each applications.
-[snapcore/snapd: The snapd and snap tools enable systems to work with .snap files.](https://github.com/snapcore/snapd)
-[snapcore/snapcraft: Snapcraft is a delightful packaging tool](https://github.com/snapcore/snapcraft)
-[Snap - ArchWiki](https://wiki.archlinux.org/title/Snap)
-
-[FOSDEM 2019 - Good Will Snapping](https://fosdem.org/2019/schedule/event/behind_snapcraft/)
-
-[uApp Explorer](https://uappexplorer.com/apps?type=snappy)
-
-[Use the snap command - Snaps are universal Linux packages](https://snapcraft.io/docs/core/usage)
-[Basic snap usage | Ubuntu tutorials](https://tutorials.ubuntu.com/tutorial/basic-snap-usage#0)
-[Advanced snap usage | Ubuntu tutorials](https://tutorials.ubuntu.com/tutorial/advanced-snap-usage#0)
-
-[snapcraft - Snaps are universal Linux packages](http://snapcraft.io/)
-[Snap a python application | Ubuntu tutorials](https://tutorials.ubuntu.com/tutorial/snap-python-app#0)
-[Snap – I’ve got the package! | OCS-Mag](http://www.ocsmag.com/2016/05/14/snap-ive-got-the-package/)
-[Get started with Snapcraft - YouTube](https://www.youtube.com/watch?v=ZsUV9xnrkTA)
-
-["cannot locate core snap" error - snapd - snapcraft.io](https://forum.snapcraft.io/t/cannot-locate-core-snap-error/)
-
-cannot mount squashfs image using “squashfs”:
-
-```sh
-mkdir /tmp/foo && echo bar > /tmp/foo/bar
-mksquashfs /tmp/foo /tmp/foo.img -all-root
-mkdir /tmp/foo-mount-point
-sudo mount -t squashfs /tmp/foo.img /tmp/foo-mount-point
-```
-
-### Flatpak
-
-[Flatpak - the future of application distribution](http://flatpak.org/)
-Flatpak has been around the longest and the most mature. Uses OSTree. No shared runtimes between each applications.
-Uses [portals](https://github.com/flatpak/flatpak/wiki/Portals) for desktop integration.
-[Flatpak - ArchWiki](https://wiki.archlinux.org/title/Flatpak)
-[Welcome to Flatpak’s documentation! — Flatpak documentation](http://docs.flatpak.org/en/latest/index.html)
-
-[Flatpak Is Not the Future](https://ludocode.com/blog/flatpak-is-not-the-future)
-[On Flatpak disk usage and deduplication – Will Thompson and the Blog of Atlantis](https://blogs.gnome.org/wjjt/2021/11/24/on-flatpak-disk-usage-and-deduplication/)
-
-[Flathub - An app store and build service for Linux](https://flathub.org/home)
-[Using Flatpak on Ubuntu and Other Linux [Complete Guide] | It's FOSS](https://itsfoss.com/flatpak-guide/)
-[Explore Flatpak in Fedora 24 - Fedora Magazine](https://fedoramagazine.org/explore-flatpak-fedora-24/)
-
-```sh
-sudo pacman -S flatpak
-# add repo
-flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
-# install app
-flatpak install <remote_repository> <application_id>
-flatpak install flathub org.libreoffice.LibreOffice
-
-# from flatpakref
-flatpak install --from https://flathub.org/repo/appstream/com.spotify.Client.flatpakref
-flatpak install <path_of_flatpakref_file>
-
-flatpak list
-flatpak run <package-name>
-flatpak uninstall <application_id>
-flatpak update
-```
-
-[Maintaining a flatpak repository – Alexander Larsson](https://blogs.gnome.org/alexl/2017/02/10/maintaining-a-flatpak-repository/)
-[Flatseal—Linux Apps on Flathub](https://flathub.org/apps/details/com.github.tchx84.Flatseal)
-
-[Hello World](http://flatpak.org/hello-world.html)
-[flatpak-bundler](https://www.npmjs.com/package/flatpak-bundler)
-[electron-installer-flatpak](https://www.npmjs.com/package/electron-installer-flatpak)
-
-### AppImage
-
-[AppImage | Linux apps that run anywhere](http://appimage.org/)
-App as executable image without the need to install.
-
-[AppImages · AppImage/AppImageKit Wiki](https://github.com/AppImage/AppImageKit/wiki/AppImages) catalog and their source
-[Dashboard [Jenkins]](http://aci.pangea.pub/) catalog, [source](https://github.com/appimage-packages)
-
-[Creating AppImages · AppImage/AppImageKit Wiki](https://github.com/AppImage/AppImageKit/wiki/Creating-AppImages)
-[AppImages/recipes at master · AppImage/AppImages](https://github.com/AppImage/AppImages/tree/master/recipes)
-
-[probonopd/linuxdeployqt: Makes Linux applications self-contained by copying in the libraries and plugins that the application uses, and optionally generates an AppImage. Can be used for Qt and other applications](https://github.com/probonopd/linuxdeployqt)
-
-[PKGBUILD - aur.git - AUR Package Repositories](https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=simplest-file-renamer-bin) extract app image
-
-### OSTree
-
-OSTree is git for bootable filesystem trees.
-
-[OSTree](https://ostree.readthedocs.io/en/latest/)
-[OSTree Manual](https://developer.gnome.org/ostree/stable/)
-[The Fundamentals of OSTree | Sam Thursfield's Blog](https://samthursfield.wordpress.com/2014/01/16/the-fundamentals-of-ostree/)
+[[linux-package-managers]]
 
 ## TTY
 
 [Single User Mode, Reset root password without knowing the previous one. | Kernel-Overload.com](http://www.kernel-overload.com/single-user-mode/)
 [The TTY demystified](http://www.linusakesson.net/programming/tty/)
+
+## Failed Login Timeout
+
+[How to unlock linux user after too many failed login attempts - Super User](https://superuser.com/questions/1597162/how-to-unlock-linux-user-after-too-many-failed-login-attempts)
+
+change `unlock_time` in `/etc/security/faillock.conf`
+
+```sh
+# if you can login
+faillock --reset --user <user>
+```
 
 ## Desktop Environment
 
@@ -353,7 +236,7 @@ OSTree is git for bootable filesystem trees.
 
 Fork of GNOME Shell, brings traditional desktop experience with GTK+ 3.
 
-[Cinnamon (software) - Wikiwand](https://www.wikiwand.com/en/Cinnamon_%28software%29)
+[Cinnamon (software) - Wikiwand](<https://www.wikiwand.com/en/Cinnamon_(software)>)
 [Cinnamon - ArchWiki](https://wiki.archlinux.org/title/Cinnamon)
 [Projects](http://developer.linuxmint.com/projects.html)
 
@@ -454,7 +337,7 @@ Some DM use `~/.xinitrc` instead of `/usr/share/xsessions/`.
 [Xorg - ArchWiki](https://wiki.archlinux.org/title/Xorg)
 [X.Org Server - Wikiwand](https://www.wikiwand.com/en/X.Org_Server) [X Window System core protocol - Wikiwand](https://www.wikiwand.com/en/X_Window_System_core_protocol)
 
-[Mir - ArchWiki](https://wiki.archlinux.org/title/Mir) [Mir (software) - Wikiwand](https://www.wikiwand.com/en/Mir_%28software%29)
+[Mir - ArchWiki](https://wiki.archlinux.org/title/Mir) [Mir (software) - Wikiwand](<https://www.wikiwand.com/en/Mir_(software)>)
 SurfaceFlinger
 
 [Splitting up the Frame Clock – GNOME Shell & Mutter](https://blogs.gnome.org/shell-dev/2020/07/02/splitting-up-the-frame-clock/)
@@ -471,7 +354,7 @@ talks to KMS and GLES directly without X
 ### Wayland
 
 [Wayland - ArchWiki](https://wiki.archlinux.org/title/wayland)
-[Wayland (display server protocol) - Wikiwand](https://www.wikiwand.com/en/Wayland_%28display_server_protocol%29)
+[Wayland (display server protocol) - Wikiwand](<https://www.wikiwand.com/en/Wayland_(display_server_protocol)>)
 [Wayland misconceptions debunked | Drew DeVault’s Blog](https://drewdevault.com/2019/02/10/Wayland-misconceptions-debunked.html)
 [Wayland](https://wayland.freedesktop.org/)
 [Waypipe Is Successfully Working For This Network-Transparent Wayland Apps/Games Proxy - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Waypipe-Successful-GSoC-2019)
@@ -888,6 +771,10 @@ xrandr -s 0
 
 xrandr --output {PORT} --brightness {BRIGHTNESS}
 xrandr --output HDMI2 --scale 1.2 # zoom out
+
+#  verified the displau can support a specific res/hz
+xrandr -q
+xrandr --output DisplayPort-0 --mode 1920x1080 --rate 60.00
 ```
 
 ### ddcutil
@@ -983,7 +870,7 @@ Application Options:
 
 [scottyhardy/docker-wine: Docker image that includes Wine and Winetricks for running Windows applications on Linux and macOS](https://github.com/scottyhardy/docker-wine)
 
-## Bottles
+### Bottles
 
 ## #perfmatters
 

@@ -87,7 +87,7 @@ Two Minute Papers
 [Ray Tracing Gems](https://www.realtimerendering.com/raytracinggems/)
 [Call for Participation: Ray Tracing Gems II](https://www.realtimerendering.com/raytracinggems/rtg2/index.html)
 
-[Raytracing explained: Nvidia, Microsoft lead the way in revolutionizing gaming graphics – Ars Technica](https://arstechnica.com/gadgets/2018/08/microsoft-announces-the-next-step-in-gaming-graphics-directx-raytracing/?amp=1)
+[Raytracing explained: Nvidia, Microsoft lead the way in revolutionizing gaming graphics – Ars Technica](https://arstechnica.com/gadgets/2018/08/microsoft-announces-the-next-step-in-gaming-graphics-directx-raytracing/amp/)
 [NVIDIA’s Ray Tracer - Finally, Real Time! ☀️ - YouTube](https://www.youtube.com/watch?v=W1UDzxtrhes)
 
 [Forget Old School Ray Tracing, NVIDIA Demos Stunning Real-Time Path Tracing](https://hothardware.com/news/nvidia-real-time-path-tracing-gtc-2022)

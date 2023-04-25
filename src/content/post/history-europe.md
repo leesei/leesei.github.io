@@ -11,11 +11,11 @@ tags:
 [Middle Ages - Wikiwand](https://www.wikiwand.com/en/Middle_Ages)
 
 Herodotus, the first historian
-[Histories (Herodotus) - Wikiwand](https://www.wikiwand.com/en/Histories_%28Herodotus%29)
+[Histories (Herodotus) - Wikiwand](<https://www.wikiwand.com/en/Histories_(Herodotus)>)
 
 [How the Enlightenment Ends - The Atlantic](https://www.theatlantic.com/magazine/archive/2018/06/henry-kissinger-ai-could-mean-the-end-of-human-history/559124/)
 
-[陳樂行 | 立場新聞](https://www.thestandnews.com/author/%E9%99%B3%E6%A8%82%E8%A1%8C/) 歐洲歷史入門
+[陳樂行 - The News Lens 關鍵評論網](https://www.thenewslens.com/author/Henry%20Chan) 歐洲歷史入門
 
 [8 分钟速读《极简欧洲史》丨 The Shortest History of Europe 丨柴知道丨读书 - YouTube](https://www.youtube.com/watch?v=jBwHvGZZ7wk)
 [History of Europe - 6013 years in 3 minutes - YouTube](https://www.youtube.com/watch?v=uxDyJ_6N-6A)
@@ -46,6 +46,8 @@ After Charlemagne's death, the Kingdom was again divided into smaller nations du
 青蛙刀圣 1993
 [【十字軍簡史(上)】用一節課的時間，看懂 200 年宗教戰爭的淵源 - YouTube](https://www.youtube.com/watch?v=atrb3BpX0zs)
 [【十字軍簡史(下)】解析十字軍長征之路 | 什麽是基督天國? - YouTube](https://www.youtube.com/watch?v=di-db_uPp4c)
+
+[Short History Of...: The Knights Templar on Apple Podcasts](https://podcasts.apple.com/us/podcast/the-knights-templar/id1579040306?i=1000555089142)
 
 [The First Crusade (ALL PARTS) - YouTube](https://www.youtube.com/watch?v=jiakD6Pm9eE) Epic History TV
 

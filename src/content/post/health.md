@@ -44,12 +44,15 @@ Crash Course
 
 ## Bacteria and Viruses
 
+[How Bacteria Rule Over Your Body – The Microbiome - YouTube](https://www.youtube.com/watch?v=VzPD009qTN4)
+
 [VIRUSES Explained In 9 Images - YouTube](https://www.youtube.com/watch?v=754YnbOtmvA)
 [This Virus Shouldn't Exist (But it Does) - YouTube](https://www.youtube.com/watch?v=1-NxodiGPCU)
 [Humans vs. Viruses - YouTube](https://www.youtube.com/playlist?list=PLJicmE8fK0EiTqtnTb9Mjb4UUyMt39YVQ) TED-Ed
 [Why the world needs viruses to function - BBC Future](https://www.bbc.com/future/article/20200617-what-if-all-viruses-disappeared)
 
 [抗生素是什么原理？How does antibiotic work?【柴知道 ChaiKnows】【科普 Science】【冷知识 Trivia】 - YouTube](https://www.youtube.com/watch?v=5L2D40MVzBo)
+[The Antibiotic Apocalypse Explained - YouTube](https://www.youtube.com/watch?v=xZbcwi7SfZE)
 
 妈咪说 MommyTalk
 [人为什么会得病？微生物的发现过程 - YouTube](https://www.youtube.com/watch?v=Igd2vni0ITA&t=356s)
@@ -71,6 +74,7 @@ Crash Course
 
 [Bacteriophage - Wikiwand](https://www.wikiwand.com/en/Bacteriophage)
 [噬菌體 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%99%AC%E8%8F%8C%E4%BD%93)
+[The Deadliest Being on Planet Earth – The Bacteriophage - YouTube](https://www.youtube.com/watch?v=YI3tsmFsrOg)
 [38 億年前的納米機器人：曾被雪藏 100 年的發現，未來將是拯救人類的超級武器……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=DBwui0FO_bs)
 [人類與細菌的戰爭，噬菌體病毒進化理論，病毒也能為人類所用嗎，噬菌體取代抗生素會成為可能嗎| 填坑老高【病毒，進化】| 老高填坑團| 007 期 - YouTube](https://www.youtube.com/watch?v=XQde-sirjgU)
 

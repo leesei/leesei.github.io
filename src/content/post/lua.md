@@ -18,7 +18,7 @@ tags:
 [Lua 5.1 Reference Manual](http://www.lua.org/manual/5.1/manual.html)
 [Lua 5.4 Reference Manual](http://www.lua.org/manual/5.4/manual.html)
 
-[Lua (programming language) - Wikiwand](https://www.wikiwand.com/en/Lua_%28programming_language%29)
+[Lua (programming language) - Wikiwand](<https://www.wikiwand.com/en/Lua_(programming_language)>)
 [lua-users wiki: Home Page](http://lua-users.org/wiki/)
 [Lua - Wikiversity](https://en.wikiversity.org/wiki/Lua)
 [Lua Unofficial FAQ (uFAQ)](http://www.luafaq.org/)

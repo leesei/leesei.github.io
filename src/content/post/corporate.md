@@ -27,6 +27,7 @@ tags:
 [FAANG Stocks Definition](https://www.investopedia.com/terms/f/faang-stocks.asp) FANG, Apple
 [FAAMG Stocks](https://www.investopedia.com/terms/f/faamg-stocks.asp) Replaced Netflix with Microsoft
 [BAT Stocks](https://www.investopedia.com/terms/b/bat-stocks.asp) Baidu, Alibaba, Tencent
+BATH Baidu, Alibaba, Tencent, Huawei
 
 [The Decline of IBM - YouTube](https://www.youtube.com/watch?v=l4b1D1vWRnc)
 [The Fall of General Electric - YouTube](https://www.youtube.com/watch?v=F5NumiX-yfI)

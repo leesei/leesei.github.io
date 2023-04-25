@@ -161,7 +161,7 @@ Asynchronous compute shaders in DX12 benefits the most when CPU is the bottlenec
 
 # Hardware
 
-> TODO: merge `mobile-devices.md`'s info here
+> TODO: merge [[mobile-devices]]'s info here
 
 [GPU Benchmarks Hierarchy - Graphics Card Rankings | Tom's Hardware](https://www.tomshardware.com/reviews/gpu-hierarchy,4388.html)
 [Ancient Gameplays - YouTube](https://www.youtube.com/channel/UClxgKTFDjv90AQ_MYWiB1PA)

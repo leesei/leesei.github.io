@@ -3,9 +3,9 @@ title: Mesos
 description: ""
 created: 2016-03-21
 tags:
+  - dev/deploy
   - devops
   - shell-tool
-  - dev/deploy
 ---
 
 # Mesos

@@ -16,6 +16,142 @@ Cross platform Linux package manager
 
 [asdf - An extendable version manager](https://asdf-vm.com/#/)
 
+[What to Expect (and Not Expect) from Linux Universal Packages - The New Stack](https://thenewstack.io/expect-not-expect-linux-universal-packages/) !important
+[Modern Package Formats » ADMIN Magazine](http://www.admin-magazine.com/Archive/2018/45/Flatpak-Snap-and-AppImage)
+[Linux Package Managers Compared - AppImage vs Snap vs Flatpak](https://www.ostechnix.com/linux-package-managers-compared-appimage-vs-snap-vs-flatpak/)
+
+[Flatpak vs Snaps vs Appimage vs Packages - Linux packaging formats compared - YouTube](https://www.youtube.com/watch?v=9HuExVD56Bo)
+[What are the differences between snaps, appimage, flatpak and others? - Ask Ubuntu](https://askubuntu.com/questions/866511/what-are-the-differences-between-snaps-appimage-flatpak-and-others)
+[A technical comparison between the snap and the Flatpak formats](https://readyspace.com.hk/a-technical-comparison-between-the-snap-and-the-flatpak-formats/)
+[Flatpak vs Snaps vs Appimage vs Packages - Linux packaging formats compared - YouTube](https://www.youtube.com/watch?v=9HuExVD56Bo)
+[FLATPAK is the FUTURE of LINUX application distribution - YouTube](https://www.youtube.com/watch?v=zs9QpPKDw74)
+
+[Subuser - Portability, Security, Maintainability](http://subuser.org/) using Docker Container
+[Subuser uses Docker containers to deliver desktop apps for Linux | InfoWorld](http://www.infoworld.com/article/3088574/desktop-apps/subuser-uses-docker-containers-to-deliver-desktop-apps-for-linux.html)
+
+[Orbital Apps - A New generation of Linux Apps](https://www.orbital-apps.com/)
+[AppStream](https://www.freedesktop.org/wiki/Distributions/AppStream/)
+[ximion/appstream: Tools and libraries to work with AppStream metadata](https://github.com/ximion/appstream)
+
+[Repology: all metapackages](https://repology.org/)
+
+[Arsen6331/lure - lure - Gitea: Git with a cup of tea](https://gitea.arsenm.dev/Arsen6331/lure) Linux User REpository
+
+[vinifmor/bauh: Graphical user interface for managing your Linux applications. Supports AppImage, Arch (repositories/AUR), Flatpak, Snap and native Web applications.](https://github.com/vinifmor/bauh)
+[Manage AppImages, AUR, Flatpaks And Snaps With Bauh - OSTechNix](https://ostechnix.com/manage-appimages-aur-flatpaks-and-snaps-with-bauh/)
+[Bauh - Manage Snaps, Flatpaks and AppImages from One Interface - It's FOSS](https://itsfoss.com/bauh-package-manager/)
+
+There is a distro dependent package format, then there is the native manager, then there is a frontend for the manager.
+
+pacman (Arch)
+apk (Alphine)
+apt (Debian)
+yum (RHEL, Fedora <22, CentOS)
+dnf (Fedora 22+)
+
+[Category:Linux package management-related software - Wikiwand](https://www.wikiwand.com/en/Category:Linux_package_management-related_software)
+[Category:Free package management systems - Wikiwand](https://www.wikiwand.com/en/Category:Free_package_management_systems)
+
+## Snap
+
+> sandboxed image
+
+[snap: command reference - Snaps are universal Linux packages](https://snapcraft.io/docs/reference/snap-command) Shared runtimes between each applications.
+[snapcore/snapd: The snapd and snap tools enable systems to work with .snap files.](https://github.com/snapcore/snapd)
+[snapcore/snapcraft: Snapcraft is a delightful packaging tool](https://github.com/snapcore/snapcraft)
+[Snap - ArchWiki](https://wiki.archlinux.org/title/Snap)
+
+[FOSDEM 2019 - Good Will Snapping](https://fosdem.org/2019/schedule/event/behind_snapcraft/)
+
+[uApp Explorer](https://uappexplorer.com/apps?type=snappy)
+
+[Use the snap command - Snaps are universal Linux packages](https://snapcraft.io/docs/core/usage)
+[Basic snap usage | Ubuntu tutorials](https://tutorials.ubuntu.com/tutorial/basic-snap-usage#0)
+[Advanced snap usage | Ubuntu tutorials](https://tutorials.ubuntu.com/tutorial/advanced-snap-usage#0)
+
+[snapcraft - Snaps are universal Linux packages](http://snapcraft.io/)
+[Snap a python application | Ubuntu tutorials](https://tutorials.ubuntu.com/tutorial/snap-python-app#0)
+[Snap – I’ve got the package! | OCS-Mag](http://www.ocsmag.com/2016/05/14/snap-ive-got-the-package/)
+[Get started with Snapcraft - YouTube](https://www.youtube.com/watch?v=ZsUV9xnrkTA)
+
+["cannot locate core snap" error - snapd - snapcraft.io](https://forum.snapcraft.io/t/cannot-locate-core-snap-error/)
+
+cannot mount squashfs image using “squashfs”:
+
+```sh
+mkdir /tmp/foo && echo bar > /tmp/foo/bar
+mksquashfs /tmp/foo /tmp/foo.img -all-root
+mkdir /tmp/foo-mount-point
+sudo mount -t squashfs /tmp/foo.img /tmp/foo-mount-point
+```
+
+## Flatpak
+
+> sandboxed image
+
+[Flatpak - the future of application distribution](http://flatpak.org/)
+Flatpak has been around the longest and the most mature. Uses OSTree. No shared runtimes between each applications.
+Uses [portals](https://github.com/flatpak/flatpak/wiki/Portals) for desktop integration.
+[Flatpak - ArchWiki](https://wiki.archlinux.org/title/Flatpak)
+[Welcome to Flatpak’s documentation! — Flatpak documentation](http://docs.flatpak.org/en/latest/index.html)
+
+[Flatpak Is Not the Future](https://ludocode.com/blog/flatpak-is-not-the-future)
+[On Flatpak disk usage and deduplication – Will Thompson and the Blog of Atlantis](https://blogs.gnome.org/wjjt/2021/11/24/on-flatpak-disk-usage-and-deduplication/)
+
+[Flathub - An app store and build service for Linux](https://flathub.org/home)
+[Using Flatpak on Ubuntu and Other Linux [Complete Guide] | It's FOSS](https://itsfoss.com/flatpak-guide/)
+[Explore Flatpak in Fedora 24 - Fedora Magazine](https://fedoramagazine.org/explore-flatpak-fedora-24/)
+
+```sh
+sudo pacman -S flatpak
+# add repo
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+# install app
+flatpak install <remote_repository> <application_id>
+flatpak install flathub org.libreoffice.LibreOffice
+
+# from flatpakref
+flatpak install --from https://flathub.org/repo/appstream/com.spotify.Client.flatpakref
+flatpak install <path_of_flatpakref_file>
+
+flatpak list
+flatpak run <package-name>
+flatpak uninstall <application_id>
+flatpak update
+```
+
+[Maintaining a flatpak repository – Alexander Larsson](https://blogs.gnome.org/alexl/2017/02/10/maintaining-a-flatpak-repository/)
+[Flatseal—Linux Apps on Flathub](https://flathub.org/apps/details/com.github.tchx84.Flatseal)
+
+[Hello World](http://flatpak.org/hello-world.html)
+[flatpak-bundler](https://www.npmjs.com/package/flatpak-bundler)
+[electron-installer-flatpak](https://www.npmjs.com/package/electron-installer-flatpak)
+
+## AppImage
+
+> includes system libraries
+
+[AppImage | Linux apps that run anywhere](http://appimage.org/)
+App as executable image without the need to install.
+
+[AppImages · AppImage/AppImageKit Wiki](https://github.com/AppImage/AppImageKit/wiki/AppImages) catalog and their source
+[Dashboard [Jenkins]](http://aci.pangea.pub/) catalog, [source](https://github.com/appimage-packages)
+
+[Creating AppImages · AppImage/AppImageKit Wiki](https://github.com/AppImage/AppImageKit/wiki/Creating-AppImages)
+[AppImages/recipes at master · AppImage/AppImages](https://github.com/AppImage/AppImages/tree/master/recipes)
+
+[probonopd/linuxdeployqt: Makes Linux applications self-contained by copying in the libraries and plugins that the application uses, and optionally generates an AppImage. Can be used for Qt and other applications](https://github.com/probonopd/linuxdeployqt)
+
+[PKGBUILD - aur.git - AUR Package Repositories](https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=simplest-file-renamer-bin) extract app image
+
+## OSTree
+
+OSTree is git for bootable filesystem trees.
+
+[OSTree](https://ostree.readthedocs.io/en/latest/)
+[OSTree Manual](https://developer.gnome.org/ostree/stable/)
+[The Fundamentals of OSTree | Sam Thursfield's Blog](https://samthursfield.wordpress.com/2014/01/16/the-fundamentals-of-ostree/)
+
 ## Homebrew
 
 [The Missing Package Manager for macOS (or Linux) — Homebrew](https://brew.sh/)
@@ -27,6 +163,8 @@ Cross platform Linux package manager
 [braumeister.org](http://braumeister.org/) registry
 
 ## Nix
+
+> cross platform package manager
 
 [Welcome to nix.dev](https://nix.dev/) An opinionated guide for developers getting things done using the Nix ecosystem.
 
@@ -53,7 +191,7 @@ Cross platform Linux package manager
 
 [Thoughts about computer technologies: Cheap Docker images with Nix](http://lethalman.blogspot.com/2016/04/cheap-docker-images-with-nix_15.html?m=1)
 
-### On RPi
+## On RPi
 
 [lucernae/nixos-pi: How to install NixOS on raspberry PI](https://github.com/lucernae/nixos-pi)
 [NixOS on ARM/Raspberry Pi - NixOS Wiki](https://nixos.wiki/wiki/NixOS_on_ARM/Raspberry_Pi)

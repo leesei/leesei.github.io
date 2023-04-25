@@ -51,3 +51,8 @@ tags:
 [RobotJS - Node.js Desktop Automation](http://robotjs.io/)
 [octalmage/robotjs: Node.js Desktop Automation.](https://github.com/octalmage/robotjs)
 [RobotJS Official Blog](http://blog.robotjs.io/)
+
+## PyXDG
+
+[PyXDG documentation](https://pyxdg.readthedocs.io/en/latest/index.html)
+[takluyver/pyxdg: PyXDG provides Python implementations of various freedesktop.org specifications. This is the Giithub mirror.](https://github.com/takluyver/pyxdg)

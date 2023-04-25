@@ -57,7 +57,7 @@ Root level keys:
 [PLY (file format) - Wikiwand](<https://www.wikiwand.com/en/PLY_(file_format)>)
 [Wavefront .obj file - Wikiwand](https://www.wikiwand.com/en/Wavefront_.obj_file)
 [Point Cloud XYZ (POINTCLOUDXYZ) Reader/Writer](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/pointcloudxyz/pointcloudxyz.htm)
-[STL (file format) - Wikiwand](https://www.wikiwand.com/en/STL_%28file_format%29)
+[STL (file format) - Wikiwand](<https://www.wikiwand.com/en/STL_(file_format)>)
 
 [glTF - Wikiwand](https://www.wikiwand.com/en/GlTF)
 [glTF Overview - The Khronos Group Inc](https://www.khronos.org/gltf/)

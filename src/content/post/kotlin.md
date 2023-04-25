@@ -8,7 +8,7 @@ tags:
 ---
 
 [Kotlin Programming Language](https://kotlinlang.org/)
-[Kotlin (programming language) - Wikiwand](https://www.wikiwand.com/en/Kotlin_%28programming_language%29)
+[Kotlin (programming language) - Wikiwand](<https://www.wikiwand.com/en/Kotlin_(programming_language)>)
 Statically typed programming language for the JVM, Android, the browser and native
 
 [Kotlin Clean Architecture – ProAndroidDev](https://proandroiddev.com/kotlin-clean-architecture-1ad42fcd97fa)
@@ -268,7 +268,7 @@ improvements in 1.3, but not for prime time yet
 
 [Kotlin Collection Extensions Cheat Sheet by Xantier - Download free from Cheatography - Cheatography.com: Cheat Sheets For Every Occasion](https://www.cheatography.com/xantier/cheat-sheets/kotlin-collection-extensions/)
 
-[Exploring Kotlin: useful standard library functions](https://medium.freecodecamp.org/exploring-kotlin-useful-standard-library-functions-6de19342f35a)
+[Exploring Kotlin: useful standard library functions](https://www.freecodecamp.org/news/exploring-kotlin-useful-standard-library-functions-6de19342f35a)
 [Kotlin Sequences: An Illustrated Guide - Dave Leeds on Kotlin](https://typealias.com/guides/kotlin-sequences-illustrated-guide/)
 
 [Kotlin Array sort(), sortBy(), sortWith() - grokonez](https://grokonez.com/kotlin/kotlin-array-sort-sortby-sortwith)

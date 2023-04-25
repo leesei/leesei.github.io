@@ -33,6 +33,9 @@ Crash Course
 
 Convergent evolution 趨同進化: two unrelated animals evolved similar traits
 
+Evolution: Differential survival and reproduction
+Epigenetics: acquired gene, genic expression
+
 To categorize organisms based upon similarities and differences in their physical or genetic characteristics
 
 [Researchers explain why that picture of monkeys turning into humans is wrong](https://thenextweb.com/news/researchers-explain-why-that-picture-of-monkeys-turning-into-humans-is-wrong)

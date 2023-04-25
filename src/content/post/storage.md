@@ -48,7 +48,7 @@ Tracks of SMR HDD overlaps to increase density. Writes are performed to PMR cach
 [Shingled magnetic recording - Wikiwand](https://www.wikiwand.com/en/Shingled_magnetic_recording)
 
 SMR will cause RAID mis-identify disk failure during high workload
-[Buyer beware—that 2TB-6TB “NAS” drive you’ve been eyeing might be SMR – Ars Technica](https://arstechnica.com/gadgets/2020/04/caveat-emptor-smr-disks-are-being-submarined-into-unexpected-channels/?amp=1)
+[Buyer beware—that 2TB-6TB “NAS” drive you’ve been eyeing might be SMR – Ars Technica](https://arstechnica.com/gadgets/2020/04/caveat-emptor-smr-disks-are-being-submarined-into-unexpected-channels/amp/)
 [Updated: HDD manufacturers found selling slow SMR drives unsuitable for NAS RAID environments](https://www.techspot.com/amp/news/84914-wd-seagate-toshiba-found-selling-slow-smr-drives.html)
 [Use of Shingled Magnetic Recording (SMR) technology in Toshiba Consumer Hard Drives. | Toshiba Electronic Devices & Storage Corporation | Asia-English](https://toshiba.semicon-storage.com/ap-en/company/news/news-topics/2020/04/storage-20200428-1.html)
 [SMR in disk drives: PC vendors also need to be transparent – Blocks and Files](https://blocksandfiles.com/2020/04/20/western-digital-smr-drives-statement/)
@@ -66,7 +66,7 @@ HAMR (heat-assisted magnetic recording) by Seagate
 MAMR (microwave-assisted magnetic recording) by Western Digital
 More precise writing techniques to increase density of magnetic track
 
-[HAMR don’t hurt ’em—laser-assisted hard drives are coming in 2020 – Ars Technica](https://arstechnica.com/gadgets/2020/02/hamr-dont-hurt-em-laser-assisted-hard-drives-are-coming-in-2020/?amp=1)
+[HAMR don’t hurt ’em—laser-assisted hard drives are coming in 2020 – Ars Technica](https://arstechnica.com/gadgets/2020/02/hamr-dont-hurt-em-laser-assisted-hard-drives-are-coming-in-2020/amp/)
 [Come to MAMR! Western Digital unfurls HDD tech roadmap – Blocks and Files](https://blocksandfiles.com/2020/01/28/western-digital-gives-hdd-technology-roadmap-lesson/)
 
 [ZonedStorage.io](https://www.zonedstorage.io/)
@@ -173,7 +173,7 @@ Alignment used to an issue years ago, but no longer.
 
 ### Trim
 
-[Trim (computing) - Wikiwand](http://www.wikiwand.com/en/Trim_%28computing%29)
+[Trim (computing) - Wikiwand](<http://www.wikiwand.com/en/Trim_(computing)>)
 [Garbage Collection and TRIM in SSDs Explained - An SSD Primer | The SSD Review](http://www.thessdreview.com/daily-news/latest-buzz/garbage-collection-and-trim-in-ssds-explained-an-ssd-primer/)
 [Extend the life of your SSD drive with fstrim | Opensource.com](https://opensource.com/article/20/2/trim-solid-state-storage-linux)
 [Explainer: What is SSD Trimming? | TechSpot](https://www.techspot.com/article/2600-ssd-trimming-explained/)
@@ -387,6 +387,10 @@ SD R: 100MB W: 100MB
 [DVD+R and DVD-R; What was that about? - YouTube](https://www.youtube.com/watch?v=e1mJv9pxm7M)
 
 [【科技杂谈 77】比脑袋还大的光碟——LD 光碟（镭射光碟）【光盘发展史 1】 - YouTube](https://www.youtube.com/watch?v=CApE95p4GAk)
+[【科技杂谈 78】CD 发展史第一期：CD 的诞生【光盘发展史 2】 - YouTube](https://www.youtube.com/watch?v=z_5ojAQPeLQ)
+[【科技杂谈 89】音乐 CD 发展历史（光碟发展史） - YouTube](https://www.youtube.com/watch?v=65N38yBSvpE)
+[【科技杂谈 90】它改变了电脑和电子游戏！数据 CD 发展历史上期（光碟发展史） - YouTube](https://www.youtube.com/watch?v=E3CicyUE6zw)
+[【科技杂谈 91】CD 刻录碟与 VCD 光碟！数据 CD 发展历史下期（光碟发展史） - YouTube](https://www.youtube.com/watch?v=_mAVFRuDAGk)
 
 ## Tape
 

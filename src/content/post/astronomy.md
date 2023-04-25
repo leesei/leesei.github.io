@@ -22,6 +22,7 @@ tags:
 [Sixty Symbols - YouTube](https://www.youtube.com/user/sixtysymbols/about)
 [Launch Pad Astronomy - YouTube](https://www.youtube.com/channel/UCNqNkZ7kKfqimqHkgbWMNYA)
 [天文史话 - YouTube](https://www.youtube.com/playlist?list=PLYtoePJQbGmicW5EiJeVIgz5a4Br99WwC)
+[Sabine Hossenfelder - YouTube](https://www.youtube.com/@SabineHossenfelder) Science without the Gobbledygook
 
 [Astronomers Get Their Wish, and the Hubble Crisis Gets Worse | Quanta Magazine](https://www.quantamagazine.org/astronomers-get-their-wish-and-the-hubble-crisis-gets-worse-20201217/)
 
@@ -228,7 +229,12 @@ Discovery With Andy
 
 [The Map of Black Holes | Black Holes Explained - YouTube](https://www.youtube.com/watch?v=Wf0uxjWGwPk)
 [The Physics of Black Holes - with Chris Impey - YouTube](https://www.youtube.com/watch?v=roM1QPr8lNo)
+[The Black Hole Bomb and Black Hole Civilizations - YouTube](https://www.youtube.com/watch?v=ulCdoCfw-bY)
+[Why Black Holes Could Delete The Universe – The Information Paradox - YouTube](https://www.youtube.com/watch?v=yWO-cvGETRQ)
+
 [穿越黑洞到另一頭會發生什麼？一個實驗告訴你答案「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=NosNMH2tUZU)
+[黑洞的五种形态！颠覆认知的宇宙生死观 - YouTube](https://www.youtube.com/watch?v=MDFdCWbzKgs)
+[史上最神秘天体！宇宙大爆炸竟然是白洞？ - YouTube](https://www.youtube.com/watch?v=qEyh5uZ4NYk)
 [Black hole Firewalls - with Sean Carroll and Jennifer Ouellette - YouTube](https://www.youtube.com/watch?v=_8bhtEgB8Mo)
 
 ### Hawking Radiation
@@ -239,7 +245,22 @@ The explanation in Quantum Theory is that when a pair particle/anti-particle app
 
 ## Dark Matter
 
+Astronomers observed the stars at the edges of galaxies are moving too fast, which is not explainable by the known matters.
+They found that most of the universe is made up of "dark matter". It is estimated that there are 5 times more dark matter than "normal" matter.
+Dark matter only weakly interact with known matter.
+Note the original discrepancy could also have been reconciled by an update of gravitational theory. Like Einstein's relativity updates Newton's gravity.
+
+Candidates:
+[Massive compact halo object - Wikiwand](https://www.wikiwand.com/en/Massive_compact_halo_object) MACHOs
+[Primordial black hole - Wikiwand](https://www.wikiwand.com/en/Primordial_black_hole) MACHOs?
+[Weakly interacting massive particles - Wikiwand](https://www.wikiwand.com/en/Weakly_interacting_massive_particles) WIMPs
+[Axion - Wikiwand](https://www.wikiwand.com/en/Axion) 軸子，超軸子
+[Sterile neutrino - Wikiwand](https://www.wikiwand.com/en/Sterile_neutrino)
+
+[A heavyweight candidate for dark matter](https://phys.org/news/2019-08-heavyweight-candidate-dark.amp)
 [暗物质一定存在吗？暗物质的证据以及候选粒子 - YouTube](https://www.youtube.com/watch?v=TTD4kAwHP7o)
+[The building blocks of the universe • Unexplainable - Podcast Addict](https://podcastaddict.com/episode/133039400)
+
 [暗物质找到了吗？科学家是如何探测暗物质的？目前有哪些进展？ - YouTube](https://www.youtube.com/watch?v=E85WvqVwj5g) detecting WIMPs
 [Dark Matter and Dark Energy: The Frontier of Astronomy - YouTube](https://www.youtube.com/watch?v=thxknsmN9yk)
 [Looking for warm dark matter](https://phys.org/news/2019-08-dark.amp)
@@ -256,18 +277,11 @@ The explanation in Quantum Theory is that when a pair particle/anti-particle app
 
 [Axions Would Solve Another Major Problem in Physics | Quanta Magazine](https://www.quantamagazine.org/axions-would-solve-another-major-problem-in-physics-20200317/)
 
-Candidates:
-[Massive compact halo object - Wikiwand](https://www.wikiwand.com/en/Massive_compact_halo_object) MACHOs
-[Weakly interacting massive particles - Wikiwand](https://www.wikiwand.com/en/Weakly_interacting_massive_particles) WIMPs
-[Axion - Wikiwand](https://www.wikiwand.com/en/Axion) 軸子，超軸子
-[Sterile neutrino - Wikiwand](https://www.wikiwand.com/en/Sterile_neutrino)
-[A heavyweight candidate for dark matter](https://phys.org/news/2019-08-heavyweight-candidate-dark.amp)
-
 ## Dark Energy
 
-Eistein's comological constant (his biggest blunder) that will make the universe expand
+Einstein's cosmological constant (his biggest blunder) that will make the universe expand
 
-> When Eistein is wrong, he is still right
+> When Einstein is wrong, he is still right
 
 [One Number Shows Something Is Fundamentally Wrong with Our Conception of the Universe | Live Science](https://www.livescience.com/amp/hubble-constant-discrepancy-explained.html)
 [Dark Energy May Be Incompatible With String Theory | Quanta Magazine](https://www.quantamagazine.org/dark-energy-may-be-incompatible-with-string-theory-20180809/)

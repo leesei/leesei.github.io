@@ -28,7 +28,9 @@ tags:
 [DoS - Domain of Science - YouTube](https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A)
 
 [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
+[Bad Science](https://www.badscience.net/)
 
+[AsapSCIENCE - YouTube](https://www.youtube.com/@AsapSCIENCE)
 [ViaScience - YouTube](https://www.youtube.com/channel/UCx6G76LCKLdd7__F0xt5POQ)
 [Science - YouTube](https://www.youtube.com/playlist?list=PLJ8cMiYb3G5dHStEexqZ0UaNcVsFwHbb3) Vox
 [History of Science - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNppY8ZHMPDH5TKK2UpU8Ng)
@@ -85,6 +87,9 @@ Einstein: particles + fields, problem of self-interaction
 Ritz: particles with interaction acts across the gap
 Faraday: field only
 
+[物理學已經出現一個難以跨越的禁區，導致物理學發展停滯不前！ - YouTube](https://www.youtube.com/watch?v=afOsKeRHNyg)
+[現代物理學烏雲系列 - YouTube](https://www.youtube.com/playlist?list=PL2_B1hyW9zTsW7d-Z0VhlwQydiVWlpYMP)
+
 [What is the standard model? | Space](https://www.space.com/standard-model-physics)
 [The Four Fundamental Forces of Nature | Space](https://www.space.com/four-fundamental-forces.html)
 [What are bosons? | Space](https://www.space.com/what-are-bosons)
@@ -121,6 +126,8 @@ electron forming [Cooper pair](https://www.wikiwand.com/en/Cooper_pair) will bec
   - [Tau](<https://www.wikiwand.com/en/Tau_(particle)>): like electron but greater mass
   - Neutrino does not get mass from Higgs Field
 - [Baryon](https://www.wikiwand.com/en/Baryon): triplet of Quarks
+
+[Daniel and Jorge Explain the Universe: The Sticky Story of the Gluon's Discovery on Apple Podcasts](https://podcasts.apple.com/us/podcast/the-sticky-story-of-the-gluons-discovery/id1436616330?i=1000500310629)
 
 ### Super symmetry
 
@@ -262,28 +269,18 @@ Weak force has handiness
 [Intro to Special Relativity Course - YouTube](https://www.youtube.com/playlist?list=PLoaVOjvkzQtyjhV55wZcdicAz5KexgKvm) minutephysics
 [Special Relativity - YouTube](https://www.youtube.com/playlist?list=PL712E709B05086D32) minutephysics
 [Special Relativity - YouTube](https://www.youtube.com/playlist?list=PLi4bAmTKSQEKyYiGQVvfbZbNTu-e5lauS) Frame of Essence
+[相对论 - YouTube](https://www.youtube.com/playlist?list=PLOrDt87s8A3r4X6gzfA2wIwqmARLcYMXw) 李永乐老师
+[相对论 Relativity - YouTube](https://www.youtube.com/playlist?list=PLQPHZF5uyZIFeCWwgvZyXvAbQjcviGEo9) 眼见为识
 [一个公式理解相对论：从伽利略变换到洛伦兹变换 - YouTube](https://www.youtube.com/watch?v=9xfaNMfT_rY)
 [【震撼】智商 200 也無法解答，宇宙最大的謎團，時間 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=6SkbNlWMG5w)
 [《相對論》究竟在説什麽，其實一切都是相對的 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=B-I2guiXzRA)
+科學漫聊
 [光速到底是怎么回事，光速不变会推出什么奇怪的结论？ - YouTube](https://www.youtube.com/watch?v=Xp3dQryAmaU)
+[光速為什麽不變？ - YouTube](https://www.youtube.com/watch?v=p8t8Lw_zkW4)
 
 雅桑了嗎
 [8 分鐘讀懂狹義相對論！時間變慢、長度變短、質量變重、E=mc² 一次性全搞明白 | 雅桑了嗎 - YouTube](https://www.youtube.com/watch?v=wspDAnUrHTA)
 [萬有引力不是力，甚至根本不存在！8 分鐘讀懂廣義相對論 | 雅桑了嗎 - YouTube](https://www.youtube.com/watch?v=iLcoIhsU5zg)
-
-眼见为识
-[光速不变居然没有证明？假设和证明的区别到底在哪里？ - YouTube](https://www.youtube.com/watch?v=BhvBHtPskoE)
-[爱因斯坦说的四维时空是怎么样的！这个视频给你答案！ - YouTube](https://www.youtube.com/watch?v=KDXbs0rMVFY)
-[有什么证据能显示我们的宇宙是四维的呢？ - YouTube](https://www.youtube.com/watch?v=gAaytIVkc0M)
-[用爱因斯坦的相对论告诉你如何“穿越时空”！ - YouTube](https://www.youtube.com/watch?v=dqimmJvLFRk)
-[为啥牛顿的世界里没有引力波？ - YouTube](https://www.youtube.com/watch?v=C1Uc_W4C5GE)
-[揭秘引力不存在的原因 - YouTube](https://www.youtube.com/watch?v=wpRcbgpUIeM)
-[时空弯曲被实锤，那五维宇宙存在？那进去还能出来？ - YouTube](https://www.youtube.com/watch?v=6WM8ot2rMwE) measuring curvature
-
-[如何拥有上帝视角？看到的事物有啥不一样的？ - YouTube](https://www.youtube.com/watch?v=D8BtRwr-y90)
-[思维“改造”！反“直觉”的科学宇宙观！ - YouTube](https://www.youtube.com/watch?v=tsH2ML3en6g)
-[“时间之谜”！如何正确的理解“光速不变”！ - YouTube](https://www.youtube.com/watch?v=SYzxG9cg5EA)
-[【4K】莫比乌斯之瞳！几何视角的宇宙是怎样的？ - YouTube](https://www.youtube.com/watch?v=r_wu1rSzO3k)
 
 [Why doesn't gravity fit into quantum theory? - Physics Stack Exchange](https://physics.stackexchange.com/questions/238010/why-doesnt-gravity-fit-into-quantum-theory)
 [Quantum Gravity | The Search For a Theory of Everything | 3by3 - YouTube](https://www.youtube.com/watch?v=d-86tNCSJsg)
@@ -298,9 +295,9 @@ Weak force has handiness
 [The Map of Quantum Physics - YouTube](https://www.youtube.com/watch?v=gAFAj3pzvAA)
 [If You Don't Understand Quantum Physics, Try This! - YouTube](https://www.youtube.com/watch?v=Usu9xZfabPM)
 [The Heisenberg Uncertainty Principle Explained Intuitively - YouTube](https://www.youtube.com/watch?v=qwt6wUUD2QI)
-[Exploring the quantum world | Series | Ars Technica](https://arstechnica.com/series/exploring-the-quantum-world/?amp=1)
+[Exploring the quantum world | Series | Ars Technica](https://arstechnica.com/series/exploring-the-quantum-world/amp/)
 [What the Bleep Do We Know!? | Educational Downloads](https://whatthebleep.com/educational-downloads/)
-[A guide to (not) understanding quantum mechanics – Ars Technica](https://arstechnica.com/science/2023/02/a-guide-to-not-understanding-quantum-mechanics/?amp=1)
+[A guide to (not) understanding quantum mechanics – Ars Technica](https://arstechnica.com/science/2023/02/a-guide-to-not-understanding-quantum-mechanics/amp/)
 
 [Quanta Magazine – Illuminating Science | Quanta Magazine](https://www.quantamagazine.org/)
 
@@ -334,7 +331,7 @@ Weak force has handiness
 [Quantum Darwinism may solve the question of whether God plays dice or not](https://thenextweb.com/insights/2019/07/30/quantum-darwinism-may-solve-the-question-of-whether-god-plays-dice-or-not/amp/)
 [The Many-Worlds Theory, Explained | The MIT Press Reader](https://thereader.mitpress.mit.edu/the-many-worlds-theory/)
 
-[Quantum observers with knowledge of quantum mechanics break reality – Ars Technica](https://arstechnica.com/science/2018/09/quantum-observers-with-knowledge-of-quantum-mechanics-break-reality/?amp=1)
+[Quantum observers with knowledge of quantum mechanics break reality – Ars Technica](https://arstechnica.com/science/2018/09/quantum-observers-with-knowledge-of-quantum-mechanics-break-reality/amp/)
 
 [Scientists discovered a new kind of quantum time order](https://www.techexplorist.com/scientists-discovered-new-kind-quantum-time-order/26138/?amp)
 
@@ -359,6 +356,9 @@ The Royal Institution
 
 Linvo 說宇宙
 [（更新中）【俗說量子】 - YouTube](https://www.youtube.com/playlist?list=PLd-GBkH4nB9liMqQBq3XqRMmAd0J8fEVN)
+
+科学认识论
+[量子力学合集 - YouTube](https://www.youtube.com/playlist?list=PL2_B1hyW9zTtBHqdluFMAEzqj_r9Bo_kx)
 
 Looking Glass Universe
 [New? Here's some Quantum Mechanics - YouTube](https://www.youtube.com/playlist?list=PLg-OiIIbfPj2aXCoQkrVA3CwUGLDgKZBQ)

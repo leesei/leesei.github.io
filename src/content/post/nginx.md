@@ -273,7 +273,7 @@ setfacl -R -m u:${USER}:rwx /var/www
 
 ## Proxy
 
-[Load balancing (computing) - Wikiwand](https://www.wikiwand.com/en/Load_balancing_%28computing%29#/Server-side_Load_Balancers)
+[Load balancing (computing) - Wikiwand](<https://www.wikiwand.com/en/Load_balancing_(computing)#/Server-side_Load_Balancers>)
 [Using nginx as HTTP load balancer](http://nginx.org/en/docs/http/load_balancing.html)
 [NGINX Load Balancing - HTTP and TCP Load Balancer](https://www.nginx.com/resources/admin-guide/load-balancer/)
 [Module ngx_http_proxy_module](http://nginx.org/en/docs/http/ngx_http_proxy_module.html)

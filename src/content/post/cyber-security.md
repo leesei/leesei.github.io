@@ -56,6 +56,8 @@ living off the land (using tools at victim machine)
 [Hack The Box: Hacking Training For The Best | Individuals & Companies](https://www.hackthebox.com/)
 [hack the box - YouTube](https://www.youtube.com/watch?v=4CJMpZfK1rI)
 
+[Dashboard | HackerRank](https://www.hackerrank.com/dashboard)
+
 [The Defenders Movie | Cybersecurity Documentary](https://www.cybereason.com/the-defenders-movie)
 [Douglas Crockford: Principles of Security - YouTube](https://www.youtube.com/watch?v=zKuFu19LgZA)
 [The Lazy Programmer's Guide to Secure Computing - YouTube](https://www.youtube.com/watch?v=eL5o4PFuxTY)
@@ -117,6 +119,8 @@ Google CTF
 ### IDS/IPS
 
 [Home - Suricata](https://suricata.io/)
+[IPS inline mode](https://suricata.readthedocs.io/en/latest/setting-up-ipsinline-for-linux.html)
+
 [Snort - Network Intrusion Detection & Prevention System](https://www.snort.org/)
 
 ### KASM
@@ -308,7 +312,7 @@ Use time difference in array comparison to brute force the digest byte by byte.
 [xkcd: Heartbleed Explanation](https://xkcd.com/1354/)
 [Heartbleed Report (2017-01) - Shodan](https://www.shodan.io/report/DCPO7BkV)
 
-[How I used Heartbleed to steal a site’s private crypto key – Ars Technica](https://arstechnica.com/information-technology/2014/04/how-i-used-heartbleed-to-steal-a-sites-private-crypto-key/?amp=1)
+[How I used Heartbleed to steal a site’s private crypto key – Ars Technica](https://arstechnica.com/information-technology/2014/04/how-i-used-heartbleed-to-steal-a-sites-private-crypto-key/amp/)
 [Critical crypto bug exposes Yahoo Mail, other passwords Russian roulette-style | Ars Technica](http://arstechnica.com/security/2014/04/critical-crypto-bug-exposes-yahoo-mail-passwords-russian-roulette-style/)
 [Coder in a World of Code: My Heart Bleeds for OpenSSL](http://coderinaworldofcode.blogspot.hk/2014/04/my-heart-bleeds-for-openssl.html)
 
@@ -421,37 +425,10 @@ pip audit
 npm audit
 ```
 
-### TLA+
-
-[The TLA+ Home Page](https://lamport.azurewebsites.net/tla/tla.html)
-[Introduction :: Learn TLA+](https://learntla.com/introduction/)
-[Designing Distributed Systems with TLA+](https://www.infoq.com/presentations/tla-plus)
-[TLA+: The Best Debugger/ Optimizer You’ve Never Heard of – The New Stack](https://thenewstack.io/tla-the-best-debugger-optimizer-youve-never-heard-of/)
-[The Temporal Logic of Actions](https://lamport.azurewebsites.net/pubs/lamport-actions.pdf)
-
-[Leslie Lamport's The TLA+ Video Course - YouTube](https://www.youtube.com/playlist?list=PLWAv2Etpa7AOAwkreYImYt0gIpOdWQevD)
-[Leslie Lamport: Thinking Above the Code - YouTube](https://www.youtube.com/watch?v=-4Yp3j_jk8Q)
-[Lamport TLA+ Course Lecture 1: Introduction to TLA+ (HD) - YouTube](https://www.youtube.com/watch?v=p54W-XOIEF8)
-[Lamport TLA+ Course Lecture 2: State Machines in TLA+ (HD) - YouTube](https://www.youtube.com/watch?v=4snwZl726c4)
-[A gentle intro to TLA+ - YouTube](https://www.youtube.com/watch?v=D_sh1nnX3zY)
-[YOW! 2019 - Hillel Wayne - Designing Distributed Systems with TLA+ - YouTube](https://www.youtube.com/watch?v=ATobswwFwQA&t=19s)
-["Tackling Concurrency Bugs with TLA+" by Hillel Wayne - YouTube](https://www.youtube.com/watch?v=_9B__0S21y8)
-
-Inductive invariance
-Thinking at a more abstract level will improve your code
-
-[TLA+](https://github.com/tlaplus)
-[The TLA Toolbox](https://lamport.azurewebsites.net/tla/toolbox.html)
-
-[PlusCal - Wikiwand](https://www.wikiwand.com/en/PlusCal)
-[PlusCal :: Learn TLA+](https://learntla.com/pluscal/)
-[A Simple Example](http://lamport.azurewebsites.net/tla/peterson.html?back-link=high-level-view.html#pluscal?unhideBut@EQhide-pluscal@AMPunhideDiv@EQpluscal)
-[quux00/PlusCal-Examples: Algorithm examples in PlusCal, the algorithm language of Lamport's TLA+](https://github.com/quux00/PlusCal-Examples)
-[muratdem/PlusCal-examples: Pluscal/TLA+ modeling of distributed systems/protocols](https://github.com/muratdem/PlusCal-examples)
-
-[How Amazon Web Services Uses Formal Methods | April 2015 | Communications of the ACM](https://cacm.acm.org/magazines/2015/4/184701-how-amazon-web-services-uses-formal-methods/fulltext)
-[TLA+ with Leslie Lamport - Software Engineering Daily](https://softwareengineeringdaily.com/2018/11/09/tla-with-leslie-lamport/)
-
 ## Binary Analysis/Malware Analysis/Reverse Engineering
 
 [[reverse-engineering]]
+
+## Prover
+
+[[math#Prover]]

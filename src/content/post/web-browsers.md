@@ -71,7 +71,6 @@ tags:
 [Servo (layout engine) - Wikiwand](https://www.wikiwand.com/en/Servo_(layout_engine%29)
 
 [How to Backup and Restore Firefox Profile On Linux](https://www.fossmint.com/backup-and-restore-a-firefox-profile-on-linux/)
-
 Profile Manager: `firefox -p`
 
 ### Extension
@@ -96,7 +95,7 @@ Profile Manager: `firefox -p`
 
 ## How it works
 
-> see `css-notes#css-houdini`
+[[css-notes#CSS Houdini]]
 
 [Quantum – Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/category/quantum/)
 [Entering the Quantum Era—How Firefox got fast again and where it’s going to get faster – Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2017/11/entering-the-quantum-era-how-firefox-got-fast-again-and-where-its-going-to-get-faster/)
@@ -117,7 +116,7 @@ Profile Manager: `firefox -p`
 Sparkplug is positioned as a "super-fast" non-optimizing compiler. Sparkplug is part of a compiler pipeline, nestled between the Ignition interpreter and the TurboFan optimizing compiler.
 
 [Journey of a web page 🛣️ - How browsers work - DEV Community](https://dev.to/gitpaulo/journey-of-a-web-page-how-browsers-work-10co)
-[How do browsers really work? These 5 videos will show you their inner workings](https://medium.freecodecamp.org/the-inner-workings-of-the-browser-for-javascript-web-developers-course-d26f11270f41)
+[How do browsers really work? These 5 videos will show you their inner workings](https://www.freecodecamp.org/news/the-inner-workings-of-the-browser-for-javascript-web-developers-course-d26f11270f41)
 [How browser rendering works — behind the scenes – LogRocket](https://blog.logrocket.com/how-browser-rendering-works-behind-the-scenes-6782b0e8fb10)
 [WebKit for Developers - Paul Irish](http://www.paulirish.com/2013/webkit-for-developers/) 2013
 [How browsers work internally - Tali Garsiel - Front-Trends 2012 on Vimeo](https://vimeo.com/44182484)
@@ -142,11 +141,12 @@ Sparkplug is positioned as a "super-fast" non-optimizing compiler. Sparkplug is 
 [WebCore Rendering V – Floats | WebKit](https://webkit.org/blog/118/webcore-rendering-v-floats/)
 
 [WebAssembly and Back Again: Fine-Grained Sandboxing in Firefox 95 - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2021/12/webassembly-and-back-again-fine-grained-sandboxing-in-firefox-95/)
+[::bholley - Boiling the Ocean, Incrementally - How Stylo Brought Rust and Servo to Firefox](https://bholley.net/blog/2017/stylo.html)
 
 ## DevTools
 
 [DevTools in 2016: Accelerate your workflow - Google I/O 2016 - YouTube](https://www.youtube.com/watch?v=x8u0n4dT-WI)
-[Cool Chrome DevTools tips and tricks you wish you knew already](https://medium.freecodecamp.org/cool-chrome-devtools-tips-and-tricks-you-wish-you-knew-already-f54f65df88d2)
+[Cool Chrome DevTools tips and tricks you wish you knew already](https://www.freecodecamp.org/news/cool-chrome-devtools-tips-and-tricks-you-wish-you-knew-already-f54f65df88d2)
 [Introduction | Down and Dirty with Chrome Developer Tools](http://blittle.github.io/chrome-dev-tools/)
 
 [Developer Edition Devtools Update: Now with Photon UI - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2017/09/developer-edition-devtools-update-now-with-photon-ui/)

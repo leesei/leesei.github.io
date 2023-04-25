@@ -3,8 +3,8 @@ title: Star Wars
 description: ""
 created: 2016-02-07
 tags:
-  - star-wars
   - movies
+  - star-wars
 ---
 
 [Star Wars - Wikiwand](http://www.wikiwand.com/en/Star_Wars)

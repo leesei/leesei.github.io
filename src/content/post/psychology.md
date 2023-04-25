@@ -32,16 +32,28 @@ B. F. Skinner
 「安全需要」（Safety）
 「生理需要」（Physiological）
 
-[「後物質主義」世代　追求比溫飽更高的價值　也需要金錢｜香港 01 ｜周報](https://www.hk01.com/%E5%91%A8%E5%A0%B1/360043/%E5%BE%8C%E7%89%A9%E8%B3%AA%E4%B8%BB%E7%BE%A9-%E4%B8%96%E4%BB%A3-%E8%BF%BD%E6%B1%82%E6%AF%94%E6%BA%AB%E9%A3%BD%E6%9B%B4%E9%AB%98%E7%9A%84%E5%83%B9%E5%80%BC-%E4%B9%9F%E9%9C%80%E8%A6%81%E9%87%91%E9%8C%A2)
+[「後物質主義」世代　追求比溫飽更高的價值　也需要金錢｜香港 01 ｜周報](https://www.hk01.com/%E5%91%A8%E5%A0%B1/360043/)
 
-## Justice
+## Freudian psychoanalysis
 
-[【偷定唔偷？】看看道德發展六階段 - 心理學 ‧ 家 Psychology x Family - Posts](https://www.facebook.com/psychologyxfamily/photos/a.2429275663777517/2486718518033231)
+[Freud's psychoanalytic theories - Wikiwand](https://www.wikiwand.com/en/Freud%27s_psychoanalytic_theories) cannot be falsifies
 
-[Course | ER22.1x | edX](https://courses.edx.org/courses/course-v1:HarvardX+ER22.1x+2T2019/course/)
-[Justice with Michael Sandel - YouTube](https://www.youtube.com/playlist?list=PL30C13C91CFFEFEA6)
+[一生必看的一次深度解夢|夢真的那麽簡單嗎？解惑困擾已久的【各種夢境】！ - YouTube](https://www.youtube.com/watch?v=QKYt6o4QoKI)
 
-[When is Torture Justified? | Lt. Col. Jon S. Jackson | TEDxMemphis - YouTube](https://www.youtube.com/watch?v=3548Ac9wGN8)
+Three minds:
+
+- Conscious 意識
+- Pre-conscious 前意識
+- Un-conscious 無意識
+
+Three identities:
+
+- Superego 超我
+  moral requirements
+- Ego 自我
+  Reconciliate between the two other "me", who don't have to confront with reality
+- Id 本我
+  natural requirements
 
 ## Cold Reading
 

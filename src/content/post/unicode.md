@@ -10,8 +10,8 @@ tags:
 [Unicode - Wikiwand](https://www.wikiwand.com/en/Unicode)
 [Universal Character Set characters - Wikiwand](http://www.wikiwand.com/en/Universal_Character_Set_characters)
 [Code point - Wikiwand](http://www.wikiwand.com/en/Code_point)
-[BMP](http://www.wikiwand.com/en/Plane_%28Unicode%29#/Basic_Multilingual_Plane)
-[SMP](http://www.wikiwand.com/en/Plane_%28Unicode%29#/Supplementary_Multilingual_Plane)
+[BMP](<http://www.wikiwand.com/en/Plane_(Unicode)#/Basic_Multilingual_Plane>)
+[SMP](<http://www.wikiwand.com/en/Plane_(Unicode)#/Supplementary_Multilingual_Plane>)
 [Astral Planes](http://www.opoudjis.net/unicode/unicode_astral.html)
 
 [𝚚𝚠𝚎𝚛𝚝𝚢.𝚍𝚎𝚟](https://qwerty.dev/)

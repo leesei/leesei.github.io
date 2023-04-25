@@ -111,7 +111,7 @@ Vue provides hooks for CSS/JavaScript animation
 ## Learn
 
 [The Vue Handbook](https://vuehandbook.com/)
-[The Vue Handbook: a thorough introduction to Vue.js](https://medium.freecodecamp.org/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446)
+[The Vue Handbook: a thorough introduction to Vue.js](https://www.freecodecamp.org/news/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446)
 [The Vue.js Handbook](https://flaviocopes.com/page/vue-handbook/)
 
 [Vue Mastery | The best way to learn Vue.js](https://www.vuemastery.com/)
@@ -163,7 +163,7 @@ Vue provides hooks for CSS/JavaScript animation
 [A Vue pattern for idiomatic, performant component registration you might not know about](https://itnext.io/vue-a-pattern-for-idiomatic-performant-component-registration-you-might-not-know-about-9f3c091846f5)
 [7 Secret Patterns Vue Consultants Don’t Want You to Know - YouTube](https://www.youtube.com/watch?v=7YZ5DwlLSt8)
 
-[Common mistakes to avoid while working with Vue.js – freeCodeCamp.org](https://medium.freecodecamp.org/common-mistakes-to-avoid-while-working-with-vue-js-10e0b130925b)
+[Common mistakes to avoid while working with Vue.js](https://www.freecodecamp.org/news/common-mistakes-to-avoid-while-working-with-vue-js-10e0b130925b)
 [Update Array and Object in Vuejs – Milad Meidanshahi – Medium](https://medium.com/@miladmeidanshahi/update-array-and-object-in-vuejs-a283983fe5ba)
 [Solving Common Vue Problems - Level Up Coding](https://levelup.gitconnected.com/solving-common-vue-problems-8018095804b9)
 

@@ -77,6 +77,7 @@ $2800@2023-02 (ex-GPU)
 - Intel Core i3-12100F 4C8T
 - Kingston Hyper-X Fury 2x8GB (KHX2400C15/8G) 2400MHz DDR4
 - ID Cooling IS-40X 4 heat pipe
+  - 12015 fan at CHA_FAN header
 - ASRock H610M-ITX/ac
 - AGI AI198 1TB (Intel 64L TLC 500TBW, SM2263XT, 1900R/1600W, HBM) $399@2022-11
 - Intel Wireless AC 9462 Wifi 5 433Mbps (onboard)
@@ -94,6 +95,11 @@ $2800@2023-02 (ex-GPU)
 - 閃鱗 S300 Case
   L=312 H=193 W=135 mm 8.1L
   PCI-E 3.0 extension
+- ID Cooling NO-12015-XT
+  - 12015 fan at CPU_FAN header
+
+[UserBenchmark: Intel Core i3-12100F vs i5-8259U](https://cpu.userbenchmark.com/Compare/Intel-Core-i5-8259U-vs-Intel-Core-i3-12100F/m543736vs4125)
+[Intel Core i3-12100F vs Intel Core i5-8259U Benchmark, comparison and differences](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i3_12100f-vs-intel_core_i5_8259u)
 
 These parts are replaced:
 
@@ -115,7 +121,7 @@ https://www.userbenchmark.com/UserRun/59459570 after RAM change
 [Intel Core i5-4590 vs. Intel Core i5-8259U - Benchmark, Test and Specs](https://www.cpu-monkey.com/en/compare_cpu-intel_core_i5_4590-357-vs-intel_core_i5_8259u-880)
 
 [Fix NUC8i7BEH overheating - iFixit Repair Guide](https://www.ifixit.com/Guide/Fix+NUC8i7BEH+overheating/131345)
-[4x4-NUC-Fan-Replacement [1](2145).pdf - Google Drive](https://drive.google.com/file/d/1otCSvWridLursFNo0IlwZxh-5tqDW262/view)
+[4x4-NUC-Fan-Replacement.pdf - Google Drive](https://drive.google.com/file/d/1otCSvWridLursFNo0IlwZxh-5tqDW262/view)
 
 ## Work Desktop
 
@@ -179,13 +185,13 @@ https://www.userbenchmark.com/UserRun/59459570 after RAM change
 - WD AV-GP WD20EURS 2TB $739@2013-06
 - Crucial MX300 1TB (TLC 360TBW, 1GB RAM) SATA $588@2022-06
 - Colorful 16G 3200MHz CD16G3200D4NZ22 CL22
-- Colorful CN600 512G (Intel TLC 160TBW, 1800R/1500W, HBM) lost?
+- Colorful CN600 512G (Intel TLC 160TBW, 1800R/1500W, HBM)
 
 - ADATA Premier Pro SP920SS 256GB $735@2015-07
   used as external flash
-- 2 M.2 NVMe/SATA to 16x PCI-e adapter ¥39@2022-12
 - Colorful? 1T M2 SSD ¥342@2022-12
   Lexar NVM-e to USB-C case
+- 2 M.2 NVMe/SATA to 16x PCI-e adapter ¥39@2022-12
 
 ---
 
@@ -200,12 +206,13 @@ Socket 7
 
 Athlon Thunderbird (2000) / Athlon XP (2001)
 Socket A
+GeForce4 MX 440 (2002)
 
 Athlon 64 (2003-2009)
 Socket 939
 nForce4
 GeForce 4 MX440 ~ (2005, AGP 4X)
-Sapphire Radeon 9550 ()
+Sapphire All-in-Wonder 9600 (2004)
 
 Athlon 64x2
 Socket AM3

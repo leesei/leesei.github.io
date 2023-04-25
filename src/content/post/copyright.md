@@ -153,7 +153,7 @@ It has been a trend to set up "foundations" to take up successful project from e
 
 [licensing - License that prevents SaaS hosting - Open Source Stack Exchange](https://opensource.stackexchange.com/questions/9116/license-that-prevents-saas-hosting)
 [The battle between real open source vs. faux open source heats up | ZDNet](https://www.zdnet.com/google-amp/article/the-battle-between-real-open-source-vs-faux-open-source-heats-up/)
-[In 2019, multiple open source companies changed course—is it the right move? – Ars Technica](https://arstechnica.com/information-technology/2019/10/is-the-software-world-taking-too-much-from-the-open-source-community/?amp=1)
+[In 2019, multiple open source companies changed course—is it the right move? – Ars Technica](https://arstechnica.com/information-technology/2019/10/is-the-software-world-taking-too-much-from-the-open-source-community/amp/)
 
 [Community perspectives on Elastic vs AWS (The Changelog #429) |> Changelog](https://changelog.com/podcast/429)
 
@@ -312,9 +312,9 @@ Like AGPL, but human friendly
 
 ## Oracle v Google
 
-[Oracle v. Google | Series | Ars Technica](https://arstechnica.com/series/series-oracle-v-google/?amp=1)
-[Oracle’s IP war against Google finally going to trial: What’s at stake – Ars Technica](https://arstechnica.com/tech-policy/2012/04/oracles-ip-war-against-google-finally-going-to-trial-whats-at-stake/?amp=1)
-[Google’s copyright win against Oracle is in danger on appeal – Ars Technica](https://arstechnica.com/tech-policy/2013/12/googles-copyright-win-against-oracle-is-in-danger-on-appeal/?amp=1)
+[Oracle v. Google | Series | Ars Technica](https://arstechnica.com/series/series-oracle-v-google/amp/)
+[Oracle’s IP war against Google finally going to trial: What’s at stake – Ars Technica](https://arstechnica.com/tech-policy/2012/04/oracles-ip-war-against-google-finally-going-to-trial-whats-at-stake/amp/)
+[Google’s copyright win against Oracle is in danger on appeal – Ars Technica](https://arstechnica.com/tech-policy/2013/12/googles-copyright-win-against-oracle-is-in-danger-on-appeal/amp/)
 
 [Google and Oracle’s \$9 Billion ‘Copyright Case of the Decade’ Could be Headed for the Supreme Court](https://www.newsweek.com/2019/06/07/google-oracle-copyright-case-supreme-court-1433037.html)
 
@@ -394,7 +394,7 @@ Using generic computers to automate established human tasks cannot qualify as an
 [What is non-practicing entity (NPE)? - Definition from WhatIs.com](https://whatis.techtarget.com/definition/non-practicing-entity-NPE)
 
 [Non practicing entities (NPEs) and their impacts - Lexology](https://www.lexology.com/library/detail.aspx?g=2bc351e0-c393-4637-9c38-306ff7713557)
-[Finally, a bill to end patent trolling – Ars Technica](https://arstechnica.com/tech-policy/2013/10/its-finally-here-a-bill-to-end-patent-trolling/?amp=1)
+[Finally, a bill to end patent trolling – Ars Technica](https://arstechnica.com/tech-policy/2013/10/its-finally-here-a-bill-to-end-patent-trolling/amp/)
 
 ## Books
 

@@ -24,6 +24,8 @@ Industrial revolutions, four of them:
 - 2000s
   artificial intelligence, big data, deep learning, block chain (software technologies)
 
+If I had asked people what they wanted, they would have said faster horses. — Henry Ford
+
 [(PDF) The recognition of resource use through industrial development from a social perspective](https://www.researchgate.net/publication/323946321_The_recognition_of_resource_use_through_industrial_development_from_a_social_perspective)
 [機器人會搶走我的工作嗎？物理學家霍金點出「另一個問題，你才該害怕」](https://tw.news.yahoo.com/%E6%A9%9F%E5%99%A8%E4%BA%BA%E6%9C%83%E6%90%B6%E8%B5%B0%E6%88%91%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%97%8E%EF%BC%9F%E7%89%A9%E7%90%86%E5%AD%B8%E5%AE%B6%E9%9C%8D%E9%87%91%E9%BB%9E%E5%87%BA%E3%80%8C%E5%8F%A6%E4%B8%80%E5%80%8B%E5%95%8F%E9%A1%8C%EF%BC%8C%E4%BD%A0%E6%89%8D%E8%A9%B2%E5%AE%B3%E6%80%95%E3%80%8D-230007826.html)
 

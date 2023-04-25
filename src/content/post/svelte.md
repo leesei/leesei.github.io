@@ -1,7 +1,8 @@
 ---
 title: Svelte
-description: ""
+description: Svelte is a _compiler_ for frontend applications
 created: 2019-12-16
+updated: 2023-04-16
 tags:
   - frontend
   - javascript
@@ -10,22 +11,11 @@ tags:
   - web-dev
 ---
 
-> Svelte is a _compiler_ for frontend applications.
+> TODO: remove Svelte 2 articles prior to 2019-04
 
 [Svelte • Cybernetically enhanced web apps](https://svelte.dev/)
 [Introduction / Basics • Svelte Tutorial](https://svelte.dev/tutorial/basics)
 [sveltejs/svelte: Cybernetically enhanced web apps](https://github.com/sveltejs/svelte)
-
-[Svelte 3: Rethinking reactivity](https://svelte.dev/blog/svelte-3-rethinking-reactivity) 2019-04, Svelte 3 announcement
-[Svelte Origins: A JavaScript Documentary - YouTube](https://www.youtube.com/watch?v=kMlkCYL9qo0)
-[Rich Harris - Rethinking reactivity - YouTube](https://www.youtube.com/watch?v=AdNJ3fydeao)
-Svelte 3 uses JavaScript label (`$:`) to declare computed (reactive) variables which makes the code very intuitive and spreadsheet-like. It also resembles React more.
-[Svelte 3 Reaction & QuickStart Tutorial - YouTube](https://www.youtube.com/watch?v=043h4ugAj4c)
-[Getting Started w/ Svelte 3 - YouTube](https://www.youtube.com/playlist?list=PL_2VhOvlMk4V4_52tpCnLhEEvRXfeFux6) 2021-11
-
-[Frameworks without the framework: why didn't we think of this sooner?](https://svelte.dev/blog/frameworks-without-the-framework)
-[A Guide to the Svelte Framework | Toptal](https://www.toptal.com/front-end/svelte-framework-guide)
-[The Philosophy of Svelte](https://blog.scottlogic.com/2021/01/18/philosophy-of-svelte.html)
 
 It does not use virtual-DOM diffing. The generated code requires a thin run-time (think jQuery).
 Svelte invalidates variables at build time to trigger a re-render. Have built-in:
@@ -35,24 +25,37 @@ Svelte invalidates variables at build time to trigger a re-render. Have built-in
 - unused CSS removal
 - directives (transitions, binding and more)
 
+Svelte 2 has better DX than React Hook
+Svelte 3 adopted idea similar to React Hook
+
+[Frameworks without the framework: why didn't we think of this sooner?](https://svelte.dev/blog/frameworks-without-the-framework)
+[The Philosophy of Svelte](https://blog.scottlogic.com/2021/01/18/philosophy-of-svelte.html)
+
 [Introduction / Basics • Svelte Tutorial](https://svelte.dev/tutorial/basics)
 [The Svelte Handbook](https://flaviocopes.com/page/svelte-handbook/)
 [Hello world • REPL • Svelte](https://svelte.dev/repl/hello-world?version=3)
-[Frameworks without the framework: why didn't we think of this sooner?](https://svelte.dev/blog/frameworks-without-the-framework)
-[Why Typescript and Svelte are a match made in heaven](https://www.sanity.io/guides/using-typescript-with-svelte)
 
-[Truly reactive programming with Svelte 3.0 - LogRocket Blog](https://blog.logrocket.com/truly-reactive-programming-with-svelte-3-0-321b49b75969/)
-[The Philosophy of Svelte](https://blog.scottlogic.com/2021/01/18/philosophy-of-svelte.html)
-[Why I Moved From React to Svelte and Why Others Will Follow - DZone Web Dev](https://dzone.com/articles/why-i-moved-from-react-to-svelte-and-others-will-f)
-[Svelte vs React: Ending the Debate](https://massivepixel.io/blog/svelte-vs-react/)
-[I created the exact same app in Vue and Svelte. Here are the differences.](https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-vue-and-svelte-here-are-the-differences-c649f8d4ce0a)
-[Svelte is the most beautiful web framework I've ever seen - DEV Community 👩‍💻👨‍💻](https://dev.to/jesseskinner/svelte-is-the-most-beautiful-web-framework-i-ve-ever-seen-325f)
-[Why Svelte won’t kill React. Is status quo to blame for that? Or is… | by Kit Isaev | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/why-svelte-wont-kill-react-3cfdd940586a)
-[Should you use Svelte in production? - LogRocket Blog](https://blog.logrocket.com/should-you-use-svelte-in-production/)
+[Rich Harris Teaches ThePrimeagen SvelteKit - YouTube](https://www.youtube.com/watch?v=RJTepwXirk8) 2023-02
 
 [First time using Svelte, let's play Tic Tac Toe! - YouTube](https://www.youtube.com/watch?v=S_6ApOagzzM)
 
+[A Guide to the Svelte Framework | Toptal](https://www.toptal.com/front-end/svelte-framework-guide)
+[teimurjan/svelte-login-form](https://github.com/teimurjan/svelte-login-form)
+
+## Commentary
+
 [Vercel and Svelte: A Perfect Match for Web Developers – The New Stack](https://thenewstack.io/vercel-and-svelte-a-perfect-match-for-web-developers/) Svelte creator hired by Vercel @2021-12
+[Why Typescript and Svelte are a match made in heaven](https://www.sanity.io/guides/using-typescript-with-svelte)
+
+[Svelte is the most beautiful web framework I've ever seen - DEV Community 👩‍💻👨‍💻](https://dev.to/jesseskinner/svelte-is-the-most-beautiful-web-framework-i-ve-ever-seen-325f)
+[Why Svelte won’t kill React. Is status quo to blame for that? Or is… | by Kit Isaev | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/why-svelte-wont-kill-react-3cfdd940586a)
+[Should you use Svelte in production? - LogRocket Blog](https://blog.logrocket.com/should-you-use-svelte-in-production/) 2022-10
+
+## Comparison
+
+[Why I Moved From React to Svelte and Why Others Will Follow - DZone Web Dev](https://dzone.com/articles/why-i-moved-from-react-to-svelte-and-others-will-f)
+[Svelte vs React: Ending the Debate](https://massivepixel.io/blog/svelte-vs-react/)
+[I created the exact same app in Vue and Svelte. Here are the differences.](https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-vue-and-svelte-here-are-the-differences-c649f8d4ce0a)
 
 ## Conference
 
@@ -62,7 +65,15 @@ Svelte invalidates variables at build time to trigger a re-render. Have built-in
 
 ## Actions/Interactivity
 
-[Introduction to Svelte Actions - LogRocket Blog](https://blog.logrocket.com/svelte-actions-introduction/)
+[Svelte 3: Rethinking reactivity](https://svelte.dev/blog/svelte-3-rethinking-reactivity) 2019-04, Svelte 3 announcement
+[Svelte Origins: A JavaScript Documentary - YouTube](https://www.youtube.com/watch?v=kMlkCYL9qo0)
+[Rich Harris - Rethinking reactivity - YouTube](https://www.youtube.com/watch?v=AdNJ3fydeao)
+Svelte 3 uses JavaScript label (`$:`) to declare computed (reactive) variables which makes the code very intuitive and spreadsheet-like. It also resembles React more.
+[Svelte 3 Reaction & QuickStart Tutorial - YouTube](https://www.youtube.com/watch?v=043h4ugAj4c)
+[Getting Started w/ Svelte 3 - YouTube](https://www.youtube.com/playlist?list=PL_2VhOvlMk4V4_52tpCnLhEEvRXfeFux6) 2021-11
+[Truly reactive programming with Svelte 3.0 - LogRocket Blog](https://blog.logrocket.com/truly-reactive-programming-with-svelte-3-0-321b49b75969/)
+
+[Introduction to Svelte Actions - LogRocket Blog](https://blog.logrocket.com/svelte-actions-introduction/) 2021-11
 
 ## Store
 
@@ -100,3 +111,5 @@ App framework for Svelte, with routing, SSR, code-splitting
 [Svelte Showcase - Made with Svelte](https://madewithsvelte.com/)
 
 [tanepiper/svelte-formula: Zero-Configuration Reactive forms for Svelte](https://github.com/tanepiper/svelte-formula)
+
+[Packaging • Docs • SvelteKit](https://kit.svelte.dev/docs/packaging)

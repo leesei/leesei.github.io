@@ -312,7 +312,7 @@ duration of crotchet (quarter note), in M.M. (Maclzel's Metronome)
 
 [Scientific pitch notation - Wikiwand](https://www.wikiwand.com/en/Scientific_pitch_notation)
 
-[Intonation (music) - Wikiwand](https://www.wikiwand.com/en/Intonation_%28music%29)
+[Intonation (music) - Wikiwand](<https://www.wikiwand.com/en/Intonation_(music)>)
 
 [music21: a Toolkit for Computer-Aided Musicology](https://web.mit.edu/music21/)
 
@@ -437,6 +437,8 @@ timidity file.mid -Ow -o - | lame - file.ogg
 [91 譜 - 即時轉調的吉他譜](https://www.91pu.com.tw/)
 [IMSLP: Free Sheet Music PDF Download](https://imslp.org/wiki/Main_Page)
 
+[Easy Music](https://easymusic.altervista.org/)
+
 [Dolmetsch Online - Manuscript/Staff/Music paper/Papier à musique](http://www.dolmetsch.com/manuscriptpaper.htm)
 [Digimon - Butter-Fly (Piano Cover) [SHEET MUSIC] - YouTube](https://www.youtube.com/watch?v=CCG2jnOqaQ4)
 [Frozen - Let It Go (Piano Cover) [SHEET MUSIC] - YouTube](https://www.youtube.com/watch?v=jjoR4Obv7NA)
@@ -505,7 +507,18 @@ black notes on piano
 [Juju ukulele beginner tablatures](http://tabs.revolunet.com/)
 [revolunet/opentablatures: some tablatures for ukulele beginner](https://github.com/revolunet/opentablatures)
 
-## Motor speaker
+### Drum Kit
+
+[打鼓比你想的複雜！專業鼓手示範 13 個難度級別的鼓技｜科普長知識｜ GQ Taiwan - YouTube](https://www.youtube.com/watch?v=aKHgDLm2f0o)
+
+### Acapella
+
+[MayTree - YouTube](https://www.youtube.com/channel/UC3mY2SKYhPjqImtBBXsR6_Q)
+[Game & Effect - YouTube](https://www.youtube.com/playlist?list%3DPLbBB3PoKeXGTVgHKlEsktiQFq5bwPYOHc)
+
+[SenzaACappella - YouTube](https://www.youtube.com/%40SenzaACappella)
+
+### Motor speaker
 
 [Legend of Zelda theme on hard drive speaker - YouTube](https://www.youtube.com/watch?v=QwZ4ZsDj_S4)
 [Twist 'Em Out on hard drive speaker - YouTube](https://www.youtube.com/watch?v=keL-5T1BSCU)

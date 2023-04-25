@@ -12,6 +12,9 @@ tags:
 [[learning#Google Search]]
 [[learn-to-code-kids]]
 
+[[computer-fundamentals]]
+[[compiler]]
+
 > split `c-lang`, `nim`, `swift`, `v-lang`, `computing-fundamentals`
 
 Learn how to code
@@ -90,6 +93,8 @@ Coding vs Programming is like typing vs writing.
 
 [Wearable Computers - YouTube](https://www.youtube.com/watch?v=pz2vdx_-ft8) I'm quite touched by Tara being able to hear again
 
+[Andy Sterkowitz - YouTube](https://www.youtube.com/@AndySterkowitz) on self-taught programmers
+
 ### On Developers
 
 [1000+ Free Developer Certifications](https://www.freecodecamp.org/news/free-certificates/)
@@ -104,13 +109,16 @@ Coding vs Programming is like typing vs writing.
 [Why developers like to code at night | Opensource.com](https://opensource.com/article/20/2/why-developers-code-night)
 [Coding vs Programming 軟體工程師在 編碼 or 編程? | 5 Differences between Coding and Programming【電腦說人話】 - YouTube](https://www.youtube.com/watch?v=ItWknQTTEx4)
 
+[Why New Software Engineers Have it Hard - YouTube](https://www.youtube.com/watch?v=J0p2Psy7NfA)
+[A Jr Dev For Life?? | Prime Reacts - YouTube](https://www.youtube.com/watch?v=61lVNkvk9AU)
+
+Don't learn one framework, instead learn the concepts and patterns behind all of them – and the differences that can help you choose the right tool for the job.
+
+No framework or library is a silver bullet. But the right choice can save you a lot of hassle.
+
 ### Naming Things
 
-[[project-name]]
-
-[How To Create Meaningful Names In Code - Better Programming - Medium](https://medium.com/better-programming/how-to-create-meaningful-names-in-code-20d7476537d4)
-[WASM Components: The Interchangeable Parts of Software - YouTube](https://www.youtube.com/watch?v=ZxEqvtGUGLY)
-[React PropType Best Practices - David Wells](https://davidwells.io/blog/react-prop-type-best-practices)
+[[naming-things]]
 
 ### Problem sets
 
@@ -127,7 +135,7 @@ Coding vs Programming is like typing vs writing.
 
 [Codeforces](https://codeforces.com/)
 
-[#100DaysOfCode Official Website | #100DaysOfCode](https://www.100daysofcode.com/)
+[100DaysOfCode Official Website | 100DaysOfCode](https://www.100daysofcode.com/)
 
 ### Literate Programming
 
@@ -139,6 +147,10 @@ Coding vs Programming is like typing vs writing.
 [Literate Programming and Eve](http://witheve.com/deepdives/literate.html)
 
 ### Concurrency and Parallelism
+
+[[go-lang#Concurrency]]
+[[python-notes#Concurrency]]
+[[rust#Async/Future]]
 
 Concurrency:
 
@@ -159,6 +171,7 @@ Parallelism:
 [The Way of the Gopher. Making the Switch from Node.js to… | by Alexandra Bueno | Digg Data | Medium](https://medium.com/digg-data/the-way-of-the-gopher-6693db15ae1f#.h4j5b62nh)
 
 [Asynchronous vs Multithreading and Multiprocessing Programming (The Main Difference) - YouTube](https://www.youtube.com/watch?v=0vFgKr5bjWI)
+[What Color is Your Function? – journal.stuffwithstuff.com](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/) the chasm between sync and async code
 
 [Zig's I/O and Concurrency Story - King Protty - Software You Can Love 2022 - YouTube](https://www.youtube.com/watch?v=Ul8OO4vQMTw)
 Linux's epoll, BSD's kqueue, none of them worked for file IO
@@ -175,8 +188,6 @@ per thread ring buffer use by many
 [Thinking Concurrently: How Modern Network Applications Handle Multiple Connections | Linux Journal](https://www.linuxjournal.com/content/thinking-concurrently)
 [还在疑惑并发和并行？ - laike9m's blog](https://laike9m.com/blog/huan-zai-yi-huo-bing-fa-he-bing-xing,61/)
 [async-await: Cooperative vs Preemptive scheduling](https://kerkour.com/cooperative-vs-preemptive-scheduling/)
-
-[What Color is Your Function? – journal.stuffwithstuff.com](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/) the chasm between sync and async code
 
 [Parallel vs Concurrent in Node.js](http://bytearcher.com/articles/parallel-vs-concurrent/)
 [Concurrent JavaScript: It can work! | WebKit](https://webkit.org/blog/7846/concurrent-javascript-it-can-work/)
@@ -225,6 +236,10 @@ You have to know (much) more than the code you're writing:
 [AlDanial/cloc: cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.](https://github.com/AlDanial/cloc)
 
 [How to Analyze Code for Vulnerabilities - YouTube](https://www.youtube.com/watch?v=A8CNysN-lOM)
+[Is this okay!? How to review code for security issues - Rouan Wilsenach - NDC Security 2023 - YouTube](https://www.youtube.com/watch?v=_zERV-BIV9Q)
+
+[Snyk Open Source Advisor | Snyk](https://snyk.io/advisor/)
+
 [ShiftLeft Inc.](https://github.com/orgs/ShiftLeftSecurity/repositories?type=source) webgoat and tarpit
 [ShiftLeftSecurity/tarpit-java](https://github.com/ShiftLeftSecurity/tarpit-java)
 [ShiftLeftSecurity/tarpit-nodejs](https://github.com/ShiftLeftSecurity/tarpit-nodejs)
@@ -262,8 +277,11 @@ Causal Profiler (`coz`)
 ## ABI
 
 [Binary-code compatibility - Wikiwand](https://www.wikiwand.com/en/Binary-code_compatibility)
+Calling convension, what register of the CPU are used
 
 [Idiot's Guide to ABI Versioning - 250bpm](http://250bpm.com/blog:41)
+
+[20 ABI (Application Binary Interface) breaking changes every C++ developer should know](https://www.acodersjourney.com/20-abi-breaking-changes/)
 
 ### Pointer to implementation
 
@@ -315,11 +333,19 @@ Causal Profiler (`coz`)
 [edureka! - YouTube](https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ)
 [InfoQ - YouTube](https://www.youtube.com/channel/UCkQX1tChV7Z7l1LFF4L9j_g) MarakanaTechTV/NewCircle now part of InfoQ
 [in28minutes - YouTube](https://www.youtube.com/rithustutorials)
+[Skills Matter - YouTube](https://www.youtube.com/@skills_matter)
 [Derek Banas - YouTube](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
 [ArjanCodes - YouTube](https://www.youtube.com/channel/UCVhQ2NnY5Rskt6UjCUkJ_DA) mostly Python
 
 [Hussein Nasser - YouTube](https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg) backend technologies, many on databases
 [The Backend Engineering Show - YouTube](https://www.youtube.com/playlist?list=PLQnljOFTspQU0ICDe-cL1EwXC4GDSayKY)
+
+[Code to the Moon - YouTube](https://www.youtube.com/@codetothemoon) mostly Rust
+[Low Level Learning - YouTube](https://www.youtube.com/@LowLevelLearning)
+[fasterthanlime - YouTube](https://www.youtube.com/@fasterthanlime)
+[ThePrimeagen - YouTube](https://www.youtube.com/ThePrimeagen)
+[ThePrimeTime - YouTube](https://www.youtube.com/@ThePrimeTimeagen)
+[TechWorld with Nana - YouTube](https://www.youtube.com/@TechWorldwithNana)
 
 [Topic:Computer programming - Wikiversity](https://en.wikiversity.org/wiki/Topic:Computer_programming)
 [10 Useful Sites for Learning How to Code](http://www.onextrapixel.com/2013/11/14/10-useful-sites-for-learning-how-to-code/)
@@ -350,7 +376,6 @@ Mostly paid contents:
 ### Kata
 
 [CodeKata](http://codekata.com/)
-[Katacoda - Interactive Learning Platform for Software Engineers](https://katacoda.com/)
 
 [Learn JavaScript by doing it](https://jskatas.org/)
 
@@ -465,15 +490,10 @@ Pragmatic Programmer
 [Where do you stand on "magic" within languages and frameworks? - DEV Community](https://dev.to/ben/where-do-you-stand-on-magic-within-languages-and-frameworks-1071)
 [Node.js is a Salad Bar — Medium](https://medium.com/@modernserf/node-js-is-a-salad-bar-74ec01bd4390#.6gi4zr9a4)
 
-```
-Magic is good when it's documented and you're given the ability to inspect the magical bits to find the science behind them.
-
-Magic is bad when there are many layers of indirection/metaprogramming, nothing about how it works is documented, and there's no obvious way of overriding their magic with your own magic.
-```
-
-```
-The way I use the term "magic" is whenever there's implicit behavior (generally based on naming rules, but sometimes on introspection/reflection, scanning, etc.) that generally cause "action at a distance"; it can probably be generalized as "too much abstractions, more than you can comprehend".
-```
+> Magic is good when it's documented and you're given the ability to inspect the magical bits to find the science behind them.
+> Magic is bad when there are many layers of indirection/metaprogramming, nothing about how it works is documented, and there's no obvious way of overriding their magic with your own magic.
+>
+> The way I use the term "magic" is whenever there's implicit behavior (generally based on naming rules, but sometimes on introspection/reflection, scanning, etc.) that generally cause "action at a distance"; it can probably be generalized as "too much abstractions, more than you can comprehend".
 
 ## Software Development Process
 
@@ -531,10 +551,15 @@ While `libphonenumber` has a JS port (generated by Closure), this library is sma
 Smaller still, look up the ISO 3166-1 alpha-2 country code and use the length/regex directly from
 <https://gitlab.com/catamphetamine/libphonenumber-js/-/blob/master/PhoneNumberMetadata.xml>
 
-[ISO 3166-1 alpha-2 - Wikiwand](https://www.wikiwand.com/en/ISO_3166-1_alpha-2)
-[wooorm/iso-3166: ISO 3166 (standard for country codes and codes for their subdivisions)](https://github.com/wooorm/iso-3166)
-
 [React Phone Number Input](https://catamphetamine.gitlab.io/react-phone-number-input/#with-country-select)
+
+## Country Code
+
+[ISO 3166-1 - Wikiwand](https://www.wikiwand.com/en/ISO_3166-1)
+[ISO 3166-1 alpha-2 - Wikiwand](https://www.wikiwand.com/en/ISO_3166-1_alpha-2)
+[ISO 3166-1 alpha-3 - Wikiwand](https://www.wikiwand.com/en/ISO_3166-1_alpha-3)
+
+[wooorm/iso-3166: ISO 3166 (standard for country codes and codes for their subdivisions)](https://github.com/wooorm/iso-3166)
 
 ## File Template/Code Generation
 
@@ -570,82 +595,12 @@ Used in many Go application for formatting output, e.g. `docker`, `kubectl`
 [google/jsonnet: Jsonnet - The data templating language](https://github.com/google/jsonnet)
 [heptio/vscode-jsonnet: (Archived) Jsonnet support for Visual Studio Code](https://github.com/heptio/vscode-jsonnet)
 
-## LLVM
-
-[The LLVM Compiler Infrastructure Project](http://llvm.org/)
-
-[A Brief Introduction to LLVM - YouTube](https://www.youtube.com/watch?v=a5-WaD8VV38)
-[SE-Radio Episode 291: Morgan Wilde on LLVM : Software Engineering Radio](http://www.se-radio.net/2017/05/se-radio-episode-291-morgan-wilde-on-llvm/)
-
-## How program runs
-
-[Executable and Linkable Format - Wikiwand](https://www.wikiwand.com/en/Executable_and_Linkable_Format)
-[In-depth: ELF - The Extensible & Linkable Format - YouTube](https://www.youtube.com/watch?v=nC1U1LJQL8o)
-[CppCon 2018: Matt Godbolt “The Bits Between the Bits: How We Get to main()” - YouTube](https://www.youtube.com/watch?v=dOfucXtyEsU)
-
-## Computing Fundamentals
-
-[Programming Languages - YouTube](https://www.youtube.com/playlist?list=PL7141DE955793D3F0)
-[Hardware Basics - YouTube](https://www.youtube.com/watch?v=9-KUm9YpPm0)
-[Operating System Basics - YouTube](https://www.youtube.com/watch?v=9GDX-IyZ_C8)
-[Basics of OS | Chapter-1 | Operating System - YouTube](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhDsKg2oXhVuN5z_1ysjJyg)
-
-[[floating-point-number]]
-
-[Imperative vs Declarative Scenarios in User Stories • Ben Mabey](http://benmabey.com/2008/05/19/imperative-vs-declarative-scenarios-in-user-stories.html)
-[Threads vs. Processes: A Look At How They Work Within Your Program](https://www.backblaze.com/blog/whats-the-diff-programs-processes-and-threads/)
-
-Computerphile
-[Multi Programming - Computerphile - YouTube](https://www.youtube.com/watch?v=MB0yDMQj1lU)
-[OS Context Switching - Computerphile - YouTube](https://www.youtube.com/watch?v=DKmBRl8j3Ak)
-[Multithreading Code - Computerphile - YouTube](https://www.youtube.com/watch?v=7ENFeb-J75k)
-[Multiple Processor Systems - Computerphile - YouTube](https://www.youtube.com/watch?v=3RvkfuXUv1c)
-[GUI Programming Introduction - Computerphile - YouTube](https://www.youtube.com/watch?v=odjdWym0t4I)
-[GUI: Under the Hood - Computerphile - YouTube](https://www.youtube.com/watch?v=ptcHHXp1PEU)
-
-[An Analysis of Hash Map Implementations in Popular Languages](https://rcoh.me/posts/hash-map-analysis/)
-[Why Linked Lists vs Arrays isn’t a real choice - YouTube](https://www.youtube.com/watch?v=34ky600VTN0)
-[Hash Tables, Associative Arrays, and Dictionaries (Data Structures and Optimization) - YouTube](https://www.youtube.com/watch?v=S5NY1fqisSY)
-
-### Memory Heirachy/Memory Management
-
-[How Computer Memory Works - YouTube](https://www.youtube.com/playlist?list=PLzH6n4zXuckoxFPyhsMOYMGqyZOeN2SDJ)
-[What's Virtual Memory? - Computerphile - YouTube](https://www.youtube.com/watch?v=5lFnKYCZT5o)
-
-[How does Computer Memory Work? 💻🛠 - YouTube](https://www.youtube.com/watch?v=7J7X7aZvMXQ)
-[Building the Bits and Qubits - YouTube](https://www.youtube.com/watch?v=F8U1d2Hqark)
-
-[Memory, Cache Locality, and why Arrays are Fast (Data Structures and Optimization) - YouTube](https://www.youtube.com/watch?v=247cXLkYt2M)
-[The Origins of Process Memory | Exploring the Use of Various Memory Allocators in Linux C - YouTube](https://www.youtube.com/watch?v=c7xf5dvUb_Q)
-
-[What's a Memory Allocator Anyway? - Benjamin Feng - YouTube](https://www.youtube.com/watch?v=vHWiDx_l4V0)
-[Garbage Collection (Mark & Sweep) - Computerphile - YouTube](https://www.youtube.com/watch?v=c32zXYAK7CI)
-
-[🚀 Demystifying memory management in modern programming languages | Technorage](https://deepu.tech/memory-management-in-programming/)
-[🚀 Visualizing memory management in Golang | Technorage](https://deepu.tech/memory-management-in-golang/)
-[🚀 Visualizing memory management in V8 Engine (JavaScript, NodeJS, Deno, WebAssembly) | Technorage](https://deepu.tech/memory-management-in-v8/)
-
-### Endianess
-
-[Endianness - Wikiwand](https://www.wikiwand.com/en/Endianess)
-[Number format - Microsoft MakeCode](https://makecode.microbit.org/types/buffer/number-format)
-
-'0xA0 0xB0' in memory could be:  
-signed LE: -20320
-unsigned LE: 45216
-signed BE: -24400
-unsigned BE: 41136
-
-```python
-f =  open('test.bin','wb')
-f.write(b'\xA0\xB0')
-f.close()
-```
-
 ## Computer Science
 
 [Map of Computer Science - YouTube](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 [prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses)
+
+[CS 242: Programming Languages, Fall 2019](https://stanford-cs242.github.io/f19/) with Rust
 
 [Computer Mathematics, AI and Functional Programming](https://www.infoq.com/presentations/ai-ml-functional-programming/)
 
@@ -686,6 +641,7 @@ f.close()
 
 [P vs. NP and the Computational Complexity Zoo - YouTube](https://www.youtube.com/watch?v=YX40hbAHx3s)
 [Computer Scientists Prove Certain Problems Are Truly Hard | Quanta Magazine](https://www.quantamagazine.org/computer-scientists-prove-certain-problems-are-truly-hard-20220511/)
+[The Secret Link Between Thousands of Unsolved Math Problems - YouTube](https://www.youtube.com/watch?v=ctwX--JEzSA)
 
 [Halting problem - Wikiwand](https://www.wikiwand.com/en/Halting_problem)
 [Theory of computation | Halting Problem - GeeksforGeeks](https://www.geeksforgeeks.org/theory-of-computation-halting-problem/)
@@ -696,29 +652,13 @@ Cause a contradiction if self-referencing
 Cyclomatic Complexity
 Halstead Metrics -> Maintainability Index
 
-### Constraint programming
-
-[Constraint programming - Wikiwand](https://www.wikiwand.com/en/Constraint_programming)
-[Constraint satisfaction problem - Wikiwand](https://www.wikiwand.com/en/Constraint_satisfaction_problem)
-
-[Satisfiability modulo theories - Wikiwand](https://www.wikiwand.com/en/Satisfiability_modulo_theories)
-[Z3 Theorem Prover - Wikiwand](https://www.wikiwand.com/en/Z3_Theorem_Prover)
-[Z3Prover/z3: The Z3 Theorem Prover](https://github.com/Z3Prover/z3)
-[z3-solver · PyPI](https://pypi.org/project/z3-solver/)
-[Python: package z3](https://z3prover.github.io/api/html/z3.html)
-[Home · Z3Prover/z3 Wiki](https://github.com/Z3Prover/z3/wiki#background)
-[Programming Z3](https://theory.stanford.edu/~nikolaj/programmingz3.html)
-[Z3: An Efficient SMT Solver | SpringerLink](https://link.springer.com/chapter/10.1007/978-3-540-78800-3_24)
-[Programming Z3 - YouTube](https://www.youtube.com/watch?v=TgAVIqraCHo)
-[Analyzing Programs with Z3 - YouTube](https://www.youtube.com/watch?v=ruNFcH-KibY)
-
-["z3" is actual magic (intermediate) anthony explains #425 - YouTube](https://www.youtube.com/watch?v=C9eXcmWWEyA)
-[F2020 - Intro to Constraint Solving with z3 - YouTube](https://www.youtube.com/watch?v=0DJZ2Bt5eyE) Python 2 sample
-[Modeling functions with Z3 - YouTube](https://www.youtube.com/watch?v=iz4c5F3sjI8)
-
 ## Architecture Design
 
-> move to [[design-patterns]]
+> move to [[design-patterns]]?
+
+[[algorithm]]
+[[design-patterns]]
+[[microservice]]
 
 [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 [The Rule of Three](http://blog.codinghorror.com/rule-of-three/)
@@ -729,11 +669,17 @@ Halstead Metrics -> Maintainability Index
 [SREcon19 Europe/Middle East/Africa - Advanced Napkin Math: Estimating System... - YouTube](https://www.youtube.com/watch?v=IxkSlnrRFqc)
 [sirupsen/napkin-math: Techniques and numbers for estimating system's performance from first-principles](https://github.com/sirupsen/napkin-math)
 
+[Architecture: The Stuff That's Hard to Change - Dylan Beattie - YouTube](https://www.youtube.com/watch?v=3LtQWxhqjqI)
+
+1. determine user's needs
+2. meet those needs
+3. within economic and technologincal constraints
+
 [Beautiful Structure](http://www.infoq.com/presentations/structural-patterns-complexity)
 [Systems Engineering - YouTube](https://www.youtube.com/playlist?list=PLn8PRpmsu08owzDpgnQr7vo2O-FUQm_fL)
 [CodeOpinion - YouTube](https://www.youtube.com/@CodeOpinion)
 
-[System Design for Beginners Course - YouTube](https://www.youtube.com/watch?v=m8Icp_Cid5o)
+[System Design for Beginners Course - YouTube](https://www.youtube.com/watch?v=m8Icp_Cid5o) 1.5 hours
 
 [CppCon 2014: Mike Acton "Data-Oriented Design and C++" - YouTube](https://www.youtube.com/watch?v=rX0ItVEVjHc)
 [A Practical Guide to Applying Data-Oriented Design](https://media.handmade-seattle.com/practical-data-oriented-design/) Zig
@@ -754,9 +700,6 @@ Halstead Metrics -> Maintainability Index
 [BeckDesignRules](https://martinfowler.com/bliki/BeckDesignRules.html)
 
 [缓存更新的套路 | | 酷 壳 - CoolShell](https://coolshell.cn/articles/17416.html)
-
-[[microservice]]
-[[design-patterns]]
 
 ### C4 Model
 
@@ -784,239 +727,14 @@ Halstead Metrics -> Maintainability Index
 [arc42.org](http://arc42.org/)
 [arc42 - software architecture](https://github.com/arc42) GitHub org
 
-### Algorithm
+### Low Latency design
 
-[Top 20 String Coding Problems from Programming Job Interviews - DEV Community 👩‍💻👨‍💻](https://dev.to/javinpaul/top-20-string-coding-problems-from-programming-job-interviews-493m)
-[10 (Free) Data Structure and Algorithm Courses Junior Developers Should Explore](https://hackernoon.com/10-free-data-structure-and-algorithm-courses-junior-developers-should-explore-978b72871af5)
-[10 Data Structure and Algorithms Articles Beginners Should Read this Weekend - DEV Community 👩‍💻👨‍💻](https://dev.to/javinpaul/10-data-structure-and-algorithms-articles-beginners-should-read-this-weekend-4i91)
-[Learn Data Structures and Algorithms – Introduction and Learning Resources](https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/)
-[A Visual Introduction to Algorithms](https://www.educative.io/courses/visual-introduction-to-algorithms)
+Concord, sequencer in trading system
 
-[8 Key Data Structures That Power Modern Databases - YouTube](https://www.youtube.com/watch?v=W_v05d_2RTo)
-[The Secret Sauce Behind NoSQL: LSM Tree - YouTube](https://www.youtube.com/watch?v=I6jB0nM9SKU)
-[Data Structures That Power Your Database - YouTube](https://www.youtube.com/watch?v=czyUG2Tp-3s)
-[Data Structures of Databases - Functional Bits](https://functionalbits.io/2021/01/10/data-structures-of-databases/)
-
-[polylog - YouTube](https://www.youtube.com/@polylog7346)
-[Spanning Tree - YouTube](https://www.youtube.com/@SpanningTree)
-
-[The Algorithms](https://the-algorithms.com/)
-[Algorithms with Go](https://algorithmswithgo.com/)
-[Algorithms, Part I - Princeton University | Coursera](https://www.coursera.org/course/algs4partI)
-[Algorithms, Part II - Princeton University | Coursera](https://www.coursera.org/course/algs4partII)
-[Algorithms: Design and Analysis, Part 1 - Stanford University | Coursera](https://www.coursera.org/course/algo)
-[Algorithms: Design and Analysis, Part 2 - Stanford University | Coursera](https://www.coursera.org/course/algo2)
-[Data Science Tutorials – topcoder](https://www.topcoder.com/communitipty/data-science/data-science-tutorials/)
-[All pages - PEGWiki](http://wcipeg.com/wiki/Special:AllPages)
-[Geometry Algorithms TOC](http://geomalgorithms.com/algorithms.html)
-[Algorithms - GeeksforGeeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/)
-[Algorithms in JavaScript with visual examples. - DEV Community](https://dev.to/swastikyadav/algorithms-in-javascript-with-visual-examples-gh3)
-
-[Beyond3D](https://www.beyond3d.com/)
-[Raytracing](http://www.macwright.org/literate-raytracer/)
-
-[Welcome to TheAlgorithms](https://thealgorithms.github.io/#GitHub)
-[The Algorithms](https://github.com/TheAlgorithms/)
-[Algorithms-Explanation/en at master · TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation/tree/master/en)
-
-[0 FPS – Mostly geometry](https://0fps.net/)
-[Notes on algorithms - DEV Community 👩‍💻👨‍💻](https://dev.to/hexangel616/notes-on-algorithms-36pi)
-
-[Think Data Structures – Green Tea Press](http://greenteapress.com/wp/think-data-structures/)
-[Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures](http://www.openbookproject.net/books/pythonds/)
-
-[The Sliding Window Pattern](https://www.nan.fyi/sliding-window)
-
-[Is there an algorithm to win every (3x3) Tic-Tac-Toe game? - Quora](https://www.quora.com/Is-there-an-algorithm-to-win-every-3x3-Tic-Tac-Toe-game)
-[Tic Tac Toe: Understanding the Minimax Algorithm — Never Stop Building](https://www.neverstopbuilding.com/blog/2013/12/13/tic-tac-toe-understanding-the-minimax-algorithm13/)
-
-[Fast inverse square root - Wikiwand](http://www.wikiwand.com/en/Fast_inverse_square_root)
-[Beyond3D - Origin of Quake3's Fast InvSqrt()](https://www.beyond3d.com/content/articles/8/)
-[Fast Inverse Square Root — A Quake III Algorithm - YouTube](https://www.youtube.com/watch?v=p8u_k2LIZyo)
-
-[Fizz Buzz Test](http://wiki.c2.com/?FizzBuzzTest)
-
-[research!rsc: Lock-Free Bugs](https://research.swtch.com/lockfree)
-
-[c++ - Using Boost.Lockfree queue is slower than using mutexes - Stack Overflow](https://stackoverflow.com/questions/43540943/using-boost-lockfree-queue-is-slower-than-using-mutexes)
-[evpp/benchmark_lockfree_vs_mutex.md at master · Qihoo360/evpp](https://github.com/Qihoo360/evpp/blob/master/docs/benchmark_lockfree_vs_mutex.md#brief)
-[Improving Performance of a Trading System through Lock-Free Programming](https://pdfs.semanticscholar.org/dd98/177ba9d74c595169dc5500e4e3cd52cf3a78.pdf)
-
-[cameron314/concurrentqueue: A fast multi-producer, multi-consumer lock-free concurrent queue for C++11](https://github.com/cameron314/concurrentqueue)
-[Solving the ABA Problem for Lock-Free Free Lists](https://moodycamel.com/blog/2014/solving-the-aba-problem-for-lock-free-free-lists)
-[A Fast General Purpose Lock-Free Queue for C++](https://moodycamel.com/blog/2014/a-fast-general-purpose-lock-free-queue-for-c++)
-[Detailed Design of a Lock-Free Queue](https://moodycamel.com/blog/2014/detailed-design-of-a-lock-free-queue)
-[cameron314/readerwriterqueue: A fast single-producer, single-consumer lock-free queue for C++](https://github.com/cameron314/readerwriterqueue)
-
-#### Covariance and Contravariance
-
-[Covariance and contravariance (computer science) - Wikiwand](<https://www.wikiwand.com/en/Covariance_and_contravariance_(computer_science)>) C# uses `in`, `out` keywords to control variance
-[c# - Covariance and contravariance in programming languages - Stack Overflow](https://stackoverflow.com/questions/1163465/covariance-and-contravariance-in-programming-languages)
-[Covariance and Contravariance - withoutbugs.com](https://www.withoutbugs.com/2011/04/covariance-and-contravariance.html)
-[C# : Is Variance (Covariance / Contravariance) another word for Polymorphism? - Stack Overflow](https://stackoverflow.com/questions/1078423/c-sharp-is-variance-covariance-contravariance-another-word-for-polymorphis)
-
-#### State Machine
-
-[[reactive-programming#Xstate]]
-
-[Finite-state machine - Wikiwand](https://www.wikiwand.com/en/Finite-state_machine)
-[Deterministic finite automaton - Wikiwand](https://www.wikiwand.com/en/Deterministic_finite_automaton)
-[Finite State Machines](https://flaviocopes.com/finite-state-machines/)
-[Chomsky Language Levels - YouTube](https://www.youtube.com/playlist?list=PLzH6n4zXuckpkgSrHX87sDCmEZSumytL3)
-
-[Automata & Python - Computerphile - YouTube](https://www.youtube.com/watch?v=32bC33nJR3A)
-[Automata & Python (Long Version) - Computerphile - YouTube](https://www.youtube.com/watch?v=oHVHkkah3MY)
-
-[Ragel State Machine Compiler](http://www.colm.net/open-source/ragel/)
-[State Machines & Tools--Quantum Leaps](http://www.state-machine.com/)
-
-[SCXML - Wikiwand](https://www.wikiwand.com/en/SCXML)
-[State Chart XML (SCXML): State Machine Notation for Control Abstraction](https://www.w3.org/TR/scxml/)
-[SCXML - Commons SCXML](https://commons.apache.org/proper/commons-scxml/)
-
-[UML State Chart Autocoding for the Mars Science Laboratory (MSL) Mission, Eddie Benowitz, JPL - YouTube](https://www.youtube.com/watch?v=VvssxOP95s0)
-[JPLOpenSource/SCA: JPL Statechart Autocoder Rev. 2](https://github.com/JPLOpenSource/SCA)
-
-[Search results · PyPI](https://pypi.org/search/?q=finite+state+machine)
-[Automat: Self-service finite-state machines for the programmer on the go. — automat documentation](https://automat.readthedocs.io/en/latest/)
-[glyph/automat: Self-service finite-state machines for the programmer on the go.](https://github.com/glyph/automat)
-
-[Coding State Machines in C and C++ | Embedded Systems Experts](http://www.barrgroup.com/Embedded-Systems/How-To/Coding-State-Machines)
-[c - state machines tutorials - Stack Overflow](http://stackoverflow.com/questions/1371460/state-machines-tutorials)
-
-#### Greedy Algorithms
-
-[Greedy Algorithms Tutorial – Solve Coding Challenges - YouTube](https://www.youtube.com/watch?v=bC7o8P_Ste4)
-
-#### Shortest Distance/Pathfinding
-
-[A Comparison of Pathfinding Algorithms - YouTube](https://www.youtube.com/watch?v=GC-nBgi9r0U)
-
-[Dijkstra's Algorithm - Computerphile - YouTube](https://www.youtube.com/watch?v=GazC3A4OQTE)
-[Gamedev: In-depth Topics - YouTube](https://www.youtube.com/playlist?list=PLsk-HSGFjnaHYvbjMbTQG6kLhhZHLzdb3) Python
-[pygame_tutorials/examples/pathfinding at master · kidscancode/pygame_tutorials · GitHub](https://github.com/kidscancode/pygame_tutorials/tree/master/examples/pathfinding)
-[How Dijkstra's Algorithm Works - YouTube](https://www.youtube.com/watch?v=EFg3u_E6eHU)
-
-A\* Algorithm:
-
-- choose a clever heuristic
-- apply heuristic reweighting
-- run Dijkstra on the new graph
-
-[A\* (A Star) Search Algorithm - Computerphile - YouTube](https://www.youtube.com/watch?v=ySN5Wnu88nE)
-[A\* ALGORITHM BASICS FOR PATH FINDING & HEURISTICS METHODS : ARTIFICIAL INTELLIGENCE](https://robinrobotic.blogspot.com/2019/09/a-algorithm-basics-for-path-finding.html)
-[Introduction to the A\* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
-[The hidden beauty of the A\* algorithm - YouTube](https://www.youtube.com/watch?v=A60q6dcoCjw)
-[Pathfinding in Unity DOTS! (Insane Speed!!!) - YouTube](https://www.youtube.com/watch?v=1bO1FdEThnU)
-
-[Maze Solving - Computerphile - YouTube](https://www.youtube.com/watch?v=rop0W4QDOUI&t=45s)
-[mikepound/mazesolving: A variety of algorithms to solve mazes from an input image](https://github.com/mikepound/mazesolving) Python
-
-[Easy pathfinding in python [almost without math] - YouTube](https://www.youtube.com/watch?v=8SigT_jhz4I)
-
-[How Command & Conquer: Tiberian Sun Solved Pathfinding | War Stories | Ars Technica - YouTube](https://www.youtube.com/watch?v=S-VAL7Epn3o)
-
-#### Radix Sort
-
-[Why is Radix Sort so Fast? Part 1 Why are Comparison Sorts so Slow? - YouTube](https://www.youtube.com/watch?v=_KhZ7F-jOlI) Comparison sort: O(NlogN)
-[Why is Radix Sort so Fast? Part 2 Radix Sort - YouTube](https://www.youtube.com/watch?v=ujb2CIWE8zY) Counting sort: O(N)
-
-#### Natural sort
-
-[[python-snippets#Natural sort]]
-
-[Sorting for Humans : Natural Sort Order](https://blog.codinghorror.com/sorting-for-humans-natural-sort-order/)
-
-[DaveKoelle.com | The Alphanum Algorithm](http://www.davekoelle.com/alphanum.html)
-[c# - Use own IComparer<T> with Linq OrderBy - Stack Overflow](https://stackoverflow.com/questions/985657/use-own-icomparert-with-linq-orderby)
-
-#### Hash table
-
-[Hashtable Naïveté – CrashedTestDummy](http://www.crashedtestdummy.com/?p=54)
-[C++ STL 之哈希表 | unordered_map | 「浮生若梦」 - sczyh30's blog](https://www.sczyh30.com/posts/C-C/cpp-stl-hashmap/)
-[How does C++ STL unordered_map resolve collisions? - Stack Overflow](https://stackoverflow.com/questions/21518704/how-does-c-stl-unordered-map-resolve-collisions)
-[Class template unordered_map - boost](https://www.boost.org/doc/libs/release/doc/html/boost/unordered_map.html)
-
-#### Random Number Generator
-
-[Random number generation - Wikiwand](http://www.wikiwand.com/en/Random_number_generation)
-[Diehard tests - Wikiwand](http://www.wikiwand.com/en/Diehard_tests)
-[Empirical Testing of Random Number Generators](http://simul.iro.umontreal.ca/testu01/tu01.html)
-[Birthday problem - Wikiwand](http://www.wikiwand.com/en/Birthday_problem)
-
-[TIFU by using Math.random() — Medium](https://medium.com/@betable/tifu-by-using-math-random-f1c308c4fd9d#.sp9i13hux)
-[V8 JavaScript Engine: There's Math.random(), and then there's Math.random()](http://v8project.blogspot.de/2015/12/theres-mathrandom-and-then-theres.html)
-
-#### Perlin noise
-
-[Perlin noise - Wikiwand](https://www.wikiwand.com/en/Perlin_noise) a smoother gradient noise
-[The Theory of Noise: An Overview of Perlin Noise - YouTube](https://www.youtube.com/watch?v=H6FhG9VKhJg)
-[How to turn a few Numbers into Worlds (Perlin Noise) - YouTube](https://www.youtube.com/watch?v=ZsEnnB2wrbI)
-[Understanding Perlin Noise](https://adrianb.io/2014/08/09/perlinnoise.html)
-[Mathf.PerlinNoise | Smooth Random Values | Unity Quick Tutorial - YouTube](https://www.youtube.com/watch?v=gdSFs0PeBNQ)
-
-#### Visualization
-
-[SORTING](http://sorting.at/)
-[Sorting Algorithms Explained Visually - YouTube](https://www.youtube.com/watch?v=RfXt_qHDEPw)
-
-[VisuAlgo - visualising data structures and algorithms through animation](http://visualgo.net/)
-[Red Blob Games](http://www.redblobgames.com/)
-[SIGHT & LIGHT - How to create 2D visibility/shadow effects for your game](http://ncase.me/sight-and-light/)
-[Visualizing Algorithms](http://bost.ocks.org/mike/algorithms/)
-[Algorithm Visualizer](http://jasonpark.me/AlgorithmVisualizer) [source](https://github.com/parkjs814/AlgorithmVisualizer)
-
-#### Sketching
-
-Non-exact (rounded) results is good enough for many scenarios.
-[Sketching & Scaling Part 1. What the #@!\$ is Sketching?Official Kiip BlogOfficial Kiip Blog](http://blog.kiip.me/engineering/sketching-scaling-part-1-what-the-is-sketching/)
-[Sketching & Scaling: Bloom Filters](http://blog.kiip.me/engineering/sketching-scaling-bloom-filters/)
-[Sketching & Scaling: Everyday HyperLogLog](http://blog.kiip.me/engineering/sketching-scaling-everyday-hyperloglog/)
-[Sketching & Scaling: Firehose Analytics](http://blog.kiip.me/engineering/sketching-scaling-firehose-analytics/)
-
-#### Dynamic Programming
-
-> an optimization over plain recursion by memoizing results of **overlapping** sub-problems
-
-[Dynamic programming - Wikiwand](https://www.wikiwand.com/en/Dynamic_programming)
-[Dynamic Programming - GeeksforGeeks](https://www.geeksforgeeks.org/dynamic-programming/)
-[Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges - YouTube](https://www.youtube.com/watch?v=oBt53YbR9Kk) (memoized) recursion and tabulation
-[How to Count Dice Rolls - An Introduction to Dynamic Programming - YouTube](https://www.youtube.com/watch?v=oifN-YVlrq8)
-[Solving the subsets problem with dynamic programming - YouTube](https://www.youtube.com/watch?v=Kbsjju9PUuw)
-[What can “The Simpsons” teach us about Dynamic Programming? - YouTube](https://www.youtube.com/watch?v=6z4ePR7YYa8) several typical examples
-
-- Fibbonaci number
-- Coin change
-- [Knapsack problem](https://www.wikiwand.com/en/Knapsack_problem)
-- Staircase
-
-Decision Problem (Can)
-Combinatoric Problem (How)
-Optimization Problem (Best)
-
-#### Compression
-
-[Kolmogorov complexity - Wikiwand](https://www.wikiwand.com/en/Kolmogorov_complexity) complexity of data
-[Berry's Paradox - An Algorithm For Truth - YouTube](https://www.youtube.com/watch?v=FDXf1XxCXAk)
-
-[compression - How are zlib, gzip and zip related? What do they have in common and how are they different? - Stack Overflow](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)
-[A Quick Benchmark: Gzip vs. Bzip2 vs. LZMA](https://tukaani.org/lzma/benchmarks.html)
-[Quick Benchmark: Gzip vs Bzip2 vs LZMA vs XZ vs LZ4 vs LZO - CatchChallenger wiki](https://catchchallenger.first-world.info/wiki/Quick_Benchmark:_Gzip_vs_Bzip2_vs_LZMA_vs_XZ_vs_LZ4_vs_LZO)
-[Comparison of Brotli, Deflate, Zopfli, LZMA, LZHAM and Bzip2 Compression Algorithms](https://cran.r-project.org/web/packages/brotli/vignettes/brotli-2015-09-22.pdf) PDF, 2015
-
-[Elegant Compression in Text (The LZ 77 Method) - Computerphile - YouTube](https://www.youtube.com/watch?v=goOa3DGezUA)
-[Entropy in Compression - Computerphile - YouTube](https://www.youtube.com/watch?v=M5c_RFKVkko)
-
-[How Computers Compress Text: Huffman Coding and Huffman Trees - YouTube](https://www.youtube.com/watch?v=JsTptu56GM8)
-
-#### Error Correction
-
-[Error Correction - Computerphile - YouTube](https://www.youtube.com/watch?v=5sskbSvha9M)
-[Multiple Dimension Error Correction - Computerphile - YouTube](https://www.youtube.com/watch?v=1_X-7BgHbE0)
-[Error Correction & International Book Codes - Computerphile - YouTube](https://www.youtube.com/watch?v=bqtE6Q79PPs)
-
-[How to send a self-correcting message (Hamming codes) - YouTube](https://www.youtube.com/watch?v=X8jsijhllIA)
-[Hamming codes part 2, the elegance of it all - YouTube](https://www.youtube.com/watch?v=b3NxrZOu_CE)
+[Signals and Threads | State Machine Replication, and Why You Should Care](https://signalsandthreads.com/state-machine-replication-and-why-you-should-care/)
+[An Introduction to the Sequencer World - Electronic Trading Technology](https://sissoftwarefactory.com/blog/an-introduction-to-the-sequencer-world/)
+Assigning timestamp and sequence number in unreliable multicast channels
+Aria is a framework to run apps in similar design but abstracts away the server setup
 
 ## Conway's Game of Life
 
@@ -1125,10 +843,13 @@ Following is are lists of learning resources for the programming languages I'm i
 [[zig-lang]]
 
 [HOPL](https://hopl.info/) Online Historical Encyclopaedia of Programming Languages
+[Programming Languages - Hyperpolyglot](https://hyperpolyglot.org/)
 [C isn't a programming language anymore • The Register](https://www.theregister.com/2022/03/23/c_not_a_language/)
 you must speak C when communicating with kernel
 
 [Context Free - YouTube](https://www.youtube.com/c/ContextFree/) on programming languages
+
+[PyBites Platform | Real World Python Exercises](https://codechalleng.es/)
 
 [Riju](https://riju.codes/)
 [radian-software/riju: ⚡ Extremely fast online playground for every programming language.](https://github.com/radian-software/riju)
@@ -1136,7 +857,8 @@ you must speak C when communicating with kernel
 [exercism.io](http://exercism.io/) Koans of various languages
 [About the new site | Exercism](https://exercism.io/about-v1-to-v2)
 
-[Microsoft Reactor Topic. Coding, Languages, and Frameworks](https://developer.microsoft.com/en-us/reactor/topic/2)
+[Microsoft Reactor | Microsoft Developer](https://developer.microsoft.com/en-us/reactor/)
+[neopragma/online-learning-resources: Online resources for self-study in software-related topics and skills](https://github.com/neopragma/online-learning-resources)
 
 [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 [Programming Languages | Hammer Principle](http://hammerprinciple.com/therighttool)
@@ -1152,7 +874,7 @@ you must speak C when communicating with kernel
 [The Computer Language Benchmarks Game](http://benchmarksgame.alioth.debian.org/)
 [Benchmarks for programming languages and compilers, Which programming language or compiler is faster](https://programming-language-benchmarks.vercel.app/)
 [Evaluating Developer eXperience of a programming language - DEV Community 👩‍💻👨‍💻](https://dev.to/stereobooster/developer-experience-the-stereoboster-test-for-a-programming-language-4c44)
-[Ask Ars: Why are some programming languages faster than others? – Ars Technica](https://arstechnica.com/information-technology/2014/05/ask-ars-why-are-some-programming-languages-faster-than-others/?amp=1)
+[Ask Ars: Why are some programming languages faster than others? – Ars Technica](https://arstechnica.com/information-technology/2014/05/ask-ars-why-are-some-programming-languages-faster-than-others/amp/)
 [Ranking Programming Languages by GitHub Users](https://www.benfrederickson.com/ranking-programming-languages-by-github-users/)
 [The state of Developer Ecosystem in 2019 Infographic](https://www.jetbrains.com/lp/devecosystem-2019/)
 [These Modern Programming Languages Will Make You Suffer | by Ilya Suzdalnitski | Better Programming | Dec, 2020 | Medium](https://medium.com/better-programming/modern-languages-suck-ad21cbc8a57c)
@@ -1173,14 +895,6 @@ Quines
 
 [Quine (computing) - Wikiwand](<https://www.wikiwand.com/en/Quine_(computing)>) a program that prints itself
 
-## Language Server Protocol
-
-[Langserver.org](https://langserver.org/)
-[Official page for Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
-[Microsoft-backed Language Server Protocol strives for language, tools interoperability | InfoWorld](https://www.infoworld.com/article/3088698/application-development/microsoft-backed-langauge-server-protocol-strives-for-language-tools-interoperability.html)
-[Microsoft/language-server-protocol: Defines a common protocol for language servers.](https://github.com/Microsoft/language-server-protocol)
-Protocol to abstract editor from specific language.
-
 ## Abstract Syntax Tree (AST)
 
 [AST explorer](https://astexplorer.net/)
@@ -1189,6 +903,14 @@ Protocol to abstract editor from specific language.
 
 [Python AST Explorer](https://python-ast-explorer.com/)
 [Read JavaScript Source Code, Using an AST ← Alligator.io](https://alligator.io/js/traversing-ast/)
+
+## Language Server Protocol
+
+[Langserver.org](https://langserver.org/)
+[Official page for Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
+[Microsoft-backed Language Server Protocol strives for language, tools interoperability | InfoWorld](https://www.infoworld.com/article/3088698/application-development/microsoft-backed-langauge-server-protocol-strives-for-language-tools-interoperability.html)
+[Microsoft/language-server-protocol: Defines a common protocol for language servers.](https://github.com/Microsoft/language-server-protocol)
+Protocol to abstract editor from specific language.
 
 ## Esolang
 
@@ -1206,6 +928,10 @@ Protocol to abstract editor from specific language.
 
 [x86 assembly language - Wikiwand](https://www.wikiwand.com/en/X86_assembly_language)
 [x86 calling conventions - Wikiwand](https://www.wikiwand.com/en/X86_calling_conventions)
+
+[Registers in x86 assembly | Infosec Resources](https://resources.infosecinstitute.com/topic/registers/)
+parameters: `rdi`, `rsi`
+return value: `rax` (`eax` for the lower 32 bits, `al` for the lower byte)
 
 [Intro to Assembly and Assemblers | Linux.org](http://www.linux.org/threads/intro-to-assembly-and-assemblers.7311/)
 [Gcc: Some Assembly Required | Hackaday](https://hackaday.com/2016/06/08/gcc-some-assembly-required/)
@@ -1297,7 +1023,7 @@ History of Programming papers:
 [C++11 FAQ](https://www.stroustrup.com/C++11FAQ.html)
 
 [AnthonyCalandra/modern-cpp-features: A cheatsheet of modern C++ language and library features.](https://github.com/AnthonyCalandra/modern-cpp-features)
-[Some awesome modern C++ features that every developer should know](https://medium.freecodecamp.org/some-awesome-modern-c-features-that-every-developer-should-know-5e3bf6f79a3c)
+[Some awesome modern C++ features that every developer should know](https://www.freecodecamp.org/news/some-awesome-modern-c-features-that-every-developer-should-know-5e3bf6f79a3c)
 [What's all the C Plus Fuss? Bjarne Stroustrup warns of dangerous future plans for his C++ • The Register](https://www.theregister.co.uk/AMP/2018/06/18/bjarne_stroustrup_c_plus_plus/)
 [C++20 Is Feature Complete; Here’s What Changes Are Coming | Hackaday](https://hackaday.com/2019/07/30/c20-is-feature-complete-heres-what-changes-are-coming/)
 
@@ -1369,53 +1095,6 @@ History of Programming papers:
 
 [TCC : Tiny C Compiler](http://bellard.org/tcc/)
 [cpi](http://treefrogframework.github.io/cpi/)
-
-### Compiler
-
-[ccache — Compiler cache](https://ccache.dev/)
-[2 tips to make your C++ projects compile 3 times faster - Red Hat Developer Blog](https://developers.redhat.com/blog/2019/05/15/2-tips-to-make-your-c-projects-compile-3-times-faster/)
-
-[distcc: a fast, free distributed C/C++ compiler](https://distcc.github.io/)
-
-[Introduction to cross-compiling for Linux](https://landley.net/writing/docs/cross-compiling.html)
-[How A Compiler Works: GNU Toolchain](http://www.slideshare.net/jserv/how-a-compiler-works-gnu-toolchain)
-
-[20 ABI (Application Binary Interface) breaking changes every C++ developer should know](https://www.acodersjourney.com/20-abi-breaking-changes/)
-[How the GNU C Library handles backward compatibility - Red Hat Developer Blog](https://developers.redhat.com/blog/2019/08/01/how-the-gnu-c-library-handles-backward-compatibility/)
-[Chris's Wiki :: blog/linux/32BitProgramOn64BitSystem](https://utcc.utoronto.ca/~cks/space/blog/linux/32BitProgramOn64BitSystem)
-
-[blanham/PDCLib](https://github.com/blanham/PDCLib)
-[Comparison of C/POSIX standard library implementations for Linux](http://www.etalabs.net/compare_libcs.html)
-
-[C 语言全局变量那些事儿 | 酷 壳 - CoolShell](https://coolshell.cn/articles/10115.html)
-
-[How I Wrote programming language. Here's how you can, too.](https://www.houseofbots.com/news-detail/3732-4-how-i-wrote-programming-language-heres-how-you-can-too)
-
-[GCC optimization - Gentoo Wiki](https://wiki.gentoo.org/wiki/GCC_optimization)
-[i386 and x86-64 Options - Using the GNU Compiler Collection (GCC)](https://gcc.gnu.org/onlinedocs/gcc-4.5.3/gcc/i386-and-x86_002d64-Options.html)
-`CFLAG="-O3 -march=native"`
-
-[Oops, I Wrote a C++ Compiler](https://praeclarum.org/2018/08/27/oops-i-wrote-a-c-compiler.html) C/C++ compiler/interpreter in .NET
-[KEYNOTE: What Everyone Should Know About How Amazing Compilers Are - Matt Godbolt [C++ on Sea 2019] - YouTube](https://www.youtube.com/watch?v=w0sz5WbS5AM)
-
-[GCC 6.1 vs. LLVM Clang 3.9 Compiler Performance - Phoronix](http://www.phoronix.com/scan.php?page=article&item=gcc-61-clang39&num=1)
-
-```sh
-gcc --help=target
-# -c: no linkage
-# -Q: shows options
-gcc -c -Q -march=native --help=target
-# show compile flags
-gcc -### -march=native /usr/include/stdlib.h
-```
-
-### Cross compile Windows binary
-
-[MXE (M cross environment)](http://mxe.cc/)
-[MXE - build-pkg by starius](http://pkg.mxe.cc/)
-
-[Install The Mingw Cross-Compiler - WxWiki](https://wiki.wxwidgets.org/Install_The_Mingw_Cross-Compiler)
-[The Beez' speaks..: Cross compilers, the new wave](https://thebeezspeaks.blogspot.hk/2009/04/cross-compilers-new-wave.html)
 
 ### Modules
 
@@ -1650,8 +1329,14 @@ Google's langauge for replacing C
 [carbon-language/carbon-lang: Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)](https://github.com/carbon-language/carbon-lang)
 [Carbon (programming language) - Wikiwand](<https://www.wikiwand.com/en/Carbon_(programming_language)>)
 
+[Carbon Language: An experimental successor to C++ - Chandler Carruth - CppNorth 2022 - YouTube](https://www.youtube.com/watch?v=omrY53kbVoA)
 [Carbon Lang… The C++ killer? - YouTube](https://www.youtube.com/watch?v=-bHK0qmp06c)
 [Carbon Lang First Look & Crash Course | Google's C++ Successor - YouTube](https://www.youtube.com/watch?v=MMxbP8ME2Ag)
+
+gingerBill, creater of Odin
+[Carbon Language - First Impressions from the Creator of the Odin Programming Language - YouTube](https://www.youtube.com/watch?v=Z_8lV0nwsc4)
+[Carbon Language - Who is it even for? - YouTube](https://www.youtube.com/watch?v=EGgJrazDTYw)
+[Carbon Language - Final Conclusions (It's Probably Not For You) - YouTube](https://www.youtube.com/watch?v=qIOccNIxd7c)
 
 ## D
 
@@ -1711,8 +1396,31 @@ Elm -> ReScript -> F#
 
 ## Odin
 
+> C alternative for the joy of programming
+
 [Odin Programming Language](https://odin-lang.org/)
 [odin-lang/Odin: Odin Programming Language](https://github.com/odin-lang/Odin)
+
+[Interview with Odin language creator gingerBill - YouTube](https://www.youtube.com/watch?v=2YLA4ajby00)
+
+- for modern system (SIMD)
+- no garbage collector
+- implicit context
+- custom memory allocator
+- includes bindings to rendering library
+  SDL, imgui, Vulkan, OpenGL, raylib
+- some syntax similar to Go
+  defer, error as value, named return
+
+[Space Shooter with SDL2 and Odin Lang - YouTube](https://www.youtube.com/playlist?list=PLuZ3rcIdDc9EA4YqLJSsrzYeUDv8Mucxz)
+
+### Ecosystem
+
+[Binding to C | Odin Programming Language](https://odin-lang.org/news/binding-to-c/)
+[Odin Libs · odin-lang/Odin Wiki](https://github.com/odin-lang/Odin/wiki/Odin-Libs)
+
+[graphitemaster/codin: Odin to C compiler](https://github.com/graphitemaster/codin)
+[C-Odin. The future of the Odin programming language. - YouTube](https://www.youtube.com/watch?v=g1qF9LZOoFE)
 
 ## Jakt
 

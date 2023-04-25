@@ -49,7 +49,7 @@ deno types
 
 ## Libraries
 
-[[javascript-pipeline.md#bundle-for-browser]]
+[[javascript-pipeline#bundle-for-browser]]
 
 [Runtime APIs | Deno](https://deno.land/api)
 [std | Deno](https://deno.land/std)

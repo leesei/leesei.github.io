@@ -169,7 +169,7 @@ Isometric: contraction and hold
 [Isometric Exercises for Low Back Pain Pain Relief - YouTube](https://www.youtube.com/watch?v=Ip0S-HHQIoc)
 
 [4 招強化核心訓練！讓妳擁有傲人馬甲線，遠離腰酸背痛【極塑教室】｜一對一私人教練｜營養師｜瘦身｜ superfit 評價｜ superfit 費用 - YouTube](https://www.youtube.com/watch?v=mMySboMbcdc&t=0s)
-[樁功與核心肌群訓練的異同　建立身體穩定性卻欠爆發力｜來稿文章｜香港 01 ｜武備志](https://www.hk01.com/%E6%AD%A6%E5%82%99%E5%BF%97/612616/%E6%A8%81%E5%8A%9F%E8%88%87%E6%A0%B8%E5%BF%83%E8%82%8C%E7%BE%A4%E8%A8%93%E7%B7%B4%E7%9A%84%E7%95%B0%E5%90%8C-%E5%BB%BA%E7%AB%8B%E8%BA%AB%E9%AB%94%E7%A9%A9%E5%AE%9A%E6%80%A7%E5%8D%BB%E6%AC%A0%E7%88%86%E7%99%BC%E5%8A%9B-%E4%BE%86%E7%A8%BF%E6%96%87%E7%AB%A0)
+[樁功與核心肌群訓練的異同　建立身體穩定性卻欠爆發力｜來稿文章｜香港 01 ｜武備志](https://www.hk01.com/%E6%AD%A6%E5%82%99%E5%BF%97/612616/)
 
 [ATHLEAN-X™ - YouTube](https://www.youtube.com/channel/UCe0TLA0EsQbE-MjuHXevj2A)
 [Stop Doing Abs Like This! (SAVE A FRIEND) - YouTube](https://www.youtube.com/watch?v=RMBLUjJblM4)

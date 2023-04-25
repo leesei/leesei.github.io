@@ -4,6 +4,7 @@ description: ""
 created: 2016-01-18
 tags:
   - ingress-protection
+  - ip-rating
   - trivia
 ---
 

@@ -352,8 +352,8 @@ Conditions for breaking catch combo:
 [Luigi's Mansion 3 - 20 Easter Eggs & Secrets! - YouTube](https://www.youtube.com/watch?v=3Io5lgcotYo&t=4s)
 
 Walkthrough
-[【LUIGI'S MANSION 3】路易吉洋樓 3 攻略：免卡關主線流程（上）](https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/393534/luigi-s-mansion-3-%E8%B7%AF%E6%98%93%E5%90%89%E6%B4%8B%E6%A8%933%E6%94%BB%E7%95%A5-%E5%85%8D%E5%8D%A1%E9%97%9C%E4%B8%BB%E7%B7%9A%E6%B5%81%E7%A8%8B-%E4%B8%8A)
-[【LUIGI'S MANSION 3】路易吉洋樓 3 攻略　免卡關主線流程(下)](https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/393774/luigi-s-mansion-3-%E8%B7%AF%E6%98%93%E5%90%89%E6%B4%8B%E6%A8%93-3-%E6%94%BB%E7%95%A5-%E5%85%8D%E5%8D%A1%E9%97%9C%E4%B8%BB%E7%B7%9A%E6%B5%81%E7%A8%8B-%E4%B8%8B)
+[【LUIGI'S MANSION 3】路易吉洋樓 3 攻略：免卡關主線流程（上）](https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/393534/)
+[【LUIGI'S MANSION 3】路易吉洋樓 3 攻略　免卡關主線流程(下)](https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/393774/)
 [Luigi's Mansion 3 Guide and Walkthrough - IGN](https://www.ign.com/articles/2019/10/28/luigis-mansion-3-guide-and-walkthrough)
 [Luigi's Mansion 3 - Boss Walkthroughs And Strategies - Guide - Nintendo Life](http://www.nintendolife.com/news/2019/10/guide_luigis_mansion_3_-_boss_walkthroughs_and_strategies)
 [Luigi's Mansion 3 - All Bosses + Secret Boss (2 Player Co-Op) - YouTube](https://www.youtube.com/watch?v=ewZEMTJpbwY)
@@ -366,7 +366,7 @@ Gems
 [Luigi's Mansion 3 Guide: Gem Locations for Every Floor - IGN](https://www.ign.com/articles/2019/10/28/luigis-mansion-3-gem-locations)
 
 Boos
-[【LUIGI'S MANSION 3】路易吉洋樓 3 攻略　害羞幽靈攻略法](https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/394944/luigi-s-mansion-3-%E8%B7%AF%E6%98%93%E5%90%89%E6%B4%8B%E6%A8%93-3-%E6%94%BB%E7%95%A5-%E5%AE%B3%E7%BE%9E%E5%B9%BD%E9%9D%88%E6%94%BB%E7%95%A5%E6%B3%95)
+[【LUIGI'S MANSION 3】路易吉洋樓 3 攻略　害羞幽靈攻略法](https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/394944/)
 [Luigi's Mansion 3 - How To Catch Boos And Where To Find Them - Guide - Nintendo Life](http://www.nintendolife.com/news/2019/10/guide_luigis_mansion_3_-_how_to_catch_boos_and_where_to_find_them)
 [Luigi's Mansion 3 how to catch and beat Boo - YouTube](https://www.youtube.com/watch?v=j2RbndEQT6w)
 [Luigi's Mansion 3 - All Boo Locations + Reward - YouTube](https://www.youtube.com/watch?v=VIl7bp98GA4)
@@ -462,7 +462,7 @@ Tegra X1? T214/T210N01
 [【科技杂谈 41】黑客组织惊现无间道？SWITCH 破解界的诸神之战（下） - YouTube](https://www.youtube.com/watch?v=-3TdkGuWHrk)
 
 [Hackers seem close to publicly unlocking the Nintendo Switch | Ars Technica](https://arstechnica.com/gaming/2018/01/hackers-seem-close-to-publicly-unlocking-the-nintendo-switch/)
-[Turning the Nintendo Switch into Android’s best gaming hardware – Ars Technica](https://arstechnica.com/gadgets/2019/08/android-on-the-nintendo-switch-a-hardware-hacking-extravaganza/?amp=1)
+[Turning the Nintendo Switch into Android’s best gaming hardware – Ars Technica](https://arstechnica.com/gadgets/2019/08/android-on-the-nintendo-switch-a-hardware-hacking-extravaganza/amp/)
 
 ### portable dock
 
@@ -542,19 +542,19 @@ Files:
 
 key_retail.bin = `cat unfixed-info.bin locked-secret.bin > key_retail.bin`
 
-```
+```txt
 1D 16 4B 37 5B 72 A5 57 28 B9 1D 64 B6 A3 C2 05 75 6E 66 69 78 65 64 20 69 6E 66 6F 73 00 00 0E DB 4B 9E 3F 45 27 8F 39 7E FF 9B 4F B9 93 00 00 04 49 17 DC 76 B4 96 40 D6 F8 39 39 96 0F AE D4 EF 39 2F AA B2 14 28 AA 21 FB 54 E5 45 05 47 66 7F 75 2D 28 73 A2 00 17 FE F8 5C 05 75 90 4B 6D 6C 6F 63 6B 65 64 20 73 65 63 72 65 74 00 00 10 FD C8 A0 76 94 B8 9E 4C 47 D3 7D E8 CE 5C 74 C1 04 49 17 DC 76 B4 96 40 D6 F8 39 39 96 0F AE D4 EF 39 2F AA B2 14 28 AA 21 FB 54 E5 45 05 47 66
 ```
 
 unfixed-info.bin (data key)
 
-```
+```txt
 1D 16 4B 37 5B 72 A5 57 28 B9 1D 64 B6 A3 C2 05 75 6E 66 69 78 65 64 20 69 6E 66 6F 73 00 00 0E DB 4B 9E 3F 45 27 8F 39 7E FF 9B 4F B9 93 00 00 04 49 17 DC 76 B4 96 40 D6 F8 39 39 96 0F AE D4 EF 39 2F AA B2 14 28 AA 21 FB 54 E5 45 05 47 66
 ```
 
 locked-secret.bin (tag key)
 
-```
+```txt
 7F 75 2D 28 73 A2 00 17 FE F8 5C 05 75 90 4B 6D 6C 6F 63 6B 65 64 20 73 65 63 72 65 74 00 00 10 FD C8 A0 76 94 B8 9E 4C 47 D3 7D E8 CE 5C 74 C1 04 49 17 DC 76 B4 96 40 D6 F8 39 39 96 0F AE D4 EF 39 2F AA B2 14 28 AA 21 FB 54 E5 45 05 47 66
 ```
 

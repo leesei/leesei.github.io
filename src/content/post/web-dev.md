@@ -20,7 +20,7 @@ tags:
 [Hypertext Style: Cool URIs don't change.](https://www.w3.org/Provider/Style/URI)
 
 [The Best of JavaScript and the web platform](https://bestof.js.org/)
-[The best front-end hacking cheatsheets — all in one place.](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a) 2017
+[A practical guide to learning front end development for beginners](https://www.freecodecamp.org/news/a-practical-guide-to-learning-front-end-development-for-beginners-da6516505e41) 2019
 [A Guide to Different Web Technologies and How They Are Related | by Erik Engheim | Medium](https://erik-engheim.medium.com/a-guide-to-different-web-technologies-and-how-they-are-related-a0951c7b43f4)
 
 [Illustrated.dev](https://illustrated.dev/) web dev concepts illustrated
@@ -192,6 +192,7 @@ If the site is rendered ahead of time at build, it is known as "Static Site Gene
 [Progressive Web Applications: A Progressive State of the Web](https://codeburst.io/progressive-web-applications-a-progressive-state-of-the-web-ea37fd27b54b)
 [Progressive Web Apps (PWA), its got electrolytes! – codeburst](https://codeburst.io/traditional-web-apps-vs-progressive-web-apps-pwa-its-got-electrolytes-ba0aba67c27b)
 [Progressive Web Apps coming to all Chrome platforms](https://medium.com/@kennethrohde/progressive-web-apps-coming-to-all-chrome-platforms-80e31272e2a8)
+[Creating a Progressive Web App in React A Beginners Guide - DEV Community](https://dev.to/varshithvhegde/creating-a-progressive-web-app-in-react-a-beginners-guide-3l9g)
 [Building Progressive Web Apps [Book]](https://www.safaribooksonline.com/library/view/building-progressive-web/9781491961643/)
 [Top 7 Features of Progressive Web Apps](https://blog.frontity.org/top-7-features-of-progressive-web-apps/#more-2372)
 
@@ -663,6 +664,8 @@ convert -resize x60  input.png apple-touch-icon-60x60.png
 
 ## WSGI
 
+[A Comprehensive Overview of Backend Servers for Django Applications - DEV Community](https://dev.to/pragativerma18/a-comprehensive-overview-of-backend-servers-for-django-applications-208l)
+
 [WSGI — WSGI.org](https://wsgi.readthedocs.io/en/latest/)
 [PEP 3333 – Python Web Server Gateway Interface v1.0.1 | peps.python.org](https://peps.python.org/pep-3333/)
 [Web Server Gateway Interface - Wikiwand](https://www.wikiwand.com/en/Web_Server_Gateway_Interface)
@@ -933,6 +936,8 @@ Forward?
 
 [OTP Screen UI using HTML, CSS & JS - YouTube](https://www.youtube.com/watch?v=ZVV2UM4hzIE)
 
+[Expanding Grid Cards with View Transitions - Chris Coyier](https://chriscoyier.net/2023/04/11/expanding-grid-cards-with-view-transitions/)
+
 [Gooey Menu](https://codepen.io/lbebber/pen/LELBEo)
 [Sidebar Menu Using Html CSS & Javascript | Curved Outside in Active Tab - YouTube](https://www.youtube.com/watch?v=P_A2kNpyQBs)
 [Navigation Menu Using Html CSS & Javascript | Curved Outside in Active Tab - YouTube](https://www.youtube.com/watch?v=pubrK_AmqRg)
@@ -950,6 +955,16 @@ Forward?
 
 [How to Implement and Style the Dialog Element | CSS-Tricks](https://css-tricks.com/how-to-implement-and-style-the-dialog-element/)
 [How to Implement and Style the Dialog Element - Codrops](https://tympanus.net/codrops/2021/10/06/how-to-implement-and-style-the-dialog-element/)
+
+# Polyfill/Ponyfill
+
+[Polyfill.io](https://polyfill.io/v3/)
+[Financial-Times/polyfill-service: Automatic polyfill service](https://github.cm/Foinancial-Times/polyfill-service)
+
+[sindresorhus/ponyfill: 🦄 Like polyfill but with pony pureness](https://ponyfill.com/)
+
+[Polyfills: everything you ever wanted to know, or maybe a bit less](https://hackernoon.com/polyfills-everything-you-ever-wanted-to-know-or-maybe-a-bit-less-7c8de164e423)
+[Polyfills or Ponyfills?](https://ponyfoo.com/articles/polyfills-or-ponyfills)
 
 ## User Agent
 

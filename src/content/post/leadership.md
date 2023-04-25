@@ -19,11 +19,38 @@ tags:
 
 [The Developer Advocacy Handbook](https://developer-advocacy.com/)
 
+## Senior Engineer
+
+Levels of expertise:
+
+- Language: keywords, syntaxes
+- Standard libraries
+- Ecosystem: libraries and frameworks (industry specific)
+- Writing runtime/compiler for the language
+
+Write idiomatic code at level 2
+Seasoned developers are at level 3
+
+[Does Your Editor Matter? - YouTube](https://www.youtube.com/watch?v=rNsWTWvm8uw)
+
+mentality and attitude is more important
+
 ## Coaching
 
 [Institute of Coaching - YouTube](https://www.youtube.com/@InstituteofCoaching)
 
 [2013 video interview with Ben Zander and Rosamund Zander on their Art of Possibility - YouTube](https://www.youtube.com/watch?v=CTNojDGI05A)
+
+[Principles For Success by Ray Dalio (In 30 Minutes) - YouTube](https://www.youtube.com/watch?v=B9XGUpQZY38)
+
+## On Mentorship
+
+Know where your knowledge/instinct came from
+Know the mentee's strong and weak point
+Let the mentee rephrase the problem domain
+How to Google
+
+[Mentor-Mentee Relationships: How to Maximize Both Roles](https://www.betterup.com/blog/mentor-mentee-relationship)
 
 ## 7 Habits
 
@@ -68,18 +95,20 @@ Traits is a spectrum instead of binary!
 
 ### "Big 5"
 
+Big five, Five factor, OCEAN/CANOE
 recognized by psychologist
 model each personality trait as a spectrum
 
-- openness to experience (inventive/curious vs. consistent/cautious)
-- conscientiousness (efficient/organized vs. extravagant/careless)
-- extraversion (outgoing/energetic vs. solitary/reserved)
-- agreeableness (friendly/compassionate vs. critical/rational)
-- neuroticism (sensitive/nervous vs. resilient/confident)
+- Openness to experience (inventive/curious vs. consistent/cautious)
+- Conscientiousness (efficient/organized vs. extravagant/careless)
+- Extraversion (outgoing/energetic vs. solitary/reserved)
+- Agreeableness (friendly/compassionate vs. critical/rational)
+- Neuroticism (sensitive/nervous vs. resilient/confident)
 
 [Big Five personality traits - Wikiwand](https://www.wikiwand.com/en/Big_Five_personality_traits)
 [Big Five Personality Traits | Simply Psychology](https://www.simplypsychology.org/big-five-personality.html)
 [Big 5 Personality Traits | Psychology Today](https://www.psychologytoday.com/us/basics/big-5-personality-traits)
+[The Big Five OCEAN Personality Types: Introduction and Discussions](https://blog.flexmr.net/ocean-personality-types)
 
 ### MBTI (16 types)
 

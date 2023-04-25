@@ -2,6 +2,7 @@
 title: Learn to code (Kids)
 description: ""
 created: 2014-12-08
+updated: 2023-03-29
 tags:
   - comp.lang
   - learning
@@ -31,7 +32,7 @@ Learn how to code for kids
 [Computer Science - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) CrashCourse
 [Learn to Code for Free – Grasshopper](https://grasshopper.app/) JavaScript
 
-[mytechnotalent/Python-For-Kids: A comprehensive and FREE Online Python Development course FOR KIDS utilizing an official BBC micro:bit Development Board going step-by-step into the world of Python for microcontrollers.](https://github.com/mytechnotalent/Python-For-Kids)
+[mytechnotalent/Python-For-Kids: A comprehensive and FREE Online Python Development tutorial FOR KIDS utilizing an official BBC micro:bit Development Board going step-by-step into the world of Python for microcontrollers.](https://github.com/mytechnotalent/Python-For-Kids)
 [Machine Learning for Kids](https://machinelearningforkids.co.uk/)
 
 [Coding for kids: Art, games, and animations with our new beginners' Python path - Raspberry Pi](https://www.raspberrypi.org/blog/coding-for-kids-art-games-animations-beginners-python-programming/)
@@ -307,8 +308,8 @@ Then your project will have a help panel on the right.
 Use the special `/tutorial:${URL}` to load the project to view it step by step.
 
 e.g:  
-https://makecode.microbit.org/#tutorial:https://makecode.microbit.org/_FhVVTw4Cp8cL  
-https://arcade.makecode.com/#tutorial:https://github.com/cyrusn/flappy_duck_tutorial
+<https://makecode.microbit.org/#tutorial:https://makecode.microbit.org/_FhVVTw4Cp8cL>  
+<https://arcade.makecode.com/#tutorial:https://github.com/cyrusn/flappy_duck_tutorial>
 
 #### Extensions (libraries)
 
@@ -364,10 +365,15 @@ Then you can use `pins` functions.
 Actually its the fiber yielding to other threads when blocked by serial IO.
 
 `basic.forever()` vs `control.inBackground()`  
-They're both fibers. `inBackground()` have a `fiberDone` callback to clean up after function exited.
+They're both fibers. `inBackground()` have a `fiberDone` callback for clean up after function exited.
 
-https://github.com/Microsoft/pxt-microbit/blob/master/libs/core/basic.cpp#L117-L122
-https://github.com/Microsoft/pxt-microbit/blob/master/libs/core/pxt.cpp#L654-L659
+`basic.forever()`
+<https://github.com/microsoft/pxt-microbit/blob/22812c6541604f4581fa92fde38c7a6d64091c84/libs/core/basic.cpp#L88>
+<https://github.com/microsoft/pxt-microbit/blob/22812c6541604f4581fa92fde38c7a6d64091c84/libs/core/codal.cpp#L135-L141>
+
+`control.inBackground()`
+<https://github.com/microsoft/pxt-microbit/blob/4ee39351bd75424d8463cd79fdb438a980122c46/libs/core/control.cpp#L252>
+<https://github.com/microsoft/pxt-microbit/blob/22812c6541604f4581fa92fde38c7a6d64091c84/libs/core/codal.cpp#L143-L148>
 
 ### Mixly
 
@@ -387,9 +393,14 @@ https://github.com/Microsoft/pxt-microbit/blob/master/libs/core/pxt.cpp#L654-L65
 [Squishy Circuits - How To](http://courseweb.stthomas.edu/apthomas/SquishyCircuits/howTo.htm)
 [How To Make Squishy Circuits | Makerspace Projects](https://www.makerspaces.com/squishy-circuits/)
 
-[【Maker Faire】DIY 簡單 3 步驟～黏土也可以導電 - 溫馨生活分享版 ::::Citytalk 城市通](https://www.citytalk.tw/bbs/thread-176899-【Maker Faire】DIY 簡單 3 步驟～黏土也可以導電-1.html)
+[捏麵人配方可以做導電黏土？居家實驗室帶你做出能吃又好玩的濕軟電路！](https://tw.toybrains.com/blog/medium-circuit)
+[科學在家玩-導電黏土 DIY @ 親子一起 WHY :: 痞客邦 ::](https://whyfish.pixnet.net/blog/post/270560260)
 
 [网上最全橡皮泥分类，以及与粘土的区别](https://zhuanlan.zhihu.com/p/31389468)
+
+## Conductive Threads
+
+[Overview | Conductive Thread | Adafruit Learning System](https://learn.adafruit.com/conductive-thread?view=all)
 
 ## Paper Circuits
 
@@ -425,10 +436,6 @@ https://github.com/Microsoft/pxt-microbit/blob/master/libs/core/pxt.cpp#L654-L65
 [Paper Speakers (copper tape as coil) - YouTube](https://www.youtube.com/watch?v=8VMv-hAuXOg)
 [How do speakers work? - YouTube](https://www.youtube.com/watch?v=lTkzxfIX4EY)
 
-## Conductive Threads
-
-[Overview | Conductive Thread | Adafruit Learning System](https://learn.adafruit.com/conductive-thread?view=all)
-
 ## Kid's PC build
 
 [Every Little Hacker needs a Little Linux Computer – Medium](https://medium.com/@vesche/every-little-hacker-needs-a-little-linux-computer-b030587fa7fc#.ypgf259v0)
@@ -438,13 +445,8 @@ https://github.com/Microsoft/pxt-microbit/blob/master/libs/core/pxt.cpp#L654-L65
 [DoudouLinux - English](http://www.doudoulinux.org/web/english/index.html)
 [DoudouLinux - 中文](http://www.doudoulinux.org/web/中文/index.html)
 [Edubuntu](https://www.edubuntu.org/)
-[Qimo 4 Kids - Wikiwand](https://www.wikiwand.com/en/Qimo_4_Kids)
 [ubermix Home](http://www.ubermix.org/)
 [Sugar Labs](https://www.sugarlabs.org/)
-
-[兒童專用鍵盤-淘宝网全球站](https://world.taobao.com/item/538340063344.htm)
-[兒童寶寶玩具卡通彩色兒童老人鍵盤-大按鍵設計-淘宝网全球站](https://world.taobao.com/item/525910959791.htm)
-Taobao "鍵盤 兒童"
 
 ## CS w/o computer
 

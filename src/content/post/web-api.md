@@ -42,6 +42,8 @@ tags:
 [GraphQL vs REST: What's The Difference And When To Use Which? - YouTube](https://www.youtube.com/watch?v=7ccdWqGgHaM)
 [REST vs RPC vs GraphQL API - How do I pick the right API paradigm? - YouTube](https://www.youtube.com/watch?v=hkXzsB8D_mo)
 
+[GraphQL vs REST: What's The Difference And When To Use Which? - YouTube](https://www.youtube.com/watch?v=7ccdWqGgHaM)
+
 ## Tips and tricks
 
 [API Design Tips And Tricks - Getting, creating, updating or deleting multiple resources in one API call | API Handyman](http://apihandyman.io/api-design-tips-and-tricks-getting-creating-updating-or-deleting-multiple-resources-in-one-api-call/)
@@ -172,13 +174,18 @@ docker run --rm -v ${PWD}:/local \
 
 [Swagger & OpenAPI Online Validator | Swagger Parser](https://apitools.dev/swagger-parser/online/)
 These tools can validate and bundle multi-files spec.
-[APIDevTools/swagger-cli: Swagger 2.0 and OpenAPI 3.0 command-line tool](https://github.com/APIDevTools/swagger-cli)
+[APIDevTools/swagger-cli: Swagger 2.0 and OpenAPI 3.0 command-line tool](https://github.com/APIDevTools/swagger-cli) Express middleware
 [APIDevTools/swagger-parser: Swagger 2.0 and OpenAPI 3.0 parser/validator](https://github.com/APIDevTools/swagger-parser)
 [apigee-127/sway: A library that simplifies OpenAPI (fka Swagger) integrations.](https://github.com/apigee-127/sway)
 
 [ReDoc Interactive Demo](https://redocly.github.io/redoc/)
 [Redocly/redoc: 📘 OpenAPI/Swagger-generated API Reference Documentation](https://github.com/Redocly/redoc)
 [redoc/README.md at main · Redocly/redoc](https://github.com/Redocly/redoc/blob/main/cli/README.md) `redoc-cli` bundle your docs into zero-dependency HTML file
+
+[openapi-typescript vs swagger-typescript vs swagger-typescript-api vs ts-json-schema-generator vs typescript-json-schema | npm trends](https://npmtrends.com/openapi-typescript-vs-swagger-typescript-vs-swagger-typescript-api-vs-ts-json-schema-generator-vs-typescript-json-schema)
+[drwpow/openapi-typescript: Generate TypeScript types from OpenAPI 3 specs](https://github.com/drwpow/openapi-typescript)
+[acacode/swagger-typescript-api: TypeScript API generator via Swagger scheme](https://github.com/acacode/swagger-typescript-api)
+[hosseinmd/swagger-typescript: An auto typescript/javascript code generator from swagger.](https://github.com/hosseinmd/swagger-typescript)
 
 [getkin/kin-openapi: OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)](https://github.com/getkin/kin-openapi)
 

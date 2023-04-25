@@ -4,11 +4,11 @@ description: ""
 created: 2014-12-11
 tags:
   - container
+  - dev/deploy
   - devops
   - docker
   - openshift
   - shell-tool
-  - dev/deploy
 ---
 
 # OpenShift
@@ -48,9 +48,7 @@ OpenShift 3 [adopts Kubernetes and Docker](https://blog.openshift.com/red-hat-ch
 ## OpenStack
 
 [Home » OpenStack Open Source Cloud Computing Software](https://www.openstack.org/)
-[OpenStack Essentials - Linux Academy](https://linuxacademy.com/cp/modules/view/id/120)
-[Introduction to OpenStack | LFS152x | edX](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS152x+1T2018/course/)
-
+[Course | Introduction to OpenStack | edX](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS152x+1T2018/home)
 [What is OpenStack? Part.1](https://turbonomic.com/blog/on-technology/openstack-pt-1/)
 [What is OpenStack? Part.2](https://turbonomic.com/blog/on-technology/openstack-pt-2/)
 [OpenStack: 4 Years, 10 Releases, and 1 Revolution](https://turbonomic.com/blog/on-technology/openstack-4-years-10-releases-1-revolution/)

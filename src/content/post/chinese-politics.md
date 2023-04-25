@@ -2,7 +2,8 @@
 title: Chinese Politics
 description: ""
 created: 2023-03-27
-tags: ["politics"]
+tags:
+  - politics
 ---
 
 [一個機構兩塊牌子 - Wikiwand](https://www.wikiwand.com/zh-hk/%E4%B8%80%E4%B8%AA%E6%9C%BA%E6%9E%84%E4%B8%A4%E5%9D%97%E7%89%8C%E5%AD%90)

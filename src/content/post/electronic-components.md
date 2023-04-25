@@ -448,6 +448,19 @@ Fine: M-3
 
 ### Serial
 
+[Transistor–transistor logic - Wikiwand](https://www.wikiwand.com/en/Transistor%E2%80%93transistor_logic)
+On 5V, High > 2.4V, Low < 0.4V
+Weak anti-interference
+
+[Serial port - Wikiwand](https://www.wikiwand.com/en/Serial_port)
+[RS-232 - Wikiwand](https://www.wikiwand.com/en/RS-232)
+Convert 0-5V TTL signal to (-15V, 15V) via Voltage Level Shifter, High 3 - 15V, Low -3 - -15V
+15m, 2Mbps
+
+[RS-485 - Wikiwand](https://www.wikiwand.com/en/RS-485)
+Uses differential signaling
+1200m, 50Mbps
+
 [Serial Communication - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/serial-communication/all) RS232, UARTs
 RX, TX without clock
 [Where does 9600 bps come from? - News - SparkFun Electronics](https://www.sparkfun.com/news/2231)
@@ -456,6 +469,47 @@ RX, TX without clock
 
 [RS-232 vs. TTL Serial Communication - SparkFun Electronics](https://www.sparkfun.com/tutorials/215)
 [Selecting and Using RS-232, RS-422, and RS-485 Serial Data Standards - Tutorial - Maxim](https://www.maximintegrated.com/en/app-notes/index.mvp/id/723)
+
+[5 分钟看懂!串口 RS232 RS485 最本质的区别！ - YouTube](https://www.youtube.com/watch?v=HKQaYN5Odlk)
+
+### USB Serial
+
+[Universal asynchronous receiver-transmitter - Wikiwand](https://www.wikiwand.com/en/Universal_asynchronous_receiver-transmitter) UART
+[Hacker's Guide to UART Root Shells - YouTube](https://www.youtube.com/watch?v=01mw0oTHwxg)
+
+[Which USB to TTL converter Adapter To Chose For Your Arduino Projects?! - YouTube](https://www.youtube.com/watch?v=hE2Yw-fGZRg)
+
+[Basics: AVR Target Boards and Arduino Compatibility | Evil Mad Scientist Laboratories](https://www.evilmadscientist.com/2014/basics-avr-arduino/)
+[How to use an Arduino as a USB to TTL converter || Arduino tutorial - YouTube](https://www.youtube.com/watch?v=qqSLwK1DP8Q) connect RESET to ground
+
+[USB 系列芯片 - 江苏沁恒股份有限公司](http://wch.cn/products/category/1.html)
+CH340G, all platforms
+
+[USB to UART Bridge VCP Drivers | Silicon Labs](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
+CP210X, all platforms
+
+An FTDI chip to provide a USB serial interface to allow you to program it from your PC using a USB cable.
+[FT232R](https://www.ftdichip.com/Products/ICs/FT232R.htm)
+[Arduino Playground - FTDI](https://playground.arduino.cc/Main/FTDI) FTDI is one manufacturer of USB-Serial chips
+[FTDI + Arduino Pro Mini - YouTube](https://www.youtube.com/watch?v=Jnf-7NToJSI)
+[FTDI SmartBasic Hookup Guide - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/ftdi-smartbasic-hookup-guide/all)
+[FT232RL: Real Or Fake? | Hackaday](https://hackaday.com/2014/02/19/ft232rl-real-or-fake/)
+
+[PL2303](http://www.prolific.com.tw/US/ShowProduct.aspx?pcid=41)
+PL2303/PL2303HX, no Linux, worse reputation
+
+Some adapter has 3.3V and 5V pin to power the board while flashing.
+
+[Absolute WeMos D1 Mini (ESP8266) Basics](https://steve.fi/Hardware/esp8266-basics/) adding udev rule
+
+`lsusb` to check the vendor and product ID, add it to `tty` subsystem
+
+```
+SUBSYSTEM=="tty", GROUP="plugdev", MODE="0660"
+ACTION=="add", SUBSYSTEMS=="usb", ATTRS{idVendor}=="1a86", ATTRS{idProduct}=="7523", SYMLINK+="wemos"
+```
+
+Make sure you user is in `plugdev` group (or `dialout` per [espressif doc](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/establish-serial-connection.html)?)
 
 ### I2C
 
@@ -672,6 +726,7 @@ If the LCD has 2 rows of 16 characters (1602) and 16 pins, its probably Hitachi 
 [HD44780 Character LCD Displays - Part 1 - Protostack](https://protostack.com.au/2010/03/character-lcd-displays-part-1/)
 [hd44780 Character LCD Displays - Part 2 - Protostack](https://protostack.com.au/2010/04/character-lcd-displays-part-2/)
 [Using LCD Displays with Arduino - YouTube](https://www.youtube.com/watch?v=wEbGhYjn4QI)
+[再简单的屏幕也需要显卡！让你彻底看懂 LCD 屏的控制原理！1602A LCD 的工作原理！ - YouTube](https://www.youtube.com/watch?v=GEKVSmihi3Y)
 
 [How a Character LCD works Part 1 - YouTube](https://www.youtube.com/watch?v=hZRL8luuPb8)
 Controlling LCD with a Commodore 64
@@ -716,6 +771,8 @@ TCA9548A demux multiple data streams on i2c and send them to component separatel
 
 [Using an IR Remote and sensor with an Arduino – Brainy-Bits](https://www.brainy-bits.com/ir-remote-arduino/)
 [Using IR Remote Controls with the Arduino - YouTube](https://www.youtube.com/watch?v=8E3ltjnbV0c)
+
+[一帧红外遥控信号，竟如此复杂，超乎你的想象！红外遥控的工作原理！ - YouTube](https://www.youtube.com/watch?v=Gds_Cz9oMWQ)
 
 ## Heart Beat
 
@@ -850,6 +907,18 @@ So 1 white 5050 takes ~50mA
 [ULN2803: 8 Channel Darlington Driver (Solenoid/Unipolar Stepper) [ULN2803A] ID: 970 - \$1.95 : Adafruit Industries, Unique & fun DIY electronics and kits](https://www.adafruit.com/product/970)
 [ULN2803A darlington transistor array driver IC - YouTube](https://www.youtube.com/watch?v=KHgA6dXcwuI) current amplifier, 500mA per pin, 2.5A max
 
+## Color Sensor
+
+[TCS3200 Color Sensor (SKU:SEN0101) - DFRobot Electronic Product Wiki and Tutorial: Arduino and Robot Wiki-DFRobot.com](<https://www.dfrobot.com/wiki/index.php/TCS3200_Color_Sensor_(SKU:SEN0101)>)
+[seasonedbits/pxt-color-sensor: Extension for TSC3200 color sensor module](https://github.com/seasonedbits/pxt-color-sensor)
+
+[Arduino COLOR Sensor / Color Recognition Sensor TCS230](https://www.instructables.com/id/Arduino-COLOR-Sensor-Color-Recognition-Sensor-TCS2/) Arduino
+[How to Make a Color Sensor Using a TCS3200 Module | PIC | Maker Pro](https://maker.pro/pic/tutorial/how-to-make-a-color-sensor-using-a-tcs3200-module)
+[TCS3200 RGB Color Sensor For Arduino - Thingbits Electronics](https://www.thingbits.net/products/tcs3200-rgb-color-sensor-for-arduino)
+[MajicDesigns/MD_TCS230: TCS230 TCS3200 RGB Color Sensor Library](https://github.com/MajicDesigns/MD_TCS230)
+
+[Help With TCS3200 Color Sensor (Understanding Output)](https://forum.arduino.cc/index.php?topic=141827.0)
+
 ## UV sensor
 
 [紫外线（UV）辐射强度检测模块硬件设计及入门指导 - 基础电路 - 电路城](http://www.cirmall.com/circuit/9766/紫外线（UV）辐射强度检测模块硬件设计及入门指导#/details)
@@ -876,7 +945,7 @@ RX pin of both need to level shift to 3.3V, do not connect directly to Arduino
 [Arduino and Bluetooth module HC-06 • AranaCorp](https://www.aranacorp.com/en/arduino-and-bluetooth-module-hc-06/)
 [Introduction to HC-06 - The Engineering Projects](https://www.theengineeringprojects.com/2019/02/introduction-to-hc-06.html)
 
-### 2.4G
+### 2.4GHz
 
 [nRF24 Series - Nordic Semiconductor - nordicsemi.com](http://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF24-series)
 
@@ -890,31 +959,19 @@ NRF24L01 only supports 1Mbps and 2Mbps
 
 [Nordic NRF24L01+ - real vs fake : weekend die-shot : ZeptoBars](https://zeptobars.com/en/read/Nordic-NRF24L01P-SI24R1-real-fake-copy)
 
-### 433M
+### 433MHz
 
 [Insight Into How 433MHz RF Tx-Rx Modules Work & Interface with Arduino](https://lastminuteengineers.com/433mhz-rf-wireless-arduino-tutorial/)
 
 ## Motor Control
 
-> see `robotics.md#motors`
+[[robotics#Motor]]
 
-## Weight sensor
+## Weight Sensor
 
 [How to use a Weight Sensor / Load Cell + HX711 with an Arduino – Brainy-Bits](https://www.brainy-bits.com/load-cell-and-hx711-with-arduino/)
 
 HX711
-
-## Color Sensor
-
-[TCS3200 Color Sensor (SKU:SEN0101) - DFRobot Electronic Product Wiki and Tutorial: Arduino and Robot Wiki-DFRobot.com](https://www.dfrobot.com/wiki/index.php/TCS3200_Color_Sensor_(SKU:SEN0101%29)
-[seasonedbits/pxt-color-sensor: Extension for TSC3200 color sensor module](https://github.com/seasonedbits/pxt-color-sensor)
-
-[Arduino COLOR Sensor / Color Recognition Sensor TCS230](https://www.instructables.com/id/Arduino-COLOR-Sensor-Color-Recognition-Sensor-TCS2/) Arduino
-[How to Make a Color Sensor Using a TCS3200 Module | PIC | Maker Pro](https://maker.pro/pic/tutorial/how-to-make-a-color-sensor-using-a-tcs3200-module)
-[TCS3200 RGB Color Sensor For Arduino - Thingbits Electronics](https://www.thingbits.net/products/tcs3200-rgb-color-sensor-for-arduino)
-[MajicDesigns/MD_TCS230: TCS230 TCS3200 RGB Color Sensor Library](https://github.com/MajicDesigns/MD_TCS230)
-
-[Help With TCS3200 Color Sensor (Understanding Output)](https://forum.arduino.cc/index.php?topic=141827.0)
 
 ## Switch
 
@@ -927,6 +984,14 @@ HX711
 [Switches are Clicky; Here's Why - YouTube](https://www.youtube.com/watch?v=jrMiqEkSk48)
 
 [有手就会！一个按键一颗芯片实现长按开关机 - YouTube](https://www.youtube.com/watch?v=Ppm9qWKcTe8) EC190708
+
+## Key Matrix
+
+[How a Key Matrix Work](http://pcbheaven.com/wikipages/How_Key_Matrices_Works/) !important
+logic can also be used for LED matrix
+[Input Matrix Scanning | Open Music Labs](http://www.openmusiclabs.com/learning/digital/input-matrix-scanning/index.html)
+
+[键盘如何识别 104 个按键？绝对巧妙！独立按键和矩阵按键！ - YouTube](https://www.youtube.com/watch?v=JpUGxaGEDGs)
 
 ## Joystick
 
@@ -947,6 +1012,10 @@ Funduino Joystick Shield
 
 [nRF24L01 - 2.4GHz RF Transceiver With Arduino (Code and Schematics) | Random Nerd Tutorials](https://randomnerdtutorials.com/nrf24l01-2-4ghz-rf-transceiver-module-with-arduino/)
 
+[Wiegand interface - Wikiwand](https://www.wikiwand.com/en/Wiegand_interface)
+[Wiegand: What Is It And How Does It Work With Access Control | Kisi](https://www.getkisi.com/guides/wiegand)
+[monkeyboard/Wiegand-Protocol-Library-for-Arduino: Wiegand 26 and Wiegand 34 Protocol Library for Arduino](https://github.com/monkeyboard/Wiegand-Protocol-Library-for-Arduino)
+
 ### Flipper Zero
 
 [Flipper Zero — Portable Multi-tool Device for Geeks](https://flipperzero.one/)
@@ -955,6 +1024,9 @@ Funduino Joystick Shield
 [Flipper Zero - Starter Guide - YouTube](https://www.youtube.com/watch?v=MJd6qugqHg8)
 [Flipper Zero - A Hackers Review - YouTube](https://www.youtube.com/watch?v=SuW1CsFU0_8)
 [Flipper Zero: Hottest Hacking Device of 2022? - YouTube](https://www.youtube.com/watch?v=VF3xlAm_tdo)
+
+[This Makes Hacking TOO Easy - Flipper Zero - YouTube](https://www.youtube.com/watch?v=nLIp4wd0oXs)
+[This Makes Hacking TOO Easy - Flipper Zero - YouTube](https://www.youtube.com/watch?v=nLIp4wd0oXs)
 
 [Flipper Zero Videos - YouTube](https://www.youtube.com/@FlipperZeroVideos)
 
@@ -1093,10 +1165,6 @@ LM393
 
 [How to use a Speed Sensor with Arduino – Brainy-Bits](https://www.brainy-bits.com/speed-sensor-with-arduino/)
 
-## Keypad
-
-[monkeyboard/Wiegand-Protocol-Library-for-Arduino: Wiegand 26 and Wiegand 34 Protocol Library for Arduino](https://github.com/monkeyboard/Wiegand-Protocol-Library-for-Arduino)
-
 ## Weather Station
 
 ### Temperature/Humidity
@@ -1191,47 +1259,6 @@ double QMC5883L::getHeading()
     return heading;
 }
 ```
-
-## USB Serial
-
-[Serial port - Wikiwand](https://www.wikiwand.com/en/Serial_port)
-[RS-232 - Wikiwand](https://www.wikiwand.com/en/RS-232)
-[Universal asynchronous receiver-transmitter - Wikiwand](https://www.wikiwand.com/en/Universal_asynchronous_receiver-transmitter)
-[Hacker's Guide to UART Root Shells - YouTube](https://www.youtube.com/watch?v=01mw0oTHwxg)
-
-[Which USB to TTL converter Adapter To Chose For Your Arduino Projects?! - YouTube](https://www.youtube.com/watch?v=hE2Yw-fGZRg)
-
-[Basics: AVR Target Boards and Arduino Compatibility | Evil Mad Scientist Laboratories](https://www.evilmadscientist.com/2014/basics-avr-arduino/)
-[How to use an Arduino as a USB to TTL converter || Arduino tutorial - YouTube](https://www.youtube.com/watch?v=qqSLwK1DP8Q) connect RESET to ground
-
-[USB 系列芯片 - 江苏沁恒股份有限公司](http://wch.cn/products/category/1.html)
-CH340G, all platforms
-
-[USB to UART Bridge VCP Drivers | Silicon Labs](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
-CP210X, all platforms
-
-An FTDI chip to provide a USB serial interface to allow you to program it from your PC using a USB cable.
-[FT232R](https://www.ftdichip.com/Products/ICs/FT232R.htm)
-[Arduino Playground - FTDI](https://playground.arduino.cc/Main/FTDI) FTDI is one manufacturer of USB-Serial chips
-[FTDI + Arduino Pro Mini - YouTube](https://www.youtube.com/watch?v=Jnf-7NToJSI)
-[FTDI SmartBasic Hookup Guide - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/ftdi-smartbasic-hookup-guide/all)
-[FT232RL: Real Or Fake? | Hackaday](https://hackaday.com/2014/02/19/ft232rl-real-or-fake/)
-
-[PL2303](http://www.prolific.com.tw/US/ShowProduct.aspx?pcid=41)
-PL2303/PL2303HX, no Linux, worse reputation
-
-Some adapter has 3.3V and 5V pin to power the board while flashing.
-
-[Absolute WeMos D1 Mini (ESP8266) Basics](https://steve.fi/Hardware/esp8266-basics/) adding udev rule
-
-`lsusb` to check the vendor and product ID, add it to `tty` subsystem
-
-```
-SUBSYSTEM=="tty", GROUP="plugdev", MODE="0660"
-ACTION=="add", SUBSYSTEMS=="usb", ATTRS{idVendor}=="1a86", ATTRS{idProduct}=="7523", SYMLINK+="wemos"
-```
-
-Make sure you user is in `plugdev` group (or `dialout` per [espressif doc](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/establish-serial-connection.html)?)
 
 ## Shift Registers
 

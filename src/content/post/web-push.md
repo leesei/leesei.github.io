@@ -62,7 +62,7 @@ Hussein Nasser
 [8 Node.js Web Socket Libraries For 2018 – Bits and Pieces](https://blog.bitsrc.io/8-node-js-web-socket-libraries-for-2018-818e7e5b67cf)
 
 [websockets/ws: Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js](https://github.com/websockets/ws)
-[How to Build a Chat Application using React, Redux, Redux-Saga, and Web Sockets](https://medium.freecodecamp.org/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a)
+[How to Build a Chat Application using React, Redux, Redux-Saga, and Web Sockets](https://www.freecodecamp.org/news/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a)
 
 [uNetworking/uWebSockets: Simple, secure & standards compliant web server for the most demanding of applications](https://github.com/uNetworking/uWebSockets) C/C++
 [uNetworking/uWebSockets.js: TypeScript web server - 15x faster than Deno](https://github.com/uNetworking/uWebSockets.js)
@@ -107,7 +107,7 @@ const app = require("http").createServer(handler);
 [Node.js: Better Performance With Socket.IO and doT](https://code.tutsplus.com/tutorials/nodejs-better-performance-with-socketio-and-dot--net-35076)
 [Understanding Socket.IO - NodeSource](https://nodesource.com/blog/understanding-socketio)
 [StrongLoop - Real-time Engines in Node.js](https://strongloop.com/strongblog/real-time-engines-in-node-js/)
-[Adding Socket.io to multi-threaded Node.js – freeCodeCamp.org](https://medium.freecodecamp.org/how-to-add-socket-io-to-multi-threaded-node-js-df404b424276)
+[Adding Socket.io to multi-threaded Node.js](https://www.freecodecamp.org/news/how-to-add-socket-io-to-multi-threaded-node-js-df404b424276)
 [Understanding the basics of Socket.io - DEV Community 👩‍💻👨‍💻](https://dev.to/uf4no/understanding-the-basics-of-socket-io-3a0e)
 
 [WebSockets in 100 Seconds & Beyond with Socket.io - YouTube](https://www.youtube.com/watch?v=1BfCnjr_Vjg)

@@ -173,8 +173,10 @@ npm install @types/mongodb --save-dev
 
 ## Tips and Tricks
 
+[yoavbls/pretty-ts-errors: 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀](https://github.com/yoavbls/pretty-ts-errors)
+
 [Best Practices For Using TypeScript with Node.js – Bits and Pieces](https://blog.bitsrc.io/best-practices-for-using-typescript-with-node-js-50907f8cc803)
-[Mastering TypeScript: 21 Best Practices for Improved Code Quality | by Vitalii Shevchuk | Jan, 2023 | ITNEXT](https://itnext.io/mastering-typescript-21-best-practices-for-improved-code-quality-2f7615e1fdc3)
+[🔥 Mastering TypeScript: 20 Best Practices for Improved Code Quality | by Vitalii Shevchuk | ITNEXT](https://itnext.io/mastering-typescript-21-best-practices-for-improved-code-quality-2f7615e1fdc3)
 [Microsoft/TypeScript-Node-Starter: A starter template for TypeScript and Node with a detailed README describing how to use the two together.](https://github.com/Microsoft/TypeScript-Node-Starter)
 [Node.js TypeScript Archives - Marcin Wanago Blog - JavaScript, both frontend and backend](https://wanago.io/courses/node-js-typescript/)
 [How to Use Named Parameters in TypeScript | by Krzysztof Kwieciński | Better Programming](https://betterprogramming.pub/named-parameters-in-typescript-e32c763d2b2e)

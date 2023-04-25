@@ -379,7 +379,7 @@ https://regex101.com/r/cX0eW3
 [-c++ starting kit]: https://packagecontrol.io/packages/C%2B%2B%20Starting%20Kit
 [colorhelper]: https://packagecontrol.io/packages/ColorHelper
 [colorschemeeditor]: https://packagecontrol.io/packages/ColorSchemeEditor
-[console api snippets (javascript)]: https://packagecontrol.io/packages/Console%20API%20Snippets%20%28JavaScript%29
+[console api snippets (javascript)]: https://packagecontrol.io/packages/Console%20API%20Snippets%20(JavaScript)
 [creole]: https://packagecontrol.io/packages/Creole
 [dataconverter]: https://packagecontrol.io/packages/DataConverter
 [dayle rees color schemes]: https://packagecontrol.io/packages/Dayle%20Rees%20Color%20Schemes

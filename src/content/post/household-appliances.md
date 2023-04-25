@@ -146,7 +146,7 @@ Rownenta SO9080 2000W @2014
 # Air Purifier
 
 [空氣清新機選購資訊 (2020 空氣清新機比較,推介及消委會最新評測) - 專題報導 - 香港格價網 Price.com.hk](https://www.price.com.hk/news.php?id=13292&sec_id=11)
-[【消委會】空氣清新機貴不代表好　消委會教你精明選擇及如何保養｜香港 01 ｜社會新聞](https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/236834/%E6%B6%88%E5%A7%94%E6%9C%83-%E7%A9%BA%E6%B0%A3%E6%B8%85%E6%96%B0%E6%A9%9F%E8%B2%B4%E4%B8%8D%E4%BB%A3%E8%A1%A8%E5%A5%BD-%E6%B6%88%E5%A7%94%E6%9C%83%E6%95%99%E4%BD%A0%E7%B2%BE%E6%98%8E%E9%81%B8%E6%93%87%E5%8F%8A%E5%A6%82%E4%BD%95%E4%BF%9D%E9%A4%8A)
+[【消委會】空氣清新機貴不代表好　消委會教你精明選擇及如何保養｜香港 01 ｜社會新聞](https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/236834/)
 [空气净化器已经过了飙数据的年代！ - 知乎](https://zhuanlan.zhihu.com/p/86723034)
 [空气净化器如何选？（15 款空气净化器推荐） - 知乎](https://zhuanlan.zhihu.com/p/46189463)
 [“国产空气净化器”良心 or 黑心？扒一扒净化成本！ - 知乎](https://zhuanlan.zhihu.com/p/27542789)
@@ -319,9 +319,12 @@ After 2020 there are official printers with ink tank, no more after market modif
 I've bought an Epson L4160.
 
 [教學系列｜電腦清潔 通用 Epson 噴頭清潔 完整教學 讓您省下 300-800 元維修費 廠商不願說的秘密大公開 正確清潔噴頭方法 電腦驅動清潔 EPSON 維修/印客屋/印表機維修-20211124P32 - YouTube](https://www.youtube.com/watch?v=aCB8ENL9GA4)
-[教學系列｜別亂聽強打噴頭再把機器用壞了！傳授正確清潔泡噴頭方式！保養＋清潔噴頭兩用清潔液！—EPSON 維修/印客屋/inkchipless/印表機維修-20220105P36 - YouTube](https://www.youtube.com/watch?v=7Fb8ULgKKfY) 清潔液
 
-[印表機再也不怕噴墨頭阻塞 達人傳授省錢又好用獨門撇步 - YouTube](https://www.youtube.com/watch?v=-LpovVAwe2Q)
+[教學系列｜別亂聽強打噴頭再把機器用壞了！傳授正確清潔泡噴頭方式！保養＋清潔噴頭兩用清潔液！—EPSON 維修/印客屋/inkchipless/印表機維修-20220105P36 - YouTube](https://www.youtube.com/watch?v=7Fb8ULgKKfY) 清潔液
+[印表機再也不怕噴墨頭阻塞 達人傳授省錢又好用獨門撇步 - YouTube](https://www.youtube.com/watch?v=-LpovVAwe2Q) 加水 😬
+[EPSON 新一代原廠大連供如何手動 DIY 清潔噴頭？ - YouTube](https://www.youtube.com/watch?v=HwsckSNP_Yg) 撥齒輪解卡榫
+
+[L4150 L4160 L6170 L6190 集墨棉廢墨盒更換 - YouTube](https://www.youtube.com/watch?v=je4Di23wBN8)
 
 # 投影仪
 

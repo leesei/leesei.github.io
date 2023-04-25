@@ -7,6 +7,6 @@ tags:
   - mali
 ---
 
-[Mali (GPU) - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Mali_%28GPU%29)
+[Mali (GPU) - Wikipedia, the free encyclopedia](<http://en.wikipedia.org/wiki/Mali_(GPU)>)
 
 [Tags: performance | ARM Connected Community](http://community.arm.com/groups/arm-mali-graphics/blog/tags#/?tags=performance)

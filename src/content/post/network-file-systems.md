@@ -40,7 +40,7 @@ SMB2 > AFP ~ CIFS
 [TrueNAS](https://www.truenas.com/)
 
 [FreeNAS is Dead Long Live TrueNAS CORE | ServeTheHome](https://www.servethehome.com/freenas-is-dead-long-live-truenas-core/)
-[TrueNAS Core will soon replace FreeNAS—and we test the beta – Ars Technica](https://arstechnica.com/gadgets/2020/07/an-easy-mode-for-zfs-we-test-the-truenas-core-12-0-beta/?amp=1)
+[TrueNAS Core will soon replace FreeNAS—and we test the beta – Ars Technica](https://arstechnica.com/gadgets/2020/07/an-easy-mode-for-zfs-we-test-the-truenas-core-12-0-beta/amp/)
 
 [What did you DO?? - The "Jellyfish Fryer" All-SSD Server - YouTube](https://www.youtube.com/watch?v=zeAce9pofvk)
 

@@ -1,8 +1,9 @@
 ---
-title: JavaScript Pipeline (archived)
-description: ""
+title: JavaScript Pipeline (Archives)
+description: Archived JavaScript Pipeline notes
 created: 2021-02-26
 tags:
+  - archived
   - bundler
   - web
   - web-dev
@@ -103,6 +104,51 @@ tags:
 
 ---
 
+[Browserify VS Webpack - JS Drama](http://blog.namangoel.com/browserify-vs-webpack-js-drama)
+[Webpack and Rollup: the same but different – webpack – Medium](https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c)
+[Comparing bundlers: Webpack, Rollup & Parcel – js@imaginea – Medium](https://medium.com/js-imaginea/comparing-bundlers-webpack-rollup-parcel-f8f5dc609cfd)
+
+# SnowPack
+
+> From Pika team, no longer maintained
+
+[Snowpack - The faster frontend build tool](https://www.snowpack.dev/)
+[A Future Without Webpack](https://www.pika.dev/blog/pika-web-a-future-without-webpack) Pika -> SnowPack
+[Snowpack vs. webpack - LogRocket Blog](https://blog.logrocket.com/snowpack-vs-webpack/) 2020-03
+[Vite vs. Snowpack: A comparison of frontend build tools - LogRocket Blog](https://blog.logrocket.com/vite-vs-snowpack-a-comparison-of-frontend-build-tools/)
+
+- ESM for dev
+- preconfigured Rollup build for production
+- different templates
+  [snowpack/create-snowpack-app/cli at main · snowpackjs/snowpack](https://github.com/snowpackjs/snowpack/tree/main/create-snowpack-app/cli)
+
+[Introducing: @pika/pack](https://www.pika.dev/blog/introducing-pika-pack/) multiple formats
+
+[Starting a New Project](https://www.snowpack.dev/tutorials/getting-started)
+[I'm going to give Snowpack a try now ❄️📦 - DEV Community](https://dev.to/thormeier/i-m-going-to-give-snowpack-a-try-now-3ohm)
+
+[Snowpack v3.0](https://www.snowpack.dev/posts/2021-01-13-snowpack-3-0)
+[Snowpack 3 Build Tool Further Streamlines Modern Front-End Development](https://www.infoq.com/news/2021/01/snowpack-3-stream-imports/)
+[Snowpack | CSS-Tricks](https://css-tricks.com/snowpack/)
+[Snowpack: An Alternative Build Tool to Webpack | by Nathan Sebhastian | Mar, 2021 | Bits and Pieces](https://blog.bitsrc.io/snowpack-an-alternative-build-tool-to-webpack-9e8da197071d)
+[Why and how to use Snowpack instead of webpack - LogRocket Blog](https://blog.logrocket.com/why-and-how-to-use-snowpack-instead-of-webpack/)
+
+[Skypack: search millions of open source JavaScript packages](https://www.skypack.dev/)
+[Streaming Imports](https://www.snowpack.dev/guides/streaming-imports) use browser package from CDN (Skypack)
+[Introducing: Pika CDN + Deno - DEV Community](https://dev.to/pika/introducing-pika-cdn-deno-p8b)
+
+[mrkldshv/snowpack-react-tailwind: React + Snowpack + Tailwindcss](https://github.com/mrkldshv/snowpack-react-tailwind)
+[Up and running with Snowpack and Svelte in seconds](https://daily.dev/blog/up-and-running-with-snowpack-and-svelte-in-seconds)
+
+[The Snowpack Plugin Catalog](https://www.snowpack.dev/plugins)
+[snowpack-plugin-wasm-pack - npm](https://www.npmjs.com/package/snowpack-plugin-wasm-pack)
+build-info like [untael/vue-cli-plugin-build-info: A plugin that allows you to see information about the current build.](https://github.com/untael/vue-cli-plugin-build-info)
+[Creating Your Own Plugin](https://www.snowpack.dev/guides/plugins)
+
+[snowpack lazy loading - Google Search](https://www.google.com/search?q=snowpack+lazy+loading)
+
+[Pika Dependency Management with Fred Schott - Software Engineering Daily](https://softwareengineeringdaily.com/2020/03/30/pika-dependency-management-with-fred-schott/)
+
 # Webpack
 
 Webpack does too much magic behind the scene.
@@ -117,7 +163,6 @@ Beware of articles for old version.
 [Learn Webpack - Best Webpack Tutorials (2020) | gitconnected](https://gitconnected.com/learn/webpack)
 [webpack for browserify users](http://webpack.github.io/docs/webpack-for-browserify-users.html)
 
-[webpack-contrib/awesome-webpack: A curated list of awesome Webpack resources, libraries and tools](https://github.com/webpack-contrib/awesome-webpack)
 [Lessons Learned From a Year of Fighting With Webpack and Babel](https://levelup.gitconnected.com/lessons-learned-from-a-year-of-fighting-with-webpack-and-babel-ce3b4b634c46)
 [A Complete Webpack Setup for React - The Startup - Medium](https://medium.com/swlh/a-complete-webpack-setup-for-react-e56a2edf78ae)
 
@@ -189,6 +234,13 @@ var config = {
   },
 };
 ```
+
+## Ecosystem
+
+[webpack-contrib/awesome-webpack: A curated list of awesome Webpack resources, libraries and tools](https://github.com/webpack-contrib/awesome-webpack)
+
+[Webpack Visualizer](https://chrisbateman.github.io/webpack-visualizer/)
+[webpack-contrib/webpack-bundle-analyzer: Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap](https://github.com/webpack-contrib/webpack-bundle-analyzer)
 
 ---
 
@@ -363,9 +415,6 @@ The ordering of transforms matters, run `babelify` first since transforms doesn'
 [substack/webworkify](https://github.com/substack/webworkify)
 
 ### Livereload
-
-> Use Browsersync instead of livereload
-> see `web-development.md#browsersync`
 
 [chrisdickinson/beefy](https://github.com/chrisdickinson/beefy)
 [B E E F Y | a tiny browserify server](http://didact.us/beefy/)

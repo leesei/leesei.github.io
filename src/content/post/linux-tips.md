@@ -14,9 +14,15 @@ These tips and tricks shall be promoted to its own post when the topic has accum
 
 [25 Free Books To Learn Linux For Free | It's FOSS](https://itsfoss.com/learn-linux-for-free/)
 [9 Free Linux Training Courses For Everyone | It's FOSS](https://itsfoss.com/free-linux-training-courses/)
+
 [Linux Newbie Guide: Shortcuts And Commands](http://www.unixguide.net/linux/linuxshortcuts.shtml)
-[Home | Linux Journey](https://linuxjourney.com/)
 [Homepage - howtouselinux](https://www.howtouselinux.com/)
+
+[Best Way to Learn Linux 🎮](https://blog.joberty.de/games-to-learn-linux/)
+[Home | Linux Journey](https://linuxjourney.com/)
+[OverTheWire: Wargames](https://overthewire.org/wargames/)
+[Linux Survival | Where learning Linux is easy](https://linuxsurvival.com/)
+[Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
 
 ## Check system install time
 

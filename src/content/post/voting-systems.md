@@ -181,4 +181,4 @@ The election to choose the nominee of president for the party
 ## Trust
 
 [End-to-End Verifiable Elections](https://freedom-to-tinker.com/2018/11/05/end-to-end-verifiable-elections/)
-[Blockchain-based elections would be a disaster for democracy – Ars Technica](https://arstechnica.com/tech-policy/2018/11/blockchain-based-elections-would-be-a-disaster-for-democracy/?amp=1)
+[Blockchain-based elections would be a disaster for democracy – Ars Technica](https://arstechnica.com/tech-policy/2018/11/blockchain-based-elections-would-be-a-disaster-for-democracy/amp/)

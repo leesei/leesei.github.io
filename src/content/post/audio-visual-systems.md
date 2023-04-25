@@ -317,10 +317,17 @@ Youtubbers and the Youtube Platform are becoming adults
 [command line - How do I merge two \*.srt files - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/2283/how-do-i-merge-two-srt-files)
 
 [Subtitles - download movie and TV Series subtitles](https://www.opensubtitles.org/en/search/subs)
+[字幕库(zimuku) -- 字幕下载网站](https://zmk.pw/)
+[分享交流下载字幕平台 - SubHD](https://subhd.tv/)
+[字幕下载网站 | A4k 字幕网](https://www.a4k.net/)
+[首页 - 射手网(伪) - assrt.net - 字幕下载，字幕组，中文字幕，美剧字幕，英剧字幕，双语字幕，新番字幕](https://assrt.net/)
 
 ## Digital Audio
 
 [DolbyIO/awesome-audio: A curated list of awesome audio technology resources for developers](https://github.com/DolbyIO/awesome-audio)
+
+[Nyquist rate - Wikiwand](https://www.wikiwand.com/en/Nyquist%20Rate) a sampling frequency of 2F is needed to reproduce an waveform of frequency F
+[Nyquist - Signalling at the Nyquist Rate and the Foundation of the Sampling Theory - YouTube](https://www.youtube.com/watch?v=BT_mWQjO-bo)
 
 [Digital Audio Basics: Audio Sample Rate and Bit Depth](https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html)
 [Dolby.io - High-fidelity Audio and Video For All](https://dolby.io/)

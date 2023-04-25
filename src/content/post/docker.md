@@ -4,10 +4,10 @@ description: ""
 created: 2014-12-11
 tags:
   - container
+  - dev/deploy
   - devops
   - docker
   - shell-tool
-  - dev/deploy
 ---
 
 Docker packs your apps and services in a portable container.
@@ -35,12 +35,14 @@ On the contrary, [boycott docker](http://www.boycottdocker.org/).
 [Introducing Two New Community Repositories: Docker Labs and Docker Community | Docker Blog](https://blog.docker.com/2016/05/docker-labs-docker-community/)
 [docker/community](https://github.com/docker/community)
 
+[Docker Crash Course for Absolute Beginners [NEW] - YouTube](https://www.youtube.com/watch?v=pg19Z8LL06w) 2023-02, 1:07:38
+[Docker Tutorial for Beginners [FULL COURSE in 3 Hours] - YouTube](https://www.youtube.com/watch?v=3c-iBn73dDE) 2020-10, 2:46:15
+
 [Introduction to Docker - YouTube](https://www.youtube.com/watch?v=Q5POuMHxW-0)
 [Docker at Spotify - YouTube](https://www.youtube.com/watch?v=pts6F00GFuU)
 [Docker 101 session - YouTube](https://www.youtube.com/watch?v=iYwPyjPhXXE)
 [Docker 101: Dockerizing Your Infrastructure - YouTube](https://www.youtube.com/watch?v=4W2YY-qBla0)
 [Docker fundamentals: basics, storage, networking - Introduction to Docker - YouTube](https://www.youtube.com/watch?v=UV3cw4QLJLs)
-[Docker Tutorial for Beginners [FULL COURSE in 3 Hours] - YouTube](https://www.youtube.com/watch?v=3c-iBn73dDE)
 [Docker - YouTube](https://www.youtube.com/playlist?list=PLot-YkcC7wZ91Qf-ErxdR03fxu076VUhe) Level Up
 
 Gist of Docker:
@@ -56,14 +58,14 @@ Docker overlay2 metacopy issue on Linux 4.19
 [Get Started | Docker Documentation](https://docs.docker.com/get-started/) all the way to Swarm, Stack and Deployment
 [Docker overview | Docker Documentation](https://docs.docker.com/engine/docker-overview/)
 [Engineering Archives - Docker Blog](https://blog.docker.com/category/engineering/)
-[A beginner’s guide to Docker — how to create your first Docker application](https://medium.freecodecamp.org/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f)
+[A beginner’s guide to Docker — how to create your first Docker application](https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f)
 [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/)
 [Docker Architecture](https://www.aquasec.com/wiki/plugins/servlet/mobile)
 [wsargent/docker-cheat-sheet: Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 [Docker 101 - how to get from creation to deployment](https://www.freecodecamp.org/news/docker-101-creation-to-deployment/amp/)
 [The Complete Docker Collection [Tutorials] - DZone Cloud](https://dzone.com/articles/the-complete-docker-collection-tutorials)
 [Docker Explained – An Introductory Guide To Docker - DZone Cloud](https://dzone.com/articles/docker-explained-an-introductory-guide-to-docker)
-[Demystifying Containers 101: A Deep Dive Into Container Technology for Beginners](https://medium.freecodecamp.org/demystifying-containers-101-a-deep-dive-into-container-technology-for-beginners-d7b60d8511c1)
+[Demystifying Containers 101: A Deep Dive Into Container Technology for Beginners](https://www.freecodecamp.org/news/demystifying-containers-101-a-deep-dive-into-container-technology-for-beginners-d7b60d8511c1)
 [5 part Docker series, beginner to master - DEV Community 👩‍💻👨‍💻](https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b) !important
 [Docker Tutorial for Beginners - Hashnode](https://hashnode.com/post/docker-tutorial-for-beginners-cjrj2hg5001s2ufs1nker9he2)
 [Tutorials – Docker » Linux Magazine](http://www.linux-magazine.com/Issues/2018/215/Tutorials-Docker)
@@ -78,7 +80,7 @@ Docker overlay2 metacopy issue on Linux 4.19
 [A Docker Tutorial for Beginners](https://docker-curriculum.com/)
 [Learn Docker by Building a Microservice](http://www.dwmkerr.com/learn-docker-by-building-a-microservice/)
 [Docker Tutorial: Containers, VMs, and Docker for Beginners - Level UpLevel Up](https://www.level-up.one/docker-tutorial-containers-vms/)
-[A Beginner-Friendly Introduction to Containers, VMs and Docker](https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b)
+[A Beginner-Friendly Introduction to Containers, VMs and Docker](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b)
 [Learn Enough Docker to be Useful – Towards Data Science](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b)
 [alexellis/HandsOnDocker: Get hands-on with Docker through a dozen self-paced and progressive labs.](https://github.com/alexellis/handsondocker/)
 [Docker Basics - Amazon EC2 Container Service](http://docs.aws.amazon.com/AmazonECS/latest/developerguide/docker-basics.html)
@@ -630,7 +632,7 @@ chmod a+x /usr/local/bin/docker-machine
 [Docker - Installation on Windows - GeeksforGeeks](https://www.geeksforgeeks.org/docker-installation-on-windows/) 2021-09
 [What you need to know about Docker in Windows | InfoWorld](http://www.infoworld.com/article/3163257/application-development/what-you-need-to-know-about-docker-in-windows.html)
 [Build and run your first Docker Windows Server container - Docker Blog](https://blog.docker.com/2016/09/build-your-first-docker-windows-server-container/) 2016-09
-[How to set up Docker and Windows Subsystem for Linux: A Love Story. 💚](https://medium.freecodecamp.org/how-to-set-up-docker-and-windows-subsystem-for-linux-a-love-story-35c856968991)
+[How to set up Docker and Windows Subsystem for Linux: A Love Story. 💚](https://www.freecodecamp.org/news/how-to-set-up-docker-and-windows-subsystem-for-linux-a-love-story-35c856968991)
 
 [Rancher Desktop](https://rancherdesktop.io/) Docker Desktop alternative
 
@@ -1053,7 +1055,7 @@ dotenv () {
 [bash - How to export variables from a file? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/79064/how-to-export-variables-from-a-file)
 [bash - Set environment variables from file - Stack Overflow](https://stackoverflow.com/questions/19331497/set-environment-variables-from-file)
 
-[How to implement runtime environment variables with create-react-app, Docker, and Nginx](https://medium.freecodecamp.org/how-to-implement-runtime-environment-variables-with-create-react-app-docker-and-nginx-7f9d42a91d70)
+[How to implement runtime environment variables with create-react-app, Docker, and Nginx](https://www.freecodecamp.org/news/how-to-implement-runtime-environment-variables-with-create-react-app-docker-and-nginx-7f9d42a91d70)
 
 If you want to load independent variable from different file (`docker secret` compatible):
 
@@ -1107,7 +1109,7 @@ done
 
 [Dockerfile reference ENTRYPOINT](https://docs.docker.com/engine/reference/builder/#entrypoint)
 [Dockerfile: ENTRYPOINT vs CMD - CenturyLink Cloud Developer Center](https://www.ctl.io/developers/blog/post/dockerfile-entrypoint-vs-cmd/)
-[Docker ENTRYPOINT & CMD: Dockerfile best practices – freeCodeCamp.org](https://medium.freecodecamp.org/docker-entrypoint-cmd-dockerfile-best-practices-abc591c30e21)
+[Docker ENTRYPOINT & CMD: Dockerfile best practices](https://www.freecodecamp.org/news/docker-entrypoint-cmd-dockerfile-best-practices-abc591c30e21)
 [docker - What is the difference between CMD and ENTRYPOINT in a Dockerfile? - Stack Overflow](http://stackoverflow.com/questions/21553353/what-is-the-difference-between-cmd-and-entrypoint-in-a-dockerfile)
 [Understanding Docker's CMD and ENTRYPOINT Instructions - via @codeship | via @codeship](https://blog.codeship.com/understanding-dockers-cmd-and-entrypoint-instructions/)
 
@@ -1172,7 +1174,7 @@ docker run -it --rm \
 
 Use user namespaces introduced in 1.10:
 
-> see `container-ecosystem.md#security`
+[[container-ecosystem#Security]]
 
 ### Init system
 

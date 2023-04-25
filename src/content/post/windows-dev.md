@@ -118,7 +118,7 @@ UWP uses .NET Native for release build, which compiles to machine code
 
 ### Sample apps/Toolkit
 
-> see `#winui`
+[[#WinUI]]
 
 [microsoft/Windows-universal-samples: API samples for the Universal Windows Platform.](https://github.com/microsoft/Windows-universal-samples)
 [microsoft/WindowsTemplateStudio: Windows Template Studio quickly builds a UWP app, using a wizard-based UI to turn your needs into a foundation of Windows 10 patterns and best practices.](https://github.com/Microsoft/WindowsTemplateStudio/)

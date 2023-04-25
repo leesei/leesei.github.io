@@ -273,6 +273,8 @@ Beam is introducing a framework through which APIs in languages other than Java 
 
 ### Polyglot Notebook
 
+[Polyglot Notebooks - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode)
+
 [Announcing Polyglot Notebooks! Multi-language notebooks in Visual Studio Code - .NET Blog](https://devblogs.microsoft.com/dotnet/announcing-polyglot-notebooks-harness-the-power-of-multilanguage-notebooks-in-visual-studio-code/)
 [Polyglot Notebooks fully released for VS Code, with support for multiple languages - not including Python • DEVCLASS](https://devclass.com/2023/03/17/polyglot-notebooks-fully-released-for-vs-code-with-support-for-multiple-languages-not-including-python/) history of Jupyter Notebook
 
@@ -383,6 +385,8 @@ Beam is introducing a framework through which APIs in languages other than Java 
 [rocketlaunchr/dataframe-go: DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration](https://github.com/rocketlaunchr/dataframe-go)
 
 ## Rust
+
+[Vector | A lightweight, ultra-fast tool for building observability pipelines](https://vector.dev/)
 
 ### Polars
 

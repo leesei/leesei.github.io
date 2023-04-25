@@ -26,6 +26,7 @@ tags:
 [Bus or Queue | Blog](https://ardalis.com/bus-or-queue/)
 [Publish-Subscribe Pattern vs Message Queues vs Request Response (Detailed Discussions with Examples) - YouTube](https://www.youtube.com/watch?v=DXTHb9TqJOs)
 [System Design Interview - Distributed Message Queue - YouTube](https://www.youtube.com/watch?v=iJLL-KPqBpM)
+[What is a Message Queue and When should you use Messaging Queue Systems Like RabbitMQ and Kafka - YouTube](https://www.youtube.com/watch?v=W4_aGb_MOls&t=2s)
 
 [goldsborough/ipc-bench: Benchmarks for Inter-Process-Communication Techniques](https://github.com/goldsborough/ipc-bench)
 
@@ -79,6 +80,9 @@ tags:
 [rabbitmq/internals: High level architecture overview](https://github.com/rabbitmq/internals)
 
 [RabbitMQ - Getting started with RabbitMQ](http://www.rabbitmq.com/getstarted.html)
+
+[RabbitMQ in 5 Minutes - YouTube](https://www.youtube.com/watch?v=deG25y_r6OY)
+[What is RabbitMQ? - YouTube](https://www.youtube.com/watch?v=7rkeORD4jSw)
 
 [RabbitMQ in Microservices - DZone Microservices](https://dzone.com/articles/rabbitmq-in-microservices)
 [RabbitMQ Crash Course - YouTube](https://www.youtube.com/watch?v=Cie5v59mrTg)

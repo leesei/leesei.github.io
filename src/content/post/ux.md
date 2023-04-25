@@ -318,6 +318,7 @@ Cross platform runtime
 [Creating Morphing Animations with CSS clip-path | by Mikael Ainalem | Bits and Pieces](https://blog.bitsrc.io/creating-morphing-animations-with-css-clip-path-3c3bf5e4335f)
 [Pure CSS to Make a Button “Shine” and Gently Change Colors Over Time | by Paige Niedringhaus | Bits and Pieces](https://blog.bitsrc.io/pure-css-to-make-a-button-shine-and-gently-change-colors-over-time-5b685d9c6a7e)
 
+[Responsive Animations for Every Screen Size and Device | CSS-Tricks - CSS-Tricks](https://css-tricks.com/responsive-animations-for-every-screen-size-and-device/)
 [How to use CSS ::before and ::after to create custom animations and transitions - LogRocket Blog](https://blog.logrocket.com/how-to-use-css-before-after-create-custom-animations-transitions/)
 
 ### FLIP (First, Last, Invert, and Play)
@@ -337,7 +338,7 @@ Cross platform runtime
 
 ### Libraries
 
-> see `react-js.md#animation`
+[[reactjs#Animation]]
 
 [Comparing JavaScript animation libraries - LogRocket Blog](https://blog.logrocket.com/comparing-javascript-animation-libraries/)
 
@@ -387,7 +388,13 @@ Cross platform runtime
 
 ## Internationalization (i18n) and Localization (l10n)
 
-[Introducing the JavaScript Internationalization API - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2014/12/introducing-the-javascript-internationalization-api/)
+[Internationalization and localization - Wikiwand](https://www.wikiwand.com/en/Internationalization_and_localization)
+
+A locale is usually defined by `{lang}_{country}` where `lang` is a two-letter language code (ISO 639-1), `country` is two-letter upper-case country code (ISO 3166-1 alpha-2)
+
+[[learn-to-code#Country Code]]
+[ISO 639-1 - Wikiwand](https://www.wikiwand.com/en/ISO_639-1) two-letter language code
+
 [Internationalization (I18n): A Simple Definition - DZone Java](https://dzone.com/articles/internationalization-i18n-a-simple-definition?fromrel=true)
 [How important is localization for your business? - PhraseApp Blog](https://phraseapp.com/blog/posts/how-important-is-localization-for-your-business/)
 
@@ -396,19 +403,20 @@ Cross platform runtime
 [Little Known Ways To Hassle-Free Software Localization - DZone Java](https://dzone.com/articles/little-known-ways-to-hassle-free-software-localiza)
 [5 Things Every Developer Should Know About Localization (l10n) - DZone Agile](https://dzone.com/articles/5-things-every-developer-should-know-about-localiz)
 
+[Introducing the JavaScript Internationalization API - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2014/12/introducing-the-javascript-internationalization-api/)
 [Internationalization - MDN Web Docs Glossary: Definitions of Web-related terms | MDN](https://developer.mozilla.org/en-US/docs/Glossary/Internationalization_and_localization)
 [Intl - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl)
 [Faster and more feature-rich internationalization APIs · V8](https://v8.dev/blog/intl)
 
 [Format.JS | Format.JS](https://formatjs.io/)
-[Introduction - react-i18next documentation](https://react.i18next.com/)
 [LinguiJS - Seamless internationalization in Javascript — LinguiJS documentation](https://lingui.js.org/)
-[amannn/next-intl: A minimal, but complete solution for managing translations, date, time and number formatting in Next.js apps. 🌐](https://github.com/amannn/next-intl)
 [lukeed/rosetta: A general purpose internationalization library in 292 bytes](https://github.com/lukeed/rosetta)
 [nanostores/i18n: A tiny (<500 bytes) i18n library for React/Preact/Vue/Svelte](https://github.com/nanostores/i18n/)
-[wojtekmaj/react-t: Simple translation module for React applications.](https://github.com/wojtekmaj/react-t)
-[I18n with React and i18next | DigitalOcean](https://www.digitalocean.com/community/tutorials/react-i18n-with-react-and-i18next)
 [whyboris/JSON-i18n-Editor: Translate your i18n JSONs for your website or app with this tool](https://github.com/whyboris/JSON-i18n-Editor)
+
+[[nextjs#i18n]]
+[Introduction - react-i18next documentation](https://react.i18next.com/)
+[wojtekmaj/react-t: Simple translation module for React applications.](https://github.com/wojtekmaj/react-t)
 
 [UTS #35: Unicode Locale Data Markup Language](https://www.unicode.org/reports/tr35/tr35-59/tr35.html)
 
@@ -420,10 +428,20 @@ BCP 47 = RFC 5646 + RFC 4647
 [Language tags in HTML and XML](https://www.w3.org/International/articles/language-tags/index.en)
 [Language Tags: Home](http://www.langtag.net/)
 
-[ISO 15897:1998](http://www.open-std.org/jtc1/sc22/wg20/docs/n610.pdf)
-[ISO 3166-1 - Wikiwand](https://www.wikiwand.com/en/ISO_3166-1)
-[ISO 3166-1 alpha-2 - Wikiwand](https://www.wikiwand.com/en/ISO_3166-1_alpha-2)
-[ISO 3166-1 alpha-3 - Wikiwand](https://www.wikiwand.com/en/ISO_3166-1_alpha-3)
+[ISO 15897:1998](http://www.open-std.org/jtc1/sc22/wg20/docs/n610.pdf) Procedures for registration of cultural elements
+
+### Gettext
+
+[Gettext - Wikiwand](https://www.wikiwand.com/en/Gettext)
+
+[GNU gettext utilities](https://www.gnu.org/software/gettext/manual/gettext.html)
+[xgettext Invocation (GNU gettext utilities)](https://www.gnu.org/savannah-checkouts/gnu/gettext/manual/html_node/xgettext-Invocation.html)
+[Plural Forms — Localization Guid documentation](https://docs.translatehouse.org/projects/localization-guide/en/latest/l10n/pluralforms.html)
+
+[PHP: The Right Way - i18n_l10n](https://phptherightway.com/#i18n_l10n)
+[PHP internationalization with gettext tutorial](https://lingohub.com/blog/2013/07/php-internationalization-with-gettext-tutorial/)
+
+[Features — Poedit](https://poedit.net/features)
 
 ### Windows
 
@@ -446,6 +464,8 @@ BCP 47 = RFC 5646 + RFC 4647
 [Web Accessibility 的重要性 | TechBridge 技術共筆部落格](https://blog.techbridge.cc/2019/10/13/web-accessibility-intro/)
 
 [Inaccessibility of CAPTCHA](https://www.w3.org/TR/turingtest/)
+
+[Solving the CSS layout and source order disconnect - Chrome Developers](https://developer.chrome.com/blog/reading-order/)
 
 [Accessibility tips and tricks - DEV Community 👩‍💻👨‍💻](https://dev.to/effingkay/accessibility-tips-and-tricks-20il)
 [Friday Frontend: Accessibility Inspector Edition - DEV Community 👩‍💻👨‍💻](https://dev.to/kball/friday-frontend-accessibility-inspector-edition-1l73)

@@ -3,9 +3,9 @@ title: Web Asset Optimization
 description: ""
 created: 2023-03-20
 tags:
+  - dev/deploy
   - web
   - web/deploy
-  - dev/deploy
 ---
 
 [[image-optimization]]

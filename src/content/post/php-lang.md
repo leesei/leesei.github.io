@@ -16,10 +16,15 @@ tags:
 [Modern tools for PHP developers - LogRocket Blog](https://blog.logrocket.com/modern-tools-php-developers/) > 7.0 in 2015, > 8.1 in 2022
 [security-checklist/php-security-check-list: PHP Security Check List [ EN ] 🌋 ☣️](https://github.com/security-checklist/php-security-check-list)
 
+[Create a PHP REST API : Write a RESTful API from Scratch using Plain, Object-Oriented PHP and MySQL - YouTube](https://www.youtube.com/watch?v=X51KOJKrofU)
+
 ## Commentary
 
 [Is PHP Dead? No! At Least Not According to PHP Usage Statistics](https://kinsta.com/blog/is-php-dead/)
 [PHP in decline: The rise and fall of a programming language - JAXenter](https://jaxenter.com/php-tiobe-sept-2019-162096.html)
+
+[Does PHP Suck?! - The Answer May Surprise You! - YouTube](https://www.youtube.com/watch?v=NdCkwiyIYLU)
+[Does PHP Suck? | Prime React - YouTube](https://www.youtube.com/watch?v=Hh72yCYlaww)
 
 ### the bad
 
@@ -68,6 +73,12 @@ echo phpversion('tidy');
 EOF
 ```
 
+## Version Manager
+
+### phpbrew
+
+[phpbrew/phpbrew: Brew & manage PHP versions in pure PHP at HOME](https://github.com/phpbrew/phpbrew)
+
 ## Dev Environment
 
 ### Homestead
@@ -90,6 +101,8 @@ EOF
 [PHPDocker.io - Generator](https://phpdocker.io/) !important, project creator
 [phpdockerio/php - Docker Image | Docker Hub](https://hub.docker.com/r/phpdockerio/php)
 [phpdocker-io/base-images: Base docker images for PHPDocker.io](https://github.com/phpdocker-io/base-images)
+
+[richarvey/nginx-php-fpm: Nginx and php-fpm for dockerhub builds](https://github.com/richarvey/nginx-php-fpm) PHP 8
 
 [jniltinho/caddy-php-fpm: Caddy v2 + PHP-FPM 7.2.x + Composer built on Ubuntu](https://github.com/jniltinho/caddy-php-fpm)
 [Yavin/docker-alpine-php-fpm: Docker image for php-fpm based on alpine linux that makes it small](https://github.com/Yavin/docker-alpine-php-fpm) 7.2, with extensions
@@ -116,8 +129,9 @@ Use `cgi-fcgi` for testing your PHP FPM endpoints.
 ## Learn
 
 [PHP: PHP Manual - Manual](https://www.php.net/manual/en/index.php)
-[PHP: The Right Way](https://www.phptherightway.com/)
+[PHP: The Right Way](https://www.phptherightway.com/) !important
 [learning-zone/php-basics: PHP Basics ( v8.x )](https://github.com/learning-zone/php-basics)
+[PHP Best Practices: a short, practical guide for common and confusing PHP tasks](https://phpbestpractices.org)
 
 [27 Best Tutorials to Learn PHP in 2021 (Free and Paid Resources)](https://kinsta.com/blog/php-tutorials/)
 [8 Awesome and Free PHP Books - Tutorialzine](https://tutorialzine.com/2018/03/8-awesome-and-free-php-books)
@@ -128,6 +142,8 @@ Use `cgi-fcgi` for testing your PHP FPM endpoints.
 [PHP Tutorial => Getting started with PHP](https://riptutorial.com/php) <= 7.1
 
 ## Basic
+
+[The Basics - PHP: The Right Way](https://phptherightway.com/pages/The-Basics.html)
 
 ```sh
 $ php -a
@@ -224,6 +240,28 @@ if ($_REQUEST["CONTENT_TYPE"] === "application/json") {
   // Converts it into a PHP object
   $data = json_decode($body);
 }
+```
+
+### Validation
+
+> works with strings
+
+[PHP: filter_var - Manual](https://www.php.net/manual/en/function.filter-var.php)
+[PHP: filter_var_array - Manual](https://www.php.net/manual/en/function.filter-var-array.php)
+[PHP: Types of filters - Manual](https://www.php.net/manual/en/filter.filters.php)
+
+## CLI
+
+[PHP: Command line usage - Manual](https://www.php.net/manual/en/features.commandline.php)
+
+```php
+<?php
+if ($argc !== 2) {
+    echo "Usage: php hello.php <name>" . PHP_EOL;
+    exit(1);
+}
+$name = $argv[1];
+echo "Hello, $name" . PHP_EOL;
 ```
 
 ## Linter/Style

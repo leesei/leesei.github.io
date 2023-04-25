@@ -323,7 +323,6 @@ Convergence of Envoy and eBPF, removing side car
 [Diving Into Istio 1.6 Certificate Rotation – Software Blog](https://blog.christianposta.com/diving-into-istio-1-6-certificate-rotation/)
 
 [What Is Istio and Why Does Kubernetes Need it? – The New Stack](https://thenewstack.io/what-is-istio-and-why-does-kubernetes-need-it/)
-[Get Started with Istio and Kubernetes | Istio | Katacoda](https://www.katacoda.com/courses/istio/deploy-istio-on-kubernetes)
 [A Crash Course For Running Istio – Namely Labs – Medium](https://medium.com/namely-labs/a-crash-course-for-running-istio-1c6125930715)
 [Easy microservices with Kubernetes and Istio ✅ ☸️ ⛵️ - DEV Community 👩‍💻👨‍💻](https://dev.to/sendilkumarn/easy-microservices-with-kubernetes-and-istio-3nl3)
 [Welcome to the service mesh era: Introducing a new Istio blog post series | Google Cloud Blog](https://cloud.google.com/blog/products/networking/welcome-to-the-service-mesh-era-introducing-a-new-istio-blog-post-series)
@@ -401,15 +400,17 @@ Replaces ESB
 ## Micro
 
 Go framework
+[Micro | Platform APIs built for developers](https://micro.dev/)
+[Getting Started with Micro | Micro](https://micro.dev/getting-started)
 
-[Micro - The simplest path to microservices](https://micro.mu/)
-[Go Micro | Micro](https://micro.mu/docs/go-micro.html)
-
-[The Micro Blog - Simplifying building and managing microservices](https://blog.micro.mu/2016/03/20/micro.html)
+[What is Micro? It’s just the future of microservices development. | Micro](https://micro.dev/blog/2019/11/18/what-is-micro.html)
 
 [Micro](https://github.com/micro) GitHub org
 [micro/micro: A microservice toolkit](https://github.com/micro/micro)
 An ecosystem which simplifies building and managing microservices
+
+[Universal Micro Services | M3O](https://m3o.com/)
+[Pricing | M3O](https://m3o.com/pricing)
 
 ## Micro from Vercel
 

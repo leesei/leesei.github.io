@@ -32,8 +32,8 @@ Notes on Android system and console tools available.
 ## Android is not Open
 
 [Here we go again: Android is, apparently, not open – OSnews](https://www.osnews.com/story/27565/here-we-go-again-android-is-apparently-not-open/)
-[Neither Microsoft, Nokia, nor anyone else should fork Android. It’s unforkable. – Ars Technica](https://arstechnica.com/information-technology/2014/02/neither-microsoft-nokia-nor-anyone-else-should-fork-android-its-unforkable/?amp=1)
-[New Android OEM licensing terms leak; “Open” comes with a lot of restrictions – Ars Technica](https://arstechnica.com/gadgets/2014/02/new-android-oem-licensing-terms-leak-open-comes-with-restrictions/?amp=1)
+[Neither Microsoft, Nokia, nor anyone else should fork Android. It’s unforkable. – Ars Technica](https://arstechnica.com/information-technology/2014/02/neither-microsoft-nokia-nor-anyone-else-should-fork-android-its-unforkable/amp/)
+[New Android OEM licensing terms leak; “Open” comes with a lot of restrictions – Ars Technica](https://arstechnica.com/gadgets/2014/02/new-android-oem-licensing-terms-leak-open-comes-with-restrictions/amp/)
 
 ## Android Apps
 

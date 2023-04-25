@@ -205,7 +205,7 @@ httrack -c8 [url]
 [Insomnia REST Client](https://insomnia.rest/) open source, also supports GraphQL
 [Use Insomnia for API Requests](https://apis.support.brightcove.com/general/use-insomnia-api-requests.html)
 
-[Thunder Client - Lightweight Rest API Client Extension for VS Code](https://www.thunderclient.com/) import OpenAPI
+[Thunder Client - Lightweight Rest API Client Extension for VS Code](https://www.thunderclient.com/) import OpenAPI, OAuth2 client
 [Thunder Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 
 [Hoppscotch - Open source API development ecosystem](https://hoppscotch.io/) open source port of Postman, originally Postwoman

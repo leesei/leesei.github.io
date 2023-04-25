@@ -26,6 +26,13 @@ behavioral economics: how psychological biases affects the decision we make
 [4 Steps To Achieve Your Goals : NPR](https://www.npr.org/2020/08/21/904680577/you-2-0-woop-woop)
 WOOP is a science-based mental strategy that people can use to find and fulfill their wishes, set preferences, and change their habits.
 
+## Information Cascades
+
+[Understanding Information Cascades in Financial Markets](https://www.investopedia.com/articles/investing/052715/guide-understanding-information-cascades.asp)
+2 urns with mostly blue and red balls, predict which is which given the results of people picking balls from the urn
+Public and Private believe
+Bubble, tilting
+
 ## Persuasion
 
 [How to Get Anyone to Do Anything - Freakonomics](https://freakonomics.com/podcast/how-to-get-anyone-to-do-anything-ep-463/)

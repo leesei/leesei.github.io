@@ -33,7 +33,7 @@ We choose to go to the moon in this decade and do the other things, not because 
 
 On July 20, 1969, Apollo 11 successfully sent Neil Armstrong and Buzz Aldrin to the surface of the room.
 
-[Greatest Leap | Ars Technica Video Search Results](<http://video.arstechnica.com/search/Greatest> Leap)
+[Greatest Leap | Ars Technica Video Search Results](<http://video.arstechnica.com/search/Greatest Leap>)
 
 [Why Apollo 10 Stopped Just 47,000 Feet From the Moon - The New York Times](https://www.nytimes.com/2019/05/13/science/apollo-10-moon-nasa.html)
 
@@ -42,6 +42,9 @@ On July 20, 1969, Apollo 11 successfully sent Neil Armstrong and Buzz Aldrin to 
 [How the Apollo Spacecraft works: Part 3 - YouTube](https://www.youtube.com/watch?v=qt_xoCXLXnI)
 [What's inside of the Lunar Module? - YouTube](https://www.youtube.com/watch?v=oX8-IXdABuc)
 
+[Apollo 13 - Wikiwand](https://www.wikiwand.com/en/Apollo_13)
+[History - The Flight of Apollo 13](https://www.hq.nasa.gov/office/pao/History/apollo/apo13hist.html)
+[Short History Of...: Apollo 13 on Apple Podcasts](https://podcasts.apple.com/us/podcast/apollo-13/id1579040306?i=1000549672287)
 [阿波羅 13 號：人類史上最不可思義的太空營救 - YouTube](https://www.youtube.com/watch?v=-MDrUCw0e6U)
 
 ### Saturn V

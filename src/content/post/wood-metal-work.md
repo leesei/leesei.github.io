@@ -19,6 +19,10 @@ tags:
 [What kind of screw should I use? Woodworking Basics - YouTube](https://www.youtube.com/watch?v=1GiYrFyNVUU)
 [Computer case screws - Wikiwand](https://www.wikiwand.com/en/Computer_case_screws)
 
+[機械 | 製造 | 加工 從零製作螺絲-剖析機械牙及自攻牙螺絲製作方法及相關加工製程介紹[中英字幕] - YouTube](https://www.youtube.com/watch?v=NOhg7gSFTEI)
+
+[The Incredible Strength of Bolted Joints - YouTube](https://www.youtube.com/watch?v=XLzTB4KLCxU)
+
 \#6-32 UNC thick thread
 [Unified Thread Standard - Wikiwand](https://www.wikiwand.com/en/Unified_Thread_Standard)
 

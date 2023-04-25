@@ -48,7 +48,7 @@ persistent connection to DB
 [Flask vs Django](http://stackabuse.com/flask-vs-django/)
 [Python web development: Django vs Flask in 2018 | Packt Hub](https://hub.packtpub.com/python-web-development-django-vs-flask-2018/)
 [Flask vs Django: What’s the Difference Between Flask & Django?](https://www.guru99.com/flask-vs-django.html)
-[Flask Vs Django: Which Python Framework to Choose? - InterviewBit](https://www.interviewbit.com/blog/flask-vs-django/?amp=1)
+[Flask Vs Django: Which Python Framework to Choose? - InterviewBit](https://www.interviewbit.com/blog/flask-vs-django/)
 [Django under the influence: a Flask developer’s perspective | Spiria](https://www.spiria.com/en/blog/web-development/django-vs-flask/)
 
 ## Django REST framework (DRF)

@@ -42,7 +42,8 @@ tags:
 政治是必然為惡, 民主只是低成本的體制來避免少數人犯下不能逆轉的惡
 
 [重思普選意義　建制 90 後如何看修例風波？｜香港 01 ｜周報](https://www.hk01.com/%E5%91%A8%E5%A0%B1/367941/)
-[非黃即藍？ 建制青年：與淺黃的差別只在「家國情懷」｜香港 01 ｜周報](https://www.hk01.com/%E5%91%A8%E5%A0%B1/368019/)[別妄想！僅靠《收回土地條例》，怎解決香港深層次結構矛盾？｜香港 01 ｜周報](https://www.hk01.com/%E5%91%A8%E5%A0%B1/375633/)
+[非黃即藍？ 建制青年：與淺黃的差別只在「家國情懷」｜香港 01 ｜周報](https://www.hk01.com/%E5%91%A8%E5%A0%B1/368019/)
+[別妄想！僅靠《收回土地條例》，怎解決香港深層次結構矛盾？｜香港 01 ｜周報](https://www.hk01.com/%E5%91%A8%E5%A0%B1/375633/)
 
 ### 和理非非
 
@@ -51,7 +52,6 @@ tags:
 [普羅之聲：反鬧爆文化的根源 - 太陽報](http://the-sun.on.cc/cnt/news/20130206/00418_009.html)
 
 [詳談非暴力原則 - YouTube](https://www.youtube.com/playlist?list=PLY_7sWk3djggvhQzYpLewKggGSDUAM_Z5)
-[非民主政體下抗爭之理據：前線為何衝？抗爭者為何阻人返工？為何要罷工？ |好青年荼毒室-哲學部](https://corrupttheyouth.net/2019/08/04/%e9%9d%9e%e6%b0%91%e4%b8%bb%e6%94%bf%e9%ab%94%e4%b8%8b%e6%8a%97%e7%88%ad%e4%b9%8b%e7%90%86%e6%93%9a%ef%bc%9a%e5%89%8d%e7%b7%9a%e7%82%ba%e4%bd%95%e8%a1%9d%ef%bc%9f%e6%8a%97%e7%88%ad%e8%80%85%e7%82%ba)
 
 ---
 
@@ -128,7 +128,7 @@ tags:
 [【光復的前奏：反送中運動與香港人覺醒的軌跡 Prelude to the Dawn: Anti-extradition Movement and the Awakening of Hong Kong】 - YouTube](https://www.youtube.com/watch?v=q3WdLkJS2yg)
 [【反送中回顧】香港反對逃犯條例修訂草案運動：6 月至 7 月｜ Hong Kong Antielab Movement: June to July - YouTube](https://www.youtube.com/watch?v=24CEIaq4ElE&list=PLSL9DWDSH9j1X0bRq1MifC2ttfeqaRwwr&index=1)
 [香港逃犯條例修訂爭議 一張圖看完全過程 - BBC News 中文](https://www.bbc.com/zhongwen/trad/chinese-news-48619305)
-[【逃犯條例】6.9 遊行到 7.28 西環衝突　和理非到催淚彈橫飛的 50 天｜香港 01 ｜社會新聞](https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/357490/%E9%80%83%E7%8A%AF%E6%A2%9D%E4%BE%8B-6-9%E9%81%8A%E8%A1%8C%E5%88%B07-28%E8%A5%BF%E7%92%B0%E8%A1%9D%E7%AA%81-%E5%92%8C%E7%90%86%E9%9D%9E%E5%88%B0%E5%82%AC%E6%B7%9A%E5%BD%88%E6%A9%AB%E9%A3%9B%E7%9A%8450%E5%A4%A9)
+[【逃犯條例】6.9 遊行到 7.28 西環衝突　和理非到催淚彈橫飛的 50 天｜香港 01 ｜社會新聞](https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/357490/)
 [抗爭半年記：香港人怎樣由初夏走到寒冬？ | 立場新聞•聞庫](https://collection.news/thestandnews/articles/106552)
 [反送中答問集 | 梁啟智 | 香港獨立媒體網](https://www.inmediahk.net/node/1064720)
 [一圖睇晒《逃犯條例》魔鬼細節 – 梁啟智 – Medium](https://medium.com/@leungkaichihk/%E4%B8%80%E5%9C%96%E7%9D%87%E6%99%92-%E9%80%83%E7%8A%AF%E6%A2%9D%E4%BE%8B-%E9%AD%94%E9%AC%BC%E7%B4%B0%E7%AF%80-70d14ecdbd8c)
@@ -148,5 +148,5 @@ tags:
 [鏗鏘集：時代革命？ - YouTube](https://www.youtube.com/watch?time_continue=2&v=hkfkXgrcc2Y)
 [A day of unprecedented violence in Hong Kong as protesters storm the Legislative Council and police fire tear gas | South China Morning Post](https://www.scmp.com/news/hong-kong/politics/article/3015620/protesters-ram-legislature-hong-kong-marks-tense-handover)
 [Two months on and nearly 2,000 rounds of tear gas later, what do Hong Kong’s extradition bill protesters really want? | South China Morning Post](https://www.scmp.com/news/hong-kong/politics/article/3022057/two-months-and-nearly-2000-rounds-tear-gas-later-what-do)
-[【818 集會】七月以來首個平靜周末　回看香港過去 49 日血與淚｜香港 01 ｜政情](https://www.hk01.com/%E6%94%BF%E6%83%85/365219/818%E9%9B%86%E6%9C%83-%E4%B8%83%E6%9C%88%E4%BB%A5%E4%BE%86%E9%A6%96%E5%80%8B%E5%B9%B3%E9%9D%9C%E5%91%A8%E6%9C%AB-%E5%9B%9E%E7%9C%8B%E9%A6%99%E6%B8%AF%E9%81%8E%E5%8E%BB49%E6%97%A5%E8%A1%80%E8%88%87%E6%B7%9A#media_id=3174419)
-[【逃犯條例】一聲遲來的「撤回」：經歷 88 天、至少 41 場遊行示威｜香港 01 ｜社會新聞](https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/371528/%E9%80%83%E7%8A%AF%E6%A2%9D%E4%BE%8B-%E4%B8%80%E8%81%B2%E9%81%B2%E4%BE%86%E7%9A%84-%E6%92%A4%E5%9B%9E-%E7%B6%93%E6%AD%B788%E5%A4%A9-%E8%87%B3%E5%B0%9141%E5%A0%B4%E9%81%8A%E8%A1%8C%E7%A4%BA%E5%A8%81)
+[【818 集會】七月以來首個平靜周末　回看香港過去 49 日血與淚｜香港 01 ｜政情](https://www.hk01.com/%E6%94%BF%E6%83%85/365219/)
+[【逃犯條例】一聲遲來的「撤回」：經歷 88 天、至少 41 場遊行示威｜香港 01 ｜社會新聞](https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/371528/)

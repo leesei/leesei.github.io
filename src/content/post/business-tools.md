@@ -30,8 +30,8 @@ yinst perl-email-outlook-message
 
 [How to Build an Effective Dev Portfolio](https://www.joshwcomeau.com/effective-portfolio/)
 
-[履歷｜漁翁撒網也應專業點！犯上 4 大寫 CV 毛病　印象分立即清零](https://www.hk01.com/%E8%81%B7%E5%A0%B4/814914/%E5%B1%A5%E6%AD%B7-%E6%BC%81%E7%BF%81%E6%92%92%E7%B6%B2%E4%B9%9F%E6%87%89%E5%B0%88%E6%A5%AD%E9%BB%9E-%E7%8A%AF%E4%B8%8A4%E5%A4%A7%E5%AF%ABcv%E6%AF%9B%E7%97%85-%E5%8D%B0%E8%B1%A1%E5%88%86%E7%AB%8B%E5%8D%B3%E6%B8%85%E9%9B%B6)
-[CV 要避免寫這 10 個字！專家：別用“responsible for”+35 個實用詞語](https://www.hk01.com/%E9%96%8B%E7%BD%90/811959/cv%E8%A6%81%E9%81%BF%E5%85%8D%E5%AF%AB%E9%80%9910%E5%80%8B%E5%AD%97-%E5%B0%88%E5%AE%B6-%E5%88%A5%E7%94%A8-responsible-for-35%E5%80%8B%E5%AF%A6%E7%94%A8%E8%A9%9E%E8%AA%9E)
+[履歷｜漁翁撒網也應專業點！犯上 4 大寫 CV 毛病　印象分立即清零](https://www.hk01.com/%E8%81%B7%E5%A0%B4/814914/)
+[CV 要避免寫這 10 個字！專家：別用“responsible for”+35 個實用詞語](https://www.hk01.com/%E9%96%8B%E7%BD%90/811959/)
 
 ## Kanban/Admin Panel/Dashboard
 
@@ -154,6 +154,20 @@ yinst perl-email-outlook-message
 [n8n.io - Free and Open Workflow Automation Tool](https://n8n.io/)
 [n8n-io/n8n: Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.](https://github.com/n8n-io/n8n)
 [n8n - an open source, self hosted info transform & workflow automation tool w/ drag and drop ease. - YouTube](https://www.youtube.com/watch?v=lpRsqiBc2JQ)
+
+## SMS Reception
+
+> could have used [[#Twilio]], but existing service is easier and cheaper
+
+[SMS-Activate - service for receiving virtual SMS online to virtual SIM](https://sms-activate.org/)
+
+History is public:
+[Receive SMS online | Temporary Phone Number | Russian Federation Phone Number](https://receive-smss.com/sms/79366199806/)
+[Receive SMS Online 24/7, Secure Verification - AnonymSMS](https://anonymsms.com/)
+[Receive SMS Online for FREE - UK,Romania,USA,Spain,France,Germany,Russia](https://receive-sms-online.info/)
+[Receive SMS Online | Temporary Phone Number | Receive SMS Free](https://receive-sms.cc/)
+[Receive SMS Online | Temporary and Disposable Phone Numbers](https://smsreceivefree.com/)
+[Temporary Phone Numbers | Receive SMS online](https://sms24.me/en)
 
 ## SMS Delivery
 

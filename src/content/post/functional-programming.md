@@ -18,7 +18,7 @@ tags:
 Contrast: [Imperative programming - Wikiwand](https://www.wikiwand.com/en/Imperative_programming)
 
 [Lambda calculus - Wikiwand](https://www.wikiwand.com/en/Lambda_calculus)
-[Monad (functional programming) - Wikiwand](https://www.wikiwand.com/en/Monad_%28functional_programming%29)
+[Monad (functional programming) - Wikiwand](<https://www.wikiwand.com/en/Monad_(functional_programming)>)
 [Why Functional Programming Matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf) (PDF)
 [What is functional reactive programming? | Packt Hub](https://hub.packtpub.com/what-is-functional-reactive-programming/)
 [What Making a Cup Of Tea Taught me about Functional Programming.](https://medium.com/@samuel.fare/what-making-a-cup-of-tea-taught-me-about-functional-programming-a09909679924) think declaratively`
@@ -396,7 +396,7 @@ playground
 ## Haskell
 
 [Haskell Language](https://www.haskell.org/)
-[Haskell (programming language) - Wikiwand](https://www.wikiwand.com/en/Haskell_%28programming_language%29)
+[Haskell (programming language) - Wikiwand](<https://www.wikiwand.com/en/Haskell_(programming_language)>)
 
 [HaskellWiki](https://wiki.haskell.org/Haskell)
 [Monad - HaskellWiki](https://wiki.haskell.org/Monad)
@@ -428,7 +428,7 @@ Haskell use monads to carry out side effects
 ## Erlang
 
 [Erlang Programming Language](http://www.erlang.org/)
-[Erlang (programming language) - Wikiwand](https://www.wikiwand.com/en/Erlang_%28programming_language%29)
+[Erlang (programming language) - Wikiwand](<https://www.wikiwand.com/en/Erlang_(programming_language)>)
 [Structure and Interpretation of Computer Programs](http://lfe.gitbooks.io/sicp/content/)
 [rvirding/lfe](https://github.com/rvirding/lfe)
 [Learn You Some Erlang for Great Good!](http://learnyousomeerlang.com/content)

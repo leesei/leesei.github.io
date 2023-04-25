@@ -6,11 +6,16 @@ tags:
   - trivia
 ---
 
-> `ventriloquism.md`
+[[ventriloquism]]
 
 [Talks – Destroy All Software](https://www.destroyallsoftware.com/talks)
 
 [【系列】雪櫃冷笑話 ☃️ - YouTube](https://www.youtube.com/playlist?list=PLCLioSzos2YvXiSIFcLXICwUniJBjZhWp)
+
+[cold bear - YouTube](https://www.youtube.com/@LenDanXiong)
+[謝浩凡 XieHaofan - YouTube](https://www.youtube.com/@xiehaofan)
+
+[十萬個冷笑話 第一季~第三季 - YouTube](https://www.youtube.com/playlist?list=PLi_OO5MFnSj0MU5UMCCLnIG1bqcia4HFh)
 
 寫輪眼 森川葵
 勇者義彦

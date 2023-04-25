@@ -60,6 +60,13 @@ Gigabyte G27Q 1440p 144Hz, G-Sync $2899
 
 [真机实测！从 2000 到 3 万块的显示器，谁更值得买？ | 13 款 Mini LED 显示器消费者报告 - YouTube](https://www.youtube.com/watch?v=j0PlFOgcLLw)
 
+[ROG 電競螢幕 OLED PG42UQ 開箱評測 優缺點｜ Swift PG48UQ、ASUS 顯示器、華碩電競、LG C2、OLED 電視、4K 電視、電腦螢幕、OLED 缺點、PTT 推薦｜科技狗 - YouTube](https://www.youtube.com/watch?v=TmJ2QUlObAw)
+
+[飛利浦電視 OLED707 開箱評測 優缺點心得｜ Android TV、OLED 電視、Philips 電視、LG C2、OLED 螢幕、OLED.EX、PC 螢幕、電視機、螢幕推薦｜科技狗 - YouTube](https://www.youtube.com/watch?v=CG55HvwwONs)
+OLED806 <-> LG G1
+OLED707 <-> LG C2
+OLED706 <-> LG C1
+
 ### LG Panel
 
 [What Is Nano IPS? [Simple Guide] - DisplayNinja](https://www.displayninja.com/what-is-nano-ips/)
@@ -224,6 +231,7 @@ Both Mini LED and OLED are transitional technologies
 There is limits on how small a MicroLED could be made (in 2022), so MicroLED is only seen on huge screens
 
 [三星、苹果路线之争？最新 QD-OLED 显示器评测及技术分析 - YouTube](https://www.youtube.com/watch?v=AhKf0jEGYBI)
+[【产品评测】QD-OLED 到底好在哪？三星 G85QB 显示器评测 - YouTube](https://www.youtube.com/watch?v=BuHPHkfJpo8)
 
 [Why is EVERYONE Buying this TV?? - YouTube](https://www.youtube.com/watch?v=5yuqcfp1xxI) 65"-75" is the mainstream in 2020
 [拿 4K 电视做电脑显示器用！显示器和电视到底有什么区别？！ - YouTube](https://www.youtube.com/watch?v=T-GjdJus-CI)

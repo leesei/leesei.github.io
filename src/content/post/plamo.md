@@ -485,7 +485,7 @@ White primer for metallic gold; Black primer for metallic silver
 [模型專用漆的種類及特性探討(琺瑯漆)](http://fantasyhouse0.tripod.com/HEADLINE-1.htm)
 [模型專用漆的種類及特性探討(洋乾漆)](http://fantasyhouse0.tripod.com/HEADLINE-3.htm)
 [模型專用漆的種類及特性探討(水性壓克力漆)](http://fantasyhouse0.tripod.com/HEADLINE-2.htm)
-[模型漆性小心得(並非全面性) @ 又在畫畫了! :: 痞客邦 ::](https://fiction2602.pixnet.net/blog/post/352746311-%E6%A8%A1%E5%9E%8B%E6%BC%86%E6%80%A7%E5%B0%8F%E5%BF%83%E5%BE%97%28%E4%B8%A6%E9%9D%9E%E5%85%A8%E9%9D%A2%E6%80%A7%29)
+[模型漆性小心得(並非全面性) @ 又在畫畫了! :: 痞客邦 ::](<https://fiction2602.pixnet.net/blog/post/352746311-%E6%A8%A1%E5%9E%8B%E6%BC%86%E6%80%A7%E5%B0%8F%E5%BF%83%E5%BE%97(%E4%B8%A6%E9%9D%9E%E5%85%A8%E9%9D%A2%E6%80%A7)>)
 
 [【AV 水性塗料/洗漆/效果液】-無道模型-淘寶網](https://shop401072383.world.taobao.com/category-1444395595.htm)
 [AV 水性油手油細節簡單教學](https://www.youtube.com/watch?v=wCoi3oA8wf4)

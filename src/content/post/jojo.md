@@ -4,12 +4,12 @@ description: ""
 created: 2016-12-22
 tags:
   - anime
-  - manga
   - jojo
+  - manga
 ---
 
 [JoJo 的奇妙冒險 - Wikiwand](https://www.wikiwand.com/zh-tw/JoJo的奇妙冒险)
-[JoJo 的奇妙冒險 (電視動畫) - Wikiwand](https://www.wikiwand.com/zh-tw/JoJo的奇妙冒險_%28電視動畫%29)
+[JoJo 的奇妙冒險 (電視動畫) - Wikiwand](<https://www.wikiwand.com/zh-tw/JoJo的奇妙冒險_(電視動畫)>)
 [JoJo 的奇妙冒險年表 - Wikiwand](https://www.wikiwand.com/zh-tw/JoJo的奇妙冒险年表)
 [JOJO - Komica wiki](https://wiki.komica.org/JOJO)
 

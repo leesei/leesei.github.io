@@ -193,6 +193,12 @@ Extensions:
 [Using Font Awesome 5 with React ― Scotch.io](https://scotch.io/tutorials/using-font-awesome-5-with-react)
 
 [React Icons](https://react-icons.github.io/react-icons/) @important
+
+[Iconify - all open source icons in one framework](https://iconify.design/)
+[Icon Sets • Iconify](https://icon-sets.iconify.design/)
+[Iconify Types](https://docs.iconify.design/types/)
+[iconify/iconify: Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG framework, React, Vue and Svelte components!](https://github.com/iconify/iconify)
+
 [Iconsax React](https://iconsax-react.pages.dev/)
 [Fork Awesome, a fork of the iconic font and CSS toolkit](https://forkaweso.me/Fork-Awesome/)
 [Line Awesome — Free Beautiful Icon Font](https://icons8.com/line-awesome)

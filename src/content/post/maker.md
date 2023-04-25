@@ -99,8 +99,17 @@ PETG filament is harder
 
 ## Crystal Radio
 
+Low frequency waveforms are modulated with higher frequency carrier wave to reduce the size of antennae
+[FM 和 AM 是啥意思？收音机是咋收到音乐的？李永乐老师讲广播信号传输 - YouTube](https://www.youtube.com/watch?v=ckAflJSt5-4)
+
 [How a Crystal Radio Works - YouTube](https://www.youtube.com/watch?v=0-PParSmwtE)
 [Crystal Radios - YouTube](https://www.youtube.com/playlist?list=PLFsZmHTZL-zlSltC6ELZW9PK4ks7wgPRz)
+[深入理解收音机的原理！极其简单！小孩也能看懂！矿石收音机的工作原理 - YouTube](https://www.youtube.com/watch?v=d_5F-iUXSVY)
+[AM Radio Transmitter – bitluni's lab](http://bitluni.net/am-radio-transmitter/)
+
+[矿石收音机（一）原理及制作 - YouTube](https://www.youtube.com/watch?v=LOscWymmm8Y)
+[矿石收音机（二）制作要点及注意事项 - YouTube](https://www.youtube.com/watch?v=rvaUH0Zd2NY)
+[调幅（AM）发射机，用二极管实现幅度调制 - YouTube](https://www.youtube.com/watch?v=k1uYluW9x0I)
 
 [Radio Hacks | Hackaday](https://hackaday.com/category/radio-hacks/)
 [FM Radio From Scratch Using An Arduino | Hackaday](https://hackaday.com/2020/12/04/fm-radio-from-scratch-using-an-arduino/)

@@ -12,11 +12,21 @@ tags:
 The requirements for computer graphics stems from rendering games.
 See [[computer-graphics-hardware]] for the hardware side.
 
+## Rendering
+
 [How Rendering Graphics Works in Games! - YouTube](https://www.youtube.com/watch?v=cvcAjgMUPUA)
 
-[Jasper - YouTube](https://www.youtube.com/@JasperRLZ)
+[Jasper - YouTube](https://www.youtube.com/@JasperRLZ) mostly on console rendering engine
+[noclip](https://noclip.website/#) Nintendo game assets
+[How scrolling textures gave Super Mario Galaxy 2 its charm - YouTube](https://www.youtube.com/watch?v=8rCRsOLiO7k)
 [How The Wind Waker Redefined Cel Shading - YouTube](https://www.youtube.com/watch?v=mnxs6CR6Zrk)
 [Why Did Link's Cel Shading Disappear? - YouTube](https://www.youtube.com/watch?v=By7qcgaqGI4)
+
+Deferred Lighting/Deferred Shading
+
+1. unlit rendering pass
+   outputs 2D image and normal buffer/normal map (left/right, up/down, front/back normals encoded in each of RGB channels)
+2. lighting pass
 
 ## The 8-bit Guy
 

@@ -220,12 +220,17 @@ ESP32 with Bluetooth Classic may need a expand to the partition
 [[micro-bit#MicroPython]]
 [[espressif#MicroPython]]
 
+[MicroPython - Python for microcontrollers](https://micropython.org/)
+[Overview — MicroPython documentation](https://docs.micropython.org/en/latest/index.html)
+[MicroPython - Wikiwand](https://www.wikiwand.com/en/MicroPython)
+[MicroPython - Adafruit Learning System](https://learn.adafruit.com/category/micropython?view=all)
+
+[micropython/micropython: MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems](https://github.com/micropython/micropython)
 [Code With Mu](https://codewith.mu/en/) offline MicroPython editor
 
-[MicroPython - Python for microcontrollers](http://micropython.org/)
-[Overview — MicroPython documentation](https://docs.micropython.org/en/latest/index.html)
-
 [MicroPython Basics: What is MicroPython?](https://www.digikey.hk/en/maker/projects/micropython-basics-what-is-micropython/1f60afd88e6b44c0beb0784063f664fc)
+
+[jczic/MicroWebSrv: A micro HTTP Web server that supports WebSockets, html/python language templating and routing handlers, for MicroPython (used on Pycom modules & ESP32)](https://github.com/jczic/MicroWebSrv)
 
 ### CircuitPython
 
@@ -246,7 +251,7 @@ Adafruit's open source derivative of MicroPython
 [adafruit/Adafruit_CircuitPython_Bundle: A bundle of useful CircuitPython libraries ready to use from the filesystem.](https://github.com/adafruit/Adafruit_CircuitPython_Bundle)
 [adafruit/Adafruit_Blinka: Add CircuitPython hardware API and libraries to MicroPython & CPython devices](https://github.com/adafruit/Adafruit_Blinka)
 
-[CircuitPython in 2019 #circuitpython2019 « Adafruit Industries – Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/2019/01/28/circuitpython-in-2019/)
+[CircuitPython in 2019 « Adafruit Industries – Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/2019/01/28/circuitpython-in-2019/)
 [Overview | Welcome to CircuitPython! | Adafruit Learning System](https://learn.adafruit.com/welcome-to-circuitpython/overview)
 
 [Thea Flowers - Lessons learned from building a custom CircuitPython board](https://blog.thea.codes/lessons-learned-from-building-a-circuitpython-board/)
@@ -364,6 +369,8 @@ HC-05/HC-06/HC-10 are common Wifi modules using ESP8266
 [LPWAN](https://www.wikiwand.com/en/LPWAN): Low Power Wide Area Network
 [LoRa](https://www.wikiwand.com/en/LoRa): Long Range
 [6LoWPAN](https://www.wikiwand.com/en/6LoWPAN): IPv6 over Low-Power Wireless Personal Area Networks
+
+[How LoRa Modulation really works - long range communication using chirps - YouTube](https://www.youtube.com/watch?v=jHWepP1ZWTk) LoRa can transmit signal at SNR of -20dB at 1% error rate
 
 [Low Power Wide Area Network Personal Area Networks | Microchip Technology Inc. | Microchip Technology Inc.](http://www.microchip.com/pagehandler/en-us/technology/personalareanetworks/technology/lora.html)
 
@@ -613,6 +620,8 @@ RP2040
 [Raspberry Pi Pico: Tutorials, Pinout, Everything You Need to Know | Tom's Hardware](https://www.tomshardware.com/amp/news/raspberry-pi-pico-tutorials-pinout-everything-you-need-to-know)
 
 [The new Raspberry Pi Pico W is just $6 - YouTube](https://www.youtube.com/watch?v=VEWdxvIphnI)
+
+[How to Use VSCode with Raspberry Pi Pico W and MicroPython - YouTube](https://www.youtube.com/watch?v=O6lkYTfcMEg)
 
 ## AllWinner
 

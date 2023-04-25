@@ -115,6 +115,9 @@ tags:
 
 ## Navigation
 
+[History of longitude - Wikiwand](https://www.wikiwand.com/en/History_of_longitude)long
+[Longitude Act 1714 - Wikiwand](https://www.wikiwand.com/en/Longitude_Act)
+
 [The Longitude Problem (Maritime History) - Podcast](http://www.cmpod.net/marine-navigation-scilly-islands-disaster/)
 [古航海定位神器 - 六分儀！至今仍在使用！現代船舶備用的定位裝置 - YouTube](https://www.youtube.com/watch?v=HEjQ1RslEqg)
 [List of geocoding systems - Wikiwand](https://www.wikiwand.com/en/List_of_geocoding_systems)

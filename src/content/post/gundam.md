@@ -38,7 +38,7 @@ tags:
 [阿蛋哥 Z - YouTube](https://www.youtube.com/channel/UCU0VHH6OsoSyrfZxsWUhAmQ)
 [阿蛋哥講高達的个人空间\_哔哩哔哩\_bilibili](https://space.bilibili.com/1029093021?from=search)
 
-[逆襲的火力君 - YouTube](https://www.youtube.com/channel/UCP4_kV9OjIulMwKzAOxoJXw)
+[逆襲的火力君 - YouTube](https://www.youtube.com/@Gundam_Home)
 [【高達·一年戰爭】高達戰史：30 分鐘看完，一場死亡人數 60 億的戰爭，一切高達故事的原點，人類史上規模最大的戰爭，一年戰爭簡史 - YouTube](https://www.youtube.com/watch?v=9-HffgPWFjI)
 [戰爭中最美麗的愛情，二十分鐘看完《機動戰士高達 08MS 小隊》，史上最寫實的高達作品 - YouTube](https://www.youtube.com/watch?v=gZGI4FCPYnU)
 [【高達·星塵作戰】一口氣看完高達 0083：星塵的回憶被銷毀的高達開發計劃，史上最諷刺的高達，聯邦與吉翁的比爛大賽，一口氣看完高達 0083：星塵的回憶 - YouTube](https://www.youtube.com/watch?v=tJYud0vuLUI)

@@ -239,7 +239,7 @@ It began with the Battle of the Coral Sea, the first air carrier battle in human
 
 ## Eastern Front
 
-[Eastern Front (World War II) - Wikiwand](https://www.wikiwand.com/en/Eastern_Front_%28World_War_II%29)
+[Eastern Front (World War II) - Wikiwand](<https://www.wikiwand.com/en/Eastern_Front_(World_War_II)>)
 
 USSR joined force in the invasion of Poland early in WW2.
 

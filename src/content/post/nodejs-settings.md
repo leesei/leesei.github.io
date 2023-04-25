@@ -531,14 +531,6 @@ nodemon --watch 'src/**/*.ts' --exec node --inspect -r ts-node/register src/serv
 { "ext": "html,css,js,cjs,mjs,json,pug" }
 ```
 
-## Image manipulation
-
-[sharp - High performance Node.js image processing](https://sharp.pixelplumbing.com/) is VIPS's Node binding
-[lovell/sharp: High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.](https://github.com/lovell/sharp)
-[How To Process Images in Node.js with Sharp | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-process-images-in-node-js-with-sharp)
-
-[jimp-dev/jimp: An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.](https://github.com/jimp-dev/jimp)
-
 ## Database/ORM
 
 [[prisma]]
@@ -550,7 +542,7 @@ High Level: ORM
 
 [Top 11 Node.js ORMs, Query Builders & Database Libraries in 2021](https://www.prisma.io/dataguide/database-tools/top-nodejs-orms-query-builders-and-database-libraries)
 [The best TypeScript ORMs - LogRocket Blog](https://blog.logrocket.com/best-typescript-orms/)
-[Which JavaScript ORM should you be using in 2018? – freeCodeCamp.org](https://medium.freecodecamp.org/a-comparison-of-the-top-orms-for-2018-19c4feeaa5f)
+[Which JavaScript ORM should you be using in 2018?](https://www.freecodecamp.org/news/a-comparison-of-the-top-orms-for-2018-19c4feeaa5f)
 [From TypeORM to LoopBack: A Retrospective – Hacker Noon](https://hackernoon.com/from-typeorm-to-loopback-a-retrospective-188ea18527a2)
 
 [MikroORM: TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. | MikroORM](https://mikro-orm.io/)
@@ -562,8 +554,16 @@ High Level: ORM
 [Bookshelf.js](http://bookshelfjs.org/) built on Knex
 [Objection.js](https://vincit.github.io/objection.js/) built on Knex
 
+[kysely-org/kysely: A type-safe typescript SQL query builder](https://github.com/kysely-org/kysely)
+
 [typeorm/typeorm: ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.](https://github.com/typeorm/typeorm)
 [Setting up a basic TypeORM starter](https://daily-dev-tips.com/posts/setting-up-a-basic-typeorm-starter/)
+
+[PlanetScale serverless driver for JavaScript — PlanetScale Documentation](https://planetscale.com/docs/tutorials/planetscale-serverless-driver)
+[planetscale/database-js: A Fetch API-compatible PlanetScale database driver](https://github.com/planetscale/database-js) fixes Prisma's slow cold start problem
+[Let's Talk About Database Performance - YouTube](https://www.youtube.com/watch?v=3P7jnolWfHw)
+
+[drizzle-team/drizzle-orm: TypeScript ORM for SQL](https://github.com/drizzle-team/drizzle-orm) Prisma alternative
 
 ## App Frameworks
 
@@ -592,6 +592,12 @@ LoopBack is based on Express
 [LoopBack 4 | LoopBack Documentation](https://loopback.io/doc/en/lb4/index.html) OpenAPI, ES2017, TypeScript
 
 [Using three of the top NodeJS Web REST API Frameworks](https://medium.com/swlh/using-three-of-the-top-nodejs-web-rest-api-frameworks-d1d6dac021ee)
+
+### Bling
+
+> endpoint generator for frontend projects
+
+[TanStack/bling: 💍 Framework agnostic transpilation utilities for client/server RPCs, env isolation, islands, module splitting, and more.](https://github.com/TanStack/bling)
 
 ### Marko
 

@@ -1,5 +1,5 @@
 ---
-title: Forza
+title: Forza/Forza Horizon
 description: ""
 created: 2020-05-12
 tags:

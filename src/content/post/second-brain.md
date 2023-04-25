@@ -9,9 +9,12 @@ featured: true
 
 [Personal knowledge management - Wikiwand](https://www.wikiwand.com/en/Personal_knowledge_management)
 [Personal Knowledge Management (PKM)](https://www.nozdrenkov.com/pkm/)
+[🌱 My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden)
 
 [Visual PKM - YouTube](https://www.youtube.com/playlist?list=PL6mqgtMZ4NP1emKF-bWvgS5vBD0_NM0v4)
 [学习方法 - 如何构造高效的知识管理系统 ｜ 为什么学了就忘 ｜把书读透的读书方法 ｜ 高效学习方法 - YouTube](https://www.youtube.com/watch?v=5Yn4-aSggI0)
+
+[amirgamil/apollo: A Unix-style personal search engine and web crawler for your digital footprint.](https://github.com/amirgamil/apollo)
 
 My requirements:
 
@@ -90,6 +93,15 @@ Hierarchy
 [Visualize your location index with Obsidian Map View - YouTube](https://www.youtube.com/watch?v=g9QOHaAqhXc)
 [How to organize your notes in Obsidian // The LATCH method - YouTube](https://www.youtube.com/watch?v=vS-b_RUtL1A)
 
+### PARA
+
+[如何儲存你的檔案，才能快速找到它們？ | T 客邦](https://www.techbang.com/posts/100481-how-do-i-store-files-so-i-can-find-them-quickly)
+PARA: Projects （專案）、Areas （領域）、Resources （資源）、Archives （檔案）
+專案：一系列與目標相關的任務，有一個截止日期。比如 「完成一個應用程式的模型」，「訂定出遊計畫」，「寫一篇部落客文章」，「在會議上演講」。
+領域：一個活動範圍或類別，比如 「健康」，「財務」，「職業發展」，「汽車」，「產品開發」。
+資源：一個持續關注的話題或主題，比如 「習慣養成」，「音樂」，「網路行銷」，「室內設計」，等等。
+檔案：儲存的資訊。在這裡強烈建議無紙化儲存，像是把紙本帳單、發票掃描成電子檔案，這樣方便查找，也可以將其儲存網路上。
+
 ## App Comparison
 
 [Notion vs Roam vs Obsidian | ULTIMATE Note-taking App? For Students - YouTube](https://www.youtube.com/watch?v=SyV4xez9Lp0)
@@ -112,6 +124,7 @@ Hierarchy
 
 [天哪我給大腦開外掛了！它完全顛覆了大家對筆記軟體的認知 | Obsidian 教學 - YouTube](https://www.youtube.com/watch?v=Egj_DdGUIDI)
 
+[Obsidian As A Second Brain: The ULTIMATE Tutorial - YouTube](https://www.youtube.com/watch?v=WqKluXIra70) 2 hours
 [Watch This to Finally Understand The Zettelkasten Method in Obsidian - YouTube](https://www.youtube.com/watch?v=wvAZ9-hmWQU)
 [How to get started with Obsidian in 2022 - from scratch! - YouTube](https://www.youtube.com/watch?v=OUrOfIqvGS4)
 [How to organize your notes in Obsidian // The LATCH method - YouTube](https://www.youtube.com/watch?v=vS-b_RUtL1A)

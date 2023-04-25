@@ -49,3 +49,8 @@ tags:
 
 [react-chartjs-2 | react-chartjs-2](https://react-chartjs-2.netlify.app/)
 [How to build a marketing dashboard (twitter & youtube) with React - DEV Community](https://dev.to/canonic/how-to-build-a-twitter-youtube-analytics-dashboard-with-react-2p2d)
+
+## Flot
+
+[Flot: Attractive JavaScript plotting for jQuery](https://www.flotcharts.org/)
+[flot/flot: Attractive JavaScript charts for jQuery](https://github.com/flot/flot)

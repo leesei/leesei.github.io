@@ -14,6 +14,7 @@ tags:
 
 [Your Pitch to VCs is More Than a Deck - ReadWrite](https://readwrite.com/2019/07/19/your-pitch-to-vcs-is-more-than-a-deck/)
 [Giving a Presentation with Perfect UI/UX Design - ReadWrite](https://readwrite.com/2020/05/16/giving-a-presentation-with-perfect-ui-ux-design/amp/)
+[30 Things I Hate About Your Game Pitch - YouTube](https://www.youtube.com/watch?v=4LTtr45y7P0)
 
 [The rectangle behind you — Medium](https://medium.com/the-rectangle-behind-you/the-rectangle-behind-you-103179fcfc32#.w0fj0lp4w) a series of articles about interactive presentations by Marcin Wichary, Google Developer
 [Presentation Skills Considered Harmful — Serious Pony](http://seriouspony.com/blog/2013/10/4/presentation-skills-considered-harmful)

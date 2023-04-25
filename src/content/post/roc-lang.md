@@ -1,6 +1,6 @@
 ---
 title: The Roc Programming Language
-description: "A fast, friendly, functional language"
+description: A fast, friendly, functional language
 created: 2023-03-25
 tags:
   - comp.lang

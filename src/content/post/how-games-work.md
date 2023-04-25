@@ -40,8 +40,13 @@ tags:
 
 [Game Development Tutorials](http://www.lessmilk.com/)
 [GameFromScratch.com – Game Development News, Tutorials and More](https://gamefromscratch.com/)
-[BorisTheBrave.Com](https://www.boristhebrave.com/)
+[Gamefromscratch - YouTube](https://www.youtube.com/@gamefromscratch)
+[Game Dev Guide - YouTube](https://www.youtube.com/@GameDevGuide) mostly on Unity
 
+[BorisTheBrave.Com](https://www.boristhebrave.com/)
+[Learn .NET Game Development | Free tutorials, courses, videos, and more](https://dotnet.microsoft.com/learn/games)
+
+[Game Developer](https://www.gamedeveloper.com/)
 [Game Dev News, Tutorials & Interviews - The GameAnalytics Blog](https://gameanalytics.com/blog)
 [The road to video game hell • Eurogamer.net](https://www.eurogamer.net/articles/2018-07-23-the-road-to-video-game-hell)
 [Game development resources - The MagPi MagazineThe MagPi Magazine](https://www.raspberrypi.org/magpi/game-development-resources-raspberry-pi/)
@@ -51,19 +56,6 @@ tags:
 [Game Programming Tutorials - YouTube](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmqFs83T4W-FZQ9kK983tZC) freeCodeCamp.org
 [Table Flip Games - YouTube](https://www.youtube.com/channel/UCjG7y5Iw4TLHcK6ckuqUj_A)
 [Retro Game Mechanics Explained - YouTube](https://www.youtube.com/channel/UCwRqWnW5ZkVaP_lZF7caZ-g)
-
-## Rendering
-
-[How Rendering Graphics Works in Games! - YouTube](https://www.youtube.com/watch?v=cvcAjgMUPUA)
-
-[How The Wind Waker Redefined Cel Shading - YouTube](https://www.youtube.com/watch?v=mnxs6CR6Zrk)
-[Why Did Link's Cel Shading Disappear? - YouTube](https://www.youtube.com/watch?v=By7qcgaqGI4)
-
-Deferred Lighting/Deferred Shading
-
-1. unlit rendering pass
-   outputs 2D image and normal buffer/normal map (left/right, up/down, front/back normals encoded in each of RGB channels)
-2. lighting pass
 
 ## Game Design
 
@@ -81,16 +73,16 @@ Deferred Lighting/Deferred Shading
 [Gaming For A Non-Gamer - YouTube](https://www.youtube.com/playlist?list=PLordXx8iNEyStcX_WzqM0JCpiJYgqhinc) Razbuten and the lady he lives with
 [Game Maker's Toolkit - YouTube](https://www.youtube.com/user/McBacon1337)
 
-[noclip](https://noclip.website/#) Nintendo game assets
-[How scrolling textures gave Super Mario Galaxy 2 its charm - YouTube](https://www.youtube.com/watch?v=8rCRsOLiO7k)
-
 [The Power of Invisible Choices - YouTube](https://www.youtube.com/watch?v=6HZuSzlN2eI)
 
 [Design Doc - YouTube](https://www.youtube.com/c/DesignDoc)
 [Good Design, Bad Design - YouTube](https://www.youtube.com/playlist?list=PL8K0_g1wdQeoxta9RyvTK-DnhU4jI2QJN)
 
-[Why Breath of the Wild’s Great Plateau Is Gaming’s Greatest Tutorial | Art of the Level - YouTube](https://www.youtube.com/watch?v=txm_Gc3_EQQ)
 [10 Illusions Video Games Create to LIE TO YOU - YouTube](https://www.youtube.com/watch?v=kxpGx3XR_vU)
+[10 Things Video Games Use To TRICK YOUR BRAIN - YouTube](https://www.youtube.com/watch?v=2aXOhGYrLu8)
+[10 HACKS Game Makers Use To TRICK YOUR BRAIN - YouTube](https://www.youtube.com/watch?v=gPly_t4aKKY)
+
+[Why Breath of the Wild’s Great Plateau Is Gaming’s Greatest Tutorial | Art of the Level - YouTube](https://www.youtube.com/watch?v=txm_Gc3_EQQ)
 [How Designers Engineer Luck Into Video Games - Nautilus Magazine - Medium](https://medium.com/nautilus-magazine/how-designers-engineer-luck-into-video-games-7d4dea1767b2)
 [Watch 30 People Play Super Mario Bros. Level 1-1 | Ars Technica Video | CNE](https://arstechnica.com/video/watch/30-people-play-super-mario-bros-level-1-1)
 [How to Keep Players Engaged (Without Being Evil) - YouTube](https://www.youtube.com/watch?v=hbzGO_Qonu0)

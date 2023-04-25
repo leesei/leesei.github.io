@@ -38,6 +38,7 @@ tags:
 
 [中国鬼怪排行榜 - YouTube](https://www.youtube.com/playlist?list=PLK5xZu3SLGqbQp4zFirGgfJ3VeC_bru3A)
 [华夏众神 - YouTube](https://www.youtube.com/playlist?list=PLK5xZu3SLGqb8_2GuJ_wWcKFHcl-bFLRQ)
+[大臉怪爸爸 - YouTube](https://www.youtube.com/%40user-bv2mc2ck7h/featured)
 [老梁：中国神话体系 - YouTube](https://www.youtube.com/watch?v=lfmry8zWJ8M&t=0s)
 [中國古代全都是外星人，而且和蘇美神話居然是一樣的 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=nPnNQNCoC9M)
 
@@ -144,6 +145,23 @@ Tengu Media, 炎帝為黃河農耕民族 (仰韶, 大地灣, 老官台文化, �
 
 [27 分鐘講完十二泰坦與衆神，超越你想象的希臘神話 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=Yyzb2uvihp4)
 [Roman Religion Before the Greeks - Ancient History DOCUMENTARY - YouTube](https://www.youtube.com/watch?v=U7WPREqzDmE)
+
+Greek Roman
+Aphrodite Venus
+Ares Mars
+Artemis Diana
+Athena Minerva
+Cronus Saturn
+Demeter Ceres
+Hades Dis Pater, Pluto, Orcus
+Heracles Hercules
+Hermes Mercury
+Hephaestus Vulcan
+Hypnos Somnus
+Odysseus Ulysses
+Phosporus Lucifer
+Selene Luna
+Zeus Jupiter
 
 [Greek mythology | Encyclopedia Mythica](https://pantheon.org/mythology/greek/)
 

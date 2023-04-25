@@ -64,6 +64,8 @@ tags:
 [Kent Overstreet is creating bcachefs - a next generation Linux filesystem | Patreon](https://www.patreon.com/bcachefs)
 [Getting started with btrfs for Linux | Opensource.com](https://opensource.com/article/20/11/btrfs-linux)
 
+[bcachefs-principles-of-operation.pdf](https://bcachefs.org/bcachefs-principles-of-operation.pdf)
+
 ### Btrfs
 
 [Btrfs - Wikiwand](http://www.wikiwand.com/en/Btrfs)
@@ -87,10 +89,10 @@ ZFS provides bitrot protection.
 
 [Create a ZFS volume on Ubuntu – JamesCoyle.net](http://www.jamescoyle.net/how-to/478-create-a-zfs-volume-on-ubuntu)
 
-[From BFS to ZFS: past, present, and future of file systems – Ars Technica](https://arstechnica.com/gadgets/2008/03/past-present-future-file-systems/?amp=1)
-[Ars walkthrough: Using the ZFS next-gen filesystem on Linux – Ars Technica](https://arstechnica.com/information-technology/2014/02/ars-walkthrough-using-the-zfs-next-gen-filesystem-on-linux/?amp=1)
-[ZFS 101—Understanding ZFS storage and performance – Ars Technica](https://arstechnica.com/information-technology/2020/05/zfs-101-understanding-zfs-storage-and-performance/?amp=1)
-[Ubuntu 20.04’s zsys adds ZFS snapshots to package management [Updated] – Ars Technica](https://arstechnica.com/gadgets/2020/03/ubuntu-20-04s-zsys-adds-zfs-snapshots-to-package-management/?amp=1)
+[From BFS to ZFS: past, present, and future of file systems – Ars Technica](https://arstechnica.com/gadgets/2008/03/past-present-future-file-systems/amp/)
+[Ars walkthrough: Using the ZFS next-gen filesystem on Linux – Ars Technica](https://arstechnica.com/information-technology/2014/02/ars-walkthrough-using-the-zfs-next-gen-filesystem-on-linux/amp/)
+[ZFS 101—Understanding ZFS storage and performance – Ars Technica](https://arstechnica.com/information-technology/2020/05/zfs-101-understanding-zfs-storage-and-performance/amp/)
+[Ubuntu 20.04’s zsys adds ZFS snapshots to package management [Updated] – Ars Technica](https://arstechnica.com/gadgets/2020/03/ubuntu-20-04s-zsys-adds-zfs-snapshots-to-package-management/amp/)
 
 [How ZFS continues to be better than btrfs — Rudd-O.com in English](https://rudd-o.com/linux-and-free-software/ways-in-which-zfs-is-better-than-btrfs)
 [The ZFS Story: Clearing Up the Confusion - Datamation](http://www.datamation.com/data-center/the-zfs-story-clearing-up-the-confusion-1.html)
@@ -99,6 +101,12 @@ ZFS provides bitrot protection.
 
 [An Introduction to the Implementation of ZFS (part 1 of 2) - YouTube](https://www.youtube.com/watch?v=UP_JfUUmDZo)
 [An Introduction to the Implementation of ZFS (part 2 of 2) - YouTube](https://www.youtube.com/watch?v=l-RCLgLxuSc)
+
+#### sanoid
+
+[jimsalterjrs/sanoid: Policy-driven snapshot management and replication tools. Using ZFS for underlying next-gen storage.](https://github.com/jimsalterjrs/sanoid)
+`syncoid`, a replication tool that facilitates the asynchronous incremental replication of ZFS filesystems
+[ZFS backups - Sanoid and Syncoid help : zfs](https://www.reddit.com/r/zfs/comments/rnsf4w/zfs_backups_sanoid_and_syncoid_help/)
 
 ### techniques/internals
 
@@ -116,20 +124,20 @@ Check inode usage: `df -i`
 [Journal File System | Linux.org](http://www.linux.org/threads/journal-file-system.4136/)
 [Journaling file system - Wikiwand](http://www.wikiwand.com/en/Journaling_file_system)
 [Direct I/O | Linux.org](http://www.linux.org/threads/direct-i-o.4230/)
-[Extent (file systems) - Wikiwand](https://www.wikiwand.com/en/Extent_%28file_systems%29)
+[Extent (file systems) - Wikiwand](<https://www.wikiwand.com/en/Extent_(file_systems)>)
 
 [Ext4 Wiki](https://ext4.wiki.kernel.org/index.php/Main_Page)
 
 ## Bit Rot
 
 [Bit Rot: How Hard Drives and SSDs Die Over Time](https://www.howtogeek.com/660727/bit-rot-how-hard-drives-and-ssds-die-over-time/amp/)
-[Bitrot and atomic COWs: Inside “next-gen” filesystems | Ars Technica](http://arstechnica.com/information-technology/2014/01/bitrot-and-atomic-cows-inside-next-gen-filesystems/)
+[Bitrot and atomic COWs: Inside “next-gen” filesystems | Ars Technica](http://arstechnica.com/information-technology/2014/01/bitrot-and-atomic-cows-inside-next-gen-filesystems/amp/)
 [What is Data Rot? - YouTube](https://www.youtube.com/watch?v=Ie9qomn3_3U)
-[Microsoft introduces new robust “Resilient File System” for Windows Server 8 | Ars Technica](http://arstechnica.com/information-technology/2012/01/microsoft-introduces-new-robust-resilient-file-system-for-windows-server-8/)
+[Microsoft introduces new robust “Resilient File System” for Windows Server 8 | Ars Technica](http://arstechnica.com/information-technology/2012/01/microsoft-introduces-new-robust-resilient-file-system-for-windows-server-8/amp/)
 
 ## Linux LVM
 
-[Logical Volume Manager (Linux) - Wikiwand](https://www.wikiwand.com/en/Logical_Volume_Manager_%28Linux%29)
+[Logical Volume Manager (Linux) - Wikiwand](<https://www.wikiwand.com/en/Logical_Volume_Manager_(Linux)>)
 
 [LVM - ArchWiki](https://wiki.archlinux.org/title/LVM)
 [Software RAID and LVM - ArchWiki](https://wiki.archlinux.org/title/Software_RAID_and_LVM)

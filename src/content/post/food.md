@@ -19,7 +19,7 @@ tags:
 
 [The Secret to Making Light and Fluffy Scrambled Eggs - Delishably](https://delishably.com/dairy/Secret-to-Light-and-Fluffy-Scrambled-Eggs)
 
-[汆水貼士｜肉類海鮮解凍後別直接下鍋　 5 類食物汆水免霉臭失營養｜香港 01 ｜教煮](https://www.hk01.com/%E6%95%99%E7%85%AE/668384/%E6%B1%86%E6%B0%B4%E8%B2%BC%E5%A3%AB-%E8%82%89%E9%A1%9E%E6%B5%B7%E9%AE%AE%E8%A7%A3%E5%87%8D%E5%BE%8C%E5%88%A5%E7%9B%B4%E6%8E%A5%E4%B8%8B%E9%8D%8B-5%E9%A1%9E%E9%A3%9F%E7%89%A9%E6%B1%86%E6%B0%B4%E5%85%8D%E9%9C%89%E8%87%AD%E5%A4%B1%E7%87%9F%E9%A4%8A)
+[汆水貼士｜肉類海鮮解凍後別直接下鍋　 5 類食物汆水免霉臭失營養｜香港 01 ｜教煮](https://www.hk01.com/%E6%95%99%E7%85%AE/668384/)
 
 [人均$400 刀一顿米其林，吃货钱都花在哪儿了？| 聊聊餐饮行业 - YouTube](https://www.youtube.com/watch?v=JFETIGpijx4)
 [平價奢華大對決｜ Vogue Taiwan - YouTube](https://www.youtube.com/playlist?list=PLOAJtSxO04pwvh9yOHhFISX01Zsq_NmoA)
@@ -28,9 +28,43 @@ Coriander vs Chervil vs Parsley
 
 ## Agriculture
 
-> see `paleontology.md#younger-dryas`
+[[paleontology#Younger Dryas]]
+
+[Agriculture - Wikiwand](https://www.wikiwand.com/en/Agriculture)
+[农业 - Wikiwand](https://www.wikiwand.com/zh/%E5%86%9C%E4%B8%9A)
+
+[Agronomy - Wikiwand](https://www.wikiwand.com/en/Agronomy)
+[农学 - Wikiwand](https://www.wikiwand.com/zh/%E5%86%9C%E5%AD%A6)
 
 [改變人類命運的，神一樣的男人！農業革命是偶然？還是必然？【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=AF_vU7flswM)
+[Neolithic Revolution - Wikiwand](https://www.wikiwand.com/en/First_Agricultural_Revolution) the First Agricultural Revolution (circa 10,000 BC)
+[British Agricultural Revolution - Wikiwand](https://www.wikiwand.com/en/British_Agricultural_Revolution) the Second Agricultural Revolution (17th-19th century)
+[Green Revolution - Wikiwand](https://www.wikiwand.com/en/Third_Agricultural_Revolution)
+the Third Agricultural Revolution (1930s-1960s)
+
+[五穀 - Wikiwand](https://www.wikiwand.com/zh-hant/%E4%BA%94%E8%B0%B7)
+[五谷（食物）\_百度百科](https://baike.baidu.com/item/%E4%BA%94%E8%B0%B7/92646)
+[五谷杂粮\_百度百科](https://baike.baidu.com/item/%E4%BA%94%E8%B0%B7%E6%9D%82%E7%B2%AE)
+[你知道，五穀是哪五穀嗎? | KGCHECK 聯華食品生醫研究室](https://shop.kgcheck.com.tw/cc-26232)
+
+稻
+黍(今粟米?/糜?)
+穀(粟/禾/糜?/稷/小米): 主要種植於北方黃河流域
+麥(小麥)
+菽(大豆, 泛指豆類)
+加上麻(大麻)稱為六穀
+良莠不分: 狗尾草又稱莠, 狗尾草幼苗和穀子幼苗很難區分
+高梁和小麥並非中國原生作物
+小麥是從小亞細亞 Fertile Crescent 在 2000B.C.經俄羅斯引入, 取代穀為北方主要農作物
+
+Millet 粟 栗
+
+## Husbandry
+
+[Animal husbandry - Wikiwand](https://www.wikiwand.com/en/Husbandry)
+[畜牧业 - Wikiwand](https://www.wikiwand.com/zh/%E7%95%9C%E7%89%A7%E4%B8%9A)
+
+[六畜 - Wikiwand](https://www.wikiwand.com/zh/%E5%85%AD%E7%95%9C)
 
 ## Frying Pan
 
@@ -115,3 +149,15 @@ Coriander vs Chervil vs Parsley
 ## Steak
 
 [相信我，看完视频，你就会挑牛排了 how to choose steaks 丨曼食慢语 - YouTube](https://www.youtube.com/watch?v=qCZZnTLYkY4)
+
+## Pasta
+
+Al dente
+Coquillettes
+Tortiglioni
+Penne rigate
+Penne ziti rigate
+Alfabeto
+Fusilli
+Maccheroni
+Nidi larghi

@@ -1,9 +1,11 @@
 ---
 title: Rust
-description: "Static typed, GC-free system language created by Mozilla."
+description: Static typed, GC-free system language created by Mozilla.
 created: 2015-11-19
+updated: 2023-04-16
 tags:
   - comp.lang
+  - package-manager
   - rust
 ---
 
@@ -38,12 +40,13 @@ GitHub org:
 
 [Introduction to Rust Part 1 - YouTube](https://www.youtube.com/watch?v=WnWGO-tLtLA)
 [Introduction to Rust Part 2 - YouTube](https://www.youtube.com/watch?v=lLWchWTUFOQ)
+[Intel and Rust: the Future of Systems Programming: Josh Triplett - YouTube](https://www.youtube.com/watch?v=l9hM0h6IQDo)
 
 [zkat/rust-notes: Personal notes while learning Rust. Mainly documenting pain points along the way.](https://github.com/zkat/rust-notes)
 [C vs. Rust: Which to choose for programming hardware abstractions | Opensource.com](https://opensource.com/article/20/1/c-vs-rust-abstractions)
 
-[Rust - YouTube - YouTube](https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA)
-[No Boilerplate - YouTube](https://www.youtube.com/c/NoBoilerplate)
+[Rust - YouTube](https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA)
+[No Boilerplate - YouTube](https://www.youtube.com/@NoBoilerplate)
 [The Rust Programming Language - YouTube](https://www.youtube.com/watch?v=d1uraoHM8Gg)
 [C++Now 2017: Niko Matsakis "Rust: Hack Without Fear!" - YouTube](https://www.youtube.com/watch?v=lO1z-7cuRYI)
 
@@ -86,10 +89,10 @@ cargo new --lib library  # lib at ./library/
 cargo init # at pwd
 
 cargo build
-cargo build --release
+RUSTFLAGS='-C target-feature=+crt-static' cargo build --release
 
 cargo run
-cargo run --release
+RUSTFLAGS='-C target-feature=+crt-static' cargo run --release
 
 cargo bench
 cargo test
@@ -107,6 +110,7 @@ cargo test
 
 #### Cargo tools
 
+[cargo-bins/cargo-binstall: Binary installation for rust projects](https://github.com/cargo-bins/cargo-binstall)
 [kbknapp/cargo-graph: A cargo subcommand for creating GraphViz DOT files and dependency graphs](https://github.com/kbknapp/cargo-graph)
 [RazrFalcon/cargo-bloat: Find out what takes most of the space in your executable.](https://github.com/RazrFalcon/cargo-bloat)
 [flamegraph-rs/flamegraph: Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3](https://github.com/flamegraph-rs/flamegraph)
@@ -127,7 +131,7 @@ The source code is compiled to High level intermediate representation, then mid 
 ## Learn
 
 [Learn Rust - Rust Programming Language](https://www.rust-lang.org/learn)
-[rust-lang/rustlings: Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings/)
+[rust-lang/rustlings: Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings/) code kata
 
 [Learn Rust Programming Course – Interactive Rust Language Tutorial on Replit](https://www.freecodecamp.org/news/rust-in-replit/)
 [Rust Programming Course for Beginners - Tutorial - YouTube](https://www.youtube.com/watch?v=MsocPEZBd-M)
@@ -137,6 +141,13 @@ The source code is compiled to High level intermediate representation, then mid 
 [How to learn Rust: A resources guide for developers - TechRepublic](https://www.techrepublic.com/article/how-to-learn-rust-a-resources-guide-for-developers/)
 [Latest News - Hello, Rust!](https://www.hellorust.com/)
 [How not to learn Rust](https://dystroy.org/blog/how-not-to-learn-rust/)
+
+No Boilerplate
+[How to Learn Rust - YouTube](https://www.youtube.com/watch?v=2hXNd6x9sZs)
+[Rust Is Easy - YouTube](https://www.youtube.com/watch?v=CJtvnepMVAU) the compiler teaches you
+[Rust is not a faster horse - YouTube](https://www.youtube.com/watch?v=4YU_r70yGjQ)
+
+[Learning Rust the wrong way - Ólafur Waage - NDC TechTown 2022 - YouTube](https://www.youtube.com/watch?v=DL9LANLg5EA)
 
 Getting started:
 [Getting started with Rust](https://fettblog.eu/getting-started-with-rust/)
@@ -197,7 +208,9 @@ Getting started:
 
 ## Compiler
 
-`rustc --print cfg`
+```sh
+rustc --print cfg
+```
 
 [Rust Creator Graydon Hoare Recounts the History of Compilers - The New Stack](https://thenewstack.io/rust-creator-graydon-hoare-recounts-the-history-of-compilers/)
 
@@ -207,7 +220,6 @@ Getting started:
 
 [How to speed up the Rust compiler | Nicholas Nethercote](https://blog.mozilla.org/nnethercote/2016/10/14/how-to-speed-up-the-rust-compiler/)
 [How to alleviate the pain of Rust compile times](https://vfoley.xyz/rust-compile-speed-tips/)
-[mozilla/sccache: sccache is ccache with cloud storage](https://github.com/mozilla/sccache)
 
 [google/rerast: A tool for transforming Rust code using rules](https://github.com/google/rerast)
 
@@ -221,19 +233,54 @@ Getting started:
 [cfg - Rust By Example](https://doc.rust-lang.org/rust-by-example/attribute/cfg.html)
 [Conditional compilation - The Rust Reference](https://doc.rust-lang.org/reference/conditional-compilation.html)
 
-### Targets/Linkage
+### Linkage
 
-Print supported targets: `rustc --print target-list`
+```sh
+RUSTFLAGS='-C target-feature=+crt-static' cargo build
+# musl is static by default
+cargo build --target x86_64-unknown-linux-musl
+RUSTFLAGS='-C target-feature=+crt-static' cargo build --release
+```
+
+[Linkage - The Rust Reference](https://doc.rust-lang.org/reference/linkage.html)
 
 [rust - How to generate statically linked executables? - Stack Overflow](https://stackoverflow.com/questions/31770604/how-to-generate-statically-linked-executables)
+["cannot produce proc-macro for `crate` as the target `x86_64-unknown-linux-gnu` does not support these crate types" with +crt-static · Issue #78210 · rust-lang/rust](https://github.com/rust-lang/rust/issues/78210)
 [Static Build of Rust Executables | Ivanovo](http://zderadicka.eu/static-build-of-rust-executables/)
+[Building static Rust binaries for Linux | Harsh Shandilya](https://msfjarvis.dev/posts/building-static-rust-binaries-for-linux/)
 [MUSL support for fully static binaries - The Edition Guide](https://doc.rust-lang.org/edition-guide/rust-2018/platform-and-target-support/musl-support-for-fully-static-binaries.html)
 
 [Linkage - The Rust Reference](https://doc.rust-lang.org/reference/linkage.html)
 [1721-crt-static - The Rust RFC Book](https://rust-lang.github.io/rfcs/1721-crt-static.html)
 [Enabling `+crt-static` in a blanket way breaks dynamic libraries including proc macros · Issue #71651 · rust-lang/rust](https://github.com/rust-lang/rust/issues/71651)
 
+Striping:
+
+| Target              | Size |
+| ------------------- | ---- |
+| dynamic debug gnu   | 4.3M |
+| static debug gnu    | 4.3M |
+| static release gnu  | 5.8M |
+| `strip -s`          | 1.2M |
+| strip = "debuginfo" | 1.4M |
+| static debug musl   | 4.4M |
+| strip = "symbols"   | 1.2M |
+| static release musl | 412k |
+
 ### Cross compile
+
+```sh
+## print supported targets
+rustc --print target-list
+
+rustup target add i686-pc-windows-msvc
+
+rustup target add armv7-unknown-linux-musleabi
+RUSTFLAGS='-C target-feature=+crt-static' cargo build --release --target armv7-unknown-linux-musleabi
+
+```
+
+[cross-rs/cross: “Zero setup” cross compilation and “cross testing” of Rust crates](https://github.com/cross-rs/cross)
 
 [warricksothr/RustBuild](https://github.com/warricksothr/RustBuild)
 [zinc.rs](https://zinc.rs/)
@@ -247,6 +294,7 @@ Print supported targets: `rustc --print target-list`
 
 [japaric/ruststrap](https://github.com/japaric/ruststrap)
 [Rust bare metal on ARM microcontroller](http://antoinealb.net/programming/2015/05/01/rust-on-arm-microcontroller.html)
+[ARM v6 and v7 target · Issue #34 · richfelker/musl-cross-make](https://github.com/richfelker/musl-cross-make/issues/34) "hf" stands for "hard float"
 
 [Zero cost stack overflow protection for ARM Cortex-M devices | Embedded in Rust](http://blog.japaric.io/stack-overflow-protection/)
 
@@ -279,6 +327,8 @@ let a_String = String::from(a_str);  // str -> String
 a_String.as_str();  // String -> str
 ```
 
+### Print Formatting
+
 [std::fmt - Rust](https://doc.rust-lang.org/std/fmt/)
 [std::fmt::Display - Rust](https://doc.rust-lang.org/std/fmt/trait.Display.html)
 [std::format - Rust](https://doc.rust-lang.org/std/macro.format.html) `format!`
@@ -306,25 +356,27 @@ println!("{:?}", (12, true, "hello")); // debug print
 [Traits and Trait Objects in Rust · joshleeb](https://joshleeb.com/posts/rust-traits-and-trait-objects/)
 [Traits from the Ground Up](https://killercup.github.io/presentation-traits-from-the-ground-up/index.html#/)
 
-### Options
+`#[derive(Trait)]`
+
+### Option
 
 [std::option - Rust](https://doc.rust-lang.org/std/option/) nullable in other languages
-[std::option::Option - Rust](https://doc.rust-lang.org/std/option/enum.Option.html) `Options<T> = Some(value:T) | None`
+[Option in std::option - Rust](https://doc.rust-lang.org/std/option/enum.Option.html) `Option<T> = Some(value:T) | None`
 
 [Option - Rust By Example](https://doc.rust-lang.org/rust-by-example/std/option.html)
 [Option & unwrap - Rust By Example](https://doc.rust-lang.org/rust-by-example/error/option_unwrap.html)
 
 ```rust
-let optional: Options<float>;
+let optional: Option<float>;
 
 optional.unwrap(); // float or panic
 optional.expect("this should be a float"); // custom error message
 optional.unwrap_or(0.0) // default value
 
-let inner:float = optional?; // another (more elegant) way to unwrap (or return None)
+let inner:float = optional?; // another (more elegant) way to unwrap (or return None to propagate error up the call stack)
 ```
 
-[std::option::Option - Rust](https://doc.rust-lang.org/std/option/enum.Option.html#method.map)
+[Option.map() in std::option - Rust](https://doc.rust-lang.org/std/option/enum.Option.html#method.map) map the container to different type
 
 ```rust
 fn process(food: Option<Food>) -> Option<Cooked> {
@@ -338,9 +390,14 @@ fn process(food: Option<Food>) -> Option<Cooked> {
 
 [std::result - Rust](https://doc.rust-lang.org/std/result/index.html)
 
-Like `Options<T>` but for is an `OK<T>` type
+Like `Option<T>` but for is an `OK<T>` type
 
-[`Options.ok_or()`](https://doc.rust-lang.org/std/option/enum.Option.html#method.ok_or), [`Options.ok_or-else()`](https://doc.rust-lang.org/std/option/enum.Option.html#method.ok_or_else) converts `Options` to `Result`
+[Rust's Most Important Containers 📦 10 Useful Patterns - YouTube](https://www.youtube.com/watch?v=f82wn-1DPas)
+`.unwraps()` takes the value, if present; `.ok_*()` converts between `Result` and `Option`
+
+[Result.map() in std::result - Rust](https://doc.rust-lang.org/std/result/enum.Result.html#method.map) map the container to different type
+
+[`Option.ok_or()`](https://doc.rust-lang.org/std/option/enum.Option.html#method.ok_or), [`Option.ok_or-else()`](https://doc.rust-lang.org/std/option/enum.Option.html#method.ok_or_else) converts `Option` to `Result`
 
 `?` operator do unwrap and return error (replacing `try!` macro), simplifying error handling
 [The ? operator for easier error handling - The Edition Guide](https://doc.rust-lang.org/edition-guide/rust-2018/error-handling-and-panics/the-question-mark-operator-for-easier-error-handling.html)
@@ -370,6 +427,7 @@ match f.read_to_string(&mut s) {
 Local Module: `mod cat;` will look for `./cat.rs` or `cat/mod.rs`
 This will create a namespace `cat`, use `cat::mod` and `cat::function()` to access submodules and functions.
 [Modules - The Rust Programming Language](https://doc.rust-lang.org/1.29.0/book/second-edition/ch07-00-modules.html)
+[RustConf 2019 - The Rust 2018 Module System by Josh Triplett - YouTube](https://www.youtube.com/watch?v=AN9FoZgLcFg)
 
 ```rust
 // just use `use` to import macro after 1.30
@@ -385,6 +443,7 @@ use log::{debug, error, info, trace, warn};
 `cargo expand` generate files with macros expand
 
 [macro_rules! - Rust By Example](https://doc.rust-lang.org/rust-by-example/macros.html)
+[Ace Rust Macros ♠️ the declarative kind - YouTube](https://www.youtube.com/watch?v=IsCBibC0PZE)
 
 [Attributes - Rust By Example](https://doc.rust-lang.org/rust-by-example/attribute.html)
 
@@ -395,18 +454,26 @@ use log::{debug, error, info, trace, warn};
 [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/)
 [6 useful Rust macros that you might not have seen before](https://medium.com/@benmcdonald_11671/6-useful-rust-macros-that-you-might-not-have-seen-before-59d1386f7bc5)
 
+## Rhai
+
+> "RustScript"
+
+[Rhai – Embedded Scripting for Rust](https://rhai.rs/)
+
 ## Books
 
 [Learn Rust - Rust Programming Language](https://www.rust-lang.org/learn#learn-use)  
 Docs that is available locally with `rustup doc`
 
 First party
-[The Rust Programming Language - The Rust Programming Language](https://doc.rust-lang.org/book/index.html)
-[Overview - Rust Forge](https://forge.rust-lang.org/)
-[The Edition Guide](https://doc.rust-lang.org/stable/edition-guide/introduction.html)
+[The Rust Programming Language - The Rust Programming Language](https://doc.rust-lang.org/book/index.html) The Book
+[Experiment Introduction - The Rust Programming Language](https://rust-book.cs.brown.edu/) The Book with exercises
 [Rust By Example](https://doc.rust-lang.org/rust-by-example/index.html)
+[The Edition Guide](https://doc.rust-lang.org/stable/edition-guide/introduction.html)
+[Overview - Rust Forge](https://forge.rust-lang.org/)
 [The Rust Reference](https://doc.rust-lang.org/stable/reference/index.html)
 [Table of Contents - Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
+
 [About - Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)
 [The Rustonomicon](https://doc.rust-lang.org/nomicon/) unsafe Rust
 [What is rustdoc? - The rustdoc book](https://doc.rust-lang.org/rustdoc/index.html)
@@ -414,8 +481,8 @@ First party
 [Rust Compiler Error Index](https://doc.rust-lang.org/error-index.html)
 [Getting started - Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)
 [Getting Started - Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
-
 [Rust RFCs](https://rust-lang.github.io/rfcs/)
+
 [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/README.html)
 [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html) Rust's type safety makes this has to be done in unsafe mode
 [24 days of Rust](https://zsiciarz.github.io/24daysofrust/index.html)
@@ -432,9 +499,26 @@ First party
 [Speedy Desktop Apps With GTK and Rust | Nora Codes](https://nora.codes/tutorial/speedy-desktop-apps-with-gtk-and-rust/)
 [ENOSPC](https://eno.space/blog/2018/02/Ferrous-oxide-for-jaguars-and-incremented-crocodiles) pitfalls
 
+[Pascal Hertleif - Writing Idiomatic Libraries in Rust - YouTube](https://www.youtube.com/watch?v=0zOg8_B71gE)
+
 [Things you can’t do in Rust (and what to do instead) - LogRocket Blog](https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/)
 
 [tidunguyen/flexible-fn-rs: Demonstration of flexible function calls in Rust with function overloading, named arguments and optional arguments](https://github.com/tidunguyen/flexible-fn-rs)
+
+## backtrace
+
+[std::backtrace - Rust](https://doc.rust-lang.org/std/backtrace/index.html)
+[backtrace - Rust](https://docs.rs/backtrace/latest/backtrace/)
+
+```sh
+RUST_BACKTRACE=1 my_rust_app
+RUST_BACKTRACE=1 cargo run --bin my_binary
+
+# for debugging compile error
+RUST_BACKTRACE=1 cargo build
+```
+
+[debugging - What is RUST_BACKTRACE supposed to tell me? - Stack Overflow](https://stackoverflow.com/questions/43335937/what-is-rust-backtrace-supposed-to-tell-me)
 
 ## Rust Lang Server
 
@@ -469,11 +553,20 @@ First party
 
 [Understanding Ownership - The Rust Programming Language](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
 
-| Type  | Ownership         | Alias? | Mutate?                         |
-| ----- | ----------------- | ------ | ------------------------------- |
-| T     | Owned             |        | ✔                               |
-| &T    | Shared Reference  | ✔      | ✗ (while aliasing)              |
-| &mutT | Mutable Reference |        | ✔ (original reference disabled) |
+| Type   | Ownership         | Alias? | Mutate?                         |
+| ------ | ----------------- | ------ | ------------------------------- |
+| T      | Owned             |        | ✔                               |
+| &T     | Shared Reference  | ✔      | ✗ (while aliasing)              |
+| &mut T | Mutable Reference |        | ✔ (original reference disabled) |
+
+Passing variables to funtion moves ownership to the function by default.
+Closures borrow references by default.
+
+- use `Clone` trait
+  explicit pass by `.clone()`
+- use `Copy` trait (`Clone` is required)
+  implicititly make `.clone()` the default when calling functions
+- pass a read only reference (borrowing)
 
 ```rust
 let r: &'l Book = &book; // explicitly define lifetime
@@ -491,21 +584,42 @@ fn first(v: &Vec<Book>) -> &String {
 [rust-lang/polonius: Defines the Rust borrow checker.](https://github.com/rust-lang/polonius)
 [What is Polonius? - Polonius](https://rust-lang.github.io/polonius/)
 
+[Rust: What is Ownership and Borrowing? - YouTube](https://www.youtube.com/watch?v=79phqVpE7cU)
+[Rust Demystified 🪄 Simplifying The Toughest Parts - YouTube](https://www.youtube.com/watch?v=TJTDTyNdJdY) borrowing, references and lifetime
+[Rust Mutability, Borrows, and Moves - the ULTIMATE Tutorial! - YouTube](https://www.youtube.com/watch?v=vtUMT-GNaYE) 50 mins
+
 [Why Rust's ownership/borrowing is hard](http://softwaremaniacs.org/blog/2016/02/12/ownership-borrowing-hard/en/)
 [Why Rust's ownership/borrowing is hard | Hacker News](https://news.ycombinator.com/item?id=11093389)
 [Graphical depiction of ownership and borrowing in Rust - Rufflewind's Scratchpad](https://rufflewind.com/2017-02-15/rust-move-copy-borrow)
 [Fear not the Rust Borrow Checker](http://squidarth.com/rc/rust/2018/05/31/rust-borrowing-and-ownership.html)
-[Understanding lifetimes - help - The Rust Programming Language Forum](https://users.rust-lang.org/t/understanding-lifetimes/6401/11)
 [Ownership in Rust, Part 1 - Thomas Countz - Medium](https://medium.com/@thomascountz/ownership-in-rust-part-1-112036b1126b)
 [Ownership in Rust, Part 2 - Thomas Countz - Medium](https://medium.com/@thomascountz/ownership-in-rust-part-2-c3e1da89956e)
-
-[Rust's Ownership model for JavaScript developers | Articles by thoughtram](https://blog.thoughtram.io/rust/2015/05/11/rusts-ownership-model-for-javascript-developers.html)
 [A closer look at Ownership in Rust | Articles by thoughtram](https://blog.thoughtram.io/ownership-in-rust/)
 [Rust Mutability, Moving and Borrowing - The Straight Dope - tutorials - The Rust Programming Language Forum](https://users.rust-lang.org/t/rust-mutability-moving-and-borrowing-the-straight-dope/22166)
+[Rust's Ownership model for JavaScript developers | Articles by thoughtram](https://blog.thoughtram.io/rust/2015/05/11/rusts-ownership-model-for-javascript-developers.html)
 
+### Lifetimes
+
+- only relavent for reference
+
+  ```rust
+  struct SomeStruct<'l> {
+    num: &'l i32
+  }
+
+  fn biggest<'l>(a: &'l Type, b: &'l Type) -> &'l Type {
+    //...
+  }
+  ```
+
+- does not change the lifetimes of the parameters
+- can sometimes be inferred
+
+[Understanding lifetimes - help - The Rust Programming Language Forum](https://users.rust-lang.org/t/understanding-lifetimes/6401/11)
 [Validating References with Lifetimes - The Rust Programming Language](https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html)
+[Lockout, Part 1: Everything you know about lifetimes is wrong. | The Diagonal Device](https://exphp.github.io/blog/2018/09/16/lockout-part-1.html)
 
-[Rust: What is Ownership and Borrowing? - YouTube](https://www.youtube.com/watch?v=79phqVpE7cU)
+### Pinning
 
 [Pin, Unpin, and why Rust needs them](https://blog.cloudflare.com/pin-and-unpin-in-rust/) self-referential object
 [Pin and suffering - fasterthanli.me](https://fasterthanli.me/articles/pin-and-suffering)
@@ -532,6 +646,7 @@ fn first(v: &Vec<Book>) -> &String {
 [Rustlog](https://lifthrasiir.github.io/rustlog/)
 
 [Pascal’s scribbles - Pascal’s Scribbles](https://deterministic.space/)
+[Fun facts about Rust's growing popularity](https://www.jntrnr.com/fun-facts-about-rust-growth/) 2017
 
 [Rust: A Language for the Next 40 Years - Carol Nichols - YouTube](https://www.youtube.com/watch?v=A3AdN7U24iU) [slides](https://gitlab.com/carols10cents/rust-next-40-years)
 
@@ -561,6 +676,9 @@ fn first(v: &Vec<Book>) -> &String {
 [“Rust is the future of systems programming, C is the new Assembly”: Intel principal engineer, Josh Triplett | Packt Hub](https://hub.packtpub.com/rust-is-the-future-of-systems-programming-c-is-the-new-assembly-intel-principal-engineer-josh-triplett/amp/)
 [Rust 语言的编程范式 | 酷 壳 - CoolShell](https://coolshell.cn/articles/20845.html)
 [Rust](https://blog.frankel.ch/tag/rust/) from the view of a Java geek
+
+[Should you use RUST as your FIRST programming language? - YouTube](https://www.youtube.com/watch?v=L576AckqIZg)
+[Why You SHOULDN'T Learn Rust - YouTube](https://www.youtube.com/watch?v=kOFWIvNowXo)
 
 ### Dwelo
 
@@ -664,9 +782,11 @@ fn first(v: &Vec<Book>) -> &String {
 [Rustless - API micro-framework for Rust](http://rustless.org/)
 [nickel.rs - web application framework for rust](http://nickel.rs/)
 [pencil - Rust](https://fengsp.github.io/pencil/pencil/) inspired by Flask
-[actix - Rust](https://actix.rs/actix/actix/)
 [warp - crates.io: Rust Package Registry](https://crates.io/crates/warp)
 [gotham - crates.io: Rust Package Registry](https://crates.io/crates/gotham)
+
+[actix - Rust](https://actix.rs/actix/actix/)
+[Build A Rust Backend (Really FAST Web Services with Actix Web) - YouTube](https://www.youtube.com/watch?v=L8tWKqSMKUI)
 
 [Rocket: Web Framework for Rust](https://rocket.rs/)
 [show_notes::cysk::rocket - Rust](http://www.newrustacean.com/show_notes/cysk/rocket/)
@@ -695,19 +815,7 @@ fn first(v: &Vec<Book>) -> &String {
 [davidedelpapa/yew-tutorial: Tutorial for WASM using Rust and Yew](https://github.com/davidedelpapa/yew-tutorial)
 [Patternfly Yew Quickstart](https://ctron.github.io/)
 [A Rusty frontend: Patternfly & Yew — ctron's blog](https://dentrassi.de/2021/01/08/rusty-frontend-patternfly-yew/)
-
-### I/O
-
-[Getting Started with Rust: Working with Files and Doing File I/O | Linux Journal](https://www.linuxjournal.com/content/getting-started-rust-working-files-and-doing-file-io)
-
-[mio - Rust](https://docs.rs/mio/latest/mio/)
-[tokio-rs/mio: Metal IO library for Rust](https://github.com/tokio-rs/mio)
-
-[Tokio](https://tokio.rs/) fast asynchronous I/O framework
-[Tokio internals: Understanding Rust's asynchronous I/O framework from the bottom up : Caffeinated Bitstream](https://cafbit.com/post/tokio_internals/)
-[Creating a Chat Server with async Rust and Tokio - YouTube](https://www.youtube.com/watch?v=Iapc-qGTEBQ)
-
-[DataDog/glommio: Glommio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.](https://github.com/DataDog/glommio/)
+[Build A Rust Frontend (Really FAST Web Apps with Yew) - YouTube](https://www.youtube.com/watch?v=MddGbXgIt2E)
 
 ### CLI
 
@@ -800,7 +908,13 @@ fn first(v: &Vec<Book>) -> &String {
 [Weld](https://www.weld.rs/)
 [Interview with Weld’s main contributor: accelerating numpy, scikit and pandas as much as 100x with Rust and LLVM](https://notamonadtutorial.com/weld-accelerating-numpy-scikit-and-pandas-as-much-as-100x-with-rust-and-llvm-12ec1c630a1)
 
+## File I/O
+
+[Getting Started with Rust: Working with Files and Doing File I/O | Linux Journal](https://www.linuxjournal.com/content/getting-started-rust-working-files-and-doing-file-io)
+
 ## Async/Future
+
+[👋🏽 Welcome - wg-async](https://rust-lang.github.io/wg-async/welcome.html)
 
 [Explained: How does async work in Rust? – Levelup Your Coding](https://levelup.gitconnected.com/explained-how-does-async-work-in-rust-c406f411b2e2)
 [Getting Started - Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
@@ -818,6 +932,17 @@ fn first(v: &Vec<Book>) -> &String {
 
 [Rust's Journey to Async/Await - YouTube](https://www.youtube.com/watch?v=lJ3NC-R3gSI)
 Rust has `Future` and `await` built-in but lacks an async runtime (executor), use `tokio`
+
+[DataDog/glommio: Glommio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.](https://github.com/DataDog/glommio/) coroutine on io-uring
+
+### Tokio
+
+[Tokio](https://tokio.rs/) fast asynchronous I/O framework, uses io-uring
+[Tokio internals: Understanding Rust's asynchronous I/O framework from the bottom up : Caffeinated Bitstream](https://cafbit.com/post/tokio_internals/)
+[Creating a Chat Server with async Rust and Tokio - YouTube](https://www.youtube.com/watch?v=Iapc-qGTEBQ)
+
+[mio - Rust](https://docs.rs/mio/latest/mio/)
+[tokio-rs/mio: Metal IO library for Rust](https://github.com/tokio-rs/mio)
 
 ```rust
 use std::time:Duration;
@@ -843,6 +968,8 @@ async fn my_function(i: i32) {
   return i+1;
 }
 ```
+
+[tokio-rs/console: a debugger for async rust!](https://github.com/tokio-rs/console)
 
 ## Linters
 
@@ -891,7 +1018,10 @@ async fn my_function(i: i32) {
 
 [Use Rust for embedded development | Opensource.com](https://opensource.com/article/21/10/rust-embedded-development)
 
-[miselin/rustic: Rustic Embedded Framework](https://github.com/miselin/rustic) Rust framework for embedded system
+[Embassy](https://embassy.dev/)
+[embassy-rs/embassy: Modern embedded framework, using Rust and async.](https://github.com/embassy-rs/embassy)
+
+[miselin/rustic: Rustic Embedded Framework](https://github.com/miselin/rustic) Rust framework for embedded system, inactive
 [Program the real world using Rust on Raspberry Pi | Opensource.com](https://opensource.com/article/19/3/physical-computing-rust-raspberry-pi)
 
 [Tock Embedded Operating System](https://www.tockos.org/)

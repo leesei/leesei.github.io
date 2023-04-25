@@ -10,9 +10,11 @@ tags:
 ---
 
 [ReligionForBreakfast - YouTube](https://www.youtube.com/channel/UCct9aR7HC79Cv2g-9oDOTLw)
+[Religious History - YouTube](https://www.youtube.com/playlist?list=PLxZAPogJjW_insZ-fc9NJmZdiGgqbDfjz)
+
 [用 34 分钟，解决困扰我多年的问题：基督，犹太，伊斯兰教的关系 - YouTube](https://www.youtube.com/watch?v=ncXCHdTFBEs)
 [【基督宗教 历史专题】【基督宗教 历史专题】【基督宗教 历史专题】 - YouTube](https://www.youtube.com/playlist?list=PLg45KLfneaCRYo5ZvdFf_OcWfCNjMCiej)
-[Religious History - YouTube](https://www.youtube.com/playlist?list=PLxZAPogJjW_insZ-fc9NJmZdiGgqbDfjz)
+[你知道你生活在一個 虛擬世界中嗎？人越老，對世界的理解越困惑，怎麽辦？ - YouTube](https://www.youtube.com/watch?v=RZ3xY62xWDo)
 
 [Lawrence Krauss vs Christians on Q&A - Amazing Debate - YouTube](https://www.youtube.com/watch?v=iaHxBFwod9Q)
 

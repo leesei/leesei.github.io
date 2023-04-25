@@ -68,6 +68,8 @@ obsolete?
 
 [A Kubernetes engineer's guide to mTLS](https://buoyant.io/mtls-guide/)
 
+[The Cloudflare mTLS vulnerability - A Deep Dive Analysis - YouTube](https://www.youtube.com/watch?v=xsLqf1Qomn0)
+
 ## SSL checkers
 
 [Best SSL Testing Tools for your Website - Grace Themes](https://gracethemes.com/best-ssl-testing-tools-for-your-website/amp/)
@@ -153,7 +155,7 @@ As it turns out, CA may not be trust-worthy after all. There are many instances 
 [Let's Encrypt Demo - YouTube](https://www.youtube.com/watch?v=Gas_sSB-5SU)
 [Let’s Encrypt Your Docker Dan’s Trial & Errno](https://blog.danivovich.com/2016/01/28/lets-encrypt-your-docker/)
 [Docker, Nginx & Letsencrypt: Easy & Secure Reverse Proxy](https://medium.com/@ksiig/docker-nginx-letsencrypt-easy-secure-reverse-proxy-40165ba3aee2)
-[How to setup your website for that sweet, sweet HTTPS with Docker, Nginx, and letsencrypt](https://medium.freecodecamp.org/docker-compose-nginx-and-letsencrypt-setting-up-website-to-do-all-the-things-for-that-https-7cb0bf774b7e)
+[How to setup your website for that sweet, sweet HTTPS with Docker, Nginx, and letsencrypt](https://www.freecodecamp.org/news/docker-compose-nginx-and-letsencrypt-setting-up-website-to-do-all-the-things-for-that-https-7cb0bf774b7e)
 [SSL with Docker Swarm, Let's Encrypt and Nginx](https://finnian.io/blog/ssl-with-docker-swarm-lets-encrypt-and-nginx/)
 [Nginx and Let’s Encrypt with Docker in Less Than 5 Minutes](https://medium.com/@pentacent/nginx-and-lets-encrypt-with-docker-in-less-than-5-minutes-b4b8a60d3a71)
 [How To Secure a Containerized Node Application with Let's Encrypt | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-secure-a-containerized-node-js-application-with-nginx-let-s-encrypt-and-docker-compose)

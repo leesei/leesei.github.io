@@ -3,9 +3,9 @@ title: GitOps
 description: ""
 created: 2018-07-03
 tags:
+  - dev/deploy
   - devops
   - gitops
-  - dev/deploy
 ---
 
 GitOps is the new PaaS.

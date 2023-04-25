@@ -95,7 +95,7 @@ Playground
 [A gentle introduction to GraphQL API integrations - DEV Community 👩‍💻👨‍💻](https://dev.to/hugo__df/a-gentle-introduction-to-graphql-api-integrations-6fk)
 [Scalable Offline-Ready GraphQL Applications with AWS AppSync & React from @dabit3 on @eggheadio](https://egghead.io/courses/scalable-offline-ready-graphql-applications-with-aws-appsync-react)
 [GraphQL Data in React with Apollo Client from @nikgraf on @eggheadio](https://egghead.io/courses/graphql-data-in-react-with-apollo-client)
-[Why GraphQL is the key to staying out of technical debt](https://medium.freecodecamp.org/why-graphql-is-the-key-to-staying-out-of-technical-debt-7915f8f59a9)
+[Why GraphQL is the key to staying out of technical debt](https://www.freecodecamp.org/news/why-graphql-is-the-key-to-staying-out-of-technical-debt-7915f8f59a9)
 
 [Introducing Relay and GraphQL | React](http://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
 [Building The Facebook News Feed With Relay | React](http://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html)
@@ -108,7 +108,7 @@ Playground
 [So what’s this GraphQL thing I keep hearing about? – freeCodeCamp](https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf)
 [Designing a GraphQL API](https://gist.github.com/swalkinshaw/3a33e2d292b60e68fcebe12b62bbb3e2)
 [What is GraphQL? Better APIs by design | InfoWorld](https://www.infoworld.com/article/3269074/apis/what-is-graphql-better-apis-by-design.html)
-[The steady rise of GraphQL – freeCodeCamp](https://medium.freecodecamp.org/the-steady-rise-of-graphql-27b14e938164)
+[The steady rise of GraphQL – freeCodeCamp](https://www.freecodecamp.org/news/the-steady-rise-of-graphql-27b14e938164)
 [GraphQL Overview - Getting Started with GraphQL & Node.js](https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/)
 [React with GraphQL for Architecting Apps - The New Stack](http://thenewstack.io/react-with-graphql-for-architecting-apps/)
 [GitHub Dumps REST Calls for Facebook's GraphQL - The New Stack](http://thenewstack.io/github-dumps-rest-graphql-api/)
@@ -281,8 +281,8 @@ const server = new ApolloServer({
 [Introducing Json GraphQL Server](https://marmelab.com/blog/2017/07/12/json-graphql-server.html)
 
 graphql, apollo-server-hapi
-[How to set-up a powerful API with Nodejs, GraphQL, MongoDB, Hapi, and Swagger](https://medium.freecodecamp.org/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649)
-[How to finish setting up your powerful API with Nodejs, GraphQL, MongoDB, Hapi, and Swagger (Part…](https://medium.freecodecamp.org/how-to-set-up-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-part-ii-80266790a3ac)
+[How to set-up a powerful API with Nodejs, GraphQL, MongoDB, Hapi, and Swagger](https://www.freecodecamp.org/news/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649)
+[How to finish setting up your powerful API with Nodejs, GraphQL, MongoDB, Hapi, and Swagger (Part…](https://www.freecodecamp.org/news/how-to-set-up-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-part-ii-80266790a3ac)
 [wesharehoodies/graphql-nodejs-hapi-api](https://github.com/wesharehoodies/graphql-nodejs-hapi-api)
 
 [Introducing the Apollo GraphQL data stack — Building Apollo — Medium](https://medium.com/apollo-stack/introducing-the-apollo-graphql-data-stack-5d005312cbd0#.jja75dl6t)
@@ -331,6 +331,12 @@ graphql, apollo-server-hapi
 
 [A Python library for GraphQL | 🍓 Strawberry GraphQL](https://strawberry.rocks/)
 [Using GraphQL with Strawberry, FastAPI, and Next.js - LogRocket Blog](https://blog.logrocket.com/using-graphql-strawberry-fastapi-next-js/)
+[GraphQL in Python 🍓 - YouTube](https://www.youtube.com/watch?v=EIGjT5NYjjM)
+
+### Ariadne
+
+[Ariadne · Python GraphQL Schema-first](https://ariadnegraphql.org/)
+[mirumee/ariadne: Python library for implementing GraphQL servers using schema-first approach.](https://github.com/mirumee/ariadne)
 
 ### Federation
 
@@ -383,7 +389,6 @@ Graphene Python is built upon GraphQL-core, which is a Python port of GraphQL.js
 [Testing GraphQL API in python - Data Driven Investor - Medium](https://medium.com/datadriveninvestor/testing-graphql-api-in-python-3136034e18c5)
 [Graphene-Django](https://docs.graphene-python.org/projects/django/en/latest/)
 
-[GraphQL in Python 🍓 - YouTube](https://www.youtube.com/watch?v=EIGjT5NYjjM)
 [Using GraphQL or REST, that is the question | Seasoned & Agile](https://cito.github.io/blog/shakespeare-with-graphql/) !important, Python, async, PostgreSQL, GraphQL-core-next
 
 ### Tartiflette
@@ -392,8 +397,8 @@ Graphene Python is built upon GraphQL-core, which is a Python port of GraphQL.js
 
 ### Hasura GraphQL Engine
 
-[Hasura | Instant GraphQL APIs for your data | Join data across databases, GraphQL & REST services to build powerful modern applications](https://hasura.io/)
-[hasura/graphql-engine: Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.](https://github.com/hasura/graphql-engine)
+[Instant GraphQL APIs on your data | Built-in Authz & Caching](https://hasura.io/)
+[hasura/graphql-engine: Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.](https://github.com/hasura/graphql-engine)
 [Working with schemaless data using GraphQL on Postgres](https://blog.hasura.io/working-with-schemaless-data-with-graphql-on-postgres-574a1ee2e87f/)
 
 ### Go

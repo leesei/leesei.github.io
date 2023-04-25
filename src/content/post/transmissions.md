@@ -10,7 +10,7 @@ tags:
 
 [CLASSIC: What Do Transmissions Do? - TechStuff (podcast)](https://player.fm/series/techstuff/classic-what-do-transmissions-do)
 
-[Transmission (mechanics) - Wikiwand](http://www.wikiwand.com/en/Transmission_%28mechanics%29)
+[Transmission (mechanics) - Wikiwand](<http://www.wikiwand.com/en/Transmission_(mechanics)>)
 [Continuously variable transmission - Wikiwand](https://www.wikiwand.com/en/Continuously_variable_transmission)
 
 [Car Transmission and Drivetrain Systems | HowStuffWorks](https://auto.howstuffworks.com/car-transmission-drivetrain-systems-channel.htm)

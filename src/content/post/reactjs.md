@@ -72,12 +72,12 @@ React blends view and controller more the higher up in the component hierarchy. 
 [ES2015 (ES6) Features Commonly Used with Functional Style React - BEKK Open](http://open.bekk.no/es2015-es6-features-commonly-used-with-functional-style-react)
 [Introduction | React 入门教程](http://hulufei.gitbooks.io/react-tutorial/content/)
 [Setting State in React - Frontend Masters](https://frontendmasters.com/courses/react/setting-state/)
-[These are the concepts you should know in React.js (after you learn the basics)](https://medium.freecodecamp.org/these-are-the-concepts-you-should-know-in-react-js-after-you-learn-the-basics-ee1d2f4b8030)
-[Reintroducing React: every React update since v16 demystified.](https://medium.freecodecamp.org/reintroducing-react-every-react-update-since-v16-demystified-60686ee292cc)
+[These are the concepts you should know in React.js (after you learn the basics)](https://www.freecodecamp.org/news/these-are-the-concepts-you-should-know-in-react-js-after-you-learn-the-basics-ee1d2f4b8030)
+[Reintroducing React: every React update since v16 demystified.](https://www.freecodecamp.org/news/reintroducing-react-every-react-update-since-v16-demystified-60686ee292cc)
 
 [React JS Todo 2 - JSFiddle](http://jsfiddle.net/johnthethird/NXCyC/9/)
 
-[Want to learn React.js? Here’s my free course which teaches it by building a chat app.](https://medium.freecodecamp.org/want-to-learn-react-js-heres-my-free-course-which-teaches-it-through-building-a-chat-app-c86333e5b88c)
+[Want to learn React.js? Here’s my free course which teaches it by building a chat app.](https://www.freecodecamp.org/news/want-to-learn-react-js-heres-my-free-course-which-teaches-it-through-building-a-chat-app-c86333e5b88c)
 [Building a chat app with React.js and Chatkit | Scrimba.com](https://scrimba.com/g/greactchatkit)
 [Building a React-based Chat Client with Redux – ITNEXT](https://itnext.io/building-a-react-based-chat-client-with-redux-816b47cb8c74)
 
@@ -310,7 +310,7 @@ Set `displayName` property of the function to help debugging.
 [Understanding React’s Components: Stateless and Stateful](https://blog.hipolabs.com/understanding-reacts-components-stateless-and-stateful-66fa9f31de34)
 [React component patterns – Team Subchannel – Medium](https://medium.com/teamsubchannel/react-component-patterns-e7fb75be7bb0)
 [Writing Resilient Components — Overreacted](https://overreacted.io/writing-resilient-components/) mostly a pitch to hooks
-[How the “Golden Rule” of React components can help you write better code](https://medium.freecodecamp.org/how-the-golden-rule-of-react-components-can-help-you-write-better-code-127046b478eb)
+[How the “Golden Rule” of React components can help you write better code](https://www.freecodecamp.org/news/how-the-golden-rule-of-react-components-can-help-you-write-better-code-127046b478eb)
 [Better Reusable React Components with the Overrides Pattern](https://medium.com/@dschnr/better-reusable-react-components-with-the-overrides-pattern-9eca2339f646)
 [Anti-patterns to avoid when building a component library in React Native](https://levelup.gitconnected.com/anti-patterns-to-avoid-when-building-a-component-library-in-react-native-61f11d8c9797)
 [How to write great React - The Startup - Medium](https://medium.com/swlh/how-to-write-great-react-c4f23f2f3f4f)
@@ -578,7 +578,7 @@ new API to replace life cycle API, co-locate effect/logic and state to a reusabl
 
 [Introducing: Redux Hooks – ITNEXT](https://itnext.io/introducing-redux-hooks-1bf9c568ecc2)
 [An Intro to Advanced React Hooks - In the Weeds - Medium](https://medium.com/in-the-weeds/an-intro-to-advanced-react-hooks-a8af6397fe28)
-[Why React Hooks, and how did we even get here? – freeCodeCamp.org](https://medium.freecodecamp.org/why-react-hooks-and-how-did-we-even-get-here-aa5ed5dc96af)
+[Why React Hooks, and how did we even get here?](https://www.freecodecamp.org/news/why-react-hooks-and-how-did-we-even-get-here-aa5ed5dc96af)
 [Why React Hooks? A developer’s perspective. – Hacker Noon](https://hackernoon.com/why-react-hooks-a-developers-perspective-2aedb8511f38)
 [The useState Hook: A Deep Dive into React State Management - DEV Community 👩‍💻👨‍💻](https://dev.to/mr_walkr/the-usestate-hook-a-deep-dive-into-react-state-management-2e9m)
 [Hooked on Hooks - The Startup - Medium](https://medium.com/swlh/hooked-on-hooks-637f53ba9323)
@@ -609,7 +609,7 @@ Alternatives API design:
 [Why Do React Hooks Rely on Call Order? — Overreacted](https://overreacted.io/why-do-hooks-rely-on-call-order/)
 [RFC: React Hooks by sebmarkbage · Pull Request #68 · reactjs/rfcs](https://github.com/reactjs/rfcs/pull/68#issuecomment-439314884)
 
-[How to Build a Todo List with React Hooks – freeCodeCamp.org](https://medium.freecodecamp.org/how-to-build-a-todo-list-with-react-hooks-ebaa4e3db3b)
+[How to Build a Todo List with React Hooks](https://www.freecodecamp.org/news/how-to-build-a-todo-list-with-react-hooks-ebaa4e3db3b)
 
 ### Internals
 
@@ -907,7 +907,7 @@ Reparenting nodes, good for moving components without re-initializing
 
 [ReactRally - YouTube](https://www.youtube.com/channel/UCXBhQ05nu3L1abBUGeQ0ahw)
 
-[The React Handbook – freeCodeCamp.org](https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795) [download](https://reacthandbook.com/)
+[The React Handbook](https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795) [download](https://reacthandbook.com/)
 [SurviveJS - React](https://survivejs.com/react/)
 [How to Learn React – Best Free Online Resources for Beginners | Blog Brainhub.eu](https://brainhub.eu/blog/how-to-learn-react-best-free-online-resources/)
 [The React Way by Andrew Clark - YouTube](https://www.youtube.com/watch?v=HOpyRiXB5WQ)
@@ -1290,7 +1290,10 @@ const Conditional = (props) => {
 [DCXLibrary / introduction - Page ⋅ Storybook](https://6069a6f47f4b9f002171f8e1-ihpxseoaag.chromatic.com/?path=/story/dcxlibrary-introduction--page)
 [Introducing the DCX React Library](https://capgemini.github.io/development/dcx-react-library/)
 
-[Headless UI – Unstyled, fully accessible UI components](https://headlessui.dev/) from Tailwind Labs, a11y
+[Primitives – Radix UI](https://www.radix-ui.com/) more active than Headless UI
+[radix-ui/primitives: Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.](https://github.com/radix-ui/primitives)
+
+[ – Unstyled, fully accessible UI components](https://headlessui.dev/) from Tailwind Labs, a11y
 [tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.](https://github.com/tailwindlabs/headlessui/)
 [@headlessui/react Menu Example - CodeSandbox](https://codesandbox.io/s/headlessuireact-menu-example-b6xje?file=/src/App.js)
 

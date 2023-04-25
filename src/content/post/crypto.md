@@ -86,6 +86,8 @@ Certificate Authorities: a trusted third party that will digitally sign and publ
 
 > contrast "stream ciphers", where encrypted strings are the same length as the plaintext
 
+[Symmetric-key algorithm - Wikiwand](https://www.wikiwand.com/en/Symmetric-key_algorithm)
+
 [Lecture3 Lecture 3: Block Ciphers and the Data Encryption Standard](https://engineering.purdue.edu/kak/compsec/NewLectures/Lecture3.pdf)
 
 [Anatomy of a password disaster – Adobe’s giant-sized cryptographic blunder – Naked Security](https://nakedsecurity.sophos.com/2013/11/04/anatomy-of-a-password-disaster-adobes-giant-sized-cryptographic-blunder/) study of Adobe's leaked password database
@@ -99,7 +101,7 @@ Certificate Authorities: a trusted third party that will digitally sign and publ
 Block ciphers, as the name suggests, encrypts blocks. The methods of segmenting data into blocks is called "modes of operation".
 
 [Modes of Operation - Computerphile - YouTube](https://www.youtube.com/watch?v=Rk0NIQfEXBA)
-**ECB**: simply divides a message into 16 byte blocks, preserves pattern
+**ECB**: simply divides a message into 16 byte blocks, preserves pattern (for experts only: ECB should never be used except in some very specific cases)
 **CBC**: first block XORed with Initialization Vector (IV) (nonce), every other block XORed with the ciphertext of the block preceding it
 
 [Authenticated encryption - Wikiwand](https://www.wikiwand.com/en/Authenticated_encryption) protects against chosen ciphertext attack on decryption oracle
@@ -116,7 +118,34 @@ Block ciphers, as the name suggests, encrypts blocks. The methods of segmenting 
 
 ### DES
 
-Triple DES
+Even Triple DES (3-DES) is not recommended
+
+### Commands
+
+[opessl](https://askubuntu.com/a/60713) openssl is for proof of concept
+
+```sh
+man enc  # show ciphers
+
+# encryption
+openssl aes-256-cbc -in attack-plan.txt -out message.enc
+
+# decryption
+openssl aes-256-cbc -d -in message.enc -out plain-text.txt
+```
+
+[gpg](https://askubuntu.com/a/449647)
+
+```sh
+# encryption
+gpg --cipher-algo AES256 --symmetric filename.tar.gz
+
+# decryption
+gpg --output filename.tar.gz --decrypt filename.tar.gz.gpg
+```
+
+[AES Crypt](https://www.aescrypt.com/download/)
+[aescrypt](https://askubuntu.com/a/60875)
 
 ## Public Key Cryptography
 

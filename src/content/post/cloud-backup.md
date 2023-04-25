@@ -11,10 +11,13 @@ tags:
 [Is Your Cloud Storage Slow as Shit? – Becoming odrive](https://medium.odrive.com/is-your-cloud-storage-slow-as-shit-f021f5ff5e11)
 [Best cloud backup of 2020: Online services to get your data backed up | TechRadar](https://www.techradar.com/best/best-cloud-backup)
 
+Secure Data Recovery note the 3-2-1 rule:
+Keep THREE copies of important data on TWO devices, with ONE of those copies saved offsite.
+
 ## Comparisons
 
 [Favourite 19 Best FREE cloud storage - for Home & Work](https://www.goodcloudstorage.net/free-cloud-storage/)
-[Ars Archivum: Top cloud backup services worth your money – Ars Technica](https://arstechnica.com/information-technology/2023/02/ars-archivum-top-cloud-backup-services-worth-your-money/?amp=1)
+[Ars Archivum: Top cloud backup services worth your money – Ars Technica](https://arstechnica.com/information-technology/2023/02/ars-archivum-top-cloud-backup-services-worth-your-money/amp/)
 [10 Best Cloud Storage Services 2023: Personal & Business (Best Price)](https://www.cloudwards.net/best-cloud-storage/)
 [Best cloud storage (February 2023) | TechRadar](https://www.techradar.com/best/best-cloud-storage)
 [The 5 Best Free Cloud Storage Services](https://www.howtogeek.com/787191/best-free-cloud-storage-services/)
@@ -151,7 +154,7 @@ Windows client provides virtual file system
 Client provides virtual file system
 
 [How to Use pCloud in 2022 [Easy Step-by-Step Instructions]](https://www.cloudwards.net/pcloud-drive/)
-[How to add pCloud Drive to Startup on Ubuntu - FOSS Linux](https://www.fosslinux.com/2058/how-to-add-pcloud-drive-to-startup-on-ubuntu.htm?amp=1)
+[How to add pCloud Drive to Startup on Ubuntu - FOSS Linux](https://www.fosslinux.com/2058/how-to-add-pcloud-drive-to-startup-on-ubuntu.htm)
 
 ## Parsec
 

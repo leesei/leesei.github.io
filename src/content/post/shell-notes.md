@@ -10,8 +10,7 @@ tags:
 Notes on shell usage.
 Most of the following are compatible to `bash` and `zsh`.
 
-[We all <3 Terminals. - Terminals Are Sexy](https://terminalsare.sexy/)
-[Philip James, Asheesh Laroia - Type python, press enter. What happens? - PyCon 2015 - YouTube](https://www.youtube.com/watch?v=XVhSjZYwZJo) how shell invocation works
+[We all <3 Terminals. - Terminals Are Sexy](https://terminalsare.sexy/)[Philip James, Asheesh Laroia - Type python, press enter. What happens? - PyCon 2015 - YouTube](https://www.youtube.com/watch?v=XVhSjZYwZJo) how shell invocation works
 [Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.](https://commandlinepoweruser.com/) !important, by Wes Bos
 [Coding like a Hacker in the terminal – Caleb Taylor – Medium](https://medium.com/@caleb89taylor/coding-like-a-hacker-in-the-terminal-79e22954968e)
 [You’re Missing Out on a Better Mac Terminal Experience](https://medium.com/@caulfieldOwen/youre-missing-out-on-a-better-mac-terminal-experience-d73647abf6d7)
@@ -89,7 +88,7 @@ Honorable mentions:
 [hm — command-line utility in Rust // Lib.rs](https://lib.rs/crates/hm)
 [quickcfg — command-line utility in Rust // Lib.rs](https://lib.rs/crates/quickcfg)
 
-[How to make your Dotfile management a painless affair](https://medium.freecodecamp.org/dive-into-dotfiles-part-2-6321b4a73608)
+[How to make your Dotfile management a painless affair](https://www.freecodecamp.org/news/dive-into-dotfiles-part-2-6321b4a73608)
 [ajmalsiddiqui/autodot: A dotfile management system that makes sharing your dotfiles easy while keeping you in the loop.](https://github.com/ajmalsiddiqui/utodot)
 [RCM(7)](https://thoughtbot.github.io/rcm/)
 
@@ -201,7 +200,9 @@ print("Hello, World!")
 # you will be drop to a interactive shell
 ```
 
-### parsing command line
+### args parsing
+
+[Argbash: Bash argument parsing made easy](https://argbash.dev/)
 
 [SHELLdorado - cmdargs](http://www.shelldorado.com/goodcoding/cmdargs.html)
 [Command Line Options: How To Parse In Bash Using “getopt” — BahmanM.com](http://www.bahmanm.com/blogs/command-line-options-how-to-parse-in-bash-using-getopt)
@@ -210,9 +211,9 @@ print("Hello, World!")
 #!/bin/bash
 # http://www.bahmanm.com/blogs/command-line-options-how-to-parse-in-bash-using-getopt
 
-# “a” and “arga” have optional arguments with default values.
-# “b” and “argb” have no arguments, acting as sort of a flag.
-# “c” and “argc” have required arguments.
+# "a" and "arga" have optional arguments with default values.
+# "b" and "argb" have no arguments, acting as sort of a flag.
+# "c" and "argc" have required arguments.
 
 # e.g.:
 # ./getopt.sh  1 -a'a' -b 2 -c'c' 3 4

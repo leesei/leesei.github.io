@@ -14,7 +14,8 @@ tags:
 [Data Science and Robots Blog](https://brohrer.github.io/blog.html) !important
 [Distill — Latest articles about machine learning](https://distill.pub/)
 
-[​Artificial Intelligence For Dummies – A Guide For Beginners | liberties.eu](https://www.liberties.eu/en/stories/artificial-intelligence-for-dummies/43527)
+[AI Tools - All Things AI](https://allthingsai.com/tools)
+[Artificial Intelligence For Dummies – A Guide For Beginners | liberties.eu](https://www.liberties.eu/en/stories/artificial-intelligence-for-dummies/43527)
 
 [The ultimate guide to the state of today’s A.I. – Fortune](https://fortune.com/2020/01/21/the-ultimate-guide-to-the-state-of-todays-a-i/amp/)
 [State Of AI And Machine Learning In 2019](https://www.forbes.com/sites/louiscolumbus/2019/09/08/state-of-ai-and-machine-learning-in-2019/)
@@ -211,6 +212,7 @@ Clustering is usually a task for unsupervised learners. The algorithm is expecte
 ## MLOps
 
 [Intro to MLOps: ML Technical Debt | by Vincent Tatan | Towards Data Science](https://towardsdatascience.com/intro-to-mlops-ml-technical-debt-9d3d6107cd95)
+[Social AI with Hugging Face featuring Clément Delangue from Hugging Face (Practical AI #35) |> Changelog](https://changelog.com/practicalai/35)
 
 ## Ethics
 
@@ -239,6 +241,10 @@ Clustering is usually a task for unsupervised learners. The algorithm is expecte
 [A.I. For Good](https://aiforgood.com/)
 [Artificial Intelligence to Help the World - AI for Good Foundation](http://ai4good.org/)
 
+## Symbolic AI
+
+[Symbolic artificial intelligence - Wikiwand](https://www.wikiwand.com/en/Symbolic_artificial_intelligence) represented by Lisp
+
 ## AI winter
 
 [AI winter is well on its way – Piekniewski's blog](https://blog.piekniewski.info/2018/05/28/ai-winter-is-well-on-its-way/)
@@ -264,7 +270,9 @@ Clustering is usually a task for unsupervised learners. The algorithm is expecte
 [Calculation of sensitivity, specificity, and positive and negative... | Download Scientific Diagram](https://www.researchgate.net/figure/Calculation-of-sensitivity-specificity-and-positive-and-negative-predictive_fig1_49650721)
 
 Sensitivity = TP/TP+FN
+靈敏度代表「真陽性機率」，解釋作檢測出現陽性時，準確度的百份比。
 Specificity = TN/TN+FP
+特異性代表「真陰性機率」，解釋作檢測出現陰性時，準確度的百份比。
 
 [How to evaluate the performance of a machine learning model](https://medium.com/datadriveninvestor/how-to-evaluate-the-performance-of-a-machine-learning-model-45063a7a38a7)
 [Understand Classification Performance Metrics - Becoming Human: Artificial Intelligence Magazine](https://becominghuman.ai/understand-classification-performance-metrics-cad56f2da3aa)
@@ -351,11 +359,11 @@ Specificity = TN/TN+FP
 AI21's Jurassic-1 is the largest network (178 billion parameters)
 [Turing NLG, GPT-3 & Wu Dao 2.0: The Who’s Who Of Language Models](https://analyticsindiamag.com/turing-nlg-gpt-3-wu-dao-2-0-meet-the-whos-who-of-language-models/)
 
-[BERT: one NLP model to rule them all (Practical AI #22) |> News and podcasts for developers |> Changelog](https://changelog.com/practicalai/22)
+[BERT: one NLP model to rule them all (Practical AI #22) |> Changelog](https://changelog.com/practicalai/22)
 
 OpenAI's GPT-3 was the largest network (175 billion parameters)
 OpenAI is bought by Microsoft in 2019
-[OpenAI's new "dangerous" GPT-2 language model (Practical AI #32) |> News and podcasts for developers |> Changelog](https://changelog.com/practicalai/32)
+[OpenAI's new "dangerous" GPT-2 language model (Practical AI #32) |> Changelog](https://changelog.com/practicalai/32)
 [GPT-3: the gigantic artificial intelligence - Je suis un dev](https://www.jesuisundev.com/en/gpt-3-the-gigantic-artificial-intelligence/)
 
 [EleutherAI](https://www.eleuther.ai/)
@@ -426,7 +434,9 @@ Transformers (formerly known as `pytorch-transformers` and `pytorch-pretrained-b
 
 ### ChatGPT
 
-ChatGPT was based on GPT3
+[xx025/carrot: Free ChatGPT Site List 这儿为你准备了众多免费好用的 ChatGPT 镜像站点，当前 100+站点](https://github.com/xx025/carrot)
+
+ChatGPT was based on GPT4
 [【震撼】chatGPT，一切才剛剛開始，我們要做好準備了 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=7uljoeHgN4g)
 [一口气搞清楚 ChatGPT - YouTube](https://www.youtube.com/watch?v=zNRvAMJOfAI)
 [ChatGPT 参加北京高考，能考上哪个大学？你能比它分数更高吗？ - YouTube](https://www.youtube.com/watch?v=GEXa2yrAucM)
@@ -434,16 +444,31 @@ ChatGPT was based on GPT3
 [詳解 ChatGPT 是怎麼變「聰明」？ AI 其實跟你打字預測輸入一樣，這是真智慧還是假智慧？Google 在 AI 戰中大翻車！ - YouTube](https://www.youtube.com/watch?v=sL1BNTU-4PI)
 [ChatGPT 如何一本正经地胡说八道？它是怎么变身“懂王”的？【柴司 Chaico】How does ChatGPT talk nonsense seriously? - YouTube](https://www.youtube.com/watch?v=Sn3SCeoLs-c)
 
+[深度体验 GPT-4 加持的 ChatGPT，两个字：逆天-36 氪](https://36kr.com/p/2172595355021831)
+[人工智能 | ChatGPT & AIGC - YouTube](https://www.youtube.com/playlist?list=PLRrgAx8r-7EkINd3dC6R7AfsCMCN6D2kZ)
+
+[阿里版 ChatGPT 来了，这次我们让 GPT4 当了裁判！【差评君】 - YouTube](https://www.youtube.com/watch?v%3DTMS9tayajrU)
+[InstructGPT 论文精读【论文精读】 - YouTube](https://www.youtube.com/watch?v=zfIGAwD1jOQ)
+
+#### Prompts
+
 [【必看】解放實力！ChatGPT 全能方法＝全知的神 詠唱技巧 論文 功課 報告 文案 - YouTube](https://www.youtube.com/watch?v=oF74vvgq4Kc)
 [lencx/ChatGPT: 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT)
 [f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts)
-
-[深度体验 GPT-4 加持的 ChatGPT，两个字：逆天-36 氪](https://36kr.com/p/2172595355021831)
+[All ChatGPT Prompts in 1 Article. Create Your Perfect ChatGPT Prompt | by Arslan Mirza | Medium | Level Up Coding](https://levelup.gitconnected.com/all-chatgpt-prompts-in-1-article-2efbacdfa24c)
 
 Glitch Prompt
 [GPT3: An Even Bigger Language Model - Computerphile - YouTube](https://www.youtube.com/watch?v=_8yVOC4ciXc)
 [ChatGPT with Rob Miles - Computerphile - YouTube](https://www.youtube.com/watch?v=viJt_DXTfwA)
 [Glitch Tokens - Computerphile - YouTube](https://www.youtube.com/watch?v=WO2X3oZEJOA)
+
+#### Auto-GPT
+
+[Significant-Gravitas/Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous.](https://github.com/Significant-Gravitas/Auto-GPT)
+
+[What is Auto-GPT? Everything to know about the next powerful AI tool | ZDNET](https://www.zdnet.com/article/what-is-auto-gpt-everything-to-know-about-the-next-powerful-ai-tool/)
+
+[AGI 新纪元：微软 JARVIS 与 Auto-GPT 揭秘，未来智能之门已开 | 回到 Axton - YouTube](https://www.youtube.com/watch?v=-zNSMGScT-U)
 
 ### Colossal-AI
 
@@ -502,8 +527,6 @@ Used Mycroft project (an open source project providing features of Amazon Echo)
 [Deep Learning for NLP: Creating a Chatbot with Keras!](https://towardsdatascience.com/deep-learning-for-nlp-creating-a-chatbot-with-keras-da5ca051e051)
 
 [How We Created a Slack Bot for Time Tracking with Vue.js and Ruby on Rails - Codica](https://www.codica.com/blog/time-tracking-with-slack-bot/)
-
-[【必看】解放實力！ChatGPT 全能方法＝全知的神 詠唱技巧 論文 功課 報告 文案 - YouTube](https://www.youtube.com/watch?v=oF74vvgq4Kc)
 
 ## Voice Isolation
 
@@ -778,6 +801,9 @@ Generative Query Network: 3D reconstruction based on 2D images
 [Learning to Play Minecraft with Video PreTraining (VPT)](https://openai.com/blog/vpt/)
 [看了 7 萬小時 YouTube 影片，OpenAI 新 IDM AI 模型學會玩《當個創世神》 | TechNews 科技新報](https://technews.tw/2022/06/29/openais-new-ai-learned-to-play-minecraft-by-watching-70000-hours-of-youtube/)
 
+[格斗之王！AI 写出来的 AI 竟然这么强！ - YouTube](https://www.youtube.com/watch?v=B7bYZ5ZFbl0)
+[linyiLYi/street-fighter-ai: This is an AI agent for Street Fighter II Champion Edition.](https://github.com/linyiLYi/street-fighter-ai)
+
 [Making AI Play Lots of Videogames Could Be Huge (No, Seriously) | WIRED](https://www.wired.com/2016/04/videogames-ai-learning/)
 [AI's Game Playing Challenge - Computerphile - YouTube](https://www.youtube.com/watch?v=5oXyibEgJr0)
 
@@ -841,7 +867,7 @@ Deep Learning = Artificial Neural Networks with more than 1 hidden layers
 [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)
 
 [“影分身之术”！训练 50 亿次的 AI 能有多智能 - YouTube](https://www.youtube.com/watch?v=AJ1TR28KNqY)
-[How neural networks work—and why they’ve become a big business – Ars Technica](https://arstechnica.com/science/2019/12/how-neural-networks-work-and-why-theyve-become-a-big-business/?amp=1)
+[How neural networks work—and why they’ve become a big business – Ars Technica](https://arstechnica.com/science/2019/12/how-neural-networks-work-and-why-theyve-become-a-big-business/amp/)
 [Early Bird uses 10 times less energy to train deep neural networks](https://techxplore.com/news/2020-05-early-bird-energy-deep-neural.amp) look for key network connectivity patterns early in training
 
 [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
@@ -940,8 +966,8 @@ Deep Learning = Artificial Neural Networks with more than 1 hidden layers
 
 ## History
 
-[How neural networks work—and why they’ve become a big business – Ars Technica](https://arstechnica.com/science/2019/12/how-neural-networks-work-and-why-theyve-become-a-big-business/?amp=1)
-[How computers got shockingly good at recognizing images – Ars Technica](https://arstechnica.com/science/2018/12/how-computers-got-shockingly-good-at-recognizing-images/?amp=1)
+[How neural networks work—and why they’ve become a big business – Ars Technica](https://arstechnica.com/science/2019/12/how-neural-networks-work-and-why-theyve-become-a-big-business/amp/)
+[How computers got shockingly good at recognizing images – Ars Technica](https://arstechnica.com/science/2018/12/how-computers-got-shockingly-good-at-recognizing-images/amp/)
 
 [The researcher behind AI's biggest breakthrough has moved on from Google — Quartz](https://qz.com/1307091/the-inside-story-of-how-ai-got-good-enough-to-dominate-silicon-valley/)
 [ImageNet: the data that spawned the current AI boom — Quartz](https://qz.com/1034972/the-data-that-changed-the-direction-of-ai-research-and-possibly-the-world/)
@@ -1135,6 +1161,7 @@ Generator and Discriminator
 > using Diffusion Models
 
 [How AI Image Generators Work (Stable Diffusion / Dall-E) - Computerphile - YouTube](https://www.youtube.com/watch?v=1CIpzeNxIhU)
+[AI 召喚師 - YouTube](https://www.youtube.com/@ai-summoner)
 
 [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion/)
 [打三個表情就能畫出世界名畫？大家都在玩的 Disco Diffusion 是什麼](https://tw.news.yahoo.com/%E6%89%93%E4%B8%89%E5%80%8B%E8%A1%A8%E6%83%85%E5%B0%B1%E8%83%BD%E7%95%AB%E5%87%BA%E4%B8%96%E7%95%8C%E5%90%8D%E7%95%AB%EF%BC%9F%E5%A4%A7%E5%AE%B6%E9%83%BD%E5%9C%A8%E7%8E%A9%E7%9A%84-disco-diffusion%E6%98%AF%E4%BB%80%E9%BA%BC-051653183.html)
@@ -1163,6 +1190,7 @@ Better than DALL-E, also open source
 
 [Midjourney](https://www.midjourney.com/home/)
 [開箱 Midjourney AI 算圖工具！想讓 AI 畫出習大大、志祺，有可能嗎？《 好奇七七探索日記 》EP 029 ｜志祺七七 - YouTube](https://www.youtube.com/watch?v=ewl_UmiRPtA)
+[The Ultimate Guide to MidJourney V5 | by Henrique Centieiro | Apr, 2023 | Level Up Coding](https://levelup.gitconnected.com/the-ultimate-guide-to-midjourney-v5-828fa563f389)
 
 [NVIDIA's new AI eats words, spits out photos and feels borderline magical - SlashGear](https://www.slashgear.com/nvidias-new-ai-eats-words-spits-out-photos-and-feels-borderline-magical-22700255)
 [gaugan.org/gaugan2/](http://gaugan.org/gaugan2/) nVidia
@@ -1556,7 +1584,7 @@ When doing inference on edge, the model can be optimized for the target platform
 ## Intel
 
 Intel Loihi: neuromorphic processor
-[Brains scale better than CPUs. So Intel is building brains – Ars Technica](https://arstechnica.com/science/2019/07/brains-scale-better-than-cpus-so-intel-is-building-brains/?amp=1)
+[Brains scale better than CPUs. So Intel is building brains – Ars Technica](https://arstechnica.com/science/2019/07/brains-scale-better-than-cpus-so-intel-is-building-brains/amp/)
 
 [OpenVINO™ Toolkit Documentation - OpenVINO™ Toolkit](https://docs.openvinotoolkit.org/latest/index.html)
 [Enabling Real-Time Face Expression Classification using Intel®...](https://software.intel.com/content/www/us/en/develop/articles/enabling-real-time-face-expression-classification-using-intel-openvino.html)

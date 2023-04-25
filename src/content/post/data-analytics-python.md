@@ -184,6 +184,12 @@ better API to address columns, akin to pandas
 
 [pandas-profiling/pandas-profiling: Create HTML profiling reports from pandas DataFrame objects](https://github.com/pandas-profiling/pandas-profiling)
 
+### Validation
+
+[pandera](https://pandera.readthedocs.io/en/stable/) can use Pydantic model syntax for schema
+[How to Use Pandas With Pandera to Validate Your Data in Python - YouTube](https://www.youtube.com/watch?v=-tU7fuUiq7w)
+[ArjanCodes/2023-pandera](https://github.com/ArjanCodes/2023-pandera)
+
 ### Modin
 
 [Scale your pandas workflow by changing a single line of code — Modin documentation](https://modin.readthedocs.io/en/latest/)

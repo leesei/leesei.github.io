@@ -1,13 +1,13 @@
 ---
 title: Docker.io
-description: "Tools provided by Docker.io"
+description: Tools provided by Docker.io
 created: 2014-12-11
 tags:
   - container
+  - dev/deploy
   - devops
   - docker
   - shell-tool
-  - dev/deploy
 ---
 
 [Mirantis acquires Docker Enterprise – TechCrunch](https://techcrunch.com/2019/11/13/mirantis-acquires-docker-enterprise/amp/)
@@ -23,6 +23,7 @@ tags:
 [Deploy and scale containers with Docker native, open source orchestration PyCon 2017 - YouTube](https://www.youtube.com/watch?v=EuzoEaE6Cqs)
 
 [Dockercon 2021 | DockerCon 2021](https://docker.events.cube365.net/dockercon-live/2021)
+[Docker Production Best Practices from Bret Fisher at DockerCon - YouTube](https://www.youtube.com/watch?v=V4f_sHTzvCI) DockerCon 2017
 
 ## Docker Compose
 
@@ -106,7 +107,7 @@ Swarm, unlike Kubernetes, is not declarative.
 
 Docker [acquired](https://blog.docker.com/2016/03/docker-welcomes-aurora-project-creators/) [Conductant](http://www.infoworld.com/article/3040743/application-virtualization/docker-snaps-up-apache-aurora-devs-for-swarm-team.html) (founded by the creators of Aurora) in March 2016. We're probably going to see Aurora features in Swarm.
 
-> see `#docker-swarm-mode`
+[[#Docker Swarm mode]]
 
 [Docker Swarm | Docker](http://www.docker.com/products/docker-swarm)
 [Swarm Overview](https://docs.docker.com/swarm/overview/)
@@ -185,12 +186,7 @@ Stack: a collection of services that make up an application in a specific enviro
 [How nodes work | Docker Documentation](https://docs.docker.com/engine/swarm/how-swarm-mode-works/nodes/)
 [How services work | Docker Documentation](https://docs.docker.com/engine/swarm/how-swarm-mode-works/services/)
 
-[Docker Operations - Docker Training](https://training.docker.com/docker-operations)
-[Getting Started With Swarm Mode | Docker Orchestration | Katacoda](https://www.katacoda.com/courses/docker-orchestration/getting-started-with-swarm-mode)
-[Learn Docker in Production using Interactive Browser-Based Labs | Katacoda](https://www.katacoda.com/courses/docker-production)
-[Learn Docker Security using Interactive Browser-Based Labs | Katacoda](https://www.katacoda.com/courses/docker-security)
-
-[docker/swarmkit: A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.](https://github.com/docker/swarmkit)
+[moby/swarmkit: A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.](https://github.com/moby/swarmkit)
 
 [swarmzilla/swarm3k: SwarmZilla 3000 Collaborative Project](https://github.com/swarmzilla/swarm3k)
 [Docker Swarm Lessons from Swarm3K](https://sematext.com/blog/docker-swarm-lessons-from-swarm3k/)

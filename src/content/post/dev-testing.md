@@ -4,11 +4,11 @@ description: ""
 created: 2015-06-17
 tags:
   - comp.lang
-  - unit-test
   - dev/testing
+  - unit-test
 ---
 
-> TODO: split to lang specific files
+> split to lang specific files
 
 [What is Software Testing? The 10 Most Common Types of Tests Developers Use in Projects](https://www.freecodecamp.org/news/types-of-software-testing/)
 
@@ -207,13 +207,6 @@ Some test runners take the features and generate test scripts in various languag
 [Gremlin: Chaos Engineering Tools to Break Things on Purpose](https://www.gremlin.com/)
 [Overview - Gremlin Help](https://help.gremlin.com/)
 [How Gremlin is making chaos engineering accessible [Interview] | Packt Hub](https://hub.packtpub.com/how-gremlin-is-making-chaos-engineering-accessible-interview/)
-
-## Load Test
-
-[Load Testing: An Unorthodox Guide](https://www.marcobehler.com/guides/load-testing)
-
-[Gatling - Professional Load Testing Tool](https://gatling.io/)
-[gatling/gatling: Modern Load Testing as Code](https://github.com/gatling/gatling)
 
 ## Fuzzing
 
@@ -435,7 +428,7 @@ experiment("getting started with hapi testing,", () => {
 
 #### React
 
-> see `react.md#testing`
+[[reactjs#Testing]]
 
 #### TAP
 

@@ -2,6 +2,7 @@
 title: Desktop Apps
 description: ""
 created: 2015-05-20
+updated: 2023-04-18
 tags:
   - app
   - desktop
@@ -10,7 +11,7 @@ tags:
 This is a curated list of software I found useful (mostly on a Linux desktop with Cinnamon DE) and worth recommending.
 FOSS (free and open source) and cross platform softwares are given priority.
 
-For the softwares I install on my system, see `arch-packages.md`.
+For the softwares I install on my system, see [[arch-packages]].
 
 [AlternativeTo - Social Software Recommendations](http://alternativeto.net/)
 [List of applications - ArchWiki](https://wiki.archlinux.org/title/List_of_applications)
@@ -46,7 +47,7 @@ For the softwares I install on my system, see `arch-packages.md`.
 
 [GNU Octave](http://www.gnu.org/software/octave/) MATLAB API
 [gnuplot homepage](http://www.gnuplot.info/)
-[The Julia Language](http://julialang.org/), see `julia.md`
+[The Julia Language](http://julialang.org/), see [[julia]]
 [Genius Mathematics Tool and the GEL Language](http://www.jirka.org/genius.html)
 [Matplotlib: Python plotting](https://matplotlib.org/)
 [PyPlot download | SourceForge.net](http://sourceforge.net/projects/pyplot/)
@@ -245,8 +246,8 @@ cat ./data/id_ed25519.pub
 [Professional photo editing in less time.](https://skylum.com/chip-luminar4)
 [Video Galleries | Luminar 4 | Skylum](https://skylum.com/video-galleries/luminar-4-video-tutorials)
 
-[Affinity Photo – Professional Image Editing Software](https://affinity.serif.com/en-gb/photo/) (Windows, HD$400)
-[Affinity Designer – Professional Graphic Design Software](https://affinity.serif.com/en-gb/designer/) (Windows, HD$400)
+[Affinity Photo – Professional Image Editing Software](https://affinity.serif.com/en-gb/photo/) Windows, macOS
+[Affinity Designer – Professional Graphic Design Software](https://affinity.serif.com/en-gb/designer/) Windows, macOS
 
 [Synfig – Free and open-source animation software](https://www.synfig.org/)
 
@@ -272,21 +273,53 @@ cat ./data/id_ed25519.pub
 
 ### Mind Map
 
-[XMind: The Most Professional Mind Mapping Software](http://www.xmind.net/)
-[GitMind - Free Online Mind Mapping](https://gitmind.com/)w
-[Home - Freeplane - free mind mapping and knowledge management software](https://www.freeplane.org/wiki/index.php/Home)
+> These are not yet reviewed
+
+Criteria:
+
+- auto layout
+- works offline or export to file
+- [preferable] plaintext editing
 
 [9 Tips to Use to Create Professional Mind Maps](https://www.makeuseof.com/tips-to-use-create-professional-mind-maps/)
 [How to Make a Mind Map in Excel: 5 Easy Methods](https://www.makeuseof.com/how-to-make-mind-map-excel/)
+[The best mind mapping software in 2022 | Zapier](https://zapier.com/blog/best-mind-mapping-software/)
+
+[Home - Freeplane - free mind mapping and knowledge management software](https://www.freeplane.org/wiki/index.php/Home)
+[Semantik - Mind-maps for KDE](https://waf.io/semantik.html)
+
+[GitMind - Free Online Mind Mapping](https://gitmind.com/)
+[XMind: The Most Professional Mind Mapping Software](http://www.xmind.net/) many feature behind paywall
+
+#### markmap
+
+> with Markdown header
+> no cross link
+
+[markmap](https://markmap.js.org/)
+
+[markmap - markmap docs](https://markmap.js.org/docs/markmap)
+used by [lynchjames/obsidian-mind-map](https://github.com/lynchjames/obsidian-mind-map)
+
+#### PlantUML
+
+> no cross link
+
+[MindMap syntax and features](https://plantuml.com/mindmap-diagram)
+[Blog - Create a mindmap from text with PlantUML](https://www.diagrams.net/blog/plantuml-mindmaps-from-text)
+
+[Non hierarchical cross-links in Mind Maps - PlantUML Q&A](https://forum.plantuml.net/10965/non-hierarchical-cross-links-in-mind-maps)
 
 ### mockup/wireframes
 
-> These are not yet reviewed, criteria:
->
-> - limitation on free tier
-> - UI
-> - stencils
-> - project persistence (preferably editable plaintext)
+> These are not yet reviewed
+
+Criteria:
+
+- limitation on free tier
+- UI
+- stencils (components)
+- project persistence (preferably editable plaintext)
 
 [10 Completely Free Wireframing and Mockup Tools](http://speckyboy.com/2011/02/23/10-completely-free-wireframing-and-mockup-tools/)
 [25 Free Mockup and Wireframe Tools for Web Designers](https://codecondo.com/free-wireframe-tools/)
@@ -346,6 +379,7 @@ Maybe include game engines?
 
 [[vscode]]
 [[sublime-text]]
+[[vim-notes]]
 
 TL;DR: use VSCode and skip this session
 
@@ -354,6 +388,9 @@ TL;DR: use VSCode and skip this session
 
 [zyedidia/micro: A modern and intuitive terminal-based text editor](https://github.com/zyedidia/micro)
 [welcome home : vim online](http://www.vim.org/)
+
+[Helix](https://helix-editor.com/)
+[Helix 🧬 the Rust Powered Development Environment - YouTube](https://www.youtube.com/watch?v=xHebvTGOdH8)
 
 [Geany : Home Page](http://www.geany.org/) !like
 [Eclipse - The Eclipse Foundation open source community website.](http://www.eclipse.org/)
@@ -1102,6 +1139,9 @@ numactl
 
 [AMD System Monitor](http://support.amd.com/en-us/kb-articles/Pages/AMDSystemMonitor.aspx)
 [NVIDIA System Monitor | NVIDIA](http://www.nvidia.com/object/system_monitor.html)
+
+[CoreCtrl / CoreCtrl · GitLab](https://gitlab.com/corectrl/corectrl) Profile based system control utility for CPU/GPU on Linux
+[CoreCtrl 1.0 overview - YouTube](https://www.youtube.com/watch?v=6uchS6OiwiU)
 
 ### check VRAM
 

@@ -12,8 +12,9 @@ tags:
 
 - Go-like syntax
 - compiles to human readable C
-- C compatibility,
+- C compatibility
 - manual memory allocation
+- autofree at compile time to reduce GC at runtime
 - generics
 - optionals (explicitly null pointers)
 
@@ -21,11 +22,16 @@ tags:
 
 [The V Programming Language: Vain Or Virtuous? | Hackaday](https://hackaday.com/2019/07/23/the-v-programming-language-vain-or-virtuous/)
 
+[V - Best Programming Language to Learn in 2023? - YouTube](https://www.youtube.com/watch?v=jr1EBaLkjfc)
 [Vlang: The language of 2023?? | Prime React - YouTube](https://www.youtube.com/watch?v=j47Hk5qE9As)
+
+- the promises are too good to be true
 
 ## Libraries
 
 [builtin | vdoc](https://modules.vlang.io/)
+[orm | vdoc](https://modules.vlang.io/orm.html)
+[vlang/ui: Cross-platform UI library written in V](https://github.com/vlang/ui)
 
 ## Package Manager
 

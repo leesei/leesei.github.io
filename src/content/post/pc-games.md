@@ -850,7 +850,7 @@ r_soft_shadows none
 [Prince of Persia: Warrior Within - Wikiwand](https://www.wikiwand.com/en/Prince_of_Persia:_Warrior_Within)
 [Prince of Persia: The Two Thrones - Wikiwand](https://www.wikiwand.com/en/Prince_of_Persia:_The_Two_Thrones)
 [Prince of Persia: The Forgotten Sands - Wikiwand](https://www.wikiwand.com/en/Prince_of_Persia:_The_Forgotten_Sands)
-[Prince of Persia (2008 video game) - Wikiwand](https://www.wikiwand.com/en/Prince_of_Persia_%282008_video_game%29)
+[Prince of Persia (2008 video game) - Wikiwand](<https://www.wikiwand.com/en/Prince_of_Persia_(2008_video_game)>)
 
 # Quantum Break
 
@@ -1042,7 +1042,7 @@ NG 小熊
 
 # Borderlands
 
-[Borderlands (series) - Wikiwand](https://www.wikiwand.com/en/Borderlands_%28series%29)
+[Borderlands (series) - Wikiwand](<https://www.wikiwand.com/en/Borderlands_(series)>)
 [Borderlands Wiki | FANDOM powered by Wikia](https://borderlands.fandom.com/wiki/Borderlands_Wiki)
 
 [gearbox "inside the box" - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQ5KFTbPZPJ0IysaSRdf_SEuQvhg%3A1571982591170&ei=_4yyXb2CCtbXhwOSuLOQBQ&q=gearbox+%22inside+the+box%22&oq=gearbox+%22inside+the+box%22&gs_l=psy-ab.3..0i22i30.75227.76158..76392...0.0..0.71.136.2......0....1..gws-wiz.......35i39.YiuISVK_Gtk&ved=0ahUKEwj9_cG_27blAhXW62EKHRLcDFIQ4dUDCAo&uact=5)
@@ -1148,7 +1148,7 @@ Leya 蕾雅
 [The Witcher 3 Mods - YouTube](https://www.youtube.com/playlist?list=PLc_GLmxEIywHjmQkhZauuUAAVfuIWbA1o)
 [The Witcher 3: Have You Tried These Mods? 2020 - YouTube](https://www.youtube.com/watch?v=JsC5CJcOu8s)
 
-[21 Great Witcher 3 Mods for Returning Players](https://za.ign.com/the-witcher-3/143191/feature/21-great-witcher-3-mods-for-returning-players?amp=1)
+[21 Great Witcher 3 Mods for Returning Players](https://za.ign.com/the-witcher-3/143191/feature/21-great-witcher-3-mods-for-returning-players)
 [The best Witcher 3 mods | PCGamesN](https://www.pcgamesn.com/the-witcher-3-wild-hunt/best-witcher-3-mods)
 
 [The Witcher 3 Enhanced Edition V4.90 released, adds combat stance options, fixes various issues & more - DSOGaming](https://www.dsogaming.com/news/the-witcher-3-enhanced-edition-v4-90-released-adds-combat-stance-options-fixes-various-issues-more/)
@@ -1194,6 +1194,14 @@ Switch:
 Tales of Vesperia
 
 [Tales Of Vesperia 2019 Definitive.. Starter Guide + Game Info..Is this Game for you ? - YouTube](https://www.youtube.com/watch?v=nz6LYzxCO98)
+
+## Tales of Zestiria
+
+[Tales of Zestiria - Wikiwand](https://www.wikiwand.com/en/Tales_of_Zestiria)
+
+Install the 60FPS TZFix mod, and watch Swillo's video, "Battle System Guide (Basics to Intermediate Stuff)" - particularly the bit on spell cancelling while armatized. The game does such a poor job explaining key features through bland walls of text, which will make anyone's head spin.
+
+Doing the two things above made this game go from a 6/10 to a 9/10.
 
 # Dishonored
 
@@ -1487,8 +1495,8 @@ TX系列任务 骇翼[1] & 机器人[2]
 [Welcome to the OpenBVE Project homepage. – OpenBVE](https://openbve-project.net/)
 [下載區 - 香港模擬鐵路發展中心 HKRSC](https://hkrailsimcentre.weebly.com/199793661721312.html)
 
-[大學生製香港模擬鐵路　成條路線搬入電腦：小朋友玩得開心最緊要｜香港 01 ｜熱爆話題](https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/696605/%E5%A4%A7%E5%AD%B8%E7%94%9F%E8%A3%BD%E9%A6%99%E6%B8%AF%E6%A8%A1%E6%93%AC%E9%90%B5%E8%B7%AF-%E6%88%90%E6%A2%9D%E8%B7%AF%E7%B7%9A%E6%90%AC%E5%85%A5%E9%9B%BB%E8%85%A6-%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%8E%A9%E5%BE%97%E9%96%8B%E5%BF%83%E6%9C%80%E7%B7%8A%E8%A6%81)
-[電腦遊戲神還原屯馬線如港版電車 Go 　學生團隊年半製作驚艷鐵道迷｜香港 01 ｜熱爆話題](https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/696604/%E9%9B%BB%E8%85%A6%E9%81%8A%E6%88%B2%E7%A5%9E%E9%82%84%E5%8E%9F%E5%B1%AF%E9%A6%AC%E7%B7%9A%E5%A6%82%E6%B8%AF%E7%89%88%E9%9B%BB%E8%BB%8Ago-%E5%AD%B8%E7%94%9F%E5%9C%98%E9%9A%8A%E5%B9%B4%E5%8D%8A%E8%A3%BD%E4%BD%9C%E9%A9%9A%E8%89%B7%E9%90%B5%E9%81%93%E8%BF%B7)
+[大學生製香港模擬鐵路　成條路線搬入電腦：小朋友玩得開心最緊要｜香港 01 ｜熱爆話題](https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/696605/)
+[電腦遊戲神還原屯馬線如港版電車 Go 　學生團隊年半製作驚艷鐵道迷｜香港 01 ｜熱爆話題](https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/696604/)
 
 # Horizon Zero Dawn
 

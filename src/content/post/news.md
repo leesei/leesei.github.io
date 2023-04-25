@@ -9,16 +9,15 @@ tags:
 [852 郵報](https://www.post852.com/)
 [香港 01 ｜ hk01.com 倡議型媒體](https://www.hk01.com/)
 [香港獨立媒體網](https://www.inmediahk.net/)
-[Stand News 立場新聞](https://thestandnews.com/)
 [主場博客 – The House News Bloggers](https://thehousenewsbloggers.net/)
 [端傳媒 Initium Media](https://theinitium.com/)
 
 [熱血時報 | 主頁](https://www.passiontimes.hk/4.0/index.php)
 [謎米香港](http://memehk.com/)
 [巴士的報](https://www.bastillepost.com/hongkong/)
-[HKG 報](https://www.hkgpao.com/)
 
-[主場新聞 - Wikiwand](https://www.wikiwand.com/zh-hant/%E4%B8%BB%E5%A0%B4%E6%96%B0%E8%81%9E) ended
+[聞庫](https://collection.news/) 《蘋果日報》及《立場新聞》文庫
+[主場新聞 - Wikiwand](https://www.wikiwand.com/zh-hant/%E4%B8%BB%E5%A0%B4%E6%96%B0%E8%81%9E) closed
 
 [memehongkong - YouTube](https://www.youtube.com/channel/UCu_YquoQYKR3GpP82TO-zRw) 蕭若元
 [城寨 Singjai - YouTube](https://www.youtube.com/channel/UC0zUmHNpkviI6UZ0uqCYrww) 劉細良

@@ -3,9 +3,9 @@ title: Reverse Proxy
 description: ""
 created: 2015-06-17
 tags:
+  - dev/deploy
   - web
   - web/deploy
-  - dev/deploy
 ---
 
 [Reverse proxy - Wikiwand](https://www.wikiwand.com/en/Reverse_proxy)
@@ -204,7 +204,7 @@ https://caddyserver.com/download?\
 [For Mastodon Caddy Setting file. (Based on official Nginx configuration example) [Last Update: May 16, 2020]](https://gist.github.com/ehlxr/37764950fcb4d68d3a00b5f0000823e7) v1 -> v2
 [Upgrading to Caddy 2 — Caddy Documentation](https://caddyserver.com/docs/v2-upgrade)
 
-[Caddy offers TLS, HTTPS, and more in one dependency-free Go Web server – Ars Technica](https://arstechnica.com/gadgets/2020/05/caddy-offers-tls-https-and-more-in-one-dependency-free-go-web-server/?amp=1)
+[Caddy offers TLS, HTTPS, and more in one dependency-free Go Web server – Ars Technica](https://arstechnica.com/gadgets/2020/05/caddy-offers-tls-https-and-more-in-one-dependency-free-go-web-server/amp/)
 
 ### Troubleshooting
 

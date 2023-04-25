@@ -27,7 +27,7 @@ tags:
 [Exploring React's State Propagation](https://www.sitepoint.com/exploring-reacts-state-propagation/)
 [Common React.js mistakes: Unneeded state - React Kung Fu](http://reactkungfu.com/2015/09/common-react-dot-js-mistakes-unneeded-state/)
 [State is an antipattern : reactjs](https://www.reddit.com/r/reactjs/comments/3bjdoe/state_is_an_antipattern/)
-[How to become a pro with React setState() in 10 minutes](https://medium.freecodecamp.org/get-pro-with-react-setstate-in-10-minutes-d38251d1c781)
+[How to become a pro with React setState() in 10 minutes](https://www.freecodecamp.org/news/get-pro-with-react-setstate-in-10-minutes-d38251d1c781)
 [How Does setState Know What to Do? — Overreacted](https://overreacted.io/how-does-setstate-know-what-to-do/)
 [How State Updates Are Merged in React - Robin Kim - Medium](https://medium.com/@rykyou/how-state-updates-are-merged-in-react-e07fc669fec2)
 [Top 6 React state management libraries for 2022](https://blog.openreplay.com/top-6-react-state-management-libraries-for-2022)

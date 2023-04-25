@@ -18,7 +18,7 @@ tags:
 [Zelda Wiki](https://zelda.gamepedia.com/Main_Page)
 
 [THE LEGEND OF ZELDA: Breath Of The Wild FOR BEGINNERS - YouTube](https://www.youtube.com/watch?v=qCCpwFYibmU) funny
-[How to Update The Legend of Zelda: Breath of the Wild (Nintendo Switch) | Nintendo Support](https://en-americas-support.nintendo.com/app/answers/detail/a_id/25568/~/how-to-update-the-legend-of-zelda%3A-breath-of-the-wild-%28nintendo-switch%29)
+[How to Update The Legend of Zelda: Breath of the Wild (Nintendo Switch) | Nintendo Support](<https://en-americas-support.nintendo.com/app/answers/detail/a_id/25568/~/how-to-update-the-legend-of-zelda%3A-breath-of-the-wild-(nintendo-switch)>)
 [A Big Fat Review of Breath of the Wild - YouTube](https://www.youtube.com/watch?v=DgIdymgu0yo) 3 hours, spoiler heavy
 
 [Breath of the Wild Interactive Map](https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/)

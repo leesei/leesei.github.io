@@ -1,16 +1,21 @@
 ---
-title: Web Assembly Archives
-description: "Archived Web Assembly notes"
+title: Web Assembly (Archives)
+description: Archived Web Assembly notes
 created: 2023-03-28
 tags:
-  - web
+  - archived
   - wasm
+  - web
 ---
 
 ## Old News
 
-[Announcing the Bytecode Alliance: Building a secure by default, composable future for WebAssembly - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2019/11/announcing-the-bytecode-alliance/)
-[The Web is getting its bytecode: WebAssembly | Ars Technica](http://arstechnica.com/information-technology/2015/06/the-web-is-getting-its-bytecode-webassembly/)
+[Announcing the Bytecode Alliance: Building a secure by default, composable future for WebAssembly - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2019/11/announcing-the-bytecode-alliance/) 2019-11
+[The Web is getting its bytecode: WebAssembly | Ars Technica](http://arstechnica.com/information-technology/2015/06/the-web-is-getting-its-bytecode-webassembly/) 2015-06
+[WebAssembly: a binary format for the web](http://www.2ality.com/2015/06/web-assembly.html) 2015-06
+[7 Things You Should Know About WebAssembly](https://auth0.com/blog/2015/10/14/7-things-you-should-know-about-web-assembly) 2015-10
+[WASM: Universal Application Runtime - Cybernetist](https://cybernetist.com/2019/04/25/wasm-universal-application-runtime/) 2019-04
+[WebAssembly: What Is It And Why Should You Care? | Hackaday](https://hackaday.com/2019/04/04/webassembly-what-is-it-and-why-should-you-care/) 2019-04
 
 [The State of WebAssembly 2021](https://blog.scottlogic.com/2021/06/21/state-of-wasm.html)
 [The State of WebAssembly - 2020 and 2021](https://platform.uno/blog/the-state-of-webassembly-2020-and-2021/)

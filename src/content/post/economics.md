@@ -23,6 +23,11 @@ Public goods
 
 [Trump's Biggest Failure - YouTube](https://www.youtube.com/watch?v=hhMAt3BluAU) Global trade; first use of containers at 26th April, 1956; Modern China
 
+[Economic Principles](https://www.economicprinciples.org/)
+[How The Economic Machine Works by Ray Dalio - YouTube](https://www.youtube.com/watch?v=PHe0bXAIuk0)
+[经济机器是怎样运行的 (时长 30 分钟) Ray Dalio - YouTube](https://www.youtube.com/watch?v=rFV7wdEX-Mo)
+[Principles for Dealing with the Changing World Order by Ray Dalio - YouTube](https://www.youtube.com/watch?v=xguam0TKMw8) the Big Cycle
+
 [這本書讓我從慘賠 40 萬到重新賺回來，為什麼眾多理財專家都推薦它？｜《投資最重要的事》｜啾啾鞋 - YouTube](https://www.youtube.com/watch?v=9oV47AeaYmw)
 
 ## 財技
@@ -34,9 +39,6 @@ Level 1: MBS (Mortgage Based Security) / ABS (Asset Based Security)
 Level 2: CDO packages MBS/ABS as security, CDO², CDO³, ...
 Level 3: CDS insurances for MBS/ABS/CDO, CDS², CDS³, ...
 
-[Economic Principles](https://www.economicprinciples.org/)
-[How The Economic Machine Works by Ray Dalio - YouTube](https://www.youtube.com/watch?v=PHe0bXAIuk0)
-[经济机器是怎样运行的 (时长 30 分钟) Ray Dalio - YouTube](https://www.youtube.com/watch?v=rFV7wdEX-Mo)
 [最干货的一期｜专业股票投资人怎么看门道？ - YouTube](https://www.youtube.com/watch?v=xnIYIpXKvNM)
 
 [【止凡】價投講財技一\_細價股財技係乜？乜係殼？乜係肉？【財自話語 第三十一話】 - YouTube](https://www.youtube.com/watch?v=kdqXy_OjL30)

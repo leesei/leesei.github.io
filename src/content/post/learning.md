@@ -9,20 +9,16 @@ featured: true
 
 > There are many learning resources online, the important thing is to know your learning style.
 
-[【不止遊戲】現實中的每個人，會有遊戲等級來區分強弱嗎？ - YouTube](https://www.youtube.com/watch?v=CL91d2G7yyw)
+See [[second-brain]] on how to record your knowledge
 
-[如何儲存你的檔案，才能快速找到它們？ | T 客邦](https://www.techbang.com/posts/100481-how-do-i-store-files-so-i-can-find-them-quickly)
-PARA: Projects （專案）、Areas （領域）、Resources （資源）、Archives （檔案）
-專案：一系列與目標相關的任務，有一個截止日期。比如 「完成一個應用程式的模型」，「訂定出遊計畫」，「寫一篇部落客文章」，「在會議上演講」。
-領域：一個活動範圍或類別，比如 「健康」，「財務」，「職業發展」，「汽車」，「產品開發」。
-資源：一個持續關注的話題或主題，比如 「習慣養成」，「音樂」，「網路行銷」，「室內設計」，等等。
-檔案：儲存的資訊。在這裡強烈建議無紙化儲存，像是把紙本帳單、發票掃描成電子檔案，這樣方便查找，也可以將其儲存網路上。
+[【不止遊戲】現實中的每個人，會有遊戲等級來區分強弱嗎？ - YouTube](https://www.youtube.com/watch?v=CL91d2G7yyw)
 
 [Study Skills - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNcAJRf3bE1IJU6nMfHj86W)
 
 "First-principal thinking is required to break out of iterative improvements and make order of magnitude improvements" - Simon Eskildsen
 Do learn from first-principal
 
+[Phind - The AI search engine for developers.](https://www.phind.com/)
 [Learn Anything](https://learn-anything.xyz/)
 [How To Get Motivated According To Behavioral Psychology](https://hackernoon.com/how-to-get-motivated-43d3d70a95d4)
 [VideoLectures.NET - VideoLectures.NET](http://videolectures.net/)
@@ -65,6 +61,8 @@ Do learn from first-principal
 - System 1: sub-consciousness, perceives and preprocess data, fast, work automatically
 - System 2: consciousness, careful, slow but lazy
 
+[我是如何快速学习一个领域的 - YouTube](https://www.youtube.com/watch?v=EViSmcCPK5g) 小 Lin 說
+
 [Steve Jobs's Philosophy - YouTube](https://www.youtube.com/watch?v=zklbZR9025Y)
 
 | Known Known   | Unknown Known   |
@@ -77,9 +75,11 @@ Podcast and mailing lists is a good way to discover Unknown Unknown
 - Acquire different views and critiques on a topic
 - Form your own opinions
 
+## Books
+
 [cheap 書單 - Google Sheets](https://docs.google.com/spreadsheets/d/15_ZTHuOyyWSc-YuiSwkAESVyAUUyuP7u-1wcdE486lQ/edit#gid=0)
 
-[amirgamil/apollo: A Unix-style personal search engine and web crawler for your digital footprint.](https://github.com/amirgamil/apollo)
+[Ultralearning - Scott H Young](https://www.scotthyoung.com/blog/ultralearning/)
 
 ## Learning Theory
 
@@ -89,6 +89,16 @@ Podcast and mailing lists is a good way to discover Unknown Unknown
 
 [Project-based learning - Wikiwand](https://www.wikiwand.com/en/Project-based_learning)
 [What is Project Based Learning? | PBLWorks](https://www.pblworks.org/what-is-pbl)
+
+[我是如何快速学习一个领域的 - YouTube](https://www.youtube.com/watch?v=EViSmcCPK5g) 小 Lin 說
+
+- come up with a framework to organize the topic
+  - existing table of context on the topic
+  - overview/intro on the topic
+- ask "Why?"
+- organize the timeline of things happened
+
+### The Feynman Technique
 
 [为什么费曼技巧被称为终极学习法 (Why feynman technique works) - YouTube](https://www.youtube.com/watch?v=7iNJyEbYDdc)
 [My Biggest Studying Mistake - The Feynman Technique - YouTube](https://www.youtube.com/watch?v=IDB_3S1ezsc&t=177s)
@@ -131,7 +141,7 @@ I use these extensions:
 - [medium infinity reader - Chrome Web Store](https://chrome.google.com/webstore/detail/medium-infinity-reader/fgmeboblogphchmhbkppjdjohckmmhan?hl=en)
   [yiyu0x/medium-infinity-reader: A chrome extension help you read medium without restrict.](https://github.com/yiyu0x/medium-infinity-reader)
 
-FreeCodeCamp (medium.freecodecamp.org) and Hackernoon (medium.com/hackernoon) moved away from Medium
+FreeCodeCamp (www.freecodecamp.org/news) and Hackernoon (medium.com/hackernoon) moved away from Medium
 
 ## Type of Learner
 
@@ -170,8 +180,8 @@ If you are a Kinesthetic learner, then you learn best by doing. You like to enga
 
 [Judging Your Originality in a Cut and Paste World - Note to Self - WNYC](http://www.wnyc.org/story/plagiarism-students-turnitin/)
 
-[【SEN．一】推行 20 多年　融合教育真的有用嗎？｜香港 01 ｜周報](https://www.hk01.com/%E5%91%A8%E5%A0%B1/359939/sen-%E4%B8%80-%E6%8E%A8%E8%A1%8C20%E5%A4%9A%E5%B9%B4-%E8%9E%8D%E5%90%88%E6%95%99%E8%82%B2%E7%9C%9F%E7%9A%84%E6%9C%89%E7%94%A8%E5%97%8E)
-[【SEN．二】高中讀美術設計　卻因表達力弱只能在便利店兼職｜香港 01 ｜周報](https://www.hk01.com/%E5%91%A8%E5%A0%B1/359946/sen-%E4%BA%8C-%E9%AB%98%E4%B8%AD%E8%AE%80%E7%BE%8E%E8%A1%93%E8%A8%AD%E8%A8%88-%E5%8D%BB%E5%9B%A0%E8%A1%A8%E9%81%94%E5%8A%9B%E5%BC%B1%E5%8F%AA%E8%83%BD%E5%9C%A8%E4%BE%BF%E5%88%A9%E5%BA%97%E5%85%BC%E8%81%B7)
+[【SEN．一】推行 20 多年　融合教育真的有用嗎？｜香港 01 ｜周報](https://www.hk01.com/%E5%91%A8%E5%A0%B1/359939/)
+[【SEN．二】高中讀美術設計　卻因表達力弱只能在便利店兼職｜香港 01 ｜周報](https://www.hk01.com/%E5%91%A8%E5%A0%B1/359946/)
 
 On education:
 [H.I. #9: Kids in a Box - YouTube](https://www.youtube.com/watch?v=zj3iJCT6d0M)

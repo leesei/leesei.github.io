@@ -8,7 +8,7 @@ tags:
 ---
 
 > TODO: merge `caravan/database/` here
-> TODO: split `mysql`, `postgresql`, `redis`, `tikv-tidb`, `datebase-graph`, `datebase-as-a-service`, `datebase-transactional`, `datebase-kv`, `datebase-document`, ` datebase-lightweight`, `datebase-multimodal `
+> split `mysql`, `postgresql`, `redis`, `tikv-tidb`, `datebase-graph`, `datebase-as-a-service`, `datebase-transactional`, `datebase-kv`, `datebase-document`, `datebase-lightweight`, `datebase-multimodal `
 
 [Database - Wikiwand](https://www.wikiwand.com/en/Database)
 [Databases 101 - Thomas LaRock](https://thomaslarock.com/2018/07/databases-101/)
@@ -26,12 +26,6 @@ tags:
 
 [XML database - Wikiwand](https://www.wikiwand.com/en/XML_database)
 
-[Brewer's CAP Theorem <= :julianbrowne](http://www.julianbrowne.com/article/viewer/brewers-cap-theorem)
-[CAP theorem - Wikiwand](http://www.wikiwand.com/en/CAP_theorem)
-[CAP Twelve Years Later: How the "Rules" Have Changed](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)
-[Blog | Plan setup, pause-minority, mirrored nodes and the CAP theorem - CloudAMQP, RabbitMQ as a Service](https://www.cloudamqp.com/blog/2015-12-29-cloudamqp-plan-setup-pause-minority-mirrored-nodes-and-the-cap-theorem.html)
-[Spanner, TrueTime and the CAP Theorem – Google AI](https://ai.google/research/pubs/pub45855)
-
 [NoSQL 数据库不应该放弃 Consistency](https://www.infoq.cn/article/rhzs0KI2G*Y2r9PMdeNv)
 
 [Database Theory - MariaDB Knowledge Base](https://mariadb.com/kb/en/library/database-theory/)
@@ -39,10 +33,27 @@ tags:
 
 [VoltDB and the Jepsen Test: What we learned about data accuracy and consistency - VoltDB](https://www.voltdb.com/files/voltdb-jepsen-test/)
 
+## CAP Theorem
+
+[CAP theorem - Wikiwand](http://www.wikiwand.com/en/CAP_theorem)
+[Brewer's CAP Theorem <= :julianbrowne](http://www.julianbrowne.com/article/viewer/brewers-cap-theorem)
+[CAP Twelve Years Later: How the "Rules" Have Changed](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)
+[Blog | Plan setup, pause-minority, mirrored nodes and the CAP theorem - CloudAMQP, RabbitMQ as a Service](https://www.cloudamqp.com/blog/2015-12-29-cloudamqp-plan-setup-pause-minority-mirrored-nodes-and-the-cap-theorem.html)
+[Spanner, TrueTime and the CAP Theorem – Google AI](https://ai.google/research/pubs/pub45855)
+
 [Episode 227: Eric Brewer: The CAP Theorem, Then and Now : Software Engineering Radio](http://www.se-radio.net/2015/05/the-cap-theorem-then-and-now/)
+
+## RUM Conjecture
+
+Read, Update, Memory amplification
+
+[RUM Conjecture Series' Articles - DEV Community](https://dev.to/frosnerd/series/8854)
+[The RUM Conjecture | Codementor](https://www.codementor.io/@arpitbhayani/the-rum-conjecture-16z2ckqte9)
+[EDBT-RUM-Conjecture-public](https://cs-people.bu.edu/mathan/publications/slides/edbt2016-RUM-Conjecture-slides-public.pdf)
 
 ## Data Modeling
 
+[Making The Invalid Impossible - Choosing The Right Data Model - DEV Community](https://dev.to/frosnerd/making-the-invalid-impossible---choosing-the-right-data-model-9e6)
 [Developer: Data Modeling - Neo4j Graph Database](http://neo4j.com/developer/data-modeling/) (Neo4j)
 [Database Design - Introduction](http://www.tomjewett.com/dbdesign/dbdesign.php?page=intro.html)
 [A beginner's guide to database table relationships - Vlad Mihalcea](https://vladmihalcea.com/database-table-relationships/)
@@ -139,6 +150,8 @@ Innodb B-tree, fast for read and update workload
 
 ## Storage Engines
 
+[[algorithm#Database Data Structures]]
+
 [Database engine - Wikiwand](https://www.wikiwand.com/en/Database_engine)
 [MySQL Storage Engines » ADMIN Magazine](http://www.admin-magazine.com/Articles/A-storage-engine-for-every-use-case)
 
@@ -152,19 +165,9 @@ Innodb B-tree, fast for read and update workload
 
 [RocksDB - Wikiwand](https://www.wikiwand.com/en/RocksDB) KV
 
+[Database Pages — A deep dive. The Physical storage of rows and… | by Hussein Nasser | Medium](https://medium.com/@hnasr/database-pages-a-deep-dive-38cdb2c79eb5)
+
 [How Discord Stores Trillions of Messages | Deep Dive - YouTube](https://www.youtube.com/watch?v=xynXjChKkJc)
-
-- B tree
-- B+ tree
-- LSM tree
-
-### Log Structured Merge (LSM) Tree
-
-[The Secret Sauce Behind NoSQL: LSM Tree - YouTube](https://www.youtube.com/watch?v=I6jB0nM9SKU)
-
-- optimized for fast write
-- bloom filter (which return firm no or probably yes) for key lookup on level
-  B-Tree, used in SQL DB, is optimized for fast write
 
 ## SQL family
 
@@ -241,6 +244,7 @@ Provides ACID consistency.
 
 [Rise of Globally Distributed SQL Databases - Redefining Transactional Stores for Cloud Native Era - The Distributed SQL Blog](https://blog.yugabyte.com/rise-of-globally-distributed-sql-databases-redefining-transactional-stores-for-cloud-native-era/)
 
+[LONG LIVE SQL - YouTube](https://www.youtube.com/watch?v=j_QH5wF9XBg)
 [When should you shard your database? - YouTube](https://www.youtube.com/watch?v=iHNovZUZM3A)
 [Horizontal vs Vertical Database Partitioning - YouTube](https://www.youtube.com/watch?v=QA25cMWp9Tk)
 [Avoid premature Database Sharding - YouTube](https://www.youtube.com/watch?v=aXD4tWbkoJo)
@@ -314,16 +318,6 @@ HAProxy recipes
 [Context aware MySQL pools via HAProxy | GitHub Engineering](https://githubengineering.com/context-aware-mysql-pools-via-haproxy/)
 [Mitigating replication lag and reducing read load with freno | GitHub Engineering](https://githubengineering.com/mitigating-replication-lag-and-reducing-read-load-with-freno/)
 
-## UI Client
-
-[DBeaver | Free Universal Database Tool](https://dbeaver.io/)
-[dbeaver/dbeaver: Free universal database tool and SQL client](https://github.com/dbeaver/dbeaver)
-
-[DbGate | Open Source (no)SQL Database Client](https://dbgate.org/)
-[dbgate/dbgate: Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application](https://github.com/dbgate/dbgate)
-
-[DB Browser for SQLite](http://sqlitebrowser.org/)
-
 ## MySQL
 
 [MySQL](https://www.mysql.com/)
@@ -391,7 +385,7 @@ MySQL's data clustering means the primary key affects data I/O; Postgres does no
 [NoSQL: Past, Present, Future](http://www.infoq.com/presentations/NoSQL-History)
 [Visual Guide To NoSQL Systems](http://blog.nahurst.com/visual-guide-to-nosql-systems)
 [Why SQL Database? - VoltDB](https://www.voltdb.com/product/features-benefits/sql-database/)
-[The basics of NoSQL databases — and why we need them](https://medium.freecodecamp.org/nosql-databases-5f6639ed9574)
+[The basics of NoSQL databases — and why we need them](https://www.freecodecamp.org/news/nosql-databases-5f6639ed9574)
 [SQL vs NoSQL: The Differences — SitePoint](https://www.sitepoint.com/sql-vs-nosql-differences/)
 [When SQL Isn’t the Right Answer - Better Programming - Medium](https://medium.com/better-programming/when-sql-isnt-the-right-answer-7d06902bc940)
 [NoSQL Databases: Why You Don’t Need Them](https://www.singlestore.com/blog/why-nosql-databases-wrong-tool-for-modern-application/)
@@ -430,6 +424,9 @@ The first three supports relationship by a second index lookup, `JOIN`-like oper
 [Monitoring systemd services in realtime with Chronograf – devconnected](http://devconnected.com/monitoring-systemd-services-in-realtime-with-chronograf/)
 
 ## UI Client
+
+[DbGate | Open Source (no)SQL Database Client](https://dbgate.org/) !important
+[dbgate/dbgate: Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application](https://github.com/dbgate/dbgate)
 
 [FastoNoSQL - cross-platform GUI Manager for Redis, Memcached, SSDB, LevelDB, RocksDB, LMDB, Unqlite, ForestDB, Pika, Dynomite and KeyDB databases.](https://fastonosql.com/)
 [fastogt/fastonosql: FastoNoSQL is a crossplatform Redis, Memcached, SSDB, LevelDB, RocksDB, UnQLite, LMDB, ForestDB, Pika, Dynomite, KeyDB GUI management tool.](https://github.com/fastogt/fastonosql/)
@@ -533,7 +530,7 @@ The first three supports relationship by a second index lookup, `JOIN`-like oper
 
 ## LevelDB
 
-> see `#pouchdb` for higher level API
+> see [[#PouchDB]] for higher level API
 
 [LevelDB.org](http://leveldb.org/)
 [google/leveldb: LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.](https://github.com/google/leveldb)
@@ -594,7 +591,7 @@ CouchDB, LevelDB and browsers compatible
 
 ### Ecosystem
 
-> see `#leveldb`
+[[#LevelDB]]
 
 [PouchDB Community](https://github.com/pouchdb-community)
 [Adapters](https://pouchdb.com/adapters.html)
@@ -707,7 +704,7 @@ The company behind RethinkDB shutdown in 2016-10. CNCF bought the rights to the 
 [JetBrains/xodus: JetBrains Xodus is a Java transactional schema-less embedded database used by JetBrains YouTrack and JetBrains Hub.](https://github.com/JetBrains/xodus)
 [Home · JetBrains/xodus Wiki](https://github.com/JetBrains/xodus/wiki)
 
-[How to use the Xodus database in Kotlin applications](https://medium.freecodecamp.org/how-to-use-the-xodus-database-in-kotlin-applications-3f899896b9df)
+[How to use the Xodus database in Kotlin applications](https://www.freecodecamp.org/news/how-to-use-the-xodus-database-in-kotlin-applications-3f899896b9df)
 
 ## RavenDB
 
@@ -1092,6 +1089,8 @@ Indices points to offset in heap and may become stale (needs to be vacuumed)
 [athenianco/asyncpg-rkt: A fast PostgreSQL Database Client Library for Python/asyncio.](https://github.com/athenianco/asyncpg-rkt) fork that returns dataframe
 [I Forked “Asyncpg” — And It Parses Database Records to Numpy 20x Faster | by Vadim Markovtsev | Jun, 2022 | Better Programming](https://betterprogramming.pub/i-forked-asyncpg-and-it-parses-database-records-to-numpy-20x-faster-e71024a84bff)
 
+[Quicker serverless Postgres connections - Neon](https://neon.tech/blog/quicker-serverless-postgres) websocket, TLS
+
 ### GUI
 
 [pgAdmin - PostgreSQL Tools](https://www.pgadmin.org/)
@@ -1315,15 +1314,17 @@ distributed ACID document DB
 
 # Time Series
 
-[Time Series Database | NoSQL Time Series Database | Riak TS | Basho](http://basho.com/products/riak-ts/)
-[OpenTSDB - A Distributed, Scalable Monitoring System](http://opentsdb.net/)
-[Timescale | an open-source time-series SQL database optimized for fast ingest, complex queries and scale.](https://www.timescale.com/)
+[What Are Time Series Databases, and Why Do You Need Them? - The New Stack](https://thenewstack.io/what-are-time-series-databases-and-why-do-you-need-them/)
 [4 Best Time Series Databases To Watch in 2019 – devconnected](http://devconnected.com/4-best-time-series-databases-to-watch-in-2019/)
 [Time Series Analysis For Beginners - Towards Data Science](https://towardsdatascience.com/time-series-analysis-for-beginners-8a200552e332)
 
 Time series database is also good for logging
 
 [Time Series Analysis Introduction — A Comparison of ARMA, ARIMA, SARIMA Models | by Destin Gong | Nov, 2022 | Towards Data Science](https://towardsdatascience.com/time-series-analysis-introduction-a-comparison-of-arma-arima-sarima-models-eea5cbf43c73)
+
+[Time Series Database | NoSQL Time Series Database | Riak TS | Basho](http://basho.com/products/riak-ts/)
+[OpenTSDB - A Distributed, Scalable Monitoring System](http://opentsdb.net/)
+[Timescale | an open-source time-series SQL database optimized for fast ingest, complex queries and scale.](https://www.timescale.com/)
 
 [LinkedIn 開源時間序列預測函式庫 Greykite | iThome](https://www.ithome.com.tw/news/144430)
 [Greykite: A flexible, intuitive, and fast forecasting library | LinkedIn Engineering](https://engineering.linkedin.com/blog/2021/greykite--a-flexible--intuitive--and-fast-forecasting-library)

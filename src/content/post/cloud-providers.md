@@ -3,9 +3,9 @@ title: Cloud Providers
 description: ""
 created: 2015-06-17
 tags:
+  - dev/deploy
   - web
   - web/deploy
-  - dev/deploy
 ---
 
 [The history of cloud: a fairy tale | Network World](http://www.networkworld.com/article/3217325/cloud-computing/the-history-of-cloud-a-fairy-tale.html)
@@ -262,6 +262,8 @@ Supports dynamic scaling out of the box, higher tier support more advances scali
 [Azure Functions - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-functions/bg-p/AzureFunctionsBlog)
 [Azure Functions Serverless Compute | Microsoft Azure](https://azure.microsoft.com/en-us/services/functions/)
 [Azure Functions - YouTube](https://www.youtube.com/channel/UCtUYj6As_XFkOooUFnsJbYg/featured)
+Durable function
+Fan out pattern
 
 [Create your first function in Azure using Visual Studio Code | Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-vs-code?pivots=programming-language-python)
 [Easy Data Processing With Azure Fun -Tania Allard - Sponsor Workshop: Microsoft - YouTube](https://www.youtube.com/watch?v=PV7iy6FPjAY)
@@ -328,6 +330,8 @@ Plenty of add-ons
 [How Cloud-init can be used for your Raspberry Pi homelab | Opensource.com](https://opensource.com/article/20/5/cloud-init-raspberry-pi-homelab)
 [Add nodes to your private cloud using Cloud-init | Opensource.com](https://opensource.com/article/20/5/create-simple-cloud-init-service-your-homelab)
 [An Introduction to Cloud-Config Scripting | DigitalOcean](https://www.digitalocean.com/community/tutorials/an-introduction-to-cloud-config-scripting)
+
+[Cost-effective platform for running your microservices apps](https://controlplane.com/) patented Universal Cloud Identity
 
 ## Amazon Web Service
 

@@ -23,8 +23,14 @@ tags:
 Ivy is a new backwards-compatible Angular renderer focused on further speed improvements, size reduction, and increased flexibility.
 
 [First Look: Angular Ivy](https://www.telerik.com/blogs/first-look-angular-ivy)
-[angular/architecture.md at master · angular/angular](https://github.com/angular/angular/blob/master/packages/compiler/design/architecture.md)
-[angular/STATUS.md at master · angular/angular](https://github.com/angular/angular/blob/master/packages/core/src/render3/STATUS.md)
+[angular/architecture.md at main · angular/angular](https://github.com/angular/angular/blob/main/packages/compiler/design/architecture.md)
+
+## Signals
+
+[Angular 🚦 Signals 📡 (The future of Angular) | by Zied ZAYANI | Mar, 2023 | ITNEXT](https://itnext.io/angular-signals-the-future-of-angular-395a69e60062)
+
+[zone.js - npm](https://www.npmjs.com/package/zone.js?activeTab=readme)
+[[Day 08]可能是最簡單的 Zone.js 教學 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10220772)
 
 ## Angular
 

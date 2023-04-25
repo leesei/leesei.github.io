@@ -1,7 +1,7 @@
 ---
 title: Nuclear Weapon
 description: ""
-created: 2015-06-07
+created: 2023-03-24
 tags:
   - history
   - science

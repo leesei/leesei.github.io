@@ -53,7 +53,7 @@ The first two Dynasties have 殉葬制度
 [History for GRANITE - YouTube](https://www.youtube.com/@HistoryforGRANITE)
 [Updating the Great Pyramid Internal Ramp Theory - YouTube](https://www.youtube.com/watch?v=_JlnMs616Z0)
 
-[Ancient Egyptian Pyramids - Map - HeritageDaily - Archaeology News](https://www.heritagedaily.com/2020/04/ancient-egyptian-pyramids-map/118351?amp=1)
+[Ancient Egyptian Pyramids - Map - HeritageDaily - Archaeology News](https://www.heritagedaily.com/2020/04/ancient-egyptian-pyramids-map/118351)
 [顛覆認知，金字塔最詳細合理的建造過程！不需要 10 萬奴隸，也並非外星技術！【紅桃 K 日記】 - YouTube](https://www.youtube.com/watch?v=XEQKxP_s1UE)
 [金字塔建造記錄出土？梅勒日記被稱為「21 世紀古埃及最重要發現」！【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=4EIGcUo2gZ8)
 [Updating the Great Pyramid Internal Ramp Theory - YouTube](https://www.youtube.com/watch?v=_JlnMs616Z0)

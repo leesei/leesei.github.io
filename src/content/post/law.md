@@ -53,6 +53,9 @@ Hong Kong Laws are generally composed of the Basic Law, Common Law, Rules of Equ
 
 [No Special Duty](https://radiolab.org/episodes/no-special-duty-2206)
 
+Negative duty
+Affirmative duty
+
 [Warren v. District of Columbia - Wikiwand](https://www.wikiwand.com/en/Warren_v._District_of_Columbia)
 [Town Of Castle Rock, Colorado V. Gonzales: Implications for Public Health Policy and Practice - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1525280/)
 
@@ -63,3 +66,8 @@ Hong Kong Laws are generally composed of the Basic Law, Common Law, Rules of Equ
 
 [How to achieve cookie compliance | GDPR Checklists |](https://www.cookiebot.com/en/cookie-compliance/)
 [GDPR and cookie consent | Compliant cookie use](https://www.cookiebot.com/en/gdpr-cookies/)
+
+## Lord Kelvin
+
+[William Thomson, 1st Baron Kelvin - Wikiwand](https://www.wikiwand.com/en/William_Thomson,_1st_Baron_Kelvin)
+[Transmission Line Theory is Born - the GENIUS of Lord Kelvin and the FAILED transatlantic cable - YouTube](https://www.youtube.com/watch?v=ASNQ8rNzcLc)

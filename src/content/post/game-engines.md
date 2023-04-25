@@ -23,8 +23,6 @@ tags:
 [First-person shooter engine - Wikiwand](http://www.wikiwand.com/en/First-person_shooter_engine)
 [List of first-person shooter engines - Wikiwand](http://www.wikiwand.com/en/List_of_first-person_shooter_engines)
 
-[Learn .NET Game Development | Free tutorials, courses, videos, and more](https://dotnet.microsoft.com/learn/games)
-
 ## MonoGame
 
 [MonoGame Archives | .NET Blog](https://devblogs.microsoft.com/dotnet/tag/monogame/)
@@ -76,6 +74,14 @@ tags:
 [libgdx](https://libgdx.badlogicgames.com/)
 
 [libGDX with Mario Zechner – Talking Kotlin](http://talkingkotlin.com/libgdx-with-mario-zechner/)
+
+## raylib
+
+[raylib | A simple and easy-to-use library to enjoy videogames programming](https://www.raylib.com/) binding in various languages
+[Home · raysan5/raylib Wiki](https://github.com/raysan5/raylib/wiki)
+[raysan5/raylib: A simple and easy-to-use library to enjoy videogames programming](https://github.com/raysan5/raylib)
+
+[Ray - itch.io](https://raysan5.itch.io/)
 
 ## Tiles
 
@@ -282,16 +288,31 @@ Fully compatible with XNA
 
 [Are we game yet? - Rust](http://arewegameyet.com/)
 [The Rust Programming Language for Game Tooling - YouTube](https://www.youtube.com/watch?v=GtRo-eF8-TE)
+[Rust for Game Development -- Game Engines & Frameworks - YouTube](https://www.youtube.com/watch?v=mLXwR88Dzkc)
 [5 Rust game engines to consider for your next project - LogRocket Blog](https://blog.logrocket.com/5-rust-game-engines-consider-next-project/)
 
-[Amethyst - The open source, data-driven game engine](https://www.amethyst.rs/)
-[Bevy - A data-driven game engine built in Rust](https://bevyengine.org/)
-[Fyrox engine](https://fyrox.rs/)
 [Nannou](https://nannou.cc/)
-[Piston - a modular open source game engine written in Rust](http://www.piston.rs/)
-[rg3d - crates.io: Rust Package Registry](https://crates.io/crates/rg3d)
+[nannou-org/nannou: A Creative Coding Framework for Rust.](https://github.com/nannou-org/nannou)
 
-[mrDIMAS/rusty-shooter: 3d shooter written in Rust using rg3d](https://github.com/mrDIMAS/rusty-shooter)
+[Piston - a modular open source game engine written in Rust](http://www.piston.rs/)
+
+[ggez: Rust game thing](https://ggez.rs/)
+
+[Amethyst - The open source, data-driven game engine](https://www.amethyst.rs/) inactive
+
+### Bevy
+
+[Bevy - A data-driven game engine built in Rust](https://bevyengine.org/)
+
+[Bevy 0.7 Released – GameFromScratch.com](https://gamefromscratch.com/bevy-0-7-released/)
+
+### Fyrox
+
+[Fyrox engine](https://fyrox.rs/) originally rg3d
+[FyroxEngine/Fyrox: 3D and 2D game engine written in Rust](https://github.com/FyroxEngine/Fyrox)
+
+[Fyrox Game Engine -- Rust Powered RG3D Renamed – GameFromScratch.com](https://gamefromscratch.com/fyrox-game-engine-rust-powered-rg3d-renamed/)
+[mrDIMAS/rusty-shooter: [suspended] 3d shooter written in Rust using rg3d](https://github.com/mrDIMAS/rusty-shooter)
 
 ## Flutter
 
@@ -481,7 +502,7 @@ Titles:
 
 License:
 
-[Source (game engine) - Wikiwand](http://www.wikiwand.com/en/Source_%28game_engine%29)
+[Source (game engine) - Wikiwand](<http://www.wikiwand.com/en/Source_(game_engine)>)
 
 ## Unity
 
@@ -489,7 +510,7 @@ better 2.5D on mobile and web, larger community/store
 
 License: free for first \$100 thousand in game revenue
 
-[Unity (game engine) - Wikiwand](http://www.wikiwand.com/en/Unity_%28game_engine%29)
+[Unity (game engine) - Wikiwand](<http://www.wikiwand.com/en/Unity_(game_engine)>)
 [Unity - Game engine, tools and multiplatform](http://unity3d.com/unity)
 [UNITY does WHAT NOW?? The State of Unity - YouTube](https://www.youtube.com/watch?v=iOjisA9KnHA) 2022-12
 

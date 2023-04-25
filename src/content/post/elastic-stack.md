@@ -6,8 +6,9 @@ tags:
   - database
   - elastic-stack
   - visualization
-  - web
 ---
+
+> Elastic adopted SSPL since 7.11 (2021-02)
 
 [Visualizing data with Elasticsearch, Logstash and Kibana](http://blog.webkid.io/visualize-datasets-with-elk/)
 [Elastic Stack and Product Documentation | Elastic](https://www.elastic.co/guide/index.html)
@@ -15,59 +16,44 @@ tags:
 
 [Pricing | Logz.io](https://logz.io/pricing/)
 
-[Elastic Stack 5](https://www.elastic.co/blog/elastic-stack-5-0-0-released) in October 2016 is a major update.
+[Learn About the Elastic Stack | Documentation, Training & More | Elastic](https://www.elastic.co/learn)
+[dzharii/awesome-elasticsearch: A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!](https://github.com/dzharii/awesome-elasticsearch)
 [elastic/examples: Home for Elasticsearch examples available to everyone. It's a great way to get started.](https://github.com/elastic/examples)
 
-[Elasti{content} | Elastic](https://www.elastic.co/content-pack)
-[An Elastic Stack Primer - log, stream, and visualize data | Elastic](https://www.elastic.co/blog/elastic-stack-primer) 5.0.0-alpha3
+[An Elastic Stack Primer - log, stream, and visualize data | Elastic](https://www.elastic.co/blog/elastic-stack-primer) 2016-06, 5.0.0-alpha3
 [Troubleshooting Elasticsearch searches, for Beginners | Elastic](https://www.elastic.co/blog/found-beginner-troubleshooting)
-[How To Centralize Logs with Rsyslog, Logstash, and Elasticsearch on Ubuntu 14.04 | Elastic](https://www.elastic.co/blog/how-to-centralize-logs-with-rsyslog-logstash-and-elasticsearch-on-ubuntu-14-04)
-[Just Enough Kafka for the Elastic Stack, Part 1 | Elastic](https://www.elastic.co/blog/just-enough-kafka-for-the-elastic-stack-part1)
-[Just Enough Kafka For The Elastic Stack, Part 2 | Elastic](https://www.elastic.co/blog/just-enough-kafka-for-the-elastic-stack-part2)
 [A case for self monitoring systems | Elastic](https://www.elastic.co/blog/a-case-for-self-monitoring-systems)
 [Operational Analytics at Elastic{ON} | Elastic](https://www.elastic.co/blog/operational-analytics-with-elasticsearch-at-elasticon-2017-part-1)
-
-[dzharii/awesome-elasticsearch: A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!](https://github.com/dzharii/awesome-elasticsearch)
 
 [第 12 屆 iT 邦幫忙鐵人賽::用 30 天向世界宣告，這一年來鋼鐵般的歷練](https://ithelp.ithome.com.tw/2020-12th-ironman/articles/3148?sc=iThomeR)
 
 [The Complete Guide to the ELK Stack - Logz.io](https://logz.io/learn/complete-guide-elk-stack/)
 [NGINX Log Analysis with Elasticsearch, Logstash, and Kibana](http://logz.io/blog/nginx-log-analysis/)
-[Welcome to the ELK Stack: Elasticsearch, Logstash, and Kibana](https://qbox.io/blog/welcome-to-the-elk-stack-elsaticsearch-logstash-kibana)
-[How to Install Elastic Stack on Ubuntu 16.04](https://www.howtoforge.com/tutorial/how-to-install-elastic-stack-on-ubuntu-16-04/)
-[Visualizing data with Elasticsearch, Logstash and Kibana](http://blog.webkid.io/visualize-datasets-with-elk/)
-[How To Use Logstash and Kibana To Centralize Logs On Ubuntu 14.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-logstash-and-kibana-to-centralize-and-visualize-logs-on-ubuntu-14-04)
-[Introduction to Logstash+ElasticSearch+Kibana](https://thepracticalsysadmin.com/introduction-to-logstashelasticsearchkibana/)
 
-## Distro for Elasticsearch
+[System Log Aggregation with the Elastic Stack | A Cloud Guru](https://acloudguru.com/blog/engineering/system-log-aggregation-with-the-elastic-stack)
 
-[Open Distro for Elasticsearch | Open Distro](https://opendistro.github.io/for-elasticsearch/)
-[New – Open Distro for Elasticsearch | AWS News Blog](https://aws.amazon.com/de/blogs/aws/new-open-distro-for-elasticsearch/)
+## Vulcanizer
 
+[github/vulcanizer: GitHub's ops focused Elasticsearch library](https://github.com/github/vulcanizer)
 [Vulcanizer: a library for operating Elasticsearch - The GitHub Blog](https://github.blog/2019-03-05-vulcanizer-a-library-for-operating-elasticsearch/)
 
 ## Docker
 
-[Introducing beta releases of Elasticsearch and Kibana Docker images | Elastic](https://www.elastic.co/blog/releasing-beta-version-of-elastic-docker-images)
-[Enriching logs with Docker metadata using Filebeat | Elastic](https://www.elastic.co/blog/enrich-docker-logs-with-filebeat) add docker logs to Elasticsearch
-
-[How to make a Dockerfile for Elasticsearch | Elastic](https://www.elastic.co/blog/how-to-make-a-dockerfile-for-elasticsearch)
-[Install Elasticsearch with Docker | Elasticsearch Reference | Elastic](https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html)
-[elastic/stack-docker: Meta-project for the Elastic Docker images.](https://github.com/elastic/stack-docker)
-[ahromis/swarm-elk: Sample ELK stack using v3 compose file](https://github.com/ahromis/swarm-elk)
-[blacktop/docker-elastic-stack: ELK Stack Dockerfile](https://github.com/blacktop/docker-elastic-stack)
+[sebp/elk - Docker Image | Docker Hub](https://hub.docker.com/r/sebp/elk/)
+[spujadas/elk-docker: Elasticsearch, Logstash, Kibana (ELK) Docker image](https://github.com/spujadas/elk-docker)
 [elk-docker](http://elk-docker.readthedocs.io/)
 
-[Deploying an EFK Stack with Docker](https://adamtheautomator.com/efk-stack/) Logstash -> Fluentd
+[Enriching logs with Docker metadata using Filebeat | Elastic](https://www.elastic.co/blog/enrich-docker-logs-with-filebeat) add docker logs to Elasticsearch
+[How to make a Dockerfile for Elasticsearch | Elastic](https://www.elastic.co/blog/how-to-make-a-dockerfile-for-elasticsearch)
+[Install Elasticsearch with Docker | Elasticsearch Reference | Elastic](https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html)
+[blacktop/docker-elastic-stack: ELK Stack Dockerfile](https://github.com/blacktop/docker-elastic-stack) archived, up to 7.13
 
-[Running an Elasticsearch cluster with Docker](https://stefanprodan.com/2016/elasticsearch-cluster-with-docker/) setup ES 2.x cluster, disable swapping
-[stefanprodan/dockes: Elasticsearch cluster with Docker](https://github.com/stefanprodan/dockes)
+[Deploying an EFK Stack with Docker](https://adamtheautomator.com/efk-stack/) Logstash -> Fluentd
 
 [Send Your Data - Logz.io](https://app.logz.io/#/dashboard/send-your-data/log-sources/docker?type=docker-collector-logs-config)
 [logzio/docker-collector-logs](https://github.com/logzio/docker-collector-logs)
 [logzio/docker-logging-plugin: This is a docker logging driver plugin to forward docker logs to Logz.io](https://github.com/logzio/docker-logging-plugin)
 
-[Deploy ELK stack and aggregate container logs | Docker in Production | Katacoda](https://www.katacoda.com/courses/docker-production/launch-elk-aggregate-container-logs) embedded playground
 [Centralized System and Docker Logging with ELK Stack | Technology Conversations](http://technologyconversations.com/2015/05/18/centralized-system-and-docker-logging-with-elk-stack/)
 [Deploying and migrating an Elasticsearch-Logstash-Kibana stack using Docker Part 2 · ClusterHQ](http://clusterhq.com/2016/01/12/b-multinode-elk-flocker/)
 [An ELK stack from scratch, with Docker – Erwan Deruelle – Medium](https://medium.com/@d3rwan/an-elk-stack-from-scratch-with-docker-58551616a2da)

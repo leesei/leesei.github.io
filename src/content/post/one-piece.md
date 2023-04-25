@@ -191,6 +191,7 @@ Punk Hazard
 
 [海賊王 3 色霸氣完整盤點！武裝色、見聞色、霸王色一口氣看完！ - YouTube](https://www.youtube.com/watch?v=3y3tAwE3Lwc)
 [海賊王：武裝色分 3 大等級！見聞色分 4 大形態！ - YouTube](https://www.youtube.com/watch?v=ro2tWfgwYZY)
+[17 位霸王色擁有者排行榜！香克斯見聞殺問鼎最強！頂尖霸纏技巧原理解析 - YouTube](https://www.youtube.com/watch?v=3DvQOBPOPK4)
 
 ## 恶魔果实
 

@@ -101,7 +101,7 @@ tags:
 ### 忍術
 
 [火影忍者術列表 - Wikiwand](https://www.wikiwand.com/zh-hant/火影忍者術列表)
-[卓羅 (火影忍者) - Wikiwand](https://www.wikiwand.com/zh-hant/查克拉_%28火影忍者%29)
+[卓羅 (火影忍者) - Wikiwand](<https://www.wikiwand.com/zh-hant/查克拉_(火影忍者)>)
 [查克拉（漫画《火影忍者》中能量来源）\_百度百科](https://baike.baidu.com/item/查克拉/3424179)
 
 [影分身之术\_百度百科](https://baike.baidu.com/item/影分身之术/6377264)
