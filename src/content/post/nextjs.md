@@ -70,7 +70,7 @@ npx build && npx export -o build/ # static HTML (SSG) without need of app server
 
 ## Next.js 13
 
-> 2022-10
+> released 2022-10
 
 [Next.js 13… this changes everything - YouTube](https://www.youtube.com/watch?v=_w0Ikk4JY7U)
 [Next.js 13 - The Basics - YouTube](https://www.youtube.com/watch?v=__mSgDEOyv8)
@@ -84,6 +84,7 @@ npx build && npx export -o build/ # static HTML (SSG) without need of app server
 
 [Next.js 13.1 Explained! - YouTube](https://www.youtube.com/watch?v=_q1K7cybyRk)
 [Using Fonts in Next.js (Google Fonts, Local Fonts, Tailwind CSS) - YouTube](https://www.youtube.com/watch?v=L8_98i_bMMA)
+[Next.js 13 - Layouts and Pages Explained in 20 mins or so - YouTube](https://www.youtube.com/watch?v=zbYBgy_ChGY)
 
 ## Building Blog
 

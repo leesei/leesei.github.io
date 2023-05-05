@@ -3,6 +3,7 @@ title: LOL
 description: ""
 created: 2018-09-03
 tags:
+  - lol
   - trivia
 ---
 

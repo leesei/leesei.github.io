@@ -167,6 +167,7 @@ rm -rf node_modules/gh-pages/.cache
 
 [AWS CodeWhisperer… The Copilot Killer? - YouTube](https://www.youtube.com/watch?v=FJACTC9wFhU)
 [Amazon CodeWhisperer - 免费｜支持中文｜可在 vscode 等编辑器直接使用｜自动代码生成 - 知乎](https://zhuanlan.zhihu.com/p/621800084)
+[AWS CodeWhisperer 完整教學 | 比 Github Copilot 更省錢的寫程式助手 | 免費提升開發效率 - YouTube](https://www.youtube.com/watch?v=wXcyq2Ay4uE)
 
 ## GitHub Actions
 
@@ -179,6 +180,7 @@ Put YAML in `.github/workflows/`
 [sdras/awesome-actions: A curated list of awesome actions to use on GitHub](https://github.com/sdras/awesome-actions)
 
 [Automatic Deployment With Github Actions - YouTube](https://www.youtube.com/watch?v=X3F3El_yvFg)
+[GitHub Actions CI/CD Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLjuEK3Ez60n3LICszNGBA7xFwBgGZykij) Habibi Coding
 [Announcing the GitHub Actions extension for VS Code | The GitHub Blog](https://github.blog/2023-03-28-announcing-the-github-actions-extension-for-vs-code/)
 
 [Deploy to GitHub Pages · Actions · GitHub Marketplace](https://github.com/marketplace/actions/deploy-to-github-pages)

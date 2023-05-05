@@ -101,6 +101,11 @@ LowSpecGamer
 [苹果 M1 Pro/M1 Max 评测：有多强？能做什么？ - YouTube](https://www.youtube.com/watch?v=KSf2tvF53ws)
 [【亦】为什么苹果电脑不适合玩游戏？ - YouTube](https://www.youtube.com/watch?v=wupCpEhB7DE)
 
+#### Arm Ampere
+
+[Ampere Computing - Wikiwand](https://www.wikiwand.com/en/Ampere_Computing)
+[This is the fastest Arm desktop PC on the planet - YouTube](https://www.youtube.com/watch?v=wl5H5rT87JE)
+
 ### RISC-V
 
 [RISC-V International](https://riscv.org/)
@@ -118,8 +123,10 @@ LowSpecGamer
 [An Open Source CPU!? - YouTube](https://www.youtube.com/watch?v=L8jqGOgCy5M)
 [Goodbye x86. The FUTURE is RISC-V - YouTube](https://www.youtube.com/watch?v=67KW4t42SZk)
 [RISC-V: How much is open source? Featuring the new ESP32-C3 - YouTube](https://www.youtube.com/watch?v=VdPsJW6AHqc)
+[The Genius of the RISC-V Microprocessor - Erik Engheim - NDC TechTown 2021 - YouTube](https://www.youtube.com/watch?v=v0ssX-JiV-s)
 [The Genius of RISC-V Microprocessors - Erik Engheim - ACCU 2022 - YouTube](https://www.youtube.com/watch?v=L9jvLsvkmdM)
 [RISC-V 2023 Update: From Embedded Computing to Data Center & Desktop - YouTube](https://www.youtube.com/watch?v=AJVSZEX6d9M)
+[This is the BEST Board to Learn RISC-V Assembly. - YouTube](https://www.youtube.com/watch?v=n8g_XKSSqRo)
 
 [SiFive Launches HiFive Unmatched RISC-V Development Board for Desktops | Tom's Hardware](https://www.tomshardware.com/news/sifive-launches-hifive-unmatched-risc-v-development-board-for-desktops)
 
@@ -588,6 +595,7 @@ Pyrolytic Graphite Sheet (PGS) has a staggering thermal conductivity of 1950W/mK
 # Chip Making
 
 [SemiAnalysis | Dylan Patel | Substack](https://www.semianalysis.com/)
+[老石谈芯 - YouTube](https://www.youtube.com/@laoshi_tec)
 
 [Why making chips is so hard - YouTube](https://www.youtube.com/watch?v=CkNn98WE5_k)
 

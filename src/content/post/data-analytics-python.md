@@ -433,6 +433,12 @@ df.memory_usage(deep=True)
 [How to use Pandas the RIGHT way to speed up your code](https://towardsdatascience.com/how-to-use-pandas-the-right-way-to-speed-up-your-code-4a19bd89926d)
 [Parallelize Pandas map() and apply() while accounting for future records – Adeel's Corner](http://blog.adeel.io/2017/02/11/parallelize-pandas-map-and-apply-while-accounting-for-future-records/)
 
+## PyTorch
+
+Using PyTorch to accelerate analytics
+
+[GPU Accelerated Python - YouTube](https://www.youtube.com/playlist?list=PLkdGijFCNuVnOCy3mq8cS62418DL4TMWm)
+
 ## Kedro
 
 [Welcome to Kedro’s documentation!](https://kedro.readthedocs.io/en/stable/)

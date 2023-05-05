@@ -14,6 +14,9 @@ tags:
 Saudi Arabia backed Sunni, Iran backed Shia in proxy wars across middle east and Northern Africa
 [中东为什么这么乱？Why is the Middle East so chaotic?【柴知道 ChaiKnows】【科普 Science】【冷知识 Trivia】 - YouTube](https://www.youtube.com/watch?v=exjVfT6uRrg)
 
+[騙局? 為什麼小時候說石油快用完了 現在卻越挖越多? 石油是怎麼被人類發現的?【石油的歷史】為什麼石油都在阿拉伯啊?? - YouTube](https://www.youtube.com/watch?v=jPqDwsgnTv8)
+[一口气了解石油和中东的百年战争 - YouTube](https://www.youtube.com/watch?v=ssssR1hxiTw)
+
 ## Jewish
 
 [【大国角斗】真实 or 虚构？犹太流亡史给我们什么启发？ - YouTube](https://www.youtube.com/watch?v=EETY1qqm43k)

@@ -51,6 +51,9 @@ tags:
 ### Extension
 
 [What are extensions? - Google Chrome](https://developer.chrome.com/extensions)
+[API reference - Chrome Developers](https://developer.chrome.com/docs/extensions/reference/)
+[GoogleChrome/chrome-extensions-samples: Chrome Extensions Samples](https://github.com/GoogleChrome/chrome-extensions-samples)
+
 [How to use React.js to create a Chrome extension in 5 minutes](https://levelup.gitconnected.com/how-to-use-react-js-to-create-chrome-extension-in-5-minutes-2ddb11899815)
 [Helpful Tips for Starting a Next.js Chrome Extension | CSS-Tricks - CSS-Tricks](https://css-tricks.com/nextjs-chrome-extension-starter/)
 [How to Create a Browser Extension | CSS-Tricks - CSS-Tricks](https://css-tricks.com/how-to-create-a-browser-extension/)

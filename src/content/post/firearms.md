@@ -6,7 +6,7 @@ tags:
   - weapons
 ---
 
-> TODO: separate out `military`
+> TODO: separate out `military` > [Armoured fighting vehicle - Wikiwand](https://www.wikiwand.com/en/Armoured_fighting_vehicle)
 
 [Firearm - Wikiwand](https://www.wikiwand.com/en/Firearm)
 [History of the firearm - Wikiwand](https://www.wikiwand.com/en/History_of_the_firearm)
@@ -317,15 +317,21 @@ Bazooka: 以彈頭的火箭為發射動力
 ## Tank
 
 [Tank Encyclopedia, the first online tank museum](https://tanks-encyclopedia.com/)
-[The Tank Museum - YouTube](https://www.youtube.com/@thetankmuseum)
 [Tanks | Usborne Quicklinks | Be Curious](https://usborne.com/row/quicklinks/quicklink/11137-tanks)
 
 [ConeOfArc - YouTube](https://www.youtube.com/@ConeOfArc)
-[Red Wrench Films - YouTube](https://www.youtube.com/channel/UCAUCNU_M0EOtAs98NMA8QbQ)
+
+[The Tank Museum - YouTube](https://www.youtube.com/@thetankmuseum)
+[How did tank guns get so deadly? | Evolution of Firepower - YouTube](https://www.youtube.com/watch?v=8XWAktvFZGI)
+[What Tank Armour Can (& Can't) Do | Evolution of Armour - YouTube](https://www.youtube.com/watch?v=_hRVefl2M0k)
+
 [Evolution of American Tanks | Animated History - YouTube](https://www.youtube.com/watch?v=MEhMOTpbWOY)
 [Evolution of German Tanks | Animated History - YouTube](https://www.youtube.com/watch?v=S7tz1bNiV4s)
 [Evolution of Russian Tanks | Animated History - YouTube](https://www.youtube.com/watch?v=LyJSsv3KFpM)
 [These Are the Largest Tanks Ever Designed - YouTube](https://www.youtube.com/watch?v=WtblYGKCaRs)
+
+[大名鼎鼎的虎式坦克，為何不使用傾斜裝甲，是設計師盲目自大嗎？ - YouTube](https://www.youtube.com/watch?v=wZpLZAnehuw)
+[德國豹式坦克，二戰坦克巔峰之作，專為剋制 T-34 而生 - YouTube](https://www.youtube.com/watch?v=2qnjy7nV5Oo)
 
 [T-34 - Wikiwand](https://www.wikiwand.com/en/T-34)
 [T-72 - Wikiwand](https://www.wikiwand.com/en/T-72)
@@ -334,7 +340,7 @@ Bazooka: 以彈頭的火箭為發射動力
 [【世界最先進主戰坦克 評測】都说自己是第一，究竟誰更強？ M1 主戰坦克 、T-90 主戰坦克、豹 2 主戰坦克、挑戰者主戰坦克、T-14 主戰坦克、阿瓊主戰坦克、勒克萊爾主戰坦克 - YouTube](https://www.youtube.com/watch?v=f1XJyWSr7y0)
 [【俄制坦克究竟有多差？】俄軍坦克在烏克蘭殘骸遍地！為何俄制坦克總被開罐？ - YouTube](https://www.youtube.com/watch?v=UlF6zZNItAc)
 [【M1 坦克堅持人工裝彈的原因】美軍 M1 系列坦克為何不用自動裝彈機？詳解 M1 坦克火力系統！ - YouTube](https://www.youtube.com/watch?v=FZLZ1eN3XZ4)
-[德國豹式坦克，二戰坦克巔峰之作，專為剋制 T-34 而生 - YouTube](https://www.youtube.com/watch?v=2qnjy7nV5Oo)
+[The Insane Engineering of the M1 Abrams - YouTube](https://www.youtube.com/watch?v=NR5pWBy-6Fk)
 
 ## Anti-Armor/Armor Piercing ammo
 

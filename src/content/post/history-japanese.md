@@ -17,10 +17,12 @@ tags:
 [關於日本的最古老文字記載竟然是《三國志》! 比大和王權更早的神秘國家 (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=2zd3-CdQwu8)
 [日本鬧市中比大金字塔大兩倍的超巨大鎖匙孔!! 甚麼是日本古墳和古墳時代? (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=_L7EGF0g75A)
 
+[超出你想像的繩文人，比目前已知最古老的人類文明還早一萬年，他們為何不停用泥土造人，究竟如何來到這裡 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=jFQPvAHwVK0)
 [附時間戳，日本古代史合集，從神紋時代到江戶時代 |彌生時代|古墳時代|飛鳥時代|奈良時代|平安時代|院政時代|鐮倉時代|日本南北朝時代|室町幕府|日本戰國時代|江戶時代|日本天皇|幕府將軍|豐城秀吉| - YouTube](https://www.youtube.com/watch?v=wEXX8GxfmQE)
 [深日本#47 ▶ 天皇為何不多娶幾個老婆？平成後新年號預測！｜好倫｜ - YouTube](https://www.youtube.com/watch?v=c_hw6hfW-y8)
 
-彌生時代
+繩文時代 14000B.C.-
+彌生時代 1000B.C.-
 古墳時代 300 - 600 南北朝, 引入鐵器
 飛鳥時代 592 - 710 隋, 唐
 佛教引入

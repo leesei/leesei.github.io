@@ -352,6 +352,16 @@ Fully compatible with XNA
 [Braindead.bzh | Game Dev Hobbyist](https://www.braindead.bzh)
 [Tutorial – Gaming with Godot » Linux Magazine](https://www.linux-magazine.com/Issues/2021/244/Gaming-for-Godot)
 
+> remove pre 4.0 articles
+
+[Godot 4.0: It's Almost a Brand New Engine! Full Breakdown of New Features - YouTube](https://www.youtube.com/watch?v=chXAjMQrcZk)
+
+[Learn to Make Games · GDQuest](https://www.gdquest.com/)
+[GDQuest - YouTube](https://www.youtube.com/@Gdquest)
+[Learn to Code From Zero with Godot (DEBUG)](https://gdquest.github.io/learn-gdscript/)
+[GDQuest/learn-gdscript: Learn Godot's GDScript programming language from zero, right in your browser, for free.](https://github.com/GDQuest/learn-gdscript/)
+[Godot 3 tutorials - YouTube](https://www.youtube.com/playlist?list=PLhqJJNjsQ7KF0o0ke_CA2QlqK8BxQNSFS)
+
 [Godot Vs Unity: The Ultimate Game Engine Showdown - YouTube](https://www.youtube.com/watch?v=MV_TaVM8Huc)
 [Top 10 Reasons Why I Switched to Godot Game Engine - YouTube](https://www.youtube.com/watch?v=leuNCv2wPj8)
 
@@ -368,8 +378,6 @@ Zenva
 [PlayWithFurcifer - YouTube](https://www.youtube.com/c/PlayWithFurcifer)
 [godot tutorials - YouTube](https://www.youtube.com/playlist?list=PLmugv6_kd0qNyt0WHVnac1f5IFzG-7grN) Miziziziz
 
-[GDQuest - YouTube](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ)
-[Godot 3 tutorials - YouTube](https://www.youtube.com/playlist?list=PLhqJJNjsQ7KF0o0ke_CA2QlqK8BxQNSFS)
 [Goodgis - YouTube](https://www.youtube.com/c/Goodgis) mostly on Godot
 
 [HeartBeast - YouTube](https://www.youtube.com/channel/UCrHQNOyU1q6BFEfkNq2CYMA)

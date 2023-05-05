@@ -13,6 +13,9 @@ tags:
 
 [rothgar/awesome-tmux: A list of awesome resources for tmux](https://github.com/rothgar/awesome-tmux)
 [tmux-plugins/tpm: Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
+[tmux-plugins/tmux-sensible: basic tmux settings everyone can agree on](https://github.com/tmux-plugins/tmux-sensible)
+
+[Tmux has forever changed the way I write code. - YouTube](https://www.youtube.com/watch?v=DzNmUNvnB04) tmux + neovim
 
 [Terminal Multiplexers: Screen, Tmux - Hyperpolyglot](http://hyperpolyglot.org/multiplexers)
 [A Gentle Introduction to tmux. What is tmux? | by Alek Shnayder | HackerNoon.com | Medium](https://medium.com/hackernoon/a-gentle-introduction-to-tmux-8d784c404340)
@@ -50,6 +53,7 @@ $echo case $- in *i*) . ~/.bashrc;; esac >> .bash_profile
 
 ## key bindings/cheatsheet
 
+[Tmux Cheat Sheet & Quick Reference](https://tmuxcheatsheet.com/)
 [dayid's screen and tmux cheat sheet](http://www.dayid.org/os/notes/tm.html)
 [tmux cheatsheet](https://gist.github.com/andreyvit/2921703)
 [tmux cheatsheet](https://gist.github.com/henrik/1967800)
@@ -68,6 +72,7 @@ $echo case $- in *i*) . ~/.bashrc;; esac >> .bash_profile
 <https://github.com/samoshkin/tmux-config>
 
 [tmux Tutorial](http://blog.victorquinn.com/tmux-tutorial)
+[How to Customize Tmux Using the Config File](https://www.hostinger.com/tutorials/tmux-config)
 [docwhat/homedir-tmux: Configuration and tools to make working with TMux easier](https://github.com/docwhat/homedir-tmux)
 [Making tmux Pretty and Usable - A Guide to Customizing your tmux.conf](https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
 [gpakosz/.tmux: 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️](https://github.com/gpakosz/.tmux)

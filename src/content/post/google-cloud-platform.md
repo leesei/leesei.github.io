@@ -181,6 +181,9 @@ Also provides static hosting and FaaS.
 [SvelteKit + PocketBase Integration: User Login and Registration - YouTube](https://www.youtube.com/watch?v=AxPB3e-3yEM)
 
 [The Open Source Firebase Alternative | Supabase](https://supabase.com/) based on Postgres
+[Supabase Docs](https://supabase.com/docs)
+
+[Supabase Crash Course For Python Developers - YouTube](https://www.youtube.com/watch?v=M6cfT2pqpSc)
 
 [Parse Platform](https://parseplatform.org/)
 

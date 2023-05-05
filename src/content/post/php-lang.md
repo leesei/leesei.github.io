@@ -15,6 +15,7 @@ tags:
 [The Definitive PHP 7.2, 7.3, 7.4, 8.0, and 8.1 Benchmarks (2023)](https://kinsta.com/blog/php-benchmarks/)
 [Modern tools for PHP developers - LogRocket Blog](https://blog.logrocket.com/modern-tools-php-developers/) > 7.0 in 2015, > 8.1 in 2022
 [security-checklist/php-security-check-list: PHP Security Check List [ EN ] 🌋 ☣️](https://github.com/security-checklist/php-security-check-list)
+[Upgrading your site to PHP 8 - The Joomla Community Magazine](https://magazine.joomla.org/all-issues/december-2022/upgrading-your-site-to-php-8) Frameworks takes time to port to latest PHP, try upgrading in May-Aug for the Dec PHP release
 
 [Create a PHP REST API : Write a RESTful API from Scratch using Plain, Object-Oriented PHP and MySQL - YouTube](https://www.youtube.com/watch?v=X51KOJKrofU)
 
@@ -269,3 +270,10 @@ echo "Hello, $name" . PHP_EOL;
 [PER Coding Style - PHP-FIG](https://www.php-fig.org/per/coding-style/)
 
 [Intelephense](https://intelephense.com/)
+
+---
+
+# Typst
+
+[Typst: Compose papers faster](https://typst.app/)
+[Typst: The LaTeX alternative in Rust - YouTube](https://www.youtube.com/watch?v=sWmlbMh3ol8)

@@ -45,12 +45,12 @@ tags:
 ### Types
 
 [Type - Bulbapedia, the community-driven Pokémon encyclopedia](https://bulbapedia.bulbagarden.net/wiki/Type)  
-[![Types Icon](./_assets/pokemon/types_icons.png)](https://bulbapedia.bulbagarden.net/wiki/Type#Icons)
+[![Types Icon](/_assets/pokemon/types_icons.png)](https://bulbapedia.bulbagarden.net/wiki/Type#Icons)
 
 STAB: Same Type Attack Bonus (1.5x)
 
 [Type/Type chart - Bulbapedia, the community-driven Pokémon encyclopedia](https://bulbapedia.bulbagarden.net/wiki/Type/Type_chart) type effectiveness
-[![Types Effectiveness](./_assets/pokemon/type_effectiveness.png)](https://bulbapedia.bulbagarden.net/wiki/Type/Type_chart#Generation_VI_onward)
+[![Types Effectiveness](/_assets/pokemon/type_effectiveness.png)](https://bulbapedia.bulbagarden.net/wiki/Type/Type_chart#Generation_VI_onward)
 
 ### Games
 

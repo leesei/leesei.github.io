@@ -24,8 +24,8 @@ tags:
 [弱電通 - YouTube](https://www.youtube.com/channel/UCz8PxJTO2uupjRehX3OTviA)
 [KENDI 的 DIY 频道 - YouTube](https://www.youtube.com/channel/UCA1sPlgcxIZBMcRF7Nzsk-A)
 [Got2Learn - YouTube](https://www.youtube.com/channel/UCtxLpSnpxNiHAchvCX-4Dsg)
+[How To Home - YouTube](https://www.youtube.com/@HowToHomeDIY)
 [Lone Fox - YouTube](https://www.youtube.com/channel/UCtwzsvzRCfPddq2gPlgKW1w) Ikea Hacks
-[The Hook Up - YouTube](https://www.youtube.com/channel/UC2gyzKcHbYfqoXA5xbyGXtQ) smart home
 
 [如何科学地去除甲醛？丨科普丨冷知识丨柴知道 ChaiKnows - YouTube](https://www.youtube.com/watch?v=nPjuAF5ZPbE)
 傳統活性炭一般使用 7 天左右就飽和了，需要勤更換
@@ -42,8 +42,8 @@ tags:
 
 ## Interior Design
 
-> see `desktop-apps.md#3d-graphics`
-> see `sketchup.md#interior-design`
+[[desktop-apps#3D Graphics]]
+[[sketchup#Interior design]]
 
 [裝修工程公司介紹 | 裝修翻新推介 | 裝修配對平台 | 裝修網 - 好師傅](https://codeco.hk/zh-tw/)
 [裝修 X 新型居屋裝修套餐](https://deco-x.com/)
@@ -63,41 +63,12 @@ tags:
 
 ## 工具
 
+[[wood-metal-work#Drills/電鑽]]
+
 [所有工具与技巧 - YouTube](https://www.youtube.com/playlist?list=PLQabmbUpRspS6XBkky7W5excE7ZH85Gn6)
 [【西工小學堂｜西工基礎教學｜ Tool Lesson】 - YouTube](https://www.youtube.com/playlist?list=PLBTwOvE8YhQFuLAcHtEccuOni1rubaqZt)
 
 [What is the difference between a spanner and a wrench? - Wonkee Donkee Tools](https://www.wonkeedonkeetools.co.uk/spanners/what-is-the-difference-between-a-spanner-and-a-wrench)
-
-### 電鑽
-
-1 分 = 1/8 寸 = 3.175mm
-膠塞 8mm
-
-[Drill vs Impact Driver vs Hammer Drill - YouTube](https://www.youtube.com/watch?v=Cqr9CxDYj0I)
-[How to Use a Drill/Driver, Impact Driver, & Hammer Drill and How They're Different - YouTube](https://www.youtube.com/watch?v=s5dx6Xf2b3U)
-[When To Use an Impact Driver VS Drill: The ULTIMATE Guide - YouTube](https://www.youtube.com/watch?v=43cuU0lP6To)
-[整体了解 Drill/Driver/Wrench，电钻/电动螺丝刀/电动扳手几种工具的用法和区别，家用 DIY 基础工具介绍，入门第一集。KENDI DIY - YouTube](https://www.youtube.com/watch?v=qURpuCCe60Y)
-[【超認真少年】如何快速分辨使用各種電鑽和使用基礎教學 ，每個人都需要買一支適合自己的電鑽 How to use Cordless Drill - YouTube](https://www.youtube.com/watch?v=rMdGMKPpii4)
-[【超認真少年】最容易搞混的電鑽 震動電鑽等級分類及保養方法 美沃奇震動電鑽Ｍ 12 X M18 介紹 Milwaukee Hammer Drill - YouTube](https://www.youtube.com/watch?v=0DG2Yvdhl_Y)
-[常用『居家電鑽』!!! 震動鎚鑽/震動電鑽/衝擊起字機 DIY 電鑽該選哪一種!!?｜ Electric Drill Selection ｜ DIY 知識｜【宅水電】 - YouTube](https://www.youtube.com/watch?v=Irr5aQ6E26I)
-[《職人工具開箱》電鑽電動起子知識大補帖！買之前看一眼... 我要好好賺錢！ - YouTube](https://www.youtube.com/watch?v=WZmyBalveTk)
-[【超認真少年】洞要怎麼鑽？如何選鑽尾？木頭金屬水泥電鑽鑽尾規格？How to choose drill bit? - YouTube](https://www.youtube.com/watch?v=D-UvPEDv5h0)
-[9 種鑽尾完整介紹 不同牆面如何選擇正確鑽尾? 鑽洞前一定要注意的事情｜ DIY 知識｜【宅水電】 - YouTube](https://www.youtube.com/watch?v=L1xYfjMjNn0)
-[Adam Savage's Guide to Drill Bits! - YouTube](https://www.youtube.com/watch?v=vetc7rEYnjI)
-
-Brushed motor will have spark, and is cheaper
-Brushless motor don't have spark and is lighter and more efficient
-
-Mechanical torque control uses clutch which which wear out
-Electronic torque control will stop the motor when torque maxed out and have more precise torque
-
-[WORX 熱賣小手批鑽瓦片?特別顏色期間限定!小型電批多用途測試!馬上收看達人巷 - YouTube](https://www.youtube.com/watch?v=JmObyjt5OoQ)
-[小型電批大比拼 Bosch go 2 WORX wx240 小米電動螺絲批(3.6V) (CC 中文字幕) - YouTube](https://www.youtube.com/watch?v=XtSy7G9Jj_Y)
-[威克士 WX240 评测-Tool 巴哥 T15 - YouTube](https://www.youtube.com/watch?v=Zjni5_2OfU0) 179 , 99 min
-[Bosch GO 2 博世 go 2 二代值得入手吗？新功能真的好用吗？-Tool 巴哥 T16 - YouTube](https://www.youtube.com/watch?v=pC9dOi8c2Hg)
-
-[Xiaomi Wowstick 1F+ Review - YouTube](https://www.youtube.com/watch?v=HL-jQexjfTE)
-[充电式迷你电动螺丝刀手自一体电动起子便携式机维修工具套装-淘宝网](https://item.taobao.com/item.htm?id=607558293448)
 
 ## 物料
 

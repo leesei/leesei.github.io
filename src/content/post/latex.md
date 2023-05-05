@@ -100,3 +100,10 @@ PDF is PostScript instructions
 ## AsciiMath
 
 [AsciiMath](http://asciimath.org/)
+
+---
+
+# Typst
+
+[Typst: Compose papers faster](https://typst.app/)
+[Typst: The LaTeX alternative in Rust - YouTube](https://www.youtube.com/watch?v=sWmlbMh3ol8)

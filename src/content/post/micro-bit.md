@@ -44,7 +44,7 @@ v1.5, 43x52mm, with builtin:
 
 ## Pinout/GPIO
 
-![pinout](./_assets/micro-bit/microbit_pinout.png)
+![pinout](/_assets/micro-bit/microbit_pinout.png)
 [micro:bit pins](https://makecode.microbit.org/---docs#doc:device/pins)
 
 - Pin #0 - large pad - analog in

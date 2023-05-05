@@ -141,6 +141,10 @@ http http://elasticsearch:9200/INDEX/TYPE/_mapping?pretty
 [Indices APIs | Elasticsearch Reference | Elastic](https://www.elastic.co/guide/en/elasticsearch/reference/current/indices.html) vs [Document's index API](https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-index_.html)?
 [cat APIs | Elasticsearch Reference | Elastic](https://www.elastic.co/guide/en/elasticsearch/reference/current/cat.html) return data in tabulated forms
 
+### GUI
+
+[Elasticvue - Elasticsearch gui for the browser](https://elasticvue.com/)
+
 ### Internals
 
 [Elasticsearch from the Bottom Up, Part 1 | Elastic](https://www.elastic.co/blog/found-elasticsearch-from-the-bottom-up) !important, Lucent links

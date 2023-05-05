@@ -128,6 +128,7 @@ whois yourdomainname.com
 # might show info from old name server due to caching
 dig -t NS yourdomainname.com
 dig yourdomainname.com NS
+dig +trace +additional google.com SOA
 # explicitly use a Domain Nameserver
 dig -t NS yourdomainname.com @dnserver
 # should have yourdomainname in "ANSWER SECTION"
@@ -207,6 +208,7 @@ Server Name Identification (SNI), a technology used by servers hosting multiple 
 [BIND - Wikiwand](https://www.wikiwand.com/en/BIND)
 [Deploying a DNS Server using Docker - SAMEER NAIK](http://www.damagehead.com/blog/2015/04/28/deploying-a-dns-server-using-docker/)
 [sameersbn/docker-bind: Dockerize BIND DNS server with webmin for DNS administration](https://github.com/sameersbn/docker-bind)
+[You want a real DNS Server at home? (bind9 + docker) - YouTube](https://www.youtube.com/watch?v=syzwLwE3Xq4)
 
 [miekg/coredns: CoreDNS is a DNS server that runs middleware](https://github.com/miekg/coredns)
 

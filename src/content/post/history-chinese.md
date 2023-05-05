@@ -301,6 +301,7 @@ tags:
 [秦始皇陵中的黑科技：為什麼兵馬俑會塗裝藍色超導材料？兵馬俑真的是用活人燒成的嗎？為什麼說他們的兵器都是穿越的黑科技？細節當中，我們竟然讀出這麼多不可思議的黑科技故事……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=QamXrTW5z4Q)
 [秦始皇的武器：考古學家挖出 8 尊從未見過的兵馬俑，發現了他們手中的武器，原來，這才是秦始皇統一中國的秘密……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=Byn6PdLxN6E)
 [秦始皇的父親是誰？為什麼司馬遷要暗示他是呂不韋的私生子？秦始皇的皇后為什麼從史書上消失？還有他的弟弟和表叔，為什麼他身邊的親人都故意被刪除？破解四大懸案，我們來看看秦始皇的真面目……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=s8gMPsTmKek)
+[挖開 8000 尊兵馬俑，秦始皇當年究竟想讓我們看到什麽？2023 年 4 月，最的秦陵考古發現，似乎挖出了我們重未見過，也沒有沒有想過的驚奇真相，比如這尊栩栩如生的秦俑頭像……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=e5LVuX1D6AU)
 
 [存放完整，神秘莫測，千年來不被破壞的秦始皇陵隱藏了什麼？「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=BGxr6AS-6-o)
 [千古一帝秦始皇為何不立後？他到底想傳位給誰？揭秘始皇帝兩個最大秘密「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=BAtNHTx_uOc)

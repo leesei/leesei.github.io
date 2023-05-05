@@ -167,6 +167,9 @@ Beam is introducing a framework through which APIs in languages other than Java 
 [A data cleaner's cookbook - About](https://www.polydesmida.info/cookbook/index.html)
 [Chris Albon](https://chrisalbon.com/)
 
+[OpenRefine | OpenRefine](https://openrefine.org/)
+[OpenRefine/OpenRefine: OpenRefine is a free, open source power tool for working with messy data and improving it](https://github.com/OpenRefine/OpenRefine)
+
 [Pachyderm - Scalable, Reproducible Data Science](http://www.pachyderm.io/)
 [Containerized data analytics at scale, with Minio and Pachyderm](https://blog.minio.io/containerized-data-analytics-at-scale-with-minio-and-pachyderm-1b9256c86c5b)
 

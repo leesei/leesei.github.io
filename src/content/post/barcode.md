@@ -54,6 +54,7 @@ tags:
 [QRCode.react demo](http://zpao.github.io/qrcode.react/)
 [How to Build a QR Code Generator in React | HackerNoon](https://hackernoon.com/how-to-build-a-qr-code-generator-in-react)
 [gillyb/reimg: reimg - A javascript library for converting image formats](https://github.com/gillyb/reimg) implements download logic
+[neocotic/qrious: Pure JavaScript library for QR code generation using canvas](https://github.com/neocotic/qrious)
 
 [Create Your Free QR Code - Flowcode](https://www.flowcode.com/)
 [QR Code Generator - Create Free QR Codes](https://qrd.by/)

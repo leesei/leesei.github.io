@@ -24,6 +24,10 @@ Crash Course
 
 [養成這幾個習慣，你或許能多活 30 年｜當長壽成為現實，你會選擇永生嗎？｜衰老的真相 3 期合集｜思維實驗室 - YouTube](https://www.youtube.com/watch?v=FPnV4NuHNgo)
 
+## What is Life
+
+[我們的使命可能已經結束 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=jXcuLBI8QMc) silicon-based life
+
 ## Evolution
 
 [【震撼】進化論的進化，從 1859 到 2020 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=yNFgOL-7nOw)

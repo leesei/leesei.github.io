@@ -287,7 +287,6 @@ Hope that helps.
 
 # Packages
 
-[Mongoose ODM](http://mongoosejs.com/)
 [Chance](https://chancejs.com/)
 [Papa Parse - Powerful CSV Parser for JavaScript](https://www.papaparse.com/)
 [natergj/excel4node: Node module to allow for easy Excel file creation](https://github.com/natergj/excel4node)
@@ -345,8 +344,8 @@ I need an option parser that auto generates the help page.
 [nodeca/argparse: CLI arguments parser for node.js. JS port of python's argparse module.](https://github.com/nodeca/argparse)
 [sindresorhus/meow: CLI app helper](https://github.com/sindresorhus/meow)
 [hapijs/bossy: Command line options parser](https://github.com/hapijs/bossy)
-[leo/args: Minimal toolkit for building CLIs](https://github.com/leo/args) built on mri
-[lukeed/mri: Quickly scan for CLI flags and arguments](https://github.com/lukeed/mri)
+[leo/args: Minimal toolkit for building CLIs](https://github.com/leo/args) inactive, built on mri
+[lukeed/mri: Quickly scan for CLI flags and arguments](https://github.com/lukeed/mri) inactive
 
 [yargs/yargs: yargs the modern, pirate-themed successor to optimist.](https://github.com/yargs/yargs) [Docs](http://yargs.js.org/docs/index.html) [Yargs cheatsheet](http://ricostacruz.com/cheatsheets/yargs.html)
 I found yargs option are too complicated
@@ -369,6 +368,7 @@ I found yargs option are too complicated
 
 [davidtheclark/cosmiconfig: Find and load configuration from a package.json property, rc file, or CommonJS module](https://github.com/davidtheclark/cosmiconfig)
 [AdrieanKhisbe/configue: Configue All the Things.js](https://github.com/AdrieanKhisbe/configue)
+[Env](https://env.t3.gg/) from T3
 [lorenwest/node-config: Node.js Application Configuration](https://github.com/lorenwest/node-config)
 [indexzero-nconf](https://github.com/indexzero/nconf) load and merge config files
 [bevry/envfile](https://github.com/bevry/envfile)
@@ -615,14 +615,14 @@ LoopBack is based on Express
 > Server Side Rendering, stream updates
 
 [Qwik](https://qwik.builder.io/)
+[BuilderIO/qwik: Instant-loading web apps, without effort](https://github.com/BuilderIO/qwik)
 [Host element - Qwik](https://qwik.builder.io/guide/components/host-element)
 All JS code are serialized as string and lazy loaded
+[Qwik compiler playground](https://qwik-playground.builder.io/)
 
 [Qwik… the world's first O(1) JavaScript framework? - YouTube](https://www.youtube.com/watch?v=x2eF3YLiNhY)
 [Build Resumable Apps with Qwik - YouTube](https://www.youtube.com/watch?v=_PDpoJUacuc)
-
-[BuilderIO/qwik: The HTML-first framework. Initialize apps of any size with < 1kb JS](https://github.com/BuilderIO/qwik)
-[Qwik compiler playground](https://qwik-playground.builder.io/)
+[Unveiling Qwik 1.0: What You Need to Know! - YouTube](https://www.youtube.com/watch?v%3DNjKOAbWqOM4)
 
 [Qwik Series' Articles - DEV Community](https://dev.to/mhevery/series/13467)
 [Resumable JavaScript with Qwik - DEV Community](https://dev.to/this-is-learning/resumable-javascript-with-qwik-2i29)

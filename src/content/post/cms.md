@@ -2,14 +2,15 @@
 title: Content Management Systems
 description: ""
 created: 2022-07-09
+updated: 2023-04-30
 tags:
   - business
   - cms
 ---
 
 [Why you should change your CMS today - DEV Community](https://dev.to/matfrana/why-you-should-change-your-cms-today-539j) JAM CMS
-[21 Best CMS Software to Build a Website (And Manage Content) in 2022](https://kinsta.com/blog/cms-software/)
-[14 Best Blogging Platforms & Sites 2022 - Both Free and Paid](https://makeawebsitehub.com/choose-right-blogging-platform/)
+[21 Best CMS Software to Build a Website (And Manage Content) in 2023](https://kinsta.com/blog/cms-software/)
+[14 Best Blogging Platforms & Sites 2023 - Both Free and Paid](https://makeawebsitehub.com/choose-right-blogging-platform/)
 
 [cms-backend · GitHub Topics](https://github.com/topics/cms-backend)
 
@@ -34,8 +35,16 @@ tags:
 
 > headless, API for data, database wrapper
 
+[[appsmith-cms]]
+[[directus-cms]]
+[[payload-cms]]
+[[strapi-cms]]
+
 [RecaMedia/JayDMS-Dev: The development repository of JayDMS (JSON Development Management System).](https://github.com/RecaMedia/JayDMS-Dev) one-off, AGPL
 
+### Medusa
+
+[Medusa - Building blocks for digital commerce](https://medusajs.com/)
 [medusajs/medusa: The open-source Shopify alternative ⚡️](https://github.com/medusajs/medusa)
 
 ### ROAPI
@@ -43,6 +52,7 @@ tags:
 > fuse multiple data sources as Arrow table, expose as Postgres/REST/GraphQL API
 
 [Overview - ROAPI Documentation](https://roapi.github.io/docs/index.html)
+[roapi/docs: ROAPI user documentation](https://github.com/roapi/docs)
 
 ### Baserow
 
@@ -62,56 +72,6 @@ docker run -d --name baserow \
 [NocoDB Documentation - NocoDB](https://docs.nocodb.com/)
 [nocodb/nocodb: 🔥 🔥 🔥 Open Source Airtable Alternative](https://github.com/nocodb/nocodb)
 
-### Appsmith
-
-[Appsmith | Build & self-host internal tools](https://www.appsmith.com/)
-[Introduction - Appsmith](https://docs.appsmith.com/getting-started/readme)
-[Appsmith, an Open Source Low-Code Framework to Build Internal Apps – The New Stack](https://thenewstack.io/appsmith-an-open-source-low-code-framework-to-build-internal-apps/)
-
-[Tutorial](https://www.appsmith.com/blog-categories/tutorial)
-[Build a CMS for Your Company in Under an Hour](https://www.appsmith.com/blog/build-a-cms-for-your-company-in-under-an-hour)
-[Building an Admin Panel with Appsmith](https://www.appsmith.com/blog/building-an-admin-panel-with-appsmith)
-[Building an Admin Panel with MongoDB using Appsmith](https://www.appsmith.com/blog/building-an-admin-panel-with-mongodb-using-appsmith)
-
-### Strapi
-
-[Strapi - Open source Node.js Headless CMS 🚀](https://strapi.io/) Koa.js + Knex + React Admin Panel
-[strapi/strapi: 🚀 Open source Node.js Headless CMS to easily build customisable APIs](https://github.com/strapi/strapi)
-[strapi/packages/core/strapi at master · strapi/strapi](https://github.com/strapi/strapi/tree/master/packages/core/strapi)
-[strapi/packages/core/admin at master · strapi/strapi](https://github.com/strapi/strapi/tree/master/packages/core/admin)
-
-[Strapi Developer Docs](https://docs.strapi.io/developer-docs/latest/getting-started/introduction.html)
-[Strapi User Guide](https://docs.strapi.io/user-docs/latest/getting-started/introduction.html)
-
-#### Auth
-
-[Authenticated request - Strapi Developer Docs](https://docs.strapi.io/developer-docs/latest/guides/auth-request.html)
-[Roles & Permissions - Strapi Developer Docs](https://docs.strapi.io/developer-docs/latest/plugins/users-permissions.html)
-
-[Make authenticated requests | Strapi](https://strapi.io/video-library/making-authenticated-requests)
-
-#### Customization
-
-[Back-end customization - Strapi Developer Docs](https://docs.strapi.io/developer-docs/latest/development/backend-customization.html)
-
-[Auto-generate fields with values | Strapi](https://strapi.io/video-library/auto-generated-field-value) gen slug to title
-
-[Implement Strapi side Database index creation · Issue #9913 · strapi/strapi](https://github.com/strapi/strapi/issues/9913#issuecomment-811014560) add index with Knex
-
-#### Docker
-
-[Docker with Strapi V4](https://blog.dehlin.dev/docker-with-strapi-v4) non-official
-[How to Run Strapi 4 in a Docker Container Using Docker Compose](https://razinj.dev/how-to-run-strapi-4-in-a-docker-container-using-docker-compose/)
-[naskio/strapi - Docker Hub](https://hub.docker.com/r/naskio/strapi)
-
-### Directus
-
-[Open-Source Headless CMS & API — Directus](https://directus.io/)
-[directus/directus: The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.](https://github.com/directus/directus)
-
-[directus/directus - Docker Image | Docker Hub](https://hub.docker.com/r/directus/directus)
-[directus/docker at main · directus/directus](https://github.com/directus/directus/tree/main/docker)
-
 ### KeystoneJS
 
 [KeystoneJS](https://keystonejs.com/)
@@ -129,6 +89,8 @@ Tina is an open-source site editing toolkit for React-based frameworks — Gatsb
 
 ### PHP
 
+[[cakephp]]
+
 [cms-backend · GitHub Topics](https://github.com/topics/cms-backend?l=php)
 [Best PHP CMS For Developers in 2022](https://www.cloudways.com/blog/best-php-cms/)
 
@@ -140,6 +102,9 @@ Tina is an open-source site editing toolkit for React-based frameworks — Gatsb
 
 [Backdrop CMS | Free Open Source CMS built in PHP](https://backdropcms.org/)
 [backdrop/backdrop: Backdrop core code repository.](https://github.com/backdrop/backdrop)
+
+[Inertia.js - The Modern Monolith](https://inertiajs.com/)
+[Set up Models, Migrations, Seeders & Factories | Inertia-Svelte Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=sSYxlyGuEmk)
 
 [Introduction - Snipe-IT](https://snipe-it.readme.io/docs) IT assets management
 
@@ -178,12 +143,6 @@ Tina is an open-source site editing toolkit for React-based frameworks — Gatsb
 [High Performance Hosting & Agile WebOps Platform | Pantheon](https://pantheon.io/) as backend for other blogging platform
 [Pantheon Complete Course | Pantheon a DevOps Tool | Solution for CI/CD - YouTube](https://www.youtube.com/watch?v=qTb3Hrt11Cg)
 
-### Payload CMS
-
-[Payload CMS | Node & React TypeScript Headless CMS](https://payloadcms.com/)
-[payloadcms/payload: Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB](https://github.com/payloadcms/payload)
-[Payload is now completely free and open source | Blog | Payload CMS](https://payloadcms.com/blog/open-source)
-
 ### WonderCMS
 
 [WonderCMS - smallest flat file CMS - Home](https://www.wondercms.com/)
@@ -204,7 +163,7 @@ Tina is an open-source site editing toolkit for React-based frameworks — Gatsb
 
 ### Outline
 
-[Outline – Team knowledge base & wiki](https://www.getoutline.com/)
+[Outline - Team knowledge base & wiki](https://www.getoutline.com/)
 
 [vicalloy/outline-docker-compose: Install a self-hosted Outline wiki instance in a couple of minutes](https://github.com/vicalloy/outline-docker-compose)
 

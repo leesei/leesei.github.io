@@ -74,6 +74,7 @@ tags:
 [日本武士兵器庫 - YouTube](https://www.youtube.com/playlist?list=PLUqwJQhyTC8PcIIPMGDMx_BsIzPau7qaP)
 [戰國武士防具庫：頭盔與鎧甲 - YouTube](https://www.youtube.com/playlist?list=PLUqwJQhyTC8OCwbu31YkM871QrSSFnSwi)
 [穿越到日本戰國當武士的必修課 - YouTube](https://www.youtube.com/playlist?list=PLUqwJQhyTC8PxlcE03Y77Jo9TW4AkBGAk)
+[8 分鐘詳解日本武士刀，什麼叫太刀、打刀、脅差、懷劍、薙刀、鎧通，它們有什麼區別和造型？ - YouTube](https://www.youtube.com/watch?v=PLTyd-3IgtU)
 
 太刀: 刀刃朝下, 平安時代騎射為主, 要配件掛到腰帶上
 打刀: 刀刃朝上, 室町時代, 直接插到腰帶上
@@ -125,6 +126,7 @@ tags:
 [Metalworking - Wikiwand](http://www.wikiwand.com/en/Metalworking)
 [Forge - Wikiwand](http://www.wikiwand.com/en/Forge)
 [Forging - Wikiwand](http://www.wikiwand.com/en/Forging)
+[變軟變硬都靠它？金屬熱處理，退火、淬火、回火的原理解說 - YouTube](https://www.youtube.com/watch?v=u9kpobrLBj4)
 
 [Man at Arms: The Complete Series - YouTube](https://www.youtube.com/playlist?list=PLUUGFk1wE5OHqeNDwp2q9_ZiPqKlWNc6V)
 [Forging a Bronze-Age Sword - YouTube](https://www.youtube.com/watch?v=R62TPFzBQ40)

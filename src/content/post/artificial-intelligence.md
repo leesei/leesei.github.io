@@ -335,6 +335,7 @@ Specificity = TN/TN+FP
 [!!Con 2016 - How to trick a neural network! By Julia Evans - YouTube](https://www.youtube.com/watch?v=7_DX1EGKZXY)
 [Robust AI: Protecting neural networks against adversarial attacks – TechTalks](https://bdtechtalks.com/2019/02/20/mit-ibm-ai-robustness-adversarial-examples/)
 [How To Trick a Neural Network in Python 3 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-trick-a-neural-network-in-python-3)
+[Tricking AI Image Recognition - Computerphile - YouTube](https://www.youtube.com/watch?v=gGIiechWEFs)
 
 [Specification gaming examples in AI | Victoria Krakovna](https://vkrakovna.wordpress.com/2018/04/02/specification-gaming-examples-in-ai/) AI model exploiting design flaws in study
 [Specification gaming examples in AI - master list](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml)
@@ -343,6 +344,10 @@ Specificity = TN/TN+FP
 
 ## Natural Language
 
+[[voice-assistant]]
+[[mycroft]]
+
+[Introduction - Hugging Face Course](https://huggingface.co/learn/nlp-course/)
 [How Hugging Face is tackling bias in NLP | VentureBeat](https://venturebeat.com/2021/08/25/how-hugging-face-is-tackling-bias-in-nlp/)
 [The Illustrated Retrieval Transformer – Jay Alammar – Visualizing machine learning one concept at a time.](http://jalammar.github.io/illustrated-retrieval-transformer/)
 
@@ -416,6 +421,7 @@ Transformers (formerly known as `pytorch-transformers` and `pytorch-pretrained-b
 [Simple BERT using TensorFlow 2.0 - Towards Data Science](https://towardsdatascience.com/simple-bert-using-tensorflow-2-0-132cb19e9b22)
 [Facebook Open-Sources RoBERTa: an Improved Natural Language Processing Model](https://www.infoq.com/news/2019/09/facebook-roberta-nlp/)
 [Google Open-Sources ALBERT Natural Language Model](https://www.infoq.com/news/2020/01/google-albert-ai-nlp/)
+[Rust Artificial Intelligence (The Simple Way) - YouTube](https://www.youtube.com/watch?v=StMP7g-0wK4) `rust-bert`
 
 [Talisman - Phonetics](http://yomguithereal.github.io/talisman/phonetics)
 [SudachiPy: A Japanese Morphological Analyzer in Python](https://towardsdatascience.com/sudachipy-a-japanese-morphological-analyzer-in-python-5f1f8fc0c807)
@@ -424,6 +430,9 @@ Transformers (formerly known as `pytorch-transformers` and `pytorch-pretrained-b
 
 [Alpaca](https://crfm.stanford.edu/alpaca/)
 [tatsu-lab/stanford_alpaca: Code and documentation to train Stanford's Alpaca models, and generate the data.](https://github.com/tatsu-lab/stanford_alpaca)
+
+[Language Models For Software Developers in 17 Minutes - YouTube](https://www.youtube.com/watch?v=tL1zltXuHO8)
+[youtube/Transformers at main · Me163/youtube](https://github.com/Me163/youtube/tree/main/Transformers)
 
 [nlp-compromise/nlp_compromise: a cool way to use natural language in javascript](https://github.com/nlp-compromise/nlp_compromise)
 [Natural language processing for Node.js - LogRocket Blog](https://blog.logrocket.com/natural-language-processing-for-node-js/)
@@ -485,9 +494,6 @@ Glitch Prompt
 
 [OpenSTT | An Open Source Speech-To-Text Project](https://openstt.org/)
 
-[Mycroft – Open Source Voice Assistant - Mycroft](https://mycroft.ai/)
-Used Mycroft project (an open source project providing features of Amazon Echo)
-
 [Python Project – How to Build Tony Stark's JARVIS with Python](https://www.freecodecamp.org/news/python-project-how-to-build-your-own-jarvis-using-python/)
 [SpeechRecognition · PyPI](https://pypi.org/project/SpeechRecognition/)
 
@@ -502,14 +508,13 @@ Used Mycroft project (an open source project providing features of Amazon Echo)
 
 ### TTS
 
-[[mycroft]]
-
 [VanillaVoice - Turn Text into Human-Sounding Speech](https://www.vanillavoice.com/)
 [Hearling | Text to Speech for everyone](https://hearling.com/) normal quality
 [Sound of Text](https://soundoftext.com/) normal quality
 [Voicemaker® - Text to Speech Converter](https://voicemaker.in/)
 
 [Mimic 3 - Mycroft](https://mycroft.ai/mimic-3/)
+[Mimic TTS - Mycroft AI](https://mycroft-ai.gitbook.io/docs/mycroft-technologies/mimic-tts/)
 
 [文字轉語音 Archives - 電腦王阿達](https://www.kocpc.com.tw/archives/tag/%e6%96%87%e5%ad%97%e8%bd%89%e8%aa%9e%e9%9f%b3)
 [程式整合 Azure 文字轉語音服務 - PowerShell / C# 範例-黑暗執行緒](https://blog.darkthread.net/blog/azure-tts-example/)
@@ -1579,6 +1584,7 @@ When doing inference on edge, the model can be optimized for the target platform
 [Get started with the USB Accelerator | Coral](https://coral.ai/docs/accelerator/get-started/)
 [USB Accelerator | Coral](https://coral.ai/products/accelerator/)
 
+[Google Just Turned the Raspberry Pi into a Supercomputer... - YouTube](https://www.youtube.com/watch?v=mOY_Dbyq6OY)
 [Edge TPU live demo: Coral Dev Board & Microcontrollers (TF Dev Summit '19) - YouTube](https://www.youtube.com/watch?v=CukaWaWbBHY)
 
 ## Intel

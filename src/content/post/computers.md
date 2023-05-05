@@ -28,8 +28,8 @@ tags:
 - WD Blue WD10EZEX 1TB $565@2012-10
 - WD Red WD30EFRX 3TB @2020-06
 - Intel AX200 + Antennae $116@2020-10
-- Perixx Periduo-505 ¥298 @2021-08
-- Elecom HUGE ¥374 @2017-09
+- Perixx Periduo-505 ¥298@2021-08
+- Elecom HUGE ¥374@2017-09
 - LG UltraGear 27GP83B 27" 2560x1440 16:9 Nano IPS 4.2/6.3kg $3080@2021-10
 - Philips 245C5-QHAB 24" 1920x1080 16:9 IPS w/speaker $1900@2015-02
 - COOLER MASTER MasterBox NR600 $495@2020-06
@@ -41,7 +41,7 @@ tags:
 [AMD's Bugfix for Ryzen Stuttering Now Widely Available | Tom's Hardware](https://www.tomshardware.com/news/agesa-1207-am4-motherboard-roundup) 1.2.0.7
 BIOS 1004 2020-08-13
 
-https://www.userbenchmark.com/UserRun/59486223
+[Asus TUF GAMING B550-PLUS Performance Results - UserBenchmark](https://www.userbenchmark.com/UserRun/59486223)
 
 ## Lenovo ThinkPad X1 Carbon Gen 7
 
@@ -289,7 +289,7 @@ U330P A 壳
 
 - Intel Core i3
 
-## HP 800G1 USDT
+## HP 800G1 USDT (e-Waste PC)
 
 - 2020-07
 - Case ¥268@2020-07

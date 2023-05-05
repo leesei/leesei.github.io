@@ -34,7 +34,7 @@ All python code are executed statements, no such thing as declaration
 [The creator of Python on how the programming language is learning from TypeScript - TechRepublic](https://www.techrepublic.com/article/the-creator-of-python-on-how-the-programming-language-is-learning-from-typescript/)
 [Why is Python So Popular Among Programmers?](https://blog.eduonix.com/software-development/python-popular-among-programmers/)
 
-[The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/) [source](https://github.com/realpython/python-guide) !important
+[The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/) [source](https://github.com/realpython/python-guide) !important
 [BeginnersGuide - Python Wiki](https://wiki.python.org/moin/BeginnersGuide)
 
 [vinta/awesome-python: A curated list of awesome Python frameworks, libraries, software and resources](https://github.com/vinta/awesome-python)

@@ -17,14 +17,13 @@ tags:
 - making embedding Deno easy
 
 [deno doc](https://doc.deno.land/)
-[Deno 1.0 | Deno Blog](https://deno.com/blog/v1) 2020-05
-[Deno 1.28: Featuring 1.3 Million New Modules](https://deno.com/blog/v1.28) 2022-11
 [Introduction | Manual | Deno](https://deno.land/manual/introduction)
 [Permissions | Manual | Deno](https://deno.land/manual/getting_started/permissions)
 
 [10 Things I Regret About Node.js - Ryan Dahl - JSConf EU 2018 - YouTube](https://www.youtube.com/watch?v=M3BM9TB-8yA)
 [Deno - HTTP 203 - YouTube](https://www.youtube.com/watch?v=SYkzk_j3yb0)
 [Ryan Dahl's "My Dream Stack" at RemixConf 2022 - YouTube](https://www.youtube.com/watch?v=3NR9Spj0DmQ)
+["What's next for Deno?" by Ryan Dahl (NodeCongress '23) - YouTube](https://www.youtube.com/watch?v=LVEGRj3RZSA)
 
 [Deno: The next step in Node.js - DEV Community](https://dev.to/siddharthshyniben/deno-the-next-step-in-node-js-ij1)
 [Building Your First Application With Deno](https://getstream.io/blog/build-deno-app/)
@@ -33,6 +32,11 @@ tags:
 [Deno: Will It Replace Node.JS? - YouTube](https://www.youtube.com/watch?v=lcoU9jtsK24)
 [Node.js Creator Blasts Node.js, Offers a Secure TypeScript-Based Alternative - The New Stack](https://thenewstack.io/node-js-creator-blasts-node-js-offers-a-secure-typescript-based-alternative/)
 [First thoughts on Deno, the JavaScript/TypeScript run-time](https://43081j.com/2019/01/first-look-at-deno)
+
+## Version History
+
+[Deno 1.0 | Deno Blog](https://deno.com/blog/v1) 2020-05
+[Deno 1.28: Featuring 1.3 Million New Modules](https://deno.com/blog/v1.28) 2022-11
 
 ## Awesome lists
 

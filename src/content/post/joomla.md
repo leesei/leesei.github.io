@@ -26,6 +26,7 @@ tags:
 [Joomla 3 Tutorials - Joomla-Monster](https://www.joomla-monster.com/documentation/joomla-tutorials)
 [Joomla Tutorials](https://www.ostraining.com/blog/joomla-cms/)
 [Mathew Tamin - YouTube](https://www.youtube.com/channel/UC0yZWSfMOzd4Wj3seG7h33g)
+[Learn Joomla Fast - YouTube](https://www.youtube.com/@LearnJoomlaFast)
 
 [Joomlashack Blog and Updates - Joomlashack](https://www.joomlashack.com/blog/)
 [Joomla Tutorials for Beginners - JoomlaBeginner.com](https://www.joomlabeginner.com/)

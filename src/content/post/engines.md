@@ -84,6 +84,8 @@ used in the largest diesel engine
 [This Brilliant Engine Makes 1000 HP Without Boost! - YouTube](https://www.youtube.com/watch?v=Tq2vrqqlSNg)
 [The Best Way To Compare Car Engines - BMEP - YouTube](https://www.youtube.com/watch?v=bE_1JYrlYYU) Brake Mean Effective Pressure, a fancy way to measure torque per liter
 
+[Cylinder Offset Changes Everything - YouTube](https://www.youtube.com/watch?v=gwtZkHoVMso)
+
 ### Engine Layout
 
 [INLINE 6 vs. V6 - How it Works | SCIENCE GARAGE - YouTube](https://www.youtube.com/watch?v=JfaJ35vVQ9A)
@@ -352,14 +354,14 @@ first multistage rocket, detach booster in Korolev cross fashion (still used in 
 [有苏联失败的前车之鉴，星舰上满屁股的发动机，能稳定工作吗？【科学火箭叔】 - YouTube](https://www.youtube.com/watch?v=Cf_oVzYupSA)
 [【并非好奇】解密 SpaceX 猛禽火箭發動機工作原理 爲什麽它先進的超出你的想象 - YouTube](https://www.youtube.com/watch?v=7NPEATB8oLA)
 
-![Merlin engine](./_assets/engines/merlin-engine.png)
+![Merlin engine](/_assets/engines/merlin-engine.png)
 
 - open cycle
 - Kerolox: RP-1 (rocket grade kerosene) @-10°C + LOX (liquid oxygen) @-207°C
 - uses pyroph oric T-TEB as ignition fluid
 - uses gas generator for a turbine to spin the main pumps
 
-![Raptor engine](./_assets/engines/raptor-engine.png)
+![Raptor engine](/_assets/engines/raptor-engine.png)
 
 - full flow, staged combustion
 - Methalox: liquid methane @-180°C + LOX (liquid oxygen) @-207°C
@@ -370,8 +372,10 @@ first multistage rocket, detach booster in Korolev cross fashion (still used in 
 ### Rotating Detonating Engines
 
 [How NASA Reinvented the Rocket Engine - YouTube](https://www.youtube.com/watch?v=RVxgyz_avQM)
+[旋转爆震发动机，到底是怎么工作的？它离现实还有多远？【科学火箭叔】 - YouTube](https://www.youtube.com/watch?v=HYE-9unmbG8)
+[爆震發動機究竟有多強？能讓飛機 16 馬赫飛行，航程增加一倍 - YouTube](https://www.youtube.com/watch?v=z7i3Knm1siI)
 
-- aero-spike nozzle acts like a self adapting nozzle at different atmospheric pressure to prevent overexpansion and underexpansion of exhaust gas
+- aero-spike nozzle acts like a self adapting nozzle at different atmospheric pressure to prevent overexpansion and under-expansion of exhaust gas
 
 ## Electric Motor
 

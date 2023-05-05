@@ -162,11 +162,6 @@ Check inode usage: `df -i`
 [Writing a Simple Filesystem Using FUSE in C](http://www.maastaar.net/fuse/linux/filesystem/c/2016/05/21/writing-a-simple-filesystem-using-fuse/)
 [thawkins/fuse-examplefs: Automatically exported from code.google.com/p/fuse-examplefs](https://github.com/thawkins/fuse-examplefs)
 
-### Dokan (FUSE for Windows)
-
-[Dokan - User mode file system library for windows with FUSE Wrapper](https://dokan-dev.github.io/)
-[Are there a list of supported filesystems for Dokany? - Google Groups](https://groups.google.com/forum/#!topic/dokan/L0j8hOubT1Y)
-
 ### Rust
 
 [Rust's Bindgen + Fuse in 2019 - DEV Community 👩‍💻👨‍💻](https://dev.to/kdrakon/rust-s-bindgen-fuse-in-2019-2e8l)
@@ -201,6 +196,11 @@ sshfs user@yourdomain.com:/path/to/remote local/path
 # unmount sshfs
 fusermount -u local_mountpoint
 ```
+
+### Dokan (FUSE for Windows)
+
+[Dokan - User mode file system library for windows with FUSE Wrapper](https://dokan-dev.github.io/)
+[Are there a list of supported filesystems for Dokany? - Google Groups](https://groups.google.com/forum/#!topic/dokan/L0j8hOubT1Y)
 
 ### WinFsp
 

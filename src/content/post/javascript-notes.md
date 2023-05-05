@@ -788,6 +788,7 @@ supports CPython compiled to WebAssembly
 [pyscript/pyscript: Home Page: https://pyscript.net Examples: https://pyscript.net/examples](https://github.com/pyscript/pyscript)
 [A First Look at PyScript: Python in the Web Browser – Real Python](https://realpython.com/pyscript-python-in-browser/)
 [PyScript: Making Python Scripts Work In Browser For Web App Creation](https://www.searchenginejournal.com/python-scripts-web-app-creation/454348/)
+[PyScript is officially here!🚀 Build web apps with Python & HTML - YouTube](https://www.youtube.com/watch?v=owopzp436jM)
 
 [ethanhs/python-wasm: Build scripts and configuration for building CPython for Emscripten](https://github.com/ethanhs/python-wasm)
 [How to build and run your Python scripts in a web browser • The Register](https://www.theregister.com/2021/11/30/python_web_wasm/)

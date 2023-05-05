@@ -69,6 +69,13 @@ tags:
 
 [Free pricing plans and discounts · Tailscale](https://tailscale.com/kb/1154/free-plans-discounts/)
 
+### Twingate
+
+[Twingate: It's time to ditch your VPN](https://www.twingate.com/)
+Free for 5 users, 10 networks
+
+[the END of VPNs?! - YouTube](https://www.youtube.com/watch?v=IYmXPF3XUwo)
+
 ### SoftEther VPN
 
 [SoftEther VPN Project - SoftEther VPN Project](https://www.softether.org/)

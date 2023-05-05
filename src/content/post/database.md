@@ -112,6 +112,9 @@ This replaces operational transformation for collaborative editing.
 [Database of Databases - Home](https://dbdb.io/)
 [Explore Databases - GitHub Reviews](https://githubreviews.com/explore/databases)
 
+[7 Database Paradigms - YouTube](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
+[15 futuristic databases you’ve never heard of - YouTube](https://www.youtube.com/watch?v=jb2AvF8XzII)
+
 [Did I Pick The Right Database??? - YouTube](https://www.youtube.com/watch?v=cC6HFd1zcbo)
 
 - avoid Firebase, Firestore, Hasura and FaunaDB (for being proprietary)
@@ -123,8 +126,6 @@ This replaces operational transformation for collaborative editing.
 [DB-Engines Ranking - popularity ranking of document stores](http://db-engines.com/en/ranking/document+store)
 
 [Seven Databases in Seven Days - a Cloud Data Services journey](https://www.compose.com/articles/seven-databases-in-seven-days-a-cloud-data-services-journey/)
-
-[7 Database Paradigms - YouTube](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
 
 [How To Choose The Right Database? - YouTube](https://www.youtube.com/watch?v=kkeFE6iRfMM)
 [How to Choose the Right Database? - MongoDB, Cassandra, MySQL, HBase - Frank Kane - YouTube](https://www.youtube.com/watch?v=v5e_PasMdXc)
@@ -359,6 +360,11 @@ Basics:
 [UUIDs are Bad for Performance in MySQL - Is Postgres better? Let us Discuss - YouTube](https://www.youtube.com/watch?v=Y5mWz4vK10A)
 MySQL's data clustering means the primary key affects data I/O; Postgres does not have this issue
 
+### Dolt
+
+[DoltHub Home |DoltHub](https://www.dolthub.com/) MySQL + Git
+[dolthub/dolt: Dolt – Git for Data](https://github.com/dolthub/dolt)
+
 ## Drop-in replacements
 
 [MariaDB.org - Continuity and open collaboration](https://mariadb.org/) may not be so since it adds proprietary and open source extensions
@@ -519,7 +525,7 @@ The first three supports relationship by a second index lookup, `JOIN`-like oper
 
 ## Yugabyte DB
 
-[YugaByte DB](https://www.yugabyte.com/)
+[YugaByte DB](https://www.yugabyte.com/) bult on Postgres, multicloud
 [Introducing YugaByte DB | YugaByte DB](https://www.yugabyte.com/resources/online-talks/introducing-yugabytedb/)
 [Architecture | YugabyteDB Docs](https://docs.yugabyte.com/latest/architecture/)
 
@@ -742,7 +748,7 @@ MongoDB protocol and APIs backed by PostgreSQL.
 EdgeQL/GraphQL and REST backed by PostgreSQL.
 
 [EdgeDB—The next generation database](https://edgedb.com/)
-[edgedb/edgedb: The next generation object-relational database.](https://github.com/edgedb/edgedb)
+[edgedb/edgedb: A graph-relational database with declarative schema, built-in migration system, and a next-generation query language](https://github.com/edgedb/edgedb)
 
 ---
 
@@ -973,6 +979,11 @@ The _Standard_ API for interacting with GraphDB.
 
 [Neo4j: The World's Leading Graph Database](https://neo4j.com/)
 [Review: Neo4j supercharges graph analytics | InfoWorld](https://www.infoworld.com/article/3256064/database/review-neo4j-graph-database-supercharges-graph-analytics.html)
+
+## Memgraph
+
+[Memgraph - Open Source Graph Database](https://memgraph.com/)
+[memgraph/memgraph: Open-source graph database, built for real-time streaming data, compatible with Neo4j.](https://github.com/memgraph/memgraph)
 
 ## FlockDB
 
@@ -1260,6 +1271,7 @@ CockroachDB is a cloud-native SQL database for building global, scalable cloud s
 > written in Rust; SQL; ACID; schemaless or schemafull; relational, graph and document
 
 [SurrealDB | The ultimate serverless cloud database](https://surrealdb.com/)
+[surrealdb/surrealdb: A scalable, distributed, collaborative, document-graph database, for the realtime web](https://github.com/surrealdb/surrealdb)
 [SurrealDB in 100 Seconds - YouTube](https://www.youtube.com/watch?v=C7WFwgDRStM)
 [Beyond Surreal? A closer look at NewSQL Relational Data - YouTube](https://www.youtube.com/watch?v=LCAIkx1p1k0)
 [Rust Powered Database SurrealDB (It's Pretty Ambitious) - YouTube](https://www.youtube.com/watch?v=DPQbuW9dQ7w)
@@ -1376,6 +1388,11 @@ VoltDB
 
 [Druid | Database for modern analytics applications](https://druid.apache.org/)
 
+# AIDB
+
+[Machine Learning In Your Database Using SQL](https://mindsdb.com/)
+[mindsdb/mindsdb: A low-code Machine Learning platform to help developers build #AI solutions](https://github.com/mindsdb/mindsdb)
+
 # Hacky DB
 
 [mapbox/hubdb: a github-powered database](https://github.com/mapbox/hubdb)
@@ -1391,6 +1408,8 @@ VoltDB
 [Pricing | Railway](https://railway.app/pricing) can host SQL, Redis, Mongo, $5 credit per month
 
 [Pricing and Plans | Fauna](https://fauna.com/pricing) distributed ACID document DB
+
+[Neon — Serverless, Fault-Tolerant, Branchable Postgres](https://neon.tech/)bult on Postgres
 
 [Pricing | MongoDB](https://www.mongodb.com/pricing) with free tier
 

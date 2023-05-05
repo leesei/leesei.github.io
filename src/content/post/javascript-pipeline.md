@@ -151,6 +151,8 @@ Vite and Next.js replaced it with more features
 
 [What is Turborepo and Why Should You Care? | refine](https://refine.dev/blog/how-to-use-turborepo/)
 
+[From Go To RUST: The story of Turborepo - YouTube](https://www.youtube.com/watch?v=eOCxuHp76yA)
+
 # Turbopack
 
 [Turbopack - The successor to Webpack](https://turbo.build/pack) caches source files during build, good for large project

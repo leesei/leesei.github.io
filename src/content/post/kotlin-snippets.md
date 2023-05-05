@@ -5,6 +5,7 @@ created: 2019-04-11
 tags:
   - comp.lang
   - kotlin
+  - snippet/kotlin
 ---
 
 ## List and Array

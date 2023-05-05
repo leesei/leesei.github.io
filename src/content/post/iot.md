@@ -311,6 +311,11 @@ Adafruit's open source derivative of MicroPython
 [ZEG](https://microzig.tech/)
 [Intro to Zig on Embedded](https://sycl.it/agenda/workshops/intro-to-zig-on-embedded/)
 
+## Mongoose
+
+[Mongoose - an embedded Web Server, MQTT and Websocket library](https://mongoose.ws/)
+[cesanta/mongoose: Embedded Web Server](https://github.com/cesanta/mongoose)
+
 ## Toit
 
 [Toit - IoT software platform for the ESP32](https://toit.io/)

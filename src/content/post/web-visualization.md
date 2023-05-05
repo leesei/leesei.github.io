@@ -27,6 +27,9 @@ tags:
 [Image Charts | Instantly create beautiful charts](https://www.image-charts.com/)
 [Open Source Image Charts Replacement | QuickChart](https://quickchart.io/)
 
+[JavaScript InfoVis Toolkit](https://philogb.github.io/jit/)
+[philogb/jit: The JavaScript InfoVis Toolkit provides tools for creating Interactive Data Visualizations for the Web](https://github.com/philogb/jit)
+
 ## Polychart
 
 [Polychart.JS](http://www.polychartjs.com/) based on Raphael

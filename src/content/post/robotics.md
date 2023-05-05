@@ -75,7 +75,9 @@ tags:
 
 [Giada Gerboni: The incredible potential of flexible, soft robots | TED Talk](https://www.ted.com/talks/giada_gerboni_the_incredible_potential_of_flexible_soft_robots?language=en)
 
+[George Whitesides: Soft Robots - YouTube](https://www.youtube.com/watch?v=Lhbh-aEWRFU)
 [Why Robots That Bend Are Better - YouTube](https://www.youtube.com/watch?v=058hRtaCWC0)
+[Computing with Soft Robots - Computerphile - YouTube](https://www.youtube.com/watch?v=6eP7_iDJk4k)
 
 [This Fingertip for Robots Uses Magnets to ‘Feel’ Things | WIRED](https://www.wired.com/story/this-fingertip-for-robots-uses-magnets-to-feel-things/)
 
@@ -124,10 +126,12 @@ tags:
 ## IMU
 
 [Inertial measurement unit - Wikiwand](https://www.wikiwand.com/en/Inertial_measurement_unit)
-[Accelerometer - Wikiwand](https://www.wikiwand.com/en/Accelerometer)
+[The GENIUS of Inertial Navigation Systems Explained - YouTube](https://www.youtube.com/watch?v=Pq_PDaYclAw)
 
+[Accelerometer - Wikiwand](https://www.wikiwand.com/en/Accelerometer)
 [Accelerometer Basics - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/accelerometer-basics/all)
 [Accelerometer, Gyro and IMU Buying Guide - SparkFun Electronics](https://www.sparkfun.com/pages/accel_gyro_guide)
+[How a gyroscope guides a rocket - YouTube](https://www.youtube.com/watch?v=KToggTKa9Lk)
 
 ### Self-balancing robot
 

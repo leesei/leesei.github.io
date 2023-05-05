@@ -9,6 +9,8 @@ tags:
 
 [Graph drawing - Wikiwand](http://www.wikiwand.com/en/Graph_drawing)
 [The Key Differences Between Charts and Graphs Explained](https://www.worldoweb.co.uk/2019/key-differences-between-charts-and-graphs)
+[Effective Data Visualisation - with Valentina D'Efilippo - YouTube](https://www.youtube.com/watch?v=MIZXqC1-VLc)
+[Foundations of Data Visualisation - Computerphile - YouTube](https://www.youtube.com/watch?v=qQ9Wu1IxsYw)
 
 [The Data Visualisation Catalogue](http://www.datavizcatalogue.com/) !important
 [Information is Beautiful](https://informationisbeautiful.net/)

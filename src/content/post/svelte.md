@@ -15,6 +15,7 @@ tags:
 
 [Svelte • Cybernetically enhanced web apps](https://svelte.dev/)
 [Introduction / Basics • Svelte Tutorial](https://svelte.dev/tutorial/basics)
+[Introduction / Welcome to Svelte • Svelte Tutorial](https://learn.svelte.dev/)
 [sveltejs/svelte: Cybernetically enhanced web apps](https://github.com/sveltejs/svelte)
 
 It does not use virtual-DOM diffing. The generated code requires a thin run-time (think jQuery).

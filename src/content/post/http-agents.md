@@ -228,7 +228,10 @@ httrack -c8 [url]
 
 ### REST Client
 
-[RapidAPI Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=RapidAPI.vscode-rapidapi-client) HTTP requests in plain text, generate types
+[REST Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+
+[Show request headers as well as response · Issue #99 · Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient/issues/99#issuecomment-332139174)  
+Set `previewOption` to `exchange` (default `full`) to view requests
 
 [I Abandoned Postman for This NEW VS Code Extension | Build, Test & Sell APIs 🤑 - YouTube](https://www.youtube.com/watch?v=MTrj3tNf9jA)
 [Bye bye Postman ! Let's share your REST API calls in team, easily ! - DEV Community 👩‍💻👨‍💻](https://dev.to/monisnap/bye-bye-postman-let-s-share-your-rest-api-calls-in-team-easily-h6l)
@@ -241,6 +244,10 @@ httrack -c8 [url]
 ### Thunder Client
 
 [Thunder Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) POSTMan in VS Code
+
+### RapidAPI Client
+
+[RapidAPI Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=RapidAPI.vscode-rapidapi-client) HTTP requests in plain text, generate types
 
 ## Node.js
 
@@ -269,11 +276,9 @@ Isomorphic (through bundler):
 Server:
 [bitinn/node-fetch](https://github.com/bitinn/node-fetch)
 [tomas/needle](https://github.com/tomas/needle)
-[hapijs/wreck](https://github.com/hapijs/wreck) (previously `nipple`)
+[hapijs/wreck](https://github.com/hapijs/wreck) previously `nipple`
 [sindresorhus/got](https://github.com/sindresorhus/got)
-[request/request](https://github.com/request/request)
-[request/request-promise](https://github.com/request/request-promise) (promisified `request`)
-[Hulken by hellgrenj](http://hellgrenj.github.io/hulken/) (stress testing)
+`
 
 ## Go
 

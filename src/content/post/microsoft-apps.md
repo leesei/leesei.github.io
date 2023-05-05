@@ -45,6 +45,8 @@ tags:
 
 [Home | PptxGenJS](https://gitbrent.github.io/PptxGenJS/)
 
+[Great Impractical Ideas in Computer Science: PowerPoint Programming - YouTube](https://www.youtube.com/watch?v=_3loq22TxSc)
+
 # Excel
 
 [Excel 基礎教學 - YouTube](https://www.youtube.com/playlist?list=PL7enJ2-v6SPm-EHMuRMCG7R7C-vXQugNM) PAPAYA 電腦教室

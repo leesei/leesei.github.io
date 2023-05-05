@@ -69,6 +69,7 @@ tags:
 [The Problem with Native JavaScript APIs - O'Reilly Media](http://www.oreilly.com/programming/free/native-javascript-apis.csp)
 
 [zachleat.com](https://www.zachleat.com/)
+[Web Dev Simplified - YouTube](https://www.youtube.com/@WebDevSimplified)
 
 ## Trends/Reports
 
@@ -164,6 +165,7 @@ If the site is rendered ahead of time at build, it is known as "Static Site Gene
 ["Static Optimization"](https://nextjs.org/docs/advanced-features/automatic-static-optimization) in Next.js is SSG.
 
 [10 Rendering Patterns for Web Apps - YouTube](https://www.youtube.com/watch?v=Dkx5ydvtpCA)
+[Do you REALLY need SSR? - YouTube](https://www.youtube.com/watch?v=kUs-fH1k-aM)
 
 [[reactjs#Server Side Rendering/Hydration]]
 [[nextjs]]
@@ -521,6 +523,14 @@ convert -resize x60  input.png apple-touch-icon-60x60.png
 
 [Buttons vs. Links | CSS-Tricks](https://css-tricks.com/buttons-vs-links/)
 [Getting Started With DOMmy.js | Webdesigner Depot](https://www.webdesignerdepot.com/2018/11/getting-started-with-dommy-js/amp/)
+
+### `<contenteditable>`
+
+[HTMLElement: contentEditable property - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/contentEditable)
+[contenteditable - HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/contenteditable)
+
+[A small & beautiful WYSIWYG editor for HTML content · ContentTools](https://getcontenttools.com/)
+[GetmeUK/ContentTools: A JS library for building WYSIWYG editors for HTML content.](https://github.com/GetmeUK/ContentTools)
 
 ### Keycode
 
@@ -1040,6 +1050,8 @@ Forward?
 [shipshapecode/react-shepherd: A React wrapper for the site tour library Shepherd](https://github.com/shipshapecode/react-shepherd)
 
 [User Onboarding and Product Walkthrough Library | Intro.js](https://introjs.com/)
+
+[pablof7z/chardin.js: Simple overlay instructions for your apps.](https://github.com/pablof7z/chardin.js)
 
 [React Joyride Demo](https://react-joyride.com/)
 [Reactour Playground Style Guide](https://reactour.vercel.app/)

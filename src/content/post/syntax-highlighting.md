@@ -17,7 +17,7 @@ http://ace.c9.io/#nav=higlighter
 
 ## Prism
 
-> Small, custom grammers, web workers
+> Small, custom grammars, web workers
 
 [Prism](https://prismjs.com/)
 [PrismJS/prism: Lightweight, robust, elegant syntax highlighting.](https://github.com/PrismJS/prism)
@@ -44,11 +44,6 @@ http://ace.c9.io/#nav=higlighter
 [highlight.js demo](https://highlightjs.org/static/demo/) demos both language and style
 [Language definition guide — highlight.js documentation](http://highlightjs.readthedocs.org/en/latest/language-guide.html)
 
-## SyntaxHighlighter
-
-[SyntaxHighlighter](https://github.com/syntaxhighlighter)
-[SyntaxHighlighter](http://alexgorbatchev.com/SyntaxHighlighter/) dead
-
 ## Google Code Prettify
 
 [google/code-prettify: Automatically exported from code.google.com/p/google-code-prettify](https://github.com/google/code-prettify)
@@ -60,3 +55,13 @@ http://ace.c9.io/#nav=higlighter
 [Color themes for Google Code Prettify](http://jmblog.github.io/color-themes-for-google-code-prettify/)
 
 [Hexo 优化之使用 Google Prettify 高亮代码 | 柳志超博客](https://liuzhichao.com/2016/hexo-use-prettify-to-highlight-code.html)
+
+## SyntaxHighlighter
+
+[SyntaxHighlighter](https://github.com/syntaxhighlighter)
+[SyntaxHighlighter](http://alexgorbatchev.com/SyntaxHighlighter/) dead
+
+## Rainbow
+
+[Rainbow - Javascript Code Syntax Highlighting](https://craig.is/making/rainbows)
+[ccampbell/rainbow: Simple syntax highlighting library written in javascript](https://github.com/ccampbell/rainbow)

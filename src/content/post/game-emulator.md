@@ -348,6 +348,17 @@ Super Mario Galaxy 2
 [FCare/Kronos: Kronos is a Sega Saturn emulator.](https://github.com/FCare/Kronos/tree/extui-align) good yabause fork
 [Presentation | fcare.github.io](https://fcare.github.io/)
 
+## XBox 360
+
+[xenia-canary/xenia-canary: Xbox 360 Emulator Research Project](https://github.com/xenia-canary/xenia-canary)
+[FAQ · xenia-canary/xenia-canary Wiki · GitHub](https://github.com/xenia-canary/xenia-canary/wiki/FAQ)
+[xenia-canary/game-patches: Game patches for the Xenia emulator](https://github.com/xenia-canary/game-patches)
+
+[xenia - Xbox 360 Research Emulator](https://xenia.jp/)
+
+[GitHub - xenia-project/game-compatibility](https://github.com/xenia-project/game-compatibility)
+[GitHub - xenia-canary/game-compatibility](https://github.com/xenia-canary/game-compatibility)
+
 ## 3DS
 
 [Homepage | Citra | Nintendo 3DS Emulator](https://citra-emu.org/)

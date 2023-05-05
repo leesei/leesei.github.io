@@ -303,6 +303,10 @@ RUSTFLAGS='-C target-feature=+crt-static' cargo build --release --target armv7-u
 [Rust nightly for android - The Rust Programming Language Forum](https://users.rust-lang.org/t/rust-nightly-for-android/645)
 [Building for Android · servo/servo Wiki](https://github.com/servo/servo/wiki/Building-for-Android)
 
+### Deployment
+
+[shuttle](https://www.shuttle.rs/)
+
 ## Syntax
 
 [Karol Kuczmarski's Blog – patterns](http://xion.io/post/code/rust-patterns-ref.html)
@@ -372,6 +376,11 @@ let optional: Option<float>;
 optional.unwrap(); // float or panic
 optional.expect("this should be a float"); // custom error message
 optional.unwrap_or(0.0) // default value
+// comprehensive
+let f = match optional {
+  None() => panic!("this should be a float")
+  Some(f) => f,
+}
 
 let inner:float = optional?; // another (more elegant) way to unwrap (or return None to propagate error up the call stack)
 ```
@@ -877,6 +886,14 @@ fn first(v: &Vec<Book>) -> &String {
 
 [CXX-Qt Documentation](https://kdab.github.io/cxx-qt/book/)
 [KDAB/cxx-qt: Safe interop between Rust and Qt](https://github.com/KDAB/cxx-qt)
+
+[leptos-rs/leptos: Build fast web applications with Rust.](https://github.com/leptos-rs/leptos)
+
+#### Dioxus
+
+[Dioxus | An elegant GUI library for Rust](https://dioxuslabs.com/)
+[Introduction](https://dioxuslabs.com/docs/0.3/guide/en/)
+[Demonthos/sledgehammer](https://github.com/Demonthos/sledgehammer)
 
 #### Xilem
 

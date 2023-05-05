@@ -59,7 +59,7 @@ You can always check reflog to restore commit no matter how you messed with your
 [Using Git - GitHub Docs](https://docs.github.com/en/get-started/using-git) "Git Handbook"
 [git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/)
 [Git Tutorial - Try Git](https://try.github.io/)
-[On Demand Training](https://services.github.com/on-demand/) [source](https://github.com/github/training-kit)
+[GitHub Training Kit - GitHub Cheatsheets](https://training.github.com/) [source](https://github.com/github/training-kit)
 [git ready » learn git one commit at a time](http://gitready.com/)
 [Git Immersion - Brought to you by Neo](http://gitimmersion.com/) guided tour
 [Learn Version Control with Git for Free](https://www.git-tower.com/learn/)

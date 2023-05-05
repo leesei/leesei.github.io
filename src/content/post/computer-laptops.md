@@ -15,7 +15,7 @@ tags:
 [cyber-pro](http://www.cyber-system-pro.com.hk/)
 [Compare Laptops - Latest laptop Comparison by Price, Specification, Features, Performance & Reviews | Gadgets Now](https://www.gadgetsnow.com/compare-laptops)
 
-![Panels](./_assets/computer-laptops/ABCD%20panel.png)
+![Panels](/_assets/computer-laptops/ABCD_panel.png)
 A: LCD Back Cover
 B: Front bezel
 C: Palmrest

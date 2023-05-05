@@ -585,6 +585,9 @@ designed to be embedded in other files
 [janl/mustache.js: Minimal templating with {{mustaches}} in JavaScript](https://github.com/janl/mustache.js)
 [Command line tool to render a mustache template with a json context file](https://gist.github.com/hidinginabunker/923308) with 'Mu' package
 
+[BorisMoore/jsviews: Interactive data-driven views, MVVM and MVP, built on top of JsRender templates](https://github.com/BorisMoore/jsviews)
+[BorisMoore/jsrender: A lightweight, powerful and highly extensible templating engine. In the browser or on Node.js, with or without jQuery.](https://github.com/BorisMoore/jsrender)
+
 [dust](http://akdubya.github.io/dustjs/)
 [mahmoud/ashes: ⚱️ Lightweight, self-contained templating for Python 2 and 3, a la Dust templates](https://github.com/mahmoud/ashes)
 
@@ -640,6 +643,7 @@ Used in many Go application for formatting output, e.g. `docker`, `kubectl`
 [bigoposter/bigoposter.pdf at master · ro31337/bigoposter](https://github.com/ro31337/bigoposter/blob/master/bigoposter.pdf)
 
 [P vs. NP and the Computational Complexity Zoo - YouTube](https://www.youtube.com/watch?v=YX40hbAHx3s)
+[What Computers Can't Do - with Kevin Buzzard - YouTube](https://www.youtube.com/watch?v=jQPb7DRMoZY) P vs. NP
 [Computer Scientists Prove Certain Problems Are Truly Hard | Quanta Magazine](https://www.quantamagazine.org/computer-scientists-prove-certain-problems-are-truly-hard-20220511/)
 [The Secret Link Between Thousands of Unsolved Math Problems - YouTube](https://www.youtube.com/watch?v=ctwX--JEzSA)
 
@@ -941,6 +945,13 @@ return value: `rax` (`eax` for the lower 32 bits, `al` for the lower byte)
 [x86-64bit-ccc-chapter.pdf](https://aaronbloomfield.github.io/pdr/book/x86-64bit-ccc-chapter.pdf)
 
 [Linux x86 Program Start Up](http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html)
+
+## Beef
+
+[The Beef Programming Language](https://www.beeflang.org/)
+[beefytech/Beef: Beef Programming Language](https://github.com/beefytech/Beef)
+
+[BEEF -- Ideal Game Programming Language? - YouTube](https://www.youtube.com/watch?v=L6w4y6_ENdU)
 
 ## Bosque
 
@@ -1400,8 +1411,11 @@ Elm -> ReScript -> F#
 
 [Odin Programming Language](https://odin-lang.org/)
 [odin-lang/Odin: Odin Programming Language](https://github.com/odin-lang/Odin)
+[odin-lang/examples: Examples of idiomatic Odin code](https://github.com/odin-lang/examples)
+[Odin/examples/demo at master · odin-lang/Odin](https://github.com/odin-lang/Odin/blob/master/examples/demo/demo.odin) single file to demo Odin features
 
 [Interview with Odin language creator gingerBill - YouTube](https://www.youtube.com/watch?v=2YLA4ajby00)
+[Odinlang Creator Ginger Bill Talks Odin! - YouTube](https://www.youtube.com/watch?v=nVa9mgRcVPs)
 
 - for modern system (SIMD)
 - no garbage collector
@@ -1415,6 +1429,8 @@ Elm -> ReScript -> F#
 [Space Shooter with SDL2 and Odin Lang - YouTube](https://www.youtube.com/playlist?list=PLuZ3rcIdDc9EA4YqLJSsrzYeUDv8Mucxz)
 
 ### Ecosystem
+
+[EmberGen: Real-Time Fluid Simulations For Fire, Smoke, And Explosions!](https://jangafx.com/software/embergen/) uses Odin
 
 [Binding to C | Odin Programming Language](https://odin-lang.org/news/binding-to-c/)
 [Odin Libs · odin-lang/Odin Wiki](https://github.com/odin-lang/Odin/wiki/Odin-Libs)

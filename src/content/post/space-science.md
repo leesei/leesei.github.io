@@ -378,6 +378,7 @@ Brings software development philosophy (quick and cheap prototyping, scalability
 
 [解锁馬斯克的星艦飛船，為什麼前往火星是一次有去無回的旅途？「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=1gb8Ayf3JWE)
 [(Almost) Every SpaceX Landing, In Order - YouTube](https://www.youtube.com/watch?v=AllaFzIPaG4)
+[“星舰”为何会爆炸？SpaceX 能否帮助人类移民火星？ - YouTube](https://www.youtube.com/watch?v=NB6te314Q14)
 
 [Starbase Tour with Elon Musk [PART 1] - YouTube](https://www.youtube.com/watch?v=t705r8ICkRw)
 [Starbase Tour with Elon Musk [PART 2] - YouTube](https://www.youtube.com/watch?v=SA8ZBJWo73E)
@@ -391,7 +392,7 @@ Starship Launch System (SLS), using Superheavy as first stage booster
 [Starship - YouTube](https://www.youtube.com/playlist?list=PLBQ5P5txVQr9_jeZLGa0n5EIYvsOJFAnY) SN8 began to trial flip landing
 [What's Inside The SpaceX Starship? - YouTube](https://www.youtube.com/watch?v=OKy2Z2BnyU8)
 
-![](./_assets/qspace-science/falcon-9-vs-starship.png)
+![](/_assets/space-science/falcon-9-vs-starship.png)
 
 Falcon
 

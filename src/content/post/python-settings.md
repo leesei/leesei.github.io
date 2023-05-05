@@ -368,6 +368,7 @@ pip install --user python-pygame
 
 [Python Extension Packages for Windows - Christoph Gohlke](https://www.lfd.uci.edu/~gohlke/pythonlibs/) if you have difficulties building packages
 [Wheelodex — an Index of Wheels](https://www.wheelodex.org/)
+[PyPI Download Stats](https://pypistats.org/)
 
 [JackMcKew/awesome-python-bytes: 😎 🐍 Awesome lists about Python Bytes https://pythonbytes.fm/](https://github.com/JackMcKew/awesome-python-bytes)
 [Hidden gems: 14 Python libraries too good to overlook | InfoWorld](http://www.infoworld.com/article/3164409/application-development/hidden-gems-14-python-libraries-too-good-to-overlook.html)

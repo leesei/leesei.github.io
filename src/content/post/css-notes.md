@@ -332,6 +332,7 @@ Grid sizes
 [Responsive Design - Tailwind CSS](https://tailwindcss.com/docs/responsive-design)
 [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography)
 
+[Framework Guides - Tailwind CSS](https://tailwindcss.com/docs/installation/framework-guides)
 [Tailwind CSS v3.3: Extended color palette, ESM/TS support, logical properties, and more - Tailwind CSS](https://tailwindcss.com/blog/tailwindcss-v3-3)
 
 [Typewind – Typesafe Tailwind](https://typewind.dev/)
@@ -340,8 +341,7 @@ Grid sizes
 
 [Tailwind CSS Cheat Sheet](https://tailwindcomponents.com/cheatsheet/)
 [Tailwind CSS Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
-
-[How to configure Create-React-App to use TailwindCSS - LogRocket Blog](https://blog.logrocket.com/create-react-app-and-tailwindcss/)
+[Watching Tailwind Tutorials Is A Waste Of Time - YouTube](https://www.youtube.com/watch?v=Ksn1tThNTjI)
 
 [Automatic Class Sorting with Prettier - Tailwind CSS](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
 [tailwindlabs/prettier-plugin-tailwindcss: A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)

@@ -23,6 +23,7 @@ New Mind
 [Extreme Materials - YouTube](https://www.youtube.com/watch?v=3a8uOXIPhNI)
 [Cloaking With Metamaterials - YouTube](https://www.youtube.com/watch?v=sweVNjEQj0s)
 
+[Machine Thinking - YouTube](https://www.youtube.com/@machinethinking)
 [Origins of Precision - YouTube](https://www.youtube.com/watch?v=gNRnrn5DE58)
 
 [Understanding Engineering Drawings - YouTube](https://www.youtube.com/watch?v=ht9GwXQMgpo)

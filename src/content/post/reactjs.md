@@ -12,7 +12,7 @@ tags:
 ---
 
 > React is moving fast, post older then 2 years should be discarded
-> TODO: remove old docs (reviewed to `#Hook`)
+> TODO: remove old docs (reviewed to [[#Hook]])
 
 [React – The library for web and native user interfaces](https://react.dev/)
 [Quick Start – React](https://react.dev/learn)
@@ -20,8 +20,9 @@ tags:
 
 [Learn React - Best React Tutorials (2022) | gitconnected](https://gitconnected.com/learn/react)
 [The Beginner's Guide to React | egghead.io](https://egghead.io/courses/the-beginner-s-guide-to-react) 2021
-[React Crash Course for Beginners 2021 - Learn ReactJS from Scratch in this 100% Free Tutorial! - YouTube](https://www.youtube.com/watch?v=Dorf8i6lCuk)
-[React Course - Beginner's Tutorial for React JavaScript Library [2022] - YouTube](https://www.youtube.com/watch?v=bMknfKXIFA8)
+[React Crash Course for Beginners 2021 - Learn ReactJS from Scratch in this 100% Free Tutorial! - YouTube](https://www.youtube.com/watch?v=Dorf8i6lCuk) 3:51:55
+[React Course - Beginner's Tutorial for React JavaScript Library [2022] - YouTube](https://www.youtube.com/watch?v=bMknfKXIFA8) 11:55:27
+[Learn React With This One Project - YouTube](https://www.youtube.com/watch?v=Rh3tobg7hEo) 2023-04, 42:37
 [React Tutorial: Learn React JS - Free 11-Hour Course](https://scrimba.com/learn/learnreact)
 
 [React.js: The Documentary - YouTube](https://www.youtube.com/watch?v=8pDqJVdNa44&t=3255s)
@@ -811,6 +812,9 @@ const BookEntryList = (props) => {
 
 [Using React Hooks to sync your component state and the URL Query string](https://medium.com/swlh/using-react-hooks-to-sync-your-component-state-with-the-url-query-string-81ccdfcb174f)
 
+[Infinite Scroll](https://infinite-scroll.com/)
+[metafizzy/infinite-scroll: 📜 Automatically add next page](https://github.com/metafizzy/infinite-scroll)
+
 [Build an Infinite Scroll Component in React using React Hooks - Upmostly](https://upmostly.com/tutorials/build-an-infinite-scroll-component-in-react-using-react-hooks/)
 [How To Create a Custom useInfiniteScroll() With React Hooks](https://medium.com/better-programming/how-to-create-a-custom-useinfinitescroll-with-react-hooks-248f4531384c)
 
@@ -1284,18 +1288,33 @@ const Conditional = (props) => {
 ### Headless UI
 
 [You Don’t Need A UI Framework — Smashing Magazine](https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/)
+[Unstyled Component Libraries Are A Game Changer - YouTube](https://www.youtube.com/watch?v=yn6vFCRkC3c)
 
-[Reach UI](https://reach.tech/)
+[Reach UI](https://reach.tech/) component-based
+[reach/reach-ui: The Accessible Foundation for React Apps and Design Systems](https://github.com/reach/reach-ui)
+
+[React Aria](https://react-spectrum.adobe.com/react-aria/) by Adobe, hook-based, component in alpha
+[adobe/react-spectrum: A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.](https://github.com/adobe/react-spectrum)
 
 [DCXLibrary / introduction - Page ⋅ Storybook](https://6069a6f47f4b9f002171f8e1-ihpxseoaag.chromatic.com/?path=/story/dcxlibrary-introduction--page)
 [Introducing the DCX React Library](https://capgemini.github.io/development/dcx-react-library/)
 
-[Primitives – Radix UI](https://www.radix-ui.com/) more active than Headless UI
+[Primitives – Radix UI](https://www.radix-ui.com/) more active than Headless UI, component-based
 [radix-ui/primitives: Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.](https://github.com/radix-ui/primitives)
 
-[ – Unstyled, fully accessible UI components](https://headlessui.dev/) from Tailwind Labs, a11y
+[Headless UI - Unstyled, fully accessible UI components](https://headlessui.com/) from Tailwind Labs, a11y, component-based
 [tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.](https://github.com/tailwindlabs/headlessui/)
 [@headlessui/react Menu Example - CodeSandbox](https://codesandbox.io/s/headlessuireact-menu-example-b6xje?file=/src/App.js)
+
+[Base Web - Base Web React UI framework](https://baseweb.design/) component/hook-based
+[uber/baseweb: A React Component library implementing the Base design language](https://github.com/uber/baseweb)
+
+Downshift, select, hook-based
+[paypal/downshift: 🏎 Primitive to build simple, flexible, WAI-ARIA compliant enhanced input React components](https://github.com/paypal/downshift)
+[Downshift - Storybook](http://downshift.netlify.com/?selectedKind=Examples&selectedStory=basic&full=0&addons=1&stories=1&panelRight=0)
+[kentcdodds/downshift-examples: Created with CodeSandbox](https://github.com/kentcdodds/downshift-examples)
+[react-widgets DropdownList](http://jquense.github.io/react-widgets/api/DropdownList/)
+[5 Most Common Dropdown Use Cases Solved with React Downshift ― Scotch](https://scotch.io/tutorials/5-most-common-dropdown-use-cases-solved-with-react-downshift)
 
 [TanStack | High Quality Open-Source Software for Web Developers](https://tanstack.com/)
 [TanStack/ranger: ⚛️ Hooks for building range and multi-range sliders in React](https://github.com/TanStack/ranger)
@@ -1318,8 +1337,6 @@ const Conditional = (props) => {
 [jquense/react-widgets: An à la carte set of polished, extensible, and accessible inputs built for React](https://github.com/jquense/react-widgets)
 
 [JedWatson-react-hammerjs · GitHub](https://github.com/JedWatson/react-hammerjs)
-
-[React Joyride Demo](https://react-joyride.com/)
 
 [Lapple-react-transitive-number · GitHub](https://github.com/Lapple/react-transitive-number)
 [React Color](http://casesandberg.github.io/react-color/)
@@ -1368,8 +1385,10 @@ modal:
 [Modal | restart/ui](https://react-restart.github.io/ui/Modal)
 
 tooltip:
-[wwayne/react-tooltip: react tooltip component](https://github.com/wwayne/react-tooltip)
-[https://react-bootstrap.github.io/react-overlays/api/Overlay](https://react-bootstrap.github.io/react-overlays/api/Overlay)
+[Floating UI - Create tooltips, popovers, dropdowns, and more](https://floating-ui.com/)
+[Welcome | React Tooltip](https://react-tooltip.com/)
+[ReactTooltip/react-tooltip: React Tooltip Component](https://github.com/ReactTooltip/react-tooltip)
+[https://react-bootstrap.github.io/react-overlays/](https://react-bootstrap.github.io/react-overlays/)
 
 image loader:
 [glslio/diaporama-react](https://github.com/glslio/diaporama-react) [gre/diaporama](https://github.com/gre/diaporama) [Diaporama: Examples](http://greweb.me/diaporama/) image/video/content slideshow engine
@@ -1498,13 +1517,6 @@ Table/Date Grid:
 [CanopyTax/cpr-select](https://github.com/CanopyTax/cpr-select)
 [CanopyTax/cpr-multiselect](https://github.com/CanopyTax/cpr-multiselect)
 [react-widgets Multiselect](http://jquense.github.io/react-widgets/api/Multiselect/)
-
-Downshift:
-[paypal/downshift: 🏎 Primitive to build simple, flexible, WAI-ARIA compliant enhanced input React components](https://github.com/paypal/downshift) headless component
-[Downshift - Storybook](http://downshift.netlify.com/?selectedKind=Examples&selectedStory=basic&full=0&addons=1&stories=1&panelRight=0)
-[kentcdodds/downshift-examples: Created with CodeSandbox](https://github.com/kentcdodds/downshift-examples)
-[react-widgets DropdownList](http://jquense.github.io/react-widgets/api/DropdownList/)
-[5 Most Common Dropdown Use Cases Solved with React Downshift ― Scotch](https://scotch.io/tutorials/5-most-common-dropdown-use-cases-solved-with-react-downshift)
 
 [moroshko/react-autosuggest: WAI-ARIA compliant React autosuggest component](https://github.com/moroshko/react-autosuggest)
 

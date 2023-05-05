@@ -722,7 +722,6 @@ Sensu is built on Nagios
 
 [Sensu slides](http://slides.sensuapp.org/)
 [Sensu - What I've Learnt – roobert](http://roobert.github.io/2015/11/09/Sensu-What/)
-[reveal.js - The HTML Presentation Framework](https://www.dust.cx/monitoring/#/33)
 [SF DevOps Meetup: Kyle Anderson, Sensu @ Yelp Part 1 on Vimeo](https://vimeo.com/92770954)
 [SF DevOps Meetup: Kyle Anderson, Sensu @ Yelp Part 2 on Vimeo](https://vimeo.com/92838680)
 

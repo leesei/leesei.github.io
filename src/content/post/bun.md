@@ -19,6 +19,7 @@ tags:
 [Bun - fast JavaScript & CSS bundler](https://bun.sh/)
 [oven-sh/bun: Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.](https://github.com/oven-sh/bun)
 
+[NextJS Was Too Slow...So He Made Bun??! Jarred Sumner & The Story Of Bun - YouTube](https://www.youtube.com/watch?v=rL4qpniIR7o) Theo's interview
 [Getting started with Bun and React - LogRocket Blog](https://blog.logrocket.com/getting-started-bun-react/)
 [Let's create a next.js app with bun - DEV Community](https://dev.to/ashirbadgudu/lets-create-a-nextjs-app-with-bun-48l6)
 

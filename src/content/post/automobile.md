@@ -189,8 +189,8 @@ Toyota owns brands such as Hino, Lexus, Ranz, and Daihatsu.
 ## CAN bus
 
 [CAN bus - Wikiwand](https://www.wikiwand.com/en/CAN_bus)
-[CAN Bus Explained - A Simple Intro (2018)](https://www.csselectronics.com/screen/page/simple-intro-to-can-bus/language/en)
+[CAN Bus Explained - A Simple Intro [2023] – CSS Electronics](https://www.csselectronics.com/pages/can-bus-simple-intro-tutorial)
+[CAN Bus Protocol: The Ultimate Guide (2023)](https://www.autopi.io/blog/can-bus-explained/)
 [The CAN Bus Protocol - Kvaser](https://www.kvaser.com/about-can/the-can-protocol/)
-[Tech Spotlight: The CoAP Protocol | element14 | Tech Connection](https://www.element14.com/community/docs/DOC-90554/l/tech-spotlight-the-coap-protoco) disable JavaScript
-
-[CAN Bus Explained (2021) | AutoPi](https://www.autopi.io/blog/can-bus-explained/)
+[Introduction to CAN (Controller Area Network) - Technical Articles](https://www.allaboutcircuits.com/technical-articles/introduction-to-can-controller-area-network/)
+[What is the CoAP Communication Protocol? - Documents - Tech Connection - element14 Community](https://community.element14.com/learn/learning-center/the-tech-connection/w/documents/3831/what-is-the-coap-communication-protocol)

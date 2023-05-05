@@ -70,6 +70,10 @@ tags:
 
 [KeePassXC Password Manager](https://keepassxc.org/) free, open source, EFF endorsed, clunky interface
 
+[Passbolt | The open source password manager for teams](https://www.passbolt.com/) self-host, not recommended
+[Passbolt - Why I Can't Recommend This Password Manager - YouTube](https://www.youtube.com/watch?v=V1GXq1FURxM)
+[Secure Your Digital Life: A Guide to Setting Up Passbolt Open Source Password Manager - YouTube](https://www.youtube.com/watch?v=Wy2s73ofwDA)
+
 [1Password](https://agilebits.com/onepassword) trial and free mobile
 [The Beginner's Guide to 1Password](http://lifehacker.com/the-beginners-guide-to-1password-1794464866)
 

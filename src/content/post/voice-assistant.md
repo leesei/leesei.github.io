@@ -2,8 +2,12 @@
 title: Voice Assistant
 description: ""
 created: 2018-06-18
-tags: []
+tags:
+  - tts
+  - web
 ---
+
+[[mycroft]]
 
 [Google Assistant vs Siri vs Bixby vs Amazon Alexa vs Cortana - Best virtual assistant showdown! - Android Authority](https://www.androidauthority.com/google-assistant-vs-siri-vs-bixby-vs-amazon-alexa-vs-cortana-best-virtual-assistant-showdown-796205/)
 

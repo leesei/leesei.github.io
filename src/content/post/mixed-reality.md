@@ -334,7 +334,7 @@ Outside-in position detection
 
 ## Google Cardbard/Daydream
 
-![](./_assets/mixed-reality/google-vr.jpg)
+![](/_assets/mixed-reality/google-vr.jpg)
 
 [【亦】白菜价 VR！自制低成本 VR 方案，竟然很靠谱？ - YouTube](https://www.youtube.com/watch?v=EEoJGdNZhfo) in 2021
 

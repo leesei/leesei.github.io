@@ -242,6 +242,8 @@ improvements in 1.3, but not for prime time yet
 [Creating a RESTful Web Service with Spring Boot - Kotlin Programming Language](https://kotlinlang.org/docs/tutorials/spring-boot-restful.html)
 [Going Reactive with Spring, Coroutines and Kotlin Flow](https://spring.io/blog/2019/04/12/going-reactive-with-spring-coroutines-and-kotlin-flow)
 
+[Kotlin Spring Boot Series - YouTube](https://www.youtube.com/playlist?list=PLjuEK3Ez60n2dTFL7-KETl1yl04kOo-rM) Habibi Coding
+
 [Ktor - asynchronous Web framework for Kotlin](https://ktor.io/)
 [Ktor for fast server prototyping. Ktor is framework for creating server… | by Jarosław Michalik | Kt. Academy](https://blog.kotlin-academy.com/ktor-for-fast-server-prototyping-6e7c6d2ec296?gi=5b6b1ced336e)
 

@@ -45,6 +45,8 @@ Analytical Engine
 
 [I Am The Computer Now - YouTube](https://www.youtube.com/watch?v=axtQvkSpoto) analogue calculator
 
+[The Mechanical Integrator - a machine that does calculus - YouTube](https://www.youtube.com/watch?v=s-y_lnzWQjk)
+
 [Analog Computer Museum - Introduction to Analog Computing](http://www.analogmuseum.org/english/introduction/)
 [The Most Powerful Computers You've Never Heard Of - YouTube](https://www.youtube.com/watch?v=IgF3OX8nT0w)
 [The World's First True Computer Still Hasn't Been Built - YouTube](https://www.youtube.com/watch?v=rXdvKm6cri4)

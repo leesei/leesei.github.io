@@ -172,12 +172,13 @@ Persist Environment Variables
 param()
 ```
 
-## Crapware
+## Crapware/Debloating
 
 Beware of where you download from, especially don't use download.com.
 [Here’s What Happens When You Install the Top 10 Download.com Apps](http://www.howtogeek.com/198622/heres-what-happens-when-you-install-the-top-10-download.com-apps/)
 [Crapware Is a Horrible Problem and It's Our Fault](http://lifehacker.com/crapware-is-a-horrible-problem-and-its-all-our-fault-1705794628)
 
+[AtlasOS — Home](https://atlasos.net/)
 [DaddyMadu/Windows10GamingFocus: This is the Ultimate Windows 10 Debloat and Gaming Tweaks Optimization based on ChrisTitusTechScript which is based on multiple debloat scripts and gists from github.](https://github.com/DaddyMadu/Windows10GamingFocus) use this over `Windows10Debloater`
 [Sycnex/Windows10Debloater: Script to remove Windows 10 bloatware.](https://github.com/Sycnex/Windows10Debloater)
 
@@ -357,8 +358,9 @@ The `Antimalware Service Executable` is hogging CPU even after Windows Defender 
 
 [Process Monitor - Windows Sysinternals | Microsoft Docs](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
 
+[Fibratus](https://www.fibratus.io/#/)
 [rabbitstack/fibratus: Tool for exploration and tracing of the Windows kernel](https://github.com/rabbitstack/fibratus)
-[Fibratus Video Teaser – Rabbit Stack](<https://rabbitstack.github.io/operating> systems/fibratus-video-teaser/) run filter or Python filaments
+[Fibratus Video Teaser – Rabbit Stack](<https://rabbitstack.github.io/operating systems/fibratus-video-teaser/>) run filter or Python filaments
 [Fibratus Teaser - YouTube](https://www.youtube.com/watch?v=7Isrn-eb8Ws)
 
 ## Network

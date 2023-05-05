@@ -559,6 +559,11 @@ JWT = `header.claim.signature`
 [Authentication with Node.js, JWTs, and Oracle Database | JavaScript and Oracle](https://jsao.io/2015/06/authentication-with-node-js-jwts-and-oracle-database/)
 [Securing node.js RESTful services with JWT Tokens | Richard Astbury's Blog](http://coderead.wordpress.com/2012/08/16/securing-node-js-restful-services-with-jwt-tokens/)
 
+[Use JWT for role based authorization in Golang | Go - YouTube](https://www.youtube.com/watch?v=Sh3i2BUDr-g)
+[Casbin · An authorization library that supports access control models like ACL, RBAC, ABAC for Golang, Java, C/C++, Node.js, Javascript, PHP, Laravel, Python, .NET (C#), Delphi, Rust, Ruby, Swift (Objective-C), Lua (OpenResty), Dart (Flutter) and Elixir | Casbin](https://casbin.org/)
+[Basic Role-Based HTTP Authorization in Go with Casbin - zupzup](https://zupzup.org/casbin-http-role-auth/)
+[Casdoor · An Open Source UI-first Identity Access Management (IAM) / Single-Sign-On (SSO) platform supporting OAuth 2.0, OIDC, SAML and CAS | Casdoor · An Open Source UI-first Identity Access Management (IAM) / Single-Sign-On (SSO) platform supporting OAuth 2.0, OIDC, SAML and CAS](https://casdoor.org/)
+
 [JWT Authentication in React. How to Consume and Use JWT tokens | by Ivan Stoev | Mar, 2022 | Level Up Coding](https://levelup.gitconnected.com/jwt-authentication-in-react-a2b1b705b7a) access and refresh token on client
 
 ### In the Contrary

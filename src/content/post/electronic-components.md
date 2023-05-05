@@ -429,6 +429,8 @@ Fine: M-3
 
 ## Interfaces
 
+[[automobile#CAN bus]]
+
 [Introduction to Interfaces - YouTube](https://www.youtube.com/watch?v=nMZJwspSkAc)
 
 [General-purpose input/output - Wikiwand](https://www.wikiwand.com/en/General-purpose_input/output)
@@ -526,6 +528,8 @@ Make sure you user is in `plugdev` group (or `dialout` per [espressif doc](https
 [Electronic Basics #19: I2C and how to use it - YouTube](https://www.youtube.com/watch?v=_fgWQ3TIhyE)
 [How I2C Communication Works and How To Use It with Arduino - YouTube](https://www.youtube.com/watch?time_continue=215&v=6IAkYpmA1DQ)
 [I2C-bus by NXP Semiconductors - YouTube](https://www.youtube.com/playlist?list=PLB1BE22BA36431CFD)
+[4 分钟看懂！I2C 通讯协议 最简单的总线通讯！ - YouTube](https://www.youtube.com/watch?v=u62_Rjd5oMY)
+
 SCK: serial clock
 SDA: serial data
 pull up on both pins
@@ -564,6 +568,7 @@ Endian
 
 [Electronic Basics #36: SPI and how to use it - YouTube](https://www.youtube.com/watch?v=fvOAbDMzoks)
 [SPI: The serial peripheral interface - YouTube](https://www.youtube.com/watch?v=MCi7dCBhVpQ)
+[5 分钟看懂！SPi 通讯协议 非常简单的一种通讯。 - YouTube](https://www.youtube.com/watch?v=4zx0s9ZKYZY)
 
 ### I2S
 

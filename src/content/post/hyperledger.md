@@ -1,8 +1,10 @@
 ---
 title: Hyperledger
-description: ""
+description: Open Source Private Blockchain
 created: 2023-04-01
-tags: []
+tags:
+  - blockchain
+  - hyperledger
 ---
 
 [Hyperledger – Open Source Blockchain Technologies](https://www.hyperledger.org/)
@@ -53,6 +55,8 @@ Hyperledger Fabric v2.2 (2020-09) uses Raft for Orderer consensus and deprecated
 [hyperledger-labs/fablo: Fablo is a simple tool to generate the Hyperledger Fabric blockchain network and run it on Docker. It supports RAFT and solo consensus protocols, multiple organizations and channels, chaincode installation and upgrade.](https://github.com/hyperledger-labs/fablo)
 
 ## Multihost deployment
+
+[hyperledger-labs/fabric-operations-console: A UI for managing Fabric peers, orderers, and CAs](https://github.com/hyperledger-labs/fabric-operations-console)
 
 [Multi-Host Deployment for First Network (Hyperledger Fabric v2) | by KC Tam | Medium](https://kctheservant.medium.com/multi-host-deployment-for-first-network-hyperledger-fabric-v2-273b794ff3d) dev deployment on AWS
 

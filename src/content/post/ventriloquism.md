@@ -2,7 +2,9 @@
 title: Ventriloquism
 description: ""
 created: 2020-12-30
-tags: []
+tags:
+  - lol
+  - trivia
 ---
 
 [Ventriloquism - Wikiwand](https://www.wikiwand.com/en/Ventriloquism)

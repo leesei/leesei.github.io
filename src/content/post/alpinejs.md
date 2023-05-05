@@ -2,7 +2,12 @@
 title: Alpine.js
 description: ""
 created: 2023-04-01
-tags: []
+tags:
+  - alpinejs
+  - frontend
+  - javascript
+  - web
+  - web-dev
 ---
 
 # Alpine.js
