@@ -1,6 +1,6 @@
+import { LOCALE } from "@config";
 import React from "react";
 import { BiCalendar, BiCalendarEdit } from "react-icons/bi/index";
-
 export interface Props {
   datetime: string | Date;
   icon?: React.ReactElement;
@@ -35,13 +35,13 @@ export const Datetime = function ({
 const FormattedDate = ({ datetime }: { datetime: string | Date }) => {
   const myDatetime = new Date(datetime);
 
-  const date = myDatetime.toLocaleDateString([], {
+  const date = myDatetime.toLocaleDateString(LOCALE, {
     year: "numeric",
     month: "long",
     day: "numeric",
   });
 
-  // const time = myDatetime.toLocaleTimeString([], {
+  // const time = myDatetime.toLocaleTimeString(LOCALE, {
   //   hour: "2-digit",
   //   minute: "2-digit",
   // });

@@ -139,6 +139,9 @@
   .prose nav.toc {
     @apply rounded-lg border-4 border-dashed px-0.5;
   }
+  .prose nav.toc:has(ol:empty) {
+    @apply hidden;
+  }
   .prose nav.toc ol.toc-level-1 {
     list-style-type: "\25FC  ";
   }
