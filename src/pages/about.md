@@ -16,12 +16,13 @@ title: "Behind the Curtain"
 
 ## Posts Migration
 
+My posts' frontmatter was defined by Hexo.
 I've long wanter to batch process the frontmatter of my posts.
 
 - ditch categories and used tags and nested tags (`web/dev`, `typescript/runtime`).
 - removed the time for posts' `date`
 - rename `date` to `created` and `updated`
-- fix null entry in tags (`[]` is used for empty tags)
+- fix null entry in tags (`[]` will be used for empty tags)
 - sort tags
 - remove `toc` as it will be on by default
 - output fits Astro's content schema
@@ -73,7 +74,7 @@ As mentioned in the README, I tried [selimrbd/py-obsidianmd](https://github.com/
 I then moved to JavaScript ecosystem and wrote TypeScript right away with [Bun](https://bun.sh/).
 I tried [unified](https://unifiedjs.com/explore/package/unified/) but the parsing or stringify changes the post content and it is disqualified.
 Then I tried the low level [vfile](https://unifiedjs.com/explore/package/vfile/) and [vfile-matter](https://unifiedjs.com/explore/package/vfile-matter/), they don't have API for writing file so I skipped them.
-[jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) fits my purpose in first glance, but it has a full load of issues.
+[jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) fits my purpose at first glance, but it has a full load of other issues.
 Finally I moved back to [vfile](https://unifiedjs.com/explore/package/vfile/) and used [yaml](https://eemeli.org/yaml/) for file output.
 
 ## Customizing AstroPaper
@@ -144,36 +145,39 @@ I gradually added these features:
 
 ### Astro
 
-- [ ] TOC on right hand side  
-       tracks location  
-       `file.data.astro.frontmatter` in plugin  
-       `Astro.props.frontmatter` in layout  
-       https://docs.astro.build/en/guides/markdown-content/#modifying-frontmatter-programmatically  
-       https://github.com/withastro/docs
-- [ ] MDX support?  
-       https://github.com/mdx-js/mdx/tree/main/packages/remark-mdx
+- [ ] TOC on right hand side
+      and tracks location, (like [Docusaurus](https://docusaurus.io/docs/installation))
+      `file.data.astro.frontmatter` in plugin
+      `Astro.props.frontmatter` in layout
+      https://docs.astro.build/en/guides/markdown-content/#modifying-frontmatter-programmatically
+      https://github.com/withastro/docs
+- [ ] MDX support?
+      https://github.com/mdx-js/mdx/tree/main/packages/remark-mdx
 - [ ] link to edit post in github
 - [ ] github issue as comments/discussion
 - [ ] add search to `/tags` Page
-- [ ] directives/admonition/callout? (alert, warn, info)  
-       https://stackoverflow.com/questions/50544499/how-to-make-a-styled-markdown-admonition-box-in-a-github-gist use emoji  
-       https://help.obsidian.md/Editing+and+formatting/Callouts
+- [ ] directives/admonition/callout? (alert, warn, info)
+      [How to make a styled Markdown admonition box in a GitHub Gist? - Stack Overflow](https://stackoverflow.com/questions/50544499/how-to-make-a-styled-markdown-admonition-box-in-a-github-gist) just use emoji?
+      [Admonitions | Docusaurus](https://docusaurus.io/docs/markdown-features/admonitions)
+      [Callouts - Obsidian Help](https://help.obsidian.md/Editing+and+formatting/Callouts)
 - [ ] github emoji
-- [ ] embed Foam's graph view (Obsidian)
+- [ ] embed Foam's graph view (like Obsidian)
 - [ ] overlay button to copy from codeblocks?
 - [ ] add languages for codeblocks
 
 ```txt
+The language "abc" doesn't exist, falling back to plaintext.
 The language "autohotkey" doesn't exist, falling back to plaintext.
-The language "dockerfile" doesn't exist, falling back to plaintext.
+The language "conf" doesn't exist, falling back to plaintext.
 The language "katex" doesn't exist, falling back to plaintext.
 The language "logstash" doesn't exist, falling back to plaintext.
-The language "reg" doesn't exist, falling back to plaintext.
+The language "txt" doesn't exist, falling back to plaintext.
+The language "cucumber" doesn't exist, falling back to plaintext.
 ```
 
 ### Foam
 
-- [ ] save Workspace panel layout in VS Code
+- [ ] save Workspace panel layout in VS Code (use Profile?)
 - [ ] suggest tag in frontmatter
 - [ ] search in tag panel
 - [ ] re-org tags

@@ -1,6 +1,6 @@
 import { LOCALE } from "@config";
 import React from "react";
-import { BiCalendar, BiCalendarEdit } from "react-icons/bi/index";
+import { BiCalendar, BiEdit } from "react-icons/bi/index";
 export interface Props {
   datetime: string | Date;
   icon?: React.ReactElement;
@@ -54,5 +54,5 @@ export const CreatedDatetime = ({ icon, ...rest }: Props) => (
 );
 
 export const UpdatedDatetime = ({ icon, ...rest }: Props) => (
-  <Datetime icon={<BiCalendarEdit />} {...rest} />
+  <Datetime icon={<BiEdit />} {...rest} />
 );
