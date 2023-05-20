@@ -11,8 +11,6 @@ tags:
   - settings
 ---
 
-# Node.js Settings
-
 ## Using `nvm`
 
 [creationix/nvm: Node Version Manager - Simple bash script to manage multiple active node.js versions](https://github.com/creationix/nvm)
@@ -334,26 +332,26 @@ I need an option parser that auto generates the help page.
 
 [lukeed/sade: Smooth (CLI) Operator 🎶](https://github.com/lukeed/sade) built on mri
 
-[tj/commander.js: node.js command-line interfaces made easy](https://github.com/tj/commander.js) quirky (might have improved in 2022):
+[tj/commander.js: node.js command-line interfaces made easy](https://github.com/tj/commander.js) quirky (might have improved since then):
 
 - [Can't use default together with coercion (example from front-page broken) · Issue #400 · tj/commander.js](https://github.com/tj/commander.js/issues/400)
 - [Global Options · Issue #476 · tj/commander.js](https://github.com/tj/commander.js/issues/476)
-
-[75lb/command-line-args: A mature, feature-complete library to parse command-line options.](https://github.com/75lb/command-line-args)
 
 [nodeca/argparse: CLI arguments parser for node.js. JS port of python's argparse module.](https://github.com/nodeca/argparse)
 [sindresorhus/meow: CLI app helper](https://github.com/sindresorhus/meow)
 [hapijs/bossy: Command line options parser](https://github.com/hapijs/bossy)
 [leo/args: Minimal toolkit for building CLIs](https://github.com/leo/args) inactive, built on mri
 [lukeed/mri: Quickly scan for CLI flags and arguments](https://github.com/lukeed/mri) inactive
+[75lb/command-line-args: A mature, feature-complete library to parse command-line options.](https://github.com/75lb/command-line-args) inactive
 
-[yargs/yargs: yargs the modern, pirate-themed successor to optimist.](https://github.com/yargs/yargs) [Docs](http://yargs.js.org/docs/index.html) [Yargs cheatsheet](http://ricostacruz.com/cheatsheets/yargs.html)
+[yargs/yargs: yargs the modern, pirate-themed successor to optimist.](https://github.com/yargs/yargs) [Docs](http://yargs.js.org/docs/index.html)
+[Yargs cheatsheet](http://ricostacruz.com/cheatsheets/yargs.html)
 I found yargs option are too complicated
 
-[scottcorgan/nash: Craft command-line masterpieces in Node.js](https://github.com/scottcorgan/nash) (inactive)
-[minimistjs/minimist: parse argument options](https://github.com/minimistjs/minimist) (naive, no help page)
-[harthur-nomnom](https://github.com/harthur/nomnom) (DEPRECATED)
-[substack-node-optimist](https://github.com/substack/node-optimist) (DEPRECATED, succeeded by yargs)
+[scottcorgan/nash: Craft command-line masterpieces in Node.js](https://github.com/scottcorgan/nash) inactive
+[minimistjs/minimist: parse argument options](https://github.com/minimistjs/minimist) naive, no help page
+[harthur-nomnom](https://github.com/harthur/nomnom) DEPRECATED
+[substack-node-optimist](https://github.com/substack/node-optimist) DEPRECATED, succeeded by yargs
 
 #### CLI wrapper
 
@@ -623,6 +621,7 @@ All JS code are serialized as string and lazy loaded
 [Qwik… the world's first O(1) JavaScript framework? - YouTube](https://www.youtube.com/watch?v=x2eF3YLiNhY)
 [Build Resumable Apps with Qwik - YouTube](https://www.youtube.com/watch?v=_PDpoJUacuc)
 [Unveiling Qwik 1.0: What You Need to Know! - YouTube](https://www.youtube.com/watch?v%3DNjKOAbWqOM4)
+[Things are getting serious! - YouTube](https://www.youtube.com/watch?v=zXx_FHQuWt0)
 
 [Qwik Series' Articles - DEV Community](https://dev.to/mhevery/series/13467)
 [Resumable JavaScript with Qwik - DEV Community](https://dev.to/this-is-learning/resumable-javascript-with-qwik-2i29)

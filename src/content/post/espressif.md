@@ -1,5 +1,5 @@
 ---
-title: Espressif
+title: Espressif (ESP)
 description: ""
 created: 2018-10-20
 tags:
@@ -10,8 +10,6 @@ tags:
   - iot
   - maker
 ---
-
-# Espressif (ESP)
 
 [EverythingESP – Welcome to the New World of ESP](https://everythingesp.com/)
 [ESP32 vs ESP8266 - Pros and Cons - Maker Advisor](https://makeradvisor.com/esp32-vs-esp8266/)
@@ -40,7 +38,8 @@ Board bringup
 [espressif/ESP8266_RTOS_SDK: Latest ESP8266 SDK based on FreeRTOS, esp-idf style.](https://github.com/espressif/ESP8266_RTOS_SDK)
 [plerup/makeEspArduino: A makefile for ESP8266 and ESP32 Arduino projects](https://github.com/plerup/makeEspArduino)
 [Backup & Restore an ESP8266](https://steve.fi/Hardware/backup-and-restore/)
-[A Beta Release for ESP Bluetooth Mesh – Hackster Blog](https://blog.hackster.io/a-beta-release-for-esp-bluetooth-mesh-6eb8998334e6)
+[ESP-BLE-MESH - ESP32 - — ESP-IDF Programming Guide latest documentation](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-guides/esp-ble-mesh/ble-mesh-index.html)
+[esp-idf/BLE_Mesh_Node_OnOff_Server_Example_Walkthrough.md at master · espressif/esp-idf · GitHub](https://github.com/espressif/esp-idf/blob/master/examples/bluetooth/esp_ble_mesh/ble_mesh_node/onoff_server/tutorial/BLE_Mesh_Node_OnOff_Server_Example_Walkthrough.md)
 [skittleson/ESP-TypeScript: Transpile TypeScript to Espruino flavor of JavaScript for ESP8266/ESP32 microcontrollers template project. Writing safe, maintainable, and testable code is the projects goal.](https://github.com/skittleson/ESP-TypeScript)
 
 [ESPlorer – esp8266](https://esp8266.ru/esplorer/)

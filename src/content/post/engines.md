@@ -36,6 +36,7 @@ reciprocating steam engine evolved to steam turbine
 [The Delightful History of Steam Technology | Stuff You Should Know](http://www.stuffyoushouldknow.com/podcasts/the-delightful-history-of-steam-technology.htm)
 [How Steam Technology Works | HowStuffWorks](http://science.howstuffworks.com/steam-technology.htm/printable)
 [How do Steam Engines Work? - YouTube](https://www.youtube.com/watch?v=xnClSss50pI)
+[The Steam Turbine: The Surprising Relationship of Engineering & Science - YouTube](https://www.youtube.com/watch?v=-8lXXg8dWHk)
 
 ## Stirling Engine
 
@@ -351,6 +352,7 @@ first multistage rocket, detach booster in Korolev cross fashion (still used in 
 [So, it turns out SpaceX is pretty good at rocketing | Ars Technica](https://arstechnica.com/science/2020/12/starship-rises-high-performs-a-flawless-flip-but-doesnt-quite-stick-the-landing/)
 [Rocket Report: Raptor engine sets record, Northrop may say “Aloha!” to Omega | Ars Technica](https://arstechnica.com/science/2020/08/rocket-report-raptor-engine-sets-record-northrop-may-say-aloha-to-omega/)
 [SpaceX “猛禽”（Raptor engine）全流量循环发动机，浅谈火箭发动机（rocket engine）的循环方式 - YouTube](https://www.youtube.com/watch?v=ZmOZFAhEGwk)
+[地表最强火箭发动机？SpaceX 猛禽（Raptor）系列技术解读！ - YouTube](https://www.youtube.com/watch?v=uzI942BgBjM)
 [有苏联失败的前车之鉴，星舰上满屁股的发动机，能稳定工作吗？【科学火箭叔】 - YouTube](https://www.youtube.com/watch?v=Cf_oVzYupSA)
 [【并非好奇】解密 SpaceX 猛禽火箭發動機工作原理 爲什麽它先進的超出你的想象 - YouTube](https://www.youtube.com/watch?v=7NPEATB8oLA)
 

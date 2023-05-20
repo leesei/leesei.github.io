@@ -117,6 +117,10 @@ ATmega32U4, 53.4x68.6mm, built-in USB support, can act as HID
 
 ### ATtiny85
 
+Digispark/ATTiny86
+
+[Why a Digispark should not be your first Arduino. - YouTube](https://www.youtube.com/watch?v=Gg2nM0OdUtQ)
+
 [ATtiny85 - 8-bit AVR Microcontrollers - Microcontrollers and Processors](https://www.microchip.com/wwwproducts/en/ATtiny85)
 
 [High-Low Tech – Programming an ATtiny w/ Arduino 1.6 (or 1.0)](http://highlowtech.org/?p=1695)

@@ -101,7 +101,14 @@ tags:
 
 ### Migration
 
-[How to Migrate WordPress Sites: A Comprehensive Guide](https://www.hostinger.com/tutorials/how-to-migrate-wordpress)
+[How to Migrate a WordPress Site and WordPress Migration Plugins](https://www.hostinger.com/tutorials/how-to-migrate-wordpress)
+
+[7 Best WordPress Backup Plugins Compared (Pros and Cons)](https://www.wpbeginner.com/plugins/7-best-wordpress-backup-plugins-compared-pros-and-cons/)
+
+[Support : Migrate Guru](https://migrateguru.freshdesk.com/support/home)
+[Migrate Guru: Migrate & Clone WordPress Free – WordPress plugin | WordPress.org](https://wordpress.org/plugins/migrate-guru/)
+
+[All-in-One WP Migration – WordPress plugin | WordPress.org](https://wordpress.org/plugins/all-in-one-wp-migration/) export to cloud is behind pay wall
 
 ### Installing with Existing Website
 

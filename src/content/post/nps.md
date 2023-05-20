@@ -1,5 +1,5 @@
 ---
-title: NPS
+title: Net Promoter Score
 description: ""
 created: 2016-03-19
 tags:

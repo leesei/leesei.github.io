@@ -7,8 +7,6 @@ tags:
   - maker
 ---
 
-# Electronics Fundamentals
-
 [Keysight University](https://learn.keysight.com/)
 [STEMTera™ Breadboard Beginner's Guide](https://learn.stemtera.com/en/begin/onepage) !important
 [PyroElectro News, Projects & Tutorials](http://www.pyroelectro.com/)
@@ -197,7 +195,9 @@ so capacitors are often used in pairs:
 [Capacitors Explained - The basics how capacitors work working principle - YouTube](https://www.youtube.com/watch?v=X4EUwTwZ110)
 [Why electrolytic capacitors are actually kinda shitty 💩 - YouTube](https://www.youtube.com/watch?v=WytU5uj78-4)
 
-### Static
+[Decoupling Capacitors - And why they are important - YouTube](https://www.youtube.com/watch?v=u40kX1DYKdA) filter out noises
+
+## Static Electricity
 
 [The science of static electricity - Anuradha Bhagwat - YouTube](https://www.youtube.com/watch?v=yc2-363MIQs)
 [静电什么原理？为什么冬天静电比较多？教你防静电小妙招 - YouTube](https://www.youtube.com/watch?v=WD4JajChHNc)

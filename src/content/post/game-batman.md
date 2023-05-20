@@ -7,8 +7,6 @@ tags:
   - games
 ---
 
-# Batman Games
-
 [Batman: Arkham - Wikiwand](https://www.wikiwand.com/en/Batman:_Arkham)
 [Batman: Arkham Series | Arkham Wiki | Fandom](https://arkhamcity.fandom.com/wiki/Batman:_Arkham_Series)
 

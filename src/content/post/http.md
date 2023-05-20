@@ -75,6 +75,8 @@ TCP fast open, put TLS data in syn ack response, but most firewall don't support
 
 ## HTTP/3 (QUIC)
 
+[HTTP/1 vs HTTP/2 vs HTTP/3 - DEV Community](https://dev.to/accreditly/http1-vs-http2-vs-http3-2k1c)
+
 HTTP/2 is coupled to TCP features, HTTP/3 reimplemented HTTP/2 features on top of QUIC, a UDP-based protocol
 
 QUIC itself reimplements most TCP features on top of UDP, and deeply integrates TLS
@@ -106,3 +108,43 @@ Server Push is deprecated, use 103 Early Hints instead.
 
 [Understanding and implementing rate limiting in Node.js - LogRocket Blog](https://blog.logrocket.com/rate-limiting-node-js/)
 [Ratelimiting Your APIs With Redis (The Theo-Proof Way) - YouTube](https://www.youtube.com/watch?v=yfGCmSjGIxk)
+
+## File Upload
+
+[The complete guide to implementing file uploading — Uploadcare Blog](https://uploadcare.com/blog/the-file-uploading-guide/)
+
+### XHR
+
+[Uploading multiple files at once with Ajax and XHR2 · Raymond Camden](https://www.raymondcamden.com/2016/05/05/uploading-multiple-files-at-once-with-ajax-and-xhr2/)
+
+### Resumable HTTP Upload
+
+[Uppy](https://uppy.io/) JavaScript file uploader
+[Home | React-Uploady](https://react-uploady.org/)
+
+[tus - resumable file uploads](https://tus.io/) protocol
+[Towards tus 2.0 | tus](https://tus.io/blog/2022/02/24/tus-v2.html)
+
+[Resumable upload protocol 1.0.x | tus](https://tus.io/protocols/resumable-upload.html)
+[tus 1.0 openapi3.yaml](https://raw.githubusercontent.com/tus/tus-resumable-upload-protocol/main/OpenAPI/openapi3.yaml)
+
+[Implementations | tus](https://tus.io/implementations.html)
+[tus/tusd: Reference server implementation in Go of tus: the open protocol for resumable file uploads](https://github.com/tus/tusd)
+[tusdotnet/tusdotnet: .NET server implementation of the Tus protocol for resumable file uploads. Read more at https://tus.io](https://github.com/tusdotnet/tusdotnet)
+[edihasaj/tuspy-fast-api](https://github.com/edihasaj/tuspy-fast-api)
+[Pricing & Signup | Transloadit](https://transloadit.com/pricing/) Uppy author, storage service implementing tus
+
+[uploadthing](https://uploadthing.com/) [design](https://raw.githubusercontent.com/pingdotgg/uploadthing/main/assets/Diagram.png)
+[pingdotgg/uploadthing: File uploads for modern web devs](https://github.com/pingdotgg/uploadthing)
+
+[Performing a Resumable Upload | Drive REST API | Google Developers](https://developers.google.com/drive/api/v3/resumable-upload)
+
+[Amazon S3: Multipart Upload | AWS News Blog](https://aws.amazon.com/blogs/aws/amazon-s3-multipart-upload/)
+[Amazon S3 Multipart Upload CLI](https://aws.amazon.com/premiumsupport/knowledge-center/s3-multipart-upload-cli/)
+[Using the REST API for Multipart Upload - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingRESTAPImpUpload.html)
+[S3 Lifecycle Management Update – Support for Multipart Uploads and Delete Markers | AWS News Blog](https://aws.amazon.com/blogs/aws/s3-lifecycle-management-update-support-for-multipart-uploads-and-delete-markers/)
+[Uploading a Large File to Amazon S3](https://www.jtouzi.net/uploading-a-large-file-to-amazon-web-services-s3/)
+[Signing Multipart Uploads to S3 Buckets from Scratch](https://medium.com/workday-engineering/signing-multipart-uploads-to-s3-buckets-from-scratch-9df181885b2)
+[Security and S3 Multipart Upload | Mingle](https://www.thoughtworks.com/mingle/infrastructure/2015/06/15/security-and-s3-multipart-upload.html)
+
+[Supabase Storage v3: Resumable Uploads with support for 50GB files](https://supabase.com/blog/storage-v3-resumable-uploads)

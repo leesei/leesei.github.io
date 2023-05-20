@@ -196,13 +196,11 @@ echo $(id -un):100000:65536 >> /etc/subgid
 
 [containers/skopeo: Work with remote images registries - retrieving information, images, signing content](https://github.com/containers/skopeo)
 
-### Nixpacks
+### Kuasar
 
-> next gen buildpack
-
-[Introduction | Nixpacks](https://nixpacks.com/docs) App source + Nix packages + Docker = Image
-[railwayapp/nixpacks: App source + Nix packages + Docker = Image](https://github.com/railwayapp/nixpacks)
-[nixpacks/examples at main · railwayapp/nixpacks](https://github.com/railwayapp/nixpacks/tree/main/examples)
+[Kuasar](https://kuasar.io/)
+[kuasar-io/kuasar: An efficient container runtime that provides cloud-native, all-scenario multiple sandbox container solutions.](https://github.com/kuasar-io/kuasar)
+[Huawei Open Sources Kuasar, a Rust-Based Container Runtime](https://www.infoq.com/news/2023/05/kuasar/)
 
 ### PouchContainer
 
@@ -452,8 +450,23 @@ Compared to the Docker Engine, containerd exposes essentially a CRUD interface a
 [Turn Your Code into Docker Images with Cloud Native Buildpacks | Heroku](https://blog.heroku.com/docker-images-with-buildpacks)
 [Goodbye Dockerfiles: Build Secure & Optimised Node.js Container Images with Cloud Native Buildpacks - DEV Community](https://dev.to/pmbanugo/goodbye-dockerfiles-build-secure-optimised-nodejs-container-images-with-cloud-native-buildpacks-489p)
 
-[Cloud Native Buildpacks](https://github.com/buildpack)
-[buildpack/samples: Samples for buildpack creators](https://github.com/buildpack/samples)
+[Cloud Native Buildpacks](https://github.com/buildpacks)
+[buildpacks/samples: Samples for Cloud Native Buildpacks](https://github.com/buildpacks/samples)
+
+## Paketo Buildpacks
+
+[Paketo Buildpacks - Paketo Buildpacks](https://paketo.io/)
+
+[Paketo Buildpacks](https://github.com/paketo-buildpacks)
+[paketo-buildpacks/samples: A collection of samples](https://github.com/paketo-buildpacks/samples)
+
+## Nixpacks
+
+> next gen buildpack
+
+[Introduction | Nixpacks](https://nixpacks.com/docs) App source + Nix packages + Docker = Image
+[railwayapp/nixpacks: App source + Nix packages + Docker = Image](https://github.com/railwayapp/nixpacks)
+[nixpacks/examples at main · railwayapp/nixpacks](https://github.com/railwayapp/nixpacks/tree/main/examples)
 
 ## OAM
 
@@ -465,7 +478,7 @@ Compared to the Docker Engine, containerd exposes essentially a CRUD interface a
 
 [Announcing the Open Application Model (OAM), an open standard for developing and operating applications on Kubernetes and other platforms - Open Source Blog](https://cloudblogs.microsoft.com/opensource/2019/10/16/announcing-open-application-model/)
 
-[oam-dev/rudr: A Kubernetes implementation of the Open Application Model specification](https://github.com/oam-dev/rudr/) deprecated
+[oam-dev/rudr: A Kubernetes implementation of the Open Application Model specification](https://github.com/oam-dev/rudr/) DEPRECATED
 [Tutorial: Deploy Microservices on Kubernetes Through Rudr – The New Stack](https://thenewstack.io/tutorial-deploy-microservices-on-kubernetes-through-rudr/)
 
 ## Monitoring
@@ -594,23 +607,6 @@ Distributed system for data science
 [danawoodman/docker-node-hello-world](https://github.com/danawoodman/docker-node-hello-world)
 [Running a MEAN web application in Docker containers on AWS | via @codeship](http://blog.codeship.com/running-mean-web-application-docker-containers-aws/)
 
-## nearForm
-
-[mcollina/docker-loghose: Collect all the logs from all docker containers](https://github.com/mcollina/docker-loghose)
-
-[apparatus/fuge](https://github.com/apparatus/fuge)
-[nearForm releases fuge for microservices - nearForm](http://www.nearform.com/nodecrunch/release-fuge-microservices/)
-[apparatus/fuge-runner: Process and container runner and watcher for the fuge tool](https://github.com/apparatus/fuge-runner)
-
-[nodezoo/nodezoo-workshop: A microservices workshop for the Seneca framework.](https://github.com/nodezoo/nodezoo-workshop)
-[nodezoo/nodezoo-system: A preconfigured set of scripts to run nodezoo via fuge](https://github.com/nodezoo/nodezoo-system)
-
-[nscale](http://nscale.nearform.com/)
-[nScale – microservices deployer for Node.js - nearForm](http://www.nearform.com/tool-nscale/)
-[Introducing nscale for deployment - nearForm](http://www.nearform.com/nodecrunch/introducing-nscale-deployment/)
-[nearform/nscale-docs: Documentation for nscale](https://github.com/nearform/nscale-docs/)0
-[nscale-docs/tutorials at master · nearform/nscale-docs](https://github.com/nearform/nscale-docs/tree/master/tutorials)
-
 ## CloudFoundary
 
 [Cloud Foundry Docs](https://docs.cloudfoundry.org/)
@@ -675,8 +671,8 @@ Distributed system for data science
 [Miniflare 2.0: fully-local development and testing for Workers](https://blog.cloudflare.com/miniflare/)
 [cloudflare/miniflare: 🔥 Fully-local simulator for Cloudflare Workers](https://github.com/cloudflare/miniflare)
 
-[wrangler 2.0 — a new developer experience for Cloudflare Workers](https://blog.cloudflare.com/wrangler-v2-beta/)
-[cloudflare/wrangler2: PRELEASE of V2 - 🤠 wrangle your Cloudflare Workers](https://github.com/cloudflare/wrangler2)
+[Cloudflare Workers · Cloudflare Workers docs](https://developers.cloudflare.com/workers/) was Wrangler
+[cloudflare/workers-sdk: ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®](https://github.com/cloudflare/workers-sdk)
 
 ### Knative
 

@@ -8,8 +8,6 @@ tags:
   - storage
 ---
 
-# Network File System
-
 [Network File System - Wikiwand](https://www.wikiwand.com/en/Network_File_System)  
 [Server Message Block - Wikiwand](https://www.wikiwand.com/en/Server_Message_Block)
 [Chapter 8. Network File System (NFS)](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/Storage_Administration_Guide/ch-nfs.html)

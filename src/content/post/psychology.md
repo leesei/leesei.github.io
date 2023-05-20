@@ -25,12 +25,16 @@ B. F. Skinner
 [Maslow's Hierarchy of Needs | Simply Psychology](https://www.simplypsychology.org/maslow.html)
 [The 5 Levels of Maslow's Hierarchy of Needs](https://www.verywellmind.com/what-is-maslows-hierarchy-of-needs-4136760)
 
-「自我超越」（Self Transcendence）
-「自我實現」（Self Actualization）
-「尊重需要」（Esteem）
-「社交需要」（Love & Belonging）
-「安全需要」（Safety）
-「生理需要」（Physiological）
+[“五一”挤死也要旅游，图个啥？用马斯洛需求层次理论分析一下 - YouTube](https://www.youtube.com/watch?v=3hIqEis4d9I)
+
+6. 「自我超越」（Self Transcendence）
+7. 「自我實現」（Self Actualization）
+   4.2 「審美需要」
+   4.1 「求知需要」
+8. 「尊重需要」（Esteem）
+9. 「社交需要」（Love & Belonging）
+10. 「安全需要」（Safety）
+11. 「生理需要」（Physiological）
 
 [「後物質主義」世代　追求比溫飽更高的價值　也需要金錢｜香港 01 ｜周報](https://www.hk01.com/%E5%91%A8%E5%A0%B1/360043/)
 
@@ -112,3 +116,8 @@ difficulties at controlling attention
 [Unwavering Focus | Dandapani | TEDxReno - YouTube](https://www.youtube.com/watch?v=4O2JK_94g3Y)
 [Meditation - The Single Most Important Skill Needed Today | Dr. Shyam Bhat | TEDxLavelleRoad - YouTube](https://www.youtube.com/watch?v=RZrdUuEARXA)
 [How Meditation Changed My Life | Mamata Venkat | TEDxWayPublicLibrary - YouTube](https://www.youtube.com/watch?v=snkr-1C2e7U)
+
+## Sleep
+
+[POLYPHASIC SLEEP | Sleep Right, Live Well - Learn to nap](https://www.polyphasic.net/)
+[Hacking your brain with Polyphasic Sleep - YouTube](https://www.youtube.com/watch?v%3DOuizzRCALCU)

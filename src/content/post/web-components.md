@@ -7,8 +7,6 @@ tags:
   - web-components
 ---
 
-# Web Components
-
 [Web Components Resources](http://ebidel.github.io/webcomponents/)
 [open-wc](https://open-wc.org/)
 
@@ -93,6 +91,8 @@ tags:
 
 [LitElement](https://lit-element.polymer-project.org/) used by Polymer
 [Polymer/lit-element: A simple base class for creating fast, lightweight web components](https://github.com/Polymer/lit-element)
+
+[Getting Started with a New Lit Project in 2023 | Bits and Pieces](https://blog.bitsrc.io/getting-started-with-a-new-lit-project-in-2023-1835ed79a9e9)
 
 ## Component repos
 

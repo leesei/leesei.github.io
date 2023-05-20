@@ -478,6 +478,22 @@ favor active over passive voice, except for:
 [行易有限公司 :: 嘸蝦米輸入法](https://boshiamy.com/cai.php)
 [為什麼公司的前輩們打字都那麼快？ 來談談那些年他們一起練過的嘸蝦米輸入法 ~ - YouTube](https://www.youtube.com/watch?v=fLrjzLPw5BE)
 
+### 注音
+
+[注音符號 - Wikiwand](https://www.wikiwand.com/zh/%E6%B3%A8%E9%9F%B3%E7%AC%A6%E8%99%9F)
+[EP 232 「注音符號」是怎麼來的？為什麼全世界只有台灣用注音？｜志祺七七 Podcast - YouTube](https://www.youtube.com/watch?v=1WKi-XhkrsE)
+
+### 拼音
+
+[汉语拼音 - Wikiwand](https://www.wikiwand.com/zh/%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3)
+[拼音（拼读音节的过程）\_百度百科](https://baike.baidu.com/item/%E6%8B%BC%E9%9F%B3/322252)
+
+[香港政府粵語拼音 - Wikiwand](https://www.wikiwand.com/zh/%E9%A6%99%E6%B8%AF%E6%94%BF%E5%BA%9C%E7%B2%B5%E8%AA%9E%E6%8B%BC%E9%9F%B3)
+[香港語言學學會粵語拼音方案 - Wikiwand](https://www.wikiwand.com/zh/%E9%A6%99%E6%B8%AF%E8%AA%9E%E8%A8%80%E5%AD%B8%E5%AD%B8%E6%9C%83%E7%B2%B5%E8%AA%9E%E6%8B%BC%E9%9F%B3%E6%96%B9%E6%A1%88)
+
+[臺灣語言音標方案 - Wikiwand](https://www.wikiwand.com/zh/%E8%87%BA%E7%81%A3%E8%AA%9E%E8%A8%80%E9%9F%B3%E6%A8%99%E6%96%B9%E6%A1%88)
+[臺語通用拼音 - Wikiwand](https://www.wikiwand.com/zh/%E8%87%BA%E8%AA%9E%E9%80%9A%E7%94%A8%E6%8B%BC%E9%9F%B3)
+
 ### Dict
 
 [汉典 zdic.net](http://www.zdic.net/)

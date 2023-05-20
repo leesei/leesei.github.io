@@ -211,6 +211,9 @@ Provides ACID consistency.
 [SQL Server Performance Achieving Massive Scalability with SQL Server](http://www.sql-server-performance.com/massive-scalability/)
 [Advanced scaling strategies: Achieving massive scale with SQL](https://go.mariadb.com/GLBL-WBN_2019-04-11Advancedscalingstrategies_Registration-LP.html)
 
+[A Deep Dive in How Slow SELECT \* is - YouTube](https://www.youtube.com/watch?v=wybjsKtA9hI)
+[How Slow is SELECT \* ? (A deep dive) | by Hussein Nasser | Apr, 2023 | Medium](https://medium.com/@hnasr/how-slow-is-select-8d4308ca1f0c)
+
 [Why Does EVERYONE Still Do This To Their DBs??? - YouTube](https://www.youtube.com/watch?v=jeWrbAiA1D0) migration files
 
 ## SQL
@@ -318,6 +321,11 @@ HAProxy recipes
 
 [Context aware MySQL pools via HAProxy | GitHub Engineering](https://githubengineering.com/context-aware-mysql-pools-via-haproxy/)
 [Mitigating replication lag and reducing read load with freno | GitHub Engineering](https://githubengineering.com/mitigating-replication-lag-and-reducing-read-load-with-freno/)
+
+### OctoBase
+
+[OctoBase - Local-first, yet collaborative database](https://octobase.pro/)
+[toeverything/OctoBase: 🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust.](https://github.com/toeverything/octobase)
 
 ## MySQL
 
@@ -1391,7 +1399,7 @@ VoltDB
 # AIDB
 
 [Machine Learning In Your Database Using SQL](https://mindsdb.com/)
-[mindsdb/mindsdb: A low-code Machine Learning platform to help developers build #AI solutions](https://github.com/mindsdb/mindsdb)
+[mindsdb/mindsdb: A low-code Machine Learning platform to help developers build AI solutions](https://github.com/mindsdb/mindsdb)
 
 # Hacky DB
 
@@ -1409,7 +1417,7 @@ VoltDB
 
 [Pricing and Plans | Fauna](https://fauna.com/pricing) distributed ACID document DB
 
-[Neon — Serverless, Fault-Tolerant, Branchable Postgres](https://neon.tech/)bult on Postgres
+[Neon — Serverless, Fault-Tolerant, Branchable Postgres](https://neon.tech/) built on Postgres
 
 [Pricing | MongoDB](https://www.mongodb.com/pricing) with free tier
 
@@ -1418,3 +1426,9 @@ VoltDB
 [Pricing & fees | Supabase](https://supabase.com/pricing) Firebase alternative, with free tier
 
 [Fauna | Pricing](https://fauna.com/pricing) generous free tier
+
+[The open-source alternative to Vercel Storage | JavaScript in Plain English](https://javascript.plainenglish.io/dodging-the-vercel-storage-tax-there-are-better-open-source-alternatives-ef04e537b598)
+[Vercel Storage | Vercel Docs](https://vercel.com/docs/storage)
+[Vercel Postgres | Vercel Docs](https://vercel.com/docs/storage/vercel-postgres) powered by Neon
+[Vercel KV | Vercel Docs](https://vercel.com/docs/storage/vercel-kv) Redis compatible KB store, replacible by Upstash
+[Vercel Blob | Vercel Docs](https://vercel.com/docs/storage/vercel-blob) S3 compatible storage powered by Cloudflare R2

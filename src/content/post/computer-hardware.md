@@ -39,6 +39,8 @@ Branch Education
 [What is Analog Computer: Definition, Examples, Types, Characteristics, Advantages](https://digitalthinkerhelp.com/what-is-analog-computer-definition-and-its-examples/)
 [Difference between Analog Computer and Digital Computer - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-analog-computer-and-digital-computer/)
 
+[Why Lightbulbs Might Be The Best Invention Ever - YouTube](https://www.youtube.com/watch?v=FU_YFpfDqqA) bulb -> vacuum tube -> amplifier -> digital computer
+
 Harmonic analyzer: integration
 Differential analyzer
 Analytical Engine

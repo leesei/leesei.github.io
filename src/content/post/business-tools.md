@@ -133,12 +133,7 @@ yinst perl-email-outlook-message
 
 ## Analytics
 
-[Get started with Analytics - Analytics Help](https://support.google.com/analytics/answer/1008015?hl=en)
-[How to Set Up Google Analytics in 5 Simple Steps](https://blog.hootsuite.com/how-to-set-up-google-analytics/)
-
-[Google Tag Manager vs Google Analytics: Fully Explained (2020)](https://www.analyticsmania.com/post/google-tag-manager-vs-google-analytics/)
-[Google Tag Manager vs Google Analytics - Big Picture - Medium](https://medium.com/@thebigpicturebiz/google-tag-manager-vs-google-analytics-143fb1554eb1)
-[Google Tag Manager vs. Google Analytics - Which one to use and when - YouTube](https://www.youtube.com/watch?v=qm28tjEqZXA)
+[[google-apps#Google Analytics]]
 
 ## Workflow
 

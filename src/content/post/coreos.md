@@ -10,8 +10,6 @@ tags:
   - shell-tool
 ---
 
-# CoreOS
-
 > acquired by RedHat
 
 [CoreOS is Linux for Massive Server Deployments](https://coreos.com/) succeeded by Fedora Core OS

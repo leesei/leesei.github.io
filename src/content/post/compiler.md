@@ -7,8 +7,6 @@ tags:
   - comp.lang
 ---
 
-# Compiler
-
 [Compiler - Wikiwand](https://www.wikiwand.com/en/Compiler)
 
 1. Tokenize source into tokens
@@ -102,9 +100,6 @@ From a compiler that I trust, to a compiler (or toolchain) that can compile sour
 [distcc: a fast, free distributed C/C++ compiler](https://distcc.github.io/)
 
 [How the GNU C Library handles backward compatibility - Red Hat Developer Blog](https://developers.redhat.com/blog/2019/08/01/how-the-gnu-c-library-handles-backward-compatibility/)
-
-[blanham/PDCLib](https://github.com/blanham/PDCLib)
-[Comparison of C/POSIX standard library implementations for Linux](http://www.etalabs.net/compare_libcs.html)
 
 [C 语言全局变量那些事儿 | 酷 壳 - CoolShell](https://coolshell.cn/articles/10115.html)
 

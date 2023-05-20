@@ -69,6 +69,8 @@ tags:
 [The Problem with Native JavaScript APIs - O'Reilly Media](http://www.oreilly.com/programming/free/native-javascript-apis.csp)
 
 [zachleat.com](https://www.zachleat.com/)
+
+[Web Dev Simplified Blog](https://blog.webdevsimplified.com/) pure HTML/CSS tricks
 [Web Dev Simplified - YouTube](https://www.youtube.com/@WebDevSimplified)
 
 ## Trends/Reports
@@ -108,6 +110,7 @@ tags:
 [The web developer survival guide - revolunet blog](http://blog.revolunet.com/blog/2015/09/04/the-web-developer-survival-guide/)
 [How to keep up to date on Front-End Technologies - The Recipe](http://uptodate.frontendrescue.org/)
 [The Modern Javascript Tutorial](https://javascript.info/) !important
+[CodeAnalogies | CSS,JavaScript Tutorials](https://www.codeanalogies.com/)
 
 [Full HTTP Networking Course – Fetch and REST APIs in JavaScript - YouTube](https://www.youtube.com/watch?v=2JYT5f2isg4)
 
@@ -166,6 +169,7 @@ If the site is rendered ahead of time at build, it is known as "Static Site Gene
 
 [10 Rendering Patterns for Web Apps - YouTube](https://www.youtube.com/watch?v=Dkx5ydvtpCA)
 [Do you REALLY need SSR? - YouTube](https://www.youtube.com/watch?v=kUs-fH1k-aM)
+[How modern web apps are rendered - YouTube](https://www.youtube.com/watch?v%3DcLivMMSeFgE)
 
 [[reactjs#Server Side Rendering/Hydration]]
 [[nextjs]]
@@ -468,6 +472,7 @@ https://html.spec.whatwg.org/multipage/browsing-the-web.html#scroll-restoration-
 [favicon.ico Generator](https://www.favicon.cc/)
 [Online ICO converter](https://www.icoconverter.com/)
 [Favicon Generator for perfect icons on all browsers](https://realfavicongenerator.net/)
+[faven - generate your favcion in the browser](https://faven.netlify.app/)
 
 [audreyr/favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet)
 [The Making of an Animated Favicon | CSS-Tricks](https://css-tricks.com/the-making-of-an-animated-favicon/)
@@ -540,10 +545,6 @@ convert -resize x60  input.png apple-touch-icon-60x60.png
 [Benvie/Keyboard: Keyboard as an object in the DOM](https://github.com/Benvie/Keyboard)
 [KeyboardEvent Value (keyCodes, metaKey, etc) | CSS-Tricks](https://css-tricks.com/snippets/javascript/javascript-keycodes/)
 
-### XHR
-
-[Uploading multiple files at once with Ajax and XHR2 · Raymond Camden](https://www.raymondcamden.com/2016/05/05/uploading-multiple-files-at-once-with-ajax-and-xhr2/)
-
 ### Visibility API
 
 [10 Minutes Tutorial for HTML5 Page Visibility API - TutorialDocs](https://www.tutorialdocs.com/article/page-visibility-api.html)
@@ -601,6 +602,8 @@ convert -resize x60  input.png apple-touch-icon-60x60.png
 [[web-frontend-frameworks]]
 
 ## No code/Low code
+
+[20 Tools for Building Stunning Websites without coding - DEV Community](https://dev.to/anmolbaranwal/20-game-changing-website-builders-to-build-classy-websites-without-coding-4ll7)
 
 [Webflow: The no-code platform for web design and development](https://webflow.com/)
 [Build & operate businesses without code | Makerpad](https://www.makerpad.co/)
@@ -946,6 +949,8 @@ Forward?
 
 [OTP Screen UI using HTML, CSS & JS - YouTube](https://www.youtube.com/watch?v=ZVV2UM4hzIE)
 
+[Learn CSS Scroll Snap In 6 Minutes - YouTube](https://www.youtube.com/watch?v=ytl6TrroGis)
+
 [Expanding Grid Cards with View Transitions - Chris Coyier](https://chriscoyier.net/2023/04/11/expanding-grid-cards-with-view-transitions/)
 
 [Gooey Menu](https://codepen.io/lbebber/pen/LELBEo)
@@ -1003,8 +1008,6 @@ Forward?
 [Best of JavaScript](https://bestofjs.org/)
 [shit for making websites](http://shitformakingwebsites.com/)
 
-[Learn With Jason - YouTube](https://www.youtube.com/c/Lengstorf) live coding
-
 [vitalif/dynamic-virtual-scroll: Render-agnostic Dynamic Virtual Scroll Driver for JS](https://github.com/vitalif/dynamic-virtual-scroll)
 [Creating a Smart Navbar With Vanilla JavaScript | CSS-Tricks](https://css-tricks.com/creating-a-smart-navbar-with-vanilla-javascript/)
 
@@ -1016,6 +1019,8 @@ Forward?
 [mout : Modular JavaScript Utilities](http://moutjs.com/docs/latest/)
 [Bit - utils. Javascript components by bit.](https://bitsrc.io/bit/utils)
 [andrewplummer/Sugar: A Javascript library for working with native objects.](https://github.com/andrewplummer/Sugar)
+
+[nathancahill/split: Unopinionated utilities for resizeable split views](https://github.com/nathancahill/split)
 
 [Fisarmonica | Demo](https://fisarmonica.netlify.app/) accordion
 

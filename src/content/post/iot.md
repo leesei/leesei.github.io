@@ -83,6 +83,12 @@ There are two important folders Sketchbook location (`~/ardiono/sketchbook`):
 
 [Dual Core Programming for the Raspberry Pi Pico, ESP32, and ESP32-S3 Using the Arduino IDE - YouTube](https://www.youtube.com/watch?v=w5YigjvSaF4)
 
+#### CLI
+
+```sh
+avrdude -p <board> -b <baud_rate> -c avrispmkII -U flash:w:<file>:i
+```
+
 #### Libraries
 
 [All Libraries - Arduino Libraries](https://www.arduinolibraries.info/libraries)

@@ -122,7 +122,9 @@ backed by Wordnik, then donated to [Open API Initiative](https://openapis.org/) 
 [TDC: Structural Improvements: explaining the 3.0 spec, part 2 - OpenAPI Initiative](https://www.openapis.org/news/blogs/2016/10/tdc-structural-improvements-explaining-30-spec-part-2)
 [OpenAPI Map](http://openapi-map.apihandyman.io/) visualize the OpenAPI spec (2 and 3)
 
-[Mermade/awesome-openapi3: A list of awesome projects related to OpenApi 3.0.x](https://github.com/Mermade/awesome-openapi3)
+[APIs-guru/awesome-openapi3: 😎 A list of awesome projects related to OpenAPI 3.0.x, curated by the community](https://github.com/APIs-guru/awesome-openapi3)
+[OpenAPI.Tools - an Open Source list of great tools for Open API](https://openapi.tools/)
+
 [OAI/OpenAPI-Specification: The OpenAPI Specification Repository](https://github.com/OAI/OpenAPI-Specification)
 [The OpenAPI Spec, Based on Swagger, Reaches 3.0](https://www.infoq.com/news/2017/01/openapi-3)
 [Documenting APIs: A guide for technical writers and engineers | Documenting REST APIs](https://idratherbewriting.com/learnapidoc/)
@@ -193,7 +195,7 @@ These tools can validate and bundle multi-files spec.
 [apigee-127/swagger-tools: A Node.js and browser module that provides tooling around Swagger.](https://github.com/apigee-127/swagger-tools) 1.2 and 2.0
 [apigee-127/swagger-test-templates: Test code generated from Swagger](https://github.com/apigee-127/swagger-test-templates) 2.0
 
-[bootprint/bootprint: Converts json into a static html page using Handlebars and Bootstrap](https://github.com/bootprint/bootprint) deprecated
+[bootprint/bootprint: Converts json into a static html page using Handlebars and Bootstrap](https://github.com/bootprint/bootprint) DEPRECATED
 [bootprint/bootprint-openapi: Bootprint-module to render OpenAPI specifications](https://github.com/bootprint/bootprint-openapi) 2.0
 
 [Mermade/openapi_optimise: Optimise OpenApi (Swagger) 2.0 API definitions](https://github.com/Mermade/openapi_optimise)

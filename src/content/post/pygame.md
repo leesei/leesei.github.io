@@ -10,8 +10,6 @@ tags:
   - python
 ---
 
-# Pygame
-
 [Pygame](https://www.pygame.org)
 
 - use v2 (with GPU acceleration)

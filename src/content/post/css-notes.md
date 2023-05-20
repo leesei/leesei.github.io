@@ -9,7 +9,7 @@ tags:
   - web/dev
 ---
 
-> split `css-tailwindcss`, `css-bulma`
+> split `css-tailwindcss`, `css-unocss`, `css-bulma`
 
 [CSS | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [Learn CSS](https://web.dev/learn/css/)
@@ -188,12 +188,13 @@ Framework defines rules that are:
 [Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-blog/block-element-modifying-your-javascript-components-d7f99fcab52b)
 [How I Moved a Step Closer to Clean CSS and How You Can Too (with the BEM Methodology) - DEV Community 👩‍💻👨‍💻](https://dev.to/xtrp/how-i-moved-a-step-closer-to-clean-css-and-how-you-can-too-with-the-bem-methodology-35bo)
 
-### Functional CSS
+### Functional CSS/Atomic CSS
 
 > aka "Atomic CSS", "Utility first CSS"
 
 [Atomic CSS](https://acss.io/)
 [The Making of Atomic CSS: An Interview With Thierry Koblentz | CSS-Tricks - CSS-Tricks](https://css-tricks.com/thierry-koblentz-atomic-css/)
+[Reimagine Atomic CSS](https://antfu.me/posts/reimagine-atomic-css)
 
 [So you need a CSS utility library? | CSS-Tricks](https://css-tricks.com/need-css-utility-library/)
 [Why can’t we use Functional CSS and regular CSS at the same time? | CSS-Tricks](https://css-tricks.com/why-cant-we-use-functional-css-and-regular-css-at-the-same-time/)
@@ -277,7 +278,7 @@ The `select` class set z-index of arrow to 4. Use this to override:
 
 > use multiple frameworks in one
 
-[UnoCSS Interactive Docs](https://uno.antfu.me/)
+[UnoCSS Interactive Docs](https://unocss.dev/interactive/)
 [unocss/unocss: The instant on-demand atomic CSS engine.](https://github.com/unocss/unocss)
 
 [Is Tailwind CSS No Longer Needed? A Look Into UnoCSS! - YouTube](https://www.youtube.com/watch?v=1vwq4uaYQGU)
@@ -332,16 +333,22 @@ Grid sizes
 [Responsive Design - Tailwind CSS](https://tailwindcss.com/docs/responsive-design)
 [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography)
 
+```sh
+<script src="https://cdn.tailwindcss.com"></script>
+```
+
 [Framework Guides - Tailwind CSS](https://tailwindcss.com/docs/installation/framework-guides)
 [Tailwind CSS v3.3: Extended color palette, ESM/TS support, logical properties, and more - Tailwind CSS](https://tailwindcss.com/blog/tailwindcss-v3-3)
+[Tailwind CSS Tutorial for Beginners – How To Start?](https://codete.com/blog/tailwind-css-tutorial-and-examples-for-beginners)
 
+[vimeshjs/vimesh-style: Vimesh Style is a full-featured tiny javascript library alternative to Tailwind CSS. Automatically work with any frontend frameworks, including React, Vue, AngularJS ect.](https://github.com/vimeshjs/vimesh-style)
 [Typewind – Typesafe Tailwind](https://typewind.dev/)
 
 [Tailwind Labs - YouTube](https://www.youtube.com/tailwindlabs)
 
 [Tailwind CSS Cheat Sheet](https://tailwindcomponents.com/cheatsheet/)
 [Tailwind CSS Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
-[Watching Tailwind Tutorials Is A Waste Of Time - YouTube](https://www.youtube.com/watch?v=Ksn1tThNTjI)
+[Watching Tailwind Tutorials Is A Waste Of Time - YouTube](https://www.youtube.com/watch?v=Ksn1tThNTjI) use cheatsheet
 
 [Automatic Class Sorting with Prettier - Tailwind CSS](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
 [tailwindlabs/prettier-plugin-tailwindcss: A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
@@ -359,6 +366,8 @@ Copy and paste
 [Tailwind CSS Components. Examples and templates](https://tailwindcomponents.com/)
 [Home | Collection of Tailwindcss Templates & Components](https://tailwindtemplates.io/)
 [Tailwind Toolbox - Free Starter Templates and Components for Tailwind CSS](https://www.tailwindtoolbox.com/)
+[Tailwind Layouts](https://tailwind-layouts.vercel.app/)
+[Myna UI](https://mynaui.com/)
 
 [shadcn/ui - Beautifully designed components built with Radix UI and Tailwind CSS.](https://ui.shadcn.com/) React
 [shadcn/ui: Beautifully designed components built with Radix UI and Tailwind CSS.](https://github.com/shadcn/ui)
@@ -387,11 +396,13 @@ Copy and paste
 
 ### Windi
 
-> on-demand alternative to Tailwind
+> on-demand alternative to Tailwind, inspired Tailwind to implement JIT engine (available since Tailwind 2.1)
 
 [Windi CSS](https://windicss.org/)
+[Windi CSS is Sunsetting | Windi CSS](https://windicss.org/posts/sunsetting.html)
 
 [The Story | Windi CSS](https://windicss.org/posts/story.html)
+[Tailwind CSS vs Windi CSS](https://larainfo.com/blogs/tailwind-css-vs-windi-css)
 
 ### Milligram
 
@@ -1359,6 +1370,14 @@ use responsive font size (`vw`/`vh`) on small screen, use fixed font size on lar
 [Bringing Spacer GIFs Back, to handle spacing elements in React and CSS](https://www.joshwcomeau.com/react/modern-spacer-gif/)
 
 [Newer Things to Know About Good Ol’ HTML Lists | CSS-Tricks - CSS-Tricks](https://css-tricks.com/newer-things-to-know-about-good-ol-html-lists/) `list-style-position: inside;`
+
+[Yet Another 5 Must Know CSS Tricks That Almost Nobody Knows - YouTube](https://www.youtube.com/watch?v=-0fAhoahXYw)
+
+- `clamp()`
+- sub-grid
+- `@support`
+- scroll snapping
+- logical property
 
 [You Don't Need JavaScript for That!](https://robots.thoughtbot.com/you-don-t-need-javascript-for-that)
 [propjockey/css-sweeper: MineSweeper implemented in CSS + HTML using the Space Toggle trick (no JavaScript!)](https://github.com/propjockey/css-sweeper)

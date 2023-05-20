@@ -1,13 +1,11 @@
 ---
-title: Portable Document Format
+title: Portable Document Format (PDF)
 description: ""
 created: 2018-10-27
 tags:
   - business
   - desktop
 ---
-
-# PDF
 
 [Convert document, image, video and audio files online](https://www.aconvert.com/)
 [How to Merge PDF Files in Linux - It's FOSS](https://itsfoss.com/merge-pdf-linux/)

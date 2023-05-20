@@ -67,6 +67,7 @@ In "order selection mechanism" (which is called "mining"), blocks will be serial
 [Zheaoli/awesome-coins: ₿ A guide (for humans!) to cryto-currencies and their algos.](https://github.com/Zheaoli/awesome-coins)
 [Xel/Blockchain-stuff: Blockchain and Crytocurrency Resources](https://github.com/Xel/Blockchain-stuff)
 
+[Crypto: The World’s Greatest Scam. - YouTube](https://www.youtube.com/watch?v=ORdWE_ffirg)
 [【Joeman】台灣挖礦紀錄片！從崩跌礦難到月入百萬！實際採訪五個千萬等級的大型礦場 @含羞草 - YouTube](https://www.youtube.com/watch?v=IBA3k7GBsWc)
 
 SegWit2x
@@ -87,6 +88,9 @@ SegWit2x
 ## Smart Contracts
 
 [A gentle introduction to smart contracts | Bits on blocks](https://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts/)
+
+[Home | ethereum.org](https://ethereum.org/en/)
+[Gnosis Chain | Gnosis Chain](https://docs.gnosischain.com/)
 
 [Smart Contract Security with Emin Gün Sirer | Software Engineering Daily](https://softwareengineeringdaily.com/2017/10/20/4085/)
 [Ethereum Platform with Preethi Kasireddy | Software Engineering Daily](https://softwareengineeringdaily.com/2017/10/11/ethereum-platform-with-preethi-kasireddy/)
@@ -135,6 +139,7 @@ SegWit2x
 [在元宇宙裡買塊地？區塊鏈虛擬土地購買全攻略【2022 最新版】 - INSIDE](https://www.inside.com.tw/article/26632-buy-a-piece-of-land-in-the-metaverse)
 [NFT 現況及未來!! 去中心化還能被審查? 我們離 web3.0 還有多遠? | 在地上滾的工程師 Nic - YouTube](https://www.youtube.com/watch?v=p5Rcgfud21U)
 [NFT 智能合約開發全攻略! 發行 NFT 背後的技術實戰及原理! 盲盒、公開發售怎麼做到的? | 在地上滾的工程師 Nic - YouTube](https://www.youtube.com/watch?v=3vWw9Xt48bs)
+[27 秒發行迷因幣！藝術家教學「龐氏速成」，諷刺投資者瘋了 | 動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)](https://www.blocktempo.com/you-can-now-create-a-shitcoin-in-less-than-23-seconds/)
 
 [千萬不要錯過，將會徹底改變世界的元宇宙 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=hm5K-PBz0rg)
 [更改世界的"區塊鏈" | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=sjx_rpay9rk)

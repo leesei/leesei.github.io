@@ -6,8 +6,6 @@ tags:
   - app
 ---
 
-# UI Automation
-
 [Sikuli Script - Home](http://www.sikuli.org/)
 
 [Open-Source RPA Software 2022 for macOS, Linux and Windows. Codeless UI Automation](https://ui.vision/rpa)

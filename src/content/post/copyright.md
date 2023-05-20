@@ -48,6 +48,7 @@ The four factors judges consider are:
 ## Open Source
 
 [Open Source Supporters](http://www.iloveopensource.io/)
+[Open Source Guides | Learn how to launch and grow your project.](https://opensource.guide/)
 [The Unsung Heroes of Modern Software Development – Towards Data Science](https://towardsdatascience.com/the-unsung-heroes-of-modern-software-development-561fc4cb6850) foundations
 [What is Open Source? | opensource.dev](https://opensource.dev/)
 [What is Open Source Software? OSS Explained in Plain English](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/)

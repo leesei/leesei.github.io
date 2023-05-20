@@ -7,8 +7,6 @@ tags:
   - php
 ---
 
-# PHP Manager
-
 ## Composer
 
 [Composer](https://getcomposer.org/) 2012, inspired by `npm`, with `composer.json` and per-project `./vendor/`

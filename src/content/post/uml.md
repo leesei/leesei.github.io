@@ -154,6 +154,10 @@ styling:
 
 [Pikchr: Pikchr User Manual](https://pikchr.org/home/doc/trunk/doc/userman.md)
 
+### Goa Model
+
+[goadesign/model: Create your software architecture models and diagrams in Go.](https://github.com/goadesign/model)
+
 ### GaaS (graph as a service)
 
 With an HTTP client and scraping code, any DSL with web editor could be made as a service. This is especially easy if the DSL is provided as a library of course.

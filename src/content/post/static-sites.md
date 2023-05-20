@@ -64,7 +64,9 @@ tags:
 
 [Lume, the static site generator for Deno - Lume](https://lume.land/)
 [lumeland/lume: 🔥 Static site generator for Deno 🦕](https://github.com/lumeland/lume)
+
 [How to build a static site with Lume](https://deno.com/blog/build-a-static-site-with-lume)
+[woodcox/luminous: A Lume starter repo for windicss and alpine](https://github.com/woodcox/luminous)
 
 ### Blog
 

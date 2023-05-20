@@ -130,7 +130,7 @@ When researching on topics (especially technical ones), do keep note of the date
 
 ## Medium
 
-Many authors now post on Medium, but Medium is not user friendly at all.
+Many authors now post on Medium, but Medium is not user friendly at all. Also many posts are behind paywall.
 
 I use these extensions:
 
@@ -224,7 +224,7 @@ Chinese:
 ## 守破離
 
 [「守, 破, 離」學習模式三階段 | ihower { blogging }](https://ihower.tw/blog/archives/6981)  
-I call for setting your goal to 破, to understand the rationale behind the rules and adopt those beneficial to you.
+I call for setting your goal to 破, to understand the rationale behind the rules and adopt those beneficial to you. Follow the rules by the heart, not by the letters.
 It is difficult to 守 when you don't understand what you're 守-ing.
 
 ## Speed Reading => Speed Learning

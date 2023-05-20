@@ -51,13 +51,6 @@ tags:
 [alebcay/awesome-shell: A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.](https://github.com/alebcay/awesome-shell)
 [aharris88/awesome-cli-apps: A curated list of command line apps](https://github.com/aharris88/awesome-cli-apps)
 [herrbischoff/awesome-command-line-apps: Use your terminal shell to do awesome things.](https://github.com/herrbischoff/awesome-command-line-apps)
-[jlevy/the-art-of-command-line: Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
-[CLI: improved](https://remysharp.com/2018/08/23/cli-improved)
-[Command Line Interface Guidelines](https://clig.dev/) writing CLI apps
-[CLI Tools Are Not Inherently User-Hostile - Mindy Preston - Software You Can Love 2022 - YouTube](https://www.youtube.com/watch?v=IcV9TVb-vF4)
-
-- the shell and the browser the TWO portable platforms
-- why GUIs are hard to follow
 
 [denisidoro/navi: An interactive cheatsheet tool for the command-line](https://github.com/denisidoro/navi)
 [b4b4r07/enhancd: A next-generation cd command with your interactive filter](https://github.com/b4b4r07/enhancd)
@@ -80,6 +73,21 @@ tags:
 [CZ-NIC/pz: Easily handle day to day CLI operation via Python instead of regular Bash programs.](https://github.com/CZ-NIC/pz)
 
 [hollywood.computer](https://a.hollywood.computer/)
+
+## The Art of CLI
+
+[jlevy/the-art-of-command-line: Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
+[CLI: improved](https://remysharp.com/2018/08/23/cli-improved)
+[Command Line Interface Guidelines](https://clig.dev/)
+[12 Factor CLI Apps. CLIs are a fantastic way to build… | by Jeff Dickey | Medium](https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46)
+[CLI Style Guide | Heroku Dev Center](https://devcenter.heroku.com/articles/cli-style-guide)
+
+[NO_COLOR: disabling ANSI color output in various Unix commands](https://no-color.org/) well-behaved libraries
+
+[CLI Tools Are Not Inherently User-Hostile - Mindy Preston - Software You Can Love 2022 - YouTube](https://www.youtube.com/watch?v=IcV9TVb-vF4)
+
+- the shell and the browser the TWO portable platforms
+- why GUIs are hard to follow
 
 ## Online manpages
 

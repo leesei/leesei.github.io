@@ -3,6 +3,8 @@ title: Google Cloud Platform
 description: ""
 created: 2017-02-11
 tags:
+  - gcp
+  - google
   - web
 ---
 
@@ -179,6 +181,7 @@ Also provides static hosting and FaaS.
 [PocketBase... The Ultimate Side-Hustle Backend? - YouTube](https://www.youtube.com/watch?v=Wqy3PBEglXQ)
 [I built a $5 chat app with Pocketbase & Svelte. Will it scale? - YouTube](https://www.youtube.com/watch?v=gUYBFDPZ5qk)
 [SvelteKit + PocketBase Integration: User Login and Registration - YouTube](https://www.youtube.com/watch?v=AxPB3e-3yEM)
+[Why we love Pocketbase - YouTube](https://www.youtube.com/watch?v%3DmLJ4KNe-c3w)
 
 [The Open Source Firebase Alternative | Supabase](https://supabase.com/) based on Postgres
 [Supabase Docs](https://supabase.com/docs)

@@ -23,7 +23,7 @@ tags:
 
 ## CLI
 
-> deprecated
+> DEPRECATED
 
 [GitbookIO/gitbook-cli: GitBook's command line interface](https://github.com/GitbookIO/gitbook-cli)
 

@@ -75,6 +75,10 @@ Considerations:
 [Getting started with PreactJS — A Step By Step Guide](https://blog.codeinfuse.com/getting-started-with-preactjs-a-step-by-step-guide-f3197f871753)
 [Moving From React to Preact: A Developer’s Story – BitCraft – Medium](https://medium.com/bitcraft/moving-from-react-to-preact-a-developers-story-49994cfc56dc)
 
+## VanJS
+
+[VanJS (Vanilla JavaScript) - A 1.2kB Reactive UI Framework without JSX](https://vanjs.org/)
+
 ## Owl
 
 [OWL Framework](https://odoo.github.io/owl/)

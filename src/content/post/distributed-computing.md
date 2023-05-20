@@ -192,7 +192,7 @@ For PC it's easiest to install the [prebuilt binary](https://arrayfire.com/downl
 [openmp - GCC Wiki](https://gcc.gnu.org/wiki/openmp)
 
 [OpenMP Task Parallelism for Faster Genomic Data Processing](https://www.openmp.org/wp-content/uploads/OpenMP-Task-Parallelism-for-Faster-Genomic-Data-Processing.pdf)
-[OpenMP Parallelization and Optimization of Graph-Based Machine Learning Algorithms](opencv/IWOMP2016-final.pdf)
+[OpenMP Parallelization and Optimization of Graph-Based Machine Learning Algorithms](/_assets/opencv/IWOMP2016-final.pdf)
 [Advancement of Computing on Large Datasets via Parallel Computing and Cyberinfrastructure](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=5350&context=etd)
 
 [OpenMP » ADMIN Magazine](http://www.admin-magazine.com/HPC/Articles/Parallelizing-Loops-with-OpenMP)
@@ -242,3 +242,17 @@ easier to use than CUDA
 [Urbit](https://urbit.org/)
 
 [Urbit with Galen Wolfe-Pauly - Software Engineering Daily](https://softwareengineeringdaily.com/2021/12/17/urbit-with-galen-wolfe-pauly/)
+
+## Edge servers
+
+[That's It, I'm Done With Serverless. - YouTube](https://www.youtube.com/watch?v=UPo_Xahee1g)
+[Regional execution for ultra-low latency rendering at the edge – Vercel](https://vercel.com/blog/regional-execution-for-ultra-low-latency-rendering-at-the-edge)
+
+Edge Location (AWS Serverless): slow cold start, your code is deployed to the specific location(s)
+Edge Runtime: faster "cold start" (actually not cold); your code is deployed globally, think CDN; e.g.: Netlify, Vercel
+Regional Edge Runtime: faster "cold start" (actually not cold); edge server is closer to DB, further to user
+
+Edge Runtime Cons:
+
+- Compatibility (no all functions of your runtime is available)
+- No native runtime (cannot run Rust/Go binary from JavaScript)

@@ -11,6 +11,8 @@ tags:
 
 ## Screws
 
+[老師傅終於可以安心退休？台灣一年賣 2000 億的螺絲 扣件產業的未來【超認真少年】 - YouTube](https://www.youtube.com/watch?v=isMyLbqoVXE)
+
 [Why Are There so Many Types of Screws?! - YouTube](https://www.youtube.com/watch?v=5cA9bZRHpZE)
 
 [8 种你必须知道的螺丝 - YouTube](https://www.youtube.com/watch?v=VciyRyBnWGw)

@@ -6,8 +6,6 @@ tags:
   - comp.hardware
 ---
 
-# Computer Ergonomics
-
 [[keyboard]]
 [[trackball]]
 

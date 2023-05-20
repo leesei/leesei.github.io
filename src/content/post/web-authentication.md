@@ -70,6 +70,7 @@ Use MAC with server nonce instead of send password, allows authentication over n
 [pilcrowOnPaper/lucia: Authentication, simple and clean](https://github.com/pilcrowOnPaper/lucia)
 
 [tarent/loginsrv: JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, ..](https://github.com/tarent/loginsrv)
+
 [leesei/docker-auth-server: Dockerized JWT key server](https://github.com/leesei/docker-auth-server)
 
 ## Auth Providers
@@ -81,8 +82,10 @@ Use MAC with server nonce instead of send password, allows authentication over n
 [Magic: Future-proof passwordless authentication](https://magic.link/) paid service
 [Developer-Friendly Passwordless Auth | CSS-Tricks](https://css-tricks.com/developer-friendly-passwordless-auth/)
 
-[Auth0: Secure access for everyone. But not just anyone.](https://auth0.com/) free 7000 monthly active users
+[Pricing - Auth0](https://auth0.com/pricing) free 7000 monthly active users
 [Auth0 in 100 Seconds // And beyond with a Next.js Authentication Tutorial - YouTube](https://www.youtube.com/watch?v=yufqeJLP1rI)
+
+[Authdog — Identity & Access Management for Developers | Pricing](https://www.authdog.com/pricing) free 10000 monthly active users
 
 [Clerk | Authentication and User Management](https://clerk.dev/) free 5000 monthly active users
 [Passwordless Authentication & Login in Next.js with Clerk - YouTube](https://www.youtube.com/watch?v=1n9N5k8gsDw)
@@ -164,6 +167,13 @@ physical keys
 > originally NextAuth.js
 
 [Auth.js](https://authjs.dev/) work with OAuth 2 or OpenID Connect provider
+
+## Passport.js
+
+[Passport.js](https://www.passportjs.org/)
+[Passport.js - Strategies](https://www.passportjs.org/packages/)
+
+[Using Passport With Sequelize and MySQL](https://code.tutsplus.com/using-passport-with-sequelize-and-mysql--cms-27537t)
 
 ## WebAuthn
 
@@ -322,7 +332,7 @@ does not to mandate SSL/TLS
 
 does not to mandate SSL/TLS
 
-[OAuth and OAuth WRAP: defeating the password anti-pattern | Ars Technica](http://arstechnica.com/information-technology/2010/01/oauth-and-oauth-wrap-defeating-the-password-anti-pattern/) Deprecated for 2.0
+[OAuth and OAuth WRAP: defeating the password anti-pattern | Ars Technica](http://arstechnica.com/information-technology/2010/01/oauth-and-oauth-wrap-defeating-the-password-anti-pattern/) DEPRECATED for 2.0
 [Compromising Twitter’s OAuth security system | Ars Technica](http://arstechnica.com/security/2010/09/twitter-a-case-study-on-how-to-do-oauth-wrong/)
 [OAuth Authorization Flow - YDN](https://developer.yahoo.com/oauth/guide/oauth-auth-flow.html)
 
@@ -540,7 +550,7 @@ And much more...
 [RFC 7519 - JSON Web Token (JWT)](https://tools.ietf.org/html/rfc7519)
 [RFC 7520 - JOSE Cookbook](https://tools.ietf.org/html/rfc7520)
 
-JWT = `header.claim.signature`
+JWT = `{header}.{claim}.{signature}`
 
 [JWT, JWS and JWE for Not So Dummies!](https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3#.egmi2svdf)
 [dwyl/learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens)
@@ -565,6 +575,8 @@ JWT = `header.claim.signature`
 [Casdoor · An Open Source UI-first Identity Access Management (IAM) / Single-Sign-On (SSO) platform supporting OAuth 2.0, OIDC, SAML and CAS | Casdoor · An Open Source UI-first Identity Access Management (IAM) / Single-Sign-On (SSO) platform supporting OAuth 2.0, OIDC, SAML and CAS](https://casdoor.org/)
 
 [JWT Authentication in React. How to Consume and Use JWT tokens | by Ivan Stoev | Mar, 2022 | Level Up Coding](https://levelup.gitconnected.com/jwt-authentication-in-react-a2b1b705b7a) access and refresh token on client
+
+[nearform/fast-jwt: Fast JSON Web Token implementation](https://github.com/nearform/fast-jwt)
 
 ### In the Contrary
 
@@ -629,13 +641,18 @@ Auth0 is the owner of Node.js `jsonwebtoken` module.
 [React and Auth0 - YouTube](https://www.youtube.com/playlist?list=PLZ14qQz3cfJL6aoKZ_Ly7jiYrwi9ihviW)
 [How to use Auth0 with Node.js and Express | InfoWorld](https://www.infoworld.com/article/3629129/how-to-use-auth0-with-nodejs-and-express.html)
 
-[Pricing - Auth0](https://auth0.com/pricing) 7000 active users free tier
-
 [Using JSON Web Tokens as API Keys](https://auth0.com/blog/2014/12/02/using-json-web-tokens-as-api-keys/)
 [Blacklisting JSON Web Token API Keys](https://auth0.com/blog/2015/03/10/blacklist-json-web-token-api-keys/)
 [auth0/node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
 [auth0/nginx-jwt](https://github.com/auth0/nginx-jwt)
 [auth0/jwt-as-api-keys](https://github.com/auth0/jwt-as-api-keys)
+
+### Authdog
+
+[Authdog — Identity & Access Management for Developers](https://www.authdog.com/)
+[Authdog | Documentation](https://docs.authdog.com/)
+
+[authdog/keylab: Keylab is a Node.js library designed to simplify the creation and validation of JSON Web Tokens, eliminating the need for prior knowledge in cryptography.](https://github.com/authdog/keylab)
 
 ### JWTenizr
 

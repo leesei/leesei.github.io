@@ -19,10 +19,11 @@ tags:
 [DER vs. CRT vs. CER vs. PEM Certificates and How To Convert Them](http://info.ssl.com/article.aspx?id=12149)
 [Converting OpenSSH public keys - Odd Bits](http://blog.oddbit.com/2011/05/08/converting-openssh-public-keys/)
 
-`.pem`, `.key`, `.csr` are used for keys
+`.pem`, `.key`, `.csr` are used for keys (file format)
 `.crt` == X.509? probably
 `.csr` can be converted to `.crt` by signing with private key
 `.pfx`/`.p12` == PKCS#12
+SPKI, PKCS: key format
 
 key: no meta data, just the prime numbers and modulus
 cert: with meta data

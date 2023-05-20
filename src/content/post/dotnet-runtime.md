@@ -8,8 +8,6 @@ tags:
   - dotnet/runtime
 ---
 
-# .NET Runtime
-
 [.NET Core is the Future of .NET | .NET Blog](https://devblogs.microsoft.com/dotnet/net-core-is-the-future-of-net/) 2019, dotnet v5 dropped the Core moniker
 [The future of .NET Standard | .NET Blog](https://devblogs.microsoft.com/dotnet/the-future-of-net-standard/) 2020
 [What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build? - YouTube](https://www.youtube.com/watch?v=bEfBfBQq7EE)

@@ -1,5 +1,5 @@
 ---
-title: Java
+title: Java Spring
 description: ""
 created: 2019-04-20
 tags:
@@ -8,9 +8,7 @@ tags:
   - spring
 ---
 
-# Spring
-
-[Spring](https://spring.io/) a Pivotal company with many open source [projects](https://spring.io/projects).
+[Spring | Home](https://spring.io/) a Pivotal (now VMWare) company with many open source [projects](https://spring.io/projects).
 [Guides](https://spring.io/guides)
 [How not to hate Spring in 2016](https://spring.io/blog/2015/11/29/how-not-to-hate-spring-in-2016)
 [Spring Initializr](http://start.spring.io/)

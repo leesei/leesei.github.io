@@ -10,8 +10,6 @@ tags:
   - web-dev
 ---
 
-# Alpine.js
-
 > declarative , no bundler needed, good for Google App Script
 > v3 released 2021-06
 
@@ -47,10 +45,26 @@ x-on:eventName="expression" @eventName="expression"
 [Alpine.js: The JavaScript Framework That's Used Like jQuery, Written Like Vue, and Inspired by TailwindCSS | CSS-Tricks](https://css-tricks.com/alpine-js-the-javascript-framework-thats-used-like-jquery-written-like-vue-and-inspired-by-tailwindcss/)
 [Practical Alpine.js: x-data data access & data fetching/AJAX examples · Code with Hugo](https://codewithhugo.com/alpinejs-x-data-fetching/)
 
+## Starter Kit
+
+[yhaefliger/YATAS: Yet Another Tailwind Alpine Starter](https://github.com/yhaefliger/YATAS) 11ty
+[stefanfrede/11st-starter-kit: 11ty, powered by Vite with Tailwind CSS and Alpine.js.](https://github.com/stefanfrede/11st-starter-kit)
+
+[Getting started with Alpine.js and TypeScript - DEV Community](https://dev.to/wtho/get-started-with-alpinejs-and-typescript-4dgf) Bonus round: Tailwindcss
+[AlpineJSwithViteJS.md](https://gist.github.com/avermeulen/6790ffc7c86c464143ff79a3b57068ed)
+[supertorpe/phaser3-dom-alpinejs: Phaser3 reactive DOM through Alpine.js](https://github.com/supertorpe/phaser3-dom-alpinejs)
+
 ## Component
 
-[markmead/alpinejs-component: Create reusable components with Alpine JS reactivity 🦑](https://github.com/markmead/alpinejs-component)
+[markmead/alpinejs-component: Reusable HTML components powered by Alpine JS reactivity 🛸](https://github.com/markmead/alpinejs-component)
 [javascript - Reusable Alpine.js components? - Stack Overflow](https://stackoverflow.com/questions/65710987/reusable-alpine-js-components)
+
+[Prebuilt Tailwind Components | Kutty](https://kutty.netlify.app/)
+
+[Home | TA-Styled-Plugins](https://ta-styled-plugins.com/)
+
+[vimeshjs/vimesh-ui: Vimesh UI is an ultra lightweight library to build UI components for Alpine.js](https://github.com/vimeshjs/vimesh-ui)
+[vimeshjs/vimesh-headless: Alpine.js implementation of Tailwind Headless UI](https://github.com/vimeshjs/vimesh-headless)
 
 [Lightweight Form Validation with Alpine.js and Iodine.js | CSS-Tricks](https://css-tricks.com/lightweight-form-validation-with-alpine-js-and-iodine-js/)
 [Tabs - JS - Alpine Inline](https://epsi-rns.gitlab.io/frontend/2020/11/09/tabs-js-alpine-inline/)
@@ -69,10 +83,29 @@ x-on:eventName="expression" @eventName="expression"
 ## Ecosystem
 
 [Extending — Alpine.js](https://alpinejs.dev/advanced/extending)
+[rehhouari/alpine-typescript-plugin-template: A simple TypeScript template for Alpine.js plugins](https://github.com/rehhouari/alpine-typescript-plugin-template)
+[alpinejs javascript · GitHub Topics](https://github.com/topics/alpinejs?l=javascript)
+[alpinejs typescript · GitHub Topics](https://github.com/topics/alpinejs?l=typescript)
+[marcreichel (marcreichel) / Repositories](https://github.com/marcreichel?tab=repositories&q=alpine-&type=source&language=&sort=)
+
+[imacrayon/alpine-ajax: The missing Alpine.js attributes for interacting with your server.](https://github.com/imacrayon/alpine-ajax)
+[hankhank10/alpine-fetch: Straightforward interactive HTTP requests from within your Alpine.JS markup](https://github.com/hankhank10/alpine-fetch)
+
+[rehhouari/alpinejs-i18n: Easy i18n (Internationalization) for Alpine.js!](https://github.com/rehhouari/alpinejs-i18n)
 
 [alpine-collective/toolkit: A set of directives and magic properties for Alpine.js](https://github.com/alpine-collective/toolkit)
 
-[markmead/alpinejs-tash: 🥸 Alpine JS plugin that lets you render text without the need of x-text](https://github.com/markmead/alpinejs-tash)
+[markmead/alpinejs-tash: Use a more familiar syntax when rendering Alpine JS `{variables}` 🚀](https://github.com/markmead/alpinejs-tash)
+
+### Pinecone Router
+
+[Pinecone Router | The exendable client-side router for Alpine.js](https://pinecone-router.github.io/router/)
+
+[pinecone-router/router: The extendable client-side router for Alpine.js v3](https://github.com/pinecone-router/router)
+[rehhouari/pinecone-example](https://github.com/rehhouari/pinecone-example)
+
+[pinecone-router/middleware-views: Views rendering middleware for Pinecone Router](https://github.com/pinecone-router/middleware-views)
+[rehhouari/pinecone-example-views: Demo/Example for Pinecone Router's Views middleware](https://github.com/rehhouari/pinecone-example-views)
 
 ## Tips and Tricks
 

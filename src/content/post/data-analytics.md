@@ -397,3 +397,4 @@ Beam is introducing a framework through which APIs in languages other than Java 
 [Pandas vs. Polars: A Syntax and Speed Comparison | by Leonie Monigatti | Jan, 2023 | Towards Data Science](https://towardsdatascience.com/pandas-vs-polars-a-syntax-and-speed-comparison-5aa54e27497e)
 [Why Polars uses less memory than Pandas](https://pythonspeed.com/articles/polars-memory-pandas/)
 [Replacing Pandas with Polars. A Practical Guide. - Confessions of a Data Guy](https://www.confessionsofadataguy.com/replacing-pandas-with-polars-a-practical-guide/)
+[Polars for initial data analysis, Polars for production](https://pythonspeed.com/articles/polars-exploratory-data-analysis-vs-production/)

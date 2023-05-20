@@ -10,6 +10,7 @@ tags:
 [The Emulator Zone - Your Source for Emulation!](https://www.emulator-zone.com)
 [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page)
 [Play classic video games on your computer or mobile device | Emuparadise](https://www.emuparadise.me/)
+[Retro Game Corps](https://retrogamecorps.com/)
 
 [Top 10 Emulators of 2022 - YouTube](https://www.youtube.com/watch?v=hd3VE7JZppY)
 [EMU-NATION: Cemu Rage, RPCS3 and PJ64 goes clean? - YouTube](https://www.youtube.com/watch?v=BF6gZbdEmso)
@@ -268,15 +269,24 @@ Zelda BotW Graphic Packs:
 
 ## Switch
 
+[Nintendo Switch Emulation: How to run Ryujinx on Steam Deck](https://overkill.wtf/ryujinx-steam-deck/)
+
 [yuzu - Nintendo Switch Emulator](https://yuzu-emu.org/)
+[Quickstart Guide - yuzu](https://yuzu-emu.org/help/quickstart/)
+[yuzu-emu/yuzu: Nintendo Switch Emulator](https://github.com/yuzu-emu/yuzu)
+[Nintendo Switch Emulation on Steam Deck: How to run Yuzu](https://overkill.wtf/how-to-setup-yuzu-for-steam-deck/)
 
 [Ryujinx - Nintendo Switch Emulator](https://ryujinx.org/)
+[Ryujinx/Ryujinx: Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
 
 [Egg NS Emulator – Nintendo Switch emulator for Android](https://eggns.wordpress.com/)
 [Egg NS Emulator on Twitter: "You guys may don't understand the game setting on the emulator. This time I'll explain each button in detail🧐 Come and optimize the settings for your favorite game.👇🔥 https://t.co/Vfp08uHuoX" / Twitter](https://twitter.com/emulatorns/status/1441417145540177920?lang=en)
 
-[Skyline - Nintendo Switch Emulator](https://skyline-emu.one/)
+[Skyline - Nintendo Switch Emulator](https://skyline-emu.one/) discontinued
 [skyline-emu/skyline: Run Nintendo Switch homebrew & games on your Android device!](https://github.com/skyline-emu/skyline)
+
+[Dumping Decryption Keys from a Switch Console - yuzu](https://yuzu-emu.org/wiki/dumping-decryption-keys-from-a-switch-console/)
+[Dumping Title Keys - NH Switch Guide](https://nh-server.github.io/switch-guide/extras/dumping_title_keys/)
 
 ## N64
 

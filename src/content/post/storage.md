@@ -21,12 +21,14 @@ tags:
 [SSD vs. HDD: Choosing between solid-state and hard-disk drives | Network World](https://www.networkworld.com/article/3482988/ssd-vs-hdd-how-to-choose-between-solid-state-drives-and-hard-disk-drives.html)
 [Solid State vs. Hard Disk: Differences Between SSD and HDD](https://www.backblaze.com/blog/hdd-versus-ssd-whats-the-diff/)
 
-## Platter Drive
+## Platter Drive/Magnetic Drive
 
 [Hard Drive Test Data - Determining Failure Rates and More](https://www.backblaze.com/b2/hard-drive-test-data.html)
 
 [Western Digital Green vs. Red Hard Drives - Puget Custom Computers](https://www.pugetsystems.com/labs/articles/Western-Digital-Green-vs-Red-Hard-Drives-602/)
 [Seagate Exos X20 and IronWolf Pro 20TB Expand Retail 20TB HDD Options](https://www.anandtech.com/show/17099/seagate-exos-x20-and-ironwolf-pro-20tb-expand-retail-20tb-hdd-options) 2021-12
+
+[Exos vs IronWolf Pro - Which is the best HDD option for your NAS? - YouTube](https://www.youtube.com/watch?v=UFDF39TRsl0)
 
 Cable doesn't matter:
 [SATA 3Gb/s vs. 6Gb/s Cable Performance (Revisited) - Puget Custom Computers](https://www.pugetsystems.com/labs/articles/SATA-3Gb-s-vs-6Gb-s-Cable-Performance-Revisited-183/)

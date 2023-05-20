@@ -31,9 +31,12 @@ tags:
 
 [Monica: An Open-Source App for Personal Relationship Management](https://itsfoss.com/monica/)
 
-## Generic Data Model
+## Headless CMS/Generic Data Model
 
 > headless, API for data, database wrapper
+
+[An overview of headless CMS for blogfolio in 2022](https://hungvu.tech/headless-cms-for-portfolio-and-blogs)
+[Strapi vs Directus vs Payload, Headless CMS Comparison](https://hungvu.tech/strapi-vs-directus-vs-payload-headless-cms-comparison)
 
 [[appsmith-cms]]
 [[directus-cms]]
@@ -71,11 +74,6 @@ docker run -d --name baserow \
 [NocoDB | Turns your SQL database into a Nocode platform. Free & Open Source.](https://www.nocodb.com/)
 [NocoDB Documentation - NocoDB](https://docs.nocodb.com/)
 [nocodb/nocodb: 🔥 🔥 🔥 Open Source Airtable Alternative](https://github.com/nocodb/nocodb)
-
-### KeystoneJS
-
-[KeystoneJS](https://keystonejs.com/)
-[keystonejs/keystone: node.js cms and web app framework](https://github.com/keystonejs/keystone)
 
 ### Tina
 
@@ -125,6 +123,7 @@ Tina is an open-source site editing toolkit for React-based frameworks — Gatsb
 [Welcome | Lektor Static Content Management System](https://www.getlektor.com/) flat-file database
 
 [Grav - A Modern Flat-File CMS | Grav CMS](https://getgrav.org/) flat-file database
+[Basics | Grav Documentation](https://learn.getgrav.org/)
 
 ### Django CMS
 
@@ -198,7 +197,7 @@ Tina is an open-source site editing toolkit for React-based frameworks — Gatsb
 [Craft CMS](https://craftcms.com/) blog, Twig template or bring you own with GraphQL
 [What I Like About Craft CMS | CSS-Tricks](https://css-tricks.com/what-i-like-about-craft-cms/)
 
-[API-first Headless CMS to Build Instant GraphQL Content APIs | GraphCMS](https://graphcms.com/) generic data model
+[The Next Generation GraphQL Content Platform | Hygraph](https://hygraph.com/) previously GraphCMS, generic data model
 [Building with SvelteKit and GraphCMS - Jamstack Explorers](https://explorers.netlify.com/learn/building-with-sveltekit-and-graphcms)
 
 [API-First CMS to Power All Digital Products | Contentful](https://www.contentful.com/) blog

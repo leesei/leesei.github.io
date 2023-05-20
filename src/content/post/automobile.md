@@ -173,9 +173,17 @@ Toyota owns brands such as Hino, Lexus, Ranz, and Daihatsu.
 
 [為什麼的士都是豐田 TOYOTA | 計程車都會自動開門？| 皇冠 CROWN 的發展 (廣東話/正體中文字幕) - YouTube](https://www.youtube.com/watch?v=Yh32zfldpVA)
 
+## Electric/Hybrid Cars
+
+Engineering Explained
+[Electric and Hybrid Cars - YouTube](https://www.youtube.com/playlist?list=PL2ir4svMoaYj48N0VWoic25P9LaU2wlbA)
+
 ## Vehicle Autonomy
 
 [The 6 Levels of Vehicle Autonomy Explained | Synopsys Automotive](https://www.synopsys.com/automotive/autonomous-driving-levels.html)
+[A Primer to the 6 Levels of Autonomous Driving | Electronics360](https://electronics360.globalspec.com/article/11594/a-primer-to-the-6-levels-of-autonomous-driving)
+[Explanation of the 6 Levels of Driving Automation](https://blog.rgbsi.com/6-levels-of-driving-automation)
+
 [无人驾驶出租车 落地深圳 已成现实「SIGNOW」 - YouTube](https://www.youtube.com/watch?v=NQHLx2U8HU0)
 [The Truth About Self Driving Cars - YouTube](https://www.youtube.com/watch?v=d5TiaIYdug4)
 
@@ -185,6 +193,8 @@ Toyota owns brands such as Hino, Lexus, Ranz, and Daihatsu.
 [comma.ai](https://comma.ai/)
 [Self-Driving Engineering with George Hotz - Software Engineering Daily](https://softwareengineeringdaily.com/2018/08/08/self-driving-engineering-with-george-hotz/)
 [commaai/opendbc: democratize access to car decoder rings](https://github.com/commaai/opendbc)
+
+[烧光 131 亿，被王传福痛骂的“吸血鬼”，原形毕露-36 氪](https://36kr.com/p/2244679707324549)
 
 ## CAN bus
 

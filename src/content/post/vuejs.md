@@ -89,6 +89,11 @@ v-on:eventName="expression" @eventName="expression"
 
 [Introduction · vue-loader](https://vue-loader-v14.vuejs.org/en/)
 
+### Vitesse
+
+[Vitesse](https://vitesse.netlify.app/)
+[antfu/vitesse: 🏕 Opinionated Vite + Vue Starter Template](https://github.com/antfu/vitesse)
+
 ### Plugin
 
 [Plugins | Vite](https://vitejs.dev/plugins/)

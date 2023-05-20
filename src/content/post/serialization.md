@@ -131,6 +131,8 @@ tags:
 [JSON-LD - JSON for Linking Data](https://json-ld.org/)
 [digitalbazaar/jsonld.js: A JSON-LD Processor and API implementation in JavaScript](https://github.com/digitalbazaar/jsonld.js)
 
+[List of JSON tools for command line – Ilya's blog](https://ilya-sher.org/2018/04/10/list-of-json-tools-for-command-line/)
+
 [msgspec](https://jcristharif.com/msgspec/)
 [ijl/orjson: Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy](https://github.com/ijl/orjson)
 [Faster, more memory-efficient Python JSON parsing with msgspec](https://pythonspeed.com/articles/faster-python-json-parsing/)

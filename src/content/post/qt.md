@@ -249,12 +249,40 @@ The name of the project is **Qt for Python** and the name of the module is **PyS
 
 ## Felgo
 
-[Felgo: Build Native Cross-Platform Apps and Games. Rapidly.](https://felgo.com/)
+[Felgo: Build Native Cross-Platform Apps and Games. Rapidly.](https://felgo.com/) personal use, annual turnover < €50k
 [Felgo - Wikiwand](https://www.wikiwand.com/en/Felgo)
 
 ## Compilation
 
 > see `raspberry-pi.md#cross-compile-qt5`
+
+[At last, let's build Qt statically | Declaration of VAR](https://decovar.dev/blog/2018/02/17/build-qt-statically/)
+
+### vcpkg
+
+[Building a Qt Application with Modern CMake and vcpkg - YouTube](https://www.youtube.com/watch?v=XBzZidHf5OY)
+[Using Qt5 installed via VCPKG in Visual Studio for C++ - Stack Overflow](https://stackoverflow.com/questions/61048049/using-qt5-installed-via-vcpkg-in-visual-studio-for-c)
+
+[How do I build Qt? · Issue #23977 · microsoft/vcpkg](https://github.com/microsoft/vcpkg/issues/23977) you probably don't need all qt
+
+[QtMultimedia, FFMpeg, Gstreamer: comparing multimedia frameworks | UlduzSoft](https://www.ulduzsoft.com/2016/06/qtmultimedia-ffmpeg-gstreamer-comparing-multimedia-frameworks/)
+[Multimedia: Which is better: FFmpeg or GStreamer? Why? - Quora](https://www.quora.com/Multimedia-Which-is-better-FFmpeg-or-GStreamer-Why)
+
+```powershell
+vcpkg depend-info qt:x64-windows
+vcpkg depend-info qtbase:x64-windows
+```
+
+```powershell
+qtbase[brotli, concurrent, default-features, sql-sqlite, freetype, jpeg, dbus, gui, doubleconversion, harfbuzz, icu, network, opengl, openssl, pcre2, png, sql, sql-psql, testlib, thread, widgets, zstd]
+qttools[assistant, linguist, designer]
+
+qttranslations
+qtsvg
+qtmultimedia[ffmpeg, gstreamer, qml, widgets]
+qtimageformats # jp2k, tiff, webp
+qtdeclarative  # QtQuick 2
+```
 
 ### Linux Native
 
@@ -271,5 +299,3 @@ $ make -j$(nproc)
 ### Cross compile (Windows)
 
 [qt5 - Building Qt 5 on Linux, for Windows - Stack Overflow](https://stackoverflow.com/questions/14170590/building-qt-5-on-linux-for-windows/14170591)
-
-[Using Qt5 installed via VCPKG in Visual Studio for C++ - Stack Overflow](https://stackoverflow.com/questions/61048049/using-qt5-installed-via-vcpkg-in-visual-studio-for-c)

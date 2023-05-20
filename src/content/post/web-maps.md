@@ -5,6 +5,7 @@ created: 2016-04-23
 tags:
   - maps
   - web
+  - tiled-image
 ---
 
 [GeoServer Cookbook - Stefano Iacovella - Google Books](https://books.google.com.hk/books?id=oMaiBQAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)

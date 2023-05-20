@@ -11,8 +11,6 @@ tags:
   - web-framework
 ---
 
-# FastAPI
-
 [FastAPI](https://fastapi.tiangolo.com/)
 [tiangolo/fastapi: FastAPI framework, high performance, easy to learn, fast to code, ready for production](https://github.com/tiangolo/fastapi) Starlette + Pydantic + OpenAPI doc
 

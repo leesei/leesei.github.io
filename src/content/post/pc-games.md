@@ -53,6 +53,8 @@ tags:
 
 ## Game Manager/Launcher
 
+[10 STEAM features you didn't know about. - YouTube](https://www.youtube.com/watch?v=dzkULjGtIdk)
+
 [SteamGridDB Manager - SteamGridDB](https://www.steamgriddb.com/manager)
 
 [Playnite - video game library manager](https://playnite.link/) includes emulator
@@ -242,7 +244,7 @@ Grey markets:
 [Xbox Settings](https://account.xbox.com/en-us/Settings/Home/) change account region
 
 [Everything You Need To Know About Xbox Game Pass](https://gamerant.com/xbox-game-pass-explained/)
-[The Best Games On Xbox Game Pass (April 2022)](https://gamerant.com/best-games-xbox-game-pass/)
+[The Best Games On Xbox Game Pass](https://gamerant.com/best-games-xbox-game-pass/)
 [Best Kids Games On Xbox Game Pass](https://gamerant.com/xbox-game-pass-best-kids-games/)
 [Best Local Co-Op & Split-Screen Games On Xbox Game Pass](https://gamerant.com/best-coop-splits-screen-games-xbox-game-pass/)
 [Co-Optimus - Your Prime Source for Co-Op Gaming - Listing of PC Co-Op Games](https://www.co-optimus.com/system/4/pc.html)
@@ -357,6 +359,8 @@ It's easier to use steamtinkerlaunch as launcher for more customization.
 [Vortex - Nexus mods manager](https://www.nexusmods.com/about/vortex/)
 [Games and mods development for Windows, Linux and Mac - Mod DB](http://www.moddb.com/)
 [单机游戏*单机游戏下载\_3DMGAME*中国第一单机游戏论坛 - Powered by Discuz!](http://bbs.3dmgame.com/forum.php)
+
+[Steam Workshop Downloader :: IO](https://steamworkshopdownloader.io/)
 
 ### Fixing HDMI no audio on Intel NUC
 

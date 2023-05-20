@@ -126,6 +126,7 @@ John Vlissides: <http://en.wikipedia.org/wiki/John_Vlissides>
 [Uncle Bob's SOLID principles made easy 🍀 - in Python! - YouTube](https://www.youtube.com/watch?v=pTB30aXS77U)
 [This is the Only Right Way to Write React clean-code - SOLID - YouTube](https://www.youtube.com/watch?v=MSq_DCRxOxw)
 [5 Principles that will make you a SOLID JavaScript Developer](http://thefullstack.xyz/solid-javascript/)
+[SOLID Principles: Improve Object-Oriented Design in Python – Real Python](https://realpython.com/solid-principles-python/)
 
 S: Single Responsibility Principle
 O: Open-Closed Principle
@@ -201,7 +202,10 @@ Dependency Inversion: a design pattern to create abstract class for dependency t
 [Keynote: CUPID ‒ for joyful coding! | Daniel Terhorst-North | JAX Online 2021 - YouTube](https://www.youtube.com/watch?v=knNaUSLhx-U)
 [Daniel Terhorst-North - SOLID vs. CUPID - YouTube](https://www.youtube.com/watch?v=2QahGarHpXQ)
 
-[CUPID—the back story - Dan North & Associates Ltd](https://dannorth.net/2021/03/16/cupid-the-back-story/)
+[CUPID—the back story - Dan North & Associates Ltd](https://dannorth.net/2021/03/1upid-the-back-story/)
+
+[Where the Unix philosophy breaks down](https://www.johndcook.com/blog/2010/06/30/where-the-unix-philosophy-breaks-down/)
+transaction costs: transformation of output of upstream to fit downstream
 
 ## GRASP Principles
 
@@ -279,8 +283,6 @@ MVP is not as flexible as MVVM as the Presenter can only exist with a View.
 
 [Model–view–controller - Wikiwand](https://www.wikiwand.com/en/Model%E2%80%93view%E2%80%93controller)
 [Model–view–viewmodel - Wikiwand](https://www.wikiwand.com/en/Model%E2%80%93view%E2%80%93viewmodel)
-[Hexagonal Architecture: What Is It and How Does It Work? - NDepend](https://blog.ndepend.com/hexagonal-architecture/)
-[Hexagonal Architecture - DEV Community](https://dev.to/abh1navv/hexagonal-architecture-3ocl)
 [Android Architecture Components | Android Developers](https://developer.android.com/topic/libraries/architecture)
 
 A proper Model is ignorant of the ViewModel, and a proper ViewModel is ignorant of the View. However, often a programmer tailors the data types exposed by the ViewModel to the data types associated with particular user interfaces.

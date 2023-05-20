@@ -225,6 +225,8 @@ rustc --print cfg
 
 [Kindelia/HVM: A massively parallel, optimal functional runtime in Rust](https://github.com/Kindelia/HVM)
 
+[Winning the fight against the Rust compiler (Coherence in Rust, feat. rustc sources)](https://ohadravid.github.io/posts/2023-05-coherence-and-errors/) only allow one specific implementation, compiler hacking
+
 ### Conditional Compiling
 
 [The Manifest Format - The Cargo Book](https://doc.rust-lang.org/cargo/reference/manifest.html#the-features-section)
@@ -475,21 +477,22 @@ use log::{debug, error, info, trace, warn};
 Docs that is available locally with `rustup doc`
 
 First party
-[The Rust Programming Language - The Rust Programming Language](https://doc.rust-lang.org/book/index.html) The Book
+[The Rust Programming Language](https://doc.rust-lang.org/book/index.html) The Book
 [Experiment Introduction - The Rust Programming Language](https://rust-book.cs.brown.edu/) The Book with exercises
 [Rust By Example](https://doc.rust-lang.org/rust-by-example/index.html)
 [The Edition Guide](https://doc.rust-lang.org/stable/edition-guide/introduction.html)
-[Overview - Rust Forge](https://forge.rust-lang.org/)
+[Rust Forge](https://forge.rust-lang.org/)
 [The Rust Reference](https://doc.rust-lang.org/stable/reference/index.html)
-[Table of Contents - Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
+[Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
 
-[About - Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)
+[Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)
 [The Rustonomicon](https://doc.rust-lang.org/nomicon/) unsafe Rust
 [What is rustdoc? - The rustdoc book](https://doc.rust-lang.org/rustdoc/index.html)
 [What is rustc? - The rustc book](https://doc.rust-lang.org/rustc/index.html)
+[Rust Compiler Development Guide](https://rustc-dev-guide.rust-lang.org/)
 [Rust Compiler Error Index](https://doc.rust-lang.org/error-index.html)
-[Getting started - Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)
-[Getting Started - Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
+[Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)
+[Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
 [Rust RFCs](https://rust-lang.github.io/rfcs/)
 
 [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/README.html)

@@ -229,7 +229,9 @@ Some test runners take the features and generate test scripts in various languag
 
 [Write Async Test Case by gtest & gmock for C++ | Thinking beyond Source Code](http://www.thinksrc.com/2016/03/18/write-async-test-case-by-gtest-gmock-for-c.html)
 
-## [[ui-automation]]
+## UI Automation
+
+[[ui-automation]]
 
 ## HTTP endpoint
 

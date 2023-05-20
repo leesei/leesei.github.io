@@ -149,6 +149,7 @@ seneca-in-practice
 [Cogito - YouTube](https://www.youtube.com/c/CogitoEdu)
 [ColdFusion - YouTube](https://www.youtube.com/c/ColdFusion)
 [Computerphile - YouTube](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
+[Cleo Abram - YouTube](https://www.youtube.com/@CleoAbram) HUGE if true stories
 [Creative Construction Channel - YouTube](https://www.youtube.com/channel/UCJHtuBm9bkqSYHbNZTiHycA)
 [engineerguy - YouTube](https://www.youtube.com/channel/UC2bkHVIDjXS7sgrgjFtzOXQ)
 [Every Think - YouTube](https://www.youtube.com/channel/UCGI000V6ZIAQf97MNybAaLQ)

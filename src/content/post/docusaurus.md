@@ -7,9 +7,8 @@ tags:
   - web
 ---
 
-# Docusaurus
-
 [Build optimized websites quickly, focus on your content | Docusaurus](https://docusaurus.io/) MDX + React
+[Markdown Features | Docusaurus](https://docusaurus.io/docs/markdown-features)
 [docusaurus - CodeSandbox](https://codesandbox.io/s/docusaurus)
 
 [Awesome Resources | Docusaurus](https://docusaurus.io/community/resources)
@@ -25,18 +24,27 @@ tags:
 [docusaurus/sidebars.js at main · facebook/docusaurus](https://github.com/facebook/docusaurus/blob/main/website/sidebars.js)
 [docusaurus/website/docs at main · facebook/docusaurus](https://github.com/facebook/docusaurus/tree/main/website/docs)
 
+I would recommend using file name (`1-topic.md`) for sidebar order rather than using frontmatter.
+
 ## Customization
 
 [Infima | Infima](https://infima.dev/) bundled CSS framework
 [Styling and Layout | Docusaurus](https://docusaurus.io/docs/styling-layout)
 
 [Swizzling | Docusaurus](https://docusaurus.io/docs/swizzling)
-[docusaurus/packages/docusaurus-theme-classic/src/theme at main · facebook/docusaurus](https://github.com/facebook/docusaurus/tree/main/packages/docusaurus-theme-classic/src/theme)
+[docusaurus/packages/docusaurus-theme-classic/src/theme at main · facebook/docusaurus](https://github.com/facebook/docusaurus/tree/main/packages/docusaurus-theme-classic/src/theme) components available in default theme
+
+Variables in MDX: `frontMatter`, `metadata`
+[Feature: referencing variables from markdown pages (placeholder substitution) · Issue #395 · facebook/docusaurus](https://github.com/facebook/docusaurus/issues/395)
+[Interpolate variables in the MDX · Issue #5700 · facebook/docusaurus](https://github.com/facebook/docusaurus/issues/5700)
+
 `yarn run swizzle @docusaurus/theme-classic -- --list`
 [🙏 Report your customization use-cases 🙏 · Discussion #5468 · facebook/docusaurus](https://github.com/facebook/docusaurus/discussions/5468)
 
 [Docusaurus themes | Docusaurus](https://docusaurus.io/docs/api/themes)
 [Theme gallery · Issue #3522 · facebook/docusaurus](https://github.com/facebook/docusaurus/issues/3522)
+
+[Access to docs metadata from individual doc pages · Issue #6302 · facebook/docusaurus](https://github.com/facebook/docusaurus/issues/6302) add frontmatter to docs data
 
 ## Examples
 

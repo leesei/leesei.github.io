@@ -125,9 +125,6 @@ Vite and Next.js replaced it with more features
 
 [Vite + **\_\_\_\_\_** | CSS-Tricks - CSS-Tricks | CSS-Tricks](https://css-tricks.com/vite-plus-blank/)
 
-[Getting started with Alpine.js and TypeScript - DEV Community](https://dev.to/wtho/get-started-with-alpinejs-and-typescript-4dgf)
-[Vite 3.0 vs. Create React App - LogRocket Blog](https://blog.logrocket.com/vite-3-vs-create-react-app-comparison-migration-guide/)
-
 [A deep-dive on Vite featuring Evan You (JS Party #212) |> Changelog](https://changelog.com/jsparty/212)
 [Vitest && Slidev with Anthony Fu && Patak (JS Party #214) |> Changelog](https://changelog.com/jsparty/214)
 
@@ -221,8 +218,6 @@ Uses convention in `package.json` to specify output:
 "source": "src/foo.js",         // custom entry module (same as 1st arg to microbundle)
 "types": "dist/foo.d.ts",       // TypeScript typings
 ```
-
----
 
 # FuseBox
 

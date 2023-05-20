@@ -7,9 +7,7 @@ tags:
   - lua
 ---
 
-# Lua
-
-[Lua (programming language) - Wikiwand](https://www.wikiwand.com/en/Lua_(programming_language%29)
+[Lua (programming language) - Wikiwand](<https://www.wikiwand.com/en/Lua_(programming_language)>)
 
 [The Programming Language Lua](http://www.lua.org/)
 [Lua: version history](http://www.lua.org/versions.html)

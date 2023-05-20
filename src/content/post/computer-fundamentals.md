@@ -9,6 +9,9 @@ tags:
 
 # Computer Fundamentals
 
+[Computer Science - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+[How do computers read code? - YouTube](https://www.youtube.com/watch?v=QXjU9qTsYCc) compiling source code to machine code
+
 [Programming Languages - YouTube](https://www.youtube.com/playlist?list=PL7141DE955793D3F0)
 [Hardware Basics - YouTube](https://www.youtube.com/watch?v=9-KUm9YpPm0)
 [Operating System Basics - YouTube](https://www.youtube.com/watch?v=9GDX-IyZ_C8)
@@ -42,9 +45,10 @@ Computerphile
 
 ## How program runs
 
-[Executable and Linkable Format - Wikiwand](https://www.wikiwand.com/en/Executable_and_Linkable_Format)
-[In-depth: ELF - The Extensible & Linkable Format - YouTube](https://www.youtube.com/watch?v=nC1U1LJQL8o)
-[CppCon 2018: Matt Godbolt “The Bits Between the Bits: How We Get to main()” - YouTube](https://www.youtube.com/watch?v=dOfucXtyEsU)
+[[reverse-engineering#ELF]]
+[[reverse-engineering#PE format]]
+
+[CppCon 2018: Matt Godbolt “The Bits Between the Bits: How We Get to main()” - YouTube](https://www.youtube.com/watch?v=dOfucXtyEsU) ELF
 
 [Chris's Wiki :: blog/linux/32BitProgramOn64BitSystem](https://utcc.utoronto.ca/~cks/space/blog/linux/32BitProgramOn64BitSystem)
 

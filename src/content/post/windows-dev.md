@@ -439,7 +439,9 @@ Windows Community Toolkit, Windows Only
 
 #### MVVM Light
 
-[MVVM Light Toolkit](http://www.mvvmlight.net/) deprecated, use mvvm-toolkit
+> DEPRECATED, use `mvvm-toolkit`
+
+[MVVM Light Toolkit](http://www.mvvmlight.net/)
 [MVVM Light Toolkit - Documentation](http://www.mvvmlight.net/doc)
 [Getting Started With MVVM Light With WPF](https://www.c-sharpcorner.com/article/getting-started-with-mvvm-light-with-wpf/)
 [WPF MVVM Introduction](http://dotnetpattern.com/wpf-mvvm-introduction)
@@ -588,7 +590,7 @@ SwapChain is not usable in WPF application, where the framework is doing the pre
 [WPF 使用 SharpDX 在 D3DImage 显示](https://blog.lindexi.com/post/WPF-%E4%BD%BF%E7%94%A8-SharpDX-%E5%9C%A8-D3DImage-%E6%98%BE%E7%A4%BA.html#%E7%94%BB%E5%87%BA%E6%9D%A5) Control Rendering
 [WPF 使用封装的 SharpDx 控件](https://blog.lindexi.com/post/WPF-%E4%BD%BF%E7%94%A8%E5%B0%81%E8%A3%85%E7%9A%84-SharpDx-%E6%8E%A7%E4%BB%B6.html)
 
-[SlimDX/slimdx: Automatically exported from code.google.com/p/slimdx](https://github.com/SlimDX/slimdx) deprecated
+[SlimDX/slimdx: Automatically exported from code.google.com/p/slimdx](https://github.com/SlimDX/slimdx) DEPRECATED
 [RichardsSoftware.net - SlimDX DirectX 11 Tutorials](http://richardssoftware.net/Home/DirectX11Tutorials)
 
 [NuGet Gallery | MediaFoundation 3.1.0](https://www.nuget.org/packages/MediaFoundation/)

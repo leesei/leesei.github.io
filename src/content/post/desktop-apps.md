@@ -21,6 +21,8 @@ For the softwares I install on my system, see [[arch-packages]].
 
 [Migrating to open-source technologies | CERN](https://home.cern/news/news/computing/migrating-open-source-technologies)
 
+[xCyclopedia | Introduction | STRONTIC](https://strontic.github.io/xcyclopedia/intro) The Encyclopedia of (Windows) Executables
+[An A-Z Index of Windows CMD commands - SS64.com](https://ss64.com/nt/)
 [PortableApps.com - Portable software for USB, portable, and cloud drives](http://portableapps.com/) Portable Windows Apps
 
 [Software for a command-line world | Brain droppings](http://tim.thechases.com/posts/cli/software-for-a-command-line-world/)
@@ -412,7 +414,7 @@ TL;DR: use VSCode and skip this session
 [Sourcetrail is now free and open-source software – Sourcetrail Developer Blog](https://www.sourcetrail.com/blog/open_source/)
 
 [Komodo Edit | Komodo IDE](http://komodoide.com/komodo-edit/)
-[Lime Text | About](https://limetext.github.io/) open source implementation of Sublime Text, in beta
+[Lime Text | About](https://limetext.github.io/) open source implementation of Sublime Text, last update 2021
 [Light Table](http://lighttable.com/) inline evaluation
 [JoelOtter/kajero: Interactive JavaScript notebooks with clever graphing](https://github.com/JoelOtter/kajero)
 
@@ -1175,7 +1177,7 @@ lspci -v -s $(lspci | grep VGA | cut -f1 -d' ')
 
 ## Automation
 
-> `dev-testing.md#ui-automation`
+[[ui-automation]]
 
 [Best free Automation software for Windows 10](https://www.thewindowsclub.com/best-free-automation-software-for-windows-10/amp)
 

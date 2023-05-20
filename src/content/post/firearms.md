@@ -6,7 +6,7 @@ tags:
   - weapons
 ---
 
-> TODO: separate out `military` > [Armoured fighting vehicle - Wikiwand](https://www.wikiwand.com/en/Armoured_fighting_vehicle)
+> TODO: separate out `military`/[Armoured fighting vehicle](https://www.wikiwand.com/en/Armoured_fighting_vehicle)?
 
 [Firearm - Wikiwand](https://www.wikiwand.com/en/Firearm)
 [History of the firearm - Wikiwand](https://www.wikiwand.com/en/History_of_the_firearm)

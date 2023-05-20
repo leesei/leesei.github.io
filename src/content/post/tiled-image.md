@@ -4,6 +4,7 @@ description: ""
 created: 2016-04-08
 tags:
   - web
+  - tiled-image
 ---
 
 [Mipmap - Wikiwand](https://www.wikiwand.com/en/Mipmap)

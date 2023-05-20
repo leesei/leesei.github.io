@@ -332,7 +332,7 @@ May need [puppetlabs/showoff](https://github.com/puppetlabs/showoff)
 
 ## Tips and Tricks
 
-[First Aid git](http://firstaidgit.io/#/)
+[First Aid git](https://firstaidgit.spielmannspiel.com/#/)
 [First Aid Kit for Git | Learn Version Control with Git](https://www.git-tower.com/learn/git/first-aid-kit/)
 [git-tips/tips: Most commonly used git tips and tricks.](https://github.com/git-tips/tips)
 [nirajpandkar/git-tip: CLI that gives a random git-tip.](https://github.com/nirajpandkar/git-tip)

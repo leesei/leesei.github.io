@@ -11,8 +11,6 @@ tags:
   - web-deploy
 ---
 
-# Rancher
-
 [Your Enterprise Kubernetes Platform | Rancher Labs](https://rancher.com/)
 [Rancher | 全栈化容器管理平台](http://www.cnrancher.com/)
 [What-is-rancher | Rancher Labs](https://rancher.com/what-is-rancher/)

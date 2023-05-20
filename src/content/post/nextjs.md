@@ -40,6 +40,7 @@ npx build && npx export -o build/ # static HTML (SSG) without need of app server
 [Next.js from the Ground Up - Jamstack Explorers](https://explorers.netlify.com/learn/nextjs)
 [Next.js Crash Course for Beginners 2021 - Learn NextJS from Scratch in this 100% Free Tutorial! - YouTube](https://www.youtube.com/watch?v=MFuwkrseXVE)
 [Tag Archive nextjs](https://daily-dev-tips.com/tags/nextjs/)
+[How To Build Backends-for-Frontends in NextJS | JavaScript in Plain English](https://javascript.plainenglish.io/the-backend-for-frontend-pattern-using-nextjs-a-step-by-step-guide-c7291fbc225f)
 
 [Next step after Node.js: Framework for 'universal' JavaScript apps | InfoWorld](http://www.infoworld.com/article/3136337/javascript/next-step-after-nodejs-framework-for-universal-javascript-apps.html)
 [We migrated to Next.js to serve our home page 7.5× faster](https://blog.manifold.co/we-migrated-to-next-js-to-serve-our-home-page-7-5-faster-559443219c84)
@@ -81,6 +82,7 @@ npx build && npx export -o build/ # static HTML (SSG) without need of app server
 [NextJS 13 - First Look at the /app Folder & Complete Demo - YouTube](https://www.youtube.com/watch?v=bDDuLuCqHg0)
 
 [Server-side data fetching in Next.js 12 vs. 13 - YouTube](https://www.youtube.com/watch?v=i8PsGvDas-s)
+[How To Fix NextJS 13's N+1 Problem - YouTube](https://www.youtube.com/watch?v=FfHsIio4aCU)
 
 [Next.js 13.1 Explained! - YouTube](https://www.youtube.com/watch?v=_q1K7cybyRk)
 [Using Fonts in Next.js (Google Fonts, Local Fonts, Tailwind CSS) - YouTube](https://www.youtube.com/watch?v=L8_98i_bMMA)
@@ -225,7 +227,6 @@ This new and improved image component requires less client-side JavaScript and s
 
 [Get Started with Blitz](https://blitzjs.com/docs/get-started)
 [Why use Blitz instead of Next.js?](https://blitzjs.com/docs/why-blitz)
-[Complete Intro to Blitz.js (Beta Preview, Jan 31, 2021) - YouTube](https://www.youtube.com/watch?v=UHyx8MtCVVk)
 
 [Introduction to Blitz.js. Yet another framework on the block. It… | by Chidume Nnamdi 🔥💻🎵🎮 | Bits and Pieces](https://blog.bitsrc.io/introduction-to-blitz-js-ff1e48ea5714)
 [Intro to Blitz.js: A full-stack framework for Next.js | InfoWorld](https://www.infoworld.com/article/3673088/intro-to-blitzjs-a-full-stack-framework-for-nextjs.html)

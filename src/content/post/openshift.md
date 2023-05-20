@@ -11,8 +11,6 @@ tags:
   - shell-tool
 ---
 
-# OpenShift
-
 OpenShift Origin is the upstream community project that backs Red Hat's [OpenShift Online](https://www.openshift.com/) service.
 [OpenShift vs Kubernetes: what are the differences?](https://www.imaginarycloud.com/blog/openshift-vs-kubernetes-differences/)
 

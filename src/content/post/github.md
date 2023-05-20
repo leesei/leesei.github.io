@@ -153,6 +153,10 @@ rm -rf node_modules/gh-pages/.cache
 [Introducing Copilot for VS Code – AngularDoc – Medium](https://medium.com/angulardoc/introducing-copilot-for-vs-code-c1b1a16bdd21)
 [前端工程师的必备 VS Code 插件 -- Copilot - 知乎](https://zhuanlan.zhihu.com/p/62929504)
 
+[GitHub Copilot Archives | The GitHub Blog](https://github.blog/tag/github-copilot/)
+[How I used GitHub Copilot to build a browser extension | The GitHub Blog](https://github.blog/2023-05-12-how-i-used-github-copilot-to-build-a-browser-extension/)
+[blackgirlbytes/rock-paper-scissors-copilot: This is a self-guided tutorial to help folks learn how to use GitHub Copilot using the CodeTour extension to build a rock, paper, scissors game](https://github.com/blackgirlbytes/rock-paper-scissors-copilot)
+
 ### Copilot Labs
 
 [GitHub Next | GitHub Copilot Labs](https://githubnext.com/projects/copilot-labs)
@@ -161,6 +165,8 @@ rm -rf node_modules/gh-pages/.cache
 [GitHub Copilot Labs - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs)
 
 ### Alternatives
+
+[Github Copilot and ChatGPT alternatives - The Pragmatic Engineer](https://blog.pragmaticengineer.com/github-copilot-alternatives/)
 
 [Bito](https://bito.ai/)
 [【永久免费 ChatGPT4 编程 AI 助手】Bito AI VSCode 扩展对话式生成代码 10 倍提高开发效率 可平替 Github Copilot - YouTube](https://www.youtube.com/watch?v=UvGUAn5ua3c)

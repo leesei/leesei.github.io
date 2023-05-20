@@ -115,6 +115,8 @@ task runner for browser tests:
 [microsoft/playwright: Node.js library to automate Chromium, Firefox and WebKit with a single API](https://github.com/microsoft/playwright)
 [microsoft/playwright-sharp: .NET version of the Playwright testing and automation library.](https://github.com/microsoft/playwright-sharp)
 
+[nearform/playwright-setup: Barebones playwright testing framework](https://github.com/nearform/playwright-setup)
+
 [Mastering Web Scraping in Python: Avoid Blocking Like a Ninja - ZenRows](https://www.zenrows.com/blog/stealth-web-scraping-in-python-avoid-blocking-like-a-ninja)
 
 ## Python

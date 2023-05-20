@@ -194,7 +194,7 @@ Some thoughts are on general methodology
 
 ## VSCode
 
-[svsool/memo: Markdown knowledge base with bidirectional [[link]]s built on top of VSCode](https://github.com/svsool/memo)
+[svsool/memo: Markdown knowledge base with bidirectional [link]s built on top of VSCode](https://github.com/svsool/memo)
 
 ### Foam
 

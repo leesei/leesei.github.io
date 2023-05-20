@@ -9,7 +9,7 @@ tags:
 
 Compared with Node.js, Python has more "batteries" included and we can write functional script without external dependencies. This is a great boom for deployment.
 
-It's also easier to create a single binary with all dependencies bundled for distribution, see [[python-settings#Package as Exe/Freezing]].
+It's also easier to create a single binary with all dependencies bundled for distribution, see [[python-settings#Packaging Application/Freezing]].
 
 [Welcome to Python.org](https://www.python.org/)
 [Python Insider](https://blog.python.org/)
@@ -22,12 +22,6 @@ It's also easier to create a single binary with all dependencies bundled for dis
 [filiplajszczak/awesome-zen-of-python: awesome list of so called python philosophy resources](https://github.com/filiplajszczak/awesome-zen-of-python)
 [The Zen Of Python Is A Joke And Here Is Why (You Should Not Take It Too Seriously) - DEV Community](https://dev.to/abdurrahmaanj/the-zen-of-python-is-a-joke-and-here-is-why-you-should-not-take-it-too-seriously-508d)
 [Clean Code in Python | TestDriven.io](https://testdriven.io/blog/clean-code-python/)
-
-[A reverse chronology of some Python features](https://snarky.ca/a-reverse-chronology-of-some-python-features/)
-[Python 3.9: Cool New Features for You to Try – Real Python](https://realpython.com/python39-new-features/) type hinting generics in standard collections; union on `dict`
-[Cool New Features in Python 3.8 – Real Python](https://realpython.com/python38-new-features/) `:=` operator; positional-only parameters; `=` in f-strings
-[Cool New Features in Python 3.7 – Real Python](https://realpython.com/python37-new-features/) `dataclasses`; `asyncio`
-[Cool new features in Python 3.6 – dbader.org](https://dbader.org/blog/cool-new-features-in-python-3-6)
 
 All python code are executed statements, no such thing as declaration
 [Where is Python heading in 2018/19? When is version 4 coming out and what new features and improvements can we expect in next two years? - Quora](https://www.quora.com/Where-is-Python-heading-in-2018-19-When-is-version-4-coming-out-and-what-new-features-and-improvements-can-we-expect-in-next-two-years)
@@ -56,6 +50,16 @@ All python code are executed statements, no such thing as declaration
 [How we rolled out one of the largest Python 3 migrations ever – Dropbox Tech Blog](https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/)
 
 [Russell Keith-Magee - Keynote - PyCon 2019 - YouTube](https://youtu.be/ftP5BQh1-YM?t=1271) Black swan of Python
+
+## Features History
+
+[A reverse chronology of some Python features](https://snarky.ca/a-reverse-chronology-of-some-python-features/)
+[Python 3.11: Cool New Features for You to Try – Real Python](https://realpython.com/python311-new-features/) better error messages; performance improvements; better async syntax; TOML; ExceptionGroup
+[Python 3.10: Cool New Features for You to Try – Real Python](https://realpython.com/python310-new-features/) structural pattern matching; type unions, aliases guards;
+[Python 3.9: Cool New Features for You to Try – Real Python](https://realpython.com/python39-new-features/) type hinting generics in standard collections; union on `dict`
+[Cool New Features in Python 3.8 – Real Python](https://realpython.com/python38-new-features/) `:=` operator; positional-only parameters; `=` in f-strings
+[Cool New Features in Python 3.7 – Real Python](https://realpython.com/python37-new-features/) `dataclasses`; `asyncio`
+[Cool new features in Python 3.6 – dbader.org](https://dbader.org/blog/cool-new-features-in-python-3-6)
 
 ## Python on Windows
 

@@ -7,8 +7,6 @@ tags:
   - language
 ---
 
-# Esperanto
-
 [Esperanto - Wikiwand](https://www.wikiwand.com/en/Esperanto)
 [Esperanto – Esperanto: the international language](http://esperanto.net/en/)
 

@@ -129,6 +129,8 @@ Extensible:
 
 [prettier/prettier: Prettier is an opinionated code formatter.](https://github.com/prettier/prettier) uses unified for Markdown support
 
+[webhintio/markdown-link-validator: Validate markdown links](https://github.com/webhintio/markdown-link-validator/tree/main)
+
 ## Renderers
 
 [charmbracelet/glow: Render markdown on the CLI, with pizzazz! 💅🏻](https://github.com/charmbracelet/glow)

@@ -6,8 +6,6 @@ tags:
   - ""
 ---
 
-# ${1}
-
 [variable](https://code.visualstudio.com/docs/editor/userdefinedsnippets#_variables)
 
 [VS Code snippets page](https://code.visualstudio.com/docs/editor/userdefinedsnippets#_snippet-syntax)

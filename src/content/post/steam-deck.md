@@ -10,24 +10,34 @@ tags:
 
 Hardware:
 
-- Custom AMD Zen 2 4C8T, max 3.5GHz
-- 8 RDNA 2 CUs, 1.6TFlops
-- 16GB DDR4 RAM
+- Custom AMD Zen 2 4C8T, 2.4-3.5GHz, 8MB cache
+- 8CU RDNA2 @1.6G, 1.6TFlops
+- 4-15W
+- 16GB 5500MT LPDDR5 RAM
 - $3288 64GB eMMC, $529 256GB NVMe, $649 512GB NVMe
 - Two touch pads
-- WD SN740 1T $723.4 @2022-11
+- 7" 1280x800 IPS 400nit @30-60Hz VRR Touchscreen
+- WD SN740 1T M.2 2230 NVMe SSD $723.4 @2022-11
 - Lexar 256G R:150MB $150 @2022-11
+- 40Wh battery
+- SteamDeck beats other more powerful APU at 10W
 
 [Steam Deck](https://store.steampowered.com/steamdeck)
 [Steam Community :: Steam Deck](https://steamcommunity.com/app/1675200)
 [Steam Deck - Steam Deck Booklet - Steam News](https://store.steampowered.com/news/app/1675200/view/3401926123919972634)
+[AMD Steam Deck GPU Specs | TechPowerUp GPU Database](https://www.techpowerup.com/gpu-specs/steam-deck-gpu.c3897)
 
 [mikeroyal/Steam-Deck-Guide: Steam Deck Guide. Learn all about the Tools and Accessories that will make you Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation.](https://github.com/mikeroyal/Steam-Deck-Guide)
 [Steam Deck Gaming - YouTube](https://www.youtube.com/@SteamDeckGaming)
 
+[Steam Deck HQ](https://steamdeckhq.com/)
+[SDHQ - YouTube](https://www.youtube.com/@SDHQ)
+
 Gaming On Linux
 [Steam Deck Guides - YouTube](https://www.youtube.com/playlist?list=PLRikbCj_P-2Ghffnr_MPIGI3BcU2WfypW)
 [Steam Deck - YouTube](https://www.youtube.com/playlist?list=PLRikbCj_P-2EUNZMqzctEW5RElgCVaTBl)
+
+[Fan The Deck - YouTube](https://www.youtube.com/@FanTheDeck)
 
 [Steam Deck :: Deck Verified](https://www.steamdeck.com/en/verified)
 [Your Library on Deck](https://store.steampowered.com/steamdeck/mygames)
@@ -102,11 +112,24 @@ Gaming On Linux
 ## Emulation
 
 [EmuDeck - Emulators on Steam Deck and SteamOS](https://www.emudeck.com/)
-[Steam Deck Emulation Testing -- Six Months Later! - YouTube](https://www.youtube.com/watch?v=BBf15Z2xoiY)
-[Emulation MEGA Guide for Steam Deck (feat. EmuDeck) - YouTube](https://www.youtube.com/watch?v=AvzSHxccmIg)
-[Steam Deck Emulation (EmuDeck 2.0) Guide - YouTube](https://www.youtube.com/watch?v=rs9jDHIDKkU) [blog](https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/)
-[This Could Replace Every Device I Own - Massive Steam Deck Emulation Review - YouTube](https://www.youtube.com/watch?v=z3ovleZj65Y)
+[Home · dragoonDorise/EmuDeck Wiki](https://github.com/dragoonDorise/EmuDeck/wiki)
+
+[Steam Deck Emulation Starter Guide – Retro Game Corps](https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/)
+[The New EmuDeck is Here! Steam Deck Emulation Guide - YouTube](https://www.youtube.com/watch?v=Y5r2WZAImuY) 2023-04, EmuDeck 2.1, upgrade, EmulationStation
+[Steam Deck Emulation Testing -- Six Months Later! - YouTube](https://www.youtube.com/watch?v=BBf15Z2xoiY) 2022-09
+[How to install EmuDeck 2 and RetroDeck on the Steam Deck](https://overkill.wtf/emulation-nintendo-sony-steam-deck/)
+
+Fan The Deck
+[ULTIMATE Steam Deck Emulation Guide (EmuDeck 2.1) - YouTube](https://www.youtube.com/watch?v=Mfef3ZH2IgE) 2023-04
+[Switch Emulation (Yuzu) Guide for the Steam Deck - YouTube](https://www.youtube.com/watch?v=EimnTPVIj2U) 2023-05
+
+[Take down this video, Nintendo. I dare you. - Switch games on Steam Deck - YouTube](https://www.youtube.com/watch?v=oIYvPNtWZ34) Yuzu, high GPU mode no longer needed in 2023-05
+
+[This Could Replace Every Device I Own - Massive Steam Deck Emulation Review - YouTube](https://www.youtube.com/watch?v=z3ovleZj65Y) 2022-10
+
 [Massive Steam Deck Emulation Upgrade! The Best EMU Hand Held You Can Get - YouTube](https://www.youtube.com/watch?v=AuJ5_aqsvt8)
+[How to install EmuDeck 2 and RetroDeck on the Steam Deck](https://overkill.wtf/emulation-nintendo-sony-steam-deck/)
+
 [Ditch your Switch for a Steam Deck! Emulation Performance MAXIMIZED. - YouTube](https://www.youtube.com/watch?v=0__el4VrTVY) settings
 [STEAM DECK 安裝 EMUDECK 教學，讓掌機變成模擬器! - 吹著魔笛的浮士德](https://h9856.gameqb.net/2022/12/20/steam-deck-install-emudeck-howto/)
 [How To Play Nintendo DS Games On Steam Deck Using EmuDeck & melonDS/RetroArch - YouTube](https://www.youtube.com/watch?v=LvMBlECp_J8)

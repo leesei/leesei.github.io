@@ -6,8 +6,6 @@ tags:
   - english
 ---
 
-# Oxymoron
-
 > adjective-noun or noun-verb phrases
 
 concert for the deafs

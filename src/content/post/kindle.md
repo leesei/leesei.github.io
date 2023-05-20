@@ -6,7 +6,7 @@ tags:
   - ebook
 ---
 
-# Comparison
+# e-Readers Comparison
 
 Compares E-Ink eBook readers
 

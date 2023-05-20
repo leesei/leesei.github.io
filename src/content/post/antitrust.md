@@ -43,5 +43,5 @@ Mark Glick & Duncan Cameron, _When Do Proprietary Aftermarkets Benefit Consumers
 
 [Opinion | It’s Time to Break Up Facebook - The New York Times](https://www.nytimes.com/2019/05/09/opinion/sunday/chris-hughes-facebook-zuckerberg.html) by Chris Hughes, Facebook founder
 [Opinion | Chris Hughes’s Call to Break Up Facebook: 5 Takeaways - The New York Times](https://www.nytimes.com/2019/05/09/opinion/chris-hughes-facebook.html)
-[Facebook cofounder Chris Hughes is now lobbying to break up the social media giant - The Washington Post](https://beta.washingtonpost.com/technology/2019/07/25/inside-chris-hughess-campaign-break-up-facebook-tech-monopoly-he-helped-create/?outputType=amp)
+[Facebook cofounder Chris Hughes is now lobbying to break up the social media giant - The Washington Post](https://www.washingtonpost.com/technology/2019/07/25/inside-chris-hughess-campaign-break-up-facebook-tech-monopoly-he-helped-create/?outputType=amp)
 [Chris Hughes And Facebook: What Are A Founder’s Responsibilities?](https://www.forbes.com/sites/enriquedans/2019/07/31/chris-hughes-and-facebook-what-are-a-founders-responsibilities/amp/)

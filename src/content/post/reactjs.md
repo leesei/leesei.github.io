@@ -306,6 +306,10 @@ Set `displayName` property of the function to help debugging.
 [Advanced React Component Patterns workshop @ PayPal (Part 1) - YouTube](https://www.youtube.com/watch?v=SuzutbwjUp8)
 [Advanced React Component Patterns workshop @ PayPal (Part 2) - YouTube](https://www.youtube.com/watch?v=ubXtOROjILU)
 
+[React Patterns Workshop - Slidev](https://nearform.github.io/react-patterns-workshop/1)
+[nearform/react-patterns-workshop: A workshop which covers intermediate and advanced React usage patterns](https://github.com/nearform/react-patterns-workshop)
+[nearform/scalable-front-end-architecture-react-example](https://github.com/nearform/scalable-front-end-architecture-react-example)
+
 [React Component Lifecycle - DZone Web Dev](https://dzone.com/articles/react-component-lifecycle)
 [React Stateless Functional Components: Nine Wins You Might Have Overlooked](https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc#.1x45gqq9l) !important
 [Understanding React’s Components: Stateless and Stateful](https://blog.hipolabs.com/understanding-reacts-components-stateless-and-stateful-66fa9f31de34)
@@ -390,7 +394,7 @@ Use `React.createRef()`/`React.useRef()`, not string ref or callback ref
 [React Hooks - Passing Child Component State Up with useRef](https://medium.com/@renatognunes/react-hooks-passing-child-component-state-up-with-useref-de88401c2654)
 [The Latest Ref Pattern in React | Epic React by Kent C. Dodds](https://epicreact.dev/the-latest-ref-pattern-in-react)
 
-[Refs in React : All you need to know ! – Hacker Noon](https://hackernoon.com/refs-in-react-all-you-need-to-know-fb9c9e2aeb81) string refs are deprecated
+[Refs in React : All you need to know ! – Hacker Noon](https://hackernoon.com/refs-in-react-all-you-need-to-know-fb9c9e2aeb81) string refs are DEPRECATED
 [When to use React's Ref on a DOM node in React - RWieruch](https://www.robinwieruch.de/react-ref-attribute-dom-node/) callback ref
 
 ## Portal
@@ -447,7 +451,9 @@ Use `React.createRef()`/`React.useRef()`, not string ref or callback ref
 
 ### Refine
 
-[refine | A React-based framework for building data-intensive applications in no time! | refine](https://refine.dev/)
+[refine | Build your React-based CRUD applications, without constraints! | refine](https://refine.dev/)
+[refinedev/refine at float-cta](https://github.com/refinedev/refine/)
+
 [Getting started with Refine, the React-based framework - LogRocket Blog](https://blog.logrocket.com/getting-started-refine-react-based-framework/)
 [Migrating a React-Admin Application to refine 💖 - DEV Community](https://dev.to/pankod/migrating-a-react-admin-application-to-refine-2j6k)
 
@@ -1239,6 +1245,7 @@ const Conditional = (props) => {
 [reactstrap - React Bootstrap 4 components](https://reactstrap.github.io/)
 
 [Chakra UI - A simple, modular and accessible component library that gives you the building blocks you need to build your React applications. - Chakra UI](https://chakra-ui.com/)
+[Saas UI - The React component library for Startups](https://saas-ui.dev/) built in Chakra UI
 
 [Ant Design - The world's second most popular React UI framework](https://ant.design/)
 [Ant Design of React - Ant Design](https://ant.design/docs/react/introduce)

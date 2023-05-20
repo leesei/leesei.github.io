@@ -70,7 +70,14 @@ tags:
 ## ELF
 
 [Executable and Linkable Format - Wikiwand](https://www.wikiwand.com/en/Executable_and_Linkable_Format)
+[Executable and Linkable Format - Wikiwand](https://www.wikiwand.com/en/Executable_and_Linkable_Format)
 [Global Offset Table - Wikiwand](https://www.wikiwand.com/en/Global_Offset_Table)
+
+[In-depth: ELF - The Extensible & Linkable Format - YouTube](https://www.youtube.com/watch?v=nC1U1LJQL8o)
+
+[elf: format of Executable and Linking Format (ELF) files | File Formats | Man Pages | ManKier](https://www.mankier.com/5/elf)
+[vdso: overview of the virtual ELF dynamic shared object | Miscellanea | Man Pages | ManKier](https://www.mankier.com/7/vdso)
+[ld.so: dynamic linker/loader | System Administration | Man Pages | ManKier](https://www.mankier.com/8/ld.so)
 
 [ELF - A Common Lisp library for manipulating ELF files](http://eschulte.github.io/elf/)
 [eschulte/elf: Actively maintained at https://github.com/grammatech/elf](https://github.com/eschulte/elf)
@@ -108,6 +115,16 @@ objdump -d -Mintel <binary>
 [Java Decompiler](https://github.com/java-decompiler)
 
 [Parsing Java Bytecode with Python - YouTube](https://www.youtube.com/watch?v=67FmRyv8jTM)
+
+## Android
+
+[skylot/jadx: Dex to Java decompiler](https://github.com/skylot/jadx)
+
+[ChickenHook/Anubis-pandemidestek: Anubis malware variant for turkish market - full analysis - SHA256: 231d970ea3195b3ba3e11e390b6def78a1c8eb5f0a8b7dccc0b4ec4aee9292ec](https://github.com/ChickenHook/Anubis-pandemidestek/tree/master)
+[Reverse Engineering of the Anubis Malware - ”pandemistek” – intended for the Turkish market – AndroidReverse](https://androidreverse.wordpress.com/2020/06/30/reverse-engineering-of-the-anubis-malware%e2%80%8a-%e2%80%8apandemistek-intended-for-the-turkish-market/)
+
+[Reverse Engineering of the Anubis Malware — Part 1 | by Elliot Alderson | Medium](https://medium.com/@fs0c131y/reverse-engineering-of-the-anubis-malware-part-1-741e12f5a6bd)
+[Infection and removal of Android Malware that uses Accessibility services - YouTube](https://www.youtube.com/watch?v=VCCgc7dib7I)
 
 ## Wasm
 

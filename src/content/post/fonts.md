@@ -75,6 +75,9 @@ baseline, descenders (`j`, `p`), line height, kerning
 [汉字故事 | TypoChina Chinese](http://www.comdesignlab.com/typochina/chinese/archives/category/%e6%b1%89%e5%ad%97%e6%95%85%e4%ba%8b)
 [千字文語譯 ── 簡譯版](http://www.cantoneseculture.com/page_ThousandWords/thousandwords_simpletrans.aspx)
 
+[【霞鹜文楷 0.1 版已发布】 为 Klee 试制简化字（多图预警） — LXGW · 落霞与孤鹜齐飞，秋水共长天一色。](https://lxgw.github.io/2021/01/28/Klee-Simpchin/)
+[lxgw/LxgwWenKai: An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。](https://github.com/lxgw/LxgwWenKai)
+
 [漢字標準列表 - Wikiwand](https://www.wikiwand.com/zh-hant/%E6%BC%A2%E5%AD%97%E6%A8%99%E6%BA%96%E5%88%97%E8%A1%A8)
 中港台漢字字符有各自標準
 

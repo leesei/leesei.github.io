@@ -7,8 +7,6 @@ tags:
   - trivia
 ---
 
-# Vacation
-
 ## Power Plug
 
 [Plug & socket types](https://www.worldstandards.eu/electricity/plugs-and-sockets/)
@@ -31,5 +29,11 @@ tags:
 [深圳地鐵沿線 6 大人氣商場合集！ 美食玩樂交通懶人包｜附深圳地鐵圖 | U Travel 旅遊資訊網站](https://travel.ulifestyle.com.hk/news/detail/24806/)
 
 ## 台灣
+
+[臺灣荷蘭統治時期 - Wikiwand](https://www.wikiwand.com/zh/%E8%87%BA%E7%81%A3%E8%8D%B7%E8%98%AD%E7%B5%B1%E6%B2%BB%E6%99%82%E6%9C%9F)
+[臺灣明鄭時期 - Wikiwand](https://www.wikiwand.com/zh/%E8%87%BA%E7%81%A3%E6%98%8E%E9%84%AD%E6%99%82%E6%9C%9F)
+[臺灣清治時期 - Wikiwand](https://www.wikiwand.com/zh/%E8%87%BA%E7%81%A3%E6%B8%85%E6%B2%BB%E6%99%82%E6%9C%9F)
+[台灣日治時期 - Wikiwand](https://www.wikiwand.com/zh/%E5%8F%B0%E7%81%A3%E6%97%A5%E6%B2%BB%E6%99%82%E6%9C%9F)
+[Why Was Taiwan Called the Republic of Formosa?](https://theculturetrip.com/asia/taiwan/articles/taiwan-called-republic-formosa/)
 
 [EP 205 台灣的地名，都是怎麼來的？地名居然跟女巫、荷蘭人、日本人都有關係？｜志祺七七 Podcast - YouTube](https://www.youtube.com/watch?v=XNmGAhP9cqU)

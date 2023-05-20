@@ -21,6 +21,7 @@ tags:
 ## Angular Ivy
 
 Ivy is a new backwards-compatible Angular renderer focused on further speed improvements, size reduction, and increased flexibility.
+Legacy renderer is removed in Angular 16 (2023-05).
 
 [First Look: Angular Ivy](https://www.telerik.com/blogs/first-look-angular-ivy)
 [angular/architecture.md at main · angular/angular](https://github.com/angular/angular/blob/main/packages/compiler/design/architecture.md)

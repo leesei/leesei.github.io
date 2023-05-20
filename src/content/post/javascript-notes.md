@@ -448,9 +448,9 @@ db.allDocs().then(docs =>
 
 ## Strict mode
 
-<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions_and_function_scope/Strict_mode>
-<http://howardabrams.com/presentations/?use-strict>
-<http://stackoverflow.com/a/15251160/665507>
+> this should already be the default
+
+[Strict mode - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
 
 ## Decorators
 

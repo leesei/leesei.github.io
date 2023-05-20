@@ -8,14 +8,16 @@ tags:
   - web
 ---
 
-![Modularize all the things](https://camo.githubusercontent.com/4e958c48927d8c150b59bd8d4ab2ab2568620822/687474703a2f2f63646e2e6d656d652e616d2f696e7374616e636573322f353030782f3536303334302e6a7067)
+![Modularize all the things](/_assets/microservice/modularize-all-the-things.webp)
 
-Micorservice in short is a _distributed_ modular system. A good Monolith should also be a modular system.
+> lots of known unknowns and unknown unknowns here
+
+Microservice in short is a _distributed_ modular system. A good Monolith should also be a modular system.
 
 Module and Components are different in the sense that Components are composable. The iPhone charger is a Module but cannot charge an Android phone. Desktop PC hardwares can be interchanged and thus are Components.
-Micorservice tends to compose Components, each is an independent Component, as an application.
+Microservice tends to compose Components, each is an independent Component, as an application.
 
-On an e-Commerse website, Orders, Wishlist, Recommendation, Product Category can all be separate micorservices.
+On an e-Commerce website, Orders, Wishlist, Recommendation, Product Category can all be separate microservices.
 
 [Microservices architecture](http://microservices.io/index.html)
 [Building microservices on Azure | Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/microservices/)
@@ -87,7 +89,7 @@ On an e-Commerse website, Orders, Wishlist, Recommendation, Product Category can
 
 ## Connecting the Services
 
-> see `devops.md#service-registration-and-discovery`
+[[devops#Service Registration and Discovery]]
 
 [Microservices for Java Developers: Microservices Communication | Java Code Geeks - 2018](https://www.javacodegeeks.com/2018/08/microservices-java-developers-microservices-communication.html)
 [Microservices Messaging: Why REST Isn't Always the Best Choice - via @codeship | via @codeship](https://blog.codeship.com/microservices-messaging-rest-isnt-always-best-choice/)
@@ -304,7 +306,7 @@ based on framework in Twitter, JVM based
 
 ## Envoy
 
-> see `kubernetes.md#envoy`
+[[kubernetes#Envoy]]
 
 [Envoy Proxy - Home](https://www.envoyproxy.io/) out of application edge and service proxy used by Istio, eventually consistent
 [How to write WASM filters for Envoy and deploy it with Istio · Banzai Cloud](https://banzaicloud.com/blog/envoy-wasm-filter/)
@@ -472,7 +474,7 @@ Node.js framework
 [senecajs/seneca-auth: A Seneca user authentication plugin for Hapi and Express](https://github.com/senecajs/seneca-auth)
 [senecajs/seneca-web: A plugin that provides HTTP functionality for the Seneca framework](https://github.com/senecajs/seneca-web)
 
-> see `container-ecosystem.md#nearform`
+[NearForm](https://github.com/orgs/nearform/repositories?type=source)
 
 ## Studio
 

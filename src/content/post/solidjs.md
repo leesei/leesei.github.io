@@ -26,6 +26,7 @@ No need memorization
 !Destructuring props loses reactivity
 
 [An Intro to Solid.js for React Developers](https://non-traditional.dev/an-intro-to-solidjs-for-react-developers)
+[Hands-on with SolidJS | InfoWorld](https://www.infoworld.com/article/3643331/hands-on-with-the-solid-javascript-framework.html)
 
 ```js
 npx degit solidjs/templates/js js-demo

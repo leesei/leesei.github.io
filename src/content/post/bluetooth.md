@@ -78,6 +78,7 @@ S/N Ratio:
 ### QCY T1C TWS (QCY-T1C)
 
 > well built, surprisingly good for this price point
+> battery deteriorates after 2.5 years
 
 Driver: 6mm
 Impedance: 16ohm
@@ -103,6 +104,20 @@ Codec: SBC, ?
 Battery: 43mAh; 300mAh case
 
 ¥66@2020-11
+
+### 诺必行 TWS V7 (V7)
+
+> a bit too large and falls easily; broken a year later
+
+Driver: 6mm
+Impedance:
+Sensitivity:
+S/N Ratio:
+Profiles: Bluetooth 5.0; A2DP, AVRCP, HSP, HFP
+Codec: SBC, ?
+Battery: ?mAh; 300mAh case
+
+[无线蓝牙耳机双耳 5.0 隐形运动跑步超小型入耳头戴挂耳塞式迷你一对适用华为 oppo 苹果 vivo 男女通用超长待机](https://buyertrade.taobao.com/trade/detail/tradeSnap.htm?spm=a1z09.2.0.0.1dfe2e8d6dvo2s&tradeID=983533761793144593&snapShot=true) ¥29@2020-05
 
 ### 蛇圣 (F2)
 
@@ -163,20 +178,6 @@ Connects 2 devices
 
 [缤特力 BackBeat GO 410 立体声主动降噪双耳颈挂脖式 fit2 蓝牙耳机-淘宝网](https://item.taobao.com/item.htm?id=596486488251) ¥225
 [缤特力 Voyager 6200UC/backbeat go 410 耳机套耳塞耳帽耳胶硅胶套-淘宝网](https://item.taobao.com/item.htm?id=603844028903)
-
-### 诺必行 TWS V7 (V7)
-
-> a bit too large and falls easily; broken a year later
-
-Driver: 6mm
-Impedance:
-Sensitivity:
-S/N Ratio:
-Profiles: Bluetooth 5.0; A2DP, AVRCP, HSP, HFP
-Codec: SBC, ?
-Battery: ?mAh; 300mAh case
-
-[无线蓝牙耳机双耳 5.0 隐形运动跑步超小型入耳头戴挂耳塞式迷你一对适用华为 oppo 苹果 vivo 男女通用超长待机](https://buyertrade.taobao.com/trade/detail/tradeSnap.htm?spm=a1z09.2.0.0.1dfe2e8d6dvo2s&tradeID=983533761793144593&snapShot=true) ¥29@2020-05
 
 ### Sony WI-ANC10 (JH-ANC10)
 

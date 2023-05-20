@@ -1,12 +1,10 @@
 ---
-title: Chinese Swords
+title: 中國名劍
 description: ""
 created: 2016-09-26
 tags:
   - weapons
 ---
-
-# 中國名劍
 
 [中國名劍 - Wikiwand](https://www.wikiwand.com/zh-hant/中國名劍)
 [名劍 - Google Search](https://www.google.com.hk/search?q=名劍)

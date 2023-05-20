@@ -1,12 +1,11 @@
 ---
 title: OpenSeadragon
-description: ""
+description: "An open-source, web-based viewer for high-resolution zoomable images, implemented in pure JavaScript, for desktop and mobile."
 created: 2016-04-08
 tags:
   - web
+  - tiled-image
 ---
-
-# OpenSeadragon
 
 [OpenSeadragon](http://openseadragon.github.io/) [source](https://github.com/openseadragon/openseadragon)
 [OpenSeadragon Features](http://openseadragon.github.io/#examples-and-features)

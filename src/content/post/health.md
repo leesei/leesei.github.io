@@ -11,6 +11,8 @@ tags:
 [WHY WHITE 為什麼醫學 - YouTube](https://www.youtube.com/channel/UCbZhCylAwwLqDVKLifuYAcA)
 [Medicine & Biology - YouTube](https://www.youtube.com/playlist?list=PLFs4vir_WsTyY31efyHdmtp9l7DpR0Wvi)
 
+[The Insane Engineering of MRI Machines - YouTube](https://www.youtube.com/watch?v=NlYXqRG7lus)
+
 ## Immune System
 
 [Could You Ever Be Immune To Every Germ? Your Immune System, Explained - YouTube](https://www.youtube.com/watch?v=GO_Jxa6dWyo)
@@ -136,6 +138,7 @@ This epidemic actually starts in Taxas, US.
 [Why Blue Whales Don't Get Cancer - Peto's Paradox - YouTube](https://www.youtube.com/watch?v=1AElONvi9WQ) hypercancer
 [為什麼鯨魚不得癌症 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=hVmNVv83FEs)
 [被封印的巨人，就在人類的 17 號染色體上，人類是否能打開這把基因鎖……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=s7D_SEPNxfM) gene LIF6 in elephants, CAR-T (training Killer T cells externally)
+[Your Body Killed Cancer 5 Minutes Ago - YouTube](https://www.youtube.com/watch?v=zFhYJRqz_xk)
 
 ## Cannabis
 

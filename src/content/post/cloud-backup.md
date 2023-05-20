@@ -108,6 +108,10 @@ Since B2 provides HTTP RESTful API, we can easily write our own client.
 [B2 Python Pusher](https://www.backblaze.com/b2/docs/b2-python-pusher.html)
 [b2sync - like rsync but for B2](https://www.backblaze.com/b2/docs/b2sync.html)
 
+## Cloudflare
+
+[Cloudflare R2 | Zero Egress Distributed Object Storage | Cloudflare | Cloudflare](https://www.cloudflare.com/products/r2/) S3-compatible API
+
 ## Digital Ocean Spaces
 
 [An Introduction to DigitalOcean Spaces | DigitalOcean](https://www.digitalocean.com/community/tutorials/an-introduction-to-digitalocean-spaces) S3 compatible object store

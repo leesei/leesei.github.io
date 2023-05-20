@@ -327,7 +327,7 @@ Docker used libnetwork and [Container Network Model (CNM)](https://blog.docker.c
 
 [Project Calico - Secure Networking for the Cloud Native Era](https://www.projectcalico.org/)
 
-[projectcalico/canal: Policy based networking for cloud native applications](https://github.com/projectcalico/canal) Calico + flannel, deprecated
+[projectcalico/canal: Policy based networking for cloud native applications](https://github.com/projectcalico/canal) Calico + flannel, DEPRECATED
 [Installing Calico for policy and flannel for networking](https://docs.projectcalico.org/v3.8/getting-started/kubernetes/installation/flannel)
 [Calico for Kubernetes networking: the basics & examples](https://medium.com/flant-com/calico-for-kubernetes-networking-792b41e19d69)
 
@@ -428,14 +428,14 @@ Docker started out using AUFS (a union file system) for storage, but AUFS didn't
 
 [Docker Persistent Volumes » ADMIN Magazine](http://www.admin-magazine.com/Articles/Persistent-volumes-for-Docker-containers)
 
-[REX-Ray](https://rexray.io/) [docs](http://rexray.readthedocs.io/en/stable/)
+[REX-Ray](https://rexray.io/) [docs](http://rexray.readthedocs.io/en/stable/) inactive
 [rexray/rexray: REX-Ray is a container storage orchestration engine enabling persistence for cloud native workloads](https://github.com/rexray/rexray)
 
-[rancher/convoy: A Docker volume plugin, managing persistent container volumes.](https://github.com/rancher/convoy) [deprecated](https://forums.rancher.com/t/is-convoy-project-deprecated/8403)
+[rancher/convoy: A Docker volume plugin, managing persistent container volumes.](https://github.com/rancher/convoy) [DEPRECATED](https://forums.rancher.com/t/is-convoy-project-deprecated/8403)
 
-[ContainX/docker-volume-netshare: Docker NFS, AWS EFS, Ceph & Samba/CIFS Volume Plugin](https://github.com/ContainX/docker-volume-netshare)
+[ContainX/docker-volume-netshare: Docker NFS, AWS EFS, Ceph & Samba/CIFS Volume Plugin](https://github.com/ContainX/docker-volume-netshare) inactive
 
-[ClusterHQ/flocker: Container data volume manager for your Dockerized application](https://github.com/ClusterHQ/flocker)
+[ClusterHQ/flocker: Container data volume manager for your Dockerized application](https://github.com/ClusterHQ/flocker) inactive
 
 > ClusterHQ shut down in 2016-12
 
@@ -746,6 +746,7 @@ Docker daemon exposed Docker API via UNIX socket at: `unix:///var/run/docker.soc
 [Best practices for writing Dockerfiles | Docker Documentation](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
 [Container Best Practices: What They Are and Why You Should Care – The New Stack](https://thenewstack.io/container-best-practices-what-they-are-and-why-you-should-care/)
 [hexops/dockerfile: Dockerfile best-practices for writing production-worthy Docker images.](https://github.com/hexops/dockerfile)
+[Haskell Dockerfile Linter](https://github.com/hadolint)
 
 Builder log (annotated):
 
@@ -916,13 +917,14 @@ docker history --no-trunc IMAGE
 [Refactoring a Dockerfile for image size](https://blog.replicated.com/refactoring-a-dockerfile-for-image-size/)
 [3 simple tricks for smaller Docker images ♦︎ Learnk8s](https://learnk8s.io/blog/smaller-docker-images/)
 
+[SlimToolkit - Optimize Your Containerized App Dev Experience. Better, Smaller, Faster and More Secure Containers Doing Less! Slim Docker Container Images by up to 30x. · SlimToolkit](https://slimtoolkit.org/)
+[slimtoolkit/slim: Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)](https://github.com/slimtoolkit/slim)
+
 [William-Yeh/docker-mini: Quest for minimal Docker images: slides and lab materials.](https://github.com/William-Yeh/docker-mini)
-[DockerSlim - Optimize Your Containerized App Dev Experience. Better, Smaller, Faster, and More Secure Containers Doing Less! Minify Docker Images by up to 30x.](https://dockersl.im/)
 [Squashing Docker Images ·](http://jasonwilder.com/blog/2014/08/19/squashing-docker-images/)
 [jwilder/docker-squash: Squash docker images to make them smaller](https://github.com/jwilder/docker-squash)
 `docker commit; docker save image | docker-squash -t newtag | docker load`
 [aidanhs/dlgrab: docker layer grabber](https://github.com/aidanhs/dlgrab)
-[cloudimmunity/docker-slim: Optimize and secure your Docker containers](https://github.com/cloudimmunity/docker-slim)
 [djosephsen/skinnywhale: Skinnywhale helps you make smaller (as in megabytes) Docker containers](https://github.com/djosephsen/skinnywhale)
 [mvanholsteijn/strip-docker-image: Utility to strip Docker images to their bare minimum size.](https://github.com/mvanholsteijn/strip-docker-image)
 [Blitznote/debase: 📦 minimal Ubuntu for containers, with curl and support for TLSv1.3](https://github.com/Blitznote/debase)

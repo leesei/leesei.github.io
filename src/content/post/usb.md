@@ -33,8 +33,33 @@ tags:
 [【科技杂谈 60】USB 发展史（1994-2019） - YouTube](https://www.youtube.com/watch?v=kg_Ej8YmmIg)
 [Why Does USB Keep Changing? | Nostalgia Nerd - YouTube](https://www.youtube.com/watch?v=36CKsP9YQ1E)
 
+## USB Protocol
+
+[USB Made Simple](https://www.usbmadesimple.co.uk/index.html)
+
 [How does a USB keyboard work? - YouTube](https://www.youtube.com/watch?v=wdgULBpRoXk)
 [How does USB device discovery work? - YouTube](https://www.youtube.com/watch?v=N0O5Uwc3C0o)
+
+[Add USB To Your Electronics Projects! - The USB Protocol Explained - YouTube](https://www.youtube.com/watch?v=HbQ6q3skZgw)
+[V-USB on an ATmega328! - V-USB and HID Explained - YouTube](https://www.youtube.com/watch?v=6U_bHTnFu-g)
+
+4 data lines: 5V, D+, D-, GND
+D+ and D- form a differential pair to reduce environmental noise, they can represent 4 states (in high speed mode):
+
+|     | D+  | D-  |
+| --- | --- | --- |
+| J   | 1   | 0   |
+| K   | 0   | 1   |
+| SE0 | 0   | 0   |
+| SE1 | 1   | 1   |
+
+SE0: Single Ended Zero
+SE1: Single Ended One
+
+no transition -> 1
+state transition -> 0
+Start sync sequence: KJKJKJKK
+End of Packet: JJ SE0
 
 ## USB Type C
 

@@ -8,8 +8,6 @@ tags:
   - visualization
 ---
 
-# OpenSearch
-
 [OpenSearch](https://opensearch.org/)
 [OpenSearch Project](https://github.com/opensearch-project)
 

@@ -23,32 +23,39 @@ tags:
 
 [测了 114 项之后，我发现平板电脑居然存在这些问题，如何买心仪的平板电脑？（上） - YouTube](https://www.youtube.com/watch?v=HR2QSSzJrgE)
 
-## Handheld Gaming PC
+## Mobile APU
 
-[[steam-deck]]
+Intel's embedded graphics are too lame for gaming.
 
 2021+ CPU:
 Zen2
-Ryzen 5 4500U 6C6T, 6 Vega CUs
-Ryzen 7 4700U 8C16T, 7 Vega CUs
-Ryzen 7 4800U 8C16T, 8 Vega CUs
+Ryzen 5 4500U 6C6T, Vega 6CU
+Ryzen 7 4700U 8C16T, Vega 7CU
+Ryzen 7 4800U 8C16T, Vega 8CU
 Zen2+
-Ryzen 5 5500U 6C12T, 7 Vega CUs
-Ryzen 7 5700U 8C16T, 8 Vega CUs@1900GHz, 15W
+Ryzen 5 5500U 6C12T, Vega 7CU
+Ryzen 7 5700U 8C16T, Vega 8CU @1900MHz, 15W
 Zen3
-Ryzen 7 5600U 6C12T, 7 Vega CUs
-Ryzen 7 5800U 8C16T, 8 Vega CUs
-Ryzen 7 5900HX 8C16T, 8 Vega CUs@2100GHz, 45W
+Ryzen 7 5600U 6C12T, Vega 7CU
+Ryzen 7 5800U 8C16T, Vega 8CU
+Ryzen 7 5900HX 8C16T, Vega 8CU @2100MHz, 45W
 Zen3+
-Ryzen 5 6600U 6C12T, 6 RDNA2
-Ryzen 7 6800U 6C12T, 12 RDNA2
-Ryzen 9 6900HS, 12 RDNA2 CUs, reduced power consumption
+Ryzen 5 6600U 6C12T, RDNA2 6CU
+Ryzen 7 6800U 6C12T, RDNA2 12CU
+Ryzen 9 6900HS, RDNA2 12CU, reduced power consumption
 Intel i5-1135G7 4C8T, Intel Iris Xe Graphics 80EU
 Intel i7-1195G7 4C8T, Intel Iris Xe Graphics 96EU
+Zen4
+Ryzen 7 7840U 8C16T, RDNA3 12CU @2700MHz, 15-30W
+Z1 Extreme is a 7840U without AI engine and tuned for lower power consumption
 
 680M ~= RX6400
 Vega is based on GCN architecture debuted in 2020.
 6800 series's RDNA2 is double the performance of 5800.
+
+## Handheld Gaming PC
+
+[[steam-deck]]
 
 [Device Reviews - YouTube](https://www.youtube.com/playlist?list=PL9lafQPiMYh78DBIv64t_EgpW9vqY1k2s) Taki Udon
 [LowSpecGamer - YouTube](https://www.youtube.com/c/LowSpecGamer)
@@ -83,7 +90,7 @@ Aya Neo Next R7 5800U/5825U $1315, hall sensor analog stick
 [The knock off STEAM DECK that's $1000 more... - YouTube](https://www.youtube.com/watch?v=kUl3ubGe4UE)
 [PC 遊戲帶著走，黃油帶到廁所玩？！真 WIN 10 掌機《AYANEO 亞諾電競掌機》開箱實測， 3A 大作也無壓力順跑，還能用來剪片！？ - YouTube](https://www.youtube.com/watch?v=gmQpSOr6K78)
 
-Aya Neo Air, OLED, RDNA
+Aya Neo Air, OLED, RDNA 2
 [I DESPERATELY Wanted to Love This... - YouTube](https://www.youtube.com/watch?v=XbA6S0kdu2o)
 [AyaNeo Air / AyaNeo Air Pro Review vs Steam Deck: An OLED Handheld Masterpiece? - YouTube](https://www.youtube.com/watch?v=aei6_e5k4so)
 
@@ -99,6 +106,35 @@ Aya Neo Air, OLED, RDNA
 
 [OnexPlayermini 版*mini 掌机*壹号掌机*Windows 掌机\_PC 掌机*掌上游戏机](http://www.onexplayer.com/product/OnexPlayermini/) 7" i7-1195G7 ¥6699
 [Witcher 3 on THIS?!? - OneXPlayer Mini - YouTube](https://www.youtube.com/watch?v=P7br33n81LY)
+
+### Asus ROG Ally
+
+[ROG Ally (2023) | Gaming Handhelds ｜#playALLYourgames ｜ ROG Global](https://rog.asus.com/gaming-handhelds/rog-ally/rog-ally-2023/)
+[Asus ROG Ally vs. Steam Deck: here's how they compare | Digital Trends](https://www.digitaltrends.com/computing/asus-rog-ally-vs-steam-deck/)
+
+[I HATE being lied to… but I love the ROG Ally - YouTube](https://www.youtube.com/watch?v=qLVgr29NMA0)
+[ULTIMATE Asus ROG ALLY Performance Review - SteamDeck vs. 7840U vs 6800U - YouTube](https://www.youtube.com/watch?v=BOMiEI7ojd8) 2023-05, Ally is not very efficient at 10W
+[ROG 掌机性能分析：最强掌机来啦！ - YouTube](https://www.youtube.com/watch?v=y3-4FgTmGIQ)
+
+- AMD Z1 Extreme (Zen 4) 8C16T, 8+16MB cache
+- 9-30W
+- 16GB 6400MT DDR5 RAM
+- 12CU RDNA3@2.7GHz, 8.6TFLOPS
+- 7" 1920x1080 IPS 500nit @48-120Hz FreeSync Premium Touchscreen
+- 512GB M.2 2230 NVMe SSD
+- 40Wh battery
+- Released 2023-05
+
+- AMD Z1 (Zen 4) 6C12T，6+14MB cache
+- 9-30W
+- 16GB 6400MT LPDDR5 RAM
+- 4CU RDNA3@2.5GHz, 2.8TFLOPS
+- 7" 1920x1080 IPS 500nit @48-120Hz FreeSync Premium Touchscreen
+- 512GB M.2 2230 NVMe SSD
+- 40Whr battery
+- Released 2023 Q3
+
+[ASUS ROG Ally vs Steam Deck -- Deep Dive Comparison - YouTube](https://www.youtube.com/watch?v=BKhQr_Tq_DI)
 
 ## Handheld Retro Gaming
 

@@ -1,15 +1,12 @@
 ---
 title: Zig Programming Language
-description: General-purpose programming language and toolchain for maintaining
-  robust, optimal, and reusable software.
+description: General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 created: 2023-03-24
 updated: 2023-03-29
 tags:
   - comp.lang
   - package-manager
 ---
-
-# Zig
 
 Yet another system language wanted to replace C.
 

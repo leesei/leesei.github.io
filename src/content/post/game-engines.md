@@ -195,11 +195,13 @@ CreateJS have multiple tools for game development
 
 [12 Games in 12 Weeks | Lessmilk](http://www.lessmilk.com/12games)
 
+[Building Phaser 3 games with Create React App | by Krzysztof Andrelczyk | May, 2023 | Medium](https://medium.com/@cristof.a/building-phaser-3-games-with-create-react-app-4f8a6452c281)
+
 ### Pixi
 
 [PixiJS](https://pixijs.com/)
 [pixijs/pixijs: The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.](https://github.com/pixijs/pixijs)
-[RoganMurley/hitagi.js: JavaScript HTML5 game development framework](https://github.com/RoganMurley/hitagi.js)
+
 [Goose Ninja - The Goose Temple](http://goose.ninja/)
 
 ### Kiwi.js

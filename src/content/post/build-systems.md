@@ -94,7 +94,22 @@ Examples:
 [How to CMake Good - Recommended Order - YouTube](https://www.youtube.com/playlist?list=PLK6MXr8gasrGmIiSuVQXpfFuE1uPT615s)
 [Akagi201/learning-cmake: learning cmake](https://github.com/Akagi201/learning-cmake)
 
-`ccmake` and the Windows CMake GUI will prompt for config
+```
+  --debug-output               = Put cmake in a debug mode.
+  --debug-find                 = Put cmake find in a debug mode.
+  --debug-find-pkg=<pkg-name>[,...]
+                               = Limit cmake debug-find to the
+                                 comma-separated list of packages
+  --debug-find-var=<var-name>[,...]
+                               = Limit cmake debug-find to the
+                                 comma-separated list of result variables
+  --trace                      = Put cmake in trace mode.
+  --trace-expand               = Put cmake in trace mode with variable
+                                 expansion.
+  --trace-format=<human|json-v1>
+```
+
+`cmake` and the Windows CMake GUI will prompt for config
 
 ```sh
 make VERBOSE=1

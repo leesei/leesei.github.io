@@ -7,8 +7,6 @@ tags:
   - iot
 ---
 
-# Smart home
-
 [The Hook Up - YouTube](https://www.youtube.com/channel/UC2gyzKcHbYfqoXA5xbyGXtQ)
 [Everything Smart Home - YouTube](https://www.youtube.com/@EverythingSmartHome)
 
@@ -50,3 +48,5 @@ tags:
 [Lovelace: Custom Cards | Home Assistant Developer Documentation](https://developers.home-assistant.io/docs/frontend/custom-ui/lovelace-custom-card/)
 [Create an AWESOME looking Lovelace Dashboard with no YAML Files in 2020! - Home Assistant - How to - YouTube](https://www.youtube.com/watch?v=ixIGlEpvWXY)
 [UI-Lovelace-Minimalist/UI: UI-Lovelace-Minimalist is a "theme" for HomeAssistant](https://github.com/UI-Lovelace-Minimalist/UI)
+
+[I built a smarter smart home - YouTube](https://www.youtube.com/watch?v=0rIvB3LZiKA)

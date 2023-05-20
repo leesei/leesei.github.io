@@ -7,8 +7,6 @@ tags:
   - vagrant
 ---
 
-# Vagrant
-
 Create and configure lightweight, reproducible, and portable development environments.
 
 [Vagrant by HashiCorp](https://www.vagrantup.com/)

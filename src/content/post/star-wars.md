@@ -12,8 +12,10 @@ tags:
 [The Star Wars Underworld](http://www.starwarsunderworld.com/)
 [Original Trilogy - Star Wars, Film Preservation, and Fan Edits](https://originaltrilogy.com/)
 [Star Wars Theory - YouTube](https://www.youtube.com/channel/UC8CbFnDTYkiVweaz8y9wd_Q)
-[STAR WARS EXPLAINED - YouTube](https://www.youtube.com/playlist?list=PLGtejOzdTfmx39oyTPlybqqns7PSJsaFO) The Stupendous Wave
 [Everything Star Wars - YouTube](https://www.youtube.com/@StarWarsRebelsStar)
+
+[The Stupendous Wave - YouTube](https://www.youtube.com/@TheStupendousWave)
+[STAR WARS EXPLAINED - YouTube](https://www.youtube.com/playlist?list=PLGtejOzdTfmx39oyTPlybqqns7PSJsaFO)
 
 [Star Wars Legends | Wookieepedia | Fandom](https://starwars.fandom.com/wiki/Star_Wars_Legends)
 All books and games before 2014 was demoted from Extended Universe to Legend thanks to Disney.

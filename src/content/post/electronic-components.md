@@ -443,6 +443,10 @@ Fine: M-3
 
 [Bit banging - Wikiwand](https://www.wikiwand.com/en/Bit_banging) software implementation of serial interface
 
+[Overview - V-USB](http://vusb.wikidot.com/) emulate USB with Bit banging on cheap Atmel chips
+[V-USB - A Firmware-Only USB Driver for Atmel AVR Microcontrollers](https://www.obdev.at/products/vusb/index.html)
+[obdev/v-usb: A Firmware-Only USB implementation for Atmel's AVR Microcontrollers](https://github.com/obdev/v-usb)
+
 [I2C Bit-Banging Tutorial: Part I | Calvin's Plot on the Interwebs](https://calcium3000.wordpress.com/2016/08/19/i2c-bit-banging-tutorial-part-i/)
 [I2C Bit-Banging Tutorial: Part II | Calvin's Plot on the Interwebs](https://calcium3000.wordpress.com/2018/03/02/i2c-bit-banging-tutorial-part-ii/)
 

@@ -8,8 +8,6 @@ tags:
   - storage
 ---
 
-# Distributed Storage
-
 [[enterprise-server#Storage]]
 
 [Clustered file system - Wikiwand](https://www.wikiwand.com/en/Clustered_file_system#/Distributed_file_systems)
@@ -246,19 +244,3 @@ Storage providers earns a fee
 [Longhorn: A Cloud Native Approach to Distributed Storage - YouTube](https://www.youtube.com/watch?v=_s2Pnrz-CKM)
 
 [Cloud Native Distributed Storage in Kubernetes with Longhorn - YouTube](https://www.youtube.com/watch?v=eKBBHc0t7bc)
-
----
-
-## Resumable HTTP Upload
-
-[Performing a Resumable Upload | Drive REST API | Google Developers](https://developers.google.com/drive/api/v3/resumable-upload)
-
-[Amazon S3: Multipart Upload | AWS News Blog](https://aws.amazon.com/blogs/aws/amazon-s3-multipart-upload/)
-[Amazon S3 Multipart Upload CLI](https://aws.amazon.com/premiumsupport/knowledge-center/s3-multipart-upload-cli/)
-[Using the REST API for Multipart Upload - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingRESTAPImpUpload.html)
-[S3 Lifecycle Management Update – Support for Multipart Uploads and Delete Markers | AWS News Blog](https://aws.amazon.com/blogs/aws/s3-lifecycle-management-update-support-for-multipart-uploads-and-delete-markers/)
-[Uploading a Large File to Amazon S3](https://www.jtouzi.net/uploading-a-large-file-to-amazon-web-services-s3/)
-[Signing Multipart Uploads to S3 Buckets from Scratch](https://medium.com/workday-engineering/signing-multipart-uploads-to-s3-buckets-from-scratch-9df181885b2)
-[Security and S3 Multipart Upload | Mingle](https://www.thoughtworks.com/mingle/infrastructure/2015/06/15/security-and-s3-multipart-upload.html)
-
-[Supabase Storage v3: Resumable Uploads with support for 50GB files](https://supabase.com/blog/storage-v3-resumable-uploads)

@@ -7,8 +7,6 @@ tags:
   - devops
 ---
 
-# HashiCorp
-
 [HashiCorp Products](https://www.hashicorp.com/#overview)
 [HashiCorp Learn](https://learn.hashicorp.com/)
 

@@ -92,6 +92,7 @@ Meth powered German's invasion on France, also contributed to the failure in Rus
 # Technologies
 
 [[enigma-machine]]
+[[aviation#World War II]]
 
 [The Secret Science of World War II - Full Documentary - YouTube](https://www.youtube.com/watch?v=-KsDT0W6T2o)
 
@@ -110,36 +111,6 @@ U2511, first type 21 electric U Boats, manufactured in early 1945.
 [Did the Japanese know Navajo code talkers were used in WWII but were unable to crack the language or did they have no clue what language it was? - Quora](https://www.quora.com/Did-the-Japanese-know-Navajo-code-talkers-were-used-in-WWII-but-were-unable-to-crack-the-language-or-did-they-have-no-clue-what-language-it-was)
 [How Effective Was Navajo Code? | The Peoples Paths](http://www.thepeoplespaths.net/articles/navcode.htm)
 [Navajo Code Talkers and the Unbreakable Code — Central Intelligence Agency](https://www.cia.gov/news-information/featured-story-archive/2008-featured-story-archive/navajo-code-talkers/)
-
-## Planes
-
-Real Engineering
-[The Insane Engineering of the Spitfire - YouTube](https://www.youtube.com/watch?v=_m6SEKNgxno)
-[The Insane Engineering of the P-47 Thunderbolt - YouTube](https://www.youtube.com/watch?v=IwqTN5fhMR8)
-[The Rise and Fall of the Japanese Zero - YouTube](https://www.youtube.com/watch?v=X0Mu4jJ0S0s)
-
-WarsofTheWorld
-[WW2 Weapons: The Dawn of the Turret Fighters | Part 1 - YouTube](https://www.youtube.com/watch?v=aB7AZNGvl6A)
-[WW2 Weapons: The Demise of the Turret Fighters | Part 2 - YouTube](https://www.youtube.com/watch?v=aiqOyH6c6bQ)
-[The Nazi's Plans to Blitz New York City - YouTube](https://www.youtube.com/watch?v=8xuWj9su1qc)
-[4 Aviation Mysteries of WWII... - YouTube](https://www.youtube.com/watch?v=dNgoeiSG20k)
-[4 Peculiar Allied Prototype Planes of WW2... - YouTube](https://www.youtube.com/watch?v=6Ch7cOtDbOU)
-
-War Stories
-[The Wooden Plane That Terrorized The Luftwaffe | Battlefield Mysteries | War Stories - YouTube](https://www.youtube.com/watch?v=TDZlMRVwxEY) De Havilland Mosquito
-
-Caliban Rising - Aviation History
-[P 38 Lightning VS De Haviland Mosquito - Which Would You Want To Fight WW2 In? - YouTube](https://www.youtube.com/watch?v=ChsLapzCH5c)
-[The 6 Most Daring De Havilland Mosquito Missions Of WW2 - YouTube](https://www.youtube.com/watch?v=WJS6RgA9mqc)
-
-[Duxford in Depth - YouTube](https://www.youtube.com/playlist?list=PLolzHiCNNbO8ehcr_CBTqSrbIgWel-ecU) Imperial War Museums
-
-[WWII Great Missions - YouTube](https://www.youtube.com/playlist?list=PL28FIzSr3HNsPRQfcbgHGFdMRLkEsQGtL)
-[The B-29 Superfortress Bomber That Dropped The Atomic Bomb | Enola Gay | Complete Documentary - YouTube](https://www.youtube.com/watch?v=a1UnKZI1csg)
-[The Flying Tigers | FULL DOCUMENTARY + The Legacy Episode | Narrated by Gary Sinise | WW2 History - YouTube](https://www.youtube.com/watch?v=gaJrwwOkEjY)
-
-[Airplanes | Icons & Stories - YouTube](https://www.youtube.com/playlist?list=PLBI4gRjPKfnNx3Mp4xzYTtVARDWEr6nrT)
-[How The Spitfire Became An Aviation Masterpiece | The Birth Of A Legend | Timeline - YouTube](https://www.youtube.com/watch?v=fR03Mmv2bUs)
 
 ## Manhattan Project
 

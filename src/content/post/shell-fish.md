@@ -128,7 +128,6 @@ To accept autocompletion to word boundary, use <kbd>Alt</kbd>+<kbd>Right</kbd> o
 
 b4b4r07/enhancd
 nickeb96/puffer-fish
-decors/fish-colored-man
 jorgebucaran/autopair.fish
 
 ```sh
@@ -138,6 +137,7 @@ fisher install jorgebucaran/nvm.fish
 fisher install PatrickF1/fzf.fish
 fisher install laughedelic/pisces
 fisher install setomits/venv-fish
+fisher install jethrokuan/z
 ```
 
 ## Other package manager

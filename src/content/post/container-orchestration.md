@@ -8,8 +8,6 @@ tags:
   - devops
 ---
 
-# Container Orchestration
-
 [[docker-io]]
 [[kubernetes]]
 [[rancher]]
@@ -64,13 +62,6 @@ See projects under [Cloud Native Computing Foundation](https://www.cncf.io/proje
 [Kurma - Extensible and flexible container engine for a cloud native world.](http://kurma.io/)
 
 APCFS: NFSv4 compatible file system for persistent storage
-
-## Docker For AWS
-
-[Docker Public Beta](https://beta.docker.com/)
-
-[Docker for AWS Public Beta - Docker Blog](https://blog.docker.com/2016/11/docker-aws-public-beta/)
-[Docker for AWS: Who's it really for? | InfoWorld](http://www.infoworld.com/article/3145696/application-development/docker-for-aws-whos-it-really-for.html)
 
 ## Slurm
 

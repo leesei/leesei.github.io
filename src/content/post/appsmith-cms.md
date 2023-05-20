@@ -6,8 +6,6 @@ tags:
   - cms
 ---
 
-# Appsmith
-
 [Appsmith | Build & self-host internal tools](https://www.appsmith.com/)
 [Introduction - Appsmith](https://docs.appsmith.com/getting-started/readme)
 [Appsmith, an Open Source Low-Code Framework to Build Internal Apps – The New Stack](https://thenewstack.io/appsmith-an-open-source-low-code-framework-to-build-internal-apps/)

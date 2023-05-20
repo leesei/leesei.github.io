@@ -19,12 +19,14 @@ tags:
 Redux by Dan Abramov (gaearon) implements Flux Store in a FP way. This enables a lot of interesting tools, including _time travel_ with app state. He committed the topic to a conference and Redux came out of the demo code. It is now part of the official React project.
 
 [Redux Doc](http://redux.js.org/)
-[reactjs/redux: Predictable state container for JavaScript apps](https://github.com/reactjs/redux)
-[Ecosystem · Redux](https://redux.js.org/introduction/ecosystem)
+[reduxjs/redux: Predictable state container for JavaScript apps](https://github.com/reduxjs/redux)
+[Ecosystem | Redux](https://redux.js.org/introduction/ecosystem)
 
 [Redux Toolkit](https://redux-toolkit.js.org/)
+[A Guide To Redux Toolkit With TypeScript — Smashing Magazine](https://www.smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/)
+
 The official, opinionated, batteries-included toolset for efficient Redux development.
-It also removed most of the need for Redux middlewares (`redux-thunk`, `redux-saga`, ...).
+It also removed most of the need for Redux middlewares (`redux-thunk`, `redux-saga`, ...) and boilerplates.
 
 [The only introduction to Redux (and React-Redux) you’ll ever need](https://medium.com/javascript-in-plain-english/the-only-introduction-to-redux-and-react-redux-youll-ever-need-8ce5da9e53c6)
 [xgrommx/awesome-redux](https://github.com/xgrommx/awesome-redux)

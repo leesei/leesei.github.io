@@ -11,8 +11,8 @@ tags:
 - AMD Ryzen 7 Zen2 3700X 8C16T @4400MHz 65W $2399@2020-06
 - Noctua NH-U12S $400@2020-06
 - Asus TUF Gaming B550-Plus (2803) $1200@2020-06
-- Corsair Vengeance LPX CMK16GX4M2B3200C16R DDR4 3200MHz Red Heat Spreader (16-18-18-36 @1.35V) $710@2020-06
-- Corsair Vengeance LPX CMK16GX4M2B3200C16 DDR4 3200MHz Black Heat Spreader (16-18-18-36 @1.35V) $600@2021-10
+- Corsair Vengeance LPX CMK16GX4M2B3200C16R DDR4 3200MT Red Heat Spreader (16-18-18-36 @1.35V) $710@2020-06
+- Corsair Vengeance LPX CMK16GX4M2B3200C16 DDR4 3200MT Black Heat Spreader (16-18-18-36 @1.35V) $600@2021-10
 - ASRock AMD Radeon RX 6700 XT Challenger Pro 12GB OC (RX6700XT CLP 12GO) $2689@2022-11
   - Navi 22 7nm, 2560 shaders
   - Base: 2375 MHz, Boost: 2620 MHz
@@ -45,37 +45,67 @@ BIOS 1004 2020-08-13
 
 ## Lenovo ThinkPad X1 Carbon Gen 7
 
+> sometimes fails to detect the battery, see reconnect fix below
+
 [ThinkPad,ThinkPad X1 Carbon (7th Gen),Model:20R1001BHH](http://psref.lenovo.com/Detail/ThinkPad/ThinkPad_X1_Carbon_7th_Gen?M=20R1001BHH)
-[Removal and Replacement Videos - ThinkPad X1 Carbon Gen 7 (20QD, 20QE) - HK](https://support.lenovo.com/hk/en/solutions/ht508716)
-[Lenovo ThinkPad X1 Carbon 7th Gen Repair - iFixit](https://www.ifixit.com/Device/Lenovo_ThinkPad_X1_Carbon_7th_Gen)
-[How to Disassemble Lenovo X1 Carbon 7th Gen Laptop - YouTube](https://www.youtube.com/watch?v=O9U6XI_gAHk)
-[How to Battery Replacement Lenovo ThinkPad X1 Carbon 7th Generation disassembly - YouTube](https://www.youtube.com/watch?v=3giljS-od8Y)
-[ThinkPad X1 Carbon (2nd and 3rd Gen) - Wireless LAN Card Replacement - YouTube](https://www.youtube.com/watch?v=JLpFcDEIPE8)
-[Lenovo X1 Carbon gen6 - touchpad repair [4k] - YouTube](https://www.youtube.com/watch?v=cu0A-MeVZrY)
-[Trackpad TouchPad replacement on Lenovo Laptop X1 Carbon 9th Gen - Type 20UA - YouTube](https://www.youtube.com/watch?v=pb-293bII4A)
 
 - 2019-11
 - 1.09kg
 - Intel Core Comet Lake i7-10510U 4C8T
-- 16GB SK Hynix LPDDR3 2133MHz
+- 16GB SK Hynix LPDDR3 2133MT
 - Intel UHD 620
 - Intel® SSD Pro 7600p NVMe SSD 1TB (64 layers 3D2 TLC)
 - Intel AX200
 - 14" 1920x1080 Low Power IPS 400nits
 - Dolby®Atmos™ Speaker System
-- 51Whr 4 cell battery
+- 51Wh 4 cell battery
 - Type C Charger: 20V/3.25A, 15V/3A, 9V/2A, 5V/2A
 - Replaced battery and display @2020-10
 - Replaced Intel Wireless-AC 9560 (160MHz) with Intel AX200 @2020-11
 
 [Lenovo ThinkPad X1 Carbon (7th Gen) review: A top-quality 14-inch business ultraportable, with excellent security features Review | ZDNet](https://www.zdnet.com/product/thinkpad-x1-carbon-7th-gen/)
 
+### Disassembly
+
+[Removal and Replacement Videos - ThinkPad X1 Carbon Gen 7 (20QD, 20QE) - HK](https://support.lenovo.com/hk/en/solutions/ht508716)
+[Lenovo ThinkPad X1 Carbon 7th Gen Repair - iFixit](https://www.ifixit.com/Device/Lenovo_ThinkPad_X1_Carbon_7th_Gen)
+[How to Disassemble Lenovo X1 Carbon 7th Gen Laptop - YouTube](https://www.youtube.com/watch?v=O9U6XI_gAHk)
+
+[How to Battery Replacement Lenovo ThinkPad X1 Carbon 7th Generation disassembly - YouTube](https://www.youtube.com/watch?v=3giljS-od8Y)
+[Lenovo X1 Carbon Battery Replacement - YouTube](https://www.youtube.com/watch?v=uHOjWRQ_cUY)
+[X1-Carbon-7th-Gen-Battery-Not-Detected-error-msg - English Community - LENOVO COMMUNITY](https://forums.lenovo.com/t5/ThinkPad-X-Series-Laptops/X1-Carbon-7th-Gen-Battery-Not-Detected-error-msg/m-p/5010935?page=4#5383575)
+
+[ThinkPad X1 Carbon (2nd and 3rd Gen) - Wireless LAN Card Replacement - YouTube](https://www.youtube.com/watch?v=JLpFcDEIPE8)
+
+[Lenovo X1 Carbon gen6 - touchpad repair [4k] - YouTube](https://www.youtube.com/watch?v=cu0A-MeVZrY)
+[Trackpad TouchPad replacement on Lenovo Laptop X1 Carbon 9th Gen - Type 20UA - YouTube](https://www.youtube.com/watch?v=pb-293bII4A)
+
+Battery removal fix (from earlier in thread):
+
+Solution:
+
+1. Disable battery in bios
+
+https://download.lenovo.com/lts/RTPW10J0/FOF/RTPW10J0-X1CarbonGen7_REM_FRU_00_DisableBattery.mp4
+
+2. Remove back cover
+
+https://download.lenovo.com/lts/RTPW10J0/FOF/RTPW10J0-X1CarbonGen7_REM_FRU_01_BottomCover.mp4
+
+3. Disconnect battery connector from motherboard
+
+https://download.lenovo.com/lts/RTPW10J0/FOF/RTPW10J0-X1CarbonGen7_REM_FRU_05_BuiltInBattery.mp4
+
+NOTE: Don't do the whole battery removal, just the initial disconnection of the battery connector!
+
+4. Reconnect the battery connector
+
 ## ITX HTPC
 
 $2800@2023-02 (ex-GPU)
 
 - Intel Core i3-12100F 4C8T
-- Kingston Hyper-X Fury 2x8GB (KHX2400C15/8G) 2400MHz DDR4
+- Kingston Hyper-X Fury 2x8GB (KHX2400C15/8G) 2400MT DDR4
 - ID Cooling IS-40X 4 heat pipe
   - 12015 fan at CHA_FAN header
 - ASRock H610M-ITX/ac
@@ -112,7 +142,7 @@ https://www.userbenchmark.com/UserRun/59459570 after RAM change
 ## Intel NUC (NUC8BEK)
 
 - Intel Core i5-8259U Coffee Lake 4C8T
-- 16GB Kingston 2400MHz DDR4
+- 16GB Kingston 2400MT DDR4
 - Intel Iris Plus Graphics 655
 - Kingston SA400M8120G
 - Intel Wireless-AC 9560 (160MHz)
@@ -127,7 +157,7 @@ https://www.userbenchmark.com/UserRun/59459570 after RAM change
 
 - Intel Core i5-7500 Kabylake 4C4T 3.4GHz
 - ASUS PRIME B250M-A
-- Kingston Hyper-X Fury 2x8GB (KHX2400C15/8G) 2400MHz DDR4
+- Kingston Hyper-X Fury 2x8GB (KHX2400C15/8G) 2400MT DDR4
 - GTR Micro ATX Case
 - Antec NeoEcoII 550W Micro ATX 80Plus Bronze
 - ADATA Premier Pro SP920SS 256GB
@@ -145,7 +175,7 @@ https://www.userbenchmark.com/UserRun/59459570 after RAM change
 - 2020-11
 - 1.24kg (24Wh, 3 cells) + 150g (24Wh, 3 cells) = 1.39kg
 - Intel Core i5-6200U Skylake 2.3GHz
-- 8G 2133MHz DDR4
+- 8G 2133MT DDR4
 - Samsung NVMe MZ7TY256HDHP 256GB
 - 12.5" 1366x768 IPS 300nit
 - Lenovo Charger: 20V/3.25A, 15V/3A, 9V/2A, 5V/2A
@@ -154,7 +184,7 @@ https://www.userbenchmark.com/UserRun/59459570 after RAM change
 
 - 2021
 - AMD Ryzen™ 9 4900H 8C16T 3.3GHz
-- 2x8G 3200MHz DDR4
+- 2x8G 3200MT DDR4
 - AMD Radeon™ Graphics Vega 8
 - Kingston OM8PDP3512B-A01 512G
 - Intel® Wi-Fi 6 AX201 802.11ax (2x2) and Bluetooth® 5.1
@@ -167,12 +197,26 @@ https://www.userbenchmark.com/UserRun/59459570 after RAM change
 - install `amd-ucode`
 - disable IOMMU in bios
 
+## Lenovo X1 Extreme Gen 3 (Work CSA Laptop)
+
+- 2021
+- 1.8kg
+- Intel Core i7-10850H Comet Lake 2.70GHz
+- Samsung 1x32G (M471A4G43AB1-CWE) 3200MT DDR4
+- Intel UHD GT2
+- NVIDIA GeForce GTX 1650Ti (MaxQ with 4GB GDDR6)
+- Toshiba KXG6ZNC1T02 1TB
+- 15.6" 4K OLED Touchscreen HDR500 with Dolby Vision™ (3840 x 2160, 500 nits) True Black
+- 80Wh Battery
+- Lenovo rectangular plugin 135W slim charger
+- Supports USB-C 65W+ charging
+
 ## Dell XPS 15 9550 (Work CSA Laptop)
 
 - 2015
 - 1.78kg
 - Intel Core i7-6700HQ Skylake 2.60GHz
-- Samsung 2x8G (M471A1G43DB0) 2133MHz DDR4
+- Samsung 2x8G (M471A1G43DB0) 2133MT DDR4
 - Intel HD Graphics 530
 - NVIDIA GeForce GTX 960M
 - Samsung NVMe PM951 512GB
@@ -230,7 +274,7 @@ Philips 190S7FB 19" 1280x1024 5:4 TN $1990@2006-04
 
 - Intel Core i5-4590 Haswell $1459@2015-07
 - Asus B85-PRO GAMER $765@2015-07, repaired 2017-06
-- Kingston HyperX FURY Blue 2x8GB (KHX1600C10D3/8G) 1600MHz DDR3 $620@2016
+- Kingston HyperX FURY Blue 2x8GB (KHX1600C10D3/8G) 1600MT DDR3 $620@2016
 - GigaByte GeForce® GTX 1060 WINDFORCE OC 6G $2299@2017-07
 - Antec TruePower New TP-650 $745@2011-05
 - ADATA Premier Pro SP920SS 256GB $735@2015-07
@@ -251,7 +295,7 @@ mother board dead, probably during case change
 - 2018-06
 - 1.24kg (24Wh, 3 cells) + 150g (24Wh, 3 cells) = 1.39kg
 - Intel Core i5-6200U Skylake 2.3GHz
-- SK Hynix 8G 2133MHz DDR4
+- SK Hynix 8G 2133MT DDR4
 - Intel NVMe DC P3600 256GB
 - 12.5" 1920x1080 IPS
 - Type C Charger: 20V/3.25A, 15V/3A, 9V/2A, 5V/2A
@@ -263,7 +307,7 @@ mother board dead, probably during case change
 - 2014-03
 - 1736g + 306g (57Wh)
 - Intel Core i3-4000M 2.4GHz
-- Samsung 8G 1600MHz DDR3
+- Samsung 8G 1600MT DDR3
 - Samsung M27TD256HAFV-000L9 238GB
 - 14" 1366 x 768 TN
 - Lenovo Charger
@@ -294,7 +338,7 @@ U330P A 壳
 - 2020-07
 - Case ¥268@2020-07
 - Intel Core i5-4590 Haswell 4C4T $1459@2015-07
-- 8GB SO-DIMM 1333MHz DDR3
+- 8GB SO-DIMM 1333MT DDR3
 - Intel HD Graphics 4600
 - Crucial MX200 250GB $600@2016-04
 - TP-Link TL-WN826N Wifi Adapter

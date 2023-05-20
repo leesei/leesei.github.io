@@ -123,6 +123,11 @@ There's also a workspace (`.code-workspace`) file can contain a list of folders 
 
 ### `tsconfig.json`
 
+## Profile
+
+[Profiles in Visual Studio Code](https://code.visualstudio.com/docs/editor/profiles)
+[VSCode Profiles: Optimize Your Coding Environment](https://www.headway.io/blog/vscode-profiles-optimize-your-coding-environment)
+
 ## Extension
 
 Installed extensions:

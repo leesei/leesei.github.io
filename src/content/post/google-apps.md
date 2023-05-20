@@ -3,6 +3,7 @@ title: Google Apps
 description: ""
 created: 2017-02-11
 tags:
+  - google
   - web
 ---
 
@@ -188,34 +189,7 @@ Use `www.recaptcha.net` instead of `www.google.com` for global access.
 
 ## Google Analytics
 
-[Analytics](https://analytics.google.com/analytics/web/)
-[Get started with Analytics - Analytics Help](https://support.google.com/analytics/answer/1008015?hl=en)
-[Google Analytics for Beginners](https://analytics.google.com/analytics/academy/course/6)
-[How to Set Up Google Analytics in 5 Simple Steps](https://blog.hootsuite.com/how-to-set-up-google-analytics/)
-[How to track website analytics for your freelance business website using Google Tag Manager in 2021 | Tiiny Host Blog](https://tiiny.host/blog/how-to-track-website-analytics-for-your-freelance-business-website-using-google-tag-manager-in-2021/)
-[Universal Analytics will be going away - Analytics Help](https://support.google.com/analytics/answer/11583528)
-
-[Google Tag Manager](https://tagmanager.google.com/#/home)
-[About Google Tag Manager  |  Google Developers](https://developers.google.com/tag-platform/tag-manager)
-
-[react-ga/react-ga: React Google Analytics Module](https://github.com/react-ga/react-ga)
-[lukeed/ganalytics: A tiny (312B) client-side module for tracking with Google Analytics](https://github.com/lukeed/ganalytics)
-
-```html
-<!-- Google Analytics: change UA-XXXXX-Y to be your site's ID -->
-<script>
-  window.ga = function () {
-    ga.q.push(arguments);
-  };
-  ga.q = [];
-  ga.l = +new Date();
-  ga("create", "UA-XXXXX-Y", "auto");
-  ga("set", "anonymizeIp", true);
-  ga("set", "transport", "beacon");
-  ga("send", "pageview");
-</script>
-<script src="https://www.google-analytics.com/analytics.js" async></script>
-```
+[[google-analytics]]
 
 ## Street View
 

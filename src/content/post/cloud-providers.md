@@ -214,7 +214,7 @@ Use CNAME to the Netlify URL when dealing with subdomains
 
 [Build Plugins | Netlify Docs](https://docs.netlify.com/configure-builds/build-plugins/)
 
-[netlify/build: Netlify Build Plugins. Join the early access beta 👉](https://github.com/netlify/build)
+[netlify/build: Netlify Build (node process) runs the build command, Build Plugins and bundles Netlify Functions. Can be run in Buildbot or locally using Netlify CLI](https://github.com/netlify/build)
 [netlify/plugins: Netlify plugins directory](https://github.com/netlify/plugins)
 
 [What are Netlify Build Plugins? Part 1 - How to Use Build Plugins](https://www.netlify.com/blog/2020/04/30/whats-a-netlify-build-plugin-series-part-1-using-build-plugins/)

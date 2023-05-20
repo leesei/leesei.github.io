@@ -102,7 +102,7 @@ Output images with [`cv.imwrite()`](https://docs.opencv.org/master/d4/da8/group_
 
 [PyImageSearch - Be awesome at OpenCV, Python, deep learning, and computer vision](https://www.pyimagesearch.com/)
 [The 7 best deep learning books you should be reading right now - PyImageSearch](https://www.pyimagesearch.com/2018/03/05/7-best-deep-learning-books-reading-right-now/)
-[ImageSearchEngineResourceGuide.pdf](./opencv/ImageSearchEngineResourceGuide.pdf)
+[ImageSearchEngineResourceGuide.pdf](/_assets/opencv/ImageSearchEngineResourceGuide.pdf)
 
 [Neural Style Transfer with OpenCV - PyImageSearch](https://www.pyimagesearch.com/2018/08/27/neural-style-transfer-with-opencv/)
 

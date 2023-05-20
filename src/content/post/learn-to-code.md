@@ -351,7 +351,9 @@ Calling convension, what register of the CPU are used
 [10 Useful Sites for Learning How to Code](http://www.onextrapixel.com/2013/11/14/10-useful-sites-for-learning-how-to-code/)
 [45 of The Best Places to Learn to Code For Free](http://learntocodewith.me/posts/code-for-free/)
 [Quincy Larson's answer to Are there good YouTube channels that teach programming languages? - Quora](https://www.quora.com/Are-there-good-YouTube-channels-that-teach-programming-languages/answer/Quincy-Larson)
-[Learn With Jason — live coding with friends! · Learn With Jason](https://www.learnwithjason.dev/)
+
+[Learn. Build. Grow. Together.](https://www.learnwithjason.dev/)
+[Learn With Jason - YouTube](https://www.youtube.com/@learnwithjason) live coding
 
 [Learn | Kaggle](https://www.kaggle.com/learn/overview)
 
@@ -585,6 +587,10 @@ designed to be embedded in other files
 [janl/mustache.js: Minimal templating with {{mustaches}} in JavaScript](https://github.com/janl/mustache.js)
 [Command line tool to render a mustache template with a json context file](https://gist.github.com/hidinginabunker/923308) with 'Mu' package
 
+[Eta | Eta](https://eta.js.org/) EJS-like, in TypeScript
+
+[LiquidJS](https://liquidjs.com/)
+
 [BorisMoore/jsviews: Interactive data-driven views, MVVM and MVP, built on top of JsRender templates](https://github.com/BorisMoore/jsviews)
 [BorisMoore/jsrender: A lightweight, powerful and highly extensible templating engine. In the browser or on Node.js, with or without jQuery.](https://github.com/BorisMoore/jsrender)
 
@@ -667,7 +673,6 @@ Halstead Metrics -> Maintainability Index
 [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 [The Rule of Three](http://blog.codinghorror.com/rule-of-three/)
 [Programming Should Be More than Coding](http://www.infoq.com/presentations/programming-design-coding)
-[Hexagonal Architecture: What Is It and How Does It Work? - NDepend](https://blog.ndepend.com/hexagonal-architecture/)
 [In the Loop – CEO Quest Insights – Medium](https://medium.com/ceoquest/in-the-loop/home)
 
 [SREcon19 Europe/Middle East/Africa - Advanced Napkin Math: Estimating System... - YouTube](https://www.youtube.com/watch?v=IxkSlnrRFqc)
@@ -704,6 +709,12 @@ Halstead Metrics -> Maintainability Index
 [BeckDesignRules](https://martinfowler.com/bliki/BeckDesignRules.html)
 
 [缓存更新的套路 | | 酷 壳 - CoolShell](https://coolshell.cn/articles/17416.html)
+
+### Hexagonal Architecture
+
+[Hexagonal architecture (software) - Wikiwand](<https://www.wikiwand.com/en/Hexagonal_architecture_(software)>)
+[Hexagonal Architecture: What Is It and How Does It Work? - NDepend](https://blog.ndepend.com/hexagonal-architecture/)
+[Hexagonal Architecture - DEV Community](https://dev.to/abh1navv/hexagonal-architecture-3ocl)
 
 ### C4 Model
 
@@ -935,7 +946,7 @@ Protocol to abstract editor from specific language.
 
 [Registers in x86 assembly | Infosec Resources](https://resources.infosecinstitute.com/topic/registers/)
 parameters: `rdi`, `rsi`
-return value: `rax` (`eax` for the lower 32 bits, `al` for the lower byte)
+return value: `rax` (`eax` for the lower 32 bits, `ah`/`al` for the higher and lower bytes)
 
 [Intro to Assembly and Assemblers | Linux.org](http://www.linux.org/threads/intro-to-assembly-and-assemblers.7311/)
 [Gcc: Some Assembly Required | Hackaday](https://hackaday.com/2016/06/08/gcc-some-assembly-required/)
@@ -945,6 +956,9 @@ return value: `rax` (`eax` for the lower 32 bits, `al` for the lower byte)
 [x86-64bit-ccc-chapter.pdf](https://aaronbloomfield.github.io/pdr/book/x86-64bit-ccc-chapter.pdf)
 
 [Linux x86 Program Start Up](http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html)
+
+[you can become a BIG BRAIN assembly programmer in only 10 minutes. (yes, YOU!) - YouTube](https://www.youtube.com/watch?v=6S5KRJv-7RU)
+[you can learn assembly QUICKLY using the rosetta stone technique (arm64 breakdown) - YouTube](https://www.youtube.com/watch?v=vhyettT7sdA)
 
 ## Beef
 
@@ -959,6 +973,8 @@ return value: `rax` (`eax` for the lower 32 bits, `al` for the lower byte)
 [Microsoft debuts Bosque – a new programming language with no loops, inspired by TypeScript • The Register](https://www.theregister.co.uk/AMP/2019/04/18/microsoft_bosque_programming_language/)
 
 ## C
+
+[[libc]]
 
 History of Programming papers:
 [A History of C++: 1979−1991](http://www.stroustrup.com/hopl2.pdf)
@@ -1213,44 +1229,12 @@ by vcpkg maintainer
 [CppCon 2019: Robert Schumacher “How to Herd 1,000 Libraries” - YouTube](https://www.youtube.com/watch?v=Lb3hlLlHTrs)
 [CppCon 2018: Robert Schumacher “Don't package your libraries, write packagable libraries!” - YouTube](https://www.youtube.com/watch?v=sBP17HQAQjk)
 
-cget, conda, cpm, cppan
-
-#### vcpkg
-
-[vcpkg](https://vcpkg.readthedocs.io/en/latest/)
-[microsoft/vcpkg: C++ Library Manager for Windows, Linux, and MacOS](https://github.com/Microsoft/vcpkg/)
-
-[vcpkg: a C++ package manager for Windows, Linux, and MacOS | Microsoft Docs](https://docs.microsoft.com/en-us/cpp/build/vcpkg?view=vs-2019)
-[Triplet files - vcpkg](https://vcpkg.readthedocs.io/en/latest/users/triplets/) environment configs
-[vcpkg/docs/examples at master · microsoft/vcpkg](https://github.com/microsoft/vcpkg/tree/master/docs/examples)
-
-[Point Cloud Library is available in Vcpkg – Summary?Blog](http://unanancyowen.com/en/pcl-vcpkg/)
-
-```powershell
-# Use 64 bit by default
-[Environment]::SetEnvironmentVariable("VCPKG_DEFAULT_TRIPLET", "x64-windows", "Machine")  # persist
-$Env:VCPKG_DEFAULT_TRIPLET="x64-windows"  # current shell
-
-# remove all `x86-windows` packages
-vcpkg list | % { $_.Split(" ") | Select-Object -first 1 } | Where-Object { $_ -like "*:x86-windows" } | ForEach-Object -Process { vcpkg remove --recurse $_ }
-```
-
-To integrate to CMake, add this line _before_ `PROJECT` in `cmakelist.txt`
-
-```cmake
-SET(CMAKE_TOOLCHAIN_FILE "C:\vcpkg\scripts\buildsystems\vcpkg")
-```
-
-[Vcpkg: A tool to build open source libraries on Windows - Kitware Blog](https://blog.kitware.com/vcpkg-a-tool-to-build-open-source-libraries-on-windows/)
-[Simple C++ project with CMAKE and VCPKG - YouTube](https://www.youtube.com/watch?v=4z2jmDr36Fc)
-[Using vcpkg with CMake on Windows - DeveloperPaul123](https://developerpaul123.github.io/c++/cmake/using-vcpkg-on-windows/)
-
-[vcpkg Host Dependencies for Cross-Compilation | C++ Team Blog](https://devblogs.microsoft.com/cppblog/vcpkg-host-dependencies/)
+[[vcpkg]]
 
 #### Conan
 
-[C/C++ Open Source Package Manager](https://conan.io/)
-[conan-io/conan: Conan - The open-source C/C++ package manager](https://github.com/conan-io/conan)
+[Conan - C and C++ Open Source Package Manager](https://conan.io/)
+[conan-io/conan: Conan - The open-source C and C++ package manager](https://github.com/conan-io/conan)
 
 [C++ Package Management With Conan: Introduction - Ilyas Hamadouche - Medium](https://medium.com/@ilyas.hamadouche/c-package-management-with-conan-introduction-8c7bd928c009)
 
@@ -1259,7 +1243,7 @@ SET(CMAKE_TOOLCHAIN_FILE "C:\vcpkg\scripts\buildsystems\vcpkg")
 
 #### Buckaroo
 
-[Buckaroo - C/C++ Package Manager](https://buckaroo.pm/)
+[Buckaroo - C/C++ Package Manager](https://buckaroo.pm/) inactive
 [Buckaroo — Buckaroo documentation](https://buckaroo.readthedocs.io/en/latest/)
 [LoopPerfect/buckaroo: A C++ package manager that will take you to your happy place 🏝️](https://github.com/LoopPerfect/buckaroo)
 
@@ -1275,15 +1259,22 @@ SET(CMAKE_TOOLCHAIN_FILE "C:\vcpkg\scripts\buildsystems\vcpkg")
 
 [Packages — Hunter documentation](https://hunter.readthedocs.io/en/latest/packages.html)
 
+#### cpm
+
+[cpm-cmake/CPM.cmake: 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.](https://github.com/cpm-cmake/CPM.cmake)
+
+[CMake and the Future of C++ Package Management | iboB](https://ibob.bg/blog/2020/01/13/cmake-package-management/)
+[CPM: An Awesome Dependency Manager for C++ with CMake | by Leonardo Lima | The Startup | Medium](https://medium.com/swlh/cpm-an-awesome-dependency-manager-for-c-with-cmake-3c53f4376766)
+
 #### clib
 
 Package manager for C libraries.
 
-[Introducing Clib — Medium](https://medium.com/@tjholowaychuk/introducing-clib-b32e6e769cb3)
-[The Advent of Clib: the C Package Manager](https://blog.ashworth.in/the-advent-of-clib-the-c-package-manager/)
-
 [clibs/clib](https://github.com/clibs/clib)
 [Packages · clibs/clib Wiki](https://github.com/clibs/clib/wiki/Packages)
+
+[Introducing Clib — Medium](https://medium.com/@tjholowaychuk/introducing-clib-b32e6e769cb3)
+[The Advent of Clib: the C Package Manager](https://blog.ashworth.in/the-advent-of-clib-the-c-package-manager/)
 
 #### bale/ursus
 

@@ -7,8 +7,6 @@ tags:
   - container
 ---
 
-# ARM container
-
 2019-04:
 [Docker and Arm partner to streamline containerized app development on Arm-based hardware | VentureBeat](https://venturebeat.com/2019/04/24/docker-and-arm-partner-to-streamline-containerized-app-development-on-arm-based-hardware/amp/)
 [Docker developers can now build Arm containers on their desktops – TechCrunch](https://techcrunch.com/2019/04/24/docker-partners-with-arm/amp/)

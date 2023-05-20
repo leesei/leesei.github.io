@@ -7,6 +7,16 @@ tags:
 ---
 
 [The only leadership theory that matters – Hacker Noon](https://hackernoon.com/the-only-leadership-theory-that-matters-601969b2003f)
+[什麼是優秀的管理者？劉潤：要有一眼「被看穿」的能力－劉潤專欄｜商周](https://www.businessweekly.com.tw/management/blog/3012311)
+
+[Engineering Managers: An Important Conversation - YouTube](https://www.youtube.com/watch?v=7FKvrqg636o)
+
+- let people fail
+- build trust
+- feed into people who bring energy
+
+[Why an Engineering Manager Should Not Review Code | by Emily Dresner | May, 2023 | Better Programming](https://betterprogramming.pub/why-an-engineering-manager-should-not-review-code-46f87c08db66)Tech Lead vs Engineering Manager, split roles for team size >= 4
+[Engineering Culture, Trust, and Accountability | by Emily Dresner | Apr, 2023 | Better Programming](https://betterprogramming.pub/engineering-culture-trust-and-accountability-d09e488e76ee)
 
 [What good leaders do: 3 key practices you can adopt today | CIO](https://www.cio.com/article/3513951/what-good-leaders-do-3-key-practices-you-can-adopt-today.html)
 
@@ -166,18 +176,25 @@ SRI (Simulation 情境 + Roleplay 動態演練):
 - 設計一個能看得出這些特質的小活動。
 - 從活動中觀察面試者不自覺流露的行為。
 
-## Time Management Matrix
+## Eisenhower Squares/Time Management Matrix
+
+[Engineering Leadership, Scaling Yourself, and Building Bench | by Emily Dresner | May, 2023 | Better Programming](https://betterprogramming.pub/engineering-leadership-scaling-yourself-and-building-bench-55a5d9c63dff)
+[Be Productive at Home: 11 Tips to Promote Efficiency [2023] • Asana](https://asana.com/resources/eisenhower-matrix)
+[The Eisenhower Matrix: Prioritize Your Time on What Matters Most - Knock Down Silos by Slab](https://slab.com/blog/eisenhower-matrix/)
 
 Stephen Covey 的 Time Management Matrix
 我們每天的工作，分成四類：
 
-- Important and Urgent：毋須多說，每天首先要處理的事。
+- Important and Urgent (DO)
+  毋須多說，每天首先要處理的事。
 
-- Important and Not Urgent
+- Important and Not Urgent (DECIDE/SCHEDULE)
 
-- Not Important but Urgent：例如每天為了應付響過不停的電話、覆之不盡的電郵、沒完沒了的會議，整天時間花光！大部份的窮忙族都是被這些事情所淹沒，不但時間耗盡，就連精神都透支，回家只會煲肥皂劇，沒有心力做真正重要的事。
+- Not Important but Urgent (DELEGATE)
+  例如每天為了應付響過不停的電話、覆之不盡的電郵、沒完沒了的會議，整天時間花光！大部份的窮忙族都是被這些事情所淹沒，不但時間耗盡，就連精神都透支，回家只會煲肥皂劇，沒有心力做真正重要的事。
 
-- Not Important and Not Urgent：例如下班之後，花很多時間在玩樂、打機、應酬上，唔係話唔玩，平日工作忙碌，壓力大，始終都需要有 Balance 的生活，只是要選擇，要控制時間而已。
+- Not Important and Not Urgent (DELETE)
+  例如下班之後，花很多時間在玩樂、打機、應酬上，唔係話唔玩，平日工作忙碌，壓力大，始終都需要有 Balance 的生活，只是要選擇，要控制時間而已。
 
 ## 鬼谷子
 

@@ -115,6 +115,10 @@ When a service is free, you are the product/asset.
 [Smart Logos with Hidden Symbolism | Webdesigner Depot](http://www.webdesignerdepot.com/2010/07/smart-logos-with-hidden-symbolism/)
 [50 Fantastically Clever Logos | Design Shack](http://designshack.net/articles/graphics/50-fantastically-clever-logos)
 
+## Logo Creater
+
+[Hostinger AI Logo Maker](https://logo.hostinger.com/) requires login
+
 ## Demise of Yahoo
 
 Yahoo was sold to Verizon with a sum of \$4.83 billion in July 2016.

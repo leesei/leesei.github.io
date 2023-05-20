@@ -21,11 +21,15 @@ tags:
 [Getting Started With NodeJS Fastify and TypeScript + ESLint, Prettier, and Auto Format On Save - YouTube](https://www.youtube.com/watch?v=WHV57q6p3Lk)
 [Fastify vs Express Which is Better? | Fastify TypeScript Tutorial - YouTube](https://www.youtube.com/watch?v=SlUNZZaZhFU) with TypeBox
 
+[The Fastify Workshop - Slidev](https://nearform.github.io/the-fastify-workshop/1)
+[nearform/the-fastify-workshop: A workshop about Fastify](https://github.com/nearform/the-fastify-workshop)
+
 Jay Wolfe
 [Rapid API Development with NodeJS, Fastify, Postgresql, and Swagger - YouTube](https://www.youtube.com/playlist?list=PLU_22oKqONin7yagFMm3x1tJihYaIVVwa)
 [Twitter Bot With Fastify, AlpineJS, TailwindUI, and HandlebarsJS - YouTube](https://www.youtube.com/playlist?list=PLU_22oKqONimKqe-2LmsEG5MvaZcRL101)
 
-[Build a RESTful API with Fastify, Prisma & TypeScript - YouTube](https://www.youtube.com/watch?v=LMoMHP44-xM)
+[Learn Just Enough Fastify to be Productive - YouTube](https://www.youtube.com/watch?v=ZHLB4StAqPM) 29:46
+[Build a RESTful API with Fastify, Prisma & TypeScript - YouTube](https://www.youtube.com/watch?v=LMoMHP44-xM) 2022-02, 1:21:34
 
 [Plugins](https://www.fastify.io/docs/master/Reference/Plugins/)
 [Decorators](https://www.fastify.io/docs/master/Reference/Decorators/)

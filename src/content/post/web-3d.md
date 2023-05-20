@@ -43,6 +43,10 @@ OpenGL 2 allows programmer to use shaders (GLSL) to control the pipeline. WebGL 
 
 [pmndrs/detect-gpu: Classifies GPUs based on their 3D rendering benchmark score allowing the developer to provide sensible default settings for graphically intensive applications.](https://github.com/pmndrs/detect-gpu)
 
+## WebGPU
+
+Replacement of WebGL and Three.js
+
 ## Three.js
 
 Three.js has internal float point representation of models, cannot be optimized

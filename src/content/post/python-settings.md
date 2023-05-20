@@ -543,6 +543,11 @@ Async function can be start-and-awaited, or started by `asyncio.create_taks()` w
 `asyncio.to_thread()` turns a sync function to an async function
 
 ```python
+tasks = [asyncio.create_task(run_some_task(param)) for param in params]
+await asyncio.gather(*tasks)
+```
+
+```python
 results = await asyncio.gather(
   func1(), func2(), func3(),
   return_exceptions=True
@@ -556,9 +561,8 @@ if exceptions:
 ```python
 # TaskGroup new in 3.11
 async with asyncio.TaskGroup as tg:
-  tg.create_task(func1())
-  tg.create_task(func2())
-  tg.create_task(func3())
+  for param in params:
+    tg.create_task(run_some_task(param))
 ```
 
 [timofurrer/awesome-asyncio: A curated list of awesome Python asyncio frameworks, libraries, software and resources](https://github.com/timofurrer/awesome-asyncio)
@@ -1085,7 +1089,7 @@ The resulting search path is accessible in the Python variable `sys.path` which 
 > [Paul Ganssle - Why you shouldn't invoke setup.py directly](https://blog.ganssle.io/tag/setuptools.html) history
 > use modern `pyproject.toml` based build tools
 
-`distutil` is [deprecated](https://pypi.org/project/Distutils2/) by `setuptools`
+`distutil` is [DEPRECATED](https://pypi.org/project/Distutils2/) by `setuptools`
 
 [Welcome to Setuptools’ documentation! — setuptools documentation](https://setuptools.readthedocs.io/en/latest/)
 [Python Entry Points Explained](https://amir.rachum.com/blog/2017/07/28/python-entry-points/)
@@ -1128,6 +1132,7 @@ Defines `pyproject.toml`, decouples from `setuptools` to allow multiple build to
 [build](https://pypa-build.readthedocs.io/en/stable/) PEP 517 frontend
 
 [Ruff](https://beta.ruff.rs/docs/) all-in-one tool, used by many
+[Goodbye to Flake8 and PyLint: faster linting with Ruff](https://pythonspeed.com/articles/pylint-flake8-ruff/)
 
 [takluyver/flit: Simplified packaging of Python modules](https://github.com/takluyver/flit) backend, for pure Python module
 [Flit — Flit documentation](https://flit.pypa.io/en/latest/#)

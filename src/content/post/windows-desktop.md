@@ -38,7 +38,7 @@ tags:
 
 [40 Windows Commands you NEED to know (in 10 Minutes) - YouTube](https://www.youtube.com/watch?v=Jfvg3CS1X3A)
 
-```sh
+```powershell
 chcp   # return current code page
 chcp 65001
 ```
@@ -47,7 +47,7 @@ chcp 65001
 
 [The One Command Every Windows User Should Know And How To Use It](https://hothardware.com/news/windows-system-file-checker-guide)
 
-```
+```powershell
 sfc /scannow
 dism /online /cleanup-image /restorehealth
 chkdsk /f
@@ -88,89 +88,6 @@ Only Windows 10 Professional and Enterprise supports RDP server and it only allo
 [CMD Variable edit replace - Windows CMD - SS64.com](https://ss64.com/nt/syntax-replace.html)
 
 [Getting started with batch files](https://www.robvanderwoude.com/batchstart.php)
-
-## PowerShell
-
-[PowerShell Documentation - PowerShell | Microsoft Docs](https://docs.microsoft.com/en-us/powershell/?view=powershell-7)
-[What is PowerShell? - PowerShell | Microsoft Docs](https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7)
-[Differences between Windows PowerShell 5.1 and PowerShell 7.x - PowerShell | Microsoft Docs](https://docs.microsoft.com/en-us/powershell/scripting/whats-new/differences-from-windows-powershell?view=powershell-7.2)
-
-[lukesampson/pshazz: Give your powershell some pizazz.](https://github.com/lukesampson/pshazz)
-
-```powershell
-# allow scripts
-Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-```
-
-"`" to escape ";" (like "\" in Linux)
-
-```powershell
-# show environment variables
-ls env:
-echo $Env:PATH
-echo $Env:USERPROFILE
-
-ls $Env:USERPROFILE
-```
-
-[Powershell Tutorial - Tutorialspoint](https://www.tutorialspoint.com/powershell/)
-[Getting Started with PowerShell](https://www.robvanderwoude.com/powershellstart.php)
-[Learning PowerShell: The basics | Computerworld](https://www.computerworld.com/article/2893515/getting-started-with-powershell-the-basics.html) PowerShell primers series
-[PowerShell Tutorials - Stephanos Constantinou Blog](https://www.sconstantinou.com/category/powershell-tutorials/)
-[PowerShell - Simple Talk](https://www.red-gate.com/simple-talk/sysadmin/powershell/)
-
-[PowerShell commands - PowerShell - SS64.com](https://ss64.com/ps/)
-[PowerShell Core Commands - Stephanos Constantinou Blog](https://www.sconstantinou.com/powershell-core-commands/)
-
-[lextm/windowsterminal-shell: Install/uninstall scripts for Windows Terminal context menu items](https://github.com/lextm/windowsterminal-shell)
-[Hosting PowerShell in a Python script - PowerShell Team](https://devblogs.microsoft.com/powershell/hosting-powershell-in-a-python-script/)
-
-[How to Debug a PowerShell Script – CloudSavvy IT](https://www.cloudsavvyit.com/8712/how-to-debug-a-powershell-script/)
-
-### Providers
-
-[about_Providers - PowerShell | Microsoft Docs](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_providers?view=powershell-7)
-[PowerShell Providers - Stephanos Constantinou Blog](https://www.sconstantinou.com/powershell-providers/)
-[All about PowerShell providers and modules | Computerworld](https://www.computerworld.com/article/3154158/all-about-powershell-providers-and-modules.html)v
-
-Alias - Windows PowerShell aliases `{Alias}`
-Certificate - X509 certificates for digital signatures `{cert}`
-Environment - Windows environment variables `{Env}`
-FileSystem - File system drives, directories and files `{filesystem}`
-Function - Windows PowerShell functions `{Function}`
-Registry - Windows registry `{HKLM, HKCU}`
-Variable - Windows PowerShell variables `{Variable}`
-
-### Environment Variables
-
-[Use PowerShell to Set Environment Variables](https://www.tachytelic.net/2019/03/powershell-environment-variables/)
-[Windows Environment variables - PowerShell - SS64.com](https://ss64.com/ps/syntax-env.html)
-
-`Get-Childitem env: | sort name`
-
-`$env:Variable = 'value'`
-
-Persist Environment Variables
-
-```powershell
-# scoped to the User
-[System.Environment]::SetEnvironmentVariable('Variable','value',[System.EnvironmentVariableTarget]::User)
-# scoped to the Machine
-[System.Environment]::SetEnvironmentVariable('Variable','value',[System.EnvironmentVariableTarget]::Machine)
-```
-
-### `CmdletBinding`
-
-[about_Functions_CmdletBindingAttribute - PowerShell | Microsoft Docs](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_functions_cmdletbindingattribute?view=powershell-7)
-[about_Functions_Advanced_Parameters - PowerShell | Microsoft Docs](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_functions_advanced_parameters?view=powershell-7)
-[about_Functions_CmdletBindingAttribute - PowerShell | Microsoft Docs](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_functions_cmdletbindingattribute?view=powershell-7)
-[PowerShell advanced functions – The CmdletBinding and Parameter attribute – 4sysops](https://4sysops.com/archives/powershell-advanced-functions-the-cmdletbinding-and-parameter-attribute/#advanced-vs-simple-function)
-
-```powershell
-# parsing argument
-[CmdletBinding()]
-param()
-```
 
 ## Crapware/Debloating
 
@@ -236,10 +153,10 @@ Also disable Background Apps.
 Disable search in Start Menu:
 [windows 10 - How to disable internet search results in start menu post Creators Update? - Super User](https://superuser.com/questions/1196618/how-to-disable-internet-search-results-in-start-menu-post-creators-update)
 
-```cmd
-reg add HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Search /f /v BingSearchEnabled /t REG_DWORD /d 0
-reg add HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Search /f /v AllowSearchToUseLocation /t REG_DWORD /d 0
-reg add HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Search /f /v CortanaConsent /t REG_DWORD /d 0
+```powershell
+REG ADD HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Search /f /v BingSearchEnabled /t REG_DWORD /d 0
+REG ADD HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Search /f /v AllowSearchToUseLocation /t REG_DWORD /d 0
+REG ADD HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Search /f /v CortanaConsent /t REG_DWORD /d 0
 ```
 
 ## Windows 10 License
@@ -325,9 +242,20 @@ Trigger activation manually: `slui 4`
 [Useful Registry Keys - WineHQ Wiki](https://wiki.winehq.org/Useful_Registry_Keys)
 [Best Free PC Registry Cleaner Software Download. Fix Errors Now!](https://www.auslogics.com/en/software/registry-cleaner/)
 
+[reg commands | Microsoft Learn](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/reg)
+[Reg - Edit Registry - Windows CMD - SS64.com](https://ss64.com/nt/reg.html)
+
+[Working with registry entries - PowerShell | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/scripting/samples/working-with-registry-entries?view=powershell-7.3)
+[New-ItemProperty (Microsoft.PowerShell.Management) - PowerShell | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/new-itemproperty)
+
+```powershell
+New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem" `
+-Name "LongPathsEnabled" -Value 1 -PropertyType DWORD -Force
+```
+
 ### Protocol Registration
 
-```cmd
+```powershell
 REG ADD HKEY_CLASSES_ROOT\rtsp /f /v EditFlags /t REG_BINARY /d 02000000
 REG ADD HKEY_CLASSES_ROOT\rtsp /f /v "URL Protocol" /t REG_SZ
 REG ADD HKEY_CLASSES_ROOT\rtsp\shell\open\command /f /ve /d "\"C:\Program Files\VideoLAN\VLC\vlc.exe\" %%1"
@@ -733,8 +661,6 @@ winmerge
 
 [How to Find the Missing 'System' Control Panel in Windows 10](https://lifehacker.com/how-to-find-the-missing-system-control-panel-in-windows-1846036161/amp)
 
-[How to Make Windows 10 Accept File Paths Over 260 Characters](https://www.howtogeek.com/266621/how-to-make-windows-10-accept-file-paths-over-260-characters/))
-
 [How to list all installed third-party drivers on Windows PCs - gHacks Tech News](https://www.ghacks.net/2019/10/21/how-to-list-all-installed-third-party-drivers-on-windows-pcs/)
 
 [How to Automatically Run Programs and Set Reminders With the Windows Task Scheduler](https://www.howtogeek.com/123393/how-to-automatically-run-programs-and-set-reminders-with-the-windows-task-scheduler/)
@@ -780,11 +706,29 @@ Start and type `cmd`, followed by <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Ente
 
 ### Fast Startup
 
-Windows 8 and 10's Fast Startup will make NTFS volumes dirty and not writable in Linux.
+Windows's Fast Startup (since 8) will make NTFS volumes dirty and not writable in Linux.
 It also skips loading driver and causes GPU issues.
 Goto "Power Settings" and disable the feature in "Shutdown settings".
 
 [Solve Windows Partition Mount Problem In Ubuntu Dual Boot - It's FOSS](https://itsfoss.com/solve-ntfs-mount-problem-ubuntu-windows-8-dual-boot/)
+
+### Long Path
+
+[Maximum Path Length Limitation - Win32 apps | Microsoft Learn](https://learn.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation?tabs=registry)
+
+```reg
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem]
+"LongPathsEnabled"=dword:00000001
+```
+
+```powershell
+New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem" `
+-Name "LongPathsEnabled" -Value 1 -PropertyType DWORD -Force
+```
+
+[How to Make Windows 10 Accept File Paths Over 260 Characters](https://www.howtogeek.com/266621/how-to-make-windows-10-accept-file-paths-over-260-characters/))
 
 ### System Check
 
@@ -848,8 +792,9 @@ Settings > System > Multitasking > Alt + Tab
 [microsoft/winget-pkgs: The Microsoft community Windows Package Manager manifest repository](https://github.com/microsoft/winget-pkgs)
 
 [Microsoft announces official Windows package manager. 'Not a package manager' users snap back • The Register](https://www.theregister.com/2020/05/20/microsoft_announces_official_windows_package/)
+[winget-cli/doc/troubleshooting at master · microsoft/winget-cli · GitHub](https://github.com/microsoft/winget-cli/tree/master/doc/troubleshooting)
 
-`wingetcreate`, generated at `c:\manifest`
+[winstall - GUI for Windows Package Manager](https://winstall.app/)
 
 ```powershell
 winget search app
@@ -859,6 +804,34 @@ winget upgrade --all
 winget export -o c:\installed.txt
 winget settings
 ```
+
+```powershell
+7zip.7zip
+AutoHotkey.AutoHotkey
+CPUID.CPU-Z
+Git.Git
+Kitware.CMake
+Microsoft.DotNet.SDK.7
+Microsoft.VisualStudioCode
+Microsoft.VisualStudio.2022.Community
+RustDesk.RustDesk
+Starship.Starship
+WinMerge.WinMerge
+```
+
+#### App not found in CLI
+
+[Cannot use Winget. Winget Not Recognized Error. · Issue #725 · microsoft/winget-cli](https://github.com/microsoft/winget-cli/issues/725#issuecomment-835394620) add `%LOCALAPPDATA%\Microsoft\WindowsApps` to `$env:Path`
+
+Or toggle setting in "App execution aliases"
+
+#### Creating package
+
+`wingetcreate`, generated at `c:\manifest`
+
+[microsoft/winget-create: The Windows Package Manager Manifest Creator command-line tool (aka wingetcreate)](https://github.com/microsoft/winget-create)
+[Create your package manifest | Microsoft Learn](https://learn.microsoft.com/en-us/windows/package-manager/package/manifest?tabs=minschema%2Cversion-example)
+[Alexandre Nédélec - Producing packages for Windows Package Manager](https://www.techwatching.dev/posts/wingetcreate)
 
 ### Scoop
 

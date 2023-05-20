@@ -64,6 +64,11 @@ tags:
 
 [How ActionScript foreshadowed TypeScript | by Gary Nelson | JavaScript in Plain English](https://javascript.plainenglish.io/how-actionscript-foreshadowed-typescript-149cdb764de9)
 
+TypeScript -> JSDoc
+[TypeScript is 'not worth it' for developing libraries, says Svelte author, as team switches to JavaScript and JSDoc • DEVCLASS](https://devclass.com/2023/05/11/typescript-is-not-worth-it-for-developing-libraries-says-svelte-author-as-team-switches-to-javascript-and-jsdoc/)
+[CREATOR OF SVELTE From TS TO JSDoc?? - YouTube](https://www.youtube.com/watch?v=zPOHY-cZ1wE)
+[TS vs JSDoc | Prime Reacts - YouTube](https://www.youtube.com/watch?v=pj8SoTZbCTE)
+
 ## Types
 
 [type-challenges/type-challenges: Collection of TypeScript type challenges with online judge](https://github.com/type-challenges/type-challenges)

@@ -2,8 +2,10 @@
 title: New Energy Source
 description: ""
 created: 2015-11-04
+updated: 2023-05-18
 tags:
   - science
+  - energy
 ---
 
 [Our Energy Future - University of California, San Diego | Coursera](https://www.coursera.org/learn/future-of-energy/)
@@ -26,6 +28,11 @@ tags:
 [[ww-ii#Manhattan Project]]
 
 [Information Library - World Nuclear Association](http://www.world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-power-reactors.aspx)
+
+[WTF Happened to Nuclear Energy? - YouTube](https://www.youtube.com/watch?v=QzTgZ6kOEM8)
+[The Big Lie About Nuclear Waste - YouTube](https://www.youtube.com/watch?v=IzQ3gFRj0Bc)
+[Nuclear waste is not the problem you've been made to believe it is - YouTube](https://www.youtube.com/watch?v=aDUvCLAp0uU)
+
 [切尔诺贝利的警示：核辐射有哪些危害？核电站会发生核爆炸吗？ - YouTube](https://www.youtube.com/watch?v=BaNj2K73NPY)
 [切尔诺贝利为啥爆炸？原子弹与核电站的工作原理 - YouTube](https://www.youtube.com/watch?v=hOUyWmcO6D8)
 高功率管道式反應堆/輕水石墨堆 RBMK
@@ -37,11 +44,13 @@ tags:
 [Small nuclear power reactors - World Nuclear Association](http://www.world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-power-reactors/small-nuclear-power-reactors.aspx)
 [Advanced Small Modular Reactors (SMRs) | Department of Energy](https://www.energy.gov/ne/advanced-small-modular-reactors-smrs)
 [Benefits of Small Modular Reactors (SMRs) | Department of Energy](https://www.energy.gov/ne/benefits-small-modular-reactors-smrs)
+[最安全的核電廠？郭董提的小型核電廠 SMR，在中國已有併網發電實例！用發電量換安全性，真的遇到停電也不怕？ - YouTube](https://www.youtube.com/watch?v=29WGNfuxIxc)
 [台灣反核的同時，世界大國卻拚命發展新技術，「小型核電廠」真有那麼神？-風傳媒](https://www.storm.mg/lifestyle/4116728)
 
 ## Nuclear Fusion
 
 [Nuclear fusion - Wikiwand](https://www.wikiwand.com/en/Nuclear_fusion)
+[A Strange 1950s Technology Could Finally Bring Fusion Energy to the Grid](https://www.inverse.com/science/stellarator-nuclear-fusion-reactor)
 
 deuterium-deuterium (D-D) reaction -> H3 + neutron
 deuterium-tritium (D-T) reaction -> H4 + neutron, preferred
@@ -96,6 +105,12 @@ High Temperature Superconductor
 [A Basic Overview of Fuel Cell Technology](http://americanhistory.si.edu/fuelcells/basics.htm)
 
 [How Fuel Cells Work - HowStuffWorks](http://auto.howstuffworks.com/fuel-efficiency/alternative-fuels/fuel-cell.htm)
+
+## Geothermal
+
+[Geothermal Energy: How Big is the Potential? - YouTube](https://www.youtube.com/watch?v=l6UGpaKnkS0)
+
+[Fracking for Clean Energy (wait, what?) - YouTube](https://www.youtube.com/watch?v=cCE1i2tJQQY) enhanced geothermal = fracking
 
 ## Plasma
 

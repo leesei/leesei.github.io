@@ -9,8 +9,6 @@ tags:
   - wordpress
 ---
 
-# WordPress Hosting
-
 [wordpress hosting - Google Search](https://www.google.com/search?q=+wordpress+hosting&ei=WLRhYOb0Bo_v-QbM8oLYCQ)
 [How to Create an Image Gallery in WordPress (Step by Step)](https://www.wpbeginner.com/beginners-guide/how-to-create-an-image-gallery-in-wordpress/)
 

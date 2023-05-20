@@ -1,8 +1,8 @@
 ---
 title: ffmpeg
-description: ""
+description: "A complete, cross-platform solution to record, convert and stream audio and video."
 created: 2015-01-13
-updated: 2023-03-29
+updated: 2023-05-17
 tags:
   - app
   - avconv
@@ -11,7 +11,7 @@ tags:
 ---
 
 [FFmpeg - Wikiwand](https://www.wikiwand.com/en/FFmpeg)
-FFmpeg is a library and utility for AV format conversion.
+[FFmpeg](https://ffmpeg.org/)
 
 [libavcodec - What is ffmpeg, avcodec, x264? - Stack Overflow](https://stackoverflow.com/questions/16772558/what-is-ffmpeg-avcodec-x264)
 
@@ -32,19 +32,6 @@ ffmpeg [global options] [[infile options][-i infile]]... {[outfile options] outf
 | `-filter:v`, `-vf`     | Video filters                       |
 | `-filter:a`, `-af`     | Audio filters                       |
 
-## Libav kerfuffle
-
-> Libav is dead as of 2022
-
-[Libav - Wikiwand](https://www.wikiwand.com/en/Libav)
-Libav is a fork of FFmpeg in 2011 with more transparent governance.
-But the maintainers failed to maintain their original intention and rejected to merge changes from FFmpeg.
-They managed to keep their popularity as Debian/Ubuntu used it as default. That changed in 2015 and momentum to Libav is lost.
-
-[The FFmpeg/Libav situation](https://web.archive.org/web/20230122183833/http://blog.pkh.me/p/13-the-ffmpeg-libav-situation.html)
-
-[ubuntu - What are the differences and similarities between ffmpeg, libav, and avconv? - Stack Overflow](https://stackoverflow.com/questions/9477115/what-are-the-differences-and-similarities-between-ffmpeg-libav-and-avconv/9477756#9477756)
-
 ## screenshot
 
 ```sh
@@ -53,13 +40,6 @@ ffmpeg -ss 05:00 -to 05:10 -i <input> screenshot%05d.png
 ```
 
 ## trim clip
-
-```sh
-# frame accurate, may not be keyframe
-avconv -i <infile> -ss <second/hh:mm:ss[.xxx]> -t <second/hh:mm:ss[.xxx]> -c copy <outfile>
-# search by keyframe, faster
-avconv -ss <second/hh:mm:ss[.xxx]> -i <infile> -t <second/hh:mm:ss[.xxx]> -c copy <outfile>
-```
 
 > TODO: add tool to do diff of `hh:mm:ss[.xxx]` format time
 
@@ -152,21 +132,31 @@ Using per frame palettes:
 
 [Documentation](http://ffmpeg.org/documentation.html)
 [`ffmpeg` Documentation](http://ffmpeg.org/ffmpeg.html)
-[FFmpeg Filters Documentation](https://ffmpeg.org/ffmpeg-filters.html)
 
 [FFmpeg - ArchWiki](https://wiki.archlinux.org/title/FFmpeg)
 [FFmpeg wiki](http://trac.ffmpeg.org/wiki)
 [Seeking – FFmpeg](https://trac.ffmpeg.org/wiki/Seeking)
 
 [ffmpeg audio/video manipulation](http://howto-pages.org/ffmpeg/)
-[19 ffmpeg commands for all needs | CatsWhoCode.com](http://www.catswhocode.com/blog/19-ffmpeg-commands-for-all-needs)
+[19 FFmpeg Commands for Your Needs (2023 Edition)](https://catswhocode.com/ffmpeg-commands/)
 [ffmpeg | Video Encoding & Streaming Technologies](https://sonnati.wordpress.com/category/ffmpeg/)
 [using ffmpeg to extract audio from video files](https://gist.github.com/protrolium/e0dbd4bb0f1a396fcb55)
 [A quick guide to using FFmpeg to convert media files | Opensource.com](https://opensource.com/article/17/6/ffmpeg-convert-media-file-formats)
 
-[Understanding FFmpeg - Part I: General usage | reneVolution](http://www.renevolution.com/understanding-thegeneral-usage-of-ffmpeg-part-one/)
-[Understanding FFmpeg - Part II: Scaling video | reneVolution](http://www.renevolution.com/understanding-ffmpeg-part-ii-scaling-video/)
-[Understanding FFmpeg - Part III: Cropping | reneVolution](http://www.renevolution.com/understanding-ffmpeg-part-iii-cropping/)
+## Filters
 
-[Libav documentation : avconv](https://libav.org/avconv.html)
-[Amit Mund: Media Coversion with avconv](http://amitmund.blogspot.hk/2013/05/media-coversion-with-avconv.html)
+[FFmpeg Filters Documentation](https://ffmpeg.org/ffmpeg-filters.html)
+[FilteringGuide – FFmpeg](https://trac.ffmpeg.org/wiki/FilteringGuide)
+
+## Libav/avconv kerfuffle
+
+> Libav/avconv are dead as of 2022
+
+[Libav - Wikiwand](https://www.wikiwand.com/en/Libav)
+Libav is a fork of FFmpeg in 2011 with more transparent governance.
+But the maintainers failed to maintain their original intention and rejected to merge changes from FFmpeg.
+They managed to keep their popularity as Debian/Ubuntu used it as default and claiming FFMpeg that is obsolete. That changed in 2015 and momentum to Libav is lost.
+
+[The FFmpeg/Libav situation](https://web.archive.org/web/20230122183833/http://blog.pkh.me/p/13-the-ffmpeg-libav-situation.html)
+
+[ubuntu - What are the differences and similarities between ffmpeg, libav, and avconv? - Stack Overflow](https://stackoverflow.com/questions/9477115/what-are-the-differences-and-similarities-between-ffmpeg-libav-and-avconv/9477756#9477756)

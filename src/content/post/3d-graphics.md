@@ -5,6 +5,7 @@ created: 2019-09-10
 tags:
   - app
   - graphics
+  - vtk
 ---
 
 [[sketchup]]
@@ -157,6 +158,10 @@ Gamers Nexus
 [VTK - The Visualization Toolkit](https://vtk.org/)
 [AliceVision | Photogrammetric Computer Vision Framework](https://alicevision.org/)
 [alicevision/meshroom: 3D Reconstruction Software](https://github.com/alicevision/meshroom)
+
+[vtk+DearImGui integration through vtkGenericOpenGLRenderWindow - Development - VTK](https://discourse.vtk.org/t/vtk-dearimgui-integration-through-vtkgenericopenglrenderwindow/4424)
+[trlsmax/imgui-vtk: test on how to integrate vtk into glfw + imgui project](https://github.com/trlsmax/imgui-vtk)
+[phcerdan/vtkImGuiAdapter: Adapter to add imgui to an existing vtkRenderWindow using SDL2.](https://github.com/phcerdan/vtkImGuiAdapter/)
 
 ### Data Files
 

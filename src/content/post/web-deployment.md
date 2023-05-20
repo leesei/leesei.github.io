@@ -45,6 +45,7 @@ tags:
 [codesenberg/bombardier: Fast cross-platform HTTP benchmarking tool written in Go](https://github.com/codesenberg/bombardier)
 [h2load - HTTP/2 benchmarking tool - HOW-TO — nghttp2 documentation](https://nghttp2.org/documentation/h2load-howto.html)
 [mcollina/autocannon: fast HTTP/1.1 benchmarking tool written in Node.js](https://github.com/mcollina/autocannon)
+[hatoo/oha: Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.](https://github.com/hatoo/oha)
 
 [k6.io - Performance testing for developers, like unit-testing, for performance](https://k6.io/)
 [grafana/k6: A modern load testing tool, using Go and JavaScript - https://k6.io](https://github.com/grafana/k6)

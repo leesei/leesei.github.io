@@ -24,6 +24,9 @@ Cyber attack lifecycle/kill chain
 
 living off the land (using tools at victim machine)
 
+[How do hackers get caught? - the hunt for the hacker. - YouTube](https://www.youtube.com/watch?v%3Dw0h1Fshu74g)
+[I wouldn’t give this cable to my worst enemy - O.MG Cable - YouTube](https://www.youtube.com/watch?v=mPF9f-PLDPc)
+
 [carpedm20/awesome-hacking: A curated list of awesome Hacking tutorials, tools and resources](https://github.com/carpedm20/awesome-hacking)
 [onlurking/awesome-infosec: A curated list of awesome infosec courses and training resources.](https://github.com/onlurking/awesome-infosec)
 
@@ -79,7 +82,32 @@ Google CTF
 [qwqdanchun](https://github.com/qwqdanchun) RED team, releasing attack tools
 [恶意软件学习笔记 - Malware Note](https://docs.qwqdanchun.com/)
 
-## Tools
+## Supply Chain/Software BOM (bill of material)
+
+[Open Source & Software Supply Chain Risks Blog | Synopsys](https://www.synopsys.com/blogs/software-security/category/open-source-and-software-supply-chain-risks/)
+[Snyk Vulnerability Database | Snyk](https://security.snyk.io/)
+
+[Why The US Government Is Mandating Software Bill Of Materials (SBOM)](https://www.activestate.com/blog/why-the-us-government-is-mandating-software-bill-of-materials-sbom/) US Government requires SBOM for contracted solution in 2023
+
+[EU attempts to secure software could hurt open source • The Register](https://www.theregister.com/2023/05/12/eu_cyber_resilience_act/) EU's Cyber Resilience Act (CRA) requires requires vendor to ensure their solution (potentially with open source components) is secure
+
+[What is a software bill of materials (SBOM)? | Synopsys](https://www.synopsys.com/blogs/software-security/software-bill-of-materials-bom/)
+[Software Bill of Materials (SBOM) | CISA](https://www.cisa.gov/sbom)
+
+### SBOM Tools
+
+[Software Package Data Exchange - Wikiwand](https://www.wikiwand.com/en/Software_Package_Data_Exchange)
+[International Open Standard (ISO/IEC 5962:2021) - Software Package Data Exchange (SPDX)](https://spdx.dev/)
+[SPDX](https://github.com/spdx) GitHub Org, spec and language specific tools
+[What Is SPDX and How Does It Work? | Synopsys](https://www.synopsys.com/glossary/what-is-spdx.html)
+
+[OWASP CycloneDX Software Bill of Materials (SBOM) Standard](https://cyclonedx.org/)
+
+[Software Identification (SWID) Tagging | CSRC](https://csrc.nist.gov/projects/Software-Identification-SWID)
+
+[npm audit: Broken by Design — Overreacted](https://overreacted.io/npm-audit-broken-by-design/) audit tools should not cause noise
+
+## Cybersec Tools
 
 [19 open source GitHub projects for security pros | InfoWorld](http://www.infoworld.com/article/3051771/security/19-open-source-github-projects-for-security-pros.html)
 
@@ -138,6 +166,8 @@ Google CTF
 [5 Kali Linux tools you should learn how to use - Help Net Security](https://www.helpnetsecurity.com/2022/11/14/kali-linux-tools/)
 [University of Kali Linux - YouTube](https://www.youtube.com/c/UniversityofKaliLinux)
 
+[Und3rf10w/kali-anonsurf: A port of ParrotSec's stealth and anonsurf modules to Kali Linux](https://github.com/Und3rf10w/kali-anonsurf) send all traffic via Tor network
+
 ### Metasploit
 
 [Penetration Testing Software | Metasploit](https://www.metasploit.com/)
@@ -177,6 +207,8 @@ OpenVAS
 [SCARLETEEL: Operation leveraging Terraform, Kubernetes, and AWS for data theft – Sysdig](https://sysdig.com/blog/cloud-breach-terraform-data-theft/)
 
 ### Honeypot
+
+[paralax/awesome-honeypots: an awesome list of honeypot resources](https://github.com/paralax/awesome-honeypots)
 
 [Kippo - SSH Honeypot](https://www.kitploit.com/2019/06/kippo-ssh-honeypot.html)
 
@@ -318,8 +350,9 @@ Use time difference in array comparison to brute force the digest byte by byte.
 
 ## Shellshock
 
-[Shellshock (software bug) - Wikiwand](https://www.wikiwand.com/en/Shellshock_(software_bug%29)
+[Shellshock (software bug) - Wikiwand](<https://www.wikiwand.com/en/Shellshock_(software_bug)>)
 
+[The Shellshock Bug In About Four Minutes - YouTube](https://www.youtube.com/watch?v=aKShnpOXqn0)
 [Shellshock DIY – Andrew Kennedy](http://akenn.org/blog/shellshock/)
 [Troy Hunt: Everything you need to know about the Shellshock Bash bug](http://www.troyhunt.com/2014/09/everything-you-need-to-know-about.html)
 [How to Protect Your Server Against the Shellshock Bash Vulnerability | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-protect-your-server-against-the-shellshock-bash-vulnerability)

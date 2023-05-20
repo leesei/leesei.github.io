@@ -9,8 +9,6 @@ tags:
   - web-framework
 ---
 
-# CakePHP
-
 [CakePHP - Build fast, grow solid | PHP Framework | Home](https://cakephp.org/)
 [Home — Bakery](https://bakery.cakephp.org/) blog
 [Overview | CakePHP 4.4](https://api.cakephp.org/4.4/)

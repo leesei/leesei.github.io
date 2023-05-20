@@ -456,6 +456,11 @@ compares Gin, Echo, Chi
 
 [chi](https://go-chi.io/#/) routing, middleware, render and docgen
 
+#### Goa Design
+
+[Goa :: Design first.](https://goa.design/)
+[Goa](https://github.com/goadesign)
+
 #### Gin
 
 [Gin Web Framework](https://gin-gonic.com/)

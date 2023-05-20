@@ -9,6 +9,8 @@ tags:
 
 > MongoDB after 3.6 uses [SSPL](https://www.mongodb.com/licensing/server-side-public-license)
 
+[[ferretdb]]
+
 [MongoDB | Build Faster. Build Smarter. | MongoDB](https://www.mongodb.com/)
 
 [MongoDB Evolved – Version History | MongoDB](https://www.mongodb.com/evolved)
@@ -160,6 +162,12 @@ mongoexport --db users --collection contacts --type=csv --headerline contacts.cs
 [MongoDB internal Architecture. I’m a big believer that database… | by Hussein Nasser | Medium](https://medium.com/@hnasr/mongodb-internal-architecture-9a32f1403d6f)
 [MongoDB Internal Architecture - YouTube](https://www.youtube.com/watch?v=ONzdr4SmOng)
 
+[2x Faster Reads and Writes with this MongoDB feature | Clustered Collections - YouTube](https://www.youtube.com/watch?v=OhJ3xcjtpis)
+[Clustered Collections — MongoDB Manual](https://www.mongodb.com/docs/manual/core/clustered-collections/)
+
+Previously, a find by `_id` is two index search, one in `_id` index for the `recordId`, one in the internal `recordId` index for the actual BSON document
+Clustered Collections in 5.3 merged the two index and `_id` index's leaves are the BSON documents
+
 ## Indexes
 
 [MongoDB Performance 101: How To Improve the Speed of MongoDB App](https://medium.com/better-programming/mongodb-performance-101-how-to-improve-the-speed-of-mongodb-app-a59f2390ee5)
@@ -172,7 +180,7 @@ mongoexport --db users --collection contacts --type=csv --headerline contacts.cs
 [Hashed Indexes — MongoDB Manual](https://docs.mongodb.com/manual/core/index-hashed/) when index field > 1024 bytes
 [db.collection.createIndex() — MongoDB Manual](https://docs.mongodb.com/manual/reference/method/db.collection.createIndex/)
 
-[[SERVER-3294] Ability to keep data on disk in ~ index order - MongoDB Jira](https://jira.mongodb.org/browse/SERVER-3294) WiredTiger does not implement index clustering
+[\[SERVER-3294\] Ability to keep data on disk in ~ index order - MongoDB Jira](https://jira.mongodb.org/browse/SERVER-3294) WiredTiger does not implement (and cannot guarantee) index clustering on disk level
 
 ### Text Search
 

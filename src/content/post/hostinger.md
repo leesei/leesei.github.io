@@ -80,3 +80,7 @@ ns2.dns-parking.com
 
 [How to manage my DNS records on hPanel? | Hostinger Help Center](https://support.hostinger.com/en/articles/1583249-how-to-manage-my-dns-records-on-hpanel)  
 [How to transfer domain to Hostinger? | Hostinger Help Center](https://support.hostinger.com/en/articles/1583436-how-to-transfer-domain-to-hostinger)
+
+### Transfer email to Hostinger
+
+[How to Migrate Email Services to Hostinger | Hostinger Help Center](https://support.hostinger.com/en/articles/5240867-how-to-migrate-email-services-to-hostinger)

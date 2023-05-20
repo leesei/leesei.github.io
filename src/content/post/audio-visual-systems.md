@@ -12,13 +12,9 @@ tags:
   - video-editing
 ---
 
-[Technology Connections - YouTube](https://www.youtube.com/channel/UCy0tKL1T7wFoYcxCe0xjN6Q)
+[Technology Connections - YouTube](https://www.youtube.com/@TechnologyConnections)
 
 [History of Artificial Sound - YouTube](https://www.youtube.com/playlist?list=PLv0jwu7G_DFUYPuDoKWCUy33lL9LnMBGX)
-
-[Television - YouTube](https://www.youtube.com/playlist?list=PLv0jwu7G_DFUGEfwEl0uWduXGcRbT7Ran)
-[The Impossible Feat inside Your VCR - YouTube](https://www.youtube.com/watch?v=KfuARMCyTvg)
-[Closed Captioning: More Ingenious than You Know - YouTube](https://www.youtube.com/watch?v=6SL6zs2bDks)
 
 [Film: the reason some of the past was in HD - YouTube](https://www.youtube.com/watch?v=rVpABCxiDaU)
 [How Was Video Invented? - YouTube](https://www.youtube.com/watch?v=rjDX5ItsOnQ)
@@ -381,10 +377,33 @@ Youtubbers and the Youtube Platform are becoming adults
 [Optical Image Stabilization as Fast As Possible - YouTube](https://www.youtube.com/watch?v=_OvBUolFq3Y)
 [Autofocus as Fast As Possible - YouTube](https://www.youtube.com/watch?v=XGdEsOg5eD0)
 
+## Analog Television
+
+How videos are encoded, recorded and broadcasted
+
+[Television - YouTube](https://www.youtube.com/playlist?list=PLv0jwu7G_DFUGEfwEl0uWduXGcRbT7Ran)
+[Closed Captioning: More Ingenious than You Know - YouTube](https://www.youtube.com/watch?v=6SL6zs2bDks)
+
+## Videotape
+
+Early videotape don't have the bandwidth to store color television's encoding scheme (composite color), hence they have to come up with alternate schemes of encoding (color-under encoding) which reduced the quality
+
+Technology Connections
+[Videotape Format War (Beta vs. VHS) - YouTube](https://www.youtube.com/playlist?list=PLv0jwu7G_DFUrcyMYAkUPODENwP4gYCmf)
+[The Impossible Feat inside Your VCR - YouTube](https://www.youtube.com/watch?v=KfuARMCyTvg)
+[Sony Betacam: Not the Beta you're thinking of (it's way better) - YouTube](https://www.youtube.com/watch?v=hGVVAQVdEOs)
+"Beta has better quality claim" is invalid as Beta II (~=VHS-LP mode) obsoletes Beta I in later part of the war
+Beta II has more or less the same quality as VHS-SP video
+Betacam is based on Betamax but records component video (separating Luminance and Color) on type hence have much better quality (near that of DVD), they are used in professional video production
+
 ## Film Photography
 
 [How Does Film ACTUALLY Work? (It's MAGIC) [Photos and Development] - Smarter Every Day 258 - YouTube](https://www.youtube.com/watch?v=TCxoZlFqzwA)
 [Drawing with Light: How photos were made a century ago - YouTube](https://www.youtube.com/watch?v=wbbH77rYaa8)
+
+[How Does Kodak Make Film? (Kodak Factory Tour Part 1 of 3) - Smarter Every Day 271 - YouTube](https://www.youtube.com/watch?v=HQKy1KJpSVc)
+[How Does Kodak Make Film? (Kodak Factory Tour Part 2 of 3) - Smarter Every Day 275 - YouTube](https://www.youtube.com/watch?v=cAAJUHwh9F4)
+[How Kodak Punches 384,000 HOLES A MINUTE in Film Stock (Kodak Factory 3 of 3)- Smarter Every Day 286 - YouTube](https://www.youtube.com/watch?v=mrJP82ZZiag)
 
 [Film: the reason some of the past was in HD - YouTube](https://www.youtube.com/watch?v=rVpABCxiDaU)
 [Photography - YouTube](https://www.youtube.com/playlist?list=PLv0jwu7G_DFV6yW240e6CbiwCLaZ0Z6PV) Technology Connections

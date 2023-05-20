@@ -16,6 +16,7 @@ tags:
 [Journey into cryptography | Computer science | Computing | Khan Academy](https://www.khanacademy.org/computing/computer-science/cryptography)
 [Cryptography I | Coursera](https://www.coursera.org/learn/crypto)
 [The Cryptopals Crypto Challenges](http://cryptopals.com/)
+[7 Cryptography Concepts EVERY Developer Should Know - YouTube](https://www.youtube.com/watch?v=NuyzuNBFWxQ)
 
 In cryptography, these entities are usually used:
 
@@ -41,7 +42,7 @@ Bit security measures the number of trials required to brute-force a key. 128 bi
 ### Authenticity
 
 [Message authentication code - Wikiwand](http://www.wikiwand.com/en/Message_authentication_code) MAC
-[Hash-based message authentication code - Wikiwand](http://www.wikiwand.com/en/Hash-based_message_authentication_code) HMAC
+[Hash-based message authentication code - Wikiwand](http://www.wikiwand.com/en/Hash-based_message_authentication_code) HMAC, hash with secret key
 [Moxie Marlinspike >> Blog >> The Cryptographic Doom Principle](http://www.thoughtcrime.org/blog/the-cryptographic-doom-principle/) Encrypt-then-MAC
 
 [Securing Stream Ciphers (HMAC) - Computerphile - YouTube](https://www.youtube.com/watch?v=wlSG3pEiQdc)
@@ -71,6 +72,15 @@ Certificate Authorities: a trusted third party that will digitally sign and publ
 [Argon2 - Wikiwand](https://www.wikiwand.com/en/Argon2)
 [P-H-C/phc-winner-argon2: The password hash Argon2, winner of PHC](https://github.com/P-H-C/phc-winner-argon2)
 [How to enable Argon2 KDF in Bitwarden - gHacks Tech News](https://www.ghacks.net/2023/02/15/bitwarden-password-manager-introduces-support-for-argon2-kdf-iterations/)
+
+## Implementation
+
+[[openssl]]
+
+[The Linux Crypto API for user applications](https://blog.cloudflare.com/the-linux-crypto-api-for-user-applications/)
+This is slower than OpenSSL
+
+[AES instruction set - Wikiwand](https://www.wikiwand.com/en/AES_instruction_set)
 
 ## Key Exchange
 
@@ -102,17 +112,20 @@ Block ciphers, as the name suggests, encrypts blocks. The methods of segmenting 
 
 [Modes of Operation - Computerphile - YouTube](https://www.youtube.com/watch?v=Rk0NIQfEXBA)
 **ECB**: simply divides a message into 16 byte blocks, preserves pattern (for experts only: ECB should never be used except in some very specific cases)
-**CBC**: first block XORed with Initialization Vector (IV) (nonce), every other block XORed with the ciphertext of the block preceding it
+**CBC**: first block XORed with Initialization Vector (IV) (nonce), every other block XORed with the ciphertext of the block preceding it; however this introduces dependency on previous block and encryption cannot be parallelized
+**CTR**: uses counter and nounce (similar to IV) per block to allow each block to be encrypted concurrently
 
 [Authenticated encryption - Wikiwand](https://www.wikiwand.com/en/Authenticated_encryption) protects against chosen ciphertext attack on decryption oracle
 [Authenticated Encryption in .NET with AES-GCM](https://www.scottbrady91.com/c-sharp/aes-gcm-dotnet)
 
 ### AES
 
+[Advanced Encryption Standard - Wikiwand](https://www.wikiwand.com/en/Advanced_Encryption_Standard)
 [Lecture 8: AES: The Advanced Encryption Standard](https://engineering.purdue.edu/kak/compsec/NewLectures/Lecture8.pdf)
 [Protect your TCP tunnel by implementing AES encryption with Python [Tutorial] | Packt Hub](https://hub.packtpub.com/protect-tcp-tunnel-implementing-aes-encryption-with-python/)
 
 [Crypto competitions: AES: the Advanced Encryption Standard](http://competitions.cr.yp.to/aes.html)
+[AES Explained (Advanced Encryption Standard) - Computerphile - YouTube](https://www.youtube.com/watch?v=O4xNJsjtN6E)
 [One Encryption Standard to Rule Them All! - Computerphile - YouTube](https://www.youtube.com/watch?v=VYech-c5Dic)
 [Almost All Web Encryption Works Like This (SP Networks) - Computerphile - YouTube](https://www.youtube.com/watch?v=DLjzI5dX8jc)
 
@@ -182,3 +195,12 @@ Public Key crypto simply works with numbers. This means that any messages would 
 
 [Faux Cyrillic - Wikiwand](https://www.wikiwand.com/en/Faux_Cyrillic)
 [IDN homograph attack - Wikiwand](https://www.wikiwand.com/en/IDN_homograph_attack)
+
+## Zero-knowledge proof
+
+[Zero-knowledge proof - Wikiwand](https://www.wikiwand.com/en/Zero-knowledge_proof)
+把問題和答案的關聯轉變成機率問題
+透過趨近無窮次的試驗，使猜對的機率趨近 0
+
+[Zero-Knowledge Proof (ZKP) — Explained | Chainlink](https://blog.chain.link/what-is-a-zero-knowledge-proof-zkp/)
+[神奇的零知识证明！既能保守秘密，又让别人信你！ - YouTube](https://www.youtube.com/watch?v=FuKEpOhiVPg)

@@ -12,8 +12,6 @@ tags:
   - web/deploy
 ---
 
-# Kubernetes
-
 [Kubernetes by Google](http://kubernetes.io/)
 [Kubernetes - Wikiwand](http://www.wikiwand.com/en/Kubernetes)
 [community/sig-list.md at master · kubernetes/community](https://github.com/kubernetes/community/blob/master/sig-list.md)
@@ -44,7 +42,10 @@ tags:
 [An Introduction to Kubernetes | DigitalOcean](https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes)
 [Kubernetes - A Practical Introduction for Application Developers — GoDaddy Open Source Center](https://godaddy.github.io/2018/05/02/kubernetes-introduction-for-developers/)
 [Yet Another Kubernetes (k8s) Guide - Better Programming - Medium](https://medium.com/better-programming/yet-another-kubernetes-k8s-guide-52377a72ce65)
+[Understanding Kubernetes Pods: Deployment, ReplicaSet, and Auto Healing](https://sumanprasad.hashnode.dev/understanding-kubernetes-pods-deployment-replicaset-and-auto-healing) 2023
+[A deep dive into Kubernetes Deployment strategies](https://www.educative.io/blog/kubernetes-deployments-strategies) 2020-11
 [Kubernetes? It's all Greek to me. | GitLab](https://about.gitlab.com/blog/2019/10/24/kubernetes-101/)
+[Kubernetes 101 Series' Articles - DEV Community](https://dev.to/leandronsp/series/21979)
 [Kubernetes 101 - YouTube](https://www.youtube.com/playlist?list=PL2_OBreMn7FoYmfx27iSwocotjiikS5BD)
 [Kubernetes Crash Course: Learn the Basics and Build a Microservice Application - YouTube](https://www.youtube.com/watch?v=XuSQU5Grv1g) 2023-04
 [Kubernetes Crash Course for Absolute Beginners [NEW] - YouTube](https://www.youtube.com/watch?v=s_o8dwzRlu4) 2021-09

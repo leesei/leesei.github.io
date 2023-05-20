@@ -6,8 +6,6 @@ tags:
   - app
 ---
 
-# AutoHotKey
-
 > Windows
 
 [AutoHotkey](https://www.autohotkey.com/)

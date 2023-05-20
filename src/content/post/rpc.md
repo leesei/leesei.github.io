@@ -1,5 +1,5 @@
 ---
-title: Remote Procedure Call
+title: Remote Procedure Call (RPC)
 description: ""
 created: 2018-08-02
 tags:
@@ -7,8 +7,6 @@ tags:
   - rpc
   - web-dev
 ---
-
-# RPC
 
 [Remote procedure call - Wikiwand](http://www.wikiwand.com/en/Remote_procedure_call)
 Usually an interface description language ([IDL](#idl)) is used to define the data sent over the wire. The IDL that can usually generate bindings for multiple languages.

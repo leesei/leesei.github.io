@@ -64,11 +64,6 @@ Learn how to code for kids
 
 [Think Like A Coder - YouTube](https://www.youtube.com/playlist?list=PLJicmE8fK0EgogMqDYMgcADT1j5b911or)
 
-## How Computer Works
-
-[Computer Science - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
-[How do computers read code? - YouTube](https://www.youtube.com/watch?v=QXjU9qTsYCc)
-
 ## Hour of Code
 
 [一小時玩程式](https://hourofcode.com/hk/learn)
@@ -464,11 +459,13 @@ They're both fibers. `inBackground()` have a `fiberDone` callback for clean up a
 
 [12 Free Coding Games to Learn Programming for Beginners](https://www.freecodecamp.org/news/12-free-coding-games-to-learn-programming-for-beginners/)
 [Learn to Code With Games](https://www.i-programmer.info/professional-programmer/accreditation/11939-learn-to-code-with-games.html)
+[Best 10 Python Game Project Ideas for Beginners in 2023](https://www.analyticsinsight.net/best-10-python-game-project-ideas-for-beginners-in-2023/)
 
 [Microsoft MakeCode Arcade](https://arcade.makecode.com/)
 
 [CodeCombat - Learn how to code by playing a game](https://codecombat.com/) multiple languages
 [Code Avengers](https://www.codeavengers.com/)
+[Elevator Saga - the elevator programming game](https://play.elevatorsaga.com/) JavaScript
 [Coding Games and Programming Challenges to Code Better](https://www.codingame.com/start) [multiple languages](https://www.codingame.com/faq)
 [W3Schools Code Game](https://www.w3schools.com/codegame/index.html)
 [Codewars](http://www.codewars.com/) [multiple languages](http://www.codewars.com/docs/programming-languages-and-environments)

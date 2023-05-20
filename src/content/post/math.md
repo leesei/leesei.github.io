@@ -160,6 +160,9 @@ equilibrium probability = left eigen vector of the adjacency matrix
 ## Group Theory
 
 [Group (mathematics) - Wikiwand](<https://www.wikiwand.com/en/Group_(mathematics)>) Set with binary operation defined
+[Simple group - Wikiwand](https://www.wikiwand.com/en/Simple_group) "prime numbers" of group
+[Composition series - Wikiwand](https://www.wikiwand.com/en/Composition_series) Jordan-Hölder theorem
+[List of finite simple groups - Wikiwand](https://www.wikiwand.com/en/List_of_finite_simple_groups)
 [Ring (mathematics) - Wikiwand](<https://www.wikiwand.com/en/Ring_(mathematics)>) Group closed in addition, subtraction and multiplication
 [Field (mathematics) - Wikiwand](<https://www.wikiwand.com/en/Field_(mathematics)>) Ring closed also in division
 [Explanaria - Groups & Clear Crystal Conundrums](https://explanaria.github.io/crystalgroups/)
@@ -168,9 +171,12 @@ equilibrium probability = left eigen vector of the adjacency matrix
 [从五次方程到伽罗瓦理论 - YouTube](https://www.youtube.com/playlist?list=PLYtoePJQbGmiq3lqkJcxSKW0eW5objmjQ)
 [Why you can't solve quintic equations (Galois theory approach) SoME2 - YouTube](https://www.youtube.com/watch?v=zCU9tZ2VkWc)
 [What is the square root of two? | The Fundamental Theorem of Galois Theory - YouTube](https://www.youtube.com/watch?v=CwvuZ8aHyH4)
+[Why There's 'No' Quintic Formula (proof without Galois theory) - YouTube](https://www.youtube.com/watch?v=BSHv9Elk1MU)
 
 [Group theory, abstraction, and the 196,883-dimensional monster - YouTube](https://www.youtube.com/watch?v=mH0oCDa74tE)
 [Monster Group (John Conway) - Numberphile - YouTube](https://www.youtube.com/watch?v=jsSeoGpiWsw)
+[Group theory, abstraction, and the 196,883-dimensional monster - YouTube](https://www.youtube.com/watch?v=mH0oCDa74tE) group theory and simple groups
+[Euler's formula with introductory group theory - YouTube](https://www.youtube.com/watch?v=mvmuCPvRoWQ)
 
 [Group Theory — Introduction to Higher Mathematics - YouTube](https://www.youtube.com/watch?v=KufsL2VgELo)
 
@@ -345,6 +351,14 @@ p-value is the probability that random chance generated the data, or something e
 
 [SymPy](https://www.sympy.org/en/index.html)
 [SymPy Tutorial - Tutorialspoint](https://www.tutorialspoint.com/sympy/index.htm)
+
+## Euler's Formula (`e^(πi) = -1`)
+
+3Blue1Brown
+[e^(iπ) in 3.14 minutes, using dynamics | DE5 - YouTube](https://www.youtube.com/watch?v=v0YEaeIClKY)
+[Euler's formula with introductory group theory - YouTube](https://www.youtube.com/watch?v=mvmuCPvRoWQ)
+
+[e to the pi i for dummies - YouTube](https://www.youtube.com/watch?v=-dhHrg-KbJ0)
 
 ## Number Theory
 

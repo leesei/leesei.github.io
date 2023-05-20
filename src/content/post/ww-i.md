@@ -77,9 +77,7 @@ WWI indirectly lead to the fall of Ottoman Empire and Russian Empire.
 
 # Technologies
 
-## Planes
-
-[The Physics of World War 1 Planes feat. The Great War Channel - YouTube](https://www.youtube.com/watch?v=MI08NGCgISE&t=542s)
+[[aviation#World War I]]
 
 ---
 
