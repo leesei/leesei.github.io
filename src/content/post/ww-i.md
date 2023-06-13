@@ -20,14 +20,14 @@ France
 
 - Syria was occupied by France
 
-Great Britain  
+Great Britain
 Russia (1914-1917)
 Serbia
 
 **Central Power**:
 
-Austria-Hungary  
-Germany  
+Austria-Hungary
+Germany
 Ottoman (Osman) Empire
 
 - Ottoman Empire crumbled after defeat in WWI

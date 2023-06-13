@@ -17,7 +17,7 @@ tags:
 [The OSI model explained: How to understand (and remember) the 7 layer network model | Network World](https://www.networkworld.com/article/3239677/lan-wan/the-osi-model-explained-how-to-understand-and-remember-the-7-layer-network-model.html)
 [The OSI Model – The 7 Layers of Networking Explained in Plain English](https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english/)
 
-[CompTIA Network+ N10-007 Training Course - YouTube](https://www.youtube.com/playlist?list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd) !important
+[CompTIA Network+ N10-007 Training Course - YouTube](https://www.youtube.com/playlist?list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd) ❗!important
 
 [What Is Layer-2 and Why Do We Need It? « ipSpace.net by @ioshints](http://blog.ipspace.net/2015/04/what-is-layer-2-and-why-do-we-need-it.html)
 [IP addresses & routing - Julia Evans](https://jvns.ca/blog/2018/07/24/ip-addresses-routing/)
@@ -32,6 +32,8 @@ tags:
 [Here comes 5Gbps networking over standard cables | Ars Technica UK](http://arstechnica.co.uk/gadgets/2016/09/5gbps-ethernet-standard-details-8023bz/)
 
 [科普文：详解音视频直播中的低延时](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247488746&idx=1&sn=f4e7471c1886347d663f81f97399cd3e&chksm=f951a1a9ce2628bf7d6b48d6a9ca2647cd3d7eb45a335f997ecbfb962c5832b368918fa13d0c&scene=27#wechat_redirect)
+
+[Ethernet (50th Birthday) - Computerphile - YouTube](https://www.youtube.com/watch?v=TkOVgkcrvbg)
 
 [Computer Networks: Crash Course Computer Science #28 - YouTube](https://www.youtube.com/watch?v=3QhU9jd03a0)
 [The Internet: Crash Course Computer Science #29 - YouTube](https://www.youtube.com/watch?v=AEaKrq3SpW8)
@@ -172,6 +174,8 @@ Disconnected but still holding socket
 [TCP 的那些事儿（上） | | 酷 壳 - CoolShell](https://coolshell.cn/articles/11564.html)
 [TCP 的那些事儿（下） | | 酷 壳 - CoolShell](https://coolshell.cn/articles/11609.html)
 
+[Beej's Guide to Network Programming](https://beej.us/guide/bgnet/) BSD sockets API
+
 ## Reliable UDP
 
 [draft-ietf-sigtran-reliable-udp-00 - RELIABLE UDP PROTOCOL](https://tools.ietf.org/html/draft-ietf-sigtran-reliable-udp-00)
@@ -286,14 +290,15 @@ Fabrics: A local-area RDMA network is usually referred to as a fabric.
 
 ## Firewall
 
-[Best Next-Generation Firewall (NGFW) Solutions for 2022](https://www.esecurityplanet.com/products/top-ngfw/)
+[9 Best Next-Generation Firewall (NGFW) Solutions for 2023](https://www.esecurityplanet.com/products/top-ngfw/)
+[OpenWRT vs pfSense: Best Open Source Firewall Solution - Virtualization Howto](https://www.virtualizationhowto.com/2023/05/openwrt-vs-pfsense-best-open-source-firewall-solution/)
 
 [Open Port Check Tool - Test Port Forwarding on Your Router](https://www.yougetsignal.com/tools/open-ports/)
 
 [pfSense® - World's Most Trusted Open Source Firewall](https://www.pfsense.org/)
 [your home router SUCKS!! (use pfSense instead) - YouTube](https://www.youtube.com/watch?v=lUzSsX4T4WQ)
 
-[OPNsense® a true open source security platform and more - OPNsense® is a true open source firewall and more](https://opnsense.org/)
+[OPNsense® a true open source security platform and more - OPNsense® is a true open source firewall and more](https://opnsense.org/)
 [pfSense vs OPNsense](https://teklager.se/en/pfsense-vs-opnsense/)
 [pfSense® 与 OPNsense® 技术比较 | 鐵血男兒的 BLOG](https://pfschina.org/wp/?p=28)
 
@@ -351,7 +356,8 @@ ufw delete allow PORT
 
 > offload VPN channel from router
 
-[OPNsense® a true open source security platform and more - OPNsense® is a true open source firewall and more](https://opnsense.org/)
+[[#Firewall]]
+
 [Your Router Sucks. Build Your Own Instead! - YouTube](https://www.youtube.com/watch?v=_IzyJTcnPu8)
 
 [家用软路由有必要吗？科学上网必须要软路由？软路由科学上网是智商税？！ - YouTube](https://www.youtube.com/watch?v=ilcXa6D6Kjw)
@@ -374,6 +380,7 @@ eBPF should have been "Kernel Script"
 [BPF comes to firewalls [LWN.net]](https://lwn.net/Articles/747551/)
 [eBPF: One Small Step](http://www.brendangregg.com/blog/2015-05-15/ebpf-one-small-step.html)
 [An intro to using eBPF to filter packets in the Linux kernel | Opensource.com](https://opensource.com/article/17/9/intro-ebpf)
+[What is eBPF? - DEV Community](https://dev.to/deepeshaburse/what-is-ebpf-2bkb)
 [Dive into BPF: a list of reading material](https://qmonnet.github.io/whirl-offload/2016/09/01/dive-into-bpf/)
 [bpfilter » ADMIN Magazine](http://www.admin-magazine.com/Archive/2019/50/Bpfilter-offers-a-new-approach-to-packet-filtering-in-Linux)
 [Primer: How XDP and eBPF Speed Network Traffic via the Linux Kernel – The New Stack](https://thenewstack.io/primer-how-xdp-and-ebpf-speed-network-traffic-via-the-linux-kernel/)
@@ -409,6 +416,14 @@ eBPF should have been "Kernel Script"
 [dylandreimerink/edb: An eBPF program debugger](https://github.com/dylandreimerink/edb)
 
 [The One About eBPF | TechSNAP 388 | Jupiter Broadcasting](https://www.jupiterbroadcasting.com/127741/the-one-about-ebpf-techsnap-388/)
+
+## Windows Filtering Platform (WFP)
+
+> Windows' eBPF
+
+[About Windows Filtering Platform - Win32 apps | Microsoft Learn](https://learn.microsoft.com/en-us/windows/win32/fwp/about-windows-filtering-platform)
+
+[Guided tour inside WinDefender’s network inspection driver](https://blog.quarkslab.com/guided-tour-inside-windefenders-network-inspection-driver.html)
 
 ## GeoIP
 

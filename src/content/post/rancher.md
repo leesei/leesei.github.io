@@ -39,6 +39,7 @@ Rancher 2 rebased on Kubernetes and become [GA on 2018-05](https://forums.ranche
 
 [Quick Start Guide | Rancher Labs](https://rancher.com/docs/rancher/v2.x/en/quick-start-guide/)
 
+[Can Rancher Deliver on Making Kubernetes Easy? - The New Stack](https://thenewstack.io/can-rancher-deliver-on-making-kubernetes-easy/) Ubuntu 22.04
 [Setup local kubernetes multi-node cluster with Rancher Server](https://medium.com/@kwonghung.yip/setup-local-kubernetes-multi-node-cluster-with-rancher-server-fdb7a0669b5c)
 
 [joshuacox/ansibleplaybook-rancher: Ansible playbook to keep a Rancher container running on a docker host](https://github.com/joshuacox/ansibleplaybook-rancher)
@@ -55,14 +56,14 @@ Rancher 2 rebased on Kubernetes and become [GA on 2018-05](https://forums.ranche
 
 [Understanding Authentication & Authorization in Rancher 2.0 | Rancher Labs](https://rancher.com/blog/2018/2018-05-04-authentication-authorization-rancher2/)
 
-2016:  
+2016:
 [Getting Microservices Deployments on Kubernetes with Rancher | Rancher Labs](http://rancher.com/getting-micro-services-production-kubernetes/)
 [Creating Microservices Deployments on Kubernetes with Rancher - Part 2 | Rancher Labs](https://rancher.com/creating-microservices-deployments-on-kubernetes-with-rancher-part-2/)
 
 ### Storage
 
 [Block Storage, Object Storage, and File Systems: What They Mean for Containers | Rancher Labs](http://rancher.com/block-object-file-storage-containers/)
-[Rancher Introduces Persistent Storage for Docker | Rancher Labs](http://rancher.com/how-rancher-storage-services-unleash-the-power-of-software-defined-storage/) !important
+[Rancher Introduces Persistent Storage for Docker | Rancher Labs](http://rancher.com/how-rancher-storage-services-unleash-the-power-of-software-defined-storage/) ❗!important
 
 ### Monitoring
 
@@ -92,7 +93,7 @@ Rancher 2 rebased on Kubernetes and become [GA on 2018-05](https://forums.ranche
 [Online Meetups and Webinars - YouTube](https://www.youtube.com/playlist?list=PLfAoTEAPazb5Q1eQcbdHqW4eJcDDdn9RF)
 Storage, Volume, Network, Load Balancing, HA, Monitor, Logging, DaaS
 
-[2017 Training: Docker containers and Rancher - YouTube](https://www.youtube.com/watch?v=8K14A_CZFdI) !important
+[2017 Training: Docker containers and Rancher - YouTube](https://www.youtube.com/watch?v=8K14A_CZFdI) ❗!important
 
 [Demo: launching and using Kubernetes within Rancher - YouTube](https://www.youtube.com/watch?v=kbsbZHCNfrg)
 [2017 Online Training: Using Kubernetes - YouTube](https://www.youtube.com/watch?v=YRmUu2YXj7w)

@@ -8,7 +8,7 @@ tags:
   - web-dev
 ---
 
-[What RESTful actually means](https://codewords.recurse.com/issues/five/what-restful-actually-means) !important
+[What RESTful actually means](https://codewords.recurse.com/issues/five/what-restful-actually-means) ❗!important
 [What is a REST API? - Twilio](https://www.twilio.com/docs/glossary/what-is-a-rest-api)
 
 [The Rest of ReST - Dylan Beattie - YouTube](https://www.youtube.com/watch?v=g8E1B7rTZBI)

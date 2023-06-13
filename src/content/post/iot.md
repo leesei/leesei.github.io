@@ -329,6 +329,11 @@ Adafruit's open source derivative of MicroPython
 [Toit open-source language claims to be 30x faster than MicroPython on ESP32 - CNX Software](https://www.cnx-software.com/2021/11/28/toit-open-source-language-claims-to-be-30x-faster-than-micropython-on-esp32/)
 [Microsoft Azure IoT, Balena, Particle, or Toit - Choosing the Right IoT Development Platform - CNX Software](https://www.cnx-software.com/2021/08/06/microsoft-azure-iot-balena-particle-toit-iot-development-platform-comparision/)
 
+## Debugging
+
+[Open On-Chip Debugger](https://openocd.org/)
+[This Is 100% How You Should Be Debugging | How to Use OpenOCD to Debug Embedded Software with GDB - YouTube](https://www.youtube.com/watch?v=_1u7IOnivnM) `openocd` + `gdb-multiarch`
+
 ## Connectivity
 
 [[bluetooth]]
@@ -782,7 +787,7 @@ micro:bit clone using ESP32
 
 ### SoC
 
-[robo8080/ESP32_LegoMotor_RCWC: ESP32 + TB6612 モータードライバー + RCWController で、LEGO Power Functions Motor と Servo Motor を制御します。](https://github.com/robo8080/ESP32_LegoMotor_RCWC) ESP32 + TB6612, !important
+[robo8080/ESP32_LegoMotor_RCWC: ESP32 + TB6612 モータードライバー + RCWController で、LEGO Power Functions Motor と Servo Motor を制御します。](https://github.com/robo8080/ESP32_LegoMotor_RCWC) ESP32 + TB6612, ❗!important
 
 [FATCATLAB](http://fatcatlab.com/product/evb/) Beaglebone Black + EVB cape to replace EV3
 
@@ -820,7 +825,7 @@ The divisors available on pins 3 and 11 are: 1, 8, 32, 64, 128, 256, and 1024.
 [Front Page - Microduino](https://microduinoinc.com/) mCookies are modules with magnets
 [d4rks70rm/ArduinoLegoTrain: Control a Lego Train with Arduino](https://github.com/d4rks70rm/ArduinoLegoTrain)
 
-[Arduino Controlling LEGO Power Functions Motor Part 1: Wired Control - YouTube](https://www.youtube.com/watch?v=ArEt9RWPbhE) !important, PWM frequencies
+[Arduino Controlling LEGO Power Functions Motor Part 1: Wired Control - YouTube](https://www.youtube.com/watch?v=ArEt9RWPbhE) ❗!important, PWM frequencies
 [Arduino Controlling LEGO Power Functions Motor Part 2: IR Remote Control - YouTube](https://www.youtube.com/watch?v=D7kQCJIeM6c)
 
 **Raspberry Pi**

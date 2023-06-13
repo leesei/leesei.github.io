@@ -28,7 +28,7 @@ All python code are executed statements, no such thing as declaration
 [The creator of Python on how the programming language is learning from TypeScript - TechRepublic](https://www.techrepublic.com/article/the-creator-of-python-on-how-the-programming-language-is-learning-from-typescript/)
 [Why is Python So Popular Among Programmers?](https://blog.eduonix.com/software-development/python-popular-among-programmers/)
 
-[The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/) [source](https://github.com/realpython/python-guide) !important
+[The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/) [source](https://github.com/realpython/python-guide) ❗!important
 [BeginnersGuide - Python Wiki](https://wiki.python.org/moin/BeginnersGuide)
 
 [vinta/awesome-python: A curated list of awesome Python frameworks, libraries, software and resources](https://github.com/vinta/awesome-python)
@@ -110,7 +110,7 @@ Python version should be a requirement to be satisfied (by pinning particular ve
 [simeonfranklin.com - Python Fundamentals](http://simeonfranklin.com/python-fundamentals/) [PDF 2013](http://simeonfranklin.com/python_fundamentals.pdf)
 4 day comprehensive tutorial, target audiences are not advanced
 [Python in Plain English](https://python.plainenglish.io/)
-[The 35 Words You Need to Python | yawpitchroll](https://yawpitchroll.com/posts/the-35-words-you-need-to-python/) !important
+[The 35 Words You Need to Python | yawpitchroll](https://yawpitchroll.com/posts/the-35-words-you-need-to-python/) ❗!important
 [Learn Python By Example - PythonForBeginners.com](https://www.pythonforbeginners.com/)
 [Python tutorial - beginner Python tutorial](http://zetcode.com/lang/python/)
 [9 Free Online Courses for Python Beginners](https://www.makeuseof.com/python-online-course-free/)
@@ -144,8 +144,8 @@ Tech With Tim
 [Talk Python Training - Python tutorials and courses for developers](https://training.talkpython.fm/) I've bought some courses here
 [Python Practice Problems: Get Ready for Your Next Interview – Real Python](https://realpython.com/python-practice-problems/#python-practice-problem-3-caesar-cipher-redux)
 
-[Python Tutorial for Beginners - Learn Python Programming from Scratch - DataFlair](https://data-flair.training/blogs/python-tutorials-home/) !important
-[Learn Python through the Master Guide - Python Notes for Beginner to Advanced Learners - DataFlair](https://data-flair.training/blogs/learn-python-notes/) !important
+[Python Tutorial for Beginners - Learn Python Programming from Scratch - DataFlair](https://data-flair.training/blogs/python-tutorials-home/) ❗!important
+[Learn Python through the Master Guide - Python Notes for Beginner to Advanced Learners - DataFlair](https://data-flair.training/blogs/learn-python-notes/) ❗!important
 [Python Tutorial - Python for Beginners [Full Course] - YouTube](https://www.youtube.com/watch?v=_uQrJ0TkZlc) 2019
 [Python For Data Science Full Course - 9 Hours | Data Science With Python | Python Training | Edureka - YouTube](https://www.youtube.com/watch?v=-6RqxhNO2yY) 2020
 
@@ -220,7 +220,7 @@ Tech With Tim
 
 [Python 3 Patterns, Recipes and Idioms — Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html)
 [A Byte of Python - GitBook](https://www.gitbook.com/book/swaroopch/byte-of-python/details)
-[PY4E - Python for Everybody](https://www.py4e.com/book) 2016, Python 3  
+[PY4E - Python for Everybody](https://www.py4e.com/book) 2016, Python 3
 [Dive Into Python 3](http://www.diveintopython3.net/)
 [Intermediate Python — Python Tips](https://book.pythontips.com/en/latest/index.html)
 [Object-Oriented Programming in Python](https://python-textbok.readthedocs.io/en/latest/index.html)
@@ -266,7 +266,7 @@ Tech With Tim
 [Python Basics - Jose Portilla - YouTube](https://www.youtube.com/playlist?list=PL6cactdCCnTJipK3hwMbq1DXeQcWZ_qOv)
 [Python Tutorials - Ardit Sulce - YouTube](https://www.youtube.com/playlist?list=PL6cactdCCnTILYB7O-T65zx3wt876ieNr)
 [Python (all parts in one) - YouTube](https://www.youtube.com/watch?v=Ajmj5itd2s8) Python 3, CodeSchool.org, compares 2.x and 3.x, quite good
-[Learn Python - Full Course for Beginners [Tutorial] - YouTube](https://www.youtube.com/watch?v=rfscVS0vtbw) Python 3, !important
+[Learn Python - Full Course for Beginners [Tutorial] - YouTube](https://www.youtube.com/watch?v=rfscVS0vtbw) Python 3, ❗!important
 [Python – Intermediate and Advanced Features - YouTube](https://www.youtube.com/playlist?list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx) Python 3, Real Python
 
 [A new video series for beginners to learn Python programming - Open Source Blog](https://cloudblogs.microsoft.com/opensource/2019/09/19/new-python-training-video-series-beginners/) by Microsoft
@@ -993,7 +993,7 @@ with ignored(OSError):
 [Are you using Python with APIs? Learn how to use a retry decorator!](https://towardsdatascience.com/are-you-using-python-with-apis-learn-how-to-use-a-retry-decorator-27b6734c3e6)
 [Decorator inside Python class. Let’s suppose we need a decorator that… | by Vadim Pushtaev | Medium](https://medium.com/@vadimpushtaev/decorator-inside-python-class-1e74d23107f6)
 
-[Python Decorators: The Complete Guide - YouTube](https://www.youtube.com/watch?v=QH5fw9kxDQA) !important
+[Python Decorators: The Complete Guide - YouTube](https://www.youtube.com/watch?v=QH5fw9kxDQA) ❗!important
 
 ```python
 def logging_decorator(func: Callable[..., Any]):
@@ -1037,8 +1037,8 @@ _generator_: syntax sugar for declaring iterator and iterable as a function with
 You can iterate over a list as many times as you want but you can iterate over an iterator only once.
 `for-in` loop creates the iterable and catch `StopIteration` automatically.
 
-[The Iterator Protocol: How for Loops Work in Python - Trey Hunner](http://treyhunner.com/2016/12/python-iterator-protocol-how-for-loops-work/) !important, see "The Iterator Protocol"
-[Learn To Loop The Python Way: Iterators And Generators Explained | Hackaday](https://hackaday.com/2018/09/19/learn-to-loop-the-python-way-iterators-and-generators-explained/) !important
+[The Iterator Protocol: How for Loops Work in Python - Trey Hunner](http://treyhunner.com/2016/12/python-iterator-protocol-how-for-loops-work/) ❗!important, see "The Iterator Protocol"
+[Learn To Loop The Python Way: Iterators And Generators Explained | Hackaday](https://hackaday.com/2018/09/19/learn-to-loop-the-python-way-iterators-and-generators-explained/) ❗!important
 [Introduction to Python Generators – Real Python](https://realpython.com/introduction-to-python-generators/)
 [Iterables vs. Iterators vs. Generators » nvie.com](https://nvie.com/posts/iterators-vs-generators/)
 [Glossary iterable — Python documentation](https://docs.python.org/3/glossary.html#term-iterable)
@@ -1111,11 +1111,12 @@ async iterator in 3.10
 [Ray – Fast and Simple Distributed Computing](https://ray.io/)
 [Modern Parallel and Distributed Python: A Quick Tutorial on Ray | by Robert Nishihara | Towards Data Science](https://towardsdatascience.com/modern-parallel-and-distributed-python-a-quick-tutorial-on-ray-99f8d70369b8)
 [10x Faster Parallel Python Without Python Multiprocessing | by Robert Nishihara | Towards Data Science](https://towardsdatascience.com/10x-faster-parallel-python-without-python-multiprocessing-e5017c93cce1)
+[How to Run Python Functions in Parallel Using Ray API | by Konstantinos Patronas | Better Programming](https://betterprogramming.pub/python-use-ray-to-run-functions-in-parallel-871f7a6678c4)
 [python concurrent.futures.ProcessPoolExecutor: Performance of .submit() vs .map() - Stack Overflow](https://stackoverflow.com/questions/42074501/python-concurrent-futures-processpoolexecutor-performance-of-submit-vs-map)
 
 [David Beazley - Python Concurrency From the Ground Up: LIVE! - PyCon 2015 - YouTube](https://www.youtube.com/watch?v=MCs5OvhV9S4)
 
-[Super Fast Python – making you awesome at concurrency](https://superfastpython.com/) !important
+[Super Fast Python – making you awesome at concurrency](https://superfastpython.com/) ❗!important
 [Multiprocessing in Python: The Complete Guide](https://superfastpython.com/multiprocessing-in-python/)
 [Threading vs Multiprocessing in Python](https://superfastpython.com/threading-vs-multiprocessing-in-python/)
 [ProcessPoolExecutor in Python: The Complete Guide](https://superfastpython.com/processpoolexecutor-in-python/)
@@ -1252,7 +1253,7 @@ def greet(greeting, target):
 hola = functools.partial(greet, "hola")
 ```
 
-[Functional Python | ActiveState](http://www.activestate.com/blog/2016/10/functional-python) !important
+[Functional Python | ActiveState](http://www.activestate.com/blog/2016/10/functional-python) ❗!important
 [Functional Programming HOWTO — Python documentation](https://docs.python.org/3/howto/functional.html)
 [Why does Functional Python Programming matters: Interview insights](https://hub.packtpub.com/functional-python-programming-interview-steven-lott/)
 [Python - Functional Programming [Gerardnico]](http://gerardnico.com/wiki/python/functional_programming)
@@ -1380,10 +1381,10 @@ def find_path(source, graph=graph, path=[]):
 
 ### One-liners
 
-Gist:  
+Gist:
 `| python3 -c 'import sys; for line in sys.stdin.read() print(line)'`
 
-[Powerful Python One-Liners - Python Wiki](<https://wiki.python.org/moin/Powerful> Python One-Liners)
+[Powerful Python One-Liners - Python Wiki](<https://wiki.python.org/moin/Powerful Python One-Liners>)
 
 [Sony Pictures Imageworks - Open Source - PYP (Python Power at the Prompt)](http://opensource.imageworks.com/?p=pyp)
 [The Pyed Piper (pyp) Tutorial - YouTube](https://www.youtube.com/watch?v=eWtVWF0JSJA)
@@ -1499,6 +1500,7 @@ python -c "import module"
 [Cython: C-Extensions for Python](http://cython.org/) compiled Python C, sacrificing Python features
 [Use Cython to get more than 30X speedup on your Python code](https://towardsdatascience.com/use-cython-to-get-more-than-30x-speedup-on-your-python-code-f6cb337919b6)
 [An Introduction to Just Enough Cython to be Useful | Peter Baumgartner](https://www.peterbaumgartner.com/blog/intro-to-just-enough-cython-to-be-useful/)
+[An Introduction to Cython, the Secret Python Extension with Superpowers](https://okigiveup.net/tutorials/an-introduction-to-cython/)
 [PEP 579 – Refactoring C functions and methods | peps.python.org](https://peps.python.org/pep-0579/)
 [Buffer Protocol — Python documentation](https://docs.python.org/3/c-api/buffer.html)
 [Iterator Protocol — Python documentation](https://docs.python.org/3/c-api/iter.html)

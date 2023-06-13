@@ -15,7 +15,7 @@ tags:
 
 ## Firmware/Flashing
 
-[Download iOS Firmware for iPhone, iPad, iPod Touch, Apple Watch and Apple TV.](https://ipsw.me/)  
+[Download iOS Firmware for iPhone, iPad, iPod Touch, Apple Watch and Apple TV.](https://ipsw.me/)
 Identify your device with the 4 digits model number (AXXXX) printed on the back of your device.
 
 DFU mode

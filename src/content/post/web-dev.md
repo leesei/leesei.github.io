@@ -34,7 +34,7 @@ tags:
 
 [web.dev](https://web.dev/)
 [Web | Google Developers](https://developers.google.com/web) successor of HTML5 Rocks
-[Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn) !important
+[Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn) ❗!important
 [15 Interesting JavaScript and CSS Libraries for March 2018 - Tutorialzine](https://tutorialzine.com/2018/03/15-interesting-javascript-and-css-libraries-for-march-2018)
 [Build a Great Web Experience | Google Developers](https://developers.google.com/web/)
 [Web Updates - Google Developers](https://developers.google.com/web/updates/)
@@ -53,12 +53,13 @@ tags:
 [Web development tutorials | w3resource](http://www.w3resource.com/index.php)
 [Website, Mobile Testing, Monitoring & Analytics Videos | Keynote](http://www.keynote.com/resources/articles)
 [bendc/frontend-guidelines](https://github.com/bendc/frontend-guidelines)
-[Front-end Handbook - GitBook](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details)
 [Totally Tooling Tears](https://medium.com/totally-tooling-tears)
 [Introduction to HTML | GitHub Learning Lab](https://lab.github.com/courses/introduction-to-html)
 [Don’t Fear the Internet](http://www.dontfeartheinternet.com/)
 [HTML5 & CSS3 Fundamentals: Development for Absolute Beginners | Channel 9](https://channel9.msdn.com/Series/HTML5-CSS3-Fundamentals-Development-for-Absolute-Beginners)
 [Technology Guides and Handbooks for People Who Don't Code | Brainhub](https://brainhub.eu/library/)
+
+[Front-end Handbook - GitBook](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details)
 
 [Workshop / Chrome Experiments](http://workshop.chromeexperiments.com/)
 
@@ -73,16 +74,17 @@ tags:
 [Web Dev Simplified Blog](https://blog.webdevsimplified.com/) pure HTML/CSS tricks
 [Web Dev Simplified - YouTube](https://www.youtube.com/@WebDevSimplified)
 
+[Watch and Learn - YouTube](https://www.youtube.com/@WatchandLearnTutorials)
+
 ## Trends/Reports
 
 [The State Of JavaScript 2018](https://stateofjs.com/)
 [JavaScript and Web Development InfoQ Trends Report](https://www.infoq.com/articles/javascript-web-development-trends)
 [The Top JavaScript Trends to Watch in 2018 – Hacker Noon](https://hackernoon.com/the-top-javascript-trends-to-watch-in-2018-a8437dd94425)
 
-[Web Development 2018 - The Must-Know Tech - YouTube](https://www.youtube.com/watch?v=gVXcqO9A1vo) !important
+[Web Development 2018 - The Must-Know Tech - YouTube](https://www.youtube.com/watch?v=gVXcqO9A1vo) ❗!important
 [The 2018 Web Developer Roadmap – codeburst](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
 [Skill Up 2018 - Developer Skills Report | PACKT Books](https://www.packtpub.com/skill-up-2018)
-[Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
 [Mobile Overview Report (MOVR) | ScientiaMobile](https://www.scientiamobile.com/movr-mobile-overview-report/)
 [13 Web Design Trends to Watch in 2020](https://www.shopify.com/partners/blog/web-design-trends)
 [ReactJs Roadmap🗺 for beginners - 2021 - DEV Community](https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en)
@@ -98,8 +100,8 @@ tags:
 [2016/2017 MUST-KNOW WEB DEVELOPMENT TECH - Watch this if you want to be a web developer - YouTube](https://www.youtube.com/watch?v=sBzRwzY7G-k) [Web Development](https://coggle.it/diagram/Vz9LvW8byvN0I38x)
 [A Guide to Becoming a Full-Stack Developer in 2017 – Coderbyte – Medium](https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c)
 
-[Front-end Developer Handbook 2017 · GitBook](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
-[Front-end Developer Handbook 2016 · GitBook](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details)
+[Front-end Developer Handbook 2019 - Learn the entire JavaScript, CSS and HTML development practice!](https://frontendmasters.com/guides/front-end-handbook/2019/)
+[Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
 
 ## Things to know
 
@@ -107,9 +109,10 @@ tags:
 [[javascript-notes]]
 [[http]]
 
+[Web Development Course - Complete Intro to HTML, CSS, & JavaScript with Brian Holt from Stripe | Frontend Masters](https://frontendmasters.com/courses/web-development-v3/) free, 2022-09, 12:25:45
 [The web developer survival guide - revolunet blog](http://blog.revolunet.com/blog/2015/09/04/the-web-developer-survival-guide/)
 [How to keep up to date on Front-End Technologies - The Recipe](http://uptodate.frontendrescue.org/)
-[The Modern Javascript Tutorial](https://javascript.info/) !important
+[The Modern Javascript Tutorial](https://javascript.info/) ❗!important
 [CodeAnalogies | CSS,JavaScript Tutorials](https://www.codeanalogies.com/)
 
 [Full HTTP Networking Course – Fetch and REST APIs in JavaScript - YouTube](https://www.youtube.com/watch?v=2JYT5f2isg4)
@@ -124,6 +127,13 @@ tags:
 [Why Idempotency is very critical in Backend Applications - YouTube](https://www.youtube.com/watch?v=4OuaONkZw1I)
 
 [CS50's Web Programming with Python and JavaScript | edX](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
+
+## Backend
+
+Hussein Nasser
+[The Backend Engineering Show - YouTube](https://www.youtube.com/playlist?list=PLQnljOFTspQU0ICDe-cL1EwXC4GDSayKY)
+[Advice for beginner backend engineers who just started their new jobs in software companies - YouTube](https://www.youtube.com/watch?v=V3C0VvNrFZ8)
+[How to Become a Good Backend Engineer (Fundamentals) - YouTube](https://www.youtube.com/watch?v=V3ZPPPKEipA)
 
 ## Cookies
 
@@ -295,7 +305,7 @@ Media, type attribute takes precedence
 
 ## Scroll Position
 
-Ib SPA, scroll position is loss upon back
+In SPA, scroll position is loss upon back
 
 [History.scrollRestoration - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/History/scrollRestoration)
 
@@ -593,9 +603,21 @@ convert -resize x60  input.png apple-touch-icon-60x60.png
 
 [[nodejs-settings#App Frameworks]]
 [[fastify]]
+[[feathersjs]]
 [[hapi]]
 
 [Build internal web apps quickly in the language you already know | Pglet](https://pglet.io/) Python, Node.js, Bash, PowerShell
+
+[I built 10 web apps... with 10 different languages - YouTube](https://www.youtube.com/watch?v=FQPlEnKav48)
+
+[Hono - Ultrafast web framework for the Edges](https://hono.dev/)
+
+### Express.js
+
+[Express - Node.js web application framework](https://expressjs.com/)
+[Express middleware](https://expressjs.com/en/resources/middleware.html)
+
+[Stop using express.js - DEV Community](https://dev.to/sebastian_wessel/stop-using-expressjs-4io)
 
 ## Frontend Frameworks
 
@@ -937,6 +959,7 @@ Forward?
 [PACE — Automatic page load progress bars](https://codebyzach.github.io/pace/)
 
 [Single Element Loaders: The Spinner | CSS-Tricks - CSS-Tricks](https://css-tricks.com/single-element-loaders-the-spinner/)
+[SpinKit | Simple CSS Spinners](https://tobiasahlin.com/spinkit/)
 
 [alvarotrigo/fullPage.js: fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple](https://github.com/alvarotrigo/fullPage.js)
 [Build an awesome slide based full page scrolling landing page with Fullpage.js | Html | CSS | JS - YouTube](https://www.youtube.com/watch?v=OWz0kpNvbBM)
@@ -1097,6 +1120,10 @@ Forward?
 [jaredreich/notie: 🔔 a clean and simple notification, input, and selection suite for javascript, with no dependencies](https://github.com/jaredreich/notie)
 
 [CodeSeven/toastr: Simple javascript toast notifications](https://github.com/CodeSeven/toastr)
+
+[Novu - The open-source notification infrastructure](https://novu.co/)
+[Deploy using Docker | Novu](https://docs.novu.co/overview/docker-deploy/)
+[novuhq/novu: The open-source notification infrastructure with fully functional embedded notification center](https://github.com/novuhq/novu)
 
 ### Zip
 

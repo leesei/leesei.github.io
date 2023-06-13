@@ -20,11 +20,13 @@ tags:
 [Servers for Hackers](https://serversforhackers.com/)
 
 [What's in a name? These DevOps tools come with strange backstories | ZDNet](https://www.zdnet.com/pictures/23-coding-and-devops-tools-with-great-stories-and-strange-sounding-names)
+[Software Deployment Best Practices - Java Code Geeks - 2023](https://www.javacodegeeks.com/2023/05/software-deployment-best-practices.html?amp=1)
 
 [Try Tech Radar and get to know our technology stack | TSH.io](https://tsh.io/technology-radar)
 
 [[gitops]]
 [[ci-cd]]
+[[self-hosting]]
 
 > devops topics includes: CI/CD, deployment
 > should this be [[sysadmin]]? IT operations = system administrators
@@ -34,7 +36,7 @@ tags:
 [What is DevOps](https://devopsish.com/what-is-devops/)
 [What Is DevOps? | the agile admin](https://theagileadmin.com/what-is-devops/)
 [What the hell is DevOps ? - mazzakolinux](http://mazzakolinux.com/what-the-hell-is-devops/)
-[What the Hell is DevOps? | Toptal](https://www.toptal.com/devops/what-the-hell-is-devops) !important, 3 lanes highway
+[What the Hell is DevOps? | Toptal](https://www.toptal.com/devops/what-the-hell-is-devops) ❗!important, 3 lanes highway
 [What is DevOps? - ravikirans.com](http://ravikirans.com/gentle-introduction-to-devops/)
 [DevOps 2.0](http://blog.launchdarkly.com/devops2/)
 [The 2018 DevOps RoadMap – Hacker Noon](https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb)
@@ -95,6 +97,7 @@ tags:
 [OneOps | Home](http://oneops.com/) by Walmart
 [OneOps](https://github.com/oneops)
 
+[DevOps Toolbox - YouTube](https://www.youtube.com/@devopstoolbox)
 [Techno Tim - YouTube](https://www.youtube.com/c/TechnoTimLive)
 
 Reddit:
@@ -238,6 +241,10 @@ Bundle multiple aspects of devops into a platform
 [Cockpit Project](http://cockpit-project.org/) administer your GNU/Linux servers via a web browser
 [How to Install Cockpit on Ubuntu 18.04 - Alibaba Cloud Community](https://www.alibabacloud.com/blog/how-to-install-cockpit-on-ubuntu-18-04_594039)
 [How I use Cockpit for my home's Linux server management | Opensource.com](https://opensource.com/article/20/11/cockpit-server-management)
+
+[Uptime Kuma](https://uptime.kuma.pet/)
+[louislam/uptime-kuma: A fancy self-hosted monitoring tool](https://github.com/louislam/uptime-kuma)
+[The BEST Home Server Uptime Monitoring! - YouTube](https://www.youtube.com/watch?v=tIazVdhsSqQ)
 
 > Chef is a bit more “developer friendly” while Puppet could be considered more oriented towards operations and sysadmin type of tasks.
 
@@ -390,7 +397,7 @@ Discovery: the process of looking up the available service.
 [SE-Radio Episode 264: James Phillips on Service Discovery : Software Engineering Radio](http://www.se-radio.net/2016/08/se-radio-episode-264-james-phillips-on-service-discovery/)
 
 [Service Discovery; or, Why each microservice should believe it's the …](http://www.slideshare.net/nearForm/service-discovery-or-why-each-microservice-should-believe-its-the-only-one-in-the-world-by-richard-rodger)
-[An Introduction to Microservices, Part 3: The Service Registry](https://auth0.com/blog/2015/10/02/an-introduction-to-microservices-part-3-the-service-registry/) !important
+[An Introduction to Microservices, Part 3: The Service Registry](https://auth0.com/blog/2015/10/02/an-introduction-to-microservices-part-3-the-service-registry/) ❗!important
 
 [ZooKeeper vs. Doozer vs. Etcd | devo.ps](http://devo.ps/blog/zookeeper-vs-doozer-vs-etcd/)
 [Service Discovery: Zookeeper vs etcd vs Consul | Technology Conversations](http://technologyconversations.com/2015/09/08/service-discovery-zookeeper-vs-etcd-vs-consul/)

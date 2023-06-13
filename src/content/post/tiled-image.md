@@ -3,8 +3,8 @@ title: Tiled Image
 description: ""
 created: 2016-04-08
 tags:
-  - web
   - tiled-image
+  - web
 ---
 
 [Mipmap - Wikiwand](https://www.wikiwand.com/en/Mipmap)
@@ -38,12 +38,12 @@ There are also many viewer to render these images on browser that provide differ
 
 Deep Zoom is a standard by Microsoft. It allows users to pan around and zoom in a large, high resolution image . It reduces the time required for initial load by downloading only the region being viewed or only at the resolution it is displayed at.
 
-[Deep Zoom - Wikiwand](http://www.wikiwand.com/en/Deep_Zoom)  
-[A deepzoom primer ( explained and coded).. – Jaime Rodriguez](https://blogs.msdn.microsoft.com/jaimer/2008/04/01/a-deepzoom-primer-explained-and-coded/)  
-[Deep Zoom](https://msdn.microsoft.com/en-us/library/cc645050)  
+[Deep Zoom - Wikiwand](http://www.wikiwand.com/en/Deep_Zoom)
+[A deepzoom primer ( explained and coded).. – Jaime Rodriguez](https://blogs.msdn.microsoft.com/jaimer/2008/04/01/a-deepzoom-primer-explained-and-coded/)
+[Deep Zoom](https://msdn.microsoft.com/en-us/library/cc645050)
 [Deep Zoom File Format Overview](https://msdn.microsoft.com/en-us/library/cc645077) !important
 [Deep Zoom Schema Reference](https://msdn.microsoft.com/en-us/library/cc645022)
-[About Deep Zoom Composer](https://msdn.microsoft.com/en-us/library/dd409068)  
+[About Deep Zoom Composer](https://msdn.microsoft.com/en-us/library/dd409068)
 [Creating Zooming Images | OpenSeadragon](http://openseadragon.github.io/examples/creating-zooming-images/)
 
 [Inside Deep Zoom – Part I: Multiscale Imaging – RTFM / Daniel Gasienica](http://web.archive.org/web/20150429205932/http://www.gasi.ch/blog/inside-deep-zoom-1/)
@@ -107,8 +107,8 @@ WMS also have API for [FeatureInfo ](http://openlayers.org/en/master/examples/ge
 [Download Deep Zoom Composer from Official Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?displaylang=en&id=24819)
 [zoomhub/node-deepzoomtools: Node.js Deep Zoom Tools](https://github.com/zoomhub/node-deepzoomtools)
 
-Generators in Python usually requires [Python Imaging Library (PIL)](http://www.pythonware.com/products/pil/).  
-[openzoom/deepzoom.py](https://github.com/openzoom/deepzoom.py)  
+Generators in Python usually requires [Python Imaging Library (PIL)](http://www.pythonware.com/products/pil/).
+[openzoom/deepzoom.py](https://github.com/openzoom/deepzoom.py)
 [openslide-python/deepzoom_tile.py at master](https://github.com/openslide/openslide-python/blob/master/examples/deepzoom/deepzoom_tile.py)
 
 Each folder is a layer, which contains tiles of side length (max of width, height) <= 2^N
@@ -156,12 +156,12 @@ http://tools.wmflabs.org/zoomable-images/zoomify-source.php
 ## VIPS
 
 [VIPS](https://github.com/openslide/openslide/wiki/OpenSlideAndVIPS) is recommended for convertion to avoid loading the entire image to RAM.
-`vips` memory use scales with image width, not number of pixels, so it can process very large images without using much memory.  
-It supports various input format, including OpenSlide (requires `libopenslide` at build). It can perform many operation on the image. The `dzsave` operation supports deep zoom ([requires `libgsf`](https://github.com/jcupitt/libvips/issues/141) at build),zoomify and google layout.  
-[pyvips – Image processing with libvips — pyvips documentation](https://jcupitt.github.io/pyvips/) official Python binging  
+`vips` memory use scales with image width, not number of pixels, so it can process very large images without using much memory.
+It supports various input format, including OpenSlide (requires `libopenslide` at build). It can perform many operation on the image. The `dzsave` operation supports deep zoom ([requires `libgsf`](https://github.com/jcupitt/libvips/issues/141) at build),zoomify and google layout.
+[pyvips – Image processing with libvips — pyvips documentation](https://jcupitt.github.io/pyvips/) official Python binging
 [sharp - High performance Node.js image processing](https://sharp.pixelplumbing.com/) is VIPS's Node binding
 
-[VipsWiki](http://www.vips.ecs.soton.ac.uk/index.php?title=VIPS)  
+[VipsWiki](http://www.vips.ecs.soton.ac.uk/index.php?title=VIPS)
 [VIPS from the command-line: VIPS Reference Manual](http://www.vips.ecs.soton.ac.uk/supported/current/doc/html/libvips/using-cli.html)
 
 [libvips and nip2](http://libvips.blogspot.hk/)

@@ -6,13 +6,8 @@ tags:
   - security
 ---
 
+[[ssl-tls]]
 [[web-security]]
-
-DevSecOps
-
-- Code scan
-- Low risk scan
-- Runtime scan
 
 Cyber attack lifecycle/kill chain
 
@@ -50,7 +45,14 @@ living off the land (using tools at victim machine)
 
 [10 Ways to Keep a Rogue RasPi From Wrecking Your ...](https://www.darkreading.com/iot/10-ways-to-keep-a-rogue-raspi-from-wrecking-your-network/d/d-id/1335146)
 
-[[ssl-tls]]
+## DevSecOps
+
+- Code scan
+- Low risk scan
+- Runtime scan
+
+[Security as Code Protects Rapidly Developing Cloud Native Architectures - The New Stack](https://thenewstack.io/security-as-code-protects-rapidly-developing-cloud-native-architectures/)
+[Product | Security as Code - oak9](https://oak9.io/product/security-as-code/)
 
 ## Courses/Videos
 
@@ -126,6 +128,10 @@ Google CTF
 [matonis/yara_tools: Create an entire YARA rule via Python? Whhhhhhaatttt?](https://github.com/matonis/yara_tools)
 [Applied YARA training](https://www.brighttalk.com/webcast/18282/504513)
 [yara Archives | APNIC Blog](https://blog.apnic.net/tag/yara/)
+
+[VirusTotal](https://www.virustotal.com/gui/)
+[API Scripts and client libraries – VirusTotal](https://support.virustotal.com/hc/en-us/articles/360006819798-API-Scripts-and-client-libraries)
+[Compliant, easy and actionable integration of VirusTotal in 3rd-party products - Welcome VT Augment ~ VirusTotal Blog](https://blog.virustotal.com/2021/05/compliant-easy-and-actionable.html)
 
 [trustedsec/ptf: The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.](https://github.com/trustedsec/ptf)
 
@@ -443,6 +449,36 @@ Two major computer processor security bugs, dubbed Meltdown and Spectre, affect 
 [analysis-tools-dev/static-analysis: ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.](https://github.com/analysis-tools-dev/static-analysis)
 [Source Code Analysis Tools | OWASP Foundation](https://owasp.org/www-community/Source_Code_Analysis_Tools)
 
+[How to Analyze Code for Vulnerabilities - YouTube](https://www.youtube.com/watch?v=A8CNysN-lOM)
+[Is this okay!? How to review code for security issues - Rouan Wilsenach - NDC Security 2023 - YouTube](https://www.youtube.com/watch?v=_zERV-BIV9Q)
+
+[Snyk Open Source Advisor | Snyk](https://snyk.io/advisor/)
+
+[ShiftLeft Inc.](https://github.com/orgs/ShiftLeftSecurity/repositories?type=source) webgoat and tarpit
+[ShiftLeftSecurity/tarpit-java](https://github.com/ShiftLeftSecurity/tarpit-java)
+[ShiftLeftSecurity/tarpit-nodejs](https://github.com/ShiftLeftSecurity/tarpit-nodejs)
+[ShiftLeftSecurity/tarpit-python](https://github.com/ShiftLeftSecurity/tarpit-python)
+[ShiftLeftSecurity/flask-webgoat](https://github.com/ShiftLeftSecurity/flask-webgoat)
+
+Many provide free service for open source projects
+
+[Codecov - Code Coverage](https://codecov.io/)
+[Coveralls - Test Coverage History & Statistics](https://coveralls.io/)
+[Code Climate. Hosted static analysis for Ruby, PHP and JavaScript source code.](https://codeclimate.com/)
+[Dependency management + Code analytics for Node.js projects](https://www.bithound.io/)
+[Codacy | The fastest static analysis tool from setup to first analysis | Codacy](https://www.codacy.com/)
+[Code Quality and Code Security | SonarQube](https://www.sonarqube.org/)
+
+[Snyk | Developer Security | Develop Fast. Stay Secure.](https://snyk.io/)
+[snyk - npm](https://www.npmjs.com/package/snyk)
+
+```sh
+npm install -g snyk
+cd your-app
+snyk test
+snyk wizard
+```
+
 [chrisallenlane/drek: A static-code-analysis tool for performing security-focused code reviews. It enables an auditor to swiftly map the attack-surface of a large application, with an emphasis on identifying development anti-patterns and footguns.](https://github.com/chrisallenlane/drek) glorified grep
 [Source Code Auditing - YouTube](https://www.youtube.com/watch?v=96ui5ZsIeqQ)
 
@@ -453,7 +489,7 @@ Two major computer processor security bugs, dubbed Meltdown and Spectre, affect 
 
 [How to Analyze Code for Vulnerabilities - YouTube](https://www.youtube.com/watch?v=A8CNysN-lOM)
 
-```
+```sh
 pip audit
 npm audit
 ```

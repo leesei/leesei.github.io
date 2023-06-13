@@ -17,9 +17,6 @@ coupes
 spyder
 [車款百百樣，什麼是 Coupe？ - 世界高級品 LuxuryWatcher](https://www.luxurywatcher.com/zh-Hant/article/24316)
 
-[Why Race Cars Don’t Have Airbags - YouTube](https://www.youtube.com/watch?v=c0qbw_AGCkw)
-[The Evolution of Racing Helmets | Donut Media - YouTube](https://www.youtube.com/watch?v=l-tNQiZgOuI)
-
 [Under the Hood Channel - HowStuffWorks](http://auto.howstuffworks.com/under-the-hood-channel.htm)
 
 [Wings and Spoilers; Lift and Drag | How It Works - YouTube](https://www.youtube.com/watch?v=AXjiThF1LXU)
@@ -51,6 +48,13 @@ Traction control
 [Which Is The Most Dangerous Car? - YouTube](https://www.youtube.com/watch?v=dmPvGi4s9bg)
 [How Do Seatbelts Work? - YouTube](https://www.youtube.com/watch?v=n3ncfcGMo50)
 
+[Why Race Cars Don’t Have Airbags - YouTube](https://www.youtube.com/watch?v=c0qbw_AGCkw)
+[The Evolution of Racing Helmets | Donut Media - YouTube](https://www.youtube.com/watch?v=l-tNQiZgOuI)
+
+Technology Connections
+[The Senseless Ambiguity of North American Turn Signals - YouTube](https://www.youtube.com/watch?v=O1lZ9n2bxWA)
+[Electric cars prove we need to rethink brake lights - YouTube](https://www.youtube.com/watch?v=U0YW7x9U5TQ) one-pedal driving does not trigger brake lights
+
 ## Steering
 
 [汽车转弯 没那么简单: 阿克曼转向几何是个啥？How does Ackerman steering geometry work? - YouTube](https://www.youtube.com/watch?v=8AimxDPWKcM)
@@ -63,11 +67,11 @@ e-brake
 
 ### Counter steering
 
-For automobile that leans,  
+For automobile that leans,
 [Countersteering - Wikiwand](https://www.wikiwand.com/en/Countersteering)
 [Steering Vs Countersteering Motorcycle (Simplified) - YouTube](https://www.youtube.com/watch?v=K7YyV92Er8Y)
 
-For automobile that drifts,  
+For automobile that drifts,
 [Opposite lock - Wikiwand](https://www.wikiwand.com/en/Opposite_lock)
 [How does counter steering actually work? - Quora](https://www.quora.com/How-does-counter-steering-actually-work)
 
@@ -186,6 +190,7 @@ Engineering Explained
 
 [无人驾驶出租车 落地深圳 已成现实「SIGNOW」 - YouTube](https://www.youtube.com/watch?v=NQHLx2U8HU0)
 [The Truth About Self Driving Cars - YouTube](https://www.youtube.com/watch?v=d5TiaIYdug4)
+[Driverless Cars - Computerphile - YouTube](https://www.youtube.com/watch?v=Wd1_xpw7j3w)
 
 [AI DRIVR - YouTube](https://www.youtube.com/%40AIDRIVR)
 [AI DRIVR Shorts - YouTube](https://www.youtube.com/%40AIDRIVRShorts)

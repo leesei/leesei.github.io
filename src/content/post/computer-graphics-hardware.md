@@ -35,6 +35,8 @@ Ahoy
 [A Brief History of Graphics - YouTube](https://www.youtube.com/watch?v=QyjyWUrHsFc)
 [A Brief History of Graphics - YouTube](https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f) series
 
+[The Evolution Of A GPU: From Gaming To Computing | OpenGrowth](https://web.archive.org/web/20230607044534/https://www.opengrowth.com/resources/the-evolution-of-a-gpu-from-gaming-to-computing)
+[Future of Gaming | OpenGrowth](https://web.archive.org/web/20230607044520/https://www.opengrowth.com/resources/future-of-gaming)
 [The 30 Year History of AMD Graphics, In Pictures](http://www.tomshardware.com/picturestory/735-history-of-amd-graphics.html)
 [The History Of Nvidia GPUs](http://www.tomshardware.com/picturestory/715-history-of-nvidia-gpus.html)
 
@@ -42,6 +44,10 @@ Ahoy
 
 [【科技杂谈 79】从 GTX 到 RTX，NVIDIA GEFORCE 显卡家族的历史（1999-2019） - YouTube](https://www.youtube.com/watch?v=UUxUCVlXV0A)
 [The Evolution of Nvidia GeForce Graphics (1999-2022) - YouTube](https://www.youtube.com/watch?v=as-aVVm9JZI)
+
+Asianometry
+[How Nvidia Won Graphics Cards - YouTube](https://www.youtube.com/watch?v=TRZqE6H-dww)
+[How Nvidia Won AI - YouTube](https://www.youtube.com/watch?v=GuV-HyslPxk)
 
 极客湾 Geekerwan
 [20 年前的游戏与 PC：探秘 3D 游戏史上最辉煌的岁月（上） - YouTube](https://www.youtube.com/watch?v=TeJ2IFae2-0)
@@ -141,7 +147,7 @@ Explicit Modes (EMA, Explicit Multiadaptor) can work on linked and unlinked hard
 
 ### DX12
 
-[Exclusive: The Nvidia and AMD DirectX 12 Editorial - Complete DX12 Graphic Card List with Specifications, Asynchronous Shaders and Hardware Features Explained](http://wccftech.com/nvidia-amd-directx-12-graphic-card-list-features-explained/) !important
+[Exclusive: The Nvidia and AMD DirectX 12 Editorial - Complete DX12 Graphic Card List with Specifications, Asynchronous Shaders and Hardware Features Explained](http://wccftech.com/nvidia-amd-directx-12-graphic-card-list-features-explained/) ❗!important
 [DirectX 12 tested: An early win for AMD and disappointment for Nvidia | Ars Technica](http://arstechnica.com/gaming/2015/08/directx-12-tested-an-early-win-for-amd-and-disappointment-for-nvidia/)
 [Multi-GPU DirectX 12 shootouts show AMD with performance lead over Nvidia | Ars Technica](http://arstechnica.com/gaming/2016/02/directx-12-amd-and-nvidia-gpus-finally-work-together-but-amd-still-has-the-lead/)
 [Direct3D 12 Glossary (Windows)](https://msdn.microsoft.com/en-us/library/windows/desktop/dn899119(v=vs.85%29.aspx)
@@ -176,6 +182,8 @@ Asynchronous compute shaders in DX12 benefits the most when CPU is the bottlenec
 3 fan has 2-4 FPS (~3%) advantage
 
 ## NVIDIA
+
+[How Nvidia Won Graphics Cards - YouTube](https://www.youtube.com/watch?v=TRZqE6H-dww)
 
 [List of Nvidia graphics processing units - Wikiwand](https://www.wikiwand.com/en/List_of_Nvidia_graphics_processing_units)
 [NVIDIA GeForce RTX 3080/3080 Ti: more VRAM, way faster and CHEAPER?!](https://www.tweaktown.com/news/68455/nvidia-geforce-rtx-3080-ti-more-vram-way-faster-cheaper/amp.html)

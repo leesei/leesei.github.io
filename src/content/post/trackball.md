@@ -18,6 +18,8 @@ tags:
 [TrackballWorld](http://www.trackballworld.com/)
 [Deskthority wiki](http://deskthority.net/wiki/Main_Page)
 
+[Building and modding the Ploopy trackball - The Verge](https://www.theverge.com/22958439/trackball-diy-building-ploopy)
+
 ## TouchPad
 
 [Who-T: A short overview of touchpad devices](http://who-t.blogspot.hk/2015/07/a-short-overview-of-touchpad-devices.html)
@@ -25,8 +27,6 @@ tags:
 [UDEV Rule for external mouse detection to turn Touchpad On and Off - Ask Ubuntu](https://askubuntu.com/questions/824593/udev-rule-for-external-mouse-detection-to-turn-touchpad-on-and-off)
 
 ## Window settings
-
-`
 
 [XMouseButtonControl](http://www.highrez.co.uk/downloads/XMouseButtonControl.htm)
 

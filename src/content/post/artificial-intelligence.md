@@ -12,7 +12,7 @@ tags:
 [[generative-ai]]
 [[distributed-computing.md#CUDA]]
 
-[Data Science and Robots Blog](https://brohrer.github.io/blog.html) !important
+[Data Science and Robots Blog](https://brohrer.github.io/blog.html) ❗!important
 [Distill — Latest articles about machine learning](https://distill.pub/)
 
 [AI Tools - All Things AI](https://allthingsai.com/tools)
@@ -49,7 +49,7 @@ The term "AI" represents the state of the art technology of archiving it. Curren
 
 [Artificial general intelligence - Wikiwand](https://www.wikiwand.com/en/Artificial_general_intelligence)
 
-AI is any technology that showcases anything that resembles human intelligence (mimics "cognitive" functions).  
+AI is any technology that showcases anything that resembles human intelligence (mimics "cognitive" functions).
 Machine Learning is a subset of AI that uses mathematical models from data to make decisions.
 Machine Learning algorithms are trained on large amount of data to minimize the error between their predictions and the actual ground truth values. Deep Learning is a kind of ML which uses deep neural networks. DNN does not requires feature extraction as needed for other traditional DL methods.
 
@@ -77,13 +77,13 @@ ML:
 [Andrew Ng, Chief Scientist at Baidu - YouTube](https://www.youtube.com/watch?v=O0VN0pGgBZM) 2015
 [Andrew Ng - The State of Artificial Intelligence - YouTube](https://www.youtube.com/watch?v=NKpuX_yzdYs) 2017
 [Explaining AI - YouTube](https://www.youtube.com/watch?v=W2ey_4_DHuc)
-[What is machine learning? Software derived from data | InfoWorld](https://www.infoworld.com/article/3214424/what-is-machine-learning-software-derived-from-data.html) !important
+[What is machine learning? Software derived from data | InfoWorld](https://www.infoworld.com/article/3214424/what-is-machine-learning-software-derived-from-data.html) ❗!important
 [Machine learning explained | InfoWorld](https://www.infoworld.com/article/3214424/machine-learning-explained.html)
 [Machine learning algorithms explained | InfoWorld](https://www.infoworld.com/article/3394399/machine-learning-algorithms-explained.amp.html)r
-[How to explain deep learning in plain English | The Enterprisers Project](https://enterprisersproject.com/article/2019/7/deep-learning-explained-plain-english)  
-[No, Machine Learning is not just glorified Statistics](https://towardsdatascience.com/no-machine-learning-is-not-just-glorified-statistics-26d3952234e3)  
-[9 machine learning myths | CIO](https://www.cio.com/article/3263776/artificial-intelligence/machine-learning-myths.html)  
-[What is Artificial Intelligence? - via @codeship | via @codeship](https://blog.codeship.com/what-is-artificial-intelligence/)  
+[How to explain deep learning in plain English | The Enterprisers Project](https://enterprisersproject.com/article/2019/7/deep-learning-explained-plain-english)
+[No, Machine Learning is not just glorified Statistics](https://towardsdatascience.com/no-machine-learning-is-not-just-glorified-statistics-26d3952234e3)
+[9 machine learning myths | CIO](https://www.cio.com/article/3263776/artificial-intelligence/machine-learning-myths.html)
+[What is Artificial Intelligence? - via @codeship | via @codeship](https://blog.codeship.com/what-is-artificial-intelligence/)
 [NVIDIA BrandVoice: From Deep Learning To Data Science: Everything You Need To Know](https://www.forbes.com/sites/nvidia/2019/02/28/from-deep-learning-to-data-science-everything-you-need-to-know/amp/) data analytics, machine learning, and deep learning
 [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 [Data Science’s Most Misunderstood Hero - Towards Data Science](https://towardsdatascience.com/data-sciences-most-misunderstood-hero-2705da366f40)
@@ -99,7 +99,7 @@ ML:
 [How artificial intelligence works — part 2](https://www.redsharknews.com/production/item/5063-how-artificial-intelligence-works-part-2) back propagation
 [How artificial intelligence works — part 3](https://www.redsharknews.com/production/item/5064-how-artificial-intelligence-works-part-3) GAN
 
-[A Beginner’s Guide to AI/ML 🤖👶 – Machine Learning for Humans – Medium](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12) !important, Machine Learning for Humans ebook
+[A Beginner’s Guide to AI/ML 🤖👶 – Machine Learning for Humans – Medium](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12) ❗!important, Machine Learning for Humans ebook
 [Machine Learning for Humans – Medium](https://medium.com/machine-learning-for-humans)
 [The Best Machine Learning Resources – Machine Learning for Humans – Medium](https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1)
 [Learn Machine Learning the Fun Way - Towards Data Science](https://towardsdatascience.com/learn-machine-learning-the-fun-way-554833891b73)
@@ -134,17 +134,19 @@ Clustering is usually a task for unsupervised learners. The algorithm is expecte
 
 ## AI vs Machine Learning
 
-[The Difference Between AI, Machine Learning, and Deep Learning? | NVIDIA Blog](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)  
+[When did Data Science Become Synonymous with Machine Learning? | by Murtaza Ali | Towards Data Science](https://towardsdatascience.com/when-did-data-science-become-synonymous-with-machine-learning-2d7d9f93f4ca)
+
+[The Difference Between AI, Machine Learning, and Deep Learning? | NVIDIA Blog](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)
 [Deep Learning vs. Machine Learning: Beginner’s Guide | Coursera](https://www.coursera.org/articles/ai-vs-deep-learning-vs-machine-learning-beginners-guide)
-[Machine Learning vs AI: Are They Same? – Hacker Noon](https://hackernoon.com/machine-learning-vs-ai-d7eec452cdd4) !important, clear explanation  
+[Machine Learning vs AI: Are They Same? – Hacker Noon](https://hackernoon.com/machine-learning-vs-ai-d7eec452cdd4) ❗!important, clear explanation
 [Clearly Explained: How Machine learning is different from Data Mining | by Juhi Ramzai | Towards Data Science](https://towardsdatascience.com/clearly-explained-how-machine-learning-is-different-from-data-mining-4ee0e0c91bd4)
-[What's the difference between data science, machine learning, and artificial intelligence? – Variance Explained](http://varianceexplained.org/r/ds-ml-ai/)  
-[Artificial Intelligence vs. Machine Learning vs. Deep Learning | Towards Data Science](https://towardsdatascience.com/artificial-intelligence-vs-machine-learning-vs-deep-learning-2210ba8cc4ac) !important
+[What's the difference between data science, machine learning, and artificial intelligence? – Variance Explained](http://varianceexplained.org/r/ds-ml-ai/)
+[Artificial Intelligence vs. Machine Learning vs. Deep Learning | Towards Data Science](https://towardsdatascience.com/artificial-intelligence-vs-machine-learning-vs-deep-learning-2210ba8cc4ac) ❗!important
 [Deep Learning vs. Machine Learning | by Michal Hrabia | Towards Data Science](https://towardsdatascience.com/deep-learning-vs-machine-learning-e0a9cb2f288)
 [The Difference between Machine Learning and Deep Learning | by Suhas Maddali | Jun, 2022 | Towards Data Science](https://towardsdatascience.com/the-difference-between-machine-learning-and-deep-learning-b029f09d0bf8)
-[What’s the Difference between Machine Learning and AI?](https://interestingengineering.com/whats-the-difference-between-machine-learning-and-ai)  
-[Deep learning vs. machine learning: Understand the differences | InfoWorld](https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html) !important
-[Deep Learning vs. Machine Learning vs. AI: How Do They Go Together?](https://www.makeuseof.com/tag/deep-learning-machine-learning-artificial-intelligence/)  
+[What’s the Difference between Machine Learning and AI?](https://interestingengineering.com/whats-the-difference-between-machine-learning-and-ai)
+[Deep learning vs. machine learning: Understand the differences | InfoWorld](https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html) ❗!important
+[Deep Learning vs. Machine Learning vs. AI: How Do They Go Together?](https://www.makeuseof.com/tag/deep-learning-machine-learning-artificial-intelligence/)
 [Difference between AI vs Machine Learning vs Deep Learning | by Sasha Andrieiev | Becoming Human: Artificial Intelligence Magazine](https://becominghuman.ai/difference-between-ai-vs-machine-learning-vs-deep-learning-2b6d205345fc)
 [AI vs. machine learning vs. deep learning: Key differences](https://searchenterpriseai.techtarget.com/tip/AI-vs-machine-learning-vs-deep-learning-Key-differences)
 [Artificial Intelligence Vs Machine Learning Vs Deep Learning](https://www.analyticsvidhya.com/blog/2021/05/ai-ml-dl/)
@@ -169,18 +171,18 @@ Clustering is usually a task for unsupervised learners. The algorithm is expecte
 [Practical Deep Learning for Coders, v3 | fast.ai course v3](https://course.fast.ai/)
 [How I Trained Computer to Learn Calligraphy Styles: Part1](https://medium.com/datadriveninvestor/deep-learning-models-by-fast-ai-library-c1cccc13e2b3)
 
-[Machine Learning At All Levels On Coursera](https://www.i-programmer.info/news/105-artificial-intelligence/12329-machine-learning-at-all-levels-on-coursera.html) !important, by Andrew Ng
-[Machine Learning | Coursera](https://www.coursera.org/learn/machine-learning) !important, by Andrew Ng
+[Machine Learning At All Levels On Coursera](https://www.i-programmer.info/news/105-artificial-intelligence/12329-machine-learning-at-all-levels-on-coursera.html) ❗!important, by Andrew Ng
+[Machine Learning | Coursera](https://www.coursera.org/learn/machine-learning) ❗!important, by Andrew Ng
 [CS50's Introduction to Artificial Intelligence with Python | edX](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
 [Deep Learning by deeplearning.ai | Coursera](https://www.coursera.org/specializations/deep-learning?)
-[Machine Learning Andrew Ng Courses | Coursera](https://www.coursera.org/courses?query=machine%20learning%20andrew%20ng) !important, by Andrew Ng
+[Machine Learning Andrew Ng Courses | Coursera](https://www.coursera.org/courses?query=machine%20learning%20andrew%20ng) ❗!important, by Andrew Ng
 [AI For Everyone | Coursera](https://www.coursera.org/learn/ai-for-everyone)
 [“AI For Everyone”: Course Review & Key Takeaways - Ankit Rathi - Medium](https://medium.com/@rathi.ankit/ai-for-everyone-course-review-key-takeaways-177be96330fe)
 [Deep Learning | Coursera](https://www.coursera.org/specializations/deep-learning?)
 [Machine Learning - Stanford University | Coursera](https://www.coursera.org/learn/machine-learning)
 [AI Demystified: Free 5-Day Mini-Course | Infinite Red Academy](https://academy.infinite.red/p/ai-demystified-free-5-day-mini-course)
 
-[Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/) !important, TensorFlow
+[Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/) ❗!important, TensorFlow
 [ML Universal Guides | Google Developers](https://developers.google.com/machine-learning/guides/)
 
 [Intro to Machine Learning Course | Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)
@@ -325,7 +327,7 @@ Harmonic mean of precision and recall
 ## AI quirks (adversarial examples)
 
 [Why deep-learning AIs are so easy to fool](https://www.nature.com/articles/d41586-019-03013-5)
-[Why deep-learning methods confidently recognize images that are nonsense](https://techxplore.com/news/2021-12-deep-learning-methods-confidently-images-nonsense.html) overinterpretation
+[Why deep-learning methods confidently recognize images that are nonsense](https://techxplore.com/news/2021-12-deep-learning-methods-confidently-images-nonsense.html) over-interpretation
 [This AI Does Nothing In Games…And Still Wins! - YouTube](https://www.youtube.com/watch?v=u5wtoH0_KuA)
 
 [Welcome to the cleverhans blog | cleverhans-blog](http://www.cleverhans.io/)
@@ -467,6 +469,9 @@ Facial tracking is mostly present in video analysis and tries to follow a face a
 [Reverse Image Search with Machine Learning - commercetools tech](https://techblog.commercetools.com/reverse-image-search-with-machine-learning-92786a07c142)
 [Object Detection with Less Than 10 Lines of Code Using Python](https://towardsdatascience.com/object-detection-with-less-than-10-lines-of-code-using-python-2d28eebc5b11)
 
+Counterfactual World Modeling
+[Stanford Researchers Introduce CWM (Counterfactual World Modeling): A Framework That Unifies Machine Vision - MarkTechPost](https://www.marktechpost.com/2023/06/08/stanford-researchers-introduce-cwm-counterfactual-world-modeling-a-framework-that-unifies-machine-vision/)
+
 [facebookresearch/detectron2: Detectron2 is FAIR's next-generation research platform for object detection and segmentation.](https://github.com/facebookresearch/detectron2)
 
 ### Image Pre processing
@@ -597,6 +602,7 @@ AutoML, MLBox, Auto-Sklearn, GridSearchCV, and TPOT
 - Q-Learning
 - Brute Force
 - Genetic Algorithm
+  [The Knapsack Problem & Genetic Algorithms - Computerphile - YouTube](https://www.youtube.com/watch?v=MacVqujSXWE)
 
 Proximal Policy Optimization, an advanced RL algorithm that requires less data than the General Policy Gradient method
 
@@ -873,7 +879,7 @@ Deep Learning = Artificial Neural Networks with more than 1 hidden layers
 [How to build your own Neural Network from scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
 [On Implementing Deep Learning Library from Scratch in Python](https://towardsdatascience.com/on-implementing-deep-learning-library-from-scratch-in-python-c93c942710a8)
 [Neural Network Embeddings Explained – Towards Data Science](https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526) discrete variables to vector of real numbers
-[The mostly complete chart of Neural Networks, explained](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464) !important
+[The mostly complete chart of Neural Networks, explained](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464) ❗!important
 
 [Deep Learning & Artificial Intelligence, Pt. I | Curious Minds Podcast - Curious Minds Podcast](https://www.cmpod.net/deep-learning-artificial-intelligence-curious-minds-podcast/)
 
@@ -931,7 +937,7 @@ PyTorch, Keras
 
 [什么是卷积神经网络？卷积到底卷了啥？ - YouTube](https://www.youtube.com/watch?v=JJSkAkPS8x4)
 
-[Understanding Neural Networks. From neuron to RNN, CNN, and Deep Learning](https://towardsdatascience.com/understanding-neural-networks-from-neuron-to-rnn-cnn-and-deep-learning-cd88e90e0a90) !important
+[Understanding Neural Networks. From neuron to RNN, CNN, and Deep Learning](https://towardsdatascience.com/understanding-neural-networks-from-neuron-to-rnn-cnn-and-deep-learning-cd88e90e0a90) ❗!important
 [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 [Gentle Dive into Math Behind Convolutional Neural Networks](https://towardsdatascience.com/gentle-dive-into-math-behind-convolutional-neural-networks-79a07dd44cf9)
 [Introduction to Convolutional Neural Network (CNN) using Tensorflow](https://towardsdatascience.com/introduction-to-convolutional-neural-network-cnn-de73f69c5b83)
@@ -982,6 +988,8 @@ Long Short Term Memory (LSTM), a unit in a Recurrent Neural Network (RNN) profic
 [tensorflow/model-analysis: Model analysis tools for TensorFlow](https://github.com/tensorflow/model-analysis)
 [Responsible AI Practices – Google AI](https://ai.google/education/responsible-ai-practices)
 
+[Verifying AI 'Black Boxes' - Computerphile - YouTube](https://www.youtube.com/watch?v=jzRrUPQgrpc) masking features rather than reversing the network
+
 [manifold demo](http://manifold.mlvis.io/)
 [Manifold: A Model-Agnostic Visual Debugging Tool for Machine Learning at Uber | Uber Engineering Blog](https://eng.uber.com/manifold/)
 [Open Sourcing Manifold, a Visual Debugging Tool for Machine Learning | Uber Engineering Blog](https://eng.uber.com/manifold-open-source/)
@@ -996,7 +1004,7 @@ investigating node like cells
 [OpenAI launches Microscope to visualize the neurons in popular machine learning models | VentureBeat](https://venturebeat.com/2020/04/14/openai-launches-microscope-to-visualize-the-neurons-in-popular-machine-learning-models/amp/)
 
 [Interpretable Machine Learning – Towards Data Science](https://towardsdatascience.com/interpretable-machine-learning-1dec0f2f3e6b)
-[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) !important, book
+[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) ❗!important, book
 
 [Introducing AI Explainability 360 | IBM Research Blog](https://www.ibm.com/blogs/research/2019/08/ai-explainability-360/)
 [aix360 · PyPI](https://pypi.org/project/aix360/)
@@ -1054,10 +1062,10 @@ estimate death in biological organisms or failure in mechanical systems
 
 [metaflow-ai](https://blog.metaflow.fr/)
 
-Kubernetes:  
-[kubeflow/kubeflow: Machine Learning Toolkit for Kubernetes](https://github.com/kubeflow/kubeflow)  
-[TensorFlow in Kubernetes in 88 MB - DZone Cloud](https://dzone.com/articles/tensorflow-in-kubernetes-in-88-mb)  
-[Getting Started with Machine Learning using TensorFlow and Docker – Code with Dan Blog](https://blog.codewithdan.com/2018/05/03/getting-started-with-machine-learning-using-tensorflow-and-docker/)  
+Kubernetes:
+[kubeflow/kubeflow: Machine Learning Toolkit for Kubernetes](https://github.com/kubeflow/kubeflow)
+[TensorFlow in Kubernetes in 88 MB - DZone Cloud](https://dzone.com/articles/tensorflow-in-kubernetes-in-88-mb)
+[Getting Started with Machine Learning using TensorFlow and Docker – Code with Dan Blog](https://blog.codewithdan.com/2018/05/03/getting-started-with-machine-learning-using-tensorflow-and-docker/)
 [Kubeflow: TensorFlow on Kubernetes with David Aronchick - Software Engineering Daily](https://softwareengineeringdaily.com/2019/01/25/kubeflow-tensorflow-on-kubernetes-with-david-aronchick/)
 
 [KServe | Kubeflow](https://www.kubeflow.org/docs/external-add-ons/kserve/kserve/) originally KFServing
@@ -1108,7 +1116,7 @@ ONNX allows developers to move models between frameworks such as CNTK, Caffe2, M
 [TensorFlow -- an Open Source Software Library for Machine Intelligence](https://www.tensorflow.org/)
 [Why TensorFlow for Python is dying a slow death](https://thenextweb.com/news/why-tensorflow-for-python-is-dying-a-slow-death)
 
-[Official Google Blog: TensorFlow: smarter machine learning, for everyone](https://googleblog.blogspot.hk/2015/11/tensorflow-smarter-machine-learning-for.html)  
+[Official Google Blog: TensorFlow: smarter machine learning, for everyone](https://googleblog.blogspot.hk/2015/11/tensorflow-smarter-machine-learning-for.html)
 [Research Blog: TensorFlow](https://research.googleblog.com/search/label/TensorFlow)
 [Google Announces TensorFlow Graphics Library for Unsupervised Deep Learning of Computer Vision Model](https://www.infoq.com/news/2019/05/google-tensorflow-graphics/)
 [Cheat sheet: TensorFlow, an open source software library for machine learning - TechRepublic](https://www.techrepublic.com/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/)
@@ -1166,17 +1174,17 @@ sys_details = tf.sysconfig.get_build_info()
 [Intro to Google Colab, free GPU and TPU for Deep Learning - YouTube](https://www.youtube.com/watch?v=vVe648dJOdI)
 
 [Review: TensorFlow shines a light on deep learning | InfoWorld](http://infoworld.com/article/3127397/artificial-intelligence/review-tensorflow-shines-a-light-on-deep-learning.html)
-[What is TensorFlow? The machine learning library explained | InfoWorld](https://www.infoworld.com/article/3278008/machine-learning/what-is-tensorflow-the-machine-learning-library-explained.html)  
+[What is TensorFlow? The machine learning library explained | InfoWorld](https://www.infoworld.com/article/3278008/machine-learning/what-is-tensorflow-the-machine-learning-library-explained.html)
 [Get started with TensorFlow | InfoWorld](http://www.infoworld.com/article/3138908/artificial-intelligence/get-started-with-tensorflow.html)
-[Google’s machine-learning cloud pipeline explained | InfoWorld](http://www.infoworld.com/article/3197405/artificial-intelligence/tpus-googles-machine-learning-pipeline-explained.html)  
+[Google’s machine-learning cloud pipeline explained | InfoWorld](http://www.infoworld.com/article/3197405/artificial-intelligence/tpus-googles-machine-learning-pipeline-explained.html)
 [TensorFlow tutorial: Get started with TensorFlow machine learning | InfoWorld](https://www.infoworld.com/article/3138908/machine-learning/tensorflow-tutorial-get-started-with-tensorflow.html)
 [Building A Collaborative Filtering Recommender System with TensorFlow](https://towardsdatascience.com/building-a-collaborative-filtering-recommender-system-with-tensorflow-82e63d27b420)
 
-Python:  
+Python:
 [TensorFlow Neural Network Tutorial](http://stackabuse.com/tensorflow-neural-network-tutorial/)
 [TensorFlow: Save and Restore Models](http://stackabuse.com/tensorflow-save-and-restore-models/)
 
-JavaScript:  
+JavaScript:
 [TensorFlow.js | TensorFlow](https://www.tensorflow.org/js)
 [tensorflow/tfjs: A WebGL accelerated JavaScript library for training and deploying ML models.](https://github.com/tensorflow/tfjs)
 [ml5js · Friendly Machine Learning For The Web.](https://ml5js.org/)
@@ -1310,8 +1318,8 @@ DSSTNE, pronounced “destiny”, optimizes for data sparseness and scalability 
 When doing inference on edge, the model can be optimized for the target platform (at the cost of prediction performance)
 
 [Measuring Machine Learning - Towards Data Science](https://towardsdatascience.com/measuring-machine-learning-945a47bd3750) presentation
-[Benchmarking Edge Computing - Alasdair Allan - Medium](https://medium.com/@aallan/benchmarking-edge-computing-ce3f13942245) blog, !important
-[Benchmarking TensorFlow Lite on the New Raspberry Pi 4, Model B](https://blog.hackster.io/benchmarking-tensorflow-lite-on-the-new-raspberry-pi-4-model-b-3fd859d05b98) !important, updated
+[Benchmarking Edge Computing - Alasdair Allan - Medium](https://medium.com/@aallan/benchmarking-edge-computing-ce3f13942245) blog, ❗!important
+[Benchmarking TensorFlow Lite on the New Raspberry Pi 4, Model B](https://blog.hackster.io/benchmarking-tensorflow-lite-on-the-new-raspberry-pi-4-model-b-3fd859d05b98) ❗!important, updated
 
 [Why the Future of Machine Learning is Tiny « Pete Warden's blog](https://petewarden.com/2018/06/11/why-the-future-of-machine-learning-is-tiny/)
 [Neural network 2.0: a major breakthrough in edge computing](https://analyticsindiamag.com/neural-network-2-0-a-major-breakthrough-in-edge-computing/) AI processing elements (AIPEs) will replace multiply-accumulate (MAC)-based operations

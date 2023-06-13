@@ -88,7 +88,7 @@ $ sudo lshw -C volume
 
 ## Check file system
 
-[How to force fsck to check filesystem after system reboot on Linux - LinuxConfig.org](https://linuxconfig.org/how-to-force-fsck-to-check-filesystem-after-system-reboot-on-linux)  
+[How to force fsck to check filesystem after system reboot on Linux - LinuxConfig.org](https://linuxconfig.org/how-to-force-fsck-to-check-filesystem-after-system-reboot-on-linux)
 Modify `PASS` in `/etc/fstab` and set "Maximum mount count".
 
 ```sh
@@ -96,7 +96,7 @@ sudo tune2fs -l /dev/sdX1 | grep Last\ c
 sudo tune2fs -c 10 /dev/sdX1
 ```
 
-[boot - Automatically force fsck -fy when encountering "UNEXPECTED INCONSISTENCY; RUN fsck MANUALLY." - Ask Ubuntu](https://askubuntu.com/a/1007323/165018)  
+[boot - Automatically force fsck -fy when encountering "UNEXPECTED INCONSISTENCY; RUN fsck MANUALLY." - Ask Ubuntu](https://askubuntu.com/a/1007323/165018)
 Add "fsck.mode=force fsck.repair=yes" to boot param
 
 ## Check process info

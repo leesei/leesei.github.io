@@ -233,6 +233,24 @@ function pick(source, ...fields) {
 subset = pick(source, "color", "height");
 ```
 
+[JavaScript - Omit object keys - 30 seconds of code](https://www.30secondsofcode.org/js/s/omit-object-keys/)
+
+```js
+const pick = (obj, arr) =>
+  arr.reduce((acc, curr) => (curr in obj && (acc[curr] = obj[curr]), acc), {});
+pick({ a: 1, b: "2", c: 3 }, ["a", "c"]); // { 'a': 1, 'c': 3 }
+```
+
+[JavaScript - Pick object keys - 30 seconds of code](https://www.30secondsofcode.org/js/s/pick-object-keys/)
+
+```js
+const omit = (obj, arr) =>
+  Object.keys(obj)
+    .filter((k) => !arr.includes(k))
+    .reduce((acc, key) => ((acc[key] = obj[key]), acc), {});
+omit({ a: 1, b: "2", c: 3 }, ["b"]); // { 'a': 1, 'c': 3 }
+```
+
 [How to get a subset of a javascript object's properties - Stack Overflow](https://stackoverflow.com/a/56592365)
 
 ```js

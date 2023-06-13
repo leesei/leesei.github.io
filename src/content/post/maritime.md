@@ -12,7 +12,7 @@ tags:
 [Why is the command centre of a ship called a "BRIDGE"? - YouTube](https://www.youtube.com/watch?v=RDKRF7utpTw)
 
 [Maritime Videos - YouTube](https://www.youtube.com/playlist?list=PLjoH8XiKuSWkRcjHgH9XkspX2b0EdXVeX) saVRee
-[Ship Parts and Terminology Explained! (saVRee Nuggets) - YouTube](https://www.youtube.com/watch?v=Xm-F2rPU_NU) !important
+[Ship Parts and Terminology Explained! (saVRee Nuggets) - YouTube](https://www.youtube.com/watch?v=Xm-F2rPU_NU) ❗!important
 
 - fore/bow: front
 - stern/aft: back
@@ -29,10 +29,15 @@ tags:
 
 ## Navy vessel classes
 
-Carrier
+[All Types of Warships Explained - YouTube](https://www.youtube.com/watch?v=303_Xj8FKJU)
+
+Aircraft Carrier
 Battleship
-Cruiser
-Destroyer
+Cruiser: usually bigger and with more guns (but large Destroyers are catching up)
+Destroyer: jack of all trades to protect the fleet
+Frigate: usually no air defense, focus on anti -sub
+Corvettes: not blue-sea worthy, missile or anit-sub
+Amphibious Assault Ship: mini aircraft
 Sea Tender
 Submarine
 

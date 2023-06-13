@@ -10,7 +10,7 @@ tags:
 
 [[enigma-machine]]
 
-[A Crash Course in Everything Cryptographic – Noteworthy - The Journal Blog](https://blog.usejournal.com/a-crash-course-in-everything-cryptographic-50daa0fda482) !important
+[A Crash Course in Everything Cryptographic – Noteworthy - The Journal Blog](https://blog.usejournal.com/a-crash-course-in-everything-cryptographic-50daa0fda482) ❗!important
 [Crypto 101](https://www.crypto101.io/)
 
 [Journey into cryptography | Computer science | Computing | Khan Academy](https://www.khanacademy.org/computing/computer-science/cryptography)
@@ -35,6 +35,8 @@ Bit security measures the number of trials required to brute-force a key. 128 bi
 [cryptography - Do any security experts recommend bcrypt for password storage? - Information Security Stack Exchange](http://security.stackexchange.com/questions/4781/do-any-security-experts-recommend-bcrypt-for-password-storage)
 [BCrypt Explained - DEV Community 👩‍💻👨‍💻](https://dev.to/sylviapap/bcrypt-explained-4k5c)
 
+[Bcrypt, a Popular Password Hashing Algorithm, Starts Its Long Goodbye | WIRED](https://www.wired.com/story/bcrypt-password-hashing-25-years/)
+
 [Computer and Network Security by Avi Kak](https://engineering.purdue.edu/kak/compsec/)
 
 [lukeed/salteen: A snappy and lightweight (259B) utility to encrypt and decrypt values with salt.](https://github.com/lukeed/salteen)
@@ -48,7 +50,7 @@ Bit security measures the number of trials required to brute-force a key. 128 bi
 [Securing Stream Ciphers (HMAC) - Computerphile - YouTube](https://www.youtube.com/watch?v=wlSG3pEiQdc)
 [SHA: Secure Hashing Algorithm - Computerphile - YouTube](https://www.youtube.com/watch?v=DMtFhACPnTY)
 
-Public Key Cryptography:  
+Public Key Cryptography:
 Digital Signatures: encrypt a known data(nounce or message hash) with sender's private key
 Certificate Authorities: a trusted third party that will digitally sign and publish the public key bound to a user or entity
 
@@ -162,7 +164,7 @@ gpg --output filename.tar.gz --decrypt filename.tar.gz.gpg
 
 ## Public Key Cryptography
 
-[Public-key cryptography - Wikiwand](http://www.wikiwand.com/en/Public-key_cryptography)  
+[Public-key cryptography - Wikiwand](http://www.wikiwand.com/en/Public-key_cryptography)
 Public Key crypto simply works with numbers. This means that any messages would have to be converted into a number before being encrypted.
 
 ### RSA
@@ -203,4 +205,5 @@ Public Key crypto simply works with numbers. This means that any messages would 
 透過趨近無窮次的試驗，使猜對的機率趨近 0
 
 [Zero-Knowledge Proof (ZKP) — Explained | Chainlink](https://blog.chain.link/what-is-a-zero-knowledge-proof-zkp/)
+[Zero-knowledge proofs explained in 3 examples](https://www.circularise.com/blogs/zero-knowledge-proofs-explained-in-3-examples)
 [神奇的零知识证明！既能保守秘密，又让别人信你！ - YouTube](https://www.youtube.com/watch?v=FuKEpOhiVPg)

@@ -293,12 +293,20 @@ OS X like desktop that is [ported to OS X](http://blog.elementary.io/post/142076
 
 ### Pop!\_OS
 
+> Pop-shell, Cosmic
 > 2023-03: Rust-based Cosmic desktop is under development
 
 [Pop!\_OS by System76](https://pop.system76.com/)
 [Pop!\_OS - Wikiwand](https://www.wikiwand.com/en/Pop!_OS)
 
 [Pop OS Review: Is This Beautiful Linux Distribution Worth Your Time?](https://itsfoss.com/pop-os-linux-review/)
+
+[Using Pop Shell on other GNOME Desktops - System76 Support](https://support.system76.com/articles/pop-shell/)
+[pop-os/shell: Pop!\_OS Shell](https://github.com/pop-os/shell)
+`gnome-shell-extension-pop-shell-bin`
+
+[New shiny for the COSMIC and Xfce desktops is coming • The Register](https://www.theregister.com/2023/02/02/system76_cosmic_xfce_updates/)
+[pop-os/cosmic-epoch: Next generation Cosmic desktop environment](https://github.com/pop-os/cosmic-epoch)
 
 ### Zorin
 
@@ -368,6 +376,11 @@ talks to KMS and GLES directly without X
 [Sway](https://swaywm.org/) a tiling Wayland compositor and a drop-in replacement for the i3 window manage
 [swaywm/wlroots: A modular Wayland compositor library](https://github.com/swaywm/wlroots)
 [swaywm/wlr-protoco`ls`: Wayland protocols designed for use in wlroots (and other compositors)](https://github.com/swaywm/wlr-protocols)
+
+### Hibernation
+
+[Power management/Suspend and hibernate - ArchWiki](https://wiki.archlinux.org/title/Power_management/Suspend_and_hibernate)
+[通过休眠在 Linux 和 windows 之间无缝切换](https://mp.weixin.qq.com/s/82-CjRA07i4MSp72ox-XnA)
 
 ## LVFS
 
@@ -617,10 +630,14 @@ sudo update-mime-database /usr/share/mime
 
 This is the "registry" for GNOME DE. It replaces the XML based gconf with binary database optimized for faster loop ups.
 
+[Gconf, Dconf, Gsettings and the relationship between them - Ask Ubuntu](https://askubuntu.com/questions/249887/gconf-dconf-gsettings-and-the-relationship-between-them)
+
 gconf => XML database
-dconf = GSetting API => binary database
+dconf => binary database
+gsettings = cross-platform config with schema validation
 
 [Projects/dconf - GNOME Wiki!](https://wiki.gnome.org/action/show/Projects/dconf)
+[Apps/DconfEditor - GNOME Wiki!](https://wiki.gnome.org/Apps/DconfEditor)
 [dconf: dconf Reference Manual](https://developer.gnome.org/dconf/unstable/dconf-overview.html)
 [dconf - Wikiwand](http://www.wikiwand.com/en/Dconf)
 
@@ -630,7 +647,10 @@ gsettings list-keys org.cinnamon.desktop.screensaver
 gsettings set org.cinnamon.desktop.lockdown disable-lock-screen true
 gsettings set org.cinnamon.desktop.lockdown disable-lock-screen false
 gsettings set org.nemo.desktop use-desktop-grid false
+```
 
+```sh
+dconf list /
 dconf dump /org/cinnamon/desktop/screensaver/ > screensaver
 dconf load < screensaver
 dconf write /org/cinnamon/desktop/screensaver/lock-enabled false
@@ -806,7 +826,7 @@ ddcutil setvcp --display 1 60 12 # HDMI2
 
 [jfhbrook/goodify: my personal fork of batify](https://github.com/jfhbrook/goodify)
 
-```
+```sh
 Usage:
   notify-send [OPTION?] <SUMMARY> [BODY] - create a notification
 

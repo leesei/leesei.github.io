@@ -35,7 +35,7 @@ curl -XPUT 'http://elasticsearch:9200/_template/dockbeat' -d@dockbeat/dockbeat.t
 
 [elastic/beats: Beats - Lightweight shippers for Elasticsearch & Logstash](https://github.com/elastic/beats)
 
-[Filebeat | Elastic](https://www.elastic.co/products/beats/filebeat) !important
+[Filebeat | Elastic](https://www.elastic.co/products/beats/filebeat) ❗!important
 [Filebeat Reference | Elastic](https://www.elastic.co/guide/en/beats/filebeat/current/index.html)
 [beats/filebeat at master · elastic/beats](https://github.com/elastic/beats/tree/master/filebeat)
 [Filebeat vs. Logstash -- The Evolution of a Log Shipper - Logz.io](https://logz.io/blog/filebeat-vs-logstash/)

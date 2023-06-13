@@ -1,6 +1,6 @@
 ---
 title: Leadership
-description: ""
+description: Being a software engineering, this post focus more on software engineering
 created: 2018-11-26
 tags:
   - business
@@ -9,16 +9,9 @@ tags:
 [The only leadership theory that matters – Hacker Noon](https://hackernoon.com/the-only-leadership-theory-that-matters-601969b2003f)
 [什麼是優秀的管理者？劉潤：要有一眼「被看穿」的能力－劉潤專欄｜商周](https://www.businessweekly.com.tw/management/blog/3012311)
 
-[Engineering Managers: An Important Conversation - YouTube](https://www.youtube.com/watch?v=7FKvrqg636o)
-
-- let people fail
-- build trust
-- feed into people who bring energy
-
-[Why an Engineering Manager Should Not Review Code | by Emily Dresner | May, 2023 | Better Programming](https://betterprogramming.pub/why-an-engineering-manager-should-not-review-code-46f87c08db66)Tech Lead vs Engineering Manager, split roles for team size >= 4
-[Engineering Culture, Trust, and Accountability | by Emily Dresner | Apr, 2023 | Better Programming](https://betterprogramming.pub/engineering-culture-trust-and-accountability-d09e488e76ee)
-
 [What good leaders do: 3 key practices you can adopt today | CIO](https://www.cio.com/article/3513951/what-good-leaders-do-3-key-practices-you-can-adopt-today.html)
+
+[6 Ways to Handle and Fight Racism in the Workplace](https://www.intuit.com/blog/social-responsibility/6-ways-to-fight-racism-in-the-workplace/)
 
 [Time to revise the adage that amateurs talk strategy while professionals talk logistics – MountainRunner.us](https://mountainrunner.us/2006/07/time_to_revise_/)
 [Is it true as to war that 'amateurs talk strategy, professionals talk logistics'? - Quora](https://www.quora.com/Is-it-true-as-to-war-that-amateurs-talk-strategy-professionals-talk-logistics)
@@ -29,7 +22,12 @@ tags:
 
 [The Developer Advocacy Handbook](https://developer-advocacy.com/)
 
-## Senior Engineer
+[Performance Doesn't Matter...Until It Does. - YouTube](https://www.youtube.com/watch?v=2Z4fZtSKlcE)
+[The problem with software engineering - YouTube](https://www.youtube.com/watch?v=M-ThkvdcYmo)
+
+[優秀的問題解決者，可以後天養成！麥肯錫解決問題 7 步驟怎麼用？－商周讀書會｜商周](https://www.businessweekly.com.tw/careers/blog/3012392) programmers are meant to solve problems
+
+## Technical Lead
 
 Levels of expertise:
 
@@ -41,9 +39,25 @@ Levels of expertise:
 Write idiomatic code at level 2
 Seasoned developers are at level 3
 
+Mentality and attitude is more important!!
+
 [Does Your Editor Matter? - YouTube](https://www.youtube.com/watch?v=rNsWTWvm8uw)
 
-mentality and attitude is more important
+## Engineering Managers
+
+[Engineering Managers: An Important Conversation - YouTube](https://www.youtube.com/watch?v=7FKvrqg636o)
+
+- let people fail
+- build trust
+- feed into people who bring energy
+
+[Why an Engineering Manager Should Not Review Code | by Emily Dresner | May, 2023 | Better Programming](https://betterprogramming.pub/why-an-engineering-manager-should-not-review-code-46f87c08db66) Tech Lead vs Engineering Manager, split roles for team size >= 4
+[Engineering Culture, Trust, and Accountability | by Emily Dresner | Apr, 2023 | Better Programming](https://betterprogramming.pub/engineering-culture-trust-and-accountability-d09e488e76ee)
+
+[Advice for Developers Wanting to Become Engineering Managers - The New Stack](https://thenewstack.io/advice-for-developers-wanting-to-become-engineering-managers/)
+[5 Key Challenges for Engineering Managers - The New Stack](https://thenewstack.io/5-key-challenges-for-engineering-managers/)
+
+[Effective Techniques for Code Review in Software Engineering - DEV Community](https://dev.to/documatic/effective-techniques-for-code-review-in-software-engineering-29i0)
 
 ## Coaching
 

@@ -177,7 +177,7 @@ It is recommended to use [AAAPackageDev][] to write extensions, which now use YA
 
 [SublimeText/PackageTesting](https://github.com/SublimeText/PackageTesting)
 
-Page defines commands in `<name>.sublime-commands`.  
+Page defines commands in `<name>.sublime-commands`.
 Enter `sublime.log_commands(True)` in console to show commands triggered.
 
 ### Theme Development

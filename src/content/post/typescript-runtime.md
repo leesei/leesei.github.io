@@ -26,7 +26,7 @@ tags:
 ## config
 
 [tsconfig.json · TypeScript](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
-[Compiler Options · TypeScript](https://www.typescriptlang.org/docs/handbook/compiler-options.html) !important
+[Compiler Options · TypeScript](https://www.typescriptlang.org/docs/handbook/compiler-options.html) ❗!important
 
 `tsc --init` generates a default `tsconfig.json`
 default `tsc` targets es2016, update these settings in `tsconfig.json`

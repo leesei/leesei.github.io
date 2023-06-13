@@ -78,7 +78,7 @@ ns2.dns-parking.com
 
 ### Transfer domain to Hostinger
 
-[How to manage my DNS records on hPanel? | Hostinger Help Center](https://support.hostinger.com/en/articles/1583249-how-to-manage-my-dns-records-on-hpanel)  
+[How to manage my DNS records on hPanel? | Hostinger Help Center](https://support.hostinger.com/en/articles/1583249-how-to-manage-my-dns-records-on-hpanel)
 [How to transfer domain to Hostinger? | Hostinger Help Center](https://support.hostinger.com/en/articles/1583436-how-to-transfer-domain-to-hostinger)
 
 ### Transfer email to Hostinger

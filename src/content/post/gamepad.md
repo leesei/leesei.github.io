@@ -50,7 +50,7 @@ Taobao ¥115 (with ¥30 coupon), ¥248 for 2 (with ¥20 coupon) 201812
 [它支持 switch！小雞 T4 遊戲手柄上手體驗 - 每日頭條](https://kknews.cc/zh-hk/digital/82nvo3e.html)
 [【手柄哥测评】小雞 T4 遊戲手柄測評 高性價比 PC 遊戲手柄 - YouTube](https://www.youtube.com/watch?v=URWk6gyfs4Q)
 
-- Long press HOME button for 5 seconds to switch mode  
+- Long press HOME button for 5 seconds to switch mode
   XInput: LED1+LED4
   XInput Wired: LED2+LED3
   DInput: LED1+LED3

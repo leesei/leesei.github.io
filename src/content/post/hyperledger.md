@@ -7,7 +7,9 @@ tags:
   - hyperledger
 ---
 
-[Hyperledger – Open Source Blockchain Technologies](https://www.hyperledger.org/)
+[Alternative Uses for Blockchain - Computerphile - YouTube](https://www.youtube.com/watch?v=qBAOsB6ETrY)
+
+[Hyperledger – Open Source Blockchain Technologies](https://www.hyperledger.org/)
 [Hyperledger - Hyperledger - Hyperledger Foundation](https://wiki.hyperledger.org/)
 [A Blockchain Platform for the Enterprise — hyperledger-fabricdocs main documentation](https://hyperledger-fabric.readthedocs.io/en/latest/)
 

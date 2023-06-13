@@ -42,8 +42,8 @@ tags:
 
 [WebP - Wikiwand](https://www.wikiwand.com/en/WebP)
 
-[Getting Started  |  WebP  |  Google Developers](https://developers.google.com/speed/webp/docs/using)
-[An image format for the Web  |  WebP  |  Google Developers](https://developers.google.com/speed/webp/)
+[Getting Started | WebP | Google Developers](https://developers.google.com/speed/webp/docs/using)
+[An image format for the Web | WebP | Google Developers](https://developers.google.com/speed/webp/)
 
 ## QOI
 

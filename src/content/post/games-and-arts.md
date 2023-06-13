@@ -64,7 +64,7 @@ And [Stanley Parable](http://store.steampowered.com/app/221910/), which a narrat
 [6 Pixel Art Drawing Techniques - YouTube](https://www.youtube.com/watch?v=ebF1pIxLpnU)
 [Pixel Art Tips from a Professional Artist - Tips & Tricks - YouTube](https://www.youtube.com/watch?v=cdoWiJANr_U)
 [How To Pixel Art - Beginner To PRO Tutorial - YouTube](https://www.youtube.com/watch?v=0I_OZ4qQJfY)
-[Beginner Pixel Art Tutorial – A Complete Guide - YouTube](https://www.youtube.com/watch?v=o_EKrg2fIuc) !important
+[Beginner Pixel Art Tutorial – A Complete Guide - YouTube](https://www.youtube.com/watch?v=o_EKrg2fIuc) ❗!important
 
 - each pixel should touch at most 2 other pixels
 

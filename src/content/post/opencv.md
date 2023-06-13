@@ -24,9 +24,9 @@ This note will focus on the Python binding. Though popular, the Python binding l
 [piwheels blog - New opencv builds](https://blog.piwheels.org/new-opencv-builds/) dependencies of OpenCV (and headless)
 [jrosebr1/imutils: A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.](https://github.com/jrosebr1/imutils)
 
-Murtaza's Workshop  
-[LEARN OPENCV in 3 HOURS with Python | Including 3xProjects | Computer Vision - YouTube](https://www.youtube.com/watch?v=WQeoO7MI0Bs)  
-[LEARN OPENCV C++ in 4 HOURS | Including 3x Example Projects Win/Mac (2021) - YouTube](https://www.youtube.com/watch?v=2FYm3GOonhk)  
+Murtaza's Workshop
+[LEARN OPENCV in 3 HOURS with Python | Including 3xProjects | Computer Vision - YouTube](https://www.youtube.com/watch?v=WQeoO7MI0Bs)
+[LEARN OPENCV C++ in 4 HOURS | Including 3x Example Projects Win/Mac (2021) - YouTube](https://www.youtube.com/watch?v=2FYm3GOonhk)
 [OpenCV Python Projects - YouTube](https://www.youtube.com/playlist?list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q)
 
 [Install OpenCV 4 on Raspberry Pi 4 and Raspbian Buster - PyImageSearch](https://www.pyimagesearch.com/2019/09/16/install-opencv-4-on-raspberry-pi-4-and-raspbian-buster/) compile from source

@@ -69,7 +69,7 @@ RJ25 Dupont Cable Coloring:
 blue SCL I2C clock bus
 yellow SDA I2C data bus
 green GND Grounding
-red VCC 5 Volt  
+red VCC 5 Volt
 black S1 Digital/analog port
 white S2 Digital/analog port
 

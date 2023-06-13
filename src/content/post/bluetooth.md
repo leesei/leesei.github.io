@@ -32,6 +32,9 @@ tags:
 [What's the situation with Bluetooth audio and smartphones?](https://www.androidauthority.com/bluetooth-audio-quality-explored-750473/)
 [How does Bluetooth Work? - YouTube](https://www.youtube.com/watch?v=1I1vxu5qIUM)
 
+[你不了解的「蓝牙」说到蓝牙你觉得你都懂 实际上呢？ 「硬核无线技术」系列视频 蓝牙篇（上） - YouTube](https://www.youtube.com/watch?v=Hn0Nt9qW0IU)
+[蓝牙耳机音质差？延迟高？蓝牙鼠标键盘游戏手柄都有哪些优缺点？蓝牙产品开发者给你讲蓝牙「硬核无线技术」系列视频 蓝牙篇（下） - YouTube](https://www.youtube.com/watch?v=nw_dqxh4ikY)
+
 [What’s the Difference Between Bluetooth A2DP and aptX?](https://www.howtogeek.com/338750/whats-the-difference-between-bluetooth-a2dp-and-aptx/)
 [有关你的蓝牙耳机 蓝牙音箱：史上最重要的蓝牙音频升级 - LE Audio 详解 - YouTube](https://www.youtube.com/watch?v=o4NepbMX944)
 
@@ -47,7 +50,7 @@ tags:
 
 [買耳機必看!!藍牙耳機三大缺陷，揭露廠商不告訴你的真相!!【4K】 - YouTube](https://www.youtube.com/watch?v=7sVSB0XoGns)
 [買藍牙耳機是場智力測驗!藍牙耳機指南:下手前該知道哪些事?【4K】 - YouTube](https://www.youtube.com/watch?v=gRyTFlYspoQ)
-[18 款真无线耳机横评，哪个值得买？2021 TWS 耳机选购指南 - YouTube](https://www.youtube.com/watch?v=tuso8m9QIQQ) !important
+[18 款真无线耳机横评，哪个值得买？2021 TWS 耳机选购指南 - YouTube](https://www.youtube.com/watch?v=tuso8m9QIQQ) ❗!important
 
 [【万字长文】避坑指南：真无线蓝牙耳机选购看这一篇就够了（9 月）*蓝牙耳机*什么值得买](https://post.smzdm.com/p/a4wo9zn8/)
 [有哪些降噪耳机推荐？ - 知乎](https://www.zhihu.com/question/20911156/answer/1356441261)

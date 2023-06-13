@@ -80,7 +80,7 @@ How to Take Smart Notes, Sönke Ahrens
   archive after completion
 
 Artem Kirsanov
-[Understanding note-taking | Zettelkasten - YouTube](https://www.youtube.com/watch?v=-r6fnC5lVfE) !important t=242
+[Understanding note-taking | Zettelkasten - YouTube](https://www.youtube.com/watch?v=-r6fnC5lVfE) ❗!important t=242
 
 ### LATCH
 
@@ -101,6 +101,17 @@ PARA: Projects （專案）、Areas （領域）、Resources （資源）、Arch
 領域：一個活動範圍或類別，比如 「健康」，「財務」，「職業發展」，「汽車」，「產品開發」。
 資源：一個持續關注的話題或主題，比如 「習慣養成」，「音樂」，「網路行銷」，「室內設計」，等等。
 檔案：儲存的資訊。在這裡強烈建議無紙化儲存，像是把紙本帳單、發票掃描成電子檔案，這樣方便查找，也可以將其儲存網路上。
+
+### Knowledge Graphs
+
+[Knowledge Graphs - Computerphile - YouTube](https://www.youtube.com/watch?v=PZBm7M0HGzw)
+
+[Google Knowledge Graph - Wikiwand](https://www.wikiwand.com/en/Google_Knowledge_Graph)
+[How Google's Knowledge Graph works - Knowledge Panel Help](https://support.google.com/knowledgepanel/answer/9787176?hl=en)
+[Google Knowledge Graph Search API | Google for Developers](https://developers.google.com/knowledge-graph)
+
+[Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
+[Wikidata:Introduction - Wikidata](https://www.wikidata.org/wiki/Wikidata:Introduction)
 
 ## App Comparison
 

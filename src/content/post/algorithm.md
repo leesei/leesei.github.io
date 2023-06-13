@@ -17,6 +17,7 @@ tags:
 
 [polylog - YouTube](https://www.youtube.com/@polylog7346)
 [Spanning Tree - YouTube](https://www.youtube.com/@SpanningTree)
+[Introduction - The Last Algorithms Course You'll Need | Frontend Masters](https://frontendmasters.com/courses/algorithms/introduction/) free, 2022-09, 9:21:18, by ThePrimeagen
 
 [The Algorithms](https://the-algorithms.com/)
 [Algorithms with Go](https://algorithmswithgo.com/)
@@ -42,6 +43,10 @@ tags:
 
 [Think Data Structures – Green Tea Press](http://greenteapress.com/wp/think-data-structures/)
 [Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures](http://www.openbookproject.net/books/pythonds/)
+
+[10 Key Data Structures We Use Every Day - YouTube](https://www.youtube.com/watch?v=ouipSd_5ivQ)
+[Before Your Next Interview Watch This - YouTube](https://www.youtube.com/watch?v=RcvQagxK_9w)
+[How Important are Algorithms and Data Structures in Backend Engineering? - YouTube](https://www.youtube.com/watch?v=pG_twkFN6iE)
 
 [The Sliding Window Pattern](https://www.nan.fyi/sliding-window)
 
@@ -128,6 +133,7 @@ tags:
 
 [Automata & Python - Computerphile - YouTube](https://www.youtube.com/watch?v=32bC33nJR3A)
 [Automata & Python (Long Version) - Computerphile - YouTube](https://www.youtube.com/watch?v=oHVHkkah3MY)
+[Non-Deterministic Automata - Computerphile - YouTube](https://www.youtube.com/watch?v=NhWDVqR4tZc)
 
 [Ragel State Machine Compiler](http://www.colm.net/open-source/ragel/)
 [State Machines & Tools--Quantum Leaps](http://www.state-machine.com/)
@@ -227,6 +233,8 @@ A\* Algorithm:
 [Quick Benchmark: Gzip vs Bzip2 vs LZMA vs XZ vs LZ4 vs LZO - CatchChallenger wiki](https://catchchallenger.first-world.info/wiki/Quick_Benchmark:_Gzip_vs_Bzip2_vs_LZMA_vs_XZ_vs_LZ4_vs_LZO)
 [Comparison of Brotli, Deflate, Zopfli, LZMA, LZHAM and Bzip2 Compression Algorithms](https://cran.r-project.org/web/packages/brotli/vignettes/brotli-2015-09-22.pdf) PDF, 2015
 
+[zlib-ng/zlib-ng: zlib replacement with optimizations for "next generation" systems.](https://github.com/zlib-ng/zlib-ng)
+
 [Elegant Compression in Text (The LZ 77 Method) - Computerphile - YouTube](https://www.youtube.com/watch?v=goOa3DGezUA)
 [Entropy in Compression - Computerphile - YouTube](https://www.youtube.com/watch?v=M5c_RFKVkko)
 
@@ -256,10 +264,10 @@ A\* Algorithm:
 
 Non-exact (rounded) results is good enough for many scenarios.
 
-[Sketching & Scaling Part 1. What the #@!\$ is Sketching?Official Kiip BlogOfficial Kiip Blog](http://blog.kiip.me/engineering/sketching-scaling-part-1-what-the-is-sketching/)
-[Sketching & Scaling: Bloom Filters](http://blog.kiip.me/engineering/sketching-scaling-bloom-filters/)
-[Sketching & Scaling: Everyday HyperLogLog](http://blog.kiip.me/engineering/sketching-scaling-everyday-hyperloglog/)
-[Sketching & Scaling: Firehose Analytics](http://blog.kiip.me/engineering/sketching-scaling-firehose-analytics/)
+[Sketching & Scaling Pt. 1: What the #@!$ is Sketching? | by Kiip | Medium](https://medium.com/@kiip/sketching-scaling-pt-1-what-the-is-sketching-60e698874022)
+[Sketching & Scaling Pt. 2: Bloom Filters | by Kiip | Medium](https://medium.com/@kiip/sketching-scaling-pt-2-bloom-filters-12aad684ffb4)
+[Sketching & Scaling Pt. 3: Everyday HyperLogLog | by Kiip | Medium](https://medium.com/@kiip/sketching-scaling-pt-3-everyday-hyperloglog-31d6e8292251)
+[Sketching & Scaling Pt. 4: Firehose Analytics | by Kiip | Medium](https://medium.com/@kiip/sketching-scaling-pt-4-firehose-analytics-bdd190ce8859)
 
 ## Dynamic Programming
 

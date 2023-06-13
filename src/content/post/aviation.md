@@ -7,8 +7,10 @@ tags:
 ---
 
 [DroneScapes - YouTube](https://www.youtube.com/@Dronescapes)
+[Ziroth - YouTube](https://www.youtube.com/@ZirothTech)
 
 [How do airplanes actually fly? - Raymond Adkins - YouTube](https://www.youtube.com/watch?v=p4VHMsIuPmk)
+[Metamorphic Wings: The Future of Flight is Here - YouTube](https://www.youtube.com/watch?v=OKWurIhfkhQ)
 
 [战斗机是怎么分代的？ - YouTube](https://www.youtube.com/watch?v=SWxZdodxoYk)
 [空中鋼肺！美軍開創無限供氧系統！為什麼戰機飛行員，戴的頭盔和氧氣面罩不同？丨 OBOGS 分子篩氧氣系統 - YouTube](https://www.youtube.com/watch?v=0oZ7NGhOXzU)

@@ -6,6 +6,8 @@ tags:
   - math
 ---
 
+[Wolfram MathWorld: The Web's Most Extensive Mathematics Resource](https://mathworld.wolfram.com/)
+
 [Eddie Woo - YouTube - YouTube](https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ) High School
 [MathHelp.com - YouTube](https://www.youtube.com/channel/UC_LuPnD9D2zFYF46vm8kQnQ)
 [Math | Khan Academy](https://www.khanacademy.org/math)
@@ -30,6 +32,8 @@ tags:
 [Primer - YouTube](https://www.youtube.com/c/PrimerLearning)
 [Mathologer - YouTube](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg)
 [Mathemaniac - YouTube](https://www.youtube.com/@mathemaniac)
+[Another Roof - YouTube](https://www.youtube.com/@AnotherRoof)
+[VisualMath - YouTube](https://www.youtube.com/@VisualMath)
 [eigenchris - YouTube](https://www.youtube.com/channel/UCN8wTUlSAroLslWyf87E2pw) Linear Algebra, Physics
 
 [妈咪说 MommyTalk - YouTube](https://www.youtube.com/channel/UCLROLAN8kmU7tGQDs6KH-bQ)
@@ -163,6 +167,7 @@ equilibrium probability = left eigen vector of the adjacency matrix
 [Simple group - Wikiwand](https://www.wikiwand.com/en/Simple_group) "prime numbers" of group
 [Composition series - Wikiwand](https://www.wikiwand.com/en/Composition_series) Jordan-Hölder theorem
 [List of finite simple groups - Wikiwand](https://www.wikiwand.com/en/List_of_finite_simple_groups)
+[Classical group - Wikiwand](https://www.wikiwand.com/en/classical%20group)
 [Ring (mathematics) - Wikiwand](<https://www.wikiwand.com/en/Ring_(mathematics)>) Group closed in addition, subtraction and multiplication
 [Field (mathematics) - Wikiwand](<https://www.wikiwand.com/en/Field_(mathematics)>) Ring closed also in division
 [Explanaria - Groups & Clear Crystal Conundrums](https://explanaria.github.io/crystalgroups/)
@@ -179,6 +184,10 @@ equilibrium probability = left eigen vector of the adjacency matrix
 [Euler's formula with introductory group theory - YouTube](https://www.youtube.com/watch?v=mvmuCPvRoWQ)
 
 [Group Theory — Introduction to Higher Mathematics - YouTube](https://www.youtube.com/watch?v=KufsL2VgELo)
+
+[Steiner system - Wikiwand](https://www.wikiwand.com/en/Steiner_system)
+[What are...Steiner systems? - YouTube](https://www.youtube.com/watch?v=uAX0RAfo1WU)
+[The Most Powerful Diagram in Mathematics - YouTube](https://www.youtube.com/watch?v=4xnRZqD7rAo) S(5,8,24) and MOG
 
 ## Category Theory
 
@@ -232,7 +241,7 @@ Khan Academy
 [Why “probability of 0” does not mean “impossible” | Probabilities of probabilities, part 2 - YouTube](https://www.youtube.com/watch?v=ZA4JkHKZM50) Probability Density Function, where the area under the function is 1
 [But what is a convolution? - YouTube](https://www.youtube.com/watch?v=KuXjwB4LzSA)
 
-妈咪说 MommyTalk  
+妈咪说 MommyTalk
 [概率也能骗人？什么是伯特兰悖论？用数学告诉你为什么说话要严谨 - YouTube](https://www.youtube.com/watch?v=h2grRS_VYfA)
 [一个反直觉的硬币游戏，伯特兰箱子悖论 - YouTube](https://www.youtube.com/watch?v=kq_Ey8l_1yc)
 [充满争议的概率论问题星期二男孩悖论，你能算对吗？ - YouTube](https://www.youtube.com/watch?v=dloKdhnCZj4)
@@ -270,8 +279,8 @@ Khan Academy
 
 [Think Stats 2e – Green Tea Press](https://greenteapress.com/wp/think-stats-2e/)
 
-data set that creates same simple statistics but are totally different  
-[Data visualisation, reporting, and processing with R](https://krlmlr.github.io/vistransrep/2019-04-zhr/intro.html#1)  
+data set that creates same simple statistics but are totally different
+[Data visualisation, reporting, and processing with R](https://krlmlr.github.io/vistransrep/2019-04-zhr/intro.html#1)
 [Anscombe's quartet - Wikiwand](https://www.wikiwand.com/en/Anscombe%27s_quartet)
 [The Datasaurus Dozen - Same Stats, Different Graphs | Autodesk Research](https://www.autodeskresearch.com/publications/samestats)
 
@@ -318,16 +327,6 @@ p-value is the probability that random chance generated the data, or something e
 [Spurious Correlations](https://www.tylervigen.com/spurious-correlations)
 [Spurious Correlation: Definition, Examples & Detecting - Statistics By Jim](https://statisticsbyjim.com/basics/spurious-correlation/)
 [Beware Spurious Correlations](https://hbr.org/2015/06/beware-spurious-correlations)
-
-## Games
-
-[Our First Sudoku Puzzle Hunt | Cracking The Cryptic on Patreon](https://www.patreon.com/posts/36694746)
-
-[Cracking The Cryptic - YouTube](https://www.youtube.com/channel/UCC-UOdK8-mIjxBQm_ot1T-Q)
-
-[The Miracle Sudoku - YouTube](https://www.youtube.com/watch?v=yKf9aUIxdb4) [link](https://cracking-the-cryptic.web.app/sudoku/tjN9LtrrTL)
-
-[什么是公平？如何分配利益才能大家都满意？李永乐老师讲切蛋糕问题 - YouTube](https://www.youtube.com/watch?v=I8d13Jxzafk)
 
 ## Topology
 
@@ -422,7 +421,17 @@ uses complex number and group theory
 
 ## Prover
 
+[The story of mathematical proof – with John Stillwell - YouTube](https://www.youtube.com/watch?v=S1AEWuCFq6A)
+
 [Isabelle](https://isabelle.in.tum.de/)
+
+### Lean
+
+[Lean (proof assistant) - Wikiwand](<https://www.wikiwand.com/en/Lean_(proof_assistant)>)
+[Lean](https://leanprover.github.io/)
+
+[Automated Mathematical Proofs - Computerphile - YouTube](https://www.youtube.com/watch?v=prYaTrZUces)
+[EXTRA BITS: Automated Proofs - Computerphile - YouTube](https://www.youtube.com/watch?v=PaKHRfSkhnA)
 
 ### TLA+
 

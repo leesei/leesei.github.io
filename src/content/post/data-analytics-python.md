@@ -30,7 +30,7 @@ tags:
 [Weekend Reading: Python | Linux Journal](https://www.linuxjournal.com/content/weekend-reading-using-python-science-and-machine-learning) science and ML
 [Oktoberfest : Quick analysis using Pandas, Matplotlib, and Plotly](https://towardsdatascience.com/oktoberfest-quick-analysis-using-pandas-matplotlib-and-plotly-79778367a4c)
 
-[Python Data Science Handbook | Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html) !important
+[Python Data Science Handbook | Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html) ❗!important
 [pydata/pydata-cookbook: PyData Cookbook Project](https://github.com/pydata/pydata-cookbook)
 
 [Data Analysis with Dr Mike Pound - YouTube](https://www.youtube.com/playlist?list=PLzH6n4zXuckpfMu_4Ff8E7Z1behQks5ba) Computerphile
@@ -171,9 +171,9 @@ better API to address columns, akin to pandas
 [Pandas Tutorials – Dunder Data – Medium](https://medium.com/dunder-data/pandas-tutorials/home)
 
 [Explore Your Dataset With Pandas – Real Python](https://realpython.com/courses/explore-dataset-with-pandas/)
+[Finding Temporal Patterns in Twitter Posts: Exploratory Data Analysis with Python | by Dmitrii Eliuseev | May, 2023 | Towards Data Science](https://towardsdatascience.com/finding-temporal-patterns-in-twitter-posts-exploratory-data-analysis-with-python-8aac618c8699)
 [Full Stack Pandas. Lesser known functionality of the… | by Sayar Banerjee | Towards Data Science](https://towardsdatascience.com/full-stack-pandas-625f134ce0f6)
-[Pandas Makes Python Better - Towards Data Science](https://towardsdatascience.com/pandas-makes-python-better-ec6cc1e30233)
-[Pandas.series : A Part of the backbone for Machine Learning in Python](https://towardsdatascience.com/pandas-series-a-part-of-the-backbone-for-machine-learning-in-python-c6a5003836c7)
+[Pandas Makes Python Better. Something I’ve wanted to talk about for… | by Emma Boudreau | Towards Data Science](https://towardsdatascience.com/pandas-makes-python-better-ec6cc1e30233)
 [10 Python Skills They Don’t Teach in Bootcamp | Towards Data Science](https://towardsdatascience.com/10-python-skills-419e5e4c4d66)
 
 [Improve pandas performance with eval and query | Python in Plain English](https://python.plainenglish.io/these-methods-will-change-how-you-use-pandas-921e4669271f)

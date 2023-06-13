@@ -26,7 +26,7 @@ tags:
 [SSG Build Performance Tests](https://ssg-build-performance-tests.netlify.app/)
 
 [10 Open Source Blogging Platforms for Developers](http://sixrevisions.com/tools/open-source-blogging-platforms-for-developers/)
-[9 React Static Site Generators for 2019 - Bits and Pieces](https://blog.bitsrc.io/9-react-static-site-generators-for-2019-f54a66e519d2)  
+[9 React Static Site Generators for 2019 - Bits and Pieces](https://blog.bitsrc.io/9-react-static-site-generators-for-2019-f54a66e519d2)
 [Comparing Static Site Engines with Brian Rinaldi - YouTube](https://www.youtube.com/watch?v=R-fJWOO1bjE)
 [What are static site generators? Learn how they can boost your website's speed, improve security, and more easily scale. Plus 3 tips for finding the best one for you.](https://www.netlify.com/blog/2020/04/14/what-is-a-static-site-generator-and-3-ways-to-find-the-best-one/)
 [How to Choose Your Static Site Generator | Stackbit Blog](https://www.stackbit.com/blog/choosing-your-ssg/)

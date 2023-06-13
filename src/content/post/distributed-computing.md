@@ -8,7 +8,7 @@ tags:
 
 > FIXME: some info are for distributed computing, some are for hardware (GPU) acceleration
 
-[[data-analytics]]  
+[[data-analytics]]
 [[data-analytics-python]]
 
 [9 crushing performance problems in scalable systems | InfoWorld](http://www.infoworld.com/article/3211526/database/9-crushing-performance-problems-in-scalable-systems.html)

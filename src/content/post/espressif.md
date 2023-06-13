@@ -26,7 +26,7 @@ Board bringup
 [How to Install the ESP8266 Board in Arduino IDE | Random Nerd Tutorials](https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/)
 [ESP32 Dual Core with Arduino IDE | Random Nerd Tutorials](https://randomnerdtutorials.com/esp32-dual-core-arduino-ide/)
 
-1. Go to _File -> Preference_ of Arduino IDE, enter these to _Additional Board Manager URLs_  
+1. Go to _File -> Preference_ of Arduino IDE, enter these to _Additional Board Manager URLs_
    `https://dl.espressif.com/dl/package_esp32_index.json, http://arduino.esp8266.com/stable/package_esp8266com_index.json`
 2. Go to _Tools -> Board Manager_, install esp32 and esp8266
 

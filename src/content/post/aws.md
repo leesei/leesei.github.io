@@ -6,23 +6,23 @@ tags:
   - web
 ---
 
-[Amazon Web Services (AWS) - Cloud Computing Services](https://aws.amazon.com/)  
+[Amazon Web Services (AWS) - Cloud Computing Services](https://aws.amazon.com/)
 [Free Cloud Services – AWS Free Tier](http://aws.amazon.com/free/)
 [Learn AWS](https://www.learnaws.org/)
 
 [What you don’t know about working with AWS | InfoWorld](https://www.infoworld.com/article/3631376/what-you-dont-know-about-working-with-aws.html)
 
-[Amazon.com: Amazon Web Services: Books, Biography, Blog, Audiobooks, Kindle](https://www.amazon.com/Amazon-Web-Services/e/B007R6MVQ6/ref=ntt_dp_epwbk_0)  
-[Getting Started with Amazon Web Services (AWS)](https://aws.amazon.com/getting-started/)  
-[AWS Overview - Getting Started with AWS](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-what-services-first.html)  
+[Amazon.com: Amazon Web Services: Books, Biography, Blog, Audiobooks, Kindle](https://www.amazon.com/Amazon-Web-Services/e/B007R6MVQ6/ref=ntt_dp_epwbk_0)
+[Getting Started with Amazon Web Services (AWS)](https://aws.amazon.com/getting-started/)
+[AWS Overview - Getting Started with AWS](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-what-services-first.html)
 [Introducing-AWS-Hong-Kong-Region](https://www.slideshare.net/AmazonWebServices/introducingawshongkongregion)
 [The 12 Coolest AWS Tools Of 2020 (So Far)](https://www.crn.com/slide-shows/cloud/the-12-coolest-aws-tools-of-2020-so-far-)
 
 [Software Architecture: Architect Your Application with AWS](https://codeburst.io/software-architecture-architect-your-application-with-aws-52d938603a32)
-[Devs are from Venus, Ops are from Mars, Containers: Amazon Web Services, Part I - Turbonomic](https://turbonomic.com/blog/on-technology/devs-are-from-venus-ops-are-from-mars-containers-amazon-web-services-part-i/)  
-[Devs are from Venus, Ops are from Mars, Containers: Amazon Web Services, Part II - Turbonomic](https://turbonomic.com/blog/on-technology/devs-are-from-venus-ops-are-from-mars-containers-amazon-web-services-part-ii/)  
-[如何基于 AWS 的基础设施构建高可用、高可扩展的系统](http://www.infoq.com/cn/articles/build-ha-scalability-system-aws-infra)  
-[So, you want to learn AWS? AKA, "How do I learn to be a Cloud Engineer?" : sysadmin](https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be/)  
+[Devs are from Venus, Ops are from Mars, Containers: Amazon Web Services, Part I - Turbonomic](https://turbonomic.com/blog/on-technology/devs-are-from-venus-ops-are-from-mars-containers-amazon-web-services-part-i/)
+[Devs are from Venus, Ops are from Mars, Containers: Amazon Web Services, Part II - Turbonomic](https://turbonomic.com/blog/on-technology/devs-are-from-venus-ops-are-from-mars-containers-amazon-web-services-part-ii/)
+[如何基于 AWS 的基础设施构建高可用、高可扩展的系统](http://www.infoq.com/cn/articles/build-ha-scalability-system-aws-infra)
+[So, you want to learn AWS? AKA, "How do I learn to be a Cloud Engineer?" : sysadmin](https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be/)
 [100 Days of Learning AWS – Tanya Ruth Selvog – Medium](https://medium.com/@tanyaselvog/100-days-of-learning-aws-c80f5cbd448c)
 
 [AWS Well-Architected - Build secure, efficient, cloud enabled applications](https://aws.amazon.com/architecture/well-architected/)
@@ -36,18 +36,18 @@ tags:
 [AWS SaaS Boost released as an open source project](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-saas-boost-released-as-an-open-source-project/)
 [awslabs/aws-saas-boost](https://github.com/awslabs/aws-saas-boost)
 
-[The Epic Story of Dropbox’s Exodus From the Amazon Cloud Empire | WIRED](https://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire/)  
+[The Epic Story of Dropbox’s Exodus From the Amazon Cloud Empire | WIRED](https://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire/)
 [How Dropbox Re-architected Its Cloud to Use Higher-Density Storage | Data Center Knowledge](https://www.datacenterknowledge.com/storage/how-dropbox-re-architected-its-cloud-use-higher-density-storage)
-[Here’s How Much Money Dropbox Saved by Moving Out of the Cloud](https://www.datacenterknowledge.com/cloud/here-s-how-much-money-dropbox-saved-moving-out-cloud)  
+[Here’s How Much Money Dropbox Saved by Moving Out of the Cloud](https://www.datacenterknowledge.com/cloud/here-s-how-much-money-dropbox-saved-moving-out-cloud)
 [SE-Radio Episode 285: James Cowling on Dropbox’s Distributed Storage System : Software Engineering Radio](http://www.se-radio.net/2017/03/se-radio-episode-285-james-cowling-on-dropboxs-distributed-storage-system/)
 
 ## Services catalog
 
-[Cloud Products & Services - Amazon Web Services (AWS)](https://aws.amazon.com/products/)  
-[AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english) !important  
-[CloudAcademy AWS](https://cloudacademy.com/amazon-web-services/#services-list) simple description  
-[AWS cloud services features: A guide to the right tools for the job | InfoWorld](https://www.infoworld.com/article/3245925/cloud-computing/aws-cloud-services-guide-the-right-tools-for-the-job.html)  
-[Category:Amazon Web Services - Wikiwand](http://www.wikiwand.com/en/Category:Amazon_Web_Services)  
+[Cloud Products & Services - Amazon Web Services (AWS)](https://aws.amazon.com/products/)
+[AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english) ❗!important
+[CloudAcademy AWS](https://cloudacademy.com/amazon-web-services/#services-list) simple description
+[AWS cloud services features: A guide to the right tools for the job | InfoWorld](https://www.infoworld.com/article/3245925/cloud-computing/aws-cloud-services-guide-the-right-tools-for-the-job.html)
+[Category:Amazon Web Services - Wikiwand](http://www.wikiwand.com/en/Category:Amazon_Web_Services)
 [AWSomeBlog.com - Amazon Web Services Tutorials](http://www.awsomeblog.com/)
 
 [Top 50+ AWS Services Explained in 10 Minutes - YouTube](https://www.youtube.com/watch?v=JIbIYCM48to)
@@ -58,7 +58,7 @@ tags:
 
 ## Training
 
-[AWS Samples](https://github.com/aws-samples) source code and templates from workshops  
+[AWS Samples](https://github.com/aws-samples) source code and templates from workshops
 [Home | Qwiklabs + amazon](https://amazon.qwiklab.com/) online lab
 
 [Amazon Web Services’s slideshows on SlideShare](https://www.slideshare.net/AmazonWebServices/tag/summit-hk-2019/) AWS Submit HK 2019
@@ -70,16 +70,16 @@ tags:
 [AWS Certified Cloud Practitioner 2020 - A Cloud Guru](https://learn.acloud.guru/course/aws-certified-cloud-practitioner/overview)
 [AWS Identity and Access Management (IAM) Concepts - A Cloud Guru](https://learn.acloud.guru/course/identity-and-access-management-concepts/overview)
 
-[AWS Tutorials - Getting Started with AWS](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html)  
-[Articles & Tutorials : Amazon Web Services](https://aws.amazon.com/articles)  
-[AWS Tutorial Series - YouTube](https://www.youtube.com/user/awstutorialseries/playlists)  
+[AWS Tutorials - Getting Started with AWS](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html)
+[Articles & Tutorials : Amazon Web Services](https://aws.amazon.com/articles)
+[AWS Tutorial Series - YouTube](https://www.youtube.com/user/awstutorialseries/playlists)
 [Amazon Web Services - YouTube](https://www.youtube.com/user/AmazonWebServices)
 
-[Events & Webinars](https://aws.amazon.com/about-aws/events/)  
+[Events & Webinars](https://aws.amazon.com/about-aws/events/)
 [AWS Webinar Series for Hong Kong](https://aws.amazon.com/webinars/hk-webinar-series/)
 
-[open-guides/og-aws: Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws) !important  
-[Cloud Computing With Amazon Web Services | Udemy](https://www.udemy.com/cloud-computing-with-amazon-web-services-part-1/)  
+[open-guides/og-aws: Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws) ❗!important
+[Cloud Computing With Amazon Web Services | Udemy](https://www.udemy.com/cloud-computing-with-amazon-web-services-part-1/)
 [Mastering AWS Development](https://www.packtpub.com/mapt/book/all_books/9781782173632)
 
 ```
@@ -99,8 +99,8 @@ to have outbound traffic, either connect to Internet Gateway to get a public IP 
 
 ## SDK
 
-[AWS | Tools](https://aws.amazon.com/tools/)  
-[AWS SDK for JavaScript in Node.js](https://aws.amazon.com/sdk-for-node-js/) [source](https://github.com/aws/aws-sdk-js)  
+[AWS | Tools](https://aws.amazon.com/tools/)
+[AWS SDK for JavaScript in Node.js](https://aws.amazon.com/sdk-for-node-js/) [source](https://github.com/aws/aws-sdk-js)
 [File: README — AWS SDK for JavaScript](http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/index.html)
 
 [AWS SDK for Python](https://aws.amazon.com/sdk-for-python/)
@@ -108,10 +108,13 @@ to have outbound traffic, either connect to Internet Gateway to get a public IP 
 [Boto 3 Documentation](https://boto3.readthedocs.io/en/latest/#)
 [Python, Boto3, and AWS S3: Demystified – Real Python](https://realpython.com/python-boto3-aws-s3/)
 
-[Announcing AWS Amplify and the AWS Mobile CLI | AWS Mobile Blog](https://aws.amazon.com/blogs/mobile/announcing-aws-amplify-and-the-aws-mobile-cli/)  
+[Announcing AWS Amplify and the AWS Mobile CLI | AWS Mobile Blog](https://aws.amazon.com/blogs/mobile/announcing-aws-amplify-and-the-aws-mobile-cli/)
 [Amplify Framework](https://aws-amplify.github.io/docs/)
-[aws/aws-amplify: A declarative library for application development using Cloud services with JavaScript](https://github.com/aws/aws-amplify)  
+[aws/aws-amplify: A declarative library for application development using Cloud services with JavaScript](https://github.com/aws/aws-amplify)
+
 [aws/awsmobile-cli: CLI experience for Frontend developers in the JavaScript ecosystem.](https://github.com/aws/awsmobile-cli)
+[Discovering AWS with the CLI Part 1: Networking and Virtual Machines](https://okigiveup.net/tutorials/discovering-aws-with-cli-part-1-basics/)
+[Discovering AWS with the CLI Part 2: ECS and Fargate](https://okigiveup.net/tutorials/discovering-aws-with-the-cli-part-2-ecs-and-fargate/)
 
 ## IAM
 
@@ -151,7 +154,7 @@ to have outbound traffic, either connect to Internet Gateway to get a public IP 
 
 ## CLI
 
-[AWS CLI Command Reference — AWS CLI Command Reference](http://docs.aws.amazon.com/cli/latest/)  
+[AWS CLI Command Reference — AWS CLI Command Reference](http://docs.aws.amazon.com/cli/latest/)
 [aws/aws-cli: Universal Command Line Interface for Amazon Web Services](https://github.com/aws/aws-cli)
 [awslabs/aws-shell: An integrated shell for working with the AWS CLI.](https://github.com/awslabs/aws-shell)
 

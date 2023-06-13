@@ -1,6 +1,6 @@
 ---
 title: ffmpeg
-description: "A complete, cross-platform solution to record, convert and stream audio and video."
+description: A complete, cross-platform solution to record, convert and stream audio and video.
 created: 2015-01-13
 updated: 2023-05-17
 tags:
@@ -73,7 +73,7 @@ ffmpeg \
 
 [HWAccelIntro – FFmpeg](https://trac.ffmpeg.org/wiki/HWAccelIntro)
 
-[Media  |  Google Developers](https://developers.google.com/media/vp9/settings/vod/) VP9 encoder
+[Media | Google Developers](https://developers.google.com/media/vp9/settings/vod/) VP9 encoder
 [Hardware/VAAPI – FFmpeg](https://trac.ffmpeg.org/wiki/Hardware/VAAPI)
 [Simple hardware encoding for VP9 with semi-recent Intel processors and FFmpeg · Abel Stern](https://abelstern.nl/posts/hardware_encoding_vp9/)
 [mp4 - Best settings for FFMpeg with NVENC - Super User](https://superuser.com/questions/1296374/best-settings-for-ffmpeg-with-nvenc)

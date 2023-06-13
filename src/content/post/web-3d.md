@@ -2,11 +2,24 @@
 title: 3D Drawing on the Web
 description: ""
 created: 2016-04-08
-updated: 2023-03-21
+updated: 2023-06-10
 tags:
   - web
   - web-gl
+  - web-gpu
 ---
+
+[A brief history of graphics on the web and WebGPU - Ashley's blog](https://www.construct.net/en/blogs/ashleys-blog-2/brief-history-graphics-web-1517)
+
+[mattdesl/graphics-resources: a list of graphic programming resources](https://github.com/mattdesl/graphics-resources)
+[The Pixel Factory](http://acko.net/files/gltalks/pixelfactory/online.html) on computer graphic, 3D and WebGL
+
+[gpu.js - GPU Accelerated JavaScript](http://gpu.rocks/)
+[TensorFire](https://tenso.rs/) neural networks in the browser using WebGL
+
+[pmndrs/detect-gpu: Classifies GPUs based on their 3D rendering benchmark score allowing the developer to provide sensible default settings for graphically intensive applications.](https://github.com/pmndrs/detect-gpu)
+
+## WebGL
 
 [WebGL - Wikiwand](https://www.wikiwand.com/en/WebGL)
 
@@ -18,14 +31,12 @@ chrome://flags/
 [Techniques for Rendering Text with WebGL | CSS-Tricks](https://css-tricks.com/techniques-for-rendering-text-with-webgl/)
 OpenGL 2 allows programmer to use shaders (GLSL) to control the pipeline. WebGL is a subset of OpenGL that works in browsers.
 
-[mattdesl/graphics-resources: a list of graphic programming resources](https://github.com/mattdesl/graphics-resources)
 [Basics of building 3D games on the Web ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2016/06/basics-of-building-3d-games-on-the-web/)
 [Basics of building 3D games on the Web ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2016/06/basics-of-building-3d-games-on-the-web/)
 
 [A brief introduction to WebGL - DEV Community](https://dev.to/santosharron/a-brief-introduction-to-webgl-20md)
 [WebGL Essentials - Tuts+ Code Tutorials](http://code.tutsplus.com/series/webgl-essentials--net-35335)
-[The Pixel Factory](http://acko.net/files/gltalks/pixelfactory/online.html) on computer graphic, 3D and WebGL
-[Making WebGL Dance — Acko.net](http://acko.net/tv/webglmath/)
+
 [WebGL Insights](http://webglinsights.com/) book
 
 [[NodeUp] 72 - A WebGL Show.](http://nodeup.com/seventytwo)
@@ -37,15 +48,16 @@ OpenGL 2 allows programmer to use shaders (GLSL) to control the pipeline. WebGL 
 [TojiCode: How Blink has affected WebGL?](http://blog.tojicode.com/2013/05/how-blink-has-affected-webgl.html)
 [TojiCode: How Blink has affected WebGL, Part 2](http://blog.tojicode.com/2014/02/how-blink-has-affected-webgl-part-2.html)
 
-[gpu.js - GPU Accelerated JavaScript](http://gpu.rocks/)
-[TensorFire](https://tenso.rs/) neural networks in the browser using WebGL
+[Making WebGL Dance — Acko.net](http://acko.net/tv/webglmath/)
 [3Dparallax/insight: A helpful Chrome extension for WebGL development](https://github.com/3Dparallax/insight/)
-
-[pmndrs/detect-gpu: Classifies GPUs based on their 3D rendering benchmark score allowing the developer to provide sensible default settings for graphically intensive applications.](https://github.com/pmndrs/detect-gpu)
 
 ## WebGPU
 
 Replacement of WebGL and Three.js
+
+[Introducing WebGPU: Unlocking modern GPU access for JavaScript - YouTube](https://www.youtube.com/watch?v=m6T-Mq1BPXg)
+[WebGPU: Unlocking modern GPU access in the browser - Chrome Developers](https://developer.chrome.com/blog/webgpu-io2023/)
+[Chrome ships WebGPU - Chrome Developers](https://developer.chrome.com/blog/webgpu-release/)
 
 ## Three.js
 

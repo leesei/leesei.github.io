@@ -13,14 +13,9 @@ tags:
 ---
 
 [Technology Connections - YouTube](https://www.youtube.com/@TechnologyConnections)
+[Video Tech Explained - YouTube](https://www.youtube.com/@VideoTechExplained)
 
 [History of Artificial Sound - YouTube](https://www.youtube.com/playlist?list=PLv0jwu7G_DFUYPuDoKWCUy33lL9LnMBGX)
-
-[Film: the reason some of the past was in HD - YouTube](https://www.youtube.com/watch?v=rVpABCxiDaU)
-[How Was Video Invented? - YouTube](https://www.youtube.com/watch?v=rjDX5ItsOnQ)
-
-[Digital Sound - YouTube](https://www.youtube.com/playlist?list=PLv0jwu7G_DFWBEyCKt4tKHIk8ez_pZS_P)
-[D/A and A/D | Digital Show and Tell (Monty Montgomery @ xiph.org) - YouTube](https://www.youtube.com/watch?v=cIQ9IXSUzuM)
 
 [Exploring the good ol' Cassette Tape - YouTube](https://www.youtube.com/watch?v=H5m6zs1UIVg)
 
@@ -52,7 +47,7 @@ R: Rhythm
 [Teleprompters are clever, simple, and also pretty neat - YouTube](https://www.youtube.com/watch?v=YeRu4xYH_W0)
 [QPrompt Telepprompter App](https://qprompt.app/)
 
-[Storyblocks - Royalty-Free Stock Images, Video & Audio for Every Story](https://www.storyblocks.com/)
+[Best free video editing software for content creators on Windows and Mac](https://www.capcut.com/tools/desktop-video-editor)
 
 [采访翻车？5 个简单小技巧，教你拍出有电影质感的采访画面！ - YouTube](https://www.youtube.com/watch?v=QOUellEeOxc)
 [采访教程 2.0：多机位拍摄上手，10 分钟掌握高端采访技巧！ - YouTube](https://www.youtube.com/watch?v=VZb4km7J8ZU)
@@ -67,6 +62,15 @@ R: Rhythm
 
 [AE 特效資源平台 | AEVFX](https://aevfx.cc/)
 [我花了三年時間，打造了 AE 界的維基百科！【六指淵 Huber】 - YouTube](https://www.youtube.com/watch?v=gfDW2k-nZ6Y)
+
+### Discord
+
+[Discord | Your Place to Talk and Hang Out](https://discord.com/)
+
+[Open Source Audio and The Weasel](https://twit.tv/shows/floss-weekly/episodes/660)
+[Record Discord with Craig](https://twit.tv/shows/floss-weekly/episodes/689)
+[Craig](https://craig.chat/) recording bot for Discord, provides better quality
+[Pricing — Ennuicastr](https://ecastr.com/pricing/) hosted version
 
 ### HDMI Capture
 
@@ -165,40 +169,37 @@ Kevin MacLeod
 
 > TODO: review and remove low quality ones
 
-[SVG Repo - Free SVG Vectors and Icons](https://www.svgrepo.com/) edit vector
-[Free Vectors, Stock Photos & PSD Downloads | Freepik](https://www.freepik.com/)
-[Free Vector Art & Graphics](https://www.freevector.com/)
 [1 million+ Stunning Free Images to Use Anywhere - Pixabay](https://pixabay.com/)
 [Beautiful Free Images & Pictures | Unsplash](https://unsplash.com/)
 [Free stock photos · Pexels](https://www.pexels.com/)
+[20000+ Free Stock Photos and Images for Websites & Commercial Use](https://burst.shopify.com/)
+[Storyblocks - Royalty-Free Stock Images, Video & Audio for Every Story](https://www.storyblocks.com/)
+[FreePhotos.cc - Download Free Stock Photos, Royalty-Free Images](https://freephotos.cc/en)
 [Gratisography - Free High-Resolution Photos](https://gratisography.com/)
-[免费素材图片 · Pexels](https://www.pexels.com/zh-cn/)
+[Barnimages: Free stock images](https://barnimages.com/)
 [搜图神器-一键搜索聚合，海量图片资源免费下载！](http://soutushenqi.com/)
 [以图搜图、以图搜视频所需插件和平台！ – 零度解说](https://www.freedidi.com/4430.html)
-[Free Vector Art, Images, & Graphics for Free Download](https://www.vector4free.com/) downvote
 
-[Peeps Avatar Builder by UI8.net](https://peeps.ui8.net/)
-
-[Free SVG images, SVG cut files and transparent PNG with CC0 public domain license](https://freesvg.org/) with contents of [Open Clipart](https://openclipart.org/) invalid cert
+[SVG Repo - Free SVG Vectors and Icons](https://www.svgrepo.com/) edit vector
+[Free Vectors, Stock Photos & PSD Downloads | Freepik](https://www.freepik.com/)
+[Free Vector Art & Graphics](https://www.freevector.com/)
+[Download Free Vectors, Images, Stock Photos & Stock Videos](https://www.vecteezy.com/)
+[Free SVG images, SVG cut files and transparent PNG with CC0 public domain license](https://freesvg.org/) with contents of [Open Clipart](https://openclipart.org/)
 [ClipartMax - PNG Clipart Free Download, Largest Transparent Clip Art Images Collection](https://www.clipartmax.com/)
 [Royalty-free vector clip art, svg files and graphics | Public domain vectors](https://publicdomainvectors.org/)
 [Free Openclipart, Download Free Clip Art, Free Clip Art on Clipart Library](http://clipart-library.com/openclipart.html)
+[Free Clip Art & Images - Millions of Royalty Free Images | Clker](http://www.clker.com/)
+[Free Transparent PNG Images, Unlimited Download - PNGkey](https://www.pngkey.com/)
+[illlustrations - open source illustrations kit](https://illlustrations.co/)
+[Free Vector Art, Images, & Graphics for Free Download](https://www.vector4free.com/) 👎
+
 [Icon Archive](http://www.iconarchive.com/)
 [Iconfinder - 850,000+ free and premium icons](https://www.iconfinder.com/)
 [iconfont-阿里巴巴矢量图标库](https://www.iconfont.cn/)
 [Open Security Architecture Icon Library](http://www.opensecurityarchitecture.org/cms/library/icon-library)
 [Noun Project](https://thenounproject.com/accounts/pricing/)
-[abesto/yed-aws-palettes](https://github.com/abesto/yed-aws-palettes)
 [SVG Icons - Ready to use SVG Icons for the web.](http://svgicons.sparkk.fr/)
 [logomono project](http://logomono.com/)
-[Vector Playing Cards download | SourceForge.net](https://sourceforge.net/projects/vector-cards/)
-[Free Clip Art & Images - Millions of Royalty Free Images | Clker](http://www.clker.com/)
-[Free Transparent PNG Images, Unlimited Download - PNGkey](https://www.pngkey.com/)
-[illlustrations - open source illustrations kit](https://illlustrations.co/)
-[Free Userpics Pack](https://userpics.craftwork.design/) user profile pics
-
-[Transparent Textures](https://www.transparenttextures.com/)
-[Magic Eraser - Remove unwanted things from images in seconds](https://www.magiceraser.io/)
 
 [給國中生百萬個特效素材，結果作品好驚人！【六指淵 Huber】 - YouTube](https://www.youtube.com/watch?v=UhucabkZV28)
 [Why Clip Art Was Everywhere... Until It Wasn't - YouTube](https://www.youtube.com/watch?v=XfLlpxE6AYM)
@@ -210,7 +211,17 @@ Kevin MacLeod
 [notpeter/Vector-Playing-Cards: Deck of SVG vector playing card images and Python script to create custom sized PNGs](https://github.com/notpeter/Vector-Playing-Cards) from [vector-playing-cards](https://code.google.com/archive/p/vector-playing-cards/)
 [Category:SVG playing cards - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:SVG_playing_cards)
 
-### YouTubber
+#### Tools
+
+[Free Userpics Pack](https://userpics.craftwork.design/) user profile pics
+[Peeps Avatar Builder by UI8.net](https://peeps.ui8.net/) face generator
+
+[Haikei](https://app.haikei.app/) SVG pattern generator
+
+[Transparent Textures](https://www.transparenttextures.com/)
+[Magic Eraser - Remove unwanted things from images in seconds](https://www.magiceraser.io/)
+
+### YouTuber
 
 [YouTube Creators - YouTube](https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ)
 [How to Add Chapters to Your Videos Using Timestamps - YouTube](https://www.youtube.com/watch?v=b1Fo_M_tj6w)
@@ -229,11 +240,11 @@ Kevin MacLeod
 [Lazy load embedded YouTube videos | CSS-Tricks](https://css-tricks.com/lazy-load-embedded-youtube-videos/)
 
 [Game Theory: The Viner Invasion of Jake Paul and Logan Paul! - YouTube](https://www.youtube.com/watch?v=UbMSOCpCcA8) Gen IV
-Those grew up watching Youtube are becoming Youtubber
+Those grew up watching Youtube are becoming YouTuber
 [Game Theory: The End of an Era - YouTube](https://www.youtube.com/watch?v=vlxghmlGNoI) Gen V
-Youtubbers are force make mild contents to maintain brand safefy (profitability)
+YouTuber are force make mild contents to maintain brand safety (profitability)
 Hub and Spoke Model of corporation
-Youtubbers and the Youtube Platform are becoming adults
+YouTuber and the Youtube Platform are becoming adults
 
 #### Spammers
 
@@ -320,6 +331,9 @@ Youtubbers and the Youtube Platform are becoming adults
 
 ## Digital Audio
 
+[Digital Sound - YouTube](https://www.youtube.com/playlist?list=PLv0jwu7G_DFWBEyCKt4tKHIk8ez_pZS_P)
+[D/A and A/D | Digital Show and Tell (Monty Montgomery @ xiph.org) - YouTube](https://www.youtube.com/watch?v=cIQ9IXSUzuM)
+
 [DolbyIO/awesome-audio: A curated list of awesome audio technology resources for developers](https://github.com/DolbyIO/awesome-audio)
 
 [Nyquist rate - Wikiwand](https://www.wikiwand.com/en/Nyquist%20Rate) a sampling frequency of 2F is needed to reproduce an waveform of frequency F
@@ -333,6 +347,15 @@ Youtubbers and the Youtube Platform are becoming adults
 [librosa documentation](https://librosa.org/doc/latest/index.html)
 [tyiannak/pyAudioAnalysis at hackernoon.com](https://github.com/tyiannak/pyAudioAnalysis)
 [Home · tyiannak/pyAudioAnalysis Wiki](https://github.com/tyiannak/pyAudioAnalysis/wiki)
+
+[Digital audio used to be stored on videotape — it was the only way we knew how - YouTube](https://www.youtube.com/watch?v=xSnrQBfBCzY)
+
+## Digital Imaging
+
+[The Crazy Computations Inside Your Smartphone Cameras - YouTube](https://www.youtube.com/watch?v=yY8OFp0-UZw&t=5s)
+[The Chips That See: Rise of the Image Sensor - YouTube](https://www.youtube.com/watch?v=4dX2IsZDBfg&t=2s)
+
+[Computerphile - Digital Imaging - Mike Pound - YouTube](https://www.youtube.com/playlist?list=PLboJFH3ATn0yC9uLuRLhaezUvtVPLtQvv)
 
 ## Audio Codecs
 
@@ -368,6 +391,9 @@ Youtubbers and the Youtube Platform are becoming adults
 [Understanding Digital Camera Sensors](https://www.cambridgeincolour.com/tutorials/camera-sensors.htm)
 [Cameras and Lenses – Bartosz Ciechanowski](https://ciechanow.ski/cameras-and-lenses/)
 
+[The Crazy Computations Inside Your Smartphone Cameras - YouTube](https://www.youtube.com/watch?v=yY8OFp0-UZw)
+[The Chips That See: Rise of the Image Sensor - YouTube](https://www.youtube.com/watch?v=4dX2IsZDBfg)
+
 [Why Does Every Camera Put Photos in a DCIM Folder?](https://www.howtogeek.com/204228/why-does-every-camera-put-photos-in-a-dcim-folder/)
 
 [How Have Smartphone Cameras Gotten So Good? - YouTube](https://www.youtube.com/watch?v=Gd9rovdMNNo)
@@ -386,6 +412,9 @@ How videos are encoded, recorded and broadcasted
 
 ## Videotape
 
+Videotape records standard definition video for analog TV.
+They are used in production on set. Film is used for recording on location.
+
 Early videotape don't have the bandwidth to store color television's encoding scheme (composite color), hence they have to come up with alternate schemes of encoding (color-under encoding) which reduced the quality
 
 Technology Connections
@@ -395,6 +424,14 @@ Technology Connections
 "Beta has better quality claim" is invalid as Beta II (~=VHS-LP mode) obsoletes Beta I in later part of the war
 Beta II has more or less the same quality as VHS-SP video
 Betacam is based on Betamax but records component video (separating Luminance and Color) on type hence have much better quality (near that of DVD), they are used in professional video production
+
+## Film Video
+
+[Film: the reason some of the past was in HD - YouTube](https://www.youtube.com/watch?v=rVpABCxiDaU)
+[How Was Video Invented? - YouTube](https://www.youtube.com/watch?v=rjDX5ItsOnQ)
+
+[Why Some Films Can Never Be Remastered - Video Tech Explained - YouTube](https://www.youtube.com/watch?v=x4XEomJZV6I)
+The quality of video in the transition from 35mm film to 4K master is inferior than both ends
 
 ## Film Photography
 

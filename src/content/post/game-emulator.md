@@ -2,10 +2,15 @@
 title: Game Emulator
 description: ""
 created: 2017-07-10
+updated: 2023-06-12
 tags:
   - emulator
   - games
 ---
+
+[[steam-deck#Emulation]]
+
+[Emulation - Computerphile - YouTube](https://www.youtube.com/watch?v=m6l3Elk7-Hg)
 
 [The Emulator Zone - Your Source for Emulation!](https://www.emulator-zone.com)
 [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page)
@@ -24,6 +29,70 @@ MEDNAFEN Multi systems, Good Saturn support
 
 [Final Fight LNS Ultimate](https://fflnsultimate.firebaseapp.com/home) 同人
 
+## Ethics
+
+[The ethics of emulation: how creators, the community, and the law view console emulators | PC Gamer](https://www.pcgamer.com/the-ethics-of-emulation-how-creators-the-community-and-the-law-view-console-emulators/)
+["It's Just Emulation!" - The Challenge of Selling Old Games - YouTube](https://www.youtube.com/watch?v=HLWY7fCXUwE)
+
+## Frontends
+
+[FREE Retro Gaming Front-End for PC Completely Pre-Configured! [REVIEW] - YouTube](https://www.youtube.com/watch?v=hzDx8XKX9s8)
+[CoinOPS Arcade Front End For PC - CoinOPs Next - Arcade Punks](https://www.arcadepunks.com/coinops-arcade-front-end-for-pc/)
+[RetroFE – Settle that old score!](http://retrofe.nl/)
+[EmuMovies Sync - EmuMovies Sync - EmuMovies](https://emumovies.com/files/file/321-emumovies-sync/) box arts, previews
+
+[小鸡模拟器 - 小鸡模拟器 PC 版|小鸡模拟器 iOS 版|小鸡模拟器官网\_小鸡模拟器](https://www.xiaoji001.com/)
+[小鸡模拟器官方下载 2022app-小鸡模拟器最新版 2022 下载 v1.7.29 安卓手机版-二维码-2265 手游网](http://www.2265.com/game/23530.html)
+[悟饭游戏厅 - 发现属于你的游戏！](https://www.5fun.com/)
+
+## LaunchBox
+
+[LaunchBox Frontend for Emulation, DOSBox, and Arcade Cabinets, Portable Games Launcher and Database](https://www.launchbox-app.com/) Multi systems
+
+## RetroArch
+
+[RetroArch](http://www.retroarch.com/) Multi systems
+[Libretro – A crossplatform application API, powering the crossplatform gaming platform RetroArch](https://www.libretro.com/)
+[stable - buildbot.libretro.com > stable](http://buildbot.libretro.com/stable/)
+
+[RetroArch Starter Guide (2022) - YouTube](https://www.youtube.com/watch?v=icGYGriNkF4)
+[RetroArch Starter Guide – Retro Game Corps](https://retrogamecorps.com/2022/02/28/retroarch-starter-guide/)
+
+[RetroArch on Steam](https://store.steampowered.com/app/1118310)
+[Steam Community :: Guide :: In-Depth 'DLC' Summary](https://steamcommunity.com/sharedfiles/filedetails/?id=2654167744)
+
+[RetroArch - Emulation General Wiki](https://emulation.gametechwiki.com/index.php/RetroArch)
+[libretro - Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Libretro)
+
+[How to Set Up RetroArch, The Ultimate All-In-One Retro Games Emulator](https://www.howtogeek.com/260274/how-to-set-up-retroarch-the-ultimate-all-in-one-retro-games-emulator/)
+[How to Set Up an All-In-One Retro Game Emulator with RetroArch](https://lifehacker.com/how-to-set-up-an-all-in-one-retro-game-emulator-with-re-1745863517)
+[Transform ANY PC into a Retro Gaming Console - YouTube](https://www.youtube.com/watch?v=u5c6KZLUWTM)
+
+[Better than reality: New emulation tech lags less than original consoles | Ars Technica](https://arstechnica.com/gaming/2018/04/better-than-reality-new-emulation-tech-lags-less-than-original-consoles/)
+
+[RetroArch Controller Configuration - RetroPie Docs](https://retropie.org.uk/docs/RetroArch-Configuration/) Key binding
+"Select" is "Hotkey" key during setup, recommned to use XBox "Home" key
+
+| Hotkeys               | Action                    | Code Example                              |
+| --------------------- | ------------------------- | ----------------------------------------- |
+| Select                | Hotkey                    | input_enable_hotkey_btn = "6"             |
+| Select+Start          | Exit                      | input_exit_emulator_btn = "7"             |
+| Select+Right Shoulder | Save                      | input_save_state_btn = "5"                |
+| Select+Left Shoulder  | Load                      | input_load_state_btn = "4"                |
+| Select+Right          | Input State Slot Increase | input_state_slot_increase_btn = "h0right" |
+| Select+Left           | Input State Slot Decrease | input_state_slot_decrease_btn = "h0left"  |
+| Select+X              | RGUI Menu                 | input_menu_toggle_btn = "3"               |
+| Select+B              | Reset                     | input_reset_btn = "0"                     |
+
+To reload games after coping ROMs to ROMs folder:
+MENU -> QUIT -> RESTART EMULATIONSTATION
+
+### Lakka
+
+[Lakka - The DIY open source retrogaming emulation console](https://www.lakka.tv/)
+Lakka is the official Linux distribution of RetroArch and the libretro ecosystem.
+Also available for RPi.
+
 ## ROMS
 
 [Demystifying MAME ROMS – ChoccyHobNob](https://web.archive.org/web/20161116054839/http://choccyhobnob.com/articles/demystifying-mame-roms/)
@@ -35,10 +104,9 @@ MEDNAFEN Multi systems, Good Saturn support
 [WinKawaks » Roms - The Official Website Of WinKawaks™ Team](https://www.winkawaks.org/roms/index.htm)
 
 [/r/Roms Megathread](https://r-roms.github.io/)
-
-Toy Story
-
-- PSP
+[Torrent Download All Pc Games Full Setup - Rob Gamers](https://robgamers.com/)
+[Gamers Maze - Free Torrent Download](https://gamersmaze.com/)
+[Emulator ROMs - Download Emulator ROMs Free](https://www.emulator-roms.com/)
 
 Capcom Beat 'Em Up Bundle:
 
@@ -69,10 +137,12 @@ Follow instruction [here](https://retropie.org.uk/docs/Validating%2C-Rebuilding%
 
 ## BizHawk
 
-> automate input
+> automates input, TAS (Tool-Assisted Speedruns)
 
-[TASVideos / Bizhawk](http://tasvideos.org/BizHawk.html)
-[TASVideos/BizHawk: BizHawk is a multi-system emulator written in C#. BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.](https://github.com/TASVideos/BizHawk)
+[Bizhawk - TASVideos](https://tasvideos.org/BizHawk)
+[TASEmulators/BizHawk: BizHawk is a multi-system emulator written in C#. BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.](https://github.com/TASEmulators/BizHawk)
+
+---
 
 ## MAME
 
@@ -86,69 +156,6 @@ Follow instruction [here](https://retropie.org.uk/docs/Validating%2C-Rebuilding%
 [WinKawaks - The Official Website Of WinKawaks™ Team](https://www.winkawaks.org/index.htm) Neogeo and CPS1/2
 
 There is also a ~1.4MB `neogeo.zip` (containing unibios and other ROMs) that works well.
-
-## Ethics
-
-[The ethics of emulation: how creators, the community, and the law view console emulators | PC Gamer](https://www.pcgamer.com/the-ethics-of-emulation-how-creators-the-community-and-the-law-view-console-emulators/)
-["It's Just Emulation!" - The Challenge of Selling Old Games - YouTube](https://www.youtube.com/watch?v=HLWY7fCXUwE)
-
-## LaunchBox
-
-[LaunchBox Frontend for Emulation, DOSBox, and Arcade Cabinets, Portable Games Launcher and Database](https://www.launchbox-app.com/) Multi systems
-
-## RetroArch
-
-[RetroArch](http://www.retroarch.com/) Multi systems
-[Libretro – A crossplatform application API, powering the crossplatform gaming platform RetroArch](https://www.libretro.com/)
-[stable - buildbot.libretro.com > stable](http://buildbot.libretro.com/stable/)
-
-[RetroArch Starter Guide (2022) - YouTube](https://www.youtube.com/watch?v=icGYGriNkF4)
-[RetroArch Starter Guide – Retro Game Corps](https://retrogamecorps.com/2022/02/28/retroarch-starter-guide/)
-
-[RetroArch on Steam](https://store.steampowered.com/app/1118310)
-[Steam Community :: Guide :: In-Depth 'DLC' Summary](https://steamcommunity.com/sharedfiles/filedetails/?id=2654167744)
-
-[RetroArch - Emulation General Wiki](https://emulation.gametechwiki.com/index.php/RetroArch)
-[libretro - Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Libretro)
-
-[How to Set Up RetroArch, The Ultimate All-In-One Retro Games Emulator](https://www.howtogeek.com/260274/how-to-set-up-retroarch-the-ultimate-all-in-one-retro-games-emulator/)
-[How to Set Up an All-In-One Retro Game Emulator with RetroArch](https://lifehacker.com/how-to-set-up-an-all-in-one-retro-game-emulator-with-re-1745863517)
-
-[Better than reality: New emulation tech lags less than original consoles | Ars Technica](https://arstechnica.com/gaming/2018/04/better-than-reality-new-emulation-tech-lags-less-than-original-consoles/)
-
-[RetroArch Controller Configuration - RetroPie Docs](https://retropie.org.uk/docs/RetroArch-Configuration/) Key binding
-"Select" is "Hotkey" key during setup, recommned to use XBox "Home" key
-
-| Hotkeys               | Action                    | Code Example                              |
-| --------------------- | ------------------------- | ----------------------------------------- |
-| Select                | Hotkey                    | input_enable_hotkey_btn = "6"             |
-| Select+Start          | Exit                      | input_exit_emulator_btn = "7"             |
-| Select+Right Shoulder | Save                      | input_save_state_btn = "5"                |
-| Select+Left Shoulder  | Load                      | input_load_state_btn = "4"                |
-| Select+Right          | Input State Slot Increase | input_state_slot_increase_btn = "h0right" |
-| Select+Left           | Input State Slot Decrease | input_state_slot_decrease_btn = "h0left"  |
-| Select+X              | RGUI Menu                 | input_menu_toggle_btn = "3"               |
-| Select+B              | Reset                     | input_reset_btn = "0"                     |
-
-To reload games after coping ROMs to ROMs folder:  
-MENU -> QUIT -> RESTART EMULATIONSTATION
-
-### Lakka
-
-[Lakka - The DIY open source retrogaming emulation console](https://www.lakka.tv/)
-Lakka is the official Linux distribution of RetroArch and the libretro ecosystem.
-Also available for RPi.
-
-## Frontends
-
-[FREE Retro Gaming Front-End for PC Completely Pre-Configured! [REVIEW] - YouTube](https://www.youtube.com/watch?v=hzDx8XKX9s8)
-[CoinOPS Arcade Front End For PC - CoinOPs Next - Arcade Punks](https://www.arcadepunks.com/coinops-arcade-front-end-for-pc/)
-[RetroFE – Settle that old score!](http://retrofe.nl/)
-[EmuMovies Sync - EmuMovies Sync - EmuMovies](https://emumovies.com/files/file/321-emumovies-sync/) box arts, previews
-
-[小鸡模拟器 - 小鸡模拟器 PC 版|小鸡模拟器 iOS 版|小鸡模拟器官网\_小鸡模拟器](https://www.xiaoji001.com/)
-[小鸡模拟器官方下载 2022app-小鸡模拟器最新版 2022 下载 v1.7.29 安卓手机版-二维码-2265 手游网](http://www.2265.com/game/23530.html)
-[悟饭游戏厅 - 发现属于你的游戏！](https://www.5fun.com/)
 
 ## SNES
 
@@ -165,183 +172,44 @@ Also available for RPi.
 [Accuracy takes power: one man’s 3GHz quest to build a perfect SNES emulator | Ars Technica](https://arstechnica.com/gaming/2011/08/accuracy-takes-power-one-mans-3ghz-quest-to-build-a-perfect-snes-emulator/)
 [byuu's homepage](http://web.archive.org/web/20121124040551/http://byuu.org/bsnes/accuracy)
 
+## PS1
+
+[DuckStation: Fast PS1 Emulator](https://www.duckstation.org/)
+PSXP feature to straighten jagged lines
+
+[DUCKSTATION PS Emulator full setup guide 2023 - YouTube](https://www.youtube.com/watch?v=U7iirkW9ul8)
+
 ## PS2
 
 [PlayStation 2 emulators - Emulation General Wiki](https://emulation.gametechwiki.com/index.php/PlayStation_2_emulators)
 
 [PCSX2 - An Open-Source PS2 Emulator](https://pcsx2.net/)
+[PCSX2 FULL SETUP GUIDE - YouTube](https://www.youtube.com/watch?v=mSSE3mHzlTI)
+
 [AetherSX2](https://www.aethersx2.com/) ARM
+
+### Games
 
 Ape Escape 2
 
-## PS3
+## PS4
 
-[PlayStation 3 emulators - Emulation General Wiki](https://emulation.gametechwiki.com/index.php/PlayStation_3_emulators)
-[PS3 Emulator - RPCS3 Complete Guide! - YouTube](https://www.youtube.com/watch?v=C0wEW8SoUCw)
-[RPCS3 | Full Setup Guide | PS3 Emulator - YouTube](https://www.youtube.com/watch?v=EHB6L-_p6Tg)
-[The latest version of RPCS3 allows you to unlock the framerate of Playstation 3 games - DSOGaming](https://www.dsogaming.com/news/the-latest-version-of-rpcs3-allows-you-to-unlock-the-framerate-of-playstation-3-games/)
+As of 2023-06, PS4 emulator is not available.
 
-## NDS
-
-DQ4
-DQ5
-DQ6
-Ghost Trick: Phantom Detective
-
-## Wii U
-
-[Wii U emulators - Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Wii_U_emulators)
-
-[Cemu Emulator](http://cemu.info/)
-[Cemu hook - a plugin for the Wii U emulator](https://sshnuke.net/cemuhook/)
-
-[The Ultimate Cemu Setup Guide | Installing Cemu, Adding Games, DLC, and more! | 1.8.1+ - YouTube](https://www.youtube.com/watch?v=H4rTh9XNcWA) !important
-[Wii-U Emulator Setup and how to get it running to the MAX! - YouTube](https://www.youtube.com/watch?v=KYfxv9dMk-I)
-
-[Cemu 1.15.2 | The Complete Setup Guide for Perfect Performance - YouTube](https://www.youtube.com/watch?v=y0TuZ7XHJeM)
-[Cemu 1.11.0 | Full Setup Guide | Maximum Performance - YouTube](https://www.youtube.com/watch?v=5gRu8GuVjXI) !important
-[Cemu 1.9.0 | Motion Control Setup Guide - YouTube](https://www.youtube.com/watch?v=2hMF245bXww)
-
-[Complete Shader Cache Collection 1.8.0 v2 - Google Sheets](https://docs.google.com/spreadsheets/d/1S05wt1T4AkZu3qrtU2iE76unfB4Xb5Y8CHnz2f3PoYA/edit#gid=0)  
-[Complete Shader Cache Collection : CEMUcaches](https://www.reddit.com/r/CEMUcaches/comments/622702/complete_shader_cache_collection/?st=j5oyaai0&sh=c911de11)  
-Place Shader Cache in `shaderCache/transferable`.  
-Enable logging to see the 16 character title id and `saveDir`, `shaderCache` name for a specific game.
-
-```sh
-cemu.exe -g "path to rpx" -f
-```
-
-[decaf-emu/decaf-emu: Researching Wii U emulation.](https://github.com/decaf-emu/decaf-emu)
-
-### Graphic pack
-
-[Tutorial:Graphic pack - CEMU Wiki](http://compat.cemu.info/wiki/Tutorial:Graphic_pack)
-[Cemu Graphic Packs](https://slashiee.github.io/cemu_graphic_packs/)
-[cemu_graphic_packs - AppVeyor](https://ci.appveyor.com/project/slashiee/cemu-graphic-packs/build/artifacts)
-
-Zelda BotW Graphic Packs:
-
-- 1440p
-- High Resolution Shadow
-- Clarity GFX
-- FPS++
-- LWZX Crash Workaround
-- NVIDIA Explosion Smoke
-- ReflExtra
-- Options -> GX2SetGPUFence skip
-
-### Games
-
-[Wii U Games | Nintendo](http://www.nintendo.com/games/game-guide/?pv=true#filter/wii_u|now|-|-|-|-|-|-|-|-|-|-|-|-|featured|des|-)
-[Cemu Compatibility List](http://compat.cemu.info/)
-
-[Wii U ISOs for download | Portal Roms](http://www.portalroms.com/en/isos/wii-u)
-
-[Cemu 1.11.0 | How to Download and Update Games - YouTube](https://www.youtube.com/watch?v=cl3_mdDqsg0)
-[Wii U USB Helper](https://www.wiiuusbhelper.com/)
-[Releases · Tsume/Maple-Tree](https://github.com/Tsume/Maple-Tree/releases)
-
-[Donkey Kong Country: Tropical Freeze - Wii U ISO Download | EmuRoms.ch](http://www.emuroms.ch/en/wii-u/donkey-kong-country-tropical-freeze-iso-download-torrent)
-[Mario & Luigi: Partners in Time - Wii U ISO Download | EmuRoms.ch](http://www.emuroms.ch/en/wii-u/mario-luigi-partners-time-iso-download-torrent)
-[Mario Party 10 - Wii U ISO Download | EmuRoms.ch](http://www.emuroms.ch/en/wii-u/mario-party-10-iso-download-torrent)
-[Mario vs. Donkey Kong: Tipping Stars - Wii U ISO Download | EmuRoms.ch](http://www.emuroms.ch/en/wii-u/mario-vs-donkey-kong-tipping-stars-iso-download-torrent)
-[Minecraft: Super Mario Edition - Wii U ISO Download | EmuRoms.ch](http://www.emuroms.ch/en/wii-u/minecraft-super-mario-edition-iso-download-torrent)
-[New Super Mario Bros. U - Wii U ISO Download | EmuRoms.ch](http://www.emuroms.ch/en/wii-u/new-super-mario-bros-u-iso-download-torrent)
-[One Piece: Unlimited World Red - Wii U ISO Download | EmuRoms.ch](http://www.emuroms.ch/en/wii-u/one-piece-unlimited-world-red-iso-download-torrent)
-[Paper Mario - Wii U ISO Download | EmuRoms.ch](http://www.emuroms.ch/en/wii-u/paper-mario-iso-download-torrent)
-[Paper Mario: Color Splash - Wii U ISO Download | EmuRoms.ch](http://www.emuroms.ch/en/wii-u/paper-mario-color-splash-iso-download-torrent)
-[Pikmin 3 - Wii U ISO Download | EmuRoms.ch](http://www.emuroms.ch/en/wii-u/pikmin-3-iso-download-torrent)
-[Super Mario 3D World - Wii U ISO Download | EmuRoms.ch](http://www.emuroms.ch/en/wii-u/super-mario-3d-world-iso-download-torrent)
-[Super Smash Bros. for Wii U - Wii U ISO Download | EmuRoms.ch](http://www.emuroms.ch/en/wii-u/super-smash-bros-wii-u-iso-download-torrent)
-[The Legend of Zelda: Majora's Mask - Wii U ISO Download | EmuRoms.ch](http://www.emuroms.ch/en/wii-u/legend-zelda-majoras-mask-iso-download-torrent) [HD texture](https://forums.dolphin-emu.org/Thread-zelda-64-uhd-v5-1-2021-02-10)
-[The Legend of Zelda: Ocarina of Time - Wii U ISO Download | EmuRoms.ch](http://www.emuroms.ch/en/wii-u/legend-zelda-ocarina-time-iso-download-torrent)
-[The Legend of Zelda: The Wind Waker HD - Wii U ISO Download | EmuRoms.ch](http://www.emuroms.ch/en/wii-u/legend-zelda-wind-waker-hd-iso-download-torrent)
-[The Legend of Zelda: Twilight Princess HD - Wii U ISO Download | EmuRoms.ch](http://www.emuroms.ch/en/wii-u/legend-zelda-twilight-princess-hd-iso-download-torrent)
-[The Wonderful 101 - Wii U ISO Download | EmuRoms.ch](http://www.emuroms.ch/en/wii-u/wonderful-101-iso-download-torrent)
-[Xenoblade Chronicles X - Wii U ISO Download | EmuRoms.ch](http://www.emuroms.ch/en/wii-u/xenoblade-chronicles-x-iso-download-torrent)
-[Yoshi's Woolly World - Wii U ISO Download | EmuRoms.ch](http://www.emuroms.ch/en/wii-u/yoshis-woolly-world-iso-download-torrent)
-
-[Mario Kart 8 - Wii U ISO Download | EmuRoms.ch](http://www.emuroms.ch/en/wii-u/mario-kart-8-iso-download-torrent)
-[Mario Tennis: Ultra Smash - Wii U ISO Download | EmuRoms.ch](http://www.emuroms.ch/en/wii-u/mario-tennis-ultra-smash-iso-download-torrent)
-[Captain Toad: Treasure Tracker - Wii U ISO Download | EmuRoms.ch](http://www.emuroms.ch/en/wii-u/captain-toad-treasure-tracker-iso-download-torrent)
-
-[List of Mario role-playing games - Wikiwand](https://www.wikiwand.com/en/List_of_Mario_role-playing_games#)
-
-## Switch
-
-[Nintendo Switch Emulation: How to run Ryujinx on Steam Deck](https://overkill.wtf/ryujinx-steam-deck/)
-
-[yuzu - Nintendo Switch Emulator](https://yuzu-emu.org/)
-[Quickstart Guide - yuzu](https://yuzu-emu.org/help/quickstart/)
-[yuzu-emu/yuzu: Nintendo Switch Emulator](https://github.com/yuzu-emu/yuzu)
-[Nintendo Switch Emulation on Steam Deck: How to run Yuzu](https://overkill.wtf/how-to-setup-yuzu-for-steam-deck/)
-
-[Ryujinx - Nintendo Switch Emulator](https://ryujinx.org/)
-[Ryujinx/Ryujinx: Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
-
-[Egg NS Emulator – Nintendo Switch emulator for Android](https://eggns.wordpress.com/)
-[Egg NS Emulator on Twitter: "You guys may don't understand the game setting on the emulator. This time I'll explain each button in detail🧐 Come and optimize the settings for your favorite game.👇🔥 https://t.co/Vfp08uHuoX" / Twitter](https://twitter.com/emulatorns/status/1441417145540177920?lang=en)
-
-[Skyline - Nintendo Switch Emulator](https://skyline-emu.one/) discontinued
-[skyline-emu/skyline: Run Nintendo Switch homebrew & games on your Android device!](https://github.com/skyline-emu/skyline)
-
-[Dumping Decryption Keys from a Switch Console - yuzu](https://yuzu-emu.org/wiki/dumping-decryption-keys-from-a-switch-console/)
-[Dumping Title Keys - NH Switch Guide](https://nh-server.github.io/switch-guide/extras/dumping_title_keys/)
+Uncharted: The Nathan Drake Collection (1-3)
 
 ## N64
 
-Zelda: Ocarina of Time
-Zelda: Majora's Mask
-
-## GameCube/Wii
-
-[GameCube emulators - Emulation General Wiki](https://emulation.gametechwiki.com/index.php/GameCube_emulators)
-[Wii emulators - Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Wii_emulators)
-
-[Dolphin Emulator - GameCube/Wii games on PC](https://dolphin-emu.org/) open sourced in 2008, BIG performance improvements in 5.0
-[[UNOFFICIAL] Ishiiruka-Dolphin Custom Version](https://forums.dolphin-emu.org/Thread-unofficial-ishiiruka-dolphin-custom-version)
-
-[Dolphin Emulator - Performance Guide](https://dolphin-emu.org/docs/guides/performance-guide/)
-
-Touch `Portable` to save configs in `User/` under current folder.
-Custom Texture packs
-
-Requirements:
-
-- [Visual C++ Redistributable for Visual Studio 2015](https://www.microsoft.com/en-us/download/details.aspx?id=48145)
-- [Microsoft Visual C++ Redistributable 2015 | 2013 | 2012 | 2010 | 2008 | 2005 32-bit (x86) 64-bit (x64) Standalone Offline Installer for Windows ~ Standalone Offline Installers](http://www.standaloneofflineinstallers.com/2015/12/Microsoft-Visual-C-Redistributable-2015-2013-2012-2010-2008-2005-32-bit-x86-64-bit-x64-Standalone-Offline-Installer-for-Windows.html)
-- D3D 11/12
-
-[DOLPHIN Emulator: Complete Setup Guide! (Wii & GameCube) - YouTube](https://www.youtube.com/watch?v=aHZk7BKxSBs)
-[DOLPHIN Emulator Guide PART 2: ISHIIRUKA - YouTube](https://www.youtube.com/watch?v=V0cKR6iFaQY)
-
 ### Games
 
-[GameCube ISOs for download | Portal Roms](http://www.portalroms.com/en/isos/gamecube)
-
-[Nintendo GameCube - Dolphin Emulator Wiki](https://wiki.dolphin-emu.org/index.php?title=Nintendo_GameCube)
-[Luigu's Mansion](https://wiki.dolphin-emu.org/index.php?title=Luigi%27s_Mansion)
-[Paper Mario: The Thousand-Year Door](https://wiki.dolphin-emu.org/index.php?title=Paper_Mario:_The_Thousand-Year_Door) ([HD texture](https://forums.dolphin-emu.org/Thread-paper-mario-ttyd-hd-texture-pack-v1-1-june-30-2017))
-[Pikmin](https://wiki.dolphin-emu.org/index.php?title=Pikmin_(GC%29)
-[Pikmin 2](https://wiki.dolphin-emu.org/index.php?title=Pikmin_2_(GC%29)
-Star Wars Rogue Squadron II: Rogue Leader
-Star Wars Rogue Squadron III: Rebel Strike
-Super Mario Striker
-Super Mario Galaxy
-Super Mario Galaxy 2
-[Super Mario Sunshine](https://wiki.dolphin-emu.org/index.php?title=Super_Mario_Sunshine)
-[The Legend of Zelda: Skyward Sword - Wii ISO Download | EmuRoms.ch](http://www.emuroms.ch/en/wii/legend-zelda-skyward-sword-iso-download-torrent) (HD texture)
-[Xenoblade Chronicles - Wii ISO Download | EmuRoms.ch](http://www.emuroms.ch/en/wii/xenoblade-chronicles-iso-download-torrent) (HD texture)
-[The Legend of Zelda: Ocarina of Time / Master Quest - GameCube ISO Download | EmuRoms.ch](http://www.emuroms.ch/gamecube/legend-zelda-ocarina-time-master-quest-iso-download-torrent)
-[Kirby's Epic Yarn - Wii ISO Download | EmuRoms.ch](http://www.emuroms.ch/en/wii/kirbys-epic-yarn-iso-download-torrent)
-
-[Wii - Dolphin Emulator Wiki](https://wiki.dolphin-emu.org/index.php?title=Wii)
-<http://www.emuparadise.me/Nintendo_Wii_ISOs/68>
+Zelda: Ocarina of Time
+Zelda: Majora's Mask
 
 ## Dreamcast
 
 [Virtual Dreamcast – The number 1 resource for Dreamcast emulation on the net –](http://virtualdreamcast.com/)
 
+[redream - Dreamcast Emulator](https://redream.io/) free version up to 900p
 [REDREAM - Dreamcast Emulator: Full Guide and Review - YouTube](https://www.youtube.com/watch?v=ufZaAucmftk)
 
 [DEMUL - Sega Dreamcast Emulator for Windows](http://demul.emulation64.com/)
@@ -358,28 +226,14 @@ Super Mario Galaxy 2
 [FCare/Kronos: Kronos is a Sega Saturn emulator.](https://github.com/FCare/Kronos/tree/extui-align) good yabause fork
 [Presentation | fcare.github.io](https://fcare.github.io/)
 
-## XBox 360
+## NDS
 
-[xenia-canary/xenia-canary: Xbox 360 Emulator Research Project](https://github.com/xenia-canary/xenia-canary)
-[FAQ · xenia-canary/xenia-canary Wiki · GitHub](https://github.com/xenia-canary/xenia-canary/wiki/FAQ)
-[xenia-canary/game-patches: Game patches for the Xenia emulator](https://github.com/xenia-canary/game-patches)
+[NDS ROMs FREE | Nintendo DS Games | ROMs Games](https://www.romsgames.net/roms/nintendo-ds/)
 
-[xenia - Xbox 360 Research Emulator](https://xenia.jp/)
-
-[GitHub - xenia-project/game-compatibility](https://github.com/xenia-project/game-compatibility)
-[GitHub - xenia-canary/game-compatibility](https://github.com/xenia-canary/game-compatibility)
-
-## 3DS
-
-[Homepage | Citra | Nintendo 3DS Emulator](https://citra-emu.org/)
-[In Depth Performance of 10 3DS Games on PC! - Citra May 2017 - YouTube](https://www.youtube.com/watch?v=HzB3mPVIAPY)
-
-[3DS Hacks Guide - 3DS Hacks Guide](https://3ds.hacks.guide/)
-boot9strap, luma3ds
-
-Zelda: Spirit Tracks
-[Mario and Donkey Kong: Minis on the Move - 3DS ROM Download | EmuRoms.ch](http://www.emuroms.ch/3ds/mario-and-donkey-kong-minis-move-rom-download-torrent)
-[Why I Love Radiant Historia - YouTube](https://www.youtube.com/watch?v=Ktev66tZn3Q)
+DQ4
+DQ5
+DQ6
+Ghost Trick: Phantom Detective
 
 ## PSP
 

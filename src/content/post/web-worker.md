@@ -74,3 +74,8 @@ Client side "thread" to offload UI thread. Cannot interact with DOM.
 [Introducing Partytown 🎉: Run Third-Party Scripts From a Web Worker - DEV Community](https://dev.to/adamdbradley/introducing-partytown-run-third-party-scripts-from-a-web-worker-2cnp)
 [How Partytown's Sync Communication Works - DEV Community](https://dev.to/adamdbradley/how-partytown-s-sync-communication-works-4244)
 [前端效能調校：使用 Partytown 將笨重的 JavaScript 放到 Web Workers 執行 | The Will Will Web](https://blog.miniasp.com/post/2023/01/27/Partytown-Run-Third-Party-Scripts-From-Web-Worker)
+
+## Worker Threads
+
+[Worker threads | Node.js Documentation](https://nodejs.org/api/worker_threads.html)
+[Node.js is a serious thing now… (2023) - YouTube](https://www.youtube.com/watch?v=_Im4_3Z1NxQ)

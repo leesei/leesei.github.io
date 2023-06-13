@@ -8,7 +8,7 @@ tags:
   - web-dev
 ---
 
-[Mithril.js](http://mithril.js.org/index.html)  
+[Mithril.js](http://mithril.js.org/index.html)
 built on hyperglue's idea and virtual-dom, includes XHR and route
 
 [delegation (asymmetrical bindings)](http://lhorie.github.io/mithril-blog/asymmetrical-data-bindings.html)

@@ -94,7 +94,7 @@ Extensions -> Templates -> Styles -> Options (also in Site Settings -> Templates
 Extensions -> Templates -> Styles -> Theme Options (depends on theme, theme built with Helix Ultimate has lots of options)
 Extensions -> Templates -> Templates, Edit theme files (usually not needed)
 
-Mathew Tamin  
+Mathew Tamin
 [Joomla Template Customization For Beginners - YouTube](https://www.youtube.com/playlist?list=PL43bbfiC0wjidEijzs1G_urglUT3OtA2f) [All-in-one](https://www.youtube.com/watch?v=UT6N79P_iyI)
 
 [Joomla Positions Step by Step Tutorial - Joomla-Monster](https://www.joomla-monster.com/documentation/joomla-basics/joomla-positions)

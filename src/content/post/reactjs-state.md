@@ -26,6 +26,7 @@ tags:
 [Top 6 React state management libraries for 2022](https://blog.openreplay.com/top-6-react-state-management-libraries-for-2022) 2022-01
 [Application State Management – kentcdodds](https://blog.kentcdodds.com/application-state-management-66de608ccb24) 2020-07
 [Changing children's state from another component with React Hooks](https://itnext.io/changing-children-state-from-another-component-with-react-hooks-5c982c042e8) `forwardRef()` and context
+[How to Manage State in a React App – With Hooks, Redux, and More](https://www.freecodecamp.org/news/how-to-manage-state-in-a-react-app/#howtousetheusestatehook)
 
 [4 options to prevent extra rerenders with React context · Daishi Kato's blog](https://blog.axlight.com/posts/4-options-to-prevent-extra-rerenders-with-react-context/)
 [Global state with React | Basefactor](https://www.basefactor.com/global-state-with-react)
@@ -90,7 +91,7 @@ But React Hooks and Redux are not mutually exclusive!!
 [Stop Asking if React Hooks Replace Redux - The Startup - Medium](https://medium.com/swlh/stop-asking-if-react-hooks-replace-redux-448c54d79551)
 [Redux-less context-based useSelector hook that has same performance as React-Redux](https://itnext.io/redux-less-context-based-useselector-hook-that-has-same-performance-as-react-redux-450b1853f744)
 [React Global State without Redux - RWieruch](https://www.robinwieruch.de/react-global-state-without-redux)
-[React State with Hooks: useReducer, useState, useContext - RWieruch](https://www.robinwieruch.de/react-state-usereducer-usestate-usecontext) !important
+[React State with Hooks: useReducer, useState, useContext - RWieruch](https://www.robinwieruch.de/react-state-usereducer-usestate-usecontext) ❗!important
 [Passing callbacks down with React Hooks - Trabe - Medium](https://medium.com/trabe/passing-callbacks-down-with-react-hooks-4723c4652aff) `useContext()`, with `useMemo()`, `useCallback()` to make the callback stable
 
 ```js

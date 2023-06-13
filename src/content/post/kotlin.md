@@ -223,7 +223,7 @@ Module is defined by built tool and can consist of multiple packages. `internal`
 [A Basic Kotlin/Native Application - Kotlin Programming Language](https://kotlinlang.org/docs/tutorials/native/basic-kotlin-native-app.html)
 
 [Why we need Kotlin Native – Android Things – Medium](https://medium.com/android-things/why-we-need-kotlin-native-adacc03e988c)
-improvements in 1.3, but not for prime time yet  
+improvements in 1.3, but not for prime time yet
 [Is Kotlin/Native production ready? Why we are not using it (yet) - QuickBird Studios Blog](https://quickbirdstudios.com/blog/is-kotlin-native-production-ready/)
 [Why is Kotlin Native much slower than JVM? - Native - Kotlin Discussions](https://discuss.kotlinlang.org/t/why-is-kotlin-native-much-slower-than-jvm/10226/2)
 [Debugging Kotlin Native’s Compiler – Kevin Galligan – Medium](https://medium.com/@kpgalligan/debugging-kotlin-natives-compiler-3cba9daec076)

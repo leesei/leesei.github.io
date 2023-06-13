@@ -14,6 +14,8 @@ tags:
 [[autohotkey]] Windows
 [[autoit]] Windows
 
+[go-vgo/robotgo: RobotGo, Go Native cross-platform GUI automation @vcaesar](https://github.com/go-vgo/robotgo)
+
 ## Microsoft Power Automate Desktop
 
 > Windows

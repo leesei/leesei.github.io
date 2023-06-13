@@ -13,3 +13,5 @@ tags:
 [Computer Ergonomics as Fast As Possible - YouTube](https://www.youtube.com/watch?v=bLBKUbnLYTs)
 
 [DON'T Buy A Monitor Arm Until You WATCH This! - YouTube](https://www.youtube.com/watch?v=zVED5xajvPM)
+
+[How the Computer Mouse Works - Computerphile - YouTube](https://www.youtube.com/watch?v=F8cpLd6KJWI)

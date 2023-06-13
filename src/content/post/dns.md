@@ -14,7 +14,7 @@ tags:
 [How to Flush DNS Cache in Microsoft Windows, Linux, and Mac OS](https://www.hostinger.com/tutorials/how-to-flush-dns)
 
 [What Happens When Your Domain Expires?](https://www.forbes.com/sites/forbesbusinesscouncil/2020/07/07/what-happens-when-your-domain-expires/)
-[What happens when a domain expires? | Hostinger Help Center](https://support.hostinger.com/en/articles/3004042-what-happens-when-a-domain-expires)
+[What happens when a domain expires? | Hostinger Help Center](https://support.hostinger.com/en/articles/3004042-what-happens-when-a-domain-expires) domain name lifecycle
 [The states of domain expiration and redemption – Hover Help Center](https://help.hover.com/hc/en-us/articles/217282387-The-states-of-domain-expiration-and-redemption)
 
 [RFC 1034 - Domain names - concepts and facilities](https://tools.ietf.org/html/rfc1034)
@@ -33,6 +33,9 @@ tags:
 [Anatomy of a Linux DNS Lookup – Part I – zwischenzugs](https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/)
 [Anatomy of a Linux DNS Lookup – Part II – zwischenzugs](https://zwischenzugs.com/2018/06/18/anatomy-of-a-linux-dns-lookup-part-ii/)
 [Hostinger DNS Zone Editor: A Complete Guide for 2021](https://www.hostinger.com/tutorials/how-to-use-hostinger-dns-zone-editor)
+
+[Get the DNS Migration Checklist: How to migrate DNS for production site](https://www.netlify.com/blog/2021/04/06/migrating-dns-for-a-production-site-we-made-you-a-site-migration-checklist/) for A Record
+[Minimal downtime for a live site DNS migration - Support / Support Guides - Netlify Support Forums](https://answers.netlify.com/t/support-guide-minimal-downtime-for-a-live-site-dns-migration/141)
 
 DNS resolution:
 Browser cache
@@ -60,12 +63,25 @@ Secondary Name Server (NS record) for second level domains and sub-domains
 [Domain name - Wikiwand](https://www.wikiwand.com/en/Domain_name)
 [New TLDs, five years in - Domain Name Wire | Domain Name News](https://domainnamewire.com/2019/02/28/new-tlds-five-years-in/)
 
+### Migration
+
+[DNS Migration: How To Migrate Your DNS Successfully In 6 Steps - RedSwitches](https://www.redswitches.com/blog/dns-migration/)
+
+- Update info and get EPP code in old hosting (preferably 60 days before)
+- Import old hosting's email to new hosting
+- Use new hosting's the nameserver in old hosting
+  can use new hosting's mail server at this moment
+- Trigger a Domain Transfer in new hosting
+
 ## DNS spoofing/cache poisoning
 
 [DNS spoofing - Wikiwand](https://www.wikiwand.com/en/DNS_spoofing)
+[DNS Cache Poisoning - Computerphile - YouTube](https://www.youtube.com/watch?v=7MT1F0O3_Yw)
 
 [An Illustrated Guide to the Kaminsky DNS Vulnerability](http://unixwiz.net/techtips/iguide-kaminsky-dns-vuln.html)
-[Security Benefits  |  Public DNS  |  Google Developers](https://developers.google.com/speed/public-dns/docs/security#cache_poisoning_attacks)
+[Security Benefits | Public DNS | Google Developers](https://developers.google.com/speed/public-dns/docs/security#cache_poisoning_attacks)
+
+[It's DNS again 😢 Did you know this Malware Hack? - YouTube](https://www.youtube.com/watch?v=slNe6z9gFv0) using DNS TXT record to distribute script
 
 ## CDN
 
@@ -272,6 +288,7 @@ Server Name Identification (SNI), a technology used by servers hosting multiple 
 [1.1.1.1 — the Internet’s Fastest, Privacy-First DNS Resolver](https://1.1.1.1/)
 [Announcing 1.1.1.1: the fastest, privacy-first consumer DNS service](https://blog.cloudflare.com/announcing-1111/)
 [CloudFlare DNS is simple, fast and flexible](https://blog.cloudflare.com/cloudflare-dns-is-simple-fast-and-flexible/)
+[Announcing experimental DDR in 1.1.1.1](https://blog.cloudflare.com/announcing-ddr-support/) Discovery of Designated Resolvers
 
 ```
 1.1.1.1

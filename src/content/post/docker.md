@@ -13,7 +13,7 @@ tags:
 Docker packs your apps and services in a portable container.
 
 [Docker Way](https://storify.com/eshamow/solomon-hykes-docker-way)
-The Docker Engines provides the [Docker Remote API](https://docs.docker.com/engine/api/) and interface with container execution backend, Docker's own tools and tools from 3rd can interacts with this API to provide higher level features on Docker containers.  
+The Docker Engines provides the [Docker Remote API](https://docs.docker.com/engine/api/) and interface with container execution backend, Docker's own tools and tools from 3rd can interacts with this API to provide higher level features on Docker containers.
 [dotScale 2013 - Solomon Hykes - Why we built Docker - YouTube](https://www.youtube.com/watch?v=3N3n9FzebAA)
 
 On the contrary, [boycott docker](http://www.boycottdocker.org/).
@@ -66,7 +66,7 @@ Docker overlay2 metacopy issue on Linux 4.19
 [The Complete Docker Collection [Tutorials] - DZone Cloud](https://dzone.com/articles/the-complete-docker-collection-tutorials)
 [Docker Explained – An Introductory Guide To Docker - DZone Cloud](https://dzone.com/articles/docker-explained-an-introductory-guide-to-docker)
 [Demystifying Containers 101: A Deep Dive Into Container Technology for Beginners](https://www.freecodecamp.org/news/demystifying-containers-101-a-deep-dive-into-container-technology-for-beginners-d7b60d8511c1)
-[5 part Docker series, beginner to master - DEV Community 👩‍💻👨‍💻](https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b) !important
+[5 part Docker series, beginner to master - DEV Community 👩‍💻👨‍💻](https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b) ❗!important
 [Docker Tutorial for Beginners - Hashnode](https://hashnode.com/post/docker-tutorial-for-beginners-cjrj2hg5001s2ufs1nker9he2)
 [Tutorials – Docker » Linux Magazine](http://www.linux-magazine.com/Issues/2018/215/Tutorials-Docker)
 [Getting Started with Docker | Scotch](https://scotch.io/tutorials/getting-started-with-docker)
@@ -125,13 +125,14 @@ Docker overlay2 metacopy issue on Linux 4.19
 [Play with Docker Classroom](https://training.play-with-docker.com/)
 [play-with-docker/training](https://github.com/play-with-docker/training)
 [play-with-docker/play-with-docker.github.io: Play with docker class-room repo](https://github.com/play-with-docker/play-with-docker.github.io)
+[Use of Docker Playground - GeeksforGeeks](https://www.geeksforgeeks.org/use-of-docker-playground/)
 
 [Play with Docker](https://labs.play-with-docker.com/)
 [play-with-docker/play-with-docker: You know it, you use it, now it's time to improve it. PWD!.](https://github.com/play-with-docker/play-with-docker)
 [docker/labs: This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.](https://github.com/docker/labs)
 [labs/dockercon-us-2017 at master · docker/labs](https://github.com/docker/labs/tree/master/dockercon-us-2017)
 
-[jpetazzo/orchestration-workshop](https://github.com/jpetazzo/orchestration-workshop) !important
+[jpetazzo/orchestration-workshop](https://github.com/jpetazzo/orchestration-workshop) ❗!important
 
 ## Videos
 
@@ -428,14 +429,14 @@ Docker started out using AUFS (a union file system) for storage, but AUFS didn't
 
 [Docker Persistent Volumes » ADMIN Magazine](http://www.admin-magazine.com/Articles/Persistent-volumes-for-Docker-containers)
 
-[REX-Ray](https://rexray.io/) [docs](http://rexray.readthedocs.io/en/stable/) inactive
+[REX-Ray](https://rexray.io/) [docs](http://rexray.readthedocs.io/en/stable/) 😴inactive
 [rexray/rexray: REX-Ray is a container storage orchestration engine enabling persistence for cloud native workloads](https://github.com/rexray/rexray)
 
 [rancher/convoy: A Docker volume plugin, managing persistent container volumes.](https://github.com/rancher/convoy) [DEPRECATED](https://forums.rancher.com/t/is-convoy-project-deprecated/8403)
 
-[ContainX/docker-volume-netshare: Docker NFS, AWS EFS, Ceph & Samba/CIFS Volume Plugin](https://github.com/ContainX/docker-volume-netshare) inactive
+[ContainX/docker-volume-netshare: Docker NFS, AWS EFS, Ceph & Samba/CIFS Volume Plugin](https://github.com/ContainX/docker-volume-netshare) 😴inactive
 
-[ClusterHQ/flocker: Container data volume manager for your Dockerized application](https://github.com/ClusterHQ/flocker) inactive
+[ClusterHQ/flocker: Container data volume manager for your Dockerized application](https://github.com/ClusterHQ/flocker) 😴inactive
 
 > ClusterHQ shut down in 2016-12
 
@@ -1138,7 +1139,7 @@ Default `ENTRYPOINT` is `/bin/sh -c`, you can override `ENTRYPOINT` with `--entr
 ### Executable Images
 
 [Executable Images - How to Dockerize Your Development Machine](http://www.infoq.com/articles/docker-executable-images)
-[Using Docker as a Personal Productivity Tool – Running Command Line Apps Bundled in Docker Containers | OUseful.Info, the blog...](https://blog.ouseful.info/2016/05/03/using-docker-as-a-personal-productvity-tool-running-command-line-apps/)  
+[Using Docker as a Personal Productivity Tool – Running Command Line Apps Bundled in Docker Containers | OUseful.Info, the blog...](https://blog.ouseful.info/2016/05/03/using-docker-as-a-personal-productvity-tool-running-command-line-apps/)
 [Distributing Command Line Tools with Docker](https://spin.atomicobject.com/2015/11/30/command-line-tools-docker/)
 
 If you wanted to add arguments to program (`CMD`), the `ENTRYPOINT` must be in JSON array notation.
@@ -1419,8 +1420,8 @@ This will merge the layers and make the image smaller.
 
 ### Container as System Service
 
-[Automatically start containers](https://docs.docker.com/engine/admin/host_integration/)  
-[Systemd vs. Docker [LWN.net]](https://lwn.net/Articles/676831/)  
+[Automatically start containers](https://docs.docker.com/engine/admin/host_integration/)
+[Systemd vs. Docker [LWN.net]](https://lwn.net/Articles/676831/)
 [OpenShift Origin - geard](http://openshift.github.io/geard/) `systemd` integration
 
 systemd service file:

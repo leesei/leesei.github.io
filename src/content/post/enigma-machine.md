@@ -27,11 +27,15 @@ Enigma machine is essentially a symmetric cryptography with the initial setup as
 [Cipher Machines](https://ciphermachines.com/enigma)
 [Enigma Museum – All Things Enigma](https://enigmamuseum.com/)
 [The Inner Workings of an Enigma Machine - YouTube](https://www.youtube.com/watch?v=mcX7iO_XCFA)
+
+Numberphile
 [158,962,555,217,826,360,000 (Enigma Machine) - Numberphile - YouTube](https://www.youtube.com/watch?annotation_id=annotation_777706&feature=iv&src_vid=V4V2bpZlqx8&v=G2_Q9FoD-oQ)
 [Flaw in the Enigma Code - Numberphile - YouTube](https://www.youtube.com/watch?v=V4V2bpZlqx8)
-Computerphile  
+
+Computerphile
 [Alan Turing and Enigma - YouTube](https://www.youtube.com/playlist?list=PLzH6n4zXuckodsatCTEuxaygCHizMS0_I)
 [Cracking Enigma in 2021 - Computerphile - YouTube](https://www.youtube.com/watch?v=RzWB5jL5RX0)
+
 [How did the Enigma Machine work? - YouTube](https://www.youtube.com/watch?v=ybkkiGtJmkM) hardware
 [【不止遊戲】二戰德軍號稱「謎」的密碼機，究竟是如何使用的？ - YouTube](https://www.youtube.com/watch?v=kE3Xb-XH8NU)
 

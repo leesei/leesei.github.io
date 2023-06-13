@@ -10,6 +10,7 @@ tags:
 ---
 
 [Company Man - YouTube](https://www.youtube.com/channel/UCQMyhrt92_8XM0KgZH6VnRg)
+[Company Profiles - YouTube](https://www.youtube.com/playlist?list=PLKtxx9TnH76Qod2z94xcDNV95_ItzIM-S) Asianometry
 
 [Office Snapshots - Discover Worldwide Office Design](https://officesnapshots.com/)
 
@@ -31,6 +32,11 @@ BATH Baidu, Alibaba, Tencent, Huawei
 
 [The Decline of IBM - YouTube](https://www.youtube.com/watch?v=l4b1D1vWRnc)
 [The Fall of General Electric - YouTube](https://www.youtube.com/watch?v=F5NumiX-yfI)
+[Why Fujifilm Survived (& Kodak Didn't) - YouTube](https://www.youtube.com/watch?v=AdDIy0c5ZGo)
+
+[Pluralistic: Tiktok’s enshittification (21 Jan 2023) – Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys) on Amazon, Facebook and Tiktok
+[Pluralistic: How monopoly enshittified Amazon/28 Nov 2022 – Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/2022/11/28/enshittification/#relentless-payola)
+"Here is how platforms die: first, they are good to their users; then they abuse their users to make things better for their business customers; finally, they abuse those business customers to claw back all the value for themselves. Then, they die."
 
 ## Funding
 
@@ -44,7 +50,7 @@ BATH Baidu, Alibaba, Tencent, Huawei
 [Alphabet Rounds](https://www.investopedia.com/terms/a/alphabet_rounds.asp)
 
 [Why Google Is Suddenly Obsessed With Your Photos - The Ringer](https://www.theringer.com/2017/5/25/16043842/google-photos-data-collection-e8578b3256e0)
-When a service is free, you are the product/asset.  
+When a service is free, you are the product/asset.
 [Find Out What Google and Facebook Know About You – Trust Issues – Medium](https://medium.com/s/trustissues/find-out-what-google-and-facebook-know-about-you-31d0fa6d7b61)
 [聊聊市场营销/广告的玩法 (原来你这么值钱!) - YouTube](https://www.youtube.com/watch?v=ERK34RQq9YU) targeted ads
 
@@ -72,6 +78,10 @@ When a service is free, you are the product/asset.
 [你以為麥當勞只靠賣漢堡、薯條就發大財？那你就太天真了...呵呵呵...｜麥當勞叔叔的黑暗計謀# 1/2 - YouTube](https://www.youtube.com/watch?v=MwPL4tifIjQ)
 [麥當勞「更深一層」的內幕！聽了上一集你就以為麥當勞是「靠土地賺錢的」就還是太傻太可愛了～｜麥當勞叔叔的黑暗詭計# 2/2 - YouTube](https://www.youtube.com/watch?v=J-elNBg7Ras)
 [吧啦吧吧吧，請買下我們頻道吧 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=UMWKE2u8sPw)
+
+## Lytro
+
+[Lytro: The $360 Million Company That Died - Krazy Ken’s Tech Talk - YouTube](https://www.youtube.com/watch?v=Zo4u578ZqrU)
 
 ## Product placement
 

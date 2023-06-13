@@ -69,7 +69,10 @@ tags:
 ## minze
 
 [JS framework for native web components | Minze](https://minze.dev/)
+[n6ai/minze: Dead-simple JS framework for native web components.](https://github.com/n6ai/minze)
+
 [Minze, a Minimalistic JS Library for Creating Web Components](https://www.infoq.com/news/2022/03/minze-web-components-library/)
+[Introduction to Minze - LogRocket Blog](https://blog.logrocket.com/introduction-minze/)
 
 ## ~~Polymer~~
 
@@ -92,7 +95,7 @@ tags:
 [LitElement](https://lit-element.polymer-project.org/) used by Polymer
 [Polymer/lit-element: A simple base class for creating fast, lightweight web components](https://github.com/Polymer/lit-element)
 
-[Getting Started with a New Lit Project in 2023 | Bits and Pieces](https://blog.bitsrc.io/getting-started-with-a-new-lit-project-in-2023-1835ed79a9e9)
+[Getting Started with a New Lit Project in 2023 | Bits and Pieces](https://blog.bitsrc.io/getting-started-with-a-new-lit-project-in-2023-1835ed79a9e9)
 
 ## Component repos
 

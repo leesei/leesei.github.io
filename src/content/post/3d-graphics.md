@@ -21,6 +21,7 @@ tags:
 [OpenSCAD - The Programmers Solid 3D CAD Modeller](http://www.openscad.org/)
 [Tinkercad | Create 3D digital designs with online CAD](https://www.tinkercad.com/#/)
 [FreeCAD: Your Own 3D Parametric Modeler](https://www.freecadweb.org/)
+[Sign up | Onshape Cloud Product Development Software](https://www.onshape.com/en/sign-up)
 
 [OpenJSCAD.org](https://openjscad.org/)
 [OpenJsCad](http://joostn.github.io/OpenJsCad/)
@@ -62,7 +63,7 @@ also other low poly tutorials
 [The Secrets of Photorealism - YouTube](https://www.youtube.com/watch?v=Z8AAX-ENWvQ)
 
 [Photorealism Series - YouTube](https://www.youtube.com/playlist?list=PLjEaoINr3zgFq73es7U21vOXk_wcn3eMg)
-[Photorealism Explained - YouTube](https://www.youtube.com/watch?v=R1-Ef54uTeU) !important
+[Photorealism Explained - YouTube](https://www.youtube.com/watch?v=R1-Ef54uTeU) ❗!important
 
 - modeling
 - materials (texture)
@@ -125,6 +126,9 @@ Gamers Nexus
 
 ## 3D Data
 
+[3D Models for Free - Free3D.com](https://free3d.com/)
+[Download Free 3D Models - Royalty Free - Sketchfab](https://sketchfab.com/features/free-3d-models)
+
 [PCL - Point Cloud Library (PCL)](http://www.pointclouds.org/)
 [PCL Notes · GitBook (Legacy)](https://legacy.gitbook.com/book/mnewbie/pcl-notes/details)
 
@@ -155,9 +159,10 @@ Gamers Nexus
 
 ### Visualization
 
-[VTK - The Visualization Toolkit](https://vtk.org/)
 [AliceVision | Photogrammetric Computer Vision Framework](https://alicevision.org/)
 [alicevision/meshroom: 3D Reconstruction Software](https://github.com/alicevision/meshroom)
+
+[VTK - The Visualization Toolkit](https://vtk.org/)
 
 [vtk+DearImGui integration through vtkGenericOpenGLRenderWindow - Development - VTK](https://discourse.vtk.org/t/vtk-dearimgui-integration-through-vtkgenericopenglrenderwindow/4424)
 [trlsmax/imgui-vtk: test on how to integrate vtk into glfw + imgui project](https://github.com/trlsmax/imgui-vtk)

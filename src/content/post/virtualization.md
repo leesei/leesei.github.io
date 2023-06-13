@@ -93,6 +93,8 @@ Xen only check handle three things: memory, CPU and interrupts
 [QEMU](https://www.qemu.org/)
 [wimpysworld/quickemu: Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.](https://github.com/wimpysworld/quickemu)
 
+[在 QEMU 中安装 Windows7 虚拟机](https://mp.weixin.qq.com/s/f2hj5XIpGvPtuFRwVWCtAg)
+
 [Emulating a Raspberry Pi with QEMU](https://gist.github.com/plembo/c4920016312f058209f5765cb9a3a25e)
 
 ## VirtualBox
@@ -102,7 +104,7 @@ Xen only check handle three things: memory, CPU and interrupts
 [Downloads – Oracle VM VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 [Oracle® VM VirtualBox®](https://www.virtualbox.org/manual/)
 
-[Chapter 8. VBoxManage](https://www.virtualbox.org/manual/ch08.html)
+[Chapter 8. VBoxManage](https://www.virtualbox.org/manual/ch08.html)
 [Use VBoxManage to Pass Through USB device to VirtualBox VM – FlamingKeys – Active Directory, Office 365, PowerShell](https://flamingkeys.com/use-vboxmanage-to-pass-through-usb-device-to-vm/)
 
 Also download the extension packs (PUEL, non-commercial only).
@@ -172,6 +174,8 @@ GPU Paravirtualization in Windows 11 Hyper V make it easier than PCIe bifurcatio
 [Proxmox vGPU Gaming Tutorial - Share Your GPU With Multiple VMs! - YouTube](https://www.youtube.com/watch?v=cPrOoeMxzu0)
 
 ### Hyper V
+
+[How to Create and Run Virtual Machines With Hyper-V](https://www.howtogeek.com/196158/how-to-create-and-run-virtual-machines-with-hyper-v/)
 
 [Nvidia tried so hard to stop this - GPU Sharing with Virtual Machines - YouTube](https://www.youtube.com/watch?v=Bc3LGVi5Sio)
 [jamesstringerparsec/Easy-GPU-PV: A Project dedicated to making GPU Partitioning on Windows easier!](https://github.com/jamesstringerparsec/Easy-GPU-PV)

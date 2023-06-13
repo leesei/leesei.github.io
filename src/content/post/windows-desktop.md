@@ -2,6 +2,7 @@
 title: Windows Desktop
 description: ""
 created: 2015-01-15
+updated: 2023-06-06
 tags:
   - app
   - desktop
@@ -210,7 +211,7 @@ However, Windows 10 upgrade version provides only generic product keys:
 
 _OEM license is not transferable._
 
-In **administrator** command prompt:  
+In **administrator** command prompt:
 Check license info: `slmgr.vbs /dlv`
 Remove product key: `slmgr.vbs /upk`
 Register product key: `slmgr.vbs /ipk <key>`
@@ -326,7 +327,7 @@ route print
 
 ## GNU tools
 
-The tools for windows is no match for GNU tools.  
+The tools for windows is no match for GNU tools.
 You can go all the way to install [Cygwin](https://www.cygwin.com/) or use
 [bmatzelle/gow](https://github.com/bmatzelle/gow)/ [Git for Windows](https://git-scm.com/download/win).
 
@@ -336,68 +337,51 @@ You can go all the way to install [Cygwin](https://www.cygwin.com/) or use
 
 ## WSL (Windows Subsystem for Linux)
 
-WSL is (initially) a Ubuntu userland running on a POSIX -> Windows emulation layer (sort of inverse of [WINE](https://www.winehq.org/)). It is debuted in Windows 10 Anniversary Update (aka 1607). Windows 10 update will ship a full Linux kernel (4.19) in WSL2 in 2019-06.
+WSL is (initially) a Ubuntu userland ("Bash for Windows") running on a POSIX -> Windows emulation layer (sort of inverse of [WINE](https://www.winehq.org/)). It is debuted in Windows 10 Anniversary Update (aka 1607) in 2017-03. Windows 10 update will ship a full Linux kernel (4.19) in WSL2 in 2019-06.
 
-> TODO: remove WSL1 articles
+> TODO: WSL2 GA in 2022-11
+> remove WSL1 articles
 
-[Windows Subsystem for Linux – The underlying technology enabling the Windows Subsystem for Linux](https://blogs.msdn.microsoft.com/wsl/)
-[Windows Command Line Tools For Developers](https://devblogs.microsoft.com/commandline/)
 [An overview on the the Windows Subsystem for Linux | Microsoft Docs](https://docs.microsoft.com/en-us/windows/wsl/)
 
-[Windows Subsystem for Linux: The Ultimate Guide](https://adamtheautomator.com/windows-subsystem-for-linux/) !important
+[Windows Command Line](https://devblogs.microsoft.com/commandline/)
+[Windows Subsystem for Linux – The underlying technology enabling the Windows Subsystem for Linux](https://blogs.msdn.microsoft.com/wsl/) old
 
-[The Windows Subsystem for Linux Guide!](http://wsl-guide.org/en/latest/index.html)
-[michaeltreat/Windows-Subsystem-For-Linux-Setup-Guide: An in-depth Guide for getting started with the Windows Subsystem for Linux!](https://github.com/michaeltreat/Windows-Subsystem-For-Linux-Setup-Guide)
-[How to Install and Use the Linux Bash Shell on Windows 10](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/)
+[Comparing WSL Versions | Microsoft Learn](https://learn.microsoft.com/en-us/windows/wsl/compare-versions)
+
 [sirredbeard/Awesome-WSL: Awesome list dedicated to Windows Subsystem for Linux](https://github.com/sirredbeard/Awesome-WSL)
 [A Windows Subsystem for Linux Subreddit](https://www.reddit.com/r/bashonubuntuonwindows/)
-
 [Sysinternals/SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux)
 
 [Microsoft/WSL: Issues found on WSL](https://github.com/Microsoft/WSL)
 [Windows 10 WSL - Phoronix](https://www.phoronix.com/scan.php?page=search&q=Windows+10+WSL)
-[Windows Subsystem For Linux Performance At The End Of 2019 - Phoronix](https://www.phoronix.com/scan.php?page=article&item=wsl-windows-eo2019&num=1)
 
 [What is WSL? — Whitewater Foundry](https://www.whitewaterfoundry.com/what-is-wsl)
-[Discover the power of Bash on Windows | InfoWorld](http://www.infoworld.com/article/3178631/microsoft-windows/discover-the-power-of-bash-on-windows.html) !important
 [Windows Subsystem for Linux » ADMIN Magazine](https://www.admin-magazine.com/Articles/WSL-puts-Linux-on-Windows-desktops)
-[How to get started with Microsoft's Windows Subsystem for Linux (WSL)](http://www.infoworld.com/article/3204592/linux/get-started-with-the-windows-subsystem-for-linux.html)
-[What to know before using Windows 10’s new Linux system | InfoWorld](http://www.infoworld.com/article/3053557/linux/what-to-know-before-using-windows-10s-new-linux-system.html)
-[18 things you should know about using Linux tools in Windows 10 | InfoWorld](http://www.infoworld.com/article/3195769/microsoft-windows/18-things-you-should-know-about-using-linux-tools-in-windows-10.html)
-[Bash on Windows: Only the beginning of the Microsoft-Linux experiment | InfoWorld](http://www.infoworld.com/article/3049715/microsoft-windows/bash-on-windows-is-just-the-beginning-for-microsofts-linux-experiments.html)
-[6 wacky hacks for Linux on Windows | InfoWorld](http://www.infoworld.com/article/3099032/microsoft-windows/6-wacky-hacks-for-linux-on-windows.html)
-[Fun with the Windows Subsystem for Linux | Building Apps for Windows](https://blogs.windows.com/buildingapps/2016/07/22/fun-with-the-windows-subsystem-for-linux/)
-[Running Linux desktop apps on the Windows Subsystem for Linux | Ctrl blog](https://www.ctrl.blog/entry/how-to-x-on-wsl.html) X on WSL
-[Using Visual Studio Code with Windows Subsystem for Linux - Shun's Vineyard](https://shunsvineyard.info/2019/01/27/using-visual-studio-code-with-windows-subsystem-for-linux/)
 
+[File System Improvements to the Windows Subsystem for Linux | Microsoft Learn](https://learn.microsoft.com/en-us/archive/blogs/wsl/file-system-improvements-to-the-windows-subsystem-for-linux)
 [What’s new for WSL in Windows 10 version 1903? | Windows Command Line Tools For Developers](https://devblogs.microsoft.com/commandline/whats-new-for-wsl-in-windows-10-version-1903/) 9P file server for Windows to access WSL file system (`\\wsl$\`)
 [Windows/WSL Interop with AF_UNIX | Windows Command Line Tools For Developers](https://devblogs.microsoft.com/commandline/windowswsl-interop-with-af_unix/)
 [Very slow performance - is this normal for WSL? : bashonubuntuonwindows](https://www.reddit.com/r/bashonubuntuonwindows/comments/a23nul/very_slow_performance_is_this_normal_for_wsl/) this IO issue is not yet fixed
 
-[The year of Linux on the (Windows) Desktop - WSL Tips and Tricks - Scott Hanselman](https://www.hanselman.com/blog/TheYearOfLinuxOnTheWindowsDesktopWSLTipsAndTricks.aspx)
 [When We Brought Linux to Windows - Microsoft Open Source Stories - Medium](https://medium.com/microsoft-open-source-stories/when-linux-came-to-windows-204cf9abb3d6)
 [How to Export and Import Your Linux Systems on Windows 10](https://www.howtogeek.com/426562/how-to-export-and-import-your-linux-systems-on-windows-10/amp/)
 [DirectX ❤ Linux | DirectX Developer Blog](https://devblogs.microsoft.com/directx/directx-heart-linux/)
 
 ### Installation
 
-[How to install WSL on Windows 10](https://www.computerhope.com/issues/ch001879.htm)
-[Install Windows Subsystem for Linux (WSL) on Windows 10 | Microsoft Docs](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
-[Install WSL 2 | Microsoft Docs](https://docs.microsoft.com/en-us/windows/wsl/wsl2-install)
+[Install WSL | Microsoft Learn](https://learn.microsoft.com/en-us/windows/wsl/install)
+[Solved "WslRegisterDistribution failed with error: 0x80370114" | CyberITHub](https://www.cyberithub.com/solved-wslregisterdistribution-failed-with-error-0x80370114/)
+[Set up a WSL development environment | Microsoft Learn](https://learn.microsoft.com/en-us/windows/wsl/setup/environment) best practices
+[Troubleshooting Windows Subsystem for Linux | Microsoft Learn](https://learn.microsoft.com/en-us/windows/wsl/troubleshooting)
 
 ```sh
-# in PowerShell as Administrator
-Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
-Enable-WindowsOptionalFeature -Online -FeatureName VirtualMachinePlatform
+dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 
-wsl --install # since build 2004
-
-wsl --set-version <Distro> 2
-wsl --set-default-version 2  # affects new distro
+wsl --install # since Windows 10 build 2004
 
 wsl --list # list distros
-
-wsl --export <Distro> <File>.tar
 ```
 
 ### Distros
@@ -444,6 +428,11 @@ wsl --export <Distro> <File>.tar
 [Hands on with WSLg: Running Linux GUI apps in Windows 10](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-wslg-running-linux-gui-apps-in-windows-10/)
 [Running Linux Apps In Windows Is Now A Reality](https://news.itsfoss.com/linux-gui-apps-wsl/)
 
+[Running Linux desktop apps on the Windows Subsystem for Linux | Ctrl blog](https://www.ctrl.blog/entry/how-to-x-on-wsl.html) X on WSL1, should work in WSL2 natively
+
+[X410 - X Server for Windows 10 and Beyond](https://x410.dev/)
+[Using X410 with WSL2 - X410.dev](https://x410.dev/cookbook/wsl/using-x410-with-wsl2/)
+
 ### Background service
 
 [Background Task Support in WSL | Windows Command Line](https://devblogs.microsoft.com/commandline/background-task-support-in-wsl/)
@@ -463,7 +452,7 @@ wsl --export <Distro> <File>.tar
 
 ### Tips and Tricks
 
-[Troubleshooting the Windows Subsystem for Linux | Microsoft Docs](https://docs.microsoft.com/en-us/windows/wsl/troubleshooting)
+[Troubleshooting Windows Subsystem for Linux | Microsoft Learn](https://learn.microsoft.com/en-us/windows/wsl/troubleshooting)
 [Windows 10 WSL2 Now Allows You to Configure Global Options](https://www.bleepingcomputer.com/news/microsoft/windows-10-wsl2-now-allows-you-to-configure-global-options/)
 
 [LongLiveCHIEF/wsl2-docker-for-win: Get docker setup on WSL2 now!](https://github.com/LongLiveCHIEF/wsl2-docker-for-win)
@@ -471,13 +460,6 @@ wsl --export <Distro> <File>.tar
 [Developing in the Windows Subsystem for Linux with Visual Studio Code](https://code.visualstudio.com/docs/remote/wsl)
 [Tips and Tricks for Linux development with WSL and Visual Studio Code | Windows Command Line Tools For Developers](https://devblogs.microsoft.com/commandline/tips-and-tricks-for-linux-development-with-wsl-and-visual-studio-code/)
 [Remote - WSL - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
-
-[Understanding WSL 2 uses a VHD, and what to do if you reach its max size | Microsoft Docs](https://docs.microsoft.com/en-us/windows/wsl/wsl2-ux-changes#understanding-wsl-2-uses-a-vhd-and-what-to-do-if-you-reach-its-max-size)
-
-[XMING + Bash on Ubuntu on Windows = X11 Window System Running from Windows 10 Subsystem for Linux | WinCoder Blog](http://pjdecarlo.com/2016/06/xming-bash-on-ubuntu-on-windows-x11-window-system-running-from-windows-10-subsystem-for-linux.html)
-
-[X410 - X Server for Windows 10 - Choung Networks](https://token2shell.com/x410/)
-[Using X410 with WSL2 - Choung Networks](https://token2shell.com/howto/x410/using-x410-with-wsl2/)
 
 ### Pengwin
 
@@ -535,7 +517,7 @@ Disable Windows Defender, Firewall and their warnings
 
 Files:
 
-```
+```reg
 HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\
 HKEY_CLASSES_ROOT\*\shell
 HKEY_CLASSES_ROOT\AllFileSystemObjects\ShellEx\ContextMenuHandlers
@@ -543,7 +525,7 @@ HKEY_CLASSES_ROOT\AllFileSystemObjects\ShellEx\ContextMenuHandlers
 
 Folders:
 
-```
+```reg
 HKEY_CLASSES_ROOT\Folder\shellex\ContextMenuHandlers\
 HKEY_CLASSES_ROOT\Directory\shell
 ```
@@ -606,8 +588,8 @@ All user: `C:\ProgramData\Microsoft\Windows\Start Menu\Programs`
 
 Create shortcut for Shutdown
 
-```
-%windir%\System32\shutdown.exe /s /t 0
+```powershell
+$env:windir\System32\shutdown.exe /s /t 0
 ```
 
 ### Taskbar
@@ -814,6 +796,7 @@ Kitware.CMake
 Microsoft.DotNet.SDK.7
 Microsoft.VisualStudioCode
 Microsoft.VisualStudio.2022.Community
+Python.Python.3.11
 RustDesk.RustDesk
 Starship.Starship
 WinMerge.WinMerge
@@ -947,7 +930,7 @@ cinst -y 7zip autohotkey.portable chocolatey dotnet FiraCode-ttf GoogleChrome me
 
 ## Windows Install Issue
 
-Windows 7 and 10 is notorious for "unable to create a new system partition".  
+Windows 7 and 10 is notorious for "unable to create a new system partition".
 This is reproduced on a standard config:
 
 - booted with USB

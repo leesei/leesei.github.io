@@ -21,29 +21,29 @@ See projects under [Cloud Native Computing Foundation](https://www.cncf.io/proje
 
 ## Comparison
 
-[Container Orchestration Wars (2017) - YouTube](https://www.youtube.com/watch?v=NRZ6N4e-Mko)  
-[Kubernetes vs Docker Swarm: A comparison of cloud container tools](https://www.cbronline.com/in-depth/kubernetes-vs-docker-container-tools) 2018-02  
-[Docker Swarm Management: A Quick Overview of Rancher, Portainer and Shipyard](https://www.servethehome.com/docker-swarm-management-a-quick-overview-of-rancher-portainer-and-shipyard/) 2017-02  
-[Kubernetes, Mesos, and Swarm: Comparing the Rancher Orchestration Engine Options | Rancher Labs](http://rancher.com/comparing-rancher-orchestration-engine-options/) 2016-10 !important  
-[Docker Orchestrations Compared: Kubernetes vs Amazon ECS vs Docker Cloud / Swarm / EE / Cloud (PART I)](https://sematext.com/blog/2017/04/24/docker-orchestration-poll-kubernetes-swarm-amazon-ecs/) 2017-04  
-[Choosing the Right Containerization and Cluster Management Tool](https://blog.kublr.com/choosing-the-right-containerization-and-cluster-management-tool-fdfcec5700df) 2017-02  
+[Container Orchestration Wars (2017) - YouTube](https://www.youtube.com/watch?v=NRZ6N4e-Mko)
+[Kubernetes vs Docker Swarm: A comparison of cloud container tools](https://www.cbronline.com/in-depth/kubernetes-vs-docker-container-tools) 2018-02
+[Docker Swarm Management: A Quick Overview of Rancher, Portainer and Shipyard](https://www.servethehome.com/docker-swarm-management-a-quick-overview-of-rancher-portainer-and-shipyard/) 2017-02
+[Kubernetes, Mesos, and Swarm: Comparing the Rancher Orchestration Engine Options | Rancher Labs](http://rancher.com/comparing-rancher-orchestration-engine-options/) 2016-10 !important
+[Docker Orchestrations Compared: Kubernetes vs Amazon ECS vs Docker Cloud / Swarm / EE / Cloud (PART I)](https://sematext.com/blog/2017/04/24/docker-orchestration-poll-kubernetes-swarm-amazon-ecs/) 2017-04
+[Choosing the Right Containerization and Cluster Management Tool](https://blog.kublr.com/choosing-the-right-containerization-and-cluster-management-tool-fdfcec5700df) 2017-02
 [Container Orchestration Wars - YouTube](https://www.youtube.com/watch?v=C_u4_l84ED8) 2016-07
 
-[Containers, Configuration Management, and The Right Tool for the Right Job | the agile admin](http://theagileadmin.com/2015/11/10/containers-configuration-management-and-the-right-tool-for-the-right-job/) 2015-11  
-[Docker and the Future of Configuration Management – Coming In November! | the agile admin](http://theagileadmin.com/2015/10/29/docker-and-the-future-of-configuration-management-coming-in-november/) 2015-10  
-[Swarm v. Fleet v. Kubernetes v. Mesos - O'Reilly Media](https://www.oreilly.com/ideas/swarm-v-fleet-v-kubernetes-v-mesos) 2015-10  
-[Docker Clustering Tools Compared: Kubernetes vs Docker Swarm | Technology Conversations](http://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/) 2015-11  
-[cluster computing - Docker-Swarm, Kubernetes, Mesos & Core-OS Fleet - Stack Overflow](http://stackoverflow.com/questions/27640633/docker-swarm-kubernetes-mesos-core-os-fleet)  
-[5 Next-Gen Cloud Technologies You Should Know | Linux.com | The source for Linux information](https://www.linux.com/news/5-next-gen-cloud-technologies-you-should-know)  
-[8 Container Orchestration Tools to Know | Linux.com | The source for Linux information](https://www.linux.com/news/8-open-source-container-orchestration-tools-know)  
-[Docker Swarm 与 Apache Mesos 的区别](http://www.infoq.com/cn/articles/difference-between-swarm-docker-and-mesos-apache)  
-[Mesos, Kubernetes, and Infrastructure of the Future with Dharmesh Kakadia | Software Engineering Daily](https://softwareengineeringdaily.com/2016/12/14/mesos-kubernetes-and-infrastructure-of-the-future-with-dharmesh-kakadia/)  
-[Docker Clustering Tools Compared: Kubernetes vs Docker Swarm | Technology Conversations](https://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/) 2015-11  
+[Containers, Configuration Management, and The Right Tool for the Right Job | the agile admin](http://theagileadmin.com/2015/11/10/containers-configuration-management-and-the-right-tool-for-the-right-job/) 2015-11
+[Docker and the Future of Configuration Management – Coming In November! | the agile admin](http://theagileadmin.com/2015/10/29/docker-and-the-future-of-configuration-management-coming-in-november/) 2015-10
+[Swarm v. Fleet v. Kubernetes v. Mesos - O'Reilly Media](https://www.oreilly.com/ideas/swarm-v-fleet-v-kubernetes-v-mesos) 2015-10
+[Docker Clustering Tools Compared: Kubernetes vs Docker Swarm | Technology Conversations](http://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/) 2015-11
+[cluster computing - Docker-Swarm, Kubernetes, Mesos & Core-OS Fleet - Stack Overflow](http://stackoverflow.com/questions/27640633/docker-swarm-kubernetes-mesos-core-os-fleet)
+[5 Next-Gen Cloud Technologies You Should Know | Linux.com | The source for Linux information](https://www.linux.com/news/5-next-gen-cloud-technologies-you-should-know)
+[8 Container Orchestration Tools to Know | Linux.com | The source for Linux information](https://www.linux.com/news/8-open-source-container-orchestration-tools-know)
+[Docker Swarm 与 Apache Mesos 的区别](http://www.infoq.com/cn/articles/difference-between-swarm-docker-and-mesos-apache)
+[Mesos, Kubernetes, and Infrastructure of the Future with Dharmesh Kakadia | Software Engineering Daily](https://softwareengineeringdaily.com/2016/12/14/mesos-kubernetes-and-infrastructure-of-the-future-with-dharmesh-kakadia/)
+[Docker Clustering Tools Compared: Kubernetes vs Docker Swarm | Technology Conversations](https://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/) 2015-11
 [A Brief Comparison of Mesos and Kubernetes - The New Stack](http://thenewstack.io/a-brief-comparison-of-mesos-and-kubernetes/)
 
 [Kubernetes vs Rancher vs Docker Swarm (Pros & Cons) | StackShare](https://stackshare.io/stackups/kubernetes-vs-rancher-vs-docker-swarm)
 
-[Docker's new orchestration tools: Any container to any cloud | InfoWorld](http://www.infoworld.com/article/2889317/application-virtualization/dockers-new-orchestration-tools-any-container-to-any-cloud.html)  
+[Docker's new orchestration tools: Any container to any cloud | InfoWorld](http://www.infoworld.com/article/2889317/application-virtualization/dockers-new-orchestration-tools-any-container-to-any-cloud.html)
 [Docker and the Future of Configuration Management | the agile admin](http://theagileadmin.com/tag/dockercmroundup/)
 
 [garywiz/chaperone: Lightweight process-tree manager for Docker-like containers](https://github.com/garywiz/chaperone)

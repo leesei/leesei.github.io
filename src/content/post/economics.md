@@ -21,6 +21,8 @@ Public goods
 
 [原油期货价格-37 美元/桶！钱赔光了还欠银行钱！期货风险为何这么大？ - YouTube](https://www.youtube.com/watch?v=ii1fTxhD_D0)
 
+[996 工作制是奋斗还是剥削？你该不该加班？李永乐老师讲机会成本 - YouTube](https://www.youtube.com/watch?v=U4kpHYIuV6c) opportunity cost, diminishing marginal return, 自我剥削
+
 [Trump's Biggest Failure - YouTube](https://www.youtube.com/watch?v=hhMAt3BluAU) Global trade; first use of containers at 26th April, 1956; Modern China
 
 [Economic Principles](https://www.economicprinciples.org/)

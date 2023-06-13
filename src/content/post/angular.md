@@ -15,8 +15,8 @@ tags:
 [The Past, Present, and Future of the Angular CLI – Angular Blog](https://blog.angular.io/the-past-present-and-future-of-the-angular-cli-13cf55e455f8)
 
 [Angular Expo](https://angularexpo.com/)
-[gdi2290/awesome-angular: A curated list of awesome Angular resources by @TipeIO](https://github.com/gdi2290/awesome-angular)
-[Angular In Depth](https://blog.angularindepth.com/)
+[PatrickJS/awesome-angular: A curated list of awesome Angular resources](https://github.com/PatrickJS/awesome-angular)
+[Angular 16 – Top 8 new features must be known for developers](https://www.c-sharpcorner.com/article/angular-16-top-8-new-features-must-be-known-for-developers/)
 
 ## Angular Ivy
 
@@ -37,11 +37,6 @@ Legacy renderer is removed in Angular 16 (2023-05).
 
 [Why are developers still using Angular? - Aphinya Dechalert - Medium](https://medium.com/@PurpleGreenLemon/why-are-developers-still-using-angular-b9ef29d1f97f)
 
-[Angular 7 Series Part 1: Creating Enterprise-Level Applications](https://medium.com/better-programming/angular-7-series-part-1-create-enterprise-level-application-36c84786fa27)
-[Angular 7 Series Part-2: Creating a Custom Library - Better Programming - Medium](https://medium.com/better-programming/angular-7-series-part-2-create-custom-library-8d7a0494b2cc)
-
-[ng-conf 2016 - YouTube](https://www.youtube.com/playlist?list=PLOETEcp3DkCq788xapkP_OU-78jhTf68j)
-
 ## Library
 
 [Taiga UI: A powerful set of open source components for Angular](https://taiga-ui.dev/)
@@ -53,6 +48,7 @@ Legacy renderer is removed in Angular 16 (2023-05).
 
 [AngularJS — Superheroic JavaScript MVW Framework](https://angularjs.org/)
 [end of life - angularjs 1.x support lifecycle - Stack Overflow](https://stackoverflow.com/questions/37037251/angularjs-1-x-support-lifecycle)
+[gianarb/awesome-angularjs: A list of awesome AngularJs services, directives, utilities and resources.](https://github.com/gianarb/awesome-angularjs)
 
 [Tag Archive for "angular-js" | Scotch](https://scotch.io/tag/angular-js)
 [The Best News from Angular’s ng-conf 2016 | Scotch](https://scotch.io/bar-talk/the-best-news-from-angulars-ng-conf-2016)

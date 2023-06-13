@@ -525,7 +525,7 @@ Most are backed by RetroArch + EmulationStation
 
 [First Installation - RetroPie Docs](https://retropie.org.uk/docs/First-Installation/#transferring-roms)
 [Running ROMs from a USB drive - RetroPie Docs](https://retropie.org.uk/docs/Running-ROMs-from-a-USB-drive/)
-[How to Add Roms To RetroPie - YouTube](https://www.youtube.com/watch?v=f8_2Ij3b9iw) with Samba using IP, or `\\retropie`  
+[How to Add Roms To RetroPie - YouTube](https://www.youtube.com/watch?v=f8_2Ij3b9iw) with Samba using IP, or `\\retropie`
 when prompted for password, use user `root` and password `pi`
 
 #### Scraper

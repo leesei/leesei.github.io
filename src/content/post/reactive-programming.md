@@ -26,8 +26,13 @@ tags:
 [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 [How React isn't reactive, and why you shouldn't care - DEV Community](https://dev.to/ryansolid/how-react-isn-t-reactive-and-why-you-shouldn-t-care-152m)
 
+## Actor Model
+
 [The actor model in 10 minutes](https://www.brianstorti.com/the-actor-model/)
 [Hewitt, Meijer and Szyperski: The Actor Model (everything you wanted to know...) - YouTube](https://www.youtube.com/watch?v=7erJ1DV_Tlo)
+
+[The Next Programming Language - Douglas Crockford - code::dive 2022 - YouTube](https://www.youtube.com/watch?v=R2idkNdKqpQ)
+[Misty Programming Language: Contents](https://crockford.com/misty/)
 
 ---
 

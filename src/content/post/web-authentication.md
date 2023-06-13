@@ -2,12 +2,15 @@
 title: Web Authentication
 description: ""
 created: 2016-01-21
+updated: 2023-06-06
 tags:
   - authentication
   - security
   - web
   - web-token
 ---
+
+[[self-hosting#Auth Server]]
 
 [Secure authentication means moving beyond passwords | CSO Online](https://www.csoonline.com/article/3237827/password-security/ready-for-more-secure-authentication-try-these-password-alternatives-and-enhancements.html)
 
@@ -55,25 +58,7 @@ Use MAC with server nonce instead of send password, allows authentication over n
 
 [Using Netlify Forms and Netlify Functions to Build an Email Sign-Up Widget | CSS-Tricks](https://css-tricks.com/using-netlify-forms-and-netlify-functions-to-build-an-email-sign-up-widget/)
 
-## Auth Server
-
-[Fine Grained Authorization | OpenFGA](https://openfga.dev/)
-[SuperTokens, Open Source Authentication](https://supertokens.io/)
-
-[Open-source authentication platform - Fief](https://www.fief.dev/)
-
-[Keycloak](https://www.keycloak.org/)
-
-[Self-Hosted - FusionAuth](https://fusionauth.io/platform/self-hosting)
-
-[Lucia](https://lucia-auth.com/?framework=none)
-[pilcrowOnPaper/lucia: Authentication, simple and clean](https://github.com/pilcrowOnPaper/lucia)
-
-[tarent/loginsrv: JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, ..](https://github.com/tarent/loginsrv)
-
-[leesei/docker-auth-server: Dockerized JWT key server](https://github.com/leesei/docker-auth-server)
-
-## Auth Providers
+## Auth as a Service
 
 [Stop Building Auth: a case for using prebuilt authentication in React Native | Theodo](https://blog.theodo.com/2023/01/stop-building-auth/)
 
@@ -685,6 +670,10 @@ Auth0 is the owner of Node.js `jsonwebtoken` module.
 [Active Directory and virtualization - YouTube](https://www.youtube.com/watch?v=hqiQZp1N-LI)
 [Active Directory and backup - YouTube](https://www.youtube.com/watch?v=eISq3SKuZjA)
 
+[Taming Kerberos - Computerphile - YouTube](https://www.youtube.com/watch?v=qW361k3-BtU)
+[CertMike Explains Kerberos - YouTube](https://www.youtube.com/watch?v=nUEWp-r-ugc)
+[Kerberos Authentication Explained | A deep dive - YouTube](https://www.youtube.com/watch?v=5N242XcKAsM)
+
 Hacking Kerberos
 get hash and crack offline
 Mimicatz
@@ -722,3 +711,21 @@ nltest /server:ASPDC02 /domain_trusts
 [kumar303/mohawk: Python library for Hawk HTTP authorization](https://github.com/kumar303/mohawk)
 
 [outmoded/oz: Web Authorization Protocol](https://github.com/outmoded/oz)
+
+## Self-sovereign identity/SSI
+
+Blockchain can be used as Public Key Infrastructure (PKI), but not the necessary condition.
+
+[Self-sovereign identity - Wikiwand](https://www.wikiwand.com/en/Self-sovereign_identity)
+[Self Sovereign Identity & Decentralized Identity - An Unlimited Guide - 101 Blockchains](https://101blockchains.com/self-sovereign-identity-and-decentralized-identity/)
+[What is self-sovereign identity? Definition from WhatIs.com](https://www.techtarget.com/searchsecurity/definition/self-sovereign-identity)
+
+[SSI and Digital wallets](https://twit.tv/shows/floss-weekly/episodes/670)
+[Frontiers of Trust](https://twit.tv/shows/floss-weekly/episodes/673)
+
+[Trust Over IP - Defining a complete architecture for Internet-scale digital trust](https://trustoverip.org/)
+[Sovrin Governance Framework - Sovrin](https://sovrin.org/library/sovrin-governance-framework/)
+
+[Decentralized Identifiers (DIDs) v1.0](https://w3c.github.io/did-core/) rejected by Google, Apple and Mozilla as there are too many (> 150) verification protocols, some requiring blockchain
+
+[Find an Ethereum Wallet | ethereum.org](https://ethereum.org/en/wallets/find-wallet/)

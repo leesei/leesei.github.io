@@ -26,6 +26,7 @@ tags:
 [Understanding the CSS Specifications](https://www.w3.org/Style/CSS/read)
 [5 tips to become better at CSS - DEV Community](https://dev.to/sp90/5-tips-to-become-better-at-css-3d24)
 [Modern CSS Explained For Dinosaurs – Actualize – Medium](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525)
+[Getting Started with CSS | Frontend Masters | Frontend Masters](https://frontendmasters.com/courses/getting-started-css/) free, 2021-12, 03:19:50
 
 [Where is CSS4? When is it coming out? - YouTube](https://www.youtube.com/watch?v=Jtmkk6odggs)
 [DOES CSS4 EXIST? - DEV Community 👩‍💻👨‍💻](https://dev.to/olimpioadolfo/does-css4-exist-5ao4)
@@ -46,7 +47,7 @@ Adjacent margin collapse; adjacent padding don't.
 [Interneting Is Hard | Web Development Tutorials For Complete Beginners](https://internetingishard.com/)
 [the new code – A Complete Reading List For CSS](http://thenewcode.com/919/A-Complete-Reading-List-For-CSS)
 [The CSS Handbook](https://flaviocopes.com/page/css-handbook/)
-[The CSS Handbook: a handy guide to CSS for developers](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11) !important
+[The CSS Handbook: a handy guide to CSS for developers](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11) ❗!important
 [AtoZ CSS Archives - SitePoint](https://www.sitepoint.com/tag/atoz-css/)
 [A Complete Guide to CSS Functions | CSS-Tricks](https://css-tricks.com/complete-guide-to-css-functions/)
 [Understanding The Box Model in CSS - DEV Community](https://dev.to/yamanidev/understanding-the-box-model-in-css-1af)
@@ -65,7 +66,7 @@ Adjacent margin collapse; adjacent padding don't.
 [Architecting Front-end Styles](https://robots.thoughtbot.com/architecting-front-end-styles)
 
 [Let's Write Beautiful CSS Comments | Sparkbox | Web Design and Development](http://seesparkbox.com/foundry/lets_write_beautiful_css_comments)
-[The Importance of !important: Forcing Immutability in CSS – CSS Wizardry – CSS, OOCSS, front-end architecture, performance and more, by Harry Roberts](http://csswizardry.com/2016/05/the-importance-of-important/)
+[The Importance of ❗!important: Forcing Immutability in CSS – CSS Wizardry – CSS, OOCSS, front-end architecture, performance and more, by Harry Roberts](http://csswizardry.com/2016/05/the-importance-of-important/)
 
 ## How CSS Works
 
@@ -150,7 +151,7 @@ Also explains the the “magic” of Styling and Layout on the web
 Framework defines rules that are:
 
 - unused
-- over-specific (calls for `!important` on custom styles)
+- over-specific (calls for `❗!important` on custom styles)
 
 [CSS coding techniques ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2016/05/css-coding-techniques/)
 [About HTML semantics and front-end architecture – Nicolas Gallagher](https://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
@@ -212,7 +213,7 @@ CSS props as classes. So instead of actually writing any CSS, you just apply the
 
 > component CSS, but with many functional/atomic CSS helper
 
-[Bulma: Free, open source, & modern CSS framework based on Flexbox](https://bulma.io/) !important
+[Bulma: Free, open source, & modern CSS framework based on Flexbox](https://bulma.io/) ❗!important
 
 - No default Styling
 - Powerful Flexbox Grid
@@ -221,7 +222,7 @@ CSS props as classes. So instead of actually writing any CSS, you just apply the
 - No Javascript only CSS
 - Reusable Components (which you can customize)
 
-[Bulma cheatsheet](https://devhints.io/bulma) !important
+[Bulma cheatsheet](https://devhints.io/bulma) ❗!important
 [Responsiveness | Bulma: Free, open source, and modern CSS framework based on Flexbox](https://bulma.io/documentation/overview/responsiveness/)
 
 | Breakpoints  | Screen sizes         |
@@ -295,7 +296,7 @@ The `select` class set z-index of arrow to 4. Use this to override:
 [Bootstrap · The world's most popular mobile-first and responsive front-end framework.](http://getbootstrap.com/) behemoth
 [Material Design for Bootstrap 5 & 4 - Material Design for Bootstrap](https://mdbootstrap.com/)
 
-[Bootstrap cheatsheet](https://devhints.io/bootstrap) !important
+[Bootstrap cheatsheet](https://devhints.io/bootstrap) ❗!important
 
 [Introduction · Bootstrap v5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 [Grid system · Bootstrap v5.0](https://getbootstrap.com/docs/5.0/layout/grid/#grid-options)
@@ -341,6 +342,9 @@ Grid sizes
 [Tailwind CSS v3.3: Extended color palette, ESM/TS support, logical properties, and more - Tailwind CSS](https://tailwindcss.com/blog/tailwindcss-v3-3)
 [Tailwind CSS Tutorial for Beginners – How To Start?](https://codete.com/blog/tailwind-css-tutorial-and-examples-for-beginners)
 
+[dcastil/tailwind-merge: Merge Tailwind CSS classes without style conflicts](https://github.com/dcastil/tailwind-merge)
+[Tailwind-Merge Is Incredibly Useful — And Here's Why! - YouTube](https://www.youtube.com/watch?v=tfgLd5ZSNPc)
+
 [vimeshjs/vimesh-style: Vimesh Style is a full-featured tiny javascript library alternative to Tailwind CSS. Automatically work with any frontend frameworks, including React, Vue, AngularJS ect.](https://github.com/vimeshjs/vimesh-style)
 [Typewind – Typesafe Tailwind](https://typewind.dev/)
 
@@ -359,6 +363,7 @@ Component Libraries (Tailwind plugin)
 [Building React components with DaisyUI](https://blog.openreplay.com/building-react-components-with-daisyui/)
 [Versoly UI - Tailwind CSS Components](https://versoly.com/versoly-ui)
 [Soft UI Flowbite: Free Tailwind CSS Admin Template @ Creative Tim](https://www.creative-tim.com/product/soft-ui-flowbite) CSS only?
+[Tailwind CSS Component Library | WindUI](https://wind-ui.com/) like flowbit but batter
 
 [The best Tailwind templates & UI kits on the internet | Tailwind Awesome](https://www.tailwindawesome.com/)
 
@@ -368,6 +373,7 @@ Copy and paste
 [Tailwind Toolbox - Free Starter Templates and Components for Tailwind CSS](https://www.tailwindtoolbox.com/)
 [Tailwind Layouts](https://tailwind-layouts.vercel.app/)
 [Myna UI](https://mynaui.com/)
+[Tailblocks — Ready-to-use Tailwind CSS blocks](https://tailblocks.cc/)
 
 [shadcn/ui - Beautifully designed components built with Radix UI and Tailwind CSS.](https://ui.shadcn.com/) React
 [shadcn/ui: Beautifully designed components built with Radix UI and Tailwind CSS.](https://github.com/shadcn/ui)
@@ -431,12 +437,12 @@ Copy and paste
 
 ### Archives
 
-[picnicss/picnic: A beautiful CSS library to kickstart your projects](https://github.com/franciscop/picnic) inactive, SCSS, it knows HTML5 semantic
-[Cutestrap](https://www.cutestrap.com/) inactive, tiny alternative to Bootstrap
-[min](http://mincss.com/) inactive
-[Home | Pivotal UI](https://styleguide.pivotal.io/) inactive
-[Topcoat](http://topcoat.io/) inactive
-[yeti.css • &yet's visual style guide](http://yeticss.com/) inactive
+[picnicss/picnic: A beautiful CSS library to kickstart your projects](https://github.com/franciscop/picnic) 😴inactive, SCSS, it knows HTML5 semantic
+[Cutestrap](https://www.cutestrap.com/) 😴inactive, tiny alternative to Bootstrap
+[min](http://mincss.com/) 😴inactive
+[Home | Pivotal UI](https://styleguide.pivotal.io/) 😴inactive
+[Topcoat](http://topcoat.io/) 😴inactive
+[yeti.css • &yet's visual style guide](http://yeticss.com/) 😴inactive
 
 ## SASS/SCSS
 
@@ -500,9 +506,9 @@ Copy and paste
 
 ## Styling Modern Webapps
 
-[What to use for React styling?](http://andrewhfarmer.com/how-to-style-react/) !important, overview of pipeline
+[What to use for React styling?](http://andrewhfarmer.com/how-to-style-react/) ❗!important, overview of pipeline
 [Styling In Modern Web Apps — Smashing Magazine](https://www.smashingmagazine.com/2019/06/styling-modern-web-apps/)
-[8 Ways to Style React Components Compared — SitePoint](https://www.sitepoint.com/react-components-styling-options/) !important
+[8 Ways to Style React Components Compared — SitePoint](https://www.sitepoint.com/react-components-styling-options/) ❗!important
 [5 Ways to Style React Components in 2020 | by Jonathan Saring | Bits and Pieces](https://blog.bitsrc.io/5-ways-to-style-react-components-in-2019-30f1ccc2b5b)
 
 [The State of CSS 2019](https://2019.stateofcss.com/)
@@ -539,7 +545,7 @@ CSS Modules creates BEM class names for you to use. Better use with [`classnames
 
 ## CSS in JS
 
-[CSS-in-JS Roundup: Styling React Components ← Alligator.io](https://alligator.io/react/css-in-js-roundup-styling-react-components/) !important
+[CSS-in-JS Roundup: Styling React Components ← Alligator.io](https://alligator.io/react/css-in-js-roundup-styling-react-components/) ❗!important
 [9 CSS in JS Libraries you should Know in 2018 – Bits and Pieces](https://blog.bitsrc.io/9-css-in-js-libraries-you-should-know-in-2018-25afb4025b9b)
 [Styling Best Practices using React – The Non-Traditional Developer – Medium](https://medium.com/the-non-traditional-developer/styling-best-practices-using-react-c37b96b8be9c)
 [Everything you need to know about CSS in JS. #reactjs #cssinjs - YouTube](https://www.youtube.com/watch?v=Be_C_Op8Tx8)
@@ -549,7 +555,7 @@ CSS Modules creates BEM class names for you to use. Better use with [`classnames
 
 [CSS-in-JS](http://michelebertoli.github.io/css-in-js/) React: CSS in JS techniques comparison
 [MicheleBertoli/css-in-js: React: CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
-[Vjeux » React: CSS in JS – NationJS](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html) !important, 2014
+[Vjeux » React: CSS in JS – NationJS](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html) ❗!important, 2014
 [React: CSS in JS - Speaker Deck](https://speakerdeck.com/vjeux/react-css-in-js) embedded JS object
 
 [A Brief History of CSS-in-JS: How We Got Here and Where We’re Going](https://levelup.gitconnected.com/a-brief-history-of-css-in-js-how-we-got-here-and-where-were-going-ea6261c19f04)
@@ -704,7 +710,7 @@ Create a file named `<component>.module.css` and `import styles from './<compone
 [The Skinny on CSS Attribute Selectors | CSS-Tricks](https://css-tricks.com/attribute-selectors/)
 [How and why to use attribute selectors in CSS - LogRocket Blog](https://blog.logrocket.com/use-attribute-selectors-css/)
 
-[The 30 CSS Selectors You Must Memorize](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048) !important
+[The 30 CSS Selectors You Must Memorize](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048) ❗!important
 [Selectors - Web developer guides | MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_Started/Selectors)
 
 ### Specificity
@@ -865,6 +871,8 @@ The overlay should be a `absolute` position in a `relative` container, together 
 
 [A Preview of 4 New CSS Color Features | CSS-Tricks - CSS-Tricks](https://css-tricks.com/new-css-color-features-preview/)
 
+[gradient-designer](https://gradient-designer.csspost.com/)
+
 ## Image
 
 [How to Show Images on Click | CSS-Tricks](https://css-tricks.com/how-to-show-images-on-click/)
@@ -885,16 +893,36 @@ The overlay should be a `absolute` position in a `relative` container, together 
 ## Media Queries
 
 [Media queries - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries)
+[A Complete Guide to CSS Media Queries | CSS-Tricks - CSS-Tricks](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
+[Media Queries in Responsive Design: A Complete Guide (2021)](https://torquemag.io/2021/08/media-queries-guide/)
 [New media queries you need to know - LogRocket Blog](https://blog.logrocket.com/new-media-queries-you-need-to-know/)
 
 ## CSS Container Queries
 
 [CSS Container Queries - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries)
 [A Cornucopia of Container Queries | CSS-Tricks - CSS-Tricks](https://css-tricks.com/a-cornucopia-of-container-queries/)
+[A Primer On CSS Container Queries — Smashing Magazine](https://www.smashingmagazine.com/2021/05/complete-guide-css-container-queries/)
 [A New Container Query Polyfill That Just Works | CSS-Tricks - CSS-Tricks](https://css-tricks.com/a-new-container-query-polyfill-that-just-works/)
 [On container queries. — Ethan Marcotte](https://ethanmarcotte.com/wrote/on-container-queries/)
 [Say Hello To CSS Container Queries - Ahmad Shadeed](https://ishadeed.com/article/say-hello-to-css-container-queries/)
 [Container Queries: a Quick Start Guide | OddBird](https://www.oddbird.net/2021/04/05/containerqueries/)
+
+`cq` units within `@container`
+
+```css
+.container {
+  container-type: inline-size;
+  /* shorthand: name / type */
+  container: my-container / inline-size;
+}
+
+@container (min-width: 60ch) {
+  article {
+    padding: 2rem;
+    font-size: max(1.25rem, 1em + 2cqi);
+  }
+}
+```
 
 ## Layout
 
@@ -914,7 +942,7 @@ The overlay should be a `absolute` position in a `relative` container, together 
 
 [Learn CSS Layout](http://learnlayout.com/)
 [display | CSS-Tricks](https://css-tricks.com/almanac/properties/d/display/)
-[Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/) !important
+[Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/) ❗!important
 
 [4 CSS layouts without using media queries | Polypane Browser for Developers](https://polypane.app/blog/4-css-layouts-without-using-media-queries/)
 [Optimizing for Large-Scale Displays | CSS-Tricks](https://css-tricks.com/optimizing-large-scale-displays/)
@@ -949,6 +977,8 @@ The overlay should be a `absolute` position in a `relative` container, together 
 [Responsive IFRAMEs — The Right Way (CSS Only)! | Ben Marshall](https://benmarshall.me/responsive-iframes/)
 [Responsive iFrames](https://codepen.io/bmarshall511/full/PBMOWa)
 [Responsive Iframes with One Great CSS Trick | Theodo](https://blog.theodo.com/2018/01/responsive-iframes-css-trick/)
+
+[CSS Layout Generator](https://layout.bradwoods.io/) with Flexbox or Grid
 
 [javascript - Embedding youtube video "Refused to display document because display forbidden by X-Frame-Options" - Stack Overflow](https://stackoverflow.com/questions/9934944/embedding-youtube-video-refused-to-display-document-because-display-forbidden-b) use `/embed/id` URL
 
@@ -1002,17 +1032,20 @@ Modern browsers support the current spec (`display: flex`).
 
 [The Best Flexbox Resources | Wes Bos](http://wesbos.com/flexbox-resources/)
 [What The Flexbox?! - YouTube](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid) video series by Web Bos
-[A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) !important
-[Flexbox: WTF - Forward 4 Web Summit - YouTube](https://www.youtube.com/watch?v=qDlswTzbnmk) [slide](http://estelle.github.io/flexbox/) 2016 RC spec, !important
-[Flexbox Tutorial](http://www.sketchingwithcss.com/flexbox-tutorial/) !important
-[Flexbox Tutorial | HTML & CSS Is Hard](https://internetingishard.com/html-and-css/flexbox/)
-[CSS Flexible Box Layout - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout)
+[Flexbox: WTF - Forward 4 Web Summit - YouTube](https://www.youtube.com/watch?v=qDlswTzbnmk) [slide](http://estelle.github.io/flexbox/) 2016 RC spec, ❗!important
+[Free Flexbox and CSS Grid Workshop - YouTube](https://www.youtube.com/playlist?list=PLqrUy7kON1mdRa49qJuWFHUutr1y635_n)
+
+[A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) ❗!important
 [Understanding flex-grow, flex-shrink, and flex-basis | CSS-Tricks](https://css-tricks.com/understanding-flex-grow-flex-shrink-and-flex-basis/)
 [Balancing on a Pivot with Flexbox - CSS-Tricks](https://css-tricks.com/balancing-on-a-pivot-with-flexbox/)
 
+[Flexbox Tutorial](http://www.sketchingwithcss.com/flexbox-tutorial/) ❗!important
+[Flexbox Tutorial | HTML & CSS Is Hard](https://internetingishard.com/html-and-css/flexbox/)
+[CSS Flexible Box Layout - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout)
+[Understanding Flex Direction | Standardista](http://www.standardista.com/understanding-flex-direction/)
+
 [CSS Flexbox Ultimate Guide | Web Dev Simplified Blog](https://blog.webdevsimplified.com/2021-11/flexbox/)
-[What The Flexbox?! — A simple 20 video course that will help you master CSS Flexbox](https://flexbox.io/) !important, by Wes Bos
-[Designing with FLEXBOX](http://flexbox-guide.coffeecup.com/index.html)
+[What The Flexbox?! — A simple 20 video course that will help you master CSS Flexbox](https://flexbox.io/) ❗!important, by Wes Bos
 [11 things I learned reading the flexbox spec – Hacker Noon](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
 [12 CSS Flexbox tips &amp; tricks which you need to know as a web developer - DEV Community 👩‍💻👨‍💻](https://dev.to/duomly/12-flexbox-tips-tricks-which-you-need-to-know-as-a-web-developer-1bkg)
 [Learn CSS Flexbox by Building 5 Responsive Layouts](https://www.freecodecamp.org/news/learn-flexbox-build-5-layouts/)
@@ -1020,11 +1053,7 @@ Modern browsers support the current spec (`display: flex`).
 [Learn flexbox the easy way - YouTube](https://www.youtube.com/watch?v=u044iM9xsWU)
 
 [Can I use... flexbox](http://caniuse.com/#search=flexbox)
-[philipwalton/flexbugs: A community-curated list of flexbox issues and cross-browser workarounds for them.](https://github.com/philipwalton/flexbugs) !important
-[CSS Flexible Box Layout - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout)
-[Understanding Flex Direction | Standardista](http://www.standardista.com/understanding-flex-direction/)
-[Flexbox Patterns - Intro](https://www.flexboxpatterns.com/)
-[Free Flexbox and CSS Grid Workshop - YouTube](https://www.youtube.com/playlist?list=PLqrUy7kON1mdRa49qJuWFHUutr1y635_n)
+[philipwalton/flexbugs: A community-curated list of flexbox issues and cross-browser workarounds for them.](https://github.com/philipwalton/flexbugs) ❗!important
 
 Spacing:
 `justify-content`: main-axis items
@@ -1037,6 +1066,7 @@ Spacing:
 [Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com/) @important
 [Flexbox Defense](http://www.flexboxdefense.com/)
 [Flexbox Zombies | Mastery Games](https://mastery.games/p/flexbox-zombies)
+[Flexplorer](https://bennettfeely.com/flexplorer/)
 
 [Flexbox Is As Easy As Pie: Designing CSS Layouts — Smashing Magazine](https://www.smashingmagazine.com/2013/05/centering-elements-with-flexbox/)
 [Harnessing Flexbox For Today's Web Apps — Smashing Magazine](https://www.smashingmagazine.com/2015/03/harnessing-flexbox-for-todays-web-apps/)
@@ -1044,6 +1074,8 @@ Spacing:
 [The Flexbox Reading List: Techniques And Tools — Smashing Magazine](https://www.smashingmagazine.com/2016/02/the-flexbox-reading-list/)
 [The New Layout Standard For The Web: CSS Grid, Flexbox And Box Alignment — Smashing Magazine](https://www.smashingmagazine.com/2016/11/css-grids-flexbox-box-alignment-new-layout-standard/)
 
+[Flexbox Patterns - Intro](https://www.flexboxpatterns.com/)
+[Designing with FLEXBOX](http://flexbox-guide.coffeecup.com/index.html)
 [Flexbox First](http://www.planningforaliens.com/blog/2013/10/07/flexbox-first/)
 [Flexbox in the Real World](http://www.planningforaliens.com/blog/2014/03/11/real-world-flexbox/)
 [sfioritto/real-world-flexbox: examples of different ways you can start using flexbox today](https://github.com/sfioritto/real-world-flexbox)
@@ -1091,13 +1123,13 @@ IE 10 and 11 support a outdated Grid syntax.
 [CSS grid: release 2.0 | Webflow Blog](https://webflow.com/blog/css-grid-release-2-0)
 
 [grid-template-columns - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns)
-[grid-template-areas - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-areas) !important, define layout with name
+[grid-template-areas - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-areas) ❗!important, define layout with name
 [grid-template | CSS-Tricks - CSS-Tricks](https://css-tricks.com/almanac/properties/g/grid-template/)
 
-[A Complete Guide to Grid | CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/) !important
+[A Complete Guide to Grid | CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/) ❗!important
 [What We Want from Grid | CSS-Tricks - CSS-Tricks](https://css-tricks.com/what-we-want-from-grid/) SVG scaling issue in comments
-[Simple Named Grid Areas - CSS-Tricks](https://css-tricks.com/simple-named-grid-areas/) !important
-[Grid Layout Ah-ha Moment - Ahmad Shadeed](https://ishadeed.com/article/css-grid/) !important
+[Simple Named Grid Areas - CSS-Tricks](https://css-tricks.com/simple-named-grid-areas/) ❗!important
+[Grid Layout Ah-ha Moment - Ahmad Shadeed](https://ishadeed.com/article/css-grid/) ❗!important
 [CSS Grid Handbook – Complete Guide to Grid Containers and Grid Items](https://www.freecodecamp.org/news/complete-guide-to-css-grid/)
 [CSS Grid Template Areas In Action - Ahmad Shadeed](https://ishadeed.com/article/grid-area/) [codepen](https://codepen.io/shadeed/pen/f88b1ee06e63a2691f24328c2123aeba)
 [How to Use CSS Grid Layout – Grid Properties Explained with Examples](https://www.freecodecamp.org/news/how-to-use-css-grid-layout/)
@@ -1106,8 +1138,9 @@ IE 10 and 11 support a outdated Grid syntax.
 [Building Production-Ready CSS Grid Layouts Today — Smashing Magazine](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/)
 [Understanding CSS Grid: Creating A Grid Container — Smashing Magazine](https://www.smashingmagazine.com/2020/01/understanding-css-grid-container/)
 
-[Grid Garden - A game for learning CSS grid](http://cssgridgarden.com/) !important
+[Grid Garden - A game for learning CSS grid](http://cssgridgarden.com/) ❗!important
 [Grid Critters](https://www.gridcritters.com/)
+[CSS Grid Generator](https://cssgrid-generator.netlify.app/)
 
 [CSS Grid for Beginners (Part 1 of 2) - YouTube](https://www.youtube.com/watch?v=2MccG3hf5BY)
 [CSS Grid for Beginners (Part 2 of 2) - YouTube](https://www.youtube.com/watch?v=nQV0HlWsnAE)
@@ -1219,12 +1252,15 @@ IE 10 and 11 support a outdated Grid syntax.
 ## Shadow
 
 [Getting Deep Into Shadows | CSS-Tricks](https://css-tricks.com/getting-deep-into-shadows/)
-[Box Shadow CSS Generator | CSSmatic](https://www.cssmatic.com/box-shadow)
 [Creating UI shadows that don’t suck - NYC Design - Medium](https://medium.com/nyc-design/how-to-make-ui-shadows-that-dont-suck-53827f2f2cb)
 
-[Box shadow vs. drop shadow in CSS - DEV Community](https://dev.to/0shuvo0/box-shadow-vs-drop-shadow-in-css-1cno) `drop-shadow` around boarder of content in transparent PNG
+[Box Shadow CSS Generator | CSSmatic](https://www.cssmatic.com/box-shadow)
+[Smooth Shadow](https://shadows.brumm.af/)
 
+[CSS Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/)
 [Introducing “Shadow Palette Generator”, a tool to help you generate CSS box-shadow values](https://www.joshwcomeau.com/css/introducing-shadow-palette-generator/)
+
+[Box shadow vs. drop shadow in CSS - DEV Community](https://dev.to/0shuvo0/box-shadow-vs-drop-shadow-in-css-1cno) `drop-shadow` around boarder of content in transparent PNG
 
 ## Background
 

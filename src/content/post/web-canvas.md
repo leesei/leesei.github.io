@@ -46,7 +46,7 @@ tags:
 [Creative Coding with Vanilla JavaScript and HTML Canvas - YouTube](https://www.youtube.com/playlist?list=PLYElE_rzEw_siuo-kkHh5h7Sk--6IPYNh) Franks laboratory
 
 [Goodbye HTML. Hello Canvas! | JavaScript in Plain English](https://javascript.plainenglish.io/goodbye-html-hello-canvas-part-1-92f750961666)
-[Goodbye HTML. Hello Canvas! | JavaScript in Plain English](https://javascript.plainenglish.io/goodbye-html-hello-canvas-d9e62e2e0cfe)
+[Goodbye HTML. Hello Canvas! | JavaScript in Plain English](https://javascript.plainenglish.io/goodbye-html-hello-canvas-d9e62e2e0cfe)
 
 ## AntV
 

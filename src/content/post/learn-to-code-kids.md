@@ -10,6 +10,7 @@ tags:
 
 Learn how to code for kids
 [兒童程式這樣學，6 階段讓孩子愛上 Coding！ 程式語言 (178371) - Cool3c](https://www.cool3c.com/article/178371)
+[Scratch? Python? C? Kernighan on Languages for Kids Coding - Computerphile - YouTube](https://www.youtube.com/watch?v=h8LTEFNLZ6M)
 
 [Learn today, build a brighter tomorrow. | Code.org](https://code.org/)
 [Code.org - Learn Computer Science](https://studio.code.org/courses) where President Obama learned JavaScript programming
@@ -108,7 +109,7 @@ Learn how to code for kids
 [Scratch Coding Cards](https://resources.scratch.mit.edu/www/cards/en/scratch-cards-all.pdf) PDF
 [Scratch API - Scratch Wiki](https://en.scratch-wiki.info/wiki/Scratch_API)
 
-[Invent with Scratch](http://inventwithscratch.com/) book, !important
+[Invent with Scratch](http://inventwithscratch.com/) book, ❗!important
 [Scratch - Tuts+ Code Category](http://code.tutsplus.com/categories/scratch)
 [Creative Computing](http://scratched.gse.harvard.edu/guide/)
 [Scratch Wiki](https://en.scratch-wiki.info/wiki/Scratch_Wiki_Home)
@@ -302,8 +303,8 @@ Just edit `README.md` in project's resource explorer.
 Then your project will have a help panel on the right.
 Use the special `/tutorial:${URL}` to load the project to view it step by step.
 
-e.g:  
-<https://makecode.microbit.org/#tutorial:https://makecode.microbit.org/_FhVVTw4Cp8cL>  
+e.g:
+<https://makecode.microbit.org/#tutorial:https://makecode.microbit.org/_FhVVTw4Cp8cL>
 <https://arcade.makecode.com/#tutorial:https://github.com/cyrusn/flappy_duck_tutorial>
 
 #### Extensions (libraries)
@@ -359,7 +360,7 @@ Then you can use `pins` functions.
 [Serial not concurrency safe? · Issue #1157 · Microsoft/pxt-microbit](https://github.com/Microsoft/pxt-microbit/issues/1157)
 Actually its the fiber yielding to other threads when blocked by serial IO.
 
-`basic.forever()` vs `control.inBackground()`  
+`basic.forever()` vs `control.inBackground()`
 They're both fibers. `inBackground()` have a `fiberDone` callback for clean up after function exited.
 
 `basic.forever()`

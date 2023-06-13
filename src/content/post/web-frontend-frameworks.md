@@ -10,8 +10,6 @@ tags:
   - web-dev
 ---
 
-# Frontend Frameworks
-
 [[alpinejs]]
 [[aurelia]]
 [[mithriljs]]
@@ -23,6 +21,7 @@ tags:
 
 [Immutable User Interfaces (Lee Byron) - Full Stack Fest 2016 - YouTube](https://www.youtube.com/watch?v=pLvrZPSzHxo)
 [Marco Rogers: Finding Patterns Across Front-end Frameworks [JSConf2014] - YouTube](https://www.youtube.com/watch?v=Bp3Jy177NvU)
+[I built the same app 10 times // Which JS Framework is best? - YouTube](https://www.youtube.com/watch?v=cuHDQhDhvPE) 2022-08
 
 Considerations:
 
@@ -132,9 +131,9 @@ Considerations:
 
 ## Archive
 
-[Matt-Esch/virtual-dom](https://github.com/Matt-Esch/virtual-dom) inactive
-[Moon](https://moonjs.org/) lightweight, inactive
-[Choo](https://choo.io/) functional, inactive
+[Matt-Esch/virtual-dom](https://github.com/Matt-Esch/virtual-dom) 😴inactive
+[Moon](https://moonjs.org/) lightweight, 😴inactive
+[Choo](https://choo.io/) functional, 😴inactive
 
 [postlight/trimmings: 🌲 Get back to HTML.](https://github.com/postlight/trimmings)
 [Back to HTML: Introducing Trimmings — Postlight — Digital Product Studio](https://postlight.com/trackchanges/back-to-html-introducing-trimmings)

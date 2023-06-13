@@ -142,6 +142,9 @@ The source code is compiled to High level intermediate representation, then mid 
 [Latest News - Hello, Rust!](https://www.hellorust.com/)
 [How not to learn Rust](https://dystroy.org/blog/how-not-to-learn-rust/)
 
+[Let's Get Rusty – Let's Get Rusty](https://letsgetrusty.com/)
+[Let's Get Rusty - YouTube](https://www.youtube.com/@letsgetrusty)
+
 No Boilerplate
 [How to Learn Rust - YouTube](https://www.youtube.com/watch?v=2hXNd6x9sZs)
 [Rust Is Easy - YouTube](https://www.youtube.com/watch?v=CJtvnepMVAU) the compiler teaches you
@@ -227,6 +230,14 @@ rustc --print cfg
 
 [Winning the fight against the Rust compiler (Coherence in Rust, feat. rustc sources)](https://ohadravid.github.io/posts/2023-05-coherence-and-errors/) only allow one specific implementation, compiler hacking
 
+[Get under the hood of Rust Language with Assembly!! Rust Programming Tutorial - YouTube](https://www.youtube.com/watch?v=lRV_5IBUTes)
+
+```sh
+RUSTFLAGS='--emit asm' cargo build
+cargo install cargo-show-asm
+cargo asm <bin>::main --dev --rust
+```
+
 ### Conditional Compiling
 
 [The Manifest Format - The Cargo Book](https://doc.rust-lang.org/cargo/reference/manifest.html#the-features-section)
@@ -274,12 +285,12 @@ Striping:
 ```sh
 ## print supported targets
 rustc --print target-list
+rustup target list
 
-rustup target add i686-pc-windows-msvc
+rustup target install i686-pc-windows-msvc x86_64-apple-darwin
 
 rustup target add armv7-unknown-linux-musleabi
-RUSTFLAGS='-C target-feature=+crt-static' cargo build --release --target armv7-unknown-linux-musleabi
-
+RUSTFLAGS='-C target-feature=+crt-static --emit asm' cargo build --release --target armv7-unknown-linux-musleabi
 ```
 
 [cross-rs/cross: “Zero setup” cross compilation and “cross testing” of Rust crates](https://github.com/cross-rs/cross)
@@ -308,6 +319,9 @@ RUSTFLAGS='-C target-feature=+crt-static' cargo build --release --target armv7-u
 ### Deployment
 
 [shuttle](https://www.shuttle.rs/)
+[shuttle-hq/shuttle: Build & ship backends without writing any infrastructure files.](https://github.com/shuttle-hq/shuttle)
+
+[Examples - Shuttle](https://docs.shuttle.rs/shuttle-next/getting-started)
 
 ## Syntax
 
@@ -473,7 +487,7 @@ use log::{debug, error, info, trace, warn};
 
 ## Books
 
-[Learn Rust - Rust Programming Language](https://www.rust-lang.org/learn#learn-use)  
+[Learn Rust - Rust Programming Language](https://www.rust-lang.org/learn#learn-use)
 Docs that is available locally with `rustup doc`
 
 First party
@@ -516,6 +530,8 @@ First party
 [Things you can’t do in Rust (and what to do instead) - LogRocket Blog](https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/)
 
 [tidunguyen/flexible-fn-rs: Demonstration of flexible function calls in Rust with function overloading, named arguments and optional arguments](https://github.com/tidunguyen/flexible-fn-rs)
+
+[5 Better ways to code in Rust - YouTube](https://www.youtube.com/watch?v=BU1LYFkpJuk) VS Code setup
 
 ## backtrace
 
@@ -660,6 +676,8 @@ fn first(v: &Vec<Book>) -> &String {
 [Pascal’s scribbles - Pascal’s Scribbles](https://deterministic.space/)
 [Fun facts about Rust's growing popularity](https://www.jntrnr.com/fun-facts-about-rust-growth/) 2017
 
+[Rust is being destroyed from the inside - YouTube](https://www.youtube.com/watch?v=QEnuzwCWpgQ)
+
 [Rust: A Language for the Next 40 Years - Carol Nichols - YouTube](https://www.youtube.com/watch?v=A3AdN7U24iU) [slides](https://gitlab.com/carols10cents/rust-next-40-years)
 
 [When Zero Cost Abstractions Aren’t Zero Cost | Considerations on Codecrafting](https://blog.polybdenum.com/2021/08/09/when-zero-cost-abstractions-aren-t-zero-cost.html)
@@ -677,6 +695,7 @@ fn first(v: &Vec<Book>) -> &String {
 [What is Rust and why is it so popular? - Stack Overflow Blog](https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/)
 [How do Rust and Go compare against each other? - Quora](http://www.quora.com/How-do-Rust-and-Go-compare-against-each-other)
 [Rust vs. Go: Why They’re Better Together – The New Stack](https://thenewstack.io/rust-vs-go-why-theyre-better-together/)
+[Rust vs Go in 2023 — Bitfield Consulting](https://bitfieldconsulting.com/golang/rust-vs-go)
 [Rust and Go — Medium](https://medium.com/@adamhjk/rust-and-go-e18d511fbd95)
 [How Rust Compares to Other Programming Languages - The New Stack](http://thenewstack.io/safer-future-rust/)
 [Adventures in Rust](https://dev.to/tmr232/adventures-in-rust-56fc)
@@ -744,6 +763,7 @@ fn first(v: &Vec<Book>) -> &String {
 
 [crates.io: Rust Package Registry](https://crates.io/)
 [Lib.rs — home for Rust crates // Lib.rs](https://lib.rs/)
+[Crate List - Blessed.rs](https://blessed.rs/crates)
 
 [The best Rust frameworks to check out in 2019 - LogRocket Blog](https://blog.logrocket.com/the-best-rust-frameworks-to-check-out-in-2019/)
 [Rust blueprint project - announcements - The Rust Programming Language Forum](https://users.rust-lang.org/t/rust-blueprint-project/6500)
@@ -796,6 +816,7 @@ fn first(v: &Vec<Book>) -> &String {
 [pencil - Rust](https://fengsp.github.io/pencil/pencil/) inspired by Flask
 [warp - crates.io: Rust Package Registry](https://crates.io/crates/warp)
 [gotham - crates.io: Rust Package Registry](https://crates.io/crates/gotham)
+[axum - crates.io: Rust Package Registry](https://crates.io/crates/axum)
 
 [actix - Rust](https://actix.rs/actix/actix/)
 [Build A Rust Backend (Really FAST Web Services with Actix Web) - YouTube](https://www.youtube.com/watch?v=L8tWKqSMKUI)
@@ -895,8 +916,7 @@ fn first(v: &Vec<Book>) -> &String {
 #### Dioxus
 
 [Dioxus | An elegant GUI library for Rust](https://dioxuslabs.com/)
-[Introduction](https://dioxuslabs.com/docs/0.3/guide/en/)
-[Demonthos/sledgehammer](https://github.com/Demonthos/sledgehammer)
+[Introduction](https://dioxuslabs.com/docs/0.3/guide/en/)[GitHub - Demonthos/sledgehammer_bindgen](https://github.com/Demonthos/sledgehammer_bindgen) Rust binding to JSDOM
 
 #### Xilem
 
@@ -938,7 +958,7 @@ fn first(v: &Vec<Book>) -> &String {
 
 [Explained: How does async work in Rust? – Levelup Your Coding](https://levelup.gitconnected.com/explained-how-does-async-work-in-rust-c406f411b2e2)
 [Getting Started - Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
-[Async Rust in Practice: Performance, Pitfalls, Profiling - ScyllaDB](https://www.scylladb.com/2022/01/12/async-rust-in-practice-performance-pitfalls-profiling/)
+[Async Rust in Practice: Performance, Pitfalls, Profiling - The New Stack](https://thenewstack.io/async-rust-in-practice-performance-pitfalls-profiling/)
 [Intro to async/.await in Rust - YouTube](https://www.youtube.com/watch?v=K8LNPYNvT-U)
 
 [futures - Rust](http://alexcrichton.com/futures-rs/futures/index.html)
@@ -1041,7 +1061,7 @@ async fn my_function(i: i32) {
 [Embassy](https://embassy.dev/)
 [embassy-rs/embassy: Modern embedded framework, using Rust and async.](https://github.com/embassy-rs/embassy)
 
-[miselin/rustic: Rustic Embedded Framework](https://github.com/miselin/rustic) Rust framework for embedded system, inactive
+[miselin/rustic: Rustic Embedded Framework](https://github.com/miselin/rustic) Rust framework for embedded system, 😴inactive
 [Program the real world using Rust on Raspberry Pi | Opensource.com](https://opensource.com/article/19/3/physical-computing-rust-raspberry-pi)
 
 [Tock Embedded Operating System](https://www.tockos.org/)

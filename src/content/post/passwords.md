@@ -52,10 +52,11 @@ tags:
 [10 best password manager apps for Android - Android Authority](https://www.androidauthority.com/best-password-manager-apps-android-353684/)
 [1Password has none, KeePass has none... So why are there seven embedded trackers in the LastPass Android app? • The Register](https://www.theregister.com/2021/02/25/lastpass_android_trackers_found/)
 
-[Pass: The Standard Unix Password Manager](https://www.passwordstore.org/)
+[Pass: The Standard Unix Password Manager](https://www.passwordstore.org/) uses GnuPG under the hood
 [How to Use Pass, the Ultimate Open-Source Password Manager](http://www.makeuseof.com/tag/use-pass-ultimate-open-source-password-manager/)
 [Secret Pass » Linux Magazine](http://www.linux-magazine.com/Issues/2018/215/Pass-Password-Manager)
 [Manage your passwords in the Linux terminal | Opensource.com](https://opensource.com/article/22/1/manage-passwords-linux-terminal)
+[This is perhaps my favorite password manager for the terminal - YouTube](https://www.youtube.com/watch?v=FhwsfH2TpFA)
 
 [LastPass](https://lastpass.com/)
 [The Beginner's Guide to Setting Up LastPass](http://lifehacker.com/the-beginners-guide-to-setting-up-lastpass-1785424440)

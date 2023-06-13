@@ -45,7 +45,7 @@ First data, logs or events triggered by applications and services, must be colle
 
 [Introducing Application Insights Analytics | Brian Harry's blog](https://blogs.msdn.microsoft.com/bharry/2016/03/28/introducing-application-analytics/)
 
-[Apache Hadoop Ecosystem and Open Source Big Data Projects | Hortonworks](https://hortonworks.com/ecosystems/) !important
+[Apache Hadoop Ecosystem and Open Source Big Data Projects | Hortonworks](https://hortonworks.com/ecosystems/) ❗!important
 
 [4 free maths courses to do in quarantine and level up your Data Science skills | by Gonzalo Ferreiro Volpi | Towards Data Science](https://towardsdatascience.com/4-free-maths-courses-to-do-in-quarantine-and-level-up-your-data-science-skills-f815daca56f7?source=friends_link&sk=e21d4439fe6e60160c25668377f66936)
 [Machine Learning and Data Science free online courses to do in quararantine | Towards Data Science](https://towardsdatascience.com/machine-learning-free-online-courses-from-beginner-to-advanced-f50982dce950)
@@ -145,7 +145,7 @@ Streaming pipeline:
 
 [Apache Beam](https://beam.apache.org/)
 [Apache Beam - Wikiwand](https://www.wikiwand.com/en/Apache_Beam)
-stream API to abstract streaming warehouse, abstracts Flink, Spark, Dataflow  
+stream API to abstract streaming warehouse, abstracts Flink, Spark, Dataflow
 Beam is introducing a framework through which APIs in languages other than Java can be supported, and Python is the first one.
 
 ## Batch Architecture
@@ -343,6 +343,12 @@ Beam is introducing a framework through which APIs in languages other than Java 
 
 [AugLy: A new data augmentation library to help build more robust AI models](https://ai.facebook.com/blog/augly-a-new-data-augmentation-library-to-help-build-more-robust-ai-models/)
 [facebookresearch/AugLy: A data augmentations library for audio, image, text, and video.](https://github.com/facebookresearch/AugLy)
+
+## Data Build Tool/dbt
+
+[What is dbt? | dbt Developer Hub](https://docs.getdbt.com/docs/introduction)
+
+[Transform Your Data Like a Pro With dbt (Data Build Tool) - DEV Community](https://dev.to/grayhat/transform-your-data-like-a-pro-with-dbt-data-build-tool-39kd)
 
 ## DataStation
 

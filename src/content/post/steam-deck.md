@@ -117,21 +117,33 @@ Gaming On Linux
 [Steam Deck Emulation Starter Guide – Retro Game Corps](https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/)
 [The New EmuDeck is Here! Steam Deck Emulation Guide - YouTube](https://www.youtube.com/watch?v=Y5r2WZAImuY) 2023-04, EmuDeck 2.1, upgrade, EmulationStation
 [Steam Deck Emulation Testing -- Six Months Later! - YouTube](https://www.youtube.com/watch?v=BBf15Z2xoiY) 2022-09
-[How to install EmuDeck 2 and RetroDeck on the Steam Deck](https://overkill.wtf/emulation-nintendo-sony-steam-deck/)
 
 Fan The Deck
+[Switch Emulation (Yuzu) Guide for the Steam Deck - YouTube](https://www.youtube.com/watch?v=EimnTPVIj2U) 2022-03
+[Emulation MEGA Guide for Steam Deck (feat. EmuDeck) - YouTube](https://www.youtube.com/watch?v=AvzSHxccmIg) 2022-06 Yuzu folders, PS3 settings
+[Steam Deck Emulation - EVERY New Switch Exclusive Tested - YouTube](https://www.youtube.com/watch?v=A09_2yy5f2o) 2023-01, EmuDeck, Yuzu
 [ULTIMATE Steam Deck Emulation Guide (EmuDeck 2.1) - YouTube](https://www.youtube.com/watch?v=Mfef3ZH2IgE) 2023-04
-[Switch Emulation (Yuzu) Guide for the Steam Deck - YouTube](https://www.youtube.com/watch?v=EimnTPVIj2U) 2023-05
+
+[How to install EmuDeck 2 and RetroDeck on the Steam Deck](https://overkill.wtf/emulation-nintendo-sony-steam-deck/)
+[Nintendo Switch Emulation on Steam Deck: How to run Yuzu](https://overkill.wtf/how-to-setup-yuzu-for-steam-deck/)
+[Nintendo Switch Emulation: How to run Ryujinx on Steam Deck](https://overkill.wtf/ryujinx-steam-deck/)
 
 [Take down this video, Nintendo. I dare you. - Switch games on Steam Deck - YouTube](https://www.youtube.com/watch?v=oIYvPNtWZ34) Yuzu, high GPU mode no longer needed in 2023-05
 
 [This Could Replace Every Device I Own - Massive Steam Deck Emulation Review - YouTube](https://www.youtube.com/watch?v=z3ovleZj65Y) 2022-10
+[Massive Steam Deck Emulation Upgrade! The Best EMU Hand Held You Can Get - YouTube](https://www.youtube.com/watch?v=AuJ5_aqsvt8) 2022-09
 
-[Massive Steam Deck Emulation Upgrade! The Best EMU Hand Held You Can Get - YouTube](https://www.youtube.com/watch?v=AuJ5_aqsvt8)
-[How to install EmuDeck 2 and RetroDeck on the Steam Deck](https://overkill.wtf/emulation-nintendo-sony-steam-deck/)
-
-[Ditch your Switch for a Steam Deck! Emulation Performance MAXIMIZED. - YouTube](https://www.youtube.com/watch?v=0__el4VrTVY) settings
+[Ditch your Switch for a Steam Deck! Emulation Performance MAXIMIZED. - YouTube](https://www.youtube.com/watch?v=0__el4VrTVY) 2022-12, CryoByte33, EmuDeck+yuzu, settings
 [STEAM DECK 安裝 EMUDECK 教學，讓掌機變成模擬器! - 吹著魔笛的浮士德](https://h9856.gameqb.net/2022/12/20/steam-deck-install-emudeck-howto/)
 [How To Play Nintendo DS Games On Steam Deck Using EmuDeck & melonDS/RetroArch - YouTube](https://www.youtube.com/watch?v=LvMBlECp_J8)
 
 [Emulation - YouTube](https://www.youtube.com/playlist?list=PLMVW9kBhJJjI3PuvRcDaWuVWQcfA5Phwz)
+
+### scp commands
+
+There seems to be a limit of ~5MBps on my TF card and Wifi network. Better use USB card reader to large ROM transfer.
+
+```sh
+scp -o PreferredAuthentications=password -o PubkeyAuthentication=no <file> deck@192.168.50.75:/run/media/mmcblk0p1/Emulation/roms/switch
+scp -o PreferredAuthentications=password -o PubkeyAuthentication=no <file> deck@192.168.50.75:/run/media/mmcblk0p1/Emulation/roms/wiiu/roms
+```

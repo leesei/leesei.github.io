@@ -25,7 +25,6 @@ Awesome list is a project start
 [jondot/awesome-devenv: A curated list of awesome tools, resources and workflow tips making an awesome development environment.](https://github.com/jondot/awesome-devenv)
 [JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
 
-[awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted)
 [n1trux/awesome-sysadmin: A curated list of amazingly awesome open source sysadmin resources.](https://github.com/n1trux/awesome-sysadmin)
 [Awesome SysAdmin](https://sysadmin.libhunt.com/)
 [veggiemonk/awesome-docker: A curated list of Docker resources and projects](https://github.com/veggiemonk/awesome-docker)

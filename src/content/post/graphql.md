@@ -14,9 +14,13 @@ tags:
 [GraphQL Code Libraries, Tools and Services](https://graphql.org/code/)
 
 [Initial Impressions on GraphQL & Relay | Kadira Blog](https://kadira.io/blog/graphql/initial-impression-on-relay-and-graphql)
-[OData or GraphQL? The Best Tech for Developing an API Is Neither or Both! - The New Stack](https://thenewstack.io/odata-or-graphql-the-best-tech-for-developing-an-api-is-neither-or-both/)
 [GraphQL is the New API Gateway - Level Up Coding](https://levelup.gitconnected.com/graphql-is-the-new-api-gateway-383edeed4bcd)
 [Understand GraphQL in 5 minutes - Je suis un dev](https://www.jesuisundev.com/en/understand-graphql-in-5-minutes/)
+[What is GraphQL: A Comprehensive Guide | Cosmic](https://www.cosmicjs.com/blog/what-is-graphql)
+
+[The Shape of Things to Come: GraphQL and the Web of APIs - The New Stack](https://thenewstack.io/the-shape-of-things-to-come-graphql-and-the-web-of-apis/)
+[What GraphQL Can Learn from Databases - The New Stack](https://thenewstack.io/what-graphql-can-learn-from-databases/)
+[OData or GraphQL? The Best Tech for Developing an API Is Neither or Both! - The New Stack](https://thenewstack.io/odata-or-graphql-the-best-tech-for-developing-an-api-is-neither-or-both/)
 
 [GraphQL: The Documentary - YouTube](https://www.youtube.com/watch?v=783ccP__No8)
 [GraphQL Beyond the Spec | pragmaticlead.com](https://pragmaticlead.com/posts/graphql-beyond-the-spec)
@@ -60,7 +64,7 @@ Playground
 [Public GraphQL APIs | graphql-apis](http://apis.guru/graphql-apis/)
 
 [Fullstack GraphQL Tutorial Series | Learn GraphQL Frontend and Backend](https://hasura.io/learn/)
-[Course Introduction | GraphQL React Native Apollo Tutorial](https://hasura.io/learn/graphql/react-native/introduction/) !important
+[Course Introduction | GraphQL React Native Apollo Tutorial](https://hasura.io/learn/graphql/react-native/introduction/) ❗!important
 
 [Introduction to GraphQL | GraphQL](http://graphql.org/learn/)
 [How to GraphQL - The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
@@ -129,6 +133,8 @@ Playground
 [Does GraphQL replace REST API ? - DEV Community 👩‍💻👨‍💻](https://dev.to/pratham10/does-graphql-replace-rest-api--50fm)
 [GraphQL and REST | Secret Weblog](http://blog.startifact.com/posts/graphql-and-rest.html)
 
+[GraphQL Hard Truths - YouTube](https://www.youtube.com/watch?v=qgdiLcD2RL8) GraphQL frontend not using Relay is inferior as Relay does a lot of query optimization and caching; however Relay is difficult to setup
+
 ### Specs
 
 [GraphQL Specification Versions](https://spec.graphql.org/)
@@ -169,7 +175,7 @@ Playground
 
 [GraphQL Inspector - Validate schemas, detect changes, receive schema change notifications on Slack and Discord. Validate documents, find similar types, get schema coverage.](https://graphql-inspector.com/)
 
-[GraphQL Code Generator · Generate code from your GraphQL schema with a single function call](https://graphql-code-generator.com/) !important, supports various clients
+[GraphQL Code Generator · Generate code from your GraphQL schema with a single function call](https://graphql-code-generator.com/) ❗!important, supports various clients
 [What is GraphQL Code Generator? | GraphQL Code Generator](https://www.graphql-code-generator.com/docs/getting-started/index)
 [Optimizing Queries with the GraphQL Code Generator - The Guild - Medium](https://medium.com/the-guild/optimizing-queries-with-the-graphql-code-generator-b8c37d692857)
 
@@ -273,7 +279,7 @@ const server = new ApolloServer({
 });
 ```
 
-[GraphQL Server Tutorial with Apollo Server and Express - RWieruch](https://www.robinwieruch.de/graphql-apollo-server-tutorial/) !important, with auth
+[GraphQL Server Tutorial with Apollo Server and Express - RWieruch](https://www.robinwieruch.de/graphql-apollo-server-tutorial/) ❗!important, with auth
 [Creating a GraphQL server with NodeJS – Crowdbotics – Medium](https://medium.com/crowdbotics/creating-a-graphql-server-with-nodejs-ef9814a7e0e6)
 [Automated TypeScript typing with GraphQL & Apollo - ITNEXT](https://itnext.io/automated-typescript-typing-with-graphql-apollo-4ee2a92c2fda)
 [End-to-end type safety with Next.js, Prisma, and GraphQL - LogRocket Blog](https://blog.logrocket.com/end-to-end-type-safety-nextjs-prisma-graphql/)
@@ -376,7 +382,7 @@ graphql, apollo-server-hapi
 [Graphile | Powerful, Extensible and Performant GraphQL APIs Rapidly](https://www.graphile.org/postgraphile/)
 [graphile/postgraphile: Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!](https://github.com/graphile/postgraphile)
 
-[Rapid API development tutorial with Docker + PostgreSQL + Postgraphile](https://medium.com/coderbunker/rapid-api-development-tutorial-with-docker-postgresql-postgraphile-e387c1c73dd8) !important
+[Rapid API development tutorial with Docker + PostgreSQL + Postgraphile](https://medium.com/coderbunker/rapid-api-development-tutorial-with-docker-postgresql-postgraphile-e387c1c73dd8) ❗!important
 [PostGraphQL: PostgreSQL meets GraphQL](https://www.compose.com/articles/postgraphql-postgresql-meets-graphql/)
 
 ### Graphene
@@ -389,7 +395,7 @@ Graphene Python is built upon GraphQL-core, which is a Python port of GraphQL.js
 [Testing GraphQL API in python - Data Driven Investor - Medium](https://medium.com/datadriveninvestor/testing-graphql-api-in-python-3136034e18c5)
 [Graphene-Django](https://docs.graphene-python.org/projects/django/en/latest/)
 
-[Using GraphQL or REST, that is the question | Seasoned & Agile](https://cito.github.io/blog/shakespeare-with-graphql/) !important, Python, async, PostgreSQL, GraphQL-core-next
+[Using GraphQL or REST, that is the question | Seasoned & Agile](https://cito.github.io/blog/shakespeare-with-graphql/) ❗!important, Python, async, PostgreSQL, GraphQL-core-next
 
 ### Tartiflette
 
@@ -509,7 +515,7 @@ Graphene Python is built upon GraphQL-core, which is a Python port of GraphQL.js
 ### Relay (Modern)
 
 [Relay](https://relay.dev/)
-[Learn Relay](https://www.learnrelay.org/) !important
+[Learn Relay](https://www.learnrelay.org/) ❗!important
 
 [Exploring Relay Modern – Apollo GraphQL](https://dev-blog.apollodata.com/exploring-relay-modern-276f5965f827)
 [Relay Modern: Simpler, faster, more extensible | Engineering Blog | Facebook Code](https://code.facebook.com/posts/1362748677097871) re-release in 2017-04

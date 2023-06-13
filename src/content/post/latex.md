@@ -58,9 +58,10 @@ tags:
 [KaTeX and MathJax Comparison Demo, currently processed as KaTex](https://www.intmath.com/cg5/katex-mathjax-comparison.php)
 [KaTeX vs MathJax · jsPerf](http://jsperf.com/katex-vs-mathjax)
 
-## Postscript
+## PostScript
 
 [LaTeX, PostScript, and PDF](http://www.let.rug.nl/alfa/tex/lpp.php)
+[Programming in PostScript - Computerphile - YouTube](https://www.youtube.com/watch?v=S_NXz7I5dQc)
 [Why do people still use Postscript? - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/217511/why-do-people-still-use-postscript)
 [comparison of latex with postscript - Stack Overflow](https://stackoverflow.com/questions/12445541/comparison-of-latex-with-postscript)
 PDF is PostScript instructions

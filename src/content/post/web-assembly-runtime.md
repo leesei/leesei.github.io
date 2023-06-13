@@ -27,6 +27,18 @@ tags:
 
 [bytecodealliance/wizer: The WebAssembly Pre-Initializer](https://github.com/bytecodealliance/wizer) for faster startup of WASM program
 
+### SDK
+
+[WebAssembly/wasi-sdk: WASI-enabled WebAssembly C/C++ toolchain](https://github.com/WebAssembly/wasi-sdk)
+[Package wasi-sdk](https://github.com/WebAssembly/wasi-sdk/pkgs/container/wasi-sdk)
+
+### WASIX
+
+[WASIX - The Superset of WASI](https://wasix.org/)
+
+[Announcing WASIX](https://wasmer.io/posts/announcing-wasix)
+[New Wasm Platform And Standard WASIX?? - YouTube](https://www.youtube.com/watch?v=d94s2z6S130)
+
 ## Package Manager
 
 [WASM Components: The Interchangeable Parts of Software - YouTube](https://www.youtube.com/watch?v=ZxEqvtGUGLY)

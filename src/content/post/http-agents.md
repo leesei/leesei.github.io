@@ -13,11 +13,12 @@ tags:
   - web
   - web-dev
   - wget
+  - xh
 ---
 
 [Intercept, debug & mock HTTP with HTTP Toolkit](https://httptoolkit.tech/)
 
-## Mimickingg Cross Origin Request
+## Mimicking Cross Origin Request
 
 ```sh
 curl -H "Origin: http://example.com" --verbose \
@@ -132,6 +133,28 @@ wget -r -l inf -nH -np -k -c -U "${SCRIPT_NAME}" ${URL}
 wget -P./download -i list.txt
 ```
 
+## xh
+
+[ducaale/xh: Friendly and fast tool for sending HTTP requests](https://github.com/ducaale/xh)
+[HTTPie feature parity checklist · Issue #4 · ducaale/xh · GitHub](https://github.com/ducaale/xh/issues/4)
+
+It's a reimplementation of `httpie`:
+
+- prints header and response by default
+- written in Rust, should be faster
+
+```sh
+# wget replacement
+xh --download URL
+
+# automatically uses POST
+xh URL foo=bar number:=7 query==value
+# headers
+xh URL header:value remove-header: header-without-value;
+
+xh --session session.json URL
+```
+
 ## httpie
 
 HTTP client for CLI, more sensible than cURL
@@ -230,7 +253,7 @@ httrack -c8 [url]
 
 [REST Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
-[Show request headers as well as response · Issue #99 · Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient/issues/99#issuecomment-332139174)  
+[Show request headers as well as response · Issue #99 · Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient/issues/99#issuecomment-332139174)
 Set `previewOption` to `exchange` (default `full`) to view requests
 
 [I Abandoned Postman for This NEW VS Code Extension | Build, Test & Sell APIs 🤑 - YouTube](https://www.youtube.com/watch?v=MTrj3tNf9jA)
@@ -332,6 +355,79 @@ asynchronous client library that supports HTTP/1.1 and HTTP/2
 [hazbo/httpu: The terminal-first http client](https://github.com/hazbo/httpu)
 
 [antoinechalifour/memento: Memento is a development-only tool that caches HTTP calls once they have been executed.](https://github.com/antoinechalifour/memento)
+
+# Load Testing
+
+[Load Testing: An Unorthodox Guide](https://www.marcobehler.com/guides/load-testing)
+
+[Locust - A modern load testing framework](https://locust.io/) Python
+[alteryx/locust-grasshopper: a load testing tool extended from locust](https://github.com/alteryx/locust-grasshopper)
+[Introducing Grasshopper - An Open Source Python Library for Load Testing](https://innovation.alteryx.com/introducing-grasshopper-an-open-source-python-library-for-load-testing/)
+
+[fcsonline/drill: Drill is an HTTP load testing application written in Rust](https://github.com/fcsonline/drill)
+[codesenberg/bombardier: Fast cross-platform HTTP benchmarking tool written in Go](https://github.com/codesenberg/bombardier)
+[h2load - HTTP/2 benchmarking tool - HOW-TO — nghttp2 documentation](https://nghttp2.org/documentation/h2load-howto.html)
+[mcollina/autocannon: fast HTTP/1.1 benchmarking tool written in Node.js](https://github.com/mcollina/autocannon)
+[hatoo/oha: Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.](https://github.com/hatoo/oha)
+
+[k6.io - Performance testing for developers, like unit-testing, for performance](https://k6.io/)
+[grafana/k6: A modern load testing tool, using Go and JavaScript - https://k6.io](https://github.com/grafana/k6)
+
+[SmokePing - About SmokePing](http://oss.oetiker.ch/smokeping/index.en.html) deluxe latency measurement tool
+[Smokeping on Nginx](http://tomoconnor.eu/blogish/smokeping-nginx/)
+
+[ab - Apache HTTP server benchmarking tool - Apache HTTP Server](https://httpd.apache.org/docs/current/programs/ab.html)
+Use `ab -k` (keepalive) to avoid testing connections (kernel responsibility)
+[Simultaneously benchmark many URLs with ApacheBench and GNU parallel · Simon Holywell](https://www.simonholywell.com/post/2015/06/parallel-benchmark-many-urls-with-apachebench/)
+
+[alexfernandez/loadtest: Runs a load test on the selected URL. Easy to extend minimally for your own ends.](https://github.com/alexfernandez/loadtest) Node.js
+[wg/wrk: Modern HTTP benchmarking tool](https://github.com/wg/wrk) 😴inactive
+[giltene/wrk2: A constant throughput, correct latency recording variant of wrk](https://github.com/giltene/wrk2) 😴inactive
+[rakyll/hey: HTTP load generator, ApacheBench (ab) replacement](https://github.com/rakyll/hey) 😴inactive
+
+## Gatling
+
+[Gatling - Professional Load Testing Tool](https://gatling.io/)
+[gatling/gatling: Modern Load Testing as Code](https://github.com/gatling/gatling)
+[Gatling - Reference](https://gatling.io/docs/gatling/reference/current/)
+[52-technologies-in-2016/10-gatling](https://github.com/shekhargulati/52-technologies-in-2016/blob/master/10-gatling/README.md)
+[Load Testing APIs and Websites with Gatling: It’s Never Too Late to Get Started](https://www.infoq.com/articles/load-testing-apis-gatling/)
+[Gatling vs JMeter - What to Use for Performance Testing](https://www.infoq.com/articles/performance-testing/)
+
+[Stresstests with Gatling by Niko Köbler - YouTube](https://www.youtube.com/watch?v=gOZvtBYzIVc)
+[Stéphane Landelle - Load Testing Done Right with Gatling - YouTube](https://www.youtube.com/watch?v=VUPTaPms210)
+
+```scala
+import io.gatling.core.Predef._
+import io.gatling.http.Predef._
+import scala.concurrent.duration._
+
+class ParameterizedSimulation extends Simulation {
+  val url = System.getenv("GATLING_URL")
+  val requests = Integer.parseInt(System.getenv("GATLING_REQUESTS"))
+  val users = Integer.parseInt(System.getenv("GATLING_USERS"))
+  val reqs_per_user = requests / users
+  val rampTime = Integer.parseInt(System.getenv("GATLING_RAMP_TIME"))
+  val scn = scenario("My scenario").repeat(reqs_per_user) {
+    exec(
+      http("Dinosaur")
+        .get(url)
+        .check(status.in(Seq(200,304)))
+    )
+  }
+
+  setUp(scn.inject(rampUsers(users) over (rampTime seconds)))
+}
+```
+
+```sh
+./gatling.sh -s <class> -on <result-basename> -rd <description>
+```
+
+## OpenReplay
+
+[OpenReplay | Open-Source Session Replay](https://openreplay.com/)
+[openreplay/openreplay: OpenReplay is developer-friendly, open-source session replay.](https://github.com/openreplay/openreplay)
 
 # Dumping HTTP request/response
 

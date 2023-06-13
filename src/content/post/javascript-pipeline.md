@@ -70,7 +70,7 @@ Bundling and transpiling is a solved problem in 2023. We went from writing build
 [Skypack: search millions of open source JavaScript packages](https://www.skypack.dev/) ESM
 [ESM>CDN](https://esm.sh/) allows aliasing, ESM
 [jsDelivr - A free, fast, and reliable CDN for JS and open source](https://www.jsdelivr.com/) good for Asia, CJS, ESM
-[Hosted Libraries  |  Google Developers](https://developers.google.com/speed/libraries/)
+[Hosted Libraries | Google Developers](https://developers.google.com/speed/libraries/)
 [cdnjs - The #1 free and open source CDN built to make life easier for developers](https://cdnjs.com/) CloudFlare
 [Microsoft Ajax Content Delivery Network Assets | Microsoft Learn](https://learn.microsoft.com/en-us/aspnet/ajax/cdn/overview)
 [Official CDN of Bootstrap and Font Awesome · BootstrapCDN](https://www.bootstrapcdn.com/) MaxCDN
@@ -105,28 +105,7 @@ Vite and Next.js replaced it with more features
 
 ---
 
-# Vite
-
-[Home | Vite](https://vitejs.dev/)
-[Getting Started | Vite](https://vitejs.dev/guide/)
-[Comparisons with Other No-Bundler Solutions | Vite](https://vitejs.dev/guide/comparisons.html)
-[vitejs/vite: Next generation frontend tooling. It's fast!](https://github.com/vitejs/vite)
-[Vite and VitePress - Evan You - YouTube](https://www.youtube.com/watch?v=xXrhg26VCSc)
-
-[vitejs/awesome-vite: ⚡️ A curated list of awesome things related to Vite.js](https://github.com/vitejs/awesome-vite)
-[templates - vitejs/awesome-vite: ⚡️ A curated list of awesome things related to Vite.js](https://github.com/vitejs/awesome-vite#templates)
-
-- native ESM for dev
-- pre-configured Rollup build for production
-- support Rollup plugin
-- different templates  
-  [vite/packages/create-app at main · vitejs/vite](https://github.com/vitejs/vite/tree/main/packages/create-app)
-  `npm init vite@latest vite-project --template react`
-
-[Vite + **\_\_\_\_\_** | CSS-Tricks - CSS-Tricks | CSS-Tricks](https://css-tricks.com/vite-plus-blank/)
-
-[A deep-dive on Vite featuring Evan You (JS Party #212) |> Changelog](https://changelog.com/jsparty/212)
-[Vitest && Slidev with Anthony Fu && Patak (JS Party #214) |> Changelog](https://changelog.com/jsparty/214)
+[[vite]]
 
 # esbuild
 

@@ -8,8 +8,8 @@ tags:
 
 [Adding Custom GitHub Badges to Your Repo | CSS-Tricks - CSS-Tricks](https://css-tricks.com/adding-custom-github-badges-to-your-repo/)
 
-[GitHub Badge](http://githubbadge.appspot.com/)
 [bevacqua/awesome-badges: Awesome, badges!](https://github.com/bevacqua/awesome-badges)
+[SpaceBadgers](https://badgers.space/)
 [Shields.io: Quality metadata badges for open source projects](http://shields.io/) one stop shop for badges
 [What is Flair? - Help Center - Stack Overflow](https://stackoverflow.com/help/flair)
 [Badgen - Fast badge generating service](https://badgen.net/)

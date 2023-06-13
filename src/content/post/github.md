@@ -155,7 +155,12 @@ rm -rf node_modules/gh-pages/.cache
 
 [GitHub Copilot Archives | The GitHub Blog](https://github.blog/tag/github-copilot/)
 [How I used GitHub Copilot to build a browser extension | The GitHub Blog](https://github.blog/2023-05-12-how-i-used-github-copilot-to-build-a-browser-extension/)
+
+### Rizèl Scarlett
+
+[How to build a rock, paper, scissors game with GitHub Copilot - DEV Community](https://dev.to/github/how-to-build-a-rock-paper-scissors-game-with-github-copilot-1flo)
 [blackgirlbytes/rock-paper-scissors-copilot: This is a self-guided tutorial to help folks learn how to use GitHub Copilot using the CodeTour extension to build a rock, paper, scissors game](https://github.com/blackgirlbytes/rock-paper-scissors-copilot)
+[A Beginner's Guide to Prompt Engineering with GitHub Copilot - DEV Community](https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp)
 
 ### Copilot Labs
 
@@ -207,6 +212,8 @@ Put YAML in `.github/workflows/`
 [actions-rs](https://github.com/actions-rs?type=source)
 
 [starter-workflows/dotnet-core.yml at master · actions/starter-workflows · GitHub](https://github.com/actions/starter-workflows/blob/master/ci/dotnet-core.yml)
+
+[Trusted Publishing; how to publish to PyPI with Github Actions](https://pgjones.dev/blog/trusted-plublishing-2023/)
 
 [How to build and push Docker image with GitHub actions? - Event-Driven.io](https://event-driven.io/en/how_to_buid_and_push_docker_image_with_github_actions/)
 [Ramblings from Jessie: The Life of a GitHub Action](https://blog.jessfraz.com/post/the-life-of-a-github-action/)

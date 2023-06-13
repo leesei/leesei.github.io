@@ -24,7 +24,7 @@ tags:
 [FREE WiFi Site Survey Software for MAC OS X & Windows](https://www.netspotapp.com/)
 [Get WiFi Analyzer - Microsoft Store](https://www.microsoft.com/en-us/p/wifi-analyzer/9nblggh33n0n?activetab=pivot%3Aoverviewtab)
 
-[Wi-Fi now has version numbers, and Wi-Fi 6 comes out next year - The Verge](https://www.theverge.com/2018/10/3/17926212/wifi-6-version-numbers-announced)  
+[Wi-Fi now has version numbers, and Wi-Fi 6 comes out next year - The Verge](https://www.theverge.com/2018/10/3/17926212/wifi-6-version-numbers-announced)
 [802.11: Wi-Fi standards and speeds explained | Network World](https://www.networkworld.com/article/3238664/wi-fi/80211-wi-fi-standards-and-speeds-explained.html)
 Wi-Fi 1: 802.11b (1999)
 Wi-Fi 2: 802.11a (1999)

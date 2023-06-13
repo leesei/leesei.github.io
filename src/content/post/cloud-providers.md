@@ -231,7 +231,10 @@ deploy container, Node.js app, database
 ## Fly.io
 
 [Deploy app servers close to your users · Fly](https://fly.io/) edge computing, deploy containers, supports Remix
+
 [fly-apps/edge-apollo-cache: Run and cache results from your Apollo GraphQL server on the edge with Fly](https://github.com/fly-apps/edge-apollo-cache)
+
+[NO OPS Application Deployment For FREE! // You want to know Fly.io! - YouTube](https://www.youtube.com/watch?v=0eP98xkLj9w)
 
 ## CloudFlare
 

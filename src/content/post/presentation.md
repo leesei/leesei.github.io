@@ -63,6 +63,8 @@ docker run --rm -t --net=host -v $(pwd):/slides astefanutti/decktape http://loca
 [Polacode - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 [CodeSnap - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
 
+[Create beautiful images of your code](https://ray.so/)
+
 [PowerLine -- A free HMTL/SVG Slideshow Creator with LaTex Support](https://suchanek.name/programs/powerline/)
 
 [fgiris/composePPT: An experimental UI toolkit for generating PowerPoint presentation files using Compose](https://github.com/fgiris/composePPT) Kotlin, experimental

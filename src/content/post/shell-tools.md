@@ -72,6 +72,8 @@ tags:
 
 [CZ-NIC/pz: Easily handle day to day CLI operation via Python instead of regular Bash programs.](https://github.com/CZ-NIC/pz)
 
+[uutils/coreutils: Cross-platform Rust rewrite of the GNU coreutils](https://github.com/uutils/coreutils)
+
 [hollywood.computer](https://a.hollywood.computer/)
 
 ## The Art of CLI
@@ -109,7 +111,7 @@ tags:
 
 [maaslalani/nap: Code snippets in your terminal](https://github.com/maaslalani/nap)
 
-## user management
+## User management
 
 > Ubuntu has an `adduser` wrapper to `useradd`
 
@@ -414,11 +416,14 @@ diff --changed-group-format='%>' --unchanged-group-format='' FILE1 FILE2
 
 ```sh
 vimdiff <(xxd file1) <(xxd file2)
+code -diff file1 file2
 ```
 
 [so-fancy/diff-so-fancy: Good-lookin' diffs. Actually… nah… The best-lookin' diffs.](https://github.com/so-fancy/diff-so-fancy)
 [diffsitter — command-line utility in Rust // Lib.rs](https://lib.rs/crates/diffsitter)
 [Wilfred/difftastic: a diff that understands syntax 🟥🟩](https://github.com/Wilfred/difftastic)
+
+[madsen/vbindiff: Visual Binary Diff (VBinDiff) displays files in hex & ASCII and can highlight the differences between 2 files](https://github.com/madsen/vbindiff)
 
 ## Text Searching
 
@@ -553,8 +558,11 @@ fortune | cowsay -f stegosaurus
 
 [simeji/jid: json incremental digger](https://github.com/simeji/jid) interactive filter with autocomplete
 
-[lloyd/JSONSelect: CSS-like selectors for JSON](https://github.com/lloyd/JSONSelect) inactive
-[dtao/gquery: Generic jQuery](https://github.com/dtao/gquery) inactive
+[lloyd/JSONSelect: CSS-like selectors for JSON](https://github.com/lloyd/JSONSelect) 😴inactive
+[dtao/gquery: Generic jQuery](https://github.com/dtao/gquery) 😴inactive
+
+[jpmens/jo: JSON output from a shell](https://github.com/jpmens/jo)
+[Jan-Piet Mens :: A shell command to create JSON: jo](https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/)
 
 ### Python
 
@@ -576,8 +584,9 @@ fortune | cowsay -f stegosaurus
 
 [jiq - JSON Incremental jq-filterer](https://jq.alhur.es/jiq/)
 [fiatjaf/jiq: jid on jq - interactive JSON query tool using jq expressions](https://github.com/fiatjaf/jiq)
+[noahgorstein/jqp: A TUI playground to experiment with jq](https://github.com/noahgorstein/jqp)
 
-[joelpurra/jqnpm: A package manager built for the command-line JSON processor jq.](https://github.com/joelpurra/jqnpm) inactive
+[joelpurra/jqnpm: A package manager built for the command-line JSON processor jq.](https://github.com/joelpurra/jqnpm) 😴inactive
 
 [jq/builtin.jq at master · stedolan/jq](https://github.com/stedolan/jq/blob/master/src/builtin.jq)
 [FAQ · stedolan/jq Wiki](https://github.com/stedolan/jq/wiki/FAQ#numbers)
@@ -646,6 +655,8 @@ tocsv(.)
 
 ## Toolbelt
 
+[These Modern Linux Tools Will BLOW YOUR MIND - YouTube](https://www.youtube.com/watch?v=530qqHOGesg)
+
 [ericfreese/rat: Compose shell commands to build interactive terminal applications](https://github.com/ericfreese/rat)
 [danielstjules/pjs](https://github.com/danielstjules/pjs)
 Perl for regex
@@ -653,7 +664,9 @@ fd
 grep
 ripgrep (rg)
 sed
+[chmln/sd: Intuitive find & replace CLI (sed alternative)](https://github.com/chmln/sd)
 tr
 [csvkit 1.0.3 — csvkit 1.0.3 documentation](https://csvkit.readthedocs.io/en/1.0.3/)
 [q - Text as Data](https://harelba.github.io/q/)
 [sahib/rmlint: Extremely fast tool to remove duplicates and other lint from your filesystem](https://github.com/sahib/rmlint)
+[johnkerl/miller: Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON](https://github.com/johnkerl/miller)

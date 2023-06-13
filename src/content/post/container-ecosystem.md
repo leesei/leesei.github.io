@@ -26,7 +26,7 @@ tags:
 
 [Inside the Linux Container Ecosystem - Online Edition](https://www.sdxcentral.com/reports/linux-container-ecosystem/)
 [4 container design patterns for Kubernetes | by Daniele Polencic | Feb, 2023 | ITNEXT](https://itnext.io/4-container-design-patterns-for-kubernetes-a8593028b4cd)
-[The Docker Ecosystem | DigitalOcean](https://www.digitalocean.com/community/tutorial_series/the-docker-ecosystem) !important, 2015-01
+[The Docker Ecosystem | DigitalOcean](https://www.digitalocean.com/community/tutorial_series/the-docker-ecosystem) ❗!important, 2015-01
 [Sysdig | The Container Ecosystem Project](https://sysdig.com/blog/the-container-ecosystem-project/) 2015-10
 [Docker Ecosystem Rosetta Stones – zwischenzugs](https://zwischenzugs.com/2015/12/22/docker-ecosystem-rosetta-stones/) 2015-12
 [Open Container Ecosystem - MindMeister Mind Map](https://www.mindmeister.com/389671722/docker-ecosystem)
@@ -49,7 +49,7 @@ tags:
 [Top Docker alternatives for 2022 - LogRocket Blog](https://blog.logrocket.com/top-docker-alternatives-2022/)
 [Docker is so cool...until it's not | Theodo](https://blog.theodo.com/2023/01/Docker-is-so-cool-until-it-is-not/)
 
-[A journey from containerization to orchestration and beyond](https://iximiuz.com/en/posts/journey-from-containerization-to-orchestration-and-beyond/) !important, history and development of tools
+[A journey from containerization to orchestration and beyond](https://iximiuz.com/en/posts/journey-from-containerization-to-orchestration-and-beyond/) ❗!important, history and development of tools
 [Bryan Cantrill on Jails and Solaris Zones - YouTube](https://www.youtube.com/watch?v=hgN8pCMLI2U)
 [The Container Revolution: Reflections After the First Decade - YouTube](https://www.youtube.com/watch?v=xXWaECk9XqM)
 
@@ -173,6 +173,11 @@ root         6  0.0  0.0  17504  1984 ?        R+   00:30   0:00 ps aux
 [containers/podman: Podman: A tool for managing OCI containers and pods.](https://github.com/containers/podman)
 [containers/podman-py: Python bindings for Podman's RESTful API](https://github.com/containers/podman-py)
 
+[Intro to Podman | Red Hat Developer](https://developers.redhat.com/blog/2018/08/29/intro-to-podman)
+[Transitioning from Docker to Podman | Red Hat Developer](https://developers.redhat.com/blog/2020/11/19/transitioning-from-docker-to-podman)
+[Podman basics: Resources for beginners and experts | Red Hat Developer](https://developers.redhat.com/articles/2022/05/02/podman-basics-resources-beginners-and-experts)
+[Podman Desktop 1.0: Local container development made easy | Red Hat Developer](https://developers.redhat.com/articles/2023/05/23/podman-desktop-now-generally-available)
+
 [Replacing Docker with Podman — Power of Podman — Cloudnweb](https://medium.com/@ganeshmani009/replacing-docker-with-podman-power-of-podman-cloudnweb-23cfb7541538)
 [Podman » ADMIN Magazine](http://www.admin-magazine.com/Articles/OCI-containers-with-Podman)
 [Podman can now ease the transition to Kubernetes and CRI-O | Red Hat Developer](https://developers.redhat.com/blog/2019/01/29/podman-kubernetes-yaml)
@@ -227,7 +232,7 @@ echo $(id -un):100000:65536 >> /etc/subgid
 
 ### HPCCM
 
-[NVIDIA/hpc-container-maker: HPC Container Maker](https://github.com/NVIDIA/hpc-container-maker)  
+[NVIDIA/hpc-container-maker: HPC Container Maker](https://github.com/NVIDIA/hpc-container-maker)
 [Building Containers with HPC Container Maker » ADMIN Magazine](http://www.admin-magazine.com/HPC/Articles/HPC-Container-Maker)
 
 ### Tools
@@ -276,8 +281,8 @@ Containerd was released to public in 2015-12, integrated to Docker Engine 1.11 i
 [Docker 1.11 et plus: Engine is now built on runC and containerd — Medium](https://medium.com/@tiffanyfayj/docker-1-11-et-plus-engine-is-now-built-on-runc-and-containerd-a6d06d7e80ef)
 Compared to the Docker Engine, containerd exposes essentially a CRUD interface around containers, using gRPC; while the Engine exposes not only containers, but also images, volumes, networks, builds, etc. using a full-blown HTTP API.
 
-[Open Container Initiative Launches a Container Image Format Spec - The New Stack](http://thenewstack.io/open-container-initiative-launches-container-image-format-spec/)  
-[Containerd 1.0 Release Becomes the Public Face of Containers - The New Stack](https://thenewstack.io/containerd-1-0-release/)  
+[Open Container Initiative Launches a Container Image Format Spec - The New Stack](http://thenewstack.io/open-container-initiative-launches-container-image-format-spec/)
+[Containerd 1.0 Release Becomes the Public Face of Containers - The New Stack](https://thenewstack.io/containerd-1-0-release/)
 [Docker components explained](http://alexander.holbreich.org/docker-components-explained/)
 
 ### Docker in Windows

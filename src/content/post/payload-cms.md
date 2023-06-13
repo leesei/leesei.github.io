@@ -12,6 +12,9 @@ tags:
 [Payload CMS | Node & React TypeScript Headless CMS](https://payloadcms.com/)
 [payloadcms/payload: Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB](https://github.com/payloadcms/payload)
 
+[Let's Checkout... #Payload #CMS - YouTube](https://www.youtube.com/watch?v=wCZsKrF5elM)
+[MongoDB + Payload: The Future of CMS - YouTube](https://www.youtube.com/watch?v=8dlgJLiGJQ0)
+
 [Compare Payload to Strapi | Strapi Alternatives | Payload CMS](https://payloadcms.com/compare/strapi)
 
 - Strapi only supports RBAC
@@ -33,6 +36,31 @@ tags:
 [Build a scalable design system for enterprise websites with Payload CMS & Next.js](https://www.learnwithjason.dev/build-a-scalable-design-system-for-enterprise-websites)
 [payloadcms/learn-with-jason-website: The website that corresponds to Payload's Learn with Jason episode](https://github.com/payloadcms/learn-with-jason-website)
 
+### Custom Endpoints
+
+Custom Endpoints can be added to collection without the need to change `server.ts`.
+[REST API | Documentation | Payload CMS](https://payloadcms.com/docs/rest-api/overview#custom-endpoints)
+
+Since the webpack config is shared by Admin panel and backend server, if your endpoint/hooks are supposed to be server-only:
+
+- pull it out as a module
+- define an alias to mock it for front end (Admin panel)
+- may need to `rm -rf node_modules/.cache/webpack` after update
+
+[Webpack | Documentation | Payload CMS](https://payloadcms.com/docs/admin/webpack#aliasing-server-only-modules)
+[Webpack polyfills for Node Core Modules · payloadcms/payload · Discussion #910](https://github.com/payloadcms/payload/discussions/910)
+[Error when adding a webpack plugin · payloadcms/payload · Discussion #2190](https://github.com/payloadcms/payload/discussions/2190)
+
+### Rest API
+
+[REST API | Documentation | Payload CMS](https://payloadcms.com/docs/rest-api/overview)
+
+### Local API
+
+For writing apps based on Payload CMS, can overrides access control (default true)
+
+[Local API | Documentation | Payload CMS](https://payloadcms.com/docs/local-api/overview)
+
 ## Access control/Authorization
 
 > flexible function-based access control
@@ -45,8 +73,8 @@ tags:
 ## Authentication
 
 [Authentication Config | Documentation | Payload CMS](https://payloadcms.com/docs/authentication/config)
-
 [Using the Payload Auth Middleware | Documentation | Payload CMS](https://payloadcms.com/docs/authentication/using-middleware)
+
 [Handling authentication in NextJS on Payload CMS | Blog | Payload CMS](https://payloadcms.com/blog/nextjs-payload-cms-auth)
 [payload/examples/auth/cms at master · payloadcms/payload · GitHub](https://github.com/payloadcms/payload/tree/master/examples/auth/cms)
 [payload/examples/auth/nextjs at master · payloadcms/payload · GitHub](https://github.com/payloadcms/payload/tree/master/examples/auth/nextjs)
@@ -70,17 +98,24 @@ tags:
 [ScottEAdams/payload-plugin-google-one-tap](https://github.com/ScottEAdams/payload-plugin-google-one-tap)
 
 [payloadcms/plugin-form-builder: The official form builder plugin for Payload](https://github.com/payloadcms/plugin-form-builder)
+[Overview of the Payload Form Builder Plugin - YouTube](https://www.youtube.com/watch?v=Fm4YaG__EHg)
+
 [payloadcms/plugin-password-protection: The official password protection plugin for Payload](https://github.com/payloadcms/plugin-password-protection)
+[NouanceLabs/payload-simple-rbac: A simple plugin to help you manage permissions in Payload with user roles.](https://github.com/NouanceLabs/payload-simple-rbac)
 
 [thgh/payload-components: Some custom Payload components](https://github.com/thgh/payload-components)
 [thgh/payload-plugin-resolve-alias: Shorthand to add common webpack aliases](https://github.com/thgh/payload-plugin-resolve-alias)
 [thgh/payload-plugin-body-classname](https://github.com/thgh/payload-plugin-body-classname)
 
+[Teyras/payload-oapi: A Payload CMS plugin for OpenAPI (3.0, 3.1) specification generation](https://github.com/Teyras/payload-oapi/)
+
 ## Deployment
 
 [Production Deployment | Documentation | Payload CMS](https://payloadcms.com/docs/production/deployment)
+[Security Best Practices for Express in Production](https://expressjs.com/en/advanced/best-practice-security.html)
 
 [Payload CMS & Astro 🚀 Astro Documentation](https://docs.astro.build/en/guides/cms/payload/)
+[Remix, Payload in a Single Express Server Monorepo](https://payloadcms.com/blog/remix-payload-express-monorepo)
 
 ### Next.js
 

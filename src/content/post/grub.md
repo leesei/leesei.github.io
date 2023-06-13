@@ -7,7 +7,7 @@ tags:
   - linux
 ---
 
-Grub is both boot loader and boot menu.  
+Grub is both boot loader and boot menu.
 It loads `/boot/grub/grub.cfg` and present the menu.
 
 [GNU GRUB - Wikiwand](https://www.wikiwand.com/en/GNU_GRUB)

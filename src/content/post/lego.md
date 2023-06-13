@@ -262,7 +262,7 @@ Crawler:
 
 [Military sets](http://brick4.com/search/set/?all=1&s=军事)
 
-Mitu set:  
+Mitu set:
 [重发 分享一款四档变速超跑（已附零件表及 PDF 图纸） - 小米社区官方论坛](http://bbs.xiaomi.cn/t-15142216)
 [有喜欢 SUV 的朋友吗，分享一款荒川 MOC 四驱 SUV MK2 - 小米社区官方论坛](http://bbs.xiaomi.cn/t-16532612)
 [米兔 F1，风驰电掣一整夏(全部图纸） - 小米社区官方论坛](http://bbs.xiaomi.cn/t-13634289)
@@ -273,7 +273,7 @@ Mitu set:
 
 [Lego Straight Line Mechanisms - YouTube](https://www.youtube.com/watch?v=gZwiEwn9FZs)
 
-沒组装图:  
+沒组装图:
 [自制履带赛车，用块很少，好看还省块搭建其他。 - 小米社区官方论坛](http://bbs.xiaomi.cn/t-15044906)
 [加装电机和主控的遥控矿卡 - 小米社区官方论坛](http://bbs.xiaomi.cn/t-14583222)
 [米兔机器人和矿卡搭建的米兔遥控小车 - 小米社区官方论坛](http://bbs.xiaomi.cn/t-15111709)
@@ -791,12 +791,12 @@ Use 1x2 Thin arms to get adjustable angles
 
 [Geared MOTORs to Meccano and Lego Conversion - Kit Parts - UPDATED - AXLES and PEGS by jlsilicon - Thingiverse](https://www.thingiverse.com/thing:1695615)
 
-Adapters:  
+Adapters:
 [Lego compatible gear for SG90 by ivanpost - Thingiverse](https://www.thingiverse.com/thing:2782068)
 [Lego Servo Adapter by greengiant83 - Thingiverse](https://www.thingiverse.com/thing:151306)
 [Mini differential lego compatible by advancedvb - Thingiverse](https://www.thingiverse.com/thing:2747663)
 
-Motor shafts:  
+Motor shafts:
 [DC Motor To Lego Axle Adapter by aramperez - Thingiverse](https://www.thingiverse.com/thing:3027679)
 [motor to lego shaft by roboter - Thingiverse](https://www.thingiverse.com/thing:495399)
 [2 毫米 3 毫米电机轴转接件 兼容积木齿轮轮胎-淘宝网](https://item.taobao.com/item.htm?id=37535841134)
@@ -805,7 +805,7 @@ Motor shafts:
 [TT Motor Smart Car to Lego Axel Adapter - Please send feedbacks, likes, photos :-).... by avios - Thingiverse](https://www.thingiverse.com/thing:1750406)
 [Reduction from the MIG500 motor shaft to LEGO axle by lukasdulik - Thingiverse](https://www.thingiverse.com/thing:2654720)
 
-Batteries:  
+Batteries:
 [LEGO Compatible Battery Case by adafruit - Thingiverse](https://www.thingiverse.com/thing:3034265)
 [LEGO Compatible 18650 Battery Holder by GadgetWorkbench - Thingiverse](https://www.thingiverse.com/thing:2981800)
 
@@ -952,7 +952,7 @@ Also have custom chassis with 2.4GHz receiver
 
 [国产 Buwizz？双鹰 C51027 遥控机器人 开箱评测*开箱晒物*什么值得买](https://post.smzdm.com/p/685838/)
 
-motors:  
+motors:
 [兼容乐高科技动力组电动马达 PF 电机 9686 教育 EV3 教具遥控器接收器-淘宝网](https://item.taobao.com/item.htm?id=581613535960)
 [双鹰 cada 科技系列 pf 伺服电机 L 马达锂电池遥控器 moc 机械组动力套装-tmall.com 天猫](https://detail.tmall.com/item.htm?id=568658680251)
 [咔嗒积木双鹰 PF 电动配件遥控电机马达兼容乐高乐拼 MOC 科技系列-淘宝网](https://item.taobao.com/item.htm?id=561431183568)

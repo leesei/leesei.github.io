@@ -19,7 +19,7 @@ shell/display manager (login) -> `startx`/`xinit` -> DE
    resource allocation), initialization of BIOS extensions
    (option ROMs)
 3. load first sector of boot device ("boot sector", MBR) to
-   0x7C00  
+   0x7C00
    MBR relocates itself, loads first sector of active partition to
    0x7C00
 4. boot sector loads "second stage" boot loader
@@ -168,7 +168,7 @@ Note some utils modify the partition label of the ISO, that can cause problem du
 
 - [probonopd/SystemImageKit: Run (multiple) operating systems directly from image files. Add extensions, apps and configuration, which are one file each.](https://github.com/probonopd/SystemImageKit) multiple ISOs
 - [Ventoy](https://www.ventoy.net/en/index.html) Windows, Linux, _support Windows ISO_, multiple ISOs
-- [UNetbootin](http://unetbootin.github.io/) multiplatform, _support Windows ISO_  
+- [UNetbootin](http://unetbootin.github.io/) multiplatform, _support Windows ISO_
   `unetbootin method=diskimage isofile="my.iso" installtype=USB targetdrive=/dev/sdc`
 - [Etcher](https://etcher.io/) multiplatform
 - [Rufus](https://rufus.ie/) Windows, fast, _support Windows ISO_
@@ -257,7 +257,7 @@ Debian switched to `systemd` in 2015 with [Debian 8 Jessie](http://arstechnica.c
 
 [sysv-rc-conf - Run-level configuration for SysV like init script links](http://sysv-rc-conf.sourceforge.net/) UI tool
 
-https://github.com/Fleshgrinder/nginx-sysvinit-script  
+https://github.com/Fleshgrinder/nginx-sysvinit-script
 https://github.com/JasonGiedymin/nginx-init-ubuntu
 
 ```sh
@@ -286,8 +286,8 @@ sudo update-rc.d nginx defaults
 [Upstart - Wikiwand](http://www.wikiwand.com/en/Upstart)
 [upstart - event-based init daemon](http://upstart.ubuntu.com/)
 
-Use `upstart` instead of `init.d` for Ubuntu:  
-http://casear.chuto.tw/2013/05/31/upstart-setting-for-nginx-on-ubuntu/  
+Use `upstart` instead of `init.d` for Ubuntu:
+http://casear.chuto.tw/2013/05/31/upstart-setting-for-nginx-on-ubuntu/
 http://casear.chuto.tw/2013/05/31/upstart-setting-for-redis-on-ubuntu/
 
 Ubuntu followed Debian's footstep and moved to `systemd` since [15.04](http://www.theregister.co.uk/2015/05/05/ubuntu_15_04_review/).

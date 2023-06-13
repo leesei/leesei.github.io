@@ -8,14 +8,14 @@ tags:
   - switch
 ---
 
-[Switch Archives | NintendoSoup](https://nintendosoup.com/category/switch/)  
-[つくってみよう！ キャッピーのペーパークラフト | トピックス | Nintendo](https://topics.nintendo.co.jp/c/article/78bf6103-d962-11e7-8cda-063b7ac45a6d.html)  
+[Switch Archives | NintendoSoup](https://nintendosoup.com/category/switch/)
+[つくってみよう！ キャッピーのペーパークラフト | トピックス | Nintendo](https://topics.nintendo.co.jp/c/article/78bf6103-d962-11e7-8cda-063b7ac45a6d.html)
 [任天堂 Nintendo Switch ｜香港 01](https://www.hk01.com/tag/14779)
 
-[Nintendo Switch 支援｜ Nintendo](http://www.nintendo.com.hk/switch/support/)  
-[Nintendo - Customer Service](https://www.nintendo.com/consumer/index.jsp)  
-[Nintendo Switch | Nintendo Support](http://en-americas-support.nintendo.com/app/answers/landing/p/897)  
-[Troubleshooting Nintendo Switch: The Ultimate Guide | iMore](https://www.imore.com/troubleshooting-nintendo-switch-ultimate-guide)  
+[Nintendo Switch 支援｜ Nintendo](http://www.nintendo.com.hk/switch/support/)
+[Nintendo - Customer Service](https://www.nintendo.com/consumer/index.jsp)
+[Nintendo Switch | Nintendo Support](http://en-americas-support.nintendo.com/app/answers/landing/p/897)
+[Troubleshooting Nintendo Switch: The Ultimate Guide | iMore](https://www.imore.com/troubleshooting-nintendo-switch-ultimate-guide)
 [How to Troubleshoot Common Nintendo Switch Problems](https://www.lifewire.com/nintendo-switch-troubleshooting-4135394)
 
 [NS / Nintendo Switch 哈啦板 - 巴哈姆特](https://forum.gamer.com.tw/B.php?bsn=31587)
@@ -50,9 +50,9 @@ Video playback is blocked since 3.0.0
 
 [Switch Game Search – Switcher](https://switcher.co/games/)
 
-[Nintendo Switch ソフト | My Nintendo Store（マイニンテンドーストア）](https://store.nintendo.co.jp/category/SWITCH_SOFT/)  
+[Nintendo Switch ソフト | My Nintendo Store（マイニンテンドーストア）](https://store.nintendo.co.jp/category/SWITCH_SOFT/)
 [Switch Games - Nintendo Game Store](https://www.nintendo.com/games/switch)
-[Switch 遊戲 分類及價格 - 香港格價網 Price.com.hk](https://www.price.com.hk/category.php?c=100277&filter=104958)  
+[Switch 遊戲 分類及價格 - 香港格價網 Price.com.hk](https://www.price.com.hk/category.php?c=100277&filter=104958)
 [Nintendo Switch™ Games](https://www.play-asia.com/games/nintendo_switch/games/14/712fj#fc=s:4)
 [directbuyhk SWITCH Games](https://www.directbuyhk.com/categories/switch-games)
 [2000Fun 商城 香港人既遊戲店](https://www.openshop.com.hk/)
@@ -108,13 +108,13 @@ Video playback is blocked since 3.0.0
 [官方得獎認證商店 良心小店最高評價's items for sale on Carousell](https://www.carousell.com.hk/u/ckgamestore/) ~$40
 [Game Corner 鑽石商店 Kanice's items for sale on Carousell](https://www.carousell.com.hk/u/gamecorner) ~$50
 
-[网购超值 Nintendo Wii U/3DS eShop Prepaid Card (JP)｜ SEA Gamer Mall](https://www.seagm.com/zh-tw/nintendo-wii-3ds-eshop-prepaid-card-japan)  
+[网购超值 Nintendo Wii U/3DS eShop Prepaid Card (JP)｜ SEA Gamer Mall](https://www.seagm.com/zh-tw/nintendo-wii-3ds-eshop-prepaid-card-japan)
 [日服任天堂預付卡\_HOGAME 遊戲幣專賣店 ( 網站域名：WWW.HOGAME.HK ) 賣金幣.賣點卡.遊戲代練.遊戲產品包.港台金幣.港台點卡遊戲交易網](http://www.hogame.hk/yxdk/20141020/639.html)
 
 ### Games (2nd hand)
 
-[香港二手遊戲交易平台](http://gamehk.net/auction/search/l/eyJjb25zb2xlaWQiOiIyMSIsImNvbnNvbGVuYW1lIjoiU3dpdGNoIn0=/1/Switch)  
-[Carousell - Nintendo](https://hk.carousell.com/categories/video-gaming-531/video-games-534?sort_by=time_created%2Cdescending&video_game_type=VIDEO_GAME_TYPE_NINTENDO&collection_id=534&cc_id=613)  
+[香港二手遊戲交易平台](http://gamehk.net/auction/search/l/eyJjb25zb2xlaWQiOiIyMSIsImNvbnNvbGVuYW1lIjoiU3dpdGNoIn0=/1/Switch)
+[Carousell - Nintendo](https://hk.carousell.com/categories/video-gaming-531/video-games-534?sort_by=time_created%2Cdescending&video_game_type=VIDEO_GAME_TYPE_NINTENDO&collection_id=534&cc_id=613)
 [有關 《switch》的搜尋結果 - 香港格價網 Price.com.hk](https://www.price.com.hk/search.php?g=T&q=switch)
 [搜尋 switch 產品資料 - DCFever.com](http://www.dcfever.com/trade/search.php?keyword=switch&form_action=search_action&search_btn=搜尋)
 [switch/3ds 香港二手交易坊](https://www.facebook.com/groups/1845008512426702/?ref=direct)
@@ -387,6 +387,7 @@ TheJWittz
 [CAPCOM：逆転裁判シリーズ 公式サイト](http://www.capcom.co.jp/game/gyakutensaiban/)
 [逆轉裁判系列 - Wikiwand](https://www.wikiwand.com/zh-hant/%E9%80%86%E8%BD%AC%E8%A3%81%E5%88%A4%E7%B3%BB%E5%88%97)
 [逆轉裁判 - Komica wiki](https://wiki.komica.org/%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4)
+[Ace Attorney Wiki | Fandom](https://aceattorney.fandom.com/wiki/Ace_Attorney_Wiki)
 
 [Phoenix Wright: Ace Attorney — StrategyWiki, the video game walkthrough and strategy guide wiki](https://strategywiki.org/wiki/Phoenix_Wright:_Ace_Attorney)
 [Phoenix Wright: Ace Attorney - Justice For All — StrategyWiki, the video game walkthrough and strategy guide wiki](https://strategywiki.org/wiki/Phoenix_Wright:_Ace_Attorney_-_Justice_For_All)
@@ -466,17 +467,17 @@ Tegra X1? T214/T210N01
 
 ### portable dock
 
-[包邮 JYS 正品 任天堂 switch 自制底座 NS DOCK 散热底座 改装 便携-淘宝网](https://item.taobao.com/item.htm?id=555382283160&_u=k5s0gl1865a)  
-[Portable Replacement Dock Case for Nintendo Switch (only the case) - YouTube](https://www.youtube.com/watch?v=JRzlgfrupTw)  
+[包邮 JYS 正品 任天堂 switch 自制底座 NS DOCK 散热底座 改装 便携-淘宝网](https://item.taobao.com/item.htm?id=555382283160&_u=k5s0gl1865a)
+[Portable Replacement Dock Case for Nintendo Switch (only the case) - YouTube](https://www.youtube.com/watch?v=JRzlgfrupTw)
 [Portable Replacement Dock Case for Nintendo SwitchOnly the case 2 - YouTube](https://www.youtube.com/watch?v=0Irp3d-U91g)
 
-3rd party PCB  
+3rd party PCB
 [【三代升級】取代 Switch 底座! GAME'NIR 轉接充電頭 DOCK CHARGER](https://www.gamenir.com.tw/dock3)
 [GENKI Dock - 把 Switch TV 模式輕鬆放進你的口袋裡 (少量現貨) – UNWIRE STORE](https://store.unwire.hk/products/genki-dock)
 [Multifunctional Dock for Switch 一體化出電視+充電轉換器。香港插頭 ￼ 內置火牛](https://www.directbuyhk.com/products/multifunctional-dock-for-switch-%E4%B8%80%E9%AB%94%E5%8C%96%E5%87%BA%E9%9B%BB%E8%A6%96%E5%85%85%E9%9B%BB%E8%BD%89%E6%8F%9B%E5%99%A8%E3%80%82%E9%A6%99%E6%B8%AF%E6%8F%92%E9%A0%AD%EF%BF%BC-%E5%85%A7%E7%BD%AE%E7%81%AB%E7%89%9B)
 
-[酷威 COOV SH500 - 产品 - 酷威](http://www.mycoov.com/zh/Product/77.html)  
-[酷威 SH350 任天堂 Switch TV 电视底座 SH500 HDMI TYPE-C 转换器-淘宝网](https://item.taobao.com/item.htm?id=561953635459&_u=k5s0gl1f2bb)  
+[酷威 COOV SH500 - 产品 - 酷威](http://www.mycoov.com/zh/Product/77.html)
+[酷威 SH350 任天堂 Switch TV 电视底座 SH500 HDMI TYPE-C 转换器-淘宝网](https://item.taobao.com/item.htm?id=561953635459&_u=k5s0gl1f2bb)
 [酷威 COOV SH500 Switch 底座 簡評 - 電玩 - Post76 影音玩樂網](https://post76.hk/thread-266261-1-1.html)
 [COOV SH500 操作視頻 - YouTube](https://www.youtube.com/watch?v=VMguMBFUZ48)
 
@@ -497,9 +498,9 @@ To use as USB adapter and charging stand:
 
 ### Amiibo
 
-NTAG215 tags  
-write once only  
-the tag lasts 10000 read  
+NTAG215 tags
+write once only
+the tag lasts 10000 read
 write with Android with NFC or 3DS
 
 1. Get Card UID

@@ -28,7 +28,7 @@ OpenShift Origin is the upstream community project that backs Red Hat's [OpenShi
 
 OpenShift 3 [adopts Kubernetes and Docker](https://blog.openshift.com/red-hat-chose-kubernetes-openshift/) to simplify the setup and usage.
 [Review: OpenShift 3 rocks Docker containers | InfoWorld](http://www.infoworld.com/article/3005681/paas/review-openshift-3-rocks-docker-containers.html)
-[Levvel Blog - The Differences Between Kubernetes and OpenShift](https://www.levvel.io/blog-post/differences-between-kubernetes-and-openshift) !important
+[Levvel Blog - The Differences Between Kubernetes and OpenShift](https://www.levvel.io/blog-post/differences-between-kubernetes-and-openshift) ❗!important
 
 [OpenShift Origin vs OpenStack – OpenShift Blog](https://blog.openshift.com/openshift-origin-vs-openstack/)
 [Docker, Kubernetes, OpenStack, and OpenShift Explained | Software Engineering Daily](https://softwareengineeringdaily.com/2016/02/11/docker-vs-kubernetes-openstack-and-openshift/)

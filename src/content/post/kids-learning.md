@@ -56,7 +56,7 @@ tags:
 [嘉芙姐姐音樂小教室 - YouTube](https://www.youtube.com/channel/UCZgs3pLaFisZ-TKVOwFEe8Q)
 [小行星樂樂 TV - YouTube](https://www.youtube.com/channel/UCtWocEKhgpEffPDlwwozK9Q)
 [瞳心 Eunice - YouTube](https://www.youtube.com/user/eunicewyf)
-[Peekaboo Kidz - YouTube](https://www.youtube.com/user/Peekaboo) Dr. Binocs  
+[Peekaboo Kidz - YouTube](https://www.youtube.com/user/Peekaboo) Dr. Binocs
 [Explained With LEGO Bricks | Homeschool with LEGO Lessons - YouTube](https://www.youtube.com/playlist?list=PLRNbTEZ7dhL0LMDtir9pIgT89718ghah3)
 [Super Simple Learning - YouTube](https://www.youtube.com/user/supersimplelearning)
 

@@ -19,6 +19,11 @@ tags:
 [AMD History and Innovations (1969-2022) | Documentary - YouTube](https://www.youtube.com/watch?v=2DzTGCO-IkM)
 [Every AMD CPU Ever! - YouTube](https://www.youtube.com/watch?v=K8Lz3ANjlDs)
 
+Asianometry
+[Intel & AMD: The First 30 Years - YouTube](https://www.youtube.com/watch?v=kZ9ntfjytTI)
+[AMD: How It All Began - YouTube](https://www.youtube.com/watch?v=mb53IYjZlNc)
+[How AMD Left GlobalFoundries for TSMC - YouTube](https://www.youtube.com/watch?v=oAlU6vQ1Pn8&t=8s)
+
 [Intel Core i5 vs. Core i7: Which Processor Should You Buy? - ExtremeTech](https://www.extremetech.com/computing/210703-intel-core-i5-vs-core-i7-which-processor-should-you-buy) 2018
 
 [Deep Dive – Numa, vNuma | Virtualization Deep Dive](https://virtualizationdeepdive.wordpress.com/deep-dive-numa-vnuma/)
@@ -47,6 +52,9 @@ tags:
 [Researchers build a heat shield just 10 atoms thick to protect electronic devices](https://phys.org/news/2019-08-shield-atoms-thick-electronic-devices.amp)
 
 [Actually Hardcore Overclocking - YouTube](https://www.youtube.com/c/ActuallyHardcoreOverclocking)
+
+[High Yield - YouTube](https://www.youtube.com/@HighYield)
+[Why we use Code Names for Computer Hardware - YouTube](https://www.youtube.com/watch?v=tElHLQuB3jU)
 
 ## Instruction Set Architecture (ISA)
 
@@ -155,17 +163,35 @@ Pentium Silver Quad Core (N5000) configs are \$3600, they have more or less the 
 [List of Intel Core M microprocessors - Wikiwand](https://www.wikiwand.com/en/List_of_Intel_Core_M_microprocessors)
 [List of Intel Core i3 microprocessors - Wikiwand](https://www.wikiwand.com/en/List_of_Intel_Core_i3_microprocessors#/Mobile_processors) Mobile
 
-[Intel Atom Z3735F - FH8065301685598](http://www.cpu-world.com/CPUs/Atom/Intel-Atom%20Z3735F.html) 2014-04
-[Intel Atom x5 Z8350 - FJ8066401836620](http://www.cpu-world.com/CPUs/Atom_x5/Intel-Atom%20x5%20Z8350.html) 2016-02
-[Intel Celeron J1900 - FH8065301615009](http://www.cpu-world.com/CPUs/Celeron/Intel-Celeron%20J1900.html) 2013-11
-[Intel Celeron N4100 - FH8068003067408](http://www.cpu-world.com/CPUs/Celeron/Intel-Mobile%20Celeron%20N4100.html) 2017-12
-[Intel Core m3 6Y30 - HE8066201930521](http://www.cpu-world.com/CPUs/Core_M/Intel-Core%20m3%206Y30.html) 2015-09
-[Intel Core i3-380M Mobile processor - CN80617004116AH](http://www.cpu-world.com/CPUs/Core_i3/Intel-Core%20i3%20Mobile%20I3-380M%20CN80617004116AH.html) 2010-09
-[Intel Core i3-6100U Mobile processor - FJ8066201931104](http://www.cpu-world.com/CPUs/Core_i3/Intel-Core%20i3-6100U%20Mobile%20processor.html) 2015-07
-[Intel Pentium N5000 - FH8068003067406](http://www.cpu-world.com/CPUs/Pentium/Intel-Mobile%20Pentium%20N5000.html) 2017-12
+### Mobile APU
 
-[Intel Celeron J1900 vs Atom x5 x5-Z8500](http://cpuboss.com/cpus/Intel-Celeron-J1900-vs-Intel-Atom-x5-x5-Z8500)
-[Intel N4200 vs Atom x5 x5-Z8500](http://cpuboss.com/cpus/Intel-N4200-vs-Intel-Atom-x5-x5-Z8500)
+Intel's embedded graphics are too lame for gaming.
+
+2021+ CPU:
+Zen2
+Ryzen 5 4500U 6C6T, Vega 6CU
+Ryzen 7 4700U 8C16T, Vega 7CU
+Ryzen 7 4800U 8C16T, Vega 8CU
+Zen2+
+Ryzen 5 5500U 6C12T, Vega 7CU
+Ryzen 7 5700U 8C16T, Vega 8CU @1900MHz, 15W
+Zen3
+Ryzen 7 5600U 6C12T, Vega 7CU
+Ryzen 7 5800U 8C16T, Vega 8CU
+Ryzen 7 5900HX 8C16T, Vega 8CU @2100MHz, 45W
+Zen3+
+Ryzen 5 6600U 6C12T, RDNA2 6CU
+Ryzen 7 6800U 6C12T, RDNA2 12CU
+Ryzen 9 6900HS, RDNA2 12CU, reduced power consumption
+Intel i5-1135G7 4C8T, Intel Iris Xe Graphics 80EU
+Intel i7-1195G7 4C8T, Intel Iris Xe Graphics 96EU
+Zen4
+Ryzen 7 Phoenix 7840U 8C16T, RDNA3 12CU @2700MHz, 15-30W
+Z1 Extreme is a 7840U without AI engine and tuned for lower power consumption
+
+680M ~= RX6400
+Vega is based on GCN architecture debuted in 2020.
+6800 series's RDNA2 is double the performance of 5800.
 
 ### Voltage tuning
 
@@ -197,7 +223,7 @@ Undervolting on Ryzen will lower temperature AND increase performance
 
 [AMD Ryzen RAM scaling - performance effect in games - Introduction](https://www.guru3d.com/articles-pages/amd-ryzen-ram-scaling-effect-in-games,1.html)
 
-[AMD Ryzen Memory Tweaking & Overclocking Guide | TechPowerUp](https://www.techpowerup.com/review/amd-ryzen-memory-tweaking-overclocking-guide/single-page.html) !important
+[AMD Ryzen Memory Tweaking & Overclocking Guide | TechPowerUp](https://www.techpowerup.com/review/amd-ryzen-memory-tweaking-overclocking-guide/single-page.html) ❗!important
 [DRAM Calculator for Ryzen (v1.7.3) Download | TechPowerUp](https://www.techpowerup.com/download/ryzen-dram-calculator/)
 FCLK: Infinity Fabric clock, better keep it in sync with RAM < 2000MHz
 UCLK: Unified Memory Controller clock
@@ -287,6 +313,7 @@ It reverses with Intel 12th generation Ryzen 6000 generation.
 #### 12th gen
 
 [Intel NEEDS this to go well... - YouTube](https://www.youtube.com/watch?v=-lcruZQyh94)
+[Meteor Lake – Can Intel leapfrog AMD? - YouTube](https://www.youtube.com/watch?v=3QWpHjz-k7Y) tile architecture
 
 - P-Core and E-Core
 - Processor Base Power, Maximum Turbo Power
@@ -294,6 +321,7 @@ It reverses with Intel 12th generation Ryzen 6000 generation.
 - support both 100 and 133Mhz memory bus
 - dual memory controller dual bit rate on memory
 - number of memory slots used and ranks of memory affects DDR5 speed
+- 2.5D interposer for connecting the tiles
 
 [【首发评测】intel 12 代 CPU 首发评测——i5 12600K/i7 12700KF/i9 12900K - YouTube](https://www.youtube.com/watch?v=FGs_2Cbtr_A)
 
@@ -461,7 +489,7 @@ Heat pipe dryout: liquid boiling again before reaching heat side
 
 ### Air Coolers
 
-Corsair dominates the AIO liquid colling markets, their air cooling solution is not as competitive
+Corsair dominates the AIO liquid cooling markets, their air cooling solution is not as competitive
 Noctua NH-U12S have better thermal and acoustic performance
 
 [How to choose the right CPU Air Cooler - YouTube](https://www.youtube.com/watch?v=R5GhNnLVUrw) Dark Rock
@@ -499,14 +527,18 @@ Hyper 212 BE ~= DARK ROCK SLIM > Big Shuriken 3 > Big Shuriken 2 > Dark Rock 4
 
 #### MEMS/AirJet
 
-[Solid State Active Cooling Could Revolutionize Thermals - YouTube](https://www.youtube.com/watch?v=YGxTnGEAx3E) MEMS membrane to create jet palse on hot site
+[Solid State Active Cooling Could Revolutionize Thermals - YouTube](https://www.youtube.com/watch?v=YGxTnGEAx3E) MEMS membrane to create jet pulse on hot site
 [Innovative laptop cooling system: Frore shows AirJet cooling chips with ultrathin profile and silent operation - NotebookCheck.net News](https://www.notebookcheck.net/Innovative-laptop-cooling-system-Frore-shows-AirJet-cooling-chips-with-ultrathin-profile-and-silent-operation.682925.0.html)
+
+[This Bizarre Fan Cost $1100?! - Piezoelectric Fan - YouTube](https://www.youtube.com/watch?v=NY-gA_zA_os)
+[The Most Exciting PC Hardware in YEARS. - YouTube](https://www.youtube.com/watch?v=vdD0yMS40a0)
+[Take A Lab Tour Of This Solid-State Cooling Tech - YouTube](https://www.youtube.com/watch?v=WibczqINifA)
 
 ### Water Coolers
 
 [Stop Doing It Wrong: How to Kill Your CPU Cooler (AIO Mounting Orientation) - YouTube](https://www.youtube.com/watch?v=BbGomv195sk)
 
-Corsair dominates the AIO (All-in-one) liquid colling markets
+Corsair dominates the AIO (All-in-one) liquid cooling markets
 
 [How PC Liquid Coolers Are Made | China Factory Tours (Cooler Master & DeepCool) - YouTube](https://www.youtube.com/watch?v=y16azp7Wh14)
 
@@ -541,7 +573,7 @@ Liquid metal thermal compound are 70+W/mK
 
 [“Too Much Thermal Paste” – Benchmark of Thermal Paste Quantity - YouTube](https://www.youtube.com/watch?v=EUWVVTY63hc)
 [Thermal Paste Application Methods - Which one is best? - The Workshop - YouTube](https://www.youtube.com/watch?v=r2MEAnZ3swQ)
-IHS is nickel plated copper, Cold plate of cooler is often copper  
+IHS is nickel plated copper, Cold plate of cooler is often copper
 Both have 400-500W/mK, how ever air pockets causes the contact to only have 0.3-0.7W/mK
 
 [Best Thermal Paste for CPUs 2023: 90 Pastes Tested, Ranked | Tom's Hardware](https://www.tomshardware.com/best-picks/best-thermal-paste)
@@ -589,156 +621,3 @@ Pyrolytic Graphite Sheet (PGS) has a staggering thermal conductivity of 1950W/mK
 [高导导热硅胶片硅脂 cpu 散热硅胶垫片笔记本南北桥显卡硬盘散热 12W-淘宝网](https://item.taobao.com/item.htm?id=599577654289) 12W/mK
 [紫色导热硅胶片硅脂 cpu 散热硅胶垫片笔记本电脑绝缘显卡硬盘降热-淘宝网](https://item.taobao.com/item.htm?id=581800617079) 12W/mK
 [石墨烯散热贴小米华为 iphone 苹果 cpu 散热手机笔记本平板降温神器-淘宝网](https://item.taobao.com/item.htm?id=602882721207) 10-15W/mK
-
----
-
-# Chip Making
-
-[SemiAnalysis | Dylan Patel | Substack](https://www.semianalysis.com/)
-[老石谈芯 - YouTube](https://www.youtube.com/@laoshi_tec)
-
-[Why making chips is so hard - YouTube](https://www.youtube.com/watch?v=CkNn98WE5_k)
-
-[How Chips are Manufactured – with Optics from ZEISS - YouTube](https://www.youtube.com/watch?v=bUJiMJweI8M)
-[From Sand to Silicon: the Making of a Chip | Intel - YouTube](https://www.youtube.com/watch?v=Q5paWn7bFg4)
-[From Sand to Silicon: The Making of a Microchip | Intel - YouTube](https://www.youtube.com/watch?v=_VMYPLXnd7E)
-[The Amazing, Humble Silicon Wafer - YouTube](https://www.youtube.com/watch?v=sIRfWyyOFPg)
-[日美科技战：半导体巅峰之争背后的秘密 - YouTube](https://www.youtube.com/watch?v=FwXQSQcyWGQ)
-[Intel: The Making of a Chip with 22nm/3D Transistors | Intel - YouTube](https://www.youtube.com/watch?v=d9SWNLZvA8g)
-[How are microchips made? - YouTube](https://www.youtube.com/watch?v=g8Qav3vIv9s)
-[I Can Die Now. - YouTube](https://www.youtube.com/watch?v=2ehSCWoaOqQ) 2022, Intel Israel Fab
-
-硬件茶谈
-[【硬件科普】带你认识 CPU 第 00 期——什么是 MOSFET - YouTube](https://www.youtube.com/watch?v=P91wpwVGH6M)
-[【硬件科普】带你认识 CPU 第 01 期——什么是逻辑门 - YouTube](https://www.youtube.com/watch?v=bk1-KqUq4gQ)
-
-[ASML 遭遇生存危机？全新光刻机技术让芯片成本大跳水 - YouTube](https://www.youtube.com/watch?v=SsUXlw30LRQ) pattern shaping
-
-[中兴禁令之芯片为什么这么难做？芯片的基本原理是什么？李永乐老师带你了解！（2018 最新） - YouTube](https://www.youtube.com/watch?v=7MFly82e46Q)
-[为什么你的电脑还没用上国产 CPU？丨科普丨冷知识丨柴知道 ChaiKnows - YouTube](https://www.youtube.com/watch?v=_5txTIdG53c)
-
-[了解历史，才知道中国芯片如何胜出 | 袁岚峰 - 知乎](https://zhuanlan.zhihu.com/p/147525190)
-[中国芯能否登顶？从芯片产业发展史找答案 | 跟陶叔学编程](https://mp.weixin.qq.com/s?__biz=MzI0NzQzMjU3Ng==&mid=2247500354&idx=2&sn=51b60b74e021bcbd89e38665493db28b&token=1506619420&lang=zh_CN&scene=21)
-[台积电为什么这么重要？美国可以透过台积电限制华为芯片吗，对中国的军工有什么影响 - YouTube](https://www.youtube.com/watch?v=dRRPDooMeKQ)
-[三十年前，美国整垮日本芯片，可惜这次对手是中国 - YouTube](https://www.youtube.com/watch?v=cWG3N7WrZME)
-[【Fun 科技】国产 CPU 战平 i5-7400？兆芯 KX-U6780A 首发评测!中国芯崛起！ - YouTube](https://www.youtube.com/watch?v=I0N3sqnKIxA)
-
-[How Chip Giant AMD Finally Caught Intel - YouTube](https://www.youtube.com/watch?v=_gLm0Jo0cnk)
-[How ASML, TSMC And Intel Dominate The Chip Market | CNBC Marathon - YouTube](https://www.youtube.com/watch?v=2kJDTzFtUr4)
-
-[Chips - Real World Tech](https://www.realworldtech.com/category/chips/)
-
-## Functional Types
-
-[Application-specific integrated circuit - Wikiwand](https://www.wikiwand.com/en/Application-specific_integrated_circuit) ASIC: high performance, fixed pipeline, high one-time cost
-[Structured ASIC platform - Wikiwand](https://www.wikiwand.com/en/Structured_ASIC_platform) hybrid
-[Gate array - Wikiwand](https://www.wikiwand.com/en/Gate_array)
-[Field-programmable gate array - Wikiwand](https://www.wikiwand.com/en/Field-programmable_gate_array) FPGA: high performance, programmable pipeline, low one-time cost
-
-[These Chips Are Better Than CPUs - YouTube](https://www.youtube.com/watch?v=7Elgs5HzIbE)
-[Difference Between ASIC and FPGA | Difference Between](http://www.differencebetween.net/technology/difference-between-asic-and-fpga/)
-[FPGA vs ASIC: Differences between them and which one to use? | Numato Lab Help Center](https://numato.com/blog/differences-between-fpga-and-asics)
-[Learn FPGA Fast With Hackaday’s FPGA Boot Camp | Hackaday](https://hackaday.com/2018/08/06/learn-fpga-fast-with-hackadays-fpga-boot-camp/)
-[Why FPGAs Are Amazing for Retro Gaming Emulation](https://www.howtogeek.com/783770/why-fpgas-are-amazing-for-retro-gaming-emulation/)
-[The History of the FPGA: The Ultimate Flex - YouTube](https://www.youtube.com/watch?v=m-8G1Yixb34)
-[What are FPGAs and How Do They Work - Ulrich Drepper - code::dive 2018 - YouTube](https://www.youtube.com/watch?v=bReSjVGMDRs)
-[How remouldable computer hardware is speeding up science](https://www.nature.com/articles/d41586-021-03627-8)
-
-[gateware-ts](https://gateware-ts.github.io/gateware-ts/)
-[Building FPGA Hardware Using TypeScript: Driving An RGB LED Panel - YouTube](https://www.youtube.com/watch?v=Otx96lJnLeo)
-
-老石谈芯
-[性能至上？聊聊人工智能芯片的 5 个评价标准 - YouTube](https://www.youtube.com/watch?v=KICKrJZMoKA)
-[FPGA - YouTube](https://www.youtube.com/playlist?list=PLZbVf-X2rhjYlnuV7wgWqRAaJdFI3d3Jh)
-
-## Transistors
-
-[Power Transistor : Structure, Operation, & VI Characteristics](https://www.elprocus.com/what-is-a-power-transistor-types-and-its-working/)
-[Bipolar Junction Transistors (BJT) and Its Applications](https://www.elprocus.com/bipolar-junction-transistors-working-principle-and-applications/)
-[What is the MOSFET: Basics, Working Principle and Applications](https://www.elprocus.com/mosfet-as-a-switch-circuit-diagram-free-circuits/)
-[Insulated Gate Bipolar Transistor Characteristics](https://www.elprocus.com/insulated-gate-bipolar-transistor-circuit-and-characteristics/)
-[Transistors - Major Difference between BJT and MOSFET](https://www.elprocus.com/difference-between-bjt-and-mosfet/)
-[The Future of the Transistor](https://www.semianalysis.com/p/the-future-of-the-transistor)
-
-[Transistors - The Invention That Changed The World - YouTube](https://www.youtube.com/watch?v=OwS9aTE2Go4)
-[Transistors Explained - How transistors work - YouTube](https://www.youtube.com/watch?v=J4oO7PT_nzQ)
-
-[MOSFET - Wikiwand](https://www.wikiwand.com/en/MOSFET)
-
-## Photolithography
-
-[How CPUs Are Made As Fast As Possible - YouTube](https://www.youtube.com/watch?v=N7ut61pSLwk)
-[EUV: Lasers, plasma, and the sci-fi tech that will make chips faster | Upscaled - YouTube](https://www.youtube.com/watch?v=oIiqVrKDtLc)
-[How Extreme Ultraviolet Lithography works | Part 1/3 - YouTube](https://www.youtube.com/watch?v=z6c3vzIGo9o)
-[How Extreme Ultraviolet Lithography works | Part 2/3 - YouTube](https://www.youtube.com/watch?v=wKWKq7TJSoU)
-[How Extreme Ultraviolet Lithography works | Part 3/3 - YouTube](https://www.youtube.com/watch?v=_JCAmQXpdDs)
-[How Photolithography works | Part 1/6 – Introduction - YouTube](https://www.youtube.com/watch?v=IMptIcviR0Y)
-
-[芯片制造的核心：光刻机！中芯国际在购得 EUV 光刻机后差距还有多大？梁孟松的传奇（58） - YouTube](https://www.youtube.com/watch?v=-w2Cvd3rxsU)
-[Vol.137 如何在纳米尺度雕刻芯片？ - YouTube](https://www.youtube.com/watch?v=Co7-_d1NjkM)
-[EUV 光刻太贵了：替代技术正加快速度转正-快科技-科技改变生活](https://m.mydrivers.com/newsview/870055.html?ref=https%3A//www.google.com/)
-
-[用 GPU 榨干光刻机性能！英伟达计算光刻要改写芯片历史？ - YouTube](https://www.youtube.com/watch?v=N8gb_nABdWs)
-
-[How Carl Zeiss Crafts Optics for a $150 Million EUV Machine - YouTube](https://www.youtube.com/watch?v=V__HbVlnICc)
-[The Extreme Engineering of ASML’s EUV Light Source - YouTube](https://www.youtube.com/watch?v=5Ge2RcvDlgw)
-[Can You Do 7nm Chips Without EUV? - YouTube](https://www.youtube.com/watch?v=Th4E-0VFaEA)
-[What ASML Has Next After EUV - YouTube](https://www.youtube.com/watch?v=en7hhFJBrAI) High-NA EUV
-before EUV, etching is done with 193nm light; EUV uses 13.5nm light
-immersion lithography (ArFi) (2007, N42) and multiple patterning (repeated exposure at lower resolutions) (N22) are used til first batch of N7 A12 from Apple
-
-## Process node
-
-[Technology Node - WikiChip](https://en.wikichip.org/wiki/technology_node)
-[How Are Process Nodes Defined? - ExtremeTech](https://www.extremetech.com/computing/296154-how-are-process-nodes-defined)
-[Semiconductor device fabrication - Wikiwand](https://www.wikiwand.com/en/Semiconductor_device_fabrication)
-A process node upgrade is meant to double the number of transistors, hence halving the area, so the distance decrease is square root of 0.5 = 0.7071
-90nm -> 65nm -> 45nm -> 32nm -> 22nm -> 14nm -> 10nm -> 7nm -> 5nm
-Laser cannot archive requied half pitch after 45nm. 3D techniques (FinFET) are used
-
-[Die Per Wafer Calculator -](https://caly-technologies.com/die-yield-calculator/)
-
-[Should You Believe CPU Marketing? - YouTube](https://www.youtube.com/watch?v=ROS008Av4E4)
-gate distance -> cell distance (Pentium III) -> not measuring transistor size anymore (FinFET)
-Transister density is better measure
-
-[Intel 10nm Delay Explained & AMD's "7nm" | Ft. David Kanter - YouTube](https://www.youtube.com/watch?v=dtiBEHH7mEA)
-[Intel Ditches "Nanometers," Renames 10nm to "7" & 7nm to "4" - YouTube](https://www.youtube.com/watch?v=wxKGFxmwcDo)
-[14nm and 7nm are NOT what you think it is - Visiting Tescan Part 3/3 - YouTube](https://www.youtube.com/watch?v=1kQUXpZpLXI)
-
-[Beyond 7nm - the race to 4nm is Samsung's to lose - Android Authority](https://www.androidauthority.com/4nm-processing-node-812959/)
-[Samsung Unveils 3nm Gate-All-Around Design Tools - ExtremeTech](https://www.extremetech.com/computing/291507-samsung-unveils-3nm-gate-all-around-design-tools)
-[FinFET - Wikiwand](https://www.wikiwand.com/en/FinFET) the transistor became 3D
-[Tech Brief: FinFET Fundamentals | Lam Research](https://blog.lamresearch.com/tech-brief-finfet-fundamentals/)
-[The 3-D Transistor Transition - YouTube](https://www.youtube.com/watch?v=i3dDslo9ibw) FinFET and Gate All Around (GAA)
-FinFET is used for nodes < 28nm
-
-[Is a smaller manufacturing process always better? Intel's 10nm SuperFin suggests otherwise | VentureBeat](https://venturebeat.com/2020/09/21/is-smaller-always-better-in-chips-intels-new-10nm-superfin-technology-suggests-otherwise/amp/)
-
-## Packaging
-
-[A Brief History of Semiconductor Packaging - YouTube](https://www.youtube.com/watch?v=nNpuiJitKwk)
-
-- Plastic Encapulation
-- Dual Inline Package (DIP): leads of 2.54mm apart, through hole mounting
-- Surface Mounting Technology (SMT): smaller leads catered for Very Large Scale Integration (VLSI); allow use of both side of PCB
-  - Small-Outline Integrated circuit (SOIC): gull-wing leads
-  - Quad Flat Package (QFP): lead pitch of 0.65 to 1 mm; Shrink QFP, Very Small QFP, Thin QFP variants
-  - [How Motherboards Are Made (2019) | Taiwan Automated Factory Tour, ft. Gigabyte - YouTube](https://www.youtube.com/watch?v=cnAFTMaS5R0) fully auto SMT soldering
-- Pin Grid Array (PGA)
-- Ball Grid Array (BGA): surface mount version of PGA
-- Flip Chip: the chip is flipped and wire bonding is ditched
-- Chip scale packaing: package with a die occupying > 80% of the total packaging area
-  - Wafer Level Package: die interconnects are hooked up before being cut out of the wafer
-- Advanced Packaging
-  chiplets, multi chip modiles, hybrid circuits, system in packages
-
-### Advanced Packaging
-
-[【亦】唠唠苹果 M1 Ultra：半导体新时代！ - YouTube](https://www.youtube.com/watch?v=lri6O8EBnlI)
-[Why AMD's Chiplets Work - YouTube](https://www.youtube.com/watch?v=-x9nGo0Ge70)
-
-[Advanced Packaging Part 1 – Pad Limited Designs, Breakdown Of Economic Semiconductor Scaling, Heterogeneous Compute, and Chiplets](https://www.semianalysis.com/p/advanced-packaging-part-1-pad-limited)
-[Advanced Packaging Part 2 - Review Of Options/Use From Intel, TSMC, Samsung, AMD, ASE, Sony, Micron, SKHynix, YMTC, Tesla, and Nvidia](https://www.semianalysis.com/p/advanced-packaging-part-2-review)
-[Advanced Packaging Part 3 – Intel’s Curious Bet on Thermocompression Bonding, ASM Pacific, Kulicke and Soffa, and Besi TCB Tool Landscape](https://www.semianalysis.com/p/advanced-packaging-part-3-intels)
-[The Future Of Packaging Gets Blurry – Fanouts, ABF, Organic Interposers, Embedded Bridges – Advanced Packaging Part 4](https://www.semianalysis.com/p/the-future-of-packaging-gets-blurry)

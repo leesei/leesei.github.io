@@ -22,7 +22,7 @@ tags:
 
 C# is an ECMA standard with different implementations
 [What is the difference between C# and .NET? - Stack Overflow](https://stackoverflow.com/questions/2724864/what-is-the-difference-between-c-sharp-and-net)
-C# is the programming language, it requires a runtime to target to (.NET/UWP for Microsoft's implementation)  
+C# is the programming language, it requires a runtime to target to (.NET/UWP for Microsoft's implementation)
 .NET covers the .NET framework libraries and the common language runtime for .NET assemblies (one of C#'s target). The .NET CLR supports multiple languages (C++, C#, F#, VB) and a unified development flow in CLI, e.g. `dotnet run app`. It is initially all about cross platform (console/server) applications.
 [Introduction - C# language specification | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/introduction)
 [Pattern matching - C# 7.0 specification proposals | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-7.0/pattern-matching)
@@ -40,7 +40,7 @@ C# is the programming language, it requires a runtime to target to (.NET/UWP for
 [C# tutorial - beginner C# tutorial](http://zetcode.com/lang/csharp/)
 [.NET Core series - Serverless, GraphQL, NuGet, testing, Entity Framework and more - DEV Community 👩‍💻👨‍💻](https://dev.to/azure/net-core-series-serverless-graphql-nuget-testing-entity-framework-and-more-5dgk)
 
-Microsoft  
+Microsoft
 [Console Application | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/console-teleprompter)
 [C# Console UWP Applications - Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2018/06/06/c-console-uwp-applications/)
 [C# Fundamentals for Absolute Beginners | Channel 9](https://channel9.msdn.com/Series/C-Fundamentals-for-Absolute-Beginners)

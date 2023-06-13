@@ -17,6 +17,7 @@ tags:
 [The true power of regular expressions](https://nikic.github.io/2012/06/15/The-true-power-of-regular-expressions.html)
 
 [The Regular Expression Edition - by Guest Contributor - Why is this interesting?](https://whyisthisinteresting.substack.com/p/the-regular-expression-edition) history
+[Regular Expressions - Computerphile - YouTube](https://www.youtube.com/watch?v=528Jc3q86F8)
 
 ## Learning
 
@@ -31,8 +32,9 @@ tags:
 [RegexLearn And Other RegEx Resources](https://www.i-programmer.info/news/90-tools/15067-regexlearn-and-other-regex-resources.html)
 
 [Introduction to Regular Expressions - YouTube](https://www.youtube.com/watch?v=vcRPNhLbhoc)
-
 [Best of Fluent 2012: /Reg(exp){2}lained/: Demystifying Regular Expressions - YouTube](https://www.youtube.com/watch?v=EkluES9Rvak)
+
+[Writing The Perfect RGB Regex And Failing](https://emnudge.dev/blog/perfect-rgb-regex)
 
 [VerbalExpressions ♥ Open Source](http://verbalexpressions.github.io/)
 

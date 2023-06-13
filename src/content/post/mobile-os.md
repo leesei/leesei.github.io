@@ -48,7 +48,7 @@ Zircon (microkernel)
 
 [fuchsia_component - Rust](https://fuchsia-docs.firebaseapp.com/rust/fuchsia_component/index.html)
 
-Concepts:  
+Concepts:
 [Alphabet Scoop 015: Fuchsia 101, an hour-long crash course in Google’s new OS | 9to5Google](https://9to5google.com/2018/06/22/alphabet-scoop-015/)
 [What is Google’s Fuchsia OS, anyway? | 9to5Google](https://9to5google.com/2018/01/23/what-is-google-fuchsia-os/)
 [Fuchsia Friday: What are Stories and Modules? | 9to5Google](https://9to5google.com/2018/01/26/google-fuchsia-os-stories-and-modules/)

@@ -44,6 +44,8 @@ Conservatives refuses to drop the practice of celebrating 1st April as beginning
 [Leap second - Wikiwand](https://www.wikiwand.com/en/Leap_second)
 [Official Google Blog: Time, technology and leaping seconds](https://googleblog.blogspot.com/2011/09/time-technology-and-leaping-seconds.html)
 
+[NTP Explained | Network Time Protocol | Cisco CCNA 200-301 - YouTube](https://www.youtube.com/watch?v=oCtkwEjhyD4)
+[Network Time Protocol (NTP) - Computerphile - YouTube](https://www.youtube.com/watch?v=BAo5C2qbLq8)
 [Five different ways to handle leap seconds with NTP - Red Hat Developer](https://developers.redhat.com/blog/2015/06/01/five-different-ways-handle-leap-seconds-ntp/)
 [Leap Second handling via Leap Smearing - Network Time Foundation](https://www.nwtime.org/leap-second-leap-smearing/)
 [Making every (leap) second count with our new public NTP servers | Google Cloud Blog](https://cloud.google.com/blog/products/gcp/making-every-leap-second-count-with-our-new-public-ntp-servers)

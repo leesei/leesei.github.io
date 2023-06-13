@@ -21,6 +21,8 @@ tags:
 寫輪眼 森川葵
 勇者義彦
 
+When it comes to programming career, choose two in: Legal, Well Paid, Interesting
+
 ## Stand ups
 
 [Stand up, Brian! 博恩站起來！ - YouTube](https://www.youtube.com/channel/UCUGlE8lf5qH--_XlsabI2XQ)

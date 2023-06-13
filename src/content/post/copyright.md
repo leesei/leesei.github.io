@@ -232,6 +232,15 @@ Not open source. Not closed source. The Fair Source License allows everyone to s
 [About The Licenses - Creative Commons](https://creativecommons.org/licenses/)
 [About CC Licenses - Creative Commons](https://creativecommons.org/about/cclicenses/)
 
+[Why Fedora Decided To Give CC0 Licensed Code The Boot | Hackaday](https://hackaday.com/2022/07/29/why-fedora-decided-to-give-cc0-licensed-code-the-boot/)
+
+## Open Data Commons
+
+[Open Data Commons Open Database License (ODbL) v1.0 — Open Data Commons: legal tools for open data](https://opendatacommons.org/licenses/odbl/1-0/)
+[Copyright Data, But Do It Right | Hackaday](https://hackaday.com/2023/02/04/copyright-data-but-do-it-right/)
+
+[Open Licenses | resources.data.gov](https://resources.data.gov/open-licenses/)
+
 ## GPL
 
 AGPLv3 added Section 13 "Remote Network Interaction" to GPLv3.
@@ -261,7 +270,7 @@ If your work linked to/based on (AGPLv3 s5) GPL/AGPL code, copyleft kicks in.
 [SCALE: The life and times of the AGPL [LWN.net]](https://lwn.net/Articles/541981/)
 [The AGPL | MongoDB](https://www.mongodb.com/blog/post/the-agpl) MongoDB's interpretation estopped AGPL from the applications using MongoDB
 
-[licensing - AGPLv3 source redistribution: when does it apply to my code for a server-side Java app using an AGPL-licensed library? - Open Source Stack Exchange](https://opensource.stackexchange.com/questions/5003/agplv3-source-redistribution-when-does-it-apply-to-my-code-for-a-server-side-ja) !important
+[licensing - AGPLv3 source redistribution: when does it apply to my code for a server-side Java app using an AGPL-licensed library? - Open Source Stack Exchange](https://opensource.stackexchange.com/questions/5003/agplv3-source-redistribution-when-does-it-apply-to-my-code-for-a-server-side-ja) ❗!important
 [Can I use the middleman loophole to reduce AGPL to LGPL? - Open Source Stack Exchange](https://opensource.stackexchange.com/questions/5010/can-i-use-the-middleman-loophole-to-reduce-agpl-to-lgpl?rq=1)
 
 [Choosing the iText Solution that is right for you - YouTube](https://www.youtube.com/watch?v=NCwhEWEPV-E)

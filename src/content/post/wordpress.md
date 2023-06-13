@@ -263,7 +263,7 @@ You have to create a page with 'front-page template' to see this layout.
 - iThemes Security
 - [Custom Post Type UI – WordPress plugin | WordPress.org](https://wordpress.org/plugins/custom-post-type-ui/)
 - reSmush.it
-- [WP Search with Algolia – WordPress plugin | WordPress.org](https://wordpress.org/plugins/wp-search-with-algolia/)  
+- [WP Search with Algolia – WordPress plugin | WordPress.org](https://wordpress.org/plugins/wp-search-with-algolia/)
   [WP Search with Algolia Tips and Tricks - WebDevStudios](https://webdevstudios.com/2021/02/09/wp-search-with-algolia/)
 - [GraphQL API for WordPress | WPGraphQL](https://www.wpgraphql.com/)
 
@@ -293,7 +293,7 @@ The upload size is first limited by host (PHP/`.htaccess`), then by WordPress.
 [WordPress › All-in-One WP Migration « WordPress Plugins](https://wordpress.org/plugins/all-in-one-wp-migration/)
 [WordPress › Backup « WordPress Plugins](https://wordpress.org/plugins/backup-wp/)
 
-[WordPress Backups « WordPress Codex](http://codex.wordpress.org/WordPress_Backups)  
+[WordPress Backups « WordPress Codex](http://codex.wordpress.org/WordPress_Backups)
 [WordPress backups](http://www.tedroche.com/Present/2011/wordpressbackups/WordPressBackupsSlides.html)
 
 ## Tips and Tricks

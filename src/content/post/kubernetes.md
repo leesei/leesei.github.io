@@ -172,7 +172,7 @@ Kubernetes pods are a group of containers that act like a single VM: they have a
 
 ## Learning
 
-[Kubernetes Playground](http://labs.play-with-k8s.com/)
+[Play with Kubernetes](https://labs.play-with-k8s.com/)
 [Introducing PWK (play with K8s) – Marcos Nils – Medium](https://medium.com/@marcosnils/introducing-pwk-play-with-k8s-159fcfeb787b)
 
 [Learnk8s — the Kubernetes training company](https://learnk8s.io/)
@@ -180,7 +180,7 @@ Kubernetes pods are a group of containers that act like a single VM: they have a
 [Learn Kubernetes - Best Kubernetes Tutorials (2019) | gitconnected](https://gitconnected.com/learn/kubernetes)
 [Getting Started with Kubernetes | Pluralsight](https://www.pluralsight.com/courses/getting-started-kubernetes)
 
-[Kubernetes By Example](http://kubernetesbyexample.com/) by Red Hat OpenShift
+[Learn Kubernetes with Lessons & Tutorials | Kube by Example](https://kubebyexample.com/) by Red Hat OpenShift
 [Learning Path: Kubernetes – IBM Developer](https://developer.ibm.com/series/kubernetes-learning-path/)
 [Introduction to Kubernetes (LFS158) - Linux Foundation - Training](https://training.linuxfoundation.org/training/introduction-to-kubernetes/)
 [Scalable Microservices with Kubernetes | Udacity](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
@@ -203,7 +203,7 @@ Kubernetes pods are a group of containers that act like a single VM: they have a
 [Having fun with Kubernetes #Final – Martin Pham](https://www.martinpham.com/2019/12/14/having-fun-with-kubernetes-final/)
 [Martin Pham / kubernetes-fun · GitLab](https://gitlab.com/martinpham/kubernetes-fun)
 
-[A Tutorial Introduction to Kubernetes](http://okigiveup.net/a-tutorial-introduction-to-kubernetes/)
+[A Tutorial Introduction to Kubernetes](https://okigiveup.net/tutorials/a-tutorial-introduction-to-kubernetes/)
 [The Kubernetes Bible for Beginners & Developers - Level UpLevel Up](https://www.level-up.one/kubernetes-bible-beginners/)
 [Kubernetes Tutorial - YouTube](https://www.youtube.com/playlist?list=PLot-YkcC7wZ9xwMzkzR_EkOrPahSofe5Q)
 
@@ -257,6 +257,7 @@ Kubernetes pods are a group of containers that act like a single VM: they have a
 [A Guide to Kubernetes Admission Controllers - Kubernetes](https://kubernetes.io/blog/2019/03/21/a-guide-to-kubernetes-admission-controllers/)
 
 [Kubernetes Replication Controller, Replica Set and Deployments: Understanding replication options | Mirantis](https://www.mirantis.com/blog/kubernetes-replication-controller-replica-set-and-deployments-understanding-replication-options/)
+[Understanding ReplicaSet vs. StatefulSet vs. DaemonSet vs. Deployments - Semaphore](https://semaphoreci.com/blog/replicaset-statefulset-daemonset-deployments)
 
 [paolomainardi/additronk8s-retrogames-kubernetes-controller: A retrogames kubernetes controller built in Javascript](https://github.com/paolomainardi/additronk8s-retrogames-kubernetes-controller)
 
@@ -296,6 +297,7 @@ Pod spec will be embedded as `spec.template` inside a controller.
 [Kubernetes High Availability: No Single Point of Failure - The New Stack](https://thenewstack.io/kubernetes-high-availability-no-single-point-of-failure/)
 [Kubernetes Performance Trouble Spots: Airbnb's Take - The New Stack](https://thenewstack.io/kubernetes-performance-troublespots-airbnbs-take/)
 [5 Tips to Deploy Production-Ready Applications in Kubernetes – The New Stack](https://thenewstack.io/5-tips-to-deploy-production-ready-applications-in-kubernetes/)
+[Kubernetes at Scale without GitOps Is a Bad Idea - The New Stack](https://thenewstack.io/kubernetes-at-scale-without-gitops-is-a-bad-idea/)
 [Kubernetes High Availability – Dominik Tornow – Medium](https://medium.com/@dominik.tornow/kubernetes-high-availability-d2c9cbbdd864)
 [Kubernetes for Scalability and High Availability in Microservices - DZone Microservices](https://dzone.com/articles/kubernetes-for-scalability-and-high-availability)
 [Migrating to Kubernetes with zero downtime: the why and how](https://blog.manifold.co/migrating-to-kubernetes-with-zero-downtime-the-why-and-how-d64ba9a92619)
@@ -521,10 +523,13 @@ microk8s.kubectl version
 
 [Introducing HA MicroK8s, the ultra-reliable, minimal Kubernetes | Ubuntu](https://ubuntu.com/blog/introducing-ha-microk8s-the-ultra-reliable-minimal-kubernetes)
 [From lightweight to featherweight: MicroK8s memory optimisation | Ubuntu](https://ubuntu.com/blog/microk8s-memory-optimisation)
-[Local Kubernetes for Linux – MiniKube vs MicroK8s - Codefresh](https://codefresh.io/kubernetes-tutorial/local-kubernetes-linux-minikube-vs-microk8s/)
-[Portainer recommends MicroK8s for effortless deployment | Ubuntu](https://ubuntu.com/blog/portainer-recommends-microk8s)
+[Local Kubernetes for Linux - MiniKube vs MicroK8s](https://codefresh.io/blog/local-kubernetes-linux-minikube-vs-microk8s/)
 [What's the difference between k3 vs microk8's? - General Discussions / microk8s - Discuss Kubernetes](https://discuss.kubernetes.io/t/whats-the-difference-between-k3-vs-microk8s/15725)
 [K3s and MicroK8s What’s the Difference? | by Maciej | Medium](https://iceburn.medium.com/k3s-and-microk8s-whats-the-difference-f273efcc8ded)
+
+[Portainer recommends MicroK8s for effortless deployment | Ubuntu](https://ubuntu.com/blog/portainer-recommends-microk8s)
+[MicroK8s and Portainer Is The Easiest Way to Deploy an Application on Kubernetes - The New Stack](https://thenewstack.io/microk8s-and-portainer-is-the-easiest-way-to-deploy-an-application-on-kubernetes/)
+[Mikrok8s Automated Kubernetes Install with new Portainer Feature - Virtualization Howto](https://www.virtualizationhowto.com/2023/05/mikrok8s-automated-kubernetes-install-with-new-portainer-feature/)
 
 [Introduction to Kubernetes | Drifting Ruby](https://www.driftingruby.com/episodes/introduction-to-kubernetes)
 [使用 MicroK8s 架設 Kubernetes 叢集的完整過程解析 | The Will Will Web](https://blog.miniasp.com/post/2021/12/05/Running-Kubernetes-with-MicroK8s)
@@ -752,7 +757,7 @@ kubectl exec [-it] <pod name> [-c CONTAINER] -- COMMAND [args…]  # docker exec
 kubectl label [--overwrite] <type> KEY_1=VAL_1 …
 ```
 
-Sample configs:  
+Sample configs:
 [wardviaene/kubernetes-course: Kubernetes Course Files](https://github.com/wardviaene/kubernetes-course)
 [wardviaene/advanced-kubernetes-course: Course files for the Advanced Kubernetes Usage course](https://github.com/wardviaene/advanced-kubernetes-course)
 
@@ -775,7 +780,7 @@ Sample configs:
 [Top 10 Helm Charts for Kubernetes - kubedex.com](https://kubedex.com/top-10/)
 [Beginners Guide to Helm - kubedex.com](https://kubedex.com/beginners-guide-to-helm/)
 [How to make a Helm chart in 10 minutes | Opensource.com](https://opensource.com/article/20/5/helm-charts)
-[Helm Chart Prometheus Exporter - kubedex.com](https://kubedex.com/kubedex-helm-chart-exporter-for-prometheus/) !important
+[Helm Chart Prometheus Exporter - kubedex.com](https://kubedex.com/kubedex-helm-chart-exporter-for-prometheus/) ❗!important
 [Deploying apps on multiple Kubernetes clusters with Helm](https://medium.com/dailymotion/deploying-apps-on-multiple-kubernetes-clusters-with-helm-19ee2b06179e)
 [Why I no longer use Terraform for Templating Kubernetes](https://medium.com/faun/why-i-no-longer-use-terraform-for-templating-kubernetes-9aef37741447?)
 
@@ -1223,7 +1228,7 @@ Kubernetes uses CRI to interface Docker runtime (via `cri-containerd`) since 1.7
 [kubernetes-incubator/cri-o: Open Container Initiative-based implementation of Kubernetes Container Runtime Interface](https://github.com/kubernetes-incubator/cri-o) initiated by RedHat as a replacement of `containerd` by Docker
 
 [containerd/cri: Containerd Plugin for Kubernetes Container Runtime Interface](https://github.com/containerd/cri)
-[Whose Job Is It Anyway? Kubernetes, CRI, & Container Runtimes - {code}](https://blog.thecodeteam.com/2018/02/15/whose-job-is-it-anyway-kubernetes-cri-container-runtimes/)  
+[Whose Job Is It Anyway? Kubernetes, CRI, & Container Runtimes - {code}](https://blog.thecodeteam.com/2018/02/15/whose-job-is-it-anyway-kubernetes-cri-container-runtimes/)
 [container-runtime-series Blog Posts - Ian Lewis](https://www.ianlewis.org/en/tag/container-runtime-series)
 [Containerd Brings More Container Runtime Options for Kubernetes](https://kubernetes.io/blog/2017/11/containerd-container-runtime-options-kubernetes/)
 [Kubernetes Containerd Integration Goes GA - Kubernetes](https://kubernetes.io/blog/2018/05/24/kubernetes-containerd-integration-goes-ga/)
@@ -1319,7 +1324,7 @@ CNI: container network interface
 [Choosing a CNI Network Provider for Kubernetes | Kubernetes musings by chrislovecnm](https://chrislovecnm.com/kubernetes/cni/choosing-a-cni-provider/)
 [Rancher | 应用开发者必须了解的 Kubernetes 网络二三事 | Rancher](https://www.cnrancher.com/app-developers-know-kubernetes-networking/)
 
-[A Hacker’s Guide to Kubernetes Networking - The New Stack](https://thenewstack.io/hackers-guide-kubernetes-networking/) !important
+[A Hacker’s Guide to Kubernetes Networking - The New Stack](https://thenewstack.io/hackers-guide-kubernetes-networking/) ❗!important
 [Kubernetes Networking 101](https://www.slideshare.net/weaveworks/kubernetes-networking-78049891)
 [Kubernetes Networking](https://www.slideshare.net/CJCullen/kubernetes-networking-55835829)
 [Planning in-cluster and external networking for apps](https://cloud.ibm.com/docs/containers?topic=containers-cs_network_planning)

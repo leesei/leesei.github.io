@@ -21,6 +21,10 @@ The server register with a CA and sign its public key with the key of CA for a f
 [HTTPS Decryption with Wireshark // Website TLS Decryption - YouTube](https://www.youtube.com/watch?v=GMNOT1aZmD8)
 [Decrypting TLS, HTTP/2 and QUIC with Wireshark - YouTube](https://www.youtube.com/watch?v=yodDbgoCnLM)
 
+[Transport Layer Security (TLS) - Computerphile - YouTube](https://www.youtube.com/watch?v=0TLDTodL7Lc)
+[TLS Handshake Explained - Computerphile - YouTube](https://www.youtube.com/watch?v=86cQJ0MMses)
+
+[Transport Layer Security, TLS 1.2 and 1.3 (Explained by Example) - YouTube](https://www.youtube.com/watch?v=AlE5X1NlHgg)
 [The SSL/TLS Handshake: an Overview – SSL Information and FAQ](https://info.ssl.com/tls-handshake/)
 [File:Ssl handshake with two way authentication with certificates.png - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ssl_handshake_with_two_way_authentication_with_certificates.png)
 [TLS 1.3 » ADMIN Magazine](http://www.admin-magazine.com/Articles/TLS-1.3-and-the-return-of-common-sense)
@@ -67,6 +71,7 @@ obsolete?
 ## Mutual TLS/mTLS
 
 [A Kubernetes engineer's guide to mTLS](https://buoyant.io/mtls-guide/)
+[Mutual TLS | The Backend Engineering Show - YouTube](https://www.youtube.com/watch?v=KwpV-ICpkc4)
 
 [The Cloudflare mTLS vulnerability - A Deep Dive Analysis - YouTube](https://www.youtube.com/watch?v=xsLqf1Qomn0)
 
@@ -82,7 +87,9 @@ obsolete?
 [SSL Checker](https://www.sslshopper.com/ssl-checker.html?hostname=)
 
 [trimstray/htrace.sh: My simple Swiss Army knife for http/https troubleshooting and profiling.](https://github.com/trimstray/htrace.sh)
+
 [sslyze | Kali Linux Tools](https://www.kali.org/tools/sslyze/)
+[nabla-c0d3/sslyze: Fast and powerful SSL/TLS scanning library.](https://github.com/nabla-c0d3/sslyze)
 
 ## Man-in-the-Middle (MITM)
 
@@ -125,6 +132,7 @@ As it turns out, CA may not be trust-worthy after all. There are many instances 
 ## Localhost certs
 
 [FiloSottile/mkcert: A simple zero-config tool to make locally-trusted development certificates with any names you'd like.](https://github.com/FiloSottile/mkcert)
+[Why and How to Use HTTPS in Your Local Development Environment](https://auth0.com/blog/using-https-in-your-development-environment/)
 
 ## Free SSL Certs
 

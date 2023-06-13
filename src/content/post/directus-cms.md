@@ -13,6 +13,9 @@ tags:
 [directus/directus - Docker Image | Docker Hub](https://hub.docker.com/r/directus/directus)
 [directus/docker at main · directus/directus](https://github.com/directus/directus/tree/main/docker)
 
+Watch and Learn
+[Directus 9 - YouTube](https://www.youtube.com/playlist?list=PLUBR53Dw-Ef84UznqlT1mLLgB-Hvn8Vxt)
+
 ## Plugins
 
 [Extensions | Directus Docs](https://docs.directus.io/extensions/introduction.html)

@@ -15,6 +15,7 @@ tags:
 [5 principles for deploying your API from a CI/CD pipeline - Red Hat Developer Blog](https://developers.redhat.com/blog/2019/07/26/5-principles-for-deploying-your-api-from-a-ci-cd-pipeline/)
 [4 Attributes Of A Good CI/CD Pipeline - DEV Community 👩‍💻👨‍💻](https://dev.to/flippedcoding/4-attributes-of-a-good-ci-cd-pipeline-2hf4)
 [CI/CD Tools Comparison: Jenkins, GitLab CI, Buildbot, Drone, and Concourse | DigitalOcean](https://www.digitalocean.com/community/tutorials/ci-cd-tools-comparison-jenkins-gitlab-ci-buildbot-drone-and-concourse)
+[4 ways to brush up on DevOps and CI/CD skills](https://www.siliconrepublic.com/advice/devops-skills-ci-cd-how-to-improve)
 
 [cytopia/awesome-ci: Awesome Continuous Integration - Lot's of tools for git, file and static source code analysis.](https://github.com/cytopia/awesome-ci)
 [ligurio/awesome-ci: List of Continuous Integration services](https://github.com/ligurio/awesome-ci)
@@ -35,7 +36,7 @@ tags:
 [Danger JS](https://danger.systems/js/) code review
 
 [Continuous Integration, Delivery and Deployment | Technology Conversations](http://technologyconversations.com/category/continuous-integration-delivery-and-deployment/) the series
-[The Short History of CI/CD Tools | Technology Conversations](http://technologyconversations.com/2016/01/14/the-short-history-of-cicd-tools/) !important
+[The Short History of CI/CD Tools | Technology Conversations](http://technologyconversations.com/2016/01/14/the-short-history-of-cicd-tools/) ❗!important
 [Build Automation Panel | Technology Conversations](http://technologyconversations.com/2015/05/17/build-automation-panel/#more-2294)
 [Continuous Delivery: Unit Tests | Technology Conversations](http://technologyconversations.com/2014/06/10/continuous-delivery-unit-tests/) compares services
 
@@ -229,15 +230,3 @@ Community migrated to Jenkins fork early 2011 after Hudson is bought by Oracle b
 [Ansibot by hiddentao](http://hiddentao.github.io/ansijet/)
 [Shippable + Ansible + Docker + Loggly for awesome deployments](http://www.hiddentao.com/archives/2014/06/03/shippable-ansible-docker-loggly-for-awesome-deployments/)
 [Ansijet – Ansible playbook automation server](http://www.hiddentao.com/archives/2014/06/20/ansijet-ansible-playbook-automation-server/)
-
-## Static Analysis/Coverage
-
-Many provide free service for open source projects
-
-[Codecov - Code Coverage](https://codecov.io/)
-[Coveralls - Test Coverage History & Statistics](https://coveralls.io/)
-[Code Climate. Hosted static analysis for Ruby, PHP and JavaScript source code.](https://codeclimate.com/)
-[Dependency management + Code analytics for Node.js projects](https://www.bithound.io/)
-[Snyk | Developer Security | Develop Fast. Stay Secure.](https://snyk.io/)
-[Codacy | The fastest static analysis tool from setup to first analysis | Codacy](https://www.codacy.com/)
-[Code Quality and Code Security | SonarQube](https://www.sonarqube.org/)

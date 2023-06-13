@@ -111,8 +111,8 @@ annotate global type when calling, `sin(x)` vs `sin(x::Float64)`
 
 [JuliaWeb](https://github.com/JuliaWeb)
 
-[Genie Framework | Highly Productive Web Development with Julia](https://genieframework.com/)
-[How to Build Your First Web App in Julia with Genie.jl 🧞‍♂️](https://www.freecodecamp.org/news/how-to-build-web-apps-in-julia/)
+[Genie Framework | Highly Productive Web Development with Julia](https://genieframework.com/)
+[How to Build Your First Web App in Julia with Genie.jl 🧞‍♂️](https://www.freecodecamp.org/news/how-to-build-web-apps-in-julia/)
 
 ## DataFrame (Julia)
 

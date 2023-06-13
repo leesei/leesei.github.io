@@ -19,16 +19,16 @@ tags:
 
 [Sources - The Immune System Explained](https://sites.google.com/view/sources-immunesystemexplained/)
 
-Kurzgesagt – In a Nutshell  
+Kurzgesagt – In a Nutshell
 [How The Immune System ACTUALLY Works – IMMUNE - YouTube](https://www.youtube.com/watch?v=lXfEK8G8CUI) 2021, revisited
 [You Are Immune Against Every Disease - YouTube](https://www.youtube.com/watch?v=LmpuerlbJu0)
 [The Immune System Explained I – Bacteria Infection - YouTube](https://www.youtube.com/watch?v=zQGOcOUBi6s) 2014
 [Tiny Bombs in your Blood - The Complement System - YouTube](https://www.youtube.com/watch?v=BSypUV6QUNw) Part II
 [Amazon.com: Immune: A Journey into the Mysterious System That Keeps You Alive: 9780593241318: Dettmer, Philipp: 圖書](https://www.amazon.com/Immune-Journey-Mysterious-System-Keeps/dp/0593241312)
 
-Crash Course  
-[Immune System, Part 1: Crash Course A&P #45 - YouTube](https://www.youtube.com/watch?v=GIJK3dwCWCw)  
-[Immune System, Part 2: Crash Course A&P #46 - YouTube](https://www.youtube.com/watch?v=2DFN4IBZ3rI)  
+Crash Course
+[Immune System, Part 1: Crash Course A&P #45 - YouTube](https://www.youtube.com/watch?v=GIJK3dwCWCw)
+[Immune System, Part 2: Crash Course A&P #46 - YouTube](https://www.youtube.com/watch?v=2DFN4IBZ3rI)
 [Immune System, Part 3: Crash Course A&P #47 - YouTube](https://www.youtube.com/watch?v=rd2cf5hValM)
 
 [120 万一针的抗癌神药为啥这么贵？免疫疗法 CAR-T 能治好所有癌症吗？ - YouTube](https://www.youtube.com/watch?v=Y2nFl0OY2bs) 免疫系統
@@ -87,7 +87,7 @@ Crash Course
 [A Brief History of Human Challenge Trials | Science | Smithsonian Magazine](https://www.smithsonianmag.com/science-nature/brief-history-human-challenge-trials-180976556/)
 [Early smallpox vaccine is tested - HISTORY](https://www.history.com/this-day-in-history/jenner-tests-smallpox-vaccine)
 
-[9 分鐘搞懂疫苗原理和歷史|新冠病毒和疫苗的攻防戰 究竟誰會勝出? 為什麼我們需要疫苗?WHY WHITE 壞壞科普小教室 - YouTube](https://www.youtube.com/watch?v=I1qaCMBmIo0)  
+[9 分鐘搞懂疫苗原理和歷史|新冠病毒和疫苗的攻防戰 究竟誰會勝出? 為什麼我們需要疫苗?WHY WHITE 壞壞科普小教室 - YouTube](https://www.youtube.com/watch?v=I1qaCMBmIo0)
 [9 分鐘搞懂新冠肺炎疫苗的設計策略和原理? ｜為什麼選擇核酸疫苗?｜一支疫苗是如何誕生的?|WHY WHITE 壞壞科普小教室 - YouTube](https://www.youtube.com/watch?v=T0Wev8fA9rk)
 
 - 減毒疫苗
@@ -148,7 +148,7 @@ This epidemic actually starts in Taxas, US.
 
 - Cannabidol 大麻二酚 (CDB)
   blocks CB1 from binding with THC
-- Tetrahydrocannabinol 四氫大麻酚 (THC)  
+- Tetrahydrocannabinol 四氫大麻酚 (THC)
   binds with CB1 in brain to make you high
 
 [一定黃標！來聊聊這個大麻煩吧 ！【Buchi 社會課#11】 - YouTube](https://www.youtube.com/watch?v=EpG1BQxaJ4o)

@@ -24,7 +24,7 @@ tags:
 [The definitive Node.js handbook](https://www.freecodecamp.org/news/the-definitive-node-js-handbook-6912378afc6e)
 [nodejs/Release: Node.js Foundation Release Working Group](https://github.com/nodejs/Release) release cadence
 
-[Node Hero - Getting Started With Node.js | @RisingStack](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/) !important
+[Node Hero - Getting Started With Node.js | @RisingStack](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/) ❗!important
 [A Node.JS Holiday Season Articles ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/category/a-node-js-holiday-season/) (2012)
 [JavaScript 中的同步與非同步（上）：先成為 callback 大師吧！ | TechBridge 技術共筆部落格](https://blog.techbridge.cc/2019/10/05/javascript-async-sync-and-callback/)
 [Heroku | 10 Habits of a Happy Node Hacker (2016)](http://blog.heroku.com/archives/2015/11/10/node-habits-2016)
@@ -122,7 +122,7 @@ Obsoleted:
 
 ### ~~Runtime.js~~
 
-> inactive
+> 😴inactive
 
 [runtime.js – JavaScript library operating system for the cloud](http://runtimejs.org/)
 [runtime.js — JavaScript library OS — Medium](https://medium.com/@iefserge/runtime-js-javascript-library-os-823ada1cc3c)
@@ -192,13 +192,13 @@ See [leesei/openslide-prop2json](https://github.com/leesei/openslide-prop2json).
 [StrongLoop | What’s New in io.js 1.0 Beta? – Streams3](https://strongloop.com/strongblog/whats-new-io-js-beta-streams3/)
 [stream - What is Streams3 in Node.js and how does it differ from Streams2? - Stack Overflow](http://stackoverflow.com/a/21549237/665507)
 
-"Classic" streams are available since v0.4.  
-Classic readable streams are just `EventEmitter` with `'data'` and `'end'` events and a boolean `writable` member. They can _optionally_ provides `.pause()` and `.resume()` to control buffering.  
-Classic writable streams are defined by the interface `.write(buf)`, `.end(buf)` and `.destroy()`.  
+"Classic" streams are available since v0.4.
+Classic readable streams are just `EventEmitter` with `'data'` and `'end'` events and a boolean `writable` member. They can _optionally_ provides `.pause()` and `.resume()` to control buffering.
+Classic writable streams are defined by the interface `.write(buf)`, `.end(buf)` and `.destroy()`.
 Classic streams are considered legacy so avoid registering `'data'` and `'end'` listeners (with stream libraries such as [through](https://github.com/dominictarr/through), [concat-stream](https://github.com/maxogden/concat-stream)).
 
-Streams2 (paused streams/pull streams) was added to Node v0.10.  
-To [consume a Readable stream](https://github.com/substack/stream-handbook#consuming-a-readable-stream), call `.read()` on `'readable'`. To [create a Readable stream](https://github.com/substack/stream-handbook#creating-a-readable-stream), inherits `stream.Readable` and implement `._read()` to `.push()` to the Readable stream. `.push(null)` to signal end of stream. You can also peek `buf` and `unshift()`  
+Streams2 (paused streams/pull streams) was added to Node v0.10.
+To [consume a Readable stream](https://github.com/substack/stream-handbook#consuming-a-readable-stream), call `.read()` on `'readable'`. To [create a Readable stream](https://github.com/substack/stream-handbook#creating-a-readable-stream), inherits `stream.Readable` and implement `._read()` to `.push()` to the Readable stream. `.push(null)` to signal end of stream. You can also peek `buf` and `unshift()`
 To [write to a Writable stream](https://github.com/substack/stream-handbook#writing-to-a-writable-stream), call `.write()` and `.end()`. To [create a Writable stream](https://github.com/substack/stream-handbook#creating-a-writable-stream), inherits `stream.Writable` and implement `_write()` to consume the chunks, call `next()` to trigger the Readable stream to provide more data.
 
 Streams3 (combined streams) was added to iojs and Node v0.11+.
@@ -368,7 +368,7 @@ stream.on("end", function () {
 
 ## V8 Internals
 
-[Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014 - YouTube](https://www.youtube.com/watch?v=8aGhZQkoFbQ) !important
+[Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014 - YouTube](https://www.youtube.com/watch?v=8aGhZQkoFbQ) ❗!important
 [latentflip.com/loupe/](http://latentflip.com/loupe/)
 [Morning Keynote- Everything You Need to Know About Node.js Event Loop - Bert Belder, IBM - YouTube](https://www.youtube.com/watch?v=PNa9OMajw9w) 2016
 
@@ -439,15 +439,7 @@ stream.on("end", function () {
 
 [i0natan/nodebestpractices: The largest Node.js best practices list (April 2019)](https://github.com/i0natan/nodebestpractices)
 
-[Working with Node: What you need to know](http://www.nearform.com/nodecrunch/working-node-need-know/) also some best practices
-[Node.js tips #1: develop debugging techniques](http://www.nearform.com/nodecrunch/node-js-develop-debugging-techniques/)
-[Node.js: How to Avail & Beware of the Ecosystem](http://www.nearform.com/nodecrunch/coding-with-nodejs/)
-[10 tips for coding with Node.js #3: Throwing](http://www.nearform.com/nodecrunch/10-tips-coding-node-js-3-know-throw-2/)
-[10 tips for coding with Node.js #4: reproduce core callback signatures - nearForm](http://www.nearform.com/nodecrunch/10-tips-coding-node-js-4-reproduce-core-callback-signatures/)
-
-[Production Practices - Developer Center - Joyent](https://www.joyent.com/developers/node)
-
-[continuationlabs/toolbag: preloaded Node.js tooling enhancements](https://github.com/continuationlabs/toolbag) exposes reporting and command interface for analytics
+[cjihrig/toolbag: preloaded Node.js tooling enhancements](https://github.com/cjihrig/toolbag) exposes reporting and command interface for analytics
 [continuationlabs/borland: hapi plugin for working with toolbag](https://github.com/continuationlabs/borland)
 
 ### Error Handling
@@ -612,7 +604,7 @@ GitHub repo can be simplified as `user/repo`:
 [These 6 essential tools will release, version, and maintain your NPM modules for you](https://hackernoon.com/these-6-essential-tools-will-maintain-your-npm-modules-for-you-4cbbee88e0cb)
 [How to Upgrade Dependencies in Your package.json - Better Programming - Medium](https://medium.com/better-programming/how-to-upgrade-dependencies-in-package-json-e5546804187f)
 
-dep bots:  
+dep bots:
 [Greenkeeper | Automate your npm dependency management](https://greenkeeper.io/) bot to check if dependency update breaks your module
 [Dependabot](https://dependabot.com/)
 [Depfu: Continuous automated dependency updates for Ruby and JavaScript](https://depfu.com/) bot that creates PR for updated dependency

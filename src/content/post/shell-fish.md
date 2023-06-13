@@ -24,7 +24,9 @@ tags:
 
 ## Tips and Tricks
 
+Use [Starship: Cross-Shell Prompt](https://starship.rs/) instead
 [jorgebucaran/awsm.fish: A curation of prompts, plugins & other resources for Fish. 🐚](https://github.com/jorgebucaran/awsm.fish)
+[IlanCosman/tide: 🌊 The ultimate Fish prompt.](https://github.com/IlanCosman/tide)
 
 [fish for zsh users](https://ludios.org/fish-for-zsh-users/)
 [friendly interactive shell - Wikiwand](https://www.wikiwand.com/en/Friendly_interactive_shell#/Bash/fish_translation_table)
@@ -68,7 +70,7 @@ Fish featured on Ars:
 
 [history - Show and manipulate command history — fish-shell 3 documentation](https://fishshell.com/docs/current/cmds/history.html)
 
-History search is simply typing and <kbd>Up</kbd>, no more <kbd>Ctrl</kbd>+<kbd>R</kbd> by default.  
+History search is simply typing and <kbd>Up</kbd>, no more <kbd>Ctrl</kbd>+<kbd>R</kbd> by default.
 But you can bind manually, see [[#fzf key bindings]]
 
 ## Parameter expansion
@@ -99,13 +101,13 @@ But you can bind manually, see [[#fzf key bindings]]
 
 ## Autocomplete
 
-Fish will automatically generate autocompletion from man pages for supported commands, written to `~/.local/share/fish/generated_completions/`.  
+Fish will automatically generate autocompletion from man pages for supported commands, written to `~/.local/share/fish/generated_completions/`.
 Use [`fish_update_completions`](https://github.com/fish-shell/fish-shell/blob/master/share/functions/fish_update_completions.fish) to update.
 
 Fish also includes completion of popular packages, located.
 
 [Tutorial — fish-shell documentation](https://fishshell.com/docs/current/tutorial.html#autosuggestions)
-To accept autocompletion, press <kbd>Right</kbd> or <kbd>Ctrl</kbd>+<kbd>F</kbd>  
+To accept autocompletion, press <kbd>Right</kbd> or <kbd>Ctrl</kbd>+<kbd>F</kbd>
 To accept autocompletion to word boundary, use <kbd>Alt</kbd>+<kbd>Right</kbd> or <kbd>Alt</kbd>+<kbd>R</kbd>
 
 [Writing your own completions — fish-shell documentation](https://fishshell.com/docs/current/index.html#writing-your-own-completions)

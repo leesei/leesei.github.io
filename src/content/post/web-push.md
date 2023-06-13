@@ -250,3 +250,4 @@ Intermediatries may buffer response leading to high latency
 [Experimenting with QUIC and WebTransport in Go - Centrifugo](https://centrifugal.github.io/centrifugo/blog/quic_web_transport/)
 
 [What is WebTransport and can it replace WebSockets? | Ably Blog: Data in Motion](https://ably.com/blog/can-webtransport-replace-websockets)
+[WebTransport is a Game Changer Protocol - YouTube](https://www.youtube.com/watch?v=SEF8VBYlLik)

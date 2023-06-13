@@ -37,11 +37,12 @@ zig zen
 
 [catdevnull/awesome-zig: A list of awesome projects related to Zig](https://github.com/catdevnull/awesome-zig)
 [C-BJ/awesome-zig: 📜Zig Learning Guide & Project Lists](https://github.com/C-BJ/awesome-zig)
-[nrdmn/awesome-zig](https://github.com/nrdmn/awesome-zig) inactive
+[nrdmn/awesome-zig](https://github.com/nrdmn/awesome-zig) 😴inactive
 
 [CppCast Episode 342: Zig with Andrew Kelley - YouTube](https://www.youtube.com/watch?v=AdP6seB4sp4) 2022
 
 [Prime Reacts: Is This NEW Language BETTER Than Rust? C++? (Zig First Impressions) - YouTube](https://www.youtube.com/watch?v=alp_Sx5qhn0)
+[Zig is FASTER and SAFER than Rust | Prime Reacts - YouTube](https://www.youtube.com/watch?v=CbQVR4v5PZw)
 
 [Loris Cro's Personal Website](https://kristoff.it/)
 [Andrew Kelley](https://andrewkelley.me/)
@@ -86,6 +87,9 @@ zig zen
 [When Zig is safer and faster than Rust](https://zackoverflow.dev/writing/unsafe-rust-vs-zig/)
 [Zig is FASTER and SAFER than Rust | Prime Reacts - YouTube](https://www.youtube.com/watch?v=CbQVR4v5PZw)
 [Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
+
+[A Review of the Zig Programming Language (using Advent of Code 2021) :: Neil Henning](https://www.neilhenning.dev/posts/2021-aoc-zig/) 2021
+[My Zig Experience | Prime Reacts - YouTube](https://www.youtube.com/watch?v=SBe8DgBCjTc)
 
 ## Internals
 

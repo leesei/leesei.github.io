@@ -67,6 +67,11 @@ tags:
 
 [二维码的生成细节和原理 | | 酷 壳 - CoolShell](https://coolshell.cn/articles/10590.html)
 
+### Photo QR Code
+
+[Redditor creates working anime QR codes using Stable Diffusion | Ars Technica](https://arstechnica.com/information-technology/2023/06/redditor-creates-working-anime-qr-codes-using-stable-diffusion/)
+[How to make a QR code with Stable Diffusion - Stable Diffusion Art](https://stable-diffusion-art.com/qr-code/)
+
 ### rMQR
 
 > long QR code

@@ -9,6 +9,8 @@ tags:
 
 [The Tree Guide at arborday.org](https://www.arborday.org/trees/treeguide/index.cfm)
 
+[花十几万买了一堆金丝楠乌木，几年后仅剩十分之一，大家却说太值了「老蒋根雕」 - YouTube](https://www.youtube.com/watch?v=HlpwIOPbCAs)
+
 ## Spermatophyte
 
 [Spermatophyte - Wikiwand](https://www.wikiwand.com/en/Spermatophyte)

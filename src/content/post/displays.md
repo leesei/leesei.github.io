@@ -187,7 +187,7 @@ Polarizing layer:
 - PLS (Plane to Line Switching)
 - IPS (In-Plane Switching)
 
-[Panel Technologies - TN Film, MVA, PVA, IPS, PLS](http://www.tftcentral.co.uk/articles/panel_technologies.htm) !important
+[Panel Technologies - TN Film, MVA, PVA, IPS, PLS](http://www.tftcentral.co.uk/articles/panel_technologies.htm) ❗!important
 [What is an IPS Monitor? A Practical Guide to Understanding Display Technology](http://www.slrlounge.com/what-is-an-ips-monitor-understanding-ips-displays/)
 [LCD Panel Technology: IPS, VA, PLS, AHVA & TN Monitors](http://www.pchardwarehelp.com/guides/lcd-panel-types.php)
 [Display Tech Compared: TN vs. VA vs. IPS | TechSpot](https://www.techspot.com/article/2322-display-tech-compared/)
@@ -223,6 +223,7 @@ Each pixel has its own mini LED as backlight, producing a panel like OLED that a
 Halo effect for small object since blocks of mini LED are turned on together
 [Mini LED 决战 OLED ？华为 2880 分区电视 V75 Super 评测 - YouTube](https://www.youtube.com/watch?v=tbYm0s47CwY)
 [未来显示技术 MicroLED 详解「SIGNOW」 - YouTube](https://www.youtube.com/watch?v=Qxz9kXRPt0Y)
+[王思聪的新电视 110 寸 110 万 详解 MicroLED 技术 买电视我就送特斯拉 Model 3 - YouTube](https://www.youtube.com/watch?v=wfipflFJR-4&)
 Mini LED in principal is LCD with thousands of regions (~3000 in 2021)
 Mini LED have worse viewing angle
 Both Mini LED and OLED are transitional technologies

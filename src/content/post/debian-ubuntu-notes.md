@@ -39,6 +39,14 @@ list upgrades: `apt-get -s upgrade`
 
 [Good PPAs](https://ppas.fosspost.org/)
 
+### AUR source
+
+[Pacstall - The AUR for Ubuntu](https://pacstall.dev/)
+[pacstall/pacstall: An AUR-inspired package manager for Ubuntu](https://github.com/pacstall/pacstall)
+[pacstall Command Examples – The Geek Diary](https://www.thegeekdiary.com/pacstall-command-examples/)
+
+[AUR You Ready? » Linux Magazine](https://www.linux-magazine.com/Issues/2022/255/Pacstall)
+
 ### update packages
 
 ```sh
@@ -51,6 +59,8 @@ sudo apt update && sudo apt dist-upgrade && sudo apt autoremove
 ```
 
 ### repo source
+
+[Wrapped with a Bow on Top » Linux Magazine](https://www.linux-magazine.com/Issues/2015/181/Self-Built-PPAs)
 
 ```sh
 inxi -r

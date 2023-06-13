@@ -1,10 +1,10 @@
 ---
 title: OpenSeadragon
-description: "An open-source, web-based viewer for high-resolution zoomable images, implemented in pure JavaScript, for desktop and mobile."
+description: An open-source, web-based viewer for high-resolution zoomable images, implemented in pure JavaScript, for desktop and mobile.
 created: 2016-04-08
 tags:
-  - web
   - tiled-image
+  - web
 ---
 
 [OpenSeadragon](http://openseadragon.github.io/) [source](https://github.com/openseadragon/openseadragon)
@@ -15,11 +15,11 @@ tags:
 
 ## API
 
-[OpenSeadragon API](http://openseadragon.github.io/docs/)  
-[OpenSeadragon Options](http://openseadragon.github.io/docs/OpenSeadragon.html#Options)  
-[OpenSeadragon Class: Viewer](http://openseadragon.github.io/docs/OpenSeadragon.Viewer.html)  
-[OpenSeadragon Class: Viewport](http://openseadragon.github.io/docs/OpenSeadragon.Viewport.html)  
-[OpenSeadragon Class: Navigator](http://openseadragon.github.io/docs/OpenSeadragon.Navigator.html)  
+[OpenSeadragon API](http://openseadragon.github.io/docs/)
+[OpenSeadragon Options](http://openseadragon.github.io/docs/OpenSeadragon.html#Options)
+[OpenSeadragon Class: Viewer](http://openseadragon.github.io/docs/OpenSeadragon.Viewer.html)
+[OpenSeadragon Class: Viewport](http://openseadragon.github.io/docs/OpenSeadragon.Viewport.html)
+[OpenSeadragon Class: Navigator](http://openseadragon.github.io/docs/OpenSeadragon.Navigator.html)
 [OpenSeadragon Class: Overlay](http://openseadragon.github.io/docs/OpenSeadragon.Overlay.html)
 
 `Open()` returns `Viewer`
@@ -32,14 +32,14 @@ tags:
 
 Navigator (minimap) support is built-in
 
-Sequence (previous/next) support is built-in  
-[MartinPluta/OpenSeadragonMultiRow](https://github.com/MartinPluta/OpenSeadragonMultiRow) for multiple view angle  
-[NIST-ISG/OpenSeadragonScalebar](https://github.com/NIST-ISG/OpenSeadragonScalebar)  
+Sequence (previous/next) support is built-in
+[MartinPluta/OpenSeadragonMultiRow](https://github.com/MartinPluta/OpenSeadragonMultiRow) for multiple view angle
+[NIST-ISG/OpenSeadragonScalebar](https://github.com/NIST-ISG/OpenSeadragonScalebar)
 [NIST-ISG/OpenSeadragonFiltering](https://github.com/NIST-ISG/OpenSeadragonFiltering)
 
 ### Coordinate System
 
-[Viewport Coordinates | OpenSeadragon](https://openseadragon.github.io/examples/viewport-coordinates/) !important
+[Viewport Coordinates | OpenSeadragon](https://openseadragon.github.io/examples/viewport-coordinates/) ❗!important
 [OpenSeadragon Class: Viewport](https://openseadragon.github.io/docs/OpenSeadragon.Viewport.html)
 
 When you get a click, it'll be in window pixel coordinates. You can then translate it into viewport coordinates (logical point, which goes from 0.0 on the left to 1.0 on the right). You can then translate those into pixel coordinates of the image. Here's how it would look all together:
@@ -74,7 +74,7 @@ viewer.addHandler("canvas-click", function (event) {
 
 [OpenSeadragon Class: Viewport](http://openseadragon.github.io/docs/OpenSeadragon.Viewport.html)
 
-[msalsbery/OpenSeadragonImagingHelper](https://github.com/msalsbery/OpenSeadragonImagingHelper) map client (browser) coordinates to data coordinates [docs](http://msalsbery.github.io/openseadragonimaginghelper/docs/) [demo](http://msalsbery.github.io/openseadragonimaginghelper/)  
+[msalsbery/OpenSeadragonImagingHelper](https://github.com/msalsbery/OpenSeadragonImagingHelper) map client (browser) coordinates to data coordinates [docs](http://msalsbery.github.io/openseadragonimaginghelper/docs/) [demo](http://msalsbery.github.io/openseadragonimaginghelper/)
 The demo also shows how to anchor an SVG annotation to the image
 
 [OpenSeadragonZoomLevels](http://picturae.github.io/openseadragonselection/#tabs-zoom-levels) [source](https://github.com/picturae/openseadragonzoomlevels) limit zoom level
@@ -106,12 +106,12 @@ Disable overlay interaction with `$('.openseadragon-canvas').find('svg').css('po
 [Add Line and Polygon Overlay · Issue #14 · openseadragon/openseadragon](https://github.com/openseadragon/openseadragon/issues/14)
 [How to get overlay's child to scale with overlay · Issue #906 · openseadragon/openseadragon](https://github.com/openseadragon/openseadragon/issues/906)
 
-[openseadragon/svg-overlay](https://github.com/openseadragon/svg-overlay)  
+[openseadragon/svg-overlay](https://github.com/openseadragon/svg-overlay)
 [Emigre/openseadragon-annotations](https://github.com/Emigre/openseadragon-annotations)
-[msalsbery/OpenSeadragonAnnoHost](https://github.com/msalsbery/OpenSeadragonAnnoHost) annotation, WIP  
+[msalsbery/OpenSeadragonAnnoHost](https://github.com/msalsbery/OpenSeadragonAnnoHost) annotation, WIP
 [picturae/openseadragonselection](https://github.com/picturae/openseadragonselection) make rectangular selection
 
-[dgutman/OpenSeadragon-Plugins](https://github.com/dgutman/OpenSeadragon-Plugins) (WIP, evolved to svg-overlay)  
+[dgutman/OpenSeadragon-Plugins](https://github.com/dgutman/OpenSeadragon-Plugins) (WIP, evolved to svg-overlay)
 [demo](http://dgutman.github.io/OpenSeadragon-Plugins/) [gh-pages](https://github.com/dgutman/OpenSeadragon-Plugins/tree/master/examples)
 Port of [Raphael Vector Overlays for Seadragon AJAX | no.5 geekvault](http://no5-geekvault.blogspot.hk/2011/04/raphael-vector-overlays-for-seadragon.html)
 
@@ -126,7 +126,7 @@ You should also be able to
 
 ### Icons
 
-[peterthomet/openseadragon-flat-toolbar-icons](https://github.com/peterthomet/openseadragon-flat-toolbar-icons)  
+[peterthomet/openseadragon-flat-toolbar-icons](https://github.com/peterthomet/openseadragon-flat-toolbar-icons)
 [MartinPluta/OpenSeadragonCustomIcons](https://github.com/MartinPluta/OpenSeadragonCustomIcons)
 
 Of cause you can use custom toolbar and interact with OpenSeadragon via API.

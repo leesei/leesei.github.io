@@ -55,7 +55,7 @@ You can always check reflog to restore commit no matter how you messed with your
 [Learn git concepts, not commands - DEV Community 👩‍💻👨‍💻](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
 [Git: A Complete Guide. Covering the essential commands for a… | by Rahul Pathak | Towards Data Science](https://towardsdatascience.com/git-a-complete-guide-d49675d02a5d)
 
-[Git Tutorials and Training | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials) !important
+[Git Tutorials and Training | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials) ❗!important
 [Using Git - GitHub Docs](https://docs.github.com/en/get-started/using-git) "Git Handbook"
 [git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/)
 [Git Tutorial - Try Git](https://try.github.io/)
@@ -72,7 +72,7 @@ You can always check reflog to restore commit no matter how you messed with your
 [Git for Teams — Git for Teams — Creating efficiency for teams of one or more.](http://www.gitforteams.com/)
 [Learn Git in 30 Minutes | Tutorialzine](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/)
 [Git 版本控制系統 | ihower 的 Git 教室](https://ihower.tw/git/)
-[Learn Git Branching](https://learngitbranching.js.org/) !important
+[Learn Git Branching](https://learngitbranching.js.org/) ❗!important
 [Interactive Git Tutorials – Rebase and Bisect – zwischenzugs](https://zwischenzugs.com/2016/04/24/interactive-git-tutorials-rebase-and-bisect/)
 [How to become a Git expert](https://www.freecodecamp.org/news/how-to-become-a-git-expert-e7c38bf54826)
 [Git It Right » Linux Magazine](http://www.linux-magazine.com/Issues/2018/216/Version-Control-with-Git)
@@ -90,6 +90,7 @@ You can always check reflog to restore commit no matter how you messed with your
 [Lecture 6: Version Control (git) (2020) - YouTube](https://www.youtube.com/watch?v=2sjqTHE0zok)
 [Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth - YouTube](https://www.youtube.com/watch?v=DVRQoVRzMIY)
 [Git And GitHub in ~30 Minutes - YouTube](https://www.youtube.com/watch?v=jG4Vs81kMlc)
+[How to be a git expert - YouTube](https://www.youtube.com/watch?v=hZS96dwKvt0) 46:25
 
 ## Books
 
@@ -200,8 +201,8 @@ You can name you custom script as `git-mycmd`, place it in you PATH and use `git
 ## GUI Clients
 
 [Git - GUI Clients](https://git-scm.com/downloads/guis)
-[Sublime Merge - Git Client, done Sublime](https://www.sublimemerge.com/) !important
-[GitLens: where have you been all my life! - DEV Community 👩‍💻👨‍💻](https://dev.to/glsolaria/gitlens-where-have-you-been-all-my-life-1c2d) !important, VSCode extension
+[Sublime Merge - Git Client, done Sublime](https://www.sublimemerge.com/) ❗!important
+[GitLens: where have you been all my life! - DEV Community 👩‍💻👨‍💻](https://dev.to/glsolaria/gitlens-where-have-you-been-all-my-life-1c2d) ❗!important, VSCode extension
 
 [Git GUI for Windows, Mac & Linux | GitKraken](https://www.gitkraken.com/)
 [GitEye | CollabNet](http://www.collab.net/products/giteye)
@@ -453,7 +454,7 @@ fi
 
 ## Merging from forked repo
 
-[Syncing a fork - User Documentation](https://help.github.com/articles/syncing-a-fork/)  
+[Syncing a fork - User Documentation](https://help.github.com/articles/syncing-a-fork/)
 [Updating Slate · lord/slate Wiki](https://github.com/lord/slate/wiki/Updating-Slate)
 
 ```sh

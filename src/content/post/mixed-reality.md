@@ -47,7 +47,7 @@ WebXR includes AR, obsoletes WebVR spec
 
 [TojiCode: Oculus Rift and HTC Vive review](http://blog.tojicode.com/2016/04/oculus-rift-and-htc-vive-review.html)
 
-[AltDevBlog » Latency Mitigation Strategies](https://web.archive.org/web/20140719085135/http://www.altdev.co/2013/02/22/latency-mitigation-strategies/) !important
+[AltDevBlog » Latency Mitigation Strategies](https://web.archive.org/web/20140719085135/http://www.altdev.co/2013/02/22/latency-mitigation-strategies/) ❗!important
 [networking - Transatlantic ping faster than sending a pixel to the screen? - Super User](http://superuser.com/questions/419070/transatlantic-ping-faster-than-sending-a-pixel-to-the-screen)
 
 [Virtual Reality Oasis - YouTube](https://www.youtube.com/c/VirtualRealityOasis)
@@ -60,7 +60,7 @@ WebXR includes AR, obsoletes WebVR spec
 extra matrix transform after rendering with the latest position/orientation of the headset
 [Are we ditching keypads for good in AR/VR? - UX Collective](https://uxdesign.cc/are-we-ditching-keypads-for-good-in-ar-vr-93342f835f8f)
 
-Real VR has to be like this:  
+Real VR has to be like this:
 [Testing The BEST VR GUNS Ever Made! - YouTube](https://www.youtube.com/watch?v=dX3m8HiL-5c)
 [Guns in VR - YouTube](https://www.youtube.com/watch?v=iYrkXK3V2ik)
 
@@ -167,7 +167,7 @@ Real VR has to be like this:
 Barcode (matrix) marker:
 [Marker generator](https://au.gmented.com/app/marker/marker.php)
 [Barcode marker generator - ARToolworks](https://artoolworks.com/support/applications/marker.html)
-Pattern (picture) marker:  
+Pattern (picture) marker:
 [AR.js Marker Training](https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html)
 
 [AR For Everyone: Building cross platform AR (ARCore/ARKit) Apps with React Native and ViroReact](https://blog.viromedia.com/ar-for-everyone-build-cross-platform-ar-arcore-arkit-apps-react-native-viroreact-f91c58fde)
@@ -181,6 +181,12 @@ Pattern (picture) marker:
 [真的晕到吐...VR 眼镜最强劝退指南 - YouTube](https://www.youtube.com/watch?v=RROr6EmKz-k)
 
 # Headmount Display Headsets
+
+[未来十年是 AR 可能替代手机 - YouTube](https://www.youtube.com/watch?v=fpO2sHQPTCM)
+
+- 全能型
+- 內容消費型 (usually birdbath)
+- 功能細分型 (usually wave guide, much lighter)
 
 [AR 眼镜到什么程度了？为什么最近广告这么多？ - YouTube](https://www.youtube.com/watch?v=hJZ3pRkBMMo)
 Many Chinese company release these products in 2022, but they are not actually AR

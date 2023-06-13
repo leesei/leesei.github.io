@@ -10,6 +10,7 @@ tags:
 
 [[biology]]
 [[food]]
+[[manufacturing]]
 [[scientific-method]]
 [[space-science]]
 
@@ -59,7 +60,7 @@ tags:
 
 ## Standard Model
 
-> quantum field theory
+> quantum field theory, cannot explain gravity
 
 [Standard Model - Wikiwand](https://www.wikiwand.com/en/Standard_Model)
 [The Standard Model | CERN](https://home.cern/science/physics/standard-model)
@@ -95,6 +96,8 @@ Faraday: field only
 [What are bosons? | Space](https://www.space.com/what-are-bosons)
 [What are gluons? | Space](https://www.space.com/gluons-carriers-strong-force-explained)
 [Leptons: The elementary particles explained | Space](https://www.space.com/leptons-facts-explained)
+
+[Why Don't Protons Fly Apart in the Nucleus of Atoms? RESIDUAL Strong Force Explained - YouTube](https://www.youtube.com/watch?v=WF2c_jzefKc)
 
 [Science Made Simple: What Are Neutrinos](https://scitechdaily.com/science-made-simple-what-are-neutrinos/)
 [Science Made Simple: What Are Muons?](https://scitechdaily.com/science-made-simple-what-are-muons/)
@@ -140,6 +143,9 @@ Bottom quark -> Sbottom quark
 
 Boson -> Muon add -ino suffix
 Photon -> Photino
+
+> idea came from string theory
+> ? ruled out after experiments
 
 ### Superconductivity
 
@@ -264,6 +270,9 @@ Weak force has handiness
 
 [Spacetime Globe | ALEX on Science](https://alexonscience.com/projects/spacetimeglobe/)
 
+[Special Relativity: This Is Why You Misunderstand It - YouTube](https://www.youtube.com/watch?v=ZdrZf4lQTSg)
+[How we know that Einstein's General Relativity can't be quite right - YouTube](https://www.youtube.com/watch?v=Ov98y_DCvRY)
+
 [Relativity - YouTube](https://www.youtube.com/playlist?list=PL1lNrW4e0G8Vwvb5rrxW4Y1UQC7PlTBJS) Up and Atom
 [Relativity - YouTube](https://www.youtube.com/playlist?list=PLF56602BAC693237E) ViaScience
 [Intro to Special Relativity Course - YouTube](https://www.youtube.com/playlist?list=PLoaVOjvkzQtyjhV55wZcdicAz5KexgKvm) minutephysics
@@ -289,6 +298,13 @@ Weak force has handiness
 [Why no one has measured the speed of light - YouTube](https://www.youtube.com/watch?v=pTn6Ewhb27k) we're always measuring the _two way_ speed of light
 
 ## Quantum Physics
+
+[Four Principles of Quantum - Computerphile - YouTube](https://www.youtube.com/watch?v=m5A_oupZOCE)
+
+- discreteness
+- superposition/collapse
+- uncertainty (Heisenberg Uncertainty Principle)
+- entanglement
 
 [Quantum mechanics - Wikiwand](https://www.wikiwand.com/en/Quantum_mechanics)
 [Uncertainty principle - Wikiwand](https://www.wikiwand.com/en/Uncertainty_principle)
@@ -334,6 +350,7 @@ Weak force has handiness
 [Quantum observers with knowledge of quantum mechanics break reality – Ars Technica](https://arstechnica.com/science/2018/09/quantum-observers-with-knowledge-of-quantum-mechanics-break-reality/amp/)
 
 [Scientists discovered a new kind of quantum time order](https://www.techexplorist.com/scientists-discovered-new-kind-quantum-time-order/26138/?amp)
+[How plants can perform feats of quantum mechanics - Big Think](https://bigthink.com/hard-science/plants-quantum-mechanics/)
 
 [Quantum Physics for 7 Year Olds | Dominic Walliman | TEDxEastVan - YouTube](https://www.youtube.com/watch?v=ARWBdfWpDyc)
 [Quantum Physics - YouTube](https://www.youtube.com/playlist?list=PL1lNrW4e0G8WmWpW846oE_m92nw3rlOpz) Up and Atom
@@ -425,6 +442,10 @@ Parallel universe interpretation: opening the box causes the universe to fork in
 
 ## String Theory
 
+> hope to combine quantum mechanics with gravity
+> not a actual theory but some math tools and conjecture
+> impossible to falsify as strings are too small
+
 - particle-based physic will introduce infinity when trying to explain the EM-field of the infinitely small particle
 - **closed-loop strings also explains interaction of gravity**
 - strings alone can only explain Bosons, not Fermions; needs super-symmetry to form super-string theory
@@ -432,9 +453,13 @@ Parallel universe interpretation: opening the box causes the universe to fork in
 - we used to have 5 self-consistent theories, M Theory unifies them all
 - M Theory introduces super-gravity (super-symmetry + gravity) requires 11 dimensions and 2D membranes (which might roll and form strings)
 
+[History of string theory - Wikiwand](https://www.wikiwand.com/en/History_of_string_theory)
+[The String Theory: Past and Present - IOPscience](https://iopscience.iop.org/article/10.1088/1755-1315/658/1/012002)
+[string theory lied to us and now science communication is hard - YouTube](https://www.youtube.com/watch?v=kya_LXa_y1E)
+
 [String theory - Brian Greene - YouTube](https://www.youtube.com/watch?v=kF4ju6j6aLE)
 [（已完结）【閑說弦論】弦理論 - YouTube](https://www.youtube.com/playlist?list=PLd-GBkH4nB9lR1hzqCbVEDLTq7_uD_1WO) Linvo 說宇宙
-[String Theory Explained – What is The True Nature of Reality? - YouTube](https://www.youtube.com/watch?v=Da-2h2B4faU)  
+[String Theory Explained – What is The True Nature of Reality? - YouTube](https://www.youtube.com/watch?v=Da-2h2B4faU)
 [Making sense of string theory | Brian Greene - YouTube](https://www.youtube.com/watch?v=YtdE662eY_M)
 [【一頁物理】弦理論終有用武之地 | CASE 報科學](https://case.ntu.edu.tw/blog/?p=5015)
 [什么是弦理论？十分钟了解弦理论、M 理论以及两次超弦革命 - YouTube](https://www.youtube.com/watch?v=hm4X-P6p-hs)

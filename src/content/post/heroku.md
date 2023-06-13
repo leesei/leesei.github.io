@@ -56,18 +56,18 @@ Workflow that groups the codebase of an application in different stages of devel
 
 - create a new heroku app
 
-  `heroku apps:create <NAME>`  
-  if current directory is a git repo, this should have added remote `heroku`  
+  `heroku apps:create <NAME>`
+  if current directory is a git repo, this should have added remote `heroku`
   `git remote -v`
 
 - with existing git repo
 
-  `heroku git:remote -a <NAME>`  
+  `heroku git:remote -a <NAME>`
   `git remote add heroku git@heroku.com:<NAME>.git`
 
 - deploy
 
-  Commit changes to your tree  
+  Commit changes to your tree
   `git push heroku master`
 
   Also see `heroku-repo` below

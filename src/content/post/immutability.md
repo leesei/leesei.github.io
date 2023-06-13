@@ -15,7 +15,7 @@ tags:
 
 Immutable app state probably will help you to enforce mutation from single component. Passing snapshot of the immutable state as props to child allows you to define your component as "pure" to boost performance.
 
-A naive implementation of immutability is to a deep clone the original data, then return the mutated copy.  
+A naive implementation of immutability is to a deep clone the original data, then return the mutated copy.
 A more performant implementation is to use [persistent data structure](https://www.wikiwand.com/en/Persistent_data_structure) (structural sharing), where only the mutated fields and the nodes reaching from the root to the field have to be updated.
 
 [Immutable object - Wikiwand](https://www.wikiwand.com/en/Immutable_object)

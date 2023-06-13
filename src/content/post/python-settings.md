@@ -224,14 +224,14 @@ Issues:
 
 - for application only, not for libraries
 - py2 and py3 cannot co-exist
-- locked to a single minor version of Python  
+- locked to a single minor version of Python
   often reporting version mismatch when running script in other environment
 - no QA before release
 - [Why is pipenv the recommended packaging tool by the community and PyPA? : Python](https://www.reddit.com/r/Python/comments/8jd6aq/why_is_pipenv_the_recommended_packaging_tool_by/)
 - [Pyenv support broken · Issue #3551 · pypa/pipenv](https://github.com/pypa/pipenv/issues/3551)
-  `pip install -e git+https://github.com/pypa/pipenv.git@master#egg=pipenv`  
+  `pip install -e git+https://github.com/pypa/pipenv.git@master#egg=pipenv`
   `pip install --upgrade https://github.com/pypa/pipenv/archive/master.zip`
-- [different package versions for different python versions · Issue #2171 · pypa/pipenv](https://github.com/pypa/pipenv/issues/2171)  
+- [different package versions for different python versions · Issue #2171 · pypa/pipenv](https://github.com/pypa/pipenv/issues/2171)
   [Creating a Pipfile which has different installation instructions depending on operating systems (PyTorch v0.4.1 as an example) - DEV Community](https://dev.to/tomoyukiaota/creating-a-pipfile-which-has-different-installation-instructions-depending-on-operating-systems-pytorch-v041-as-an-example-56i8)
 
 ```sh
@@ -1370,7 +1370,7 @@ Type Guard: boolean value that have implication to type of variables of union ty
 [Type-Checking Python Programs With Type Hints and mypy - YouTube](https://www.youtube.com/watch?v=2xWhaALHTvU)
 [Carl Meyer - Type-checked Python in the real world - PyCon 2018 - YouTube](https://www.youtube.com/watch?v=pMgmKJyWKn8)
 
-Mypy can be used to do static type checking on type hints.  
+Mypy can be used to do static type checking on type hints.
 [mypy - Optional Static Typing for Python](http://mypy-lang.org/)
 [Welcome to Mypy documentation! — Mypy documentation](https://mypy.readthedocs.io/en/latest/)
 [Introducing Mypy, an Experimental Optional Static Type Checker for Python | Linux Journal](https://www.linuxjournal.com/content/introducing-mypy-experimental-optional-static-type-checker-python)

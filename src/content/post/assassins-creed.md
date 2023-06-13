@@ -7,7 +7,7 @@ tags:
   - games
 ---
 
-[Assassin's Creed - Wikiwand](http://www.wikiwand.com/en/Assassin%27s_Creed)  
+[Assassin's Creed - Wikiwand](http://www.wikiwand.com/en/Assassin%27s_Creed)
 [Assassin's Creed](https://www.reddit.com/r/assassinscreed/)
 [Assassin's Creed Wiki | Fandom](https://assassinscreed.fandom.com/wiki/Assassin%27s_Creed_Wiki)
 

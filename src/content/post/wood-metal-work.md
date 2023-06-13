@@ -80,11 +80,24 @@ Electronic torque control will stop the motor when torque maxed out and have mor
 [Fine Woodworking Tools & Hand Tools](https://www.highlandwoodworking.com/)
 
 [Project Zero Cables - The Cleanest Desk Setup EVER - YouTube](https://www.youtube.com/watch?v=qI2vmqANYcE)
-[Wooden Ren - YouTube](https://www.youtube.com/c/mylove348)
 
-[安裝木門與框示範 - YouTube](https://www.youtube.com/watch?v=9Hpbrrnvk7s)
+[Wooden Ren - YouTube](https://www.youtube.com/c/mylove348) 木頭仁
+[帶你認識十種進口木材 學習木材知識 | 辨識木材 | 木工教學 - YouTube](https://www.youtube.com/watch?v=TtE_SED01X8) 木材越深色越硬越貴
+
+- 白楊木 Poplar, 明顯木紋, hard
+- 赤楊木 Alder, hard
+- 白山毛櫸 Beech, less-stable
+- 紅山毛櫸, 噴蒸過的白山毛櫸
+- 梣木/白蠟木/水曲柳 Ash, 明顯木紋, deep guide hole 春秋導孔, very hard and tough
+- 楓木 Maple, 明顯木紋
+- 白橡木 Oak, 明顯木紋, deep guide hole 春秋導孔, hardest
+- 紅橡木 Red Oak, 明顯木紋, deep guide hole 春秋導孔, hardest
+- 櫻桃木 Cherry, 明顯木紋, 不耐蟲, slow growing
+- 胡桃木 Walnut, slow growing
+
 [【木工初學者】必須知道的 XX【超認真少年】wood working beginner's tool - YouTube](https://www.youtube.com/watch?v=bUuz_ed2JUE)
 
+[安裝木門與框示範 - YouTube](https://www.youtube.com/watch?v=9Hpbrrnvk7s)
 [实木表面保护产品对比。木油，木蜡，聚氨酯分别如何使用？表面是什么效果？产品中英文名称对照在下面说明区。KENDI DIY - YouTube](https://www.youtube.com/watch?v=WqB8eSkh_TE)
 [How to Paint Kitchen Cabinets Without Brush Marks - Dengarden](https://dengarden.com/home-improvement/How-to-Paint-Kitchen-Cabinets-Without-Brush-Marks)
 

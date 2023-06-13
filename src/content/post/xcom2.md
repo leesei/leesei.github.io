@@ -4,6 +4,7 @@ description: ""
 created: 2022-05-03
 tags:
   - games
+  - xcom
 ---
 
 AbeClancy

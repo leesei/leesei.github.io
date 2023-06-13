@@ -7,6 +7,12 @@ tags:
   - desktop
 ---
 
+[Types of PDF - Computerphile - YouTube](https://www.youtube.com/watch?v=K7oxZCgO1dY)
+
+- PDF (FTG): full text and graphics (preferably in vector except pictures)
+- PDF (I): embeds images
+- PDF (I+HT): images + hiddnen text (OCR'ed)
+
 [Convert document, image, video and audio files online](https://www.aconvert.com/)
 [How to Merge PDF Files in Linux - It's FOSS](https://itsfoss.com/merge-pdf-linux/)
 
@@ -51,14 +57,21 @@ Annotation:
 [Ghostscript - Wikiwand](https://www.wikiwand.com/en/Ghostscript)
 [pdftex - Why does PDFSIZEOPT not reduce file size much? - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/549501/why-does-pdfsizeopt-not-reduce-file-size-much) `gs` is better
 
-[How to convert pdf to image on Linux command line - nixCraft](https://www.cyberciti.biz/faq/how-to-convert-pdf-to-image-on-linux-command-line/) `pdftoppm`
+[How to convert pdf to image on Linux command line - nixCraft](https://www.cyberciti.biz/faq/how-to-convert-pdf-to-image-on-linux-command-line/)
+
+```sh
+pdftoppm <input.pdf> <output.jpg> -jpeg
+pdftoppm <input.pdf> <output.png> -jpeg
+pdftoppm -f <start_page> -l end_page -jpeg
+```
 
 [diff-pdf](https://vslavik.github.io/diff-pdf/)
 [Sejda SDK - a Java library to edit PDF files](http://sejda.org/)
 
-[Coherent PDF Command Line Tools and C/C++/Python/.NET/Java/JavaScript API Community Release](https://community.coherentpdf.com/) non-commercial use
-
+[PDF processor api & cli | pdfcpu](http://pdfcpu.io/)
 [pdfcpu/pdfcpu: A PDF processor written in Go.](https://github.com/pdfcpu/pdfcpu)
+
+[Coherent PDF Command Line Tools and C/C++/Python/.NET/Java/JavaScript API Community Release](https://community.coherentpdf.com/) non-commercial use
 
 ### `PDFtk`
 

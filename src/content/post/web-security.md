@@ -200,3 +200,10 @@ It usually involves running malicious in the target site and reusing the user se
 
 [What Is Browser Fingerprinting and How Does It Work? | SEON](https://seon.io/resources/browser-fingerprinting/)
 [FingerprintJS Open Source Demo](https://fingerprintjs.github.io/fingerprintjs/)
+
+[The device intelligence platform | Fingerprint](https://fingerprint.com/)
+[Demo: Disabling JavaScript Won’t Save You from Fingerprinting](https://fingerprint.com/blog/disabling-javascript-wont-stop-fingerprinting/)
+[The Top Browser Fingerprinting Techniques Explained - Fingerprint](https://fingerprint.com/blog/browser-fingerprinting-techniques/)
+[How Does Canvas Fingerprinting Work - Fingerprint](https://fingerprint.com/blog/canvas-fingerprinting/)
+[Canvas Fingerprinting - BrowserLeaks](https://browserleaks.com/canvas)
+[How the Web Audio API is used for audio fingerprinting](https://fingerprint.com/blog/audio-fingerprinting/)

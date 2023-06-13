@@ -59,8 +59,8 @@ cat /sys/class/power_supply/BAT0/*
 [Category:Wireless adapter - WikiDevi](https://wikidevi.com/wiki/Category:Wireless_adapter)
 [Top Linux Compatible USB Wireless Adapters | WirelesSHack](https://www.wirelesshack.org/top-linux-compatible-usb-wireless-adapters.html)
 
-[wireless - WiFi stops working after waking from suspend with a Broadcom 43225 - Ask Ubuntu](https://askubuntu.com/questions/31826/wifi-stops-working-after-waking-from-suspend-with-a-broadcom-43225)  
-[11.10 - Wireless doesn't connect after suspend on an Asus K52F - Ask Ubuntu](https://askubuntu.com/questions/67280/wireless-doesnt-connect-after-suspend-on-an-asus-k52f)  
+[wireless - WiFi stops working after waking from suspend with a Broadcom 43225 - Ask Ubuntu](https://askubuntu.com/questions/31826/wifi-stops-working-after-waking-from-suspend-with-a-broadcom-43225)
+[11.10 - Wireless doesn't connect after suspend on an Asus K52F - Ask Ubuntu](https://askubuntu.com/questions/67280/wireless-doesnt-connect-after-suspend-on-an-asus-k52f)
 reload driver, add to `/etc/pm/sleep.d/00_wireless_sleep`
 
 [wpa_supplicant authentication timed out / Networking, Server, and Protection / Arch Linux Forums](https://bbs.archlinux.org/viewtopic.php?id=231987)

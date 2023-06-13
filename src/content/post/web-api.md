@@ -24,7 +24,7 @@ tags:
 
 [How to Achieve API Governance - The New Stack](https://thenewstack.io/how-to-achieve-api-governance/)
 [Best Practices for API Error Handling | Nordic APIs |](https://nordicapis.com/best-practices-api-error-handling/)
-[Building API Services: A Beginner’s Guide – Google Cloud Platform - Community – Medium](https://medium.com/google-cloud/building-api-services-a-beginners-guide-7274ae4c547f) !important, covers REST and gRPC
+[Building API Services: A Beginner’s Guide – Google Cloud Platform - Community – Medium](https://medium.com/google-cloud/building-api-services-a-beginners-guide-7274ae4c547f) ❗!important, covers REST and gRPC
 
 [API Stylebook](http://apistylebook.com/)
 [API Handyman](http://apihandyman.io/)
@@ -110,6 +110,8 @@ tags:
 [Dredd](http://dredd.readthedocs.io/en/latest/)
 Dredd is a language-agnostic command-line tool for validating API description document against backend implementation of the API.
 
+[ReadMe](https://readme.com/)
+
 [[hapi#docs]]
 
 ## Swagger/OpenAPI
@@ -118,7 +120,7 @@ Dredd is a language-agnostic command-line tool for validating API description do
 backed by Wordnik, then donated to [Open API Initiative](https://openapis.org/) in 2016.
 
 [Swagger Specification](https://swagger.io/specification/)
-[A Guide to What’s New in OpenAPI 3.0 | Swagger](https://swagger.io/blog/news/whats-new-in-openapi-3-0/) !important
+[A Guide to What’s New in OpenAPI 3.0 | Swagger](https://swagger.io/blog/news/whats-new-in-openapi-3-0/) ❗!important
 [TDC: Structural Improvements: explaining the 3.0 spec, part 2 - OpenAPI Initiative](https://www.openapis.org/news/blogs/2016/10/tdc-structural-improvements-explaining-30-spec-part-2)
 [OpenAPI Map](http://openapi-map.apihandyman.io/) visualize the OpenAPI spec (2 and 3)
 

@@ -124,8 +124,14 @@ ThePrimeagen
 
 [Turn VIM into a full featured IDE with only one command - YouTube](https://www.youtube.com/watch?v=Mtgo-nP_r8Y)
 
+[Vim - YouTube](https://www.youtube.com/playlist?list=PLmcTCfaoOo_grgVqU7UbOx7_RG9kXPgEr) DevOps Toolbox
+
+[Neovim lua plugins](https://nvimluau.dev/)
+
 [neovim/nvim-lspconfig: Quickstart configurations for the Nvim LSP client](https://github.com/neovim/nvim-lspconfig)
 [nvim-telescope/telescope.nvim: Find, Filter, Preview, Pick. All lua, all the time.](https://github.com/nvim-telescope/telescope.nvim)
+[nvim-lualine/lualine.nvim: A blazing fast and easy to configure neovim statusline plugin written in pure lua.](https://github.com/nvim-lualine/lualine.nvim)
+[lualine.nvim/THEMES.md at master · nvim-lualine/lualine.nvim · GitHub](https://github.com/nvim-lualine/lualine.nvim/blob/master/THEMES.md)
 
 [L3MON4D3/LuaSnip: Snippet Engine for Neovim written in Lua.](https://github.com/L3MON4D3/LuaSnip)
 
@@ -134,6 +140,7 @@ ThePrimeagen
 [Exploring the Top Neovim Distributions: LazyVim, LunarVim, AstroVim, and NVChad — Which One Reigns Supreme? | by Adam Poniatowski | Mar, 2023 | Medium](https://medium.com/@adaml.poniatowski/exploring-the-top-neovim-distributions-lazyvim-lunarvim-astrovim-and-nvchad-which-one-reigns-3adcdbfa478d)
 
 [🚀 Getting Started | LazyVim](https://www.lazyvim.org/)
+[LazyVim/LazyVim: Neovim config for the lazy](https://github.com/LazyVim/LazyVim)
 
 [Getting Started | AstroNvim](https://astronvim.com/)
 [Neovim With AstroNvim | Your New Advanced Development Editor - YouTube](https://www.youtube.com/watch?v=GEHPiZ10gOk)

@@ -6,12 +6,15 @@ tags:
   - ai
   - artificial-intelligence
   - comp
-  - machine-learning
   - gan
+  - machine-learning
 ---
 
 Generative Adversarial Network
 Generator and Discriminator
+
+[What developers need to know about generative AI | The GitHub Blog](https://github.blog/2023-04-07-what-developers-need-to-know-about-generative-ai/)
+[How generative AI is changing the way developers work | The GitHub Blog](https://github.blog/2023-04-14-how-generative-ai-is-changing-the-way-developers-work/)
 
 [PyTorch Deep Learning Nanodegree: Generative Adversarial Networks](https://medium.com/datadriveninvestor/pytorch-deep-learning-nanodegree-generative-adversarial-networks-bc37e2b50a81)
 
@@ -22,6 +25,7 @@ Generator and Discriminator
 [Generative Adversarial Networks, an overview](https://www.kdnuggets.com/2018/01/generative-adversarial-networks-overview.html)
 [The Rise of Generative Adversarial Networks](https://www.kdnuggets.com/2019/04/rise-generative-adversarial-networks.html)
 
+[Generative Adversarial Networks (GANs) - Computerphile - YouTube](https://www.youtube.com/watch?v=Sw9r8CL98N0)
 [Generative adversarial networks: What GANs are and how they've evolved | VentureBeat](https://venturebeat.com/2019/12/26/gan-generative-adversarial-network-explainer-ai-machine-learning/amp/)
 [“GANs” vs “ODEs”: the end of mathematical modeling?](https://towardsdatascience.com/gans-vs-odes-the-end-of-mathematical-modeling-ec158f04acb9)
 [Generative Adversarial Networks - YouTube](https://www.youtube.com/playlist?list=PLSgGvve8UweFoMyAEFlFiE--JtWect5-T)
@@ -48,6 +52,23 @@ Generator and Discriminator
 
 [AnimeGANv2 - a Hugging Face Space by akhaliq](https://huggingface.co/spaces/akhaliq/AnimeGANv2)
 
+## Google Courses
+
+[Google Cloud Skills Boost](https://www.cloudskillsboost.google/journeys/118?locale=en)
+[Master Gen AI For Free From Google](https://analyticsindiamag.com/master-gen-ai-for-free-from-google/)
+[Google 釋出 7 堂完全免費生成式 AI 課程！也有提供給 AI 小白的入門課 - INSIDE](https://www.inside.com.tw/article/31843-Google-7-new-no-cost-generative-AI-training-courses)
+
+[Introduction to Generative AI | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/536)
+[Attention Mechanism | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/537)
+[Encoder-Decoder Architecture | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/543)
+[Introduction to Responsible AI | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/554)
+
+[Introduction to Large Language Models | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/539)
+[Transformer Models and BERT Model | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/538)
+
+[Introduction to Image Generation | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/541)
+[Create Image Captioning Models | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/542)
+
 ## 3D Photograph
 
 [3D Photography using Context-aware Layered Depth Inpainting](https://shihmengli.github.io/3D-Photo-Inpainting/)
@@ -57,10 +78,14 @@ Generator and Discriminator
 
 > using Diffusion Models
 
+[[barcode#Photo QR Code]]
+
 [ARTSIO](https://www.artsio.xyz/)
 [NovelAI - The AI Storyteller](https://novelai.net/)
 
 [How AI Image Generators Work (Stable Diffusion / Dall-E) - Computerphile - YouTube](https://www.youtube.com/watch?v=1CIpzeNxIhU)
+[Stable Diffusion in Code (AI Image Generation) - Computerphile - YouTube](https://www.youtube.com/watch?v=-lz30by8-sU)
+
 [AI 召喚師 - YouTube](https://www.youtube.com/@ai-summoner)
 
 [演算法鬼斧神工，AI 畫作的神來之筆 | TechNews 科技新報](https://technews.tw/2022/05/15/ai-disco-diffusion/)
@@ -146,6 +171,16 @@ Better than DALL-E, also open source
 
 ## Large Language Model/LLM
 
+[Large language model - Wikiwand](https://www.wikiwand.com/en/Large_language_model)
+
+[Open LLM Leaderboard - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+
+[The Large Language Model (LLM) Index | Sapling](https://sapling.ai/llm/index) ❗!important
+[List of Open Sourced Fine-Tuned Large Language Models (LLM) | by Sung Kim | Geek Culture | Medium](https://medium.com/geekculture/list-of-open-sourced-fine-tuned-large-language-models-llm-8d95a2e0dc76)
+
+[Language Models For Software Developers in 17 Minutes - YouTube](https://www.youtube.com/watch?v=tL1zltXuHO8)
+[Large language models and the rise of the AI code generators | InfoWorld](https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.html)
+
 [Jurassic-1 vs GPT-3 vs Everyone Else](https://analyticsindiamag.com/jurassic-1-vs-gpt-3-vs-everyone-else/)
 AI21's Jurassic-1 is the largest network (178 billion parameters)
 [Turing NLG, GPT-3 & Wu Dao 2.0: The Who’s Who Of Language Models](https://analyticsindiamag.com/turing-nlg-gpt-3-wu-dao-2-0-meet-the-whos-who-of-language-models/)
@@ -153,31 +188,56 @@ AI21's Jurassic-1 is the largest network (178 billion parameters)
 [EleutherAI](https://www.eleuther.ai/)
 [Announcing GPT-NeoX-20B | EleutherAI Blog](https://blog.eleuther.ai/announcing-20b/) 20 billion parameters
 
+Computerphile
 [AI Language Models & Transformers - Computerphile - YouTube](https://www.youtube.com/watch?v=rURRYI66E54)
 [GPT3: An Even Bigger Language Model - Computerphile - YouTube](https://www.youtube.com/watch?v=_8yVOC4ciXc)
+[Vectoring Words (Word Embeddings) - Computerphile - YouTube](https://www.youtube.com/watch?v=gQddtTdmG_8)
+[ChatGPT with Rob Miles - Computerphile - YouTube](https://www.youtube.com/watch?v=viJt_DXTfwA)
+[Ch(e)at GPT? - Computerphile - YouTube](https://www.youtube.com/watch?v=XZJc1p6RE78)
+[Glitch Tokens - Computerphile - YouTube](https://www.youtube.com/watch?v=WO2X3oZEJOA)
+[Bing Chat Behaving Badly - Computerphile - YouTube](https://www.youtube.com/watch?v=jHwHPyWkShk)
 
 [Better Language Models and Their Implications](https://openai.com/blog/better-language-models/)
 [效果惊人的 GPT 2.0 模型：它告诉了我们什么 - 知乎](https://zhuanlan.zhihu.com/p/56865533)
 [An AI Wizard of Words | Linux Journal](https://www.linuxjournal.com/content/ai-wizard-words)
 
+### Tools
+
+[Sage - Poe](https://poe.com/) integrates multiple LLMs
+[Phind: AI search engine](https://www.phind.com/)
+[Free AI Writing, PDF, Image, and other Online Tools - TinyWow](https://tinywow.com/)
+
 ### Transformers
 
+[Transformer (machine learning model) - Wikiwand](<https://www.wikiwand.com/en/Transformer%20(machine%20learning%20model)>)
 [Transformers — transformers documentation](https://huggingface.co/transformers/)
 [Write With Transformer](https://transformer.huggingface.co/)
 [The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time.](https://jalammar.github.io/illustrated-transformer/)
 [Understanding Transformers in NLP: State-of-the-Art Models](https://www.analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/)
 [A Complete Learning Path To Transformers (Guide To 23 Architectures)](https://analyticsindiamag.com/a-complete-learning-path-to-transformers/)
 
+[Introduction - Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/)
+[🤗 Transformers](https://huggingface.co/docs/transformers/index)
+[huggingface/transformers: 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.](https://github.com/huggingface/transformers)
+[Language Models For Software Developers in 17 Minutes - YouTube](https://www.youtube.com/watch?v=tL1zltXuHO8)
+
 [T5 Text-to-Text Transformer: A Brief Paper Analysis | by Parth Chokhra | Medium](https://parthplc.medium.com/t5-text-to-text-transformer-a-brief-paper-analysis-e4bba797bd68)
 
 [OpenAI Introduces Sparse Transformers for Deep Learning of Longer Sequences](https://www.infoq.com/news/2019/05/openai-sparse-transformers/)
 Transformers (formerly known as `pytorch-transformers` and `pytorch-pretrained-bert`) provides general-purpose architectures (BERT, GPT-2, RoBERTa, XLM, DistilBert, XLNet…) for Natural Language Understanding (NLU) and Natural Language Generation (NLG) with over 32+ pretrained models in 100+ languages and deep interoperability between TensorFlow 2.0 and PyTorch.
 
-[Language Models For Software Developers in 17 Minutes - YouTube](https://www.youtube.com/watch?v=tL1zltXuHO8)
 [youtube/Transformers at main · Me163/youtube](https://github.com/Me163/youtube/tree/main/Transformers)
-[Better Language Models and Their Implications](https://openai.com/blog/better-language-models/)
-[效果惊人的 GPT 2.0 模型：它告诉了我们什么 - 知乎](https://zhuanlan.zhihu.com/p/56865533)
-[An AI Wizard of Words | Linux Journal](https://www.linuxjournal.com/content/ai-wizard-words)
+
+### LangChain
+
+[LangChain is the Android to OpenAI’s iOS](https://analyticsindiamag.com/langchain-is-the-android-to-openais-ios/)
+[Unleashing the Power of LLM for Enterprise Applications with LangChain](https://analyticsindiamag.com/unleashing-the-power-of-llm-for-enterprise-applications-with-langchain/)
+[Breaking the Language Model Barriers with LangChain 🦜️🔗 | by Jayita Bhattacharyya | May, 2023 | Medium](https://itsjb13.medium.com/breaking-the-language-model-barriers-with-langchain-%EF%B8%8F-4976f450742)
+
+### Translation
+
+[How Large Language Models Mimic the Human Translation Process - Slator](https://slator.com/how-large-language-models-mimic-human-translation-process/)
+[Google Explores How Large Language Models Actually Translate - Slator](https://slator.com/google-explores-how-large-language-models-actually-translate/)
 
 ### BERT
 
@@ -198,17 +258,29 @@ Transformers (formerly known as `pytorch-transformers` and `pytorch-pretrained-b
 
 [I built a fullstack PaLM AI app in just 2 minutes - YouTube](https://www.youtube.com/watch?v=shWEfRlmb6g)
 
+### Llama
+
 ### Alpaca
 
 [Alpaca](https://crfm.stanford.edu/alpaca/)
 [tatsu-lab/stanford_alpaca: Code and documentation to train Stanford's Alpaca models, and generate the data.](https://github.com/tatsu-lab/stanford_alpaca)
 
+### Huggingface
+
+[The Falcon has landed in the Hugging Face ecosystem](https://huggingface.co/blog/falcon)
+
 ### GPT
+
+[State of GPT | BRK216HFS - YouTube](https://www.youtube.com/watch?v=bZQun8Y4L2A)
+[State of GPT: OpenAI 大神 Andrej Karpathy 揭秘大模型原理和训练全过程 - 华尔街见闻](https://wallstreetcn.com/articles/3689905)
 
 OpenAI's GPT-3 was the largest network (175 billion parameters)
 OpenAI is bought by Microsoft in 2019
 [OpenAI's new "dangerous" GPT-2 language model (Practical AI #32) |> Changelog](https://changelog.com/practicalai/32)
 [GPT-3: the gigantic artificial intelligence - Je suis un dev](https://www.jesuisundev.com/en/gpt-3-the-gigantic-artificial-intelligence/)
+
+[Unicorn AI - Computerphile - YouTube](https://www.youtube.com/watch?v=89A4jGvaaKk)
+[More GPT-2, the 'writer' of Unicorn AI - Computerphile - YouTube](https://www.youtube.com/watch?v=p-6F4rhRYLQ)
 
 GPT2
 [I taught an AI to make pasta - YouTube](https://www.youtube.com/watch?v=Y_NvR5dIaOY)

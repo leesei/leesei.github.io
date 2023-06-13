@@ -9,7 +9,6 @@ tags:
 [The Art of Computer Typography – Signal v. Noise](https://signalvnoise.com/posts/3183-the-art-of-computer-typography)
 [An Introduction to TrueType Fonts: A look inside the TTF format](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=iws-chapter08)
 [Making sense of digital fonts](https://www.chenhuijing.com/blog/making-sense-of-digital-fonts/)
-
 baseline, descenders (`j`, `p`), line height, kerning
 
 [可曾留意，你正在閱讀的文字，都有其一套美學？ | 夠 POP](http://www.popd.hk/%e5%8f%af%e6%9b%be%e7%95%99%e6%84%8f%ef%bc%8c%e4%bd%a0%e6%ad%a3%e5%9c%a8%e9%96%b1%e8%ae%80%e7%9a%84%e6%96%87%e5%ad%97%ef%bc%8c%e9%83%bd%e6%9c%89%e5%85%b6%e4%b8%80%e5%a5%97%e7%be%8e%e5%ad%b8%ef%bc%9f/)
@@ -24,12 +23,26 @@ baseline, descenders (`j`, `p`), line height, kerning
 
 [The Making (and Potential Benefits) of a CSS Font | CSS-Tricks](https://css-tricks.com/the-making-and-potential-benefits-of-a-css-font/)
 
+## Typesetting and Font History
+
+[[latex#PostScript]]
+
+[Phototypesetting - Wikiwand](https://www.wikiwand.com/en/Phototypesetting)
+[The Great 202 Jailbreak - Computerphile - YouTube](https://www.youtube.com/watch?v=CVxeuwlvf8w) typesetting
+
+[The Font Magicians - Computerphile - YouTube](https://www.youtube.com/watch?v=jAdspOtgciQ) laser printer, font rasterization
+
+[The Math Behind Font Rasterization | How it Works - YouTube](https://www.youtube.com/watch?v=LaYPoMPRSlk)
+
 ## Typography
 
 [Typography for User Interfaces | Viljami Salminen](https://viljamis.com/2016/typography-for-user-interfaces/)
 [The 5 Most Important Typography Terms, Explained](https://www.makeuseof.com/tag/typography-terms-explained/)
 [Fonts In Use – Type at work in the real world.](https://fontsinuse.com/)
 [The Type — 文字 / 设计 / 文化](https://www.thetype.com/)
+
+[How typefaces are designed & fonts are made – Fonts Knowledge - Google Fonts](https://fonts.google.com/knowledge/introducing_type/how_typefaces_are_designed_and_fonts_are_made)
+[From idea to typeface: How are fonts designed? - Underscore Type Foundry - Quality fonts, simple licences](https://underscoretype.com/2018/09/27/from-idea-to-typeface-how-are-fonts-designed/)
 
 [iT 自救術 ─ 字型？字形？ | iThome](http://www.ithome.com.tw/node/52986)
 [iT 自救術 ─ 從 Tms Rmn 到 Times New Roman | iThome](http://www.ithome.com.tw/node/53104)
@@ -97,6 +110,10 @@ baseline, descenders (`j`, `p`), line height, kerning
 [Font To Png-免費字體轉換器](https://www.fonttopng.com/)
 [毛笔字在线生成器 毛笔字体转换器 毛笔书法字体在线转换](http://www.akuziti.com/mb/)
 [书法字体转换器在线转换-书法字体在线生成器](http://www.diyiziti.com/shufa)
+
+[免費點陣圖字體下載【俐方體 11 號】，像素風格的繁體中文字型，可商用。](https://www.pkstep.com/archives/72359)
+[免費中文點陣字體下載，字體格式為 ttf，合法無版權可商用](https://www.twfont.com/chinese/Pixel_Points.php)
+[【點陣字型】日系遊戲點陣字體下載 ，像素字體中文繁體可用 | 瘋後製](https://www.crazy-tutorial.com/14937.html)
 
 ### Identifying fonts
 
@@ -189,16 +206,17 @@ Extensions:
 [alexperronnet/devfont: ✒️ Beautiful and elegant open source icon set for UI designers and developers.](https://github.com/alexperronnet/devfont)
 
 [Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts patcher](https://www.nerdfonts.com/)
+[Nerd Fonts - Cheat Sheet](https://www.nerdfonts.com/cheat-sheet)
 [filamentgroup/grunticon: A mystical CSS icon solution.](https://github.com/filamentgroup/grunticon)
 
 [Font Awesome, the iconic font designed for Bootstrap](http://fontawesome.io/)
 [FortAwesome/react-fontawesome: Font Awesome 5 React component](https://github.com/FortAwesome/react-fontawesome)
 [Using Font Awesome 5 with React ― Scotch.io](https://scotch.io/tutorials/using-font-awesome-5-with-react)
 
-[React Icons](https://react-icons.github.io/react-icons/) @important
+[React Icons](https://react-icons.github.io/react-icons/) ❗!important
 
 [Iconify - all open source icons in one framework](https://iconify.design/)
-[Icon Sets • Iconify](https://icon-sets.iconify.design/)
+[Icon Sets • Iconify](https://icon-sets.iconify.design/) ❗!important, SVG, multiple frameworks
 [Iconify Types](https://docs.iconify.design/types/)
 [iconify/iconify: Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG framework, React, Vue and Svelte components!](https://github.com/iconify/iconify)
 
@@ -236,6 +254,8 @@ calligraphy into a font!
 ## Programming Font
 
 [Top 11 Programming Fonts for your Text Editor and Terminal | Wes Bos](http://wesbos.com/programming-fonts/)
+[Choosing the Best Coding Font for Programming – Real Python](https://realpython.com/coding-font/)
+
 [Dev Fonts](https://devfonts.gafi.dev/)
 
 - taller font

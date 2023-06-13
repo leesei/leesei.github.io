@@ -58,7 +58,7 @@ tags:
 [MetricsGraphics.js - D3-based JavaScript Charting Library](https://www.metricsgraphicsjs.org/)
 [C3.js | D3-based reusable chart library](http://c3js.org/)
 
-Inactive:
+😴inactive:
 [dc.js - Dimensional Charting Javascript Library](http://dc-js.github.io/dc.js/)
 
 ### React

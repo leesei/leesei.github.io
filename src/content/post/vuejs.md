@@ -17,8 +17,6 @@ tags:
 >
 > - Nate Murray (Fullstack React)
 
-[[nuxtjs]]
-
 [Vue.js - The Progressive JavaScript Framework | Vue.js](https://vuejs.org/)
 [Introduction | Vue.js](https://vuejs.org/guide/introduction.html)
 [vuejs/core: 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.](https://github.com/vuejs/core)
@@ -65,13 +63,10 @@ v-on:eventName="expression" @eventName="expression"
 [Why I Love Vue 3's Composition API - Michael Hoffmann (Mokkapps) - Senior Frontend Developer (Freelancer)](https://www.mokkapps.de/blog/why-i-love-vue-3-s-composition-api/)
 [Cheatsheet vuemasteryx11](https://www.vuemastery.com/pdf/Migration-Guide-Cheat-Sheet.pdf)
 
-## Ecosystem
+## Starter Kit
 
-[vuejs/awesome-vue: A curated list of awesome things related to Vue.js](https://github.com/vuejs/awesome-vue)
-
-### create-vue
-
-> Vite-based
+[[nuxtjs]]
+[[vite#Templates]]
 
 [vuejs/create-vue: 🛠️ The recommended way to start a Vite-powered Vue project](https://github.com/vuejs/create-vue)
 
@@ -93,6 +88,10 @@ v-on:eventName="expression" @eventName="expression"
 
 [Vitesse](https://vitesse.netlify.app/)
 [antfu/vitesse: 🏕 Opinionated Vite + Vue Starter Template](https://github.com/antfu/vitesse)
+
+## Ecosystem
+
+[vuejs/awesome-vue: A curated list of awesome things related to Vue.js](https://github.com/vuejs/awesome-vue)
 
 ### Plugin
 

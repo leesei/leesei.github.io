@@ -78,6 +78,8 @@ A high performance, open source, general RPC framework that puts mobile and HTTP
 
 [Introducing gRPC Support with NGINX 1.13.10 - NGINX](https://www.nginx.com/blog/nginx-1-13-10-grpc)
 
+[gRPC Ecosystem](https://github.com/grpc-ecosystem)
+
 [hyperium/tonic: A native gRPC client & server implementation with async/await support.](https://github.com/hyperium/tonic) Rust
 [gRPC in Easy Samples for C#, JavaScript and Python - CodeProject](https://www.codeproject.com/Articles/5352930/gRPC-in-Easy-Samples-for-Csharp-JavaScript-and-Pyt)
 
@@ -102,7 +104,9 @@ A high performance, open source, general RPC framework that puts mobile and HTTP
 [gRPC-Web for .NET now available | ASP.NET Blog](https://devblogs.microsoft.com/aspnet/grpc-web-for-net-now-available/)
 [Microsoft Releases gRPC-Web for .NET](https://www.infoq.com/news/2020/06/microsoft-releases-grpc-web-net/)
 
+[gRPC-Gateway | gRPC-Gateway Documentation Website](https://grpc-ecosystem.github.io/grpc-gateway/)
 [grpc-ecosystem/grpc-gateway: gRPC to JSON proxy generator following the gRPC HTTP spec](https://github.com/grpc-ecosystem/grpc-gateway)
+[An all-in-one guide to gRPC-Gateway - LogRocket Blog](https://blog.logrocket.com/guide-to-grpc-gateway/)
 
 [How to use gRPC-web with React](https://www.freecodecamp.org/news/how-to-use-grpc-web-with-react-1c93feb691b5)
 [Ditching REST with gRPC-web and Envoy - The Startup - Medium](https://medium.com/swlh/ditching-rest-with-grpc-web-and-envoy-bfaa89a39b32)
@@ -213,4 +217,4 @@ RPC framework created by Alibaba.
 ## SOAP
 
 [SOAP - Wikiwand](https://www.wikiwand.com/en/SOAP)
-[How to Perform SOAP Requests With Node.js - Better Programming - Medium](https://medium.com/better-programming/how-to-perform-soap-requests-with-node-js-4a9627070eb6)
+[How to Perform SOAP Requests With Node.js - Better Programming - Medium](https://medium.com/better-programming/how

@@ -349,7 +349,7 @@ Bazooka: 以彈頭的火箭為發射動力
 [Armour-piercing, capped, ballistic capped shell - Wikiwand](https://www.wikiwand.com/en/Armour-piercing,_capped,_ballistic_capped_shell)
 [A Guide to Tank Ammo | Koala Explains: Tank Ammunition Types and their Differences - YouTube](https://www.youtube.com/watch?v=01eqS2K0aTQ)
 
-[Why do modern tanks have smoothbore main guns? - YouTube](https://www.youtube.com/watch?v=1kch8uIoJrY) !important
+[Why do modern tanks have smoothbore main guns? - YouTube](https://www.youtube.com/watch?v=1kch8uIoJrY) ❗!important
 [【262 思货】现代坦克为啥用滑膛炮？二战虎豹 300 万焦耳，现代“豹 2”700 万焦耳！ - YouTube](https://www.youtube.com/watch?v=Tz6bQQ_J-6Q)
 [坦克炮，滑膛还是线膛？为什么？【科学火箭叔】 - YouTube](https://www.youtube.com/watch?v=EnueGwAD2nU)
 smoothbore is preferred for APCR and APDS
@@ -456,6 +456,8 @@ It was called Flak 18 to mask to fact that it was designed in the 30's.
 
 [【不止遊戲】防空炮是如何打下飛機的？ - YouTube](https://www.youtube.com/watch?v=jAa3MU5hIdE)
 [高射炮如何擊落飛機！誕生幾百年依然不可替代！末端防空的主力！ - YouTube](https://www.youtube.com/watch?v=VXPHhQhaI7k)
+
+[The Secret Invention That Changed World War 2 - YouTube](https://www.youtube.com/watch?v=Dtocpvv88gQ) proximity fuse, reduce the 18000 rounds needed to take down a plane to < 100 rounds, changed the landscape of Pacific Theatre
 
 ## Missiles
 

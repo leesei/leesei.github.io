@@ -46,7 +46,7 @@ npx build && npx export -o build/ # static HTML (SSG) without need of app server
 [We migrated to Next.js to serve our home page 7.5× faster](https://blog.manifold.co/we-migrated-to-next-js-to-serve-our-home-page-7-5-faster-559443219c84)
 [Building CRUD Apps with NextJs](https://blog.openreplay.com/building-crud-apps-with-nextjs) FaunaDB
 [How To Maintain A Large Next.js Application — Smashing Magazine](https://www.smashingmagazine.com/2021/11/maintain-large-nextjs-application/)
-[Hacker News client with Chakra UI and Next.js  - LogRocket Blog](https://blog.logrocket.com/hacker-news-client-chakra-ui-next-js/)
+[Hacker News client with Chakra UI and Next.js - LogRocket Blog](https://blog.logrocket.com/hacker-news-client-chakra-ui-next-js/)
 [JAMstack Origins: A deep dive into the architecture with Next.js | by LiftOff LLC | Medium](https://liftoffllc.medium.com/jamstack-origins-a-deep-dive-into-the-architecture-with-next-js-86e5afc37299)
 
 [Next.js vs Gatsby vs create-react-app](https://flaviocopes.com/next-vs-gatsby-vs-cra/)
@@ -69,6 +69,10 @@ npx build && npx export -o build/ # static HTML (SSG) without need of app server
 
 [Best practices to increase the speed for Next.js apps - Stack Overflow Blog](https://stackoverflow.blog/2022/12/20/best-practices-to-increase-the-speed-for-next-js-apps/)
 
+## OpenNext
+
+[OpenNext](https://open-next.js.org/) self-host Next.js using serverless
+
 ## Next.js 13
 
 > released 2022-10
@@ -76,17 +80,21 @@ npx build && npx export -o build/ # static HTML (SSG) without need of app server
 [Next.js 13… this changes everything - YouTube](https://www.youtube.com/watch?v=_w0Ikk4JY7U)
 [Next.js 13 - The Basics - YouTube](https://www.youtube.com/watch?v=__mSgDEOyv8)
 [Next.js 13 Fundamentals - YouTube](https://www.youtube.com/watch?v=QUlWAKx2ZH8)
+[Learn Next.js 13 With This One Project - YouTube](https://www.youtube.com/watch?v=NgayZAuTgwM) 29:42
 [NextJS 13 Tutorial: Create a Static Blog from Markdown Files - YouTube](https://www.youtube.com/watch?v=Hiabp1GY8fA) 53 minutes
 
+[Next.js App Router: Routing, Data Fetching, Caching - YouTube](https://www.youtube.com/watch?v=gSSsZReIFRk)
+Data fetching is by default on server side. But you can use cache (`next` field) to control its behavior.
+
 [NextJS 13 & Why it's complicated - YouTube](https://www.youtube.com/watch?v=qAWeMZkR_VY)
-[NextJS 13 - First Look at the /app Folder & Complete Demo - YouTube](https://www.youtube.com/watch?v=bDDuLuCqHg0)
 
 [Server-side data fetching in Next.js 12 vs. 13 - YouTube](https://www.youtube.com/watch?v=i8PsGvDas-s)
 [How To Fix NextJS 13's N+1 Problem - YouTube](https://www.youtube.com/watch?v=FfHsIio4aCU)
 
 [Next.js 13.1 Explained! - YouTube](https://www.youtube.com/watch?v=_q1K7cybyRk)
 [Using Fonts in Next.js (Google Fonts, Local Fonts, Tailwind CSS) - YouTube](https://www.youtube.com/watch?v=L8_98i_bMMA)
-[Next.js 13 - Layouts and Pages Explained in 20 mins or so - YouTube](https://www.youtube.com/watch?v=zbYBgy_ChGY)
+
+[Building a bidding system with NextJS 🚀 - DEV Community](https://dev.to/novu/building-a-bidding-system-with-nextjs-cg1) with new features
 
 ## Building Blog
 
@@ -99,6 +107,7 @@ npx build && npx export -o build/ # static HTML (SSG) without need of app server
 [How I Built my Blog using MDX, Next.js, and React](https://www.joshwcomeau.com/blog/how-i-built-my-blog/) compares MDX loaders
 [How to Build Your Own Blog with Next.js and MDX](https://www.freecodecamp.org/news/how-to-build-your-own-blog-with-next-js-and-mdx/) 2022-04, compares MDX loaders
 [Create a Next.js and MDX blog - LogRocket Blog](https://blog.logrocket.com/create-next-js-mdx-blog/) 2022-03, `@mdx-js/loader` (Webpack)
+
 [Building Better Next.js Static Sites with MDX and Contentlayer](https://dawchihliou.github.io/articles/build-better-nextjs-static-sites-with-mdx-and-contentlayer) 2022-02, `contentlayer` (`mdx-bundler` (`esbuild`))
 [MDX with Next.js: The Easiest Way to Build a Static Content Site - YouTube](https://www.youtube.com/watch?v=obJvzyHiQ9k) 2022-03, `contentlayer`
 [Creating a Markdown Blog Powered by Next.js in Under an Hour](https://blog.openreplay.com/creating-a-markdown-blog-powered-by-next-js-in-under-an-hour) 2022-01, Tailwind, `fs.readdirSync()`
@@ -111,31 +120,63 @@ npx build && npx export -o build/ # static HTML (SSG) without need of app server
 
 [elmasse/nextein: A static site generator with markdown + react for Next.js](https://github.com/elmasse/nextein)
 
-## Routes
+## Pages
 
-[Blog - Layouts RFC | Next.js](https://nextjs.org/blog/layouts-rfc)
+[Building Your Application: Routing | Next.js](https://nextjs.org/docs/pages/building-your-application/routing)
+[Routing: Dynamic Routes | Next.js](https://nextjs.org/docs/pages/building-your-application/routing/dynamic-routes)
+[Routing: Linking and Navigating | Next.js](https://nextjs.org/docs/pages/building-your-application/routing/linking-and-navigating)
 
-[Routing: Introduction | Next.js](https://nextjs.org/docs/routing/introduction)
-[Routing: Dynamic Routes | Next.js](https://nextjs.org/docs/routing/dynamic-routes)
-[Routing: Shallow Routing | Next.js](https://nextjs.org/docs/routing/shallow-routing)
+[Rendering: Automatic Static Optimization | Next.js](https://nextjs.org/docs/pages/building-your-application/rendering/automatic-static-optimization)
+[Data Fetching: getStaticPaths | Next.js](https://nextjs.org/docs/pages/building-your-application/data-fetching/get-static-paths)
+[Functions: getStaticProps | Next.js](https://nextjs.org/docs/pages/api-reference/functions/get-static-props)
 
-[Advanced Features: Automatic Static Optimization | Next.js](https://nextjs.org/docs/advanced-features/automatic-static-optimization)
-[Data Fetching: getStaticPaths | Next.js](https://nextjs.org/docs/basic-features/data-fetching/get-static-paths)
-[Data Fetching: getStaticProps | Next.js](https://nextjs.org/docs/api-reference/data-fetching/get-static-props)
 [Data Fetching in Next.js](https://blog.openreplay.com/data-fetching-in-next-js/)
-
 [What do you know about pre-rendering, SSG,& getStaticProps in Next.js? – TecForFun](https://www.tecforfun.com/frameworks/what-do-you-know-about-pre-rendering-ssg-getstaticprops-in-next-js/)
 [How to use getStaticPaths on dynamic routes in Next.js – TecForFun](https://www.tecforfun.com/frameworks/how-to-ulilize-getstaticpaths-on-dynamic-routes-in-next-js/)
+[NextJS / React SSR: 21 Universal Data Fetching Patterns & Best Practices - WunderGraph](https://wundergraph.com/blog/nextjs_and_react_ssr_21_universal_data_fetching_patterns_and_best_practices)
 
-## API Routes
+### API Routes
 
-[API Routes: Introduction | Next.js](https://nextjs.org/docs/api-routes/introduction)
+[Routing: API Routes | Next.js](https://nextjs.org/docs/pages/building-your-application/routing/api-routes)
+
 [How to use Next.js API Routes? | refine](https://refine.dev/blog/next-js-api-routes/)
 [Next.js API Routes—What You Need To Know](https://www.telerik.com/blogs/nextjs-api-routes-what-need-know)
 
+## App Router (Next 13)
+
+> opt-in new folder structure in `/app`
+
+[Blog - Layouts RFC | Next.js](https://nextjs.org/blog/layouts-rfc)
+
+[NextJS 13 - First Look at the /app Folder & Complete Demo - YouTube](https://www.youtube.com/watch?v=bDDuLuCqHg0)
+[Next.js 13 - Layouts and Pages Explained in 20 mins or so - YouTube](https://www.youtube.com/watch?v=zbYBgy_ChGY)
+[Next.js App Router: Routing, Data Fetching, Caching - YouTube](https://www.youtube.com/watch?v=gSSsZReIFRk)
+[Are React Server Components Really Slower? - YouTube](https://www.youtube.com/watch?v=3Q2q2gs0nAI)
+
+[Building Your Application: Routing | Next.js](https://nextjs.org/docs/app/building-your-application/routing)
+[Blog - Next.js 13.4 | Next.js](https://nextjs.org/blog/next-13-4) App Router, customize app layout in `_app.tsx`, customize initial page load in`_document.js` (with Next's HTML components)
+
+[What are my thoughts on next.js app router vs pages router - YouTube](https://www.youtube.com/watch?v=MuTsNooES1g)
+
+[Is Next.js App Router SLOW? Performance Deep Dive - YouTube](https://www.youtube.com/watch?v=HbUDiNlU6Yw)
+
+- granular caching of ANY async/`fetch()` call
+- streaming of slow response
+
+### Server Actions
+
+> replaces API Routes
+> magic that generate RPC code to backend
+
+[Data Fetching: Server Actions | Next.js](https://nextjs.org/docs/app/building-your-application/data-fetching/server-actions)
+
+[Next.js Server Actions... 5 awesome things you can do - YouTube](https://www.youtube.com/watch?v=O94ESaJtHtM)
+[Server Actions: NextJS 13.4's Best New Feature - YouTube](https://www.youtube.com/watch?v=czvSZqnpTHs)
+[I Fixed Next.js Server Actions - YouTube](https://www.youtube.com/watch?v=9WvJDor5uvo)
+
 ## Proxy
 
-[next.config.js: Rewrites | Next.js](https://nextjs.org/docs/api-reference/next.config.js/rewrites)
+[next.config.js Options: rewrites | Next.js](https://nextjs.org/docs/pages/api-reference/next-config-js/rewrites)
 To use rewrites you can use the `rewrites` key in `next.config.js`
 
 Equivalent to `http-proxy-middleware`'s `src/setupProxy.js`
@@ -144,7 +185,7 @@ Equivalent to `http-proxy-middleware`'s `src/setupProxy.js`
 
 [[web-authentication#Auth.js]]
 
-[Authentication | Next.js](https://nextjs.org/docs/authentication)
+[Routing: Authenticating | Next.js](https://nextjs.org/docs/pages/building-your-application/routing/authenticating)
 
 [NextAuth.js](https://next-auth.js.org/)
 [https://next-auth-example.vercel.app](https://next-auth-example.vercel.app/)
@@ -167,9 +208,8 @@ Equivalent to `http-proxy-middleware`'s `src/setupProxy.js`
 
 ## Image
 
-[Basic Features: Image Optimization | Next.js](https://nextjs.org/docs/basic-features/image-optimization)
-[next/image | Next.js](https://nextjs.org/docs/api-reference/next/image)
-[next/future/image (experimental) | Next.js](https://nextjs.org/docs/api-reference/next/future/image)
+[Optimizing: Images | Next.js](https://nextjs.org/docs/pages/building-your-application/optimizing/images)
+[Components: <Image> | Next.js](https://nextjs.org/docs/pages/api-reference/components/image)
 
 This new and improved image component requires less client-side JavaScript and simplifies how you style images:
 
@@ -189,11 +229,13 @@ This new and improved image component requires less client-side JavaScript and s
 
 [getServerSideProps is WEIRD - YouTube](https://www.youtube.com/watch?v=1er7Zqs_h9k)
 
-- props has to go throght props drilling in `_app.tsx`
+- props has to go through props drilling in `_app.tsx`
 - props ares serialized as JSON and objects are lost
 - top down data flow from page level, it must fetch all data that page needs
 
 ## Stack
+
+[Making Websites With Next.js And Strapi - Youtube](https://www.youtube.com/playlist?list=PLUBR53Dw-Ef_oTLzPB3G5CdLWnGOSsec3)
 
 ### T3 App
 
@@ -240,33 +282,39 @@ This new and improved image component requires less client-side JavaScript and s
 [How To Get Started With Fastify and Next.js using a TypeScript Custom Server - YouTube](https://www.youtube.com/watch?v=7OeEMuOO9Es)
 [fastify/fastify-nextjs: React server side rendering support for Fastify with Next](https://github.com/fastify/fastify-nextjs)
 
+[Next.js FastAPI Starter – Vercel](https://vercel.com/templates/next.js/nextjs-fastapi-starter)
+
 ### Vercel
 
-[Deployment | Next.js](https://nextjs.org/docs/deployment)
+[Building Your Application: Deploying | Next.js](https://nextjs.org/docs/pages/building-your-application/deploying)
 [Deploy a Full Stack Next.js App to Vercel - Better Dev](https://www.better.dev/deploy-a-fullstack-nextjs-app-with-vercel)
 
 ### Netlify
 
-[Next.js on Netlify | Netlify Docs](https://docs.netlify.com/configure-builds/common-configurations/next-js/)
-[netlify/netlify-plugin-nextjs: A build plugin to integrate Next.js seamlessly with Netlify](https://github.com/netlify/netlify-plugin-nextjs/)
+[Next.js on Netlify | Netlify Docs](https://docs.netlify.com/integrations/frameworks/next-js/overview/)
+[netlify/next-runtime: The Next.js Runtime allows Next.js to run on Netlify with zero configuration](https://github.com/netlify/next-runtime)
 
 [How to set up a headless e-commerce site with Next.js and the Shopify Storefront API](https://www.netlify.com/blog/2021/09/13/build-your-own-headless-commerce-site-with-next.js-and-shopify/)
 
 [How to Use Next.js Middleware on Netlify with Edge Functions](https://www.netlify.com/blog/next.js-middleware-on-netlify/)
-[Rewrite HTML and transform page props in Next.js](https://www.netlify.com/blog/rewrite-html-transform-page-props-in-nextjs/) `@netlify/next`  
+[Rewrite HTML and transform page props in Next.js](https://www.netlify.com/blog/rewrite-html-transform-page-props-in-nextjs/) `@netlify/next`
 [Netlify Edge Functions: Serverless Compute Powered by Deno](https://www.netlify.com/blog/announcing-serverless-compute-with-edge-functions/)
 
 ### GitHub Pages
 
-[next.js/examples/gh-pages at canary · vercel/next.js](https://github.com/vercel/next.js/tree/canary/examples/gh-pages)
+[next.js/examples/github-pages at canary · vercel/next.js · GitHub](https://github.com/vercel/next.js/tree/canary/examples/github-pages)
 
 - add `assetPrefix` _OR_ `basePath` to `next.config.js`
 - `basePath` will be applied to `next/link` and `next/router`
 
 ### Static HTML
 
-[Advanced Features: Static HTML Export | Next.js](https://nextjs.org/docs/advanced-features/static-html-export)
-[Unsupported Features](https://nextjs.org/docs/advanced-features/static-html-export#unsupported-features)
+[Deploying: Static Exports | Next.js](https://nextjs.org/docs/app/building-your-application/deploying/static-exports)
+`next export` is deprecated and replaced with `"output": "export"` since 13.3
+All components in App Router are Server Components by default, add `"use client"` to opt-in to Client Components for data fetching at runtime
+
+[Deploying: Static Exports | Next.js](https://nextjs.org/docs/pages/building-your-application/deploying/static-exports)
+[Unsupported Feature](https://nextjs.org/docs/pages/building-your-application/deploying/static-exports#unsupported-features)
 
 [Speed up your Next.js (React) app with this neat trick - YouTube](https://www.youtube.com/watch?v=98gcHJSW1mY) pure HTML+CSS
 
@@ -286,7 +334,7 @@ export const config = {
 
 [next.js/examples/with-docker at canary · vercel/next.js](https://github.com/vercel/next.js/tree/canary/examples/with-docker)
 
-[Advanced Features: Output File Tracing | Next.js](https://nextjs.org/docs/advanced-features/output-file-tracing#automatically-copying-traced-files-experimental) use `standalone` folder since 12.1
+[next.config.js Options: Automatically Copying Traced Files | Next.js](https://nextjs.org/docs/pages/api-reference/next-config-js/output#automatically-copying-traced-files-experimental) use `standalone` folder since 12.1
 
 ## Server Side Rendering
 

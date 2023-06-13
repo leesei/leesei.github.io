@@ -69,3 +69,10 @@ It's recommended to create and manage Measurements in GA and use GTM for deploym
 </script>
 <script src="https://www.google-analytics.com/analytics.js" async></script>
 ```
+
+## Alternatives
+
+[Plausible Analytics | Simple, privacy-friendly Google Analytics alternative](https://plausible.io/)
+
+[Scarf I Home](https://about.scarf.sh/)
+[Open Source Analytics With Scarf](https://twit.tv/shows/floss-weekly/episodes/693) also for software/lib (npm hook)

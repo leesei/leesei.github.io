@@ -22,10 +22,13 @@ Contains [Programming paradigm - Wikiwand](https://www.wikiwand.com/en/Programmi
 [Home | Patterns 42](https://patterns.arc42.org/home/)
 [Table of Contents · Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html)
 
+[Design a Basic Search Engine (Google or Bing) | System Design Interview Prep - YouTube](https://www.youtube.com/watch?v=0LTXCcVRQi0)
+[20 System Design Concepts Explained in 10 Minutes - YouTube](https://www.youtube.com/watch?v=i53Gi_K3o7I)
+
 [BeckDesignRules for Database Developers Part 1: Passes the tests - DEV Community 👩‍💻👨‍💻](https://dev.to/pesse/beckdesignrules-for-database-developers-part-1-passes-the-tests-2och)
 
 [Software Design | Khalil Stemmler](https://khalilstemmler.com/articles/categories/software-design/)
-[Composing Software: The Book - JavaScript Scene - Medium](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc) !important
+[Composing Software: The Book - JavaScript Scene - Medium](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc) ❗!important
 
 [SOLID, GRASP, and Other Basic Principles of Object-Oriented Design - DZone](https://dzone.com/articles/solid-grasp-and-other-basic-principles-of-object-o)
 
@@ -51,7 +54,7 @@ Contains [Programming paradigm - Wikiwand](https://www.wikiwand.com/en/Programmi
 
 [Top 10 Object-Oriented Design Principles for writing Clean Code - DEV Community 👩‍💻👨‍💻](https://dev.to/javinpaul/top-10-object-oriented-design-principles-for-writing-clean-code-4pe1)
 
-[Object-Oriented Programming is Bad - YouTube](https://www.youtube.com/watch?v=QM1iUe6IofM) Brian Will, !important
+[Object-Oriented Programming is Bad - YouTube](https://www.youtube.com/watch?v=QM1iUe6IofM) Brian Will, ❗!important
 [Is OOP EVIL??? Reacting to my favorite dev Youtube video - YouTube](https://www.youtube.com/watch?v=YpJufWdZFB8)
 [Object-Oriented Programming is Embarrassing: 4 Short Examples - YouTube](https://www.youtube.com/watch?v=IRTfhkiAqPw)
 [Why Are So Many Developers Hating on Object-Oriented Programming? - The New Stack](https://thenewstack.io/why-are-so-many-developers-hating-on-object-oriented-programming/)
@@ -89,6 +92,17 @@ John Vlissides: <http://en.wikipedia.org/wiki/John_Vlissides>
 [domain driven design](https://martinfowler.com/tags/domain%20driven%20design.html)
 [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
 [UbiquitousLanguage](https://martinfowler.com/bliki/UbiquitousLanguage.html)
+
+[Domain-Driven Design with React: Build Scalable React Apps | Bits and Pieces](https://blog.bitsrc.io/domain-driven-design-with-react-building-scalable-and-maintainable-applications-8aa854f18a69)
+
+## Model Driven Engineering/MDE
+
+[MDENet – Home of the MDE community](https://mde-network.com/)
+[Xtext - Language Engineering Made Easy!](https://www.eclipse.org/Xtext/)
+
+[Model Driven Software Engineering - Computerphile - YouTube](https://www.youtube.com/watch?v=3aoLV5i1feo)
+[MDE under the Hood (Model Driven Engineering) - Computerphile - YouTube](https://www.youtube.com/watch?v=flWqmB4UaBA)
+[szschaler/GridGames: A DSL for developing grid-based arcade-style games. Because, .... fun!](https://github.com/szschaler/GridGames) with x-text
 
 ## RAII
 
@@ -230,6 +244,22 @@ transaction costs: transformation of output of upstream to fit downstream
 [rao.pdf](https://home.cs.colorado.edu/~kena/classes/5448/f12/presentation-materials/rao.pdf)
 <https://personal.utdallas.edu/~chung/SP/applying-uml-and-patterns.pdf>
 
+## Locality of Behaviour
+
+[</> htmx ~ Locality of Behaviour (LoB)](https://htmx.org/essays/locality-of-behaviour/)
+
+## Saga
+
+[Open Source Durable Execution Platform | Temporal Technologies](https://temporal.io/)
+[Home | Learn Temporal](https://learn.temporal.io/)
+[Courses | Learn Temporal](https://learn.temporal.io/courses/)
+
+[Compensating Actions, Part of a Complete Breakfast with Sagas](https://temporal.io/blog/compensating-actions-part-of-a-complete-breakfast-with-sagas)
+[Saga Pattern Made Easy - DEV Community](https://dev.to/emily_fortuna/saga-pattern-made-easy-4j42)
+
+[Temporal - YouTube](https://www.youtube.com/@Temporalio)
+[What is a Saga in Microservices? - YouTube](https://www.youtube.com/watch?v=0W8BtIwh824)
+
 ## CQRS
 
 Command Query Responsibility Segregation scale read and write independently as each have different techniques in optimizing.
@@ -249,12 +279,25 @@ CodeOpinion
 [CQRS, Task Based UIs, Event Sourcing agh! | Greg Young](http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/)
 [CQRS and Event Sourcing Intro For Developers - DZone Microservices](https://dzone.com/articles/cqrs-and-event-sourcing-intro-for-developers)
 
+## Event-Driven Architectures
+
+[Implementing Your Own Event Loop From Scratch - DEV Community](https://dev.to/pratikgchaudhari/implementing-your-own-event-loop-from-scratch-44l9)
+[pratikgchaudhari/event-loop-demo: A project to learn how Event Loop works.](https://github.com/pratikgchaudhari/event-loop-demo)
+
+[5 Must-Know Distributed Systems Design Patterns for Event-Driven Architectures | by Arslan Ahmad | May, 2023 | Level Up Coding](https://levelup.gitconnected.com/stay-ahead-of-the-curve-5-must-know-distributed-systems-design-patterns-for-event-driven-7515121a28ae)
+
+1. Publisher/Subscriber Pattern (Pub-Sub)
+2. Event Streaming Pattern
+3. Event Sourcing Pattern
+4. Backpressure Pattern
+5. Saga Pattern
+
 ## Event Sourcing
 
 [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
 [Event Store](https://eventstore.org/) The stream database written from the ground up for event sourcing.
 
-Events log is the single source of truth.  
+Events log is the single source of truth.
 Allows changing schema by replaying event history to get latest state.
 
 [Why use Event Sourcing? | Greg Young](http://codebetter.com/gregyoung/2010/02/20/why-use-event-sourcing/)
@@ -278,7 +321,7 @@ P serves as a facade between V and M
 data binding
 V bind to VM's property, VM don't have reference to V
 
-[Why I No Longer Use MVC Frameworks](https://www.infoq.com/articles/no-more-mvc-frameworks/) !important
+[Why I No Longer Use MVC Frameworks](https://www.infoq.com/articles/no-more-mvc-frameworks/) ❗!important
 MVP is not as flexible as MVVM as the Presenter can only exist with a View.
 
 [Model–view–controller - Wikiwand](https://www.wikiwand.com/en/Model%E2%80%93view%E2%80%93controller)

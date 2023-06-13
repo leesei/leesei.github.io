@@ -74,12 +74,12 @@ Note different pins have different pull up/down resistance
 Using shared pins will trigger unexpected behaviors. Avoid them if possible.
 
 - Buttons (5, 11)
-- LEDs (3, 4, 6, 7, 9, 10)  
+- LEDs (3, 4, 6, 7, 9, 10)
   Disable LEDs with `led.enable(false)` before used the pins (light sensing will also be disabled)
-- Accessibility (12)  
+- Accessibility (12)
   Reserved for toggling the chip's accessibility mode and should not be used
-- I2C (19, 20)  
-  on board motion sensor is connected to I2C bus, do not use these other than for I2C  
+- I2C (19, 20)
+  on board motion sensor is connected to I2C bus, do not use these other than for I2C
   (otherwise micro:bit might fail to boot)
 
 [Power Supply](https://tech.microbit.org/hardware/powersupply/)

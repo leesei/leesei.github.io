@@ -17,13 +17,13 @@ tags:
 > With the release of Docker 19.03, usage of nvidia-docker2 packages is deprecated since NVIDIA GPUs are now natively supported as devices in the Docker runtime.
 >
 > [NVIDIA/nvidia-docker: Build and run Docker containers leveraging NVIDIA GPUs](https://github.com/NVIDIA/nvidia-docker)  
-> [Releases · NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker/releases) [Motivation · NVIDIA/nvidia-docker Wiki](https://github.com/NVIDIA/nvidia-docker/wiki/Motivation)  
+> [Releases · NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker/releases) [Motivation · NVIDIA/nvidia-docker Wiki](https://github.com/NVIDIA/nvidia-docker/wiki/Motivation)
 > 2.0 uses `nvidia-container-runtime` instead of `runC`.
 
 [I Heard You Like GPUs in Servers... GPU Passthrough on Linux and Docker | Techno Tim Documentation](https://docs.technotim.live/posts/gpu-passthrough-linux/)
 
 [Repository configuration | libnvidia-container](https://nvidia.github.io/libnvidia-container/)
-[NVIDIA/nvidia-container-runtime: NVIDIA container runtime](https://github.com/nvidia/nvidia-container-runtime#installation) a modified runC that will invoke `nvidia-container-cli` from project `libnvidia-container` when container starts.  
+[NVIDIA/nvidia-container-runtime: NVIDIA container runtime](https://github.com/nvidia/nvidia-container-runtime#installation) a modified runC that will invoke `nvidia-container-cli` from project `libnvidia-container` when container starts.
 [NVIDIA/libnvidia-container: NVIDIA container runtime library](https://github.com/NVIDIA/libnvidia-container)
 
 [NVIDIA GPU Operator: Simplifying GPU Management in Kubernetes | NVIDIA Developer Blog](https://devblogs.nvidia.com/nvidia-gpu-operator-simplifying-gpu-management-in-kubernetes/)
@@ -39,7 +39,7 @@ tags:
 ## Docker
 
 - Installation Ubuntu 16.04 Server (16.04 with upgrade)
-- Install Docker CE (17.06+) with.deb  
+- Install Docker CE (17.06+) with.deb
   <https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/#install-from-a-package>
 
 ```sh
@@ -69,7 +69,7 @@ nvidia-modprobe
 nvcc --version
 ```
 
-[解决 Driver/library version mismatch | Comzyh 的博客](https://comzyh.com/blog/archives/967/)  
+[解决 Driver/library version mismatch | Comzyh 的博客](https://comzyh.com/blog/archives/967/)
 Also fixed by a reboot
 [Proprietary GPU Drivers : “Graphics Drivers” team](https://launchpad.net/~graphics-drivers/+archive/ubuntu/ppa)
 [ImportError: /usr/local/cuda-8.0/lib64/libcudnn.so.5: file too short - xianglao1935 的博客 - CSDN 博客](https://blog.csdn.net/xianglao1935/article/details/80512345)
@@ -78,7 +78,7 @@ Also fixed by a reboot
 
 > Note: installing this overwrites `/etc/docker/daemon.json`
 
-Set default runtime of docker daemon with `--default-runtime=nvidia`.  
+Set default runtime of docker daemon with `--default-runtime=nvidia`.
 [Environment variables (OCI spec)](https://github.com/nvidia/nvidia-container-runtime#environment-variables-oci-spec)
 
 > Use `nvidia-docker2` matching the Docker version installed
@@ -134,9 +134,9 @@ docker service create --name cuda-service --constraint node.labels.gpu==true nvi
 
 ## cuda Base Image
 
-[nvidia/cuda - Docker Hub](https://hub.docker.com/r/nvidia/cuda/)  
-[8.0/runtime/Dockerfile · ubuntu16.04 · nvidia / cuda · GitLab](https://gitlab.com/nvidia/cuda/blob/ubuntu16.04/8.0/runtime/Dockerfile)  
-[8.0/devel/Dockerfile · ubuntu16.04 · nvidia / cuda · GitLab](https://gitlab.com/nvidia/cuda/blob/ubuntu16.04/8.0/devel/Dockerfile)  
+[nvidia/cuda - Docker Hub](https://hub.docker.com/r/nvidia/cuda/)
+[8.0/runtime/Dockerfile · ubuntu16.04 · nvidia / cuda · GitLab](https://gitlab.com/nvidia/cuda/blob/ubuntu16.04/8.0/runtime/Dockerfile)
+[8.0/devel/Dockerfile · ubuntu16.04 · nvidia / cuda · GitLab](https://gitlab.com/nvidia/cuda/blob/ubuntu16.04/8.0/devel/Dockerfile)
 [8.0/runtime/cudnn8/Dockerfile · ubuntu16.04 · nvidia / cuda · GitLab](https://gitlab.com/nvidia/cuda/blob/ubuntu16.04/8.0/runtime/cudnn8/Dockerfile)
 
 ## Kubernetes

@@ -889,6 +889,9 @@ V_green = 3V
 | G | 110Ω resistor |
 | B | 110Ω resistor |
 
+[NEW LED Software and Hardware Platform that YOU need to know about! - YouTube](https://www.youtube.com/watch?v=X3V4gxd20FM)
+[PlummersSoftwareLLC/NightDriverStrip: NightDriver client for ESP32](https://github.com/PlummersSoftwareLLC/NightDriverStrip)
+
 WS2812B addressable RGB LED strip, communication via a one-wire interface
 LED of each color (at max brightness) takes ~18mA, works at 3.5-5V
 So 1 white 5050 takes ~50mA
@@ -996,7 +999,7 @@ HX711
 
 ## Key Matrix
 
-[How a Key Matrix Work](http://pcbheaven.com/wikipages/How_Key_Matrices_Works/) !important
+[How a Key Matrix Work](http://pcbheaven.com/wikipages/How_Key_Matrices_Works/) ❗!important
 logic can also be used for LED matrix
 [Input Matrix Scanning | Open Music Labs](http://www.openmusiclabs.com/learning/digital/input-matrix-scanning/index.html)
 

@@ -60,7 +60,7 @@ tags:
 ## Orders
 
 [The New Dinosaur Family Tree Explained - YouTube](https://www.youtube.com/watch?v=uYUfMlgD5Wc)
-A study suggest that Theropoda is more closely related to Ornithischia. This would imply carnivory and similar body plans evolved twice.  
+A study suggest that Theropoda is more closely related to Ornithischia. This would imply carnivory and similar body plans evolved twice.
 But skeletal pneumaticity seems to indicate that Theropoda and Sauropoda are more closely related.
 
 [鳥臀目 - Wikiwand](https://www.wikiwand.com/zh/%E9%B3%A5%E8%87%80%E7%9B%AE)

@@ -21,8 +21,8 @@ GitHub Orgs:
 It has several design principles in mind:
 
 - able to handle Black Friday traffic
-- security  
-  authentication and authorization is first class rather than after-thought  
+- security
+  authentication and authorization is first class rather than after-thought
   Eran Hammer is the co-author of OAuth
 
 [Why You Should Consider hapi – hueniverse](https://hueniverse.com/why-you-should-consider-hapi-6163689bd7c2) 2018 sales pitch
@@ -71,12 +71,12 @@ Many Express plugins are out-of-maintenance and it's difficult to pick a high qu
 
 [Authentication - hapi.dev](https://hapi.dev/tutorials/auth/?lang=en_US)
 
-1. register a scheme (usually via plugin)  
-   `server.auth.scheme(name, scheme)` or `server.register()`  
+1. register a scheme (usually via plugin)
+   `server.auth.scheme(name, scheme)` or `server.register()`
    when using plugin the scheme name is hardcoded
-2. create strategy based on the scheme (specify options and implements validation)  
+2. create strategy based on the scheme (specify options and implements validation)
    `server.auth.strategy(name, scheme, [options])`
-3. apply strategy to routes  
+3. apply strategy to routes
    `server.auth.default(strategy)` or `options: { auth: 'simple' }` on route
 
 [Passport](http://passportjs.org/docs)'s design is similar.
@@ -175,6 +175,9 @@ https://github.com/pinojs/hapi-pino/issues/91#issuecomment-553318439 need to set
 [devinivy/loveboat-paths: support listing multiple paths in hapi route config](https://github.com/devinivy/loveboat-paths)
 
 ### docs
+
+[rest-hapi · A RESTful API generator](https://www.resthapi.com/)
+[JKHeadley/rest-hapi: 🚀 A RESTful API generator for Node.js](https://github.com/JKHeadley/rest-hapi)
 
 [krakenjs/hapi-openapi: Build design-driven apis with OpenAPI (formerly swagger) 2.0 and hapi.](https://github.com/krakenjs/hapi-openapi)
 

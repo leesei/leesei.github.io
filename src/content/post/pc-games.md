@@ -11,6 +11,8 @@ tags:
 [PCGamingWiki PCGW - an encyclopedia of PC game fixes](http://pcgamingwiki.com/wiki/Home)
 [Wireframe Magazine — Wireframe](https://wireframe.raspberrypi.org/)
 
+[Map Genie | Awesome Interactive Game Maps](https://mapgenie.io/)
+
 [Can You RUN It | Can I Run It | Can My PC Run It](https://www.systemrequirementslab.com/cyri)
 
 [/r/pcgaming/](https://www.reddit.com/r/pcgaming/)
@@ -422,79 +424,8 @@ Fallout 76 is an online only game with in-game store.
 
 ---
 
+[[diablo]]
 [[dragon-dogma]]
-
-# Diablo
-
-[Diablo Wiki | FANDOM powered by Wikia](http://diablo.fandom.com/wiki/Diablo_Wiki)
-[Diablo Wiki](https://www.diablowiki.net/Main_Page)
-[acronyms - Diablo](https://www.reddit.com/r/Diablo/wiki/acronyms)
-[Diablo on reddit](https://www.reddit.com/r/Diablo/)
-
-[The Past, Present, And Future Of Diablo](https://kotaku.com/the-past-present-and-future-of-diablo-1830593195/amp)
-[【中國網游史】《暗黑破壞神》為何如此令人著迷？ - YouTube](https://www.youtube.com/watch?v=EhYoB055MEk)
-
-[暗黑破壞神 - YouTube](https://www.youtube.com/playlist?list=PLUqQlbOIlh2y-x81R-8AoEZksKO5Yrj7U) 艾森巴赫
-[30 分鐘看懂暗黑破壞神 1 2 3 劇情 - YouTube](https://www.youtube.com/watch?v=-eI38l3F8tI)
-[暗黑破坏神剧情讲解 Diablo - YouTube](https://www.youtube.com/playlist?list=PL5Nnuy0hm7ur4MGQVzffXSmzkwHAsYLZc) dogsama
-
-[How Diablo was completely Reverse Engineered without Source Code | MVG - YouTube](https://www.youtube.com/watch?v=5tADL_fmsHQ)
-[diasurgical/devilutionX: Diablo build for modern operating systems](https://github.com/diasurgical/devilutionX)
-
-## Diablo 2: Resurrected
-
-[BlizzConline 2021 - Diablo II: Resurrected Deep Dive - YouTube](https://www.youtube.com/watch?v=D3dL7ZeIAsE)
-[Diablo 2 Resurrected: Every CHANGE You Need to Know! - YouTube](https://www.youtube.com/watch?v=xuz-uO9l7Fg)
-[深度解析！暗黑 2 重制版将会是个什么样的游戏？【暗黑破坏神 2 重制版】 - YouTube](https://www.youtube.com/watch?v=4zaosAYlSHI)
-[这游戏剧情很复杂？好尸带你轻松看懂【暗黑破坏神 2】浴火重生重制版 - YouTube](https://www.youtube.com/watch?v=n-5BHOQFD6Q)
-
-[Diablo II - YouTube](https://www.youtube.com/playlist?list=PL7wM2klwHNVtmaYzEW9ogAZlz4BkEMUoM)
-
-## Diablo 3
-
-[Game Guide - Diablo III](https://us.diablo3.com/en/game/)
-[The Arreat Summit - A Strategy Guide for Diablo II](http://classic.battle.net/diablo2exp/)
-
-[Diablo 3 | Team BRG](https://teambrg.com/category/diablo-3/)
-
-[Diablo 3 Season 15 Start Guide! | Team BRG](https://teambrg.com/diablo-3/d3-seasonal-start-guide/)
-[Diablo 3 S15 | 2.6.1 Leveling Guide for ANY CLASS (Tips, FAQ) | Team BRG](https://teambrg.com/diablo-3/d3-leveling-guide-all-classes-progression-general/)
-
-[Diablo 3 Resources](http://www.d3resource.com/)
-[Diablo 3 Seasons Overview](http://d3resource.com/seasons/)
-
-[D3Planner Data](https://www.d3planner.com/game/54724/)
-[Mechanics And Game Information Compendium - Diablo III Forums](https://us.battle.net/forums/en/d3/topic/8770117237)
-
-[[FAQ]Diablo 3 for the Nintendo Switch : Diablo](https://www.reddit.com/r/Diablo/comments/9svdd0/faqdiablo_3_for_the_nintendo_switch/)
-
-[How Blizzard Saved Diablo III From Disaster](https://kotaku.com/how-blizzard-saved-diablo-iii-from-disaster-1797427650/amp)
-
-[【中國網遊史】《暗黑破壞神 3》的爭議與變革 - YouTube](https://www.youtube.com/watch?v=2tVXWRksP2k)
-
-## Diablo 4
-
-[The Diablo 4 cinematic trailer's lore and biblical references explained | PC Gamer](https://www.pcgamer.com/au/the-diablo-4-cinematic-trailers-lore-and-biblical-references-explained/)
-[Diablo 4: Everything we know | PC Gamer](https://www.pcgamer.com/au/diablo-4-everything-we-know/)
-
-## Lore
-
-[The Story of Diablo - Game Guide - Diablo III](https://us.diablo3.com/en/game/the-story-of-diablo/?page=1)
-[Want to know Diablo's lore? We have such horrors to show you | Blizzard Watch](https://blizzardwatch.com/2018/11/05/want-know-diablos-lore-horrors-show/)
-[Know Your Diablo Lore: What is actually happening in Diablo 3? | Blizzard Watch](https://blizzardwatch.com/2019/03/22/know-diablo-lore-actually-happening-diablo-3/amp/)
-[暗黑 - 神奇的张先生 - YouTube](https://www.youtube.com/channel/UCiGO_n_66dNJgIwiGYVpiVQ/search?query=%E6%9A%97%E9%BB%91)
-
-[神奇的张先生 - YouTube](https://www.youtube.com/channel/UCiGO_n_66dNJgIwiGYVpiVQ/videos)
-[《暗黑破坏神》到底包含了多少宗教史诗？这剧情也太高能了！ - YouTube](https://www.youtube.com/watch?v=7NWWz2dlNM4)
-
-[Diablo - YouTube](https://www.youtube.com/playlist?list=PLHkNwtRZFo2hCq5k10kLmbHaaAXvmqbCq) Fandom Games
-
-[Diablo 3 - Diablo Lore Series: Part 1 (Pre Diablo 1) - YouTube](https://www.youtube.com/watch?v=5Ghu8RzsWvs)
-[Diablo 3 - Diablo Lore Series: Part 2 (Diablo 1 Lore) - YouTube](https://www.youtube.com/watch?v=pg5EhW_ac5g)
-[Diablo 3 - Diablo Lore Series: Part 3 (Diablo 2 Lore) - YouTube](https://www.youtube.com/watch?v=IGowVF4x6H8)
-
-[Who Created Angels & Demons? Diablo Lore: Part 1 - YouTube](https://www.youtube.com/watch?v=BShXixAtYp0)
-[Who Were The Ancients? Diablo Lore: Part 2 - YouTube](https://www.youtube.com/watch?v=lM6cGRGlxD8)
 
 # Plants vs. Zombies: Garden Warfare 2
 
@@ -506,8 +437,8 @@ Fallout 76 is an online only game with in-game store.
 [How Did Warframe, a Free MMO, Become My Favorite Game? | Good Cheap Games - YouTube](https://www.youtube.com/watch?v=VKYwETRFpE0)
 
 [Warframe - YouTube](https://www.youtube.com/playlist?list=PLbcyJSeTLtlyqOrdxd2sxE-mwkqsJWgY3)
-Skill Up  
-[Warframe | The Review - YouTube](https://www.youtube.com/watch?v=0vuJitrbTFY)  
+Skill Up
+[Warframe | The Review - YouTube](https://www.youtube.com/watch?v=0vuJitrbTFY)
 [Warframe | The Plains of Eidolon Review (2017) - YouTube](https://www.youtube.com/watch?v=gHio59BW54M)
 [The Story of Digital Extremes (Warframe Doc Part 1) - YouTube](https://www.youtube.com/watch?v=UOE6528pwFc)
 [The Rise of Warframe (Warframe Doc Part 2) - YouTube](https://www.youtube.com/watch?v=NA5vT1LooXk)
@@ -807,6 +738,12 @@ Enhanced Blood Textures: [http://www.nexusmods.com/skyrimspecia...](https://www.
 [Integrating Narrative into Game Design: A Portal Post-Mortem - YouTube](https://www.youtube.com/watch?v=c2YRVWZupwo)
 [Portal 2: Creating a Sequel to a Game That Doesn't Need One - YouTube](https://www.youtube.com/watch?v=BYFvwbby2YM)
 
+# Monster Train
+
+[Steam Community :: Monster Train](https://steamcommunity.com/app/1102190)
+[Steam Community :: Guide :: 抛砖引玉——已知的各种族强力套路](https://steamcommunity.com/sharedfiles/filedetails/?id=2114148965)
+[Monster Train - YouTube](https://www.youtube.com/results?search_query=Monster+Train)
+
 # Riftbreaker
 
 [Official The Riftbreaker Wiki](https://riftbreaker.fandom.com/wiki/The_Riftbreaker_Wiki)
@@ -860,6 +797,27 @@ r_soft_shadows none
 
 [一個七年前的遊戲，竟展現了 2022 年時間將徹底終結〖遊戲不止〗 - YouTube](https://www.youtube.com/watch?v=-qJQcYncoyA)
 [預言 2022 年世界靜止的遊戲，最終的結局是什麼樣？〖遊戲不止〗 - YouTube](https://www.youtube.com/watch?v=kXKSkckr-x8)
+
+# Divinity: Original Sin 2
+
+[《原罪 2 Divinity: Original Sin II》为什么这么好玩，准年度 RPG 怎么炼成的？【就知道玩游戏 1】 - YouTube](https://www.youtube.com/watch?v=QJzzr_UGXug)
+[《神界原罪 2》评分高达 9.9 的 CRPG 神作！玩起来到底有多爽？ - YouTube](https://www.youtube.com/watch?v=cwRKTlBsrVY)
+[肥宅快樂水與神界原罪之間的居然有這種關係？——關於《神界：原罪》的十個事實 - YouTube](https://www.youtube.com/watch?v=95KojLAhSpo)
+
+[Divinity:Original Sin 2 神界原罪 2 - YouTube](https://www.youtube.com/playlist?list=PL49qnAU10l15RGcqpXsxpwdvusegld-mF) MinionsHYX
+
+[原罪 2 開場死亡之霧桶穿牆拿法 - YouTube](https://www.youtube.com/watch?v=1HhE81RNDYc)
+
+## Mods
+
+[神界原罪 2 常用 mod 介绍！强烈推荐！不影响平衡！【最强攻略 特别篇】 - YouTube](https://www.youtube.com/watch?v=jf0DVfudT54)
+
+[Increased text size at Divinity: Original Sin 2 Definitive Edition Nexus - Mods and Community](https://www.nexusmods.com/divinityoriginalsin2definitiveedition/mods/196?tab=description&BH=0)
+
+## Steam Deck
+
+[ProtonDB | Game Details for Divinity: Original Sin 2 - Definitive Edition](https://www.protondb.com/app/435150)
+[Divinity original sin 2 won't launch : SteamDeck](https://www.reddit.com/r/SteamDeck/comments/vkaczb/divinity_original_sin_2_wont_launch/)
 
 # Red Dead Redemption 2
 
@@ -970,8 +928,8 @@ NG 小熊
 [“更換平臺，狩魂重燃！”--《怪物獵人》歷代記（中） - YouTube](https://www.youtube.com/watch?v=icOyUDK7pXY)
 [“時代更迭，狩魂不滅！”--《怪物獵人》歷代記（上） - YouTube](https://www.youtube.com/watch?v=weU2B6RgQp0)
 
-[モンスターハンター大辞典 Wiki\*](http://wikiwiki.jp/nenaiko/)  
-[Monster Hunter Wiki | FANDOM powered by Wikia](http://monsterhunter.fandom.com/wiki/Monster_Hunter_Wiki)  
+[モンスターハンター大辞典 Wiki\*](http://wikiwiki.jp/nenaiko/)
+[Monster Hunter Wiki | FANDOM powered by Wikia](http://monsterhunter.fandom.com/wiki/Monster_Hunter_Wiki)
 [モンハン攻略・初心者講座](http://bassy-mh.info/) MH4G, MHX
 [gaijin hunter - YouTube](https://www.youtube.com/channel/UCT84SVapAfSSD_iMfpKbFbA)
 
@@ -1160,7 +1118,7 @@ Leya 蕾雅
 [Mods and The Witcher 3 next-gen update | Forums - CD PROJEKT RED](https://forums.cdprojektred.com/index.php?threads/mods-and-the-witcher-3-next-gen-update.11110486/)
 [The Witcher® 3: Wild Hunt - Next-gen update list of changes - Steam News](https://store.steampowered.com/news/app/292030/view/3642879552277333733):
 
-- [The Witcher 3 HD Reworked Project at The Witcher 3 Nexus - Mods and community](https://www.nexusmods.com/witcher3/mods/1021)  
+- [The Witcher 3 HD Reworked Project at The Witcher 3 Nexus - Mods and community](https://www.nexusmods.com/witcher3/mods/1021)
   [The Witcher 3 HD Reworked Project 12.0 Ultimate - NPCs Preview - YouTube](https://www.youtube.com/watch?v=q419ZBLIDrM)
 - [HDMR - HD Monsters Reworked mod at The Witcher 3 Nexus - Mods and community](https://www.nexusmods.com/witcher3/mods/3580)
 - [Immersive Real-time Cutscenes at The Witcher 3 Nexus - Mods and community](https://www.nexusmods.com/witcher3/mods/4574)
@@ -1168,7 +1126,7 @@ Leya 蕾雅
 - [World Map Fixes at The Witcher 3 Nexus - Mods and community](https://www.nexusmods.com/witcher3/mods/3430)
 - Full Combat Rebalance 3
 
-- [Friendly HUD at The Witcher 3 Nexus - Mods and community](https://www.nexusmods.com/witcher3/mods/365)  
+- [Friendly HUD at The Witcher 3 Nexus - Mods and community](https://www.nexusmods.com/witcher3/mods/365)
   [Friendly HUD - Better Icons and Extra Options (Add-On to original) at The Witcher 3 Nexus - Mods and community](https://www.nexusmods.com/witcher3/mods/4250)
 - [Absolute Camera at The Witcher 3 Nexus - Mods and community](https://www.nexusmods.com/witcher3/mods/856)
 - [Immersive Cam at The Witcher 3 Nexus - Mods and community](https://www.nexusmods.com/witcher3/mods/689)
@@ -1502,48 +1460,6 @@ TX系列任务 骇翼[1] & 机器人[2]
 [大學生製香港模擬鐵路　成條路線搬入電腦：小朋友玩得開心最緊要｜香港 01 ｜熱爆話題](https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/696605/)
 [電腦遊戲神還原屯馬線如港版電車 Go 　學生團隊年半製作驚艷鐵道迷｜香港 01 ｜熱爆話題](https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/696604/)
 
-# Horizon Zero Dawn
-
-[Horizon Zero Dawn - Wikiwand](https://www.wikiwand.com/en/Horizon_Zero_Dawn)
-[Horizon Zero Dawn review | Polygon](https://www.polygon.com/2017/2/20/14576092/horizon-zero-dawn-review-ps4-playstation-4-sony-guerrilla-games)
-[Horizon Zero Dawn Review | The Completionist - YouTube](https://www.youtube.com/watch?v=YnsNWqctDe4)
-[Horizon Zero Dawn | The Start Of Something Great - YouTube](https://www.youtube.com/watch?v=y8zOE3ABa7s)
-[The Unexpected Success of Horizon Zero Dawn | 3 Years Later (Retrospective) - YouTube](https://www.youtube.com/watch?v=y8iLmKBlvUE)
-
-[【地平線:期待黎明】視覺炸裂! 小猴子亞蘿伊的神奇身世+機械迷的狂歡! (遊戲統計局#41) (女子圖鑒) Horizon Zero Dawn 2017 地平線 零之曙光 - YouTube](https://www.youtube.com/watch?v=_pzep0SMzI4)
-[「地平線西域禁地」深度解析 - 極致的畫質, 當然要配精彩的故事! 4K Horizon Forbidden West 2022 - YouTube](https://www.youtube.com/watch?v=QHZodQ6LrVU)
-
-Lore
-[Project Zero Dawn, and the Fall of Humanity Explained | Horizon Zero Dawn Lore - YouTube](https://www.youtube.com/watch?v=WlDRAmTmhlc)
-[Horizon Zero Dawn Story Explained Part 1: Project Zero Dawn And How Humanity Went Extinct - YouTube](https://www.youtube.com/watch?v=VPgD3zl7ChE)
-[Horizon Zero Dawn Story Explained Part 2: Aloy’s Quest For Answers & The Events Of The Game - YouTube](https://www.youtube.com/watch?v=yQmWpm01DOc)
-[Horizon Zero Dawn Story Explained Part 3: Deep Lore Only The Biggest Fans Know - THE ODYSSEY & MORE - YouTube](https://www.youtube.com/watch?v=vLUYLwTedOI)
-[Horizon Zero Dawn Story Explained Part 4: Talanah’s Story Before The Forbidden West - YouTube](https://www.youtube.com/watch?v=TvYKnx6vyUk)
-[Horizon Zero Dawn - The Story So Far (What You Need to Know to Play Horizon Forbidden West) - YouTube](https://www.youtube.com/watch?v=rmx0uL-CXkI)
-[Complete History of Horizon: Zero Dawn to Forbidden West - YouTube](https://www.youtube.com/watch?v=wZreAuJwMZ8)
-[《地平線:黎明時分》在西域禁地推出之前，你該知道的前情提要｜ SKY - YouTube](https://www.youtube.com/watch?v=LwmU4Zhc_q8)
-
-[Horizon Zero Dawn on PC: The controls and frame rate sing - Polygon](https://www.polygon.com/platform/amp/2020/8/5/21355602/horizon-zero-dawn-pc-controls-graphics-hunting)
-[Horizon Zero Dawn PC benchmarks: what kind of performance you can expect | Rock Paper Shotgun](https://www.rockpapershotgun.com/horizon-zero-dawn-pc-benchmarks-performance)
-
-[107 Horizon Zero Dawn FACTS YOU Should Know | The Leaderboard - YouTube](https://www.youtube.com/watch?v=20qRBtpW11U)
-[Horizon Zero Dawn: 10 Things To Know When Starting A NEW GAME - YouTube](https://www.youtube.com/watch?v=JcPOYRpRXEA)
-[黑桐谷歌【地平线 零之曙光】 - YouTube](https://www.youtube.com/playlist?list=PL7PA3hyhaHFLdNdK9AIreo07NoONbpvnJ) play with
-[Horizon 2021 - YouTube](https://www.youtube.com/playlist?list=PL55clecAtEmynbZEHGFQvcCClgZaP0yhk) JorRaptor
-[Horizon Zero Dawn Best Mods In 2021 & How To Get Them Early (Horizon Zero Dawn Mods) - YouTube](https://www.youtube.com/watch?v=PQ06b6Ifmh8)
-[Easy Infinite Very Rare Mod Farm in Horizon Zero Dawn - YouTube](https://www.youtube.com/watch?v=OglqM86t2Lc) "Hammer and Steel" in Free Heap
-
-[Horizon Zero Dawn - How to Kill Every Machine; a complete guide - YouTube](https://www.youtube.com/watch?v=PBfN65mw0Kc)
-[12 hidden mechanics Horizon: Zero Dawn never tells you about - YouTube](https://www.youtube.com/watch?v=T_IP2qLyWP0)
-
-[How to get Shield-Weaver Early - Horizon Zero Dawn - YouTube](https://www.youtube.com/watch?v=4eocXnyNsJM)
-[How to get the Shield-Weaver Armor under an hour! Horizon Zero Dawn best armor - YouTube](https://www.youtube.com/watch?v=Ws_-wUVvRvI)
-[Horizon: Zero Dawn - How to find all 12 Vantage points (Vantage points guide ) - YouTube](https://www.youtube.com/watch?v=KS9eDf1KnpM)
-
-[The Making of Horizon Zero Dawn on Steam](https://store.steampowered.com/app/804410/The_Making_of_Horizon_Zero_Dawn/)
-[The Making of Horizon Zero Dawn - YouTube](https://www.youtube.com/watch?v=h9tLcD1r-6w)
-[Horizon Zero Dawn – The making of the game (2017) - YouTube](https://www.youtube.com/watch?v=A0eaGRcdwpo)
-
 # Elden Ring
 
 [好尸带你快速轻松看懂【艾尔登法环】全剧情，老头环到底讲的啥故事 - YouTube](https://www.youtube.com/watch?v=O9cIcdU2m7s)
@@ -1584,6 +1500,8 @@ Lore
 [【不止遊戲】曾造成三億人死亡的疾病——《瘟疫傳說：無罪》真實歷史背景。 - YouTube](https://www.youtube.com/watch?v=PBzue4yaRjI)
 [這遊戲結局的秘密，隱藏在章節名中。 〖遊戲不止〗 - YouTube](https://www.youtube.com/watch?v=6HzA407wCRM)
 
+[【瘟疫传说：安魂曲】黑桐谷歌 - YouTube](https://www.youtube.com/playlist?list=PL7PA3hyhaHFKhNxNRqNZbIU_koA-5SmI7) play with
+
 # Kingdom Hearts
 
 [王國之心系列全劇情（上）Kingdom Hearts 時間線梳理解密 | 王國之心 3 前你需要知道的全部 | 鍵刃編年史 | 小寧子 - YouTube](https://www.youtube.com/watch?v=kcGRqW3M848)
@@ -1610,6 +1528,10 @@ Use A and alternate L1,R1 use climb
 [How To Dropkick In Gang Beasts](https://www.thegamer.com/gang-beasts-super-dropkick-people/)
 
 [Gang Beasts: 10 Of The Best Costumes](https://www.thegamer.com/gang-beasts-best-costumes/)
+
+# Sakuna: Of Rice and Ruin 天穗之咲稻姬
+
+[【天穗之咲稻姬】省心種田法 | 種田全攻略！最強種田指南 【黑桐谷歌】 遊玩心得分享（非常推薦！） #天穗之咲稻姬 #遊戲實況 - YouTube](https://www.youtube.com/watch?v=bF0PM8BPgW8)
 
 ---
 

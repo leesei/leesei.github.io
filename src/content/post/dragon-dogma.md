@@ -79,7 +79,7 @@ Warrior's first
 [Dragon's Dogma character creation, best starter class and walkthrough guide - YouTube](https://www.youtube.com/watch?v=EYHlceDgk2s) 1:40
 [Dragon's Dogma - Tips For New Players - YouTube](https://www.youtube.com/watch?v=MAN0xNrLd70)
 [Dragon's Dogma: DA Remaster - Beginner Guide for Character Levels & Stat Gains - YouTube](https://www.youtube.com/watch?v=gu5JJg8JpDI)
-[Dragon's Dogma Best Character / Pawn Build Guide - YouTube](https://www.youtube.com/watch?v=_bkyTtqRgkE) !important
+[Dragon's Dogma Best Character / Pawn Build Guide - YouTube](https://www.youtube.com/watch?v=_bkyTtqRgkE) ❗!important
 [Dragon's Dogma! Increase Discipline Gain by 50-100%! Early method! - YouTube](https://www.youtube.com/watch?v=ZJOj9sFUBGE)
 
 [Dragon's Dogma - From Zero to Hero... or... something - YouTube](https://www.youtube.com/playlist?list=PLrZgsrY1mV1npOAx_OkMW4cXEX6bek9P2) recommended for 2nd playthrough

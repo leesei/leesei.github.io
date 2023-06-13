@@ -9,7 +9,7 @@ tags:
 
 [3D for Everyone | SketchUp](http://www.sketchup.com/)
 
-[Watch this Before You Get Started with SketchUp (2017) - YouTube](https://www.youtube.com/watch?v=xsteCTxxg1Y) !important
+[Watch this Before You Get Started with SketchUp (2017) - YouTube](https://www.youtube.com/watch?v=xsteCTxxg1Y) ❗!important
 
 [Do you need SketchUp Pro? (SketchUp Pro 2018 vs SketchUp Free) - YouTube](https://www.youtube.com/watch?v=xZzME9MddsE)
 
@@ -72,7 +72,7 @@ Channels:
 [Sketchup for Woodworkers - YouTube - YouTube](https://www.youtube.com/playlist?list=PLKZBbhGUj_17_vZspQ-jG4gwxjxaOmLK5)
 [SketchUp For Woodworking Tutorials - YouTube - YouTube](https://www.youtube.com/playlist?list=PLEQT0qjXe6zgwIxOjv-gkMgA13FxUtgaU)
 
-Old:  
+Old:
 [Interior design tutorial using Google Sketchup - YouTube](https://www.youtube.com/watch?v=v_s7lpikWQU)
 [SketchUp and CAD - Creating Walls - YouTube](https://www.youtube.com/watch?v=FsnT8KN8xIM)
 [SketchUp and CAD - Doors and Windows - YouTube](https://www.youtube.com/watch?v=bXbyrZnqxOM)

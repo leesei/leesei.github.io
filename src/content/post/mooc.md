@@ -42,6 +42,7 @@ tags:
 I've bought several bundles here (with Teachable SSO)
 [StackSkills](https://stackskills.com/courses/enrolled)
 [Kode Kloud](https://kodekloud.com/)
+[One Education – One Education](https://www.oneeducation.org.uk/) CompTIA
 
 [Library - SitePoint Premium - SitePoint Premium](https://www.sitepoint.com/premium/library) I've some courses and books here
 
@@ -201,6 +202,8 @@ seneca-in-practice
 [混乱博物馆 ChaosMuseum - YouTube](https://www.youtube.com/channel/UCsFM7d3CsTEnUgNQl9QO7ZA)
 [瑞森老哥 Reason - YouTube](https://www.youtube.com/channel/UCwQn3kcFaRMNWaiwKokIo7A)
 [科学火箭叔 - YouTube](https://www.youtube.com/channel/UC8dD8v_uIA7aRzpqaCoIHKg)
+
+[Projects — Brady Haran](https://www.bradyharanblog.com/projects)
 
 ### Documentaries
 

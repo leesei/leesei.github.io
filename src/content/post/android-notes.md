@@ -135,7 +135,7 @@ Kotlin was supported officially as a language for Android dev at Google I/O 2017
 
 ### Jetpack
 
-[Android Jetpack | Android Developers](https://developer.android.com/jetpack/) !important, new standard library compatible with Kotlin
+[Android Jetpack | Android Developers](https://developer.android.com/jetpack/) ❗!important, new standard library compatible with Kotlin
 [Guide to app architecture | Android Developers](https://developer.android.com/jetpack/docs/guide)
 [Android Architecture Components | Android Developers](https://developer.android.com/jetpack/arch/)
 [Jetpack Compose | Android Developers](https://developer.android.com/jetpack/compose) UI toolkit with Kotlin DSL
@@ -238,7 +238,7 @@ cat /proc/bus/input/devices
 [Android Debug Bridge (adb) | Android Developers](https://developer.android.com/studio/command-line/adb)
 [ashishb/adb-enhanced: 🔪Swiss-army knife for Android testing and development 🔪 ⛺](https://github.com/ashishb/adb-enhanced)
 
-[Android Debug Bridge (ADB)  |  Android Open Source Project](https://source.android.com/docs/setup/build/adb)
+[Android Debug Bridge (ADB) | Android Open Source Project](https://source.android.com/docs/setup/build/adb)
 [adb - platform/system/core - Git at Google](https://android.googlesource.com/platform/system/core/+/refs/heads/android11-release/adb/) android11-release
 [adb - Android Code Search](https://cs.android.com/android/platform/superproject/+/master:packages/modules/adb/)
 
@@ -247,7 +247,7 @@ cat /proc/bus/input/devices
 
 [Android Debug Bridge - ArchWiki](https://wiki.archlinux.org/title/Android_Debug_Bridge)
 
-[SDK Platform Tools release notes  |  Android Developers](https://developer.android.com/studio/releases/platform-tools)
+[SDK Platform Tools release notes | Android Developers](https://developer.android.com/studio/releases/platform-tools)
 
 `adb` comes with the Android SDK, and released separately as Platform Tools in 2017.
 

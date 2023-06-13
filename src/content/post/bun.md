@@ -22,6 +22,7 @@ tags:
 [NextJS Was Too Slow...So He Made Bun??! Jarred Sumner & The Story Of Bun - YouTube](https://www.youtube.com/watch?v=rL4qpniIR7o) Theo's interview
 [Getting started with Bun and React - LogRocket Blog](https://blog.logrocket.com/getting-started-bun-react/)
 [Let's create a next.js app with bun - DEV Community](https://dev.to/ashirbadgudu/lets-create-a-nextjs-app-with-bun-48l6)
+[Bun vs. Node.js | refine](https://refine.dev/blog/bun-js-vs-node/)
 
 ```sh
 npm install -g bun
@@ -47,6 +48,13 @@ bun add <package>
 [Bun: The JavaScript runtime taking on Node.js and Deno - LogRocket Blog](https://blog.logrocket.com/bun-javascript-runtime-taking-node-js-deno/)
 [A first look at Bun: is it really 3x faster than Node.js and Deno? - DEV Community](https://dev.to/builderio/a-first-look-at-bun-is-it-really-3x-faster-than-nodejs-and-deno-45od)
 [Node.js vs Deno vs Bun: A re-look at the performance when serving images | The JS runtimes](https://medium.com/deno-the-complete-reference/node-js-vs-deno-vs-bun-a-re-look-at-the-performance-when-serving-images-87a972c9257)
+[Bun vs. Node.js | refine](https://refine.dev/blog/bun-js-vs-node/)
+
+## Bundler
+
+[The Bun Bundler | Bun Blog](https://bun.sh/blog/bun-bundler)
+
+Can this be used to build frontend app?
 
 ## Package Manager
 
@@ -88,6 +96,6 @@ bun pm - package manager related commands
 
 #web-framework
 
-[Elysia - Fast, and friendly Bun web frameworks | Elysia.js](https://elysiajs.com/)
+[Elysia - Fast, and friendly Bun web frameworks | Elysia.js](https://elysiajs.com/) tRPC, GQL, OpenAPI, JWT, type checks
 
 [Buchta](https://buchtajs.com/)

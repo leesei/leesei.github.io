@@ -1,11 +1,11 @@
 ---
 title: How Games Work
-description: How games mechanics works, game design and how to make games, apart
-  from rendering
+description: How games mechanics works, game design and how to make games, apart from rendering
 created: 2015-08-31
 updated: 2023-03-23
 tags:
   - games
+  - game-design
 ---
 
 [[computer-graphics-software]]
@@ -14,6 +14,8 @@ tags:
 [How Games Work - YouTube](https://www.youtube.com/playlist?list=PLoJSah60cTP5Hulr9HxLyv-JVXFZycdmw) by TheHappieCat
 [Bitwise - YouTube](https://www.youtube.com/playlist?list=PLwOyKHoDhJIqX_-gO1kiWerehrXMUEVBb) DigiDigger
 [Gaming Topics - YouTube - YouTube](https://www.youtube.com/playlist?list=PLJAzFcYKyx4RA6_z6pq3bJlJuENg5kWKV)
+[GamesWithGabe - YouTube](https://www.youtube.com/@GamesWithGabe)
+[Nick Maltbie - YouTube](https://www.youtube.com/@NickMaltbie)
 
 [GDC - YouTube](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
 [GDC Vault](https://www.gdcvault.com/)
@@ -57,11 +59,15 @@ tags:
 [Table Flip Games - YouTube](https://www.youtube.com/channel/UCjG7y5Iw4TLHcK6ckuqUj_A)
 [Retro Game Mechanics Explained - YouTube](https://www.youtube.com/channel/UCwRqWnW5ZkVaP_lZF7caZ-g)
 
+[Nintendo Switch Cartridges Are Not Cartridges - YouTube](https://www.youtube.com/watch?v=ZywVAsgr9l0) cartridge in the original sense **is** the memory
+
 ## Game Design
 
 [Gamasutra - Game Design Deep Dives](https://gamasutra.com/deepdives)
 
-[Masahiro Sakurai on Creating Games - YouTube](https://www.youtube.com/c/sora_sakurai_en) of Kirbi and Super Smash Bros. fame
+[Masahiro Sakurai on Creating Games - YouTube](https://www.youtube.com/c/sora_sakurai_en) of Kirby and Super Smash Bros. fame
+
+[Marshall McGee - YouTube](https://www.youtube.com/@MarshallMcGee) sound elements
 
 [Good Game Design - Getting Over It With Bennett Foddy - YouTube](https://www.youtube.com/watch?v=kPVXGE5I7xg&list=PLrSZDOvRCmRBLuY5_DPZ0xqdMonjbNjZ_)
 [Why PS1 and N64 Games Were Different - YouTube](https://www.youtube.com/watch?v=DhKX_i4BlGs)
@@ -106,6 +112,12 @@ tags:
 
 [Animation Bootcamp: An Indie Approach to Procedural Animation - YouTube](https://www.youtube.com/watch?v=LNidsMesxSE)
 [Giving Personality to Procedural Animations using Math - YouTube](https://www.youtube.com/watch?v=KPoeNZZ6H4s)
+
+## Rollback Netcode
+
+[Rollback Netcode Explained](https://gamerant.com/rollback-netcode-explained/)
+[What Is Rollback Netcode and Why Is It So Important For Fighting Games?](https://sea.ign.com/street-fighter-next/188810/news/what-is-rollback-netcode-and-why-is-it-so-important-for-fighting-games)
+[What is Rollback Netcode in fighting games? - GamesHub](https://www.gameshub.com/news/news/rollback-netcode-for-fighting-games-what-is-it-26176/)
 
 ## Conversation System
 

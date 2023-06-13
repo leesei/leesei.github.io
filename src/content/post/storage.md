@@ -16,7 +16,7 @@ tags:
 
 [Seven attempts to speed processing with faster storage – Blocks and Files](https://blocksandfiles.com/2020/09/08/seven-attempts-to-speed-processing-with-faster-storage/)
 
-[PMR？SMR？HAMR？MAMR？氦氣填充？512e？4Kn？硬碟技術一一拆解 - XFastest Hong Kong](https://hk.xfastest.com/2715/hdd-technology-intro/) !important
+[PMR？SMR？HAMR？MAMR？氦氣填充？512e？4Kn？硬碟技術一一拆解 - XFastest Hong Kong](https://hk.xfastest.com/2715/hdd-technology-intro/) ❗!important
 
 [SSD vs. HDD: Choosing between solid-state and hard-disk drives | Network World](https://www.networkworld.com/article/3482988/ssd-vs-hdd-how-to-choose-between-solid-state-drives-and-hard-disk-drives.html)
 [Solid State vs. Hard Disk: Differences Between SSD and HDD](https://www.backblaze.com/blog/hdd-versus-ssd-whats-the-diff/)
@@ -86,6 +86,7 @@ More precise writing techniques to increase density of magnetic track
 [Explaining SSDs: Form Factors, Interfaces & Technologies - YouTube](https://www.youtube.com/watch?v=EXLfErPEYiw)
 [SSD ABC Guide – OCZ Forum](http://oczforum.com/staff/meander/OCZ_SSD_ABC_Guide.pdf) PDF
 [Exploring Solid State Drives and 3D NAND - YouTube](https://www.youtube.com/playlist?list=PL6rx9p3tbsMuk0jnC-dBdwb32Z1g7mD0j)
+[Why SSDs Are Big And Cheap - YouTube](https://www.youtube.com/watch?v=ErV-2tlf9Ls) SLC to PLC
 
 [What's the difference between flash and SSD storage? | PC Gamer](https://www.pcgamer.com/whats-the-difference-between-flash-and-ssd-storage/) flash is one kind of SSD
 
@@ -508,11 +509,11 @@ fio --ioengine=libaio --size=1024m --filename=$HOME/tempfile --direct=1 --loops=
 [S.M.A.R.T. Monitoring | Knowledge Base](https://kb.acronis.com/content/9636) with description article
 
 Backblaze uses these 5 to diagnose drive failure:
-SMART 5 – Reallocated_Sector_Count. !important
+SMART 5 – Reallocated_Sector_Count. ❗!important
 SMART 187 – Reported_Uncorrectable_Errors.
 SMART 188 – Command_Timeout.
-SMART 197 – Current_Pending_Sector_Count. !important
-SMART 198 – Offline_Uncorrectable. !!important
+SMART 197 – Current_Pending_Sector_Count. ❗!important
+SMART 198 – Offline_Uncorrectable. !❗!important
 
 [What SMART Hard Disk Errors Actually Tell Us](https://www.backblaze.com/blog/what-smart-stats-indicate-hard-drive-failures/)
 

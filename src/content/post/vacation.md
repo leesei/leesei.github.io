@@ -7,6 +7,12 @@ tags:
   - trivia
 ---
 
+## Flight
+
+PNR: Passenger Name Record
+[What Is PNR? What Does a PNR Code Do?](https://www.flypgs.com/en/travel-glossary/pnr)
+[What is PNR: Passenger Name Record Explained in Details | AltexSoft](https://www.altexsoft.com/blog/pnr-explained/)
+
 ## Power Plug
 
 [Plug & socket types](https://www.worldstandards.eu/electricity/plugs-and-sockets/)

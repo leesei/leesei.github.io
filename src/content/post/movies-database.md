@@ -110,7 +110,7 @@ Innovative and personalized recommendation system.
 
 [一口气看完 DC 神剧《和平使者》第一季，开年王炸！赵喜娜本色出演！ - YouTube](https://www.youtube.com/watch?v=NiaeVMNuGaU)
 
-[【預告解析】閃電俠-DC 宇宙真的要重啟了? 認識 DC 新 52 的故事起點：閃點  |  超粒方 - YouTube](https://www.youtube.com/watch?v=I81bLzM5le0) new 52, a soft reboot in FlashPoint
+[【預告解析】閃電俠-DC 宇宙真的要重啟了? 認識 DC 新 52 的故事起點：閃點 | 超粒方 - YouTube](https://www.youtube.com/watch?v=I81bLzM5le0) new 52, a soft reboot in FlashPoint
 
 ## Gotham Universe
 

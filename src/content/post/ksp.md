@@ -4,6 +4,7 @@ description: ""
 created: 2019-10-22
 tags:
   - games
+  - ksp
 ---
 
 [Kerbal Space Program - Create and Manage Your Own Space Program](https://www.kerbalspaceprogram.com/)
@@ -272,7 +273,7 @@ Pilot Assistant (useful for time wrap)
 - [M.O.L.E. on SpaceDock](https://spacedock.info/mod/792/M.O.L.E.)
 - [Deep Space Surface Habitat Unit Pack on SpaceDock](https://spacedock.info/mod/1622/Deep%20Space%20Surface%20Habitat%20Unit%20Pack)
 - [Kerbal Planetary Base Systems on SpaceDock](https://spacedock.info/mod/173/Kerbal%20Planetary%20Base%20Systems)
-- [KerbalX - USI Exploration Pack](https://kerbalx.com/mods/usiexp)  
+- [KerbalX - USI Exploration Pack](https://kerbalx.com/mods/usiexp)
   [[1.11.x] USI Exploration Pack - Small parts, big adventure! [v 0.6.0] - Add-on Releases - Kerbal Space Program Forums](https://forum.kerbalspaceprogram.com/index.php?/topic/78242-111x-usi-exploration-pack-small-parts-big-adventure-v-060/)
 - [Releases · KSP-RO/FASA-RO](https://github.com/KSP-RO/FASA-RO/releases) NASA's Apollo Mission crafts
 - [[DEV HALTED][1.3] CxAerospace: Stations Parts Pack v1.6.2 [2017-5-24] - Add-on Releases - Kerbal Space Program Forums](https://forum.kerbalspaceprogram.com/index.php?/topic/138910-dev-halted13-cxaerospace-stations-parts-pack-v162-2017-5-24/)
@@ -300,7 +301,7 @@ To be used with Real Solar System
 ### Visuals
 
 - [[1.8] EnvironmentalVisualEnhancements [1.8.0-2] - Add-on Releases - Kerbal Space Program Forums](https://forum.kerbalspaceprogram.com/index.php?/topic/149733-18-environmentalvisualenhancements-180-2/)
-- [[WIP][1.9 -1.12] Scatterer-atmospheric scattering (0.0772 - 18/06/2021) - Add-on Development - Kerbal Space Program Forums](https://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip19-112-scatterer-atmospheric-scattering-00772-18062021/)  
+- [[WIP][1.9 -1.12] Scatterer-atmospheric scattering (0.0772 - 18/06/2021) - Add-on Development - Kerbal Space Program Forums](https://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip19-112-scatterer-atmospheric-scattering-00772-18062021/)
   [scatterer on SpaceDock](https://spacedock.info/mod/141/scatterer)
 - RSSVE (visuals)
 - TUFX (post processing, profiles by Zorg)

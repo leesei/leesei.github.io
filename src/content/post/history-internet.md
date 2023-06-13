@@ -15,7 +15,8 @@ Documents the history of Internet and major events.
 [[internet-archive]]
 
 [A Complete History Archive - The History of the Web](https://thehistoryoftheweb.com/complete-history/)
-[Learn the History of the Internet in Dr. Chuck's 9-Hour Course](https://www.freecodecamp.org/news/learn-the-history-of-thep-internet-in-dr-chucks/) !important
+[Learn the History of the Internet in Dr. Chuck's 9-Hour Course](https://www.freecodecamp.org/news/learn-the-history-of-the-internet-in-dr-chucks/) ❗!important
+[Internet History, Technology, and Security - Full Course from Dr. Chuck - YouTube](https://www.youtube.com/watch?v=47NRaBVxgVM) also computer's history
 
 [How the Internet Crossed the Sea | Nostalgia Nerd - YouTube](https://www.youtube.com/watch?v=A8q7Ayvw5kA)
 [How the Internet works: Submarine fiber, brains in jars, and coaxial cables | Ars Technica](http://arstechnica.com/information-technology/2016/05/how-the-internet-works-submarine-cables-data-centres-last-mile/)

@@ -33,6 +33,8 @@ tags:
 [p5.js sketches - jagracar](https://jagracar.com/p5jsSketches.php)
 [p5.js | examples](https://p5js.org/examples/#demos)
 
+[Creating animations with p5.js - LogRocket Blog](https://blog.logrocket.com/creating-animations-p5-js/)
+
 [Welcome to p5.js](http://hello.p5js.org/)
 [processing/p5.js-video](https://github.com/processing/p5.js-video#hello-p5)
 

@@ -27,7 +27,7 @@ In "order selection mechanism" (which is called "mining"), blocks will be serial
 
 [Blockchain | Software Engineering Daily](https://softwareengineeringdaily.com/category/blockchain/)
 [Learn Blockchains by Building One | HackerNoon](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
-[Blockchain Building with Daniel van Flymen | Software Engineering Daily](https://softwareengineeringdaily.com/2017/10/12/blockchain-building-with-daniel-van-flymen/) !important, with Python
+[Blockchain Building with Daniel van Flymen | Software Engineering Daily](https://softwareengineeringdaily.com/2017/10/12/blockchain-building-with-daniel-van-flymen/) ❗!important, with Python
 [Blockchains with Melanie Swan | Software Engineering Daily](https://softwareengineeringdaily.com/2015/08/11/blockchains-with-melanie-swan/)
 
 [Bitcoin, Blockchain, and ICOs: What You Need to Know - ExtremeTech](https://www.extremetech.com/extreme/262229-bitcoin-blockchain-icos-explained)
@@ -150,7 +150,15 @@ SegWit2x
 [5 NFT Projects You Should Know | Binance Academy](https://academy.binance.com/en/articles/5-nft-projects-you-should-know)
 [Custodial vs. Non-Custodial NFTs: What’s the Difference? | Binance Academy](https://academy.binance.com/en/articles/custodial-vs-non-custodial-nfts-what-s-the-difference)
 
-### Web 3
+## Web 3
+
+[Web3 - Wikiwand](https://www.wikiwand.com/en/web%203)
+
+- Decentralized Internet
+- Blockchain (cryptocurrency, NFT)
+
+[The web doesn’t have version numbers | hidde.blog](https://hidde.blog/the-web-doesnt-have-version-numbers/)
+[Web3 is Going Just Great](https://web3isgoinggreat.com/)
 
 [What is Web3? The Decentralized Internet of the Future Explained](https://www.freecodecamp.org/news/what-is-web3/)
 [Defining the web3 stack](https://edgeandnode.com/blog/defining-the-web3-stack)
@@ -171,3 +179,15 @@ SegWit2x
 [30+ Best Web3 Resources For Beginners And Experts](https://www.theinsaneapp.com/2022/03/best-web3-resources.html)
 
 [Restspace Web 3 Integration](https://restspace.io/)
+
+## Decentralized application (dApp)
+
+[Decentralized application - Wikiwand](https://www.wikiwand.com/en/Decentralized_application)
+[Decentralized Applications (dApps): Definition, Uses, Pros and Cons](https://www.investopedia.com/terms/d/decentralized-applications-dapps.asp)
+
+[Decentralized applications (dapps) | ethereum.org](https://ethereum.org/en/dapps/)
+[Introduction to dapps | ethereum.org](https://ethereum.org/en/developers/docs/dapps/)
+
+[DappRadar - The World’s Dapp Store | Blockchain Dapps Ranked](https://dappradar.com/)
+
+[The Definitive Guide To Building A FullStack dApp](https://blog.openreplay.com/the-definitive-guide-to-building-a-fullstack-dapp/)

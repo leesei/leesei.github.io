@@ -166,7 +166,7 @@ An array directive (e.g.: `fastcgi_param`) is basically any directive that can b
 
 [h5bp/server-configs-nginx: Nginx HTTP server boilerplate configs](https://github.com/h5bp/server-configs-nginx)
 [timgws/handy-nginx-includes: 'best practice' nginx configuration includes.](https://github.com/timgws/handy-nginx-includes)
-[lebinh/nginx-conf: A collection of useful Nginx configuration snippets](https://github.com/lebinh/nginx-conf) !important
+[lebinh/nginx-conf: A collection of useful Nginx configuration snippets](https://github.com/lebinh/nginx-conf) ❗!important
 [danielrichman/nginx-config-snippets: nginx config snippets: gzip, catchall, domain c14n, ssl, uwsgi, php, wordpress](https://github.com/danielrichman/nginx-config-snippets)
 
 ## Internals
@@ -306,6 +306,8 @@ setfacl -R -m u:${USER}:rwx /var/www
 [Nginx Proxy Manager](https://nginxproxymanager.com/)
 [Putting it All Together - Docker, Docker-Compose, NGinx Proxy Manager, and Domain Routing - How To. - YouTube](https://www.youtube.com/watch?v=cjJVmAI1Do4)
 [Nginx Proxy Manager - How-To Installation and Configuration - YouTube](https://www.youtube.com/watch?v=P3imFC7GSr0)
+
+[SWAG setup - LinuxServer.io](https://docs.linuxserver.io/general/swag)
 
 [Using nginx as HTTP load balancer](http://nginx.org/en/docs/http/load_balancing.html)
 [NGINX Load Balancing - HTTP and TCP Load Balancer](https://www.nginx.com/resources/admin-guide/load-balancer/)

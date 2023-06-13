@@ -340,15 +340,15 @@ I need an option parser that auto generates the help page.
 [nodeca/argparse: CLI arguments parser for node.js. JS port of python's argparse module.](https://github.com/nodeca/argparse)
 [sindresorhus/meow: CLI app helper](https://github.com/sindresorhus/meow)
 [hapijs/bossy: Command line options parser](https://github.com/hapijs/bossy)
-[leo/args: Minimal toolkit for building CLIs](https://github.com/leo/args) inactive, built on mri
-[lukeed/mri: Quickly scan for CLI flags and arguments](https://github.com/lukeed/mri) inactive
-[75lb/command-line-args: A mature, feature-complete library to parse command-line options.](https://github.com/75lb/command-line-args) inactive
+[leo/args: Minimal toolkit for building CLIs](https://github.com/leo/args) 😴inactive, built on mri
+[lukeed/mri: Quickly scan for CLI flags and arguments](https://github.com/lukeed/mri) 😴inactive
+[75lb/command-line-args: A mature, feature-complete library to parse command-line options.](https://github.com/75lb/command-line-args) 😴inactive
 
 [yargs/yargs: yargs the modern, pirate-themed successor to optimist.](https://github.com/yargs/yargs) [Docs](http://yargs.js.org/docs/index.html)
 [Yargs cheatsheet](http://ricostacruz.com/cheatsheets/yargs.html)
 I found yargs option are too complicated
 
-[scottcorgan/nash: Craft command-line masterpieces in Node.js](https://github.com/scottcorgan/nash) inactive
+[scottcorgan/nash: Craft command-line masterpieces in Node.js](https://github.com/scottcorgan/nash) 😴inactive
 [minimistjs/minimist: parse argument options](https://github.com/minimistjs/minimist) naive, no help page
 [harthur-nomnom](https://github.com/harthur/nomnom) DEPRECATED
 [substack-node-optimist](https://github.com/substack/node-optimist) DEPRECATED, succeeded by yargs
@@ -380,15 +380,15 @@ I found yargs option are too complicated
 
 #### frameworks
 
-[12 Factor CLI Apps – Jeff Dickey – Medium](https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46) !important
+[12 Factor CLI Apps – Jeff Dickey – Medium](https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46) ❗!important
 [Build CLIs with an open framework using Node.js | oclif](https://oclif.io/)
 [Open Sourcing oclif, the CLI Framework that Powers Our CLIs | Heroku](https://blog.heroku.com/open-cli-framework)
 [CLI Flags in Practice + How to Make Your Own CLI Command with oclif | Heroku](https://blog.heroku.com/cli-flags-get-started-with-oclif)
 [Open CLI Framework: Create Command Line Tools Your Users Love - YouTube](https://www.youtube.com/watch?v=ZBRmOS7dmD0)
 
-[weidagang-line-parser-js](https://github.com/weidagang/line-parser-js) configuration over implementation  
-[Omelette by f](http://f.github.io/omelette/) generates event from given command and you only have to implement the handlers  
-[dscape-frameless](https://github.com/dscape/frameless) event framework for CLI app  
+[weidagang-line-parser-js](https://github.com/weidagang/line-parser-js) configuration over implementation
+[Omelette by f](http://f.github.io/omelette/) generates event from given command and you only have to implement the handlers
+[dscape-frameless](https://github.com/dscape/frameless) event framework for CLI app
 [vdemedes-sushi](https://github.com/vdemedes/sushi) Express for CLI
 
 ### sub-shell
@@ -502,16 +502,16 @@ Requirements:
 [micromatch/micromatch: Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, taro, bulma, browser-sync, documentation.js, stylelint, nyc, ava, and many others! Please follow micromatch's author: https://github.com/jonschlinkert](https://github.com/micromatch/micromatch)
 [isaacs/minimatch: a glob matcher in javascript](https://github.com/isaacs/minimatch)
 
-[sindresorhus/multimatch: Extends minimatch.match() with support for multiple patterns](https://github.com/sindresorhus/multimatch) inactive
+[sindresorhus/multimatch: Extends minimatch.match() with support for multiple patterns](https://github.com/sindresorhus/multimatch) 😴inactive
 [sindresorhus/globby: User-friendly glob matching](https://github.com/sindresorhus/globby)
 
 ### file system watcher
 
 [gajus/turbowatch: Extremely fast file change detector and task orchestrator for Node.js.](https://github.com/gajus/turbowatch)
 [paulmillr/chokidar: Minimal and efficient cross-platform file watching library](https://github.com/paulmillr/chokidar)
-[lukeed/watchlist: Recursively watch a list of directories & run a command on any file system changes](https://github.com/lukeed/watchlist) inactive
-[Conduitry/cheap-watch: If it works, why use something else?](https://github.com/Conduitry/cheap-watch) inactive
-[Qard/onchange: Use glob patterns to watch file sets and run a command when anything is added, changed or deleted.](https://github.com/Qard/onchange) inactive
+[lukeed/watchlist: Recursively watch a list of directories & run a command on any file system changes](https://github.com/lukeed/watchlist) 😴inactive
+[Conduitry/cheap-watch: If it works, why use something else?](https://github.com/Conduitry/cheap-watch) 😴inactive
+[Qard/onchange: Use glob patterns to watch file sets and run a command when anything is added, changed or deleted.](https://github.com/Qard/onchange) 😴inactive
 
 [remy/nodemon: Monitor for any changes in your node.js application and automatically restart the server - perfect for development](https://github.com/remy/nodemon/) chokidar and minimatch
 [open-cli-tools/chokidar-cli: Fast cross-platform cli utility to watch file system changes](https://github.com/open-cli-tools/chokidar-cli)
@@ -538,6 +538,7 @@ Low level: Database Driver
 Middle Level: Query Builder
 High Level: ORM
 
+[I tried 8 different Postgres ORMs - YouTube](https://www.youtube.com/watch?v=4QN1BzxF8wM)
 [Top 11 Node.js ORMs, Query Builders & Database Libraries in 2021](https://www.prisma.io/dataguide/database-tools/top-nodejs-orms-query-builders-and-database-libraries)
 [The best TypeScript ORMs - LogRocket Blog](https://blog.logrocket.com/best-typescript-orms/)
 [Which JavaScript ORM should you be using in 2018?](https://www.freecodecamp.org/news/a-comparison-of-the-top-orms-for-2018-19c4feeaa5f)
@@ -552,7 +553,7 @@ High Level: ORM
 [Bookshelf.js](http://bookshelfjs.org/) built on Knex
 [Objection.js](https://vincit.github.io/objection.js/) built on Knex
 
-[kysely-org/kysely: A type-safe typescript SQL query builder](https://github.com/kysely-org/kysely)
+[kysely-org/kysely: A type-safe typescript SQL query builder](https://github.com/kysely-org/kysely) inspred by Knex, model typing
 
 [typeorm/typeorm: ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.](https://github.com/typeorm/typeorm)
 [Setting up a basic TypeORM starter](https://daily-dev-tips.com/posts/setting-up-a-basic-typeorm-starter/)
@@ -561,7 +562,9 @@ High Level: ORM
 [planetscale/database-js: A Fetch API-compatible PlanetScale database driver](https://github.com/planetscale/database-js) fixes Prisma's slow cold start problem
 [Let's Talk About Database Performance - YouTube](https://www.youtube.com/watch?v=3P7jnolWfHw)
 
-[drizzle-team/drizzle-orm: TypeScript ORM for SQL](https://github.com/drizzle-team/drizzle-orm) Prisma alternative
+[DrizzleORM - next gen TypeScript ORM](https://orm.drizzle.team/)
+[drizzle-team/drizzle-orm: TypeScript ORM for SQL](https://github.com/drizzle-team/drizzle-orm) Prisma alternative, less toolchain reliance
+[I Have A New Favorite Database Tool - YouTube](https://www.youtube.com/watch?v=_SLxGYzv6jo)
 
 ## App Frameworks
 
@@ -672,6 +675,7 @@ React + Node.js + Prisma
 
 [Appwrite - Open-Source End-to-End Backend Server](https://appwrite.io/)
 [Authentication - Exploring Appwrite.io with React Series - DEV Community](https://dev.to/daryllukas/authentication-exploring-appwrite-io-with-react-series-1iec)
+[Building a message board with Next.js and AppWrite - DEV Community](https://dev.to/livecycle/building-a-message-board-with-nextjs-and-appwrite-3910)
 
 ### WunderGraph
 

@@ -521,7 +521,7 @@ BGA
 A pin without connection is said to be "floating", the signal will be subjected to environmental noise. Use pull-up (default high) or pull-down (default low) for a more reliable input.
 Pull up resistors are usually a higher value than pull down resistors so using pull up saves energy. Some components (MCU and MPU) have built-in pull up resistors.
 
-Pull-up and Pull-down resistors:  
+Pull-up and Pull-down resistors:
 If you have a digital input, it can have two physical states (that may or may not be the same as the logical states, but that’s a separate issue). If the voltage is anywhere in between, undesirable things can happen. So there are two ways to get it into one of the desired states: You can wire it to the pole of a double-throw switch so that it connects directly to one voltage or the other, or you can wire it to a single-throw switch and ‘pull’ the input into the other state when the switch is open. So if you wire the switch between input and ground, so the switch pulls the input to 0 V when it’s closed, you need a “pull-up” resistor to pull the input up to 3.3 V or 5 V when the switch is open. And vice versa.
 
 [Open collector - Wikiwand](https://www.wikiwand.com/en/Open_collector)

@@ -3,6 +3,7 @@ title: Household Appliances
 description: ""
 created: 2018-07-05
 tags:
+  - aircon
   - cooler
   - household
   - physics
@@ -63,6 +64,11 @@ tags:
 
 [電暖爐/暖風機選購資訊(2020 電暖爐/暖風機比較,推介及消委會評測) - 專題報導 - 香港格價網 Price.com.hk](https://www.price.com.hk/news.php?id=12472&sec_id=11)
 
+## Installation
+
+[90 年代標準窗口式空調機安裝[粵語中文字幕] - YouTube](https://www.youtube.com/watch?v=p_9TV2upprM)
+[窗口式冷氣機安裝注意事項。昌師傅治機理正 - YouTube](https://www.youtube.com/watch?v=DAyANRhJAOw)
+
 ## Refrigerator
 
 [Refrigeration - Wikiwand](https://www.wikiwand.com/en/Refrigeration)
@@ -104,10 +110,10 @@ tags:
 [Portable Air Conditioners - Why you shouldn't like them - YouTube](https://www.youtube.com/watch?v=_-mBeYC2KGc)
 [Air conditioning - Wikiwand](https://www.wikiwand.com/en/Air_conditioning#/History)
 
-**定頻**  
+**定頻**
 總會保持固定的輸出功率，當房間達到預定溫度時，就會停止運轉。當感溫裝置測到室內溫度高於預定溫度時，冷氣機會重新啟動。由於會持續重複暫停、重新啟動兩個動作，所以室溫的變動幅度會較大，耗電量亦較高。
 
-**變頻**  
+**變頻**
 透過科技，變頻冷氣機會根據室溫變化，自動調節輸出功率。開始運作時，會以較高速的頻率運行，盡快令室溫降至預設的冷度。當室溫差距降低後，就會改為慢速運轉以維持恆溫。變頻的價格較貴，但節省電力的表現較優。
 
 | 匹數   | 製冷量         | 面積           |
@@ -118,8 +124,6 @@ tags:
 | 2 匹   | 16000-18000    | 160-200 平方尺 |
 | 2.5 匹 | 20000-24000    | 210-250 平方尺 |
 | 3 匹   | 25000-28000    | 260-300 平方尺 |
-
-[90 年代標準窗口式空調機安裝[粵語中文字幕] - YouTube](https://www.youtube.com/watch?v=p_9TV2upprM)
 
 Hitachi RA-08LF $2900@2014
 Hitachi RA-13LF $4750@2014
@@ -212,15 +216,15 @@ Ionizers creates ozone as by-product
 - 操作面板顏色 ：海洋藍/香檳金(白色機身)
 - @ 適用範圍：41 平方米 (約 441 平方尺)
 - 體積(高 x 闊 x 深)：580 x 300 x [195+(腳部：10)]毫米
-- HEPA 多功能過濾網型號：F-ZXMP55Z  
-  (建議每 10 年更換一次)  
+- HEPA 多功能過濾網型號：F-ZXMP55Z
+  (建議每 10 年更換一次)
   清潔方法：吸塵機
-- 脫臭過濾網型號：F-ZXHD55Z  
-  (建議每 10 年更換一次)  
+- 脫臭過濾網型號：F-ZXHD55Z
+  (建議每 10 年更換一次)
   清潔方法：到期更換
-- (可另選購)除甲醛 HEPA 脫臭 3 合 1 過濾網型號：F-ZXSS55Z  
-  (同時取代 HEPA 多功能過濾網及脫臭過濾網)  
-  (建議每 2 年更換一次)  
+- (可另選購)除甲醛 HEPA 脫臭 3 合 1 過濾網型號：F-ZXSS55Z
+  (同時取代 HEPA 多功能過濾網及脫臭過濾網)
+  (建議每 2 年更換一次)
   清潔方法：吸塵機
 
 [Dyson Pure Cool Link 智能空氣淨化風扇 TP04 價錢、規格及用家意見 - 香港格價網 Price.com.hk](https://www.price.com.hk/product.php?p=311423) 376ft², 0.1um HEPA filter

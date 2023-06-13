@@ -223,7 +223,7 @@ tags:
 
 ## 西周
 
-[周朝 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%91%A8%E6%9C%9D)  
+[周朝 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%91%A8%E6%9C%9D)
 [西周 - Wikiwand](https://www.wikiwand.com/zh-hant/%E8%A5%BF%E5%91%A8) 1100BC-771BC
 [周朝君主列表 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%91%A8%E6%9C%9D%E5%90%9B%E4%B8%BB%E5%88%97%E8%A1%A8)
 
@@ -374,7 +374,7 @@ tags:
 [失街亭， 馬謖是否冤枉的 ? (中 )〈蕭若元@奇情歷史〉第四講 - YouTube](https://www.youtube.com/watch?v=51tHbzCyxW0)
 [諸葛亮打仗一直失敗的原因？失街亭(下)〈蕭若元@奇情歷史〉 第五講 - YouTube](https://www.youtube.com/watch?v=C3OZKvQ5dLQ)
 
-[圖文分析 前因後果 ► 歷史上真實的博望坡之戰 - YouTube](https://www.youtube.com/watch?v=cOU44M-04OQ)  
+[圖文分析 前因後果 ► 歷史上真實的博望坡之戰 - YouTube](https://www.youtube.com/watch?v=cOU44M-04OQ)
 [赤壁之戰前夕 ► 真正的長坂坡之戰 趙雲有那麼神勇嗎? - YouTube](https://www.youtube.com/watch?v=QWLJVhs3VEE)
 火燒新野
 [正史中的赤壁之戰 ► 完整來龍去脈 諸葛亮其實是打醬油的 - YouTube](https://www.youtube.com/watch?v=TYZKRnCTHug)

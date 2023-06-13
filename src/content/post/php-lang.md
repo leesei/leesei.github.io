@@ -123,8 +123,8 @@ Zend PHP 7.3 outperforms HHVM in PHP
 
 [PHP-FPM - HTTPD - Apache Software Foundation](https://cwiki.apache.org/confluence/display/httpd/PHP-FPM)
 
-Use `cgi-fcgi` for testing your PHP FPM endpoints.  
-[inanzzz | Testing PHP-FPM without having a web server](http://www.inanzzz.com/index.php/post/653v/testing-php-fpm-without-having-a-web-server)  
+Use `cgi-fcgi` for testing your PHP FPM endpoints.
+[inanzzz | Testing PHP-FPM without having a web server](http://www.inanzzz.com/index.php/post/653v/testing-php-fpm-without-having-a-web-server)
 [Directly connect to PHP-FPM](https://easyengine.io/tutorials/php/directly-connect-php-fpm/)
 
 ## Learn

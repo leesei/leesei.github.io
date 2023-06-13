@@ -15,7 +15,7 @@ tags:
 
 [箱子裡的神，正在控制你的心理學秘術……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=IV-1v9rCuvI)
 Behaviorism
-Ivan Pavlov  
+Ivan Pavlov
 John B. Watson
 B. F. Skinner
 

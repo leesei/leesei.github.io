@@ -1,7 +1,6 @@
 ---
 title: Computer Graphics (Software)
-description: Computer Graphics on the software side, the how and whys, also on
-  how games are rendered
+description: Computer Graphics on the software side, the how and whys, also on how games are rendered
 created: 2015-08-31
 updated: 2023-03-23
 tags:
@@ -54,7 +53,7 @@ Sprite: image rendered on separate layer
 - stable frame time
 
 [Frame Rates - YouTube](https://www.youtube.com/watch?v=Rjdmi7628GM)
-[帧数与硬件的谍战：揭秘显卡掉帧陷阱！——帧数与流畅度 2【GAMKER】 - YouTube](https://www.youtube.com/watch?v=5mwMLSLcq1Q) !important game setting
+[帧数与硬件的谍战：揭秘显卡掉帧陷阱！——帧数与流畅度 2【GAMKER】 - YouTube](https://www.youtube.com/watch?v=5mwMLSLcq1Q) ❗!important game setting
 
 [超高幀數真能帶來優勢嗎？幀數超過刷新率是浪費嗎？【Gamker 攻殼】 - YouTube](https://www.youtube.com/watch?v=eUBZfpN2bG8)
 [【极客周刊】玩游戏为何要 60 帧才流畅，电影却只需 24 帧？ - YouTube](https://www.youtube.com/watch?v=--OKrYxOb6Y)

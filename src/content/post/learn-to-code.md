@@ -11,6 +11,7 @@ tags:
 
 [[learning#Google Search]]
 [[learn-to-code-kids]]
+[[writing-good-code]]
 
 [[computer-fundamentals]]
 [[compiler]]
@@ -24,6 +25,7 @@ The first part covers learning in general, call for spin-off.
 [Home - The Renegade Coder](https://therenegadecoder.com/)
 [Devhints — TL;DR for developer documentation](https://devhints.io/)
 [Hacker Noon](https://hackernoon.com/)
+[Developer Roadmaps - roadmap.sh](https://roadmap.sh/)
 
 [Programming Languages To Learn In 2020 To Boost Your Career As A Software Developer - DEV Community 👩‍💻👨‍💻](https://dev.to/zaiste/programming-languages-to-learn-in-2020-to-boost-your-career-as-a-software-developer-56ll)
 [Best GitHub learning repositories for developers](https://analyticsindiamag.com/best-github-learning-repositories-for-developers/)
@@ -49,6 +51,12 @@ Coding vs Programming is like typing vs writing.
 [Software is a superpower](https://flaviocopes.com/software-superpower/)
 [Polyglot Programming and the Benefits of Mastering Several Languages](https://www.analyticsinsight.net/polyglot-programming-and-the-benefits-of-mastering-several-languages/)
 [Programming Languages That Developers Need to Learn All the Time | by Shalitha Suranga | Jan, 2022 | Level Up Coding](https://levelup.gitconnected.com/programming-languages-that-developers-need-to-learn-all-the-time-4ba9fe363b94)
+
+[How To Learn A New Programming Language - YouTube](https://www.youtube.com/watch?v=E8cM12jRH7k)
+
+- Advent of Code
+- Chat server
+- An interpreter
 
 [How to learn a new language quickly - Je suis un dev](https://www.jesuisundev.com/en/how-to-learn-a-new-language-quickly/)
 [How To Learn a New Programming Language Fast - Better Programming - Medium](https://medium.com/better-programming/phow-to-learn-a-new-programming-language-fast-5fe269370210)
@@ -87,7 +95,7 @@ Coding vs Programming is like typing vs writing.
 [10 Sourcegraph Search Tricks for Open Source Contributors and Maintainers - DEV Community](https://dev.to/sourcegraph/10-sourcegraph-search-tricks-for-open-source-contributors-and-maintainers-44n9)
 
 [10 Free Programming Books You Should Read in 2018 - Tutorialzine](https://tutorialzine.com/2018/01/10-free-programming-books-you-should-read-in-2018)
-[Learn to Code: 13 Tips that Could Save You Years of Effort — JavaScript Scene — Medium](https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.nfmjv9vto)  
+[Learn to Code: 13 Tips that Could Save You Years of Effort — JavaScript Scene — Medium](https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.nfmjv9vto)
 [29 Behaviors That Will Make You An Unstoppable Programmer — Medium](https://medium.com/@kenmazaika/29-behaviors-that-will-make-you-an-unstoppable-programmer-8778941d80f7#.1xy2mg43s)
 [30 Things I Wish I Knew When I Started Programming - Better Programming - Medium](https://medium.com/better-programming/30-short-things-i-wish-i-knew-all-this-when-i-started-programming-b17667e3df0c)
 
@@ -129,13 +137,18 @@ No framework or library is a silver bullet. But the right choice can save you a 
 [NeetCode - YouTube](https://www.youtube.com/c/NeetCode/featured)
 [How to use Leetcode in 2020 - YouTube](https://www.youtube.com/watch?v=6jf6SK9qWBc)
 
+[Codeforces](https://codeforces.com/)
+
+[100DaysOfCode Official Website | 100DaysOfCode](https://www.100daysofcode.com/)
+
+#### Advent of Code
+
 [Advent of Code](https://adventofcode.com/)
 [Learning Rust via the Advent Of Code - Part 1 - DEV Community 👩‍💻👨‍💻](https://dev.to/brunooliveira/learning-rust-via-the-advent-of-code-part-1-23le) 2019
 [Advent of Code: Solving Your Puzzles With Python – Real Python](https://realpython.com/python-advent-of-code/)
 
-[Codeforces](https://codeforces.com/)
-
-[100DaysOfCode Official Website | 100DaysOfCode](https://www.100daysofcode.com/)
+[A Review of the Zig Programming Language (using Advent of Code 2021) :: Neil Henning](https://www.neilhenning.dev/posts/2021-aoc-zig/)
+[My Zig Experience | Prime Reacts - YouTube](https://www.youtube.com/watch?v=SBe8DgBCjTc)
 
 ### Literate Programming
 
@@ -228,6 +241,8 @@ You have to know (much) more than the code you're writing:
 
 ## Code Analysis
 
+[[cyber-security#Static Analysis/Source Code Analysis]]
+
 [Moose](http://moosetechnology.org/)
 [Humane assessment](http://humane-assessment.com/)
 
@@ -235,16 +250,10 @@ You have to know (much) more than the code you're writing:
 
 [AlDanial/cloc: cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.](https://github.com/AlDanial/cloc)
 
-[How to Analyze Code for Vulnerabilities - YouTube](https://www.youtube.com/watch?v=A8CNysN-lOM)
-[Is this okay!? How to review code for security issues - Rouan Wilsenach - NDC Security 2023 - YouTube](https://www.youtube.com/watch?v=_zERV-BIV9Q)
+### Code Complexity
 
-[Snyk Open Source Advisor | Snyk](https://snyk.io/advisor/)
-
-[ShiftLeft Inc.](https://github.com/orgs/ShiftLeftSecurity/repositories?type=source) webgoat and tarpit
-[ShiftLeftSecurity/tarpit-java](https://github.com/ShiftLeftSecurity/tarpit-java)
-[ShiftLeftSecurity/tarpit-nodejs](https://github.com/ShiftLeftSecurity/tarpit-nodejs)
-[ShiftLeftSecurity/tarpit-python](https://github.com/ShiftLeftSecurity/tarpit-python)
-[ShiftLeftSecurity/flask-webgoat](https://github.com/ShiftLeftSecurity/flask-webgoat)
+Cyclomatic Complexity
+Halstead Metrics -> Maintainability Index
 
 ## Profiling
 
@@ -258,7 +267,7 @@ You have to know (much) more than the code you're writing:
 [C++11 timing code performance | Solarian Programmer](https://solarianprogrammer.com/2012/10/14/cpp-11-timing-code-performance/)
 
 ["Performance Matters" by Emery Berger - YouTube](https://www.youtube.com/watch?v=r-TLSBdHe1A) Layout biases measurement Mytkowicz et al. (ASPLOS'09)
-Stablizer: randomizes layouts
+Stabilizer: randomizes layouts
 Causal Profiler (`coz`)
 
 ## API
@@ -277,11 +286,13 @@ Causal Profiler (`coz`)
 ## ABI
 
 [Binary-code compatibility - Wikiwand](https://www.wikiwand.com/en/Binary-code_compatibility)
-Calling convension, what register of the CPU are used
+Calling convention, what register of the CPU are used
 
 [Idiot's Guide to ABI Versioning - 250bpm](http://250bpm.com/blog:41)
 
 [20 ABI (Application Binary Interface) breaking changes every C++ developer should know](https://www.acodersjourney.com/20-abi-breaking-changes/)
+
+[do you know how "return" ACTUALLY works? (are you SURE?) - YouTube](https://www.youtube.com/watch?v=e46wHUjNDjE)
 
 ### Pointer to implementation
 
@@ -346,6 +357,7 @@ Calling convension, what register of the CPU are used
 [ThePrimeagen - YouTube](https://www.youtube.com/ThePrimeagen)
 [ThePrimeTime - YouTube](https://www.youtube.com/@ThePrimeTimeagen)
 [TechWorld with Nana - YouTube](https://www.youtube.com/@TechWorldwithNana)
+[strager - YouTube](https://www.youtube.com/@strager_) on C++ and Rust
 
 [Topic:Computer programming - Wikiversity](https://en.wikiversity.org/wiki/Topic:Computer_programming)
 [10 Useful Sites for Learning How to Code](http://www.onextrapixel.com/2013/11/14/10-useful-sites-for-learning-how-to-code/)
@@ -383,141 +395,27 @@ Mostly paid contents:
 
 [🎙New Rustacean Bonus 7: Katas—or, learning by doing](http://www.newrustacean.com/show_notes/bonus/_7/)
 
-## Writing Good Code
-
-[Clean Coder Blog](https://blog.cleancoder.com/) Uncle Bob
-[Clean Coders - YouTube](https://www.youtube.com/c/Cleancoders)
-[CodeAesthetic - YouTube](https://www.youtube.com/@CodeAesthetic)
-
-[Software Programming - YouTube](https://www.youtube.com/playlist?list=PLUxszVpqZTNShoypLQW9a4dEcffsoZT4k)
-Clean Code by Uncle bob
-
-[Goodbye, Clean Code — Overreacted](https://overreacted.io/goodbye-clean-code/)
-[How to make your code self-documenting? | CodeUtopia](http://codeutopia.net/blog/2014/12/01/how-to-make-your-code-self-documenting/)
-[What do the top 1% of software engineers do that the other 99% do not? | CodeUtopia](http://codeutopia.net/blog/2014/10/20/what-do-the-top-1-of-software-engineers-do-that-the-other-99-do-not/)
-[The Joel Test: 12 Steps to Better Code – Joel on Software](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
-[The art of writing small and plain functions](https://rainsoft.io/the-art-of-writing-small-and-plain-functions/)
-[12 essential software development principles and concepts](https://www.infoworld.com/article/3233866/application-development/12-essential-software-development-principles-and-concepts.html)
-[11 signs you’re writing great software code | InfoWorld](https://www.infoworld.com/article/3268310/application-development/11-signs-youre-writing-great-code.html)
-[Every Programmer should strive for reading these 5 books](https://www.houseofbots.com/news-detail/4630-1-every-programmer-should-strive-for-reading-these-5-books)
-[Doing Terrible Things To Your Code](https://blog.codinghorror.com/doing-terrible-things-to-your-code/)
-[articles/a_personal_generic_things_i_learned_as_a_software_developer_list.md at master · Dobiasd/articles](https://github.com/Dobiasd/articles/blob/master/a_personal_generic_things_i_learned_as_a_software_developer_list.md)
-[Common Coding Mistakes You Should Avoid - Better Programming - Medium](https://medium.com/better-programming/common-coding-mistakes-you-should-avoid-441f9e51faea)
-[The 12 Habits of Highly Effective Software Developers | by Erik van Baaren | Jul, 2021 | Better Programming](https://betterprogramming.pub/the-12-habits-of-highly-effective-software-developers-fffb15dc9b15)
-[Programming Habits You Should Adopt - Level Up Coding](https://levelup.gitconnected.com/programming-habits-you-should-adopt-8ab75419fb09)
-
-[6 ways minimalism can help you write clean code - DEV Community 👩‍💻👨‍💻](https://dev.to/paulasantamaria/6-ways-minimalism-can-help-you-write-clean-code-45kp)
-[Clean code... Why bother? - DEV Community 👩‍💻👨‍💻](https://dev.to/paulasantamaria/clean-code-why-bother-21lo)
-
-[The Secret of Simple Code. How 10x Developers Produce 10x Value | by Eric Elliott | JavaScript Scene | Medium](https://medium.com/javascript-scene/the-secret-of-simple-code-a2cacd8004dd)
-[5 Ways to Become a 10x Developer](https://agilitycms.com/resources/posts/5-ways-to-become-a-10x-developer)
-
-[Clean Architectures in Python](https://www.pycabook.com/)
-[Clean Architectures in… by Leonardo Giordani [PDF/iPad/Kindle]](https://leanpub.com/clean-architectures-in-python)
-[These four “clean code” tips will dramatically improve your engineering team’s productivity](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
-[Enterprise Programming Tricks For Clean Code - YouTube](https://www.youtube.com/watch?v=dC9vdQkU-xI)
-
-ArjanCodes
-[7 Python Code Smells: Olfactory Offenses To Avoid At All Costs - YouTube](https://www.youtube.com/watch?v=LrtnLEkOwFE)
-[More Python Code Smells: Avoid These 7 Smelly Snags - YouTube](https://www.youtube.com/watch?v=zmWf_cHyo8s)
-[Even More Code Smells - Purge These 7 Python Putrid Peccadilloes Now! - YouTube](https://www.youtube.com/watch?v=Kl3_Gmn4Ujg)
-[The Ultimate Guide to Writing Functions - YouTube](https://www.youtube.com/watch?v=yatgY4NpZXE)
-
-[Cohesion and coupling: write BETTER PYTHON CODE Part 1 - YouTube](https://www.youtube.com/watch?v=eiDyK_ofPPM)
-[Dependency inversion: write BETTER PYTHON CODE Part 2 - YouTube](https://www.youtube.com/watch?v=Kv5jhbSkqLE)
-[The strategy pattern: write BETTER PYTHON CODE Part 3 - YouTube](https://www.youtube.com/watch?v=WQ8bNdxREHU)
-
-[Replace Nested Conditional with Guard Clauses](https://refactoring.com/catalog/replaceNestedConditionalWithGuardClauses.html) early exit
-[如何重构"箭头型"代码 | | 酷 壳 - CoolShell](https://coolshell.cn/articles/17757.html)
-[API 设计原则 – Qt 官网的设计实践总结 | | 酷 壳 - CoolShell](https://coolshell.cn/articles/18024.html)
-
-[What can I learn right now in just 10 minutes that could be useful for the rest of my programming career? - Quora](http://www.quora.com/What-can-I-learn-right-now-in-just-10-minutes-that-could-be-useful-for-the-rest-of-my-programming-career)  
-Read the answers by:
-
-- Jeff Darcy
-- Glyn Williams
-- Amit Gupta
-
-[Nikolay Bachiyski: Selected pieces from “Elements of Style” translated to code | WordPress.tv](http://wordpress.tv/2012/08/25/nikolay-bachiyski-selected-pieces-from-elements-of-style-translated-to-code/)
-[The junior developer’s guide to writing super clean and readable code](https://www.freecodecamp.org/news/the-junior-developers-guide-to-writing-super-clean-and-readable-code-cd2568e08aae/)
-
-[kdeldycke/awesome-falsehood: 😱 Falsehoods Programmers Believe in](https://github.com/kdeldycke/awesome-falsehood)
-[Introduction | 97 Things Every Programmer Should Know](http://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/en/)
-[mtdvio/every-programmer-should-know: A collection of (mostly) technical things every software developer should know about](https://github.com/mtdvio/every-programmer-should-know)
-
-[Rubber duck debugging - Wikiwand](https://www.wikiwand.com/en/Rubber_duck_debugging)
-[I do not use a debugger – Daniel Lemire's blog](https://lemire.me/blog/2016/06/21/i-do-not-use-a-debugger/)
-
-[A short comment on comments in the code - DEV Community](https://dev.to/this-is-learning/a-short-comment-on-comments-in-the-code-1i54)
-
-[The Top Five Developer Skills That'll Make You a Hero (Hint: Involves LEGOs)](https://www.freecodecamp.org/news/the-hero-developer-who-knew-how-to-build-lego-bricks/amp/)
-
-[7 books you must read to be a real software developer | InfoWorld](https://www.infoworld.com/article/3269032/application-development/7-books-you-must-read-to-be-a-real-software-developer.html)
-[8 career pitfalls every software developer should avoid | InfoWorld](https://www.infoworld.com/article/3270728/it-careers/8-career-pitfalls-every-developer-should-avoid.html)
-
-[6 books every programmer should read – Stupid Gopher – Medium](https://medium.com/@boltmick1/6-books-every-programmer-should-read-4c50c2ec92c5)
-[Books for the Modern Programmer – Stupid Gopher – Medium](https://medium.com/@boltmick1/books-for-the-modern-programmer-f8b2da3432a9)
-
-Clean Code
-Pragmatic Programmer
-
-### The Tao of Programming
-
-[The Tao of Programming](https://www.mit.edu/~xela/tao.html)
-
-[Principle of least astonishment - Wikiwand](https://www.wikiwand.com/en/Principle_of_least_astonishment)
-[Error Codes And The Law Of Least Astonishment | Hackaday](https://hackaday.com/2021/12/17/error-codes-and-the-law-of-least-astonishment/)
-[Principle Of Least Astonishment](https://wiki.c2.com/?PrincipleOfLeastAstonishment)
-
-### Technical Debt
-
-[Programming Principles](https://webpro.github.io/programming-principles/)
-[行外人看不見的債務 - 技術債務 | Gap 撈 Tech](http://blog.gaplotech.com/technical-debt/)
-[WTF is technical debt? – Hacker Noon](https://hackernoon.com/wtf-is-technical-debt-b9e9d5f89d9)
-
-[Measuring Technical Debt - DevOps.com](https://devops.com/measuring-technical-debt/)
-[5 best practices to measure and manage technical debt | InfoWorld](https://www.infoworld.com/article/3309258/application-development/5-best-practices-to-measure-and-manage-technical-debt.html)
-[FGA: "legacy" is not a pejorative. Do not use it as such.](http://homepage.ntlworld.com/jonathan.deboynepollard/FGA/legacy-is-not-a-pejorative.html)
-[Bugsnag Blog - Modern approaches to managing legacy code](https://blog.bugsnag.com/modern-approach-to-legacy-code/)
-[Working Well With Legacy Code - via @codeship | via @codeship](https://blog.codeship.com/working-well-with-legacy-code/)
-[What Technical Debt Is and How to Calculate It - DZone Agile](https://dzone.com/articles/what-technical-debt-it-and-how-to-calculate-it)
-[Technical Debt – The Anti-DevOps Culture | Premier Developer](https://devblogs.microsoft.com/premier-developer/technical-debt-the-anti-devops-culture/)
-
-[We’re approaching the limits of computer power – we need new programmers now | Programming | The Guardian](https://amp.theguardian.com/commentisfree/2020/jan/11/we-are-approaching-the-limits-of-computer-power-we-need-new-programmers-n-ow)
-[Software: It's a Gas](https://blog.codinghorror.com/software-its-a-gas/)
-
-### I need no magic
-
-[Magic (programming) - Wikiwand](<https://www.wikiwand.com/en/Magic_(programming)>)
-[Where do you stand on "magic" within languages and frameworks? - DEV Community](https://dev.to/ben/where-do-you-stand-on-magic-within-languages-and-frameworks-1071)
-[Node.js is a Salad Bar — Medium](https://medium.com/@modernserf/node-js-is-a-salad-bar-74ec01bd4390#.6gi4zr9a4)
-
-> Magic is good when it's documented and you're given the ability to inspect the magical bits to find the science behind them.
-> Magic is bad when there are many layers of indirection/metaprogramming, nothing about how it works is documented, and there's no obvious way of overriding their magic with your own magic.
->
-> The way I use the term "magic" is whenever there's implicit behavior (generally based on naming rules, but sometimes on introspection/reflection, scanning, etc.) that generally cause "action at a distance"; it can probably be generalized as "too much abstractions, more than you can comprehend".
-
 ## Software Development Process
 
-- User requirement  
-  meeting with customer (by sales and presales engineer)  
+- User requirement
+  meeting with customer (by sales and presales engineer)
   determine requirements, scope of work and development, delivery flow
 - UI mock up, storyboard, proof of concepts
-- setup milestones  
-  usually the project will be too big to implement in one shot  
-  divide it into milestones and gather feedback on each  
-  usually we use features to divide milestone  
+- setup milestones
+  usually the project will be too big to implement in one shot
+  divide it into milestones and gather feedback on each
+  usually we use features to divide milestone
   also take note of the the delivery date of each milestone (see next)
-- task list and schedule  
-  divide feature into tasks  
-  assign developers to each task  
-  estimate resources (man-day) for each task  
-  resources should be fully utilized  
+- task list and schedule
+  divide feature into tasks
+  assign developers to each task
+  estimate resources (man-day) for each task
+  resources should be fully utilized
   reserve time before delivery date for integration and QA
-- sign contract  
+- sign contract
   the above planning should be included
-- intermittent releases (release candidates)  
-  these are sub-milestones within the development team  
+- intermittent releases (release candidates)
+  these are sub-milestones within the development team
   QA can test on RC for completed features and bug fixes
 - requirements update is done via feature change request
 
@@ -647,6 +545,7 @@ Used in many Go application for formatting output, e.g. `docker`, `kubectl`
 [Understand Big O notation in 7 minutes - Je suis un dev](https://www.jesuisundev.com/en/understand-big-o-notation-in-7-minutes/)
 [Algorithms for Dummies (Part 1): Big-O Notation and Sorting - Adrian Mejia’s Blog](http://adrianmejia.com/blog/2014/02/13/algorithms-for-dummies-part-1-sorting/)
 [bigoposter/bigoposter.pdf at master · ro31337/bigoposter](https://github.com/ro31337/bigoposter/blob/master/bigoposter.pdf)
+[Big O myths busted! (Time complexity is complicated) - YouTube](https://www.youtube.com/watch?v=7VHG6Y2QmtM) time vs memory trade-off; (SIMD)linear search beating binary search
 
 [P vs. NP and the Computational Complexity Zoo - YouTube](https://www.youtube.com/watch?v=YX40hbAHx3s)
 [What Computers Can't Do - with Kevin Buzzard - YouTube](https://www.youtube.com/watch?v=jQPb7DRMoZY) P vs. NP
@@ -655,12 +554,10 @@ Used in many Go application for formatting output, e.g. `docker`, `kubectl`
 
 [Halting problem - Wikiwand](https://www.wikiwand.com/en/Halting_problem)
 [Theory of computation | Halting Problem - GeeksforGeeks](https://www.geeksforgeeks.org/theory-of-computation-halting-problem/)
+[The Most Difficult Program to Compute? - Computerphile - YouTube](https://www.youtube.com/watch?v=i7sm9dzFtEI)
+[Ackermann Follow Up - Computerphile - YouTube](https://www.youtube.com/watch?v=uNACwX-O5lk)
+[Turing & The Halting Problem - Computerphile - YouTube](https://www.youtube.com/watch?v=macM_MtS_w4)
 Cause a contradiction if self-referencing
-
-### Code Complexity
-
-Cyclomatic Complexity
-Halstead Metrics -> Maintainability Index
 
 ## Architecture Design
 
@@ -696,7 +593,7 @@ Halstead Metrics -> Maintainability Index
 [Clean Coder Blog](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 [Clean Architecture, the right way - DSC VIT Vellore - Medium](https://medium.com/gdg-vit/clean-architecture-the-right-way-d83b81ecac6)
 [The Principles of Clean Architecture by Uncle Bob Martin - YouTube](https://www.youtube.com/watch?v=o_TH-Y78tt4)
-[The Clean Architecture | 8th Light](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html) !important
+[The Clean Architecture | 8th Light](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html) ❗!important
 [Applying The Clean Architecture to Go applications » The Log Book of Manuel Kiessling](http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/)
 [Clean architectures in Python: a step-by-step example - The Digital Cat](http://blog.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/)
 [Software Architecture: The 5 Patterns You Need to Know - DZone Microservices](https://dzone.com/articles/software-architecture-the-5-patterns-you-need-to-k)
@@ -919,7 +816,7 @@ Quines
 [Python AST Explorer](https://python-ast-explorer.com/)
 [Read JavaScript Source Code, Using an AST ← Alligator.io](https://alligator.io/js/traversing-ast/)
 
-## Language Server Protocol
+## Language Server Protocol/LSP
 
 [Langserver.org](https://langserver.org/)
 [Official page for Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
@@ -940,6 +837,8 @@ Protocol to abstract editor from specific language.
 [Emojicode](https://www.emojicode.org/)
 
 ## Assembly
+
+[[reverse-engineering#Binary Analysis/Malware Analysis/Reverse Engineering]]
 
 [x86 assembly language - Wikiwand](https://www.wikiwand.com/en/X86_assembly_language)
 [x86 calling conventions - Wikiwand](https://www.wikiwand.com/en/X86_calling_conventions)
@@ -1026,6 +925,9 @@ History of Programming papers:
 
 [LEVEL UP Your C Debugging Skills with THIS Technique Using GDB (its hard CORE) - YouTube](https://www.youtube.com/watch?v=3T3ZDquDDVg)
 [Pleasant debugging with GDB and DDD](https://begriffs.com/posts/2022-07-17-debugging-gdb-ddd.html)
+[Debugging Embedded Systems With GDB? - YouTube](https://www.youtube.com/watch?v=m4agpY_w2y8)
+
+[cyrus-and/gdb-dashboard: Modular visual interface for GDB in Python](https://github.com/cyrus-and/gdb-dashboard)
 
 [Finding Bugs with AddressSanitizer: MSVC Compiler | C++ Team Blog](https://devblogs.microsoft.com/cppblog/finding-bugs-with-addresssanitizer-msvc-compiler/)
 
@@ -1033,11 +935,15 @@ History of Programming papers:
 
 ### Style Guide
 
-[CppCoreGuidelines/CppCoreGuidelines.md at master · isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
-
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 [Google C++ Style Guide is No Good](https://eyakubovich.github.io/2018-11-27-google-cpp-style-guide-is-no-good/)
 [Why isn’t it good to follow Google's C++ style guide? - Quora](https://www.quora.com/Why-isn%E2%80%99t-it-good-to-follow-Googles-C++-style-guide)
+
+[Artistic Style - Index](http://astyle.sourceforge.net/) A Free, Fast, and Small Automatic Formatter for C, C++, C++/CLI, Objective‑C, C#, and Java Source Code
+[VS Code C++ 代码格式化方法(clang-format)\_c++代码格式化\_core571 的博客-CSDN 博客](https://blog.csdn.net/core571/article/details/82867932)
+[Clang-Format Style Options — Clang 17.0.0git documentation](https://clang.llvm.org/docs/ClangFormatStyleOptions.html)
+
+`clang-format -style=microsoft -dump-config > .clang-format`
 
 ### Modern C++
 
@@ -1046,13 +952,33 @@ History of Programming papers:
 [Barry Revzin](https://brevzin.github.io/)
 [Bartek's coding blog](https://www.bfilipek.com/)
 [Modernes C++](http://modernescpp.com/index.php)
+[C++ Stories](https://www.cppstories.com/)
 
 [C++11 FAQ](https://www.stroustrup.com/C++11FAQ.html)
+
+[Modern C++ (2021 Lecture & Tutorials) - YouTube](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRv7VS6fYerEbT4ckBovKur) Cyrill Stachniss
+
+[how Google writes future-proof c++ - YouTube](https://www.youtube.com/watch?v=6lU11IHfJgo)
+
+Dave's Garage
+[Learn Advanced C++ Techniques - YouTube](https://www.youtube.com/playlist?list=PLF2KJ6Gy3cZ6wvmEoUD8x7M3uwIqNbC6Z)
+
+[C/C++ - YouTube](https://www.youtube.com/playlist?list=PLJ_usHaf3fgM5vOBPY-hXAjUy6SbgE-KG) mCoding
+[unique_ptr: C++'s simplest smart pointer - YouTube](https://www.youtube.com/watch?v=AmjoK55h68Y)
+[unique_ptr is NOT just for heap allocations | custom deleters - YouTube](https://www.youtube.com/watch?v=mhCMtNWQ_CQ)
+
+[cpp-best-practices/cppbestpractices: Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.](https://github.com/cpp-best-practices/cppbestpractices)
+[C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+[isocpp/CppCoreGuidelines: The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++](https://github.com/isocpp/CppCoreGuidelines)
 
 [AnthonyCalandra/modern-cpp-features: A cheatsheet of modern C++ language and library features.](https://github.com/AnthonyCalandra/modern-cpp-features)
 [Some awesome modern C++ features that every developer should know](https://www.freecodecamp.org/news/some-awesome-modern-c-features-that-every-developer-should-know-5e3bf6f79a3c)
 [What's all the C Plus Fuss? Bjarne Stroustrup warns of dangerous future plans for his C++ • The Register](https://www.theregister.co.uk/AMP/2018/06/18/bjarne_stroustrup_c_plus_plus/)
 [C++20 Is Feature Complete; Here’s What Changes Are Coming | Hackaday](https://hackaday.com/2019/07/30/c20-is-feature-complete-heres-what-changes-are-coming/)
+[Welcome back to C++ - Modern C++ | Microsoft Learn](https://learn.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170)
+
+[现代 C++ 教程: 高速上手 C++ 11/14/17/20 - Modern C++ Tutorial: C++ 11/14/17/20 On the Fly](https://changkun.de/modern-cpp/)
+[changkun/modern-cpp-tutorial: 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/](https://github.com/changkun/modern-cpp-tutorial)
 
 [c++ - What is the difference between 'typedef' and 'using' in C++11? - Stack Overflow](https://stackoverflow.com/questions/10747810/what-is-the-difference-between-typedef-and-using-in-c11)
 [Not your Grandparent's C++ (Evolution of C++) - YouTube](https://www.youtube.com/watch?v=3gbMF1OZ3EU)
@@ -1081,10 +1007,6 @@ History of Programming papers:
 
 [abseil / Tip of the Week #153: Don't use using-directives](https://abseil.io/tips/153)
 
-[Artistic Style - Index](http://astyle.sourceforge.net/) A Free, Fast, and Small Automatic Formatter for C, C++, C++/CLI, Objective‑C, C#, and Java Source Code
-
-[cyrus-and/gdb-dashboard: Modular visual interface for GDB in Python](https://github.com/cyrus-and/gdb-dashboard)
-
 ### POD
 
 [c++ - What are Aggregates and PODs and how/why are they special? - Stack Overflow](https://stackoverflow.com/questions/4178175/what-are-aggregates-and-pods-and-how-why-are-they-special/4178176#4178176)
@@ -1099,6 +1021,12 @@ History of Programming papers:
 [google/benchmark: A microbenchmark support library](https://github.com/google/benchmark)
 
 [opcm/pcm: Processor Counter Monitor](https://github.com/opcm/pcm)
+
+[Faster than Rust and C++: the PERFECT hash table - YouTube](https://www.youtube.com/watch?v=DMQ_HcNSOAI)
+
+- Intel vTune
+- `perf record <bin>; perf report`
+- `perf stat -d <bin>` for cache misses
 
 [icl / papi — Bitbucket](https://bitbucket.org/icl/papi/src/master/)
 
@@ -1142,7 +1070,11 @@ History of Programming papers:
 [Libtask: a Coroutine Library for C and Unix](https://swtch.com/libtask/)
 
 [Flow — FoundationDB](https://apple.github.io/foundationdb/flow.html) actor-based concurrency
+
 [jhuckaby/megahash: A super-fast C++ hash table with Node.js wrapper, tested up to 1 billion keys.](https://github.com/jhuckaby/megahash)
+[gperf - GNU Project - Free Software Foundation (FSF)](https://www.gnu.org/software/gperf/)
+[serge-sans-paille/frozen: a header-only, constexpr alternative to gperf for C++14 users](https://github.com/serge-sans-paille/frozen)
+[Frozen - zero cost initialization for immutable containers and various algorithms](https://blog.quarkslab.com/frozen-zero-cost-initialization-for-immutable-containers-and-various-algorithms.html)
 
 [facebook/folly: An open-source C++ library developed and used at Facebook.](https://github.com/facebook/folly) Facebook's standard library
 [ELI5: Folly - Battle-Tested C++ Library](https://developers.facebook.com/blog/post/2021/05/24/eli5-folly-battle-tested-c-plus-plus-library/)
@@ -1243,7 +1175,7 @@ by vcpkg maintainer
 
 #### Buckaroo
 
-[Buckaroo - C/C++ Package Manager](https://buckaroo.pm/) inactive
+[Buckaroo - C/C++ Package Manager](https://buckaroo.pm/) 😴inactive
 [Buckaroo — Buckaroo documentation](https://buckaroo.readthedocs.io/en/latest/)
 [LoopPerfect/buckaroo: A C++ package manager that will take you to your happy place 🏝️](https://github.com/LoopPerfect/buckaroo)
 

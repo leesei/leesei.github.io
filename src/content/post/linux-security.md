@@ -76,7 +76,7 @@ sudo aa-enforce /etc/apparmor.d/*
 [Introduction to Linux namespaces – Part 5: NET | Yet another enthusiast blog!](https://blog.yadutaf.fr/2014/01/19/introduction-to-linux-namespaces-part-5-net/)
 [Docker for your users - Introducing user namespace | Yet another enthusiast blog!](https://blog.yadutaf.fr/2016/04/14/docker-for-your-users-introducing-user-namespace/)
 
-[A deep dive into Linux namespaces – Chord Simple](http://ifeanyi.co/posts/linux-namespaces-part-1/)  
+[A deep dive into Linux namespaces – Chord Simple](http://ifeanyi.co/posts/linux-namespaces-part-1/)
 [A deep dive into Linux namespaces, part 2 – Chord Simple](http://ifeanyi.co/posts/linux-namespaces-part-2/)
 [A deep dive into Linux namespaces, part 3 – Chord Simple](http://ifeanyi.co/posts/linux-namespaces-part-3/)
 [A deep dive into Linux namespaces, part 4 – Chord Simple](http://ifeanyi.co/posts/linux-namespaces-part-4/)

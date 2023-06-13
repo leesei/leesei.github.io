@@ -279,7 +279,7 @@ USB PD compatible device has a maximum charging power of 100W (20V, 5A).
 
 [How does USB Power Delivery work with voltages above 5V without damaging 5V peripherals? - Electrical Engineering Stack Exchange](https://electronics.stackexchange.com/questions/265832/how-does-usb-power-delivery-work-with-voltages-above-5v-without-damaging-5v-peri/265836#265836)
 
-Old spec:  
+Old spec:
 D+, D- is shorted to indicate the source is a charger
 5V/1.5A (USB-A), 5V/3A (USB-C C cable)
 [The Basics of USB Battery Charging: A Survival Guide - Tutorial - Maxim](https://www.maximintegrated.com/en/app-notes/index.mvp/id/4803)

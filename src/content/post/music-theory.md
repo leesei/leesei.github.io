@@ -10,7 +10,7 @@ tags:
 [Music theory - Wikiwand](https://www.wikiwand.com/en/Music_theory)
 [樂理 - Wikiwand](https://www.wikiwand.com/zh-hant/%E6%A8%82%E7%90%86)
 
-[musictheory.net - Lessons](http://www.musictheory.net/lessons) !important
+[musictheory.net - Lessons](http://www.musictheory.net/lessons) ❗!important
 [How Music Works : Overview : How Music Works](http://www.howmusicworks.org/)
 [Musical U: Become More Musical](https://www.musical-u.com/)
 [1. Music Theory Fundamentals -- LearnMusicTheory.net](http://learnmusictheory.net/lmtnet/fundamentals/)
@@ -499,8 +499,12 @@ black notes on piano
 
 [卡祖笛 - Wikiwand](https://www.wikiwand.com/zh-hk/%E5%8D%A1%E7%A5%96%E7%AC%9B)
 
-[♪Your Music 愉耳樂器 ♪ 卡祖笛是什麼？？｜ kazzo ｜英國 Clarke ｜ Dunlop 塑膠｜ woodman 實木 卡祖笛   實測 - YouTube](https://www.youtube.com/watch?v=-T8VX9E5ABw)
+[♪Your Music 愉耳樂器 ♪ 卡祖笛是什麼？？｜ kazzo ｜英國 Clarke ｜ Dunlop 塑膠｜ woodman 實木 卡祖笛 實測 - YouTube](https://www.youtube.com/watch?v=-T8VX9E5ABw)
 [LOL 樂器開箱|| 卡祖笛 - YouTube](https://www.youtube.com/watch?v=oaZYUc64T6Y)
+
+### Guitar
+
+[Guitar Fretboard: Master the Notes on the Neck](https://www.ubisoft.com/en-us/game/rocksmith/plus/news-updates/2Qdrcji7gE9pOhUvcBiqFC/guitar-fretboard-master-the-notes-on-the-neck)
 
 ### Ukulele
 

@@ -5,6 +5,7 @@ created: 2014-12-11
 tags:
   - app
   - shell-tool
+  - terminal-multiplexer
   - tmux
   - tmuxifier
 ---
@@ -16,6 +17,7 @@ tags:
 [tmux-plugins/tmux-sensible: basic tmux settings everyone can agree on](https://github.com/tmux-plugins/tmux-sensible)
 
 [Tmux has forever changed the way I write code. - YouTube](https://www.youtube.com/watch?v=DzNmUNvnB04) tmux + neovim
+[Tmux can do WHAT?? // Use THIS to Make Tmux AMAZING Instantly - YouTube](https://www.youtube.com/watch?v=0z6akhNyguw)
 
 [Terminal Multiplexers: Screen, Tmux - Hyperpolyglot](http://hyperpolyglot.org/multiplexers)
 [A Gentle Introduction to tmux. What is tmux? | by Alek Shnayder | HackerNoon.com | Medium](https://medium.com/hackernoon/a-gentle-introduction-to-tmux-8d784c404340)
@@ -200,7 +202,7 @@ set -g status-right '| #[fg=yellow,bright]%y-%m-%d %H:%M '
 
 ## Middle of status bar, window list
 set -g status-justify centre
-# Inactive windows in status bar
+# 😴inactive windows in status bar
 #setw -g window-status-format '#[fg=cyan,dim]#I#[fg=blue]:#[default]#W#[fg=grey,dim]#F'
 # Current or active window in status bar
 #setw -g window-status-current-format '#[bg=blue,fg=cyan,bold]#I#[bg=blue,fg=cyan]:#[fg=white]#W#[fg=dim]#F'

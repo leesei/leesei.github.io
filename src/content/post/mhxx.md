@@ -42,16 +42,16 @@ tags:
 
 [ライトボウガン最終強化 | 【MHXX】モンハンダブルクロス攻略レシピ](http://wiki.mhxg.org/data/2712.html)
 
-[【心得】MHXX 推薦輕弩（雜誌圖與磚頭書資料誤植？速射補正實驗與影片） @魔物獵人 哈啦板 - 巴哈姆特](https://forum.gamer.com.tw/C.php?bsn=5786&snA=133934) !important  
-[【心得】輕弩可一點都不輕鬆－寫給新米看的輕弩通論 @魔物獵人 哈啦板 - 巴哈姆特](https://forum.gamer.com.tw/C.php?bsn=05786&snA=130756) !important  
+[【心得】MHXX 推薦輕弩（雜誌圖與磚頭書資料誤植？速射補正實驗與影片） @魔物獵人 哈啦板 - 巴哈姆特](https://forum.gamer.com.tw/C.php?bsn=5786&snA=133934) !important
+[【心得】輕弩可一點都不輕鬆－寫給新米看的輕弩通論 @魔物獵人 哈啦板 - 巴哈姆特](https://forum.gamer.com.tw/C.php?bsn=05786&snA=130756) !important
 [【心得】久違的順風－ＭＨＸ輕弩心得 @魔物獵人 哈啦板 - 巴哈姆特](https://forum.gamer.com.tw/C.php?bsn=05786&snA=131502)
 
-[弾,リロード性能 -(MHXX)モンスターハンターダブルクロス攻略データ wiki](http://mhx-wiki.com/index.php?弾%2Cリロード性能)  
-[反動-硬直早見表](https://www61.atwiki.jp/3dsmh4g/pages/88.html#id_ed645427)  
+[弾,リロード性能 -(MHXX)モンスターハンターダブルクロス攻略データ wiki](http://mhx-wiki.com/index.php?弾%2Cリロード性能)
+[反動-硬直早見表](https://www61.atwiki.jp/3dsmh4g/pages/88.html#id_ed645427)
 [【モンハン】ボウガンの弾性能と種類。威力、調合方法、リロード、反動も書いたよ](http://bassy-mh.info/bukikihon-tama.html)
 
-彈肉質 45 以上為弱點  
-物理彈隨著發射後的飛行距離變化，其基本威力需要作距離補正(aka 1.5 倍距離)  
+彈肉質 45 以上為弱點
+物理彈隨著發射後的飛行距離變化，其基本威力需要作距離補正(aka 1.5 倍距離)
 會心不適合主打貫通彈
 
 屬性彈的使用須知與前作相同，不過因為很重要所以在這邊也快速提一遍：
@@ -75,13 +75,13 @@ tags:
 
 [アームキャノン ～ アームキャノンＸＸ | 【MHXX】モンハンダブルクロス攻略レシピ](http://wiki.mhxg.org/ida/269296.html) AC Metroid (烈光)
 
-[魔物獵人 XX 輕弩推薦及配裝詳解 | 娛樂計程車](http://www.entertainment14.net/blog/post/110942752-魔物獵人-xx-輕弩推薦及配裝詳解)  
+[魔物獵人 XX 輕弩推薦及配裝詳解 | 娛樂計程車](http://www.entertainment14.net/blog/post/110942752-魔物獵人-xx-輕弩推薦及配裝詳解)
 [メイルシュトローム ～ 流弩ガノシュトローム | 【MHXX】モンハンダブルクロス攻略レシピ](http://wiki.mhxg.org/ida/236145.html) 水龍 (水屬)
 
 [電竜弩 ～ サージ電竜砲【瞬電】 | 【MHXX】モンハンダブルクロス攻略レシピ](http://wiki.mhxg.org/ida/228414.html) 電竜砲 (雷屬, 斬裂, 貫通)
 
-[ハーイゲヴァー ～ 口裂けハーイザルヴ | 【MHXX】モンハンダブルクロス攻略レシピ](http://wiki.mhxg.org/ida/236061.html) 化け鮫 (冰屬)  
-[ブリザードカノン ～ ブリザードタビュラ | 【MHXX】モンハンダブルクロス攻略レシピ](http://wiki.mhxg.org/ida/310010.html) 氷牙竜 (冰屬)  
+[ハーイゲヴァー ～ 口裂けハーイザルヴ | 【MHXX】モンハンダブルクロス攻略レシピ](http://wiki.mhxg.org/ida/236061.html) 化け鮫 (冰屬)
+[ブリザードカノン ～ ブリザードタビュラ | 【MHXX】モンハンダブルクロス攻略レシピ](http://wiki.mhxg.org/ida/310010.html) 氷牙竜 (冰屬)
 [テイルストリング ～ テイルランチャー | 【MHXX】モンハンダブルクロス攻略レシピ](http://wiki.mhxg.org/ida/228379.html) 雪獅子 (冰屬)
 
 [極星弩グラーグ ～ 極星嘆弩グラーガロア | 【MHXX】モンハンダブルクロス攻略レシピ](http://wiki.mhxg.org/ida/236177.html) 骸龍 (龍屬, 貫通)
@@ -114,7 +114,7 @@ tags:
 - 体力+20
 - 隠密
 
-護石裝:  
+護石裝:
 https://cdn.hk01.com/media/images/828928/xlarge/6d3a25d0d249ae0b0d955058b0cfc551.jpg
 
 [【MHXX】ネセト一式時代終了？！カマキリ超えのグギグギグ装備とは…？【おすすめ装備】 – 狩り充+(プラス)](http://karizyuu.com/gugigugigu-template-mhxx/)
@@ -166,11 +166,11 @@ https://cdn.hk01.com/media/images/828928/xlarge/6d3a25d0d249ae0b0d955058b0cfc551
 鎧裂ショウグンギザミ＝Ｇ２「切り裂かれた誇り」クリア
 ```
 
-G 級二名角龍  
-X 的那 12 只二名的 1-10 任務全清，在加上 XX 追加的 G1-G5 的 5 個二名任務全清。  
+G 級二名角龍
+X 的那 12 只二名的 1-10 任務全清，在加上 XX 追加的 G1-G5 的 5 個二名任務全清。
 加上 6 只 XX 追加的二名中除了二名角龍以外的 G1-G5 的 5 個任務全清。
 
-[【Monster Hunter XX 攻略】交易窗口 100％ 解鎖、使用攻略！｜香港 01 ｜科技玩物｜](https://www.hk01.com/科技玩物/117784/-Monster-Hunter-XX攻略-交易窗口-100-解鎖-使用攻略-)  
+[【Monster Hunter XX 攻略】交易窗口 100％ 解鎖、使用攻略！｜香港 01 ｜科技玩物｜](https://www.hk01.com/科技玩物/117784/-Monster-Hunter-XX攻略-交易窗口-100-解鎖-使用攻略-)
 [【Monster Hunter XX 攻略】中文解說！貓飯食材解鎖+菜式效果一覽｜香港 01 ｜科技玩物｜](https://www.hk01.com/科技玩物/114973/-Monster-Hunter-XX攻略-中文解說-貓飯食材解鎖-菜式效果一覽)
 
 [魔物獵人 XX 道具箱擴容方法 | 娛樂計程車](http://www.entertainment14.net/blog/post/110942469-魔物獵人-xx-道具箱擴容方法)

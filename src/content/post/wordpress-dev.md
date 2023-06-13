@@ -33,7 +33,7 @@ tags:
 
 ### WP-CLI
 
-[Command line interface for WordPress | WP-CLI](http://wp-cli.org/)  
+[Command line interface for WordPress | WP-CLI](http://wp-cli.org/)
 [Toolbox of the Smart WordPress Developer: WP-CLI - Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/toolbox-of-the-smart-wordpress-developer-wp-cli--cms-24098)
 [How to Install and Use WP-CLI to Manage a WordPress Blog](https://www.hostinger.com/tutorials/wp-cli)
 [Tools – WP-CLI — WordPress.org](https://make.wordpress.org/cli/handbook/references/tools/)
@@ -50,7 +50,7 @@ tags:
 [Dashboard Widgets API « WordPress Codex](https://codex.wordpress.org/Dashboard_Widgets_API)
 [Rewrite API « WordPress Codex](https://codex.wordpress.org/Rewrite_API)
 
-### WP API (PHP) (REST)
+### WP API (REST)
 
 WordPress moved to a REST API (`/wp-json/wp/v2/`) in 2016.
 
@@ -68,6 +68,10 @@ WordPress moved to a REST API (`/wp-json/wp/v2/`) in 2016.
 [Using WordPress as a headless CMS](https://daily-dev-tips.com/posts/using-wordpress-as-a-headless-cms/)
 [Headless WordPress: Taking Posts Anywhere - WebDevStudios](https://webdevstudios.com/2019/10/22/headless-wordpress/)
 [How to Build a Custom Dashboard with WordPress APIs and React](https://www.freecodecamp.org/news/build-a-custom-dashboard-with-wordpress-apis-and-react/)
+
+Watch and Learn
+[WP REST API - YouTube](https://www.youtube.com/playlist?list=PLUBR53Dw-Ef9Bv3PCa0P-GDQ6w7o6HZtg)
+[Theming with WP REST API - YouTube](https://www.youtube.com/playlist?list=PLUBR53Dw-Ef89Q4rZJNqGfwFsUb3Nkn18)
 
 #### Calypso (admin on REST API)
 
@@ -287,15 +291,15 @@ define('FORCE_SSL_ADMIN', true)
 
 [How to prevent access to WordPress Administration Menu items | WordPress Arena](http://wparena.com/how-to/how-to-prevent-access-to-wordpress-administration-menu-items/)
 
-[Making your WordPress site More Secure by Adding HTTPS and SSL | WordPress Arena](http://wparena.com/how-to/making-your-wordpress-site-more-secure-by-adding-https-and-ssl/)  
-[How To Use SSL & HTTPS With WordPress | Elegant Themes Blog](http://www.elegantthemes.com/blog/tips-tricks/how-to-use-ssl-https-with-wordpress)  
-[Options for SSL in WordPress - Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/options-for-ssl-in-wordpress--cms-21995)  
+[Making your WordPress site More Secure by Adding HTTPS and SSL | WordPress Arena](http://wparena.com/how-to/making-your-wordpress-site-more-secure-by-adding-https-and-ssl/)
+[How To Use SSL & HTTPS With WordPress | Elegant Themes Blog](http://www.elegantthemes.com/blog/tips-tricks/how-to-use-ssl-https-with-wordpress)
+[Options for SSL in WordPress - Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/options-for-ssl-in-wordpress--cms-21995)
 [SSL and Cookies in WordPress 2.6 | Ryan Boren](http://ryan.boren.me/2008/07/14/ssl-and-cookies-in-wordpress-26/)
 
 ### Restricted Login Access
 
-[Secure WordPress with IP restricted access](https://www.sitestillup.com/how-to-lock-down-wordpress-admin-section-by-ip.html)  
-[How to Restrict IP Addresses to Login on WordPress Dashboard](http://www.wpoptimus.com/912/ban-ip-addresses-login-wordpress-dashboard/)  
+[Secure WordPress with IP restricted access](https://www.sitestillup.com/how-to-lock-down-wordpress-admin-section-by-ip.html)
+[How to Restrict IP Addresses to Login on WordPress Dashboard](http://www.wpoptimus.com/912/ban-ip-addresses-login-wordpress-dashboard/)
 [How to Limit Access by IP to Your wp-login.php file in WordPress](http://www.wpbeginner.com/wp-tutorials/how-to-limit-access-by-ip-to-your-wp-login-php-file-in-wordpress/)
 
 In `.htaccess` file of the WordPress directory:
@@ -316,10 +320,10 @@ allow from xx.xxx.xx.xxx
 
 ## Insert Sample Data
 
-[Function Reference « WordPress Codex](https://codex.wordpress.org/Function_Reference)  
-[Function Reference/wp insert category « WordPress Codex](https://codex.wordpress.org/Function_Reference/wp_insert_category)  
-[Function Reference/wp insert term « WordPress Codex](https://codex.wordpress.org/Function_Reference/wp_insert_term)  
-[Function Reference/wp insert post « WordPress Codex](https://codex.wordpress.org/Function_Reference/wp_insert_post)  
+[Function Reference « WordPress Codex](https://codex.wordpress.org/Function_Reference)
+[Function Reference/wp insert category « WordPress Codex](https://codex.wordpress.org/Function_Reference/wp_insert_category)
+[Function Reference/wp insert term « WordPress Codex](https://codex.wordpress.org/Function_Reference/wp_insert_term)
+[Function Reference/wp insert post « WordPress Codex](https://codex.wordpress.org/Function_Reference/wp_insert_post)
 [Function Reference/wp trash post « WordPress Codex](https://codex.wordpress.org/Function_Reference/wp_trash_post)
 
 `themes/exclusive/admin/install_sampl_date.php`
@@ -358,36 +362,36 @@ if(!term_exists('sample-category')) {
 
 [Plugins « WordPress Codex](http://codex.wordpress.org/Plugins)
 
-[WordPress › WordPress Plugins](https://wordpress.org/plugins/)  
-[Writing a Plugin « WordPress Codex](http://codex.wordpress.org/Writing_a_Plugin)  
-[Plugin API « WordPress Codex](http://codex.wordpress.org/Plugin_API)  
+[WordPress › WordPress Plugins](https://wordpress.org/plugins/)
+[Writing a Plugin « WordPress Codex](http://codex.wordpress.org/Writing_a_Plugin)
+[Plugin API « WordPress Codex](http://codex.wordpress.org/Plugin_API)
 [How To Improve WordPress Plugins - WP Engineer](http://wpengineer.com/353/how-to-improve-wordpress-plugins/#more-353)
 
-[The WordPress Plugin Boilerplate | A Foundation For Building High-Quality WordPress Plugins](http://wppb.io/)  
+[The WordPress Plugin Boilerplate | A Foundation For Building High-Quality WordPress Plugins](http://wppb.io/)
 [Developing Plugins With WordPress Boilerplates: Why Boilerplates Matter - Tuts+ Code Article](http://code.tutsplus.com/articles/developing-plugins-with-wordpress-boilerplates-why-boilerplates-matter--wp-29298)
 [Developing Plugins With WordPress Boilerplates: Building a Plugin - Tuts+ Code Article](http://code.tutsplus.com/articles/developing-plugins-with-wordpress-boilerplates-building-a-plugin--wp-29300)
 
-[Aesop Story Engine](http://aesopstoryengine.com/)  
-[Helpful Wordpress Plugins | Linux.org](http://www.linux.org/threads/helpful-wordpress-plugins.7765/)  
+[Aesop Story Engine](http://aesopstoryengine.com/)
+[Helpful Wordpress Plugins | Linux.org](http://www.linux.org/threads/helpful-wordpress-plugins.7765/)
 [Top 20 Useful WordPress ShortCode Plugins | Web Development Tutorials and Resources @ ScratchingInfo](http://www.scratchinginfo.net/useful-wordpress-shortcode-plugins/)
 
 ## Themes
 
-[Theme Development « WordPress Codex](https://codex.wordpress.org/Theme_Development)  
+[Theme Development « WordPress Codex](https://codex.wordpress.org/Theme_Development)
 [WordPress › Getting Started | Theme Developer Handbook | WordPress Developer Resources](https://developer.wordpress.org/themes/getting-started/)
 [A Beginners Guide to the WordPress Template Hierarchy | Learn WordPress](https://learn.wordpress.org/tutorial/a-beginners-guide-to-the-wordpress-template-hierarchy/)
 
-[Theme Customization API « WordPress Codex](http://codex.wordpress.org/Theme_Customization_API)  
-[Stepping into Templates « WordPress Codex](https://codex.wordpress.org/Stepping_Into_Templates)  
-[Template Tags « WordPress Codex](https://codex.wordpress.org/Template_Tags)  
+[Theme Customization API « WordPress Codex](http://codex.wordpress.org/Theme_Customization_API)
+[Stepping into Templates « WordPress Codex](https://codex.wordpress.org/Stepping_Into_Templates)
+[Template Tags « WordPress Codex](https://codex.wordpress.org/Template_Tags)
 [Theme Features « WordPress Codex](https://codex.wordpress.org/Theme_Features)
 
 [Writing Maintainable WordPress Themes - Tuts+ Code Tutorials](http://code.tutsplus.com/series/writing-maintainable-wordpress-themes--cms-659)
 [Freemius - The new standard in selling WordPress plugins and themes](https://freemius.com/)
 
-[Writing Maintainable WordPress Themes | Tom McFarlin](http://tommcfarlin.com/maintainable-wordpress-themes/)  
-[Separation of Concerns with WordPress Templates | Tom McFarlin](https://tommcfarlin.com/separation-of-concerns-with-wordpress-templates/)  
-[A Rule of Thumb for WordPress Partials | Tom McFarlin](https://tommcfarlin.com/wordpress-partials/)  
+[Writing Maintainable WordPress Themes | Tom McFarlin](http://tommcfarlin.com/maintainable-wordpress-themes/)
+[Separation of Concerns with WordPress Templates | Tom McFarlin](https://tommcfarlin.com/separation-of-concerns-with-wordpress-templates/)
+[A Rule of Thumb for WordPress Partials | Tom McFarlin](https://tommcfarlin.com/wordpress-partials/)
 [Adding Scripts and Styles to WordPress the Right Way With Enqueueing - WPMU DEV](http://premium.wpmudev.org/blog/adding-scripts-and-styles-wordpress-enqueueing/)
 
 [10 Checks to the Perfect WordPress theme - WP Engineer](http://wpengineer.com/236/perfect-wordpress-theme/)
@@ -408,9 +412,9 @@ Also see [Widgets](#widgets)
 
 [Deactivate WordPress Default Widgets - WP Engineer](http://wpengineer.com/1650/deactivate-wordpress-default-widgets/)
 
-[WordPress › Customizer Framework « WordPress Plugins](https://wordpress.org/plugins/customizer-framework/)  
-[WordPress › Custom Sidebars « WordPress Plugins](https://wordpress.org/plugins/custom-sidebars/)  
-[WordPress › Stag Custom Sidebars « WordPress Plugins](https://wordpress.org/plugins/stag-custom-sidebars/)  
+[WordPress › Customizer Framework « WordPress Plugins](https://wordpress.org/plugins/customizer-framework/)
+[WordPress › Custom Sidebars « WordPress Plugins](https://wordpress.org/plugins/custom-sidebars/)
+[WordPress › Stag Custom Sidebars « WordPress Plugins](https://wordpress.org/plugins/stag-custom-sidebars/)
 [WordPress › Easy Custom Sidebars « WordPress Plugins](https://wordpress.org/plugins/easy-custom-sidebars/)
 
 ### Adding Sidebar
@@ -502,32 +506,32 @@ Add to the desired location in the theme:
 
 [paulund/wordpress-theme-customizer-custom-controls](https://github.com/paulund/Wordpress-Theme-Customizer-Custom-Controls)
 
-Customizer: Theme as documentation  
-[bueltge/Documentation](https://github.com/bueltge/Documentation)  
-[The Customizer on Vimeo](https://vimeo.com/51533540)  
+Customizer: Theme as documentation
+[bueltge/Documentation](https://github.com/bueltge/Documentation)
+[The Customizer on Vimeo](https://vimeo.com/51533540)
 [WordPress Theme Customizer Custom Controls - WP Engineer](http://wpengineer.com/2527/wordpress-theme-customizer-custom-controls/#more-2527)
 
 ### Framework
 
-[Thematic, A WordPress Theme Framework | ThemeShaper](http://themeshaper.com/thematic/)  
-[Hybrid Core WordPress theme framework](http://themehybrid.com/hybrid-core)  
-[Whiteboard Framework for WordPress](http://whiteboardframework.com/)  
+[Thematic, A WordPress Theme Framework | ThemeShaper](http://themeshaper.com/thematic/)
+[Hybrid Core WordPress theme framework](http://themehybrid.com/hybrid-core)
+[Whiteboard Framework for WordPress](http://whiteboardframework.com/)
 [Roots | Modern WordPress Development](https://roots.io/)
 [Wonderflux - WordPress free, open source theme framework](http://wonderflux.com/)
 [Astra – Fast, Lightweight & Customizable Free WordPress Theme - Download Now!](https://wpastra.com/)
 
 [How Theme Frameworks Actually Work - Tuts+ Code Tutorials](http://code.tutsplus.com/series/how-theme-frameworks-actually-work--cms-713)
 
-[Theme Hybrid: A WordPress theme club](http://themehybrid.com/)  
-[Bones - The HTML5 Wordpress Starter Theme](http://themble.com/bones/)  
+[Theme Hybrid: A WordPress theme club](http://themehybrid.com/)
+[Bones - The HTML5 Wordpress Starter Theme](http://themble.com/bones/)
 [Responsive WordPress Theme WP-Forge](http://themeawesome.com/responsive-wordpress-theme/)
 
 ### ThemeShaper
 
-[The ThemeShaper WordPress Theme Tutorial: 2nd Edition | ThemeShaper](http://themeshaper.com/2012/10/22/the-themeshaper-wordpress-theme-tutorial-2nd-edition/)  
-[What Do You Really Need in a WordPress Starter Theme? | ThemeShaper](http://themeshaper.com/2012/01/17/what-do-you-really-need-in-a-wordpress-starter-theme/)  
-[Underscores.me — The Best Way To Get Started With The \_s Theme | ThemeShaper](http://themeshaper.com/2012/08/15/underscores-me-the-best-way-to-get-started-with-the-_s-theme/)  
-[Thematic, A WordPress Theme Framework | ThemeShaper](http://themeshaper.com/thematic/)  
+[The ThemeShaper WordPress Theme Tutorial: 2nd Edition | ThemeShaper](http://themeshaper.com/2012/10/22/the-themeshaper-wordpress-theme-tutorial-2nd-edition/)
+[What Do You Really Need in a WordPress Starter Theme? | ThemeShaper](http://themeshaper.com/2012/01/17/what-do-you-really-need-in-a-wordpress-starter-theme/)
+[Underscores.me — The Best Way To Get Started With The \_s Theme | ThemeShaper](http://themeshaper.com/2012/08/15/underscores-me-the-best-way-to-get-started-with-the-_s-theme/)
+[Thematic, A WordPress Theme Framework | ThemeShaper](http://themeshaper.com/thematic/)
 [Automattic/\_s](https://github.com/automattic/_s)
 
 ### The Loop
@@ -546,8 +550,8 @@ if ( have_posts() ) :
 endif;
 ```
 
-[Writing Clean, Maintainable Custom WordPress Queries | Tom McFarlin](https://tommcfarlin.com/custom-wordpress-queries/)  
-[How To Setup Custom Queries For WP_Query Pagination | Tom McFarlin](https://tommcfarlin.com/wp_query-pagination/)  
+[Writing Clean, Maintainable Custom WordPress Queries | Tom McFarlin](https://tommcfarlin.com/custom-wordpress-queries/)
+[How To Setup Custom Queries For WP_Query Pagination | Tom McFarlin](https://tommcfarlin.com/wp_query-pagination/)
 [Separation of Concerns: Queries and Helper Functions | Tom McFarlin](https://tommcfarlin.com/separation-of-concerns-with-queries-and-helper-functions/)
 
 [wp query - When should you use WP_Query vs query_posts() vs get_posts()? - WordPress Development Stack Exchange](http://wordpress.stackexchange.com/questions/1753/when-should-you-use-wp-query-vs-query-posts-vs-get-posts)
@@ -562,16 +566,16 @@ endif;
 
 ### Child Themes
 
-You can easily inherit from an existing theme and override the functions.  
-But the theme may not be child friendly (e.g.: using `get_template_directory()` instead of `get_stylesheet_directory()`, not using `get_template_part()`). And my experience is that overriding files may cause the child theme to breakdown altogether.  
+You can easily inherit from an existing theme and override the functions.
+But the theme may not be child friendly (e.g.: using `get_template_directory()` instead of `get_stylesheet_directory()`, not using `get_template_part()`). And my experience is that overriding files may cause the child theme to breakdown altogether.
 I now prefer make a copy of the desired theme, change the code directly and track the modification via git.
 
-[Child Themes « WordPress Codex](https://codex.wordpress.org/Child_Themes)  
-[How To Modify WordPress Themes The Smart Way | ThemeShaper](http://themeshaper.com/modify-wordpress-themes/)  
+[Child Themes « WordPress Codex](https://codex.wordpress.org/Child_Themes)
+[How To Modify WordPress Themes The Smart Way | ThemeShaper](http://themeshaper.com/modify-wordpress-themes/)
 [How to Create a WordPress Child Theme - WPMU DEV](http://premium.wpmudev.org/blog/how-to-create-wordpress-child-theme/)
 
-[What is a WordPress Child Theme? Pros, Cons, and More](http://www.wpbeginner.com/beginners-guide/wordpress-child-theme-pros-cons/)  
-[WordPress › Support » Overriding parent theme sub-files with a child theme. HOW?](https://wordpress.org/support/topic/overriding-parent-theme-sub-files-with-a-child-theme-how)  
+[What is a WordPress Child Theme? Pros, Cons, and More](http://www.wpbeginner.com/beginners-guide/wordpress-child-theme-pros-cons/)
+[WordPress › Support » Overriding parent theme sub-files with a child theme. HOW?](https://wordpress.org/support/topic/overriding-parent-theme-sub-files-with-a-child-theme-how)
 [WordPress › Support » Child Themes and PHP pages](https://wordpress.org/support/topic/child-themes-and-php-pages)
 
 ## Widgets
@@ -588,21 +592,21 @@ I now prefer make a copy of the desired theme, change the code directly and trac
 ## Taxonomies
 
 [The Beginner’s Guide to WordPress Taxonomies - Tuts+ Code Tutorials](http://code.tutsplus.com/series/the-beginners-guide-to-wordpress-taxonomies--cms-706)
-[The Tuts+ Guide to Template Tags - Tuts+ Code Tutorials](http://code.tutsplus.com/series/the-tuts-guide-to-template-tags--cms-805)  
+[The Tuts+ Guide to Template Tags - Tuts+ Code Tutorials](http://code.tutsplus.com/series/the-tuts-guide-to-template-tags--cms-805)
 [A Walkthrough on Conditional Tags in WordPress - Tuts+ Code Tutorials](http://code.tutsplus.com/series/a-walkthrough-on-conditional-tags-in-wordpress--cms-804)
 
 [Custom Post Type UI – WordPress plugin | WordPress.org](https://wordpress.org/plugins/custom-post-type-ui/)
 
 ## Tuts+
 
-[WordPress - Tuts+ Code Category](http://code.tutsplus.com/categories/wordpress)  
+[WordPress - Tuts+ Code Category](http://code.tutsplus.com/categories/wordpress)
 [Tools of the Smart WordPress Developer - Tuts+ Code Tutorials](http://code.tutsplus.com/series/tools-of-the-smart-wordpress-developer--cms-838)
 
-[The Complete Guide To The WordPress Settings API - Tuts+ Code Tutorials](http://code.tutsplus.com/series/the-complete-guide-to-the-wordpress-settings-api--cms-624)  
-[Making the Perfect WordPress Theme - Tuts+ Code Tutorials](http://code.tutsplus.com/series/making-the-perfect-wordpress-theme--wp-33987)  
-[Quick Tips to Boost Your WordPress Website's Speed - Tuts+ Code Tutorials](http://code.tutsplus.com/series/quick-tips-to-boost-your-wordpress-websites-speed--cms-800)  
-[A Beginner’s Guide to Using WordPress - Tuts+ Course](http://webdesign.tutsplus.com/courses/a-beginners-guide-to-using-wordpress)  
-[The Beginner's Guide to Selecting a WordPress Theme - Tuts+ Code Article](http://code.tutsplus.com/articles/the-beginners-guide-to-selecting-a-wordpress-theme--wp-35032)  
-[Trim the Bloat: Keeping WordPress Healthy - Tuts+ Code Tutorials](http://code.tutsplus.com/series/trim-the-bloat-keeping-wordpress-healthy--cms-758)  
+[The Complete Guide To The WordPress Settings API - Tuts+ Code Tutorials](http://code.tutsplus.com/series/the-complete-guide-to-the-wordpress-settings-api--cms-624)
+[Making the Perfect WordPress Theme - Tuts+ Code Tutorials](http://code.tutsplus.com/series/making-the-perfect-wordpress-theme--wp-33987)
+[Quick Tips to Boost Your WordPress Website's Speed - Tuts+ Code Tutorials](http://code.tutsplus.com/series/quick-tips-to-boost-your-wordpress-websites-speed--cms-800)
+[A Beginner’s Guide to Using WordPress - Tuts+ Course](http://webdesign.tutsplus.com/courses/a-beginners-guide-to-using-wordpress)
+[The Beginner's Guide to Selecting a WordPress Theme - Tuts+ Code Article](http://code.tutsplus.com/articles/the-beginners-guide-to-selecting-a-wordpress-theme--wp-35032)
+[Trim the Bloat: Keeping WordPress Healthy - Tuts+ Code Tutorials](http://code.tutsplus.com/series/trim-the-bloat-keeping-wordpress-healthy--cms-758)
 [Fifty Actions of WordPress - Tuts+ Code Tutorials](http://code.tutsplus.com/series/fifty-actions-of-wordpress--cms-708)
 [Understanding and Working with Data in WordPress - Tuts+ Code Tutorials](http://code.tutsplus.com/series/understanding-and-working-with-data-in-wordpress--cms-670)

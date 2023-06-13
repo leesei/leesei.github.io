@@ -68,6 +68,16 @@ tags:
 
 [[chinese-swords]]
 
+### 武術 Martial Arts
+
+[脚滑的冒险者 - YouTube](https://www.youtube.com/@Maoxianzhe1101)
+[千万不要被咏春拳贴脸 - YouTube](https://www.youtube.com/watch?v=y16XXSUFi6A)
+
+[拳谚 - 快懂百科](https://www.baike.com/wikiid/5909962512942453996?view_id=5j8wq13i7aw00)
+[分享有趣拳諺 @ 常抱柔軟心 隨緣不攀緣 :: 隨意窩 Xuite 日誌](https://blog.xuite.net/softheart0228/twblog/365363049)
+[拳諺:拳諺，是武術中的術語。概述腰入蛇行，步賽粘蛇行，表示靈活；粘，原指 -百科知識中文網](https://www.easyatm.com.tw/wiki/%E6%8B%B3%E8%AB%BA)
+[微言大義拳諺 30 條](https://www.9900.com.tw/talk/BBSShowV2.aspx?jid=7207925c5254004ff947)
+
 ## 日本
 
 月翔的戰國淺度旅行
@@ -222,7 +232,7 @@ A stone age tool that predates bow and arrow
 
 [NUSensei - YouTube](https://www.youtube.com/channel/UC4IL0laJkpzH9JHmxNqjjMg)
 
-## Stirrup
+## 馬鐙 Stirrup
 
 [Stirrup - Wikiwand](https://www.wikiwand.com/en/Stirrup)
 [鐙 - Wikiwand](https://www.wikiwand.com/zh-hant/%E9%95%AB) 古代兵器大辟谣

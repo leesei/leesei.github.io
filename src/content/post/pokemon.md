@@ -44,7 +44,7 @@ tags:
 
 ### Types
 
-[Type - Bulbapedia, the community-driven Pokémon encyclopedia](https://bulbapedia.bulbagarden.net/wiki/Type)  
+[Type - Bulbapedia, the community-driven Pokémon encyclopedia](https://bulbapedia.bulbagarden.net/wiki/Type)
 [![Types Icon](/_assets/pokemon/types_icons.png)](https://bulbapedia.bulbagarden.net/wiki/Type#Icons)
 
 STAB: Same Type Attack Bonus (1.5x)

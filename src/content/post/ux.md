@@ -2,6 +2,7 @@
 title: User Experience (UX)
 description: ""
 created: 2015-06-25
+updated: 2023-06-13
 tags:
   - ui
   - ux
@@ -23,6 +24,7 @@ tags:
 [Climbing the User Experience Ladder](https://blog.truematter.com/2019/climbing-the-ux-ladder/)
 [DesignCourse - YouTube](https://www.youtube.com/c/DesignCourse)
 [Design – Vox - YouTube](https://www.youtube.com/playlist?list=PLJ8cMiYb3G5ciSdIo4uRt26NRxmVs0TTQ) Vox
+[Juxtopposed - YouTube](https://www.youtube.com/@juxtopposed)
 
 [WordPress.com Design Handbook](https://wordpress.com/design-handbook/)
 [Google Design](https://www.google.com/design/)
@@ -112,6 +114,9 @@ Most Advanced. Yet Acceptable.
 [UX Laws 101: Jakob’s Law of familiarity - UX Collective](https://uxdesign.cc/ux-laws-101-jakobs-law-962d18f4cc26)
 
 [Psychology and UX Articles, Videos, Reports, Training Courses, and Online Seminars by NN/g](https://www.nngroup.com/topic/psychology-and-ux/)
+
+[界面设计和游戏设计中的认知负荷 – 标点符](https://www.biaodianfu.com/cognitive-load.html)
+[理解认知偏差 – 标点符](https://www.biaodianfu.com/cognitive-bias.html)
 
 ### Gestalt Principles
 
@@ -283,10 +288,6 @@ Most Advanced. Yet Acceptable.
 [material-motion/direct: Direct is a tool that helps motion designers provide clear, precise motion direction for engineers.](https://github.com/material-motion/direct)
 [material-motion/material-motion-js: Reusable gestural interactions in JavaScript. In development.](https://github.com/material-motion/material-motion-js)
 
-[renature Documentation](https://formidable.com/open-source/renature/)
-[react-animations](https://formidable.com/open-source/react-animations/)
-[Home - React Reveal](https://www.react-reveal.com/)
-
 [Building the Flipping Card Animation in Plain CSS | Fred Adams (xtrp) – Full Stack Web-Developer](https://xtrp.io/blog/2019/11/26/flipping-card-animation-css/)
 
 [25 Days of CSS Animations: Teaching Myself CSS through Motion Design. - DEV Community 👩‍💻👨‍💻](https://dev.to/acupoftee/25-days-of-css-animations-teaching-myself-css-through-motion-design-4l10)
@@ -299,6 +300,8 @@ Most Advanced. Yet Acceptable.
 [Animated Bézier Curves - Jason Davies](https://www.jasondavies.com/animated-bezier/)
 [Bézier curve - Wikiwand](http://www.wikiwand.com/en/Bézier_curve#/Constructing_B.C3.A9zier_curves)
 [深度掌握 SVG 路径 path 的贝塞尔曲线指令 « 张鑫旭-鑫空间-鑫生活](https://www.zhangxinxu.com/wordpress/2014/06/deep-understand-svg-path-bezier-curves-command/)
+
+[cubic-bezier(.17,.67,.83,.67) ✿ cubic-bezier.com](https://cubic-bezier.com/#.17,.67,.83,.67)
 
 ### Rive
 
@@ -369,6 +372,8 @@ Cross platform runtime
 [AutoAnimate - Add motion to your apps with a single line of code](https://auto-animate.formkit.com/)
 [Introducing AutoAnimate — add motion to your apps with a single line of code. - DEV Community](https://dev.to/justinschroeder/introducing-autoanimate-add-motion-to-your-apps-with-a-single-line-of-code-34bp)
 
+[Atropos - Stunning touch-friendly 3D parallax hover effects](https://atroposjs.com/) ❗!important
+
 [Barba.js](http://barbajs.org/index.html) Create badass, fluid and smooth transition between your website's pages.
 
 ## Colors
@@ -378,7 +383,7 @@ Cross platform runtime
 ## LearnUI.design
 
 [Learn UI Design - Blog](https://learnui.design/blog/)
-[Font Sizes in UI Design: The Complete Guide – Learn UI Design](https://learnui.design/blog/ultimate-guide-font-sizes-ui-design.html) !important
+[Font Sizes in UI Design: The Complete Guide – Learn UI Design](https://learnui.design/blog/ultimate-guide-font-sizes-ui-design.html) ❗!important
 [7 Rules for Creating Gorgeous UI (Part 1) – Erik D. Kennedy – Medium](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
 [7 Rules for Creating Gorgeous UI (Part 2) – Erik D. Kennedy – Medium](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96)
 [4 Rules for Intuitive UX – Learn UI Design](https://learnui.design/blog/4-rules-intuitive-ux.html)

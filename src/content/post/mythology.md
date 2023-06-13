@@ -14,7 +14,7 @@ tags:
 [Gods And Monsters - Ancient to Modern Mythology](http://www.gods-and-monsters.com/)
 [Symbols and Their Meanings - Mythology and Gods - Mythical Creatures](http://mythologian.net/)
 [食譜《山海經》的黑暗真相，隱藏在日本妖怪身上，白狐之子安倍晴明給我們留下了線索……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=-B1rMnlzKeU) 妖怪為土著/原住民?
-[【神話故事集】 - YouTube](https://www.youtube.com/playlist?list=PL4Kt3ngY0fjkLwoWk2SdhiOo0Z8TMIMJG)
+[【神話故事集】 - YouTube](https://www.youtube.com/playlist?list=PL4Kt3ngY0fjkLwoWk2SdhiOo0Z8TMIMJG) 奇幻圖書館
 
 [World Mythology - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNCG9Vq7vdvJytS-F-xGi7_)
 [Myths from Around the World - YouTube](https://www.youtube.com/playlist?list=PLJicmE8fK0EjW2AVwcSc4NvGyJJaw7bzh)
@@ -124,7 +124,10 @@ Tengu Media, 炎帝為黃河農耕民族 (仰韶, 大地灣, 老官台文化, �
 [弓手冬郎 > 详解 86 版《西游记》和原著的差异\_哔哩哔哩\_bilibili](https://space.bilibili.com/35857776/channel/seriesdetail?sid=1428032)
 [阅文，你签错作者了：《西游记》作者之谜（上）\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV11Z4y1T7jt) 不是吳承恩
 [他改变了《西游记》！可他到底是谁？：《西游记》作者之谜（下）\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1ma4y1J7nc) 可能是宦官/醫生
+
 [玄奘：真實的唐僧到底又多強悍？孫悟空真的存在嗎？一切真是的故事，從一場考古發現說起……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=neQ4OjB7Prs)
+[鳩摩羅什：現實中的牛魔王，為了傳法，不惜破戒，來到東土，真如課本所說，他只是一個翻譯家嗎？其實，是他讓佛的智慧在我們文化中扎根，我們至今保留著很多他的翻譯……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=UgiOtxBVwc8)
+[法顯：繼承八戒遺志的人，豬（朱）八戒被誤讀千年，而法顯，那年 62 歲，選擇像八戒一樣走進大漠和雪山……原來，西天取經的真相，遠不止九九八十一難……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=nqb4r4ifTmA)
 
 ## Japanese
 
@@ -132,7 +135,7 @@ Tengu Media, 炎帝為黃河農耕民族 (仰韶, 大地灣, 老官台文化, �
 [古事记（日本古代的文学作品）\_百度百科](https://baike.baidu.com/item/古事记/24170)
 [日本神话\_百度百科](https://baike.baidu.com/item/日本神话)
 
-[目前最搞笑的一期，日本神話 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=p25SV0WQWjA&t=163s)
+[目前最搞笑的一期，日本神話 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=p25SV0WQWjA)
 [【日本神妖】日本兄妹戀亂 O 始祖，黃泉女神伊邪那美！ - YouTube](https://www.youtube.com/watch?v=_mzqkBPcjeg)
 
 ## Greek
@@ -144,6 +147,7 @@ Tengu Media, 炎帝為黃河農耕民族 (仰韶, 大地灣, 老官台文化, �
 [Greek Gods and Goddesses • Facts and Information](https://greekgodsandgoddesses.net/)
 
 [27 分鐘講完十二泰坦與衆神，超越你想象的希臘神話 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=Yyzb2uvihp4)
+[千萬不要看她的眼睛，否則後果不堪想象 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=UiQCan3GSEs)
 [Roman Religion Before the Greeks - Ancient History DOCUMENTARY - YouTube](https://www.youtube.com/watch?v=U7WPREqzDmE)
 
 Greek Roman
@@ -253,7 +257,7 @@ Upon the discovery of new planets in the Solar system, a God's name was chosen t
 [為什麼龍生九子不像龍？看看龍的妻子你就明白了！人間處處都能看到他們的身影！丨竹公子 - YouTube](https://www.youtube.com/watch?v=NQQQMDrJQW8)
 
 [龍的起源大概分為三種，中國龍的原型是什麼？自然說，動物說，圖騰說，龍是什麼，龍的來源，中國龍，龍是什麼生物，龍是什麼，中國龍起源於什麼動物，龍圖騰，中國文化，最早的龍，考古的龍，龍文化，圖騰崇拜 - YouTube](https://www.youtube.com/watch?v=TC29tbMwatg)
-[【怪物志】龍是否真實存在？解密東方神龍的起源！ - YouTube](https://www.youtube.com/watch?v=fVvMA1XlYnI&t=7s)
+[【怪物志】龍是否真實存在？解密東方神龍的起源！ - YouTube](https://www.youtube.com/watch?v=fVvMA1XlYnI)
 
 [獬豸 - Wikiwand](https://www.wikiwand.com/zh-hant/%E7%8D%AC%E8%B1%B8)
 

@@ -2,7 +2,7 @@
 title: React.js
 description: The library for web and native user interfaces
 created: 2015-12-04
-updated: 2023-03-21
+updated: 2023-06-13
 tags:
   - frontend
   - javascript
@@ -24,6 +24,8 @@ tags:
 [React Course - Beginner's Tutorial for React JavaScript Library [2022] - YouTube](https://www.youtube.com/watch?v=bMknfKXIFA8) 11:55:27
 [Learn React With This One Project - YouTube](https://www.youtube.com/watch?v=Rh3tobg7hEo) 2023-04, 42:37
 [React Tutorial: Learn React JS - Free 11-Hour Course](https://scrimba.com/learn/learnreact)
+[Become a Pro React Developer - YouTube](https://www.youtube.com/playlist?list=PLNqp92_EXZBJs6rKouX5U8-tWJgTLaeKv)
+[Learn React and TypeScript - YouTube](https://www.youtube.com/playlist?list=PLNqp92_EXZBJ4CBroxVBJEpAXoz1g-naZ)
 
 [React.js: The Documentary - YouTube](https://www.youtube.com/watch?v=8pDqJVdNa44&t=3255s)
 [ReactJs Roadmap🗺 for beginners - 2021 - DEV Community](https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en) mind map
@@ -82,9 +84,12 @@ React blends view and controller more the higher up in the component hierarchy. 
 [Building a chat app with React.js and Chatkit | Scrimba.com](https://scrimba.com/g/greactchatkit)
 [Building a React-based Chat Client with Redux – ITNEXT](https://itnext.io/building-a-react-based-chat-client-with-redux-816b47cb8c74)
 
-## React Project
+## Starter Kit
 
 > DO NOT use Create React App anymore
+
+[[nextjs]]
+[[vite#Templates]]
 
 [Replace Create React App recommendation with Vite by t3dotgg · Pull Request #5487 · reactjs/react.dev](https://github.com/reactjs/react.dev/pull/5487)
 
@@ -156,6 +161,7 @@ move files around until it feels right
 [Boiling React Down to a Few Lines in jQuery - Hackflow](http://hackflow.com/blog/2015/03/08/boiling-react-down-to-few-lines-in-jquery/)
 [Is React Overrated?. Or does it actually have some merits… | by Aphinya Dechalert | matcha.fyi](https://medium.matcha.fyi/is-react-overrated-c7f8efb75e3e)
 [Really, why React? - DEV Community](https://dev.to/jfbrennan/really-why-react-5958)
+[React Is Holding Me Hostage](https://emnudge.dev/blog/react-hostage)
 
 ## React/TypeScript
 
@@ -311,7 +317,7 @@ Set `displayName` property of the function to help debugging.
 [nearform/scalable-front-end-architecture-react-example](https://github.com/nearform/scalable-front-end-architecture-react-example)
 
 [React Component Lifecycle - DZone Web Dev](https://dzone.com/articles/react-component-lifecycle)
-[React Stateless Functional Components: Nine Wins You Might Have Overlooked](https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc#.1x45gqq9l) !important
+[React Stateless Functional Components: Nine Wins You Might Have Overlooked](https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc#.1x45gqq9l) ❗!important
 [Understanding React’s Components: Stateless and Stateful](https://blog.hipolabs.com/understanding-reacts-components-stateless-and-stateful-66fa9f31de34)
 [React component patterns – Team Subchannel – Medium](https://medium.com/teamsubchannel/react-component-patterns-e7fb75be7bb0)
 [Writing Resilient Components — Overreacted](https://overreacted.io/writing-resilient-components/) mostly a pitch to hooks
@@ -367,12 +373,16 @@ Also note that `null` or `undefined` are considered uncontrolled in React. Set i
 [Component Dot Notation with TypeScript | Spencer Miskoviak](https://www.skovy.dev/blog/using-component-dot-notation-with-typescript-to-create-a-set-of-components)
 [Composing React Components with TypeScript | Pluralsight](https://www.pluralsight.com/guides/composing-react-components-with-typescript)
 
+[Converting tables to grids with React compound components - LogRocket Blog](https://blog.logrocket.com/converting-tables-to-grids-with-react-compound-components/) `<LayoutSwitch>`
+[KRRISH96/react-layout-switch-blog-example: A Compound Component Example](https://github.com/KRRISH96/react-layout-switch-blog-example/)
+[Write Compound Components | egghead.io](https://egghead.io/lessons/react-write-compound-components)
+
 [Compound Components In React — Smashing Magazine](https://www.smashingmagazine.com/2021/08/compound-components-react/)
 [Compound Components with React Context API - Noteworthy - The Journal Blog](https://blog.usejournal.com/compound-components-react-context-38da96bfb384)
 [Using the React.cloneElement() function to clone elements - LogRocket Blog](https://blog.logrocket.com/using-react-cloneelement-function/)
 [React.js — Compound Components - Dane Sirois - Medium](https://medium.com/@Dane_s/react-js-compound-components-a6e54b5c9992)
 
-[enkidevs/seapig: 🌊🐷 Utility for generalized composition of React components](https://github.com/enkidevs/seapig)
+[enkidevs/seapig: 🌊🐷 Utility for generalized composition of React components](https://github.com/enkidevs/seapig) 😴inactive
 
 ## Refs
 
@@ -466,7 +476,7 @@ Use `React.createRef()`/`React.useRef()`, not string ref or callback ref
 [Remix: The Yang to React's Yin](https://kentcdodds.com/blog/remix-the-yang-to-react-s-yin)
 [Why I Love Remix](https://kentcdodds.com/blog/why-i-love-remix)
 [I Built a Blog with RemixJS so You Don't Have To (You're Welcome)](https://blog.openreplay.com/i-built-a-blog-with-remixjs-so-you-don-t-have-to-you-re-welcome)
-[Is Remix JS the Next Framework for You? | Bits and Pieces](https://blog.bitsrc.io/is-remix-the-next-framework-you-have-to-learn-3e7dca13e9d1)
+[Is Remix JS the Next Framework for You? | Bits and Pieces](https://blog.bitsrc.io/is-remix-the-next-framework-you-have-to-learn-3e7dca13e9d1)
 [An Alternative to Next.JS? - Everything You Need to Know About RemixJS](https://blog.openreplay.com/an-alternative-to-next-js-everything-you-need-to-know-about-remixjs)
 
 [Remix Tutorial with Kent - YouTube](https://www.youtube.com/watch?v=hsIWJpuxNj0) 6 hours
@@ -485,12 +495,17 @@ Use `React.createRef()`/`React.useRef()`, not string ref or callback ref
 
 ## React Server Component
 
+[Getting Started: React Essentials | Next.js](https://nextjs.org/docs/getting-started/react-essentials#server-components)
+
 [Introducing Zero-Bundle-Size React Server Components – React Blog](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
 [React Server Components. - It’s not server-side rendering. | by Nathan Sebhastian | Bits and Pieces](https://blog.bitsrc.io/react-server-components-1ca621ac2519)
 [I Tested React Server Components And I'm Not A Fan (Yet).](https://marmelab.com/blog/2021/06/15/react-server-components.html)
 [What are React Server Components? - International Javascript Conference](https://javascript-conference.com/blog/what-are-react-server-components/)
 [React Server Components in Next.js 12 - LogRocket Blog](https://blog.logrocket.com/react-server-components-nextjs-12/)
 [React Advanced Features: Server Components | by Nivetha Krishnan | Feb, 2022 | Bits and Pieces](https://blog.bitsrc.io/react-advanced-features-server-components-9c9e44a19f79)
+
+[Did RSCs Really Turn React Into PHP? - YouTube](https://www.youtube.com/watch?v=hr_y1hIdZHs)
+PHP vs Next.js Pages vs Next.js App Router
 
 ## Server Side Rendering/Hydration
 
@@ -522,7 +537,7 @@ Present and future
 [Why React Suspense Will Be a Game Changer - React In Depth - Medium](https://medium.com/react-in-depth/why-react-suspense-will-be-a-game-changer-37b40fea71ec)
 [What the heck is this in React ? 🥁🥁(Suspense) 🥁🥁](https://itnext.io/what-the-heck-is-this-in-react-suspense-c5e641e487a)
 
-[Dan Abramov - Suspense! - ReactFest 🎡 - YouTube](https://www.youtube.com/watch?v=6g3g0Q_XVb4) !important, code splitting
+[Dan Abramov - Suspense! - ReactFest 🎡 - YouTube](https://www.youtube.com/watch?v=6g3g0Q_XVb4) ❗!important, code splitting
 [Dan Abramov: Beyond React 16 | JSConf Iceland 2018 - YouTube](https://www.youtube.com/watch?v=nLF0n9SACd4)
 [Moving To React Suspense - Jared Palmer - React Conf 2018 - YouTube](https://www.youtube.com/watch?v=SCQgE4mTnjU)
 [Andrew Clark: React Suspense - YouTube](https://www.youtube.com/watch?v=z-6JC0_cOns)
@@ -551,7 +566,7 @@ This function also be archived by Hooks as of now.
 
 new API to replace life cycle API, co-locate effect/logic and state to a reusable function
 
-[Introducing Hooks – React](https://reactjs.org/docs/hooks-intro.html) !important
+[Introducing Hooks – React](https://reactjs.org/docs/hooks-intro.html) ❗!important
 [Rules of Hooks – React](https://reactjs.org/docs/hooks-rules.html)
 [Hooks at a Glance – React](https://reactjs.org/docs/hooks-overview.html)
 [Hooks FAQ – React](https://reactjs.org/docs/hooks-faq.html)
@@ -620,7 +635,7 @@ Alternatives API design:
 
 ### Internals
 
-[Under the hood of React’s hooks system – The Guild – Medium](https://medium.com/the-guild/under-the-hood-of-reacts-hooks-system-eb59638c9dba) !important
+[Under the hood of React’s hooks system – The Guild – Medium](https://medium.com/the-guild/under-the-hood-of-reacts-hooks-system-eb59638c9dba) ❗!important
 [React hooks: not magic, just arrays – Rudi Yardley – Medium](https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e)
 [React Hooks in depth - JavaScript in Plain English - Medium](https://medium.com/javascript-in-plain-english/react-hooks-3461b10907fa)
 [Getting Closure on React Hooks](https://www.swyx.io/hooks/)
@@ -770,13 +785,13 @@ const BookEntryList = (props) => {
 [streamich/react-use: React Hooks — 👍](https://github.com/streamich/react-use)
 [pmndrs/its-fine: 🐶🔥 A collection of escape hatches for React.](https://github.com/pmndrs/its-fine)
 
-[craig1123/react-recipes: 👩‍🍳 A list of React Hooks utility library containing popular customized hooks](https://github.com/craig1123/react-recipes) inactive
-[kripod/react-hooks: Essential set of React Hooks for convenient Web API consumption and state management.](https://github.com/kripod/react-hooks) inactive
-[rehooks/awesome-react-hooks: Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks) inactive
-[beizhedenglong/react-hooks-lib: A set of reusable React Hooks.](https://github.com/beizhedenglong/react-hooks-lib) inactive
-[Hooks.guide](https://hooks-guide.netlify.app/) inactive
+[craig1123/react-recipes: 👩‍🍳 A list of React Hooks utility library containing popular customized hooks](https://github.com/craig1123/react-recipes) 😴inactive
+[kripod/react-hooks: Essential set of React Hooks for convenient Web API consumption and state management.](https://github.com/kripod/react-hooks) 😴inactive
+[rehooks/awesome-react-hooks: Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks) 😴inactive
+[beizhedenglong/react-hooks-lib: A set of reusable React Hooks.](https://github.com/beizhedenglong/react-hooks-lib) 😴inactive
+[Hooks.guide](https://hooks-guide.netlify.app/) 😴inactive
 
-[React Hooks: Recipes - codeburst](https://codeburst.io/react-hooks-recipes-1c18e5984abe) !important
+[React Hooks: Recipes - codeburst](https://codeburst.io/react-hooks-recipes-1c18e5984abe) ❗!important
 [11 Useful Custom React Hooks for Your Next Web App - Bits and Pieces](https://blog.bitsrc.io/11-useful-custom-react-hooks-for-your-next-app-c66307cf0f0c)
 [5 top React Hooks libraries compared - LogRocket Blog](https://blog.logrocket.com/5-top-react-hooks-libraries-compared/)
 [How to execute a function only after the user stops typing? - DEV](https://dev.to/przemwo/how-to-execute-a-function-only-after-the-user-stops-typing-beh) `useEffect()` for debouncing
@@ -870,7 +885,7 @@ const BookEntryList = (props) => {
 
 [React Query and Management of Server State - Rootstrap](https://www.rootstrap.com/blog/react-query-and-management-of-server-state/)
 [How and Why You Should Use React Query | by Nathan Sebhastian | Jul, 2020 | Bits and Pieces](https://blog.bitsrc.io/how-to-start-using-react-query-4869e3d5680d)
-[Practical React Query | TkDodo's blog](https://tkdodo.eu/blog/practical-react-query) series, !important
+[Practical React Query | TkDodo's blog](https://tkdodo.eu/blog/practical-react-query) series, ❗!important
 [Mastering data fetching with React Query and Next.js](https://prateeksurana.me/blog/mastering-data-fetching-with-react-query-and-next-js/)
 [Using Suspense with react-query - LogRocket Blog](https://blog.logrocket.com/using-suspense-with-react-query/)
 [React Query and Axios example with Rest API - BezKoder](https://www.bezkoder.com/react-query-axios/)
@@ -893,7 +908,7 @@ We noticed you're in Vietnam. Get 70% off the Official React Query Course with c
 
 #### SWR
 
-[SWR – SWR](https://swr.vercel.app/) !important, stale-while-revalidate
+[SWR – SWR](https://swr.vercel.app/) ❗!important, stale-while-revalidate
 [RFC 5861 - HTTP Cache-Control Extensions for Stale Content](https://tools.ietf.org/html/rfc5861)
 [vercel/swr: React Hooks library for remote data fetching](https://github.com/vercel/swr)
 
@@ -997,6 +1012,10 @@ ESDoc requires `class` syntax.
 [React Guide to Props - Part III - DZone Web Dev](https://dzone.com/articles/react-guide-to-props-part-iii)
 [State Management in React Apps - Part I - DZone Web Dev](https://dzone.com/articles/state-management-in-react-apps-part-i)
 
+[React best practices and patterns to reduce code - DEV Community](https://dev.to/devsmitra/react-best-practices-and-patterns-to-reduce-code-2bff)
+[React best practices and patterns to reduce code - Part 2 - DEV Community](https://dev.to/devsmitra/react-best-practices-and-patterns-to-reduce-code-part-2-54f3)
+[React best practices and patterns to reduce code - Part 3 - DEV Community](https://dev.to/devsmitra/react-best-practices-and-patterns-to-reduce-code-part-3-4bh1)
+
 [How To Write Better Code in React – Bits and Pieces](https://blog.bitsrc.io/how-to-write-better-code-in-react-best-practices-b8ca87d462b0)
 
 [React.js Best Practices for 2016 | @RisingStack](https://blog.risingstack.com/react-js-best-practices-for-2016/)
@@ -1008,7 +1027,19 @@ ESDoc requires `class` syntax.
 [Implementing Infinite Scroll Into a React Component ← Alligator.io](https://alligator.io/react/react-infinite-scroll/)
 [How to implement shouldComponentUpdate with this.context? · Issue #2517 · facebook/react](https://github.com/facebook/react/issues/2517)
 
-### #perfmatters
+### Conditional Rendering
+
+[Conditional Rendering – React](https://reactjs.org/docs/conditional-rendering.html)
+[8 React conditional rendering methods – LogRocket](https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e)
+[Conditional Rendering in React and JSX, the solution](https://medium.com/@BrodaNoel/conditional-rendering-in-react-and-jsx-the-solution-7c80beba1e36)
+
+```js
+const Conditional = (props) => {
+  return !!props.if && props.children;
+};
+```
+
+## #perfmatters
 
 [PureComponent – React](https://reactjs.org/docs/react-api.html#reactpurecomponent)
 [Optimizing Performance – React](https://reactjs.org/docs/optimizing-performance.html)
@@ -1039,7 +1070,7 @@ ESDoc requires `class` syntax.
 [setState(), shouldComponentUpdate(), And render() Timing In ReactJS](https://www.bennadel.com/blog/2905-setstate-shouldcomponentupdate-and-render-timing-in-reactjs.htm)
 [shouldComponentUpdate() Will Short-Circuit An Entire Subtree Of Components In ReactJS](https://www.bennadel.com/blog/2904-shouldcomponentupdate-will-short-circuit-an-entire-subtree-of-components-in-reactjs.htm)
 
-#### Why re-render
+### Why re-render
 
 [welldone-software/why-did-you-render: why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)](https://github.com/welldone-software/why-did-you-render)
 [Why Did You Render Mr. Big Pure React Component? | by Vitali Zaidman | Welldone Software | Medium](https://medium.com/welldone-software/why-did-you-render-mr-big-pure-react-component-2a36dd86996f)
@@ -1047,7 +1078,7 @@ ESDoc requires `class` syntax.
 [Track Redundant React Hooks Re-Renders With “Why Did You Render” Version 3 | by Vitali Zaidman | Welldone Software | Medium](https://medium.com/welldone-software/track-redundant-re-renders-that-caused-by-hooks-with-why-did-you-render-version-3-504468deb653)
 [next.js/examples/with-why-did-you-render at main · vercel/next.js](https://github.com/vercel/next.js/tree/main/examples/with-why-did-you-render)
 
-#### Hook perf
+### Hook perf
 
 [Improve React App Performance Through Memoization – Bits and Pieces](https://blog.bitsrc.io/improve-react-app-performance-through-memoization-cd651f561f66)
 [React Hooks: Optimizing for performance - ITNEXT](https://itnext.io/optimizing-react-code-with-hooks-3eaaf5978351)
@@ -1103,66 +1134,19 @@ function App({ text }) {
 }
 ```
 
-### PropTypes
+### Replacing VDOM
 
-> use TypeScript if you really need PropTypes
+[Million.js](https://million.dev/)
+[aidenybai/million: The Virtual DOM Replacement for React](https://github.com/aidenybai/million)
 
-Specifying `PropTypes` allows for a clearer contract of your component and React will validate them in dev mode. You should put _all_ props you accessed in `PropTypes` (enforced by [feross/eslint-config-standard-react](https://github.com/feross/eslint-config-standard-react))
-
-`PropTypes` is now a optional dependency.
-For type checking use `interface` and TypeScript.
-
-### Using `class`
-
-Syntax for defining React Component:
-[React on ES6+ · Babel](http://babeljs.io/blog/2015/06/07/react-on-es6-plus/)
-[What React component class syntax should I use? - React Kung Fu](http://reactkungfu.com/2015/07/what-react-component-class-syntax-should-i-use/)
-
-- ES5 `React.createClass()`
-- ES6 `extends React.Component` with `constructor()`, `Class.defaultProps` and `.bind(this)`
-- ES6 `extends React.Component` with class properties
-  It is explained [here](http://reactkungfu.com/2015/07/why-and-how-to-bind-methods-in-your-react-component-classes/) (with reference to JS's function calling and ES6 syntax)
-  [How to Use Classes and Sleep at Night — Medium](https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4#.cln2rrt6t) Your component should only extends from `Component`; use composition.
-
-### Conditional Rendering
-
-[Conditional Rendering – React](https://reactjs.org/docs/conditional-rendering.html)
-[8 React conditional rendering methods – LogRocket](https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e)
-[Conditional Rendering in React and JSX, the solution](https://medium.com/@BrodaNoel/conditional-rendering-in-react-and-jsx-the-solution-7c80beba1e36)
-
-```js
-const Conditional = (props) => {
-  return !!props.if && props.children;
-};
-```
+[High-school student makes React a million times faster - YouTube](https://www.youtube.com/watch?v=VkezQMb1DHw)
 
 ## Non-UI Components
 
-[Draggin' and Droppin' in React | CSS-Tricks](https://css-tricks.com/draggin-and-droppin-in-react/)
-[Mastering Drag & Drop with ReactJS - Datorama Engineering](https://engineering.datorama.com/mastering-drag-drop-with-reactjs-part-01-39bed3d40a03)
-[Build a Drag and Drop layout builder with React and ImmutableJS](https://medium.com/javascript-in-plain-english/build-a-drag-and-drop-dnd-layout-builder-with-react-and-immutablejs-78a0797259a6) TypeScript, raw HTML events
-[How To Use The HTML Drag-And-Drop API In React — Smashing Magazine](https://www.smashingmagazine.com/2020/02/html-drag-drop-api-react/)
-
 [pmndrs/use-gesture: 👇Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.](https://github.com/pmndrs/use-gesture) multi-frameworks
-
-[dnd kit – a modern drag and drop toolkit for React](https://dndkit.com/)
-
-[atlassian/react-beautiful-dnd: Beautiful and accessible drag and drop for lists with React](https://github.com/atlassian/react-beautiful-dnd) not actively maintained
-[react-beautiful-dnd ⋅ Storybook](https://react-beautiful-dnd.netlify.app/)
-
-[gaearon/react-dnd: Drag and Drop for React](https://github.com/gaearon/react-dnd)
-[React DnD Intro for the Redux developer – Medium](https://medium.com/@adamrackis/react-dnd-intro-for-the-redux-developer-d447c2c1577b#.2h4h2niwb)
-[Scrabblr — A React game with react-dnd and react-flip-move](https://hackernoon.com/scrabblr-a-react-game-with-react-dnd-and-react-flip-move-40cfaac786e2)
-
-[atlassian/react-beautiful-dnd: Beautiful and accessible drag and drop for lists with React](https://github.com/atlassian/react-beautiful-dnd)
-[Beautiful and Accessible Drag and Drop with react-beautiful-dnd from @alexandereardon on @eggheadio](https://egghead.io/courses/beautiful-and-accessible-drag-and-drop-with-react-beautiful-dnd)
 
 [nfl/react-helmet: A document head manager for React](https://github.com/nfl/react-helmet) allows for SSR
 [It's All In the Head: Managing the Document Head of a React Powered Site With React Helmet | CSS-Tricks](https://css-tricks.com/its-all-in-the-head-managing-the-document-head-of-a-react-powered-site-with-react-helmet/)
-
-[Converting tables to grids with React compound components - LogRocket Blog](https://blog.logrocket.com/converting-tables-to-grids-with-react-compound-components/) `<LayoutSwitch>`
-[KRRISH96/react-layout-switch-blog-example: A Compound Component Example](https://github.com/KRRISH96/react-layout-switch-blog-example/)
-[Write Compound Components | egghead.io](https://egghead.io/lessons/react-write-compound-components)
 
 [Using "window" the React Way with react-fns ← Alligator.io](https://alligator.io/react/declarative-html5-apis-react-fns/)
 [gaearon/react-document-title: Declarative, nested, stateful, isomorphic document.title for React](https://github.com/gaearon/react-document-title)
@@ -1173,6 +1157,7 @@ const Conditional = (props) => {
 ### Animation
 
 [React Animation Libraries for 2020 - Bits and Pieces](https://blog.bitsrc.io/react-animation-libraries-for-2020-437a21c73fed)
+[Best Animation Libraries For React🎉 - DEV Community](https://dev.to/arafat4693/best-animation-libraries-for-react-156n)
 [5 Ways to animate a React app in 2019. - Dmitry Nozhenko - Medium](https://medium.com/@dmitrynozhenko/5-ways-to-animate-a-reactjs-app-in-2019-56eb9af6e3bf)
 [15 个有用的 React 动画库，马上让你的项目变得高大上-技术圈](https://jishuin.proginn.com/p/763bfbd544da)
 
@@ -1181,6 +1166,10 @@ const Conditional = (props) => {
 [Production-Ready Animation Library for React | Framer Motion](https://www.framer.com/motion/)
 [How to Use Framer Motion to Add Animations and Page Transitions to a Next.js React App - YouTube](https://www.youtube.com/watch?v=q9tpBtvTTz8)
 
+[react-spring](https://react-spring.io/) hook for animation
+[pmndrs/react-spring: ✌️ A spring physics based React animation library](https://github.com/pmndrs/react-spring)
+[stipsan/react-spring-bottom-sheet: Accessible ♿️, Delightful ✨, & Fast 🚀](https://github.com/stipsan/react-spring-bottom-sheet)
+[Hooks in react-spring, a tutorial – Paul Henschel – Medium](https://medium.com/@drcmda/hooks-in-react-spring-a-tutorial-c6c436ad7ee4)
 [React hover animation effect with React Spring](https://www.joshwcomeau.com/react/boop/)
 
 [Pose | A truly simple animation library for React, React Native, and Vue](https://popmotion.io/pose/)
@@ -1199,14 +1188,39 @@ const Conditional = (props) => {
 [brunnolou/react-morph: Morphing Ui transitions made simple](https://github.com/brunnolou/react-morph)
 [Morphing UI Transitions with React Morph | DigitalOcean](https://www.digitalocean.com/community/tutorials/react-react-morph)
 
-[react-spring](https://react-spring.io/) hook for animation
-[pmndrs/react-spring: ✌️ A spring physics based React animation library](https://github.com/pmndrs/react-spring)
-[stipsan/react-spring-bottom-sheet: Accessible ♿️, Delightful ✨, & Fast 🚀](https://github.com/stipsan/react-spring-bottom-sheet)
-[Hooks in react-spring, a tutorial – Paul Henschel – Medium](https://medium.com/@drcmda/hooks-in-react-spring-a-tutorial-c6c436ad7ee4)
-
 [React-Stonecutter](https://dantrain.github.io/react-stonecutter/)
+[dantrain/react-stonecutter: Animated grid layout component for React](https://github.com/dantrain/react-stonecutter) masonry layout
 
 [React Awesome Reveal](https://react-awesome-reveal.morello.dev/)
+[morellodev/react-awesome-reveal: React components to add reveal animations using the Intersection Observer API and CSS Animations.](https://github.com/morellodev/react-awesome-reveal)
+
+[Home - React Reveal](https://www.react-reveal.com/)
+[rnosov/react-reveal: Easily add reveal on scroll animations to your React app](https://github.com/rnosov/react-reveal) 😴inactive
+
+[renature Documentation](https://formidable.com/open-source/renature/) archived
+[FormidableLabs/renature: A physics-based animation library for React focused on modeling natural world forces.](https://github.com/FormidableLabs/renature)
+
+#### Drag and Drop
+
+[Draggin' and Droppin' in React | CSS-Tricks](https://css-tricks.com/draggin-and-droppin-in-react/)
+[Mastering Drag & Drop with ReactJS - Datorama Engineering](https://engineering.datorama.com/mastering-drag-drop-with-reactjs-part-01-39bed3d40a03)
+[Build a Drag and Drop layout builder with React and ImmutableJS](https://medium.com/javascript-in-plain-english/build-a-drag-and-drop-dnd-layout-builder-with-react-and-immutablejs-78a0797259a6) TypeScript, raw HTML events
+[How To Use The HTML Drag-And-Drop API In React — Smashing Magazine](https://www.smashingmagazine.com/2020/02/html-drag-drop-api-react/)
+
+[dnd kit – a modern drag and drop toolkit for React](https://dndkit.com/)
+[clauderic/dnd-kit: The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.](https://github.com/clauderic/dnd-kit)
+
+[react-dropzone](https://react-dropzone.js.org/)
+[react-dropzone/react-dropzone: Simple HTML5 drag-drop zone with React.js.](https://github.com/react-dropzone/react-dropzone)
+
+[atlassian/react-beautiful-dnd: Beautiful and accessible drag and drop for lists with React](https://github.com/atlassian/react-beautiful-dnd) 😴inactive
+[react-beautiful-dnd ⋅ Storybook](https://react-beautiful-dnd.netlify.app/)
+[Beautiful and Accessible Drag and Drop with react-beautiful-dnd from @alexandereardon on @eggheadio](https://egghead.io/courses/beautiful-and-accessible-drag-and-drop-with-react-beautiful-dnd)
+
+[react-dnd/react-dnd: Drag and Drop for React](https://github.com/react-dnd/react-dnd)
+[React DnD](https://react-dnd.github.io/react-dnd/about)
+[React DnD Intro for the Redux developer – Medium](https://medium.com/@adamrackis/react-dnd-intro-for-the-redux-developer-d447c2c1577b#.2h4h2niwb)
+[Scrabblr — A React game with react-dnd and react-flip-move](https://hackernoon.com/scrabblr-a-react-game-with-react-dnd-and-react-flip-move-40cfaac786e2)
 
 #### Typing
 
@@ -1221,6 +1235,10 @@ const Conditional = (props) => {
 [How to stop your spinner from jumping in React - DEV Community 👩‍💻👨‍💻](https://dev.to/selbekk/how-to-stop-your-spinner-from-jumping-in-react-5cmp)
 
 ## UI frameworks
+
+> 👎component based frameworks (difficult to customize)
+> writing custom components and styling with atomic CSS is easy enough nowadays
+> or use [[#Headless UI]]
 
 [Design Systems for React Developers | @RisingStack](https://blog.risingstack.com/design-systems-react/)
 [The Most Popular React UI Component Libraries in 2022 - SitePoint](https://www.sitepoint.com/popular-react-ui-component-libraries/)
@@ -1237,10 +1255,12 @@ const Conditional = (props) => {
 [react-md](https://react-md.mlaursen.com/)
 [kufu/smarthr-ui: React components for creating SmartHR applications.](https://github.com/kufu/smarthr-ui) accessibility a11y
 
+[Framework7 - Full Featured Framework For Building iOS, Android & Desktop Apps](https://framework7.io/)
+
 [Tremor – The React library to build dashboards fast](https://www.tremor.so/)
 [Build a React dashboard with Tremor - LogRocket Blog](https://blog.logrocket.com/build-react-dashboard-tremor/)
 
-[React Bootstrap](http://react-bootstrap.github.io/)
+[React Bootstrap](http://react-bootstrap.github.io/) 👎
 [React Bootstrap with Material Design - Powerful and free UI KIT - Material Design for Bootstrap](https://mdbootstrap.com/docs/react)
 [reactstrap - React Bootstrap 4 components](https://reactstrap.github.io/)
 
@@ -1268,7 +1288,7 @@ const Conditional = (props) => {
 
 [PatternFly 4](https://www.patternfly.org/)
 
-[Grommet v2](https://v2.grommet.io/) Styled components for Reactjs
+[Grommet v2](https://v2.grommet.io/) 👎Styled components for Reactjs
 [Belle - Configurable React Components with great UX](http://nikgraf.github.io/belle/)
 
 [Anypoint Components](http://ux.mulesoft.com/#/)
@@ -1396,6 +1416,7 @@ tooltip:
 [Welcome | React Tooltip](https://react-tooltip.com/)
 [ReactTooltip/react-tooltip: React Tooltip Component](https://github.com/ReactTooltip/react-tooltip)
 [https://react-bootstrap.github.io/react-overlays/](https://react-bootstrap.github.io/react-overlays/)
+[tvkhoa/react-tippy: A lightweight tooltip for React. Based on tippy.js and powered by Popper.js](https://github.com/tvkhoa/react-tippy) 😴inactive
 
 image loader:
 [glslio/diaporama-react](https://github.com/glslio/diaporama-react) [gre/diaporama](https://github.com/gre/diaporama) [Diaporama: Examples](http://greweb.me/diaporama/) image/video/content slideshow engine
@@ -1479,13 +1500,16 @@ Table/Date Grid:
 [React-carousel](https://brainhubeu.github.io/react-carousel/) powerful transition and customization
 [brainhubeu/react-carousel: A pure extendable React carousel, powered by Brainhub (craftsmen who ❤️ JS)](https://github.com/brainhubeu/react-carousel)
 
+[Swiper - The Most Modern Mobile Touch Slider](https://swiperjs.com/)
+[nolimits4web/swiper: Most modern mobile touch slider with hardware accelerated transitions](https://github.com/nolimits4web/swiper)
+
 [React Slider Carousel Component - react-awesome-slider](https://caferati.me/demo/react-awesome-slider) powerful transition and customization
 [rcaferati/react-awesome-slider: React content transition slider. Awesome Slider is a 60fps, light weight, performant component that renders an animated set of production ready UI general purpose sliders. 🖥️ 📱](https://github.com/rcaferati/react-awesome-slider)
 
 [Swiper React Components](https://swiperjs.com/react)
 [How to build a carousel image slider with Swiper.JS. - YouTube](https://www.youtube.com/watch?v=EJsmCDol9iA)
 
-[React Slick Documentation](https://react-slick.neostack.com/)  
+[React Slick Documentation](https://react-slick.neostack.com/)
 [slick - the last carousel you'll ever need](http://kenwheeler.github.io/slick/)
 
 [Tiny Slider 2 | tiny-slider](http://ganlanyuan.github.io/tiny-slider/)
@@ -1593,7 +1617,7 @@ Table/Date Grid:
 [formsy/formsy-react: A form input builder and validator for React JS](https://github.com/formsy/formsy-react)
 [twisty/formsy-react-components: Bootstrap components for a formsy-react form.](https://github.com/twisty/formsy-react-components)
 
-#### Inactive
+#### 😴inactive
 
 [Final Form](https://final-form.org/)
 [final-form/final-form: 🏁 Framework agnostic, high performance, subscription-based form state management](https://github.com/final-form/final-form)
@@ -1869,7 +1893,7 @@ Enzyme is created by Airbnb, provide additional testing utilities to interact wi
 [Jest | Painless JavaScript Unit Testing](https://facebook.github.io/jest/) by Facebook on top of [Jasmine](http://jasmine.github.io/edge/introduction.html)
 [Jest Preview | Jest Preview](https://www.jest-preview.com/)
 
-[Testing your apps like a boss with React.js and Jest - DEV Community 👩‍💻👨‍💻](https://dev.to/softchris/testing-your-apps-like-a-boss-with-react-js-and-jest-1hkh) !important
+[Testing your apps like a boss with React.js and Jest - DEV Community 👩‍💻👨‍💻](https://dev.to/softchris/testing-your-apps-like-a-boss-with-react-js-and-jest-1hkh) ❗!important
 [Rogelio Guzman - Jest Snapshots and Beyond - React Conf 2017 - YouTube](https://www.youtube.com/watch?v=HAuXJVI_bUs) comparing snapshots of rendered UI
 [Test React Components with Enzyme and Jest from @iamtylerwclark on @eggheadio](https://egghead.io/courses/test-react-components-with-enzyme-and-jest)
 [Testing React with Jest and Enzyme I - CodeClan - Medium](https://medium.com/codeclan/testing-react-with-jest-and-enzyme-20505fec4675)
@@ -1877,6 +1901,7 @@ Enzyme is created by Airbnb, provide additional testing utilities to interact wi
 [Testing in React with Jest and Enzyme: An Introduction](https://medium.com/@rossbulat/testing-in-react-with-jest-and-enzyme-an-introduction-99ce047dfcf8)
 [Test Driven Development in React with Jest and Enzyme](https://medium.com/@rossbulat/test-driven-development-in-react-with-jest-and-enzyme-2a6cf2cc3071)
 [Start Testing Your JavaScript Code with Jest - DEV Community](https://dev.to/ohdylan/start-testing-your-javascript-codes-with-jest-2gfm)
+[Unit Test React Applications With Jest and Enzyme | by Mineki Okada | Better Programming](https://betterprogramming.pub/unit-test-react-applications-with-jest-and-enzyme-7c076c2abfb0)
 
 [Jest testing without the noise - DEV Community](https://dev.to/pffigueiredo/jest-testing-without-the-noise-2n8g)
 

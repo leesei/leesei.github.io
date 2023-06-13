@@ -169,6 +169,8 @@ ssh -t SERVER "sudo COMMAND"
 `-N` disable execution of remote command
 `-T` disable pseudo-terminal allocation
 
+[Hacking Out of a Network - Computerphile - YouTube](https://www.youtube.com/watch?v=h7IeCPhTBxs)
+
 Note: domain resolution is done AFTER SSH (on the SSH server).
 
 **Local port forwarding**

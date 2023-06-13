@@ -43,6 +43,17 @@ Computerphile
 [GeekLogic / 极客逻辑 - YouTube](https://www.youtube.com/@geeklogic)
 [XMF-I Restoration: A Chinese Apple II Clone 35 Years Ago / 极限修复！35 年前清华大学研制点错科技树的中文电脑 - YouTube](https://www.youtube.com/watch?v=EGc8j9_w4FQ)
 
+[Linux Terminal and Console Explained For Beginners - LinuxBabe](https://www.linuxbabe.com/command-line/linux-terminal)
+[What is the Difference Between the Shell, Terminal, and Console in Linux | TatOG Explains - YouTube](https://www.youtube.com/watch?v=Z6_ja-c2pLc)
+
+## Turing Machines
+
+Computerphile
+[Alan Turing and Enigma - YouTube](https://www.youtube.com/playlist?list=PLzH6n4zXuckodsatCTEuxaygCHizMS0_I) also on decidability
+
+[Turing machines explained visually - YouTube](https://www.youtube.com/watch?v=-ZS_zFg4w5k)
+[Making a computer Turing complete - YouTube](https://www.youtube.com/watch?v=AqNDk_UJW4k)
+
 ## How program runs
 
 [[reverse-engineering#ELF]]
@@ -51,6 +62,17 @@ Computerphile
 [CppCon 2018: Matt Godbolt “The Bits Between the Bits: How We Get to main()” - YouTube](https://www.youtube.com/watch?v=dOfucXtyEsU) ELF
 
 [Chris's Wiki :: blog/linux/32BitProgramOn64BitSystem](https://utcc.utoronto.ca/~cks/space/blog/linux/32BitProgramOn64BitSystem)
+
+## Recursion
+
+[everyone needs to stop using recursion (seriously) - YouTube](https://www.youtube.com/watch?v=mMEmNX6aW_k) recursion grows the stack
+
+[What on Earth is Recursion? - Computerphile - YouTube](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
+[EXTRA BITS: Recursion and the Stack - Computerphile - YouTube](https://www.youtube.com/watch?v=0pncNKHj-Sc&t=0s)
+[Programming Loops vs Recursion - Computerphile - YouTube](https://www.youtube.com/watch?v=HXNhEYqFo0o)
+[EXTRA BITS: Loops, Ackermann & Recursion - Computerphile - YouTube](https://www.youtube.com/watch?v=DVG5G1V8Zx0)
+[Tail Recursion Explained - Computerphile - YouTube](https://www.youtube.com/watch?v=_JtPhF8MshA)
+[Recursion 'Super Power' (in Python) - Computerphile - YouTube](https://www.youtube.com/watch?v=8lhxIOAfDss)
 
 ## Memory Hierarchy/Memory Management
 
@@ -75,7 +97,7 @@ Computerphile
 [Endianness - Wikiwand](https://www.wikiwand.com/en/Endianness)
 [Number format - Microsoft MakeCode](https://makecode.microbit.org/types/buffer/number-format)
 
-'0xA0 0xB0' in memory could be:  
+'0xA0 0xB0' in memory could be:
 signed LE: -20320
 unsigned LE: 45216
 signed BE: -24400

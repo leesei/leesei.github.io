@@ -67,7 +67,7 @@ Ceph is a flexible object storage system, with four access methods: Amazon S3 RE
 
 ## Rook
 
-[Rook.io](https://rook.io/)  
+[Rook.io](https://rook.io/)
 File, Block, and Object Storage Services for your Cloud-Native Environments
 Kubernetes Operator for Ceph (and many others)
 
@@ -170,7 +170,7 @@ An open source FS by EMC, the one behind
 [The Lustre Distributed Filesystem | Linux Journal](https://www.linuxjournal.com/content/lustre-distributed-filesystem)
 [Lustre® File System | OpenSFS: The Lustre File System Community](http://opensfs.org/lustre/)
 
-White papers:  
+White papers:
 [Inside The Lustre File System](https://www.seagate.com/files/www-content/solutions-content/cloud-systems-and-solutions/high-performance-computing/_shared/docs/clusterstor-inside-the-lustre-file-system-ti.pdf) by Seagate
 [Lustre File System](http://www.csee.ogi.edu/~zak/cs506-pslc/lustrefilesystem.pdf) bu Sum
 

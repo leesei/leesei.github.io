@@ -8,7 +8,7 @@ tags:
   - linux
 ---
 
-Applets, extensions are installed at `~/.local/share/cinnamon/`.  
+Applets, extensions are installed at `~/.local/share/cinnamon/`.
 User configs are at `~/.cinnamon/`.
 
 ## Writing Extensions

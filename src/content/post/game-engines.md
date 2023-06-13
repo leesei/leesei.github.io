@@ -193,6 +193,8 @@ CreateJS have multiple tools for game development
 [Phaser 101 - Joseph Gao - Medium](https://medium.com/@jocake/phaser-101-611365d67c69)
 [COMPLETE COURSE - Phaser 101 in 1 HOUR - YouTube](https://www.youtube.com/watch?v=hI_LS8bdkM4)
 
+[Tutorials - Game development | MDN](https://developer.mozilla.org/en-US/docs/Games/Tutorials)
+
 [12 Games in 12 Weeks | Lessmilk](http://www.lessmilk.com/12games)
 
 [Building Phaser 3 games with Create React App | by Krzysztof Andrelczyk | May, 2023 | Medium](https://medium.com/@cristof.a/building-phaser-3-games-with-create-react-app-4f8a6452c281)
@@ -207,6 +209,13 @@ CreateJS have multiple tools for game development
 ### Kiwi.js
 
 [Open Source HTML5 and Javascript game engine](https://www.kiwijs.org/)
+
+### Bitsy
+
+[Bitsy](https://bitsy.org/)
+[le-doux/bitsy: make tiny games, worlds, and stories](https://github.com/le-doux/bitsy)
+
+[Bitsy is the small video game engine with a big community - The Verge](https://www.theverge.com/22929485/bitsy-tiny-video-game-engine)
 
 ## Lua
 
@@ -286,6 +295,10 @@ Fully compatible with XNA
 
 [PaulBlythe/Monogame-tools: Free tools for Monogame development](https://github.com/PaulBlythe/Monogame-tools)
 
+## Go
+
+[Game Development - Awesome Go / Golang](https://awesome-go.com/game-development/)
+
 ## Rust
 
 [Are we game yet? - Rust](http://arewegameyet.com/)
@@ -300,7 +313,7 @@ Fully compatible with XNA
 
 [ggez: Rust game thing](https://ggez.rs/)
 
-[Amethyst - The open source, data-driven game engine](https://www.amethyst.rs/) inactive
+[Amethyst - The open source, data-driven game engine](https://www.amethyst.rs/) 😴inactive
 
 ### Bevy
 
@@ -339,6 +352,7 @@ Fully compatible with XNA
 [SFML](https://www.sfml-dev.org/)
 [Sonkun/python-sfml: Official binding of SFML for Python](https://github.com/Sonkun/python-sfml)
 [jeremyletang/rust-sfml: SFML bindings for Rust](https://github.com/jeremyletang/rust-sfml)
+[Mario Game using SFML - YouTube](https://www.youtube.com/playlist?list=PLlnvVTSJ0XwerJ51bIkLRWeyODtdKN9Hz)
 
 ## Panda3D
 

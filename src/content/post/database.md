@@ -23,6 +23,7 @@ tags:
 [Eventual consistency - Wikiwand](http://www.wikiwand.com/en/Eventual_consistency)
 [Myth: Eric Brewer on Why Banks are BASE Not ACID - Availability Is Revenue - High Scalability -](http://highscalability.com/blog/2013/5/1/myth-eric-brewer-on-why-banks-are-base-not-acid-availability.html)
 [Building Robust Systems With ACID and Constraints — Brandur Leach](https://brandur.org/acid)
+[Relational Database ACID Transactions (Explained by Example) - YouTube](https://www.youtube.com/watch?v=pomxJOFVcQs)
 
 [XML database - Wikiwand](https://www.wikiwand.com/en/XML_database)
 
@@ -90,7 +91,7 @@ BCNF is stronger the 3NF but in practice 99.99% of 3NF are BCNF.
 ## CRDT
 
 [Conflict-free replicated data type - Wikiwand](https://www.wikiwand.com/en/Conflict-free_replicated_data_type)
-[Readings in conflict-free replicated data types](http://christophermeiklejohn.com/crdt/2014/07/22/readings-in-crdts.html) !important
+[Readings in conflict-free replicated data types](http://christophermeiklejohn.com/crdt/2014/07/22/readings-in-crdts.html) ❗!important
 [A Look at Conflict-Free Replicated Data Types (CRDT) – Medium](https://medium.com/@istanbul_techie/a-look-at-conflict-free-replicated-data-types-crdt-221a5f629e7e#.hn2ru5vr5)
 [ljwagerfield/crdt: CRDT Tutorial for Beginners (a digestible explanation with less math!)](https://github.com/ljwagerfield/crdt)
 [Summary of CRDTs](https://vaughnvernon.co/?p=1012)
@@ -108,7 +109,7 @@ This replaces operational transformation for collaborative editing.
 
 # Comparisons
 
-[DB-Engines - Knowledge Base of Relational and NoSQL Database Management Systems](https://db-engines.com/en/) !important
+[DB-Engines - Knowledge Base of Relational and NoSQL Database Management Systems](https://db-engines.com/en/) ❗!important
 [Database of Databases - Home](https://dbdb.io/)
 [Explore Databases - GitHub Reviews](https://githubreviews.com/explore/databases)
 
@@ -157,7 +158,7 @@ Innodb B-tree, fast for read and update workload
 [MySQL Storage Engines » ADMIN Magazine](http://www.admin-magazine.com/Articles/A-storage-engine-for-every-use-case)
 
 [InnoDB - Wikiwand](https://www.wikiwand.com/en/InnoDB) Relational
-
+[The physical structure of InnoDB index pages – Jeremy Cole](https://blog.jcole.us/2013/01/07/the-physical-structure-of-innodb-index-pages/)
 [TokuDB - Wikiwand](https://www.wikiwand.com/en/TokuDB) Relational
 [Percona TokuDB](https://www.percona.com/software/mysql-database/percona-tokudb)
 [TokuDB Introduction](https://www.percona.com/doc/percona-server/LATEST/tokudb/tokudb_intro.html)
@@ -210,6 +211,7 @@ Provides ACID consistency.
 
 [SQL Server Performance Achieving Massive Scalability with SQL Server](http://www.sql-server-performance.com/massive-scalability/)
 [Advanced scaling strategies: Achieving massive scale with SQL](https://go.mariadb.com/GLBL-WBN_2019-04-11Advancedscalingstrategies_Registration-LP.html)
+[Is 20M of rows still a valid soft limit of MySQL table in 2023? – Yisheng's blog](https://yishenggong.com/2023/05/22/is-20m-of-rows-still-a-valid-soft-limit-of-mysql-table-in-2023/)
 
 [A Deep Dive in How Slow SELECT \* is - YouTube](https://www.youtube.com/watch?v=wybjsKtA9hI)
 [How Slow is SELECT \* ? (A deep dive) | by Hussein Nasser | Apr, 2023 | Medium](https://medium.com/@hnasr/how-slow-is-select-8d4308ca1f0c)
@@ -288,8 +290,8 @@ Presto replace Hive, SQL on anything
 HAProxy recipes
 
 [Deploying Active-Active PostgreSQL on Kubernetes](https://info.crunchydata.com/blog/active-active-on-kubernetes)
-[PostgreSQL: Documentation: 10: Chapter 26. High Availability, Load Balancing, and Replication](https://www.postgresql.org/docs/current/static/high-availability.html)  
-[How to Set Up PostgreSQL for High Availability and Replication with Hot Standby | Google Cloud Platform Community](https://cloud.google.com/community/tutorials/setting-up-postgres-hot-standby)  
+[PostgreSQL: Documentation: 10: Chapter 26. High Availability, Load Balancing, and Replication](https://www.postgresql.org/docs/current/static/high-availability.html)
+[How to Set Up PostgreSQL for High Availability and Replication with Hot Standby | Google Cloud Platform Community](https://cloud.google.com/community/tutorials/setting-up-postgres-hot-standby)
 [Scaling Postgres with Read Replicas & Using WAL to Counter Stale Reads — Brandur Leach](https://brandur.org/postgres-reads)
 [An Easy Recipe for Creating a PostgreSQL Cluster with Docker Swarm](http://info.crunchydata.com/blog/an-easy-recipe-for-creating-a-postgresql-cluster-with-docker-swarm)
 
@@ -368,6 +370,9 @@ Basics:
 [UUIDs are Bad for Performance in MySQL - Is Postgres better? Let us Discuss - YouTube](https://www.youtube.com/watch?v=Y5mWz4vK10A)
 MySQL's data clustering means the primary key affects data I/O; Postgres does not have this issue
 
+[10 Tips for Building Resilient Payment Systems (2023)](https://shopify.engineering/building-resilient-payment-systems)
+[How Shopify’s engineering improved database writes by 50% with ULID - YouTube](https://www.youtube.com/watch?v=f53-Iw_5ucA)
+
 ### Dolt
 
 [DoltHub Home |DoltHub](https://www.dolthub.com/) MySQL + Git
@@ -439,7 +444,7 @@ The first three supports relationship by a second index lookup, `JOIN`-like oper
 
 ## UI Client
 
-[DbGate | Open Source (no)SQL Database Client](https://dbgate.org/) !important
+[DbGate | Open Source (no)SQL Database Client](https://dbgate.org/) ❗!important
 [dbgate/dbgate: Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application](https://github.com/dbgate/dbgate)
 
 [FastoNoSQL - cross-platform GUI Manager for Redis, Memcached, SSDB, LevelDB, RocksDB, LMDB, Unqlite, ForestDB, Pika, Dynomite and KeyDB databases.](https://fastonosql.com/)
@@ -672,6 +677,12 @@ A key-value database written in Node.js that supports:
 
 # Document Database
 
+[Why the Document Model Is More Cost-Efficient Than RDBMS - The New Stack](https://thenewstack.io/why-the-document-model-is-more-cost-efficient-than-rdbms/)
+
+RDBMS not suitable for high-velocity online transaction processing (OLTP) workloads for its data being normalized.
+But modern processors are powerful enough that we get away with it anyways.
+RDBMS solutions rely on cheap CPU cycles to enable efficient solutions. NoSQL solutions rely on efficient data models to minimize the amount of CPU required to execute common queries.
+
 ## CouchDB
 
 [Apache CouchDB](http://couchdb.apache.org/)
@@ -794,6 +805,10 @@ implements Google's BigTable with Hadoop and HDFS
 Cassandra compatible with higher throughputs and lower latencies
 
 [scylladb/scylla: NoSQL data store using the seastar framework, compatible with Apache Cassandra](https://github.com/scylladb/scylla)
+
+[Scylla Care-Pet Example | ScyllaDB Docs](https://iot.scylladb.com/stable/)
+[scylladb/care-pet: Care Pet IoT ScyllaDB example](https://github.com/scylladb/care-pet)
+[Build your First ScyllaDB Application: New Rust, Python & PHP Tutorials - ScyllaDB](https://www.scylladb.com/2023/05/31/build-your-first-scylladb-application-new-rust-python-php-tutorials/)
 
 [Cassandra Compliant ScyllaDB with Dor Laor | Software Engineering Daily](http://softwareengineeringdaily.com/2016/06/28/cassandra-compliant-scylladb-with-dor-laor/)
 Column store, without join, no atomic transaction (no 2 phase commit, not strongly consistent), schemaful, highly scalable, CQL
@@ -953,7 +968,7 @@ Or specify when invoking `sqlite`: `sqlite3 -list -header <db>`
 
 ## Bolt
 
-[boltdb/bolt: An embedded key/value database for Go.](https://github.com/boltdb/bolt) inactive
+[boltdb/bolt: An embedded key/value database for Go.](https://github.com/boltdb/bolt) 😴inactive
 [etcd-io/bbolt: An embedded key/value database for Go.](https://github.com/etcd-io/bbolt) active fork
 [asdine/storm: Simple and powerful toolkit for BoltDB](https://github.com/asdine/storm)
 
@@ -973,8 +988,8 @@ Or specify when invoking `sqlite`: `sqlite3 -list -header <db>`
 
 ## eBay Akutan
 
-[eBay/akutan: A distributed knowledge graph store](https://github.com/eBay/akutan)
-[Akutan: A Distributed Knowledge Graph Store](https://www.ebayinc.com/stories/blogs/tech/akutan-a-distributed-knowledge-graph-store/)
+[Akutan: A Distributed Knowledge Graph Store](https://tech.ebayinc.com/engineering/akutan-a-distributed-knowledge-graph-store/)
+[eBay/akutan: A distributed knowledge graph store](https://github.com/eBay/akutan) archived
 
 ## Apache TinkerPop
 
@@ -987,6 +1002,7 @@ The _Standard_ API for interacting with GraphDB.
 
 [Neo4j: The World's Leading Graph Database](https://neo4j.com/)
 [Review: Neo4j supercharges graph analytics | InfoWorld](https://www.infoworld.com/article/3256064/database/review-neo4j-graph-database-supercharges-graph-analytics.html)
+[Learn to Build Graph Databases with Neo4j (Full Course)](https://www.freecodecamp.org/news/learn-neo4j-database-course/)
 
 ## Memgraph
 
@@ -1041,6 +1057,7 @@ Better scaling strategy than RMDBS
 [PostgreSQL 12 Top Features Explained - YouTube](https://www.youtube.com/watch?v=PfbzNdrecv4)
 [PostgreSQL 13 Has Some Performance Boosts! Let us discuss it! - YouTube](https://www.youtube.com/watch?v=wMbTHFXImzI)
 [PostgreSQL v14 Is Faster, and Friendly to Developers – The New Stack](https://thenewstack.io/postgresql-v14-is-faster-and-friendly-to-developers/)
+[PostgreSQL 16 advances query parallelism | InfoWorld](https://www.infoworld.com/article/3697752/postgresql-16-advances-query-parallelism.html)
 
 [Why Postgres? | Crunchy Data](https://www.crunchydata.com/why-postgres)
 [Why old-school PostgreSQL is so hip again | InfoWorld](https://www.infoworld.com/article/3240064/sql/why-old-school-postgresql-is-so-hip-again.html)
@@ -1060,7 +1077,7 @@ Indices points to offset in heap and may become stale (needs to be vacuumed)
 [Intermediate PostgreSQL | Coursera](https://www.coursera.org/learn/intermediate-postgresql)
 [Learn PostgreSQL Tutorial - Full Course for Beginners - YouTube](https://www.youtube.com/watch?v=qw--VYLpxG4)
 
-[Postgres Architecture Explained - YouTube](https://www.youtube.com/watch?v=Q56kljmIN14) !important
+[Postgres Architecture Explained - YouTube](https://www.youtube.com/watch?v=Q56kljmIN14) ❗!important
 [All Postgres Locks Explained | A Deep Dive - YouTube](https://www.youtube.com/watch?v=URwmzTeuHdk)
 
 [Home - Postgres Conference](https://postgresconf.org/)
@@ -1079,6 +1096,12 @@ Indices points to offset in heap and may become stale (needs to be vacuumed)
 [Postgres Indexes for Newbies](https://blog.crunchydata.com/blog/postgres-indexes-for-newbies)
 [Data Loading in Postgres for Newbies](https://www.crunchydata.com/blog/data-loading-in-postgres-for-newbies)
 [Postgres Insider Terminology](https://www.crunchydata.com/blog/challenging-postgres-terminology)
+
+Advisory Locks
+[PostgreSQL: Documentation: 15: 13.3. Explicit Locking](https://www.postgresql.org/docs/current/explicit-locking.html)
+[Understanding PostgreSQL Locks: A Comprehensive Guide 101](https://hevodata.com/learn/postgresql-locks/)
+[Richard Clayton - Distributed Locking with Postgres Advisory Locks](https://rclayton.silvrback.com/distributed-locking-with-postgres-advisory-locks)
+[How do PostgreSQL advisory locks work - Vlad Mihalcea](https://vladmihalcea.com/how-do-postgresql-advisory-locks-work/)
 
 [Postgres Extensions in Rust | Depth-First](https://depth-first.com/articles/2021/08/25/postgres-extensions-in-rust/)
 
@@ -1140,14 +1163,14 @@ Indices points to offset in heap and may become stale (needs to be vacuumed)
 
 [A tour of Postgres' Foreign Data Wrappers - Craig Kerstiens](http://www.craigkerstiens.com/2016/09/11/a-tour-of-fdws/)
 [Understanding Foreign Data Wrappers in Postgres and postgres_fdw](https://www.crunchydata.com/blog/understanding-postgres_fdw)
-[PostgreSQL: Documentation: 15: F.38. postgres_fdw](https://www.postgresql.org/docs/current/postgres-fdw.html)
+[PostgreSQL: Documentation: 15: F.38. postgres_fdw](https://www.postgresql.org/docs/current/postgres-fdw.html)
 
 ### Computed Values
 
 [PostgreSQL: Documentation: 14: CREATE AGGREGATE](https://www.postgresql.org/docs/current/sql-createaggregate.html)
 
-[PostgreSQL: Documentation: 14: 2.7. Aggregate Functions](https://www.postgresql.org/docs/current/tutorial-agg.html)
-[PostgreSQL: Documentation: 14: 9.21. Aggregate Functions](https://www.postgresql.org/docs/current/functions-aggregate.html)
+[PostgreSQL: Documentation: 14: 2.7. Aggregate Functions](https://www.postgresql.org/docs/current/tutorial-agg.html)
+[PostgreSQL: Documentation: 14: 9.21. Aggregate Functions](https://www.postgresql.org/docs/current/functions-aggregate.html)
 
 ### Monitoring
 

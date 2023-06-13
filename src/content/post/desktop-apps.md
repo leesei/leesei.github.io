@@ -293,6 +293,8 @@ Criteria:
 [GitMind - Free Online Mind Mapping](https://gitmind.com/)
 [XMind: The Most Professional Mind Mapping Software](http://www.xmind.net/) many feature behind paywall
 
+[不怕轉職新領域！用「學習地圖」快速上手｜方格子 vocus](https://vocus.cc/article/64626784fd89780001eb9f54)
+
 #### markmap
 
 > with Markdown header
@@ -449,7 +451,7 @@ TL;DR: use VSCode and skip this session
 ## Dev Docs Browser
 
 [DevDocs](http://devdocs.io/)
-It is HTML5, works offline, and is _F.R.E.E._
+It is HTML5, works offline, and is **_F R E E_**
 Customize the downloaded documentations with "Select documentation" (on the lower left corner). Vote for new documentations [here](https://trello.com/b/6BmTulfx/devdocs-documentation).
 
 [Zeal - Offline Documentation Browser](http://zealdocs.org/), compatible with Dash doclets, multiple platforms
@@ -560,6 +562,8 @@ Plugins are Native Qt Plugins
 ### Ulauncher
 
 [Ulauncher — Application launcher for Linux 🐧](https://ulauncher.io/)
+[Browse Extensions — Ulauncher Extensions](https://ext.ulauncher.io/)
+
 [Ulauncher - An Application Launcher for Linux Desktops](https://www.fossmint.com/ulauncher-application-launcher-for-ubuntu-linux/)
 
 ## Multimedia
@@ -729,7 +733,7 @@ npm install upnp-ssdp peer-ssdp upnp-mediarenderer-client upnp-device upnpserver
 [Tartube - The Easy Way To Watch And Download Videos](https://tartube.sourceforge.io/)
 
 [yt-dlp/yt-dlp: A youtube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)
-[blackjack4494/yt-dlc: media downloader and library for various sites.](https://github.com/blackjack4494/yt-dlc) inactive
+[blackjack4494/yt-dlc: media downloader and library for various sites.](https://github.com/blackjack4494/yt-dlc) 😴inactive
 [deepjyoti30/ytmdl: A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.](https://github.com/deepjyoti30/ytmdl)
 [pytube/pytube: A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.](https://github.com/pytube/pytube)
 
@@ -970,7 +974,11 @@ wmic DISKDRIVE
 [Warp: The terminal for the 21st century](https://www.warp.dev/) OSX, requires login
 [Warp Terminal — a reimagined terminal experience! - YouTube](https://www.youtube.com/watch?v=wdrjIHzGW74)
 
+[WezTerm - Wez's Terminal Emulator](https://wezfurlong.org/wezterm/)
+[GitHub - wez/wezterm: A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust](https://github.com/wez/wezterm)
+
 [Hyper™](https://hyper.is/)
+
 [kitty - the fast, featureful, GPU based terminal emulator — kitty documentation](https://sw.kovidgoyal.net/kitty/)
 
 [Alacritty - A cross-platform, OpenGL terminal emulator](https://alacritty.org/)
@@ -1079,6 +1087,13 @@ numactl
 [DAG: Dstat: Versatile resource statistics tool](http://dag.wiee.rs/home-made/dstat/)
 [How to Monitor Ubuntu Performance Using Netdata](https://www.tecmint.com/monitor-ubuntu-performance-using-netdata/amp/)
 
+[lm_sensors - ArchWiki](https://wiki.archlinux.org/title/lm_sensors)
+
+```sh
+sudo sensors-detect
+sensors
+```
+
 [Apps/SystemMonitor - GNOME Wiki!](https://wiki.gnome.org/Apps/SystemMonitor)
 
 [bustle / bustle · GitLab](https://gitlab.freedesktop.org/bustle/bustle)
@@ -1180,25 +1195,6 @@ lspci -v -s $(lspci | grep VGA | cut -f1 -d' ')
 [[ui-automation]]
 
 [Best free Automation software for Windows 10](https://www.thewindowsclub.com/best-free-automation-software-for-windows-10/amp)
-
-## Windows Management
-
-[gTile (Cinnamon)](http://cinnamon-spices.linuxmint.com/extensions/view/21)
-[gTile/gTile: A window tiling extension for Gnome. This is the new official home of the vibou.gTile extension.](https://github.com/gTile/gTile)
-[paperwm/PaperWM: Tiled scrollable window management for Gnome Shell](https://github.com/paperwm/PaperWM)
-[emasab/shelltile: A tiling window extension for GNOME Shell](https://github.com/emasab/shelltile)
-[shellshape - a tiling window extension for gnome-shell](http://gfxmonk.net/shellshape/)
-[codic12/worm: A dynamic, tag-based window manager written in Nim](https://github.com/codic12/worm)
-
-### OS X
-
-[OS X Window Manager Apps | CSS-Tricks](https://css-tricks.com/os-x-window-manager-apps/)
-
-[Mizage - Divvy](http://mizage.com/divvy/)
-
-[sdegutis/mjolnir: Lightweight automation and productivity app for OS X](https://github.com/sdegutis/mjolnir)
-[nathankot/mjolnir.tiling: Add tiling window management powers to your mjolnir](https://github.com/nathankot/mjolnir.tiling)
-[Hammerspoon Team](https://github.com/hammerspoon)
 
 ## Wallpaper
 

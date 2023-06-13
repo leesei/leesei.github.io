@@ -34,9 +34,13 @@ Keep THREE copies of important data on TWO devices, with ONE of those copies sav
 [RcloneBrowser](https://mmozeiko.github.io/RcloneBrowser/)
 [Cyberduck | Libre FTP, SFTP, WebDAV, S3, Backblaze B2 & OpenStack Swift browser for Mac and Windows](https://cyberduck.io/)
 [Cyberduck Alternatives and Similar Software - AlternativeTo.net](http://alternativeto.net/software/cyberduck/)
-[Duplicacy](https://duplicacy.com/) A new generation cross-platform cloud backup tool
-[duplicity: Main](http://duplicity.nongnu.org/)
-[andrewgaul/s3proxy: Access other storage backends via the S3 API](https://github.com/andrewgaul/s3proxy)
+[gaul/s3proxy: Access other storage backends via the S3 API](https://github.com/gaul/s3proxy)
+[duplicity: Encrypted bandwidth-efficient backup](https://duplicity.us/)
+
+[Kopia](https://kopia.io/)
+[kopia/kopia: Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.](https://github.com/kopia/kopia)
+
+[Duplicacy](https://duplicacy.com/) A new generation cross-platform cloud backup tool, commercial app
 
 [LFTP - sophisticated file transfer program](http://lftp.yar.ru/)
 [介紹好用工具：功能完整且強大的 LFTP 命令列工具 | The Will Will Web](https://blog.miniasp.com/post/2023/02/01/Useful-tool-LFTP)

@@ -43,7 +43,7 @@ If the CSS preprocessor supports `@import` `node_modules`, it supports bundling.
 
 ## Rework
 
-[rework](https://github.com/reworkcss) [API](https://github.com/reworkcss/rework-npm) and [sethvincent/rework-npm-cli](https://github.com/sethvincent/rework-npm-cli)  
+[rework](https://github.com/reworkcss) [API](https://github.com/reworkcss/rework-npm) and [sethvincent/rework-npm-cli](https://github.com/sethvincent/rework-npm-cli)
 Rework is a framework for CSS preprocessing (like Broswerify), it provides [api](https://github.com/reworkcss/rework-npm) that support `@import` `node_modules` folder and bundling.
 
 [Using rework-npm for bundling css from npm along with myth and clean-css | makerlog](http://makerlog.org/posts/rework-npm-myth-clean-css/)

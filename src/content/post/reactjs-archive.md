@@ -76,6 +76,27 @@ Fat and Skinny
 
 The new terms are "Container" (connected) and "Presentational Components" (not connected, can be stateful or pure).
 
+## PropTypes
+
+> use TypeScript if you really need PropTypes
+
+Specifying `PropTypes` allows for a clearer contract of your component and React will validate them in dev mode. You should put _all_ props you accessed in `PropTypes` (enforced by [feross/eslint-config-standard-react](https://github.com/feross/eslint-config-standard-react))
+
+`PropTypes` is now a optional dependency.
+For type checking use `interface` and TypeScript.
+
+## Class Components
+
+Syntax for defining React Component:
+[React on ES6+ · Babel](http://babeljs.io/blog/2015/06/07/react-on-es6-plus/)
+[What React component class syntax should I use? - React Kung Fu](http://reactkungfu.com/2015/07/what-react-component-class-syntax-should-i-use/)
+
+- ES5 `React.createClass()`
+- ES6 `extends React.Component` with `constructor()`, `Class.defaultProps` and `.bind(this)`
+- ES6 `extends React.Component` with class properties
+  It is explained [here](http://reactkungfu.com/2015/07/why-and-how-to-bind-methods-in-your-react-component-classes/) (with reference to JS's function calling and ES6 syntax)
+  [How to Use Classes and Sleep at Night — Medium](https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4#.cln2rrt6t) Your component should only extends from `Component`; use composition.
+
 ## Router
 
 > use app framework like Next.js
@@ -119,6 +140,8 @@ The new terms are "Container" (connected) and "Presentational Components" (not c
 [A guide to using React Router v6 in React apps - LogRocket Blog](https://blog.logrocket.com/react-router-v6/)
 [Complete guide to authentication with React Router v6 - LogRocket Blog](https://blog.logrocket.com/complete-guide-authentication-with-react-router-v6/)
 [A Complete Guide to React Router: Everything You Need to Know](https://ui.dev/react-router-tutorial)
+
+[useLoaderData | React Router](https://reactrouter.com/en/main/hooks/use-loader-data)
 
 ### other
 

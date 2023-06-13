@@ -9,10 +9,9 @@ tags:
   - web-dev
 ---
 
-### Solid.js
-
 > Svelte is to Vue as Solid is to React
 > Both Svelte and Solid are compiler driven variants of their counterparts
+> Uses JSX and more performant
 > Reactivity, not lifecycle hooks; no more gotchas in `useEffect()`
 
 [SolidJS · Reactive Javascript Library](https://www.solidjs.com/)
@@ -21,17 +20,13 @@ tags:
 
 Flattening
 Reactive, Use Effect on site
+The point of use causes reactivity (and re-rendering)
 No re-rendering of component
 No need memorization
 !Destructuring props loses reactivity
 
 [An Intro to Solid.js for React Developers](https://non-traditional.dev/an-intro-to-solidjs-for-react-developers)
 [Hands-on with SolidJS | InfoWorld](https://www.infoworld.com/article/3643331/hands-on-with-the-solid-javascript-framework.html)
-
-```js
-npx degit solidjs/templates/js js-demo
-npx degit solidjs/templates/ts ts-demo
-```
 
 [Introduction to Reactivity with SolidJS - YouTube](https://www.youtube.com/watch?v=J70HXl1KhWE)
 [The World Beyond Components, by Ryan Carniato - YouTube](https://www.youtube.com/watch?v=-CrsHsBZFg4)
@@ -44,11 +39,23 @@ npx degit solidjs/templates/ts ts-demo
 
 [Ryan Carniato - YouTube](https://www.youtube.com/c/RyanCarniato9)
 
-#### Solid.js Ecosystem
+## Starter Kit
+
+[[#SolidStart]]
+[[vite#Templates]]
+
+[solidjs/templates: Vite + solid templates](https://github.com/solidjs/templates)
+
+```js
+npx degit solidjs/templates/js js-demo
+npx degit solidjs/templates/ts ts-demo
+```
+
+## Ecosystem
 
 [solidjs-community/solid-primitives: A library of high-quality primitives that extend SolidJS reactivity.](https://github.com/solidjs-community/solid-primitives)
 
-#### SolidStart
+## SolidStart
 
 > as to Next.js to React
 

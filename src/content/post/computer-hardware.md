@@ -60,6 +60,20 @@ Analytical Engine
 [Forget Digital Computing, You Need An Analog Computer | Hackaday](https://hackaday.com/2021/10/03/forget-digital-computing-you-need-an-analog-computer/)
 [十分钟略懂存内计算：解除人工智能最后的「封印」？ - YouTube](https://www.youtube.com/watch?v=4LTDer2nQ4Q) AI inference is a suitable use case for analog computing
 
+# Advancement
+
+[Moore's law - Wikiwand](https://www.wikiwand.com/en/Moore%27s_law)
+
+[Moore's Law is the reason your iPhone is so thin and cheap - CNET](https://www.cnet.com/tech/mobile/moores-law-is-the-reason-why-your-iphone-is-so-thin-and-cheap/)
+[Processor progress is alive and well, the maker of Apple's iPhone chips says - CNET](https://www.cnet.com/tech/mobile/processor-progress-is-alive-and-well-tsmc-builder-of-apple-iphone-chips-says/)
+
+[The Next Decade of Software Development - Richard Campbell - NDC London 2023 - YouTube](https://youtu.be/ND_AjF_KTD8?t=370)
+
+XMP Super Computer circa 1985, 200kW, cooled with mineral oil, 1.9G Flops/s
+modeled nuclear explosion, Voyager mission
+iPad2 in 2011, $200, 1.9G Flops/s
+your kids play Candy Crush on this
+
 # Bit Flip/Bit Rot
 
 [The Universe is Hostile to Computers - YouTube](https://www.youtube.com/watch?v=AaZ_RSt0KP8)
@@ -241,6 +255,7 @@ Gamers Nexus
 [The Differences between All Corsair Power Supply Units](https://www.custompcguide.net/the-differences-between-all-corsair-power-supply-units/)
 [EVGA Power Supply Units Comparison : The differences between W, B, BT, BQ, B3, G, G+, GQ, GS, PQ, P2 and T2 Series](https://www.custompcguide.net/evga-power-supply-units-comparison-all-series/)
 [Differences of All OCZ and PC & Power Cooling Power Supply Units](https://www.custompcguide.net/differences-of-all-ocz-and-pc-power-cooling-power-supply-units/)
+[All you need to know about PC Power, PSUs, and Power Cables - YouTube](https://www.youtube.com/watch?v=4JuUdihexrQ)
 
 [如何查詢電源供應器 PSU 是哪家代工的 並附常見電供查詢結果 - YouTube](https://www.youtube.com/watch?v=iwiw9tafv04)
 [如何查詢電源供應器 PSU 是哪家代工的](https://www.chsnote.com/2021/10/psu-manufacturer.html)
@@ -285,6 +300,7 @@ Multiple 12V rails no longer matters (in 2014), quality PSU will have multiple r
 
 [【硬件科普】intel 要换电源接口标准了？老电源还能不能用了？一个视频带你从根本去了解新 ATX12VO - YouTube](https://www.youtube.com/watch?v=cafBKrlLdpY)
 
+Gamers Nexus
 [Intel's ATX12VO Spec Explained & What Manufacturers Think - YouTube](https://www.youtube.com/watch?v=ur2eSL344Xs)
 [The Future of Power Supplies - Maybe (Motherboard Cost, Cables, & ATX12VO) - YouTube](https://www.youtube.com/watch?v=Zc9oRKexV_s)
 

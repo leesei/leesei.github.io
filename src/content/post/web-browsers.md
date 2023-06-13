@@ -268,6 +268,7 @@ Goto chrome://extensions/shortcuts to set shortcuts
 - Remember Playback Speed
 
 [Web Archiver - Chrome Web Store](https://chrome.google.com/webstore/detail/web-archiver/gjpgpobcdndcdcidmgcmlphbomllapjp)
+[Web Vitals - Chrome Web Store](https://chrome.google.com/webstore/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma)
 [Wikiwand: Wikipedia Modernized - Chrome Web Store](https://chrome.google.com/webstore/detail/wikiwand-wikipedia-modern/emffkefkbkpkgpdeeooapgaicgmcbolj)
 [YT Anti Translate - Chrome Web Store](https://chrome.google.com/webstore/detail/yt-anti-translate/ndpmhjnlfkgfalaieeneneenijondgag)
 

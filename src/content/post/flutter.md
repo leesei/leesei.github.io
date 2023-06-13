@@ -4,8 +4,11 @@ description: ""
 created: 2015-04-03
 tags:
   - app
+  - comp.lang
+  - dart
   - flutter
   - mobile
+  - package-manager
 ---
 
 > Flutter is based on Dart and they share the same package management system
@@ -19,30 +22,15 @@ Flutter is a native runtime written in C++, Skia and OpenGL. With Dart binging t
 [Flokk - How we built a Desktop App Using Flutter - gskinner blog](https://blog.gskinner.com/archives/2020/09/flokk---how-we-built-a-desktop-app-using-flutter.html)
 
 [Google Developers Blog: Flutter: a Portable UI Framework for Mobile, Web, Embedded, and Desktop](https://developers.googleblog.com/2019/05/Flutter-io19.html)
-[Goodbye Electron, Hello Flutter. Native cross-platform application… | by Shalitha Suranga | The Startup | Feb, 2021 | Medium](https://medium.com/swlh/goodbye-electron-welcome-flutter-22b3dc10d2f3)
-[Flutter: Just another mobile UI framework?](https://blog.scottlogic.com/2021/02/01/Flutter-just-another-ui-framework.html)
 [Google announces Flutter 3.7 and Dart 2.19 as well as upcoming features at Flutter Forward - SD Times](https://sdtimes.com/mobile/google-announces-flutter-3-7-and-dart-2-19-as-well-as-upcoming-features-at-flutter-forward/)
 [New Features In Flutter 4.0. Cannot wait for Flutter 4? This is a… | by Fred Grott | Medium](https://fredgrott.medium.com/new-features-in-flutter-4-0-1ab01ac512ff) Material Design 3
 
 [Flutter | 9to5Google](https://9to5google.com/guides/flutter/)
-[Fuchsia Friday: How Flutter is paving the way for Fuchsia (and our first Fuchsia app!) | 9to5Google](https://9to5google.com/2018/03/02/fuchsia-friday-first-fuchsia-app/)
 
 [Flutter - Didier Boelens](https://www.didierboelens.com/)
-[Flutter on desktop, a real competitor to Electron – Flutter Community – Medium](https://medium.com/flutter-community/flutter-on-desktop-a-real-competitor-to-electron-4f049ea6b061)
 
 [Intro to Flutter: a practical guide to cross-platform development | Mews Developers](https://developers.mews.com/intro-to-flutter-a-practical-guide-to-cross-platform-development/)
 
-[CINNAMON | Why Choose Flutter Over Other Frameworks?](https://cinnamon.agency/blog/post/why_flutter)
-[Reflectly — From React Native to Flutter – Reflectly Engineering – Medium](https://medium.com/reflectly-engineering/reflectly-from-react-native-to-flutter-2e3dffced2ea)
-[Flutter vs Native vs React-Native: Examining performance](https://medium.com/swlh/flutter-vs-native-vs-react-native-examining-performance-31338f081980)
-[React Native VS Flutter – What’s Best for You? – SurajOnDev](https://surajondev.com/2021/12/12/react-native-vs-flutter-whats-best-for-you/)
-[React to Flutter: One Developers Journey — Part 1 | by Reme Le Hane | ITNEXT](https://itnext.io/react-to-flutter-one-developers-journey-part-1-f101443bff82)
-[React to Flutter: One Developers Journey — Part 2 | by Reme Le Hane | May, 2021 | ITNEXT](https://itnext.io/react-to-flutter-one-developers-journey-part-2-10ac6919f580)
-[Flutter vs React Native: What Is the Best Language for Food Delivery App Development? - DZone Web Dev](https://dzone.com/articles/flutter-vs-react-native-what-is-the-best-language)
-[Flutter vs. Ionic for cross-platform development - LogRocket Blog](https://blog.logrocket.com/flutter-vs-ionic-cross-platform-development/)
-
-[Why and how am I learning Flutter? – Flutter Community – Medium](https://medium.com/flutter-community/why-and-how-am-i-learning-flutter-2652c15c8113)
-[Why Flutter Uses Dart – HackerNoon.com](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
 [Flutter : Replicating the UI for Google’s Gmail App](https://blog.usejournal.com/flutter-replicating-the-ui-for-googles-gmail-app-a501ed8e7908)
 [Building a Calculator App in Flutter - ITNEXT](https://itnext.io/building-a-calculator-app-in-flutter-824254704fe6)
 
@@ -60,6 +48,28 @@ Flutter is a native runtime written in C++, Skia and OpenGL. With Dart binging t
 
 [Flutter with Eric Seidel - Software Engineering Daily](https://softwareengineeringdaily.com/2018/07/09/flutter-with-eric-seidel/)
 [Flutter in Practice with Randal Schwartz - Software Engineering Daily](https://softwareengineeringdaily.com/2018/07/11/flutter-in-practice-with-randal-schwartz/)
+
+## Commentary
+
+[CINNAMON | Why Choose Flutter Over Other Frameworks?](https://cinnamon.agency/blog/post/why_flutter)
+[Fuchsia Friday: How Flutter is paving the way for Fuchsia (and our first Fuchsia app!) | 9to5Google](https://9to5google.com/2018/03/02/fuchsia-friday-first-fuchsia-app/)
+
+[Goodbye Electron, Hello Flutter. Native cross-platform application… | by Shalitha Suranga | The Startup | Feb, 2021 | Medium](https://medium.com/swlh/goodbye-electron-welcome-flutter-22b3dc10d2f3)
+[Flutter: Just another mobile UI framework?](https://blog.scottlogic.com/2021/02/01/Flutter-just-another-ui-framework.html)
+[Flutter on desktop, a real competitor to Electron – Flutter Community – Medium](https://medium.com/flutter-community/flutter-on-desktop-a-real-competitor-to-electron-4f049ea6b061)
+
+[Reflectly — From React Native to Flutter – Reflectly Engineering – Medium](https://medium.com/reflectly-engineering/reflectly-from-react-native-to-flutter-2e3dffced2ea)
+[Why and how am I learning Flutter? – Flutter Community – Medium](https://medium.com/flutter-community/why-and-how-am-i-learning-flutter-2652c15c8113)
+
+[Flutter vs Native vs React-Native: Examining performance](https://medium.com/swlh/flutter-vs-native-vs-react-native-examining-performance-31338f081980)
+[React Native VS Flutter – What’s Best for You? – SurajOnDev](https://surajondev.com/2021/12/12/react-native-vs-flutter-whats-best-for-you/)
+[React to Flutter: One Developers Journey — Part 1 | by Reme Le Hane | ITNEXT](https://itnext.io/react-to-flutter-one-developers-journey-part-1-f101443bff82)
+[React to Flutter: One Developers Journey — Part 2 | by Reme Le Hane | May, 2021 | ITNEXT](https://itnext.io/react-to-flutter-one-developers-journey-part-2-10ac6919f580)
+[Flutter vs React Native: What Is the Best Language for Food Delivery App Development? - DZone Web Dev](https://dzone.com/articles/flutter-vs-react-native-what-is-the-best-language)
+[Flutter vs React Native - What is Best for Mobile App Development? | LITSLINK Blog](https://litslink.com/blog/react-native-vs-flutter-what-is-best-for-mobile-app-development)
+[Flutter vs. Ionic for cross-platform development - LogRocket Blog](https://blog.logrocket.com/flutter-vs-ionic-cross-platform-development/)
+
+[Why Flutter Uses Dart – HackerNoon.com](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
 
 ## FlutterGen
 

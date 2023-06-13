@@ -218,7 +218,7 @@ The upstream code have some issue in headings so [patch](https://github.com/rust
 
 [[rust#Books]]
 
-Save as HTML with some hacks:  
+Save as HTML with some hacks:
 https://github.com/rust-lang/rust/issues/20866#issuecomment-495962961
 
 ```sh
@@ -335,7 +335,7 @@ cd zshguide_html; ebook-convert zshguide.html ../zshguide.azw3
 [Free ebooks by Project Gutenberg - Gutenberg](https://www.gutenberg.org/)
 [GitBook · Writing made easy](https://www.gitbook.com/)
 [Leanpub: Publish Early, Publish Often](https://leanpub.com/) try adding `/read` to url
-[About this Collection  |  World Digital Library  |  Digital Collections  |  Library of Congress](https://www.loc.gov/collections/world-digital-library/about-this-collection/)
+[About this Collection | World Digital Library | Digital Collections | Library of Congress](https://www.loc.gov/collections/world-digital-library/about-this-collection/)
 
 [smusali/Leanpub-Hack: I used some web scraping and web automation techniques within Python to legally download free books from www.leanpub.com](https://github.com/smusali/Leanpub-Hack)
 

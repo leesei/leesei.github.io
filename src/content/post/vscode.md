@@ -56,7 +56,7 @@ Interactive Playground
 
 [VS Code Can Do That?](https://vscodecandothat.com/)
 [VS Code Can Do That?! VS Code Tips and Tricks - YouTube](https://www.youtube.com/watch?v=x5GzCohd4eo) 1.25 hours
-[Visual Studio Code Course | VS Code Customization | Frontend Masters | Frontend Masters](https://frontendmasters.com/courses/customize-vs-code/) free, 3.5 hours
+[Visual Studio Code Course | VS Code Customization | Frontend Masters | Frontend Masters](https://frontendmasters.com/courses/customize-vs-code/) free, 2019-10, 3:36:03
 
 [Why I moved away from Atom to Visual Studio Code and my Setup · EQuimper's Blog](https://equimper.me/post/why-i-moved-away-from-atom-to-visual-studio-code-and-my-setup/)
 
@@ -79,7 +79,7 @@ There's also a workspace (`.code-workspace`) file can contain a list of folders 
 [Workspaces in Visual Studio Code](https://code.visualstudio.com/docs/editor/workspaces)
 [What is a 'workspace' in Visual Studio Code? - Stack Overflow](https://stackoverflow.com/questions/44629890/what-is-a-workspace-in-visual-studio-code)
 [Multi-root Workspaces in Visual Studio Code](https://code.visualstudio.com/docs/editor/multi-root-workspaces)
-[Workspace Search in VS Code — A deep dive on find in files, replace, search editors and more! - YouTube](https://www.youtube.com/watch?v=Uc4I4ByUe0A)
+[Workspace Search in VS Code — A deep dive on find in files, replace, search editors and more! - YouTube](https://www.youtube.com/watch?v=Uc4I4ByUe0A)
 
 [Some Little Improvements to My VS Code Workflow (Workspaces, Icons, Tasks) | CSS-Tricks](<https://css-tricks.com/some-little-improvements-to-my-vs-code-workflow-(workspaces,-icons,-tasks/)>)
 
@@ -133,7 +133,7 @@ There's also a workspace (`.code-workspace`) file can contain a list of folders 
 Installed extensions:
 
 - `~/.code/extensions`?
-- `%USERPROFILE%\.code\extensions`
+- `$env:USERPROFILE\.vscode\extensions`, `$env:LOCALAPPDATA\Programs\Microsoft VS Code\resources\app\extensions`
 
 [Recommending VSCode extensions within your Open Source projects - DEV Community 👩‍💻👨‍💻](https://dev.to/spboyer/recommending-vscode-extensions-within-your-open-source-projects-5167) add to `.vscode`
 
@@ -276,6 +276,11 @@ Plantuml
 ### Copilot
 
 [[github#Copilot]]
+
+### CodeTour
+
+[CodeTour - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour)
+[How to build a rock, paper, scissors game with GitHub Copilot - DEV Community](https://dev.to/github/how-to-build-a-rock-paper-scissors-game-with-github-copilot-1flo)
 
 ### Remote Development
 

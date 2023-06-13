@@ -239,7 +239,7 @@ SPCCI (Spark Controlled Combustion Ignition) compresses the gasoline-air mixture
 [The Science Of Boost - YouTube](https://www.youtube.com/watch?v=gN10vCR-tPY)
 [Why Small Turbo Engines Are Not Efficient - YouTube](https://www.youtube.com/watch?v=9aO2vC_iMTI)
 
-11 磅小老虎  
+11 磅小老虎
 [涡轮的工作工作原理和特点，可能是最全最干的讲解教程 how turbo works? - YouTube](https://www.youtube.com/watch?v=hwdNRAsvTHM)
 [机械增压全解 / How do superchargers work - YouTube](https://www.youtube.com/watch?v=019cW_rnUVk)
 

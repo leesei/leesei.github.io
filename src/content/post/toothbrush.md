@@ -12,7 +12,7 @@ tags:
 [Best Electric Toothbrush 2019 - Dentistry Blogger](https://www.dentistryblogger.com/best-electric-toothbrush/)
 [Best Electric Toothbrush for Sensitive Teeth 2019 - Dentistry Blogger](https://www.dentistryblogger.com/best-electric-toothbrush-sensitive-teeth/)
 
-[电动牙刷声波式和机械式哪个好？ - 知乎](https://www.zhihu.com/question/19641783) !important, also teaches how to brush
+[电动牙刷声波式和机械式哪个好？ - 知乎](https://www.zhihu.com/question/19641783) ❗!important, also teaches how to brush
 
 [爱否 Fview 米家、网易、飞利浦、入门级电动牙刷对比 - YouTube](https://www.youtube.com/watch?v=yUAQyKjO4-I)
 [爱否 Fview 电动牙刷 第二集（飞利浦 vs 欧乐 B vs Oclean） - YouTube](https://www.youtube.com/watch?v=bKlO6_Ozog8)

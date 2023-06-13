@@ -13,9 +13,9 @@ tags:
 
 > split to lang specific files
 
-[The Language Realm - Your Free Resource for language and Translation Services](http://www.languagerealm.com/)  
-[Free Language Courses | Language Transfer](https://www.languagetransfer.org/home)  
-[The Hardest Language To Spell - YouTube](https://www.youtube.com/watch?v=btn0-Vce5ug)  
+[The Language Realm - Your Free Resource for language and Translation Services](http://www.languagerealm.com/)
+[Free Language Courses | Language Transfer](https://www.languagetransfer.org/home)
+[The Hardest Language To Spell - YouTube](https://www.youtube.com/watch?v=btn0-Vce5ug)
 [7 Tricks To Learn Any Language In 7 Days (From The Superpolyglot Twins Who Did It) - Babbel.com](https://www.babbel.com/en/magazine/learn-any-language-in-your-hometown)
 [Langfocus - YouTube](https://www.youtube.com/channel/UCNhX3WQEkraW3VHPyup8jkQ)
 [人類語言最大謎團，你能解開它嗎？| 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=L0oV08bJpfg)
@@ -542,7 +542,7 @@ favor active over passive voice, except for:
 
 [殿下在香港－香港在世界 (Hong Kong in the World) - YouTube](https://www.youtube.com/channel/UChJQlg1b_cOttPX3SiIh5gA)
 
-[熱血時報 | 粵語九聲訣](http://www.passiontimes.hk/article/03-18-2014/11264)  
+[熱血時報 | 粵語九聲訣](http://www.passiontimes.hk/article/03-18-2014/11264)
 詩史試時市是色洩蝕
 蕃茄醬牛腩麵不吃辣
 雞仔要同你哋織隻襪
@@ -567,7 +567,7 @@ favor active over passive voice, except for:
 <https://youtu.be/2xqNXqY0yw4?t=493>
 <https://www.youtube.com/watch?v=xdxT1OEAbvg&t=402>
 
-[反切原理簡介 | 陳凱文 | 香港獨立媒體網](http://www.inmediahk.net/node/1025466)  
+[反切原理簡介 | 陳凱文 | 香港獨立媒體網](http://www.inmediahk.net/node/1025466)
 上字取聲母，下字取韻母；上字辨陰陽，下字辨平仄
 
 [The Complete Guide to Learn Cantonese 【廣東話學習指南】](https://cantolounge.com/complete-guide-learn-cantonese/)

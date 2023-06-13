@@ -18,6 +18,8 @@ tags:
 
 [7 New Java Talks You Need to See | Takipi Blog](http://blog.takipi.com/7-new-java-talks-you-need-to-see/)
 
+[Java is mounting a huge comeback - YouTube](https://www.youtube.com/watch?v=Ibjm2KHfymo) funny take on Java 21
+
 It's easier to extract the JDK tarball and use `JAVA_HOME` to use it.
 
 ```sh

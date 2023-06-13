@@ -156,6 +156,19 @@ larger:500M
 
 [How to Easily Automate Emails with Python | by Frank Andrade | Jun, 2022 | Towards Data Science](https://towardsdatascience.com/how-to-easily-automate-emails-with-python-8b476045c151) Google Account App password, SMTP
 
+[IMAP, POP, and SMTP | Gmail | Google for Developers](https://developers.google.com/gmail/imap/imap-smtp)
+
+### Gmail as email client
+
+[Gmail Guide: Use Your Gmail Account to Access Other Accounts](https://www.howtogeek.com/school/gmail-guide/lesson9/)
+
+[Send emails from a different address or alias - Gmail Help](https://support.google.com/mail/answer/22370?sjid=699498622990373421-AP)
+[Should I uncheck "Treat as an alias" in Gmail? - Google Workspace Admin Help](https://support.google.com/a/answer/1710338?ctx=gmail&hl=en&authuser=0&visit_id=638217984902507234-2729421108&rd=1)
+
+### Using other email client
+
+[Here Are the IMAP Settings You Need to Set Up Gmail](https://www.lifewire.com/what-are-the-gmail-imap-settings-1170852)
+
 ## Google Calendar
 
 [Google Calendar + Tasks Is the Only To-Do List You'll Ever Need](https://www.makeuseof.com/tag/google-calendar-google-tasks-to-do-apps/)

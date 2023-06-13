@@ -10,8 +10,11 @@ tags:
 [[learn-to-code#Assembly]]
 
 [Reverse Engineering - Computerphile - YouTube](https://www.youtube.com/watch?v=9tZmSFjoOm4)
+[Quarkslab's blog - Reverse-Engineering](https://blog.quarkslab.com/category/reverse-engineering.html)
 
 # Binary Analysis/Malware Analysis/Reverse Engineering
+
+[[learn-to-code#Assembly]]
 
 [rshipp/awesome-malware-analysis: A curated list of awesome malware analysis tools and resources.](https://github.com/rshipp/awesome-malware-analysis)
 
@@ -50,7 +53,8 @@ tags:
 
 [IDA Freeware](https://hex-rays.com/ida-free/)
 
-[EVERYONE in Cyber Security Should Understand Reversing (its EASY) - YouTube](https://www.youtube.com/watch?v=gh2RXE9BIN8) !important, C calling convention
+[EVERYONE in Cyber Security Should Understand Reversing (its EASY) - YouTube](https://www.youtube.com/watch?v=gh2RXE9BIN8) ❗!important, C calling convention
+[EVERYONE in Cyber Security Should Understand Reversing (its EASY) - YouTube](https://www.youtube.com/watch?v=gh2RXE9BIN8) ❗!important, C calling convention
 
 ## Ghidra
 
@@ -114,14 +118,14 @@ objdump -d -Mintel <binary>
 [Java Decompiler](http://java-decompiler.github.io/)
 [Java Decompiler](https://github.com/java-decompiler)
 
-[Parsing Java Bytecode with Python - YouTube](https://www.youtube.com/watch?v=67FmRyv8jTM)
+[Parsing Java Bytecode with Python - YouTube](https://www.youtube.com/watch?v=67FmRyv8jTM) 2:25:53
 
 ## Android
 
 [skylot/jadx: Dex to Java decompiler](https://github.com/skylot/jadx)
 
 [ChickenHook/Anubis-pandemidestek: Anubis malware variant for turkish market - full analysis - SHA256: 231d970ea3195b3ba3e11e390b6def78a1c8eb5f0a8b7dccc0b4ec4aee9292ec](https://github.com/ChickenHook/Anubis-pandemidestek/tree/master)
-[Reverse Engineering of the Anubis Malware - ”pandemistek” – intended for the Turkish market – AndroidReverse](https://androidreverse.wordpress.com/2020/06/30/reverse-engineering-of-the-anubis-malware%e2%80%8a-%e2%80%8apandemistek-intended-for-the-turkish-market/)
+[Reverse Engineering of the Anubis Malware - ”pandemistek” – intended for the Turkish market – AndroidReverse](https://androidreverse.wordpress.com/2020/06/30/reverse-engineering-of-the-anubis-malware%e2%80%8a-%e2%80%8apandemistek-intended-for-the-turkish-market/)
 
 [Reverse Engineering of the Anubis Malware — Part 1 | by Elliot Alderson | Medium](https://medium.com/@fs0c131y/reverse-engineering-of-the-anubis-malware-part-1-741e12f5a6bd)
 [Infection and removal of Android Malware that uses Accessibility services - YouTube](https://www.youtube.com/watch?v=VCCgc7dib7I)
@@ -146,3 +150,15 @@ objdump -d -Mintel <binary>
 
 [hugsy/gef: GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux](https://github.com/hugsy/gef)
 [GEF - GDB Enhanced Features documentation](https://hugsy.github.io/gef/)
+
+# USB Protocol
+
+[USB Reverse Engineering: A Universal Guide | Hackaday](https://hackaday.com/2018/05/25/usb-reverse-engineering-a-universal-guide/)
+[USB Reverse Engineering: Down the rabbit hole | /dev/alias – Hack. Dev. Transcend.](https://www.devalias.net/devalias/2018/05/13/usb-reverse-engineering-down-the-rabbit-hole/)
+
+[Reverse engineering a USB device with Rust | Harry Gill](https://gill.net.in/posts/reverse-engineering-a-usb-device-with-rust/)
+[mygnu/rcue: Corsair H150i PRO, usb userspace driver](https://github.com/mygnu/rcue)
+
+[27c3: USB and libusb (en) - YouTube](https://www.youtube.com/watch?v=SodMHKpykXw&feature=youtu.be)
+[28c3: Reverse Engineering USB Devices - YouTube](https://www.youtube.com/watch?v=jMf55KVDPaE)
+[Debugging Usually Slightly Broken (USB) Devices and Drivers - Krzysztof Opasiak, Samsung - YouTube](https://www.youtube.com/watch?v=6UHqtbiJX94)

@@ -7,7 +7,7 @@ tags:
   - javascript
 ---
 
-JavaScript was conceived by Brendan Eich, then employee of Netscape, in ten days time. The name "JavaScript" was chosen intendedly with reference Java to give the impression of "write once, run everywhere".
+JavaScript was conceived by Brendan Eich, then employee of Netscape, in ten days time. The name "JavaScript" was chosen intensionally with reference Java to give the impression of "write once, run everywhere".
 
 Sun (now Oracle) owns the trademark of the name "Java", hence "JavaScript". So the standard for JavaScript is [ECMA-262](http://www.ecma-international.org/publications/standards/Ecma-262.htm) (or ECMAScript), after the standard body ECMA.
 
@@ -40,7 +40,7 @@ Harmony stands for the ES5+ feature set. Some of them will be in ES6, some of th
 [ECMAScript Language Specification - ECMA-262 Edition 5.1](http://ecma-international.org/ecma-262/5.1/)
 [ECMAScript 2015 Language Specification – ECMA-262 6th Edition](http://www.ecma-international.org/ecma-262/6.0/index.html)
 
-[Blog posts tagged “Understanding ECMAScript” · V8](https://v8.dev/blog/tags/understanding-ecmascript) !important
+[Blog posts tagged “Understanding ECMAScript” · V8](https://v8.dev/blog/tags/understanding-ecmascript) ❗!important
 
 ## Learn
 
@@ -80,7 +80,7 @@ Harmony stands for the ES5+ feature set. Some of them will be in ES6, some of th
 
 [JavaScript | Codecademy](http://www.codecademy.com/en/tracks/javascript/)
 [JavaScript Fundamentals | Udemy](https://www.udemy.com/javascriptfundamentals/)
-[JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials](https://javascript30.com/) !important, by Wes Bos
+[JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials](https://javascript30.com/) ❗!important, by Wes Bos
 
 ### Video
 
@@ -129,6 +129,8 @@ Programming JavaScript Applications
 [shama/letswritecode: code examples for Let's Write Code](https://github.com/shama/letswritecode)
 
 ## Language
+
+[2023 JavaScript Predictions: What to Expect - YouTube](https://www.youtube.com/watch?v=8SgwWpm8M4Y)
 
 [JS Essentials: The JavaScript Engine – codeburst](https://codeburst.io/js-essentials-the-javascript-engine-302ff38e8465)
 [Go Make Things](https://gomakethings.com/)
@@ -364,7 +366,7 @@ Solution: use `process.nextTick()` or Promise whose callback must be [executed a
 [Promise anti patterns · petkaantonov/bluebird Wiki](https://github.com/petkaantonov/bluebird/wiki/Promise-anti-patterns)
 [Promise Anti-patterns – Tao of Code](https://taoofcode.net/promise-anti-patterns/)
 [How to escape Promise Hell – Ronald Chen – Medium](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513)
-[We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html) !important
+[We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html) ❗!important
 
 - don't use 2nd param of `then()`, trailing `catch()` is better in all cases
 - passing `then()` non-function will cause the previous promise's result to fall through
@@ -540,7 +542,7 @@ console.log(obj);
 [Common Misconceptions About Inheritance in JavaScript — JavaScript Scene — Medium](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a)
 [How to Fix the ES6 `class` keyword — JavaScript Scene — Medium](https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf)
 
-[JavaScript inheritance patterns — Medium](https://medium.com/@PitaJ/javascript-inheritance-patterns-179d8f6c143c#.mxecklhex) !important, three method
+[JavaScript inheritance patterns — Medium](https://medium.com/@PitaJ/javascript-inheritance-patterns-179d8f6c143c#.mxecklhex) ❗!important, three methods
 [🎉👨‍👩‍👧‍👧 JavaScript Visualized: Prototypal Inheritance - DEV Community 👩‍💻👨‍💻](https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co)
 
 [The Heart & Soul of Prototypal OO: Concatenative Inheritance — JavaScript Scene — Medium](https://medium.com/javascript-scene/the-heart-soul-of-prototypal-oo-concatenative-inheritance-a3b64cb27819#.w1ezstmpe)
@@ -654,7 +656,7 @@ Class Inheritance: instances inherit from classes (like a blueprint — a de
 
 `class` keyword from ES6 is a syntactic sugar that _simulates class inheritance_. It still add stuffs to the prototype chain under the hood but it encourages wrongful assumptions for developers from other background so is considered harmful.
 
-[Prototypal Object-Oriented Programming using JavaScript · An A List Apart Article](http://alistapart.com/article/prototypal-object-oriented-programming-using-javascript) !important, why mimicking class inheritance is bad
+[Prototypal Object-Oriented Programming using JavaScript · An A List Apart Article](http://alistapart.com/article/prototypal-object-oriented-programming-using-javascript) ❗!important, why mimicking class inheritance is bad
 [Is “Class” In ES6 The New “Bad” Part? — Medium](https://medium.com/@rajaraodv/is-class-in-es6-the-new-bad-part-6c4e6fe1ee65#.gs5tzbzfg)
 
 [Classical Inheritance in JavaScript](http://javascript.crockford.com/inheritance.html)
@@ -852,9 +854,9 @@ ReasonML is backed by ReScript which compiles OCaml to JavaScript.
 > [A guide to 2ality’s posts on the JavaScript language](http://www.2ality.com/2012/08/guide-jslang.html) > [A guide to 2ality’s posts on ECMAScript.next/ECMAScript 6](http://www.2ality.com/2012/11/guide-esnext.html) > [What are your favorite JavaScript ES6 features?](http://www.2ality.com/2015/07/favorite-es6-features.html) > [zloirock/core-js](https://github.com/zloirock/core-js)
 > Add these to `commonroom/es6/`
 
-[Better Node with ES6, Pt. I | Scotch](https://scotch.io/tutorials/better-node-with-es6-pt-i) !important
-[Better JavaScript with ES6, Pt. II: A Deep Dive into Classes | Scotch](https://scotch.io/tutorials/better-javascript-with-es6-pt-ii-a-deep-dive-into-classes) !important
-[Better JavaScript with ES6, Pt. III: Cool Collections & Slicker Strings | Scotch](https://scotch.io/tutorials/better-javascript-with-es6-pt-iii-cool-collections-slicker-strings) !important
+[Better Node with ES6, Pt. I | Scotch](https://scotch.io/tutorials/better-node-with-es6-pt-i) ❗!important
+[Better JavaScript with ES6, Pt. II: A Deep Dive into Classes | Scotch](https://scotch.io/tutorials/better-javascript-with-es6-pt-ii-a-deep-dive-into-classes) ❗!important
+[Better JavaScript with ES6, Pt. III: Cool Collections & Slicker Strings | Scotch](https://scotch.io/tutorials/better-javascript-with-es6-pt-iii-cool-collections-slicker-strings) ❗!important
 
 [Six Steps for Approaching the Next JavaScript -Telerik Developer Network](http://developer.telerik.com/featured/six-steps-for-approaching-the-next-javascript/)
 [Learn ECMAScript6 by doing it](http://es6katas.org/)

@@ -11,7 +11,19 @@ tags:
 
 [Mailconcept · Wiki · Mutt Project / mutt · GitLab](https://gitlab.com/muttmua/mutt/wikis/MailConcept)
 
+## POP
+
+[Post Office Protocol - Wikiwand](https://www.wikiwand.com/en/Post_Office_Protocol)
+[Everything You Need to Know About POP](https://www.lifewire.com/what-is-pop-post-office-protocol-1171121)
+
+## IMAP
+
+[Internet Message Access Protocol - Wikiwand](https://www.wikiwand.com/en/Internet_Message_Access_Protocol)
+[What IMAP Email Can Do for You](https://www.lifewire.com/what-does-imap-do-1166415)
+
 ## SMTP
+
+> outgoing
 
 [Simple Mail Transfer Protocol - Wikiwand](http://www.wikiwand.com/en/Simple_Mail_Transfer_Protocol)
 [RFC 5321 - Simple Mail Transfer Protocol](https://tools.ietf.org/html/rfc5321)

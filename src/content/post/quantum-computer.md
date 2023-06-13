@@ -36,6 +36,10 @@ tags:
 [量子霸權，比世界上最強的超級計算機快十五億倍的量子電腦 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=7l6BeKyLc3Y)
 [十分鐘略懂量子運算：量子物理、量子電腦、量子位元、量子閘、量子演算法與量子未來應用 - YouTube](https://www.youtube.com/watch?v=hXHrhnt2TEI)
 
+[Quantum computing in the 21st Century – with David Jamieson - YouTube](https://www.youtube.com/watch?v=zxml8UQSwC0)
+[Quantum Computers Could Solve These Problems - YouTube](https://www.youtube.com/watch?v=IhS6ecYZFdQ)
+[Superposition in Quantum Computers - Computerphile - YouTube](https://www.youtube.com/watch?v=kv-YXKRUheQ)
+
 [PLAY NETTY](https://phys.cam/game/) study on how human solved problem as quantum computers
 
 [How Does Quantum Computing Work? - ExtremeTech](https://www.extremetech.com/extreme/284306-how-quantum-computing-works)
@@ -49,7 +53,7 @@ full-scale error correction will require tens of qubits to make just one logical
 
 [Online course trains students in the bizarre world of quantum computing | Live Science](https://www.livescience.com/amp/quantum-computing-students-online-course.html)
 [[1905.00282] Quantum Computing as a High School Module](https://arxiv.org/abs/1905.00282)
-[Quantum Algorithm Implementations for Beginners | ACM Transactions on Quantum Computing](https://dl.acm.org/doi/10.1145/3517340)
+[Quantum Algorithm Implementations for Beginners | ACM Transactions on Quantum Computing](https://dl.acm.org/doi/10.1145/3517340)
 
 [A stitch in time: How a quantum physicist invented new code from old tricks](https://phys.org/news/2020-05-quantum-physicist-code.amp)
 [Chinese Researchers Achieve Stunning Quantum Entanglement Record](https://www.livescience.com/63067-quantum-entanglement-record-china.html)
@@ -71,7 +75,7 @@ full-scale error correction will require tens of qubits to make just one logical
 
 [Explore Quantum Hardware for Free with Azure Quantum - Q# Blog](https://devblogs.microsoft.com/qsharp/explore-quantum-hardware-for-free-with-azure-quantum/)
 
-[Cirq  |  Google Quantum AI](https://quantumai.google/cirq)
+[Cirq | Google Quantum AI](https://quantumai.google/cirq)
 
 [Twist: MIT’s New Programming Language for Quantum Computing](https://scitechdaily.com/twist-mits-new-programming-language-for-quantum-computing/)
 [Meet Twist: MIT’s Quantum Programming Language - IEEE Spectrum](https://spectrum.ieee.org/quantum-programming-language-twist)

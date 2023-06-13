@@ -37,6 +37,8 @@ tags:
 
 [USB Made Simple](https://www.usbmadesimple.co.uk/index.html)
 
+[libusb](https://libusb.info/)
+
 [How does a USB keyboard work? - YouTube](https://www.youtube.com/watch?v=wdgULBpRoXk)
 [How does USB device discovery work? - YouTube](https://www.youtube.com/watch?v=N0O5Uwc3C0o)
 
@@ -93,3 +95,9 @@ End of Packet: JJ SE0
 [How to tell if your USB-C cable is USB only or supports Thunderbolt 3 | Macworld](https://www.macworld.com/article/3586187/how-to-tell-if-your-usb-c-cable-is-usb-only-or-supports-thunderbolt-3.amp.html)
 
 [Dangers of Counterfeit USB-C and Type-C Cables](http://www.belkin.com/us/Resource-Center/USB-C/USB-C-counterfeits/)
+
+## Check USB devices
+
+```sh
+sudo lsusb -t
+```

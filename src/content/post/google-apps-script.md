@@ -8,7 +8,7 @@ tags:
   - web
 ---
 
-[Apps Script | Google Developers](https://developers.google.com/apps-script/)  
+[Apps Script | Google Developers](https://developers.google.com/apps-script/)
 [Overview of Google Apps Script | Google Developers](https://developers.google.com/apps-script/overview)
 
 [Standalone Scripts | Apps Script | Google Developers](https://developers.google.com/apps-script/guides/standalone)
@@ -25,7 +25,7 @@ You can also deploy your GAS as _web service_, note access _MUST_ be granted to 
 [Reference Overview | Apps Script | Google Developers](https://developers.google.com/apps-script/reference/)
 [Apps Script API | Google Developers](https://developers.google.com/apps-script/api)
 [Built-in Google Services | Apps Script | Google Developers](https://developers.google.com/apps-script/guides/services)
-[Advanced Google services  |  Apps Script  |  Google Developers](https://developers.google.com/apps-script/guides/services/advanced) other Google services
+[Advanced Google services | Apps Script | Google Developers](https://developers.google.com/apps-script/guides/services/advanced) other Google services
 [Class ContentService | Apps Script | Google Developers](https://developers.google.com/apps-script/reference/content/content-service)
 [Properties Service | Apps Script | Google Developers](https://developers.google.com/apps-script/guides/properties)
 
@@ -109,8 +109,8 @@ clasp deploy 1 "First deployment"
 
 ## Database
 
-[JDBC  |  Apps Script  |  Google Developers](https://developers.google.com/apps-script/guides/jdbc)
-[Class Jdbc  |  Apps Script  |  Google Developers](https://developers.google.com/apps-script/reference/jdbc/jdbc)
+[JDBC | Apps Script | Google Developers](https://developers.google.com/apps-script/guides/jdbc)
+[Class Jdbc | Apps Script | Google Developers](https://developers.google.com/apps-script/reference/jdbc/jdbc)
 
 [mysql - Bulk insert to Cloud SQL by appscript using JDBC executeBatch() consuming too much time - Stack Overflow](https://stackoverflow.com/questions/57455224/bulk-insert-to-cloud-sql-by-appscript-using-jdbc-executebatch-consuming-too-mu) JDBC client is known to be slow
 

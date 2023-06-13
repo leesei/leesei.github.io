@@ -56,8 +56,8 @@ Jay Wolfe
 fastify generate app --lang=ts
 ```
 
-To use `nodemon` + `ts-node` for dev, add  
-`"start:dev": "nodemon --watch 'src/**/*.ts' --exec node --inspect -r ts-node/register src/server.ts"`  
+To use `nodemon` + `ts-node` for dev, add
+`"start:dev": "nodemon --watch 'src/**/*.ts' --exec node --inspect -r ts-node/register src/server.ts"`
 see <https://github.com/wolfejw86/blog-examples/blob/master/login-with-github-fastify/package.json>
 
 [TypeScript](https://www.fastify.io/docs/latest/Reference/TypeScript/)

@@ -1,6 +1,6 @@
 ---
 title: vcpkg
-description: "Open source C/C++ dependency manager from Microsoft"
+description: Open source C/C++ dependency manager from Microsoft
 created: 2023-05-19
 tags:
   - package-manager
@@ -26,7 +26,7 @@ vcpkg list | % { $_.Split(" ") | Select-Object -first 1 } | Where-Object { $_ -l
 To integrate to CMake, add this line _before_ `PROJECT` in `cmakelist.txt`
 
 ```cmake
-SET(CMAKE_TOOLCHAIN_FILE "C:\vcpkg\scripts\buildsystems\vcpkg")
+SET(CMAKE_TOOLCHAIN_FILE "C:/vcpkg/scripts/buildsystems/vcpkg.cmake")
 ```
 
 [Managing dependencies in a C++ project with vcpkg | Declaration of VAR](https://decovar.dev/blog/2022/10/30/cpp-dependencies-with-vcpkg/)

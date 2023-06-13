@@ -20,16 +20,7 @@ tags:
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
 
-"`" to escape ";" (like "\" in Linux)
-
-```powershell
-# show environment variables
-ls env:
-echo $Env:PATH
-echo $Env:USERPROFILE
-
-ls $Env:USERPROFILE
-```
+Use "`" to escape ";" (like "\" in Linux)
 
 [Powershell Tutorial - Tutorialspoint](https://www.tutorialspoint.com/powershell/)
 [Getting Started with PowerShell](https://www.robvanderwoude.com/powershellstart.php)
@@ -37,9 +28,11 @@ ls $Env:USERPROFILE
 [PowerShell Tutorials - Stephanos Constantinou Blog](https://www.sconstantinou.com/category/powershell-tutorials/)
 [PowerShell - Simple Talk](https://www.red-gate.com/simple-talk/sysadmin/powershell/)
 
+[Initial page - PowerShell FAQ](https://poshcode.gitbook.io/powershell-faq/)
 [PowerShell commands - PowerShell - SS64.com](https://ss64.com/ps/)
 [PowerShell Core Commands - Stephanos Constantinou Blog](https://www.sconstantinou.com/powershell-core-commands/)
 [The 16 Best PowerShell Commands (Cmdlets) You Must Know](https://www.makeuseof.com/windows-powershell-commands-cmdlets/)
+[powershell Archives - ShellHacks](https://www.shellhacks.com/tag/powershell/)
 
 [lextm/windowsterminal-shell: Install/uninstall scripts for Windows Terminal context menu items](https://github.com/lextm/windowsterminal-shell)
 [Hosting PowerShell in a Python script - PowerShell Team](https://devblogs.microsoft.com/powershell/hosting-powershell-in-a-python-script/)
@@ -74,10 +67,16 @@ Variable - Windows PowerShell variables `{Variable}`
 [Windows Environment variables - PowerShell - SS64.com](https://ss64.com/ps/syntax-env.html)
 
 ```powershell
-
+# show environment variables
 Get-Childitem env: | sort name
+ls env:
+echo $Env:PATH
+echo $Env:USERPROFILE
 
-echo $env:USERPROFILE
+# using variable
+ls $Env:USERPROFILE
+
+# set variable
 $env:Variable = 'value'
 ```
 
@@ -90,6 +89,27 @@ Persist Environment Variables
 [System.Environment]::SetEnvironmentVariable('Variable','value',[System.EnvironmentVariableTarget]::Machine)
 ```
 
+## Unix command equivalents
+
+[PowerShell equivalents for common Linux/bash commands - TheShellNut](https://mathieubuisson.github.io/powershell-linux-bash/)
+[Get-Command (Microsoft.PowerShell.Core) - PowerShell | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/get-command?view=powershell-7.3) `gcm` shows all commands adn
+[Windows: `Grep` Equivalent - CMD & PowerShell - ShellHacks](https://www.shellhacks.com/windows-grep-equivalent-cmd-powershell/)
+
+| Unix                             | Powershell                                      |
+| -------------------------------- | ----------------------------------------------- |
+| `pwd`                            | `Get-Location`                                  |
+| `ls`                             | `Get-Childitem`/`ls`                            |
+| `test -e`                        | `Test-Path`                                     |
+| `which`/`type`                   | `Get-Command`                                   |
+| `xdg-open`                       | `Start-Process`                                 |
+| `grep`                           | `findstr`/`Select-String`                       |
+| `find . -type f -iname <filter>` | `Get-ChildItem -Filter <filter> -Recurse -File` |
+| `cp`                             | `Copy-Item`/`cp`                                |
+| `rm`                             | `Remove-Item`/`rm`                              |
+| `touch`                          | `New-Item`                                      |
+| `cat`                            | `Get-Content`/`type`                            |
+| `man`                            | `Get-Help`/`help`                               |
+
 ## `CmdletBinding`
 
 [about_Functions_CmdletBindingAttribute - PowerShell | Microsoft Docs](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_functions_cmdletbindingattribute?view=powershell-7)
@@ -101,4 +121,20 @@ Persist Environment Variables
 # parsing argument
 [CmdletBinding()]
 param()
+```
+
+## Session Manager
+
+Poor-man's Tmux
+
+```powershell
+# script to setup a tmux-like environment
+# $workspace_root = $env:USERPROFILE\src\project
+$workspace_root = C:\src\project
+
+wt `
+  nt -d $workspace_root --title Project `; `
+  nt -d $workspace_root --title Project `; `
+  nt -d $env:APPDATA\ --title "App data"
+`
 ```

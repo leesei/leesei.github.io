@@ -25,8 +25,8 @@ tags:
 [Applying subschemas conditionally — Understanding JSON Schema 7.0 documentation](https://json-schema.org/understanding-json-schema/reference/conditionals.html)
 [jsonschema - Json Schema file extension - Stack Overflow](https://stackoverflow.com/questions/9391370/json-schema-file-extension) `.json` with mime type `application/schema+json`
 
-[fastify/fluent-json-schema: A fluent API to generate JSON schemas](https://github.com/fastify/fluent-json-schema) !important
-[sinclairzx81/typebox: JSON Schema Type Builder with Static Type Resolution for TypeScript](https://github.com/sinclairzx81/typebox) !important, sharing definition between JSON Schema and TypeScript
+[fastify/fluent-json-schema: A fluent API to generate JSON schemas](https://github.com/fastify/fluent-json-schema) ❗!important
+[sinclairzx81/typebox: JSON Schema Type Builder with Static Type Resolution for TypeScript](https://github.com/sinclairzx81/typebox) ❗!important, sharing definition between JSON Schema and TypeScript
 
 [JSON Schema Tool](https://jsonschema.net/home) playground, infer schema from JSON
 [JSON Schema Lint :: JSON Schema Validator](https://jsonschemalint.com/#!/version/draft-07/markup/json)
@@ -95,7 +95,7 @@ tags:
 [Joi for Node: Exploring Javascript Object Schema Validation](https://medium.com/@rossbulat/joi-for-node-exploring-javascript-object-schema-validation-50dd4b8e1b0f)
 [Joi — awesome code validation for Node.js and Express - DEV Community 👩‍💻👨‍💻](https://dev.to/itnext/joi-awesome-code-validation-for-node-js-and-express-35pk)
 
-[Handling Joi validation errors in Hapi 17 – Piotr Karpala – Medium](https://medium.com/@piotrkarpaa/handling-joi-validation-errors-in-hapi-17-26fc07448576) !important, return validation error to client
+[Handling Joi validation errors in Hapi 17 – Piotr Karpala – Medium](https://medium.com/@piotrkarpaa/handling-joi-validation-errors-in-hapi-17-26fc07448576) ❗!important, return validation error to client
 
 [Expressing complex logic in `when()` · Issue #1663 · sideway/joi](https://github.com/sideway/joi/issues/1663#issuecomment-441366556) use `when()` on schema
 
@@ -152,10 +152,24 @@ tags:
 
 ## YAML
 
-[YAML™ Specification Index](https://yaml.org/spec/)
+[YAML™ Specification Index](https://yaml.org/spec/)
 
 [PyYAML Documentation](https://pyyaml.org/wiki/PyYAMLDocumentation)
 [YAML: The Missing Battery in Python – Real Python](https://realpython.com/python-yaml/)
+
+## CUE
+
+[CUE](https://cuelang.org/)
+[Introduction | CUE](https://cuelang.org/docs/tutorials/tour/intro/)
+[Documentation | CUE](https://cuelang.org/docs/)
+[CUE Playground](https://cuelang.org/play/)
+
+[Cuetorials](https://cuetorials.com/)
+[CUE is an exciting configuration language — Bitfield Consulting](https://bitfieldconsulting.com/golang/cuelang-exciting)
+[Configuring Kubernetes with CUE · garethr.dev](https://garethr.dev/2019/04/configuring-kubernetes-with-cue/)
+
+[CUE: a data constraint language and shoo-in for Go. Marcel van Lohuizen, Google. - YouTube](https://www.youtube.com/watch?v=b3fhA12KS48)
+[GopherCon Europe 2020: Marcel van Lohuizen - Better APIs with Shareable Validation Logic - YouTube](https://www.youtube.com/watch?v=IRNluM2B4p8)
 
 ## Protocol Buffers
 

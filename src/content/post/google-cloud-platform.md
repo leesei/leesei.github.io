@@ -26,7 +26,7 @@ tags:
 [GCP Education Series](https://codelabs.developers.google.com/gcp-edu)
 [Google Cloud | Coursera](https://www.coursera.org/googlecloud)
 [Developing Applications with Google Cloud Platform | Coursera](https://www.coursera.org/specializations/developing-apps-gcp)
-[Google Cloud Platform Fundamentals: Core Infrastructure | Coursera](https://www.coursera.org/learn/gcp-fundamentals) !important, 20% GCP, 80% general knowledge
+[Google Cloud Platform Fundamentals: Core Infrastructure | Coursera](https://www.coursera.org/learn/gcp-fundamentals) ❗!important, 20% GCP, 80% general knowledge
 [Google Cloud Platform - YouTube](https://www.youtube.com/googlecloudplatform)
 
 [Cloud_OnBoard_TrainingManual](https://lp.google-mkto.com/rs/248-TPC-286/images/Cloud_OnBoard_TrainingManual.pdf)
@@ -146,7 +146,7 @@ Also provides static hosting and FaaS.
 [Documentation | Firebase](https://firebase.google.com/docs/)
 [Firebase Pricing](https://firebase.google.com/pricing)
 
-[What is Firebase? The complete story, abridged. | by Doug Stevenson | Firebase Developers | Medium](https://medium.com/firebase-developers/what-is-firebase-the-complete-story-abridged-bcc730c5f2c0) !important
+[What is Firebase? The complete story, abridged. | by Doug Stevenson | Firebase Developers | Medium](https://medium.com/firebase-developers/what-is-firebase-the-complete-story-abridged-bcc730c5f2c0) ❗!important
 [Lessons from a small Firebase project. – ITNEXT](https://itnext.io/lessons-from-a-long-week-with-firebase-b433ce8ee49e)
 [Why Frontend Developers Should Learn Firebase in 2022 - DEV Community](https://dev.to/javinpaul/why-frontend-developers-should-learn-firebase-in-2022-1kga)
 
@@ -208,3 +208,5 @@ Scalable SQL
 # AI
 
 [Cloud AI | Google Cloud](https://cloud.google.com/products/ai/)
+
+[AI Cloud Wars: Azure AI vs Vertex AI](https://analyticsindiamag.com/ai-cloud-wars-azure-vs-vertex/)

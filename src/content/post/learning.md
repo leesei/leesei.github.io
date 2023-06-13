@@ -18,7 +18,7 @@ See [[second-brain]] on how to record your knowledge
 "First-principal thinking is required to break out of iterative improvements and make order of magnitude improvements" - Simon Eskildsen
 Do learn from first-principal
 
-[Phind - The AI search engine for developers.](https://www.phind.com/)
+[Phind - The AI search engine for developers.](https://www.phind.com/) it seems to have less hallucinations
 [Learn Anything](https://learn-anything.xyz/)
 [How To Get Motivated According To Behavioral Psychology](https://hackernoon.com/how-to-get-motivated-43d3d70a95d4)
 [VideoLectures.NET - VideoLectures.NET](http://videolectures.net/)
@@ -115,7 +115,7 @@ Step 4 - Simplifying It Even More!
 Google is your friend, use it effectively.
 When researching on topics (especially technical ones), do keep note of the date of publishing, things changes quickly and what you're referring might be outdated.
 
-[Inside Search](http://www.powersearchingwithgoogle.com/)  
+[Inside Search](http://www.powersearchingwithgoogle.com/)
 [Interactive online Google tutorial and references - Google Guide](http://www.googleguide.com/)
 
 [Refine web searches - Google Search Help](https://support.google.com/websearch/answer/2466433?visit_id=1-636645980708262925-1868559454&rd=1)
@@ -223,7 +223,8 @@ Chinese:
 
 ## 守破離
 
-[「守, 破, 離」學習模式三階段 | ihower { blogging }](https://ihower.tw/blog/archives/6981)  
+[「守, 破, 離」學習模式三階段 | ihower { blogging }](https://ihower.tw/blog/archives/6981)
+
 I call for setting your goal to 破, to understand the rationale behind the rules and adopt those beneficial to you. Follow the rules by the heart, not by the letters.
 It is difficult to 守 when you don't understand what you're 守-ing.
 

@@ -8,7 +8,7 @@ tags:
   - storage
 ---
 
-[Network File System - Wikiwand](https://www.wikiwand.com/en/Network_File_System)  
+[Network File System - Wikiwand](https://www.wikiwand.com/en/Network_File_System)
 [Server Message Block - Wikiwand](https://www.wikiwand.com/en/Server_Message_Block)
 [Chapter 8. Network File System (NFS)](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/Storage_Administration_Guide/ch-nfs.html)
 
@@ -39,6 +39,8 @@ SMB2 > AFP ~ CIFS
 
 [FreeNAS is Dead Long Live TrueNAS CORE | ServeTheHome](https://www.servethehome.com/freenas-is-dead-long-live-truenas-core/)
 [TrueNAS Core will soon replace FreeNAS—and we test the beta – Ars Technica](https://arstechnica.com/gadgets/2020/07/an-easy-mode-for-zfs-we-test-the-truenas-core-12-0-beta/amp/)
+
+[Unraid vs TrueNAS - Home Lab Comparison in 2023 - Virtualization Howto](https://www.virtualizationhowto.com/2023/05/unraid-vs-truenas-home-lab-comparison-in-2023/)
 
 [What did you DO?? - The "Jellyfish Fryer" All-SSD Server - YouTube](https://www.youtube.com/watch?v=zeAce9pofvk)
 

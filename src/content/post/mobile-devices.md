@@ -14,44 +14,9 @@ tags:
 [How Do Touchscreens Work? - YouTube](https://www.youtube.com/watch?v=cFvh7qM6LdA)
 [How does Multitouch work? - YouTube](https://www.youtube.com/watch?v=4mPdNV_smWg)
 
-## Camera
-
-[The Crazy Computations Inside Your Smartphone Cameras - YouTube](https://www.youtube.com/watch?v=yY8OFp0-UZw)
-[The Chips That See: Rise of the Image Sensor - YouTube](https://www.youtube.com/watch?v=4dX2IsZDBfg)
-
 ## Tablets
 
 [测了 114 项之后，我发现平板电脑居然存在这些问题，如何买心仪的平板电脑？（上） - YouTube](https://www.youtube.com/watch?v=HR2QSSzJrgE)
-
-## Mobile APU
-
-Intel's embedded graphics are too lame for gaming.
-
-2021+ CPU:
-Zen2
-Ryzen 5 4500U 6C6T, Vega 6CU
-Ryzen 7 4700U 8C16T, Vega 7CU
-Ryzen 7 4800U 8C16T, Vega 8CU
-Zen2+
-Ryzen 5 5500U 6C12T, Vega 7CU
-Ryzen 7 5700U 8C16T, Vega 8CU @1900MHz, 15W
-Zen3
-Ryzen 7 5600U 6C12T, Vega 7CU
-Ryzen 7 5800U 8C16T, Vega 8CU
-Ryzen 7 5900HX 8C16T, Vega 8CU @2100MHz, 45W
-Zen3+
-Ryzen 5 6600U 6C12T, RDNA2 6CU
-Ryzen 7 6800U 6C12T, RDNA2 12CU
-Ryzen 9 6900HS, RDNA2 12CU, reduced power consumption
-Intel i5-1135G7 4C8T, Intel Iris Xe Graphics 80EU
-Intel i7-1195G7 4C8T, Intel Iris Xe Graphics 96EU
-Zen4
-Ryzen 7 7840U 8C16T, RDNA3 12CU @2700MHz, 15-30W
-Z1 Extreme is a 7840U without AI engine and tuned for lower power consumption
-
-680M ~= RX6400
-Vega is based on GCN architecture debuted in 2020.
-6800 series's RDNA2 is double the performance of 5800.
 
 ## Handheld Gaming PC
 
@@ -94,6 +59,12 @@ Aya Neo Air, OLED, RDNA 2
 [I DESPERATELY Wanted to Love This... - YouTube](https://www.youtube.com/watch?v=XbA6S0kdu2o)
 [AyaNeo Air / AyaNeo Air Pro Review vs Steam Deck: An OLED Handheld Masterpiece? - YouTube](https://www.youtube.com/watch?v=aei6_e5k4so)
 
+Ayaneo Air Plus, Ryzen 7 6800U, RDNA2 12CU
+[Ayaneo Air Plus Review - IGN](https://www.ign.com/articles/ayaneo-air-plus-review)
+
+Ayaneo 2, USD1100, Ryzen 7 6800U, RDNA2 12CU
+[Ayaneo 2 Review - IGN](https://www.ign.com/articles/ayaneo-2-review)
+
 ### OneXPlayer
 
 [ONEXPLAYER Official - Best Performing Handheld Game Console](https://onexplayerstore.com/)
@@ -115,6 +86,7 @@ Aya Neo Air, OLED, RDNA 2
 [I HATE being lied to… but I love the ROG Ally - YouTube](https://www.youtube.com/watch?v=qLVgr29NMA0)
 [ULTIMATE Asus ROG ALLY Performance Review - SteamDeck vs. 7840U vs 6800U - YouTube](https://www.youtube.com/watch?v=BOMiEI7ojd8) 2023-05, Ally is not very efficient at 10W
 [ROG 掌机性能分析：最强掌机来啦！ - YouTube](https://www.youtube.com/watch?v=y3-4FgTmGIQ)
+[Beware the ASUS ROG Ally Reviews - YouTube](https://www.youtube.com/watch?v=C6VuSPPkTeY) after driver update
 
 - AMD Z1 Extreme (Zen 4) 8C16T, 8+16MB cache
 - 9-30W
@@ -135,6 +107,7 @@ Aya Neo Air, OLED, RDNA 2
 - Released 2023 Q3
 
 [ASUS ROG Ally vs Steam Deck -- Deep Dive Comparison - YouTube](https://www.youtube.com/watch?v=BKhQr_Tq_DI)
+[Why the ROG Ally can't beat the Steam Deck - YouTube](https://www.youtube.com/watch?v=llOo10p1ijM)
 
 ## Handheld Retro Gaming
 

@@ -20,6 +20,8 @@ tags:
 [What Happened Before History? Human Origins - YouTube](https://www.youtube.com/watch?v=dGiQaabX3_o)
 [Denisovans: Our Mysterious Cousins That Made Us Better - YouTube](https://www.youtube.com/watch?v=ytktpNIN3OM)
 
+[Homo naledi had a brain one-third the size of humans but displayed intelligence far beyond, according to new discovery - ABC News](https://abcnews.go.com/US/homo-naledi-brain-size-humans-displayed-intelligence-new/story?id=99838407)
+
 ## Are Modern Human Better than Before?
 
 [David Epstein: Are athletes really getting faster, better, stronger? - YouTube](https://www.youtube.com/watch?v=8COaMKbNrX0)

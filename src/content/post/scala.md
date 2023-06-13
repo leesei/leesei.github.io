@@ -15,7 +15,7 @@ tags:
 
 [Tutorials - Scala Documentation](http://docs.scala-lang.org/tutorials/)
 [Guides and Overviews - Scala Documentation](http://docs.scala-lang.org/overviews/)
-[Scala School](https://twitter.github.io/scala_school/) !important
+[Scala School](https://twitter.github.io/scala_school/) ❗!important
 [Effective Scala](http://twitter.github.io/effectivescala/)
 [Scala Tutorial Through Katas | Technology Conversations](http://technologyconversations.com/2014/03/10/scala-tutorial-through-katas/)
 [Functional Programming Principles in Scala - École Polytechnique Fédérale de Lausanne | Coursera](https://www.coursera.org/learn/progfun1)

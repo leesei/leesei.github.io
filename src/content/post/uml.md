@@ -111,15 +111,15 @@ Hackery like `horizontalLineBetweenDifferentPackageAllowed` and hidden links (`-
 PlantUML also embed other tools besides UML:
 DITAA, Salt, JCCKit, Sudoku, XEarth
 
-[Drawing UML with plantuml](http://kimi.im/2014-05-17-drawing-uml-with-plantuml)  
-[PlantUML | DrawUML](http://ogom.github.io/draw_uml/plantuml/) cheat sheet  
+[Drawing UML with plantuml](http://kimi.im/2014-05-17-drawing-uml-with-plantuml)
+[PlantUML | DrawUML](http://ogom.github.io/draw_uml/plantuml/) cheat sheet
 [PlantUML Pleasantness -Messages from mrhaki](http://mrhaki.blogspot.hk/search/label/PlantUML%3APleasantness)
 [PlantUML Diagrams | SAP Blogs](https://blogs.sap.com/2017/04/27/plantuml-diagrams/)
 [PlantUML Tips and Tricks | Codit](https://www.codit.eu/blog/plantuml-tips-and-tricks/?country_sel=be)
 
-Live Editor:  
+Live Editor:
 [PlantUML Web Server](http://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000)
-[PlantUML Editor](https://plantuml-editor.kkeisuke.com/#)  
+[PlantUML Editor](https://plantuml-editor.kkeisuke.com/#)
 [PlantText UML Editor](https://www.planttext.com/)
 
 [PlantUML Viewer - Chrome Web Store](https://chrome.google.com/webstore/detail/plantuml-viewer/legbfeljfbjgfifnkmpoajgpgejojooj)
@@ -135,7 +135,7 @@ Live Editor:
 
 #### Samples
 
-[Real World PlantUML](https://real-world-plantuml.com/) gallery  
+[Real World PlantUML](https://real-world-plantuml.com/) gallery
 [ui-cs383/Class-Diagrams](https://github.com/ui-cs383/Class-Diagrams)
 [hnakamur/asciidoctor-ditaa-graphviz-plantuml-example](https://github.com/hnakamur/asciidoctor-ditaa-graphviz-plantuml-example)
 [jmbruel/basics: Basic UML concepts and diagrams in plantUML for easy modification/translation](https://github.com/jmbruel/basics)
@@ -189,6 +189,8 @@ PlantUML's weakness (and strength, sort of) is the user cannot (and need not) sp
 [Our list of online modeling tools](http://modeling-languages.com/web-based-modeling-tools/)
 
 [yEd - Graph Editor](http://www.yworks.com/products/yed)
+[JustDerb/yed-aws-palettes: yED palettes imported from https://aws.amazon.com/architecture/icons/](https://github.com/JustDerb/yed-aws-palettes)
+
 [Astah Community - Free UML Modeling tool | Astah.net](http://astah.net/editions/community)
 [Gaphor UML Modelling](http://gaphor.sourceforge.net/download.php) (Python)
 [Modelio Open Source Community](https://www.modelio.org/index.php)

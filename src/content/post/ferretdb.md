@@ -1,6 +1,6 @@
 ---
 title: MongoDB
-description: "A truly Open Source MongoDB alternative, built on Postgres"
+description: A truly Open Source MongoDB alternative, built on Postgres
 created: 2023-05-17
 tags:
   - app

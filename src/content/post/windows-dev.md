@@ -19,9 +19,9 @@ tags:
 [Windows-Readiness/AbsoluteBeginnersWin10](https://github.com/Windows-Readiness/AbsoluteBeginnersWin10)
 [Developer’s Guide to Windows 10 | Channel 9](https://channel9.msdn.com/Events/Windows/Developers-Guide-to-Windows-10-RTM)
 
-[Choose your app platform | Microsoft Docs](https://docs.microsoft.com/en-us/windows/apps/desktop/choose-your-platform)  
-[UWP vs. WPF · jbe2277/waf Wiki](https://github.com/jbe2277/waf/wiki/UWP-vs.-WPF)  
-[With Project Reunion Microsoft is Attempting to Unify Win32 and UWP APIs](https://www.infoq.com/news/2020/05/microsoft-project-reunion/)  
+[Choose your app platform | Microsoft Docs](https://docs.microsoft.com/en-us/windows/apps/desktop/choose-your-platform)
+[UWP vs. WPF · jbe2277/waf Wiki](https://github.com/jbe2277/waf/wiki/UWP-vs.-WPF)
+[With Project Reunion Microsoft is Attempting to Unify Win32 and UWP APIs](https://www.infoq.com/news/2020/05/microsoft-project-reunion/)
 non-UWP apps are called "desktop apps" in Microsoft parlance
 
 [Hosted App Model - Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2020/03/19/hosted-app-model/)
@@ -124,12 +124,12 @@ UWP uses .NET Native for release build, which compiles to machine code
 [microsoft/WindowsTemplateStudio: Windows Template Studio quickly builds a UWP app, using a wizard-based UI to turn your needs into a foundation of Windows 10 patterns and best practices.](https://github.com/Microsoft/WindowsTemplateStudio/)
 [Van Arsdel Sample App Released! - Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2019/01/18/van-arsdel-sample-app-released/)
 
-`Microsoft.Toolkit.Uwp.UI`  
+`Microsoft.Toolkit.Uwp.UI`
 [The Windows Community Toolkit - YouTube](https://www.youtube.com/watch?v=wNmzaiuDqtI)
 [windows-toolkit/WindowsCommunityToolkit: The Windows Community Toolkit is a collection of helper functions, custom controls, and app services.](https://github.com/windows-toolkit/WindowsCommunityToolkit)
 [Windows Community Toolkit Documentation - Windows Community Toolkit | Microsoft Docs](https://docs.microsoft.com/en-us/windows/communitytoolkit/)
 
-`Telerik.UI.for.UniversalWindowsPlatform`  
+`Telerik.UI.for.UniversalWindowsPlatform`
 [Getting Started with Telerik UI for UWP](https://www.telerik.com/blogs/getting-started-with-telerik-ui-for-uwp)
 [telerik/UI-For-UWP: This repo contains the source code for Telerik UI for Universal Windows Platform (UWP), which includes 20+ UI controls for developers building UWP applications.](https://github.com/telerik/UI-For-UWP)
 [Adaptive UI for building Windows 10 apps - UI for UWP](https://www.telerik.com/universal-windows-platform-ui)
@@ -468,20 +468,20 @@ Windows UI Library, controls and Fluent styles for applications. WinUI 3 aims to
 ### WinUI 2
 
 `Microsoft.UI.XAML`
-[Windows UI library - Windows UWP applications | Microsoft Docs](https://docs.microsoft.com/en-us/uwp/toolkits/winui/)  
+[Windows UI library - Windows UWP applications | Microsoft Docs](https://docs.microsoft.com/en-us/uwp/toolkits/winui/)
 [Getting started with the Windows UI library - Windows UWP applications | Microsoft Docs](https://docs.microsoft.com/en-us/uwp/toolkits/winui/getting-started) UWP+WinUI 2
 
 ### WinUI 3
 
 [Windows UI Library (WinUI) 3 - Windows apps | Microsoft Docs](https://docs.microsoft.com/en-us/windows/apps/winui/winui3/)
 [microsoft/Xaml-Controls-Gallery at winui3alpha](https://github.com/microsoft/Xaml-Controls-Gallery/tree/winui3alpha)
-[Building Modern & Performant Desktop Apps—Is WinUI 3.0 the Way to Go?](https://www.telerik.com/blogs/building-modern-performant-desktop-apps-winui-30-the-way-to-go)  
+[Building Modern & Performant Desktop Apps—Is WinUI 3.0 the Way to Go?](https://www.telerik.com/blogs/building-modern-performant-desktop-apps-winui-30-the-way-to-go)
 [_WinUI 3.0 Developer Experience and Tooling - Input Needed_](https://github.com/microsoft/microsoft-ui-xaml/issues/1045)
 [How Does .NET 5 Do XAML? By Decoupling It from Windows with WinUI 3, C#/WinRT and More -- Visual Studio Magazine](https://visualstudiomagazine.com/articles/2021/01/11/xaml-net5.aspx)
 [WinUI 3 Preview 3 | Windows Dev](https://devblogs.microsoft.com/pax-windows/winui-3-preview-3/)
 
 WinUI 3 is the native UI platform component that ships with the Windows App SDK (completely decoupled from Windows 10 and later SDKs).
-WinUI 3 expand the scope of WinUI to include the full Windows 10 native UI platform, which will now be fully decoupled from the UWP SDK.  
+WinUI 3 expand the scope of WinUI to include the full Windows 10 native UI platform, which will now be fully decoupled from the UWP SDK.
 So WinUI 3 + WPF ≈ UWP windows PC application
 
 To start using WinUI 3.0 developers must:

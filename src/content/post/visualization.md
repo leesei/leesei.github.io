@@ -12,7 +12,7 @@ tags:
 [Effective Data Visualisation - with Valentina D'Efilippo - YouTube](https://www.youtube.com/watch?v=MIZXqC1-VLc)
 [Foundations of Data Visualisation - Computerphile - YouTube](https://www.youtube.com/watch?v=qQ9Wu1IxsYw)
 
-[The Data Visualisation Catalogue](http://www.datavizcatalogue.com/) !important
+[The Data Visualisation Catalogue](http://www.datavizcatalogue.com/) ❗!important
 [Information is Beautiful](https://informationisbeautiful.net/)
 [The Pudding](https://pudding.cool/) visualized journalism
 [Explorable Explanations](https://explorabl.es/) interactive learning
@@ -93,16 +93,11 @@ Server-client architecture, with Python, JS, Scala, R clients
 [Making Plots In Your Terminal With Plotext - PyBites](https://pybit.es/articles/terminal-plotting-with-plotext/)
 
 [Home — VisPy](http://vispy.org/)
-[Datashader](http://datashader.org/) Accurately render even the largest data
-[HoloViews — HoloViews](http://holoviews.org/) Datashader + Bokeh
 [Visualize any Data Easily, from Notebooks to Dashboards | Scipy 2019 Tutorial | James Bednar - YouTube](https://www.youtube.com/watch?v=7deGS4IPAQ0)
-[hvPlot documentation](https://hvplot.holoviz.org/)
-[Visualization and Interactive Dashboard in Python | by Sophia Yang | Towards Data Science](https://towardsdatascience.com/visualization-and-interactive-dashboard-in-python-c2f2a88b2ba3)
 
 [pyecharts - A Python Echarts Plotting Library](http://pyecharts.org/#/)
 [pyecharts/pyecharts: 🎨 Python Echarts Plotting Library](https://github.com/pyecharts/pyecharts)
 
-[A high-level app and dashboarding solution for Python — Panel 0.11.3 documentation](https://panel.holoviz.org/)
 [RJT1990/pyflux: Open source time series library for Python](https://github.com/RJT1990/pyflux)
 
 [Welcome! — Toyplot documentation](https://toyplot.readthedocs.io/en/stable/)
@@ -111,6 +106,25 @@ Server-client architecture, with Python, JS, Scala, R clients
 [AutoViML/AutoViz: Automatically Visualize any dataset, any size with a single line of code. Created by Ram Seshadri. Collaborators Welcome. Permission Granted upon Request.](https://github.com/AutoViML/AutoViz)
 
 [Graph visualisation basics with Python Part I: Flowcharts | by Himalaya Bir Shrestha | Apr, 2022 | Towards Data Science](https://towardsdatascience.com/graph-visualisation-basics-with-python-part-i-flowcharts-6298c4f412e0)
+
+### Holoviz
+
+[High-level tools to simplify visualization in Python — HoloViz documentation](https://holoviz.org/)
+
+![](_assets/visualization/holoviz.png)
+
+[Datashader](http://datashader.org/) Accurately render even the largest data
+[HoloViews — HoloViews](http://holoviews.org/) Datashader + Bokeh
+[hvPlot documentation](https://hvplot.holoviz.org/)
+[A high-level app and dashboarding solution for Python — Panel documentation](https://panel.holoviz.org/)
+
+[How to Create a Beautiful Python Visualization Dashboard With Panel/Hvplot - YouTube](https://www.youtube.com/watch?v=uhxiXOTKzfs)
+
+[Visualize any Data Easily, from Notebooks to Dashboards | Scipy 2019 Tutorial | James Bednar - YouTube](https://www.youtube.com/watch?v=7deGS4IPAQ0) 3:06:37, pyviz + holoviz
+
+[Visualization and Interactive Dashboard in Python | by Sophia Yang | Towards Data Science](https://towardsdatascience.com/visualization-and-interactive-dashboard-in-python-c2f2a88b2ba3)
+[Visualization and Interactive Dashboard in Python: My favorite Python Viz tools — HoloViz - YouTube](https://www.youtube.com/watch?v=wlzkiGPIV3I)
+[Big Data Visualization Using Datashader in Python | How does Datashader work and why is it so fast? - YouTube](https://www.youtube.com/watch?v=U6dyIRolIhI)
 
 ### Matplotlib
 

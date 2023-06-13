@@ -98,13 +98,13 @@ Ranks other than Genus and Species is not necessary in specifying an species
 [Type species - Wikiwand](https://www.wikiwand.com/en/Type_species)
 [Type (biology) - Wikiwand](<https://www.wikiwand.com/en/Type_(biology)>)
 
-- holotype – the single specimen or illustration that the author(s) clearly indicated to be the nomenclatural type of a name
-- lectotype – a specimen or illustration designated from the original material as the nomenclatural type when there was no holotype specified or the holotype has been lost or destroyed
-- isotype – a duplicate of the holotype
-- syntype – any specimen (or illustration) cited in the original description when there is no holotype, or any one of two or more specimens simultaneously designated as types
-- paratype – any specimen (or illustration) cited in the original description that is not the holotype nor an isotype, nor one of the syntypes
-- neotype – a specimen or illustration selected to serve as nomenclatural type if no material from the original description is available
-- epitype – a specimen or illustration selected to serve as an interpretative type, usually when another kind of type does not show the critical features needed for identification
+- holotype - the single specimen or illustration that the author(s) clearly indicated to be the nomenclatural type of a name
+- lectotype - a specimen or illustration designated from the original material as the nomenclatural type when there was no holotype specified or the holotype has been lost or destroyed
+- isotype - a duplicate of the holotype
+- syntype - any specimen (or illustration) cited in the original description when there is no holotype, or any one of two or more specimens simultaneously designated as types
+- paratype - any specimen (or illustration) cited in the original description that is not the holotype nor an isotype, nor one of the syntypes
+- neotype - a specimen or illustration selected to serve as nomenclatural type if no material from the original description is available
+- epitype - a specimen or illustration selected to serve as an interpretative type, usually when another kind of type does not show the critical features needed for identification
 
 ## Phylogeny
 
@@ -122,6 +122,10 @@ Phylogenic characteristics are used to help establish taxanomic groupings.
 
 [ETE Toolkit - Analysis and Visualization of (phylogenetic) trees](http://etetoolkit.org/)
 [ete ncbiquery: Fast and handy queries to the NCBI taxonomy database](http://etetoolkit.org/documentation/ete-ncbiquery/)
+
+## Brain
+
+[An evolutionary history of the human brain, in 7 minutes - Big Think](https://bigthink.com/the-well/the-evolution-of-the-human-brain/)
 
 ## Senses
 

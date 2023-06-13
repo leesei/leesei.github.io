@@ -11,6 +11,10 @@ tags:
 
 ## Watch files
 
+[Command Line – watch and fswatch » Linux Magazine](https://www.linux-magazine.com/Issues/2022/257/The-Watchmen)
+[watch: execute a program periodically, showing output fullscreen | procps-ng Commands | Man Pages | ManKier](https://www.mankier.com/1/watch)
+[fswatch: Ask for notification when the contents of the specified files or directory hierarchies are modified. | fswatch Commands | Man Pages | ManKier](https://www.mankier.com/1/fswatch)
+
 ### `inotifywait`
 
 [Home · rvoicilas/inotify-tools Wiki](https://github.com/rvoicilas/inotify-tools/wiki)

@@ -6,10 +6,10 @@ tags:
   - comp.hardware
 ---
 
-[AnandTech: Hardware News and Tech Reviews Since 1997](http://www.anandtech.com/)  
+[AnandTech: Hardware News and Tech Reviews Since 1997](http://www.anandtech.com/)
 Replace `/show/` to `/print/` in url for single page layout.
 
-[Tom's Hardware: Hardware News, Tests and Reviews](http://www.tomshardware.com/)  
+[Tom's Hardware: Hardware News, Tests and Reviews](http://www.tomshardware.com/)
 Replace `/reviews/` to `/print/` in url for single page layout.
 
 > TODO: create userscript for the above two

@@ -21,6 +21,16 @@ tags:
 [I wrote a programming language. Here’s how you can, too.](https://www.freecodecamp.org/news/the-programming-language-pipeline-91d3f449c919/)
 [Oops, I Wrote a C++ Compiler](https://praeclarum.org/2018/08/27/oops-i-wrote-a-c-compiler.html) C/C++ compiler/interpreter in .NET
 
+[Create Your Own Programming Language Series' Articles - DEV Community](https://dev.to/jasonsbarr/series/23100)
+
+[ThePrimeagen/ts-rust-zig-deez](https://github.com/ThePrimeagen/ts-rust-zig-deez) interpreter in different languages
+
+## Just In Time Compliler
+
+[Just-in-time compilation - Wikiwand](https://www.wikiwand.com/en/Just-in-time_compilation)
+
+[Just In Time (JIT) Compilers - Computerphile - YouTube](https://www.youtube.com/watch?v=d7KHAVaX_Rs)
+
 ## Cross Compiler
 
 [Cross compiler - Wikiwand](https://www.wikiwand.com/en/Cross_compiler)
