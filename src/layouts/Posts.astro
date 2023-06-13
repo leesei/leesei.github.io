@@ -1,13 +1,13 @@
 ---
-import { SITE } from "@config";
-import { TbArrowLeft, TbArrowRight } from "react-icons/tb/index";
 import Card from "@components/Card";
 import Footer from "@components/Footer.astro";
 import Header from "@components/Header.astro";
-import Layout from "@layouts/Layout.astro";
 import LinkButton from "@components/LinkButton.astro";
+import { SITE } from "@config";
+import Layout from "@layouts/Layout.astro";
 import Main from "@layouts/Main.astro";
 import type { CollectionEntry } from "astro:content";
+import { TbArrowLeft, TbArrowRight } from "react-icons/tb/index";
 
 export interface Props {
   pageNum: number;
@@ -66,7 +66,7 @@ const next = pageNum < totalPages ? "" : "disabled";
 
 <style>
   .pagination-wrapper {
-    @apply mt-auto mb-8 flex justify-center;
+    @apply mb-8 mt-auto flex justify-center;
   }
   .disabled {
     @apply pointer-events-none select-none opacity-50 hover:text-skin-base group-hover:fill-skin-base;

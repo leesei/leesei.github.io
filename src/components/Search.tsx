@@ -1,8 +1,8 @@
-import { BiSearchAlt2 } from "react-icons/bi/index";
-import { useEffect, useRef, useState } from "react";
 import Card from "@components/Card";
-import Fuse from "fuse.js";
 import type { PostFrontmatter } from "@content/_schemas";
+import Fuse from "fuse.js";
+import { useEffect, useRef, useState } from "react";
+import { BiSearchAlt2 } from "react-icons/bi/index";
 
 export type SearchItem = {
   slug: string;
@@ -64,9 +64,9 @@ export default function SearchBar({ searchList }: Props) {
       searchParams.set("q", inputVal);
       const newRelativePathQuery =
         window.location.pathname + "?" + searchParams.toString();
-      history.pushState(null, "", newRelativePathQuery);
+      history.replaceState(null, "", newRelativePathQuery);
     } else {
-      history.pushState(null, "", window.location.pathname);
+      history.replaceState(null, "", window.location.pathname);
     }
   }, [inputVal]);
 

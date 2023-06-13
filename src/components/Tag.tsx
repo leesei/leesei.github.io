@@ -1,5 +1,5 @@
-import { RiHashtag } from "react-icons/ri/index";
 import { slugify } from "@utils/slugify";
+import { RiHashtag } from "react-icons/ri/index";
 
 interface Props {
   name: string;
@@ -9,7 +9,7 @@ interface Props {
 export default ({ name, size = "sm" }: Props) => (
   <li
     className={`tag inline-block ${
-      size === "sm" ? "my-1 underline-offset-4" : "my-3 mx-1 underline-offset-8"
+      size === "sm" ? "my-1 underline-offset-4" : "mx-1 my-3 underline-offset-8"
     }`}
   >
     <a

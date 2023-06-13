@@ -1,0 +1,20 @@
+{
+  "Insert 😴inactive": {
+    "scope": "markdown",
+    "prefix": "inactive",
+    "body": ["😴inactive"],
+    "description": "Insert 😴inactive"
+  },
+  "Insert ❗!important": {
+    "scope": "markdown",
+    "prefix": "important",
+    "body": ["❗!important"],
+    "description": "Insert ❗!important"
+  },
+  "Insert `updated` date": {
+    "scope": "yaml",
+    "prefix": "up",
+    "body": ["updated: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}", ""],
+    "description": "Insert `updated` date"
+  }
+}
