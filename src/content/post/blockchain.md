@@ -90,6 +90,8 @@ SegWit2x
 [A gentle introduction to smart contracts | Bits on blocks](https://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts/)
 
 [Home | ethereum.org](https://ethereum.org/en/)
+[Ethereum (ETH) Blockchain Explorer](https://etherscan.io/)
+
 [Gnosis Chain | Gnosis Chain](https://docs.gnosischain.com/)
 
 [Smart Contract Security with Emin Gün Sirer | Software Engineering Daily](https://softwareengineeringdaily.com/2017/10/20/4085/)

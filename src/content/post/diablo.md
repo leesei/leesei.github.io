@@ -26,7 +26,9 @@ tags:
 
 [《暗黑破坏神》到底包含了多少宗教史诗？这剧情也太高能了！ - YouTube](https://www.youtube.com/watch?v=7NWWz2dlNM4)
 [30 分鐘看懂暗黑破壞神 1 2 3 劇情 - YouTube](https://www.youtube.com/watch?v=-eI38l3F8tI)
+[一口氣看完《暗黑破壞神 4》之前的故事 Diablo - YouTube](https://www.youtube.com/watch?v=2GtCjimNlUM) 艾森巴赫
 
+[| Diablo Lore - The Story So Far | Diablo IV | Cut Soon - YouTube](https://www.youtube.com/watch?v=Kw_R11WWVsg)
 [Diablo - YouTube](https://www.youtube.com/playlist?list=PLHkNwtRZFo2hCq5k10kLmbHaaAXvmqbCq) Fandom Games
 
 [Diablo 3 - Diablo Lore Series: Part 1 (Pre Diablo 1) - YouTube](https://www.youtube.com/watch?v=5Ghu8RzsWvs)

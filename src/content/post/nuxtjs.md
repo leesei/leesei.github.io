@@ -14,6 +14,7 @@ tags:
 > TODO: remove Nuxt 2 focs
 
 [Nuxt](https://nuxt.com/) is a popular framework geared towards building server-rendered Vue applications. Nuxt 3 released in 2022-11.
+[Nuxt in 100 Seconds - YouTube](https://www.youtube.com/watch?v=dCxSsr5xuL8)
 
 [Daniel Roe - New Developer Experiences with Nuxt 3 - Vuejs Amsterdam 2022 - YouTube](https://www.youtube.com/watch?v=Xv8EtQwPs8Q)
 [danielroe/n3dium: This is a tiny, incomplete example for a paywalled content site built in Nuxt 3 for a live-coding session at Vue.js Global Summit 2022.](https://github.com/danielroe/n3dium)

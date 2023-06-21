@@ -59,6 +59,8 @@ SELECT * FROM cte1 JOIN cte2
 [SQL injection - Wikiwand](http://www.wikiwand.com/en/SQL_injection)
 [SQL injection techniques - Getting started with SQL injection - YouTube](https://www.youtube.com/watch?v=05SmIqGX4zQ)
 [Step-by-step SQL injection guide to bypassing basic login screen - Mastering SQL injection - YouTube](https://www.youtube.com/watch?v=SJgYdTckMBY)
+[Web Security Academy - SQL Injection (Long Version) - YouTube](https://www.youtube.com/playlist?list=PLuyTk2_mYISLaZC4fVqDuW_hOk0dd5rlf)
+
 [7 essential SQL Server security tips | InfoWorld](http://www.infoworld.com/article/2953834/database/7-essential-sql-server-security-tips.html#tk.ifw-infsb)
 
 [Preventing SQL Injection Attacks With Python – Real Python](https://realpython.com/prevent-python-sql-injection/)

@@ -3,8 +3,8 @@ title: Manufacturing
 description: ""
 created: 2023-06-10
 tags:
-  - science
   - manufacturing
+  - science
 ---
 
 [[chip-making]]
@@ -29,6 +29,8 @@ tags:
 
 [How credit-card size computers are made (Factory Tour) - YouTube](https://www.youtube.com/watch?v=k2C4lbbIH0c)
 
+LinusTechTips
+[Checking on my Investment in Person - Framework Laptop Factory Tour - YouTube](https://www.youtube.com/watch?v=7nXVJBGowmY)
 [I made my own RAM! - Micron Factory Tour - YouTube](https://www.youtube.com/watch?v=-EhDlXx3okU)
 
 [Why Hong Kong uses bamboo scaffolding, and meet the spider-men who climb it: a visual explainer](https://multimedia.scmp.com/infographics/culture/article/3183200/bamboo-scaffolding/index.html)

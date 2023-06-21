@@ -104,6 +104,8 @@ Jeff Geerling
 [Ansible Tower | Ansible.com](https://www.ansible.com/tower) (commercial) web UI for Ansible, with logging and status
 [ansible/awx: AWX Project](https://github.com/ansible/awx) upstream project for Tower
 
+[This web UI for Ansible is so damn useful! - YouTube](https://www.youtube.com/watch?v=NyOSoLn5T5U)
+
 [AWX Project FAQ | Ansible.com](https://www.ansible.com/products/awx-project/faq)
 [AWX » ADMIN Magazine](http://www.admin-magazine.com/Archive/2018/46/AWX)
 

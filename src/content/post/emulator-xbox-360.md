@@ -27,9 +27,13 @@ tags:
 Stranglehold 槍神, John Woo
 Army of Two
 Army of Two: 40th Days
+Red Ded Redemption
 Gears of War 2
 Gears of War 3
-Metal Gear Solid HD Collection (1-3, Solid)
+Gears of War: Judgement
+Metal Gear Solid HD Collection (1-3, Solid: Peace Walker)
+Metal Gear Solid V: Ground Zeroes
+Metal Gear Rising: Revengence
 Call of Duty 2
 Call of Duty 3
 Call of Duty 4: Modern Warfare
@@ -39,3 +43,17 @@ Call of Duty: World at War
 Call of Duty: Black Ops
 Call of Duty: Black Ops II
 Call of Duty: Black Ops III
+Wet
+
+DMC: Devil May Cry
+Dyansty Warriors: Gundam 3
+Fist of North Satr: Ken's Revenge 2
+FF XIII
+Infinite Undiscovery
+Lost Odyessy
+
+Cars
+Toy Story 3
+Banjo-Kazooie
+Banjo-Kazooie: Nuts and Bolts
+Captain America Super Soldier

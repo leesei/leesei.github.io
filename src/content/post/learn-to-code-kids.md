@@ -6,6 +6,7 @@ updated: 2023-03-29
 tags:
   - comp.lang
   - learning
+  - programmer
 ---
 
 Learn how to code for kids

@@ -26,6 +26,7 @@ tags:
 [Understanding the CSS Specifications](https://www.w3.org/Style/CSS/read)
 [5 tips to become better at CSS - DEV Community](https://dev.to/sp90/5-tips-to-become-better-at-css-3d24)
 [Modern CSS Explained For Dinosaurs – Actualize – Medium](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525)
+[Future of CSS Series' Articles - DEV Community](https://dev.to/link2twenty/series/215)
 [Getting Started with CSS | Frontend Masters | Frontend Masters](https://frontendmasters.com/courses/getting-started-css/) free, 2021-12, 03:19:50
 
 [Where is CSS4? When is it coming out? - YouTube](https://www.youtube.com/watch?v=Jtmkk6odggs)

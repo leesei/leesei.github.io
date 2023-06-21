@@ -972,28 +972,11 @@ User Accounts are authenticated and maintained by external identity provider, e.
 [Single Sign-On for Kubernetes: The Command Line Experience - The New Stack](https://thenewstack.io/single-sign-kubernetes-command-line-experience/)
 [Managing Access to All Your Clusters at Scale – The New Stack](https://thenewstack.io/managing-access-to-all-your-clusters-at-scale/)
 
-### Extended authorization model/Policy
+### Extended authorization model/
 
 > enforces policies beyond RBAC
 
-[Open Policy Agent](https://www.openpolicyagent.org/)
-[Policies - Kubernetes](https://kubernetes.io/docs/concepts/policy/)
-[Open Policy Agent Accepted as CNCF Incubation Level Project](https://www.infoq.com/news/2019/04/open-policy-agent-cncf)
-[Open Policy Agent’s Mission to Secure the Cloud – The New Stack](https://thenewstack.io/open-policy-agents-mission-to-secure-the-cloud/)
-
-[The Rego Playground](https://play.openpolicyagent.org/)
-[Open Policy Agent | How Do I Write Policies?](https://www.openpolicyagent.org/docs/latest/how-do-i-write-policies)
-[Open Policy Agent | Comparison to Other Systems](https://www.openpolicyagent.org/docs/latest/comparison-to-other-systems)
-
-[open-policy-agent/opa-docker-authz: A policy-enabled authorization plugin for Docker.](https://github.com/open-policy-agent/opa-docker-authz)
-
-[Tremolo Security, Inc. - Tremolo Security](https://www.tremolosecurity.com/)
-[Kubernetes Authorization via Open Policy Agent – ITNEXT](https://itnext.io/kubernetes-authorization-via-open-policy-agent-a9455d9d5ceb)
-[Beyond RBAC in OpenShift - Open Policy Agent - Tremolo Security](https://www.tremolosecurity.com/beyond-rbac-in-openshift-open-policy-agent/)
-[Simplify Kubernetes Security with Orchestra - Tremolo Security](https://www.tremolosecurity.com/kubernetes-security/) Orchestra Management portal
-
-[OpenShift Commons Briefing: Securing OKD at Multiple Layers - Marc Boorshtein (Tremolo Security) - YouTube](https://www.youtube.com/watch?v=hICCM7ZMf-c)
-[Open Policy Agent (OPA) with the Project’s Co-Creators](https://www.infoq.com/podcasts/open-policy-agent/)
+[[policy-management#OPA on Kubernetes]]
 
 [A Practical Guide to Setting Kubernetes Requests and Limits - Home](http://blog.kubecost.com/blog/requests-and-limits/)
 

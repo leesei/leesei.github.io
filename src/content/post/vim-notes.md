@@ -1,10 +1,11 @@
 ---
-title: Aim notes
+title: Vim notes
 description: A screen-oriented text editor originally created for the Unix operating system
 created: 2015-01-14
 updated: 2023-04-09
 tags:
   - app
+  - neovim
   - shell-tool
   - vim
 ---
@@ -123,6 +124,7 @@ ThePrimeagen
 [0 to LSP : Neovim RC From Scratch - YouTube](https://www.youtube.com/watch?v=w7i4amO_zaE)
 
 [Turn VIM into a full featured IDE with only one command - YouTube](https://www.youtube.com/watch?v=Mtgo-nP_r8Y)
+[DEBUG in Neovim. Like a BOSS. - YouTube](https://www.youtube.com/watch?v=RziPWdTzSV8)
 
 [Vim - YouTube](https://www.youtube.com/playlist?list=PLmcTCfaoOo_grgVqU7UbOx7_RG9kXPgEr) DevOps Toolbox
 

@@ -21,9 +21,8 @@ tags:
 
 [【全職獵人】無法被超越的卡片戰！40 張咒語卡相生相剋，衍生出無盡的戰鬥方法！貪婪之島的 40 張咒語卡介紹 | 四郎说动漫 - YouTube](https://www.youtube.com/watch?v=KOIv8JXuT4I)
 
-[【獵人】奇犽妹身上的黑色念能力 | 來自暗黑大陸的念?! | 作者說災難要如何解決!! | 暗黑大陸觀察日記!! - YouTube](https://www.youtube.com/watch?v=jUyv8B0aUiM)
-
-[全職獵人黑暗大陸災難資源解析 - YouTube](https://www.youtube.com/watch?v=wFWAGS0NSEU)
+[獵人 - YouTube](https://www.youtube.com/playlist?list=PLI0oExPDZ-97dLot8q1oKx8pNCtOUlz1l) 未來式 ACG
+[全職獵人 Hunter X Hunter - YouTube](https://www.youtube.com/playlist?list=PLHGtcOQ0hBC54WFgVFqf4OU3kJH03BTSA) 夢想家 DreamMaker
 
 ## Nen
 

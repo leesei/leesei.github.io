@@ -96,6 +96,7 @@ tags:
 [Polymer/lit-element: A simple base class for creating fast, lightweight web components](https://github.com/Polymer/lit-element)
 
 [Getting Started with a New Lit Project in 2023 | Bits and Pieces](https://blog.bitsrc.io/getting-started-with-a-new-lit-project-in-2023-1835ed79a9e9)
+[You can use Lit everywhere - YouTube](https://www.youtube.com/watch?v=Jy0dMy2qDMo)
 
 ## Component repos
 

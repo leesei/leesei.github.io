@@ -11,16 +11,11 @@ tags:
 
 [Mattermost: Open Source, Private Cloud Slack Alternative](https://mattermost.com/)
 [Mattermost Integrations - Powerful integrations to help your team do better work, faster.](https://integrations.mattermost.com/#privateApps)
-[Zulip](https://zulipchat.com/)
+[Zulip: Open-source team chat with topic-based threading](https://zulip.com/)
 
-[TeamMsgExtractor/msg-extractor: Extracts emails and attachments saved in Microsoft Outlook's .msg files](https://github.com/TeamMsgExtractor/msg-extractor)
+[LivingWithPixels - YouTube](https://www.youtube.com/channel/UC4rBpJF855RQuO8PrUVb68g) web design and hosting
 
-```sh
-wget http://www.matijs.net/software/msgconv/msgconvert.pl
-yinst perl-email-outlook-message
-```
-
-[LivingWithPixels - YouTube](https://www.youtube.com/channel/UC4rBpJF855RQuO8PrUVb68g)
+[[email]]
 
 ## Postage
 
@@ -176,6 +171,7 @@ History is public:
 Each account has master account SID and auth token, but it is safer to create revocable API keys and secrets per application in [Twilio Console - Project API Keys](https://www.twilio.com/console/project/api-keys).
 
 [Getting Started with Alphanumeric Sender ID for Twilio Programmable SMS – Twilio Support](https://support.twilio.com/hc/en-us/articles/223181348-Getting-Started-with-Alphanumeric-Sender-ID-for-Twilio-Programmable-SMS)
+Note: Pre-registered Alphanumeric Sender ID Required for A2P SMS in Hong Kong Effective January 1, 2022
 
 [Phone Number Verification without Regular Expression - Twilio](https://www.twilio.com/blog/2017/03/phone-number-verification-without-regular-expression.html)
 
@@ -260,53 +256,6 @@ Each account has master account SID and auth token, but it is safer to create re
 [Free Online Form Builder & Form Creator | Jotform](https://www.jotform.com/)
 
 [How to Create a Contact Form With Next.js and Netlify | CSS-Tricks](https://css-tricks.com/how-to-create-a-contact-form-with-next-js-and-netlify/)
-
-## Email Delivery
-
-[Email Delivery Service](https://sendgrid.com/) Twilio SendGrid
-
-- 100 submissions / day
-
-[All-in-One Marketing Platform for Growing Businesses](https://mailchimp.com/)
-[Transactional Email API Service For Developers | Mailgun](https://www.mailgun.com/)
-[Mailjet - Email Delivery Service for Marketing & Developer Teams](https://www.mailjet.com/)
-[All Your Digital Marketing Tools in One Place – Sendinblue](https://www.sendinblue.com/)
-
-### Form to Email
-
-[A Comparison of Static Form Providers | CSS-Tricks](https://css-tricks.com/a-comparison-of-static-form-providers/)
-
-Post to `service.com/youemail@server`, you'll get an activation/verification email first time you submit the form.
-Then you'll get a form token that can be used in lieu of the email (`service.com/token`).
-Form submitter will see the service's reCAPTCHA for anti-spamming and submit success page. Paid customer can usually customize these pages.
-
-- [Formaholic - Home](https://formaholic.com/)
-- [EmailJS](https://www.emailjs.com/)
-  - 50 submissions / month
-  - 2 email templates
-- [formmonkey](https://www.formmonkey.io/)
-  - 30 submissions / month
-  - 1 form
-- [Formspark | HTML Form to Email service](https://formspark.io/) tested
-  - [About | Formspark Documentation](https://documentation.formspark.io/)
-  - many customization, good for static site
-  - optional reCAPTCHA
-  - US\$25 for 50000 submissions
-  - 500 submissions for testing
-- [FormSubmit | A Contact Form to Email Service](https://formsubmit.co/) tested
-  - [FormSubmit Documentation](https://formsubmit.co/documentation)
-  - free!!!
-  - customize thank you page
-  - preset reCAPTCHA and success page
-- [A Contact Form to Email Service | Formspree](https://formspree.io/) tested
-  - 50 submissions / month free tier
-  - 2 linked email
-  - preset reCAPTCHA and success page
-- [Free Form to Email API | Mailthis.to](https://mailthis.to/)
-  - no reCAPTCHA?, not working?
-- [Forms setup | Netlify Docs](https://docs.netlify.com/forms/setup/#html-forms)
-
-[[google-apps-script#Sending Email]]
 
 ## Document
 

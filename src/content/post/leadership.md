@@ -4,6 +4,7 @@ description: Being a software engineering, this post focus more on software engi
 created: 2018-11-26
 tags:
   - business
+  - programmer
 ---
 
 [The only leadership theory that matters – Hacker Noon](https://hackernoon.com/the-only-leadership-theory-that-matters-601969b2003f)
@@ -259,9 +260,15 @@ Mentoring is a part of management.
 
 ## Generations
 
+I don't agree with labeling a person based on when they are born.
+But this do give hint on what they experience (life or technical) when they grew up.
+
+[Generation X, Y, and Z: Differences and characteristics - Iberdrola](https://www.iberdrola.com/talent/generation-x-y-z)
+
 Boomers: 1945-1965
-Gen X: 1965-1980
-Millennials: 1981-1996
+Gen X: 1965-1980, individualism, ambition and an addiction to work —
+Gen Y/Millennials: 1981-1996, digital natives,technology is part of their everyday lives
+Gen Z/Centennials: 1997-2012, they arrived with a tablet and a smartphone under their arms
 
 ## Time Estimation
 

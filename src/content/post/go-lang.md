@@ -1,6 +1,6 @@
 ---
 title: The Go Programming Language
-description: "Build simple, secure, scalable systems with Go"
+description: Build simple, secure, scalable systems with Go
 created: 2015-02-16
 updated: 2023-06-10
 tags:

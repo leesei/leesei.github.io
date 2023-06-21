@@ -34,6 +34,14 @@ tags:
 [The Next Programming Language - Douglas Crockford - code::dive 2022 - YouTube](https://www.youtube.com/watch?v=R2idkNdKqpQ)
 [Misty Programming Language: Contents](https://crockford.com/misty/)
 
+## Signals
+
+[The Evolution of Signals in JavaScript - DEV Community](https://dev.to/this-is-learning/the-evolution-of-signals-in-javascript-8ob)
+[Evolution of Signals in JavaScript - YouTube](https://www.youtube.com/watch?v=LzbwXj9cnVk)
+
+[A Hands-on Introduction to Fine-Grained Reactivity - DEV Community](https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf)
+[Building a Reactive Library from Scratch - DEV Community](https://dev.to/ryansolid/building-a-reactive-library-from-scratch-1i0p)
+
 ---
 
 [xstream](http://staltz.com/xstream/)

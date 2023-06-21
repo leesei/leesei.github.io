@@ -264,6 +264,18 @@ Server-client architecture, with Python, JS, Scala, R clients
 [Streamlit — the fastest way to build custom ML tools .](https://www.streamlit.io/)
 [How to use Streamlit to create beautiful ML tools - YouTube](https://www.youtube.com/watch?v=B2iAodr0fOo)
 
+[Turn Python Scripts into Beautiful ML Tools - Towards Data Science](https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace)
+[How to write Web apps using simple Python for Data Scientists?](https://towardsdatascience.com/how-to-write-web-apps-using-simple-python-for-data-scientists-a227a1a01582)
+[Serving a Machine Learning Model with FastAPI and Streamlit | TestDriven.io](https://testdriven.io/blog/fastapi-streamlit/)
+
+### Taipy
+
+[Taipy, an open-source Python library for building your web applications frontend & backend.](https://www.taipy.io/)
+[Simplify Your Process of Building Interactive Dashboards with Taipy | by Chi Nguyen | Python in Plain English](https://python.plainenglish.io/simplify-your-process-of-building-interactive-dashboards-with-taipy-1-8f1020fcc04d)
+[Elegant Dashboards for Python ML Apps using Taipy GUI | by Zaccheus Sia | Medium](https://medium.com/@zaccheussia/elegant-dashboards-for-python-ml-apps-using-taipy-gui-6e3c59d70a1f)
+
+[ODSC Webinar | How to build stunning Data Science Web applications in Python - YouTube](https://www.youtube.com/watch?v=Uo_3hEM12_8)
+
 ### plotnine
 
 [A Grammar of Graphics for Python — plotnine documentation](https://plotnine.readthedocs.io/en/stable/) floowing the Grammar of Graphics, uses Matplotlib as backend

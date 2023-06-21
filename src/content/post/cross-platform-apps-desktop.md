@@ -50,6 +50,11 @@ Rust core + TypeScript UI
 
 [tauri-apps/wry: Cross-platform WebView library in Rust for Tauri.](https://github.com/tauri-apps/wry)
 
+### Saucer
+
+[Saucer | Saucer](https://saucer.github.io/)
+[saucer/saucer: 🛸 Next-gen desktop apps with web-frontend in C++](https://github.com/saucer/saucer)
+
 ### Quasar
 
 > Vue Component framework and cross platform app framework

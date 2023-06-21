@@ -29,6 +29,7 @@ The heavy loss in the incursion of Okinawa caused US President Truman to use ato
 
 [惡魔核心的真實故事：科學家用手掰開原子彈，這不是笑話……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=9MzcKz_CsMY)
 [How The Demon Core Killed Everyone Who Touched It - YouTube](https://www.youtube.com/watch?v=rlywR2PNwCg)
+[The Plutonium Core of an Atom Bomb - Periodic Table of Videos - YouTube](https://www.youtube.com/watch?v=QLZMzsRB86E)
 
 [Thin Man (nuclear bomb) - Wikiwand](<https://www.wikiwand.com/en/Thin_Man_(nuclear_bomb)>)
 [Little Boy - Wikiwand](https://www.wikiwand.com/en/Little_Boy)

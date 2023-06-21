@@ -22,6 +22,9 @@ tags:
 
 [OSTraining - All the Joomla 3 Classes](https://www.ostraining.com/joomla-classes/)
 [The Beginners Guide to Joomla! 3](https://www.ostraining.com/class/beginner/)
+[OSTips - Joomla - YouTube](https://www.youtube.com/playlist?list=PLtaXuX0nEZk84e2Fz3L9aYPw1t3Dhfmu1)
+[Joomla 4 Videos - YouTube](https://www.youtube.com/playlist?list=PLtaXuX0nEZk-dNA7vTWhkco-b0VFIpokS)
+
 [Joomla Tutorials for Beginners - Joomla-Monster](https://www.joomla-monster.com/documentation/joomla-basics)
 [Joomla 3 Tutorials - Joomla-Monster](https://www.joomla-monster.com/documentation/joomla-tutorials)
 [Joomla Tutorials](https://www.ostraining.com/blog/joomla-cms/)

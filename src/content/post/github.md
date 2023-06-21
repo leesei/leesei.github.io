@@ -149,6 +149,7 @@ rm -rf node_modules/gh-pages/.cache
 
 [Get Started with the Future of Coding: GitHub Copilot - YouTube](https://www.youtube.com/watch?v=Fi3AJZZregI)
 [CoPilot Review: My Thoughts After 6 Months - YouTube](https://www.youtube.com/watch?v=RDd71IUIgpg)
+[GitHub Copilot Just Changed the Game - YouTube](https://www.youtube.com/watch?v=IavOJI5OV7g)
 
 [Introducing Copilot for VS Code – AngularDoc – Medium](https://medium.com/angulardoc/introducing-copilot-for-vs-code-c1b1a16bdd21)
 [前端工程师的必备 VS Code 插件 -- Copilot - 知乎](https://zhuanlan.zhihu.com/p/62929504)

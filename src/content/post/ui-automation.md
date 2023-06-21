@@ -4,6 +4,7 @@ description: ""
 created: 2023-02-16
 tags:
   - app
+  - automation
 ---
 
 [Sikuli Script - Home](http://www.sikuli.org/)

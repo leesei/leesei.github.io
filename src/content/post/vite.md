@@ -22,7 +22,6 @@ tags:
 [Vite + \_\_ | CSS-Tricks - CSS-Tricks | CSS-Tricks](https://css-tricks.com/vite-plus-blank/)
 
 [A deep-dive on Vite featuring Evan You (JS Party #212) |> Changelog](https://changelog.com/jsparty/212)
-[Vitest && Slidev with Anthony Fu && Patak (JS Party #214) |> Changelog](https://changelog.com/jsparty/214)
 
 ## Comparisons
 
@@ -47,3 +46,12 @@ npm create vite@latest my-react-app -- --template react-ts
 [vitejs/awesome-vite: plugins](https://github.com/vitejs/awesome-vite#plugins)
 
 [vite-plugin-ssr](https://vite-plugin-ssr.com/)
+
+### Vitest
+
+[Vitest | A blazing fast unit test framework powered by Vite](https://vitest.dev/)
+[vitest-dev/vitest: A Vite-native test framework. It's fast!](https://github.com/vitest-dev/vitest)
+
+[Test your React hooks with Vitest efficiently](https://mayashavin.com/articles/test-react-hooks-with-vitest)
+
+[Vitest && Slidev with Anthony Fu && Patak (JS Party #214) |> Changelog](https://changelog.com/jsparty/214)

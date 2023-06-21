@@ -5,7 +5,7 @@ created: 2018-12-09
 tags:
   - anime
   - matrix
-  - movie
+  - movies
 ---
 
 [看懂《黑客帝國三部曲》也許你們根本沒看懂這個系列 - YouTube](https://www.youtube.com/watch?v=D4VSBXSpLLg)

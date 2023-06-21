@@ -282,6 +282,11 @@ Adafruit's open source derivative of MicroPython
 [NodeBots - The Rise of JS Robotics](http://nodebots.io/)
 [Cylon.js - JavaScript framework for robotics, physical computing, and the Internet of Things using Node.js](https://cylonjs.com/)
 
+### DeviceScript
+
+[DeviceScript | DeviceScript](https://microsoft.github.io/devicescript/)
+[microsoft/devicescript: TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)](https://github.com/microsoft/devicescript)
+
 ### Microvium
 
 [Microvium – Scripts for tiny devices](https://microvium.com/)
@@ -628,15 +633,16 @@ RP2040
 
 [Meet Raspberry Silicon: Raspberry Pi Pico now on sale at $4 - Raspberry Pi](https://www.raspberrypi.org/blog/raspberry-pi-silicon-pico-now-on-sale/)
 [Raspberry Pi Pico W: your $6 IoT platform - Raspberry Pi](https://www.raspberrypi.com/news/raspberry-pi-pico-w-your-6-iot-platform/) adds Wifi
-[Buy a Raspberry Pi Pico – Raspberry Pi](https://www.raspberrypi.org/products/raspberry-pi-pico/)
-
 [Raspberry Pi Documentation - Raspberry Pi Pico and Pico W](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
 [Getting started with Raspberry Pi Pico - Introduction | Raspberry Pi Projects](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/)
+
+[Raspberry Pi Documentation - Pico C SDK](https://www.raspberrypi.com/documentation/pico-sdk/)
+[Raspberry Pi Documentation - MicroPython](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
+
 [Raspberry Pi Enters Microcontroller Game With $4 Pico | Hackaday](https://hackaday.com/2021/01/20/raspberry-pi-enters-microcontroller-game-with-4-pico/)
 [Raspberry Pi Pico: Tutorials, Pinout, Everything You Need to Know | Tom's Hardware](https://www.tomshardware.com/amp/news/raspberry-pi-pico-tutorials-pinout-everything-you-need-to-know)
 
 [The new Raspberry Pi Pico W is just $6 - YouTube](https://www.youtube.com/watch?v=VEWdxvIphnI)
-
 [How to Use VSCode with Raspberry Pi Pico W and MicroPython - YouTube](https://www.youtube.com/watch?v=O6lkYTfcMEg)
 
 ## AllWinner

@@ -47,12 +47,16 @@ living off the land (using tools at victim machine)
 
 ## DevSecOps
 
+[What Is DevSecOps?](https://saucelabs.com/resources/blog/bringing-security-into-every-stage-of-development-with-devsecops)
+
 - Code scan
 - Low risk scan
 - Runtime scan
 
 [Security as Code Protects Rapidly Developing Cloud Native Architectures - The New Stack](https://thenewstack.io/security-as-code-protects-rapidly-developing-cloud-native-architectures/)
 [Product | Security as Code - oak9](https://oak9.io/product/security-as-code/)
+
+[DevSecOps Tools | Atlassian](https://www.atlassian.com/devops/devops-tools/devsecops-tools)
 
 ## Courses/Videos
 
@@ -76,6 +80,10 @@ living off the land (using tools at victim machine)
 [John Hammond - YouTube](https://www.youtube.com/@_JohnHammond)
 [NetworkChuck - YouTube](https://www.youtube.com/c/NetworkChuck)
 [Ethical Hacking Full Course - Learn Ethical Hacking in 10 Hours | Ethical Hacking Tutorial | Edureka - YouTube](https://www.youtube.com/watch?v=dz7Ntp7KQGA)
+
+[David Bombal - YouTube](https://www.youtube.com/@davidbombal)
+[The best Hacking Courses & Certs (not all these)? Your roadmap to Pentester success. - YouTube](https://www.youtube.com/watch?v=Zfz3ZN2dTDM)
+[2023 Roadmap to Master Hacker - YouTube](https://www.youtube.com/watch?v=NXpeXn0SKPU)
 
 Google CTF
 [PwnFunction - YouTube](https://www.youtube.com/c/PwnFunction)
@@ -104,8 +112,13 @@ Google CTF
 [What Is SPDX and How Does It Work? | Synopsys](https://www.synopsys.com/glossary/what-is-spdx.html)
 
 [OWASP CycloneDX Software Bill of Materials (SBOM) Standard](https://cyclonedx.org/)
+[CycloneDX Specification Overview](https://cyclonedx.org/specification/overview/)
+
+[Dependency submission - GitHub Docs](https://docs.github.com/en/rest/dependency-graph/dependency-submission?apiVersion=2022-11-28)
 
 [Software Identification (SWID) Tagging | CSRC](https://csrc.nist.gov/projects/Software-Identification-SWID)
+
+[The First Kubernetes Bill of Materials Standard Arrives - The New Stack](https://thenewstack.io/the-first-kubernetes-bill-of-materials-standard-arrives/)
 
 [npm audit: Broken by Design — Overreacted](https://overreacted.io/npm-audit-broken-by-design/) audit tools should not cause noise
 
@@ -156,6 +169,9 @@ Google CTF
 [IPS inline mode](https://suricata.readthedocs.io/en/latest/setting-up-ipsinline-for-linux.html)
 
 [Snort - Network Intrusion Detection & Prevention System](https://www.snort.org/)
+
+[CrowdSec - The open-source & collaborative security suite](https://www.crowdsec.net/)
+[How to Install and Configure CrowdSec on OPNsense](https://homenetworkguy.com/how-to/install-and-configure-crowdsec-on-opnsense/)
 
 ### KASM
 
@@ -335,6 +351,8 @@ SHODAN
 
 [Writing buffer overflow exploits - a tutorial for beginners](http://www.eecis.udel.edu/~bmiller/cis459/2007s/readings/buff-overflow.html)
 
+[HACKED! How a Buffer Overflow Exploit works, plus Code Red! - YouTube](https://www.youtube.com/watch?v=7YRyFMv-tY8)
+
 ## Timing attacks
 
 [A Lesson In Timing Attacks (or, Don’t use MessageDigest.isEquals) | codahale.com](https://codahale.com/a-lesson-in-timing-attacks/)
@@ -374,6 +392,7 @@ Use time difference in array comparison to brute force the digest byte by byte.
 [Stuxnet - Wikiwand](http://www.wikiwand.com/en/Stuxnet)
 [Stuxnet: a 3-Parts Series | Curious Minds - Curious Minds Podcast](http://www.cmpod.net/stuxnet-the-malware-that-struck-the-iranian-nuclear-program-pt-1/)
 [Stuxnet: Advanced Persistent Threat - Ran Levi](http://www.cmpod.net/all-transcripts/stuxnet-the-malware-that-struck-the-iranian-nuclear-program-text/)
+[The Most Sophisticated Malware Ever Made (That We Know Of)🎙Darknet Diaries Ep. 29: Stuxnet - YouTube](https://www.youtube.com/watch?v=9DCwyuH29SI)
 
 ## Row Hammering//Drammer/RAMpage
 

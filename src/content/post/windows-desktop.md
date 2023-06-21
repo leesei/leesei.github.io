@@ -25,7 +25,8 @@ tags:
 [Windows 10 | Windows Central](https://www.windowscentral.com/windows-10)
 
 [Sysinternals Utilities - Windows Sysinternals | Microsoft Docs](https://docs.microsoft.com/en-us/sysinternals/downloads/)
-[Get Files‎ - Microsoft Store](https://www.microsoft.com/en-us/p/files/9nghp3dx8hdx?rtc=1&activetab=pivot:overviewtab)
+[Files App - Microsoft Store Apps](https://apps.microsoft.com/store/detail/files-app/9NGHP3DX8HDX)
+[SetUserFTA: UserChoice Hash defeated – Set File Type Associations per User or Group on Windows 8/10 and 2012/2016/2019 – the kolbicz blog](https://kolbi.cz/blog/2017/10/25/setuserfta-userchoice-hash-defeated-set-file-type-associations-per-user/)
 
 ## CLI
 

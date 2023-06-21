@@ -26,6 +26,7 @@ tags:
 [Astro Crash Course in 20 Minutes! - YouTube](https://www.youtube.com/watch?v=zrPVTf761OI) 2022-12
 [Astro Crash Course - YouTube](https://www.youtube.com/watch?v=Oi9z5gfIHJs) 2022-08, 1:35
 [Astro Crash Course - YouTube](https://www.youtube.com/playlist?list=PLtLXFsdHI8JSX0qJsHfMDSTR3taqvXa5S) 2021-2022
+[Astro makes websites faster & easier to build - YouTube](https://www.youtube.com/watch?v=acgIGT0J99U) 2023-06, 22:54, refactor a site using Astro components
 
 ## Server-side Rendering
 

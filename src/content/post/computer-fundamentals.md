@@ -7,18 +7,17 @@ tags:
   - comp.lang
 ---
 
-# Computer Fundamentals
+[[floating-point-number]]
+[[unicode]]
 
 [Computer Science - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 [How do computers read code? - YouTube](https://www.youtube.com/watch?v=QXjU9qTsYCc) compiling source code to machine code
+[Back to Basicss - YouTube](https://www.youtube.com/playlist?list=PLF2KJ6Gy3cZ4OSRP8GzWMd2ZPwRwmVsqp)
 
 [Programming Languages - YouTube](https://www.youtube.com/playlist?list=PL7141DE955793D3F0)
 [Hardware Basics - YouTube](https://www.youtube.com/watch?v=9-KUm9YpPm0)
 [Operating System Basics - YouTube](https://www.youtube.com/watch?v=9GDX-IyZ_C8)
 [Basics of OS | Chapter-1 | Operating System - YouTube](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhDsKg2oXhVuN5z_1ysjJyg)
-
-[[floating-point-number]]
-[[unicode]]
 
 [Imperative vs Declarative Scenarios in User Stories • Ben Mabey](http://benmabey.com/2008/05/19/imperative-vs-declarative-scenarios-in-user-stories.html)
 [Threads vs. Processes: A Look At How They Work Within Your Program](https://www.backblaze.com/blog/whats-the-diff-programs-processes-and-threads/)
@@ -73,6 +72,66 @@ Computerphile
 [EXTRA BITS: Loops, Ackermann & Recursion - Computerphile - YouTube](https://www.youtube.com/watch?v=DVG5G1V8Zx0)
 [Tail Recursion Explained - Computerphile - YouTube](https://www.youtube.com/watch?v=_JtPhF8MshA)
 [Recursion 'Super Power' (in Python) - Computerphile - YouTube](https://www.youtube.com/watch?v=8lhxIOAfDss)
+
+## Race Condition
+
+[Safety and Speed Issues with Threads. (pthreads, mutex, locks) - YouTube](https://www.youtube.com/watch?v=9axu8CUvOKY)
+[Making variables atomic in C - YouTube](https://www.youtube.com/watch?v=_xX25ThomIo)
+
+## Concurrency and Parallelism
+
+[[go-lang#Concurrency]]
+[[python-notes#Concurrency]]
+[[rust#Async/Future]]
+
+Concurrency:
+
+- composition of independently executing processes
+- multiple tasks
+- about _dealing_ with lots of things at once, about structure
+
+Parallelism:
+
+- simultaneous execution of computations
+- multiple processing units
+- about _doing_ lots of things at once, about execution
+- Concurrency is a _prerequisite_ (Parallelism implies Concurrency)
+- Concurrency is a _prerequisite_ (Parallelism implies Concurrency)
+
+[Embarrassingly parallel - Wikiwand](https://www.wikiwand.com/en/Embarrassingly_parallel)
+
+[Concurrency is not parallelism - The Go Blog](http://blog.golang.org/concurrency-is-not-parallelism)
+[The Way of the Gopher. Making the Switch from Node.js to… | by Alexandra Bueno | Digg Data | Medium](https://medium.com/digg-data/the-way-of-the-gopher-6693db15ae1f#.h4j5b62nh)
+
+[Asynchronous vs Multithreading and Multiprocessing Programming (The Main Difference) - YouTube](https://www.youtube.com/watch?v=0vFgKr5bjWI)
+[What Color is Your Function? – journal.stuffwithstuff.com](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/) the chasm between sync and async code
+
+[Zig's I/O and Concurrency Story - King Protty - Software You Can Love 2022 - YouTube](https://www.youtube.com/watch?v=Ul8OO4vQMTw)
+Linux's epoll, BSD's kqueue, none of them worked for file IO
+Windows IOCP, proactive completion based IO, no extra syscall for polling state, no batch submission
+non of them worked great for file IO, use thread pool
+Linux io-uring, proactive completion based IO, no extra syscall for polling state, batch submission, kernel space thread pool
+porting io-uring to zig in user space
+per thread ring buffer use by many
+
+[Multitasking vs Multithreading vs Multiprocessing - YouTube](https://www.youtube.com/watch?v=Tn0u-IIBmtc)
+[Fork and Pthreads - A Guide To Get You Started with Multiprocessing - YouTube](https://www.youtube.com/watch?v=VCCCXTyJZzs)
+[Is it concurrent or parallel? - YouTube](https://www.youtube.com/watch?v=r2__Rw8vu1M)
+[Concurrency vs Parallelism - YouTube](https://www.youtube.com/watch?v=Y1pgpn2gOSg)
+
+[Seven Concurrency Models in Seven Weeks: When Threads Unravel by Paul Butcher | The Pragmatic Bookshelf](https://pragprog.com/book/pb7con/seven-concurrency-models-in-seven-weeks)
+[Thinking Concurrently: How Modern Network Applications Handle Multiple Connections | Linux Journal](https://www.linuxjournal.com/content/thinking-concurrently)
+[还在疑惑并发和并行？ - laike9m's blog](https://laike9m.com/blog/huan-zai-yi-huo-bing-fa-he-bing-xing,61/)
+[async-await: Cooperative vs Preemptive scheduling](https://kerkour.com/cooperative-vs-preemptive-scheduling/)
+
+[Parallel vs Concurrent in Node.js](http://bytearcher.com/articles/parallel-vs-concurrent/)
+[Concurrent JavaScript: It can work! | WebKit](https://webkit.org/blog/7846/concurrent-javascript-it-can-work/)
+[Concurrency model and Event Loop - JavaScript | MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/EventLoop)
+
+[Concurrency in modern programming languages: Introduction | Technorage](https://deepu.tech/concurrency-in-modern-languages/)
+[Concurrency in modern programming languages: Rust vs Go vs Java vs Node.js vs Deno | Technorage](https://deepu.tech/concurrency-in-modern-languages-final/)
+
+[The Little Book of Semaphores – Green Tea Press](https://greenteapress.com/wp/semaphores/)
 
 ## Memory Hierarchy/Memory Management
 

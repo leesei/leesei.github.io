@@ -26,6 +26,8 @@ tags:
 
 [unjs/ipx: High performance, secure and easy to use image proxy based on Sharp and libvips.](https://github.com/unjs/ipx/)
 
+[siiptuo/pio: Optimize images while maintaining the same perceived quality](https://github.com/siiptuo/pio)
+
 [JPNG.svg (Transparent PNG with JPEG Compression)](https://codepen.io/shshaw/full/LVKEdv?__cf_chl_jschl_tk__=15fe89eba4cfcd91483b5f446e2bd7e5ab144a98-1576653921-0-ARmYaylhbR0Nwzr7Mb1AyZfGpO-GnPHy5k34lS3n7FiDgdgDmphs82JUSbBitFdYosbBbcLbt3SMeNGDXfAg7qcL8aCfPc3aVx-H1FO8IE8lPAt4HL7pB9SqkIHxhSzdVtLbzZvZM_1aCFCBQYIBt4qhNpL3qNW-BW9BW7ywQXFm1hO9iZHbvT3KfbYlS7yH63F4Eh2K7encgLe89AfCvVEkoQckqI-16qekSdQt4PUznsma9fmmpgazM1G3xqO-lmc0gVczow9ykDT2FRLV3m4iCEtJgsKJN0hXf80xaSRyoz0ag-6mn7iimQf2zzl6NTU4Thbs8hz-L11V7PlL1zkjanQpR6aEoGEKHanbXEiM)
 
 # JPEG
@@ -98,6 +100,8 @@ find <folder> -type f | xargs -P$(nproc) -- imgmini -s
 
 [wuwu8ku/imgminify: imgminify](https://github.com/wuwu8ku/imgminify) bundled binaries, custom wrapper
 [robinLiu1989/webpack-imgmini: a image compress use webpack](https://github.com/robinLiu1989/webpack-imgmini)
+
+[Yuriy-Svetlov/compress-images: Minify size your images. Image compression with extension: jpg/jpeg, svg, png, gif. NodeJs](https://github.com/Yuriy-Svetlov/compress-images/)
 
 # Squoosh
 

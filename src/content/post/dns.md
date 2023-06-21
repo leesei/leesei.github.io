@@ -63,16 +63,6 @@ Secondary Name Server (NS record) for second level domains and sub-domains
 [Domain name - Wikiwand](https://www.wikiwand.com/en/Domain_name)
 [New TLDs, five years in - Domain Name Wire | Domain Name News](https://domainnamewire.com/2019/02/28/new-tlds-five-years-in/)
 
-### Migration
-
-[DNS Migration: How To Migrate Your DNS Successfully In 6 Steps - RedSwitches](https://www.redswitches.com/blog/dns-migration/)
-
-- Update info and get EPP code in old hosting (preferably 60 days before)
-- Import old hosting's email to new hosting
-- Use new hosting's the nameserver in old hosting
-  can use new hosting's mail server at this moment
-- Trigger a Domain Transfer in new hosting
-
 ## DNS spoofing/cache poisoning
 
 [DNS spoofing - Wikiwand](https://www.wikiwand.com/en/DNS_spoofing)
@@ -172,7 +162,7 @@ drill google.com
 
 ## SNI
 
-Server Name Identification (SNI), a technology used by servers hosting multiple HTTPS websites. SNI sends the domain name during the TLS ‘handshake’ that allows an HTTPS connection to be established, during which the domain name is sent in the clear.
+Server Name Identification (SNI), a technology used by servers hosting multiple HTTPS websites. SNI sends the domain name during the TLS 'handshake' that allows an HTTPS connection to be established, during which the domain name is sent in the clear.
 
 ## Resolving domain
 
@@ -200,6 +190,21 @@ Server Name Identification (SNI), a technology used by servers hosting multiple 
 [Namechk | Username, Domain & Trademark Search](https://namechk.com/)
 
 [AnalogJ/lexicon: Manipulate DNS records on various DNS providers in a standardized way.](https://github.com/AnalogJ/lexicon)
+
+### Migration
+
+[How to Transfer Your Domain to Hostinger | Hostinger Help Center](https://support.hostinger.com/en/articles/1583436-how-to-transfer-your-domain-to-hostinger)
+[How to Point a Domain to Hostinger | Hostinger Help Center](https://support.hostinger.com/en/articles/1863967-how-to-point-a-domain-to-hostinger)
+
+[DNS Migration: How To Migrate Your DNS Successfully In 6 Steps - RedSwitches](https://www.redswitches.com/blog/dns-migration/)
+
+- Update info and get EPP code in old hosting (preferably 60 days before)
+- Import old hosting's email to new hosting
+- Use new hosting's the nameserver in old hosting
+  can use new hosting's mail server at this moment
+- Trigger a Domain Transfer in new hosting
+  After transfer, you're supposed to be using the old nameserver
+  migrate gradually
 
 ### DDNS
 

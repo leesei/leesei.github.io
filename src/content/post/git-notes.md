@@ -102,7 +102,7 @@ You can always check reflog to restore commit no matter how you messed with your
 [Learn Enough Git to Be Dangerous | Learn Enough to Be Dangerous](https://www.learnenough.com/git-tutorial)
 [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction)
 
-## manual/reference
+## Manual/reference
 
 [Git - Documentation](http://git-scm.com/doc)
 [kernel.org user manual](https://www.kernel.org/pub/software/scm/git/docs/user-manual.html)
@@ -118,7 +118,7 @@ You can always check reflog to restore commit no matter how you messed with your
 [Introducing Git protocol version 2 | Google Open Source Blog](https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html)
 [Git Wire Protocol, Version 2](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/technical/protocol-v2.html)
 
-## commentary/internals
+## Commentary/Internals
 
 [Git - Plumbing and Porcelain](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain)
 [Merkle tree - Wikiwand](https://www.wikiwand.com/en/Merkle_tree)
@@ -160,12 +160,12 @@ You can always check reflog to restore commit no matter how you messed with your
 
 [Git - git-filter-branch Documentation](https://git-scm.com/docs/git-filter-branch)
 
-## bindings
+## Bindings
 
 [libgit2](https://libgit2.github.com/) [source](https://github.com/libgit2/libgit2)
 [notatestuser/gift: A wrapper for the Git CLI in Node.js](https://github.com/notatestuser/gift)
 
-## plugins
+## Plugins
 
 [[learn-to-code#Changelog]]
 
@@ -229,19 +229,6 @@ You can name you custom script as `git-mycmd`, place it in you PATH and use `git
 
 [git ready » tig, the ncurses front-end to Git](http://gitready.com/advanced/2009/07/31/tig-the-ncurses-front-end-to-git.html)
 [git? tig! | Atlassian Blogs](http://blogs.atlassian.com/2013/05/git-tig/)
-
-## `repo`
-
-[repo](https://gerrit.googlesource.com/git-repo/+/refs/heads/master/README.md)
-[Repo Command Reference | Android Open Source Project](https://source.android.com/setup/develop/repo)
-
-```sh
-# requires python
-curl https://storage.googleapis.com/git-repo-downloads/repo > repo
-chmod a+x ~/bin/repo
-```
-
-Integrates git repo with review system (Gerrit).
 
 ## Blob
 
@@ -725,49 +712,12 @@ VS Code's 3-way Merge Editor
 
 [Use vimdiff as git mergetool - Ruslan Osipov](http://www.rosipov.com/blog/use-vimdiff-as-git-mergetool/)
 
-## Monorepos
-
-> many of these discussions are on Node.js/Frontend dev
-
-[[nodejs-notes#Local Dev Dependency]]
-
-[Rush](https://rushjs.io/)
-
-[Mono-repo or multi-repo? Why choose one, when you can have both?](https://medium.com/@patrickleet/mono-repo-or-multi-repo-why-choose-one-when-you-can-have-both-e9c77bd0c668) `meta`
-[Repo style wars: mono vs multi](http://www.gigamonkeys.com/mono-vs-multi/)
-
-[Advantages of monorepos](https://danluu.com/monorepo/)
-[Pros and Cons of Using Monorepos - FOSSA](https://fossa.com/blog/pros-cons-using-monorepos/)
-[babel/monorepo.md at master · babel/babel](https://github.com/babel/babel/blob/master/doc/design/monorepo.md)
-[Monorepos: Please don’t!. Here we are at the beginning of 2019… | by Matt Klein | Medium](https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b)
-[Monorepo: please do!. You should choose a monorepo because… | by Adam Jacob | Medium](https://medium.com/@adamhjk/monorepo-please-do-3657e08a4b70)
-[Monorepos in JavaScript & TypeScript](https://www.robinwieruch.de/javascript-monorepos/)
-
-[Turborepo](https://turborepo.org/) TypeScript monorepo, caches dependencies during build
-[Learn how to build a monorepo in Next.js - LogRocket Blog](https://blog.logrocket.com/build-monorepo-next-js/)
-
-[Rush](https://rushjs.io/) by Microsoft
-
-[Nx: Smart, Extensible Build Framework](https://nx.dev/)
-[Nx Quickstart - How to Scale a JavaScript Project - YouTube](https://www.youtube.com/watch?v=VUyBY72mwrQ)
-[Building ⚛️ React Micro Frontends Monorepo with NX in 5 min | by Vitalii Shevchuk | Feb, 2022 | Level Up Coding](https://levelup.gitconnected.com/building-%EF%B8%8F-react-micro-frontends-monorepo-with-nx-10bf564f03fe)
-[Nx Quickstart - How to Scale a JavaScript Project - YouTube](https://www.youtube.com/watch?v=VUyBY72mwrQ)
-
-[martpie/next-transpile-modules: Next.js plugin to transpile code from node_modules](https://github.com/martpie/next-transpile-modules)
-[martpie/monorepo-typescript-next-the-sane-way: A monorepo example using TypeScript and Next.js](https://github.com/martpie/monorepo-typescript-next-the-sane-way)
-
 ### sparse-checkout
 
 [Git - git-sparse-checkout Documentation](https://git-scm.com/docs/git-sparse-checkout)
 [Bring your monorepo down to size with sparse-checkout - The GitHub Blog](https://github.blog/2020-01-17-bring-your-monorepo-down-to-size-with-sparse-checkout/)
 [如何在 Monorepo 透過 Git 的 Sparse Checkout 取得部分 Repo 內容 | The Will Will Web](https://blog.miniasp.com/post/2022/05/17/Down-size-your-Monorepo-with-Git-Sparse-checkouts) use cone mode
 [Partial clone | GitLab](https://docs.gitlab.com/ee/topics/git/partial_clone.html)
-
-### Meta
-
-[Developing a plugin for meta. In my last post, I introduced meta and… | by Patrick Lee Scott | Medium](https://patrickleet.medium.com/developing-a-plugin-for-meta-bd2e9c39882d)
-[mateodelnorte/meta: tool for turning many repos into a meta repo. why choose many repos or a monolithic repo, when you can have both with a meta repo?](https://github.com/mateodelnorte/meta)
-[mateodelnorte/loop: loop through commands in fun and amazing ways!](https://github.com/mateodelnorte/loop)
 
 ## submodules
 
@@ -800,7 +750,9 @@ git submodule status
 
 [git migrate from submodule to subtree | Life & Note - winterTTr](http://winterttr.me/2015/09/08/git-migrate-from-submodule-to-subtree/)
 
-## Old notes
+---
+
+# Old notes
 
 ```sh
 git checkout -b redesign

@@ -4,6 +4,7 @@ description: Automates browser, for web scraping and testing
 created: 2017-11-20
 updated: 2023-03-22
 tags:
+  - automation
   - web
   - web/browsers
   - web/scraping

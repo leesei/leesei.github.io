@@ -1143,6 +1143,7 @@ async iterator in 3.10
 [Python threading and subprocesses explained | InfoWorld](https://www.infoworld.com/article/3315121/python/python-threading-and-subprocesses-explained.html)
 [Threading in Python | Linux Journal](https://www.linuxjournal.com/content/threading-python)
 [python concurrent.futures.ProcessPoolExecutor: Performance of .submit() vs .map() - Stack Overflow](https://stackoverflow.com/questions/42074501/python-concurrent-futures-processpoolexecutor-performance-of-submit-vs-map)
+[Ultimate Python Multithreading Guide - Programming Geeks Club](https://programmingeeksclub.com/ultimate-python-multithreading-guide/)
 
 [Raymond Hettinger, Keynote on Concurrency, PyBay 2017 - YouTube](https://www.youtube.com/watch?v=9zinZmE3Ogk)
 [Raymond Hettinger Keynote — PyBay 2017 Keynote documentation](https://pybay.com/site_media/slides/raymond2017-keynote/index.html)
@@ -1165,7 +1166,7 @@ async iterator in 3.10
 [zeehio/parmap: Easy to use map and starmap python equivalents](https://github.com/zeehio/parmap)
 easier to use than `map()`, `starmap()`, with partial support
 
-> see `python-settings.md#async-io`
+> see [[python-settings#Async I/O]]
 
 ## Subprocess
 

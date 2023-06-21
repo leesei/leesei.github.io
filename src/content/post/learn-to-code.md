@@ -5,6 +5,7 @@ created: 2014-12-08
 tags:
   - comp.lang
   - learning
+  - programmer
 ---
 
 > using Google effectively is very important
@@ -16,7 +17,7 @@ tags:
 [[computer-fundamentals]]
 [[compiler]]
 
-> split `c-lang`, `nim`, `swift`, `v-lang`, `computing-fundamentals`
+> split `c-lang`, `nim`, `swift`, `v-lang`
 
 Learn how to code
 The first part covers learning in general, call for spin-off.
@@ -159,58 +160,6 @@ No framework or library is a silver bullet. But the right choice can save you a 
 [Eve](http://witheve.com/) An IDE like Medium, not Vim
 [Literate Programming and Eve](http://witheve.com/deepdives/literate.html)
 
-### Concurrency and Parallelism
-
-[[go-lang#Concurrency]]
-[[python-notes#Concurrency]]
-[[rust#Async/Future]]
-
-Concurrency:
-
-- composition of independently executing processes
-- multiple tasks
-- about _dealing_ with lots of things at once, about structure
-
-Parallelism:
-
-- simultaneous execution of computations
-- multiple processing units
-- about _doing_ lots of things at once, about execution
-- Concurrency is a prerequisite
-
-[Embarrassingly parallel - Wikiwand](https://www.wikiwand.com/en/Embarrassingly_parallel)
-
-[Concurrency is not parallelism - The Go Blog](http://blog.golang.org/concurrency-is-not-parallelism)
-[The Way of the Gopher. Making the Switch from Node.js to… | by Alexandra Bueno | Digg Data | Medium](https://medium.com/digg-data/the-way-of-the-gopher-6693db15ae1f#.h4j5b62nh)
-
-[Asynchronous vs Multithreading and Multiprocessing Programming (The Main Difference) - YouTube](https://www.youtube.com/watch?v=0vFgKr5bjWI)
-[What Color is Your Function? – journal.stuffwithstuff.com](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/) the chasm between sync and async code
-
-[Zig's I/O and Concurrency Story - King Protty - Software You Can Love 2022 - YouTube](https://www.youtube.com/watch?v=Ul8OO4vQMTw)
-Linux's epoll, BSD's kqueue, none of them worked for file IO
-Windows IOCP, proactive completion based IO, no extra syscall for polling state, no batch submission
-non of them worked great for file IO, use thread pool
-Linux io-uring, proactive completion based IO, no extra syscall for polling state, batch submission, kernel space thread pool
-porting io-uring to zig in user space
-per thread ring buffer use by many
-
-[Multitasking vs Multithreading vs Multiprocessing - YouTube](https://www.youtube.com/watch?v=Tn0u-IIBmtc)
-[Fork and Pthreads - A Guide To Get You Started with Multiprocessing - YouTube](https://www.youtube.com/watch?v=VCCCXTyJZzs)
-
-[Seven Concurrency Models in Seven Weeks: When Threads Unravel by Paul Butcher | The Pragmatic Bookshelf](https://pragprog.com/book/pb7con/seven-concurrency-models-in-seven-weeks)
-[Thinking Concurrently: How Modern Network Applications Handle Multiple Connections | Linux Journal](https://www.linuxjournal.com/content/thinking-concurrently)
-[还在疑惑并发和并行？ - laike9m's blog](https://laike9m.com/blog/huan-zai-yi-huo-bing-fa-he-bing-xing,61/)
-[async-await: Cooperative vs Preemptive scheduling](https://kerkour.com/cooperative-vs-preemptive-scheduling/)
-
-[Parallel vs Concurrent in Node.js](http://bytearcher.com/articles/parallel-vs-concurrent/)
-[Concurrent JavaScript: It can work! | WebKit](https://webkit.org/blog/7846/concurrent-javascript-it-can-work/)
-[Concurrency model and Event Loop - JavaScript | MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/EventLoop)
-
-[Concurrency in modern programming languages: Introduction | Technorage](https://deepu.tech/concurrency-in-modern-languages/)
-[Concurrency in modern programming languages: Rust vs Go vs Java vs Node.js vs Deno | Technorage](https://deepu.tech/concurrency-in-modern-languages-final/)
-
-[The Little Book of Semaphores – Green Tea Press](https://greenteapress.com/wp/semaphores/)
-
 ## Goal of Software Development
 
 Sustainably minimize lead time to business impact.
@@ -352,12 +301,15 @@ Calling convention, what register of the CPU are used
 [The Backend Engineering Show - YouTube](https://www.youtube.com/playlist?list=PLQnljOFTspQU0ICDe-cL1EwXC4GDSayKY)
 
 [Code to the Moon - YouTube](https://www.youtube.com/@codetothemoon) mostly Rust
-[Low Level Learning - YouTube](https://www.youtube.com/@LowLevelLearning)
 [fasterthanlime - YouTube](https://www.youtube.com/@fasterthanlime)
 [ThePrimeagen - YouTube](https://www.youtube.com/ThePrimeagen)
 [ThePrimeTime - YouTube](https://www.youtube.com/@ThePrimeTimeagen)
 [TechWorld with Nana - YouTube](https://www.youtube.com/@TechWorldwithNana)
-[strager - YouTube](https://www.youtube.com/@strager_) on C++ and Rust
+
+[strager - YouTube](https://www.youtube.com/@strager_) C++, Rust
+[Low Level Learning - YouTube](https://www.youtube.com/@LowLevelLearning) low level, security
+[Jacob Sorber - YouTube](https://www.youtube.com/@JacobSorber) C, embedded system
+[Dave's Garage - YouTube](https://www.youtube.com/@DavesGarage) C, Windows C, IoT
 
 [Topic:Computer programming - Wikiversity](https://en.wikiversity.org/wiki/Topic:Computer_programming)
 [10 Useful Sites for Learning How to Code](http://www.onextrapixel.com/2013/11/14/10-useful-sites-for-learning-how-to-code/)
@@ -851,6 +803,9 @@ return value: `rax` (`eax` for the lower 32 bits, `ah`/`al` for the higher and l
 [Gcc: Some Assembly Required | Hackaday](https://hackaday.com/2016/06/08/gcc-some-assembly-required/)
 [Linux: Assembly Required | Hackaday](https://hackaday.com/2016/06/14/linux-assembly-required/)
 
+Dave's Garage
+[Hello, Assembly! Retrocoding the World's Smallest Windows App in x86 ASM - YouTube](https://www.youtube.com/watch?v=b0zxIfJJLAY)
+
 [Program and Data Representation](https://uva-cs.github.io/pdr/readme.html)
 [x86-64bit-ccc-chapter.pdf](https://aaronbloomfield.github.io/pdr/book/x86-64bit-ccc-chapter.pdf)
 
@@ -905,6 +860,9 @@ History of Programming papers:
 [Learn C with these Raspberry Pi resources - The MagPi MagazineThe MagPi Magazine](https://www.raspberrypi.org/magpi/learn-c-raspberry-pi-resources/)
 [Quick Links - MindView Exceptional Learning Experiences](https://www.mindviewllc.com/quicklinks/#c) Thinking in C++ 2nd ed
 
+[Stupid C++ Tricks - YouTube](https://www.youtube.com/playlist?list=PLF2KJ6Gy3cZ6b3BS9Ep_dKYYJs2_RnEIv)
+[davepl/SafeStrings: Demos the proper use of C safe strings](https://github.com/davepl/SafeStrings)
+
 ### STL
 
 [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#main)
@@ -945,6 +903,16 @@ History of Programming papers:
 
 `clang-format -style=microsoft -dump-config > .clang-format`
 
+Disabling warning for MSVC compiler
+
+```c
+#pragma warning(push: 6387)
+#pragma warning(disable: 6387)
+// code that violate 6387
+len_t len = strnlen_s(nullprt, RSIZE_MAX);
+#pragma warning(pop: 6387)
+```
+
 ### Modern C++
 
 [Standard C++](https://isocpp.org/)
@@ -964,8 +932,10 @@ Dave's Garage
 [Learn Advanced C++ Techniques - YouTube](https://www.youtube.com/playlist?list=PLF2KJ6Gy3cZ6wvmEoUD8x7M3uwIqNbC6Z)
 
 [C/C++ - YouTube](https://www.youtube.com/playlist?list=PLJ_usHaf3fgM5vOBPY-hXAjUy6SbgE-KG) mCoding
+
 [unique_ptr: C++'s simplest smart pointer - YouTube](https://www.youtube.com/watch?v=AmjoK55h68Y)
 [unique_ptr is NOT just for heap allocations | custom deleters - YouTube](https://www.youtube.com/watch?v=mhCMtNWQ_CQ)
+[auto_ptr vs unique_ptr vs shared_ptr vs weak_ptr in C++ - GeeksforGeeks](https://www.geeksforgeeks.org/auto_ptr-unique_ptr-shared_ptr-weak_ptr-in-cpp/)
 
 [cpp-best-practices/cppbestpractices: Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.](https://github.com/cpp-best-practices/cppbestpractices)
 [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)

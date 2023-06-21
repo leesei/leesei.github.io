@@ -3,7 +3,7 @@ title: Writing Good Code
 description: ""
 created: 2023-06-10
 tags:
-  - ""
+  - programmer
 ---
 
 [[design-patterns]]

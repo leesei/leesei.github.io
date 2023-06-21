@@ -127,6 +127,14 @@ Phylogenic characteristics are used to help establish taxanomic groupings.
 
 [An evolutionary history of the human brain, in 7 minutes - Big Think](https://bigthink.com/the-well/the-evolution-of-the-human-brain/)
 
+## Tongue
+
+[大自然竟然用最柔弱的方式，塑造出最凶悍的武器……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=vaBWJsWAavA)
+
+## Skin
+
+[最詭異的器官，我們都被這個器官封裝在超能力機甲當中……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=n4TWUh4ZGhk)
+
 ## Senses
 
 [[optical-illusion]]

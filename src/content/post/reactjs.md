@@ -1736,8 +1736,6 @@ Table/Date Grid:
 
 [create-react-app/package.json at master · facebook/create-react-app](https://github.com/facebook/create-react-app/blob/master/package.json) top level linting
 [Building a Multi-CRA using Lerna and Monorepo - The Startup - Medium](https://medium.com/swlh/building-a-multi-cra-using-lerna-and-monorepo-4628de405c6b) Storybook usage, quite complicated setup
-[Zero-Config Monorepo for a React Component Library in 2019](https://medium.com/@MattBlackDev/zero-config-monorepo-for-a-react-component-library-in-2019-dd9137bdd0a6) yarn + microbundle + babel
-[philipp-spiess/react-recomponent: 🥫 Reason-style reducer components for React using ES6 classes.](https://github.com/philipp-spiess/react-recomponent) microbundle + babel
 [Making of a component library for React - By](https://hackernoon.com/making-of-a-component-library-for-react-e6421ea4e6c7) Rollup + Babel
 [How to create a React component and publish it on NPM](https://medium.com/@BrodaNoel/how-to-create-a-react-component-and-publish-it-in-npm-668ad7d363ce) Webpack + Babel
 [Bootstrapping a React library with Parcel Bundler - DEV Community 👩‍💻👨‍💻](https://dev.to/jdmg94/bootstrapping-a-react-library-with-parcel-bundler-4l50) Parcel + Babel

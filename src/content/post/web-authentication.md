@@ -10,7 +10,10 @@ tags:
   - web-token
 ---
 
-[[self-hosting#Auth Server]]
+> authorization (usually RBAC) can be integrated to authentication
+> see [[policy-management]] for fine grained control
+
+[[self-hosting#Auth Server/IAM]]
 
 [Secure authentication means moving beyond passwords | CSO Online](https://www.csoonline.com/article/3237827/password-security/ready-for-more-secure-authentication-try-these-password-alternatives-and-enhancements.html)
 
@@ -78,6 +81,8 @@ Use MAC with server nonce instead of send password, allows authentication over n
 [Auth. Built for Devs, By Devs - FusionAuth](https://fusionauth.io/) OIDC and OAuth server
 
 [Oso | Batteries-Included Authorization](https://www.osohq.com/)
+
+[Never Build Permissions Again | Permit.io](https://www.permit.io/)
 
 [Ory - Open Source Identity Solutions For Everyone](https://www.ory.sh/)
 [Welcome to Ory! | Ory](https://www.ory.sh/docs/welcome)

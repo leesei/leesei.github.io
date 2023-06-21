@@ -1,11 +1,11 @@
 ---
-title: Software Licensing (dev)
-description: ""
+title: Software Licensing
+description: Enforcing license on your software
 created: 2015-06-27
 tags:
   - app
   - dev/deploy
-  - licence
+  - license
 ---
 
 [bdrister/AquaticPrime](https://github.com/bdrister/AquaticPrime)

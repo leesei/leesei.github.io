@@ -30,6 +30,10 @@ tags:
 [Lorulean Historian](https://loruleanhistorian.tumblr.com/)
 
 [The INSANE History of the Zelda Timeline - YouTube](https://www.youtube.com/watch?v=NbQNtYNkmhM)
+[Ganondorf isn't Misunderstood - YouTube](https://www.youtube.com/watch?v=pilRju7Brt0)
+
+[How Tears of the Kingdom Fundamentally CHANGED the Zelda Timeline! - YouTube](https://www.youtube.com/watch?v=clT-KrXtUSk)
+[Tears Of The Kingdom Timeline & Story Contradictions Explained | Theory - YouTube](https://www.youtube.com/watch?v=FIZ263imET8)
 
 Commonwealth Realm
 [Zelda Theory - YouTube](https://www.youtube.com/playlist?list=PLq3whXZlAVlZ_z6wQObD9yi9TsUtx-Dkk)

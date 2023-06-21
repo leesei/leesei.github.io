@@ -104,12 +104,6 @@ See [Node modules](#node-modules) or use `nvm reinstall-packages <prev-version>`
 ## npm
 
 npm is included in node since v0.6.3
-but npm update fails to update itself (isaacs/npm#4046, isaacs/npm#4099)
-
-```sh
-# install npm manually
-curl -L https://npmjs.org/install.sh | sh
-```
 
 [The Ultimate Guide to Configuring NPM](http://stackabuse.com/the-ultimate-guide-to-configuring-npm/)
 [npm Documentation](https://docs.npmjs.com/)
@@ -118,7 +112,6 @@ curl -L https://npmjs.org/install.sh | sh
 
 [The npm Blog — Next Generation Package Management](https://blog.npmjs.org/post/178027064160/next-generation-package-management)
 [npm Commands and Features You Should Know ← Alligator.io](https://alligator.io/nodejs/npm-commands-you-should-know/)
-[npm/tink: a dependency unwinder for javascript](https://github.com/npm/tink)
 
 [sindresorhus/awesome-npm: Awesome npm resources and tips](https://github.com/sindresorhus/awesome-npm)
 
@@ -144,8 +137,9 @@ npm home lodash
 
 ### npmrc without sudo
 
-> for system installs, not needed for `nvm` > <https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md>
+> for system installs, not needed for `nvm`
 
+[guides/npm-global-without-sudo.md at main · sindresorhus/guides · GitHub](https://github.com/sindresorhus/guides/blob/main/npm-global-without-sudo.md)
 [03 - Fixing npm permissions | npm Documentation](https://docs.npmjs.com/getting-started/fixing-npm-permissions)
 
 Add this to `~/.npmrc`:
@@ -159,11 +153,6 @@ Then add this to `~/.profile` or `~/.bashrc`:
 ```
 export PATH=${HOME}/.npm-packages/bin:$PATH
 ```
-
-## GuPM
-
-[azukaar/GuPM: 🐶📦 Global Universal Project Manager -- Package manager, cli tool, scripts for all your projects and your system](https://github.com/azukaar/GuPM)
-[GuPM to manage your Node/JS project - ITNEXT](https://itnext.io/gupm-to-manage-your-node-js-project-b7664503f3de)
 
 ## `npx`
 
@@ -213,9 +202,9 @@ npm install -g doctoc markdown-tools
 # data utils
 npm install -g get-hrefs jq.node json pipeable-js yamljs
 # servers
-npm install -g ecstatic fancy-server hotel json-server live-server
+npm install -g serve fancy-server hotel json-server live-server
 # bin
-npm install -g hexo-cli rfc
+npm install -g rfc
 # log tools
 npm install -g bunyan logcat tap-spec faucet
 # license tools
@@ -674,8 +663,10 @@ React + Node.js + Prisma
 > Server Side Rendering
 
 [Appwrite - Open-Source End-to-End Backend Server](https://appwrite.io/)
+
 [Authentication - Exploring Appwrite.io with React Series - DEV Community](https://dev.to/daryllukas/authentication-exploring-appwrite-io-with-react-series-1iec)
 [Building a message board with Next.js and AppWrite - DEV Community](https://dev.to/livecycle/building-a-message-board-with-nextjs-and-appwrite-3910)
+[Building a customer support app with live chat and notifications using Next.js, Novu and Appwrite - DEV Community](https://dev.to/arshadayvid/building-a-customer-support-app-with-live-chat-and-notifications-using-nextjs-novu-and-appwrite-2fn8) `account.createEmailSession()`, `account.get()`
 
 ### WunderGraph
 

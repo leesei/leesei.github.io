@@ -57,8 +57,6 @@ tags:
 
 [10 STEAM features you didn't know about. - YouTube](https://www.youtube.com/watch?v=dzkULjGtIdk)
 
-[SteamGridDB Manager - SteamGridDB](https://www.steamgriddb.com/manager)
-
 [Playnite - video game library manager](https://playnite.link/) includes emulator
 
 [GameHub](https://tkashkin.tk/projects/gamehub/)
@@ -68,9 +66,24 @@ tags:
 
 [GameSave Manager](https://www.gamesave-manager.com/)
 
+## Game Collection
+
+[IGDB.com - Discover, Rate & Track Your Games | Contribute to the Largest Video Games Database](https://www.igdb.com/)
+[HowLongToBeat.com | Game Lengths, Backlogs and more!](https://howlongtobeat.com/)
+[Home - SteamGridDB](https://www.steamgriddb.com/)
+
+[Deals - IsThereAnyDeal](https://isthereanydeal.com/) also for tracking sales
+
+[Backloggd - A Video Game Collection Tracker](https://www.backloggd.com/)
+[The Most Underrated Gaming Website - Backloggd - YouTube](https://www.youtube.com/watch?v=lai7daRobkI)
+
+[The Backloggery](https://backloggery.com/)
+
 ### Steam OS
 
 [SteamOS](https://store.steampowered.com/steamos/buildyourown)
+[theVakhovskeIsTaken/holoiso: SteamOS 3 (Holo) archiso configuration](https://github.com/theVakhovskeIsTaken/holoiso)
+[SteamOS 3 INSTALL on ANY PC! Best Gaming Distro?? - YouTube](https://www.youtube.com/watch?v=IPg5f9xEjVE)
 
 [Can SteamOS and Steam Deck make Linux mainstream? - YouTube](https://www.youtube.com/watch?v=kZEHKQ4CmTk)
 [Windows is in Trouble... SteamOS 3.0 on Desktop - YouTube](https://www.youtube.com/watch?v=fzBCR_C26QE)

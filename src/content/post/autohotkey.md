@@ -1,12 +1,11 @@
 ---
 title: AutoHotKey
-description: ""
+description: The ultimate automation scripting language for Windows.
 created: 2023-02-16
 tags:
   - app
+  - automation
 ---
-
-> Windows
 
 [AutoHotkey](https://www.autohotkey.com/)
 [Quick Reference | AutoHotkey](https://www.autohotkey.com/docs/AutoHotkey.htm)

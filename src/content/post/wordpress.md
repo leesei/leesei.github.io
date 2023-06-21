@@ -2,6 +2,7 @@
 title: WordPress
 description: ""
 created: 2015-05-21
+updated: 2023-06-19
 tags:
   - app
   - bitnami
@@ -72,6 +73,8 @@ tags:
 [Gutenberg: The Exciting New WordPress Editor](https://www.bluehost.com/blog/gutenberg/gutenberg-the-exciting-new-wordpress-editor-9883/)
 [Gutenberg 101 :The New WordPress Editor| Bluehost](https://www.bluehost.com/blog/gutenberg/exploring-gutenberg-learning-to-navigate-the-new-wordpress-editor-10804/)
 
+[How to Use WordPress 5 and the Gutenberg Editor - YouTube](https://www.youtube.com/playlist?list=PLtaXuX0nEZk8A3nkCkuSFbB1QBptvUdAh)
+
 ## ClassicPress
 
 [ClassicPress: The CMS for Creators | Instantly Familiar](https://www.classicpress.net/)
@@ -98,17 +101,6 @@ tags:
 [Editing wp-config.php « WordPress Codex](http://codex.wordpress.org/Editing_wp-config.php)
 
 [聖公會李炳中學 | 升學及就業輔導組](http://careers.liping.edu.hk/)
-
-### Migration
-
-[How to Migrate a WordPress Site and WordPress Migration Plugins](https://www.hostinger.com/tutorials/how-to-migrate-wordpress)
-
-[7 Best WordPress Backup Plugins Compared (Pros and Cons)](https://www.wpbeginner.com/plugins/7-best-wordpress-backup-plugins-compared-pros-and-cons/)
-
-[Support : Migrate Guru](https://migrateguru.freshdesk.com/support/home)
-[Migrate Guru: Migrate & Clone WordPress Free – WordPress plugin | WordPress.org](https://wordpress.org/plugins/migrate-guru/)
-
-[All-in-One WP Migration – WordPress plugin | WordPress.org](https://wordpress.org/plugins/all-in-one-wp-migration/) export to cloud is behind pay wall
 
 ### Installing with Existing Website
 
@@ -283,18 +275,33 @@ The upload size is first limited by host (PHP/`.htaccess`), then by WordPress.
 [How to Increase the WordPress Maximum Upload File Size](https://kinsta.com/blog/wordpress-maximum-upload-file-size/)
 [Increase WordPress Upload Limit on BlueHost - Bill Erickson](https://www.billerickson.net/increase-wordpress-upload-limit-on-bluehost/)
 
-## Backup
+## Backup/Migration
 
-[WordPress › Search for backup « WordPress Plugins](https://wordpress.org/plugins/search.php?q=backup)
-[WordPress › BackUpWordPress « WordPress Plugins](https://wordpress.org/plugins/backupwordpress/)
-[WordPress › WPBackItUp Backup & Restore « WordPress Plugins](https://wordpress.org/plugins/wp-backitup/) automated restore is for Pro
-[WordPress › BackWPup Free - WordPress Backup Plugin « WordPress Plugins](https://wordpress.org/plugins/backwpup/)
-[WordPress › Backup Guard « WordPress Plugins](https://wordpress.org/plugins/backup/)
-[WordPress › All-in-One WP Migration « WordPress Plugins](https://wordpress.org/plugins/all-in-one-wp-migration/)
-[WordPress › Backup « WordPress Plugins](https://wordpress.org/plugins/backup-wp/)
+[How to Migrate a WordPress Site and WordPress Migration Plugins](https://www.hostinger.com/tutorials/how-to-migrate-wordpress)
+[WordPress Backups – WordPress.org Documentation](https://wordpress.org/documentation/article/wordpress-backups/)
+[7 Best WordPress Backup Plugins Compared (Pros and Cons)](https://www.wpbeginner.com/plugins/7-best-wordpress-backup-plugins-compared-pros-and-cons/)
+[All-in-One WP Migration vs Duplicator: Which Migration Plugin Is Best?](https://duplicator.com/all-in-one-wp-migration-vs-duplicator/)
+[WordPress backups](https://www.tedroche.com/Present/2011/wordpressbackups/WordPressBackupsSlides.html) 2011
 
-[WordPress Backups « WordPress Codex](http://codex.wordpress.org/WordPress_Backups)
-[WordPress backups](http://www.tedroche.com/Present/2011/wordpressbackups/WordPressBackupsSlides.html)
+Just do a copy of `public_html` and sqldump the database
+[MySQL Backup Restore - SiteGround Tutorials](https://world.siteground.com/tutorials/php-mysql/mysql-export/)
+
+[Search Results for “backup” | WordPress.org](https://wordpress.org/plugins/search/backup/)
+
+[Migration, Backup, Staging – WPvivid – WordPress plugin | WordPress.org](https://wordpress.org/plugins/wpvivid-backuprestore/) supports some cloud storage and FTP in free version
+[Migration, Backup, Staging – WPvivid – WordPress plugin | WordPress.org](https://wordpress.org/plugins/wpvivid-backuprestore/)
+
+export to cloud is usually behind pay wall
+[JetBackup – WP Backup, Migrate & Restore – WordPress plugin | WordPress.org](https://wordpress.org/plugins/backup/) works in low memory & shared hosting environments
+[All-in-One WP Migration – WordPress plugin | WordPress.org](https://wordpress.org/plugins/all-in-one-wp-migration/) auto-replacement of website url during import
+[Duplicator – WordPress Migration & Backup Plugin – WordPress plugin | WordPress.org](https://wordpress.org/plugins/duplicator/)
+[WP STAGING – Backup Duplicator & Migration – WordPress plugin | WordPress.org](https://wordpress.org/plugins/wp-staging/)
+
+[BackWPup – WordPress Backup Plugin – WordPress plugin | WordPress.org](https://wordpress.org/plugins/backwpup/) supports some cloud storage and FTP in free version, automated restore behind pay wall
+[Backup and Restore WordPress – Backup Plugin – WordPress plugin | WordPress.org](https://wordpress.org/plugins/wp-backitup/) automated restore behind pay wall
+
+[Migrate Guru: Migrate & Clone WordPress Free – WordPress plugin | WordPress.org](https://wordpress.org/plugins/migrate-guru/) for supported web hosting only
+[Support : Migrate Guru](https://migrateguru.freshdesk.com/support/home)
 
 ## Tips and Tricks
 

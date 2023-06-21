@@ -4,8 +4,8 @@ description: How games mechanics works, game design and how to make games, apart
 created: 2015-08-31
 updated: 2023-03-23
 tags:
-  - games
   - game-design
+  - games
 ---
 
 [[computer-graphics-software]]

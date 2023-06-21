@@ -1,7 +1,8 @@
 ---
 title: Qt
-description: ""
+description: All the tools you need for creating software applications or embedded devices
 created: 2019-09-19
+updated: 2023-06-20
 tags:
   - app
   - qml
@@ -13,23 +14,15 @@ tags:
 [Qt for Beginners - Qt Wiki](http://wiki.qt.io/Qt_for_Beginners)
 [Qt Resource Center](https://resources.qt.io/)
 
-[Legal | FAQ - Qt](https://www.qt.io/faq/)
-[Qt offering changes 2020](https://www.qt.io/blog/qt-offering-changes-2020)
-
 [Getting Started with Qt | Qt 6.5](https://doc.qt.io/qt-6/gettingstarted.html)
-[Qt Examples And Tutorials | Qt 6.5](https://doc.qt.io/qt-6/qtexamplesandtutorials.html)
-[Language Bindings - Qt Wiki](https://wiki.qt.io/Language_Bindings)
-[Complying with the Requirements of the GPL/LGPL v3 License {On-demand webinar} - YouTube](https://www.youtube.com/watch?time_continue=17&v=m7etOQfrMiM)
+[Qt for Linux/X11](https://doc.qt.io/qt-6/linux.html)
 
-[Modern looking UI with QT - Stack Overflow](https://stackoverflow.com/questions/19104957/modern-looking-ui-with-qt)
-Qt 5 gives you essentially five (5!) UI toolkits
+[Language Bindings - Qt Wiki](https://wiki.qt.io/Language_Bindings)
+[therecipe/qt: Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly](https://github.com/therecipe/qt) 😴inactive
 
 [User Interfaces | Qt 6.5](https://doc.qt.io/qt-6/topics-ui.html)
 `.ui` Files and Widgets are the same, styled by QSS
 Qt Quick and Qt Quick Controls uses QML, have different styling method (note Qt Quick Controls have v1 and v2)
-[Getting Started Programming with Qt Widgets | Qt Widgets 6.5](https://doc.qt.io/qt-6/qtwidgets-tutorials-notepad-example.html)
-[Getting Started Programming with Qt Quick | Qt 6.5](https://doc.qt.io/qt-6/qtdoc-tutorials-alarms-example.html)
-[#3 Design login Form Qt and CSS - YouTube](https://www.youtube.com/watch?v=Hsp20Gq4ihw&feature=share)
 
 [ICS Insight Blog (qt qml) | ICS](https://www.ics.com/blog/qt%20qml)
 [ICS Presentations on SlideShare](https://www.slideshare.net/ICSinc/presentations)
@@ -40,9 +33,23 @@ Qt Quick and Qt Quick Controls uses QML, have different styling method (note Qt 
 [Qt Widgets 6.5](https://doc.qt.io/qt-6/qtwidgets-index.html)
 [All Classes | Qt 6.5](https://doc.qt.io/qt-6/classes.html#)
 
-[Online Installation](https://doc.qt.io/qt-6/gettingstarted.html#online-installation)
-[Offline Installation](https://doc.qt.io/qt-6/gettingstarted.html#offline-installation)
-[Qt for Linux/X11](https://doc.qt.io/qt-6/linux.html)
+### Legal
+
+[Legal | FAQ - Qt](https://www.qt.io/faq/)
+[Qt offering changes 2020](https://www.qt.io/blog/qt-offering-changes-2020)
+[Complying with the Requirements of the GPL/LGPL v3 License {On-demand webinar} - YouTube](https://www.youtube.com/watch?v=m7etOQfrMiM)
+
+## Examples
+
+[Modern looking UI with QT - Stack Overflow](https://stackoverflow.com/questions/19104957/modern-looking-ui-with-qt)
+Qt 5 gives you essentially five (5!) UI toolkits
+
+[Qt Examples And Tutorials | Qt 6.5](https://doc.qt.io/qt-6/qtexamplesandtutorials.html)
+[djeada/Qt-Widgets: A collection of examples and reusable elements created with Qt6 widgets.](https://github.com/djeada/Qt-Widgets)
+
+[Getting Started Programming with Qt Widgets | Qt Widgets 6.5](https://doc.qt.io/qt-6/qtwidgets-tutorials-notepad-example.html)
+[Getting Started Programming with Qt Quick | Qt 6.5](https://doc.qt.io/qt-6/qtdoc-tutorials-alarms-example.html)
+[#3 Design login Form Qt and CSS - YouTube](https://www.youtube.com/watch?v=Hsp20Gq4ihw&feature=share)
 
 ## #perfmatters
 
@@ -84,11 +91,10 @@ Qt Quick and Qt Quick Controls uses QML, have different styling method (note Qt 
 [First Steps with QML | Qt 6.5](https://doc.qt.io/qt-6/qmlfirststeps.html#)
 [Tutorial – Writing QML Apps » Linux Magazine](http://www.linux-magazine.com/Issues/2018/211/Like-Qlockwork)
 
-[Toou 2D 拿来即用，为简单而生。 | Toou-2D](http://www.toou.net/)
 [Integrating Python and QML — PyQt 5 Reference Guide](https://doc.bccnsoft.com/docs/PyQt5/qml.html)
 
-[ShowFL/Toou-2D: 基于 Qt Quick(Qml) 跨平台技术打造的 2D 框架](https://github.com/ShowFL/Toou-2D)
-[therecipe/qt: Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly](https://github.com/therecipe/qt)
+[Toou 2D 拿来即用，为简单而生。 | Toou-2D](http://www.toou.net/)
+[ShowFL/Toou-2D: 基于 Qt Quick(Qml) 跨平台技术打造的 2D 框架](https://github.com/ShowFL/Toou-2D) 😴inactive
 
 [PyOtherSide Developer Guide — PyOtherSide 1.6.0 documentation](https://pyotherside.readthedocs.io/en/latest/)
 

@@ -38,6 +38,7 @@ GitHub org:
 [State Of Rust](https://forge.rust-lang.org/state-of-rust.html)
 [Five Years of Rust | Rust Blog](https://blog.rust-lang.org/2020/05/15/five-years-of-rust.html)
 
+[All Rust features explained - YouTube](https://www.youtube.com/watch?v=784JWR4oxOI)
 [Introduction to Rust Part 1 - YouTube](https://www.youtube.com/watch?v=WnWGO-tLtLA)
 [Introduction to Rust Part 2 - YouTube](https://www.youtube.com/watch?v=lLWchWTUFOQ)
 [Intel and Rust: the Future of Systems Programming: Josh Triplett - YouTube](https://www.youtube.com/watch?v=l9hM0h6IQDo)
@@ -362,6 +363,23 @@ println!("{:?}", (12, true, "hello")); // debug print
 // add `#[derive(Debug)]` to your struct to enable `{:?}` output
 ```
 
+## Rc/Arc
+
+[Optimizing Immutable Strings in Rust - DEV Community](https://dev.to/somedood/optimizing-immutable-strings-in-rust-2ahj)
+`Arc::clone()` cloning the smart pointer, `Arc::From<String>` (returns `Arc<str>`) real only reference to buffer
+[Arc in std::sync - Rust](https://doc.rust-lang.org/std/sync/struct.Arc.html)
+[Arc - Rust By Example](https://doc.rust-lang.org/rust-by-example/std/arc.html)
+
+[Use Arc Instead of Vec - YouTube](https://www.youtube.com/watch?v=A4cKi7PTJSs)
+
+- immutable data
+- for struct fields, in array or collection
+- especially those with `Clone` trait
+- `Arc` has constant time `Clone`
+- implements `Deref` trait  
+  can be used as drop-in replace of `Vec`
+- `Rc` is even lighter weight for single thread use
+
 ### Containers
 
 [Lists, Arrays, Vectors: linear containers in Python, Ruby and Rust (part 3) - DEV Community 👩‍💻👨‍💻](https://dev.to/dandyvica/lists-arrays-vectors-linear-containers-in-python-ruby-and-rust-part-3-19jc)
@@ -572,11 +590,6 @@ RUST_BACKTRACE=1 cargo build
 
 [Rust Concurrency with Alex Crichton | Software Engineering Daily](https://softwareengineeringdaily.com/2016/11/23/rust-concurrency-with-alex-crichton/) on ownership
 
-[Optimizing Immutable Strings in Rust - DEV Community](https://dev.to/somedood/optimizing-immutable-strings-in-rust-2ahj)
-`Arc::clone()` cloning the smart pointer, `Arc::From<String>` (returns `Arc<str>`) real only reference to buffer
-[Arc in std::sync - Rust](https://doc.rust-lang.org/std/sync/struct.Arc.html)
-[Arc - Rust By Example](https://doc.rust-lang.org/rust-by-example/std/arc.html)
-
 ## Ownership Model
 
 [Understanding Ownership - The Rust Programming Language](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
@@ -625,6 +638,7 @@ fn first(v: &Vec<Book>) -> &String {
 [A closer look at Ownership in Rust | Articles by thoughtram](https://blog.thoughtram.io/ownership-in-rust/)
 [Rust Mutability, Moving and Borrowing - The Straight Dope - tutorials - The Rust Programming Language Forum](https://users.rust-lang.org/t/rust-mutability-moving-and-borrowing-the-straight-dope/22166)
 [Rust's Ownership model for JavaScript developers | Articles by thoughtram](https://blog.thoughtram.io/rust/2015/05/11/rusts-ownership-model-for-javascript-developers.html)
+[Rust's Rules Are Made to Be Broken | Warp](https://www.warp.dev/blog/rules-are-made-to-be-broken)
 
 ### Lifetimes
 
@@ -988,7 +1002,6 @@ Rust has `Future` and `await` built-in but lacks an async runtime (executor), us
 use std::time:Duration;
 use tokio::time::sleep;
 
-
 #[tokio::main]
 async fn main() {
   let handles: Vec<JoinHandle<()>> = vec![]
@@ -1084,7 +1097,7 @@ async fn my_function(i: i32) {
 [Overview - The (unofficial) Rust FFI Guide](https://michael-f-bryan.github.io/rust-ffi-guide/overview.html)
 [Exposing a Rust library to C](https://www.greyblake.com/blog/2017-08-10-exposing-rust-library-to-c/)
 [Complex types with Rust’s FFI. Interop with object methods, structs… | by Jim Fleming | Jim Fleming | Medium](https://medium.com/jim-fleming/complex-types-with-rust-s-ffi-315d14619479)
-[std::boxed::Box - Rust](https://doc.rust-lang.org/stable/std/boxed/struct.Box.html#method.from_raw)
+[std::boxed::Box - Rust](https://doc.rust-lang.org/stable/std/boxed/struct.Box.html#method.from_raw) for non-cloning data
 
 [rusty-binder / rusty-binder · GitLab](https://gitlab.com/rusty-binder/rusty-binder) not maintained
 [Sean1708/rusty-cheddar: A Rust crate for automatically generating C header files from Rust source file.](https://github.com/Sean1708/rusty-cheddar) evloving to rusty-binder

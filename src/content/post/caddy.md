@@ -1,9 +1,11 @@
 ---
 title: Caddy
-description: ""
+description: Caddy 2 is a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go
 created: 2023-06-10
 tags:
-  - ""
+  - nginx
+  - reverse-proxy
+  - web
 ---
 
 ## Caddy
@@ -14,9 +16,9 @@ tags:
 
 > TODO: remove v1 docs (prior to May 2020)
 
-[Caddy - The HTTP/2 Web Server with Fully Managed SSL](https://caddyserver.com/)
-prebuild librabry from download page are [licensed differently](https://caddy.community/t/caddy-server-its-free-for-live-server/3371)
-[caddyserver/caddy: Fast, multi-platform web server with automatic HTTPS](https://github.com/caddyserver/caddy)
+[Caddy - The Ultimate Server with Automatic HTTPS](https://caddyserver.com/)
+prebuild library from download page are [licensed differently](https://caddy.community/t/caddy-server-its-free-for-live-server/3371)
+[caddyserver/caddy: Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS](https://github.com/caddyserver/caddy)
 [caddyserver/caddy-docker: Source for the official Caddy v2 Docker Image](https://github.com/caddyserver/caddy-docker)
 [caddyserver/dist: Resources for packaging and distributing Caddy](https://github.com/caddyserver/dist) systemd unit file
 

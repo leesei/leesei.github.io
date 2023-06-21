@@ -30,6 +30,15 @@ New Mind
 
 [國家教育研究院雙語詞彙、學術名詞暨辭書資訊網](https://terms.naer.edu.tw/) translations for scientific terms
 
+## Dimensional Analysis
+
+> analysis on unit
+
+[Bomb Blast Radius - Numberphile - YouTube](https://www.youtube.com/watch?v=SUnAvL-ThMs)
+[Cursed Units - YouTube](https://www.youtube.com/watch?v=kkfIXUjkYqE)
+
+[Bizarre Units used by Scientists - Sixty Symbols - YouTube](https://www.youtube.com/watch?v=hsEB65Q4kHI)
+
 ## Structural Shapes
 
 [Structural Shapes Ranked and Reviewed - Which one Wins? - YouTube](https://www.youtube.com/watch?v=cgLnADEfm6E)

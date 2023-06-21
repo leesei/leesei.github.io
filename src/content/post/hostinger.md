@@ -47,12 +47,41 @@ tags:
 [How to Install Applications Automatically on hPanel | Hostinger Help Center](https://support.hostinger.com/en/articles/1583296-how-to-install-applications-automatically-on-hpanel)
 [Which applications can you install using Auto Installer on hPanel? | Hostinger Help Center](https://support.hostinger.com/en/articles/6990738-which-applications-can-you-install-using-auto-installer-on-hpanel)
 
+## Emails
+
+[Emails | Hostinger](https://hpanel.hostinger.com/emails)
+[@<DOMAIN> | Hostinger](https://hpanel.hostinger.com/titan/<DOMAIN>/management)
+
+[How to Set Up Hostinger Email on Your Devices and Email Applications | Hostinger Help Center](https://support.hostinger.com/en/articles/4305847-how-to-set-up-hostinger-email-on-your-devices-and-email-applications)
+
+[Configure Titan on other apps using IMAP/ POP – Titan Mail](https://support.titan.email/hc/en-us/articles/900000215446-Configure-Titan-on-other-apps-using-IMAP-POP)
+[Configure Titan Mail on Gmail – Titan Mail](https://support.titan.email/hc/en-us/articles/900000215626)
+
+Host: imap.titan.email
+Encryption: SSL/TLS
+Port number: 993
+
+Host: pop.titan.email
+Encryption: SSL/TLS
+Port number: 995
+
+Host: smtp.titan.email
+Encryption: SSL/TLS
+Port number: 465
+
+### Transfer email to Hostinger
+
+[How to Migrate Email Services to Hostinger | Hostinger Help Center](https://support.hostinger.com/en/articles/5240867-how-to-migrate-email-services-to-hostinger)
+
 ## Domain Name
 
 Your must create a domain (add a Website) in Hostinger first, each domain corresponds to new account in VM and new IP address.
 Note: the Plan's Resources are shares amongst the sites
 
 [How to add a website | Hostinger Help Center](https://support.hostinger.com/en/articles/1583214-how-to-add-a-website)
+
+[Domain Overview | Hostinger](https://hpanel.hostinger.com/domain/<DOMAIN>/domain-overview)
+[DNS / Nameservers | Hostinger](https://hpanel.hostinger.com/domain/<DOMAIN>/dns)
 
 ### Creating Subdomain's Site in Hostinger
 
@@ -80,7 +109,3 @@ ns2.dns-parking.com
 
 [How to manage my DNS records on hPanel? | Hostinger Help Center](https://support.hostinger.com/en/articles/1583249-how-to-manage-my-dns-records-on-hpanel)
 [How to transfer domain to Hostinger? | Hostinger Help Center](https://support.hostinger.com/en/articles/1583436-how-to-transfer-domain-to-hostinger)
-
-### Transfer email to Hostinger
-
-[How to Migrate Email Services to Hostinger | Hostinger Help Center](https://support.hostinger.com/en/articles/5240867-how-to-migrate-email-services-to-hostinger)

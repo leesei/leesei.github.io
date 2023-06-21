@@ -193,6 +193,9 @@ Z1 Extreme is a 7840U without AI engine and tuned for lower power consumption
 Vega is based on GCN architecture debuted in 2020.
 6800 series's RDNA2 is double the performance of 5800.
 
+[I'm SHOCKED by how good RDNA3 Integrated GPUs are!!! (Beelink GTR7 PRO 7940HS Radeon 780M Review) - YouTube](https://www.youtube.com/watch?v=-8gk27GUDpc)
+[AMD's Most Powerful APU Yet! - UM790 Pro Review // Windows + ChimeraOS - YouTube](https://www.youtube.com/watch?v=saMXNkNF6j8)
+
 ### Voltage tuning
 
 [Intel Extreme Tuning Utility (XTU) Undervolting Guide - NotebookCheck.net Reviews](https://www.notebookcheck.net/Intel-Extreme-Tuning-Utility-XTU-Undervolting-Guide.272120.0.html)

@@ -26,6 +26,7 @@ tags:
 [HyperPhysics Concepts](http://hyperphysics.phy-astr.gsu.edu/hbase/)
 [Interesting Engineering](https://interestingengineering.com/)
 [SmarterEveryDay - YouTube](https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA)
+[Domain of Science - YouTube](https://www.youtube.com/@domainofscience)
 [DoS - Domain of Science - YouTube](https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A)
 
 [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)

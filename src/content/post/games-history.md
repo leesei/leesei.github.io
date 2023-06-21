@@ -15,6 +15,8 @@ tags:
 
 [I am Error - Wikiwand](https://www.wikiwand.com/en/I_am_Error)
 
+[The Entire History of Video Games - YouTube](https://www.youtube.com/watch?v=argpSxB1NQE) NeverKnowsBest, 5:59:29
+
 [Gamasutra - The Secret History of Donkey Kong](https://www.gamasutra.com/view/feature/134790/the_secret_history_of_donkey_kong.php)
 [Legends of Localization - Exploring the best & worst game translations](https://legendsoflocalization.com/)
 
@@ -49,6 +51,12 @@ tags:
 [LEGO Gaming - YouTube](https://www.youtube.com/channel/UCzVnXCLWqY5dtOBn9UZoFTw)
 [Retro LEGO Games We Miss Playing - YouTube](https://www.youtube.com/playlist?list=PLayhyO1epulQUwFkswXLzAZpNmUebwfPx)
 [Nostalgia STUDy - Lego Rock Raiders - YouTube](https://www.youtube.com/watch?v=xa5m_Vm2wMM)
+
+## Konami History
+
+[以前的科樂美有多良心？聊聊 FC 時代的 KONAMI - YouTube](https://www.youtube.com/watch?v=VpF2vBySfGY)
+[它做錯了什麼？為什麼玩家提起它都“口吐芬芳” - YouTube](https://www.youtube.com/watch?v=ZK5TYzS6Yrw)
+[小島秀夫和科樂美 KONAMI 到底發生了什麼？ - YouTube](https://www.youtube.com/watch?v=-tM62DCMhWg)
 
 ## Nintendo History
 

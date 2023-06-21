@@ -80,6 +80,7 @@ tags:
 [rabbitmq/internals: High level architecture overview](https://github.com/rabbitmq/internals)
 
 [RabbitMQ - Getting started with RabbitMQ](http://www.rabbitmq.com/getstarted.html)
+[RabbitMQ Is Boring, and I Love It - The New Stack](https://thenewstack.io/rabbitmq-is-boring-and-i-love-it/)
 
 [RabbitMQ in 5 Minutes - YouTube](https://www.youtube.com/watch?v=deG25y_r6OY)
 [What is RabbitMQ? - YouTube](https://www.youtube.com/watch?v=7rkeORD4jSw)
@@ -99,6 +100,15 @@ tags:
 
 [The Changelog #258: 10 Years of RabbitMQ with Karl Nilsson & Michael Klishin | Changelog](https://changelog.com/podcast/258)
 
+#### Ecosystem
+
+[Clients Libraries and Developer Tools — RabbitMQ](https://www.rabbitmq.com/devtools.html)
+
+[Protocol Extensions — RabbitMQ](https://www.rabbitmq.com/extensions.html)
+
+[Plugin Development Basics — RabbitMQ](https://www.rabbitmq.com/plugin-development.html)
+[Plugins — RabbitMQ](https://www.rabbitmq.com/plugins.html)
+
 #### Clients
 
 [rabbitmq/amqp091-go: An AMQP 0-9-1 Go client maintained by the RabbitMQ team.](https://github.com/rabbitmq/amqp091-go)
@@ -107,8 +117,9 @@ tags:
 ### LavinMQ
 
 [The Next-Generation Message Broker - LavinMQ](https://lavinmq.com/)
+[GitHub - cloudamqp/lavinmq: Lightweight and fast AMQP (0-9-1) server](https://github.com/cloudamqp/lavinmq/)
 
-- persist by default
+- persistence by default
 - LavinMQ Manager
 - manual/auto consumer ack
 
@@ -292,12 +303,16 @@ MQTT is a pub/sub broker rather than a message queue
 
 [MQTT](http://mqtt.org/)
 [MQTT - Wikiwand](http://www.wikiwand.com/en/MQTT)
-[What is MQTT and How It Works | Random Nerd Tutorials](https://randomnerdtutorials.com/what-is-mqtt-and-how-it-works/)
 
 [MQTT Specification](https://mqtt.org/mqtt-specification/)
 [Differences between 3.1.1 and 5.0 · mqtt/mqtt.org Wiki](https://github.com/mqtt/mqtt.org/wiki/Differences-between-3.1.1-and-5.0)
 
+[Serving Millions of Clients with Native MQTT | RabbitMQ - Blog](https://blog.rabbitmq.com/posts/2023/03/native-mqtt/) in 3.12, 2023-03
+
+[What is MQTT and How It Works | Random Nerd Tutorials](https://randomnerdtutorials.com/what-is-mqtt-and-how-it-works/)
+
 [MQTT with a Raspberry Pi and an Arduino - YouTube](https://www.youtube.com/watch?v=p3vJxGKWDIg)
+
 [MQTT 5](https://www.hivemq.com/tags/mqtt-5/)
 
 [Getting started with Node.js and MQTT - LogRocket Blog](https://blog.logrocket.com/getting-started-with-node-js-mqtt/)

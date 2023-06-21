@@ -23,3 +23,4 @@ tags:
 [Secrets of the Antikythera Mechanism: Session 2 - YouTube](https://www.youtube.com/watch?v=bYxwnQZndTM)
 [The 2000 Year-Old Computer - Decoding the Antikythera Mechanism (2012) - YouTube](https://www.youtube.com/watch?v=nZXjUqLMgxM)
 [The Antikythera Machine - YouTube](https://www.youtube.com/watch?v=UbjfcikvhFY)
+[The ancient 'computer' that simply shouldn't exist - BBC REEL - YouTube](https://www.youtube.com/watch?v=qqlJ50zDgeA)

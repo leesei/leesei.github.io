@@ -17,6 +17,7 @@ tags:
 [Play classic video games on your computer or mobile device | Emuparadise](https://www.emuparadise.me/)
 [Retro Game Corps](https://retrogamecorps.com/)
 
+[Alexwpi Game - YouTube](https://www.youtube.com/@AlexwpiGame)
 [Top 10 Emulators of 2022 - YouTube](https://www.youtube.com/watch?v=hd3VE7JZppY)
 [EMU-NATION: Cemu Rage, RPCS3 and PJ64 goes clean? - YouTube](https://www.youtube.com/watch?v=BF6gZbdEmso)
 [EMU-NATION: NEW Hardware for 2021 & NEW Sega Saturn News! - YouTube](https://www.youtube.com/watch?v=s-Wg7f_PLk8)
@@ -238,3 +239,7 @@ Ghost Trick: Phantom Detective
 ## PSP
 
 PPSSPP
+
+## PS Vita
+
+[A closer look at Vita3k - the PlayStation Vita Emulator - YouTube](https://www.youtube.com/watch?v=M7fXcrScNIg)

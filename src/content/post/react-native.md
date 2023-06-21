@@ -1,6 +1,6 @@
 ---
 title: React Native
-description: "Learn once, write anywhere."
+description: Learn once, write anywhere.
 created: 2023-06-10
 tags:
   - app

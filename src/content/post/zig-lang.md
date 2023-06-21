@@ -38,6 +38,7 @@ zig zen
 [catdevnull/awesome-zig: A list of awesome projects related to Zig](https://github.com/catdevnull/awesome-zig)
 [C-BJ/awesome-zig: 📜Zig Learning Guide & Project Lists](https://github.com/C-BJ/awesome-zig)
 [nrdmn/awesome-zig](https://github.com/nrdmn/awesome-zig) 😴inactive
+[build system terminology update: package, project, module, dependency · Issue #14307 · ziglang/zig](https://github.com/ziglang/zig/issues/14307)
 
 [CppCast Episode 342: Zig with Andrew Kelley - YouTube](https://www.youtube.com/watch?v=AdP6seB4sp4) 2022
 

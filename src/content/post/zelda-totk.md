@@ -21,6 +21,7 @@ tags:
 ## Glitches/Speed Run
 
 [How Speedrunners Beat Tears of The Kingdom in UNDER 1 HOUR (Speedrun World Record Breakdown) - YouTube](https://www.youtube.com/watch?v=R7RKHLDZMM8)
+[How Speedrunners Beat Tears of the Kingdom in Under an Hour | Speedrun Explained - YouTube](https://www.youtube.com/watch?v=L67bfAdTMwk)
 
 [42 Things You Didn't Know In Zelda Tears Of The Kingdom - YouTube](https://www.youtube.com/watch?v=bzxgabpUBnM)
 
@@ -60,14 +61,20 @@ Travel Medallion
 [How to Unlock Autobuild Early in Tears of the Kingdom (All Abilities) - YouTube](https://www.youtube.com/watch?v=XeLELv3s8jc) recipe
 [How to Get More Batteries for Zonai Devices in Tears of the Kingdom - YouTube](https://www.youtube.com/watch?v=y4MHMQjGtgM)
 
+[This Glitch changes Tears of the Kingdom forever... - YouTube](https://www.youtube.com/watch?v=OmuWEI46dXo) use blocking to trigger Zonai devices remotely
+
 [Tears Of The Kingdom | PRO BUILDING TIPS + Important Missable Ability! - YouTube](https://www.youtube.com/watch?v=xR_B3xoLIFk)
 
 [Busting 1 Myth for EVERY Zonai Device! (Tears of the Kingdom) - YouTube](https://www.youtube.com/watch?v=WGzh-u8v6gE)
+[EVERY Zonai Device in Zelda Tears of the Kingdom Ranked from Worst to Best - YouTube](https://www.youtube.com/watch?v=P1ry10xo7PU)
 
 [This is the ONLY Vehicle you will ever need in Zelda Tears of the Kingdom - YouTube](https://www.youtube.com/watch?v=Yxp9j53HRIU)
 [【王國之淚】最強載具零件！便攜鍋的萬能用法！百萬懸掛鍋的原理與應用！ - YouTube](https://www.youtube.com/watch?v=rPvz5Y6XEFA)
 
 ### Easy Items
+
+[王國之淚：無限刷炸彈花及元素果 - YouTube](https://www.youtube.com/watch?v=NNFDUIyVzsI)
+[【薩爾達傳說 王國之淚】無限拿炸彈花及屬性果#薩爾達#炸彈花#無 BUG - YouTube](https://www.youtube.com/watch?v=mbwx6-zWRcY)
 
 ### Money
 

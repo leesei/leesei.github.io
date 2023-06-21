@@ -38,6 +38,7 @@ Right click game to install update and DLC
 ## Games
 
 [All Nintendo Switch Games - Nintendo Life](https://www.nintendolife.com/nintendo-switch/games/browse)
+[TOP 50 YUZU EMULATOR PLAYABLE GAMES 🎮 2022 | Fully Playable✔️ (Nintendo Exclusives) - YouTube](https://www.youtube.com/watch?v=vZdZYyDZvko)
 
 [Dumping Decryption Keys from a Switch Console - yuzu](https://yuzu-emu.org/wiki/dumping-decryption-keys-from-a-switch-console/)
 [Dumping Title Keys - NH Switch Guide](https://nh-server.github.io/switch-guide/extras/dumping_title_keys/)
@@ -84,17 +85,27 @@ The Great Ace Attorney Chronicles (大逆転裁判 1＆2) https://www.emulator-r
 Layton's Mystery Journey: Katrielle and the Millionaires' Conspiracy - Deluxe Edition https://www.emulator-roms.com/?game=laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition-switch-nsp-xci/
 Captain Toad: Treasure Tracker
 Sonic Frontiers
+Donkey Kong Tropical Freeze
+Fire Emblem: Three Houses
+Fire Emble Warriors Three Hopes
+Kirby Star Allies
 Kirby’s Return to Dream Land Deluxe https://eggnsemulator.com/download-kirbys-return-to-dream-land-deluxe-nsp-xci-rom/ https://www.emulator-roms.com/?game=kirbys-return-to-dream-land-deluxe-switch-xci-full-game-v1/
 Bayonetta https://nxbrew.com/bayonetta-switch-nsp/
 Astral Chain https://nxbrew.com/astral-chain-switch-nsp/ https://www.emulator-roms.com/?game=astral-chain-switch-nsp-xci-update-v2/
 Blood Bowl 3
+Super Mario 3d World + Bowser's Fury
+Cadence of Hyrule: Crypt of the Necrodancer
+Captain Toad: Treasure Tracker
+Pokémom Mystery Dungeon: Rescue Team DX
+
 Front Mission 2: Remake
 Front Mission 3: Remake
 Triangle Strategy
 Final Fantasy XII The Zodiac Age
+Xenoblade Chronicles: Definitive Edition
 Xenoblade Chronicles 1 https://eggnsemulator.com/download-xenoblade-chronicles-1-nsp-xci-rom/
 Xenoblade Chronicles 2 https://eggnsemulator.com/download-xenoblade-chronicles-2-nsp-xci-rom/
-Xenoblade Chronicles
+Xenoblade Chronicles 3
 It Takes Two
 Untitled Goose Game
 Sakuna: Of Rice and Ruin 天穗之咲稻姬
@@ -108,3 +119,22 @@ Mario + Rabbids Kingdom Battle
 Rabbids: Party of Legends https://www.emulator-roms.com/?game=rabbids-party-of-legends-switch-nsp-update/
 
 [LOZ: Tears of the Kingdom Dynamic fps, static fps, and visual fixes patch collection | GBAtemp.net - The Independent Video Game Community](https://gbatemp.net/download/loz-tears-of-the-kingdom-dynamic-fps-static-fps-and-visual-fixes-patch-collection.37996/)
+
+### Tools
+
+[dezem/SAK: Switch Army Knife (SAK)](https://github.com/dezem/SAK)
+
+[julesontheroad/NSC_BUILDER: Nintendo Switch Cleaner and Builder. A batchfile, python and html script based in hacbuild and Nut's python libraries. Designed initially to erase titlerights encryption from nsp files and make multicontent nsp/xci files, nowadays is a multicontent tool specialized in batch processing and file information, someone called it a Switch's knife and he may be right.](https://github.com/julesontheroad/NSC_BUILDER)
+[Add Updates and DLC to Switch Games with NSC builder! | Update NSP, XCI and more files! - YouTube](https://www.youtube.com/watch?v=SNPRvzgKZpY)
+
+[julesontheroad/XCI_Builder: A simple batchfile to convert Nintendo Switch nsp files (digital format) to xci files (cartridge format) based in LucaFraga's hacbuild](https://github.com/julesontheroad/XCI_Builder)
+
+## The Legend of Zelda: Tears of the Kingdom
+
+[Everything You Need to Know: Mods, Best Versions, and Emulators for Zelda Tears of the Kingdom on PC - YouTube](https://www.youtube.com/watch?v=t4nRMVwAb5w)
+
+DynamicFPS: requires unlocking FPS for 30+, causing stutter
+DynamicFPS++
+ChuckPatch: 1080p, improves shadow, disable FSR, disable quality reduction of far object
+Xbox/SteamDeck UI: buttons
+Streamline all in one: remove unnecessary animations and cutscenes

@@ -52,6 +52,8 @@ http://127.0.0.1:8000/redoc # ReDoc
 [awtkns/fastapi-crudrouter: A dynamic FastAPI router that automatically creates CRUD routes for your models](https://github.com/awtkns/fastapi-crudrouter)
 [uriyyo/fastapi-pagination: FastAPI pagination 📖](https://github.com/uriyyo/fastapi-pagination)
 
+[permitio/fastapi_websocket_pubsub: A fast and durable Pub/Sub channel over Websockets. FastAPI + WebSockets + PubSub == ⚡ 💪 ❤️](https://github.com/permitio/fastapi_websocket_pubsub)
+
 ## Starlite
 
 [Starlite](https://starlite-api.github.io/starlite/) Starlette ASGI toolkit + Pydantic + DI + OpenAPI doc

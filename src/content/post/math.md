@@ -35,8 +35,9 @@ tags:
 [Another Roof - YouTube](https://www.youtube.com/@AnotherRoof)
 [VisualMath - YouTube](https://www.youtube.com/@VisualMath)
 [eigenchris - YouTube](https://www.youtube.com/channel/UCN8wTUlSAroLslWyf87E2pw) Linear Algebra, Physics
+[Zach Star - YouTube](https://www.youtube.com/@zachstar)
 
-[妈咪说 MommyTalk - YouTube](https://www.youtube.com/channel/UCLROLAN8kmU7tGQDs6KH-bQ)
+[妈咪说 MommyTalk - YouTube](https://www.youtube.com/@Sci1729)
 
 [Understanding Wavelets - YouTube](https://www.youtube.com/playlist?list=PLn8PRpmsu08ojy02wi4QLVzELM545Xw3p)
 
@@ -91,6 +92,7 @@ Encode mathematics operation as numbers, one can create a number (statement) tha
 [Immersive Math](http://immersivemath.com/)
 [immersivemath - YouTube](https://www.youtube.com/channel/UCMTYA0DDzT-bEzwWGPHTCOA)
 
+[Dear linear algebra students, This is what matrices (and matrix manipulation) really look like - YouTube](https://www.youtube.com/watch?v=4csuTO7UTMo)
 [Matrix Multiplication Explained (with Python examples): Complete Guide](https://pyshark.com/matrix-multiplication-explained-using-python/)
 [The fastest matrix multiplication algorithm - YouTube](https://www.youtube.com/watch?v=sZxjuT1kUd0)
 

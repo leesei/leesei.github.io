@@ -96,6 +96,7 @@ Electronic torque control will stop the motor when torque maxed out and have mor
 - 胡桃木 Walnut, slow growing
 
 [【木工初學者】必須知道的 XX【超認真少年】wood working beginner's tool - YouTube](https://www.youtube.com/watch?v=bUuz_ed2JUE)
+[30 分鐘刻窗花 算快嗎？超實用木工工具推薦清單 鏈鋸 手鋸 雕刻機 CNC【超認真少年】Woodworking: 6 Cutting Tools - Cubiio X, Hand Saw,CNC - YouTube](https://www.youtube.com/watch?v=t5J9PaWvHBM)
 
 [安裝木門與框示範 - YouTube](https://www.youtube.com/watch?v=9Hpbrrnvk7s)
 [实木表面保护产品对比。木油，木蜡，聚氨酯分别如何使用？表面是什么效果？产品中英文名称对照在下面说明区。KENDI DIY - YouTube](https://www.youtube.com/watch?v=WqB8eSkh_TE)

@@ -26,7 +26,10 @@ When it comes to programming career, choose two in: Legal, Well Paid, Interestin
 ## Stand ups
 
 [Stand up, Brian! 博恩站起來！ - YouTube](https://www.youtube.com/channel/UCUGlE8lf5qH--_XlsabI2XQ)
+
 [黃子華 Dayo Wong 棟篤笑 - 官方頻道 - YouTube](https://www.youtube.com/channel/UCMjf4Ii0sv2wEqaNmYA85qg)
+
+[德云欢乐铺 - YouTube](https://www.youtube.com/@DeYunShow)
 
 [louis ck - YouTube](https://www.youtube.com/results?search_query=louis+ck)
 

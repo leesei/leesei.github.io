@@ -22,6 +22,7 @@ tags:
 
 [What’s new in TypeScript | InfoWorld](https://www.infoworld.com/article/3249607/javascript/whats-new-in-typescript.html)
 [Getting started with... TypeScript - Stack Overflow Blog](https://stackoverflow.blog/2021/05/05/getting-started-with-typescript/)
+[Exploring TypeScript 5 features: Smaller, simpler, faster - LogRocket Blog](https://blog.logrocket.com/exploring-typescript-5-features-smaller-simpler-faster/)
 
 [How TypeScript’s Strict Mode Actually Fixes TypeScript | by Eran Shabi | Better Programming](https://betterprogramming.pub/how-typescripts-strict-mode-actually-fixes-typescript-736ba8108c85)
 [Getting Strict With TypeScript. Making your TypeScript code more… | by Jose Granja | Better Programming](https://betterprogramming.pub/getting-strict-with-typescript-2e906b48c0a)

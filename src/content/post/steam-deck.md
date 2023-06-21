@@ -69,9 +69,7 @@ Gaming On Linux
 
 ## Flashing
 
-[theVakhovskeIsTaken/holoiso: SteamOS 3 (Holo) archiso configuration](https://github.com/theVakhovskeIsTaken/holoiso)
 [Steam-Deck-Guide/Operating Systems.md at main · mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide/blob/main/Games%20and%20Software/Operating%20Systems.md)
-[SteamOS 3 INSTALL on ANY PC! Best Gaming Distro?? - YouTube](https://www.youtube.com/watch?v=IPg5f9xEjVE)
 
 [Steam Support :: Steam Deck Recovery Instructions](https://help.steampowered.com/en/faqs/view/1b71-edf2-eb6d-2bb3)
 

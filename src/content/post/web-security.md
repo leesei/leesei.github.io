@@ -12,6 +12,7 @@ tags:
 [[dark-web]]
 [[linux-security]]
 [[ssl-tls]]
+[[sql#SQL injection]]
 
 > focus of web application and deployment
 
@@ -29,6 +30,8 @@ tags:
 
 [paragonie/awesome-appsec: A curated list of resources for learning about application security](https://github.com/paragonie/awesome-appsec)
 [Single Page Web App Security Cheat Sheet](https://github.com/eoftedal/writings/blob/master/published/javascript-security-cheat-sheet.md)
+
+[Rana Khalil - YouTube](https://www.youtube.com/c/RanaKhalil101) [Free Web Hacking Course - YouTube](https://www.youtube.com/watch?v=WqbrB12Jvgc) 1:08:03, Broken Access Control
 
 [Web Security Academy: Free Online Training from PortSwigger](https://portswigger.net/web-security)
 

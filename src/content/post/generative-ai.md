@@ -69,6 +69,15 @@ Generator and Discriminator
 [Introduction to Image Generation | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/541)
 [Create Image Captioning Models | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/542)
 
+## Hallucination
+
+[OpenAI is pursuing a new way to fight AI 'hallucinations'](https://www.cnbc.com/2023/05/31/openai-is-pursuing-a-new-way-to-fight-ai-hallucinations.html) process supervision as opposed to outcome supervision
+
+[新研究：大模型是「有意識地」一本正經胡說八道嗎？ | TechNews 科技新報](https://technews.tw/2023/06/12/do-large-language-models-know-what-they-do-not-know/)
+[[2305.18153] Do Large Language Models Know What They Don't Know?](https://arxiv.org/abs/2305.18153)
+
+[美律師使用 ChatGPT 寫摘要，被法院揭穿內容全是假 | TechNews 科技新報](https://technews.tw/2023/05/29/lawyer-use-ai-to-write-document-proved-fake/)
+
 ## 3D Photograph
 
 [3D Photography using Context-aware Layered Depth Inpainting](https://shihmengli.github.io/3D-Photo-Inpainting/)
@@ -175,6 +184,9 @@ Better than DALL-E, also open source
 
 [Open LLM Leaderboard - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 
+[Aviary Explorer](https://aviary.anyscale.com/) compares responses from LLMs
+[A New Tool for the Open Source LLM Developer Stack: Aviary - The New Stack](https://thenewstack.io/a-new-tool-for-the-open-source-llm-developer-stack-aviary/)
+
 [The Large Language Model (LLM) Index | Sapling](https://sapling.ai/llm/index) ❗!important
 [List of Open Sourced Fine-Tuned Large Language Models (LLM) | by Sung Kim | Geek Culture | Medium](https://medium.com/geekculture/list-of-open-sourced-fine-tuned-large-language-models-llm-8d95a2e0dc76)
 
@@ -260,10 +272,37 @@ Transformers (formerly known as `pytorch-transformers` and `pytorch-pretrained-b
 
 ### Llama
 
-### Alpaca
+[facebookresearch/llama: Inference code for LLaMA models](https://github.com/facebookresearch/llama)
+[Introducing LLaMA: A foundational, 65-billion-parameter language model](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
+
+[Meta’s LLaMA Leaked to the Public, Thanks To 4chan](https://analyticsindiamag.com/metas-llama-leaked-to-the-public-thanks-to-4chan/)
+[Leaked LLaMA Unveils the Power of Open Source](https://analyticsindiamag.com/leaked-llama-unveils-the-power-of-open-source/)
+
+#### Ecosystem
+
+[Llama Hub](https://llama-hub-ui.vercel.app/)
+
+[jerryjliu/llama_index: LlamaIndex (GPT Index) is a data framework for your LLM applications](https://github.com/jerryjliu/llama_index)
+
+[ggerganov/llama.cpp: Port of Facebook's LLaMA model in C/C++](https://github.com/ggerganov/llama.cpp)
+[LLaMA CPP Gets a Power-up With CUDA Acceleration](https://analyticsindiamag.com/llama-cpp-gets-a-power-up-with-cuda-acceleration/)
+
+[sahil280114/codealpaca](https://github.com/sahil280114/codealpaca) for code generation like GitHub CoPilot
+[lxe/simple-llm-finetuner: Simple UI for LLM Model Finetuning](https://github.com/lxe/simple-llm-finetuner)
+
+#### Alpaca
+
+> fine tuned LLaMa by Stanford with training and inferencing cost of only $600
 
 [Alpaca](https://crfm.stanford.edu/alpaca/)
+[Stanford CRFM](https://crfm.stanford.edu/2023/03/13/alpaca.html)
 [tatsu-lab/stanford_alpaca: Code and documentation to train Stanford's Alpaca models, and generate the data.](https://github.com/tatsu-lab/stanford_alpaca)
+
+#### Vicuna
+
+[Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%\* ChatGPT Quality | LMSYS Org](https://lmsys.org/blog/2023-03-30-vicuna/)
+
+[開源才是未來！300 美元打造的「平價版 ChatGPT」小羊駝真厲害，功力逼近 GPT 3.5 還單卡、手機都能跑 | T 客邦](https://www.techbang.com/posts/105165-300-replaced-chatgpt-and-stanfords-13-billion-parameter)
 
 ### Huggingface
 

@@ -236,6 +236,7 @@ Vue provides hooks for CSS/JavaScript animation
 Vue Router 4 (for Vue 3) is Vue's official routing library. vue-router provides items needed to map an application's components to different browser URL routes.
 [Course: Vue Router 4 for Everyone](https://vueschool.io/courses/vue-router-4-for-everyone)
 [Storing and Using the Last Known Route in Vue - ITNEXT](https://itnext.io/storing-and-using-the-last-known-route-in-vue-d889f5538e3f)
+[一篇搞懂 Vue 项目里的权限控制 - 掘金](https://juejin.cn/post/7241846256288104504)
 
 [tangbc/vue-virtual-scroll-list: ⚡️ A vue component support big amount data list with high scroll performance.](https://github.com/tangbc/vue-virtual-scroll-list#readme)
 

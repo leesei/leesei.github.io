@@ -6,6 +6,7 @@ tags:
   - devops
 ---
 
+[[cloud-backup#ownCloud/Nextcloud]]
 [[cms]]
 [[network-file-systems]]
 [[distributed-file-systems]]
@@ -16,7 +17,7 @@ tags:
 [Next level data privacy with easy, free and secure self hosting at home - DEV Community](https://dev.to/maxime1992/next-level-data-privacy-with-easy-free-and-secure-self-hosting-at-home-2c84)
 [Paperless-ngx, manage your documents like never before - DEV Community](https://dev.to/maxime1992/paperless-ngx-manage-your-documents-like-never-before-2a3n)
 
-## Auth Server
+## Auth Server/IAM
 
 [Fine Grained Authorization | OpenFGA](https://openfga.dev/)
 [SuperTokens, Open Source Authentication](https://supertokens.io/)

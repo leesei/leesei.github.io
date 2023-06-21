@@ -220,6 +220,7 @@ tags:
 [商湯 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%95%86%E6%B1%A4)
 
 [殷墟的三大惊喜与三大惊吓，这是一期全面了解殷墟的视频。 - YouTube](https://www.youtube.com/watch?v=7EWH1yOKf8c)
+[人祭：一段被隱藏了 3000 年的黑暗歷史！華夏文明竟起源於同類相食？周易與甲骨文中的陰森密碼，絕大多數人都沒看懂…[She's Xiaowu @ndwtb] - YouTube](https://www.youtube.com/watch?v=CGY9JH4kYQE)
 
 ## 西周
 
@@ -277,12 +278,6 @@ tags:
 [神秘中山国【百家讲坛 20150612 】 - YouTube](https://www.youtube.com/watch?v=8tZXalWn8fQ)
 
 [楚國超級大墓，墓穴深到讓盜墓賊絕望，官方動員 2 萬人挖掘才找到墓室「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=a6EqEm_pSl0)
-
-### 諸子百家
-
-[諸子百家 - Wikiwand](https://www.wikiwand.com/zh-hk/%E8%AF%B8%E5%AD%90%E7%99%BE%E5%AE%B6)
-
-[失傳了 2000 多年的墨家黑科技，究竟有多牛？墨家思想為何讓統治者瑟瑟發抖？左右天下局勢數百年，為何一夜之間神秘消失？墨家的真相[Unsolved Mystery Stories | Xiaowu] - YouTube](https://www.youtube.com/watch?v=tuaNcnd7eHg)
 
 ## 秦
 

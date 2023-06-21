@@ -61,6 +61,8 @@ convert -delay '2x1' *.png output.gif  # 2 sec each frame
 
 ### Resizing Image
 
+[Resizing or Scaling -- ImageMagick Examples](https://www.imagemagick.org/Usage/resize/)
+
 ```sh
 # resizing image
 convert -resize 300x300 image.jpg image-small.jpg

@@ -465,8 +465,6 @@ vboxpci
 [You can now move your game install folders using Steam](https://windowsreport.com/move-games-install-folders-steam/)
 [Moving a Steam Installation and Games - General Troubleshooting - Knowledge Base - Steam Support](https://support.steampowered.com/kb_article.php?ref=7418-YUBN-8129)
 
-[VaporOS | SteamOS with extra features](https://vaporos.net/)
-[GamerOS | The definitive couch gaming experience](https://gamer-os.github.io/)
 [5 Reasons Why This Linux Gaming OS Is Great For Your Living Room](https://www.forbes.com/sites/jasonevangelho/2020/03/31/5-reasons-why-this-linux-gaming-os-is-great-for-your-living-room/amp/)
 [gamer-os/steam-tweaks: Various tools for tweaking Steam/game settings](https://github.com/gamer-os/steam-tweaks)
 

@@ -330,6 +330,8 @@ Some test runners take the features and generate test scripts in various languag
 
 ### Frameworks
 
+[[vite#Vitest]]
+
 [SpeckJS - Comment Driven Development](http://speckjs.github.io/)
 
 [Jest · 🃏 Delightful JavaScript Testing](https://jestjs.io/)

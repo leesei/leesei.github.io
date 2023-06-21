@@ -797,6 +797,7 @@ Deep Learning = Artificial Neural Networks with more than 1 hidden layers
 [A Beginner’s Guide to Deep Learning | by Isabella Lindgren | Towards Data Science](https://towardsdatascience.com/a-beginners-guide-to-deep-learning-ed41ac75c4e5)
 [A “weird” introduction to Deep Learning - Towards Data Science](https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0)
 [Under the Hood of Deep Learning - Towards Data Science](https://towardsdatascience.com/under-the-hood-of-deep-learning-e8bb39aec5d2)
+[A New Link to an Old Model Could Crack the Mystery of Deep Learning | Quanta Magazine](https://www.quantamagazine.org/a-new-link-to-an-old-model-could-crack-the-mystery-of-deep-learning-20211011/) why large model don't overfit
 
 [Deep Learning Made Easy: Part 1: Introduction to Neural Networks | by Sachin Kumar | Towards Data Science](https://towardsdatascience.com/deep-learning-made-easy-part-1-introduction-to-neural-networks-434df17d8f03)
 [Deep Learning Made Easy: Part 2: Neural Networks with Gradient Descent | by Sachin Kumar | Towards Data Science](https://towardsdatascience.com/deep-learning-made-easy-neural-networks-with-gradient-descent-1eff6ef2cd28)
@@ -1075,13 +1076,6 @@ Kubernetes:
 [SeldonIO/seldon-core: Machine Learning Deployment for Kubernetes](https://github.com/SeldonIO/seldon-core)
 
 [Introducing Nauta: A Distributed Deep Learning Platform for Kubernetes\* - Intel AI](https://www.intel.ai/introducing-nauta/#gs.oyi3um)
-
-## Streamlit
-
-[Streamlit — the fastest way to build custom ML tools](https://streamlit.io/)
-[Turn Python Scripts into Beautiful ML Tools - Towards Data Science](https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace)
-[How to write Web apps using simple Python for Data Scientists?](https://towardsdatascience.com/how-to-write-web-apps-using-simple-python-for-data-scientists-a227a1a01582)
-[Serving a Machine Learning Model with FastAPI and Streamlit | TestDriven.io](https://testdriven.io/blog/fastapi-streamlit/)
 
 ## Comparison
 

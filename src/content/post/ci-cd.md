@@ -166,6 +166,10 @@ tags:
 
 [Wercker - From code to containers](http://wercker.com/)
 
+### Saucer
+
+[Sauce Labs: Cross Browser Testing, Selenium Testing & Mobile Testing](https://saucelabs.com/) 2000 credits per week
+
 ### Travis
 
 > Travis is hosted service, with self-hosted enterprise option
