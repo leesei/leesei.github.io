@@ -1,7 +1,7 @@
 import Card from "@components/Card";
 import type { PostFrontmatter } from "@content/_schemas";
 import Fuse from "fuse.js";
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { BiSearchAlt2 } from "react-icons/bi/index";
 
 export type SearchItem = {
@@ -24,19 +24,23 @@ export default function SearchBar({ searchList }: Props) {
   const inputRef = useRef<HTMLInputElement>(null);
   const [inputVal, setInputVal] = useState("");
   const [searchResults, setSearchResults] = useState<SearchResult[] | null>(
-    null
+    null,
   );
 
   const handleChange = (e: React.FormEvent<HTMLInputElement>) => {
     setInputVal(e.currentTarget.value);
   };
 
-  const fuse = new Fuse(searchList, {
-    keys: ["slug", "title", "description"],
-    includeMatches: true,
-    minMatchCharLength: 2,
-    threshold: 0.5,
-  });
+  const fuse = useMemo(
+    () =>
+      new Fuse(searchList, {
+        keys: ["slug", "title", "description"],
+        includeMatches: true,
+        minMatchCharLength: 2,
+        threshold: 0.5,
+      }),
+    [searchList],
+  );
 
   useEffect(() => {
     // if URL has search query,

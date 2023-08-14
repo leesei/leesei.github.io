@@ -24,7 +24,7 @@ export const getTagsDB = (posts: CollectionEntry<"post">[]) => {
   const tag_slugs = [...tags].map((tag) => slugifyStr(tag));
   const tag_to_slug = new Map([...tags].map((tag, i) => [tag, tag_slugs[i]]));
   const slug_to_tag = new Map(
-    [...tag_slugs].map((slug, i) => [slug, [...tags][i]])
+    [...tag_slugs].map((slug, i) => [slug, [...tags][i]]),
   );
 
   return {

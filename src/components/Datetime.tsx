@@ -23,7 +23,7 @@ export const Datetime = function ({
             size === "sm" ? "scale-90" : "scale-100"
           } inline-block h-6 w-6 fill-skin-base`,
         },
-        null
+        null,
       )}
       <span className={`italic ${size === "sm" ? "text-sm" : "text-base"}`}>
         <FormattedDate datetime={datetime} />
