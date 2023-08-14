@@ -2,6 +2,7 @@
 title: Kubernetes
 description: ""
 created: 2014-12-11
+updated: 2023-08-14
 tags:
   - container
   - dev/deploy
@@ -398,7 +399,7 @@ Pod spec will be embedded as `spec.template` inside a controller.
 [Kubeval](https://kubeval.instrumenta.dev/) validating Kubernetes configuration files
 [Kubernetes YAML Generator](https://k8syaml.com/)
 
-### Installation
+### Installation/Distros
 
 Each installer is actually a "distribution" of Kubernetes.
 
@@ -413,6 +414,8 @@ Each installer is actually a "distribution" of Kubernetes.
 [Kubernetes On-Prem - kubedex.com](https://kubedex.com/redhat-openshift-vs-pivotal-pks-vs-rancher/)
 [Kubernetes On A Laptop - kubedex.com](https://kubedex.com/local-kubernetes/)
 [Evaluate 3 ways to run Kubernetes locally](https://searchitoperations.techtarget.com/answer/Evaluate-3-ways-to-run-Kubernetes-locally) Minikube vs MicroK8s vs K3s
+[K3s vs K8s: The Best Kubernetes Home Lab Distribution - Virtualization Howto](https://www.virtualizationhowto.com/2023/07/k3s-vs-k8s-the-best-kubernetes-home-lab-distribution/)
+[k0s vs k3s - Battle of the Tiny Kubernetes distros - Virtualization Howto](https://www.virtualizationhowto.com/2023/07/k0s-vs-k3s-battle-of-the-tiny-kubernetes-distros/)
 
 [Introducing Software Certification for Kubernetes - Kubernetes](https://kubernetes.io/blog/2017/10/software-conformance-certification/)
 [heptio/sonobuoy: Heptio Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests in an accessible and non-destructive manner. Brought to you by Heptio.](https://github.com/heptio/sonobuoy)
@@ -438,6 +441,7 @@ Each installer is actually a "distribution" of Kubernetes.
 [Quick Start for Kubernetes by Heptio](https://aws.amazon.com/quickstart/architecture/heptio-kubernetes/) on AWS
 
 [Project Dolos: Testing Kubernetes on Google and Azure - kubedex.com](https://kubedex.com/project-dolos-testing-kubernetes-on-google-and-azure/)
+[Kubedex/dolos: Time how long Kubernetes takes to start on Cloud platforms](https://github.com/Kubedex/dolos)
 
 #### Pharos
 
@@ -474,7 +478,7 @@ Each installer is actually a "distribution" of Kubernetes.
 
 #### k3sup
 
-> see `rancher.md#k3s-k3os`
+[[rancher#k3s]]
 
 [alexellis/k3sup: k3sup: from Zero to KUBECONFIG in < 1 min](https://github.com/alexellis/k3sup)
 

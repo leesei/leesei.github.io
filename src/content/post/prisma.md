@@ -3,8 +3,7 @@ title: Prisma
 description: ""
 created: 2023-03-08
 tags:
-  - comp
-  - database
+  - comp/database
   - nodejs
   - orm
 ---
@@ -22,6 +21,7 @@ tags:
 [Prisma 2 (Node JS ORM) Crash Course - 2021 - YouTube](https://www.youtube.com/watch?v=mU8-nKwfw4Y)
 [Learn Prisma In 60 Minutes - YouTube](https://www.youtube.com/watch?v=RebA5J-rlwg) 2022-07
 [It's Prisma Time Series' Articles - DEV Community](https://dev.to/puppo/series/15827)
+[Migration Lesson: Don't Use Prisma | Prime Reacts - YouTube](https://www.youtube.com/watch?v=jqhHXe746Ns)
 
 [prisma/prisma-examples: 🚀 Ready-to-run Prisma example projects](https://github.com/prisma/prisma-examples) many GraphQL examples
 [Tag Archive prisma](https://daily-dev-tips.com/tags/prisma/)
@@ -52,3 +52,11 @@ tags:
 
 [Schema design // How to handle polymorphism? · Discussion #3668 · prisma/prisma](https://github.com/prisma/prisma/discussions/3668)
 [Support for a Union type · Issue #2505 · prisma/prisma](https://github.com/prisma/prisma/issues/2505)
+
+## GraphQL
+
+[Building GraphQL servers with Prisma](https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql)
+[End-to-end type safety with Next.js, Prisma, and GraphQL - LogRocket Blog](https://blog.logrocket.com/end-to-end-type-safety-nextjs-prisma-graphql/)
+[The Jamstack with Next.js and Prisma](https://www.prisma.io/blog/jamstack-with-nextjs-prisma-jamstackN3XT)
+
+[prisma-labs/graphql-request: Minimal GraphQL client supporting Node and browsers for scripts or simple apps](https://github.com/prisma-labs/graphql-request)

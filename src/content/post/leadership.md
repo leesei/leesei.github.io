@@ -2,6 +2,7 @@
 title: Leadership
 description: Being a software engineering, this post focus more on software engineering
 created: 2018-11-26
+updated: 2023-08-14
 tags:
   - business
   - programmer
@@ -16,6 +17,7 @@ tags:
 
 [Time to revise the adage that amateurs talk strategy while professionals talk logistics – MountainRunner.us](https://mountainrunner.us/2006/07/time_to_revise_/)
 [Is it true as to war that 'amateurs talk strategy, professionals talk logistics'? - Quora](https://www.quora.com/Is-it-true-as-to-war-that-amateurs-talk-strategy-professionals-talk-logistics)
+[Attitude Determines Altitude: Engineering Yourself & Your Teams • Randy Shoup • GOTO 2018 - YouTube](https://www.youtube.com/watch?v=y1SpwCiRoPY)
 
 [7 Strategies for Better Group Decision-Making](https://hbr.org/2020/09/7-strategies-for-better-group-decision-making)
 
@@ -63,6 +65,7 @@ Mentality and attitude is more important!!
 ## Coaching
 
 [Institute of Coaching - YouTube](https://www.youtube.com/@InstituteofCoaching)
+[New study finds more effective way to coach and inspire](https://www.news-medical.net/news/20230804/New-study-finds-more-effective-way-to-coach-and-inspire.aspx)
 
 [2013 video interview with Ben Zander and Rosamund Zander on their Art of Possibility - YouTube](https://www.youtube.com/watch?v=CTNojDGI05A)
 

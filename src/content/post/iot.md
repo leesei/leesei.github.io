@@ -2,6 +2,7 @@
 title: Internet of things
 description: ""
 created: 2018-06-12
+updated: 2023-07-27
 tags:
   - iot
   - maker
@@ -235,6 +236,8 @@ ESP32 with Bluetooth Classic may need a expand to the partition
 [Code With Mu](https://codewith.mu/en/) offline MicroPython editor
 
 [MicroPython Basics: What is MicroPython?](https://www.digikey.hk/en/maker/projects/micropython-basics-what-is-micropython/1f60afd88e6b44c0beb0784063f664fc)
+
+[MicroPython 1.20.0 Launches with Mip, a Dedicated Package Manager, and Raspberry Pi Pico W Support - Hackster.io](https://www.hackster.io/news/micropython-1-20-0-launches-with-mip-a-dedicated-package-manager-and-raspberry-pi-pico-w-support-258033aa9d45)
 
 [jczic/MicroWebSrv: A micro HTTP Web server that supports WebSockets, html/python language templating and routing handlers, for MicroPython (used on Pycom modules & ESP32)](https://github.com/jczic/MicroWebSrv)
 

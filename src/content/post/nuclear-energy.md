@@ -2,6 +2,7 @@
 title: Nuclear Energy
 description: ""
 created: 2023-05-27
+updated: 2023-07-23
 tags:
   - energy
   - science
@@ -15,6 +16,8 @@ Molten Salt Reactor
 Thorium Reactor (Molten Salt Reactor with Thorium as fuel)
 Small Modular Reactor
 
+[Nuclear Future - YouTube](https://www.youtube.com/playlist?list=PLHebb5GJgeFeohV1B4H2uwjpbUIFSaJDf) Two Bit da Vinci
+
 ## Nuclear Fission
 
 [[ww-ii#Manhattan Project]]
@@ -24,22 +27,54 @@ Small Modular Reactor
 [WTF Happened to Nuclear Energy? - YouTube](https://www.youtube.com/watch?v=QzTgZ6kOEM8)
 [The Big Lie About Nuclear Waste - YouTube](https://www.youtube.com/watch?v=IzQ3gFRj0Bc)
 [Nuclear waste is not the problem you've been made to believe it is - YouTube](https://www.youtube.com/watch?v=aDUvCLAp0uU)
+[Inside a Nuclear Reactor - YouTube](https://www.youtube.com/watch?v=P99C051arMo)
+
+[The Future of Nuclear Energy Depends On This... - YouTube](https://www.youtube.com/watch?v=9p-ZxTnNdF4)
+
+- Gen 1: 1950s, prototypes
+- Gen 2: 1960s,Pressurized water reactors (PWR), Boiling water reactors (BWR)
+- Gen 3: 2000s, more efficient, passive safety
+
+[The Uncertain Future of Nuclear Power - YouTube](https://www.youtube.com/watch?v=INl3pCXm6Tw) Gen 4
 
 [切尔诺贝利的警示：核辐射有哪些危害？核电站会发生核爆炸吗？ - YouTube](https://www.youtube.com/watch?v=BaNj2K73NPY)
 [切尔诺贝利为啥爆炸？原子弹与核电站的工作原理 - YouTube](https://www.youtube.com/watch?v=hOUyWmcO6D8)
 高功率管道式反應堆/輕水石墨堆 RBMK
 [After years of doubts, hopes grow that nuclear fusion is finally for real and could help address climate change - The Boston Globe](https://www.bostonglobe.com/2021/12/22/science/after-years-doubts-hopes-grow-that-nuclear-fusion-is-finally-real-could-help-address-climate-change/)
 
+[Breakthrough Energy Source Makes Other Power Plants Obsolete! - YouTube](https://www.youtube.com/watch?v=Pct9rD4B2x4) Traveling Wave Reactor, breed and burn, uses depleted uranium as fuel
+
 [太阳为啥不会瞬间就炸掉？核聚变比人体放热还缓慢吗？李永乐老师讲人造太阳（1） - YouTube](https://www.youtube.com/watch?v=vqXkZOL1nQs&t=2s)
+
+### Small Modular Reactor (SMR)
 
 [Small modular reactor - Wikiwand](https://www.wikiwand.com/en/Small_modular_reactor) it is less efficient than traditional nuclear plant
 [Small nuclear power reactors - World Nuclear Association](http://www.world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-power-reactors/small-nuclear-power-reactors.aspx)
 [Advanced Small Modular Reactors (SMRs) | Department of Energy](https://www.energy.gov/ne/advanced-small-modular-reactors-smrs)
 [Benefits of Small Modular Reactors (SMRs) | Department of Energy](https://www.energy.gov/ne/benefits-small-modular-reactors-smrs)
+
+[Why Small Modular Nuclear Reactors Are the KEY - YouTube](https://www.youtube.com/watch?v=UJ_b8y0LbMw)
+
+- light water reactor
+- fast neutron reactor
+- very high temperature reactor (graphite moderated)
+- non-light water coolant reactor
+
 [最安全的核電廠？郭董提的小型核電廠 SMR，在中國已有併網發電實例！用發電量換安全性，真的遇到停電也不怕？ - YouTube](https://www.youtube.com/watch?v=29WGNfuxIxc)
 [台灣反核的同時，世界大國卻拚命發展新技術，「小型核電廠」真有那麼神？-風傳媒](https://www.storm.mg/lifestyle/4116728)
 
+### High-Temperature Gas-Cooled Reactor (HTGR)
+
+Uses Helium as coolant, 24% better specific heat capacity than water
+Higher operation temperature can support new use cases (e.g.: steel refinery)
+Tri-structural Isotropic (TRISO) fuel (uranium oxide in ceramic shell)
+Can be cooled passively at air temperature without meltdown
+
+[Japan's Plan to DESTROY the Price of OIL and GAS! - YouTube](https://www.youtube.com/watch?v=_uTZWaJU6ho) using HTTR (HTGR + IS) to produce red hydrogen
+
 ## Nuclear Fusion
+
+[ITER - Wikiwand](https://www.wikiwand.com/en/iter)
 
 [Nuclear fusion - Wikiwand](https://www.wikiwand.com/en/Nuclear_fusion)
 [A Strange 1950s Technology Could Finally Bring Fusion Energy to the Grid](https://www.inverse.com/science/stellarator-nuclear-fusion-reactor)
@@ -99,3 +134,9 @@ High Temperature Superconductor
 
 [Pebble-bed reactor - Wikiwand](https://www.wikiwand.com/en/Pebble-bed_reactor) Generation 4
 [What the US could learn from China's nuclear power expansion - CNET](https://www.cnet.com/news/why-the-us-should-learn-from-chinas-nuclear-power-expansion/)
+
+## Nuclear Battery
+
+[Epic Tech Runs Cars & Homes For 1000 Years Without Gas Or Charging? - YouTube](https://www.youtube.com/watch?v=tfoX-YMkTAo) using nuclear wastes
+
+NDB: nuclear diamond battery

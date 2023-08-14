@@ -2,7 +2,7 @@
 title: Windows Desktop
 description: ""
 created: 2015-01-15
-updated: 2023-06-06
+updated: 2023-08-13
 tags:
   - app
   - desktop
@@ -110,6 +110,21 @@ Beware of where you download from, especially don't use download.com.
 
 [Debloating Windows 11 The Easy Way! - YouTube](https://www.youtube.com/watch?v=8ReoMuCUdKE)
 [builtbybel/ThisIsWin11: The real PowerToys for Windows 11](https://github.com/builtbybel/ThisIsWin11)
+
+[How to Restore Classic Start Menu in Windows 11 with Classic Taskbar](https://winaero.com/how-to-restore-classic-start-menu-in-windows-11-and-get-back-live-tiles/)
+
+[How to enable taskbar ungrouping and labels in Windows 11](https://www.xda-developers.com/how-enable-taskbar-ungrouping-labels-windows-11/)
+[Ungroup items on the Taskbar in Windows 11 - Page 2 - Microsoft Community Hub](https://techcommunity.microsoft.com/t5/windows-11/ungroup-items-on-the-taskbar-in-windows-11/m-p/2585176/page/2)
+
+```ps1
+# Ungroup Taskbar Icons / Enable Text Labels in Windows 11
+New-Item -Path "HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer"
+New-ItemProperty -Path "HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer" -Name "NoTaskGrouping" -PropertyType DWord -Value "00000001";
+Set-ItemProperty -Path "HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer" -Name "NoTaskGrouping" -Value "00000001";
+
+taskkill /f /im explorer.exe;
+CMD /Q /C START /REALTIME explorer.exe;
+```
 
 ### On Phone
 
@@ -577,6 +592,8 @@ powercfg /x  hibernate-timeout-ac 60
 
 [Users must enter a user name and password checkbox missing from netplwiz in Windows 10 Fix](https://thegeekpage.com/users-must-enter-a-user-name-and-password-checkbox-missing-from-netplwiz-in-windows-10-fix/)
 [Windows 10 auto login: Quick guide to setting it up - IONOS](https://www.ionos.com/digitalguide/server/configuration/windows-10-automatic-login/)
+
+Uncheck "Users must enter a user name and password to use this computer" in `netplwiz`
 
 ### Start Menu items
 

@@ -35,7 +35,7 @@ tags:
 
 [【資料修正版】9 分鐘看完高達正史宇宙世紀 UC 時間線! 主要作品簡介! (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=GoLsqo4WZWk)
 [阿蛋哥 | Facebook](https://www.facebook.com/%E9%98%BF%E8%9B%8B%E5%93%A5-103766332056350/)
-[阿蛋哥 Z - YouTube](https://www.youtube.com/channel/UCU0VHH6OsoSyrfZxsWUhAmQ)
+[阿蛋哥 Z - YouTube](https://www.youtube.com/@BroDanZ)
 [阿蛋哥講高達的个人空间\_哔哩哔哩\_bilibili](https://space.bilibili.com/1029093021?from=search)
 
 [逆襲的火力君 - YouTube](https://www.youtube.com/@Gundam_Home)

@@ -3,7 +3,7 @@ title: Ruby settings
 description: ""
 created: 2015-01-13
 tags:
-  - comp.lang
+  - comp/lang
   - gem
   - package-manager
   - python

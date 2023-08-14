@@ -2,6 +2,7 @@
 title: Portable Document Format (PDF)
 description: ""
 created: 2018-10-27
+updated: 2023-07-08
 tags:
   - business
   - desktop
@@ -11,7 +12,7 @@ tags:
 
 - PDF (FTG): full text and graphics (preferably in vector except pictures)
 - PDF (I): embeds images
-- PDF (I+HT): images + hiddnen text (OCR'ed)
+- PDF (I+HT): images + hidden text (OCR'ed)
 
 [Convert document, image, video and audio files online](https://www.aconvert.com/)
 [How to Merge PDF Files in Linux - It's FOSS](https://itsfoss.com/merge-pdf-linux/)
@@ -26,6 +27,8 @@ PDF 簽署 <https://sign.new>
 [Free PDF Reader - Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)
 
 [Poppler](https://poppler.freedesktop.org/) PDF rendering library
+
+[zathura - pwmt.org](https://pwmt.org/projects/zathura/)
 
 [PDFObject: A JavaScript utility for embedding PDFs](https://pdfobject.com/) uses browser's native support
 
@@ -60,8 +63,8 @@ Annotation:
 [How to convert pdf to image on Linux command line - nixCraft](https://www.cyberciti.biz/faq/how-to-convert-pdf-to-image-on-linux-command-line/)
 
 ```sh
-pdftoppm <input.pdf> <output.jpg> -jpeg
-pdftoppm <input.pdf> <output.png> -jpeg
+pdftoppm <input.pdf> <output> -jpeg
+pdftoppm <input.pdf> <output> -jpeg
 pdftoppm -f <start_page> -l end_page -jpeg
 ```
 

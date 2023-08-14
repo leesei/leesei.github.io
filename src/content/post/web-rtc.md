@@ -2,6 +2,7 @@
 title: WebRTC
 description: ""
 created: 2019-06-20
+updated: 2023-07-27
 tags:
   - web
   - webrtc
@@ -38,6 +39,7 @@ tags:
 ## NAT
 
 [WebRTC in the real world: STUN, TURN and signaling - HTML5 Rocks](https://www.html5rocks.com/en/tutorials/webrtc/infrastructure/)
+[Еnvironment: signaling, STUN and TURN servers – Medialooks Help Center](https://support.medialooks.com/hc/en-us/articles/360000213312-%D0%95nvironment-signaling-STUN-and-TURN-servers)
 
 [STUN - Wikiwand](https://www.wikiwand.com/en/STUN)
 [Interactive Connectivity Establishment - Wikiwand](https://www.wikiwand.com/en/Interactive_Connectivity_Establishment)

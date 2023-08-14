@@ -189,9 +189,12 @@ powercfg /batteryreport /output "C:\battery_report.html"
 
 ## Mechanical Battery
 
-[Gyrobus: The Incredible 1950s Flywheel Powered Bus - YouTube](https://www.youtube.com/watch?v=eygNSRW03l0)
 [The Mechanical Battery - YouTube](https://www.youtube.com/watch?v=_QLEERYS5C8)
+[Breakthrough Energy Storage Tech CRUSHES battery prices by 90%! - YouTube](https://www.youtube.com/watch?v=porCfVeWyto)
 [The Mechanical Battery: How Flywheels are Changing the Game - YouTube](https://www.youtube.com/watch?v=IzDIN-inyUk)
+
+[This Insane Bus Was ELECTRIC & Didn't Have Batteries! - YouTube](https://www.youtube.com/watch?v=LHyUDihL_FQ)
+[Gyrobus: The Incredible 1950s Flywheel Powered Bus - YouTube](https://www.youtube.com/watch?v=eygNSRW03l0)
 
 ---
 

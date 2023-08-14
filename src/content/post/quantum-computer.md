@@ -2,8 +2,9 @@
 title: Quantum Computer
 description: ""
 created: 2015-12-11
+updated: 2023-06-22
 tags:
-  - comp
+  - comp/hardware
   - science
 ---
 
@@ -38,7 +39,12 @@ tags:
 
 [Quantum computing in the 21st Century – with David Jamieson - YouTube](https://www.youtube.com/watch?v=zxml8UQSwC0)
 [Quantum Computers Could Solve These Problems - YouTube](https://www.youtube.com/watch?v=IhS6ecYZFdQ)
+
+[Lisp, The Quantum Programmer's Choice - Computerphile - YouTube](https://www.youtube.com/watch?v=svmPz5oxMlI)
+[Current State of Quantum Computing - Computerphile - YouTube](https://www.youtube.com/watch?v=PN7mPYcWFKg)
 [Superposition in Quantum Computers - Computerphile - YouTube](https://www.youtube.com/watch?v=kv-YXKRUheQ)
+[Quantum Instruction Set - Computerphile - YouTube](https://www.youtube.com/watch?v=ZN0lhYU1f5Q)
+[Quantum Computing 'Magic' - Computerphile - YouTube](https://www.youtube.com/watch?v=BYx04e35Xso)
 
 [PLAY NETTY](https://phys.cam/game/) study on how human solved problem as quantum computers
 

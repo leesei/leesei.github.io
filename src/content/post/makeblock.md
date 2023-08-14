@@ -3,7 +3,7 @@ title: Makeblock
 description: ""
 created: 2019-06-12
 tags:
-  - comp.hardware
+  - comp/hardware
   - iot
   - makeblock
   - mbot

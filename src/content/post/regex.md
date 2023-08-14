@@ -3,7 +3,7 @@ title: Regular expression
 description: ""
 created: 2015-02-26
 tags:
-  - comp.lang
+  - comp/lang
   - formal-language
   - javascript
   - perl

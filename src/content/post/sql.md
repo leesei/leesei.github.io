@@ -2,8 +2,9 @@
 title: SQL
 description: ""
 created: 2017-06-02
+updated: 2023-08-13
 tags:
-  - comp.lang
+  - comp/lang
   - sql
 ---
 
@@ -30,15 +31,6 @@ tags:
 [SQL Tutorial - w3resource](https://www.w3resource.com/sql/tutorials.php)
 [MySQL Resources | resources for mysql and mariadb admins and developers who are squealing for help](http://mysqlresources.com/)
 
-[Falling in Love with SQL Again. By harnessing the power of Common Table… | by Jeremy Dorn | Oct, 2021 | Towards Data Science](https://towardsdatascience.com/falling-in-love-with-sql-again-169d7fa56e47) creating temporary tables,
-
-```sql
-WITH
-  cte1 as (SELECT …),
-  cte2 as (SELECT …)
-SELECT * FROM cte1 JOIN cte2
-```
-
 [A Visual Explanation of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
 [me talking out loud » Blog Archive » “Getting” Joins](http://www.khankennels.com/blog/index.php/archives/2007/04/20/getting-joins/)
 
@@ -53,6 +45,19 @@ SELECT * FROM cte1 JOIN cte2
 [MySQL :: MySQL 5.7 Reference Manual :: 13 SQL Statement Syntax](https://dev.mysql.com/doc/refman/5.7/en/sql-syntax.html)
 
 [harelba/q: q - Run SQL directly on CSV or TSV files](https://github.com/harelba/q)
+
+## Tips and Tricks
+
+[Stop using COUNT(id) to count rows - YouTube](https://www.youtube.com/watch?v=H6juZ8c_Nu8) `SELECT COUNT(*)` allows the optimizer to choose the best way to compute the value
+
+[Falling in Love with SQL Again. By harnessing the power of Common Table… | by Jeremy Dorn | Oct, 2021 | Towards Data Science](https://towardsdatascience.com/falling-in-love-with-sql-again-169d7fa56e47) creating temporary tables,
+
+```sql
+WITH
+  cte1 as (SELECT …),
+  cte2 as (SELECT …)
+SELECT * FROM cte1 JOIN cte2
+```
 
 ## SQL injection
 

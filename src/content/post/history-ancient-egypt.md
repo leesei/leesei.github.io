@@ -2,8 +2,10 @@
 title: Ancient Egypt History
 description: ""
 created: 2015-10-09
+updated: 2023-07-25
 tags:
   - history
+  - history/egypt
 ---
 
 [Ancient Egypt - Wikiwand](https://www.wikiwand.com/en/Ancient_Egypt)
@@ -37,17 +39,22 @@ Early Civilization in Upper Egypt is influenced by Uruk in Mesopotamia.
 c.3200 B.C. 𣵀伽達文化三期, 進入國家社會階段
 
 Egypt civilization has 31 Dynasties
+[Egyptian Pharaohs Family Tree | Dynasties 1 to 31 - YouTube](https://www.youtube.com/watch?v=Qsz61jH-pso)
 Hieraconpolis 希拉孔波利斯 worships Horus, 𣵀伽達 worships Set
-Scorpion King II was a great king of 希拉孔波利斯
+Scorpion King II was a great king of Hieraconpoli
 But 提尼斯 united Egypt at the end as established the 1st Dynasty
 [Old Kingdom of Egypt - Wikiwand](https://www.wikiwand.com/en/Old_Kingdom_of_Egypt)
-The first two Dynasties have 殉葬制度
+The first two Dynasties have human sacrifices (殉葬)
 2613-2181 B.C., Old Kingdom (3rd-6th Dynasty), The Great Pyramid of Khufu was built during 2589-2566 B.C., rise of power of local elites weakened the sovereignty of Pharaohs
 7th-10th Dynasties are short lived and the Pharaohs probably lost control outside of Memphis, 9th and 10th Dynasties formed around Hieraconpolis.
 [Middle Kingdom of Egypt - Wikiwand](https://www.wikiwand.com/en/Middle_Kingdom_of_Egypt)
 2040-1782 B.C., Middle Kingdom (11th-12th Dynasty) formed around Thebes in Upper Egypt and reunified Egypt. Nubia civilization also revived after being conquered by the First Kingdom. They were hired as mercenaries during the Middle Kingdom.
+1650-1550B.C., 15th Dynasty (Hyksos) in the Lower Egypt was a foreign dynasty (Canaanites). Some belived this dynasty is comtemplary with Joseph in the Bible.
 [New Kingdom of Egypt - Wikiwand](https://www.wikiwand.com/en/New_Kingdom_of_Egypt)
-1570-c.1069 B.C., New Kingdom (18th-20th Dynasty) 1500B.C. 圖坦卡蒙時代, 一神教興起
+1570-1069 B.C., New Kingdom (18th-20th Dynasty)
+1300B.C. Akhenaten, Nefertiti, Tutankhamun, 一神教興起
+303-30 B.C., 31st Dynasty Ptolemaic Dynasty
+[Ptolemaic Dynasty Family Tree - YouTube](https://www.youtube.com/watch?v=81ejlpIJXvs)
 
 [10 things you (probably) didn't know about ancient Egypt - HistoryExtra](https://www.historyextra.com/period/ancient-egypt/facts-ancient-egypt-mummification-cleopatra-pharaohs-tutankhamun-life-death/)
 [Top 15 Interesting Facts About Ancient Egypt That You May Not Know | Ancient Origins](https://www.ancient-origins.net/history-ancient-traditions/interesting-facts-ancient-egypt-0013496)

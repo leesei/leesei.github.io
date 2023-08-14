@@ -2,6 +2,7 @@
 title: Firearms
 description: Weapons with gun powder
 created: 2015-06-13
+updated: 2023-08-14
 tags:
   - weapons
 ---
@@ -24,6 +25,8 @@ tags:
 [Dark Tech - YouTube](https://www.youtube.com/@darktech4621/videos)
 [InRangeTV - YouTube](https://www.youtube.com/@InrangeTv)
 
+[Guns! - YouTube](https://www.youtube.com/playlist?list=PLBC8A83AD41790AB0) SmarterEveryDay
+
 More on military vehicles
 [AiTelly - YouTube](https://www.youtube.com/@Aitelly)
 [Armor Cast - YouTube](https://www.youtube.com/@ArmorCast)
@@ -36,7 +39,8 @@ More on military vehicles
 [What are the weirdest and most impractical looking guns you have ever seen? - Quora](https://www.quora.com/What-are-the-weirdest-and-most-impractical-looking-guns-you-have-ever-seen)
 [Top 10 Hilariously Impractical Historical Firearms - Listverse](http://listverse.com/2016/04/27/top-10-hilariously-impractical-historical-firearms/)
 
-[Evolution of Battlefield Technology - YouTube](https://www.youtube.com/playlist?list=PLxZAPogJjW_iTuwOb-0QGY9-LZtYtZM1v)
+[Evolution of Battlefield Technology - YouTube](https://www.youtube.com/playlist?list=PLxZAPogJjW_iTuwOb-0QGY9-LZtYtZM1v) Our History, machines
+[Military Mechanics - YouTube](https://www.youtube.com/playlist?list=PLew_Btt-OXp6Q9BpE-46yBxe1bYKK6ZvF) Interesting Engineering, machines
 [Muskets to Machine Guns: Evolution of Weapons (1837-1901) | Animated History - YouTube](https://www.youtube.com/watch?v=9289H6FCA2k)
 
 [Search Results gun](http://www.historynet.com/?s=gun)

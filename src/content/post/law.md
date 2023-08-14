@@ -10,6 +10,7 @@ tags:
 [SCOTUSblog - Independent News & Analysis on the U.S. Supreme Court](https://www.scotusblog.com/)
 
 [Law of the Game - Video Game and Gambling Legal Discussion](http://lawofthegame.com/)
+[LegalEagle - YouTube](https://www.youtube.com/@LegalEagle)
 
 [» 英国法下的“一事不再理”](http://huizhonglaw.com/cn/%e6%b1%87%e4%bb%b2%e5%be%8b%e5%b8%88-%e4%b8%93%e4%b8%9a%e8%af%84%e8%ae%ba/%e8%8b%b1%e5%9b%bd%e6%b3%95%e4%b8%8b%e7%9a%84%e4%b8%80%e4%ba%8b%e4%b8%8d%e5%86%8d%e7%90%86/)
 

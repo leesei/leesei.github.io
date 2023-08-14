@@ -3,7 +3,7 @@ title: jQuery
 description: ""
 created: 2016-04-12
 tags:
-  - comp.lang
+  - comp/lang
   - jquery
 ---
 

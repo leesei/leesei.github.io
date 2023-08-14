@@ -183,7 +183,7 @@ function callAPIMiddleware({ dispatch, getState }) {
     dispatch(
       Object.assign({}, payload, {
         type: requestType,
-      })
+      }),
     );
 
     return callAPI().then(
@@ -192,15 +192,15 @@ function callAPIMiddleware({ dispatch, getState }) {
           Object.assign({}, payload, {
             response,
             type: successType,
-          })
+          }),
         ),
       (error) =>
         dispatch(
           Object.assign({}, payload, {
             error,
             type: failureType,
-          })
-        )
+          }),
+        ),
     );
   };
 }

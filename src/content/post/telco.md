@@ -5,7 +5,7 @@ created: 2019-06-13
 tags:
   - 4g
   - 5g
-  - comp.hardware
+  - comp/hardware
 ---
 
 [前华为员工谈 5G 及华为的竞争力（电磁波、5G 的演进、标准之争）（57） - YouTube](https://www.youtube.com/watch?v=n8bYXMSRY_Y)

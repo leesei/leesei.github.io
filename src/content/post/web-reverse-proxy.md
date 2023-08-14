@@ -2,6 +2,7 @@
 title: Reverse Proxy
 description: ""
 created: 2015-06-17
+updated: 2023-07-25
 tags:
   - dev/deploy
   - web
@@ -12,6 +13,7 @@ tags:
 [What is a Reverse Proxy Server? | NGINX](https://www.nginx.com/resources/glossary/reverse-proxy-server/)
 
 [Proxy vs Reverse Proxy Server Explained - YouTube](https://www.youtube.com/watch?v=SqqrOspasag)
+[Proxy vs Reverse Proxy Explained - YouTube](https://www.youtube.com/watch?v=RXXRguaHZs0)
 [webserver - Difference between proxy server and reverse proxy server - Stack Overflow](https://stackoverflow.com/questions/224664/difference-between-proxy-server-and-reverse-proxy-server?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
 
 [Load balancing in Layer 4 vs Layer 7 with HAPROXY Examples - YouTube](https://www.youtube.com/watch?v=aKMLgFVxZYk)

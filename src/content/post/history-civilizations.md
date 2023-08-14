@@ -2,6 +2,7 @@
 title: Ancient Civilizations
 description: ""
 created: 2020-01-23
+updated: 2023-08-12
 tags:
   - history
 ---
@@ -195,6 +196,7 @@ around the same time, the British Romans were attacked by the Celtic Picks from 
 [Mycenaean Civilization - World History Encyclopedia](https://www.worldhistory.org/Mycenaean_Civilization/)
 [Ancient Greece: Government and Facts | HISTORY.com - HISTORY](https://www.history.com/topics/ancient-greece)
 [Ancient Greece – Smarthistory](https://smarthistory.org/ancient-mediterranean/ancient-greece/)
+[古希腊历史/History of Greece - YouTube](https://www.youtube.com/playlist?list=PLoFIX_udvBZnqI678oWSznqlGXXw_T5vO) 佚名
 
 [Greco-Persian Wars - Wikiwand](https://www.wikiwand.com/en/Greco-Persian_Wars) 499–449 BC
 [波希戰爭 - Wikiwand](https://www.wikiwand.com/zh-hant/%E6%B3%A2%E5%B8%8C%E6%88%98%E4%BA%89)
@@ -208,6 +210,10 @@ around the same time, the British Romans were attacked by the Celtic Picks from 
 [Legends Summarized: The Trojan War - YouTube](https://www.youtube.com/watch?v=TLodQGpIpIs)
 
 ### Alexander the Great
+
+> from Macedonia, North of Athens
+
+馬其頓方陣
 
 [Alexander the Great's Conquests - YouTube](https://www.youtube.com/playlist?list=PLaBYW76inbX5gW1dT5HvFcKUkrG5hvJPF) Kings and Generals
 [Alexander the Great (All Parts) - YouTube](https://www.youtube.com/watch?v=K7lb6KWBanI) Epic History TV
@@ -262,6 +268,8 @@ around the same time, the British Romans were attacked by the Celtic Picks from 
 When Rome Empire crumbles, the Greek speaking officials fled to modern Turkey and created Byzantine Empire, around the time of 唐朝
 
 ### Ottoman Empire
+
+[The History of the Ottoman Empire (All Parts) - 1299 - 1922 - YouTube](https://www.youtube.com/watch?v=f9c4Y7Vf7G0) 1:32:05
 
 ### Islamic Empire
 

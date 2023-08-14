@@ -2,6 +2,7 @@
 title: React Native
 description: Learn once, write anywhere.
 created: 2023-06-10
+updated: 2023-07-08
 tags:
   - app
   - mobile
@@ -33,6 +34,7 @@ Write React JSX and deploy to iOS and Android.
 
 [State of React Native 2018 · React Native](https://facebook.github.io/react-native/blog/2018/06/14/state-of-react-native-2018) addressed most of Airbnb's issue
 [Performance Calendar » React Native – Sync & Async Rendering Performance](https://calendar.perfplanet.com/2018/react-native-sync-async/)
+[I think about this article a lot... - YouTube](https://www.youtube.com/watch?v=ZM8lJIJb2Q4) Theo's reaction in 2023
 
 [Free React Native Workshop - YouTube](https://www.youtube.com/playlist?list=PLqrUy7kON1mcz_YjiwElKqJezF7FdXBX_)
 [React Native Crash Course | Build a Complete App - YouTube](https://www.youtube.com/watch?v=VozPNrt-LfE)

@@ -2,6 +2,7 @@
 title: PlayStation 3 Emulator
 description: ""
 created: 2023-06-12
+updated: 2023-08-06
 tags:
   - emulator
   - games
@@ -39,10 +40,8 @@ Uncharted 3: Drake's Deception
 LittleBigPlanet
 LittleBigPlanet 2
 LittleBigPlanet 3
-Red Dead Redemption
 The Last of Us
 The Last of Us: Left BehindRX
-Persona 5
 God of War Collection
 God of War III
 Metal Gear Solid 4: Guns of the Patriots
@@ -52,3 +51,5 @@ Ratchet & Clank Future: A Crack in Time
 The ICO & Shadow of the Colossus Collection
 Starhawk
 Castlevania: Lords of ShadowJourney
+Tales of Graces
+Tales of Xillia

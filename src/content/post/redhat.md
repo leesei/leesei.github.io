@@ -2,6 +2,7 @@
 title: Redhat
 description: ""
 created: 2016-04-24
+updated: 2023-06-23
 tags:
   - centos
   - desktop
@@ -10,9 +11,9 @@ tags:
   - redhat
 ---
 
-[Red Hat Enterprise Linux operating system](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
-[CentOS Project](https://www.centos.org/) is an community fork of RHEL, no Redhat support.
-[Fedora](https://getfedora.org/) is the official open source version of RHEL, test ground for RHEL features.
+[Red Hat Enterprise Linux operating system](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) freezes the Fedora a year or two before its release
+[CentOS Project](https://www.centos.org/) is an community fork of RHEL, like a beta stream sitting between Fedora and Redhat
+[Fedora](https://getfedora.org/) is the official open source version of RHEL, bleeding edge, test ground for RHEL features
 [AlmaLinux OS - Forever-Free Enterprise-Grade Operating System](https://almalinux.org/)
 [Korora Project](https://kororaproject.org/) [discontinued](https://kororaproject.org/about/news/time-for-a-break)
 

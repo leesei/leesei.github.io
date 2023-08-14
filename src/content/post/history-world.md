@@ -4,6 +4,7 @@ description: ""
 created: 2015-10-09
 tags:
   - history
+  - history/world
 ---
 
 [[history-civilizations]]

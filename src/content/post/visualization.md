@@ -111,7 +111,7 @@ Server-client architecture, with Python, JS, Scala, R clients
 
 [High-level tools to simplify visualization in Python — HoloViz documentation](https://holoviz.org/)
 
-![](_assets/visualization/holoviz.png)
+![](/_assets/visualization/holoviz.png)
 
 [Datashader](http://datashader.org/) Accurately render even the largest data
 [HoloViews — HoloViews](http://holoviews.org/) Datashader + Bokeh

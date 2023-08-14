@@ -7,11 +7,14 @@ tags:
   - history
 ---
 
-[Gaming Historian - YouTube](https://www.youtube.com/c/gaminghistorian)
-[Retrohistories - YouTube](https://www.youtube.com/user/trioptimumuk)
-[strafefox - YouTube](https://www.youtube.com/channel/UCtt_NEKZ4MoH4O7BT3SbXTA)
-[GVMERS - YouTube](https://www.youtube.com/channel/UCSuhUzpdXg9jme6eN6HA_IA)
-[Thomas Game Docs - YouTube](https://www.youtube.com/channel/UCyy7dZhgfeMMctSoo3wDXlQ)
+[Gaming Historian - YouTube](https://www.youtube.com/@GamingHistoria)
+[Retrohistories - YouTube](https://www.youtube.com/@retrohistories)
+[strafefox - YouTube](https://www.youtube.com/@strafefox)
+[GVMERS - YouTube](https://www.youtube.com/@GVMERS)
+[LowSpecGamer - YouTube](https://www.youtube.com/@LowSpecGamer)
+[Thomas Game Docs - YouTube](https://www.youtube.com/@ThomasGameDocs)
+[The Golden Bolt - YouTube](https://www.youtube.com/@TheGoldenBolt)
+[NeverKnowsBest - YouTube](https://www.youtube.com/@NeverKnowsBest)
 
 [I am Error - Wikiwand](https://www.wikiwand.com/en/I_am_Error)
 
@@ -23,21 +26,22 @@ tags:
 [Sega Megadrive Video Game Programming - YouTube](https://www.youtube.com/playlist?list=PLzH6n4zXuckpNBPBn9BzKN4Ms_dkDFF6S)
 [How we fit an NES game into 40 Kilobytes - YouTube](https://www.youtube.com/watch?v=ZWQ0591PAxM&t=643s)
 
-[Retro Game Mechanics Explained - YouTube](https://www.youtube.com/channel/UCwRqWnW5ZkVaP_lZF7caZ-g)
+[Retro Game Mechanics Explained - YouTube](https://www.youtube.com/@RGMechEx)
 [Pac-Man Ghost AI Explained - YouTube](https://www.youtube.com/watch?v=ataGotQ7ir8)
 
-[The Nostalgic Gamer - YouTube](https://www.youtube.com/channel/UC6-P7F2jIdNizQlCmFnJ5YQ)
+[The Nostalgic Gamer - YouTube](https://www.youtube.com/@TheNostalgicGamer)
 [Darkstalkers Forever Project - YouTube](https://www.youtube.com/playlist?list=PLuzXM6Wx_4n2R18xpPNdZChZHC6xYVXhQ)
 
-[codetapper - YouTube](https://www.youtube.com/channel/UC962TiiADW1aVfHjeWlSbZA)
+[codetapper - YouTube](https://www.youtube.com/@Codetapper)
 
 [War Stories - YouTube](https://www.youtube.com/playlist?list=PLKBPwuu3eCYkScmqpD9xE7UZsszweVO0n) Ars Technica
 
 [【亦】游戏作弊码是怎么来的？又是怎么没的？ - YouTube](https://www.youtube.com/watch?v=jDnqiPyWLhY)
 
-[Noclip - YouTube](https://www.youtube.com/c/NoclipVideo/featured) Game documentaries
-[ThatGuyGlen - YouTube](https://www.youtube.com/c/ThatGuyGlen)
-[NG 小熊 - YouTube](https://www.youtube.com/@ng4497/featured)
+[Noclip - YouTube](https://www.youtube.com/@NoclipDocs) Game documentaries
+[ThatGuyGlen - YouTube](https://www.youtube.com/@ThatGuyGlen)
+[NG 小熊 - YouTube](https://www.youtube.com/@ng4497)
+[游研社 YYSTV - YouTube](https://www.youtube.com/@YYSTV)
 
 [Dungeon Generation in Diablo 1 – BorisTheBrave.Com](https://www.boristhebrave.com/2019/07/14/dungeon-generation-in-diablo-1/)
 [Street Fighter 1: An oral history - Polygon](https://www.polygon.com/2020/7/7/21270906/street-fighter-1-oral-history-takashi-nishiyama)
@@ -45,12 +49,6 @@ tags:
 [The Animation of Sonic Games - YouTube](https://www.youtube.com/watch?v=GxCcHOvSVJQ)
 
 [Console Wars review: Sega takes on Nintendo in lively gaming documentary - Polygon](https://www.polygon.com/platform/amp/2020/9/23/21450733/console-wars-review-documentary-movie-cbs-all-access-release-date-streaming)
-
-## LEGO games
-
-[LEGO Gaming - YouTube](https://www.youtube.com/channel/UCzVnXCLWqY5dtOBn9UZoFTw)
-[Retro LEGO Games We Miss Playing - YouTube](https://www.youtube.com/playlist?list=PLayhyO1epulQUwFkswXLzAZpNmUebwfPx)
-[Nostalgia STUDy - Lego Rock Raiders - YouTube](https://www.youtube.com/watch?v=xa5m_Vm2wMM)
 
 ## Konami History
 
@@ -76,6 +74,16 @@ tags:
 
 [Power On: The Story of Xbox - YouTube](https://www.youtube.com/playlist?list=PL0il2l-B_WwadxfTkK3-NLoYNcQEHdBGO)
 [Microsoft's 3 Biggest Mistakes | Gaming Historian - YouTube](https://www.youtube.com/watch?v=8CapGWzI5Mo)
+
+## Quake III
+
+[REVEALED: Quake III's SECRET Algorithm! - YouTube](https://www.youtube.com/watch?v=uCv5VRf8op0)
+[REVEALED: The Quake III Secret Algorithm! Part 2 - YouTube](https://www.youtube.com/watch?v=Fm0vygzVXeE)
+
+[Fast Inverse Square Root — A Quake III Algorithm - YouTube](https://www.youtube.com/watch?v=p8u_k2LIZyo)
+[Prime React: Fast Inverse Square Root — A Quake III Algorithm - YouTube](https://www.youtube.com/watch?v=0K4vzfwV-wo)
+
+[BSP Trees: The Magic Behind Collision Detection in Quake - YouTube](https://www.youtube.com/watch?v=wLHXn8IlAiA)
 
 ## Square RPGs
 
@@ -157,7 +165,7 @@ Speed runs usually exploit glitches in game.
 ## Consoles
 
 [Nostalgia Nerd - YouTube](https://www.youtube.com/user/nostalgianerdvideos/playlists?view=50&sort=dd&shelf_id=14)
-[Modern Vintage Gamer - YouTube](https://www.youtube.com/channel/UCjFaPUcJU1vwk193mnW_w1w)
+[Modern Vintage Gamer - YouTube](https://www.youtube.com/@ModernVintageGamer)
 
 [Retro Station History Part 1: The Early History - Indiegala Blog](https://blog.indiegala.com/index.php/retro-station-history-part-1-the-early-history/)
 [Retro Stations Part 2: New Kids On The Block - Indiegala Blog](https://blog.indiegala.com/index.php/retro-stations-part-2-new-kids-on-the-block/?utm_source=sendinblue&utm_campaign=The_Outer_Worlds_-_Crackerjack_-_20200723&utm_medium=email)

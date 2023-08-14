@@ -2,8 +2,10 @@
 title: Generative AI
 description: ""
 created: 2023-05-08
+updated: 2023-08-09
 tags:
   - ai
+  - aigc
   - artificial-intelligence
   - comp
   - gan
@@ -15,6 +17,8 @@ Generator and Discriminator
 
 [What developers need to know about generative AI | The GitHub Blog](https://github.blog/2023-04-07-what-developers-need-to-know-about-generative-ai/)
 [How generative AI is changing the way developers work | The GitHub Blog](https://github.blog/2023-04-14-how-generative-ai-is-changing-the-way-developers-work/)
+
+[苹果 M2 Ultra：干翻英伟达！决战 AI 之巅 - YouTube](https://www.youtube.com/watch?v=UsfmqTb2NVY) The unified memory on Apple SoC fits transformer models very well
 
 [PyTorch Deep Learning Nanodegree: Generative Adversarial Networks](https://medium.com/datadriveninvestor/pytorch-deep-learning-nanodegree-generative-adversarial-networks-bc37e2b50a81)
 
@@ -75,6 +79,8 @@ Generator and Discriminator
 
 [新研究：大模型是「有意識地」一本正經胡說八道嗎？ | TechNews 科技新報](https://technews.tw/2023/06/12/do-large-language-models-know-what-they-do-not-know/)
 [[2305.18153] Do Large Language Models Know What They Don't Know?](https://arxiv.org/abs/2305.18153)
+[GPT 總愛「一本正經的胡說八道」怎麼辦？OpenAI 稱找到解決 AI「幻覺」方法 | T 客邦](https://www.techbang.com/posts/106813-what-to-do-with-ai-making-up-nonsense-openai-claims-to-find-a)
+[為什麼 ChatGPT 總是會「一本正經的胡說八道」？瞭解 GPT 語言模型的 6 個缺點與問題 | T 客邦](https://www.techbang.com/posts/104718-dark-side-of-chatgpt)
 
 [美律師使用 ChatGPT 寫摘要，被法院揭穿內容全是假 | TechNews 科技新報](https://technews.tw/2023/05/29/lawyer-use-ai-to-write-document-proved-fake/)
 
@@ -82,6 +88,13 @@ Generator and Discriminator
 
 [3D Photography using Context-aware Layered Depth Inpainting](https://shihmengli.github.io/3D-Photo-Inpainting/)
 [This AI Creates Beautiful 3D Photographs! - YouTube](https://www.youtube.com/watch?v=MrIbQ0pIFOg)
+
+## Monai
+
+[MONAI - Home](https://monai.io/)
+
+[[2307.15208] Generative AI for Medical Imaging: extending the MONAI Framework](https://arxiv.org/abs/2307.15208)
+[A New AI Research Introduces MONAI Generative Models: An Open-Source Platform that Allows Researchers and Developers to Easily Train, Evaluate, and Deploy Generative Models - MarkTechPost](https://www.marktechpost.com/2023/08/05/a-new-ai-research-introduces-monai-generative-models-an-open-source-platform-that-allows-researchers-and-developers-to-easily-train-evaluate-and-deploy-generative-models/)
 
 ## Text to Image
 
@@ -91,6 +104,9 @@ Generator and Discriminator
 
 [ARTSIO](https://www.artsio.xyz/)
 [NovelAI - The AI Storyteller](https://novelai.net/)
+
+[The best AI art tutorials: how to use text-to-image generators | Creative Bloq](https://www.creativebloq.com/features/ai-art-tutorials)
+[Here's how AI art generators compare | Creative Bloq](https://www.creativebloq.com/news/ai-art-generator-comparison)
 
 [How AI Image Generators Work (Stable Diffusion / Dall-E) - Computerphile - YouTube](https://www.youtube.com/watch?v=1CIpzeNxIhU)
 [Stable Diffusion in Code (AI Image Generation) - Computerphile - YouTube](https://www.youtube.com/watch?v=-lz30by8-sU)
@@ -121,8 +137,14 @@ Generator and Discriminator
 ### Midjourney
 
 [Midjourney](https://www.midjourney.com/home/)
+[Midjourney Quick Start Guide](https://docs.midjourney.com/docs)
+
+[Midjourney 輸入關鍵字，讓 AI 自動產生出超美圖片（最新 Midjourney V5 效果更好了！） - 電腦王阿達](https://www.kocpc.com.tw/archives/453331)
 [開箱 Midjourney AI 算圖工具！想讓 AI 畫出習大大、志祺，有可能嗎？《 好奇七七探索日記 》EP 029 ｜志祺七七 - YouTube](https://www.youtube.com/watch?v=ewl_UmiRPtA)
 [The Ultimate Guide to MidJourney V5 | by Henrique Centieiro | Apr, 2023 | Level Up Coding](https://levelup.gitconnected.com/the-ultimate-guide-to-midjourney-v5-828fa563f389)
+
+[Midjourney 玩家進階攻略！專家公開 1200 張以上神奇圖片以及參數大全免費開放取用 | T 客邦](https://www.techbang.com/posts/105911-free-ultimate-chatgpt-tips-midjourney-treasure-god-map-1200)
+[Midjourney 技巧教學-第一課：入門｜方格子 vocus](https://vocus.cc/article/6422b0f3fd89780001f2a2cf)
 
 ### Stable Diffusion
 
@@ -133,13 +155,21 @@ Better than DALL-E, also open source
 [Stable Diffusion: DALL-E 2 For Free, For Everyone! - YouTube](https://www.youtube.com/watch?v=nVhmFski3vg)
 [Google's AI: Stable Diffusion On Steroids! 💪 - YouTube](https://www.youtube.com/watch?v=XW_nO2NMH_g)
 
+[Stable Diffusion Art - tutorials, prompts, resources](https://stable-diffusion-art.com/)
 [子不語｜方格子 vocus](https://vocus.cc/user/5fb30029fd89780001f90400)
 [AI 紀行 - 文章列表｜方格子 vocus](https://vocus.cc/BHRiceAI/home)
+
+[AI 繪圖「Stable Diffusion」快速上手，Midjourney 的神級勁敵、開箱即用 | T 客邦](https://www.techbang.com/posts/99486-stable-diffusion-goes-live-for-free)
+[Stable Diffusion AI 算圖使用手冊（1-1）：這是什麼黑魔術？ | T 客邦](https://www.techbang.com/posts/105633-stable-diffusion-manual)
 
 [Imagen: Text-to-Image Diffusion Models](https://imagen.research.google/) using Stable Diffusion
 [Google 公開最新圖像生成 AI，輸出結果比 OpenAI DALL-E 2 更好 | iThome](https://www.ithome.com.tw/news/151126)
 [lucidrains/imagen-pytorch: Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch](https://github.com/lucidrains/imagen-pytorch)
 [Google’s Imagen AI: Outrageously Good! 🤖 - YouTube](https://www.youtube.com/watch?v=HyOW6fmkgrc)
+
+### Consistency Models
+
+[OpenAI 發表的生成圖片模型 Consistency Models 開源了！比 Diffusion 更快更強 | T 客邦](https://www.techbang.com/posts/105469-openais-newly-generated-model-is-open-source-faster-and)
 
 ## Super resolution/Frame interpolation
 
@@ -173,6 +203,11 @@ Better than DALL-E, also open source
 [Episode 67 GAN and Deep Fakes, Part 1 | Malicious Life](https://malicious.life/episode/episode-67/)
 [Episode 68 Deep Fakes, Part 2: Man Vs. Machine | Malicious Life](https://malicious.life/episode/episode-68/)
 
+### Coalition for Content Provenance and Authenticity (C2PA)
+
+[Overview - C2PA](https://c2pa.org/)
+[The future of "truth" on the Internet - YouTube](https://www.youtube.com/watch?v=-Bdb2KOb_zI)
+
 ## Lossless Compression
 
 [A Deep Learning Approach to Data Compression – The Berkeley Artificial Intelligence Research Blog](https://bair.berkeley.edu/blog/2019/09/19/bit-swap/)
@@ -181,8 +216,11 @@ Better than DALL-E, also open source
 ## Large Language Model/LLM
 
 [Large language model - Wikiwand](https://www.wikiwand.com/en/Large_language_model)
+["Catching up on the weird world of LLMs" - Simon Willison (North Bay Python 2023) - YouTube](https://www.youtube.com/watch?v=h8Jth_ijZyY)
+[LLM Foundations (LLM Bootcamp) - YouTube](https://www.youtube.com/watch?v=MyFrMFab6bo)
 
 [Open LLM Leaderboard - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+[Understanding the impact of open-source language models - TechTalks](https://bdtechtalks.com/2023/05/29/open-source-llms-cerebras-gpt/)
 
 [Aviary Explorer](https://aviary.anyscale.com/) compares responses from LLMs
 [A New Tool for the Open Source LLM Developer Stack: Aviary - The New Stack](https://thenewstack.io/a-new-tool-for-the-open-source-llm-developer-stack-aviary/)
@@ -224,6 +262,9 @@ Computerphile
 [Transformer (machine learning model) - Wikiwand](<https://www.wikiwand.com/en/Transformer%20(machine%20learning%20model)>)
 [Transformers — transformers documentation](https://huggingface.co/transformers/)
 [Write With Transformer](https://transformer.huggingface.co/)
+[[1706.03762] Attention Is All You Need](https://arxiv.org/abs/1706.03762) Google paper in 2017
+[Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!! - YouTube](https://www.youtube.com/watch?v=zxQyTK8quyY)
+
 [The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time.](https://jalammar.github.io/illustrated-transformer/)
 [Understanding Transformers in NLP: State-of-the-Art Models](https://www.analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/)
 [A Complete Learning Path To Transformers (Guide To 23 Architectures)](https://analyticsindiamag.com/a-complete-learning-path-to-transformers/)
@@ -240,8 +281,18 @@ Transformers (formerly known as `pytorch-transformers` and `pytorch-pretrained-b
 
 [youtube/Transformers at main · Me163/youtube](https://github.com/Me163/youtube/tree/main/Transformers)
 
+### Hyena
+
+[Hyena 可達到與 GPT-4 同等的準確性，但使用的算力少 100 倍 | T 客邦](https://www.techbang.com/posts/106376-hyena-gpt4-power)
+
 ### LangChain
 
+[LangChain: The Trendiest Web Framework of 2023, Thanks to AI - The New Stack](https://thenewstack.io/langchain-the-trendiest-web-framework-of-2023-thanks-to-ai/)
+[Unlocking the potential of large language models: Elastic's first code contribution to LangChain | Elastic Blog](https://www.elastic.co/blog/large-language-models-elastic-code-langchain)
+
+[LangChain tutorial #1: Build an LLM-powered app in 18 lines of code](https://blog.streamlit.io/langchain-tutorial-1-build-an-llm-powered-app-in-18-lines-of-code/)
+
+[One-Stop Framework Building Applications with LLMs](https://www.analyticsvidhya.com/blog/2023/05/one-stop-framework-building-applications-with-llms/)
 [LangChain is the Android to OpenAI’s iOS](https://analyticsindiamag.com/langchain-is-the-android-to-openais-ios/)
 [Unleashing the Power of LLM for Enterprise Applications with LangChain](https://analyticsindiamag.com/unleashing-the-power-of-llm-for-enterprise-applications-with-langchain/)
 [Breaking the Language Model Barriers with LangChain 🦜️🔗 | by Jayita Bhattacharyya | May, 2023 | Medium](https://itsjb13.medium.com/breaking-the-language-model-barriers-with-langchain-%EF%B8%8F-4976f450742)
@@ -266,14 +317,36 @@ Transformers (formerly known as `pytorch-transformers` and `pytorch-pretrained-b
 [Rust Artificial Intelligence (The Simple Way) - YouTube](https://www.youtube.com/watch?v=StMP7g-0wK4) `rust-bert`
 [BERT: one NLP model to rule them all (Practical AI #22) |> Changelog](https://changelog.com/practicalai/22)
 
+### Bard
+
+[Open-Source Bard API is Here](https://analyticsindiamag.com/open-source-bard-api-is-here/)
+[Google Bard AI 聊天機器人全球開放， 9 種案例應用的測試筆記](https://www.playpcesor.com/2023/05/google-bard-ai-9.html?m=1)
+
+### Claude
+
+[Anthropic \ Claude 2](https://www.anthropic.com/index/claude-2)
+free, accept larger amounts of tokens (100k vs 8k for GPT4)
+
+[ChatGPT 最大競爭對手 Claude 2 全面升級！功能強大且完全免費，值得一試的三個理由 - 第 1 頁 - The News Lens 關鍵評論網](https://www.thenewslens.com/article/189723)
+
 ### PalM
 
 [I built a fullstack PaLM AI app in just 2 minutes - YouTube](https://www.youtube.com/watch?v=shWEfRlmb6g)
+
+### Dolly
+
+[全球首個完全開源的大語言模型 Dolly，性能堪比 GPT3.5！ | T 客邦](https://www.techbang.com/posts/105519-open-source-dolly-gpt)
+
+### StableLM
+
+[Stability AI Launches the First of its StableLM Suite of Language Models — Stability AI](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)
 
 ### Llama
 
 [facebookresearch/llama: Inference code for LLaMA models](https://github.com/facebookresearch/llama)
 [Introducing LLaMA: A foundational, 65-billion-parameter language model](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
+
+[Is AI really getting dumber? Llama2 vs GPT-4 - YouTube](https://www.youtube.com/watch?v=DXWwCggFROk)
 
 [Meta’s LLaMA Leaked to the Public, Thanks To 4chan](https://analyticsindiamag.com/metas-llama-leaked-to-the-public-thanks-to-4chan/)
 [Leaked LLaMA Unveils the Power of Open Source](https://analyticsindiamag.com/leaked-llama-unveils-the-power-of-open-source/)
@@ -289,6 +362,8 @@ Transformers (formerly known as `pytorch-transformers` and `pytorch-pretrained-b
 
 [sahil280114/codealpaca](https://github.com/sahil280114/codealpaca) for code generation like GitHub CoPilot
 [lxe/simple-llm-finetuner: Simple UI for LLM Model Finetuning](https://github.com/lxe/simple-llm-finetuner)
+
+[Gorilla](https://shishirpatil.github.io/gorilla/)
 
 #### Alpaca
 
@@ -306,6 +381,7 @@ Transformers (formerly known as `pytorch-transformers` and `pytorch-pretrained-b
 
 ### Huggingface
 
+[OpenAI 和 Google 都怕這張「開源笑臉」！作為 AI 界 Github 的 Hugging Face 推進了 AI 的「民主化」 | T 客邦](https://www.techbang.com/posts/106333-what-openai-and-google-are-most-afraid-of-is-an-open-source)
 [The Falcon has landed in the Hugging Face ecosystem](https://huggingface.co/blog/falcon)
 
 ### GPT
@@ -329,6 +405,7 @@ GPT2
 ### ChatGPT
 
 [xx025/carrot: Free ChatGPT Site List 这儿为你准备了众多免费好用的 ChatGPT 镜像站点，当前 100+站点](https://github.com/xx025/carrot)
+[ChatGPT 歷史溯源：從 1950 年代講起，談聊天機器人的前世今生 | T 客邦](https://www.techbang.com/posts/104525-chatgpt-ai-robot)
 
 ChatGPT was based on GPT4
 [【震撼】chatGPT，一切才剛剛開始，我們要做好準備了 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=7uljoeHgN4g)
@@ -346,10 +423,21 @@ ChatGPT was based on GPT4
 
 #### Prompts
 
+[[2205.11916] Large Language Models are Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916) prompts like "Let's think step by step" (chain of thought prompts) is useful
+
 [【必看】解放實力！ChatGPT 全能方法＝全知的神 詠唱技巧 論文 功課 報告 文案 - YouTube](https://www.youtube.com/watch?v=oF74vvgq4Kc)
 [lencx/ChatGPT: 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT)
 [f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts)
 [All ChatGPT Prompts in 1 Article. Create Your Perfect ChatGPT Prompt | by Arslan Mirza | Medium | Level Up Coding](https://levelup.gitconnected.com/all-chatgpt-prompts-in-1-article-2efbacdfa24c)
+[不知道怎麼獲得 ChatGPT 更精準、更詳細的回答嗎？35 個萬用公式整理給你 - 電腦王阿達](https://www.kocpc.com.tw/archives/494045)
+
+[prompt-engineering-note — 提示工程笔记](https://islinxu.github.io/prompt-engineering-note/)
+[Prompt engineering for AI: what is prompt engineering and how to get good results from AI engines - DEV Community](https://dev.to/github/prompt-engineering-for-ai-what-is-prompt-engineering-and-how-to-get-good-results-from-ai-engines-5ch6)
+[微軟官方親自出教學指南，介紹 Prompt 工程中的一些進階玩法 | T 客邦](https://www.techbang.com/posts/106279-microsoft-advanced-promp)
+[我的 ChatGPT 怎麼用總是比別人笨？11 個 GPT 提示詞技巧，最佳化你的問題 | T 客邦](https://www.techbang.com/posts/105403-11-tips-to-optimize-chatgpt-prompt-words-so-you-can-get)
+[Prompt engineering techniques with Azure OpenAI - Azure OpenAI Service | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering)
+[如何讓 ChatGPT 產出更精確的答案 — 淺談 Prompt Engineering (一)｜方格子 vocus](https://vocus.cc/article/6463933cfd89780001772ad3)
+[如何讓 ChatGPT 產出更精確的答案 — 淺談 Prompt Engineering (二)｜方格子 vocus](https://vocus.cc/article/64639456fd897800017741e2)
 
 Glitch Prompt
 [GPT3: An Even Bigger Language Model - Computerphile - YouTube](https://www.youtube.com/watch?v=_8yVOC4ciXc)
@@ -368,3 +456,9 @@ Glitch Prompt
 
 [ColossalAI/applications/ChatGPT at main · hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI/tree/main/applications/ChatGPT)
 [Replicate ChatGPT Training Quickly and Affordable with Open Source Colossal-AI](https://www.hpc-ai.tech/blog/colossal-ai-chatgpt)
+
+### Coding
+
+[[github#Copilot]]
+
+[StarCoder: A State-of-the-Art LLM for Code](https://huggingface.co/blog/starcoder)

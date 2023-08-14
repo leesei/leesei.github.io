@@ -2,6 +2,7 @@
 title: Monorepo
 description: Monorepo and tools
 created: 2023-06-14
+updated: 2023-08-13
 tags:
   - app
   - git
@@ -17,6 +18,7 @@ tags:
 
 [Mono-repo or multi-repo? Why choose one, when you can have both?](https://medium.com/@patrickleet/mono-repo-or-multi-repo-why-choose-one-when-you-can-have-both-e9c77bd0c668) `meta`
 [Repo style wars: mono vs multi](http://www.gigamonkeys.com/mono-vs-multi/)
+[Why Google and Meta Put Billion Lines of Code In 1 Repository? - YouTube](https://www.youtube.com/watch?v=x3cANGNPyx0)
 
 [Advantages of monorepos](https://danluu.com/monorepo/)
 [Pros and Cons of Using Monorepos - FOSSA](https://fossa.com/blog/pros-cons-using-monorepos/)

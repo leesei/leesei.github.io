@@ -4,7 +4,7 @@ description: ""
 created: 2019-01-29
 tags:
   - bluetooth
-  - comp.hardware
+  - comp/hardware
 ---
 
 [Bluetooth - Wikiwand](https://www.wikiwand.com/en/Bluetooth)

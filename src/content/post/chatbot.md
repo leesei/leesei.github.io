@@ -12,8 +12,9 @@ tags:
 [Build chat bots with Microsoft's Bot Framework | InfoWorld](http://www.infoworld.com/article/3152158/application-development/build-chat-bots-with-microsofts-bot-framework.html)
 [MS Bots - SitePoint Premium](https://www.sitepoint.com/premium/courses/ms-bots-2939)
 
-[BotUI - A JavaScript framework to build conversational UIs.](https://botui.org/)
-[botui/botui: 🤖 A JavaScript framework to create conversational UIs](https://github.com/botui/botui)
+[BotUI - Create customizable conversational UIs](https://botui.org/)
+[Introduction | BotUI](https://docs.botui.org/)
+[botui/botui: 🤖 A JavaScript framework for building conversational UIs](https://github.com/botui/botui)
 
 [LucasBassetti/react-simple-chatbot: Easy way to create conversation chats](https://github.com/LucasBassetti/react-simple-chatbot)
 

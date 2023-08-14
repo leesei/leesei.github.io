@@ -164,7 +164,7 @@ An open source FS by EMC, the one behind
 
 ## Lustre File system
 
-[Lustre (file system) - Wikiwand](https://www.wikiwand.com/en/Lustre_(file_system%29)
+[Lustre (file system) - Wikiwand](<https://www.wikiwand.com/en/Lustre_(file_system)>)
 [Lustre](http://lustre.org/)
 
 [The Lustre Distributed Filesystem | Linux Journal](https://www.linuxjournal.com/content/lustre-distributed-filesystem)

@@ -4,7 +4,7 @@ description: CMake is an extensible, open-source system that manages the build p
 created: 2023-05-31
 tags:
   - cmake
-  - comp.lang
+  - comp/lang
   - make
 ---
 

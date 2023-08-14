@@ -2,8 +2,9 @@
 title: Computer Hardware
 description: ""
 created: 2016-09-27
+updated: 2023-08-13
 tags:
-  - comp.hardware
+  - comp/hardware
 ---
 
 [Pick parts. Build your PC. Compare and share. - PCPartPicker](https://pcpartpicker.com/)
@@ -66,7 +67,9 @@ Analytical Engine
 
 [Moore's Law is the reason your iPhone is so thin and cheap - CNET](https://www.cnet.com/tech/mobile/moores-law-is-the-reason-why-your-iphone-is-so-thin-and-cheap/)
 [Processor progress is alive and well, the maker of Apple's iPhone chips says - CNET](https://www.cnet.com/tech/mobile/processor-progress-is-alive-and-well-tsmc-builder-of-apple-iphone-chips-says/)
+[Please, no Moore: 'Law' that defined how chips have been made for decades has run itself into a cul-de-sac • The Register](https://www.theregister.com/2021/08/05/moores_law_what_next/)
 
+[How Dead is Moore's Law? - YouTube](https://www.youtube.com/watch?v=gWTnpy7sw2g)
 [The Next Decade of Software Development - Richard Campbell - NDC London 2023 - YouTube](https://youtu.be/ND_AjF_KTD8?t=370)
 
 XMP Super Computer circa 1985, 200kW, cooled with mineral oil, 1.9G Flops/s
@@ -202,7 +205,7 @@ A4 机箱: GPU 背靠底板
 [How To Choose The BEST Fans For Your PC Build - YouTube](https://www.youtube.com/watch?v=tGenFt-m7Zk)
 [The Best 120mm Case Fan Shootout: Arctic vs. be quiet!, BlackNoise, Noctua, Scythe & SilverStone - YouTube](https://www.youtube.com/watch?v=WBoLyC0tSDQ)
 
-Sleeve bearing: lubricans will dry out; better vertical then horizontal
+Sleeve bearing: lubricants will dry out; better vertical then horizontal
 Hydraulic bearing: advanced sleeve bearing; susceptible to dust and dirt, more play, cheapest; better horizontal then vertical; leakage
 Ball bearing: steel balls or rods acts a bearing;
 Maglev bearing:
@@ -222,22 +225,16 @@ Since CPU and GPU both takes 12V, make sure the 12V rail (not the total) can sup
 [How Power Supplies Work - Turbo Nerd Edition - YouTube](https://www.youtube.com/watch?v=i9ZnaA8DZDs)
 [電源測試文閱讀小指南 Part II @ 港都狼窩 WolfLSI's Den :: 痞客邦 ::](https://wolflsi.pixnet.net/blog/post/67908465)
 
-[PSU Hierarchy 2022 [PC Power Supply Tier List] - GPU Mag](https://www.gpumag.com/psu-hierarchy/)
-[PSU Hierarchy (Apr. 2022) - Power Supply Unit List](https://www.gamingscan.com/psu-hierarchy/)
-[Cybenetics Labs – PSU Efficiency & Noise Level Certifications](https://www.cybenetics.com/)
-
-[Power Supply Calculator – PSU Wattage Calculator | Newegg](https://www.newegg.com/global/hk-en/tools/power-supply-calculator/)
-[瓦數計算器 | 全漢企業](https://www.fsp-group.com/tw/CalculatorWattage.html)
-[電源供應器 (PSU) 要選多大的瓦數，簡單算一下 /顯卡瓦數/遊戲 PC DIY 入門 - YouTube](https://www.youtube.com/watch?v=LJ-qDZQOzpk)
-[【硬件科普】如何合理科学的选择电源功率的大小？ - YouTube](https://www.youtube.com/watch?v=dtxiPVd4l9M)
-
-[How Power Supplies Work - Turbo Nerd Edition - YouTube](https://www.youtube.com/watch?v=i9ZnaA8DZDs)
+[PSU Hierarchy 2023 [PC Power Supply Tier List] - GPU Mag](https://www.gpumag.com/psu-hierarchy/)
+[PSU Hierarchy (June 2023) - Power Supply Unit List](https://www.gamingscan.com/psu-hierarchy/)
+[[EOL] PSU Tier List rev. 14.8 - Power Supplies - Linus Tech Tips](https://linustechtips.com/topic/1116640-eol-psu-tier-list-rev-148/)
 
 - linear PSU (Full bridge rectifiers)
 - switching PSU (AC->high voltage DC->PF corrected high voltage high frequency AC->DC)
 
 [How Power Supplies Are Made (2020) | PSU Factory Tour, ft. Cooler Master - YouTube](https://www.youtube.com/watch?v=WLTKRZxXa4I)
 [Power Supply Testing & Failure Analysis: Engineering the Best PSUs (2020) - YouTube](https://www.youtube.com/watch?v=WToOFblsXqM)
+[Cybenetics Labs – PSU Efficiency & Noise Level Certifications](https://www.cybenetics.com/)
 
 SFF: Small Form Factor
 UCFF: Ultra-Compact Form-Factor
@@ -248,8 +245,8 @@ Gamers Nexus
 [Power Supply Mistakes, Tier Lists, & Myths, ft. Jonny Guru - YouTube](https://www.youtube.com/watch?v=keMS-4SYGNU)
 [Good vs. Bad Power Supply Differences Explained by PSU Expert Jonny Guru - YouTube](https://www.youtube.com/watch?v=yDX_1PWUWdw)
 
-[[psucultists] PSU Tier List - Cases and Power Supplies - Linus Tech Tips](https://linustechtips.com/main/topic/1116640-psucultists-psu-tier-list/)
-[PSU Hierarchy (Aug. 2020) - Power Supply Unit Tier List](https://www.gamingscan.com/psu-hierarchy/)
+LTT's power test equipment
+[WHY is Everyone Buying This Power Supply?? - YouTube](https://www.youtube.com/watch?v=-n8N62DeNDU)
 
 [How To Choose a Power Supply - YouTube](https://www.youtube.com/watch?v=1kl7EhIbhuI)
 [The Differences between All Corsair Power Supply Units](https://www.custompcguide.net/the-differences-between-all-corsair-power-supply-units/)
@@ -259,6 +256,13 @@ Gamers Nexus
 
 [如何查詢電源供應器 PSU 是哪家代工的 並附常見電供查詢結果 - YouTube](https://www.youtube.com/watch?v=iwiw9tafv04)
 [如何查詢電源供應器 PSU 是哪家代工的](https://www.chsnote.com/2021/10/psu-manufacturer.html)
+
+## PSU Wattage Calculator
+
+[Power Supply Calculator – PSU Wattage Calculator | Newegg](https://www.newegg.com/tools/power-supply-calculator/)
+[瓦數計算器 | 全漢企業](https://www.fsp-group.com/tw/CalculatorWattage.html)
+[電源供應器 (PSU) 要選多大的瓦數，簡單算一下 /顯卡瓦數/遊戲 PC DIY 入門 - YouTube](https://www.youtube.com/watch?v=LJ-qDZQOzpk)
+[【硬件科普】如何合理科学的选择电源功率的大小？ - YouTube](https://www.youtube.com/watch?v=dtxiPVd4l9M)
 
 ## Pinout
 

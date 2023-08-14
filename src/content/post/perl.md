@@ -3,7 +3,7 @@ title: Perl
 description: ""
 created: 2015-01-07
 tags:
-  - comp.lang
+  - comp/lang
   - perl
 ---
 

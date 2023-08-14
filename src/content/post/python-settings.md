@@ -3,7 +3,7 @@ title: Python settings
 description: ""
 created: 2014-12-11
 tags:
-  - comp.lang
+  - comp/lang
   - package-manager
   - pip
   - python
@@ -212,6 +212,7 @@ poetry add <package>
 [Kenneth Reitz - Pipenv: The Future of Python Dependency Management - PyCon 2018 - YouTube](https://www.youtube.com/watch?v=GBQAKldqgZs)
 
 [Pipenv: A Guide to the New Python Packaging Tool – Real Python](https://realpython.com/pipenv-guide/)
+[Python Versions Management With pyenv](https://switowski.com/blog/pyenv/)
 [The ABCs of Pipenv and Python Package Management | Dennis O'Keeffe Blog](https://blog.dennisokeeffe.com/blog/2020-07-04-abcs-of-pipenv)
 [Managing Application Dependencies — Python Packaging User Guide](https://packaging.python.org/en/latest/tutorials/managing-dependencies/)
 
@@ -542,6 +543,9 @@ flask-security flask-sqlalchemy
 Async function can be start-and-awaited, or started by `asyncio.create_taks()` which returns a future that can be awaited on
 `asyncio.to_thread()` turns a sync function to an async function
 
+[How Exception Groups Will Improve Error Handling in AsyncIO - Łukasz Langa | Power IT Conference - YouTube](https://www.youtube.com/watch?v=Lfe2zsGS0Js)
+`TaskGroup` in 3.11 make sure the task is cancelled once an exception is caught, and allows you to handle the grouped exception in caller, providing better DX when using asyncio
+
 ```python
 tasks = [asyncio.create_task(run_some_task(param)) for param in params]
 await asyncio.gather(*tasks)
@@ -577,6 +581,7 @@ async with asyncio.TaskGroup as tg:
 [3 steps to a Python async overhaul | InfoWorld](https://www.infoworld.com/article/3562577/3-steps-to-a-python-async-overhaul.html)
 [Python async/await Tutorial](https://stackabuse.com/python-async-await-tutorial)
 
+[import asyncio: Learn Python's AsyncIO - YouTube](https://www.youtube.com/playlist?list=PLhNSoGM2ik6SIkVGXWBwerucXjgP1rHmB) EdgeDB
 [How To Easily Do Asynchronous Programming With Asyncio In Python - YouTube](https://www.youtube.com/watch?v=2IW-ZEui4h4)
 [Next-Level Concurrent Programming In Python With Asyncio - YouTube](https://www.youtube.com/watch?v=GpqAQxH1Afc)
 
@@ -1409,7 +1414,9 @@ advanced-python-typing (7 Part Series)
 
 [Rise of the Pydantic Stack. What is the pydantic stack? | by Na'aman Hirschfeld | Python in Plain English](https://python.plainenglish.io/an-introduction-to-the-pydantic-stack-9e490d606c8d)
 [The Beginner’s Guide to Pydantic. A Python package to parse and validate… | by Ng Wai Foong | Better Programming](https://betterprogramming.pub/the-beginners-guide-to-pydantic-ba33b26cde89)
-<https://medium.com/swlh/cool-things-you-can-do-with-pydantic-fc1c948fbde0>
+[Cool Things You Can Do With Pydantic | by Gideon Caller | The Startup | Medium](https://medium.com/swlh/cool-things-you-can-do-with-pydantic-fc1c948fbde0)
+
+[Talks - Samuel Colvin: How Pydantic V2 leverages Rust's Superpowers - YouTube](https://www.youtube.com/watch?v=pWZw7hYoRVU)
 
 ### Schematics
 

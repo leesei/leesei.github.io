@@ -2,6 +2,7 @@
 title: Kernel
 description: ""
 created: 2016-03-27
+updated: 2023-08-01
 tags:
   - comp
   - linux
@@ -38,6 +39,10 @@ tags:
 [25 Years Later: Interview with Linus Torvalds | Linux Journal](https://www.linuxjournal.com/content/25-years-later-interview-linus-torvalds)
 [10 moments that shaped Linux history | Opensource.com](https://opensource.com/article/19/4/top-moments-linux-history?utm_campaign=intrel)
 [FOSDEM 2019 - 2019 - Fifty years of Unix and Linux advances](https://fosdem.org/2019/schedule/event/keynote_fifty_years_unix/)
+
+[Linux_Kernel_Newbies - Linux Kernel Newbies](https://kernelnewbies.org/)
+[Getting to Know the Linux Kernel: A Beginner's Guide - Kelsey Steele & Nischala Yelchuri, Microsoft - YouTube](https://www.youtube.com/watch?v=QatE61Ynwrw)
+[A Beginner’s Guide to Linux Kernel Development (LFD103) - Linux Foundation - Training](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/)
 
 [Unix vs Linux - YouTube](https://www.youtube.com/watch?v=jowCUo_UGts)
 [Is Linux an OS, a kernel or both? (Linux vs GNU/Linux) - YouTube](https://www.youtube.com/watch?v=RNeKYjWx-s4)
@@ -83,6 +88,7 @@ tags:
 [Unix system calls (1/2) - YouTube](https://www.youtube.com/watch?v=xHu7qI1gDPA)
 [Unix system calls (2/2) - YouTube](https://www.youtube.com/watch?v=2DrjQBL5FMU)
 
+[Syscalls, Kernel vs. User Mode and Linux Kernel Source Code - bin 0x09 - YouTube](https://www.youtube.com/watch?v=fLS99zJDHOc)
 [A Syscall Journey in the Windows Kernel - Alice Climent-Pommeret](https://alice.climent-pommeret.red/posts/a-syscall-journey-in-the-windows-kernel/)
 [Searchable Linux Syscall Table for x86 and x86_64 | PyTux](https://filippo.io/linux-syscall-table/)
 
@@ -115,6 +121,8 @@ As used by mkinitramfs:
 [Writing a Linux Loadable Kernel Module (LKM) - Interfacing to GPIOs | derekmolloy.ie](http://derekmolloy.ie/kernel-gpio-programming-buttons-and-leds/)
 [Writing a Linux Loadable Kernel Module (LKM) - Interfacing to GPIOs | derekmolloy.ie](http://derekmolloy.ie/kernel-gpio-programming-buttons-and-leds/)
 [exploringBB/extras/kernel at master · derekmolloy/exploringBB](https://github.com/derekmolloy/exploringBB/tree/master/extras/kernel/)
+
+[Understanding the Structure of a Linux Kernel Device Driver - Sergio Prado, Toradex - YouTube](https://www.youtube.com/watch?v=pIUTaMKq0Xc)
 
 ### Kernel modules
 
@@ -152,6 +160,10 @@ Recompiles drivers against kernel header on host on every driver update OR kerne
 
 [Ubuntu Buzz !: Reset USB 2.0 (ehci) & USB 3.0 (xhci) Without Reboot in Linux Kernel](http://www.ubuntubuzz.com/2016/06/reset-usb-20-ehci-usb-30-xhci-without-reboot-linux.html?m=1)
 [Linux USB FAQ](http://www.linux-usb.org/FAQ.html)
+
+### Audio subsystem
+
+[Linux Audio Explained (ALSA vs PulseAudio vs JACK vs Pipewire Explained) - YouTube](https://www.youtube.com/watch?v=HxEXMHcwtlI)
 
 ### sysctl
 

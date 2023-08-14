@@ -2,8 +2,9 @@
 title: Computers
 description: ""
 created: 2016-10-18
+updated: 2023-08-14
 tags:
-  - comp.hardware
+  - comp/hardware
 ---
 
 ## Home Desktop
@@ -226,16 +227,20 @@ https://www.userbenchmark.com/UserRun/59459570 after RAM change
 ## Stock
 
 - [Samsung LA22C360E1M](https://www.samsung.com/hk/support/model/LA22C360E1MXZK/) monitor
+- Colorful 16G 3200MHz CD16G3200D4NZ22 CL22
 - Wraith Prism with RGB LED
 - WD AV-GP WD20EURS 2TB $739@2013-06
+  Anime Archive, Movie Archive
+- HGST 4TB ¥215@2023-07
+  Emulation Archive
 - Crucial MX300 1TB (TLC 360TBW, 1GB RAM) SATA $588@2022-06
-- Colorful 16G 3200MHz CD16G3200D4NZ22 CL22
+- Samsung EVO 850 SATA?
+- ADATA Premier Pro SP920SS 256GB? $735@2015-07
 - Colorful CN600 512G (Intel TLC 160TBW, 1800R/1500W, HBM)
-
-- ADATA Premier Pro SP920SS 256GB $735@2015-07
-  used as external flash
+  NVM-e to USB-C case
 - Colorful? 1T M2 SSD ¥342@2022-12
   Lexar NVM-e to USB-C case
+  Steam games
 - 2 M.2 NVMe/SATA to 16x PCI-e adapter ¥39@2022-12
 
 ---

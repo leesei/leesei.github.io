@@ -2,6 +2,7 @@
 title: Fastify
 description: ""
 created: 2021-12-29
+updated: 2023-06-21
 tags:
   - backend
   - fastify
@@ -127,5 +128,7 @@ Included in `fastify-cli`:
 
 [Nestjs🐺⚡ | The framework of Nodejs Series' Articles - DEV Community](https://dev.to/krtirtho/series/14048) 2021-08
 [NestJs Course for Beginners - Create a REST API - YouTube](https://www.youtube.com/watch?v=GHTA143_b-s) 2022-02
+
+[Intro to Nest.js: The higher-order JavaScript and TypeScript server | InfoWorld](https://www.infoworld.com/article/3703212/intro-to-nestjs-the-higher-order-javascript-and-typescript-server.html)
 
 [eropple/nestjs-openapi3: OpenAPI 3.x document generation and serving for NestJS.](https://github.com/eropple/nestjs-openapi3)

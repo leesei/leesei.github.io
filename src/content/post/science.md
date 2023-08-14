@@ -2,6 +2,7 @@
 title: Science
 description: ""
 created: 2019-08-09
+updated: 2023-08-14
 tags:
   - science
 ---
@@ -19,23 +20,20 @@ tags:
 [Category: Abstractions blog | Quanta Magazine](https://www.quantamagazine.org/abstractions/)
 [Home – Physics World](https://physicsworld.com/)
 [Practical Engineering](http://practical.engineering/)
-[Practical Engineering - YouTube](https://www.youtube.com/channel/UCMOqf8ab-42UUQIdVoKwjlQ)
 [PHD Comics: Your Research Focus](http://phdcomics.com/)
 [Frame of Essence - YouTube](https://www.youtube.com/user/frameofessence/)
 [Welcome! — Science Learning Hub](https://www.sciencelearn.org.nz/)
 [HyperPhysics Concepts](http://hyperphysics.phy-astr.gsu.edu/hbase/)
 [Interesting Engineering](https://interestingengineering.com/)
-[SmarterEveryDay - YouTube](https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA)
-[Domain of Science - YouTube](https://www.youtube.com/@domainofscience)
-[DoS - Domain of Science - YouTube](https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A)
+
+[New physics or not? I'll sort it out for you. - YouTube](https://www.youtube.com/watch?v=AZgyFghqkHg)
 
 [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
 [Bad Science](https://www.badscience.net/)
 
-[AsapSCIENCE - YouTube](https://www.youtube.com/@AsapSCIENCE)
-[ViaScience - YouTube](https://www.youtube.com/channel/UCx6G76LCKLdd7__F0xt5POQ)
+[ViaScience - YouTube](https://www.youtube.com/@viascience) sciency
 [Science - YouTube](https://www.youtube.com/playlist?list=PLJ8cMiYb3G5dHStEexqZ0UaNcVsFwHbb3) Vox
-[History of Science - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNppY8ZHMPDH5TKK2UpU8Ng)
+[History of Science - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNppY8ZHMPDH5TKK2UpU8Ng) CrashCourse
 [氣象冷知識 - YouTube](https://www.youtube.com/playlist?list=PLBdhEGSPvUGVuK7fZUxHKzv51Y_2hy_hW) HKO
 
 [Sheldon - 知乎](https://zhuanlan.zhihu.com/sheldon42) comics
@@ -91,6 +89,7 @@ Faraday: field only
 
 [物理學已經出現一個難以跨越的禁區，導致物理學發展停滯不前！ - YouTube](https://www.youtube.com/watch?v=afOsKeRHNyg)
 [現代物理學烏雲系列 - YouTube](https://www.youtube.com/playlist?list=PL2_B1hyW9zTsW7d-Z0VhlwQydiVWlpYMP)
+[The Standard Model - YouTube](https://www.youtube.com/playlist?list=PLoaVOjvkzQtwltNydLdcTwBauZVpwdFwz) minutephysics
 
 [What is the standard model? | Space](https://www.space.com/standard-model-physics)
 [The Four Fundamental Forces of Nature | Space](https://www.space.com/four-fundamental-forces.html)
@@ -133,28 +132,40 @@ electron forming [Cooper pair](https://www.wikiwand.com/en/Cooper_pair) will bec
 
 [Daniel and Jorge Explain the Universe: The Sticky Story of the Gluon's Discovery on Apple Podcasts](https://podcasts.apple.com/us/podcast/the-sticky-story-of-the-gluons-discovery/id1436616330?i=1000500310629)
 
-### Super symmetry
+## Anti-matter
 
-Muon (force) Fermion counterpart, -ion suffix
-Fermion (matter) Muon counterpart, s- prefix
+[Antimatter - Wikiwand](https://www.wikiwand.com/en/Anti-matter)
+[Where is the anti-matter? - YouTube](https://www.youtube.com/watch?v=5EBgo6rVsCk)
 
-Muon -> Boson add S- prefix
-Electron's boson counter part is selectron
-Bottom quark -> Sbottom quark
-
-Boson -> Muon add -ino suffix
-Photon -> Photino
-
-> idea came from string theory
-> ? ruled out after experiments
-
-### Superconductivity
+## Superconductivity
 
 [Superconductivity - Wikiwand](https://www.wikiwand.com/en/Superconductivity)
+[Unconventional superconductor - Wikiwand](https://www.wikiwand.com/en/Unconventional_superconductor)
 [BCS theory - Wikiwand](https://www.wikiwand.com/en/BCS_theory) condensation of [Cooper pairs](https://www.wikiwand.com/en/Cooper_pair) of low energy state electrons such that the metal grid cannot slow them down
+[The Impact of Superconductors - YouTube](https://www.youtube.com/watch?v=uq2b4BqKswg)
+
+[从超导到石墨烯 95 后曹原有何贡献？100 年内物理学家经历了什么？ - YouTube](https://www.youtube.com/watch?v=aKYpfzqmTdk)
 
 [备受争议的「室温超导」是真是假？一切要从金属氢说起 - YouTube](https://www.youtube.com/watch?v=elFUMP7fP3k)
 [室温超导硬核解析：未来已来还是科学骗局？ - YouTube](https://www.youtube.com/watch?v=_PLKbvHroi0)
+[“室温超导”又来了？一个视频让你了解超导的前世今生 - YouTube](https://www.youtube.com/watch?v=EtXZndUEm64)
+
+[Researchers observe ubiquitous superconductive diode effect in thin superconducting films](https://phys.org/news/2023-08-ubiquitous-superconductive-diode-effect-thin.html)
+[High-Efficiency Superconducting Diode Could Change Chips Forever | Tom's Hardware](https://www.tomshardware.com/news/superconducting-diode-from-mit-research)
+
+#### LK99
+
+[韓國 LK-99「室溫常壓超導體」相同研究論文卻鬧雙胞，因為諾貝爾獎不喜歡 3 人以上的研究？ | T 客邦](https://www.techbang.com/posts/108395-7-people-won-the-nobel-prize-and-the-korean-room-temperature)
+[Engineer Details Messy LK-99 Superconductor Creation Process | Tom's Hardware](https://www.tomshardware.com/news/engineer-details-messy-lk-99-superconductor-fabrication-process)
+[Claims of Room Temperature and Ambient Pressure Superconductor | Page 13 | SpaceBattles](https://forums.spacebattles.com/threads/claims-of-room-temperature-and-ambient-pressure-superconductor.1106083/page-13)
+[LK-99 Will be a New and Different Type of Superconductor #LK99 | NextBigFuture.com](https://www.nextbigfuture.com/2023/08/lk-99-will-be-a-new-and-different-type-of-superconductor-lk99.html)
+
+["World-changing" LK-99 Superconductor explained quickly - YouTube](https://www.youtube.com/watch?v=BPadRwJbylY)
+[LK-99 到底是不是室温超导体？抗磁性与迈斯纳效应有啥区别？ - YouTube](https://www.youtube.com/watch?v=93t_ivDX_qc)
+
+[Superconductor Breakthrough Findings Replicated, Twice, in Preliminary Testing | Tom's Hardware](https://www.tomshardware.com/news/superconductor-breakthrough-replicated-twice)
+[Zero Resistance Measured in a New LK-99 Replication at Southeast University in Nanjing China | NextBigFuture.com](https://www.nextbigfuture.com/2023/08/zero-resistance-measured-in-a-new-lk-99-replication-at-southeast-university-in-nanjing-china.html)
+[常溫常壓超導體時代來臨？郭明錤：商用化時程沒有任何能見度 | TechNews 科技新報](https://technews.tw/2023/08/02/ming-chi-kuo-said-no-timetable-for-commercialization-of-room-temperature-ambient-pressure-superconductor/)
 
 ### Chirality
 
@@ -225,6 +236,7 @@ Weak force has handiness
 ## Thermal Dynamics
 
 [Entropy Explained](https://aatishb.com/entropy/)
+[The Most Misunderstood Concept in Physics - YouTube](https://www.youtube.com/watch?v=DxL2HoqLbyA)
 
 [Combustion - Wikiwand](https://www.wikiwand.com/en/Combustion)
 
@@ -252,12 +264,6 @@ Weak force has handiness
 [活性炭 - Wikiwand](https://www.wikiwand.com/zh/%E6%B4%BB%E6%80%A7%E7%82%AD)
 [Activated charcoal: 8 uses and what the science says](https://www.medicalnewstoday.com/articles/322609)
 
-## Gyroscope
-
-[Gyroscope - Wikiwand](https://www.wikiwand.com/en/Gyroscope)
-
-[8.01x - Lect 24 - Rolling Motion, Gyroscopes, VERY NON-INTUITIVE - YouTube](https://www.youtube.com/watch?v=XPUuF_dECVI)
-
 ## Relativity
 
 [What is Relativity? | Live Science](https://www.livescience.com/32216-what-is-relativity.html)
@@ -267,12 +273,12 @@ Weak force has handiness
 [Einstein's Theory of Special Relativity | Space](https://www.space.com/36273-theory-special-relativity.html)
 [Einstein's Theory of General Relativity: A Simplified Explanation | Space](https://www.space.com/17661-theory-general-relativity.html)
 [General relativity | New Scientist](https://www.newscientist.com/definition/general-relativity/)
-“Space-time tells matter how to move; matter tells space-time how to curve”
+[The eclipse that proved Einstein right and changed our understanding of the universe](https://www.nbcnews.com/mach/science/eclipse-proved-einstein-right-changed-our-understanding-universe-ncna1010151)
+"Space-time tells matter how to move; matter tells space-time how to curve"
 
 [Spacetime Globe | ALEX on Science](https://alexonscience.com/projects/spacetimeglobe/)
 
 [Special Relativity: This Is Why You Misunderstand It - YouTube](https://www.youtube.com/watch?v=ZdrZf4lQTSg)
-[How we know that Einstein's General Relativity can't be quite right - YouTube](https://www.youtube.com/watch?v=Ov98y_DCvRY)
 
 [Relativity - YouTube](https://www.youtube.com/playlist?list=PL1lNrW4e0G8Vwvb5rrxW4Y1UQC7PlTBJS) Up and Atom
 [Relativity - YouTube](https://www.youtube.com/playlist?list=PLF56602BAC693237E) ViaScience
@@ -292,15 +298,12 @@ Weak force has handiness
 [8 分鐘讀懂狹義相對論！時間變慢、長度變短、質量變重、E=mc² 一次性全搞明白 | 雅桑了嗎 - YouTube](https://www.youtube.com/watch?v=wspDAnUrHTA)
 [萬有引力不是力，甚至根本不存在！8 分鐘讀懂廣義相對論 | 雅桑了嗎 - YouTube](https://www.youtube.com/watch?v=iLcoIhsU5zg)
 
-[Why doesn't gravity fit into quantum theory? - Physics Stack Exchange](https://physics.stackexchange.com/questions/238010/why-doesnt-gravity-fit-into-quantum-theory)
-[Quantum Gravity | The Search For a Theory of Everything | 3by3 - YouTube](https://www.youtube.com/watch?v=d-86tNCSJsg)
-[The eclipse that proved Einstein right and changed our understanding of the universe](https://www.nbcnews.com/mach/science/eclipse-proved-einstein-right-changed-our-understanding-universe-ncna1010151)
-
 [Why no one has measured the speed of light - YouTube](https://www.youtube.com/watch?v=pTn6Ewhb27k) we're always measuring the _two way_ speed of light
 
 ## Quantum Physics
 
 [Four Principles of Quantum - Computerphile - YouTube](https://www.youtube.com/watch?v=m5A_oupZOCE)
+[Quantum: Current State 2023 (Quantum pt2) - Computerphile - YouTube](https://www.youtube.com/watch?v=JqHVs5zhD5g)
 
 - discreteness
 - superposition/collapse
@@ -308,10 +311,15 @@ Weak force has handiness
 - entanglement
 
 [Quantum mechanics - Wikiwand](https://www.wikiwand.com/en/Quantum_mechanics)
+[Quantum Mechanics - YouTube](https://www.youtube.com/playlist?list=PL0E2ABD1D84697428) minutephysics
+
 [Uncertainty principle - Wikiwand](https://www.wikiwand.com/en/Uncertainty_principle)
+[The Heisenberg Uncertainty Principle Explained Intuitively - YouTube](https://www.youtube.com/watch?v=qwt6wUUD2QI)
+
+Domain of Science
 [The Map of Quantum Physics - YouTube](https://www.youtube.com/watch?v=gAFAj3pzvAA)
 [If You Don't Understand Quantum Physics, Try This! - YouTube](https://www.youtube.com/watch?v=Usu9xZfabPM)
-[The Heisenberg Uncertainty Principle Explained Intuitively - YouTube](https://www.youtube.com/watch?v=qwt6wUUD2QI)
+
 [Exploring the quantum world | Series | Ars Technica](https://arstechnica.com/series/exploring-the-quantum-world/amp/)
 [What the Bleep Do We Know!? | Educational Downloads](https://whatthebleep.com/educational-downloads/)
 [A guide to (not) understanding quantum mechanics – Ars Technica](https://arstechnica.com/science/2023/02/a-guide-to-not-understanding-quantum-mechanics/amp/)
@@ -365,6 +373,7 @@ The Royal Institution
 
 [一口氣看懂量子力學的所有知識！從量子糾纏到量子通信 - YouTube](https://www.youtube.com/watch?v=ivYoZq-nja0)
 [【全網最通俗】18 分鐘徹底看懂量子力學！本期視頻核心知識：上帝擲骰子，何為量子化，量子疊加，量子糾纏，量子退相幹，量子通信 - YouTube](https://www.youtube.com/watch?v=O2sUAMwolNM)
+[宇宙的黑暗真相：現實 or 虛幻？原來，科學家們早已發現了坐在山巔上的玄學家，而這一切故事，我們從 400 年前的一顆光子説起……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=wLizHf8VqSk)
 
 媽咪說
 [粒子世界 - YouTube](https://www.youtube.com/playlist?list=PLYtoePJQbGmhmTi5p5yklGaX5vakayZbf)
@@ -441,6 +450,15 @@ Parallel universe interpretation: opening the box causes the universe to fork in
 [Quantum chromodynamics - Wikiwand](https://www.wikiwand.com/en/Quantum_chromodynamics)
 [QCD matter - Wikiwand](https://www.wikiwand.com/en/QCD_matter)
 
+### Quantum Gravity
+
+[Why doesn't gravity fit into quantum theory? - Physics Stack Exchange](https://physics.stackexchange.com/questions/238010/why-doesnt-gravity-fit-into-quantum-theory)
+[How we know that Einstein's General Relativity can't be quite right - YouTube](https://www.youtube.com/watch?v=Ov98y_DCvRY) General Relativity is an approximation, it is not compatible with quantum mechanics
+
+[Quantum Gravity | The Search For a Theory of Everything | 3by3 - YouTube](https://www.youtube.com/watch?v=d-86tNCSJsg)
+[The five most promising ways to quantize gravity - YouTube](https://www.youtube.com/watch?v=5foUTeRdqII)
+[How To Test Quantum Gravity - YouTube](https://www.youtube.com/watch?v=HKtFU2Pxnm0)
+
 ## String Theory
 
 > hope to combine quantum mechanics with gravity
@@ -459,6 +477,7 @@ Parallel universe interpretation: opening the box causes the universe to fork in
 [string theory lied to us and now science communication is hard - YouTube](https://www.youtube.com/watch?v=kya_LXa_y1E)
 
 [String theory - Brian Greene - YouTube](https://www.youtube.com/watch?v=kF4ju6j6aLE)
+[String theory pros and cons - YouTube](https://www.youtube.com/watch?v=6RQ6ugMWZ0c) Sabine Hossenfelder
 [（已完结）【閑說弦論】弦理論 - YouTube](https://www.youtube.com/playlist?list=PLd-GBkH4nB9lR1hzqCbVEDLTq7_uD_1WO) Linvo 說宇宙
 [String Theory Explained – What is The True Nature of Reality? - YouTube](https://www.youtube.com/watch?v=Da-2h2B4faU)
 [Making sense of string theory | Brian Greene - YouTube](https://www.youtube.com/watch?v=YtdE662eY_M)
@@ -469,6 +488,21 @@ Parallel universe interpretation: opening the box causes the universe to fork in
 [終於知道為什麽宇宙是 11 維的了！弦理論、超弦、M 理論一次性講明白 | 雅桑了嗎 - YouTube](https://www.youtube.com/watch?v=WhKxTmsC4u8)
 [（已完结）弦理論系列 - YouTube](https://www.youtube.com/playlist?list=PLd-GBkH4nB9lR1hzqCbVEDLTq7_uD_1WO)
 [一口氣看懂超弦理論 - YouTube](https://www.youtube.com/watch?v=PXynCvTEDyA)
+
+### Super symmetry
+
+Muon (force) Fermion counterpart, -ion suffix
+Fermion (matter) Muon counterpart, s- prefix
+
+Muon -> Boson add S- prefix
+Electron's boson counter part is selectron
+Bottom quark -> Sbottom quark
+
+Boson -> Muon add -ino suffix
+Photon -> Photino
+
+> idea came from string theory
+> ? ruled out after experiments
 
 ## Geology
 
@@ -523,3 +557,20 @@ Parallel universe interpretation: opening the box causes the universe to fork in
 [《原来如此》钢铁如何炼成 揭秘钢铁不为人们熟知的另一面 20180903 | CCTV 科教 - YouTube](https://www.youtube.com/watch?v=BNIEku9SXYo)
 
 [How to Turn Steel Black - All you need to know about Bluing - YouTube](https://www.youtube.com/watch?v=5Sty5upsadY)
+
+## Gyroscope
+
+[Gyroscope - Wikiwand](https://www.wikiwand.com/en/Gyroscope)
+
+[8.01x - Lect 24 - Rolling Motion, Gyroscopes, VERY NON-INTUITIVE - YouTube](https://www.youtube.com/watch?v=XPUuF_dECVI)
+
+## Coriolis Force
+
+[Coriolis force - Wikiwand](https://www.wikiwand.com/en/Coriolis%20Force)
+[Mass flow meter - Wikiwand](https://www.wikiwand.com/en/Mass_flow_meter) Coriolis flow meter
+[科里奥利力有什么具体应用？在细节中发现科学 - YouTube](https://www.youtube.com/watch?v=xxShFT3B93c)
+
+## Chaos Theory
+
+[分形与混沌 - YouTube](https://www.youtube.com/playlist?list=PLDrPNFPRTs8ObgbUnMGpEXNihoTjR7T8z)
+[分形与混沌 - 妈咪说 MommyTalk - YouTube](https://www.youtube.com/@Sci1729/search?query=%E5%88%86%E5%BD%A2%E4%B8%8E%E6%B7%B7%E6%B2%8C)

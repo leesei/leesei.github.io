@@ -2,8 +2,9 @@
 title: Displays
 description: ""
 created: 2015-04-02
+updated: 2023-08-14
 tags:
-  - comp.hardware
+  - comp/hardware
   - lcd
   - micro-led
   - mini-led
@@ -223,7 +224,7 @@ Each pixel has its own mini LED as backlight, producing a panel like OLED that a
 Halo effect for small object since blocks of mini LED are turned on together
 [Mini LED 决战 OLED ？华为 2880 分区电视 V75 Super 评测 - YouTube](https://www.youtube.com/watch?v=tbYm0s47CwY)
 [未来显示技术 MicroLED 详解「SIGNOW」 - YouTube](https://www.youtube.com/watch?v=Qxz9kXRPt0Y)
-[王思聪的新电视 110 寸 110 万 详解 MicroLED 技术 买电视我就送特斯拉 Model 3 - YouTube](https://www.youtube.com/watch?v=wfipflFJR-4&)
+[王思聪的新电视 110 寸 110 万 详解 MicroLED 技术 买电视我就送特斯拉 Model 3 - YouTube](https://www.youtube.com/watch?v=wfipflFJR-4)
 Mini LED in principal is LCD with thousands of regions (~3000 in 2021)
 Mini LED have worse viewing angle
 Both Mini LED and OLED are transitional technologies
@@ -284,6 +285,8 @@ Latency and Display Analysis Tool (LDAT)
 [Automated System Latency Test Methodology (NVIDIA Latency Analyzer Validation) - YouTube](https://www.youtube.com/watch?v=0SZ7ZCac38A)
 [Which game settings cause the most lag? - Nvidia Reflex Latency Analyzer - YouTube](https://www.youtube.com/watch?v=aL5YTWRpzoA)
 [Introducing NVIDIA Reflex: Optimize and Measure Latency in Competitive Games | GeForce News | NVIDIA](https://www.nvidia.com/en-us/geforce/news/reflex-low-latency-platform/)
+
+[Home |inputlag.science](https://inputlag.science/)
 
 [OSRTT User Guide & Explainer – Open Source Response Time Tool | TechteamGB](https://techteamgb.co.uk/2022/01/14/osrtt-user-guide-explainer-open-source-response-time-tool/?utm_source=rss&utm_medium=rss&utm_campaign=osrtt-user-guide-explainer-open-source-response-time-tool)
 [OSRTT User Guide & Explainer - Open Source Response Time Tool - YouTube](https://www.youtube.com/watch?v=pZjya0h7pgQ)
@@ -394,3 +397,8 @@ Change color temperature and brightness, I've been using dark theme anyway
 [Backlight - ArchWiki](https://wiki.archlinux.org/title/Backlight)
 
 [Linux Mint Cinnamon Dark Mode](https://gist.github.com/icy-arctic-fox/7a7fa44a47d9dce3ba0159f4b7f67209) Cron job to set theme (and brightness)
+
+## Display Mount
+
+[2023 显示器支架终极选购指南，12 台全部实测！ - YouTube](https://www.youtube.com/watch?v=FaD_vuRYtVw)
+松能 T6JD-1B-01, AOC AM400

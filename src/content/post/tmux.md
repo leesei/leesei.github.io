@@ -2,6 +2,7 @@
 title: Tmux
 description: ""
 created: 2014-12-11
+updated: 2023-07-24
 tags:
   - app
   - shell-tool
@@ -68,10 +69,14 @@ $echo case $- in *i*) . ~/.bashrc;; esac >> .bash_profile
 
 ## .tmux.conf
 
+[pangliang/oh-my-tmux: Pretty + versatile self-contained tmux configuration](https://github.com/pangliang/oh-my-tmux)
+[gpakosz/.tmux: 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️](https://github.com/gpakosz/.tmux)
+[samoshkin/tmux-config: Tmux configuration, that supercharges your tmux to build cozy and cool terminal environment](https://github.com/samoshkin/tmux-config)
+
 [IDE & TMUX Configuration · GitHub](https://gist.github.com/snuggs/800936/)
 [My Tmux Configuration](https://zanshin.net/2013/09/05/my-tmux-configuration/)
 [Switching to tmux](https://tonkersten.com/2011/07/104-switching-to-tmux/)
-<https://github.com/samoshkin/tmux-config>
+[Tmux has forever changed the way I write code. - YouTube](https://www.youtube.com/watch?v=DzNmUNvnB04)
 
 [tmux Tutorial](http://blog.victorquinn.com/tmux-tutorial)
 [How to Customize Tmux Using the Config File](https://www.hostinger.com/tutorials/tmux-config)
@@ -347,3 +352,6 @@ git clone https://github.com/jimeh/tmuxifier.git ~/.tmuxifier
 # zellij
 
 [zellij-org/zellij: A terminal workspace with batteries included](https://github.com/zellij-org/zellij)
+
+[Is Zellij the PERFECT Multiplexer? // Tmux Getting Dethroned! - YouTube](https://www.youtube.com/watch?v=BjfMWqy1hnw)
+[Zellij for Tmuxers - YouTube](https://www.youtube.com/watch?v=Cd8P4hBC8i8)

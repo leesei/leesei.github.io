@@ -33,8 +33,6 @@ tags:
 [Server-side Rendering 🚀 Astro Documentation](https://docs.astro.build/en/guides/server-side-rendering/)
 [Endpoints 🚀 Astro Documentation](https://docs.astro.build/en/core-concepts/endpoints/#server-endpoints-api-routes)
 
-[Unlock New Possibilities with Hybrid Rendering | Astro](https://astro.build/blog/hybrid-rendering/) opt-in pre-rendering in SSR
-
 ## Static Site Generation
 
 > for blogs and documentations
@@ -61,7 +59,7 @@ tags:
 
 ## Hybrid Rendering
 
-[Unlock New Possibilities with Hybrid Rendering | Astro](https://astro.build/blog/hybrid-rendering/)
+[Unlock New Possibilities with Hybrid Rendering | Astro](https://astro.build/blog/hybrid-rendering/) opt-in pre-rendering in SSR
 
 ## Templates
 
@@ -73,12 +71,12 @@ tags:
 I need:
 
 - syntax highlighting
+- WikiLinks
 - Fuzzy search
-- archive page (title only; link to months, see [jacman](http://wuchong.me/jacman/archives/))
+- archive page (title only; [bonus] link to months, see [jacman](http://wuchong.me/jacman/archives/))
 - tags index page
 - tags widget sorted by posts
-- TOC with location tracking on the side
-- WikiLinks
+- TOC ([bonus] with location tracking on the side)
 - [bonus] published date
 - [bonus] last updated date
 - [bonus] Foam Graph

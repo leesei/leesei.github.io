@@ -3,7 +3,7 @@ title: Memory
 description: ""
 created: 2016-04-26
 tags:
-  - comp.hardware
+  - comp/hardware
   - ddr
   - ram
 ---

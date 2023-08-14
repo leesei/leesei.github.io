@@ -2,9 +2,11 @@
 title: Computer Fundamentals
 description: ""
 created: 2023-04-14
+updated: 2023-07-26
 tags:
-  - comp.hardware
-  - comp.lang
+  - comp/fundamental
+  - comp/hardware
+  - comp/lang
 ---
 
 [[floating-point-number]]
@@ -21,6 +23,8 @@ tags:
 
 [Imperative vs Declarative Scenarios in User Stories • Ben Mabey](http://benmabey.com/2008/05/19/imperative-vs-declarative-scenarios-in-user-stories.html)
 [Threads vs. Processes: A Look At How They Work Within Your Program](https://www.backblaze.com/blog/whats-the-diff-programs-processes-and-threads/)
+
+[How a Computer Works - from silicon to apps - YouTube](https://www.youtube.com/watch?v=5f3NJnvnk7k)
 
 Computerphile
 [Multi Programming - Computerphile - YouTube](https://www.youtube.com/watch?v=MB0yDMQj1lU)
@@ -47,9 +51,13 @@ Computerphile
 
 ## Turing Machines
 
+[[learn-to-code#Halting problem]]
+
 Computerphile
 [Alan Turing and Enigma - YouTube](https://www.youtube.com/playlist?list=PLzH6n4zXuckodsatCTEuxaygCHizMS0_I) also on decidability
+[Turing Machines Collection - Computerphile - YouTube](https://www.youtube.com/playlist?list=PLzH6n4zXuckrEzV0CB1xXbSdsP_a7VUoK)
 
+[Turing Machines - How Computer Science Was Created By Accident - YouTube](https://www.youtube.com/watch?v=PLVCscCY4xI)
 [Turing machines explained visually - YouTube](https://www.youtube.com/watch?v=-ZS_zFg4w5k)
 [Making a computer Turing complete - YouTube](https://www.youtube.com/watch?v=AqNDk_UJW4k)
 
@@ -82,7 +90,7 @@ Computerphile
 
 [[go-lang#Concurrency]]
 [[python-notes#Concurrency]]
-[[rust#Async/Future]]
+[[rust-lang#Async/Future]]
 
 Concurrency:
 
@@ -103,8 +111,11 @@ Parallelism:
 [Concurrency is not parallelism - The Go Blog](http://blog.golang.org/concurrency-is-not-parallelism)
 [The Way of the Gopher. Making the Switch from Node.js to… | by Alexandra Bueno | Digg Data | Medium](https://medium.com/digg-data/the-way-of-the-gopher-6693db15ae1f#.h4j5b62nh)
 
+[You Keep Using That Word: Asynchronous And Interprocess Comms - Sam Newman - NDC Oslo 2023 - YouTube](https://www.youtube.com/watch?v=2LMEJ-WGFTk)
+
 [Asynchronous vs Multithreading and Multiprocessing Programming (The Main Difference) - YouTube](https://www.youtube.com/watch?v=0vFgKr5bjWI)
 [What Color is Your Function? – journal.stuffwithstuff.com](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/) the chasm between sync and async code
+[What Color Is Your Function | Prime Reacts - YouTube](https://www.youtube.com/watch?v=MoKe4zvtNzA)
 
 [Zig's I/O and Concurrency Story - King Protty - Software You Can Love 2022 - YouTube](https://www.youtube.com/watch?v=Ul8OO4vQMTw)
 Linux's epoll, BSD's kqueue, none of them worked for file IO
@@ -113,6 +124,8 @@ non of them worked great for file IO, use thread pool
 Linux io-uring, proactive completion based IO, no extra syscall for polling state, batch submission, kernel space thread pool
 porting io-uring to zig in user space
 per thread ring buffer use by many
+
+[io_uring: So Fast. It's Scary. - YouTube](https://www.youtube.com/watch?v=F82Qdi5kyjw)
 
 [Multitasking vs Multithreading vs Multiprocessing - YouTube](https://www.youtube.com/watch?v=Tn0u-IIBmtc)
 [Fork and Pthreads - A Guide To Get You Started with Multiprocessing - YouTube](https://www.youtube.com/watch?v=VCCCXTyJZzs)
@@ -145,11 +158,18 @@ per thread ring buffer use by many
 [The Origins of Process Memory | Exploring the Use of Various Memory Allocators in Linux C - YouTube](https://www.youtube.com/watch?v=c7xf5dvUb_Q)
 
 [What's a Memory Allocator Anyway? - Benjamin Feng - YouTube](https://www.youtube.com/watch?v=vHWiDx_l4V0)
-[Garbage Collection (Mark & Sweep) - Computerphile - YouTube](https://www.youtube.com/watch?v=c32zXYAK7CI)
 
 [🚀 Demystifying memory management in modern programming languages | Technorage](https://deepu.tech/memory-management-in-programming/)
 [🚀 Visualizing memory management in Golang | Technorage](https://deepu.tech/memory-management-in-golang/)
 [🚀 Visualizing memory management in V8 Engine (JavaScript, NodeJS, Deno, WebAssembly) | Technorage](https://deepu.tech/memory-management-in-v8/)
+
+### Garbage Collection
+
+[[c-sharp#Garbage Collection]]
+[[go-lang#Garbage Collection]]
+[[nodejs-notes#Garbage Collection]]
+
+[Garbage Collection (Mark & Sweep) - Computerphile - YouTube](https://www.youtube.com/watch?v=c32zXYAK7CI)
 
 ## Endianness
 

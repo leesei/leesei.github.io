@@ -2,6 +2,7 @@
 title: Git notes
 description: ""
 created: 2014-12-11
+updated: 2023-07-27
 tags:
   - app
   - git
@@ -54,6 +55,7 @@ You can always check reflog to restore commit no matter how you messed with your
 
 [Learn git concepts, not commands - DEV Community 👩‍💻👨‍💻](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
 [Git: A Complete Guide. Covering the essential commands for a… | by Rahul Pathak | Towards Data Science](https://towardsdatascience.com/git-a-complete-guide-d49675d02a5d)
+[benthayer/git-gud: Wanna git gud? Then get git-gud, and git gud at git!](https://github.com/benthayer/git-gud)
 
 [Git Tutorials and Training | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials) ❗!important
 [Using Git - GitHub Docs](https://docs.github.com/en/get-started/using-git) "Git Handbook"
@@ -694,7 +696,7 @@ git rev-list --count <branch>
 
 ## difftool/mergetool
 
-Using `diff-so-fancy` as PAGER
+Using `diff-so-fancy`/`dunk` as PAGER
 
 [Git - git-difftool Documentation](https://www.git-scm.com/docs/git-difftool)
 [Git - git-mergetool Documentation](https://www.git-scm.com/docs/git-mergetool)
@@ -705,6 +707,9 @@ Using `diff-so-fancy` as PAGER
 
 [The EXTREMELY helpful guide to merge conflicts - YouTube](https://www.youtube.com/watch?v=HosPml1qkrg)
 VS Code's 3-way Merge Editor
+
+[so-fancy/diff-so-fancy: Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:](https://github.com/so-fancy/diff-so-fancy)
+[darrenburns/dunk: Prettier git diffs in the terminal 🎨](https://github.com/darrenburns/dunk)
 
 ### vimdiff
 

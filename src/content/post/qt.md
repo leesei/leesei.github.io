@@ -2,7 +2,7 @@
 title: Qt
 description: All the tools you need for creating software applications or embedded devices
 created: 2019-09-19
-updated: 2023-06-20
+updated: 2023-08-04
 tags:
   - app
   - qml
@@ -13,6 +13,9 @@ tags:
 [Qt Wiki](http://wiki.qt.io/Main)
 [Qt for Beginners - Qt Wiki](http://wiki.qt.io/Qt_for_Beginners)
 [Qt Resource Center](https://resources.qt.io/)
+
+[Qt 6 - YouTube](https://www.youtube.com/playlist?list=PL6CJYn40gN6j91U8msghi_Dmcx_sgpR_T)
+[CMake and Qt - YouTube](https://www.youtube.com/playlist?list=PL6CJYn40gN6g1_yY2YkqSym7FWUid926M)
 
 [Getting Started with Qt | Qt 6.5](https://doc.qt.io/qt-6/gettingstarted.html)
 [Qt for Linux/X11](https://doc.qt.io/qt-6/linux.html)
@@ -51,6 +54,9 @@ Qt 5 gives you essentially five (5!) UI toolkits
 [Getting Started Programming with Qt Quick | Qt 6.5](https://doc.qt.io/qt-6/qtdoc-tutorials-alarms-example.html)
 [#3 Design login Form Qt and CSS - YouTube](https://www.youtube.com/watch?v=Hsp20Gq4ihw&feature=share)
 
+[gamecreature/QtAwesome: QtAwesome - Font Awesome for Qt Applications](https://github.com/Gamecreature/qtawesome)
+[spyder-ide/qtawesome: Iconic fonts in PyQt and PySide applications](https://github.com/spyder-ide/qtawesome)
+
 ## #perfmatters
 
 [Performance Considerations And Suggestions | Qt 6.5](https://doc.qt.io/qt-6/qtquick-performance.html)
@@ -66,15 +72,21 @@ Qt 5 gives you essentially five (5!) UI toolkits
 
 ## Qt Quick/QML
 
-[Qt Quick 5](https://doc.qt.io/qt-6/qtquick-index.html) Qt Quick uses QML, part of Qt Creator
+[Qt Quick 5](https://doc.qt.io/qt-6/qtquick-index.html) Qt Quick uses QML
 [QML - Wikiwand](https://www.wikiwand.com/en/QML)
 [Qt QML 6.5](http://doc.qt.io/qt-6/qtqml-index.html)
 [The QML Reference | Qt QML 6.5](https://doc.qt.io/qt-6/qmlreference.html)
 [All QML Types | Qt 6.5](https://doc.qt.io/qt-6/qmltypes.html#)
 [QML Applications | Qt 6.5](http://doc.qt.io/qt-6/qmlapplications.html)
 
+[Introduction to Qt / QML - all videos so far - YouTube](https://www.youtube.com/playlist?list=PL6CJYn40gN6hdNC1IGQZfVI707dh9DPRc)
+[QML Tips and Tricks - YouTube](https://www.youtube.com/playlist?list=PL6CJYn40gN6jWHP5krsQrVGyYtKh3A3be)
+
+[Qml Styling - Qt Wiki](https://wiki.qt.io/Qml_Styling)
+
 [mikalv/awesome-qt-qml: A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.](https://github.com/mikalv/awesome-qt-qml)
 [Qt5 Cadaques — Qt5 Cadaques Book vmaster](http://qmlbook.github.io/)
+[QML Core UI](https://luxoft.github.io/qml-coreui/)
 [Furkanzmc/QML-Coding-Guide: A collection of good practices when writing QML code](https://github.com/Furkanzmc/QML-Coding-Guide)
 
 [Qt Quick Controls 6.5](https://doc.qt.io/qt-6/qtquickcontrols-index.html)
@@ -93,6 +105,8 @@ Qt 5 gives you essentially five (5!) UI toolkits
 
 [Integrating Python and QML — PyQt 5 Reference Guide](https://doc.bccnsoft.com/docs/PyQt5/qml.html)
 
+[A Short Guide to Qt Quick Effects](https://www.qt.io/blog/a-short-guide-to-qt-quick-effects)
+
 [Toou 2D 拿来即用，为简单而生。 | Toou-2D](http://www.toou.net/)
 [ShowFL/Toou-2D: 基于 Qt Quick(Qml) 跨平台技术打造的 2D 框架](https://github.com/ShowFL/Toou-2D) 😴inactive
 
@@ -102,6 +116,7 @@ Qt 5 gives you essentially five (5!) UI toolkits
 
 [Qt for Python Tutorial HelloQML - Qt Wiki](https://wiki.qt.io/Qt_for_Python_Tutorial_HelloQML)
 [Python & QML Akademy_2018.pdf](https://conf.kde.org/system/event_attachments/attachments/000/000/019/original/Akademy_2018.pdf)
+[Jason Codes Qt - YouTube](https://www.youtube.com/@josys363/videos)
 
 [PySide6.QtQml - Qt for Python](https://doc.qt.io/qtforpython-6/PySide6/QtQml/)
 [PySide6.QtQuick — Qt for Python](https://doc.qt.io/qtforpython-6/PySide6/QtQuick/)
@@ -133,7 +148,7 @@ Qt 5 gives you essentially five (5!) UI toolkits
 [Binding QML Type | Qt QML 6.5](https://doc.qt.io/qt-6/qml-qtqml-binding.html)
 
 Model
-[Using C++ Models with Qt Quick Views | Qt Quick 5.13.1](https://doc.qt.io/qt-6/qtquick-modelviewsdata-cppmodels.html)
+[Using C++ Models with Qt Quick Views | Qt Quick 6.5](https://doc.qt.io/qt-6/qtquick-modelviewsdata-cppmodels.html)
 [QAbstractListModel Class | Qt Core 6.5](https://doc.qt.io/qt-6/qabstractlistmodel.html)
 [QAbstractItemModel Class | Qt Core 6.5](https://doc.qt.io/qt-6/qabstractitemmodel.html)
 
@@ -155,7 +170,7 @@ Bridge
 Connections (signal/slot)
 [Connections QML Type | Qt QML 6.5](https://doc.qt.io/qt-6/qml-qtqml-connections.html)
 [Signal and Handler Event System | Qt QML 6.5](https://doc.qt.io/qt-6/qtqml-syntax-signals.html)
-[Defining Object Types through QML Documents | Qt QML 6.5.13.1](https://doc.qt.io/qt-6/qtqml-documents-definetypes.html)
+[Defining Object Types through QML Documents | Qt QML 6.5](https://doc.qt.io/qt-6/qtqml-documents-definetypes.html)
 [Connect python signal to QML ui slot with PySide2 - Stack Overflow](https://stackoverflow.com/questions/54010254/connect-python-signal-to-qml-ui-slot-with-pyside2) trigger redraw
 
 ## Qt Widgets/`.ui` File
@@ -165,20 +180,33 @@ Connections (signal/slot)
 [Using .ui files from Designer or QtCreator with QUiLoader and pyside6-uic - Qt for Python](https://doc.qt.io/qtforpython-6/tutorials/basictutorial/uifiles.html)
 [PySide6.QtUiTools - Qt for Python](https://doc.qt.io/qtforpython-6/PySide6/QtUiTools/index.html)
 
-### QSS (for Widgets)
+[Qt Tutorials - YouTube](https://www.youtube.com/playlist?list=PLkjbuaHoEQvivMwZNsCI2zdyiBb-fU5VX) Velcode
+
+KDAB
+[Qt Widgets and more - YouTube](https://www.youtube.com/playlist?list=PL6CJYn40gN6gf-G-o6syFwGrtq3kItEqI)
+[Qt Creator - YouTube](https://www.youtube.com/playlist?list=PL6CJYn40gN6iZHMEYiSulBoNuKcCxpndc)
+
+### Qt Style Sheets (QSS)
 
 [Qt Style Sheets | Qt Widgets 6.5](https://doc.qt.io/qt-6/stylesheet.html)
 [Differences between String-Based and Functor-Based Connections | Qt 6.5](https://doc.qt.io/qt-6/signalsandslots-syntaxes.html)
 [The Style Sheet Syntax | Qt Widgets 6.5](https://doc.qt.io/qt-6/stylesheet-syntax.html)
 [Qt Style Sheets Reference | Qt Widgets 6.5](https://doc.qt.io/qt-6/stylesheet-reference.html)
 
+[Welcome to QDarkStyle’s documentation! — QDarkStyle documentation](https://qdarkstylesheet.readthedocs.io/en/latest/index.html)
+[ColinDuquesnoy/QDarkStyleSheet: A dark style sheet for QtWidgets application](https://github.com/ColinDuquesnoy/QDarkStyleSheet/tree/master)
+
 ## Signals and Slots
 
-[Signals & Slots | Qt Core 6.5.1](https://doc.qt.io/qt-6/signalsandslots.html)
+[Signals & Slots | Qt Core 6.5](https://doc.qt.io/qt-6/signalsandslots.html)
 [Qt 信号槽原理\_Qt 开发老杰的博客-CSDN 博客](https://blog.csdn.net/QtCompany/article/details/130109551)
 
 [Signals and Slots in Qt5](https://woboq.com/blog/new-signals-slots-syntax-in-qt5.html)
 [How Qt Signals and Slots Work - Part 2 - Qt5 New Syntax](https://woboq.com/blog/how-qt-signals-slots-work-part2-qt5.html)
+
+[Qt Bindable Properties | Qt Core 6.5.1](https://doc.qt.io/qt-6/bindableproperties.html)
+Qt Properties = Signal in frontend
+Qt Signal/Slots = Observable/Observers in frontend
 
 [Qt for Python Signals and Slots - Qt Wiki](https://wiki.qt.io/Qt_for_Python_Signals_and_Slots)
 
@@ -191,7 +219,7 @@ Connections (signal/slot)
 [PyQt6 vs PySide6: What's the difference between the two Python Qt libraries?](https://www.pythonguis.com/faq/pyqt6-vs-pyside6/)
 
 [Qt for Python - Qt Wiki](http://wiki.qt.io/Qt_for_Python) Qt Company adopted PySide2, LGPL
-The name of the project is **Qt for Python** and the name of the module is **PySide2**.
+The name of the project is **Qt for Python** and the name of the module is **PySide**.
 [Qt for Python — Qt for Python](https://doc.qt.io/qtforpython/)
 [Qt for Python/Tutorial - Qt Wiki](https://wiki.qt.io/Qt_for_Python/Tutorial)
 [Qt for Python/Porting guide - Qt Wiki](https://wiki.qt.io/Qt_for_Python/Porting_guide)
@@ -202,6 +230,7 @@ The name of the project is **Qt for Python** and the name of the module is **PyS
 [PySide2 Tutorial 2022, Create Python GUIs with Qt](https://www.pythonguis.com/pyside2-tutorial/)
 [PySide6 Tutorial 2022, Create Python GUIs with Qt](https://www.pythonguis.com/pyside6-tutorial/)
 [pyside2-examples/examples at dev · pyside/pyside2-examples](https://github.com/pyside/pyside2-examples/tree/dev/examples) ❗!important
+[Learn Python GUI Development for Desktop – PySide6 and Qt Tutorial - YouTube](https://www.youtube.com/watch?v=Z1N9JzNax2k) 5:08:26
 
 [How to not shoot yourself in the foot using Qt for Python, PyQt - Machine Koder](https://machinekoder.com/how-to-not-shoot-yourself-in-the-foot-using-python-qt/)
 
@@ -215,6 +244,7 @@ The name of the project is **Qt for Python** and the name of the module is **PyS
 [PySide2.QtGui — Qt for Python](https://doc.qt.io/qtforpython-6/PySide6/QtGui/index.html)
 [PySide2.QtWidgets — Qt for Python](https://doc.qt.io/qtforpython-6/PySide6/QtWidgets/index.html)
 [QObject — Qt for Python](https://doc.qt.io/qtforpython-6/PySide6/QtCore/QObject.html#more)
+[Jason Codes Qt - YouTube](https://www.youtube.com/@josys363/videos) PySide
 
 [Riverbank | Software | PyQt | What is PyQt?](https://riverbankcomputing.com/software/pyqt/intro) PyQt is GPL, use with care
 [pyqt/python-qt5: Unofficial PyQt5 via PyPI for Python 2.7 64-bit on Windows](https://github.com/pyqt/python-qt5)
@@ -222,9 +252,20 @@ The name of the project is **Qt for Python** and the name of the module is **PyS
 [PyQt6 Documentation](https://www.riverbankcomputing.com/static/Docs/PyQt6/index.html)
 [Differences Between PyQt6 and PyQt5 — PyQt Documentation v6.3.1](https://www.riverbankcomputing.com/static/Docs/PyQt6/pyqt5_differences.html)
 
+Alan D Moore Codes, author of "Mastering GUI Programming with Python"
+[PyQt5 Programming - YouTube](https://www.youtube.com/playlist?list=PLXlKT56RD3kBu2Wk6ajCTyBMkPIGx7O37)
+[QtDesigner and PyQt5: The right and wrong way to use them together - YouTube](https://www.youtube.com/watch?v=XXPNpdaK9WA)
+
+[PyQt5 + Python - YouTube](https://www.youtube.com/playlist?list=PL1hUOG3l8AVmKjzvZKLkJuxlQm7nppaej)
+
 [PyQt5 Tutorial 2022, Create Python GUIs with Qt](https://www.pythonguis.com/pyqt5-tutorial/)
 [PyQt6 Tutorial 2022, Create Python GUIs with Qt](https://www.pythonguis.com/pyqt6-tutorial/)
 [pyqt/examples: Learn to create a desktop app with Python and Qt](https://github.com/pyqt/examples) ❗!important
+
+Code First with Hala
+[PyQt5 tutorials - YouTube](https://www.youtube.com/playlist?list=PLs3IFJPw3G9KhF7BeGOItwoKKLD8e3Dwu)
+[PyQt5 GUI Projects - YouTube](https://www.youtube.com/playlist?list=PLs3IFJPw3G9JhknhI-mfGxcD04lEOIZJX)
+[PyQt6 Tutorials - YouTube](https://www.youtube.com/playlist?list=PLs3IFJPw3G9JdAmg2p9kNc9Uo8i8JFh3z)
 
 [dip documentation](https://www.riverbankcomputing.com/static/Docs/dip/) for writing reusable UI component
 [pyqtdeploy User Guide](https://www.riverbankcomputing.com/static/Docs/pyqtdeploy/)

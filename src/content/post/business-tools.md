@@ -195,6 +195,7 @@ Note: Pre-registered Alphanumeric Sender ID Required for A2P SMS in Hong Kong Ef
 [Webmasters - Sharing](https://developers.facebook.com/docs/sharing/webmasters/)
 [Ahrefs - SEO Tools & Resources To Grow Your Search Traffic](https://ahrefs.com/)
 [Think with Google - Discover Marketing Research & Digital Trends](https://www.thinkwithgoogle.com/)
+[【SEO 第一聖經】史上最齊全 SEO 自學筆記 | RE:LAB](https://relab.cc/blog/seo%E8%81%96%E7%B6%93/)
 
 [Meta Tags — Preview, Edit and Generate](https://metatags.io/)
 [OpenGraph - Preview Social Media Share and Generate Metatags](https://www.opengraph.xyz/)

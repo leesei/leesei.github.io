@@ -2,6 +2,7 @@
 title: Food
 description: ""
 created: 2015-10-09
+updated: 2023-08-10
 tags:
   - food
   - science
@@ -9,6 +10,7 @@ tags:
 
 [foodskey - YouTube](https://www.youtube.com/channel/UCWUq6teKH18Iwuh41D75sQg)
 [MinuteFood - YouTube](https://www.youtube.com/@MinuteFood)
+[History of Food & Agriculture - YouTube](https://www.youtube.com/playlist?list=PLiCEoVachDxtMGZxiUuyeGeCdEZznf1V_) Fire of Learning
 
 [Food for thought - STYLE Origins series | South China Morning Post](https://series.scmp.com/style/food-origins/)
 [Origins series | South China Morning Post](https://www.scmp.com/magazines/style/topics/origins-series)
@@ -64,6 +66,16 @@ the Third Agricultural Revolution (1930s-1960s)
 
 Millet 粟 栗
 
+### Vertical Farming
+
+[Vertical farms could take over the world | Hard Reset by Freethink - YouTube](https://www.youtube.com/watch?v=J4SaSfnHK3I)
+
+[Are indoor vertical farms the future of agriculture? | Stuart Oda - YouTube](https://www.youtube.com/watch?v=z9jXW9r1xr8)
+[Vertical farming will change agriculture FOREVER – 10 reasons why - YouTube](https://www.youtube.com/watch?v=cbGD16zgTsk)
+[7 Biggest DISADVANTAGES of Vertical Farming - YouTube](https://www.youtube.com/watch?v=G_utKzBJ0XM)
+[Is Vertical Farming REALLY Environmentally Sustainable? - YouTube](https://www.youtube.com/watch?v=JYIetQjRRfQ)
+[This is Why Vertical Farming is FAILING - YouTube](https://www.youtube.com/watch?v=ENWV1JMqkS0)
+
 ## Husbandry
 
 [Animal husbandry - Wikiwand](https://www.wikiwand.com/en/Husbandry)
@@ -114,17 +126,6 @@ Millet 粟 栗
 ## Coco/Chocolate
 
 [不同的巧克力有哪些区别？如何挑一块好吃的巧克力？What are the differences between different chocolates? - YouTube](https://www.youtube.com/watch?v=NDmvwD9yzpc)
-
-## Coffee
-
-[The science behind caffeine featuring Danielle Rath of GreenEyedGuide.com (Brain Science #25) |> Changelog](https://changelog.com/brainscience/25)
-[The 5 Levels of Fatigue | Beating Burnout with Caffeine Science](https://greeneyedguide.com/5-levels-of-fatigue/)
-[How to drink caffeine strategically with the 5 Levels of Fatigue | GEG Research and Consulting](https://greeneyedguide.com/2019/09/10/how-to-find-the-best-energy-drink-using-the-5-levels-of-fatigue/)
-
-[凍咖啡迷思｜冷萃、冰釀、冰滴咖啡有何分別？認識 4 大類凍齋啡](https://www.hk01.com/%E6%95%99%E7%85%AE/545461)
-[古猿吃了咖啡豆才進化成人的？關於咖啡和人類起源的驚人巧合！【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=SVVc2wL1bxQ)
-[咖啡的起源與歷史 ▶ 咖啡如何風靡全世界 - YouTube](https://www.youtube.com/watch?v=bssAuB7zIzk)
-[咖啡爲何會越喝越困？只因妳忽略了這點，咖啡裏竟然有蟑螂！ - YouTube](https://www.youtube.com/watch?v=TIM8ZJ-8z1E)
 
 ## Sugar
 

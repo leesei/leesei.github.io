@@ -2,9 +2,9 @@
 title: Database
 description: ""
 created: 2015-08-03
-updated: 2023-03-24
+updated: 2023-08-09
 tags:
-  - database
+  - comp/database
 ---
 
 > TODO: merge `caravan/database/` here
@@ -28,6 +28,7 @@ tags:
 [XML database - Wikiwand](https://www.wikiwand.com/en/XML_database)
 
 [NoSQL 数据库不应该放弃 Consistency](https://www.infoq.cn/article/rhzs0KI2G*Y2r9PMdeNv)
+[Don't Get Stuck in the CON Game (V3) - by Pat Helland](https://pathelland.substack.com/p/dont-get-stuck-in-the-con-game-v3)
 
 [Database Theory - MariaDB Knowledge Base](https://mariadb.com/kb/en/library/database-theory/)
 [Linearizability versus Serializability | Peter Bailis](http://www.bailis.org/blog/linearizability-versus-serializability/)
@@ -420,9 +421,13 @@ Next Generation Databases mostly addressing _some of the points_: being non-rela
 [NoSQL standouts: The best document databases | InfoWorld](https://www.infoworld.com/article/3201884/nosql/nosql-standouts-the-best-document-databases.html)
 [NoSQL standouts: The best key-value databases | InfoWorld](https://www.infoworld.com/article/3223728/nosql/nosql-standouts-the-best-key-value-databases.html)
 
-[NoSQL vs. NewSQL\_ Evaluating Database Technologies for 2019 (1) on Vimeo](https://vimeo.com/305493000)
+[NoSQL vs. NewSQL\_ Evaluating Database Technologies for 2019 on Vimeo](https://vimeo.com/305493000)
 
-Usually provides BASE eventual consistency.
+Usually provides BASE eventual consistency (eventual convergence may be a better term).
+
+[MongoDB vs. PostgreSQL vs. ScyllaDB: Tractian’s Experience - The New Stack](https://thenewstack.io/mongodb-vs-postgresql-vs-scylladb-tractians-experience/)
+
+[Don't Get Stuck in the CON Game (V3) - by Pat Helland](https://pathelland.substack.com/p/dont-get-stuck-in-the-con-game-v3)
 
 Category in data type/arrangement:
 
@@ -1033,6 +1038,19 @@ The _Standard_ API for interacting with GraphDB.
 
 ---
 
+# Vector Database
+
+[NucliaDB, the vector database for HuggingFace users](https://nucliadb.com/)
+[Nuclia vector database](https://nuclia.com/vector-database/)
+
+[The Power of Vector Databases For Knowledge Search - YouTube](https://www.youtube.com/watch?v=awIm3rQOBxE)
+[Why are they suddenly so popular? - YouTube](https://www.youtube.com/watch?v=IvyAMw7B39k)
+
+[Vector Database for Vector Search | Pinecone](https://www.pinecone.io/)
+[【人工智能】爆肝万字介绍向量数据库和 Pinecone | 向量搜索的演化过程 | LLM 是人类的大脑，向量数据库就是海马体 | Pinecone 的发展历程 | Pinecone 直接和潜在竞争对手有哪些 - YouTube](https://www.youtube.com/watch?v=u03AZlmZF_8)
+
+---
+
 # NewSQL
 
 [[postgresql]]
@@ -1152,7 +1170,7 @@ CockroachDB is a cloud-native SQL database for building global, scalable cloud s
 ## Google Cloud Spanner
 
 [Cloud Spanner | Automatic Sharding with Transactional Consistency at Scale | Google Cloud](https://cloud.google.com/spanner/)
-[Spanner (database) - Wikiwand](https://www.wikiwand.com/en/Spanner_(database%29)
+[Spanner (database) - Wikiwand](<https://www.wikiwand.com/en/Spanner_(database)>)
 
 [Google's Cloud Spanner: how does it stack up? | ZDNet](https://www.zdnet.com/article/google-spanner-and-how-it-compares-to-microsofts-cosmos-db/)
 [Spanner vs. Calvin: Distributed Consistency at Scale](https://fauna.com/blog/distributed-consistency-at-scale-spanner-vs-calvin)
@@ -1304,6 +1322,8 @@ VoltDB
 [Pricing | Cockroach Labs](https://www.cockroachlabs.com/pricing/) distributed SQL, with free tier
 
 [Pricing | Railway](https://railway.app/pricing) can host SQL, Redis, Mongo, $5 credit per month
+
+[Turso | Pricing](https://turso.tech/pricing) SQLite on the edge, generous free tier3
 
 [Pricing and Plans | Fauna](https://fauna.com/pricing) distributed ACID document DB
 

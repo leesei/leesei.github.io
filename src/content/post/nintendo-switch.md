@@ -2,6 +2,7 @@
 title: Nintendo Switch
 description: ""
 created: 2018-01-09
+updated: 2023-07-24
 tags:
   - games
   - nintendo
@@ -438,7 +439,7 @@ Gold and silver points can be used to redeem games discounts and in game items.
 First gen Switch:
 Tegra X1 T210 (4x ARM Cortex-A57 @1GHz)
 Maxwell GPU @384/768MHz
-4GB RAM
+4GB LPDDR4/LPDDR4X (OLED version) @1600Mhz
 
 [Switch's next Tegra X1 looks set to deliver more performance and longer battery life • Eurogamer.net](https://www.eurogamer.net/articles/digitalfoundry-2019-switch-new-tegra-x1-silicon-comes-into-focus)
 [Old vs New Switch: What Nintendo didn't tell you - YouTube](https://www.youtube.com/watch?v=dwHZ7Sz1-wY)
@@ -455,6 +456,11 @@ Tegra X1? T214/T210N01
 
 [The Ultimate Noob Guide for Hacking your Nintendo Switch — Homebrew Guide documentation](https://switch.homebrew.guide/)
 [What Can You Do With a Jailbroken Nintendo Switch in 2019? - YouTube](https://www.youtube.com/watch?v=xhq4UQgB8Sc)
+
+[CTCaer/hekate: hekate - A GUI based Nintendo Switch Bootloader](https://github.com/CTCaer/hekate)
+
+[switchroot](https://switchroot.org/)
+[把 Switch 改造成 PC，玩 Steam 大作？？？ - YouTube](https://www.youtube.com/watch?v=moCocKjqSCE)
 
 [media.ccc.de - Console Security - Switch](https://media.ccc.de/v/34c3-8941-console_security_-_switch)
 [fail0verflow :: ShofEL2, a Tegra X1 and Nintendo Switch exploit](https://fail0verflow.com/blog/2018/shofel2/)
@@ -495,6 +501,11 @@ To use as USB adapter and charging stand:
 
 [How To Fix Your Joycon Drift Permanently! - YouTube](https://www.youtube.com/watch?v=Vid8lIXmZwE)
 [Nintendo Switch: How to Fix Joy-Con Drift - YouTube](https://www.youtube.com/watch?v=zG4JQ6BPmFU)
+
+### Battery Replacement
+
+[Nintendo Switch Battery Replacement - tutorial - YouTube](https://www.youtube.com/watch?v=HieCOHpzwso)
+[Nintendo Switch Battery Replacement-How To! - YouTube](https://www.youtube.com/watch?v=m8JDbQTk5zw)
 
 ### Amiibo
 

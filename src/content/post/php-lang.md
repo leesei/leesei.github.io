@@ -4,7 +4,7 @@ description: ""
 created: 2021-05-28
 updated: 2023-03-27
 tags:
-  - comp.lang
+  - comp/lang
   - php
 ---
 

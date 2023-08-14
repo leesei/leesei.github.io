@@ -2,6 +2,7 @@
 title: Virtualization
 description: ""
 created: 2015-05-10
+updated: 2023-07-26
 tags:
   - linux
   - virtualbox
@@ -43,6 +44,8 @@ Intel's VTx technology improved the performance of visualization (rendering bina
 
 [Documents - KVM](https://www.linux-kvm.org/page/Documents)
 [How to Install Kvm on Ubuntu 20.04 | Linuxize](https://linuxize.com/post/how-to-install-kvm-on-ubuntu-20-04/)
+
+[Virtual Machine Manager](https://virt-manager.org/) virt-manager
 
 [How to Use Virtualbox VMs on KVM In Linux](https://www.tecmint.com/migrate-virtualbox-vms-into-kvm-vms/amp/)
 
@@ -96,6 +99,8 @@ Xen only check handle three things: memory, CPU and interrupts
 [在 QEMU 中安装 Windows7 虚拟机](https://mp.weixin.qq.com/s/f2hj5XIpGvPtuFRwVWCtAg)
 
 [Emulating a Raspberry Pi with QEMU](https://gist.github.com/plembo/c4920016312f058209f5765cb9a3a25e)
+
+[quickemu-project/quickemu: Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.](https://github.com/quickemu-project/quickemu)
 
 ## VirtualBox
 

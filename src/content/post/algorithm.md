@@ -2,8 +2,9 @@
 title: Data Structures and Algorithms
 description: ""
 created: 2023-04-14
+updated: 2023-08-13
 tags:
-  - comp.lang
+  - comp/lang
   - learning
 ---
 
@@ -184,12 +185,21 @@ A\* Algorithm:
 
 [How Command & Conquer: Tiberian Sun Solved Pathfinding | War Stories | Ars Technica - YouTube](https://www.youtube.com/watch?v=S-VAL7Epn3o)
 
-## Radix Sort
+## Sorting
+
+[Explaining EVERY Sorting Algorithm (part 1) - YouTube](https://www.youtube.com/watch?v=AAwYzYkjNTg)
+[Explaining EVERY Sorting Algorithm (part 2) - YouTube](https://www.youtube.com/watch?v=wqibJMG42Ik)
+
+### Radix Sort
 
 [Why is Radix Sort so Fast? Part 1 Why are Comparison Sorts so Slow? - YouTube](https://www.youtube.com/watch?v=_KhZ7F-jOlI) Comparison sort: O(NlogN)
 [Why is Radix Sort so Fast? Part 2 Radix Sort - YouTube](https://www.youtube.com/watch?v=ujb2CIWE8zY) Counting sort: O(N)
 
-## Natural sort
+### QSort
+
+[QuickSort Exposed](https://www.i-programmer.info/projects/61-algorithms/690-quick-sort-exposed.html)
+
+### Natural sort
 
 [[python-snippets#Natural sort]]
 

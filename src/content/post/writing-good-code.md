@@ -2,6 +2,7 @@
 title: Writing Good Code
 description: ""
 created: 2023-06-10
+updated: 2023-08-12
 tags:
   - programmer
 ---
@@ -29,6 +30,7 @@ Clean Code by Uncle bob
 [Common Coding Mistakes You Should Avoid - Better Programming - Medium](https://medium.com/better-programming/common-coding-mistakes-you-should-avoid-441f9e51faea)
 [The 12 Habits of Highly Effective Software Developers | by Erik van Baaren | Jul, 2021 | Better Programming](https://betterprogramming.pub/the-12-habits-of-highly-effective-software-developers-fffb15dc9b15)
 [Programming Habits You Should Adopt - Level Up Coding](https://levelup.gitconnected.com/programming-habits-you-should-adopt-8ab75419fb09)
+[How to Write Clean Code – Tips and Best Practices (Full Handbook)](https://www.freecodecamp.org/news/how-to-write-clean-code/)
 
 [6 ways minimalism can help you write clean code - DEV Community 👩‍💻👨‍💻](https://dev.to/paulasantamaria/6-ways-minimalism-can-help-you-write-clean-code-45kp)
 [Clean code... Why bother? - DEV Community 👩‍💻👨‍💻](https://dev.to/paulasantamaria/clean-code-why-bother-21lo)
@@ -47,9 +49,14 @@ ArjanCodes
 [Even More Code Smells - Purge These 7 Python Putrid Peccadilloes Now! - YouTube](https://www.youtube.com/watch?v=Kl3_Gmn4Ujg)
 [The Ultimate Guide to Writing Functions - YouTube](https://www.youtube.com/watch?v=yatgY4NpZXE)
 
+[Be an Engineer, not a Frameworker | by John Raines | Medium](https://johndanielraines.medium.com/be-an-engineer-not-a-frameworker-c58fe28d0c88)
+[Be An Engineer, Not A Frameworker | Prime Reacts - YouTube](https://www.youtube.com/watch?v=UowtlZB2a70)
+
 [Cohesion and coupling: write BETTER PYTHON CODE Part 1 - YouTube](https://www.youtube.com/watch?v=eiDyK_ofPPM)
 [Dependency inversion: write BETTER PYTHON CODE Part 2 - YouTube](https://www.youtube.com/watch?v=Kv5jhbSkqLE)
 [The strategy pattern: write BETTER PYTHON CODE Part 3 - YouTube](https://www.youtube.com/watch?v=WQ8bNdxREHU)
+
+[Rob Pike: Notes on Programming in C](https://www.lysator.liu.se/c/pikestyle.html)
 
 [Replace Nested Conditional with Guard Clauses](https://refactoring.com/catalog/replaceNestedConditionalWithGuardClauses.html) early exit
 [如何重构"箭头型"代码 | | 酷 壳 - CoolShell](https://coolshell.cn/articles/17757.html)
@@ -111,6 +118,8 @@ Pragmatic Programmer
 [行外人看不見的債務 - 技術債務 | Gap 撈 Tech](http://blog.gaplotech.com/technical-debt/)
 [WTF is technical debt? – Hacker Noon](https://hackernoon.com/wtf-is-technical-debt-b9e9d5f89d9)
 
+[Clean as you go (a life hack for code) - YouTube](https://www.youtube.com/watch?v=a7_kghlRfeI)
+
 [Measuring Technical Debt - DevOps.com](https://devops.com/measuring-technical-debt/)
 [5 best practices to measure and manage technical debt | InfoWorld](https://www.infoworld.com/article/3309258/application-development/5-best-practices-to-measure-and-manage-technical-debt.html)
 [FGA: "legacy" is not a pejorative. Do not use it as such.](http://homepage.ntlworld.com/jonathan.deboynepollard/FGA/legacy-is-not-a-pejorative.html)
@@ -127,6 +136,7 @@ Pragmatic Programmer
 [Magic (programming) - Wikiwand](<https://www.wikiwand.com/en/Magic_(programming)>)
 [Where do you stand on "magic" within languages and frameworks? - DEV Community](https://dev.to/ben/where-do-you-stand-on-magic-within-languages-and-frameworks-1071)
 [Node.js is a Salad Bar — Medium](https://medium.com/@modernserf/node-js-is-a-salad-bar-74ec01bd4390#.6gi4zr9a4)
+[I Want Simple, Not Just Easy | Loris Cro's Blog](https://kristoff.it/blog/simple-not-just-easy/)
 
 > Magic is good when it's documented and you're given the ability to inspect the magical bits to find the science behind them.
 > Magic is bad when there are many layers of indirection/metaprogramming, nothing about how it works is documented, and there's no obvious way of overriding their magic with your own magic.

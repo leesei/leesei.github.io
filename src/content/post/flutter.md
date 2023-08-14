@@ -2,9 +2,10 @@
 title: Flutter
 description: ""
 created: 2015-04-03
+updated: 2023-07-27
 tags:
   - app
-  - comp.lang
+  - comp/lang
   - dart
   - flutter
   - mobile
@@ -169,12 +170,14 @@ flutter doctor
 [StateNotifier: Improving state change notifiers in Flutter - LogRocket Blog](https://blog.logrocket.com/statenotifier-improving-state-change-notifiers-flutter/)
 [Why we use flutter_bloc for state management](https://verygood.ventures/blog/why-we-use-flutter-bloc)
 [Flutter games with Bloc and Flame](https://verygood.ventures/blog/flutter-games-with-bloc-and-flame)
+[GetX State Management In Flutter. GetX is a quick, stable, and light… | by Shaiq khan | FlutterDevs](https://medium.flutterdevs.com/getx-state-management-in-flutter-a9710277b0bc)
 
 [provider | Flutter Package](https://pub.dev/packages/provider)
 [riverpod | Dart Package](https://pub.dev/packages/riverpod)
 [flutter_hooks | Flutter Package](https://pub.dev/packages/flutter_hooks)
 [flutter_bloc | Flutter Package](https://pub.dev/packages/flutter_bloc)
 [state_notifier | Dart Package](https://pub.dev/packages/state_notifier)
+[get | Flutter Package](https://pub.dev/packages/get)
 
 ## Casual Games Toolkit
 

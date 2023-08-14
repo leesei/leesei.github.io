@@ -2,6 +2,7 @@
 title: Anime
 description: ""
 created: 2016-05-30
+updated: 2023-08-14
 tags:
   - anime
 ---
@@ -208,13 +209,13 @@ Only My Railgun - fripSide
 
 [哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/)
 [AcFun 弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ](https://www.acfun.cn/)
-[Muse 木棉花-HK - YouTube](https://www.youtube.com/channel/UCOsFUU8EtJGDd6-AouF_MwQ)
+[Muse 木棉花-HK - YouTube](https://www.youtube.com/@MuseHK)
+[Muse 木棉花-TW - YouTube](https://www.youtube.com/@MuseTW)
 [巴哈姆特動畫瘋](https://ani.gamer.com.tw/)
-[Muse 木棉花-TW - YouTube](https://www.youtube.com/channel/UCgdwtyqBunlRb-i-7PnCssQ)
 [Crunchyroll - Watch Popular Anime & Read Manga Online](https://www.crunchyroll.com/)
-[枫之诗 Animation - YouTube](https://www.youtube.com/channel/UCYkn7e_zaRR_UxOrJR0RVdg)
-[Ani-One Asia - YouTube](https://www.youtube.com/c/AniOneAsia)
-[Ani-One 中文官方動畫頻道 - YouTube](https://www.youtube.com/c/AniOneAnime)
+[次元动漫社 Animation Club - YouTube](https://www.youtube.com/@CYAnimation01)
+[Ani-One Asia - YouTube](https://www.youtube.com/@AniOneAsia)
+[Ani-One 中文官方動畫頻道 - YouTube](https://www.youtube.com/@AniOneAnime)
 
 [Anime1.me 動畫線上看 – 上百部動漫免費線上看！](https://anime1.me/)
 [Anime1.cc 動畫線上看 – 上千部動漫免費線上看！](https://anime1.cc/)
@@ -228,21 +229,20 @@ Only My Railgun - fripSide
 [TOP15 十五大最優質動畫公司排行 - YouTube](https://www.youtube.com/playlist?list=PLm-vjB6ZjbNbGwYqtNWwRt0u3y8HN-hRY)
 [YOZ 動畫公司 - YouTube](https://www.youtube.com/playlist?list=PLB_IY29eVwsVGhKZQIERov0QAUZagSgQt)
 
-[BIG BIGGG - YouTube](https://www.youtube.com/channel/UCSi3cVjbwI65gHQyfKBwIoA)
-[瘋狂老爹 - YouTube](https://www.youtube.com/user/kenzx1990)
-[AshhhTV/阿修 - YouTube](https://www.youtube.com/channel/UCK5LUK8viFrysSXt7sh2yGA)
-[泛式 FunShiki - YouTube](https://www.youtube.com/channel/UCVTifvD7WFz1Z-AnEzUoUUA)
-[Inokawa Hajime 井川一 - YouTube](https://www.youtube.com/channel/UCcHVKeT_5Ta-gTa-sgooQxQ)
-[阿泥妹飯 - YouTube](https://www.youtube.com/channel/UCLlOL70Xx0E8iY65qbgeq2Q) AnimeFan
-[妮柯基慢 - YouTube](https://www.youtube.com/channel/UCns_nEw_TnHBgwoASYugWiw)
-[Kay-漫天大坑- - YouTube](https://www.youtube.com/channel/UCI9nkuPuHrksvwudnJxDbwA)
-[荔枝 - YouTube](https://www.youtube.com/channel/UC8UGXaYmAKVYYUvPzIlCmaQ) 聲優
+[BIG BIGGG - YouTube](https://www.youtube.com/@bigbiggg666)
+[瘋狂老爹 - YouTube](https://www.youtube.com/@kenzx1990)
+[AshhhTV/阿修 - YouTube](https://www.youtube.com/@ashhhtv4746)
+[泛式 FunShiki - YouTube](https://www.youtube.com/@funshiki)
+[Inokawa Hajime 井川一 - YouTube](https://www.youtube.com/@InokawaHajime)
+[阿泥妹飯 - YouTube](https://www.youtube.com/@animefan) AnimeFan
+[慢慢慢老斯 - YouTube](https://www.youtube.com/@dr_maam)
+[荔枝 - YouTube](https://www.youtube.com/@laichi7952) 聲優
 [假装冷酷的起灵的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibili](https://space.bilibili.com/26721635/channel/index)
-[四郎说动漫 - YouTube](https://www.youtube.com/channel/UC0NtSrnpqDJiL3k8j5iORyA)
-[不負責任瘋動漫 2 館 - YouTube](https://www.youtube.com/channel/UCNwF_xuceRHe5Wn1hhumw4A)
-[RushSong RS - - YouTube](https://www.youtube.com/channel/UCvAFi3Brfyci4XH7V3pGcpA)
+[四郎说动漫 - YouTube](https://www.youtube.com/@user-pf9ko3hj7y)
+[不負責任瘋動漫 2 館 - YouTube](https://www.youtube.com/@user-crazy-anime)
+[RushSong RS - - YouTube](https://www.youtube.com/@RushSongRS)
 
-[Anime In Minutes - YouTube](https://www.youtube.com/playlist?list=PLQvf2Qh2Ohva26W_Dn0Skw8iVgSkzD0e7)
+[Anime In Minutes - YouTube](https://www.youtube.com/playlist?list=PLQvf2Qh2Ohva26W_Dn0Skw8iVgSkzD0e7) SomeMoeGaming
 
 [LexBurner 的微博\_微博](https://weibo.com/lexburner)
 [LexBurner 的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibili](https://space.bilibili.com/777536/#/)
@@ -255,10 +255,12 @@ Only My Railgun - fripSide
 [【Lex】验货时间到！一月新番扫雷吐槽第一弹！\_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av18182135)
 [【Lex 吐槽】刀剑神域序列之争，我永远喜欢亚丝娜！\_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av15949587)
 
-[网易王三三 - YouTube](https://www.youtube.com/channel/UCLi_pxRDLeWDGE5h4xL0d-Q)
+[网易文创 - YouTube](https://www.youtube.com/@user-ve4nq3vu2u)
 [【无皇刃谭】史上最牛逼的武打动画，迄今无人超越 - YouTube](https://www.youtube.com/watch?v=U37RJYImTDQ)
 [【劇場版推薦】Boss 開口就秀中文！日漫裡最好的武俠片！至今還是真實係動作片裡的頂峰 - YouTube](https://www.youtube.com/watch?v=6Qwmxgz3U2k)
 [【星际牛仔】日本 90 年代最伟大的动画之一，属于天才的作品 - YouTube](https://www.youtube.com/watch?v=gqC09Ky9lgo) Cowboy Bebop: Knockin' on heaven's door
+
+## 赌博默示录
 
 [一次性痛快看完最强烧脑悬疑神作《赌博默示录第 1 季 1-13 集合集》 - YouTube](https://www.youtube.com/watch?v=X2a-zxlwx4w)
 [一次性痛快看完最强烧脑悬疑神作《赌博默示录 14-26 集合集》 - YouTube](https://www.youtube.com/watch?v=vmd-59TmFg0)
@@ -293,7 +295,7 @@ Only My Railgun - fripSide
 
 ## 天元突破
 
-[井川一青春豬頭 WRYYY - YouTube](https://www.youtube.com/channel/UCGHg6_jxx3B_PDdhEDxxmQA/videos)
+[井川一青春豬頭 WRYYY - YouTube](https://www.youtube.com/@wryyy3481)
 
 [井川帶你看《天元突破》 - YouTube](https://www.youtube.com/playlist?list=PLv3iA6yjAwsgFOvX2DOOjYoiQE3B_C441)
 
@@ -309,7 +311,7 @@ Only My Railgun - fripSide
 
 [The Philosophy of ONE PUNCH MAN – Wisecrack Edition - YouTube](https://www.youtube.com/watch?v=EQB6ctBXNzs) Saitama renders other character's struggle irrelevant, he is a ["deus ex machina"](https://www.wikiwand.com/en/Deus_ex_machina)
 [one punch man 一拳超人 漫畫解說 - YouTube](https://www.youtube.com/playlist?list=PLvWVez4bXCfQveyAlpBjRm6wY7B204YhK)
-[愛你們的筆墨の油管 - YouTube](https://www.youtube.com/channel/UCtwLxYSmyxhay0elziHZnMw/playlists?view=50&sort=dd&shelf_id=2)
+[Love your pen and ink の oil tube - YouTube](https://www.youtube.com/@AiNIMenDeBiMo)
 [一拳超人 - YouTube](https://www.youtube.com/playlist?list=PLmjge9eia_a87xEZEgG-fwyRZLJ_YPTYG) 石小曼
 [【一拳超人】埼玉老師與各式英雄解讀。 - YouTube](https://www.youtube.com/playlist?list=PL75ssDbJ9JTEi_m9Mm_5X8RxqTxooY0zA) Kay-漫天大坑-
 [一拳超人英雄錄 - YouTube](https://www.youtube.com/playlist?list=PLRIPTLYkAlHTMOA-06-1O8oagVFs5jgm7) 內口
@@ -324,8 +326,7 @@ Only My Railgun - fripSide
 [阿偉的怪人筆記 - YouTube](https://www.youtube.com/playlist?list=PLSAiAOuMABHFS9v8y_EMWVBYHHjEzuqzs)
 
 假装冷酷的起灵 [Bilibili](https://space.bilibili.com/26721635/channel/detail?cid=135070) [YouTube](https://www.youtube.com/playlist?list=PLSk-fsG1YwI_rcyjPlG0n8uQ0_H2KugBh)
-[一拳超人 - 無臉 - YouTube](https://www.youtube.com/channel/UClZyxQNa1B4q9YSG7Z8TGpA/search?query=%E4%B8%80%E6%8B%B3%E8%B6%85%E4%BA%BA)
-[動漫樂園 - YouTube](https://www.youtube.com/channel/UCgoAjs_9Pr6TwLRJqYV6G1A/videos)
+[一拳超人 - 無臉 - YouTube](https://www.youtube.com/@no_face707/search?query=%E4%B8%80%E6%8B%B3%E8%B6%85%E4%BA%BA)
 
 S 级安年
 [一口氣看完《一拳超人·餓狼篇》！神級餓狼與埼玉的終極決戰！ - YouTube](https://www.youtube.com/watch?v=HpmkFm_-6cM)
@@ -336,7 +337,7 @@ S 级安年
 [壹拳超人（番外） - YouTube](https://www.youtube.com/playlist?list=PLCgTEs2hplaUof0gvFlBoVsTlqXiuEVcD)
 [壹拳超人（人物誌） - YouTube](https://www.youtube.com/playlist?list=PLCgTEs2hplaVjrmPQCf42w18hSHPPPVkg)
 
-[Stone 动漫 - YouTube](https://www.youtube.com/channel/UC0D84wIvL6FagICNRRphAEQ/featured)
+[Stone 动漫 - YouTube](https://www.youtube.com/@stone6338)
 [一拳超人动漫 - YouTube](https://www.youtube.com/playlist?list=PLYx4qjJSzY-wLzz3ejrRBtEeDeIuurPrC)
 [一拳超人原作 - YouTube](https://www.youtube.com/playlist?list=PLYx4qjJSzY-xLOPXiTYyHCeOk0kGAA_n1)
 [一拳超人未解之谜 - YouTube](https://www.youtube.com/playlist?list=PLYx4qjJSzY-xxMdVe1OhDqclvdAqKgySN)
@@ -398,18 +399,14 @@ S 级安年
 
 ## 呪術迴戰
 
-[呪術迴戰 漫天大坑-Kay - YouTube](https://www.youtube.com/channel/UC29L37o2cslmXRhOLn04bCA/search?query=%E5%91%AA%E8%A1%93%E8%BF%B4%E6%88%B0)
+[呪術迴戰 漫天大坑-Kay - YouTube](https://www.youtube.com/@-kayshi_0521/search?query=%E5%91%AA%E8%A1%93%E8%BF%B4%E6%88%B0)
 [咒術迴戰 - YouTube](https://www.youtube.com/playlist?list=PLsFPl6a0Cnu91fzXTvht1sDgrlI5hwpXU) 四號倉庫
 [咒術迴戰第二季漫畫解說 - YouTube](https://www.youtube.com/playlist?list=PLk0A_V_jRTgg4sIgZf4Zlf3pfpGLK31Oe) 五个光
 
 [咒术回战 一朵老香菇解说 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibili](https://space.bilibili.com/40857648/favlist?fid=1103173348&ftype=create)
-[咒术回战 - YouTube](https://www.youtube.com/playlist?list=PLnYLDv2h47jBFMQEYcwOuFxcUX-6I6eH9) 一朵老香菇
-[咒术回战漫画 - YouTube](https://www.youtube.com/playlist?list=PL6QFCUXInRr7GZqBYSbNW-OuGdjNWiBpQ) 懒人读漫画
 [呪術廻戦 - YouTube](https://www.youtube.com/playlist?list=PL9_zHK6-Ctw4jG3Tk_2YsaTJAwhdGr4qm) 阿後哭哭
-[【咒術回戰】漫畫解說 - YouTube](https://www.youtube.com/playlist?list=PLj8IN3idfUc_DoLE7q9Cnjm58SGYBXN5U) 石原动漫
 [熱血新番《咒術回戰》 - YouTube](https://www.youtube.com/playlist?list=PLUOUwzjVgRraBQNSy-fWmPnQ1Rrwjj1sj) S 级安年
 [咒術回戰 - YouTube](https://www.youtube.com/playlist?list=PLSAiAOuMABHHiQmh1nD7tlmtkUbLau03L) 暴躁宅男阿偉, 0 卷
-[纸片人阿珂 - YouTube](https://www.youtube.com/channel/UC1hdUTIWjMsCph3tFPARMOA/search?query=%E3%80%90%E5%92%92%E8%A1%93%E5%9B%9E%E6%88%B0%E3%80%91)
 
 [【咒術回戰】四大特級術師全介紹！人類的最強戰力天花板有多強 - YouTube](https://www.youtube.com/watch?v=Wj8b_IUX7QQ)
 [【咒术回战】七大最强领域全介绍！五条、宿傩、伏黑谁更强 - YouTube](https://www.youtube.com/watch?v=crJAeEdiO8c)

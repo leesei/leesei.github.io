@@ -1,5 +1,5 @@
 ---
-title: Rockchip - comp.hardware
+title: Rockchip - comp/hardware
 description: ""
 created: 2018-10-20
 tags:

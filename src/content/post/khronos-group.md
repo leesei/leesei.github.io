@@ -2,8 +2,9 @@
 title: Khronos Group
 description: ""
 created: 2015-01-05
+updated: 2023-07-27
 tags:
-  - comp.lang
+  - comp/lang
   - opengl
   - webgl
 ---
@@ -98,7 +99,7 @@ Tegra 3 T30L | Tegra 3 T30L | Nexus 7
 ## OpenTK
 
 [OpenTK - OpenTK](https://opentk.net/)
-[opentk/opentk: The Open Toolkit library is a fast, low-level C# wrapper for OpenGL, OpenAL & OpenCL.](https://github.com/opentk/opentk)
+[opentk/opentk: The Open Toolkit library is a fast, low-level C# wrapper for OpenGL, OpenAL & OpenCL. It also includes windowing, mouse, keyboard and joystick input and a robust and fast math library, giving you everything you need to write your own renderer or game engine. OpenTK can be used standalone or inside a GUI on Windows, Linux, Mac.](https://github.com/opentk/opentk)
 
 [OpenTK Lecture | OpenGL Bindings For C# - YouTube](https://www.youtube.com/watch?v=wFnt6fOX97U) 4.x
 [C# & OpenGL with OpenTK | Tutorials | Advanced Graphics Programming in C# - YouTube](https://www.youtube.com/playlist?list=PLWzp0Bbyy_3ggUK3XZjBmwnSjhbhJH3kp)

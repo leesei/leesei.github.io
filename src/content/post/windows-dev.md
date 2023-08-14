@@ -2,6 +2,7 @@
 title: Windows Development
 description: ""
 created: 2020-03-02
+updated: 2023-08-01
 tags:
   - app
 ---
@@ -609,7 +610,7 @@ Originally [Media Foundation .NET](http://mfnet.sourceforge.net/)
 
 [UWP App Diagnostics - Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2017/06/28/uwp-app-diagnostics)
 
-[Dependency Walker (depends.exe) Home Page](https://www.dependencywalker.com/)
+[Dependency Walker (depends.exe) Home Page](https://www.dependencywalker.com/) `ldd`
 
 [Debugging WPF Applications - WPF Debugging and Performance Succinctly Ebook](https://www.syncfusion.com/ebooks/wpf_debugging_and_performance/debugging-wpf-applications)
 

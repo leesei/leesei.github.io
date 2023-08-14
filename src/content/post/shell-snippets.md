@@ -5,6 +5,7 @@ created: 2014-12-08
 tags:
   - linux
   - shell
+  - snippets/shell
 ---
 
 [tokozedg/sman: Command-line snippet manager](https://github.com/tokozedg/sman)

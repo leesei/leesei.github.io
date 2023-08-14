@@ -2,6 +2,7 @@
 title: World War II
 description: ""
 created: 2015-06-07
+updated: 2023-08-14
 tags:
   - history
   - world-war
@@ -10,7 +11,8 @@ tags:
 [第二次世界大战 - Wikiwand](https://www.wikiwand.com/zh/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98)
 [World War II - Wikiwand](http://www.wikiwand.com/en/World_War_II)
 [BBC - World War Two](https://www.bbc.co.uk/programmes/p07nrbdn)
-[War Stories - YouTube](https://www.youtube.com/@WarStoriesChannel/featured)
+[War Stories - YouTube](https://www.youtube.com/@WarStoriesChannel)
+[World War Two - YouTube](https://www.youtube.com/@WorldWarTwo)
 [The Operations Room - YouTube](https://www.youtube.com/@TheOperationsRoom) battles animated
 [二戰風雲戰役和人物 - YouTube](https://www.youtube.com/playlist?list=PLB1UN3q8P5XetxeLkF95RT4xsWMRBEU3A) 历史学
 [Historical videos. Missions that changed the world - YouTube](https://www.youtube.com/playlist?list=PLBI4gRjPKfnMKV7ukPXQJLHveKXNwbT80)
@@ -68,12 +70,12 @@ WarsofTheWorld
 [A History Teacher Reacts | Oversimplified - WW2 (Part 1) - YouTube](https://www.youtube.com/watch?v=--DFJ_rOXWo)
 [A History Teachers Reacts | Oversimplified - WW2 (Part 2) - YouTube](https://www.youtube.com/watch?v=32CKIbLTrXQ)
 [二战那些事儿 - YouTube](https://www.youtube.com/playlist?list=PLnzvH6pAJKSpwaA1h-0BbE320rQyhlSYb)
-[Eastory - YouTube](https://www.youtube.com/channel/UCElybFZ60Hk1NSjgCf7I2sg/featured)
-[Montemayor - YouTube](https://www.youtube.com/channel/UCX7katl3DVmch4D7LSvqbVQ)
+[Eastory - YouTube](https://www.youtube.com/@Eastory)
+[Montemayor - YouTube](https://www.youtube.com/@MontemayorChannel)
 [二戰系列 - 欣阳漫話 - YouTube](https://www.youtube.com/playlist?list=PL_T3JO9GtG28sqWEaGbbauFeleQj3KrtA)
 
 ["Brilliant" plans to win World War II - YouTube](https://www.youtube.com/playlist?list=PL5ahI6AQBuJMCiZM2NLJdG6M2k9vXCN98)
-[15 分鐘講完二次世界大戰 (簡史、重點、趣聞) - YouTube](https://www.youtube.com/watch?v=TqHD3Qo0Qec&)
+[15 分鐘講完二次世界大戰 (簡史、重點、趣聞) - YouTube](https://www.youtube.com/watch?v=TqHD3Qo0Qec)
 [一口气看完 《第二次世界大战》完整版 Best World War II commentary - YouTube](https://www.youtube.com/watch?v=gj8s5Xdm7Hk)
 [二戰中的熊戰士：抽煙、喝酒、把妹，還能晉升下士……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=PhAmanpIA8U)
 

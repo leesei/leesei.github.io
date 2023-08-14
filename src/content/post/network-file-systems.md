@@ -89,6 +89,14 @@ wide links = yes
 unix extensions = no
 ```
 
+## WekaFS
+
+[The Data Platform for Cloud & AI | WEKA - WEKA](https://www.weka.io/)
+[Data Management Platform: How It Works - WEKA](https://www.weka.io/data-platform/how-our-data-management-platform-works/)
+[10 Reasons to Deploy WekaFS Parallel File System - WEKA](https://www.weka.io/resources/solution-brief/10-reasons-to-deploy-wekafs-parallel-file-system/)
+
+[csi-wekafs | WekaFS Container Storage Interface (CSI) Plugin](https://weka.github.io/csi-wekafs/)
+
 ---
 
 [NitroShare](https://nitroshare.net/)

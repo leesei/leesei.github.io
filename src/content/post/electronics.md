@@ -2,6 +2,7 @@
 title: Electronics
 description: ""
 created: 2018-09-12
+updated: 2023-08-08
 tags:
   - electronics
   - maker
@@ -555,7 +556,7 @@ Arduino's PWM (`analogWrite()`) frequency is about 500Hz, 8 bit resolution.
 
 ## EDA tools
 
-EDA: electronic design automation
+[Review of the Top Free Electronics Design Automation Software - News](https://www.allaboutcircuits.com/news/review-of-the-top-free-electronics-design-automation-software/)
 
 [KiCad EDA](http://kicad-pcb.org/)
 [KiCad Tutorial - CuriousInventor Guides](http://store.curiousinventor.com/guides/kicad)
@@ -567,6 +568,10 @@ EDA: electronic design automation
 [CircuitLab Editor](https://www.circuitlab.com/editor/#?id=7pq5wm)
 
 [Circuit Simulator Applet](http://www.falstad.com/circuit/) real time simulation
+
+https://www.qorvo.com/design-hub/design-tools/interactive/qspice/
+[Qorvo Releases Free Circuit Simulation Software, QSPICE - News](https://www.allaboutcircuits.com/news/qorvo-releases-free-circuit-simulation-software-qspice/)
+[An Open-Source, Free Circuit Simulator | Hackaday](https://hackaday.com/2023/07/30/an-open-source-free-circuit-simulator/)
 
 [PCBmodE — Boldport](https://boldport.com/pcbmode)
 [A circuit board design software with a twist | PCBmodE](https://pcbmode.com/)
@@ -581,10 +586,12 @@ EDA: electronic design automation
 
 [Realization. Not CAD. - Upverter](https://upverter.com/)
 
+[LTspice Information Center | Analog Devices](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
 [Adding Spice To Your Workbench | Hackaday](https://hackaday.com/2016/02/26/adding-spice-to-your-workbench/)
-[Basic DC Analysis with LTSpice - YouTube](https://www.youtube.com/watch?v=6QzTZDm0guM)
 [Spice Power | Hackaday](https://hackaday.com/2016/02/29/spice-power/)
+[Basic Circuit Simulation with LTspice - Technical Articles](https://www.allaboutcircuits.com/technical-articles/basic-circuit-simulation-with-ltspice/)
 [LTspice | Design Center | Analog Devices](http://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
+[Basic DC Analysis with LTSpice - YouTube](https://www.youtube.com/watch?v=6QzTZDm0guM)
 [Circuit simulation in LTSpice - YouTube](https://www.youtube.com/playlist?list=PLB83D613334919AE6)
 [LTspice & NumPy – Part 1: seamless integration of LTspice in python signal processing | a c i d b o u r b o n](https://acidbourbon.wordpress.com/2019/11/26/seamless-integration-of-ltspice-in-python-numpy-signal-processing/)
 [LTspice & NumPy – Part 2: Fast Convolution Filter | a c i d b o u r b o n](https://acidbourbon.wordpress.com/2019/12/04/ltspice-numpy-part-2-fast-convolution-filter/)

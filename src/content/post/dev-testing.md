@@ -2,8 +2,9 @@
 title: Testing
 description: ""
 created: 2015-06-17
+updated: 2023-07-27
 tags:
-  - comp.lang
+  - comp/lang
   - dev/testing
   - unit-test
 ---
@@ -88,6 +89,9 @@ Unit test cons:
 [Unit Test Fetish - 250bpm](http://250bpm.com/blog:40)
 [Exploding Software-Engineering Myths - Microsoft Research](https://www.microsoft.com/en-us/research/blog/exploding-software-engineering-myths/)
 [Why-Most-Unit-Testing-is-Waste.pdf](https://rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf)
+
+[I Mock Your Mocks | Boot.dev](https://blog.boot.dev/clean-code/writing-good-unit-tests-dont-mock-database-connections/)
+separating logic into finer units avoids the need to mock
 
 [TestPyramid](https://martinfowler.com/bliki/TestPyramid.html)
 [Unit Testing: The Good, Bad, and Ugly - DZone Performance](https://dzone.com/articles/unit-testing-the-good-bad-amp-ugly)
@@ -291,6 +295,7 @@ Some test runners take the features and generate test scripts in various languag
 [doctest — Test interactive Python examples — Python documentation](https://docs.python.org/3/library/doctest.html)
 [doctest - Wikiwand](https://www.wikiwand.com/en/Doctest)
 [doctest — Testing Through Documentation — PyMOTW 3](https://pymotw.com/3/doctest/)
+[Python Testing with doctest - Mouse Vs Python](https://www.blog.pythonlibrary.org/2014/03/17/python-testing-with-doctest/)
 
 [unittest — Unit testing framework — Python documentation](https://docs.python.org/3/library/unittest.html)
 [Python Tutorial: Unit Testing Your Code with the unittest Module - YouTube](https://www.youtube.com/watch?v=6tNS--WetLI)

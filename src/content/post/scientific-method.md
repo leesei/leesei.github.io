@@ -2,6 +2,7 @@
 title: Scientific Method
 description: ""
 created: 2015-12-11
+updated: 2023-08-11
 tags:
   - science
 ---
@@ -9,6 +10,8 @@ tags:
 [Falsifiability - Wikiwand](https://www.wikiwand.com/en/Falsifiability)
 [Scientific method - Wikiwand](https://www.wikiwand.com/en/Scientific_method)
 [How The Scientific Method Works - Stuff You Should Know (podcast)](https://player.fm/series/stuff-you-should-know/how-the-scientific-method-works)
+[The Dark Origins of the Scientific Method - YouTube](https://www.youtube.com/watch?v=5cPzNmtoZDU)
+
 [Scientists rise up against statistical significance](https://www.nature.com/articles/d41586-019-00857-9)
 [How You Should Read Research Papers According To Andrew Ng (Stanford Deep Learning Lectures) | by Richmond Alake | Towards Data Science](https://towardsdatascience.com/how-you-should-read-research-papers-according-to-andrew-ng-stanford-deep-learning-lectures-98ecbd3ccfb3)
 
@@ -45,8 +48,11 @@ Western studies usually targets WEIRD (Western, educated, industrialized, rich a
 [Psychology is in a replication crisis. The Psychological Science Accelerator is trying to fix it. - Vox](https://www.vox.com/science-and-health/22360363/replication-crisis-psychological-science-accelerator)
 [Solving the replication crisis by replicating less | Behavioural and Social Sciences at Nature Research](https://socialsciences.nature.com/posts/58467-solving-the-replication-crisis-by-replicating-less-and-publishing-more-studies-that-may-not-replicate)
 
+[Why Most Published Research Findings Are False - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182327/)
 [Is Most Published Research Wrong? - Wakelet](https://wakelet.com/wake/35a80e1c-0033-4db1-a5c1-28337f57d75b)
 [Is Most Published Research Wrong? - YouTube](https://www.youtube.com/watch?v=42QuXLucH3Q) p-hacking
+
+[Academia is BROKEN! - Harvard Fake Data Scandal Explained - YouTube](https://www.youtube.com/watch?v=d2Tm3Yx4HWI)
 
 ## Graphene
 

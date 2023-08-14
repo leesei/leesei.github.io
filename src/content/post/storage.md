@@ -2,8 +2,9 @@
 title: Storage
 description: ""
 created: 2015-05-11
+updated: 2023-07-27
 tags:
-  - comp.hardware
+  - comp/hardware
   - harddisk
   - ssd
   - storage
@@ -70,6 +71,8 @@ More precise writing techniques to increase density of magnetic track
 
 [HAMR don’t hurt ’em—laser-assisted hard drives are coming in 2020 – Ars Technica](https://arstechnica.com/gadgets/2020/02/hamr-dont-hurt-em-laser-assisted-hard-drives-are-coming-in-2020/amp/)
 [Come to MAMR! Western Digital unfurls HDD tech roadmap – Blocks and Files](https://blocksandfiles.com/2020/01/28/western-digital-gives-hdd-technology-roadmap-lesson/)
+[HAMR | Seagate US](https://www.seagate.com/innovation/hamr/)
+[Seagate Ships First 30TB+ HAMR Hard Drives | Tom's Hardware](https://www.tomshardware.com/news/seagate-ships-first-30-tb-hamr-hdd-drives)
 
 [ZonedStorage.io](https://www.zonedstorage.io/)
 [Making Host Managed SMR Work for You – Dropbox’s Successful Journey - Western Digital Corporate Blog](https://blog.westerndigital.com/host-managed-smr-dropbox/)
@@ -87,6 +90,8 @@ More precise writing techniques to increase density of magnetic track
 [SSD ABC Guide – OCZ Forum](http://oczforum.com/staff/meander/OCZ_SSD_ABC_Guide.pdf) PDF
 [Exploring Solid State Drives and 3D NAND - YouTube](https://www.youtube.com/playlist?list=PL6rx9p3tbsMuk0jnC-dBdwb32Z1g7mD0j)
 [Why SSDs Are Big And Cheap - YouTube](https://www.youtube.com/watch?v=ErV-2tlf9Ls) SLC to PLC
+
+[SSD 硬件方案/TBW (SATA/SAS/M.2/U.2/U.3/EDSFF)、主控、3D NAND 汇总（持续更新） - 电脑讨论(新) - Chiphell - 分享与交流用户体验](https://www.chiphell.com/thread-2444506-1-1.html)
 
 [What's the difference between flash and SSD storage? | PC Gamer](https://www.pcgamer.com/whats-the-difference-between-flash-and-ssd-storage/) flash is one kind of SSD
 

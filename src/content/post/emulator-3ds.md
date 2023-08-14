@@ -17,6 +17,7 @@ boot9strap, luma3ds
 ## Games
 
 Zelda: Spirit Tracks
+Poochy & Yoshi’s Woolly World
 Apollo Justice: Ace Attorney (逆転裁判 4) https://www.emulator-roms.com/?game=apollo-justice-ace-attorney-eur-usa-3ds-cia/
 Phoenix Wright: Ace Attorney - Dual Destinies (逆転裁判 5) https://www.emulator-roms.com/?game=phoenix-wright-ace-attorney-dual-destinies-eur-usa-3ds-cia-eshop-region-free-dlc/
 Phoenix Wright: Ace Attorney - Spirit of Justice (逆転裁判 6) https://www.emulator-roms.com/?game=phoenix-wright-ace-attorney-spirit-of-justice-eur-usa-3ds-cia-region-free-dlc/

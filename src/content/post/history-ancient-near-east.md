@@ -2,8 +2,10 @@
 title: Ancient Near East History
 description: ""
 created: 2020-01-23
+updated: 2023-07-25
 tags:
   - history
+  - history/near-east
 ---
 
 [Ancient Near East - Wikiwand](https://www.wikiwand.com/en/Ancient_Near_East)
@@ -68,6 +70,7 @@ Middle Assyrian Empire (1392 BC - 934 BC) Neo-Assyrian Empire (911 BC - 609 BC)
 [Cuneiform - Wikiwand](https://www.wikiwand.com/en/Cuneiform) writings with wedges on clay, appears around 4000B.C.
 [Cracking Ancient Codes: Cuneiform Writing - with Irving Finkel - YouTube](https://www.youtube.com/watch?v=PfYYraMgiBA)
 [Irving Finkel Teaches Us Cuneiform - YouTube](https://www.youtube.com/watch?v=zOwP0KUlnZg)
+[The Complete and Concise History of the Sumerians and Early Bronze Age Mesopotamia (7000-2000 BC) - YouTube](https://www.youtube.com/watch?v=szFjxmY7jQA)
 
 腦洞
 [史前古文明 3-蘇美爾 - YouTube](https://www.youtube.com/playlist?list=PLD3Ywi8n56O4GTbjyYH0ACN6wt0nCbDYs) 自說自話的總裁

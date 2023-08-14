@@ -2,6 +2,7 @@
 title: LEGO
 description: ""
 created: 2016-06-12
+updated: 2023-08-14
 tags:
   - lego
   - toys
@@ -142,8 +143,19 @@ It was conceiving since 2010 and release in 2014 on Wii U.
 This relationship with Nintendo leads to the LEGO Mario AR series.
 (LEGO Batman 2 in 2012 is the first LEGO game release with voice acting.)
 
+[LEGO Gaming - YouTube](https://www.youtube.com/@LEGOGaming)
 [List of Lego video games - Wikiwand](https://www.wikiwand.com/en/List_of_Lego_video_games)
+[Every Lego Game That Has An Open World, Ranked](https://www.thegamer.com/lego-open-world-ranked/)
+[LEGO Games: The Playlist - an IGN Playlist by Playlist Team - IGN](https://www.ign.com/playlist/igneditorial/lists/lego-games-the-complete-playlist)
+
+[Retro LEGO Games We Miss Playing - YouTube](https://www.youtube.com/playlist?list=PLayhyO1epulQUwFkswXLzAZpNmUebwfPx)
+[Nostalgia STUDy - Lego Rock Raiders - YouTube](https://www.youtube.com/watch?v=xa5m_Vm2wMM)
+
 [Steam Community :: Guide :: Additional Configuration Options](https://steamcommunity.com/sharedfiles/filedetails/?id=453669653) LEGO game's `pcconfig.txt`
+
+### LEGO Star Wars: The Skywalker Saga
+
+[Introduction | gamepressure.com](https://guides.gamepressure.com/lego-star-wars-the-skywalker-saga/guide.asp?ID=64849)
 
 [Lego Star Wars | 69 Secrets and Easter Eggs in The Skywalker Saga - YouTube](https://www.youtube.com/watch?v=qp8lwNCF84Q)
 
@@ -177,7 +189,7 @@ MOC = My Own Creation
 [首页-MOC 图纸小店-淘宝网](https://shop126623282.taobao.com/)
 [首頁-MOC 磚友之家-淘寶網](https://shop261726840.world.taobao.com/?spm=2013.1.0.0.57e34499yaUOsJ)
 
-[Kos Brick - YouTube](https://www.youtube.com/user/KosBrick?app=desktop)
+[Kos Brick - YouTube](https://www.youtube.com/@KosBrick)
 [Lego Transformer G1 Autobot Mini Vehicles - Part 1 (Tutorial) - YouTube](https://www.youtube.com/watch?v=zDQmDeT06fU)
 [Lego Transformer G1 Autobot Mini Vehicles - Part 2 (Tutorial) - YouTube](https://www.youtube.com/watch?v=0lDgCiYn3bI)
 

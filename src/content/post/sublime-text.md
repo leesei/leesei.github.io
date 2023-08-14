@@ -412,7 +412,7 @@ https://regex101.com/r/cX0eW3
 [nunjucks syntax]: https://packagecontrol.io/packages/Nunjucks%20Syntax
 [-omnimarkuppreviewer]: https://packagecontrol.io/packages/OmniMarkupPreviewer
 [open url]: https://packagecontrol.io/packages/Open%20URL
-[opengl shading language (glsl)]: https://packagecontrol.io/packages/OpenGL%20Shading%20Language%20(GLSL%29
+[opengl shading language (glsl)]: https://packagecontrol.io/packages/OpenGL%20Shading%20Language%20(GLSL)
 [origami]: https://packagecontrol.io/packages/Origami
 [packageresourceviewer]: https://packagecontrol.io/packages/PackageResourceViewer
 [python improved]: https://packagecontrol.io/packages/Python%20Improved

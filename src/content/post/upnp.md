@@ -3,7 +3,7 @@ title: UPnP
 description: ""
 created: 2016-03-26
 tags:
-  - comp
+  - comp/network
 ---
 
 [Adventures in UPnP with node.js](https://coolaj86.com/articles/adventures-in-upnp-with-node-js/)

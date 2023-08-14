@@ -692,7 +692,6 @@ Philips AN97055
 [Overview | Trinket Audio Player | Adafruit Learning System](https://learn.adafruit.com/trinket-audio-player?view=all)
 High frequency PWM for output of PCM stored in flash
 
-[(SKU:DFR0299)DFPlayer Mini 模块 - DFRobot Product Wiki](<http://wiki.dfrobot.com.cn/index.php/(SKU:DFR0299%29DFPlayer_Mini>模块)
 [The Best Way to Add Sound FX to Your Projects](https://www.electroschematics.com/13905/the-best-way-to-add-sound-fx-to-your-projects-from-eeweb/)
 
 [Electronic Basics #21: OpAmp (Operational Amplifier) - YouTube](https://www.youtube.com/watch?v=kqCV-HGJc6A)
@@ -706,7 +705,7 @@ PAM8406 2-5.5V, 5W, stereo
 ### DFPlayer Mini
 
 [DFPlayer Mini SKU:DFR0299 - DFRobot Electronic Product Wiki and Tutorial: Arduino and Robot Wiki-DFRobot.com](https://www.dfrobot.com/wiki/index.php/DFPlayer_Mini_SKU:DFR0299)
-[(SKU:DFR0299)DFPlayer Mini 模块 - DFRobot Product Wiki](<http://wiki.dfrobot.com.cn/index.php/(SKU:DFR0299%29DFPlayer_Mini>模块)
+[(SKU:DFR0299)DFPlayer Mini 模块 - DFRobot Product Wiki](<http://wiki.dfrobot.com.cn/index.php/(SKU:DFR0299)DFPlayer_Mini模块>)
 
 [Stonez56: Family, Life, Kids, Work, Arduino: Arduino - DFPlayer Mini MP3 Module](https://stonez56.blogspot.com/2015/03/arduino-dfplayer-mini-mp3-module.html) no common ground, RX not at 3.3V
 [ESP8266 MP3 Sound Machine - Self Hosted Home](https://selfhostedhome.com/esp8266-mp3-sound-machine/)

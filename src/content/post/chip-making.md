@@ -3,7 +3,7 @@ title: Chip Making
 description: ""
 created: 2023-06-13
 tags:
-  - comp.hardware
+  - comp/hardware
   - manufacturing
 ---
 

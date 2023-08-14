@@ -3,7 +3,7 @@ title: Gradle
 description: ""
 created: 2019-04-04
 tags:
-  - comp.lang
+  - comp/lang
   - gradle
 ---
 

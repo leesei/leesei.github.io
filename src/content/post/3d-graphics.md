@@ -12,9 +12,9 @@ tags:
 
 [Beginners Guide to Learning 3D Computer Graphics - YouTube](https://www.youtube.com/watch?v=VT5oZndzj68)
 [How To Make Triple A Graphics - YouTube](https://www.youtube.com/watch?v=z1wYRHNGQz0)
-[Danny Mac 3D - YouTube](https://www.youtube.com/c/DannyMac3d)
-[InspirationTuts - YouTube](https://www.youtube.com/c/InspirationTuts)
-[On Mars 3D - YouTube](https://www.youtube.com/channel/UCR5O7XNqQ9Fc_unQrgLnAIw)
+[Danny Mac 3D - YouTube](https://www.youtube.com/@DannyMac3d)
+[InspirationTuts - YouTube](https://www.youtube.com/@InspirationTuts)
+[On Mars 3D - YouTube](https://www.youtube.com/@OnMars3D)
 
 ## CAD
 
@@ -44,7 +44,7 @@ tags:
 [Blender 基礎教學 - YouTube](https://www.youtube.com/playlist?list=PL7enJ2-v6SPkncr7Cll_w2kSk0JfZLtK3)
 [Make BEAUTIFUL characters using a FREE APP (Blender) - YouTube](https://www.youtube.com/watch?v=o366hhdw9dc)
 
-[Grant Abbitt - YouTube](https://www.youtube.com/c/GrantAbbitt)
+[Grant Abbitt - YouTube](https://www.youtube.com/@grabbitt)
 [Blender 2.8 for beginners full course - YouTube](https://www.youtube.com/playlist?list=PLn3ukorJv4vs_eSJUQPxBRaDS8PrVmIri)
 also other low poly tutorials
 [Low Poly Animals | Quick and Easy | Blender 2.8 | Basic Tutorial - YouTube](https://www.youtube.com/watch?v=6mT4XFJYq-4)
@@ -52,7 +52,7 @@ also other low poly tutorials
 [Sculpting with Blender For Beginners (Tutorial) - YouTube](https://www.youtube.com/watch?v=VYuUlQO-kYE)
 [Blender 3.1 Beginner Tutorial | Low Poly Worlds - YouTube](https://www.youtube.com/watch?v=ELiqWceCk0Q)
 
-[CynicatPro - YouTube](https://www.youtube.com/user/CynicatPro)
+[CynicatPro - YouTube](https://www.youtube.com/@CynicatPro)
 
 [I Learn Blender From Scratch and Here's My 30 Day Progress - YouTube](https://www.youtube.com/watch?v=xBr7uW7uC1Y)
 
@@ -167,6 +167,8 @@ Gamers Nexus
 [vtk+DearImGui integration through vtkGenericOpenGLRenderWindow - Development - VTK](https://discourse.vtk.org/t/vtk-dearimgui-integration-through-vtkgenericopenglrenderwindow/4424)
 [trlsmax/imgui-vtk: test on how to integrate vtk into glfw + imgui project](https://github.com/trlsmax/imgui-vtk)
 [phcerdan/vtkImGuiAdapter: Adapter to add imgui to an existing vtkRenderWindow using SDL2.](https://github.com/phcerdan/vtkImGuiAdapter/)
+
+[nicanor-romero/QtVtk: An integration between Qt Quick Controls 2 and VTK for 3D rendering](https://github.com/nicanor-romero/QtVtk)
 
 ### Data Files
 

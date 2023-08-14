@@ -2,6 +2,7 @@
 title: Shell notes
 description: ""
 created: 2014-12-08
+updated: 2023-08-14
 tags:
   - linux
   - shell
@@ -10,13 +11,15 @@ tags:
 Notes on shell usage.
 Most of the following are compatible to `bash` and `zsh`.
 
-[We all <3 Terminals. - Terminals Are Sexy](https://terminalsare.sexy/)[Philip James, Asheesh Laroia - Type python, press enter. What happens? - PyCon 2015 - YouTube](https://www.youtube.com/watch?v=XVhSjZYwZJo) how shell invocation works
+[We all <3 Terminals. - Terminals Are Sexy](https://terminalsare.sexy/)
+[Philip James, Asheesh Laroia - Type python, press enter. What happens? - PyCon 2015 - YouTube](https://www.youtube.com/watch?v=XVhSjZYwZJo) how shell invocation works
 [Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.](https://commandlinepoweruser.com/) !important, by Wes Bos
 [Coding like a Hacker in the terminal – Caleb Taylor – Medium](https://medium.com/@caleb89taylor/coding-like-a-hacker-in-the-terminal-79e22954968e)
 [You’re Missing Out on a Better Mac Terminal Experience](https://medium.com/@caulfieldOwen/youre-missing-out-on-a-better-mac-terminal-experience-d73647abf6d7)
 [The birth of the Bash shell | Opensource.com](https://opensource.com/19/9/command-line-heroes-bash)
 [Conquering the Command Line | Softcover.io](http://conqueringthecommandline.com/book/frontmatter)
 [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
+[OverTheWire: Wargames](https://overthewire.org/wargames/) learn shell commands through games
 
 [Bash Automation & Scripting Basics (Part 1) – CloudSavvy IT](https://www.cloudsavvyit.com/9676/bash-automation-scripting-basics-part-1/)
 [Bash Automation and Scripting Basics (Part 2) – CloudSavvy IT](https://www.cloudsavvyit.com/9760/bash-automation-and-scripting-basics-part-2/)
@@ -377,6 +380,8 @@ zsh have color macros predefined, see themes in `oh-my-zsh`
 
 [scripts/ansi2html.sh at master · pixelb/scripts](https://github.com/pixelb/scripts/blob/master/scripts/ansi2html.sh)
 [ralphbean/ansi2html: Convert text with ansi color codes to HTML](https://github.com/ralphbean/ansi2html)
+
+[eliukblau/pixterm: Draw images in your ANSI terminal with true color](https://github.com/eliukblau/pixterm)
 
 ### power tools
 

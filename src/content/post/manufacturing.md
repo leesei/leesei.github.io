@@ -2,6 +2,7 @@
 title: Manufacturing
 description: ""
 created: 2023-06-10
+updated: 2023-08-14
 tags:
   - manufacturing
   - science
@@ -12,6 +13,7 @@ tags:
 [Metrology and Manufacturing - YouTube](https://www.youtube.com/playlist?list=PLC7a8fNahjQ9u4V4iaK_6KhRaGngI0x3q)
 
 [制造原理 - YouTube](https://www.youtube.com/channel/UCGQJrrdJYehPFec-ptvZzBA)
+[了不起的中国制造了 - YouTube](https://www.youtube.com/playlist?list=PL7aNHwx_SJ55D99mzyXr8Ksqpbz84OW5L) 网易文创
 
 [【隱形工廠｜戶外教學】 - YouTube](https://www.youtube.com/playlist?list=PLBTwOvE8YhQFcfuoNhXOaJsUsVNnyf_3z)
 [超認真少年 Imserious 隱形工廠 - YouTube](https://www.youtube.com/channel/UCckzc03-ycrpB1XIUfRhpnw/search?query=%E9%9A%B1%E5%BD%A2%E5%B7%A5%E5%BB%A0)
@@ -32,5 +34,9 @@ tags:
 LinusTechTips
 [Checking on my Investment in Person - Framework Laptop Factory Tour - YouTube](https://www.youtube.com/watch?v=7nXVJBGowmY)
 [I made my own RAM! - Micron Factory Tour - YouTube](https://www.youtube.com/watch?v=-EhDlXx3okU)
+
+Smarter Every Day
+[The Mind-Blowing Machines that Stamp Millions of Metal Parts - Smarter Every Day 288 - YouTube](https://www.youtube.com/watch?v=GDzBE6vz5r0) progressive metal stamping, vs transfer die
+Electrical Discharge Machining (EDM)
 
 [Why Hong Kong uses bamboo scaffolding, and meet the spider-men who climb it: a visual explainer](https://multimedia.scmp.com/infographics/culture/article/3183200/bamboo-scaffolding/index.html)

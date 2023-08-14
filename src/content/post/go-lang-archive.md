@@ -2,9 +2,10 @@
 title: The Go Programming Language (Archives)
 description: Archived Go Programming Language notes
 created: 2023-03-30
+updated: 2023-08-01
 tags:
   - archived
-  - comp.lang
+  - comp/lang
   - go-lang
   - package-manager
 ---
@@ -68,3 +69,6 @@ default in Go 1.7
 [gorilla/mux: A powerful URL router and dispatcher for golang.](https://github.com/gorilla/mux) no longer maintained, only routing
 [Build Server With Go Under 10 minutes - DEV Community 👩‍💻👨‍💻](https://dev.to/aniket762/build-server-with-go-under-10-minutes-1i9m) with mux
 [Build a CRUD Rest API in Go using Mux, Postgres, Docker and Docker Compose - DEV Community](https://dev.to/francescoxx/build-a-crud-rest-api-in-go-using-mux-postgres-docker-and-docker-compose-2a75)
+
+[This Go package was archived. What do we do now? - YouTube](https://www.youtube.com/watch?v=j584uJhWWhE)
+[Gorilla Toolkit for Golang is revived! But is it too late? - YouTube](https://www.youtube.com/watch?v=v6gnINA1d6k)

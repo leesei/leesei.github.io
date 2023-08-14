@@ -25,6 +25,8 @@ tags:
 
 [The Largely Untold Story Of How One Guy In California Keeps The World’s Computers Running On The Right Time Zone. (Well, Sort Of) | by Daniel Rosehill | OneZero](https://onezero.medium.com/the-largely-untold-story-of-how-one-guy-in-california-keeps-the-worlds-computers-on-the-right-time-a97a5493bf73)
 
+[Why Do Clocks Run Clockwise? | Neil deGrasse Tyson Explains... - YouTube](https://www.youtube.com/watch?v=P5rBJ746F1g) because civilization on Northern horizon invented sundial and clocks
+
 [What is the standard way to add N seconds to datetime.time in Python? - Stack Overflow](https://stackoverflow.com/a/57498235)
 
 ```python

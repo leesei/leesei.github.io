@@ -2,6 +2,7 @@
 title: Cross Platform Apps (Desktop)
 description: ""
 created: 2022-05-03
+updated: 2023-08-04
 tags:
   - app
 ---
@@ -177,6 +178,7 @@ Rust core + TypeScript UI
 [Drawing with Cairo in GTK# II](https://zetcode.com/gui/gtksharp/drawingII/#Puff) text
 [Mono.Cairo Tutorial | Mono](https://www.mono-project.com/docs/tools+libraries/libraries/Mono.Cairo/tutorial/#show-text--glyphs) text
 
+[[Gtk-sharp-list] Drawing pixbufs to screen FAST..](https://gtk-sharp-list.ximian.narkive.com/oA7YCLVt/drawing-pixbufs-to-screen-fast)
 [[Gtk-sharp-list] How can I save a cairo imagesurface as a pixbuf](https://gtk-sharp-list.ximian.narkive.com/JDk8vv7q/how-can-i-save-a-cairo-imagesurface-as-a-pixbuf)
 [gtk-sharp/CairoSample.cs at main · mono/gtk-sharp](https://github.com/mono/gtk-sharp/blob/main/sample/CairoSample.cs)
 [GtkSharp/DrawingAreaSection.cs at develop · GtkSharp/GtkSharp](https://github.com/GtkSharp/GtkSharp/blob/develop/Source/Samples/Sections/Widgets/DrawingAreaSection.cs)
@@ -242,6 +244,12 @@ Bindings in Go, C# and other languages
 
 C only frame buffer and toolkit
 Use your own rendering library
+
+## Intermediate Graphics Library (IGL)
+
+[facebook/igl: Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan).](https://github.com/facebook/igl)
+
+[Meta announced 'IGL', a high-performance cross-platform graphics library | GamingOnLinux](https://www.gamingonlinux.com/2023/07/meta-announced-igl-a-high-performance-cross-platform-graphics-library/)
 
 ## PortableGL
 

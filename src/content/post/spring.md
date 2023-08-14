@@ -3,7 +3,7 @@ title: Java Spring
 description: ""
 created: 2019-04-20
 tags:
-  - comp.lang
+  - comp/lang
   - java
   - spring
 ---

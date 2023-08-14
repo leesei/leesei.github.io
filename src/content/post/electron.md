@@ -4,7 +4,7 @@ description: ""
 created: 2015-07-19
 tags:
   - atom-shell
-  - comp.lang
+  - comp/lang
   - electron
 ---
 

@@ -3,7 +3,7 @@ title: Steam Deck
 description: ""
 created: 2022-01-12
 tags:
-  - comp.hardware
+  - comp/hardware
   - mobile
   - steam-deck
 ---
@@ -94,6 +94,7 @@ Gaming On Linux
 
 [Deckbrew | Deckbrew](https://deckbrew.xyz/)
 [SteamDeckHomebrew/decky-loader: A plugin loader for the Steam Deck](https://github.com/SteamDeckHomebrew/decky-loader)
+[Enhance Your Steam Deck With Plugins From Decky Loader - Steam Deck HQ](https://steamdeckhq.com/tips-and-guides/enhance-your-steam-deck-with-plugins-from-decky-loader/)
 [Steam Deck plugins get EASIER than ever - YouTube](https://www.youtube.com/watch?v=ujP6ZB0-eIA)
 [Must Have plugins for your Steam Deck - How to Install Decky Loader - YouTube](https://www.youtube.com/watch?v=IONuww8pXqM)
 [Decky Loader, get easy Steam Deck Plugins and make colours POP! - YouTube](https://www.youtube.com/watch?v=YQhvNiI3hKI&list=PLRikbCj_P-2Ghffnr_MPIGI3BcU2WfypW&index=12)

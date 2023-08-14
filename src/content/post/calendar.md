@@ -2,6 +2,7 @@
 title: Calendar
 description: ""
 created: 2016-09-09
+updated: 2023-08-04
 tags:
   - calendar
   - science
@@ -38,6 +39,10 @@ tags:
 [百度百科*V 百科*我们为啥过愚人节？](https://baike.baidu.com/vbaike/我们为啥过愚人节？/21099)
 
 Conservatives refuses to drop the practice of celebrating 1st April as beginning of the year, the French government mocked this practice and make fool of the conservatives. This eventually becomes April Fools' Day.
+
+### Christmas
+
+[【加更】鰲拜=all buy，為什麼說他才是聖誕節的終極密碼？原來，這一切故事，我們還要從大洪水的時代說起……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=i7pN26c0Xt8)
 
 ## Leap Second
 

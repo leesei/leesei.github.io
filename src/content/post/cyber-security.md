@@ -2,6 +2,7 @@
 title: Cyber Security
 description: ""
 created: 2022-12-31
+updated: 2023-08-14
 tags:
   - security
 ---
@@ -17,10 +18,14 @@ Cyber attack lifecycle/kill chain
 - persistence (backdoor)
 - profit
 
-living off the land (using tools at victim machine)
+[LOLBAS](https://lolbas-project.github.io/) Living Off The Land Binaries, Scripts and Libraries
+living off the land: using tools at victim machine
 
 [How do hackers get caught? - the hunt for the hacker. - YouTube](https://www.youtube.com/watch?v%3Dw0h1Fshu74g)
 [I wouldn’t give this cable to my worst enemy - O.MG Cable - YouTube](https://www.youtube.com/watch?v=mPF9f-PLDPc)
+
+[What's The Difference Between Cybersecurity Vs Information Security?](https://www.bizmanualz.com/better-disaster-security-planning/whats-difference-between-cyber-security-vs-information-security.html)
+Cyber security targets online threats while information security takes a holistic approach.
 
 [carpedm20/awesome-hacking: A curated list of awesome Hacking tutorials, tools and resources](https://github.com/carpedm20/awesome-hacking)
 [onlurking/awesome-infosec: A curated list of awesome infosec courses and training resources.](https://github.com/onlurking/awesome-infosec)
@@ -48,6 +53,7 @@ living off the land (using tools at victim machine)
 ## DevSecOps
 
 [What Is DevSecOps?](https://saucelabs.com/resources/blog/bringing-security-into-every-stage-of-development-with-devsecops)
+[4 Key Differences Between DevOps and DevSecOps | Boot.dev](https://blog.boot.dev/devops/devops-vs-devsecops/)
 
 - Code scan
 - Low risk scan
@@ -92,33 +98,12 @@ Google CTF
 [qwqdanchun](https://github.com/qwqdanchun) RED team, releasing attack tools
 [恶意软件学习笔记 - Malware Note](https://docs.qwqdanchun.com/)
 
-## Supply Chain/Software BOM (bill of material)
+## Supply Chain Attack
+
+[[copyright-open-source#Software BOM (bill of material)]]
 
 [Open Source & Software Supply Chain Risks Blog | Synopsys](https://www.synopsys.com/blogs/software-security/category/open-source-and-software-supply-chain-risks/)
 [Snyk Vulnerability Database | Snyk](https://security.snyk.io/)
-
-[Why The US Government Is Mandating Software Bill Of Materials (SBOM)](https://www.activestate.com/blog/why-the-us-government-is-mandating-software-bill-of-materials-sbom/) US Government requires SBOM for contracted solution in 2023
-
-[EU attempts to secure software could hurt open source • The Register](https://www.theregister.com/2023/05/12/eu_cyber_resilience_act/) EU's Cyber Resilience Act (CRA) requires requires vendor to ensure their solution (potentially with open source components) is secure
-
-[What is a software bill of materials (SBOM)? | Synopsys](https://www.synopsys.com/blogs/software-security/software-bill-of-materials-bom/)
-[Software Bill of Materials (SBOM) | CISA](https://www.cisa.gov/sbom)
-
-### SBOM Tools
-
-[Software Package Data Exchange - Wikiwand](https://www.wikiwand.com/en/Software_Package_Data_Exchange)
-[International Open Standard (ISO/IEC 5962:2021) - Software Package Data Exchange (SPDX)](https://spdx.dev/)
-[SPDX](https://github.com/spdx) GitHub Org, spec and language specific tools
-[What Is SPDX and How Does It Work? | Synopsys](https://www.synopsys.com/glossary/what-is-spdx.html)
-
-[OWASP CycloneDX Software Bill of Materials (SBOM) Standard](https://cyclonedx.org/)
-[CycloneDX Specification Overview](https://cyclonedx.org/specification/overview/)
-
-[Dependency submission - GitHub Docs](https://docs.github.com/en/rest/dependency-graph/dependency-submission?apiVersion=2022-11-28)
-
-[Software Identification (SWID) Tagging | CSRC](https://csrc.nist.gov/projects/Software-Identification-SWID)
-
-[The First Kubernetes Bill of Materials Standard Arrives - The New Stack](https://thenewstack.io/the-first-kubernetes-bill-of-materials-standard-arrives/)
 
 [npm audit: Broken by Design — Overreacted](https://overreacted.io/npm-audit-broken-by-design/) audit tools should not cause noise
 
@@ -213,6 +198,17 @@ Google CTF
 
 [John the Ripper documentation](https://www.openwall.com/john/doc/)
 [How to Crack Passwords using John The Ripper – Pentesting Tutorial](https://www.freecodecamp.org/news/crack-passwords-using-john-the-ripper-pentesting-tutorial/)
+
+### Dictionary attack
+
+dump hashes
+[impacket/examples/secretsdump.py at master · fortra/impacket · GitHub](https://github.com/fortra/impacket/blob/master/examples/secretsdump.py)
+
+cupp: generate passwords dictionary
+[how to HACK a password // Windows Edition - YouTube](https://www.youtube.com/watch?v=L26Xq7m0uQ0)
+
+Hashcat: dictionary attack
+[how to HACK a password // password cracking with Kali Linux and HashCat - YouTube](https://www.youtube.com/watch?v=z4_oqTZJqCo)
 
 ### Vulnerability scanner
 
@@ -385,7 +381,7 @@ Use time difference in array comparison to brute force the digest byte by byte.
 ## BREACH
 
 [BREACH ATTACK](http://breachattack.com/)
-[BREACH (security exploit) - Wikiwand](http://www.wikiwand.com/en/BREACH_(security_exploit%29)
+[BREACH (security exploit) - Wikiwand](<http://www.wikiwand.com/en/BREACH_(security_exploit)>)
 
 ## Stuxnet
 

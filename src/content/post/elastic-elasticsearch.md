@@ -3,7 +3,7 @@ title: Elasticsearch
 description: ""
 created: 2015-08-03
 tags:
-  - database
+  - comp/database
   - elastic-stack
   - web
 ---

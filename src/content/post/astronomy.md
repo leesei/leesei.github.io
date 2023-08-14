@@ -2,6 +2,7 @@
 title: Astronomy
 description: ""
 created: 2019-07-16
+updated: 2023-08-14
 tags:
   - astronomy
   - cosmology
@@ -43,6 +44,9 @@ tags:
 
 ## Cosmology
 
+[[philosophy#Living in a computer simulation]]
+[[philosophy#Boltzman Brain]]
+
 [10 Weird Things You (Probably) Didn't Know About the Milky Way](https://www.nationalgeographic.com/news/2018/01/milky-way-galaxy-facts-black-hole-stars-space-science/)
 [Solved: The mystery of the expansion of the universe](https://phys.org/news/2020-03-mystery-expansion-universe.amp)
 [The Expanding Universe Might Not Depend On How You Measure It, But When](https://www.forbes.com/sites/startswithabang/2020/02/07/the-expanding-universe-might-not-depend-on-how-you-measure-it-but-when/amp/)
@@ -57,6 +61,30 @@ Linvo 說宇宙
 [（更新中）【俗說宇宙】宇宙系列 - YouTube](https://www.youtube.com/playlist?list=PLd-GBkH4nB9nUKfeLFiERoEE5Q6Hw29wP)
 [（已完结）【俗說宇宙】銀河系系列 - YouTube](https://www.youtube.com/playlist?list=PLd-GBkH4nB9lrqR2Wht_SJjcou-b5LDSS)
 [（已完结）【俗說宇宙】河外星系系列 - YouTube](https://www.youtube.com/playlist?list=PLd-GBkH4nB9lnjQX-rcls2Ipo8aTVl3sH)
+
+### 人類文明
+
+[人擇原理 - Wikiwand](https://www.wikiwand.com/zh-hant/%E4%BA%BA%E6%8B%A9%E5%8E%9F%E7%90%86)
+[Anthropic principle - Wikiwand](https://www.wikiwand.com/en/Anthropic_principle)
+[人擇宇宙學原理 - MBA 智库百科](https://wiki.mbalib.com/zh-tw/%E4%BA%BA%E6%8B%A9%E5%AE%87%E5%AE%99%E5%AD%A6%E5%8E%9F%E7%90%86)
+
+[The Anthropic Principle - How Your Existence Could Lead to a Multiverse - YouTube](https://www.youtube.com/watch?v=eF2v9oSy70I)
+
+[Kardashev scale - Wikiwand](https://www.wikiwand.com/en/Kardashev_scale)
+[0 ～ 7 級宇宙文明，剛剛發現一個可能比我們先進 10 萬年的二級文明 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=B4joIhlThpc)
+
+[宇宙等級 7 級論：人類文明發展至今，竟還處於 0 級？| 宇宙文明等級科普（上）「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=BTfWpcSIkQU)
+[宇宙文明第 7 級到底有多可怕？5 級文明已經是神一般的存在了| 宇宙文明等級科普（下）「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=MTCrzBVNJjc)
+
+[來自宇宙深處的非自然信號與黑暗森林法則 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=XASKCBtiqEM)
+[宇宙到底有多危險？「黒暗森林」假說 - YouTube](https://www.youtube.com/watch?v=QfLj8NghgDQ)
+[宇宙 7 級文明有多可怕？無視黑暗森林法則、重啟宇宙只是基礎，最可怕的還在後面！| 腦補大轟炸 - YouTube](https://www.youtube.com/watch?v=t8fuUiUH7Gw)
+[【細思極恐】 “費米悖論” “黑暗森林法則” 竟然都有一個無法解釋的漏洞！ - YouTube](https://www.youtube.com/watch?v=sxJViAg8DwE)
+[Why Aliens Might Already Be On Their Way To Us - YouTube](https://www.youtube.com/watch?v=GDSf2h9_39I)
+
+### Multiverse
+
+[Your _Personal_ Guide To The MULTIVERSE🚀✨ - YouTube](https://www.youtube.com/watch?v=7-JMi_2pt2Q)
 
 ## Mapping the Universe
 
@@ -258,6 +286,7 @@ Candidates:
 [Sterile neutrino - Wikiwand](https://www.wikiwand.com/en/Sterile_neutrino)
 
 [A heavyweight candidate for dark matter](https://phys.org/news/2019-08-heavyweight-candidate-dark.amp)
+[Dark Matter: The Situation has Changed - YouTube](https://www.youtube.com/watch?v=4_qJptwikRc) Dark Matter vs Modified Gravity
 [暗物质一定存在吗？暗物质的证据以及候选粒子 - YouTube](https://www.youtube.com/watch?v=TTD4kAwHP7o)
 [The building blocks of the universe • Unexplainable - Podcast Addict](https://podcastaddict.com/episode/133039400)
 

@@ -2,6 +2,7 @@
 title: Space Science
 description: ""
 created: 2018-01-10
+updated: 2023-08-14
 tags:
   - science
 ---
@@ -27,13 +28,14 @@ Crash Course
 [Astronomy - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL)
 
 [The Universe, Explained: Season 1 - YouTube](https://www.youtube.com/playlist?list=PLoaVOjvkzQtx7B9LGLMDPtcT3msNVgceJ) minutephysics
+[Rocket Science - YouTube](https://www.youtube.com/playlist?list=PLYu7z3I8tdEnsqbIM2XBduT79fDjisSqe) Scott Manley
+[Space - YouTube](https://www.youtube.com/playlist?list=PLgVMn8k8t5JNeGds2KjPLXh37Y2oHuKHW) Jared Owen
 
-[Discovery With Andy - YouTube](https://www.youtube.com/channel/UC6lYCOXS4Rxo9xpKS1My32A)
-[Everyday Astronaut - YouTube](https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q)
-[Marcus House - YouTube](https://www.youtube.com/channel/UCBNHHEoiSF8pcLgqLKVugOw)
-[Rocket Science - YouTube](https://www.youtube.com/playlist?list=PLYu7z3I8tdEnsqbIM2XBduT79fDjisSqe)
-[Space - YouTube](https://www.youtube.com/playlist?list=PLgVMn8k8t5JNeGds2KjPLXh37Y2oHuKHW)
-[Xedous - YouTube](https://www.youtube.com/channel/UClvL9ZAl8V-Ixv-nLydHeFA)
+[Discovery With Andy - YouTube](https://www.youtube.com/@discoverywithandy3049)
+[Everyday Astronaut - YouTube](https://www.youtube.com/@EverydayAstronaut)
+[Isaac Arthur - YouTube](https://www.youtube.com/@isaacarthurSFIA)
+[Marcus House - YouTube](https://www.youtube.com/@MarcusHouse)
+[SciShow Space - YouTube](https://www.youtube.com/@scishowspace)
 
 [Why SPACESHIPS CAN'T TURN as shown in Science Fiction - YouTube](https://www.youtube.com/watch?v=L-Of6r1DlY8)
 
@@ -123,24 +125,6 @@ Which violates conservation of momentum
 
 [How Stars May Have Just Solved The Fermi Paradox - YouTube](https://www.youtube.com/watch?v=UJI3HYmRe8A)
 
-## 人類文明
-
-[人擇原理 - Wikiwand](https://www.wikiwand.com/zh-hant/%E4%BA%BA%E6%8B%A9%E5%8E%9F%E7%90%86)
-[Anthropic principle - Wikiwand](https://www.wikiwand.com/en/Anthropic_principle)
-[人擇宇宙學原理 - MBA 智库百科](https://wiki.mbalib.com/zh-tw/%E4%BA%BA%E6%8B%A9%E5%AE%87%E5%AE%99%E5%AD%A6%E5%8E%9F%E7%90%86)
-
-[Kardashev scale - Wikiwand](https://www.wikiwand.com/en/Kardashev_scale)
-[0 ～ 7 級宇宙文明，剛剛發現一個可能比我們先進 10 萬年的二級文明 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=B4joIhlThpc)
-
-[宇宙等級 7 級論：人類文明發展至今，竟還處於 0 級？| 宇宙文明等級科普（上）「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=BTfWpcSIkQU)
-[宇宙文明第 7 級到底有多可怕？5 級文明已經是神一般的存在了| 宇宙文明等級科普（下）「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=MTCrzBVNJjc)
-
-[來自宇宙深處的非自然信號與黑暗森林法則 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=XASKCBtiqEM)
-[宇宙到底有多危險？「黒暗森林」假說 - YouTube](https://www.youtube.com/watch?v=QfLj8NghgDQ)
-[宇宙 7 級文明有多可怕？無視黑暗森林法則、重啟宇宙只是基礎，最可怕的還在後面！| 腦補大轟炸 - YouTube](https://www.youtube.com/watch?v=t8fuUiUH7Gw)
-[【細思極恐】 “費米悖論” “黑暗森林法則” 竟然都有一個無法解釋的漏洞！ - YouTube](https://www.youtube.com/watch?v=sxJViAg8DwE)
-[Why Aliens Might Already Be On Their Way To Us - YouTube](https://www.youtube.com/watch?v=GDSf2h9_39I)
-
 ## Asteroids/Comets/Meteoroids/Meteors
 
 Asteroids had circular orbits, sized between 1m to 500km, were made of **rock and metal** and lived in the asteroid belt between Mars and Jupiter.
@@ -155,7 +139,7 @@ Kuiper Belt, Oort cloud, Mostly icy
 [Asteroid or Meteor: What's the Difference? | NASA Space Place – NASA Science for Kids](https://spaceplace.nasa.gov/asteroid-or-meteor/en/)
 [The difference between asteroids and meteorites](https://phys.org/news/2015-06-difference-asteroids-meteorites.html)
 [Overview | Meteors & Meteorites – NASA Solar System Exploration](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/meteors-and-meteorites/overview/)
-[Astronomy and Nature TV - YouTube](https://www.youtube.com/channel/UCIwQ5bWXAf57sE5HN6ldW3Q)
+[Astronomy and Nature TV - YouTube](https://www.youtube.com/@RocketPlanet)
 [Space - YouTube](https://www.youtube.com/playlist?list=PLgVMn8k8t5JNeGds2KjPLXh37Y2oHuKHW) 3D Animations
 [流星雨是如何产生的？英仙座流星雨又来啦！ - YouTube](https://www.youtube.com/watch?v=qQ3ubHntk5c)
 [關於彗星的秘密：生也彗星，亡也彗星「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=yZsUb2d4M6I) Project Rosetta
@@ -163,10 +147,12 @@ Kuiper Belt, Oort cloud, Mostly icy
 
 [Daniel and Jorge Explain the Universe: How to land a robot on an asteroid on Apple Podcasts](https://podcasts.apple.com/au/podcast/how-to-land-a-robot-on-an-asteroid/id1436616330?i=1000497279911)
 
-## Space Station
+## Space Stations
 
 [中国来了！世界看见了中国速度，神舟十三号出发在即！世界空间站的震撼发展史 - YouTube](https://www.youtube.com/watch?v=h3smAt6WSOQ)
+
 [International Space Station Construction Videos - YouTube](https://www.youtube.com/playlist?list=PLYu7z3I8tdEnjgkBIBgxaJfZl2LdQN-rP)
+[The Logistics of the International Space Station - YouTube](https://www.youtube.com/watch?v=EkRRo5DN9lI)
 
 [Salyut programme - Wikiwand](https://www.wikiwand.com/en/Salyut_programme) 1971-1986
 

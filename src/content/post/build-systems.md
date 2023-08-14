@@ -5,7 +5,7 @@ created: 2015-06-11
 tags:
   - bazel
   - buck
-  - comp.lang
+  - comp/lang
   - gn
   - gyn
   - lake

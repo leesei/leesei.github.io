@@ -3,7 +3,7 @@ title: Awesome Lists
 description: ""
 created: 2015-07-19
 tags:
-  - comp.lang
+  - comp/lang
 ---
 
 Awesome list is a project start

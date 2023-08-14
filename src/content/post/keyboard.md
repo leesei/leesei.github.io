@@ -4,7 +4,7 @@ description: ""
 created: 2015-06-15
 updated: 2023-03-22
 tags:
-  - comp.hardware
+  - comp/hardware
   - logitech
   - microsoft
   - perixx

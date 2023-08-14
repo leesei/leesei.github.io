@@ -2,6 +2,7 @@
 title: Data Analytics (Python)
 description: ""
 created: 2016-09-21
+updated: 2023-07-30
 tags:
   - big-data
   - pandas
@@ -55,6 +56,7 @@ Axis 2: height
 [Welcome to numpy-ml — numpy-ml documentation](https://numpy-ml.readthedocs.io/en/latest/)
 [ddbourgin/numpy-ml: Machine learning, in numpy](https://github.com/ddbourgin/numpy-ml)
 
+[Free Deep Learning Tutorial - Deep Learning Prerequisites: The Numpy Stack in Python V2 | Udemy](https://www.udemy.com/course/numpy-python/)
 [How to create NumPy arrays from scratch? - Towards Data Science](https://towardsdatascience.com/how-to-create-numpy-arrays-from-scratch-3e0341f9ffea)
 [A Visual Intro to NumPy and Data Representation – Jay Alammar – Visualizing machine learning one concept at a time](https://jalammar.github.io/visual-numpy/)
 [Numpy Guide for People In a Hurry – Towards Data Science](https://towardsdatascience.com/numpy-guide-for-people-in-a-hurry-22232699259f)

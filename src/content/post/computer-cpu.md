@@ -2,8 +2,9 @@
 title: CPUs
 description: The history of CPU, companies, ISA and chip fabrication
 created: 2019-05-03
+updated: 2023-08-14
 tags:
-  - comp.hardware
+  - comp/hardware
   - laptop
   - ultrabook
 ---
@@ -187,7 +188,7 @@ Intel i5-1135G7 4C8T, Intel Iris Xe Graphics 80EU
 Intel i7-1195G7 4C8T, Intel Iris Xe Graphics 96EU
 Zen4
 Ryzen 7 Phoenix 7840U 8C16T, RDNA3 12CU @2700MHz, 15-30W
-Z1 Extreme is a 7840U without AI engine and tuned for lower power consumption
+Z1 Extreme is a 7840U without AI engine and tuned for lower power consumption (9W ~30W)
 
 680M ~= RX6400
 Vega is based on GCN architecture debuted in 2020.
@@ -249,6 +250,9 @@ UCLK: Unified Memory Controller clock
 [The Intel Lakefield Deep Dive: Everything To Know About the First x86 Hybrid CPU - Print View](https://www.anandtech.com/print/15877/intel-hybrid-cpu-lakefield-all-you-need-to-know/2)
 
 ### AMD Ryzen
+
+[How AMD Zen Almost Didn't Make It | Stories of Ryzen, ft. Unreleased CPUs - YouTube](https://www.youtube.com/watch?v=RTA3Ls-WAcw)
+[AMD's Zen architecture: The fundamentals of these Zen 4 CPUs](https://www.xda-developers.com/amd-zen-architecture/)
 
 [AMD Chipset Comparison: B550 Specs vs. X570, B450, X370, & Zen 3 Support (2020) | GamersNexus - Gaming PC Builds & Hardware Benchmarks](https://www.gamersnexus.net/guides/3582-amd-chipset-differences-b550-vs-x570-b450-x470-zen-3)
 [How AMD Sabotages Itself & Both Sides of the Story (B450 / B550 Chipsets & Zen 3 BIOS) - YouTube](https://www.youtube.com/watch?v=JluNkjdpxFo)
@@ -422,6 +426,7 @@ powerstat -a -R 1 60
 ```
 
 [The Stress Terminal UI: s-tui | s-tui](https://amanusk.github.io/s-tui/)
+[Stress Terminal UI (s-tui) - Stress-Testing System Monitor - YouTube](https://www.youtube.com/watch?v=TYPUTtqANIg)
 
 ```sh
 stress -c 18 -i 13 -m 3

@@ -2,6 +2,7 @@
 title: Learning
 description: ""
 created: 2018-07-10
+updated: 2023-08-10
 tags:
   - learning
 featured: true
@@ -21,7 +22,7 @@ Do learn from first-principal
 [Phind - The AI search engine for developers.](https://www.phind.com/) it seems to have less hallucinations
 [Learn Anything](https://learn-anything.xyz/)
 [How To Get Motivated According To Behavioral Psychology](https://hackernoon.com/how-to-get-motivated-43d3d70a95d4)
-[VideoLectures.NET - VideoLectures.NET](http://videolectures.net/)
+[Efficient Learning for Developers Tips and Strategies - Tav Herzlich - NDC Oslo 2023 - YouTube](https://www.youtube.com/watch?v=msNjvbKlWRE) half life for developer's knowledge: 2-3 years
 [Learning Is a Learned Behavior. Here’s How to Get Better at It.](https://getpocket.com/explore/item/learning-is-a-learned-behavior-here-s-how-to-get-better-at-it)
 [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/) guided and unguided learning
 [The Growth Mindset | Carol Dweck | Talks at Google - YouTube](https://www.youtube.com/watch?v=-71zdXCMU6A)
@@ -98,6 +99,17 @@ Podcast and mailing lists is a good way to discover Unknown Unknown
 - ask "Why?"
 - organize the timeline of things happened
 
+### Dreyfus model
+
+[Dreyfus model of skill acquisition - Wikiwand](https://www.wikiwand.com/en/Dreyfus_model_of_skill_acquisition)
+[The Dreyfus Model of Skill Acquisition - The Five Steps to Expert Learning](https://www.mindtools.com/atdbxer/the-dreyfus-model-of-skill-acquisition)
+
+1. Novice.
+1. Advanced Beginner.
+1. Competent.
+1. Proficient.
+1. Expert.
+
 ### The Feynman Technique
 
 [为什么费曼技巧被称为终极学习法 (Why feynman technique works) - YouTube](https://www.youtube.com/watch?v=7iNJyEbYDdc)
@@ -131,6 +143,9 @@ When researching on topics (especially technical ones), do keep note of the date
 ## Medium
 
 Many authors now post on Medium, but Medium is not user friendly at all. Also many posts are behind paywall.
+
+[Medium 為何不再是寫作者優先選擇的平台？因為 SEO 劣化得比你想像還嚴重 - INSIDE](https://www.inside.com.tw/article/31619-Medium-seo-weakness)
+[在 Medium 上寫技術文章，你確定嗎？. 這篇想表達的東西就跟標題一樣，是一篇 Medium 勸退文。 | by Huli | Medium](https://hulitw.medium.com/do-you-really-want-to-write-tech-blog-on-medium-3dd25640f26c)
 
 I use these extensions:
 
@@ -252,8 +267,6 @@ For video contents use [Video Speed Controller - Chrome Web Store](https://chrom
 
 [Squirt](http://www.squirt.io/)
 
-[Reedy. Intelligent reader - Android Apps on Google Play](https://play.google.com/store/apps/details?id=azagroup.reedy&hl=en)
-[Reedy - Chrome Web Store](https://chrome.google.com/webstore/detail/reedy/ihbdojmggkmjbhfflnchljfkgdhokffj?hl=en)
 [olegcherr/Reedy-for-Chrome: Read all you want faster with Reedy for Google Chrome!](https://github.com/olegcherr/Reedy-for-Chrome)
 
 [Miserlou/Glance: Good reads, extremely fucking fast.](https://github.com/Miserlou/Glance) [Android](https://play.google.com/store/apps/details?id=pro.dbro.glance) OSS Sprintz

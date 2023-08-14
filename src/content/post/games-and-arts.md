@@ -2,6 +2,7 @@
 title: Games and Arts
 description: ""
 created: 2015-08-01
+updated: 2023-08-09
 tags:
   - games
 ---
@@ -54,7 +55,7 @@ And [Stanley Parable](http://store.steampowered.com/app/221910/), which a narrat
 
 [Miniboss • Pixel art tutorials](https://blog.studiominiboss.com/pixelart)
 
-[MarcoValeKaz - YouTube](https://www.youtube.com/channel/UCj3ohlV8FOWmahIHf_V95fA/videos)
+[MarcoValeKaz - YouTube](https://www.youtube.com/@MarcoValeKaz)
 [Pixel Overload - YouTube](https://www.youtube.com/channel/UCAfpcnw3DvpcggcHKos_mvQ)
 [Pixel Pete (Peter Milko) - YouTube](https://www.youtube.com/channel/UC7OO80qJzGTLOj_6-0dmOiA)
 [10 most common pixelart mistakes by beginners - YouTube](https://www.youtube.com/watch?v=R44hZgtqMI8)
@@ -62,6 +63,19 @@ And [Stanley Parable](http://store.steampowered.com/app/221910/), which a narrat
 [So you wanna make pixel art - General guide for ART 464 - YouTube](https://www.youtube.com/watch?v=wdz2IIuTBbs) Paint.NET
 
 [6 Pixel Art Drawing Techniques - YouTube](https://www.youtube.com/watch?v=ebF1pIxLpnU)
+[5 Beginner Pixel Art Mistakes To AVOID - YouTube](https://www.youtube.com/watch?v=DsI2mCzhcXU)
+
+- drawing with lines
+  draw shapes, not lines
+- improper shading
+  define a light source, shades should match object shape
+- messy outlines
+  fix jagginess, remove internal outlines, proper anti-aliasing
+- too many colors
+- failing to hue shift
+  make shadows more blue and highlights more yellow
+
+[3 PixelArt Techniques/Common Mistakes (Doubles, Jaggies & Outline) (Tutorial for Beginners) - YouTube](https://www.youtube.com/watch?v=gW1G_FLsuEs)
 [Pixel Art Tips from a Professional Artist - Tips & Tricks - YouTube](https://www.youtube.com/watch?v=cdoWiJANr_U)
 [How To Pixel Art - Beginner To PRO Tutorial - YouTube](https://www.youtube.com/watch?v=0I_OZ4qQJfY)
 [Beginner Pixel Art Tutorial – A Complete Guide - YouTube](https://www.youtube.com/watch?v=o_EKrg2fIuc) ❗!important
@@ -69,7 +83,7 @@ And [Stanley Parable](http://store.steampowered.com/app/221910/), which a narrat
 - each pixel should touch at most 2 other pixels
 
 [Pixel Art Tutorials - YouTube](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b) MortMort
-[3 PixelArt Techniques/Common Mistakes (Doubles, Jaggies & Outline) (Tutorial for Beginners) - YouTube](https://www.youtube.com/watch?v=gW1G_FLsuEs)
+[🎨Pixel Art Tutorials - YouTube](https://www.youtube.com/playlist?list=PLr2C_1_x89o3beJ1KTuSgMKPwsDizLvA_) Mochibeans
 
 ### Pixelate image
 

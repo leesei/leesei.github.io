@@ -2,6 +2,7 @@
 title: HTTP
 description: ""
 created: 2022-08-23
+updated: 2023-07-27
 tags:
   - http
   - web
@@ -94,6 +95,9 @@ Server Push is deprecated, use 103 Early Hints instead.
 [The QUIC transport protocol: design and Internet-scale deployment | the morning paper](https://blog.acolyer.org/2017/10/26/the-quic-transport-protocol-design-and-internet-scale-deployment/)
 [Unlocking QUIC’s proxying potential with MASQUE](https://blog.cloudflare.com/unlocking-quic-proxying-potential/)
 
+[Akamai Blog | The Next Generation of HTTP](https://www.akamai.com/blog/news/the-next-generation-of-http)
+[Akamai Blog | HTTP/3 and QUIC: Past, Present, and Future](https://www.akamai.com/blog/performance/http3-and-quic-past-present-and-future)
+
 [HTTP/3 From A To Z: Core Concepts — Smashing Magazine](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/)
 [HTTP/3: Performance Improvements (Part 2) — Smashing Magazine](https://www.smashingmagazine.com/2021/08/http3-performance-improvements-part2/)
 [HTTP/3: Practical Deployment Options (Part 3) — Smashing Magazine](https://www.smashingmagazine.com/2021/09/http3-practical-deployment-options-part3/)
@@ -101,8 +105,10 @@ Server Push is deprecated, use 103 Early Hints instead.
 [The Changelog #299: Curl turns 20, HTTP/2, and QUIC with Daniel Stenberg | News and podcasts for developers | Changelog](https://changelog.com/podcast/299)
 
 [The Internet just changed. - YouTube](https://www.youtube.com/watch?v=cdb7M37o9sU)
+[QUIC is FINALLY a Standard - YouTube](https://www.youtube.com/watch?v=vfShdjlyRGg)
 [Is this the future of the Internet? UDP Deep Dive. - YouTube](https://www.youtube.com/watch?v=kVSCFBuh9xs)
 [HTTP/3 - HTTP over QUIC is the next generation by Daniel Stenberg - YouTube](https://www.youtube.com/watch?v=idViw4anA6E)
+[The QUIC Protocol, HTTP3, and How HTTP Has Evolved - YouTube](https://www.youtube.com/watch?v=VONSx_ftkz8)
 
 ## Rate Limiting
 

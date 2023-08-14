@@ -2,6 +2,7 @@
 title: 裝修
 description: ""
 created: 2020-03-07
+updated: 2023-08-09
 tags:
   - household
   - maker
@@ -268,9 +269,17 @@ Cisal 水龍頭, 陶瓷掣芯
 [一日宅水電到你家 VLOG!!! 原來「長腳」&「臉盆」的安裝順序是這樣 !!? 不漏水安裝技巧大公開!!!｜ Basins/Water Sinks ｜ DIY 實作｜【宅水電】 - YouTube](https://www.youtube.com/watch?v=m2RSAqvyJqU)
 
 [防漏工程 - Rico Design ｜帝高室內設計工程有限公司](https://ricodesign.hk/%e9%98%b2%e6%bc%8f%e5%b7%a5%e7%a8%8b/) 瑞士 SIKA 107 防水漿
+[牆內水管漏水怎麼救? 不破壞牆壁結構的工法 漏水點在哪竟然不重要｜ DIY 實測｜【宅水電】 - YouTube](https://www.youtube.com/watch?v=-RtPJGh2M_A)
 
 [矽利康怎麼打才漂亮? 大凹縫和小凹縫分別怎麼處理｜ How to Apply Silicone or Caulk ｜ DIY 教學｜【宅水電】 - YouTube](https://www.youtube.com/watch?v=oMSeZcFwAKU)
 [浴室矽利康發霉 外角和內角該怎麼處裡 刮掉重打完整記錄｜ How To Remove And Apply Silicone ｜ DIY 實作｜【宅水電】 - YouTube](https://www.youtube.com/watch?v=upzllzGoXWY)
+
+### 通渠
+
+疏通劑
+
+- 蛋白質(頭髮): 過碳酸鈉
+- 脂肪: 氫氧化鈉 (液態保養用)
 
 ### 水喉接駁
 

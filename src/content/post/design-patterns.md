@@ -2,8 +2,9 @@
 title: Design Patterns
 description: ""
 created: 2019-05-24
+updated: 2023-08-11
 tags:
-  - comp.lang
+  - comp/lang
 ---
 
 Contains [Programming paradigm - Wikiwand](https://www.wikiwand.com/en/Programming_paradigm) and [Software design pattern - Wikiwand](https://www.wikiwand.com/en/Software_design_pattern)
@@ -12,6 +13,7 @@ Contains [Programming paradigm - Wikiwand](https://www.wikiwand.com/en/Programmi
 
 [Software Architecture - The Difference Between Architecture and Design](https://codeburst.io/software-architecture-the-difference-between-architecture-and-design-7936abdd5830)
 [Software Design and Architecture | Coursera](https://www.coursera.org/specializations/software-design-architecture)
+[Minimum Viable Architecture • Randy Shoup • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=9Q7GANXn02k)
 
 [4 Programming Paradigms In 40 Minutes - YouTube](https://www.youtube.com/watch?v=cgVVZMfLjEI)
 [What Makes Functional and Object-oriented Programming Equal](http://codinghelmet.com/articles/what-makes-functional-and-object-oriented-programming-equal)
@@ -21,6 +23,7 @@ Contains [Programming paradigm - Wikiwand](https://www.wikiwand.com/en/Programmi
 
 [Home | Patterns 42](https://patterns.arc42.org/home/)
 [Table of Contents · Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html)
+[Patterns - Sam Newman](https://samnewman.io/patterns/)
 
 [Design a Basic Search Engine (Google or Bing) | System Design Interview Prep - YouTube](https://www.youtube.com/watch?v=0LTXCcVRQi0)
 [20 System Design Concepts Explained in 10 Minutes - YouTube](https://www.youtube.com/watch?v=i53Gi_K3o7I)
@@ -41,7 +44,11 @@ Contains [Programming paradigm - Wikiwand](https://www.wikiwand.com/en/Programmi
 [Design Patterns – ITNEXT](https://itnext.io/tagged/design-patterns) by Ruslan Malogulko
 [JavaScript Design Patterns - doFactory.com](https://www.dofactory.com/javascript/design-patterns)
 [Design patterns in modern JavaScript development – Levelup Your Coding](https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca)
+
 [Design Patterns for Beginners - New Version - YouTube](https://www.youtube.com/watch?v=f5Rzr5mVNbY)
+
+[8 Design Patterns EVERY Developer Should Know - YouTube](https://www.youtube.com/watch?v=tAuRQs_d9F8)
+[8 Design Patterns | Prime Reacts - YouTube](https://www.youtube.com/watch?v=ZfG8BSTX0Lw)
 
 [The End Of Object Inheritance & The Beginning Of A New Modularity - YouTube](https://www.youtube.com/watch?v=3MNVP9-hglc)
 [Goodbye, Object Oriented Programming – Charles Scalfani – Medium](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
@@ -54,9 +61,13 @@ Contains [Programming paradigm - Wikiwand](https://www.wikiwand.com/en/Programmi
 
 [Top 10 Object-Oriented Design Principles for writing Clean Code - DEV Community 👩‍💻👨‍💻](https://dev.to/javinpaul/top-10-object-oriented-design-principles-for-writing-clean-code-4pe1)
 
+### On the Contrary
+
+[Is OOP EVIL??? Reacting to my favorite dev Youtube video - YouTube](https://www.youtube.com/watch?v=YpJufWdZFB8) 54:48
 [Object-Oriented Programming is Bad - YouTube](https://www.youtube.com/watch?v=QM1iUe6IofM) Brian Will, ❗!important
-[Is OOP EVIL??? Reacting to my favorite dev Youtube video - YouTube](https://www.youtube.com/watch?v=YpJufWdZFB8)
+[Talks - Bruce Eckel: Rethinking Objects - YouTube](https://www.youtube.com/watch?v=2Ul6WlKPcgY)
 [Object-Oriented Programming is Embarrassing: 4 Short Examples - YouTube](https://www.youtube.com/watch?v=IRTfhkiAqPw)
+
 [Why Are So Many Developers Hating on Object-Oriented Programming? - The New Stack](https://thenewstack.io/why-are-so-many-developers-hating-on-object-oriented-programming/)
 [Object-Oriented Programming is The Biggest Mistake of Computer Science | by Ilya Suzdalnitski | Jan, 2021 | Medium](https://suzdalnitski.medium.com/oop-will-make-you-suffer-846d072b4dce)
 
@@ -133,6 +144,7 @@ John Vlissides: <http://en.wikipedia.org/wiki/John_Vlissides>
 [A Solid Guide to SOLID Principles | Baeldung](https://www.baeldung.com/solid-principles)
 [The SOLID Principles - Tuts+ Code Tutorials](http://code.tutsplus.com/series/the-solid-principles--cms-634)
 [SOLID Principles every Developer Should Know – Bits and Pieces](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
+[SOLID Principles for Programming and Software Design](https://www.freecodecamp.org/news/solid-principles-for-programming-and-software-design/)
 [SOLID Principles: The Software Developer's Framework to Robust & Maintainable Code [with Examples] | Khalil Stemmler](https://khalilstemmler.com/articles/solid-principles/solid-typescript/)
 [The SOLID Principles | A C Roynon](https://acroynon.com/the-solid-principles/)
 [Applying SOLID To React. SOLID principles were developed to help… | by Eduardo Moniz | Docler Engineering | Apr, 2021 | Medium](https://medium.com/docler-engineering/applying-solid-to-react-ca6d1ff926a4)
@@ -276,6 +288,8 @@ CodeOpinion
 [Is CQRS Complicated? No, it's simple! - YouTube](https://www.youtube.com/watch?v=LbVpPQaAgVY)
 [Fat Controller CQRS Diet - YouTube](https://www.youtube.com/playlist?list=PLThyvG1mlMzl6IlrOQXugTHt4mlPfhooE)
 
+[CQRS pitfalls and patterns - Udi Dahan - NDC Oslo 2023 - YouTube](https://www.youtube.com/watch?v=Lw04HRF8ies)
+
 [CQRS, Task Based UIs, Event Sourcing agh! | Greg Young](http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/)
 [CQRS and Event Sourcing Intro For Developers - DZone Microservices](https://dzone.com/articles/cqrs-and-event-sourcing-intro-for-developers)
 
@@ -283,6 +297,9 @@ CodeOpinion
 
 [Implementing Your Own Event Loop From Scratch - DEV Community](https://dev.to/pratikgchaudhari/implementing-your-own-event-loop-from-scratch-44l9)
 [pratikgchaudhari/event-loop-demo: A project to learn how Event Loop works.](https://github.com/pratikgchaudhari/event-loop-demo)
+
+[The Many Meanings of Event-Driven Architecture • Martin Fowler • GOTO 2017 - YouTube](https://www.youtube.com/watch?v=STKCRSUsyP0)
+[Event-Driven Architecture: I do not think it means what you think it means - YouTube](https://www.youtube.com/watch?v=iAA7PTqs4xY)
 
 [5 Must-Know Distributed Systems Design Patterns for Event-Driven Architectures | by Arslan Ahmad | May, 2023 | Level Up Coding](https://levelup.gitconnected.com/stay-ahead-of-the-curve-5-must-know-distributed-systems-design-patterns-for-event-driven-7515121a28ae)
 
@@ -295,6 +312,8 @@ CodeOpinion
 ## Event Sourcing
 
 [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
+[Event Sourcing • Martin Fowler • YOW! 2016 - YouTube](https://www.youtube.com/watch?v=ck7t592bvBg)
+
 [Event Store](https://eventstore.org/) The stream database written from the ground up for event sourcing.
 
 Events log is the single source of truth.

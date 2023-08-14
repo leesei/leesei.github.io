@@ -2,6 +2,7 @@
 title: Restful API
 description: ""
 created: 2016-05-16
+updated: 2023-07-27
 tags:
   - rest
   - web
@@ -30,6 +31,7 @@ tags:
 [13 free tools for API design, development, and testing | InfoWorld](https://www.infoworld.com/article/3410586/13-free-tools-for-api-design-development-and-testing.html)
 [API Is Dead – Long Live the APIs - DZone Integration](https://dzone.com/articles/api-is-dead-long-live-the-apis)
 [How to design better APIs](https://r.bluethl.net/how-to-design-better-apis)
+[The REST API Handbook – How to Build, Test, Consume, and Document REST APIs](https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api/)
 
 [Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
 [zally | A minimalistic, simple-to-use API linter](https://opensource.zalando.com/zally/)

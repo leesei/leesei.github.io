@@ -336,6 +336,9 @@ Harmonic mean of precision and recall
 [[1811.03685] New CleverHans Feature: Better Adversarial Robustness Evaluations with Attack Bundling](https://arxiv.org/abs/1811.03685)
 [[1707.08945] Robust Physical-World Attacks on Deep Learning Models](https://arxiv.org/abs/1707.08945)
 
+[[2307.15043] Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)
+[Adversarial Attacks on LLMs - YouTube](https://www.youtube.com/watch?v=pR2et-guixM)
+
 [Breaking Machine Learning With Adversarial Examples](https://towardsdatascience.com/breaking-machine-learning-with-adversarial-examples-a3ddc5c75ea4)
 [How to trick a neural network into thinking a panda is a vulture](https://codewords.recurse.com/issues/five/why-do-neural-networks-think-a-panda-is-a-vulture)
 [Breaking Linear Classifiers on ImageNet](http://karpathy.github.io/2015/03/30/breaking-convnets/)

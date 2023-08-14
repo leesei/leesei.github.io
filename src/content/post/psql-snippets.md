@@ -3,7 +3,9 @@ title: PostgreSQL Snippets
 description: ""
 created: 2021-05-24
 tags:
-  - comp.lang
+  - comp/lang
+  - snippets/psql
+  - postgresql
   - sql
 ---
 

@@ -2,7 +2,7 @@
 title: How Games Work
 description: How games mechanics works, game design and how to make games, apart from rendering
 created: 2015-08-31
-updated: 2023-03-23
+updated: 2023-08-07
 tags:
   - game-design
   - games
@@ -16,6 +16,7 @@ tags:
 [Gaming Topics - YouTube - YouTube](https://www.youtube.com/playlist?list=PLJAzFcYKyx4RA6_z6pq3bJlJuENg5kWKV)
 [GamesWithGabe - YouTube](https://www.youtube.com/@GamesWithGabe)
 [Nick Maltbie - YouTube](https://www.youtube.com/@NickMaltbie)
+[Alan Zucconi - YouTube](https://www.youtube.com/@AlanZucconi) Game Development, Artificial Intelligence, Shader Coding & Retrocomputing
 
 [GDC - YouTube](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
 [GDC Vault](https://www.gdcvault.com/)
@@ -44,6 +45,7 @@ tags:
 [GameFromScratch.com – Game Development News, Tutorials and More](https://gamefromscratch.com/)
 [Gamefromscratch - YouTube](https://www.youtube.com/@gamefromscratch)
 [Game Dev Guide - YouTube](https://www.youtube.com/@GameDevGuide) mostly on Unity
+[DigiDigger - YouTube](https://www.youtube.com/@DigiDigger)
 
 [BorisTheBrave.Com](https://www.boristhebrave.com/)
 [Learn .NET Game Development | Free tutorials, courses, videos, and more](https://dotnet.microsoft.com/learn/games)
@@ -129,7 +131,7 @@ tags:
 
 ## Procedural Generation
 
-[[learn-to-code#Perlin noise]]
+[[algorithm#Perlin noise]]
 
 [how are massive game environments made? - YouTube](https://www.youtube.com/watch?v=cAr7aj_MPMc)
 
@@ -137,6 +139,9 @@ tags:
 wave function collapse for specifics, Perlin noise for the category
 
 [Procedural Terrain Generation - YouTube](https://www.youtube.com/playlist?list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3)
+
+[THIS is how Minecraft Works 💎⛏️ - YouTube](https://www.youtube.com/watch?v=YyVAaJqYAfE)
+[Reinventing Minecraft world generation by Henrik Kniberg - YouTube](https://www.youtube.com/watch?v=ob3VwY4JyzE)
 
 ## Consoles
 
@@ -168,6 +173,18 @@ wave function collapse for specifics, Perlin noise for the category
 [Bullet Real-Time Physics Simulation | Home of Bullet and PyBullet: physics simulation for games, visual effects, robotics and reinforcement learning.](https://pybullet.org/wordpress/)
 [PyBullet Quickstart Guide - Google Docs](https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#heading=h.2ye70wns7io3)
 [bulletphysics/bullet3: Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.](https://github.com/bulletphysics/bullet3) the core C++ engine
+
+## Non-Euclidean
+
+[How do non-euclidean games work? | Bitwise - YouTube](https://www.youtube.com/watch?v=lFEIUcXCEvI)
+[How do Non Euclidean Games Work? | Prime Reacts - YouTube](https://www.youtube.com/watch?v=Ty4WgDWIPVQ)
+
+[My brain wasn't ready for Non-Euclidean gaming... - YouTube](https://www.youtube.com/watch?v=d-OxkJTAxO8)
+[Non-Euclidean Geometry Explained - Hyperbolica Devlog #1 - YouTube](https://www.youtube.com/watch?v=zQo_S3yNa2w)
+["No! Euclid!" GPU Ray Tracer gets an upgrade! - YouTube](https://www.youtube.com/watch?v=tl40xidKF-4)
+
+[Portals to Non-Euclidean Geometries - YouTube](https://www.youtube.com/watch?v=yqUv2JO2BCs)
+[Non-Euclidean Worlds Engine - YouTube](https://www.youtube.com/watch?v=kEB11PQ9Eo8)
 
 ## Input
 

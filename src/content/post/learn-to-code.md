@@ -2,8 +2,9 @@
 title: Learn to code
 description: ""
 created: 2014-12-08
+updated: 2023-08-12
 tags:
-  - comp.lang
+  - comp/lang
   - learning
   - programmer
 ---
@@ -197,6 +198,7 @@ You have to know (much) more than the code you're writing:
 
 [Python Tutor - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution](http://www.pythontutor.com/)
 
+[XAMPPRocky/tokei: Count your code, quickly.](https://github.com/XAMPPRocky/tokei)
 [AlDanial/cloc: cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.](https://github.com/AlDanial/cloc)
 
 ### Code Complexity
@@ -297,10 +299,8 @@ Calling convention, what register of the CPU are used
 [Derek Banas - YouTube](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
 [ArjanCodes - YouTube](https://www.youtube.com/channel/UCVhQ2NnY5Rskt6UjCUkJ_DA) mostly Python
 
-[Hussein Nasser - YouTube](https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg) backend technologies, many on databases
-[The Backend Engineering Show - YouTube](https://www.youtube.com/playlist?list=PLQnljOFTspQU0ICDe-cL1EwXC4GDSayKY)
-
 [Code to the Moon - YouTube](https://www.youtube.com/@codetothemoon) mostly Rust
+[SimonDev - YouTube](https://www.youtube.com/@simondev758) web 3D, web performance
 [fasterthanlime - YouTube](https://www.youtube.com/@fasterthanlime)
 [ThePrimeagen - YouTube](https://www.youtube.com/ThePrimeagen)
 [ThePrimeTime - YouTube](https://www.youtube.com/@ThePrimeTimeagen)
@@ -473,8 +473,6 @@ Used in many Go application for formatting output, e.g. `docker`, `kubectl`
 [Runestone Interactive](https://runestone.academy/runestone/default/user/login?_next=/runestone/default/index)
 [Catalog of Online Courses | Harvard University](https://online-learning.harvard.edu/catalog?keywords=&subject%5B2%5D=100&&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=)
 
-[Computer Science - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) CrashCourse
-
 [Github repos for learners](https://dev.to/oathkeeper/github-repos-for-learners-634)
 [ossu/computer-science: Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 [humanwhocodes/computer-science-in-javascript: Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript.](https://github.com/humanwhocodes/computer-science-in-javascript)
@@ -500,16 +498,24 @@ Used in many Go application for formatting output, e.g. `docker`, `kubectl`
 [Big O myths busted! (Time complexity is complicated) - YouTube](https://www.youtube.com/watch?v=7VHG6Y2QmtM) time vs memory trade-off; (SIMD)linear search beating binary search
 
 [P vs. NP and the Computational Complexity Zoo - YouTube](https://www.youtube.com/watch?v=YX40hbAHx3s)
+[P vs. NP - The Biggest Unsolved Problem in Computer Science - YouTube](https://www.youtube.com/watch?v=EHp4FPyajKQ)
 [What Computers Can't Do - with Kevin Buzzard - YouTube](https://www.youtube.com/watch?v=jQPb7DRMoZY) P vs. NP
 [Computer Scientists Prove Certain Problems Are Truly Hard | Quanta Magazine](https://www.quantamagazine.org/computer-scientists-prove-certain-problems-are-truly-hard-20220511/)
 [The Secret Link Between Thousands of Unsolved Math Problems - YouTube](https://www.youtube.com/watch?v=ctwX--JEzSA)
 
+### Halting problem
+
 [Halting problem - Wikiwand](https://www.wikiwand.com/en/Halting_problem)
 [Theory of computation | Halting Problem - GeeksforGeeks](https://www.geeksforgeeks.org/theory-of-computation-halting-problem/)
+
+[The History of Undecidability - YouTube](https://www.youtube.com/playlist?list=PLzH6n4zXuckpIQPv8hiHpJkSyv0fmXEYr)
 [The Most Difficult Program to Compute? - Computerphile - YouTube](https://www.youtube.com/watch?v=i7sm9dzFtEI)
 [Ackermann Follow Up - Computerphile - YouTube](https://www.youtube.com/watch?v=uNACwX-O5lk)
 [Turing & The Halting Problem - Computerphile - YouTube](https://www.youtube.com/watch?v=macM_MtS_w4)
 Cause a contradiction if self-referencing
+
+[How This One Question Breaks Computers - YouTube](https://www.youtube.com/watch?v=sG0obNcgNJM)
+[The Halting Problem - An Impossible Problem to Solve - YouTube](https://www.youtube.com/watch?v=t37GQgUPa6k)
 
 ## Architecture Design
 
@@ -533,6 +539,8 @@ Cause a contradiction if self-referencing
 2. meet those needs
 3. within economic and technologincal constraints
 
+[What’s the Best Backend for React? 5 Options to Choose From | Boot.dev](https://blog.boot.dev/backend/backend-for-react/) note on decoupled architecture
+
 [Beautiful Structure](http://www.infoq.com/presentations/structural-patterns-complexity)
 [Systems Engineering - YouTube](https://www.youtube.com/playlist?list=PLn8PRpmsu08owzDpgnQr7vo2O-FUQm_fL)
 [CodeOpinion - YouTube](https://www.youtube.com/@CodeOpinion)
@@ -550,6 +558,7 @@ Cause a contradiction if self-referencing
 [Clean architectures in Python: a step-by-step example - The Digital Cat](http://blog.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/)
 [Software Architecture: The 5 Patterns You Need to Know - DZone Microservices](https://dzone.com/articles/software-architecture-the-5-patterns-you-need-to-k)
 [Clear Code – How to Write Code That Is Easy to Read](https://www.freecodecamp.org/news/clear-code-how-to-write-code-that-is-easy-to-read/)
+[Enterprise Programming Tricks For Clean Code - YouTube](https://www.youtube.com/watch?v=dC9vdQkU-xI) 56:08
 
 [Making Architecture Matter - Martin Fowler Keynote - YouTube](https://www.youtube.com/watch?v=DngAZyWMGR0)
 [The Software Architecture Chronicles – @herbertograca](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
@@ -606,6 +615,8 @@ Aria is a framework to run apps in similar design but abstracts away the server 
 [Literate Game of Life](http://www.macwright.org/literate-game-of-life/)
 
 [Implementing Life - Rust and WebAssembly](https://rustwasm.github.io/docs/book/game-of-life/implementing.html) Pattern matching on cell _and_ neighbour's states
+
+[Let’s BUILD a COMPUTER in CONWAY's GAME of LIFE ⠠⠵ - YouTube](https://www.youtube.com/watch?v=Kk2MH9O4pXY)
 
 ## Project Management
 
@@ -701,7 +712,7 @@ Following is are lists of learning resources for the programming languages I'm i
 [[php-lang]]
 [[python-notes]]
 [[regex]]
-[[rust]]
+[[rust-lang]]
 [[web-dev]]
 [[v-lang]]
 [[zig-lang]]
@@ -788,6 +799,10 @@ Protocol to abstract editor from specific language.
 
 [Emojicode](https://www.emojicode.org/)
 
+[JSFuck - Write any JavaScript with 6 Characters: []()!+](https://jsfuck.com/)
+[aemkei/jsfuck: Write any JavaScript with 6 Characters: []()!+](https://github.com/aemkei/jsfuck)
+[JavaScript Is Weird (EXTREME EDITION) - YouTube](https://www.youtube.com/watch?v=sRWE5tnaxlI)
+
 ## Assembly
 
 [[reverse-engineering#Binary Analysis/Malware Analysis/Reverse Engineering]]
@@ -810,6 +825,8 @@ Dave's Garage
 [x86-64bit-ccc-chapter.pdf](https://aaronbloomfield.github.io/pdr/book/x86-64bit-ccc-chapter.pdf)
 
 [Linux x86 Program Start Up](http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html)
+
+[Assembly Programming Tutorials - YouTube](https://www.youtube.com/playlist?list=PL0tgH22U2S3HjYU5heBIfWOkKpTOkwkrm)
 
 [you can become a BIG BRAIN assembly programmer in only 10 minutes. (yes, YOU!) - YouTube](https://www.youtube.com/watch?v=6S5KRJv-7RU)
 [you can learn assembly QUICKLY using the rosetta stone technique (arm64 breakdown) - YouTube](https://www.youtube.com/watch?v=vhyettT7sdA)
@@ -1427,11 +1444,14 @@ proc init*(flags: uint32): cint {.importc: "SDL_Init", dynlib: libName.}
 ## OCaml
 
 [OCaml - Wikiwand](https://www.wikiwand.com/en/OCaml)
-[OCaml – OCaml](https://ocaml.org/)
-[OCaml Tutorials – OCaml](https://ocaml.org/learn/tutorials/)
-[OCaml - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/OCaml)
-[Jane Street Tech Blog - Why OCaml?](https://blog.janestreet.com/why-ocaml/)
+[Welcome to a World of OCaml](https://ocaml.org/)
+[Learn OCaml](https://ocaml.org/docs)
 
+[OCaml - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/OCaml)
+[How to Think Like a (Functional) Programmer](http://greenteapress.com/thinkocaml/index.html)
+[OCaml Programming: Correct + Efficient + Beautiful — OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)
+
+[Jane Street Tech Blog - Why OCaml?](https://blog.janestreet.com/why-ocaml/)
 [Open Source | Tarides](https://tarides.com/open-source/) owner of OCaml
 
 [Hello MirageOS World | MirageOS](https://mirage.io/docs/hello-world)
@@ -1523,3 +1543,10 @@ The language used by data analysts.
 
 [x140yu-Developing_iOS_8_Apps_With_Swift · GitHub](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift)
 [Start Developing iOS Apps (Swift): Jump Right In](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
+
+## Val
+
+[Val | The Val Programming Language](https://www.val-lang.dev/)
+
+[Meet Val: A New Language Alternative to C++, Rust - The New Stack](https://thenewstack.io/meet-val-a-new-language-alternative-to-c-rust/)
+[Val - The Rust Killer | Prime Reacts - YouTube](https://www.youtube.com/watch?v=xLouek82-5g)

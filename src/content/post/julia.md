@@ -3,7 +3,7 @@ title: Julia
 description: ""
 created: 2015-11-19
 tags:
-  - comp.lang
+  - comp/lang
   - julia
 ---
 

@@ -3,7 +3,7 @@ title: Chrome OS
 description: ""
 created: 2019-05-03
 tags:
-  - comp.hardware
+  - comp/hardware
   - laptop
   - ultrabook
 ---

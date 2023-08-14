@@ -2,6 +2,7 @@
 title: GraphQL
 description: ""
 created: 2015-12-04
+updated: 2023-07-27
 tags:
   - falcor
   - graphql
@@ -17,6 +18,7 @@ tags:
 [GraphQL is the New API Gateway - Level Up Coding](https://levelup.gitconnected.com/graphql-is-the-new-api-gateway-383edeed4bcd)
 [Understand GraphQL in 5 minutes - Je suis un dev](https://www.jesuisundev.com/en/understand-graphql-in-5-minutes/)
 [What is GraphQL: A Comprehensive Guide | Cosmic](https://www.cosmicjs.com/blog/what-is-graphql)
+[The GraphQL API Handbook – How to Build, Test, Consume and Document GraphQL APIs](https://www.freecodecamp.org/news/building-consuming-and-documenting-a-graphql-api/)
 
 [The Shape of Things to Come: GraphQL and the Web of APIs - The New Stack](https://thenewstack.io/the-shape-of-things-to-come-graphql-and-the-web-of-apis/)
 [What GraphQL Can Learn from Databases - The New Stack](https://thenewstack.io/what-graphql-can-learn-from-databases/)
@@ -193,9 +195,6 @@ Playground
 
 [notrab/fakerql: Hosted faker GraphQL endpoint for frontend developers](https://github.com/notrab/fakerql)
 
-[Building GraphQL servers with Prisma | Prisma Docs](https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql)
-[prisma/prisma-examples: 🚀 Ready-to-run Prisma example projects](https://github.com/prisma/prisma-examples) many GraphQL examples
-
 [GraphQL Server Basics: GraphQL Schemas, TypeDefs & Resolvers | Prisma](https://www.prisma.io/blog/graphql-server-basics-the-schema-ac5e2950214e)
 [GraphQL Server Basics: The Network Layer | Prisma](https://www.prisma.io/blog/graphql-server-basics-the-network-layer-51d97d21861)
 [GraphQL Server Basics: Demystifying the `info` Argument in Resolvers](https://www.prisma.io/blog/graphql-server-basics-demystifying-the-info-argument-in-graphql-resolvers-6f26249f613a)
@@ -282,7 +281,6 @@ const server = new ApolloServer({
 [GraphQL Server Tutorial with Apollo Server and Express - RWieruch](https://www.robinwieruch.de/graphql-apollo-server-tutorial/) ❗!important, with auth
 [Creating a GraphQL server with NodeJS – Crowdbotics – Medium](https://medium.com/crowdbotics/creating-a-graphql-server-with-nodejs-ef9814a7e0e6)
 [Automated TypeScript typing with GraphQL & Apollo - ITNEXT](https://itnext.io/automated-typescript-typing-with-graphql-apollo-4ee2a92c2fda)
-[End-to-end type safety with Next.js, Prisma, and GraphQL - LogRocket Blog](https://blog.logrocket.com/end-to-end-type-safety-nextjs-prisma-graphql/)
 
 [Introducing Json GraphQL Server](https://marmelab.com/blog/2017/07/12/json-graphql-server.html)
 
@@ -433,7 +431,6 @@ Graphene Python is built upon GraphQL-core, which is a Python port of GraphQL.js
 [PizzaQL](https://pizzaql.tech/) by a 16 yrs-old
 [pizzaql/pizzaql: Modern OSS Order Management System for Pizza Restaurants](https://github.com/pizzaql/pizzaql)
 
-[End-to-end type safety with Next.js, Prisma, and GraphQL - LogRocket Blog](https://blog.logrocket.com/end-to-end-type-safety-nextjs-prisma-graphql/)
 [React, Reactive Microservices, Kubernetes, GraphQL & gRPC - Announcing Appwish - Fullstack Tutorial Series &amp; Opensource Project - DEV Community 👩‍💻👨‍💻](https://dev.to/pjeziorowski/react-reactive-microservices-kubernetes-graphql-grpc-announcing-appwish-fullstack-tutorial-series-opensource-project-10c0)
 
 [edwardcdev/apollobank: A full stack GraphQL banking application using React, Node & TypeScript.](https://github.com/edwardcdev/apollobank)
@@ -462,8 +459,9 @@ Graphene Python is built upon GraphQL-core, which is a Python port of GraphQL.js
 [Urigo/graphql-cli: 📟 Command line tool for common GraphQL development workflows](https://github.com/Urigo/graphql-cli)
 
 [nearform/graphql-hooks: 🎣 Minimal hooks-first GraphQL client](https://github.com/nearform/graphql-hooks)
-[prisma-labs/graphql-request: Minimal GraphQL client supporting Node and browsers for scripts or simple apps](https://github.com/prisma-labs/graphql-request)
 [hasura/graphqurl: curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.](https://github.com/hasura/graphqurl)
+
+[jasonkuhrt/graphql-request: Minimal GraphQL client supporting Node and browsers for scripts or simple apps](https://github.com/jasonkuhrt/graphql-request)
 
 [Python GraphQL client requests example using gql - DEV Community 👩‍💻👨‍💻](https://dev.to/hugo__df/python-graphql-client-requests-example-using-gql-523g)
 

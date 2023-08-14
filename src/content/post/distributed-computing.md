@@ -213,6 +213,28 @@ easier to use than CUDA
 [Parallel Computing: What is better and why: OpenACC or OpenMP?](https://www.quora.com/Parallel-Computing-What-is-better-and-why-OpenACC-or-OpenMP)
 [OpenMP + OpenACC](https://www.pgroup.com/userforum/viewtopic.php?t=6216)
 
+## Urbit
+
+[Urbit](https://urbit.org/)
+
+[Urbit with Galen Wolfe-Pauly - Software Engineering Daily](https://softwareengineeringdaily.com/2021/12/17/urbit-with-galen-wolfe-pauly/)
+
+## Edge servers
+
+[That's It, I'm Done With Serverless. - YouTube](https://www.youtube.com/watch?v=UPo_Xahee1g)
+[Regional execution for ultra-low latency rendering at the edge – Vercel](https://vercel.com/blog/regional-execution-for-ultra-low-latency-rendering-at-the-edge)
+
+Edge Location (AWS Serverless): slow cold start, your code is deployed to the specific location(s)
+Edge Runtime: faster "cold start" (actually not cold); your code is deployed globally, think CDN; e.g.: Netlify, Vercel
+Regional Edge Runtime: faster "cold start" (actually not cold); edge server is closer to DB, further to user
+
+Edge Runtime Cons:
+
+- Compatibility (no all functions of your runtime is available)
+- No native runtime (cannot run Rust/Go binary from JavaScript)
+
+---
+
 ## SIMD
 
 [xtensor-stack/xsimd: C++ wrappers for SIMD intrinsics and parallelized, optimized mathematical functions (SSE, AVX, NEON, AVX512)](https://github.com/xtensor-stack/xsimd)
@@ -235,24 +257,4 @@ easier to use than CUDA
 [Boosting numpy: Why BLAS Matters - Weblog](https://markus-beuckelmann.de/blog/boosting-numpy-blas.html)
 [Is your Numpy optimized for speed? - Towards Data Science](https://towardsdatascience.com/is-your-numpy-optimized-for-speed-c1d2b2ba515) different backends
 
-[clifford: Geometric Algebra for Python — Clifford 1.4.0dev0 documentation](https://clifford.readthedocs.io/en/latest/)
-
-## Urbit
-
-[Urbit](https://urbit.org/)
-
-[Urbit with Galen Wolfe-Pauly - Software Engineering Daily](https://softwareengineeringdaily.com/2021/12/17/urbit-with-galen-wolfe-pauly/)
-
-## Edge servers
-
-[That's It, I'm Done With Serverless. - YouTube](https://www.youtube.com/watch?v=UPo_Xahee1g)
-[Regional execution for ultra-low latency rendering at the edge – Vercel](https://vercel.com/blog/regional-execution-for-ultra-low-latency-rendering-at-the-edge)
-
-Edge Location (AWS Serverless): slow cold start, your code is deployed to the specific location(s)
-Edge Runtime: faster "cold start" (actually not cold); your code is deployed globally, think CDN; e.g.: Netlify, Vercel
-Regional Edge Runtime: faster "cold start" (actually not cold); edge server is closer to DB, further to user
-
-Edge Runtime Cons:
-
-- Compatibility (no all functions of your runtime is available)
-- No native runtime (cannot run Rust/Go binary from JavaScript)
+[clifford: Geometric Algebra for Python — Clifford documentation](https://clifford.readthedocs.io/en/latest/)

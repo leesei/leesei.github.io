@@ -2,6 +2,7 @@
 title: Vector Graphics
 description: ""
 created: 2015-05-20
+updated: 2023-07-12
 tags:
   - app
   - graphics
@@ -13,9 +14,14 @@ Selection Tool
 
 [Deke's Techniques, videos and tutorials from deke.com](https://www.deke.com/techniques)
 
-## Bézier
+## Bézier Curve
+
+[Bézier curve - Wikiwand](http://www.wikiwand.com/en/Bézier_curve)
 
 [The Bézier Game](https://bezier.method.ac/)
+[Animated Bézier Curves - Jason Davies](https://www.jasondavies.com/animated-bezier/)
+[cubic-bezier(.17,.67,.83,.67) ✿ cubic-bezier.com](https://cubic-bezier.com/#.17,.67,.83,.67)
+[深度掌握 SVG 路径 path 的贝塞尔曲线指令 « 张鑫旭-鑫空间-鑫生活](https://www.zhangxinxu.com/wordpress/2014/06/deep-understand-svg-path-bezier-curves-command/)
 
 [gkurve: simpler vector graphics - Stephen Gutekanst - Software You Can Love 2022 - YouTube](https://www.youtube.com/watch?v=QTybQ-5MlrE) used in [[zig-lang#Mach engine]]
 

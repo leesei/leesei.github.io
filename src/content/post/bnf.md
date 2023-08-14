@@ -4,7 +4,7 @@ description: ""
 created: 2015-04-13
 tags:
   - bnf
-  - comp.lang
+  - comp/lang
   - formal-language
 ---
 

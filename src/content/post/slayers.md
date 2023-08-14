@@ -8,7 +8,7 @@ tags:
 ---
 
 [秀逗魔導士 - Wikiwand](https://www.wikiwand.com/zh/秀逗魔導士)
-[秀逗魔導士 (動畫) - Wikiwand](https://www.wikiwand.com/zh/秀逗魔導士_%28動畫))
+[秀逗魔導士 (動畫) - Wikiwand](<https://www.wikiwand.com/zh/秀逗魔導士_(動畫)>)
 [秀逗魔導士角色列表 - Wikiwand](https://www.wikiwand.com/zh/秀逗魔導士角色列表)
 
 [秀逗魔导士（神坂一著轻小说）\_百度百科](https://baike.baidu.com/item/秀逗魔导士/7651?fromtitle=秀逗魔导士小说&fromid=9556828)

@@ -31,6 +31,7 @@ tags:
 [4 options to prevent extra rerenders with React context · Daishi Kato's blog](https://blog.axlight.com/posts/4-options-to-prevent-extra-rerenders-with-react-context/)
 [Global state with React | Basefactor](https://www.basefactor.com/global-state-with-react)
 [Four patterns for global state with React hooks: Context or Redux](https://itnext.io/four-patterns-for-global-state-with-react-hooks-context-or-redux-cbc2dc787380)
+[An overview of State Management solutions for React and NextJS - React inDepth](https://indepth.dev/posts/1487/deep-dive-into-state-management-with-react-and-nextjs)
 
 [React — Why useContext() will clean your code – Michael Majdanski – Medium](https://medium.com/@mmajdanski/react-why-usecontext-will-clean-your-code-ca2b185e23f5)
 [Simple Painter in ReactJS — useContext, useState – Prima – Medium](https://medium.com/@anMagpie/simple-painter-in-reactjs-usecontext-usestate-2f7c1dfc898d)

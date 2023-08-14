@@ -2,10 +2,13 @@
 title: VPS Hosting
 description: ""
 created: 2015-07-26
+updated: 2023-08-01
 tags:
   - digital-ocean
   - vps
   - web
+  - hostinger
+  - linode
 ---
 
 [[aws#EC2]]
@@ -53,3 +56,7 @@ SG
 ## Hostinger
 
 [Hostinger Pricing - Check Our Prices and Create Your Website](https://www.hostinger.com/pricing)
+
+## Hetzner
+
+[Dedicated Server, Cloud, Storage & Hosting - Hetzner Online GmbH](https://www.hetzner.com/)

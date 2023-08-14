@@ -2,6 +2,7 @@
 title: Amazon Web Services
 description: ""
 created: 2015-06-17
+updated: 2023-06-21
 tags:
   - web
 ---
@@ -178,6 +179,18 @@ aws ec2 run-instances --image-id ami-036237e941dccd50e \
 
 [AWS Automation Documents » ADMIN Magazine](http://www.admin-magazine.com/Archive/2018/45/AWS-Automation-Documents)
 
+## Service Helper
+
+[Flightcontrol — AWS Without Pain](https://www.flightcontrol.dev/)
+[Home - Klotho](https://klo.dev/)
+
+### SST
+
+[SST](https://sst.dev/) deploy stack to AWS, automating AWS CLI
+[serverless-stack/sst: 💥 SST makes it easy to build full-stack serverless apps.](https://github.com/serverless-stack/sst)
+
+[SST in 100 seconds - YouTube](https://www.youtube.com/watch?v=JY_d0vf-rfw)
+
 ---
 
 # Compute
@@ -226,12 +239,6 @@ Default user name for the AMI that you used to launch your instance:
 
 [jimeh/skyhook: A customized set of scripts and config files to deploy projects and control services on Amazon EC2.](https://github.com/jimeh/skyhook)
 [jimeh/skyline: Ruby-based interactive shell tools to send terminal commands to instances in Amazon EC2 AutoScaling groups](https://github.com/jimeh/skyline)
-
-### Service Helper
-
-[SST](https://sst.dev/) deploy app to AWS
-[Flightcontrol — AWS Without Pain](https://www.flightcontrol.dev/)
-[Home - Klotho](https://klo.dev/)
 
 ### Security Best Practices
 

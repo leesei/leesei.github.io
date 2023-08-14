@@ -2,6 +2,7 @@
 title: Docker
 description: ""
 created: 2014-12-11
+updated: 2023-08-14
 tags:
   - container
   - dev/deploy
@@ -9,6 +10,8 @@ tags:
   - docker
   - shell-tool
 ---
+
+> many old articles, check to publish dates
 
 Docker packs your apps and services in a portable container.
 
@@ -175,6 +178,7 @@ Docker started out using LXC, then [docker/libcontainer](https://github.com/dock
 
 [Docker components explained](http://alexander.holbreich.org/docker-components-explained/)
 [Docker, Containerd & Standalone Runtimes — Here’s What You Should Know | by Aymen Eon Amri | FAUN](https://faun.pub/docker-containerd-standalone-runtimes-heres-what-you-should-know-b834ef155426)
+[This Is How Docker Works, The Fun Way! - YouTube](https://www.youtube.com/watch?v=-NzfOhSAZpA)
 
 ## #perfmatters
 
@@ -850,6 +854,7 @@ DOCKER_BUILDKIT=1 docker build .
 [buildkit/buildkit.go at master · moby/buildkit](https://github.com/moby/buildkit/blob/master/examples/buildkit1/buildkit.go) build script in Go
 [docker/dockerfile - Docker Image | Docker Hub](https://hub.docker.com/r/docker/dockerfile/)
 
+[Using Docker Buildx to Create Cross-Platform Docker Images for Seamless Compatibility - DEV Community](https://dev.to/aws-builders/using-docker-buildx-to-create-cross-platform-docker-images-for-seamless-compatibility-4k8b)
 [Martin Heinz - Building Docker Images The Proper Way](https://martinheinz.dev/blog/42) 2021-02, BuildKit (`dockerfile:experimental`), can use `dockerfile:1.4` now
 [Dockerfiles now Support Multiple Build Contexts - Docker](https://www.docker.com/blog/dockerfiles-now-support-multiple-build-contexts/)
 [Introduction to heredocs in Dockerfiles - Docker Blog](https://www.docker.com/blog/introduction-to-heredocs-in-dockerfiles/)
@@ -1465,7 +1470,17 @@ WantedBy=multi-user.target
 [linuxserver/webtop - LinuxServer.io](https://docs.linuxserver.io/images/docker-webtop)
 [linuxserver/webtop - Docker Image | Docker Hub](https://hub.docker.com/r/linuxserver/webtop)
 
+#### Distrobox
+
+> "WSL for Linux", NO sandboxing
+
 [Distrobox | Use any linux distribution inside your terminal](https://distrobox.privatedns.org/)
 [89luca89/distrobox: Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with.](https://github.com/89luca89/distrobox)
 [How to quickly deploy a Linux distribution with GUI applications via a container | TechRepublic](https://www.techrepublic.com/article/how-to-quickly-deploy-a-linux-distribution-with-gui-applications-via-a-container/)
 [Distrobox: Try Multiple Linux Distributions via the Terminal](https://itsfoss.com/distrobox/)
+[Toolboxes are not just for special cases](https://www.ypsidanger.com/toolboxes-are-not-just-for-special-cases/)
+
+[Distrobox Is Basically A Linux Subsystem For Linux - YouTube](https://www.youtube.com/watch?v=FhW-3PPldAg)
+[Turning Distrobox Into Your Entire Linux Desktop - YouTube](https://www.youtube.com/watch?v=IIVv5NjyYl0)
+
+[Get Any App on Any Distro Easily - YouTube](https://www.youtube.com/watch?v=eh-a1W5IJbA)

@@ -4,7 +4,7 @@ description: ""
 created: 2016-03-04
 tags:
   - clojure
-  - comp.lang
+  - comp/lang
   - groovy
   - guava
   - java
@@ -132,6 +132,10 @@ http service scalability
 [Guava | Baeldung](https://www.baeldung.com/category/guava/)
 [Thomas Ferris Nicolaisen - Google Guava](https://www.tfnico.com/presentations/google-guava)
 
+### Database/ORM
+
+[主流 Java ORM 框架有哪些？](http://c.biancheng.net/view/8117.html)
+
 ---
 
 # JVM as a Platform
@@ -250,7 +254,7 @@ jar cvf myclasses.jar -C classes .
 ## Clojure
 
 [Clojure - home](http://clojure.org/)
-[Learning colojure — Medium](https://medium.com/@mshanu/learning-colojure-f99e5c80921e#.zdkexduwf)
+[Learning colojure — Medium](https://medium.com/@mshanu/learning-colojure-f99e5c80921e)
 [Clojure Newbie Guide](http://www.clojurenewbieguide.com/)
 
 [Clojure - ClojureScript](http://clojure.org/about/clojurescript) compile to JavaScript
@@ -258,7 +262,15 @@ jar cvf myclasses.jar -C classes .
 [What Holds Me Back From Clojurescript | Jared Forsyth.com](https://jaredforsyth.com/2015/11/26/What-holds-me-back-from-Clojurescript/)
 [Courses with Free Content | PurelyFunctional.tv](https://purelyfunctional.tv/free-content/)
 
+[Clojure Days - YouTube](https://www.youtube.com/@clojuredays)
+[ClojureScript reimagined - Michiel Borkent - YouTube](https://www.youtube.com/watch?v=oCd74TQ-gf4)
+
 [Pedestal](http://pedestal.io/)
+
+### hyperfiddle
+
+[hyperfiddle/electric: a reactive Clojure dialect for web development that uses a compiler to infer the frontend/backend boundary](https://github.com/hyperfiddle/electric)
+[Dustin Getz - YouTube](https://www.youtube.com/@hyperfiddle)
 
 ## Eta
 

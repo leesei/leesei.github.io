@@ -3,8 +3,8 @@ title: Compiler
 description: How source code is turned into machine code
 created: 2023-04-14
 tags:
-  - comp.hardware
-  - comp.lang
+  - comp/hardware
+  - comp/lang
 ---
 
 [Compiler - Wikiwand](https://www.wikiwand.com/en/Compiler)

@@ -3,9 +3,9 @@ title: Kotlin
 description: ""
 created: 2019-04-11
 tags:
-  - comp.lang
+  - comp/lang
   - kotlin
-  - snippet/kotlin
+  - snippets/kotlin
 ---
 
 ## List and Array

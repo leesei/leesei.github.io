@@ -2,6 +2,7 @@
 title: Linux Security
 description: ""
 created: 2016-05-30
+updated: 2023-07-21
 tags:
   - linux
   - security
@@ -19,6 +20,7 @@ tags:
 [What is PAM? – Information & Technology – Medium](https://medium.com/information-and-technology/wtf-is-pam-99a16c80ac57)
 
 [Linux Security - YouTube](https://www.youtube.com/playlist?list=PLk6GyAyNDZmBmVacGhQgMPlXLEzqtyjti)
+[How to protect Linux from Hackers // My server security strategy! - YouTube](https://www.youtube.com/watch?v=Bx_HkLVBz9M)
 
 [Blacklisting modules on Linux | Network World](https://www.networkworld.com/article/3270624/linux/blacklisting-modules-on-linux.html)
 [22 essential Linux security commands | Network World](https://www.networkworld.com/article/3272286/open-source-tools/22-essential-security-commands-for-linux.html)

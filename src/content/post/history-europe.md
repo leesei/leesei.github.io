@@ -2,8 +2,10 @@
 title: History Europe
 description: ""
 created: 2016-09-12
+updated: 2023-07-29
 tags:
   - history
+  - history/europe
 ---
 
 [World History Encyclopedia](https://www.worldhistory.org/)
@@ -22,12 +24,17 @@ Herodotus, the first historian
 [History of Europe [1-2016] [Every year] - YouTube](https://www.youtube.com/watch?v=gn6mYygyxQk)
 [The History of Europe: Every Year - YouTube](https://www.youtube.com/watch?v=oWWLECJnylM) 3650B.C-2016
 [History Series: Europe - YouTube](https://www.youtube.com/playlist?list=PLEpnbGLPDdmFsiqrVYz-IeGrlYGqZn_Mx)
+[卢格杜努姆的奥古斯丁 - YouTube](https://www.youtube.com/@augustinus_lugdunensis)
 
 ## Documentaries
 
 [Ancient Warriors - YouTube](https://www.youtube.com/playlist?list=PLFxVdVoTuIGx-pGdeAc5rRTQRj1Sbp-MP)
 [European History Documentaries - YouTube](https://www.youtube.com/playlist?list=PLOArLjRj3ekoq7K2ublcB5XGnnxMxAjWm)
 [European History Documentaries - YouTube](https://www.youtube.com/playlist?list=PLFXjUhgSe6nnyKqYMmEmIbwaO024JE80v)
+
+## Family Name
+
+[简单又粗暴？你以为的贵族是假的？不为人知的欧洲姓名史 - YouTube](https://www.youtube.com/watch?v=Z5GQkRQZu44)
 
 ## Holy Roman Empire
 
@@ -87,3 +94,13 @@ Epic History TV
 
 [[ww-i]]
 [[ww-ii]]
+
+[Why There is No Bridge Between Europe and Africa - YouTube](https://www.youtube.com/watch?v=rtvHUr_oTdQ)
+
+## The Crimean War
+
+> the war from October 1853 to February 1856 between Russia and various European countries
+> so called "World War Zero"
+
+[Crimean War - Wikiwand](https://www.wikiwand.com/en/Crimean_War)
+[Extra History: The Crimean War - YouTube](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5D6vGpsszjUMKY3GwYIvhWT)

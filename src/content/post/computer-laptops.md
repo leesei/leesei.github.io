@@ -3,7 +3,7 @@ title: Laptop
 description: Mostly my study of laptop on market in 2019
 created: 2019-05-03
 tags:
-  - comp.hardware
+  - comp/hardware
   - laptop
   - ultrabook
 ---

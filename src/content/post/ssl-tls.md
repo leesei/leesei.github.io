@@ -2,6 +2,7 @@
 title: SSL/TLS
 description: ""
 created: 2015-04-02
+updated: 2023-06-22
 tags:
   - security
   - ssl
@@ -18,8 +19,6 @@ The server register with a CA and sign its public key with the key of CA for a f
 [Creating Secure Web Apps: What Every Developer Needs to Know About HTTPS Today | Heroku](https://www.heroku.com/tech-sessions/creating-secure-web-apps)
 [Exploring HTTPS With Python – Real Python](https://realpython.com/python-https/)
 [What are SSL/TLS Certificates? Why do we Need them? and How do they Work? - YouTube](https://www.youtube.com/watch?v=r1nJT63BFQ0)
-[HTTPS Decryption with Wireshark // Website TLS Decryption - YouTube](https://www.youtube.com/watch?v=GMNOT1aZmD8)
-[Decrypting TLS, HTTP/2 and QUIC with Wireshark - YouTube](https://www.youtube.com/watch?v=yodDbgoCnLM)
 
 [Transport Layer Security (TLS) - Computerphile - YouTube](https://www.youtube.com/watch?v=0TLDTodL7Lc)
 [TLS Handshake Explained - Computerphile - YouTube](https://www.youtube.com/watch?v=86cQJ0MMses)
@@ -28,6 +27,11 @@ The server register with a CA and sign its public key with the key of CA for a f
 [The SSL/TLS Handshake: an Overview – SSL Information and FAQ](https://info.ssl.com/tls-handshake/)
 [File:Ssl handshake with two way authentication with certificates.png - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ssl_handshake_with_two_way_authentication_with_certificates.png)
 [TLS 1.3 » ADMIN Magazine](http://www.admin-magazine.com/Articles/TLS-1.3-and-the-return-of-common-sense)
+
+[Wireshark - YouTube](https://www.youtube.com/playlist?list=PLhfrWIlLOoKMO9-7NxYN3TxCdcDecwOtj) TLS/QUIC decryption with Wireshark and SSL key logs
+[Decrypt SSL with Wireshark - HTTPS Decryption: Step-by-Step Guide](https://www.comparitech.com/net-admin/decrypt-ssl-with-wireshark/)
+[HTTPS Decryption with Wireshark // Website TLS Decryption - YouTube](https://www.youtube.com/watch?v=GMNOT1aZmD8)
+[Decrypting TLS, HTTP/2 and QUIC with Wireshark - YouTube](https://www.youtube.com/watch?v=yodDbgoCnLM)
 
 [HTTPS: an awesome, secure tale (pt 1) | by Omer Goldberg | Bits and Pieces](https://blog.bitsrc.io/https-an-awesome-secure-tale-pt-1-32d2ba5ac0c1)
 
@@ -96,6 +100,13 @@ obsolete?
 [Monsters in the Middleboxes: Introducing Two New Tools for Detecting HTTPS Interception](https://blog.cloudflare.com/monsters-in-the-middleboxes/amp/)
 
 [How to Man in the Middle HTTPS Using mitmproxy - Earthly Blog](https://earthly.dev/blog/mitmproxy/)
+
+[HTTPS/TLS Proxy | NetworkAcademy.io](https://www.networkacademy.io/ccie-enterprise/sdwan/https-tls-proxy)
+[What is a TLS Proxy? Definition & FAQs | Avi Networks](https://avinetworks.com/glossary/tls-proxy/)
+
+[Rebex TLS Proxy (free) - Rebex.NET](https://www.rebex.net/tls-proxy/)
+
+[iPhone and Android WiFi Man-in-the-middle attack // PYTHON Scapy scripts for attacking networks - YouTube](https://www.youtube.com/watch?v=O1jpck31Ask)
 
 ## Perfect Forward Secrecy (PFS)
 

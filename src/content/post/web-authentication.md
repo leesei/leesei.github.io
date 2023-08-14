@@ -2,7 +2,7 @@
 title: Web Authentication
 description: ""
 created: 2016-01-21
-updated: 2023-06-06
+updated: 2023-08-29
 tags:
   - authentication
   - security
@@ -105,13 +105,6 @@ Use MAC with server nonce instead of send password, allows authentication over n
 [Authenticate users with Netlify Identity | Netlify Docs](https://docs.netlify.com/visitor-access/identity/)
 [netlify/gotrue: An SWT based API for managing users and issuing SWT tokens](https://github.com/netlify/gotrue)
 [Introducing Built-in Identity Service to Streamline User Management | Netlify](https://www.netlify.com/blog/2017/09/07/introducing-built-in-identity-service-to-streamline-user-management/)
-
-### Metamask
-
-> login with blockchain wallet
-
-[The crypto wallet & gateway to Web3 blockchain apps | MetaMask](https://metamask.io/)
-[Build a Web3 authentication flow with React, Ether.js, and Ceramic - LogRocket Blog](https://blog.logrocket.com/build-web3-authentication-flow-react-ether-js-ceramic/)
 
 ## Multi-factor Authentication (MFA)
 

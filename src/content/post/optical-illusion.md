@@ -26,6 +26,7 @@ Your perception of color depends on the lighting condition your brain think it i
 
 [當年那條裙子到底什麼顏色？視覺錯覺如何產生？ Why Your Brain Thinks These Strawberries Are Red ｜科普長知識｜ GQ Taiwan - YouTube](https://www.youtube.com/watch?v=saLz0OlmBJo)
 [Asymmetries in blue–yellow color perception and in the color of ‘the dress’: Current Biology](<https://www.cell.com/current-biology/fulltext/S0960-9822(15)00542-4>)
+[Full Spectrum - 99% Invisible](https://99percentinvisible.org/episode/full-spectrum/)
 
 ## Color Assimilation/Chromatic Adaptation
 

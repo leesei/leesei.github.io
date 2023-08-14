@@ -2,6 +2,7 @@
 title: Reactive programming
 description: ""
 created: 2016-03-13
+updated: 2023-07-21
 tags:
   - javascript
   - mobx
@@ -17,7 +18,10 @@ tags:
 [The Reactive Manifesto](https://www.reactivemanifesto.org/)
 
 [Intro to Reactive Programming - YouTube](https://www.youtube.com/watch?v=Bme_RiT9CK4)
-[Reacdtive Programming: Why It Matters - YouTube](https://www.youtube.com/watch?v=49dMGC1hM1o)
+[Reactive Programming: Why It Matters - YouTube](https://www.youtube.com/watch?v=49dMGC1hM1o)
+
+[Unveiling the Magic: Exploring Reactivity Across Various Frameworks](https://www.builder.io/blog/reactivity-across-frameworks)
+[How reactivity actually works? - YouTube](https://www.youtube.com/watch?v=XB993rQ-5DY)
 
 [Reactive programming and Vert.x tutorial: Reactica Coderland](https://developers.redhat.com/coderland/reactive/)
 [Functional Programming as the Pillar of Reactive Programming - DZone Web Dev](https://dzone.com/articles/functional-programming-as-the-pillar-of-reactive-p)

@@ -2,12 +2,11 @@
 title: Hyperledger
 description: Open Source Private Blockchain
 created: 2023-04-01
+updated: 2023-07-12
 tags:
   - blockchain
   - hyperledger
 ---
-
-[Alternative Uses for Blockchain - Computerphile - YouTube](https://www.youtube.com/watch?v=qBAOsB6ETrY)
 
 [Hyperledger – Open Source Blockchain Technologies](https://www.hyperledger.org/)
 [Hyperledger - Hyperledger - Hyperledger Foundation](https://wiki.hyperledger.org/)
@@ -23,9 +22,21 @@ Hyperledger Fabric v2.2 (2020-09) uses Raft for Orderer consensus and deprecated
 [Build and Deploy a Blockchain Web App With Hyperledger Fabric & Hyperledger Composer - YouTube](https://www.youtube.com/watch?v=J1RfcEzD9rw)
 [Keynote: Introducing Hyperledger by Brian Behlendorf, Executive Director, Hyperledger Project - YouTube](https://www.youtube.com/watch?v=pr4Hb0jb0lo)
 
+[Alternative Uses for Blockchain - Computerphile - YouTube](https://www.youtube.com/watch?v=qBAOsB6ETrY)
+
+[Hyperledger Foundation - YouTube](https://www.youtube.com/@Hyperledger)
+[Hyperledger Fabric - YouTube](https://www.youtube.com/playlist?list=PL0MZ85B_96CH7wvtrRzV7SvtRY0sI0DEg)
+
+Pavan Adhav
+[Create Basic Network using Hyperledger Fabric 2.0 - YouTube](https://www.youtube.com/playlist?list=PLSBNVhWU6KjW4qo1RlmR7cvvV8XIILub6)
+[Hyperledger Fabric Network 2.x - YouTube](https://www.youtube.com/playlist?list=PLSBNVhWU6KjW2hNOOqUqUssz8qIxnxzpL)
+
 # Courses
 
 [Hyperledger Fabric Fundamentals - KBA eLearning](https://learn.kba.ai/course/hyperledger-fabric-fundamentals/)
+[Hyperledger Fabric Fundamentals(JavaScript) – KBA eLearning](https://learn.kba.ai/course/hyperledger-fabric-fundamentals/)
+[Hyperledger Fabric Fundamentals(Go) – KBA eLearning](https://learn.kba.ai/course/hyperledger-fabric-fundamentals-golang/)
+
 [Hyperledger Fabric for Developers Training Course | Linux Foundation](https://training.linuxfoundation.org/training/hyperledger-fabric-for-developers-lfd272/#)
 
 # Ecosystem
@@ -55,6 +66,11 @@ Hyperledger Fabric v2.2 (2020-09) uses Raft for Orderer consensus and deprecated
 [hyperledger-labs/minifabric: Do fabric network the right and easy way.](https://github.com/hyperledger-labs/minifabric)
 
 [hyperledger-labs/fablo: Fablo is a simple tool to generate the Hyperledger Fabric blockchain network and run it on Docker. It supports RAFT and solo consensus protocols, multiple organizations and channels, chaincode installation and upgrade.](https://github.com/hyperledger-labs/fablo)
+
+## Certificates
+
+[Certification Rotation/Renewal in Hyperledger Fabric: Recover Expired certificate Fabric Network | by Pavan Adhav | Coinmonks | Medium](https://medium.com/coinmonks/certification-rotation-in-hyperledger-fabric-c9eb5fc68dec)
+[Hyperledger Fabric Certificate Rotation/Renewal in Production Network - YouTube](https://www.youtube.com/watch?v=UgZWMRiYXMQ)
 
 ## Multihost deployment
 
@@ -109,6 +125,7 @@ Hyperledger Fabric v2.2 (2020-09) uses Raft for Orderer consensus and deprecated
 [Hyperledger Explorer – Hyperledger Foundation](https://www.hyperledger.org/use/explorer)
 [Hyperledger Explorer documentation — Hyperledger Explorer documentation](https://blockchain-explorer.readthedocs.io/en/main/)
 [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
+[Integration of Blockchain Explorer with Hyperledger Fabric - YouTube](https://www.youtube.com/playlist?list=PLSBNVhWU6KjVbbbd4TeOCQnFpKkAf8Tsq)
 
 [Hyperledger Explorer](https://www.investopedia.com/terms/h/hyperledger-explorer.asp)
 [Integrating Hyperledger Explorer with Hyperledger Fabric Network v2.2 | by Aditya Joshi | Coinmonks | Medium](https://medium.com/coinmonks/integrating-hyperledger-explorer-with-hyperledger-fabric-network-v2-2-9a70e4c5311)
@@ -118,3 +135,7 @@ Hyperledger Fabric v2.2 (2020-09) uses Raft for Orderer consensus and deprecated
 ## Benchmark
 
 [Hyperledger Caliper - Hyperledger Caliper - Hyperledger Foundation](https://wiki.hyperledger.org/display/caliper)
+[hyperledger/caliper: A blockchain benchmark framework to measure performance of multiple blockchain solutions https://wiki.hyperledger.org/display/caliper](https://github.com/hyperledger/caliper)
+
+[Hyperledger Caliper - YouTube](https://www.youtube.com/playlist?list=PL0MZ85B_96CH90E9HH0ezyEquUTe9spoU)
+[Caliper Integration with Hyperledger Fabric - YouTube](https://www.youtube.com/playlist?list=PLSBNVhWU6KjXRadn0Cezi5mCbLMXzjewX)

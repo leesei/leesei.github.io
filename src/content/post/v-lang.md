@@ -3,7 +3,7 @@ title: The V Programming Language
 description: ""
 created: 2023-03-25
 tags:
-  - comp.lang
+  - comp/lang
   - package-manager
 ---
 

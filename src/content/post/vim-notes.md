@@ -2,7 +2,7 @@
 title: Vim notes
 description: A screen-oriented text editor originally created for the Unix operating system
 created: 2015-01-14
-updated: 2023-04-09
+updated: 2023-07-27
 tags:
   - app
   - neovim
@@ -24,6 +24,9 @@ tags:
 [Interactive Vim tutorial](http://www.openvim.com/tutorial.html)
 [How to Learn Vim](http://mrmrs.io/writing/2013/12/19/how-to-learn-vim/)
 [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
+[VIM The Ultimate Editor - YouTube](https://www.youtube.com/watch?v=P88ydZVcm1s)
+[50+ Vim Tips and Tricks from Beginner to Expert - YouTube](https://www.youtube.com/watch?v=ZEIpdC_klDI)
+[Vim Tips - YouTube](https://www.youtube.com/playlist?list=PL0tgH22U2S3GN7MdobsdWV44qw-P5g7RJ)
 [Learn Vim For the Last Time: A Tutorial and Primer - Daniel Miessler](https://danielmiessler.com/study/vim/)
 [How To Learn Vim: A Four Week Plan – Actualize – Medium](https://medium.com/actualize-network/how-to-learn-vim-a-four-week-plan-cd8b376a9b85)
 [vimtutor(1): Vim tutor - Linux man page](https://linux.die.net/man/1/vimtutor)
@@ -119,16 +122,30 @@ Vim uses VimScript, Neovim embed Lua/MicroPython
 [Home - Neovim](https://neovim.io/)
 [Why Neovim? with TJ DeVries, Neovim core maintainer (The Changelog #457) |> Changelog](https://changelog.com/podcast/457)
 [Modern Neovim — init.lua. Craft a modernized development… | by alpha2phi | Medium](https://alpha2phi.medium.com/modern-neovim-init-lua-ab1220e3ecc1)
+[Basic Neovim Commands/Crash Course - DEV Community](https://dev.to/arafat4693/basic-neovim-commands-4hmi)
+
 ThePrimeagen
 [Using Vim 2023 - YouTube](https://www.youtube.com/watch?v=FrMRyXtiJkc)
-[0 to LSP : Neovim RC From Scratch - YouTube](https://www.youtube.com/watch?v=w7i4amO_zaE)
 
+DevOps Toolbox
+[Vim - YouTube](https://www.youtube.com/playlist?list=PLmcTCfaoOo_grgVqU7UbOx7_RG9kXPgEr)
 [Turn VIM into a full featured IDE with only one command - YouTube](https://www.youtube.com/watch?v=Mtgo-nP_r8Y)
 [DEBUG in Neovim. Like a BOSS. - YouTube](https://www.youtube.com/watch?v=RziPWdTzSV8)
 
-[Vim - YouTube](https://www.youtube.com/playlist?list=PLmcTCfaoOo_grgVqU7UbOx7_RG9kXPgEr) DevOps Toolbox
+DistroTube
+[The Vim Lifestyle - YouTube](https://www.youtube.com/playlist?list=PL5--8gKSku15tivUyt0D-mERePLEzrWUz)
+
+#### Plugins
 
 [Neovim lua plugins](https://nvimluau.dev/)
+
+[ggandor/leap.nvim: Neovim's answer to the mouse 🦘](https://github.com/ggandor/leap.nvim)
+[Become A Neovim Kangaroo - YouTube](https://www.youtube.com/watch?v=2KLFjhGjmbI)
+
+[folke/flash.nvim: Navigate your code with search labels, enhanced character motions and Treesitter integration](https://github.com/folke/flash.nvim)
+[The neovim motions plugin we've been waiting for - YouTube](https://www.youtube.com/watch?v=GcWYUumEsZo)
+
+[folke/which-key.nvim: 💥 Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.](https://github.com/folke/which-key.nvim)
 
 [neovim/nvim-lspconfig: Quickstart configurations for the Nvim LSP client](https://github.com/neovim/nvim-lspconfig)
 [nvim-telescope/telescope.nvim: Find, Filter, Preview, Pick. All lua, all the time.](https://github.com/nvim-telescope/telescope.nvim)
@@ -137,6 +154,25 @@ ThePrimeagen
 
 [L3MON4D3/LuaSnip: Snippet Engine for Neovim written in Lua.](https://github.com/L3MON4D3/LuaSnip)
 
+#### Configuration
+
+[0 to LSP : Neovim RC From Scratch - YouTube](https://www.youtube.com/watch?v=w7i4amO_zaE)
+[Effective Neovim: Instant IDE - YouTube](https://www.youtube.com/watch?v=stqUbv-5u2s)
+
+[Neovim Is Better](https://christitus.com/neovim-is-better/)
+[Neovim is Better - YouTube](https://www.youtube.com/watch?v=6VbOLOuiHUI)
+
+[folke (folke) / Repositories · GitHub](https://github.com/folke?tab=repositories&type=source)
+[folke/lazy.nvim: 💤 A modern plugin manager for Neovim](https://github.com/folke/lazy.nvim)
+[folke/neoconf.nvim: 💼 Neovim plugin to manage global and project-local settings](https://github.com/folke/neoconf.nvim)
+[folke/neodev.nvim: 💻 Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.](https://github.com/folke/neodev.nvim)
+
+[wbthomason/packer.nvim: A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config](https://github.com/wbthomason/packer.nvim)
+
+[nvim-lua/kickstart.nvim: A launch point for your personal nvim configuration](https://github.com/nvim-lua/kickstart.nvim)
+
+[ChrisTitusTech/neovim](https://github.com/ChrisTitusTech/Neovim)
+
 #### Neovim Distros
 
 [Exploring the Top Neovim Distributions: LazyVim, LunarVim, AstroVim, and NVChad — Which One Reigns Supreme? | by Adam Poniatowski | Mar, 2023 | Medium](https://medium.com/@adaml.poniatowski/exploring-the-top-neovim-distributions-lazyvim-lunarvim-astrovim-and-nvchad-which-one-reigns-3adcdbfa478d)
@@ -144,7 +180,13 @@ ThePrimeagen
 [🚀 Getting Started | LazyVim](https://www.lazyvim.org/)
 [LazyVim/LazyVim: Neovim config for the lazy](https://github.com/LazyVim/LazyVim)
 
+[LunarVim | LunarVim](https://www.lunarvim.org/)
+
 [Getting Started | AstroNvim](https://astronvim.com/)
 [Neovim With AstroNvim | Your New Advanced Development Editor - YouTube](https://www.youtube.com/watch?v=GEHPiZ10gOk)
 
-[LunarVim | LunarVim](https://www.lunarvim.org/)
+[NvChad](https://nvchad.com/)
+
+[Neovide - Neovide](https://neovide.dev/)
+[neovide/neovide: No Nonsense Neovim Client in Rust](https://github.com/neovide/neovide)
+[Neovide Is A Graphical Neovim Client Written In Rust - YouTube](https://www.youtube.com/watch?v=Vd5AACp6GG0)

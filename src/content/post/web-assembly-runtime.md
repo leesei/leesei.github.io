@@ -68,6 +68,7 @@ tags:
 [bytecodealliance/wasmtime: A fast and secure runtime for WebAssembly](https://github.com/bytecodealliance/wasmtime)
 stand-alone WebAssembly runtime that can be used as a CLI tool or embedded into other systems. It's very configurable and scalable so that it can serve as the base for many use-case specific runtimes, from small IoT devices all the way up to cloud data centers. Uses [Cranelift](https://github.com/bytecodealliance/wasmtime/tree/main/cranelift) for code generation.
 
+[Bytecode Alliance — Wasmtime 1.0: A Look at Performance](https://bytecodealliance.org/articles/wasmtime-10-performance)
 [Alfonso de la Rocha: @adlrocha - Playing with Wasmtime and Web Assembly's linear memory](https://adlrocha.substack.com/p/adlrocha-playing-with-wasmtime-and)
 
 [WebAssembly Reference Types Implemented in wasmtime, Lets Wasm Modules Handle Complex Types](https://www.infoq.com/news/2020/09/wasm-reference-types-wasmtime/)

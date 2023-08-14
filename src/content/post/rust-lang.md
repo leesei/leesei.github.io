@@ -4,9 +4,9 @@ description: Static typed, GC-free system language created by Mozilla.
 created: 2015-11-19
 updated: 2023-04-16
 tags:
-  - comp.lang
+  - comp/lang
   - package-manager
-  - rust
+  - rust-lang
 ---
 
 [The Rust Programming Language](http://www.rust-lang.org/)
@@ -38,7 +38,7 @@ GitHub org:
 [State Of Rust](https://forge.rust-lang.org/state-of-rust.html)
 [Five Years of Rust | Rust Blog](https://blog.rust-lang.org/2020/05/15/five-years-of-rust.html)
 
-[All Rust features explained - YouTube](https://www.youtube.com/watch?v=784JWR4oxOI)
+[All Rust features explained - YouTube](https://www.youtube.com/watch?v=784JWR4oxOI) ❗!important
 [Introduction to Rust Part 1 - YouTube](https://www.youtube.com/watch?v=WnWGO-tLtLA)
 [Introduction to Rust Part 2 - YouTube](https://www.youtube.com/watch?v=lLWchWTUFOQ)
 [Intel and Rust: the Future of Systems Programming: Josh Triplett - YouTube](https://www.youtube.com/watch?v=l9hM0h6IQDo)
@@ -133,6 +133,8 @@ The source code is compiled to High level intermediate representation, then mid 
 
 [Learn Rust - Rust Programming Language](https://www.rust-lang.org/learn)
 [rust-lang/rustlings: Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings/) code kata
+
+[Rust Developer Bootcamp Free Training](https://letsgetrusty.com/bootcamp/) ❗!important
 
 [Learn Rust Programming Course – Interactive Rust Language Tutorial on Replit](https://www.freecodecamp.org/news/rust-in-replit/)
 [Rust Programming Course for Beginners - Tutorial - YouTube](https://www.youtube.com/watch?v=MsocPEZBd-M)
@@ -580,6 +582,8 @@ RUST_BACKTRACE=1 cargo build
 [Mozilla's Rust language doubles down on speed and simplicity | InfoWorld](http://www.infoworld.com/article/3062936/application-development/mozillas-rust-language-doubles-down-on-speed-and-simplicity.html)
 [rust-lang/miri: An interpreter for Rust's mid-level intermediate representation](https://github.com/rust-lang/miri)
 
+[Visualizing memory layout of Rust's data types - YouTube](https://www.youtube.com/watch?v=rDoqT-a6UFg)
+
 [How debuggers really work | Opensource.com](https://opensource.com/article/18/1/how-debuggers-really-work)
 [Using unsafe tricks to examine Rust data structure layout](https://pramode.in/2016/09/13/using-unsafe-tricks-in-rust/)
 
@@ -594,10 +598,10 @@ RUST_BACKTRACE=1 cargo build
 
 [Understanding Ownership - The Rust Programming Language](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
 
-| Type   | Ownership         | Alias? | Mutate?                         |
-| ------ | ----------------- | ------ | ------------------------------- |
+| Type   | Ownership         | Alias? | Mutate?                          |
+| ------ | ----------------- | ------ | -------------------------------- |
 | T      | Owned             |        | ✔                               |
-| &T     | Shared Reference  | ✔      | ✗ (while aliasing)              |
+| &T     | Shared Reference  | ✔     | ✗ (while aliasing)               |
 | &mut T | Mutable Reference |        | ✔ (original reference disabled) |
 
 Passing variables to funtion moves ownership to the function by default.
@@ -823,6 +827,7 @@ fn first(v: &Vec<Book>) -> &String {
 [Creating Expedient Microservices in Rust and Diesel - via @codeship | via @codeship](https://blog.codeship.com/creating-expedient-microservices-in-rust-and-diesel/)
 [Intro to Web Development with Rust for NodeJS Developers - DEV Community 👩‍💻👨‍💻](https://dev.to/gruberb/intro-to-web-programming-in-rust-for-nodejs-developers-lp) series
 [Auth Web Microservice with rust using Actix-Web 1.0 - Complete Tutorial - Harry Gill](https://gill.net.in/posts/auth-microservice-rust-actix-web1.0-diesel-complete-tutorial/)
+[Rust 🦀 CRUD Rest API with Docker 🐳 - DEV Community](https://dev.to/francescoxx/rust-crud-rest-api-3n45)
 
 [Iron - Rust web application framework](http://ironframework.io/)
 [Rustless - API micro-framework for Rust](http://rustless.org/)

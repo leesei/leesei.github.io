@@ -2,6 +2,7 @@
 title: Web Development
 description: ""
 created: 2015-11-19
+updated: 2023-08-10
 tags:
   - css
   - javascript
@@ -212,6 +213,8 @@ If the site is rendered ahead of time at build, it is known as "Static Site Gene
 [Building Progressive Web Apps [Book]](https://www.safaribooksonline.com/library/view/building-progressive-web/9781491961643/)
 [Top 7 Features of Progressive Web Apps](https://blog.frontity.org/top-7-features-of-progressive-web-apps/#more-2372)
 
+[Progressive Web Apps (PWAs) FTW — Pt. 1 | by Omer Goldberg | HackerNoon.com | Medium](https://medium.com/hackernoon/pwas-ftw-pt-1-37729432d529)
+[Progressive Web Apps (PWAs) FTW — Pt. 2 | by Omer Goldberg | HackerNoon.com | Medium](https://medium.com/hackernoon/progressive-web-apps-pwas-ftw-pt-2-31c2779e55c4)
 [A Gentle and Practical Introduction to Progressive Web Apps](https://www.telerik.com/blogs/a-gentle-and-practical-introduction-to-progressive-web-apps)
 [A Practical Introduction to Progressive Web Apps - Part 2](https://www.telerik.com/blogs/gentle-and-practical-introduction-to-progressive-web-apps-part-2)
 
@@ -254,7 +257,12 @@ If the site is rendered ahead of time at build, it is known as "Static Site Gene
 
 ## Responsive Design
 
-[The guide to responsive web design in 2021 | Webflow Blog](https://webflow.com/blog/responsive-web-design)
+[The guide to responsive web design in 2023](https://webflow.com/blog/responsive-web-design)
+
+[Useful & Responsive Layouts, no Media Queries required - YouTube](https://www.youtube.com/watch?v=p3_xN2Zp1TY)
+
+`@media (max-width: width)`: desktop first design (styles change on small screen)
+`@media (min-width: width)`: mobile first design (styles change on large screen)
 
 [The start of a new era for Responsive Web Design | by Francois Brill | Oct, 2021 | UX Collective](https://uxdesign.cc/the-start-of-a-new-era-for-responsive-web-design-6658a6bbeb9b)
 
@@ -670,6 +678,8 @@ convert -resize x60  input.png apple-touch-icon-60x60.png
 [</> htmx - high power tools for html](https://htmx.org/)
 [Htmx: HTML Approach to Interactivity in a JavaScript World – The New Stack](https://thenewstack.io/htmx-html-approach-to-interactivity-in-a-javascript-world/)
 
+[Golang + HTMX - Creating a Go webserver / HTMX Integration / Template Fragments - YouTube](https://www.youtube.com/watch?v=F9H6vYelYyU)
+
 ### Hotwire/Stimulus
 
 [HTML Over The Wire | Hotwire](https://hotwired.dev/)
@@ -923,6 +933,8 @@ Color issue:
 
 ## Web churn
 
+[Has Web Dev Gotten Worse? - YouTube](https://www.youtube.com/watch?v=AqMcI_9C5sg) new frameworks extends the scopes and features, so they seems more complex; but working full stack is easier
+
 [Disappearing Frameworks - Samsung Internet Developers - Medium](https://medium.com/samsung-internet-dev/disappearing-frameworks-ed921f411c38)
 
 [Why is it so hard to find a good front end developer? — The Creative Business — Medium](https://medium.com/creative-business/why-is-it-so-hard-to-find-a-front-end-developer-cb92848a7c6f#.syxa2dzdw)
@@ -975,6 +987,8 @@ Forward?
 [Learn CSS Scroll Snap In 6 Minutes - YouTube](https://www.youtube.com/watch?v=ytl6TrroGis)
 
 [Expanding Grid Cards with View Transitions - Chris Coyier](https://chriscoyier.net/2023/04/11/expanding-grid-cards-with-view-transitions/)
+
+[【动画进阶】神奇的 3D 磨砂玻璃透视效果 - ChokCoco - 博客园](https://www.cnblogs.com/coco1s/p/17613422.html)
 
 [Gooey Menu](https://codepen.io/lbebber/pen/LELBEo)
 [Sidebar Menu Using Html CSS & Javascript | Curved Outside in Active Tab - YouTube](https://www.youtube.com/watch?v=P_A2kNpyQBs)

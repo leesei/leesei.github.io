@@ -2,9 +2,9 @@
 title: Zig Programming Language
 description: General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 created: 2023-03-24
-updated: 2023-03-29
+updated: 2023-08-04
 tags:
-  - comp.lang
+  - comp/lang
   - package-manager
 ---
 
@@ -40,6 +40,7 @@ zig zen
 [nrdmn/awesome-zig](https://github.com/nrdmn/awesome-zig) 😴inactive
 [build system terminology update: package, project, module, dependency · Issue #14307 · ziglang/zig](https://github.com/ziglang/zig/issues/14307)
 
+[Zig in 100 Seconds - YouTube](https://www.youtube.com/watch?v=kxT8-C1vmd4)
 [CppCast Episode 342: Zig with Andrew Kelley - YouTube](https://www.youtube.com/watch?v=AdP6seB4sp4) 2022
 
 [Prime Reacts: Is This NEW Language BETTER Than Rust? C++? (Zig First Impressions) - YouTube](https://www.youtube.com/watch?v=alp_Sx5qhn0)

@@ -2,7 +2,7 @@
 title: Next.js
 description: ""
 created: 2021-01-19
-updated: 2023-03-21
+updated: 2023-07-27
 tags:
   - reactjs
   - static-site
@@ -61,7 +61,6 @@ npx build && npx export -o build/ # static HTML (SSG) without need of app server
 [How to Start ReactJS Development Fast: 3 Solid Tools and Best Practices - Codica](https://www.codica.com/blog/how-to-start-reactjs-development-fast-3-solid-tools-and-best-practices/)
 [Best practices to increase the speed for Next.js apps - Stack Overflow Blog](https://stackoverflow.blog/2022/03/30/best-practices-to-increase-the-speed-for-next-js-apps/)
 
-[The Jamstack with Next.js and Prisma](https://www.prisma.io/blog/jamstack-with-nextjs-prisma-jamstackN3XT)
 [How to Integrate MongoDB Into Your Next.js App](https://developer.mongodb.com/how-to/nextjs-with-mongodb/)
 [How NextJS REALLY Works - YouTube](https://www.youtube.com/watch?v=d2yNsZd5PMs)
 [5 Reasons I Use Next.js Over Plain React - YouTube](https://www.youtube.com/watch?v=6jWWKczzGM0) 2021-01
@@ -152,7 +151,10 @@ Data fetching is by default on server side. But you can use cache (`next` field)
 [Next.js 13 - Layouts and Pages Explained in 20 mins or so - YouTube](https://www.youtube.com/watch?v=zbYBgy_ChGY)
 [Next.js App Router: Routing, Data Fetching, Caching - YouTube](https://www.youtube.com/watch?v=gSSsZReIFRk)
 [Are React Server Components Really Slower? - YouTube](https://www.youtube.com/watch?v=3Q2q2gs0nAI)
+[Next.js App Router REVIEW (Six Months In Prod) - YouTube](https://www.youtube.com/watch?v=zsa9Ey9INEg)
 
+[AddyOsmani.com - React Server Components, Next.js App Router and examples](https://addyosmani.com/blog/react-server-components-app-router/)
+[Working with the app directory in Next.js 13 - LogRocket Blog](https://blog.logrocket.com/next-js-13-app-directory/)
 [Building Your Application: Routing | Next.js](https://nextjs.org/docs/app/building-your-application/routing)
 [Blog - Next.js 13.4 | Next.js](https://nextjs.org/blog/next-13-4) App Router, customize app layout in `_app.tsx`, customize initial page load in`_document.js` (with Next's HTML components)
 

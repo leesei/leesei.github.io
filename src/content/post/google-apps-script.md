@@ -2,6 +2,7 @@
 title: Google Apps Script
 description: ""
 created: 2021-02-27
+updated: 2023-07-27
 tags:
   - gas
   - google
@@ -150,6 +151,7 @@ clasp deploy 1 "First deployment"
 [jamiewilson/form-to-google-sheets: Store HTML form submissions in Google Sheets.](https://github.com/jamiewilson/form-to-google-sheets)
 [How to Submit an HTML Form to Google Sheets…without Google Forms](https://medium.com/@dmccoy/how-to-submit-an-html-form-to-google-sheets-without-google-forms-b833952cc175)
 [Google Spreadsheets as a Database – INSERT with Apps Script form POST/GET submit method – MASHe](https://mashe.hawksey.info/2011/10/google-spreadsheets-as-a-database-insert-with-apps-script-form-postget-submit-method/)
+[Turn Google Sheets into Your Own Database with Python | by The PyCoach | Towards Data Science](https://towardsdatascience.com/turn-google-sheets-into-your-own-database-with-python-4aa0b4360ce7)
 
 ### Sheet -> Form
 

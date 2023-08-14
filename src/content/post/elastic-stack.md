@@ -2,8 +2,9 @@
 title: Elastic Stack
 description: ""
 created: 2015-08-03
+updated: 2023-07-09
 tags:
-  - database
+  - comp/database
   - elastic-stack
   - visualization
 ---
@@ -117,14 +118,16 @@ Includes the following features:
 
 [Elastic Stack (X-Pack) Alternatives: Free, Open Source, Commercial & Cloud Services](https://sematext.com/blog/x-pack-alternatives/)
 
+[Secure the Elastic Stack | Elasticsearch Guide [8.8] | Elastic](https://www.elastic.co/guide/en/elasticsearch/reference/current/secure-cluster.html)
+[How to Secure Elasticsearch and Kibana | MapR](https://mapr.com/blog/how-secure-elasticsearch-and-kibana/)
+
 [ReadonlyREST](https://readonlyrest.com/)
 [sscarduzio/elasticsearch-readonlyrest-plugin: Free Elasticsearch and Kibana security plugin: super-easy Kibana multi-tenancy, Encryption, Authentication, Authorization, Auditing](https://github.com/sscarduzio/elasticsearch-readonlyrest-plugin)
 [Authentication in Elasticsearch without shield or x-pack - Software, Soul and other small things](http://ikeptwalking.com/authentication-elasticsearch-without-shield-x-pack/)
 
 [Search Guard | Security for Elasticsearch and the ELK stack](https://search-guard.com/)
-[floragunncom/search-guard: Search Guard is an Open Source Elasticsearch plugin that offers encryption, authentication, and authorisation.](https://github.com/floragunncom/search-guard)
-
-[How to Secure Elasticsearch and Kibana | MapR](https://mapr.com/blog/how-secure-elasticsearch-and-kibana/)
+[Explore projects · GitLab](https://git.floragunn.com/explore/projects)
+[Dear Search Guard users #2, including Amazon Elasticsearch Service and Open Distro, and others | Elastic Blog](https://www.elastic.co/blog/dear-search-guard-users-including-amazon-elasticsearch-service-open-distro-and-others)
 
 ## Video
 

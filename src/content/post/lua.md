@@ -3,7 +3,7 @@ title: Lua
 description: ""
 created: 2016-03-22
 tags:
-  - comp.lang
+  - comp/lang
   - lua
 ---
 

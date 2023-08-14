@@ -3,7 +3,7 @@ title: TypeScript Notes
 description: ""
 created: 2014-12-11
 tags:
-  - comp.lang
+  - comp/lang
   - typescript
 ---
 

@@ -2,6 +2,7 @@
 title: PC Games
 description: ""
 created: 2018-01-03
+updated: 2023-08-14
 tags:
   - games
 ---
@@ -305,23 +306,43 @@ Login Steam first:
 [Boiling Steam - PC GAMING WITH LINUX IS SO TOMORROW](https://boilingsteam.com/)
 [Linux, SteamOS, Steam Deck gaming | GamingOnLinux](https://www.gamingonlinux.com/)
 [Gaming On Linux - YouTube](https://www.youtube.com/@Gamingonlinux)
-[tkashkin/GameHub: All your games in one place](https://github.com/tkashkin/GameHub)
 
 [Steam/Game-specific troubleshooting - ArchWiki](https://wiki.archlinux.org/title/Steam/Game-specific_troubleshooting)
-[A Kickstart Guide Of Non-Steam Games, Prefixes, Lutris, Winetricks, how to install "any game", and under the hood stuff : SteamDeck](https://www.reddit.com/r/SteamDeck/comments/w16nio/a_kickstart_guide_of_nonsteam_games_prefixes/)
 
 [THE GAMING ON LINUX GUIDE: How to play anything: Steam, Epic, Ubisoft, Origin, Battle.net, GoG... - YouTube](https://www.youtube.com/watch?v=v9tb1gTTbJE)
 
+[tkashkin/GameHub: All your games in one place](https://github.com/tkashkin/GameHub)
+[kra-mo/cartridges: A GTK4 + Libadwaita game launcher](https://github.com/kra-mo/cartridges)
+
+[PhilipK/BoilR: Synchronize games from other platforms into your Steam library](https://github.com/PhilipK/BoilR)
+
+[How to write a Windows emulator for Linux from scratch - YouTube](https://www.youtube.com/watch?v=8-N7wDCRohg)
+
+### Proton
+
 [Steam Play | GamingOnLinux](https://www.gamingonlinux.com/steamplay/) Steam Play is the feature, with Proton as one of the runtime
+[A simple guide to Steam Play, Valve's technology for playing Windows games on Linux | GamingOnLinux](https://www.gamingonlinux.com/2019/07/a-simple-guide-to-steam-play-valves-technology-for-playing-windows-games-on-linux/)
 [A simple guide to Steam Play, Valve's technology for playing Windows games on Linux | GamingOnLinux](https://www.gamingonlinux.com/articles/14552/)
 [Steam for Linux :: Introducing a new version of Steam Play](https://steamcommunity.com/games/221410/announcements/detail/1696055855739350561)
 [ProtonDB | Gaming reports for Linux using Proton and Steam Play](https://www.protondb.com/)
 [How To Enable Steam Play On Linux To Run Windows Games](https://fosspost.org/tutorials/enable-steam-play-on-linux-to-run-windows-games)
 [Can Valve Save Linux Gaming In 2021? | by Jason Evangelho | Linux For Everyone | Jan, 2021 | Medium](https://medium.com/linuxforeveryone/can-valve-save-linux-gaming-in-2021-e55e03e4ec15)
 
-[The Proton GE Steam Deck Guide - Steam Deck HQ](https://steamdeckhq.com/tips-and-guides/the-proton-ge-steam-deck-guide/)
 [Proton vs Native: Is There Really A Difference? - Boiling Steam](https://boilingsteam.com/proton-vs-native-is-there-really-a-difference/)
+
+[GloriousEggroll/proton-ge-custom: Compatibility tool for Steam Play based on Wine and additional components](https://github.com/GloriousEggroll/proton-ge-custom)
+[The Proton GE Steam Deck Guide - Steam Deck HQ](https://steamdeckhq.com/tips-and-guides/the-proton-ge-steam-deck-guide/)
+
+[DavidoTek/ProtonUp-Qt: Install and manage GE-Proton, Luxtorpeda & more for Steam and Wine-GE & more for Lutris with this graphical user interface.](https://github.com/DavidoTek/ProtonUp-Qt)
+
+- select Steam at the top
+- install GE-Proton
+- reload Steam to update the compatibility layer list
+
+### The Hard Way
+
 [Using WINE Prefixes - Linux Tutorials - Learn Linux Configuration](https://linuxconfig.org/using-wine-prefixes)
+[A Kickstart Guide Of Non-Steam Games, Prefixes, Lutris, Winetricks, how to install "any game", and under the hood stuff : SteamDeck](https://www.reddit.com/r/SteamDeck/comments/w16nio/a_kickstart_guide_of_nonsteam_games_prefixes/)
 
 [Easily run Windows software on Linux with Bottles! ⋅ Bottles](https://usebottles.com/)
 [Lutris - Open Gaming Platform](https://lutris.net/)
@@ -329,15 +350,14 @@ Login Steam first:
 [Here's how you can use Proton with the latest version of Lutris : wine_gaming](https://www.reddit.com/r/wine_gaming/comments/kb92nr/heres_how_you_can_use_proton_with_the_latest/)
 [Getting started with Lutris - YouTube](https://www.youtube.com/watch?v=6S8zsfqsgfw)
 
-[PhilipK/BoilR: Synchronize games from other platforms into your Steam library](https://github.com/PhilipK/BoilR)
+### Epic Games
 
-[How to write a Windows emulator for Linux from scratch - YouTube](https://www.youtube.com/watch?v=8-N7wDCRohg)
+[derrod/legendary: Legendary - A free and open-source replacement for the Epic Games Launcher](https://github.com/derrod/legendary) backend to interact with Epic
 
-### Heroic Games Launcher
+[Rare: Open-Source Epic Games Launcher Alternative](https://news.itsfoss.com/rare/)
 
 [Heroic Games Launcher](https://heroicgameslauncher.com/)
 [Heroic-Games-Launcher/HeroicGamesLauncher: A Native GOG and Epic Games Launcher for Linux, Windows and Mac.](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
-[derrod/legendary: Legendary - A free and open-source replacement for the Epic Games Launcher](https://github.com/derrod/legendary) backend for HeroicGamesLauncher
 [Home · CommandMC/EpicLinux Wiki](https://github.com/CommandMC/EpicLinux/wiki)
 [Steam Deck desktop mode plus other stores — Epic Games Store | GamingOnLinux](https://www.gamingonlinux.com/2022/02/steam-deck-desktop-mode-plus-other-stores-like-the-epic-games-store/)
 
@@ -437,13 +457,33 @@ Fallout 76 is an online only game with in-game store.
 
 ---
 
+[[baldurs-gate]]
+[[borderlands]]
+[[call-of-duty]]
+[[cyberpunk-2077]]
 [[diablo]]
 [[dragon-dogma]]
+[[fallout]]
+[[far-cry]]
+[[god-of-war]]
+[[gta]]
+[[skyrim]]
+[[star-wars-games]]
+[[starbound]]
+[[tales-series]]
+[[tomb-raider]]
+[[watch-dogs]]
+[[witcher]]
 
 # Plants vs. Zombies: Garden Warfare 2
 
 [Plants vs. Zombies: Garden Warfare 2 Wiki Guide - IGN](https://www.ign.com/wikis/plants-vs-zombies-garden-warfare-2/)
 [Category:Plants vs. Zombies: Garden Warfare 2 | Plants vs. Zombies Wiki | Fandom](https://plantsvszombies.fandom.com/wiki/Category:Plants_vs._Zombies:_Garden_Warfare_2)
+
+# Team Fortress 2
+
+[The Winglet - YouTube](https://www.youtube.com/@the_winglet)
+[Crash Maul - YouTube](https://www.youtube.com/@CrashMaul)
 
 # Warframe
 
@@ -470,22 +510,6 @@ Skill Up
 [Warframe : Beginner Guide 2.5 (July 2016) Episode 3 The jackal boss, Rhino parts, mods and more! - YouTube](https://www.youtube.com/watch?v=vdEDkeEZZkE)
 [Warframe: Everything You Need To Know About - YouTube](https://www.youtube.com/playlist?list=PLUUaJNS7yZIEeKwnO7yK19hed9HY_ZEH5)
 
-# Call of Duty
-
-[Call of Duty - Wikiwand](http://www.wikiwand.com/en/Call_of_Duty)
-[History of Call of Duty (2003 - 2019) - YouTube](https://www.youtube.com/watch?v=_I9l261A_fY)
-[The Call of Duty Modern Warfare Series Timeline | The Leaderboard - YouTube](https://www.youtube.com/watch?v=tr2yBSSGCWY)
-[Call of Duty: Black Ops Saga Story Summary - What You Need to Know! - YouTube](https://www.youtube.com/watch?v=PYFs_uvekjQ)
-[The Complete Call Of Duty Black Ops Timeline - From WAW To Black Ops 3 | The Leaderboard - YouTube](https://www.youtube.com/watch?v=QV_oujlFkjE)
-[Call of Duty: Modern Warfare (2019) Story Summary - What You Need to Know! [SPOILERS] - YouTube](https://www.youtube.com/watch?v=gFjGrBoQFaE)
-[盤點《決勝時刻：現代戰爭》那些令人印象深刻的角色們 - YouTube](https://www.youtube.com/watch?v=y46_cCt2XeI)
-
-CoD 1-3, CoD:WAW are good games in World War II era
-[從《使命召喚：黑色行動 4》看單機和多人的戰爭【就知道玩遊戲 37】 - YouTube](https://www.youtube.com/watch?v=8WWbVgs6ct8)
-[Why Was Call of Duty: World At War SO AWESOME?! - YouTube](https://www.youtube.com/watch?v=Q2w9QNNfEeU)
-
-CoD MW 1-2, CoD Black Ops 1-2 are the only one that's worth playing for modern era
-
 # Halo
 
 [Halo Recapped: The Complete Timeline So Far (Halo Lore) - YouTube](https://www.youtube.com/watch?v=y6DtLNPet0k)
@@ -503,36 +527,6 @@ CoD MW 1-2, CoD Black Ops 1-2 are the only one that's worth playing for modern e
 
 [Psychonauts 2 Full Story & Ending Explained | Screen Rant](https://screenrant.com/psychonauts-2-full-story-ending-maligula-raz/)
 
-# Far Cry
-
-[Far Cry - Wikiwand](https://www.wikiwand.com/en/Far_Cry)
-
-[Ranking The Far Cry Games From Worst To Best - YouTube](https://www.youtube.com/watch?v=1vWVc2-r2uA)
-Primal > Blood dragon > 5 > 2 > 4
-[Skip-ale] 3 > 1 (Crytek)
-
-Open Primal, 5, 2
-Linear, bad story 4, 3
-Minimal HUD 2
-
-## Far Cry Primal
-
-[Far Cry Primal - YouTube](https://www.youtube.com/playlist?list=PLs1-UdHIwbo7HOqUbTsUKkvfR-2ETke1o) theRadBrad
-[Farcry Primal - YouTube](https://www.youtube.com/playlist?list=PLbxmRqhvbmN7qHaQccZYs_YWiPbfpcJTI) MenWhoStareAtGames
-
-[Far Cry Primal Walkthrough and Guide](https://www.supercheats.com/far-cry-primal/walkthrough/)
-
-[Steam Community :: Far Cry Primal](https://steamcommunity.com/app/371660/guides/)
-[Steam Community :: Guide :: Far Cry Primal Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=643489237)
-[Steam Community :: Guide :: Map of Oros with ALL collectibles and hunter caches.](https://steamcommunity.com/sharedfiles/filedetails/?id=1611099637)
-[Steam Community :: Guide :: Rare Animals of Oros: Finding, Hunting and Taming.](https://steamcommunity.com/sharedfiles/filedetails/?id=1194597530)
-[Steam Community :: Guide :: Far Cry Primal - Complete Crafting and Weapons Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=841446000)
-
-[Steam Community :: Guide :: Tamable Animals in Far Cry: Primal](https://steamcommunity.com/sharedfiles/filedetails/?id=838624010)
-[Far Cry Primal animal taming guide | Far Cry Primal](https://www.gameskinny.com/eqr92/far-cry-primal-animal-taming-guide)
-[Far Cry Primal Animal List | Far Cry Wiki | FANDOM powered by Wikia](https://farcry.fandom.com/wiki/Far_Cry_Primal_Animal_List)
-[Far Cry Primal - All the Pet Animals - YouTube](https://www.youtube.com/watch?v=cKE2tsvwK5E)
-
 # Crysis
 
 [Crysis - Wikiwand](https://www.wikiwand.com/en/Crysis)
@@ -549,84 +543,16 @@ Minimal HUD 2
 [The best settings for Mass Effect Legendary Edition | PC Gamer](https://www.pcgamer.com/mass-effect-legendary-edition-settings-pc-performance/)
 [Mass Effect 1 Legendary Edition review | PC Gamer](https://www.pcgamer.com/mass-effect-1-legendary-edition-review/)
 
-# GTA
+# MineClone2
 
-[Grand Theft Auto - Wikiwand](https://www.wikiwand.com/en/Grand_Theft_Auto)
-[GTA Wiki | Fandom](https://gta.fandom.com/wiki/Main_Page)
-
-[《GTA》為什麼這麼好玩？論 GTA 如何定義「開放世界」【就知道玩遊戲 32】 - YouTube](https://www.youtube.com/watch?v=-SPO_xWxa4s)
-[The History of Grand Theft Auto, Lemmings & DMA Design - YouTube](https://www.youtube.com/watch?v=Ev7FqNa5rD0)
-[這麼”醜”的遊戲為什麼是傳奇?「俠盜獵車手三部曲終極版」鑒賞 (上) - GTA III Definitive Edition - YouTube](https://www.youtube.com/watch?v=QQBzIAuM-CU)
-[有多罪惡, 就有多快樂~「GTA 三部曲終極版」鑒賞 (中) - 罪惡城市 Vice City Definitive Edition 4K - YouTube](https://www.youtube.com/watch?v=m6wSPwDeKJ0)
-[遊戲史上最大尺度的法律風波!「俠盜獵車手三部曲」鑒賞(下) - 聖安地列斯 GTA San Andreas Definitive Edition 4K - YouTube](https://www.youtube.com/watch?v=kbUI2wlu2o8)
-
-Liberty City (New York City)
-Vice City (Miami)
-San Andreas (California state)
-Los Santos (Los Angeles)
-San Fierro (San Francisco)
-Las Venturas (Las Vegas)
-
-## GTA IV
-
-[最黑暗的 GTA?「俠盜獵車手 4」專題 - 夢碎自由城 4K Grand Theft Auto IV 2008 - YouTube](https://www.youtube.com/watch?v=o757drPKMcY)
-[最悲慘的 GTA 主角!「俠盜獵車手 4」專題 - 失落與詛咒 DLC 4K Grand Theft Auto IV The Lost and Damned - YouTube](https://www.youtube.com/watch?v=ojHxZHrlkZI)
-["基佬"的江湖~「俠盜獵車手 4」專題 - 夜生活之歌 DLC 4K Grand Theft Auto IV The Ballad of Gay Tony 2009 - YouTube](https://www.youtube.com/watch?v=a8hNFKgURAc)
-
-## GTA V
-
-[Grand Theft Auto V | GTA Wiki | Fandom](https://gta.fandom.com/wiki/Grand_Theft_Auto_V)
-[Director Mode | GTA Wiki | Fandom](https://gta.fandom.com/wiki/Director_Mode)
-
-[「GTA5/俠盜獵車手 5」專題 (上): 七年橫跨三世代, 一場完美的狂歡 Grand Theft Auto 2013 - YouTube](https://www.youtube.com/watch?v=SUSIfcCEntQ)
-[「GTA5/俠盜獵車手 5」專題 (下): 故事永不完結，神作永不褪色 Grand Theft Auto 2013 - YouTube](https://www.youtube.com/watch?v=8dAk-mKBDic&t=0s)
-
-[GTA V All Easter Eggs And Secrets - YouTube](https://www.youtube.com/watch?v=bOEk-ZZVUO4)
-[TOP 500 FUNNIEST FAILS IN GTA 5 - YouTube](https://www.youtube.com/watch?v=NY8wS8QblAw)
-
-### Mods
-
-[GTA5-Mods.com - Your source for the latest GTA 5 car mods, scripts, tools and more.](https://www.gta5-mods.com/)
-[GTA X Scripting: my GTA V mods](https://gtaxscripting.blogspot.com/p/my-v-mods.html)
-
-[GTAV Mod Manager - GTA5-Mods.com](https://www.gta5-mods.com/tools/gtav-mod-manager)
-
-[Community Script Hook V .NET - GTA5-Mods.com](https://www.gta5-mods.com/tools/scripthookv-net)
-[Script Hook V + Native Trainer - GTA5-Mods.com](https://www.gta5-mods.com/tools/script-hook-v)
-[GTA X Scripting: Scripting Tutorials](https://gtaxscripting.blogspot.com/p/tutorials.html)
-
-[Best GTA 5 mods: transform Grand Theft Auto V | TechRadar](https://www.techradar.com/news/best-gta-5-mods)
-
-[Vice Cry:Remastered - GTA5-Mods.com](https://www.gta5-mods.com/maps/vicecity-in-v)
+[Minetest | Open source voxel game engine](https://www.minetest.net/)
+[MineClone2/MineClone2: MineClone2, a voxel-based sandbox game for Minetest - MineClone2 - Mesehub](https://git.minetest.land/MineClone2/MineClone2)
 
 # Mad Max
 
 [Mad Max Review - YouTube](https://www.youtube.com/watch?v=doo0U34L0lY)
 [The History of Mad Max Video Games - YouTube](https://www.youtube.com/watch?v=o0g5hvx1lwA)
 [Behind the scenes - Cars : Mad Max : Fury Road - YouTube](https://www.youtube.com/watch?v=9L67BiENzYs)
-
-# Tomb Raider
-
-[History of Tomb Raider (1996 - 2018) - YouTube](https://www.youtube.com/watch?v=K09niWRULuM)
-
-The original trilogy debuted in this order from first to last:
-Tomb Raider: Legend (2006)
-Tomb Raider: Anniversary (2007)
-Tomb Raider: Underworld (2008)
-
-However, the story is in this sequence from first to last:
-Anniversary
-Legend
-Underworld
-
-The new reboot trilogy (Definitive Survivor Trilogy):
-Tomb Raider (2013)
-Rise of the Tomb Raider (2015)
-Shadow of the Tomb Raider (2018)
-[The Complete Tomb Raider Reboot Timeline | The Leaderboard - YouTube](https://www.youtube.com/watch?v=iMfcjPy5V8g)
-
-[《古墓奇兵: 崛起》繪圖與效能指南 | GeForce](https://www.nvidia.com/zh-tw/geforce/news/rise-of-the-tomb-raider-graphics-and-performance-guide)
-[The Lost City Trebuchet bug :: Rise of the Tomb Raider General Discussions](https://steamcommunity.com/app/391220/discussions/0/451852225141500566/)
 
 # ReCore
 
@@ -680,70 +606,6 @@ Oddworld: Soulstorm: Remake of Abe's Exoddus, the true part two
 
 [Remnant: From The Ashes - The Review - YouTube](https://www.youtube.com/watch?v=7UdjGDggN8Y)
 [REMNANT FROM THE ASHES | 5 Things I Wish I Knew Before Playing - YouTube](https://www.youtube.com/watch?v=prPX0m5uH2s) Exp+ SMG
-
-# Elder Scroll V Skyrim
-
-[The Elder Scrolls V: Skyrim | Elder Scrolls | FANDOM powered by Wikia](https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Skyrim)
-[Crazy Skyrim Rumors That Turned Out To Actually Be True](https://gamerant.com/skyrim-most-wild-rumors-came-true/amp/)
-[10 Things To Do In Skyrim Most Players Never Discover](https://screenrant.com/discover-skyrim-player-tricks-tips/amp/)
-
-The old version supports all mods with achievements
-[The Elder Scrolls V: Skyrim on Steam](https://store.steampowered.com/app/72850/The_Elder_Scrolls_V_Skyrim/)
-[The Elder Scrolls V: Skyrim - Dawnguard on Steam](https://store.steampowered.com/app/211720/The_Elder_Scrolls_V_Skyrim__Dawnguard/)
-[The Elder Scrolls V: Skyrim - Hearthfire on Steam](https://store.steampowered.com/app/220760/The_Elder_Scrolls_V_Skyrim__Hearthfire/)
-[The Elder Scrolls V: Skyrim - Dragonborn on Steam](https://store.steampowered.com/app/226880/The_Elder_Scrolls_V_Skyrim__Dragonborn/)
-
-[Buy The Elder Scrolls® V: Skyrim® - Legendary Edition from the Humble Store](https://www.humblebundle.com/store/the-elder-scrolls-v-skyrim-legendary-edition)
-[The Elder Scrolls V: Skyrim - Legendary Edition | PC Steam Game | Fanatical](https://www.fanatical.com/en/game/the-elder-scrolls-v-skyrim-legendary-edition)
-
-## Mods
-
-[Skyrim Script Extender (SKSE) on Steam](https://store.steampowered.com/app/365720/Skyrim_Script_Extender_SKSE/)
-
-[Skyrim Nexus - mods and community](https://www.nexusmods.com/skyrim)
-[Mods - Elder Scrolls V: Skyrim - Mod DB](https://www.moddb.com/games/skyrim/mods)
-
-[Top mods at Skyrim Nexus - mods and community](https://www.nexusmods.com/skyrim/mods/top/)
-[The best Skyrim mods | PC Gamer](https://www.pcgamer.com/best-skyrim-mods/)
-[Skyrim Mods - YouTube](https://www.youtube.com/playlist?list=PLc_GLmxEIywEfNyYndwW3y4x7RSGFp9fx)
-
-[Skyrim Special Edition Nexus - Mods and Community](https://www.nexusmods.com/skyrimspecialedition)
-[Bethesda.net](https://bethesda.net/en/mods/skyrim)
-[Mod Recommendations for Skyrim Special Edition - YouTube](https://www.youtube.com/watch?v=rB1AHcdkXqI)
-[Skyrim Graphic Enhancements - YouTube](https://www.youtube.com/playlist?list=PLc_GLmxEIywGgImp4X-WEFPnM7IkS8qVt)
-[Skyrim Followers - YouTube](https://www.youtube.com/playlist?list=PLc_GLmxEIywE19Xg9D62jf3NgTgN3vi7I)
-
-[SkyUI at Skyrim Special Edition Nexus - Mods and Community](https://www.nexusmods.com/skyrimspecialedition/mods/12604)
-[Unofficial Skyrim Special Edition Patch at Skyrim Special Edition Nexus - Mods and Community](https://www.nexusmods.com/skyrimspecialedition/mods/266)
-[A Quality World Map at Skyrim Special Edition Nexus - Mods and Community](https://www.nexusmods.com/skyrimspecialedition/mods/5804)
-
-[Alternate Start - Live Another Life - SSE at Skyrim Special Edition Nexus - Mods and Community](https://www.nexusmods.com/skyrimspecialedition/mods/272/?)
-[Ordinator - Perks of Skyrim at Skyrim Special Edition Nexus - Mods and Community](https://www.nexusmods.com/skyrimspecialedition/mods/1137)
-
-[Static Mesh Improvement Mod - SMIM at Skyrim Special Edition Nexus - Mods and Community](https://www.nexusmods.com/skyrimspecialedition/mods/659)
-[High Poly Project at Skyrim Special Edition Nexus - Mods and Community](https://www.nexusmods.com/skyrimspecialedition/mods/12029)
-[Total Character Makeover at Skyrim Special Edition Nexus - Mods and Community](https://www.nexusmods.com/skyrimspecialedition/mods/1037/?)
-[NobleSkyrimMod HD-2K at Skyrim Nexus - mods and community](https://www.nexusmods.com/skyrim/mods/45807/?) download for SE
-[aMidianBorn Book of Silence at Skyrim Nexus - mods and community](https://www.nexusmods.com/skyrim/mods/24909/?) download for SE
-[HD LODs Textures SE at Skyrim Special Edition Nexus - Mods and Community](https://www.nexusmods.com/skyrimspecialedition/mods/3333)
-[Skyrim 2020 with Parallax by Pfuscher at Skyrim Special Edition Nexus - Mods and Community](https://www.nexusmods.com/skyrimspecialedition/mods/2347?tab=files)
-[Realistic Water Two at Skyrim Special Edition Nexus - Mods and Community](https://www.nexusmods.com/skyrimspecialedition/mods/2182/?)
-[Skyrim Flora Overhaul SE at Skyrim Special Edition Nexus - Mods and Community](https://www.nexusmods.com/skyrimspecialedition/mods/2154)
-[Realistic Lighting Overhaul SSE at Skyrim Special Edition Nexus - Mods and Community](https://www.nexusmods.com/skyrimspecialedition/mods/844/?)
-[Real Bows (by DecimusMaximus for SSE) at Skyrim Special Edition Nexus - Mods and Community](https://www.nexusmods.com/skyrimspecialedition/mods/3144)
-[Detailed Rugs at Skyrim Special Edition Nexus - Mods and Community](https://www.nexusmods.com/skyrimspecialedition/mods/9030/)
-[TROLL at Skyrim Special Edition Nexus - Mods and Community](https://www.nexusmods.com/skyrimspecialedition/mods/4682)
-[Wet and Cold at Skyrim Special Edition Nexus - Mods and Community](https://www.nexusmods.com/skyrimspecialedition/mods/644/?)
-[True Storms Special Edition - Thunder Rain and Weather Redone at Skyrim Special Edition Nexus - Mods and Community](https://www.nexusmods.com/skyrimspecialedition/mods/2472/?)
-[Immersive Citizens - AI Overhaul SE at Skyrim Special Edition Nexus - Mods and Community](https://www.nexusmods.com/skyrimspecialedition/mods/173/?)
-[RUSTIC CLOTHING - Special Edition at Skyrim Special Edition Nexus - Mods and Community](https://www.nexusmods.com/skyrimspecialedition/mods/4703/?)
-[Immersive Armors at Skyrim Special Edition Nexus - Mods and Community](https://www.nexusmods.com/skyrimspecialedition/mods/3479/?)
-[Immersive Sounds - Compendium at Skyrim Special Edition Nexus - Mods and Community](https://www.nexusmods.com/skyrimspecialedition/mods/523/?)
-[Unique Uniques SE at Skyrim Special Edition Nexus - Mods and Community](https://www.nexusmods.com/skyrimspecialedition/mods/3334/?)
-
-[UNP Body Fit Armors and Clothing at Skyrim Special Edition Nexus - Mods and Community](https://www.nexusmods.com/skyrimspecialedition/mods/11136)
-
-Enhanced Blood Textures: [http://www.nexusmods.com/skyrimspecia...](https://www.youtube.com/redirect?redir_token=cz_XUSDThbGi08rLoroMyODaDm98MTU3NTA5Nzc0MEAxNTc1MDExMzQw&event=video_description&v=rB1AHcdkXqI&q=http%3A%2F%2Fwww.nexusmods.com%2Fskyrimspecialedition%2Fmods%2F2357%2F%3F)
 
 # Portals
 
@@ -831,6 +693,17 @@ r_soft_shadows none
 
 [ProtonDB | Game Details for Divinity: Original Sin 2 - Definitive Edition](https://www.protondb.com/app/435150)
 [Divinity original sin 2 won't launch : SteamDeck](https://www.reddit.com/r/SteamDeck/comments/vkaczb/divinity_original_sin_2_wont_launch/)
+
+# Gears of War
+
+[GEARS OF WAR - The Complete History and Lore - YouTube](https://www.youtube.com/watch?v=Zd7CWEQ4fOo)
+[Everything GREAT About Gears of War! - YouTube](https://www.youtube.com/watch?v=Pmzuq8ETpu0)
+[The FULL Locust War TIMELINE in Gears of War Lore - YouTube](https://www.youtube.com/watch?v=e_1YEQ5-s1I)
+[GEARS OF WAR - Locust Horde MOVIE (Gears of War Lore) - YouTube](https://www.youtube.com/watch?v=r8iUst7GgrA)
+[The Gears of War Iceberg Explained - YouTube](https://www.youtube.com/watch?v=if_-55WIim8)
+
+[King Abz - YouTube](https://www.youtube.com/@KingAbzTV)
+[The COG WEAPONS in Gears of War Lore - YouTube](https://www.youtube.com/watch?v=GI0TJiq9BJY)
 
 # Red Dead Redemption 2
 
@@ -965,41 +838,6 @@ NG 小熊
 
 [星际争霸 - 神奇的张先生 - YouTube](https://www.youtube.com/channel/UCiGO_n_66dNJgIwiGYVpiVQ/search?query=%E6%98%9F%E9%99%85%E4%BA%89%E9%9C%B8)
 
-# Star Wars
-
-[Why Was Star Wars: Battlefront 2 SO AWESOME?! (Classic, 2005) - YouTube](https://www.youtube.com/watch?v=2fJidsBpexY)
-[Former LucasArts employee on why Star Wars: Battlefront III failed - GameSpot](https://www.gamespot.com/articles/former-lucasarts-employee-on-why-star-wars-battlefront-iii-failed/1100-6400936/)
-
-# Fallout
-
-[Fallout Wiki | FANDOM powered by Wikia](https://fallout.fandom.com/wiki/Fallout_Wiki)
-[Fallout 4: What makes you S.P.E.C.I.A.L. (All S.P.E.C.I.A.L. videos combined) - YouTube](https://www.youtube.com/watch?v=AY2jPAb6BOQ)
-
-# Fallout: New Vegas
-
-[Steam Community :: Fallout: New Vegas](https://steamcommunity.com/app/22380/guides/)
-[Steam Community :: Guide :: PERMANENT SKILL BOOKS LOCATIONS GUIDE.](https://steamcommunity.com/sharedfiles/filedetails/?id=1801196895)
-
-[Portal:Fallout: New Vegas | Fallout Wiki | FANDOM powered by Wikia](https://fallout.fandom.com/wiki/Portal:Fallout:_New_Vegas)
-[Introduction - Fallout: New Vegas Guide](https://www.supercheats.com/guides/fallout-new-vegas)
-
-[Fallout: New Vegas map | Fallout Wiki | FANDOM powered by Wikia](https://fallout.fandom.com/wiki/Fallout:_New_Vegas_map)
-
-## Mods
-
-[The Fallout New Vegas post-game we never got to play • Eurogamer.net](https://www.eurogamer.net/articles/2019-05-30-chris-avellone-explains-what-happened-to-fallout-new-vegass-post-game)
-[FPGE - Functional Post Game Ending at Fallout New Vegas - mods and community](https://www.nexusmods.com/newvegas/mods/66726)
-
-[Fallout New California review | Rock Paper Shotgun](https://www.rockpapershotgun.com/2019/01/07/fallout-new-california-is-practically-a-whole-new-fallout-game/#more-619355)
-[Fallout: New California mod - Mod DB](https://www.moddb.com/mods/falloutprojectbrazil)
-
-# Fallout 4
-
-## Mods
-
-[Mods - FeuerTin - Posts](https://www.facebook.com/permalink.php?story_fbid=1743579239251846&id=1493770974232675&__tn__=K-R)
-[Fallout 4 & Mods! - YouTube](https://www.youtube.com/playlist?list=PLc_GLmxEIywGuriCho8s4x9BaVSHdbcFz)
-
 # Nier Automata
 
 [NIER AUTOMATA FOR BEGINNERS - YouTube](https://www.youtube.com/watch?v=2oxc-v3_VfI)
@@ -1015,168 +853,9 @@ NG 小熊
 
 [Hi-Fi Rush: Best Special Abilities, Ranked](https://gamerant.com/hi-fi-rush-best-special-abilities-ranked/)
 
-# Borderlands
+# Octopath Travallers
 
-[Borderlands (series) - Wikiwand](<https://www.wikiwand.com/en/Borderlands_(series)>)
-[Borderlands Wiki | FANDOM powered by Wikia](https://borderlands.fandom.com/wiki/Borderlands_Wiki)
-
-[gearbox "inside the box" - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ACYBGNQQ5KFTbPZPJ0IysaSRdf_SEuQvhg%3A1571982591170&ei=_4yyXb2CCtbXhwOSuLOQBQ&q=gearbox+%22inside+the+box%22&oq=gearbox+%22inside+the+box%22&gs_l=psy-ab.3..0i22i30.75227.76158..76392...0.0..0.71.136.2......0....1..gws-wiz.......35i39.YiuISVK_Gtk&ved=0ahUKEwj9_cG_27blAhXW62EKHRLcDFIQ4dUDCAo&uact=5)
-
-[Borderlands 3 - YouTube](https://www.youtube.com/playlist?list=PLnEmCTJDG1oJMGHQ43baS3MUv5VM0zcfM)
-EruptionFang
-[Borderlands 3 Shift codes: Every active Shift code and how to redeem them | PC Gamer](https://www.pcgamer.com/borderlands-3-shift-codes/)
-
-## Story
-
-[The Complete, Unabridged Timeline of Borderlands - YouTube](https://www.youtube.com/watch?v=_wvb8jAKsno)
-[Borderlands Story Summary - What You Need to Know to play Borderlands 3! - YouTube](https://www.youtube.com/watch?v=0SK-rDcwXso)
-[The Complete Borderlands Timeline...So Far | The Leaderboard - YouTube](https://www.youtube.com/watch?v=V-1ykt9Ray0)
-[Borderlands 1 Very Accurate Story Recap - YouTube](https://www.youtube.com/watch?v=HdNYZjkQOTs)
-[Borderlands 2 Very Accurate Story Recap - YouTube](https://www.youtube.com/watch?v=H3MsfkZA_CM)
-[Borderlands: The Pre-Sequel Very Accurate Story Recap - YouTube](https://www.youtube.com/watch?v=ClTsbGEBsnM)
-[Tales from the Borderlands Very Accurate Story Recap - YouTube](https://www.youtube.com/watch?v=wBtRVuoXOfg)
-[The Full Story of Handsome Jack - Before You Play Borderlands 3 - YouTube](https://www.youtube.com/watch?v=EC3qbe-s0Ic)
-[Borderlands 2: Tiny Tina's Assault on Dragon Keep - Game Movie (Storyline Playthrough) 1080p HD - YouTube](https://www.youtube.com/watch?v=GFi1MSb0GQk)
-
-## Manufacturers
-
-[Manufacturer | Borderlands Wiki | FANDOM powered by Wikia](https://borderlands.fandom.com/wiki/Manufacturer)
-[All weapon manufacturers in Borderlands 3, explained | Windows Central](https://www.windowscentral.com/all-weapon-manufacturers-borderlands-3-explained)
-[Here’s What All 9 Different Gun Brands Do In ‘Borderlands 3’](https://www.forbes.com/sites/paultassi/2019/09/16/heres-what-all-9-different-gun-brands-do-in-borderlands-3/#2cf7b188212e)
-[Borderlands 3 weapons manufacturers and weapon rarity explained • Eurogamer.net](https://www.eurogamer.net/articles/2019-07-29-borderlands-3-weapons-manufacturers-weapon-rarity-6039)
-
-# Witcher
-
-[The Official Witcher Wiki](http://witcher.gamepedia.com/Witcher_Wiki)
-[Witcher Wiki | Fandom](https://witcher.fandom.com/wiki/Witcher_Wiki)
-[A Beginner's Guide to The Witcher](https://winteriscoming.net/2019/12/19/a-beginners-guide-to-the-witcher/amp/)
-[A No Bullshit Conversation With The Authors Behind The Witcher and Metro 2033 - VICE](https://www.vice.com/en_us/article/wn938w/a-no-bullshit-conversation-with-the-authors-behind-the-witcher-and-metro-2033)
-
-## Story
-
-[The Witcher Series Timeline | The Leaderboard - YouTube](https://www.youtube.com/watch?v=ltnXFGa6244)
-
-[The Witcher 1 Story Recap - YouTube](https://www.youtube.com/watch?v=pB_bHqHzhIA)
-[The Witcher - The Story So Far - YouTube](https://www.youtube.com/watch?v=ncj2xtwyiMo)
-[The Witcher 2 - The Story So Far - YouTube](https://www.youtube.com/watch?v=GqBH33V8KRE)
-[The Witcher in 5 Minutes - YouTube](https://www.youtube.com/watch?v=AXfW2LWK3m4)
-[A Beginner’s Guide To The World Of The Witcher](http://kotaku.com/a-beginner-s-guide-to-the-world-of-the-witcher-1704506152) as an intro to Witcher 3: Wild Hunt
-
-[從巫師 1 到巫師 3 的進化史！15 年前的《巫師》究竟講了什麽故事？ - YouTube](https://www.youtube.com/watch?v=3_uCgZR368s)
-[11 年前的【巫師 2】究竟講了什麽故事？從巫師 1 到巫師 3 的進化史！ - YouTube](https://www.youtube.com/watch?v=Srg0BxfaV2I)
-
-[The Witcher - Movie Version [3 Hours] - YouTube](https://www.youtube.com/watch?v=ZHwa-7LBfV4)
-[The Witcher 2 - [Roche Path] Assassins of Kings Movie [1/2] PC - YouTube](https://www.youtube.com/watch?annotation_id=annotation_1823897585&feature=iv&src_vid=ZHwa-7LBfV4&v=hp99aS0-foo)
-[The Witcher 2 - [Roche Path] Assassins of Kings Movie [2/2] - YouTube](https://www.youtube.com/watch?v=bD_PGKA935o)
-
-Leya 蕾雅
-[「巫師三部曲」專題 (上) 白狼再起 - 從小說到遊戲 The Witcher 2007 - YouTube](https://www.youtube.com/watch?v=Y7aLCWu_sT8)
-[「巫師三部曲」專題 (中) 國王刺客 - 蝴蝶效應般的敘事體驗 The Witcher 2 2011 - YouTube](https://www.youtube.com/watch?v=NWJ9U8ULDZA)
-[「巫師三部曲」專題 (下) 狂獵 - 改變了 RPG 標準的史詩 The Witcher 3 Wild Hunt 2015 - YouTube](https://www.youtube.com/watch?v=0FtNxLxBaCY)
-[細思極恐,後勁過大!「獵魔人/巫師 3」專題 - 論支線故事的正確寫法 Witcher 3 獵魔士 - YouTube](https://www.youtube.com/watch?v=d5HuTcuCjVI&t=21s)
-[腦洞清奇,笑死人了!「獵魔人/巫師 3」專題 - 論支線故事的正確寫法(2) Witcher 3 血與酒資料片 獵魔士 4K 畫質 - YouTube](https://www.youtube.com/watch?v=W6wezsazNks)
-
-## Witcher 1
-
-[The Witcher Nexus - mods and community](http://www.nexusmods.com/witcher/?)
-
-[Xbox 360 Controller Support at The Witcher Nexus - mods and community](http://www.nexusmods.com/witcher/mods/681/?) Pinnacle Profiler
-[XBox Controller Support Deluxe for the TW1 at The Witcher Nexus - mods and community](http://www.nexusmods.com/witcher/mods/718/?) XPadder
-[The Witcher Overhaul Project at The Witcher Nexus - mods and community](http://www.nexusmods.com/witcher/mods/703/?)
-
-## Witcher 3
-
-[Saying Goodbye to Our Geralts at the End of ‘The Witcher 3’ - VICE](https://www.vice.com/en_us/article/dp3xvv/saying-goodbye-to-our-geralts-at-the-end-of-the-witcher-3)
-[Why The Witcher 3, after five years, is as popular as ever - Polygon](https://www.polygon.com/2020/5/19/21263545/witcher-3-anniversary-open-world-interview-quest-design)
-[The King of RPGs | The Witcher III: Wild Hunt - 5 Years Later (Retrospective) - YouTube](https://www.youtube.com/watch?v=WgfVO2ni-VM)
-
-[The best Witcher 3 settings – next-gen options on PC | PCGamesN](https://www.pcgamesn.com/the-best-witcher-3-settings)
-[Witcher 3 Next Gen Update Release Time and Details - The Witcher 3 Wiki Guide - IGN](https://www.ign.com/wikis/the-witcher-3-wild-hunt/Witcher_3_Next_Gen_Update_Release_Time_and_Details)
-
-[107 The Witcher 3: Wild Hunt Facts YOU Should Know! | The Leaderboard - YouTube](https://www.youtube.com/watch?v=3P7dGG4b_t4)
-[The Witcher 3 FULL Beginners Guide & Best Tips and Tricks! (2022) - YouTube](https://www.youtube.com/watch?v=GBuWZkRidq4)
-[Witcher 3: How to Get All Endings (Including Every DLC Ending) - YouTube](https://www.youtube.com/watch?v=4f5rItAtjIM)
-[Witcher 3: Things You Missed - YouTube](https://www.youtube.com/playlist?list=PLMpNwDjXWh0wH-pQvAeulaTXA7_mgbt8Y)
-[Witcher 3: Details You Missed - YouTube](https://www.youtube.com/playlist?list=PLMpNwDjXWh0wH-pQvAeulaTXA7_mgbt8Y)
-[The Witcher 3 ULTIMATE Beginners Guide 2022 - YouTube](https://www.youtube.com/watch?v=TGrc-N3Qu0E)
-
-[Things I Wish I Knew Earlier In The Witcher 3 Wild Hunt (Tips & Tricks) - YouTube](https://www.youtube.com/watch?v=kAkiXJsFKs8)
-
-[The Witcher 3 Wiki Guide - IGN](https://www.ign.com/wikis/the-witcher-3-wild-hunt/)
-
-[Witcher Hour | The Witcher 3: Wild Hunt Fansite](https://witcherhour.com/)
-[Place of Power Locations | Witcher Hour](https://witcherhour.com/place-of-power-locations/)
-
-[The Witcher 3 Horse](https://www.gosunoob.com/witcher-3/witcher-3-horse/)
-
-[巫师 3 拜年剑法怎么用\_巫师 3 拜年剑法使用方法\_3DM 单机](https://www.3dmgame.com/gl/3784028.html)
-
-Leya 蕾雅
-[細思極恐,後勁過大!「獵魔人/巫師 3」專題 - 論支線故事的正確寫法 Witcher 3 獵魔士 - YouTube](https://www.youtube.com/watch?v=d5HuTcuCjVI)
-[「巫師」專題特別篇: 血與酒 - 如夢似幻! 史上最大資料片 The Witcher 3 Blood and Wine 2016 - YouTube](https://www.youtube.com/watch?v=cQKmu6lvkQs)
-[「巫師」專題特別篇: 石之心 - 深入骨髓的暗黑寓言 The Witcher 3 Hearts of Stone 2015 - YouTube](https://www.youtube.com/watch?v=_F6R-lq5BxI)
-[你錯過了幾個任務? 次世代版【巫師 3/獵魔人】支線專題 (3) 4K60 畫質 Witcher 3 Next Gen Update - YouTube](https://www.youtube.com/watch?v=tofo5iYRo9Q)
-
-### Mods
-
-[The Witcher 3 Nexus - Mods and community](https://www.nexusmods.com/witcher3)
-[The Witcher 3 Mods - YouTube](https://www.youtube.com/playlist?list=PLc_GLmxEIywHjmQkhZauuUAAVfuIWbA1o)
-[The Witcher 3: Have You Tried These Mods? 2020 - YouTube](https://www.youtube.com/watch?v=JsC5CJcOu8s)
-
-[21 Great Witcher 3 Mods for Returning Players](https://za.ign.com/the-witcher-3/143191/feature/21-great-witcher-3-mods-for-returning-players)
-[The best Witcher 3 mods | PCGamesN](https://www.pcgamesn.com/the-witcher-3-wild-hunt/best-witcher-3-mods)
-
-[The Witcher 3 Enhanced Edition V4.90 released, adds combat stance options, fixes various issues & more - DSOGaming](https://www.dsogaming.com/news/the-witcher-3-enhanced-edition-v4-90-released-adds-combat-stance-options-fixes-various-issues-more/)
-
-[Mods and The Witcher 3 next-gen update | Forums - CD PROJEKT RED](https://forums.cdprojektred.com/index.php?threads/mods-and-the-witcher-3-next-gen-update.11110486/)
-[The Witcher® 3: Wild Hunt - Next-gen update list of changes - Steam News](https://store.steampowered.com/news/app/292030/view/3642879552277333733):
-
-- [The Witcher 3 HD Reworked Project at The Witcher 3 Nexus - Mods and community](https://www.nexusmods.com/witcher3/mods/1021)
-  [The Witcher 3 HD Reworked Project 12.0 Ultimate - NPCs Preview - YouTube](https://www.youtube.com/watch?v=q419ZBLIDrM)
-- [HDMR - HD Monsters Reworked mod at The Witcher 3 Nexus - Mods and community](https://www.nexusmods.com/witcher3/mods/3580)
-- [Immersive Real-time Cutscenes at The Witcher 3 Nexus - Mods and community](https://www.nexusmods.com/witcher3/mods/4574)
-- [Nitpicker's Patch - various visual fixes at The Witcher 3 Nexus - Mods and community](https://www.nexusmods.com/witcher3/mods/2117)
-- [World Map Fixes at The Witcher 3 Nexus - Mods and community](https://www.nexusmods.com/witcher3/mods/3430)
-- Full Combat Rebalance 3
-
-- [Friendly HUD at The Witcher 3 Nexus - Mods and community](https://www.nexusmods.com/witcher3/mods/365)
-  [Friendly HUD - Better Icons and Extra Options (Add-On to original) at The Witcher 3 Nexus - Mods and community](https://www.nexusmods.com/witcher3/mods/4250)
-- [Absolute Camera at The Witcher 3 Nexus - Mods and community](https://www.nexusmods.com/witcher3/mods/856)
-- [Immersive Cam at The Witcher 3 Nexus - Mods and community](https://www.nexusmods.com/witcher3/mods/689)
-- Disable storybook videos
-- SuperTurbo Lighting
-- Script Merger
-- WolvenKit
-- [No Inventory Weight Limit - Next Gen - Over 9000 at The Witcher 3 Nexus - Mods and community](https://www.nexusmods.com/witcher3/mods/7159)
-
-### Gwent
-
-[Witcher 3 A Guide to Gwent: How to set up your deck Early-game! - YouTube](https://www.youtube.com/watch?v=K93GU7mXUAw)
-[Witcher 3 - A Guide to Gwent (Or how to get more spies) - YouTube](https://www.youtube.com/watch?v=peBW0BCdMVw)
-[帶著"後宮"去復國!「巫師/獵魔士」外傳故事 - 王權的隕落 4K Thronebreaker: The Witcher Tales 2018 - YouTube](https://www.youtube.com/watch?v=FDXvCO5Op5k)
-
-# Tales series
-
-[Tales (video game series) - Wikiwand](<https://www.wikiwand.com/en/Tales_(video_game_series)>)
-[Aselia Wiki | Fandom](https://aselia.fandom.com/wiki/Main_Page)
-[The Best Games In The Tales Series, Ranked](https://www.thegamer.com/best-tales-games-ranked/)
-
-Steam:
-Tales Of Berseria
-Tales Of Symphonia
-
-Switch:
-Tales of Vesperia
-
-[Tales Of Vesperia 2019 Definitive.. Starter Guide + Game Info..Is this Game for you ? - YouTube](https://www.youtube.com/watch?v=nz6LYzxCO98)
-
-## Tales of Zestiria
-
-[Tales of Zestiria - Wikiwand](https://www.wikiwand.com/en/Tales_of_Zestiria)
-
-Install the 60FPS TZFix mod, and watch Swillo's video, "Battle System Guide (Basics to Intermediate Stuff)" - particularly the bit on spell cancelling while armatized. The game does such a poor job explaining key features through bland walls of text, which will make anyone's head spin.
-
-Doing the two things above made this game go from a 6/10 to a 9/10.
+[8 分鐘帶你縷清劇情脈絡，歧路旅人 2 真結局究竟講了什麽？ - YouTube](https://www.youtube.com/watch?v=RsSFLPbIQYI)
 
 # Dishonored
 
@@ -1195,40 +874,6 @@ Leya
 # Splinter Cell
 
 [Tom Clancy's Splinter Cell - Wikiwand](https://www.wikiwand.com/en/Tom_Clancy%27s_Splinter_Cell)
-
-# God of War
-
-[【社长说 20】《战神》白金之后，我决定回顾一下奎爷年轻时的故事 - YouTube](https://www.youtube.com/watch?v=pJorxP78ceQ)
-[战神是如何诞生的？一口气看完《战神》1 代游戏详细剧情 - YouTube](https://www.youtube.com/watch?v=bt_6YomXWoE)
-[不愧是年度最佳的遊戲！〖遊戲不止〗 - YouTube](https://www.youtube.com/watch?v=1cnp-iGzdJM)
-[The Complete God Of War Timeline - From Ghost of Sparta to World's Best Dad! | The Leaderboard - YouTube](https://www.youtube.com/watch?v=JilCqDzyy8s)
-[最全！戰神劇情解說，九部遊戲與官方漫畫小說全解析。 - YouTube](https://www.youtube.com/watch?v=Lu1g307mwyM)
-
-Leya 蕾雅
-[【戰神】是怎樣煉成的 (上) - 黑神話老大哥登場! 文盲老父親的前半生 God of War collection - YouTube](https://www.youtube.com/watch?v=VkT4TxnYy1A)
-[【戰神】是怎样炼成的 (下) - 真戰神和他的老父親 God of War 2018 - YouTube](https://www.youtube.com/watch?v=P-qiXAnDVDY)
-[我們能否變得更好?「戰神:諸神黃昏」完整故事解析 God of War Ragnarok 4K 畫質 - YouTube](https://www.youtube.com/watch?v=MlVfVW3e5Ak)
-
-[【YA】新战神不买不是人啊！？【战神 4 游戏前沿】 - YouTube](https://www.youtube.com/watch?v=U7Um4AkAtjI)
-[好尸十六分钟带你看完【战神 4】奎托斯从良记 - YouTube](https://www.youtube.com/watch?v=5pinFhf_awE)
-[【YAYA】20 分钟带你看懂《战神 4》 - YouTube](https://www.youtube.com/watch?v=5ZPsexuh_EU)
-
-[God of War Ragnarok Content - YouTube](https://www.youtube.com/playlist?list=PL55clecAtEmxM8C1ycyrQHqo1_zve66ah)
-
-# Cyberpunk 2077
-
-[Modders Are Adding INSANE New Features into Cyberpunk 2077 - 10 Best New Mods to Download - YouTube](https://www.youtube.com/watch?v=4cBnfjezgDU)
-
-[Cyberpunk 2077 Mods Are Getting INSANE - 17 Best Mods You NEED To Try - YouTube](https://www.youtube.com/watch?v=NfPfXKJxUsc)
-[Cyberpunk 2077 - 19 More AMAZING Mods You NEED To Try - YouTube](https://www.youtube.com/watch?v=A7b4JQlfdmk)
-[Cyberpunk 2077 - 16 More AMAZING Mods You NEED To Try (Part 2) - YouTube](https://www.youtube.com/watch?v=dr77X9nKSsY)
-[Cyberpunk 2077 - 6 More AMAZING Mods You NEED To Try (Part 3) - YouTube](https://www.youtube.com/watch?v=1JU58bSeCJQ)
-
-## Mods
-
-[The best Cyberpunk 2077 mods | PC Gamer](https://www.pcgamer.com/best-cyberpunk-2077-mods/)
-[Cyberpunk 2077 Mods Are Getting INSANE - Top 15 Best New Mods to Download - YouTube](https://www.youtube.com/watch?v=Ua0_UDB0yFY)
-[25 Mods to Create the Absolutely PERFECT Cyberpunk 2077 - YouTube](https://www.youtube.com/watch?v=FXJ8gUJ2TTM)
 
 # Okami
 
@@ -1253,33 +898,6 @@ Leya 蕾雅
 
 [The World Design of Hollow Knight | Boss Keys - YouTube](https://www.youtube.com/watch?v=7ITtPPE-pXE)
 [Category:Spells and Abilities (Hollow Knight) | Hollow Knight Wiki | FANDOM powered by Wikia](<https://hollowknight.fandom.com/wiki/Category:Spells_and_Abilities_(Hollow_Knight)>)
-
-# Watch Dogs
-
-[Watch Dogs 2 vs Watch Dogs - YouTube](https://www.youtube.com/watch?v=Gw_khSqNkyI)
-[Watch Dogs 1 vs Watch Dogs 2 In Depth Comparison - YouTube](https://www.youtube.com/watch?v=iXleystRCcs)
-[【看門狗】我們都是數據的奴隸? Watch Dogs franchise - YouTube](https://www.youtube.com/watch?v=JRfCDTVGZws)
-
-[The Watch Dogs Comeback: A Franchise Back From The Dead - YouTube](https://www.youtube.com/watch?v=Umeu5aB-L8g)
-[Watch Dogs 2014 - YouTube](https://www.youtube.com/playlist?list=PL4P1Iz2th7dWuWKpP-oAfks6z8n-g0Rc1)
-
-## Watch Dogs
-
-[Watch Dogs: 5 Years Later - YouTube](https://www.youtube.com/watch?v=Kk2G6zc5pKo)
-[在 2021 年才通关因缩水而闻名的《看门狗》是一种什么体验 - YouTube](https://www.youtube.com/watch?v=zX6U2071IcA)
-
-Mods:
-
-- reborn
-- Living City
-
-## Watch Dogs 2
-
-[Watch Dogs 2 - Before You Buy - YouTube](https://www.youtube.com/watch?v=QbLeS1TrTv8)
-[The Truth Behind Watch Dogs 2 - YouTube](https://www.youtube.com/watch?v=JypbyWiYtTU)
-[Watch_Dogs 2: A Perfect Sequel - YouTube](https://www.youtube.com/watch?v=1RmPZopDwSg)
-
-[Top 4 BEST WAYS To Make Money EASY In Watch Dogs 2! - YouTube](https://www.youtube.com/watch?v=n055fwSl1AQ)
 
 # Disgaea
 
@@ -1312,150 +930,6 @@ Mods:
 [Shadow Tactics: Blades of the Shogun Game Guide | gamepressure.com](https://guides.gamepressure.com/shadowtactics/)
 
 [All Shadow Tactics Speedruns - YouTube](https://www.youtube.com/playlist?list=PLLrP1xTYLTnBbgTJXxCQmAlV89T3sW9HK)
-
-# Starbound
-
-[Starbound](https://playstarbound.com/)
-[Starbounder - Starbound Wiki](https://starbounder.org/Starbound_Wiki)
-[Starbound - PCGamingWiki PCGW - bugs, fixes, crashes, mods, guides and improvements for every PC game](https://www.pcgamingwiki.com/wiki/Starbound)
-[Steam Community :: Starbound](https://steamcommunity.com/app/211820/guides/)
-[Starbound Discussion | Chucklefish Forums](https://community.playstarbound.com/forums/starbound-discussion.3/)
-[STARBOUND GUIDEBOOK PDF | Donciper](https://donciper.com/starbound-game-guide/)
-
-[Starbound Map - Starbound planets database](http://starbound-map.herokuapp.com/)
-[Steam Community :: Guide :: How to find resources and interesting places in Starbound](https://steamcommunity.com/sharedfiles/filedetails/?id=216949749)
-
-[Starbound Game Guide | gamepressure.com](https://guides.gamepressure.com/starbound/)
-[Steam Community :: Guide :: The Quick Start Guide to Everything Starbound](https://steamcommunity.com/sharedfiles/filedetails/?id=200956277)
-[Steam Community :: Guide :: Starbound: How to begin and how to prosper](https://steamcommunity.com/sharedfiles/filedetails/?id=246894099)
-[Steam Community :: Guide :: New Players FYI](https://steamcommunity.com/sharedfiles/filedetails/?id=1473687577&searchtext=controller)
-
-## Mods
-
-[Unofficial Modding Ebook 2.0 | Chucklefish Forums](https://community.playstarbound.com/resources/unofficial-modding-ebook-2-0.2930/)
-[Modding:Portal - Starbounder - Starbound Wiki](https://starbounder.org/Modding:Portal)
-[PenguinGUI by PenguinToast](http://penguintoast.github.io/PenguinGUI/index.html)
-
-[Starbound | Chucklefish Forums](https://community.playstarbound.com/resources/categories/starbound.21/)
-[Starbound Mods](https://steamcommunity.com/workshop/browse/?appid=211820&browsesort=trend&section=readytouseitems&actualsort=trend&p=1&days=180)
-[Mods at Starbound Nexus - Mods and community](https://www.nexusmods.com/starbound/mods/)
-
-[How Many Mods Do You Use? | Chucklefish Forums](https://community.playstarbound.com/threads/how-many-mods-do-you-use.157887/)
-[Steam Workshop :: Starbound 1.3 mods I use](https://steamcommunity.com/sharedfiles/filedetails/?id=944088262)
-[Steam Workshop :: Starbound 1.4 Mod Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=1769299307)
-[The 10 best Starbound mods | PC Gamer](https://www.pcgamer.com/the-10-best-starbound-mods/)
-[Some Of The Best Starbound Mods](https://kotaku.com/some-of-the-best-starbound-mods-1785110353)
-
-[[WIP] Creative Mode | Chucklefish Forums](https://community.playstarbound.com/resources/wip-creative-mode.3101/)
-[Outdated - Creative Mode - Complete control over your experience. | Chucklefish Forums](https://community.playstarbound.com/resources/creative-mode-complete-control-over-your-experience.614/)
-
-## Controls
-
-[Notice - HOWTO: Keybinding | Chucklefish Forums](https://community.playstarbound.com/threads/howto-keybinding.72056/)
-
-[Steam Community :: Guide :: Using a Gamepad: The Terrarian's Guide to Starbound!](https://steamcommunity.com/sharedfiles/filedetails/?id=1256636249&searchtext=controller)
-[Starbound controller support 2017](https://www.rewasd.com/community/config/starbound-controller-support/09d1ea568c39720b573c7b6338cbd557)
-[Xbox 360 controls to play Starbound](https://www.rewasd.com/community/config/starbound-controller-support/08fca5056fe95c9259d27e3d29b01bf5)
-[Xbox 360 Controller Wired (Xpadder) at Starbound Nexus - Mods and community](https://www.nexusmods.com/starbound/mods/753?tab=files)
-
-```
-A - move right
-D - move left
-S - duck
-Space - jump
-E/middle mouse - interact
-I - inventory
-C - crafting
-J - journal
-N - investigate
-Alt - status (shows your hunger and items that you could interact with)
-Double tap A or D - move fast in the direction (once the tech upgrade is enabled)
-S+Space - go down a wooden platform
-left mouse - select foreground/attack
-right mouse - select background/attack
-Shift+mouse - select single block
-```
-
-## Admin console
-
-[Commands - Starbounder - Starbound Wiki](https://starbounder.org/Commands)
-
-```
-管理员开关 -执行一切指令的基础
-/admin
------------------------------------------------
-解除副本的保护
-/settileprotection 0 false
------------------------------------------------
-传送到序章场景 -要等1分钟左右进入，可取得武器：破碎的英雄之剑
-/warp instanceworld:protectorate
------------------------------------------------
-升级飞船[T1-T8] -会在鼠标处生成物品
-T1- 损坏的飞船
-T2- 飞船重启后
-T3-引擎修复后的飞船
-T4-T8 逐级扩大
-/spawnitem shipT8
------------------------------------------------
-传说中的鱼镐（毁建筑利器，不推荐使用）
-/spawnitem superfishaxe
------------------------------------------------
-立即死亡
-/suicide
------------------------------------------------
-地图全亮
-/fullbright
------------------------------------------------
-给予升级模块，科技卡，物质枪升级块
-/spawnitem upgrademodule 10
-/spawnitem techcard 75
-/spawnitem manipulatormodule 800
------------------------------------------------
-给予 挑战门
-/spawnitem challengedoor 10
------------------------------------------------
-给予 像素
-/spawnitem money 100000
------------------------------------------------
-远古物品 钥匙，小星星，铁砧
-/spawnitem vaultkey 10
-/spawnitem essence 20000
-/spawnitem weaponupgradeanvil 1
--------------------------------------------
-传送副本系列
-这种操作都有一小段延迟，执行完指令后等一分钟左右不要乱动。
-
-月球基地副本
-/warp instanceworld:lunarbase
-
-TX系列任务 骇翼[1] & 机器人[2]
-/warp instanceworld:penguinmission1
-/warp instanceworld:penguinmission2
-
-种族副本
-/warp instanceworld:apexmission1
-/warp instanceworld:avianmission1
-/warp instanceworld:floranmission1
-/warp instanceworld:glitchmission1
-/warp instanceworld:hylotlmission1
-
-科技副本
-/warp instanceworld:techchallenge_dash
-/warp instanceworld:techchallenge_doublejump
-/warp instanceworld:techchallenge_morphball
-
-前哨站
-/warp instanceworld:outpost
-
-序章
-/warp instanceworld:protectorate
-
-星门遗迹
-/warp instanceworld:monolith
-
-博物馆
-/warp instanceworld:museum
-```
 
 # Stardew Valley
 
@@ -1545,6 +1019,7 @@ Use A and alternate L1,R1 use climb
 # Sakuna: Of Rice and Ruin 天穗之咲稻姬
 
 [【天穗之咲稻姬】省心種田法 | 種田全攻略！最強種田指南 【黑桐谷歌】 遊玩心得分享（非常推薦！） #天穗之咲稻姬 #遊戲實況 - YouTube](https://www.youtube.com/watch?v=bF0PM8BPgW8)
+[【天穗之咲稻姬】值得買嗎? | 伏 Game 評 - YouTube](https://www.youtube.com/watch?v=0Q1kZSTbHbQ)
 
 ---
 

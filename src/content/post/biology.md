@@ -2,6 +2,7 @@
 title: Biology
 description: ""
 created: 2016-09-24
+updated: 2023-08-11
 tags:
   - biology
   - science
@@ -24,9 +25,22 @@ Crash Course
 
 [養成這幾個習慣，你或許能多活 30 年｜當長壽成為現實，你會選擇永生嗎？｜衰老的真相 3 期合集｜思維實驗室 - YouTube](https://www.youtube.com/watch?v=FPnV4NuHNgo)
 
+[人為什麼要有智齒、闌尾？醫生解釋從頭到腳各種「無用處」人體器官｜科普長知識｜ GQ Taiwan - YouTube](https://www.youtube.com/watch?v=cwS2mSLFX1g)
+
+atavism: the recurrence of traits of an ancestor in a subsequent generation
+vestigial: atrophied, become functionless in the course of evolution
+
+## Biogeographic Boundary
+
+Wallace Line
+[The Invisible Barrier Keeping Two Worlds Apart - YouTube](https://www.youtube.com/watch?v=QTK_bC00ilg)
+
 ## What is Life
 
 [我們的使命可能已經結束 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=jXcuLBI8QMc) silicon-based life
+
+[Origins: The first living thing • Unexplainable - Podcast Addict](https://podcastaddict.com/unexplainable/episode/155049008) three conditions, nasa definition, not virus
+[Origins: The meaning of “life” • Unexplainable - Podcast Addict](https://podcastaddict.com/unexplainable/episode/155049009)
 
 ## Evolution
 

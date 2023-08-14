@@ -2,6 +2,7 @@
 title: Reverse Engineering
 description: ""
 created: 2023-03-01
+updated: 2023-07-26
 tags:
   - security
 ---
@@ -42,12 +43,18 @@ tags:
 
 [OFRAK](https://ofrak.com/docs/)
 
-[Vaughan Hilts - Experimentation with Reverse Engineering - Trails in the Sky (FC / SC) Extracting Sprite Data w/ Unix Tools & Kaitai Struct](http://vaughanhilts.me/blog/2016/11/16/reverse-engineering-trails-in-the-sky-ed-6-game-engine.html)
+[mandiant/flare-floss: FLARE Obfuscated String Solver - Automatically extract obfuscated strings from malware.](https://github.com/mandiant/flare-floss)
 
+[Vaughan Hilts - Experimentation with Reverse Engineering - Trails in the Sky (FC / SC) Extracting Sprite Data w/ Unix Tools & Kaitai Struct](http://vaughanhilts.me/blog/2016/11/16/reverse-engineering-trails-in-the-sky-ed-6-game-engine.html)
 [Introduction · Radare2 Book](https://radare.gitbooks.io/radare2book/content/)
 
 [Reverse Engineering A Modern IP Camera | Hackaday](https://hackaday.com/2019/03/28/reverse-engineering-a-modern-ip-camera/)
 [Reverse Engineering Shimano Bike Electronics | Hackaday](https://hackaday.com/2019/03/26/reverse-engineering-shimano-bike-electronics/)
+
+[KOVTER Malware Analysis - Fileless Persistence in Registry - YouTube](https://www.youtube.com/watch?v=DXlqAH1IV6A)
+
+- loading another user's HKCU (`NTUSER.dat`)
+- shellcode, speakeasy
 
 ## IDA
 
@@ -66,6 +73,14 @@ tags:
 [HackadayU: Reverse Engineering with Ghidra Class 1 - YouTube](https://www.youtube.com/watch?v=d4Pgi5XML8E)
 [Ghidra - Journey from Classified NSA Tool to Open Source - YouTube](https://www.youtube.com/watch?v=kx2xp7IQNSc)
 [Reversing WannaCry - YouTube](https://www.youtube.com/playlist?list=PLniOzp3l9V83Yf52IXJTvW9rjstdqkduP)
+
+## Shellcode
+
+[Shellcode - Wikiwand](https://www.wikiwand.com/en/Shellcode)
+[What is shellcode and how is it used? | TechTarget](https://www.techtarget.com/searchsecurity/answer/What-is-the-relationship-between-shellcode-and-exploit-code)
+
+[Emulation of Malicious Shellcode With Speakeasy | Mandiant](https://www.mandiant.com/resources/blog/emulation-of-malicious-shellcode-with-speakeasy)
+[mandiant/speakeasy: Windows kernel and user mode emulation.](https://github.com/mandiant/speakeasy)
 
 ## Cutter
 

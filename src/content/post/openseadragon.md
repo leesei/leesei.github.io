@@ -61,7 +61,7 @@ viewer.addHandler("canvas-click", function (event) {
   console.log(
     webPoint.toString(),
     viewportPoint.toString(),
-    imagePoint.toString()
+    imagePoint.toString(),
   );
 });
 ```

@@ -12,6 +12,7 @@ tags:
 [[hugo]]
 [[astro]]
 [[nextjs]]
+[[nuxtjs]]
 [[dev-documentation]]
 [[web-asset-optimization]]
 

@@ -2,9 +2,9 @@
 title: Computer Graphics (Hardware)
 description: Computer Graphics on the hardware side
 created: 2016-10-18
-updated: 2023-03-23
+updated: 2023-08-08
 tags:
-  - comp.hardware
+  - comp/hardware
   - graphics/hardware
 ---
 
@@ -109,6 +109,10 @@ FSR > RSR
 [FSR 2.0 is the complete reboot AMD's upscaling needed | Digital Trends](https://www.digitaltrends.com/computing/fsr-2-complete-reboot-amd-upscaling-needed/)
 [After testing AMD FSR 2.0, I'm almost ready to ditch DLSS | Digital Trends](https://www.digitaltrends.com/computing/after-testing-amd-fsr-2-im-almost-ready-to-ditch-dlss/)
 
+### Gamescope
+
+[Gamescope - LinuxReviews](https://linuxreviews.org/Gamescope)
+[ValveSoftware/gamescope: SteamOS session compositing window manager](https://github.com/ValveSoftware/gamescope)
 [Steam Deck - AMD FidelityFX Super Resolution Upscaling In Any Game... With Gamescope! - YouTube](https://www.youtube.com/watch?v=wxcQFq3k9XI)
 
 ## Hardware Scheduling
@@ -150,7 +154,7 @@ Explicit Modes (EMA, Explicit Multiadaptor) can work on linked and unlinked hard
 [Exclusive: The Nvidia and AMD DirectX 12 Editorial - Complete DX12 Graphic Card List with Specifications, Asynchronous Shaders and Hardware Features Explained](http://wccftech.com/nvidia-amd-directx-12-graphic-card-list-features-explained/) ❗!important
 [DirectX 12 tested: An early win for AMD and disappointment for Nvidia | Ars Technica](http://arstechnica.com/gaming/2015/08/directx-12-tested-an-early-win-for-amd-and-disappointment-for-nvidia/)
 [Multi-GPU DirectX 12 shootouts show AMD with performance lead over Nvidia | Ars Technica](http://arstechnica.com/gaming/2016/02/directx-12-amd-and-nvidia-gpus-finally-work-together-but-amd-still-has-the-lead/)
-[Direct3D 12 Glossary (Windows)](https://msdn.microsoft.com/en-us/library/windows/desktop/dn899119(v=vs.85%29.aspx)
+[Direct3D 12 glossary - Win32 apps | Microsoft Learn](https://learn.microsoft.com/en-us/windows/win32/direct3d12/directx-12-glossary)
 
 Asynchronous compute shaders in DX12 benefits the most when CPU is the bottleneck
 
@@ -235,6 +239,7 @@ Radeon's DX11 driver was rewritten in 2022-07 which greatly improved stability a
 [How to Optimize AMD Radeon Settings For GAMING & Performance The Ultimate GUIDE 2023 - YouTube](https://www.youtube.com/watch?v=E-F7VQSAZuA)
 [AMD Says You’re Doing it Wrong. - Best settings for AMD GPUs - YouTube](https://www.youtube.com/watch?v=RxjRyN-4VdI) ReBAR, FSR
 
+[AMD RDNA 3 GPU Architecture Deep Dive: The Ryzen Moment for GPUs | Tom's Hardware](https://www.tomshardware.com/news/amd-rdna-3-gpu-architecture-deep-dive-the-ryzen-moment-for-gpus)
 [AMD RDNA3 GPU Architecture Deep-Dive: 7900 XTX Drivers, Rasterization, & Ray Tracing - YouTube](https://www.youtube.com/watch?v=9iEDpXyFLFU)
 
 ## Intel Integrated Graphics
@@ -248,6 +253,7 @@ Radeon's DX11 driver was rewritten in 2022-07 which greatly improved stability a
 ## Overclocking/Underclocking
 
 [Nvidia is Clearly Better, Right? - YouTube](https://www.youtube.com/watch?v=mkfFvEeVC4w) Hydra 1.2, RX 6000 undervolt
+[Why you should (or shouldn't) undervolt your GPU | PCWorld](https://www.pcworld.com/article/560217/why-you-should-or-shouldnt-undervolt-your-graphics-card.html)
 
 [AMD RMP 神級超頻工具，讓老 6800XT 顯示卡也能優化媲美 3090Ti | T 客邦](https://www.techbang.com/posts/100496-amd-rmp-overclocking-tool-god-optimizes-6800xt-display-card)
 [Hydra 1.2 AMD Ryzen Overclocking & Tuning Utility Ready For Zen 4 CPUs, Now Features 'RX-TUNER' For GPU Tuning Too](https://wccftech.com/hydra-1-2-amd-ryzen-overclocking-tuning-utility-zen-4-cpus-features-rx-tuner-radeon-gpu-tuning-too/)

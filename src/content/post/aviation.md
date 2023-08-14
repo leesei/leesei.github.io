@@ -2,6 +2,7 @@
 title: Aviation
 description: ""
 created: 2023-02-21
+updated: 2023-08-05
 tags:
   - transportation
 ---
@@ -14,6 +15,8 @@ tags:
 
 [战斗机是怎么分代的？ - YouTube](https://www.youtube.com/watch?v=SWxZdodxoYk)
 [空中鋼肺！美軍開創無限供氧系統！為什麼戰機飛行員，戴的頭盔和氧氣面罩不同？丨 OBOGS 分子篩氧氣系統 - YouTube](https://www.youtube.com/watch?v=0oZ7NGhOXzU)
+
+[How Helicopters Work Deep Dive - YouTube](https://www.youtube.com/playlist?list=PL6CECC2E56B68A2C3) SmarterEveryDay
 
 ## World War I
 

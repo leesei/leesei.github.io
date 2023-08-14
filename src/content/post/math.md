@@ -2,16 +2,17 @@
 title: Mathematics
 description: ""
 created: 2017-10-31
+updated: 2023-08-14
 tags:
   - math
 ---
 
 [Wolfram MathWorld: The Web's Most Extensive Mathematics Resource](https://mathworld.wolfram.com/)
 
-[Eddie Woo - YouTube - YouTube](https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ) High School
-[MathHelp.com - YouTube](https://www.youtube.com/channel/UC_LuPnD9D2zFYF46vm8kQnQ)
+[Eddie Woo - YouTube - YouTube](https://www.youtube.com/@misterwootube) High School
+[MathHelp.com - YouTube](https://www.youtube.com/@yourteachermathhelp)
 [Math | Khan Academy](https://www.khanacademy.org/math)
-[AMATH 301 - YouTube](https://www.youtube.com/channel/UCEirPnFv_2QbvzrM67SnKPA)
+[AMATH 301 - YouTube](https://www.youtube.com/@amath3019)
 [Wolfram MathWorld: The Web's Most Extensive Mathematics Resource](http://mathworld.wolfram.com/)
 [Math of the impossible - YouTube](https://www.youtube.com/playlist?list=PLJicmE8fK0Egf3KmvFBPCUyXe7LCRPym-) TED-Ed playlist
 [The Langlands Program, Explained - YouTube](https://www.youtube.com/watch?v=_bJeKUosqoY) connecting harmonic analysis and number theory
@@ -28,13 +29,13 @@ tags:
 
 [CalmCode Blog: An Inverse Turing Test](https://calmcode.io/blog/inverse-turing-test.html)
 
-[3Blue1Brown - YouTube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
-[Primer - YouTube](https://www.youtube.com/c/PrimerLearning)
-[Mathologer - YouTube](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg)
+[3Blue1Brown - YouTube](https://www.youtube.com/@3blue1brown)
+[Primer - YouTube](https://www.youtube.com/@PrimerLearning)
+[Mathologer - YouTube](https://www.youtube.com/@Mathologer)
 [Mathemaniac - YouTube](https://www.youtube.com/@mathemaniac)
 [Another Roof - YouTube](https://www.youtube.com/@AnotherRoof)
 [VisualMath - YouTube](https://www.youtube.com/@VisualMath)
-[eigenchris - YouTube](https://www.youtube.com/channel/UCN8wTUlSAroLslWyf87E2pw) Linear Algebra, Physics
+[eigenchris - YouTube](https://www.youtube.com/@eigenchris) Linear Algebra, Physics
 [Zach Star - YouTube](https://www.youtube.com/@zachstar)
 
 [妈咪说 MommyTalk - YouTube](https://www.youtube.com/@Sci1729)
@@ -90,7 +91,7 @@ Encode mathematics operation as numbers, one can create a number (statement) tha
 [折磨了人類三百年的難題 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=jaoqxAjpSUE) 費馬最後定理
 
 [Immersive Math](http://immersivemath.com/)
-[immersivemath - YouTube](https://www.youtube.com/channel/UCMTYA0DDzT-bEzwWGPHTCOA)
+[immersivemath - YouTube](https://www.youtube.com/@immersivemath8541)
 
 [Dear linear algebra students, This is what matrices (and matrix manipulation) really look like - YouTube](https://www.youtube.com/watch?v=4csuTO7UTMo)
 [Matrix Multiplication Explained (with Python examples): Complete Guide](https://pyshark.com/matrix-multiplication-explained-using-python/)
@@ -178,7 +179,9 @@ equilibrium probability = left eigen vector of the adjacency matrix
 [从五次方程到伽罗瓦理论 - YouTube](https://www.youtube.com/playlist?list=PLYtoePJQbGmiq3lqkJcxSKW0eW5objmjQ)
 [Why you can't solve quintic equations (Galois theory approach) SoME2 - YouTube](https://www.youtube.com/watch?v=zCU9tZ2VkWc)
 [What is the square root of two? | The Fundamental Theorem of Galois Theory - YouTube](https://www.youtube.com/watch?v=CwvuZ8aHyH4)
+[But why is there no quintic formula? | Galois Theory - YouTube](https://www.youtube.com/watch?v=1EWUsef0iFs)
 [Why There's 'No' Quintic Formula (proof without Galois theory) - YouTube](https://www.youtube.com/watch?v=BSHv9Elk1MU)
+[Galois Theory Explained Simply - YouTube](https://www.youtube.com/watch?v=Ct2fyigNgPY)
 
 [Group theory, abstraction, and the 196,883-dimensional monster - YouTube](https://www.youtube.com/watch?v=mH0oCDa74tE)
 [Monster Group (John Conway) - Numberphile - YouTube](https://www.youtube.com/watch?v=jsSeoGpiWsw)
@@ -269,8 +272,8 @@ Khan Academy
 ## Statistics
 
 [Simple Statistics](http://simplestatistics.org/)
-[StatQuest with Josh Starmer - YouTube](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
-[Normalized Nerd - YouTube](https://www.youtube.com/channel/UC7Fs-Fdpe0I8GYg3lboEuXw)
+[StatQuest with Josh Starmer - YouTube](https://www.youtube.com/@statquest)
+[Normalized Nerd - YouTube](https://www.youtube.com/@NormalizedNerd)
 
 [This is How Easy It Is to Lie With Statistics - YouTube](https://www.youtube.com/watch?v=bVG2OQp6jEQ)
 [This is how easy it is to manipulate public perception - YouTube](https://www.youtube.com/watch?v=ioxWuCd-mn0)
@@ -332,7 +335,7 @@ p-value is the probability that random chance generated the data, or something e
 
 ## Topology
 
-[Visual Topology & Geometry - YouTube](https://www.youtube.com/channel/UCQp_QaILaVzfa5K_yDJP12A)
+[Visual Topology & Geometry - YouTube](https://www.youtube.com/@VisualTopologyGeometry)
 
 [Who cares about topology? (Inscribed rectangle problem) - YouTube](https://www.youtube.com/watch?v=AmgkSdhK4K8)
 [Sneaky Topology | The Borsuk-Ulam theorem and stolen necklaces - YouTube](https://www.youtube.com/watch?v=yuVqxCSsE7c)
@@ -344,6 +347,11 @@ p-value is the probability that random chance generated the data, or something e
 [The Simplest Math Problem No One Can Solve - Collatz Conjecture - YouTube](https://www.youtube.com/watch?v=094y1Z2wpJg)
 [UNCRACKABLE? The Collatz Conjecture - Numberphile - YouTube](https://www.youtube.com/watch?v=5mFpVDpKX70)
 [民科盛宴冰雹猜想：小学生都能看懂，专业数学家 80 年都证不出来 - YouTube](https://www.youtube.com/watch?v=WXEh7VWz5hU)
+
+## Poincaré Conjecture
+
+[Poincaré conjecture - Wikiwand](https://www.wikiwand.com/en/Poincar%C3%A9_conjecture)
+[庞加莱猜想为何价值 100 万美元？宇宙到底是什么形状？ - YouTube](https://www.youtube.com/watch?v=LsbfmAd9mGM)
 
 ## Programming
 

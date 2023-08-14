@@ -31,6 +31,8 @@ tags:
 
 [The Legend of Zelda: Reclaim the Wild – A Zelda Tabletop Roleplaying Game System](https://reclaimthewild.net/)
 
+[NPC D&D - Entire campaign - 'Adventures of Azerim' - YouTube](https://www.youtube.com/playlist?list=PL8UrCqt275jEBJ07mm2FoTWTZiU4rhCQA)
+
 ## Monopoly
 
 Monopoly derives from a patented "The Landlord’s Game", whose goal was to teach the bads of monopoly, rather than encouraging it.

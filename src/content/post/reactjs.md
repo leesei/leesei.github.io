@@ -2,7 +2,7 @@
 title: React.js
 description: The library for web and native user interfaces
 created: 2015-12-04
-updated: 2023-06-13
+updated: 2023-08-08
 tags:
   - frontend
   - javascript
@@ -319,7 +319,6 @@ Set `displayName` property of the function to help debugging.
 [React Component Lifecycle - DZone Web Dev](https://dzone.com/articles/react-component-lifecycle)
 [React Stateless Functional Components: Nine Wins You Might Have Overlooked](https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc#.1x45gqq9l) ❗!important
 [Understanding React’s Components: Stateless and Stateful](https://blog.hipolabs.com/understanding-reacts-components-stateless-and-stateful-66fa9f31de34)
-[React component patterns – Team Subchannel – Medium](https://medium.com/teamsubchannel/react-component-patterns-e7fb75be7bb0)
 [Writing Resilient Components — Overreacted](https://overreacted.io/writing-resilient-components/) mostly a pitch to hooks
 [How the “Golden Rule” of React components can help you write better code](https://www.freecodecamp.org/news/how-the-golden-rule-of-react-components-can-help-you-write-better-code-127046b478eb)
 [Better Reusable React Components with the Overrides Pattern](https://medium.com/@dschnr/better-reusable-react-components-with-the-overrides-pattern-9eca2339f646)
@@ -495,8 +494,10 @@ Use `React.createRef()`/`React.useRef()`, not string ref or callback ref
 
 ## React Server Component
 
+[Understanding React Server Components – Vercel](https://vercel.com/blog/understanding-react-server-components#why-do-we-need-server-components)
 [Getting Started: React Essentials | Next.js](https://nextjs.org/docs/getting-started/react-essentials#server-components)
 
+[React Server Components](https://www.patterns.dev/posts/react-server-components)
 [Introducing Zero-Bundle-Size React Server Components – React Blog](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
 [React Server Components. - It’s not server-side rendering. | by Nathan Sebhastian | Bits and Pieces](https://blog.bitsrc.io/react-server-components-1ca621ac2519)
 [I Tested React Server Components And I'm Not A Fan (Yet).](https://marmelab.com/blog/2021/06/15/react-server-components.html)
@@ -930,7 +931,7 @@ Reparenting nodes, good for moving components without re-initializing
 [luismartinezs/react-katas: Each folder contains a "kata" to practice a specific technique of intermediate to advanced React](https://github.com/luismartinezs/react-katas)
 [arkency/reactjs_koans: Learn basics of React.js making the tests pass](https://github.com/arkency/reactjs_koans)
 
-[ReactRally - YouTube](https://www.youtube.com/channel/UCXBhQ05nu3L1abBUGeQ0ahw)
+[ReactRally - YouTube](https://www.youtube.com/@reactrally2196)
 
 [The React Handbook](https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795) [download](https://reacthandbook.com/)
 [SurviveJS - React](https://survivejs.com/react/)
@@ -945,7 +946,6 @@ Reparenting nodes, good for moving components without re-initializing
 [React Conf 2017 - YouTube](https://www.youtube.com/playlist?list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0)
 
 [Lin Clark: A cartoon guide to performance in React - JSConf Iceland 2016 - YouTube](https://www.youtube.com/watch?v=NGxVLnJKhP8)
-[ReactRally - YouTube](https://www.youtube.com/channel/UCXBhQ05nu3L1abBUGeQ0ahw/videos)
 [James Long - Debugging Your Debugger - YouTube](https://www.youtube.com/watch?v=gvVpSezT5_M)
 
 ## Tools
@@ -990,12 +990,15 @@ ESDoc requires `class` syntax.
 [React.js cheatsheet](http://ricostacruz.com/cheatsheets/react.html)
 [Introduction · React Bits](https://vasanthk.gitbooks.io/react-bits/content/)
 
+[Patterns.dev - Modern Web App Design Patterns](https://www.patterns.dev/)
 [14 Beneficial Tips to Write Cleaner Code in React Apps - DEV Community 👩‍💻👨‍💻](https://dev.to/jsmanifest/14-beneficial-tips-to-write-cleaner-code-in-react-apps-1gcf)
 [5 common practices that you can stop doing in React](https://blog.logrocket.com/5-common-practices-that-you-can-stop-doing-in-react-9e866df5d269)
 [5 Awesome React.js Libraries You Should Know About - Better Programming - Medium](https://medium.com/better-programming/5-awesome-react-js-libraries-you-should-know-about-ef0274fe4a56)
 [6 Tips and Best Practices for a Scalable React Project | by Nathan Sebhastian | Bits and Pieces](https://blog.bitsrc.io/best-practices-and-tips-for-a-scalable-react-application-db708ae49227)
 
 [React.js and Dynamic Children - Why the Keys are Important - Arkency Blog](http://blog.arkency.com/2014/10/react-dot-js-and-dynamic-children-why-the-keys-are-important/) properly define keys for React to diff the virtual DOM
+[Most Senior React Devs Don’t Know How To Fix This - YouTube](https://www.youtube.com/watch?v=vXJkeZf-4-4) without key React don't know the component changed
+
 [5 Key React Lessons the Tutorials Don't Teach You](https://www.freecodecamp.org/news/5-react-lessons-tutorials-dont-teach/)
 
 [React.js loses input focus on typing - React Kung Fu](http://reactkungfu.com/2015/09/react-js-loses-input-focus-on-typing/)
@@ -1083,7 +1086,7 @@ const Conditional = (props) => {
 [Improve React App Performance Through Memoization – Bits and Pieces](https://blog.bitsrc.io/improve-react-app-performance-through-memoization-cd651f561f66)
 [React Hooks: Optimizing for performance - ITNEXT](https://itnext.io/optimizing-react-code-with-hooks-3eaaf5978351)
 `useMemo()` and `useCallback()` create stable variable that can be used in improving re-render speed
-` useCallback(fn, deps)`` is equivalent to `useMemo(() => fn, deps)`.
+`useCallback(fn, deps)`` is equivalent to`useMemo(() => fn, deps)`.
 [React hooks: useCallback and useEffect dependencies - YouTube](https://www.youtube.com/watch?v=L59rOas2AYE)
 [use-updating-callbacks - npm](https://www.npmjs.com/package/use-updating-callbacks) use the latest closure
 
@@ -1123,7 +1126,7 @@ function App({ text }) {
       a: state ? 3 : 4,
       b: !!state,
     }),
-    [state]
+    [state],
   );
   return (
     <div className="App">
@@ -1247,6 +1250,7 @@ function App({ text }) {
 [Top 7 UI libraries and kits for React - LogRocket Blog](https://blog.logrocket.com/top-7-ui-libraries-and-kits-for-react/)
 [React UI Kits - DEV Community 👩‍💻👨‍💻](https://dev.to/kayis/react-ui-kits-3fm2)
 [React UI Roundup](https://react-ui-roundup.dimitrimitropoulos.com/)
+[Best React Admin Dashboard Libraries 2023 | refine](https://refine.dev/blog/react-admin-dashboard/)
 
 [MUI: The React component library you always wanted](https://mui.com/)
 [Elegant UX in React with Material-UI ← Alligator.io](https://alligator.io/react/material-ui/)
@@ -1731,6 +1735,7 @@ Table/Date Grid:
 [Animating with React, Redux, and d3 - A geek with a hat](https://swizec.com/blog/animating-with-react-redux-and-d3/swizec/6775)
 [How to Make a Piechart using React and d3 - A geek with a hat](https://swizec.com/blog/how-to-make-a-piechart-using-react-a`nd-d3/swizec/6785)
 [Tiny React & D3 flamegraph tutorial - A geek with a hat](https://swizec.com/blog/tiny-react-d3-flamegraph-tutorial/swizec/8440)
+[Zero-cost Way on React & D3. - DEV Community](https://dev.to/valorsoftware/zero-cost-way-on-react-d3-3m1e)
 
 ### Building Components
 

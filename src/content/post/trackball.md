@@ -4,7 +4,7 @@ description: ""
 created: 2015-06-15
 tags:
   - adesso
-  - comp.hardware
+  - comp/hardware
   - elecom
   - kensington
   - logitech

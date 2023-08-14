@@ -3,7 +3,7 @@ title: Formal Language
 description: ""
 created: 2019-06-18
 tags:
-  - comp.lang
+  - comp/lang
   - formal-language
 ---
 

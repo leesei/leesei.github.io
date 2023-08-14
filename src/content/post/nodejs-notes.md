@@ -3,7 +3,7 @@ title: Node.js notes
 description: ""
 created: 2014-12-11
 tags:
-  - comp.lang
+  - comp/lang
   - javascript/runtime
   - nodejs
 ---
@@ -426,14 +426,30 @@ stream.on("end", function () {
 [JavaScript Engines Hidden Classes (and Why You Should Keep Them in Mind) | concise notes](https://draft.li/blog/2016/12/22/javascript-engines-hidden-classes/)
 [JavaScript engine fundamentals: Shapes and Inline Caches · Mathias Bynens](https://mathiasbynens.be/notes/shapes-ics)
 
-[A tour of V8: Garbage Collection](http://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection)
-[Forcing Garbage Collection in node.js and JavaScript • Open Source is Everything](https://www.xarg.org/2016/06/forcing-garbage-collection-in-node-js-and-javascript/)
-
 [Crossing the JS/C++ Boundary — Advanced NodeJS Internals — Part 1](https://jsblog.insiderattack.net/crossing-the-js-c-boundary-advanced-nodejs-internals-part-1-cb52957758d8)
 
 [A Quick Guide To Reading Node.js Core Source — Medium](https://medium.com/@Trott/a-quick-guide-to-reading-node-js-core-source-c968d83e4194#.p8prejow7)
 [Architecture of Node.js’ Internal Codebase — Yet Another Node.js Blog — Medium](https://medium.com/yet-another-node-js-blog/architecture-of-node-js-internal-codebase-57cd8376b71f#.75t44fdz7)
 [How does NodeJS work? — Eugene Obrezkov](https://blog.ghaiklor.com/how-nodejs-works-bfe09efc80ca#.cv91pzo3n)
+
+### Garbage Collection
+
+[High-performance garbage collection for C++ · V8](https://v8.dev/blog/high-performance-cpp-gc)
+[Trash talk: the Orinoco garbage collector · V8](https://v8.dev/blog/trash-talk)
+[Getting garbage collection for free · V8](https://v8.dev/blog/free-garbage-collection)
+
+[A tour of V8: Garbage Collection](http://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection)
+[Memory Management in V8, garbage collection and improvements - DEV Community](https://dev.to/jennieji/memory-management-in-v8-garbage-collection-and-improvements-18e6)
+[Forcing Garbage Collection in node.js and JavaScript • Open Source is Everything](https://www.xarg.org/2016/06/forcing-garbage-collection-in-node-js-and-javascript/)
+[A tour of V8: Garbage Collection — jayconrod.com](https://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection)
+[Understanding Garbage Collection and Hunting Memory Leaks in Node.js | Cloudbees Blog](https://www.cloudbees.com/blog/understanding-garbage-collection-in-node-js)
+
+[Is the COST of JavaScript’s GC REALLY that high? - YouTube](https://www.youtube.com/watch?v=easvMCCBFkQ)
+
+[Understanding Garbage Collection and hunting Memory Leaks in Node.js | Dynatrace blog](https://www.dynatrace.com/blog/understanding-garbage-collection-and-hunting-memory-leaks-in-node-js/)
+[How to Self Detect a Memory Leak in Node - nearForm](http://www.nearform.com/nodecrunch/self-detect-memory-leak-node/)
+[Avoiding Memory Leaks in Node.js: Best Practices for Performance | AppSignal Blog](https://blog.appsignal.com/2020/05/06/avoiding-memory-leaks-in-nodejs-best-practices-for-performance.html)
+[A surprising JavaScript memory leak found at Meteor](http://point.davidglasser.net/2013/06/27/surprising-javascript-memory-leak.html) accidental capturing of lexical environment
 
 ## Tips and Tricks
 
@@ -477,12 +493,6 @@ stream.on("end", function () {
 [davidmarkclements/0x: 🔥 single-command flamegraph profiling 🔥](https://github.com/davidmarkclements/0x)
 [ValYouW/njsTrace: A Node.js tracing and instrumentation utility](https://github.com/ValYouW/njsTrace)
 
-[Understanding Garbage Collection and hunting Memory Leaks in Node.js | Dynatrace blog](https://www.dynatrace.com/blog/understanding-garbage-collection-and-hunting-memory-leaks-in-node-js/)
-[How to Self Detect a Memory Leak in Node - nearForm](http://www.nearform.com/nodecrunch/self-detect-memory-leak-node/)
-[Avoiding Memory Leaks in Node.js: Best Practices for Performance | AppSignal Blog](https://blog.appsignal.com/2020/05/06/avoiding-memory-leaks-in-nodejs-best-practices-for-performance.html)
-[A surprising JavaScript memory leak found at Meteor](http://point.davidglasser.net/2013/06/27/surprising-javascript-memory-leak.html) accidental capturing of lexical environment
-
-[Understanding Garbage Collection and Memory in Node.js | via @codeship](https://blog.codeship.com/understanding-garbage-collection-in-node-js/)
 [V8 JavaScript Engine: Concurrent marking in V8](https://v8project.blogspot.com/2018/06/concurrent-marking.html)
 [How to track down CPU issues in Node.js - about:performance](http://apmblog.dynatrace.com/2016/01/14/how-to-track-down-cpu-issues-in-node-js/)
 

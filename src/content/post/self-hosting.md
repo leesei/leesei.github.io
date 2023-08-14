@@ -2,6 +2,7 @@
 title: Self Hosting
 description: Usage includes homelab and self-hosted components for commercial projects
 created: 2023-06-10
+updated: 2023-07-09
 tags:
   - devops
 ---
@@ -14,6 +15,9 @@ tags:
 
 [awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
+[build your own cloud - YouTube](https://www.youtube.com/watch?v=xBIowQ0WaR8)
+[FileCloud – Hyper-Secure Enterprise File Sharing and Sync (EFSS)](https://www.filecloud.com/)
+
 [Next level data privacy with easy, free and secure self hosting at home - DEV Community](https://dev.to/maxime1992/next-level-data-privacy-with-easy-free-and-secure-self-hosting-at-home-2c84)
 [Paperless-ngx, manage your documents like never before - DEV Community](https://dev.to/maxime1992/paperless-ngx-manage-your-documents-like-never-before-2a3n)
 
@@ -23,6 +27,8 @@ tags:
 [SuperTokens, Open Source Authentication](https://supertokens.io/)
 
 [Open-source authentication platform - Fief](https://www.fief.dev/)
+
+[FusionAuth: Auth. Built for Devs, by Devs](https://fusionauth.io/)
 
 [Keycloak](https://www.keycloak.org/)
 

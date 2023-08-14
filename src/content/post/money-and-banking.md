@@ -10,6 +10,10 @@ tags:
 
 [Great Depression - Wikiwand](https://www.wikiwand.com/en/Great_Depression)
 
+## Global Reserve Currency
+
+[The Growing Revolt Against the US Dollar - YouTube](https://www.youtube.com/watch?v=g6rFff2MAxM)
+
 ## Wealth Inequality
 
 [This cartoon explains how the rich got rich and the poor got poor - Vox](http://www.vox.com/2016/5/23/11704246/wealth-inequality-cartoon)
@@ -49,7 +53,7 @@ tags:
 
 ## Cryptocurrency
 
-[[blockchain##Cryptocurrency]]
+[[blockchain#Cryptocurrency]]
 
 ### Ars Technica
 

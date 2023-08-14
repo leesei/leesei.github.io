@@ -3,7 +3,7 @@ title: Enterprise Server
 description: ""
 created: 2016-02-17
 tags:
-  - comp.hardware
+  - comp/hardware
   - enterprise
   - server
 ---

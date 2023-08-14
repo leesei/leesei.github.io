@@ -2,6 +2,7 @@
 title: Paradox
 description: ""
 created: 2015-06-18
+updated: 2023-07-23
 tags:
   - paradox
   - philosophy
@@ -14,6 +15,16 @@ tags:
 [Paradoxes - YouTube](https://www.youtube.com/playlist?list=PL1lNrW4e0G8XVWIQoOlp_cM8PxDSqKgis) Up and Atom
 
 [一个反直觉的硬币游戏，伯特兰箱子悖论 - YouTube](https://www.youtube.com/watch?v=kq_Ey8l_1yc) Goat's paradox
+
+## Raven Paradox
+
+[[scientific-method]]
+
+[Raven paradox - Wikiwand](https://www.wikiwand.com/en/Raven%20paradox)
+[烏鴉悖論 - Wikiwand](https://www.wikiwand.com/zh-hant/%E7%83%8F%E9%B4%89%E6%82%96%E8%AB%96)
+[白馬非馬 - Wikiwand](https://www.wikiwand.com/zh-hant/%E7%99%BD%E9%A9%AC%E9%9D%9E%E9%A9%AC)
+
+[The Raven Paradox - A Hiccup in the Scientific Method - YouTube](https://www.youtube.com/watch?v=Ca_sxDTPo60)
 
 ## Time Travel
 
@@ -34,6 +45,12 @@ Grandfather
 
 [Russell's paradox - Wikiwand](http://www.wikiwand.com/en/Russell's_paradox)
 [Zermelo–Fraenkel set theory - Wikiwand](https://www.wikiwand.com/en/Zermelo%E2%80%93Fraenkel_set_theory)
+
+[Russell's Paradox - A Ripple in the Foundations of Mathematics - YouTube](https://www.youtube.com/watch?v=xauCQpnbNAM)
+
+- Zermelo-Freenkel Set Theory
+- Category Theory
+- Homotopy Type Theory
 
 [Arrow's impossibility theorem - Wikiwand](http://www.wikiwand.com/en/Arrow's_impossibility_theorem)
 

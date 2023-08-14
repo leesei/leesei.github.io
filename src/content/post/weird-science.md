@@ -2,6 +2,7 @@
 title: Weird Science
 description: ""
 created: 2015-12-04
+updated: 2023-08-10
 tags:
   - science
 ---
@@ -24,6 +25,7 @@ phlogiston -> caloric -> thermodynamics
 ## Ig Nobel Prize
 
 [About The Ig® Nobel Prizes - Improbable Research](http://www.improbable.com/ig/)
+[Podcast](https://improbable.com/category/the-weekly-improbable-research-podcast/)
 
 [Ig Nobel Prize - Wikiwand](http://www.wikiwand.com/en/Ig_Nobel_Prize)
 [List of Ig Nobel Prize winners - Wikiwand](https://www.wikiwand.com/en/List_of_Ig_Nobel_Prize_winners)
@@ -38,17 +40,19 @@ phlogiston -> caloric -> thermodynamics
 
 ## 腦洞系列
 
-[自说自话的总裁 - YouTube](https://www.youtube.com/channel/UCgo_-fjJxnLwwwq5dSY72rg)
-[seeker 大师兄 - YouTube](https://www.youtube.com/channel/UCfkFEfvGzuMT4hK0suu_Q2g)
-[XIAOHAN - YouTube](https://www.youtube.com/channel/UCvoBl4rnVsetDKA_Tdk-jeA)
-[YH 尹昊 - YouTube](https://www.youtube.com/channel/UCXC1M_InB8vEMvg7NSrslKA)
-[老肉雜談 - YouTube](https://www.youtube.com/c/%E8%80%81%E8%82%89%E9%9B%9C%E8%AB%87) friend of 老高
+[自说自话的总裁 - YouTube](https://www.youtube.com/@STBoss)
+[總裁聊聊 - YouTube](https://www.youtube.com/@BossPrating)
+[seeker 大师兄 - YouTube](https://www.youtube.com/@seeker7603)
+[XIAOHAN - YouTube](https://www.youtube.com/@xiaohan-ufo) 曉涵哥來了
+[YH 尹昊 - YouTube](https://www.youtube.com/@yh4212)
+[老肉雜談 - YouTube](https://www.youtube.com/@LR_Talk)
 [那些奇怪的知識 - YouTube](https://www.youtube.com/playlist?list=PLwSXERWUG_xQC0zUTOyS4nQ4KvLjxeIbH) 老肉
-[TREY the Explainer - YouTube](https://www.youtube.com/channel/UCOuWeOkMrq84u5LY6apWQ8Q)
+[尼可拉斯楊 - YouTube](https://www.youtube.com/@NicolasYoung)
+[TREY the Explainer - YouTube](https://www.youtube.com/@TREYtheExplainer)
 
 ## 老高與小茉 Mr & Mrs Gao
 
-[Mr & Mrs Gao - YouTube](https://www.youtube.com/channel/UCMUnInmOkrWN4gof9KlhNmQ)
+[Mr & Mrs Gao - YouTube](https://www.youtube.com/@laogao)
 [Kuaizero 老高 - Wikiwand](https://www.wikiwand.com/zh-hant/Kuaizero_%E8%80%81%E9%AB%98)
 
 [【Joeman Show Ep18】獨家揭密！老高與小茉的愛情故事！ft.老高 Kuaizero - YouTube](https://www.youtube.com/watch?v=mp20RqlJwbo)
@@ -62,3 +66,15 @@ phlogiston -> caloric -> thermodynamics
 眉前紅點胎記 https://youtu.be/zcWwJHLILk4?t=244
 
 [杜安調查團 - YouTube](https://www.youtube.com/channel/UCgINx_OgGVlRzHC9hzj6lew) 老高填坑團
+
+## 說書頻道抄襲/洗稿
+
+[[copyright]]
+
+[藍泉媽媽也抄襲！老高觸犯了兩個大禁忌！理性討論老高抄襲事件 - YouTube](https://www.youtube.com/watch?v=CsFfVsiUO6w)
+
+[回應被抄襲事件。 - YouTube](https://www.youtube.com/watch?v=ShIWDQQdk9U) 林辰 Buchi
+
+[媽媽不同意（老高與小茉）專題-500 期持续更新中 - YouTube](https://www.youtube.com/playlist?list=PL2ljJ4u2tioXJlwFc8zQuR1zAMR2Vovpz)
+[老高與小茉，重大抄襲事件完整揭露！從這篇起，我們進入老高抄襲影片獲利的黑暗大門，老高影響 youtube 世界的 X 能力是什麽？而這絕不是老高 400 多期抄袭的最後一篇 | 媽媽不同意|全篇拆穿|藍泉媽媽 - YouTube](https://www.youtube.com/watch?v=Sjwa23smUEM)
+[老高抄襲事件爆發後，我們一切的計劃，被徹底打亂了。原本計劃是····。現在，堅持還是退出，這是一個問題 | 媽媽不同意|全篇拆穿|藍泉媽媽 - YouTube](https://www.youtube.com/watch?v=thYeeVj0UWw)

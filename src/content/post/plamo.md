@@ -2,6 +2,7 @@
 title: Plamo
 description: ""
 created: 2017-04-25
+updated: 2023-07-06
 tags:
   - toys
 ---
@@ -199,7 +200,7 @@ RG Sinanju, while more or less the same price as the HG kit, is not recommended:
 [MG Sinanju OVA Ver. (Review) - YouTube](https://www.youtube.com/watch?v=N86AuftbRmw)
 [【评头论足】BANDAI MG MSN-6S SINNANJUN 新安洲 OVA 版高达模型 GUNPAL GUNDAM - YouTube](https://www.youtube.com/watch?v=_QmpPCM6VLg)
 
-### SD/SDCD/Others
+### SDCS
 
 [SD Gundam Cross Silhouette - HobbySearch PVC Figure Store](https://www.1999.co.jp/eng/search?typ1_c=101&cat=&state=&sold=0&sortid=0&searchkey=SD+Gundam+Cross+Silhouette)
 [SD Cross Silhouette - HobbySearch PVC Figure Store](https://www.1999.co.jp/eng/search?typ1_c=101&cat=&state=&sold=0&sortid=0&searchkey=SD+Cross+Silhouette)
@@ -222,6 +223,13 @@ RG Sinanju, while more or less the same price as the HG kit, is not recommended:
 [SD Cross Silhouette Mazinkaiser (SD) (Gundam Model Kits) (Plastic model) - HobbySearch Gundam Kit/etc. Store](https://www.1999.co.jp/eng/10595731) 魔神凱撒 ¥68@2020-12
 [【普拉模】#9 黑鋼兄弟 SDCS 魔神 Z&大魔神(無敵鐵金剛)製作報告 - YouTube](https://www.youtube.com/watch?v=L8iGGNgSv8c)
 
+### MGSD
+
+[MASTER GRADE SD 自由高達](https://hk.gundam.info/content/mgsd/001/)
+[MGSD 自由高達模型 23 年發售｜頂級技術 SD 系列貴過 HG](https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/820192/)
+
+### SD/Others
+
 [Haropla Mobile Haro (Gundam Model Kits) - HobbySearch Gundam Kit/etc. Store](https://www.1999.co.jp/eng/10571361) 社長 ¥53.9@2020-12
 [【普拉模】#11 HAROPLA 008 機動哈囉製作報告 - YouTube](https://www.youtube.com/watch?v=--ZnaFJv5VA)
 
@@ -236,7 +244,7 @@ Buzz Lightyear ¥167@2019-10
 [【Toy Story 4 模型】教你簡單方法美化「巴斯光年 Buzz Lightyear」 - YouTube](https://www.youtube.com/watch?v=wyfUIUUXql8)
 [【深夜手痒】自己动手拼装一个巴斯光年，还有意外小机关？【玩具总动员 4】 - YouTube](https://www.youtube.com/watch?v=xHwOc6qbmHo)
 
-[【開箱片】BANDAI【幪面超人 BLACK】組裝模型【仮面ライダー BLACK】Masked Rider Black【Figure-Rise Standard】Model Kit Unboxing - YouTube](https://www.youtube.com/watch?v=LNYo5eeB1QU) ¥1592022-08
+[【開箱片】BANDAI【幪面超人 BLACK】組裝模型【仮面ライダー BLACK】Masked Rider Black【Figure-Rise Standard】Model Kit Unboxing - YouTube](https://www.youtube.com/watch?v=LNYo5eeB1QU) ¥159@2022-08
 
 小号手模型 08100 大黄蜂 ¥58@2020-12
 
@@ -622,7 +630,7 @@ Note oil base methods will dilute your paints so apply lacquer coating before pa
 
 ### Washing
 
-[Wash (visual arts) - Wikiwand](https://www.wikiwand.com/en/Wash_(visual_arts%29)
+[Wash (visual arts) - Wikiwand](<https://www.wikiwand.com/en/Wash_(visual_arts)>)
 
 Gunpla painting usually uses oil base and water base paint as base and washing. Miniature painting usually uses water based paint and washer.
 

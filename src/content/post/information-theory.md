@@ -3,7 +3,7 @@ title: Information Theory
 description: ""
 created: 2019-08-20
 tags:
-  - comp.lang
+  - comp/lang
 ---
 
 Entropy in Information Theory is the measure of information in terms of uncertainty
@@ -11,3 +11,5 @@ Entropy in Information Theory is the measure of information in terms of uncertai
 
 [Intro to Information Theory | Digital Communication | Information Technology - YouTube](https://www.youtube.com/watch?v=_PG-jJKB_do)
 [Information Theory & Coding - Professor Brailsford - Computerphile - YouTube](https://www.youtube.com/playlist?list=PLzH6n4zXuckpKAj1_88VS-8Z6yn9zX_P6)
+
+[Berry's Paradox - An Algorithm For Truth - YouTube](https://www.youtube.com/watch?v=FDXf1XxCXAk)

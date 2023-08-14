@@ -29,6 +29,7 @@ tags:
 \> 1 means force is amplified; < 1 means distance (hence speed) is amplified
 [Mechanical efficiency - Wikiwand](https://www.wikiwand.com/en/Mechanical_efficiency)
 [【機械效益】 省力滑輪組](https://m.facebook.com/story.php?story_fbid=1314888792020145&id=129030153939354&refid=28)
+[How Levers, Pulleys and Gears Work - YouTube](https://www.youtube.com/watch?v=JnYVz1TSmBQ)
 
 [Mechanical Principles demonstrated with LEGO 02 - YouTube](https://www.youtube.com/watch?v=aSQMV9EC58c)
 

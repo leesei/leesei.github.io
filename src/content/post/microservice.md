@@ -2,6 +2,7 @@
 title: Microservice
 description: ""
 created: 2016-05-15
+updated: 2023-08-14
 tags:
   - architecture
   - microservice
@@ -236,6 +237,7 @@ Characteristics of a Microservice Architecture:
 
 [Migrating to Microservices](https://www.infoq.com/presentations/migration-cloud-native)
 [Testing Web Services, Microservices and APIs](http://www.infoq.com/presentations/testing-web-services-soap-rest)
+[Microservices Retrospective – What We Learned (and Didn’t Learn) from Netflix](https://www.infoq.com/presentations/microservices-netflix-industry/)
 
 ## DZone
 
@@ -391,6 +393,8 @@ Replaces ESB
 [Dapr - Distributed Application Runtime](https://dapr.io/)
 [dapr/dapr: Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.](https://github.com/dapr/dapr)
 
+[Dapr : The Ultimate Developer API for Authoring Microservices - YouTube](https://www.youtube.com/watch?v=74A7YwsmVwM)
+
 [Dapr for .NET Developers | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/)
 [Announcing Distributed Application Runtime (Dapr), an open source project to make it easier for every developer to build microservice applications - Open Source Blog](https://cloudblogs.microsoft.com/opensource/2019/10/16/announcing-dapr-open-source-project-build-microservice-applications/)
 
@@ -401,7 +405,8 @@ Replaces ESB
 
 ## Micro
 
-Go framework
+> Go framework
+
 [Micro | Platform APIs built for developers](https://micro.dev/)
 [Getting Started with Micro | Micro](https://micro.dev/getting-started)
 
@@ -416,7 +421,7 @@ An ecosystem which simplifies building and managing microservices
 
 ## Micro from Vercel
 
-Node.js framework
+> Node.js framework
 
 [vercel/micro: Asynchronous HTTP microservices](https://github.com/vercel/micro)
 

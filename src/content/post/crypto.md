@@ -8,6 +8,8 @@ tags:
   - security
 ---
 
+> if crypto to you only means Cryptocurrency, please leave
+
 [[enigma-machine]]
 
 [A Crash Course in Everything Cryptographic – Noteworthy - The Journal Blog](https://blog.usejournal.com/a-crash-course-in-everything-cryptographic-50daa0fda482) ❗!important
@@ -162,6 +164,15 @@ gpg --output filename.tar.gz --decrypt filename.tar.gz.gpg
 [AES Crypt](https://www.aescrypt.com/download/)
 [aescrypt](https://askubuntu.com/a/60875)
 
+## Stream Ciphers
+
+### Chacha Cipher
+
+> alternative to AES
+
+[Chacha Cipher - Computerphile - YouTube](https://www.youtube.com/watch?v=UeIpq-C-GSA)
+ARX cipher: add, rotate, xor
+
 ## Public Key Cryptography
 
 [Public-key cryptography - Wikiwand](http://www.wikiwand.com/en/Public-key_cryptography)
@@ -185,6 +196,10 @@ Public Key crypto simply works with numbers. This means that any messages would 
 
 [A Gentle Introduction to Attribute-Based Encryption](https://medium.com/@dbkats/a-gentle-introduction-to-attribute-based-encryption-edca31744ac6)
 
+## Signature
+
+[What are Digital Signatures? - Computerphile - YouTube](https://www.youtube.com/watch?v=s22eJ1eVLTU)
+
 ## Steganography
 
 [Steganography - Wikiwand](https://www.wikiwand.com/en/Steganography)
@@ -206,4 +221,6 @@ Public Key crypto simply works with numbers. This means that any messages would 
 
 [Zero-Knowledge Proof (ZKP) — Explained | Chainlink](https://blog.chain.link/what-is-a-zero-knowledge-proof-zkp/)
 [Zero-knowledge proofs explained in 3 examples](https://www.circularise.com/blogs/zero-knowledge-proofs-explained-in-3-examples)
+
+[Zero Knowledge Proofs - YouTube](https://www.youtube.com/watch?v=V5uVKZn3F_4)
 [神奇的零知识证明！既能保守秘密，又让别人信你！ - YouTube](https://www.youtube.com/watch?v=FuKEpOhiVPg)

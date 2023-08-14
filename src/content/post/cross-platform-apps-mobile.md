@@ -2,6 +2,7 @@
 title: Cross Platform Apps (Mobile)
 description: ""
 created: 2015-04-03
+updated: 2023-07-28
 tags:
   - app
   - appcelerator
@@ -55,6 +56,8 @@ The new Cross-Platform is to share business logic, compile to native code and bi
 [Examining performance differences between Native, Flutter, and React Native mobile development.](https://thoughtbot.com/blog/examining-performance-differences-between-native-flutter-and-react-native-mobile-development)
 [Flutter and Kotlin Multiplatform – Aldy Chrissandy – Medium](https://medium.com/@aldychris/flutter-and-kotlin-multiplatform-47d27ff08c1d)
 [Flutter and Kotlin Multiplatform relationship – Kt. Academy](https://blog.kotlin-academy.com/flutter-and-kotlin-multiplatform-relationship-890616005f57)
+
+[Ionic vs. React Native: Performance Comparison - Ionic Blog](https://ionic.io/blog/ionic-vs-react-native-performance-comparison)
 
 [What are the main differences between ReactJS and React-Native? – Medium](https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-differences-between-both-d6e8e88ebf24)
 [What are the key difference between ReactNative and NativeScript? - Quora](https://www.quora.com/What-are-the-key-difference-between-ReactNative-and-NativeScript)

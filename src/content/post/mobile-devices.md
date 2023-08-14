@@ -2,12 +2,15 @@
 title: Mobile Devices
 description: ""
 created: 2022-02-09
+updated: 2023-08-04
 tags:
-  - comp.hardware
+  - comp/hardware
   - mobile
 ---
 
 [[displays#Panel]]
+
+[旧手机不要扔，还能做这些事…… - YouTube](https://www.youtube.com/watch?v=EROFDL9sKyo)
 
 ## Touch Screen
 
@@ -54,10 +57,14 @@ Aya Neo Next R7 5800U/5825U $1315, hall sensor analog stick
 [I Was Sent A $1400 Nintendo Switch Pro! - YouTube](https://www.youtube.com/watch?v=mfdQjrjxYos)
 [The knock off STEAM DECK that's $1000 more... - YouTube](https://www.youtube.com/watch?v=kUl3ubGe4UE)
 [PC 遊戲帶著走，黃油帶到廁所玩？！真 WIN 10 掌機《AYANEO 亞諾電競掌機》開箱實測， 3A 大作也無壓力順跑，還能用來剪片！？ - YouTube](https://www.youtube.com/watch?v=gmQpSOr6K78)
+[AYANEO NEXT -- One Month Later - YouTube](https://www.youtube.com/watch?v=IzS6Jp7XBs4)
 
 Aya Neo Air, OLED, RDNA 2
 [I DESPERATELY Wanted to Love This... - YouTube](https://www.youtube.com/watch?v=XbA6S0kdu2o)
 [AyaNeo Air / AyaNeo Air Pro Review vs Steam Deck: An OLED Handheld Masterpiece? - YouTube](https://www.youtube.com/watch?v=aei6_e5k4so)
+
+Ayaneo Air 1S, 7480U
+[最小的 7840U 掌機來了！ 4999 元！ AYANEO AIR 1S 測評 - YouTube](https://www.youtube.com/watch?v=jgLFF6s6nok)
 
 Ayaneo Air Plus, Ryzen 7 6800U, RDNA2 12CU
 [Ayaneo Air Plus Review - IGN](https://www.ign.com/articles/ayaneo-air-plus-review)
@@ -85,6 +92,7 @@ Ayaneo 2, USD1100, Ryzen 7 6800U, RDNA2 12CU
 
 [I HATE being lied to… but I love the ROG Ally - YouTube](https://www.youtube.com/watch?v=qLVgr29NMA0)
 [ULTIMATE Asus ROG ALLY Performance Review - SteamDeck vs. 7840U vs 6800U - YouTube](https://www.youtube.com/watch?v=BOMiEI7ojd8) 2023-05, Ally is not very efficient at 10W
+[The Handheld Gaming Future is here: ROG Ally VS Steam Deck Review - YouTube](https://www.youtube.com/watch?v=fXz4wJAyKoI)
 [ROG 掌机性能分析：最强掌机来啦！ - YouTube](https://www.youtube.com/watch?v=y3-4FgTmGIQ)
 [Beware the ASUS ROG Ally Reviews - YouTube](https://www.youtube.com/watch?v=C6VuSPPkTeY) after driver update
 
@@ -135,4 +143,3 @@ SnapDragon 845
 Retro Game Corps
 [Yes, the AYN Odin is THAT good. (In-Depth Review) - YouTube](https://www.youtube.com/watch?v=TK9-5fdpicg)
 [AYN Odin Emulation & Tips (GameCube/Wii/PS2) - YouTube](https://www.youtube.com/watch?v=PliCqMdmUbM)
-[AYANEO NEXT -- One Month Later - YouTube](https://www.youtube.com/watch?v=IzS6Jp7XBs4)

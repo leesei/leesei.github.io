@@ -2,10 +2,10 @@
 title: C#
 description: ""
 created: 2020-04-23
-updated: 2023-04-18
+updated: 2023-08-10
 tags:
   - c-sharp
-  - comp.lang
+  - comp/lang
 ---
 
 [Introduction to the C# Language and the .NET Framework | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/getting-started/introduction-to-the-csharp-language-and-the-net-framework)
@@ -551,6 +551,9 @@ Utf8Json is the fastest
 [Precision and accuracy of DateTime | Microsoft Docs](https://docs.microsoft.com/en-us/archive/blogs/ericlippert/precision-and-accuracy-of-datetime)
 [Why are the Multimedia Timer APIs (timeSetEvent) not as accurate as I would expect? | Microsoft Docs](https://docs.microsoft.com/en-us/archive/blogs/mediasdkstuff/why-are-the-multimedia-timer-apis-timesetevent-not-as-accurate-as-i-would-expect)
 [C# High Resolution Timer | Tek Eye](https://tekeye.uk/visual_studio/high-resolution-timer-dotnet)
+
+[揭秘 .NET 中的 TimerQueue（上） - 黑洞视界 - 博客园](https://www.cnblogs.com/eventhorizon/p/17557821.html)
+[揭秘 .NET 中的 TimerQueue（下） - 黑洞视界 - 博客园](https://www.cnblogs.com/eventhorizon/p/17609210.html)
 
 [High resolution timer in C# - Stack Overflow](https://stackoverflow.com/questions/24839105/high-resolution-timer-in-c-sharp)
 [c# - System.Threading.Timer vs System.Threading.Thread.Sleep resolution - .NET Timer not using system clock resolution - Stack Overflow](https://stackoverflow.com/questions/23215970/system-threading-timer-vs-system-threading-thread-sleep-resolution-net-timer/52521911)

@@ -2,6 +2,7 @@
 title: Cron
 description: ""
 created: 2015-01-14
+updated: 2023-07-22
 tags:
   - anacron
   - app
@@ -17,6 +18,8 @@ tags:
 [Cron format](http://www.nncron.ru/help/EN/working/cron-format.htm)
 [Crontab – Quick Reference](http://www.adminschoice.com/crontab-quick-reference)
 [50 Amazing Linux Crontab Commands For The SysAdmins](https://www.ubuntupit.com/amazing-linux-crontab-commands-for-the-sysadmins/)
+
+[Scheduling Everything With The Help Of Cron Jobs & Anacron - YouTube](https://www.youtube.com/watch?v=6ZXcQNWRBvs)
 
 ### Editor
 
@@ -81,6 +84,10 @@ Logs for `cron` can usually be found in `/var/log/cron.log` or `/var/log/message
 ## incron
 
 [Linux Fu: Troubleshooting Incron | Hackaday](https://hackaday.com/2020/10/28/linux-fu-troubleshooting-incron/)
+
+## cronie
+
+[cronie-crond/cronie: Cronie cron daemon project](https://github.com/cronie-crond/cronie)
 
 ## at
 

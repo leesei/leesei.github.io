@@ -75,7 +75,7 @@ More focus on the mental beings of the heroes and villains.
 # DC Comics
 
 [Characters | DC Comics](http://www.dccomics.com/characters)
-[Multiverse (DC Comics) - Wikiwand](https://www.wikiwand.com/en/Multiverse_(DC_Comics%29)
+[Multiverse (DC Comics) - Wikiwand](<https://www.wikiwand.com/en/Multiverse_(DC_Comics)>)
 
 DC adopts the parallel universe concept, first in Flash, in order to crossover heroes of different origins.
 

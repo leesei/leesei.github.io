@@ -3,7 +3,7 @@ title: NW.js
 description: ""
 created: 2015-08-28
 tags:
-  - comp.lang
+  - comp/lang
   - node-webkit
 ---
 

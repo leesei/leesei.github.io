@@ -2,6 +2,7 @@
 title: GitHub
 description: ""
 created: 2014-12-11
+updated: 2023-07-27
 tags:
   - app
   - git
@@ -142,8 +143,12 @@ rm -rf node_modules/gh-pages/.cache
 ## Copilot
 
 [GitHub Copilot · Your AI pair programmer](https://github.com/features/copilot)
+[How GitHub Copilot is getting better at understanding your code - The GitHub Blog](https://github.blog/2023-05-17-how-github-copilot-is-getting-better-at-understanding-your-code/)
+[Inside GitHub: Working with the LLMs behind GitHub Copilot - The GitHub Blog](https://github.blog/2023-05-17-inside-github-working-with-the-llms-behind-github-copilot/)
 [Quickstart for GitHub Copilot - GitHub Docs](https://docs.github.com/en/copilot/quickstart)
 [Request a discount - GitHub Education](https://education.github.com/discount_requests/application) free for teachers and students
+
+[GitHub Copilot for Developer Productivity Series' Articles - DEV Community](https://dev.to/blackgirlbytes/series/19058)
 
 [Copilot for VS Code - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Metatype.copilot-vscode)
 
@@ -190,6 +195,7 @@ Put YAML in `.github/workflows/`
 [Features • GitHub Actions](https://github.com/features/actions/)
 [GitHub Marketplace · Actions to improve your workflow](https://github.com/marketplace?type=actions)
 [sdras/awesome-actions: A curated list of awesome actions to use on GitHub](https://github.com/sdras/awesome-actions)
+[GitHub Actions Security Best Practices [cheat sheet included]](https://blog.gitguardian.com/github-actions-security-cheat-sheet/)
 
 [Automatic Deployment With Github Actions - YouTube](https://www.youtube.com/watch?v=X3F3El_yvFg)
 [GitHub Actions CI/CD Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLjuEK3Ez60n3LICszNGBA7xFwBgGZykij) Habibi Coding
@@ -201,6 +207,7 @@ Put YAML in `.github/workflows/`
 
 [A guide to using act with GitHub Actions - LogRocket Blog](https://blog.logrocket.com/guide-using-act-github-actions/)
 [How to build a CI/CD pipeline with GitHub Actions in four simple steps | The GitHub Blog](https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/)
+[A beginner’s guide to CI/CD and automation on GitHub - The GitHub Blog](https://github.blog/2022-06-03-a-beginners-guide-to-ci-cd-and-automation-on-github/)
 [7 advanced workflow automation features with GitHub Actions | The GitHub Blog](https://github.blog/2021-11-18-7-advanced-workflow-automation-features-with-github-actions/)
 [Building Your First GitHub Action | Azure DevOps Blog](https://devblogs.microsoft.com/devops/building-your-first-github-action/)
 [GitHub Actions Documentation - GitHub Docs](https://docs.github.com/en/free-pro-team@latest/actions)

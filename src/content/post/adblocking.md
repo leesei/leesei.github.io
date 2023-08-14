@@ -2,6 +2,7 @@
 title: Adblocking
 description: ""
 created: 2018-07-27
+updated: 2023-07-28
 tags:
   - web
 ---
@@ -10,6 +11,12 @@ Bypass Paywalls Clean extension
 
 [Why Google is Happy You're Using Adblock - YouTube](https://www.youtube.com/watch?v=owoAcHOAPmE)
 Adblocker allows Google to filter out those who won't click ads, this increases the click through rate
+
+## AdGuard
+
+[How ad blocking works | AdGuard Knowledge Base](https://adguard.com/kb/general/ad-filtering/how-ad-blocking-works/)
+[AdGuard publishes the world's first ad blocker built on Manifest V3](https://adguard.com/en/blog/adguard-mv3.html)
+[AdGuard’s new ad blocker struggles with Google’s Manifest v3 rules](https://www.bleepingcomputer.com/news/security/adguard-s-new-ad-blocker-struggles-with-google-s-manifest-v3-rules/)
 
 ## uBlock
 
@@ -91,3 +98,4 @@ Snippets that can be added to filter (like Userscript)
 [Ad Blocking Experiments | FT Labs](https://labs.ft.com/2017/02/ad-blocking-experiments)
 [Where Will the Ad versus Ad Blocker Arms Race End? - Scientific American](https://www.scientificamerican.com/article/where-will-the-ad-versus-ad-blocker-arms-race-end/)
 [Publishers Need to Stop Whining About Adblock](https://www.makeuseof.com/tag/publishers-need-stop-whining-adblock/)
+[為何 Youtube 廣告 5 秒就能跳過，難道廠商願意當冤大頭？背後原因竟然不是要播給你看的！-風傳媒](https://www.storm.mg/lifestyle/4508726?mode=whole)

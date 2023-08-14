@@ -2,6 +2,7 @@
 title: Creative Coding
 description: ""
 created: 2016-04-08
+updated: 2023-07-27
 tags:
   - web
 ---
@@ -63,6 +64,8 @@ tags:
 
 [Python Mode for Processing](http://py.processing.org/)
 [Vector animations with Python - **del**( self )](https://zulko.github.io/blog/2014/09/20/vector-animations-with-python/)
+
+[jdf/processing.py: Write Processing sketches in Python](https://github.com/jdf/processing.py)
 
 ## Processing for Pi
 

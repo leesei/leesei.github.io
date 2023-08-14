@@ -26,6 +26,7 @@ No need memorization
 !Destructuring props loses reactivity
 
 [An Intro to Solid.js for React Developers](https://non-traditional.dev/an-intro-to-solidjs-for-react-developers)
+[SolidJS: Reactivity to Rendering - JavaScript inDepth](https://indepth.dev/posts/1289/solidjs-reactivity-to-rendering)
 [Hands-on with SolidJS | InfoWorld](https://www.infoworld.com/article/3643331/hands-on-with-the-solid-javascript-framework.html)
 
 [Introduction to Reactivity with SolidJS - YouTube](https://www.youtube.com/watch?v=J70HXl1KhWE)

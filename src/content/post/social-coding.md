@@ -3,7 +3,7 @@ title: Social Coding
 description: ""
 created: 2015-07-02
 tags:
-  - comp.lang
+  - comp/lang
 ---
 
 ## Text Sharing

@@ -2,9 +2,9 @@
 title: Router
 description: ""
 created: 2016-04-12
-updated: 2023-04-04
+updated: 2023-07-27
 tags:
-  - comp.hardware
+  - comp/hardware
 ---
 
 [TechInfoDepot](http://en.techinfodepot.shoutwiki.com/wiki/Main_Page) hardware spec
@@ -22,6 +22,8 @@ tags:
 [Tarifa](http://tarifa.sourceforge.net/) for old WRT54GL router
 [HyperWRT - Wikiwand](https://www.wikiwand.com/en/HyperWRT) for old WRT54GS router
 [Tomato Firmware | polarcloud.com](http://www.polarcloud.com/tomato) for old WRT54GS router, with built-in ad-blocker
+
+[DD-WRT vs. OpenWrt: Which open-source router firmware should you pick?](https://www.xda-developers.com/dd-wrt-vs-openwrt/)
 
 ### OpenWRT
 

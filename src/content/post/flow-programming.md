@@ -3,7 +3,7 @@ title: Flow Programming
 description: ""
 created: 2016-09-22
 tags:
-  - comp.lang
+  - comp/lang
 ---
 
 [Flow-based programming - Wikiwand](https://www.wikiwand.com/en/Flow-based_programming)

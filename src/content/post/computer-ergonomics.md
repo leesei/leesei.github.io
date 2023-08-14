@@ -3,7 +3,7 @@ title: Computer Ergonomics
 description: ""
 created: 2023-02-16
 tags:
-  - comp.hardware
+  - comp/hardware
 ---
 
 [[keyboard]]

@@ -2,6 +2,7 @@
 title: eBook
 description: ""
 created: 2016-09-13
+updated: 2023-07-23
 tags:
   - ebook
 ---
@@ -134,11 +135,17 @@ kindlegen [-c0|-c2] <input>
 
 [Pandoc - Pandoc User’s Guide](https://pandoc.org/MANUAL.html)
 [Pandoc - Creating an ebook with pandoc](https://pandoc.org/epub.html)
+[Pandoc - Pandoc Extras](https://pandoc.org/extras.html)
+
 [Turn your book into a website and an ePub using Pandoc | Opensource.com](https://opensource.com/article/18/10/book-to-website-epub-using-pandoc)
 [Convert documents with Pandoc like a pro | Opensource.com](https://opensource.com/article/20/5/pandoc-cheat-sheet)
 [How to use Pandoc to write a research paper | Opensource.com](https://opensource.com/article/18/9/pandoc-research-paper)
 [Turn your book into a website and an ePub using Pandoc | Opensource.com](https://opensource.com/article/18/10/book-to-website-epub-using-pandoc)
 [cheat_sheet_pandoc.pdf](https://opensource.com/sites/default/files/gated-content/cheat_sheet_pandoc.pdf)
+
+[Introducing My Workflow With Pandoc Markdown - YouTube](https://www.youtube.com/watch?v=lMIlNsi3eAY)
+[Pandoc Flavoured Markdown: Guide To Your First Document - YouTube](https://www.youtube.com/watch?v=xFuKLLLX85Y)
+[Introduction To Cross Referencing With Pandoc Crossref - YouTube](https://www.youtube.com/watch?v=HllCrrXui2g)
 
 ```sh
 pandoc -f FROM -t TO -o OUTPUT INPUT

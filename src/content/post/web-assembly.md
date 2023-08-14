@@ -2,7 +2,7 @@
 title: Web Assembly
 description: ""
 created: 2017-06-19
-updated: 2023-03-28
+updated: 2023-07-28
 tags:
   - wasm
   - web

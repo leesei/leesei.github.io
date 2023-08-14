@@ -2,8 +2,10 @@
 title: Coffee
 description: ""
 created: 2016-07-23
+updated: 2023-08-01
 tags:
   - coffee
+  - food
   - trivia
 ---
 
@@ -17,3 +19,12 @@ tags:
 [拿鐵、卡布奇諾、摩卡差別比一比 - 咖啡獵人 Coffee Hunter](https://coffeehunter.tw/latte-mocha-cappuccino-difference/)
 
 [31 Coffee Brands, Ranked From Worst To Best](https://www.tastingtable.com/718678/coffee-brands-ranked-from-worst-to-best/)
+
+[The science behind caffeine featuring Danielle Rath of GreenEyedGuide.com (Brain Science #25) |> Changelog](https://changelog.com/brainscience/25)
+[The 5 Levels of Fatigue | Beating Burnout with Caffeine Science](https://greeneyedguide.com/5-levels-of-fatigue/)
+[How to drink caffeine strategically with the 5 Levels of Fatigue | GEG Research and Consulting](https://greeneyedguide.com/2019/09/10/how-to-find-the-best-energy-drink-using-the-5-levels-of-fatigue/)
+
+[凍咖啡迷思｜冷萃、冰釀、冰滴咖啡有何分別？認識 4 大類凍齋啡](https://www.hk01.com/%E6%95%99%E7%85%AE/545461)
+[古猿吃了咖啡豆才進化成人的？關於咖啡和人類起源的驚人巧合！【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=SVVc2wL1bxQ)
+[咖啡的起源與歷史 ▶ 咖啡如何風靡全世界 - YouTube](https://www.youtube.com/watch?v=bssAuB7zIzk)
+[咖啡爲何會越喝越困？只因妳忽略了這點，咖啡裏竟然有蟑螂！ - YouTube](https://www.youtube.com/watch?v=TIM8ZJ-8z1E)

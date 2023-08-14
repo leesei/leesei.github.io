@@ -2,7 +2,7 @@
 title: "Zelda: Breath of the Wild"
 description: ""
 created: 2019-01-08
-updated: 2023-06-06
+updated: 2023-07-10
 tags:
   - botw
   - games
@@ -11,7 +11,10 @@ tags:
   - zelda
 ---
 
-[The Making of The Legend of Zelda: Breath of the Wild Video – The Beginning - YouTube](https://www.youtube.com/watch?v=30jGWna4-Ns)
+[The Making of The Legend of Zelda: Breath of the Wild - YouTube](https://www.youtube.com/playlist?list=PL2JiZAV5BmDXKHMwfdlJbNAtXpUNuCPAd)
+[Making of & Secrets of Zelda : Breath of the Wild - YouTube](https://www.youtube.com/playlist?list=PLMu8FQOzAf9qFy69DPc3u9hBWfUctWEg0)
+[揭秘年度游戏成功的秘密——《荒野之息》审视自己【就知道玩游戏 11】 - YouTube](https://www.youtube.com/watch?v=T35UQSWSM94)
+
 [Breaking Conventions with The Legend of Zelda: Breath of the Wild - YouTube](https://www.youtube.com/watch?v=QyMsF31NdNc)
 [With Eyes Unclouded - How Studio Ghibli Inspired Breath of the Wild - YouTube](https://www.youtube.com/watch?v=2fPz7kGduT4)
 
@@ -46,9 +49,6 @@ Maps
 
 [Breath of the Wild Theories - YouTube](https://www.youtube.com/playlist?list=PLZBqIJ9ldH72q7N_hRmHeax-XRKgohpbA) NintendoBlackCrisis
 [Stats of the Wild!! - YouTube](https://www.youtube.com/playlist?list=PLAjULYyNSE9aa7aQW31IupW685MO-ZBHc)
-
-[The Making of The Legend of Zelda: Breath of the Wild - YouTube](https://www.youtube.com/playlist?list=PL2JiZAV5BmDXKHMwfdlJbNAtXpUNuCPAd)
-[揭秘年度游戏成功的秘密——《荒野之息》审视自己【就知道玩游戏 11】 - YouTube](https://www.youtube.com/watch?v=T35UQSWSM94)
 
 [Rin's Complete BOTW Combat Glossary - Google Docs](https://docs.google.com/document/d/1qtYT06sxweRW3tRnovcCc-f4xIOGFNsD02pG1TzloHc/edit)
 

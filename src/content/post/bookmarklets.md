@@ -64,7 +64,7 @@ javascript: void window.open(
     screen.width * 0.5 +
     ",height=600,top=" +
     screen.height * 0.1 +
-    ",resizable,scrollbars=no"
+    ",resizable,scrollbars=no",
 );
 ```
 
@@ -75,7 +75,7 @@ Creates a Markdown link `[]()` for the current page. Copy and paste to Markdown 
 ```js Markdown Link
 javascript: prompt(
   "Markdown link for this page:",
-  "[" + document.title + "](" + window.location.href + ")"
+  "[" + document.title + "](" + window.location.href + ")",
 );
 ```
 
@@ -94,7 +94,7 @@ I miss the "Up" button in file manager so I bring it to browser.
 ```js Up a Directory
 javascript: void (location.href = location.href.substring(
   0,
-  location.href.substring(0, location.href.length - 1).lastIndexOf("/") + 1
+  location.href.substring(0, location.href.length - 1).lastIndexOf("/") + 1,
 ));
 ```
 
@@ -161,7 +161,7 @@ A little styling makes it better.
 javascript: void window.open(
   "data:text/html, <html style='height: 100%'> <head> <title>BrowserPad</title><head> <body contenteditable style='background-color:#333; color: #ddd; font-family: courier; font-weight: bold'> </body> </html>",
   "_blank",
-  "width=800,height=600"
+  "width=800,height=600",
 );
 ```
 
@@ -173,7 +173,7 @@ This is an undocumented transformer by Google.
 
 ```js GWT
 javascript: void window.open(
-  "http://www.google.com/gwt/x?u=" + encodeURIComponent(window.location.href)
+  "http://www.google.com/gwt/x?u=" + encodeURIComponent(window.location.href),
 );
 ```
 
@@ -261,7 +261,7 @@ javascript: (function () {
         ", " +
         left +
         ", " +
-        top
+        top,
     );
   }
 })();

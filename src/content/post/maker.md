@@ -2,24 +2,25 @@
 title: Maker
 description: ""
 created: 2018-10-16
+updated: 2023-08-14
 tags:
   - maker
 ---
 
-[DIY Perks - YouTube](https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw)
-[Stuff Made Here - YouTube](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ)
-[Stuff Made Here 2 - YouTube](https://www.youtube.com/channel/UCNlBbEpwffgWefkbRm73xxQ)
-[PeterSripol - YouTube](https://www.youtube.com/channel/UC7yF9tV4xWEMZkel7q8La_w)
-[OLMMvideo - YouTube](https://www.youtube.com/channel/UCQQkUjuHx__kBxvIw1C-xTA)
-[Xyla Foxlin - YouTube](https://www.youtube.com/channel/UCEn3fRj2e0mpqYsijxnzayg)
-[Hedgehog 刺蝟幫 - YouTube](https://www.youtube.com/channel/UCAg6mvECZYaXdA2KNXkJHMQ)
-[Hacksmith Industries - YouTube](https://www.youtube.com/c/theHacksmith)
-[How To Make Everything - YouTube](https://www.youtube.com/channel/UCfIqCzQJXvYj9ssCoHq327g)
-[Electrician teaching - YouTube](https://www.youtube.com/c/Electricianteaching)
-[小芊枫 XiaoQianFeng - YouTube](https://www.youtube.com/channel/UC22y0-2FLYGXImsFsBQq2-g)
-[Owen 来造\_Owen to create - YouTube](https://www.youtube.com/channel/UCzEaU7hZfKIzjzDqxvXOcXQ)
-[hksubwoofer - YouTube](https://www.youtube.com/user/hksubwoofer)
-[大匠夫 MakerSoulHK - YouTube](https://www.youtube.com/channel/UCbPjpaVDaPRYstDy7Rt9bFQ)
+[DIY Perks - YouTube](https://www.youtube.com/@DIYPerks)
+[Stuff Made Here - YouTube](https://www.youtube.com/@StuffMadeHere)
+[Stuff Made Here 2 - YouTube](https://www.youtube.com/@StuffMadeHere2)
+[PeterSripol - YouTube](https://www.youtube.com/@PeterSripol)
+[OLMMvideo - YouTube](https://www.youtube.com/@OLMMvideo)
+[Xyla Foxlin - YouTube](https://www.youtube.com/@xylafoxlin)
+[Hacksmith Industries - YouTube](https://www.youtube.com/@theHacksmith)
+[How To Make Everything - YouTube](https://www.youtube.com/@htme)
+[Sine Tech - YouTube](https://www.youtube.com/@sinetech19)
+[Hedgehog 刺蝟幫 - YouTube](https://www.youtube.com/@hedgehogTW)
+[小芊枫 XiaoQianFeng - YouTube](https://www.youtube.com/@Xiaoqianfeng)
+[Owen 来造\_Owen to create - YouTube](https://www.youtube.com/@owen_owentocreate121)
+[hksubwoofer - YouTube](https://www.youtube.com/@hksubwoofer)
+[大匠夫 MakerSoulHK - YouTube](https://www.youtube.com/@MakerSoulHK)
 
 [17,342 pounds of tools to make... this? - YouTube](https://www.youtube.com/watch?v=SjJulcvTA7Y&t=62s)
 
@@ -35,7 +36,7 @@ tags:
 Clay like when opened, rubber like after one day.
 
 [The World's First Mouldable Glue | Sugru](https://sugru.com/)
-[Sugru - YouTube](https://www.youtube.com/user/projectsugru)
+[Sugru - YouTube](https://www.youtube.com/@sugru)
 
 [V-TIE - Home](https://www.facebook.com/ALLABOUTVTIE/)
 [V-tie® - Durable Silicone Moldable Glue – Fox Stark](https://foxstark.com/products/moldable-glue)
@@ -58,9 +59,9 @@ Clay like when opened, rubber like after one day.
 [The World's #1 Magazine for the Digital Maker | All3DP](https://all3dp.com/)
 
 [首頁 - 印核工廠 In Here.](https://inhere3d.com/)
-[The 3D Print General - YouTube](https://www.youtube.com/channel/UCcGYPeOd2b5OXz-2EIGsEcg)
-[MSC 製樂喵 - YouTube](https://www.youtube.com/channel/UCyhXuOO88ASzz2b_jxnoVuA)
-[Vector 3D - YouTube](https://www.youtube.com/channel/UCIi0sokRP7JKU-f0HHIhicw)
+[The 3D Print General - YouTube](https://www.youtube.com/@3DPrintGeneral)
+[MSC 製樂喵 - YouTube](https://www.youtube.com/@MSCShopHK)
+[Vector 3D - YouTube](https://www.youtube.com/@Vector3DP)
 
 [gcode viewer - online gcode viewer and analyzer in your browser!](http://gcode.ws/)
 

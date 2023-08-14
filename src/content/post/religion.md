@@ -2,6 +2,7 @@
 title: Religion
 description: ""
 created: 2015-04-13
+updated: 2023-08-05
 tags:
   - creationism
   - philosophy
@@ -13,7 +14,6 @@ tags:
 [Religious History - YouTube](https://www.youtube.com/playlist?list=PLxZAPogJjW_insZ-fc9NJmZdiGgqbDfjz)
 
 [用 34 分钟，解决困扰我多年的问题：基督，犹太，伊斯兰教的关系 - YouTube](https://www.youtube.com/watch?v=ncXCHdTFBEs)
-[【基督宗教 历史专题】【基督宗教 历史专题】【基督宗教 历史专题】 - YouTube](https://www.youtube.com/playlist?list=PLg45KLfneaCRYo5ZvdFf_OcWfCNjMCiej)
 [你知道你生活在一個 虛擬世界中嗎？人越老，對世界的理解越困惑，怎麽辦？ - YouTube](https://www.youtube.com/watch?v=RZ3xY62xWDo)
 
 [Lawrence Krauss vs Christians on Q&A - Amazing Debate - YouTube](https://www.youtube.com/watch?v=iaHxBFwod9Q)
@@ -39,16 +39,11 @@ tags:
 [Bill Nye Says Ken Ham Debate Allowed Him to Explain to Millions Why It's 'Disastrous' to Believe Creationism Is Possible](http://www.christianpost.com/news/bill-nye-says-ken-ham-debate-allowed-him-to-explain-to-millions-why-its-disastrous-to-believe-creationism-is-possible-139334/)
 [The Bill Nye-Ken Ham Debate Was a Nightmare for Science - The Daily Beast](http://www.thedailybeast.com/articles/2014/02/05/the-bill-nye-ken-ham-debate-was-a-nightmare-for-science.html)
 
-### Ars
+## Ars
 
 [Talking past each other: Bill Nye vs. creationist Ken Ham on evolution | Ars Technica](http://arstechnica.com/science/2014/02/talking-past-each-other-bill-nye-vs-creationist-ken-ham-on-evolution/)
 [Ham on Nye: The high cost of “winning” an evolution/creation debate | Ars Technica](http://arstechnica.com/science/2014/02/ham-on-nye-the-high-cost-of-winning-an-evolutioncreation-debate/)
 [How did we get here? A brief history of the evolution vs. creationism debate | Ars Technica](http://arstechnica.com/staff/2014/02/how-did-we-get-here-a-brief-history-of-the-evolution-vs-creationism-debate/)
-
-## bibledex
-
-[Genesis - Bibledex - YouTube](https://www.youtube.com/watch?v=2mu8KQmbXfQ&list=PLB48057326131A04A)
-[The Pope - YouTube](https://www.youtube.com/playlist?list=PLS400fiGcFeodO-Qfgl-tc9wMZFh2lQnE)
 
 ## 苯教
 
@@ -65,12 +60,16 @@ tags:
 [世界最老的宗教之一--瑣羅亞斯德教(拜火教)的發源地--波斯 @ 哈姆斯特的旅遊部落格 :: 隨意窩 Xuite 日誌](<http://blog.xuite.net/hamster0708/twblog/137605759-世界最老的宗教之一--瑣羅亞斯德教(拜火教)的發源地--波斯>)
 [阿努納奇和波斯拜火教有關嗎？波斯拜火教和中華文明有關嗎？ |自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=F92i6kAeifE)
 
-## Protestants
+## Jewism
 
-[Western Christianity vs Eastern Christianity - YouTube](https://www.youtube.com/watch?v=9Yk0slGP-rM)
-[天主教，基督教，○○○ 教，世界各大宗教之間究竟有什麼區別 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=vgFEYOJ8Knk)
-[一口氣整理 世界三大宗教之一，基督的历史起源！(1/4) - YouTube](https://www.youtube.com/watch?v=9EMx2kevK5U)
-[【歷史】世界最大宗教的起源，探索五千年人類文明！(2/4) - YouTube](https://www.youtube.com/watch?v=QXTQ61KbN7M) Mesopotamian history, Babylonian cosmology
+[Abraham to Rise of Christianity | The Jewish Story (Part 1) Unpacked - YouTube](https://www.youtube.com/playlist?list=PL-DNOnmKkUaYVJIFmU_RBihx8wezolzqL)
+[Birth of Islam to Haskalah | The Jewish Story (Part 2) Unpacked - YouTube](https://www.youtube.com/playlist?list=PL-DNOnmKkUaYI_Cn_QcLXkJOwTfChhpoY)
+[Jewish Denominations Explained [Reposted with Changes] - YouTube](https://www.youtube.com/watch?v=AsBgluFGz7Y)
+
+## Christianity
+
+[All Christian denominations explained in 12 minutes - YouTube](https://www.youtube.com/watch?v=tzLS4O7YaUg)
+[The best thing about each Christian denomination - YouTube](https://www.youtube.com/watch?v=OPstui-nRrA)
 
 東正教 Orthodox Church
 no idols
@@ -79,6 +78,37 @@ no idols
 [天主教](https://www.wikiwand.com/zh/%E5%A4%A9%E4%B8%BB%E6%95%99)
 [Indulgence - Wikiwand](https://www.wikiwand.com/en/Indulgence)
 [大赦 (基督教) - Wikiwand](<https://www.wikiwand.com/zh/%E5%A4%A7%E8%B5%A6_(%E5%9F%BA%E7%9D%A3%E6%95%99)>) 贖罪券
+
+[Western Christianity vs Eastern Christianity - YouTube](https://www.youtube.com/watch?v=9Yk0slGP-rM)
+[天主教，基督教，○○○ 教，世界各大宗教之間究竟有什麼區別 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=vgFEYOJ8Knk)
+[【基督宗教 历史专题】【基督宗教 历史专题】【基督宗教 历史专题】 - YouTube](https://www.youtube.com/playlist?list=PLg45KLfneaCRYo5ZvdFf_OcWfCNjMCiej)
+[一口氣整理 世界三大宗教之一，基督的历史起源！(1/4) - YouTube](https://www.youtube.com/watch?v=9EMx2kevK5U)
+[【歷史】世界最大宗教的起源，探索五千年人類文明！(2/4) - YouTube](https://www.youtube.com/watch?v=QXTQ61KbN7M) Mesopotamian history, Babylonian cosmology
+
+[Who is Yahweh - How a Warrior-Storm God became the God of the Israelites and World Monotheism - YouTube](https://www.youtube.com/watch?v=mdKst8zeh-U)
+
+### Bible
+
+[What each book of the Bible is about - YouTube](https://www.youtube.com/watch?v=J7C9bEHakaU)
+[Explaining ALL 66 BOOKS of the Bible - YouTube](https://www.youtube.com/watch?v=n0vLnHcz68I)
+
+Pentateuch in Old Testament = Toran in Jewish Bible
+
+[Introduction to the Bible (from an academic point of view) - YouTube](https://www.youtube.com/watch?v=KqSkXmFun14)
+
+- from a Jewish and historian perspective
+- God/Jesus in the Bible is a literary character
+
+[Religious Studies - YouTube](https://www.youtube.com/playlist?list=PL5Ag9n-o0IZBcVkZgYhQLehVEHs7tOl5c)
+
+### Bibledex
+
+[Genesis - Bibledex - YouTube](https://www.youtube.com/watch?v=2mu8KQmbXfQ&list=PLB48057326131A04A)
+[The Pope - YouTube](https://www.youtube.com/playlist?list=PLS400fiGcFeodO-Qfgl-tc9wMZFh2lQnE)
+
+### Protestants
+
+> The Bible has more authority than the church
 
 [Protestantism - Wikiwand](https://www.wikiwand.com/en/Protestantism) forked from Catholic Church when it sold Indulgence, Martin Luther challenged the interpretation of building Christianity upon the Roman Pope
 Gutenberg's printing of German Bible in some way triggered the Reformation

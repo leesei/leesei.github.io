@@ -2,8 +2,9 @@
 title: Documentation
 description: ""
 created: 2015-06-17
+updated: 2023-07-27
 tags:
-  - comp.lang
+  - comp/lang
   - documentation
   - static-site
 ---
@@ -60,6 +61,7 @@ tags:
 [provide mermaidjs rendering · Issue #762 · rust-lang/mdBook](https://github.com/rust-lang/mdBook/issues/762)
 [mdbook-plantuml - Cargo: packages for Rust](https://crates.io/crates/mdbook-plantuml)
 [lzanini/mdbook-katex: Rust preprocessor for mdBook, converting KaTex equations to HTML.](https://github.com/lzanini/mdbook-katex)
+[dylanowen/mdbook-confluence](https://github.com/dylanowen/mdbook-confluence)
 
 [Search Results for 'mdbook' - Cargo: packages for Rust](https://crates.io/search?q=mdbook)
 
@@ -73,11 +75,16 @@ tags:
 ## MkDocs
 
 [MkDocs](https://www.mkdocs.org/)
+[Deploying Your Docs - MkDocs](https://www.mkdocs.org/user-guide/deploying-your-docs/) can use `file://`
+
 [MkDocs Is The Perfect Open Source Documentation Software](https://fosspost.org/reviews/programs/mkdocs-perfect-open-source-documentation-software)
 [Build Your Python Project Documentation With MkDocs – Real Python](https://realpython.com/python-project-documentation-with-mkdocs/)
+[MkDocs Markdown Reference | Markdown Guide](https://www.markdownguide.org/tools/mkdocs/)
 
 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 [squidfunk/mkdocs-material: Documentation that simply works](https://github.com/squidfunk/mkdocs-material)
+
+[Create a MkDocs website (like this one) - ABP Computing @ CERN](https://abpcomputing.web.cern.ch/guides/mkdocs_site/)
 
 ## Markdown (generic)
 
@@ -159,9 +166,10 @@ default markup language in Redmine
 [webdoc - Home](https://www.webdoclabs.com/)
 [webdoc-labs/webdoc: Documentation generator for the web](https://github.com/webdoc-labs/webdoc)
 
-[daux.io](http://daux.io/)
-[docsify](https://docsify.js.org/#/)
+[daux.io](http://daux.io/) output `html`, `confluence` or `html-file`
+[docsify](https://docsify.js.org/#/) renders Markdown dynamically
 [documentationjs](http://documentation.js.org/)
+[docpress](https://docpress.github.io/index.html)
 [ESDoc - A Good Documentation Generator for JavaScript | esdoc-site](https://esdoc.org/)
 [SoftwareBrothers/better-docs: Beautiful theme/template for jsdoc generated documentation - with `category` plugin](https://github.com/SoftwareBrothers/better-docs)
 

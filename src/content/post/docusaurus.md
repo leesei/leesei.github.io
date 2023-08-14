@@ -11,12 +11,7 @@ tags:
 [Markdown Features | Docusaurus](https://docusaurus.io/docs/markdown-features)
 [docusaurus - CodeSandbox](https://codesandbox.io/s/docusaurus)
 
-[Awesome Resources | Docusaurus](https://docusaurus.io/community/resources)
-
-[📦 plugin-content-docs | Docusaurus](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs)
-[📦 plugin-content-blog | Docusaurus](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog)
-[📦 plugin-content-pages | Docusaurus](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-pages)
-[📦 plugin-debug | Docusaurus](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-debug) `http://localhost:3000/__docusaurus/debug`
+[Admonitions | Docusaurus](https://docusaurus.io/docs/markdown-features/admonitions)
 
 ## Sidebar
 
@@ -45,6 +40,18 @@ Variables in MDX: `frontMatter`, `metadata`
 [Theme gallery · Issue #3522 · facebook/docusaurus](https://github.com/facebook/docusaurus/issues/3522)
 
 [Access to docs metadata from individual doc pages · Issue #6302 · facebook/docusaurus](https://github.com/facebook/docusaurus/issues/6302) add frontmatter to docs data
+
+## Ecosystem/Plugins
+
+[Awesome Resources | Docusaurus](https://docusaurus.io/community/resources)
+[webbertakken/awesome-docusaurus: A curated list of awesome Docusaurus resources.](https://github.com/webbertakken/awesome-docusaurus)
+
+[kohheepeace/mr-pdf: Generate PDF for document website.](https://github.com/kohheepeace/mr-pdf)
+
+[📦 plugin-content-docs | Docusaurus](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs)
+[📦 plugin-content-blog | Docusaurus](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog)
+[📦 plugin-content-pages | Docusaurus](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-pages)
+[📦 plugin-debug | Docusaurus](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-debug) `http://localhost:3000/__docusaurus/debug`
 
 ## Examples
 

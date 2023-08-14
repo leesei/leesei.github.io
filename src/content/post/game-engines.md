@@ -2,6 +2,7 @@
 title: Game Engines
 description: ""
 created: 2015-01-02
+updated: 2023-08-13
 tags:
   - game-dev
   - game-engine
@@ -170,18 +171,33 @@ CreateJS have multiple tools for game development
 [mafintosh/tetris: Play tetris in your terminal - in color](https://github.com/mafintosh/tetris)
 [Ace Attorney Online](http://aceattorney.sparklin.org/index.php)
 
+### Games
+
+[Flatris](https://flatris.space/) open source Tetris clone
+[3D Cards - PixiJS Examples](https://pixijs.io/examples/#/plugin-projection/cards.js)
+
+[leereilly/games: A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.](https://github.com/leereilly/games#user-content-boardgame)
+[51 Best Open Source HTML5 and JavaScript Games 2019 - Edopedia](https://www.edopedia.com/blog/open-source-html5-and-javascript-games/)
+[OpenHTML5Games.com - Free mobile HTML5 web games with open source code](https://openhtml5games.com/)
+[15 Open Source HTML5 games - Super Dev Resources](https://superdevresources.com/open-source-html5-games/)
+
+[Google I/O 2011: The Secrets of Google Pac-Man: A Game Show - YouTube](https://www.youtube.com/watch?v=ttavBa4giPc)
+
+### Defold
+
+[Defold - Official Homepage - Cross platform game engine](https://defold.com/) targets mobile
+
 ### GDevelop
 
-[GDevelop - Create games without programming - Open source HTML5 and native game creator](https://gdevelop-app.com/)
-[Features of GDevelop - create any kind of games without coding](https://gdevelop-app.com/features/)
-[4ian/GDevelop: GDevelop is an open-source, cross-platform game engine designed to be used by everyone.](https://github.com/4ian/GDevelop)
+[Free and Easy 2D/3D Game-Making App | GDevelop](https://gdevelop.io/) no code engine, targets mobiles
+[Features | GDevelop](https://gdevelop.io/features)
+[4ian/GDevelop: :video_game: Open-source, cross-platform game engine designed to be used by everyone.](https://github.com/4ian/GDevelop)
 
-[GDevelop 5 [GDevelop wiki]](http://wiki.compilgames.net/doku.php/gdevelop5/start)
+[GDevelop 5 documentation - GDevelop documentation](https://wiki.gdevelop.io/gdevelop5/)
 
-[Showcase of the games created with GDevelop](https://gdevelop-app.com/games-showcase/)
-[Examples of GDevelop - make platformer, shooter, rpg, action games...](https://gdevelop-app.com/game-examples-starters/)
+[GDevelop Games Showcase | GDevelop](https://gdevelop.io/games)
+[Game examples and templates made with GDevelop | GDevelop](https://gdevelop.io/game-example)
 
-[Creating a Memory Match Game in GDevelop [GDevelop wiki]](http://wiki.compilgames.net/doku.php/gdevelop/tutorials/memorymatchgame)
 [How To Make a Simple Playing Card Game with Multiplayer and Bluetooth, Part 1 | raywenderlich.com](https://www.raywenderlich.com/2900-how-to-make-a-simple-playing-card-game-with-multiplayer-and-bluetooth-part-1)
 
 [ReactiveConf 2019 - Florian Rival: Native Web Apps: React and WebAssembly to Rewrite Native Apps - YouTube](https://www.youtube.com/watch?v=sMfNWIbWUb0)
@@ -250,6 +266,7 @@ CreateJS have multiple tools for game development
 [[pygame]]
 
 [Top Python Game Engines – Real Python](https://realpython.com/top-python-game-engines/)
+[9 Best Python Game Development Libraries/Frameworks [2023] - Geekflare](https://geekflare.com/python-game-development-libraries-frameworks/)
 
 [pymunk](http://pymunk.org/) physics engine
 [FIFE](http://www.fifengine.net/index.html)
@@ -263,6 +280,7 @@ CreateJS have multiple tools for game development
 ### Arcade
 
 [The Python Arcade Library — Arcade documentation](http://arcade.academy/) uses pyglet
+[Python Arcade Documentations](https://api.arcade.academy/en/latest/)
 [Program Arcade Games With Python And Pygame](http://programarcadegames.com/)
 [Arcade: A Primer on the Python Game Framework – Real Python](https://realpython.com/arcade-python-game-framework/)
 [How to create a 2D game with Python and the Arcade library | Opensource.com](https://opensource.com/article/18/4/easy-2d-game-creation-python-and-arcade)
@@ -357,6 +375,7 @@ Fully compatible with XNA
 ## Panda3D
 
 [Panda3D - Free 3D Game Engine](https://www.panda3d.org/)
+[Panda3D Manual — Panda3D Manual](https://docs.panda3d.org/1.10/python/index)
 
 ## Godot
 
@@ -371,6 +390,7 @@ Fully compatible with XNA
 > remove pre 4.0 articles
 
 [Godot 4.0: It's Almost a Brand New Engine! Full Breakdown of New Features - YouTube](https://www.youtube.com/watch?v=chXAjMQrcZk)
+[The ultimate introduction to Godot 4 - YouTube](https://www.youtube.com/watch?v=nAh_Kx5Zh5Q) 11:32:40
 
 [Learn to Make Games · GDQuest](https://www.gdquest.com/)
 [GDQuest - YouTube](https://www.youtube.com/@Gdquest)
@@ -428,20 +448,6 @@ Zenva
 ## TIC-80
 
 [TIC-80 tiny computer](https://tic80.com/)
-
----
-
-# Web Games
-
-[Flatris](https://flatris.space/) open source
-[3D Cards - PixiJS Examples](https://pixijs.io/examples/#/plugin-projection/cards.js)
-
-[leereilly/games: A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.](https://github.com/leereilly/games#user-content-boardgame)
-[51 Best Open Source HTML5 and JavaScript Games 2019 - Edopedia](https://www.edopedia.com/blog/open-source-html5-and-javascript-games/)
-[OpenHTML5Games.com - Free mobile HTML5 web games with open source code](https://openhtml5games.com/)
-[15 Open Source HTML5 games - Super Dev Resources](https://superdevresources.com/open-source-html5-games/)
-
-[Google I/O 2011: The Secrets of Google Pac-Man: A Game Show - YouTube](https://www.youtube.com/watch?v=ttavBa4giPc)
 
 ---
 
@@ -599,7 +605,6 @@ Cross platform (PC and consoles)
 [Unreal Engine - Wikiwand](http://www.wikiwand.com/en/Unreal_Engine)
 [Evolution of Unreal Engine 1995-2022 - YouTube](https://www.youtube.com/watch?v=TaLiMiyi2g4)
 
-[Unreal Engine 5 Beginner Tutorial - UE5 Starter Course 2022 - YouTube](https://www.youtube.com/watch?v=k-zMkzmduqI&t=0s)
 [Online Learning - Unreal Engine](https://www.unrealengine.com/en-US/onlinelearning-courses)
 [80 Level Ratings: Best YouTube Channels With Unreal Engine Tutorials](https://80.lv/articles/80-level-ratings-best-youtube-channels-with-unreal-engine-tutorials/)
 [WoodyDevs - YouTube](https://www.youtube.com/c/WoodyDevs)
@@ -608,6 +613,7 @@ Cross platform (PC and consoles)
 
 [A first look at Unreal Engine 5 - Unreal Engine](https://www.unrealengine.com/en-US/blog/a-first-look-at-unreal-engine-5)
 [What Unreal Engine 5 means for the games industry...and you | bit-tech.net](https://bit-tech.net/features/gaming/pc/what-unreal-engine-5-means-for-the-games-industryand-you/1/)
+[What Unreal Engine 5 Means for the Games Industry - IGN](https://www.ign.com/articles/what-unreal-engine-5-means-for-the-games-industry)
 [Tech Analysis: Unreal Engine 5 on PS5 - Epic's Next-Gen Leap Examined In-Depth - YouTube](https://www.youtube.com/watch?v=iIDzZJpDlpA)
 [從入門到真香！全面預探虛幻 Unreal 5 新技術！【就知道玩遊戲 102】 - YouTube](https://www.youtube.com/watch?v=rcTd_outcew)
 [【亦】虚幻 5，国产单机游戏的机会来了？ - YouTube](https://www.youtube.com/watch?v=I1NbidggLKI)
@@ -619,11 +625,11 @@ Nanite: "deep zoom" level of details for 3D objects (low res at distance), seaml
 Lumen: non-ray-traced global illumination
 [Nanite: Everything You Should Know [Unreal Engine 5] - YouTube](https://www.youtube.com/watch?v=P65cADzsP8Q)
 [Things To Know About LUMEN [Unreal Engine 5] - YouTube](https://www.youtube.com/watch?v=CFKNoeUPQGQ)
+[Why Unreal Engine 5.1 is a Huge Deal - YouTube](https://www.youtube.com/watch?v=FUGqzE6Je5c)
+
 [Unreal Engine 5 Beginner Tutorial - UE5 Starter Course! - YouTube](https://www.youtube.com/watch?v=gQmiqmxJMtA)
 [Unreal Engine 5 Beginner Tutorial - UE5 Starter Course 2022 - YouTube](https://www.youtube.com/watch?v=k-zMkzmduqI)
 [Lumen in UE5: Let there be light! | Unreal Engine - YouTube](https://www.youtube.com/watch?app=desktop&v=Dc1PPYl2uxA)
-
-[Why Unreal Engine 5.1 is a Huge Deal - YouTube](https://www.youtube.com/watch?v=FUGqzE6Je5c)
 
 ### UE4
 

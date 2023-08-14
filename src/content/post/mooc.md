@@ -2,40 +2,50 @@
 title: MOOC
 description: ""
 created: 2015-05-08
+updated: 2023-08-13
 tags:
   - learning
   - mooc
   - online-course
 ---
 
+> see [[learning]] on theory, especially [[learning#Speed Reading => Speed Learning]]
+
 [Massive open online course - Wikiwand](https://www.wikiwand.com/en/Massive_open_online_course)
 [No Excuse List](http://noexcuselist.com/)
 
-[Learn the Latest Tech Skills; Advance Your Career | Udacity](https://www.udacity.com/) some free courses
 [Class Central • #1 Search Engine for Free Online Courses & MOOCs](https://www.classcentral.com/)
 [234 Udacity Free Online Courses and MOOCs | Class Central](https://www.classcentral.com/provider/udacity)
 [10 YouTube channel you need to subscribe. - DEV Community](https://dev.to/0shuvo0/10-youtube-channel-you-need-to-subscribe-jeo)
 
-[Khan Academy](https://www.khanacademy.org/): free, university courses, college students
-[Coursera](https://www.coursera.org/): free, university courses
+[Khan Academy](https://www.khanacademy.org/) free, university courses, college students
+[Coursera](https://www.coursera.org/) free, university courses
+[MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu/) [Search MIT OpenCourseWare](https://ocw.mit.edu/search/?f=Lecture%20Videos&f=Lecture%20Audio&s=department_course_numbers.sort_coursenum)
+[MIT OpenCourseWare - YouTube](https://www.youtube.com/@mitocw)
+[Free Courses | Harvard University](https://pll.harvard.edu/catalog/free)
+[Harvard University - YouTube](https://www.youtube.com/@harvard)
+[Free Online Courses | Stanford Online](https://online.stanford.edu/free-courses)
+[Stanford - YouTube](https://www.youtube.com/@stanford)
+[Distance Learning Courses and Adult Education - The Open University](https://www.open.ac.uk/)
+[OpenLearn from The Open University - YouTube](https://www.youtube.com/@OpenLearn_OU/)
+
+[GOTO Conferences - YouTube](https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA)
+[intrigano - YouTube](https://www.youtube.com/user/intrigano/playlists)
+
 [Learn to Code — For Free — Coding Courses for Busy People](https://www.freecodecamp.org/)
-[freeCodeCamp.org - YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
-[Tech Primers - YouTube](https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw) enterprise application
-[Traversy Media - YouTube](https://www.youtube.com/c/TraversyMedia/featured)
-[edX | Free online courses from the world's best universities](https://www.edx.org/)
-[Online Courses - Anytime, Anywhere | Udemy | Udemy](https://www.udemy.com/) some free courses
+[freeCodeCamp.org - YouTube](https://www.youtube.com/@freecodecamp) long form courses
 [Learn to Code - for Free | Codecademy](https://www.codecademy.com/)
-[Udemy Coupons 100% Free | Home • UDEMYOFF](https://www.udemyoff.com/)
-[Interactive Courses for Software Developers | Educative](https://www.educative.io/) some several free
-[Cognitive Class - Free Data Science, AI, Blockchain and Cloud Computing Courses](https://cognitiveclass.ai/)
-[MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu/index.htm)
-[Audio/Video Lectures | MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu/courses/audio-video-courses/)
-[Free Online Courses | Harvard University](https://online-learning.harvard.edu/catalog/free)
+[edX | Build new skills. Advance your career. | edX](https://www.edx.org/)
+[Learn the Latest Tech Skills; Advance Your Career | Udacity](https://www.udacity.com/) some free courses
+[Online Courses - Learn Anything, On Your Schedule | Udemy](https://www.udemy.com/) some free courses
+[Cognitive Class](https://cognitiveclass.ai/)
+[Educative: Interactive Courses for Software Developers](https://www.educative.io/) some free courses
+[OpenClassrooms](https://openclassrooms.com/en/)
 [OpenLearning: Teach and learn online for free](https://www.openlearning.com/)
-[Data Science Courses: R & Python Analysis Tutorials | DataCamp](https://www.datacamp.com/courses)
+[Data Science Courses in Python, R, SQL, and more | DataCamp](https://www.datacamp.com/courses-all)
 [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
 [HKMOOC](https://learn.hkmooc.hk/)
-[flackbox.com](https://www.flackbox.com/) several free network courses
+[Flackbox.com Homepage - FlackBox](https://www.flackbox.com/)
 [Welcome to recallact.com !](https://www.recallact.com/) Video library for presentations and meetups
 [Free online courses from Harvard to learn how to code - Business Insider](https://www.businessinsider.com/free-harvard-courses-on-coding-programming-computer-science-2020-6?amp)
 
@@ -46,22 +56,25 @@ I've bought several bundles here (with Teachable SSO)
 
 [Library - SitePoint Premium - SitePoint Premium](https://www.sitepoint.com/premium/library) I've some courses and books here
 
-[Academind - YouTube](https://www.youtube.com/c/Academind) web tech
-[Coding Tech - YouTube](https://www.youtube.com/c/CodingTech)
-[edureka! - YouTube](https://www.youtube.com/c/edurekaIN)
-[Fireship - YouTube](https://www.youtube.com/c/Fireship) mostly frontend
-[Beyond Fireship - YouTube](https://www.youtube.com/channel/UC2Xd-TjJByJyK2w1zNwY0zQ)
-[JavaScript Mastery - YouTube](https://www.youtube.com/c/JavaScriptMastery)
-[JavaScript Tutorials and Video Workshops - @eggheadio #levelup](https://egghead.io/community/resources) free courses
-[Kevin Powell - YouTube](https://www.youtube.com/kepowob) CSS power god
-[OpenClassrooms](https://openclassrooms.com/en/)
-[The Coding Train - YouTube](https://www.youtube.com/c/TheCodingTrain) Processing, p5.js, algorithms
-[The Net Ninja - YouTube](https://www.youtube.com/c/TheNetNinja) mostly frontend
-[Traversy Media - YouTube](https://www.youtube.com/c/TraversyMedia)
-[Web Dev Simplified - YouTube](https://www.youtube.com/c/WebDevSimplified)
+[Courses for Front-End Web Developers | egghead.io](https://egghead.io/q?access_state=free) free courses
+[Academind - YouTube](https://www.youtube.com/@academind) web tech
+[Coding Tech - YouTube](https://www.youtube.com/@CodingTech) web tech
+[edureka! - YouTube](https://www.youtube.com/@edurekaIN)
+[Fireship - YouTube](https://www.youtube.com/@Fireship) mostly frontend, 100s intros, sarcastic
+[Beyond Fireship - YouTube](https://www.youtube.com/@beyondfireship)
+[JavaScript Mastery - YouTube](https://www.youtube.com/@javascriptmastery)
+[Kevin Powell - YouTube](https://www.youtube.com/@KevinPowell) CSS power god
+[The Coding Train - YouTube](https://www.youtube.com/@TheCodingTrain) Processing, p5.js, algorithms
+[The Net Ninja - YouTube](https://www.youtube.com/@NetNinja) mostly frontend
+[Traversy Media - YouTube](https://www.youtube.com/@TraversyMedia) mostly web tech
+[Web Dev Simplified - YouTube](https://www.youtube.com/@WebDevSimplified) mostly web tech
+
+[Hussein Nasser - YouTube](https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg) backend technologies, many on databases
+[The Backend Engineering Show - YouTube](https://www.youtube.com/playlist?list=PLQnljOFTspQU0ICDe-cL1EwXC4GDSayKY)
+[Boot.dev Blog](https://blog.boot.dev/) backend dev
+[Tech Primers - YouTube](https://www.youtube.com/@TechPrimers) enterprise application
 
 [VideoLectures.NET - VideoLectures.NET](https://videolectures.net/)
-[Video Library | Common Craft](https://www.commoncraft.com/videolist)
 
 [HowStuffWorks - Learn How Everything Works!](https://www.howstuffworks.com/)
 [eHow | eHow](https://www.ehow.com/)
@@ -86,7 +99,6 @@ We who learn to read before the web have slow reading skill that can be relearn,
 [California Academy of Sciences | Khan Academy](https://www.khanacademy.org/partner-content/CAS-biodiversity)
 [The British Museum | Khan Academy](https://www.khanacademy.org/partner-content/british-museum)
 [Asian Art Museum | Khan Academy](https://www.khanacademy.org/partner-content/asian-art-museum)
-[Crash Course | Khan Academy YouTube](https://www.youtube.com/user/crashcourse)
 
 ## NodeSchool
 
@@ -129,81 +141,76 @@ seneca-in-practice
 
 ## Educational Youtube Channels
 
-### MOOC
+[AsapSCIENCE - YouTube](https://www.youtube.com/@AsapSCIENCE) animated explainers
+[Be Smart - YouTube](https://www.youtube.com/@besmart) sciency
+[Branch Education - YouTube](https://www.youtube.com/@BranchEducation) "How it works" in 3D rendering
+[CGP Grey - YouTube](https://www.youtube.com/@CGPGrey) trivia on all sorts of things
+[Cheddar - YouTube](https://www.youtube.com/@cheddar) Cheddar explainers, NYC Revealed
+[Cleo Abram - YouTube](https://www.youtube.com/@CleoAbram) explainers, HUGE if true stories
+[Cogito - YouTube](https://www.youtube.com/@CogitoEdu) animated history and culture
+[ColdFusion - YouTube](https://www.youtube.com/@ColdFusion) explainers
+[Computerphile - YouTube](https://www.youtube.com/@Computerphile/) computer
+[CrashCourse - YouTube](https://www.youtube.com/@crashcourse) animated explainers
+[Creative Construction Channel - YouTube](https://www.youtube.com/@creativeconstructionchannel) engineering, experiments
+[Dom Burgess - YouTube](https://www.youtube.com/@DomBurgess) explainers
+[Domain of Science - YouTube](https://www.youtube.com/@domainofscience) sciency
+[engineerguy - YouTube](https://www.youtube.com/@engineerguyvideo) engineering
+[Fire of Learning - YouTube](https://www.youtube.com/@Fireoflearning) history
+[Integza - YouTube](https://www.youtube.com/@integza) sciency, experiments
+[Interesting Engineering - YouTube](https://www.youtube.com/@Interestingengineeringofficial) engineering
+[Jared Owen - YouTube](https://www.youtube.com/@JaredOwen) "How it works"
+[Jeremy Fielding - YouTube](https://www.youtube.com/@JeremyFieldingSr) "How it works", engineering
+[Kurzgesagt – In a Nutshell - YouTube](https://www.youtube.com/@kurzgesagt)
+[Lesics - YouTube](https://www.youtube.com/@Lesics) "How it works" in 3D rendering
+[Looking Glass Universe - YouTube](https://www.youtube.com/@LookingGlassUniverse) animated quantum mechanics
+[MinuteEarth - YouTube](https://www.youtube.com/@MinuteEarth) sciency, animated explainers
+[minutephysics - YouTube](https://www.youtube.com/@MinutePhysics) animated physics
+[Numberphile - YouTube](https://www.youtube.com/@numberphile) math
+[Objectivity - YouTube](https://www.youtube.com/@ObjectivityVideos) science artifacts
+[Periodic Videos - YouTube](https://www.youtube.com/@periodicvideos) chemistry
+[Physics Girl - YouTube](https://www.youtube.com/@physicsgirl) physics
+[Practical Engineering - YouTube](https://www.youtube.com/@PracticalEngineeringChannel) engineering, experiments
+[Primer - YouTube](https://www.youtube.com/@PrimerBlobs) evolution
+[Quanta Magazine - YouTube](https://www.youtube.com/@QuantaScienceChannel) sciency
+[Real Engineering - YouTube](https://www.youtube.com/@RealEngineering) engineering
+[Real Science - YouTube](https://www.youtube.com/@realscience) sciency, Insane Biology
+[RealLifeLore - YouTube](https://www.youtube.com/@RealLifeLore) explainers
+[Sabine Hossenfelder - YouTube](https://www.youtube.com/@SabineHossenfelder) sciency, explainers
+[saVRee - YouTube](https://www.youtube.com/@savree-3d) "How it works" in 3D rendering
+[Science ABC - YouTube](https://www.youtube.com/@Scienceabc) animated explainers
+[SciShow - YouTube](https://www.youtube.com/@SciShow) sciency
+[SideQuest - YouTube](https://www.youtube.com/@SideQuestYT) animated history
+[Sixty Symbols - YouTube](https://www.youtube.com/@sixtysymbols) physics and astronomy
+[SmarterEveryDay - YouTube](https://www.youtube.com/@smartereveryday) sciency, engineering, experiments
+[Steve Mould - YouTube](https://www.youtube.com/@SteveMould) sciency
+[The Efficient Engineer - YouTube](https://www.youtube.com/@TheEfficientEngineer/) engineering
+[The Engineering Mindset - YouTube](https://www.youtube.com/@EngineeringMindset) explainers, electronics and engineering
+[The RSA - YouTube](https://www.youtube.com/@rsaorg) The Royal Society for Arts, Manufactures and Commerce, animated explainers
+[The School of Life - YouTube](https://www.youtube.com/@theschooloflifetv) animated explainers
+[The Thought Emporium - YouTube](https://www.youtube.com/@thethoughtemporium) sciency
+[Today I Found Out - YouTube](https://www.youtube.com/@TodayIFoundOut) explainers
+[Tom Scott - YouTube](https://www.youtube.com/@TomScottGo) sciency
+[Two Bit da Vinci - YouTube](https://www.youtube.com/@TwoBitDaVinci) explainers
+[Up and Atom - YouTube](https://www.youtube.com/@upandatom) Physics and Maths
+[Verge Science - YouTube](https://www.youtube.com/@VergeScience) sciency
+[Veritasium - YouTube](https://www.youtube.com/@veritasium) sciency
+[Vsauce - YouTube](https://www.youtube.com/@Vsauce) sciency
+[Wendover Productions - YouTube](https://www.youtube.com/@Wendoverproductions) explainers, Nebula founder
+[Zepherus - YouTube](https://www.youtube.com/@Zepherus) obscure historical/scientific things
+[壹读 iRead - 轻幽默·有情趣 - YouTube](https://www.youtube.com/@feidie1min) animated explainers, abandoned?
+[小 Lin 说 - YouTube](https://www.youtube.com/@xiao_lin_shuo) economics and related history
+[柴知道 ChaiKnows Official Channel - YouTube](https://www.youtube.com/@chaiknowsofficialchannel982) animated explainers
+[混乱博物馆 ChaosMuseum - YouTube](https://www.youtube.com/@chaosmuseum) explainers
+[瑞森老哥 Reason - YouTube](https://www.youtube.com/@reason2188) animated explainers, short history
+[科学火箭叔 - YouTube](https://www.youtube.com/@KeXueHuoJianShu) sciency, but citation is poor
 
-[ouLearn on YouTube - YouTube](https://www.youtube.com/channel/UCXsH4hSV_kEdAOsupMMm4Qw)
-[Stanford - YouTube](https://www.youtube.com/channel/UC-EnprmCZ3OXyAoG7vjVNCA)
-[GOTO Conferences - YouTube](https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA)
-[intrigano - YouTube](https://www.youtube.com/user/intrigano/playlists)
+[Projects — Brady Haran](https://www.bradyharanblog.com/projects)
 
 ### TED
 
-[TED - YouTube](https://www.youtube.com/user/TEDtalksDirector)
-[TED-Ed - YouTube](https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA)
-[TEDx Talks - YouTube](https://www.youtube.com/user/TEDxTalks)
-
-### Vlog
-
-[Branch Education - YouTube](https://www.youtube.com/c/BranchEducation)
-[CGP Grey - YouTube](https://www.youtube.com/user/CGPGrey)
-[Cheddar - YouTube](https://www.youtube.com/c/cheddar)
-[Cogito - YouTube](https://www.youtube.com/c/CogitoEdu)
-[ColdFusion - YouTube](https://www.youtube.com/c/ColdFusion)
-[Computerphile - YouTube](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
-[Cleo Abram - YouTube](https://www.youtube.com/@CleoAbram) HUGE if true stories
-[Creative Construction Channel - YouTube](https://www.youtube.com/channel/UCJHtuBm9bkqSYHbNZTiHycA)
-[engineerguy - YouTube](https://www.youtube.com/channel/UC2bkHVIDjXS7sgrgjFtzOXQ)
-[Every Think - YouTube](https://www.youtube.com/channel/UCGI000V6ZIAQf97MNybAaLQ)
-[Fire of Learning - YouTube](https://www.youtube.com/channel/UCbyE5OvaP4GJhKvPCXxjWvw)
-[In a Nutshell – Kurzgesagt - YouTube](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
-[Integza - YouTube](https://www.youtube.com/channel/UC2avWDLN1EI3r1RZ_dlSxCw)
-[Interesting Engineering - YouTube](https://www.youtube.com/channel/UCEuiOszNd6msGgqsD0f9YAQ)
-[It's Okay To Be Smart - YouTube](https://www.youtube.com/channel/UCH4BNI0-FOK2dMXoFtViWHw)
-[Jared Owen - YouTube](https://www.youtube.com/c/JaredOwen)
-[Jeremy Fielding - YouTube](https://www.youtube.com/channel/UC_SLthyNX_ivd-dmsFgmJVg) Engineering topics
-[Lesics - YouTube](https://www.youtube.com/c/Lesics)
-[Looking Glass Universe - YouTube](https://www.youtube.com/channel/UCFk__1iexL3T5gvGcMpeHNA)
-[MinuteEarth - YouTube](https://www.youtube.com/channel/UCeiYXex_fwgYDonaTcSIk6w)
-[minutephysics - YouTube](https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg)
-[Numberphile - YouTube](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)
-[Objectivity - YouTube](https://www.youtube.com/channel/UCtwKon9qMt5YLVgQt1tvJKg)
-[Periodic Videos - YouTube](https://www.youtube.com/channel/UCtESv1e7ntJaLJYKIO1FoYw)
-[Physics Girl - YouTube](https://www.youtube.com/c/physicsgirl)
-[Primer - YouTube](https://www.youtube.com/c/PrimerLearning) on evolution
-[Quanta Magazine - YouTube](https://www.youtube.com/c/QuantaScienceChannel)
-[Real Engineering - YouTube](https://www.youtube.com/c/RealEngineering)
-[Real Science - YouTube](https://www.youtube.com/channel/UC176GAQozKKjhz62H8u9vQQ)
-[RealLifeLore - YouTube](https://www.youtube.com/channel/UCP5tjEmvPItGyLhmjdwP7Ww)
-[saVRee - YouTube](https://www.youtube.com/@savree-3d)
-[Science ABC - YouTube](https://www.youtube.com/c/ScienceabcOfficial)
-[SciShow - YouTube](https://www.youtube.com/channel/UCZYTClx2T1of7BRZ86-8fow)
-[SciShow Space - YouTube](https://www.youtube.com/channel/UCrMePiHCWG4Vwqv3t7W9EFg)
-[SideQuest - YouTube](https://www.youtube.com/@SideQuestYT)
-[Sixty Symbols - YouTube](https://www.youtube.com/channel/UCvBqzzvUBLCs8Y7Axb-jZew)
-[SmarterEveryDay - YouTube](https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA)
-[Steve Mould - YouTube](https://www.youtube.com/channel/UCEIwxahdLz7bap-VDs9h35A)
-[storyofstuffproject - YouTube](https://www.youtube.com/channel/UCRNnYXD8Elz5zwKQ2jAcbAg)
-[The Engineering Mindset - YouTube](https://www.youtube.com/channel/UCk0fGHsCEzGig-rSzkfCjMw)
-[The RSA - YouTube](https://www.youtube.com/channel/UCvhsiQGy_zcNCiSbeXEjhLg)
-[The School of Life - YouTube](https://www.youtube.com/channel/UC7IcJI8PUf5Z3zKxnZvTBog)
-[The Thought Emporium - YouTube](https://www.youtube.com/channel/UCV5vCi3jPJdURZwAOO_FNfQ)
-[Today I Found Out - YouTube](https://www.youtube.com/c/Todayifoundout-official)
-[Tom Scott - YouTube](https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A)
-[Up and Atom - YouTube](https://www.youtube.com/channel/UCSIvk78tK2TiviLQn4fSHaw/) Physics and Maths
-[Verge Science - YouTube](https://www.youtube.com/channel/UCtxJFU9DgUhfr2J2bveCHkQ)
-[Veritasium - YouTube](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA)
-[Vsauce - YouTube](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA)
-[We Still Don’t Know How Bicycles Work - YouTube](https://www.youtube.com/watch?v=YWsK6rmsKSI)
-[Wendover Productions - YouTube](https://www.youtube.com/@Wendoverproductions)
-[Zepherus - YouTube](https://www.youtube.com/channel/UC-x0TtqNsBBQAQzFLnKZHnw)
-[柴知道 ChaiKnows Official Channel - YouTube](https://www.youtube.com/channel/UCQtwvRQWnT5Buh9hpvNNryQ)
-[壹读 iRead - 轻幽默·有情趣 - YouTube](https://www.youtube.com/@feidie1min)
-[林辰 Buchi - YouTube](https://www.youtube.com/@LinBuchi)
-[混乱博物馆 ChaosMuseum - YouTube](https://www.youtube.com/channel/UCsFM7d3CsTEnUgNQl9QO7ZA)
-[瑞森老哥 Reason - YouTube](https://www.youtube.com/channel/UCwQn3kcFaRMNWaiwKokIo7A)
-[科学火箭叔 - YouTube](https://www.youtube.com/channel/UC8dD8v_uIA7aRzpqaCoIHKg)
-
-[Projects — Brady Haran](https://www.bradyharanblog.com/projects)
+[TED - YouTube](https://www.youtube.com/@TEDEd)
+[TED-Ed - YouTube](https://www.youtube.com/@TEDEd)
+[TEDx Talks - YouTube](https://www.youtube.com/@TEDx)
 
 ### Documentaries
 
@@ -214,11 +221,11 @@ seneca-in-practice
 [Watch Free Documentaries Online | Documentary Heaven](https://documentaryheaven.com/)
 [Battle of the Somme (WW1 Documentary) | History Documentary | Reel Truth History - YouTube](https://www.youtube.com/watch?v=9BlbdNq1UCE)
 
-[Best Documentary - YouTube](https://www.youtube.com/c/BestDocumentaryWorld)
-[Nature | PBS](https://www.pbs.org/show/nature/) USA only
-[Nature on PBS - YouTube](https://www.youtube.com/channel/UCcBp_9YPyma4c3HTadmRJ3Q)
-[PBS Space Time - YouTube](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g)
-[PBS Infinite Series - YouTube](https://www.youtube.com/channel/UCs4aHmggTfFrpkPcWSaBN9g)
+[Best Documentary - YouTube](https://www.youtube.com/@BestDoc)
+[Nature | PBS](https://www.pbs.org/show/nature/) US only
+[Nature on PBS - YouTube](https://www.youtube.com/@naturepbs)
+[PBS Space Time - YouTube](https://www.youtube.com/@pbsspacetime)
+[PBS Infinite Series - YouTube](https://www.youtube.com/@pbsinfiniteseries)
 [PBS Eons - YouTube](https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA)
 [NOVA PBS Official - YouTube](https://www.youtube.com/channel/UCjHz5SVHeMT0AViCYZvsGDA)
 [PBS Nova Documentary Channel - YouTube](https://www.youtube.com/channel/UCH0Tc69zRQLabJLBroDubVQ)

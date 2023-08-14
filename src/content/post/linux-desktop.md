@@ -2,6 +2,7 @@
 title: Linux Desktop
 description: ""
 created: 2014-12-12
+updated: 2023-08-14
 tags:
   - desktop
   - gjs
@@ -26,6 +27,9 @@ This post is about using GNU/Linux with [desktop environment](http://www.wikiwan
 [Introduction to Linux (LFS101) - Linux Foundation - Training](https://training.linuxfoundation.org/training/introduction-to-linux/)
 [Product Documentation for Red Hat Enterprise Linux - Red Hat Customer Portal](https://access.redhat.com/documentation/en/red-hat-enterprise-linux/?version=7/)
 [Microsoft Should be VERY Afraid - Noob's Guide to Linux Gaming - YouTube](https://www.youtube.com/watch?v=Co6FePZoNgE)
+
+[Welcome To Distro.Tube](https://distro.tube/)
+[DistroTube - YouTube](https://www.youtube.com/@DistroTube)
 
 [The Linux Documentation Project](http://www.tldp.org/)
 [The Linux Information Project (LINFO) Home Page](http://www.linfo.org/index.html)
@@ -165,6 +169,13 @@ The default DE saves you the hassle of going through the setup and probably more
 [Top 5 Linux Distros to look forward in 2017 » TechWorm](https://www.techworm.net/2017/01/top-5-linux-distros-look-forward-2017.html)
 [The Best Linux Distros to Watch Out for in 2017 - Make Tech Easier](https://www.maketecheasier.com/linux-distros-2017/)
 [Category: Distros - LinuxAndUbuntu - Linux News | Apps Reviews | Linux Tutorials HowTo](http://www.linuxandubuntu.com/home/category/distros)
+
+#### Vanill OS
+
+[Vanilla OS](https://vanillaos.org/)
+
+- read only Ubuntu-based OS
+- multiple distro container
 
 ### Check distro
 
@@ -448,6 +459,12 @@ man 1 examplecommand
 [Clipboard Access from the Command Line with xsel/xclip - TerminalMage dot NET](http://terminalmage.net/2011/10/18/clipboard-access-from-the-command-line.html)
 [Command Line to Clipboard | Linuxtidbits](https://linuxtidbits.wordpress.com/2008/02/22/command-line-to-clipboard/)
 
+[The Clipboard Project - Homepage](https://getclipboard.app/)
+[Slackadays/Clipboard: 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager](https://github.com/Slackadays/clipboard/)
+[Meet 'Clipboard': An Open-Source App That Aims to Turn Up Your Productivity](https://news.itsfoss.com/clipboard/)
+[Clipboard: Simple Unified Linux Clipping Tool - YouTube](https://www.youtube.com/watch?v=SOtLR6qBb90)
+[No Frills Clipboard Manipulation With Xclip and Xsel - YouTube](https://www.youtube.com/watch?v=T2fDWJKeotM)
+
 X11 has not one, not two, but _three_ clipboards. They are called:
 
 - **PRIMARY** - Also known as the "primary selection" or the "primary
@@ -569,22 +586,27 @@ Cflags: -I
 [mimeo](http://xyne.archlinux.ca/projects/mimeo/) can find `.desktop` and change association
 [march-linux/mimi](https://github.com/march-linux/mimi)
 
+[Linux: How To Change Your Default Applications In XDG MIME - YouTube](https://www.youtube.com/watch?v=z3F0hTigMvU)
 [File-Openers and Xdg-utils | Linux.org](http://www.linux.org/threads/file-openers-and-xdg-utils.6600/)
 [Chris's Wiki :: blog/linux/XdgMimeTypeSearching](https://utcc.utoronto.ca/~cks/space/blog/linux/XdgMimeTypeSearching)
 [Chris's Wiki :: blog/linux/XdgOpenWhichBrowser](https://utcc.utoronto.ca/~cks/space/blog/linux/XdgOpenWhichBrowser)
 
 ```sh
+# the config file
 cat ~/.config/mimeapps.list
 
-xdg-mime query default text/plain
-xdg-mime query default inode/directory  # query default
-xdg-mime query default inode/directory nemo.desktop  # set default
+# query mime type
+xdg-mime query filetype text/plain
+# query default
+xdg-mime query default inode/directory
+xdg-mime query default inode/directory nemo.desktop
+# set default
 xdg-mime default sublime_text.desktop text/plain
 
 gio mime inode/directory
 
 # set default app to all mime type supported
-xdg-mime default gpicview.desktop `grep 'MimeType=' /usr/share/applications/gpicview.desktop | sed -e 's/.*=//' -e 's/;/ /g'`
+xdg-mime default gpicview.desktop `grep 'MimeType=' /usr/share/applications/gpicview.desktop | sed -e 's/.*=//' -e 's/;/ /`
 ```
 
 NOTE: [xdg-utils](http://portland.freedesktop.org/wiki/XdgUtils) is needed here. It's a tool released by Portland project of Freedesktop.org. Most modern Linux distros have this tool installed by default.
@@ -663,15 +685,14 @@ dconf write /org/cinnamon/desktop/screensaver/lock-enabled false
 ## Font
 
 [Fonts - ArchWiki](https://wiki.archlinux.org/title/fonts)
+Fonts are usually stored under `/usr/share/fonts/` or per user `~/.fonts/`
+
 [Fixing Missing Characters and Font Issues | Linux.org](http://www.linux.org/threads/fixing-missing-characters-and-font-issues.7644/)
-[GNU Unifont Glyphs](http://unifoundry.com/unifont.html)
-[The Ultimate Oldschool PC Font Pack: Home](http://int10h.org/oldschool-pc-fonts/)
 [Better Looking fonts For fedora : Fedora](https://www.reddit.com/r/Fedora/comments/5nfenw/better_looking_fonts_for_fedora/)
 [The sad state of font rendering on Linux | Infosec scribbles](https://pandasauce.org/post/linux-fonts/)
 [The new v40 TrueType interpreter mode](https://www.freetype.org/freetype2/docs/subpixel-hinting.html)
 
-[Hanazono fonts](http://fonts.jp/hanazono/)
-[BabelStone Fonts : BabelStone Han](http://www.babelstone.co.uk/Fonts/Han.html)
+[fontmatrix/fontmatrix: Free font collections manager for Linux, Mac and Windows](https://github.com/fontmatrix/fontmatrix)
 
 [Debian 8 (jessie) 安裝筆記 中文環境篇 - 石頭閒語 - 樂多日誌](http://blog.roodo.com/rocksaying/archives/31556973.html)
 
@@ -681,9 +702,16 @@ dconf write /org/cinnamon/desktop/screensaver/lock-enabled false
 
 [I stared into the fontconfig, and the fontconfig stared back at me / fuzzy notepad](http://eev.ee/blog/2015/05/20/i-stared-into-the-fontconfig-and-the-fontconfig-stared-back-at-me/)
 
+[Manually Installing Fonts On Linux Is Actually Really Easy - YouTube](https://www.youtube.com/watch?v=LJ7CEhnS0OM)
+
 ```sh
+# list all fonts
+fc-list
+# search font name
 fc-list "Noto Sans"
 fc-match "Noto Sans CJK TC"
+
+fc-cache  # update cache for FontConfig
 ```
 
 ## `xinput`
@@ -706,8 +734,14 @@ Use `xev` to open an window that dumps all input event to console.
 
 [Mouse buttons - ArchWiki](https://wiki.archlinux.org/title/Mouse_buttons)
 [EVDEV(4) manual page](https://www.x.org/releases/X11R7.5/doc/man/man4/evdev.4.html)
+
+### xmodmap
+
 [xmodmap - ArchWiki](https://wiki.archlinux.org/title/Xmodmap)
 [xmodmap man page - General Commands | ManKier](https://www.mankier.com/1/xmodmap)
+
+[Make Caps Lock Great Again By Remapping It With Xmodmap - YouTube](https://www.youtube.com/watch?v=r3hxmzwwyyE)
+[XKeyCaps](https://www.jwz.org/xkeycaps/) graphical front-end to xmodmap
 
 ### xte
 
@@ -720,7 +754,11 @@ Use `xev` to open an window that dumps all input event to console.
 [baskerville/sxhkd: Simple X hotkey daemon](https://github.com/baskerville/sxhkd)
 [worm/sxhkdrc at main · codic12/worm](https://github.com/codic12/worm/blob/main/examples/sxhkdrc) sample file for Worm WM
 
-### `xbindkeys`
+`;` to define chord chain: `contol + g; {b, g}`
+
+[Sxhkd: Configuring Window Manager Independent Keybindings - YouTube](https://www.youtube.com/watch?v=PmZAxNSdkQ8)
+
+### xbindkeys
 
 #keymap
 
@@ -736,10 +774,14 @@ Bing keys to program, with `xte` of `xautomation` it is another (better and more
 
 ## Xorg stuffs
 
-[xprop - man page - ManKier](https://www.mankier.com/1/xprop)
 [Xorg - ArchWiki](https://wiki.archlinux.org/title/Xorg)
 [X Window System - Wikiwand](https://www.wikiwand.com/en/X_Window_System)
 [XCB - Wikiwand](https://www.wikiwand.com/en/XCB)
+
+[xprop - man page - ManKier](https://www.mankier.com/1/xprop) query window info
+
+[baskerville/xdo: Small X utility to perform elementary actions on windows](https://github.com/baskerville/xdo)
+[Xdo: Window Manipulation With A Generic Tool - YouTube](https://www.youtube.com/watch?v=GkGVmuiOUXg)
 
 [xorg.conf](https://www.x.org/releases/current/doc/man/man5/xorg.conf.5.xhtml)
 
@@ -760,6 +802,14 @@ Bing keys to program, with `xte` of `xautomation` it is another (better and more
 
 [File:Free and open-source-software display servers and UI toolkits.svg](https://en.wikipedia.org/wiki/File:Free_and_open-source-software_display_servers_and_UI_toolkits.svg)
 
+### xhost
+
+```sh
+xhost +si:localuser:$USER
+xhost -
+# never use `xhost +`
+```
+
 ### Display Setting
 
 Most DE includes UI for resolution and multihead settings
@@ -779,6 +829,9 @@ Most DE includes UI for resolution and multihead settings
 
 [ARandR: Another XRandR GUI](https://christian.amsuess.com/tools/arandr/)
 
+[Creating VIRTUAL MONITORS With Xrandr on Linux - YouTube](https://www.youtube.com/watch?v=N9KxpPyJMJA)
+[How To Use Multiple Monitors On Linux (With Xrandr) - YouTube](https://www.youtube.com/watch?v=wu2NWw2wPaA)
+
 [XStrikeForce/HowToRandR12 - Debian Wiki](https://wiki.debian.org/XStrikeForce/HowToRandR12)
 
 **X** **R**otate **and** **R**esize is a CLI tools for configuring display settings.
@@ -788,6 +841,9 @@ xrandr --auto
 
 # reset display
 xrandr -s 0
+
+# set resolution
+xrandr -s 1920x1080
 
 xrandr --output {PORT} --brightness {BRIGHTNESS}
 xrandr --output HDMI2 --scale 1.2 # zoom out
@@ -842,6 +898,12 @@ Application Options:
   -h, --hint=TYPE:NAME:VALUE        Specifies basic extra data to pass. Valid types are int, double, string and byte.
   -v, --version                     Version of the package.
 ```
+
+## PolicyKit
+
+[polkit - ArchWiki](https://wiki.archlinux.org/title/Polkit)
+
+[PolKit Is Broken On Window Managers: How To Fix It!! - YouTube](https://www.youtube.com/watch?v=_O7l4co_F4k)
 
 ## GNOME
 

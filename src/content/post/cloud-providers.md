@@ -13,6 +13,9 @@ tags:
 
 [The Best Alternatives To Heroku - Theo's Deployment Recommendations - YouTube](https://www.youtube.com/watch?v=prjMJtXCR-g)
 
+[The ABCs of virtual private servers, Part 1: Why go virtual? | Ars Technica](https://arstechnica.com/information-technology/2011/02/virtual-private-servers/)
+[The ABCs of virtual private servers, Part 2: Getting started | Ars Technica](https://arstechnica.com/information-technology/2011/02/the-abcs-virtual-private-servers-part-2-getting-started/)
+
 # Web Hosting
 
 [[hostinger]]

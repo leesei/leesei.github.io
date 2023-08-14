@@ -8,7 +8,7 @@ tags:
 
 > adjective-noun or noun-verb phrases
 
-concert for the deafs
+concert for the deaf
 cruelly kind
 dark sunshine
 deafening silence
@@ -326,7 +326,7 @@ Necessary Evil
 Negative Growth (economic recession)
 Negative Patient Heath Outcome (hospital-speak for "you're dead")
 New and Improved
-"New Antiques arriving daily!"
+New Antiques arriving daily!
 New Classic
 New Old Stock
 New Tradition
@@ -334,7 +334,7 @@ Night Light
 Non-Dairy Creamer
 Non-Denominational Church
 Non-Stop Flight
-"Now, then"
+Now, then
 Old Boy
 Old News
 One-man band
@@ -409,7 +409,7 @@ Self-rescue (wind-surfing term)
 Self-taught
 Sensitive Guy
 Serious Clown
-"Seriously, you need to lighten up."
+Seriously, you need to lighten up.
 Short Distance
 Signing Off On something
 Silent Alarm

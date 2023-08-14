@@ -2,7 +2,7 @@
 title: Color
 description: ""
 created: 2014-12-17
-updated: 2023-03-23
+updated: 2023-08-07
 tags:
   - color-palette
   - colorspace
@@ -48,7 +48,9 @@ Light source, Color Rendering Index
 [Coolors - The super fast color schemes generator!](http://coolors.co/)
 [Color Hex - ColorHexa.com](http://www.colorhexa.com/)
 [Adobe Color CC](https://color.adobe.com/zh/)
+
 [Realtime Colors](https://realtimecolors.com/)
+[I updated Realtime Colors - YouTube](https://www.youtube.com/watch?v=YWVneCWIfoE)
 
 [Is there a science to picking colors that work well together or is it just subjective? - Quora](http://www.quora.com/Is-there-a-science-to-picking-colors-that-work-well-together-or-is-it-just-subjective)
 [Which Colors Look Good on Black and White? - DEV Community 👩‍💻👨‍💻](https://dev.to/finnhvman/which-colors-look-good-on-black-and-white-2pe6)
@@ -90,7 +92,13 @@ Light source, Color Rendering Index
 [Coblis — Color Blindness Simulator – Colblindor](https://www.color-blindness.com/coblis-color-blindness-simulator/)
 
 [ColorZilla - Eyedropper, Color Picker, Gradient Generator and more](https://www.colorzilla.com/)
-[Gpick - Home](http://www.gpick.org/)
+
+[8 Awesome Color Picking Tools for Linux](https://www.geeksmint.com/color-picking-tools-for-linux/)
+
+[gcolor2 - GTK+2 Color Selector](https://gcolor2.sourceforge.net/)
+
+[Jack12816/colorpicker: Click on a pixel on your screen and print its color value in RGB. Written for X11.](https://github.com/Jack12816/colorpicker) `colorpicker --preview --short`
+[Picking Colors From Anywhere On Your Linux System - YouTube](https://www.youtube.com/watch?v=grs-kLwuyVk)
 
 [wojtekmaj/color-utils: A collection of color-related utilities.](https://github.com/wojtekmaj/color-utils)
 
@@ -105,6 +113,7 @@ Light source, Color Rendering Index
 ### Pigments
 
 [How We Make (and Made) Color - [A Collaboration with Google Arts and Culture] - YouTube](https://www.youtube.com/watch?v=hTZbrRaO2q8)
+[人類為了好色，到底做過哪些重口味的事情…… | 總裁聊聊 - YouTube](https://www.youtube.com/watch?v=7IstCl--Ea0)
 
 [Tyrian purple - Wikiwand](https://www.wikiwand.com/en/Tyrian_purple)
 [In Ancient Rome, Purple Dye Was Made from Snails | Smart News | Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/in-ancient-rome-purple-dye-was-made-from-snails-1239931/)

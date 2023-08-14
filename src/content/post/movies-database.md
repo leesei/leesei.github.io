@@ -2,6 +2,7 @@
 title: Movies Database
 description: ""
 created: 2015-08-26
+updated: 2023-08-08
 tags:
   - movies
 ---
@@ -9,6 +10,8 @@ tags:
 I'm picking service that can organize my _to watch_ and _watched_ movies.
 A good recommendation system is preferable. I don't usually do ratings and comments on movies.
 For sites that support a single watchlist, I can rate my watched movies with an arbitrary rating.
+
+[香港正在上映的電影-上映中電影及戲院上映日期，戲院購票及座位資料-Hong Kong Movie-香港電影](https://hkmovie6.com/showing)
 
 [IMDb - Movies, TV and Celebrities - IMDb](http://www.imdb.com/)
 THE database for movies, but rating is not reliable.
@@ -74,6 +77,7 @@ Innovative and personalized recommendation system.
 
 [befores & afters - VFX magazine](https://beforesandafters.com/)
 [Corridor Crew - YouTube](https://www.youtube.com/channel/UCSpFnDQr88xCZ80N-X7t0nQ) recreate CG in movies
+[FilMonger - YouTube](https://www.youtube.com/@FilMonger)
 [Behind the Seams - YouTube](https://www.youtube.com/@behindtheseams300) fashion and costumes
 [BEHIND THE SCENES & B-ROLL - YouTube](https://www.youtube.com/playlist?list=PLQ7_GA82PpMGBaHHowmE-Ucs__mY7UA5M)
 [經典電影大解密｜ Breaks Down - YouTube](https://www.youtube.com/playlist?list=PLiyT3ZJaRwTvS7o7p9DJoIDPCDO1Ph2co)

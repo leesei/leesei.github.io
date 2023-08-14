@@ -71,7 +71,7 @@ tags:
 
 [Servo, the parallel browser engine](https://servo.org/)
 [servo/servo: The Servo Browser Engine](https://github.com/servo/servo)
-[Servo (layout engine) - Wikiwand](https://www.wikiwand.com/en/Servo_(layout_engine%29)
+[Servo (layout engine) - Wikiwand](<https://www.wikiwand.com/en/Servo_(layout_engine)>)
 
 [How to Backup and Restore Firefox Profile On Linux](https://www.fossmint.com/backup-and-restore-a-firefox-profile-on-linux/)
 Profile Manager: `firefox -p`

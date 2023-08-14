@@ -2,11 +2,14 @@
 title: PostgreSQL
 description: The World's Most Advanced Open Source Relational Database
 created: 2023-06-18
+updated: 2023-08-14
 tags:
-  - database
+  - comp/database
   - postgresql
   - sql
 ---
+
+[[psql-snippets]]
 
 [PostgreSQL: The world's most advanced open source database](https://www.postgresql.org/)
 [PostgreSQL - Wikiwand](https://www.wikiwand.com/en/PostgreSQL)
@@ -122,6 +125,9 @@ Advisory Locks
 [A tour of Postgres' Foreign Data Wrappers - Craig Kerstiens](http://www.craigkerstiens.com/2016/09/11/a-tour-of-fdws/)
 [Understanding Foreign Data Wrappers in Postgres and postgres_fdw](https://www.crunchydata.com/blog/understanding-postgres_fdw)
 [PostgreSQL: Documentation: 15: F.38. postgres_fdw](https://www.postgresql.org/docs/current/postgres-fdw.html)
+
+[Creating a Postgres Foreign Data Wrapper | DoltHub Blog](https://www.dolthub.com/blog/2022-01-26-creating-a-postgres-foreign-data-wrapper/)
+[PostgreSQL FDW aggregation pushdown part I: modifying Multicorn | Splitgraph](https://www.splitgraph.com/blog/postgresql-fdw-aggregation-pushdown-multicorn-part-1)
 
 ## Computed Values
 

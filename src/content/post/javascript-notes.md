@@ -2,8 +2,9 @@
 title: JavaScript Notes
 description: ""
 created: 2014-12-11
+updated: 2023-08-14
 tags:
-  - comp.lang
+  - comp/lang
   - javascript
 ---
 
@@ -285,7 +286,7 @@ var filtered = [].filter.call(meta, function (val) {
 
 ```js
 const sharedBuffer = new SharedArrayBuffer(
-  Int32Array.BYTES_PER_ELEMENT * numberOfElements
+  Int32Array.BYTES_PER_ELEMENT * numberOfElements,
 );
 const arr = new Int32Array(sharedBuffer);
 ```
@@ -362,6 +363,7 @@ Solution: use `process.nextTick()` or Promise whose callback must be [executed a
 [Promisees · Courtesy of ponyfoo.com](http://bevacqua.github.io/promisees/) visualization playground
 
 [All you need to know about Promise.all](https://www.freecodecamp.org/news/promise-all-in-javascript-with-example-6c8c5aea3e32/)
+[The Dangers Of Promise.all() - YouTube](https://www.youtube.com/watch?v=f2Z1v3cqgDI) `Promise.allSettled()`
 
 [Promise anti patterns · petkaantonov/bluebird Wiki](https://github.com/petkaantonov/bluebird/wiki/Promise-anti-patterns)
 [Promise Anti-patterns – Tao of Code](https://taoofcode.net/promise-anti-patterns/)
@@ -790,6 +792,7 @@ supports CPython compiled to WebAssembly
 [pyscript/pyscript: Home Page: https://pyscript.net Examples: https://pyscript.net/examples](https://github.com/pyscript/pyscript)
 [A First Look at PyScript: Python in the Web Browser – Real Python](https://realpython.com/pyscript-python-in-browser/)
 [PyScript: Making Python Scripts Work In Browser For Web App Creation](https://www.searchenginejournal.com/python-scripts-web-app-creation/454348/)
+[I Tested PyScript — And You Can Literally Write Python Scripts In Your Browser | by Eldad Uzman | Better Programming](https://betterprogramming.pub/i-tested-pyscript-and-you-can-literally-write-python-scripts-in-your-browser-2e4c8ca125bf)
 [PyScript is officially here!🚀 Build web apps with Python & HTML - YouTube](https://www.youtube.com/watch?v=owopzp436jM)
 
 [ethanhs/python-wasm: Build scripts and configuration for building CPython for Emscripten](https://github.com/ethanhs/python-wasm)

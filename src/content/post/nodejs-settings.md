@@ -2,8 +2,9 @@
 title: Node.js settings
 description: ""
 created: 2014-12-11
+updated: 2023-07-28
 tags:
-  - comp.lang
+  - comp/lang
   - nodejs
   - npm
   - nvm
@@ -100,6 +101,7 @@ See [Node modules](#node-modules) or use `nvm reinstall-packages <prev-version>`
 [Why I Switched From NPM/Yarn to PNPM And Why You Should Too! - YouTube](https://www.youtube.com/watch?v=d1E31WPR70g)
 [Why should we use pnpm? by @ZoltanKochan](https://www.kochan.io/nodejs/why-should-we-use-pnpm.html)
 [Flat node_modules is not the only way – pnpm – Medium](https://medium.com/pnpm/flat-node-modules-is-not-the-only-way-d2e40f7296a3)
+[Why we switched from Yarn to pnpm - Data Orchestration for Composable Commerce](https://www.takeshape.io/articles/why-we-switched-from-yarn-to-pnpm/)
 
 ## npm
 
@@ -542,10 +544,12 @@ High Level: ORM
 [Bookshelf.js](http://bookshelfjs.org/) built on Knex
 [Objection.js](https://vincit.github.io/objection.js/) built on Knex
 
-[kysely-org/kysely: A type-safe typescript SQL query builder](https://github.com/kysely-org/kysely) inspred by Knex, model typing
+[Kysely | Kysely](https://kysely.dev/) inspred by Knex, model typing
+[kysely-org/kysely: A type-safe typescript SQL query builder](https://github.com/kysely-org/kysely)
 
 [typeorm/typeorm: ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.](https://github.com/typeorm/typeorm)
 [Setting up a basic TypeORM starter](https://daily-dev-tips.com/posts/setting-up-a-basic-typeorm-starter/)
+[TypeORM: Object-relational mapping with Node.js - LogRocket Blog](https://blog.logrocket.com/typeorm-object-relational-mapping-node-js/)
 
 [PlanetScale serverless driver for JavaScript — PlanetScale Documentation](https://planetscale.com/docs/tutorials/planetscale-serverless-driver)
 [planetscale/database-js: A Fetch API-compatible PlanetScale database driver](https://github.com/planetscale/database-js) fixes Prisma's slow cold start problem
@@ -612,11 +616,21 @@ All JS code are serialized as string and lazy loaded
 
 [Qwik… the world's first O(1) JavaScript framework? - YouTube](https://www.youtube.com/watch?v=x2eF3YLiNhY)
 [Build Resumable Apps with Qwik - YouTube](https://www.youtube.com/watch?v=_PDpoJUacuc)
-[Unveiling Qwik 1.0: What You Need to Know! - YouTube](https://www.youtube.com/watch?v%3DNjKOAbWqOM4)
+[Unveiling Qwik 1.0: What You Need to Know! - YouTube](https://www.youtube.com/watch?v=NjKOAbWqOM4)
 [Things are getting serious! - YouTube](https://www.youtube.com/watch?v=zXx_FHQuWt0)
 
 [Qwik Series' Articles - DEV Community](https://dev.to/mhevery/series/13467)
 [Resumable JavaScript with Qwik - DEV Community](https://dev.to/this-is-learning/resumable-javascript-with-qwik-2i29)
+
+#### Qwik City
+
+> Server Side Rendering, Static Site Generation, app framework like Next.js for React
+
+[Qwik City - Overview - Qwik](https://qwik.builder.io/docs/qwikcity/)
+[Qwik City Routing: A Visual Guide](https://www.builder.io/blog/qwik-city-routing)
+
+[Qwik City as a JavaScript Framework](https://devm.io/javascript/qwik-city-framework)
+[Using server functions with Qwik and Qwik City - LogRocket Blog](https://blog.logrocket.com/using-server-functions-qwik-and-qwik-city/)
 
 ### FoalTS
 
@@ -626,6 +640,9 @@ All JS code are serialized as string and lazy loaded
 
 [Elderjs/elderjs: Elder.js is an opinionated static site generator and web framework for Svelte built with SEO in mind.](https://github.com/Elderjs/elderjs)
 [Elder.js: A Svelte Framework and Static Site Generator](https://elderguide.com/tech/elderjs/)
+
+[Elder.js Template: Home](https://elderjs.pages.dev/)
+[Is Elder.js Right For You?](https://elderjs.pages.dev/is-elderjs-right-for-you/)
 
 ### Wasp
 

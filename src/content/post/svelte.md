@@ -2,7 +2,7 @@
 title: Svelte
 description: Svelte is a _compiler_ for frontend applications
 created: 2019-12-16
-updated: 2023-04-16
+updated: 2023-07-12
 tags:
   - frontend
   - javascript
@@ -36,6 +36,7 @@ Svelte 3 adopted idea similar to React Hook
 [The Svelte Handbook](https://flaviocopes.com/page/svelte-handbook/)
 [Hello world • REPL • Svelte](https://svelte.dev/repl/hello-world?version=3)
 
+[Svelte Society - YouTube](https://www.youtube.com/@SvelteSociety)
 [Rich Harris Teaches ThePrimeagen SvelteKit - YouTube](https://www.youtube.com/watch?v=RJTepwXirk8) 2023-02
 
 [First time using Svelte, let's play Tic Tac Toe! - YouTube](https://www.youtube.com/watch?v=S_6ApOagzzM)
@@ -48,9 +49,13 @@ Svelte 3 adopted idea similar to React Hook
 [Vercel and Svelte: A Perfect Match for Web Developers – The New Stack](https://thenewstack.io/vercel-and-svelte-a-perfect-match-for-web-developers/) Svelte creator hired by Vercel @2021-12
 [Why Typescript and Svelte are a match made in heaven](https://www.sanity.io/guides/using-typescript-with-svelte)
 
+[Why Svelte is the most loved JS framework with Rich Harris - YouTube](https://www.youtube.com/watch?v=q5T11E29lNQ) 1:31:23, 2023-05
+
 [Svelte is the most beautiful web framework I've ever seen - DEV Community 👩‍💻👨‍💻](https://dev.to/jesseskinner/svelte-is-the-most-beautiful-web-framework-i-ve-ever-seen-325f)
 [Why Svelte won’t kill React. Is status quo to blame for that? Or is… | by Kit Isaev | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/why-svelte-wont-kill-react-3cfdd940586a)
 [Should you use Svelte in production? - LogRocket Blog](https://blog.logrocket.com/should-you-use-svelte-in-production/) 2022-10
+
+[Rich Harris - Annoying Things About Svelte - YouTube](https://www.youtube.com/watch?v=dB_YjuAMH3o) 2022-07
 
 ## Comparison
 
@@ -114,3 +119,6 @@ App framework for Svelte, with routing, SSR, code-splitting
 [tanepiper/svelte-formula: Zero-Configuration Reactive forms for Svelte](https://github.com/tanepiper/svelte-formula)
 
 [Packaging • Docs • SvelteKit](https://kit.svelte.dev/docs/packaging)
+
+[Skeleton — UI Toolkit for Svelte + Tailwind](https://www.skeleton.dev/)
+[Best UI Library for Svelte - YouTube](https://www.youtube.com/watch?v=P_A0qQ7AuK8)

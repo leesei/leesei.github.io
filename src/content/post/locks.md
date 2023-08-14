@@ -12,6 +12,7 @@ tags:
 
 [用磁铁当钥匙的挂锁，内部的机械原理令人拍手称妙 - YouTube](https://www.youtube.com/watch?v=zuW1LSue35A)
 [密码锁是如何防止破解的，看看内部令人称妙的机械原理 - YouTube](https://www.youtube.com/watch?v=LNFtCunnnnE)
+[忘记行李箱密码？根本不用记！海关锁的原理及其漏洞 - YouTube](https://www.youtube.com/watch?v=WuG5OdRPmtA)
 
 [TWO Unpickable (?) Locks for Lock Picking Lawyer! - YouTube](https://www.youtube.com/watch?v=2A2NY29iQdI)
 [[1299] Unpickable Locks From Stuff Made Here - YouTube](https://www.youtube.com/watch?v=Ecy1FBdCRbQ)

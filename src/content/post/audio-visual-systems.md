@@ -2,6 +2,7 @@
 title: Audio-visual Systems
 description: ""
 created: 2018-07-04
+updated: 2023-08-08
 tags:
   - audio-clip
   - clipart
@@ -52,6 +53,11 @@ R: Rhythm
 [采访翻车？5 个简单小技巧，教你拍出有电影质感的采访画面！ - YouTube](https://www.youtube.com/watch?v=QOUellEeOxc)
 [采访教程 2.0：多机位拍摄上手，10 分钟掌握高端采访技巧！ - YouTube](https://www.youtube.com/watch?v=VZb4km7J8ZU)
 
+[Gyroflow | Gyroflow](https://gyroflow.xyz/)
+[Welcome to Gyroflow - Gyroflow documentation](https://docs.gyroflow.xyz/app/)
+[gyroflow/gyroflow at news.itsfoss.com](https://github.com/gyroflow/gyroflow)
+[Gyroflow: An Open-Source App to Stabilize Video Footage](https://news.itsfoss.com/gyroflow/)
+
 [HandBrake: Open Source Video Transcoder](https://handbrake.fr/)
 
 ### Adobe
@@ -89,6 +95,16 @@ R: Rhythm
 [The technology that’s replacing the green screen - YouTube](https://www.youtube.com/watch?v=8yNkBic7GfI)
 
 [低成本玩转绿幕，揭开让抠像更高级的秘密！ - YouTube](https://www.youtube.com/watch?v=55BzZNymxzM)
+
+#### Virtual Set
+
+[How ‘The Mandalorian’ and ILM invisibly reinvented film and TV production | TechCrunch](https://techcrunch.com/2020/02/20/how-the-mandalorian-and-ilm-invisibly-reinvented-film-and-tv-production/)
+[Why 'The Mandalorian' Uses Virtual Sets Over Green Screen | Movies Insider - YouTube](https://www.youtube.com/watch?v=Ufp8weYYDE8)
+
+[Our Studio was a HUGE waste of money - New Channel Launch! - YouTube](https://www.youtube.com/watch?v=_CxkmtBqGn8)
+
+- Blackmagic's tuning kit
+- Camera tracking + UE5 rendered background (Mandalorian set)
 
 ### Sound Effects
 
@@ -263,6 +279,7 @@ YouTuber and the Youtube Platform are becoming adults
 [LEARN OBS IN 30 MINUTES | Complete Tutorial for Beginners 2019 - YouTube](https://www.youtube.com/watch?v=r7teWxV5BCE)
 
 [10 分鐘上手，你也可以當主播！｜居家直播方案分享｜大狸子切切裡 - YouTube](https://www.youtube.com/watch?v=o2HgUHir_eQ)
+[用音軌分離一面錄遊戲畫面，一面看劇 ◆Twitch VoD 去除人聲 ◆ 關 OBS 可以保持開台重連 - YouTube](https://www.youtube.com/watch?v=MgVjcNagCFc)
 
 ### Acoustics
 
@@ -440,7 +457,7 @@ The quality of video in the transition from 35mm film to 4K master is inferior t
 
 [How Does Kodak Make Film? (Kodak Factory Tour Part 1 of 3) - Smarter Every Day 271 - YouTube](https://www.youtube.com/watch?v=HQKy1KJpSVc)
 [How Does Kodak Make Film? (Kodak Factory Tour Part 2 of 3) - Smarter Every Day 275 - YouTube](https://www.youtube.com/watch?v=cAAJUHwh9F4)
-[How Kodak Punches 384,000 HOLES A MINUTE in Film Stock (Kodak Factory 3 of 3)- Smarter Every Day 286 - YouTube](https://www.youtube.com/watch?v=mrJP82ZZiag)
+[How Does Kodak Make Film? - Smarter Every Day 286 - YouTube](https://www.youtube.com/watch?v=mrJP82ZZiag)
 
 [Film: the reason some of the past was in HD - YouTube](https://www.youtube.com/watch?v=rVpABCxiDaU)
 [Photography - YouTube](https://www.youtube.com/playlist?list=PLv0jwu7G_DFV6yW240e6CbiwCLaZ0Z6PV) Technology Connections

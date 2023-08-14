@@ -3,9 +3,9 @@ title: JavaScript Snippets
 description: ""
 created: 2014-12-11
 tags:
-  - comp.lang
+  - comp/lang
   - javascript
-  - snippets
+  - snippets/javascript
 ---
 
 > TODO: add code from `~/commonroom/node-belt/`
@@ -256,7 +256,7 @@ omit({ a: 1, b: "2", c: 3 }, ["b"]); // { 'a': 1, 'c': 3 }
 ```js
 const pick = (obj, ...keys) =>
   Object.fromEntries(
-    keys.filter((key) => key in obj).map((key) => [key, obj[key]])
+    keys.filter((key) => key in obj).map((key) => [key, obj[key]]),
   );
 
 const inclusivePick = (obj, ...keys) =>
@@ -264,7 +264,7 @@ const inclusivePick = (obj, ...keys) =>
 
 const omit = (obj, ...keys) =>
   Object.fromEntries(
-    Object.entries(obj).filter(([key]) => !keys.includes(key))
+    Object.entries(obj).filter(([key]) => !keys.includes(key)),
   );
 ```
 

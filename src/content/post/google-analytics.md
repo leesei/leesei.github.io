@@ -2,6 +2,7 @@
 title: Google Analytics
 description: ""
 created: 2023-05-20
+updated: 2023-08-01
 tags:
   - google
   - web
@@ -73,6 +74,8 @@ It's recommended to create and manage Measurements in GA and use GTM for deploym
 ## Alternatives
 
 [Plausible Analytics | Simple, privacy-friendly Google Analytics alternative](https://plausible.io/)
+
+[GoatCounter – open source web analytics](https://www.goatcounter.com/)
 
 [Scarf I Home](https://about.scarf.sh/)
 [Open Source Analytics With Scarf](https://twit.tv/shows/floss-weekly/episodes/693) also for software/lib (npm hook)

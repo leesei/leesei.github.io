@@ -2,9 +2,10 @@
 title: Mixed Reality
 description: ""
 created: 2015-07-14
+updated: 2023-07-28
 tags:
   - augmented-reality
-  - comp.hardware
+  - comp/hardware
   - mixed-reality
   - virtual-reality
 ---
@@ -305,6 +306,11 @@ Vive Pro 2, links to PC
 
 [【VR 横评】一站式攻略！4 款主流 VR 头盔到底怎么选？ - YouTube](https://www.youtube.com/watch?v=OCuW__kz6jQ)
 
+## Apple Vision Pro
+
+[「Vision Pro 硬核分析」第一期：扒掉苹果的底裤！从技术角度全面解读苹果 AR 眼镜 Vision Pro - YouTube](https://www.youtube.com/watch?v=D_iLw-7bn0M)
+[手机马上被淘汰？彻底了解 Vision Pro - YouTube](https://www.youtube.com/watch?v=DmJWIqtCyCE)
+
 # First Gen Headsets
 
 Usually inside-out position detection, 3 DoF
@@ -413,5 +419,6 @@ Outside-in position detection
 [【亦】元宇宙是未来？不，已经在做了 - YouTube](https://www.youtube.com/watch?v=I6NF9rFmYbs)
 
 [歡迎來到 Engadget 元宇宙教室！](https://chinese.engadget.com/metaverse-nft-cryptocurrency-workshop-220149235.html)
+[Engadget 元宇宙教室：元宇宙與 NFT 的微妙關係](https://hk.news.yahoo.com/metaverse-4-nft-123024138.html)
 
 [The creator of Second Life has a lot to say about all these new 'metaverses' | PC Gamer](https://www.pcgamer.com/second-life-metaverse-interview/)

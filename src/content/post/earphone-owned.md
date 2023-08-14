@@ -4,7 +4,7 @@ description: ""
 created: 2023-06-15
 tags:
   - bluetooth
-  - comp.hardware
+  - comp/hardware
   - earphone
 ---
 

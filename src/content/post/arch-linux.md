@@ -2,6 +2,7 @@
 title: Arch linux
 description: ""
 created: 2014-12-08
+updated: 2023-07-22
 tags:
   - arch-linux
   - desktop
@@ -16,6 +17,7 @@ tags:
 
 [Arch Linux - ArchWiki](https://wiki.archlinux.org/title/Arch_Linux#Principles) The Arch Way
 [The Arch Way | The Arch Action Show! - YouTube](https://www.youtube.com/watch?v=iyiaiF_-A2M)
+[The Arch Way - YouTube](https://www.youtube.com/playlist?list=PL5--8gKSku16Ncr9H_BAZSzWecjaSWlvY) DistroTube
 [greg-js/arch-wiki-man: Search a local, updated copy of the entire Arch Wiki and open the article in `man`](https://github.com/greg-js/arch-wiki-man)
 [The Arch Linux Handbook](https://www.freecodecamp.org/news/how-to-install-arch-linux/)
 
@@ -604,6 +606,12 @@ Same command as `pacman`, but also checks AUR.
 [Arch packaging standards - ArchWiki](https://wiki.archlinux.org/title/Arch_packaging_standards)
 [PKGBUILD - ArchWiki](https://wiki.archlinux.org/title/PKGBUILD)
 [makepkg - ArchWiki](https://wiki.archlinux.org/title/Makepkg)
+
+[Creating An Arch PKGBUILD: A Step By Step Guide - YouTube](https://www.youtube.com/watch?v=crnGzF43aoc)
+[Arch Linux: Let's Get A New Package Onto The AUR - YouTube](https://www.youtube.com/watch?v=rcUl-Io2ZBY)
+
+[Creating Packages For The Arch User Repository (AUR) - YouTube](https://www.youtube.com/watch?v=iUz28vbWgVw)
+[Creating Packages For Arch Linux With Help From Bigpod - YouTube](https://www.youtube.com/watch?v=ls_hpopfsQU)
 
 [How To Convert DEB Packages Into Arch Linux Packages - OSTechNix](https://www.ostechnix.com/convert-deb-packages-arch-linux-packages/)
 [AUR (en) - sunloginclient](https://aur.archlinux.org/packages/sunloginclient/)

@@ -2,6 +2,7 @@
 title: awk notes
 description: ""
 created: 2015-01-13
+updated: 2023-07-22
 tags:
   - app
   - awk
@@ -17,6 +18,11 @@ tags:
 [Doing math with awk | Network World](https://www.networkworld.com/article/2974753/doing-math-with-awk.html)
 [How to Use the awk Command on Linux](https://www.howtogeek.com/562941/how-to-use-the-awk-command-on-linux/amp/)
 [EVERYONE Needs to Learn a Little Bit of AWK! - YouTube](https://www.youtube.com/watch?v=jJ02kEETw70)
+[Awk Master Class - YouTube](https://www.youtube.com/playlist?list=PLRjzjpJ02WDNCpQGbYJdx9X8otfx10IBT)
+
+[Why Every Linux User Needs To Learn Awk - YouTube](https://www.youtube.com/watch?v=PnDzUhmP26c)
+[Awk Isn't Just A Command: Let's Learn The Basics - YouTube](https://www.youtube.com/watch?v=2eX0scAsYJk)
+[Every Linux User Should Know Regex and Awk - YouTube](https://www.youtube.com/watch?v=Cq0A0K-gcZY)
 
 ```sh
 awk '{PROGRAM}' file

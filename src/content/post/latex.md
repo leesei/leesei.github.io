@@ -4,7 +4,7 @@ description: ""
 created: 2015-05-20
 tags:
   - asciimath
-  - comp.lang
+  - comp/lang
   - katex
   - latex
   - math

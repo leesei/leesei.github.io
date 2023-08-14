@@ -2,7 +2,7 @@
 title: User Experience (UX)
 description: ""
 created: 2015-06-25
-updated: 2023-06-13
+updated: 2023-07-28
 tags:
   - ui
   - ux
@@ -96,6 +96,11 @@ Most Advanced. Yet Acceptable.
 [為何 Google、Facebook、Adobe 都愛這種插畫？ | TechNews 科技新報](https://technews.tw/2022/01/23/facebook-alegria/)
 
 [Wait Wait...Tell Me! - 99% Invisible](https://99percentinvisible.org/episode/wait-wait-tell-me/) Operation transparency makes people willing to wait
+
+## Open UI
+
+[Home | Open UI](https://open-ui.org/)
+[openui/open-ui: Maintain an open standard for UI and promote its adherence and adoption.](https://github.com/openui/open-ui)
 
 ## Bad UX
 
@@ -258,6 +263,8 @@ Most Advanced. Yet Acceptable.
 
 ## Animations
 
+[[vector-graphics#Bézier Curve]]
+
 [Designing Interface Animations - Rosenfeld Media](http://rosenfeldmedia.com/books/designing-interface-animations/)
 [UI Animation and UX: A Not-So-Secret Friendship · An A List Apart Article](http://alistapart.com/article/ui-animation-and-ux-a-not-so-secret-friendship)
 [Designing Safer Web Animation For Motion Sensitivity · An A List Apart Article](http://alistapart.com/article/designing-safer-web-animation-for-motion-sensitivity)
@@ -265,6 +272,7 @@ Most Advanced. Yet Acceptable.
 [Create Modern CSS Animations - OpenClassrooms](https://openclassrooms.com/en/courses/5625816-create-modern-css-animations)
 [Web animation process tutorial according to a motion designer. | Shakuro](https://shakuro.com/blog/web-animation-tutorial-from-shakuro-inspired-motion-designer)
 
+[I Will Never Write CSS Animations Again Without Using This Tool - YouTube](https://www.youtube.com/watch?v=w4J8sJpHKvw) DevTool
 [CSS transitions and hover animations, an interactive guide](https://www.joshwcomeau.com/animation/css-transitions/)
 [An Interactive Guide to CSS Keyframe Animations with @keyframes](https://www.joshwcomeau.com/animation/keyframe-animations/)
 [A Handy Little System for Animated Entrances in CSS - CSS-Tricks](https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/)
@@ -294,14 +302,6 @@ Most Advanced. Yet Acceptable.
 
 [CSS3 animation 属性中的 steps 功能符深入介绍 « 张鑫旭-鑫空间-鑫生活](https://www.zhangxinxu.com/wordpress/2018/06/css3-animation-steps-step-start-end/)
 [小 tip: CSS3 animation 渐进实现点点点等待提示效果 « 张鑫旭-鑫空间-鑫生活](https://www.zhangxinxu.com/wordpress/2013/06/css3-animation-%e7%82%b9%e7%82%b9%e7%82%b9%e7%ad%89%e5%be%85%e6%8f%90%e7%a4%ba%e6%95%88%e6%9e%9c/)
-
-### Bézier Curves
-
-[Animated Bézier Curves - Jason Davies](https://www.jasondavies.com/animated-bezier/)
-[Bézier curve - Wikiwand](http://www.wikiwand.com/en/Bézier_curve#/Constructing_B.C3.A9zier_curves)
-[深度掌握 SVG 路径 path 的贝塞尔曲线指令 « 张鑫旭-鑫空间-鑫生活](https://www.zhangxinxu.com/wordpress/2014/06/deep-understand-svg-path-bezier-curves-command/)
-
-[cubic-bezier(.17,.67,.83,.67) ✿ cubic-bezier.com](https://cubic-bezier.com/#.17,.67,.83,.67)
 
 ### Rive
 
@@ -400,6 +400,7 @@ A locale is usually defined by `{lang}_{country}` where `lang` is a two-letter l
 [[learn-to-code#Country Code]]
 [ISO 639-1 - Wikiwand](https://www.wikiwand.com/en/ISO_639-1) two-letter language code
 
+[Internationalis(z)ing Code - Computerphile - YouTube](https://www.youtube.com/watch?v=0j74jcxSunY)
 [Internationalization (I18n): A Simple Definition - DZone Java](https://dzone.com/articles/internationalization-i18n-a-simple-definition?fromrel=true)
 [How important is localization for your business? - PhraseApp Blog](https://phraseapp.com/blog/posts/how-important-is-localization-for-your-business/)
 
@@ -467,6 +468,8 @@ BCP 47 = RFC 5646 + RFC 4647
 
 [Why, How, and When to Use Semantic HTML and ARIA | CSS-Tricks](https://css-tricks.com/why-how-and-when-to-use-semantic-html-and-aria/)
 [Web Accessibility 的重要性 | TechBridge 技術共筆部落格](https://blog.techbridge.cc/2019/10/13/web-accessibility-intro/)
+
+[Functions to Add ARIA to Tables and Lists — Adrian Roselli](https://adrianroselli.com/2018/05/functions-to-add-aria-to-tables-and-lists.html)
 
 [Inaccessibility of CAPTCHA](https://www.w3.org/TR/turingtest/)
 

@@ -2,8 +2,10 @@
 title: Unicode
 description: ""
 created: 2015-06-05
+updated: 2023-08-14
 tags:
-  - comp.lang
+  - comp/lang
+  - emoji
   - unicode
 ---
 
@@ -17,6 +19,7 @@ tags:
 [𝚚𝚠𝚎𝚛𝚝𝚢.𝚍𝚎𝚟](https://qwerty.dev/)
 
 [Characters, Symbols and the Unicode Miracle - Computerphile - YouTube](https://www.youtube.com/watch?v=MijmeoH9LT4)
+[EXTRA BITS - UTF-8 'nearly' works - Computerphile - YouTube](https://www.youtube.com/watch?v=qBex3IDaUbU)
 [Unicode, in friendly terms: ASCII, UTF-8, code points, character encodings, and more - YouTube](https://www.youtube.com/watch?v=ut74oHojxqo)
 [These Keys Shouldn't Exist | Nostalgia Nerd - YouTube](https://www.youtube.com/watch?v=BktIY7VbrUs) ASCII and broken pipe character, lingering as non-ASCII (Code page 437) for IBM PCs
 [Plain Text - Dylan Beattie - NDC Oslo 2021 - YouTube](https://www.youtube.com/watch?v=_mZBa3sqTrI) from encoding to Unicode, composition form, normalization form, UTF8, emoji

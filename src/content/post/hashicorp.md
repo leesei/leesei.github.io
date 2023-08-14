@@ -2,6 +2,7 @@
 title: HashiCorp
 description: ""
 created: 2016-03-19
+updated: 2023-07-27
 tags:
   - dev/deploy
   - devops
@@ -119,8 +120,8 @@ A tool for managing secrets.
 [Vault Curriculum - HashiCorp Learn](https://learn.hashicorp.com/vault)
 [Documentation | Vault by HashiCorp](https://www.vaultproject.io/docs/)
 
-[How Does HashiCorp Vault Work with Kubernetes Secrets? – The New Stack](https://thenewstack.io/how-does-hashicorp-vault-work-with-kubernetes-secrets/)
 [Managing Secrets with Vault and Consul | TestDriven.io](https://testdriven.io/blog/managing-secrets-with-vault-and-consul/)
+[HashiCorp Vault Operator Manages Kubernetes Secrets - The New Stack](https://thenewstack.io/hashicorp-vault-operator-manages-kubernetes-secrets/)
 
 [Introduction to Vault • Seth Vargo - YouTube](https://www.youtube.com/watch?v=yvImdLP3LEA)
 [The Changelog #239: Managing Secrets Using Vault with Seth Vargo | Changelog](https://changelog.com/podcast/239)

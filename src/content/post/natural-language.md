@@ -2,6 +2,7 @@
 title: Natural Language
 description: ""
 created: 2015-04-10
+updated: 2023-07-25
 tags:
   - chinese
   - english
@@ -11,7 +12,7 @@ tags:
   - natural-language
 ---
 
-> split to lang specific files
+> split to lang specific posts
 
 [The Language Realm - Your Free Resource for language and Translation Services](http://www.languagerealm.com/)
 [Free Language Courses | Language Transfer](https://www.languagetransfer.org/home)
@@ -80,12 +81,12 @@ Wanda Skyes
 [工業中英用語翻譯 -《中英對照》](http://www.aua.com.tw/translations/?f=zh-TW)
 
 [Rachel's English - YouTube](https://www.youtube.com/@rachelsenglish)
+[英语兔 - YouTube](https://www.youtube.com/@yingyutu)
 [阿滴英文 - YouTube](https://www.youtube.com/channel/UCeo3JwE3HezUWFdVcehQk9Q/playlists)
 [英文學習技巧 - YouTube](https://www.youtube.com/playlist?list=PLG47EBGFEJNblUqd5nm2joeKlnRuKbY5H) 阿滴英文
-[阿滴教文法 - YouTube](https://www.youtube.com/playlist?list=PLG47EBGFEJNZ7X_-UAd0S3gU5igZxbjws) 阿滴英文
 [英文閱讀法-旋元佑 - YouTube](https://www.youtube.com/playlist?list=PLhvhy0dgLGeAFzCnlnd3sAp8drXZk4x4h)
 [Tom's Language Files - YouTube](https://www.youtube.com/playlist?list=PL96C35uN7xGLDEnHuhD7CTZES3KXFnwm0)
-[哥倫布 Columbus - YouTube](https://www.youtube.com/channel/UCXJJ9PYUbJ2GzZdb1lzTo8Q)
+[哥倫布 Columbus - YouTube](https://www.youtube.com/@TheLittleColumbus)
 [CrazyEnglish - YouTube](https://www.youtube.com/@Crazy-English)
 
 [For Karen Chung's Courses and more](http://homepage.ntu.edu.tw/~karchung/)
@@ -174,14 +175,6 @@ Stems are created with several observed rules:
 [The Great Vowel Shift: How We Know Language Now](https://www.wondriumdaily.com/the-great-vowel-shift-how-we-know-language-now/)
 [The Processes of Sound Change](https://www.wondriumdaily.com/the-processes-of-sound-change/)
 
-[颠覆你对英语词汇的认知! - YouTube](https://www.youtube.com/watch?v=iyltEHRi39I)
-[背单词秘诀: "格林定律"? - YouTube](https://www.youtube.com/watch?v=QmGSshmtitE)
-[5 天就能記住 1 萬個單詞的方法，老師為什麽不教？用结果说话，因为结果不会骗人一套高效背单词的方法，单词记忆法。快速提高中考高考英语，四级六级考研雅思托福词汇量 - YouTube](https://www.youtube.com/watch?v=AFgZbU3AhlY) the order he gave was wrong,he used the modern English word as root, e.g.lun derived from moon, but the fact is the other way round
-
-sam sem sim syn sy sym syl: same
-vit vis vid wis wit: seeing
-ang eng ac ank ack anch: acute
-
 English originates from the [Angles](http://www.emersonkent.com/tribes_and_peoples/angles.htm) from Germany, hence Angle-lish. [Anglo-Saxons](https://www.wikiwand.com/en/Anglo-Saxons) arrived England in the 5th century. They unified England in the [Norman Conquest](https://www.wikiwand.com/en/Norman_conquest_of_England) lead by [William the Conqueror](https://www.wikiwand.com/en/William_the_Conqueror) in 1066.
 
 This is the reason why the name of the animal and its meat are different. The animal is Anglelish, the meat is French.
@@ -193,6 +186,17 @@ This is the reason why the name of the animal and its meat are different. The an
 [CAPS Unlock - the history behind uppercase & lowercase letters - YouTube](https://www.youtube.com/watch?v=zO6r_Hqi0Ak)
 
 [Audiobooks | The History of English Podcast](https://historyofenglishpodcast.com/audiobooks/)
+
+### Vocabulary
+
+[颠覆你对英语词汇的认知! - YouTube](https://www.youtube.com/watch?v=iyltEHRi39I)
+[背单词秘诀: "格林定律"? - YouTube](https://www.youtube.com/watch?v=QmGSshmtitE)
+[5 天就能記住 1 萬個單詞的方法，老師為什麽不教？用结果说话，因为结果不会骗人一套高效背单词的方法，单词记忆法。快速提高中考高考英语，四级六级考研雅思托福词汇量 - YouTube](https://www.youtube.com/watch?v=AFgZbU3AhlY) the order he gave was wrong,he used the modern English word as root, e.g.lun derived from moon, but the fact is the other way round
+[Peaceful Night - YouTube](https://www.youtube.com/@peacefulnight)
+
+sam sem sim syn sy sym syl: same
+vit vis vid wis wit: seeing
+ang eng ac ank ack anch: acute
 
 ### Morse code
 
@@ -268,9 +272,11 @@ Contranym: a word with two opposite meanings, e.g. sanction (which can mean both
 [非谓语动词详解: 不定式, 动名词, 现在分词, 过去分词 - YouTube](https://www.youtube.com/watch?v=LhbZ4TAjgUo)
 [英语"虚拟语气"就是这么简单(看完就懂!) - YouTube](https://www.youtube.com/watch?v=-Skm12wNLa8)
 [英语核心语法概念 | 英语兔](https://www.yingyutu.com/hxyf)
-[不用背規則!? 這支影片會讓你對英文文法改觀! feat. 旋元佑老師 - YouTube](https://www.youtube.com/watch?v=bou9Ij7jRUE)
+[英语介词攻略 (看完就懂) - YouTube](https://www.youtube.com/watch?v=VcZglLpFlRs)
 
+[阿滴教文法 - YouTube](https://www.youtube.com/playlist?list=PLG47EBGFEJNZ7X_-UAd0S3gU5igZxbjws) 阿滴英文
 [英文文法 Grammar - YouTube](https://www.youtube.com/playlist?list=PLRSK1pOZNZyZgPZFtCaUbHau8AvSxDoH2) 瑪姬英文 English with Maggie
+[不用背規則!? 這支影片會讓你對英文文法改觀! feat. 旋元佑老師 - YouTube](https://www.youtube.com/watch?v=bou9Ij7jRUE)
 
 [English Grammar: What are the trickiest rules in English grammar pertaining to commonly used words? - Quora](http://www.quora.com/English-Grammar/What-are-the-trickiest-rules-in-English-grammar-pertaining-to-commonly-used-words/answer/Daniel-Mokrauer-Madden/comment/1941285)
 [Dear Pedants: Your Fave Grammar Rule is Probably Fake | JSTOR Daily](http://daily.jstor.org/grammar-rule-is-probably-fake/)

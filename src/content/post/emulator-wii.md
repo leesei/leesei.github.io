@@ -2,6 +2,7 @@
 title: GameCube/Wii Emulator
 description: ""
 created: 2023-06-12
+updated: 2023-07-29
 tags:
   - emulator
   - gamecube
@@ -31,25 +32,27 @@ Requirements:
 
 ## Games
 
+> Many games are re-released/remade on Switch
+
 [Nintendo GameCube - Dolphin Emulator Wiki](https://wiki.dolphin-emu.org/index.php?title=Nintendo_GameCube)
 [Wii - Dolphin Emulator Wiki](https://wiki.dolphin-emu.org/index.php?title=Wii)
 
 [List GameCube games - Download Emulator ROMs Free Online](https://www.emulator-roms.com/?list=list-gamecube-games/)
 [List Wii Games - Download Emulator ROMs Free Online](https://www.emulator-roms.com/?list=list-wii-games/)
+
 [Wii ISOs | Emuparadise](https://www.emuparadise.me/Nintendo_Wii_ISOs/68)
+[Wii ROM - Nkit ISO & WBFS - Nintendo Wii Game Download](https://romsfun.com/roms/nintendo-wii)
 
 [Luigu's Mansion](https://wiki.dolphin-emu.org/index.php?title=Luigi%27s_Mansion)
-[Paper Mario: The Thousand-Year Door](https://wiki.dolphin-emu.org/index.php?title=Paper_Mario:_The_Thousand-Year_Door) ([HD texture](https://forums.dolphin-emu.org/Thread-paper-mario-ttyd-hd-texture-pack-v1-1-june-30-2017))
-[Pikmin](<https://wiki.dolphin-emu.org/index.php?title=Pikmin_(GC)>)
-[Pikmin 2](<https://wiki.dolphin-emu.org/index.php?title=Pikmin_2_(GC)>)
+Super Paper Mario https://romsfun.com/roms/nintendo-wii/super-paper-mario.html
+[Paper Mario: The Thousand-Year Door](https://wiki.dolphin-emu.org/index.php?title=Paper_Mario:_The_Thousand-Year_Door) ([HD texture](https://forums.dolphin-emu.org/Thread-paper-mario-ttyd-hd-texture-pack-v1-1-june-30-2017)) https://www.emulator-roms.com/?game=paper-mario-the-thousand-year-door-gc-iso/
+Fire Emblem Path of Radiance (GC)
+Fire Emblem Radiant Dawn
 Star Wars Rogue Squadron II: Rogue Leader
 Star Wars Rogue Squadron III: Rebel Strike
-Super Mario Striker
-Super Mario Galaxy
+Super Mario Strikers
+Mario Striker Charged https://romsfun.com/roms/nintendo-wii/mario-strikers-charged.html
 Super Mario Galaxy 2
-[Super Mario Sunshine](https://wiki.dolphin-emu.org/index.php?title=Super_Mario_Sunshine)
-The Legend of Zelda: Ocarina of Time / Master Quest
-Kirby's Epic Yarn
-
-The Legend of Zelda: Skyward Sword
-Xenoblade Chronicles
+The Legend of Zelda: Ocarina of Time / Master Quest https://romsfun.com/roms/nintendo-wii/the-legend-of-zelda-ocarina-of-time-2.html
+Kirby's Epic Yarn https://romsfun.com/roms/nintendo-wii/kirbys-epic-yarn.html
+Sonic Colors

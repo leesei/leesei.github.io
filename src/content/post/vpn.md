@@ -2,8 +2,9 @@
 title: VPN
 description: ""
 created: 2023-04-14
+updated: 2023-07-27
 tags:
-  - network
+  - comp/network
 ---
 
 ## VPN
@@ -95,6 +96,7 @@ multiple technologies
 [howto/openvpn](https://dn42.net/howto/openvpn)
 
 [How To Set Up and Configure an OpenVPN Server on Ubuntu 20.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-and-configure-an-openvpn-server-on-ubuntu-20-04)
+[Create Your Own VPN Server with Vultr & OpenVPN — SitePoint](https://www.sitepoint.com/create-your-own-vpn-server/)
 [Ubuntu 20.04 LTS Set Up OpenVPN Server In 5 Minutes - nixCraft](https://www.cyberciti.biz/faq/ubuntu-20-04-lts-set-up-openvpn-server-in-5-minutes/)
 
 [Nyr/openvpn-install: OpenVPN road warrior installer for Debian, Ubuntu and CentOS](https://github.com/Nyr/openvpn-install/)

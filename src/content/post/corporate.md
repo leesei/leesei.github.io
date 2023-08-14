@@ -1,7 +1,8 @@
 ---
-title: Corporates
+title: Corporate
 description: ""
 created: 2015-04-15
+updated: 2023-07-27
 tags:
   - business
   - corporate
@@ -29,10 +30,6 @@ tags:
 [FAAMG Stocks](https://www.investopedia.com/terms/f/faamg-stocks.asp) Replaced Netflix with Microsoft
 [BAT Stocks](https://www.investopedia.com/terms/b/bat-stocks.asp) Baidu, Alibaba, Tencent
 BATH Baidu, Alibaba, Tencent, Huawei
-
-[The Decline of IBM - YouTube](https://www.youtube.com/watch?v=l4b1D1vWRnc)
-[The Fall of General Electric - YouTube](https://www.youtube.com/watch?v=F5NumiX-yfI)
-[Why Fujifilm Survived (& Kodak Didn't) - YouTube](https://www.youtube.com/watch?v=AdDIy0c5ZGo)
 
 [Pluralistic: Tiktok’s enshittification (21 Jan 2023) – Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys) on Amazon, Facebook and Tiktok
 [Pluralistic: How monopoly enshittified Amazon/28 Nov 2022 – Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/2022/11/28/enshittification/#relentless-payola)
@@ -72,6 +69,8 @@ When a service is free, you are the product/asset.
 ## Startup Story
 
 [Out of the picture: why the world's best photo startup is going out of business | The Verge](http://www.theverge.com/2013/11/5/5039216/everpix-life-and-death-inside-the-worlds-best-photo-startup)
+
+[How We Built a $150 Million Streaming Platform with $100,000 - YouTube](https://www.youtube.com/watch?v=Alqt6RCEWdM) Nebula (+ Curiosity Stream)
 
 ## McDonald's
 
@@ -125,16 +124,33 @@ When a service is free, you are the product/asset.
 [Smart Logos with Hidden Symbolism | Webdesigner Depot](http://www.webdesignerdepot.com/2010/07/smart-logos-with-hidden-symbolism/)
 [50 Fantastically Clever Logos | Design Shack](http://designshack.net/articles/graphics/50-fantastically-clever-logos)
 
-## Logo Creater
+## Logo Creator
 
 [Hostinger AI Logo Maker](https://logo.hostinger.com/) requires login
 
-## Demise of Yahoo
+## Downfall of Philips
+
+[The Death of Europe's Last Electronics Giant - YouTube](https://www.youtube.com/watch?v=WE58YisgFeQ)
+[The Tragic Downfall of Philips - YouTube](https://www.youtube.com/watch?v=Zcf3ED5rPKk)
+
+## Downfall of Yahoo
 
 Yahoo was sold to Verizon with a sum of \$4.83 billion in July 2016.
 
 [What Sank Yahoo? Blame Its Nice Guy Founders - Bloomberg](http://www.bloomberg.com/news/articles/2016-07-25/what-sank-yahoo-blame-its-nice-guy-founders)
 [Platform change, the Yahoo-slayer | TechCrunch](https://techcrunch.com/2016/07/25/jaime-mobilster/)
+
+## Downfall of IBM
+
+[The Decline of IBM - YouTube](https://www.youtube.com/watch?v=l4b1D1vWRnc)
+
+## Downfall of GE
+
+[The Fall of General Electric - YouTube](https://www.youtube.com/watch?v=F5NumiX-yfI)
+
+## Demise of Kodak
+
+[Why Fujifilm Survived (& Kodak Didn't) - YouTube](https://www.youtube.com/watch?v=AdDIy0c5ZGo)
 
 ## Demise of Theranos
 
@@ -151,9 +167,14 @@ Yahoo was sold to Verizon with a sum of \$4.83 billion in July 2016.
 [A £9bn lie: Blood testing company boss Elizabeth Holmes now faces 20 years behind bars](https://www.dailymail.co.uk/news/article-7018811/amp/A-9bn-lie-Blood-testing-company-boss-Elizabeth-Holmes-faces-20-years-bars.html)
 [They said it: On Theranos founder Elizabeth Holmes](https://www.mercurynews.com/2019/06/09/they-said-it-on-theranos-founder-elizabeth-holmes/amp/)
 
+## Demise of Springboard
+
+[Springboard: the secret history of the first real smartphone (Full Documentary) - YouTube](https://www.youtube.com/watch?v=b9_Vh9h3Ohw)
+
 ## Planned Obsolescence
 
 [This is why we can't have nice things - YouTube](https://www.youtube.com/watch?v=j5v8D-alAKE)
+[Longer-lasting light bulbs: it was complicated - YouTube](https://www.youtube.com/watch?v=zb7Bs98KmnY)
 
 Phoebus Cartel
 Right to repair

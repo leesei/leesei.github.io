@@ -2,8 +2,9 @@
 title: Python notes
 description: ""
 created: 2014-12-11
+updated: 2023-08-14
 tags:
-  - comp.lang
+  - comp/lang
   - python
 ---
 
@@ -228,6 +229,7 @@ Tech With Tim
 [Think Python 2e – Green Tea Press](https://greenteapress.com/wp/think-python-2e/)
 [Think Python](http://greenteapress.com/thinkpython/html/index.html)
 [Think DSP – Green Tea Press](http://greenteapress.com/wp/think-dsp/)
+[AllenDowney/ThinkDSP: Think DSP: Digital Signal Processing in Python, by Allen B. Downey.](https://github.com/AllenDowney/ThinkDSP)
 [Python 201 | Leanpub](https://leanpub.com/python201/read)
 [Cover - 100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro/cover.html)
 [Intermediate Python | Leanpub](https://leanpub.com/intermediatepython/read)
@@ -260,7 +262,8 @@ Tech With Tim
 [PyVideo.org](https://pyvideo.org/index.html)
 [mCoding - YouTube](https://www.youtube.com/c/mCodingWithJamesMurphy)
 
-[Python Training by Dan Bader - YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA/)
+[Harvard CS50’s Introduction to Programming with Python – Full University Course - YouTube](https://www.youtube.com/watch?v=nLRL_NcnK-4) 15:57:47
+[Real Python - YouTube](https://www.youtube.com/@realpython)
 [6.0001 Introduction to Computer Science and Programming in Python. Fall 2016 - YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 [Python 3 Basics Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
 [Python Basics - Jose Portilla - YouTube](https://www.youtube.com/playlist?list=PL6cactdCCnTJipK3hwMbq1DXeQcWZ_qOv)
@@ -275,11 +278,11 @@ Tech With Tim
 [Python for Beginners | Channel 9](https://channel9.msdn.com/Series/Intro-to-Python-Development?WT.mc_id=python-c9-niner)
 [microsoft/c9-python-getting-started: Sample code for Channel 9 Python for Beginners course](https://github.com/microsoft/c9-python-getting-started)
 
-[PyCon Australia - YouTube](https://www.youtube.com/user/PyConAU/featured)
-[PyCon 2018 - YouTube](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ)
+[PyCon Australia - YouTube](https://www.youtube.com/@PyConAU)
+[PyCon 2017 - YouTube](https://www.youtube.com/@pycon2017)
+[PyCon 2018 - YouTube](https://www.youtube.com/@pycon2018)
 [PyCon 2018 - YouTube](https://www.youtube.com/playlist?list=PLW7hU4yo78_OoK53W8TIMba6GUhAtcNoQ)
-[PyCon 2017 - YouTube](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg)
-[PyCon 2019 - YouTube](https://www.youtube.com/channel/UCxs2IIVXaEHHA4BtTiWZ2mQ)
+[PyCon 2019 - YouTube](https://www.youtube.com/@pycon2019)
 
 [Python Tutorial Videos - YouTube](https://www.youtube.com/playlist?list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu) Python 2
 
@@ -333,9 +336,8 @@ Tech With Tim
 [7 sweet Python IDEs you might have missed | InfoWorld](https://www.infoworld.com/article/3430323/7-sweet-python-ides-you-might-have-missed.html)
 [raspbian - Are there any Python IDEs for Raspberry Pi 3 with step-through capability? - Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/questions/72290/are-there-any-python-ides-for-raspberry-pi-3-with-step-through-capability)
 
-[Home - the bpython interpreter](https://bpython-interpreter.org/)
-
 [prompt-toolkit/ptpython: A better Python REPL](https://github.com/prompt-toolkit/ptpython)
+[Home - the bpython interpreter](https://bpython-interpreter.org/)
 
 [Code With Mu](https://codewith.mu/) a simple Python editor for beginner programmers, supports MicroPython
 [Getting started with Mu, a Python editor for beginners | Opensource.com](https://opensource.com/article/18/8/getting-started-mu-python-editor-beginners)
@@ -513,6 +515,7 @@ for (key, value) in dictionary.items():
 
 [Python 3's pathlib Module: Taming the File System – Real Python](https://realpython.com/python-pathlib/)
 [How to Get a List of All Files in a Directory With Python – Real Python](https://realpython.com/get-all-files-in-directory-python/)
+[Should You Use Python pathlib or os? | by Adam Green | Better Programming](https://betterprogramming.pub/should-you-be-using-pathlib-6f3a0fddec7e)
 
 [Starting With Python's pathlib Module - YouTube](https://www.youtube.com/watch?v=S5UOze6T1jg)
 
@@ -625,6 +628,7 @@ class Person:
 
 [Which Python @dataclass is best? Feat. Pydantic, NamedTuple, attrs... - YouTube](https://www.youtube.com/watch?v=vCLetdhswMg)
 [Attrs, Pydantic, or Python Data Classes: Which One Is The Best? - YouTube](https://www.youtube.com/watch?v=zN4VCb0LbQI)
+[Why I prefer attrs over dataclasses - YouTube](https://www.youtube.com/watch?v=1S2h11XronA) `__slots__` by default
 
 [konradhalas/dacite: Simple creation of data classes from dictionaries.](https://github.com/konradhalas/dacite) with type checking
 
@@ -665,8 +669,6 @@ class Person:
 [Python as C++’s limiting case - Brandon Rhodes - code::dive 2018 - YouTube](https://www.youtube.com/watch?v=9ZxtaccqyWA)
 
 [Demystifying Python’s Internals - presented by Sebastiaan Zeeff - YouTube](https://www.youtube.com/watch?v=f8nTJp_k7U8) [repo](https://github.com/SebastiaanZ/pypethon)
-[Demystifying Python’s Internals - presented by Sebastiaan Zeeff - YouTube](https://www.youtube.com/watch?v=f8nTJp_k7U8) [repo](https://github.com/SebastiaanZ/pypethon)
-[How we are making Python 3.11 faster - presented by Mark Shannon - YouTube](https://www.youtube.com/watch?v=xKk7IXm0XO0)
 
 Get context with stack frame:
 
@@ -677,7 +679,7 @@ caller_locals = frame.f_back.f_locals
 
 [dis — Disassembler for Python bytecode — Python documentation](https://docs.python.org/3/library/dis.html)
 [Lifecycle of a Python Code - CPython's Execution Model - DEV Community 👩‍💻👨‍💻](https://dev.to/btaskaya/lifecycle-of-a-python-code---cpythons-execution-model-85i)
-Use `dis.dis()` to pretty print a function's byte code
+Use `dis.dis()` to pretty print a function's byte code; see `adaptive`, `show_caches` arguments
 [Dragon taming with Tailbiter, a bytecode compiler for Python](https://codewords.recurse.com/issues/seven/dragon-taming-with-tailbiter-a-bytecode-compiler)
 [PyBites – Under the Hood: Python Comparison Breakdown](https://pybit.es/guest-python-comparison-breakdown.html)
 
@@ -687,27 +689,40 @@ Use `dis.dis()` to pretty print a function's byte code
 [rocky/python-xasm: Python cross version bytecode/wordcode assembler](https://github.com/rocky/python-xasm)
 [rocky/python-uncompyle6: A cross-version Python bytecode decompiler](https://github.com/rocky/python-uncompyle6)
 
-[What is the Python Global Interpreter Lock (GIL)? – Real Python](https://realpython.com/python-gil/)
-[Dabeaz: The Python GIL Visualized](http://dabeaz.blogspot.com/2010/01/python-gil-visualized.html)
-[Understanding the Python GIL - YouTube](https://www.youtube.com/watch?v=Obt-vMVdM8s)
-[PyVideo.org · to GIL or not to GIL: the Future of Multi-Core (C)Python](https://pyvideo.org/pycon-us-2019/to-gil-or-not-to-gil-the-future-of-multi-core-cpython.html) [slides](https://docs.google.com/presentation/d/1BuU6e-CKdZxDL5z9VBp19LAaIY8Ys2-jlcz-mD0Vr3c/mobilepresent?slide=id.p)
-[Python is NOT Single Threaded (and how to bypass the GIL) - YouTube](https://www.youtube.com/watch?v=m2yeB94CxVQ)
-[Keynote: Multithreaded Python without the GIL - presented by Sam Gross - YouTube](https://www.youtube.com/watch?v=9OOJcTp8dqE)
-[PEP 554 – Multiple Interpreters in the Stdlib | peps.python.org](https://peps.python.org/pep-0554/)
-
-[Memory Management — Python documentation](https://docs.python.org/3/c-api/memory.html)
-[Memory Management in Python – Real Python](https://realpython.com/python-memory-management/)
-[A Short Overview of CPython's Memory Management - DEV Community 👩‍💻👨‍💻](https://dev.to/btaskaya/a-short-overview-of-cpythons-memory-management-1goi)
-[Garbage Collector with Pandas DataFrame | Apratim Biswas | Dec 2020 | Towards Data Science](https://towardsdatascience.com/python-garbage-collection-article-4a530b0992e3)
-[Pointers in Python: What's the Point? – Real Python](https://realpython.com/pointers-in-python/)
-[Python memoryview()](https://www.programiz.com/python-programming/methods/built-in/memoryview)
-
 [Python lists remember what you did to them - YouTube](https://www.youtube.com/watch?v=rdlQzhP71pQ)
 
 [Your Guide to the CPython Source Code – Real Python](https://realpython.com/cpython-source-code-guide/)
 
 [Slightly Advanced Python: Some Python Internals - YouTube](https://www.youtube.com/watch?v=23s9Wc3aWGY) Python 2.4, class construction, attr lookup, bytecode (assembly)
 [Advanced Python or Understanding Python - YouTube](https://www.youtube.com/watch?v=E_kZDvwofHY) Python 2.4
+
+### Memory Management
+
+[Memory Management — Python documentation](https://docs.python.org/3/c-api/memory.html)
+[Memory Management in Python – Real Python](https://realpython.com/python-memory-management/)
+[A Short Overview of CPython's Memory Management - DEV Community 👩‍💻👨‍💻](https://dev.to/btaskaya/a-short-overview-of-cpythons-memory-management-1goi)
+[Pointers in Python: What's the Point? – Real Python](https://realpython.com/pointers-in-python/)
+[Python memoryview()](https://www.programiz.com/python-programming/methods/built-in/memoryview)
+[Garbage Collector with Pandas DataFrame | Apratim Biswas | Dec 2020 | Towards Data Science](https://towardsdatascience.com/python-garbage-collection-article-4a530b0992e3)
+
+### Global Interpreter Lock/GIL
+
+[What is the Python Global Interpreter Lock (GIL)? – Real Python](https://realpython.com/python-gil/)
+[Dabeaz: The Python GIL Visualized](http://dabeaz.blogspot.com/2010/01/python-gil-visualized.html)
+
+[PEP 684 – A Per-Interpreter GIL | peps.python.org](https://peps.python.org/pep-0684/)
+[PEP 554 – Multiple Interpreters in the Stdlib | peps.python.org](https://peps.python.org/pep-0554/) Python API for interpreters
+[PEP 489 – Multi-phase extension module initialization | peps.python.org](https://peps.python.org/pep-0489/) for extensions sharing global states to support multiple interpreters
+[Talks - Eric Snow: A Per-Interpreter GIL: Concurrency and Parallelism with Subinterpreters - YouTube](https://www.youtube.com/watch?v=3ywZjnjeAO4)
+
+[PEP 703 – Making the Global Interpreter Lock Optional in CPython | peps.python.org](https://peps.python.org/pep-0703/)
+[Python moves to remove the GIL and boost concurrency | InfoWorld](https://www.infoworld.com/article/3704248/python-moves-to-remove-the-gil-and-boost-concurrency.html)
+[Talks - Łukasz Langa: Working Around the GIL with asyncio - YouTube](https://www.youtube.com/watch?v=oVhJAVS3g00)
+
+[Understanding the Python GIL - YouTube](https://www.youtube.com/watch?v=Obt-vMVdM8s)
+[PyVideo.org · to GIL or not to GIL: the Future of Multi-Core (C)Python](https://pyvideo.org/pycon-us-2019/to-gil-or-not-to-gil-the-future-of-multi-core-cpython.html) [slides](https://docs.google.com/presentation/d/1BuU6e-CKdZxDL5z9VBp19LAaIY8Ys2-jlcz-mD0Vr3c/mobilepresent?slide=id.p)
+[Python is NOT Single Threaded (and how to bypass the GIL) - YouTube](https://www.youtube.com/watch?v=m2yeB94CxVQ)
+[Keynote: Multithreaded Python without the GIL - presented by Sam Gross - YouTube](https://www.youtube.com/watch?v=9OOJcTp8dqE)
 
 ## Syntax
 
@@ -731,6 +746,7 @@ Protocol name can be `Iterable`, `PathLike`, `Ducky`
 [Deciphering Glyph :: I Want A New Duck](https://blog.glyph.im/2020/07/new-duck.html) structural vs nominal typing
 [Deciphering Glyph :: Interfaces and Protocols](https://blog.glyph.im/2021/03/interfaces-and-protocols.html)
 [Protocol Types in Python 3.8](https://auth0.com/blog/protocol-types-in-python/)
+[Protocols and structural subtyping - mypy documentation](https://mypy.readthedocs.io/en/stable/protocols.html)
 
 ## Functions
 
@@ -824,6 +840,7 @@ need `nonlocal`/`global` keywords when referencing non-local variables
 [Classes in Python. Understanding Object Oriented… | by Sadrach Pierre, Ph.D. | Towards Data Science](https://towardsdatascience.com/classes-in-python-e31c21120c3d)
 
 [Enriching Your Python Classes With Dunder (Magic, Special) Methods – dbader.org](https://dbader.org/blog/python-dunder-methods)
+[Python Dunder Methods: The Ugliest Awesome Sauce - CodeSolid.com](https://codesolid.com/dunder-methods-in-python-the-ugliest-awesome-sauce/)
 [3 practical Python tools: magic methods, iterators and generators, and method magic | Opensource.com](https://opensource.com/article/18/4/elegant-solutions-everyday-python-problems)
 [Using Magic Methods in Python - Towards Data Science](https://towardsdatascience.com/using-magic-methods-in-python-48f31685bc18)
 [Magic Methods in Python, by example - Towards Data Science](https://towardsdatascience.com/magic-methods-in-python-by-example-16b6826cae5c)
@@ -843,6 +860,9 @@ need `nonlocal`/`global` keywords when referencing non-local variables
 Inherit classes from object to signal usage of new style classes
 Avoid multiple inheritance with exception to mix-ins (for non-overridden functions not representing IS-A relationship)
 
+[Talks - Hynek Schlawack: Subclassing, Composition, Python, and You - YouTube](https://www.youtube.com/watch?v=k8MT5liCQ7g)
+[Why COMPOSITION is better than INHERITANCE - detailed Python example - YouTube](https://www.youtube.com/watch?v=0mcP8ZpUR38)
+
 ### attribute/descriptor/`@property`
 
 Use `@property` declaration to abstract member access or derived/computed attribute (simpler then `__getattribute__`/`__setattr__`)
@@ -856,6 +876,7 @@ Use `@property` declaration to abstract member access or derived/computed attrib
 [python descriptors! (advanced) anthony explains #519 - YouTube](https://www.youtube.com/watch?v=vBys0SwYvCQ)
 
 [attrs: Classes Without Boilerplate — attrs documentation](http://www.attrs.org/en/stable/) annotation and frozen class, more powerful than `dataclasses`
+[python-attrs/attrs: Python Classes Without Boilerplate](https://github.com/python-attrs/attrs/)
 [Deciphering Glyph :: The One Python Library Everyone Needs](https://glyph.twistedmatrix.com/2016/08/attrs.html)
 
 ### `__file__`
@@ -1026,6 +1047,7 @@ def logging_decorator(func: Callable[..., Any]):
 python -m pdb script.py
 ```
 
+[inducer/pudb: Full-screen console debugger for Python](https://github.com/inducer/pudb)
 [robdmc/behold: A Debugging Tool](https://github.com/robdmc/behold)
 
 ## Iterables/Generator
@@ -1418,10 +1440,11 @@ Gist:
 
 ## #perfmatters
 
-[Faster CPython — Faster CPython documentation](https://faster-cpython.readthedocs.io/index.html)
 [PythonSpeed - Python Wiki](https://wiki.python.org/moin/PythonSpeed)
 [Ship better Python software, faster](https://pythonspeed.com/)
+
 [Writing Faster Python 3 - presented by Sebastian Witowski - YouTube](https://www.youtube.com/watch?v=6P68IBou_cg) [code](https://github.com/switowski/writing-faster-python3)
+[#Writing Faster Python - Sebastian Witowski](https://switowski.com/tags/writing-faster-python/)
 
 [10 hard-core coding tips for faster Python | InfoWorld](http://www.infoworld.com/article/3044088/application-development/10-hard-core-coding-tips-for-faster-python.html?upd=1467079778194)
 [A Python Optimization Anecdote | Dropbox Tech Blog](https://blogs.dropbox.com/tech/2011/10/a-python-optimization-anecdote/)
@@ -1442,7 +1465,27 @@ Gist:
 [IPython Cookbook - Chapter 4 : Profiling and Optimization](https://ipython-books.github.io/chapter-4-profiling-and-optimization/)
 [IPython Cookbook - Chapter 5 : High-Performance Computing](https://ipython-books.github.io/chapter-5-high-performance-computing/)
 
+[Profiling in Python: How to Find Performance Bottlenecks – Real Python](https://realpython.com/preview/python-profiling/)
+[Python 3.12 Preview: Support For the Linux perf Profiler – Real Python](https://realpython.com/python312-perf-profiler/) ❗!important
+
 [Python decorator to measure the execution time of methods](https://medium.com/pythonhive/python-decorator-to-measure-the-execution-time-of-methods-fa04cb6bb36d)
+
+### Faster CPython
+
+> official project to make CPython fast
+
+[Guido And Microsoft Want To Make Python x2 Faster](https://www.i-programmer.info/news/216-python/14573-guido-and-microsoft-want-to-make-python-x2-faster.html)
+[Faster CPython at PyCon, part one [LWN.net]](https://lwn.net/Articles/930705/)
+[Faster CPython at PyCon, part two [LWN.net]](https://lwn.net/Articles/931197/)
+[faster-cpython · GitHub](https://github.com/faster-cpython/)
+
+[How we are making Python 3.11 faster - presented by Mark Shannon - YouTube](https://www.youtube.com/watch?v=xKk7IXm0XO0)
+[Making Python 5x FASTER with Guido van Rossum and Mark Shannon - Talk Python To Me - YouTube](https://www.youtube.com/watch?v=_r6bFhl6wR8)
+[Talks - Mark Shannon: How we are making CPython faster. Past, present and future. - YouTube](https://www.youtube.com/watch?v=wyty6sFMWI0)
+
+[Talks - Brandt Bucher: Inside CPython 3.11's new specializing, adaptive interpreter - YouTube](https://www.youtube.com/watch?v=shQtrn1v7sQ) quickening (specialized instructions in JIT compiler)
+[brandtbucher/specialist: Visualize CPython 3.11's specializing, adaptive interpreter. :fire:](https://github.com/brandtbucher/specialist)
+[PEP 659 – Specializing Adaptive Interpreter | peps.python.org](https://peps.python.org/pep-0659/)
 
 ### Runtime
 
@@ -1470,8 +1513,9 @@ Gist:
 [Pyston | Python Performance](https://www.pyston.org/)
 [pyston/pyston: A faster and highly-compatible implementation of the Python programming language.](https://github.com/pyston/pyston)
 only supports 2.7 and lacked the performance improvements originally intended, abandoned by Dropbox; forked from 3.8 in 2021
+[Pyston 2.2 Goes Open Source Again](https://www.i-programmer.info/news/216-python/14581-pyston-22-goes-open-source-again.html) 2021-05
 [Programming languages: 'Faster Python' Pyston takes a step forward | ZDNet](https://www.zdnet.com/article/programming-languages-faster-python-pyston-takes-a-step-forward/)
-[Pyston and PyPy chart different courses to a faster Python | InfoWorld](http://www.infoworld.com/article/3095455/application-development/pyston-and-pypy-chart-different-courses-to-a-faster-python.html)
+[Pyston To Merge With CPython?](https://www.i-programmer.info/news/216-python/16122-pyston-to-merge-with-cpython.html)
 
 ### Compiler
 
@@ -1499,6 +1543,7 @@ python -c "import module"
 [CPython Compilers](http://compilers.pydata.org/)
 
 [Cython: C-Extensions for Python](http://cython.org/) compiled Python C, sacrificing Python features
+[Cython Offers the Ease of Python, the Speed of C++ - The New Stack](https://thenewstack.io/cython-offers-the-ease-of-python-the-speed-of-c/)
 [Use Cython to get more than 30X speedup on your Python code](https://towardsdatascience.com/use-cython-to-get-more-than-30x-speedup-on-your-python-code-f6cb337919b6)
 [An Introduction to Just Enough Cython to be Useful | Peter Baumgartner](https://www.peterbaumgartner.com/blog/intro-to-just-enough-cython-to-be-useful/)
 [An Introduction to Cython, the Secret Python Extension with Superpowers](https://okigiveup.net/tutorials/an-introduction-to-cython/)
@@ -1580,6 +1625,7 @@ elapsed = time.perf_counter() - start
 
 [The Python Profilers — Python documentation](https://docs.python.org/3/library/profile.html?highlight=cprofile)
 [Profiling Python Code » ADMIN Magazine](http://www.admin-magazine.com/HPC/Articles/Profiling-Python-Code)
+[Profiling python code · The COOP Blog](https://cerfacs.fr/coop/python-profiling)
 [Not just CPU: writing custom profilers for Python](https://pythonspeed.com/articles/custom-python-profiler/)
 
 ```sh

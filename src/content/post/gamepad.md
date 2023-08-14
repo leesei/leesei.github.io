@@ -2,8 +2,9 @@
 title: Gamepad
 description: ""
 created: 2016-09-25
+updated: 2023-07-27
 tags:
-  - comp.hardware
+  - comp/hardware
 ---
 
 [Gamepad - ArchWiki](https://wiki.archlinux.org/title/Gamepad)
@@ -18,24 +19,41 @@ tags:
 [游 戏 手 柄 进 化 史 - 知乎](https://zhuanlan.zhihu.com/p/141106714)
 [游戏手柄的进化史你知道么？ - 简书](https://www.jianshu.com/p/4fd238a017bc)
 
+[深度科普 霍爾搖桿與碳膜搖桿有何區別？手柄搖桿是怎樣工作的？ - YouTube](https://www.youtube.com/watch?v=5BkzT5UpCHA) ❗!important
+碳膜: ALPS, 控銀/K-Silver, 台灣普耀
+霍爾: 谷粒(分體式), 控銀(一體式)
+
 [Glossary:Controller - PCGamingWiki PCGW - bugs, fixes, crashes, mods, guides and improvements for every PC game](http://pcgamingwiki.com/wiki/Glossary:Controller#XInput_Plus)
 
 [XInput and DirectInput (Windows)](<https://msdn.microsoft.com/en-us/library/windows/desktop/ee417014(v=vs.85).aspx>)
 [DirectInput - Wikiwand](https://www.wikiwand.com/en/DirectInput#/DirectInput_vs_XInput)
 
 [手柄哥子俊 - YouTube](https://www.youtube.com/channel/UC24bt5d-Gg5m8Gdu7daaQVQ)
+[Controllers - YouTube](https://www.youtube.com/playlist?list=PL2Ksi8qJcnFKZT8yrh7JH13Z8uw0kxq_a) Gamer Heaven
+[手柄 - 科技遊戲站 - YouTube](https://www.youtube.com/@TechGamestop/search?query=%E6%89%8B%E6%9F%84)
+
+[首页-【四川商盟】天龙电玩-淘宝网](https://lztldw.world.taobao.com/) accessories
+
+## 横评
 
 [手柄入坑指南！差價 1000 元的手柄區別很大嗎？｜大狸子切切裡 - YouTube](https://www.youtube.com/watch?v=1Tj9YWtYhEE) 2022-04
+[200-1200 元 12 款手柄个人使用体验（xbox 北通飞智致动谷粒雷神）\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1814y1L7rE/) 2022-10
+[Best controller ranking! Which is the best controller for FPS games?【Apex 手柄大横评】才半年你们就卷出了... - YouTube](https://www.youtube.com/watch?v=H2sXNE0tX-w) 2023-06
+[【手柄入坑指南】50-400 元价位，Switch\Xbox\PS5 等主机游戏手柄推荐 - YouTube](https://www.youtube.com/watch?v=aKARi2ayw54) 2023-04
+[2023 五款高性价比游戏手柄推荐（盖世小鸡、致动、莱仕达、北通）「2 月特别更新」](https://www.zhihu.com/tardis/zm/art/340105977?source_id=1003)
+[2023 值得买的 PC 游戏手柄推荐？新手该如何选购游戏手柄？高性价比游戏手柄选购指南 - 知乎](https://zhuanlan.zhihu.com/p/357627386)
+[PC 游戏手柄选择推荐 ver.2023.6 - ＰＣ数码 - Stage1st - stage1/s1 游戏动漫论坛](https://bbs.saraba1st.com/2b/thread-2104105-1-1.html)
+[300 元以内 14 款游戏手柄横评对比！ - 好物清单](https://h5.qingdan.com/post/254919)
 [老班长 a 的个人空间\_哔哩哔哩\_bilibili](https://space.bilibili.com/269079123/channel/collectiondetail?sid=273735)
 
-## 小雞 Gamesir
+## Gamesir 小雞
 
 ### G3
 
 [GameSir G3w USB Controller Joystick for PC/Android Devices/PS3 – GameSir Official Store](https://gamesir.hk/collections/gamepads/products/gamesir-g3w)
 Bought from Taobao at ¥45 201609
 Supports PC (XInput, DInput) and Android
-Great value for the cost
+Great value for the price
 
 - Long press HOME button for 5 seconds to toggle between XInput and DInput (1 LED and 2 LED)
 
@@ -63,15 +81,81 @@ Taobao ¥115 (with ¥30 coupon), ¥248 for 2 (with ¥20 coupon) 201812
 
 Supports Bluetooth, direct connection to Switch
 
+### T4K
+
+- Hall Thumbstick
+- Hall Trigger
+- Software Trigger stop
+- Microswitch DPAD
+- Microswitch face buttons
+- Microswitch shoulder button
+- Microswitch? rear buttons (2)
+- Gyro
+- 3.5mm (Switch)
+- RGB
+- App
+- Wired only!
+
 ## 谷粒 GuliKit
 
 [Switch NS 手柄 蓝牙无线 PRO 谷粒 gulikit 金刚一键连发循环编程 FPS-淘宝网](https://item.taobao.com/item.htm?id=598523928339)
 [Smart Kingkong Controller - PRODUCTS - GuliKit,Enjoy Gaming Easier!](http://www.gulikit.com/article_read_183.html)
 [Smart Kingkong Pro Controller - PRODUCTS - GuliKit,Enjoy Gaming Easier!](http://www.gulikit.com/article_read_216.html)
 
+Face buttons defaults to Switch layout, need to buy PC kit (~$35) to swap
+
 [买了 Switch 以后，我爱上了这款国产手柄 - 知乎](https://zhuanlan.zhihu.com/p/89579348)
 [10 分钟按键录制！switch 原柄的完美替代者，体验谷粒金刚 PRO 手柄*值客原创*什么值得买](https://post.smzdm.com/p/az505xqp/)
 [手游轮盘磨手怎么办？谷粒金刚 PRO 手柄自定义按键，轻松盲操*值客原创*什么值得买](https://post.smzdm.com/p/aqnlq5zv/)
+
+## 八位堂
+
+[【八位堂獵戶座真無線手柄】可能是最好的“禦三家”手柄平替選擇 - YouTube](https://www.youtube.com/watch?v=B1i1zEGstBc)
+[150 元以下最靚的柄！八位堂獵戶座青春版拆機測評 - YouTube](https://www.youtube.com/watch?v=3wbeOVAbd3Y)
+
+## 墨将
+
+墨将彩虹 list
+墨将彩虹 S
+墨将彩虹 2
+
+## 致動
+
+致動 O
+致動 O Lite: refresh of 致動 O, removed RGB
+致動 O+
+
+## 飛智
+
+[飛智又整活了？力切換扳機！飛智黑武士 3PRO 拆機測評 - YouTube](https://www.youtube.com/watch?v=vDLypbNnY70)
+[半年後再測八爪魚 3， 力反饋扳機到底怎麼樣？飛智八爪魚 3 拆機測評 - YouTube](https://www.youtube.com/watch?v=AfGlTFRYpcc)
+
+## 機械師
+
+### G5 Pro
+
+[Machenike | G5 Pro Hall-effect Gamepad Controller – Machenike Official Store](https://global.machenike.com/products/g5pro)
+
+[性價比之王！機械師 G5 Pro 手柄拆機測評 - YouTube](https://www.youtube.com/watch?v=QwUlO_kom5I)
+[Machenike G5 Pro Controller Review-Highly Requested, Was I Let Down? - YouTube](https://www.youtube.com/watch?v=ZDh9riz4Q30)
+[G5 系列  -  机械师 MACHENIKE 官网-机械师笔记本,机械师游戏本,机械师台式机,游戏本,笔记本电脑,M7 鼠标,K7 键盘](https://www.machenike.com/lists/148.html)
+
+- Hall Thumbstick
+- Hall Trigger
+- Metallic Thumbstick ring
+- Microswitch DPAD
+- Microswitch face buttons
+- Microswitch rear buttons (2)
+- Gyro
+- Wired + Bluetooth + 2.4G
+- 2.4G Multiplatform
+- Swappable face plate
+- RGB
+- App
+
+### G6
+
+[Machenike | G6 Hall-effect Gamepad Controller – Machenike Official Store](https://global.machenike.com/products/g6)
 
 ## 北通
 
@@ -82,6 +166,10 @@ Supports Bluetooth, direct connection to Switch
 
 [北通宙斯 T6 精英机械游戏手柄 pc 电脑版 switchpro 只狼 steam 无线有线 NBA2K20 任天堂 NS 塞尔达 xboxones360 使命召唤-tmall.com 天猫](https://detail.tmall.com/item.htm?id=602999021014) supports Switch
 [國內首款機械手柄！北通宙斯遊戲手柄體驗！【Gamker 攻殼】 - YouTube](https://www.youtube.com/watch?v=jdRbL-qXAMY)
+
+## Nintendo
+
+[How to connect Switch Pro Controller to PC - Android Authority](https://www.androidauthority.com/connect-switch-pro-controller-pc-3165746/)
 
 ## Microsoft
 
@@ -142,7 +230,7 @@ XInput -> DInput, buttons remapping
 
 [JoyToKey - Download the Latest Official Version](https://joytokey.net/en/)
 
-### Pinnacle Game Profiler
+### ~~Pinnacle Game Profile~~
 
 > Rob, the author seemed to have passed away and no support is available
 

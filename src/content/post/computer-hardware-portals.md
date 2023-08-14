@@ -3,7 +3,7 @@ title: Computer Hardware Portals
 description: ""
 created: 2015-05-14
 tags:
-  - comp.hardware
+  - comp/hardware
 ---
 
 [AnandTech: Hardware News and Tech Reviews Since 1997](http://www.anandtech.com/)

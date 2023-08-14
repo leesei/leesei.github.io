@@ -2,8 +2,12 @@
 title: Fonts
 description: ""
 created: 2016-04-23
+updated: 2023-07-22
 tags:
   - comp
+  - comp/lang
+  - font
+  - emoji
 ---
 
 [The Art of Computer Typography – Signal v. Noise](https://signalvnoise.com/posts/3183-the-art-of-computer-typography)
@@ -175,6 +179,11 @@ Extensions:
 
 [ButTaiwan/iansui: 芫荽，基於 Klee One 改造的學習用台灣繁體字型](https://github.com/ButTaiwan/iansui)
 
+[GNU Unifont Glyphs](http://unifoundry.com/unifont.html)
+
+[Hanazono fonts](http://fonts.jp/hanazono/)
+[BabelStone Fonts : BabelStone Han](http://www.babelstone.co.uk/Fonts/Han.html)
+
 [Google Noto Fonts](https://www.google.com/get/noto/)
 [Google 黑板报: Google 中日韩字体 Noto Sans CJK 让你的阅读体验更佳](https://china.googleblog.com/2014/07/googlenoto-sans-cjk.html)
 
@@ -255,6 +264,7 @@ calligraphy into a font!
 
 [Top 11 Programming Fonts for your Text Editor and Terminal | Wes Bos](http://wesbos.com/programming-fonts/)
 [Choosing the Best Coding Font for Programming – Real Python](https://realpython.com/coding-font/)
+[The Ultimate Oldschool PC Font Pack: Home](http://int10h.org/oldschool-pc-fonts/)
 
 [Dev Fonts](https://devfonts.gafi.dev/)
 
@@ -294,8 +304,6 @@ calligraphy into a font!
 [CharMap - Powered by OpenType.js](http://bluejamesbond.github.io/CharacterMap/)
 [bluejamesbond/CharacterMap: Online Character Map / Glyph / Icon / Font Viewer](https://github.com/bluejamesbond/CharacterMap)
 [ecomfe/fontmin: Minify font seamlessly](https://github.com/ecomfe/fontmin)
-
-[fontmatrix/fontmatrix: Free font collections manager for Linux, Mac and Windows](https://github.com/fontmatrix/fontmatrix)
 
 [FontForge Open Source Font Editor](https://fontforge.org/en-US/)
 [fontforge/fontforge: Free (libre) font editor for Windows, Mac OS X and GNU+Linux](https://github.com/fontforge/fontforge)

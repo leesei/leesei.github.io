@@ -3,7 +3,7 @@ title: Scala
 description: ""
 created: 2016-03-04
 tags:
-  - comp.lang
+  - comp/lang
   - java
   - scala
 ---

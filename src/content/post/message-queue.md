@@ -3,8 +3,7 @@ title: Message Queue
 description: ""
 created: 2015-08-03
 tags:
-  - comp
-  - database
+  - comp/database
 ---
 
 [Message broker - Wikiwand](https://www.wikiwand.com/en/Message_broker)

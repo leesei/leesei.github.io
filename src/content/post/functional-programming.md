@@ -2,12 +2,14 @@
 title: Functional Programming
 description: ""
 created: 2016-03-13
+updated: 2023-08-04
 tags:
   - javascript
   - web
 ---
 
 > Most of the study gears towards JavaScript/Python/web development
+> Many old articles
 
 [[reactive-programming]]
 [[immutability]]
@@ -17,11 +19,9 @@ tags:
 [Functional reactive programming - Wikiwand](https://www.wikiwand.com/en/Functional_reactive_programming)
 Contrast: [Imperative programming - Wikiwand](https://www.wikiwand.com/en/Imperative_programming)
 
-[Lambda calculus - Wikiwand](https://www.wikiwand.com/en/Lambda_calculus)
-[Monad (functional programming) - Wikiwand](<https://www.wikiwand.com/en/Monad_(functional_programming)>)
 [Why Functional Programming Matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf) (PDF)
 [What is functional reactive programming? | Packt Hub](https://hub.packtpub.com/what-is-functional-reactive-programming/)
-[What Making a Cup Of Tea Taught me about Functional Programming.](https://medium.com/@samuel.fare/what-making-a-cup-of-tea-taught-me-about-functional-programming-a09909679924) think declaratively`
+[What Making a Cup Of Tea Taught me about Functional Programming.](https://medium.com/@samuel.fare/what-making-a-cup-of-tea-taught-me-about-functional-programming-a09909679924) think declaratively
 [What is Functional Reactive Programming (FRP)? - QuickBird Studios Blog](https://quickbirdstudios.com/blog/what-is-functional-reactive-programming-frp/)
 [Jane Street Tech Blog - Breaking down FRP](https://blog.janestreet.com/breaking-down-frp/)
 [The Functional Evolution of Object-Oriented Programming](https://www.infoq.com/presentations/oop-functional-evolution/)
@@ -29,90 +29,40 @@ Contrast: [Imperative programming - Wikiwand](https://www.wikiwand.com/en/Impera
 
 [Functional Programming buzzwords - DEV Community 👩‍💻👨‍💻](https://dev.to/leolanese/functional-programming-buzzwords-36c1) FRP is not FP
 
-[Fundamentals of Functional JavaScript - DEV Community](https://dev.to/anmshpndy/functional-javascript-fundamentals-44f2) series
-
+[Why Isn't Functional Programming the Norm? – Richard Feldman - YouTube](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
 [Hey Underscore, You're Doing It Wrong! - YouTube](https://www.youtube.com/watch?v=m3svKOdZijA) more about function programming
 [GOTO 2018 • Functional Programming in 40 Minutes • Russ Olsen - YouTube](https://www.youtube.com/watch?v=0if71HOyVjY)
 [Functional Design Patterns - Scott Wlaschin - YouTube](https://www.youtube.com/watch?v=srQt1NAHYC0)
-
-[stoeffel/awesome-fp-js: A curated list of awesome functional programming stuff in js](https://github.com/stoeffel/awesome-fp-js)
-[getify/Functional-Light-JS: Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter.](https://github.com/getify/Functional-Light-JS)
-[What is Deep Waters - Deep Waters](https://antonioru.gitbook.io/deep-waters/)
-
 [Essentials: Functional Programming's Y Combinator - Computerphile - YouTube](https://www.youtube.com/watch?v=9T8A89jgeTI)
-[Lambda Calculus - Computerphile - YouTube](https://www.youtube.com/watch?v=eis11j_iGMs)
-[What is a Monad? - Computerphile - YouTube](https://www.youtube.com/watch?v=t1e8gqXLbsU)
 
 ---
 
-[lodash](https://lodash.com/) [FP Guide · lodash/lodash Wiki](https://github.com/lodash/lodash/wiki/FP-Guide)
-[Underscore.js](https://underscorejs.org/)
-[you-dont-need/You-Dont-Need-Lodash-Underscore: List of JavaScript methods which you can use natively + ESLint Plugin](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
-[Why is Lodash Still Useful? - Level Up Coding](https://levelup.gitconnected.com/why-is-lodash-still-useful-1503a4215762)
-
-[wu.js — Higher order functions for ECMAScript 6 iterators](https://fitzgen.github.io/wu.js/)
-[alexreardon/memoize-one: A memoization library which only remembers the latest invocation](https://github.com/alexreardon/memoize-one)
-
-[Ramda Documentation](http://ramdajs.com/)
-[Hands-on Functional Programming with Ramda.js](https://www.sitepoint.com/functional-programming-with-ramda/)
-[Functional Programming Patterns With RamdaJS](https://www.i-programmer.info/news/167-javascript/12623-functional-programming-patterns-with-ramdajs.html)
-[Functional Programming Patterns With RamdaJS!](https://www.educative.io/courses/functional-programming-patterns-with-ramdajs)
-
-[functional js](http://fogus.github.io/lemonad/)
-[FredyC/promised-land](https://github.com/FredyC/promised-land/)
-[jussi-kalliokoski/trine](https://github.com/jussi-kalliokoski/trine)
-[LUISATENCIO.NET](http://www.luisatencio.net/)
-
-Immutability in JavaScript:
-[Immutable.js](https://facebook.github.io/immutable-js/)
-[planttheidea/unchanged: A tiny, fast, unopinionated handler for updating JS objects and arrays immutably](https://github.com/planttheidea/unchanged)
-[arqex/freezer: A tree data structure that emits events on updates, even if the modification is triggered by one of the leaves, making it easier to think in a reactive way.](https://github.com/arqex/freezer)
-
-> see `reactive-programming.md#rx`
-
-[A General Theory of Reactivity · GitBook](https://www.gitbook.com/book/kriskowal/gtor/details)
+[kriskowal/gtor: A General Theory of Reactivity](https://github.com/kriskowal/gtor)
 [An introduction to functional programming](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
 [Functional Programming Principles in Javascript - freeCodeCamp.org - Medium](https://medium.com/free-code-camp/functional-programming-principles-in-javascript-1b8fc6c3563f)
 [The Foundations of Functional Concurrency | Manning](https://freecontent.manning.com/the-foundations-of-functional-concurrency/)
 [rpominov/category-theory-notes](https://github.com/rpominov/category-theory-notes)
 [terminology - What is (functional) reactive programming? - Stack Overflow](http://stackoverflow.com/questions/1028250/what-is-functional-reactive-programming)
-[Functional and Object Oriented Programming with Higher Order Functions | Zsolt Nagy](http://www.zsoltnagy.eu/functional-and-object-oriented-programming-with-higher-order-functions/)
-[Understanding Transducers in JavaScript — Medium](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624#.mmtflrn58)
-[Functional Reactive Programming in JavaScript - sitr.us](http://sitr.us/2013/05/22/functional-reactive-programming-in-javascript.html)
-
-[An Introduction to Functional JavaScript](http://www.sitepoint.com/introduction-functional-javascript/)
-[An Introduction to Reasonably Pure Functional Programming](https://www.sitepoint.com/an-introduction-to-reasonably-pure-functional-programming/)
-[What Is a Pure Function in JavaScript?](https://www.freecodecamp.org/news/what-is-a-pure-function-in-javascript-acb887375dfe/) deterministic (only rely on input) and has no side effects
-[Recursion in Functional JavaScript](http://www.sitepoint.com/recursion-functional-javascript/)
-[Higher-Order Functions in JavaScript](http://www.sitepoint.com/higher-order-functions-javascript/)
-[Course Introduction to Just Enough Functional Programming In JavaScript from @kyleshevlin on @eggheadio](https://egghead.io/lessons/javascript-course-introduction-to-just-enough-functional-programming-in-javascript)
-
-[The Two Pillars of JavaScript — Pt 2: Functional Programming — JavaScript Scene — Medium](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
-[Understanding recursion in functional JavaScript programming](http://www.integralist.co.uk/posts/js-recursion.html)
-[Polymorphic functions and method dispatch in JavaScript](https://ericleads.wordpress.com/2011/06/polymorphic-functions-and-multiple-dispatch-in-javascript/)
-
-[Getting Functional with Javascript (Part 1)](http://www.datchley.name/getting-functional-with-javascript-part-1/)
-[Getting Functional with Javascript (Part 2)](http://www.datchley.name/getting-functional-with-javascript-part-2/)
-[Getting Functional with Javascript (Part 3)](http://www.datchley.name/getting-functional-with-javascript-part-3/)
-
-[Functional JS #1: Introduction – DailyJS – Medium](https://medium.com/dailyjs/functional-js-1-introduction-7908bfe5ef8d)
-[Functional JS #2: Functions. Duh! – DailyJS – Medium](https://medium.com/dailyjs/functional-js-2-functions-duh-70bf22f87bb8)
-[Introduction to Algebraic Structures — Functional Programming for JavaScript Developers](https://levelup.gitconnected.com/introduction-to-algebraic-structures-functional-programming-for-javascript-developers-cdd627943a4d)
-[Understanding Functional Programming in Javascript — A Complete Guide](https://levelup.gitconnected.com/understanding-functional-programming-in-javascript-a-complete-guide-e85ed13b42c8)
-[JavaScript has a Reduce Method. You Should Use It. - Level Up Coding](https://levelup.gitconnected.com/javascript-has-a-reduce-method-you-should-use-it-ff4dd29d6c9d)
+[functional-programming Series' Articles - DEV Community](https://dev.to/deepu105/series/1857)
 
 [Curry: cooking up tastier functions – JavaScript, JavaScript…](https://javascriptweblog.wordpress.com/2010/04/05/curry-cooking-up-tastier-functions/)
 [Compose: functions as building blocks – JavaScript, JavaScript…](https://javascriptweblog.wordpress.com/2010/04/14/compose-functions-as-building-blocks/)
 [JavaScript Partials – JavaScript, JavaScript…](https://javascriptweblog.wordpress.com/2010/05/17/partial-currys-flashy-cousin/)
-[allong.es](http://allong.es/) Practical function combinator and decorator recipes inspired by JavaScript Allongé
-[Easy functional programming techniques in TypeScript for everyone - DEV Community 👩‍💻👨‍💻](https://dev.to/deepu105/easy-functional-programming-techniques-in-typescript-for-everyone-1bl2)
 
-[Functional Programming in Javascript === Garbage « Thomas Reynolds](http://awardwinningfjords.com/2014/04/21/functional-programming-in-javascript-equals-garbage.html)
-[Functional JavaScript: Building data structures from functions | InfoWorld](https://www.infoworld.com/article/3392877/functional-javascript-building-data-structures-from-functions.html)
+[Learn you Func Prog on five minute quick! • The Register](http://www.theregister.co.uk/2016/01/13/stob_remember_the_monoids/)
+[How can I learn to think like a functional programmer? - Quora](http://qr.ae/RiXJAx)
+_declarative_ as antithetical to _imperative_, and _procedural_ as antithetical to _functional_
 
-`array.reduce()`
-[Understanding the Almighty Reducer | CSS-Tricks](https://css-tricks.com/understanding-the-almighty-reducer/)
-[Array.prototype.reduce() - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
+## Lambda calculus
+
+[Lambda calculus - Wikiwand](https://www.wikiwand.com/en/Lambda_calculus)
+[Lambda Calculus - Computerphile - YouTube](https://www.youtube.com/watch?v=eis11j_iGMs)
+
+## Functor/Monad
+
+[Functor (functional programming) - Wikiwand](<https://www.wikiwand.com/en/Functor_(functional_programming)>)
+[Monad (functional programming) - Wikiwand](<https://www.wikiwand.com/en/Monad_(functional_programming)>)
+[What is a Monad? - Computerphile - YouTube](https://www.youtube.com/watch?v=t1e8gqXLbsU)
 
 [Functors, Applicatives, And Monads In Pictures - adit.io](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 [Swift Functors, Applicatives, and Monads in Pictures](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/)
@@ -142,58 +92,6 @@ function run<T>(
 };
 
 ```
-
-[Learn you Func Prog on five minute quick! • The Register](http://www.theregister.co.uk/2016/01/13/stob_remember_the_monoids/)
-[How can I learn to think like a functional programmer? - Quora](http://qr.ae/RiXJAx)
-_declarative_ as antithetical to _imperative_, and _procedural_ as antithetical to _functional_
-
-## PureScript
-
-[PureScript](https://www.purescript.org/)
-[Try PureScript!](https://try.purescript.org/)
-
-[PureScript by Example by Phil Freeman [Leanpub PDF/iPad/Kindle]](https://leanpub.com/purescript/)
-[Functional Programming Concepts in Purescript from @_cmdv_ on @eggheadio](https://egghead.io/courses/functional-programming-concepts-in-purescript)
-
-## Python
-
-[How to Think Like a (Functional) Programmer](http://greenteapress.com/thinkocaml/index.html)
-[An introduction to functional programming](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
-[Functional programming in Python: Immutable data structures | Opensource.com](https://opensource.com/article/18/10/functional-programming-python-immutable-data-structures)
-
-[Coconut Programming Language](http://coconut-lang.org/)
-[evhub/coconut: Simple, elegant, Pythonic functional programming.](https://github.com/evhub/coconut)
-[Coconut Tutorial — Coconut documentation](http://coconut.readthedocs.io/en/master/HELP.html)
-
-[i2y/mochi: Dynamically typed functional programming language](https://github.com/i2y/mochi) uses pyrsistent
-[Functional Python with Mochi · EuroPython 2015 · Bilbao, 20–26 July 2015](https://ep2015.europython.eu/conference/talks/functional-python-with-mochi)
-
-[tobgu/pyrsistent: Persistent/Immutable/Functional data structures for Python](https://github.com/tobgu/pyrsistent)
-[Welcome to Pyrsistent’s documentation!](https://pyrsistent.readthedocs.io/en/latest/)
-
-[Welcome to Hy’s documentation!](http://docs.hylang.org/en/stable/) Lisp inspired
-[try-hylang](https://try-hy.appspot.com/)
-
-[dry-python/returns: Make your functions return something meaningful, typed, and safe!](https://github.com/dry-python/returns)
-[Monadic error handling in Python ⚠ Write better Python code part 7b - YouTube](https://www.youtube.com/watch?v=J-HWmoTKhC8) Go-like (result, err) tuple
-
-[dg — it's a Python! No, it's a Haskell!](https://pyos.github.io/dg/) Haskell inspired
-[pyos/dg: A programming language for the CPython VM.](https://github.com/pyos/dg)
-[dg — kind of a tutorial.](http://pyos.github.io/dg/tutorial/)
-
-### Packages
-
-[Pursuit](https://pursuit.purescript.org/) package repo
-[PureScript](https://github.com/purescript) GitHub org
-
-[purescript-thermite - Pursuit](https://pursuit.purescript.org/packages/purescript-thermite/) wrapper for React
-
-## Kotlin
-
-[Arrow](https://arrow-kt.io/) Functional companion to Kotlin's Standard Library
-[Functional Programming with Kotlin and Arrow: Getting Started | raywenderlich.com](https://www.raywenderlich.com/9527-functional-programming-with-kotlin-and-arrow-getting-started)
-
-## Functor
 
 [Functors and Monads - Practical introduction to Functional Programming with JS](https://tech.io/playgrounds/2980/practical-introduction-to-functional-programming-with-js/functors-and-monads)
 [Contravariant Functors in TypeScript | by Wim Jongeneel | Hoppinger | Medium](https://medium.com/hoppinger/contravariant-functors-in-typescript-ff8b8c4c4bf4)
@@ -233,90 +131,7 @@ Currying is the technique of translating the evaluation of a function that takes
 [Functional programming in JavaScript - YouTube](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) Fun Fun Function
 [Carefully Composing Logic: Functional JavaScript on Vimeo](https://vimeo.com/138163463)
 
-## Book
-
-[Introduction · mostly-adequate-guide (old)](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/)
-
-## Folktale
-
-[Home | Folktale, a standard library for functional programming in JavaScript](https://folktale.origamitower.com/)
-[Fun With Folktale - YouTube](https://www.youtube.com/watch?v=OghJR3BP0Ns)
-[Easier Asynchronous State Modelling in React Redux or Hooks](https://medium.com/@jesterxl/easier-asynchronous-state-modelling-in-react-redux-or-hooks-a05924b7bfa1)
-
-[Folktale 2 | Folktale, a standard library for functional programming in JavaScript](https://folktale.origamitower.com/docs/)
-
-[Fun With Folktale - YouTube](https://www.youtube.com/watch?v=OghJR3BP0Ns)
-
-## Remeda
-
-[Remeda](https://remedajs.com/) supports both "data-first" and "data-last" API
-[remeda/remeda: A utility library for JavaScript and TypeScript.](https://github.com/remeda/remeda)
-
-## Highland.js
-
-[Highland.js](http://highlandjs.org/)
-[caolan/highland: High-level streams library for Node.js and the browser](https://github.com/caolan/highland)
-
-## Bacon.js
-
-[Bacon.js - Functional Reactive Programming library for JavaScript](https://baconjs.github.io/) [Tutorials](https://baconjs.github.io/tutorials.html)
-
-Source:
-[baconjs/bacon.js](https://github.com/baconjs/bacon.js)
-[baconjs/bacon.jquery](https://github.com/baconjs/bacon.jquery)
-[baconjs/bacon.matchers: Matchers API for Bacon.js](https://github.com/baconjs/bacon.matchers)
-[baconjs/bacon.model: Model plugin for bacon.js](https://github.com/baconjs/bacon.model)
-[raimohanska/worzone: Game programming experiment with Bacon.js (no more RxJs)](https://github.com/raimohanska/worzone)
-
-Tutorials:
-[Bacon.js for dummies | Neethack](http://neethack.com/2013/02/bacon-dot-js-for-dummies/) basic definition of terms
-[javascript - Bacon.js: practical difference between a stream and a property - Stack Overflow](http://stackoverflow.com/questions/29297328/bacon-js-practical-difference-between-a-stream-and-a-property)
-[Sean Voisen » Learning FRP with Bacon.js by Way of Underscore](http://sean.voisen.org/blog/2014/12/functional-reactive-underscore/)
-[Bacon.js Cheat Sheet by ProLoser - Cheatography.com](https://www.cheatography.com/proloser/cheat-sheets/bacon-js/)
-
-[Bacon.js blog](http://baconjs.blogspot.hk/)
-[Bacon.js blog: Chicken, Egg and Bacon.js](http://baconjs.blogspot.hk/2013/02/chicken-egg-and-baconjs.html) UI pattern
-[We Don't Need No Stinkin' Frameworks: Writing Web Apps with Bacon.js and virtual-dom](http://blog.javascripting.com/2015/03/11/we-dont-need-no-stinkin-frameworks/)
-[Login form with Bacon.js | npmawesome.com](http://npmawesome.com/posts/2014-09-04-login-form-with-bacon-js/)
-[Reactive UIs with React & Bacon — Josh Bassett](http://joshbassett.info/2014/reactive-uis-with-react-and-bacon/)
-[Bacon.js blog: Wrapping Things in Bacon](http://baconjs.blogspot.hk/2013/12/wrapping-things-in-bacon.html)
-[Stephen Young - Functional programming with Javascript](http://stephen-young.me.uk/2013/01/20/functional-programming-with-javascript.html)
-[Stephen Young - Writing functional applications with Functional Reactive Programming and Bacon.js](http://stephen-young.me.uk/2013/03/16/functional-applications-with-frp.html)
-
-```js
-// jQuery
-$("#clickme").on("click", function (event) {
-  alert(event.target);
-});
-
-// Bacon
-clicked = $("#clickme").asEventStream("click");
-clicked.onValue(function (event) {
-  alert(event.target);
-});
-```
-
-Videos:
-[Enemy of the State: An introduction to functional reactive programming with Bacon.js - YouTube](https://www.youtube.com/watch?v=jIsxcXBWthI)
-[Philip Roberts: Enemy of the state: An introduction to Functional Reactive Programming and Bacon.js on Vimeo](https://vimeo.com/68987289)
-
-## Fantasy Land
-
-[Fantasy Land](https://github.com/fantasyland?type=source)
-[fantasyland/fantasy-land: Specification for interoperability of common algebraic structures in JavaScript](https://github.com/fantasyland/fantasy-land)
-
-## Monet
-
-[monet.js - For when you have no choice but to use JavaScript](http://cwmyers.github.io/monet.js/)
-
-[Practical Intro to Monads in JavaScript – Evojam Technology Blog](https://tech.evojam.com/2016/02/22/practical-intro-to-monads-in-javascript/)
-[Practical Intro to Monads in JavaScript: Either – Evojam Technology Blog](https://tech.evojam.com/2016/03/21/practical-intro-to-monads-in-javascript-either/)
-[Practical Intro to Monads in JavaScript: Validation – Evojam Technology Blog](https://tech.evojam.com/2016/04/26/practical-intro-to-monads-in-javascript-validation/)
-
-## Kefir.js
-
-[Kefir.js — fast and light Reactive Programming library for JavaScript inspired by Bacon.js and RxJS](http://rpominov.github.io/kefir/)
-[rpominov/kefir: A Reactive Programming library for JavaScript](https://github.com/rpominov/kefir)
+---
 
 ## Elm
 
@@ -507,6 +322,218 @@ Haskell use monads to carry out side effects
 [The Architecture of Open Source Applications: Riak and Erlang/OTP](http://www.aosabook.org/en/riak.html)
 [An Erlang OTP tutorial for beginners — A bot blog](http://blog.bot.co.za/en/article/349/an-erlang-otp-tutorial-for-beginners)
 
+## Kotlin
+
+[Arrow](https://arrow-kt.io/) Functional companion to Kotlin's Standard Library
+[Functional Programming with Kotlin and Arrow: Getting Started | raywenderlich.com](https://www.raywenderlich.com/9527-functional-programming-with-kotlin-and-arrow-getting-started)
+
+## JavaScript
+
+[Fundamentals of Functional JavaScript - DEV Community](https://dev.to/anmshpndy/functional-javascript-fundamentals-44f2) series
+[Functional Programming in Javascript === Garbage « Thomas Reynolds](http://awardwinningfjords.com/2014/04/21/functional-programming-in-javascript-equals-garbage.html)
+
+[stoeffel/awesome-fp-js: A curated list of awesome functional programming stuff in js](https://github.com/stoeffel/awesome-fp-js)
+
+[An Introduction to Functional JavaScript](http://www.sitepoint.com/introduction-functional-javascript/)
+[An Introduction to Reasonably Pure Functional Programming](https://www.sitepoint.com/an-introduction-to-reasonably-pure-functional-programming/)
+[Functional JavaScript: Building data structures from functions | InfoWorld](https://www.infoworld.com/article/3392877/functional-javascript-building-data-structures-from-functions.html)
+[Recursion in Functional JavaScript](http://www.sitepoint.com/recursion-functional-javascript/)
+[Higher-Order Functions in JavaScript](http://www.sitepoint.com/higher-order-functions-javascript/)
+[Course Introduction to Just Enough Functional Programming In JavaScript from @kyleshevlin on @eggheadio](https://egghead.io/lessons/javascript-course-introduction-to-just-enough-functional-programming-in-javascript)
+
+[What Is a Pure Function in JavaScript?](https://www.freecodecamp.org/news/what-is-a-pure-function-in-javascript-acb887375dfe/) deterministic (only rely on input) and has no side effects
+
+[The Two Pillars of JavaScript — Pt 2: Functional Programming — JavaScript Scene — Medium](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
+[Understanding recursion in functional JavaScript programming](http://www.integralist.co.uk/posts/js-recursion.html)
+[Polymorphic functions and method dispatch in JavaScript](https://ericleads.wordpress.com/2011/06/polymorphic-functions-and-multiple-dispatch-in-javascript/)
+
+[Getting Functional with Javascript (Part 1)](http://www.datchley.name/getting-functional-with-javascript-part-1/)
+[Getting Functional with Javascript (Part 2)](http://www.datchley.name/getting-functional-with-javascript-part-2/)
+[Getting Functional with Javascript (Part 3)](http://www.datchley.name/getting-functional-with-javascript-part-3/)
+
+[Functional JS #1: Introduction – DailyJS – Medium](https://medium.com/dailyjs/functional-js-1-introduction-7908bfe5ef8d)
+[Functional JS #2: Functions. Duh! – DailyJS – Medium](https://medium.com/dailyjs/functional-js-2-functions-duh-70bf22f87bb8)
+[Functional JS #7: Point-free style | by Krzysztof Czernek | DailyJS | Medium](https://medium.com/dailyjs/functional-js-7-point-free-style-b21a1416ac6a)
+
+[Introduction to Algebraic Structures — Functional Programming for JavaScript Developers](https://levelup.gitconnected.com/introduction-to-algebraic-structures-functional-programming-for-javascript-developers-cdd627943a4d)
+[Understanding Functional Programming in Javascript — A Complete Guide](https://levelup.gitconnected.com/understanding-functional-programming-in-javascript-a-complete-guide-e85ed13b42c8)
+
+`array.reduce()`
+[Understanding the Almighty Reducer | CSS-Tricks](https://css-tricks.com/understanding-the-almighty-reducer/)
+[Array.prototype.reduce() - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
+[JavaScript has a Reduce Method. You Should Use It. - Level Up Coding](https://levelup.gitconnected.com/javascript-has-a-reduce-method-you-should-use-it-ff4dd29d6c9d)
+
+[lodash](https://lodash.com/) [FP Guide · lodash/lodash Wiki](https://github.com/lodash/lodash/wiki/FP-Guide)
+[Underscore.js](https://underscorejs.org/)
+[you-dont-need/You-Dont-Need-Lodash-Underscore: List of JavaScript methods which you can use natively + ESLint Plugin](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
+[Why is Lodash Still Useful? - Level Up Coding](https://levelup.gitconnected.com/why-is-lodash-still-useful-1503a4215762)
+
+[wu.js — Higher order functions for ECMAScript 6 iterators](https://fitzgen.github.io/wu.js/)
+[alexreardon/memoize-one: A memoization library which only remembers the latest invocation](https://github.com/alexreardon/memoize-one)
+
+[getify/Functional-Light-JS: Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter.](https://github.com/getify/Functional-Light-JS)
+
+[functional js](http://fogus.github.io/lemonad/)
+[FredyC/promised-land](https://github.com/FredyC/promised-land/)
+[jussi-kalliokoski/trine](https://github.com/jussi-kalliokoski/trine)
+[LUISATENCIO.NET](http://www.luisatencio.net/)
+
+Immutability in JavaScript:
+[Immutable.js](https://facebook.github.io/immutable-js/)
+[planttheidea/unchanged: A tiny, fast, unopinionated handler for updating JS objects and arrays immutably](https://github.com/planttheidea/unchanged)
+[arqex/freezer: A tree data structure that emits events on updates, even if the modification is triggered by one of the leaves, making it easier to think in a reactive way.](https://github.com/arqex/freezer)
+
+> see `reactive-programming.md#rx`
+
+### Bacon.js
+
+[Bacon.js - Functional Reactive Programming library for JavaScript](https://baconjs.github.io/) [Tutorials](https://baconjs.github.io/tutorials.html)
+
+Source:
+[baconjs/bacon.js](https://github.com/baconjs/bacon.js)
+[baconjs/bacon.jquery](https://github.com/baconjs/bacon.jquery)
+[baconjs/bacon.matchers: Matchers API for Bacon.js](https://github.com/baconjs/bacon.matchers)
+[baconjs/bacon.model: Model plugin for bacon.js](https://github.com/baconjs/bacon.model)
+[raimohanska/worzone: Game programming experiment with Bacon.js (no more RxJs)](https://github.com/raimohanska/worzone)
+
+Tutorials:
+[Bacon.js for dummies | Neethack](http://neethack.com/2013/02/bacon-dot-js-for-dummies/) basic definition of terms
+[javascript - Bacon.js: practical difference between a stream and a property - Stack Overflow](http://stackoverflow.com/questions/29297328/bacon-js-practical-difference-between-a-stream-and-a-property)
+[Sean Voisen » Learning FRP with Bacon.js by Way of Underscore](http://sean.voisen.org/blog/2014/12/functional-reactive-underscore/)
+[Bacon.js Cheat Sheet by ProLoser - Cheatography.com](https://www.cheatography.com/proloser/cheat-sheets/bacon-js/)
+
+[Bacon.js blog](http://baconjs.blogspot.com/)
+[Bacon.js blog: Chicken, Egg and Bacon.js](http://baconjs.blogspot.com/2013/02/chicken-egg-and-baconjs.html) UI pattern
+[Bacon.js blog: Wrapping Things in Bacon](http://baconjs.blogspot.com/2013/12/wrapping-things-in-bacon.html)
+[We Don't Need No Stinkin' Frameworks: Writing Web Apps with Bacon.js and virtual-dom](http://blog.javascripting.com/2015/03/11/we-dont-need-no-stinkin-frameworks/)
+[Login form with Bacon.js | npmawesome.com](http://npmawesome.com/posts/2014-09-04-login-form-with-bacon-js/)
+[Reactive UIs with React & Bacon — Josh Bassett](http://joshbassett.info/2014/reactive-uis-with-react-and-bacon/)
+[Stephen Young - Functional programming with Javascript](http://stephen-young.me.uk/2013/01/20/functional-programming-with-javascript.html)
+[Stephen Young - Writing functional applications with Functional Reactive Programming and Bacon.js](http://stephen-young.me.uk/2013/03/16/functional-applications-with-frp.html)
+
+```js
+// jQuery
+$("#clickme").on("click", function (event) {
+  alert(event.target);
+});
+
+// Bacon
+clicked = $("#clickme").asEventStream("click");
+clicked.onValue(function (event) {
+  alert(event.target);
+});
+```
+
+Videos:
+[Enemy of the State: An introduction to functional reactive programming with Bacon.js - YouTube](https://www.youtube.com/watch?v=jIsxcXBWthI)
+[Philip Roberts: Enemy of the state: An introduction to Functional Reactive Programming and Bacon.js on Vimeo](https://vimeo.com/68987289)
+
+### Ramda
+
+[Ramda Documentation](http://ramdajs.com/)
+[ramda/ramda: :ram: Practical functional Javascript](https://github.com/ramda/ramda)
+
+[Hands-on Functional Programming with Ramda.js](https://www.sitepoint.com/functional-programming-with-ramda/)
+[Functional Programming Patterns With RamdaJS](https://www.i-programmer.info/news/167-javascript/12623-functional-programming-patterns-with-ramdajs.html)
+[Functional Programming Patterns With RamdaJS!](https://www.educative.io/courses/functional-programming-patterns-with-ramdajs)
+
+### Remeda
+
+[Remeda](https://remedajs.com/) supports both "data-first" and "data-last" API
+[remeda/remeda: A utility library for JavaScript and TypeScript.](https://github.com/remeda/remeda)
+
+### Monet
+
+[monet.js - Powerful abstractions for JavaScript](https://monet.github.io/monet.js/)
+[monet/monet.js: monet.js - Monadic types library for JavaScript](https://github.com/monet/monet.js)
+
+[Practical Intro to Monads in JavaScript – Evojam Technology Blog](https://tech.evojam.com/2016/02/22/practical-intro-to-monads-in-javascript/)
+[Practical Intro to Monads in JavaScript: Either – Evojam Technology Blog](https://tech.evojam.com/2016/03/21/practical-intro-to-monads-in-javascript-either/)
+[Practical Intro to Monads in JavaScript: Validation – Evojam Technology Blog](https://tech.evojam.com/2016/04/26/practical-intro-to-monads-in-javascript-validation/)
+
+### Deep Waters
+
+[antonioru/deep-waters: 🔥Deep Waters is an easy-to-compose functional validation system for javascript developers 🔥](https://github.com/antonioru/deep-waters)
+[What is Deep Waters - Deep Waters](https://antonioru.gitbook.io/deep-waters/)
+
+### Kefir.js
+
+[Kefir.js — fast and light Reactive Programming library for JavaScript inspired by Bacon.js and RxJS](https://kefirjs.github.io/kefir/)
+[kefirjs/kefir: A Reactive Programming library for JavaScript](https://github.com/kefirjs/kefir)
+
+### PureScript
+
+[PureScript](https://www.purescript.org/)
+[Try PureScript!](https://try.purescript.org/)
+[purescript/purescript: A strongly-typed language that compiles to JavaScript](https://github.com/purescript/purescript)
+
+[PureScript by Example by Phil Freeman [Leanpub PDF/iPad/Kindle]](https://leanpub.com/purescript/)
+[Functional Programming Concepts in Purescript from @_cmdv_ on @eggheadio](https://egghead.io/courses/functional-programming-concepts-in-purescript)
+
+### Fantasy Land
+
+[Fantasy Land](https://github.com/fantasyland?type=source)
+[fantasyland/fantasy-land: Specification for interoperability of common algebraic structures in JavaScript](https://github.com/fantasyland/fantasy-land)
+
+### ~~Highland.js~~
+
+[Highland.js](https://caolan.github.io/highland/)
+[caolan/highland: High-level streams library for Node.js and the browser](https://github.com/caolan/highland)
+
+### ~~Folktale~~
+
+[Home | Folktale, a standard library for functional programming in JavaScript](https://folktale.origamitower.com/)
+[origamitower/folktale: [not actively maintained!] A standard library for functional programming in JavaScript](https://github.com/origamitower/folktale)
+
+[Fun With Folktale - YouTube](https://www.youtube.com/watch?v=OghJR3BP0Ns)
+[Easier Asynchronous State Modelling in React Redux or Hooks](https://medium.com/@jesterxl/easier-asynchronous-state-modelling-in-react-redux-or-hooks-a05924b7bfa1)
+
+[Folktale 2 | Folktale, a standard library for functional programming in JavaScript](https://folktale.origamitower.com/docs/)
+
+[Fun With Folktale - YouTube](https://www.youtube.com/watch?v=OghJR3BP0Ns)
+
+## OCaml
+
+[[learn-to-code#OCaml]]
+
+## Python
+
+[An introduction to functional programming](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
+[Functional programming in Python: Immutable data structures | Opensource.com](https://opensource.com/article/18/10/functional-programming-python-immutable-data-structures)
+
+[Coconut Programming Language](http://coconut-lang.org/)
+[evhub/coconut: Simple, elegant, Pythonic functional programming.](https://github.com/evhub/coconut)
+[Coconut Tutorial — Coconut documentation](http://coconut.readthedocs.io/en/master/HELP.html)
+
+[i2y/mochi: Dynamically typed functional programming language](https://github.com/i2y/mochi) uses pyrsistent
+[Functional Python with Mochi · EuroPython 2015 · Bilbao, 20–26 July 2015](https://ep2015.europython.eu/conference/talks/functional-python-with-mochi)
+
+[tobgu/pyrsistent: Persistent/Immutable/Functional data structures for Python](https://github.com/tobgu/pyrsistent)
+[Welcome to Pyrsistent’s documentation!](https://pyrsistent.readthedocs.io/en/latest/)
+
+[Welcome to Hy’s documentation!](http://docs.hylang.org/en/stable/) Lisp inspired
+[try-hylang](https://try-hy.appspot.com/)
+
+[dry-python/returns: Make your functions return something meaningful, typed, and safe!](https://github.com/dry-python/returns)
+[Monadic error handling in Python ⚠ Write better Python code part 7b - YouTube](https://www.youtube.com/watch?v=J-HWmoTKhC8) Go-like (result, err) tuple
+
+[dg — it's a Python! No, it's a Haskell!](https://pyos.github.io/dg/) Haskell inspired
+[pyos/dg: A programming language for the CPython VM.](https://github.com/pyos/dg)
+[dg — kind of a tutorial.](http://pyos.github.io/dg/tutorial/)
+
+### Packages
+
+[Pursuit](https://pursuit.purescript.org/) package repo
+[PureScript](https://github.com/purescript) GitHub org
+
+[purescript-thermite - Pursuit](https://pursuit.purescript.org/packages/purescript-thermite/) wrapper for React
+
 ## Racket
 
 [Racket](https://racket-lang.org/)
+[racket/racket: The Racket repository](https://github.com/racket/racket)
+
+[Package Management in Racket](https://docs.racket-lang.org/pkg/index.html)
+[Racket Package Index](https://pkgs.racket-lang.org/)
+
+[Framework: Racket GUI Application Framework](https://docs.racket-lang.org/framework/index.html)

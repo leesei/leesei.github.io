@@ -2,7 +2,7 @@
 title: CSS Notes
 description: ""
 created: 2015-12-21
-updated: 2023-03-21
+updated: 2023-08-07
 tags:
   - css
   - web
@@ -163,6 +163,7 @@ Framework defines rules that are:
 
 [BlazeCSS - Open Source Modular CSS Framework](http://blazecss.com/)
 [CSS Blocks](https://css-blocks.com/)
+[NES.css - NES-style CSS Framework](https://nostalgic-css.github.io/NES.css/)
 
 [Fela](https://fela.js.org/)
 [Fela: Writing state-driven styles for React and React Native - LogRocket Blog](https://blog.logrocket.com/fela-state-driven-styles-react-react-native/)
@@ -335,16 +336,18 @@ Grid sizes
 [Responsive Design - Tailwind CSS](https://tailwindcss.com/docs/responsive-design)
 [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography)
 
-```sh
+```html
 <script src="https://cdn.tailwindcss.com"></script>
 ```
 
 [Framework Guides - Tailwind CSS](https://tailwindcss.com/docs/installation/framework-guides)
 [Tailwind CSS v3.3: Extended color palette, ESM/TS support, logical properties, and more - Tailwind CSS](https://tailwindcss.com/blog/tailwindcss-v3-3)
 [Tailwind CSS Tutorial for Beginners – How To Start?](https://codete.com/blog/tailwind-css-tutorial-and-examples-for-beginners)
+[Tailwind CSS Tips and Tricks Worth Knowing](https://www.builder.io/blog/tailwind-css-tips-and-tricks)
 
 [dcastil/tailwind-merge: Merge Tailwind CSS classes without style conflicts](https://github.com/dcastil/tailwind-merge)
 [Tailwind-Merge Is Incredibly Useful — And Here's Why! - YouTube](https://www.youtube.com/watch?v=tfgLd5ZSNPc)
+[cn() - Every Tailwind Coder Needs It (clsx + twMerge) - YouTube](https://www.youtube.com/watch?v=re2JFITR7TI)
 
 [vimeshjs/vimesh-style: Vimesh Style is a full-featured tiny javascript library alternative to Tailwind CSS. Automatically work with any frontend frameworks, including React, Vue, AngularJS ect.](https://github.com/vimeshjs/vimesh-style)
 [Typewind – Typesafe Tailwind](https://typewind.dev/)
@@ -401,7 +404,7 @@ Copy and paste
 
 [partydeck/game at main · itays123/partydeck](https://github.com/itays123/partydeck/tree/main/game) CRA+craco example
 
-### Windi
+### ~~~Windi~~~
 
 > on-demand alternative to Tailwind, inspired Tailwind to implement JIT engine (available since Tailwind 2.1)
 
@@ -410,6 +413,15 @@ Copy and paste
 
 [The Story | Windi CSS](https://windicss.org/posts/story.html)
 [Tailwind CSS vs Windi CSS](https://larainfo.com/blogs/tailwind-css-vs-windi-css)
+
+### Panda CSS
+
+[Panda CSS - Build modern websites using build time and type-safe CSS-in-JS](https://panda-css.com/)
+[chakra-ui/panda: 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️](https://github.com/chakra-ui/panda)
+
+[Panda CSS - Refactor a NextJS Typescript Quiz App from Tailwind to Panda CSS. - YouTube](https://www.youtube.com/watch?v=ZkUiMBUatEM)
+[Why Panda: CSS for RSCs is Changing the Game - YouTube](https://www.youtube.com/watch?v=fKSemrudovo)
+[jherr/barbenheimer: Completed barbenheimer example in TW and Panda-CSS](https://github.com/jherr/barbenheimer)
 
 ### Milligram
 
@@ -427,6 +439,10 @@ Copy and paste
 ### MUI
 
 [MUI-最接近原生 APP 体验的高性能前端框架](https://dev.dcloud.net.cn/mui/)
+
+### Pico.css
+
+[Pico.css • Minimal CSS Framework for semantic HTML](https://picocss.com/)
 
 ### TACHYONS
 
@@ -799,6 +815,8 @@ $x("//div[@class='con-box'][contains(., 'EPH Reader')]");
 [CSS static and relative positioning - W3C Wiki](https://www.w3.org/wiki/CSS_static_and_relative_positioning)
 [CSS absolute and fixed positioning - W3C Wiki](https://www.w3.org/wiki/CSS_absolute_and_fixed_positioning)
 
+[Learn CSS Positioning Quickly With A Real World Example - YouTube](https://www.youtube.com/watch?v=MxEtxo_AaZ4)
+
 [Advanced Positioning Tutorial | HTML & CSS Is Hard](https://internetingishard.com/html-and-css/advanced-positioning/)
 [CSS Positioning Explained By Building An Ice Cream Sundae](https://www.freecodecamp.org/news/css-positioning-explained-by-building-an-ice-cream-sundae-831cb884bfa9)
 [static, relative, absolute, fixed, sticky - Understanding the difference - Dillion's Blog](https://dillionmegida.com/p/static-relative-absolute-fixed-sticky-positions/)
@@ -940,6 +958,14 @@ The overlay should be a `absolute` position in a `relative` container, together 
   - Sticky
 - Flexbox
 - Grid
+
+```css
+/* https://www.youtube.com/watch?v=SGlpOnIgk1w */
+.container {
+  width: min(100%-2rem, 960px);
+  margin-inline: auto;
+}
+```
 
 [Learn CSS Layout](http://learnlayout.com/)
 [display | CSS-Tricks](https://css-tricks.com/almanac/properties/d/display/)
@@ -1196,9 +1222,12 @@ IE 10 and 11 support a outdated Grid syntax.
 [A Complete Guide to the Table Element | CSS-Tricks](https://css-tricks.com/complete-guide-table-element/)
 [table-layout | CSS-Tricks](https://css-tricks.com/almanac/properties/t/table-layout/)
 
+[A Responsive Accessible Table — Adrian Roselli](https://adrianroselli.com/2017/11/a-responsive-accessible-table.html)
+[How to create a responsive HTML table - YouTube](https://www.youtube.com/watch?v=czZ1PvNW5hk)
+
 ### Float
 
-> while float works, do consider using flexbox
+> while float still works, do consider using flexbox
 
 [All About Floats | CSS-Tricks](https://css-tricks.com/all-about-floats/)
 [A new micro clearfix hack – Nicolas Gallagher](http://nicolasgallagher.com/micro-clearfix-hack/)

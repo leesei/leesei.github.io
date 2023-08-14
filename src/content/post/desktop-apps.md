@@ -2,7 +2,7 @@
 title: Desktop Apps
 description: ""
 created: 2015-05-20
-updated: 2023-04-18
+updated: 2023-08-08
 tags:
   - app
   - desktop
@@ -87,6 +87,9 @@ For the softwares I install on my system, see [[arch-packages]].
 [Getting Started with Tracker - YouTube](https://www.youtube.com/watch?v=La3H7JywgX0)
 
 [SimScale - CFD, FEA, and Thermal Simulation in the Cloud | CAE](https://www.simscale.com/)
+
+[mellowcandle/bitwise: Terminal based bit manipulator in ncurses](https://github.com/mellowcandle/bitwise)
+[Bitwise: Multi-Base Interactive Calculator For Your Terminal - YouTube](https://www.youtube.com/watch?v=6i9NId1mzf8)
 
 ### Astrology
 
@@ -215,6 +218,9 @@ cat ./data/id_ed25519.pub
 
 [Geeqie Image Viewer](http://geeqie.org/)
 [nomacs | Image Lounge](http://nomacs.org/)
+
+[xyb3rt/sxiv: Simple X Image Viewer](https://github.com/xyb3rt/sxiv)
+[feh – a fast and light image viewer](https://feh.finalrewind.org/) default is not sane
 
 [MComix / Wiki / Home](https://sourceforge.net/p/mcomix/wiki/Home/)
 [leopck/MangaMeeya: MangaMeeya Comic Viewer](https://github.com/leopck/MangaMeeya)
@@ -514,25 +520,33 @@ x Download Todo.txt mobile app @Phone
 [ManuelSchneid3r/albert](https://github.com/ManuelSchneid3r/albert) plugins in Qt/C++
 [Synapse in Launchpad](https://launchpad.net/synapse-project)
 [Launchy: The Open Source Keystroke Launcher](http://www.launchy.net/)
-[DaveDavenport/rofi: Rofi: A window switcher, application launcher and dmenu replacement](https://github.com/DaveDavenport/rofi/)
 
-Windows:
-[Wox](http://www.getwox.com/)
-[Cerebro App – open-source productivity booster with a brain](https://cerebroapp.com/)
-[Find and Run Robot - DonationCoder.com](https://www.donationcoder.com/software/mouser/popular-apps/farr) Launcher
-[LaunchBar Commander - DonationCoder.com](https://www.donationcoder.com/software/mouser/popular-apps/launchbar-commander) Dock
-[donationcoder / mouser - YouTube](https://www.youtube.com/user/mouseryt/featured)
-[Home - Command E](https://getcommande.com/)
+dmenu: run prompt with auto complete
+[Add An Applications Menu To Any Window Manager - YouTube](https://www.youtube.com/watch?v=wMrdCbrQjnQ)
 
-Mac:
-["Quick Web Search" for Spotlight — Flashlight](http://flashlight.nateparrott.com/plugin/quicksearch)
+### Rofi
 
-[Alfred - Productivity App for Mac OS X](https://www.alfredapp.com/)
-[Workflows | Packal](http://www.packal.org/workflow-list)
-[vitorgalvao/alfred-workflows: Collection of Alfred workflows](https://github.com/vitorgalvao/alfred-workflows)
+[davatorium/rofi: Rofi: A window switcher, application launcher and dmenu replacement](https://github.com/davatorium/rofi)
 
-[Raycast](https://www.raycast.com/)
-[Introduction - Raycast API](https://developers.raycast.com/)
+[adi1090x/rofi: A huge collection of Rofi based custom Applets, Launchers & Powermenus.](https://github.com/adi1090x/rofi)
+[Mange/rofi-emoji: Emoji selector plugin for Rofi](https://github.com/Mange/rofi-emoji)
+
+[How to Setup and Configure Rofi (The Best App Launcher) - YouTube](https://www.youtube.com/watch?v=TutfIwxSE_s)
+[Rofi Is Like Dmenu But Sucks Less - YouTube](https://www.youtube.com/watch?v=a2GWqF32U8Q)
+[Make Rofi More Awesome With These Scripts - YouTube](https://www.youtube.com/watch?v=9yLULFzmg3o)
+[Using Rofi for EVERYTHING! (Wifi menu, emoji selector, calculator, & more) - YouTube](https://www.youtube.com/watch?v=v8w1i3wAKiw)
+[Rofi - Application Launcher, Window Switcher and Run Command Utility - YouTube](https://www.youtube.com/watch?v=Wkrw_kyXfhg)
+[Using Rofi for EVERYTHING! (Wifi menu, emoji selector, calculator, & more) - YouTube](https://www.youtube.com/watch?v=v8w1i3wAKiw)
+
+### Ulauncher
+
+> Python + Gtk
+
+[Ulauncher — Application launcher for Linux 🐧](https://ulauncher.io/)
+[Browse Extensions — Ulauncher Extensions](https://ext.ulauncher.io/)
+
+[Ulauncher - An Application Launcher for Linux Desktops](https://www.fossmint.com/ulauncher-application-launcher-for-ubuntu-linux/)
+[Ulauncher Fast Application Launcher - YouTube](https://www.youtube.com/watch?v=XbrHkccJ7Ic)
 
 ### Albert
 
@@ -559,12 +573,49 @@ Plugins are Native Qt Plugins
 `/usr/lib/albert/plugins`
 [plugins/templateExtension at master · albertlauncher/plugins](https://github.com/albertlauncher/plugins/tree/master/templateExtension)
 
-### Ulauncher
+### Windows
 
-[Ulauncher — Application launcher for Linux 🐧](https://ulauncher.io/)
-[Browse Extensions — Ulauncher Extensions](https://ext.ulauncher.io/)
+[Wox](http://www.getwox.com/)
+[Cerebro App – open-source productivity booster with a brain](https://cerebroapp.com/)
+[Find and Run Robot - DonationCoder.com](https://www.donationcoder.com/software/mouser/popular-apps/farr) Launcher
+[LaunchBar Commander - DonationCoder.com](https://www.donationcoder.com/software/mouser/popular-apps/launchbar-commander) Dock
+[donationcoder / mouser - YouTube](https://www.youtube.com/user/mouseryt/featured)
+[Home - Command E](https://getcommande.com/)
 
-[Ulauncher - An Application Launcher for Linux Desktops](https://www.fossmint.com/ulauncher-application-launcher-for-ubuntu-linux/)
+### OSX
+
+["Quick Web Search" for Spotlight — Flashlight](http://flashlight.nateparrott.com/plugin/quicksearch)
+
+[Alfred - Productivity App for Mac OS X](https://www.alfredapp.com/)
+[Workflows | Packal](http://www.packal.org/workflow-list)
+[vitorgalvao/alfred-workflows: Collection of Alfred workflows](https://github.com/vitorgalvao/alfred-workflows)
+
+[Raycast](https://www.raycast.com/) free tier
+[Introduction - Raycast API](https://developers.raycast.com/)
+
+## File Manager
+
+[gokcehan/lf: Terminal file manager](https://github.com/gokcehan/lf)
+[Integrations · gokcehan/lf Wiki · GitHub](https://github.com/gokcehan/lf/wiki/Integrations)
+[Lf: How To Turn It Into A Really Powerful File Manager - YouTube](https://www.youtube.com/watch?v=Lrgt35ruInA)
+
+[Broot](https://dystroy.org/broot/)
+[Canop/broot: A new way to see and navigate directory trees : https://dystroy.org/broot](https://github.com/Canop/broot)
+[Broot: An Innovative Way To View Your Linux File System - YouTube](https://www.youtube.com/watch?v=eTtarjSJ0yU) faster then `fzf` as hidden files a ignored
+[Broot Is A Better Way To Navigate Directories - YouTube](https://www.youtube.com/watch?v=lGD-wsQO_lI)
+
+Spacefm
+Pcmanfm
+Thunar
+
+[Dragon: How To Add Drag And Drop Support To Any Terminal - YouTube](https://www.youtube.com/watch?v=cbegEIczdNQ)
+[Dragon: Eliminate The Need For All GUI File Managers! - YouTube](https://www.youtube.com/watch?v=GZ4YM7x_Fb4)
+
+## File Transfer
+
+[Warp: An Open-Source Secure File Sharing App That Works Cross-Platform](https://news.itsfoss.com/warp-file-sharing/)
+[World / Warp · GitLab](https://gitlab.gnome.org/World/warp?ref=news.itsfoss.com)
+[magic-wormhole · GitHub](https://github.com/magic-wormhole)
 
 ## Multimedia
 
@@ -642,16 +693,6 @@ Plugins are Native Qt Plugins
 
 [Stremio - Watch Instantly](http://www.strem.io/)
 
-[mpv.io](https://mpv.io/)
-[mpv.io manual](https://mpv.io/manual/master/#interactive-control)
-[mpv.io config file](https://mpv.io/manual/master/#configuration-files)
-[mpv.io options](https://mpv.io/manual/master/#options)
-Configs are in `~/.config/mpv`, sample from `/usr/share/doc/mpv/`
-Windows (Chocolatey): `%APPDATA%\mpv`, `C:\ProgramData\chocolatey\lib\mpv.install\tools\mpv`
-
-`mpv --input-test --force-window --idle`
-test input key and its binding
-
 [VideoLAN - Official page for VLC media player, the Open Source video framework!](http://www.videolan.org/vlc/index.html)
 
 Windows
@@ -668,6 +709,25 @@ Windows
 
 [Adobe Flash Player - Debug Downloads](https://www.adobe.com/support/flashplayer/debug_downloads.html) `flashplayer-standalone`
 [Ruffle | Flash Player emulator written in the Rust programming language](https://ruffle.rs/)
+
+#### mpv
+
+[mpv.io](https://mpv.io/)
+[mpv.io manual](https://mpv.io/manual/master/#interactive-control)
+[mpv.io config file](https://mpv.io/manual/master/#configuration-files)
+[mpv.io options](https://mpv.io/manual/master/#options)
+Configs are in `~/.config/mpv`, sample from `/usr/share/doc/mpv/`
+Windows (Chocolatey): `%APPDATA%\mpv`, `C:\ProgramData\chocolatey\lib\mpv.install\tools\mpv`
+
+`mpv --input-test --force-window --idle`
+test input key and its binding
+
+[stax76/awesome-mpv: A curated list of awesome mpv resources.](https://github.com/stax76/awesome-mpv)
+
+[mpv-script · GitHub Topics · GitHub](https://github.com/topics/mpv-script)
+[User Scripts · mpv-player/mpv Wiki · GitHub](https://github.com/mpv-player/mpv/wiki/User-Scripts)
+[CogentRedTester/mpv-scripts: A collection of scripts for mpv player](https://github.com/CogentRedTester/mpv-scripts)
+[Making Mpv Even Better With Some Lua Scripts - YouTube](https://www.youtube.com/watch?v=b8GoHyKw_8Q)
 
 ### UPnP/DLNA
 
@@ -831,9 +891,22 @@ Windows
 [Carnac the Magnificent by Code52](http://carnackeys.com/) show key pressed
 [Screen Recorder: Record Screen for Free - Icecream Apps](https://icecreamapps.com/Screen-Recorder/) with mouse highlight effects
 
-### Show Key Presses
+### Show key presses
 
-[AxDSan/KeyPose: An Alternative to 'Mouseposé' for Windows,](https://github.com/AxDSan/KeyPose) show keyboard input
+[Screenkey Alternatives: Top 10 Screen Casting Tools and similar apps | AlternativeTo](https://alternativeto.net/software/screenkey/)
+
+[AxDSan/KeyPose: An Alternative to 'Mouseposé' for Windows,](https://github.com/AxDSan/KeyPose)
+[Carnac the Magnificent by Code52](http://carnackeys.com/)
+
+[screenkey / screenkey · GitLab](https://gitlab.com/screenkey/screenkey)
+[Screencast your keys.](https://www.thregr.org/~wavexx/software/screenkey/)
+
+[scottkirkwood/key-mon: Automatically exported from code.google.com/p/key-mon](https://github.com/scottkirkwood/key-mon)
+
+[AlynxZhou/showmethekey: Show keys you typed on screen.](https://github.com/AlynxZhou/showmethekey) Wayland
+[ShowMeTheKey The Better Wayland Screenkey Clone - YouTube](https://www.youtube.com/watch?v=GUjkv1psNYo)
+
+### Show gamepad input
 
 [Gamepad Viewer](https://gamepadviewer.com/) better skin
 [Gamepad Viewer - Version 0.7.0 Changes - YouTube](https://www.youtube.com/watch?v=_jdupqY9oxM)
@@ -968,18 +1041,8 @@ wmic DISKDRIVE
 [Cathode | Secret Geometry](http://www.secretgeometry.com/apps/cathode/)
 [Swordfish90/cool-retro-term: A good looking terminal emulator which mimics the old cathode display...](https://github.com/Swordfish90/cool-retro-term)
 
-[Tilix: A tiling terminal emulator](https://gnunn1.github.io/tilix-web/)
-[gnunn1/tilix: A tiling terminal emulator for Linux using GTK+ 3](https://github.com/gnunn1/tilix)
-
-[Warp: The terminal for the 21st century](https://www.warp.dev/) OSX, requires login
-[Warp Terminal — a reimagined terminal experience! - YouTube](https://www.youtube.com/watch?v=wdrjIHzGW74)
-
-[WezTerm - Wez's Terminal Emulator](https://wezfurlong.org/wezterm/)
-[GitHub - wez/wezterm: A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust](https://github.com/wez/wezterm)
-
-[Hyper™](https://hyper.is/)
-
 [kitty - the fast, featureful, GPU based terminal emulator — kitty documentation](https://sw.kovidgoyal.net/kitty/)
+[Kitty Is A Fast And Feature Rich Terminal Emulator - YouTube](https://www.youtube.com/watch?v=TTzP2zYJn2k)
 
 [Alacritty - A cross-platform, OpenGL terminal emulator](https://alacritty.org/)
 [alacritty/alacritty: A cross-platform, OpenGL terminal emulator.](https://github.com/alacritty/alacritty)
@@ -987,12 +1050,31 @@ wmic DISKDRIVE
 
 [Tabby - a terminal for a more modern age](https://tabby.sh/)
 
+[Tilix: A tiling terminal emulator](https://gnunn1.github.io/tilix-web/)
+[gnunn1/tilix: A tiling terminal emulator for Linux using GTK+ 3](https://github.com/gnunn1/tilix)
+
+[WezTerm - Wez's Terminal Emulator](https://wezfurlong.org/wezterm/)
+[GitHub - wez/wezterm: A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust](https://github.com/wez/wezterm)
+
+[Hyper™](https://hyper.is/)
+
 [subhra74/snowflake: Graphical SFTP client and terminal emulator with helpful utilities](https://github.com/subhra74/snowflake) cross platforms, SFTP
 
+[Warp: The terminal for the 21st century](https://www.warp.dev/) OSX, requires login
+[Warp Terminal — a reimagined terminal experience! - YouTube](https://www.youtube.com/watch?v=wdrjIHzGW74)
+
+Windows
 [MobaXterm free Xserver and tabbed SSH client for Windows](https://mobaxterm.mobatek.net/)
 [Cmder | Console Emulator](https://cmder.net/)
 [ConEmu - Handy Windows Terminal](https://conemu.github.io/)
 [poderosaproject/poderosa](https://github.com/poderosaproject/poderosa)
+
+### Scratchpad
+
+[noctuid/tdrop: A Glorified WM-Independent Dropdown Creator](https://github.com/noctuid/tdrop)
+[How To Add A Scratchpad To Any Window Manager With Tdrop - YouTube](https://www.youtube.com/watch?v=TbbsjyoK0J4)
+
+[ddterm/gnome-shell-extension-ddterm: Another drop down terminal extension for GNOME Shell. With tabs. Works on Wayland natively](https://github.com/ddterm/gnome-shell-extension-ddterm)
 
 ### Windows Terminal
 
@@ -1026,6 +1108,20 @@ Sometimes the `wt.exe` alias is broken after update, go to "App execution alias"
 
 [Windows Terminal Color Schemes | Microsoft Docs](https://docs.microsoft.com/en-us/windows/terminal/customize-settings/color-schemes)
 [Dark theme for Windows Terminal and 154+ apps — Dracula](https://draculatheme.com/windows-terminal/)
+
+## Color Schemes
+
+[terminal.sexy - Terminal Color Scheme Designer](https://terminal.sexy/)
+[Gogh - Color Scheme](https://gogh-co.github.io/Gogh/)
+
+[Gorgeous Color Schemes For Terminals And Text Editors - YouTube](https://www.youtube.com/watch?v=xGJOsvK4o6k)
+
+[Dracula — Dark theme for 342+ apps](https://draculatheme.com/)
+
+[Catppuccin · GitHub](https://github.com/catppuccin)
+[catppuccin/catppuccin: 😸 Soothing pastel theme for the high-spirited!](https://github.com/catppuccin/catppuccin)
+
+Solarize Dark
 
 ## Serial console
 
@@ -1087,12 +1183,8 @@ numactl
 [DAG: Dstat: Versatile resource statistics tool](http://dag.wiee.rs/home-made/dstat/)
 [How to Monitor Ubuntu Performance Using Netdata](https://www.tecmint.com/monitor-ubuntu-performance-using-netdata/amp/)
 
-[lm_sensors - ArchWiki](https://wiki.archlinux.org/title/lm_sensors)
-
-```sh
-sudo sensors-detect
-sensors
-```
+[nmon for Linux | Main / HomePage](https://nmon.sourceforge.net/pmwiki.php?n=Main.HomePage)
+[Nmon - Terminal-Based System Performance Monitor - YouTube](https://www.youtube.com/watch?v=8PQr055Cn4s)
 
 [Apps/SystemMonitor - GNOME Wiki!](https://wiki.gnome.org/Apps/SystemMonitor)
 
@@ -1105,6 +1197,7 @@ sensors
 
 [Glances - An Eye on your system](https://nicolargo.github.io/glances/)
 [Glances - An Advanced Real Time System Monitoring Tool for Linux](http://www.tecmint.com/glances-an-advanced-real-time-system-monitoring-tool-for-linux/)
+[Glances - Terminal-Based System Monitoring Tool - YouTube](https://www.youtube.com/watch?v=Sc-L5egqz1g)
 
 [Conky - Home](http://conky.sourceforge.net/)
 
@@ -1113,7 +1206,11 @@ sensors
 
 [lm_sensors - ArchWiki](https://wiki.archlinux.org/title/Lm_sensors)
 [How to check CPU temperature on Ubuntu Linux - nixCraft](https://www.cyberciti.biz/faq/how-to-check-cpu-temperature-on-ubuntu-linux/)
-`sudo sensors-detect`
+
+```sh
+sudo sensors-detect
+sensors
+```
 
 [Sysprof - Statistical, system-wide Profiler for Linux](http://www.sysprof.com/)
 [Profiling entire system activity with sysprof | Linux.com | The source for Linux information](https://www.linux.com/news/profiling-entire-system-activity-sysprof)
@@ -1139,6 +1236,9 @@ sensors
 [NCurses Disk Usage](https://dev.yorhel.nl/ncdu) `ncdu`
 [bootandy/dust: A more intuitive version of du in rust](https://github.com/bootandy/dust)
 [Byron/dua-cli: View disk space usage and delete unwanted data, fast.](https://github.com/Byron/dua-cli)
+[KSXGitHub/parallel-disk-usage: Highly parallelized, blazing fast directory tree analyzer](https://github.com/KSXGitHub/parallel-disk-usage)
+[scullionw/dirstat-rs: (fastest?) disk usage cli, similar to windirstat.](https://github.com/scullionw/dirstat-rs)
+[nachoparker/dutree: a tool to analyze file system usage written in Rust](https://github.com/nachoparker/dutree)
 
 [xdiskusage download | SourceForge.net](http://sourceforge.net/projects/xdiskusage/)
 

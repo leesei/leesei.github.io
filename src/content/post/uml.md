@@ -2,8 +2,9 @@
 title: UML
 description: ""
 created: 2015-04-14
+updated: 2023-08-09
 tags:
-  - comp.lang
+  - comp/lang
   - uml
 ---
 
@@ -116,6 +117,7 @@ DITAA, Salt, JCCKit, Sudoku, XEarth
 [PlantUML Pleasantness -Messages from mrhaki](http://mrhaki.blogspot.hk/search/label/PlantUML%3APleasantness)
 [PlantUML Diagrams | SAP Blogs](https://blogs.sap.com/2017/04/27/plantuml-diagrams/)
 [PlantUML Tips and Tricks | Codit](https://www.codit.eu/blog/plantuml-tips-and-tricks/?country_sel=be)
+[Make your documentation awesome with PlantUML! - Dawid Kotarba](https://dawidkotarba.eu/make-your-documentation-awesome-with-plantuml/)
 
 Live Editor:
 [PlantUML Web Server](http://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000)

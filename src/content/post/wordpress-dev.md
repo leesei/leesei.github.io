@@ -457,24 +457,16 @@ Different sidebar depending on page, usually in `sidebar.php`:
 <div id="sidebar">
 if ( is_front_page() ) { if ( !dynamic_sidebar("front-page-sidebar") ) : ?>
 <li>front-page-sidebar is empty</li>
-<?php endif;
-    }
-    elseif ( is_category('news') || in_category('news') ) {
-        if ( !dynamic_sidebar("news-sidebar") ) : ?>
+<?php endif; } elseif ( is_category('news') || in_category('news') ) { if (
+!dynamic_sidebar("news-sidebar") ) : ?>
 <li>news-sidebar is empty</li>
-<?php endif;
-    }
-    elseif ( is_single() ) {  // is_singular() for both Posts/Pages
-        if ( !dynamic_sidebar("post-sidebar") ) : ?>
+<?php endif; } elseif ( is_single() ) { // is_singular() for both Posts/Pages if
+( !dynamic_sidebar("post-sidebar") ) : ?>
 <li>post-sidebar is empty</li>
-<?php endif;
-    }
-    elseif ( is_page() ) {
-        if ( !dynamic_sidebar("page-sidebar") ) : ?>
-<li>page-sidebar is empty</li>
-<?php endif;
-    }
+<?php endif; } elseif ( is_page() ) { if ( !dynamic_sidebar("page-sidebar") ) :
 ?>
+<li>page-sidebar is empty</li>
+<?php endif; } ?>
 ```
 
 ### Adding Nav Menu
@@ -493,9 +485,7 @@ register_nav_menus( array(
 Add to the desired location in the theme:
 
 ```html
-<div id="header-bottom">
-  <?php wp_nav_menu('top-navigation') ?>
-</div>
+<div id="header-bottom"><?php wp_nav_menu('top-navigation') ?></div>
 ```
 
 ### Customizer

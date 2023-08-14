@@ -37,10 +37,10 @@ tags:
 ## TV
 
 [HUNTER×HUNTER 第一作（1999 年） - Wikiwand](https://www.wikiwand.com/zh/HUNTER×HUNTER#/第一作（1999年）)
-[List of Hunter × Hunter (1999) episodes - Wikiwand](https://www.wikiwand.com/en/List_of_Hunter_×_Hunter_(1999%29_episodes) 62 episodes
+[List of Hunter × Hunter (1999) episodes - Wikiwand](<https://www.wikiwand.com/en/List_of_Hunter_×_Hunter_(1999)_episodes>) 62 episodes
 [List of Hunter × Hunter OVA episodes - Wikiwand](https://www.wikiwand.com/en/List_of_Hunter_×_Hunter_OVA_episodes) 幻影旅団, G.I.
 [johnandre1123581321 - YouTube](https://www.youtube.com/user/johnandre1123581321/search?query=Hunter+X+Hunter) OVA 1+2
 
 [Why Hunter X Hunter (2011) Kicks Ass! - YouTube](https://www.youtube.com/watch?v=xnt5zE-Cu1A) remake in 2011
 [HUNTER×HUNTER 第二作（2011 年） - Wikiwand](https://www.wikiwand.com/zh/HUNTER×HUNTER#/第二作（2011年）)
-[List of Hunter × Hunter (2011) episodes - Wikiwand](https://www.wikiwand.com/en/List_of_Hunter_×_Hunter_(2011%29_episodes)
+[List of Hunter × Hunter (2011) episodes - Wikiwand](<https://www.wikiwand.com/en/List_of_Hunter_×_Hunter_(2011)_episodes>)

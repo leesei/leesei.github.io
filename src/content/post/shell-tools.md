@@ -2,6 +2,7 @@
 title: Shell Tools
 description: ""
 created: 2015-01-14
+updated: 2023-07-27
 tags:
   - app
   - cpio
@@ -54,6 +55,7 @@ tags:
 
 [denisidoro/navi: An interactive cheatsheet tool for the command-line](https://github.com/denisidoro/navi)
 [b4b4r07/enhancd: A next-generation cd command with your interactive filter](https://github.com/b4b4r07/enhancd)
+[ajeetdsouza/zoxide: A smarter cd command. Supports all major shells.](https://github.com/ajeetdsouza/zoxide)
 
 [Command line utilities — list of Rust libraries/crates // Lib.rs](https://lib.rs/command-line-utilities)
 [blindspot — command-line utility in Rust // Lib.rs](https://lib.rs/crates/blindspot)
@@ -554,7 +556,8 @@ fortune | cowsay -f stegosaurus
 
 [jzelinskie/faq: Format Agnostic jQ](https://github.com/jzelinskie/faq)
 
-[antonmedv/fx: Terminal JSON viewer](https://github.com/antonmedv/fx) viewer and reducer
+[antonmedv/fx: Terminal JSON viewer](https://github.com/antonmedv/fx) viewer and run JavaScript code on JSON
+[FX: Powerful Terminal JSON Visualizer And Processor - YouTube](https://www.youtube.com/watch?v=HNzL_7v56WQ)
 
 [simeji/jid: json incremental digger](https://github.com/simeji/jid) interactive filter with autocomplete
 

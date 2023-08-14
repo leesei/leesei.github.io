@@ -2,6 +2,7 @@
 title: Philosophy
 description: ""
 created: 2015-06-29
+updated: 2023-07-23
 tags:
   - philosophy
 ---
@@ -30,6 +31,10 @@ Consciousness is passive and created by sub-conscious
 
 ## Living in a computer simulation
 
+> citing the Principle of Indifference: when multiple explanations are plausible and we have no good evidence to bias any of them, we shall assume they are equally likely
+
+[The Simulation Argument](https://www.simulation-argument.com/)
+
 [How do we know that we're not living in a computer simulation? - Quora](http://www.quora.com/How-do-we-know-that-were-not-living-in-a-computer-simulation)
 [Are You Living in a Computer Simulation?](http://www.simulation-argument.com/)
 [Do We Live in a Simulation? Chances Are about 50–50 - Scientific American](https://www.scientificamerican.com/article/do-we-live-in-a-simulation-chances-are-about-50-50/)
@@ -46,9 +51,23 @@ Consciousness is passive and created by sub-conscious
 [Why Elon Musk says we're living in a simulation - YouTube](https://www.youtube.com/watch?v=J0KHiiTtt4w)
 [Is Reality Real? The Simulation Argument - YouTube](https://www.youtube.com/watch?v=tlTKTTt47WE)
 
+Isaac Arthur
+[The Simulation Hypothesis - YouTube](https://www.youtube.com/watch?v=nXIpR_agyl4)
+[Post Scarcity Civilizations: Reality & Simulation - YouTube](https://www.youtube.com/watch?v=dNN8f5ofCcQ)
+[What Are Ancestor Simulations... And Are We Living In One? - YouTube](https://www.youtube.com/watch?v=KN7sekRxFHg)
+[Hacking The Simulation - YouTube](https://www.youtube.com/watch?v=cquTWnEYFQw)
+
 [用科學證明我們的世界其實就是虛擬現實（VR） | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=1ox6JDv8D3Y)
 [世界是虛擬的但有一個東西是真實的 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=B-I2guiXzRA)
 [證明這個世界是虛擬現實的八個證據，而我們本身也有可能是一種非常可怕的存在 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=ndLOF9jJnR4)
+
+## Boltzman Brain
+
+A brain conjured up from nowhere is more probable then the low entropy state that Big Bang started from.
+
+[Boltzmann Brains - Why The Universe is Most Likely a Simulation - YouTube](https://www.youtube.com/watch?v=9UfQb_-XAuY)
+[Boltzmann Brains & the Anthropic Principle - YouTube](https://www.youtube.com/watch?v=GrK9EaQRp2I)
+[Boltzmann Brain Paradox Explained in Simple Words - YouTube](https://www.youtube.com/watch?v=egOxIjb4QhI)
 
 ## Knowledge Theory
 

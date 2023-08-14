@@ -4,6 +4,7 @@ description: ""
 created: 2016-02-14
 tags:
   - history
+  - history/japanese
 ---
 
 [日本历史 - Wikiwand](http://www.wikiwand.com/zh/日本历史)
@@ -19,6 +20,8 @@ tags:
 
 [超出你想像的繩文人，比目前已知最古老的人類文明還早一萬年，他們為何不停用泥土造人，究竟如何來到這裡 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=jFQPvAHwVK0)
 [附時間戳，日本古代史合集，從神紋時代到江戶時代 |彌生時代|古墳時代|飛鳥時代|奈良時代|平安時代|院政時代|鐮倉時代|日本南北朝時代|室町幕府|日本戰國時代|江戶時代|日本天皇|幕府將軍|豐城秀吉| - YouTube](https://www.youtube.com/watch?v=wEXX8GxfmQE)
+[以時代為基礎說完日本全歷史! 簡介所有日本時代! (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=pCADnLc7bSY)
+[【扫盲班】第 17 期：整明白日本历史！ - YouTube](https://www.youtube.com/watch?v=hGnEdkLLHUY)
 [深日本#47 ▶ 天皇為何不多娶幾個老婆？平成後新年號預測！｜好倫｜ - YouTube](https://www.youtube.com/watch?v=c_hw6hfW-y8)
 
 繩文時代 14000B.C.-

@@ -2,9 +2,9 @@
 title: The Go Programming Language
 description: Build simple, secure, scalable systems with Go
 created: 2015-02-16
-updated: 2023-06-10
+updated: 2023-08-10
 tags:
-  - comp.lang
+  - comp/lang
   - go-lang
   - package-manager
 ---
@@ -76,6 +76,8 @@ Now it defaults to `$HOME/go` and stores packages and `GOBIN`
 
 ## Tools
 
+[Vulnerability Management for Go - The Go Programming Language](https://go.dev/blog/vuln)
+
 ### Linting
 
 [Introduction | golangci-lint](https://golangci-lint.run/)
@@ -131,6 +133,8 @@ godoc pkg Label  # look up function/type
 
 [Golang is BAD for SMART PEOPLE - YouTube](https://www.youtube.com/watch?v=rWJ1tPCnVJI)
 
+[Go's Worst Feature? - YouTube](https://www.youtube.com/watch?v=ZqKMbY7CbRY) bash on naked return
+
 ## Compile
 
 [containous/yaegi: Yaegi is Another Elegant Go Interpreter](https://github.com/containous/yaegi)
@@ -163,6 +167,7 @@ go tool dist list
 GOOS=linux GOARCH=arm64 go build -v PACKAGE
 GOOS=darwin GOARCH=amd64 go build
 GOOS=windows GOARCH=amd64 go build -o app.exe app/main.go
+GOOS=wasip1, GOARCH=wasm go build # WAPI preview 1
 # use `upx` is binary is too large
 ```
 
@@ -432,7 +437,6 @@ formatting the value exactly as if it were an integer.
 
 ### web
 
-[This Go package was archived. What do we do now? - YouTube](https://www.youtube.com/watch?v=j584uJhWWhE)
 compares Gin, Echo, Chi
 [Gorilla Toolkit Open Source Project Becomes Abandonware - The New Stack](https://thenewstack.io/gorilla-toolkit-open-source-project-becomes-abandonware/)
 
@@ -451,6 +455,9 @@ compares Gin, Echo, Chi
 
 [swaggo/swag: Automatically generate RESTful API documentation with Swagger 2.0 for Go.](https://github.com/swaggo/swag) supports multiple frameworks
 [Automatically generate RESTful API documentation in GoLang | by Santosh Shrestha | wesionaryTEAM | Medium](https://medium.com/wesionary-team/automatically-generate-restful-api-documentation-in-golang-76927f8f8935)
+
+[chi](https://go-chi.io/#/)
+[go-chi/chi: lightweight, idiomatic and composable router for building Go HTTP services](https://github.com/go-chi/chi)
 
 [Welcome - Fiber](https://docs.gofiber.io/) Express-inspired, `fasthttp`
 [gofiber/fiber: ⚡️ Express inspired web framework written in Go](https://github.com/gofiber/fiber)
@@ -608,6 +615,8 @@ go build -v
 [Introducing Pkger — Static File Embedding in Go | by Mark Bates | Buffalo — Rapid Web Development in Go](https://blog.gobuffalo.io/introducing-pkger-static-file-embedding-in-go-1ce76dc79c65)
 
 ### Database/ORM
+
+[Comparing database/sql, GORM, sqlx, and sqlc | The GoLand Blog](https://blog.jetbrains.com/go/2023/04/27/comparing-db-packages/)
 
 [sql - The Go Programming Language](https://go.dev/pkg/database/sql/)
 [Go database/sql tutorial](http://go-database-sql.org/index.html)
@@ -800,6 +809,7 @@ type S = struct {
 [Introducing Go -O'Reilly Media](http://shop.oreilly.com/product/0636920046516.do)
 [The Little Go Book](https://www.openmymind.net/The-Little-Go-Book/)
 [karlseguin/the-little-go-book](https://github.com/karlseguin/the-little-go-book)
+[The Go Handbook](https://flaviocopes.com/book/go/)
 
 [开源图书在线阅读 - Go 语言中文网 - Golang 中文社区](https://books.studygolang.com/)
 
@@ -919,6 +929,8 @@ On why slice, map and function types don't support comparison, please read [this
 [Memory Blocks -Go 101](https://go101.org/article/memory-block.html)
 [A visual guide to Go Memory Allocator from scratch (Golang) | by Ankur Anand | Medium](https://medium.com/@ankur_anand/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed)
 [🚀 Visualizing memory management in Golang | Technorage](https://deepu.tech/memory-management-in-golang/)
+
+#### Garbage Collection
 
 [Getting to Go: The Journey of Go's Garbage Collector - go.dev](https://go.dev/blog/ismmkeynote)
 [Go GC: Prioritizing low latency and simplicity - go.dev](https://go.dev/blog/go15gc)
@@ -1090,6 +1102,10 @@ fmt.Printf("%T\n", y)
 
 > generics landed in Go 1.18 in 2022-03
 
+[Why Generics? - The Go Programming Language](https://go.dev/blog/why-generics)
+[An Introduction To Generics - The Go Programming Language](https://go.dev/blog/intro-generics)
+[Tutorial: Getting started with generics - The Go Programming Language](https://go.dev/doc/tutorial/generics)
+
 [Generics can make your Go code slower](https://planetscale.com/blog/generics-can-make-your-go-code-slower)
 [On Go's Generics Implementation and Performance](https://www.infoq.com/news/2022/04/go-generics-performance/)
 
@@ -1098,9 +1114,6 @@ fmt.Printf("%T\n", y)
 [spec: add generic programming using type parameters · Issue #43651 · golang/go](https://github.com/golang/go/issues/43651)
 [Type Parameters Proposal](https://go.googlesource.com/proposal/+/refs/heads/master/design/43651-type-parameters.md)
 
-[Why Generics? - The Go Programming Language](https://go.dev/blog/why-generics)
-[An Introduction To Generics - The Go Programming Language](https://go.dev/blog/intro-generics)
-[Tutorial: Getting started with generics - The Go Programming Language](https://go.dev/doc/tutorial/generics)
 [[ generics] Moving forward with the generics design draft](https://groups.google.com/g/golang-nuts/c/iAD0NBz3DYw/m/VcXSK55XAwAJ)
 [Generics and parentheses](https://groups.google.com/g/golang-nuts/c/7t-Q2vt60J8/m/daacBE2tBQAJ?pli=1)
 [Summary of Go Generics Discussions](https://docs.google.com/document/d/1vrAy9gMpMoS3uaVphB32uVXX4pi-HnNjkMEgyAHX4N4/mobilebasic)

@@ -2,9 +2,9 @@
 title: Learn to code (Kids)
 description: ""
 created: 2014-12-08
-updated: 2023-03-29
+updated: 2023-08-13
 tags:
-  - comp.lang
+  - comp/lang
   - learning
   - programmer
 ---
@@ -127,6 +127,7 @@ Learn how to code for kids
 [scratchnative/scratchnative: Convert Scratch3 projects to native executables](https://github.com/scratchnative/scratchnative)
 [Scratch Can Even Do Linux Kernel](https://www.i-programmer.info/news/98-languages/15567-scratch-can-even-do-linux-kernel.html)
 
+[Scratch Basics - YouTube](https://www.youtube.com/playlist?list=PL1hUOG3l8AVlNcbT4WZrBv_d8s2MmJwpE)
 [Scratch Blocks in 60 Seconds - YouTube](https://www.youtube.com/playlist?list=PL0-84-yl1fUki_zQ1ouwGN8t3spCTLnpS)
 [Scratch Programming - YouTube](https://www.youtube.com/playlist?list=PL0-84-yl1fUkall6a14nqzXpG79-RgI1F)
 [Scratch Game Programming for Young Adults | Udemy](https://www.udemy.com/scratch-game-programming/?couponCode=INVENT_WITH_SCRATCH)
@@ -147,7 +148,7 @@ micro:bit, Ardiono, ...
 [Blockly Games](https://blockly-games.appspot.com/)
 
 [Snap! (Build Your Own Blocks)](https://snap.berkeley.edu/)
-[Snap! (programming language) - Scratch Wiki](https://en.scratch-wiki.info/wiki/Snap!_(programming_language%29)
+[Snap! (programming language) - Scratch Wiki](<https://en.scratch-wiki.info/wiki/Snap!_(programming_language)>)
 
 ### Extensions
 
@@ -284,10 +285,6 @@ Scratch 3 based, Block + Python + Arduino IDE
 #### Platforms
 
 [We Code MakeCode | Using Microsoft MakeCode for Minecraft and MakeCode Arcade](https://wecodemakecode.com/)
-[MakeCode Arcade](https://arcade.makecode.com/#)
-[Arcade Documentation - Microsoft MakeCode](https://arcade.makecode.com/docs)
-[MakeCode Arcade: Retro Gaming, Modern Programming - Microsoft MakeCode](https://makecode.com/blog/arcade/01-18-2019)
-[What is MakeCode Arcade? | MakeCode Arcade with Raspberry Pi Zero | Adafruit Learning System](https://learn.adafruit.com/makecode-arcade-with-raspberry-pi-zero?view=all)
 
 [Microsoft MakeCode for micro:bit](https://makecode.microbit.org/)
 [micro:bit Editor updates : Support](https://support.microbit.org/support/solutions/articles/19000058445-makecode-editor-updates) June 2019 v2
@@ -464,12 +461,16 @@ They're both fibers. `inBackground()` have a `fiberDone` callback for clean up a
 [Best 10 Python Game Project Ideas for Beginners in 2023](https://www.analyticsinsight.net/best-10-python-game-project-ideas-for-beginners-in-2023/)
 
 [Microsoft MakeCode Arcade](https://arcade.makecode.com/)
+[Arcade Documentation - Microsoft MakeCode](https://arcade.makecode.com/docs)
+[MakeCode Arcade: Retro Gaming, Modern Programming - Microsoft MakeCode](https://makecode.com/blog/arcade/01-18-2019)
+[What is MakeCode Arcade? | MakeCode Arcade with Raspberry Pi Zero | Adafruit Learning System](https://learn.adafruit.com/makecode-arcade-with-raspberry-pi-zero?view=all)
+
+[microStudio - Game Engine](https://microstudio.dev/)
 
 [CodeCombat - Learn how to code by playing a game](https://codecombat.com/) multiple languages
 [Code Avengers](https://www.codeavengers.com/)
 [Elevator Saga - the elevator programming game](https://play.elevatorsaga.com/) JavaScript
-[Coding Games and Programming Challenges to Code Better](https://www.codingame.com/start) [multiple languages](https://www.codingame.com/faq)
-[W3Schools Code Game](https://www.w3schools.com/codegame/index.html)
+[Coding Games and Programming Challenges to Code Better](https://www.codingame.com/start) [multiple languages](https://www.codingame.com/playgrounds/40701/help-center/languages-versions)
 [Codewars](http://www.codewars.com/) [multiple languages](http://www.codewars.com/docs/programming-languages-and-environments)
 [Online Tutorial to Learn Java - CodeGym](https://codegym.cc/) Java
 [CodeGuppy | JavaScript for kids and teens](https://codeguppy.com/index.html)
@@ -477,8 +478,8 @@ They're both fibers. `inBackground()` have a `fiberDone` callback for clean up a
 
 [About - Project Euler](https://projecteuler.net/)
 
-[Kodu | Home](https://www.kodugamelab.com/)
-[GDevelop - Create games without programming - Open source HTML5 and native game creator](https://gdevelop-app.com/)
+[Kodu Game Lab | KoduGameLab](https://www.kodugamelab.com/)
+[W3Schools Code Game](https://www.w3schools.com/codegame/index.html) instruction blocks
 
 [basic-computer-games/19_Bunny at main · coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games/tree/main/19_Bunny)
 
@@ -530,6 +531,7 @@ Server administration is difficult
 [Pi Edition | Minecraft](https://minecraft.net/en-us/edition/pi/)
 [Getting Started with Minecraft Pi - Introduction | Raspberry Pi Projects](https://projects.raspberrypi.org/en/projects/getting-started-with-minecraft-pi)
 [<Stuff about="code" />: Minecraft API](https://www.stuffaboutcode.com/p/minecraft-api-reference.html)
+[Getting Started with Minecraft Pi | Python | Coding projects for kids and teens](https://projects.raspberrypi.org/en/projects/getting-started-with-minecraft-pi/)
 
 [Hacking Minecraft - YouTube](https://www.youtube.com/playlist?list=PLME-KWdxI8dfQ1mKqnED8eAxZIb82ju6H)
 [Learn Python and Electronics with Minecraft Pi Edition](https://www.makeuseof.com/tag/learn-python-electronics-minecraft-pi-edition/)
@@ -540,13 +542,16 @@ Server administration is difficult
 
 [Homepage | Minecraft: Education Edition](https://education.minecraft.net/)
 [Search Lessons | Minecraft: Education Edition](https://education.minecraft.net/class-resources/search-lessons)
+[How to download Minecraft Education Edition: Step-by-step guide for beginners](https://www.sportskeeda.com/amp/esports/how-download-minecraft-education-edition)
 
 [Minecraft: Education Edition - YouTube](https://www.youtube.com/channel/UC2XjBkW16jGLGSEF9vo4PDA)
 
 [Minecraft Education Edition - YouTube](https://www.youtube.com/playlist?list=PLokdYgqXzlzIcnHlWplSkKLFdxjVay8lf)
 Bulk adding of users to private server
 
-[How to download Minecraft Education Edition: Step-by-step guide for beginners](https://www.sportskeeda.com/amp/esports/how-download-minecraft-education-edition)
+[Microsoft MakeCode for Minecraft](https://minecraft.makecode.com/#)
+[Minecraft Education Setup for MakeCode](https://minecraft.makecode.com/setup/minecraft-education-edition)
+[Minecraft: Education Edition live - YouTube](https://www.youtube.com/playlist?list=PLMMBk9hE-Sep-xPDSqsdUCPcI6RXNwt4t)
 
 #### Python
 

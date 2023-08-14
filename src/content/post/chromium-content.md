@@ -4,7 +4,7 @@ description: ""
 created: 2016-04-22
 tags:
   - chromium
-  - comp.lang
+  - comp/lang
 ---
 
 [Content module - The Chromium Projects](http://www.chromium.org/developers/content-module)

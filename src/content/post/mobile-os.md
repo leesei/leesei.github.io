@@ -63,7 +63,7 @@ Concepts:
 
 ## Google Android
 
-[Android (operating system) - Wikiwand](http://www.wikiwand.com/en/Android_(operating_system%29)
+[Android (operating system) - Wikiwand](<http://www.wikiwand.com/en/Android_(operating_system)>)
 
 ## Apple iOS
 

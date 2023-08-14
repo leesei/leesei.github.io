@@ -53,6 +53,7 @@ tags:
 [Refrigerants and HVAC - YouTube](https://www.youtube.com/playlist?list=PLWv9VM947MKjG8PAguA7WzyrgoGpi2SNC)
 [Expansion Valves - HVAC - YouTube](https://www.youtube.com/playlist?list=PLWv9VM947MKhP7jzKWA2vpl5WBuw3fes8)
 
+[Heat Pumps - YouTube](https://www.youtube.com/playlist?list=PLHebb5GJgeFcN9RrK4iDSRYN601PaIJv2) Two Bit da Vinci
 [Heat Pumps: the Future of Home Heating - YouTube](https://www.youtube.com/watch?v=7J52mDjZzto)
 [Ground Source / Geothermal Heat Pumps and Other Info - YouTube](https://www.youtube.com/watch?v=7zrx-b2sLUs)
 [Why Heat Pumps are Immensely Important Right Now - YouTube](https://www.youtube.com/watch?v=MFEHFsO-XSI)

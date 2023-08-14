@@ -2,6 +2,7 @@
 title: Shell Tools (Network)
 description: ""
 created: 2015-09-15
+updated: 2023-07-06
 tags:
   - app
   - iperf
@@ -201,18 +202,6 @@ docker run --net host nicolaka/netshoot ngrep -tpd enp3s0 HTTP
 
 [projectdiscovery/proxify: Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.](https://github.com/projectdiscovery/proxify)
 
-### Wireshark
-
-Wireshark can open many dump formats (e.g. `.cap`/`.pcap` from `tcpdump`)
-
-[Wireshark · Go Deep.](https://www.wireshark.org/)
-[Track Down Network Problems With Wireshark | PCWorld](http://www.pcworld.com/article/186871/track_down_network_problems_with_wireshark.html)
-
-[How to Use Wireshark - YouTube](https://www.youtube.com/playlist?list=PLW8bTPfXNGdA_TprronpuNh7Ei8imYppX)
-[Wireshark Masterclass - YouTube](https://www.youtube.com/playlist?list=PLW8bTPfXNGdC5Co0VnBK1yVzAwSSphzpJ)
-
-[gcla/termshark: A terminal UI for tshark, inspired by Wireshark](https://github.com/gcla/termshark)
-
 ## `ss`
 
 [Probe Your Linux Sockets With ss | Linux.com | The source for Linux information](https://www.linux.com/learn/intro-to-linux/2017/4/probe-your-linux-sockets-ss)
@@ -254,9 +243,10 @@ Wireshark can open many dump formats (e.g. `.cap`/`.pcap` from `tcpdump`)
 
 ## `scapy`
 
-[Scapy](https://scapy.net/)
+[Scapy](https://scapy.net/) Python package to craft and send packets
 
 [Data Harvest » Linux Magazine](http://www.linuxpromagazine.com/Online/Features/Packet-Analysis-with-Scapy)
+[Python Network Hacking with Kali Linux and Scapy = attack one! 😀 - YouTube](https://www.youtube.com/watch?v=YKxKnVE5FaE)
 
 ## `netstat`
 
@@ -286,6 +276,10 @@ lsof -i tcp:80
 
 [oh-my-zsh/systemadmin.plugin.zsh at master · robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/systemadmin/systemadmin.plugin.zsh)
 [Linux networking: 13 uses for netstat | Enable Sysadmin](https://www.redhat.com/sysadmin/netstat)
+
+## impacket
+
+[fortra/impacket: Impacket is a collection of Python classes for working with network protocols.](https://github.com/fortra/impacket)
 
 ## network speed test
 

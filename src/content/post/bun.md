@@ -2,6 +2,7 @@
 title: Bun
 description: Fast *all-in-one* JavaScript runtime
 created: 2023-03-14
+updated: 2023-07-23
 tags:
   - javascript/runtime
   - package-manager
@@ -97,5 +98,6 @@ bun pm - package manager related commands
 #web-framework
 
 [Elysia - Fast, and friendly Bun web frameworks | Elysia.js](https://elysiajs.com/) tRPC, GQL, OpenAPI, JWT, type checks
+[The BETH Stack: Build Hypermedia-Driven Web Apps with Great DX and Performance - YouTube](https://www.youtube.com/watch?v=cpzowDDJj24) Bun, Elysia, Turso, HTMX + Typed HTML
 
 [Buchta](https://buchtajs.com/)

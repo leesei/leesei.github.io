@@ -2,6 +2,7 @@
 title: Web Push Technologies
 description: ""
 created: 2019-03-04
+updated: 2023-08-13
 tags:
   - server-send-event
   - web
@@ -56,6 +57,10 @@ Hussein Nasser
 
 [Kalm - The socket manager](http://kalm.js.org/)
 [kalm/kalm.js: The socket manager](https://github.com/kalm/kalm.js)
+
+## Socio
+
+[Rolands-Laucis/Socio: A WebSocket Real-Time Communication (RTC) API framework](https://github.com/Rolands-Laucis/Socio)
 
 ## Server
 
@@ -215,6 +220,13 @@ Intermediatries may buffer response leading to high latency
 [How Push Works | Web Fundamentals | Google Developers](https://developers.google.com/web/fundamentals/push-notifications/how-push-works)
 
 [🚀🔔 Beginners guide to Web Push Notifications using Service Workers | Blog](https://blog.atulr.com/web-notifications/)
+
+## ntfy.sh
+
+[ntfy.sh | Send push notifications to your phone via PUT/POST](https://ntfy.sh/)
+[binwiederhier/ntfy: Send push notifications to your phone or desktop using PUT/POST](https://github.com/binwiederhier/ntfy)
+
+[Open Source Push Notifications! Get notified of any event you can imagine. Triggers abound! - YouTube](https://www.youtube.com/watch?v=WJgwWXt79pE)
 
 ## Notifire
 

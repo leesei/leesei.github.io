@@ -2,10 +2,13 @@
 title: Markdown
 description: ""
 created: 2015-04-23
+updated: 2023-07-27
 tags:
-  - comp.lang
+  - comp/lang
   - markdown
 ---
+
+[Markdown Guide](https://www.markdownguide.org/)
 
 [Books in Browsers 2014: Peter Armstrong, LeanPub - YouTube](https://www.youtube.com/watch?t=176&v=VOCYL-FNbr0)
 [Mastering Markdown - YouTube](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3) video series by Web Bos

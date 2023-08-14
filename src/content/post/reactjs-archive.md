@@ -246,14 +246,14 @@ module.exports = function (app) {
     proxy({
       target: "http://myhost1:4000",
       changeOrigin: true,
-    })
+    }),
   );
   app.use(
     "/api2",
     proxy({
       target: "http://myhost2:5000",
       changeOrigin: true,
-    })
+    }),
   );
 };
 ```

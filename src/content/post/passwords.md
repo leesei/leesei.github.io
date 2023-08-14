@@ -15,6 +15,8 @@ tags:
 
 > Nick is the author of [DataGenetics](http://datagenetics.com/)
 
+[How NOT to Store Passwords! - Computerphile - YouTube](https://www.youtube.com/watch?v=8ZtInClXe1Q)
+
 [Why passwords have never been weaker—and crackers have never been stronger | Ars Technica](http://arstechnica.com/security/2012/08/passwords-under-assault/)
 [20 Hours, $18, and 11 Million Passwords Cracked – HackerNoon.com](https://hackernoon.com/20-hours-18-and-11-million-passwords-cracked-c4513f61fdb1)
 [Anatomy of a hack: How crackers ransack passwords like “qeadzcwrsfxv1331” | Ars Technica](http://arstechnica.com/security/2013/05/how-crackers-make-minced-meat-out-of-your-passwords/)

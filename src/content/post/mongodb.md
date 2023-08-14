@@ -281,7 +281,7 @@ const friendSchema = mongoose.Schema(
     givenName: String,
     familyName: String,
   },
-  { toJSON: reshapingOptions }
+  { toJSON: reshapingOptions },
 );
 
 const friendModel = mongoose.model("Friend", friendSchema);

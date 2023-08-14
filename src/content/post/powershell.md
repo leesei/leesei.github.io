@@ -2,8 +2,9 @@
 title: Powershell
 description: ""
 created: 2023-05-19
+updated: 2023-08-10
 tags:
-  - comp.lang
+  - comp/lang
   - powershell
 ---
 
@@ -12,6 +13,10 @@ tags:
 [Differences between Windows PowerShell 5.1 and PowerShell 7.x - PowerShell | Microsoft Docs](https://docs.microsoft.com/en-us/powershell/scripting/whats-new/differences-from-windows-powershell)
 
 [Introduction - PowerShell | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/00-introduction)
+
+[PoshCode/poshcode.github.io: github pages](https://github.com/PoshCode/poshcode.github.io)
+[About this Guide - PowerShell Practice and Style](https://poshcode.gitbook.io/powershell-practice-and-style/introduction/readme)
+[PoshCode/PowerShellPracticeAndStyle: The Unofficial PowerShell Best Practices and Style Guide](https://github.com/PoshCode/PowerShellPracticeAndStyle)
 
 [Awesome Rank for janikvonrotz/awesome-powershell](https://awesomerank.github.io/lists/janikvonrotz/awesome-powershell.html)
 
@@ -132,9 +137,11 @@ Poor-man's Tmux
 # $workspace_root = $env:USERPROFILE\src\project
 $workspace_root = C:\src\project
 
-wt `
+$commands = @'
   nt -d $workspace_root --title Project `; `
   nt -d $workspace_root --title Project `; `
   nt -d $env:APPDATA\ --title "App data"
-`
+'@
+
+wt $commands
 ```

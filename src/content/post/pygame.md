@@ -2,6 +2,7 @@
 title: Pygame
 description: ""
 created: 2015-01-02
+updated: 2023-07-30
 tags:
   - game-engine
   - games
@@ -18,6 +19,10 @@ tags:
 [PyGame on Reddit](https://www.reddit.com/r/pygame/)
 [pygame/pygame: pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.](https://github.com/pygame/pygame)
 
+[pygame](https://pyga.me/) PyGame CE
+[pygame-community/pygame-ce: 🐍🎮 pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library.](https://github.com/pygame-community/pygame-ce)
+[Pygame CE - Better & Faster - YouTube](https://www.youtube.com/watch?v=pYq9edSUaOw)
+
 [Pygame Front Page — pygame v2 documentation](https://www.pygame.org/docs/)
 [tutorials - pygame wiki](https://www.pygame.org/wiki/tutorials)
 [PyGame: A Primer on Game Programming in Python – Real Python](https://realpython.com/pygame-a-primer/)
@@ -27,9 +32,11 @@ tags:
 
 [PyGame with Python 3 Game Development - YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdLkP8MrOXLe_rKuf6r80KO) sentdex
 [Python Tutorials - YouTube](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB) freeCodeCamp.org
-[Pygame Tutorial Series (all) - YouTube](https://www.youtube.com/playlist?list=PLX5fBCkxJmm1fPSqgn9gyR3qih8yYLvMj) DaFluffyPotato
 
-[Clear Code - YouTube](https://www.youtube.com/c/ClearCode/videos)
+[DaFluffyPotato - YouTube](https://www.youtube.com/@DaFluffyPotato)
+[Pygame Tutorial Series (all) - YouTube](https://www.youtube.com/playlist?list=PLX5fBCkxJmm1fPSqgn9gyR3qih8yYLvMj)
+
+[Clear Code - YouTube](https://www.youtube.com/@ClearCode)
 [The ultimate introduction to Pygame - YouTube](https://www.youtube.com/watch?v=AY9MnQ4x3zk)
 [Mario in Python with Pygame (and pirates) - YouTube](https://www.youtube.com/playlist?list=PL8ui5HK3oSiGXM2Pc2DahNu1xXBf7WQh-)
 [Creating Pong in Pygame - YouTube](https://www.youtube.com/playlist?list=PL8ui5HK3oSiEk9HaKoVPxSZA03rmr9Z0k)
@@ -49,7 +56,7 @@ Basic game loop: float position in state, vector based movements and steering, t
 [Pygame Tutorial for Beginners - Python Game Development Course - YouTube](https://www.youtube.com/watch?v=FfWpgLFMI7w)
 [Create a Arcade-Style Shooting Game with Python and PyGame](https://www.freecodecamp.org/news/create-a-arcade-style-shooting/)
 
-[Tech With Tim - YouTube](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg/playlists?view=50&sort=dd&shelf_id=6)
+[Tech With Tim - YouTube](https://www.youtube.com/@TechWithTim)
 [Pygame Programming Tutorials - YouTube](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lp3jAExUCewBfMx3UZFkh5)
 [techwithtim/Pygame-Tutorials: This is the code base for the pygame tutorials posted on my YouTube channel.](https://github.com/techwithtim/Pygame-Tutorials)
 
@@ -77,6 +84,15 @@ calling `pygame.display.flip` from a thread, which is incorrect
 
 [Create a Python game: how to make a puzzle game called Same - The MagPi MagazineThe MagPi Magazine](https://www.raspberrypi.org/magpi/create-python-game/)
 [opethe1st/SameGame: Python implementation of the Same Game using pygame](https://github.com/opethe1st/SameGame)
+
+# Game Frame
+
+[Game Frame – A Framework for PyGame](https://gameframeforpygame.wordpress.com/)
+[Steven Tucker / gameframe · GitLab](https://gitlab.com/tuxta/gameframe/)
+
+[Example Games – Game Frame](https://gameframeforpygame.wordpress.com/example-games/)
+[Game Frame (Python Coding) - Vegie Samurai - YouTube](https://www.youtube.com/playlist?list=PL1hUOG3l8AVngMfg1b8ECdUN9FpEoeIPd)
+[Game Frame (Python Coding) - Joe's Escape - YouTube](https://www.youtube.com/playlist?list=PL1hUOG3l8AVmyaIOfIzphzAVLETIPxn9y)
 
 # Pygame Zero
 

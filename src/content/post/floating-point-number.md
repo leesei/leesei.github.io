@@ -2,6 +2,7 @@
 title: Floating Point Number
 description: Floating point number in computer is only an *approximation* of the actual value
 created: 2023-03-18
+updated: 2023-07-09
 tags:
   - comp/fundamental
   - learning
@@ -15,6 +16,7 @@ tags:
 Since the number of segments between the power of twos are limited by the number of bits of the mantissa, this space will increase as the numbers increases.
 
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
+[What Every Computer Scientist Should Know About Floating-Point Arithmetic](http://perso.ens-lyon.fr/jean-michel.muller/goldberg.pdf)
 [Tutorial: Floating-Point Binary](http://cstl-csm.semo.edu/xzhang/Class%20Folder/CS280/Workbook_HTML/FLOATING_tut.htm)
 [Binary representation of the floating-point numbers | Trekhleb](https://trekhleb.dev/blog/2021/binary-floating-point/)
 
@@ -110,5 +112,7 @@ JavaScript has `bigint` primitive type
 def isclose(a, b, rel_tol=1e-09, abs_tol=0.0):
     return abs(a-b) <= max(rel_tol * max(abs(a), abs(b)), abs_tol)
 ```
+
+[How to Round Numbers in Python – Real Python](https://realpython.com/python-rounding/)
 
 See [math.isclose()](https://docs.python.org/3/library/math.html#math.isclose) in Python

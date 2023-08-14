@@ -4,6 +4,7 @@ description: ""
 created: 2019-07-31
 tags:
   - history
+  - history/middle-east
   - isreal
   - jewish
   - middle-east

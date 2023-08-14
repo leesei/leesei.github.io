@@ -9,7 +9,7 @@ tags:
 
 [Knot - Wikiwand](https://www.wikiwand.com/en/Knot)
 [List of knot terminology - Wikiwand](http://www.wikiwand.com/en/List_of_knot_terminology)
-[Bight (knot) - Wikiwand](https://www.wikiwand.com/en/Bight_(knot%29) a curved section of rope, for slipped knot
+[Bight (knot) - Wikiwand](<https://www.wikiwand.com/en/Bight_(knot)>) a curved section of rope, for slipped knot
 
 [How strong is your knot? | MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2020/model-how-strong-knot-0102)
 

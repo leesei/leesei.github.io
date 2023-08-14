@@ -2,6 +2,7 @@
 title: Maps
 description: ""
 created: 2016-04-16
+updated: 2023-07-23
 tags:
   - maps
   - science
@@ -24,6 +25,7 @@ tags:
 
 [Vox Borders: Season 1 - YouTube](https://www.youtube.com/playlist?list=PLJ8cMiYb3G5eYGt47YpJcNhILyYLmV-tW)
 [MAP MEN - YouTube](https://www.youtube.com/playlist?list=PLfxy4_sBQdxy3A2lvl-y3qWTeJEbC_QCp)
+[Map Pack - YouTube](https://www.youtube.com/@MapPack)
 
 ## Trap Street/Paper Towns
 
@@ -49,6 +51,8 @@ tags:
 [How the World Map Looks Wildly Different Than You Think - YouTube](https://www.youtube.com/watch?v=lPNrtjboISg)
 [Can You Make an Accurate Map? - YouTube](https://www.youtube.com/watch?v=8I_VpC6IuJs)
 [現在的地圖不準確!! 而且存在嚴重偏差!! 究竟問題出在那裡? (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=I7JYtHafvfU)
+
+[The Mathematics of our Universe - YouTube](https://www.youtube.com/watch?v=KT5Sk-62-pg) on curvature (specifically Guassian curvature)
 
 [What are Map Projections? (And Why They Are Deceiving to the Human Eye) - GIS Geography](https://gisgeography.com/map-projections/)
 [Map Distortion with Tissot's Indicatrix - GIS Geography](https://gisgeography.com/map-distortion-tissots-indicatrix/)

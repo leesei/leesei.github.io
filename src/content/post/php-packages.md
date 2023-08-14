@@ -3,7 +3,7 @@ title: PHP Packages
 description: ""
 created: 2023-03-27
 tags:
-  - comp.lang
+  - comp/lang
   - php
 ---
 

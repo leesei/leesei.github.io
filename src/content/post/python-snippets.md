@@ -3,9 +3,9 @@ title: Python snippets
 description: ""
 created: 2014-12-11
 tags:
-  - comp.lang
+  - comp/lang
   - python
-  - snippets
+  - snippets/python
 ---
 
 > TODO: add code from `~/wip/python-snippets/`

@@ -2,6 +2,7 @@
 title: Animals
 description: ""
 created: 2021-10-30
+updated: 2023-08-11
 tags:
   - biology
   - learning
@@ -16,32 +17,35 @@ Bilaterians
 
 Anthropoids
 
+[Biology Dictionary - Explanations and Examples of Biological Concepts](https://biologydictionary.net/)
 [Medieval Bestiary : Animals in the Middle Ages](https://bestiary.ca/)
 
-[Animal Adventures - YouTube](https://www.youtube.com/channel/UCKE-RaAbPFZPb6UsovQJX1w)
-[Animal Planet - YouTube](https://www.youtube.com/channel/UCkEBDbzLyH-LbB2FgMoSMaQ)
-[Animalogic - YouTube](https://www.youtube.com/c/animalogic)
-[Beastly - YouTube](https://www.youtube.com/c/BeastlyChannel)
-[BBC Earth - YouTube](https://www.youtube.com/c/bbcearth)
-[Cornell Lab of Ornithology - YouTube](https://www.youtube.com/c/LabofOrnithology)
-[National Geographic - YouTube](https://www.youtube.com/c/NatGeo)
-[國家地理雜誌 National Geographic Magazine - YouTube](https://www.youtube.com/channel/UCtmb2nQhbT2rxxpmbdRjvVg)
-[One World - YouTube](https://www.youtube.com/channel/UCsU1nitlHAQeHOeiJMerrIQ)
-[Real Wild - YouTube](https://www.youtube.com/user/animalmadhouse)
-[Spy in the Wild - YouTube](https://www.youtube.com/playlist?list=PL90D7QgJXvhGZJtmV3e-VODd3TXcpMAHb)
-[TierZoo - YouTube](https://www.youtube.com/channel/UCHsRtomD4twRf5WVHHk-cMw) comparing animals with gamified stats
-[zefrank1 - YouTube](https://www.youtube.com/channel/UCVpankR4HtoAVtYnFDUieYA) sarcastic comments
-[許伯&簡芝—倉鼠人 - YouTube](https://www.youtube.com/channel/UClEzBxwGGFrbwTVeawscqjQ)
-[Textbook Travel - YouTube](https://www.youtube.com/channel/UCTtJmmLvVWxJh6VY9GAJNQg) taxonomy
+[Animal Adventures - YouTube](https://www.youtube.com/@AnimalAdventures)
+[Animal Planet - YouTube](https://www.youtube.com/@animalplanet)
+[Animalogic - YouTube](https://www.youtube.com/@animalogic)
+[Beastly - YouTube](https://www.youtube.com/@BeastlyChannel)
+[BBC Earth - YouTube](https://www.youtube.com/@bbcearth)
+[Cornell Lab of Ornithology - YouTube](https://www.youtube.com/@cornell_lab)
+[National Geographic - YouTube](https://www.youtube.com/@NatGeo)
+[國家地理雜誌 National Geographic Magazine - YouTube](https://www.youtube.com/@Ngtaiwan)
+[One World - YouTube](https://www.youtube.com/@OneWorldNT)
+[PBS Eons - YouTube](https://www.youtube.com/@eons)
+[Real Science - YouTube](https://www.youtube.com/@realscience)
+[Real Wild - YouTube](https://www.youtube.com/@RealWild)
+[TierZoo - YouTube](https://www.youtube.com/@TierZoo) comparing animals with gamified stats
+[Ze Frank - YouTube](https://www.youtube.com/@zefrank) sarcastic comments
+[許伯&簡芝—倉鼠人 - YouTube](https://www.youtube.com/@g8046000)
+[Textbook Travel - YouTube](https://www.youtube.com/@Textbooktravel) taxonomy
 
 [Insane Biology - YouTube](https://www.youtube.com/playlist?list=PLAzuPFpwy9ZLIG5hDwjGyccJr6FpTsrEr)
+[Spy in the Wild - YouTube](https://www.youtube.com/playlist?list=PL90D7QgJXvhGZJtmV3e-VODd3TXcpMAHb)
 [Mimicry - When Animals Copy Other Animals - YouTube](https://www.youtube.com/watch?v=KHxGA6d204I) Batesian Mimicry, Mullerian Mimicry
 
 [Insane Biology - YouTube](https://www.youtube.com/playlist?list=PLAzuPFpwy9ZLIG5hDwjGyccJr6FpTsrEr) Real Science
 [那些神奇的生物 - YouTube](https://www.youtube.com/playlist?list=PLwSXERWUG_xSR1_Xn9wpX80UP2OJtsM1U) 老肉雜談
 
 [Shark Cam - Live underwater webcam of sharks | Explore.org](https://explore.org/livecams)
-[Explore Live Nature Cams - YouTube](https://www.youtube.com/channel/UC-2KSeUU5SMCX6XLRD-AEvw)
+[Explore Live Nature Cams - YouTube](https://www.youtube.com/@ExploreLiveNatureCams)
 
 [人類如何徒手對抗猛獸？教你徒手單挑打敗老虎、棕熊、大猩猩、巨蟒、鱷魚、大白鯊... - YouTube](https://www.youtube.com/watch?v=MfaS3y7yzu4)
 
@@ -51,14 +55,6 @@ Anthropoids
 [Home - Animals Comparison](https://animalscomparison.com/)
 [Animals Differences and Comparison](https://www.softschools.com/difference/animals/)
 [我才跟牠不一樣 - 窩窩｜專注為動物發聲的獨立媒體](https://wuo-wuo.com/topics/widlife/64-comparison-and-similar-animals)
-
-Llamas 駱馬/大羊駝, Alpacas 羊駝, Guanaco 原駝, Vicuna 小羊駝
-[6 Differences Between Llamas and Alpacas - Modern Farmer](https://modernfarmer.com/2015/09/difference-between-llama-and-alpaca/)
-[What's the Difference Between a Llama and an Alpaca?](https://www.wideopenpets.com/whats-difference-llama-alpaca-quiz/)
-[7 Ways To Tell The Difference Between an Alpaca vs Llama](https://www.alpacadirect.com/blogs/alpaca-direct-blog/alpaca-vs-llama-7-ways-to-tell-the-difference)
-[【動物世界】「草泥馬」身世之謎 | CASE 報科學](https://case.ntu.edu.tw/blog/?p=4975)
-[草泥馬冷知識 | Move Hub Limited](https://app.move-hub.net/MH-FC-ALPACA/)
-[網紅神獸「草泥馬」，竟然大有來頭！史上最成功的牲畜——羊駝【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=G0mHF21UH2I)
 
 [Difference Between Frogs and Toads | Compare the Difference Between Similar Terms](https://www.differencebetween.com/difference-between-frogs-and-toads/)
 
@@ -84,6 +80,8 @@ Stork vs Pelican
 > under the order primates
 
 Gorilla 大猩猩; Chimpanzee 黑猩猩 ; Baboon 狒狒; Gibbon 長臂猿; Orangutan/Pongo 紅毛猩猩; Mandrill 狒狒
+Apes don't have tail while monkeys do
+
 [我們和猩猩究竟有什麽區別 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=A-adUADPCFI)
 [【我才跟他不一樣！】猩猩？猴子？狒狒？猿？誰是誰啦？ - 窩窩｜為牠發聲](https://wuo-wuo.com/topics/widlife/64-comparison-and-similar-animals/636-i-was-with-him-is-not-the-same-orangutan-monkey-baboon-ape)
 [Mandrill | National Geographic](https://www.nationalgeographic.com/animals/mammals/m/mandrill/)
@@ -130,6 +128,20 @@ Old World deer: Elk, Muntjac, Chital, Tufted deer
 New World deer: Moose, Reindeer, Roe deer
 
 [鹿：大自然的死侍，擁有超級血液，能再生器官、百毒不侵，還能輕功飛天、一葦渡江，這就是為什麼無論東西方都認為它是仙獸的真正原因……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=xTQyYwumROk)
+
+## Camelidae
+
+Llamas 駱馬/大羊駝, Alpacas 羊駝, Guanaco 原駝, Vicuna 小羊駝
+[6 Differences Between Llamas and Alpacas - Modern Farmer](https://modernfarmer.com/2015/09/difference-between-llama-and-alpaca/)
+[What's the Difference Between a Llama and an Alpaca?](https://www.wideopenpets.com/whats-difference-llama-alpaca-quiz/)
+[7 Ways To Tell The Difference Between an Alpaca vs Llama](https://www.alpacadirect.com/blogs/alpaca-direct-blog/alpaca-vs-llama-7-ways-to-tell-the-difference)
+[Is there a difference between Llamas and Alpacas? What about Vicuña?](https://inkajungletour.com/en/do-you-know-the-difference-between-llamas-alpacas-and-vicuna/)
+
+[【動物世界】「草泥馬」身世之謎 | CASE 報科學](https://case.ntu.edu.tw/blog/?p=4975)
+[草泥馬冷知識 | Move Hub Limited](https://app.move-hub.net/MH-FC-ALPACA/)
+[網紅神獸「草泥馬」，竟然大有來頭！史上最成功的牲畜——羊駝【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=G0mHF21UH2I)
+
+[Vicuña - Facts and Beyond | Biology Dictionary](https://biologydictionary.net/vicuna/)
 
 ## Crocodilia
 
@@ -292,7 +304,10 @@ Batoidea (rays) 鰩總目 有"大翅膀"
 ## Cetaceans (fish-like sea mammals)
 
 > whales, orcas, dolphins, proposes
-> seperated from "hippos" 50 Ma
+> separated from "hippos" 50 Ma
+
+Odontocetes: toothed whale (sperm whales, orcas, dolphins)
+Myticetes: baleen whale (filter-feeding whales, humpback whale, blue whale)
 
 [Difference Between Orca and Dolphin | Compare the Difference Between Similar Terms](https://www.differencebetween.com/difference-between-orca-and-dolphin/)
 

@@ -305,6 +305,9 @@ https://github.com/JakeWharton/pidcat
 [Best Ways To Use Android Apps In Ubuntu - LinuxAndUbuntu - Linux News | Apps Reviews | Linux Tutorials HowTo](http://www.linuxandubuntu.com/home/best-ways-to-use-android-apps-in-ubuntu)
 [Anbox Runs Android In Your Linux Without Emulation - LinuxAndUbuntu - Linux News | Apps Reviews | Linux Tutorials HowTo](http://www.linuxandubuntu.com/home/anbox-runs-android-in-your-linux-without-emulation)
 
+[Genymobile/scrcpy: Display and control your Android device](https://github.com/Genymobile/scrcpy)
+[Scrcpy & Sndcpy: Screencast Any Android Phone To Your Computer - YouTube](https://www.youtube.com/watch?v=zTYYdPS4SOA)
+
 ## Factory Reset Protection
 
 [Factory Reset Protection: What you need to know | Android Central](https://www.androidcentral.com/factory-reset-protection-what-you-need-know)

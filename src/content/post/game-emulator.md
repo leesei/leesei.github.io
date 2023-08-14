@@ -2,7 +2,7 @@
 title: Game Emulator
 description: ""
 created: 2017-07-10
-updated: 2023-06-12
+updated: 2023-07-24
 tags:
   - emulator
   - games
@@ -30,10 +30,12 @@ MEDNAFEN Multi systems, Good Saturn support
 
 [Final Fight LNS Ultimate](https://fflnsultimate.firebaseapp.com/home) 同人
 
-## Ethics
+## Ethics/Legality
 
 [The ethics of emulation: how creators, the community, and the law view console emulators | PC Gamer](https://www.pcgamer.com/the-ethics-of-emulation-how-creators-the-community-and-the-law-view-console-emulators/)
 ["It's Just Emulation!" - The Challenge of Selling Old Games - YouTube](https://www.youtube.com/watch?v=HLWY7fCXUwE)
+
+[Why Are Emulators Legal? Dolphin vs. Nintendo, and the Fate of Emulation - YouTube](https://www.youtube.com/watch?v=wROQUZDCIMI)
 
 ## Frontends
 
@@ -98,6 +100,7 @@ Also available for RPi.
 
 [Demystifying MAME ROMS – ChoccyHobNob](https://web.archive.org/web/20161116054839/http://choccyhobnob.com/articles/demystifying-mame-roms/)
 [Roms](https://www.reddit.com/r/Roms/)
+[/r/Roms Megathread](https://r-roms.github.io/)
 
 [How to use MAME with RetroPie - Help Guide - RetroPie Forum](https://retropie.org.uk/forum/topic/2859/how-to-use-mame-with-retropie-help-guide)
 [Validating, Rebuilding, and Filtering Arcade ROMs - RetroPie Docs](https://retropie.org.uk/docs/Validating%2C-Rebuilding%2C-and-Filtering-ROM-Collections/) ClrMamePro tutorial
@@ -108,6 +111,8 @@ Also available for RPi.
 [Torrent Download All Pc Games Full Setup - Rob Gamers](https://robgamers.com/)
 [Gamers Maze - Free Torrent Download](https://gamersmaze.com/)
 [Emulator ROMs - Download Emulator ROMs Free](https://www.emulator-roms.com/)
+[ROMSFUN.COM | Download ROMs and ISOs of Nintendo, Playstation, XBOX...](https://romsfun.com/) HTTP
+[Vimm's Lair: The Vault](https://vimm.net/?p=vault) HTTP
 
 Capcom Beat 'Em Up Bundle:
 
@@ -198,6 +203,7 @@ Ape Escape 2
 As of 2023-06, PS4 emulator is not available.
 
 Uncharted: The Nathan Drake Collection (1-3)
+Uncharted 4: A Thief's End
 
 ## N64
 
@@ -242,4 +248,14 @@ PPSSPP
 
 ## PS Vita
 
+> backward compatibility with PSP
+
+[Vita3K - An Experimental PSVita Emulator](https://vita3k.org/)
+[Vita3K - compatibility](https://vita3k.org/compatibility.html)
+[Vita3K/Vita3K: Experimental PlayStation Vita emulator](https://github.com/Vita3K/Vita3K)
+
 [A closer look at Vita3k - the PlayStation Vita Emulator - YouTube](https://www.youtube.com/watch?v=M7fXcrScNIg)
+
+### Games
+
+Dungeon Crown

@@ -2,8 +2,9 @@
 title: Serialization
 description: ""
 created: 2020-03-27
+updated: 2023-07-30
 tags:
-  - comp.lang
+  - comp/lang
 ---
 
 > TODO: merge `Dropbox/caravan/caravan/interchange-format`
@@ -21,14 +22,14 @@ tags:
 [JSON Schema | The home of JSON Schema](https://json-schema.org/)
 [Understanding JSON Schema — Understanding JSON Schema 7.0 documentation](https://json-schema.org/understanding-json-schema/index.html)
 [Structuring a complex schema — Understanding JSON Schema 7.0 documentation](https://json-schema.org/understanding-json-schema/structuring.html) defining types
-[Combining schemas — Understanding JSON Schema 7.0 documentation](https://json-schema.org/understanding-json-schema/reference/combining.html#allof)
+[Combining schemas — Understanding JSON Schema 7.0 documentation](https://json-schema.org/understanding-json-schema/reference/combining.html)
 [Applying subschemas conditionally — Understanding JSON Schema 7.0 documentation](https://json-schema.org/understanding-json-schema/reference/conditionals.html)
 [jsonschema - Json Schema file extension - Stack Overflow](https://stackoverflow.com/questions/9391370/json-schema-file-extension) `.json` with mime type `application/schema+json`
 
 [fastify/fluent-json-schema: A fluent API to generate JSON schemas](https://github.com/fastify/fluent-json-schema) ❗!important
 [sinclairzx81/typebox: JSON Schema Type Builder with Static Type Resolution for TypeScript](https://github.com/sinclairzx81/typebox) ❗!important, sharing definition between JSON Schema and TypeScript
 
-[JSON Schema Tool](https://jsonschema.net/home) playground, infer schema from JSON
+[JSON Schema Tool](https://jsonschema.net/) playground, infer schema from JSON
 [JSON Schema Lint :: JSON Schema Validator](https://jsonschemalint.com/#!/version/draft-07/markup/json)
 [Fake your JSON-Schemas!](https://json-schema-faker.js.org/)
 
@@ -62,6 +63,7 @@ tags:
 
 [colinhacks/zod: TypeScript-first schema validation with static type inference](https://github.com/colinhacks/zod)
 [Zod Tutorial | Total TypeScript](https://www.totaltypescript.com/tutorials/zod)
+[Learn "Zod" In 5 Minutes - DEV Community](https://dev.to/arafat4693/learn-zod-in-5-minutes-17pn)
 
 [mattkingshott/iodine: A micro JavaScript validation library.](https://github.com/mattkingshott/iodine)
 

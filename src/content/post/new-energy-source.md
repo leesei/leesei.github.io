@@ -1,8 +1,8 @@
 ---
 title: New Energy Source
-description: ""
+description: Renewable Energy, Non-fossil Energy"
 created: 2015-11-04
-updated: 2023-05-18
+updated: 2023-07-02
 tags:
   - energy
   - science
@@ -11,6 +11,8 @@ tags:
 [Our Energy Future - University of California, San Diego | Coursera](https://www.coursera.org/learn/future-of-energy/)
 
 [The Missing Link in Renewables - YouTube](https://www.youtube.com/watch?v=-PL32ea0MqM)
+[Renewable Energy Storage: No Wind, No Sun, Now What? - YouTube](https://www.youtube.com/watch?v=Q8xsg9iK5yo)
+[Renewable Energy - YouTube](https://www.youtube.com/playlist?list=PLHebb5GJgeFd3_6WIS8YgRboGvawbRHo7)
 
 [[nuclear-energy]]
 

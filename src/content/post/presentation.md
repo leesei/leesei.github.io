@@ -2,11 +2,12 @@
 title: Presentation
 description: ""
 created: 2016-04-24
+updated: 2023-08-09
 tags:
   - business
 ---
 
-> see `audio-visual-systems.md#clip-arts-images`
+[[audio-visual-systems#Clip arts/images]]
 
 # Presentation skill
 
@@ -154,7 +155,9 @@ npx marp --pptx --output=dist --input-dir=src --allow-local-files
 
 [Creating Presentations In Markdown With Marp | #! code](https://www.hashbangcode.com/article/creating-presentations-markdown-marp)
 [Seven Tips For Getting The Most Out Of Marp | #! code](https://www.hashbangcode.com/article/seven-tips-getting-most-out-marp)
+
 [hashbangcode/marp-talk-template](https://github.com/hashbangcode/marp-talk-template)
+[cunhapaulo/marpstyle: Repository for Marp Themes created with beauty and simplicity in mind.](https://github.com/cunhapaulo/marpstyle)
 
 ## Sli.dev
 
@@ -269,6 +272,11 @@ rudimentary feature and styling
 
 [ahomu/Talkie: Simple slide presentation library. Responsive scaling & markdown ready.](https://github.com/ahomu/Talkie)
 Widescreen, drawing mode
+
+## LookAtMe
+
+[d0c-s4vage/lookatme: An interactive, terminal-based markdown presenter](https://github.com/d0c-s4vage/lookatme)
+[LookAtMe: Dead Simple Markdown Slideshows - YouTube](https://www.youtube.com/watch?v=CkIweDviGH8)
 
 ## Go presentation tool
 

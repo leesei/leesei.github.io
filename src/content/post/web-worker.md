@@ -2,6 +2,7 @@
 title: Web Worker
 description: ""
 created: 2019-03-04
+updated: 2023-08-08
 tags:
   - service-worker
   - web
@@ -54,6 +55,9 @@ Client side "thread" to offload UI thread. Cannot interact with DOM.
 [A Simple Introduction to Web Workers in JavaScript - Young Coder - Medium](https://medium.com/young-coder/a-simple-introduction-to-web-workers-in-javascript-b3504f9d9d1c)
 [Should you be using Web Workers? (hint: probably not) | by David Gilbertson | Medium](https://medium.com/@david.gilbertson/should-you-should-be-using-web-workers-hint-probably-not-9b6d26dc8c6a)
 [What does a Worker do in JavaScript? - JavaScript in Plain English - Medium](https://medium.com/javascript-in-plain-english/what-does-a-worker-do-in-javascript-25b9449f22f1)
+
+[PROOF JavaScript is a Multi-Threaded language - YouTube](https://www.youtube.com/watch?v=-JE8P2TiJEg)
+[Node.js is a serious thing now… (2023) - YouTube](https://www.youtube.com/watch?v=_Im4_3Z1NxQ) `workerData.sharedData`
 
 [GoogleChromeLabs/comlink: Comlink makes WebWorkers enjoyable.](https://github.com/GoogleChromeLabs/comlink)
 [React + Redux + Comlink = Off-main-thread — surma.dev](https://surma.dev/things/react-redux-comlink/)

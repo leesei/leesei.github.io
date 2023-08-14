@@ -2,6 +2,7 @@
 title: DevOps
 description: ""
 created: 2016-02-17
+updated: 2023-07-27
 tags:
   - dev/deploy
   - devops
@@ -55,6 +56,7 @@ tags:
 
 [SRE vs. DevOps: competing standards or close friends? | Google Cloud Blog](https://cloud.google.com/blog/products/gcp/sre-vs-devops-competing-standards-or-close-friends)
 [What's the Difference Between DevOps and SRE? - YouTube](https://www.youtube.com/watch?v=uTEL8Ff1Zvk) Dev vs Ops, `class SRE implements DevOps`
+[5 Critical Differences Between DevOps and SRE Jobs | Boot.dev](https://blog.boot.dev/devops/devops-vs-sre/) personal trainer vs liveguard
 
 [Top 10 challenges in scaling DevOps - datree](https://datree.io/devops-challenges/)
 [Getting started with DevOps, containers, and Kubernetes - datree](https://datree.io/devops-containers-kubernetes/)
@@ -249,6 +251,15 @@ Bundle multiple aspects of devops into a platform
 > Chef is a bit more “developer friendly” while Puppet could be considered more oriented towards operations and sysadmin type of tasks.
 
 [r-darwish/topgrade: Upgrade everything](https://github.com/r-darwish/topgrade)
+
+### Terraform
+
+[[hashicorp#Terraform]]
+
+### Digger
+
+[Digger - Infra As Code](https://digger.dev/)
+[diggerhq/digger: Digger is an open source alternative to Terraform Cloud & Terraform Enterprise. Digger allows you to run Terraform plan/apply in your existing CI/CD pipeline ⚡️](https://github.com/diggerhq/digger)
 
 ### verses
 
@@ -697,6 +708,11 @@ Pull model, query metric exposition endpoints of service
 Export service (exporter) provides integration to services hard to instrumentation, Apache, Nginx, Linux
 Push gateway
 
+### Uptime Kuma
+
+[Uptime Kuma](https://uptime.kuma.pet/)
+[louislam/uptime-kuma: A fancy self-hosted monitoring tool](https://github.com/louislam/uptime-kuma)
+
 ### Hygieia
 
 [Tech - Hygieia | Capital One](https://www.capitalone.com/tech/solutions/hygieia)
@@ -773,9 +789,11 @@ StatsD, aggregate udp packets sent by service, not scalable
 [API Gateways Are Going Through an Identity Crisis – Software Blog](https://blog.christianposta.com/microservices/api-gateways-are-going-through-an-identity-crisis/)
 [Do I Need an API Gateway if I Use a Service Mesh? – Software Blog](https://blog.christianposta.com/microservices/do-i-need-an-api-gateway-if-i-have-a-service-mesh/)
 [Review: API Gateway HTTP APIs - Cheaper and Faster REST APIs? | cloudonaut](https://cloudonaut.io/review-api-gateway-http-apis/)
+[A Comprehensive Guide to API Gateways, Kubernetes Gateways, and Service Meshes | Navendu Pottekkat](https://navendu.me/posts/gateway-and-mesh/)
 
 [Comparing a service mesh with API management in a microservice architecture - API Connect](https://developer.ibm.com/apiconnect/2018/11/13/service-mesh-vs-api-management/)
 [API Gateway vs Service Mesh - Aspen Mesh](https://aspenmesh.io/api-gateway-vs-service-mesh/)
+[API Gateway Vs. Service Mesh: What's the Difference? - DevOps.com](https://devops.com/api-gateway-vs-service-mesh-whats-the-difference/)
 [Service Mesh vs API Gateway - Microservices in Practice - Medium](https://medium.com/microservices-in-practice/service-mesh-vs-api-gateway-a6d814b9bf56)
 
 ## Feature flags

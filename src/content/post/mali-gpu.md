@@ -3,7 +3,7 @@ title: Mali GPU
 description: ""
 created: 2015-05-18
 tags:
-  - comp.hardware
+  - comp/hardware
   - mali
 ---
 

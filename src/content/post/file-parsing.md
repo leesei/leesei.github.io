@@ -2,6 +2,7 @@
 title: File Parsing
 description: ""
 created: 2018-08-01
+updated: 2023-08-14
 tags:
   - binary-file
   - parsing
@@ -61,6 +62,9 @@ Root level keys:
 
 [glTF - Wikiwand](https://www.wikiwand.com/en/GlTF)
 [glTF Overview - The Khronos Group Inc](https://www.khronos.org/gltf/)
+
+[The Alliance for OpenUSD (AOUSD)](https://aousd.org/)
+[Apple、NVIDIA 等公司成立 Alliance for OpenUSD 推動 3D 內容開源標準 - 香港 unwire.hk](https://unwire.hk/2023/08/02/alliance-for-openusd/game-channel/)
 
 ## PDF
 

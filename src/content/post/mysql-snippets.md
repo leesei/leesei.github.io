@@ -3,8 +3,10 @@ title: SQL Snippets
 description: ""
 created: 2021-05-24
 tags:
-  - comp.lang
+  - comp/lang
+  - mysql
   - sql
+  - snippets/mysql
 ---
 
 [How to Show a List of All Databases in MySQL | Linuxize](https://linuxize.com/post/how-to-show-databases-in-mysql/)

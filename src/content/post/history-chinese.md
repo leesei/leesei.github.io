@@ -2,8 +2,10 @@
 title: 中國歷史
 description: ""
 created: 2015-10-09
+updated: 2023-08-01
 tags:
   - history
+  - history/chinese
 ---
 
 [中国古代史（中国历史）\_百度百科](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E5%8F%B2/3093)
@@ -13,6 +15,8 @@ tags:
 [主頁 | 中國文化研究院 - 燦爛的中國文明](https://chiculture.org.hk/)
 [History of China - Wikiwand](https://www.wikiwand.com/en/History_of_China)
 [Ancient China: Religion and Dynasties | HISTORY.com - HISTORY](https://www.history.com/topics/ancient-china)
+
+[中國河流詳細介紹，分為九大流域片、七大水系，了解河流分佈情況。#中國地理 #中國河流 - YouTube](https://www.youtube.com/watch?v=wRZ8w_4JBzs)
 
 [史诗！10 分钟从上古之战到溥仪退位，中国历史年表超燃影视化混剪！EPIC！Chronology of Chinese history in 10 minutes！ - YouTube](https://www.youtube.com/watch?v=zBtHgHy2iyM)
 
@@ -27,6 +31,7 @@ tags:
 [NewTV Documentary 华语纪录片 - YouTube](https://www.youtube.com/channel/UCY2K0prdYWOp3ne84krKRnw)
 [信息素官方 - YouTube](https://www.youtube.com/channel/UCz4iS6GAEXoFB1gJEmQFcvw)
 [袁腾飞官方频道 Tengfei Official - YouTube](https://www.youtube.com/c/tengfeiofficial/playlists?view=50&sort=dd&shelf_id=4)
+[地图里的故事 - YouTube](https://www.youtube.com/@DiTuLiDeGuShi)
 
 [封建制度 (中國) - Wikiwand](<https://www.wikiwand.com/zh-hant/%E5%B0%81%E5%BB%BA%E5%88%B6%E5%BA%A6_(%E4%B8%AD%E5%9C%8B)>)
 [六藝 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%85%AD%E8%89%BA)
@@ -261,6 +266,7 @@ tags:
 
 [戰國時期 - Wikiwand](https://www.wikiwand.com/zh-hant/%E6%88%98%E5%9B%BD%E6%97%B6%E6%9C%9F)
 [三家分晉 - Wikiwand](https://www.wikiwand.com/zh-hant/%E4%B8%89%E5%AE%B6%E5%88%86%E6%99%8B) 進入戰國時代
+[【三维地图】春秋战国分水岭——三家分晋是怎么发生的？它为何有如此重大的历史意义？结局又如何？ - YouTube](https://www.youtube.com/watch?v=F3rb0nEA7LM)
 [縱橫家 - Wikiwand](https://www.wikiwand.com/zh-hant/%E7%BA%B5%E6%A8%AA%E5%AE%B6)
 [合縱 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%90%88%E7%B8%B1)
 [連橫 (外交策略) - Wikiwand](<https://www.wikiwand.com/zh-hant/%E9%80%A3%E6%A9%AB_(%E5%A4%96%E4%BA%A4%E7%AD%96%E7%95%A5)>)
@@ -398,11 +404,17 @@ tags:
 李淵為北魏拓跋氏小弟, 鮮卑人, 本姓大野(Dayan, 蒙古語廣闊)
 在突厥支持下統一中國
 
+[歷時 7 年，消滅 1/4 世界人口，2/3 中國人口！最血腥的叛亂，徹底改變歷史走向，整個國家都是修羅場！安史之亂是如何發生的？[Unsolved Mystery Stories | Xiaowu] - YouTube](https://www.youtube.com/watch?v=ei8rWetBCys)
+
 ## 宋
 
 [宋朝 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%AE%8B%E6%9C%9D) 960-1279
+
 [壇淵之盟 - YouTube](https://www.youtube.com/playlist?list=PLd6O6ASBjtW7lxu21o0pPuAaHelzQmbws)
 [世紀帝國汁歷史#1 宋朝跟你說 什麼叫做有錢好辦事-澶淵之盟之宋遼戰爭 - YouTube](https://www.youtube.com/watch?v=bR8SfEpeWhM)
+
+[靖康之變 - Wikiwand](https://www.wikiwand.com/zh-hk/%E9%9D%96%E5%BA%B7%E4%B9%8B%E5%8F%98) 宋徽宗欲收復燕雲十六州而聯金滅遼, 其後金國攻陷汴梁, 擄走皇帝宋欽宗、太上皇宋徽宗
+[正史都不敢記載！一場跨越百年的命運輪迴！史上最恐怖的現世報事件，宋朝滅亡時究竟發生了什麼？[Unsolved Mystery Stories | Xiaowu] - YouTube](https://www.youtube.com/watch?v=tNobrV_cgD4)
 
 [海龍囤古堡：40 年前，考古隊意外闖入這座傳説中的古堡，然後，一個延續過 700 年的神秘家族浮出了水面……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=vxxnSBf5M3M) 播州楊氏, 於四川釣魚城誅滅蒙古大汗蒙哥, 間接拯救歐洲和中東
 

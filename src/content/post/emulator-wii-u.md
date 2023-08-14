@@ -2,6 +2,7 @@
 title: Wii U Emulator
 description: ""
 created: 2023-06-12
+updated: 2023-06-30
 tags:
   - emulator
   - games
@@ -49,9 +50,13 @@ Zelda BotW Graphic Packs:
 
 ## Games
 
+> Many games are re-released/remade on Switch
+
 [Cemu Compatibility List](http://compat.cemu.info/)
 
 [List of Mario role-playing games - Wikiwand](https://www.wikiwand.com/en/List_of_Mario_role-playing_games#)
+
+[Wii U ROM & ISO - Free Download](https://romsfun.com/roms/wii-u)
 
 [Nusdownloaders](https://testing.agilly1989.xyz/#/WiiU/Tools/Nusdownloaders/JNUSTool)
 [Wii U Downloader](https://testing.agilly1989.xyz/#/WiiU/Tools/Nusdownloaders/WiiUDownloader) deprecated

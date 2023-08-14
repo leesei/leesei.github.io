@@ -2,8 +2,9 @@
 title: USB
 description: ""
 created: 2019-01-29
+updated: 2023-07-22
 tags:
-  - comp.hardware
+  - comp/hardware
 ---
 
 [USB - Wikiwand](https://www.wikiwand.com/en/USB)
@@ -101,3 +102,11 @@ End of Packet: JJ SE0
 ```sh
 sudo lsusb -t
 ```
+
+## Mount USB storage
+
+[USB storage devices - ArchWiki](https://wiki.archlinux.org/title/USB_storage_devices)
+
+[udisks - ArchWiki](https://wiki.archlinux.org/title/Udisks)
+[coldfix/udiskie: Automounter for removable media](https://github.com/coldfix/udiskie)
+[How To: Easy USB Mounting On Linux With Udisks2 And Udiskie - YouTube](https://www.youtube.com/watch?v=eVZBvRkLqaE)

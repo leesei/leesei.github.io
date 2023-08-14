@@ -2,12 +2,12 @@
 title: Network
 description: ""
 created: 2016-04-24
+updated: 2023-07-28
 tags:
   - anycast
-  - comp
   - docker
   - ip
-  - network
+  - comp/network
   - osi
 ---
 
@@ -40,10 +40,9 @@ tags:
 [The World Wide Web: Crash Course Computer Science #30 - YouTube](https://www.youtube.com/watch?v=guvsH5OFizE)
 [Your Ultimate Guide To Computer Networking in 2019](https://www.potatopirates.game/ultimate-computer-network-guide)
 
-[Chris Greer - YouTube](https://www.youtube.com/c/ChrisGreer)
-[Wireshark with Chris Greer - YouTube](https://www.youtube.com/playlist?list=PLhfrWIlLOoKO8522T1OAhR5Bb2mD6Qy_l)
-
 [Viatto - YouTube](https://www.youtube.com/c/KeepingITSimple/featured)
+[David Bombal - YouTube](https://www.youtube.com/@davidbombal)
+[Chris Greer - YouTube](https://www.youtube.com/c/ChrisGreer)
 
 [Video Notes: Tanenbaum, Wetherall Computer Networks 5e](http://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html)
 
@@ -158,10 +157,15 @@ cat /etc/iptables/iptables.rules
 [How TCP Sockets Work](https://eklitzke.org/how-tcp-sockets-work)
 [Nagle's algorithm - Wikiwand](https://www.wikiwand.com/en/Nagle%27s_algorithm)
 
+Chris Greer
+[How TCP Works - YouTube](https://www.youtube.com/playlist?list=PLW8bTPfXNGdAZIKv-y9v_XLXtEqrPtntm)
+[Sharkfest Sessions - YouTube](https://www.youtube.com/playlist?list=PLW8bTPfXNGdDL00uA4rcR76dfF7CwXyTo)
 [How TCP really works // Three-way handshake // TCP/IP Deep Dive - YouTube](https://www.youtube.com/watch?v=rmFX1V49K8U)
 [Troubleshooting slow networks with Wireshark // wireshark filters // Wireshark performance - YouTube](https://www.youtube.com/watch?v=aEss3CG49iI)
 
-[How TCP Works - YouTube](https://www.youtube.com/playlist?list=PLW8bTPfXNGdAZIKv-y9v_XLXtEqrPtntm)
+David Bombal
+[Wireshark - YouTube](https://www.youtube.com/playlist?list=PLhfrWIlLOoKMO9-7NxYN3TxCdcDecwOtj)
+
 [TCP vs UDP Crash Course - YouTube](https://www.youtube.com/watch?v=qqRYkcta6IE)
 
 TCP states
@@ -182,6 +186,21 @@ Disconnected but still holding socket
 
 [怎么让不可靠的 UDP 可靠？](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247487188&idx=1&sn=2e1280a6a672d66b4f87c036a6c44ca6&chksm=96c9b8b4a1be31a2aca62731912f594f380bf3b4326797a2a013c54e7789095bf5721b5f55f1#rd)
 [Reliable UDP (RUDP): The Next Big Streaming Protocol? - Streaming Media Magazine](<http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/Reliable-UDP-(RUDP)-The-Next-Big-Streaming-Protocol-85316.aspx>)
+
+### Wireshark
+
+Wireshark can open many dump formats (e.g. `.cap`/`.pcap` from `tcpdump`)
+
+[Wireshark · Go Deep.](https://www.wireshark.org/)
+[Track Down Network Problems With Wireshark | PCWorld](http://www.pcworld.com/article/186871/track_down_network_problems_with_wireshark.html)
+
+Chris Greer
+[Wireshark with Chris Greer - YouTube](https://www.youtube.com/playlist?list=PLhfrWIlLOoKO8522T1OAhR5Bb2mD6Qy_l)
+[How to Use Wireshark - YouTube](https://www.youtube.com/playlist?list=PLW8bTPfXNGdA_TprronpuNh7Ei8imYppX)
+[Wireshark for Cybersecurity and Threat Hunting - YouTube](https://www.youtube.com/playlist?list=PLW8bTPfXNGdAY3AfCNtm12Ogzryfs7Ket)
+[Wireshark Masterclass - YouTube](https://www.youtube.com/playlist?list=PLW8bTPfXNGdC5Co0VnBK1yVzAwSSphzpJ)
+
+[gcla/termshark: A terminal UI for tshark, inspired by Wireshark](https://github.com/gcla/termshark)
 
 ## Anycast
 
@@ -246,6 +265,10 @@ Fabrics: A local-area RDMA network is usually referred to as a fabric.
 [inlets: Cloud Native Tunnel](https://docs.inlets.dev/#/)
 [inlets/inlets-archived: Cloud Native Tunnel, now inlets PRO](https://github.com/inlets/inlets-archived)
 [inlets/inlets-pro: Secure HTTP and TCP tunnels that just work](https://github.com/inlets/inlets-pro) client requires license
+
+### bore
+
+[ekzhang/bore: 🕳 bore is a simple CLI tool for making tunnels to localhost](https://github.com/ekzhang/bore)
 
 ### ngrok
 

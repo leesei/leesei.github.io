@@ -3,7 +3,7 @@ title: OpenCV
 description: ""
 created: 2014-12-31
 tags:
-  - comp.lang
+  - comp/lang
   - opencv
 ---
 

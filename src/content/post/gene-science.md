@@ -2,6 +2,7 @@
 title: Gene Science
 description: ""
 created: 2017-12-05
+updated: 2023-08-07
 tags:
   - biology
 ---
@@ -45,6 +46,11 @@ Epigenetic link: the environment the organism lives affect the expression of it'
 [How Crispr Could Snip Away Some of Humanity's Worst Diseases | WIRED](https://www.wired.com/2017/05/crispr-snip-away-humanitys-worst-diseases/)
 
 [Modified CRISPR gene editing tool could improve therapies for HIV, sickle cell disease](https://phys.org/news/2019-11-crispr-gene-tool-therapies-hiv.amp)
+
+### Electrogenetic manipulation
+
+[Scientists Discover How to Control Human Genes With Electricity](https://www.popularmechanics.com/science/health/a44714690/scientists-control-human-genes-with-electricity/)
+[An electrogenetic interface to program mammalian gene expression by direct current | Nature Metabolism](https://www.nature.com/articles/s42255-023-00850-7)
 
 ## Sex Determination
 

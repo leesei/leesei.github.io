@@ -25,6 +25,7 @@ New Mind
 [Machine Thinking - YouTube](https://www.youtube.com/@machinethinking)
 [Origins of Precision - YouTube](https://www.youtube.com/watch?v=gNRnrn5DE58)
 
+The Efficient Engineer
 [Understanding Engineering Drawings - YouTube](https://www.youtube.com/watch?v=ht9GwXQMgpo)
 [Understanding GD&T - YouTube](https://www.youtube.com/watch?v=G7wnGeR_69k) tolerance
 

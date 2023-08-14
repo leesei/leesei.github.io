@@ -2,6 +2,7 @@
 title: Arch Post Install
 description: ""
 created: 2021-01-08
+updated: 2023-07-22
 tags:
   - arch-linux
   - desktop
@@ -41,13 +42,12 @@ yay -S xbindkeys xautomation
 yay -S dropbox google-chrome sublime-text-3 visual-studio-code-bin
 
 # admin tools
-baobab dconf dconf-editor htop lnav xbindkeys xautomation xev
+baobab dconf dconf-editor htop lnav xbindkeys xautomation xev xdo
 # system tools
 base-devel cmake docker docker-buildx lshw nethogs pyenv sysstat udev-browse-git
 
 # runtime
 jre11-openjdk-headless
-jdk11-openjdk
 dotnet-sdk nuget
 
 # browser
@@ -55,10 +55,10 @@ firefox google-chrome profile-sync-daemon
 # cloud storage
 dropbox pcloud-drive
 # graphics
-gimp inkscape pinta yed pencil-bin
+gimp flameshot inkscape pinta yed pencil-bin zathura
 # ui tools
 clipit zenity
-albert goldendict
+rofi goldendict
 mediainfo-gui meld sublime-merge
 # office tools
 libreoffice-fresh teamviewer turbovnc
@@ -339,7 +339,7 @@ sudo pacman -Syy
 pacman -Syyu
 ```
 
-## Chinese
+## IME
 
 [黑眼珠 2: GNOME3： 選擇您的輸入法(openSUSE 13.1)](http://swyear.blogspot.hk/2013/12/gnome3-opensuse-131.html)
 
@@ -351,6 +351,8 @@ pacman -Syyu
 [Fcitx5 - ArchWiki](https://wiki.archlinux.org/title/Fcitx5)
 [hosxy/Fcitx5-Material-Color: 一款使用 Material Design 配色的 fcitx5 皮肤，喜欢的话给个 star 吧 ヾ(≧ へ ≦)〃 😉](https://github.com/hosxy/Fcitx5-Material-Color)
 [fcitx/fcitx5-table-extra](https://github.com/fcitx/fcitx5-table-extra)
+
+[Fcitx: Input Method Editor Made Easy On Linux - YouTube](https://www.youtube.com/watch?v=lJoXhS4EUJs)
 
 ```sh
 yay -S fcitx5-im fcitx5-table-extra
@@ -378,6 +380,12 @@ Settings
   - "Input Method" -> "Cangjie3" -> "Candidate List Orientation" -> "Horizontal"
 
 "Cangjie3" has <kbd>\</kbd> as Pinyin shortcut and <kbd>?</kbd> as wildcard
+
+### Mozc
+
+[google/mozc: Mozc - a Japanese Input Method Editor designed for multi-platform](https://github.com/google/mozc)
+[Mozc - ArchWiki](https://wiki.archlinux.org/title/mozc)
+[Mozc: How To Start Typing With Japanese Input - YouTube](https://www.youtube.com/watch?v=wsSTyYfomxs)
 
 ### gcin
 

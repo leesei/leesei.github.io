@@ -92,6 +92,7 @@ There's also a workspace (`.code-workspace`) file can contain a list of folders 
 
 [Snippets in Visual Studio Code](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
 [snippet-creator - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=nikitaKunevich.snippet-creator)
+[Visual Studio Code Snippets – the Definitive VS Code Snippet Guide for Beginners](https://www.freecodecamp.org/news/definitive-guide-to-snippets-visual-studio-code/)
 [codetalks-new/vscode-snippets-ext-template: A template project for create complex vscode snippets extension easily](https://github.com/codetalks-new/vscode-snippets-ext-template)
 
 ### Key Bindings

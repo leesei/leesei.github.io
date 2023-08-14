@@ -2,8 +2,9 @@
 title: Naming Things
 description: ""
 created: 2023-04-02
+updated: 2023-07-20
 tags:
-  - comp.lang
+  - comp/lang
 ---
 
 [[project-name]]
@@ -12,4 +13,5 @@ tags:
 
 [How To Create Meaningful Names In Code - Better Programming - Medium](https://medium.com/better-programming/how-to-create-meaningful-names-in-code-20d7476537d4)
 [WASM Components: The Interchangeable Parts of Software - YouTube](https://www.youtube.com/watch?v=ZxEqvtGUGLY)
+[Snake Case or Camel Case? a Guide to Programming Naming Conventions | Boot.dev](https://blog.boot.dev/clean-code/casings-in-coding/)
 [React PropType Best Practices - David Wells](https://davidwells.io/blog/react-prop-type-best-practices)
