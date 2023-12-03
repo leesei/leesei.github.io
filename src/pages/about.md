@@ -160,7 +160,6 @@ I gradually added these features:
       [How to make a styled Markdown admonition box in a GitHub Gist? - Stack Overflow](https://stackoverflow.com/questions/50544499/how-to-make-a-styled-markdown-admonition-box-in-a-github-gist) just use emoji?
       [Admonitions | Docusaurus](https://docusaurus.io/docs/markdown-features/admonitions)
       [Callouts - Obsidian Help](https://help.obsidian.md/Editing+and+formatting/Callouts)
-- [ ] github emoji
 - [ ] embed Foam's graph view (like Obsidian)
 - [ ] overlay button to copy from codeblocks?
 - [ ] add languages for codeblocks
