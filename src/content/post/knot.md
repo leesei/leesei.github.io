@@ -2,6 +2,7 @@
 title: Knot
 description: ""
 created: 2018-07-12
+updated: 2023-09-29
 tags:
   - knot
   - trivia
@@ -30,3 +31,15 @@ pass the standing end (usually with livestock) around a static object (usually a
 普魯士抓結（Prusik Knot）/手抓結: 易向上, 不易向下
 [【一日一结】法式抓结（French prusik）即自锁抓结（Auto Block）](https://www.sohu.com/a/211262721_99893772)
 [繩結七 : 抓繩結 (Friction Hitch) @ 好攝的男人 :: 痞客邦 ::](<https://avery1234.pixnet.net/blog/post/66863547-%E7%B9%A9%E7%B5%90%E4%B8%83-%3A-%E6%8A%93%E7%B9%A9%E7%B5%90-(friction-hitch)>)
+
+## Math of Knots
+
+[What is a Knot? - Numberphile - YouTube](https://www.youtube.com/watch?v=aqyyhhnGraw)
+[Prime Knots - Numberphile - YouTube](https://www.youtube.com/watch?v=M-i9v9VfCrs)
+[Colouring Knots - Numberphile - YouTube](https://www.youtube.com/watch?v=W9uVj9rf73E)
+
+[How Knots Help Us Understand the World - YouTube](https://www.youtube.com/watch?v=KmhGWCvxKF8)
+[How The Most Useless Branch of Math Could Save Your Life - YouTube](https://www.youtube.com/watch?v=8DBhTXM_Br4)
+[Introduction to Knots & Invariants - YouTube](https://www.youtube.com/watch?v=EBWP1POPc2A)
+[Primes and Knots - Akshay Venkatesh - YouTube](https://www.youtube.com/watch?v=jvoYgNYKyk0)
+[Untangling the beautiful math of KNOTS - YouTube](https://www.youtube.com/watch?v=pSgf9mJXn9o)

@@ -2,7 +2,7 @@
 title: GameCube/Wii Emulator
 description: ""
 created: 2023-06-12
-updated: 2023-07-29
+updated: 2023-09-29
 tags:
   - emulator
   - gamecube
@@ -44,8 +44,8 @@ Requirements:
 [Wii ROM - Nkit ISO & WBFS - Nintendo Wii Game Download](https://romsfun.com/roms/nintendo-wii)
 
 [Luigu's Mansion](https://wiki.dolphin-emu.org/index.php?title=Luigi%27s_Mansion)
+[Paper Mario: The Thousand-Year Door](https://wiki.dolphin-emu.org/index.php?title=Paper_Mario:_The_Thousand-Year_Door) (GC) ([HD texture](https://forums.dolphin-emu.org/Thread-paper-mario-ttyd-hd-texture-pack-v1-1-june-30-2017)) https://www.emulator-roms.com/?game=paper-mario-the-thousand-year-door-gc-iso/
 Super Paper Mario https://romsfun.com/roms/nintendo-wii/super-paper-mario.html
-[Paper Mario: The Thousand-Year Door](https://wiki.dolphin-emu.org/index.php?title=Paper_Mario:_The_Thousand-Year_Door) ([HD texture](https://forums.dolphin-emu.org/Thread-paper-mario-ttyd-hd-texture-pack-v1-1-june-30-2017)) https://www.emulator-roms.com/?game=paper-mario-the-thousand-year-door-gc-iso/
 Fire Emblem Path of Radiance (GC)
 Fire Emblem Radiant Dawn
 Star Wars Rogue Squadron II: Rogue Leader
@@ -55,4 +55,3 @@ Mario Striker Charged https://romsfun.com/roms/nintendo-wii/mario-strikers-charg
 Super Mario Galaxy 2
 The Legend of Zelda: Ocarina of Time / Master Quest https://romsfun.com/roms/nintendo-wii/the-legend-of-zelda-ocarina-of-time-2.html
 Kirby's Epic Yarn https://romsfun.com/roms/nintendo-wii/kirbys-epic-yarn.html
-Sonic Colors

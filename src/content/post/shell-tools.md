@@ -2,7 +2,7 @@
 title: Shell Tools
 description: ""
 created: 2015-01-14
-updated: 2023-07-27
+updated: 2023-11-14
 tags:
   - app
   - cpio
@@ -54,8 +54,6 @@ tags:
 [herrbischoff/awesome-command-line-apps: Use your terminal shell to do awesome things.](https://github.com/herrbischoff/awesome-command-line-apps)
 
 [denisidoro/navi: An interactive cheatsheet tool for the command-line](https://github.com/denisidoro/navi)
-[b4b4r07/enhancd: A next-generation cd command with your interactive filter](https://github.com/b4b4r07/enhancd)
-[ajeetdsouza/zoxide: A smarter cd command. Supports all major shells.](https://github.com/ajeetdsouza/zoxide)
 
 [Command line utilities — list of Rust libraries/crates // Lib.rs](https://lib.rs/command-line-utilities)
 [blindspot — command-line utility in Rust // Lib.rs](https://lib.rs/crates/blindspot)
@@ -329,6 +327,7 @@ Pipe with other tools to provide fuzzy filtering interface
 
 [ajeetdsouza/zoxide: A smarter cd command. Supports all major shells.](https://github.com/ajeetdsouza/zoxide) reimplementation of `z` in Rust
 [rupa/z: z - jump around](https://github.com/rupa/z)
+[b4b4r07/enhancd: A next-generation cd command with your interactive filter](https://github.com/b4b4r07/enhancd)
 [wting/autojump: A cd command that learns - easily navigate directories from the command line](https://github.com/wting/autojump)
 
 ## rsync
@@ -368,7 +367,17 @@ rename 's/.txt$//' *
 rename 's/$/.txt/' *
 ```
 
+[laurent22/massren: massren - easily rename multiple files using your text editor](https://github.com/laurent22/massren)
+[whyboris/Simplest-File-Renamer: Simplest file renamer - rename your files quickly and easily](https://github.com/whyboris/Simplest-File-Renamer)
+
+[ismaelgv/rnr: A command-line tool to batch rename files and directories](https://github.com/ismaelgv/rnr)
+
+[75lb/renamer: Rename files in bulk.](https://github.com/75lb/renamer) custom function
+[jhotmann/node-rename-cli: A tool for renaming files quickly, especially multiple files at once.](https://github.com/jhotmann/node-rename-cli) Nunjucks template
+
 [nomino — command-line utility in Rust // Lib.rs](https://lib.rs/crates/nomino)
+
+[wernight/renameit: Rename-It! is a Windows software to safely rename of thousands of files and folders at once via regex and all kind of other renaming filters. See the wiki section for more details.](https://github.com/wernight/renameit)
 
 ## sort
 
@@ -426,6 +435,14 @@ code -diff file1 file2
 [Wilfred/difftastic: a diff that understands syntax 🟥🟩](https://github.com/Wilfred/difftastic)
 
 [madsen/vbindiff: Visual Binary Diff (VBinDiff) displays files in hex & ASCII and can highlight the differences between 2 files](https://github.com/madsen/vbindiff)
+
+## Parallel
+
+[GNU Parallel Tutorial — GNU Parallel 20230822 documentation](https://www.gnu.org/software/parallel/parallel_tutorial.html)
+[GNU Parallel videos - YouTube](https://www.youtube.com/playlist?list=PL284C9FF2488BC6D1)
+
+[GNU Parallel, where have you been all my life? | Alex Plescan](https://alexplescan.com/posts/2023/08/20/gnu-parallel/)
+[This CLI Tool is AMAZING | Prime Reacts - YouTube](https://www.youtube.com/watch?v=ry49BZA-tgg)
 
 ## Text Searching
 
@@ -548,6 +565,8 @@ fortune | cowsay -f stegosaurus
 
 ## JSON manipulation
 
+[List of JSON tools for command line – Ilya's blog](https://ilya-sher.org/2018/04/10/list-of-json-tools-for-command-line/)
+
 [json(1) - JSON love for your command line](http://trentm.com/json/)
 [maxogden/jsonmap: CLI JSON mapping/transformation utility](https://github.com/maxogden/jsonmap)
 [FGRibreau/jq.node: jq.node - like jq but WAY MORE powerful](https://github.com/FGRibreau/jq.node)
@@ -559,7 +578,12 @@ fortune | cowsay -f stegosaurus
 [antonmedv/fx: Terminal JSON viewer](https://github.com/antonmedv/fx) viewer and run JavaScript code on JSON
 [FX: Powerful Terminal JSON Visualizer And Processor - YouTube](https://www.youtube.com/watch?v=HNzL_7v56WQ)
 
+[jless - A Command-Line JSON Viewer](https://jless.io/) node folding
+[PaulJuliusMartinez/jless: jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.](https://github.com/PaulJuliusMartinez/jless)
+
 [simeji/jid: json incremental digger](https://github.com/simeji/jid) interactive filter with autocomplete
+
+[jpmens/jo: JSON output from a shell](https://github.com/jpmens/jo)
 
 [lloyd/JSONSelect: CSS-like selectors for JSON](https://github.com/lloyd/JSONSelect) 😴inactive
 [dtao/gquery: Generic jQuery](https://github.com/dtao/gquery) 😴inactive
@@ -673,3 +697,12 @@ tr
 [q - Text as Data](https://harelba.github.io/q/)
 [sahib/rmlint: Extremely fast tool to remove duplicates and other lint from your filesystem](https://github.com/sahib/rmlint)
 [johnkerl/miller: Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON](https://github.com/johnkerl/miller)
+
+## TUI
+
+[charmbracelet/gum: A tool for glamorous shell scripts 🎀](https://github.com/charmbracelet/gum)
+[Write beautiful shell scripts with Gum! [Terminal Velocity 4] - YouTube](https://www.youtube.com/watch?v=tnikefEuArQ)
+[How To Create A "Proper" CLI With Shell And Charm Gum - YouTube](https://www.youtube.com/watch?v=U8zCHA-9VLA)
+
+[Bash Shell Scripting/Whiptail - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Bash_Shell_Scripting/Whiptail)
+[Add Dialogs And Menus To Shell Scripts With Whiptail - YouTube](https://www.youtube.com/watch?v=KsiPYMKSHU8)

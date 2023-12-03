@@ -2,6 +2,7 @@
 title: Kids Anime
 description: ""
 created: 2021-08-24
+updated: 2023-10-07
 tags:
   - anime
 ---
@@ -53,29 +54,7 @@ tags:
 
 ## Transformers
 
-[Transformers Wiki - TFWiki.net](https://tfwiki.net/wiki/Main_Page)
-[Transformers Official Website - More than Meets the Eye](https://transformers.hasbro.com/en-gb)
-[TRANSFORMERS OFFICIAL - YouTube](https://www.youtube.com/user/transformers)
-
-[Chris McFeely - YouTube](https://www.youtube.com/user/ChrisMcFeely/featured)
-
-[Transformers: War for Cybertron Trilogy - Wikiwand](https://www.wikiwand.com/en/Transformers:_War_for_Cybertron_Trilogy) on Netflix
-[变形金刚 6 部剧情|看完变形金刚的前世今生|最强时间线整理|美国电影推荐 - YouTube](https://www.youtube.com/watch?v=uUj0262_EEE)
-
-[二叔托马斯 - YouTube](https://www.youtube.com/channel/UCPawzI1EqtpKSZXLmG2GlHA)
-[变形金刚 - YouTube](https://www.youtube.com/playlist?list=PLgmTvH0O5wnz6ELLYibbYqUQE8JxO71uv)
-[变形金刚超能勇士 - YouTube](https://www.youtube.com/playlist?list=PLgmTvH0O5wnyW3yGKXl1ngSm2MMHsaCYV) Beast Wars
-[变形金刚猛兽侠 - YouTube](https://www.youtube.com/playlist?list=PLgmTvH0O5wnxamQG4Ld3j1RtXv9nyyTDN) Beast Machines
-
-### Toys
-
-刘哥模玩
-[官方变形金刚 - YouTube](https://www.youtube.com/playlist?list=PLSWTwk7f3a8u55lOgUe_OO6PwOZUj_iC0)
-[第三方变形金刚 - YouTube](https://www.youtube.com/playlist?list=PLSWTwk7f3a8vHeUz7Yu5mz597wkzE-vXh)
-[国产变形金刚 - YouTube](https://www.youtube.com/playlist?list=PLSWTwk7f3a8uA8McceQfB7jDzmwNn4ixe)
-
-[All Transformers Items – Collecticon Toys](https://collecticontoys.com/collections/all-transformers)
-[Studio Series - Transformers Wiki](https://tfwiki.net/wiki/Studio_Series)
+[[transformers]]
 
 ## Pokemon
 

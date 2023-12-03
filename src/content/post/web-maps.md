@@ -2,6 +2,7 @@
 title: Maps on the Web
 description: ""
 created: 2016-04-23
+updated: 2023-09-29
 tags:
   - maps
   - tiled-image

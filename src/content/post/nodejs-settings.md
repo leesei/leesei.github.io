@@ -2,7 +2,7 @@
 title: Node.js settings
 description: ""
 created: 2014-12-11
-updated: 2023-07-28
+updated: 2023-11-16
 tags:
   - comp/lang
   - nodejs
@@ -99,6 +99,7 @@ See [Node modules](#node-modules) or use `nvm reinstall-packages <prev-version>`
 [pnpm · Fast, disk space efficient package manager](https://pnpm.js.org/)
 
 [Why I Switched From NPM/Yarn to PNPM And Why You Should Too! - YouTube](https://www.youtube.com/watch?v=d1E31WPR70g)
+[Life After Yarn - YouTube](https://www.youtube.com/watch?v=ZIKDJBrk56k)
 [Why should we use pnpm? by @ZoltanKochan](https://www.kochan.io/nodejs/why-should-we-use-pnpm.html)
 [Flat node_modules is not the only way – pnpm – Medium](https://medium.com/pnpm/flat-node-modules-is-not-the-only-way-d2e40f7296a3)
 [Why we switched from Yarn to pnpm - Data Orchestration for Composable Commerce](https://www.takeshape.io/articles/why-we-switched-from-yarn-to-pnpm/)
@@ -228,32 +229,27 @@ npm install
 
 ## List globally installed modules
 
+To get a list for installing in another machine (or migration between Node version)
+
 ```sh
 npm ls --location=global --depth 0
 # OR
 \ls $(npm root --location=global)
-```
 
-To get a list for installing in another machine (or backup the list)
-
-> npm must be updated alone or it will cause error
-> remove npm before `npm install -g`
-
-```sh
 # shell independent
 npm ls --location=global --depth 0 | grep -P '(?<= ).*(?=@)' -o | grep -v npm | tr '\n' ' ' && echo
 ```
 
 ```
 # home
-@google/clasp bunyan create-react-app csslint fancy-server faucet fixpack github-commits-since-tag-cli hexo-cli htmlhint json jsonlint json-server licenseify live-server markdown-tools nodemon npm-check pipeable-js prettier pxt refine-manhuaren yarn
+@google/clasp bunyan sslint fancy-server faucet fixpack github-commits-since-tag-cli hexo-cli htmlhint json jsonlint json-server licenseify live-server markdown-tools nodemon npm-check pipeable-js prettier pxt refine-manhuaren yarn
 
 @google/clasp fixpack json-server licenseify nodemon prettier yarn
 
 # work
-csslint depcheck dredd ecstatic faucet fixpack htmlhint httpbin.js imgmini json jsonlint json-server lerna licenseify live-server lodash logcat markdown-tools netlify-cli nodemon prettier remarkable rfc tap-spec tldr typescript yamljs yaml-lint yarn
+csslint depcheck dredd ecstatic faucet fixpack htmlhint httpbin.js json jsonlint json-server licenseify live-server logcat markdown-tools netlify-cli nodemon prettier remarkable rfc tap-spec tldr typescript yamljs yarn
 
-@google/clasp @leesei/imgmini depcheck fixpack json-server licenseify nodemon prettier serve ts-node typescript yarn
+@google/clasp @leesei/imgmini bun corepack depcheck fixpack json-server licenseify nodemon prettier serve ts-node typescript yarn
 ```
 
 ## npm fails
@@ -327,6 +323,26 @@ I need an option parser that auto generates the help page.
 
 - [Can't use default together with coercion (example from front-page broken) · Issue #400 · tj/commander.js](https://github.com/tj/commander.js/issues/400)
 - [Global Options · Issue #476 · tj/commander.js](https://github.com/tj/commander.js/issues/476)
+
+[util.parseArgs() | Node.js Documentation](https://nodejs.org/api/util.html#utilparseargsconfig) added v18.3.0, v16.17.0
+
+```js
+import { parseArgs } from "node:util";
+const { options, positionals } = parseArgs({
+  options: {
+    verbose: {
+      type: "boolean",
+      short: "v",
+    },
+  },
+  allowPositionals: true,
+});
+console.log(options, positionals);
+if (positionals.length === 0) {
+  console.error("missing input");
+  process.exit(1);
+}
+```
 
 [nodeca/argparse: CLI arguments parser for node.js. JS port of python's argparse module.](https://github.com/nodeca/argparse)
 [sindresorhus/meow: CLI app helper](https://github.com/sindresorhus/meow)
@@ -447,7 +463,7 @@ Workshop:
 
 [danielb2-purdy.js](https://github.com/danielb2/purdy.js) colored object inspect
 
-### Logger
+## Logger
 
 Requirements:
 
@@ -456,27 +472,34 @@ Requirements:
 - debug level
 - search (optional)
 
-[NodeJS logging made right – ITNEXT](https://itnext.io/nodejs-logging-made-right-117a19e8b4ce)
-[Comparing Node.js logging tools - LogRocket Blog](https://blog.logrocket.com/comparing-node-js-logging-tools/)
+[Comparing Node.js logging tools - LogRocket Blog](https://blog.logrocket.com/comparing-node-js-logging-tools/) 2021
+[NodeJS logging made right. Logging on steroids with CLS and Proxy | by Andrey Goncharov | ITNEXT](https://itnext.io/nodejs-logging-made-right-117a19e8b4ce) 2019
 
-[visionmedia-debug](https://github.com/visionmedia/debug) support DEBUG in env to toggle log
-
-[trentm/node-bunyan](https://github.com/trentm/node-bunyan)
+[trentm/node-bunyan](https://github.com/trentm/node-bunyan) 😴inactive
 [Bunyan JSON Logs with Fluentd and Graylog – The JS Blog](https://jsblog.insiderattack.net/bunyan-json-logs-with-fluentd-and-graylog-187a23b49540)
-
-[klauscfhq/signale: 👋 Hackable console logger](https://github.com/klauscfhq/signale)
-[nuxt/consola: 🐨 Elegant Console Logger](https://github.com/nuxt/consola)
-[bevry/caterpillar](https://github.com/bevry/caterpillar)
-[winstonjs/winston](https://github.com/winstonjs/winston)
-[nlf/bucker](https://github.com/nlf/bucker)
-[tj/log.js](https://github.com/tj/log.js)
-[observing/devnull: dev/null, a powerful logging module for Node.js.. Because logging to dev/null is fast! <3](https://github.com/observing/devnull)
 
 [rvagg/bole](https://github.com/rvagg/bole) based on idea of bunyan generally, simple yet flexible API
 
-[mcollina/pino: fast and simple node.js logger](https://github.com/mcollina/pino)
+[npm/npmlog: The logger that npm uses](https://github.com/npm/npmlog) npm's logger
+
+[winstonjs/winston](https://github.com/winstonjs/winston)
+
+[nuxt/consola: 🐨 Elegant Console Logger](https://github.com/nuxt/consola)
+[klauscfhq/signale: 👋 Hackable console logger](https://github.com/klauscfhq/signale) fancy
+[bevry/caterpillar](https://github.com/bevry/caterpillar)
+[debug-js/debug: A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers](https://github.com/debug-js/debug) support DEBUG in env to toggle log
+[expressjs/morgan: HTTP request logger middleware for node.js](https://github.com/expressjs/morgan) 😴inactive, express's logger
+
+### Pino
+
+[Pino - Super fast, all natural JSON logger for Node.js](https://getpino.io/#/)
+[pinojs/pino: 🌲 super fast, all natural json logger](https://github.com/pinojs/pino)
+
+[Ecosystem](https://getpino.io/#/docs/ecosystem)
 [feugy/pino-roll: A Pino transport that automatically rolls your log files](https://github.com/feugy/pino-roll)
-[Guest post: Pino - The Fastest Node.js Logger for production](http://www.nearform.com/nodecrunch/sematext-guest-post-pino-fastest-node-js-logger-production/)
+
+[A Complete Guide to Pino Logging in Node.js | Better Stack Community](https://betterstack.com/community/guides/logging/how-to-install-setup-and-use-pino-to-log-node-js-applications/)
+[PINO - The fastest Node.js logger for production - NearForm](https://www.nearform.com/blog/pino-the-fastest-node-js-logger-for-production/) 2016
 
 ## File system
 
@@ -523,19 +546,13 @@ nodemon --watch 'src/**/*.ts' --exec node --inspect -r ts-node/register src/serv
 ## Database/ORM
 
 [[prisma]]
-
-[Why you should avoid ORMs (with examples in Node.js)](https://blog.logrocket.com/why-you-should-avoid-orms-with-examples-in-node-js-e0baab73fa5)
-Low level: Database Driver
-Middle Level: Query Builder
-High Level: ORM
+[[sql#ORM (or not)]]
 
 [I tried 8 different Postgres ORMs - YouTube](https://www.youtube.com/watch?v=4QN1BzxF8wM)
 [Top 11 Node.js ORMs, Query Builders & Database Libraries in 2021](https://www.prisma.io/dataguide/database-tools/top-nodejs-orms-query-builders-and-database-libraries)
 [The best TypeScript ORMs - LogRocket Blog](https://blog.logrocket.com/best-typescript-orms/)
 [Which JavaScript ORM should you be using in 2018?](https://www.freecodecamp.org/news/a-comparison-of-the-top-orms-for-2018-19c4feeaa5f)
 [From TypeORM to LoopBack: A Retrospective – Hacker Noon](https://hackernoon.com/from-typeorm-to-loopback-a-retrospective-188ea18527a2)
-
-[MikroORM: TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. | MikroORM](https://mikro-orm.io/)
 
 [Schniz/cuery: A composable SQL query builder using template literals](https://github.com/Schniz/cuery)
 [Sequelize | The Node.js / io.js ORM for PostgreSQL, MySQL, SQLite and MSSQL](https://sequelize.readthedocs.io/)
@@ -547,6 +564,8 @@ High Level: ORM
 [Kysely | Kysely](https://kysely.dev/) inspred by Knex, model typing
 [kysely-org/kysely: A type-safe typescript SQL query builder](https://github.com/kysely-org/kysely)
 
+[MikroORM: TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. | MikroORM](https://mikro-orm.io/)
+
 [typeorm/typeorm: ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.](https://github.com/typeorm/typeorm)
 [Setting up a basic TypeORM starter](https://daily-dev-tips.com/posts/setting-up-a-basic-typeorm-starter/)
 [TypeORM: Object-relational mapping with Node.js - LogRocket Blog](https://blog.logrocket.com/typeorm-object-relational-mapping-node-js/)
@@ -555,140 +574,11 @@ High Level: ORM
 [planetscale/database-js: A Fetch API-compatible PlanetScale database driver](https://github.com/planetscale/database-js) fixes Prisma's slow cold start problem
 [Let's Talk About Database Performance - YouTube](https://www.youtube.com/watch?v=3P7jnolWfHw)
 
+### Drizzel ORM
+
 [DrizzleORM - next gen TypeScript ORM](https://orm.drizzle.team/)
 [drizzle-team/drizzle-orm: TypeScript ORM for SQL](https://github.com/drizzle-team/drizzle-orm) Prisma alternative, less toolchain reliance
+
 [I Have A New Favorite Database Tool - YouTube](https://www.youtube.com/watch?v=_SLxGYzv6jo)
-
-## App Frameworks
-
-#web-framework
-
-[[astro]]
-[[fastify]]
-[[feathersjs]]
-[[hapi]]
-[[nextjs]]
-[[totaljs]]
-
-[The Curious Case of Blazing Fast Front-End JS Frameworks](https://analyticsindiamag.com/the-curious-case-of-blazing-fast-front-end-js-frameworks/)
-[Now That React is Dying - Here Are Some (Better) Alternatives | JavaScript in Plain English](https://javascript.plainenglish.io/now-that-react-is-dying-here-are-some-better-alternatives-fb89ed5c4f74)
-[Pick a Framework Without Going Crazy in 2023 - YouTube](https://www.youtube.com/watch?v=S7X6fLbdwlc) [drawing](https://twitter.com/t3dotgg/status/1612980211393638401/photo/1)
-[Ranking Full Stack Frameworks By My FAVORITE Features - YouTube](https://www.youtube.com/watch?v=zADNdGVIPBY)
-[The past, current state & future of JavaScript frameworks - YouTube](https://www.youtube.com/watch?v=5EsLj3JOdE0)
-
-[Deployd](http://deployd.com/)
-[deployd docs](http://docs.deployd.com/docs/)
-[deployd/deployd: a toolkit for building realtime APIs](https://github.com/deployd/deployd)
-
-[Platformatic](https://platformatic.dev/)
-
-LoopBack is based on Express
-[LoopBack 4 | LoopBack Documentation](https://loopback.io/doc/en/lb4/index.html) OpenAPI, ES2017, TypeScript
-
-[Using three of the top NodeJS Web REST API Frameworks](https://medium.com/swlh/using-three-of-the-top-nodejs-web-rest-api-frameworks-d1d6dac021ee)
-
-### Bling
-
-> endpoint generator for frontend projects
-
-[TanStack/bling: 💍 Framework agnostic transpilation utilities for client/server RPCs, env isolation, islands, module splitting, and more.](https://github.com/TanStack/bling)
-
-### Marko
-
-> Server Side Rendering, Progressive Rendering
-
-[Marko](http://markojs.com/)
-[A First Look at MarkoJS - DEV Community](https://dev.to/ryansolid/a-first-look-at-markojs-3h78)
-
-[Marko - YouTube](https://www.youtube.com/channel/UC1wouaQKl3Qw-aOOo1NmQbA)
-
-[Redesigning Marko Series' Articles - DEV Community](https://dev.to/ryansolid/series/14986) 2020-11, Marko 6 features
-
-### Qwik
-
-> Server Side Rendering, stream updates
-
-[Qwik](https://qwik.builder.io/)
-[BuilderIO/qwik: Instant-loading web apps, without effort](https://github.com/BuilderIO/qwik)
-[Host element - Qwik](https://qwik.builder.io/guide/components/host-element)
-All JS code are serialized as string and lazy loaded
-[Qwik compiler playground](https://qwik-playground.builder.io/)
-
-[Qwik… the world's first O(1) JavaScript framework? - YouTube](https://www.youtube.com/watch?v=x2eF3YLiNhY)
-[Build Resumable Apps with Qwik - YouTube](https://www.youtube.com/watch?v=_PDpoJUacuc)
-[Unveiling Qwik 1.0: What You Need to Know! - YouTube](https://www.youtube.com/watch?v=NjKOAbWqOM4)
-[Things are getting serious! - YouTube](https://www.youtube.com/watch?v=zXx_FHQuWt0)
-
-[Qwik Series' Articles - DEV Community](https://dev.to/mhevery/series/13467)
-[Resumable JavaScript with Qwik - DEV Community](https://dev.to/this-is-learning/resumable-javascript-with-qwik-2i29)
-
-#### Qwik City
-
-> Server Side Rendering, Static Site Generation, app framework like Next.js for React
-
-[Qwik City - Overview - Qwik](https://qwik.builder.io/docs/qwikcity/)
-[Qwik City Routing: A Visual Guide](https://www.builder.io/blog/qwik-city-routing)
-
-[Qwik City as a JavaScript Framework](https://devm.io/javascript/qwik-city-framework)
-[Using server functions with Qwik and Qwik City - LogRocket Blog](https://blog.logrocket.com/using-server-functions-qwik-and-qwik-city/)
-
-### FoalTS
-
-[FoalTS](https://foalts.org/) based on Express
-
-### Elder.js
-
-[Elderjs/elderjs: Elder.js is an opinionated static site generator and web framework for Svelte built with SEO in mind.](https://github.com/Elderjs/elderjs)
-[Elder.js: A Svelte Framework and Static Site Generator](https://elderguide.com/tech/elderjs/)
-
-[Elder.js Template: Home](https://elderjs.pages.dev/)
-[Is Elder.js Right For You?](https://elderjs.pages.dev/is-elderjs-right-for-you/)
-
-### Wasp
-
-[Wasp | Wasp](https://wasp-lang.dev/) A simple language for developing full-stack web apps with less code.
-React + Node.js + Prisma
-
-### AdonisJs
-
-[AdonisJS - A fully featured web framework for Node.js](https://adonisjs.com/)
-[AdonisJS Framework](https://github.com/adonisjs)
-
-## Fullstack frameworks
-
-### RedwoodJS
-
-> Server Side Rendering
-
-[RedwoodJS - Bringing Full-stack to the JAMstack](https://redwoodjs.com/) GraphQL + React
-[redwoodjs/redwood: Bringing full-stack to the JAMstack.](https://github.com/redwoodjs/redwood)
-
-[Redwood in 100 Seconds - YouTube](https://www.youtube.com/watch?v=o5Mwa_TJ3HM)
-
-### Hasura
-
-> Server Side Rendering
-
-[Build fullstack applications quickly | Hasura](https://hasura.io/)
-[Tutorials – Hasura](https://blog.hasura.io/tutorials/home)
-[How Hasura works (in doodles) – Hasura](https://blog.hasura.io/how-hasura-works-in-doodles-ba03d6ce6044)
-
-[Tutorial: Leveraging Hasura, GraphQL and Apollo to build and deploy a fullstack react app](https://blog.hasura.io/tutorial-leveraging-hasura-graphql-and-apollo-to-build-and-deploy-a-fullstack-react-app-bafa32724010)
-
-### Appwrite
-
-> Server Side Rendering
-
-[Appwrite - Open-Source End-to-End Backend Server](https://appwrite.io/)
-
-[Authentication - Exploring Appwrite.io with React Series - DEV Community](https://dev.to/daryllukas/authentication-exploring-appwrite-io-with-react-series-1iec)
-[Building a message board with Next.js and AppWrite - DEV Community](https://dev.to/livecycle/building-a-message-board-with-nextjs-and-appwrite-3910)
-[Building a customer support app with live chat and notifications using Next.js, Novu and Appwrite - DEV Community](https://dev.to/arshadayvid/building-a-customer-support-app-with-live-chat-and-notifications-using-nextjs-novu-and-appwrite-2fn8) `account.createEmailSession()`, `account.get()`
-
-### WunderGraph
-
-[[graphql#WunderGraph]]
-
-### Firebase and alternatives
-
-[[google-cloud-platform#Firebase]]
+[Drizzle ORM First impressions - migrations, relations, queries! - YouTube](https://www.youtube.com/watch?v=Qo-RXkSwOtc)
+[This Drizzle ORM feature is a game changer! - YouTube](https://www.youtube.com/watch?v=O9zxsSl9zgE&pp=ygUHZHJpenpsZQ%3D%3D)

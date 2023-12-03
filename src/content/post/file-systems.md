@@ -2,6 +2,7 @@
 title: File Systems
 description: ""
 created: 2015-05-20
+updated: 2023-11-20
 tags:
   - file-system
   - linux
@@ -36,6 +37,8 @@ tags:
 [Why Do Removable Drives Still Use FAT32 Instead of NTFS?](https://www.howtogeek.com/177529/htg-explains-why-are-removable-drives-still-using-fat32-instead-of-ntfs/)
 
 ### Comparison
+
+> ReiserFS is dead (2023-09)
 
 [How to Choose Your Red Hat Enterprise Linux File System - Red Hat Customer Portal](https://access.redhat.com/articles/3129891)
 
@@ -87,12 +90,14 @@ ZFS provides bitrot protection.
 
 [ZFS on Linux](http://zfsonlinux.org/)
 
-[Create a ZFS volume on Ubuntu – JamesCoyle.net](http://www.jamescoyle.net/how-to/478-create-a-zfs-volume-on-ubuntu)
-
+["The ZFS filesystem" - Philip Paeps (LCA 2020) - YouTube](https://www.youtube.com/watch?v=Hjpqa_kjCOI) configure ZFS on OSX
+[What Is ZFS?: A Brief Primer - YouTube](https://www.youtube.com/watch?v=lsFDp-W1Ks0)
+[
 [From BFS to ZFS: past, present, and future of file systems – Ars Technica](https://arstechnica.com/gadgets/2008/03/past-present-future-file-systems/amp/)
 [Ars walkthrough: Using the ZFS next-gen filesystem on Linux – Ars Technica](https://arstechnica.com/information-technology/2014/02/ars-walkthrough-using-the-zfs-next-gen-filesystem-on-linux/amp/)
 [ZFS 101—Understanding ZFS storage and performance – Ars Technica](https://arstechnica.com/information-technology/2020/05/zfs-101-understanding-zfs-storage-and-performance/amp/)
 [Ubuntu 20.04’s zsys adds ZFS snapshots to package management [Updated] – Ars Technica](https://arstechnica.com/gadgets/2020/03/ubuntu-20-04s-zsys-adds-zfs-snapshots-to-package-management/amp/)
+[Create a ZFS volume on Ubuntu – JamesCoyle.net](http://www.jamescoyle.net/how-to/478-create-a-zfs-volume-on-ubuntu)
 
 [How ZFS continues to be better than btrfs — Rudd-O.com in English](https://rudd-o.com/linux-and-free-software/ways-in-which-zfs-is-better-than-btrfs)
 [The ZFS Story: Clearing Up the Confusion - Datamation](http://www.datamation.com/data-center/the-zfs-story-clearing-up-the-confusion-1.html)

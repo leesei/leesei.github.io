@@ -2,6 +2,7 @@
 title: Barcode
 description: ""
 created: 2015-09-02
+updated: 2023-10-20
 tags:
   - trivia
 ---
@@ -65,6 +66,8 @@ tags:
 [QR Code Generator: QR Stuff Free Online QR Code Creator And Encoder For Brochures, Print Advertising, Business Cards & Stickers](http://www.qrstuff.com/)
 [QR Code Generator – create QR codes for free (Logo, T-Shirt, vCard, EPS)](http://goqr.me/)
 
+[Online rMQR Generator](https://rmqr.oudon.xyz/)
+
 [二维码的生成细节和原理 | | 酷 壳 - CoolShell](https://coolshell.cn/articles/10590.html)
 
 ### Photo QR Code
@@ -76,8 +79,15 @@ tags:
 
 > long QR code
 
-[細長い QR コード登場　読み取り速度と情報量はそのまま“狭い場所”に対応 - ITmedia NEWS](https://www.itmedia.co.jp/news/articles/2205/25/news107.html)
+[rMQR Code | QRcode.com | DENSO WAVE](https://www.qrcode.com/en/codes/rmqr.html)
+[rMQR Code](https://barcodeguide.seagullscientific.com/Content/Symbologies/rMQRCode.htm)
+
 [長條形 QR code 誕生！DENSO WAVE 開發 rMQR Code 適用狹長空間 | TechNews 科技新報](https://technews.tw/2022/05/25/rmqr-code/)
+[Rectangular Micro QR Code (rMQR) | Hackaday.io](https://hackaday.io/project/192082-rectangular-micro-qr-code-rmqr)
+
+[They Made QR Codes LONGER?!? - YouTube](https://www.youtube.com/watch?v=J8S-NJ1GTn4)
+
+[OUDON/rmqrcode-python: Rectangular Micro QR Code (rMQR Code) Generator in Python](https://github.com/OUDON/rmqrcode-python)
 
 ## Data Matrix
 

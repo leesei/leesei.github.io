@@ -2,7 +2,7 @@
 title: Reverse Engineering
 description: ""
 created: 2023-03-01
-updated: 2023-07-26
+updated: 2023-11-22
 tags:
   - security
 ---
@@ -17,9 +17,12 @@ tags:
 
 [[learn-to-code#Assembly]]
 
+[Malpedia (Fraunhofer FKIE)](https://malpedia.caad.fkie.fraunhofer.de/)
 [rshipp/awesome-malware-analysis: A curated list of awesome malware analysis tools and resources.](https://github.com/rshipp/awesome-malware-analysis)
 
 ["Reverse Engineering for Beginners" free book](http://beginners.re/) [source](https://github.com/dennis714/RE-for-beginners)
+
+[Reverse Engineering 101 - Reverse Engineering - 0x00sec - The Home of the Hacker](https://0x00sec.org/t/reverse-engineering-101/1233)
 
 [Reverse engineering visual novels 101 – Hacker Noon](https://hackernoon.com/reverse-engineering-visual-novels-101-d0bc3bf7ab8)
 [Reverse engineering visual novels 101, part 2 – Hacker Noon](https://hackernoon.com/reverse-engineering-visual-novels-101-part-2-9258f547262a)
@@ -32,6 +35,9 @@ tags:
 [Binary Exploitation Deep Dive: Return to LIBC (with Matt) - YouTube](https://www.youtube.com/watch?v=tMN5N5oid2c) `pwninit`, `patchelf`, `gdb`+`gef`, Ghidra
 [Google CTF - BEGINNER Reverse Engineering w/ ANGR - YouTube](https://www.youtube.com/watch?v=RCgEIBfnTEI)
 [Snip3 Crypter/RAT Loader - DcRat MALWARE ANALYSIS - YouTube](https://www.youtube.com/watch?v=ElqmQDySy48)
+
+[Intel® XED](https://intelxed.github.io/)
+[intelxed/xed: x86 encoder decoder](https://github.com/intelxed/xed)
 
 [io12/pwninit: pwninit - automate starting binary exploit challenges](https://github.com/io12/pwninit)
 
@@ -56,6 +62,19 @@ tags:
 - loading another user's HKCU (`NTUSER.dat`)
 - shellcode, speakeasy
 
+## Trail of Bits
+
+[Trail of Bits | Open Source](https://www.trailofbits.com/opensource/)
+
+[lifting-bits/remill: Library for lifting machine code to LLVM bitcode](https://github.com/lifting-bits/remill)
+[lifting-bits/anvill: anvill forges beautiful LLVM bitcode out of raw machine code](https://github.com/lifting-bits/anvill) uses Remill
+[lifting-bits/mcsema: Framework for lifting x86, amd64, aarch64, sparc32, and sparc64 program binaries to LLVM bitcode](https://github.com/lifting-bits/mcsema) 🗃️archived, uses Remill
+[lifting-bits/vmill](https://github.com/lifting-bits/vmill) 🗃️archived, uses Remill
+[lifting-bits/rellic: Rellic produces goto-free C output from LLVM bitcode](https://github.com/lifting-bits/rellic)
+
+[Magnifier: An Experiment with Interactive Decompilation | Trail of Bits Blog](https://blog.trailofbits.com/2022/08/25/magnifier-an-experiment-with-interactive-decompilation/)
+[trailofbits/magnifier](https://github.com/trailofbits/magnifier) 🗃️archived, uses Rellic
+
 ## IDA
 
 [IDA Freeware](https://hex-rays.com/ida-free/)
@@ -67,12 +86,18 @@ tags:
 
 [Ghidra](https://ghidra-sre.org/)
 [NationalSecurityAgency/ghidra: Ghidra is a software reverse engineering (SRE) framework](https://github.com/NationalSecurityAgency/ghidra)
+[lifting-bits/sleigh: Unofficial CMake build for Ghidra SLEIGH](https://github.com/lifting-bits/sleigh)
+
 [Auditing system calls for command injection vulnerabilities using Ghidra's PCode - YouTube](https://www.youtube.com/watch?v=UVNeg7Vqytc) Python integration
 [How Ghidra changed my life - Chris Eagle - YouTube](https://www.youtube.com/watch?v=KL1jE9dxas0)
 [Getting Started Reversing C++ Objects with Ghidra - YouTube](https://www.youtube.com/watch?v=ir2B1trR0fE)
 [HackadayU: Reverse Engineering with Ghidra Class 1 - YouTube](https://www.youtube.com/watch?v=d4Pgi5XML8E)
 [Ghidra - Journey from Classified NSA Tool to Open Source - YouTube](https://www.youtube.com/watch?v=kx2xp7IQNSc)
 [Reversing WannaCry - YouTube](https://www.youtube.com/playlist?list=PLniOzp3l9V83Yf52IXJTvW9rjstdqkduP)
+
+## Hopper Disassembler
+
+[Hopper](https://www.hopperapp.com/)
 
 ## Shellcode
 
@@ -93,6 +118,7 @@ tags:
 [Global Offset Table - Wikiwand](https://www.wikiwand.com/en/Global_Offset_Table)
 
 [In-depth: ELF - The Extensible & Linkable Format - YouTube](https://www.youtube.com/watch?v=nC1U1LJQL8o)
+[No really, how does Linux run executables? - YouTube](https://www.youtube.com/watch?v=Ia5jyz8sOCM)
 
 [elf: format of Executable and Linking Format (ELF) files | File Formats | Man Pages | ManKier](https://www.mankier.com/5/elf)
 [vdso: overview of the virtual ELF dynamic shared object | Miscellanea | Man Pages | ManKier](https://www.mankier.com/7/vdso)
@@ -112,6 +138,9 @@ objdump -d -Mintel <binary>
 ## PE format
 
 [Portable Executable - Wikiwand](https://www.wikiwand.com/en/Portable_Executable)
+
+[trailofbits/pe-parse: Principled, lightweight C/C++ PE parser](https://github.com/trailofbits/pe-parse)
+[pe-parse/pepy at master · trailofbits/pe-parse](https://github.com/trailofbits/pe-parse/tree/master/pepy)
 
 ## C Sharp
 
@@ -155,13 +184,25 @@ objdump -d -Mintel <binary>
 
 [Cheat Engine](https://www.cheatengine.org/)
 
+[ANY.RUN - Interactive Online Malware Sandbox](https://any.run/)
+[Exploring the Latest Malware Samples - YouTube](https://www.youtube.com/watch?v=loZ5fEldBGA)
+
+- MITRE Attack labels
+- Malware report
+
 ## ReClass.NET
 
 [ReClassNET/ReClass.NET: More than a ReClass port to the .NET platform.](https://github.com/ReClassNET/ReClass.NET)
 
 [Reclass Tutorial - ReClass.NET - How To Reverse Structures - YouTube](https://www.youtube.com/watch?v=vQb21RM9-5M)
 
-## GEF
+## gdb
+
+[[learn-to-code#Debugging]]
+
+[nakst/gf: A GDB frontend for Linux.](https://github.com/nakst/gf)
+
+[cyrus-and/gdb-dashboard: Modular visual interface for GDB in Python](https://github.com/cyrus-and/gdb-dashboard)
 
 [hugsy/gef: GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux](https://github.com/hugsy/gef)
 [GEF - GDB Enhanced Features documentation](https://hugsy.github.io/gef/)

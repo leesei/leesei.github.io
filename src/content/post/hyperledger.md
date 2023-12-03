@@ -2,7 +2,7 @@
 title: Hyperledger
 description: Open Source Private Blockchain
 created: 2023-04-01
-updated: 2023-07-12
+updated: 2023-09-29
 tags:
   - blockchain
   - hyperledger

@@ -2,14 +2,14 @@
 title: Microservice
 description: ""
 created: 2016-05-15
-updated: 2023-08-14
+updated: 2023-09-29
 tags:
   - architecture
   - microservice
   - web
 ---
 
-![Modularize all the things](/_assets/microservice/modularize-all-the-things.webp)
+![Modularize all the things](./_assets/microservice/modularize-all-the-things.webp)
 
 > lots of known unknowns and unknown unknowns here
 
@@ -206,6 +206,9 @@ Microservices should only be considered in the next phases when the need to scal
 [Monoliths are the future |> News and podcasts for developers |> Changelog](https://changelog.com/posts/monoliths-are-the-future)
 
 [GOTO 2021 • The Problem with Microservices • Dave Farley - YouTube](https://www.youtube.com/watch?v=V3NQt5KP7EM)
+
+[You Want Modules, Not Microservices](https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html)
+[Stop Creating Microservices | Prime Reacts - YouTube](https://www.youtube.com/watch?v=ivjPzOoPZsM)
 
 ## [Microservices Demo](https://github.com/microservices-demo)
 

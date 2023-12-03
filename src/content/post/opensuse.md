@@ -2,6 +2,7 @@
 title: openSUSE
 description: ""
 created: 2016-04-21
+updated: 2023-09-29
 tags:
   - linux
   - opensuse

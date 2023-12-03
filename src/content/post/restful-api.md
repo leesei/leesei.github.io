@@ -2,7 +2,7 @@
 title: Restful API
 description: ""
 created: 2016-05-16
-updated: 2023-07-27
+updated: 2023-09-29
 tags:
   - rest
   - web

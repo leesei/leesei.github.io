@@ -2,7 +2,7 @@
 title: Data Analytics (Python)
 description: ""
 created: 2016-09-21
-updated: 2023-07-30
+updated: 2023-09-29
 tags:
   - big-data
   - pandas
@@ -435,11 +435,17 @@ df.memory_usage(deep=True)
 [How to use Pandas the RIGHT way to speed up your code](https://towardsdatascience.com/how-to-use-pandas-the-right-way-to-speed-up-your-code-4a19bd89926d)
 [Parallelize Pandas map() and apply() while accounting for future records – Adeel's Corner](http://blog.adeel.io/2017/02/11/parallelize-pandas-map-and-apply-while-accounting-for-future-records/)
 
+## JAX
+
+[JAX: High-Performance Array Computing — JAX documentation](https://jax.readthedocs.io/en/latest/)
+Sucessor of [Autograd](https://github.com/hips/autograd) and [XLA](https://www.tensorflow.org/xla)
+
 ## PyTorch
 
 Using PyTorch to accelerate analytics
 
 [GPU Accelerated Python - YouTube](https://www.youtube.com/playlist?list=PLkdGijFCNuVnOCy3mq8cS62418DL4TMWm)
+[Accelerate](https://huggingface.co/docs/accelerate/index) PyTorch across any distributed configuration
 
 ## Kedro
 

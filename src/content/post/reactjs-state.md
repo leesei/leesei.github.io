@@ -2,7 +2,7 @@
 title: React.js
 description: React.js state
 created: 2023-03-21
-updated: 2023-05-17
+updated: 2023-09-29
 tags:
   - frontend
   - javascript

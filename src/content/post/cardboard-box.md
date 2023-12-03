@@ -2,6 +2,7 @@
 title: Cardboard Box
 description: ""
 created: 2016-09-14
+updated: 2023-09-29
 tags:
   - trivia
 ---

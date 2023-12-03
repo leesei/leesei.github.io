@@ -2,6 +2,7 @@
 title: Magic
 description: ""
 created: 2019-08-21
+updated: 2023-09-29
 tags:
   - magic
   - trivia

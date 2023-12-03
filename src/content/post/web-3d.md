@@ -2,7 +2,7 @@
 title: 3D Drawing on the Web
 description: ""
 created: 2016-04-08
-updated: 2023-06-10
+updated: 2023-10-06
 tags:
   - web
   - web-gl
@@ -58,6 +58,9 @@ Replacement of WebGL and Three.js
 [Introducing WebGPU: Unlocking modern GPU access for JavaScript - YouTube](https://www.youtube.com/watch?v=m6T-Mq1BPXg)
 [WebGPU: Unlocking modern GPU access in the browser - Chrome Developers](https://developer.chrome.com/blog/webgpu-io2023/)
 [Chrome ships WebGPU - Chrome Developers](https://developer.chrome.com/blog/webgpu-release/)
+
+[WebGPU :: Rendering the future in Real-Time - YouTube](https://www.youtube.com/watch?v=YinfynTz77s)
+[WebGPU Tutorial - Advanced Graphics on the Web Course - YouTube](https://www.youtube.com/watch?v=KTFFdZSDiTU) freeCodeCamp, 2:06:29
 
 ## Three.js
 

@@ -2,6 +2,7 @@
 title: ケリ姫スイーツ
 description: ""
 created: 2016-09-23
+updated: 2023-09-29
 tags:
   - games
   - kerihime

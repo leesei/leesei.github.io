@@ -2,7 +2,7 @@
 title: Web Assembly
 description: ""
 created: 2017-06-19
-updated: 2023-07-28
+updated: 2023-10-02
 tags:
   - wasm
   - web
@@ -216,6 +216,60 @@ Playgrounds:
 [Compiling C++ to JavaScript: Emscripten vs. Cheerp | Almost Secure](https://palant.info/2016/02/05/compiling-c-to-javascript-emscripten-vs-cheerp/)
 [azakai's blog: C++ to JavaScript: Emscripten, Mandreel, and now Duetto](https://mozakai.blogspot.com/2013/11/c-to-javascript-emscripten-mandreel-and.html) Duetto is the old name for Cheerp
 [Cheerp creator: Our C++-to-JavaScript compiler beats Emscripten | InfoWorld](https://www.infoworld.com/article/3029376/cheerp-creator-our-c-to-javascript-compiler-beats-emscripten.html)
+
+## Python in Browser
+
+### CPython WASM
+
+[cpython/Tools/wasm/README.md at main · python/cpython](https://github.com/python/cpython/blob/main/Tools/wasm/README.md)
+[Compile Python to WebAssembly (WASM) — Unofficial Python Development (Victor's notes) documentation](https://pythondev.readthedocs.io/wasm.html)
+[Python in WebAssembly | Fermyon • Experience the next wave of cloud computing.](https://www.fermyon.com/wasm-languages/python)
+["What can't WebAssembly do?" - Katie Bell (PyCon AU 2023) - YouTube](https://www.youtube.com/watch?v=JbZAsSzzk0E)
+
+[pygame-web/pygbag: python and pygame wasm for everyone ( packager + test server + simulator )](https://github.com/pygame-web/pygbag)
+[[pygame#Web]]
+
+[ethanhs/python-wasm: Build scripts and configuration for building CPython for Emscripten](https://github.com/ethanhs/python-wasm) 😴inactive
+[How to build and run your Python scripts in a web browser • The Register](https://www.theregister.com/2021/11/30/python_web_wasm/)
+
+### Pyodide
+
+[Pyodide](https://pyodide.org/en/stable/)
+[pyodide/pyodide: Python with the scientific stack, compiled to WebAssembly.](https://github.com/pyodide/pyodide)
+[Mozilla promotes Pyodide as independent project to put Python in a browser • DEVCLASS](https://devclass.com/2021/04/26/mozilla-promotes-pyodide-as-an-independent-project-to-put-python-in-a-browser/)
+supports CPython compiled to WebAssembly
+
+[A Brief Tour through Pyodide - Iodide](https://alpha.iodide.io/notebooks/300/) Iodide (deprecated) is for data science
+[Pyodide: Bringing the scientific Python stack to the browser - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/)
+[Pyodide Spin Out and 0.17 Release - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2021/04/pyodide-spin-out-and-0-17-release/)
+
+### PyScript
+
+[PyScript | Run Python in your HTML](https://pyscript.net/) package TypeScrypt + Svelte + Tailwind + Pyodide together
+[pyscript/pyscript: Home Page: https://pyscript.net Examples: https://pyscript.net/examples](https://github.com/pyscript/pyscript)
+[A First Look at PyScript: Python in the Web Browser – Real Python](https://realpython.com/pyscript-python-in-browser/)
+[PyScript: Making Python Scripts Work In Browser For Web App Creation](https://www.searchenginejournal.com/python-scripts-web-app-creation/454348/)
+[I Tested PyScript — And You Can Literally Write Python Scripts In Your Browser | by Eldad Uzman | Better Programming](https://betterprogramming.pub/i-tested-pyscript-and-you-can-literally-write-python-scripts-in-your-browser-2e4c8ca125bf)
+[PyScript is officially here!🚀 Build web apps with Python & HTML - YouTube](https://www.youtube.com/watch?v=owopzp436jM)
+
+### Brython
+
+[Brython](https://brython.info/) Browser Python
+[brython-dev/brython: Brython (Browser Python) is an implementation of Python 3 running in the browser](https://github.com/brython-dev/brython)
+
+[How Brython works · brython-dev/brython Wiki](https://github.com/brython-dev/brython/wiki/How%20Brython%20works)
+transpile Python to JS, with Python standard library and DOM wrapper
+
+[Brython documentation](https://brython.info/static_doc/en/intro.html)
+[Brython tutorial](https://brython.info/static_tutorial/en/index.html)
+[Writing an Android application · brython-dev/brython Wiki](https://github.com/brython-dev/brython/wiki/Writing-an-Android-application)
+
+[Brython videos and talks · brython-dev/brython Wiki](https://github.com/brython-dev/brython/wiki/Brython-videos-and-talks)
+
+### PyPy.js
+
+[PyPy.js](https://pypyjs.org/)
+[pypyjs/pypyjs: PyPy compiled to JavaScript](https://github.com/pypyjs/pypyjs) 😴inactive, the output is too large
 
 ## Rust
 

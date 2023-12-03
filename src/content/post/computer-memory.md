@@ -1,7 +1,8 @@
 ---
-title: Memory
+title: Computer Memory
 description: ""
 created: 2016-04-26
+updated: 2023-10-26
 tags:
   - comp/hardware
   - ddr
@@ -11,6 +12,7 @@ tags:
 [RAM Explained - Random Access Memory - YouTube](https://www.youtube.com/watch?v=PVad0c2cljo)
 [B-Die Finder](https://benzhaomin.github.io/bdiefinder/)
 
+[DDR DRAM FAQs And Troubleshooting Guide | Tom's Hardware](https://www.tomshardware.com/reviews/ddr-dram-faq,4154.html)
 [DDR Memories Comparison and Overview|NXP](http://www.nxp.com/pages/ddr-memories-comparison-and-overview:784_LPBB_DDR)
 [Everything You Need To Know About DDR, DDR2 and DDR3 Memories - Hardware Secrets](http://www.hardwaresecrets.com/everything-you-need-to-know-about-ddr-ddr2-and-ddr3-memories/)
 [Laptop DDR4 caveats - x8 layout versus x16 versus single and dual channel](https://rk.edu.pl/en/laptop-ddr4-caveats-x8-layout-versus-x16-versus-single-and-dual-channel/) channels, x8 and x16 layout
@@ -21,8 +23,15 @@ true latency
 = time per cycle X number of cycles
 = CL (clock cycles) / MHz
 
+[How Do Memory Timings Work? - YouTube](https://www.youtube.com/watch?v=Yed-a9vqTYc)
+[【硬件科普】高频内存为什么要打开 XMP？详解内存条 SPD 与 XMP - YouTube](https://www.youtube.com/watch?v=KC4CVyWXjRM)
+[Why I get NO POST with XMP??? 👉 ULTIMATE RAM + XMP Guide - YouTube](https://www.youtube.com/watch?v=wzVZgTP2204) How Rank, Density and Population affects transfer rate (in that order)
+
+[Don't waste money chasing RAM speed for gaming on AMD or Intel | PC Gamer](https://www.pcgamer.com/does-ram-speed-matter-gaming-amd-intel/) DDR4@3600MHz is still the sweet spot in 2022
+
 [Understanding RAM Timings - Hardware Secrets](http://www.hardwaresecrets.com/understanding-ram-timings/)
 [RANT: THE CAS LATENCY TIMING DOESN'T MATTER AS MUCH AS YOU THINK IT DOES - YouTube](https://www.youtube.com/watch?v=pgb8N23tsfA)
+[What Are Memory Timings? CAS Latency, tRCD, tRP, & tRAS (Pt 1) | GamersNexus - Gaming PC Builds & Hardware Benchmarks](https://www.gamersnexus.net/guides/3333-memory-timings-defined-cas-latency-trcd-trp-tras)
 [What Are Memory Timings? CAS Latency, tRCD, tRP, & tRAS (Pt 1) - YouTube](https://www.youtube.com/watch?v=o59V3_4NvPM)
 
 [RAM Latency Calculator](https://notkyon.moe/ram-latency2.htm)
@@ -39,7 +48,15 @@ true latency
 [Does RAM Speed REALLY Matter?? (DDR5 Edition) - YouTube](https://www.youtube.com/watch?v=b-WFetQjifc)
 latency is more crucial
 
+[DDR5 is FINALLY HERE... and I've got it - YouTube](https://www.youtube.com/watch?v=aJEq7H4Wf6U)
+[DDR5 導讀~邁入新世代記憶體 DDR5 入門篇 - YouTube](https://www.youtube.com/watch?v=cKqq4O7qVTU)
+
 ## UDIMM vs RDIMM
+
+## Unified Memory
+
+[How “Unified Memory” Speeds Up Apple’s M1 ARM Macs](https://www.howtogeek.com/701804/how-unified-memory-speeds-up-apples-m1-arm-macs/amp/)
+[Unified Memory for CUDA Beginners | NVIDIA Developer Blog](https://developer.nvidia.com/blog/unified-memory-cuda-beginners/)
 
 ## Motherboard Topology
 

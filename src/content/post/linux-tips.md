@@ -2,6 +2,7 @@
 title: Linux Tips and Tricks
 description: ""
 created: 2016-03-11
+updated: 2023-10-23
 tags:
   - app
   - desktop
@@ -23,6 +24,11 @@ These tips and tricks shall be promoted to its own post when the topic has accum
 [OverTheWire: Wargames](https://overthewire.org/wargames/)
 [Linux Survival | Where learning Linux is easy](https://linuxsurvival.com/)
 [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
+
+David Bombal
+[Linux for Hackers Tutorial (And Free Courses) - YouTube](https://www.youtube.com/watch?v=YJUVNlmIO6E)
+[Linux for Hackers Tutorial with OTW! - YouTube](https://www.youtube.com/watch?v=8z-s5KQ9DbI)
+[Linux Networking that you need to know (Episode 3) - YouTube](https://www.youtube.com/watch?v=t96iOUxC27M)
 
 ## Check system install time
 

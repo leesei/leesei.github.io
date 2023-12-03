@@ -2,6 +2,7 @@
 title: Batteries
 description: ""
 created: 2016-07-31
+updated: 2023-09-29
 tags:
   - trivia
 ---

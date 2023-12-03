@@ -2,6 +2,7 @@
 title: Mithril.js
 description: ""
 created: 2016-05-17
+updated: 2023-09-29
 tags:
   - frontend
   - web

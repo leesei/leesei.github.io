@@ -2,7 +2,7 @@
 title: Design Patterns
 description: ""
 created: 2019-05-24
-updated: 2023-08-11
+updated: 2023-10-22
 tags:
   - comp/lang
 ---
@@ -11,9 +11,7 @@ Contains [Programming paradigm - Wikiwand](https://www.wikiwand.com/en/Programmi
 
 [dwmkerr/hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws](https://github.com/dwmkerr/hacker-laws)
 
-[Software Architecture - The Difference Between Architecture and Design](https://codeburst.io/software-architecture-the-difference-between-architecture-and-design-7936abdd5830)
-[Software Design and Architecture | Coursera](https://www.coursera.org/specializations/software-design-architecture)
-[Minimum Viable Architecture • Randy Shoup • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=9Q7GANXn02k)
+[Do Functions Make Design Patterns Obsolete? - YouTube](https://www.youtube.com/watch?v=vzTrLpxPF54) implement design pattern with functions
 
 [4 Programming Paradigms In 40 Minutes - YouTube](https://www.youtube.com/watch?v=cgVVZMfLjEI)
 [What Makes Functional and Object-oriented Programming Equal](http://codinghelmet.com/articles/what-makes-functional-and-object-oriented-programming-equal)
@@ -46,30 +44,13 @@ Contains [Programming paradigm - Wikiwand](https://www.wikiwand.com/en/Programmi
 [Design patterns in modern JavaScript development – Levelup Your Coding](https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca)
 
 [Design Patterns for Beginners - New Version - YouTube](https://www.youtube.com/watch?v=f5Rzr5mVNbY)
+[10 Design Patterns Explained in 10 Minutes - YouTube](https://www.youtube.com/watch?v=tv-_1er1mWI) JavaScript
+[8 Design Patterns EVERY Developer Should Know - YouTube](https://www.youtube.com/watch?v=tAuRQs_d9F8)
 
 [8 Design Patterns EVERY Developer Should Know - YouTube](https://www.youtube.com/watch?v=tAuRQs_d9F8)
 [8 Design Patterns | Prime Reacts - YouTube](https://www.youtube.com/watch?v=ZfG8BSTX0Lw)
 
-[The End Of Object Inheritance & The Beginning Of A New Modularity - YouTube](https://www.youtube.com/watch?v=3MNVP9-hglc)
-[Goodbye, Object Oriented Programming – Charles Scalfani – Medium](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
-
-[Association, aggregation, and composition in OOP explained | InfoWorld](https://www.infoworld.com/article/3029325/microsoft-net/exploring-association-aggregation-and-composition-in-oop.html)
-[Three Thoughts on Encapsulation - Better Programming - Medium](https://medium.com/better-programming/three-thoughts-on-encapsulation-a44bd610819)
-[Publisher Subscriber vs Observer pattern with C# - DEV](https://dev.to/absjabed/publisher-subscriber-vs-observer-pattern-with-c-3gpc)
-
-[Money Pattern: The Right Way to Represent Value-Unit Pairs](https://code.tutsplus.com/tutorials/money-pattern-the-right-way-to-represent-value-unit-pairs--net-35509)
-
 [Top 10 Object-Oriented Design Principles for writing Clean Code - DEV Community 👩‍💻👨‍💻](https://dev.to/javinpaul/top-10-object-oriented-design-principles-for-writing-clean-code-4pe1)
-
-### On the Contrary
-
-[Is OOP EVIL??? Reacting to my favorite dev Youtube video - YouTube](https://www.youtube.com/watch?v=YpJufWdZFB8) 54:48
-[Object-Oriented Programming is Bad - YouTube](https://www.youtube.com/watch?v=QM1iUe6IofM) Brian Will, ❗!important
-[Talks - Bruce Eckel: Rethinking Objects - YouTube](https://www.youtube.com/watch?v=2Ul6WlKPcgY)
-[Object-Oriented Programming is Embarrassing: 4 Short Examples - YouTube](https://www.youtube.com/watch?v=IRTfhkiAqPw)
-
-[Why Are So Many Developers Hating on Object-Oriented Programming? - The New Stack](https://thenewstack.io/why-are-so-many-developers-hating-on-object-oriented-programming/)
-[Object-Oriented Programming is The Biggest Mistake of Computer Science | by Ilya Suzdalnitski | Jan, 2021 | Medium](https://suzdalnitski.medium.com/oop-will-make-you-suffer-846d072b4dce)
 
 ### Gang of Four
 
@@ -77,15 +58,57 @@ Contains [Programming paradigm - Wikiwand](https://www.wikiwand.com/en/Programmi
 [Design Patterns Book](http://wiki.c2.com/?DesignPatternsBook)
 [Design Patterns CD: Elements of Reusable Object-Oriented Software](http://www.amazon.com/Design-Patterns-Object-Oriented-Professional-Computing/dp/0201634988)
 
-[10 Design Patterns Explained in 10 Minutes - YouTube](https://www.youtube.com/watch?v=tv-_1er1mWI) JavaScript
-[8 Design Patterns EVERY Developer Should Know - YouTube](https://www.youtube.com/watch?v=tAuRQs_d9F8)
-
 [Episode 215: Gang of Four – 20 Years Later : Software Engineering Radio](http://www.se-radio.net/2014/11/episode-215-gang-of-four-20-years-later/)
 
 Erich Gamma: <http://en.wikipedia.org/wiki/Erich_Gamma>
 Richard Helm: <http://en.wikipedia.org/wiki/Richard_Helm>
 Ralph Johnson: <http://en.wikipedia.org/wiki/Ralph_Johnson_(computer_scientist>)
 John Vlissides: <http://en.wikipedia.org/wiki/John_Vlissides>
+
+### Creational Patterns
+
+> creation of object, rather than instantiation
+
+[Creational pattern - Wikiwand](https://www.wikiwand.com/en/Creational_pattern)
+
+Abstract Factory
+Factory method
+Singleton
+
+[The Builder Pattern and Typestate Programming - Stefan Baumgartner - Rust Linz January 2023 - YouTube](https://www.youtube.com/watch?v=k8kd22jNcps)
+
+### Structural Patterns
+
+> class and object composition
+
+[Structural pattern - Wikiwand](https://www.wikiwand.com/en/Structural_pattern)
+
+[Association, aggregation, and composition in OOP explained | InfoWorld](https://www.infoworld.com/article/3029325/microsoft-net/exploring-association-aggregation-and-composition-in-oop.html)
+[Three Thoughts on Encapsulation - Better Programming - Medium](https://medium.com/better-programming/three-thoughts-on-encapsulation-a44bd610819)
+
+[Money Pattern: The Right Way to Represent Value-Unit Pairs](https://code.tutsplus.com/tutorials/money-pattern-the-right-way-to-represent-value-unit-pairs--net-35509)
+
+### Behavioural Patterns
+
+> communication between objects
+
+[Behavioral pattern - Wikiwand](https://www.wikiwand.com/en/Behavioral_pattern)
+
+[Publisher Subscriber vs Observer pattern with C# - DEV](https://dev.to/absjabed/publisher-subscriber-vs-observer-pattern-with-c-3gpc)
+`new()` return an object with partially initialized states (like an abstract class)
+with function(s) to initialize the remaining states and return a working class
+
+### On the Contrary
+
+[Is OOP EVIL??? Reacting to my favorite dev Youtube video - YouTube](https://www.youtube.com/watch?v=YpJufWdZFB8) 54:48
+[Object-Oriented Programming is Bad - YouTube](https://www.youtube.com/watch?v=QM1iUe6IofM) Brian Will, ❗!important
+[Talks - Bruce Eckel: Rethinking Objects - YouTube](https://www.youtube.com/watch?v=2Ul6WlKPcgY)
+[Object-Oriented Programming is Embarrassing: 4 Short Examples - YouTube](https://www.youtube.com/watch?v=IRTfhkiAqPw)
+[The End Of Object Inheritance & The Beginning Of A New Modularity - YouTube](https://www.youtube.com/watch?v=3MNVP9-hglc)
+
+[Goodbye, Object Oriented Programming – Charles Scalfani – Medium](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
+[Why Are So Many Developers Hating on Object-Oriented Programming? - The New Stack](https://thenewstack.io/why-are-so-many-developers-hating-on-object-oriented-programming/)
+[Object-Oriented Programming is The Biggest Mistake of Computer Science | by Ilya Suzdalnitski | Jan, 2021 | Medium](https://suzdalnitski.medium.com/oop-will-make-you-suffer-846d072b4dce)
 
 ## Aspect Oriented Programming
 
@@ -95,6 +118,16 @@ John Vlissides: <http://en.wikipedia.org/wiki/John_Vlissides>
 
 [[functional-programming]]
 
+## Hexagonal Architecture
+
+[Hexagonal architecture (software) - Wikiwand](<https://www.wikiwand.com/en/Hexagonal_architecture_(software)>)
+[Hexagonal Architecture: What Is It and How Does It Work? - NDepend](https://blog.ndepend.com/hexagonal-architecture/)
+[Hexagonal Architecture - DEV Community](https://dev.to/abh1navv/hexagonal-architecture-3ocl)
+
+[How To Make Your App Maintainable (hint: Adopt Hexagonal Architecture) - YouTube](https://www.youtube.com/watch?v=92ZJcxJgmmE)
+[Hexagonal Architecture: What You Need To Know - Simple Explanation - YouTube](https://www.youtube.com/watch?v=bDWApqAUjEI)
+[Hexagonal Architecture In Golang!? - Full Structure Example - YouTube](https://www.youtube.com/watch?v=kWfP4H1qzCk)
+
 ## Domain Driven Design
 
 [Domain-driven design - Wikiwand](https://www.wikiwand.com/en/Domain-driven_design)
@@ -103,6 +136,14 @@ John Vlissides: <http://en.wikipedia.org/wiki/John_Vlissides>
 [domain driven design](https://martinfowler.com/tags/domain%20driven%20design.html)
 [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
 [UbiquitousLanguage](https://martinfowler.com/bliki/UbiquitousLanguage.html)
+
+[Domain Driven Design: What You Need To Know - YouTube](https://www.youtube.com/watch?v=4rhzdZIDX_k) ❗!important
+
+[PP - How To Implement Domain-Driven Design (DDD) in Golang](https://programmingpercy.tech/blog/how-to-domain-driven-design-ddd-golang/)
+[How To Implement Domain-Driven Design (DDD) in Go - YouTube](https://www.youtube.com/watch?v=6zuJXIbOyhs) 1:57:41
+[How To Structure Domain Driven Design (DDD) In Go - YouTube](https://www.youtube.com/watch?v=jJHhXaWwM7Y)
+
+[Domain Driven Design (DDD) in Golang!? - YouTube](https://www.youtube.com/watch?v=6FY9urgIjqo)
 
 [Domain-Driven Design with React: Build Scalable React Apps | Bits and Pieces](https://blog.bitsrc.io/domain-driven-design-with-react-building-scalable-and-maintainable-applications-8aa854f18a69)
 
@@ -140,7 +181,13 @@ John Vlissides: <http://en.wikipedia.org/wiki/John_Vlissides>
 ## SOLID Principles
 
 [SOLID - Wikiwand](https://www.wikiwand.com/en/SOLID)
-[Getting a SOLID start. - Clean Coder](https://sites.google.com/site/unclebobconsultingllc/getting-a-solid-start)
+S: Single Responsibility Principle
+O: Open-Closed Principle
+L: Liskov-Substitution Principle
+I: Interface Segregation Principle
+D: Dependency Inversion Principle
+
+[Clean Coder - Getting a SOLID start.](https://sites.google.com/site/unclebobconsultingllc/getting-a-solid-start)
 [A Solid Guide to SOLID Principles | Baeldung](https://www.baeldung.com/solid-principles)
 [The SOLID Principles - Tuts+ Code Tutorials](http://code.tutsplus.com/series/the-solid-principles--cms-634)
 [SOLID Principles every Developer Should Know – Bits and Pieces](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
@@ -148,17 +195,13 @@ John Vlissides: <http://en.wikipedia.org/wiki/John_Vlissides>
 [SOLID Principles: The Software Developer's Framework to Robust & Maintainable Code [with Examples] | Khalil Stemmler](https://khalilstemmler.com/articles/solid-principles/solid-typescript/)
 [The SOLID Principles | A C Roynon](https://acroynon.com/the-solid-principles/)
 [Applying SOLID To React. SOLID principles were developed to help… | by Eduardo Moniz | Docler Engineering | Apr, 2021 | Medium](https://medium.com/docler-engineering/applying-solid-to-react-ca6d1ff926a4)
+
 [Software Design - Introduction to SOLID Principles in 8 Minutes - YouTube](https://www.youtube.com/watch?v=yxf2spbpTSw)
+[Uncle Bob SOLID principles - YouTube](https://www.youtube.com/watch?v=zHiWqnTWsn4)
 [Uncle Bob's SOLID principles made easy 🍀 - in Python! - YouTube](https://www.youtube.com/watch?v=pTB30aXS77U)
 [This is the Only Right Way to Write React clean-code - SOLID - YouTube](https://www.youtube.com/watch?v=MSq_DCRxOxw)
 [5 Principles that will make you a SOLID JavaScript Developer](http://thefullstack.xyz/solid-javascript/)
 [SOLID Principles: Improve Object-Oriented Design in Python – Real Python](https://realpython.com/solid-principles-python/)
-
-S: Single Responsibility Principle
-O: Open-Closed Principle
-L: Liskov-Substitution Principle
-I: Interface Segregation Principle
-D: Dependency Inversion Principle
 
 [Why SOLID Principles are not a solid solution for Software Design | by Elye | Apr, 2021 | Towards Data Science](https://towardsdatascience.com/why-solid-principles-are-not-a-solid-solution-for-software-design-fa71b6017ed6)
 
@@ -200,6 +243,7 @@ Dependency Inversion: a design pattern to create abstract class for dependency t
 [Understanding SOLID Principles: Dependency Inversion | by Fanis Despoudis | codeburst](https://codeburst.io/understanding-solid-principles-dependency-injection-d570c15560ab)
 
 [Dependency INVERSION vs dependency INJECTION in Python - YouTube](https://www.youtube.com/watch?v=2ejbLVkCndI)
+[Dependency Injection | Prime Reacts - YouTube](https://www.youtube.com/watch?v=CK_OY_gZrCE) Strategy Pattern + DI
 
 [IoC vs. DI - DZone Java](https://dzone.com/articles/ioc-vs-di)
 [Inversion of Control and Dependency Injection with Spring | Baeldung](https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring)
@@ -256,6 +300,19 @@ transaction costs: transformation of output of upstream to fit downstream
 [rao.pdf](https://home.cs.colorado.edu/~kena/classes/5448/f12/presentation-materials/rao.pdf)
 <https://personal.utdallas.edu/~chung/SP/applying-uml-and-patterns.pdf>
 
+## Railway Oriented Programming
+
+Functions return Result type that contains the tuple `<success value, error value>`, known as Monads in functional programming
+In normal flow the code stays on the success track, and errors are handled in the failure track
+No more hidden control flow in exception handling
+Rust and Go adopts this approach
+
+[Monadic Error Handling in Python ⚠ Write Better Python Code Part 7B - YouTube](https://www.youtube.com/watch?v=J-HWmoTKhC8)
+[Features — returns documentation](https://returns.readthedocs.io/en/latest/)
+[dry-python/returns: Make your functions return something meaningful, typed, and safe!](https://github.com/dry-python/returns)
+
+[result · PyPI](https://pypi.org/project/result/)
+
 ## Locality of Behaviour
 
 [</> htmx ~ Locality of Behaviour (LoB)](https://htmx.org/essays/locality-of-behaviour/)
@@ -294,6 +351,17 @@ CodeOpinion
 [CQRS and Event Sourcing Intro For Developers - DZone Microservices](https://dzone.com/articles/cqrs-and-event-sourcing-intro-for-developers)
 
 ## Event-Driven Architectures
+
+[GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler - YouTube](https://www.youtube.com/watch?v=STKCRSUsyP0)
+[GOTO 2020 • The Power of Event-Driven Systems without Burning your Hands or Budgets • Allard Buijze - YouTube](https://www.youtube.com/watch?v=Fso2OyguRuQ)
+
+[Event-Driven Architecture lost its way - YouTube](https://www.youtube.com/watch?v=YusVrd9rHJU) action-centric events instead of data-centric ones
+[Event-Driven Architecture: Explained in 7 Minutes! - YouTube](https://www.youtube.com/watch?v=gOuAqRaDdHA)
+
+[Event-driven architecture, state machines et al. - 250bpm](http://250bpm.com/blog:25)
+[State Machines for Event-Driven Systems | Embedded Systems Experts](http://www.barrgroup.com/Embedded-Systems/How-To/State-Machines-Event-Driven-Systems)
+[From Request/Response to Events - DZone Microservices](https://dzone.com/articles/from-requestresponse-to-events)
+[How to tame event-driven microservices | InfoWorld](https://www.infoworld.com/article/3391592/how-to-tame-event-driven-microservices.html)
 
 [Implementing Your Own Event Loop From Scratch - DEV Community](https://dev.to/pratikgchaudhari/implementing-your-own-event-loop-from-scratch-44l9)
 [pratikgchaudhari/event-loop-demo: A project to learn how Event Loop works.](https://github.com/pratikgchaudhari/event-loop-demo)

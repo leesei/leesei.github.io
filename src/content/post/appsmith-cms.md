@@ -2,6 +2,7 @@
 title: Appsmith
 description: ""
 created: 2023-04-30
+updated: 2023-09-29
 tags:
   - cms
 ---
@@ -17,3 +18,4 @@ tags:
 
 [Build Internal Tools in Docker with Appsmith - YouTube](https://www.youtube.com/watch?v=YNOP-Fjt_E8)
 [AppSmith Overview and Tutorial: One Of My FAVORITE Tools Of Its Kind! - YouTube](https://www.youtube.com/watch?v=AHPcr-yXmmU)
+[Appsmith vs Tooljet : Select the internal tooling platform of your choice - YouTube](https://www.youtube.com/watch?v=vYb96POMKnc)

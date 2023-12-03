@@ -2,6 +2,7 @@
 title: World War I
 description: ""
 created: 2015-06-07
+updated: 2023-11-29
 tags:
   - history
   - world-war
@@ -44,11 +45,13 @@ Bulgaria (1915-1918)
 [The First World War: The War to End War | WW1 Documentary - YouTube](https://www.youtube.com/watch?v=3ypFeoDIsns) WarsofTheWorld
 [Why Did The First World War Break Out? (July Crisis 1914 Documentary) - YouTube](https://www.youtube.com/watch?v=9KESpCFmYMk)
 [The War That Changed The Course of History | The First World War | WW1 Documentary - YouTube](https://www.youtube.com/watch?v=QJfTfyt3Cfk)
+[【世界大戰系列】25分鐘看完第一次世界大戰（入門版）｜歐洲版圖大洗牌 全因為德國想上位？｜英國、法國、俄羅斯組成「復仇者聯盟」｜美國介入 成為一戰轉捩點 ｜一戰的起因、經過與結局｜#不正常人類 - YouTube](https://www.youtube.com/watch?v=MQFqaOvDjSI)
 [【不止遊戲】一個影片看完整場世界大戰 - YouTube](https://www.youtube.com/watch?v=UKJqsIu_5QE)
 [【講到流淚】二十分鐘講完第一次世界大戰 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=G5y85I52HRg)
 [Modern History of World: What are some cool/unusual facts about soldiers in WWI and WWII? - Quora](https://www.quora.com/Modern-History-of-World-What-are-some-cool-unusual-facts-about-soldiers-in-WWI-and-WWII)
 [WWI - YouTube](https://www.youtube.com/playlist?list=PLpFIBvOQ0N1W69mVDZ5xkcyR6G7-ywSwP) WarsofTheWorld
 [一戰風雲戰役和人物 - YouTube](https://www.youtube.com/playlist?list=PLB1UN3q8P5XfkSGGqmHtncy1neAEUUohf) 历史学
+[Battle of the Somme (WW1 Documentary) | History Documentary | Reel Truth History - YouTube](https://www.youtube.com/watch?v=9BlbdNq1UCE)
 
 <http://podplayer.net/#/?id=3553> via @PodcastAddict
 [Dan Carlin's Hardcore History] Show 51 - Blueprint for Armageddon II

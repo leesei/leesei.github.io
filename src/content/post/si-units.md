@@ -2,6 +2,7 @@
 title: SI Units
 description: ""
 created: 2015-08-28
+updated: 2023-12-02
 tags:
   - science
 ---
@@ -12,6 +13,8 @@ tags:
 [Sixty Symbols - Physics and Astronomy videos](http://www.sixtysymbols.com/)
 [Is The Metric System Actually Better? - YouTube](https://www.youtube.com/watch?v=hid7EJkwDNk)
 [The kg is dead, long live the kg - YouTube](https://www.youtube.com/watch?v=c_e1wITe_ig)
+
+[Seven Dimensions - YouTube](https://www.youtube.com/watch?v=bI-FS7aZJpY) use SI units as basis and matrices for unit conversion
 
 New Mind
 [The Science Of Small Distances - YouTube](https://www.youtube.com/watch?v=Aw-xbs8ZWxE)
@@ -71,6 +74,8 @@ The Efficient Engineer
 [1 秒持续多长时间？从日晷到原子钟——时间单位的变迁 - YouTube](https://www.youtube.com/watch?v=P5iiuB3YoVU)
 [How Do Atomic Clocks Work? - YouTube](https://www.youtube.com/watch?v=l8CI3bs9rvY)
 
+[How the Germans Measured Milliseconds MECHANICALLY - Smarter Every Day 283 - YouTube](https://www.youtube.com/watch?v=Q07CTj4fUeY)
+
 ## Length (m)
 
 [一米有多长？地球周长约等于 4 万公里是巧合吗？长度单位米的由来 - YouTube](https://www.youtube.com/watch?v=51v2f2KyZzk)
@@ -88,6 +93,8 @@ The Efficient Engineer
 [Kelvin - Wikiwand](https://www.wikiwand.com/en/Kelvin)
 [Convert Celsius to Fahrenheit](https://www.unitconverters.net/temperature/celsius-to-fahrenheit.htm)
 [Temperature Is Not What You Think It Is | WIRED](https://www.wired.com/story/temperature-is-not-what-you-think-it-is/)
+
+[甚麼攝氏和華氏溫度標準!? 世界只餘下一個大國使用華氏!? (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=9ksB1pfi6dM)
 
 [The Science of Temperature Is Weirder Than You Think | WIRED](https://www.wired.com/story/temperature-is-weirder-than-you-think/amp)
 [Build a Thermoelectric Generator, Like the Ones That Power Deep Space Missions | WIRED](https://www.wired.com/story/build-a-thermoelectric-generator-like-the-ones-that-power-deep-space-missions/?intcid=inline_amp)

@@ -2,6 +2,7 @@
 title: Zsh shell
 description: ""
 created: 2014-12-08
+updated: 2023-09-29
 tags:
   - linux
   - oh-my-zsh

@@ -2,6 +2,7 @@
 title: Caddy
 description: Caddy 2 is a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go
 created: 2023-06-10
+updated: 2023-09-29
 tags:
   - nginx
   - reverse-proxy

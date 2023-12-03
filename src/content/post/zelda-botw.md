@@ -2,7 +2,7 @@
 title: "Zelda: Breath of the Wild"
 description: ""
 created: 2019-01-08
-updated: 2023-07-10
+updated: 2023-09-29
 tags:
   - botw
   - games
@@ -14,6 +14,8 @@ tags:
 [The Making of The Legend of Zelda: Breath of the Wild - YouTube](https://www.youtube.com/playlist?list=PL2JiZAV5BmDXKHMwfdlJbNAtXpUNuCPAd)
 [Making of & Secrets of Zelda : Breath of the Wild - YouTube](https://www.youtube.com/playlist?list=PLMu8FQOzAf9qFy69DPc3u9hBWfUctWEg0)
 [揭秘年度游戏成功的秘密——《荒野之息》审视自己【就知道玩游戏 11】 - YouTube](https://www.youtube.com/watch?v=T35UQSWSM94)
+
+[ゼルダの伝説 ブレス オブ ザ ワイルド　第一回演奏会 / The Legend of Zelda: Breath of the Wild　THE FIRST CONCERT - YouTube](https://www.youtube.com/watch?v=A5AV5HAKjh0)
 
 [Breaking Conventions with The Legend of Zelda: Breath of the Wild - YouTube](https://www.youtube.com/watch?v=QyMsF31NdNc)
 [With Eyes Unclouded - How Studio Ghibli Inspired Breath of the Wild - YouTube](https://www.youtube.com/watch?v=2fPz7kGduT4)

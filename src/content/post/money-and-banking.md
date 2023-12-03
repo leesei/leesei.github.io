@@ -2,13 +2,15 @@
 title: Money and Banking
 description: ""
 created: 2015-10-09
-updated: 2023-03-21
+updated: 2023-10-04
 tags:
   - economics
   - monetary-policy
 ---
 
 [Great Depression - Wikiwand](https://www.wikiwand.com/en/Great_Depression)
+
+[一口气了解银行游戏规则 中美银行体系 - YouTube](https://www.youtube.com/watch?v=MdIL4rxiYDM)
 
 ## Global Reserve Currency
 
@@ -50,6 +52,28 @@ tags:
 
 [纸币被印出来之后是怎么进入市场流通的？How does cash come into circulation?【柴知道 ChaiKnows】【科普 Science】【冷知识 Trivia】 - YouTube](https://www.youtube.com/watch?v=JVGk6lxaGbc)
 [More Money Less Problems | Radiolab | WNYC Studios](https://www.wnycstudios.org/podcasts/radiolab/articles/more-money-less-problems)
+
+## National Debt
+
+[【硬核】一口气了解国债，这么一直借下去真的可以么？ - YouTube](https://www.youtube.com/watch?v=D1W520QVS4I)
+
+- 央行控制短期利率, 國債影響長期利率
+- 量化寛鬆: 央行印鈔買國債
+- money printing causes inflation
+
+[【硬核】一口气了解错综复杂的欧债危机 - YouTube](https://www.youtube.com/watch?v=uyAEbrG4vaI)
+[【深度解读】一段视频，看透希腊债务危机！ - YouTube](https://www.youtube.com/watch?v=BcgyPJWclEw)
+
+## Interest rate/Inflation
+
+[关于利率，你需要知道的那些事儿 - YouTube](https://www.youtube.com/watch?v=u3Q9BpZOhP8)
+[一口气了解通货膨胀 | 硬核 - YouTube](https://www.youtube.com/watch?v=vHUZVwvvP7o)
+
+- demand pull
+  also includes government's stimulus
+- cost push
+  not causing GDP growth
+- money supply
 
 ## Cryptocurrency
 

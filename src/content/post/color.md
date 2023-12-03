@@ -2,7 +2,7 @@
 title: Color
 description: ""
 created: 2014-12-17
-updated: 2023-08-07
+updated: 2023-11-08
 tags:
   - color-palette
   - colorspace
@@ -21,6 +21,8 @@ tags:
 [Color Theory for Noobs | Beginner Guide - YouTube](https://www.youtube.com/watch?v=AvgCkHrcj90)
 [Color Theory - A Beginners Guide - YouTube](https://www.youtube.com/watch?v=NBg3GjrcMF4)
 
+[The Amazing Math behind Colors! - YouTube](https://www.youtube.com/watch?v=gnUYoQ1pwes) ❗!important, CIE XYZ colorspace
+[Your Colors Suck (it's not your fault) - YouTube](https://www.youtube.com/watch?v=fv-wlo8yVhk) CIE XYZ colorspace
 [Color: From Hexcodes to Eyeballs](http://jamie-wong.com/post/color/)
 
 ## Human's perception of Color
@@ -51,6 +53,8 @@ Light source, Color Rendering Index
 
 [Realtime Colors](https://realtimecolors.com/)
 [I updated Realtime Colors - YouTube](https://www.youtube.com/watch?v=YWVneCWIfoE)
+
+[Color meanings: color names and symbolism | Canva Colors](https://www.canva.com/colors/color-meanings/)
 
 [Is there a science to picking colors that work well together or is it just subjective? - Quora](http://www.quora.com/Is-there-a-science-to-picking-colors-that-work-well-together-or-is-it-just-subjective)
 [Which Colors Look Good on Black and White? - DEV Community 👩‍💻👨‍💻](https://dev.to/finnhvman/which-colors-look-good-on-black-and-white-2pe6)

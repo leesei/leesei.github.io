@@ -2,6 +2,7 @@
 title: 置業
 description: ""
 created: 2018-01-09
+updated: 2023-09-29
 tags:
   - finance
 ---
@@ -26,11 +27,12 @@ tags:
 
 ## 大市
 
-[第一桶金 - 踢爆 2 個唱好假象　暑假後或有調整](http://www.daydaygain.com/blogdetail.php?blogid=88&type=&h=踢爆-2-個唱好假象　暑假後或有調整)
+[关于房地产，你不一定需要知道的事儿 - YouTube](https://www.youtube.com/watch?v=cBLbDn5RJlw)
+
 [【名家搶先睇】樓市辣招功與過（汪敦敬） | 即時新聞 | 財經 | 20180109](https://hk.finance.appledaily.com/finance/realtime/article/20180109/57684924)
 [【財經評論】香港加息難引爆樓市 | 即時新聞 | 財經 | 20180104](https://hk.finance.appledaily.com/finance/realtime/article/20180104/57666170)
 
-[【買樓上車】CCL 樓價指數 認真就輸了 ( 嘉賓 : 香討財經版常客 - 中女社社長 ) - cMoneyHome 置業情報站](http://www.cmoneyhome.com/article/5969/【買樓上車】CCL樓價指數 認真就輸了 ( 嘉賓 : 香討財經版常客 - 中女社社長 ))
+[【買樓上車】CCL 樓價指數 認真就輸了 ( 嘉賓 : 香討財經版常客 - 中女社社長 ) - cMoneyHome 置業情報站](http://www.cmoneyhome.com/article/5969/)
 RVD A 類樓價 開工紙 入伙紙
 
 ## 居屋

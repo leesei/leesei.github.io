@@ -2,7 +2,7 @@
 title: Browser automation
 description: Automates browser, for web scraping and testing
 created: 2017-11-20
-updated: 2023-03-22
+updated: 2023-10-15
 tags:
   - automation
   - web
@@ -28,8 +28,7 @@ tags:
 [Turn Websites into structured data /Dataflow kit](https://dataflowkit.com/)
 [Knowledge Graph, AI Web Data Extraction and Crawling | Diffbot](https://www.diffbot.com/)
 
-[Chromeless, Chrominator, Chromy, Navalia, Lambdium, GhostJS, AutoGCD](https://medium.com/@kensoh/chromeless-chrominator-chromy-navalia-lambdium-ghostjs-autogcd-ef34bcd26907)
-
+[CSS Selector Capture Pro - Chrome Web Store](https://chrome.google.com/webstore/detail/css-selector-capture-pro/cpnkcffhllafbdbljkmhebnpbnlhapmd)
 [SelectorGadget - Chrome Web Store](https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb)
 
 [⚙️ Explain Selenium & Webdrivers automation (Like I'm Five) - DEV Community 👩‍💻👨‍💻](https://dev.to/uilicious/explain-selenium-webdrivers-like-i-m-five-16ng)
@@ -70,30 +69,30 @@ task runner for browser tests:
 
 ## Headless Chrome
 
-[Chromeless, Chrominator, Chromy, Navalia, Lambdium, GhostJS, AutoGCD](https://medium.com/@kensoh/chromeless-chrominator-chromy-navalia-lambdium-ghostjs-autogcd-ef34bcd26907)
+[Learn Playwright & Puppeteer | Checkly](https://www.checklyhq.com/learn/headless/) originally theheadless.dev
+[checkly/theheadless.dev: 🪖 Learn Puppeteer and Playwright - Tips, tricks and in-depth guides from the trenches.](https://github.com/checkly/theheadless.dev) 😴inactive
 
-[Getting Started with Headless Chrome | Web | Google Developers](https://developers.google.com/web/updates/2017/04/headless-chrome)
+[Getting Started with Headless Chrome - Chrome Developers](https://developer.chrome.com/blog/headless-chrome/)
+[Chrome’s Headless mode gets an upgrade: introducing `--headless=new` - Chrome Developers](https://developer.chrome.com/articles/new-headless/) ❗!important
 [Headless Chromium](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md)
 
-[cyrus-and/chrome-remote-interface: Chrome Debugging Protocol interface for Node.js](https://github.com/cyrus-and/chrome-remote-interface)
-[graphcool/chromeless: 🖥 Chrome automation made simple. Runs locally or headless on AWS Lambda.](https://github.com/graphcool/chromeless)
-[joelgriffith/navalia: A bullet-proof, fast, and reliable headless browser API](https://github.com/joelgriffith/navalia)
 [yujiosaka/headless-chrome-crawler: Distributed crawler powered by Headless Chrome](https://github.com/yujiosaka/headless-chrome-crawler)
 
 ### Puppeteer
 
-[puppetee - npm](https://www.npmjs.com/package/puppeteer)
-[GoogleChrome/puppeteer: Headless Chrome Node API](https://github.com/GoogleChrome/puppeteer) !important
-[Try Puppeteer](https://try-puppeteer.appspot.com/)
-[Puppeteer Guides | Puppeteer](https://pptr.dev/category/guides)
+[Puppeteer | Puppeteer](https://pptr.dev/)
 [API Reference | Puppeteer](https://pptr.dev/api)
+[Puppeteer Guides | Puppeteer](https://pptr.dev/category/guides)
+[Puppeteer - Chrome for Developers](https://developer.chrome.com/docs/puppeteer/)
 
+[puppeteer/puppeteer: Node.js API for Chrome](https://github.com/puppeteer/puppeteer)
+
+[Puppeteer Tutorial](https://www.tutorialspoint.com/puppeteer/index.htm)
 [Introduction to Puppeteer](https://flaviocopes.com/puppeteer/)
 [Automating Google Chrome with Node.js - Tutorialzine](https://tutorialzine.com/2017/08/automating-google-chrome-with-node-js) with Puppeteer
 [The Guide To Ethical Scraping Of Dynamic Websites With Node.js And Puppeteer — Smashing Magazine](https://www.smashingmagazine.com/2021/03/ethical-scraping-dynamic-websites-nodejs-puppeteer/)
-[More than you want to know about headless Chrome – Hacker Noon](https://hackernoon.com/more-than-you-want-to-know-about-headless-chrome-31f6b3b06d82)
 [Tutorial: User Interface Testing with Jest and Puppeteer](https://www.valentinog.com/blog/ui-testing-jest-puppetteer/)
-[Browser automation revisited - meet Puppeteer](https://nemethgergely.com/puppeteer-browser-automation/)
+[Browser automation revisited - meet Puppeteer | Gergely Nemeth](https://nemethgergely.com/blog/puppeteer-browser-automation) `slowMo: 250, //ms`, profiling, intercepting requests
 [Web Scraping in JavaScript – How to Use Puppeteer to Scrape Web Pages](https://www.freecodecamp.org/news/web-scraping-in-javascript-with-puppeteer/)
 
 [Puppeteer – Headless Chrome in a Container – zwischenzugs](https://zwischenzugs.com/2017/10/16/puppeteer-headless-chrome-in-a-container/)
@@ -101,24 +100,73 @@ task runner for browser tests:
 
 #### Koan
 
-[checkly/puppeteer-examples: Puppeteer example scripts for running Headless Chrome from Node.](https://github.com/checkly/puppeteer-examples)
+[Puppeteer quick start - Chrome Developers](https://developer.chrome.com/docs/puppeteer/get-started/)
+
+[checkly/puppeteer-examples: Puppeteer example scripts for running Headless Chrome from Node.](https://github.com/checkly/puppeteer-examples) 😴inactive
 
 [Logging into a website | Apify Documentation](https://docs.apify.com/academy/puppeteer-playwright/common-use-cases/logging-into-a-website)
 
 [📷 How to take a screenshot of a webpage with JavaScript in Node.js (using puppeteer) - DEV Community 👩‍💻👨‍💻](https://dev.to/benjaminmock/how-to-take-a-screenshot-of-a-page-with-javascript-1e7c)
 
-### Playwright
+```js
+// `page.evaluate()` will serialize the return
+// use this trick to return a non-serialize object
+// https://github.com/puppeteer/puppeteer/issues/3986
+page.evaluate(await page.evaluate(() => window.toString()));
 
+// get all links
+const hrefs = await page.$$eval("a", (as) => as.map((a) => a.href));
+console.log(hrefs);
+
+// get property of element
+const video = await page.waitForSelector("video.player");
+const src = await video.getProperty("src");
+
+// slow down browser operations
+const browser = await puppeteer.launch({
+  headless: false,
+  slowMo: 250, //ms
+});
+
+const page = await browser.newPage();
+await page.setRequestInterception(true);
+// intercept requests
+// install this before `page.goto()`
+page.on("request", (request) => {
+  if (request.url.includes(".png")) {
+    request.abort(404);
+    return;
+  } else {
+    request.continue();
+  }
+});
+// log network requests
+// install this before `page.goto()`
+page.on("response", (response) => {
+  // allow XHR only
+  // if ("xhr" !== response.request().resourceType()) {
+  //   return;
+  // }
+  console.log(`[${response.request().resourceType()}] ${response.url()}`);
+});
+```
+
+## Playwright
+
+> targets all the popular rendering engines
 > binding in Node.js, Python, Java, .NET
 
 [Fast and reliable end-to-end testing for modern web apps | Playwright](https://playwright.dev/)
 
-[microsoft/playwright: Node.js library to automate Chromium, Firefox and WebKit with a single API](https://github.com/microsoft/playwright)
-[microsoft/playwright-sharp: .NET version of the Playwright testing and automation library.](https://github.com/microsoft/playwright-sharp)
+[microsoft/playwright: Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.](https://github.com/microsoft/playwright)
+[microsoft/playwright-dotnet: .NET version of the Playwright testing and automation library.](https://github.com/microsoft/playwright-dotnet)
 
 [nearform/playwright-setup: Barebones playwright testing framework](https://github.com/nearform/playwright-setup)
 
 [Mastering Web Scraping in Python: Avoid Blocking Like a Ninja - ZenRows](https://www.zenrows.com/blog/stealth-web-scraping-in-python-avoid-blocking-like-a-ninja)
+
+[Crawlee · Build reliable crawlers. Fast. | Crawlee](https://crawlee.dev/)
+[apify/crawlee: Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.](https://github.com/apify/crawlee)
 
 ## Python
 

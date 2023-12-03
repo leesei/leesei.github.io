@@ -2,6 +2,7 @@
 title: Ventriloquism
 description: ""
 created: 2020-12-30
+updated: 2023-09-29
 tags:
   - lol
   - trivia

@@ -2,6 +2,7 @@
 title: Zellij
 description: ""
 created: 2023-06-04
+updated: 2023-09-29
 tags:
   - app
   - shell-tool

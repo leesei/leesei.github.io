@@ -2,6 +2,7 @@
 title: Monster Hunter Rise
 description: ""
 created: 2020-01-16
+updated: 2023-09-29
 tags:
   - games
   - mhr

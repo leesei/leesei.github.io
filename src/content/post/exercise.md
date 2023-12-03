@@ -2,6 +2,7 @@
 title: Exercise
 description: ""
 created: 2019-04-17
+updated: 2023-11-26
 tags:
   - health
   - hiit
@@ -114,6 +115,7 @@ TDEE = BMR * PAL
 [體重降了肚腩還在？都是內臟脂肪在作怪！4 個動作幫你肚腩變腹肌！| 范老師的光頭 - YouTube](https://www.youtube.com/watch?v=Ln2a_v5UXXI) routines
 [局部減脂不存在，如何一邊減脂一邊瘦肚腩？丨范老師 - YouTube](https://www.youtube.com/watch?v=cpNmXdj2eDA) routines
 [【减小腰围!】如何 3 步减掉内脏脂肪(含详细攻略) - YouTube](https://www.youtube.com/watch?v=RClZ5yRkSzk)
+[🔴30 歲之後必須知道的健康知識 🔴 最強瘦肚子的方法 🔴 關於内臟脂肪 🔴 内臓脂肪の話 🔴 聽書 有聲書（怎麽樣才能遠離大肚腩）減肥減脂控糖 健康飲食方法 ｜ Fox 面讀書説書【020】 - YouTube](https://www.youtube.com/watch?v=9F9uJC2sZyw)
 
 [睡眠中燃燒更多脂肪 8 種技巧,柏格醫生 Dr Berg - YouTube](https://www.youtube.com/watch?v=hVr5ETRnCkg)
 
@@ -133,9 +135,12 @@ Steady State Cardio/Long Slow Distance vs HIIT
 
 [【克服懒惰】早晨做这 4 件事帮你快速起床! - YouTube](https://www.youtube.com/watch?v=cE8lvuFb2H0)
 
-[May Fit - YouTube](https://www.youtube.com/channel/UCxGeKqFaKqpzkuFNGCFjcuA/videos)
-[emi wong - YouTube](https://www.youtube.com/c/EmiWong/playlists?view=50&sort=dd&shelf_id=1)
+[May Fit - YouTube](https://www.youtube.com/@MayFit8572)
 
+[Gladys Fit Life - YouTube](https://www.youtube.com/@GladysFitLife)
+[20 分鐘體能訓練 - YouTube](https://www.youtube.com/playlist?list=PLlpq9B1rGyCtDPrtdiKCsFi-9oKGLR4l8)
+
+[emi wong - YouTube](https://www.youtube.com/@EmiWong)
 [Emi Full Body Workout 全身帶氧燃脂 - YouTube](https://www.youtube.com/playlist?list=PLGj6tJC_x-74dAtP0pa5VGPTbXQbEzJZ8)
 
 [25 分鐘【急速燃燒卡路里】全身徒手鍛鍊 腹肌出現 體脂再見！│ 健人訓練 │ 2021ep29 - YouTube](https://www.youtube.com/watch?v=lBa6Ysa07x8&t=22s)
@@ -166,7 +171,6 @@ Isometric: contraction and hold
 [Muscle Soreness and Muscle Growth (“BROSCIENCE” REVEALED!) - YouTube](https://www.youtube.com/watch?v=L0BIRPLzohs)
 
 [What Is Your Core? | Abs Workout - YouTube](https://www.youtube.com/watch?v=ZJQ-AV3HRBo&list=PLLALQuK1NDrh-WzJhsFQ_j9o-cUdspF3E)
-[Isometric Exercises for Low Back Pain Pain Relief - YouTube](https://www.youtube.com/watch?v=Ip0S-HHQIoc)
 
 [4 招強化核心訓練！讓妳擁有傲人馬甲線，遠離腰酸背痛【極塑教室】｜一對一私人教練｜營養師｜瘦身｜ superfit 評價｜ superfit 費用 - YouTube](https://www.youtube.com/watch?v=mMySboMbcdc&t=0s)
 [樁功與核心肌群訓練的異同　建立身體穩定性卻欠爆發力｜來稿文章｜香港 01 ｜武備志](https://www.hk01.com/%E6%AD%A6%E5%82%99%E5%BF%97/612616/)
@@ -184,6 +188,41 @@ Isometric: contraction and hold
 
 [MuscleWiki](https://musclewiki.com/)
 
+## Pain Relief
+
+Mush of joint pain is caused by weak muscle
+But do tbe careful of the intensity and don't make the pain worst
+
+[不藥而動 - YouTube](https://www.youtube.com/playlist?list=PLXHvvMvvIzhNbvQpnYcsupSRPIFV87vpx)
+
+[三個字SunGuts - YouTube](https://www.youtube.com/@sunguts)
+[啾c物理治療師 - YouTube](https://www.youtube.com/@juicept)
+
+Gladys Fit Life
+[舒緩疼痛系列 - YouTube](https://www.youtube.com/playlist?list=PLlpq9B1rGyCshV09sg19keZ-f2sHSYogX)
+
+### Neck
+
+[脖子痛的人一定要看，這裡有你最需要的資訊，避免頸椎退化，就從改善頸椎過直開始｜啾c物理治療師 - YouTube](https://www.youtube.com/watch?v=TdjBhvvoGw0)
+[是不是換了枕頭，就可以不再落枕？｜#啾c物理治療師 #落枕 #頸椎 - YouTube](https://www.youtube.com/watch?v=62no604aAZ0)
+
+### Back
+
+[Isometric Exercises for Low Back Pain Pain Relief - YouTube](https://www.youtube.com/watch?v=Ip0S-HHQIoc)
+
+[改善駝背第一步 - 打開你的胸椎活動度｜啾c物理治療師 - YouTube](https://www.youtube.com/watch?v=mXqVxRPNRC8)
+
+### Knee
+
+[膝頭痛了 20 年 真正原因竟不在膝頭？｜物理治療師及中醫師黃燕卿 教你優先處理兩個部位｜簡單運動趕走膝蓋痛｜健康嗎 @HealthCodeHK 【不藥而動】｜ Ft. @WongEC_physio - YouTube](https://www.youtube.com/watch?v=cMSlfqP_gyI)
+
+Gladys Fit Life
+[膝蓋強化 ● 舒緩疼痛系列 - YouTube](https://www.youtube.com/playlist?list=PLlpq9B1rGyCuWByB78AFZ35Ll01thXaea)
+[膝蓋痛能開始做的 5 個訓練動作｜強化膝蓋｜葛蕾蒂斯 Gladys Fit Life - YouTube](https://www.youtube.com/watch?v=oTp4V5iFIeA)
+[坐著也能練膝蓋？｜ 5 個坐姿強化膝蓋動作｜適合年長者｜葛蕾蒂斯 Gladys Fit Life - YouTube](https://www.youtube.com/watch?v=jFHpFgm9ZIs)
+[16 分鐘膝蓋強化訓練 ● 無需運動器材｜一步步跟著教練做｜葛蕾蒂斯 Gladys Fit Life - YouTube](https://www.youtube.com/watch?v=LjckvZ1Bonk)
+[給膝蓋疼痛者的 30 分鐘下肢訓練 ｜強化膝蓋｜ Gladys 葛蕾蒂斯 - YouTube](https://www.youtube.com/watch?v=VEQVZdLl0tM)
+
 ## Skipping 跳縄
 
 [完整【跳繩教學】輕鬆上手 躍出自我 │ 健人訓練 │ 2021ep17 - YouTube](https://www.youtube.com/watch?v=O4nB-U8A_hc)
@@ -200,60 +239,18 @@ Isometric: contraction and hold
 
 ## Swimming
 
+[MJ swim - YouTube](https://www.youtube.com/@mengjue333)
+
 [不會遊泳的看了包你學會！有很多人還是不會遊泳的，看了麻煩請分享傳開！謝謝！ | Giga Circle](http://tw.gigacircle.com/707811-1)
+[【長泳】高手的 5 個偷懶技術｜馬上游 10000m ｜日月潭泳渡必看｜自由式游得更遠｜開放水域游泳｜阿冬玩三鐵 - YouTube](https://www.youtube.com/watch?v=g9nYGVVkJ1U)
+[【水泳】5 個秘訣自由式游更快｜ 50 公尺 30 秒不是夢 ｜學會立刻破 PB！｜阿冬玩三鐵 - YouTube](https://www.youtube.com/watch?v=JLFMDhJYjnc)
+[菲爾普斯教練的自由式教學影片(中英字幕) - YouTube](https://www.youtube.com/watch?v=DDlyNFHpT_Q)
+[方力申教游泳 - YouTube](https://www.youtube.com/playlist?list=PLGM_jB0ritDtQvf2nNp7Me7YBhKTvZgeb)
 [Speedo's Ultimate Guide to a Perfect Freestyle Swim Stroke! (Tutorial) - Presented by ProTriathlon - YouTube](https://www.youtube.com/watch?v=4E9O2Iz4WwE)
 
 ## Bicycle
 
-[Road Race Lite 903 - Google Sheets](https://docs.google.com/spreadsheets/d/1gxiZY7Kx5Z5_GYwm5XdesZRf8TvivPJwU0VvvWTSx7Y/edit) my bike
-
-[几百块和几万块的自行车真有区别吗？自行车好玩在哪里？Is there really a difference between bikes at different prices? - YouTube](https://www.youtube.com/watch?v=pF-B9H85MFg)
-
-[Global Cycling Network - YouTube](https://www.youtube.com/channel/UCuTaETsuCOkJ0H_GAztWt0Q)
-[GCN's Guide To Buying Your First Road Bike - YouTube](https://www.youtube.com/watch?v=_T7NTe3uBN4)
-
-[Most People Don't Know How Bikes Work - YouTube](https://www.youtube.com/watch?v=9cNmUNHSBac)
-[How Do Bikes Stay Up? - YouTube](https://www.youtube.com/watch?v=oZAc5t2lkvo)
-[The Counterintuitive Physics of Turning a Bike - YouTube](https://www.youtube.com/watch?v=llRkf1fnNDM)
-[We Still Don’t Know How Bicycles Work - YouTube](https://www.youtube.com/watch?v=YWsK6rmsKSI)
-
-[Andy Ruina explains how bicycles balance themselves - YouTube](https://www.youtube.com/watch?v=NcZCzr9ExKk)
-[Why bicycles do not fall: Arend Schwab at TEDxDelft - YouTube](https://www.youtube.com/watch?v=2Y4mbT3ozcA)
-
-### Shimano Groupsets
-
-[Best components for your road bike. | Shimano Road](https://road.shimano.com/)
-[Shimano - Wikiwand](https://www.wikiwand.com/en/Shimano)
-
-[Shimano Tiagra Vs. 105 Groupsets Compared | Bike Push](https://bikepush.com/shimano-105-vs-tiagra-groupsets/)
-[Shimano 105 Vs Ultegra Groupsets Reviewed | Bike Push](https://bikepush.com/shimano-105-vs-ultegra-groupsets/)
-
-[All-In-One Guide: Shimano Road Groupsets. Claris, Sora, Tiagra, 105, Ultegra, Dura-Ace. Di2 - YouTube](https://www.youtube.com/watch?v=bu2hLK9d0IU) 2018
-[Shimano Groupsets | All You Need To Know | Cycling Weekly - YouTube](https://www.youtube.com/watch?v=dArMiKU24n0) 2019
-
-105 upgrade in 2018 have most Dura Ace tech trickled down
-[Shimano 105 Vs Shimano Dura-Ace | What's The Difference? - YouTube](https://www.youtube.com/watch?v=6si2XSCbdGQ)
-
-[Shimano Tiagra 4500 better than 105 5800? How NOT to upgrade your bike. Test & review - YouTube](https://www.youtube.com/watch?v=zaJDkVJ1K8E) Tiagra 4500 (2016) vs 105 4800 (2018)
-
-### Bike fitting
-
-[How To Make Your Pedalling Technique Smoother Than Ever | GCN's Pro Cycling Tips - YouTube](https://www.youtube.com/watch?v=PAHRvcOCSU4)
-
-### Drive train
-
-[The Bike Geek Explains: Gear Ratios - YouTube](https://www.youtube.com/watch?v=kkWC_BSb7u8)
-[Compact vs Standard Cranksets Compared (Mid-Compact Too)](https://bikepush.com/compact-vs-standard-crank/)
-
-### Brakes
-
-[Disc Vs. Rim Brakes: The End of The Debate? - YouTube](https://www.youtube.com/watch?v=EFKxJ5L187M)
-[7 Best Road Bike Brake Pads Reviewed (2021) | Aluminum Alloy Carbon](https://bikepush.com/best-road-bike-brake-pads/)
-
-### Tyres
-
-[Trend spotting: Why you need to switch to wider tyres | road.cc](https://road.cc/content/feature/trend-spotting-why-you-need-switch-wider-tyres-182519)
-[The Surprising Science Behind Tread Patterns - YouTube](https://www.youtube.com/watch?v=00-30GQl0TM) for cars
+[[bicycle]]
 
 ## Yoga
 

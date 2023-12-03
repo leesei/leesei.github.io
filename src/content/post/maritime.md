@@ -2,14 +2,15 @@
 title: Maritime
 description: ""
 created: 2021-11-10
-updated: 2023-07-25
+updated: 2023-11-10
 tags:
   - transportation
 ---
 
-[Captain Li's Journal - YouTube](https://www.youtube.com/channel/UCUCycRb1bBBVOj-x96EfMNQ)
+[Captain Li's Journal - YouTube](https://www.youtube.com/@Captain_Li)
+[Casual Navigation - YouTube](https://www.youtube.com/@CasualNavigation)
+[Oceanliner Designs - YouTube](https://www.youtube.com/@OceanlinerDesigns)
 
-[Casual Navigation - YouTube](https://www.youtube.com/channel/UC5_HIscbiDZM0dMX-nCksuA)
 [Why is the command centre of a ship called a "BRIDGE"? - YouTube](https://www.youtube.com/watch?v=RDKRF7utpTw)
 [Marine Regions](https://www.marineregions.org/eezmapper.php)
 

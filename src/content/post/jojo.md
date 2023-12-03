@@ -2,6 +2,7 @@
 title: JoJo的奇妙冒险
 description: ""
 created: 2016-12-22
+updated: 2023-09-29
 tags:
   - anime
   - jojo
@@ -14,6 +15,9 @@ tags:
 [JOJO - Komica wiki](https://wiki.komica.org/JOJO)
 
 [【LexBurner 官方頻道】JOJO 到底是個啥？ - YouTube](https://www.youtube.com/watch?v=SNTC-lLk9JE)
+
+[【JOJO迷因】你說得出來的有幾個？我不做人類啦JOJO！歐拉歐拉...就算沒看JOJO也知道？｜上集 - YouTube](https://www.youtube.com/watch?v=bJpozHHWCeU)
+[【JOJO迷因】動漫歌我只服羅大佑？台灣知名Youtuber把這個梗發揚光大｜下集 - YouTube](https://www.youtube.com/watch?v=NeReAttamwc)
 
 [【動漫經典角色回顧】JOJO 歷代主角介紹(上)"代代傳承的黃金精神" | ACG 英雄譚#7 - YouTube](https://www.youtube.com/watch?v=6dF8cEGf_Go)
 

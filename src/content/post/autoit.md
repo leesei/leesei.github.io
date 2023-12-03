@@ -2,6 +2,7 @@
 title: AutoIt
 description: AutoIt v3 is a freeware BASIC-like scripting language designed for automating the Windows GUI and general scripting.
 created: 2023-02-16
+updated: 2023-09-29
 tags:
   - app
   - automation

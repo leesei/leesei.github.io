@@ -2,6 +2,7 @@
 title: Compiler
 description: How source code is turned into machine code
 created: 2023-04-14
+updated: 2023-11-22
 tags:
   - comp/hardware
   - comp/lang
@@ -23,9 +24,12 @@ tags:
 
 [Create Your Own Programming Language Series' Articles - DEV Community](https://dev.to/jasonsbarr/series/23100)
 
+[When Zig Outshines Rust - Memory Efficient Enum Arrays](https://alic.dev/blog/dense-enums) Zig comptime for staged compilation
+[Modernizing Compiler Design for Carbon Toolchain - Chandler Carruth - CppNow 2023 - YouTube](https://www.youtube.com/watch?v=ZI198eFghJk) parsed AST consumes 50x more memory than the source code
+
 [ThePrimeagen/ts-rust-zig-deez](https://github.com/ThePrimeagen/ts-rust-zig-deez) interpreter in different languages
 
-## Just In Time Compliler
+## Just In Time Compiler
 
 [Just-in-time compilation - Wikiwand](https://www.wikiwand.com/en/Just-in-time_compilation)
 
@@ -132,9 +136,33 @@ gcc -### -march=native /usr/include/stdlib.h
 
 [LLVM - Wikiwand](https://www.wikiwand.com/en/LLVM)
 [The LLVM Compiler Infrastructure Project](http://llvm.org/)
+[LLVM | Everything I Know](https://wiki.nikiv.dev/compilers/llvm)
 
+[The Architecture of Open Source Applications (Volume 1) LLVM](https://aosabook.org/en/v1/llvm.html)
 [A Brief Introduction to LLVM - YouTube](https://www.youtube.com/watch?v=a5-WaD8VV38)
+[LLVM, in Greater Detail](https://www.cs.cmu.edu/afs/cs/academic/class/15745-s13/public/lectures/L6-LLVM-Detail-1up.pdf) PDF
 [SE-Radio Episode 291: Morgan Wilde on LLVM : Software Engineering Radio](http://www.se-radio.net/2017/05/se-radio-episode-291-morgan-wilde-on-llvm/)
+
+[LLVM Tutorial](https://llvm.org/docs/tutorial/)
+[My First Language Frontend with LLVM Tutorial — LLVM documentation](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html)
+
+[LLVM Language Reference Manual — LLVM documentation](https://llvm.org/docs/LangRef.html)
+[llir/grammar: EBNF grammar of LLVM IR assembly.](https://github.com/llir/grammar)
+
+### Tools
+
+> see [[reverse-engineering#Lifting Bits]]
+
+[LLVM IR and Go | Gopher Academy Blog](https://blog.gopheracademy.com/advent-2018/llvm-ir-and-go/) ❗!important
+[Welcome to llir/llvm · llir/llvm](https://llir.github.io/document/) better than `go-llvm` as each node has corresponding Go struct, rather than a single catchall struct
+[llir/llvm: Library for interacting with LLVM IR in pure Go.](https://github.com/llir/llvm)
+
+[tinygo-org/go-llvm: Go bindings to a system-installed LLVM. Used as part of TinyGo.](https://github.com/tinygo-org/go-llvm) CGO, originally from LLVM source tree
+
+[rsms/llvmbox: Self contained, fully static llvm tools & libs](https://github.com/rsms/llvmbox)
+
+`llvm-as`: `.ll` to `.bc`
+`llvm-dis`: `.bc` to `.ll`
 
 ### Clang
 
@@ -145,3 +173,8 @@ gcc -### -march=native /usr/include/stdlib.h
 
 [c++ - LLVM vs clang on OS X - Stack Overflow](https://stackoverflow.com/questions/5708610/llvm-vs-clang-on-os-x)
 [GCC 11 vs. LLVM Clang 12 Compilers On The AMD EPYC 7763 - Phoronix](https://www.phoronix.com/review/gcc11-clang12-epyc7763)
+
+## Dynamic Dispatch
+
+[Two Ways To Do Dynamic Dispatch - YouTube](https://www.youtube.com/watch?v=wU8hQvU8aKM) Rust and C++
+[Better Code: Runtime Polymorphism - Sean Parent - YouTube](https://www.youtube.com/watch?v=QGcVXgEVMJg) C++

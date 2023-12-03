@@ -2,7 +2,7 @@
 title: Internet of things
 description: ""
 created: 2018-06-12
-updated: 2023-07-27
+updated: 2023-11-26
 tags:
   - iot
   - maker
@@ -14,12 +14,22 @@ tags:
 [Embedded system - Wikiwand](http://www.wikiwand.com/en/Embedded_system)
 [Microcontroller - Wikiwand](http://www.wikiwand.com/en/Microcontroller)
 
-[Electronoobs - YouTube](https://www.youtube.com/c/ELECTRONOOBS)
-
 [Mesh networking extends IoT reach - O'Reilly Radar](http://radar.oreilly.com/2014/07/mesh-networking-extends-iot-reach.html)
 [Extracting value from the IoT - O'Reilly Radar](http://radar.oreilly.com/2014/06/extracting-value-from-the-iot.html)
 
-[Microcontrollers - YouTube](https://www.youtube.com/playlist?list=PLxLxbi4e2mYFkOe5whDbd8IzBVd1opbMb)
+[Electronoobs - YouTube](https://www.youtube.com/@ELECTRONOOBS)
+[Jeff Geerling - YouTube](https://www.youtube.com/@JeffGeerling)
+[Maker 101 - YouTube](https://www.youtube.com/@maker101io)
+[ElectronFun.com - YouTube](https://www.youtube.com/@ElectronFunCom)
+[Programming Electronics Academy - YouTube](https://www.youtube.com/@programmingelectronics) ❗!important, systematic courses
+
+[SparkFun Electronics - YouTube](https://www.youtube.com/@sparkfun)
+[Adventures in Science! - YouTube](https://www.youtube.com/playlist?list=PLBcrWxTa5CS0u-rQNkGtLMg1yA7h56r6_)
+
+[Random Nerd Tutorials | Learn ESP32, ESP8266, Arduino, and Raspberry Pi](https://randomnerdtutorials.com/)
+[Rui Santos - YouTube](https://www.youtube.com/@RuiSantosdotme)
+
+[Microcontrollers - YouTube](https://www.youtube.com/playlist?list=PLxLxbi4e2mYFkOe5whDbd8IzBVd1opbMb) Gary Explains
 [How Arduino is open-sourcing imagination | Massimo Banzi - YouTube](https://www.youtube.com/watch?v=UoBUXOOdLXY)
 
 ## IDE, Platforms and Frameworks
@@ -34,6 +44,13 @@ Home Assistant and WLED
 
 [Wokwi - Online Arduino and ESP32 Simulator](https://wokwi.com/)
 [Secrets of MicroPython: Fun with Neopixels!](https://bhave.sh/micropython-neopixels-1/)
+
+Vendors often publish files that have the details of special function registers
+
+- for ARM this is called a "System View Description" (SVD)
+  [cmsis-svd/cmsis-svd: Aggegration of ARM Cortex-M (and other) CMSIS SVDs and related tools](https://github.com/cmsis-svd/cmsis-svd)
+- for AVR the format is called ATDF
+  [Microchip Packs Repository](https://packs.download.microchip.com/)
 
 ### Pigweed
 
@@ -171,10 +188,6 @@ Open source RTOS for ARM Cortex-A. Now supported by Arduino IDE.
 [NodeUp #73](http://nodeup.com/seventythree)
 [#177: Cylon.js, Gobot, Artoo, and IoT with Ron Evans from The Hybrid Group - Changelog](https://changelog.com/177/)
 
-[Nitrogen: A platform for connecting devices and applications.](http://nitrogen.io/index.html) authority framework
-[nitrogenjs](https://github.com/nitrogenjs)
-[nitrogen](https://www.npmjs.com/package/nitrogen)
-
 [Node-RED](http://nodered.org/) A visual tool for wiring the Internet of Things
 [Node-Red 簡介與快速安裝](https://www.arthurtoday.com/2016/10/node-red-introduction-and-installation.html)
 
@@ -182,16 +195,25 @@ Open source RTOS for ARM Cortex-A. Now supported by Arduino IDE.
 
 [Artoo - Ruby framework for robotics, physical computing, and the Internet of Things](http://artoo.io/)
 
+[.NET nanoFramework – Making it easy to write C# code for embedded systems.](https://www.nanoframework.net/) ARM Cortex-M and ESP32
+[Qt on Microcontrollers - Get started Today!](https://www.qt.io/qt-for-mcu)
+[Learn from a real world example of Qt for MCUs with Verolt](https://www.qt.io/how-to-port-qt-to-mcus)
+
+#### Zig
+
+[ZEG](https://microzig.tech/)
+[Zig Embedded Group](https://github.com/ZigEmbeddedGroup)
+[ZigEmbeddedGroup/microzig: Unified abstraction layer and HAL for several microcontrollers](https://github.com/ZigEmbeddedGroup/microzig)
+[ZigEmbeddedGroup/regz: Generate zig code from ATDF or SVD files for microcontrollers.](https://github.com/ZigEmbeddedGroup/regz)
+
+#### Go
+
 [Gobot - Golang framework for robotics, physical computing, and the Internet of Things (IoT)](https://gobot.io/)
 
 [Home :: TinyGo - Go on Microcontrollers and WASM](https://tinygo.org/)
 [tinygo-org/tinygo: Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.](https://github.com/tinygo-org/tinygo)
 [Arduino Blog » TinyGo on Arduino](https://blog.arduino.cc/2019/08/23/tinygo-on-arduino/)
 [TinyGo GO Compiler for Microcontrollers Now Works on Arduino Boards](https://www.cnx-software.com/2019/08/28/tinygo-go-compiler-for-microcontrollers-now-works-on-arduino-boards/amp/)
-
-[.NET nanoFramework – Making it easy to write C# code for embedded systems.](https://www.nanoframework.net/) ARM Cortex-M and ESP32
-[Qt on Microcontrollers - Get started Today!](https://www.qt.io/qt-for-mcu)
-[Learn from a real world example of Qt for MCUs with Verolt](https://www.qt.io/how-to-port-qt-to-mcus)
 
 ### Partition Size
 
@@ -284,6 +306,8 @@ Adafruit's open source derivative of MicroPython
 
 [NodeBots - The Rise of JS Robotics](http://nodebots.io/)
 [Cylon.js - JavaScript framework for robotics, physical computing, and the Internet of Things using Node.js](https://cylonjs.com/)
+
+[LLJS : Low-Level JavaScript](https://mbebenita.github.io/LLJS/)
 
 ### DeviceScript
 
@@ -571,6 +595,8 @@ There are SBC (single board computer) and MCU (micro controller unit). MCU also 
 [Arm vs RISC-V? Which One Is The Most Efficient? - YouTube](https://www.youtube.com/watch?v=hdnONr-cXds)
 [Dual Core Microcontroller Battle Royale - Performance and Power Efficiency - YouTube](https://www.youtube.com/watch?v=CD9c6UK_uis)
 
+## SBC
+
 [ExplainingComputers.com: Single Board Computers](https://www.explainingcomputers.com/sbc.html)
 [Welcome to the Single Board Computer Database](https://www.hackerboards.com/home.php)
 [Raspberry Pi Alternatives | Linux Journal](https://www.linuxjournal.com/content/raspberry-pi-alternatives)
@@ -583,6 +609,7 @@ There are SBC (single board computer) and MCU (micro controller unit). MCU also 
 [Single Board Computer Benchmarks - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/single-board-computer-benchmarks)
 [The Single Board Computer Database](https://www.board-db.org/)
 [sbc-bench/Results.md at master · ThomasKaiser/sbc-bench](https://github.com/ThomasKaiser/sbc-bench/blob/master/Results.md)
+[geerlingguy/sbc-reviews: Jeff Geerling's SBC review data - Raspberry Pi, Radxa, Orange Pi, etc.](https://github.com/geerlingguy/sbc-reviews)
 
 [Ringing in 2018 with 103 hacker-friendly SBCs](http://linuxgizmos.com/ringing-in-2018-with-103-hacker-friendly-sbcs/)
 [2018 reader survey of 116 open-spec Linux/Android SBCs](http://linuxgizmos.com/2018-reader-survey-of-116-open-spec-linux-android-sbcs/)

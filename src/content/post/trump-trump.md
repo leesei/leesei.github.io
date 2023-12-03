@@ -2,6 +2,7 @@
 title: Donald Trump
 description: ""
 created: 2019-08-03
+updated: 2023-09-29
 tags:
   - politics
 ---

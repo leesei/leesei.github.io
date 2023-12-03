@@ -2,6 +2,7 @@
 title: Ghost
 description: ""
 created: 2019-10-07
+updated: 2023-09-29
 tags:
   - app
   - cms

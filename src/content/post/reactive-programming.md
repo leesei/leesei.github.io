@@ -2,7 +2,7 @@
 title: Reactive programming
 description: ""
 created: 2016-03-13
-updated: 2023-07-21
+updated: 2023-09-29
 tags:
   - javascript
   - mobx

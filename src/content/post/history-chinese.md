@@ -2,7 +2,7 @@
 title: 中國歷史
 description: ""
 created: 2015-10-09
-updated: 2023-08-01
+updated: 2023-11-27
 tags:
   - history
   - history/chinese
@@ -28,10 +28,11 @@ tags:
 [中國通史 粵語 - YouTube](https://www.youtube.com/playlist?list=PLri61F2aPbPxJ9VQ-5tvaWzhVDyA3tYQt)
 [【Chang'an Meets Rome】从长安到罗马 Ⅰ ｜唤起“沉睡”的丝绸之路，长安与罗马再次牵手 - YouTube](https://www.youtube.com/playlist?list=PLqid5YompiAgTlHR-YY7aHKBhfujWNJel)
 [Chinese History - YouTube](https://www.youtube.com/playlist?list=PLaBYW76inbX7-09r2c5HvE8OHFwePbgV6) Kings and Generals
-[NewTV Documentary 华语纪录片 - YouTube](https://www.youtube.com/channel/UCY2K0prdYWOp3ne84krKRnw)
-[信息素官方 - YouTube](https://www.youtube.com/channel/UCz4iS6GAEXoFB1gJEmQFcvw)
-[袁腾飞官方频道 Tengfei Official - YouTube](https://www.youtube.com/c/tengfeiofficial/playlists?view=50&sort=dd&shelf_id=4)
+[NewTV Documentary 华语纪录片 - YouTube](https://www.youtube.com/@documentarychinatv)
+[信息素官方 - YouTube](https://www.youtube.com/@xinxisu_1003)
+[LIFEANO CLUB - YouTube](https://www.youtube.com/@yuansir/playlists) 袁腾飞
 [地图里的故事 - YouTube](https://www.youtube.com/@DiTuLiDeGuShi)
+[歷史面面觀 - YouTube](https://www.youtube.com/@history_aspects)
 
 [封建制度 (中國) - Wikiwand](<https://www.wikiwand.com/zh-hant/%E5%B0%81%E5%BB%BA%E5%88%B6%E5%BA%A6_(%E4%B8%AD%E5%9C%8B)>)
 [六藝 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%85%AD%E8%89%BA)
@@ -45,9 +46,9 @@ tags:
 [史前文話的個人資料](https://www.herostory.tw/profile/%E5%8F%B2%E5%89%8D%E6%96%87%E8%A9%B1)
 
 [最八卦的人类简史 - YouTube](https://www.youtube.com/playlist?list=PLBsaUodNhf08QcbtL9wbenkvcCY2aj5ng)
-[史大郎 - YouTube](https://www.youtube.com/channel/UCccannnI4dtZNufDdO0wXRQ)
+[史大郎 - YouTube](https://www.youtube.com/@user-ph2jb1np7c)
 
-[Tengu Media - YouTube](https://www.youtube.com/channel/UC97VRsljSmClzdoDoqa3wCw)
+[Tengu Media - YouTube](https://www.youtube.com/@tengumedia)
 [天狗衛視 2020 年集錦 + 被剪掉的鏡頭和台詞 - YouTube](https://www.youtube.com/watch?v=mKoSTzwddIo)
 [2000 年中國史濃縮版！（從秦帝國到中華人民共和國） - YouTube](https://www.youtube.com/watch?v=m0YmdLPDSxQ)
 [全面揭露黃帝的真面目！中國人不是「炎黃子孫」 - YouTube](https://www.youtube.com/watch?v=9muNcuEXTU0) 炎帝一脈, 夏商周, 五胡亂華, 北魏, 隋唐, 遼金元清大多統治者均為阿爾泰系游牧民族, 夏朝被滅後退回北方, 發展為日後朝代勢力; 漢人稱其為匈奴, 獯粥, 軒猿, 軒轅, 為阿爾泰語單于, 可汗的音譯; 匈奴, 東胡, 突厥, 蒙古, 滿洲均為阿爾泰後代；夏, 漢, 宋, 明朝才是漢人當家的真正例子
@@ -112,6 +113,8 @@ tags:
 中國歷史文最早文字紀錄為殷墟的甲骨文, 距今為~3000 年
 [考古 - YouTube](https://www.youtube.com/playlist?list=PLAnIBQR8Pi48B68lOBEUyc1ue1HeyYtce) 悟空的宝箱
 [国宝·发现 | 行走中的历史百科 - YouTube](https://www.youtube.com/playlist?list=PLANl3ClKhxfHYIPc3z3oDEzocQt0jY1uB) 三星堆, 曾候乙, 良渚
+
+[《易經》能否預知未來？從古墓裡挖出失傳的《易經》還意外破解了秦始皇的秘密……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=07iM2W8pYeo)
 
 ## 朝代
 
@@ -223,6 +226,8 @@ tags:
 
 [契 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%A5%91) 帝嚳之子; 助大禹治水有功, 封於商 (今陝西商洛市); 商朝先公
 [商湯 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%95%86%E6%B1%A4)
+
+[被抹黑最慘的人 歷史上真實的商紂王 是誰在抹黑商紂王? 酒池肉林、寵信妲己都是假的? - YouTube](https://www.youtube.com/watch?v=jjGCg1EHvws)
 
 [殷墟的三大惊喜与三大惊吓，这是一期全面了解殷墟的视频。 - YouTube](https://www.youtube.com/watch?v=7EWH1yOKf8c)
 [人祭：一段被隱藏了 3000 年的黑暗歷史！華夏文明竟起源於同類相食？周易與甲骨文中的陰森密碼，絕大多數人都沒看懂…[She's Xiaowu @ndwtb] - YouTube](https://www.youtube.com/watch?v=CGY9JH4kYQE)
@@ -414,6 +419,7 @@ tags:
 [世紀帝國汁歷史#1 宋朝跟你說 什麼叫做有錢好辦事-澶淵之盟之宋遼戰爭 - YouTube](https://www.youtube.com/watch?v=bR8SfEpeWhM)
 
 [靖康之變 - Wikiwand](https://www.wikiwand.com/zh-hk/%E9%9D%96%E5%BA%B7%E4%B9%8B%E5%8F%98) 宋徽宗欲收復燕雲十六州而聯金滅遼, 其後金國攻陷汴梁, 擄走皇帝宋欽宗、太上皇宋徽宗
+[35年前，古墓裡挖出一位蒙面女子，她為我們破解了那段最悲憤的歷史，原來，被踐踏的不僅僅是那些絕望的女人們……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=KFgeaRphGng) 海上之盟, 靖康之變
 [正史都不敢記載！一場跨越百年的命運輪迴！史上最恐怖的現世報事件，宋朝滅亡時究竟發生了什麼？[Unsolved Mystery Stories | Xiaowu] - YouTube](https://www.youtube.com/watch?v=tNobrV_cgD4)
 
 [海龍囤古堡：40 年前，考古隊意外闖入這座傳説中的古堡，然後，一個延續過 700 年的神秘家族浮出了水面……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=vxxnSBf5M3M) 播州楊氏, 於四川釣魚城誅滅蒙古大汗蒙哥, 間接拯救歐洲和中東
@@ -438,6 +444,7 @@ tags:
 
 [徹底終結「元朝清朝是不是中國」！ - YouTube](https://www.youtube.com/watch?v=74Fj0ZBUPx4)
 [How Kublai Khan’s Yuan complicates the notion of ‘China’ - SupChina](https://supchina.com/2020/12/16/how-kublai-khans-yuan-complicates-the-notion-of-china/amp/)
+[细说蒙古历史，黄金家族717年汗统的辉煌与覆灭！ - YouTube](https://www.youtube.com/watch?v=SxIoUHPrUeM)
 
 [蒙古四大汗國 - Wikiwand](https://www.wikiwand.com/zh-hant/%E8%92%99%E5%8F%A4%E5%9B%9B%E5%A4%A7%E6%B1%97%E5%9B%BD)
 [蒙古帝國 - Wikiwand](https://www.wikiwand.com/zh-hant/%E8%92%99%E5%8F%A4%E5%B8%9D%E5%9B%BD) 蒙哥死後蒙古帝國再分裂
@@ -596,6 +603,7 @@ Wuchisan: Alexandria
 女真 = 五國十代時建國, 東三省地區，靺鞨後人, 宋時再掘起建金朝; 滅大遼, 滅北宋(靖康之恥), 南宋末元初時被成吉思汗所滅; 明時蒙古分裂後再崛起, 建立後金, 1635 年皇太極統稱女真及其下所統治部族為滿洲(滿族), 及後滿族入主中原建清朝; 姓氏: 完顏, 愛新覺羅
 蒙古 = 室韋後人(蒙兀室韋, 韃靼), 宋時契丹被滅後掘起, 回到蒙古地區, 建元朝; 蒙古王為可汗 (讀克汗); 明時被趕蒙古地區, 後分裂成了韃靼和瓦剌; 韃靼是明朝給蒙古的名字, 以扁低蒙古; 西韃靼為蒙古, 東韃靼為滿州國; 姓氏: 孛兒只斤
 [被歷史書抹去的亘古大國「韃靼利亞」！ - YouTube](https://www.youtube.com/watch?v=ey385zBy09I)
+[新疆历史和时事 - YouTube](https://www.youtube.com/playlist?list=PLs_kPxa_j2tsDCHUJcwgB6wCs2nL6gYpl)
 
 [古羌人](https://www.wikiwand.com/zh/%E5%8F%A4%E7%BE%8C%E4%BA%BA) = 漢時新疆地區
 [羌族 - Wikiwand](https://www.wikiwand.com/zh/%E7%BE%8C%E6%97%8F)

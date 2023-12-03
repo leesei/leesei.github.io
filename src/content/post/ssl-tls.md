@@ -2,7 +2,7 @@
 title: SSL/TLS
 description: ""
 created: 2015-04-02
-updated: 2023-06-22
+updated: 2023-11-08
 tags:
   - security
   - ssl
@@ -32,6 +32,7 @@ The server register with a CA and sign its public key with the key of CA for a f
 [Decrypt SSL with Wireshark - HTTPS Decryption: Step-by-Step Guide](https://www.comparitech.com/net-admin/decrypt-ssl-with-wireshark/)
 [HTTPS Decryption with Wireshark // Website TLS Decryption - YouTube](https://www.youtube.com/watch?v=GMNOT1aZmD8)
 [Decrypting TLS, HTTP/2 and QUIC with Wireshark - YouTube](https://www.youtube.com/watch?v=yodDbgoCnLM)
+[pan-unit42/wireshark-tutorial-decrypting-HTTPS-traffic](https://github.com/pan-unit42/wireshark-tutorial-decrypting-HTTPS-traffic)
 
 [HTTPS: an awesome, secure tale (pt 1) | by Omer Goldberg | Bits and Pieces](https://blog.bitsrc.io/https-an-awesome-secure-tale-pt-1-32d2ba5ac0c1)
 
@@ -120,6 +121,14 @@ obsolete?
 
 As it turns out, CA may not be trust-worthy after all. There are many instances of CA issuing fraudulent certificates (willingly or being hacked).
 
+[https 技术鉴赏 - YouTube](https://www.youtube.com/watch?v=vVbLSba6vOI)
+[How CT Works : Certificate Transparency](https://certificate.transparency.dev/howctworks/) the issuance of cert is accompanied by a SCT record on blockchain
+[RFC 9162: Certificate Transparency Version 2.0](https://www.rfc-editor.org/rfc/rfc9162.html)
+[certificate-transparency/docs/SCTValidation.md at master · google/certificate-transparency · GitHub](https://github.com/google/certificate-transparency/blob/master/docs/SCTValidation.md)
+[How CT Works : Certificate Transparency](https://certificate.transparency.dev/howctworks/)
+[Engineering deep dive: Encoding of SCTs in certificates - Let's Encrypt](https://letsencrypt.org/2018/04/04/sct-encoding.html)
+[What is Certificate Transparency? - SSL Certificates - Namecheap.com](https://www.namecheap.com/support/knowledgebase/article.aspx/9588/38/what-is-certificate-transparency/)
+
 [How the Comodo certificate fraud calls CA trust into question | Ars Technica](http://arstechnica.com/security/2011/03/how-the-comodo-certificate-fraud-calls-ca-trust-into-question/)
 
 [Google warns of unauthorized TLS certificates trusted by almost all OSes [Updated] | Ars Technica](http://arstechnica.com/security/2015/03/google-warns-of-unauthorized-tls-certificates-trusted-by-almost-all-oses/)
@@ -159,6 +168,8 @@ As it turns out, CA may not be trust-worthy after all. There are many instances 
 [How It Works](https://letsencrypt.org/howitworks/)
 [Technology](https://letsencrypt.org/howitworks/technology/)
 [letsencrypt](https://github.com/letsencrypt/)
+
+[Let's Debug](https://letsdebug.net/)
 [Let's Encrypt Status](https://letsencrypt.status.io/)
 
 [The CA's Role in Fighting Phishing and Malware - Let's Encrypt - Free SSL/TLS Certificates](https://letsencrypt.org/2015/10/29/phishing-and-malware.html)

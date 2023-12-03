@@ -2,6 +2,7 @@
 title: Antitrust
 description: ""
 created: 2015-04-04
+updated: 2023-09-29
 tags:
   - antitrust
   - law

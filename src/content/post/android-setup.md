@@ -2,6 +2,7 @@
 title: Android setup
 description: ""
 created: 2015-01-13
+updated: 2023-09-29
 tags:
   - adb
   - android
@@ -106,7 +107,7 @@ SUBSYSTEM=="usb", ATTR{idVendor}=="04e8", ATTR{idProduct}=="6860", MODE="0666", 
 [MTPfs « Dual Elephants](http://www.adebenham.com/mtpfs/)
 [Mount MTP device on Debian 7 wheezy | Roger Steneteg](http://roger.steneteg.org/299/mount-mtp-device-on-debian-7-wheezy/)
 [[GUIDE] How-To Automount Your Note 10.1 to Linux with MTP - xda-developers](http://forum.xda-developers.com/showthread.php?t=2140939)
-[Getting MTP enabled devices to work with Ubuntu? - Ask Ubuntu](http://askubuntu.com/questions/87667/getting-mtp-enabled-devices-to-work-with-ubuntu/308366#308366)
+[Getting MTP enabled devices to work with Ubuntu? - Ask Ubuntu](http://askubuntu.com/questions/87667/getting-mtp-enabled-devices-to-work-with-ubuntu/308366)
 [The easy way: share data between Nexus 7 and Debian | Legen ... d(i)ary!](http://www.legendiary.at/2013/01/27/the-easy-way-share-data-between-nexus-7-and-debian/)
 [The hard way: make MTP work with Nexus 7 on Debian | Legen ... d(i)ary!](http://www.legendiary.at/2013/01/27/the-hard-way-make-mtp-work-with-nexus-7-on-debian/)
 

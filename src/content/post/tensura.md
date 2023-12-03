@@ -2,6 +2,7 @@
 title: 關於我轉生變成史萊姆這檔事
 description: ""
 created: 2019-03-30
+updated: 2023-10-12
 tags:
   - anime
 ---
@@ -18,7 +19,15 @@ AshhhTV/阿修
 
 [轉生史萊姆 - YouTube](https://www.youtube.com/playlist?list=PL_HeCgQ1UnCP_qaA2dh9oOMjodPYYEXhx) 阿偉馬克兔
 [轉生史萊姆 - YouTube](https://www.youtube.com/playlist?list=PLA7wvGMXTOLt3IEceF50U8vFI3mN1je1h) 雀可美特
+[關於我轉生成為史萊姆這檔事 - YouTube](https://www.youtube.com/playlist?list=PLB0KPdEQn0A8i7q-0CfbkCI3lHl2ZTfcu) 無臉
+
+E N
+[【第一季 關於我轉生變成史萊姆這檔事】 動畫裡沒說的事 - YouTube](https://www.youtube.com/playlist?list=PLQ6HWyP9eZvcz34Jb1sQ2uMYEYPr4spE7)
 [【第二季 關於我轉生變成史萊姆這檔事】 動畫裡沒說的事 - YouTube](https://www.youtube.com/playlist?list=PLQ6HWyP9eZvdpCFntu3_opnSaCAtcnh5x)
+
+魔人小白
+[100分鐘一口氣看完《轉生史萊姆》第一季，社畜轉生史萊姆，高爽稱王收小弟！ - YouTube](https://www.youtube.com/watch?v=lpVKVIVXX8I)
+[100分鐘一口氣看完《轉生史萊姆第二季》，萌王瞬殺兩萬軍隊覺醒魔王！維魯德拉霸氣歸來！ - YouTube](https://www.youtube.com/watch?v=o6dS1yGs6RM)
 
 [【轉生史萊姆】先修下水道！史萊姆如何成就建國霸業 《關於我轉生變成史萊姆這檔事》【不只是聊動漫#93】 - YouTube](https://www.youtube.com/watch?v=Mu7cOgOPNHs)
 

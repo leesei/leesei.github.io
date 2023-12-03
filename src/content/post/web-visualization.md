@@ -2,6 +2,7 @@
 title: Data Visualization on the Web
 description: ""
 created: 2016-04-08
+updated: 2023-11-10
 tags:
   - big-data
   - visualization
@@ -16,7 +17,6 @@ tags:
 [Comparison of JavaScript charting frameworks - Wikiwand](http://www.wikiwand.com/en/Comparison_of_JavaScript_charting_frameworks)
 
 [vis.js - A dynamic, browser based visualization library.](http://visjs.org/)
-[react-vis](https://uber.github.io/react-vis/)
 
 [nhnent/tui.chart: 🍞🍯 Beautiful chart for data visualization.](https://github.com/nhnent/tui.chart)
 

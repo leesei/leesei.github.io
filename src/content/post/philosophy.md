@@ -2,7 +2,7 @@
 title: Philosophy
 description: ""
 created: 2015-06-29
-updated: 2023-07-23
+updated: 2023-11-16
 tags:
   - philosophy
 ---
@@ -10,6 +10,9 @@ tags:
 [10 Schools of Philosophy and Why You Should Know Them | Big Think](http://bigthink.com/scotty-hendricks/10-schools-of-philosophy-and-why-you-should-know-them)
 
 [Science Fiction and the Philosophical “Ship of Theseus” Problem | Tor.com](https://www.tor.com/2019/03/22/science-fiction-and-the-philosophical-ship-of-theseus-problem/)
+
+[Philosophical Questions - YouTube](https://www.youtube.com/@PhilosophicalQuestions)
+[大问题 Dialectic - YouTube](https://www.youtube.com/@question-dialectic)
 
 ## 辯證反合
 
@@ -57,6 +60,9 @@ Isaac Arthur
 [What Are Ancestor Simulations... And Are We Living In One? - YouTube](https://www.youtube.com/watch?v=KN7sekRxFHg)
 [Hacking The Simulation - YouTube](https://www.youtube.com/watch?v=cquTWnEYFQw)
 
+[这个世界是计算机模拟出来的吗？ - YouTube](https://www.youtube.com/watch?v=v45po1lU6YE)
+[如何证明这世界不是《地球 ol》游戏？ - YouTube](https://www.youtube.com/watch?v=tMYiZUj1uCc)
+
 [用科學證明我們的世界其實就是虛擬現實（VR） | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=1ox6JDv8D3Y)
 [世界是虛擬的但有一個東西是真實的 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=B-I2guiXzRA)
 [證明這個世界是虛擬現實的八個證據，而我們本身也有可能是一種非常可怕的存在 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=ndLOF9jJnR4)
@@ -89,6 +95,10 @@ knowledge is justified true belief
 [斯多葛主義 - Wikiwand](https://www.wikiwand.com/zh/%E6%96%AF%E5%A4%9A%E8%91%9B%E4%B8%BB%E7%BE%A9)
 
 [The philosophy of Stoicism - Massimo Pigliucci - YouTube](https://www.youtube.com/watch?v=R9OCA6UFE-0)
+
+## Time Travel
+
+[Time Travel in Fiction Rundown - YouTube](https://www.youtube.com/watch?v=d3zTfXvYZ9s)
 
 ## Morality
 

@@ -2,7 +2,7 @@
 title: Blockchain
 description: ""
 created: 2017-08-18
-updated: 2023-08-14
+updated: 2023-11-22
 tags:
   - blockchain
   - crypto
@@ -22,6 +22,8 @@ tags:
 [Protocol documentation - Bitcoin Wiki](https://en.bitcoin.it/wiki/Protocol_documentation)
 
 In "order selection mechanism" (which is called "mining"), blocks will be serialized and conflicts will be resolved.
+
+[Are blockchains decentralized? | Trail of Bits Blog](https://blog.trailofbits.com/2022/06/21/are-blockchains-decentralized/)
 
 [Building Your Own Consensus | Hackaday](https://hackaday.com/2022/11/30/building-your-own-consensus/)
 
@@ -149,6 +151,10 @@ In "order selection mechanism" (which is called "mining"), blocks will be serial
 [Home · sherminvo/TokenEconomyBook Wiki](https://github.com/sherminvo/TokenEconomyBook/wiki)
 [Shermin Voshmgir – Medium](https://sherminvoshmgir.medium.com/)
 
+[Can NFT Technology Expand Beyond Digital Apes and Punks? - The New Stack](https://thenewstack.io/can-nft-technology-expand-beyond-digital-apes-and-punks/)
+[ERC-1155: An NFT Standard for Online Games and Gamified Apps - The New Stack](https://thenewstack.io/erc-1155-an-nft-standard-for-online-games-and-gamified-apps/)
+[ERC-1155: Multi Token Standard](https://eips.ethereum.org/EIPS/eip-1155)
+
 [OpenSea: Buy Crypto Collectibles, CryptoKitties, Decentraland, and more on Ethereum](https://testnets.opensea.io/)
 [How to Make an NFT and Render it on the OpenSea Marketplace](https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/)
 [NFT 完全新手教學：NFT 是什麼？如何上架 NFT 作品？上架費用多少？OurSong 平台入金方法介紹 區塊鏈 (169478) - Cool3c](https://www.cool3c.com/article/169478)
@@ -175,7 +181,9 @@ In "order selection mechanism" (which is called "mining"), blocks will be serial
 
 [The web doesn’t have version numbers | hidde.blog](https://hidde.blog/the-web-doesnt-have-version-numbers/)
 [Web3 is Going Just Great](https://web3isgoinggreat.com/)
+sarcasm
 
+[Web3: World-changing tech or just a scam? - YouTube](https://www.youtube.com/watch?v=DSCXZdvCjs0)
 [What is Web3? The Decentralized Internet of the Future Explained](https://www.freecodecamp.org/news/what-is-web3/)
 [Defining the web3 stack](https://edgeandnode.com/blog/defining-the-web3-stack)
 [The Complete Guide to Full Stack Web3 Development - DEV Community](https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74)
@@ -184,6 +192,7 @@ In "order selection mechanism" (which is called "mining"), blocks will be serial
 [Web3 跟元宇宙、區塊鏈有什麼不同？一次讀懂 Web3 新浪潮｜數位時代 BusinessNext](https://www.bnext.com.tw/article/68404/what-is-web3?)
 [【圖解】Web3 憑什麼掀第 3 次網路革命？從 4 大要素解讀｜數位時代 BusinessNext](https://www.bnext.com.tw/article/68403/4-elements-to-understand-web3)
 
+[The metaverse, explained: what it is, and why tech companies love it - Polygon](https://www.polygon.com/22959860/metaverse-explained-video-games)
 [Is Web3 all Hype? Top 10 Web 3.0 Questions & Answers - YouTube](https://www.youtube.com/watch?v=wHTcrmhskto)
 [Decentralization for Web3 Builders: Principles, Models, How | Future](https://future.a16z.com/web3-decentralization-models-framework-principles-how-to/)
 [Moxie Marlinspike >> Blog >> My first impressions of web3](https://moxie.org/2022/01/07/web3-first-impressions.html)

@@ -2,7 +2,7 @@
 title: Game Engines
 description: ""
 created: 2015-01-02
-updated: 2023-08-13
+updated: 2023-11-22
 tags:
   - game-dev
   - game-engine
@@ -24,6 +24,9 @@ tags:
 [First-person shooter engine - Wikiwand](http://www.wikiwand.com/en/First-person_shooter_engine)
 [List of first-person shooter engines - Wikiwand](http://www.wikiwand.com/en/List_of_first-person_shooter_engines)
 
+[Underrated Game Engines Round-up – GameFromScratch.com](https://gamefromscratch.com/underrated-game-engines-round-up/)
+[Unity Alternatives in 2023 – GameFromScratch.com](https://gamefromscratch.com/unity-alternatives-in-2023/)
+
 ## MonoGame
 
 [MonoGame Archives | .NET Blog](https://devblogs.microsoft.com/dotnet/tag/monogame/)
@@ -41,6 +44,8 @@ tags:
 [Free Icons](https://icons8.com/icons)
 [Game Art 2D - Royalty Free 2D Game Assets](https://www.gameart2d.com/)
 [The Spriters Resource](https://www.spriters-resource.com/)
+
+[gdquest-demos/3D-Characters-Repository: Beautiful 3D animated game characters for the Godot game engine, ready to drag and drop into your projects](https://github.com/gdquest-demos/3D-Characters-Repository/)
 
 [Top game assets - itch.io](https://itch.io/game-assets)
 [Top game assets tagged Asset Pack - itch.io](https://itch.io/game-assets/tag-asset-pack)
@@ -87,10 +92,11 @@ tags:
 ## Tiles
 
 [How Isometric Coordinates Work in 2D games - YouTube](https://www.youtube.com/watch?v=04oQ2jOUjkU)
-camera at infinitely far away creates an orthographic projection that removes distortion of tiles due to perpective
+camera at infinitely far away creates an orthographic projection that removes distortion of tiles due to perspective
 
 [Tiled Map Editor | A flexible level editor](https://www.mapeditor.org/)
 [A guide to level creation with Tiled [ + how to use it with pygame ] - YouTube](https://www.youtube.com/watch?v=N6xqCwblyiw)
+[Tiled Map Editor Tutorial Part One: The Basics - YouTube](https://www.youtube.com/watch?v=ZwaomOYGuYo)
 
 [substack/tilemap: render isometric tile maps in the browser](https://github.com/substack/tilemap)
 
@@ -117,6 +123,19 @@ camera at infinitely far away creates an orthographic projection that removes di
 
 [Handmade Hero](https://handmadehero.org/)
 [Annotated Episode Guide | Handmade Hero](https://hero.handmade.network/episode/code)
+
+## Flecs
+
+[Flecs: Flecs](https://www.flecs.dev/flecs/)
+[SanderMertens/flecs: A fast entity component system (ECS) for C & C++](https://github.com/SanderMertens/flecs)
+
+[foxnne/zig-flecs: Zig wrapper for Flecs](https://github.com/foxnne/zig-flecs)
+
+## EnTT
+
+[skypjack/entt: Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more](https://github.com/skypjack/entt)
+
+[prime31/zig-ecs](https://github.com/prime31/zig-ecs)
 
 ## Web
 
@@ -183,26 +202,6 @@ CreateJS have multiple tools for game development
 
 [Google I/O 2011: The Secrets of Google Pac-Man: A Game Show - YouTube](https://www.youtube.com/watch?v=ttavBa4giPc)
 
-### Defold
-
-[Defold - Official Homepage - Cross platform game engine](https://defold.com/) targets mobile
-
-### GDevelop
-
-[Free and Easy 2D/3D Game-Making App | GDevelop](https://gdevelop.io/) no code engine, targets mobiles
-[Features | GDevelop](https://gdevelop.io/features)
-[4ian/GDevelop: :video_game: Open-source, cross-platform game engine designed to be used by everyone.](https://github.com/4ian/GDevelop)
-
-[GDevelop 5 documentation - GDevelop documentation](https://wiki.gdevelop.io/gdevelop5/)
-
-[GDevelop Games Showcase | GDevelop](https://gdevelop.io/games)
-[Game examples and templates made with GDevelop | GDevelop](https://gdevelop.io/game-example)
-
-[How To Make a Simple Playing Card Game with Multiplayer and Bluetooth, Part 1 | raywenderlich.com](https://www.raywenderlich.com/2900-how-to-make-a-simple-playing-card-game-with-multiplayer-and-bluetooth-part-1)
-
-[ReactiveConf 2019 - Florian Rival: Native Web Apps: React and WebAssembly to Rewrite Native Apps - YouTube](https://www.youtube.com/watch?v=sMfNWIbWUb0)
-[Porting a Desktop Game Editor to the Browser with WebAssembly](https://www.infoq.com/articles/wasm-game-editor-port/)
-
 ### Phaser
 
 [Phaser - A fast, fun and free open source HTML5 game framework](https://phaser.io/)
@@ -214,6 +213,10 @@ CreateJS have multiple tools for game development
 [12 Games in 12 Weeks | Lessmilk](http://www.lessmilk.com/12games)
 
 [Building Phaser 3 games with Create React App | by Krzysztof Andrelczyk | May, 2023 | Medium](https://medium.com/@cristof.a/building-phaser-3-games-with-create-react-app-4f8a6452c281)
+
+### Babylon.js
+
+[Babylon.js: Powerful, Beautiful, Simple, Open - Web-Based 3D At Its Best](https://www.babylonjs.com/)
 
 ### Pixi
 
@@ -232,6 +235,44 @@ CreateJS have multiple tools for game development
 [le-doux/bitsy: make tiny games, worlds, and stories](https://github.com/le-doux/bitsy)
 
 [Bitsy is the small video game engine with a big community - The Verge](https://www.theverge.com/22929485/bitsy-tiny-video-game-engine)
+
+## Cross Platforms
+
+Consoles, PC, probably web
+
+### FNA
+
+[FNA](https://fna-xna.github.io/) reimplementation of the Microsoft XNA Game Studio 4.0 Refresh libraries
+[FNA-XNA/FNA: FNA - Accuracy-focused XNA4 reimplementation for open platforms](https://github.com/FNA-XNA/FNA)
+[XNA Game Studio 4.0 Refresh | Microsoft Learn](<https://learn.microsoft.com/en-us/previous-versions/windows/xna/bb200104(v=xnagamestudio.41)?redirectedfrom=MSDN>)
+
+### Heaps
+
+[Heaps - Haxe Game Engine - Heaps.io Game Engine](https://heaps.io/index.html) Haxe, web
+[Shiro’s Game Technology Stack – GameFromScratch.com](https://gamefromscratch.com/shiros-game-technology-stack/)
+
+### Defold
+
+[Defold - Official Homepage - Cross platform game engine](https://defold.com/) targets mobile, semi-open source, 2D, Lua
+
+[Defold Crash Course Tutorial - DevGa.me](https://devga.me/tutorials/defold-crash-course-tutorial/)
+
+### GDevelop
+
+[Free and Easy 2D/3D Game-Making App | GDevelop](https://gdevelop.io/) targets mobiles, 2D, no code, visual coding
+[Features | GDevelop](https://gdevelop.io/features)
+[4ian/GDevelop: :video_game: Open-source, cross-platform game engine designed to be used by everyone.](https://github.com/4ian/GDevelop)
+
+[GDevelop 5 documentation - GDevelop documentation](https://wiki.gdevelop.io/gdevelop5/)
+
+[GDevelop Games Showcase | GDevelop](https://gdevelop.io/games)
+[Game examples and templates made with GDevelop | GDevelop](https://gdevelop.io/game-example)
+[GDevelop 5 – GameFromScratch.com](https://gamefromscratch.com/gdevelop-5/)
+
+[How To Make a Simple Playing Card Game with Multiplayer and Bluetooth, Part 1 | raywenderlich.com](https://www.raywenderlich.com/2900-how-to-make-a-simple-playing-card-game-with-multiplayer-and-bluetooth-part-1)
+
+[ReactiveConf 2019 - Florian Rival: Native Web Apps: React and WebAssembly to Rewrite Native Apps - YouTube](https://www.youtube.com/watch?v=sMfNWIbWUb0)
+[Porting a Desktop Game Editor to the Browser with WebAssembly](https://www.infoq.com/articles/wasm-game-editor-port/)
 
 ## Lua
 
@@ -254,6 +295,10 @@ CreateJS have multiple tools for game development
 
 [Cocos2d-x - World's #1 Open-Source Game Development Platform](http://www.cocos2d-x.org/)
 [cocos2d](https://github.com/cocos2d) Org
+
+## Cocos Creator
+
+[Cocos Creator - Efficient and lightweight cross-platform 3D/2D graphics engine](https://www.cocos.com/en/creator)
 
 ## AtomicGameEngine
 
@@ -313,6 +358,10 @@ Fully compatible with XNA
 
 [PaulBlythe/Monogame-tools: Free tools for Monogame development](https://github.com/PaulBlythe/Monogame-tools)
 
+## Zig
+
+[[zig-lang#Gamedev]]
+
 ## Go
 
 [Game Development - Awesome Go / Golang](https://awesome-go.com/game-development/)
@@ -338,6 +387,7 @@ Fully compatible with XNA
 [Bevy - A data-driven game engine built in Rust](https://bevyengine.org/)
 
 [Bevy 0.7 Released – GameFromScratch.com](https://gamefromscratch.com/bevy-0-7-released/)
+[Andreas Monitzer - Bevy-ECS explained - Rust Vienna June 2023 - YouTube](https://www.youtube.com/watch?v=TBjmRmjr4JA)
 
 ### Fyrox
 
@@ -367,9 +417,12 @@ Fully compatible with XNA
 
 ## SFML
 
-[SFML](https://www.sfml-dev.org/)
+[SFML](https://www.sfml-dev.org/) C++
+[Simple and Fast Multimedia Library - Wikiwand](https://www.wikiwand.com/en/Simple_and_Fast_Multimedia_Library)
+
 [Sonkun/python-sfml: Official binding of SFML for Python](https://github.com/Sonkun/python-sfml)
 [jeremyletang/rust-sfml: SFML bindings for Rust](https://github.com/jeremyletang/rust-sfml)
+
 [Mario Game using SFML - YouTube](https://www.youtube.com/playlist?list=PLlnvVTSJ0XwerJ51bIkLRWeyODtdKN9Hz)
 
 ## Panda3D
@@ -382,21 +435,30 @@ Fully compatible with XNA
 [Godot Engine - Free and open source 2D and 3D game engine](https://godotengine.org/)
 [Godot: The open source game engine](https://www.reddit.com/r/godot/)
 [Godot With C++ – GameFromScratch.com](https://gamefromscratch.com/godot-with-c/)
+[C# Development with Godot and Visual Studio Code Tutorial](https://gamefromscratch.com/c-development-with-godot-and-visual-studio-code-tutorial/)
 
 [CardEngine | Braindead.bzh](https://www.braindead.bzh/page/cardengine-home)
 [Braindead.bzh | Game Dev Hobbyist](https://www.braindead.bzh)
 [Tutorial – Gaming with Godot » Linux Magazine](https://www.linux-magazine.com/Issues/2021/244/Gaming-for-Godot)
 
+[Godot is not the new Unity - YouTube](https://www.youtube.com/watch?v=Vor7ZPt8cUE) Godot is for hobbists
+
 > remove pre 4.0 articles
 
-[Godot 4.0: It's Almost a Brand New Engine! Full Breakdown of New Features - YouTube](https://www.youtube.com/watch?v=chXAjMQrcZk)
+[Godot 4.0 Is Out: Almost a Brand New Engine · GDQuest](https://www.gdquest.com/news/2023/03/godot-4-0-is-out/)
 [The ultimate introduction to Godot 4 - YouTube](https://www.youtube.com/watch?v=nAh_Kx5Zh5Q) 11:32:40
+[Godot UI Basics - how to build beautiful interfaces that work everywhere (Beginners) - YouTube](https://www.youtube.com/watch?v=1_OFJLyqlXI)
+
+[Godot For Unity Developers - YouTube](https://www.youtube.com/watch?v=_L711ozxQbw)
 
 [Learn to Make Games · GDQuest](https://www.gdquest.com/)
-[GDQuest - YouTube](https://www.youtube.com/@Gdquest)
-[Learn to Code From Zero with Godot (DEBUG)](https://gdquest.github.io/learn-gdscript/)
-[GDQuest/learn-gdscript: Learn Godot's GDScript programming language from zero, right in your browser, for free.](https://github.com/GDQuest/learn-gdscript/)
+[GDQuest Demos](https://github.com/gdquest-demos/)
+[Getting started with Godot in 2021 · GDQuest](https://www.gdquest.com/tutorial/godot/learning-paths/getting-started-in-2021/) Godot 3
+[Getting started with the Godot game engine in 2021 - YouTube](https://www.youtube.com/playlist?list=PLhqJJNjsQ7KEcm-iYJ2a8UCRN62bTneKa)
 [Godot 3 tutorials - YouTube](https://www.youtube.com/playlist?list=PLhqJJNjsQ7KF0o0ke_CA2QlqK8BxQNSFS)
+[GDQuest - YouTube](https://www.youtube.com/@Gdquest)
+[Learn to Code From Zero with Godot](https://gdquest.github.io/learn-gdscript/)
+[GDQuest/learn-gdscript: Learn Godot's GDScript programming language from zero, right in your browser, for free.](https://github.com/GDQuest/learn-gdscript/)
 
 [Godot Vs Unity: The Ultimate Game Engine Showdown - YouTube](https://www.youtube.com/watch?v=MV_TaVM8Huc)
 [Top 10 Reasons Why I Switched to Godot Game Engine - YouTube](https://www.youtube.com/watch?v=leuNCv2wPj8)
@@ -409,12 +471,12 @@ Zenva
 [Godot 101: Beginner Lessons for Godot 3.1 - YouTube](https://www.youtube.com/playlist?list=PLsk-HSGFjnaFwmOFrfD4gQQqvgvEUielY)
 [kidscancode/godot_recipes: Lessons, tutorials, and guides for game development using the Godot game engine.](https://github.com/kidscancode/godot_recipes)
 
-[Game Endeavor - YouTube](https://www.youtube.com/c/GameEndeavor)
-[Bastiaan Olij - YouTube](https://www.youtube.com/c/BastiaanOlij)
-[PlayWithFurcifer - YouTube](https://www.youtube.com/c/PlayWithFurcifer)
+[Game Endeavor - YouTube](https://www.youtube.com/@GameEndeavor)
+[Bastiaan Olij - YouTube](https://www.youtube.com/@BastiaanOlij)
+[PlayWithFurcifer - YouTube](https://www.youtube.com/@PlayWithFurcifer)
 [godot tutorials - YouTube](https://www.youtube.com/playlist?list=PLmugv6_kd0qNyt0WHVnac1f5IFzG-7grN) Miziziziz
 
-[Goodgis - YouTube](https://www.youtube.com/c/Goodgis) mostly on Godot
+[Goodgis - YouTube](https://www.youtube.com/@Goodgis) mostly on Godot
 
 [HeartBeast - YouTube](https://www.youtube.com/channel/UCrHQNOyU1q6BFEfkNq2CYMA)
 
@@ -425,6 +487,21 @@ Zenva
 [Creating Minecraft in Python [with the Ursina Engine] - YouTube](https://www.youtube.com/watch?v=DHSRaVeQxIk)
 [Creating a Minecraft style menu in Python [Ursina] - YouTube](https://www.youtube.com/watch?v=hAl7oVJi7r0)
 [clear-code-projects/Minecraft-in-Python: Project files for a tutorial on Minecraft in Python available here: https://youtu.be/DHSRaVeQxIk](https://github.com/clear-code-projects/Minecraft-in-Python)
+
+## Wicked Engine
+
+[Wicked Engine – 3D engine with modern graphics](https://wickedengine.net/)
+[WickedEngine C++ Open Source Game Engine – GameFromScratch.com](https://gamefromscratch.com/wickedengine-c-open-source-game-engine/)
+
+## Flax
+
+[Flax - Flax Engine](https://flaxengine.com/)
+
+## Falco
+
+[Falco 3D Engine. 3D Engine. Game Engine.](https://falco3d.com/)
+
+[FalcoEngine Hands-On – GameFromScratch.com](https://gamefromscratch.com/flacoengine-hands-on/) 2021-03
 
 ## AppGameKit
 
@@ -558,6 +635,8 @@ License: free for first \$100 thousand in game revenue
 [Unity DOTS Explained (ECS, Job System, Burst Compiler) - YouTube](https://www.youtube.com/watch?v=Z9-WkwdDoNY)
 [Unity DOTS Updated! (Massive changes!) - YouTube](https://www.youtube.com/watch?v=mXFiP-2Ip4Y) 2022-03, Job System and Burst Compiler are production ready
 
+[Game Dev By Kaupenjoe - YouTube](https://www.youtube.com/@GameDevByKaupenjoe/) change to Godot?
+
 Zenva
 [COMPLETE COURSE - Learn Unity's AR Foundation - YouTube](https://www.youtube.com/watch?v=FGh7f-PaGQc)
 [COMPLETE COURSE - Create a Unity FRUIT SLICER Game in 2 HOURS - YouTube](https://www.youtube.com/watch?v=H57XHbKhXwA)
@@ -566,6 +645,14 @@ Zenva
 [Multiplayer Game Development with Unity - YouTube](https://www.youtube.com/playlist?list=PLnEt5PBXuAmv7I43U66zxqt3vf7k27LJ8)
 [Unity 2D Game Development - YouTube](https://www.youtube.com/playlist?list=PLnEt5PBXuAmuFEU2x0pWIpXV-dScHMd8Z)
 [Unity RPG Tutorial - YouTube](https://www.youtube.com/playlist?list=PLnEt5PBXuAmtymGfIHHmsAhMdptKbTNlJ)
+
+### 2023 License Debacle
+
+New license in 2023-09, causing a turmoil
+[Unity plan pricing and packaging updates | Unity Blog](https://blog.unity.com/news/plan-pricing-and-packaging-updates)
+[Unity Is Doing What??? | Prime Reacts - YouTube](https://www.youtube.com/watch?v=O4dY0eUsaVI)
+[The Unity Drama (A Dev's Perspective) - YouTube](https://www.youtube.com/watch?v=H1esRJ9taSY)
+[VR’s Biggest Game Engine is in SERIOUS Trouble -The Unity Debacle. - YouTube](https://www.youtube.com/watch?v=9pkQauljgIc)
 
 ### UI
 
@@ -607,7 +694,8 @@ Cross platform (PC and consoles)
 
 [Online Learning - Unreal Engine](https://www.unrealengine.com/en-US/onlinelearning-courses)
 [80 Level Ratings: Best YouTube Channels With Unreal Engine Tutorials](https://80.lv/articles/80-level-ratings-best-youtube-channels-with-unreal-engine-tutorials/)
-[WoodyDevs - YouTube](https://www.youtube.com/c/WoodyDevs)
+[WoodyDevs - YouTube](https://www.youtube.com/@WoodyDevs)
+[Unreal Sensei - YouTube](https://www.youtube.com/@UnrealSensei)
 
 ### UE5
 
@@ -625,11 +713,14 @@ Nanite: "deep zoom" level of details for 3D objects (low res at distance), seaml
 Lumen: non-ray-traced global illumination
 [Nanite: Everything You Should Know [Unreal Engine 5] - YouTube](https://www.youtube.com/watch?v=P65cADzsP8Q)
 [Things To Know About LUMEN [Unreal Engine 5] - YouTube](https://www.youtube.com/watch?v=CFKNoeUPQGQ)
+
+Unreal Sensei
 [Why Unreal Engine 5.1 is a Huge Deal - YouTube](https://www.youtube.com/watch?v=FUGqzE6Je5c)
+[Why Unreal Engine 5.3 is a BIG Deal - YouTube](https://www.youtube.com/watch?v=POwTaVZ_CA0)
+[Unreal Engine 5 Beginner Tutorial - UE5 Starter Course 2022 - YouTube](https://www.youtube.com/watch?v=k-zMkzmduqI)
 
 [Unreal Engine 5 Beginner Tutorial - UE5 Starter Course! - YouTube](https://www.youtube.com/watch?v=gQmiqmxJMtA)
-[Unreal Engine 5 Beginner Tutorial - UE5 Starter Course 2022 - YouTube](https://www.youtube.com/watch?v=k-zMkzmduqI)
-[Lumen in UE5: Let there be light! | Unreal Engine - YouTube](https://www.youtube.com/watch?app=desktop&v=Dc1PPYl2uxA)
+[Lumen in UE5: Let there be light! | Unreal Engine - YouTube](https://www.youtube.com/watch?v=Dc1PPYl2uxA)
 
 ### UE4
 

@@ -2,6 +2,7 @@
 title: Psychology
 description: ""
 created: 2016-07-02
+updated: 2023-09-29
 tags:
   - science
 ---
@@ -12,6 +13,8 @@ tags:
 [Neuro Transmissions - YouTube](https://www.youtube.com/channel/UCYLrBefhyp8YyI9VGPbghvw)
 
 [5 Psychology Terms You’re Probably Misusing (Rebroadcast) - Freakonomics Radio - Omny.fm](https://omny.fm/shows/freakonomics-radio/5-psychology-terms-you-re-probably-misusing-ep-334)
+
+[Why Some People Don't Have an Inner Monologue - YouTube](https://www.youtube.com/watch?v=DRLkDafQbP8)
 
 [箱子裡的神，正在控制你的心理學秘術……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=IV-1v9rCuvI)
 Behaviorism
@@ -116,6 +119,8 @@ difficulties at controlling attention
 [Unwavering Focus | Dandapani | TEDxReno - YouTube](https://www.youtube.com/watch?v=4O2JK_94g3Y)
 [Meditation - The Single Most Important Skill Needed Today | Dr. Shyam Bhat | TEDxLavelleRoad - YouTube](https://www.youtube.com/watch?v=RZrdUuEARXA)
 [How Meditation Changed My Life | Mamata Venkat | TEDxWayPublicLibrary - YouTube](https://www.youtube.com/watch?v=snkr-1C2e7U)
+
+[What That Famous Gorilla Suit Study Didn’t See - YouTube](https://www.youtube.com/watch?v=d_ilMrfOLQE) inattentional blindness
 
 ## Sleep
 

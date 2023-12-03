@@ -2,7 +2,7 @@
 title: Food
 description: ""
 created: 2015-10-09
-updated: 2023-08-10
+updated: 2023-11-28
 tags:
   - food
   - science
@@ -49,6 +49,8 @@ Coriander vs Chervil vs Parsley
 [Green Revolution - Wikiwand](https://www.wikiwand.com/en/Third_Agricultural_Revolution)
 the Third Agricultural Revolution (1930s-1960s)
 
+[Engineering Breakthroughs That Will FEED The World - YouTube](https://www.youtube.com/watch?v=tQZM38N9ICo)
+
 [五穀 - Wikiwand](https://www.wikiwand.com/zh-hant/%E4%BA%94%E8%B0%B7)
 [五谷（食物）\_百度百科](https://baike.baidu.com/item/%E4%BA%94%E8%B0%B7/92646)
 [五谷杂粮\_百度百科](https://baike.baidu.com/item/%E4%BA%94%E8%B0%B7%E6%9D%82%E7%B2%AE)
@@ -58,13 +60,18 @@ the Third Agricultural Revolution (1930s-1960s)
 黍(今粟米?/糜?)
 穀(粟/禾/糜?/稷/小米): 主要種植於北方黃河流域
 麥(小麥)
-菽(大豆, 泛指豆類)
+菽(大豆, 泛指豆類)z
 加上麻(大麻)稱為六穀
 良莠不分: 狗尾草又稱莠, 狗尾草幼苗和穀子幼苗很難區分
 高梁和小麥並非中國原生作物
 小麥是從小亞細亞 Fertile Crescent 在 2000B.C.經俄羅斯引入, 取代穀為北方主要農作物
 
 Millet 粟 栗
+
+[【鬼谷闲谈】水稻驯化史：干饭人是怎么养成的？ - YouTube](https://www.youtube.com/watch?v=2cbbPgTmXFA)
+[【鬼谷闲谈】玉米：我已面目全非，但归来仍是王者 - YouTube](https://www.youtube.com/watch?v=cg-sJdR4gzQ)
+[【鬼谷闲谈】小麦如何成为最强主粮？ - YouTube](https://www.youtube.com/watch?v=T1erPWe5yr8)
+[【鬼谷闲谈】一颗大豆背后的千年历史 - YouTube](https://www.youtube.com/watch?v=4U7fL7mk61c)
 
 ### Vertical Farming
 
@@ -126,6 +133,10 @@ Millet 粟 栗
 ## Coco/Chocolate
 
 [不同的巧克力有哪些区别？如何挑一块好吃的巧克力？What are the differences between different chocolates? - YouTube](https://www.youtube.com/watch?v=NDmvwD9yzpc)
+
+## Cheese
+
+[American Cheese Isn't Cheese - YouTube](https://www.youtube.com/watch?v=bISFxFauTzM)
 
 ## Sugar
 

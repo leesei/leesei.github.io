@@ -2,7 +2,7 @@
 title: Computer Fundamentals
 description: ""
 created: 2023-04-14
-updated: 2023-07-26
+updated: 2023-11-02
 tags:
   - comp/fundamental
   - comp/hardware
@@ -24,6 +24,7 @@ tags:
 [Imperative vs Declarative Scenarios in User Stories • Ben Mabey](http://benmabey.com/2008/05/19/imperative-vs-declarative-scenarios-in-user-stories.html)
 [Threads vs. Processes: A Look At How They Work Within Your Program](https://www.backblaze.com/blog/whats-the-diff-programs-processes-and-threads/)
 
+[The Bits And Bytes Of Binary - YouTube](https://www.youtube.com/playlist?list=PLP29wDx6QmW47oPsNBFNEi_SYTOLDJXqQ)
 [How a Computer Works - from silicon to apps - YouTube](https://www.youtube.com/watch?v=5f3NJnvnk7k)
 
 Computerphile
@@ -40,11 +41,16 @@ Computerphile
 
 ## Computer History
 
+[Toppr: Better learning for better results](https://www.toppr.com/?utm_source=guides)
+[History of Computers: Parts, Networking, Operating Systems, FAQs](https://www.toppr.com/guides/computer-aptitude-and-knowledge/basics-of-computers/history-of-computers/)
+
 [【亦】唠唠计算机与 AI 的童年：大器晚成！六一儿童节特别篇 - YouTube](https://www.youtube.com/watch?v=-kGy0_8n68Y) history of computer
 [Intel predicted the future - YouTube](https://www.youtube.com/watch?v=5-eFLcCDNo8) Intel's education material from 1996
 
 [GeekLogic / 极客逻辑 - YouTube](https://www.youtube.com/@geeklogic)
 [XMF-I Restoration: A Chinese Apple II Clone 35 Years Ago / 极限修复！35 年前清华大学研制点错科技树的中文电脑 - YouTube](https://www.youtube.com/watch?v=EGc8j9_w4FQ)
+
+[Dave's Garage - YouTube](https://www.youtube.com/@DavesGarage) Microsoft Windows history
 
 [Linux Terminal and Console Explained For Beginners - LinuxBabe](https://www.linuxbabe.com/command-line/linux-terminal)
 [What is the Difference Between the Shell, Terminal, and Console in Linux | TatOG Explains - YouTube](https://www.youtube.com/watch?v=Z6_ja-c2pLc)
@@ -56,6 +62,8 @@ Computerphile
 Computerphile
 [Alan Turing and Enigma - YouTube](https://www.youtube.com/playlist?list=PLzH6n4zXuckodsatCTEuxaygCHizMS0_I) also on decidability
 [Turing Machines Collection - Computerphile - YouTube](https://www.youtube.com/playlist?list=PLzH6n4zXuckrEzV0CB1xXbSdsP_a7VUoK)
+
+[Turing Machine Alternative (Counter Machines) - Computerphile - YouTube](https://www.youtube.com/watch?v=PXN7jTNGQIw)
 
 [Turing Machines - How Computer Science Was Created By Accident - YouTube](https://www.youtube.com/watch?v=PLVCscCY4xI)
 [Turing machines explained visually - YouTube](https://www.youtube.com/watch?v=-ZS_zFg4w5k)

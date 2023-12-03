@@ -2,13 +2,13 @@
 title: Learning
 description: ""
 created: 2018-07-10
-updated: 2023-08-10
+updated: 2023-09-29
 tags:
   - learning
 featured: true
 ---
 
-> There are many learning resources online, the important thing is to know your learning style.
+> There are many learning resources online, the important thing is to know your learning style (learn how you learn).
 
 See [[second-brain]] on how to record your knowledge
 
@@ -175,6 +175,8 @@ If you are a reading/writing learner, then you are likely to learn from reading 
 **Kinesthetic learner**
 If you are a Kinesthetic learner, then you learn best by doing. You like to engage in learning that involves physically acting out what you have learned.
 
+[The myth of the myth of learning styles | Ned Batchelder](https://nedbatchelder.com/blog/202309/the_myth_of_the_myth_of_learning_styles.htm)
+
 ## 互文性/Intertextuality
 
 [Intertextuality - Wikiwand](https://www.wikiwand.com/en/Intertextuality)
@@ -235,6 +237,8 @@ Chinese:
 [Slide show: How your brain works - Mayo Clinic](https://www.mayoclinic.org/brain/sls-20077047)
 [After watching this, your brain will not be the same | Lara Boyd | TEDxVancouver - YouTube](https://www.youtube.com/watch?v=LNHBMFCzznE) neuro-plasticity
 [The Chemical Synaptic Transmission - How It Happens - Interactive Biology, with Leslie Samuel](http://www.interactive-biology.com/3950/the-chemical-synaptic-transmission-how-it-happens/)
+
+[You're Not Forgetful: My System for Memorising Everything - YouTube](https://www.youtube.com/watch?v=mxURe-EUmAs)
 
 ## 守破離
 

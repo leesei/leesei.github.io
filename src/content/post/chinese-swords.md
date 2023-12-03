@@ -2,6 +2,7 @@
 title: 中國名劍
 description: ""
 created: 2016-09-26
+updated: 2023-10-26
 tags:
   - weapons
 ---
@@ -11,6 +12,7 @@ tags:
 [曠古名劍--中國古代十大名劍排名 - BuzzHand](http://www.buzzhand.com/post_217805.html)
 [青冥寶劍勝龍泉？——科學史札記（九） - PanSci 泛科學](https://pansci.asia/archives/100748)
 [古代十大名剑排行，干将莫邪进不了前五，轩辕夏禹剑排第一 - YouTube](https://www.youtube.com/watch?v=6MS-uw_KmH8)
+[十大名劍，邪劍，妖刀 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=qmQr2Epo_ZQ)
 
 春秋戰國正值青銅時期，鑄劍祖師歐冶子在其時冶鑄出的鐵劍即為當代寶劍。
 

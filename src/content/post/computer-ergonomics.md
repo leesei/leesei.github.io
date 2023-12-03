@@ -2,6 +2,7 @@
 title: Computer Ergonomics
 description: ""
 created: 2023-02-16
+updated: 2023-09-29
 tags:
   - comp/hardware
 ---

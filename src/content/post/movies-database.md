@@ -2,7 +2,7 @@
 title: Movies Database
 description: ""
 created: 2015-08-26
-updated: 2023-08-08
+updated: 2023-11-16
 tags:
   - movies
 ---
@@ -78,7 +78,9 @@ Innovative and personalized recommendation system.
 [befores & afters - VFX magazine](https://beforesandafters.com/)
 [Corridor Crew - YouTube](https://www.youtube.com/channel/UCSpFnDQr88xCZ80N-X7t0nQ) recreate CG in movies
 [FilMonger - YouTube](https://www.youtube.com/@FilMonger)
+[CGY - YouTube](https://www.youtube.com/@CGWHY)
 [Behind the Seams - YouTube](https://www.youtube.com/@behindtheseams300) fashion and costumes
+[The Movie Rabbit Hole - YouTube](https://www.youtube.com/@TheMovieRabbitHole)
 [BEHIND THE SCENES & B-ROLL - YouTube](https://www.youtube.com/playlist?list=PLQ7_GA82PpMGBaHHowmE-Ucs__mY7UA5M)
 [經典電影大解密｜ Breaks Down - YouTube](https://www.youtube.com/playlist?list=PLiyT3ZJaRwTvS7o7p9DJoIDPCDO1Ph2co)
 
@@ -95,6 +97,11 @@ Innovative and personalized recommendation system.
 [《精灵宝钻》完整解说 - YouTube](https://www.youtube.com/playlist?list=PLWxM15HsDj8N1brTRD-48LuVBGUDoW1hK)
 [《魔戒 1-3》系列解说 - YouTube](https://www.youtube.com/playlist?list=PLWxM15HsDj8PdOfHxelQap3G2mkLLMCaG)
 [《霍比特人 1-3》系列解说 - YouTube](https://www.youtube.com/playlist?list=PLWxM15HsDj8Pe4Jlq5HAwazefSXvwArh7)
+
+## Mission Impossible
+
+[火爆全球 27 年，帶你重溫影史最帥特工系列，萬字盤點阿湯哥經典之作《碟中諜》1-3 部 - YouTube](https://www.youtube.com/watch?v=1JmN5V70_mM)
+[全球票房超 35 億美元！ 玩命拍戲堅持不用替身，萬字盤點阿湯哥經典之作《碟中諜》4-6 部 - YouTube](https://www.youtube.com/watch?v=nVi5oEtPVDM)
 
 # Comics Movies
 
@@ -135,6 +142,8 @@ Innovative and personalized recommendation system.
 [Marvel 未來十年 | 快速回顧+推測第四階段 | 征服者康！二代鋼鐵人？(廣東話 中字) - YouTube](https://www.youtube.com/watch?v=O8KFKrKLt7k)
 [流言情報 EP1 | 夜魔俠續作確認！邪惡六人組成立？閃點重啟 DCEU？(廣東話 中字) - YouTube](https://www.youtube.com/watch?v=JyD7lDGyiiw)
 [Every Marvel Pitch Meeting In Order Of MCU Timeline - YouTube](https://www.youtube.com/watch?v=usRyFd4IGDs)
+
+[漫威前員工爆料黑幕! 稱霸15年的王者為什麼每況愈下? | 兩萬字完整解析所有迪士尼不想讓你知道的祕密 | 超粒方 | The Fall of Marvel - YouTube](https://www.youtube.com/watch?v=j-d7k_sjT64)
 
 TEEPR 叭啦叭啦研究室
 [2021 漫威電影、影集所有時間軸整理 - YouTube](https://www.youtube.com/watch?v=jmDzIUp3UpM)

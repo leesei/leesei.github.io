@@ -2,6 +2,7 @@
 title: Raster Graphics
 description: ""
 created: 2019-05-21
+updated: 2023-10-06
 tags:
   - app
   - desktop
@@ -24,6 +25,12 @@ tags:
 [Photoshop Course: Tools in-Depth (FREE) - YouTube](https://www.youtube.com/playlist?list=PLf0N3CF2JlRx7o9oVObgk4y5X6WBF_g21)
 
 [Logos By Nick - YouTube](https://www.youtube.com/c/LogosByNick/featured) GIMP and Illustrator
+
+## Photopea
+
+[Photopea | Online Photo Editor](https://www.photopea.com/)
+
+[Photoshop VS Photopea - YouTube](https://www.youtube.com/watch?v=0-g4CxIKl6Y)
 
 ## GIMP
 

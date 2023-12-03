@@ -2,6 +2,7 @@
 title: Voting Systems
 description: ""
 created: 2015-03-05
+updated: 2023-09-29
 tags:
   - politics
   - voting
@@ -11,23 +12,38 @@ tags:
 - Closed/semi-closed/open primary
 
 [Voting system - Wikiwand](http://www.wikiwand.com/en/Voting_system)
-[Voting paradox - Wikiwand](http://www.wikiwand.com/en/Voting_paradox) group preference is not transitive
 [Michael Munger on Choosing in Groups | EconTalk | Library of Economics and Liberty](http://www.econtalk.org/archives/2015/02/michael_munger_1.html)
 
-[RangeVoting.org - Center for Range Voting - front page](https://www.rangevoting.org/)
+[RangeVoting.org - Center for Range Voting - front page](https://www.rangevoting.org/) includes Instant Runoff and Approval voting
+
+[Simulating alternate voting systems - YouTube](https://www.youtube.com/watch?v=yhO6jfHPFQU) ❗!important
+[The 12 different voting systems explained - YouTube](https://www.youtube.com/watch?v=Dsq-sRBmMjA)
+[Comparison of electoral systems - Wikiwand](https://www.wikiwand.com/en/Comparison_of_electoral_systems)
+[Which voting system is the best? - Alex Gendler - YouTube](https://www.youtube.com/watch?v=PaxVCsnox_4)
 
 [Michel Balinski](https://www.wikiwand.com/en/Michel_Balinski#/Research_contributions) is an applied mathematician, economist, operations research analyst and political scientist.
 
-[Quick and Easy Voting for Normal People - YouTube](https://www.youtube.com/watch?v=orybDrUj4vA): allow multiple votes
+[Quick and Easy Voting for Normal People - YouTube](https://www.youtube.com/watch?v=orybDrUj4vA): allow multiple votes and use instance one off
 {% youtube orybDrUj4vA %}
 
 [Politics in the Animal Kingdom — CGP Grey](http://www.cgpgrey.com/politics-in-the-animal-kingdom/)
-[Election Basics: Crash Course Government and Politics #36 - YouTube](https://www.youtube.com/watch?v=48EZKXweGDo)
-[投票公平合理吗？为什么没有绝对的公平？阿罗不可能定理 - YouTube](https://www.youtube.com/watch?v=9Oisrp99L14)
 
 [Ten Ideas to Make Politics Less Rotten - Freakonomics Freakonomics](http://freakonomics.com/podcast/idea-must-die-election-edition/)
 
-## First Past the Post (FPTP)
+## Voting is Flawed
+
+[Voting paradox - Wikiwand](http://www.wikiwand.com/en/Voting_paradox) group preference is not transitive
+[Arrow's impossibility theorem - Wikiwand](https://www.wikiwand.com/en/Arrow%27s_impossibility_theorem)
+[Gibbard–Satterthwaite theorem - Wikiwand](https://www.wikiwand.com/en/Gibbard%E2%80%93Satterthwaite_theorem)
+
+[The flaw in every voting system - by Vasek Rozhon](https://vasekrozhon.substack.com/p/the-flaw-in-every-voting-system)
+[The flaw in every voting system - YouTube](https://www.youtube.com/watch?v=rbVoEjS6Q1Q)
+
+[投票公平合理吗？为什么没有绝对的公平？阿罗不可能定理 - YouTube](https://www.youtube.com/watch?v=9Oisrp99L14)
+
+## First Past the Post (FPTP)/Plurality
+
+Vote for ONE candidate
 
 [The Problems with First Past the Post Voting Explained - YouTube](https://www.youtube.com/watch?v=s7tWHJfhiyo)
 {% youtube s7tWHJfhiyo %}
@@ -74,24 +90,13 @@ When an 3rd candidate joins the election and steals votes from the original cand
 
 [The Alternative Vote Explained — CGP Grey](http://www.cgpgrey.com/blog/the-alternative-vote-explained.html)
 
-https://www.youtube.com/watch?v=l8XOZJkozfI&t=373
+[Politics in the Animal Kingdom: Single Transferable Vote - YouTube](https://www.youtube.com/watch?v=l8XOZJkozfI)
 
 Voters put the candidates on a preference list
 The voting loops until one candidate get the majority votes
-Each round the candidate with the least votes get eliminated, with his vote passed to the next on the voter's list
+Each round the candidate with the least votes get eliminated, with his vote passed to the next on the voter's List
 
-## Mixed-Member Proportional Representation
-
-[Mixed-Member Proportional Representation Explained - YouTube](https://www.youtube.com/watch?v=QT0I-sdoSXU)
-{% youtube QT0I-sdoSXU %}
-
-[Mixed-Member Proportional Representation Explained — CGP Grey](http://www.cgpgrey.com/blog/mixed-member-proportional-representation-explained.html)
-
-Council seat is doubled
-First round is traditional FPTP choosing half of the council seats
-Party prepare list to be added to the council after the 1st round
-
-## Single Transferable Vote
+## Single Transferable Vote/Ranked Choice Voting
 
 [Instant‐runoff voting - Wikiwand](http://www.wikiwand.com/en/Instant‐runoff_voting)
 [Single transferable vote - Wikiwand](https://www.wikiwand.com/en/Single_transferable_vote)
@@ -114,6 +119,21 @@ Like Alternative Voting, but extra votes are given to next alternative.
 
 [How Ranked-choice Voting Works | HowStuffWorks](https://people.howstuffworks.com/ranked-choice-voting.htm/printable)
 [How Ranked Choice Voting Works | Stuff You Should Know](https://www.stuffyoushouldknow.com/podcasts/how-ranked-choice-voting-works.htm)
+
+## Approval Voting
+
+Voters can vote for any number of candidates
+
+## Mixed-Member Proportional Representation
+
+[Mixed-Member Proportional Representation Explained - YouTube](https://www.youtube.com/watch?v=QT0I-sdoSXU)
+{% youtube QT0I-sdoSXU %}
+
+[Mixed-Member Proportional Representation Explained — CGP Grey](http://www.cgpgrey.com/blog/mixed-member-proportional-representation-explained.html)
+
+Council seat is doubled
+First round is traditional FPTP choosing half of the council seats
+Party prepare list to be added to the council after the 1st round
 
 ## PLTP
 
@@ -149,6 +169,7 @@ measure _misrepresentation error_, the difference of percentage points between w
 [The Electoral College — CGP Grey](http://www.cgpgrey.com/the-electoral-college/)
 
 [Disney Educational Productions: The Electoral College - YouTube](https://www.youtube.com/watch?v=bCjWPo70XZY)
+[Election Basics: Crash Course Government and Politics #36 - YouTube](https://www.youtube.com/watch?v=48EZKXweGDo)
 
 [How the Electoral College Works - YouTube](https://www.youtube.com/watch?v=OUS9mM8Xbbw)
 {% youtube OUS9mM8Xbbw %}
@@ -157,6 +178,8 @@ measure _misrepresentation error_, the difference of percentage points between w
 
 [The Trouble with the Electoral College - YouTube](https://www.youtube.com/watch?v=7wC42HgLA4k)
 {% youtube 7wC42HgLA4k %}
+
+[The Electoral College, explained - YouTube](https://www.youtube.com/watch?v=ajavsMbCapY)
 
 [The Sneaky Plan to Subvert the Electoral College for the Next Election - YouTube](https://www.youtube.com/watch?v=tUX-frlNBJY)
 

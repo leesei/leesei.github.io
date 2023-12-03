@@ -2,6 +2,7 @@
 title: Diablo
 description: ""
 created: 2023-06-07
+updated: 2023-09-29
 tags:
   - diablo
   - games

@@ -2,7 +2,7 @@
 title: MOOC
 description: ""
 created: 2015-05-08
-updated: 2023-08-13
+updated: 2023-11-29
 tags:
   - learning
   - mooc
@@ -22,15 +22,14 @@ tags:
 [Coursera](https://www.coursera.org/) free, university courses
 [MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu/) [Search MIT OpenCourseWare](https://ocw.mit.edu/search/?f=Lecture%20Videos&f=Lecture%20Audio&s=department_course_numbers.sort_coursenum)
 [MIT OpenCourseWare - YouTube](https://www.youtube.com/@mitocw)
-[Free Courses | Harvard University](https://pll.harvard.edu/catalog/free)
+[Courses | Harvard University](https://pll.harvard.edu/catalog/free)
 [Harvard University - YouTube](https://www.youtube.com/@harvard)
 [Free Online Courses | Stanford Online](https://online.stanford.edu/free-courses)
 [Stanford - YouTube](https://www.youtube.com/@stanford)
 [Distance Learning Courses and Adult Education - The Open University](https://www.open.ac.uk/)
 [OpenLearn from The Open University - YouTube](https://www.youtube.com/@OpenLearn_OU/)
 
-[GOTO Conferences - YouTube](https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA)
-[intrigano - YouTube](https://www.youtube.com/user/intrigano/playlists)
+[GOTO Conferences - YouTube](https://www.youtube.com/@GOTO-)
 
 [Learn to Code — For Free — Coding Courses for Busy People](https://www.freecodecamp.org/)
 [freeCodeCamp.org - YouTube](https://www.youtube.com/@freecodecamp) long form courses
@@ -47,7 +46,9 @@ tags:
 [HKMOOC](https://learn.hkmooc.hk/)
 [Flackbox.com Homepage - FlackBox](https://www.flackbox.com/)
 [Welcome to recallact.com !](https://www.recallact.com/) Video library for presentations and meetups
-[Free online courses from Harvard to learn how to code - Business Insider](https://www.businessinsider.com/free-harvard-courses-on-coding-programming-computer-science-2020-6?amp)
+[Free online courses from Harvard to learn how to code - Business Insider](https://www.businessinsider.com/free-harvard-courses-on-coding-programming-computer-science-2020-6)
+[Free Online Courses from upGrad](https://www.upgrad.com/hk/free-courses/?utm_source=BLOG&utm_campaign=ALL_FREE_BLOG_BODY_90914)
+[1000+ Free Developer Certifications](https://www.freecodecamp.org/news/free-certificates/)
 
 I've bought several bundles here (with Teachable SSO)
 [StackSkills](https://stackskills.com/courses/enrolled)
@@ -69,7 +70,7 @@ I've bought several bundles here (with Teachable SSO)
 [Traversy Media - YouTube](https://www.youtube.com/@TraversyMedia) mostly web tech
 [Web Dev Simplified - YouTube](https://www.youtube.com/@WebDevSimplified) mostly web tech
 
-[Hussein Nasser - YouTube](https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg) backend technologies, many on databases
+[Hussein Nasser - YouTube](https://www.youtube.com/@hnasr) backend technologies, many on databases
 [The Backend Engineering Show - YouTube](https://www.youtube.com/playlist?list=PLQnljOFTspQU0ICDe-cL1EwXC4GDSayKY)
 [Boot.dev Blog](https://blog.boot.dev/) backend dev
 [Tech Primers - YouTube](https://www.youtube.com/@TechPrimers) enterprise application
@@ -141,11 +142,14 @@ seneca-in-practice
 
 ## Educational Youtube Channels
 
+[Animagraffs - YouTube](https://www.youtube.com/@animagraffs) "How it works" in 3D rendering
 [AsapSCIENCE - YouTube](https://www.youtube.com/@AsapSCIENCE) animated explainers
 [Be Smart - YouTube](https://www.youtube.com/@besmart) sciency
 [Branch Education - YouTube](https://www.youtube.com/@BranchEducation) "How it works" in 3D rendering
+[BRIGHT SIDE - YouTube](https://www.youtube.com/@BRIGHTSIDEOFFICIAL) explainers
 [CGP Grey - YouTube](https://www.youtube.com/@CGPGrey) trivia on all sorts of things
 [Cheddar - YouTube](https://www.youtube.com/@cheddar) Cheddar explainers, NYC Revealed
+[Clint Explains - YouTube](https://www.youtube.com/@clintexplains5327) explainers, sciency
 [Cleo Abram - YouTube](https://www.youtube.com/@CleoAbram) explainers, HUGE if true stories
 [Cogito - YouTube](https://www.youtube.com/@CogitoEdu) animated history and culture
 [ColdFusion - YouTube](https://www.youtube.com/@ColdFusion) explainers
@@ -156,11 +160,14 @@ seneca-in-practice
 [Domain of Science - YouTube](https://www.youtube.com/@domainofscience) sciency
 [engineerguy - YouTube](https://www.youtube.com/@engineerguyvideo) engineering
 [Fire of Learning - YouTube](https://www.youtube.com/@Fireoflearning) history
+[Freethink - YouTube](https://www.youtube.com/@freethink) explainers
 [Integza - YouTube](https://www.youtube.com/@integza) sciency, experiments
 [Interesting Engineering - YouTube](https://www.youtube.com/@Interestingengineeringofficial) engineering
-[Jared Owen - YouTube](https://www.youtube.com/@JaredOwen) "How it works"
+[Jared Owen - YouTube](https://www.youtube.com/@JaredOwen) "How it works" in 3D rendering
 [Jeremy Fielding - YouTube](https://www.youtube.com/@JeremyFieldingSr) "How it works", engineering
+[Kathy Loves Physics & History - YouTube](https://www.youtube.com/@KathyLovesPhysics) sciency, history
 [Kurzgesagt – In a Nutshell - YouTube](https://www.youtube.com/@kurzgesagt)
+[Kuvina Saydaki - YouTube](https://www.youtube.com/@Kuvina) math and algorithms
 [Lesics - YouTube](https://www.youtube.com/@Lesics) "How it works" in 3D rendering
 [Looking Glass Universe - YouTube](https://www.youtube.com/@LookingGlassUniverse) animated quantum mechanics
 [MinuteEarth - YouTube](https://www.youtube.com/@MinuteEarth) sciency, animated explainers
@@ -171,6 +178,7 @@ seneca-in-practice
 [Physics Girl - YouTube](https://www.youtube.com/@physicsgirl) physics
 [Practical Engineering - YouTube](https://www.youtube.com/@PracticalEngineeringChannel) engineering, experiments
 [Primer - YouTube](https://www.youtube.com/@PrimerBlobs) evolution
+[Professor Dave Explains - YouTube](https://www.youtube.com/@ProfessorDaveExplains) sciency, deep dives on various disciplines
 [Quanta Magazine - YouTube](https://www.youtube.com/@QuantaScienceChannel) sciency
 [Real Engineering - YouTube](https://www.youtube.com/@RealEngineering) engineering
 [Real Science - YouTube](https://www.youtube.com/@realscience) sciency, Insane Biology
@@ -190,6 +198,7 @@ seneca-in-practice
 [The Thought Emporium - YouTube](https://www.youtube.com/@thethoughtemporium) sciency
 [Today I Found Out - YouTube](https://www.youtube.com/@TodayIFoundOut) explainers
 [Tom Scott - YouTube](https://www.youtube.com/@TomScottGo) sciency
+[TREY the Explainer - YouTube](https://www.youtube.com/@TREYtheExplainer) explainers, history
 [Two Bit da Vinci - YouTube](https://www.youtube.com/@TwoBitDaVinci) explainers
 [Up and Atom - YouTube](https://www.youtube.com/@upandatom) Physics and Maths
 [Verge Science - YouTube](https://www.youtube.com/@VergeScience) sciency
@@ -203,6 +212,8 @@ seneca-in-practice
 [混乱博物馆 ChaosMuseum - YouTube](https://www.youtube.com/@chaosmuseum) explainers
 [瑞森老哥 Reason - YouTube](https://www.youtube.com/@reason2188) animated explainers, short history
 [科学火箭叔 - YouTube](https://www.youtube.com/@KeXueHuoJianShu) sciency, but citation is poor
+[科學漫聊 - YouTube](https://www.youtube.com/@KXML) sciency
+[芳斯塔芙 - YouTube](https://www.youtube.com/@Funstuff2018) fun stuff, explainers
 
 [Projects — Brady Haran](https://www.bradyharanblog.com/projects)
 
@@ -219,49 +230,53 @@ seneca-in-practice
 [Documentary Storm - Watch Free Documentaries Online](https://www.documentarystorm.com/)
 [Films For Action: A Library for Changing the World](https://www.filmsforaction.org/)
 [Watch Free Documentaries Online | Documentary Heaven](https://documentaryheaven.com/)
-[Battle of the Somme (WW1 Documentary) | History Documentary | Reel Truth History - YouTube](https://www.youtube.com/watch?v=9BlbdNq1UCE)
 
-[Best Documentary - YouTube](https://www.youtube.com/@BestDoc)
+[BBC Earth - YouTube](https://www.youtube.com/@bbcearth)
+[BBC Studios - YouTube](https://www.youtube.com/@BBCStudios)
+
 [Nature | PBS](https://www.pbs.org/show/nature/) US only
 [Nature on PBS - YouTube](https://www.youtube.com/@naturepbs)
-[PBS Space Time - YouTube](https://www.youtube.com/@pbsspacetime)
+[NOVA PBS Official - YouTube](https://www.youtube.com/@novapbs)
+[PBS Eons - YouTube](https://www.youtube.com/@eons)
 [PBS Infinite Series - YouTube](https://www.youtube.com/@pbsinfiniteseries)
-[PBS Eons - YouTube](https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA)
-[NOVA PBS Official - YouTube](https://www.youtube.com/channel/UCjHz5SVHeMT0AViCYZvsGDA)
-[PBS Nova Documentary Channel - YouTube](https://www.youtube.com/channel/UCH0Tc69zRQLabJLBroDubVQ)
-[PBS Terra - YouTube](https://www.youtube.com/channel/UCpxYSWgxVt3Pyn1ovXsGQ0g)
+[PBS Nova Documentary Channel - YouTube](https://www.youtube.com/@pbsnovadocumentarychannel5152)
+[PBS Space Time - YouTube](https://www.youtube.com/@pbsspacetime)
+[PBS Terra - YouTube](https://www.youtube.com/@pbsterra)
+
+[Free Documentary - YouTube](https://www.youtube.com/@FreeDocumentary)
+[Free Documentary - History - YouTube](https://www.youtube.com/@FreeDocumentaryHistory)
+[Free Documentary - Nature - YouTube](https://www.youtube.com/@FreeDocumentaryNature)
+[Free Doc Bites - YouTube](https://www.youtube.com/@FDBites)
+
+[Ancient Black Ops - YouTube](https://www.youtube.com/@ancientblackops3794)
+[Banijay Documentaries - YouTube](https://www.youtube.com/@BanijayDocumentaries)
+[Banijay History - YouTube](https://www.youtube.com/@BanijayHistory)
+[Banijay Science - YouTube](https://www.youtube.com/@banijayscience)
+[Best Documentary - YouTube](https://www.youtube.com/@BestDoc)
+[Big Company - YouTube](https://www.youtube.com/@BigCompanyYT) corporate history
+[Closer To Truth - YouTube](https://www.youtube.com/@CloserToTruthTV)
 [Cosmos, Consciousness & Meaning TV Series on PBS - Closer to Truth](https://www.closertotruth.com/)
-[Closer To Truth - YouTube](https://www.youtube.com/channel/UCl9StMQ79LtEvlrskzjoYbQ)
-[Great Art Explained - YouTube](https://www.youtube.com/channel/UCePDFpCr78_qmVtpoB1Axaw)
+[Deep Dive - YouTube](https://www.youtube.com/@deepdive8755)
+[Defunctland - YouTube](https://www.youtube.com/@Defunctland) (defuncted) theme park history
+[ElderFox Documentaries - YouTube](https://www.youtube.com/@ElderFoxDocumentaries)
+[ENR - YouTube](https://www.youtube.com/@enr8781)
+[Great Art Explained - YouTube](https://www.youtube.com/@GreatArtExplained)
+[MagnatesMedia - YouTube](https://www.youtube.com/@MagnatesMedia) mini documentaries, corporate history
+[Military History 2015 - YouTube](https://www.youtube.com/@AmazingClips100)
+[National Geographic - YouTube](https://www.youtube.com/@NatGeo)
 [Our History - YouTube](https://www.youtube.com/@OurHistory)
-[WarsofTheWorld - YouTube](https://www.youtube.com/channel/UCB29sxIJ9PQIo0hCnIaOMbg)
-
-[CCTV 纪录 - YouTube](https://www.youtube.com/channel/UCAYkj2Fz9EvAe2fGJEGMXnQ)
-[中华国宝 - YouTube](https://www.youtube.com/channel/UCJkCcf_23pJBNSCtSjM5U6Q)
-[Ancient Black Ops - YouTube](https://www.youtube.com/channel/UC6unidW5I3b5rSfmac6kxTA)
-[BBC Earth - YouTube](https://www.youtube.com/channel/UCwmZiChSryoWQCZMIQezgTg)
-[BBC Studios - YouTube](https://www.youtube.com/channel/UC2ccm1GajfSujz7T18d7cKA)
-[Deep Dive - YouTube](https://www.youtube.com/channel/UCFPGKw4jb7CJur6cHmIgI3Q)
-[Defunctland - YouTube](https://www.youtube.com/c/Defunctland/featured)
-[National Geographic - YouTube](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A)
-[國家地理 National Geographic - YouTube](https://www.youtube.com/channel/UCzuH3UncFcXOKrz4XOYARTw)
-[ElderFox Documentaries - YouTube](https://www.youtube.com/user/bengood1993123)
-[Military History 2015 - YouTube](https://www.youtube.com/channel/UCmMU7oOtVtxSgdolZlBTovg)
 [Planet Knowledge | Documentaries on demand - History, Culture, Nature, Travel and Science](https://planetknowledge.tv/)
-[Real Science - YouTube](https://www.youtube.com/c/realscience/featured)
-[Reel Truth Documentaries - YouTube](https://www.youtube.com/channel/UCFrO-dKhooOuTtix5dia2_g)
-[Reel Truth Earth - Wildlife & Discovery - YouTube](https://www.youtube.com/channel/UCzkgP6uhg92x24Gu2l7Vg0Q)
-[Reel Truth History Documentaries - YouTube](https://www.youtube.com/channel/UCb7xZQi7F3RW7BNtR57cNnA)
-[Reel Truth Science Documentaries - YouTube](https://www.youtube.com/channel/UCZSE95RmyMUgJWmfra9Yx1A)
-[Space & The Universe HD - YouTube](https://www.youtube.com/channel/UC9pYOJPB5UYlMlGKKZWo-Bw)
+[Real Science - YouTube](https://www.youtube.com/@realscience)
+[Reel Truth Earth - Wildlife & Discovery - YouTube](https://www.youtube.com/@NatureTails)
+[Timeline - World History Documentaries - YouTube](https://www.youtube.com/@TimelineChannel)
+[WarsofTheWorld - YouTube](https://www.youtube.com/@warsoftheworld1945)
 
-[Free Documentary - YouTube](https://www.youtube.com/user/FreeDocumentary)
-[Free Documentary - History - YouTube](https://www.youtube.com/channel/UCsgPO6cNV0wBG-Og3bUZoFA)
-[Free Documentary - Nature - YouTube](https://www.youtube.com/channel/UCQtW2oz8ec8pHjjxawujNjg)
-[Doc Bites - YouTube](https://www.youtube.com/channel/UC9_BKfayJfXO5fZWLi-GVrg)
+[CCTV纪录 - YouTube](https://www.youtube.com/@CCTVDocumentary)
+[中华国宝 - YouTube](https://www.youtube.com/@ChineseNationalTreasure)
+[國家地理 National Geographic TW - YouTube](https://www.youtube.com/@NGCTaiwan)
 
-[Johnny Harris - YouTube](https://www.youtube.com/channel/UCmGSJVG3mCRXVOP4yZrU1Dw)
-[PolyMatter - YouTube](https://www.youtube.com/channel/UCgNg3vwj3xt7QOrcIDaHdFg)
+[Johnny Harris - YouTube](https://www.youtube.com/@johnnyharris)
+[PolyMatter - YouTube](https://www.youtube.com/@PolyMatter)
 
 [Educational Documentaries | Netflix - YouTube](https://www.youtube.com/playlist?list=PLvahqwMqN4M0GRkZY8WkLZMb6Z-W7qbLA)
 [Netflix Our Planet | Full episodes | WWF collaboration - YouTube](https://www.youtube.com/playlist?list=PL7rb3uMaYmjHqT_JUcQYCBa4nEtfDKuSa)

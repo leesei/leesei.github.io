@@ -2,6 +2,7 @@
 title: JavaScript Snippets
 description: ""
 created: 2014-12-11
+updated: 2023-09-29
 tags:
   - comp/lang
   - javascript

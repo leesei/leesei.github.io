@@ -2,6 +2,7 @@
 title: Information Theory
 description: ""
 created: 2019-08-20
+updated: 2023-09-29
 tags:
   - comp/lang
 ---

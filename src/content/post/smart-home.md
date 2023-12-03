@@ -2,6 +2,7 @@
 title: Smart Home
 description: ""
 created: 2023-03-18
+updated: 2023-09-29
 tags:
   - household
   - iot

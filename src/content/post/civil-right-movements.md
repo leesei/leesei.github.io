@@ -2,6 +2,7 @@
 title: Civil Right Movements
 description: ""
 created: 2016-09-06
+updated: 2023-09-29
 tags:
   - law
   - politics

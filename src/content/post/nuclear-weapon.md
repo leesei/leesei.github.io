@@ -2,7 +2,7 @@
 title: Nuclear Weapon
 description: ""
 created: 2023-03-24
-updated: 2023-07-28
+updated: 2023-11-28
 tags:
   - history
   - science
@@ -10,6 +10,8 @@ tags:
 ---
 
 [Nuclear weapon - Wikiwand](https://www.wikiwand.com/en/nuclear%20bomb)
+
+[How to launch a nuclear missile - YouTube](https://www.youtube.com/watch?v=7Wi8pjzsFD4)
 
 ## Fission Bomb/Atomic Bomb
 

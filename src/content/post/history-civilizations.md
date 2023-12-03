@@ -2,7 +2,7 @@
 title: Ancient Civilizations
 description: ""
 created: 2020-01-23
-updated: 2023-08-12
+updated: 2023-11-26
 tags:
   - history
 ---
@@ -68,6 +68,10 @@ the discovery pre-Christian Greek culture caused a cultural revolution in Europe
 Normans = North mans migrated from Scandinavia to northern Franks
 They brings Norse culture to both Franks and England.
 
+## Stone Age
+
+[【鬼谷闲谈】你给我解释解释什么叫打制石器？啊？石器你就是这么发展的？ - YouTube](https://www.youtube.com/watch?v=E1dSM3PLbZk)
+
 ## The Seven Wonders
 
 [The Seven Wonders - World History Encyclopedia](https://www.worldhistory.org/The_Seven_Wonders/)
@@ -107,10 +111,11 @@ Within a 50 years period, the Canaanites, Minoans, Hittites and ancient Greek (M
 the invasion of the sea people, volcanic eruptions, famines attributed to the end of Bronze age
 [Episode 2 – Ancient Pirates & The Quest for Stuff | History of Pirates Podcast](http://www.historyofpiratespodcast.com/?p=88)
 [Etruscans: Italian Civilization Before Ancient Rome - YouTube](https://www.youtube.com/watch?v=FkySjRwUteE)
+[Who were the Sea Peoples? | The Bronze Age Collapse - YouTube](https://www.youtube.com/watch?v=q9jqwLYeVtk)
 [1177 BC: The Year Civilization Collapsed (Eric Cline, PhD) - YouTube](https://www.youtube.com/watch?v=bRcu-ysocX4)
 [1177 B.C.: When Civilization Collapsed | Eric Cline - YouTube](https://www.youtube.com/watch?v=M4LRHJlijVU)
 [The Bronze Age Collapse (approximately 1200 B.C.E.) - YouTube](https://www.youtube.com/watch?v=aq4G-7v-_xI)
-[What Happened After The Bronze Age Collapse? - YouTube](https://www.youtube.com/watch?v=mF2GGbx9eg4)
+[What was life like after the Bronze Age collapse (Extended Version) - YouTube](https://www.youtube.com/watch?v=uM6JSS3l-IQ) 1:00:12
 
 Semitic linguistic group moved to Canaan. Hebrew called other Semitic speaking tribes living there Canaanite, Greeks called them Phoenician. Hebrew controls southern Canaan after the exodus. Philistines, which is connected to the Greeks (maybe refugee during the invasion of sea people), controlled the southernmost coastline of Canaan and conflicted with the Hebrews. Phoenician is then used to refer to the Semitic speaking tribes living in the northern Canaan.
 Phoenicia = Lebanon + northern Syria

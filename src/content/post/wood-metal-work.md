@@ -2,6 +2,7 @@
 title: Wood and Metal Work
 description: ""
 created: 2018-08-31
+updated: 2023-09-29
 tags:
   - maker
 ---
@@ -80,6 +81,8 @@ Electronic torque control will stop the motor when torque maxed out and have mor
 [Fine Woodworking Tools & Hand Tools](https://www.highlandwoodworking.com/)
 
 [Project Zero Cables - The Cleanest Desk Setup EVER - YouTube](https://www.youtube.com/watch?v=qI2vmqANYcE)
+
+[花十几万买了一堆金丝楠乌木，几年后仅剩十分之一，大家却说太值了「老蒋根雕」 - YouTube](https://www.youtube.com/watch?v=HlpwIOPbCAs)
 
 [Wooden Ren - YouTube](https://www.youtube.com/c/mylove348) 木頭仁
 [帶你認識十種進口木材 學習木材知識 | 辨識木材 | 木工教學 - YouTube](https://www.youtube.com/watch?v=TtE_SED01X8) 木材越深色越硬越貴

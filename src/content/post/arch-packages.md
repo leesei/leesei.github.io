@@ -2,7 +2,7 @@
 title: Arch Post Install
 description: ""
 created: 2021-01-08
-updated: 2023-07-22
+updated: 2023-11-08
 tags:
   - arch-linux
   - desktop
@@ -71,7 +71,7 @@ teams signal-desktop
 openconnect networkmanager-openconnect networkmanager-pptp
 
 # server tools
-robo3t-bin studio-3t sqlitestudio
+studio-3t sqlitestudio
 ```
 
 ```sh

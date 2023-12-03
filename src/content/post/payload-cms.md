@@ -2,6 +2,7 @@
 title: Payload CMS
 description: A code first CMS that works the way you do
 created: 2023-04-30
+updated: 2023-09-29
 tags:
   - cms
   - typescript
@@ -12,7 +13,7 @@ tags:
 [Payload CMS | Node & React TypeScript Headless CMS](https://payloadcms.com/)
 [payloadcms/payload: Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB](https://github.com/payloadcms/payload)
 
-[Let's Checkout... #Payload #CMS - YouTube](https://www.youtube.com/watch?v=wCZsKrF5elM)
+[Let's Checkout... Payload CMS - YouTube](https://www.youtube.com/watch?v=wCZsKrF5elM)
 [MongoDB + Payload: The Future of CMS - YouTube](https://www.youtube.com/watch?v=8dlgJLiGJQ0)
 
 [Compare Payload to Strapi | Strapi Alternatives | Payload CMS](https://payloadcms.com/compare/strapi)
@@ -129,3 +130,9 @@ NextJS custom server is a combination where you run an express server and NextJS
 
 [payloadcms/next-payload: A utility to deploy Payload serverlessly within a Next.js app](https://github.com/payloadcms/next-payload)
 The next-payload is a setup where you can deploy Payload "serverlessly" on for example Vercel (which is pretty awesome) directly from your NextJS project
+
+### Astro
+
+[Payload CMS & Astro 🚀 Astro Documentation](https://docs.astro.build/en/guides/cms/payload/)
+
+[Lambdo-Labs/payloadcms-astro-template: Payload CMS and Astro template](https://github.com/Lambdo-Labs/payloadcms-astro-template/tree/main)

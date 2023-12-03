@@ -2,7 +2,7 @@
 title: Anime
 description: ""
 created: 2016-05-30
-updated: 2023-08-14
+updated: 2023-11-02
 tags:
   - anime
 ---
@@ -11,17 +11,16 @@ tags:
 
 ## 追番
 
-我的英雄学院 第三四季
+我的英雄学院 第三四五六季
 刀劍神域 第一二季
 多羅羅 2019
 鬼滅之刃 2019
 不吉波普不笑 2019
-JOJO 的奇妙冒險
 Radiant
 賢者之孫
 入間同學入魔了
 高分少女 第一二季
-JOJO 的奇妙冒險 第四部
+JOJO 的奇妙冒險 第五部
 聖 ☆ 哥傳
 呪術迴戰
 境界觸發
@@ -146,7 +145,7 @@ JOJO 的奇妙冒險 第一 二 三 四部
 我的英雄学院 第一 二季
 My Hero Academia: Two Heroes
 My Hero Academia: Heroes Rising
-炎炎消防隊 第一季
+炎炎消防隊 第一 二季
 暗杀教室 第一 二季, Q, 课外授课
 Gundam 鐵血孤兒 第一 二季
 Gundam 第 08MS 小隊
@@ -165,7 +164,7 @@ Hunter X Hunter 2011
 咕嚕咕嚕魔法陣 2017
 WORKING!! 第一 二 三季 Web 版
 活撃/刀剣乱舞
-靈能百分百 第一 二季 Reigen(OVA1)
+靈能百分百 第一 二 三季 Reigen(OVA1)
 BRAVE10 真田十勇士
 將國戡亂記 第一季
 魔法少女-俺
@@ -174,9 +173,11 @@ BRAVE10 真田十勇士
 [冒險失敗魔王扒開公主肚子吃掉她与勇者的孩子？你所不知道慎重勇者 比骨王還謹慎拼盡全力的冒險故事！！【慎重勇者】【爆肝紳士大木】 - YouTube](https://www.youtube.com/watch?v=PU7IUE4Xhos)
 關於我轉生變成史萊姆這檔事 第一季 OAD1 OAD2
 [魔王勇者](https://www.wikiwand.com/zh-hant/%E9%AD%94%E7%8E%8B%E5%8B%87%E8%80%85)
-怕痛的我，把防禦力點滿就對了 第一季
+怕痛的我，把防禦力點滿就對了 第一 二季
 [一口气看完《结界师》 - YouTube](https://www.youtube.com/watch?v=_HhJNKdAgrc)
 [ULTRAMAN アニメ公式サイト](https://anime.heros-ultraman.com/)
+派對咖孔明
+靈能百分百 第一 二 三季
 
 TIGER and BUNNY: The Beginning (2012)
 TIGER and BUNNY: The Rising (2014)
@@ -222,7 +223,7 @@ Only My Railgun - fripSide
 [D1-DM 第一動漫 線上看動畫](https://d1-dm.online/)
 [動漫線上看 - Gimy TV 劇迷 - 第 1 頁 - PttPlay 線上看](https://pttplay.cc/type/4.html)
 
-## Commentary
+## Commentaries
 
 [Why Hunter X Hunter (2011) Kicks Ass! - YouTube](https://www.youtube.com/watch?v=xnt5zE-Cu1A) 鋼練 FA trigger a wave of remakes
 
@@ -397,11 +398,17 @@ S 级安年
 
 [《炎炎消防隊》不同世代能力者的區別是什麼？看完吊打彈幕大神 - 每日頭條](https://kknews.cc/zh-hk/comic/vl9xgky.html)
 
+[炎炎消防隊 - YouTube](https://www.youtube.com/playlist?list=PLDHDMPgKjY-bcTSfAYGkPPUobftyI8cM2) 電波比比
+[60 分钟看完《炎炎消防队》第一季，未来人类变成火焰怪物，超能力消防局成立！ - YouTube](https://www.youtube.com/watch?v=VHIcuvkmIwU)
+[童顏巨乳自動送福利體質的女孩，球球都快被擠爆了！ - YouTube](https://www.youtube.com/watch?v=eJsW5I6KgIQ) 第一二季
+
 ## 呪術迴戰
 
 [呪術迴戰 漫天大坑-Kay - YouTube](https://www.youtube.com/@-kayshi_0521/search?query=%E5%91%AA%E8%A1%93%E8%BF%B4%E6%88%B0)
 [咒術迴戰 - YouTube](https://www.youtube.com/playlist?list=PLsFPl6a0Cnu91fzXTvht1sDgrlI5hwpXU) 四號倉庫
 [咒術迴戰第二季漫畫解說 - YouTube](https://www.youtube.com/playlist?list=PLk0A_V_jRTgg4sIgZf4Zlf3pfpGLK31Oe) 五个光
+[呪術迴戰 - YouTube](https://www.youtube.com/playlist?list=PLB0KPdEQn0A_rvt-MHS0mOgaul5Q6vjBs)
+無臉
 
 [咒术回战 一朵老香菇解说 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibili](https://space.bilibili.com/40857648/favlist?fid=1103173348&ftype=create)
 [呪術廻戦 - YouTube](https://www.youtube.com/playlist?list=PL9_zHK6-Ctw4jG3Tk_2YsaTJAwhdGr4qm) 阿後哭哭
@@ -452,9 +459,15 @@ S 级安年
 [保證看懂!深度解析神作《新世紀福音戰士》EVA 故事核心劇情完整解讀 - YouTube](https://www.youtube.com/watch?v=zpuP4g4IsT0)
 [恨鐵不成鋼!狂暴的導演/噁心的宅男《新世紀福音戰士》EVA 劇場版核心劇情完整解讀 - YouTube](https://www.youtube.com/watch?v=NCLP6drloWI)
 [EVA 終章完整解讀:再見了，所有的 EVANGELION 【新世紀福音戰士】 - YouTube](https://www.youtube.com/watch?v=JTTbzSpo8qw)
+[【神作】二十分鐘講完《EVA》中的人類補完計劃 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=kXeBsuO3D10)
 
+[一口气看完，EVA 新剧场版 4 部曲：序破 Q 终！另一个 EVA 故事！爆肝 2 万字！ - YouTube](https://www.youtube.com/watch?v=0Cr14IAE3_o)
 [（請打開字幕）EVA 孤獨的靈魂 「序」「破」「Q」「𝄇」（終） ｜新世紀福音戰士新劇場版四部曲解析（一）【JoJo TV 瞄芝士】 - YouTube](https://www.youtube.com/watch?v=gaD0IXCJz6U)
 [（請打開字幕）EVA 人類補完計劃 完美結局？ 新世紀福音戰士世界觀 𝄇 亞當 莉莉絲 死海文書 郎基奴斯長槍 含義【JoJo TV 瞄芝士】 - YouTube](https://www.youtube.com/watch?v=NAYMZahr_IY)
+
+半只猫
+[EVA 教科書：22000 字《使徒字典》，吃吧，全是核心 - YouTube](https://www.youtube.com/watch?v=fMQc9k3BiEM)
+[不懂 EVA “人類補完計畫”，《新世紀福音戰士》就白看了 - YouTube](https://www.youtube.com/watch?v=WnZjzGvgpUA)
 
 ## Voltron
 
@@ -472,6 +485,7 @@ S 级安年
 ## Overlord
 
 [Overlord 不死者之王 - YouTube](https://www.youtube.com/playlist?list=PLv97sSQN6Zn-yeI5etjVxo5IZgms2e85I) 爆肝紳士大木
+[OVERLORD 不死之王 - YouTube](https://www.youtube.com/playlist?list=PLB0KPdEQn0A8z9tozactpvgiZsbxoHJiq) 無臉
 
 魔人小白
 [60 分鐘一口氣看完《overlord》第一季，滿級大神帶滿裝備穿越異世，起手超位，至尊降臨 - YouTube](https://www.youtube.com/watch?v=x_ZhP04UEZw)
@@ -530,6 +544,12 @@ E N
 [BLEACH IN 16 MINUTES - YouTube](https://www.youtube.com/watch?v=7CjwiZ59XJ0)
 
 [bleach - YouTube](https://www.youtube.com/playlist?list=PLIX6F28rxZA2qVZGnQJyKIEvQEBo1E8G4) 千年血戰篇
+
+[【死神】守護靜靈庭的勇者！22 位護庭十三隊隊長能力全面解讀！ - YouTube](https://www.youtube.com/watch?v=rO4Nbpv1tso)
+[【死神】黑崎一護的二十個形態全盤點！20 種形態全面解析！ - YouTube](https://www.youtube.com/watch?v=28i4XIm9-S8)
+[【死神】15 個十刃成員與他們的能力，15 位十刃成員的驚人能力！ - YouTube](https://www.youtube.com/watch?v=Nt8GV75KyGo)
+
+[史上最全，一口气看完 56 把斩魄刀，哪个才是你最想要的？【死神】 - YouTube](https://www.youtube.com/watch?v=sELo7vCUVxM)
 
 ## Adventure Time
 

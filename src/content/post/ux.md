@@ -2,7 +2,7 @@
 title: User Experience (UX)
 description: ""
 created: 2015-06-25
-updated: 2023-07-28
+updated: 2023-11-10
 tags:
   - ui
   - ux
@@ -29,6 +29,7 @@ tags:
 [WordPress.com Design Handbook](https://wordpress.com/design-handbook/)
 [Google Design](https://www.google.com/design/)
 [iOS Human Interface Guidelines: Designing for iOS](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/)
+[Material Minimal design system](https://material-minimal.com/)
 
 [10 Commandments for UI Design. Design principles that are frequently… | by Danny Sapio | UX Collective](https://uxdesign.cc/10-commandments-for-ui-design-29ee9687a4)
 [Human Centred Design vs Design Thinking vs Service Design vs UX …. What do they all mean? | Francesca (Franki) Simonds | Pulse | LinkedIn](https://www.linkedin.com/pulse/human-centred-design-vs-thinking-service-ux-what-do-all-simonds)
@@ -93,6 +94,9 @@ Most Advanced. Yet Acceptable.
 [Building a Visual Language – Airbnb Design](https://airbnb.design/building-a-visual-language/)
 [The Way We Build – Airbnb Design](https://airbnb.design/the-way-we-build/)
 
+[Design Theory - YouTube](https://www.youtube.com/@Design.Theory)
+[How Brands Use Design & Marketing to Control Your Mind - YouTube](https://www.youtube.com/watch?v=p6aF5ma7BiM)
+
 [為何 Google、Facebook、Adobe 都愛這種插畫？ | TechNews 科技新報](https://technews.tw/2022/01/23/facebook-alegria/)
 
 [Wait Wait...Tell Me! - 99% Invisible](https://99percentinvisible.org/episode/wait-wait-tell-me/) Operation transparency makes people willing to wait
@@ -105,6 +109,12 @@ Most Advanced. Yet Acceptable.
 ## Bad UX
 
 [How deceptive UX patterns trick you into doing what companies want](https://thenextweb.com/syndication/2020/02/09/how-deceptive-ux-patterns-trick-you-into-doing-what-companies-want/)
+
+## Easter and Western Design
+
+[Eastern & Western Design: How Culture Rewires The Brain - YouTube](https://www.youtube.com/watch?v=8UAsN9wvePE)
+[why Japan's internet is weirdly designed - YouTube](https://www.youtube.com/watch?v=z6ep308goxQ)
+[How culture made Japanese Internet design "Weird" - YouTube](https://www.youtube.com/watch?v=Opy-SjDU0UY)
 
 ## Laws of UX
 
@@ -284,11 +294,11 @@ Most Advanced. Yet Acceptable.
 [A Guide to CSS Animation - a Collection by Jhey on CodePen](https://codepen.io/collection/nMpBQm/)
 [Animation articles](https://www.joshwcomeau.com/tutorials/animation/)
 
+[CSS transitions and hover animations, an interactive guide](https://www.joshwcomeau.com/animation/css-transitions/)
 [A Detailed Guide to CSS Animations and Transitions – EngineerBabu – Medium](https://medium.com/engineerbabu/a-detailed-guide-to-css-animations-and-transitions-b544502c089c)
 [CSS Animations: A Pocket Guide - Val Head, Author](http://cssanimationspocketguide.com/) free eBooks
 [Learn CSS Animation - Free CSS tutorials and guides - CSS Animation](https://cssanimation.rocks/)
 [Examples from the CSS Animations Pocket Guide book - a Collection by Val Head on CodePen](http://codepen.io/collection/EIqBg/)
-[CSS transitions and hover animations, an interactive guide](https://www.joshwcomeau.com/animation/css-transitions/)
 [Bounce Element Around Viewport in CSS | CSS-Tricks](https://css-tricks.com/bounce-element-around-viewport-in-css/)
 
 [Material Motion | Material Motion](https://material-motion.github.io/material-motion/)
@@ -369,7 +379,8 @@ Cross platform runtime
 [AnimXYZ | CSS-Tricks - CSS-Tricks](https://css-tricks.com/animxyz/)
 [Animate a React app with AnimXYZ - LogRocket Blog](https://blog.logrocket.com/animate-react-app-animxyz/)
 
-[AutoAnimate - Add motion to your apps with a single line of code](https://auto-animate.formkit.com/)
+[AutoAnimate - Add motion to your apps with a single line of code](https://auto-animate.formkit.com/) ❗!important, bindings to various frameworks
+[formkit/auto-animate: A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.](https://github.com/formkit/auto-animate)
 [Introducing AutoAnimate — add motion to your apps with a single line of code. - DEV Community](https://dev.to/justinschroeder/introducing-autoanimate-add-motion-to-your-apps-with-a-single-line-of-code-34bp)
 
 [Atropos - Stunning touch-friendly 3D parallax hover effects](https://atroposjs.com/) ❗!important

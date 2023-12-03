@@ -2,6 +2,7 @@
 title: Kids Learning
 description: ""
 created: 2016-08-17
+updated: 2023-11-02
 tags:
   - learning
 ---
@@ -49,6 +50,7 @@ tags:
 
 [Home - PhysicsWallah](http://physicswallahalakhpandey.com/) Physics and Chemistry
 [The Royal Institution - YouTube](https://www.youtube.com/channel/UCYeF244yNGuFefuFKqxIAXw) STEM talks
+[Toppr: Better learning for better results](https://www.toppr.com/)
 
 [教育局教育電視](https://www.hkedcity.net/etv/zh-hant)
 [香港公共圖書館 - 最新消息](https://www.hkpl.gov.hk/tc/e-resources/latest-notice.html) Kids InfoBits, OverDrive, TumbleBookLibrary

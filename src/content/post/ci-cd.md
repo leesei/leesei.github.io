@@ -2,6 +2,7 @@
 title: CI/CD
 description: ""
 created: 2019-11-04
+updated: 2023-09-29
 tags:
   - dev/deploy
   - devops
@@ -155,35 +156,6 @@ tags:
 
 [Creating CI/CD Pipeline With Gitlab and DigitalOcean Managed Kubernetes | DigitalOcean](https://www.digitalocean.com/community/tech_talks/creating-ci-cd-pipeline-with-gitlab-and-digitalocean-managed-kubernetes)
 
-## Hosted
-
-> usually have self-hosted enterprise option
-
-[Continuous Delivery with Codeship: Fast, secure and fully customizable.](https://codeship.com/)
-[Continuous Integration and Deployment - CircleCI](https://circleci.com/)
-[Semaphore - Continuous Integration & Deployment](https://semaphoreci.com/)
-[Continuous Integration and Deployment service for Windows developers - Appveyor](https://www.appveyor.com/)
-
-[Wercker - From code to containers](http://wercker.com/)
-
-### Saucer
-
-[Sauce Labs: Cross Browser Testing, Selenium Testing & Mobile Testing](https://saucelabs.com/) 2000 credits per week
-
-### Travis
-
-> Travis is hosted service, with self-hosted enterprise option
-
-[Travis CI - Wikiwand](https://www.wikiwand.com/en/Travis_CI)
-[Travis CI - Test and Deploy Your Code with Confidence](https://travis-ci.org/)
-[DamonOehlman/travis-multirunner: A simple configuration for running (limited) multibrowser tests on travis ci](https://github.com/damonoehlman/travis-multirunner)
-[GUI and Headless Browser Testing - Travis CI](https://dosc.travis-ci.com/user/gui-and-headless-browsers/)
-
-### Buddy
-
-[Buddy: The DevOps Automation Platform | Get the most powerful and easy-to-configure continuous integration and delivery platform.](https://buddy.works/)
-[How To Build Your First CI/CD Pipeline With Buddy - Better Programming - Medium](https://medium.com/better-programming/how-to-build-your-first-ci-cd-pipeline-with-buddy-b12a01bbc90a)
-
 ## Buildkite
 
 [Buildkite](https://buildkite.com/)
@@ -234,3 +206,32 @@ Community migrated to Jenkins fork early 2011 after Hudson is bought by Oracle b
 [Ansibot by hiddentao](http://hiddentao.github.io/ansijet/)
 [Shippable + Ansible + Docker + Loggly for awesome deployments](http://www.hiddentao.com/archives/2014/06/03/shippable-ansible-docker-loggly-for-awesome-deployments/)
 [Ansijet – Ansible playbook automation server](http://www.hiddentao.com/archives/2014/06/20/ansijet-ansible-playbook-automation-server/)
+
+## Hosted
+
+> usually have self-hosted enterprise option
+
+[Continuous Delivery with Codeship: Fast, secure and fully customizable.](https://codeship.com/)
+[Continuous Integration and Deployment - CircleCI](https://circleci.com/)
+[Semaphore - Continuous Integration & Deployment](https://semaphoreci.com/)
+[Continuous Integration and Deployment service for Windows developers - Appveyor](https://www.appveyor.com/)
+
+[Wercker - From code to containers](http://wercker.com/)
+
+### Saucer
+
+[Sauce Labs: Cross Browser Testing, Selenium Testing & Mobile Testing](https://saucelabs.com/) 2000 credits per week
+
+### Travis
+
+> Travis is hosted service, with self-hosted enterprise option
+
+[Travis CI - Wikiwand](https://www.wikiwand.com/en/Travis_CI)
+[Travis CI - Test and Deploy Your Code with Confidence](https://travis-ci.org/)
+[DamonOehlman/travis-multirunner: A simple configuration for running (limited) multibrowser tests on travis ci](https://github.com/damonoehlman/travis-multirunner)
+[GUI and Headless Browser Testing - Travis CI](https://dosc.travis-ci.com/user/gui-and-headless-browsers/)
+
+### Buddy
+
+[Buddy: The DevOps Automation Platform | Get the most powerful and easy-to-configure continuous integration and delivery platform.](https://buddy.works/)
+[How To Build Your First CI/CD Pipeline With Buddy - Better Programming - Medium](https://medium.com/better-programming/how-to-build-your-first-ci-cd-pipeline-with-buddy-b12a01bbc90a)

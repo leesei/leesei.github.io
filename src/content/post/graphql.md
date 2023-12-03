@@ -2,7 +2,7 @@
 title: GraphQL
 description: ""
 created: 2015-12-04
-updated: 2023-07-27
+updated: 2023-11-02
 tags:
   - falcor
   - graphql
@@ -126,7 +126,7 @@ Playground
 [From REST To GraphQL - YouTube](https://www.youtube.com/watch?v=ntBU5UXGbM8)
 [Zero To GraphQL In 30 Minutes - YouTube](https://www.youtube.com/watch?v=H8YnVk2vhzg)
 
-### Commentary
+### Commentaries
 
 [GraphQL in the age of REST APIs – Chute Engineering – Medium](https://medium.com/chute-engineering/graphql-in-the-age-of-rest-apis-b10f2bf09bba)
 [5 reasons you shouldn’t be using GraphQL – LogRocket](https://blog.logrocket.com/5-reasons-you-shouldnt-be-using-graphql-61c7846e7ed3)

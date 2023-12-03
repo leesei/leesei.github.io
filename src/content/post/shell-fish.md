@@ -2,6 +2,7 @@
 title: Fish shell
 description: ""
 created: 2016-02-18
+updated: 2023-09-29
 tags:
   - fish-shell
   - fisher

@@ -2,7 +2,7 @@
 title: Documentation
 description: ""
 created: 2015-06-17
-updated: 2023-07-27
+updated: 2023-09-29
 tags:
   - comp/lang
   - documentation
@@ -11,6 +11,7 @@ tags:
 
 [[docusaurus]]
 [[gitbook]]
+[[nextjs#Nextra]]
 [[static-sites#Eleventy/11ty]]
 [[static-sites#VitePress]]
 [[static-sites#VuePress]]

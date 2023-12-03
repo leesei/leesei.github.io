@@ -2,6 +2,7 @@
 title: UPnP
 description: ""
 created: 2016-03-26
+updated: 2023-09-29
 tags:
   - comp/network
 ---

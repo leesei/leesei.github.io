@@ -2,7 +2,7 @@
 title: Honey
 description: ""
 created: 2019-04-22
-updated: 2023-08-01
+updated: 2023-09-29
 tags:
   - food
   - honey

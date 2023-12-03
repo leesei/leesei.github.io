@@ -2,6 +2,7 @@
 title: Web Assembly Runtimes
 description: Runtimes for Web Assembly
 created: 2023-03-28
+updated: 2023-09-29
 tags:
   - wasm
   - wasm/runtime

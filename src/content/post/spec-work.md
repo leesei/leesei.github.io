@@ -2,6 +2,7 @@
 title: Speculative Work
 description: ""
 created: 2016-09-22
+updated: 2023-09-29
 tags:
   - economics
 ---

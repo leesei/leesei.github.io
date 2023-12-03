@@ -2,7 +2,7 @@
 title: Data Structures and Algorithms
 description: ""
 created: 2023-04-14
-updated: 2023-08-13
+updated: 2023-11-29
 tags:
   - comp/lang
   - learning
@@ -113,8 +113,16 @@ tags:
 [The Secret Sauce Behind NoSQL: LSM Tree - YouTube](https://www.youtube.com/watch?v=I6jB0nM9SKU)
 
 - optimized for fast write
-- bloom filter (which return firm no or probably yes) for key lookup on level
+- bloom filter at key lookup on level
   B-Tree, used in SQL DB, is optimized for fast write
+
+## Bloom Filters
+
+[Bloom Filters Explained by Example - YouTube](https://www.youtube.com/watch?v=gBygn3cVP80)
+[Bloom Filters - YouTube](https://www.youtube.com/watch?v=qZNJTh2NEiU)
+
+- return firm no or probably yes
+- bit array and hash functions
 
 ## Covariance and Contravariance
 
@@ -169,7 +177,7 @@ tags:
 A\* Algorithm:
 
 - choose a clever heuristic
-- apply heuristic reweighting
+- apply heuristic reweighing
 - run Dijkstra on the new graph
 
 [A\* (A Star) Search Algorithm - Computerphile - YouTube](https://www.youtube.com/watch?v=ySN5Wnu88nE)
@@ -187,8 +195,15 @@ A\* Algorithm:
 
 ## Sorting
 
+Holy Grail: O(NlogN), in-place, stable
+
+[The Sorting Algorithm Olympics - Who is the Fastest of them All - YouTube](https://www.youtube.com/watch?v=FNAUuYmkMPE)
+
+Kuvina Saydaki
 [Explaining EVERY Sorting Algorithm (part 1) - YouTube](https://www.youtube.com/watch?v=AAwYzYkjNTg)
 [Explaining EVERY Sorting Algorithm (part 2) - YouTube](https://www.youtube.com/watch?v=wqibJMG42Ik)
+[Explaining EVERY Sorting Algorithm: Variants and Hybrids - YouTube](https://www.youtube.com/watch?v=FntVy6lPVyo)
+[The Perfect Sorting Algorithm?? Block Sort Explained (Wiki Sort, Grail Sort) - YouTube](https://www.youtube.com/watch?v=InGeRuRk3f8)
 
 ### Radix Sort
 
@@ -287,16 +302,17 @@ Non-exact (rounded) results is good enough for many scenarios.
 [Dynamic Programming - GeeksforGeeks](https://www.geeksforgeeks.org/dynamic-programming/)
 [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges - YouTube](https://www.youtube.com/watch?v=oBt53YbR9Kk) (memoized) recursion and tabulation
 [How to Count Dice Rolls - An Introduction to Dynamic Programming - YouTube](https://www.youtube.com/watch?v=oifN-YVlrq8)
+[Mastering Dynamic Programming - How to solve any interview problem (Part 1) - YouTube](https://www.youtube.com/watch?v=Hdr64lKQ3e4)
 [Solving the subsets problem with dynamic programming - YouTube](https://www.youtube.com/watch?v=Kbsjju9PUuw)
 [What can “The Simpsons” teach us about Dynamic Programming? - YouTube](https://www.youtube.com/watch?v=6z4ePR7YYa8) several typical examples
 
-- Fibbonaci number
+- Fibonacci number
 - Coin change
 - [Knapsack problem](https://www.wikiwand.com/en/Knapsack_problem)
 - Staircase
 
 Decision Problem (Can)
-Combinatoric Problem (How)
+Combinatorics Problem (How)
 Optimization Problem (Best)
 
 ## Constraint programming

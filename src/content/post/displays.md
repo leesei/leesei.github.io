@@ -2,7 +2,7 @@
 title: Displays
 description: ""
 created: 2015-04-02
-updated: 2023-08-14
+updated: 2023-11-17
 tags:
   - comp/hardware
   - lcd
@@ -29,7 +29,7 @@ The term "TFT" only indicates that each pixel is controlled by an independent tr
 [Imaging Science And Monitor Calibration | Tom's Hardware](https://www.tomshardware.com/reviews/calibrate-your-monitor-theory,3615.html)
 [Display Testing Explained: How We Test PC Monitors | Tom's Hardware](https://www.tomshardware.com/reference/how-we-test-pc-monitors-benchmarking)
 
-[電視選購資訊(2020 電視比較,推介及消委會評測) - 專題報導 - 香港格價網 Price.com.hk](https://www.price.com.hk/news.php?id=11723&sec_id=11)
+[好屏如潮 - YouTube](https://www.youtube.com/@diallodiafi)
 
 ## 2021 buy
 
@@ -59,7 +59,10 @@ Gigabyte G27Q 1440p 144Hz, G-Sync $2899
 
 ### 2023 buy
 
+[電視選購資訊(2023電視比較,推介及消委會評測) - 專題 - 香港格價網 Price.com.hk](https://www.price.com.hk/news.php?id=11723&sec_id=11)
+
 [真机实测！从 2000 到 3 万块的显示器，谁更值得买？ | 13 款 Mini LED 显示器消费者报告 - YouTube](https://www.youtube.com/watch?v=j0PlFOgcLLw)
+[【2023年4月】显示器保姆级推荐清单！该怎么买？买那款！你想看的都在这边了！小白避坑专辑，建议收藏！ - YouTube](https://www.youtube.com/watch?v=lgNE796xC8M)
 
 [ROG 電競螢幕 OLED PG42UQ 開箱評測 優缺點｜ Swift PG48UQ、ASUS 顯示器、華碩電競、LG C2、OLED 電視、4K 電視、電腦螢幕、OLED 缺點、PTT 推薦｜科技狗 - YouTube](https://www.youtube.com/watch?v=TmJ2QUlObAw)
 
@@ -247,6 +250,10 @@ Samsung's QD LED
 tl;dr: IPS ~ PLS ~ VA > TN
 P-IPS > H-IPS > S-IPS > AH-IPS > E-IPS
 
+## Laser Projector
+
+[第四代显示技术 ：激光 - YouTube](https://www.youtube.com/watch?v=NypHSpEqLTM)
+
 ## DCI vs RGB
 
 [How To Choose 10-bit Gaming Monitor vs. 8-bit Gaming Monitor | BenQ US](https://www.benq.com/en-us/knowledge-center/knowledge/10-bit-vs-8-bit-does-monitor-panel-bit-color-depth-matter.html)
@@ -267,6 +274,7 @@ HDMI2.0 supports HDR, does not support G-Sync
 Cheap HDR is worst than SDR
 
 [如何選購 HDR 電競螢幕？買入前你必須瞭解的基礎知識 - 電腦王阿達](https://www.kocpc.com.tw/archives/431011)
+[HDR and color management in KWin - Planet KDE](https://planet.kde.org/xavers-blog-2023-05-18-hdr-and-color-management-in-kwin/)
 
 [HDR is a SCAM! feat. LG OLED GX 77 - YouTube](https://www.youtube.com/watch?v=fx-pfuszquk)
 

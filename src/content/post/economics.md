@@ -2,15 +2,18 @@
 title: Economics
 description: ""
 created: 2016-09-24
+updated: 2023-10-28
 tags:
   - economics
 ---
 
 [[capitalism]]
+[[money-and-banking]]
 
 [Economics - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPNZwz5_o_5uirJ8gQXnhEO) Crash Course
 [Economy - Investopedia](https://www.investopedia.com/economy-4689801)
 [Asianometry - YouTube](https://www.youtube.com/channel/UC1LpsuAUaKoMzzJSEt5WImw)
+[小岛大浪吹-非正经政经频道 - YouTube](https://www.youtube.com/@xiaodaodalang)
 
 [Cost of Living](https://www.expatistan.com/cost-of-living)
 
@@ -49,17 +52,7 @@ Level 3: CDS insurances for MBS/ABS/CDO, CDS², CDS³, ...
 [【止凡】價投講財技四*講下玩弄股權*合股*拆股*咩個案被人溝淡左二萬倍？【財自話語 第三十四話】 - YouTube](https://www.youtube.com/watch?v=xrz22HL9nzE)
 [【止凡】價投講財技五\_炒重組點高班法？莊家有乜辦法令你高位接佢貨？【財自話語 第三十五話】 - YouTube](https://www.youtube.com/watch?v=CKx6vmSLy5M&t=2s)
 
-## Interest rate/Inflation
-
-[关于利率，你需要知道的那些事儿 - YouTube](https://www.youtube.com/watch?v=u3Q9BpZOhP8)
-
-[一口气了解通货膨胀 | 硬核 - YouTube](https://www.youtube.com/watch?v=vHUZVwvvP7o)
-
-- demand pull
-  also includes government's stimulus
-- cost push
-  not causing GDP growth
-- money supply
+[【硬核】苹果海外千亿税款如何避税 | 欧美政府税收反击战 - YouTube](https://www.youtube.com/watch?v=dQ2bjo07aNs)
 
 ## Short selling
 

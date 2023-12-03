@@ -2,7 +2,7 @@
 title: Self Hosting
 description: Usage includes homelab and self-hosted components for commercial projects
 created: 2023-06-10
-updated: 2023-07-09
+updated: 2023-09-29
 tags:
   - devops
 ---
@@ -53,7 +53,7 @@ tags:
 ### Papermark
 
 [Papermark](https://www.papermark.io/)
-[GitHub - mfts/papermark: Papermark is an open-source alternative to DocSend with built-in analytics.](https://github.com/mfts/papermark)
+[mfts/papermark: Papermark is an open-source alternative to DocSend with built-in analytics.](https://github.com/mfts/papermark)
 [Building an Open Source DocSend alternative with Next.js, Vercel Blob and Postgres 🚀 - DEV Community](https://dev.to/mfts/building-an-open-source-docsend-alternative-with-nextjs-vercel-blob-and-postgres-18h0)
 
 ## Photo management

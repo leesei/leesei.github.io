@@ -2,6 +2,7 @@
 title: WordPress (dev)
 description: ""
 created: 2015-06-21
+updated: 2023-09-29
 tags:
   - app
   - cms
@@ -15,6 +16,7 @@ tags:
 
 [WordPress Web Design Tutorials by Envato Tuts+](https://webdesign.tutsplus.com/categories/wordpress)
 [How Does WordPress Work?](https://webdesign.tutsplus.com/articles/how-does-wordpress-work--cms-34542)
+[Set Up Your Blog With WordPress: The Ultimate Guide](https://www.makeuseof.com/tag/set-up-your-blog-with-wordpress-the-ultimate-guide/)
 
 [Why we switched from Wordpress to Node.js - Solitaired](https://solitaired.com/why-we-switched-from-wordpress-to-nodejs)
 

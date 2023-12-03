@@ -2,6 +2,7 @@
 title: Nginx
 description: ""
 created: 2014-12-11
+updated: 2023-09-29
 tags:
   - nginx
   - reverse-proxy

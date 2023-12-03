@@ -2,7 +2,7 @@
 title: Open Source Copyright
 description: ""
 created: 2023-06-28
-updated: 2023-07-27
+updated: 2023-11-26
 tags:
   - copyleft
   - foss
@@ -13,16 +13,15 @@ tags:
 ---
 
 [Open Source Supporters](http://www.iloveopensource.io/)
+[Copyfree: Unfetter your ideas](http://copyfree.org/)
+
 [Open Source Guides | Learn how to launch and grow your project.](https://opensource.guide/)
 [The Unsung Heroes of Modern Software Development – Towards Data Science](https://towardsdatascience.com/the-unsung-heroes-of-modern-software-development-561fc4cb6850) foundations
 [What is Open Source? | opensource.dev](https://opensource.dev/)
 [What is Open Source Software? OSS Explained in Plain English](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/)
 [Open Source Guides | Learn how to launch and grow your project.](https://opensource.guide/)
 [Open Source Software: The Complete Wired Guide | WIRED](https://www.wired.com/story/wired-guide-open-source-software/)
-[nickdesaulniers/What-Open-Source-Means-To-Me](https://github.com/nickdesaulniers/What-Open-Source-Means-To-Me)
-[bevry/goopen](https://github.com/bevry/goopen)
-[Copyfree: Unfetter your ideas](http://copyfree.org/)
-[Some Thoughts on The Downside of Open Source Software - Tom McFarlin](https://tommcfarlin.com/downside-of-open-source/)
+
 [10 Reasons Open Source Is Good for Business | PCWorld](http://www.pcworld.com/article/209891/10_reasons_open_source_is_good_for_business.html)
 [What is open source software? | Opensource.com](https://opensource.com/resources/what-open-source)
 [Why Open Source? — Medium](https://medium.com/@rmangi/why-open-source-ddd1b729113a)
@@ -31,26 +30,15 @@ tags:
 [Open source for lawyers: Costs of open source use - Security Boulevard](https://securityboulevard.com/2019/11/open-source-for-lawyers-costs-of-open-source-use/)
 [The social contract of open source](https://snarky.ca/the-social-contract-of-open-source/)
 
+[Choose an open source license | Choose a License](https://choosealicense.com/)
 [Faces of Open Source](https://www.facesofopensource.com/)
 
-[Home | Software Package Data Exchange (SPDX)](https://spdx.org/)
 [Blue Oak Council](https://blueoakcouncil.org/)
-[ClearlyDefined](https://clearlydefined.io/?sortDesc=true&sort=releaseDate) license and vulnerability database
 [/dev/lawyer](https://writing.kemitchell.com/)
 
 [A Brief History of Open Source](https://maximilianmichels.com/2021/history-of-open-source/)
 [A Brief History of Open Source Software - ConsortiumInfo.orgConsortiumInfo.org](https://www.consortiuminfo.org/open-source-open-standards/a-brief-history-of-open-source-software/)
 [What is open source software? Open source and FOSS explained | InfoWorld](https://www.infoworld.com/article/3429076/what-is-open-source-software-open-source-and-foss-explained.html)
-
-[The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
-[The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/)
-
-[Home - OpenChain](https://www.openchainproject.org/)
-[Blockchain shows open source’s fatal flaw—and a way forward | InfoWorld](https://www.infoworld.com/article/3237167/open-source-tools/blockchain-shows-open-sources-fatal-flawand-a-way-forward.html)
-[Open source isn’t the community you think it is | InfoWorld](https://www.infoworld.com/article/3268001/open-source-tools/open-source-isnt-the-community-you-think-it-is.html)
-[Open source’s existential dilemma: the meaning of ‘free' | InfoWorld](https://www.infoworld.com/article/3279105/open-source-tools/open-source-s-existential-dilemma-the-value-of-free.html)
-[Open source is free - but expensive – xs:code](https://xscode.com/686/open-source-is-free-but-expensive/)
-["Rebuilding the Cathedral" by Nadia Eghbal - YouTube](https://www.youtube.com/watch?v=VS6IpvTWwkQ)
 
 [History of Open Source & FSF,Pt. 1 - Curious Minds Podcast](http://www.cmpod.net/history_of_open_source_pt1/)
 [History of Open Source & Free Software, w/ Richard Stallman & Tim O'Reilly](http://www.cmpod.net/history-open-source-free-software-pt-2-w-special-guests-richard-stallman-tim-oreilly/)
@@ -59,16 +47,37 @@ Unlike the environment RMS experienced in the 60s, the new generation were expos
 This generational gap lead to the division and the birth of OSI.
 OSS, represented by UC Berkeley, is about advancing the state of the art without political overlay.
 
+[The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+[The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/)
+
 [Quantifying the shift toward permissive licensing – Donnie Berkholz's Story of Data](http://redmonk.com/dberkholz/2013/04/02/quantifying-the-shift-toward-permissive-licensing/)
 
 [Free and Open Source software licenses explained - YouTube](https://www.youtube.com/watch?v=UMIG4KnM8xw)
+
+[ErikMcClure/bad-licenses: A compendium of absurd open-source licenses.](https://github.com/ErikMcClure/bad-licenses)
+[Weirdest "Open Source" Software Licences - YouTube](https://www.youtube.com/watch?v=PwMTOUbZ9V4)
 
 ## OSS Project discovery and evaluation
 
 [OSS Port | Find open-source projects](https://www.oss-port.com/)
 [CodeSee – See and understand how your code works](https://www.codesee.io/)
 
-## GPL
+## Commentaries
+
+[Blockchain shows open source’s fatal flaw—and a way forward | InfoWorld](https://www.infoworld.com/article/3237167/open-source-tools/blockchain-shows-open-sources-fatal-flawand-a-way-forward.html)
+[Open source isn’t the community you think it is | InfoWorld](https://www.infoworld.com/article/3268001/open-source-tools/open-source-isnt-the-community-you-think-it-is.html)
+[Open source’s existential dilemma: the meaning of ‘free' | InfoWorld](https://www.infoworld.com/article/3279105/open-source-tools/open-source-s-existential-dilemma-the-value-of-free.html)
+[Open source is free - but expensive – xs:code](https://xscode.com/686/open-source-is-free-but-expensive/)
+[nickdesaulniers/What-Open-Source-Means-To-Me](https://github.com/nickdesaulniers/What-Open-Source-Means-To-Me)
+[bevry-archive/goopen: Go Open. A campaign to help increase awareness and remove FUD about going open](https://github.com/bevry-archive/goopen)
+[Some Thoughts on The Downside of Open Source Software - Tom McFarlin](https://tommcfarlin.com/downside-of-open-source/)
+
+["Rebuilding the Cathedral" by Nadia Eghbal - YouTube](https://www.youtube.com/watch?v=VS6IpvTWwkQ)
+[Why I DONT LIKE Open Source Software w/ Jonathan Blow | Prime Reacts - YouTube](https://www.youtube.com/watch?v=kn59Yn55Pos)
+
+## Copyleft Licenses
+
+### GPL
 
 AGPLv3 added Section 13 "Remote Network Interaction" provision to GPLv3.
 If your work linked to/based on (AGPLv3 s5) GPL/AGPL code, copyleft kicks in.
@@ -91,7 +100,7 @@ If your work linked to/based on (AGPLv3 s5) GPL/AGPL code, copyleft kicks in.
 [Linus Torvalds says GPL v3 violates everything that GPLv2 stood for - YouTube](https://www.youtube.com/watch?v=PaKIZ7gJlRU)
 [licensing - What exactly is Tivoization and why did Linus Torvalds not like it in GPLv3? - Open Source Stack Exchange](https://opensource.stackexchange.com/questions/7020/what-exactly-is-tivoization-and-why-did-linus-torvalds-not-like-it-in-gplv3)
 
-## AGPL
+### AGPL
 
 [GNU Affero General Public License - GNU Project - Free Software Foundation](http://www.gnu.org/licenses/agpl-3.0.html)
 [AGPL: Out of the Shadows - the Affero GPL 3 | Synopsys](https://www.synopsys.com/blogs/software-security/agpl-affero-gpl-3/)
@@ -105,12 +114,18 @@ If your work linked to/based on (AGPLv3 s5) GPL/AGPL code, copyleft kicks in.
 
 [Choosing the iText Solution that is right for you - YouTube](https://www.youtube.com/watch?v=NCwhEWEPV-E)
 
-## Parity
+### Parity
 
 [The Parity Public License](https://paritylicense.com/)
 Like AGPL, but human friendly
 
-## MIT
+## Liberal Licenses
+
+### Apache
+
+Express grant of patent use
+
+### MIT
 
 [/dev/lawyer The MIT License, Line by Line](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html)
 
@@ -180,7 +195,7 @@ It has been a trend to set up "foundations" to take up successful project from e
 [#2: Open Core —Definition, Examples & Tradeoffs – Open Consensus – Medium](https://medium.com/open-consensus/2-open-core-definition-examples-tradeoffs-e4d0c044da7c)
 [#3: COSS Business Model Progressions – Open Consensus – Medium](https://medium.com/open-consensus/3-oss-business-model-progressions-dafd5837f2d)
 
-### Business Source License (BSL)
+### Business Source License (BUSL)
 
 [MariaDB Fixes it's Business Source License With My Help, Releases MaxScale 2.1 Database Routing Proxy – Bruce Perens](https://perens.com/2017/02/14/bsl-1-1/)
 [MariaDB Business Source License (BSL) | MariaDB](https://mariadb.com/bsl-faq-mariadb/)
@@ -223,7 +238,8 @@ It has been a trend to set up "foundations" to take up successful project from e
 [Redis Labs’ Modules License Changes | Redis](https://redis.com/blog/redis-labs-modules-license-changes/)
 [Redis Labs drops Commons Clause for a new license | ZDNet](https://www.zdnet.com/article/redis-labs-drops-commons-clause-for-a-new-license/)
 
-RSAL applies to the modules RediSearch, RedisGraph, RedisJSON, RedisML, and RedisBloom, while the Redis core for example stays open source under the 3-Clause-BSD license.
+RSAL applies to the modules RediSearch, RedisGraph, RedisJSON, RedisML, and RedisBloom, etc... .
+The Redis Core stays open source under the 3-Clause-BSD license.
 
 [Redis modules and the Commons Clause [LWN.net]](https://lwn.net/Articles/763179/)
 [​Redis Labs and Common Clause attacked where it hurts: With open-source code | ZDNet](https://www.zdnet.com/article/redis-labs-and-common-clause-attacked-where-it-hurts-with-open-source-code/)
@@ -277,6 +293,9 @@ Not open source. Not closed source. The Fair Source License allows everyone to s
 
 ## Software BOM (bill of material)
 
+[Home - OpenChain](https://www.openchainproject.org/) Building Trust in the Supply Chain
+[ClearlyDefined](https://clearlydefined.io/?sortDesc=true&sort=releaseDate) license and vulnerability database
+
 [Why The US Government Is Mandating Software Bill Of Materials (SBOM)](https://www.activestate.com/blog/why-the-us-government-is-mandating-software-bill-of-materials-sbom/) US Government requires SBOM for contracted solutions in 2023
 
 [EU attempts to secure software could hurt open source • The Register](https://www.theregister.com/2023/05/12/eu_cyber_resilience_act/) EU's Cyber Resilience Act (CRA) requires requires vendor to ensure their solutions (potentially with open source components) is secure
@@ -293,6 +312,8 @@ Not open source. Not closed source. The Fair Source License allows everyone to s
 
 [OWASP CycloneDX Software Bill of Materials (SBOM) Standard](https://cyclonedx.org/)
 [CycloneDX Specification Overview](https://cyclonedx.org/specification/overview/)
+
+[trailofbits/it-depends: A tool to automatically build a dependency graph and Software Bill of Materials (SBOM) for packages and arbitrary source code repositories.](https://github.com/trailofbits/it-depends) Supports Go, JavaScript, Rust, Python, and C/C++ projects
 
 [Dependency submission - GitHub Docs](https://docs.github.com/en/rest/dependency-graph/dependency-submission?apiVersion=2022-11-28)
 

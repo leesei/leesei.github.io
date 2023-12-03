@@ -2,6 +2,7 @@
 title: React.js (Archives)
 description: Archived React.js notes
 created: 2023-03-21
+updated: 2023-11-10
 tags:
   - archived
   - frontend
@@ -170,6 +171,57 @@ Syntax for defining React Component:
 [bevacqua/ruta3](https://github.com/bevacqua/ruta3)
 [leeluolee/stateman](https://github.com/leeluolee/stateman)
 
+### Animation
+
+[Pose | A truly simple animation library for React, React Native, and Vue](https://popmotion.io/pose/) 😴inactive
+[Amazing React animation with react-pose - João Miguel Cunha - Medium](https://medium.com/@joomiguelcunha/amazing-react-animation-with-react-pose-3b67d9eb6e07)
+
+[React Transition Group](https://reactcommunity.org/react-transition-group/)
+[chenglou/react-motion: A spring that solves your animation problems.](https://github.com/chenglou/react-motion) 😴inactive
+[animatedjs/animated: Declarative Animations Library for React and React Native](https://github.com/animatedjs/animated) 😴inactive
+[FormidableLabs/react-animations: 🎊 A collection of animations for inline style libraries](https://github.com/formidablelabs/react-animations) 😴inactive
+[FormidableLabs/react-shuffle: Animated shuffling of child components on change](https://github.com/formidablelabs/react-shuffle) 😴inactive
+[aholachek/react-flip-toolkit: A lightweight magic-move library for configurable layout transitions](https://github.com/aholachek/react-flip-toolkit) 😴inactive
+[Animating Between Views in React | CSS-Tricks](https://css-tricks.com/animating-between-views-in-react/)
+
+[brunnolou/react-morph: Morphing Ui transitions made simple](https://github.com/brunnolou/react-morph) 😴inactive, shufle
+[Morphing UI Transitions with React Morph | DigitalOcean](https://www.digitalocean.com/community/tutorials/react-react-morph)
+
+[React Transition Group](https://reactcommunity.org/react-transition-group/) 😴inactive
+[reactjs/react-transition-group: An easy way to perform animations when a React component enters or leaves the DOM](https://github.com/reactjs/react-transition-group)
+
+[Home - React Reveal](https://www.react-reveal.com/)
+[rnosov/react-reveal: Easily add reveal on scroll animations to your React app](https://github.com/rnosov/react-reveal) 😴inactive
+
+[renature Documentation](https://formidable.com/open-source/renature/) 😴inactive
+[FormidableLabs/renature: A physics-based animation library for React focused on modeling natural world forces.](https://github.com/FormidableLabs/renature)
+
+## TypeScript React/Redux
+
+[Why TypeScript with React? - Carl's Blog](https://www.carlrippon.com/why-typescript-with-react/)
+[Microsoft/TypeScript-React-Conversion-Guide: A guide for converting a simple JavaScript/React project to TypeScript. Contains both before an after code with the step-by-step process in the README below.](https://github.com/Microsoft/TypeScript-React-Conversion-Guide#typescript-react-conversion-guide)
+
+[TypeScript and React](https://fettblog.eu/typescript-react/)
+[Taking React and Redux to the next level with Typescript - DEV Community 👩‍💻👨‍💻](https://dev.to/leomeloxp/taking-react-and-redux-to-the-next-level-with-typescript-1m84)
+[10++ TypeScript Pro tips/patterns with (or without) React](https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680)
+[Learning TypeScript with React - Part 1 - DEV Community 👩‍💻👨‍💻](https://dev.to/analizapandac/learning-typescript-with-react-part-1-3ohn)
+[Learning TypeScript with React - Part 2 (The what, why and how of interfaces) - DEV Community 👩‍💻👨‍💻](https://dev.to/analizapandac/learning-typescript-with-react-part-2-the-what-why-and-how-of-interfaces-1033)....
+[A type-safe approach to Redux stores in TypeScript - DEV Community 👩‍💻👨‍💻](https://dev.to/resir014/a-type-safe-approach-to-redux-stores-in-typescript--5ajm)
+[Redux 4 + TypeScript 2.9: A type-safe approach - DEV Community 👩‍💻👨‍💻](https://dev.to/resir014/redux-4--typescript-29-a-type-safe-approach-2lf4)
+[Improved Redux type safety with TypeScript 2.8 - Martin Hochel - Medium](https://medium.com/@martin_hotell/improved-redux-type-safety-with-typescript-2-8-2c11a8062575)
+[Notes on TypeScript: Pick, Exclude and Higher Order Components - DEV Community 👩‍💻👨‍💻](https://dev.to/busypeoples/notes-on-typescript-pick-exclude-and-higher-order-components-40cp) series
+[Advanced TypeScript by Example: React Form Carousel](https://medium.com/better-programming/advanced-typescript-by-example-react-form-carousel-ab2545d5a8e3)
+[Writing better Reducers with React and Typescript 3.4](https://blog.usejournal.com/writing-better-reducers-with-react-and-typescript-3-4-30697b926ada)
+
+[React Hooks in TypeScript - James Ravenscroft - Medium](https://medium.com/@jrwebdev/react-hooks-in-typescript-88fce7001d0d)
+[React Render Props in TypeScript - James Ravenscroft - Medium](https://medium.com/@jrwebdev/react-render-props-in-typescript-b561b00bc67c)
+
+[Tinkerer - Converting a React Codebase to Typescript. Part 1: Getting it to compile](http://www.gustavwengel.dk/converting-typescript-to-javascript-part-1)
+[Tinkerer - React To Typescript Part 2: Converting React Components to TypeScript](http://www.gustavwengel.dk/converting-typescript-to-javascript-part-2)
+
+[React Refs with TypeScript - Martin Hochel - Medium](https://medium.com/@martin_hotell/react-refs-with-typescript-a32d56c4d315)
+[How To Structure Your TypeScript + React + Redux App](https://medium.com/swlh/how-to-structure-your-typescript-react-redux-app-877d1eba1c1e)
+
 ## create-react-app
 
 > [STOP USING CREATE REACT APP - YouTube](https://www.youtube.com/watch?v=7m14f0ZzMyY)
@@ -237,6 +289,7 @@ Easiest way: add "proxy" key to `package.json` (for simple proxying)
 [Proxying API Requests in Development | Create React App](https://create-react-app.dev/docs/proxying-api-requests-in-development/#configuring-the-proxy-manually) `src/setupProxy.js` since 2.0
 
 Or install `http-proxy-middleware` and add `src/setupProxy.js` to the project.
+[Why you should use a proxy server with Create React App - LogRocket Blog](https://blog.logrocket.com/why-you-should-use-proxy-server-create-react-app/)
 
 ```js
 const proxy = require("http-proxy-middleware");

@@ -2,7 +2,7 @@
 title: Markdown
 description: ""
 created: 2015-04-23
-updated: 2023-07-27
+updated: 2023-10-28
 tags:
   - comp/lang
   - markdown
@@ -106,8 +106,15 @@ Extensible:
 [Markdown-Wasm, a Very Fast Markdown Parser Written in WebAssembly](https://www.infoq.com/news/2020/10/markdown-wasm-fast-parser/)
 [markdown-wasm demo](https://rsms.me/markdown-wasm/)
 
+[markdown-it-py — markdown-it-py](https://markdown-it-py.readthedocs.io/en/latest/)
+[executablebooks/markdown-it-py: Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. Now in Python!](https://github.com/executablebooks/markdown-it-py)
+
+[Mistune documentation](https://mistune.lepture.com/en/latest/index.html) parse as AST, does not return source line numbers
+[lepture/mistune: A fast yet powerful Python Markdown parser with renderers and plugins.](https://github.com/lepture/mistune)
+
 [yuin/goldmark: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.](https://github.com/yuin/goldmark)
 [yuin/goldmark-emoji: An emoji extension for the goldmark markdown parser](https://github.com/yuin/goldmark-emoji)
+
 [charmbracelet/glamour: Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️](https://github.com/charmbracelet/glamour)
 
 ## Frontmatter

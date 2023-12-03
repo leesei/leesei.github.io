@@ -2,9 +2,11 @@
 title: macOS
 description: ""
 created: 2016-01-03
+updated: 2023-11-02
 tags:
   - app
   - bootcamp
+  - brew
   - macos
   - osx
 ---
@@ -53,7 +55,26 @@ If you don't have Windows install USB:
 
 [Turn Your Keyboard into a Text-Editing Rocket – Owen Caulfield – Medium](https://medium.com/@caulfieldOwen/turn-your-keyboard-into-a-text-editing-rocket-1514d8474d2d)
 
+[Alfred - Productivity App for macOS](https://www.alfredapp.com/)
+
 [AppleScript: The Language of Automation](https://macosxautomation.com/applescript/index.html)
 [Hammerspoon](https://www.hammerspoon.org/) better than AppleScript
 
 [Karabiner - Software for macOS](https://pqrs.org/osx/karabiner/)
+
+## Package Manager
+
+### Homebrew
+
+[The Missing Package Manager for macOS (or Linux) — Homebrew](https://brew.sh/)
+[Homebrew on Linux — Homebrew Documentation](https://docs.brew.sh/Homebrew-on-Linux)
+[Homebrew/brew: 🍺 The missing package manager for macOS (or Linux)](https://github.com/Homebrew/brew)
+
+[Formula Cookbook — Homebrew Documentation](https://docs.brew.sh/Formula-Cookbook)
+
+[braumeister.org](http://braumeister.org/) registry
+
+### MacPorts
+
+[The MacPorts Project -- Home](https://www.macports.org/)
+[Ports | MacPorts](https://ports.macports.org/)

@@ -2,6 +2,7 @@
 title: Horizon Zero Dawn
 description: ""
 created: 2023-06-13
+updated: 2023-09-29
 tags:
   - games
   - horizon-zero-dawn

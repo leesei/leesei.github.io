@@ -2,7 +2,7 @@
 title: Qt
 description: All the tools you need for creating software applications or embedded devices
 created: 2019-09-19
-updated: 2023-08-04
+updated: 2023-10-12
 tags:
   - app
   - qml
@@ -35,6 +35,8 @@ Qt Quick and Qt Quick Controls uses QML, have different styling method (note Qt 
 [Qt GUI C++ Classes | Qt GUI 6.5](https://doc.qt.io/qt-6/qtgui-module.html)
 [Qt Widgets 6.5](https://doc.qt.io/qt-6/qtwidgets-index.html)
 [All Classes | Qt 6.5](https://doc.qt.io/qt-6/classes.html#)
+
+[KDAB - YouTube](https://www.youtube.com/@KDABtv)
 
 ### Legal
 
@@ -178,7 +180,7 @@ Connections (signal/slot)
 [Qt Designer's UI File Format | Qt Designer Manual](https://doc.qt.io/qt-6/designer-ui-file-format.html)
 
 [Using .ui files from Designer or QtCreator with QUiLoader and pyside6-uic - Qt for Python](https://doc.qt.io/qtforpython-6/tutorials/basictutorial/uifiles.html)
-[PySide6.QtUiTools - Qt for Python](https://doc.qt.io/qtforpython-6/PySide6/QtUiTools/index.html)
+[PySide6.QtUiTools - Qt for Python](https://doc.qt.io/qtforpython-6/PySide6/QtUiTools/index.htmlW)
 
 [Qt Tutorials - YouTube](https://www.youtube.com/playlist?list=PLkjbuaHoEQvivMwZNsCI2zdyiBb-fU5VX) Velcode
 
@@ -192,9 +194,23 @@ KDAB
 [Differences between String-Based and Functor-Based Connections | Qt 6.5](https://doc.qt.io/qt-6/signalsandslots-syntaxes.html)
 [The Style Sheet Syntax | Qt Widgets 6.5](https://doc.qt.io/qt-6/stylesheet-syntax.html)
 [Qt Style Sheets Reference | Qt Widgets 6.5](https://doc.qt.io/qt-6/stylesheet-reference.html)
+[Qt Style Sheets Examples | Qt Widgets 6.5](https://doc.qt.io/qt-6/stylesheet-examples.html) customization for different widgets
 
 [Welcome to QDarkStyle’s documentation! — QDarkStyle documentation](https://qdarkstylesheet.readthedocs.io/en/latest/index.html)
 [ColinDuquesnoy/QDarkStyleSheet: A dark style sheet for QtWidgets application](https://github.com/ColinDuquesnoy/QDarkStyleSheet/tree/master)
+
+### QTabWidget/QTabbar
+
+[QTabWidget Class | Qt Widgets 6.5](https://doc.qt.io/qt-6/qtabwidget.html)
+[QTabBar Class | Qt Widgets 6.5](https://doc.qt.io/qt-6/qtabbar.html)
+
+[c++ - How to display tab widget corner widget on the left/right side? - Stack Overflow](https://stackoverflow.com/questions/76386283/how-to-display-tab-widget-corner-widget-on-the-left-right-side)
+
+[QTabBar - Context menu on tab](https://www.qtcentre.org/threads/16703-QTabBar-Context-menu-on-tab) event filter, right click menu; `setContextMenuPolicy(Qt::CustomContextMenu)`
+
+[QTabBar - Context menu on tab](https://www.qtcentre.org/threads/16703-QTabBar-Context-menu-on-tab)
+
+[Qt Style Sheets Examples | Qt Widgets 6.5](https://doc.qt.io/qt-6/stylesheet-examples.html#customizing-qtabwidget-and-qtabbar)
 
 ## Signals and Slots
 
@@ -226,6 +242,8 @@ The name of the project is **Qt for Python** and the name of the module is **PyS
 [Qt for Python - Making a QML Application in Python {tutorial} - YouTube](https://www.youtube.com/watch?v=JxfiUx60Mbg)
 [JulienGrv/awesome-python-qt: A curated list of awesome libraries, frameworks and resources for Qt under Python](https://github.com/JulienGrv/awesome-python-qt)
 [Qt for Python Guide · ess-dmsc/nexus-constructor Wiki](https://github.com/ess-dmsc/nexus-constructor/wiki/Qt-for-Python-Guide)
+
+[PyQt Layouts: Create Professional-Looking GUI Applications – Real Python](https://realpython.com/python-pyqt-layout/)
 
 [PySide2 Tutorial 2022, Create Python GUIs with Qt](https://www.pythonguis.com/pyside2-tutorial/)
 [PySide6 Tutorial 2022, Create Python GUIs with Qt](https://www.pythonguis.com/pyside6-tutorial/)
@@ -263,8 +281,10 @@ Alan D Moore Codes, author of "Mastering GUI Programming with Python"
 [pyqt/examples: Learn to create a desktop app with Python and Qt](https://github.com/pyqt/examples) ❗!important
 
 Code First with Hala
+[Python GUI Projects - YouTube](https://www.youtube.com/playlist?list=PLs3IFJPw3G9LQfo8GYbnPRaD8DKHj9aOJ)
 [PyQt5 tutorials - YouTube](https://www.youtube.com/playlist?list=PLs3IFJPw3G9KhF7BeGOItwoKKLD8e3Dwu)
 [PyQt5 GUI Projects - YouTube](https://www.youtube.com/playlist?list=PLs3IFJPw3G9JhknhI-mfGxcD04lEOIZJX)
+[PyQt5 Full App Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLs3IFJPw3G9LTcNjRVR6BSJwUaoj44rCV)
 [PyQt6 Tutorials - YouTube](https://www.youtube.com/playlist?list=PLs3IFJPw3G9JdAmg2p9kNc9Uo8i8JFh3z)
 
 [dip documentation](https://www.riverbankcomputing.com/static/Docs/dip/) for writing reusable UI component
@@ -297,6 +317,11 @@ Code First with Hala
 
 [Felgo: Build Native Cross-Platform Apps and Games. Rapidly.](https://felgo.com/) personal use, annual turnover < €50k
 [Felgo - Wikiwand](https://www.wikiwand.com/en/Felgo)
+
+## Debugging
+
+[GammaRay™ - KDAB](https://www.kdab.com/development-resources/qt-tools/gammaray/)
+[GammaRay Tutorials - YouTube](https://www.youtube.com/playlist?list=PL6CJYn40gN6itybeSJb5FvRWOxVW5PCUX)
 
 ## Compilation
 

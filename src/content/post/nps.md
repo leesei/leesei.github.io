@@ -2,6 +2,7 @@
 title: Net Promoter Score
 description: ""
 created: 2016-03-19
+updated: 2023-09-29
 tags:
   - web
 ---

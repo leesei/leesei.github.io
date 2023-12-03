@@ -2,7 +2,7 @@
 title: Paradox
 description: ""
 created: 2015-06-18
-updated: 2023-07-23
+updated: 2023-09-29
 tags:
   - paradox
   - philosophy

@@ -2,6 +2,7 @@
 title: CMake
 description: CMake is an extensible, open-source system that manages the build process in an operating system and in a compiler-independent manner.
 created: 2023-05-31
+updated: 2023-09-29
 tags:
   - cmake
   - comp/lang

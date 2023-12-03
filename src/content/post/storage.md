@@ -2,7 +2,7 @@
 title: Storage
 description: ""
 created: 2015-05-11
-updated: 2023-07-27
+updated: 2023-11-17
 tags:
   - comp/hardware
   - harddisk
@@ -90,6 +90,7 @@ More precise writing techniques to increase density of magnetic track
 [SSD ABC Guide – OCZ Forum](http://oczforum.com/staff/meander/OCZ_SSD_ABC_Guide.pdf) PDF
 [Exploring Solid State Drives and 3D NAND - YouTube](https://www.youtube.com/playlist?list=PL6rx9p3tbsMuk0jnC-dBdwb32Z1g7mD0j)
 [Why SSDs Are Big And Cheap - YouTube](https://www.youtube.com/watch?v=ErV-2tlf9Ls) SLC to PLC
+[你的U盘，其实是个监狱｜flash存储原理：固态硬盘，U盘，SD卡 - YouTube](https://www.youtube.com/watch?v=8wGRYxuPVvU)
 
 [SSD 硬件方案/TBW (SATA/SAS/M.2/U.2/U.3/EDSFF)、主控、3D NAND 汇总（持续更新） - 电脑讨论(新) - Chiphell - 分享与交流用户体验](https://www.chiphell.com/thread-2444506-1-1.html)
 
@@ -126,10 +127,13 @@ DRAM is more important than the protocol
 
 ### NAND Cell
 
+[【硬件科普】固态硬盘的缓存是干什么的？有缓存和无缓存有什么区别？ - YouTube](https://www.youtube.com/watch?v=7ZJ4UFxaAZw)
+[How SSD Technology Keeps Getting WORSE! - Intel 660p Review - YouTube](https://www.youtube.com/watch?v=OffzVc7ZB-o) first QLC drive
+[Explaining SSDs: The Price/Performance Trade-off - YouTube](https://www.youtube.com/watch?v=F8k_XIEhKWo)
+
 Cells stores the bits (1 per cell for SLC, 2 for MLC, 3 for [TLC](http://www.anandtech.com/show/5067/understanding-tlc-nand), 4 per cell QLC, 5 per cell PLC).
 Cells are then organized into pages, then pages into blocks.
 Writes is done on pages and erase is done on blocks.
-[How SSD Technology Keeps Getting WORSE! - Intel 660p Review - YouTube](https://www.youtube.com/watch?v=OffzVc7ZB-o) first QLC drive
 
 Samsung's 850 series and Crucial MX300 uses 3D NAND technology that improves performance and durability and overcome density limits of planar NAND.
 [Samsung's 850 Pro solid-state drive reviewed - The Tech Report](http://techreport.com/review/26701/samsung-850-pro-solid-state-drive-reviewed) (V-NAND flash)
@@ -555,10 +559,12 @@ wmic diskdrive get status
 [Know when your drives are failing, with smartd | Linux Journal](https://www.linuxjournal.com/content/know-when-your-drives-are-failing-smartd)
 [Linux OS Service ‘smartd’ – The Geek Diary](https://www.thegeekdiary.com/linux-os-service-smartd/)
 
-## Interface and Bus
+## Interface and Protocol
 
-In the old days of SATA and IDE, interface (the connector) and the bus (the protocol) were one in the same so the distinction was not explicit.
-SSD will easily saturate the bandwidth of older interface. With the adoption of new interfaces, new bus was invented (NVMe/PCIe). And the old protocol are applied to the new interface (SATA/M.2).
+In the old days of SATA and IDE, interface (the connector) and the protocol were one in the same so the distinction was not explicit.
+SSD will easily saturate the bandwidth of older interfaces. With the adoption of new interfaces, new bus and protocol were invented (NVMe/PCIe). And the old protocol are applied to the new interface (SATA/M.2).
+
+[What is the difference between port, bus, protocol and interfaces? - Quora](https://www.quora.com/What-is-the-difference-between-port-bus-protocol-and-interfaces)
 
 [Choosing the right SSD: SATA, M.2, PCIe, and NVMe explained by JJ - YouTube](https://www.youtube.com/watch?v=u-kACJLKNOI)
 [M.2 As Fast As Possible - YouTube](https://www.youtube.com/watch?v=opwON-7J_wI)
@@ -619,6 +625,9 @@ SATA 3.2 – 16 Gb/s (1969 MB/s)
 [NVM Express – scalable, efficient, and industry standard](https://nvmexpress.org/)
 Ditches the SCSI and allow CPU to access NAND like RAM. SCSI Express is doing similar thing. NVMe flash can use M.2 or PCI-E interface.
 
+![PCIe Bandwidth](./_assets/storage/PCIe-bandwidth.png)
+
+[M.2 SSD Adapters & Enclosures - YouTube](https://www.youtube.com/watch?v=Ktqa11VT1xI)
 [Why Are PCIe SSDs So Fast? - Stephen Foskett, Pack Rat](http://blog.fosketts.net/2013/06/12/pcie-ssds-fast/)
 [Weigh the pros and cons of PCIe-based SSD](http://cdn.ttgtmedia.com/CascadingTargetedDownloads/downloads/PCIe%20solid%20state%20storage%20definition.pdf) (PDF)
 
@@ -734,3 +743,9 @@ y = _Data Security Mode_
 ### Seagate’s
 
 [MPECS Inc. Blog: Seagate’s New Model Numbering Scheme](http://blog.mpecsinc.ca/2010/11/seagates-new-model-numbering-scheme.html) (2010)
+
+[Seagate Hard Drives Explained - Ironwolf, EXOs, Barracuda and SkyHawk - What is the Difference? - YouTube](https://www.youtube.com/watch?v=FOCai32nT4Y)
+Barracuda: Consumer High End
+Ironwolf: NAS
+SkyHawk: Surveillance
+EXOs: Enterprise

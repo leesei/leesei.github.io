@@ -2,6 +2,7 @@
 title: Engines
 description: ""
 created: 2015-09-22
+updated: 2023-11-17
 tags:
   - automobile
   - engines
@@ -82,6 +83,9 @@ used in the largest diesel engine
 
 [How Koenigsegg's Tiny Engine Makes 600 Horsepower - Only 3 Cylinders! - YouTube](https://www.youtube.com/watch?v=WwlNqaz9q_0) Koenigsegg FreeValve
 
+[How Engines Work - (See Through Engine in Slow Motion) - Smarter Every Day 166 - YouTube](https://www.youtube.com/watch?v=xflY5uS-nnw)
+[This TRANSPARENT ENGINE is Fascinating (How Engines Work) - Smarter Every Day 292 - YouTube](https://www.youtube.com/watch?v=TbhF7jTLlG4)
+
 [This Brilliant Engine Makes 1000 HP Without Boost! - YouTube](https://www.youtube.com/watch?v=Tq2vrqqlSNg)
 [The Best Way To Compare Car Engines - BMEP - YouTube](https://www.youtube.com/watch?v=bE_1JYrlYYU) Brake Mean Effective Pressure, a fancy way to measure torque per liter
 
@@ -97,8 +101,7 @@ used in the largest diesel engine
 [Engine Configurations - YouTube](https://www.youtube.com/playlist?list=PLbOJRAounbrggHrBi7iG62ipMtuhiZj39) The Engineers Post
 [The W12 Engine - The Science EXPLAINED - YouTube](https://www.youtube.com/watch?v=AcveN3Iplww)
 
-[How Engines Work - (SEE THROUGH ENGINE in SLOW MOTION) - Smarter Every Day 166 - YouTube](https://www.youtube.com/watch?v=xflY5uS-nnw)
-[See Through Engine - YouTube](https://www.youtube.com/playlist?list=PLUBbg7VLSf-NBbeovWtd6I_pbJVpOaDhE)
+[See Through Engine - YouTube](https://www.youtube.com/playlist?list=PLUBbg7VLSf-NBbeovWtd6I_pbJVpOaDhE) Warped Perception
 
 [JZ Vs LS - The Best Engines IN THE WORLD! - YouTube](https://www.youtube.com/watch?v=jSJ6lLwGsNU)
 [Toyota JZ engine - Wikiwand](https://www.wikiwand.com/en/Toyota_JZ_engine)
@@ -356,14 +359,14 @@ first multistage rocket, detach booster in Korolev cross fashion (still used in 
 [有苏联失败的前车之鉴，星舰上满屁股的发动机，能稳定工作吗？【科学火箭叔】 - YouTube](https://www.youtube.com/watch?v=Cf_oVzYupSA)
 [【并非好奇】解密 SpaceX 猛禽火箭發動機工作原理 爲什麽它先進的超出你的想象 - YouTube](https://www.youtube.com/watch?v=7NPEATB8oLA)
 
-![Merlin engine](/_assets/engines/merlin-engine.png)
+![Merlin engine](./_assets/engines/merlin-engine.png)
 
 - open cycle
 - Kerolox: RP-1 (rocket grade kerosene) @-10°C + LOX (liquid oxygen) @-207°C
 - uses pyroph oric T-TEB as ignition fluid
 - uses gas generator for a turbine to spin the main pumps
 
-![Raptor engine](/_assets/engines/raptor-engine.png)
+![Raptor engine](./_assets/engines/raptor-engine.png)
 
 - full flow, staged combustion
 - Methalox: liquid methane @-180°C + LOX (liquid oxygen) @-207°C

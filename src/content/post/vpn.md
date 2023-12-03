@@ -2,7 +2,7 @@
 title: VPN
 description: ""
 created: 2023-04-14
-updated: 2023-07-27
+updated: 2023-11-22
 tags:
   - comp/network
 ---
@@ -15,7 +15,9 @@ tags:
 [zzzgydi/clash-verge: A Clash GUI based on tauri. Supports Windows, macOS and Linux.](https://github.com/zzzgydi/clash-verge)
 
 [AK 【硬核翻墙系列】 - YouTube](https://www.youtube.com/playlist?list=PLB_IY29eVwsU8HwEY-qgqZ8F2fNzBKIy-)
+
 [不良林 - YouTube](https://www.youtube.com/@bulianglin)
+[【进阶•代理模式篇】看懂就能解决 99%的代理问题，详解系统代理、TUN/TAP 代理、真 VPN 代理，clash/v2ray/singbox 虚拟网卡怎么接管系统全局流量？什么是真正的 VPN？看完就知道了 - YouTube](https://www.youtube.com/watch?v=qItL005LUik)
 
 ### Hosted Providers
 
@@ -59,7 +61,7 @@ tags:
 [Alpine Linux set up WireGuard VPN server](https://www.cyberciti.biz/faq/how-to-set-up-wireguard-vpn-server-on-alpine-linux/amp/)
 [Ubuntu 20.04 set up WireGuard VPN server - nixCraft](https://www.cyberciti.biz/faq/ubuntu-20-04-set-up-wireguard-vpn-server/)
 
-[trailofbits/algo: Set up a personal VPN in the cloud](https://github.com/trailofbits/algo) Ansible scripts to setup WireGuard/IPSec
+[trailofbits/algo: Set up a personal VPN in the cloud](https://github.com/trailofbits/algo) Ansible scripts to setup WireGuard+IPSec
 [Meet Algo, the VPN that works | Trail of Bits Blog](https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/)
 [Meet Algo, your personal VPN in the cloud featuring Dan Guido from Trail of Bits (The Changelog #377) |> News and podcasts for developers |> Changelog](https://changelog.com/podcast/377)
 
@@ -72,6 +74,8 @@ tags:
 [Tailscale · Best VPN Service for Secure Networks](https://tailscale.com/)
 
 [Free pricing plans and discounts · Tailscale](https://tailscale.com/kb/1154/free-plans-discounts/)
+
+[Tailnet lock white paper · Tailscale](https://tailscale.com/kb/1230/tailnet-lock-whitepaper/)
 
 ### Twingate
 
@@ -89,6 +93,7 @@ multiple technologies
 
 [What is Clash? | Clash](https://dreamacro.github.io/clash/)
 [Dreamacro/clash: A rule-based tunnel in Go.](https://github.com/Dreamacro/clash)
+[Clash Editor](https://clash.skk.moe/general)
 
 ### OpenVPN/IPSec
 
@@ -129,6 +134,7 @@ multiple technologies
 [Unsafe routes with Nebula :: Blog :: TheOrangeOne](https://theorangeone.net/posts/nebula-unsafe-routes/)
 
 [Nebula, the open source global overlay network VPN solution. - YouTube](https://www.youtube.com/watch?v=94KYUhUI1G0)
+[The Power of Zero-Trust Architecture: Building a Secure Internal Network with Nebula - YouTube](https://www.youtube.com/watch?v=aImSCypCsuw) each peer has its agent (for cert verification) and firewall, no bridging by default
 
 ### NordVPN Meshnet
 

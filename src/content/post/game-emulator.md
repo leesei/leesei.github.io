@@ -2,7 +2,7 @@
 title: Game Emulator
 description: ""
 created: 2017-07-10
-updated: 2023-07-24
+updated: 2023-11-06
 tags:
   - emulator
   - games
@@ -107,11 +107,14 @@ Also available for RPi.
 
 [WinKawaks » Roms - The Official Website Of WinKawaks™ Team](https://www.winkawaks.org/roms/index.htm)
 
+[Ziperto - A Digital Park for Gamers](https://www.ziperto.com/)
+
 [/r/Roms Megathread](https://r-roms.github.io/)
 [Torrent Download All Pc Games Full Setup - Rob Gamers](https://robgamers.com/)
 [Gamers Maze - Free Torrent Download](https://gamersmaze.com/)
 [Emulator ROMs - Download Emulator ROMs Free](https://www.emulator-roms.com/)
 [ROMSFUN.COM | Download ROMs and ISOs of Nintendo, Playstation, XBOX...](https://romsfun.com/) HTTP
+[ROMSPURE.CC - News & Download Nintendo & Playstation Game]2(https://romspure.cc/)
 [Vimm's Lair: The Vault](https://vimm.net/?p=vault) HTTP
 
 Capcom Beat 'Em Up Bundle:

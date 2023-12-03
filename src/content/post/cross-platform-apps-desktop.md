@@ -2,7 +2,7 @@
 title: Cross Platform Apps (Desktop)
 description: ""
 created: 2022-05-03
-updated: 2023-08-04
+updated: 2023-10-28
 tags:
   - app
 ---
@@ -77,6 +77,12 @@ Rust core + TypeScript UI
 ### sciter
 
 [sciter – Multiplatform HTML/CSS UI Engine for Desktop and Mobile Application](http://sciter.com/)
+
+## ElectricSQL
+
+> The standard sync layer for local-first apps
+
+[ElectricSQL - Sync for modern apps](https://electric-sql.com/)
 
 ## Dear ImGui
 
@@ -202,18 +208,18 @@ Rust core + TypeScript UI
 
 > powered by QtWebView
 
+[Hello from NodeGui | NodeGui](https://docs.nodegui.org/)
+[nodegui/nodegui: A library for building cross-platform native desktop applications with Node.js and CSS 🚀. React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org](https://github.com/nodegui/nodegui)
+[nodegui/packer: Package and deploy apps built with NodeGUI to all platforms](https://github.com/nodegui/packer)
+
 [JS Party #96: Performant Node desktop apps with NodeGui featuring Atul R |> News and podcasts for developers |> Changelog](https://changelog.com/jsparty/96)
 [🐕 Announcing NodeGUI and React NodeGUI - Build native desktop apps with Javascript and CSS 🎉 | Blog](https://blog.atulr.com/nodegui-intro/)
 
-[Hello from NodeGui](https://docs.nodegui.org/)
-[nodegui/nodegui: A library for building cross-platform native desktop applications with Node.js and CSS 🚀. For React NodeGui, visit: https://github.com/nodegui/react-nodegui ⚛️](https://github.com/nodegui/nodegui)
-
-[Hello from React NodeGui](https://react.nodegui.org/)
+[Hello from React NodeGui | React NodeGui](https://react.nodegui.org/)
 [nodegui/react-nodegui: Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀](https://github.com/nodegui/react-nodegui)
 
-[nodegui/packer: Package and deploy apps built with NodeGUI to all platforms](https://github.com/nodegui/packer)
-
 [Hello from Svelte NodeGUI | Svelte NodeGUI](https://svelte.nodegui.org/)
+[nodegui/svelte-nodegui: Build performant, native and cross-platform desktop applications with native Svelte + powerful CSS-like styling.🚀](https://github.com/nodegui/svelte-nodegui)
 
 ## Slint
 
@@ -312,18 +318,23 @@ Binding to native GUI widgets.
 [Best Python framework for building a desktop application and GUI - DEV Community 👩‍💻👨‍💻](https://dev.to/codesharedot/best-python-framework-for-building-a-desktop-application-and-gui-58n5)
 [How to create a GUI application with Python | Opensource.com](https://opensource.com/resources/python/gui-frameworks?intcmp=7016000000127cYAAQ)
 [3 UI frameworks for writing user-friendly applications in Python | Enable Sysadmin](https://www.redhat.com/sysadmin/write-GUI-applications-python)
+[5 Best Python GUI Libraries [Pros, Cons, and 5 Things to Consider to Choose] - YouTube](https://www.youtube.com/watch?v=nBkU6TEZ_BI)
 
 [VPython](https://vpython.org/)
 
 [PyForms](https://pyforms.readthedocs.io/en/latest/) consistent UI on desktop, web and terminal
 
-[pywebview](https://pywebview.flowrl.com/)
-[r0x0r/pywebview: Build GUI for your Python program with JavaScript, HTML, and CSS](https://github.com/r0x0r/pywebview)
-
 [EasyGUI — easygui documentation](http://easygui.sourceforge.net/index.html)
 
 [appJar](http://appjar.info/)
 [Building a PDF Splitter Application - Practical Business Python](https://pbpython.com/pdf-splitter-gui.html)
+
+### pywebview
+
+[pywebview](https://pywebview.flowrl.com/)
+[r0x0r/pywebview: Build GUI for your Python program with JavaScript, HTML, and CSS](https://github.com/r0x0r/pywebview)
+
+[HTMX #5: Who Needs Electron!? Supercharge Your Desktop with a Jolt of HTMX, Flask, and PyWebView! - YouTube](https://www.youtube.com/watch?v=5HSz9EVEstI)
 
 ### PySimpleGUI
 

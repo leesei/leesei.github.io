@@ -2,7 +2,7 @@
 title: Linux Desktop
 description: ""
 created: 2014-12-12
-updated: 2023-08-14
+updated: 2023-11-01
 tags:
   - desktop
   - gjs
@@ -877,6 +877,17 @@ ddcutil setvcp --display 1 60 12 # HDMI2
 ```
 
 [Okxa/qddcswitch: A Simple Qt frontend for switching display inputs with ddcutil. - qddcswitch - Codeberg.org](https://codeberg.org/Okxa/qddcswitch)
+
+### D-Bus
+
+[D-Bus - Wikiwand](https://www.wikiwand.com/en/D-Bus)
+[dbus](https://www.freedesktop.org/wiki/Software/dbus/)
+
+[busctl(1) — Arch manual pages](https://man.archlinux.org/man/core/systemd/busctl.1.en)
+
+[The new sd-bus API of systemd](https://0pointer.net/blog/the-new-sd-bus-api-of-systemd.html)
+[godbus/dbus: Native Go bindings for D-Bus](https://github.com/godbus/dbus)
+[sidorares/dbus-native: D-bus protocol client and server for node.js written in native javascript](https://github.com/sidorares/dbus-native)
 
 ### Notification
 

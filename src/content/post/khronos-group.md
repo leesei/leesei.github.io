@@ -2,7 +2,7 @@
 title: Khronos Group
 description: ""
 created: 2015-01-05
-updated: 2023-07-27
+updated: 2023-09-29
 tags:
   - comp/lang
   - opengl

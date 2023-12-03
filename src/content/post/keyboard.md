@@ -2,7 +2,7 @@
 title: Keyboard
 description: ""
 created: 2015-06-15
-updated: 2023-03-22
+updated: 2023-09-29
 tags:
   - comp/hardware
   - logitech

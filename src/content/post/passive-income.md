@@ -2,6 +2,7 @@
 title: Passive Income
 description: ""
 created: 2018-09-05
+updated: 2023-09-29
 tags:
   - finance
 ---

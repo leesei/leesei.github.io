@@ -2,6 +2,7 @@
 title: far-cry
 description: ""
 created: 2023-08-14
+updated: 2023-09-29
 tags:
   - far-cry
   - games

@@ -2,6 +2,7 @@
 title: Optical Illusion
 description: ""
 created: 2019-06-20
+updated: 2023-09-29
 tags:
   - science
 ---
@@ -9,6 +10,7 @@ tags:
 [Optical illusion - Wikiwand](https://www.wikiwand.com/en/Optical_illusion) most (other than mirage) are actually vision illusions
 [海市蜃樓怎麼發生的？神經科學家解析各種「視錯覺」影片與圖像！｜名人專業問答｜ GQ Taiwan - YouTube](https://www.youtube.com/watch?v=gr4WZgo3dbc)
 [你的大腦又在騙你！錯覺讓你看到水往上流、倒著轉的車輪 Why Your Brain Thinks This Water Is Spiralling ｜科普長知識｜ GQ Taiwan - YouTube](https://www.youtube.com/watch?v=akCWvq2zlTs)
+[Can Illusions Teach Us How the Mind Works? - YouTube](https://www.youtube.com/watch?v=BJ6amzHVkeI)
 [How Do Optical Illusions Work?](https://www.verywellmind.com/optical-illusions-4020333)
 [Optical Illusions Drawings, Pictures, and Art | Ancient Illusion](https://www.popularmechanics.com/science/amp31941876/ancient-optical-illusions/)
 [Optical illusions show how we see | Beau Lotto - YouTube](https://www.youtube.com/watch?v=mf5otGNbkuc)

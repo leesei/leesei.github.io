@@ -2,7 +2,7 @@
 title: Computer Hardware
 description: ""
 created: 2016-09-27
-updated: 2023-08-13
+updated: 2023-11-12
 tags:
   - comp/hardware
 ---
@@ -35,12 +35,17 @@ Branch Education
 
 # Analog Computer
 
+> the real world is analog, and digital computers are just an approximation of it
+> analog devices are much more energy efficient (not requiring A-D conversion)
+
 [Analog computer - Wikiwand](https://www.wikiwand.com/en/Analog_computer)
 [What is an Analog Computer? - Definition from Techopedia](https://www.techopedia.com/definition/5955/analog-computer)
 [What is Analog Computer: Definition, Examples, Types, Characteristics, Advantages](https://digitalthinkerhelp.com/what-is-analog-computer-definition-and-its-examples/)
 [Difference between Analog Computer and Digital Computer - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-analog-computer-and-digital-computer/)
 
 [Why Lightbulbs Might Be The Best Invention Ever - YouTube](https://www.youtube.com/watch?v=FU_YFpfDqqA) bulb -> vacuum tube -> amplifier -> digital computer
+
+[Analog Chip Design is an Art. Can AI Help? - YouTube](https://www.youtube.com/watch?v=lNypq1XuZRo) AI for analog circuit design
 
 Harmonic analyzer: integration
 Differential analyzer
@@ -54,7 +59,8 @@ Analytical Engine
 [The Most Powerful Computers You've Never Heard Of - YouTube](https://www.youtube.com/watch?v=IgF3OX8nT0w)
 [The World's First True Computer Still Hasn't Been Built - YouTube](https://www.youtube.com/watch?v=rXdvKm6cri4)
 
-[We're Building Computers Wrong - YouTube](https://www.youtube.com/watch?v=GVsUOuSjvcg) AI history
+[Analog computing will take over 30 billion devices by 2040. Wtf does that mean? | Hard Reset - YouTube](https://www.youtube.com/watch?v=6AgkTdQXFTY)
+[Future Computers Will Be Radically Different (Analog Computing) - YouTube](https://www.youtube.com/watch?v=GVsUOuSjvcg) AI history
 [Not Your Father’s Analog Computer](https://spectrum.ieee.org/not-your-fathers-analog-computer)
 
 [Why Algorithms Suck and Analog Computers are the Future - De Gruyter Conversations](https://blog.degruyter.com/algorithms-suck-analog-computers-future/)
@@ -92,6 +98,7 @@ your kids play Candy Crush on this
 
 [Anatomy of a Motherboard - TechSpot](https://www.techspot.com/article/1965-anatomy-motherboard/)
 [PC Motherboard Sizes as Fast As Possible - YouTube](https://www.youtube.com/watch?v=Tbeh1eRDmsk)
+[PC Motherboard Evolution - YouTube](https://www.youtube.com/watch?v=sewt2pqc3us)
 [PC Motherboard Evolution - YouTube](https://www.youtube.com/watch?v=sewt2pqc3us)
 
 [ATX - Wikiwand](https://www.wikiwand.com/en/ATX)
@@ -142,22 +149,9 @@ A4 机箱: GPU 背靠底板
 
 ---
 
-# RAM
+# Memory/RAM
 
-[DDR DRAM FAQs And Troubleshooting Guide | Tom's Hardware](https://www.tomshardware.com/reviews/ddr-dram-faq,4154.html)
-[What Are Memory Timings? CAS Latency, tRCD, tRP, & tRAS (Pt 1) | GamersNexus - Gaming PC Builds & Hardware Benchmarks](https://www.gamersnexus.net/guides/3333-memory-timings-defined-cas-latency-trcd-trp-tras)
-[Don't waste money chasing RAM speed for gaming on AMD or Intel | PC Gamer](https://www.pcgamer.com/does-ram-speed-matter-gaming-amd-intel/) DDR4@3600MHz is still the sweet spot in 2022
-
-[How Do Memory Timings Work? - YouTube](https://www.youtube.com/watch?v=Yed-a9vqTYc)
-[【硬件科普】高频内存为什么要打开 XMP？详解内存条 SPD 与 XMP - YouTube](https://www.youtube.com/watch?v=KC4CVyWXjRM)
-
-[DDR5 is FINALLY HERE... and I've got it - YouTube](https://www.youtube.com/watch?v=aJEq7H4Wf6U)
-[DDR5 導讀~邁入新世代記憶體 DDR5 入門篇 - YouTube](https://www.youtube.com/watch?v=cKqq4O7qVTU)
-
-## Unified Memory
-
-[How “Unified Memory” Speeds Up Apple’s M1 ARM Macs](https://www.howtogeek.com/701804/how-unified-memory-speeds-up-apples-m1-arm-macs/amp/)
-[Unified Memory for CUDA Beginners | NVIDIA Developer Blog](https://developer.nvidia.com/blog/unified-memory-cuda-beginners/)
+[[computer-memory]]
 
 ---
 
@@ -223,6 +217,9 @@ Since CPU and GPU both takes 12V, make sure the 12V rail (not the total) can sup
 [PSUs 101: A Detailed Look Into Power Supplies | Tom's Hardware](https://www.tomshardware.com/reviews/power-supplies-101,4193.html)
 [Anatomy of a Power Supply Unit (PSU) - TechSpot](https://www-techspot-com.cdn.ampproject.org/v/s/www.techspot.com/amp/article/1967-anatomy-psu/)
 [How Power Supplies Work - Turbo Nerd Edition - YouTube](https://www.youtube.com/watch?v=i9ZnaA8DZDs)
+[Explaining PC Power Supplies - YouTube](https://www.youtube.com/watch?v=NQoLFIuJBGQ)
+
+[電源供應器 @ 港都狼窩 WolfLSI's Den :: 痞客邦 ::](https://wolflsi.pixnet.net/blog/category/942282)
 [電源測試文閱讀小指南 Part II @ 港都狼窩 WolfLSI's Den :: 痞客邦 ::](https://wolflsi.pixnet.net/blog/post/67908465)
 
 [PSU Hierarchy 2023 [PC Power Supply Tier List] - GPU Mag](https://www.gpumag.com/psu-hierarchy/)
@@ -324,6 +321,7 @@ Gamers Nexus
 [【果言科技】什麼是動圈耳機？談談技術優缺和一些誤解 - TechApple.com](https://www.techapple.com/archives/10102)
 [【果言科技】單元多就是王道？淺談動鐵耳機的發聲原理 - TechApple.com](https://www.techapple.com/archives/11133)
 [Why this purchase is SO important for LMG - YouTube](https://www.youtube.com/watch?v=ZwPLhyUgm-g)
+[听个歌为什么要外接“小尾巴”？真的能让音乐更好听吗？【柴知道】 - YouTube](https://www.youtube.com/watch?v=el4NBqkfhWk)
 
 [米家有品](https://home.mi.com/app/shop/content?aid=p7e225039e1127013&v=1512382412&from=singlemessage&trace=m1z1-8793-80)
 **动圈耳机（电动式）**：目前绝大多数的耳机耳塞都属此类，原理类似于普通音箱，处于永磁场中的线圈与振膜相连，线圈在信号电流驱动下带动振膜发声。动圈式耳机效率比较高，大多可为音响上的耳机输出驱动。

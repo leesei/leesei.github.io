@@ -2,13 +2,13 @@
 title: VPS Hosting
 description: ""
 created: 2015-07-26
-updated: 2023-08-01
+updated: 2023-09-29
 tags:
   - digital-ocean
-  - vps
-  - web
   - hostinger
   - linode
+  - vps
+  - web
 ---
 
 [[aws#EC2]]

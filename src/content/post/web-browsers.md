@@ -2,6 +2,7 @@
 title: Web Browser
 description: ""
 created: 2017-06-16
+updated: 2023-09-29
 tags:
   - javascript/runtime
   - web

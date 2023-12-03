@@ -2,6 +2,7 @@
 title: Vite
 description: Next Generation Frontend Tooling
 created: 2023-06-10
+updated: 2023-09-29
 tags:
   - bundler
   - vite

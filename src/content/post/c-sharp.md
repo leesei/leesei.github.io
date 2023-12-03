@@ -2,7 +2,7 @@
 title: C#
 description: ""
 created: 2020-04-23
-updated: 2023-08-10
+updated: 2023-09-29
 tags:
   - c-sharp
   - comp/lang
@@ -24,9 +24,11 @@ C# is an ECMA standard with different implementations
 [What is the difference between C# and .NET? - Stack Overflow](https://stackoverflow.com/questions/2724864/what-is-the-difference-between-c-sharp-and-net)
 C# is the programming language, it requires a runtime to target to (.NET/UWP for Microsoft's implementation)
 .NET covers the .NET framework libraries and the common language runtime for .NET assemblies (one of C#'s target). The .NET CLR supports multiple languages (C++, C#, F#, VB) and a unified development flow in CLI, e.g. `dotnet run app`. It is initially all about cross platform (console/server) applications.
+[dotnet/csharplang: The official repo for the design of the C# programming language](https://github.com/dotnet/csharplang)
 [Introduction - C# language specification | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/introduction)
 [Pattern matching - C# 7.0 specification proposals | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-7.0/pattern-matching)
 [C# 9: Value Objects and Simpler Code -- Visual Studio Magazine](https://visualstudiomagazine.com/articles/2021/04/07/csharp-9.aspx?m=1)
+[What’s Next in C# - YouTube](https://www.youtube.com/watch?v=D8-jIdLKCdA) 2023-08, record, pattern matching
 
 [C# docs - get started, tutorials, reference. | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [samples/csharp at master · dotnet/samples](https://github.com/dotnet/samples/tree/master/csharp)
@@ -189,7 +191,9 @@ dotnet script init
 [Naming Guidelines - Framework Design Guidelines | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/naming-guidelines)
 [Names of Namespaces - Framework Design Guidelines | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-namespaces)
 
-## Keywords
+## Syntax/Built-ins
+
+### Keywords
 
 [C# Keywords | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/)
 
@@ -208,7 +212,7 @@ dotnet script init
 [out parameter modifier - C# Reference | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/out-parameter-modifier)
 [ref keyword - C# Reference | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/ref)
 
-## String
+### String
 
 [String.Format Method (System) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.string.format?view=netcore-3.1)
 [\$ - string interpolation - C# reference | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated)
@@ -220,7 +224,18 @@ dotnet script init
 
 [String Format for DateTime [C#]](https://www.csharp-examples.net/string-format-datetime/)
 
-## LINQ
+### Records
+
+modifier for class/struct to be like a value
+record class's properties are init only
+but structs are mutable by design as they are not shared, use `readonly record struct` for immutability
+value-based equality semantic (instead of reference)
+
+[C# 9.0 - Introduction To Init-Only Property](https://www.c-sharpcorner.com/article/c-9-0-introductions-to-init-only-properties/)
+[Use record types - C# tutorial - C# | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/tutorials/records)
+[C# 9.0 - Introduction To Record Types](https://www.c-sharpcorner.com/article/c-sharp-9-0-introduction-to-record-types/)
+
+### LINQ
 
 [Language-Integrated Query (LINQ) (C#) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/)
 [Language Integrated Query (LINQ) in C# | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/linq/)
@@ -256,7 +271,7 @@ class Program
 }
 ```
 
-## Attributes
+### Attributes
 
 > associating information with code in a declarative way, like annotations of other languages
 
@@ -269,7 +284,30 @@ Take note of `Attribute`'s `AttributeUsageAttribute` as to where it can be appli
 
 [Attribute Class (System) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.attribute?view=netcore-3.1)
 
-## switch/pattern matching
+### Exceptions
+
+[The proper usages of Exceptions in C# - NDepend](https://blog.ndepend.com/the-proper-usages-of-exceptions-in-c/)
+[.Net Exceptions Best Practices - When Catch or Throw Exception](https://hamidmosalla.com/2018/02/28/net-exception-best-practices/)
+
+[common exceptions - elmah.io Blog | elmah.io](https://blog.elmah.io/tag/common-exceptions/) category
+
+[.net - How to rethrow InnerException without losing stack trace in C#? - Stack Overflow](https://stackoverflow.com/questions/57383/how-to-rethrow-innerexception-without-losing-stack-trace-in-c/40586566#40586566)
+
+#### CSE
+
+Corrupted State Exceptions from unmanaged code, from the documentation this is not forwarded to managed code
+[CLR Inside Out - Handling Corrupted State Exceptions | Microsoft Docs](https://docs.microsoft.com/en-us/archive/msdn-magazine/2009/february/clr-inside-out-handling-corrupted-state-exceptions)
+[HandleProcessCorruptedStateExceptionsAttribute Class (System.Runtime.ExceptionServices) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.runtime.exceptionservices.handleprocesscorruptedstateexceptionsattribute?view=netcore-3.1)
+[c# - Gracefully handling corrupted state exceptions in .NET Core - Stack Overflow](https://stackoverflow.com/questions/48682489/gracefully-handling-corrupted-state-exceptions-in-net-core) `$env:COMPlus_legacyCorruptedStateExceptionsPolicy`
+[Access Violation in Marshal.StructureToPtr is not translated to the AccessViolationException · Issue #13805 · dotnet/runtime](https://github.com/dotnet/runtime/issues/13805)
+[Debugging System.AccessViolationException - DllImport hell | elmah.io](https://blog.elmah.io/debugging-system-accessviolationexception/) save Dump and `WinDbg`
+[microsoft/clrmd: Microsoft.Diagnostics.Runtime is a set of APIs for introspecting processes and dumps.](https://github.com/microsoft/clrmd) dump viewer
+
+### Collections
+
+[How to Choose the Right .NET Collection Class? | DotNetCurry](https://www.dotnetcurry.com/csharp/1466/csharp-dotnet-collection-class)
+
+### switch/pattern matching
 
 [Use pattern matching features to extend data types | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/pattern-matching)
 [Moving from the switch statement to switch expressions (C# 8) – csharp.christiannagel.com](https://csharp.christiannagel.com/2019/08/14/moving-from-the-switch-statement-to-switch-expressions-c-8/)
@@ -312,7 +350,7 @@ namespace cli
 }
 ```
 
-## Interface
+### Interface
 
 [Jeremy Bytes: A Closer Look at C# 8 Interfaces](https://jeremybytes.blogspot.com/2019/09/a-closer-look-at-c-8-interfaces.html)
 
@@ -428,29 +466,6 @@ struct TcpKeepAliveConfiguration
 [In-depth .NET Memory Profiling - .NET Memory Profiler](https://memprofiler.com/)
 [Optimizing garbage collection in a high load .NET service | by Max Nalsky | The Startup | Medium](https://medium.com/swlh/optimizing-garbage-collection-in-a-high-load-net-web-service-3bb620b444a7)
 [microsoft/perfview: PerfView is a CPU and memory performance-analysis tool](https://github.com/Microsoft/perfview)
-
-## Exceptions
-
-[The proper usages of Exceptions in C# - NDepend](https://blog.ndepend.com/the-proper-usages-of-exceptions-in-c/)
-[.Net Exceptions Best Practices - When Catch or Throw Exception](https://hamidmosalla.com/2018/02/28/net-exception-best-practices/)
-
-[common exceptions - elmah.io Blog | elmah.io](https://blog.elmah.io/tag/common-exceptions/) category
-
-[.net - How to rethrow InnerException without losing stack trace in C#? - Stack Overflow](https://stackoverflow.com/questions/57383/how-to-rethrow-innerexception-without-losing-stack-trace-in-c/40586566#40586566)
-
-### CSE
-
-Corrupted State Exceptions from unmanaged code, from the documentation this is not forwarded to managed code
-[CLR Inside Out - Handling Corrupted State Exceptions | Microsoft Docs](https://docs.microsoft.com/en-us/archive/msdn-magazine/2009/february/clr-inside-out-handling-corrupted-state-exceptions)
-[HandleProcessCorruptedStateExceptionsAttribute Class (System.Runtime.ExceptionServices) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.runtime.exceptionservices.handleprocesscorruptedstateexceptionsattribute?view=netcore-3.1)
-[c# - Gracefully handling corrupted state exceptions in .NET Core - Stack Overflow](https://stackoverflow.com/questions/48682489/gracefully-handling-corrupted-state-exceptions-in-net-core) `$env:COMPlus_legacyCorruptedStateExceptionsPolicy`
-[Access Violation in Marshal.StructureToPtr is not translated to the AccessViolationException · Issue #13805 · dotnet/runtime](https://github.com/dotnet/runtime/issues/13805)
-[Debugging System.AccessViolationException - DllImport hell | elmah.io](https://blog.elmah.io/debugging-system-accessviolationexception/) save Dump and `WinDbg`
-[microsoft/clrmd: Microsoft.Diagnostics.Runtime is a set of APIs for introspecting processes and dumps.](https://github.com/microsoft/clrmd) dump viewer
-
-## Collections
-
-[How to Choose the Right .NET Collection Class? | DotNetCurry](https://www.dotnetcurry.com/csharp/1466/csharp-dotnet-collection-class)
 
 ## Concurrency
 

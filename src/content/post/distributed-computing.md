@@ -2,6 +2,7 @@
 title: Distributed Computing
 description: ""
 created: 2016-09-21
+updated: 2023-09-29
 tags:
   - web
 ---
@@ -192,7 +193,7 @@ For PC it's easiest to install the [prebuilt binary](https://arrayfire.com/downl
 [openmp - GCC Wiki](https://gcc.gnu.org/wiki/openmp)
 
 [OpenMP Task Parallelism for Faster Genomic Data Processing](https://www.openmp.org/wp-content/uploads/OpenMP-Task-Parallelism-for-Faster-Genomic-Data-Processing.pdf)
-[OpenMP Parallelization and Optimization of Graph-Based Machine Learning Algorithms](/_assets/opencv/IWOMP2016-final.pdf)
+[OpenMP Parallelization and Optimization of Graph-Based Machine Learning Algorithms](./_assets/opencv/IWOMP2016-final.pdf)
 [Advancement of Computing on Large Datasets via Parallel Computing and Cyberinfrastructure](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=5350&context=etd)
 
 [OpenMP » ADMIN Magazine](http://www.admin-magazine.com/HPC/Articles/Parallelizing-Loops-with-OpenMP)

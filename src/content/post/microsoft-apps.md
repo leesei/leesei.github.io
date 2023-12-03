@@ -2,6 +2,7 @@
 title: Microsoft Apps
 description: ""
 created: 2020-08-23
+updated: 2023-09-29
 tags:
   - apps
   - microsoft

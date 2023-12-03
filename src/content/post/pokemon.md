@@ -2,6 +2,7 @@
 title: Pokémon
 description: ""
 created: 2021-10-11
+updated: 2023-09-29
 tags:
   - anime
 ---
@@ -10,12 +11,13 @@ tags:
 [Pokemon Timeline (New Sword and Shield Multiverse) - YouTube](https://www.youtube.com/watch?v=alxVx9TR0Ts)
 [【寶可夢回憶錄】EP.38 大吾已經快五十歲?寶可夢遊戲時間線整理 日月 劍盾【SHINN】 - YouTube](https://www.youtube.com/watch?v=ZL4CiYQSG5A)
 [Timeline of Pokémon - Wikiwand](https://www.wikiwand.com/en/Timeline_of_Pok%C3%A9mon)
+[The Untold Secrets of Pokémon’s Monster Mythology | Monstrum - YouTube](https://www.youtube.com/watch?v=zHCGdyhHlRs)
 
 [【SHINN 聊寶可夢】 - YouTube](https://www.youtube.com/playlist?list=PLSJJe1V0GHK5jRHbRvFaUAif84nfTlSfd)
-[TheAuraGuardian - YouTube](https://www.youtube.com/channel/UCTUMam4bUNLz8mdPcaFiBpg)
-[BIG BIGGG - YouTube](https://www.youtube.com/channel/UCSi3cVjbwI65gHQyfKBwIoA/featured)
-[Capijun - YouTube](https://www.youtube.com/channel/UC9NXuvE2qgzT1lokLC7ycQg)
-[MandJTV - YouTube](https://www.youtube.com/channel/UCSAYHSNaY5_UEol4_frPurg)
+[TheAuraGuardian - YouTube](https://www.youtube.com/@TheAuraGuardian)
+[BIG BIGGG - YouTube](https://www.youtube.com/@bigbiggg666)
+[Capijun - YouTube](https://www.youtube.com/@KaPiJun)
+[MandJTV - YouTube](https://www.youtube.com/@MandJTV)
 
 [Pokémon - Wikiwand](https://www.wikiwand.com/en/Pok%C3%A9mon)
 
@@ -25,9 +27,12 @@ tags:
 [Bulbagarden : The original Pokémon community](https://bulbagarden.net/)
 [Serebii.net - Where Legends Come To Life](https://www.serebii.net/)
 
-[Squash Clay - YouTube](https://www.youtube.com/c/SquashClay%EC%AA%BC%EB%AC%BC%EC%AA%BC%EB%AC%BC%ED%81%B4%EB%A0%88%EC%9D%B4)
+[Squash Clay - YouTube](https://www.youtube.com/@squashclay)
 
 [The Smart Pokemon Trainer (and Scyther) - YouTube](https://www.youtube.com/playlist?list=PLmsMGFIWAJdJ1nceYOGUO3fqUtfm3slyt)
+
+[n0Rtist - YouTube](https://www.youtube.com/@n0rtist)
+[About Pseudo-Legendary Pokemon - YouTube](https://www.youtube.com/watch?v=qQhrEY0sIUk)
 
 ### Videos
 
@@ -45,12 +50,12 @@ tags:
 ### Types
 
 [Type - Bulbapedia, the community-driven Pokémon encyclopedia](https://bulbapedia.bulbagarden.net/wiki/Type)
-[![Types Icon](/_assets/pokemon/types_icons.png)](https://bulbapedia.bulbagarden.net/wiki/Type#Icons)
+[![Types Icon](./_assets/pokemon/types_icons.png)](https://bulbapedia.bulbagarden.net/wiki/Type#Icons)
 
 STAB: Same Type Attack Bonus (1.5x)
 
 [Type/Type chart - Bulbapedia, the community-driven Pokémon encyclopedia](https://bulbapedia.bulbagarden.net/wiki/Type/Type_chart) type effectiveness
-[![Types Effectiveness](/_assets/pokemon/type_effectiveness.png)](https://bulbapedia.bulbagarden.net/wiki/Type/Type_chart#Generation_VI_onward)
+[![Types Effectiveness](./_assets/pokemon/type_effectiveness.png)](https://bulbapedia.bulbagarden.net/wiki/Type/Type_chart#Generation_VI_onward)
 
 ### Games
 

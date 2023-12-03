@@ -2,6 +2,7 @@
 title: Shell Sharing
 description: ""
 created: 2015-01-14
+updated: 2023-09-29
 tags:
   - app
   - asciinema

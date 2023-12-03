@@ -2,6 +2,7 @@
 title: Fresh
 description: ""
 created: 2023-03-08
+updated: 2023-09-29
 tags:
   - deno
   - typescript

@@ -2,6 +2,7 @@
 title: PHP Packages
 description: ""
 created: 2023-03-27
+updated: 2023-09-29
 tags:
   - comp/lang
   - php
@@ -55,6 +56,8 @@ tags:
 [Carbon - A simple PHP API extension for DateTime.](https://carbon.nesbot.com/)
 
 ## Database/ORM
+
+[[sql#ORM (or not)]]
 
 [Medoo - The lightweight PHP database framework to accelerate development.](https://medoo.in/)
 

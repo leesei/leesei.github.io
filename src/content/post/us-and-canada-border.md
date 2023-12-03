@@ -2,7 +2,7 @@
 title: US and Canada border
 description: ""
 created: 2015-03-14
-updated: 2023-07-22
+updated: 2023-09-29
 tags:
   - maps
   - politics

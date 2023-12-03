@@ -2,6 +2,7 @@
 title: Social Coding
 description: ""
 created: 2015-07-02
+updated: 2023-11-02
 tags:
   - comp/lang
 ---
@@ -30,6 +31,7 @@ tags:
 [[Excalidraw]]
 
 [Sketchpad - Draw, Create, Share!](https://sketchpad.app/en/)
+[Free Online Whiteboard for Real-Time Collaboration | Canva](https://www.canva.com/online-whiteboard/)
 [Free Online Whiteboard | Collaborate in Real Time | Miro](https://miro.com/online-whiteboard/#)
 [FigJam is an online whiteboard for teams to explore ideas together](https://www.figma.com/figjam/)
 
@@ -40,6 +42,7 @@ tags:
 
 [The online code editor for web apps. Powered by Visual Studio Code. - StackBlitz](https://stackblitz.com/)
 
+[OneCompiler - Write, run and share code online | Free online compiler with 60+ languages and databases](https://onecompiler.com/) multi-language, compiled language and frameworks
 [RunKit is Node prototyping](https://runkit.com/home) JavaScript, with npm support (originally Tonic)
 [WebpackBin](http://www.webpackbin.com/)
 [RequireBin](http://requirebin.com/) JavaScript, with npm support

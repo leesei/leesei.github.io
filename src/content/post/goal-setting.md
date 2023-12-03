@@ -2,6 +2,7 @@
 title: Goal Setting
 description: ""
 created: 2017-06-06
+updated: 2023-09-29
 tags:
   - business
 ---

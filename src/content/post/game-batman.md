@@ -2,6 +2,7 @@
 title: Batman Games
 description: ""
 created: 2018-01-10
+updated: 2023-09-29
 tags:
   - batman
   - games

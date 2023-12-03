@@ -1,8 +1,8 @@
 ---
 title: Learn to code
-description: ""
+description: Learn how to code
 created: 2014-12-08
-updated: 2023-08-12
+updated: 2023-12-02
 tags:
   - comp/lang
   - learning
@@ -18,16 +18,22 @@ tags:
 [[computer-fundamentals]]
 [[compiler]]
 
-> split `c-lang`, `nim`, `swift`, `v-lang`
+[Learn to Code the Slow Way | Boot.dev](https://blog.boot.dev/education/learn-to-code-the-slow-way/)
+[Why You Should Learn To Program the HARD WAY - YouTube](https://www.youtube.com/watch?v=DZkbDCSdC1Q)
+[The BEST Way To Become A Software Engineer - YouTube](https://www.youtube.com/watch?v=icwvzPez_mc)
 
-Learn how to code
-The first part covers learning in general, call for spin-off.
+- "Short cuts makes long delays." - Pippin
+- It's preferable to learn a breath of languages, rather than depth in only one language.
+- Tutorials aren't for learning, they demonstrates how something is done.
+- Becoming a software engineer is NOT a "get-rich-quick" scheme. It's a "get-upper-middle-class-slow" scheme.
 
 [Code Cartoons](https://code-cartoons.com/)
 [Home - The Renegade Coder](https://therenegadecoder.com/)
 [Devhints — TL;DR for developer documentation](https://devhints.io/)
 [Hacker Noon](https://hackernoon.com/)
+
 [Developer Roadmaps - roadmap.sh](https://roadmap.sh/)
+[kamranahmedse/developer-roadmap: Interactive roadmaps, guides and other educational content to help developers grow in their careers.](https://github.com/kamranahmedse/developer-roadmap)
 
 [Programming Languages To Learn In 2020 To Boost Your Career As A Software Developer - DEV Community 👩‍💻👨‍💻](https://dev.to/zaiste/programming-languages-to-learn-in-2020-to-boost-your-career-as-a-software-developer-56ll)
 [Best GitHub learning repositories for developers](https://analyticsindiamag.com/best-github-learning-repositories-for-developers/)
@@ -308,6 +314,7 @@ Calling convention, what register of the CPU are used
 
 [strager - YouTube](https://www.youtube.com/@strager_) C++, Rust
 [Low Level Learning - YouTube](https://www.youtube.com/@LowLevelLearning) low level, security
+[Dreams of Code - YouTube](https://www.youtube.com/@dreamsofcode) Rust, Python, system
 [Jacob Sorber - YouTube](https://www.youtube.com/@JacobSorber) C, embedded system
 [Dave's Garage - YouTube](https://www.youtube.com/@DavesGarage) C, Windows C, IoT
 
@@ -370,6 +377,12 @@ Mostly paid contents:
   these are sub-milestones within the development team
   QA can test on RC for completed features and bug fixes
 - requirements update is done via feature change request
+
+## Plain Text
+
+> [[unicode]]
+
+[The Unreasonable Effectiveness Of Plain Text - YouTube](https://www.youtube.com/watch?v=WgV6M1LyfNY) ❗!important, plain text is easy to maintain and scalable, manage with git repo
 
 ## Loren Ipsum
 
@@ -525,6 +538,10 @@ Cause a contradiction if self-referencing
 [[design-patterns]]
 [[microservice]]
 
+[Software Architecture - The Difference Between Architecture and Design](https://codeburst.io/software-architecture-the-difference-between-architecture-and-design-7936abdd5830)
+[Software Design and Architecture | Coursera](https://www.coursera.org/specializations/software-design-architecture)
+[Minimum Viable Architecture • Randy Shoup • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=9Q7GANXn02k)
+
 [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 [The Rule of Three](http://blog.codinghorror.com/rule-of-three/)
 [Programming Should Be More than Coding](http://www.infoq.com/presentations/programming-design-coding)
@@ -567,12 +584,6 @@ Cause a contradiction if self-referencing
 [BeckDesignRules](https://martinfowler.com/bliki/BeckDesignRules.html)
 
 [缓存更新的套路 | | 酷 壳 - CoolShell](https://coolshell.cn/articles/17416.html)
-
-### Hexagonal Architecture
-
-[Hexagonal architecture (software) - Wikiwand](<https://www.wikiwand.com/en/Hexagonal_architecture_(software)>)
-[Hexagonal Architecture: What Is It and How Does It Work? - NDepend](https://blog.ndepend.com/hexagonal-architecture/)
-[Hexagonal Architecture - DEV Community](https://dev.to/abh1navv/hexagonal-architecture-3ocl)
 
 ### C4 Model
 
@@ -704,11 +715,15 @@ Language specific optimization can be added when parsing the source code to inte
 Following is are lists of learning resources for the programming languages I'm interested in.
 
 [[c-sharp]]
+[[c-lang]]
+[[flutter#Dart]]
 [[go-lang]]
 [[java]]
 [[javascript-notes]]
 [[julia]]
 [[nodejs-notes]]
+[[swift-lang]]
+[[nim-lang]]
 [[php-lang]]
 [[python-notes]]
 [[regex]]
@@ -803,6 +818,9 @@ Protocol to abstract editor from specific language.
 [aemkei/jsfuck: Write any JavaScript with 6 Characters: []()!+](https://github.com/aemkei/jsfuck)
 [JavaScript Is Weird (EXTREME EDITION) - YouTube](https://www.youtube.com/watch?v=sRWE5tnaxlI)
 
+[Learning to code "Hello, World" in CURSED languages 😰 - YouTube](https://www.youtube.com/watch?v=ehbSTazdhbU)
+[The Perfect Programming Language - YouTube](https://www.youtube.com/watch?v=tDexugp8EmM)
+
 ## Assembly
 
 [[reverse-engineering#Binary Analysis/Malware Analysis/Reverse Engineering]]
@@ -810,16 +828,29 @@ Protocol to abstract editor from specific language.
 [x86 assembly language - Wikiwand](https://www.wikiwand.com/en/X86_assembly_language)
 [x86 calling conventions - Wikiwand](https://www.wikiwand.com/en/X86_calling_conventions)
 
+[Intel® 64 and IA-32 Architectures Software Developer Manuals](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
+
 [Registers in x86 assembly | Infosec Resources](https://resources.infosecinstitute.com/topic/registers/)
 parameters: `rdi`, `rsi`
 return value: `rax` (`eax` for the lower 32 bits, `ah`/`al` for the higher and lower bytes)
+naming: `r` - 64 bits; `e` - 32 bits; no prefix - 16 bits; `h/l` suffix - 8 bits
 
 [Intro to Assembly and Assemblers | Linux.org](http://www.linux.org/threads/intro-to-assembly-and-assemblers.7311/)
 [Gcc: Some Assembly Required | Hackaday](https://hackaday.com/2016/06/08/gcc-some-assembly-required/)
 [Linux: Assembly Required | Hackaday](https://hackaday.com/2016/06/14/linux-assembly-required/)
 
+[Assembly Programming Tutorials - YouTube](https://www.youtube.com/playlist?list=PL0tgH22U2S3HjYU5heBIfWOkKpTOkwkrm)
+
 Dave's Garage
 [Hello, Assembly! Retrocoding the World's Smallest Windows App in x86 ASM - YouTube](https://www.youtube.com/watch?v=b0zxIfJJLAY)
+
+[Assembly, System Calls, and Hardware in C++ - David Sankel - CppNow 2023 - YouTube](https://www.youtube.com/watch?v=7xwjjolDnwg) ❗!important
+
+- calling convention
+- Caller stored/Callee stored
+
+[Creel - YouTube](https://www.youtube.com/@WhatsACreel)
+[Modern x64 Assembly - YouTube](https://www.youtube.com/playlist?list=PLKK11Ligqitg9MOX3-0tFT1Rmh3uJp7kA)
 
 [Program and Data Representation](https://uva-cs.github.io/pdr/readme.html)
 [x86-64bit-ccc-chapter.pdf](https://aaronbloomfield.github.io/pdr/book/x86-64bit-ccc-chapter.pdf)
@@ -830,6 +861,13 @@ Dave's Garage
 
 [you can become a BIG BRAIN assembly programmer in only 10 minutes. (yes, YOU!) - YouTube](https://www.youtube.com/watch?v=6S5KRJv-7RU)
 [you can learn assembly QUICKLY using the rosetta stone technique (arm64 breakdown) - YouTube](https://www.youtube.com/watch?v=vhyettT7sdA)
+
+### flat assembler (FASM)
+
+> "interpreted language" that outputs assembly code
+
+[flat assembler](https://flatassembler.net/)
+[Web in Native Assembly (Linux x86_64) - YouTube](https://www.youtube.com/watch?v=b-q4QBy52AA)
 
 ## Beef
 
@@ -842,389 +880,6 @@ Dave's Garage
 
 [Microsoft/BosqueLanguage: The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle.](https://github.com/Microsoft/BosqueLanguage)
 [Microsoft debuts Bosque – a new programming language with no loops, inspired by TypeScript • The Register](https://www.theregister.co.uk/AMP/2019/04/18/microsoft_bosque_programming_language/)
-
-## C
-
-[[libc]]
-
-History of Programming papers:
-[A History of C++: 1979−1991](http://www.stroustrup.com/hopl2.pdf)
-[Ritchie & Thompson - Creators of C and Unix](https://www.i-programmer.info/history/people/547-ritchie-a-thompson.html)
-[Evolving a language in and for the real world: C++ 1991-2006](http://www.stroustrup.com/hopl-almost-final.pdf)
-[CppCon 2016: Bjarne Stroustrup "The Evolution of C++ Past, Present and Future" - YouTube](https://www.youtube.com/watch?v=_wzc7a3McOs)
-[C++20: An (Almost) Complete Overview - Marc Gregoire - CppCon 2020 - YouTube](https://www.youtube.com/watch?v=FRkJCvHWdwQ)
-[Bartek's coding blog: Resources](https://www.bfilipek.com/p/resources.html?m=1)
-
-[Learn C Programming with Dr. Chuck (feat. classic book by Kernighan and Ritchie) - YouTube](https://www.youtube.com/watch?v=j-_s8f5K30I)
-[CC4E - C Programming for Everybody](https://www.cc4e.com/index.php)
-
-[Fluent C++ - Jonathan Boccara's blog](https://www.fluentcpp.com/)
-[C Constructs That Don't Work in C++](https://lospi.net/c/c++/programming/developing/software/2019/04/28/c-constructs-that-dont-work-in-cpp.html)
-[Plenary: The Beauty and Power of "Primitive" C++ - Bjarne Stroustrup - CppCon 2020 - YouTube](https://www.youtube.com/watch?v=ERzENfQ51Ck)
-
-[C & GUI Programming - The MagPi MagazineThe MagPi Magazine](https://www.raspberrypi.org/magpi/issues/c-gui-programming/) for beginners, using GTK, some advanced concepts are intentionally not covered
-[The C Beginner's Handbook: Learn C Programming Language basics in just a few hours](https://www.freecodecamp.org/news/the-c-beginners-handbook/amp/)
-[Some obscure C features - Pancakes and computers](https://multun.net/obscure-c-features.html)
-[Duff's device - Wikiwand](https://www.wikiwand.com/en/Duff%27s_device)
-[C Is Not a Low-level Language - ACM Queue](https://queue.acm.org/detail.cfm?id=3212479)
-
-[7 Reasons Why You Should Keep Learning C/C++ – Simpliv LLC](https://simpliv.wordpress.com/2019/08/06/7-reasons-why-you-should-keep-learning-c-c/amp/)
-[Learn C The Hard Way](http://c.learncodethehardway.org/book/)
-[Learn C++](http://www.learncpp.com/)
-[Google's C++ Class - Google for Education](https://developers.google.com/edu/c++/)
-[C++ Tutorial for Beginners - Full Course - YouTube](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
-[cppreference.com](https://en.cppreference.com/w/)
-[Learn C with these Raspberry Pi resources - The MagPi MagazineThe MagPi Magazine](https://www.raspberrypi.org/magpi/learn-c-raspberry-pi-resources/)
-[Quick Links - MindView Exceptional Learning Experiences](https://www.mindviewllc.com/quicklinks/#c) Thinking in C++ 2nd ed
-
-[Stupid C++ Tricks - YouTube](https://www.youtube.com/playlist?list=PLF2KJ6Gy3cZ6b3BS9Ep_dKYYJs2_RnEIv)
-[davepl/SafeStrings: Demos the proper use of C safe strings](https://github.com/davepl/SafeStrings)
-
-### STL
-
-[C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#main)
-[C++ Core Guidelines: The Standard Library - ModernesCpp.com](https://www.modernescpp.com/index.php/c-core-guidelines-the-standard-library)
-
-[6 Tips to supercharge C++11 vector performance - A CODER'S JOURNEY](https://www.acodersjourney.com/6-tips-supercharge-cpp-11-vector-performance/)
-[The World Map of C++ STL Algorithms - Fluent C++](https://www.fluentcpp.com/getthemap/)
-
-[KonanM/small_vector: Small small_vector](https://github.com/KonanM/small_vector)
-
-### Debugging
-
-[Valgrind Home](http://www.valgrind.org/)
-[sowson/valgrind: Experimental Version of Valgrind for macOS 10.14.6 Mojave and 10.15.1 Catalina](https://github.com/sowson/valgrind/)
-
-[Keynote Video: Elecia White Finds Treasure In The Memory Map | Hackaday](https://hackaday.com/2021/12/16/keynote-video-elecia-white-finds-treasure-in-memory-map/)
-[五大内存泄露应对之策，好文必看！](https://mp.weixin.qq.com/s?__biz=MjM5ODg5MDIzOQ==&mid=2650491536&idx=1&sn=b674f071c3feb911d623677a065e2546&chksm=becc350089bbbc16395aa929f7d300c4ad4d7cd2c34d15c080c655a08a529feb52b608f73d5e&exptype=unsubscribed_card_1_article_onlinev2_1000w_promotion_level1&expsessionid=2214205324004229121&scene=169&subscene=10000&sessionid=1641647579&clicktime=1641647593&enterid=1641647593&ascene=56&devicetype=android-30&version=28000f41&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=en&exportkey=Aolu7jWf%2FyuUGJrJLAJX70k%3D&pass_ticket=xLZpDXLFVK%2BeNbr8O4hCe0Lpxh2H2ApcZULLx3Kag0eGJgYNgvOu3vqtiZ6xIoPA&wx_header=1)
-
-[LEVEL UP Your C Debugging Skills with THIS Technique Using GDB (its hard CORE) - YouTube](https://www.youtube.com/watch?v=3T3ZDquDDVg)
-[Pleasant debugging with GDB and DDD](https://begriffs.com/posts/2022-07-17-debugging-gdb-ddd.html)
-[Debugging Embedded Systems With GDB? - YouTube](https://www.youtube.com/watch?v=m4agpY_w2y8)
-
-[cyrus-and/gdb-dashboard: Modular visual interface for GDB in Python](https://github.com/cyrus-and/gdb-dashboard)
-
-[Finding Bugs with AddressSanitizer: MSVC Compiler | C++ Team Blog](https://devblogs.microsoft.com/cppblog/finding-bugs-with-addresssanitizer-msvc-compiler/)
-
-[Eliminating Data Races in Firefox - A Technical Report - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2021/04/eliminating-data-races-in-firefox-a-technical-report/)
-
-### Style Guide
-
-[Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-[Google C++ Style Guide is No Good](https://eyakubovich.github.io/2018-11-27-google-cpp-style-guide-is-no-good/)
-[Why isn’t it good to follow Google's C++ style guide? - Quora](https://www.quora.com/Why-isn%E2%80%99t-it-good-to-follow-Googles-C++-style-guide)
-
-[Artistic Style - Index](http://astyle.sourceforge.net/) A Free, Fast, and Small Automatic Formatter for C, C++, C++/CLI, Objective‑C, C#, and Java Source Code
-[VS Code C++ 代码格式化方法(clang-format)\_c++代码格式化\_core571 的博客-CSDN 博客](https://blog.csdn.net/core571/article/details/82867932)
-[Clang-Format Style Options — Clang 17.0.0git documentation](https://clang.llvm.org/docs/ClangFormatStyleOptions.html)
-
-`clang-format -style=microsoft -dump-config > .clang-format`
-
-Disabling warning for MSVC compiler
-
-```c
-#pragma warning(push: 6387)
-#pragma warning(disable: 6387)
-// code that violate 6387
-len_t len = strnlen_s(nullprt, RSIZE_MAX);
-#pragma warning(pop: 6387)
-```
-
-### Modern C++
-
-[Standard C++](https://isocpp.org/)
-[C++ Standard Library - Wikiwand](https://www.wikiwand.com/en/C%2B%2B_Standard_Library)
-[Barry Revzin](https://brevzin.github.io/)
-[Bartek's coding blog](https://www.bfilipek.com/)
-[Modernes C++](http://modernescpp.com/index.php)
-[C++ Stories](https://www.cppstories.com/)
-
-[C++11 FAQ](https://www.stroustrup.com/C++11FAQ.html)
-
-[Modern C++ (2021 Lecture & Tutorials) - YouTube](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRv7VS6fYerEbT4ckBovKur) Cyrill Stachniss
-
-[how Google writes future-proof c++ - YouTube](https://www.youtube.com/watch?v=6lU11IHfJgo)
-
-Dave's Garage
-[Learn Advanced C++ Techniques - YouTube](https://www.youtube.com/playlist?list=PLF2KJ6Gy3cZ6wvmEoUD8x7M3uwIqNbC6Z)
-
-[C/C++ - YouTube](https://www.youtube.com/playlist?list=PLJ_usHaf3fgM5vOBPY-hXAjUy6SbgE-KG) mCoding
-
-[unique_ptr: C++'s simplest smart pointer - YouTube](https://www.youtube.com/watch?v=AmjoK55h68Y)
-[unique_ptr is NOT just for heap allocations | custom deleters - YouTube](https://www.youtube.com/watch?v=mhCMtNWQ_CQ)
-[auto_ptr vs unique_ptr vs shared_ptr vs weak_ptr in C++ - GeeksforGeeks](https://www.geeksforgeeks.org/auto_ptr-unique_ptr-shared_ptr-weak_ptr-in-cpp/)
-
-[cpp-best-practices/cppbestpractices: Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.](https://github.com/cpp-best-practices/cppbestpractices)
-[C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
-[isocpp/CppCoreGuidelines: The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++](https://github.com/isocpp/CppCoreGuidelines)
-
-[AnthonyCalandra/modern-cpp-features: A cheatsheet of modern C++ language and library features.](https://github.com/AnthonyCalandra/modern-cpp-features)
-[Some awesome modern C++ features that every developer should know](https://www.freecodecamp.org/news/some-awesome-modern-c-features-that-every-developer-should-know-5e3bf6f79a3c)
-[What's all the C Plus Fuss? Bjarne Stroustrup warns of dangerous future plans for his C++ • The Register](https://www.theregister.co.uk/AMP/2018/06/18/bjarne_stroustrup_c_plus_plus/)
-[C++20 Is Feature Complete; Here’s What Changes Are Coming | Hackaday](https://hackaday.com/2019/07/30/c20-is-feature-complete-heres-what-changes-are-coming/)
-[Welcome back to C++ - Modern C++ | Microsoft Learn](https://learn.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170)
-
-[现代 C++ 教程: 高速上手 C++ 11/14/17/20 - Modern C++ Tutorial: C++ 11/14/17/20 On the Fly](https://changkun.de/modern-cpp/)
-[changkun/modern-cpp-tutorial: 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/](https://github.com/changkun/modern-cpp-tutorial)
-
-[c++ - What is the difference between 'typedef' and 'using' in C++11? - Stack Overflow](https://stackoverflow.com/questions/10747810/what-is-the-difference-between-typedef-and-using-in-c11)
-[Not your Grandparent's C++ (Evolution of C++) - YouTube](https://www.youtube.com/watch?v=3gbMF1OZ3EU)
-
-[Tune Up Your C++ Knowledge with These Tips | ICS](https://www.ics.com/blog/tune-your-c-knowledge-these-tips)
-[Top 25 C++ API design mistakes and how to avoid them](https://www.acodersjourney.com/top-25-cplusplus-api-design-mistakes-and-how-to-avoid-them/)
-[Bartek's coding blog: C++17 in detail: Summary & Bonus](https://www.bfilipek.com/2017/09/c17-in-detail-summary-bonus.html)
-[Bartek's coding blog: How To Use Vocabulary Types from C++17, Presentation](https://www.bfilipek.com/2019/09/vocabulary-types-talk.html)
-[Bartek's coding blog: 17 Smaller but Handy C++17 Features](https://www.bfilipek.com/2019/08/17smallercpp17features.html)
-
-[Testing a Modern C++ workflow by coding a base85 decoder from scratch](https://medium.com/@germandiagogomez/testing-a-modern-c-workflow-by-coding-a-base85-decoder-from-scratch-c6cde64984a9)
-
-[Common Misconceptions of C++ – Hacker Noon](https://hackernoon.com/common-misconceptions-of-c-4f49f36b92a)
-[Error Handling in C++ or: Why You Should Use Eithers in Favor of Exceptions and Error-codes](https://hackernoon.com/error-handling-in-c-or-why-you-should-use-eithers-in-favor-of-exceptions-and-error-codes-f0640912eb45)
-[A Tour of C++ 17: If Constexpr – Hacker Noon](https://hackernoon.com/a-tour-of-c-17-if-constexpr-3ea62f62ff65)
-[An Improved Thread with C++20 - ModernesCpp.com](http://modernescpp.com/index.php/an-improved-thread-with-c-20)
-[Simplicity: not just for beginners - Kate Gregory [ACCU 2018] - YouTube](https://www.youtube.com/watch?v=O50qTuM5OT0)
-
-[Intel Guide for Developing Multithreaded Applications | Intel® Developer Zone](https://software.intel.com/en-us/articles/intel-guide-for-developing-multithreaded-applications)
-[The Lost Art of C Structure Packing](http://www.catb.org/esr/structure-packing/)
-[A Pragmatic Look at Exception Specifications](http://www.gotw.ca/publications/mill22.htm)
-
-[Bartek's coding blog: Everything You Need to Know About std::variant from C++17](https://www.bfilipek.com/2018/06/variant.html)
-[Bartek's coding blog: Space Game: A std::variant-Based State Machine by Example](https://www.bfilipek.com/2019/06/fsm-variant-game.html)
-[Bartek's coding blog: How To Use std::visit With Multiple Variants](https://www.bfilipek.com/2018/09/visit-variants.html)
-
-[abseil / Tip of the Week #153: Don't use using-directives](https://abseil.io/tips/153)
-
-### POD
-
-[c++ - What are Aggregates and PODs and how/why are they special? - Stack Overflow](https://stackoverflow.com/questions/4178175/what-are-aggregates-and-pods-and-how-why-are-they-special/4178176#4178176)
-[No more plain old data |](https://mariusbancila.ro/blog/2020/08/10/no-more-plain-old-data/)
-
-[C++ named requirements: PODType - cppreference.com](https://en.cppreference.com/w/cpp/named_req/PODType)
-[std::is_pod - cppreference.com](https://en.cppreference.com/w/cpp/types/is_pod)
-
-### #perfmatters
-
-[Bartek's coding blog: Google benchmark library](https://www.bfilipek.com/2016/05/google-benchmark-library.html)
-[google/benchmark: A microbenchmark support library](https://github.com/google/benchmark)
-
-[opcm/pcm: Processor Counter Monitor](https://github.com/opcm/pcm)
-
-[Faster than Rust and C++: the PERFECT hash table - YouTube](https://www.youtube.com/watch?v=DMQ_HcNSOAI)
-
-- Intel vTune
-- `perf record <bin>; perf report`
-- `perf stat -d <bin>` for cache misses
-
-[icl / papi — Bitbucket](https://bitbucket.org/icl/papi/src/master/)
-
-[Nonius: statistics-powered micro-benchmarking framework](https://nonius.io/)
-
-[jemalloc/jemalloc](https://github.com/jemalloc/jemalloc)
-[Scalable memory allocation using jemalloc](https://www.facebook.com/notes/facebook-engineering/scalable-memory-allocation-using-jemalloc/480222803919)
-
-[google/tcmalloc](https://github.com/google/tcmalloc)
-[gperftools/gperftools: Main gperftools repository](https://github.com/gperftools/gperftools)
-
-[​Intel® Threading Building Blocks](https://software.intel.com/content/www/us/en/develop/tools/threading-building-blocks.html)
-[oneapi-src/oneTBB: Official Threading Building Blocks (TBB) GitHub repository. For Commercial Intel® TBB distribution, please click here: https://software.intel.com/en-us/tbb](https://github.com/oneapi-src/oneTBB)
-
-### Embedded languages
-
-[Gravity](https://marcobambini.github.io/gravity/index.html)
-[Welcome – Wren](http://wren.io/)
-
-### Script
-
-[TCC : Tiny C Compiler](http://bellard.org/tcc/)
-[cpi](http://treefrogframework.github.io/cpi/)
-
-### Modules
-
-[C++ Modules Might Be Dead-on-Arrival](https://vector-of-bool.github.io/2019/01/27/modules-doa.html)
-[Are C++ Modules Dead-on-Arrival?](https://vector-of-bool.github.io/2019/03/04/modules-doa-2.html)
-[Daniela Engert - The three secret spices of C++ Modules - Meeting C++ online - YouTube](https://www.youtube.com/watch?v=l_83lyxWGtE)
-
-[Understanding C++ Modules: Part 1: Hello Modules, and Module Units](https://vector-of-bool.github.io/2019/03/10/modules-1.html)
-[Understanding C++ Modules: Part 2: export, import, visible, and reachable](https://vector-of-bool.github.io/2019/03/31/modules-2.html)
-[Understanding C++ Modules: Part 3: Linkage and Fragments](https://vector-of-bool.github.io/2019/10/07/modules-3.html)
-
-### Libraries
-
-[Simplified Wrapper and Interface Generator](http://www.swig.org/index.php) C bindings for various languages
-
-[libmill](http://libmill.org/)
-[libdill](http://libdill.org/) Structured Concurrency for C
-[Libtask: a Coroutine Library for C and Unix](https://swtch.com/libtask/)
-
-[Flow — FoundationDB](https://apple.github.io/foundationdb/flow.html) actor-based concurrency
-
-[jhuckaby/megahash: A super-fast C++ hash table with Node.js wrapper, tested up to 1 billion keys.](https://github.com/jhuckaby/megahash)
-[gperf - GNU Project - Free Software Foundation (FSF)](https://www.gnu.org/software/gperf/)
-[serge-sans-paille/frozen: a header-only, constexpr alternative to gperf for C++14 users](https://github.com/serge-sans-paille/frozen)
-[Frozen - zero cost initialization for immutable containers and various algorithms](https://blog.quarkslab.com/frozen-zero-cost-initialization-for-immutable-containers-and-various-algorithms.html)
-
-[facebook/folly: An open-source C++ library developed and used at Facebook.](https://github.com/facebook/folly) Facebook's standard library
-[ELI5: Folly - Battle-Tested C++ Library](https://developers.facebook.com/blog/post/2021/05/24/eli5-folly-battle-tested-c-plus-plus-library/)
-
-[sheredom/subprocess.h: 🐜 single header process launching solution for C and C++](https://github.com/sheredom/subprocess.h)
-
-#### GUI
-
-[C++ UI Libraries • memdump](https://philippegroarke.com/posts/2018/c++_ui_solutions/)
-[A pretty big list of C++ GUI libraries : cpp](https://www.reddit.com/r/cpp/comments/babfl5/a_pretty_big_list_of_c_gui_libraries/?utm_source=amp&utm_medium=&utm_content=post_body)
-
-[ocornut/imgui](https://github.com/ocornut/imgui)
-Python binding available, see `cross-platform-apps-desktop.md#python`
-[An introduction to the Dear ImGui library](https://blog.conan.io/2019/06/26/An-introduction-to-the-Dear-ImGui-library.html)
-[BEST WAY to make Desktop Applications in C++ - YouTube](https://www.youtube.com/watch?v=vWXrFetSH8w)
-
-[Elements C++ GUI library | Elements is a lightweight, fine-grained, HDPI capable, resolution independent, modular C++ GUI library.](https://cycfi.github.io/elements/)
-[Elements C++ GUI library – Cycfi Research](https://www.cycfi.com/2019/07/photon-micro-gui/)
-
-[Immediate-Mode-UI/Nuklear: A single-header ANSI C immediate mode cross-platform GUI library](https://github.com/Immediate-Mode-UI/Nuklear) bindings on multiple languages
-[wjakob/nanogui: Minimalistic GUI library for OpenGL](https://github.com/wjakob/nanogui#simple-mode) Python binding
-
-[idea4good/GuiLite: ✔️The smallest header-only GUI library(5 KLOC) for all platforms](https://github.com/idea4good/GuiLite) web, embedded
-[LVGL - Light and Versatile Embedded Graphics Library](https://lvgl.io/)
-
-#### CLI
-
-[harrinp/Command-line-guide: Guide to making your first command line app/game](https://github.com/harrinp/Command-line-guide)
-[CLI design Series - Julio Merino](http://julio.meroh.net/series.html#CLI%20design)
-
-[empirical-soft/command-interface: Add a command-line interface to any C++ program](https://github.com/empirical-soft/command-interface)
-
-[LoopPerfect/rxterm: Functional reactive terminals in C++ ⚡⌨️](https://github.com/loopperfect/rxterm)
-[Building Reactive Terminal Interfaces in C++ – Hacker Noon](https://hackernoon.com/building-reactive-terminal-interfaces-in-c-d392ce34e649)
-
-[ncurses - Wikiwand](https://www.wikiwand.com/en/Ncurses)
-[NCURSES Programming HOWTO](http://tldp.org/HOWTO/NCURSES-Programming-HOWTO/)
-[Ncurses programming guide](http://www.cs.ukzn.ac.za/~hughm/os/notes/ncurses.html)
-[NCURSES – New Curses](https://invisible-island.net/ncurses/)
-
-[conio.h - Wikiwand](https://www.wikiwand.com/en/Conio.h) for Windows
-
-#### Boost
-
-[Boost C++ Libraries](http://www.boost.org/)
-[The Boost C++ Libraries](https://theboostcpplibraries.com/) better docs
-[Boost Library Documentation](https://www.boost.org/doc/libs/release/)
-[Boost Getting Started on Unix Variants](https://www.boost.org/doc/libs/release/more/getting_started/unix-variants.html)
-[Official "Boost library" Support for Android and iOS? - Stack Overflow](http://stackoverflow.com/questions/14036311/official-boost-library-support-for-android-and-ios)
-
-[Chapter 21. Boost.Program_options](https://www.boost.org/doc/libs/1_58_0/doc/html/program_options.html)
-[Chapter 63. Boost.ProgramOptions](https://theboostcpplibraries.com/boost.program_options)
-[Boost Command Line Argument Processing « Chuck Knight's Blog](https://chuckaknight.wordpress.com/2013/03/24/boost-command-line-argument-processing/)
-
-[Intrusive and non-intrusive containers - 1.35.0](https://www.boost.org/doc/libs/1_35_0/doc/html/intrusive/intrusive_vs_nontrusive.html)
-[Avoiding game crashes related to linked lists - Code Of Honor](http://www.codeofhonor.com/blog/avoiding-game-crashes-related-to-linked-lists)
-
-Building from source
-
-```sh
-./bootstrap.sh --show-libraries
-./bootstrap.sh --with-python=/usr/bin/python2 --with-libraries=filesystem,python,system,thread
-./b2 install
-```
-
-[Building Boost 32-bit and 64-bit libraries on Windows](http://informilabs.com/building-boost-32-bit-and-64-bit-libraries-on-windows/)
-
-### Package manager
-
-[Does C++ need a universal package manager?](http://pfultz2.com/blog/2017/10/27/universal-package-manager/)
-
-[A Package Manager Manager](https://vector-of-bool.github.io/2018/10/15/pmm.html)
-[vector-of-bool/pmm: It's the C++ Package Manager Manager](https://github.com/vector-of-bool/pmm)
-
-[vector-of-bool/CMakeCM: CMake Community Modules](https://github.com/vector-of-bool/CMakeCM)
-[DDS — dds documentation](https://vector-of-bool.github.io/docs/dds/)
-[A New Decade, A New Tool](https://vector-of-bool.github.io/2020/01/06/new-decade.html)
-
-[xrepo](https://xrepo.xmake.io/#/)
-[xmake-io/xrepo: 🗂️ A cross-platform C/C++ package manager based on Xmake](https://github.com/xmake-io/xrepo)
-[Xrepo: A modern cross-platform C/C++ package manager](https://tboox.org/2020/11/15/xrepo-new-command/)
-
-by vcpkg maintainer
-[CppCon 2019: Robert Schumacher “How to Herd 1,000 Libraries” - YouTube](https://www.youtube.com/watch?v=Lb3hlLlHTrs)
-[CppCon 2018: Robert Schumacher “Don't package your libraries, write packagable libraries!” - YouTube](https://www.youtube.com/watch?v=sBP17HQAQjk)
-
-[[vcpkg]]
-
-#### Conan
-
-[Conan - C and C++ Open Source Package Manager](https://conan.io/)
-[conan-io/conan: Conan - The open-source C and C++ package manager](https://github.com/conan-io/conan)
-
-[C++ Package Management With Conan: Introduction - Ilyas Hamadouche - Medium](https://medium.com/@ilyas.hamadouche/c-package-management-with-conan-introduction-8c7bd928c009)
-
-[JFrog ConanCenter - The Central Repository for C / C++ packages](https://conan.io/center/)
-[Artifactory Community Edition for C/C++ — conan documentation](https://docs.conan.io/en/latest/uploading_packages/artifactory_ce.html)
-
-#### Buckaroo
-
-[Buckaroo - C/C++ Package Manager](https://buckaroo.pm/) 😴inactive
-[Buckaroo — Buckaroo documentation](https://buckaroo.readthedocs.io/en/latest/)
-[LoopPerfect/buckaroo: A C++ package manager that will take you to your happy place 🏝️](https://github.com/LoopPerfect/buckaroo)
-
-[Buckaroo - C/C++ Package Manager – Hacker Noon](https://hackernoon.com/@buckaroo.pm)
-[6 Reasons Why We Distribute C++ Libraries as Source-Code](https://hackernoon.com/6-reasons-why-we-distribute-c-libraries-as-source-code-2dc614d5ef1e)
-[Approaches to C++ Dependency Management, or Why We Built Buckaroo](https://hackernoon.com/approaches-to-c-dependency-management-or-why-we-built-buckaroo-26049d4646e7)
-
-#### hunter
-
-[Hunter: organize freedom — Hunter documentation](https://hunter.readthedocs.io/en/latest/)
-[Brief overview — Hunter documentation](https://hunter.readthedocs.io/en/latest/overview.html)
-[cpp-pm/hunter: CMake driven cross-platform package manager for C/C++.](https://github.com/cpp-pm/hunter)
-
-[Packages — Hunter documentation](https://hunter.readthedocs.io/en/latest/packages.html)
-
-#### cpm
-
-[cpm-cmake/CPM.cmake: 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.](https://github.com/cpm-cmake/CPM.cmake)
-
-[CMake and the Future of C++ Package Management | iboB](https://ibob.bg/blog/2020/01/13/cmake-package-management/)
-[CPM: An Awesome Dependency Manager for C++ with CMake | by Leonardo Lima | The Startup | Medium](https://medium.com/swlh/cpm-an-awesome-dependency-manager-for-c-with-cmake-3c53f4376766)
-
-#### clib
-
-Package manager for C libraries.
-
-[clibs/clib](https://github.com/clibs/clib)
-[Packages · clibs/clib Wiki](https://github.com/clibs/clib/wiki/Packages)
-
-[Introducing Clib — Medium](https://medium.com/@tjholowaychuk/introducing-clib-b32e6e769cb3)
-[The Advent of Clib: the C Package Manager](https://blog.ashworth.in/the-advent-of-clib-the-c-package-manager/)
-
-#### bale/ursus
-
-A transpiler/module system polyfill for C++
-
-[nodeuv/bale](https://github.com/nodeuv/bale)
-[ursus](https://github.com/nodeuv)
-
-### Evented I/O
-
-[libuv|Cross-platform asynchronous I/O](http://libuv.org/) [libuv/libuv](https://github.com/libuv/libuv) used by Node.js, Rust, Luvit, Julia
-[libev](http://software.schmorp.de/pkg/libev.html) used by Phusion Passenger, gevent
-[libevent](http://libevent.org/) used by Chromium, Memcached
-[mozy/mordor](https://github.com/mozy/mordor)
-
-[Boost network performance with libevent and libev](http://www.ibm.com/developerworks/aix/library/au-libev/)
-[libev.schmorp.de/bench.html](http://libev.schmorp.de/bench.html)
-[What's the difference between libev and libevent? - Stack Overflow](http://stackoverflow.com/questions/9433864/whats-the-difference-between-libev-and-libevent)
-[libev and libevent | Concurrency in Python](http://blog.gevent.org/2011/04/28/libev-and-libevent/)
-[Will Do — libevent vs. libev vs. libuv](http://willfaught.com/post/131383132618/libevent-vs-libev-vs-libuv)
-
-[poll vs select vs event-based](https://daniel.haxx.se/docs/poll-vs-select.html)
-[poll vs select | daniel.haxx.se](https://daniel.haxx.se/blog/2010/07/17/poll-vs-select/)
-
-libuv:
-[An Introduction to libuv](http://nikhilm.github.io/uvbook/)
-[unix: remove libev · Issue #485 · joyent/libuv](https://github.com/joyent/libuv/issues/485)
-[Asynchronous I/O in Windows for Unix Programmers](http://tinyclouds.org/iocp-links.html)
-[Kazuho's Weblog: The reasons I stopped using libuv for H2O](http://blog.kazuhooku.com/2014/09/the-reasons-why-i-stopped-using-libuv.html)
-[Do rust web servers use libuv (through libgreen)? or are threads + blocking syscalls faster? any links about the topic? : rust](https://www.reddit.com/r/rust/comments/2l0a4b/do_rust_web_servers_use_libuv_through_libgreen_or/)
-[uvloop: Blazing fast Python networking — magicstack](http://magic.io/blog/uvloop-blazing-fast-python-networking/)
 
 ## Crystal
 
@@ -1251,6 +906,7 @@ Google's langauge for replacing C
 [Carbon (programming language) - Wikiwand](<https://www.wikiwand.com/en/Carbon_(programming_language)>)
 
 [Carbon Language: An experimental successor to C++ - Chandler Carruth - CppNorth 2022 - YouTube](https://www.youtube.com/watch?v=omrY53kbVoA)
+[Carbon Language Successor Strategy: From C++ Interop to Memory Safety - Chandler Carruth - CppNow 23 - YouTube](https://www.youtube.com/watch?v=1ZTJ9omXOQ0) ❗!important, 58:21 bugs, safety and vulnerability
 [Carbon Lang… The C++ killer? - YouTube](https://www.youtube.com/watch?v=-bHK0qmp06c)
 [Carbon Lang First Look & Crash Course | Google's C++ Successor - YouTube](https://www.youtube.com/watch?v=MMxbP8ME2Ag)
 
@@ -1286,10 +942,6 @@ Elm -> ReScript -> F#
 [How Does HashiCorp Vault Work with Kubernetes Secrets? – The New Stack](https://thenewstack.io/how-does-hashicorp-vault-work-with-kubernetes-secrets/)
 
 [Paul Biggar - Dark Lang and Tablecloth powered by Reason - YouTube](https://www.youtube.com/watch?v=EnPodoPzimE) compares OCaml and Elm, overview of the ReasonML ecosystem
-
-## Dart
-
-[[flutter#Dart]]
 
 ## Dex
 
@@ -1359,83 +1011,6 @@ Elm -> ReScript -> F#
 [NekoVM](http://nekovm.org/)
 [A Comparison Of Neko And Lua](http://nekovm.org/lua)
 [doc:begin [NekoVM]](http://nekovm.org/doc/begin)
-
-## Nim
-
-> transpiles to C/C++ code
-> [[v-lang]] seems a better choice
-
-[Nim Programming Language](https://nim-lang.org/)
-[Nim Docs](https://nim-lang.org/documentation.html)
-[Nim in 100 Seconds - YouTube](https://www.youtube.com/watch?v=WHyOHQ_GkNo)
-[Nim Programming Language - YouTube](https://www.youtube.com/channel/UCDAYn_VFt0VisL5-1a5Dk7Q)
-
-[Nim Manual](https://nim-lang.org/docs/manual.html) pragmas (`{. .}`)
-[Nim Standard Library](https://nim-lang.org/docs/lib.html)
-
-```sh
-nim c -r app.nim
-# -d:release release build
-# -d:danger  disable all runtime checks
-```
-
-[Nim Compiler User Guide](https://nim-lang.org/docs/nimc.html)
-[Nim Backend Integration](https://nim-lang.org/docs/backends.html#introduction)
-
-[NimConf 2020 - YouTube](https://www.youtube.com/playlist?list=PLxLdEZg8DRwTIEzUpfaIcBqhsj09mLWHx)
-
-[HookRace - a Nim blog for now](http://hookrace.net/)
-[What is special about Nim? · HookRace - a Nim blog for now](http://hookrace.net/blog/what-is-special-about-nim/)
-[What makes Nim practical? · HookRace - a Nim blog for now](http://hookrace.net/blog/what-makes-nim-practical/)
-[Nim Adventures · HookRace - a Nim blog for now](http://hookrace.net/blog/nim-adventures/)
-[Nim · How I Start.](https://howistart.org/posts/nim/1/index.html)
-[Nim for Beginners - YouTube](https://www.youtube.com/playlist?list=PLvwc2YT9MFOlPPexrsY-t7BNTdg2Vsx06)
-
-[Could Nim Replace Python? - Towards Data Science](https://towardsdatascience.com/could-nim-replace-python-547145afcfd5)
-[Nim language draws from best of Python, Rust, Go, and Lisp | InfoWorld](http://www.infoworld.com/article/3157745/application-development/nim-language-draws-from-best-of-python-rust-go-and-lisp.html) state as of 2017-01
-
-### Packages
-
-[nim-lang/nimble: Package manager for the Nim programming language.](https://github.com/nim-lang/nimble)
-
-[Nim package directory](https://nimble.directory/)
-[Curated Packages · nim-lang/Nim Wiki](https://github.com/nim-lang/Nim/wiki/Curated-Packages)
-[xflywind/awesome-nim: A curated list of awesome Nim frameworks, libraries and software.](https://github.com/xflywind/awesome-nim)
-
-[nim-lang/nimble: Creating Packages](https://github.com/nim-lang/nimble/#creating-packages)
-
-```sh
-nimble init
-```
-
-[doc/testament](https://nim-lang.github.io/Nim/testament.html)
-
-### Memory model
-
-[Nim's Memory Management](https://nim-lang.org/docs/gc.html)
-[The Nim memory model](http://zevv.nl/nim-memory/)
-
-### FFI
-
-[Chapter 8. Interfacing with other languages - Nim in Action](https://livebook.manning.com/book/nim-in-action/chapter-8/)
-[Nim Manual - Dynlib pragma for import](https://nim-lang.org/docs/manual.html#foreign-function-interface-dynlib-pragma-for-import)
-[Binding to C Libraries with Nim](https://gist.github.com/zacharycarter/846869eb3423e20af04dea226b65c18f)
-[What makes Nim practical? · HookRace Blog](http://hookrace.net/blog/what-makes-nim-practical/)
-[Nim wrapping C - Roads Less Taken](http://goran.krampe.se/2014/10/16/nim-wrapping-c/)
-
-```c
-int printf(const char *format, ...);
-```
-
-```nim
-proc printf(format: cstring): cint {.importc, varargs, header: "stdio.h", discardable.}
-printf("My name is %s and I am %d years old!\n", "Ben", 30)
-
-proc init*(flags: uint32): cint {.importc: "SDL_Init", dynlib: libName.}
-```
-
-[nim-lang/c2nim: c2nim is a tool to translate Ansi C code to Nim. The output is human-readable Nim code that is meant to be tweaked by hand before and after the translation process.](https://github.com/nim-lang/c2nim)
-[nimterop/nimterop: Nimterop is a Nim package that aims to make C/C++ interop seamless](https://github.com/nimterop/nimterop)
 
 ## Objective-C
 
@@ -1518,31 +1093,6 @@ The language used by data analysts.
 
 [rbspy docs](https://rbspy.github.io/)
 [rbspy/rbspy: Sampling profiler for Ruby](https://github.com/rbspy/rbspy)
-
-## Swift
-
-[Swift.org - Welcome to Swift.org](https://swift.org/)
-[Swift.org - API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)
-[Swift - Overview - Apple Developer](https://developer.apple.com/swift/)
-[Swift Playgrounds - Apple](https://www.apple.com/swift/playgrounds/)
-
-[Everyone Can Code - Apple](https://www.apple.com/everyone-can-code/)
-[Wolg/awesome-swift: A curated list of awesome Swift frameworks, libraries and software.](https://github.com/Wolg/awesome-swift)
-[matteocrippa/awesome-swift: A collaborative list of awesome Swift libraries and resources. Feel free to contribute!](https://github.com/matteocrippa/awesome-swift)
-
-[Try Swift in the Browser | RunSwift](http://www.runswiftlang.com/)
-[Learn Swift Online | RunSwift](http://www.runswiftlang.com/learn#1)
-
-[12 reasons to learn Apple’s open-source Swift language | Computerworld](http://www.computerworld.com/article/3219732/apple-ios/12-reasons-to-learn-apples-open-source-swift-language.html)
-[Learn Swift: A guide for experienced developers | InfoWorld](https://www.infoworld.com/article/3284445/ios/learn-swift-a-guide-for-experienced-developers.html)
-
-[Swift Programming, More Than Just an ‘Apple Language’ | by Lewis Fairweather | The Startup | Medium](https://medium.com/swlh/swift-programming-more-than-just-an-apple-language-f9333e0cf30b)
-[Export Swift CLI Apps. How to distribute your Command-Line… | by Riccardo Cipolleschi | The Startup | Medium](https://medium.com/swlh/export-swift-cli-apps-f9aaaca08772)
-
-[Swift Development with Visual Studio Code - NSHipster](https://nshipster.com/vscode/)
-
-[x140yu-Developing_iOS_8_Apps_With_Swift · GitHub](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift)
-[Start Developing iOS Apps (Swift): Jump Right In](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
 
 ## Val
 

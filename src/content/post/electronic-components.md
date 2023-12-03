@@ -2,6 +2,7 @@
 title: Electronic Components
 description: ""
 created: 2018-09-12
+updated: 2023-10-31
 tags:
   - electronics
   - maker
@@ -427,7 +428,7 @@ Fine: M-3
 
 [PAM8406 数字功放板](https://item.taobao.com/item.htm?id=557646045620) ¥3.4 (¥2.9)
 
-## Interfaces
+## Interfaces/Protocol
 
 [[automobile#CAN bus]]
 
@@ -478,9 +479,9 @@ RX, TX without clock
 
 [5 分钟看懂!串口 RS232 RS485 最本质的区别！ - YouTube](https://www.youtube.com/watch?v=HKQaYN5Odlk)
 
-### USB Serial
+### USB Serial/UART
 
-[Universal asynchronous receiver-transmitter - Wikiwand](https://www.wikiwand.com/en/Universal_asynchronous_receiver-transmitter) UART
+[Universal asynchronous receiver-transmitter - Wikiwand](https://www.wikiwand.com/en/Universal_asynchronous_receiver-transmitter)
 [Hacker's Guide to UART Root Shells - YouTube](https://www.youtube.com/watch?v=01mw0oTHwxg)
 
 [Which USB to TTL converter Adapter To Chose For Your Arduino Projects?! - YouTube](https://www.youtube.com/watch?v=hE2Yw-fGZRg)
@@ -1032,16 +1033,17 @@ Funduino Joystick Shield
 [Flipper Zero — Portable Multi-tool Device for Geeks](https://flipperzero.one/)
 [flipperdevices/flipperzero-firmware: Flipper Zero firmware source code](https://github.com/flipperdevices/flipperzero-firmware)
 
-[Flipper Zero - Starter Guide - YouTube](https://www.youtube.com/watch?v=MJd6qugqHg8)
-[Flipper Zero - A Hackers Review - YouTube](https://www.youtube.com/watch?v=SuW1CsFU0_8)
-[Flipper Zero: Hottest Hacking Device of 2022? - YouTube](https://www.youtube.com/watch?v=VF3xlAm_tdo)
-
-[This Makes Hacking TOO Easy - Flipper Zero - YouTube](https://www.youtube.com/watch?v=nLIp4wd0oXs)
-[This Makes Hacking TOO Easy - Flipper Zero - YouTube](https://www.youtube.com/watch?v=nLIp4wd0oXs)
-
+[Talking Sasquach - YouTube](https://www.youtube.com/@TalkingSasquach)
 [Flipper Zero Videos - YouTube](https://www.youtube.com/@FlipperZeroVideos)
 
 [Flipper Zero - Starter Guide - YouTube](https://www.youtube.com/watch?v=MJd6qugqHg8)
+[Flipper Zero - A Hackers Review - YouTube](https://www.youtube.com/watch?v=SuW1CsFU0_8)
+
+[This Makes Hacking TOO Easy - Flipper Zero - YouTube](https://www.youtube.com/watch?v=nLIp4wd0oXs)
+
+David Bombal
+[Flipper Zero: Hottest Hacking Device for 2023? - YouTube](https://www.youtube.com/watch?v=VF3xlAm_tdo)
+[Flipper Zero - YouTube](https://www.youtube.com/playlist?list=PLhfrWIlLOoKPBt0vMsvhPAw4_7Qo_lQLK)
 
 #### Custom Firmware
 

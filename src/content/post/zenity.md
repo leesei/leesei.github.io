@@ -2,6 +2,7 @@
 title: Zenity
 description: ""
 created: 2014-12-12
+updated: 2023-09-29
 tags:
   - app
   - gtk

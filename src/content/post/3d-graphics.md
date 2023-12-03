@@ -2,6 +2,7 @@
 title: 3D Graphics
 description: ""
 created: 2019-09-10
+updated: 2023-11-07
 tags:
   - app
   - graphics
@@ -10,11 +11,18 @@ tags:
 
 [[sketchup]]
 
+[Home • FX TD Wiki](http://fxtd.free.fr/)
+
 [Beginners Guide to Learning 3D Computer Graphics - YouTube](https://www.youtube.com/watch?v=VT5oZndzj68)
 [How To Make Triple A Graphics - YouTube](https://www.youtube.com/watch?v=z1wYRHNGQz0)
 [Danny Mac 3D - YouTube](https://www.youtube.com/@DannyMac3d)
 [InspirationTuts - YouTube](https://www.youtube.com/@InspirationTuts)
 [On Mars 3D - YouTube](https://www.youtube.com/@OnMars3D)
+[Arise.Works - YouTube](https://www.youtube.com/@AriseWorks)
+[Acerola - YouTube](https://www.youtube.com/@Acerola_t) game rendering
+
+[Blue Bubble Bursting Pins](https://bubblepins.com/)
+[bubblepins - YouTube](https://www.youtube.com/@bubblepins)
 
 ## CAD
 
@@ -55,6 +63,52 @@ also other low poly tutorials
 [CynicatPro - YouTube](https://www.youtube.com/@CynicatPro)
 
 [I Learn Blender From Scratch and Here's My 30 Day Progress - YouTube](https://www.youtube.com/watch?v=xBr7uW7uC1Y)
+
+## MoonRay
+
+> DreamWorks's production renderer
+
+[MoonRay Production Renderer](https://openmoonray.org/)
+[Features and Functionality - MoonRay Production Renderer](https://openmoonray.org/about)
+[dreamworksanimation/openmoonray: MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer.](https://github.com/dreamworksanimation/openmoonray)
+
+MCRT: Monte-Carlo Ray Tracer
+
+[DreamWorks Animation will open source its MoonRay renderer later this year](https://www.engadget.com/dreamworks-animation-open-source-moonray-renderer-191328980.html)
+[MoonRay - Andrew Pearce, Randy Packer, Mark Jackels, Dan McCann, & Keith Jeffery, DreamWorks - YouTube](https://www.youtube.com/watch?v=PU1WgvC_jbg)
+[Open MoonRay Update - Andrew Pearce & Randy Packer, DreamWorks Animation, LLC - YouTube](https://www.youtube.com/watch?v=Ozd4JqquG3k)
+
+## Volumetric Effects
+
+### OpenVDB
+
+> DreamWorks's file format for volumetric effects
+> Blender and game engines support this format
+
+[OpenVDB](https://www.openvdb.org/)
+
+[OpenVDB Is Overpowered - YouTube](https://www.youtube.com/watch?v=BoS9WHZxFSs)
+[OpenVDB Is A Game Changer | Blender Tutorial - YouTube](https://www.youtube.com/watch?v=3gS2f4-33pE)
+
+[COMPLETE UNREAL ENGINE 5.3 VDB PIPELINE - YouTube](https://www.youtube.com/watch?v=NBUoR_81V_I)
+[Mastering VDB in Unreal Engine 5.3 - YouTube](https://www.youtube.com/watch?v=AhWqmtc0T7s&t=757s)
+
+### EmberGen
+
+[EmberGen: Real-Time Fluid Simulations For Fire, Smoke, And Explosions!](https://jangafx.com/software/embergen/) uses Odin
+
+### Houdini
+
+[Houdini - 3D modeling, animation, VFX, look development, lighting and rendering | SideFX](https://www.sidefx.com/)
+[Houdini doc](https://www.sidefx.com/docs/houdini/index.html)
+
+[Houdini Category • FX TD Wiki](http://fxtd.free.fr/index.php/wiki/category/houdini/)
+
+[Houdini For Beginners - VDB Clouds - YouTube](https://www.youtube.com/watch?v=ISSFTs9O-l4)
+[What is a Volume? in Houdini for Beginners | Core Concepts - YouTube](https://www.youtube.com/watch?v=ONOp1wPLbxc)
+
+[Clouds in Houdini with VOPs - YouTube](https://www.youtube.com/playlist?list=PLFkMNnEYa3APuQXxXA-PF6pZXgPiv3q2Q)
+[Houdini Attributes and VOPs - YouTube](https://www.youtube.com/playlist?list=PLFkMNnEYa3ANKyS62-4j5Ckye3xMMnPhd)
 
 ## Photorealism
 

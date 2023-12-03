@@ -2,6 +2,7 @@
 title: Elastic Beats
 description: ""
 created: 2015-08-03
+updated: 2023-09-29
 tags:
   - elastic-stack
   - web

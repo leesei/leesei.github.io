@@ -2,16 +2,23 @@
 title: Image Optimization
 description: ""
 created: 2016-08-04
+updated: 2023-09-29
 tags:
   - app
   - shell-tools
 ---
+
+[[image-formats]]
 
 [18 image file compression tools tested | Creative Bloq](http://www.creativebloq.com/design/image-compression-tools-1132865)
 [Comparison of all optimisation tools | ImageOptim-CLI](https://jamiemason.github.io/ImageOptim-CLI/)
 
 [ImageOptim — better Save for Web](https://imageoptim.com/mac)
 [ImageOptim alternatives for Windows and Linux](https://imageoptim.com/versions.html)
+[JamieMason/ImageOptim-CLI: Make optimisation of images part of your automated build process](https://github.com/JamieMason/ImageOptim-CLI)
+
+[Trimage (lossless) image compressor](https://trimage.org/) advpng, jpegoptim, optipng and pngcrush
+ImageOptim-inspired, with CLI, much slower and worse compression than `@leesei/imgmini`
 
 [图压 - 简单易用的图片压缩软件](https://tuya.xinxiao.tech/#open-source)
 
@@ -23,10 +30,11 @@ tags:
 
 [toy/image_optim: Optimize images using multiple utilities](https://github.com/toy/image_optim) Ruby
 [spatie/image-optimizer: Easily optimize images using PHP](https://github.com/spatie/image-optimizer) PHP, saving not prominent
+[Image Compression with Golang - DEV Community](https://dev.to/franciscomendes10866/image-compression-with-golang-k2p) Go, `libvips`
+[siiptuo/pio: Optimize images while maintaining the same perceived quality](https://github.com/siiptuo/pio) Rust
+[imager-io/imager: Automated image compression for efficiently distributing images on the web.](https://github.com/imager-io/imager/tree/master) Rust/Docker
 
-[unjs/ipx: High performance, secure and easy to use image proxy based on Sharp and libvips.](https://github.com/unjs/ipx/)
-
-[siiptuo/pio: Optimize images while maintaining the same perceived quality](https://github.com/siiptuo/pio)
+[unjs/ipx: High performance, secure and easy to use image proxy based on Sharp and libvips.](https://github.com/unjs/ipx/) web server
 
 [JPNG.svg (Transparent PNG with JPEG Compression)](https://codepen.io/shshaw/full/LVKEdv?__cf_chl_jschl_tk__=15fe89eba4cfcd91483b5f446e2bd7e5ab144a98-1576653921-0-ARmYaylhbR0Nwzr7Mb1AyZfGpO-GnPHy5k34lS3n7FiDgdgDmphs82JUSbBitFdYosbBbcLbt3SMeNGDXfAg7qcL8aCfPc3aVx-H1FO8IE8lPAt4HL7pB9SqkIHxhSzdVtLbzZvZM_1aCFCBQYIBt4qhNpL3qNW-BW9BW7ywQXFm1hO9iZHbvT3KfbYlS7yH63F4Eh2K7encgLe89AfCvVEkoQckqI-16qekSdQt4PUznsma9fmmpgazM1G3xqO-lmc0gVczow9ykDT2FRLV3m4iCEtJgsKJN0hXf80xaSRyoz0ag-6mn7iimQf2zzl6NTU4Thbs8hz-L11V7PlL1zkjanQpR6aEoGEKHanbXEiM)
 
@@ -49,18 +57,19 @@ jpegoptim -P -p --all-progressive -s -m 90 --no-action <file>
 [A guide to PNG optimization](http://optipng.sourceforge.net/pngtech/optipng.html)
 [This Lossless PNG Optimization You're Probably Not Using Shrunk One File an Extra 39% - Zoompf Web Performance](https://zoompf.com/blog/2014/11/png-optimization)
 
+[pngquant — lossy PNG compressor](https://pngquant.org/) fast, ~70%
+
 [PNGGauntlet](https://pnggauntlet.com/) Combines PNGOUT, OptiPNG, and DeflOpt to create the smallest PNGs
-[PNGOUT Tutorial](http://advsys.net/ken/util/pngout.htm)
+[PNGOUT Tutorial](http://advsys.net/ken/util/pngout.htm) very slow, ~85%
 `pngout pngout.png -k0 out.png`
 
 [OptiPNG Home Page](http://optipng.sourceforge.net/)
-`optipng -preserve -strip all -simulate <file>` default compression is fair enough
+`optipng -preserve -strip all -simulate <file>` default compression is fair enough, ~0%
 [DeflOpt Program: Optimize Compressed Files](http://www.dotnetperls.com/deflopt)
-[pngquant — lossy PNG compressor](https://pngquant.org/)
-[TinyPNG – Compress PNG images while preserving transparency](https://tinypng.com/) use color palette instead
-[PNGCRUSH](https://pmt.sourceforge.io/pngcrush/) very slow, creates larger file ><
+[TinyPNG – Compress PNG images while preserving transparency](https://tinypng.com/) use indexed (color palette)
+[PNGCRUSH](https://pmt.sourceforge.io/pngcrush/) very slow, ~10% to larger file ><
 pingo
-[Advance Projects](http://www.advancemame.it/doc-advpng.html) `advpng`, uses zopflipng, creates larger file ><
+[Advance Projects](http://www.advancemame.it/doc-advpng.html) `advpng`, uses zopflipng, larger file ><
 
 zopflipng
 
@@ -90,12 +99,37 @@ npm i -g imagemin-cli imagemin-mozjpeg imagemin-pngcrush imagemin-pngquant
 imagemin --plugin=pngcrush --plugin=pngquant --plugin=mozjpeg --plugin=gifsicle --plugin=svgo "images/**" "outdir"
 ```
 
-[imgmini - npm](https://www.npmjs.com/package/imgmini) `gulp-image` contains all the binaries
+[imgmini - npm](https://www.npmjs.com/package/imgmini) `gulp-image` contains all the binaries, provides intuitive reporting interface
+
+```
+[12:08:28] ✔ css-mctn_hdr_home.png -> before=130 kB after=45 kB reduced=84.8 kB (65.3%)
+[12:08:29] ✔ css-mfrm_hdr_home.png -> before=181 kB after=62.1 kB reduced=119 kB (65.8%)
+[12:08:36] ✔ frbg_eq22_23_home_s1_M.png -> before=720 kB after=232 kB reduced=488 kB (67.8%)
+[12:08:42] ✔ frbg_eq22_23_home_s1_T.png -> before=900 kB after=262 kB reduced=638 kB (70.9%)
+[12:08:42] ✔ frbg_eq22_23_home_s1_H.png -> before=900 kB after=262 kB reduced=638 kB (70.9%)
+```
+
 [Asikur22/npm-imgmini: Image Minify with Gulp Image.](https://github.com/Asikur22/npm-imgmini) CLI wrapper for `gulp-image`
 
 ```sh
 npm i -g @leesei/imgmini
 find <folder> -type f | xargs -P$(nproc) -- imgmini -s
+```
+
+```js
+// options for `gulp-image`
+{
+  pngquant: true,
+  optipng: false,
+  zopflipng: true,
+  jpegRecompress: false,
+  mozjpeg: true,
+  guetzli: false,
+  gifsicle: true,
+  svgo: true,
+  concurrent: 10,
+  quiet: false, // defaults to false
+}
 ```
 
 [wuwu8ku/imgminify: imgminify](https://github.com/wuwu8ku/imgminify) bundled binaries, custom wrapper

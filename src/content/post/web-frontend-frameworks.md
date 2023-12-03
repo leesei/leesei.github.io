@@ -2,7 +2,7 @@
 title: Web Frontend Frameworks
 description: ""
 created: 2022-08-23
-updated: 2023-04-01
+updated: 2023-09-29
 tags:
   - frontend
   - javascript
@@ -56,6 +56,18 @@ Considerations:
 [I created the exact same app in React and Vue. Here are the differences. [2019 Edition]](https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-2019-edition-42ba2cab9e56)
 [I created the exact same app in Vue and Svelte. Here are the differences.](https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-vue-and-svelte-here-are-the-differences-c649f8d4ce0a)
 [I created the exact same app in React and Svelte. Here are the differences.](https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-svelte-here-are-the-differences-c0bd2cc9b3f8)
+
+## VanJS
+
+> minimal framework that supports CSR, SSR and hydration
+
+[VanJS - A 0.9kB No-JSX Framework Based on Vanilla JavaScript](https://vanjs.org/)
+[vanjs-org/van: 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.](https://github.com/vanjs-org/van)
+
+[vanjs Series' Articles - DEV Community](https://dev.to/artydev/series/23075)
+
+[How UI Frameworks Actually Work - YouTube](https://www.youtube.com/watch?v=Oh2IEVqarHs) 2023-08, source code walk through
+[Rendering Explained in 4 Minutes - YouTube](https://www.youtube.com/watch?v=grUihkwvALg)
 
 ## Mitosis
 

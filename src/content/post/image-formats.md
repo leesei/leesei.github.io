@@ -2,6 +2,7 @@
 title: Image Formats
 description: ""
 created: 2016-08-04
+updated: 2023-10-11
 tags:
   - standard
 ---
@@ -9,6 +10,9 @@ tags:
 [How does Image Compression Work? 46MB 📩 4.07MB || 🖼🖼🖼 to 1/10th their size? - YouTube](https://www.youtube.com/watch?v=Kv1Hiv3ox8I)
 
 [TIFF Tag Reference](http://www.awaresystems.be/imaging/tiff/tifftags.html)
+
+[Is WebP really better than JPEG? – siipo.la](https://siipo.la/blog/is-webp-really-better-than-jpeg)
+[What’s the best lossless image format? PNG, WebP, AVIF, and JPEG XL compared – siipo.la](https://siipo.la/blog/whats-the-best-lossless-image-format-comparing-png-webp-avif-and-jpeg-xl)
 
 ## PNG
 
@@ -19,7 +23,7 @@ tags:
   LZSS (back referencing)
 - Huffman encoding
 - filtering
-  stores differences of pixels, use heuristic to determin filter to be used
+  stores differences of pixels, use heuristic to determine filter to be used
 
 ## JPEG
 
@@ -48,8 +52,11 @@ tags:
 ## QOI
 
 [PhobosLab](https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression)
-[A Super Speedy Lightweight Lossless Compression Algorithm | Hackaday](https://hackaday.com/2021/11/30/a-super-speedy-lightweight-lossless-compression-algorithm/)
 [phoboslab/qoi: The “Quite OK Image” format for fast, lossless image compression](https://github.com/phoboslab/qoi)
+
+[A Super Speedy Lightweight Lossless Compression Algorithm | Hackaday](https://hackaday.com/2021/11/30/a-super-speedy-lightweight-lossless-compression-algorithm/)
+
+[QOI: Quite OK Image Format - YouTube](https://www.youtube.com/playlist?list=PLP29wDx6QmW6jC6t11RKVc2VYzMlWaR3q)
 
 ## OpenEXR
 

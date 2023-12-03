@@ -2,7 +2,7 @@
 title: File Parsing
 description: ""
 created: 2018-08-01
-updated: 2023-08-14
+updated: 2023-09-29
 tags:
   - binary-file
   - parsing

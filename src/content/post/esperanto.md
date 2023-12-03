@@ -2,6 +2,7 @@
 title: Esperanto
 description: ""
 created: 2019-04-20
+updated: 2023-09-29
 tags:
   - esperanto
   - language

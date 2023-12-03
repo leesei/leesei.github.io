@@ -2,6 +2,7 @@
 title: Badges
 description: ""
 created: 2015-05-09
+updated: 2023-09-29
 tags:
   - web/badges
 ---

@@ -2,7 +2,7 @@
 title: Maps
 description: ""
 created: 2016-04-16
-updated: 2023-07-23
+updated: 2023-10-29
 tags:
   - maps
   - science
@@ -43,6 +43,8 @@ tags:
 [BBC - Travel - The world’s oldest medieval map](http://www.bbc.com/travel/gallery/20190324-the-worlds-oldest-medieval-map)
 [File:Carta Marina.jpeg - Wikipedia](https://en.wikipedia.org/wiki/File:Carta_Marina.jpeg)
 
+[World’s FIRST Map of Ancient AFRICA Will Shock You - YouTube](https://www.youtube.com/watch?v=swkZUgqFJxs)
+
 [English counties explained - YouTube](https://www.youtube.com/watch?v=hCc0OsyMbQk) Local Government Act 1972 redefined county, and continually being updated
 
 ## Projections
@@ -52,7 +54,7 @@ tags:
 [Can You Make an Accurate Map? - YouTube](https://www.youtube.com/watch?v=8I_VpC6IuJs)
 [現在的地圖不準確!! 而且存在嚴重偏差!! 究竟問題出在那裡? (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=I7JYtHafvfU)
 
-[The Mathematics of our Universe - YouTube](https://www.youtube.com/watch?v=KT5Sk-62-pg) on curvature (specifically Guassian curvature)
+[The Mathematics of our Universe - YouTube](https://www.youtube.com/watch?v=KT5Sk-62-pg) on curvature (specifically Gaussian curvature)
 
 [What are Map Projections? (And Why They Are Deceiving to the Human Eye) - GIS Geography](https://gisgeography.com/map-projections/)
 [Map Distortion with Tissot's Indicatrix - GIS Geography](https://gisgeography.com/map-distortion-tissots-indicatrix/)
@@ -78,20 +80,41 @@ tags:
 [Azimuthal Projection: Orthographic, Stereographic and Gnomonic - GIS Geography](https://gisgeography.com/azimuthal-projection-orthographic-stereographic-gnomonic/)
 [Using the Mercator map projection | Maphover Interactive World Maps](http://maphover.com.au/mercator-map-projection/)
 
+### Comparison
+
+[Map Projections Explained - YouTube](https://www.youtube.com/watch?v=bpp0xCknQAQ) ❗!important, projection functions, evaluation
+
+- Aesthetics (subjective)
+- Area preservation (regardless of shape)
+- Shape preservation (regardless of area)
+  conformal: angles are preserved, good for navigation
+- Orientation preservation (direction)
+- Accessibility/Practicality
+  ease of use and understand
+
 - [Mercator projection - Wikiwand](https://www.wikiwand.com/en/Mercator_projection)
-  - blows up the earth inside a cylinder (expands towards the polars)
-  - preserves direction and angle (constant true direction), good for navigation by following strict line of map, which is actually not the shortest distance
-  - preserves shapes, distorts distances and land areas
+  - x = a, y = ln(sec(a)+tan(b))
+  - similar to blowing up the earth inside a cylinder (central cylindrical), but expands towards the polars (applying the latitudinal movement bias to longitude)
+  - preserves direction and angle (constant true direction, conformal), good for navigation by following strict line of map, which is actually not the shortest distance
+  - preserves shapes, distorts distances and land areas (greater when the further away from equator)
   - [Web Mercator Tile Visibility / Jake Low / Observable](https://observablehq.com/@jake-low/web-mercator-tile-visibility)
 - Gall-Peters projection
   - preserves areas, distorts shape
 - [Winkel tripel projection - Wikiwand](https://www.wikiwand.com/en/Winkel_tripel_projection)
-  - compromise between area, distance and direction (hence tripel, "triple" in German)
+  - compromise between area, distance and direction distortion (hence tripel, "triple" in German)
   - adopted by National Geographic
 - Miller
   - modification of Mercator
   - corrects for some of the size distortion, but does a good job of retaining the correct shapes
+- Equal Earth 👍
+  - formulation looks complicated, but easy on computer
+  - equal area with less distortion
 - [Equirectangular projection - Wikiwand](https://www.wikiwand.com/en/Equirectangular_projection)
+  - x = long, y = lat
+- Goode Homolosine
+  - based on Sinusoidal projection (x = acos(b), y = b), fixes the skewing by "interrupting" the map (and mixes with Mollweide Elliptical projection)
+  - reverse the latitudinal movement bias
+  - preserves size and distance
 - [Robinson projection - Wikiwand](https://www.wikiwand.com/en/Robinson_projection)
   pseudo-conical Robinson projection
 - Cahill 1909, Cahill-Keyes 1975

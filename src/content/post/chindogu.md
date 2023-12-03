@@ -2,6 +2,7 @@
 title: Chindōgu 珍道具
 description: ""
 created: 2023-04-01
+updated: 2023-09-29
 tags:
   - trivia
 ---

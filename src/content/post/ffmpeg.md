@@ -2,7 +2,7 @@
 title: ffmpeg
 description: A complete, cross-platform solution to record, convert and stream audio and video.
 created: 2015-01-13
-updated: 2023-05-17
+updated: 2023-10-27
 tags:
   - app
   - avconv
@@ -37,6 +37,21 @@ ffmpeg [global options] [[infile options][-i infile]]... {[outfile options] outf
 ```sh
 # capture 10s of frames starting from 5 minute mark
 ffmpeg -ss 05:00 -to 05:10 -i <input> screenshot%05d.png
+```
+
+## screen capture
+
+[Capture/Desktop – FFmpeg](http://trac.ffmpeg.org/wiki/Capture/Desktop)
+[FFmpeg Devices Documentation](https://ffmpeg.org/ffmpeg-devices.html)
+
+```sh
+# default encoding is yuv444 at H.264 Main profile, which is not compatible with Da Vinci Resolve
+
+# Windows
+ffmpeg -f gdigrab -framerate 30 -i title=App -pix_fmt yuv420p -vcodec h264 -profile main out.mp4
+
+# you can use `Capture` UI to select the rect to get the offset and video size
+ffmpeg -f gdigrab -framerate 30 -offset_x 0 -offset_y 0 -video_size 1920x1080 -show_region 1 -i desktop -pix_fmt yuv420p -vcodec h264 -profile main out.mp4
 ```
 
 ## trim clip

@@ -2,7 +2,7 @@
 title: PostgreSQL
 description: The World's Most Advanced Open Source Relational Database
 created: 2023-06-18
-updated: 2023-08-14
+updated: 2023-09-29
 tags:
   - comp/database
   - postgresql
@@ -23,10 +23,11 @@ tags:
 [Why Postgres? | Crunchy Data](https://www.crunchydata.com/why-postgres)
 [Why old-school PostgreSQL is so hip again | InfoWorld](https://www.infoworld.com/article/3240064/sql/why-old-school-postgresql-is-so-hip-again.html)
 
-Multi-version concurrent system
-Provides extension API, provides low layer data store abstraction
-Rows are stored in heap according to row index (think of it as a hidden primary key), create and update are always O(1)
-Indices points to offset in heap and may become stale (needs to be vacuumed)
+- Multi-version concurrent control, new record created upon write
+- Heavy rely on process, each client is a process
+- Provides extension API, provides low layer data store abstraction
+- Rows are stored in heap according to row index (think of it as a hidden primary key), create and update are always O(1)
+- Indices points to offset in heap and may become stale (needs to be vacuumed)
 
 [PG4E - Postgres for Everybody](https://www.pg4e.com/)
 [PostgreSQL for Everybody | Coursera](https://www.coursera.org/specializations/postgresql-for-everybody)

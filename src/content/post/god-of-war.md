@@ -2,13 +2,16 @@
 title: God of War
 description: ""
 created: 2023-08-14
+updated: 2023-10-25
 tags:
   - games
   - god-of-war
 ---
 
+[God of War - Wikiwand](https://www.wikiwand.com/en/God%20of%20War)
+
 [【社长说 20】《战神》白金之后，我决定回顾一下奎爷年轻时的故事 - YouTube](https://www.youtube.com/watch?v=pJorxP78ceQ)
-[战神是如何诞生的？一口气看完《战神》1 代游戏详细剧情 - YouTube](https://www.youtube.com/watch?v=bt_6YomXWoE)
+[一口气看完【战神】全五部，敬我心中最猛的男人——奎托斯 - YouTube](https://www.youtube.com/watch?v=akK85oVnOXc) 1:33:47, 好尸
 [不愧是年度最佳的遊戲！〖遊戲不止〗 - YouTube](https://www.youtube.com/watch?v=1cnp-iGzdJM)
 [The Complete God Of War Timeline - From Ghost of Sparta to World's Best Dad! | The Leaderboard - YouTube](https://www.youtube.com/watch?v=JilCqDzyy8s)
 [最全！戰神劇情解說，九部遊戲與官方漫畫小說全解析。 - YouTube](https://www.youtube.com/watch?v=Lu1g307mwyM)

@@ -2,6 +2,7 @@
 title: Simple Machines
 description: ""
 created: 2015-09-16
+updated: 2023-09-29
 tags:
   - physics
   - science

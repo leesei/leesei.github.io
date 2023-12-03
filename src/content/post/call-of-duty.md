@@ -2,6 +2,7 @@
 title: Call of Duty
 description: ""
 created: 2023-08-13
+updated: 2023-09-29
 tags:
   - cod
   - games

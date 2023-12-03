@@ -2,6 +2,7 @@
 title: Second Brain
 description: ""
 created: 2023-01-13
+updated: 2023-11-22
 tags:
   - learning
 featured: true
@@ -10,6 +11,7 @@ featured: true
 [Personal knowledge management - Wikiwand](https://www.wikiwand.com/en/Personal_knowledge_management)
 [Personal Knowledge Management (PKM)](https://www.nozdrenkov.com/pkm/)
 [🌱 My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden)
+[My Knowledge Wiki 🌿 | Everything I Know](https://wiki.nikiv.dev/)
 
 [Visual PKM - YouTube](https://www.youtube.com/playlist?list=PL6mqgtMZ4NP1emKF-bWvgS5vBD0_NM0v4)
 [学习方法 - 如何构造高效的知识管理系统 ｜ 为什么学了就忘 ｜把书读透的读书方法 ｜ 高效学习方法 - YouTube](https://www.youtube.com/watch?v=5Yn4-aSggI0)
@@ -45,6 +47,9 @@ Map of content is a page that summarize other pages related to it, like a topic 
 [How to Take Digital Notes and Build Your Second Brain in 2021 (With Tiago Forte) - YouTube](https://www.youtube.com/watch?v=MlBQhdqmaQc)
 CODE (creation): Capture, Organize, Distill, Express
 PARA (storage): Project, Areas, Resources, Archives
+
+[How to Take Smart Notes - Summary, Notes and Highlights | Alex Hyett](https://www.alexhyett.com/book-notes/how-to-take-smart-notes/)
+[Building a Second Brain - Summary, Notes and Highlights | Alex Hyett](https://www.alexhyett.com/book-notes/building-a-second-brain/)
 
 [Home | Johnny•Decimal](https://johnnydecimal.com/) decimal is not the key, discover topics and tags of your knowledge
 I use graph view and use scripts to analyze the frontmatters

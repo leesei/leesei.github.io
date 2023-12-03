@@ -2,7 +2,7 @@
 title: Svelte
 description: Svelte is a _compiler_ for frontend applications
 created: 2019-12-16
-updated: 2023-07-12
+updated: 2023-11-02
 tags:
   - frontend
   - javascript
@@ -15,7 +15,7 @@ tags:
 
 [Svelte • Cybernetically enhanced web apps](https://svelte.dev/)
 [Introduction / Basics • Svelte Tutorial](https://svelte.dev/tutorial/basics)
-[Introduction / Welcome to Svelte • Svelte Tutorial](https://learn.svelte.dev/)
+[Introduction / Welcome to Svelte • Svelte Tutorial](https://learn.svelte.dev/) built with [[web-container]]
 [sveltejs/svelte: Cybernetically enhanced web apps](https://github.com/sveltejs/svelte)
 
 It does not use virtual-DOM diffing. The generated code requires a thin run-time (think jQuery).
@@ -28,6 +28,7 @@ Svelte invalidates variables at build time to trigger a re-render. Have built-in
 
 Svelte 2 has better DX than React Hook
 Svelte 3 adopted idea similar to React Hook
+Svelte 5 introduces runes (`$`) to make Svelte reactivity (compiler magic) more explicit
 
 [Frameworks without the framework: why didn't we think of this sooner?](https://svelte.dev/blog/frameworks-without-the-framework)
 [The Philosophy of Svelte](https://blog.scottlogic.com/2021/01/18/philosophy-of-svelte.html)
@@ -44,12 +45,26 @@ Svelte 3 adopted idea similar to React Hook
 [A Guide to the Svelte Framework | Toptal](https://www.toptal.com/front-end/svelte-framework-guide)
 [teimurjan/svelte-login-form](https://github.com/teimurjan/svelte-login-form)
 
-## Commentary
+## Svelte 5
+
+> bete in 2023-09
+
+[Introducing runes](https://svelte.dev/blog/runes)
+
+- remove the need for using `store` in `.js`
+- powered by signals, become more like SolidJS
+
+[Svelte 5 Surprised Me - YouTube](https://www.youtube.com/watch?v=FLQVIiaNeSk)
+[Svelte 5: Introducing Runes... with Rich Harris - YouTube](https://www.youtube.com/watch?v=RVnxF3j3N8U)
+[Don't Sleep on Svelte 5 - YouTube](https://www.youtube.com/watch?v=DgNWssn2vpc) replace store with signals
+
+## Commentaries
 
 [Vercel and Svelte: A Perfect Match for Web Developers – The New Stack](https://thenewstack.io/vercel-and-svelte-a-perfect-match-for-web-developers/) Svelte creator hired by Vercel @2021-12
 [Why Typescript and Svelte are a match made in heaven](https://www.sanity.io/guides/using-typescript-with-svelte)
 
 [Why Svelte is the most loved JS framework with Rich Harris - YouTube](https://www.youtube.com/watch?v=q5T11E29lNQ) 1:31:23, 2023-05
+[Animation With Svelte (with Scott Tolinski) — Learn With Jason - YouTube](https://www.youtube.com/watch?v=vxCWZlVLEcY) 1:30:40, 2020-12
 
 [Svelte is the most beautiful web framework I've ever seen - DEV Community 👩‍💻👨‍💻](https://dev.to/jesseskinner/svelte-is-the-most-beautiful-web-framework-i-ve-ever-seen-325f)
 [Why Svelte won’t kill React. Is status quo to blame for that? Or is… | by Kit Isaev | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/why-svelte-wont-kill-react-3cfdd940586a)

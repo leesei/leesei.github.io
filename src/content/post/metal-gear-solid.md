@@ -2,6 +2,7 @@
 title: Metal Gear Solid
 description: ""
 created: 2023-06-11
+updated: 2023-09-29
 tags:
   - games
   - mgs

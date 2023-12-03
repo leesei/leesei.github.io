@@ -2,13 +2,14 @@
 title: Cryptography
 description: ""
 created: 2016-01-21
+updated: 2023-11-22
 tags:
   - crypto
   - cryptography
   - security
 ---
 
-> if crypto to you only means Cryptocurrency, please leave
+> if crypto to you only means [[blockchain#Cryptocurrency]], please leave
 
 [[enigma-machine]]
 
@@ -38,6 +39,7 @@ Bit security measures the number of trials required to brute-force a key. 128 bi
 [BCrypt Explained - DEV Community 👩‍💻👨‍💻](https://dev.to/sylviapap/bcrypt-explained-4k5c)
 
 [Bcrypt, a Popular Password Hashing Algorithm, Starts Its Long Goodbye | WIRED](https://www.wired.com/story/bcrypt-password-hashing-25-years/)
+[multiformats/multihash: Self describing hashes - for future proofing](https://github.com/multiformats/multihash)
 
 [Computer and Network Security by Avi Kak](https://engineering.purdue.edu/kak/compsec/)
 
@@ -53,7 +55,7 @@ Bit security measures the number of trials required to brute-force a key. 128 bi
 [SHA: Secure Hashing Algorithm - Computerphile - YouTube](https://www.youtube.com/watch?v=DMtFhACPnTY)
 
 Public Key Cryptography:
-Digital Signatures: encrypt a known data(nounce or message hash) with sender's private key
+Digital Signatures: encrypt a known data (nounce or message hash) with sender's private key
 Certificate Authorities: a trusted third party that will digitally sign and publish the public key bound to a user or entity
 
 ### Storing password
@@ -186,6 +188,15 @@ Public Key crypto simply works with numbers. This means that any messages would 
 [The RSA Encryption Algorithm (1 of 2: Computing an Example) - YouTube](https://www.youtube.com/watch?v=4zahvcJ9glg)
 [The RSA Encryption Algorithm (2 of 2: Generating the Keys) - YouTube](https://www.youtube.com/watch?v=oOcTVTpUsPQ)
 
+- Generate two large co-prime numbers, p and q.
+- Find n = pq and phi = (p-1) (q-1)
+- Select e such that 1 < e < phi, and e is coprime of phi
+- Find d, which is the multiplicative inverse of e modulo phi.
+- The couple (e, n) is the public key
+- The couple (d, n) is the private key
+- Ciphertext c = m^e mod n
+- Plaintext m = c^d mod n
+
 [Pretty Good Privacy (PGP) and Digital Signatures | Linux Journal](https://www.linuxjournal.com/content/pretty-good-privacy-pgp-and-digital-signatures)
 
 ### age
@@ -203,6 +214,7 @@ Public Key crypto simply works with numbers. This means that any messages would 
 ## Steganography
 
 [Steganography - Wikiwand](https://www.wikiwand.com/en/Steganography)
+[隐写术鉴赏 - YouTube](https://www.youtube.com/watch?v=AmqOrrOv5Uw)
 
 [StegCloak](https://stegcloak.surge.sh/)
 [KuroLabs/stegcloak: Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐](https://github.com/KuroLabs/stegcloak)
@@ -213,14 +225,25 @@ Public Key crypto simply works with numbers. This means that any messages would 
 [Faux Cyrillic - Wikiwand](https://www.wikiwand.com/en/Faux_Cyrillic)
 [IDN homograph attack - Wikiwand](https://www.wikiwand.com/en/IDN_homograph_attack)
 
-## Zero-knowledge proof
+## Zero-knowledge proof/ZKP
 
 [Zero-knowledge proof - Wikiwand](https://www.wikiwand.com/en/Zero-knowledge_proof)
 把問題和答案的關聯轉變成機率問題
 透過趨近無窮次的試驗，使猜對的機率趨近 0
 
+[Introduction | ZKDocs](https://www.zkdocs.com/)
+[trailofbits/zkdocs: Interactive documentation on zero-knowledge proof systems and related primitives.](https://github.com/trailofbits/zkdocs)
+
 [Zero-Knowledge Proof (ZKP) — Explained | Chainlink](https://blog.chain.link/what-is-a-zero-knowledge-proof-zkp/)
 [Zero-knowledge proofs explained in 3 examples](https://www.circularise.com/blogs/zero-knowledge-proofs-explained-in-3-examples)
+
+[The Magic of Zero-Knowledge Proofs #SoME3 - YouTube](https://www.youtube.com/watch?v=FfeXX6OLq8w)
+
+- SNARKs
+- STARKs
+- Bulletproofs
+- Folding Schemes
+- Lookup
 
 [Zero Knowledge Proofs - YouTube](https://www.youtube.com/watch?v=V5uVKZn3F_4)
 [神奇的零知识证明！既能保守秘密，又让别人信你！ - YouTube](https://www.youtube.com/watch?v=FuKEpOhiVPg)

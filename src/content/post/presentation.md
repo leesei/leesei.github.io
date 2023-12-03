@@ -2,7 +2,7 @@
 title: Presentation
 description: ""
 created: 2016-04-24
-updated: 2023-08-09
+updated: 2023-11-17
 tags:
   - business
 ---
@@ -277,6 +277,13 @@ Widescreen, drawing mode
 
 [d0c-s4vage/lookatme: An interactive, terminal-based markdown presenter](https://github.com/d0c-s4vage/lookatme)
 [LookAtMe: Dead Simple Markdown Slideshows - YouTube](https://www.youtube.com/watch?v=CkIweDviGH8)
+
+## Latex
+
+[CTAN: Package beamer](https://ctan.org/pkg/beamer?lang=en)
+
+[Beamer Presentations: A Tutorial for Beginners (Part 1)—Getting Started - Overleaf, Online LaTeX Editor](<https://www.overleaf.com/learn/latex/Beamer_Presentations%3A_A_Tutorial_for_Beginners_(Part_1)%E2%80%94Getting_Started>)
+[How I Make Presentations Using LaTeX & Beamer - YouTube](https://www.youtube.com/watch?v=rx7wwtmFlD8)
 
 ## Go presentation tool
 

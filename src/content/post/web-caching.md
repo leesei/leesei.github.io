@@ -2,6 +2,7 @@
 title: Web Caching
 description: ""
 created: 2016-01-26
+updated: 2023-09-29
 tags:
   - cache
   - dev/deploy

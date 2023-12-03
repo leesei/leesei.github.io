@@ -2,7 +2,7 @@
 title: Tmux
 description: ""
 created: 2014-12-11
-updated: 2023-07-24
+updated: 2023-11-14
 tags:
   - app
   - shell-tool
@@ -14,11 +14,13 @@ tags:
 [tmux](http://tmux.github.io/) is a terminal multiplexer, which creates windows (tab) and panels (split in a tab) in a single terminal. The session lives in the server so you can restore your session even if you were disconnected from the server.
 
 [rothgar/awesome-tmux: A list of awesome resources for tmux](https://github.com/rothgar/awesome-tmux)
-[tmux-plugins/tpm: Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
-[tmux-plugins/tmux-sensible: basic tmux settings everyone can agree on](https://github.com/tmux-plugins/tmux-sensible)
 
 [Tmux has forever changed the way I write code. - YouTube](https://www.youtube.com/watch?v=DzNmUNvnB04) tmux + neovim
 [Tmux can do WHAT?? // Use THIS to Make Tmux AMAZING Instantly - YouTube](https://www.youtube.com/watch?v=0z6akhNyguw)
+
+DevOps Toolbox
+[NINJA Level Productivity: Master Tmux in 7 Minutes - YouTube](https://www.youtube.com/watch?v=UtINDdy-xBc)
+[A UX Expert Fixes My Tmux - YouTube](https://www.youtube.com/watch?v=_hnuEdrM-a0)
 
 [Terminal Multiplexers: Screen, Tmux - Hyperpolyglot](http://hyperpolyglot.org/multiplexers)
 [A Gentle Introduction to tmux. What is tmux? | by Alek Shnayder | HackerNoon.com | Medium](https://medium.com/hackernoon/a-gentle-introduction-to-tmux-8d784c404340)
@@ -71,7 +73,8 @@ $echo case $- in *i*) . ~/.bashrc;; esac >> .bash_profile
 
 [pangliang/oh-my-tmux: Pretty + versatile self-contained tmux configuration](https://github.com/pangliang/oh-my-tmux)
 [gpakosz/.tmux: 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️](https://github.com/gpakosz/.tmux)
-[samoshkin/tmux-config: Tmux configuration, that supercharges your tmux to build cozy and cool terminal environment](https://github.com/samoshkin/tmux-config)
+[tmux-plugins/tmux-sensible: basic tmux settings everyone can agree on](https://github.com/tmux-plugins/tmux-sensible)
+[tmux-plugins/tpm: Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
 
 [IDE & TMUX Configuration · GitHub](https://gist.github.com/snuggs/800936/)
 [My Tmux Configuration](https://zanshin.net/2013/09/05/my-tmux-configuration/)
@@ -82,8 +85,8 @@ $echo case $- in *i*) . ~/.bashrc;; esac >> .bash_profile
 [How to Customize Tmux Using the Config File](https://www.hostinger.com/tutorials/tmux-config)
 [docwhat/homedir-tmux: Configuration and tools to make working with TMux easier](https://github.com/docwhat/homedir-tmux)
 [Making tmux Pretty and Usable - A Guide to Customizing your tmux.conf](https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
-[gpakosz/.tmux: 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️](https://github.com/gpakosz/.tmux)
 [samoshkin/tmux-config: Tmux configuration, that supercharges your tmux to build cozy and cool terminal environment](https://github.com/samoshkin/tmux-config)
+[dotfiles/tmux at master · omerxx/dotfiles · GitHub](https://github.com/omerxx/dotfiles/tree/master/tmux)
 
 [jimeh/tmux-themepack](https://github.com/jimeh/tmux-themepack)
 
@@ -250,7 +253,7 @@ unbind-key r           ; bind-key r source-file ~/.tmux.conf\; display-message "
 unbind-key -n M-l      ; bind-key -n M-l pipe-pane "exec cat >>$HOME/'#W-tmux.log'" \; display-message 'Started logging to $HOME/#W-tmux.log'
 unbind-key l           ; bind-key l pipe-pane \; display-message 'Ended logging to $HOME/#W-tmux.log'
 
-# promt for a hostname
+# prompt for a hostname
 unbind-key S           ; bind-key S command-prompt -p ssh: "new-window -n %1 'ssh %1'"
 
 # easier split window
@@ -353,5 +356,11 @@ git clone https://github.com/jimeh/tmuxifier.git ~/.tmuxifier
 
 [zellij-org/zellij: A terminal workspace with batteries included](https://github.com/zellij-org/zellij)
 
+[Aram Drevekenin – Zellij - A terminal workspace with batteries included - Rust Vienna June 2023 - YouTube](https://www.youtube.com/watch?v=nBL_8KsTA5g)
+
 [Is Zellij the PERFECT Multiplexer? // Tmux Getting Dethroned! - YouTube](https://www.youtube.com/watch?v=BjfMWqy1hnw)
+[You need to see what Zellij just released! - YouTube](https://www.youtube.com/watch?v=HaJoRgBlRc8)
 [Zellij for Tmuxers - YouTube](https://www.youtube.com/watch?v=Cd8P4hBC8i8)
+[What is Zellij? Terminal workspace management - YouTube](https://www.youtube.com/watch?v=gtjPeTCkm-8)
+
+[Zellij - YouTube](https://www.youtube.com/playlist?list=PLLLtqOZfy0pdaA_7XkDRpf-RV1sQrWLJL)

@@ -2,6 +2,7 @@
 title: Web Components
 description: ""
 created: 2022-08-23
+updated: 2023-09-29
 tags:
   - web
   - web-components

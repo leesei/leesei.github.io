@@ -2,6 +2,7 @@
 title: Kotlin
 description: ""
 created: 2019-04-04
+updated: 2023-09-29
 tags:
   - comp/lang
   - kotlin
@@ -13,6 +14,7 @@ Statically typed programming language for the JVM, Android, the browser and nati
 
 [Kotlin Clean Architecture – ProAndroidDev](https://proandroiddev.com/kotlin-clean-architecture-1ad42fcd97fa)
 [Kotlin, Android's new programming language - Things you need to know about it](https://www.readinbrief.com/kotlin/)
+[kotlin - Amit Shekhar | Coder | Teacher | Mentor](https://amitshekhar.me/tags/kotlin)
 [Kt. Academy](https://blog.kotlin-academy.com/)
 
 [Kotlin Course - Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=F9UC9DY-vIU)

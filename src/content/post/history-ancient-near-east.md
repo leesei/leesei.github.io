@@ -2,7 +2,7 @@
 title: Ancient Near East History
 description: ""
 created: 2020-01-23
-updated: 2023-07-25
+updated: 2023-09-29
 tags:
   - history
   - history/near-east

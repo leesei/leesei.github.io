@@ -2,6 +2,7 @@
 title: Bookmarklets
 description: ""
 created: 2014-12-08
+updated: 2023-09-29
 tags:
   - bookmarklet
   - browser

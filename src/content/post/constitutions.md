@@ -2,6 +2,7 @@
 title: Constitutions
 description: ""
 created: 2016-09-07
+updated: 2023-09-29
 tags:
   - law
 ---

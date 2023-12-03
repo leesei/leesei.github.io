@@ -2,7 +2,7 @@
 title: Adblocking
 description: ""
 created: 2018-07-27
-updated: 2023-07-28
+updated: 2023-10-25
 tags:
   - web
 ---
@@ -11,6 +11,8 @@ Bypass Paywalls Clean extension
 
 [Why Google is Happy You're Using Adblock - YouTube](https://www.youtube.com/watch?v=owoAcHOAPmE)
 Adblocker allows Google to filter out those who won't click ads, this increases the click through rate
+
+[The Cobra Effect: Why Anti-Adblock Policies Could Hurt Revenue Instead - YouTube](https://www.youtube.com/watch?v=gIHi9yH6UB0)
 
 ## AdGuard
 

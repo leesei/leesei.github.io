@@ -2,6 +2,7 @@
 title: Astro
 description: ""
 created: 2023-03-04
+updated: 2023-09-29
 tags:
   - javascript
   - static-site
@@ -23,8 +24,14 @@ tags:
 [Building a multi-framework dashboard with Astro - LogRocket Blog](https://blog.logrocket.com/building-multi-framework-dashboard-with-astro/)
 [Your First Steps with the Astro Framework: A Quickstart Guide](https://www.danywalls.com/your-first-steps-with-the-astro-framework-a-quickstart-guide)
 
+[Astro 3.0 | Astro](https://astro.build/blog/astro-3/)
+[Upgrade to Astro v3 🚀 Astro Documentation](https://docs.astro.build/en/guides/upgrade-to/v3/)
+[Astro's New Features Have Me Rethinking Everything - YouTube](https://www.youtube.com/watch?v=CYuujJvgmns) Astro 3.0, element transition animation
+[Does Astro make heavy JS frameworks obsolete? - YouTube](https://www.youtube.com/watch?v=4Ohi9G-RCcE) 2023-09, 1:31:01, Astro 3.0
+[The Astro Crash Course - YouTube](https://www.youtube.com/watch?v=rRxuVOutmFQ) 3.0, demo project with SolidJS
+
 [Astro Crash Course in 20 Minutes! - YouTube](https://www.youtube.com/watch?v=zrPVTf761OI) 2022-12
-[Astro Crash Course - YouTube](https://www.youtube.com/watch?v=Oi9z5gfIHJs) 2022-08, 1:35
+[Astro Crash Course - YouTube](https://www.youtube.com/watch?v=Oi9z5gfIHJs) 2022-08, 1:35:00
 [Astro Crash Course - YouTube](https://www.youtube.com/playlist?list=PLtLXFsdHI8JSX0qJsHfMDSTR3taqvXa5S) 2021-2022
 [Astro makes websites faster & easier to build - YouTube](https://www.youtube.com/watch?v=acgIGT0J99U) 2023-06, 22:54, refactor a site using Astro components
 

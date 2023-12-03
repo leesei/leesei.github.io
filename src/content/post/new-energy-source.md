@@ -2,7 +2,7 @@
 title: New Energy Source
 description: Renewable Energy, Non-fossil Energy"
 created: 2015-11-04
-updated: 2023-07-02
+updated: 2023-09-29
 tags:
   - energy
   - science

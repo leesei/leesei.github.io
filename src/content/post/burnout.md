@@ -2,6 +2,7 @@
 title: Burnout
 description: ""
 created: 2020-05-12
+updated: 2023-09-29
 tags:
   - burnout-paradise
   - games

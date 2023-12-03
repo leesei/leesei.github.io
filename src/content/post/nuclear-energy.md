@@ -2,7 +2,7 @@
 title: Nuclear Energy
 description: ""
 created: 2023-05-27
-updated: 2023-07-23
+updated: 2023-09-29
 tags:
   - energy
   - science
@@ -25,8 +25,6 @@ Small Modular Reactor
 [Information Library - World Nuclear Association](http://www.world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-power-reactors.aspx)
 
 [WTF Happened to Nuclear Energy? - YouTube](https://www.youtube.com/watch?v=QzTgZ6kOEM8)
-[The Big Lie About Nuclear Waste - YouTube](https://www.youtube.com/watch?v=IzQ3gFRj0Bc)
-[Nuclear waste is not the problem you've been made to believe it is - YouTube](https://www.youtube.com/watch?v=aDUvCLAp0uU)
 [Inside a Nuclear Reactor - YouTube](https://www.youtube.com/watch?v=P99C051arMo)
 
 [The Future of Nuclear Energy Depends On This... - YouTube](https://www.youtube.com/watch?v=9p-ZxTnNdF4)
@@ -45,6 +43,12 @@ Small Modular Reactor
 [Breakthrough Energy Source Makes Other Power Plants Obsolete! - YouTube](https://www.youtube.com/watch?v=Pct9rD4B2x4) Traveling Wave Reactor, breed and burn, uses depleted uranium as fuel
 
 [太阳为啥不会瞬间就炸掉？核聚变比人体放热还缓慢吗？李永乐老师讲人造太阳（1） - YouTube](https://www.youtube.com/watch?v=vqXkZOL1nQs&t=2s)
+
+### Nuclear Waste
+
+[The Big Lie About Nuclear Waste - YouTube](https://www.youtube.com/watch?v=IzQ3gFRj0Bc)
+[Nuclear waste is not the problem you've been made to believe it is - YouTube](https://www.youtube.com/watch?v=aDUvCLAp0uU)
+[全美爭議最大建設項目，猶卡山核廢掩埋計畫怎麼了？ - YouTube](https://www.youtube.com/watch?v=8rFetRg1DTg)
 
 ### Small Modular Reactor (SMR)
 

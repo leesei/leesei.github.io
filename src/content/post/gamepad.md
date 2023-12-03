@@ -2,7 +2,7 @@
 title: Gamepad
 description: ""
 created: 2016-09-25
-updated: 2023-07-27
+updated: 2023-10-20
 tags:
   - comp/hardware
 ---
@@ -11,13 +11,14 @@ tags:
 [How Vintage Game Controllers Worked - YouTube](https://www.youtube.com/watch?v=WVnwfwXnNiQ&t=2s)
 
 [【科技杂谈 67】游戏手柄发展史 - YouTube](https://www.youtube.com/watch?v=Sr6bGKltfJg)
+[游 戏 手 柄 进 化 史 - 知乎](https://zhuanlan.zhihu.com/p/141106714)
 [家用游戏机手柄进化史 - 知乎](https://zhuanlan.zhihu.com/p/19920577)
-[STONES Design Lab. — Illustration of Controllers | 《游戏手柄，进化！》插图 插图设计 ...](https://stonesdesign.tumblr.com/post/100574047492/illustration-of-controllers-%E6%B8%B8%E6%88%8F%E6%89%8B%E6%9F%84%E8%BF%9B%E5%8C%96%E6%8F%92%E5%9B%BE-%E6%8F%92%E5%9B%BE%E8%AE%BE%E8%AE%A1/amp)
+[游戏手柄的进化史你知道么？ - 简书](https://www.jianshu.com/p/4fd238a017bc)
 [【說個事兒】Vol 10 遊戲手柄發展史·上 - YouTube](https://www.youtube.com/watch?v=32E4vJ5VpPI)
 [【說個事兒】Vol 11 遊戲手柄發展史·中 - YouTube](https://www.youtube.com/watch?v=BCqk-WRY5Cg)
 [【說個事兒】Vol 13 遊戲手柄發展史·下 - YouTube](https://www.youtube.com/watch?v=TWvbntVzLXg)
-[游 戏 手 柄 进 化 史 - 知乎](https://zhuanlan.zhihu.com/p/141106714)
-[游戏手柄的进化史你知道么？ - 简书](https://www.jianshu.com/p/4fd238a017bc)
+[STONES Design Lab. — Illustration of Controllers | 《游戏手柄，进化！》插图 插图设计 ...](https://stonesdesign.tumblr.com/post/100574047492/illustration-of-controllers-%E6%B8%B8%E6%88%8F%E6%89%8B%E6%9F%84%E8%BF%9B%E5%8C%96%E6%8F%92%E5%9B%BE-%E6%8F%92%E5%9B%BE%E8%AE%BE%E8%AE%A1/amp)
+[遊戲手柄是怎樣煉成的？【攻殼搜索科】 - YouTube](https://www.youtube.com/watch?v=m8vJ-bwMvEM)
 
 [深度科普 霍爾搖桿與碳膜搖桿有何區別？手柄搖桿是怎樣工作的？ - YouTube](https://www.youtube.com/watch?v=5BkzT5UpCHA) ❗!important
 碳膜: ALPS, 控銀/K-Silver, 台灣普耀
@@ -134,7 +135,7 @@ Face buttons defaults to Switch layout, need to buy PC kit (~$35) to swap
 
 ### G5 Pro
 
-[Machenike | G5 Pro Hall-effect Gamepad Controller – Machenike Official Store](https://global.machenike.com/products/g5pro)
+[Machenike | G5 Pro Hall-effect Gamepad Controller – Machenike Official Store](https://global.machenike.com/products/g5pro) 2pack¥378@2023-07
 
 [性價比之王！機械師 G5 Pro 手柄拆機測評 - YouTube](https://www.youtube.com/watch?v=QwUlO_kom5I)
 [Machenike G5 Pro Controller Review-Highly Requested, Was I Let Down? - YouTube](https://www.youtube.com/watch?v=ZDh9riz4Q30)

@@ -2,6 +2,7 @@
 title: XCOM 2
 description: ""
 created: 2022-05-03
+updated: 2023-09-29
 tags:
   - games
   - xcom

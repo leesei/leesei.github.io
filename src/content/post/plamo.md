@@ -2,7 +2,7 @@
 title: Plamo
 description: ""
 created: 2017-04-25
-updated: 2023-07-06
+updated: 2023-10-15
 tags:
   - toys
 ---
@@ -12,12 +12,13 @@ tags:
 
 # Plamo
 
-[一天到晚作模型的 ms 翰 :: 痞客邦 PIXNET ::](http://mshanplamo.com/blog)
 [달롱이의 건플라 리뷰](http://dalong.net/) Dalong
 [俺の趣味的日記](http://glove0523.blog105.fc2.com/)
+[一天到晚作模型的MS翰](https://mshanplamo.com/)
 [berwick1990 的部落格 :: 痞客邦 ::](https://berwick1990.pixnet.net/blog)
 [Gunpla 101 - Get started building model kits today!](https://www.gunpla101.com/)
-[Gunpla DB Home | Gunpla DB](http://beta.gunpladb.com/)
+[Gunpla DB Home | Gunpla DB](http://www.gunpladb.com/)
+[ガンプラはじめました｜1/144ガンプラコレクターの素組レビュー/新作情報/設定資料検索サイト](https://gunpla-beginning.com/)
 [高达 高达 oo 高达 seed 高达 bf 高达模型 万代模型 敢达模型 78 动漫](http://acg.78dm.net/z4.html)
 [Figurines database - My Anime Shelf](https://www.shelf.moe/figures/)
 [谢双超 - YouTube](https://www.youtube.com/channel/UC-BTcj5YbvKnR_uBUGhrA4w)
@@ -28,6 +29,7 @@ tags:
 [鋼普拉 - YouTube](https://www.youtube.com/playlist?list=PLJjPncmYl_uVEuIwbJ4DA8xq6wJNqgiKV)
 [普拉模 - YouTube](https://www.youtube.com/playlist?list=PLJjPncmYl_uVbHsaEClZNJE0FOsmaOT9Y)
 [NYC HOBBY - YouTube](https://www.youtube.com/channel/UCJBo4LLhadi2ziZ4Xjen8Gw)
+[NYC HOBBY // 模型 // 教學 // 速報 - YouTube](https://www.youtube.com/@NYCHOBBY)
 
 [Best Gunpla of the Decade! - YouTube](https://www.youtube.com/watch?v=jJg22wmllCE)
 
@@ -336,6 +338,10 @@ HGUC Unicorn Destroy Mode
 [1238 - HGUC Unicorn Gundam 02 Banshee Norn [Unicorn Mode] (OOB Review) - YouTube](https://www.youtube.com/watch?v=vTQnbDfbIkQ)
 [1509 - RG Unicorn Gundam 02 Banshee Norn (OOB Review) - YouTube](https://www.youtube.com/watch?v=JWtZr9OVNVw)
 [1645 - HGUC Unicorn Gundam 03 Phenex [Destroy Mode] [Narrative Ver.] (OOB Review) - YouTube](https://www.youtube.com/watch?v=YMeWNKV75E4)
+
+SDCS Gundam Barbatos Lupus Rex
+SDCS F9之1改
+HG GUNDAM BUILD FIGHTERS TRY 神爆熱高達
 
 [Try Burning Gundam (HGBF) (Gundam Model Kits) - HobbySearch Gundam Kit/etc. Store](https://www.1999.co.jp/eng/10306421) ¥99
 [219 - HGBF TBG-001B Try Burning Gundam OOB Review - YouTube](https://www.youtube.com/watch?v=d-9qtUvMURk)

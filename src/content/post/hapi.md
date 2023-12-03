@@ -2,6 +2,7 @@
 title: Hapi
 description: ""
 created: 2015-02-16
+updated: 2023-09-29
 tags:
   - backend
   - hapi

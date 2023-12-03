@@ -2,7 +2,7 @@
 title: Monorepo
 description: Monorepo and tools
 created: 2023-06-14
-updated: 2023-08-13
+updated: 2023-11-16
 tags:
   - app
   - git
@@ -54,6 +54,11 @@ tags:
 [Developing a plugin for meta. In my last post, I introduced meta and… | by Patrick Lee Scott | Medium](https://patrickleet.medium.com/developing-a-plugin-for-meta-bd2e9c39882d)
 [mateodelnorte/meta: tool for turning many repos into a meta repo. why choose many repos or a monolithic repo, when you can have both with a meta repo?](https://github.com/mateodelnorte/meta)
 [mateodelnorte/loop: loop through commands in fun and amazing ways!](https://github.com/mateodelnorte/loop)
+
+## myrepos/mr
+
+[myrepos](https://myrepos.branchable.com/)
+[Managing multiple repositories using mr – Aditya Basu](https://www.adityabasu.me/blog/2015/04/mr-tool/)
 
 ## repo
 

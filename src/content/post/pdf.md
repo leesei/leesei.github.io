@@ -2,7 +2,7 @@
 title: Portable Document Format (PDF)
 description: ""
 created: 2018-10-27
-updated: 2023-07-08
+updated: 2023-11-24
 tags:
   - business
   - desktop
@@ -88,6 +88,9 @@ pdftk first.pdf second.pdf cat output merged.pdf
 pdftk input.pdf cat 1 5-7 output extract.pdf
 ```
 
+[STAMPtk - The PDF Stamp Maker](https://www.pdflabs.com/tools/stamptk-the-pdf-stamp-maker/)
+[How to Add Headers, Footers, Watermarks and Stamps to PDF](https://www.pdflabs.com/docs/how-to-add-headers-footers-watermarks-and-stamps-to-pdf/)
+
 ### `QPDF`
 
 [QPDF: A Content-Preserving PDF Transformation System](http://qpdf.sourceforge.net/)
@@ -113,26 +116,35 @@ exec docker run -v "$PWD:/workdir" -u "$(id -u):$(id -g)" --rm -it ptspts/pdfsiz
 
 ### `gs`
 
+[Ghostscript](https://www.ghostscript.com/)
+[Welcome to Ghostscript — Ghostscript documentation](https://ghostscript.readthedocs.io/en/latest/)
+[Optimization of the Sizes of PDF Files on Linux | Baeldung on Linux](https://www.baeldung.com/linux/pdf-compress)
+
 [theeko74/pdfc: Simple python script to compress PDF](https://github.com/theeko74/pdfc) Python 3, calls `gs`
 [aklomp/shrinkpdf: Shrink PDF files with Ghostscript](https://github.com/aklomp/shrinkpdf)
 [如何減小掃描的 PDF 文件的文件大小？ - Ubuntu 問答](https://ubuntuqa.com/zh-tw/article/12473.html)
 
 ```sh
-# `-dPDFSETTINGS=` specifies the quality /resolution of the output PDF. You can choose from the following:
+# `-dPDFSETTINGS=` specifies the quality/resolution of the output PDF. You can choose from the following:
 # - `-dPDFSETTINGS=/screen` (72 dpi images)
 # - `-dPDFSETTINGS=/ebook` (150 dpi images)
 # - `-dPDFSETTINGS=/printer` (300 dpi images)
 # - `-dPDFSETTINGS=/prepress` (300 dpi images, color preserving)
 # - `-dPDFSETTINGS=/default`
-gs -q -dNOPAUSE -dBATCH -dSAFER \
+gs -quite -dNOPAUSE -dBATCH -dSAFER \
   -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook \
   -dEmbedAllFonts=true -dCompressFonts=true -dSubsetFonts=true \
   -dColorImageDownsampleType=/Bicubic -dColorImageResolution=144 \
   -dGrayImageDownsampleType=/Bicubic -dGrayImageResolution=144 \
   -dMonoImageDownsampleType=/Bicubic -dMonoImageResolution=144 \
   -sOutputFile=optimized.pdf original.pdf
-gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/printer \
-  -dCompressFonts=true -dSubsetFonts=true -dNOPAUSE -dBATCH \
+
+gs -dNOPAUSE -dBATCH -dSAFER \
+  -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/printer \
+  -dCompressFonts=true -dSubsetFonts=true -dSubsetFonts=true \
+  -dColorImageDownsampleType=/Bicubic -dColorImageResolution=200 \
+  -dGrayImageDownsampleType=/Bicubic -dGrayImageResolution=200 \
+  -dMonoImageDownsampleType=/Bicubic -dMonoImageResolution=200 \
   -sOutputFile=optimized.pdf -f original.pdf
 ```
 
@@ -195,3 +207,24 @@ gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/printer \
 
 [stapler · PyPI](https://pypi.org/project/stapler/)
 [hellerbarde/stapler: A small utility making use of the pypdf library to provide a (somewhat) lighter alternative to pdftk](https://github.com/hellerbarde/stapler)
+
+### WeasyPrint
+
+[Home Page - WeasyPrint](https://weasyprint.org/) HTML to PDF in Python
+[WeasyPrint — WeasyPrint documentation](https://weasyprint.readthedocs.io/en/latest/index.html)
+[Samples - WeasyPrint](https://weasyprint.org/samples/) [source](https://github.com/Kozea/WeasyPrint/tree/gh-pages/samples)
+
+[WeasyPrint recipe](https://jsreport.net/blog/weasyprint-recipe)
+[Creating PDF Reports with Pandas, Jinja and WeasyPrint - Practical Business Python](https://pbpython.com/pdf-reports.html)
+[Python PDF Generation from HTML with WeasyPrint - DEV Community](https://dev.to/bowmanjd/python-pdf-generation-from-html-with-weasyprint-538h)
+
+If `<body>` is present in input, there will only be one page in output PDF.
+
+[WeasyPrint Performance Report](https://kozea.github.io/WeasyPerf/)
+
+### wkhtmltopdf
+
+[wkhtmltopdf](https://wkhtmltopdf.org/)
+[wkhtmltopdf/wkhtmltopdf: Convert HTML to PDF using Webkit (QtWebKit)](https://github.com/wkhtmltopdf/wkhtmltopdf)
+
+[rockdaboot/invoice-html5-to-pdf: Batch HTML5 to PDF invoice generation on the command line](https://github.com/rockdaboot/invoice-html5-to-pdf)

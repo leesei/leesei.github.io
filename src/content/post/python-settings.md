@@ -2,6 +2,7 @@
 title: Python settings
 description: ""
 created: 2014-12-11
+updated: 2023-10-09
 tags:
   - comp/lang
   - package-manager
@@ -358,6 +359,8 @@ deactivate
 
 # Packages
 
+[[http-agents#Python]]
+
 [How to Evaluate the Quality of Python Packages – Real Python](https://realpython.com/python-package-quality/)
 
 ```sh
@@ -378,7 +381,7 @@ pip install --user python-pygame
 [Top 10 Python Libraries You Should Know | Tryolabs Blog](https://tryolabs.com/blog/2019/12/10/top-10-python-libraries-of-2019/)
 [5 wicked-fast Python frameworks you have to try | InfoWorld](http://www.infoworld.com/article/3133854/application-development/5-wicked-fast-python-frameworks-you-have-to-try.html)
 [The World of Zope — Zope Project and Community documentation](https://www.zope.org/world.html#tools)
-
+[15 Python Libraries You Should Know About in 2023 - YouTube](https://www.youtube.com/watch?v=o06MyVhYte4)
 [Trey Hunner](http://treyhunner.com/)
 [Splinter documentation](https://splinter.readthedocs.io/en/latest/)
 [Python 3 Module of the Week — PyMOTW 3](https://pymotw.com/3/)
@@ -399,11 +402,6 @@ pip install --user python-pygame
 
 [santinic/pampy: Pampy: The Pattern Matching for Python you always dreamed of.](https://github.com/santinic/pampy)
 
-[Requests: HTTP for Humans™ — Requests documentation](http://docs.python-requests.org/en/master/)
-[kennethreitz/requests: Python HTTP Requests for Humans™](https://github.com/kennethreitz/requests)
-[Python’s Requests Library (Guide) – Real Python](https://realpython.com/python-requests/#request-headers)
-[Advanced usage of Python requests - timeouts, retries, hooks](https://hodovi.ch/blog/advanced-usage-python-requests-timeouts-retries-hooks/)
-
 Date times
 [datetime — Basic date and time types — Python 3 documentation](https://docs.python.org/3/library/datetime.html)
 [A Deep Dive Into Date And Time In Python - YouTube](https://www.youtube.com/watch?v=TFa38ONq5PY)
@@ -411,7 +409,7 @@ Date times
 [kennethreitz/delegator.py: Subprocesses for Humans 2.0.](https://github.com/kennethreitz/delegator.py)
 [Arrow: better dates and times for Python](http://arrow.readthedocs.io/en/latest/)
 [dateutil/dateutil: Useful extensions to the standard Python datetime features](https://github.com/dateutil/dateutil)
-[Pendulum - Python datetimes made easy](https://pendulum.eustace.io/)
+[Pendulum - Python datetimes made easy](https://pendulum.eustace.io/) ❗!important
 [Python - Pendulum Module - GeeksforGeeks](https://www.geeksforgeeks.org/python-pendulum-module/)
 
 ## Web Frameworks
@@ -543,17 +541,21 @@ flask-security flask-sqlalchemy
 Async function can be start-and-awaited, or started by `asyncio.create_taks()` which returns a future that can be awaited on
 `asyncio.to_thread()` turns a sync function to an async function
 
+[PEP 654 – Exception Groups and except\* | peps.python.org](https://peps.python.org/pep-0654/)
 [How Exception Groups Will Improve Error Handling in AsyncIO - Łukasz Langa | Power IT Conference - YouTube](https://www.youtube.com/watch?v=Lfe2zsGS0Js)
-`TaskGroup` in 3.11 make sure the task is cancelled once an exception is caught, and allows you to handle the grouped exception in caller, providing better DX when using asyncio
+`Task` allows you to seperates the tasks as `done` and `pending` queue. You have to make sure the pending tasks are cancelled once an exception is caught.
+Then loop and try each `task.exception()` to gather the results/exceptions.
+`ExceptionGroup` in 3.11 allows tasks to return multiple errors at once. `except*` statement match subgroup of an `ExceptionGroup`.
+`TaskGroup` further simplifies the DX.
 
 ```python
-tasks = [asyncio.create_task(run_some_task(param)) for param in params]
-await asyncio.gather(*tasks)
+tasks = [asyncio.create_task(coro(param)) for param in params]
+done, pending = await asyncio.gather(*tasks, return_when=asyncio.FIRST_EXCEPTION)
 ```
 
 ```python
 results = await asyncio.gather(
-  func1(), func2(), func3(),
+  coro1(), coro2(), coro3(),
   return_exceptions=True
 )
 exceptions = [ex for ex in results if ex isinstance(ex, Exception)]
@@ -564,9 +566,14 @@ if exceptions:
 
 ```python
 # TaskGroup new in 3.11
-async with asyncio.TaskGroup as tg:
-  for param in params:
-    tg.create_task(run_some_task(param))
+try:
+  async with asyncio.TaskGroup as tg:
+    for param in params:
+      tg.create_task(coro(param))
+except* asyncio.TimeoutError:
+  ...
+except* aiohttp.ClientResponseError:
+  ...
 ```
 
 [timofurrer/awesome-asyncio: A curated list of awesome Python asyncio frameworks, libraries, software and resources](https://github.com/timofurrer/awesome-asyncio)
@@ -706,9 +713,11 @@ print({section: dict(config[section]) for section in config.sections()})
 
 ## Database/ORM
 
-[Raw SQL, SQL Query Builder, or ORM? - YouTube](https://www.youtube.com/watch?v=x1fCJ7sUXCM)
-[Object-relational Mappers (ORMs) - Full Stack Python](https://www.fullstackpython.com/object-relational-mappers-orms.html)
-[Why should you use an ORM (Object Relational Mapper)? - HedgeDoc](https://monadical.com/posts/why-use-orm.html)
+[[sql#ORM (or not)]]
+
+[PEP 249 – Python Database API Specification v2.0 | peps.python.org](https://peps.python.org/pep-0249/)
+
+[SQLModel](https://sqlmodel.tiangolo.com/) of the FastAPI family, uses Pydantic
 
 [SQLAlchemy - The Database Toolkit for Python](http://www.sqlalchemy.org/)
 [dahlia/awesome-sqlalchemy: A curated list of awesome tools for SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
@@ -740,17 +749,7 @@ print({section: dict(config[section]) for section in config.sections()})
 [MasterOdin/crayons: Text UI colors for Python.](https://github.com/MasterOdin/crayons)
 [tartley/colorama: Simple cross-platform colored terminal text in Python](https://github.com/tartley/colorama)
 
-[tabulate · PyPI](https://pypi.org/project/tabulate/) pretty print table and dict
-
-[Pytabby: a tabbed menu system for console-based Python programs - DEV Community 👩‍💻👨‍💻](https://dev.to/prooffreader/pytabby-a-tabbed-menu-system-for-console-based-python-programs-301n)
-
-[tqdm documentation](https://tqdm.github.io/)
-[tqdm/tqdm: A fast, extensible progress bar for Python and CLI](https://github.com/tqdm/tqdm)
-
 [peterbrittain/asciimatics: A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations](https://github.com/peterbrittain/asciimatics)
-
-[Overview — Urwid](http://urwid.org/)
-[urwid/urwid: Console user interface library for Python (official repo)](https://github.com/urwid/urwid)
 
 [amoffat/sh: Python process launching](https://github.com/amoffat/sh)
 
@@ -760,13 +759,26 @@ print({section: dict(config[section]) for section in config.sections()})
 [python-cmd2/cmd2: cmd2 - quickly build feature-rich and user-friendly interactive command line applications in Python](https://github.com/python-cmd2/cmd2)
 
 [Textualize/textual: Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.](https://github.com/Textualize/textual)
-[Textualize/rich: Rich is a Python library for rich text and beautiful formatting in the terminal.](https://github.com/Textualize/rich)
-[Welcome to Rich’s documentation!](https://rich.readthedocs.io/en/latest/)
-[Make Your Python CLI Tools Pop With Rich | Hackaday](https://hackaday.com/2022/01/19/make-your-python-cli-tools-pop-with-rich/)
 
 [Introducing Textual](https://www.willmcgugan.com/blog/tech/post/textual-progress/) uses Rich internally
 [Building Rich terminal dashboards](https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/)
 [Rendering a tree view in the terminal with Python and Rich](https://www.willmcgugan.com/blog/tech/post/rich-tree/)
+
+### TUI
+
+[Textualize/rich: Rich is a Python library for rich text and beautiful formatting in the terminal.](https://github.com/Textualize/rich)
+[Welcome to Rich’s documentation!](https://rich.readthedocs.io/en/latest/)
+[Make Your Python CLI Tools Pop With Rich | Hackaday](https://hackaday.com/2022/01/19/make-your-python-cli-tools-pop-with-rich/)
+
+[Overview — Urwid](http://urwid.org/)
+[urwid/urwid: Console user interface library for Python (official repo)](https://github.com/urwid/urwid)
+
+[tabulate · PyPI](https://pypi.org/project/tabulate/) pretty print table and dict
+
+[Pytabby: a tabbed menu system for console-based Python programs - DEV Community 👩‍💻👨‍💻](https://dev.to/prooffreader/pytabby-a-tabbed-menu-system-for-console-based-python-programs-301n)
+
+[tqdm documentation](https://tqdm.github.io/)
+[tqdm/tqdm: A fast, extensible progress bar for Python and CLI](https://github.com/tqdm/tqdm)
 
 ### Parser
 
@@ -1003,11 +1015,22 @@ def logger_setup(
 [kopensource/colored_logs](https://github.com/kopensource/colored_logs)
 [apparebit/konsole: Readable, pleasing console output for Python](https://github.com/apparebit/konsole) wraps `logging` API
 
-[gruns/icecream: 🍦 Never use print() to debug again.](https://github.com/gruns/icecream)
+[Do not log](https://sobolevn.me/2020/03/do-not-log)
+
+### Icecream
+
+[gruns/icecream: 🍦 Never use print() to debug again.](https://github.com/gruns/icecream) ❗!important, better `print()`
+[Debugging 101: Replace print() with icecream ic() - YouTube](https://www.youtube.com/watch?v=JJ9zZ8cyaEk)
+
 [Stop Using Print to Debug in Python. Use Icecream Instead | by Khuyen Tran | Towards Data Science](https://towardsdatascience.com/stop-using-print-to-debug-in-python-use-icecream-instead-79e17b963fcc)
 [Do Not Use Print For Debugging In Python Anymore | by Christopher Tao | Jun, 2021 | Towards Data Science](https://towardsdatascience.com/do-not-use-print-for-debugging-in-python-anymore-6767b6f1866d)
 
-[Do not log](https://sobolevn.me/2020/03/do-not-log)
+### loguru
+
+[Delgan/loguru: Python logging made (stupidly) simple](https://github.com/Delgan/loguru) ❗!important, better `logging`
+[Table of contents — loguru documentation](https://loguru.readthedocs.io/en/stable/index.html)
+
+[Python 中更优雅的日志记录方案 loguru | 静觅](https://cuiqingcai.com/7776.html)
 
 ## Modules
 
@@ -1416,6 +1439,7 @@ advanced-python-typing (7 Part Series)
 [The Beginner’s Guide to Pydantic. A Python package to parse and validate… | by Ng Wai Foong | Better Programming](https://betterprogramming.pub/the-beginners-guide-to-pydantic-ba33b26cde89)
 [Cool Things You Can Do With Pydantic | by Gideon Caller | The Startup | Medium](https://medium.com/swlh/cool-things-you-can-do-with-pydantic-fc1c948fbde0)
 
+[Do we still need dataclasses? // PYDANTIC tutorial - YouTube](https://www.youtube.com/watch?v=Vj-iU-8_xLs)
 [Talks - Samuel Colvin: How Pydantic V2 leverages Rust's Superpowers - YouTube](https://www.youtube.com/watch?v=pWZw7hYoRVU)
 
 ### Schematics

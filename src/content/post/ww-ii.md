@@ -2,7 +2,7 @@
 title: World War II
 description: ""
 created: 2015-06-07
-updated: 2023-08-14
+updated: 2023-10-15
 tags:
   - history
   - world-war
@@ -14,6 +14,7 @@ tags:
 [War Stories - YouTube](https://www.youtube.com/@WarStoriesChannel)
 [World War Two - YouTube](https://www.youtube.com/@WorldWarTwo)
 [The Operations Room - YouTube](https://www.youtube.com/@TheOperationsRoom) battles animated
+[重返戰場 - YouTube](https://www.youtube.com/@BattleReplay)
 [二戰風雲戰役和人物 - YouTube](https://www.youtube.com/playlist?list=PLB1UN3q8P5XetxeLkF95RT4xsWMRBEU3A) 历史学
 [Historical videos. Missions that changed the world - YouTube](https://www.youtube.com/playlist?list=PLBI4gRjPKfnMKV7ukPXQJLHveKXNwbT80)
 
@@ -33,6 +34,8 @@ Axis:
 - German
 - Japan
 
+Hitler came into power and became the Fuhrer on January 30,1933
+
 Japan seized Manchuria in 1931. In 1937 Japan attacked the rest of China.
 German invaded Poland in 1939. It then invaded the central country Belgium to attacked France, avoiding the Maginot Line.
 4 June, 1940, English, French, Belgium soldiers retreated to England from Dunkirk. The success was partially due to German's strategy of mostly using air force rather than infantry in the operation.
@@ -44,6 +47,7 @@ USSR entered non-aggression pact with German in 1939. Even knowing German's plan
 6 June 1944, British and American attacked Normandy, USSR also strengthened attacks on Eastern Front.
 
 [Why did Germany think that it could rule the world in 1941? - Quora](https://www.quora.com/Why-did-Germany-think-that-it-could-rule-the-world-in-1941)
+[石油！拖垮強大德軍裝甲部隊！為什麼希特勒不攻佔中東地區獲取石油？不缺石油的二戰德國有多可怕?#重返戰場 #二戰 #德國 #虎式坦克 #苏联 - YouTube](https://www.youtube.com/watch?v=usvUxtV8Sec)
 
 [WWII Documentaries - YouTube](https://www.youtube.com/playlist?list=PLD5JXdOMso1SjWDrQnZjkL1w3kRaIxOTE) collection
 [WWII - YouTube](https://www.youtube.com/playlist?list=PLpFIBvOQ0N1VXdMKlZeQ5F7eMOXUzkxhl) WarsofTheWorld
@@ -78,6 +82,8 @@ WarsofTheWorld
 [15 分鐘講完二次世界大戰 (簡史、重點、趣聞) - YouTube](https://www.youtube.com/watch?v=TqHD3Qo0Qec)
 [一口气看完 《第二次世界大战》完整版 Best World War II commentary - YouTube](https://www.youtube.com/watch?v=gj8s5Xdm7Hk)
 [二戰中的熊戰士：抽煙、喝酒、把妹，還能晉升下士……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=PhAmanpIA8U)
+
+[二戰敦刻爾克大逃亡：希特勒把40萬英法聯軍逼入絕境，卻為何停止進攻？「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=eB_iBBWcQQo)
 
 [朝核危機反思：二戰核攻擊日本前外交秘史（上） - BBC News 中文](https://www.bbc.com/zhongwen/trad/world-40911977)
 [朝核危機反思：二戰核攻擊日本前外交秘史（下） - BBC News 中文](https://www.bbc.com/zhongwen/trad/world-40988010)

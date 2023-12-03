@@ -2,7 +2,7 @@
 title: Pygame
 description: ""
 created: 2015-01-02
-updated: 2023-07-30
+updated: 2023-10-02
 tags:
   - game-engine
   - games
@@ -84,6 +84,14 @@ calling `pygame.display.flip` from a thread, which is incorrect
 
 [Create a Python game: how to make a puzzle game called Same - The MagPi MagazineThe MagPi Magazine](https://www.raspberrypi.org/magpi/create-python-game/)
 [opethe1st/SameGame: Python implementation of the Same Game using pygame](https://github.com/opethe1st/SameGame)
+
+## Web
+
+> powered by CPython WASM and SDL
+> [[web-assembly#Python in Browser]]
+
+[pygame-web.github.io | Run python and pygame code in your html](https://pygame-web.github.io/)
+[CPython Wasm specifics, when in the browser with emscripten runtime | pygame-web.github.io](https://pygame-web.github.io/wiki/python-wasm/)
 
 # Game Frame
 

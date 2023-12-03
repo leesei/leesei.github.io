@@ -2,7 +2,7 @@
 title: Web Development
 description: ""
 created: 2015-11-19
-updated: 2023-08-10
+updated: 2023-10-28
 tags:
   - css
   - javascript
@@ -21,6 +21,7 @@ tags:
 [Hypertext Style: Cool URIs don't change.](https://www.w3.org/Provider/Style/URI)
 
 [The Best of JavaScript and the web platform](https://bestof.js.org/)
+[Thinkster](https://thinkster.io/)
 [A practical guide to learning front end development for beginners](https://www.freecodecamp.org/news/a-practical-guide-to-learning-front-end-development-for-beginners-da6516505e41) 2019
 [A Guide to Different Web Technologies and How They Are Related | by Erik Engheim | Medium](https://erik-engheim.medium.com/a-guide-to-different-web-technologies-and-how-they-are-related-a0951c7b43f4)
 
@@ -75,6 +76,7 @@ tags:
 [Web Dev Simplified Blog](https://blog.webdevsimplified.com/) pure HTML/CSS tricks
 [Web Dev Simplified - YouTube](https://www.youtube.com/@WebDevSimplified)
 
+[Learn With Jason - YouTube](https://www.youtube.com/@learnwithjason)
 [Watch and Learn - YouTube](https://www.youtube.com/@WatchandLearnTutorials)
 
 ## Trends/Reports
@@ -132,9 +134,25 @@ tags:
 ## Backend
 
 Hussein Nasser
+[Hussein Nasser - YouTube](https://www.youtube.com/@hnasr)
 [The Backend Engineering Show - YouTube](https://www.youtube.com/playlist?list=PLQnljOFTspQU0ICDe-cL1EwXC4GDSayKY)
+[Database Engineering - YouTube](https://www.youtube.com/playlist?list=PLQnljOFTspQXjD0HOzN7P2tgzu7scWpl2)
 [Advice for beginner backend engineers who just started their new jobs in software companies - YouTube](https://www.youtube.com/watch?v=V3C0VvNrFZ8)
 [How to Become a Good Backend Engineer (Fundamentals) - YouTube](https://www.youtube.com/watch?v=V3ZPPPKEipA)
+
+Fundamentals of Backend Engineering Design patterns udemy course (link redirects to udemy with coupon)
+https://backend.husseinnasser.com
+Fundamentals of Networking for Effective Backends udemy course (link redirects to udemy with coupon)
+https://network.husseinnasser.com
+Fundamentals of Database Engineering udemy course (link redirects to udemy with coupon)
+https://database.husseinnasser.com
+Introduction to NGINX  (link redirects to udemy with coupon)
+https://nginx.husseinnasser.com
+Python on the Backend (link redirects to udemy with coupon)
+https://python.husseinnasser.com
+
+[Backend Developer Roadmap - Everything you need to know in 2023 - YouTube](https://www.youtube.com/watch?v=CWAi_2oLhYg)
+[🧑🏻‍💻 Backend Developer Roadmap | Alex Hyett](https://www.alexhyett.com/backend-developer-roadmap/)
 
 ## Cookies
 
@@ -172,6 +190,7 @@ Encodes the whole micro-webpage in hashtag.
 [Server Rendering in JavaScript Series' Articles - DEV Community](https://dev.to/ryansolid/series/13734)
 
 [Visual Explanation and Comparison of CSR, SSR, SSG and ISR - DEV Community](https://dev.to/pahanperera/visual-explanation-and-comparison-of-csr-ssr-ssg-and-isr-34ea)
+[Understanding SSR, CSR, ISR, and SSG: A Comprehensive Guide - DEV Community](https://dev.to/dj1samsoe/understanding-ssr-csr-isr-and-ssg-a-comprehensive-guide-add)
 
 [The many definitions of Server-Side Rendering—zachleat.com](https://www.zachleat.com/web/ssr-overloaded/) Component frameworks's SSR could be SSG (pre-rendering) or SSR (runtime rendering).
 
@@ -678,7 +697,21 @@ convert -resize x60  input.png apple-touch-icon-60x60.png
 [</> htmx - high power tools for html](https://htmx.org/)
 [Htmx: HTML Approach to Interactivity in a JavaScript World – The New Stack](https://thenewstack.io/htmx-html-approach-to-interactivity-in-a-javascript-world/)
 
+[Todo App using: Go Postgres HTMx TailwindCSS | This is the way - YouTube](https://www.youtube.com/watch?v=TlrFH-oPyLo)
+[Go TEMPL + HTMX | Brief look - YouTube](https://www.youtube.com/watch?v=PKbAjeMgMjw)
+
+[HTMX is awesome and here's why - YouTube](https://www.youtube.com/watch?v=kPP_TQFPfU8)
 [Golang + HTMX - Creating a Go webserver / HTMX Integration / Template Fragments - YouTube](https://www.youtube.com/watch?v=F9H6vYelYyU)
+[HTM - YouTube](https://www.youtube.com/playlist?list=PLWHKQJvswTpIEKtyeaARPER3u0XwtOAUq)
+
+[NO BUILD SYSTEM FOR HTMX???? | Prime Reacts - YouTube](https://www.youtube.com/watch?v=RuoUa-uGVnU)
+
+[The Truth About HTMX - YouTube](https://www.youtube.com/watch?v=NA5Fcgs_viU)
+[The Truth About HTMX | Prime Reacts - YouTube](https://www.youtube.com/watch?v=2hMrk7A8Wf0)
+
+ThPrimeTime
+[From React To HTMX - YouTube](https://www.youtube.com/watch?v=wIzwyyHolRs)
+[HTMX IS INSECURE (XSS) | Prime News - YouTube](https://www.youtube.com/watch?v=j5LPDuFRDP0)
 
 ### Hotwire/Stimulus
 

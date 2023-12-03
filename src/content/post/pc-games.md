@@ -2,7 +2,7 @@
 title: PC Games
 description: ""
 created: 2018-01-03
-updated: 2023-08-14
+updated: 2023-11-26
 tags:
   - games
 ---
@@ -175,6 +175,7 @@ New Big Picture mode from Steam desktop app in 2023-02
 
 [Sunshine documentation](https://docs.lizardbyte.dev/projects/sunshine/en/latest/)
 [LizardByte/Sunshine: Sunshine is a Gamestream host for Moonlight.](https://github.com/LizardByte/Sunshine)
+[Low-Latency Remote Desktop for Gaming and Work ... - YouTube](https://www.youtube.com/watch?v=YBH3MAvylVg)
 
 [Moonlight Game Streaming](http://moonlight-stream.com/) nVidia card
 [Setup Guide · moonlight-stream/moonlight-docs Wiki · GitHub](https://github.com/moonlight-stream/moonlight-docs/wiki/Setup-Guide)
@@ -214,12 +215,13 @@ New Big Picture mode from Steam desktop app in 2023-02
 
 [Steam Community :: Games](http://steamcommunity.com/id/<id>/games/)
 [Green Man Gaming](https://www.greenmangaming.com/) good
+[GameBillet | PC, Mac and Linux Games](https://www.gamebillet.com/)
 [GOG.com](https://www.gog.com/account)
 [Origin](https://www.origin.com/hkg/en-us/profile/games)
 [GAMES - Ubisoft Club](https://club.ubisoft.com/en-GB/games)
 [Humble Bundle - purchases](https://www.humblebundle.com/home/purchases)
 [Humble Bundle Library](https://www.humblebundle.com/home/keys)
-[Bundle Stars Orders](https://www.bundlestars.com/en/orders)
+[Fanatical | Buy PC Games, Steam Keys, Game Bundles](https://www.fanatical.com/en/orders)
 [Groupees Purchases](https://groupees.com/purchases)
 [Indiegala - Profile](https://www.indiegala.com/profile?user_id=<id>)
 [Download the latest indie games - itch.io](https://itch.io/)
@@ -705,6 +707,13 @@ r_soft_shadows none
 [King Abz - YouTube](https://www.youtube.com/@KingAbzTV)
 [The COG WEAPONS in Gears of War Lore - YouTube](https://www.youtube.com/watch?v=GI0TJiq9BJY)
 
+# Red Dead Redemption
+
+Leya 蕾雅
+[「碧血狂殺/荒野大鏢客救贖」專題(上): R 星的西部時代劇開幕了! Red Dead Redemption 2010 - YouTube](https://www.youtube.com/watch?v=Bx0sd6X2Q3g)
+[「碧血狂殺/荒野大鏢客救贖」專題(下): 約翰馬斯頓的故事, 十年後依然震撼! Red Dead Redemption 2010 - YouTube](https://www.youtube.com/watch?v=oeYDsgr92yk)
+[【碧血狂殺/荒野大鏢客 2】亞德勒夫人的一生，范德林幫女戰神 (遊戲統計局#15) Red Dead Redemption 2 - YouTube](https://www.youtube.com/watch?v=AtiaykHn1x8)
+
 # Red Dead Redemption 2
 
 Epic Sales @2021-12 $154 Standard, $227 Ultimate (not worth it)
@@ -731,6 +740,8 @@ Missori Fox Trotter > Turkoman > Rose Gray Bay Arabian > Black Arabian > White A
 [How To Rob Trains & NO BOUNTY! The PERFECT Robbery - Red Dead Redemption 2 Easy Money [RDR2] - YouTube](https://www.youtube.com/watch?v=_UANnDH1oh0)
 
 [提前遇見下世代的遊戲——《荒野大鏢客救贖 2 Red Dead Redemption II》鑒賞【就知道玩遊戲 39】 - YouTube](https://www.youtube.com/watch?v=_wCgLGDjggk)
+
+Leya 蕾雅
 [西部已死 -「碧血狂殺/荒野大鏢客救贖 2」專題(上) Red Dead Redemption II 2018 - YouTube](https://www.youtube.com/watch?v=fZvrLY6_tKg)
 [全網最詳盡劇情解说「碧血狂殺 2/荒野大鏢客救贖 2」(中) - 最後的旅途 Red Dead Redemption II 2018 4K 高清 - YouTube](https://www.youtube.com/watch?v=g_8tG7kM_JE)
 [「碧血狂殺/荒野大鏢客救贖」專題(下): 約翰馬斯頓的故事, 十年後依然震撼! Red Dead Redemption 2010 - YouTube](https://www.youtube.com/watch?v=oeYDsgr92yk)
@@ -890,14 +901,14 @@ Leya
 [Hollow Knight Wiki | FANDOM powered by Wikia](https://hollowknight.fandom.com/wiki/Hollow_Knight_Wiki)
 [Hollow Knight | The Completionist - YouTube](https://www.youtube.com/watch?v=e4QGKT28kj0)
 
-[獨立遊戲怎麼那麼好玩呢？《空洞騎士 Hollow Knight》鑒賞【就知道玩遊戲 29】 - YouTube](https://www.youtube.com/watch?v=m4cSE--5rso)
-[What Makes a Good Metroidvania? - YouTube](https://www.youtube.com/watch?v=NcbB09mjMGk)
-
+[Category:Spells and Abilities (Hollow Knight) | Hollow Knight Wiki | FANDOM powered by Wikia](<https://hollowknight.fandom.com/wiki/Category:Spells_and_Abilities_(Hollow_Knight)>)
 [空洞骑士（虚空骑士）攻略集合 - YouTube](https://www.youtube.com/playlist?list=PL5Nnuy0hm7upg21POCCHVatFYkT8y0Z7D) dogsama
 [空洞骑士（窟窿骑士）故事解析集合 - YouTube](https://www.youtube.com/playlist?list=PL5Nnuy0hm7urUv27BVyO9TpGpQxh4MQAY) dogsama
 
 [The World Design of Hollow Knight | Boss Keys - YouTube](https://www.youtube.com/watch?v=7ITtPPE-pXE)
-[Category:Spells and Abilities (Hollow Knight) | Hollow Knight Wiki | FANDOM powered by Wikia](<https://hollowknight.fandom.com/wiki/Category:Spells_and_Abilities_(Hollow_Knight)>)
+[Hollow Knight - 6 Years Later. - YouTube](https://www.youtube.com/watch?v=_eDUHT3LBrM)
+[獨立遊戲怎麼那麼好玩呢？《空洞騎士 Hollow Knight》鑒賞【就知道玩遊戲 29】 - YouTube](https://www.youtube.com/watch?v=m4cSE--5rso)
+[What Makes a Good Metroidvania? - YouTube](https://www.youtube.com/watch?v=NcbB09mjMGk)
 
 # Disgaea
 
@@ -958,26 +969,21 @@ Leya
 [《艾爾登法環》劇情解析（下），從「黑刀之夜」的策畫直到推測「梅琳娜」的真實身份｜ SKY - YouTube](https://www.youtube.com/watch?v=p3UIG6jcWBs)
 [Elden Ring Story & Endings Explained - YouTube](https://www.youtube.com/watch?v=kblqhg_qbtQ)
 
+[艾尔登法环系列 - YouTube](https://www.youtube.com/playlist?list=PLBxed0O8BXCeqCk4vqlxdVzBgRiEZZbvF) 艾尔登法环编年史
+[艾爾登法環攻略專區 - YouTube](https://www.youtube.com/playlist?list=PLSQU_UAK-oW8RCFHZLIBkep_ij7NUvJfH) 遊戲塔樓
+
 [老頭環【石川劇場】普通人都能用的 10 大最強流派！任你選！！新手都不用怕！！ - YouTube](https://www.youtube.com/watch?v=JCie5xaLwuU)
 [艾尔登法环攻略站 - YouTube](https://www.youtube.com/channel/UC6fGDEopuKEhQjNbAJ7lC6w)
 
-# BioShock
+# 隻狼
 
-[History of BioShock (1994 - 2019) - YouTube](https://www.youtube.com/watch?v=bmS9C3PYHlE)
-[107 BioShock Facts YOU Should Know | The Leaderboard - YouTube](https://www.youtube.com/watch?v=XOfs3Cyblw4)
+[龙崎棒棒糖狼学研习者 - YouTube](https://www.youtube.com/playlist?list=PLBxed0O8BXCdti0uuiQ7tvDtKrQEZZs42) 艾尔登法环编年史
 
-[BioShock revisited: unpicking the complex, messy legacy of 2K's knockout franchise | TechRadar](https://www.techradar.com/news/bioshock-revisited-unpicking-the-complex-messy-legacy-of-2ks-knockout-franchise)
-[Would You Kindly Read This Article on Gaming’s Greatest Plot Twist? - VICE](https://www.vice.com/en_us/article/exqb7p/would-you-kindly-read-this-article-on-gamings-greatest-plot-twist-915)
+# 黑神话悟空
 
-[The Philosophy of BioShock – Wisecrack Edition - YouTube](https://www.youtube.com/watch?v=yKf4MtZ4RQA)
-[Why You Wouldn't Survive Bioshock's Rapture Civil War - YouTube](https://www.youtube.com/watch?v=s9pV4CsBLZs)
-[BioShock 2: Is It Deep or Dumb? – Wisecrack Edition - YouTube](https://www.youtube.com/watch?v=b81nGs7J3y0)
-[Bioshock Infinite Full Storyline Explained (Campaign & Burial at Sea) - YouTube](https://www.youtube.com/watch?v=54GS-hDb3Y8)
+[黑神话悟空 - YouTube](https://www.youtube.com/playlist?list=PLBxed0O8BXCe61aIa4meqLIUrfDHaDOmb) 艾尔登法环编年史
 
-[「生化奇兵」完全回顧 - 十四年前震撼業界的詭異復古科幻，現在還能稱為神作嗎? Bioshock 2007 - YouTube](https://www.youtube.com/watch?v=WekK8x6nD84)
-[「生化奇兵 2」完全回顧 - 小妹妹的秘密和烏托邦的結局 Bioshock 2 2010 - YouTube](https://www.youtube.com/watch?v=8P3IWZbVv0A)
-[「生化奇兵:無限之城」完全解析(上) - 你懼怕神明嗎? Bioshock Infinite 4K - YouTube](https://www.youtube.com/watch?v=bFkFtc5PzN0)
-[「生化奇兵:無限之城」完全解析(下) - 沒有神的旨意, 只有人的選擇 Bioshock Infinite 4K - YouTube](https://www.youtube.com/watch?v=UtKvXI5aYlA)
+[鬥戰神-黑神話 - YouTube](https://www.youtube.com/playlist?list=PLSQU_UAK-oW8-0NxmVcT0wJN3tA9s6cn_) 遊戲塔樓
 
 # A Plague Tale
 

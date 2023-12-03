@@ -2,6 +2,7 @@
 title: Artificial Intelligence
 description: ""
 created: 2015-04-14
+updated: 2023-11-27
 tags:
   - ai
   - artificial-intelligence
@@ -231,10 +232,18 @@ Clustering is usually a task for unsupervised learners. The algorithm is expecte
 [Machine Learning, Ethics, and Open Source Licensing (Part I/II)](https://thegradient.pub/machine-learning-ethics-and-open-source-licensing/)
 [Machine Learning, Ethics, and Open Source Licensing (Part II/II)](https://thegradient.pub/machine-learning-ethics-and-open-source-licensing-2/)
 
-## Limits
+## Limits/Is AI intelligent?
 
 [Deep Learning Has Limits. But Its Commercial Impact Has Just Begun.](https://www.forbes.com/sites/robtoews/2020/02/09/deep-learning-has-limits-but-its-commercial-impact-has-just-begun/amp/)
 [Deep Learning: A Critical Appraisal](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf) (PDF)
+
+[why AI can't pass this test - YouTube](https://www.youtube.com/watch?v=QrSCwxrLrRc)
+[How Important is IQ? - YouTube](https://www.youtube.com/watch?v=FkKPsLxgpuY)
+[Does IQ Really Measure How Smart You Are? - YouTube](https://www.youtube.com/watch?v=7p2a9B35Xn0)
+[Geoffrey Hinton - Two Paths to Intelligence - YouTube](https://www.youtube.com/watch?v=rGgGOccMEiY)
+
+[François Chollet: Measures of Intelligence | Lex Fridman Podcast #120 - YouTube](https://www.youtube.com/watch?v=PUAdj3w3wO4)
+[How to measure human intelligence | Richard Haier and Lex Fridman - YouTube](https://www.youtube.com/watch?v=EIYYYhXA8sg)
 
 ## Singularity
 
@@ -329,6 +338,7 @@ Harmonic mean of precision and recall
 [Why deep-learning AIs are so easy to fool](https://www.nature.com/articles/d41586-019-03013-5)
 [Why deep-learning methods confidently recognize images that are nonsense](https://techxplore.com/news/2021-12-deep-learning-methods-confidently-images-nonsense.html) over-interpretation
 [This AI Does Nothing In Games…And Still Wins! - YouTube](https://www.youtube.com/watch?v=u5wtoH0_KuA)
+[This Image Breaks AI - YouTube](https://www.youtube.com/watch?v=p6CfR3Wpz7Y)
 
 [Welcome to the cleverhans blog | cleverhans-blog](http://www.cleverhans.io/)
 [tensorflow/cleverhans: An adversarial example library for constructing attacks, building defenses, and benchmarking both](https://github.com/tensorflow/cleverhans)
@@ -382,6 +392,8 @@ Google’s sophisticated WaveNet audio processing neural network, and because it
 
 [keon/awesome-nlp: A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp)
 [Deep Learning for NLP: ANNs, RNNs and LSTMs explained!](https://www.kdnuggets.com/2019/08/deep-learning-nlp-explained.html)
+
+[Introducing speech-to-text, text-to-speech, and more for 1,100+ languages](https://ai.meta.com/blog/multilingual-model-speech-recognition/) Meta
 
 [jellyfish documentation](https://jellyfish.readthedocs.io/en/latest/)
 [jamesturk/jellyfish: 🎐 a python library for doing approximate and phonetic matching of strings.](https://github.com/jamesturk/jellyfish)
@@ -550,6 +562,8 @@ Duality-gap based Heterogeneous Learning
 
 [An Introduction to Support Vector Regression (SVR) - Towards Data Science](https://towardsdatascience.com/an-introduction-to-support-vector-regression-svr-a3ebc1672c2)
 [Linear SVM Classifier: Step-by-step Theoretical Explanation with Python Implementation | by Tarlan Ahadli | Towards Data Science](https://towardsdatascience.com/linear-svm-classifier-step-by-step-theoretical-explanation-with-python-implementation-69767437e0e6)
+[Support Vector Machines From Scratch - DEV Community](https://dev.to/gallettilance/support-vector-machines-from-scratch-4h7)
+
 [Support Vector Machine (SVM) in 2 minutes - YouTube](https://www.youtube.com/watch?v=_YPScrckx28)
 [Support Vector Machines - YouTube](https://www.youtube.com/playlist?list=PLblh5JKOoLUL3IJ4-yor0HzkqDQ3JmJkc) StatQuest
 
@@ -663,10 +677,10 @@ Proximal Policy Optimization, an advanced RL algorithm that requires less data t
 
 ### DeepMind
 
-[DeepMind](https://deepmind.com/)
-[DeepMind - Wikiwand](https://www.wikiwand.com/en/DeepMind)
-[DeepMind - YouTube](https://www.youtube.com/c/DeepMind)
-[DeepMind](https://github.com/deepmind) on GitHub
+[Google DeepMind](https://www.deepmind.com/)
+[Google DeepMind - Wikiwand](https://www.wikiwand.com/en/Google_DeepMind)
+[Google DeepMind - YouTube](https://www.youtube.com/@Google_DeepMind)
+[Google DeepMind](https://github.com/google-deepmind) on GitHub
 
 [DeepMind losses mount as Google spends heavily to win AI arms race](https://www.telegraph.co.uk/technology/2019/08/07/deepmind-losses-mount-google-spends-heavily-win-ai-arms-race/amp/)
 
@@ -879,6 +893,7 @@ Deep Learning = Artificial Neural Networks with more than 1 hidden layers
 [Speeding up Convolutional Neural Networks - DEV Community 👩‍💻👨‍💻](https://dev.to/alexburlacu/speeding-up-convolutional-neural-networks-178g)
 [Why it’s Not Difficult to Train A Neural Network with a Dynamic Structure Anymore! – Medium](https://medium.com/@tanaygahlot/why-its-not-difficult-to-train-neural-network-with-dynamic-structure-anymore-bc5e2f67fef0#.but8bx3nz)
 [Three pitfalls to avoid in machine learning](https://www.nature.com/articles/d41586-019-02307-y)
+[Why do Convolutional Neural Networks work so well? - YouTube](https://www.youtube.com/watch?v=8iIdWHjleIs)
 
 [How to build your own Neural Network from scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
 [On Implementing Deep Learning Library from Scratch in Python](https://towardsdatascience.com/on-implementing-deep-learning-library-from-scratch-in-python-c93c942710a8)
@@ -896,6 +911,10 @@ Deep Learning = Artificial Neural Networks with more than 1 hidden layers
 [ImageNet: the data that spawned the current AI boom — Quartz](https://qz.com/1034972/the-data-that-changed-the-direction-of-ai-research-and-possibly-the-world/)
 
 [Conv2d: Finally Understand What Happens in the Forward Pass | by ⭐Axel Thevenot | Towards Data Science](https://towardsdatascience.com/conv2d-to-finally-understand-what-happens-in-the-forward-pass-1bbaafb0b148)
+
+## Analog ANN
+
+[運算速度比NVIDIA輝達GPU快數百倍！？新對手：類比人工智慧Analog AI，性能超越圖形處理器GPU！它將如何影響人工智慧AI產業呢？ - YouTube](https://www.youtube.com/watch?v=P5vezHMuT-Q)
 
 ## Math
 
@@ -1307,6 +1326,12 @@ DSSTNE, pronounced “destiny”, optimizes for data sparseness and scalability 
 [BVLC/caffe: Caffe: a fast open framework for deep learning.](https://github.com/BVLC/caffe)
 
 [Caffe2 | A New Lightweight, Modular, and Scalable Deep Learning Framework](https://caffe2.ai/)
+
+---
+
+# AI Model Security
+
+[trailofbits/awesome-ml-security](https://github.com/trailofbits/awesome-ml-security)
 
 ---
 

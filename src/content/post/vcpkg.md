@@ -2,6 +2,7 @@
 title: vcpkg
 description: Open source C/C++ dependency manager from Microsoft
 created: 2023-05-19
+updated: 2023-09-29
 tags:
   - package-manager
   - vcpkg

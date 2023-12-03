@@ -2,7 +2,7 @@
 title: Bun
 description: Fast *all-in-one* JavaScript runtime
 created: 2023-03-14
-updated: 2023-07-23
+updated: 2023-11-22
 tags:
   - javascript/runtime
   - package-manager
@@ -24,6 +24,10 @@ tags:
 [Getting started with Bun and React - LogRocket Blog](https://blog.logrocket.com/getting-started-bun-react/)
 [Let's create a next.js app with bun - DEV Community](https://dev.to/ashirbadgudu/lets-create-a-nextjs-app-with-bun-48l6)
 [Bun vs. Node.js | refine](https://refine.dev/blog/bun-js-vs-node/)
+
+[Bun 1.0 | Bun Blog](https://bun.sh/blog/bun-v1.0) 2023-09
+[Bun 1.0 is here - YouTube](https://www.youtube.com/watch?v=BsnCpESUEqM)
+[Bun Is Better Than I Hoped - YouTube](https://www.youtube.com/watch?v=dQkv5C-Lfkw) Theo
 
 ```sh
 npm install -g bun
@@ -100,4 +104,18 @@ bun pm - package manager related commands
 [Elysia - Fast, and friendly Bun web frameworks | Elysia.js](https://elysiajs.com/) tRPC, GQL, OpenAPI, JWT, type checks
 [The BETH Stack: Build Hypermedia-Driven Web Apps with Great DX and Performance - YouTube](https://www.youtube.com/watch?v=cpzowDDJj24) Bun, Elysia, Turso, HTMX + Typed HTML
 
+[Hono - Ultrafast web framework for the Edges](https://hono.dev/)
+
 [Buchta](https://buchtajs.com/)
+
+[Bun Crash Course 2023 with HTMX example - YouTube](https://www.youtube.com/watch?v=zNE5H6nOeCI) 2023-09
+
+## Packages
+
+[rgl/try-puppeteer-in-bun: try puppeteer in bun](https://github.com/rgl/try-puppeteer-in-bun)
+[Fix `postinstall` and finish `trustedDependencies` · Issue #4959 · oven-sh/bun](https://github.com/oven-sh/bun/issues/4959) `trustedDependencies` is a workaround for non-whitelisted packages
+[`bun add puppeteer` doesn't run postinstall script for trusted dependency · Issue #4705 · oven-sh/bun · GitHub](https://github.com/oven-sh/bun/issues/4705)
+
+[Workaround](https://github.com/oven-sh/bun/issues/4705#issuecomment-1726000489):
+`bunx @puppeteer/browsers install chrome@stable --path $HOME/.cache/puppeteer`
+and set `PUPPETEER_EXECUTABLE_PATH` in `.env`

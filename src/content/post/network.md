@@ -2,22 +2,30 @@
 title: Network
 description: ""
 created: 2016-04-24
-updated: 2023-07-28
+updated: 2023-11-22
 tags:
   - anycast
+  - comp/network
   - docker
   - ip
-  - comp/network
   - osi
 ---
 
 [Computer Networks From Scratch](https://www.networksfromscratch.com/)
 
+[Here comes 5Gbps networking over standard cables | Ars Technica UK](http://arstechnica.co.uk/gadgets/2016/09/5gbps-ethernet-standard-details-8023bz/)
+
+[科普文：详解音视频直播中的低延时](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247488746&idx=1&sn=f4e7471c1886347d663f81f97399cd3e&chksm=f951a1a9ce2628bf7d6b48d6a9ca2647cd3d7eb45a335f997ecbfb962c5832b368918fa13d0c&scene=27#wechat_redirect)
+
+[Ethernet (50th Birthday) - Computerphile - YouTube](https://www.youtube.com/watch?v=TkOVgkcrvbg)
+
+[Ten Windows 10 network commands everyone one should know - TechRepublic](https://www.techrepublic.com/article/ten-windows-10-network-commands-everyone-one-should-know/)
+
+## OSI Model
+
 [OSI model - Wikiwand](https://www.wikiwand.com/en/OSI_model)
 [The OSI model explained: How to understand (and remember) the 7 layer network model | Network World](https://www.networkworld.com/article/3239677/lan-wan/the-osi-model-explained-how-to-understand-and-remember-the-7-layer-network-model.html)
 [The OSI Model – The 7 Layers of Networking Explained in Plain English](https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english/)
-
-[CompTIA Network+ N10-007 Training Course - YouTube](https://www.youtube.com/playlist?list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd) ❗!important
 
 [What Is Layer-2 and Why Do We Need It? « ipSpace.net by @ioshints](http://blog.ipspace.net/2015/04/what-is-layer-2-and-why-do-we-need-it.html)
 [IP addresses & routing - Julia Evans](https://jvns.ca/blog/2018/07/24/ip-addresses-routing/)
@@ -29,24 +37,19 @@ tags:
 [Lecture OSI and TCP/IP Models - YouTube](https://www.youtube.com/watch?v=Pje0l5r7_lk)
 [The OSI Model Demystified - YouTube](https://www.youtube.com/watch?v=HEEnLZV2wGI)
 
-[Here comes 5Gbps networking over standard cables | Ars Technica UK](http://arstechnica.co.uk/gadgets/2016/09/5gbps-ethernet-standard-details-8023bz/)
+## Course/Video
 
-[科普文：详解音视频直播中的低延时](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247488746&idx=1&sn=f4e7471c1886347d663f81f97399cd3e&chksm=f951a1a9ce2628bf7d6b48d6a9ca2647cd3d7eb45a335f997ecbfb962c5832b368918fa13d0c&scene=27#wechat_redirect)
-
-[Ethernet (50th Birthday) - Computerphile - YouTube](https://www.youtube.com/watch?v=TkOVgkcrvbg)
+[Viatto - YouTube](https://www.youtube.com/@KeepingITSimple)
+[David Bombal - YouTube](https://www.youtube.com/@davidbombal)
+[Chris Greer - YouTube](https://www.youtube.com/@ChrisGreer)
 
 [Computer Networks: Crash Course Computer Science #28 - YouTube](https://www.youtube.com/watch?v=3QhU9jd03a0)
 [The Internet: Crash Course Computer Science #29 - YouTube](https://www.youtube.com/watch?v=AEaKrq3SpW8)
 [The World Wide Web: Crash Course Computer Science #30 - YouTube](https://www.youtube.com/watch?v=guvsH5OFizE)
 [Your Ultimate Guide To Computer Networking in 2019](https://www.potatopirates.game/ultimate-computer-network-guide)
 
-[Viatto - YouTube](https://www.youtube.com/c/KeepingITSimple/featured)
-[David Bombal - YouTube](https://www.youtube.com/@davidbombal)
-[Chris Greer - YouTube](https://www.youtube.com/c/ChrisGreer)
-
+[CompTIA Network+ N10-007 Training Course - YouTube](https://www.youtube.com/playlist?list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd) ❗!important
 [Video Notes: Tanenbaum, Wetherall Computer Networks 5e](http://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html)
-
-[Ten Windows 10 network commands everyone one should know - TechRepublic](https://www.techrepublic.com/article/ten-windows-10-network-commands-everyone-one-should-know/)
 
 ## Netbox
 
@@ -111,6 +114,17 @@ Link-local: in absence of DHCP or static address, not routing
 [What is CIDR Notation?](http://whatismyipaddress.com/cidr)
 [What is CIDR (Classless Inter-Domain Routing or supernetting)? - Definition from WhatIs.com](http://searchnetworking.techtarget.com/definition/CIDR)
 
+## VLAN
+
+[Subnets vs VLANs - YouTube](https://www.youtube.com/watch?v=6_giEv20En0)
+[How to structure networks with VLANs - YouTube](https://www.youtube.com/watch?v=lhrlrvVZnII)
+
+[Network Virtual LANs (VLANs), Explained Simply (VLANs, Part 1) - YouTube](https://www.youtube.com/watch?v=C81pyQaJgj8)
+[VLANs - Configuring Three Ethernet Switches (VLANs, Part 2) - YouTube](https://www.youtube.com/watch?v=84B0iCqah_c)
+
+[Setting up VLANs in pfSense - YouTube](https://www.youtube.com/watch?v=rHE6MCL4Gz8)
+[What is a VLAN??? - How to setup VLANs in your Home Network and WHY YOU NEED THEM - YouTube](https://www.youtube.com/watch?v=XdqP14NclZ0)
+
 ## DHCP
 
 [RFC 1541 - Dynamic Host Configuration Protocol](https://datatracker.ietf.org/doc/html/rfc1541)
@@ -124,6 +138,7 @@ Link-local: in absence of DHCP or static address, not routing
 
 [Why was Facebook down for five hours? - YouTube](https://www.youtube.com/watch?v=-wMU8vmfaYo) DNS, BGP
 [What is BGP? | BGP routing explained | Cloudflare](https://www.cloudflare.com/learning/security/glossary/what-is-bgp/)
+[Hurricane Electric BGP Toolkit](https://bgp.he.net/) IP range lookup
 
 [Configuring Multiple Default Routes in Linux | Darien Kindlund's Blog](https://kindlund.wordpress.com/2007/11/19/configuring-multiple-default-routes-in-linux/)
 [Two Default Gateways on One System - Thomas-Krenn-Wiki](https://www.thomas-krenn.com/en/wiki/Two_Default_Gateways_on_One_System)
@@ -304,8 +319,8 @@ Fabrics: A local-area RDMA network is usually referred to as a fabric.
 
 ## Proxy
 
-[haad/proxychains: proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.](https://github.com/haad/proxychains)
-[learning hacking? DON'T make this mistake!! (hide yourself with Kali Linux and ProxyChains) - YouTube](https://www.youtube.com/watch?v=qsA8zREbt6g)
+[[cyber-security#proxychains]]
+
 [The Ultimate Guide to HTTP vs. SOCKS Proxies in 2023](https://research.aimultiple.com/http-vs-socks-proxy/)
 
 [10 Free Proxy Servers for Anonymous Web Browsing](https://www.fossmint.com/free-proxy-for-anonymous-web-browsing/)
@@ -322,6 +337,7 @@ Fabrics: A local-area RDMA network is usually referred to as a fabric.
 [your home router SUCKS!! (use pfSense instead) - YouTube](https://www.youtube.com/watch?v=lUzSsX4T4WQ)
 
 [OPNsense® a true open source security platform and more - OPNsense® is a true open source firewall and more](https://opnsense.org/)
+[HOW TO SETUP OPNsense: From First Boot to Fully Functional (with IPv6!) - YouTube](https://www.youtube.com/watch?v=Yb7JdIFriKI)
 [pfSense vs OPNsense](https://teklager.se/en/pfsense-vs-opnsense/)
 [pfSense® 与 OPNsense® 技术比较 | 鐵血男兒的 BLOG](https://pfschina.org/wp/?p=28)
 
@@ -410,6 +426,7 @@ eBPF should have been "Kernel Script"
 [Learn eBPF Tracing: Tutorial and Examples](http://www.brendangregg.com/blog/2019-01-01/learn-ebpf-tracing.html)
 [How io_uring and eBPF Will Revolutionize Programming in Linux – The New Stack](https://thenewstack.io/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
 [BPF For Observability: Getting Started Quickly | Linux Journal](https://www.linuxjournal.com/content/bpf-observability-getting-started-quickly)
+[Kernelless Kernel Programming (eBPF) - Computerphile - YouTube](https://www.youtube.com/watch?v=J_EehoXLbIU)
 
 [How eBPF Streamlines the Service Mesh – The New Stack](https://thenewstack.io/how-ebpf-streamlines-the-service-mesh/)
 [Why is the kernel community replacing iptables with BPF? — Cilium](https://cilium.io/blog/2018/04/17/why-is-the-kernel-community-replacing-iptables/)
@@ -439,6 +456,15 @@ eBPF should have been "Kernel Script"
 [dylandreimerink/edb: An eBPF program debugger](https://github.com/dylandreimerink/edb)
 
 [The One About eBPF | TechSNAP 388 | Jupiter Broadcasting](https://www.jupiterbroadcasting.com/127741/the-one-about-ebpf-techsnap-388/)
+
+### Tools
+
+[trailofbits/linuxevents: A sample PoC for container-aware exec events for osquery](https://github.com/trailofbits/linuxevents)
+[trailofbits/ebpf-verifier: Harness for the Linux kernel eBPF verifier](https://github.com/trailofbits/ebpf-verifier)
+[trailofbits/ebpfpub: ebpfpub is a generic function tracing library for Linux that supports tracepoints, kprobes and uprobes.](https://github.com/trailofbits/ebpfpub)
+[trailofbits/ebpfault: A BPF-based syscall fault injector](https://github.com/trailofbits/ebpfault)
+[trailofbits/btfparse: A C++ library that parses debug information encoded in BTF format](https://github.com/trailofbits/btfparse)
+[trailofbits/ebpf-common: Various utilities useful for developers writing BPF tools](https://github.com/trailofbits/ebpf-common)
 
 ## Windows Filtering Platform (WFP)
 
@@ -481,6 +507,15 @@ curl -T uploadfile -u user:passwd ftp://ftp.upload.com/myfile
 [Physical layer: signals, waves and transmission types - ICTShore.com](https://www.ictshore.com/free-ccna-course/physical-layer-signals/)
 [Phase-locked loop - Wikiwand](https://www.wikiwand.com/en/Phase-locked_loop)
 [Unipolar encoding - Wikiwand](https://www.wikiwand.com/en/Unipolar_encoding)
+
+## NTP/PTP
+
+[Network Time Protocol - Wikiwand](https://www.wikiwand.com/en/Network%20Time%20Protocol)
+
+[Precision Time Protocol - Wikiwand](https://www.wikiwand.com/en/Precision_Time_Protocol)
+[How works the Precision Time Protocol (PTP)?](https://www.bodet-time.com/products/time-server/articles-and-resources/1774-how-works-the-precision-time-protocol-ptp.html)
+[PTP: Timing accuracy and precision for the future of computing](https://engineering.fb.com/2022/11/21/production-engineering/future-computing-ptp/)
+[How Precision Time Protocol is being deployed at Meta](https://engineering.fb.com/2022/11/21/production-engineering/precision-time-protocol-at-meta/)
 
 ## Homeplug
 

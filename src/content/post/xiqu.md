@@ -2,6 +2,7 @@
 title: 戲曲 Xiqu
 description: Chinese opera
 created: 2023-06-13
+updated: 2023-09-29
 tags:
   - trivia
 ---

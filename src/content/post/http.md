@@ -2,7 +2,7 @@
 title: HTTP
 description: ""
 created: 2022-08-23
-updated: 2023-07-27
+updated: 2023-10-09
 tags:
   - http
   - web
@@ -88,6 +88,9 @@ Server Push is deprecated, use 103 Early Hints instead.
 [RFC 9114: HTTP/3](https://www.rfc-editor.org/rfc/rfc9114)
 [RFC 9204: QPACK: Field Compression for HTTP/3](https://www.rfc-editor.org/rfc/rfc9204)
 [RFC 9218: Extensible Prioritization Scheme for HTTP](https://www.rfc-editor.org/rfc/rfc9218) HTTP/2 and HTTP/3
+
+[Why HTTP/3 is eating the world | APNIC Blog](https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/)
+[HTTP3 Is Eating The World | Prime Reacts - YouTube](https://www.youtube.com/watch?v=-jlYeQ3hOhY)
 
 [QUIC Working Group](https://quicwg.org/)
 [QUIC - Wikiwand](https://www.wikiwand.com/en/QUIC)

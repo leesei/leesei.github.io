@@ -2,6 +2,7 @@
 title: Docker.io
 description: Tools provided by Docker.io
 created: 2014-12-11
+updated: 2023-12-02
 tags:
   - container
   - dev/deploy
@@ -98,6 +99,14 @@ Compose Version 3 added `deploy` key, which is ignored in `docker-compose up` fo
 [bitnami-docker/redmine.md at master · bitnami/bitnami-docker](https://github.com/bitnami/bitnami-docker/blob/master/tutorials/redmine.md)
 <https://raw.githubusercontent.com/sameersbn/docker-redmine/master/docker-compose.yml>
 <https://raw.githubusercontent.com/sameersbn/docker-gitlab/master/docker-compose.yml>
+
+## Dockage
+
+[[devops.md#Uptime Kuma]]
+
+[Dockge](https://dockge.kuma.pet/)
+[louislam/dockge: A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager](https://github.com/louislam/dockge)
+[Dockge: A New Way To Manage Your Docker Containers - YouTube](https://www.youtube.com/watch?v=E805XcbTzgY)
 
 ## Docker Swarm (standalone)
 

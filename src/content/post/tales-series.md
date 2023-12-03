@@ -2,6 +2,7 @@
 title: Tales series
 description: ""
 created: 2023-08-14
+updated: 2023-11-25
 tags:
   - games
   - tales-series
@@ -26,6 +27,8 @@ Tales of Vesperia
 [Tales Of Vesperia 2019 Definitive.. Starter Guide + Game Info..Is this Game for you ? - YouTube](https://www.youtube.com/watch?v=nz6LYzxCO98)
 
 ## Tales of Vesperia
+
+[Tales of Vesperia](https://hyouta.com/vesperia/?version=pc&locale=eng)
 
 [Tales of Vesperia auto farm guide! Get Grade, EXP, Gald, Fell Arm power and more while you sleep! - YouTube](https://www.youtube.com/watch?v=GBWgstFksDA)
 

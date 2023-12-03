@@ -2,6 +2,7 @@
 title: Deno notes
 description: ""
 created: 2018-06-11
+updated: 2023-09-29
 tags:
   - deno
   - javascript/runtime
@@ -22,8 +23,12 @@ tags:
 
 [10 Things I Regret About Node.js - Ryan Dahl - JSConf EU 2018 - YouTube](https://www.youtube.com/watch?v=M3BM9TB-8yA)
 [Deno - HTTP 203 - YouTube](https://www.youtube.com/watch?v=SYkzk_j3yb0)
+[Deno Crash Course - YouTube](https://www.youtube.com/watch?v=NHHhiqwcfRM) 2020-05
 [Ryan Dahl's "My Dream Stack" at RemixConf 2022 - YouTube](https://www.youtube.com/watch?v=3NR9Spj0DmQ)
 ["What's next for Deno?" by Ryan Dahl (NodeCongress '23) - YouTube](https://www.youtube.com/watch?v=LVEGRj3RZSA)
+
+[Forced Optimization - YouTube](https://www.youtube.com/watch?v=LVEGRj3RZSA)
+["What to know about Deno 2.0" - YouTube](https://www.youtube.com/watch?v=5DX49vzLfqw)
 
 [Deno: The next step in Node.js - DEV Community](https://dev.to/siddharthshyniben/deno-the-next-step-in-node-js-ij1)
 [Building Your First Application With Deno](https://getstream.io/blog/build-deno-app/)
@@ -50,6 +55,13 @@ tags:
 ```sh
 deno types
 ```
+
+## Package Manager
+
+[Deno Registry](https://deno.land/r)
+
+[dnt - Deno to Node.js Transform | Manual | Deno](https://deno.land/manual@v1.36.4/advanced/publishing/dnt)
+[denoland/dnt: Deno to npm package build tool.](https://github.com/denoland/dnt)
 
 ## Libraries
 
@@ -84,6 +96,8 @@ deno types
 [Im-Beast/deno_tui: 🦕 Deno module for creating Terminal User Interfaces](https://github.com/Im-Beast/deno_tui)
 
 ### Database/ORM
+
+[[sql#ORM (or not)]]
 
 [Persist Data in Deno with npm using Prisma, Mongoose, Apollo, and more.](https://deno.com/blog/persistent-data-npm)
 

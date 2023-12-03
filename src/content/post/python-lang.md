@@ -2,7 +2,7 @@
 title: Python notes
 description: ""
 created: 2014-12-11
-updated: 2023-08-14
+updated: 2023-10-05
 tags:
   - comp/lang
   - python
@@ -52,7 +52,7 @@ All python code are executed statements, no such thing as declaration
 
 [Russell Keith-Magee - Keynote - PyCon 2019 - YouTube](https://youtu.be/ftP5BQh1-YM?t=1271) Black swan of Python
 
-## Features History
+## Changelog/Features History
 
 [A reverse chronology of some Python features](https://snarky.ca/a-reverse-chronology-of-some-python-features/)
 [Python 3.11: Cool New Features for You to Try – Real Python](https://realpython.com/python311-new-features/) better error messages; performance improvements; better async syntax; TOML; ExceptionGroup
@@ -119,6 +119,7 @@ Python version should be a requirement to be satisfied (by pinning particular ve
 [PY4E - Python for Everybody](https://www.py4e.com/)
 [Programming for Everybody (Getting Started with Python) | Coursera](https://www.coursera.org/learn/python)
 [Python for Everybody - Full University Python Course - YouTube](https://www.youtube.com/watch?v=8DvywoWv6fI)
+[Python Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=8124kv-632k) freeCodeCamp, 2:52:12
 
 [trinket - Python 3](https://trinket.io/features/python3) playground, with Skulpt
 [python-utils.com](https://www.python-utils.com/)
@@ -260,7 +261,9 @@ Tech With Tim
 ## Video
 
 [PyVideo.org](https://pyvideo.org/index.html)
-[mCoding - YouTube](https://www.youtube.com/c/mCodingWithJamesMurphy)
+[anthonywritescode - YouTube](https://www.youtube.com/@anthonywritescode)
+[ArjanCodes - YouTube](https://www.youtube.com/@ArjanCodes)
+[mCoding - YouTube](https://www.youtube.com/@mCoding)
 
 [Harvard CS50’s Introduction to Programming with Python – Full University Course - YouTube](https://www.youtube.com/watch?v=nLRL_NcnK-4) 15:57:47
 [Real Python - YouTube](https://www.youtube.com/@realpython)
@@ -283,8 +286,6 @@ Tech With Tim
 [PyCon 2018 - YouTube](https://www.youtube.com/@pycon2018)
 [PyCon 2018 - YouTube](https://www.youtube.com/playlist?list=PLW7hU4yo78_OoK53W8TIMba6GUhAtcNoQ)
 [PyCon 2019 - YouTube](https://www.youtube.com/@pycon2019)
-
-[Python Tutorial Videos - YouTube](https://www.youtube.com/playlist?list=PL9ooVrP1hQOHY-BeYrKHDrHKphsJOyRyu) Python 2
 
 ## Blogs
 
@@ -441,6 +442,8 @@ small integer (`-5` to `256` inclusive) and short strings are interned, use `int
 
 [Built-in Exceptions — Python 3 documentation](https://docs.python.org/3/library/exceptions.html#bltin-exceptions)
 [8. Errors and Exceptions — Python 3 documentation](https://docs.python.org/3/tutorial/errors.html)
+
+[Exception Handling Tips in Python ⚠ Write Better Python Code Part 7 - YouTube](https://www.youtube.com/watch?v=ZsvftkbbrR0)
 
 Never use catch all `except`, `Ctrl+C` generates `KeyboardInterrupt`
 [Using except: is a HUGE mistake - YouTube](https://www.youtube.com/watch?v=zrVfY9SuO64)
@@ -603,6 +606,8 @@ When you're removing from the head of a list, use `deque`
 
 ### `dataclasses`
 
+[[python-settings#Pydantic]]
+
 [dataclasses — Data Classes — Python documentation](https://docs.python.org/3/library/dataclasses.html)
 [The Ultimate Guide to Data Classes in Python 3.7 – Real Python](https://realpython.com/python-data-classes/) `@dataclass` dramatically ease class creation
 
@@ -718,8 +723,10 @@ Use `dis.dis()` to pretty print a function's byte code; see `adaptive`, `show_ca
 [PEP 703 – Making the Global Interpreter Lock Optional in CPython | peps.python.org](https://peps.python.org/pep-0703/)
 [Python moves to remove the GIL and boost concurrency | InfoWorld](https://www.infoworld.com/article/3704248/python-moves-to-remove-the-gil-and-boost-concurrency.html)
 [Talks - Łukasz Langa: Working Around the GIL with asyncio - YouTube](https://www.youtube.com/watch?v=oVhJAVS3g00)
+[python is removing the GIL! (PEP 703) (advanced) anthony explains #550 - YouTube](https://www.youtube.com/watch?v=OC2gnyfmwL8)
 
 [Understanding the Python GIL - YouTube](https://www.youtube.com/watch?v=Obt-vMVdM8s)
+[Talks - Alireza Farhidzadeh: Getting Around the GIL: Parallelizing Python for Better Performance - YouTube](https://www.youtube.com/watch?v=7d2FLFu2zJY)
 [PyVideo.org · to GIL or not to GIL: the Future of Multi-Core (C)Python](https://pyvideo.org/pycon-us-2019/to-gil-or-not-to-gil-the-future-of-multi-core-cpython.html) [slides](https://docs.google.com/presentation/d/1BuU6e-CKdZxDL5z9VBp19LAaIY8Ys2-jlcz-mD0Vr3c/mobilepresent?slide=id.p)
 [Python is NOT Single Threaded (and how to bypass the GIL) - YouTube](https://www.youtube.com/watch?v=m2yeB94CxVQ)
 [Keynote: Multithreaded Python without the GIL - presented by Sam Gross - YouTube](https://www.youtube.com/watch?v=9OOJcTp8dqE)
@@ -849,8 +856,16 @@ need `nonlocal`/`global` keywords when referencing non-local variables
 
 [python - Difference between @staticmethod and @classmethod - Stack Overflow](https://stackoverflow.com/questions/136097/difference-between-staticmethod-and-classmethod) `classmethod` may be overridden by subclass
 
+[type(obj) vs. obj.**class** in Python, and changing an object's class. - YouTube](https://www.youtube.com/watch?v=5vpdzRbfTIM)
+
+### OOP
+
+[Talks - Hynek Schlawack: Subclassing, Composition, Python, and You - YouTube](https://www.youtube.com/watch?v=k8MT5liCQ7g) author of `attrs`
+[Why COMPOSITION is better than INHERITANCE - detailed Python example - YouTube](https://www.youtube.com/watch?v=0mcP8ZpUR38)
+
 [Object-Oriented Programming (OOP) in Python 3 – Real Python](https://realpython.com/python3-object-oriented-programming/)
 [Inheritance and Composition: A Python OOP Guide – Real Python](https://realpython.com/inheritance-composition-python/)
+[Object-Oriented Programming (OOP) in Python 3 – Real Python](https://realpython.com/python3-object-oriented-programming/)
 [Object-Oriented Programming in Python](https://www.freecodecamp.org/news/object-oriented-programming-in-python/)
 [Learn object-oriented programming with Python | Opensource.com](https://opensource.com/article/19/7/get-modular-python-classes)
 [Python Metaclasses ~ The Python Corner](https://www.thepythoncorner.com/2018/05/python-metaclasses.html)
@@ -859,9 +874,6 @@ need `nonlocal`/`global` keywords when referencing non-local variables
 
 Inherit classes from object to signal usage of new style classes
 Avoid multiple inheritance with exception to mix-ins (for non-overridden functions not representing IS-A relationship)
-
-[Talks - Hynek Schlawack: Subclassing, Composition, Python, and You - YouTube](https://www.youtube.com/watch?v=k8MT5liCQ7g)
-[Why COMPOSITION is better than INHERITANCE - detailed Python example - YouTube](https://www.youtube.com/watch?v=0mcP8ZpUR38)
 
 ### attribute/descriptor/`@property`
 

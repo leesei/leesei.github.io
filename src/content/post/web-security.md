@@ -2,6 +2,7 @@
 title: Web Security
 description: ""
 created: 2015-05-18
+updated: 2023-11-28
 tags:
   - security
   - ssl
@@ -31,7 +32,8 @@ tags:
 [paragonie/awesome-appsec: A curated list of resources for learning about application security](https://github.com/paragonie/awesome-appsec)
 [Single Page Web App Security Cheat Sheet](https://github.com/eoftedal/writings/blob/master/published/javascript-security-cheat-sheet.md)
 
-[Rana Khalil - YouTube](https://www.youtube.com/c/RanaKhalil101) [Free Web Hacking Course - YouTube](https://www.youtube.com/watch?v=WqbrB12Jvgc) 1:08:03, Broken Access Control
+[Rana Khalil - YouTube](https://www.youtube.com/c/RanaKhalil101)
+[Free Web Hacking Course - YouTube](https://www.youtube.com/watch?v=WqbrB12Jvgc) 1:08:03, Broken Access Control
 
 [Web Security Academy: Free Online Training from PortSwigger](https://portswigger.net/web-security)
 
@@ -60,6 +62,8 @@ tags:
 [Vickie Li Dev - YouTube](https://www.youtube.com/channel/UCjQHiY2JeOkBamHSg_6UeFw)
 [Attacking Web Applications - YouTube](https://www.youtube.com/playlist?list=PLk6GyAyNDZmBQd1AWy91paDEtmkMMjT46)
 [Defending Web Applications - YouTube](https://www.youtube.com/playlist?list=PLk6GyAyNDZmBapoYXxoSG1fwzg9VaY2KS)
+
+[28c3 - YouTube](https://www.youtube.com/@28c3)
 
 [Frontend Security - Frontend Conf 2013, Zürich - YouTube](https://www.youtube.com/watch?v=fYjO5pIY1mY)
 [HTML5DevConf May2014: Mark Stuart, PayPal: Web Security in Node.js and JavaScript Apps (SPAs) - YouTube](https://www.youtube.com/watch?v=vE5kCqwoSUg&feature=youtu.be)
@@ -120,13 +124,16 @@ Cross Origin Resource Sharing
 Same Origin Policy
 
 [Cross-origin resource sharing - Wikiwand](https://www.wikiwand.com/en/Cross-origin_resource_sharing)
-[Using CORS - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/cors/)
+[Cross-Origin Resource Sharing (CORS) - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 [enable cross-origin resource sharing](http://enable-cors.org/index.html)
+
+[Cross-Origin Resource Sharing (CORS)  |  Articles  |  web.dev](https://web.dev/articles/cross-origin-resource-sharing)
+[Why you need "cross-origin isolated" for powerful features  |  Articles  |  web.dev](https://web.dev/articles/why-coop-coep)
+
 [Getting CORS Working](https://remysharp.com/2011/04/21/getting-cors-working)
-
+[Understanding CORS and cross-origin cookies | by Sharad Jain | Medium](https://medium.com/@sharadokey/understanding-cors-and-cross-origin-cookies-bf36d624da78)
+[authentication - Set cookies for cross origin requests - Stack Overflow](https://stackoverflow.com/questions/46288437/set-cookies-for-cross-origin-requests)
 [HTML5 Security Cheat Sheet - OWASP](https://www.owasp.org/index.php/HTML5_Security_Cheat_Sheet#Cross_Origin_Resource_Sharing)
-
-[Why you need "cross-origin isolated" for powerful features](https://web.dev/why-coop-coep/)
 
 ## XSRF/CSRF/CSURF
 
@@ -157,6 +164,9 @@ The counter-measure is to:
 [Excess XSS: A comprehensive tutorial on cross-site scripting](http://excess-xss.com/)
 [What is cross-site scripting (XSS) and how to prevent it? | Web Security Academy](https://portswigger.net/web-security/cross-site-scripting)
 
+[What is cross-site scripting (XSS) and how to prevent it? | Web Security Academy](https://portswigger.net/web-security/cross-site-scripting#what-is-cross-site-scripting-xss)
+[DOM clobbering | Web Security Academy](https://portswigger.net/web-security/dom-based/dom-clobbering)
+
 [Your API-Centric Web App Is Probably Not Safe Against XSS and CSRF](http://www.redotheweb.com/2015/11/09/api-security.html)
 
 [trufflesecurity/xsshunter](https://github.com/trufflesecurity/xsshunter)
@@ -164,6 +174,15 @@ The counter-measure is to:
 
 These are vulnerabilities that **exploits trust on user inputs**, the app renders or executes them without sanity check and escaping.
 It usually involves running malicious in the target site and reusing the user session and accessing the target site's cookies.
+
+[一次对 Tui Editor XSS 的挖掘与分析 | 离别歌](https://www.leavesongs.com/PENETRATION/a-tour-of-tui-editor-xss.html)
+
+```js
+// this triggers upon inserting to `innerHTML`
+const root = document.createElement("div");
+root.innerHTML = "<img src=1 onerror=alert(1)>";
+root.innerHTML = "<details open ontoggle=alert(1)>";
+```
 
 ## SQL injection
 

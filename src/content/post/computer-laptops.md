@@ -2,6 +2,7 @@
 title: Laptop
 description: Mostly my study of laptop on market in 2019
 created: 2019-05-03
+updated: 2023-09-29
 tags:
   - comp/hardware
   - laptop
@@ -15,7 +16,7 @@ tags:
 [cyber-pro](http://www.cyber-system-pro.com.hk/)
 [Compare Laptops - Latest laptop Comparison by Price, Specification, Features, Performance & Reviews | Gadgets Now](https://www.gadgetsnow.com/compare-laptops)
 
-![Panels](/_assets/computer-laptops/ABCD_panel.png)
+![Panels](./_assets/computer-laptops/ABCD_panel.png)
 A: LCD Back Cover
 B: Front bezel
 C: Palmrest

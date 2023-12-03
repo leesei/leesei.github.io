@@ -2,7 +2,7 @@
 title: Electronics
 description: ""
 created: 2018-09-12
-updated: 2023-08-08
+updated: 2023-09-29
 tags:
   - electronics
   - maker
@@ -41,6 +41,7 @@ tags:
 [How to Use a Multimeter - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter)
 [INA169 Breakout Board Hookup Guide - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/ina169-breakout-board-hookup-guide) measuring current
 [Multiplexer Breakout Hookup Guide - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/multiplexer-breakout-hookup-guide)
+[低電阻測量-四線式精準測量0.01Ω的原理 - 實作派電子實驗室](https://www.strongpilab.com/four-wire-measurement-how-it-work/)
 [DIY 制作 Switch 及手机维修神器，机械模拟指针式单表头双量程 USB 电流表，及改量程 - YouTube](https://www.youtube.com/watch?v=fNa3WelBksQ)
 
 [AddOhms Video Tutorials](http://addohms.com/)
@@ -95,6 +96,7 @@ Mobile electrons don't push each other to create the current. The current is a r
 [Early AC Power History - YouTube](https://www.youtube.com/playlist?list=PLB233828236F6BCAE)
 [How electricity works. . . . animated - YouTube](https://www.youtube.com/watch?v=ZInLPe_bezQ)
 [What are the advantages and disadvantages of a 50 Hz and a 60 Hz power supply? Why do countries prefer either of the frequencies? - Quora](https://www.quora.com/What-are-the-advantages-and-disadvantages-of-a-50-Hz-and-a-60-Hz-power-supply-Why-do-countries-prefer-either-of-the-frequencies)
+[Shocking History & Physics of AC Transformer - YouTube](https://www.youtube.com/watch?v=Q4XVlWqXUTU) 54:49, Westinghouse improved Tesla's patent
 
 [About AC Power Phases](http://www.edisontechcenter.org/phases.html)
 [Single Phase Electricity Explained - wiring diagram energy meter - YouTube](https://www.youtube.com/watch?v=W0_1xRqT8uU)
@@ -114,6 +116,10 @@ No return cable needed for balanced loads
 [Ground, Neutral and Hot wires (US/Can) - The Engineering Mindset](https://theengineeringmindset.com/ground-neutral-and-hot-wires-us-can/)
 [Ground Neutral and Hot wires explained - electrical engineering grounding ground fault - YouTube](https://www.youtube.com/watch?v=P-W42tk-fWc)
 [The GFCI/RCD: A Simple but Life-Saving Protector - YouTube](https://www.youtube.com/watch?v=ILBjnZq0n8s)
+
+Kathy Loves Physics & History
+[Physics and History of Why USA uses 120 volts and not 220 volts - YouTube](https://www.youtube.com/watch?v=7yRGvMgieEU)
+[History of 3-phase Electricity & Distribution - YouTube](https://www.youtube.com/watch?v=NEkegQanD2I)
 
 [Electric generator - Wikiwand](https://www.wikiwand.com/en/Electric_generator) a device that converts mechanical energy to electricity
 [發電機 - Wikiwand](https://www.wikiwand.com/zh-hant/发电机)

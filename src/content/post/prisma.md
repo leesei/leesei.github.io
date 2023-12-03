@@ -2,6 +2,7 @@
 title: Prisma
 description: ""
 created: 2023-03-08
+updated: 2023-09-29
 tags:
   - comp/database
   - nodejs
@@ -15,6 +16,8 @@ tags:
 [Getting started | Prisma Docs](https://www.prisma.io/docs/getting-started)
 [Prisma](https://github.com/prisma?type=source) GitHub org
 [Relation queries (Concepts) | Prisma Docs](https://www.prisma.io/docs/concepts/components/prisma-client/relation-queries)
+
+[ZenStack - Lighting-Fast Development for Database-Centric Apps | ZenStack](https://zenstack.dev/?utm_campaign=devto&utm_medium=organic&utm_content=ticket)
 
 [How Prisma and GraphQL fit together | Prisma](https://www.prisma.io/blog/prisma-and-graphql-mfl5y2r7t49c/) role changes of Prisma
 [Prisma – The Complete ORM for Node.js & TypeScript](https://www.prisma.io/blog/prisma-the-complete-orm-inw24qjeawmb)

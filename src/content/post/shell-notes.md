@@ -2,7 +2,7 @@
 title: Shell notes
 description: ""
 created: 2014-12-08
-updated: 2023-08-14
+updated: 2023-11-02
 tags:
   - linux
   - shell
@@ -99,12 +99,22 @@ Honorable mentions:
 [twpayne/chezmoi: Manage your dotfiles across multiple machines, securely.](https://github.com/twpayne/chezmoi)
 [Linux Fu: The Kitchen Sync | Hackaday](https://hackaday.com/2019/01/10/linux-fu-the-kitchen-sync/)
 
-[Brandon Invergo - Using GNU Stow to manage your dotfiles](http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
-[Managing dotfiles using GNU Stow](https://www.bharatkalluri.in/post/manage-dotfiles-using-stow/)
-[Use Stow for configuration management of multiple machines | Opensource.com](https://opensource.com/article/20/1/configuration-management-stow)
-
 [svetlyak40wt/dotfiler: Shell agnostic git based dotfiles package manager, written in Python.](https://github.com/svetlyak40wt/dotfiler)
 [Using Dropbox as a Settings Repository](http://coda.caseykuhlman.com//entries/2014/dropbox-as-a-settings-repository.html)
+
+### Stow
+
+[stow: manage farms of symbolic links | stow System Administration | Man Pages | ManKier](https://www.mankier.com/8/stow)
+
+[Use Stow for configuration management of multiple machines | Opensource.com](https://opensource.com/article/20/1/configuration-management-stow)
+[Brandon Invergo - Using GNU Stow to manage your dotfiles](http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
+[Managing dotfiles using GNU Stow](https://www.bharatkalluri.in/post/manage-dotfiles-using-stow/)
+[Managing dotfiles with stow - Apiumhub](https://apiumhub.com/tech-blog-barcelona/managing-dotfiles-with-stow/)
+[Managing dotfiles with GNU Stow | Bastian Venthur's Blog](https://venthur.de/2021-12-19-managing-dotfiles-with-stow.html)
+[Manage dotfiles with GNU Stow | Deepak Ramani](https://dr563105.github.io/blog/manage-dotfiles-with-gnu-stow/)
+
+[GitHub - omerxx/dotfiles](https://github.com/omerxx/dotfiles)
+[GitHub - eeowaa/stow-dotfiles](https://github.com/eeowaa/stow-dotfiles)
 
 ### switching OS and host
 

@@ -2,6 +2,7 @@
 title: Django
 description: ""
 created: 2019-05-08
+updated: 2023-09-29
 tags:
   - cms
   - django
@@ -10,9 +11,10 @@ tags:
 ---
 
 [The Web framework for perfectionists with deadlines | Django](https://www.djangoproject.com/)
-[Django documentation | Django](https://docs.djangoproject.com/en/)
-[Django documentation](https://django.readthedocs.io/en/stable/)
-[Getting started](https://django.readthedocs.io/en/stable/intro/index.html)
+[Django documentation | Django documentation | Django](https://docs.djangoproject.com/)
+
+[Quickstart - Django REST framework](https://www.django-rest-framework.org/tutorial/quickstart/)
+[encode/rest-framework-tutorial: The Django REST framework tutorial. 🎓](https://github.com/encode/rest-framework-tutorial)
 
 [django Architecture - Connection Management - YouTube](https://www.youtube.com/watch?v=D-3WMlcv2i4)
 persistent connection to DB

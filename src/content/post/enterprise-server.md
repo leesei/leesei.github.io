@@ -2,6 +2,7 @@
 title: Enterprise Server
 description: ""
 created: 2016-02-17
+updated: 2023-09-29
 tags:
   - comp/hardware
   - enterprise

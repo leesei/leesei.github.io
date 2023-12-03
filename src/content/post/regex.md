@@ -2,6 +2,7 @@
 title: Regular expression
 description: ""
 created: 2015-02-26
+updated: 2023-09-29
 tags:
   - comp/lang
   - formal-language
@@ -50,12 +51,9 @@ Use these visualizers to help you understand the regexes.
 
 [Debuggex](https://www.debuggex.com/) (JavaScript, Python, PCRE)
 
-[Regulex：JavaScript Regular Expression Visualizer.](http://jex.im/regulex/)
+[Regulex：JavaScript Regular Expression Visualizer.](http://jex.im/regulex/) [source](https://github.com/CJex/regulex)
 [Regexper](http://www.regexper.com/) (JavaScript)
 [Regex for playground - IHateRegex](https://ihateregex.io/playground/)
-[RegExp playground](http://projects.verou.me/regexplained/)
-
-[txt2re: headache relief for programmers :: regular expression generator](http://txt2re.com/)
 
 ## Tester
 

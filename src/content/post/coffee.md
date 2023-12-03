@@ -2,7 +2,7 @@
 title: Coffee
 description: ""
 created: 2016-07-23
-updated: 2023-08-01
+updated: 2023-09-29
 tags:
   - coffee
   - food
@@ -10,6 +10,7 @@ tags:
 ---
 
 [Goatcafe – 華人最大的咖啡知識平台](http://goatcafe.tw/)
+[咖啡茵 TALK - YouTube](https://www.youtube.com/@cafeyingtalk)
 
 [Vol.146 速溶咖啡为什么这么难喝？ - YouTube](https://www.youtube.com/watch?v=3QjXu_RKghw)
 [你真的了解咖啡么 | 咖啡鄙视链 咖啡高级常识 - YouTube](https://www.youtube.com/watch?v=motxyzLrf4Y)
@@ -17,8 +18,10 @@ tags:
 [部落格 - 咖啡獵人 Coffee Hunter](https://coffeehunter.tw/blog/)
 [咖啡豆非學不可：基本入門知識 - 咖啡獵人 Coffee Hunter](https://coffeehunter.tw/coffee-bean-guide/)
 [拿鐵、卡布奇諾、摩卡差別比一比 - 咖啡獵人 Coffee Hunter](https://coffeehunter.tw/latte-mocha-cappuccino-difference/)
+[美式咖啡？黑咖啡？竟然是不一樣的咖啡？？ - YouTube](https://www.youtube.com/watch?v=9qhHebHV_Jg)
 
 [31 Coffee Brands, Ranked From Worst To Best](https://www.tastingtable.com/718678/coffee-brands-ranked-from-worst-to-best/)
+[How To Make The Best Coffee, According To Science - YouTube](https://www.youtube.com/watch?v=xUoFhcQBiZY)
 
 [The science behind caffeine featuring Danielle Rath of GreenEyedGuide.com (Brain Science #25) |> Changelog](https://changelog.com/brainscience/25)
 [The 5 Levels of Fatigue | Beating Burnout with Caffeine Science](https://greeneyedguide.com/5-levels-of-fatigue/)

@@ -1,15 +1,21 @@
 {
+  "Insert ❗!important": {
+    "scope": "markdown",
+    "prefix": "important",
+    "body": ["❗!important"],
+    "description": "Insert ❗!important"
+  },
   "Insert 😴inactive": {
     "scope": "markdown",
     "prefix": "inactive",
     "body": ["😴inactive"],
     "description": "Insert 😴inactive"
   },
-  "Insert ❗!important": {
+  "Insert 🗃️archived": {
     "scope": "markdown",
-    "prefix": "important",
-    "body": ["❗!important"],
-    "description": "Insert ❗!important"
+    "prefix": "archived",
+    "body": ["🗃️archived"],
+    "description": "Insert 🗃️archived"
   },
   "Insert `updated` date": {
     "scope": "yaml",

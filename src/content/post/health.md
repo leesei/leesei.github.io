@@ -2,6 +2,7 @@
 title: Health
 description: ""
 created: 2015-12-11
+updated: 2023-09-29
 tags:
   - science
 ---
@@ -44,34 +45,67 @@ Crash Course
 [工作細胞 – Anime1.me 動畫線上看](https://anime1.me/category/2018%e5%b9%b4%e5%a4%8f%e5%ad%a3/%e5%b7%a5%e4%bd%9c%e7%b4%b0%e8%83%9e) 02
 [工作細胞!!(第二季) – Anime1.me 動畫線上看](https://anime1.me/category/2021%e5%b9%b4%e5%86%ac%e5%ad%a3/%e5%b7%a5%e4%bd%9c%e7%b4%b0%e8%83%9e-%e7%ac%ac%e4%ba%8c%e5%ad%a3)
 
-## Bacteria and Viruses
+## Pathogens
 
-[How Bacteria Rule Over Your Body – The Microbiome - YouTube](https://www.youtube.com/watch?v=VzPD009qTN4)
+[Pathogen - Wikiwand](https://www.wikiwand.com/en/Pathogen)
+Microorganisms that causes sickness: Bacteria, Virus, Fungus (foot), parasites (Eukaryote, like Plasmodium that causes Malaria)
 
+妈咪说 MommyTalk
+[人为什么会得病？微生物的发现过程 - YouTube](https://www.youtube.com/watch?v=Igd2vni0ITA&t=356s)
+
+### Viruses
+
+> it is still not sure which come first, Bacteria or Viruses
+> but the scientists estimates the former
+
+[Baltimore classification - Wikiwand](https://www.wikiwand.com/en/Baltimore_classification)
+[How are Viruses Classified? - YouTube](https://www.youtube.com/watch?v=tQNuThIjGqg) also on other pathogens
+
+- Type I: double stranded DNA, smallpox, Herpes, chickenpox
+- Type II: single stranded DNA
+- Type III: double stranded RNA,
+- Type IV: single stranded DNA (positive), Rhinovirus (common cold), Polio, Corona virus
+- Type V: single stranded DNA (negative), Influenza (H?N1), Measles (麻疹), Ebola
+- Type VI: Retrovirus, single-stranded RNA with DNA intermediate, AIDS
+- Type VII: Retrovirus, double-stranded DNA with RNA intermediate
+
+Retroviruses replicate in a backwards manner, It will insert itself into DNA/RNA and passes on to the next generation. It is estimated ~5% human DNA are Retrovirus.
+
+[Viruses: Molecular Hijackers - YouTube](https://www.youtube.com/watch?v=wUgEhfo_qxU)
 [VIRUSES Explained In 9 Images - YouTube](https://www.youtube.com/watch?v=754YnbOtmvA)
 [This Virus Shouldn't Exist (But it Does) - YouTube](https://www.youtube.com/watch?v=1-NxodiGPCU)
 [Humans vs. Viruses - YouTube](https://www.youtube.com/playlist?list=PLJicmE8fK0EiTqtnTb9Mjb4UUyMt39YVQ) TED-Ed
+[【鬼谷闲谈】病毒：生于三界之外 不灭六道之中 - YouTube](https://www.youtube.com/watch?v=-_Y4grNcREY)
 [Why the world needs viruses to function - BBC Future](https://www.bbc.com/future/article/20200617-what-if-all-viruses-disappeared)
+
+[病毒，進化 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=_oBVDBVTKbU)
+[被囚禁的病毒，曾是人類最恐怖的噩夢，為什麼不徹底滅絕它？但願永遠不要再復活……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=iblmfra6GLQ) 免疫系統, 天花
+[“冠状病毒”是什么？武汉新型肺炎病毒是如何使人生病的？ - YouTube](https://www.youtube.com/watch?v=E46_veB0DPU)
+[惡魔的種子，一定要被禁止……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=qr4J89p2CHY) Anthrax 炭疽
+[埃博拉/伊波拉：人類的詛咒，你的身體如何對抗它，它到底有多恐怖……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=jQ3CB9C2LP4)
+[病毒中的教父：1997 年被從北極凍土中挖出來，原來它如此的陰險……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=SyD0lL1Ij6g) H?N1 流感
+
+妈咪说 MommyTalk
+[病毒是如何发现的？细菌和病毒有什么区别？ - YouTube](https://www.youtube.com/watch?v=rS460ilmMLg)
+[动物病毒为什么大多是正二十面体结构？病毒都有哪些种类？ - YouTube](https://www.youtube.com/watch?v=n6-YDKtOcqA)
+
+### Bacteria
+
+[How Bacteria Rule Over Your Body – The Microbiome - YouTube](https://www.youtube.com/watch?v=VzPD009qTN4)
 
 [抗生素是什么原理？How does antibiotic work?【柴知道 ChaiKnows】【科普 Science】【冷知识 Trivia】 - YouTube](https://www.youtube.com/watch?v=5L2D40MVzBo)
 [The Antibiotic Apocalypse Explained - YouTube](https://www.youtube.com/watch?v=xZbcwi7SfZE)
 
+[细菌对人类有什么作用？为什么要勤洗手、戴口罩？ - YouTube](https://www.youtube.com/watch?v=er2QBBvMQs4)
+
 妈咪说 MommyTalk
 [人为什么会得病？微生物的发现过程 - YouTube](https://www.youtube.com/watch?v=Igd2vni0ITA&t=356s)
 [如何防止酒变酸？什么是巴氏灭菌法？ - YouTube](https://www.youtube.com/watch?v=iinovGaE4ys)
-[病毒是如何发现的？细菌和病毒有什么区别？ - YouTube](https://www.youtube.com/watch?v=rS460ilmMLg)
-[动物病毒为什么大多是正二十面体结构？病毒都有哪些种类？ - YouTube](https://www.youtube.com/watch?v=n6-YDKtOcqA)
 
-[鼠疫是如何传染的？黑死病从未远离人类！ - YouTube](https://www.youtube.com/watch?v=4-FJP1oEopM)
-[细菌对人类有什么作用？为什么要勤洗手、戴口罩？ - YouTube](https://www.youtube.com/watch?v=er2QBBvMQs4)
-[“冠状病毒”是什么？武汉新型肺炎病毒是如何使人生病的？ - YouTube](https://www.youtube.com/watch?v=E46_veB0DPU)
-
-[病毒，進化 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=_oBVDBVTKbU)
-[惡魔的種子，一定要被禁止……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=qr4J89p2CHY) Anthrax 炭疽
-[被囚禁的病毒，曾是人類最恐怖的噩夢，為什麼不徹底滅絕它？但願永遠不要再復活……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=iblmfra6GLQ) 免疫系統, 天花
-[埃博拉/伊波拉：人類的詛咒，你的身體如何對抗它，它到底有多恐怖……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=jQ3CB9C2LP4)
-[病毒中的教父：1997 年被從北極凍土中挖出來，原來它如此的陰險……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=SyD0lL1Ij6g) H?N1 流感
+[鼠疫是如何传染的？黑死病从未远离人类！ - YouTube](https://www.youtube.com/watch?v=4-FJP1oEopM) Genus Yesrina (buonic plague)
+[【鬼谷闲谈】火带来的超级病菌？ - YouTube](https://www.youtube.com/watch?v=u0VaxiszcD0) Mycobacterium tuberculosis 肺結核菌, infects Macrophage 巨噬細胞
 [死神的病菌：《國際衛生條例》因它而生，號稱死神的鐮刀，但突然被人類發現軟肋，所以，面對病菌，我們該如何壓制它們的軟肋？|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=difNkA5Z0ks) Cholera 霍亂
+
 [為什麼全世界的檸檬都讀 Lemon？這背後有一個刻在 8 號染色體上的上古故事……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=y0PfdJ2XoAg) 維他命 C
 
 [Bacteriophage - Wikiwand](https://www.wikiwand.com/en/Bacteriophage)
@@ -80,7 +114,27 @@ Crash Course
 [38 億年前的納米機器人：曾被雪藏 100 年的發現，未來將是拯救人類的超級武器……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=DBwui0FO_bs)
 [人類與細菌的戰爭，噬菌體病毒進化理論，病毒也能為人類所用嗎，噬菌體取代抗生素會成為可能嗎| 填坑老高【病毒，進化】| 老高填坑團| 007 期 - YouTube](https://www.youtube.com/watch?v=XQde-sirjgU)
 
-[神的禁令，寫在人類的 20 號染色體上，神究竟禁止人類做什麼？|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=Hmcz2VOn5-c) Prion 朊病毒
+Prion 朊病毒
+[神的禁令，寫在人類的 20 號染色體上，神究竟禁止人類做什麼？|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=Hmcz2VOn5-c)
+[【鬼谷闲谈】朊病毒：脑中的不灭幽灵 - YouTube](https://www.youtube.com/watch?v=8Qr7WCM62ZE)
+
+## Plagues
+
+[Americapox: The Missing Plague - YouTube](https://www.youtube.com/watch?v=JEYh5WACqEk)
+[新冠疫情：影響人類歷史進程的五次疫疾大流行 - BBC News 中文](https://www.bbc.com/zhongwen/trad/world-51959677)
+[疫苗：大規模接種如何擊敗幾大致命傳染病 - BBC 英伦网](https://www.bbc.com/ukchina/trad/55287619)
+[沒有疫苗下 ▶ 歷史上幾次疾病大流行 都是怎麼結束的 - YouTube](https://www.youtube.com/watch?v=sxUksYTqSSc)
+
+### Spanish Influenza
+
+[Spanish flu: 100 years on - BBC Future](https://www.bbc.com/future/columns/spanishflu)
+[The flu that transformed the 20th Century - BBC Future](https://www.bbc.com/future/article/20181016-the-flu-that-transformed-the-20th-century)
+
+H1N1 swine flu
+
+[Episode 124: The “Spanish” Influenza of 1918-1920](https://15minutehistory.org/podcast/episode-124-the-spanish-influenza-of-1918-1920/)
+
+This epidemic actually starts in Taxas, US.
 
 ## Vaccination
 
@@ -109,36 +163,21 @@ Traditional vaccine will have left over egg protein or methanol which may cause 
 
 [Exhuming bodies is creepy, grotesque — and happens all the time - Vox](https://www.vox.com/the-highlight/2019/10/23/20920800/exhuming-bodies-john-dillinger-lies-beneath)
 
-## Covid-19
-
-[爆肝 1 月，汇总 52 篇论文，5 大新冠毒王全面报告 - YouTube](https://www.youtube.com/watch?v=FJIX3K0J2ic)
-
-[新冠肺炎疫苗 AZ 莫德納 輝瑞 嬌生疫苗 大比較 (一)｜那些年我們經歷了 COVID 19 ｜ 1000 訂閱 感謝禮!!! - YouTube](https://www.youtube.com/watch?v=9BjiXdKe8Uk)
-[新冠肺炎疫苗 AZ 莫德納 輝瑞 嬌生疫苗 副作用大比較｜那些年我們經歷了 COVID 19 ｜ 1000 訂閱 感謝禮!! - YouTube](https://www.youtube.com/watch?v=DlRyf8yVcNc)
-[疫苗混打 AZ+mRNA 免疫反應 效果 副作用大解析｜變種病毒特輯(三)｜那些年我們經歷了 COVID-19 - YouTube](https://www.youtube.com/watch?v=QTK1T3iKYDk)
-
-## Plagues
-
-[Americapox: The Missing Plague - YouTube](https://www.youtube.com/watch?v=JEYh5WACqEk)
-[新冠疫情：影響人類歷史進程的五次疫疾大流行 - BBC News 中文](https://www.bbc.com/zhongwen/trad/world-51959677)
-[疫苗：大規模接種如何擊敗幾大致命傳染病 - BBC 英伦网](https://www.bbc.com/ukchina/trad/55287619)
-[沒有疫苗下 ▶ 歷史上幾次疾病大流行 都是怎麼結束的 - YouTube](https://www.youtube.com/watch?v=sxUksYTqSSc)
-
-### Spanish Influenza
-
-[Spanish flu: 100 years on - BBC Future](https://www.bbc.com/future/columns/spanishflu)
-[The flu that transformed the 20th Century - BBC Future](https://www.bbc.com/future/article/20181016-the-flu-that-transformed-the-20th-century)
-
-[Episode 124: The “Spanish” Influenza of 1918-1920](https://15minutehistory.org/podcast/episode-124-the-spanish-influenza-of-1918-1920/)
-
-This epidemic actually starts in Taxas, US.
-
 ## Cancer
 
 [Why Blue Whales Don't Get Cancer - Peto's Paradox - YouTube](https://www.youtube.com/watch?v=1AElONvi9WQ) hypercancer
 [為什麼鯨魚不得癌症 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=hVmNVv83FEs)
+
 [被封印的巨人，就在人類的 17 號染色體上，人類是否能打開這把基因鎖……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=s7D_SEPNxfM) gene LIF6 in elephants, CAR-T (training Killer T cells externally)
+[120万一针的抗癌神药为啥这么贵？免疫疗法CAR-T能治好所有癌症吗？ - YouTube](https://www.youtube.com/watch?v=Y2nFl0OY2bs)
 [Your Body Killed Cancer 5 Minutes Ago - YouTube](https://www.youtube.com/watch?v=zFhYJRqz_xk)
+
+[1000萬可以救血癌，你相信嗎？CAR-T 細胞療法用自己的T細胞來抵抗癌症！ - YouTube](https://www.youtube.com/watch?v=xKwC0Za-_L8) CAR-T for liquid tumor (非實體腫瘤) originally for heterogeneous cells and low oxygen environment in solid tumor (實體腫瘤)
+[癌細胞最怕的免疫療法有了新突破，對抗實體腫瘤癌症通過臨床一期！另外新CAR-T技術真的能成功抗癌嗎？ - YouTube](https://www.youtube.com/watch?v=e_MEfPp6Ep4) TCR-T, use CRISPR modified T cell which contains TCR that targets protein fragments on cancer cells in solid tumor
+[抗癌免疫新藥花費300萬，真的能讓「免疫系統重開機」攻破癌細胞嗎？ ft.癌症問康健 - YouTube](https://www.youtube.com/watch?v=aNIjAt6AQDc) immune checkpoint inhibitor, inhibits the immune checkpoint on cancer cells
+[癌症有疫苗了!? 莫德納、BNT等大廠重大突破，mRNA疫苗真的能攻克癌症？ ft.癌症問康健 - YouTube](https://www.youtube.com/watch?v=A-QvDbb1C9c)
+[以毒攻毒！抗癌的未來寄託在「細菌」上？細菌為什麼能消滅癌細胞？ feat.【研之有物】 - YouTube](https://www.youtube.com/watch?v=ZE6ClkPlXrI)
+[對腫瘤最終兵器！癌症療法新選擇，基改溶瘤病毒為何備受期待？ - YouTube](https://www.youtube.com/watch?v=gQZQ_kBVuTw) oncolytic virotherapy
 
 ## Cannabis
 

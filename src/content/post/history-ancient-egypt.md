@@ -2,7 +2,7 @@
 title: Ancient Egypt History
 description: ""
 created: 2015-10-09
-updated: 2023-07-25
+updated: 2023-10-02
 tags:
   - history
   - history/egypt
@@ -60,6 +60,8 @@ The first two Dynasties have human sacrifices (殉葬)
 [Top 15 Interesting Facts About Ancient Egypt That You May Not Know | Ancient Origins](https://www.ancient-origins.net/history-ancient-traditions/interesting-facts-ancient-egypt-0013496)
 [Love, Sex and Marriage in Ancient Egypt - HistoryExtra](https://www.historyextra.com/period/ancient-egypt/love-sex-and-marriage-in-ancient-egypt/)
 
+[Egyptian Hieroglyphs, 𓀀 𓀁 𓀂 𓀃 𓀄, 1072 symbols, Unicode Range: 13000-1342F (◕‿◕) SYMBL](https://symbl.cc/en/unicode/blocks/egyptian-hieroglyphs/)
+
 ## Pyramids
 
 [History for GRANITE - YouTube](https://www.youtube.com/@HistoryforGRANITE)
@@ -70,6 +72,14 @@ The first two Dynasties have human sacrifices (殉葬)
 [金字塔建造記錄出土？梅勒日記被稱為「21 世紀古埃及最重要發現」！【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=4EIGcUo2gZ8)
 [Updating the Great Pyramid Internal Ramp Theory - YouTube](https://www.youtube.com/watch?v=_JlnMs616Z0)
 [How Were the Pyramids Built? - YouTube](https://www.youtube.com/watch?v=lotbZQ55SgU)
+
+[金字塔：年齡？用途？建造者？建造方法？不能說的秘密？|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=KfQrQv72I8U)
+[金字塔的秘密，特斯拉知曉：1984年，一個工程師破解了所有的密碼，原來，那個全球無線輸電的構想並不玄幻……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=DtiWP-Tpg3M)
+
+## Pharaoh
+
+[Ankh - Wikiwand](https://www.wikiwand.com/en/Ankh)
+[Crook and flail - Wikiwand](https://www.wikiwand.com/en/Crook_and_flail)
 
 ## Akhenaten
 

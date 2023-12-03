@@ -2,6 +2,7 @@
 title: Assassin's Creed
 description: ""
 created: 2018-01-03
+updated: 2023-10-24
 tags:
   - assassins-creed
   - games
@@ -17,11 +18,15 @@ Nothing is true, everything is permitted
 <https://youtu.be/IcaED6Jefi4?t=2741>
 
 [How Ubisoft CEO's Kid Changed Assassin's Creed - EssentiallySports](https://www.essentiallysports.com/how-ubisoft-ceos-kid-changed-assassins-creed-esports-news/amp/)
-[Loomer on Twitter: "Excerpts from the Assassin's Creed brand bible, likely circa 2008-2010-ish. GDC Transcription here: https://t.co/3Oi1UQiFkK Full GDC talk here: https://t.co/bG3nJpzQsp https://t.co/MoapPiKSQp" / Twitter](https://twitter.com/loomer979/status/979818084578992129)
+
+[Loomer on X: "Excerpts from the Assassin's Creed brand bible, likely circa 2008-2010-ish. #GDC Transcription here: https://t.co/3Oi1UQiFkK Full GDC talk here: https://t.co/bG3nJpzQsp https://t.co/MoapPiKSQp" / X](https://twitter.com/loomer979/status/979818084578992129)
+[GDC Vault - 10 Years of Evolution of the 'Assassin's Creed' Brand](https://www.gdcvault.com/play/1024890/10-Years-of-Evolution-of)
 [AC Bible Excerpts (likely circa 2008-2010-ish) - Pastebin.com](https://pastebin.com/ymJKLtnX)
 
 [Assassin's Creed: What If - YouTube](https://www.youtube.com/playlist?list=PL_rnO4iz0ALmrxolECxydkYHtkE1_A7ud)
-[The Entire Story Of Assassin's Creed EXPLAINED | Assassin's Creed Mirage (2007-2023) - YouTube](https://www.youtube.com/watch?v=wARLHlUhGyw)
+[The Complete ASSASSIN’S CREED Timeline Explained! - YouTube](https://www.youtube.com/watch?v=YC4y9ZVGzuQ) 1:10:00
+[The ENTIRE Assassin's Creed Story EXPLAINED | Assassin's Creed Mirage (2007-2024) - YouTube](https://www.youtube.com/watch?v=wARLHlUhGyw) 40:02
+[一口气看完【刺客信条】全系列 - YouTube](https://www.youtube.com/watch?v=U-fGFIhEwXQ)
 [【嶄新的現代線故事】『刺客教條 : 起源以及奧德賽到底在演什麼!?』(看完這兩集之後，就能直接去玩新作--維京紀元啦!!) - YouTube](https://www.youtube.com/watch?v=2Kni3mkVLHk)
 [【刺客教條現代線完結!!?】『用最大反派的視角，告訴你 刺客教條到底在演什麼』 - YouTube](https://www.youtube.com/watch?v=OBICbOMY2j0)
 [Explaining The Messy Modern-Day Storyline Of Assassin's Creed Valhalla](https://kotaku.com/lets-recap-the-messy-modern-day-storyline-of-assassins-1845624847)
@@ -31,11 +36,13 @@ Nothing is true, everything is permitted
 [The Complete Assassin's Creed Timeline - Odyssey to Syndicate | The Leaderboard - YouTube](https://www.youtube.com/watch?v=4r8R02xIIyA) 2018
 [Assassin's Creed Family Tree Explained! (Desmond Miles) | The Leaderboard - YouTube](https://www.youtube.com/watch?v=mXaBAhLvJ9Q)
 [The Evolution of Assassin's Creed [2007-2019] - YouTube](https://www.youtube.com/watch?v=mQ8aogsFcEY)
+[【游戏入坑】刺客信条（刺客教條）选择哪一部，看这期就行了！ - YouTube](https://www.youtube.com/watch?v=fZbrFu-sURc)
 
 [Game Theory: The Assassin's Creed Shared Universe Conspiracy - YouTube](https://www.youtube.com/watch?v=xWSWjN6n_UQ)
 [The Unanswered Questions of Assassin's Creed - Desmond, Boxes, Juno, Layla, Senu, Eve & MORE - YouTube](https://www.youtube.com/watch?v=Nbe7u6SNugc)
 
 [Every Assassin in Assassin's Creed in 12 minutes | The Leaderboard - YouTube](https://www.youtube.com/watch?v=0pOiFXaVGoI)
+[【刺客教條】萬字回顧系列15年歷史&演變! 曾引領業界的IP, 為何變成狂戰士RPG?｜井川一｜Assassin’s Creed - YouTube](https://www.youtube.com/watch?v=zYEAa9e2b4E)
 [【電玩經典人物回顧】歷代刺客教條主角(上)ー無物為真 諸行皆可 | ACG 英雄譚#8 - YouTube](https://www.youtube.com/watch?v=e-LMK5bAGOU) Nothing is true, everything is permitted
 [【電玩經典人物回顧】歷代刺客教條主角(下)ー”現在的刺客和 UBI 所缺少的?” - YouTube](https://www.youtube.com/watch?v=Du16CAfbapg)
 

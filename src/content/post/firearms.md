@@ -2,7 +2,7 @@
 title: Firearms
 description: Weapons with gun powder
 created: 2015-06-13
-updated: 2023-08-14
+updated: 2023-10-10
 tags:
   - weapons
 ---
@@ -26,6 +26,7 @@ tags:
 [InRangeTV - YouTube](https://www.youtube.com/@InrangeTv)
 
 [Guns! - YouTube](https://www.youtube.com/playlist?list=PLBC8A83AD41790AB0) SmarterEveryDay
+[GUNS: Everything You Need to Know (Special) - YouTube](https://www.youtube.com/watch?v=GqX2utKCc2w)
 
 More on military vehicles
 [AiTelly - YouTube](https://www.youtube.com/@Aitelly)
@@ -216,6 +217,10 @@ Fully Automatic M16 Assault Rifle (~1960) and AK47 (~1950)
 [简单捋一捋 步枪的进化 - YouTube](https://www.youtube.com/watch?v=yL6oCZG8HmE)
 [We Fired Weapons From The 1500s, 1700s and 1900s! - YouTube](https://www.youtube.com/watch?v=TL6rKRYPQEY)
 
+## Sniper Rifle
+
+[How Sniper Rifle Scope Technology Has Evolved - YouTube](https://www.youtube.com/watch?v=waCiDF4XdBY)
+
 ## Carbine
 
 [Carbine - Wikiwand](https://www.wikiwand.com/en/Carbine)
@@ -298,6 +303,8 @@ Dynamite undermining
 Dynamite = Nitro-glycerin + silicon
 
 ## Granades
+
+[All Types of Grenades Explained - YouTube](https://www.youtube.com/watch?v=uxvDhmecoYQ)
 
 [【不止遊戲】揭秘遊戲中那些手榴彈 各種有趣的細節和原理 - YouTube](https://www.youtube.com/watch?v=UjnEgSeuid0)
 [【不止遊戲】轉身背對閃光彈真的能避免被閃光嗎？ - YouTube](https://www.youtube.com/watch?v=cWlKSf7nwd8)

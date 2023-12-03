@@ -2,6 +2,7 @@
 title: LOL
 description: ""
 created: 2018-09-03
+updated: 2023-10-27
 tags:
   - lol
   - trivia
@@ -13,9 +14,6 @@ tags:
 
 [【系列】雪櫃冷笑話 ☃️ - YouTube](https://www.youtube.com/playlist?list=PLCLioSzos2YvXiSIFcLXICwUniJBjZhWp)
 
-[cold bear - YouTube](https://www.youtube.com/@LenDanXiong)
-[謝浩凡 XieHaofan - YouTube](https://www.youtube.com/@xiehaofan)
-
 [十萬個冷笑話 第一季~第三季 - YouTube](https://www.youtube.com/playlist?list=PLi_OO5MFnSj0MU5UMCCLnIG1bqcia4HFh)
 
 寫輪眼 森川葵
@@ -25,9 +23,9 @@ When it comes to programming career, choose two in: Legal, Well Paid, Interestin
 
 ## Stand ups
 
-[Stand up, Brian! 博恩站起來！ - YouTube](https://www.youtube.com/channel/UCUGlE8lf5qH--_XlsabI2XQ)
+[Stand up, Brian! 博恩站起來！ - YouTube](https://www.youtube.com/@StandupBrian)
 
-[黃子華 Dayo Wong 棟篤笑 - 官方頻道 - YouTube](https://www.youtube.com/channel/UCMjf4Ii0sv2wEqaNmYA85qg)
+[黃子華 Dayo Wong 棟篤笑 - 官方頻道 - YouTube](https://www.youtube.com/@tzewahofficial)
 
 [德云欢乐铺 - YouTube](https://www.youtube.com/@DeYunShow)
 
@@ -45,6 +43,8 @@ When it comes to programming career, choose two in: Legal, Well Paid, Interestin
 [Internet Meme Database | Know Your Meme](https://knowyourmeme.com/)
 
 [Homestar Runner Wiki](http://www.hrwiki.org/wiki/Main_Page)
+
+[墨鏡哥SG - YouTube](https://www.youtube.com/@SG666)
 
 [【名梗盘点】为什么你只是看着？假面骑士破圈名梗 TOP10！ - YouTube](https://www.youtube.com/watch?v=ZL-bA2tgmZo)
 [【名梗盘点】砸瓦鲁多是无敌哒！JOJO 破圈名梗盘点 TOP10！ - YouTube](https://www.youtube.com/watch?v=4TSSLb9d3cc)
@@ -70,6 +70,14 @@ When it comes to programming career, choose two in: Legal, Well Paid, Interestin
 
 [낄낄상회 - YouTube](https://www.youtube.com/channel/UCLVwgJVAzHwA-zv88mrAeZw)
 [낄낄상회 | Facebook](https://www.facebook.com/watch/search/?q=%EB%82%84%EB%82%84%EC%83%81%ED%9A%8C)
+
+[Casually Explained - YouTube](https://www.youtube.com/@CasuallyExplained) sarcastic
+[cold bear - YouTube](https://www.youtube.com/@LenDanXiong)
+[Reed Thirteen - YouTube](https://www.youtube.com/@LuWeiShiSanShao)
+[謝浩凡 XieHaofan - YouTube](https://www.youtube.com/@xiehaofan)
+[口水封神 第一季 36 集全 Investiture of the Gods Season1 - YouTube](https://www.youtube.com/playlist?list=PLIAs8wTJiEhnWT8Om25rAYsl_CrYM_5kf)
+[口水三国 第一季 120 集全 Three Kingdoms Talk Show Season1 - YouTube](https://www.youtube.com/playlist?list=PLIAs8wTJiEhnIuW6S-3cg6zSNB-2ZmDYZ)
+[口水三国 2 海外版 连载中](https://www.youtube.com/playlist?list=PLIAs8wTJiEhnhmewHcZ2hwPY2XHg6spxq)
 
 [30 Programming Memes That Will Lighten Your Mood - part 1 | JavaScript In Plain English](https://medium.com/javascript-in-plain-english/30-programming-memes-that-will-lighten-your-mood-265b4fe50229)
 [30 Programming Memes That Will Lighten Your Mood | by Atit | JavaScript In Plain English | Jan, 2021 | Medium](https://medium.com/javascript-in-plain-english/30-programming-memes-that-will-lighten-your-mood-part-2-5946d8b7d3cd)

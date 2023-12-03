@@ -2,7 +2,7 @@
 title: DevOps
 description: ""
 created: 2016-02-17
-updated: 2023-07-27
+updated: 2023-10-14
 tags:
   - dev/deploy
   - devops
@@ -21,6 +21,7 @@ tags:
 [Servers for Hackers](https://serversforhackers.com/)
 
 [What's in a name? These DevOps tools come with strange backstories | ZDNet](https://www.zdnet.com/pictures/23-coding-and-devops-tools-with-great-stories-and-strange-sounding-names)
+[Devs don’t want to do ops | InfoWorld](https://www.infoworld.com/article/3669477/devs-don-t-want-to-do-ops.html)
 [Software Deployment Best Practices - Java Code Geeks - 2023](https://www.javacodegeeks.com/2023/05/software-deployment-best-practices.html?amp=1)
 
 [Try Tech Radar and get to know our technology stack | TSH.io](https://tsh.io/technology-radar)
@@ -556,6 +557,8 @@ Check every X minutes, recheck every Y minutes up to N times before generating a
 [Easy, proactive monitoring of Unix systems, network and cloud services | M/Monit](https://mmonit.com/)
 [Bare-Bones Monitoring with Monit and RRDtool | Linux Journal](https://www.linuxjournal.com/content/bare-bones-monitoring-monit-and-rrdtool)
 
+[phith0n/vindicator: Vindicator is a lightweight Golang library that is designed to hold and check any blocking function. e.g. subprocess, network connection...](https://github.com/phith0n/vindicator)
+
 [Nagios - The Industry Standard In IT Infrastructure Monitoring](https://www.nagios.org/)
 [Start page – collectd – The system statistics collection daemon](https://collectd.org/)
 [Riemann - A network monitoring system](http://riemann.io/)
@@ -580,13 +583,18 @@ Check every X minutes, recheck every Y minutes up to N times before generating a
 
 [Open Source Distributed Tracing: Why You Need It & How to Get Started - IOD](https://iamondemand.com/blog/open-source-distributed-tracing-why-you-need-it-how-to-get-started/)
 OpenCensus, OpenTracing, and OpenTelemetry
+[OpenTelemetry: The Merger of OpenCensus and OpenTracing | Google Open Source Blog](https://opensource.googleblog.com/2019/05/opentelemetry-merger-of-opencensus-and.html)
 
 [OpenTelemetry | Effective observability requires high-quality telemetry](https://opentelemetry.io/) OpenTelemetry is the next major version of the OpenTracing and OpenCensus projects
+[Observability Primer | OpenTelemetry](https://opentelemetry.io/docs/concepts/observability-primer/)
 [OpenTelemetry .NET reaches v1.0 | .NET Blog](https://devblogs.microsoft.com/dotnet/opentelemetry-net-reaches-v1-0/)
 
 [The OpenTracing project](https://opentracing.io/)
 [OpenTracing Overview](https://opentracing.io/docs/overview/)
 [OpenTracing API](https://github.com/opentracing)
+
+[HyperDX - Affordable full-stack production debugging & monitoring.](https://www.hyperdx.io/)
+[hyperdxio/hyperdx: Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors.](https://github.com/hyperdxio/hyperdx)
 
 ### Logging/Activity Tracking
 
@@ -613,8 +621,8 @@ One way is to persistent log to `fluentd` for 2 weeks and then store them in Ela
 
 [SIEM, AIOps, Application Management, Log Management, Machine Learning, and Compliance | Splunk](https://www.splunk.com/)
 
-[Application Monitoring and Error Tracking Software | Sentry](https://sentry.io/welcome/) cross platform SDK to collect log and errors
-[getsentry/sentry: Sentry is cross-platform application monitoring, with a focus on error reporting.](https://github.com/getsentry/sentry)
+[Application Performance Monitoring & Error Tracking Software | Sentry](https://sentry.io/welcome/) cross platform SDK to collect log and errors
+[getsentry/sentry: Developer-first error tracking and performance monitoring](https://github.com/getsentry/sentry)
 
 [Open Source: Declarative Tracking for React Apps | by Jeremy Gayed | NYT Open](https://open.nytimes.com/introducing-react-tracking-declarative-tracking-for-react-apps-2c76706bb79a?gi=bcb81208841f)
 [nytimes/react-tracking: 🎯 Declarative tracking for React apps.](https://github.com/NYTimes/react-tracking)

@@ -2,6 +2,7 @@
 title: MongoDB
 description: ""
 created: 2014-12-17
+updated: 2023-11-05
 tags:
   - app
   - mongodb
@@ -70,7 +71,7 @@ tags:
 [Operators — MongoDB Manual](https://docs.mongodb.com/manual/reference/operator/)
 
 ```
-mongo --host host --port port -u database
+mongosh --host host --port port -u database
 
 # show databases
 > show dbs
@@ -160,7 +161,7 @@ mongoexport --db users --collection contacts --type=csv --headerline contacts.cs
 ## Internals
 
 [MongoDB internal Architecture. I’m a big believer that database… | by Hussein Nasser | Medium](https://medium.com/@hnasr/mongodb-internal-architecture-9a32f1403d6f)
-[MongoDB Internal Architecture - YouTube](https://www.youtube.com/watch?v=ONzdr4SmOng)
+[MongoDB Internal Architecture - YouTube](https://www.youtube.com/watch?v=ONzdr4SmOng) ❗!important
 
 [2x Faster Reads and Writes with this MongoDB feature | Clustered Collections - YouTube](https://www.youtube.com/watch?v=OhJ3xcjtpis)
 [Clustered Collections — MongoDB Manual](https://www.mongodb.com/docs/manual/core/clustered-collections/)
@@ -334,13 +335,18 @@ if (!john) {
 [6 Rules of Thumb for MongoDB Schema Design: Part 2 | MongoDB](https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design-part-2)
 [6 Rules of Thumb for MongoDB Schema Design: Part 3 | MongoDB](https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design-part-3)
 
-## Aggregation
+## Aggregation (Join)
 
 > MongoDB 5.0 deprecated map-reduce and improved aggregation pipeline
 
-[Aggregation — MongoDB Manual](https://docs.mongodb.com/manual/aggregation/)
-[Aggregation Reference — MongoDB Manual](https://docs.mongodb.com/manual/reference/aggregation/)
-[Aggregation Pipeline Operators — MongoDB Manual](https://docs.mongodb.com/manual/reference/operator/aggregation/)
+[Aggregation Operations — MongoDB Manual](https://www.mongodb.com/docs/manual/aggregation/)
+[Aggregation Pipeline Operators — MongoDB Manual](https://www.mongodb.com/docs/manual/reference/operator/aggregation/)
+[Aggregation Reference — MongoDB Manual](https://www.mongodb.com/docs/manual/reference/aggregation/)
+[MongoDB Aggregation: tutorial with examples and exercises | Studio 3T](https://studio3t.com/knowledge-base/articles/mongodb-aggregation-framework/)
+
+`$lookup` is used for join, `$unwind` is used for flatten array (expanding to multiple documents so the array elements are top level documents)
+[MongoDB Join Two Collections Simplified | Hevo](https://hevodata.com/learn/mongodb-join-two-collections/)
+[MongoDB $lookup Example | MongoDB Aggregation Pipeline](https://studio3t.com/knowledge-base/articles/mongodb-lookup-aggregation-stage/)
 
 ## Tips and Tricks
 

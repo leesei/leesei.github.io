@@ -2,7 +2,7 @@
 title: Zig Programming Language
 description: General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 created: 2023-03-24
-updated: 2023-08-04
+updated: 2023-11-22
 tags:
   - comp/lang
   - package-manager
@@ -25,6 +25,7 @@ Yet another system language wanted to replace C.
 [Home ⚡ Zig Programming Language](https://ziglang.org/)
 [ziglang/zig: General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.](https://github.com/ziglang/zig)
 [Zig (programming language) - Wikiwand](<https://www.wikiwand.com/en/Zig_(programming_language)>)
+[zigtools](https://github.com/zigtools) `zls` (language server)
 
 ```sh
 zig init-exe
@@ -62,6 +63,7 @@ zig zen
 
 [Documentation - The Zig Programming Language](https://ziglang.org/documentation/master/)
 [Learn ⚡ Zig Programming Language](https://ziglang.org/learn/)
+[ratfactor/ziglings: Learn the Zig programming language by fixing tiny broken programs.](https://github.com/ratfactor/ziglings)
 
 [Chapter 0 - Getting Started | ziglearn.org](https://ziglearn.org/)
 [How To Zig?](https://www.nmichaels.org/zig/)
@@ -154,10 +156,6 @@ zig build -Dtarget=x86_64-windows
 
 [implement libc in zig · Issue #514 · ziglang/zig](https://github.com/ziglang/zig/issues/514)
 
-## Libraries
-
-[std - Zig](https://ziglang.org/documentation/master/std/)
-
 ## Windows binding
 
 [Showing Zig how to see through Bill Gate's Windows - Jonathan Marler - YouTube](https://www.youtube.com/watch?v=HsnWZxrf5VE)
@@ -168,13 +166,98 @@ zig build -Dtarget=x86_64-windows
 
 ## Package Manager
 
+[Zigmod Documentation | zigmod](https://nektro.github.io/zigmod/)
 [nektro/zigmod: 📦 A package manager for the Zig programming language.](https://github.com/nektro/zigmod)
 
-## Packages
+[Zig Package Index - Aquila](https://aquila.red/)
+[zpm](https://zig.pm/)
+
+[Zig Pkg](https://kassane.github.io/2023/05/03/zig-pkg/)
+[silversquirl/deps.zig: A simple dependency manager for Zig](https://github.com/silversquirl/deps.zig)
+
+[Zig libraries | Everything I Know](https://wiki.nikiv.dev/programming-languages/zig/zig-libraries)
+[ZigLibs](https://github.com/ziglibs)
+[ziglibs/repository: A community-maintained repository of zig packages](https://github.com/ziglibs/repository)
+
+## Libraries/Packages
+
+[std - Zig](https://ziglang.org/documentation/master/std/)
+
+[thebsv/zitertools: An improved rewrite of the python itertools library to Zig.](https://github.com/thebsv/zitertools)
+[KilianVounckx/zitertools: zig iterators](https://github.com/KilianVounckx/zitertools)
+
+[alexnask/ctregex.zig: Compile time regular expressions in zig](https://github.com/alexnask/ctregex.zig)
+
+[ibokuri/concepts: Compile-time validation of type constraints](https://github.com/ibokuri/concepts)
+[hmusgrave/byol: Bring Your Own Loop -- A memory-efficient, straggler-avoiding, cache-friendly scheduler](https://github.com/hmusgrave/byol) (shelved till async is re-released with Zig 0.12)
 
 ### GUI
 
-#### Mach engine
+[david-vanderson/dvui](https://github.com/david-vanderson/dvui)
+[david-vanderson/dvui-demo: examples for using gui](https://github.com/david-vanderson/dvui-demo)
+
+[Capy UI - Cross Platform GUI Toolkit](https://capy-ui.org/)
+[capy-ui/capy: 💻Build one codebase and get native UI on Windows, Linux and Web](https://github.com/capy-ui/capy)
+[capy-ui/zig-template: Simple template for creating a Capy app in Zig](https://github.com/capy-ui/zig-template)
+
+### CLI
+
+[Hejsil/zig-clap: Simple command line argument parsing library](https://github.com/Hejsil/zig-clap)
+[prajwalch/yazap: 🔧 The ultimate Zig library for seamless command line parsing. Effortlessly handles options, subcommands, and custom arguments with ease.](https://github.com/prajwalch/yazap)
+[sam701/zig-cli: A simple package for building command line apps in Zig](https://github.com/sam701/zig-cli)
+
+### Serde
+
+[Arwalk/zig-protobuf: a protobuf 3 implementation for zig.](https://github.com/Arwalk/zig-protobuf)
+[kubkon/protozig: The protozig(uana), or protocol buffers implementation in Zig](https://github.com/kubkon/protozig)
+[zigtools/protobruh: Protobuf for Zig](https://github.com/zigtools/protobruh)
+[mlugg/zigpb: Simple Protobuf encoder and decoder in Zig](https://github.com/mlugg/zigpb)
+
+[gruebite/zzz: Simple and boring human readable data format for Zig.](https://github.com/gruebite/zzz)
+[iddev5/inon: :floppy_disk: Data serialization format in Zig](https://github.com/iddev5/inon)
+
+[getty-zig/getty: A (de)serialization framework for Zig](https://github.com/getty-zig/getty)
+[getty-zig/json: A serialization library for JSON](https://github.com/getty-zig/json)
+
+[kubkon/zig-yaml: YAML parser for Zig](https://github.com/kubkon/zig-yaml)
+[aeronavery/zig-toml: A TOML parser written in Zig](https://github.com/aeronavery/zig-toml)
+
+[travisstaloch/simdjzon: simdjson port to zig](https://github.com/travisstaloch/simdjzon)
+[xyaman/zjson: Minimal json library with zero allocations](https://github.com/xyaman/zjson)
+[ziglibs/eggzon: 🥚Zon - A DOM based Zig Object Notation parser](https://github.com/ziglibs/eggzon)
+
+[clickingbuttons/arrow-zig: Apache Arrow implementation](https://github.com/clickingbuttons/arrow-zig)
+
+### Database/ORM
+
+### Network
+
+[MasterQ32/zig-network: A smallest-common-subset of socket functions for crossplatform networking, TCP & UDP](https://github.com/MasterQ32/zig-network)
+
+### Date/Time
+
+### Logging
+
+[candrewlee14/zlog: A zero-allocation log library for Zig](https://github.com/candrewlee14/zlog)
+
+### Templates
+
+[batiati/mustache-zig: Logic-less templates for Zig](https://github.com/batiati/mustache-zig)
+
+### Math
+
+[kooparse/zalgebra: Linear algebra library for games and real-time graphics.](https://github.com/kooparse/zalgebra)
+[Traxar/numz](https://github.com/Traxar/numz)
+[Hejsil/mecha: A parser combinator library for Zig](https://github.com/Hejsil/mecha)
+
+## Gamedev
+
+[michal-z/zig-gamedev: Building game development ecosystem for @ziglang!](https://github.com/michal-z/zig-gamedev)
+
+[Jack-Ji/jok: A minimal 2d/3d game framework for @ziglang.](https://github.com/Jack-Ji/jok)
+
+### Mach engine
 
 [Mach engine - game engine & graphics toolkit for the future](https://machengine.org/)
 [hexops/mach: Mach is a game engine & graphics toolkit for the future.](https://github.com/hexops/mach)
+[hexops/mach-ecs: Entity Component System from first-principles designed for Zig](https://github.com/hexops/mach-ecs)

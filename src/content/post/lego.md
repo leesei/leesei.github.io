@@ -2,7 +2,7 @@
 title: LEGO
 description: ""
 created: 2016-06-12
-updated: 2023-08-14
+updated: 2023-11-28
 tags:
   - lego
   - toys
@@ -41,25 +41,28 @@ tags:
 [These What-If Scenarios Are Wonderful in Star Wars Lego Form](https://io9.gizmodo.com/with-the-help-of-legos-this-video-explores-a-series-of-1836935648/amp)
 [CSS LEGO Minifigure Maker](https://codepen.io/joshbader/pen/MZMzjr)
 
-[JK Brickworks - YouTube](https://www.youtube.com/user/truedimensions)
-[brickitect - YouTube](https://www.youtube.com/channel/UC-LJgOHir8UyxoboIe-cQZA)
-[Tiago Catarino - YouTube](https://www.youtube.com/channel/UCqLbTAc5Mn2cJDu1-FZ2W3g) LEGO designer
-[SpitBrix - YouTube](https://www.youtube.com/channel/UC_WXkNIJ2ncLIsAk_ltbvjA)
+[JK Brickworks - YouTube](https://www.youtube.com/@JKBrickworks)
+[brickitect - YouTube](https://www.youtube.com/@brickitect)
+[Brick Science - YouTube](https://www.youtube.com/@Brick_Science)
+[SpitBrix - YouTube](https://www.youtube.com/@SpitBrix)
+[Tiago Catarino - YouTube](https://www.youtube.com/@TiagoCatarino) LEGO designer
 
 [LEGO® 樂高 網上商店 | HobbyDigi.com 電購網](https://www.hobbydigi.com/zh_hant_hk/lego)
 [我的 LEGO 篇五：我去香港逛 LEGO 打卡六家店，两手空空回\_\_什么值得买](https://post.smzdm.com/p/alpzgxwp/)
 
 ## Stop motion
 
-[Beyond the Brick - YouTube](https://www.youtube.com/channel/UCwBVURsT1hSnFT8vGO6vSqw)
-[All New Bricks - YouTube](https://www.youtube.com/user/allnewbricks)
-[MaxTime TV - YouTube](https://www.youtube.com/channel/UCKZdlVZYMY4bDux-ep8J45g)
-[raptor5120 - YouTube](https://www.youtube.com/user/raptor5120) CGI that looks like stop motion
-[BrickBrosProductions - YouTube](https://www.youtube.com/channel/UCm2mA8FCaPP1ySSA8CL46YQ) LEGO in real life
+[Beyond the Brick - YouTube](https://www.youtube.com/@BeyondtheBrick)
+[All New Bricks - YouTube](https://www.youtube.com/@allnewbricks)
+[MaxTime TV - YouTube](https://www.youtube.com/@maxtimetv)
+[raptor5120 - YouTube](https://www.youtube.com/@raptor5120) CGI that looks like stop motion
+[BrickBrosProductions - YouTube](https://www.youtube.com/@brickbrosproductions) LEGO in real life
 [Brickology - YouTube](https://www.youtube.com/channel/UCLfg320ARc0SCdgqRexWrOg)
 [Fancy Pants - YouTube](https://www.youtube.com/user/xxxfancypantsxxx)
 [Bricks Brought to Life - YouTube](https://www.youtube.com/c/bblanimation)
 [LCM brick show - YouTube](https://www.youtube.com/c/LCMbrickshow) history
+[TOPELE Filmstúdió - YouTube](https://www.youtube.com/@topelefilmstudio) good FX
+[Brick Rising - YouTube](https://www.youtube.com/@brickrising8768)
 MICHEALHICKHOXFilms <https://www.youtube.com/user/MlCHAELH>...
 ForestFire101 <https://www.youtube.com/user/forrestf>...
 Rioforce <https://www.youtube.com/user/LukeActi>...
@@ -118,7 +121,7 @@ HamsterProductions <https://www.youtube.com/user/frankfre>...
 [国产积木吧-百度贴吧](https://tieba.baidu.com/f?kw=国产积木&ie=utf-8)
 [微信公众号 积木世界中的 CK(CK_Brickworld) 最新文章 | 微信公众号文章阅读 - 微信公众号 rss - WeMP](https://wemp.app/accounts/dd66da7c-6cd2-4d6d-a651-9fac103807da)
 
-[JANGBRiCKS - YouTube](https://www.youtube.com/channel/UCH09uL3dLqsVsOh0XmapzLQ)
+[JANGBRiCKS - YouTube](https://www.youtube.com/@JANGBRiCKS)
 
 [LEGO 乐高棋类游戏套装知多少\_\_什么值得买](https://post.smzdm.com/p/777968/)
 [SY1130 Ideas 系列 百兽王](https://mp.weixin.qq.com/s?__biz=MzI2NTI4NDAxNg==&mid=2247538020&idx=1&sn=93186149ef5a084aed6235cc495839bd)
@@ -161,7 +164,7 @@ This relationship with Nintendo leads to the LEGO Mario AR series.
 
 ## Mario AR
 
-[Playfool - YouTube](https://www.youtube.com/channel/UCFMGumZU2HL4ErtR5a6FQhw)
+[Playfool - YouTube](https://www.youtube.com/@Playfool)
 [Can you play with LEGO Super Mario WITHOUT LEGO? - YouTube](https://www.youtube.com/watch?v=K69r-DTAlRg)
 
 ## MOC
@@ -175,11 +178,11 @@ MOC = My Own Creation
 [Brickshelf](http://www.brickshelf.com/)
 [Bricksafe](https://bricksafe.com/)
 [Brickmania | Custom Military Building Kits and BrickArms Weapons](https://www.brickmania.com/)
-[LionBricks - YouTube](https://www.youtube.com/channel/UCJvcWOTistqk7sWzzxWSy2A)
-[RJMBricks - YouTube](https://www.youtube.com/c/RJMBricks)
+[LionBricks - YouTube](https://www.youtube.com/@LionBricks)
+[RJMBricks - YouTube](https://www.youtube.com/@RJMBricks)
 [LEGO Engineering – Inspiration and support for LEGO-based engineering in the classroom](http://www.legoengineering.com/)
-[Lego Technic Mastery - YouTube](https://www.youtube.com/channel/UCr3J0-FX8W77KhHTHGJ97hQ/playlists)
-[MyDifferentUserName - YouTube](https://www.youtube.com/c/mydifferentusername) LEGO firearms
+[Lego Technic Mastery - YouTube](https://www.youtube.com/@legotechnicmastery)
+[Mydifferentusernames lego gun videos reuploaded by other channels - YouTube](https://www.youtube.com/playlist?list=PLIpkIt_byspWxHBZXEz7r4Trrbq4L4rhR) LEGO firearms
 
 [Forums - Eurobricks Forums](https://www.eurobricks.com/forum/index.php?/forums/)
 [[KEY TOPIC] Official Lego sets made in LDraw - Digital LEGO: Tools, Techniques, and Projects - Eurobricks Forums](https://www.eurobricks.com/forum/index.php?/forums/topic/48285-key-topic-official-lego-sets-made-in-ldraw/) !important
@@ -187,7 +190,7 @@ MOC = My Own Creation
 
 [首页-DX 干燥设计 Design Xero-淘宝网](https://shop237482849.taobao.com/)
 [首页-MOC 图纸小店-淘宝网](https://shop126623282.taobao.com/)
-[首頁-MOC 磚友之家-淘寶網](https://shop261726840.world.taobao.com/?spm=2013.1.0.0.57e34499yaUOsJ)
+[首頁-MOC 磚友之家-淘寶網](https://shop261726840.world.taobao.com/)
 
 [Kos Brick - YouTube](https://www.youtube.com/@KosBrick)
 [Lego Transformer G1 Autobot Mini Vehicles - Part 1 (Tutorial) - YouTube](https://www.youtube.com/watch?v=zDQmDeT06fU)
@@ -195,7 +198,7 @@ MOC = My Own Creation
 
 [6 YouTube Channels to Help Master Your LEGO Design Skills – Review Geek](https://www.reviewgeek.com/41577/6-youtube-channels-to-help-master-your-lego-design-skills/)
 
-[Playwell Bricks - YouTube](https://www.youtube.com/c/PlaywellBricks)
+[Playwell Bricks - YouTube](https://www.youtube.com/@PlaywellBricks)
 [Design Theory - YouTube](https://www.youtube.com/playlist?list=PLaEL-gouFOoGcDWKflw8rENiOHyCVSP3g)
 [Basic Brick Tutorials - YouTube](https://www.youtube.com/playlist?list=PLaEL-gouFOoHpTmu4GL2hJnSeT-g2EJXo)
 [Intermediate Brick Tutorials - YouTube](https://www.youtube.com/playlist?list=PLaEL-gouFOoFDFsV5KUC3dZJ96epfr8u0)

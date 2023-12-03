@@ -2,6 +2,7 @@
 title: Anthropology
 description: ""
 created: 2015-08-07
+updated: 2023-09-29
 tags:
   - anthropology
 ---

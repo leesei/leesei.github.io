@@ -1,15 +1,15 @@
 ---
 title: Git notes
-description: ""
+description: Git is a content addressable file system
 created: 2014-12-11
-updated: 2023-07-27
+updated: 2023-11-29
 tags:
   - app
   - git
   - shell-tool
 ---
 
-Git is a content addressable file system
+![](./_assets/git-notes/git-workflow.png)
 
 - workspace/working tree
   current file system
@@ -32,6 +32,7 @@ Git is a content addressable file system
 [git - the simple guide - no deep shit!](https://rogerdudler.github.io/git-guide/)
 
 [Opinionated Git](http://opinionatedgit.com/)
+[Coding Career Advice: Using Git for Version Control Effectively · Mark's Dev Blog](https://blog.isquaredsoftware.com/2021/01/coding-career-git-usage/) ❗!important
 
 You can always check reflog to restore commit no matter how you messed with your tree.
 [Git back to the future | Phil Nash](https://philna.sh/blog/2017/01/04/git-back-to-the-future/)
@@ -104,15 +105,21 @@ You can always check reflog to restore commit no matter how you messed with your
 [Learn Enough Git to Be Dangerous | Learn Enough to Be Dangerous](https://www.learnenough.com/git-tutorial)
 [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction)
 
-## Manual/reference
+## Manual/Reference/Fucked Up
 
 [Git - Documentation](http://git-scm.com/doc)
 [kernel.org user manual](https://www.kernel.org/pub/software/scm/git/docs/user-manual.html)
 [kernel.org howto](https://www.kernel.org/pub/software/scm/git/docs/howto/)
 [Git Reference](http://gitref.org/)
-[A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
 [Git SCM Wiki](https://git.wiki.kernel.org/index.php/Main_Page)
 [Git Memo](http://git-memo.readthedocs.org/en/latest/introduction.html)
+
+[A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
+
+[First Aid git](https://firstaidgit.spielmannspiel.com/#/)
+[First Aid Kit for Git | Learn Version Control with Git](https://www.git-tower.com/learn/git/first-aid-kit/)
+[Dangit, git!](https://dangitgit.com/)
+[k88hudson/git-flight-rules: Flight rules for git](https://github.com/k88hudson/git-flight-rules)
 
 ## Git Protocols
 
@@ -120,7 +127,7 @@ You can always check reflog to restore commit no matter how you messed with your
 [Introducing Git protocol version 2 | Google Open Source Blog](https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html)
 [Git Wire Protocol, Version 2](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/technical/protocol-v2.html)
 
-## Commentary/Internals
+## Commentaries/Internals
 
 [Git - Plumbing and Porcelain](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain)
 [Merkle tree - Wikiwand](https://www.wikiwand.com/en/Merkle_tree)
@@ -131,6 +138,7 @@ You can always check reflog to restore commit no matter how you messed with your
 [Optimizing git’s merge machinery, #2 | by Palantir | Palantir Blog | Mar, 2021 | Medium](https://medium.com/palantir/optimizing-gits-merge-machinery-2-d81391b97878)
 
 [How Git Works Under the Hood](https://www.freecodecamp.org/news/git-under-the-hood/)
+[Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/)
 [Reset Demystified – Scott Chacon](http://scottchacon.com/2011/07/11/reset.html)
 [Note to Self – Scott Chacon](http://scottchacon.com/2010/08/25/notes.html)
 [Git Loves the Environment – Scott Chacon](http://scottchacon.com/2010/04/11/environment.html)
@@ -138,10 +146,12 @@ You can always check reflog to restore commit no matter how you messed with your
 [Commits are snapshots, not diffs | The GitHub Blog](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
 
 [Git from the inside out - YouTube](https://www.youtube.com/watch?v=fCtZWGhQBvo)
+[Git Internals - How Git Works - Fear Not The SHA! - YouTube](https://www.youtube.com/watch?v=P6jD966jzlk)
+[Git Internals by John Britton of GitHub - CS50 Tech Talk - YouTube](https://www.youtube.com/watch?v=lG90LZotrpo)
+[How GIT works UNDER the HOOD? - YouTube](https://www.youtube.com/watch?v=RxHJdapz2p0)
+
 [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
 [Unpacking Git packfiles](https://codewords.recurse.com/issues/three/unpacking-git-packfiles)
-[Git Internals by John Britton of GitHub - CS50 Tech Talk - YouTube](https://www.youtube.com/watch?v=lG90LZotrpo)
-
 [Git Pathspecs and How to Use Them | CSS-Tricks](https://css-tricks.com/git-pathspecs-and-how-to-use-them/)
 [How Git truly works. A deep dive on the internals to… | by Alberto Prospero | May, 2022 | Towards Data Science](https://towardsdatascience.com/how-git-truly-works-cd9c375966f6)
 
@@ -159,8 +169,6 @@ You can always check reflog to restore commit no matter how you messed with your
 
 [BFG Repo-Cleaner by rtyley](https://rtyley.github.io/bfg-repo-cleaner/)
 [Rewriting Git project history with The BFG | Info | theguardian.com](https://www.theguardian.com/info/developer-blog/2013/apr/29/rewrite-git-history-with-the-bfg)
-
-[Git - git-filter-branch Documentation](https://git-scm.com/docs/git-filter-branch)
 
 ## Bindings
 
@@ -203,10 +211,11 @@ You can name you custom script as `git-mycmd`, place it in you PATH and use `git
 ## GUI Clients
 
 [Git - GUI Clients](https://git-scm.com/downloads/guis)
+[Sourcetree | Free Git GUI for Mac and Windows](https://sourcetreeapp.com/) ❗!important, by Atlassian
 [Sublime Merge - Git Client, done Sublime](https://www.sublimemerge.com/) ❗!important
 [GitLens: where have you been all my life! - DEV Community 👩‍💻👨‍💻](https://dev.to/glsolaria/gitlens-where-have-you-been-all-my-life-1c2d) ❗!important, VSCode extension
 
-[Git GUI for Windows, Mac & Linux | GitKraken](https://www.gitkraken.com/)
+[Git GUI for Windows, Mac & Linux | GitKraken](https://www.gitkraken.com/) subscription
 [GitEye | CollabNet](http://www.collab.net/products/giteye)
 [GitUp](http://gitup.co/) Mac only, innovative UX
 
@@ -222,9 +231,10 @@ You can name you custom script as `git-mycmd`, place it in you PATH and use `git
 
 ### Terminal GUI
 
-[extrawurst/gitui: Blazing 💥 fast terminal-ui for git written in rust 🦀](https://github.com/Extrawurst/gitui)
+[extrawurst/gitui: Blazing 💥 fast terminal-ui for git written in rust 🦀](https://github.com/Extrawurst/gitui) 👍
+[chriswalz/bit: Bit is a modern Git CLI](https://github.com/chriswalz/bit) 👍
 
-[Tig: text-mode interface for Git](http://jonas.nitro.dk/tig/)
+[Tig: text-mode interface for Git](http://jonas.nitro.dk/tig/) 👎
 [The Tig Manual](http://jonas.nitro.dk/tig/manual.html)
 
 [tig: nice text-mode (ncurses) Git repo viewer - YouTube](https://www.youtube.com/watch?v=udCXubFr5Yo)
@@ -237,10 +247,13 @@ You can name you custom script as `git-mycmd`, place it in you PATH and use `git
 [git-annex](https://git-annex.branchable.com/) add file to git
 [joeyh/git-annex: manage large files with git](https://github.com/joeyh/git-annex)
 
-[Git Large File Storage | Git Large File Storage (LFS) replaces large files such as audio samples, videos, datasets, and graphics with text pointers inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise.](https://git-lfs.github.com/)
-[cloudmazing/lfs-server-go: LFS server with multiple file stores and backing stores](https://github.com/cloudmazing/lfs-server-go)
-[Large Media overview | Netlify Docs](https://docs.netlify.com/large-media/overview/)
+[Git Large File Storage | Git Large File Storage (LFS) replaces large files such as audio samples, videos, datasets, and graphics with text pointers inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise.](https://git-lfs.com/)
+[Installation · git-lfs/git-lfs Wiki](https://github.com/git-lfs/git-lfs/wiki/Installation)
+[Tutorial · git-lfs/git-lfs Wiki](https://github.com/git-lfs/git-lfs/wiki/Tutorial)
 
+[cloudmazing/lfs-server-go: LFS server with multiple file stores and backing stores](https://github.com/cloudmazing/lfs-server-go)
+
+[Large Media overview | Netlify Docs](https://docs.netlify.com/large-media/overview/)
 [Git Large File Storage - How to Work with Big Files - YouTube](https://www.youtube.com/watch?v=uLR1RNqJ1Mw)
 [Managing huge files on the right storage with Git LFS - YouTube](https://www.youtube.com/watch?v=006RUPVIP-c)
 [GitLFS - How to handle large files in Git - Lars Schneider - FOSSASIA Summit 2017 - YouTube](https://www.youtube.com/watch?v=YQzNfb4IwEY)
@@ -322,8 +335,6 @@ May need [puppetlabs/showoff](https://github.com/puppetlabs/showoff)
 
 ## Tips and Tricks
 
-[First Aid git](https://firstaidgit.spielmannspiel.com/#/)
-[First Aid Kit for Git | Learn Version Control with Git](https://www.git-tower.com/learn/git/first-aid-kit/)
 [git-tips/tips: Most commonly used git tips and tricks.](https://github.com/git-tips/tips)
 [nirajpandkar/git-tip: CLI that gives a random git-tip.](https://github.com/nirajpandkar/git-tip)
 [A few git tips you didn't know about](http://mislav.uniqpath.com/2010/07/git-tips/)
@@ -332,7 +343,6 @@ May need [puppetlabs/showoff](https://github.com/puppetlabs/showoff)
 [GIT Conventions — Medium](https://medium.com/@tjholowaychuk/git-conventions-a940ee20862d)
 [10 Git Commands You Should Know – Towards Data Science](https://towardsdatascience.com/10-git-commands-you-should-know-df54bea1595c)
 [10 insanely useful Git commands you wish existed - and their alternatives - datree](https://datree.io/git-commands/)
-[Dangit, git!](https://dangitgit.com/)
 [git Archives - Everything CLI](https://www.everythingcli.org/tag/git/)
 
 [Five Key Git Concepts Explained the Hard Way – zwischenzugs](https://zwischenzugs.com/2018/03/14/five-key-git-concepts-explained-the-hard-way/)
@@ -344,7 +354,7 @@ May need [puppetlabs/showoff](https://github.com/puppetlabs/showoff)
 [A Guide To Undoing Mistakes With Git (Part 1) — Smashing Magazine](https://www.smashingmagazine.com/2021/05/undoing-mistakes-git-part1/)
 [A Guide To Undoing Mistakes With Git (Part 2) — Smashing Magazine](https://www.smashingmagazine.com/2021/05/undoing-mistakes-git-part2/)
 
-[Advanced Git Commands: Rewriting History - DZone Open Source](https://dzone.com/articles/advanced-git-commands-rewriting-history)
+[Presentations: Using Git Effectively · Mark's Dev Blog](https://blog.isquaredsoftware.com/2021/05/presentations-using-git-effectively/)
 
 [tryexceptpass - Episode 6 - Underused Git Commands that Simplify Your Life](https://tryexceptpass.org/podcast/ep6-underused-git-commands/)
 
@@ -352,6 +362,17 @@ May need [puppetlabs/showoff](https://github.com/puppetlabs/showoff)
 [Git tips: 合并 commit 保持分支干净整洁 – 尘埃落定](http://www.lovelucy.info/git-tips-combine-commits-keep-your-branch-clean.html)
 [The Elements of Commit Style](http://mcandre.gitbooks.io/elements-of-commit-style/content/index.html)
 [6 best practices for teams using Git | Opensource.com](https://opensource.com/article/20/7/git-best-practices)
+
+## Rewriting History
+
+[Git - git-filter-branch Documentation](https://git-scm.com/docs/git-filter-branch)
+[newren/git-filter-repo: Quickly rewrite git repository history (filter-branch replacement)](https://github.com/newren/git-filter-repo) recommended replacement for `git filter-branch`
+
+[Advanced Git Commands: Rewriting History - DZone Open Source](https://dzone.com/articles/advanced-git-commands-rewriting-history)
+
+[Rewriting Your Git History and JS Source for Fun and Profit · Mark's Dev Blog](https://blog.isquaredsoftware.com/2018/11/git-js-history-rewriting/#iterating-through-git-history) repo transform with `git filter-branch`, `pygit2`, `pylter-branch`
+
+[BFG Repo-Cleaner by rtyley](https://rtyley.github.io/bfg-repo-cleaner/) cleanse big files/secrets from repo
 
 ## Githooks
 
@@ -735,7 +756,8 @@ Submodule saves a commit hash of another (library) repo in the current (master) 
 ```sh
 # clone project with submodules
 git clone --recursive
-# or `git submodule update --init` after clone
+# for cloned project
+git submodule update --init
 
 # update local submodule hash
 git submodule update --remote

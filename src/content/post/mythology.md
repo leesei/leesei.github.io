@@ -2,6 +2,7 @@
 title: Mythology
 description: ""
 created: 2015-08-01
+updated: 2023-10-24
 tags:
   - trivia
 ---
@@ -16,7 +17,7 @@ tags:
 [食譜《山海經》的黑暗真相，隱藏在日本妖怪身上，白狐之子安倍晴明給我們留下了線索……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=-B1rMnlzKeU) 妖怪為土著/原住民?
 [【神話故事集】 - YouTube](https://www.youtube.com/playlist?list=PL4Kt3ngY0fjkLwoWk2SdhiOo0Z8TMIMJG) 奇幻圖書館
 
-[World Mythology - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNCG9Vq7vdvJytS-F-xGi7_)
+[World Mythology - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNCG9Vq7vdvJytS-F-xGi7_) CrashCourse
 [Myths from Around the World - YouTube](https://www.youtube.com/playlist?list=PLJicmE8fK0EjW2AVwcSc4NvGyJJaw7bzh)
 [See U in History / Mythology - YouTube](https://www.youtube.com/channel/UC9u3UqkoikJ9Nr8t4wvyNRQ)
 [Extra Mythology (ALL EPISODES) - YouTube](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5BPIbL5ROX4RUByP5IjuGkr)
@@ -40,6 +41,7 @@ tags:
 [华夏众神 - YouTube](https://www.youtube.com/playlist?list=PLK5xZu3SLGqb8_2GuJ_wWcKFHcl-bFLRQ)
 [大臉怪爸爸 - YouTube](https://www.youtube.com/%40user-bv2mc2ck7h/featured)
 [老梁：中国神话体系 - YouTube](https://www.youtube.com/watch?v=lfmry8zWJ8M&t=0s)
+[【中国神话】系列 - YouTube](https://www.youtube.com/playlist?list=PLjUnVnXwPY7FJFE9sjrScjfe3u-UoWKEN)
 [中國古代全都是外星人，而且和蘇美神話居然是一樣的 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=nPnNQNCoC9M)
 
 [File: 馬王堆絲畫 - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/File:Mawangdui_silk_banner_from_tomb_no1.jpg)
@@ -146,6 +148,8 @@ Tengu Media, 炎帝為黃河農耕民族 (仰韶, 大地灣, 老官台文化, �
 [THEOI GREEK MYTHOLOGY, Exploring Mythology & the Greek Gods in Classical Literature & Art](http://www.theoi.com/)
 [Greek Gods and Goddesses • Facts and Information](https://greekgodsandgoddesses.net/)
 
+[甚麼是潘朵拉盒子? 神話、寓意、詮釋、夏娃! (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=DPE-1G8VkZg)
+
 [27 分鐘講完十二泰坦與衆神，超越你想象的希臘神話 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=Yyzb2uvihp4)
 [千萬不要看她的眼睛，否則後果不堪想象 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=UiQCan3GSEs)
 [Roman Religion Before the Greeks - Ancient History DOCUMENTARY - YouTube](https://www.youtube.com/watch?v=U7WPREqzDmE)
@@ -223,6 +227,7 @@ Upon the discovery of new planets in the Solar system, a God's name was chosen t
 [Mythical Creatures - The Ultimate List of Mythological Creatures](http://mythologian.net/mythical-creatures-ultimate-list-mythological-creatures/)
 [List of Greek Mythological Creatures and Monsters • Facts & Information](https://greekgodsandgoddesses.net/creatures/)
 
+[Monstrum - YouTube](https://www.youtube.com/playlist?list=PL_lsQEz7yLOpq278N-4I72cTXlRE1kVUN)
 [怪物志 - YouTube](https://www.youtube.com/playlist?list=PLUqQlbOIlh2wJedro_G11UiawafUQLY2H) 艾森巴赫
 [日本妖怪 70%來自中國 為什麼妖怪大國卻是日本? 為何中國妖怪混得這麼慘? 【妖怪的歷史】 - YouTube](https://www.youtube.com/watch?v=xnFb6uyPKDc)
 [Were These Monsters Inspired by Fossils? - YouTube](https://www.youtube.com/watch?v=Do-ihwWeS3Y)

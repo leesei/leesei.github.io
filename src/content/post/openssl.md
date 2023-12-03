@@ -2,6 +2,7 @@
 title: OpenSSL
 description: ""
 created: 2015-09-29
+updated: 2023-10-20
 tags:
   - app
   - openssl
@@ -10,6 +11,8 @@ tags:
 
 [OpenSSL](https://www.openssl.org/) is a toolkit for the TLS and SSL.
 [The Most Common OpenSSL Commands](https://www.sslshopper.com/article-most-common-openssl-commands.html)
+[Some list of openssl commands for check and verify your keys](https://gist.github.com/Hakky54/b30418b25215ad7d18f978bc0b448d81)
+[OpenSSL command cheatsheet](https://www.freecodecamp.org/news/openssl-command-cheatsheet-b441be1e8c4a/)
 
 [jbp.io :: TLS performance: rustls versus OpenSSL](https://jbp.io/2019/07/01/rustls-vs-openssl-performance.html)
 
@@ -17,10 +20,9 @@ tags:
 
 [X.509 - Wikiwand](https://www.wikiwand.com/en/X.509)
 [DER vs. CRT vs. CER vs. PEM Certificates and How To Convert Them](http://info.ssl.com/article.aspx?id=12149)
-[Converting OpenSSH public keys - Odd Bits](http://blog.oddbit.com/2011/05/08/converting-openssh-public-keys/)
 
 `.pem`, `.key`, `.csr` are used for keys (file format)
-`.crt` == X.509? probably
+`.crt` == X.509? probably (`-----BEGIN CERTIFICATE-----`)
 `.csr` can be converted to `.crt` by signing with private key
 `.pfx`/`.p12` == PKCS#12
 SPKI, PKCS: key format
@@ -77,11 +79,16 @@ openssl req -text -noout -in certificate.csr
 
 # PKCS#12 (.pfx or .p12)
 openssl pkcs12 -info -in key.p12
+
+# read RSA key
+openssl rsa -in private.key -text -noout
+openssl rsa -RSAPublicKey_in -in public.key -text -noout
 ```
 
 ## conversion
 
 [SSL Converter - Convert SSL Certificates to different formats](https://www.sslshopper.com/ssl-converter.html)
+[Converting OpenSSH public keys - Odd Bits](http://blog.oddbit.com/2011/05/08/converting-openssh-public-keys/)
 
 ```sh
 # DER (.crt .cer .der) -> PEM

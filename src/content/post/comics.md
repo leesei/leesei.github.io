@@ -2,6 +2,7 @@
 title: Comics
 description: ""
 created: 2015-04-24
+updated: 2023-11-20
 tags:
   - comics
 ---
@@ -21,18 +22,17 @@ More focus on the mental beings of the heroes and villains.
 [siufublog](https://siufublog.wordpress.com/)
 [The History Of The Marvel Vs DC Rivalry - YouTube](https://www.youtube.com/watch?v=sXmyW7rCVR0)
 
-[Variant Comics - YouTube](https://www.youtube.com/channel/UC4kjDjhexSVuC8JWk4ZanFw)
-[NerdSync - YouTube](https://www.youtube.com/channel/UCURz5rKDgt7YibUSageNhEw)
-[Comicstorian - YouTube](https://www.youtube.com/channel/UCmA-0j6DRVQWo4skl8Otkiw)
-[MerryMarvelite - YouTube](https://www.youtube.com/c/MerryMarvelite)
-[神经局局长 - YouTube](https://www.youtube.com/channel/UCliLrX-qiSo-LvpqHdjN87Q)
-[美漫懶人包(US comics easy pack) - YouTube](https://www.youtube.com/playlist?list=PLSYYuRn7FAnX5FQjaTH51siG6bPP7JslH)
-[努力的 Lorre 油管频道 - YouTube](https://www.youtube.com/channel/UCKMZ34aa78_8tsPpIeuIMmA)
+[NerdSync - YouTube](https://www.youtube.com/@NerdSyncProductions)
+[Comicstorian - YouTube](https://www.youtube.com/@comicstorian)
+[MerryMarvelite - YouTube](https://www.youtube.com/@MerryMarvelite)
+[努力的 Lorre 油管频道 - YouTube](https://www.youtube.com/@lorre1349)
+[美漫懶人包(US comics easy pack) - YouTube](https://www.youtube.com/playlist?list=PLSYYuRn7FAnX5FQjaTH51siG6bPP7JslH) 帥狗 HandsomeDoge
 
+[Variant Comics - YouTube](https://www.youtube.com/@variant)
 [History Of... - YouTube](https://www.youtube.com/playlist?list=PL92anhRfLV9IlgS10t4BhlBR6e2s7ZoWL) comics characters
 [One Shots! - YouTube](https://www.youtube.com/playlist?list=PL92anhRfLV9Lyqxv3wCONNfSB25D3loVN)
 
-[Comics Explained - YouTube](https://www.youtube.com/c/comicsexplained)
+[Comics Explained - YouTube](https://www.youtube.com/@comics_explained)
 [Marvel Major Event Chronology | Comics Explained - YouTube](https://www.youtube.com/playlist?list=PL9sO35KZL50yZh5dXW-7l93VZp7Ct4vYA)
 [New To X-Men? Start Here! | Comics Explained - YouTube](https://www.youtube.com/playlist?list=PL9sO35KZL50y6mF4N-NCUXeAtj9P78_Cp)
 [Too Powerful For Marvel Movies | Comics Explained - YouTube](https://www.youtube.com/playlist?list=PL9sO35KZL50w5_ObILpwuVvbsZCPFAIak)

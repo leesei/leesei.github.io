@@ -2,7 +2,7 @@
 title: Manufacturing
 description: ""
 created: 2023-06-10
-updated: 2023-08-14
+updated: 2023-09-29
 tags:
   - manufacturing
   - science
@@ -18,6 +18,8 @@ tags:
 [【隱形工廠｜戶外教學】 - YouTube](https://www.youtube.com/playlist?list=PLBTwOvE8YhQFcfuoNhXOaJsUsVNnyf_3z)
 [超認真少年 Imserious 隱形工廠 - YouTube](https://www.youtube.com/channel/UCckzc03-ycrpB1XIUfRhpnw/search?query=%E9%9A%B1%E5%BD%A2%E5%B7%A5%E5%BB%A0)
 
+[How Do You Steer a Drill Below The Earth? - YouTube](https://www.youtube.com/watch?v=JAhdb7dKQpU) Horizontal Directional Drilling
+
 [【隱形工廠】1 台車床抵 6 間工廠 車床基礎介紹 傳統車床 CNC 油順精密【超認真少年】Taiwan lathe history (traditional lathe , CNC, DMG MORI ) - YouTube](https://www.youtube.com/watch?v=60u4TepzKlo)
 [車床 折床 銑床 你沒看過的「拉床」！【超認真少年】SUPER RARE!!Broach Machine - YouTube](https://www.youtube.com/watch?v=FqzqE2xWicM)
 [認識 CNC 基礎教學!開箱德國上億元神獸級 CNC！ 台中精機【隱形工廠】What's CNC? - YouTube](https://www.youtube.com/watch?v=KZ0lIzlYHw4)
@@ -29,7 +31,7 @@ tags:
 
 [Factory Tours - YouTube](https://www.youtube.com/playlist?list=PLsuVSmND84QuVMZuk2HGUtCSYXR7nmC5a) Gamers Nexus
 
-[How credit-card size computers are made (Factory Tour) - YouTube](https://www.youtube.com/watch?v=k2C4lbbIH0c)
+[How Raspberry Pis are made (Factory Tour) - YouTube](https://www.youtube.com/watch?v=k2C4lbbIH0c)
 
 LinusTechTips
 [Checking on my Investment in Person - Framework Laptop Factory Tour - YouTube](https://www.youtube.com/watch?v=7nXVJBGowmY)

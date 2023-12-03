@@ -2,6 +2,7 @@
 title: Java
 description: ""
 created: 2016-03-04
+updated: 2023-10-12
 tags:
   - clojure
   - comp/lang
@@ -9,6 +10,9 @@ tags:
   - guava
   - java
 ---
+
+[[kotlin]]
+[[scala]]
 
 [Heroku | The Next Twenty Years of Java: Where We've Been and Where We're Going](https://blog.heroku.com/archives/2015/6/4/the_next_twenty_years_of_java_where_we_ve_been_and_where_we_re_going)
 
@@ -52,7 +56,7 @@ From Oracle:
 
 [Java "Back to Basics" Tutorial | Baeldung](https://www.baeldung.com/java-tutorial)
 [Home - Thoughts on Java](https://thoughts-on-java.org/)
-[Thoughts On Java - YouTube](https://www.youtube.com/c/thoughtsonjava)
+[Thorben Janssen - YouTube](https://www.youtube.com/@thoughtsonjava)
 
 [14 YouTube Channels You Should Follow in 2019 - Thoughts on Java](https://thoughts-on-java.org/youtube-channels-you-should-follow-in-2019/)
 
@@ -134,7 +138,23 @@ http service scalability
 
 ### Database/ORM
 
+[[sql#ORM (or not)]]
+
 [主流 Java ORM 框架有哪些？](http://c.biancheng.net/view/8117.html)
+
+## App Frameworks
+
+[[spring]]
+
+### Vaadin
+
+[Vaadin | Discover the Web App Framework Built for Java](https://vaadin.com/)
+[vaadin/platform: Vaadin platform 10+ is a Java web development platform based on Vaadin web components. If you don't know to which repository your bug report should be filed, use this and we'll move it to the right one.](https://github.com/vaadin/platform)
+
+### JHipster
+
+[JHipster - Full Stack Platform for the Modern Developer!](https://www.jhipster.tech/)
+[jhipster/generator-jhipster: JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.](https://github.com/jhipster/generator-jhipster)
 
 ---
 

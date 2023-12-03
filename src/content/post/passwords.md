@@ -2,6 +2,7 @@
 title: Passwords
 description: ""
 created: 2015-04-08
+updated: 2023-10-02
 tags:
   - passwords
   - security
@@ -16,6 +17,7 @@ tags:
 > Nick is the author of [DataGenetics](http://datagenetics.com/)
 
 [How NOT to Store Passwords! - Computerphile - YouTube](https://www.youtube.com/watch?v=8ZtInClXe1Q)
+[Password Storage Tier List: encryption, hashing, salting, bcrypt, and beyond - YouTube](https://www.youtube.com/watch?v=qgpsIBLvrGY)
 
 [Why passwords have never been weaker—and crackers have never been stronger | Ars Technica](http://arstechnica.com/security/2012/08/passwords-under-assault/)
 [20 Hours, $18, and 11 Million Passwords Cracked – HackerNoon.com](https://hackernoon.com/20-hours-18-and-11-million-passwords-cracked-c4513f61fdb1)

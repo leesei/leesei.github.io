@@ -2,7 +2,7 @@
 title: Xbox 360 Emulator
 description: ""
 created: 2023-06-12
-updated: 2023-08-08
+updated: 2023-09-29
 tags:
   - emulator
   - games
@@ -39,18 +39,20 @@ Gears of War 3
 Gears of War: Judgement
 Call of Duty 2
 Call of Duty 3
+Call of Duty: Black Ops
 Call of Duty: World at War
-Call of Duty: Ghosts
 Call of Duty 4: Modern Warfare
-Call of Duty 4: Modern Warfare 3
+Call of Duty: Modern Warfare 2
+Call of Duty: Modern Warfare 3
+Call of Duty: World at War
+Transformers War for Cybertron
+Transformers Fall of Cybertron
 
 Metal Gear Solid HD Collection (1-3, Solid: Peace Walker)
 Metal Gear Solid V: Ground Zeroes
 Metal Gear Rising: Revengence
 Call of Duty: Advanced Warfare https://vimm.net/vault/79327 https://vimm.net/vault/79326
-Call of Duty: Modern Warfare 2 https://vimm.net/vault/78313
-Call of Duty: World at War https://vimm.net/vault/78320
-Call of Duty: Black Ops https://vimm.net/vault/78696
+Call of Duty: Ghosts https://vimm.net/vault/78954
 Call of Duty: Black Ops II https://vimm.net/vault/78950
 Call of Duty: Black Ops III https://vimm.net/vault/79034
 Stranglehold 槍神, John Woo https://vimm.net/vault/78335
@@ -62,8 +64,6 @@ FF XIII
 Infinite Undiscovery
 Wet
 Lost Odyessy
-Transformers War for Cybertron https://vimm.net/vault/78558
-Transformers Fall of Cybertron https://vimm.net/vault/79115
 Transformers Devastation
 
 Disney-Pixar Cars https://vimm.net/vault/80877

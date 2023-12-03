@@ -2,28 +2,38 @@
 title: Paleontology
 description: ""
 created: 2019-08-09
+updated: 2023-11-13
 tags:
+  - geology
+  - paleontology
   - science
 ---
 
 [[dinosaur]]
 
+[Geology - Wikiwand](https://www.wikiwand.com/en/geology)
 [Paleontology - Wikiwand](https://www.wikiwand.com/en/Paleontology)
 Ma = million years ago
+Ga = billion years ago
 
 [History of Earth - Wikiwand](https://www.wikiwand.com/en/History_of_Earth)
 [Timeline of the evolutionary history of life - Wikiwand](https://www.wikiwand.com/en/meline_of_the_evolutionary_history_of_life)
 [Evolutionary history of life - Wikiwand](https://www.wikiwand.com/en/Evolutionary_history_of_life)
+
+[4.5 Billion Years in 1 Hour - YouTube](https://www.youtube.com/watch?v=S7TUe5w6RHo) Kurzgesagt – In a Nutshell
 [超震撼！10 分鐘從看完地球生命演化史，從原始生命到智人的出現，這是生命的史詩篇章丨羊駝簡譜丨黑毛羊駝 - YouTube](https://www.youtube.com/watch?v=yI6bYEioLQE)
 [超出你想象的地球預言 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=5AseSLCG7wI)
 [Paleo 101 - YouTube](https://www.youtube.com/playlist?list=PLomaaRl17MJ7P-uJargRE6e0rgT6W9jXn)
 
-[Ben G Thomas - YouTube](https://www.youtube.com/channel/UCDSzwZqgtJEnUzacq3ddoOQ)
-[CHimerasuchus - YouTube](https://www.youtube.com/channel/UC9jQRxOuZ1zfZr4yiaTRonA)
-[E.D.G.E - YouTube](https://www.youtube.com/channel/UCAaqNKI6oCjlgI4aRV1ciqg)
-[Henry the PaleoGuy - YouTube](https://www.youtube.com/channel/UCN1rSOJNzfjzPOsPXRI-hGA)
-[PBS Eons - YouTube](https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA)
-[黑毛羊駝 Official Channel - YouTube](https://www.youtube.com/channel/UC25RIadI5WQcRS8CvB_nqKQ)
+[Ben G Thomas - YouTube](https://www.youtube.com/@BenGThomas)
+[CHimerasuchus - YouTube](https://www.youtube.com/@chimerasuchus)
+[E.D.G.E - YouTube](https://www.youtube.com/@EDGEscience)
+[GEO GIRL - YouTube](https://www.youtube.com/@GEOGIRL)
+[Henry the PaleoGuy - YouTube](https://www.youtube.com/@HenrythePaleoGuy)
+[History of the Earth - YouTube](https://www.youtube.com/@HistoryoftheEarth)
+[PBS Eons - YouTube](https://www.youtube.com/@eons)
+[黑毛羊駝 Official Channel - YouTube](https://www.youtube.com/@Heimaoyangtuo)
+[芳斯塔芙 - YouTube](https://www.youtube.com/@Funstuff2018)
 
 [The Paleontology Fringe Theories Iceberg | Tier 1 - YouTube](https://www.youtube.com/watch?v=b9elMHLG7Rc)
 [The Paleontology Fringe Theories Iceberg | Tier 2 (Part 1) - YouTube](https://www.youtube.com/watch?v=uribueDj4HQ)
@@ -128,6 +138,9 @@ Ediacaran 震旦紀 550 Ma
 [Incredible Map of Pangea With Modern-Day Borders](https://www.visualcapitalist.com/incredible-map-of-pangea-with-modern-borders/)
 [From Pangaea to the Modern Continents - YouTube](https://www.youtube.com/watch?v=WaUk94AdXPA)
 
+Rodinia broke in 750 Ma
+Gondwana
+
 ### Volcanoes
 
 [汤加火山是如何形成的？超级火山喷发如何改变人类命运？ - YouTube](https://www.youtube.com/watch?v=CkpV9pHch04)
@@ -145,6 +158,40 @@ VEI 7: Indonesia in 1815, causing year without summer
 
 [月球是重啟地球的開關，地球曾被月球重啟七次？月球背後的宇宙秘密……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=wczvneP-hus) 腦洞
 
+[The Other Explosion You Should Know About - YouTube](https://www.youtube.com/watch?v=Jpi2VJj5PhY)
+
+It's after the evolution of insects, by grinding the dead plants and trees, which help to stabilize the oxygen/carbon cycle and eliminated the explosion/extinction cycle
+
+### Great Oxidation Event
+
+1.8Ga
+
+[The Great Oxidation Event (GOE) | GEO GIRL - YouTube](https://www.youtube.com/watch?v=LK6X3EGEdOY) before Boring Billion
+[How Bad Was The Great Oxidation Event? - YouTube](https://www.youtube.com/watch?v=H476c8UjLXY)
+[Photosynthesis Unleashes Chemical Superweapon: Oxygen - YouTube](https://www.youtube.com/watch?v=l7BMQAoB8IM)
+
+[How Cyanobacteria Took Over The World - YouTube](https://www.youtube.com/watch?v=ps2GlGs8oso) the prokaryote that can photosyntheses
+
+### Boring Billion
+
+1.8 to 0.8 Ga (Billion years ago)
+between the two Oxidation Events
+
+[Boring Billion - Wikiwand](https://www.wikiwand.com/en/boring%20billion)
+
+[The "Boring Billion"- What Really Happened 1.8 to 0.8 Billion Years Ago? GEO GIRL - YouTube](https://www.youtube.com/watch?v=7cb5kOjTFIE)
+[The Earth's "Boring Billion" Years Were Anything But - YouTube](https://www.youtube.com/watch?v=-rEiywnAra0)
+
+[Previously Unknown Complex Lifeforms Dominated Earth 1.6 Billion Years Ago - YouTube](https://www.youtube.com/watch?v=p0Sm179PlMw&t=0s)
+[Accidental Discovery of Ancient Organisms We Never Knew Existed - YouTube](https://www.youtube.com/watch?v=fH81o3yJ5yU)
+
+### Neoproterozoic Oxygenation Event
+
+0.8Ga/800Ma
+
+[The Neoproterozoic Oxygenation Event (NOE) | GEO GIRL - YouTube](https://www.youtube.com/watch?v=vcCkU2qtBQU) after Boring Billion, caused by Rodinia breaking up and Cryognian thriving, this in turns contributes to Cambrian Explosion
+[Early Paleozoic Oxygen History: Evidence & Reasons for Paleozoic Oxygen Fluctuations | GEO GIRL - YouTube](https://www.youtube.com/watch?v=oPX0rBTYG8g) oxygen fluctuation post NOE, causing multiple explosion and extinction cycles
+
 ### Ediacaran Extinction
 
 550 Ma
@@ -152,25 +199,26 @@ VEI 7: Indonesia in 1815, causing year without summer
 [End-Ediacaran extinction - Wikiwand](https://www.wikiwand.com/en/End-Ediacaran_extinction)
 [埃迪卡拉紀末期滅絕事件 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%9F%83%E8%BF%AA%E5%8D%A1%E6%8B%89%E7%BA%AA%E6%9C%AB%E6%9C%9F%E7%81%AD%E7%BB%9D%E4%BA%8B%E4%BB%B6)
 
-### Cambrian explosion
+### Cambrian Explosion
 
 540 Ma
 
 [Cambrian explosion - Wikiwand](https://www.wikiwand.com/en/Cambrian_explosion)
 [寒武紀大爆發 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%AF%92%E6%AD%A6%E7%BA%AA%E5%A4%A7%E7%88%86%E5%8F%91)
 
+[Cambrian Explosion- More like PREcambrian Explosion & Cambrian Skeletonization | GEO GIRL - YouTube](https://www.youtube.com/watch?v=fyfrbWI0kc0)
 [我們都是外星生命的證據？探秘詭異的寒武紀生命大爆發！【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=hssePD_b_NU)
 
-### Ordovician Extinction
+### Ordovician Extinction (Big Five)
 
 450 Ma
 killed off 27% of all families, 57% of all genera and 60% to 70% of all species
-oxygen level in ocean reduced, vertebrates flourish
+oxygen level in ocean decresed, vertebrates flourish
 
 [Ordovician–Silurian extinction events - Wikiwand](https://www.wikiwand.com/en/Ordovician%E2%80%93Silurian_extinction_events)
 [奧陶紀－志留紀滅絕事件 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%A5%A7%E9%99%B6%E7%B4%80%EF%BC%8D%E5%BF%97%E7%95%99%E7%B4%80%E6%BB%85%E7%B5%95%E4%BA%8B%E4%BB%B6)
 
-### Late Devonian Extinction
+### Late Devonian Extinction (Big Five)
 
 370 Ma
 eliminated about 19% of all families, 50% of all genera[8] and at least 70% of all species
@@ -180,7 +228,7 @@ vertebrates landed
 [Late Devonian extinction - Wikiwand](https://www.wikiwand.com/en/Late_Devonian_extinction)
 [泥盆紀後期滅絕事件 - Wikiwand](https://www.wikiwand.com/zh-hant/%E6%B3%A5%E7%9B%86%E7%B4%80%E5%BE%8C%E6%9C%9F%E6%BB%85%E7%B5%95%E4%BA%8B%E4%BB%B6)
 
-### Permian Extinction/P–Tr Extinction
+### Permian Extinction/P–Tr Extinction (Big Five)
 
 250 Ma
 killed 57% of all families, 83% of all genera and 90% to 96% of all species
@@ -192,11 +240,21 @@ Pangaea formed and blocked ocean current, flammable ice melted and released tonn
 [Permian Extinction Information and Facts](https://www.nationalgeographic.com/science/prehistoric-world/permian-extinction/)
 [Why did nearly all life on Earth die 250 Ma?](https://io9.gizmodo.com/why-did-nearleary-all-life-on-earth-die-250-million-years-5558871)
 
-### Triassic Period Extinctions
+### Carnian Pluvial Event
 
+234 Ma, beginning of Late Triassic
+Characterized by increased rainfall and humid conditions worldwide.
+Lasted for about one million years.
+Resulted in the diversification of many plant and animal groups.
+Some reptiles adopted aquatic lifeform.
+
+[Carnian pluvial episode - Wikiwand](https://www.wikiwand.com/en/Carnian_pluvial_episode)
+[卡尼期洪積事件 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%8D%A1%E5%B0%BC%E6%9C%9F%E6%B4%AA%E7%A9%8D%E4%BA%8B%E4%BB%B6)
+
+[【鬼谷闲谈】卡尼期洪积事件：一场绵延两百万年的雨 - YouTube](https://www.youtube.com/watch?v=Op3eYfHgkPk)
 [地球上的一場雨下了兩百萬年！兩億年的三次生命滅絕給恐龍的崛起帶來的契機丨盤點三疊紀生物群落滅絕丨滅絕事件 - YouTube](https://www.youtube.com/watch?v=xzeA8WWh6tw)
 
-### Jurassic Extinction
+### Triassic–Jurassic Extinction (Big Five)
 
 200 Ma
 About 23% of all families, 48% of all genera (20% of marine families and 55% of marine genera) and 70% to 75% of all species became extinct
@@ -206,7 +264,7 @@ Dinosaurs flourish
 [Triassic–Jurassic extinction event - Wikiwand](https://www.wikiwand.com/en/Triassic%E2%80%93Jurassic_extinction_event)
 [三疊紀－侏羅紀滅絕事件 - Wikiwand](https://www.wikiwand.com/zh-hant/%E4%B8%89%E7%96%8A%E7%B4%80%EF%BC%8D%E4%BE%8F%E7%BE%85%E7%B4%80%E6%BB%85%E7%B5%95%E4%BA%8B%E4%BB%B6)
 
-### K–Pg extinction/K–T Extinction
+### Cretaceous–Paleogene Extention/K–Pg/K–T Extinction (Big Five)
 
 66 Ma
 About 17% of all families, 50% of all genera and 75% of all species became extinct
@@ -218,6 +276,13 @@ Wiped out non-avian dinosaurs, mammals flourish
 [顛覆你所知道的恐龍大滅絕原因！白堊紀大滅絕揭秘；火山噴發保護了受到隕石撞擊影響的部分生命？丨盤點白垩纪生物群落滅絕丨滅絕事件 - YouTube](https://www.youtube.com/watch?v=YmV5BSCG6Gc)
 
 [Late Cretaceous Dinosaur-Dominated Ecosystem - HeritageDaily - Archaeology News](https://www.heritagedaily.com/2020/03/late-cretaceous-dinosaur-dominated-ecosystem/126600)
+
+### Eocene–Oligocene extinction
+
+[Eocene–Oligocene extinction event - Wikiwand](https://www.wikiwand.com/en/Eocene%E2%80%93Oligocene_extinction_event)
+[始新世-漸新世滅絕事件 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%A7%8B%E6%96%B0%E4%B8%96-%E6%B8%90%E6%96%B0%E4%B8%96%E7%81%AD%E7%BB%9D%E4%BA%8B%E4%BB%B6)
+
+The proliferation of grass
 
 ### Younger Dryas
 
@@ -237,6 +302,16 @@ This event might have promoted human spices to practice husbandry and agricultur
 [The Earth 200,000 Years Ago | 200,000 Subscribers Special - YouTube](https://www.youtube.com/watch?v=EAp87u65snM)
 
 [史前大象到底有多大，史前還有獨角獸？盤點史上最大的陸生哺乳動物丨動物之最 08 - YouTube](https://www.youtube.com/watch?v=nYYtfg0wMFU)
+
+[【鬼谷说】奇虾 Anomalocaris：讲讲地球初代霸主的故事！ - YouTube](https://www.youtube.com/watch?v=J1FBuAJQbO4) 寒武紀
+
+[【鬼谷说】三叶虫 Trilobita：一个平凡家族的不屈与彷徨！ - YouTube](https://www.youtube.com/watch?v=mOVdqggu3fo) 540 Ma -
+
+[【鬼谷说】菊石（其一）：旧神的涅槃 - YouTube](https://www.youtube.com/watch?v=R01SkBwMsCk) 奧陶紀
+[【鬼谷说】菊石（其二）：此花开尽更无花 - YouTube](https://www.youtube.com/watch?v=9mQGUQfgq9I) 晚三疊紀卡尼期及三疊紀—侏羅紀滅絕事件
+
+[【鬼谷说】鹦鹉螺：我不是活化石 - YouTube](https://www.youtube.com/watch?v=T5GqZ9QTfnk) 奧陶紀
+[黃金螺線，潛艇科技，扛過所有5次大滅絕，給章魚當大哥的鸚鵡螺，螺殼裡到底藏著多少秘密？【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=uyq4xJvPWls)
 
 ### 軟骨魚/鯊魚
 

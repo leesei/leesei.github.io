@@ -2,6 +2,7 @@
 title: Flux Alternatives
 description: ""
 created: 2015-12-04
+updated: 2023-09-29
 tags:
   - flux
   - javascript

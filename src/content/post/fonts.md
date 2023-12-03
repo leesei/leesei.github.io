@@ -2,21 +2,15 @@
 title: Fonts
 description: ""
 created: 2016-04-23
-updated: 2023-07-22
+updated: 2023-11-15
 tags:
   - comp
   - comp/lang
-  - font
   - emoji
+  - font
 ---
 
 [The Art of Computer Typography – Signal v. Noise](https://signalvnoise.com/posts/3183-the-art-of-computer-typography)
-[An Introduction to TrueType Fonts: A look inside the TTF format](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=iws-chapter08)
-[Making sense of digital fonts](https://www.chenhuijing.com/blog/making-sense-of-digital-fonts/)
-baseline, descenders (`j`, `p`), line height, kerning
-
-[可曾留意，你正在閱讀的文字，都有其一套美學？ | 夠 POP](http://www.popd.hk/%e5%8f%af%e6%9b%be%e7%95%99%e6%84%8f%ef%bc%8c%e4%bd%a0%e6%ad%a3%e5%9c%a8%e9%96%b1%e8%ae%80%e7%9a%84%e6%96%87%e5%ad%97%ef%bc%8c%e9%83%bd%e6%9c%89%e5%85%b6%e4%b8%80%e5%a5%97%e7%be%8e%e5%ad%b8%ef%bc%9f/)
-[這些字到底怎麼回事？ | 夠 POP](http://www.popd.hk/%e9%80%99%e4%ba%9b%e5%ad%97%e5%88%b0%e5%ba%95%e6%80%8e%e9%ba%bc%e5%9b%9e%e4%ba%8b%ef%bc%9f/) 合文字
 
 [Free Brand Name Fonts Collection (TTF) | Windows Fonts | Windows Tools, Help & Guides](http://mintywhite.com/customize/fonts/free-brand-name-fonts-collection-ttf/)
 [20 High Quality Free Fonts for Designers | Freebies](http://webdesignledger.com/freebies/20-high-quality-free-fonts-for-designers)
@@ -24,6 +18,7 @@ baseline, descenders (`j`, `p`), line height, kerning
 [The 52 best free graffiti fonts | Creative Bloq](http://www.creativebloq.com/typography/free-graffiti-fonts-11121160)
 [The 10 Best Free Google Fonts for Professional Presentations](https://www.makeuseof.com/tag/free-google-fonts-presentations/)
 [Google Fonts 網路字型推出 5 款免費的中文網頁字體【飛肯設計學苑】教學](http://www.flycan.com/article/css/google-fonts-webfont-2474.html)
+[CCPLUS MEDIA | 中文字體設計美學](https://web.archive.org/web/20230923094822/https://www.ccplusmedia.com/%E4%B8%AD%E6%96%87%E5%AD%97%E9%AB%94%E8%A8%AD%E8%A8%88%E7%BE%8E%E5%AD%B8/)
 
 [The Making (and Potential Benefits) of a CSS Font | CSS-Tricks](https://css-tricks.com/the-making-and-potential-benefits-of-a-css-font/)
 
@@ -36,10 +31,19 @@ baseline, descenders (`j`, `p`), line height, kerning
 
 [The Font Magicians - Computerphile - YouTube](https://www.youtube.com/watch?v=jAdspOtgciQ) laser printer, font rasterization
 
+## Font Rendering
+
+[Making sense of digital fonts](https://www.chenhuijing.com/blog/making-sense-of-digital-fonts/)
+baseline, descenders (`j`, `p`), line height, kerning
+[Text Rendering Hates You - Faultlore](https://faultlore.com/blah/text-hates-you/)
 [The Math Behind Font Rasterization | How it Works - YouTube](https://www.youtube.com/watch?v=LaYPoMPRSlk)
+
+[HarfBuzz Manual: HarfBuzz Manual](https://harfbuzz.github.io/) when character's shape depends on its neighbor
+[harfbuzz/harfbuzz: HarfBuzz text shaping engine](https://github.com/harfbuzz/harfbuzz)
 
 ## Typography
 
+[Microsoft Typography documentation - Typography | Microsoft Learn](https://learn.microsoft.com/en-us/typography/)
 [Typography for User Interfaces | Viljami Salminen](https://viljamis.com/2016/typography-for-user-interfaces/)
 [The 5 Most Important Typography Terms, Explained](https://www.makeuseof.com/tag/typography-terms-explained/)
 [Fonts In Use – Type at work in the real world.](https://fontsinuse.com/)
@@ -78,6 +82,10 @@ baseline, descenders (`j`, `p`), line height, kerning
 [圓體 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%9C%93%E9%AB%94)
 
 [鳥蟲書 - Wikiwand](https://www.wikiwand.com/zh-hant/%E9%B3%A5%E8%9F%B2%E6%9B%B8)
+[篆書 - Wikiwand](https://www.wikiwand.com/zh-hk/%E7%AF%86%E4%B9%A6)
+[篆体\_百度百科](https://baike.baidu.com/item/%E7%AF%86%E4%BD%93/8566500)
+[隸書 - Wikiwand](https://www.wikiwand.com/zh-hk/%E9%9A%B8%E6%9B%B8)
+[隶书（汉字字体）\_百度百科](https://baike.baidu.com/item/%E9%9A%B6%E4%B9%A6/835864?fromModule=lemma_search-box)
 [隸變 - Wikiwand](https://www.wikiwand.com/zh-hant/%E9%9A%B8%E8%AE%8A)
 金文, 大篆為周時期官方字體
 小篆, 隸書為秦時期官方字體
@@ -152,6 +160,9 @@ Extensions:
 [qrpike/Web-Font-Load: Install all Google Web Fonts onto your local machine](https://github.com/qrpike/Web-Font-Load)
 [Should you self-host Google Fonts? | Tune The Web](https://www.tunetheweb.com/blog/should-you-self-host-google-fonts/)
 
+[Geist Font — Vercel](https://vercel.com/font)
+[GitHub - vercel/geist-font](https://github.com/vercel/geist-font)
+
 [𝕭𝖊𝖆𝖚𝖙𝖎𝖋𝖚𝖑 𝕯𝖎𝖓𝖌𝖇𝖆𝖙𝖘](https://beautifuldingbats.com/hey-howd-you-do-that)
 [Sans Forgetica - RMIT](https://sansforgetica.rmit.edu.au/)
 
@@ -223,9 +234,10 @@ Extensions:
 [Using Font Awesome 5 with React ― Scotch.io](https://scotch.io/tutorials/using-font-awesome-5-with-react)
 
 [React Icons](https://react-icons.github.io/react-icons/) ❗!important
+[Lucide | Lucide](https://lucide.dev/)❗!important, SVG, multiple frameworks, customize color
 
 [Iconify - all open source icons in one framework](https://iconify.design/)
-[Icon Sets • Iconify](https://icon-sets.iconify.design/) ❗!important, SVG, multiple frameworks
+[Icon Sets • Iconify](https://icon-sets.iconify.design/) ❗!important, SVG, multiple frameworks, customization
 [Iconify Types](https://docs.iconify.design/types/)
 [iconify/iconify: Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG framework, React, Vue and Svelte components!](https://github.com/iconify/iconify)
 
@@ -237,12 +249,13 @@ Extensions:
 [Open Iconic, a free and open icon set](https://useiconic.com/open/)
 [Octicons](https://primer.style/octicons/)
 [Tabler Icons: over 2150 vector icons for web design](https://tabler-icons.io/)
+[Free and open-source SVG Icons - Flowbite](https://flowbite.com/icons/)
 [Typicons](http://typicons.com/)
 [icono | Pure CSS icons](http://saeedalipoor.github.io/icono/)
-[Ligature Symbols](http://kudakurage.com/ligature_symbols/)
+[Ligature Symbols](http://kudakurage.com/ligature_symbols/) how font/typesetting merges characters into one
 [Maki Icons | By Mapbox](https://www.mapbox.com/maki-icons/)
 [Xaviju/inkscape-open-symbols: Open source SVG symbol sets that can be used as Inkscape symbols](https://github.com/Xaviju/inkscape-open-symbols)
-[Feather – Simply beautiful open source icons](https://feathericons.com/)
+[Feather – Simply beautiful open source icons](https://feathericons.com/) SVG, customize color
 [Free open source icons, illustrations, emojis and graphics - Iconduck](https://iconduck.com/)
 [Icons - Google Fonts](https://fonts.google.com/icons)
 [ByteDance IconPark](https://iconpark.oceanengine.com/official)
@@ -300,6 +313,9 @@ calligraphy into a font!
 
 ## Tools
 
+[OpenType specification (OpenType 1.9) - Typography | Microsoft Learn](https://learn.microsoft.com/en-us/typography/opentype/spec/)
+[An Introduction to TrueType Fonts: A look inside the TTF format](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=iws-chapter08)
+
 [bitinn/character-map: A simple command line tool for dumping a UTF-8 string of characters supported by a font file](https://github.com/bitinn/character-map)
 [CharMap - Powered by OpenType.js](http://bluejamesbond.github.io/CharacterMap/)
 [bluejamesbond/CharacterMap: Online Character Map / Glyph / Icon / Font Viewer](https://github.com/bluejamesbond/CharacterMap)
@@ -314,9 +330,6 @@ calligraphy into a font!
 [fonttools/fonttools: A library to manipulate font files from Python.](https://github.com/fonttools/fonttools)
 [zachleat/glyphhanger: Your web font utility belt. It can subset web fonts. It can find unicode-ranges for you automatically. It makes julienne fries.](https://github.com/zachleat/glyphhanger)
 [Reduce Page Weight using Font Subsetting](https://www.adamcollier.co.uk/blog/reduce-page-weight-using-font-subsetting)
-
-[HarfBuzz Manual: HarfBuzz Manual](https://harfbuzz.github.io/)
-[harfbuzz/harfbuzz: HarfBuzz text shaping engine](https://github.com/harfbuzz/harfbuzz)
 
 [學習字體的筆記 – MaxCodeReview](https://codereview.max-everyday.com/font-readme/)
 

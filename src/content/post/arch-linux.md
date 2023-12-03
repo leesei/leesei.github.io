@@ -2,7 +2,7 @@
 title: Arch linux
 description: ""
 created: 2014-12-08
-updated: 2023-07-22
+updated: 2023-10-16
 tags:
   - arch-linux
   - desktop
@@ -213,9 +213,11 @@ sudo baobab /
 ### `/home` space used up
 
 - check `~/.cache/pypoetry/virtualenvs/`
+- check `~/.cache/pipenv/`
 - check `~/venv`
 - `npm cache clean --force`
 - `yarn cache clean`
+- `pnpm store path`
 
 ### future key (Manjaro issue)
 

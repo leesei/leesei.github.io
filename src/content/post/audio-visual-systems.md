@@ -2,7 +2,7 @@
 title: Audio-visual Systems
 description: ""
 created: 2018-07-04
-updated: 2023-08-08
+updated: 2023-10-29
 tags:
   - audio-clip
   - clipart
@@ -162,6 +162,7 @@ Audio Library — Music for content creators
 [Spring In My Step - Silent Partner (No Copyright Music) - YouTube](https://www.youtube.com/watch?v=siCmqvfw_1g)
 [Safety Net - Riot (No Copyright Music) - YouTube](https://www.youtube.com/watch?v=faEtFGEqEAo)
 [Timeless - Lahar [Audio Library Release] · Free Copyright-safe Music - YouTube](https://www.youtube.com/watch?v=mywJyFeOW20)
+[Noir Et Blanc Vie - Topic - YouTube](https://www.youtube.com/channel/UC8qlRaVIkOwQTPVfHKE2Djg)
 
 NoCopyrightSounds
 [Tobu - Candyland [NCS Release] - YouTube](https://www.youtube.com/watch?v=IIrCDAV3EgI)
@@ -193,6 +194,7 @@ Kevin MacLeod
 [FreePhotos.cc - Download Free Stock Photos, Royalty-Free Images](https://freephotos.cc/en)
 [Gratisography - Free High-Resolution Photos](https://gratisography.com/)
 [Barnimages: Free stock images](https://barnimages.com/)
+[かわいいフリー素材集 いらすとや](https://www.irasutoya.com/)
 [搜图神器-一键搜索聚合，海量图片资源免费下载！](http://soutushenqi.com/)
 [以图搜图、以图搜视频所需插件和平台！ – 零度解说](https://www.freedidi.com/4430.html)
 
@@ -261,6 +263,13 @@ Those grew up watching Youtube are becoming YouTuber
 YouTuber are force make mild contents to maintain brand safety (profitability)
 Hub and Spoke Model of corporation
 YouTuber and the Youtube Platform are becoming adults
+
+[【電臺】我爲什麼分成了兩個頻道 | 從 LinusTechTips 炎上，說說視頻平臺激勵導向對內容取向的影響 - YouTube](https://www.youtube.com/watch?v=t1hdjCl13cE) 內容向 -> 粉絲向
+
+```js
+// get old channel URL (https://www.youtube.com/channel/UC...)
+document.querySelectorAll("meta[property='og:url']");
+```
 
 #### Spammers
 
@@ -339,6 +348,8 @@ YouTuber and the Youtube Platform are becoming adults
 [6 Free Tools to Adjust SRT or SUB Subtitle and Synchronize With AVI and DivX • Raymond.CC](https://www.raymond.cc/blog/adjust-srt-or-sub-subtitle-to-synchronize-with-avi-and-divx/view-all/) Windows
 [How to Edit Subtitles in Linux with SubtitleEditor](https://itsfoss.com/editing-subtitles/)
 [command line - How do I merge two \*.srt files - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/2283/how-do-i-merge-two-srt-files)
+[8 Best VTT Editors for Windows, Mac and Online](https://www.flexclip.com/learn/vtt-editor.html)
+[Subtitle Tools - Online Tools to Sync, Convert and Fix Subtitles](https://subtitletools.com/)
 
 [Subtitles - download movie and TV Series subtitles](https://www.opensubtitles.org/en/search/subs)
 [字幕库(zimuku) -- 字幕下载网站](https://zmk.pw/)

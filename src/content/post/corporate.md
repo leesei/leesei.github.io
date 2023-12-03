@@ -2,7 +2,7 @@
 title: Corporate
 description: ""
 created: 2015-04-15
-updated: 2023-07-27
+updated: 2023-09-29
 tags:
   - business
   - corporate

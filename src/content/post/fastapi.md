@@ -2,6 +2,7 @@
 title: FastAPI
 description: ""
 created: 2022-01-11
+updated: 2023-09-29
 tags:
   - backend
   - fastapi

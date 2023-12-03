@@ -2,13 +2,18 @@
 title: Locks
 description: ""
 created: 2016-12-26
+updated: 2023-10-12
 tags:
   - lock
   - trivia
 ---
 
-[LockPickingLawyer - YouTube](https://www.youtube.com/c/lockpickinglawyer)
+[LockPickingLawyer - YouTube](https://www.youtube.com/@lockpickinglawyer)
 [Keynote - LockPickingLawyer - YouTube](https://www.youtube.com/watch?v=IH0GXWQDk0Q)
+
+[Lockpicking Guides: Types of Locks and How to Pick them](https://www.lockpickworld.com/pages/lockpicking-guides-types-of-locks-and-how-to-pick-them)
+[How to Pick Locks - definitive guide to Single Pin Picking](https://www.lockpickworld.com/pages/lockpicking-guide-for-beginners)
+[Lock Pick Types - ITS Tactical](https://www.itstactical.com/skillcom/lock-picking/lock-pick-types/)
 
 [用磁铁当钥匙的挂锁，内部的机械原理令人拍手称妙 - YouTube](https://www.youtube.com/watch?v=zuW1LSue35A)
 [密码锁是如何防止破解的，看看内部令人称妙的机械原理 - YouTube](https://www.youtube.com/watch?v=LNFtCunnnnE)

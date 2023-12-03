@@ -2,6 +2,7 @@
 title: Dollar symbol
 description: ""
 created: 2015-02-27
+updated: 2023-09-29
 tags:
   - economics
 ---

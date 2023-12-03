@@ -2,6 +2,7 @@
 title: Trackball
 description: ""
 created: 2015-06-15
+updated: 2023-09-29
 tags:
   - adesso
   - comp/hardware

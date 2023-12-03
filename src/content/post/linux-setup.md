@@ -2,6 +2,7 @@
 title: Linux setup
 description: ""
 created: 2015-01-23
+updated: 2023-12-02
 tags:
   - desktop
   - linux
@@ -12,6 +13,10 @@ Most of the Linux tricks can be found there.
 
 [Linux Toolkits](http://linuxtoolkit.blogspot.hk/)
 [kernel - What is hardware enablement (HWE)? - Ask Ubuntu](https://askubuntu.com/questions/248914/what-is-hardware-enablement-hwe)
+
+## Mounting Partitions on Startup
+
+[How to Automount a Storage Partition on Startup in Linux](https://www.freecodecamp.org/news/automount-a-storage-partition-on-startup-in-linux/)
 
 ## HiDPI
 
@@ -38,12 +43,17 @@ Wayland allows different DPI on multihead setup
 [A Handy Battery Optimizer for Ubuntu Laptops - OMG! Ubuntu!](https://www.omgubuntu.co.uk/2019/05/slimbook-battery-optimizer-ubuntu)
 
 [5 Ways To Check Laptop Battery Status And Level From Linux Terminal | 2daygeek.com](https://www.2daygeek.com/check-laptop-battery-status-and-charging-state-in-linux-terminal/)
+[How to Check Your Laptop's Battery Health in Linux](https://www.makeuseof.com/how-to-check-your-laptops-battery-health-in-linux/)
 
 ```sh
 sudo tlp-stat -b
 sudo tlp-stat -s
 batstat
 gnome-power-statistics
+
+upower -e
+upower -i /org/freedesktop/UPower/devices/battery_BAT0
+
 cat /sys/class/power_supply/BAT0/*
 ```
 

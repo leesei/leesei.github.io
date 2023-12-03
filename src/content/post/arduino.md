@@ -2,6 +2,7 @@
 title: Arduino
 description: ""
 created: 2018-09-12
+updated: 2023-10-12
 tags:
   - arduino
   - iot
@@ -37,13 +38,6 @@ tags:
 [AvrFreaks | Atmel Community](https://www.avrfreaks.net/)
 [Tracing the Origins of Arduino: Part 1: The AVR... | element14 | Arduino Tutorials](https://www.element14.com/community/docs/DOC-88981/l/tracing-the-origins-of-arduino-part-1-the-avr-microcontroller)
 
-[Programming Electronics Academy - YouTube](https://www.youtube.com/user/OSHJunkies) !important, systematic courses
-
-[Adventures in Science! - YouTube](https://www.youtube.com/playlist?list=PLBcrWxTa5CS0u-rQNkGtLMg1yA7h56r6_)
-[Mert Arduino - YouTube](https://www.youtube.com/c/MERTArduinoTech)
-[ElectronFun.com - YouTube](https://www.youtube.com/c/electronfuncom/)
-
-[Rui Santos - YouTube](https://www.youtube.com/c/RuiSantosdotme) Random Nerd
 [Arduino Mini Course Access | Random Nerd Tutorials](https://randomnerdtutorials.com/arduino-mini-course-access/)
 
 [Arduino MASTERCLASS | Full Programming Workshop in 90 Minutes! - YouTube](https://www.youtube.com/watch?v=BLrHTHUjPuw) beginner

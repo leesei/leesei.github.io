@@ -2,6 +2,7 @@
 title: Data Analytics
 description: ""
 created: 2016-09-21
+updated: 2023-09-29
 tags:
   - big-data
 ---
@@ -136,17 +137,17 @@ Streaming pipeline:
 [Spark SQL: An Introductory Guide - DZone Big Data](https://dzone.com/articles/spark-sql-an-introductory-guide-for-beginners)
 [We interrupt this revolution: Apache Spark changes the rules of the game | ZDNet](https://www.zdnet.com/article/we-interrupt-this-revolution-apache-spark-changes-the-rules-of-the-game/)
 
+[Apache Beam](https://beam.apache.org/)
+[Apache Beam - Wikiwand](https://www.wikiwand.com/en/Apache_Beam)
+stream API to abstract streaming warehouse, abstracts Flink, Spark, Dataflow
+Beam is introducing a framework through which APIs in languages other than Java can be supported, and Python is the first one.
+
 [Cloud Dataflow - Stream & Batch Data Processing | Google Cloud](https://cloud.google.com/dataflow/)
 [Hadoop and Spark: A tale of two cities | ZDNet](https://www.zdnet.com/article/hadoop-and-spark-a-tale-of-two-cities/)
 
 [Benthos | Benthos](https://www.benthos.dev/)
 
 [The Streaming Database | Materialize](https://materialize.com/)
-
-[Apache Beam](https://beam.apache.org/)
-[Apache Beam - Wikiwand](https://www.wikiwand.com/en/Apache_Beam)
-stream API to abstract streaming warehouse, abstracts Flink, Spark, Dataflow
-Beam is introducing a framework through which APIs in languages other than Java can be supported, and Python is the first one.
 
 ## Batch Architecture
 
@@ -192,14 +193,18 @@ Beam is introducing a framework through which APIs in languages other than Java 
 [Introduction to Data Science](http://www.infoq.com/presentations/introduction-data-science)
 [Explore Your Data: The Fundamentals of Network Analysis](http://www.infoq.com/presentations/network-analysis)
 
-[Apache Airflow](https://airflow.apache.org/) data pipeline in Python, SQL-like query
-
 [Design vs. Data: Enemies or Friends?](http://www.infoq.com/presentations/design-data) how to evolve and extent a code base.
 
 [Cathy O'Neil on Weapons of Math Destruction | EconTalk | Library of Economics and Liberty](http://www.econtalk.org/archives/2016/10/cathy_oneil_on_1.html) crucial decision made based on machine learn statistics is unreliable as no one really know how the algorithm works
 
 [An expert's guide to big data storage architecture](https://searchstorage.techtarget.com/essentialguide/An-experts-guide-to-big-data-storage-architecture)
 [Big data tutorial: Everything you need to know](https://searchstorage.techtarget.com/essentialguide/Big-data-tutorial-Everything-you-need-to-know)
+
+### Apache
+
+[a49a/bigdata-sql-benchmark: Flink, Presto, Trino TPC-DS benchmark](https://github.com/a49a/bigdata-sql-benchmark)
+[Apache Iceberg](https://iceberg.apache.org/) The open table format for analytic datasets, supports SQL and Spark, Trino, Flink, Presto engine
+[Apache Airflow](https://airflow.apache.org/) data pipeline in Python, SQL-like query
 
 ### Jupyter
 

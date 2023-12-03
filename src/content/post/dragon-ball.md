@@ -2,6 +2,7 @@
 title: Dragon Ball
 description: ""
 created: 2020-05-28
+updated: 2023-09-29
 tags:
   - anime
 ---

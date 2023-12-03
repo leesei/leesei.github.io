@@ -2,7 +2,7 @@
 title: Nintendo Switch
 description: ""
 created: 2018-01-09
-updated: 2023-07-24
+updated: 2023-09-29
 tags:
   - games
   - nintendo
@@ -186,6 +186,14 @@ Video playback is blocked since 3.0.0
 
 [New Pokemon Snap Wiki Guide - IGN](https://www.ign.com/wikis/new-pokemon-snap)
 
+### Fire Emblem Engage
+
+[Fire Emblem 聖火降魔錄 系列 - YouTube](https://www.youtube.com/playlist?list=PLwie-6_kHiZPIxY21m-F-tOTZQuUodcSn)
+
+### Fire Emblem: Three Houses
+
+[教練！我想當老師！！《火焰之紋章：風花雪月 Fire Emblem: Three Houses》鑒賞【就知道玩遊戲68】 - YouTube](https://www.youtube.com/watch?v=Rpoc4gP-T7w)
+
 ### Kirby and the Forgotten Land
 
 [Kirby And The Forgotten Land Guide - Walkthrough, Tips And Hints - Nintendo Life](https://www.nintendolife.com/guides/kirby-and-the-forgotten-land-guide-walkthrough-tips-and-hints)
@@ -256,6 +264,10 @@ Tickington
 [Octopath Traveler: The Battle System - YouTube](https://www.youtube.com/watch?v=5OG4nNJYZeE)
 [Octopath Traveler Q&A - 45 of YOUR Questions Answered! - YouTube](https://www.youtube.com/watch?v=1LE4BLT5o9Q)
 [Octopath Traveler: The 10 Best Support Skills, Ranked](https://gamerant.com/octopath-traveler-10-best-support-skills-ranked/)
+
+### Astral Chain
+
+[我已經不想魔女啦！《異界鎖鏈 Astral Chain》鑒賞【就知道玩遊戲72】 - YouTube](https://www.youtube.com/watch?v=YO0HSI0FXSA)
 
 ### Mario Kart 8 Deluxe
 

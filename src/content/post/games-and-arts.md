@@ -2,7 +2,7 @@
 title: Games and Arts
 description: ""
 created: 2015-08-01
-updated: 2023-08-09
+updated: 2023-11-22
 tags:
   - games
 ---
@@ -53,6 +53,8 @@ And [Stanley Parable](http://store.steampowered.com/app/221910/), which a narrat
 [Modding:Image Editing - Starbounder - Starbound Wiki](https://starbounder.org/Modding:Image_Editing)
 [Lospec - Free tools and resources for people making pixel art, voxel art and more](https://lospec.com/) palettes
 
+[What are Voxels and why are they so cool? - YouTube](https://www.youtube.com/watch?v=WWU8t0CpNQA)
+
 [Miniboss • Pixel art tutorials](https://blog.studiominiboss.com/pixelart)
 
 [MarcoValeKaz - YouTube](https://www.youtube.com/@MarcoValeKaz)
@@ -84,6 +86,7 @@ And [Stanley Parable](http://store.steampowered.com/app/221910/), which a narrat
 
 [Pixel Art Tutorials - YouTube](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b) MortMort
 [🎨Pixel Art Tutorials - YouTube](https://www.youtube.com/playlist?list=PLr2C_1_x89o3beJ1KTuSgMKPwsDizLvA_) Mochibeans
+[Pixel art tutorial - YouTube](https://www.youtube.com/playlist?list=PLhqJJNjsQ7KEVitqVB9WXfgzcj32Yz-iJ) GDQuest
 
 ### Pixelate image
 
@@ -97,6 +100,10 @@ And [Stanley Parable](http://store.steampowered.com/app/221910/), which a narrat
 [38 Best pixel art / sprite editors as of 2021 - Slant](https://www.slant.co/topics/1547/~best-pixel-art-sprite-editors)
 
 [LibreSprite](https://libresprite.github.io/#!/)
+[LibreSprite/LibreSprite: Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite](https://github.com/LibreSprite/LibreSprite)
+
+[pixi | Pixel art editor made with Zig.](https://foxnne.github.io/pixi/)
+[foxnne/pixi: Pixel art editor made with Zig.](https://github.com/foxnne/pixi)
 
 [Pyxel Edit: pixel art and tileset creation tool](https://pyxeledit.com/)
 

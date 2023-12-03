@@ -2,7 +2,7 @@
 title: Shell Tools (Network)
 description: ""
 created: 2015-09-15
-updated: 2023-07-06
+updated: 2023-10-11
 tags:
   - app
   - iperf
@@ -98,12 +98,16 @@ unicorn scan
 
 [How to Check Service Running on Specific Port on Linux](https://linoxide.com/linux-how-to/check-service-running-linux-port/)
 
+[How Nmap really works // And how to catch it // Stealth scan vs TCP scan // Wireshark analysis - YouTube](https://www.youtube.com/watch?v=F2PXe_o7KqM)
+[Nmap Tutorial to find Network Vulnerabilities - YouTube](https://www.youtube.com/watch?v=4t4kBkMsDbQ)
+[NMAP Revealed: Unleash the Ultimate Hacker Tool - YouTube](https://www.youtube.com/watch?v=OseLMP88QFA)
+
 [Hack Like a Pro: How to Conduct Active Reconnaissance and DOS Attacks with Nmap « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/hack-like-pro-conduct-active-reconnaissance-and-dos-attacks-with-nmap-0146950/)
 [Hack Like a Pro: Advanced Nmap for Reconnaissance « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/hack-like-pro-advanced-nmap-for-reconnaissance-0151619/)
 
 [Nmap Scripting Engine (NSE) | Nmap Network Scanning](https://nmap.org/book/man-nse.html)
 [Hack Like a Pro: Using the Nmap Scripting Engine (NSE) for Reconnaissance « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/hack-like-pro-using-nmap-scripting-engine-nse-for-reconnaissance-0158681/)
-[giterlizzi/nmap-log4shell: Nmap Log4Shell NSE script for discovery Apache Log4j RCE (CVE-2021-44228)](https://github.com/giterlizzi/nmap-log4shell)
+[giterlizzi/nmap-log4shell: Nmap Log4Shell NSE script for discovery Apane Log4j RCE (CVE-2021-44228)](https://github.com/giterlizzi/nmap-log4shell)
 
 ```sh
 # most nmap commands require root privileges

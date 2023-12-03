@@ -2,6 +2,7 @@
 title: Buddhism
 description: ""
 created: 2015-10-17
+updated: 2023-09-29
 tags:
   - philosophy
 ---

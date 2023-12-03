@@ -2,6 +2,7 @@
 title: Music Theory
 description: ""
 created: 2016-10-11
+updated: 2023-09-29
 tags:
   - music
   - trivia
@@ -225,8 +226,8 @@ Refer to the number of sharps and flats to add in the Circle of fifths
 [The Circle of Fifths Explained | LedgerNote](https://ledgernote.com/columns/music-theory/circle-of-fifths-explained/)
 [The Ultimate Guide to the Circle of Fifths - Musical U](https://www.musical-u.com/learn/how-to-use-circle-fifths/)
 
-![Circle of Fifths (circular)](/_assets/music-theory/circle-of-fifths.png)
-![Circle of Fifths (star)](/_assets/music-theory/circle-of-fifths-star.svg)
+![Circle of Fifths (circular)](./_assets/music-theory/circle-of-fifths.png)
+![Circle of Fifths (star)](./_assets/music-theory/circle-of-fifths-star.svg)
 
 1234567
 CDEFGAB

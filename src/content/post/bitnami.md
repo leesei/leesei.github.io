@@ -2,6 +2,7 @@
 title: Bitnami
 description: ""
 created: 2015-06-20
+updated: 2023-09-29
 tags:
   - app
   - bitnami

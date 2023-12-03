@@ -2,6 +2,7 @@
 title: OpenSeadragon
 description: An open-source, web-based viewer for high-resolution zoomable images, implemented in pure JavaScript, for desktop and mobile.
 created: 2016-04-08
+updated: 2023-09-29
 tags:
   - tiled-image
   - web

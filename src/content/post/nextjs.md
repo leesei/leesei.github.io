@@ -2,7 +2,7 @@
 title: Next.js
 description: ""
 created: 2021-01-19
-updated: 2023-07-27
+updated: 2023-11-17
 tags:
   - reactjs
   - static-site
@@ -14,7 +14,7 @@ tags:
 > Server Side Rendering, Static Site Generation, app framework
 
 [Next.js by Vercel - The React Framework](https://nextjs.org/)
-[Learn | Next.js](https://nextjs.org/learn/)
+[Next.js Learn](https://nextjs.org/learn)
 [The Next.js Handbook](https://www.freecodecamp.org/news/the-next-js-handbook/)
 
 [The Story of Next.js - YouTube](https://www.youtube.com/watch?v=BILxV_vrZO0)
@@ -72,6 +72,12 @@ npx build && npx export -o build/ # static HTML (SSG) without need of app server
 
 [OpenNext](https://open-next.js.org/) self-host Next.js using serverless
 
+## Commentaries
+
+[Why I Won't Use Next.js | Epic Web Dev by Kent C. Dodds](https://www.epicweb.dev/why-i-wont-use-nextjs)
+[Why I'm Using Next.js | Lee Robinson](https://leerob.io/blog/using-nextjs)
+[I DONT USE NEXT JS - YouTube](https://www.youtube.com/watch?v=UdCXUVhVSEE)
+
 ## Next.js 13
 
 > released 2022-10
@@ -81,6 +87,9 @@ npx build && npx export -o build/ # static HTML (SSG) without need of app server
 [Next.js 13 Fundamentals - YouTube](https://www.youtube.com/watch?v=QUlWAKx2ZH8)
 [Learn Next.js 13 With This One Project - YouTube](https://www.youtube.com/watch?v=NgayZAuTgwM) 29:42
 [NextJS 13 Tutorial: Create a Static Blog from Markdown Files - YouTube](https://www.youtube.com/watch?v=Hiabp1GY8fA) 53 minutes
+
+[Taxonomy](https://tx.shadcn.com/)
+[shadcn-ui/taxonomy: An open source application built using the new router, server components and everything new in Next.js 13.](https://github.com/shadcn-ui/taxonomy)
 
 [Next.js App Router: Routing, Data Fetching, Caching - YouTube](https://www.youtube.com/watch?v=gSSsZReIFRk)
 Data fetching is by default on server side. But you can use cache (`next` field) to control its behavior.
@@ -114,10 +123,10 @@ Data fetching is by default on server side. But you can use cache (`next` field)
 
 [hashicorp/next-mdx-remote: Load mdx content from anywhere through getStaticProps in next.js](https://github.com/hashicorp/next-mdx-remote) replaces `next-mdx-enhanced`
 
+### Nextra
+
 [Nextra – Next.js Static Site Generator](https://nextra.site/)
 [How I built my second brain using Next.JS - DEV Community](https://dev.to/shaan_alam/how-i-built-my-second-brain-using-nextjs-56e7)
-
-[elmasse/nextein: A static site generator with markdown + react for Next.js](https://github.com/elmasse/nextein)
 
 ## Pages
 
@@ -172,9 +181,15 @@ Data fetching is by default on server side. But you can use cache (`next` field)
 
 [Data Fetching: Server Actions | Next.js](https://nextjs.org/docs/app/building-your-application/data-fetching/server-actions)
 
+[Type safe Server Actions in your Next.js (App Router) project | next-safe-action](https://next-safe-action.dev/)
+[TheEdoRan/next-safe-action: Type safe and validated Server Actions in your Next.js (App Router) project.](https://github.com/TheEdoRan/next-safe-action)
+
 [Next.js Server Actions... 5 awesome things you can do - YouTube](https://www.youtube.com/watch?v=O94ESaJtHtM)
 [Server Actions: NextJS 13.4's Best New Feature - YouTube](https://www.youtube.com/watch?v=czvSZqnpTHs)
 [I Fixed Next.js Server Actions - YouTube](https://www.youtube.com/watch?v=9WvJDor5uvo)
+
+[React + Servers = Confusion - YouTube](https://www.youtube.com/watch?v=cY2SpxhEdyE) server actions behaves differently when included in a Server Component vs exported as a function called on Client
+[GitHub - t3dotgg/server-actions-trpc-examples](https://github.com/t3dotgg/server-actions-trpc-examples)
 
 ## Proxy
 
@@ -266,8 +281,8 @@ This new and improved image component requires less client-side JavaScript and s
 
 [[aws#Service Helper]]
 
-[Blitz.js - The Fullstack React Framework](https://blitzjs.com/)
-[blitz-js/blitz: ⚡️The Fullstack React Framework — built on Next.js](https://github.com/blitz-js/blitz)
+[Blitz.js - The Missing Fullstack Toolkit for Next.js](https://blitzjs.com/)
+[blitz-js/blitz: ⚡️ The Missing Fullstack Toolkit for Next.js](https://github.com/blitz-js/blitz)
 
 [Get Started with Blitz](https://blitzjs.com/docs/get-started)
 [Why use Blitz instead of Next.js?](https://blitzjs.com/docs/why-blitz)
@@ -275,6 +290,7 @@ This new and improved image component requires less client-side JavaScript and s
 [Introduction to Blitz.js. Yet another framework on the block. It… | by Chidume Nnamdi 🔥💻🎵🎮 | Bits and Pieces](https://blog.bitsrc.io/introduction-to-blitz-js-ff1e48ea5714)
 [Intro to Blitz.js: A full-stack framework for Next.js | InfoWorld](https://www.infoworld.com/article/3673088/intro-to-blitzjs-a-full-stack-framework-for-nextjs.html)
 [Getting Started with Blitz.js | egghead.io](https://egghead.io/courses/getting-started-with-blitz-js-0585)
+[Intro to Blitz.js: A full-stack framework for Next.js | InfoWorld](https://www.infoworld.com/article/3673088/intro-to-blitzjs-a-full-stack-framework-for-nextjs.html)
 
 ## Deployment
 

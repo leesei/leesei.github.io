@@ -2,7 +2,7 @@
 title: Space Science
 description: ""
 created: 2018-01-10
-updated: 2023-08-14
+updated: 2023-11-09
 tags:
   - science
 ---
@@ -35,6 +35,8 @@ Crash Course
 [Everyday Astronaut - YouTube](https://www.youtube.com/@EverydayAstronaut)
 [Isaac Arthur - YouTube](https://www.youtube.com/@isaacarthurSFIA)
 [Marcus House - YouTube](https://www.youtube.com/@MarcusHouse)
+[PBS Space Time - YouTube](https://www.youtube.com/@pbsspacetime)
+[Primal Space - YouTube](https://www.youtube.com/@primalspace)
 [SciShow Space - YouTube](https://www.youtube.com/@scishowspace)
 
 [Why SPACESHIPS CAN'T TURN as shown in Science Fiction - YouTube](https://www.youtube.com/watch?v=L-Of6r1DlY8)
@@ -150,6 +152,7 @@ Kuiper Belt, Oort cloud, Mostly icy
 ## Space Stations
 
 [中国来了！世界看见了中国速度，神舟十三号出发在即！世界空间站的震撼发展史 - YouTube](https://www.youtube.com/watch?v=h3smAt6WSOQ)
+[How China Reinvented The Space Station! - YouTube](https://www.youtube.com/watch?v=2eaZLYiRHuY)
 
 [International Space Station Construction Videos - YouTube](https://www.youtube.com/playlist?list=PLYu7z3I8tdEnjgkBIBgxaJfZl2LdQN-rP)
 [The Logistics of the International Space Station - YouTube](https://www.youtube.com/watch?v=EkRRo5DN9lI)
@@ -354,6 +357,8 @@ Heat generated at re-entry goes up by the cube of velocity.
 
 ## Space Suit
 
+[How SpaceX Mastered Space Suits - YouTube](https://www.youtube.com/watch?v=emp8sxbRpSQ)
+
 [中国 5000 万 美国 10 亿 全球只有中俄美三国能制造的航天服怎么来的？【上集】ONLY China Russia USA can make space suits（2021）@布解探秘 - YouTube](https://www.youtube.com/watch?v=44o9HmAHxbs)
 [美国 10 亿一套，中国只要 5000 万，美国航天服为什么贵的离谱？（2021）@布解探秘 - YouTube](https://www.youtube.com/watch?v=p3wb6QCoXqU)
 [中国空间站首次太空行走，价值 3000 万的航天服和自动机械臂相继亮相 China Space Station's first spacewalk（2021）@布解探秘 - YouTube](https://www.youtube.com/watch?v=eN5nIJqaQY4)
@@ -378,7 +383,7 @@ Starship Launch System (SLS), using Superheavy as first stage booster
 [Starship - YouTube](https://www.youtube.com/playlist?list=PLBQ5P5txVQr9_jeZLGa0n5EIYvsOJFAnY) SN8 began to trial flip landing
 [What's Inside The SpaceX Starship? - YouTube](https://www.youtube.com/watch?v=OKy2Z2BnyU8)
 
-![](/_assets/space-science/falcon-9-vs-starship.png)
+![](./_assets/space-science/falcon-9-vs-starship.png)
 
 Falcon
 

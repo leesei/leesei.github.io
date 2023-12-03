@@ -2,7 +2,7 @@
 title: eBook
 description: ""
 created: 2016-09-13
-updated: 2023-07-23
+updated: 2023-12-02
 tags:
   - ebook
 ---
@@ -296,6 +296,8 @@ cd zshguide_html; ebook-convert zshguide.html ../zshguide.azw3
 
 # Resources
 
+[[public-domain-books]]
+
 [5 Sites With Lots of Completely Free Ebooks That Don't Suck](https://www.makeuseof.com/tag/4-websites-with-lots-of-completely-free-ebooks-that-dont-suck-nb/)
 [侃侃而谈 篇六十：免费的 iPad 和 Kindle 电子书资源合集*电子书刊*什么值得买](https://post.m.smzdm.com/p/ad24rzok/?zdm_ss=Android__1cef542bedd74d2a594961112293e542&from=other)
 
@@ -303,54 +305,38 @@ cd zshguide_html; ebook-convert zshguide.html ../zshguide.azw3
 [无忧书城 - 为您免费提供在线阅读服务](http://www.51shucheng.com/)
 [Jiumo Search 鸠摩搜索 - 文档搜索引擎](https://www.jiumodiary.com/) baidu search
 [苦瓜书盘](https://kgbook.com/)
-[中國哲學書電子化計劃](https://ctext.org/zh) 中國文獻, public domain
-[首頁 翰林院](http://inspier.com/index.php) 中國文獻, public domain
-[古詩大全,經典詩歌,詩詞名句,古文言文大全-詩詞古文大全網](https://www.iccie.tw/) 注釋
-[中華古詩文古書籍網*古詩文詞*詩詞佳句*詩文作者*古書古籍](https://www.arteducation.com.tw/) 注釋
 [明朝那些事儿-明朝那些事儿全集在线阅读](http://www.mingchaonaxieshier.com/)
-[ScanLibs - Ebooks & Elearning For Programming](https://scanlibs.com/)
-[安娜的档案](https://zh.annas-archive.org/)
-[Free Ebook Foundation promotes access and preservation of knowledge, literature, and culture.](https://ebookfoundation.org/)
-[Share And Download IT Ebook](http://www.it-ebooks.com/)
-[Free Information Technology Research Library of White Papers, Magazines, Reports, and eBooks](https://ubuntugeek.tradepub.com/)
-[Fox eBook - eBooks Free Download Site](http://www.foxebook.net/)
-[Ebook-dl | Free Download Ebooks & Video Tutorials](http://ebook-dl.com/)
-[Download free eBooks at ebooks10.com](http://www.ebooks10.com/)
-[ScanLibs - Ebooks & Elearning For Programming](http://scanlibs.com/)
-[Programming | Scoop.it](http://www.scoop.it/t/programming-by-martin-mifsud)
-[Free eBooks - Archives](http://proxymator.com/category/free-ebooks/)
-[Programmer's Heaven - Free Programming books](http://ebooks.programmersheaven.com/)
-[Free IT ebooks ownload , Free programming ebooks download](http://onlinevideolecture.com/ebooks/)
-[Free Information Technology Research Library of White Papers, Magazines, Reports, and eBooks](https://makeuseof.tradepub.com/)
-[Online Textbooks for Free | bookboon](http://bookboon.com/en/textbooks-ebooks)
-[The Linux Documentation Project](http://www.tldp.org/)
-[Free Programming Books](http://www.eduhub.io/b/free-programming-books)
-[Free Programming Books: leanpub.com](http://www.eduhub.io/b/free-programming-books/t/leanpub-com)
-[allinurl:https://leanpub.com read - Google Search](https://www.google.com.hk/search?sclient=psy-ab&site=&source=hp&q=allinurl:https://leanpub.com+read&oq=allinurl:https://leanpub.com+read)
 
+[Leanpub: Publish Early, Publish Often](https://leanpub.com/) try adding `/read` to url
+[allinurl:https://leanpub.com read - Google Search](https://www.google.com.hk/search?sclient=psy-ab&site=&source=hp&q=allinurl:https://leanpub.com+read&oq=allinurl:https://leanpub.com+read)
+[About this Collection | World Digital Library | Digital Collections | Library of Congress](https://www.loc.gov/collections/world-digital-library/about-this-collection/)
+[smusali/Leanpub-Hack: I used some web scraping and web automation techniques within Python to legally download free books from www.leanpub.com](https://github.com/smusali/Leanpub-Hack)
+
+[Free ebooks by Project Gutenberg - Gutenberg](https://www.gutenberg.org/)
 [Wikisource, the free library](https://en.wikisource.org/wiki/Main_Page)
 [Wikibooks](https://en.wikibooks.org/wiki/Main_Page)
 [Public Domain | Feedbooks](http://www.feedbooks.com/publicdomain)
 [Free Books : Download & Streaming : eBooks and Texts : Internet Archive](https://archive.org/details/texts)
-[O'Reilly Open Books Project](https://www.oreilly.com/openbook/)
-[Free O'Reilly Books, Ebooks, Webcasts, Conference Sessions, Tutorials, Videos - O'Reilly Media](https://www.oreilly.com/free/)
 [Open Book Project](http://openbookproject.net/index.php)
-[Wiley Online Library | Scientific research articles, journals, books, and reference works](https://onlinelibrary.wiley.com/)
 [Welcome to Open Library | Open Library](https://openlibrary.org/)
-[书栈网 · BookStack\_程序员 IT 互联网开源编程书籍免费阅读与下载，取之于猿用之于猿！](https://www.bookstack.cn/)
 [Sharing Knowledge and Building Communities - OpenStax CNX](http://cnx.org/)
-[Free ebooks by Project Gutenberg - Gutenberg](https://www.gutenberg.org/)
-[GitBook · Writing made easy](https://www.gitbook.com/)
-[Leanpub: Publish Early, Publish Often](https://leanpub.com/) try adding `/read` to url
-[About this Collection | World Digital Library | Digital Collections | Library of Congress](https://www.loc.gov/collections/world-digital-library/about-this-collection/)
-
-[smusali/Leanpub-Hack: I used some web scraping and web automation techniques within Python to legally download free books from www.leanpub.com](https://github.com/smusali/Leanpub-Hack)
-
-[Free eBooks For Your Kindle or Other eReader | ManyBooks](http://manybooks.net/)
 [800 Free eBooks for iPad, Kindle & Other Devices | Open Culture](http://www.openculture.com/free_ebooks)
-[Electronic library. Download books free. Finding books](http://bookzz.org/)
-[Top Shelf Book | Download Free Ebooks And Audiobooks](http://topshelfbook.org/)
-[Free eBooks Download - ebook3000.com](http://www.ebook3000.com/)
+[Free Ebook Foundation promotes access and preservation of knowledge, literature, and culture.](https://ebookfoundation.org/)
+[Free eBooks For Your Kindle or Other eReader | ManyBooks](http://manybooks.net/)
+
+IT/programming
+[The Linux Documentation Project](http://www.tldp.org/)
+[书栈网 · BookStack\_程序员 IT 互联网开源编程书籍免费阅读与下载，取之于猿用之于猿！](https://www.bookstack.cn/)
+[GitBook · Writing made easy](https://www.gitbook.com/)
+[Free Information Technology Research Library of White Papers, Magazines, Reports, and eBooks](https://makeuseof.tradepub.com/category/information-technology/1207/)
+
+Grey sources
+[安娜的档案](https://zh.annas-archive.org/)
+[ScanLibs - Ebooks & Elearning For Programming](https://scanlibs.com/)
+[Share And Download IT Ebook](http://www.it-ebooks.com/)
+[Free Professional and Technical Research Library of White Papers, Magazines, Reports, and eBooks](https://www.tradepub.com/category/information-technology/1207/)
+[Digitale Bibliothek Erkenntnisse finden und austauschen. - DOKUMEN.PUB](https://dokumen.pub/#English)
+[ScanLibs - Ebooks & Elearning For Programming](http://scanlibs.com/)
 
 [ISBN.Directory - Book Search Engine - Price Comparison](http://isbn.directory/)
 
@@ -369,14 +355,8 @@ cd zshguide_html; ebook-convert zshguide.html ../zshguide.azw3
 [Resources / White Papers | InfoWorld](http://www.infoworld.com/resources)
 [Codeship eBooks](http://resources.codeship.com/ebooks)
 [eBooks Series: The Docker and Container Ecosystem - The New Stack](http://thenewstack.io/ebookseries/)
-
-[Free Programming Ebooks - O'Reilly Media](http://www.oreilly.com/programming/free/)
-[Free Web Development Ebooks - O'Reilly Media](http://www.oreilly.com/web-platform/free/)
-[Free Web Performance & DevOps Ebooks - O'Reilly Media](http://www.oreilly.com/webops-perf/free/)
-[Free Security Ebooks - O'Reilly Media](http://www.oreilly.com/security/free/)
-[Free Data Science and Big Data Ebooks - O'Reilly Media](http://www.oreilly.com/data/free/)
-[Practical design knowledge from experts in UX, Data, IoT - Free Ebooks - O'Reilly Media](http://www.oreilly.com/design/free/)
-[Free IoT Ebooks and Compilations - O'Reilly Media](http://www.oreilly.com/iot/free/)
+[Wiley Online Library | Scientific research articles, journals, books, and reference works](https://onlinelibrary.wiley.com/)
+[O'Reilly Open Books Project](https://www.oreilly.com/openbook/)
 
 ## Paid
 

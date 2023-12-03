@@ -2,7 +2,7 @@
 title: Aviation
 description: ""
 created: 2023-02-21
-updated: 2023-08-05
+updated: 2023-10-04
 tags:
   - transportation
 ---
@@ -13,14 +13,24 @@ tags:
 [How do airplanes actually fly? - Raymond Adkins - YouTube](https://www.youtube.com/watch?v=p4VHMsIuPmk)
 [Metamorphic Wings: The Future of Flight is Here - YouTube](https://www.youtube.com/watch?v=OKWurIhfkhQ)
 
+- pitch: controlled by elevator at the tail and ailerons at the tip of the wings
+- row: controlled by ailerons at the tip of the wings
+- yaw: controlled by rudder at the tail
+
 [战斗机是怎么分代的？ - YouTube](https://www.youtube.com/watch?v=SWxZdodxoYk)
 [空中鋼肺！美軍開創無限供氧系統！為什麼戰機飛行員，戴的頭盔和氧氣面罩不同？丨 OBOGS 分子篩氧氣系統 - YouTube](https://www.youtube.com/watch?v=0oZ7NGhOXzU)
 
-[How Helicopters Work Deep Dive - YouTube](https://www.youtube.com/playlist?list=PL6CECC2E56B68A2C3) SmarterEveryDay
+## Helicopters
+
+SmarterEveryDay
+[How Helicopters Work Deep Dive - YouTube](https://www.youtube.com/playlist?list=PL6CECC2E56B68A2C3)
+[The Amazing Engineering of Rescue Helicopters - Smarter Every Day 289 - YouTube](https://www.youtube.com/watch?v=oTfXehFVFyk)
 
 ## World War I
 
 [The Physics of World War 1 Planes feat. The Great War Channel - YouTube](https://www.youtube.com/watch?v=MI08NGCgISE)
+
+[How a WWI Biplane Works - YouTube](https://www.youtube.com/watch?v=hgG4kGW_G9Y) synchronization gear
 
 ## World War II
 
@@ -43,6 +53,8 @@ Caliban Rising - Aviation History
 [P 38 Lightning VS De Haviland Mosquito - Which Would You Want To Fight WW2 In? - YouTube](https://www.youtube.com/watch?v=ChsLapzCH5c)
 [The 6 Most Daring De Havilland Mosquito Missions Of WW2 - YouTube](https://www.youtube.com/watch?v=WJS6RgA9mqc)
 
+[How a P-51 Mustang Works - YouTube](https://www.youtube.com/watch?v=hjsrqMe0B3s)
+
 [Duxford in Depth - YouTube](https://www.youtube.com/playlist?list=PLolzHiCNNbO8ehcr_CBTqSrbIgWel-ecU) Imperial War Museums
 
 DroneScapes
@@ -58,3 +70,4 @@ Timeline - World History Documentaries
 [How The Spitfire Became An Aviation Masterpiece | The Birth Of A Legend | Timeline - YouTube](https://www.youtube.com/watch?v=fR03Mmv2bUs)
 
 [二戰德軍的航空炸彈有多猛？高爆彈穿甲彈空雷輪番登場，盟軍應接不暇 - YouTube](https://www.youtube.com/watch?v=nMkb8zssv-g)
+[為什麼二戰後期零式被美軍吊打？20歲日本飛行員一時心軟，讓零式神話加速破滅！優秀的飛行員和先進的戰機，誰才是致勝關鍵？#A6M零式戰機#太平洋戰爭#中途島海戰 - YouTube](https://www.youtube.com/watch?v=ID-1IIhr6Yk)

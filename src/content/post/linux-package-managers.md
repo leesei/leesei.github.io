@@ -2,8 +2,8 @@
 title: Linux Package Managers
 description: ""
 created: 2017-05-10
+updated: 2023-11-13
 tags:
-  - brew
   - desktop
   - linux
   - nix
@@ -152,16 +152,6 @@ OSTree is git for bootable filesystem trees.
 [OSTree Manual](https://developer.gnome.org/ostree/stable/)
 [The Fundamentals of OSTree | Sam Thursfield's Blog](https://samthursfield.wordpress.com/2014/01/16/the-fundamentals-of-ostree/)
 
-## Homebrew
-
-[The Missing Package Manager for macOS (or Linux) — Homebrew](https://brew.sh/)
-[Homebrew on Linux — Homebrew Documentation](https://docs.brew.sh/Homebrew-on-Linux)
-[Homebrew/brew: 🍺 The missing package manager for macOS (or Linux)](https://github.com/Homebrew/brew)
-
-[Formula Cookbook — Homebrew Documentation](https://docs.brew.sh/Formula-Cookbook)
-
-[braumeister.org](http://braumeister.org/) registry
-
 ## Nix
 
 > cross platform package manager
@@ -190,6 +180,24 @@ OSTree is git for bootable filesystem trees.
 [Brand New Package » Linux Magazine](https://www.linux-magazine.com/Issues/2021/248/Nix-and-NixOS)
 
 [Thoughts about computer technologies: Cheap Docker images with Nix](http://lethalman.blogspot.com/2016/04/cheap-docker-images-with-nix_15.html?m=1)
+
+`sudo nixos-rebuild switch`
+
+### Flake
+
+> replaces Channels, uses lockfile
+
+[NixOS 40: Converting an Existing NixOS Configuration To Flakes - YouTube](https://www.youtube.com/watch?v=Hox4wByw5pY)
+[You Should Use Flakes Right Away in NixOS! - YouTube](https://www.youtube.com/watch?v=ACybVzRvDhs)
+
+```
+nix.settings.experimental-features = [ "nix-command" "flakes" ]
+```
+
+`sudo nixos-rebuild switch --flake .`
+
+[librephoenix/nixos-config: Nix noob trying to build his system](https://github.com/librephoenix/nixos-config)
+[Emmet / nixos-config · GitLab](https://gitlab.com/librephoenix/nixos-config)
 
 ## On RPi
 

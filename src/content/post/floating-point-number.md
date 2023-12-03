@@ -2,7 +2,7 @@
 title: Floating Point Number
 description: Floating point number in computer is only an *approximation* of the actual value
 created: 2023-03-18
-updated: 2023-07-09
+updated: 2023-12-02
 tags:
   - comp/fundamental
   - learning
@@ -19,6 +19,13 @@ Since the number of segments between the power of twos are limited by the number
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic](http://perso.ens-lyon.fr/jean-michel.muller/goldberg.pdf)
 [Tutorial: Floating-Point Binary](http://cstl-csm.semo.edu/xzhang/Class%20Folder/CS280/Workbook_HTML/FLOATING_tut.htm)
 [Binary representation of the floating-point numbers | Trekhleb](https://trekhleb.dev/blog/2021/binary-floating-point/)
+
+## Fast Inverse Square Root
+
+[Fast inverse square root - Wikiwand](https://www.wikiwand.com/en/Fast_inverse_square_root)
+[Fast Inverse Square Root — A Quake III Algorithm - YouTube](https://www.youtube.com/watch?v=p8u_k2LIZyo) explaining IEEE 754
+[REVEALED: Quake III's SECRET Algorithm! - YouTube](https://www.youtube.com/watch?v=uCv5VRf8op0)
+[The Truth about the Fast Inverse Square Root on the N64 - YouTube](https://www.youtube.com/watch?v=tmb6bLbxd08) when it is applicable (normalization) and performance improvement
 
 ## Visualizers
 

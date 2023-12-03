@@ -2,6 +2,7 @@
 title: One Piece
 description: ""
 created: 2016-06-18
+updated: 2023-09-29
 tags:
   - anime
   - manga

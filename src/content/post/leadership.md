@@ -2,7 +2,7 @@
 title: Leadership
 description: Being a software engineering, this post focus more on software engineering
 created: 2018-11-26
-updated: 2023-08-14
+updated: 2023-09-29
 tags:
   - business
   - programmer
@@ -10,6 +10,9 @@ tags:
 
 [The only leadership theory that matters – Hacker Noon](https://hackernoon.com/the-only-leadership-theory-that-matters-601969b2003f)
 [什麼是優秀的管理者？劉潤：要有一眼「被看穿」的能力－劉潤專欄｜商周](https://www.businessweekly.com.tw/management/blog/3012311)
+[Business Soft Skills - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtMBsfP-lP28IFvfkISqJofM) CrashCourse
+
+[Why Managers Exist (It's Not Why You Think) - YouTube](https://www.youtube.com/watch?v=jnsRU3JJ_rs)
 
 [What good leaders do: 3 key practices you can adopt today | CIO](https://www.cio.com/article/3513951/what-good-leaders-do-3-key-practices-you-can-adopt-today.html)
 

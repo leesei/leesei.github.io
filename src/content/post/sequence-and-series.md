@@ -2,6 +2,7 @@
 title: Sequence and Series
 description: ""
 created: 2017-10-31
+updated: 2023-09-29
 tags:
   - math
   - sequence

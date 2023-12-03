@@ -2,7 +2,7 @@
 title: Natural Language
 description: ""
 created: 2015-04-10
-updated: 2023-07-25
+updated: 2023-11-14
 tags:
   - chinese
   - english
@@ -31,12 +31,17 @@ A language is a dialect with an army and a navy. - Max Weinreich
 [How interpreters juggle two languages at once - Ewandro Magalhaes - YouTube](https://www.youtube.com/watch?v=cXNTArhA0Jg)
 [5 Languages That Could Change the Way You See the World](https://getpocket.com/explore/item/5-languages-that-could-change-the-way-you-see-the-world)
 
+[Learning a language? Speak it like you’re playing a video game | Marianna Pascal | TEDxPenangRoad - YouTube](https://www.youtube.com/watch?v=Ge7c7otG2mk) don't feel judged, focus on the communication
+
 [The Fastest Way to Learn a New Language: The Video Game Map Theory - YouTube](https://www.youtube.com/watch?v=3i1lNJPY-4Q)
 
 - learn the most common 1000 word/phrases
 - start speaking early
 
 [[esperanto]]
+
+[Linguistics - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtP5mp25nStsuDzk2blncJDW)
+[The Linguistics Iceberg Explained - YouTube](https://www.youtube.com/watch?v=GFz6KqZurFY)
 
 ## Humor
 
@@ -45,6 +50,8 @@ A language is a dialect with an army and a navy. - Max Weinreich
 
 [阿滴英文｜秒懂美式幽默! 台灣與美國幽默感差在哪裡? feat. 博恩站起來 - YouTube](https://www.youtube.com/watch?v=e0rHV76uTPg)
 [Stand up, Brian! 博恩站起來！ - YouTube](https://www.youtube.com/channel/UCUGlE8lf5qH--_XlsabI2XQ)
+
+[You are absolutely fluent in English if you can understand these - YouTube](https://www.youtube.com/watch?v=c6T9QEvczHc)
 
 Bill Burr
 Louis C.K.
@@ -80,6 +87,7 @@ Wanda Skyes
 
 [工業中英用語翻譯 -《中英對照》](http://www.aua.com.tw/translations/?f=zh-TW)
 
+[English with Lucy - YouTube](https://www.youtube.com/@EnglishwithLucy)
 [Rachel's English - YouTube](https://www.youtube.com/@rachelsenglish)
 [英语兔 - YouTube](https://www.youtube.com/@yingyutu)
 [阿滴英文 - YouTube](https://www.youtube.com/channel/UCeo3JwE3HezUWFdVcehQk9Q/playlists)
@@ -199,6 +207,10 @@ vit vis vid wis wit: seeing
 ang eng ac ank ack anch: acute
 
 ### Morse code
+
+> Morse code is Huffman coding before Huffman coding exists
+
+[Morse code - Wikiwand](https://www.wikiwand.com/en/Morse%20code)
 
 [Hello Morse | Experiments with Google](https://experiments.withgoogle.com/collection/morse)
 [Morse - Learn](https://morse.withgoogle.com/learn/)
@@ -323,6 +335,10 @@ form of verb used for perfect and passive tenses
 [Verb Tenses Chart - GrammarBank](https://www.grammarbank.com/verb-tenses.html)
 [What Are Active And Passive Verbs? | Lexico](https://www.lexico.com/en/grammar/active-and-passive-verbs)
 
+#### Prepositions
+
+[TO 跟 FOR 用法差在哪？要怎麼選？ - YouTube](https://www.youtube.com/watch?v=Hzl-Twy159w)
+
 #### Style
 
 [The Elements of Style](http://www.crockford.com/wrrrld/style.html)
@@ -346,7 +362,7 @@ form of verb used for perfect and passive tenses
 - contemplative style
 - oracular style
 - practical style
-- postmodern/self-concious style
+- postmodern/self-conscious style
   used by academics
   escape being convicted of philosophical naivete about his enterprise
 
@@ -370,6 +386,25 @@ em-dash used like colon to introduce list, or comma to separate out indefinite r
 [What Is An Em Dash And How Do You Use It? | Thesaurus.com](https://www.thesaurus.com/e/grammar/em-dash/)
 [Em Dash: When Should I Use It? | Grammarly](https://www.grammarly.com/blog/why-you-should-love-the-em-dash/)
 [How To Use An Em Dash (—) | Lexico](https://www.lexico.com/grammar/dash-and-em-dash)
+
+#### 五大句型
+
+[五大句型及動詞種類介紹 - YouTube](https://www.youtube.com/watch?v=5AC6wet6vB8)
+
+[一次搞懂英文的「五大句型」（7 分鐘懶人包） - YouTube](https://www.youtube.com/watch?v=HboNGK7ipKQ)
+[5 分鐘搞懂「及物動詞」跟「不及物動詞」！ - YouTube](https://www.youtube.com/watch?v=dNJZTvTqKb4)
+
+1. S + V
+   Peter cooked.
+2. S + V + O
+   Peter cooked a steak.
+3. S + V + IO (Indirect Object) + DO (Direct Object)
+   Peter cooked Mary a steak.
+4. S + V + C (Complement)
+   Peter is happy.
+5. S + V + O + OC (Object Complement)
+   Peter makes Mary happy.
+   Peter considers Mary a good friend.
 
 ### IELTS
 
@@ -398,7 +433,7 @@ em-dash used like colon to introduce list, or comma to separate out indefinite r
 
 [Hello Future Me - YouTube](https://www.youtube.com/channel/UCFQMO-YL87u-6Rt8hIVsRjA)
 
-![](/_assets/natural-languages/story-cycle.png)
+![](./_assets/natural-languages/story-cycle.png)
 
 ### On Writing Technical report
 
@@ -426,6 +461,8 @@ favor active over passive voice, except for:
 
 ### Phonics
 
+[Phonemic Chart - English with Lucy](https://englishwithlucy.com/phonemic-chart/)
+
 [音标 - YouTube](https://www.youtube.com/playlist?list=PLiRHe7F8P0-2wRRzK6nzriMTXyfRwKEG6) 英语兔
 [英语最重要的音标体系(DJ, KK, 韦氏, AHD...) - YouTube](https://www.youtube.com/watch?v=vRnRZ4umJxw)
 
@@ -440,6 +477,8 @@ favor active over passive voice, except for:
 [How Many Vowel Sounds Does English Have?](https://www.babbel.com/en/magazine/english-vowel-sounds)
 [Oral English: Easy Ways to Pronounce the 24 English Consonants and 20 English Vowels](https://www.tammysenglishblog.com/2019/04/oral-english-easy-way-to-pronounce-24.html)
 
+[你有被說中嗎？10 個有「中央母音省略」的字！（Schwa Elision) - YouTube](https://www.youtube.com/watch?v=8A-kREVTnHE)
+
 [语音技巧 - YouTube](https://www.youtube.com/playlist?list=PLiRHe7F8P0-2Ll7FFuXyDDuODk3sEX5VP) 英语兔
 
 [Basic Spelling Rules Explained - Dictionary.com](https://www.dictionary.com/e/spelling-rules/)
@@ -453,6 +492,12 @@ favor active over passive voice, except for:
 [图解英语音标速记 1000 小学单词](http://qr.cip.com.cn/html/qrcode/xiaoma/36546/36546.html)
 [图解自然拼读速记 1000 小学单词](http://qr.cip.com.cn/html/qrcode/xiaoma/36548/36548.html)
 
+### Ambigrams
+
+Writings that is the same right-side up and upside down or normal and reflected in a mirror.
+
+[Write Words - Make Magic - YouTube](https://www.youtube.com/@WriteWordsMakeMagic) English
+
 ## Chinese
 
 [粵語文化傳播協會](http://www.cantoneseculture.com/page_Headline/index.aspx)
@@ -461,6 +506,7 @@ favor active over passive voice, except for:
 [Mandarin Chinese Pinyin Chart with Audio - Yabla Chinese](https://chinese.yabla.com/chinese-pinyin-chart.php)
 [Learn Mandarin Chinese Pronunciation with Tone Pair Audio | Yabla Chinese](https://chinese.yabla.com/chinese-tones-learn-the-right-way-with-tone-pairs.php)
 [Pinyin - Wikiwand](https://www.wikiwand.com/en/Pinyin)
+[When do Chinese Tones Change? | Chinese Tone Guide - YouTube](https://www.youtube.com/watch?v=vl0eHgPP8Ms)
 
 [hapi](https://xyne.archlinux.ca/projects/hapi/) annotating Mandarin Chinese with phonetics (pinyin, zhuyin, etc.) and colors by tone
 
@@ -469,7 +515,16 @@ favor active over passive voice, except for:
 
 [金庸版本的奇妙世界 @YLib Blog](http://blog.ylib.com/butterfly)
 
+[沉魚落雁，閉月羞花\_百度百科](https://baike.baidu.hk/item/%E6%B2%89%E9%AD%9A%E8%90%BD%E9%9B%81%EF%BC%8C%E9%96%89%E6%9C%88%E7%BE%9E%E8%8A%B1/2992058)
+
+沉魚: 春秋戰國西施
+落雁: 東漢王昭君
+閉月: 三國貂蟬
+羞花: 唐楊貴妃
+
 ### 輸入法
+
+[#MM ｜後生仔就唔識打倉頡 要靠拼音輸入法？1978 年倉頡輸入法由台灣人設計誕生 加速中文電腦普及程度 曾協助倉頡研發者：最終大家會放棄鍵盤輸入，語音輸入才是主流｜#Weekly_pedia #4K - YouTube](https://www.youtube.com/watch?v=I2qRVZLl8EI)
 
 [Online Jyutping Input Method 網上粵拼輸入法](http://www.jyutping.com/)
 
@@ -519,7 +574,7 @@ favor active over passive voice, except for:
 [粵典 | 粵典 words.hk](https://words.hk/)
 [粵語審音配詞字庫](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/) replaced by 漢語多功能字庫
 
-[廣州話《九聲六調》相聲 (卓樂、尚明輝、鄧世昌) - YouTube](https://www.youtube.com/watch?v=cf8YN5S_37Y) !important
+[廣州話《九聲六調》相聲 (卓樂、尚明輝、鄧世昌) - YouTube](https://www.youtube.com/watch?v=cf8YN5S_37Y) ❗!important
 [Learn Fun Cantonese - Nine Tones & Six Modes / 涼粉廣東話 - 九聲六調 - YouTube](https://www.youtube.com/watch?v=yTbZ_dwAntQ)
 [用粵語學寫詩 ⑶ 粵音九調 - YouTube](https://www.youtube.com/watch?v=1r23biw79OM)
 [How to read Nine "Tones" of Cantonese? （粵語九聲調） - YouTube](https://www.youtube.com/watch?v=xdxT1OEAbvg)
@@ -545,6 +600,8 @@ favor active over passive voice, except for:
 
 [鏗鏘集：廣東話 - YouTube](https://www.youtube.com/watch?v=m8tczONnK1k)
 [香港故事-本土 plus+：口噏噏 粵語有秘笈 - YouTube](https://www.youtube.com/watch?v=4BW_J7reuv4)
+
+[1 個單字變出 40 個意思!? 有系統分析神奇的粵語語氣助詞!(繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=GCzw1KXQd5M)
 
 [殿下在香港－香港在世界 (Hong Kong in the World) - YouTube](https://www.youtube.com/channel/UChJQlg1b_cOttPX3SiIh5gA)
 
@@ -595,13 +652,13 @@ favor active over passive voice, except for:
 [Yunaty 日本語 - YouTube](https://www.youtube.com/channel/UCeKUWJFqZa7rR4G_NLnV_9g)
 [Amber.L - YouTube](https://www.youtube.com/channel/UChoW8T205pVdvex0e5wHi2Q)
 [秋山燿平 - YouTube](https://www.youtube.com/c/YoheiAkiyama)
+[抓尼先生 / 學日文 & 日本大小事 - YouTube](https://www.youtube.com/@johnysensei)
+[Elsaの放送 - YouTube](https://www.youtube.com/@ElsaJapanese)
+[TKB日文 - YouTube](https://www.youtube.com/playlist?list=PLb64h4LM_5_npLO3yyfVhp5z3oS1hnryP)
 
-[Learn Japanese with JapanesePod101.com - YouTube](https://www.youtube.com/user/japanesepod101)
+[Learn Japanese with JapanesePod101.com - YouTube](https://www.youtube.com/@JapanesePod10尸尸)
 [Introduction to Japanese - YouTube](https://www.youtube.com/playlist?list=PLPSfPyOOcp3SyG326n_7q10fJgq-GloTa)
 
-[Jisho.org: Japanese Dictionary](https://jisho.org/)
-[標註日文假名工具](https://www.jcinfo.net/zh-hant/tools/kana)
-[jensechu/kanji: Customizable Kanji character charts that are easily printable to help practice writing.](https://github.com/jensechu/kanji)
 [【學基礎日語五十音】全部完整日文 50 音不要龍捲風速成速記慢慢學 - YouTube](https://www.youtube.com/watch?v=rJSv48e7nUw)
 [為什麼日文中的「か」聽起來像「ga」？日本人讓你徹底弄明白！ - YouTube](https://www.youtube.com/watch?v=WOscODPNytM)
 
@@ -640,6 +697,26 @@ ka ~> ga; ta ~> da; pa ~> ba
 [【會話篇】日語的聲調重音 - YouTube](https://www.youtube.com/watch?v=PInYR7ZBRAQ)
 [【日文發音】這樣發音才像日本人！｜日文發音技巧 - YouTube](https://www.youtube.com/watch?v=Hd4s7mcGEdY)
 
+### 動詞變化
+
+[活用 (日語) - Wikiwand](<https://www.wikiwand.com/zh-hant/%E6%B4%BB%E7%94%A8_(%E6%97%A5%E8%AA%9E)>)
+
+- 未然形（第一變化）：後接「〜ない」、「〜う（よう）」（表示「意志」）
+- 連用形（第二變化）：後接丁寧語「～ます」、過去式「〜た」、希望「〜たい」、中止形「～て」
+- 終止形（第三變化）：辞書形, 原形, 放在句子結尾。例、明日行く。
+- 連体形（第四變化）：接在名詞前方，用來修飾名詞。例、明日行く人。（中譯：明天要去的人）
+- 仮定形（第五變化）：接「〜ば」，表示假定。例、明日行けば分かる。（中譯：明天去了的話，就知道）
+- 命令形（第六變化）：表示命令。例、行け！（中譯：去吧！）
+
+[自學日文動詞變化 五段動詞的七種變化未然形連用形終止形連體形假定行命令形意志形 - YouTube](https://www.youtube.com/watch?v=VSEpxaHY_CU) ❗!important, 用xx型比用第N變化好
+[自學日語動詞變化 上下段動詞的七種變化形態 - YouTube](https://www.youtube.com/watch?v=x8wMjDiKqz0)
+
+[我們該學好的是日文，而不是日文專有名詞！-社群貼文-王可樂日語](https://colanekojp.com.tw/classroom_detail/57) 「王可樂日語」 V.S. 「學術派」
+
+[【日文文法基礎7】 動詞的活用形有幾種？](https://hkotakujapanese.com/%E6%97%A5%E6%96%87%E6%96%87%E6%B3%95%E5%9F%BA%E7%A4%8E7-%E5%8B%95%E8%A9%9E%E7%9A%84%E6%B4%BB%E7%94%A8%E5%BD%A2%E6%9C%89%E5%B9%BE%E7%A8%AE%EF%BC%9F/)
+[日文動詞變化一次搞懂｜Amber.L-日文文法](https://www.lemonstera.com/doc/5e9232c6f24efdc03f7266f4a393e199)
+[日文動詞變化筆記(3套公式、7個型態、音變與常用18種變化) | MagicLen](https://magiclen.org/jp-lang-verb/)
+
 ### 萬葉假名
 
 > 用漢字表示日文的書寫系統, 古名常用 "夜露死苦", "愛羅武勇", "阿離我拓", "阿里加都宇姑左伊馬須", "陀異守鬼", "魔苦怒奈流怒"
@@ -667,6 +744,9 @@ ka ~> ga; ta ~> da; pa ~> ba
 
 [Jisho.org: Japanese Dictionary](http://jisho.org/)
 [WWWJDIC: Word Search](http://nihongo.monash.edu/cgi-bin/wwwjdic?1C)
+
+[標註日文假名工具](https://www.jcinfo.net/zh-hant/tools/kana)
+[jensechu/kanji: Customizable Kanji character charts that are easily printable to help practice writing.](https://github.com/jensechu/kanji)
 
 [Name 變換君 - 快速將你的名字翻譯並轉換成日文名字，包括日文漢字、片假名、平假名](http://namehenkan.com/tw)
 [google/horenso: 探しやすいコードで漢字直接入力](https://github.com/google/horenso)

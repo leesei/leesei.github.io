@@ -2,6 +2,7 @@
 title: Hunter X Hunter
 description: ""
 created: 2018-03-12
+updated: 2023-10-27
 tags:
   - anime
   - hunterxhunter
@@ -23,6 +24,9 @@ tags:
 
 [獵人 - YouTube](https://www.youtube.com/playlist?list=PLI0oExPDZ-97dLot8q1oKx8pNCtOUlz1l) 未來式 ACG
 [全職獵人 Hunter X Hunter - YouTube](https://www.youtube.com/playlist?list=PLHGtcOQ0hBC54WFgVFqf4OU3kJH03BTSA) 夢想家 DreamMaker
+[黑白動漫 - YouTube](https://www.youtube.com/@BWDM/playlists)
+
+[【獵人】重制：伏筆全整理 - YouTube](https://www.youtube.com/watch?v=Y4F2d2el9WQ)
 
 ## Nen
 
@@ -33,6 +37,12 @@ tags:
 [會長尼特羅竟然是這個系的念能力者!?，冨樫公開念能力新設定，念能力設定大公開 - YouTube](https://www.youtube.com/watch?v=FHdRrSWLEB0)
 [【全職獵人】全面介紹念能力！被漫畫界譽為最複雜最齊全的戰鬥系統究竟有多強？詳解念的原理「1」 | 四郎說動漫 - YouTube](https://www.youtube.com/watch?v=EBNumRNDHLI)
 [史上最全！30 分钟带你解构动漫史上最复杂的战斗系统法则！ - YouTube](https://www.youtube.com/watch?v=hZqWjbZQOwY)
+
+[【全職獵人】念能力六大體系詳解，了解其中的能力者們！ - YouTube](https://www.youtube.com/watch?v=nfqrOxsnP34)
+[【獵人】念能力者情報公開 - YouTube](https://www.youtube.com/watch?v=xyjFsUt_XrU)
+[【獵人】上期修正+念能力討論 - YouTube](https://www.youtube.com/watch?v=3PYBqTFJFnk)
+
+[《獵人》最新獵人30人戰力排行（已更新至黑暗大陸） #各位開噴吧 #我臉洗好了 #獵人 #全職獵人#小傑 #奇犽 #庫拉皮卡 #西索 #拿尼加 #動畫 #解說 #流量 #盤點排行 - YouTube](https://www.youtube.com/watch?v=dfubK3rnT6o)
 
 ## TV
 

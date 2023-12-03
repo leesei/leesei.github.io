@@ -2,7 +2,7 @@
 title: CSS Notes
 description: ""
 created: 2015-12-21
-updated: 2023-08-07
+updated: 2023-10-19
 tags:
   - css
   - web
@@ -20,7 +20,6 @@ tags:
 [CSS Values | CSS Reference, Properties and Values, CSS3](http://cssvalues.com/)
 [CSS-Tricks](https://css-tricks.com/)
 [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/)
-[Modern CSS Solutions](https://moderncss.dev/)
 
 [The Importance of Learning CSS](https://www.joshwcomeau.com/css/the-importance-of-learning-css/)
 [Understanding the CSS Specifications](https://www.w3.org/Style/CSS/read)
@@ -29,21 +28,14 @@ tags:
 [Future of CSS Series' Articles - DEV Community](https://dev.to/link2twenty/series/215)
 [Getting Started with CSS | Frontend Masters | Frontend Masters](https://frontendmasters.com/courses/getting-started-css/) free, 2021-12, 03:19:50
 
-[Where is CSS4? When is it coming out? - YouTube](https://www.youtube.com/watch?v=Jtmkk6odggs)
-[DOES CSS4 EXIST? - DEV Community 👩‍💻👨‍💻](https://dev.to/olimpioadolfo/does-css4-exist-5ao4)
-[Next-generation web styling](https://web.dev/next-gen-css-2019/)
-[CSS in 2020 - A Practical Guide - DEV Community 👩‍💻👨‍💻](https://dev.to/wilsmex/css-in-2020-a-practical-guide-2p6g)
-[CSS in 2022 – Bram.us](https://www.bram.us/2021/12/27/css-in-2022/)
-
 [AllThingsSmitty/must-watch-css: A useful list of must-watch talks about CSS](https://github.com/AllThingsSmitty/must-watch-css)
 [awesome-css-group/awesome-css: A curated contents of amazing CSS Ever :)](https://github.com/awesome-css-group/awesome-css)
 [you-dont-need/You-Dont-Need-JavaScript: CSS is powerful, you can do a lot of things without JS.](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
 [How To Learn CSS — Smashing Magazine](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
 [CSS 教學課程 (入門篇) 8 個章節 - 由淺入深學習 CSS | 鬍子科技學院](https://mtache.com/css)
+[CSS Tutorials - YouTube](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8mpXIUHjWoMAAgoCEinL0R) Web Dev Simplified
 
 [What CSS prefixes should I use?](http://shouldiprefix.com/)
-
-Adjacent margin collapse; adjacent padding don't.
 
 [Interneting Is Hard | Web Development Tutorials For Complete Beginners](https://internetingishard.com/)
 [the new code – A Complete Reading List For CSS](http://thenewcode.com/919/A-Complete-Reading-List-For-CSS)
@@ -52,6 +44,9 @@ Adjacent margin collapse; adjacent padding don't.
 [AtoZ CSS Archives - SitePoint](https://www.sitepoint.com/tag/atoz-css/)
 [A Complete Guide to CSS Functions | CSS-Tricks](https://css-tricks.com/complete-guide-to-css-functions/)
 [Understanding The Box Model in CSS - DEV Community](https://dev.to/yamanidev/understanding-the-box-model-in-css-1af)
+
+[Modern CSS Solutions](https://moderncss.dev/)
+[Articles & Experiments by Roman Komarov](https://kizu.dev/)
 
 [8 useful CSS tricks: Parallax images, sticky footers and more](https://medium.com/@bretcameron/parallax-images-sticky-footers-and-more-8-useful-css-tricks-eef12418f676)
 
@@ -68,6 +63,17 @@ Adjacent margin collapse; adjacent padding don't.
 
 [Let's Write Beautiful CSS Comments | Sparkbox | Web Design and Development](http://seesparkbox.com/foundry/lets_write_beautiful_css_comments)
 [The Importance of ❗!important: Forcing Immutability in CSS – CSS Wizardry – CSS, OOCSS, front-end architecture, performance and more, by Harry Roberts](http://csswizardry.com/2016/05/the-importance-of-important/)
+
+## Trend
+
+[State of CSS 2023](https://2023.stateofcss.com/en-US)
+[Current Trends In CSS - YouTube](https://www.youtube.com/watch?v=fY8dCx6fw2c) 2023
+[CSS in 2022 – Bram.us](https://www.bram.us/2021/12/27/css-in-2022/)
+[CSS in 2020 - A Practical Guide - DEV Community 👩‍💻👨‍💻](https://dev.to/wilsmex/css-in-2020-a-practical-guide-2p6g)
+[Next-generation web styling](https://web.dev/next-gen-css-2019/) 2019
+
+[Where is CSS4? When is it coming out? - YouTube](https://www.youtube.com/watch?v=Jtmkk6odggs)
+[DOES CSS4 EXIST? - DEV Community 👩‍💻👨‍💻](https://dev.to/olimpioadolfo/does-css4-exist-5ao4)
 
 ## How CSS Works
 
@@ -134,6 +140,10 @@ Also explains the the “magic” of Styling and Layout on the web
 [A Modern CSS Reset - Piccalilli](https://piccalil.li/blog/a-modern-css-reset/)
 
 ## Frameworks
+
+[[css-bulma]]
+[[css-tailwindcss]]
+[[css-unocss]]
 
 [CSS Purge - Saving the web 1kb at a time.](http://www.csspurge.com/) the problem of too much CSS
 [You might not need a CSS framework ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2016/04/you-might-not-need-a-css-framework/)
@@ -211,208 +221,12 @@ CSS props as classes. So instead of actually writing any CSS, you just apply the
 
 [codeAdrian/clay.css: Easily add claymorphic styles to any HTML element with this micro class and SASS mixin.](https://github.com/codeAdrian/clay.css) customize with CSS variables
 
-### Bulma
-
-> component CSS, but with many functional/atomic CSS helper
-
-[Bulma: Free, open source, & modern CSS framework based on Flexbox](https://bulma.io/) ❗!important
-
-- No default Styling
-- Powerful Flexbox Grid
-- Small Size in Kbs
-- Reusable and You can modify Sass
-- No Javascript only CSS
-- Reusable Components (which you can customize)
-
-[Bulma cheatsheet](https://devhints.io/bulma) ❗!important
-[Responsiveness | Bulma: Free, open source, and modern CSS framework based on Flexbox](https://bulma.io/documentation/overview/responsiveness/)
-
-| Breakpoints  | Screen sizes         |
-| ------------ | -------------------- |
-| `mobile`     | width <= 768         |
-| `tablet`     | 769 <= width < 1024  |
-| `desktop`    | 1024 <= width < 1216 |
-| `widescreen` | 1216 <= width < 1408 |
-| `fullhd`     | 1408 <= width        |
-
-[Get started with Bulma | Creative Bloq](https://www.creativebloq.com/how-to/get-started-with-bulma)
-[All Bulma CSS classes list](https://bulma.dev/classes)
-[Bulma CSS Framework Crash Course - YouTube](https://www.youtube.com/watch?v=IiPQYQT2-wg)
-[Bulma CSS Framework - complete tutorial - YouTube](https://www.youtube.com/watch?v=LBzZLzu2GKo)
-[Setting up Bulma with SASS (SCSS) using NPM - YouTube](https://www.youtube.com/watch?v=iK0Y9eW7N8E) customize
-
-[Introduction to Bulma with React](https://alligator.io/react/intro-react-bulma-components/)
-[Bulma-Extensions](https://wikiki.github.io/)
-[Free Bulma templates](https://bulmatemplates.github.io/bulma-templates/)
-
-[Bulma Layouts - Sections, Containers, Columns, and Levels - YouTube](https://www.youtube.com/watch?v=ouI1_tZ1yK4)
-[Columns | Bulma: Free, open source, and modern CSS framework based on Flexbox](https://bulma.io/documentation/columns/)
-[Layout | Bulma: Free, open source, and modern CSS framework based on Flexbox](https://bulma.io/documentation/layout/)
-
-[couds/react-bulma-components: React components for Bulma framework](https://github.com/couds/react-bulma-components)
-[Buefy: lightweight UI components for Vue.js based on Bulma](https://buefy.github.io/#/)
-
-[How to Increase Your Page Size by 1,500% with webpack and Vue | CSS-Tricks](https://css-tricks.com/how-to-increase-your-page-size-by-1500-with-webpack-and-vue/)
-
-#### Customization
-
-[Customize | Bulma: Free, open source, and modern CSS framework based on Flexbox](https://bulma.io/documentation/customize/)
-
-[Change the Navbar Colors/Font/Size – Press Customizr](https://presscustomizr.com/snippet/change-navbar-colorsfontsize/)
-[Bulma Customizer – Create your own bespoke Bulma build](https://bulma-customizer.bstash.io/)
-
-#### Tips and Tricks
-
-[Bulma Burger Dropdown rendering under other elements · Issue #1655 · jgthms/bulma](https://github.com/jgthms/bulma/issues/1655)
-
-The `select` class set z-index of arrow to 4. Use this to override:
-
-```css
-.select:not(.is-multiple):not(.is-loading):hover::after {
-  z-index: 4;
-}
-
-.select:not(.is-multiple):not(.is-loading)::after {
-  z-index: 0;
-}
-```
-
-### UnoCSS
-
-> use multiple frameworks in one
-
-[UnoCSS Interactive Docs](https://unocss.dev/interactive/)
-[unocss/unocss: The instant on-demand atomic CSS engine.](https://github.com/unocss/unocss)
-
-[Is Tailwind CSS No Longer Needed? A Look Into UnoCSS! - YouTube](https://www.youtube.com/watch?v=1vwq4uaYQGU)
-
 ### Material
 
 [Materialize](https://materializecss.com/)
 [Material Design Lite](https://getmdl.io/)
 [material-components/material-components-web: Modular and customizable Material Design UI components for the web](https://github.com/material-components/material-components-web)
 [MUI - Material Design CSS Framework](https://www.muicss.com/)
-
-### Bootstrap
-
-[Bootstrap · The world's most popular mobile-first and responsive front-end framework.](http://getbootstrap.com/) behemoth
-[Material Design for Bootstrap 5 & 4 - Material Design for Bootstrap](https://mdbootstrap.com/)
-
-[Bootstrap cheatsheet](https://devhints.io/bootstrap) ❗!important
-
-[Introduction · Bootstrap v5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
-[Grid system · Bootstrap v5.0](https://getbootstrap.com/docs/5.0/layout/grid/#grid-options)
-
-| Breakpoints     |                     |
-| --------------- | ------------------- |
-| `xs` (phone)    | width < 576         |
-| `sm` (tablet)   | 576 <= width < 768  |
-| `md` (laptop)   | 768 <= width < 992  |
-| `lg` (desktop)  | 992 <= width < 1200 |
-| `xl` (desktop)  | 1200 <= width       |
-| `xxl` (desktop) | 1400 <= width       |
-
-[Bootstrap 5 tutorial - crash course for beginners in 1.5H (February 2021) - YouTube](https://www.youtube.com/watch?v=c9B4TPnak1A)
-[Bootstrap 5 grid system - examples and tutorial](https://mdbootstrap.com/docs/standard/layout/grid/#responsive-breakpoints)
-
-[Build responsive websites more easily - NaNLABS](https://www.nan-labs.com/blog/build-responsive-websites-easily/) debugger for Bootstrap 3
-
-[Utility-first CSS: Ridiculously fast front-end development for almost every design](https://blog.usejournal.com/utility-first-css-ridiculously-fast-front-end-development-for-almost-every-design-503130d8fefc)
-
-#### Bootstrap 4
-
-Grid sizes
-[Grid system · Bootstrap](https://getbootstrap.com/docs/4.0/layout/grid/#grid-options)
-[Bootstrap 4 Media Queries Tiered Breakpoints [code snippet] | BootstrapCreative](https://bootstrapcreative.com/bootstrap-4-media-queries/)
-
-[Bootstrap 4 tutorial - best & free guide of responsive web design - Material Design for Bootstrap](https://mdbootstrap.com/education/bootstrap/)
-[Bootstrap Layout - examples & tutorial. Basic & advanced usage - Material Design for Bootstrap](https://mdbootstrap.com/docs/jquery/layout/overview/)
-
-### Tailwind CSS
-
-> functional/atomic CSS
-
-[Tailwind CSS - A Utility-First CSS Framework for Rapid UI Development](https://tailwindcss.com/docs/)
-[Responsive Design - Tailwind CSS](https://tailwindcss.com/docs/responsive-design)
-[tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography)
-
-```html
-<script src="https://cdn.tailwindcss.com"></script>
-```
-
-[Framework Guides - Tailwind CSS](https://tailwindcss.com/docs/installation/framework-guides)
-[Tailwind CSS v3.3: Extended color palette, ESM/TS support, logical properties, and more - Tailwind CSS](https://tailwindcss.com/blog/tailwindcss-v3-3)
-[Tailwind CSS Tutorial for Beginners – How To Start?](https://codete.com/blog/tailwind-css-tutorial-and-examples-for-beginners)
-[Tailwind CSS Tips and Tricks Worth Knowing](https://www.builder.io/blog/tailwind-css-tips-and-tricks)
-
-[dcastil/tailwind-merge: Merge Tailwind CSS classes without style conflicts](https://github.com/dcastil/tailwind-merge)
-[Tailwind-Merge Is Incredibly Useful — And Here's Why! - YouTube](https://www.youtube.com/watch?v=tfgLd5ZSNPc)
-[cn() - Every Tailwind Coder Needs It (clsx + twMerge) - YouTube](https://www.youtube.com/watch?v=re2JFITR7TI)
-
-[vimeshjs/vimesh-style: Vimesh Style is a full-featured tiny javascript library alternative to Tailwind CSS. Automatically work with any frontend frameworks, including React, Vue, AngularJS ect.](https://github.com/vimeshjs/vimesh-style)
-[Typewind – Typesafe Tailwind](https://typewind.dev/)
-
-[Tailwind Labs - YouTube](https://www.youtube.com/tailwindlabs)
-
-[Tailwind CSS Cheat Sheet](https://tailwindcomponents.com/cheatsheet/)
-[Tailwind CSS Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
-[Watching Tailwind Tutorials Is A Waste Of Time - YouTube](https://www.youtube.com/watch?v=Ksn1tThNTjI) use cheatsheet
-
-[Automatic Class Sorting with Prettier - Tailwind CSS](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
-[tailwindlabs/prettier-plugin-tailwindcss: A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
-[Tailwind class sorter - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=vdanchenkov.tailwind-class-sorter) language agnostic
-
-Component Libraries (Tailwind plugin)
-[daisyUI — Tailwind CSS Components](https://daisyui.com/)
-[Building React components with DaisyUI](https://blog.openreplay.com/building-react-components-with-daisyui/)
-[Versoly UI - Tailwind CSS Components](https://versoly.com/versoly-ui)
-[Soft UI Flowbite: Free Tailwind CSS Admin Template @ Creative Tim](https://www.creative-tim.com/product/soft-ui-flowbite) CSS only?
-[Tailwind CSS Component Library | WindUI](https://wind-ui.com/) like flowbit but batter
-
-[The best Tailwind templates & UI kits on the internet | Tailwind Awesome](https://www.tailwindawesome.com/)
-
-Copy and paste
-[Tailwind CSS Components. Examples and templates](https://tailwindcomponents.com/)
-[Home | Collection of Tailwindcss Templates & Components](https://tailwindtemplates.io/)
-[Tailwind Toolbox - Free Starter Templates and Components for Tailwind CSS](https://www.tailwindtoolbox.com/)
-[Tailwind Layouts](https://tailwind-layouts.vercel.app/)
-[Myna UI](https://mynaui.com/)
-[Tailblocks — Ready-to-use Tailwind CSS blocks](https://tailblocks.cc/)
-
-[shadcn/ui - Beautifully designed components built with Radix UI and Tailwind CSS.](https://ui.shadcn.com/) React
-[shadcn/ui: Beautifully designed components built with Radix UI and Tailwind CSS.](https://github.com/shadcn/ui)
-
-[Flowbite - Build websites even faster with components on top of Tailwind CSS](https://flowbite.com/#components)
-[Flowbite - Plugins and Resources for Tailwind CSS](https://flowbite.com/resources/)
-[themesberg/flowbite: The most popular and open-source library of Tailwind CSS components](https://github.com/themesberg/flowbite)
-[themesberg/flowbite-react: Official React components built for Flowbite and Tailwind CSS](https://github.com/themesberg/flowbite-react)
-
-[Utility-first CSS - You have to try it first! - DEV Community 👩‍💻👨‍💻](https://dev.to/mzanggl/utility-first-css-you-have-to-try-it-first-3m85)
-[Utility-First CSS With Tailwind - DZone Web Dev](https://dzone.com/articles/utility-first-css-with-tailwind-nearform)
-[Functional CSS: Meet Tailwind CSS - Better Programming - Medium](https://medium.com/better-programming/functional-css-meet-tailwind-css-3897da4b63a2)
-
-[Tailwind CSS tips for creating reusable React components - LogRocket Blog](https://blog.logrocket.com/tailwind-css-tips-for-creating-reusable-react-components/)
-[Building Reusable React Components Using Tailwind — Smashing Magazine](https://www.smashingmagazine.com/2020/05/reusable-react-components-tailwind/)
-
-#### Customization
-
-[Configuration - Tailwind CSS](https://tailwindcss.com/docs/configuration)
-[Functions & Directives - Tailwind CSS](https://tailwindcss.com/docs/functions-and-directives)
-
-[PostCSS 8 · Issue #9664 · facebook/create-react-app](https://github.com/facebook/create-react-app/issues/9664) But CRA does not support PostCSS 8, which is required by Tailwind 2.0
-[Installation - Tailwind CSS](https://tailwindcss.com/docs/installation#post-css-7-compatibility-build)
-
-[partydeck/game at main · itays123/partydeck](https://github.com/itays123/partydeck/tree/main/game) CRA+craco example
-
-### ~~~Windi~~~
-
-> on-demand alternative to Tailwind, inspired Tailwind to implement JIT engine (available since Tailwind 2.1)
-
-[Windi CSS](https://windicss.org/)
-[Windi CSS is Sunsetting | Windi CSS](https://windicss.org/posts/sunsetting.html)
-
-[The Story | Windi CSS](https://windicss.org/posts/story.html)
-[Tailwind CSS vs Windi CSS](https://larainfo.com/blogs/tailwind-css-vs-windi-css)
 
 ### Panda CSS
 
@@ -460,6 +274,16 @@ Copy and paste
 [Home | Pivotal UI](https://styleguide.pivotal.io/) 😴inactive
 [Topcoat](http://topcoat.io/) 😴inactive
 [yeti.css • &yet's visual style guide](http://yeticss.com/) 😴inactive
+
+#### ~~~Windi~~~
+
+> on-demand alternative to Tailwind, inspired Tailwind to implement JIT engine (available since Tailwind 2.1)
+
+[Windi CSS](https://windicss.org/)
+[Windi CSS is Sunsetting | Windi CSS](https://windicss.org/posts/sunsetting.html)
+
+[The Story | Windi CSS](https://windicss.org/posts/story.html)
+[Tailwind CSS vs Windi CSS](https://larainfo.com/blogs/tailwind-css-vs-windi-css)
 
 ## SASS/SCSS
 
@@ -848,18 +672,6 @@ The overlay should be a `absolute` position in a `relative` container, together 
 </div>
 ```
 
-### Scroll animation
-
-[Subtle, yet Beautiful Scroll Animations - YouTube](https://www.youtube.com/watch?v=T33NN_pPeNI)
-
-[Intersection Observer API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
-[Scroll Events and Intersection Observer - Beginner JavaScript - Wes Bos](https://wesbos.com/javascript/06-serious-practice-exercises/scroll-events-and-intersection-observer)
-[martinlaxenaire/scroll-observer: Really simple Intersection Observer helper](https://github.com/martinlaxenaire/scroll-observer)
-
-[@scroll-timeline - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/@scroll-timeline)
-[Practical Use Cases for Scroll-Linked Animations in CSS with Scroll Timelines | CSS-Tricks - CSS-Tricks](https://css-tricks.com/practical-use-cases-for-scroll-linked-animations-in-css-with-scroll-timelines/)
-[flackr/scroll-timeline: A polyfill of ScrollTimeline.](https://github.com/flackr/scroll-timeline)
-
 ## Units
 
 [CSS Ruler • Explore CSS lengths.](http://katydecorah.com/css-ruler/)
@@ -991,6 +803,13 @@ The overlay should be a `absolute` position in a `relative` container, together 
 
 [Methods for Equal Height Columns by Craig Fox on CodePen](https://codepen.io/craigwfox/post/methods-for-equal-height-columns)
 
+### Margin
+
+[Margin considered harmful](https://mxstbr.com/thoughts/margin/) margin modifies layout _outside_ the componet, breaking encapsulation
+[The Horror Of Margins In CSS - YouTube](https://www.youtube.com/watch?v=KVQMoEFUee8) use spacer element (with `padding`)
+[The Rules of Margin Collapse](https://www.joshwcomeau.com/css/rules-of-margin-collapse/)
+Adjacent margin collapse; adjacent padding don't.
+
 ### Viewport
 
 [A tale of two viewports — part one](http://www.quirksmode.org/mobile/viewports.html)
@@ -1061,6 +880,7 @@ Modern browsers support the current spec (`display: flex`).
 [What The Flexbox?! - YouTube](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid) video series by Web Bos
 [Flexbox: WTF - Forward 4 Web Summit - YouTube](https://www.youtube.com/watch?v=qDlswTzbnmk) [slide](http://estelle.github.io/flexbox/) 2016 RC spec, ❗!important
 [Free Flexbox and CSS Grid Workshop - YouTube](https://www.youtube.com/playlist?list=PLqrUy7kON1mdRa49qJuWFHUutr1y635_n)
+[An Interactive Guide to Flexbox in CSS](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
 
 [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) ❗!important
 [Understanding flex-grow, flex-shrink, and flex-basis | CSS-Tricks](https://css-tricks.com/understanding-flex-grow-flex-shrink-and-flex-basis/)
@@ -1082,7 +902,7 @@ Modern browsers support the current spec (`display: flex`).
 [Can I use... flexbox](http://caniuse.com/#search=flexbox)
 [philipwalton/flexbugs: A community-curated list of flexbox issues and cross-browser workarounds for them.](https://github.com/philipwalton/flexbugs) ❗!important
 
-Spacing:
+Alignment:
 `justify-content`: main-axis items
 `align-items`: cross-axis items
 `align-content`: wrapped flex lines
@@ -1152,6 +972,42 @@ IE 10 and 11 support a outdated Grid syntax.
 [grid-template-columns - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns)
 [grid-template-areas - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-areas) ❗!important, define layout with name
 [grid-template | CSS-Tricks - CSS-Tricks](https://css-tricks.com/almanac/properties/g/grid-template/)
+
+Responsive layout without media query:
+
+```css
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.card {
+  display: block;
+  background: #aaa;
+  padding: 1rem;
+}
+
+.card img {
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  width: 100%;
+}
+
+.card:not(:has(img))::before {
+  /* image placeholder */
+  content: "";
+  display: block;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  width: 100%;
+  background-color: #0ff;
+}
+
+.card:empty {
+  display: none;
+}
+```
 
 [A Complete Guide to Grid | CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/) ❗!important
 [What We Want from Grid | CSS-Tricks - CSS-Tricks](https://css-tricks.com/what-we-want-from-grid/) SVG scaling issue in comments
@@ -1410,6 +1266,23 @@ use responsive font size (`vw`/`vh`) on small screen, use fixed font size on lar
 
 [Smooth Scrolling | CSS-Tricks](https://css-tricks.com/snippets/jquery/smooth-scrolling/)
 
+### Scroll-driven Animations
+
+[CSS scroll-driven animations - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_scroll-driven_animations)
+[Animate elements on scroll with Scroll-driven animations - Chrome for Developers](https://developer.chrome.com/articles/scroll-driven-animations/)
+
+[Scroll-driven Animations](https://scroll-driven-animations.style/) ❗!important
+[CSS-Only Scroll-Driven Animation and Other Impossible Things - YouTube](https://www.youtube.com/watch?v=mJt2X3UD2Zc)
+[Subtle, yet Beautiful Scroll Animations - YouTube](https://www.youtube.com/watch?v=T33NN_pPeNI)
+
+[Intersection Observer API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
+[Scroll Events and Intersection Observer - Beginner JavaScript - Wes Bos](https://wesbos.com/javascript/06-serious-practice-exercises/scroll-events-and-intersection-observer)
+[martinlaxenaire/scroll-observer: Really simple Intersection Observer helper](https://github.com/martinlaxenaire/scroll-observer)
+
+[@scroll-timeline - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/@scroll-timeline)
+[Practical Use Cases for Scroll-Linked Animations in CSS with Scroll Timelines | CSS-Tricks - CSS-Tricks](https://css-tricks.com/practical-use-cases-for-scroll-linked-animations-in-css-with-scroll-timelines/)
+[flackr/scroll-timeline: A polyfill of ScrollTimeline.](https://github.com/flackr/scroll-timeline)
+
 ## Tips and Tricks
 
 [12 Little-Known CSS Facts](http://www.sitepoint.com/12-little-known-css-facts/)
@@ -1434,6 +1307,7 @@ use responsive font size (`vw`/`vh`) on small screen, use fixed font size on lar
 [Magic Numbers in CSS | CSS-Tricks](https://css-tricks.com/magic-numbers-in-css/)
 [Fighting the Space Between Inline Block Elements | CSS-Tricks](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)
 [Bringing Spacer GIFs Back, to handle spacing elements in React and CSS](https://www.joshwcomeau.com/react/modern-spacer-gif/)
+[How CSS Spacing Works – A Guide for Web Developers](https://www.freecodecamp.org/news/css-spacing-guide-for-web-devs/)
 
 [Newer Things to Know About Good Ol’ HTML Lists | CSS-Tricks - CSS-Tricks](https://css-tricks.com/newer-things-to-know-about-good-ol-html-lists/) `list-style-position: inside;`
 

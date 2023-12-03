@@ -2,6 +2,7 @@
 title: Android notes
 description: ""
 created: 2014-12-17
+updated: 2023-10-28
 tags:
   - aapt
   - adb
@@ -76,80 +77,72 @@ wget -O tabs.json http://localhost:9222/json/list
 ## Android dev
 
 Kotlin was supported officially as a language for Android dev at Google I/O 2017.
-[A Complete Guide To Learn Kotlin For Android Development](https://blog.mindorks.com/a-complete-guide-to-learn-kotlin-for-android-development-b1e5d23cc2d8)
 [A Developer's Intro to Android](https://blog.scottlogic.com/2018/12/05/a-developers-intro-to-android.html)
-[Your First Kotlin Android App | raywenderlich.com](https://www.raywenderlich.com/4936497-your-first-kotlin-android-app)
+
+[Guide to app architecture  |  Android Developers](https://developer.android.com/topic/architecture)
+[Meet Google Play's target API level requirement  |  Android Developers](https://developer.android.com/google/play/requirements/target-sdk)
+
+[Android CPU, Compilers, D8 & R8 – ProAndroidDev](https://proandroiddev.com/android-cpu-compilers-d8-r8-a3aa2bfbc109) Runtimes
+
+[Google Codelabs](https://codelabs.developers.google.com/?product=android)
+[Android Basics in Kotlin course  |  Android Developers](https://developer.android.com/courses/android-basics-kotlin/course)
+[Android Basics with Compose course  |  Android Developers](https://developer.android.com/courses/android-basics-compose/course)
+[Jetpack Compose for Android Developers](https://developer.android.com/courses/jetpack-compose/course)
+[Android Kotlin Fundamentals  |  Training Courses  |  Android Developers](https://developer.android.com/courses/kotlin-android-fundamentals/overview)
+[Advanced Android in Kotlin  |  Training Courses  |  Android Developers](https://developer.android.com/courses/kotlin-android-advanced/overview)
 
 [Developing Android Apps with Kotlin | Udacity](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
 [Advanced Android with Kotlin | Udacity](https://www.udacity.com/course/advanced-android-with-kotlin--ud940)
 
-[Google Codelabs](https://codelabs.developers.google.com/?cat=Android)
-[Android Kotlin Fundamentals Course](https://codelabs.developers.google.com/android-kotlin-fundamentals/)
-[Advanced Android in Kotlin Course](https://codelabs.developers.google.com/advanced-android-kotlin-training/)
-
-[Android CPU, Compilers, D8 & R8 – ProAndroidDev](https://proandroiddev.com/android-cpu-compilers-d8-r8-a3aa2bfbc109)
-
-[Androidhive - Android Tutorial for Beginners](http://www.androidhive.info/)
 [ProAndroidDev](https://proandroiddev.com/)
-[AndroidDev – AndroidPub](https://android.jlelse.eu/tagged/androiddev)
-[AndroidXRef](http://androidxref.com/)
-
-[[GUIDE] Understanding the Android Source Code | XDA Forums](https://forum.xda-developers.com/t/guide-understanding-the-android-source-code.2620389/)
-[[GUIDE] Learning about the Android Build Process | XDA Forums](https://forum.xda-developers.com/t/guide-learning-about-the-android-build-process.2751407/)
-[Android Source Diving: A Video Tutorial](https://possiblemobile.com/2013/12/android-source-diving-video-tutorial/)
-
-[Data Binding in Android: A tutorial with examples - LogRocket Blog](https://blog.logrocket.com/data-binding-android-tutorial-with-examples/)
+[AndroidDev – AndroidPub – Medium](https://medium.com/android-news/tagged/androiddev)
 
 [Modern Android development with Kotlin, Part 1 – ProAndroidDev](https://proandroiddev.com/modern-android-development-with-kotlin-september-2017-part-1-f976483f7bd6)
 [Modern Android development with Kotlin (Part 2) – ProAndroidDev](https://proandroiddev.com/modern-android-development-with-kotlin-september-2017-part-2-17444fcdbe86)
 [Modern Android development with Kotlin Part 3 – ProAndroidDev](https://proandroiddev.com/modern-android-development-with-kotlin-part-3-8721fb843d1b)
 [Modern Android development with Kotlin Part 4 – ProAndroidDev](https://proandroiddev.com/modern-android-development-with-kotlin-part-4-4ac18e9868cb)
-
-[Detect and Resolve Performance Problems on Android - Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/detect-and-resolve-performance-problems-on-android--cms-24058)
-
-[Android Push Notification – 推播通知訊息給 Android 客戶端 | MagicLen](http://magiclen.org/android-push-notification/)
-[How to Use FontAwesome in an Android App - Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/how-to-use-fontawesome-in-an-android-app--cms-24167)
-[Meeting Google Play requirements for target API level | Android Developers](https://developer.android.com/distribute/best-practices/develop/target-sdk.html)
-[Cleveroad/SlidingTutorial-Android: Android Library for making animated tutorials inside your app](https://github.com/Cleveroad/SlidingTutorial-Android)
+[mladenrakonjac/ModernAndroidApp: Code for Medium article](https://github.com/mladenrakonjac/ModernAndroidApp)
 
 [突破 Android P 的非公开 API 限制](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247488664&idx=1&sn=610312f426d72b73103970bff2c32a30)
 
-[Kotlin/anko: Pleasant Android application development](https://github.com/Kotlin/anko)
+[25 new Android libraries which you definitely want to try at the beginning of 2017](https://www.freecodecamp.org/news/25-new-android-libraries-which-you-definitely-want-to-try-at-the-beginning-of-2017-45878d5408c0/)
 
-[25 new Android libraries which you definitely want to try at the beginning of 2017](https://medium.freecodecamp.com/25-new-android-libraries-which-you-definitely-want-to-try-at-the-beginning-of-2017-45878d5408c0#.71adfyw1l)
+### AOSP
+
+[AndroidXRef](http://androidxref.com/) up to 9.0 in 2018
+[[GUIDE] Understanding the Android Source Code | XDA Forums](https://forum.xda-developers.com/t/guide-understanding-the-android-source-code.2620389/)
+[[GUIDE] Learning about the Android Build Process | XDA Forums](https://forum.xda-developers.com/t/guide-learning-about-the-android-build-process.2751407/)
 
 [Tutorial: Diving into Android Source Code | ProTech](https://www.protechtraining.com/blog/post/tutorial-diving-into-android-source-code-721) 2013
 
 ### IBinder
 
-[Deep Dive into Android IPC/Binder Framework](https://www.protechtraining.com/static/slides/Deep_Dive_Into_Binder_Presentation.html#slide-1)
+[IBinder  |  Android Developers](https://developer.android.com/reference/kotlin/android/os/IBinder)
 
-[twitter-university/FibonacciBinderDemo: An Android Eclipse project demonstrating Android Binder IPC framework](https://github.com/twitter-university/FibonacciBinderDemo)
+[What is Ibinder in Android? [Answered 2023]- Droidrant](https://droidrant.com/what-is-ibinder-in-android/)
 
 ### Volley
 
-[Transmitting Network Data Using Volley | Android Developers](https://developer.android.com/training/volley/index.html)
+[Volley overview | Volley](https://google.github.io/volley/)
 [Google I/O 2013 - Volley: Easy, Fast Networking for Android - YouTube](https://www.youtube.com/watch?v=yhv8l9F44qo)
-
-[Android working with Volley Library](http://www.androidhive.info/2014/05/android-working-with-volley-library-1/)
 
 ### Jetpack
 
-[Android Jetpack | Android Developers](https://developer.android.com/jetpack/) ❗!important, new standard library compatible with Kotlin
-[Guide to app architecture | Android Developers](https://developer.android.com/jetpack/docs/guide)
-[Android Architecture Components | Android Developers](https://developer.android.com/jetpack/arch/)
-[Jetpack Compose | Android Developers](https://developer.android.com/jetpack/compose) UI toolkit with Kotlin DSL
+[Android Jetpack Dev Resources - Android Developers](https://developer.android.com/jetpack/)❗!important, new standard library compatible with Kotlin
+[Jetpack Compose UI App Development Toolkit - Android Developers](https://developer.android.com/jetpack/compose) UI toolkit with Kotlin DSL
 
 [Android Developers Blog: Hello World, AndroidX](https://android-developers.googleblog.com/2018/05/hello-world-androidx.html)
 [Android Jetpack Brings WorkManager, Navigation and More](https://www.infoq.com/news/2018/05/android-jetpack-released)
-[Android Jetpack — Foundation — Android KTX — Part 1 Chapter 2](https://android.jlelse.eu/android-jetpack-foundation-android-ktx-part-1-chapter-2-539960007341)
+s
+[Data Binding Library  |  Android Developers](https://developer.android.com/topic/libraries/data-binding)
+[Data Binding in Android: A tutorial with examples - LogRocket Blog](https://blog.logrocket.com/data-binding-android-tutorial-with-examples/)
 
 [Compose From First Principles | Intelligible Babble](http://intelligiblebabble.com/compose-from-first-principles/)
 [Store grand re-opening: loading Android data with coroutines - Dropbox](https://dropbox.tech/mobile/store-grand-re-opening-loading-android-data-with-coroutines)
 
 ### Room ORM
 
-[Room Persistence Library | Android Developers](https://developer.android.com/topic/libraries/architecture/room)
+[Save data in a local database using Room  |  Android Developers](https://developer.android.com/training/data-storage/room)
 [7 Steps To Room – Google Developers – Medium](https://medium.com/google-developers/7-steps-to-room-27a5fe5f99b2)
 
 [MatrixDev/Roomigrant: Automated Android Room ORM migrations generator with compile-time code generation](https://github.com/MatrixDev/Roomigrant)
@@ -157,13 +150,12 @@ Kotlin was supported officially as a language for Android dev at Google I/O 2017
 ### Transition
 
 [Animate layout changes using a transition | Android Developers](https://developer.android.com/training/transitions)
-[Android Transition Framework: Getting Started | raywenderlich.com](https://www.raywenderlich.com/1376936-android-transition-framework-getting-started)
 
 ## Android for PC
 
-[What’s Remix OS for PC?\_Remix OS for PC is built on the Android-x86 - Jide Technology](http://www.jide.com/en/remixos-for-pc)
-[Remix OS](http://www.jide.com/en/remixos)
 [Android-x86 - Porting Android to x86](http://www.android-x86.org/)
+
+[Top 5 Best Bluestacks Alternative in 2023 – AirDroid](https://www.airdroid.com/remote-control/bluestacks-alternative/)
 
 ## Bluestacks
 
@@ -193,13 +185,17 @@ cat /proc/bus/input/devices
 
 ## GPU
 
+### Caffe
+
 [OAID/CaffeOnACL: Using ARM Compute Library (NEON+GPU) to speed up caffe; Providing utilities to debug, profile and tune application performance](https://github.com/OAID/CaffeOnACL)
 [RockchipOpensourceCommunity/CaffeOnACL-Android: Porting CaffeOnACL to RK3399 Android platform](https://github.com/RockchipOpensourceCommunity/CaffeOnACL-Android/)
 
-### Renderscript
+### ~~Renderscript~~
+
+Deprecated from Android 12
 
 [RenderScript - Wikiwand](https://www.wikiwand.com/en/RenderScript)
-[Computation | Android Developers](https://developer.android.com/guide/topics/renderscript/index.html)
+[RenderScript Overview  |  Android Developers](https://developer.android.com/guide/topics/renderscript/compute)
 
 [Android Renderscript - YouTube](https://www.youtube.com/watch?v=7TqTnlYAg8E) 2011
 [Learn about RenderScript from Romain Guy and Chet Haase of the Android UI Toolkit team - YouTube](https://www.youtube.com/watch?v=5jz0kSuR2j4) 2011
@@ -212,18 +208,21 @@ cat /proc/bus/input/devices
 
 ## APK download
 
+[F-Droid - Free and Open Source Android App Repository](https://f-droid.org/en/)
 [Download APK from Google Play Store free online downloader | APKPure.com](http://apkpure.com/)
 [APK Download of Free Android Apps - AndroidDrawer.com](http://www.androiddrawer.com/)
 [APK Downloader [Latest] Download Directly | Chrome Extension v3 (Evozi Official)](http://apps.evozi.com/apk-downloader/)
-[QooApp - 日韓遊戲專家！ACG Android Game Platform](http://apk.qoo-app.com/)
+[QooApp 遊戲庫](https://apps.qoo-app.com/)
 
-## Python on Android
+[SmartTube (Official Site)](https://smarttubeapp.github.io/)
+[yuliskov/SmartTubeNext: SmartTube - an advanced player for set-top boxes and tv running Android OS](https://github.com/yuliskov/SmartTubeNext)
 
-[Chaquopy – Python SDK for Android](https://chaquo.com/chaquopy/)
+[ReVanced Extended 18.40.34 | Download APK for Android](https://revancedextended.com/)
 
 ## Remote mouse
 
-[悟空遥控器](https://play.google.com/store/apps/details?id=com.wukongtv.wkremote.client) is an Android app that is able to allow mobile to control Android STB remotely. The server app does not require rooting and system integration. It draws the cursor on an overlay layer and issue commands to `Input` framework.
+[悟空遥控器TV版*最新版悟空遥控器下载*安卓电视APK\_当贝市场](https://www.dangbei.com/app/tv/2014/0411/449.html)
+Android app that is able to allow mobile to control Android STB remotely. The server app does not require rooting and system integration. It draws the cursor on an overlay layer and issue commands to `Input` framework.
 
 [Programmatically Injecting Events on Android - Part 1 - PocketMagic](http://www.pocketmagic.net/injecting-events-programatically-on-android/)
 [Programmatically Injecting Events on Android - Part 2 - PocketMagic](http://www.pocketmagic.net/programmatically-injecting-events-on-android-part-2/)
@@ -235,19 +234,14 @@ cat /proc/bus/input/devices
 
 ### adb
 
-[Android Debug Bridge (adb) | Android Developers](https://developer.android.com/studio/command-line/adb)
-[ashishb/adb-enhanced: 🔪Swiss-army knife for Android testing and development 🔪 ⛺](https://github.com/ashishb/adb-enhanced)
-
-[Android Debug Bridge (ADB) | Android Open Source Project](https://source.android.com/docs/setup/build/adb)
-[adb - platform/system/core - Git at Google](https://android.googlesource.com/platform/system/core/+/refs/heads/android11-release/adb/) android11-release
-[adb - Android Code Search](https://cs.android.com/android/platform/superproject/+/master:packages/modules/adb/)
-
-[google/python-adb: Python ADB + Fastboot implementation](https://github.com/google/python-adb)
-[JeffLIrion/adb_shell: A Python implementation of ADB with shell and FileSync functionality.](https://github.com/JeffLIrion/adb_shell)
-
+[Android Debug Bridge (adb)  |  Android Studio  |  Android Developers](https://developer.android.com/tools/adb)
 [Android Debug Bridge - ArchWiki](https://wiki.archlinux.org/title/Android_Debug_Bridge)
 
-[SDK Platform Tools release notes | Android Developers](https://developer.android.com/studio/releases/platform-tools)
+[ashishb/adb-enhanced: 🔪Swiss-army knife for Android testing and development 🔪 ⛺](https://github.com/ashishb/adb-enhanced)
+[JeffLIrion/adb_shell: A Python implementation of ADB with shell and FileSync functionality.](https://github.com/JeffLIrion/adb_shell)
+
+[SDK Platform Tools release notes  |  Android Studio  |  Android Developers](https://developer.android.com/tools/releases/platform-tools)
+[How to Install ADB on Windows, macOS, and Linux](https://www.xda-developers.com/install-adb-windows-macos-linux/)
 
 `adb` comes with the Android SDK, and released separately as Platform Tools in 2017.
 
@@ -255,7 +249,9 @@ cat /proc/bus/input/devices
 - [Mac](https://dl.google.com/android/repository/platform-tools-latest-darwin.zip)
 - [Linux](https://dl.google.com/android/repository/platform-tools-latest-linux.zip)
 
-[How to Install ADB on Windows, macOS, and Linux](https://www.xda-developers.com/install-adb-windows-macos-linux/)
+[Android Debug Bridge (ADB) | Android Open Source Project](https://source.android.com/docs/setup/build/adb)
+[adb - platform/system/core - Git at Google](https://android.googlesource.com/platform/system/core/+/refs/heads/android11-release/adb/) android11-release
+[adb - Android Code Search](https://cs.android.com/android/platform/superproject/+/master:packages/modules/adb/)
 
 #### Enable adb via TCP
 
@@ -289,15 +285,15 @@ tag: `^(?!.*(DeskClock|dalvik|wpa)).*$`, `^(?!(BluetoothAdapter|AbsListView))`
 
 #### android-log-viewer
 
-https://bitbucket.org/mlopatkin/android-log-viewer
+[mlopatkin / android-log-viewer — Bitbucket](https://bitbucket.org/mlopatkin/android-log-viewer/src/master/)
 
 #### logcat (node)
 
-https://www.npmjs.com/package/logcat
+[logcat-org/logcat: adb logcat console and web viewer](https://github.com/logcat-org/logcat)
 
 #### pidcat (python)
 
-https://github.com/JakeWharton/pidcat
+[JakeWharton/pidcat: Colored logcat script which only shows log entries for a specific application package.](https://github.com/JakeWharton/pidcat)
 
 ## Android on Linux
 

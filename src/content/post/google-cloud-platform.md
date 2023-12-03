@@ -2,6 +2,7 @@
 title: Google Cloud Platform
 description: ""
 created: 2017-02-11
+updated: 2023-09-29
 tags:
   - gcp
   - google

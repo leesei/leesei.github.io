@@ -2,6 +2,7 @@
 title: Boot
 description: ""
 created: 2015-05-10
+updated: 2023-11-26
 tags:
   - desktop
   - linux
@@ -25,6 +26,7 @@ shell/display manager (login) -> `startx`/`xinit` -> DE
 4. boot sector loads "second stage" boot loader
    a. boot loader knows how to read kernel from file system
    b. usually loads kernel to an address > 1MB and switches to
+   protected mode before jumping to kernel entry point
    protected mode before jumping to kernel entry point
 
 ```
@@ -57,7 +59,17 @@ shell/display manager (login) -> `startx`/`xinit` -> DE
 [鳥哥的 Linux 私房菜 -- 第十九章、開機流程、模組管理與 Loader](http://linux.vbird.org/linux_basic/0510osloader.php)
 [如何訂製 Linux X 視窗環境 - 石頭閒語 - 樂多日誌](http://blog.roodo.com/rocksaying/archives/19886616.html)
 
+[The Linux Boot Process (Linux+ Objective 1.1.2) - YouTube](https://www.youtube.com/watch?v=esH6GUjVa8Y)
+[How Computers BOOT: From Startup to Viruses - YouTube](https://www.youtube.com/watch?v=rmgla4yeCXw)
+
 [LinuxBoot](https://www.linuxboot.org/)
+
+[Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2012/xv6.html)
+[mit-pdos/xv6-public: xv6 OS](https://github.com/mit-pdos/xv6-public)
+[6.1810 Operating System Engineering / Fall 2023](https://pdos.csail.mit.edu/6.828/2023/xv6.html)
+[mit-pdos/xv6-riscv: Xv6 for RISC-V](https://github.com/mit-pdos/xv6-riscv)
+[mit-pdos/xv6-riscv-book: Text describing xv6 on RISC-V](https://github.com/mit-pdos/xv6-riscv-book)
+[How does an OS boot? //Source Dive// 001 - YouTube](https://www.youtube.com/watch?v=KkenLT8S9Hs)
 
 [Some basics of MBR v/s GPT and BIOS v/s UEFI - Manjaro Linux](https://wiki.manjaro.org/index.php?title=Some_basics_of_MBR_v/s_GPT_and_BIOS_v/s_UEFI)
 [What’s the Difference Between GPT and MBR When Partitioning a Drive?](https://www.howtogeek.com/193669/whats-the-difference-between-gpt-and-mbr-when-partitioning-a-drive/)
@@ -71,7 +83,9 @@ GPT (Windows): 128 partitions, bootable only with UEFI
 [What is the difference between a Bootrom vs bootloader on ARM systems - Stack Overflow](https://stackoverflow.com/questions/15665052/what-is-the-difference-between-a-bootrom-vs-bootloader-on-arm-systems)
 [linux - Why do we need a bootloader in an embedded device? - Stack Overflow](https://stackoverflow.com/questions/15548004/why-do-we-need-a-bootloader-in-an-embedded-device)
 
-SPL (secondary program loader) is needed when the static RAM cannot hold the whole bootloader and this abstract the hardware form bootloader
+[Embedded/IoT Linux for Red-Blue Teams - YouTube](https://www.youtube.com/playlist?list=PLzKIBgD3ky224kzDxu258qlLjNKiG7M0i) bootloader + kernel
+
+SPL (secondary program loader) is needed when the static RAM cannot hold the whole bootloader and this abstract the specific hardware used form the bootloader.
 [what is the use of SPL (secondary program loader) - Stack Overflow](https://stackoverflow.com/questions/31244862/what-is-the-use-of-spl-secondary-program-loader)
 
 [TPL: SPL loading SPL](https://www.denx.de/wiki/pub/U-Boot/MiniSummitELCE2013/tpl-presentation.pdf)
@@ -89,6 +103,8 @@ SPL (secondary program loader) is needed when the static RAM cannot hold the who
 - U-boot can also load kernel from file system
 
 [Lennart Talks Up systemd's SD-Boot + Boot Loader Specification - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=ASG-2019-systemd-SD-Boot)
+
+[Source Dive - YouTube](https://www.youtube.com/playlist?list=PLP29wDx6QmW4Mw8mgvP87Zk33LRcKA9bl) RISC-V QEmu, Kernel
 
 ## initramfs
 
@@ -122,6 +138,7 @@ SPL (secondary program loader) is needed when the static RAM cannot hold the who
 
 ## BIOS
 
+[BIOS - Wikiwand](https://www.wikiwand.com/en/BIOS)
 [Arch boot process - ArchWiki](https://wiki.archlinux.org/title/Arch_boot_process)
 [Boot with GRUB | Linux Journal](http://www.linuxjournal.com/article/4622)
 
@@ -191,10 +208,16 @@ The Windows ISO cannot be `dd`-ed to USB flash. We must create a bootable NTFS p
 [Download Windows USB/DVD Download Tool from Official Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=56485)
 [ValdikSS/windows2usb: Windows 7/8/8.1/10 ISO to Flash Drive burning utility for Linux (MBR/GPT, BIOS/UEFI, FAT32/NTFS)](https://github.com/ValdikSS/windows2usb)
 
-## PXEBoot
+## PXEBoot (network boot)
 
 [What Is Network Booting (PXE) and How Can You Use It?](http://www.howtogeek.com/57601/what-is-network-booting-pxe-and-how-can-you-use-it/)
 [Preboot Execution Environment - Wikiwand](https://www.wikiwand.com/en/Preboot_Execution_Environment)
+
+### Netboot.xyz
+
+[Your favorite operating systems in one place! | netboot.xyz](https://netboot.xyz/)
+[Meet netboot.xyz - Network Boot Any Operating System - YouTube](https://www.youtube.com/watch?v=4btW5x_clpg)
+[Meet netboot xyz - Network Boot Any Operating System | Techno Tim](https://technotim.live/posts/netbootxyz-tutorial/)
 
 ## UEFI
 
@@ -203,6 +226,7 @@ UEFI application (in EFI System partition) -> Bootloader -> Kernel -> ...
 
 [Unified Extensible Firmware Interface - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface)
 [Unified Extensible Firmware Interface - ArchWiki](https://wiki.archlinux.org/title/Unified_Extensible_Firmware_Interface)
+[Arch boot process - ArchWiki](https://wiki.archlinux.org/title/Arch_boot_process#Under_UEFI)
 [rEFInd - ArchWiki](https://wiki.archlinux.org/title/REFInd)
 
 [UEFI - OSDev Wiki](http://wiki.osdev.org/UEFI)

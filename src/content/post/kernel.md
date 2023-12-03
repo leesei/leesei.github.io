@@ -2,7 +2,7 @@
 title: Kernel
 description: ""
 created: 2016-03-27
-updated: 2023-08-01
+updated: 2023-11-08
 tags:
   - comp
   - linux
@@ -47,6 +47,8 @@ tags:
 [Unix vs Linux - YouTube](https://www.youtube.com/watch?v=jowCUo_UGts)
 [Is Linux an OS, a kernel or both? (Linux vs GNU/Linux) - YouTube](https://www.youtube.com/watch?v=RNeKYjWx-s4)
 
+[Linux Rootkits for Red-Blue Teams - YouTube](https://www.youtube.com/playlist?list=PLzKIBgD3ky21tpFya5oWTbD4Rxnj7-7OY)
+
 [Welcome to LWN.net [LWN.net]](https://lwn.net/)
 [Linux Kernel Newbies - Linux Kernel Newbies](https://kernelnewbies.org/)
 [Exploring the Linux kernel: The secrets of Kconfig/kbuild | Opensource.com](https://opensource.com/article/18/10/kbuild-and-kconfig)
@@ -61,18 +63,25 @@ tags:
 [DIY: Build a Custom Minimal Linux Distribution from Source | Linux Journal](https://www.linuxjournal.com/content/diy-build-custom-minimal-linux-distribution-source)
 [Build a Custom Minimal Linux Distribution from Source, Part II | Linux Journal](https://www.linuxjournal.com/content/build-custom-minimal-linux-distribution-source-part-ii)
 
-[What every programmer should know about memory, Part 1 [LWN.net]](http://lwn.net/Articles/250967/)
-[Memory part 2: CPU caches [LWN.net]](http://lwn.net/Articles/252125/)
-[Memory part 3: Virtual Memory [LWN.net]](http://lwn.net/Articles/253361/)
-[What Is Swappiness on Linux? (and How to Change It)](https://www.howtogeek.com/449691/what-is-swapiness-on-linux-and-how-to-change-it/amp/)
-[What's Virtual Memory? - Computerphile - YouTube](https://www.youtube.com/watch?v=5lFnKYCZT5o) swapping
-
 [Zero Copy I: User-Mode Perspective | Linux Journal](http://www.linuxjournal.com/article/6345)
 
 [Beej's Guide to Unix IPC](http://beej.us/guide/bgipc/output/html/multipage/index.html)
 [How is a message queue implemented in the Linux kernel? - Unix & Linux Stack Exchange](http://unix.stackexchange.com/questions/6930/how-is-a-message-queue-implemented-in-the-linux-kernel)
 
 [Why we're migrating (many of) our servers from Linux to FreeBSD](https://it-notes.dragas.net/2022/01/24/why-were-migrating-many-of-our-servers-from-linux-to-freebsd/)
+
+### Memory/Virtual Memory
+
+[What every programmer should know about memory, Part 1 [LWN.net]](http://lwn.net/Articles/250967/)
+[Memory part 2: CPU caches [LWN.net]](http://lwn.net/Articles/252125/)
+[Memory part 3: Virtual Memory [LWN.net]](http://lwn.net/Articles/253361/)
+[What Is Swappiness on Linux? (and How to Change It)](https://www.howtogeek.com/449691/what-is-swapiness-on-linux-and-how-to-change-it/amp/)
+
+[What's Virtual Memory? - Computerphile - YouTube](https://www.youtube.com/watch?v=5lFnKYCZT5o) swapping
+[_(char_)0 = 0; - What Does the C++ Programmer Intend With This Code? - JF Bastien - C++ on Sea 2023 - YouTube](https://www.youtube.com/watch?v=dFIqNZ8VbRY) TLB, virt2phys, page table
+
+[How does KERNEL memory allocation work? //Source Dive// 004 - YouTube](https://www.youtube.com/watch?v=NC_qkXznvkg)
+[The mechanics of VIRTUAL MEMORY //Source Dive// 005 - YouTube](https://www.youtube.com/watch?v=iTic6EV4DP8)
 
 ### Books
 
@@ -99,6 +108,8 @@ CFS: completely fair scheduler
 [OS Scheduling with Nest: Keeping Tasks Close Together on Warm Cores](https://hal.inria.fr/hal-03612592/document)
 [nest-public / nest-artifact · GitLab](https://gitlab.inria.fr/nest-public/nest-artifact)
 [THIS NEW Linux Scheduler BOOSTS Performance of the CPU!! (UP TO 200%) - YouTube](https://www.youtube.com/watch?v=s5-UbeuJfbk)
+
+[how greedy are your processes? | Linux niceness - YouTube](https://www.youtube.com/watch?v=GsF8R6DBxSg) niceness, -20 to 19, higher nice value means lower priority
 
 ### Compression
 

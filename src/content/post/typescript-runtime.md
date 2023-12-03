@@ -1,7 +1,8 @@
 ---
-title: TypeScript Notes
+title: TypeScript Runtime
 description: Traditionally TypeScripts are compiled to JavaScript and run on Node.js/browser
 created: 2014-12-11
+updated: 2023-10-05
 tags:
   - comp/lang
   - javascript/runtime

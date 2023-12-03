@@ -2,7 +2,7 @@
 title: Unicode
 description: ""
 created: 2015-06-05
-updated: 2023-08-14
+updated: 2023-11-02
 tags:
   - comp/lang
   - emoji
@@ -18,6 +18,11 @@ tags:
 
 [𝚚𝚠𝚎𝚛𝚝𝚢.𝚍𝚎𝚟](https://qwerty.dev/)
 
+[Plain Text • Dylan Beattie • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=4mRxIgu9R70) ❗!important, 43:11, ASCII history, code page, Unicode, sorting, normalization, encoding, emoji, ligatures
+[Plain Text - Dylan Beattie - NDC Copenhagen 2022 - YouTube](https://www.youtube.com/watch?v=gd5uJ7Nlvvo)
+[Code page - Wikiwand](https://www.wikiwand.com/en/code%20page)
+In ASCII days, code pages define what the top half of ASCII represents. It is sometimes bound to a particular use case/app.
+
 [Characters, Symbols and the Unicode Miracle - Computerphile - YouTube](https://www.youtube.com/watch?v=MijmeoH9LT4)
 [EXTRA BITS - UTF-8 'nearly' works - Computerphile - YouTube](https://www.youtube.com/watch?v=qBex3IDaUbU)
 [Unicode, in friendly terms: ASCII, UTF-8, code points, character encodings, and more - YouTube](https://www.youtube.com/watch?v=ut74oHojxqo)
@@ -25,7 +30,7 @@ tags:
 [Plain Text - Dylan Beattie - NDC Oslo 2021 - YouTube](https://www.youtube.com/watch?v=_mZBa3sqTrI) from encoding to Unicode, composition form, normalization form, UTF8, emoji
 [锟斤拷 �⊠ 是怎样炼成的——中文显示「⼊」门指南【柴知道】 - YouTube](https://www.youtube.com/watch?v=zSstXi-j7Qc)
 
-<kbd>Alt<kbd/> + `Code point` to input unicode character
+<kbd>Alt</kbd> + `Code point` to input unicode character
 
 [Special Characters Ø, ©, ±, °… [PC] | Tim Bird](https://timbobtastic.com/hints-and-tips/special-characters-o-%C2%B1-pc/)
 
@@ -62,18 +67,19 @@ Two physical characters that represent a single logical character. Part of a con
 A Python type representing a sequence of code points with "string semantics" (e.g. case conversions, regular expression compatibility, etc.) Constructed with the unicode() function.
 ```
 
-[UTS #10: Unicode Collation Algorithm](http://www.unicode.org/reports/tr10/) sorting
 [&what: Discover Unicode & HTML Character Entities](http://www.amp-what.com/)
 [Math Unicode Entities](http://symbolcodes.tlt.psu.edu/bylanguage/mathchart.html)
-
-[Combining character - Wikiwand](https://www.wikiwand.com/en/Combining_character)
 
 [Unify – Unicode support on browsers and devices](http://unicode.johnholtripley.co.uk/)
 
 [表意文字小組 - Wikiwand](https://www.wikiwand.com/zh-hant/%E8%A1%A8%E6%84%8F%E6%96%87%E5%AD%97%E5%B0%8F%E7%B5%84)
 [中日韓統一表意文字 - Wikiwand](https://www.wikiwand.com/zh-hant/%E4%B8%AD%E6%97%A5%E9%9F%93%E7%B5%B1%E4%B8%80%E8%A1%A8%E6%84%8F%E6%96%87%E5%AD%97)
+[UAX #38: Unicode Han Database (Unihan)](http://www.unicode.org/reports/tr38/)
 
-## Normalization
+## Combining Marks/Normalization
+
+[Combining character - Wikiwand](https://www.wikiwand.com/en/Combining_character)
+[Zalgo Text Generator ― LingoJam](https://lingojam.com/ZalgoText) 😄funny
 
 [FAQ - Normalization](http://www.unicode.org/faq/normalization.html)
 [Unicode equivalence - Wikiwand](https://www.wikiwand.com/en/Unicode_equivalence)
@@ -81,12 +87,15 @@ A Python type representing a sequence of code points with "string semantics" (e.
 
 [UAX #15: Unicode Normalization Forms](http://unicode.org/reports/tr15/)
 
-Normal Form Decomposed (NFD): “é” (U+00E9) = “e” + “ ́” (U+0065 U+0301).
+Normal Form Decomposed (NFD): `é` (U+00E9) = `e` + ` ́` (U+0065 U+0301).
 
-NFC — Normalization Form Canonical Composition.
-NFD — Normalization Form Canonical Decomposition.
+NFC — Normalization Form Canonical Composition, largest number of code points
+NFD — Normalization Form Canonical Decomposition, smallest number of code points
 NFKC — Normalization Form Compatibility Composition.
 NFKD — Normalization Form Compatibility Decomposition.
+
+[Unicode Normalization forms - C# - OneCompiler](https://onecompiler.com/csharp/3zs9ccwc6)
+[dotnet_summit_by.cs](https://gist.github.com/dylanbeattie/336b6b8990f0db6dd00d238ad114092a)
 
 [Unicode 相容字元 - Wikiwand](https://www.wikiwand.com/zh-hant/Unicode%E7%9B%B8%E5%AE%B9%E5%AD%97%E7%AC%A6)
 [Unicode compatibility characters - Wikiwand](https://www.wikiwand.com/en/Unicode_compatibility_characters)
@@ -126,6 +135,8 @@ Allows multiple glyphs for one code point
 [How emoji conquered the world | The Verge](http://www.theverge.com/2013/3/4/3966140/how-emoji-conquered-the-world)
 [The Oral History Of The Poop Emoji (Or, How Google Brought Poop To America) | Fast Company | Business + Innovation](http://www.fastcompany.com/3037803/the-oral-history-of-the-poop-emoji-or-how-google-brought-poop-to-america)
 [Emoji and the Levitating Businessman - Computerphile - YouTube](https://www.youtube.com/watch?v=tITwM5GDIAI)
+
+Black Woman Astronaut = Woman (U+1F469) + Dark Skin Tone (U+1F3FF) + Zero Width Joiner (U+200D) + Rocket (U+1FD80D)
 
 [iEmoji.com](https://www.iemoji.com/)
 [Emoji searcher](https://emoji.muan.co/)
@@ -169,6 +180,7 @@ Allows multiple glyphs for one code point
 ## Character Table
 
 [Unicode character table](http://unicode-table.com/en/)
+[Unicode/UTF-8-character table](https://www.utf8-chartable.de/)
 [Unicodinator](http://unicodinator.com/)
 [Find all Unicode characters from Hieroglyphs to Dingbats – Codepoints](https://codepoints.net/)
 [Unicode codepoint lookup/search tool](http://unicode.scarfboy.com/)
@@ -193,3 +205,22 @@ Allows multiple glyphs for one code point
 [国标码查询；汉字国家标准编码：GB2312、GBK、GB18030](https://www.qqxiuzi.cn/bianma/guobiaoma.php)
 
 2 bytes per character, with leading bit 1
+
+## Sorting
+
+[UTS #10: Unicode Collation Algorithm](http://www.unicode.org/reports/tr10/) sorting
+
+[为什么汉字的“一二三四五六七八九十”的字典顺序和数字顺序不一致，而是“一七三九二五八六十四”？ - 知乎](https://www.zhihu.com/question/533802849/answer/2669904119)
+
+| 汉字 | UTF编码  |
+| ---- | -------- |
+| 一   | `0x4e00` |
+| 二   | `0x4e8c` |
+| 三   | `0x4e09` |
+| 四   | `0x56db` |
+| 五   | `0x4e94` |
+| 六   | `0x516d` |
+| 七   | `0x4e03` |
+| 八   | `0x516b` |
+| 九   | `0x4e5d` |
+| 十   | `0x5341` |

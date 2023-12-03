@@ -2,6 +2,7 @@
 title: JavaScript Pipeline
 description: ""
 created: 2015-12-21
+updated: 2023-11-22
 tags:
   - bundler
   - web
@@ -98,7 +99,7 @@ Vite and Next.js replaced it with more features
 
 [microsite/getting-started.md at main · natemoo-re/microsite](https://github.com/natemoo-re/microsite/blob/main/docs/getting-started.md) using Snowpack, Preact
 
-[Introduction – TSDX](https://tsdx.io/)
+[Introduction – TSDX](https://tsdx.io/) 😴inactive
 [jaredpalmer/tsdx: Zero-config CLI for TypeScript package development](https://github.com/jaredpalmer/tsdx) Rollup
 
 [fwilkerson/microenvi: Bundle, serve, and hot reload with one command](https://github.com/fwilkerson/microenvi) microbundle

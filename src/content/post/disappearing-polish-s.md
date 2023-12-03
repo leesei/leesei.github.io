@@ -2,6 +2,7 @@
 title: Disappearing Polish S
 description: ""
 created: 2015-02-27
+updated: 2023-09-29
 tags:
   - history
 ---

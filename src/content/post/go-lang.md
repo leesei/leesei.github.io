@@ -2,7 +2,7 @@
 title: The Go Programming Language
 description: Build simple, secure, scalable systems with Go
 created: 2015-02-16
-updated: 2023-08-10
+updated: 2023-11-16
 tags:
   - comp/lang
   - go-lang
@@ -19,9 +19,12 @@ tags:
 
 [Go 1 and the Future of Go Programs - go.dev](https://go.dev/doc/go1compat)
 [How to Write Go Code - go.dev](https://go.dev/doc/code)
-[Learn Go Programming - Golang Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=YS4e4q9oBaU) 2019-06, 6:29
-[Golang Tutorial for Beginners | Full Go Course - YouTube](https://www.youtube.com/watch?v=yyUHQIec83I) 2021-12, 3:24
 [Getting started with VS Code Go - YouTube](https://www.youtube.com/watch?v=1MXIGYrMk80) 2021-01
+[Learn Go Programming - Golang Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=YS4e4q9oBaU) 2019-06, 6:39:57
+[Golang Tutorial for Beginners | Full Go Course - YouTube](https://www.youtube.com/watch?v=yyUHQIec83I) 2021-12, 3:24:58
+
+[Learn Go Fast - Full Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLstEdxtNm3vt_Ft-_MSzvgE98WwdsOIUG) 2023-09, Alex Mux
+[avukadin/goapi: Playing around with go](https://github.com/avukadin/goapi)
 
 [Awesome Go](https://awesome-go.com/)
 [avelino/awesome-go: A curated list of awesome Go frameworks, libraries and software](https://github.com/avelino/awesome-go)
@@ -120,7 +123,7 @@ godoc pkg Label  # look up function/type
 [LiteIDE X](http://liteide.org/en/)
 [visualfc/liteide: LiteIDE is a simple, open source, cross-platform Go IDE.](https://github.com/visualfc/liteide)
 
-## Commentary
+## Commentaries
 
 [Comparing Elixir and Go - via @codeship | via @codeship](https://blog.codeship.com/comparing-elixir-go/)
 [The success of Go heralds that of Rust - George Hosu - Medium](https://medium.com/@george3d6/the-success-of-go-heralds-that-of-rust-73cb2e4c0500)
@@ -130,6 +133,15 @@ godoc pkg Label  # look up function/type
 [My reflections on Golang - DEV Community 👩‍💻👨‍💻](https://dev.to/deepu105/my-reflections-on-golang-38jk)
 [Rust vs. Go: How to choose | InfoWorld](https://www.infoworld.com/article/3436960/rust-vs-go-how-to-choose.html)
 [Why Go Is Not Good :: Will Yager](http://yager.io/programming/go.html)
+
+[Rust Vs Go: A Hands-On Comparison](https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison) with web services
+[Rust vs Go : Hands On Comparison - YouTube](https://www.youtube.com/watch?v=dSoP7EF2YJ4)
+
+[Golang Is A Poorly-Designed Language | by Paul Folbrecht | Sep, 2023 | Medium](https://medium.com/@paul.folbrecht/golang-is-a-poorly-designed-language-c1361b49e82)
+[Golang Is Poorly Designed | Prime Reacts - YouTube](https://www.youtube.com/watch?v=dbXgs-aQ7cE) Primeagen's comment is more pertinent:
+
+- Go is good for 0-60, Rust is good for safety over 90
+- choose your trade offs
 
 [Golang is BAD for SMART PEOPLE - YouTube](https://www.youtube.com/watch?v=rWJ1tPCnVJI)
 
@@ -306,7 +318,7 @@ no std package are located at `$GOROOT/src/`
 [golang/mobile: [mirror] Go on Mobile](https://github.com/golang/mobile/)
 
 [jefferyjob/go-easy-utils: Quick toolbox for common data processing developed by Go language。Go 语言开发的常用数据处理的快捷工具箱。](https://github.com/jefferyjob/go-easy-utils)
-[GitHub - go-vgo/gt: Commonly used functions and tools for the Go programming language](https://github.com/go-vgo/gt)
+[go-vgo/gt: Commonly used functions and tools for the Go programming language](https://github.com/go-vgo/gt)
 
 [mitchellh/protostructure: Encode and decode Go (golang) struct types via protocol buffers.](https://github.com/mitchellh/protostructure)
 
@@ -422,6 +434,20 @@ formatting the value exactly as if it were an integer.
 [template package - text/template - Go Packages](https://pkg.go.dev/text/template)
 [valyala/fasttemplate: Simple and fast template engine for Go](https://github.com/valyala/fasttemplate)
 
+[template package - html/template - Go Packages](https://pkg.go.dev/html/template)
+[a-h/templ: A language for writing HTML user interfaces in Go.](https://github.com/a-h/templ)
+
+### templ
+
+[Introduction | templ docs](https://templ.guide/)
+[a-h/templ: A language for writing HTML user interfaces in Go.](https://github.com/a-h/templ)
+
+- component based
+- components are functions
+- easy integration with Go code
+
+[Introducing templ](https://adrianhesketh.com/2021/05/18/introducing-templ/)
+
 ### HTTP client
 
 [http package - net/http - Go Packages](https://pkg.go.dev/net/http)
@@ -436,6 +462,9 @@ formatting the value exactly as if it were an integer.
 [bozd4g/go-http-client: An enhanced http client for Golang](https://github.com/bozd4g/go-http-client)
 
 ### web
+
+[cosmtrek/air: ☁️ Live reload for Go apps](https://github.com/cosmtrek/air)
+[Using Air with Go to implement live reload - LogRocket Blog](https://blog.logrocket.com/using-air-go-implement-live-reload/)
 
 compares Gin, Echo, Chi
 [Gorilla Toolkit Open Source Project Becomes Abandonware - The New Stack](https://thenewstack.io/gorilla-toolkit-open-source-project-becomes-abandonware/)
@@ -491,20 +520,13 @@ compares Gin, Echo, Chi
 
 [chi](https://go-chi.io/#/) routing, middleware, render and docgen
 
-### web scraping
+#### Iris
 
-[antchfx/antch: Antch, a fast, powerful and extensible web crawling & scraping framework for Go](https://github.com/antchfx/antch) 😴inactive
-[antchfx/antch-getstarted](https://github.com/antchfx/antch-getstarted)
+[Iris Web Framework](https://iris-go.com/)
 
-[antchfx/htmlquery: htmlquery is golang XPath package for HTML query.](https://github.com/antchfx/htmlquery)
-[antchfx/xpath: XPath package for Golang, supports HTML, XML, JSON document query.](https://github.com/antchfx/xpath)
-
-[bitfield/weaver: A simple link checker in Go](https://github.com/bitfield/weaver) rate limiting
-
-#### Goa Design
-
-[Goa :: Design first.](https://goa.design/)
-[Goa](https://github.com/goadesign)
+[kataras/iris: The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:](https://github.com/kataras/iris)
+[kataras/iris-cli: [WIP] Iris Command Line Interface](https://github.com/kataras/iris-cli)
+[iris-contrib/examples: This repository contains small and practical examples for the Iris Web Framework.](https://github.com/iris-contrib/examples)
 
 #### Gin
 
@@ -538,11 +560,20 @@ compares Gin, Echo, Chi
 [buffalo-cli/cli/internal/plugins at master · gobuffalo/buffalo-cli](https://github.com/gobuffalo/buffalo-cli/tree/master/cli/internal/plugins)
 [swaggo/buffalo-swagger: Buffalo middleware to automatically generate RESTful API documentation with Swagger 2.0.](https://github.com/swaggo/buffalo-swagger)
 
-#### Iris
+#### Goa Design
 
-[Iris Web Framework](https://iris-go.com/)
-[kataras/iris: 感谢中国开发者 - https://bit.ly/謝謝 | The fastest community-driven web framework for Go. Webassembly, Automatic HTTPS with Public Domain, MVC, Sessions, Caching, Versioning API, Problem API, Websocket, Dependency Injection and more. Fully compatible with the standard library and 3rd-party middleware packages. | https://bit.ly/iriscandothat1 | https://bit.ly/iriscandothat3 |](https://github.com/kataras/iris)
-[kataras/iris-cli: [WIP] Iris Command Line Interface](https://github.com/kataras/iris-cli)
+[Goa :: Design first.](https://goa.design/)
+[Goa](https://github.com/goadesign)
+
+### web scraping
+
+[antchfx/antch: Antch, a fast, powerful and extensible web crawling & scraping framework for Go](https://github.com/antchfx/antch) 😴inactive
+[antchfx/antch-getstarted](https://github.com/antchfx/antch-getstarted)
+
+[antchfx/htmlquery: htmlquery is golang XPath package for HTML query.](https://github.com/antchfx/htmlquery)
+[antchfx/xpath: XPath package for Golang, supports HTML, XML, JSON document query.](https://github.com/antchfx/xpath)
+
+[bitfield/weaver: A simple link checker in Go](https://github.com/bitfield/weaver) rate limiting
 
 ### CLI
 
@@ -561,12 +592,6 @@ compares Gin, Echo, Chi
 [marcusolsson/tui-go: A UI library for terminal applications.](https://github.com/marcusolsson/tui-go)
 [rivo/tview: Rich interactive widgets for terminal-based UIs written in Go](https://github.com/rivo/tview)
 
-[Charm](https://charm.sh/)
-[charmbracelet/charm: The Charm Tool and Library 🌟](https://github.com/charmbracelet/charm)
-[charmbracelet/gum: A tool for glamorous shell scripts 🎀](https://github.com/charmbracelet/gum)
-[charmbracelet/bubbles: TUI components for Bubble Tea 🍡](https://github.com/charmbracelet/bubbles)
-[charmbracelet/bubbletea: A powerful little TUI framework 🏗](https://github.com/charmbracelet/bubbletea)
-
 [hanslub42/rlwrap: A readline wrapper](https://github.com/hanslub42/rlwrap)
 
 [muesli/termenv: Advanced ANSI style & color support for your terminal applications](https://github.com/muesli/termenv)
@@ -575,10 +600,30 @@ compares Gin, Echo, Chi
 
 [urfave/cli: A simple, fast, and fun package for building command line apps in Go](https://github.com/urfave/cli)
 
+[meowgorithm/babyenv: Go environment var parsing, for babies](https://github.com/meowgorithm/babyenv)
+
+#### Charm/Bubbletea/Bubbles
+
+[Charm](https://charm.sh/)
+[charmbracelet/charm: The Charm Tool and Library 🌟](https://github.com/charmbracelet/charm)
+[charmbracelet/bubbles: TUI components for Bubble Tea 🍡](https://github.com/charmbracelet/bubbles)
+[charmbracelet/bubbletea: A powerful little TUI framework 🏗](https://github.com/charmbracelet/bubbletea)
+
+[Charm CLI - YouTube](https://www.youtube.com/@charmcli/featured)
+[Charm CLI Community - YouTube](https://www.youtube.com/@charmclicommunity)
+[Bubble Tea Tutorials - YouTube](https://www.youtube.com/playlist?list=PLLLtqOZfy0pd1wu0E1kCMPqU7d6o3NAgD)
+[Cool Projects with Charm CLI - YouTube](https://www.youtube.com/playlist?list=PLLLtqOZfy0pdhFwETwMr77CJld866jy35)
+
+#### Scripting
+
 [bitfield/script: Making it easy to write shell-like scripts in Go](https://github.com/bitfield/script)
 [Scripting with Go — Bitfield Consulting](https://bitfieldconsulting.com/golang/scripting)
+[Go 寫腳本 - 閱坊](https://www.readfog.com/a/1668959238454611968)
 
-[meowgorithm/babyenv: Go environment var parsing, for babies](https://github.com/meowgorithm/babyenv)
+[ganbarodigital/go_scriptish: scriptish is a library to help you port bash scripts to Golang](https://github.com/ganbarodigital/go_scriptish)
+[Scriptish - Portable Shell Scripts Using Golang - YouTube](https://www.youtube.com/watch?v=S5iqoDPU7nw)
+
+[Go As a Scripting Language in Linux - YouTube](https://www.youtube.com/watch?v=k7oosn5HrKk) `gorun`, `binfmt_misc`
 
 ### GUI
 
@@ -616,15 +661,22 @@ go build -v
 
 ### Database/ORM
 
+[[sql#ORM (or not)]]
+
 [Comparing database/sql, GORM, sqlx, and sqlc | The GoLand Blog](https://blog.jetbrains.com/go/2023/04/27/comparing-db-packages/)
 
 [sql - The Go Programming Language](https://go.dev/pkg/database/sql/)
 [Go database/sql tutorial](http://go-database-sql.org/index.html)
 [go-pg/pg: Golang ORM with focus on PostgreSQL features and performance](https://github.com/go-pg/pg)
 
-[jmoiron/sqlx: general purpose extensions to golang's database/sql](https://github.com/jmoiron/sqlx)
+[jmoiron/sqlx: general purpose extensions to golang's database/sql](https://github.com/jmoiron/sqlx) SQL sanitizer
+
+[Masterminds/squirrel: Fluent SQL generation for golang](https://github.com/Masterminds/squirrel)
 
 [rocketlaunchr/dbq: Zero boilerplate database operations for Go](https://github.com/rocketlaunchr/dbq)
+
+[Bun: SQL client for Golang](https://bun.uptrace.dev/)
+[uptrace/bun: SQL-first Golang ORM](https://github.com/uptrace/bun)
 
 [GORM - The fantastic ORM library for Golang, aims to be developer friendly.](https://gorm.io/)
 
@@ -646,6 +698,8 @@ go build -v
 
 [Send Logs from Go to Logstash in the ELK Stack with Docker Setup - DEV Community](https://dev.to/karanjagtiani/send-logs-from-go-to-logstash-in-the-elk-stack-with-docker-setup-16eo)
 
+[kataras/golog: A high-performant Logging Foundation for Go Applications. X3 faster than the rest leveled loggers.](https://github.com/kataras/golog)
+
 ### Clipboard
 
 [golang-design/clipboard: 📋 cross-platform clipboard package that supports accessing text and image in Go (macOS/Linux/Windows/Android/iOS)](https://github.com/golang-design/clipboard)
@@ -664,7 +718,8 @@ With Docker:
 [The Go Programming Language Specification - The Go Programming Language](https://go.dev/ref/spec)
 [DevDocs/Go](https://devdocs.io/go/) standard library
 
-[Talks - The Go Programming Language](https://go.dev/talks/)
+[The Go Blog - The Go Programming Language](https://go.dev/blog/)
+[talks - The Go Programming Language](https://go.dev/talks/)
 
 [Get Started - go.dev](https://go.dev/learn/)
 [A Tour of Go](https://go.dev/tour/), [solutions](https://github.com/golang/tour/tree/master/solutions)
@@ -704,7 +759,7 @@ Golang `map[string]struct{}` can be used as a Set type where every element is un
 
 [Keeping up with the Gophers](https://go.dev/talks/2015/keeping-up.slide#1)
 
-[Principles of designing Go APIs with channels - inconshreveable](https://inconshreveable.com/07-08-2014/principles-of-designing-go-apis-with-channels/)
+[Principles of designing Go APIs with channels - inconshreveable](https://inconshreveable.com/07-08-2014/principles-of-designing-go-apis-with-channels/) channels are colorless
 
 [GopherCon 2015: Andrew Gerrand - Closing Keynote - YouTube](https://www.youtube.com/watch?v=0ht89TxZZnk) [How Go was made](https://go.dev/talks/2015/how-go-was-made.slide#2)
 
@@ -773,6 +828,14 @@ type S = struct {
 [Google I/O 2011: Writing Web Apps in Go - YouTube](https://www.youtube.com/watch?v=-i0hat7pdpk&feature=relmfu)
 [Learn Go Programming by Building 11 Projects – Full Course - YouTube](https://www.youtube.com/watch?v=jFfo23yIWac) 8:24:39
 
+[ProgrammingPercy - YouTube](https://www.youtube.com/@programmingpercy)
+[samvcodes - YouTube](https://www.youtube.com/@samvcodes)
+
+[Anthony GG - YouTube](https://www.youtube.com/@anthonygg_)
+[How To Golang - YouTube](https://www.youtube.com/playlist?list=PL0xRBLFXXsP7-0IVCmoo2FEWBrQzfH2l8)
+
+[GopherCon Europe - YouTube](https://www.youtube.com/@GopherConEurope)
+[Gopher Academy - YouTube](https://www.youtube.com/@GopherAcademy)
 [Golang Dojo - YouTube](https://www.youtube.com/channel/UCEXtPiqFrcdzFRKqwazI1NA)
 
 ## Playground
@@ -825,6 +888,7 @@ type S = struct {
 [Golang examples and solutions from different packages of the standard library. - golangprograms.com](https://www.golangprograms.com/golang-package-examples.html)
 [Go · How I Start.](https://howistart.org/posts/go/1/)
 
+[ProgrammingPercy](https://programmingpercy.tech/)
 [Go by Example](https://gobyexample.com/)
 [Golang Advanced Tutorial - Welcome To Golang By Example](https://golangbyexample.com/golang-comprehensive-tutorial/)
 [Go 101 -Go 101](https://go101.org/article/101.html)
@@ -854,11 +918,17 @@ type S = struct {
 [Golang for JavaScript developers - Part 2 - DEV Community 👩‍💻👨‍💻](https://dev.to/deepu105/golang-for-javascript-developers-part-2-p3p)
 
 [mholt/meetupchat: Simple chat using TCP, as a quick workshop for beginner (Go) programmers](https://github.com/mholt/meetupchat)
-
-[The Go Blog - go.dev](https://go.dev/blog/)
 [Go | Dave Cheney](https://dave.cheney.net/category/golang)
 [Go (Golang) Programming Blog - Ardan Labs](https://www.ardanlabs.com/categories/go-programing/)
 [Golang Development | TutorialEdge.net](https://tutorialedge.net/golang/)
+
+## Project Structure
+
+[How I Structure New Projects In Golang - YouTube](https://www.youtube.com/watch?v=dJIUxvfSg6A)
+[This Is The BEST Way To Structure Your GO Projects - YouTube](https://www.youtube.com/watch?v=dxPakeBsgl4)
+[Hexagonal Architecture In Golang!? - Full Structure Example - YouTube](https://www.youtube.com/watch?v=kWfP4H1qzCk)
+[How To Structure Domain Driven Design (DDD) In Go - YouTube](https://www.youtube.com/watch?v=jJHhXaWwM7Y)
+[How To Structure Your Go App - Full Course [ Hex Arch + Tests ] - YouTube](https://www.youtube.com/watch?v=MpFog2kZsHk) 2:45:05
 
 ## Internals
 
@@ -965,7 +1035,7 @@ On why slice, map and function types don't support comparison, please read [this
 [Google I/O 2012 - Go Concurrency Patterns - YouTube](https://www.youtube.com/watch?v=f6kdp27TYZs) [slides](https://go.dev/talks/2012/concurrency.slide)
 [Google I/O 2013 - Advanced Go Concurrency Patterns - YouTube](https://www.youtube.com/watch?v=QDDwwePbDtw) [slide](https://go.dev/talks/2013/advconc.slide)
 [Concurrency Patterns In Go - YouTube](https://www.youtube.com/watch?v=YEKjSzIwAdA)
-[Master Go Programming With These Concurrency Patterns (in 40 minutes) - YouTube](https://www.youtube.com/watch?v=qyM8Pi1KiiM)
+[Master Go Programming With These Concurrency Patterns (in 40 minutes) - YouTube](https://www.youtube.com/watch?v=qyM8Pi1KiiM) 46:14
 [Concurrency Made Easy (Practical Tips For Effective Concurrency In Go) - YouTube](https://www.youtube.com/watch?v=DqHb5KBe7qI)
 [dotgo applied concurrency in go](https://matt.aimonetti.net/posts/2015-12-dotgo-applied-concurrency-in-go/)
 [On using Go channels like Python generators · The Ethically-Trained Programmer](https://blog.carlmjohnson.net/post/on-using-go-channels-like-python-generators/)
@@ -999,6 +1069,16 @@ use `chan struct{}` to signify that this is a channel for event/signal
 
 [Introduction to Go - let's build a network application! | Go User Group Berlin](http://synflood.at/tmp/golang-slides/mrmcd2012.html)
 [Directional Channels in Go | Gopher Academy Blog](https://blog.gopheracademy.com/advent-2019/directional-channels/)
+
+### WaitGroup
+
+[Go by Example: WaitGroups](https://gobyexample.com/waitgroups)
+[Concurrency patterns in Golang: WaitGroups and Goroutines - LogRocket Blog](https://blog.logrocket.com/concurrency-patterns-golang-waitgroups-goroutines/)
+
+1. create `WaitGroup`
+2. add when creating Goroutine
+3. done when Goroutine exists
+4. wait on caller for Goroutines to finish
 
 ### Context
 
@@ -1040,6 +1120,8 @@ Use reference time (`2006-01-02T15:04:05Z07:00`) to define layout
 
 [Go Type System Overview -Go 101](https://go101.org/article/type-system-overview.html)
 [Value Conversion, Assignment and Comparison Rules in Go -Go 101](https://go101.org/article/value-conversions-assignments-and-comparisons.html)
+
+[Everything You Always Wanted to Know About Type Inference - And a Little Bit More - The Go Programming Language](https://go.dev/blog/type-inference)
 
 ```go
 var x any
@@ -1133,6 +1215,8 @@ fmt.Printf("%T\n", y)
 [Who needs generics? Use ... instead! · Applied Go](https://appliedgo.net/generics/)
 
 [What’s New in Go 1.20, Part I: Language Changes · The Ethically-Trained Programmer](https://blog.carlmjohnson.net/post/2023/golang-120-language-changes/) fix `comparable` type
+
+[Advanced Golang: Generics Explained - YouTube](https://www.youtube.com/watch?v=WpTKqnfp5dY)
 
 ## Decorators
 
@@ -1250,6 +1334,8 @@ ENTRYPOINT ["/bin/demo"]
 [Testing errors in Go — Bitfield Consulting](https://bitfieldconsulting.com/golang/testing-errors)
 [Comparing Go error values — Bitfield Consulting](https://bitfieldconsulting.com/golang/comparing-errors)
 [Error wrapping in Go — Bitfield Consulting](https://bitfieldconsulting.com/golang/wrapping-errors)
+
+[Handling errors LIKE a 10x ENGINEER in Golang - Golang Service Pattern - YouTube](https://www.youtube.com/watch?v=CxcxRgwWtAk)
 
 [Creating Domain Specific Error Helpers in Go With errors.As · The Ethically-Trained Programmer](https://blog.carlmjohnson.net/post/2020/working-with-errors-as/)
 [Mastering Your Error Domain · The Ethically-Trained Programmer](https://blog.carlmjohnson.net/post/2022/fosdem-talk-error-domain/)

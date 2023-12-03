@@ -2,6 +2,7 @@
 title: OpenCV
 description: ""
 created: 2014-12-31
+updated: 2023-09-29
 tags:
   - comp/lang
   - opencv
@@ -88,6 +89,16 @@ Output images with [`cv.imwrite()`](https://docs.opencv.org/master/d4/da8/group_
 [深度学习——使用 Tesseract.js 在浏览器离线识别图片中的文字\_知北行的博客-CSDN 博客\_tesseract.js](https://blog.csdn.net/qq_35077107/article/details/105341115)
 [Build an image-to-text conversion app with React and Tesseract.js OCR - LogRocket Blog](https://blog.logrocket.com/build-image-text-conversion-app-react-tesseractjs/)
 
+[dpScreenOCR](https://danpla.github.io/dpscreenocr/en/)
+
+[文本识别 OCR 解决方案 - Awesome软件 - OSCHINA - 中文开源技术交流社区](https://www.oschina.net/project/awesome?columnId=62)
+[Capture2Text](https://capture2text.sourceforge.net/)
+[mindspore-lab/mindocr: A toolbox of OCR models, algorithms, and pipelines based on MindSpore](https://github.com/mindspore-lab/mindocr)
+[ctripcorp/C-OCR: C-OCR是携程自研的OCR项目，主要包括身份证、护照、火车票、签证等旅游相关证件、材料的识别。 项目包含4个部分，拒识、检测、识别、后处理。](https://github.com/ctripcorp/C-OCR)
+[hiroi-sora/Umi-OCR: OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。](https://github.com/hiroi-sora/Umi-OCR)
+[DayBreak-u/chineseocr_lite: 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M](https://github.com/DayBreak-u/chineseocr_lite)
+[chungkwong/MathOCR: A scientific document recognition system](https://github.com/chungkwong/MathOCR)
+
 ## Tips and Tricks
 
 [Unicode Path/Filename for imread and imwrite · Issue #4292 · opencv/opencv](https://github.com/opencv/opencv/issues/4292#issuecomment-601686965) read from buffer instead
@@ -102,7 +113,7 @@ Output images with [`cv.imwrite()`](https://docs.opencv.org/master/d4/da8/group_
 
 [PyImageSearch - Be awesome at OpenCV, Python, deep learning, and computer vision](https://www.pyimagesearch.com/)
 [The 7 best deep learning books you should be reading right now - PyImageSearch](https://www.pyimagesearch.com/2018/03/05/7-best-deep-learning-books-reading-right-now/)
-[ImageSearchEngineResourceGuide.pdf](/_assets/opencv/ImageSearchEngineResourceGuide.pdf)
+[ImageSearchEngineResourceGuide.pdf](./_assets/opencv/ImageSearchEngineResourceGuide.pdf)
 
 [Neural Style Transfer with OpenCV - PyImageSearch](https://www.pyimagesearch.com/2018/08/27/neural-style-transfer-with-opencv/)
 

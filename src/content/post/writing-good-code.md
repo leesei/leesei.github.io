@@ -2,7 +2,7 @@
 title: Writing Good Code
 description: ""
 created: 2023-06-10
-updated: 2023-08-12
+updated: 2023-10-19
 tags:
   - programmer
 ---
@@ -10,8 +10,9 @@ tags:
 [[design-patterns]]
 
 [Clean Coder Blog](https://blog.cleancoder.com/) Uncle Bob
-[Clean Coders - YouTube](https://www.youtube.com/c/Cleancoders)
+[Clean Coders - YouTube](https://www.youtube.com/@Cleancoders)
 [CodeAesthetic - YouTube](https://www.youtube.com/@CodeAesthetic)
+[Alex Hyett - YouTube](https://www.youtube.com/@alexhyettdev/featured)
 
 [Software Programming - YouTube](https://www.youtube.com/playlist?list=PLUxszVpqZTNShoypLQW9a4dEcffsoZT4k)
 Clean Code by Uncle bob
@@ -48,6 +49,8 @@ ArjanCodes
 [More Python Code Smells: Avoid These 7 Smelly Snags - YouTube](https://www.youtube.com/watch?v=zmWf_cHyo8s)
 [Even More Code Smells - Purge These 7 Python Putrid Peccadilloes Now! - YouTube](https://www.youtube.com/watch?v=Kl3_Gmn4Ujg)
 [The Ultimate Guide to Writing Functions - YouTube](https://www.youtube.com/watch?v=yatgY4NpZXE)
+[Cohesion and Coupling: Write BETTER PYTHON CODE Part 1 - YouTube](https://www.youtube.com/watch?v=eiDyK_ofPPM)
+[Dependency Inversion: Write BETTER PYTHON CODE Part 2 - YouTube](https://www.youtube.com/watch?v=Kv5jhbSkqLE)
 
 [Be an Engineer, not a Frameworker | by John Raines | Medium](https://johndanielraines.medium.com/be-an-engineer-not-a-frameworker-c58fe28d0c88)
 [Be An Engineer, Not A Frameworker | Prime Reacts - YouTube](https://www.youtube.com/watch?v=UowtlZB2a70)

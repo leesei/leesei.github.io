@@ -2,6 +2,7 @@
 title: Node.js notes
 description: ""
 created: 2014-12-11
+updated: 2023-11-22
 tags:
   - comp/lang
   - javascript/runtime
@@ -51,6 +52,9 @@ tags:
 [NodeJS Fan - YouTube](https://www.youtube.com/channel/UChTJTbr5kf3hYazJZO-euHg)
 
 ## Debugging
+
+[Presentations: Debugging JavaScript · Mark's Dev Blog](https://blog.isquaredsoftware.com/2023/06/presentations-debugging-javascript/)
+[Blogged Answers: Debugging Tips · Mark's Dev Blog](https://blog.isquaredsoftware.com/2019/01/blogged-answers-debugging-tips/)
 
 [Debugger | Node.js Documentation](https://nodejs.org/docs/latest/api/debugger.html)
 [Debugging - Getting Started | Node.js](https://nodejs.org/en/docs/guides/debugging-getting-started/)
@@ -135,7 +139,8 @@ Obsoleted:
 
 [[nodejs-settings#CLI]]
 
-[Write your shell scripts in JavaScript, via Node.js](http://www.2ality.com/2011/12/nodejs-shell-scripting.html)
+[Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting/toc.html)
+
 [Unix and Node: Command-line Arguments](http://dailyjs.com/2012/03/01/unix-node-arguments/)
 [Unix and Node: Pipes and Streams](http://dailyjs.com/2012/03/08/unix-node-pipes/)
 [Unix and Node: Signals](http://dailyjs.com/2012/03/15/unix-node-signals/)
@@ -270,6 +275,8 @@ stream.on("end", function () {
 
 [Modules: Packages - Writing dual packages while avoiding or minimizing hazards](https://nodejs.org/api/packages.html#writing-dual-packages-while-avoiding-or-minimizing-hazards) Node 15+
 
+- If you add `type: "module"`, every file with a `.js` extension gets interpreted as ESM, period. `.cjs` files will be interpreted as CommonJS.
+- Alternately, if you _don't_ have `type: "module"`, `.js` files are treated as CommonJS. You can use `.mjs` to mark individual files as ESM.
 - `import` and `require` under `exports`
 
 ```json
@@ -296,10 +303,11 @@ stream.on("end", function () {
 
 [ES2015 module detection in Node.js (June 2016)](http://es2015-node.js.org/) archived
 [defense-of-dot-js/proposal.md at master · dherman/defense-of-dot-js](https://github.com/dherman/defense-of-dot-js/blob/master/proposal.md)
+
 [ES Modules and Node.js: Hard Choices — Medium](https://medium.com/@nodesource/es-modules-and-node-js-hard-choices-2b6995e4d491#.21d07v52h)
 [Understanding the hard choice. — Medium](https://medium.com/@bradleymeck/understanding-the-hard-choice-1ea3008fc9d0#.pycqhm609)
-
-[Announcing a new — experimental-modules – Node.js Foundation – Medium](https://medium.com/@nodejs/announcing-a-new-experimental-modules-1be8d2d6c2ff)
+[CommonJS is hurting JavaScript](https://deno.com/blog/commonjs-is-hurting-javascript)
+[CommonJS is not going away | Bun Blog](https://bun.sh/blog/commonjs-is-not-going-away)
 
 [wessberg/cjstoesm: A tool that can transform CommonJS to ESM](https://github.com/wessberg/cjstoesm)
 
@@ -643,15 +651,40 @@ dep bots:
 
 ### Publishing
 
+> see `#es-modules`
+
+[Blogged Answers: My Experience Modernizing Packages to ESM · Mark's Dev Blog](https://blog.isquaredsoftware.com/2023/08/esm-modernization-lessons/) ❗!important, 2023-08
+
+```json
+{
+  // NOT using `"type": "module"`
+  // NOT using `"exports"`
+  "main": "lib/redux.js", // CommonJS
+  "unpkg": "dist/redux.js", // UMD
+  "module": "es/redux.js", // ESM
+  "files": ["dist", "lib", "es", "src", "index.d.ts"]
+}
+```
+
+[frehner/modern-guide-to-packaging-js-library: A guide to help ensure your JavaScript library is the most compatible, fast, and efficient library you can make.](https://github.com/frehner/modern-guide-to-packaging-js-library)
+[Publish, ship, and install modern JavaScript for faster applications  |  Articles  |  web.dev](https://web.dev/articles/publish-modern-javascript)
+
+[publint](https://publint.dev/)
+[Are The Types Wrong? - Tool for analyzing TypeScript types of npm packages](https://arethetypeswrong.github.io/)
+[arethetypeswrong.github.io/packages/cli at main · arethetypeswrong/arethetypeswrong.github.io · GitHub](https://github.com/arethetypeswrong/arethetypeswrong.github.io/tree/main/packages/cli)
+
 [sindresorhus/np: A better `npm publish`](https://github.com/sindresorhus/np)
 [fastify/releasify: A tool to release in a simpler way your module](https://github.com/fastify/releasify)
-
-[How to Build and Publish ES6 Modules Today, with Babel and Rollup — Medium](https://medium.com/@tarkus/how-to-build-and-publish-es6-modules-today-with-babel-and-rollup-4426d9c7ca71)
 [inikulin/publish-please: Safe and highly functional replacement for `npm publish`.](https://github.com/inikulin/publish-please)
-[What is npm’s prepublish, and why is it so confusing? — Greenkeeper Blog](https://blog.greenkeeper.io/what-is-npm-s-prepublish-and-why-is-it-so-confusing-a948373e6be1#.ec58iaknh)
-[Testing npm packages before publishing - Carl Vitullo - Medium](https://medium.com/@vcarl/problems-with-npm-link-and-an-alternative-4dbdd3e66811)
+[release-it/release-it: 🚀 Automate versioning and package publishing](https://github.com/release-it/release-it)
+[wclr/yalc: Work with yarn/npm packages locally like a boss.](https://github.com/wclr/yalc) local publish, batter than `npm link`
+
+[Publishing Node modules with TypeScript and ES modules - LogRocket Blog](https://blog.logrocket.com/publishing-node-modules-typescript-es-modules/) 2023-05, ESM/CJS chanllenges, RSC challenges
+[egoist/tsup: The simplest and fastest way to bundle your TypeScript libraries.](https://github.com/egoist/tsup)
+
+[How to Build and Publish ES6 Modules Today, with Babel and Rollup — Medium](https://medium.com/@tarkus/how-to-build-and-publish-es6-modules-today-with-babel-and-rollup-4426d9c7ca71) 2016-05
+[What is npm’s prepublish, and why is it so confusing? — Greenkeeper Blog](https://blog.greenkeeper.io/what-is-npm-s-prepublish-and-why-is-it-so-confusing-a948373e6be1#.ec58iaknh) 2015-07
 [Publishing flat npm packages for easier import paths & smaller consumer bundle sizes - David Wells](https://davidwells.io/blog/publishing-flat-npm-packages-for-easier-import-paths-smaller-consumer-bundle-sizes) publish `lib/` or `dist/`
-[Publishing Node modules with TypeScript and ES modules - LogRocket Blog](https://blog.logrocket.com/publishing-node-modules-typescript-es-modules/)
 
 ```sh
 # updates `package.json` and creates an commit

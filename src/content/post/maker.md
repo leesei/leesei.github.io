@@ -2,7 +2,7 @@
 title: Maker
 description: ""
 created: 2018-10-16
-updated: 2023-08-14
+updated: 2023-11-02
 tags:
   - maker
 ---
@@ -11,12 +11,12 @@ tags:
 [Stuff Made Here - YouTube](https://www.youtube.com/@StuffMadeHere)
 [Stuff Made Here 2 - YouTube](https://www.youtube.com/@StuffMadeHere2)
 [PeterSripol - YouTube](https://www.youtube.com/@PeterSripol)
+[Plasma Channel - YouTube](https://www.youtube.com/@PlasmaChannel)
 [OLMMvideo - YouTube](https://www.youtube.com/@OLMMvideo)
 [Xyla Foxlin - YouTube](https://www.youtube.com/@xylafoxlin)
 [Hacksmith Industries - YouTube](https://www.youtube.com/@theHacksmith)
 [How To Make Everything - YouTube](https://www.youtube.com/@htme)
-[Sine Tech - YouTube](https://www.youtube.com/@sinetech19)
-[Hedgehog 刺蝟幫 - YouTube](https://www.youtube.com/@hedgehogTW)
+[Sine Tech - YouTube](https://www.youtube.com/@sinetech19)[Hedgehog 刺蝟幫 - YouTube](https://www.youtube.com/@hedgehogTW)
 [小芊枫 XiaoQianFeng - YouTube](https://www.youtube.com/@Xiaoqianfeng)
 [Owen 来造\_Owen to create - YouTube](https://www.youtube.com/@owen_owentocreate121)
 [hksubwoofer - YouTube](https://www.youtube.com/@hksubwoofer)
@@ -26,6 +26,7 @@ tags:
 
 [Things you can make from old, dead laptops - YouTube](https://www.youtube.com/watch?v=WLP_L7Mgz6M)
 [Transforming dead earbuds into POWERFUL wireless speakers - YouTube](https://www.youtube.com/watch?v=zNHDbXAmY_0)
+[Old pinball machines are amazingly complex - YouTube](https://www.youtube.com/watch?v=ue-1JoJQaEg) pre-digital, electro-mechanical device
 
 [胡搞蝦搞 | 704 卡夫特 矽橡膠 使用 經驗 應用 分享 DIY - YouTube](https://www.youtube.com/watch?v=rDDcJQGJLEI)
 [三秒膠黏到手自救法 快乾有毒你怎麼還在用？【超認真少年】LOCTITE 401 SUPER GLUE - YouTube](https://www.youtube.com/watch?v=oLcHF37QqIQ)
@@ -46,6 +47,15 @@ Clay like when opened, rubber like after one day.
 [塑鋼土\_淘宝搜索](https://search.taobao.com/search?q=%E5%A1%91%E9%8B%BC%E5%9C%9F&commend=all&ssid=s5-e&search_type=item&atype=&filterFineness=)
 [速快干型 AB 塑钢土专业修补防水填坑洞定造型高达模玩具汽车灯改装-淘宝网](https://item.taobao.com/item.htm?id=622337468328) ¥24 320g 2.5hr
 
+## Clay
+
+[Clay - Wikiwand](https://www.wikiwand.com/en/clay)
+[黏土 - Wikiwand](https://www.wikiwand.com/zh-hant/%E9%BB%8F%E5%9C%9F)
+
+[How To Identify Clay in Nature - YouTube](https://www.youtube.com/watch?v=nqiJJDzR3vw)
+[How To Make Clay At Home (It's Just Dirt) - YouTube](https://www.youtube.com/watch?v=ca20JkKFAcE)
+[Tempering Pottery Clay - the Secret to Mixing Wild Clay - YouTube](https://www.youtube.com/watch?v=uZZdLLCO8Iw)
+
 ## 3D Printing
 
 - 熔融沉積成型 FDM
@@ -57,6 +67,7 @@ Clay like when opened, rubber like after one day.
 [Thingiverse - Digital Designs for Physical Objects](https://www.thingiverse.com/)
 [Thangs | Free 3D model community | Geometric Search](https://www.thangs.com/)
 [The World's #1 Magazine for the Digital Maker | All3DP](https://all3dp.com/)
+[3D Models for Free - Free3D.com](https://free3d.com/)
 
 [首頁 - 印核工廠 In Here.](https://inhere3d.com/)
 [The 3D Print General - YouTube](https://www.youtube.com/@3DPrintGeneral)

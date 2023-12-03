@@ -2,7 +2,7 @@
 title: Web Authentication
 description: ""
 created: 2016-01-21
-updated: 2023-08-29
+updated: 2023-10-11
 tags:
   - authentication
   - security
@@ -105,6 +105,12 @@ Use MAC with server nonce instead of send password, allows authentication over n
 [Authenticate users with Netlify Identity | Netlify Docs](https://docs.netlify.com/visitor-access/identity/)
 [netlify/gotrue: An SWT based API for managing users and issuing SWT tokens](https://github.com/netlify/gotrue)
 [Introducing Built-in Identity Service to Streamline User Management | Netlify](https://www.netlify.com/blog/2017/09/07/introducing-built-in-identity-service-to-streamline-user-management/)
+
+### OpenFGA
+
+[Fine Grained Authorization | OpenFGA](https://openfga.dev/)
+[OpenFGA](https://github.com/openfga)
+Based on [Zanzibar](https://research.google/pubs/pub48190/), Google’s Consistent, Global Authorization System
 
 ## Multi-factor Authentication (MFA)
 
@@ -330,6 +336,7 @@ does not to mandate SSL/TLS
 [OAuth.com - OAuth 2.0 Simplified](https://www.oauth.com/)
 [OAuth 2.0 Simplified - A guide to building OAuth 2.0 servers](https://oauth2simplified.com/)
 [OAuth 2.0 Authorization Framework](https://auth0.com/docs/authenticate/protocols/oauth)
+[OAuth2 explained with cute shapes - Back Market Blog](https://engineering.backmarket.com/oauth2-explained-with-cute-shapes-7eae51f20d38)
 
 OAuth Access Key is like a safe key made of ice, good only for a short period.
 Every time the Refresh Key is used, a new (Access Key, Refresh Key) pair is returned. Any reuse of Refresh Key will yield the corresponding Access Key invalid.
@@ -460,6 +467,9 @@ OpenID Connect is build upon OAuth 2.0 (with `openid` and `profile` scope) desig
 [OpenID Connect Client with NodeJS Express - Relinns Technologies](https://www.relinns.com/blog/openid-connect-client-with-nodejs-express/)
 
 [OpenID | hueniverse](http://hueniverse.com/category/openid/)
+
+[Single Sign-On — WorkOS](https://workos.com/single-sign-on)
+[Add Single Sign-On (SSO) to a Node app in 8 MINUTES - YouTube](https://www.youtube.com/watch?v=vlCg1UYl36A)
 
 ### In the Wild
 
@@ -663,6 +673,7 @@ Auth0 is the owner of Node.js `jsonwebtoken` module.
 [Introduction to Active Directory Infrastructure in Windows Server 2012 - YouTube](https://www.youtube.com/watch?v=hxgz7MR7MGQ)
 [Introduction to Active Directory Directory Services Structure in Windows Server 2012 - YouTube](https://www.youtube.com/watch?v=lFwek_OuYZ8)
 
+[Active Directory Security – Active Directory & Enterprise Security, Methods to Secure Active Directory, Attack Methods & Effective Defenses, PowerShell, Tech Notes, & Geek Trivia…](https://adsecurity.org/)
 [Active Directory Deep Dive – Free video tutorials](https://go.veeam.com/learn-active-directory-deep-dive-expert-video-tutorials-ty)
 [Active Directory 101 - YouTube](https://www.youtube.com/watch?v=2hXR0UplTds)
 [Active Directory and virtualization - YouTube](https://www.youtube.com/watch?v=hqiQZp1N-LI)
@@ -671,6 +682,8 @@ Auth0 is the owner of Node.js `jsonwebtoken` module.
 [Taming Kerberos - Computerphile - YouTube](https://www.youtube.com/watch?v=qW361k3-BtU)
 [CertMike Explains Kerberos - YouTube](https://www.youtube.com/watch?v=nUEWp-r-ugc)
 [Kerberos Authentication Explained | A deep dive - YouTube](https://www.youtube.com/watch?v=5N242XcKAsM)
+[Learn Active Directory Kerberoasting - YouTube](https://www.youtube.com/watch?v=tRCvagjqx3c)
+[JohnHammond/active_directory: Notes and resources for the Active Directory YouTube series on https://youtube.com/JohnHammond010](https://github.com/JohnHammond/active_directory)
 
 Hacking Kerberos
 get hash and crack offline

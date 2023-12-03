@@ -2,7 +2,7 @@
 title: AutoHotKey
 description: The ultimate automation scripting language for Windows.
 created: 2023-02-16
-updated: 2023-07-21
+updated: 2023-09-29
 tags:
   - app
   - automation

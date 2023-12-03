@@ -2,7 +2,7 @@
 title: Wifi
 description: ""
 created: 2019-02-25
-updated: 2023-08-14
+updated: 2023-09-29
 tags:
   - comp/hardware
   - wifi
@@ -54,6 +54,15 @@ Wi-Fi 6: 802.11ax (2019)
 
 [The Wi-Fi Market and the genesis of 802.11ax](https://www.arubanetworks.com/assets/wp/WP_802.11AX.pdf) PDF
 [A brief history of Wi-Fi security protocols from “oh my, that’s bad” to WPA3 | Ars Technica](https://arstechnica.com/gadgets/2019/03/802-eleventy-who-goes-there-wpa3-wi-fi-security-and-what-came-before-it/2/)
+
+## Windows
+
+Dump Wifi password:
+
+```ps
+netsh wlan show profile
+netsh wlan show profile name="<SSID>" key=clear | findstr Key
+```
 
 ## Linux
 

@@ -2,7 +2,7 @@
 title: Computers
 description: ""
 created: 2016-10-18
-updated: 2023-08-14
+updated: 2023-11-22
 tags:
   - comp/hardware
 ---
@@ -22,11 +22,10 @@ tags:
   - L=303 H=131 W=45
   - 250W
 - Antec HCG-650 80 Plus Gold $690@2020-06
-- Samsung PM981a MZVLB512HBJQ 512GB (96L TLC 600TBW, 3500R/2900W, 1GB RAM) $485@2020-07
-- ADATA XPG SX8200 Pro 512GB (64L TLC 320TBW, 3500R/2300W, 1GB RAM) @2020-09
-- Uncertain Truth Basic LX300 1TB (64L TLC 600TBW, 2600R/1800W, HBM) ¥359@2022-11
-- 梵想 Fanxiang S500PRO 2TB (128L TLC 1280TBW, 3500R/3150W, HBM) ¥469.25@2023-06
-- M.2 NVMe/SATA to 16x PCI-e adapter ¥9.9@2022-11
+- Samsung PM981a MZVLB512HBJQ 512GB (PCIe 3x4, 96L TLC 600TBW, 3500R/2900W, 1GB RAM) $485@2020-07
+- ADATA XPG SX8200 Pro 512GB (PCIe 3x4, 64L TLC 320TBW, 3500R/2300W, 1GB RAM) @2020-09
+- Uncertain Truth Basic LX300 1TB (PCIe 3x4, 64L TLC 600TBW, 2600R/1800W, HBM) ¥359@2022-11
+- PCIe 4x16 to M.2 NVMe adapter ¥9.9@2022-11
 - WD Blue WD10EZEX 1TB $565@2012-10
 - WD Red WD30EFRX 3TB @2020-06
 - Intel AX200 + Antennae $116@2020-10
@@ -56,7 +55,7 @@ BIOS 1004 2020-08-13
 - Intel Core Comet Lake i7-10510U 4C8T
 - 16GB SK Hynix LPDDR3 2133MT
 - Intel UHD 620
-- Intel® SSD Pro 7600p NVMe SSD 1TB (64 layers 3D2 TLC)
+- Intel® SSD Pro 7600p NVMe SSD 1TB (PCIe 3x4, 64 layers 3D2 TLC)
 - Intel AX200
 - 14" 1920x1080 Low Power IPS 400nits
 - Dolby®Atmos™ Speaker System
@@ -111,8 +110,8 @@ $2800@2023-02 (ex-GPU)
 - ID Cooling IS-40X 4 heat pipe
   - 12015 fan at CHA_FAN header
 - ASRock H610M-ITX/ac
-- AGI AI198 1TB (Intel 64L TLC 500TBW, SM2263XT, 1900R/1600W, HBM) $399@2022-11
-- Intel Wireless AC 9462 Wifi 5 433Mbps (onboard)
+- AGI AI198 1TB (PCIe 3x4, Intel 64L TLC 500TBW, SM2263XT, 1900R/1600W, HBM) $399@2022-11
+- Intel Wireless AC 9462 Wifi 5 433Mbps (onboard, malfunctioned?)
 - GigaByte GeForce GTX 1060 WINDFORCE OC 6G (GV-N1060WF2OC-6GD) $2299@2017-07
 
   - 10 SMM, 40 CU, 1280 CUDA Cores
@@ -136,7 +135,7 @@ $2800@2023-02 (ex-GPU)
 These parts are replaced:
 
 - Colorful 16G 3200MHz CD16G3200D4NZ22 CL22
-- Colorful CN600 512G (Intel TLC 160TBW, 1800R/1500W, HBM)
+- Colorful CN600 512G (PCIe 3x4, Intel TLC 160TBW, 1800R/1500W, HBM)
 
 https://www.userbenchmark.com/UserRun/59456839 before RAM change
 https://www.userbenchmark.com/UserRun/59459570 after RAM change
@@ -155,14 +154,13 @@ https://www.userbenchmark.com/UserRun/59459570 after RAM change
 [Fix NUC8i7BEH overheating - iFixit Repair Guide](https://www.ifixit.com/Guide/Fix+NUC8i7BEH+overheating/131345)
 [4x4-NUC-Fan-Replacement.pdf - Google Drive](https://drive.google.com/file/d/1otCSvWridLursFNo0IlwZxh-5tqDW262/view)
 
-## Work Desktop
+## Work Desktop (😴inactive)
 
 - Intel Core i5-7500 Kabylake 4C4T 3.4GHz
 - ASUS PRIME B250M-A
 - Kingston Hyper-X Fury 2x8GB (KHX2400C15/8G) 2400MT DDR4
 - GTR Micro ATX Case
 - Antec NeoEcoII 550W Micro ATX 80Plus Bronze
-- ADATA Premier Pro SP920SS 256GB
 - ADATA Premier Pro SP920SS 256GB
 - Samsung SSD 860 EVO 250GB
 - Microsoft Surface Ergonomic Keyboard 4000 ¥340 @2021-09
@@ -188,7 +186,7 @@ https://www.userbenchmark.com/UserRun/59459570 after RAM change
 - AMD Ryzen™ 9 4900H 8C16T 3.3GHz
 - 2x8G 3200MT DDR4
 - AMD Radeon™ Graphics Vega 8
-- Kingston OM8PDP3512B-A01 512G
+- Kingston OM8PDP3512B-A01 512G (PCIe 3x4)
 - Intel® Wi-Fi 6 AX201 802.11ax (2x2) and Bluetooth® 5.1
 - Microsoft Surface Ergonomic Keyboard 4000 ¥340 @2021-09
 - Elecom HUGE ¥374 @2017-09
@@ -207,7 +205,7 @@ https://www.userbenchmark.com/UserRun/59459570 after RAM change
 - Samsung 1x32G (M471A4G43AB1-CWE) 3200MT DDR4
 - Intel UHD GT2
 - NVIDIA GeForce GTX 1650Ti (MaxQ with 4GB GDDR6)
-- Toshiba KXG6ZNC1T02 1TB
+- Toshiba KXG6ZNC1T02 1TB (PCIe 3x4)
 - 15.6" 4K OLED Touchscreen HDR500 with Dolby Vision™ (3840 x 2160, 500 nits) True Black
 - 80Wh Battery
 - Lenovo rectangular plugin 135W slim charger
@@ -224,24 +222,60 @@ https://www.userbenchmark.com/UserRun/59459570 after RAM change
 - Samsung NVMe PM951 512GB
 - 15.6" 1920x1080 IPS ???nits
 
+## USB Hubs
+
+- Aceele Type C 3.0x3, Type C，Type C PD, SD reader hub with HDMI ¥63@2023-06
+- 异能者 Type C 3.0x3, Type C PD hub with HDMI ¥73.9@2022-08
+- Type A to 3.0x4 ¥12.3@2022-05
+- Type C to 3.0x4 ¥12.3@2022-04
+- 閃魔 Type A to 3.0x4 ¥35.7@2020-07
+
+## Storage Adaptors
+
+### SATA
+
+- Orico U2139U3 USB 3.0 Mini-B to 2.5" SATA adapter ¥26.9@2022-06
+  JMS578
+  Crucial MX300 1TB (TLC 360TBW, 1GB RAM) SATA $588@2019-07
+- USB 3.0 Type C to 2.5" SATA adapter ¥21@2023-07
+  RTL9201R
+  Samsung EVO 850 250G SATA
+- USB 3.0 Mini-B to mSATA adapter ¥24.1@2019-12
+  JMS578
+  ADATA_IXM35-128GM
+  ventoy
+
+- Orico U6218US3 USB 3.0 to 3.5" SATA dock ¥75.4@2020-11
+
+- WD AV-GP WD20EURS 2TB $739@2013-06
+  Anime Archive, Movie Archive, Documentaries Archive
+- HGST 4TB ¥215@2023-07
+  Emulation Archive
+- ADATA Premier Pro SP920SS 256GB? $735@2015-07
+
+### M.2 NVMe
+
+- Lexar E6 M.2 NVM-e to 10Gbps USB-C case + Colorful CN600? 1T ¥342@2022-12
+  RTL9210B PCIe Gen3x2
+  Steam games
+- Coolfish M.2 NVM-e/NGFF to 10Gbps USB-C case ¥61.1@2022-11
+  RTL9210B-CG PCIe Gen3x2
+  Colorful CN600 512G (PCIe 3x4, Intel TLC 160TBW, 1800R/1500W, HBM) (350MB, latency 150-400ms)
+  Emulation
+- M.2 NVM-e to 10Gbps USB-C case 黑單線¥39.8@2023-07 銀雙線¥42.9@2023-07
+  JMS583 PCIe Gen3x2
+
+- PCIe 4x8 to 2 M.2 NVMe adapter ¥39@2022-12
+- PCIe 4x1 to M.2 NVMe adapter ¥11@2023-09
+- PCIe 4x1 to 2 M.2 NVMe adapter ¥11@2023-09
+
+- 梵想 Fanxiang S500PRO 2TB (PCIe 4x4, 128L TLC 1280TBW, 3500R/3150W, HBM) ¥469.25@2023-06
+
 ## Stock
 
 - [Samsung LA22C360E1M](https://www.samsung.com/hk/support/model/LA22C360E1MXZK/) monitor
 - Colorful 16G 3200MHz CD16G3200D4NZ22 CL22
 - Wraith Prism with RGB LED
-- WD AV-GP WD20EURS 2TB $739@2013-06
-  Anime Archive, Movie Archive
-- HGST 4TB ¥215@2023-07
-  Emulation Archive
-- Crucial MX300 1TB (TLC 360TBW, 1GB RAM) SATA $588@2022-06
-- Samsung EVO 850 SATA?
-- ADATA Premier Pro SP920SS 256GB? $735@2015-07
-- Colorful CN600 512G (Intel TLC 160TBW, 1800R/1500W, HBM)
-  NVM-e to USB-C case
-- Colorful? 1T M2 SSD ¥342@2022-12
-  Lexar NVM-e to USB-C case
-  Steam games
-- 2 M.2 NVMe/SATA to 16x PCI-e adapter ¥39@2022-12
 
 ---
 

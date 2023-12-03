@@ -2,6 +2,7 @@
 title: Naruto
 description: ""
 created: 2018-06-21
+updated: 2023-10-05
 tags:
   - anime
   - naruto
@@ -76,6 +77,8 @@ tags:
 [火影忍者 SD 李洛克的青春全力忍传\_百度百科](https://baike.baidu.com/item/火影忍者SD%20李洛克的青春全力忍传)
 [テレビ東京・あにてれ　 NARUTO-ナルト- SD ロック・リーの青春フルパワー忍伝 もういっちょ](http://www.tv-tokyo.co.jp/anime/lee/index2.html) S1
 [テレビ東京・あにてれ　 NARUTO-ナルト- SD ロック・リーの青春フルパワー忍伝](http://www.tv-tokyo.co.jp/anime/lee2012/episodes/episodes02/index.html) S2
+
+[嘔心瀝血100天制作，堪比火影續作，鳴人回到過去開啟二周目的人生，不一樣的劇情，一樣的熱血和感動 - YouTube](https://www.youtube.com/watch?v=-cpmqdeE9zI) 同人
 
 ## 劇場版
 

@@ -2,7 +2,7 @@
 title: Mixed Reality
 description: ""
 created: 2015-07-14
-updated: 2023-07-28
+updated: 2023-11-16
 tags:
   - augmented-reality
   - comp/hardware
@@ -183,6 +183,8 @@ Pattern (picture) marker:
 
 # Headmount Display Headsets
 
+[科幻电影里的高科技眼镜来了 - YouTube](https://www.youtube.com/watch?v=by6EMFkJVto) 1:06:47, history and prediction
+
 [未来十年是 AR 可能替代手机 - YouTube](https://www.youtube.com/watch?v=fpO2sHQPTCM)
 
 - 全能型
@@ -346,7 +348,7 @@ Outside-in position detection
 
 ## Google Cardbard/Daydream
 
-![](/_assets/mixed-reality/google-vr.jpg)
+![](./_assets/mixed-reality/google-vr.jpg)
 
 [【亦】白菜价 VR！自制低成本 VR 方案，竟然很靠谱？ - YouTube](https://www.youtube.com/watch?v=EEoJGdNZhfo) in 2021
 

@@ -2,6 +2,7 @@
 title: Espressif (ESP)
 description: ""
 created: 2018-10-20
+updated: 2023-09-29
 tags:
   - esp-c3
   - esp32

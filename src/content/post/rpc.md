@@ -2,6 +2,7 @@
 title: Remote Procedure Call (RPC)
 description: ""
 created: 2018-08-02
+updated: 2023-09-29
 tags:
   - comp/lang
   - rpc
@@ -70,11 +71,11 @@ A high performance, open source, general RPC framework that puts mobile and HTTP
 [Heres why you should use gRPC for everything » André Snede Kock](https://snede.net/heres-why-you-should-use-grpc-for-everything/)
 [Build simple gRPC server with Go. What is grpc | by Anar | Jan, 2022 | Towards Dev](https://towardsdev.com/build-simple-grpc-server-with-golang-7bc8bd11f5de)
 
-[gRPC Crash Course - Modes, Examples, Pros & Cons and more - YouTube](https://www.youtube.com/watch?v=Yw4rkaTc0f8) Node.js
-[Intro to gRPC: A Modern Toolkit for Microservice Communication - YouTube](https://www.youtube.com/watch?v=RoXT_Rkg8LA)
-[Introduction to gRPC: A general RPC framework that puts mobile and HTTP/2 first (M.Atamel, R.Tsang) - YouTube](https://www.youtube.com/watch?v=hNFM2pDGwKI)
-[Exploring The gRPC Framework for Building Microservices | Nordic APIs |](https://nordicapis.com/exploring-the-grpc-framework-for-building-microservices/)
+[gRPC Crash Course - Modes, Examples, Pros & Cons and more - YouTube](https://www.youtube.com/watch?v=Yw4rkaTc0f8) 2020-02 Node.js
+[Intro to gRPC: A Modern Toolkit for Microservice Communication - YouTube](https://www.youtube.com/watch?v=RoXT_Rkg8LA) 2017-05
+[Introduction to gRPC: A general RPC framework that puts mobile and HTTP/2 first (M.Atamel, R.Tsang) - YouTube](https://www.youtube.com/watch?v=hNFM2pDGwKI) 2017-06
 
+[Exploring The gRPC Framework for Building Microservices | Nordic APIs |](https://nordicapis.com/exploring-the-grpc-framework-for-building-microservices/)
 [Effectively communicate between Microservices – ITNEXT](https://itnext.io/effectively-communicate-between-microservices-de7252ba2f3c) TL;DR: Use gRPC
 [Tensorflow serving: REST vs gRPC – Avidan Eran – Medium](https://medium.com/@avidaneran/tensorflow-serving-rest-vs-grpc-e8cef9d4ff62) REST is faster for small data payload
 

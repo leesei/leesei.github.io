@@ -2,6 +2,7 @@
 title: DNS
 description: ""
 created: 2015-07-25
+updated: 2023-09-29
 tags:
   - web
 ---

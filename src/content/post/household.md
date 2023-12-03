@@ -2,7 +2,7 @@
 title: Household
 description: ""
 created: 2018-07-05
-updated: 2023-07-10
+updated: 2023-09-29
 tags:
   - household
 ---

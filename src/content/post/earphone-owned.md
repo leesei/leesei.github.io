@@ -2,6 +2,7 @@
 title: Earphone Owned
 description: ""
 created: 2023-06-15
+updated: 2023-09-29
 tags:
   - bluetooth
   - comp/hardware
@@ -46,11 +47,26 @@ Impedance:
 Sensitivity:
 S/N Ratio:
 Profiles: Bluetooth 5.3;
-IP66
+IPX7
 双动圈
 
-[2023 新款蓝牙耳机真无线入耳式降噪正品游戏电竞适用华为苹果小米-tmall.com 天猫](https://detail.tmall.com/item.htm?id=708020605855) ¥35.16
+[2023 新款蓝牙耳机真无线入耳式降噪正品游戏电竞适用华为苹果小米-tmall.com 天猫](https://detail.tmall.com/item.htm?id=708020605855) ¥35.16@2023-06
 [2023 新款蓝牙耳机真无线入耳式降噪正品游戏电竞适用华为苹果小米](https://buyertrade.taobao.com/trade/detail/tradeSnap.htm?spm=a1z09.2.0.0.21a12e8dyfFsqU&tradeID=1911777134465144593&snapShot=true)
+
+## MPOW X3
+
+Press and hold right bud to toggle ANC
+IPX8
+
+BES2300
+
+[ANC主动降噪 同mpow X3 原装 tws真无线 蓝牙耳机入耳式 运动无线-淘宝网](https://item.taobao.com/item.htm?id=652713019840) ¥59@2022-06
+[ANC主动降噪 同mpow X3 原装 tws真无线 蓝牙耳机入耳式 运动无线](https://buyertrade.taobao.com/trade/detail/tradeSnap.htm?spm=a1z09.2.0.0.69432e8dGQWtL2&tradeID=1593298023712144593&snapShot=true)
+
+## Viixm (V8)
+
+[日本Viixm全金属太空舱 络达5.0真无线蓝牙耳机耳塞 做工音质俱佳-淘宝网](https://item.taobao.com/item.htm?id=671677121599) ¥39.99@2022-06
+[日本Viixm全金属太空舱 络达5.0真无线蓝牙耳机耳塞 做工音质俱佳](https://buyertrade.taobao.com/trade/detail/tradeSnap.htm?spm=a1z09.2.0.0.69432e8dGQWtL2&tradeID=1593298023711144593&snapShot=true)
 
 ## boAt
 
@@ -131,6 +147,23 @@ Specialized App
 [小米降噪项圈蓝牙耳机套耳帽颈挂式挂脖入耳式蓝牙硅胶耳塞套皮套-淘宝网](https://item.taobao.com/item.htm?id=620382202870)
 
 [小米蓝牙耳机项圈耳机运动跑步入耳式挂脖式降噪无线篮牙耳塞-tmall.com 天猫](https://detail.tmall.com/item.htm?id=718210075437&skuId=5006880840770) ¥99 青春版, no ANC
+
+## realme Buds Wireless 2
+
+Driver: 13.6mm
+Impedance:
+Sensitivity:
+S/N Ratio:
+Profiles: Bluetooth 5.0; A2DP, AVRCP, HFP
+Codec: SBC, AAC, LDAC
+Battery: 135mAh
+ANC:
+IP Rating: IPX5
+
+¥123@2022-06
+Specialized App
+
+[realme 真我Buds Wireless 2 立即购买-realme真我官方商城](https://www.realme.com/realme-buds-wireless-2)
 
 ---
 

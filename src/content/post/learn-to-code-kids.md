@@ -2,7 +2,7 @@
 title: Learn to code (Kids)
 description: ""
 created: 2014-12-08
-updated: 2023-08-13
+updated: 2023-10-13
 tags:
   - comp/lang
   - learning
@@ -132,6 +132,7 @@ Learn how to code for kids
 [Scratch Programming - YouTube](https://www.youtube.com/playlist?list=PL0-84-yl1fUkall6a14nqzXpG79-RgI1F)
 [Scratch Game Programming for Young Adults | Udemy](https://www.udemy.com/scratch-game-programming/?couponCode=INVENT_WITH_SCRATCH)
 [進學國小資訊組 - Scratch 線上版課程教案整理](https://class.tn.edu.tw/modules/tad_web/news.php?WebID=1384&NewsID=12353)
+[Froggy Volley on Scratch](https://scratch.mit.edu/projects/889686144/)
 
 [ScratchX](https://scratchx.org/) Experimental Extensions to Scratch
 micro:bit, Ardiono, ...
@@ -148,6 +149,7 @@ micro:bit, Ardiono, ...
 [Blockly Games](https://blockly-games.appspot.com/)
 
 [Snap! (Build Your Own Blocks)](https://snap.berkeley.edu/)
+[Snap! 9.0.7](https://snap.berkeley.edu/snap/snap.html)
 [Snap! (programming language) - Scratch Wiki](<https://en.scratch-wiki.info/wiki/Snap!_(programming_language)>)
 
 ### Extensions
@@ -442,6 +444,14 @@ They're both fibers. `inBackground()` have a `fiberDone` callback for clean up a
 [ubermix Home](http://www.ubermix.org/)
 [Sugar Labs](https://www.sugarlabs.org/)
 
+## Typing
+
+[【社长说82】《金山打字通》的背后，是近半个世纪的打字发展史 #金山打字通 - YouTube](https://www.youtube.com/watch?v=Ihk-xWgS2hI)
+
+[Learn Touch Typing Free - TypingClub](https://www.typingclub.com/)
+[Learn Typing](https://www.learntyping.org/)
+[Typing Lessons - Learn To Type And Improve Typing Speed Free - Typing.com](https://www.typing.com/student/lessons)
+
 ## CS w/o computer
 
 [The Changelog #302: Computer Science without a computer featuring Tim Bell | News and podcasts for developers | Changelog](https://changelog.com/podcast/302)
@@ -463,9 +473,13 @@ They're both fibers. `inBackground()` have a `fiberDone` callback for clean up a
 [Microsoft MakeCode Arcade](https://arcade.makecode.com/)
 [Arcade Documentation - Microsoft MakeCode](https://arcade.makecode.com/docs)
 [MakeCode Arcade: Retro Gaming, Modern Programming - Microsoft MakeCode](https://makecode.com/blog/arcade/01-18-2019)
+[Making A Game Using Microsoft MakeCode Arcade Tutorial](https://gamefromscratch.com/making-a-game-using-microsoft-makecode-arcade-tutorial/)
 [What is MakeCode Arcade? | MakeCode Arcade with Raspberry Pi Zero | Adafruit Learning System](https://learn.adafruit.com/makecode-arcade-with-raspberry-pi-zero?view=all)
 
 [microStudio - Game Engine](https://microstudio.dev/)
+[microStudio Game Engine Hands-On – GameFromScratch.com](https://gamefromscratch.com/microstudio-game-engine-hands-on/)
+
+[PICO-8 Fantasy Console](https://www.lexaloffle.com/pico-8.php)
 
 [CodeCombat - Learn how to code by playing a game](https://codecombat.com/) multiple languages
 [Code Avengers](https://www.codeavengers.com/)
@@ -501,8 +515,8 @@ They're both fibers. `inBackground()` have a `fiberDone` callback for clean up a
 [Minecraft - Wikiwand](http://www.wikiwand.com/en/Minecraft)
 [Official site | Minecraft](https://minecraft.net/en-us/)
 [Official Minecraft Wiki – The Ultimate Resource for Minecraft](https://minecraft.gamepedia.com/Minecraft_Wiki)
-[Java Edition – Official Minecraft Wiki](https://minecraft.gamepedia.com/Java_Edition)
-[Bedrock Edition – Official Minecraft Wiki](https://minecraft.gamepedia.com/Bedrock_Edition)
+[Java Edition – Official Minecraft Wiki](https://minecraft.fandom.com/Java_Edition)
+[Bedrock Edition – Official Minecraft Wiki](https://minecraft.fandom.com/Bedrock_Edition)
 
 [Minecraft Bedrock Edition: Download guide for PC, system requirements and more](https://www.sportskeeda.com/amp/esports/minecraft-bedrock-edition-download-guide-pc-system-requirements)
 
@@ -524,6 +538,14 @@ Server administration is difficult
 
 [Coding with Minecraft](https://turtleappstore.com/book/)
 
+[Why Do These Minecraft YouTubers Look The Same? - YouTube](https://www.youtube.com/watch?v=FkO-BxZLeFU)
+
+#### Modding/Skin
+
+[Downloads for Minecraft Forge for Minecraft 1.20.1](https://files.minecraftforge.net/net/minecraftforge/forge/)
+[Forge Documentation](https://docs.minecraftforge.net/en/latest/)
+
+[Minecraft Skins | Best MC Skins | SkinsMC](https://skinsmc.org/)
 [Minecraft PE Mods, Maps, Skins, Seeds, Texture Packs | MCPE DL](https://mcpedl.com/)
 
 #### Minecraft: Pi Edition

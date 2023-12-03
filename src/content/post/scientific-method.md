@@ -2,7 +2,7 @@
 title: Scientific Method
 description: ""
 created: 2015-12-11
-updated: 2023-08-11
+updated: 2023-10-16
 tags:
   - science
 ---
@@ -22,6 +22,7 @@ Most research population are WEIRD - Western, Educated and from Industrialized, 
 
 [Preprints - The Multidisciplinary Preprint Platform](https://www.preprints.org/)
 [arXiv.org e-Print archive](https://arxiv.org/)
+[MDPI - Publisher of Open Access Journals](https://www.mdpi.com/)
 [Home :: SSRN](https://www.ssrn.com/index.cfm/en/)
 [Papers We Love](https://paperswelove.org/)
 [Papers With Code : the latest in machine learning](https://paperswithcode.com/)
@@ -48,11 +49,18 @@ Western studies usually targets WEIRD (Western, educated, industrialized, rich a
 [Psychology is in a replication crisis. The Psychological Science Accelerator is trying to fix it. - Vox](https://www.vox.com/science-and-health/22360363/replication-crisis-psychological-science-accelerator)
 [Solving the replication crisis by replicating less | Behavioural and Social Sciences at Nature Research](https://socialsciences.nature.com/posts/58467-solving-the-replication-crisis-by-replicating-less-and-publishing-more-studies-that-may-not-replicate)
 
+[How much Fraud is there in Psychology? - YouTube](https://www.youtube.com/watch?v=8EtcNV4ZrZc)
+[The Perfect Crime - Scientific Fraud in America - YouTube](https://www.youtube.com/watch?v=FfzlS5vS314)
+[Academia is BROKEN! - Harvard Fake Data Scandal Explained - YouTube](https://www.youtube.com/watch?v=d2Tm3Yx4HWI)
+[Why Science Fraud Goes Deeper Than the Stanford Scandal... - YouTube](https://www.youtube.com/watch?v=2mWwXO_guHk)
+[The scandal that shook psychology to its core - YouTube](https://www.youtube.com/watch?v=QGWeVbYduOI)
+
+[The Replication Crisis in Psychology - YouTube](https://www.youtube.com/watch?v=Qia-McaUSY8)
+[How much Fraud is there in Psychology? - YouTube](https://www.youtube.com/watch?v=8EtcNV4ZrZc)
+
 [Why Most Published Research Findings Are False - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182327/)
 [Is Most Published Research Wrong? - Wakelet](https://wakelet.com/wake/35a80e1c-0033-4db1-a5c1-28337f57d75b)
 [Is Most Published Research Wrong? - YouTube](https://www.youtube.com/watch?v=42QuXLucH3Q) p-hacking
-
-[Academia is BROKEN! - Harvard Fake Data Scandal Explained - YouTube](https://www.youtube.com/watch?v=d2Tm3Yx4HWI)
 
 ## Graphene
 

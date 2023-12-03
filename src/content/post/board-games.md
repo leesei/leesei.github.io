@@ -2,12 +2,13 @@
 title: Board Games
 description: ""
 created: 2018-01-03
+updated: 2023-10-03
 tags:
   - boardgame
   - games
 ---
 
-[PBS Game/Show - YouTube](https://www.youtube.com/channel/UCr_2H8pPitVJ85bmpLwFUyQ)
+[PBS Game/Show - YouTube](https://www.youtube.com/@pbsgameshow)
 [桌遊港 BG Port HK - Hong Kong Boardgame Channel - YouTube](https://www.youtube.com/channel/UCOLemwSfpB8uC7mtAhJT2Yw)
 
 [Best app-assisted board games | Dicebreaker](https://www.dicebreaker.com/topics/app-assisted-board-games/best-games/best-app-assisted-board-games)
@@ -31,6 +32,12 @@ tags:
 
 [The Legend of Zelda: Reclaim the Wild – A Zelda Tabletop Roleplaying Game System](https://reclaimthewild.net/)
 
+[Critical Role - YouTube](https://www.youtube.com/@criticalrole)
+
+[High Rollers DnD - YouTube](https://www.youtube.com/@HighRollersDnD)
+[Baldur's Gate 3 Cast Play D&D - YouTube](https://www.youtube.com/playlist?list=PLHv5CBoZYv4VQSb6e64P4e4gUXrgNsgq5)
+
+[Viva La Dirt League D&D - YouTube](https://www.youtube.com/@VivaLaDirtLeagueDnD)
 [NPC D&D - Entire campaign - 'Adventures of Azerim' - YouTube](https://www.youtube.com/playlist?list=PL8UrCqt275jEBJ07mm2FoTWTZiU4rhCQA)
 
 ## Monopoly

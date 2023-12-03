@@ -2,6 +2,7 @@
 title: .NET Runtime
 description: ""
 created: 2023-04-18
+updated: 2023-09-29
 tags:
   - c-sharp
   - c-sharp/runtime

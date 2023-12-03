@@ -2,6 +2,7 @@
 title: d3.js
 description: ""
 created: 2016-04-08
+updated: 2023-11-10
 tags:
   - d3-js
   - web
@@ -68,6 +69,8 @@ tags:
 [Using D3.js with React: A complete guide - LogRocket Blog](https://blog.logrocket.com/data-visualization-in-react-using-react-d3-c35835af16d0/)
 
 [Home | nivo](https://nivo.rocks/)
+
+[Recharts](https://recharts.org/en-US/)
 
 [Victory | Home](https://formidable.com/open-source/victory/)
 [FormidableLabs/victory: A collection of composable React components for building interactive data visualizations](https://github.com/FormidableLabs/victory)

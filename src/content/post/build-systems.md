@@ -2,6 +2,7 @@
 title: Build Systems
 description: ""
 created: 2015-06-11
+updated: 2023-10-22
 tags:
   - bazel
   - buck
@@ -82,6 +83,13 @@ Examples:
 
 - [GHC](https://ghc.haskell.org/trac/ghc/wiki/Building/Architecture/Idiom/NonRecursiveMake) (Haskell compiler)
 - Android [1](http://www.netmite.com/android/mydroid/development/pdk/docs/build_system.html) [2](http://elinux.org/Android_Build_System) [3](http://www.programering.com/a/MDN5EDNwATM.html) [4](https://docs.google.com/document/d/1jDmWgVgorTY_njX68juH5vt0KY_FXWgxkxmi2v_W_a4/edit)
+
+## Task
+
+> Task is a task runner / build tool that aims to be simpler and easier to use than, for example, GNU Make.
+
+[Home | Task](https://taskfile.dev/)
+[go-task/task: A task runner / simpler Make alternative written in Go](https://github.com/go-task/task)
 
 ## Pants
 

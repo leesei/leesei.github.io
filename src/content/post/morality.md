@@ -2,6 +2,7 @@
 title: Morality
 description: ""
 created: 2015-10-09
+updated: 2023-09-29
 tags:
   - economics
   - philosophy

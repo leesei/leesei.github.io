@@ -2,6 +2,7 @@
 title: Steam Deck
 description: ""
 created: 2022-01-12
+updated: 2023-10-22
 tags:
   - comp/hardware
   - mobile
@@ -32,6 +33,8 @@ Hardware:
 
 [Steam Deck HQ](https://steamdeckhq.com/)
 [SDHQ - YouTube](https://www.youtube.com/@SDHQ)
+
+[overkill.wtf | Steam Deck news, reviews and more](https://overkill.wtf/)
 
 Gaming On Linux
 [Steam Deck Guides - YouTube](https://www.youtube.com/playlist?list=PLRikbCj_P-2Ghffnr_MPIGI3BcU2WfypW)

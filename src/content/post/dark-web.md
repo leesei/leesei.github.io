@@ -2,6 +2,7 @@
 title: Dark Web
 description: ""
 created: 2023-03-06
+updated: 2023-10-12
 tags:
   - security
   - web
@@ -24,3 +25,7 @@ tags:
 
 [Full Documentary: Dark Web - YouTube](https://www.youtube.com/watch?v=cL3pEe47qyk)
 [Dark Web - Security | iamLucid - YouTube](https://www.youtube.com/playlist?list=PLVybQEgltqsJ2Jwh1xDEbilndy2s8t4Qe)
+
+[Tor Project | Set up Your Onion Service](https://community.torproject.org/onion-services/setup/)
+[Generating a Vanity Address for Version 3 Onions | www.bentasker.co.uk](https://www.bentasker.co.uk/posts/documentation/linux/708-generating-a-vanity-address-for-version-3-onions.html)
+[Create Your Own Dark Web Website - YouTube](https://www.youtube.com/watch?v=YXoS8wd1DJo)

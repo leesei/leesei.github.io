@@ -2,6 +2,7 @@
 title: Raspberry Pi
 description: ""
 created: 2018-09-12
+updated: 2023-11-26
 tags:
   - iot
   - maker
@@ -9,67 +10,72 @@ tags:
   - rpi
 ---
 
-> on Rasp Pi 3, 4 and on
-
-[Inside the Raspberry Pi: The story of the \$35 computer that changed the world - TechRepublic](https://www.techrepublic.com/article/inside-the-raspberry-pi-the-story-of-the-35-computer-that-changed-the-world/)
-
 [Raspberry Pi - Teach, Learn, and Make with Raspberry Pi](https://www.raspberrypi.org/)
 [Raspberry Pi Documentation](https://www.raspberrypi.com/documentation/)
-[Raspberry Pi Documentation - Raspberry Pi Hardware](https://www.raspberrypi.com/documentation/computers/raspberry-pi.html)
 [utils/raspinfo at master · raspberrypi/utils](https://github.com/raspberrypi/utils/blob/master/raspinfo/raspinfo)
 [Raspberry Pi OS – Raspberry Pi](https://www.raspberrypi.com/software/)
+
+[Inside the Raspberry Pi: The story of the \$35 computer that changed the world - TechRepublic](https://www.techrepublic.com/article/inside-the-raspberry-pi-the-story-of-the-35-computer-that-changed-the-world/)
 
 [The MagPi magazine](https://magpi.raspberrypi.com/)
 [Beginner's Guide v2 — The MagPi magazine](https://magpi.raspberrypi.com/books/beginners-guide-2nd-ed)
 [Hello World](https://helloworld.raspberrypi.org/) magazine for educators
 [Custom PC magazine](https://custompc.raspberrypi.com/)
 [Online training - Raspberry Pi](https://www.raspberrypi.org/training/online/)
+[Kolban's Book on the Raspberry… by Neil Kolban [PDF/iPad/Kindle]](https://leanpub.com/pi)
+[RasPi.TV – Raspberry Pi, Electronics & Making](https://raspi.tv/)
 
 [thibmaek/awesome-raspberry-pi: 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources](https://github.com/thibmaek/awesome-raspberry-pi)
 [RPi Hub - eLinux.org](https://elinux.org/RPi_Hub)
-[Kolban's Book on the Raspberry… by Neil Kolban [PDF/iPad/Kindle]](https://leanpub.com/pi)
 [Raspberry Pi: The Unofficial Tutorial](https://www.makeuseof.com/tag/great-things-small-package-your-unofficial-raspberry-pi-manual/)
 [Inside the Raspberry Pi: The story of the \$35 computer that changed the world - TechRepublic](https://www.techrepublic.com/article/inside-the-raspberry-pi-the-story-of-the-35-computer-that-changed-the-world/)
 [Lifehacker's Complete Guide to Raspberry Pi](https://lifehacker.com/s/raspberrypiguide)
 [The Always-Up-to-Date Guide to Setting Up Your Raspberry Pi](https://lifehacker.com/the-always-up-to-date-guide-to-setting-up-your-raspberr-1781419054)
 [ARM/RaspberryPi - Ubuntu Wiki](https://wiki.ubuntu.com/ARM/RaspberryPi#Packages)
 
-[RasPi.TV – Raspberry Pi, Electronics & Making](https://raspi.tv/)
-
 [Why Every Tech Geek Should Own a Raspberry Pi](https://www.tomshardware.com/news/why-own-raspberry-pi,38809.html)
 
 [Setting up your Raspberry Pi - Introduction | Raspberry Pi Projects](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up)
-[Setting up your Raspberry Pi - Introduction | Raspberry Pi Projects](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up)
 [How to Set Up a Raspberry Pi for the First Time](https://www.tomshardware.com/reviews/raspberry-pi-set-up-how-to,6029.html)
 [How to Quickly Setup a Raspberry Pi 4 with Ubuntu 20.04 or 20.10](https://www.cloudsavvyit.com/7727/how-to-quickly-setup-a-raspberry-pi-4-with-ubuntu-20-04-or-20-10/amp/)
-
-[Give Your Raspberry Pi SD Card a Break: Log to RAM | Hackaday](https://hackaday.com/2019/04/08/3give-your-raspberry-pi-sd-card-a-break-log-to-ram/)
-[Log2Ram: Extending SD Card Lifetime for Raspberry Pi LoRaWAN Gateway | MCU on Eclipse](https://mcuoneclipse.com/2019/04/01/log2ram-extending-sd-card-lifetime-for-raspberry-pi-lorawan-gateway/)
 
 [Python Programming Tutorial: Getting Started with the Raspberry Pi - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/python-programming-tutorial-getting-started-with-the-raspberry-pi/configure-your-pi)
 [How to Set Up a Headless Raspberry Pi, No Monitor Needed | Tom's Hardware](https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html)
 
 [Headless Raspberry Pi Setup - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/headless-raspberry-pi-setup)
 [Ansible Playbook to create a minimal headless raspberry pi – Stineblog](http://www.stinebaugh.info/ansible-playbook-to-create-a-minimal-headless-raspberry-pi/)
+
 [PiBakery - The blocks based, easy to use setup tool for Raspberry Pi](https://www.pibakery.org/)
 [Configure Your Raspberry Pi Installation With PiBakery](https://www.makeuseof.com/tag/configure-raspberry-pi-installation-pibakery/)
 
 [Raspberry Pi And The IoT In C](https://www.iot-programmer.com/index.php/books/17-raspberry-pi-and-the-iot-in-c)
 [9 Best Pi Programming Resources to Put Your Raspberry Pi to Use](https://www.makeuseof.com/tag/best-raspberry-pi-programming-resources/)
-
-ExplainingComputers:
-[Raspberry Pi 3 - YouTube](https://www.youtube.com/playlist?list=PL2m2YvnrOYxKWlCkoSZXfkLtgDAMev9oN)
-[Raspberry Pi 3 Model B+ - YouTube](https://www.youtube.com/playlist?list=PL2m2YvnrOYxIABPXD2YY-ilcy_quyyEbT)
-[Raspberry Pi 4 Model B - YouTube](https://www.youtube.com/watch?v=CXCjpJasvG0)
-[Raspberry Pi Robotics - YouTube](https://www.youtube.com/playlist?list=PL2m2YvnrOYxLOZG0TGQgm9LAEYuvaglzY)
-
-[Raspberry Pi 4 Benchmarks: Processor And Network Performance Makes It A Real Desktop Contender | Hackaday](https://hackaday.com/2019/07/10/raspberry-pi-4-benchmarks-processor-and-network-performance-makes-it-a-real-desktop-contender/)
-[Benchmarked: Raspberry Pi 4 Hits 2 GHz with New Firmware - Tom's Hardware](https://www.tomshardware.com/reviews/raspberry-pi-4-overclock-2-ghz,6254.html)
+[Raspberry Pi Robotics - YouTube](https://www.youtube.com/playlist?list=PL2m2YvnrOYxLOZG0TGQgm9LAEYuvaglzY) ExplainingComputers
 
 [Robotics and the Raspberry Pi - sentdex - YouTube](https://www.youtube.com/user/sentdex/playlists?sort=dd&view=50&shelf_id=20)
 [Robotics with Python Raspberry Pi and GoPiGo - YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcG4wbhhCv_XTnexvWfjlBy)
 
-##
+## Hardware
+
+[Raspberry Pi Documentation - Raspberry Pi Hardware](https://www.raspberrypi.com/documentation/computers/raspberry-pi.html)
+
+### RPi 3
+
+ExplainingComputers:
+[Raspberry Pi 3 - YouTube](https://www.youtube.com/playlist?list=PL2m2YvnrOYxKWlCkoSZXfkLtgDAMev9oN)
+[Raspberry Pi 3 Model B+ - YouTube](https://www.youtube.com/playlist?list=PL2m2YvnrOYxIABPXD2YY-ilcy_quyyEbT)
+
+### RPi 4
+
+[Raspberry Pi 4 Model B - YouTube](https://www.youtube.com/watch?v=CXCjpJasvG0) ExplainingComputers
+
+[Raspberry Pi 4 Benchmarks: Processor And Network Performance Makes It A Real Desktop Contender | Hackaday](https://hackaday.com/2019/07/10/raspberry-pi-4-benchmarks-processor-and-network-performance-makes-it-a-real-desktop-contender/)
+[Benchmarked: Raspberry Pi 4 Hits 2 GHz with New Firmware - Tom's Hardware](https://www.tomshardware.com/reviews/raspberry-pi-4-overclock-2-ghz,6254.html)
+
+### RPi 5
+
+[Raspberry Pi 5: EVERYTHING you need to know - YouTube](https://www.youtube.com/watch?v=nBtOEmUqASQ)
+[Raspberry Pi 5 - YouTube](https://www.youtube.com/watch?v=9hYfQ7bRgZg)
 
 ## updating
 
@@ -132,6 +138,11 @@ USB boot mode is stored on chip
 [How to Boot Raspberry Pi 4 From a USB SSD or Flash Drive | Tom's Hardware](https://www.tomshardware.com/how-to/boot-raspberry-pi-4-usb)
 [raspberrypi/rpi-eeprom: This repository contains the scripts and pre-compiled binaries used to create the rpi-eeprom package which is used to update the Raspberry Pi4 bootloader EEPROM.](https://github.com/raspberrypi/rpi-eeprom)
 [I'm booting my Raspberry Pi 4 from a USB SSD | Jeff Geerling](https://www.jeffgeerling.com/blog/2020/im-booting-my-raspberry-pi-4-usb-ssd)
+
+## Log2Ram
+
+[Give Your Raspberry Pi SD Card a Break: Log to RAM | Hackaday](https://hackaday.com/2019/04/08/3give-your-raspberry-pi-sd-card-a-break-log-to-ram/)
+[Log2Ram: Extending SD Card Lifetime for Raspberry Pi LoRaWAN Gateway | MCU on Eclipse](https://mcuoneclipse.com/2019/04/01/log2ram-extending-sd-card-lifetime-for-raspberry-pi-lorawan-gateway/)
 
 ## RPiconfig
 
@@ -410,7 +421,23 @@ omxplayer -o hdmi video.h264 # plaback video
 [How to Live Stream to YouTube With a Raspberry Pi](https://www.makeuseof.com/tag/live-stream-youtube-raspberry-pi/)
 [Node-RED Raspberry Pi Camera (Take Photos) | Random Nerd Tutorials](https://randomnerdtutorials.com/node-red-with-raspberry-pi-camera-take-photos/)
 
-## SBC
+## KVM
+
+[Control ANY COMPUTER with these Pi KVMs! - YouTube](https://www.youtube.com/watch?v=TIrkEr2AeDY)
+[IPMI and Remote Management for Any Motherboard! PiKVM - YouTube](https://www.youtube.com/watch?v=BpKcqLcApTQ)
+
+[PiKVM - Open and inexpensive DIY IP-KVM on Raspberry Pi](https://pikvm.org/)
+
+[BliKVM products | blicube](https://www.blicube.com/blikvm-products/)
+[ThomasVon2021/blikvm: Open and cost-effective "KVM-over-IP". BliKVM comes in 4 different models, v1 CM4, v2 PCIe, v3 HAT and v4 Allwinner, based on Raspberry Pi and Allwinner SoC.](https://github.com/ThomasVon2021/blikvm)
+
+[BliKVM Plug-n-Play PCIe - Raspberry Pi CM4, KVM-over-IP, easy-to-use - Seeed Studio](https://www.seeedstudio.com/BliKVM-Plug-n-Play-PCIe-p-5623.html)
+[I put a computer in my computer - YouTube](https://www.youtube.com/watch?v=cVWF3u-y-Zg)
+
+[The Modern, Open-Source KVM over IP | TinyPilot](https://tinypilotkvm.com/)
+[tiny-pilot/tinypilot: Use your Raspberry Pi as a browser-based KVM.](https://github.com/tiny-pilot/tinypilot)
+
+## As Desktop PC
 
 [Using a Raspberry Pi as a Desktop PC: 7 Things I Learned After a Week](https://www.makeuseof.com/tag/using-raspberry-pi-as-desktop-pc/)
 

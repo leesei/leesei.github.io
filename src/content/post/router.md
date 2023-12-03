@@ -2,7 +2,7 @@
 title: Router
 description: ""
 created: 2016-04-12
-updated: 2023-07-27
+updated: 2023-09-29
 tags:
   - comp/hardware
 ---

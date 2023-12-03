@@ -2,7 +2,7 @@
 title: CPUs
 description: The history of CPU, companies, ISA and chip fabrication
 created: 2019-05-03
-updated: 2023-08-14
+updated: 2023-10-12
 tags:
   - comp/hardware
   - laptop
@@ -12,28 +12,10 @@ tags:
 [WikiChip](https://en.wikichip.org/wiki/WikiChip)
 [Evolution Of CPU Processing Power - YouTube](https://www.youtube.com/playlist?list=PLC7a8fNahjQ8IkiD5f7blIYrro9oeIfJU)
 
-[Intel® Processor Numbers: Laptop, Desktop, and Mobile Device](http://www.intel.com/content/www/us/en/processors/processor-numbers.html)
-[List of Intel microprocessors - Wikiwand](https://www.wikiwand.com/en/List_of_Intel_microprocessors)
-
-[List of AMD microprocessors - Wikiwand](https://www.wikiwand.com/en/List_of_AMD_microprocessors)
-[The rise and fall of AMD | Series | Ars Technica](https://arstechnica.com/series/the-rise-and-fall-of-amd/amp/)
-[AMD History and Innovations (1969-2022) | Documentary - YouTube](https://www.youtube.com/watch?v=2DzTGCO-IkM)
-[Every AMD CPU Ever! - YouTube](https://www.youtube.com/watch?v=K8Lz3ANjlDs)
-
-Asianometry
-[Intel & AMD: The First 30 Years - YouTube](https://www.youtube.com/watch?v=kZ9ntfjytTI)
-[AMD: How It All Began - YouTube](https://www.youtube.com/watch?v=mb53IYjZlNc)
-[How AMD Left GlobalFoundries for TSMC - YouTube](https://www.youtube.com/watch?v=oAlU6vQ1Pn8&t=8s)
-
 [Intel Core i5 vs. Core i7: Which Processor Should You Buy? - ExtremeTech](https://www.extremetech.com/computing/210703-intel-core-i5-vs-core-i7-which-processor-should-you-buy) 2018
 
 [Deep Dive – Numa, vNuma | Virtualization Deep Dive](https://virtualizationdeepdive.wordpress.com/deep-dive-numa-vnuma/)
 [Introduction 2016 NUMA Deep Dive Series - frankdenneman.nl](https://frankdenneman.nl/2016/07/06/introduction-2016-numa-deep-dive-series/)
-
-[【科技杂谈 62】 从推土机到 ryzen，AMD 是怎么成功的？ - YouTube](https://www.youtube.com/watch?v=eaOhdoNqhIg)
-[【科技杂谈 74】十七年才熬出头！AMD 移动版 CPU 历史回顾 - YouTube](https://www.youtube.com/watch?v=CHERD3gVF98)
-[【弯评 05】英特尔的故事——一管跨越了半个世纪的牙膏 - YouTube](https://www.youtube.com/watch?v=W2JXxXgqPv8)
-[【弯评 09】这是一个关于猪队友的故事 - YouTube](https://www.youtube.com/watch?v=6Xs4dB5-ikQ)
 
 [如何设计一个高性能 CPU？ - YouTube](https://www.youtube.com/watch?v=5907Hn2-ROE)
 [再次崛起？英特尔架构日最全技术解读：CPU 篇 - YouTube](https://www.youtube.com/watch?v=h7EJA2tuFac)
@@ -52,10 +34,33 @@ Asianometry
 
 [Researchers build a heat shield just 10 atoms thick to protect electronic devices](https://phys.org/news/2019-08-shield-atoms-thick-electronic-devices.amp)
 
-[Actually Hardcore Overclocking - YouTube](https://www.youtube.com/c/ActuallyHardcoreOverclocking)
+[Actually Hardcore Overclocking - YouTube](https://www.youtube.com/@ActuallyHardcoreOverclocking)
 
 [High Yield - YouTube](https://www.youtube.com/@HighYield)
 [Why we use Code Names for Computer Hardware - YouTube](https://www.youtube.com/watch?v=tElHLQuB3jU)
+
+## History
+
+[Intel® Processor Numbers: Laptop, Desktop, and Mobile Device](http://www.intel.com/content/www/us/en/processors/processor-numbers.html)
+[List of Intel microprocessors - Wikiwand](https://www.wikiwand.com/en/List_of_Intel_microprocessors)
+
+[List of AMD microprocessors - Wikiwand](https://www.wikiwand.com/en/List_of_AMD_microprocessors)
+[The rise and fall of AMD | Series | Ars Technica](https://arstechnica.com/series/the-rise-and-fall-of-amd/amp/)
+[AMD History and Innovations (1969-2022) | Documentary - YouTube](https://www.youtube.com/watch?v=2DzTGCO-IkM)
+[Every AMD CPU Ever! - YouTube](https://www.youtube.com/watch?v=K8Lz3ANjlDs)
+
+Asianometry
+[Intel & AMD: The First 30 Years - YouTube](https://www.youtube.com/watch?v=kZ9ntfjytTI)
+[AMD: How It All Began - YouTube](https://www.youtube.com/watch?v=mb53IYjZlNc)
+[How AMD Left GlobalFoundries for TSMC - YouTube](https://www.youtube.com/watch?v=oAlU6vQ1Pn8&t=8s)
+
+[【科技杂谈 62】 从推土机到 ryzen，AMD 是怎么成功的？ - YouTube](https://www.youtube.com/watch?v=eaOhdoNqhIg)
+[【科技杂谈 74】十七年才熬出头！AMD 移动版 CPU 历史回顾 - YouTube](https://www.youtube.com/watch?v=CHERD3gVF98)
+[【科技杂谈64】英特尔至强E3，从兴起到衰落的故事 - YouTube](https://www.youtube.com/watch?v=qWXBEqtyYl8)
+[【弯评 05】英特尔的故事——一管跨越了半个世纪的牙膏 - YouTube](https://www.youtube.com/watch?v=W2JXxXgqPv8)
+[【弯评 09】这是一个关于猪队友的故事 - YouTube](https://www.youtube.com/watch?v=6Xs4dB5-ikQ)
+
+[How ARM Saved Apple - YouTube](https://www.youtube.com/watch?v=QXgBI8drB-k)
 
 ## Instruction Set Architecture (ISA)
 
@@ -127,6 +132,7 @@ LowSpecGamer
 [Building a RISC-V CPU Core (LFD111x) - Linux Foundation - Training](https://training.linuxfoundation.org/training/building-a-riscv-cpu-core-lfd111x/)
 [Introduction to RISC-V | edX](https://www.edx.org/course/introduction-to-risc-v)
 [Building a RISC-V CPU Core | edX](https://www.edx.org/course/building-a-risc-v-cpu-core)
+[RISC-V CPU In TypeScript - YouTube](https://www.youtube.com/playlist?list=PLP29wDx6QmW4sXTvFYgbHrLygqH8_oNEH)
 
 [RISC-V - YouTube](https://www.youtube.com/playlist?list=PLxLxbi4e2mYFTkLsNYqWLrSQZtLB94wnY) Gary Explains
 [An Open Source CPU!? - YouTube](https://www.youtube.com/watch?v=L8jqGOgCy5M)
@@ -136,6 +142,9 @@ LowSpecGamer
 [The Genius of RISC-V Microprocessors - Erik Engheim - ACCU 2022 - YouTube](https://www.youtube.com/watch?v=L9jvLsvkmdM)
 [RISC-V 2023 Update: From Embedded Computing to Data Center & Desktop - YouTube](https://www.youtube.com/watch?v=AJVSZEX6d9M)
 [This is the BEST Board to Learn RISC-V Assembly. - YouTube](https://www.youtube.com/watch?v=n8g_XKSSqRo)
+
+[A $9 Introduction to the RISC-V Future of Computing - YouTube](https://www.youtube.com/watch?v=z-GoLDQHYsE)
+[apalrd/riscv-morse: Sample of a morse-code 'blinky' in different architectures](https://github.com/apalrd/riscv-morse) Rosetta Stone for multiple ASM languages
 
 [SiFive Launches HiFive Unmatched RISC-V Development Board for Desktops | Tom's Hardware](https://www.tomshardware.com/news/sifive-launches-hifive-unmatched-risc-v-development-board-for-desktops)
 

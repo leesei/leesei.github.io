@@ -2,7 +2,7 @@
 title: Copyright
 description: ""
 created: 2015-04-13
-updated: 2023-08-11
+updated: 2023-09-29
 tags:
   - ip/copyright
   - law

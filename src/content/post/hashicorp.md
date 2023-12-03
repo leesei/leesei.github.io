@@ -2,17 +2,18 @@
 title: HashiCorp
 description: ""
 created: 2016-03-19
-updated: 2023-07-27
+updated: 2023-11-09
 tags:
   - dev/deploy
   - devops
 ---
 
-[HashiCorp Products](https://www.hashicorp.com/#overview)
-[HashiCorp Learn](https://learn.hashicorp.com/)
-
+[HashiCorp: Infrastructure enables innovation](https://www.hashicorp.com)
+[Tutorials | HashiCorp Developer](https://developer.hashicorp.com/tutorials)
 [Tao of HashiCorp | HashiCorp](https://www.hashicorp.com/tao-of-hashicorp/)
-[The Tao of HashiCorp | HashiCorp](https://www.hashicorp.com/blog/the-tao-of-hashicorp/)
+
+[HashiCorp adopts Business Source License](https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license) 2023-08-10
+[HashiCorp Licensing FAQ](https://www.hashicorp.com/license-faq)
 
 [#180: Otto, Vagrant, and Automation with Mitchell Hashimoto - The Changelog](https://changelog.com/180/)
 
@@ -25,8 +26,8 @@ tags:
 [Packer by HashiCorp](https://www.packer.io/)
 Packer is a free and open source tool for creating golden images for multiple platforms from a single source configuration.
 
-[Packer Curriculum - HashiCorp Learn](https://learn.hashicorp.com/packer)
-[Documentation - Packer by HashiCorp](https://packer.io/docs/index.html)
+[Tutorials | Packer | HashiCorp Developer](https://developer.hashicorp.com/packer/tutorials)
+[Documentation | Packer | HashiCorp Developer](https://developer.hashicorp.com/packer/docs)
 
 [Docker? VMs? EC2? Yes! With Packer.io](http://www.kevinclarke.info/slides/c4l15/#/)
 
@@ -39,10 +40,10 @@ Packer is a free and open source tool for creating golden images for multiple pl
 
 ## Serf
 
-[Serf by HashiCorp](https://www.serfdom.io/)
+[Serf by HashiCorp](https://www.serf.io/)
 Serf is a decentralized solution for cluster membership, failure detection, and orchestration. Lightweight and highly available.
 
-[Internals - Serf by HashiCorp](https://www.serfdom.io/docs/internals/index.html)
+[Internals - Serf by HashiCorp](https://www.serf.io/docs/internals/index.html)
 
 ## Consul
 
@@ -52,37 +53,34 @@ Service discovery and configuration made easy. Distributed, highly available, an
 Underlying health checks are AP
 States (KV store and discovery) are CP
 
-[Introduction - Consul by HashiCorp](https://www.consul.io/intro/)
-[Consul Curriculum - HashiCorp Learn](https://learn.hashicorp.com/consul)
-[Documentation - Consul by HashiCorp](https://www.consul.io/docs/index.html)
+[Tutorials | Consul | HashiCorp Developer](https://developer.hashicorp.com/consul/tutorials)
+[Consul Documentation | Consul | HashiCorp Developer](https://developer.hashicorp.com/consul/docs)
 
 [Official Consul Docker Image - HashiCorp](https://www.hashicorp.com/blog/official-consul-docker-image.html)
 [Why is service discovery important? (And what is Consul?) - O'Reilly Media](https://www.oreilly.com/learning/why-is-service-discovery-important-and-what-is-consul)
 
-[Presentation: Service discovery in a microservice architecture | Smartjava.org](http://www.smartjava.org/content/presentation-service-discovery-microservice-architecture) [code](https://github.com/josdirksen/next-build-consul)
+[Presentation: Service discovery in a microservice architecture | Smartjava.org](http://www.smartjava.org/content/presentation-service-discovery-microservice-architecture) [code](https://github.com/josdirksen/next-build-consul) 😴inactive
 [Service Discovery with Docker and Consul: part 1 | Smartjava.org](http://www.smartjava.org/content/service-discovery-docker-and-consul-part-1)
 [Service Discovery with Docker and Consul: part 2 | Smartjava.org](http://www.smartjava.org/content/service-discovery-docker-and-consul-part-2)
-[GrassInWind2019/gRPCwithConsul: Use gRPC + Consul to do service discovery and RPC.](https://github.com/GrassInWind2019/gRPCwithConsul)
+[GrassInWind2019/gRPCwithConsul: Use gRPC + Consul to do service discovery and RPC.](https://github.com/GrassInWind2019/gRPCwithConsul) 😴inactive
 
 ### Consul Template
 
 [Introducing Consul Template - HashiCorp](https://www.hashicorp.com/blog/introducing-consul-template.html)
 [hashicorp/consul-template: Generic template rendering and notifications with Consul](https://github.com/hashicorp/consul-template)
 
-### Consul Connect
+### Consul Connect (service mesh)
 
-[Connect (Service Segmentation) - Consul by HashiCorp](https://www.consul.io/docs/connect/index.html)
-[Connect Services - Service Mesh | Consul - HashiCorp Learn](https://learn.hashicorp.com/consul/getting-started/connect)
+[Service Mesh on Consul | Consul | HashiCorp Developer](https://developer.hashicorp.com/consul/docs/connect)
+[Register your services to Consul | Consul | HashiCorp Developer](https://developer.hashicorp.com/consul/tutorials/get-started-vms/virtual-machine-gs-service-discovery)
 
 ### Containers
 
 Consul is often used to power load balancing of containers.
 
-[Load-balancing Docker containers with Nginx and Consul-Template - Belly Card Engineering](https://tech.bellycard.com/blog/load-balancing-docker-containers-with-nginx-and-consul-template/)
+[progrium/embassy: Easy, distributed discovery and routing mesh for Docker powered by Consul](https://github.com/progrium/embassy) 😴inactive
 
-[progrium/embassy: Easy, distributed discovery and routing mesh for Docker powered by Consul](https://github.com/progrium/embassy)
-
-[gliderlabs/registrator: Service registry bridge for Docker with pluggable adapters](https://github.com/gliderlabs/registrator)
+[gliderlabs/registrator: Service registry bridge for Docker with pluggable adapters](https://github.com/gliderlabs/registrator) 😴inactive
 
 [Scalable Architecture DR CoN: Docker, Registrator, Consul, Consul Template and Nginx](http://www.maori.geek.nz/scalable_architecture_dr_con_docker_registrator_consul_nginx/)
 
@@ -92,12 +90,13 @@ Consul is often used to power load balancing of containers.
 
 ## Terraform
 
+> change of license from MPL to BUSL in 2023-08
+> caused OpenTofu fork
+
 [Terraform by HashiCorp](https://www.terraform.io/)
 Build, Combine, and Launch Infrastructure
 [Understand Terraform (infra-as-code) in 5 minutes - Je suis un dev](https://www.jesuisundev.com/en/understand-terraform-infra-as-code-in-5-minutes/)
-
-[Terraform Curriculum - HashiCorp Learn](https://learn.hashicorp.com/terraform)
-[Documentation - Terraform by HashiCorp](https://www.terraform.io/docs/index.html)
+[Documentation | Terraform | HashiCorp Developer](https://developer.hashicorp.com/terraform/docs)
 
 Declarative: define desired state, not steps
 
@@ -117,8 +116,7 @@ Declarative: define desired state, not steps
 [Vault by HashiCorp](https://www.vaultproject.io/)
 A tool for managing secrets.
 
-[Vault Curriculum - HashiCorp Learn](https://learn.hashicorp.com/vault)
-[Documentation | Vault by HashiCorp](https://www.vaultproject.io/docs/)
+[Tutorials | Vault | HashiCorp Developer](https://developer.hashicorp.com/vault/tutorials)
 
 [Managing Secrets with Vault and Consul | TestDriven.io](https://testdriven.io/blog/managing-secrets-with-vault-and-consul/)
 [HashiCorp Vault Operator Manages Kubernetes Secrets - The New Stack](https://thenewstack.io/hashicorp-vault-operator-manages-kubernetes-secrets/)
@@ -128,15 +126,17 @@ A tool for managing secrets.
 
 ## Nomad
 
+> A Distributed, Highly Available, Datacenter-Aware Scheduler
+
 [Nomad by HashiCorp](https://www.nomadproject.io/)
 [Nomad by HashiCorp](https://www.nomadproject.io/use-cases/simple-container-orchestration)
-A Distributed, Highly Available, Datacenter-Aware Scheduler
+[Documentation | Nomad | HashiCorp Developer](https://developer.hashicorp.com/nomad/docs)
 
 [Is Nomad a better Kubernetes? - Chaordic](https://chaordic.io/blog/is-nomad-a-better-kubernetes/)
 [Conductor: Why We Migrated from Kubernetes to Nomad – The New Stack](https://thenewstack.io/conductor-why-we-migrated-from-kubernetes-to-nomad/)
 
-[Nomad Curriculum - HashiCorp Learn](https://learn.hashicorp.com/nomad)
-[Documentation - Nomad by HashiCorp](https://www.nomadproject.io/docs/index.html)
+[robinovitch61/wander: A terminal app/TUI for HashiCorp Nomad](https://github.com/robinovitch61/wander)
+[Wander | TUI for HashiCorp Nomad Clusters - YouTube](https://www.youtube.com/watch?v=ARhbm0npCCs)
 
 ## Otto
 
@@ -145,3 +145,10 @@ A Distributed, Highly Available, Datacenter-Aware Scheduler
 
 Zero config development environment prepared by experts in the field.
 Designed for production.
+
+---
+
+## True OpenSource alternatives
+
+[OpenTofu](https://opentofu.org/) Terraform alternative
+[OpenTofu](https://github.com/opentofu)

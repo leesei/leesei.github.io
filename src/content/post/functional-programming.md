@@ -2,7 +2,7 @@
 title: Functional Programming
 description: ""
 created: 2016-03-13
-updated: 2023-08-04
+updated: 2023-10-11
 tags:
   - javascript
   - web
@@ -32,7 +32,7 @@ Contrast: [Imperative programming - Wikiwand](https://www.wikiwand.com/en/Impera
 [Why Isn't Functional Programming the Norm? – Richard Feldman - YouTube](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
 [Hey Underscore, You're Doing It Wrong! - YouTube](https://www.youtube.com/watch?v=m3svKOdZijA) more about function programming
 [GOTO 2018 • Functional Programming in 40 Minutes • Russ Olsen - YouTube](https://www.youtube.com/watch?v=0if71HOyVjY)
-[Functional Design Patterns - Scott Wlaschin - YouTube](https://www.youtube.com/watch?v=srQt1NAHYC0)
+[Functional Design Patterns - Scott Wlaschin - YouTube](https://www.youtube.com/watch?v=srQt1NAHYC0) 1:05:49, F#
 [Essentials: Functional Programming's Y Combinator - Computerphile - YouTube](https://www.youtube.com/watch?v=9T8A89jgeTI)
 
 ---
@@ -60,29 +60,36 @@ _declarative_ as antithetical to _imperative_, and _procedural_ as antithetical 
 
 ## Functor/Monad
 
+> programming with effects
+
 [Functor (functional programming) - Wikiwand](<https://www.wikiwand.com/en/Functor_(functional_programming)>)
 [Monad (functional programming) - Wikiwand](<https://www.wikiwand.com/en/Monad_(functional_programming)>)
 [What is a Monad? - Computerphile - YouTube](https://www.youtube.com/watch?v=t1e8gqXLbsU)
 
 [Functors, Applicatives, And Monads In Pictures - adit.io](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 [Swift Functors, Applicatives, and Monads in Pictures](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/)
+
+[The Absolute Best Intro to Monads For Software Engineers - YouTube](https://www.youtube.com/watch?v=C2w45qRc3aU) ❗!important
 [No Nonsense Monad & Functor - The foundation of Functional Programming by César Tron-Lozai - YouTube](https://www.youtube.com/watch?v=e6tWJD5q8uw)
-[The Absolute Best Intro to Monads For Software Engineers - YouTube](https://www.youtube.com/watch?v=C2w45qRc3aU)
+[Monads in Modern C++ - Georgi Koyrushki and Alistair Fisher - ACCU 2023 - YouTube](https://www.youtube.com/watch?v=cE_YaFMhTK8)
+[Brian Beckman: Don't fear the Monad - YouTube](https://www.youtube.com/watch?v=ZhuHCtR3xq8) 1:07:10
 
 ```js
 // Monads
 // allows extra works to be done out of main logic (`transform()`)
-// e.g.: missing value checking, log accumulation
+// `run()` can be chained with multiple `transform()`s
+// `run()` could be a function of `Option<T>` in some languages
+// e.g.: missing value checking, log accumulation, transform pipeline
 
-// Wrapper Type
-// Option, Future
-type Option <T>;
+// Wrapper Type (monad type, wraps a raw type)
+// `Option`, `Future`
+type Option<T>;
 
-// Wrap function
-// return, pure, unit
+// Wrap function: convert raw type to monad type
+// `return`, `pure`, `unit`
 function some<T>(x: T): Option<T> {};
 
-// Run function
+// Run function: takes wrapper type and transform function
 // bind, flatMap, >>=
 function run<T>(
   input: Option<T>, transform: (_: T) => Option<T>
@@ -90,7 +97,6 @@ function run<T>(
   if (input == none) return none;
   return transform(input.value);
 };
-
 ```
 
 [Functors and Monads - Practical introduction to Functional Programming with JS](https://tech.io/playgrounds/2980/practical-introduction-to-functional-programming-with-js/functors-and-monads)

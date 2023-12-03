@@ -2,7 +2,7 @@
 title: USB
 description: ""
 created: 2019-01-29
-updated: 2023-07-22
+updated: 2023-10-11
 tags:
   - comp/hardware
 ---
@@ -42,6 +42,8 @@ tags:
 
 [How does a USB keyboard work? - YouTube](https://www.youtube.com/watch?v=wdgULBpRoXk)
 [How does USB device discovery work? - YouTube](https://www.youtube.com/watch?v=N0O5Uwc3C0o)
+
+[USB Reverse Engineering - YouTube](https://www.youtube.com/playlist?list=PLP29wDx6QmW4hcT1fv-TOvJOw7p2FmH8n)
 
 [Add USB To Your Electronics Projects! - The USB Protocol Explained - YouTube](https://www.youtube.com/watch?v=HbQ6q3skZgw)
 [V-USB on an ATmega328! - V-USB and HID Explained - YouTube](https://www.youtube.com/watch?v=6U_bHTnFu-g)

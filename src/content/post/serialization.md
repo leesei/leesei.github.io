@@ -2,16 +2,23 @@
 title: Serialization
 description: ""
 created: 2020-03-27
-updated: 2023-07-30
+updated: 2023-11-22
 tags:
   - comp/lang
 ---
 
 > TODO: merge `Dropbox/caravan/caravan/interchange-format`
 
+[Comparison of data-serialization formats - Wikiwand](https://www.wikiwand.com/en/Comparison_of_data-serialization_formats)
+[RFC 8949 - Comparison of Other Binary Formats to CBOR's Design Objectives](https://datatracker.ietf.org/doc/html/rfc8949#name-comparison-of-other-binary-)
+[deserialization - Performant Entity Serialization: BSON vs MessagePack (vs JSON) - Stack Overflow](https://stackoverflow.com/questions/6355497/performant-entity-serialization-bson-vs-messagepack-vs-json)
+
 [Comparing speed and size of to_csv(), np.save(), to_hdf(), to_pickle() | Towards Data Science](https://towardsdatascience.com/comparing-the-speed-and-filesize-of-to-csv-np-save-to-hdf-to-pickle-functions-6c53a6a3fc82)
 [The Best Format to Save Pandas Data | by Ilia Zaitsev | Towards Data Science](https://towardsdatascience.com/the-best-format-to-save-pandas-data-414dca023e0d)
 [devforfu/pandas-formats-benchmark: A little benchmark comparing Pandas data frames serialization formats](https://github.com/devforfu/pandas-formats-benchmark)
+
+[Graphtage Documentation](https://trailofbits.github.io/graphtage/latest/index.html)
+[trailofbits/graphtage: A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.](https://github.com/trailofbits/graphtage)
 
 ## IDL
 
@@ -110,20 +117,14 @@ tags:
 
 ## JSON
 
+[[shell-tools#JSON manipulation]]
+
+[RFC 8259 - The JavaScript Object Notation (JSON) Data Interchange Format](https://datatracker.ietf.org/doc/html/rfc8259)
 [A beginner's guide to JSON, the data format for the internet - Stack Overflow Blog](https://stackoverflow.blog/2022/06/02/a-beginners-guide-to-json-the-data-format-for-the-internet/)
 
-7159 JSON
+8259 JSON
 6901 JSON Pointer
 6902 JSON Patch
-
-[BSON (Binary JSON) Serialization](https://bsonspec.org/) MongoDB
-[JSON and BSON | MongoDB](https://www.mongodb.com/json-and-bson)
-[BSON Types — MongoDB Manual](https://docs.mongodb.com/manual/reference/bson-types/)
-[mongodb/js-bson: BSON Parser for node and browser](https://github.com/mongodb/js-bson)
-
-[CBOR — Concise Binary Object Representation | Overview](https://cbor.io/) Web Assembly
-
-[jpmens/jo: JSON output from a shell](https://github.com/jpmens/jo)
 
 [JSON ABC - Sort JSON Alphabetically](https://novicelab.org/jsonabc/)
 [JSON Sorter - Sort JSON keys online](https://r37r0m0d3l.github.io/json_sort/) allows comments
@@ -133,12 +134,37 @@ tags:
 [JSON-LD - JSON for Linking Data](https://json-ld.org/)
 [digitalbazaar/jsonld.js: A JSON-LD Processor and API implementation in JavaScript](https://github.com/digitalbazaar/jsonld.js)
 
-[List of JSON tools for command line – Ilya's blog](https://ilya-sher.org/2018/04/10/list-of-json-tools-for-command-line/)
+[Creating semantic sites with Web Components and JSON-LD - Chrome for Developers](https://developer.chrome.com/blog/creating-semantic-sites-with-web-components-and-jsonld/)
+
+[ijl/orjson: Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy](https://github.com/ijl/orjson)
 
 [msgspec](https://jcristharif.com/msgspec/)
-[ijl/orjson: Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy](https://github.com/ijl/orjson)
 [Faster, more memory-efficient Python JSON parsing with msgspec](https://pythonspeed.com/articles/faster-python-json-parsing/)
+
+[ICRAR/ijson: Iterative JSON parser with Pythonic interfaces](https://github.com/ICRAR/ijson)
 [Processing large JSON files in Python without running out of memory](https://pythonspeed.com/articles/json-memory-streaming/)
+
+### JSON streaming
+
+[JSON streaming - Wikiwand](https://www.wikiwand.com/en/JSON_streaming)
+[JSON Lines](https://jsonlines.org/)
+
+[ndjson/ndjson.js: Streaming line delimited json parser + serializer](https://github.com/ndjson/ndjson.js)
+
+### Binary Serialization
+
+[Binary Formats - JSON for Modern C++](https://json.nlohmann.me/features/binary_formats/)
+
+[BSON (Binary JSON) Serialization](https://bsonspec.org/) MongoDB, in-place update, designed for storage and lookup
+[JSON and BSON | MongoDB](https://www.mongodb.com/json-and-bson)
+[BSON Types — MongoDB Manual](https://docs.mongodb.com/manual/reference/bson-types/)
+[mongodb/js-bson: BSON Parser for node and browser](https://github.com/mongodb/js-bson)
+[bson package - go.mongodb.org/mongo-driver/bson - Go Packages](https://pkg.go.dev/go.mongodb.org/mongo-driver/bson)
+
+[CBOR — Concise Binary Object Representation | Overview](https://cbor.io/) Web Assembly, based-on MsgPack, supports partial decode, designed for network communication
+[RFC 8949 - Concise Binary Object Representation (CBOR)](https://datatracker.ietf.org/doc/html/rfc8949)
+[RFC 8610 - Concise Data Definition Language (CDDL): A Notational Convention to Express Concise Binary Object Representation (CBOR) and JSON Data Structures](https://datatracker.ietf.org/doc/html/rfc8610)
+[Base58 Encoder / Decoder Online - AppDevTools](https://appdevtools.com/base58-encoder-decoder)
 
 ## TOML
 
@@ -175,28 +201,34 @@ tags:
 
 ## Protocol Buffers
 
-[Protocol Buffers | Google Developers](https://developers.google.com/protocol-buffers/)
+[Protocol Buffers Documentation](https://protobuf.dev/)
+[Protocol Buffers Version 3 Language Specification | Protocol Buffers Documentation](https://protobuf.dev/reference/protobuf/proto3-spec/)
 [Protocol Buffers - Wikiwand](https://www.wikiwand.com/en/Protocol_Buffers)
 
 [Protocol Buffers Crash Course - YouTube](https://www.youtube.com/watch?v=46O73On0gyI)
 
+[Protobuf - How Google Changed Data Serialization FOREVER - YouTube](https://www.youtube.com/watch?v=FR754e5xIwg)
+[Don't Use REST APIs in your Backend, Use gRPC - YouTube](https://www.youtube.com/watch?v=SDnPul2-N9w)
+
 [Protocol Buffers, Part 1 — Serialization Library for Microservices](https://codeburst.io/protocol-buffers-part-1-serialization-library-for-microservices-37418e72908b)
 [Protocol Buffers, Part 2 — The Untold Parts Of Using “Any”](https://codeburst.io/protocol-buffers-part-2-the-untold-parts-of-using-any-6a328560048d)
 
-[Buf | Home](https://buf.build/)
+[Buf | Home](https://buf.build/) The only Protobuf developer platform
 
 ## MessagePack
 
 [MessagePack: It's like JSON. but fast and small.](https://msgpack.org/index.html)
 [MessagePack](https://github.com/msgpack)
 
-[mcollina/msgpack5: A msgpack v5 implementation for node.js, with extension points / msgpack.org[Node]](https://github.com/mcollina/msgpack5)
+supports partial decode, designed for network communication
 
 [neuecc/MessagePack-CSharp: Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]](https://github.com/neuecc/MessagePack-CSharp)
 
 [msgpack/msgpack-python: MessagePack serializer implementation for Python msgpack.org[Python]](https://github.com/msgpack/msgpack-python)
 
 ### Node
+
+[mcollina/msgpack5: A msgpack v5 implementation for node.js, with extension points / msgpack.org[Node]](https://github.com/mcollina/msgpack5)
 
 [keywords:messagepack - npm search](https://www.npmjs.com/search?q=keywords:messagepack)
 [mattheworiordan/nodejs-encoding-benchmarks: Simple repo to benchmark performance of Node.js encoding libraries](https://github.com/mattheworiordan/nodejs-encoding-benchmarks)
@@ -299,7 +331,7 @@ Feather is now part of Apache Arrow
 
 ## Cap'n Proto
 
-[Cap'n Proto: Introduction](https://capnproto.org/)
+[Cap'n Proto: Introduction](https://capnproto.org/) zero copy
 [Cap'n Proto: Cap'n Proto, FlatBuffers, and SBE](https://capnproto.org/news/2014-06-17-capnproto-flatbuffers-sbe.html)
 
 ## Simple Binary Encoding
@@ -307,6 +339,13 @@ Feather is now part of Apache Arrow
 [Mechanical Sympathy: Simple Binary Encoding](https://mechanical-sympathy.blogspot.com/2014/05/simple-binary-encoding.html)
 [real-logic.github.io/simple-binary-encoding](http://real-logic.github.io/simple-binary-encoding/)
 [real-logic/simple-binary-encoding: Simple Binary Encoding (SBE) - High Performance Message Codec](https://github.com/real-logic/simple-binary-encoding)
+
+## BaseN encoding
+
+[multiformats/multibase: Self identifying base encodings](https://github.com/multiformats/multibase)
+[RFC 4648 - The Base16, Base32, and Base64 Data Encodings](https://datatracker.ietf.org/doc/html/rfc4648.html)
+[draft-msporny-base58-03](https://datatracker.ietf.org/doc/html/draft-msporny-base58-03) base58btc
+[multibase/rfcs at master · multiformats/multibase](https://github.com/multiformats/multibase/tree/master/rfcs)
 
 ## C++
 

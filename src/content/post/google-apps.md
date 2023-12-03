@@ -2,6 +2,7 @@
 title: Google Apps
 description: ""
 created: 2017-02-11
+updated: 2023-11-01
 tags:
   - google
   - web
@@ -86,14 +87,19 @@ tags:
 [How to Use Google Drive on Linux](https://www.howtogeek.com/196635/an-official-google-drive-for-linux-is-here-sort-of-maybe-this-is-all-well-ever-get/amp/)
 [The Top 5 Google Drive Clients for Linux](https://www.fossmint.com/best-google-drive-clients-for-linux/)
 [The 15 best Google Drive add-ons for work efficiency - Business Insider](https://www.businessinsider.com/best-google-drive-add-ons?amp)
+[Google Drive List Links in Folder | Zak.io](https://zak.io/addon/google-drive-link-list/#)
+
+### Clients
 
 [overGrive - Arch Linux Installation Instructions | The Fan Club | dynamic design solutions](https://www.thefanclub.co.za/overgrive/installation-instructions-arch-linux) \$4.99, using
 
 [gsuitedevs/PyDrive: Google Drive API Python wrapper library](https://github.com/gsuitedevs/PyDrive)
 [gosync | An Opensource Google Drive client written in Python](https://hschauhan.github.io/gosync/)
 [odeke-em/drive: Google Drive client for the commandline](https://github.com/odeke-em/drive) by Google Developer
-[Grive2 - An Alternative Google Drive Desktop Client for Linux](https://www.fossmint.com/grive2-google-drive-client-for-linux/)
+
 [Grive2 — YourcmcWiki](http://yourcmc.ru/wiki/Grive2) CLI app, no daemon mode (yet)
+[ vitalif/grive2: Google Drive client with support for new Drive REST API and partial sync](https://github.com/vitalif/grive2)
+[Grive2 - An Alternative Google Drive Desktop Client for Linux](https://www.fossmint.com/grive2-google-drive-client-for-linux/)
 
 [harababurel/gcsf: a FUSE file system based on Google Drive](https://github.com/harababurel/gcsf)
 [robin-thomas/GDFS: Google Drive File System](https://github.com/robin-thomas/GDFS)
@@ -146,12 +152,15 @@ tags:
 
 [Search operators you can use with Gmail - Gmail Help](https://support.google.com/mail/answer/7190?hl=en)
 [Find emails much faster and easier with new Gmail search operators | ITworld](https://www.itworld.com/article/2717895/find-emails-much-faster-and-easier-with-new-gmail-search-operators.html)
+[How to filter mail older than a certain date in Gmail – FIT Information Technology](https://it.fitnyc.edu/kb/how-to-filter-mail-older-than-a-certain-date-in-gmail/)
 
 ```
 category:primary|social|promotions|updates|forums
 newer_than:2h|3d
-older_than:30d|1M
+older_than:30d|1M|
+older:YYYY/MM/DD
 larger:500M
+has:nouserlabels -in:inbox
 ```
 
 [How to Easily Automate Emails with Python | by Frank Andrade | Jun, 2022 | Towards Data Science](https://towardsdatascience.com/how-to-easily-automate-emails-with-python-8b476045c151) Google Account App password, SMTP

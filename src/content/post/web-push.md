@@ -2,7 +2,7 @@
 title: Web Push Technologies
 description: ""
 created: 2019-03-04
-updated: 2023-08-13
+updated: 2023-11-16
 tags:
   - server-send-event
   - web
@@ -30,10 +30,7 @@ A persistent connection between the client and the server and both parties can s
 [About HTML5 WebSocket - Powered by Kaazing](https://www.websocket.org/aboutwebsocket.html)
 [HTML5 WebSocket - A Quantum Leap in Scalability for the Web](https://websocket.org/quantum.html)
 
-Hussein Nasser
-[WebSockets Crash Course - Handshake, Use-cases, Pros & Cons and more - YouTube](https://www.youtube.com/watch?v=2Nt-ZrNP22A)
-[What Really Happens During a WebSockets Connection - Wiresharking WebSockets - YouTube](https://www.youtube.com/watch?v=5tBmkxpeTyE)
-[Scaling Websockets with Redis, HAProxy and Node JS - High-availability Group Chat Application - YouTube](https://www.youtube.com/watch?v=gzIcGhJC8hA) scaling
+[WebSockets - YouTube](https://www.youtube.com/playlist?list=PLQnljOFTspQUGjfGdg8UvL3D_K9ACL6Qh) Hussein Nasser
 
 [WebSockets - A Conceptual Deep Dive | Ably Realtime](https://ably.com/topic/websockets)
 
@@ -64,18 +61,23 @@ Hussein Nasser
 
 ## Server
 
+> Bun and Node.js has built-in support
+
 [8 Node.js Web Socket Libraries For 2018 – Bits and Pieces](https://blog.bitsrc.io/8-node-js-web-socket-libraries-for-2018-818e7e5b67cf)
 
 [websockets/ws: Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js](https://github.com/websockets/ws)
-[How to Build a Chat Application using React, Redux, Redux-Saga, and Web Sockets](https://www.freecodecamp.org/news/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a)
+[WebSockets tutorial: How to go real-time with Node and React - LogRocket Blog](https://blog.logrocket.com/websocket-tutorial-real-time-node-react/)
 
-[uNetworking/uWebSockets: Simple, secure & standards compliant web server for the most demanding of applications](https://github.com/uNetworking/uWebSockets) C/C++
+[uNetworking/uWebSockets: Simple, secure & standards compliant web server for the most demanding of applications](https://github.com/uNetworking/uWebSockets) C/C++, different bindings ❗!important
 [uNetworking/uWebSockets.js: TypeScript web server - 15x faster than Deno](https://github.com/uNetworking/uWebSockets.js)
-[soketi/soketi: Just another simple, fast, and resilient open-source WebSockets server. 📣](https://github.com/soketi/soketi)
+[The story of “uws” so far. µWebSockets (“uws”) is an open source… | by uNetworking AB | Medium](https://unetworkingab.medium.com/the-story-of-uws-so-far-493ac0c05ccb)
 
+[soketi/soketi: Just another simple, fast, and resilient open-source WebSockets server. 📣](https://github.com/soketi/soketi)
 [primus/primus: Primus, the creator god of the transformers & an abstraction layer for real-time to prevent module lock-in.](https://github.com/primus/primus)
 [hugmanrique/turbo-ws: Blazing fast low-level WebSocket server](https://github.com/hugmanrique/turbo-ws)
 [faye/faye-websocket-node: Standards-compliant WebSocket client and server](https://github.com/faye/faye-websocket-node)
+
+[kataras/neffos: A modern, fast and scalable websocket framework with elegant API written in Go](https://github.com/kataras/neffos)
 
 [Implementing a WebSocket Server with Node.js – Hacker Noon](https://hackernoon.com/implementing-a-websocket-server-with-node-js-d9b78ec5ffa8) from scratch
 [Node.js & WebSocket — Simple chat tutorial – Martin Sikora – Medium](https://medium.com/@martin.sikora/node-js-websocket-simple-chat-tutorial-2def3a841b61)
@@ -101,7 +103,7 @@ const app = require("http").createServer(handler);
 
 ## Socket.io
 
-> avoid, old code and memory leak
+> avoid, old code, inefficient and memory leak
 
 [Socket.IO](https://socket.io/)
 [WebSocket and Socket.IO](https://davidwalsh.name/websocket)

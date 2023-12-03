@@ -2,13 +2,15 @@
 title: Baldur's Gate
 description: ""
 created: 2023-08-14
+updated: 2023-09-29
 tags:
-  - game
   - baldurs-gate
+  - game
 ---
 
 # Baldur's Gate 3
 
+Gamker
 [《博得之門 Baldur's Gate》為何被稱為傳奇？它復活的意義？【就知道玩遊戲 65】 - YouTube](https://www.youtube.com/watch?v=n5VE49MXWFs)
 [從《博德之門 3》聊 CRPG 的發展【就知道玩遊戲 118】 - YouTube](https://www.youtube.com/watch?v=3X9zTGp4dBI)
 
@@ -22,3 +24,4 @@ tags:
 ## Build
 
 [【博德之门 3】哪个专长最好？全专长逐个解析评级 - YouTube](https://www.youtube.com/watch?v=w_Rlw8Q5oYI)
+[【柏德之門3 // Baldur's Gate 3】全種族能力講評 - YouTube](https://www.youtube.com/watch?v=Ns-5_q24FCo)

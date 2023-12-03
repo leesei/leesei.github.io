@@ -2,6 +2,7 @@
 title: Behavioral Economics
 description: ""
 created: 2016-04-24
+updated: 2023-09-29
 tags:
   - economics
 ---

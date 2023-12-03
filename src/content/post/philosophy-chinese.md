@@ -2,6 +2,7 @@
 title: Chinese Philosophy
 description: ""
 created: 2023-06-21
+updated: 2023-09-29
 tags:
   - history
   - philosophy

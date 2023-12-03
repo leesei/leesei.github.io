@@ -2,7 +2,7 @@
 title: PHP
 description: ""
 created: 2021-05-28
-updated: 2023-03-27
+updated: 2023-11-02
 tags:
   - comp/lang
   - php
@@ -19,13 +19,16 @@ tags:
 
 [Create a PHP REST API : Write a RESTful API from Scratch using Plain, Object-Oriented PHP and MySQL - YouTube](https://www.youtube.com/watch?v=X51KOJKrofU)
 
-## Commentary
+## Commentaries
 
 [Is PHP Dead? No! At Least Not According to PHP Usage Statistics](https://kinsta.com/blog/is-php-dead/)
 [PHP in decline: The rise and fall of a programming language - JAXenter](https://jaxenter.com/php-tiobe-sept-2019-162096.html)
 
 [Does PHP Suck?! - The Answer May Surprise You! - YouTube](https://www.youtube.com/watch?v=NdCkwiyIYLU)
 [Does PHP Suck? | Prime React - YouTube](https://www.youtube.com/watch?v=Hh72yCYlaww)
+
+[PHP doesn't suck (anymore) - YouTube](https://www.youtube.com/watch?v=ZRV3pBuPxEQ)
+[PHP Doesn't Suck Anymore? | Prime Reacts - YouTube](https://www.youtube.com/watch?v=WsnHWxO7Krw)
 
 ### the bad
 

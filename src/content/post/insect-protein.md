@@ -2,6 +2,7 @@
 title: Insect Protein
 description: ""
 created: 2018-08-30
+updated: 2023-09-29
 tags:
   - science
 ---

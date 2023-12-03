@@ -2,6 +2,7 @@
 title: Automobile
 description: ""
 created: 2020-05-27
+updated: 2023-11-26
 tags:
   - transportation
 ---
@@ -16,6 +17,7 @@ roadster
 coupes
 spyder
 [車款百百樣，什麼是 Coupe？ - 世界高級品 LuxuryWatcher](https://www.luxurywatcher.com/zh-Hant/article/24316)
+[Every Construction Machine Explained in 15 Minutes - YouTube](https://www.youtube.com/watch?v=6CmX4ZmhwPM)
 
 [Under the Hood Channel - HowStuffWorks](http://auto.howstuffworks.com/under-the-hood-channel.htm)
 
@@ -32,6 +34,8 @@ Traction control
 
 ## Driving/Road Safety
 
+[This Image Breaks AI - YouTube](https://www.youtube.com/watch?v=p6CfR3Wpz7Y)
+
 [【e ＋車路事】駕車遇交通意外應如何應對？律師教路保障自己 - ezone.hk - 科技焦點 - 科技 - D180727](https://ezone.ulifestyle.com.hk/article/2124744/【e＋車路事】駕車遇交通意外應如何應對？律師教路保障自己)
 [【e ＋車路事】遇交通意外想和解「私了」要點做？ 大律師教你簽和解紙 - ezone.hk - 科技焦點 - 科技 - D180810](https://ezone.ulifestyle.com.hk/article/2125126/【e＋車路事】遇交通意外想和解「私了」要點做？%20大律師教你簽和解紙!)
 
@@ -42,6 +46,11 @@ Traction control
 [新手駕駛必讀！新舊迴旋處守則你要知 - ezone.hk - 科技焦點 - 科技 - D180622](https://ezone.ulifestyle.com.hk/article/2100334/新手駕駛必讀！新舊迴旋處守則你要知)
 [【龍 Sir 教室 Ep34】迴旋處、螺旋處攻略（內附字幕）｜ TopGear Magazine HK 極速誌 topgearhk - YouTube](https://www.youtube.com/watch?v=SizKyh9Njyk)
 [【龍 Sir 教室 Ep35】迴旋處新手指南加實戰篇（內附字幕）｜ TopGear Magazine HK 極速誌 topgearhk - YouTube](https://www.youtube.com/watch?v=tmfbVL5mrW4)
+
+### Road
+
+[Asphalt vs Tar: What's the Difference? | Tensar](https://www.tensar.co.uk/resources/articles/asphalt-vs-tarmac)
+[What’s the Difference Between Tarmac and Asphalt? - Tarmac Driveways Stafford](https://www.tarmacadamdrivewaystafford.co.uk/guides/difference-between-tarmac-asphalt/)
 
 ## Safety
 
@@ -86,17 +95,16 @@ Powersliding after the apex
 
 ## YouTube Channels
 
-[Doug DeMuro - YouTube](https://www.youtube.com/channel/UCsqjHFMB_JYTaEnf_vmTNqg) exotic cars review
-[Jay Leno's Garage - YouTube](https://www.youtube.com/user/JayLenosGarage)
-[Donut Media - YouTube](https://www.youtube.com/channel/UCL6JmiMXKoXS6bpP1D3bk8g)
-[JohnnyQ90 - YouTube](https://www.youtube.com/channel/UCfCKUsN2HmXfjiOJc7z7xBw) RC Cars
-[Aging Wheels - YouTube](https://www.youtube.com/user/agingwheels) old cars, funny projects
-[小施汽車生活頻道 - YouTube](https://www.youtube.com/channel/UCee8oHYP2XfJRAChLjq-x5g) 2nd hand cars dealer
-[Engineering Explained - YouTube](https://www.youtube.com/user/EngineeringExplained)
-[L 佬 LLOTALK - YouTube](https://www.youtube.com/channel/UCmJlEhw5Z37BMo2w23YRasA)
-[ISSIMI Official - YouTube](https://www.youtube.com/c/ISSIMIOfficial/) cars reviews
-[11 磅小老虎 - YouTube](https://www.youtube.com/channel/UCEuW4cFBWFPrZ898D9rgrhw/featured)
-[REV Channel - YouTube](https://www.youtube.com/c/REVChannelhk)
+[Doug DeMuro - YouTube](https://www.youtube.com/@DougDeMuro) exotic cars review
+[Jay Leno's Garage - YouTube](https://www.youtube.com/@jaylenosgarag)
+[Donut Media - YouTube](https://www.youtube.com/@Donut)
+[JohnnyQ90 - YouTube](https://www.youtube.com/@johnnyq90) RC Cars
+[Aging Wheels - YouTube](https://www.youtube.com/@agingwheels) old cars, funny projects
+[小施汽車生活頻道 - YouTube](https://www.youtube.com/@sscarlife) 2nd hand cars dealer
+[L 佬 LLOTALK - YouTube](https://www.youtube.com/@Llotalk)
+[ISSIMI Official - YouTube](https://www.youtube.com/@ISSIMIOfficial) cars reviews
+[REV Channel - YouTube](https://www.youtube.com/@REVChannelhk)
+[11磅小老虎 - YouTube](https://www.youtube.com/@11bang)
 
 [Automobile Engineering - YouTube](https://www.youtube.com/playlist?list=PLuUdFsbOK_8rJsh_osoqVKfIRUkb8-rOg)
 [Automotive Engineering - YouTube](https://www.youtube.com/playlist?list=PLpw4kOpfNU9bTCpLAf2mM-SpjpcKpnnPu)
@@ -169,6 +177,13 @@ Toyota owns brands such as Hino, Lexus, Ranz, and Daihatsu.
 [FORD RAPTOR - Everything You Need to Know | Up to Speed - YouTube](https://www.youtube.com/watch?v=55jf23CdvhQ)
 [FORD RANGER - Everything You Need to Know | Up to Speed - YouTube](https://www.youtube.com/watch?v=-JfY7UyeY44)
 
+Flatlife
+[Evolution of Lamborghini [1959-2022] - YouTube](https://www.youtube.com/watch?v=hkspsIwUAZU)
+[Evolution of Bugatti | Part 1: The History of a Legend - YouTube](https://www.youtube.com/watch?v=869o7z1X2B0)
+[Evolution of Bugatti | Part 2: Bugatti’s Fastest Cars - YouTube](https://www.youtube.com/watch?v=Yku4aSTZuAw)
+[Evolution of McLaren (Animation) - YouTube](https://www.youtube.com/watch?v=MOHpE0IML7g)
+[Evolution of Koenigsegg (Animation) - YouTube](https://www.youtube.com/watch?v=Fe3Ona4wNaM)
+
 [McLaren F1 - The Science EXPLAINED - YouTube](https://www.youtube.com/watch?v=BdNKDsBj6oI)
 
 [What are the differences between a Range Rover and a Jeep? - Quora](https://www.quora.com/What-are-the-differences-between-a-Range-Rover-and-a-Jeep)
@@ -179,8 +194,26 @@ Toyota owns brands such as Hino, Lexus, Ranz, and Daihatsu.
 
 ## Electric/Hybrid Cars
 
+[Alternative Fuels Data Center: How Do All-Electric Cars Work?](https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work)
+
+Plug-in Hybrid Electric Vehicle (PEV) 插電式混動: 能插電充電, implies larger battery
+Hybrid Electric Vehicle (HEV) 油電混動: 非插電式混動
+
+[缝合怪还是割韭菜？10分钟带你彻底搞懂混动技术！](https://www.youtube.com/watch?v=5tOwLlryaUU)
+
+[#驱动技术](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=2402216471663116289)
+
+- Serial 串聯/增程式
+- Parallel 並聯
+- Serial+Parallel 串並聯
+- Power Split 功率分配
+  like 串並聯 but with planetary gears
+
 Engineering Explained
 [Electric and Hybrid Cars - YouTube](https://www.youtube.com/playlist?list=PL2ir4svMoaYj48N0VWoic25P9LaU2wlbA)
+
+Technology Connections
+[Electric Vehicles - YouTube](https://www.youtube.com/playlist?list=PLv0jwu7G_DFV47UBHArs6fiwVHvstp9ja)
 
 ## Vehicle Autonomy
 
@@ -203,9 +236,42 @@ Engineering Explained
 
 ## CAN bus
 
-[CAN bus - Wikiwand](https://www.wikiwand.com/en/CAN_bus)
+[CAN bus - Wikiwand](https://www.wikiwand.com/en/CAN_bus) ISO 11898-1 AND ISO 11898-2
 [CAN Bus Explained - A Simple Intro [2023] – CSS Electronics](https://www.csselectronics.com/pages/can-bus-simple-intro-tutorial)
 [CAN Bus Protocol: The Ultimate Guide (2023)](https://www.autopi.io/blog/can-bus-explained/)
 [The CAN Bus Protocol - Kvaser](https://www.kvaser.com/about-can/the-can-protocol/)
 [Introduction to CAN (Controller Area Network) - Technical Articles](https://www.allaboutcircuits.com/technical-articles/introduction-to-can-controller-area-network/)
 [What is the CoAP Communication Protocol? - Documents - Tech Connection - element14 Community](https://community.element14.com/learn/learning-center/the-tech-connection/w/documents/3831/what-is-the-coap-communication-protocol)
+
+[Guides – CSS Electronics](https://www.csselectronics.com/pages/can-bus-intros-tutorials) ❗!important
+[CAN DBC Editor Playground - Google Sheets](https://docs.google.com/spreadsheets/d/1X6VQBkqRX0a6QLd4oFbAos_ps3zrpVc86CVGd67DoSs/edit#gid=282429578)
+[Easily Decode CANBus / OBD2 Data in 10 Minutes - YouTube](https://www.youtube.com/watch?v=270c1bkf2Ck)
+[Introduction to the Controller Area Network (CAN) - YouTube](https://www.youtube.com/watch?v=8nl3XkL1eTc)
+[CAN Bus: A Beginners Guide Part 1 - YouTube](https://www.youtube.com/watch?v=YBrU_eZM110)
+[CAN Bus: A Beginners Guide Part 2 - YouTube](https://www.youtube.com/watch?v=z5CVljiLhvc)
+[How does CAN data flow? CAN data flow explained - YouTube](https://www.youtube.com/watch?v=OHQ0PcuUjeM)
+[CAN Protocol Explained | Controller Area Network - YouTube](https://www.youtube.com/watch?v=WikQ5n1QXQs)
+[CAN Frame structure Understanding | CAN communication Explained - YouTube](https://www.youtube.com/watch?v=3vs40cm1wYs)
+
+[Hacking a vehicle network (CAN Bus) - YouTube](https://www.youtube.com/watch?v=Qk-ugN-8roc)
+[Getting started with SocketCAN (can-utils) | ESP32 | Kali Linux Vmware Installation - YouTube](https://www.youtube.com/watch?v=my-mBFQCIZ0)
+[The EASIEST Way to Connect to a Car's CAN Bus - YouTube](https://www.youtube.com/watch?v=Se2KCVyD7CM) ESP32 CAN Bus Shield
+
+[Building a Car Interface Using Raspberry Pi 4 | Bluetooth Sync With OBD II Adapter - YouTube](https://www.youtube.com/watch?v=U8RHjfBV_Ek)
+[DIY Raspberry Pi Racecar Dashboard: The Ultimate Guide - YouTube](https://www.youtube.com/watch?v=SVn9uYfEQrA)
+[Sniffing any CAN-bus on the cheap(5$) with Arduino, Tested on an VW Polo 9N3 - YouTube](https://www.youtube.com/watch?v=fj8ZLTubeko)
+
+[Car Hacking 101: Practical Guide to Exploiting CAN-Bus using Instrument Cluster Simulator — Part I: Setting Up | by Yogesh Ojha | Medium](https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can-bus-using-instrument-cluster-simulator-part-i-cd88d3eb4a53)
+[Car Hacking 101: Practical Guide to Exploiting CAN-Bus using Instrument Cluster Simulator — Part II: Exploitation | by Yogesh Ojha | Medium](https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can-bus-using-instrument-cluster-simulator-part-ee998570758)
+[Car Hacking 101: Practical Guide to Exploiting CAN-Bus using Instrument Cluster Simulator — Part III: SavvyCAN, Fuzzing CAN Frame and playing around with CAN frames | by Yogesh Ojha | Medium](https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can-bus-using-instrument-cluster-simulator-part-ea40c05c49cd)
+
+[CAN Sniffer: 5 Steps to Reverse Engineering the CAN Bus](https://www.autopi.io/blog/discover-hidden-functions-in-your-car-with-can-bus/)
+
+[USBtin - USB to CAN interface - fischl.de](https://www.fischl.de/usbtin/)
+
+[cantools/cantools: CAN bus tools.](https://github.com/cantools/cantools)
+[linux-can/can-utils: Linux-CAN / SocketCAN user space applications](https://github.com/linux-can/can-utils)
+[Can-utils Candump Explained. CANbus communications 101 - YouTube](https://www.youtube.com/watch?v=ef4akXEDKOQ)
+
+[hardbyte/python-can: The can package provides controller area network support for Python developers](https://github.com/hardbyte/python-can)
+[CSS-Electronics/can_decoder: API module for decoding raw CAN bus data to physical values](https://github.com/CSS-Electronics/can_decoder)

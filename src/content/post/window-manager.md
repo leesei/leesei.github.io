@@ -2,7 +2,7 @@
 title: Window Manager
 description: ""
 created: 2014-12-12
-updated: 2023-07-27
+updated: 2023-11-13
 tags:
   - desktop
   - linux
@@ -44,7 +44,7 @@ DistroTube
 - tree base: manually specify spawning position for the new window
 
 [Force Your Terminal To Swallow - YouTube](https://www.youtube.com/watch?v=mBNLzHcUtTo)
-[GitHub - salman-abedin/devour: X11 window swallower](https://github.com/salman-abedin/devour/)
+[salman-abedin/devour: X11 window swallower](https://github.com/salman-abedin/devour/)
 app launched from terminal replaces the terminal
 use `xdg-open` instead?
 
@@ -254,7 +254,7 @@ coldfix/udiskie: automount usb storage
 | [QuickTile][]        | no UI           |
 | [wumwum][]           |                 |
 
-See also [WinSplit Revolution][] (Windows), [Divvy][] (Windows/Mac).
+See also [WinSplit Revolution][] (Windows), [Komorebi][] (Windows), [Divvy][] (Windows/Mac).
 
 [Bluetile - full-featured tiling for the GNOME desktop environment](https://bluetile.org/)
 
@@ -270,17 +270,18 @@ See also [WinSplit Revolution][] (Windows), [Divvy][] (Windows/Mac).
 [Material Shell - A new desktop experience](https://material-shell.com/)
 [Tiling Window Manager for Everyone - Material Shell GNOME Extension - YouTube](https://www.youtube.com/watch?v=E2BZJYNfmiI)
 
-[gtile]: https://github.com/shuairan/gTile
-[quicktile]: https://github.com/ssokolow/quicktile
-[xtile]: http://www.giuspen.com/x-tile/
 [ctrlwm]: http://gtk-apps.org/content/show.php/ctrlwm?content=114565
-[wmctrl]: http://tomas.styblo.name/wmctrl/
+[divvy]: http://alternativeto.net/software/divvy/
+[gtile]: https://github.com/shuairan/gTile
+[komorebi]: https://github.com/LGUG2Z/komorebi
 [pygrid]: https://github.com/pkkid/pygrid
 [pytyle3]: https://github.com/BurntSushi/pytyle3
-[wumwum]: http://wumwum.sourceforge.net/
-[winsplit revolution]: http://winsplit-revolution.com/screenshots
-[divvy]: http://alternativeto.net/software/divvy/
+[quicktile]: https://github.com/ssokolow/quicktile
 [tiling-assistant]: https://github.com/Leleat/Tiling-Assistant
+[winsplit revolution]: http://winsplit-revolution.com/screenshots
+[wmctrl]: http://tomas.styblo.name/wmctrl/
+[wumwum]: http://wumwum.sourceforge.net/
+[xtile]: http://www.giuspen.com/x-tile/
 
 ### Material Shell
 

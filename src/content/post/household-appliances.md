@@ -2,6 +2,7 @@
 title: Household Appliances
 description: ""
 created: 2018-07-05
+updated: 2023-10-18
 tags:
   - aircon
   - cooler
@@ -20,6 +21,7 @@ tags:
 [FView Official Channel - YouTube](https://www.youtube.com/channel/UC6ISXkvMtP_Je1ITiYIJSSA)
 [TESTV - YouTube](https://www.youtube.com/channel/UC9v3JGut2Z1PxrXEpGzgEAA)
 [凰家评测 Phoenix Lab - YouTube](https://www.youtube.com/channel/UC7r1EcBC-zv-6apYGgVmFEw)
+[深入了解PreInsight - YouTube](https://www.youtube.com/@preinsight/featured)
 
 [海賊王 DIY 日記 - YouTube](https://www.youtube.com/channel/UCQzC7WhCU9kZR7zYmGy98zA) fixing household appliances
 
@@ -44,10 +46,11 @@ tags:
 - compressor 壓縮機
 - radiator
 - condenser 冷凝器
-- 蒸發器
-- 膨脹閥
+- evaporator 蒸發器
+- TXV 膨脹閥
 
 [Fundamentals of HVAC - Basics of HVAC - YouTube](https://www.youtube.com/watch?v=klggop60vlM)
+[汽车空调是怎么工作的？AC的工作原理和简单诊断方法. How does car ac system work? - YouTube](https://www.youtube.com/watch?v=EqPAS6ciZDc)
 [Chiller training - YouTube](https://www.youtube.com/playlist?list=PLWv9VM947MKiPw_mH0slE9i6ta4oziUa1)
 [HVAC training - YouTube](https://www.youtube.com/playlist?list=PLWv9VM947MKjXqjyhwbhxxBw3MB50t6cp)
 [Refrigerants and HVAC - YouTube](https://www.youtube.com/playlist?list=PLWv9VM947MKjG8PAguA7WzyrgoGpi2SNC)

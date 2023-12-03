@@ -2,6 +2,7 @@
 title: Internet History
 description: ""
 created: 2016-08-01
+updated: 2023-09-29
 tags:
   - browser-war
   - history
@@ -73,3 +74,5 @@ Netscape, IE
 ## Browser War II
 
 IE, Firefox, Chrome, Opera
+
+[微軟被Google 一路輾壓？！ 微軟在AI時代即將崛起？ I Jerry ON Code 傑瑞叔叔 - YouTube](https://www.youtube.com/watch?v=YIh_dgMQtkw) from 1994 to 2021

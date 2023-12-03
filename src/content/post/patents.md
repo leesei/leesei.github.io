@@ -2,7 +2,7 @@
 title: Patents
 description: ""
 created: 2023-06-28
-updated: 2023-07-26
+updated: 2023-09-29
 tags:
   - ip/patent
   - law

@@ -2,6 +2,7 @@
 title: Bluetooth
 description: ""
 created: 2019-01-29
+updated: 2023-09-29
 tags:
   - bluetooth
   - comp/hardware

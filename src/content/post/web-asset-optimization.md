@@ -2,6 +2,7 @@
 title: Web Asset Optimization
 description: ""
 created: 2023-03-20
+updated: 2023-09-29
 tags:
   - dev/deploy
   - web

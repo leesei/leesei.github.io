@@ -2,6 +2,7 @@
 title: Chip Making
 description: ""
 created: 2023-06-13
+updated: 2023-09-29
 tags:
   - comp/hardware
   - manufacturing
@@ -9,6 +10,7 @@ tags:
 
 [SemiAnalysis | Dylan Patel | Substack](https://www.semianalysis.com/)
 [老石谈芯 - YouTube](https://www.youtube.com/@laoshi_tec)
+[谈三圈 - YouTube](https://www.youtube.com/@tan3quan)
 
 [Why making chips is so hard - YouTube](https://www.youtube.com/watch?v=CkNn98WE5_k)
 
@@ -92,13 +94,16 @@ tags:
 [EUV 光刻太贵了：替代技术正加快速度转正-快科技-科技改变生活](https://m.mydrivers.com/newsview/870055.html?ref=https%3A//www.google.com/)
 
 [用 GPU 榨干光刻机性能！英伟达计算光刻要改写芯片历史？ - YouTube](https://www.youtube.com/watch?v=N8gb_nABdWs)
-
-[How Carl Zeiss Crafts Optics for a $150 Million EUV Machine - YouTube](https://www.youtube.com/watch?v=V__HbVlnICc)
 [You Didn’t Build your PC… This Did. - YouTube](https://www.youtube.com/watch?v=pfU20SAR21A) ASML's EUV machine
-[The Extreme Engineering of ASML’s EUV Light Source - YouTube](https://www.youtube.com/watch?v=5Ge2RcvDlgw)
+
+@Asianometry
+[How Carl Zeiss Crafts Optics for a $150 Million EUV Machine - YouTube](https://www.youtube.com/watch?v=V__HbVlnICc)
+[How ASML Builds a $150 Million EUV Machine - YouTube](https://www.youtube.com/watch?v=jJIO7aRXUCg)
 [“The Decision of the Century”: Choosing EUV Lithography - YouTube](https://www.youtube.com/watch?v=RmgkV83OhHA)
+[The Extreme Engineering of ASML’s EUV Light Source - YouTube](https://www.youtube.com/watch?v=5Ge2RcvDlgw)
 [Can You Do 7nm Chips Without EUV? - YouTube](https://www.youtube.com/watch?v=Th4E-0VFaEA)
 [What ASML Has Next After EUV - YouTube](https://www.youtube.com/watch?v=en7hhFJBrAI) High-NA EUV
+[ASML's High-NA and Hyper-NA EUV: An Update - YouTube](https://www.youtube.com/watch?v=Fc_lEzGiClk)
 before EUV, etching is done with 193nm light; EUV uses 13.5nm light
 immersion lithography (ArFi) (2007, N42) and multiple patterning (repeated exposure at lower resolutions) (N22) are used til first batch of N7 A12 from Apple
 

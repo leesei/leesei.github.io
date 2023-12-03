@@ -1,8 +1,8 @@
 ---
-title: JavaScript Notes
+title: JavaScript
 description: ""
 created: 2014-12-11
-updated: 2023-08-14
+updated: 2023-11-12
 tags:
   - comp/lang
   - javascript
@@ -89,6 +89,8 @@ Harmony stands for the ES5+ feature set. Some of them will be in ES6, some of th
 [Four talks on ECMAS cript 6/ECMAScript.next](http://www.2ality.com/2012/11/es6-talks.html)
 [RSConf. Dr. Axel Rauschmayer. Using ECMAScript 6 today. Part I - YouTube](https://www.youtube.com/watch?v=Fg3bEZIcnUw)
 [RSConf. Dr. Axel Rauschmayer. Using ECMAScript 6 today. Part II - YouTube](https://www.youtube.com/watch?v=Vhhq1WpzsnM)
+
+[The Better Parts. Douglas Crockford. JS Fest 2018 - YouTube](https://www.youtube.com/watch?v=XFTOG895C7c)
 
 [How to Write an Open Source JavaScript Library - Video Tutorial Series @eggheadio](https://egghead.io/series/how-to-write-an-open-source-javascript-library)
 
@@ -324,8 +326,10 @@ const arr = new Int32Array(sharedBuffer);
 [How Callbacks Work - macwright.org](http://www.macwright.org/2013/07/10/how-callbacks-work.html)
 [Understanding callback functions in Javascript](http://recurial.com/programming/understanding-callback-functions-in-javascript/)
 
-[Home - Documentation](http://caolan.github.io/async/v3/)
+[Async - Documentation](http://caolan.github.io/async/v3/)
 [caolan/async: Async utilities for node and the browser](https://github.com/caolan/async)
+[modern-async](https://nicolas-van.github.io/modern-async/modern-async/1.1.3/)
+[gulpjs/now-and-later: Map over an array or object of values in parallel or series, passing each through the async iterator, with optional lifecycle hooks.](https://github.com/gulpjs/now-and-later)
 [mcollina/steed: horsepower for your modules](https://github.com/mcollina/steed)
 
 [feross/run-auto: Determine the best order for running async functions, LIKE MAGIC!](https://github.com/feross/run-auto)
@@ -449,6 +453,7 @@ db.allDocs().then(docs =>
 [Real-life Javascript Generators — Developers Writing — Medium](https://medium.com/developers-writing/real-life-javascript-generators-80c810f82c5c#.d8mkrqvvk)
 [Callbacks vs Coroutines — Medium](https://medium.com/@tjholowaychuk/callbacks-vs-coroutines-174f1fe66127)
 [Async Generator Functions in JavaScript | www.thecodebarbarian.com](http://thecodebarbarian.com/async-generator-functions-in-javascript.html)
+[How to use Generators in JavaScript - DEV Community](https://dev.to/accreditly/how-to-use-generators-in-javascript-jol)
 
 ## Strict mode
 
@@ -485,6 +490,9 @@ String nowAsISO = df.format(new Date());
 // attention: IE only takes offset as "+08:00", not "+0800"
 // use "XXX" instead of "Z" format
 ```
+
+[wojtekmaj/date-utils: A collection of date-related utilities.](https://github.com/wojtekmaj/date-utils)
+[Adding functions · Issue #6 · wojtekmaj/date-utils · GitHub](https://github.com/wojtekmaj/date-utils/issues/6)
 
 ## Strings/Regex
 
@@ -769,40 +777,14 @@ Class Inheritance: instances inherit from classes (like a blueprint — a de
 
 ## Derivatives
 
-> see `scala.md#scalajs`
+[[scala#Scala.js]]
+[[web-assembly#Python in Browser]]
 
 [List of languages that compile to JS · jashkenas/coffeescript Wiki](https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS)
 [Make ES6, Not Coffee » Gofore](http://gofore.com/ohjelmistokehitys/make-es6-coffee/)
 
 [google/j2cl: Java to Closure JavaScript transpiler](https://github.com/google/j2cl)
 [J2CL: A Java-to-JavaScript Transpiler](https://www.infoq.com/news/2019/05/j2cl-java-javascript-transpiler/)
-
-### Python in Browser
-
-[Pyodide](https://pyodide.org/en/stable/)
-[pyodide/pyodide: Python with the scientific stack, compiled to WebAssembly.](https://github.com/pyodide/pyodide)
-[Mozilla promotes Pyodide as independent project to put Python in a browser • DEVCLASS](https://devclass.com/2021/04/26/mozilla-promotes-pyodide-as-an-independent-project-to-put-python-in-a-browser/)
-supports CPython compiled to WebAssembly
-
-[A Brief Tour through Pyodide - Iodide](https://alpha.iodide.io/notebooks/300/) Iodide (deprecated) is for data science
-[Pyodide: Bringing the scientific Python stack to the browser - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/)
-[Pyodide Spin Out and 0.17 Release - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2021/04/pyodide-spin-out-and-0-17-release/)
-
-[PyScript | Run Python in your HTML](https://pyscript.net/) package TypeScrypt + Svelte + Tailwind + Pyodide together
-[pyscript/pyscript: Home Page: https://pyscript.net Examples: https://pyscript.net/examples](https://github.com/pyscript/pyscript)
-[A First Look at PyScript: Python in the Web Browser – Real Python](https://realpython.com/pyscript-python-in-browser/)
-[PyScript: Making Python Scripts Work In Browser For Web App Creation](https://www.searchenginejournal.com/python-scripts-web-app-creation/454348/)
-[I Tested PyScript — And You Can Literally Write Python Scripts In Your Browser | by Eldad Uzman | Better Programming](https://betterprogramming.pub/i-tested-pyscript-and-you-can-literally-write-python-scripts-in-your-browser-2e4c8ca125bf)
-[PyScript is officially here!🚀 Build web apps with Python & HTML - YouTube](https://www.youtube.com/watch?v=owopzp436jM)
-
-[ethanhs/python-wasm: Build scripts and configuration for building CPython for Emscripten](https://github.com/ethanhs/python-wasm)
-[How to build and run your Python scripts in a web browser • The Register](https://www.theregister.com/2021/11/30/python_web_wasm/)
-
-[Brython](https://brython.info/) Browser Python
-[Brython tutorial](https://brython.info/static_tutorial/en/index.html)
-[Brython videos and talks · brython-dev/brython Wiki](https://github.com/brython-dev/brython/wiki/Brython-videos-and-talks)
-
-[pypyjs/pypyjs: PyPy compiled to JavaScript](https://github.com/pypyjs/pypyjs) the output is too large
 
 ### ReasonML/ReScript
 

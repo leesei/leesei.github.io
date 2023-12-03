@@ -2,7 +2,7 @@
 title: Mathematics
 description: ""
 created: 2017-10-31
-updated: 2023-08-14
+updated: 2023-10-27
 tags:
   - math
 ---
@@ -21,6 +21,7 @@ tags:
 [Mathstopia | Share your Knowledge](https://www.mathstopia.net/)
 [Math is Fun](https://www.mathsisfun.com/)
 [The Map of Mathematics - YouTube](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)
+[The story of mathematical proof – with John Stillwell - YouTube](https://www.youtube.com/watch?v=S1AEWuCFq6A) geometric -> algebraic (including calculus) proof, unsolvability
 
 [Permutations/Combinations Algorithms Cheat Sheets - DEV Community 👩‍💻👨‍💻](https://dev.to/trekhleb/permutationscombinations-algorithms-cheat-sheets-3job)
 
@@ -30,15 +31,16 @@ tags:
 [CalmCode Blog: An Inverse Turing Test](https://calmcode.io/blog/inverse-turing-test.html)
 
 [3Blue1Brown - YouTube](https://www.youtube.com/@3blue1brown)
-[Primer - YouTube](https://www.youtube.com/@PrimerLearning)
-[Mathologer - YouTube](https://www.youtube.com/@Mathologer)
-[Mathemaniac - YouTube](https://www.youtube.com/@mathemaniac)
 [Another Roof - YouTube](https://www.youtube.com/@AnotherRoof)
-[VisualMath - YouTube](https://www.youtube.com/@VisualMath)
 [eigenchris - YouTube](https://www.youtube.com/@eigenchris) Linear Algebra, Physics
+[Mathemaniac - YouTube](https://www.youtube.com/@mathemaniac)
+[Mathologer - YouTube](https://www.youtube.com/@Mathologer)
+[MindYourDecisions - YouTube](https://www.youtube.com/@MindYourDecisions)
+[Primer - YouTube](https://www.youtube.com/@PrimerLearning)
+[VisualMath - YouTube](https://www.youtube.com/@VisualMath)
 [Zach Star - YouTube](https://www.youtube.com/@zachstar)
-
 [妈咪说 MommyTalk - YouTube](https://www.youtube.com/@Sci1729)
+[黑筆紅筆 - YouTube](https://www.youtube.com/@bprptw)
 
 [Understanding Wavelets - YouTube](https://www.youtube.com/playlist?list=PLn8PRpmsu08ojy02wi4QLVzELM545Xw3p)
 
@@ -78,6 +80,9 @@ Uncountably infinite: 1-1 correspondence with Real Numbers, non-enumerable infin
 Encode mathematics operation as numbers, one can create a number (statement) that cannot be proved within the system
 
 [哥德尔不完备定理到底说了啥？为什么希尔伯特的数学梦因此破灭？ - YouTube](https://www.youtube.com/watch?v=FVZaOTi6ZbE)
+
+[Alan Turing Publishes "On Computable Numbers," Describing What Came to be Called the "Turing Machine" : History of Information](https://www.historyofinformation.com/detail.php?id=619)
+[Turing_Paper_1936.pdf](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
 
 ## Linear Algebra
 
@@ -146,6 +151,8 @@ Eigenvalue = sum of squared distances of projected points on principal component
 
 [Daniel Pyrathon - A practical guide to Singular Value Decomposition in Python - PyCon 2018 - YouTube](https://www.youtube.com/watch?v=d7iIb_XVkZs) [slide](https://speakerdeck.com/pycon2018/daniel-pyrathon-a-practical-guide-to-singular-value-decomposition-in-python)
 
+[淺談降維方法中的 PCA 與 t-SNE. 在機器學習當中，如果特徵數過多時，有可能會造成一些問題，像是： | by 愷開 | De-Magazine | Medium](https://medium.com/d-d-mag/%E6%B7%BA%E8%AB%87%E5%85%A9%E7%A8%AE%E9%99%8D%E7%B6%AD%E6%96%B9%E6%B3%95-pca-%E8%88%87-t-sne-d4254916925b)
+
 ## Discrete Mathematics
 
 [Introduction to Discrete Mathematics for Computer Science | Coursera](https://www.coursera.org/specializations/discrete-mathematics)
@@ -197,8 +204,12 @@ equilibrium probability = left eigen vector of the adjacency matrix
 ## Category Theory
 
 [A Sensible Introduction to Category Theory - YouTube](https://www.youtube.com/watch?v=yAi3XWCBkDo)
-[Intuitive Introduction to Category Theory - YouTube](https://www.youtube.com/watch?v=ZG6t0-JMrw0)
 [27 Unhelpful Facts About Category Theory - YouTube](https://www.youtube.com/watch?v=H0Ek86IH-3Y) parody
+
+[Intuitive Introduction to Category Theory - YouTube](https://www.youtube.com/watch?v=ZG6t0-JMrw0)
+[A Crash Course in Category Theory - Bartosz Milewski - YouTube](https://www.youtube.com/watch?v=JH_Ou17_zyU)
+
+[The Mathematician's Weapon | An Introduction to Category Theory, Abstraction and Algebra | #SoME3 - YouTube](https://www.youtube.com/watch?v=FQYOpD7tv30)
 
 ## Calculus
 
@@ -375,6 +386,9 @@ p-value is the probability that random chance generated the data, or something e
 [Fermat's little theorem - Wikiwand](https://www.wikiwand.com/en/Fermat%27s_little_theorem)
 [Fermat's little theorem - GeeksforGeeks](https://www.geeksforgeeks.org/fermats-little-theorem/)
 [Carmichael number - Wikiwand](https://www.wikiwand.com/en/Carmichael_number) exceptions to Fermat's little theorem
+
+[P-adic number - Wikiwand](https://www.wikiwand.com/en/p-adic)
+[Mathematicians Use Numbers Differently From The Rest of Us - YouTube](https://www.youtube.com/watch?v=tRaq4aYPzCc)
 
 ## Geometry
 

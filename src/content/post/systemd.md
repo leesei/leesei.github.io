@@ -2,6 +2,7 @@
 title: systemd
 description: ""
 created: 2017-01-05
+updated: 2023-10-31
 tags:
   - desktop
   - linux
@@ -181,7 +182,7 @@ systemd-nspawn -D /var/lib/machines/<container name>
 
 [systemd-analyze command man page - systemd | ManKier](https://www.mankier.com/1/systemd-analyze) analyse boot time
 
-```
+```sh
 systemd-analyze blame | head -5
 ```
 

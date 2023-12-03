@@ -2,7 +2,7 @@
 title: Science
 description: ""
 created: 2019-08-09
-updated: 2023-08-14
+updated: 2023-10-28
 tags:
   - science
 ---
@@ -63,7 +63,8 @@ tags:
 
 [Standard Model - Wikiwand](https://www.wikiwand.com/en/Standard_Model)
 [The Standard Model | CERN](https://home.cern/science/physics/standard-model)
-[The Standard Model - YouTube](https://www.youtube.com/playlist?list=PLoaVOjvkzQtwltNydLdcTwBauZVpwdFwz)
+[The Standard Model - YouTube](https://www.youtube.com/playlist?list=PLoaVOjvkzQtwltNydLdcTwBauZVpwdFwz) minutephysics
+[The Standard Model Lagrangian Playlist - YouTube](https://www.youtube.com/playlist?list=PLsPUh22kYmNBgF_VMMLHFK0lbQGlVGk3v) PBS Space Time
 [How To Read Feynman Diagrams - YouTube](https://www.youtube.com/watch?v=oBNZOOuqO6c)
 [Science Made Simple: What Is the Standard Model of Particle Physics?](https://scitechdaily.com/science-made-simple-what-is-the-standard-model-of-particle-physics/)
 Quantum Field Theory, unifies strong, weak, and EM forces; compatible with Quantum Mechanics and Special Relativity
@@ -96,6 +97,7 @@ Faraday: field only
 [What are bosons? | Space](https://www.space.com/what-are-bosons)
 [What are gluons? | Space](https://www.space.com/gluons-carriers-strong-force-explained)
 [Leptons: The elementary particles explained | Space](https://www.space.com/leptons-facts-explained)
+[The Fundamental Forces & The Standard Model - YouTube](https://www.youtube.com/playlist?list=PLsPUh22kYmNAnurqRx9JlDGukZCsYcLhF) PBS Space Time
 
 [Why Don't Protons Fly Apart in the Nucleus of Atoms? RESIDUAL Strong Force Explained - YouTube](https://www.youtube.com/watch?v=WF2c_jzefKc)
 
@@ -143,7 +145,9 @@ electron forming [Cooper pair](https://www.wikiwand.com/en/Cooper_pair) will bec
 [Unconventional superconductor - Wikiwand](https://www.wikiwand.com/en/Unconventional_superconductor)
 [BCS theory - Wikiwand](https://www.wikiwand.com/en/BCS_theory) condensation of [Cooper pairs](https://www.wikiwand.com/en/Cooper_pair) of low energy state electrons such that the metal grid cannot slow them down
 [The Impact of Superconductors - YouTube](https://www.youtube.com/watch?v=uq2b4BqKswg)
+[What’s Up With Superconductors? With Neil deGrasse Tyson - YouTube](https://www.youtube.com/watch?v=kZXF8h0qrZE)
 
+[十分钟看懂超导体产业：论文突飞猛进，现实还停留在石器时代？ - YouTube](https://www.youtube.com/watch?v=5iDUloeF5Z8)
 [从超导到石墨烯 95 后曹原有何贡献？100 年内物理学家经历了什么？ - YouTube](https://www.youtube.com/watch?v=aKYpfzqmTdk)
 
 [备受争议的「室温超导」是真是假？一切要从金属氢说起 - YouTube](https://www.youtube.com/watch?v=elFUMP7fP3k)
@@ -155,9 +159,12 @@ electron forming [Cooper pair](https://www.wikiwand.com/en/Cooper_pair) will bec
 
 #### LK99
 
+[【最新消息】傳說中的常溫超導體，現在進度怎麼樣了？ - YouTube](https://www.youtube.com/watch?v=FHfG5Z2AQqs)
+
 [韓國 LK-99「室溫常壓超導體」相同研究論文卻鬧雙胞，因為諾貝爾獎不喜歡 3 人以上的研究？ | T 客邦](https://www.techbang.com/posts/108395-7-people-won-the-nobel-prize-and-the-korean-room-temperature)
+[Bad Science and Room Temperature Superconductors - Sixty Symbols - YouTube](https://www.youtube.com/watch?v=zl-AgmoZ5mo)
 [Engineer Details Messy LK-99 Superconductor Creation Process | Tom's Hardware](https://www.tomshardware.com/news/engineer-details-messy-lk-99-superconductor-fabrication-process)
-[Claims of Room Temperature and Ambient Pressure Superconductor | Page 13 | SpaceBattles](https://forums.spacebattles.com/threads/claims-of-room-temperature-and-ambient-pressure-superconductor.1106083/page-13)
+[Claims of Room Temperature and Ambient Pressure Superconductor | SpaceBattles](https://forums.spacebattles.com/threads/claims-of-room-temperature-and-ambient-pressure-superconductor.1106083/)
 [LK-99 Will be a New and Different Type of Superconductor #LK99 | NextBigFuture.com](https://www.nextbigfuture.com/2023/08/lk-99-will-be-a-new-and-different-type-of-superconductor-lk99.html)
 
 ["World-changing" LK-99 Superconductor explained quickly - YouTube](https://www.youtube.com/watch?v=BPadRwJbylY)
@@ -264,6 +271,15 @@ Weak force has handiness
 [活性炭 - Wikiwand](https://www.wikiwand.com/zh/%E6%B4%BB%E6%80%A7%E7%82%AD)
 [Activated charcoal: 8 uses and what the science says](https://www.medicalnewstoday.com/articles/322609)
 
+## Light
+
+### Polarization
+
+[Why Sugar Always Twists Light To The Right - Optical Rotation - YouTube](https://www.youtube.com/watch?v=975r9a7FMqc)
+
+[This demo tests your understanding of light | Barber pole, part 1 - YouTube](https://www.youtube.com/watch?v=QCX62YJCmGk)
+[The origin of light, scattering, and polarization | Barber pole, part 2 - YouTube](https://www.youtube.com/watch?v=aXRTczANuIs)
+
 ## Relativity
 
 [What is Relativity? | Live Science](https://www.livescience.com/32216-what-is-relativity.html)
@@ -285,6 +301,8 @@ Weak force has handiness
 [Intro to Special Relativity Course - YouTube](https://www.youtube.com/playlist?list=PLoaVOjvkzQtyjhV55wZcdicAz5KexgKvm) minutephysics
 [Special Relativity - YouTube](https://www.youtube.com/playlist?list=PL712E709B05086D32) minutephysics
 [Special Relativity - YouTube](https://www.youtube.com/playlist?list=PLi4bAmTKSQEKyYiGQVvfbZbNTu-e5lauS) Frame of Essence
+[Curved Spacetime in General Relativity - YouTube](https://www.youtube.com/playlist?list=PLsPUh22kYmNAmjsHke4pd8S9z6m_hVRur) PBS Space Time
+[Relativity Explained - YouTube](https://www.youtube.com/playlist?list=PLOMmeEsL7dq-fVnQGQwVJeKZxvl0kdjIp) Kuvina Saydaki
 [相对论 - YouTube](https://www.youtube.com/playlist?list=PLOrDt87s8A3r4X6gzfA2wIwqmARLcYMXw) 李永乐老师
 [相对论 Relativity - YouTube](https://www.youtube.com/playlist?list=PLQPHZF5uyZIFeCWwgvZyXvAbQjcviGEo9) 眼见为识
 [一个公式理解相对论：从伽利略变换到洛伦兹变换 - YouTube](https://www.youtube.com/watch?v=9xfaNMfT_rY)
@@ -312,6 +330,8 @@ Weak force has handiness
 
 [Quantum mechanics - Wikiwand](https://www.wikiwand.com/en/Quantum_mechanics)
 [Quantum Mechanics - YouTube](https://www.youtube.com/playlist?list=PL0E2ABD1D84697428) minutephysics
+[Quantum Mechanics - YouTube](https://www.youtube.com/playlist?list=PLsPUh22kYmNCGaVGuGfKfJl-6RdHiCjo1) PBS Space Time
+[【量子物理 入门】 - YouTube](https://www.youtube.com/playlist?list=PLg45KLfneaCTEP239hD6WhBd4xQ222GTn) 青蛙刀圣 1993
 
 [Uncertainty principle - Wikiwand](https://www.wikiwand.com/en/Uncertainty_principle)
 [The Heisenberg Uncertainty Principle Explained Intuitively - YouTube](https://www.youtube.com/watch?v=qwt6wUUD2QI)
@@ -319,6 +339,9 @@ Weak force has handiness
 Domain of Science
 [The Map of Quantum Physics - YouTube](https://www.youtube.com/watch?v=gAFAj3pzvAA)
 [If You Don't Understand Quantum Physics, Try This! - YouTube](https://www.youtube.com/watch?v=Usu9xZfabPM)
+
+PBS Space Time
+[Electrons DO NOT Spin - YouTube](https://www.youtube.com/watch?v=pWlk1gLkF2Y)
 
 [Exploring the quantum world | Series | Ars Technica](https://arstechnica.com/series/exploring-the-quantum-world/amp/)
 [What the Bleep Do We Know!? | Educational Downloads](https://whatthebleep.com/educational-downloads/)
@@ -355,6 +378,7 @@ Domain of Science
 [How Does Classical Reality Emerge From Quantum Environments?](https://www.forbes.com/sites/chadorzel/2019/08/07/how-does-classical-reality-emerge-from-quantum-environments/amp/)
 [Quantum Darwinism may solve the question of whether God plays dice or not](https://thenextweb.com/insights/2019/07/30/quantum-darwinism-may-solve-the-question-of-whether-god-plays-dice-or-not/amp/)
 [The Many-Worlds Theory, Explained | The MIT Press Reader](https://thereader.mitpress.mit.edu/the-many-worlds-theory/)
+[Does the Many Worlds Interpretation make sense? - YouTube](https://www.youtube.com/watch?v=433tAfO4dbA)
 
 [Quantum observers with knowledge of quantum mechanics break reality – Ars Technica](https://arstechnica.com/science/2018/09/quantum-observers-with-knowledge-of-quantum-mechanics-break-reality/amp/)
 

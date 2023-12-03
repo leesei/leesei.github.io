@@ -2,7 +2,7 @@
 title: React.js
 description: The library for web and native user interfaces
 created: 2015-12-04
-updated: 2023-08-08
+updated: 2023-11-22
 tags:
   - frontend
   - javascript
@@ -133,7 +133,7 @@ yarn create t3-app
 [Scalable file structure for React and other projects](https://react-file-structure.surge.sh/)
 move files around until it feels right
 
-## Commentary
+## Commentaries
 
 ### Why React
 
@@ -256,6 +256,8 @@ create `modules.d.ts` and define module
 
 [Virtual DOM and Internals – React](https://reactjs.org/docs/faq-internals.html)
 [react/packages/react-reconciler at main · facebook/react](https://github.com/facebook/react/tree/main/packages/react-reconciler)
+
+[React Rally 2023 - A (Brief) Guide to React Rendering Behavior · Mark's Dev Blog](https://blog.isquaredsoftware.com/2023/08/presentations-react-rendering-behavior/)
 
 [3 common mistakes that impede React reconciliation and updating processes](https://medium.com/strands-tech-corner/3-common-mistakes-that-impede-react-reconciliation-and-updating-processes-8b917ebde61e)
 [Understanding Rendering Behavior in React](https://geekflare.com/react-rendering/)
@@ -477,6 +479,7 @@ Use `React.createRef()`/`React.useRef()`, not string ref or callback ref
 [I Built a Blog with RemixJS so You Don't Have To (You're Welcome)](https://blog.openreplay.com/i-built-a-blog-with-remixjs-so-you-don-t-have-to-you-re-welcome)
 [Is Remix JS the Next Framework for You? | Bits and Pieces](https://blog.bitsrc.io/is-remix-the-next-framework-you-have-to-learn-3e7dca13e9d1)
 [An Alternative to Next.JS? - Everything You Need to Know About RemixJS](https://blog.openreplay.com/an-alternative-to-next-js-everything-you-need-to-know-about-remixjs)
+[Remix - Web Standards Are Cool Again - Simple Thread](https://www.simplethread.com/remix-web-standards-are-cool-again/)
 
 [Remix Tutorial with Kent - YouTube](https://www.youtube.com/watch?v=hsIWJpuxNj0) 6 hours
 [Remix is a NEW JavaScript framework you MUST try - YouTube](https://www.youtube.com/watch?v=r4B69HAOXnA)
@@ -494,8 +497,16 @@ Use `React.createRef()`/`React.useRef()`, not string ref or callback ref
 
 ## React Server Component
 
+> this is a React + Next.js thing (Next.js adding [[nextjs#Server Actions]])
+> the paradigm is quite different from React on client, I won't try this
+
 [Understanding React Server Components – Vercel](https://vercel.com/blog/understanding-react-server-components#why-do-we-need-server-components)
 [Getting Started: React Essentials | Next.js](https://nextjs.org/docs/getting-started/react-essentials#server-components)
+
+[Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
+[React Server Components: A Comprehensive Breakdown - YouTube](https://www.youtube.com/watch?v=VIwWgV3Lc6s) 52:41
+
+[My take on the current React & Server Components controversy | phryneas.de](https://phryneas.de/react-server-components-controversy)
 
 [React Server Components](https://www.patterns.dev/posts/react-server-components)
 [Introducing Zero-Bundle-Size React Server Components – React Blog](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
@@ -641,7 +652,6 @@ Alternatives API design:
 [React Hooks in depth - JavaScript in Plain English - Medium](https://medium.com/javascript-in-plain-english/react-hooks-3461b10907fa)
 [Getting Closure on React Hooks](https://www.swyx.io/hooks/)
 
-[Demystifying React Hooks: useCallback and useMemo - DEV](https://dev.to/milu_franz/demystifying-react-hooks-usecallback-and-usememo-1a8j)
 [Demystifying React Hooks: useRef - DEV](https://dev.to/milu_franz/demystifying-react-hooks-useref-2ddp)
 [Demystifying React Hooks: useContext - DEV](https://dev.to/milu_franz/demystifying-react-hooks-usecontext-5g4a)
 [Demystifying React Hooks: useReducer - DEV](https://dev.to/milu_franz/demystifying-react-hooks-usereducer-3o3n)
@@ -1059,10 +1069,6 @@ const Conditional = (props) => {
 [Render Performance Optimization With React - Adaptive Financial Consulting](https://weareadaptive.com/2020/04/09/render-performance-optimization-react/)
 [5 Packages to Optimize and Speed Up Your React App During Development - DEV Community](https://dev.to/nilanth/5-packages-to-optimize-and-speed-up-your-react-app-during-development-4h5f)
 
-[Fix the slow render before you fix the re-render](https://kentcdodds.com/blog/fix-the-slow-render-before-you-fix-the-re-render)
-[DejaVu: Caching versus Memoization - DEV Community 👩‍💻👨‍💻](https://dev.to/thekashey/dejavu-caching-versus-memoization-298n) PUSH mode of hook cause double rendering
-[Before You memo() — Overreacted](https://overreacted.io/before-you-memo/)
-
 [Introducing the React Profiler – React Blog](https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html)
 [Deep dive with the React DevTools profiler - YouTube](https://www.youtube.com/watch?v=nySib7ipZdk)
 
@@ -1085,8 +1091,20 @@ const Conditional = (props) => {
 
 [Improve React App Performance Through Memoization – Bits and Pieces](https://blog.bitsrc.io/improve-react-app-performance-through-memoization-cd651f561f66)
 [React Hooks: Optimizing for performance - ITNEXT](https://itnext.io/optimizing-react-code-with-hooks-3eaaf5978351)
+
+[How React Forget will make React useMemo and useCallback hooks absolutely redundant - DEV Community](https://dev.to/usulpro/how-react-forget-will-make-react-usememo-and-usecallback-hooks-absolutely-redundant-4l68)
+[What is React Forget?](https://www.linkedin.com/pulse/what-reactforget-sammy-jo-wymer-msc-iix8e)
+
+[Fix the slow render before you fix the re-render](https://kentcdodds.com/blog/fix-the-slow-render-before-you-fix-the-re-render)
+[DejaVu: Caching versus Memoization - DEV Community 👩‍💻👨‍💻](https://dev.to/thekashey/dejavu-caching-versus-memoization-298n) PUSH mode of hook cause double rendering
+[Demystifying React Hooks: useCallback and useMemo - DEV](https://dev.to/milu_franz/demystifying-react-hooks-usecallback-and-usememo-1a8j)
+[Before You memo() — Overreacted](https://overreacted.io/before-you-memo/)
+[The Uphill Battle of Memoization | TkDodo's blog](https://tkdodo.eu/blog/the-uphill-battle-of-memoization)
+[You Probably Shouldn't Use React.memo() - YouTube](https://www.youtube.com/watch?v=Yh2eH4fXgbU)
+
 `useMemo()` and `useCallback()` create stable variable that can be used in improving re-render speed
-`useCallback(fn, deps)`` is equivalent to`useMemo(() => fn, deps)`.
+` useCallback(fn, deps)` is equivalent to `useMemo(() => fn, deps)`.
+
 [React hooks: useCallback and useEffect dependencies - YouTube](https://www.youtube.com/watch?v=L59rOas2AYE)
 [use-updating-callbacks - npm](https://www.npmjs.com/package/use-updating-callbacks) use the latest closure
 
@@ -1159,49 +1177,27 @@ function App({ text }) {
 
 ### Animation
 
-[React Animation Libraries for 2020 - Bits and Pieces](https://blog.bitsrc.io/react-animation-libraries-for-2020-437a21c73fed)
 [Best Animation Libraries For React🎉 - DEV Community](https://dev.to/arafat4693/best-animation-libraries-for-react-156n)
-[5 Ways to animate a React app in 2019. - Dmitry Nozhenko - Medium](https://medium.com/@dmitrynozhenko/5-ways-to-animate-a-reactjs-app-in-2019-56eb9af6e3bf)
-[15 个有用的 React 动画库，马上让你的项目变得高大上-技术圈](https://jishuin.proginn.com/p/763bfbd544da)
+[15个有用的React动画库，马上让你的项目变得高大上-轻识](https://www.qinglite.cn/doc/3661647573a5c3636)
+[React-Stonecutter](https://dantrain.github.io/react-stonecutter/) masonry layout
+[dantrain/react-stonecutter: Animated grid layout component for React](https://github.com/dantrain/react-stonecutter)
 
-[React Transition Group](https://reactcommunity.org/react-transition-group/) only transitions
+[React Awesome Reveal](https://react-awesome-reveal.morello.dev/)
+[morellodev/react-awesome-reveal: React components to add reveal animations using the Intersection Observer API and CSS Animations.](https://github.com/morellodev/react-awesome-reveal)
+
+#### Framer Motion
 
 [Production-Ready Animation Library for React | Framer Motion](https://www.framer.com/motion/)
+[Responsive Framer Motion with Tailwind CSS - YouTube](https://www.youtube.com/watch?v=xSuxsfn13xg)
 [How to Use Framer Motion to Add Animations and Page Transitions to a Next.js React App - YouTube](https://www.youtube.com/watch?v=q9tpBtvTTz8)
+
+#### React Spring
 
 [react-spring](https://react-spring.io/) hook for animation
 [pmndrs/react-spring: ✌️ A spring physics based React animation library](https://github.com/pmndrs/react-spring)
 [stipsan/react-spring-bottom-sheet: Accessible ♿️, Delightful ✨, & Fast 🚀](https://github.com/stipsan/react-spring-bottom-sheet)
 [Hooks in react-spring, a tutorial – Paul Henschel – Medium](https://medium.com/@drcmda/hooks-in-react-spring-a-tutorial-c6c436ad7ee4)
 [React hover animation effect with React Spring](https://www.joshwcomeau.com/react/boop/)
-
-[Pose | A truly simple animation library for React, React Native, and Vue](https://popmotion.io/pose/)
-[Amazing React animation with react-pose - João Miguel Cunha - Medium](https://medium.com/@joomiguelcunha/amazing-react-animation-with-react-pose-3b67d9eb6e07)
-
-[chenglou/react-motion: A spring that solves your animation problems.](https://github.com/chenglou/react-motion)
-[animatedjs/animated: Declarative Animations Library for React and React Native](https://github.com/animatedjs/animated)
-[FormidableLabs/react-animations: 🎊 A collection of animations for inline style libraries](https://github.com/formidablelabs/react-animations)
-[FormidableLabs/react-shuffle: Animated shuffling of child components on change](https://github.com/formidablelabs/react-shuffle)
-[aholachek/react-flip-toolkit: A lightweight magic-move library for configurable layout transitions](https://github.com/aholachek/react-flip-toolkit)
-[Animating Between Views in React | CSS-Tricks](https://css-tricks.com/animating-between-views-in-react/)
-
-[React Transition Group](https://reactcommunity.org/react-transition-group/)
-[reactjs/react-transition-group: An easy way to perform animations when a React component enters or leaves the DOM](https://github.com/reactjs/react-transition-group)
-
-[brunnolou/react-morph: Morphing Ui transitions made simple](https://github.com/brunnolou/react-morph)
-[Morphing UI Transitions with React Morph | DigitalOcean](https://www.digitalocean.com/community/tutorials/react-react-morph)
-
-[React-Stonecutter](https://dantrain.github.io/react-stonecutter/)
-[dantrain/react-stonecutter: Animated grid layout component for React](https://github.com/dantrain/react-stonecutter) masonry layout
-
-[React Awesome Reveal](https://react-awesome-reveal.morello.dev/)
-[morellodev/react-awesome-reveal: React components to add reveal animations using the Intersection Observer API and CSS Animations.](https://github.com/morellodev/react-awesome-reveal)
-
-[Home - React Reveal](https://www.react-reveal.com/)
-[rnosov/react-reveal: Easily add reveal on scroll animations to your React app](https://github.com/rnosov/react-reveal) 😴inactive
-
-[renature Documentation](https://formidable.com/open-source/renature/) archived
-[FormidableLabs/renature: A physics-based animation library for React focused on modeling natural world forces.](https://github.com/FormidableLabs/renature)
 
 #### Drag and Drop
 
@@ -1236,6 +1232,14 @@ function App({ text }) {
 [Typed.js - Type your heart out](https://mattboldt.github.io/typed.js/)
 
 [How to stop your spinner from jumping in React - DEV Community 👩‍💻👨‍💻](https://dev.to/selbekk/how-to-stop-your-spinner-from-jumping-in-react-5cmp)
+
+#### React Native
+
+[Animations · React Native](https://reactnative.dev/docs/animations)
+[Animated · React Native](https://reactnative.dev/docs/animated)
+
+[React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/)
+[software-mansion/react-native-reanimated: React Native's Animated library reimplemented](https://github.com/software-mansion/react-native-reanimated)
 
 ## UI frameworks
 
@@ -1382,6 +1386,8 @@ Downshift, select, hook-based
 [balloob/react-sidebar: A sidebar component for React](https://github.com/balloob/react-sidebar)
 [react-sticky-box documentation](https://react-sticky-box.codecks.io/)
 
+[brimdata/react-arborist: The complete tree view component for React](https://github.com/brimdata/react-arborist)
+
 [SortableJS/react-sortablejs: React bindings for SortableJS](https://github.com/SortableJS/react-sortablejs)
 
 Virtual Window:
@@ -1527,7 +1533,7 @@ Table/Date Grid:
 
 [Super easy: Custom Toast message manager with React (and TypeScript) | by Dayan Petrow | Medium](https://dayanpetrow.medium.com/super-easy-custom-toast-message-manager-with-react-and-typescript-c9b8bfb714af)
 
-### Forms
+## Forms
 
 > I would like a library that have field error and form error
 
@@ -1542,7 +1548,7 @@ Table/Date Grid:
 
 [Formatting form inputs with Cleave.js and React - LogRocket Blog](https://blog.logrocket.com/formatting-form-inputs-with-cleave-js-and-react/)
 
-#### Select/Multiselect
+### Select/Multiselect
 
 [The Best React Autocomplete Libraries](https://retool.com/blog/react-autocomplete-libraries/)
 
@@ -1563,7 +1569,7 @@ Table/Date Grid:
 
 [React .focus() - The Startup - Medium](https://medium.com/swlh/react-focus-c6ffd4aa42e5)
 
-#### React Hook Form
+### React Hook Form
 
 [Home | React Hook Form - Simple React forms validation](https://react-hook-form.com/)
 [Form Builder | React Hook Form - Simple React forms validation](https://react-hook-form.com/form-builder/)
@@ -1582,27 +1588,17 @@ Table/Date Grid:
 
 [Controller | React Hook Form - Simple React forms validation](https://react-hook-form.com/api/usecontroller/controller) Wrapper component for controlled inputs
 [React Hook Form Field Array Advanced with delete, insert, append, edit - CodeSandbox](https://codesandbox.io/s/react-hook-form-field-array-advanced-with-delete-insert-append-edit-l19pz)
+[Correct way to support multiple checkboxes with same name · Issue #476 · react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form/issues/476)
 
 [React Hook Form vs. Formik: A technical and performance comparison - LogRocket Blog](https://blog.logrocket.com/react-hook-form-vs-formik-a-technical-and-performance-comparison/)
 [React Hook Form VS Formik. A comprehensive comparison of the two… | by Nathan Sebhastian | Bits and Pieces](https://blog.bitsrc.io/react-hook-form-vs-formik-form-builder-library-for-react-23ed559fdae)
 
-#### React Final Form
+### Tanstack Form
 
-[React Final Form](https://final-form.org/react/)
+[TanStack Form | React Form, Solid Form, Svelte Form, Vue Form](https://tanstack.com/form/latest)
+[TanStack/form: 🤖 Powerful and type-safe form state management for the web. TS/JS, React Form, Solid Form, Svelte Form and Vue Form.](https://github.com/TanStack/form)
 
-#### Hooked-Form
-
-[Hooked-Form · You will get hooked.](https://jovidecroock.github.io/Hooked-Form/)
-[JoviDeCroock/Hooked-Form: Performant 2KB React library to manage your forms](https://github.com/JoviDeCroock/hooked-form)
-
-#### React Form
-
-[tannerlinsley/react-form: ⚛️ Hooks for managing form state and validation in React](https://github.com/tannerlinsley/react-form)
-[react-form/validation.md at master · tannerlinsley/react-form](https://github.com/tannerlinsley/react-form/blob/master/docs/validation.md)
-[react-form/api.md at master · tannerlinsley/react-form](https://github.com/tannerlinsley/react-form/blob/master/docs/api.md)
-[react-form/examples.md at master · tannerlinsley/react-form](https://github.com/tannerlinsley/react-form/blob/master/docs/examples.md)
-
-#### Formik
+### Formik
 
 > does have Hook API, but design is still pre-hook
 
@@ -1616,15 +1612,19 @@ Table/Date Grid:
 [Forms with Formik + TypeScript - fotonTech - Medium](https://medium.com/fotontech/forms-with-formik-typescript-d8154cc24f8a)
 [Formik Example - CodeSandbox](https://codesandbox.io/s/zkrk5yldz)
 
-#### Formsy React
+### 😴inactive
+
+[Final Form](https://final-form.org/)
+[final-form/final-form: 🏁 Framework agnostic, high performance, subscription-based form state management](https://github.com/final-form/final-form)
 
 [formsy/formsy-react: A form input builder and validator for React JS](https://github.com/formsy/formsy-react)
 [twisty/formsy-react-components: Bootstrap components for a formsy-react form.](https://github.com/twisty/formsy-react-components)
 
-#### 😴inactive
+[React Final Form](https://final-form.org/react/)
+[final-form/react-final-form: 🏁 High performance subscription-based form state management for React](https://github.com/final-form/react-final-form)
 
-[Final Form](https://final-form.org/)
-[final-form/final-form: 🏁 Framework agnostic, high performance, subscription-based form state management](https://github.com/final-form/final-form)
+[Hooked-Form · You will get hooked.](https://jovidecroock.github.io/Hooked-Form/)
+[JoviDeCroock/Hooked-Form: Performant 2KB React library to manage your forms](https://github.com/JoviDeCroock/hooked-form)
 
 [React Formal](http://jquense.github.io/react-formal/) yup validation, common message for multiple fields (form error)
 

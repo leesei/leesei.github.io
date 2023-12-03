@@ -2,6 +2,7 @@
 title: Network File Systems
 description: ""
 created: 2015-05-20
+updated: 2023-09-29
 tags:
   - file-system
   - linux
@@ -69,6 +70,8 @@ sudo mount -t cifs -o rw,username=$USER,password=$PWD,uid=$(id -u),forceuid,gid=
 ```sh
 smbclient $SAMBA_PATH --user $USER
 ```
+
+[linux - Windows 10 Password Error with Samba Share - Super User](https://superuser.com/questions/1125438/windows-10-password-error-with-samba-share)
 
 ### Clearing credentials on Windows
 

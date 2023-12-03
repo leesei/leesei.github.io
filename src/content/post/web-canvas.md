@@ -2,6 +2,7 @@
 title: HTML Canvas
 description: ""
 created: 2016-04-08
+updated: 2023-09-29
 tags:
   - web
   - web/2d
@@ -117,6 +118,6 @@ Gist: `canvas.toDataURL()`, create `<a>` with data as `href`, set file name and 
 
 [gillyb/reimg: reimg - A javascript library for converting image formats](https://github.com/gillyb/reimg) provides save image feature, implements dynamic anchor idea here:
 [javascript - How To Save Canvas As An Image With canvas.toDataURL()? - Stack Overflow](https://stackoverflow.com/questions/10673122/how-to-save-canvas-as-an-image-with-canvas-todataurl)
-[concrete/concrete.js at master · ericdrowell/concrete](https://github.com/ericdrowell/concrete/blob/9b50727ae833a92fe9d6c9e4a526a6d7fcd29d3e/src/concrete.js#L384-L428)
+[concrete/concrete.js at master · ericdrowell/concrete](https://github.com/ericdrowell/concrete/blob/9b50727ae833a92fe9d6c9e4a526a6d7fcd29d3e/src/concrete.js#L384-L428) `toImage()` and `download()`
 
 [javascript - Download Canvas as PNG in fabric.js giving network Error - Stack Overflow](https://stackoverflow.com/questions/37135417/download-canvas-as-png-in-fabric-js-giving-network-error) use `canvas.toBlob()` to handle large canvas

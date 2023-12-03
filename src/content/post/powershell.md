@@ -2,7 +2,7 @@
 title: Powershell
 description: ""
 created: 2023-05-19
-updated: 2023-08-10
+updated: 2023-09-29
 tags:
   - comp/lang
   - powershell
@@ -137,11 +137,12 @@ Poor-man's Tmux
 # $workspace_root = $env:USERPROFILE\src\project
 $workspace_root = C:\src\project
 
-$commands = @'
-  nt -d $workspace_root --title Project `; `
-  nt -d $workspace_root --title Project `; `
+$commands = @"
+  nt -d $workspace_root --title Project `;
+  nt -d $workspace_root --title Project `;
   nt -d $env:APPDATA\ --title "App data"
-'@
+"@
 
-wt $commands
+# echo "wt $command_arr"
+Start-Process wt -ArgumentList $command_arr
 ```

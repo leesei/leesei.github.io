@@ -2,7 +2,7 @@
 title: Kubernetes
 description: ""
 created: 2014-12-11
-updated: 2023-08-14
+updated: 2023-09-29
 tags:
   - container
   - dev/deploy
@@ -675,6 +675,11 @@ kops import cluster --name ${NAME} --region ${AWS_REGION}
 [Securely Run Your Applications In Any Environment | Gravity | Gravitational](https://gravitational.com/gravity/) Gravity, package K8s stack as app
 [Gravity 5.5 gives superpowers to Helm: package Kubernetes apps as self-contained tarballs](https://gravitational.com/blog/gravity-5_5-support-for-helm/)
 [Gravity: Distributed Application Delivery with Ev Kontsevoy - Software Engineering Daily](https://softwareengineeringdaily.com/2019/10/17/gravity-distributed-application-delivery-with-ev-kontsevoy/)
+
+### Rig.dev
+
+[Rig.dev | The open-source application platform for Kubernetes](https://rig.dev/)
+[Introducing Rig.dev: An open-source application platform for Kubernetes - DEV Community](https://dev.to/rigdev/introducing-rigdev-an-open-source-application-platform-for-kubernetes-1dge)
 
 ### Management
 

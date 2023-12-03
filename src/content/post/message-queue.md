@@ -2,6 +2,7 @@
 title: Message Queue
 description: ""
 created: 2015-08-03
+updated: 2023-10-19
 tags:
   - comp/database
 ---
@@ -39,13 +40,7 @@ tags:
 
 ## Event-driven Architecture
 
-[GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler - YouTube](https://www.youtube.com/watch?v=STKCRSUsyP0)
-[GOTO 2020 • The Power of Event-Driven Systems without Burning your Hands or Budgets • Allard Buijze - YouTube](https://www.youtube.com/watch?v=Fso2OyguRuQ)
-
-[Event-driven architecture, state machines et al. - 250bpm](http://250bpm.com/blog:25)
-[State Machines for Event-Driven Systems | Embedded Systems Experts](http://www.barrgroup.com/Embedded-Systems/How-To/State-Machines-Event-Driven-Systems)
-[From Request/Response to Events - DZone Microservices](https://dzone.com/articles/from-requestresponse-to-events)
-[How to tame event-driven microservices | InfoWorld](https://www.infoworld.com/article/3391592/how-to-tame-event-driven-microservices.html)
+[[design-patterns#Event-Driven Architectures]]
 
 ## AMQP
 
@@ -83,9 +78,9 @@ tags:
 
 [RabbitMQ in 5 Minutes - YouTube](https://www.youtube.com/watch?v=deG25y_r6OY)
 [What is RabbitMQ? - YouTube](https://www.youtube.com/watch?v=7rkeORD4jSw)
+[RabbitMQ Crash Course - YouTube](https://www.youtube.com/watch?v=Cie5v59mrTg)
 
 [RabbitMQ in Microservices - DZone Microservices](https://dzone.com/articles/rabbitmq-in-microservices)
-[RabbitMQ Crash Course - YouTube](https://www.youtube.com/watch?v=Cie5v59mrTg)
 [2 Hours RabbitMQ Course with NodeJS, Pros & Cons, Cloud RMQ, RMQ vs Kafka, RMQ in Wireshark & MORE! - YouTube](https://www.youtube.com/watch?v=e03c3CIGtYU)
 
 [Configuring RabbitMQ Exchanges, Queues and Bindings: Part 1 - Compose Articles](https://www.compose.com/articles/configuring-rabbitmq-exchanges-queues-and-bindings-part-1/)
@@ -116,7 +111,7 @@ tags:
 ### LavinMQ
 
 [The Next-Generation Message Broker - LavinMQ](https://lavinmq.com/)
-[GitHub - cloudamqp/lavinmq: Lightweight and fast AMQP (0-9-1) server](https://github.com/cloudamqp/lavinmq/)
+[cloudamqp/lavinmq: Lightweight and fast AMQP (0-9-1) server](https://github.com/cloudamqp/lavinmq/)
 
 - persistence by default
 - LavinMQ Manager
@@ -270,6 +265,10 @@ ditched POSIX API, allows callback rather than forcing one to poll file descript
 [mangos package - go.nanomsg.org/mangos/v3 - pkg.go.dev](https://pkg.go.dev/go.nanomsg.org/mangos/v3)
 [Message Queues, or how you can make processes talk to each other · Applied Go](https://appliedgo.net/messaging/)
 
+## Postgres as queue
+
+[Choose Postgres queue technology :: Adriano Caloiaro's personal blog](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/?utm_source=changelog-news)
+
 ## NATS
 
 [NATS - Open Source Messaging System | Secure, Native Cloud Application Development](https://nats.io/)
@@ -354,11 +353,17 @@ MQTT is a pub/sub broker rather than a message queue
 
 ## Redpanda
 
-> JVM-free, ZooKeeper-free, Kafka compatible, single binary
+> BSL, JVM-free, ZooKeeper-free, Kafka compatible, single binary
 
 [Redpanda | The streaming data platform for developers](https://redpanda.com/)
 
 [Redpanda: Kafka Alternative with Alexander Gallego - Software Engineering Daily](https://softwareengineeringdaily.com/2021/01/22/redpanda-kafka-alternative-with-alexander-gallego/)
+
+## Gravitee
+
+> event-native API Management solution that supports synchronous REST APIs, asynchronous APIs, and event brokers like Kafka and MQTT
+
+[Gravitee.io - API Management Platform](https://www.gravitee.io/)
 
 ## PubSub
 
@@ -368,6 +373,9 @@ MQTT is a pub/sub broker rather than a message queue
 [faye](https://github.com/faye) Org
 
 [Building A Pub/Sub Service In-House Using Node.js And Redis — Smashing Magazine](https://www.smashingmagazine.com/2018/06/pub-sub-service-in-house-node-js-redis/)
+
+[Welcome to hpfeeds — hpfeeds documentation](https://python.hpfeeds.org/en/latest/)
+[hpfeeds/hpfeeds: Honeynet Project generic authenticated datafeed protocol](https://github.com/hpfeeds/hpfeeds)
 
 ## Outbox pattern
 

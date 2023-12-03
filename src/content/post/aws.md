@@ -2,7 +2,7 @@
 title: Amazon Web Services
 description: ""
 created: 2015-06-17
-updated: 2023-06-21
+updated: 2023-09-29
 tags:
   - web
 ---

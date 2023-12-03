@@ -2,7 +2,7 @@
 title: History Europe
 description: ""
 created: 2016-09-12
-updated: 2023-07-29
+updated: 2023-11-13
 tags:
   - history
   - history/europe
@@ -24,6 +24,7 @@ Herodotus, the first historian
 [History of Europe [1-2016] [Every year] - YouTube](https://www.youtube.com/watch?v=gn6mYygyxQk)
 [The History of Europe: Every Year - YouTube](https://www.youtube.com/watch?v=oWWLECJnylM) 3650B.C-2016
 [History Series: Europe - YouTube](https://www.youtube.com/playlist?list=PLEpnbGLPDdmFsiqrVYz-IeGrlYGqZn_Mx)
+[European History - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtMsMTfmRomkVQG8AqrAmJFX) CrashCourse
 [卢格杜努姆的奥古斯丁 - YouTube](https://www.youtube.com/@augustinus_lugdunensis)
 
 ## Documentaries
@@ -65,18 +66,46 @@ Kings and Generals
 
 ## Medieval
 
+> from the fall of Western Roman Empire in 476 C.E. to the fall of Eastern Roman Empire in 1453 C.E.
+
 Lindybeige
 [Medieval transport - the beginners' guide - YouTube](https://www.youtube.com/watch?v=tdguh1D-fOk)
 [The importance of river crossings in the olden days - YouTube](https://www.youtube.com/watch?v=1ZSl-ijkd7U)
 [Pounds, shillings, and pence: a history of English coinage - YouTube](https://www.youtube.com/watch?v=R2paSGQRwvo)
 
-## French Revolution
+[【封建、莊園、騎士】中世紀的生活是怎樣? 人們吃什麼、穿什麼 真的很浪漫嗎? 騎士、農民的一天 - YouTube](https://www.youtube.com/watch?v=tYaYUmQ5WKM)
 
-[French Revolution - Wikiwand](https://www.wikiwand.com/en/French_Revolution) 5 May 1789 - 9 November 1799
-[Storming of the Bastille - Wikiwand](https://www.wikiwand.com/en/Storming_of_the_Bastille) 14 July 1789
+## 大航海時代 Age of Sail/Discovery/Exploration
 
-[The French Revolution - OverSimplified (Part 1) - YouTube](https://www.youtube.com/watch?v=8qRZcXIODNU)
-[The French Revolution - OverSimplified (Part 2) - YouTube](https://www.youtube.com/watch?v=EQmjXM4VK2U)
+> mid-16 to mid-19 century
+
+[Age of Sail - Wikiwand](https://www.wikiwand.com/en/Age_of_Sail)
+[Age of Discovery - Wikiwand](https://www.wikiwand.com/en/Age_of_Discovery)
+
+[曾經的日不落帝國 歐洲邊緣人如何征服全世界? 葡萄牙帝國的崛起與崩解 - YouTube](https://www.youtube.com/watch?v=YyQ0iQvQxqM)
+[【趣味科普】浅谈大航海时代 - YouTube](https://www.youtube.com/watch?v=XDl3QuUjJnI)
+
+那点事儿
+[大航海時代：首個世界級霸主葡萄牙，最早開啟世界版圖開拓和殖民之路（上集） - YouTube](https://www.youtube.com/watch?v=8NmfPOhRwt4)
+[大航海時代：首個世界級霸主葡萄牙，最早開啟世界版圖開拓和殖民之路（下集） - YouTube](https://www.youtube.com/watch?v=Cu17txfNu2U)
+[大航海時代：第二個世界級霸主西班牙，狂熱的黑奴和黃金掠奪之路（上集） - YouTube](https://www.youtube.com/watch?v=uDqBWBvYX1I)
+[大航海時代：第二個世界級霸主西班牙，狂熱的黑奴和黃金掠奪之路（下集） - YouTube](https://www.youtube.com/watch?v=weJ0yv4bK-Y)
+[海上馬車夫:世界第壹個資本主義國家荷蘭崛起，黃金世紀海上新霸主！ - YouTube](https://www.youtube.com/watch?v=LnGpsgX7v_8)
+
+[The empire on which the sun never sets - Wikiwand](https://www.wikiwand.com/en/The_empire_on_which_the_sun_never_sets)
+[日不落帝國 - Wikiwand](https://www.wikiwand.com/zh-hant/%E6%97%A5%E4%B8%8D%E8%90%BD%E5%B8%9D%E5%9B%BD)
+The first 日不落帝國 was actually the Iberian Union of Portugal and Spain under Philip II in 1580.
+
+[Spanish and Portuguese Exploration in the Americas  |  Classroom Materials at the Library of Congress  |  Library of Congress](https://www.loc.gov/classroom-materials/spanish-and-portuguese-exploration-in-the-americas/)
+[人類出海的真正原因 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=4gJ11dasap4)
+
+### Privateer
+
+[Privateer - Wikiwand](https://www.wikiwand.com/en/Privateer)
+[Privateer | Definition & History | Britannica](https://www.britannica.com/technology/privateer)
+
+Great Britain, rather than joining the Age of Discovery, focused on developing its Navy.
+It then authorized sea-raiders in the Caribbean to raid Portuguese and Spanish ships in the New World.
 
 ## Napoleon Bonaparte
 
@@ -90,12 +119,13 @@ Epic History TV
 
 [Napoleon's Downfall: Invasion of Russia 1812 (Full Documentary) - YouTube](https://www.youtube.com/watch?v=liokytT2TSk)
 
-## Contemporary
+## French Revolution
 
-[[ww-i]]
-[[ww-ii]]
+[French Revolution - Wikiwand](https://www.wikiwand.com/en/French_Revolution) 5 May 1789 - 9 November 1799
+[Storming of the Bastille - Wikiwand](https://www.wikiwand.com/en/Storming_of_the_Bastille) 14 July 1789
 
-[Why There is No Bridge Between Europe and Africa - YouTube](https://www.youtube.com/watch?v=rtvHUr_oTdQ)
+[The French Revolution - OverSimplified (Part 1) - YouTube](https://www.youtube.com/watch?v=8qRZcXIODNU)
+[The French Revolution - OverSimplified (Part 2) - YouTube](https://www.youtube.com/watch?v=EQmjXM4VK2U)
 
 ## The Crimean War
 
@@ -104,3 +134,10 @@ Epic History TV
 
 [Crimean War - Wikiwand](https://www.wikiwand.com/en/Crimean_War)
 [Extra History: The Crimean War - YouTube](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5D6vGpsszjUMKY3GwYIvhWT)
+
+## Contemporary
+
+[[ww-i]]
+[[ww-ii]]
+
+[Why There is No Bridge Between Europe and Africa - YouTube](https://www.youtube.com/watch?v=rtvHUr_oTdQ)

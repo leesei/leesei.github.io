@@ -2,6 +2,7 @@
 title: World History
 description: ""
 created: 2015-10-09
+updated: 2023-11-26
 tags:
   - history
   - history/world
@@ -30,13 +31,16 @@ tags:
 [Human prehistory | 23andMe | Partner content | Khan Academy](https://www.khanacademy.org/partner-content/23andme/human-prehistory)
 [Crash Course World History | Partner content | Khan Academy](https://www.khanacademy.org/partner-content/crash-course1/crash-course-world-history)
 [Extra History - YouTube](https://www.youtube.com/@extrahistory)
+[History on Maps - YouTube](https://www.youtube.com/@historyonmaps)
 
 [History of the Entire World (Ancient, Medieval, Modern) | World History Documentary - YouTube](https://www.youtube.com/watch?v=T5PwyuzSYcs)
 
-[Art History 1010 TICE - YouTube](https://www.youtube.com/playlist?list=PLtIxZmHhpck8ThggM0tTb9AeqiM4ZmlOm)
-[HereIsAleph\_旧闻如是说 - YouTube](https://www.youtube.com/channel/UC5TqGHz9v7KQ0t_nh5RW8BQ)
-[Epic History TV - YouTube](https://www.youtube.com/c/EpichistoryTv)
+[Art History 1010 TICE - YouTube](https://www.youtube.com/playlist?list=PLtIxZmHhpck8ThggM0tTb9AeqiM4ZmlOm) Leslie Kehl
+[HereIsAleph\_旧闻如是说 - YouTube](https://www.youtube.com/@HereIsAleph)
+[Epic History TV - YouTube](https://www.youtube.com/@EpichistoryTv)
+[Epimetheus - YouTube](https://www.youtube.com/@EpimetheusHistory)
 [Made In History - YouTube](https://www.youtube.com/@MadeInHistory)
+[Odyssey - Ancient History Documentaries - YouTube](https://www.youtube.com/@odyssey)
 [Simple History - YouTube](https://www.youtube.com/@Simplehistory)
 [The Armchair Historian - YouTube](https://www.youtube.com/@TheArmchairHistorian)
 [History Hit - YouTube](https://www.youtube.com/@HistoryHit)

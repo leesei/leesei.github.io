@@ -2,7 +2,7 @@
 title: Windows Desktop
 description: ""
 created: 2015-01-15
-updated: 2023-08-13
+updated: 2023-11-30
 tags:
   - app
   - desktop
@@ -66,9 +66,25 @@ Only Windows 10 Professional and Enterprise supports RDP server and it only allo
 [Allowing Multiple RDP Sessions In Windows 10 Using The RDP Wrapper Library - Ehi Kioya](https://ehikioya.com/multiple-rdp-sessions-in-windows-rdp-wrapper-library/)
 [Listener state: Not listening [not supported] · Issue #999 · stascorp/rdpwrap](https://github.com/stascorp/rdpwrap/issues/999)
 
+[Remote desktop client with RDP, SSH, SPICE, VNC, and X2Go protocol support. - Remmina](https://remmina.org/)
+
+[FreeRDP](https://www.freerdp.com/)
+[How to Connect Remote Windows System from Linux Command Line](https://www.linuxtechi.com/connect-windows-system-from-linux-commandline/)
+[Remote Desktop Connection to Windows from Linux using RDP clients - Linux Kamarada](https://linuxkamarada.com/en/2020/04/20/remote-desktop-connection-to-windows-from-linux-using-rdp-clients/)
+
+```
+xfreerdp /size:1920x1080 /u:<user_name> /v:<server_ip>
+
+xfreerdp connection.rdp /p:Pwd123! /f
+xfreerdp /u:CONTOSO\JohnDoe /p:Pwd123! /v:rdp.contoso.com
+xfreerdp /u:JohnDoe /p:Pwd123! /w:1366 /h:768 /v:192.168.1.100:4489
+xfreerdp /u:JohnDoe /p:Pwd123! /vmconnect:C824F53E-95D2-46C6-9A18-23A5BB403532 /v:192.168.1.100
+```
+
 ## PowerToys
 
 [Microsoft PowerToys | Microsoft Docs](https://docs.microsoft.com/en-us/windows/powertoys/)
+[Windows PowerToys](https://www.makeuseof.com/tag/windows-10-powertoys/)
 
 [Microsoft brings PowerToys back to let anyone improve Windows 10 for power users - The Verge](https://www.theverge.com/platform/amp/2019/5/8/18536773/microsoft-windows-10-powertoys-apps-open-source-github-release)
 [microsoft/PowerToys: Windows system utilities to maximize productivity](https://github.com/Microsoft/PowerToys)
@@ -78,6 +94,10 @@ Only Windows 10 Professional and Enterprise supports RDP server and it only allo
 [FancyZones Overview · microsoft/PowerToys Wiki · GitHub](https://github.com/microsoft/PowerToys/wiki/FancyZones-Overview)
 
 [微軟竟給 Windows 量身打造了一套生產力小工具？看在這誠意的份上我只好安裝了 PowerToys - YouTube](https://www.youtube.com/watch?v=EAoIGJjWdbA)
+
+[Microsoft's Secret Windows Tools for Power Users - YouTube](https://www.youtube.com/watch?v=o8TP-7XrVqY) 2020-07
+[Awesome New Windows Tools You NEED - YouTube](https://www.youtube.com/watch?v=0U9SnmgLClo) 2022-11
+[The Coolest New Tools in Microsoft PowerToys - YouTube](https://www.youtube.com/watch?v=JinQIyEhfew) 2023-10
 
 ## CMD Shell/Batch Script (.bat)
 
@@ -111,20 +131,7 @@ Beware of where you download from, especially don't use download.com.
 [Debloating Windows 11 The Easy Way! - YouTube](https://www.youtube.com/watch?v=8ReoMuCUdKE)
 [builtbybel/ThisIsWin11: The real PowerToys for Windows 11](https://github.com/builtbybel/ThisIsWin11)
 
-[How to Restore Classic Start Menu in Windows 11 with Classic Taskbar](https://winaero.com/how-to-restore-classic-start-menu-in-windows-11-and-get-back-live-tiles/)
-
-[How to enable taskbar ungrouping and labels in Windows 11](https://www.xda-developers.com/how-enable-taskbar-ungrouping-labels-windows-11/)
-[Ungroup items on the Taskbar in Windows 11 - Page 2 - Microsoft Community Hub](https://techcommunity.microsoft.com/t5/windows-11/ungroup-items-on-the-taskbar-in-windows-11/m-p/2585176/page/2)
-
-```ps1
-# Ungroup Taskbar Icons / Enable Text Labels in Windows 11
-New-Item -Path "HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer"
-New-ItemProperty -Path "HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer" -Name "NoTaskGrouping" -PropertyType DWord -Value "00000001";
-Set-ItemProperty -Path "HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer" -Name "NoTaskGrouping" -Value "00000001";
-
-taskkill /f /im explorer.exe;
-CMD /Q /C START /REALTIME explorer.exe;
-```
+[StartAllBack to fix all Windows 11 deal-breaking UI issues](https://www.startallback.com/) classic Start Menu, taskbar ungrouping
 
 ### On Phone
 
@@ -424,6 +431,8 @@ wsl --list # list distros
 [Automating a Linux in Windows dev setup](https://matt.aimonetti.net/posts/2020-08-automating-a-linux-in-windows-dev-setup/)
 [Kali Linux APPS on Windows in 5min (WSLg) - YouTube](https://www.youtube.com/watch?v=27Wn921q_BQ)
 
+[🧑‍💻 Arch, Zellij, Helix & Nix in 7 minutes on Windows Subsystem for Linux (WSL 2) - YouTube](https://www.youtube.com/watch?v=miwvF60BeMk)
+
 [Version control for your WSL distribution with a Dockerfile | radu's blog](https://radu-matei.com/blog/wsl-versioned-filesystem-docker/)
 
 [Windows 10 WSL2 Now Allows You to Configure Global Options](https://www.bleepingcomputer.com/news/microsoft/windows-10-wsl2-now-allows-you-to-configure-global-options/)
@@ -507,16 +516,21 @@ Edge Stable on Win10 20160322
 
 [Special folder - Wikiwand](https://www.wikiwand.com/en/Special_folder)
 [What Is the AppData Folder in Windows?](https://www.howtogeek.com/318177/what-is-the-appdata-folder-in-windows/)
+[Special Windows Folders You Need to Know About - YouTube](https://www.youtube.com/watch?v=Sxt8WrtlUno)
 
 ```
 %windir% → C:\Windows
 %USERPROFILE% → C:\Users\[userName]
-%APPDATA% → C:\Users\[userName]\Application Data
+%APPDATA% → C:\Users\[userName]\AppData\Roaming
 %LOCALAPPDATA% → C:\Users\[userName]\AppData\Local
+%PROGRAMDATA% → C:\ProgramData
 
-Start menu (all): %APPDATA%\Microsoft\Windows\Start Menu\Programs
-Start menu (user): %APPDATA%\Microsoft\Windows\Start Menu
-Sent To targets: %APPDATA%\Microsoft\Windows\SendTo
+shell:startup -> %APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup
+shell:common startup -> %PROGRAMDATA%\Microsoft\Windows\Start Menu\Programs\Startup
+shell:programs (All apps, current user) -> %APPDATA%\Microsoft\Windows\Start Menu\Programs
+shell:programs (All apps, all users) -> %PROGRAMDATA%\Microsoft\Windows\Start Menu\Programs
+shell:AppsFolder (Useful for UWP apps) -> virtual folder
+shell:SendTo -> %APPDATA%\Microsoft\Windows\SendTo
 ```
 
 `Control Panel\System and Security\Security and Maintenance`
@@ -590,10 +604,13 @@ powercfg /x  hibernate-timeout-ac 60
 
 ### Passwordless login
 
-[Users must enter a user name and password checkbox missing from netplwiz in Windows 10 Fix](https://thegeekpage.com/users-must-enter-a-user-name-and-password-checkbox-missing-from-netplwiz-in-windows-10-fix/)
-[Windows 10 auto login: Quick guide to setting it up - IONOS](https://www.ionos.com/digitalguide/server/configuration/windows-10-automatic-login/)
+[Configure Windows to automate logon - Windows Server | Microsoft Learn](https://learn.microsoft.com/en-us/troubleshoot/windows-server/user-profiles-and-logon/turn-on-automatic-logon)
+`HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon`
 
 Uncheck "Users must enter a user name and password to use this computer" in `netplwiz`
+[Users must enter a user name and password checkbox missing from netplwiz in Windows 10 Fix](https://thegeekpage.com/users-must-enter-a-user-name-and-password-checkbox-missing-from-netplwiz-in-windows-10-fix/)
+[Windows 10 auto login: Quick guide to setting it up - IONOS](https://www.ionos.com/digitalguide/server/configuration/windows-10-automatic-login/)
+[How to Set Up Auto Login in Windows](https://www.lifewire.com/how-do-i-auto-login-to-windows-2626066) `netplwiz` and registry
 
 ### Start Menu items
 
@@ -782,59 +799,9 @@ Settings > System > Multitasking > Alt + Tab
 
 ## Package Managers
 
-### WinGet
-
-[Windows Package Manager | Microsoft Learn](https://learn.microsoft.com/en-us/windows/package-manager/)
-[Using Native Package Manager (WinGet) on Windows 10 | Windows OS Hub](http://woshub.com/using-winget-package-manager-windows/)
-[Windows FINALLY Got a Package Manager - Here's Why It's Awesome - YouTube](https://www.youtube.com/watch?v=uxr7m8wDeGA)
-
-[microsoft/winget-cli: Windows Package Manager CLI (aka winget)](https://github.com/microsoft/winget-cli)
-[microsoft/winget-pkgs: The Microsoft community Windows Package Manager manifest repository](https://github.com/microsoft/winget-pkgs)
-
-[Microsoft announces official Windows package manager. 'Not a package manager' users snap back • The Register](https://www.theregister.com/2020/05/20/microsoft_announces_official_windows_package/)
-[winget-cli/doc/troubleshooting at master · microsoft/winget-cli · GitHub](https://github.com/microsoft/winget-cli/tree/master/doc/troubleshooting)
-
-[winstall - GUI for Windows Package Manager](https://winstall.app/)
-
-```powershell
-winget search app
-winget install app -V version
-winget install --manifest manifest
-winget upgrade --all
-winget export -o c:\installed.txt
-winget settings
-```
-
-```powershell
-7zip.7zip
-AutoHotkey.AutoHotkey
-CPUID.CPU-Z
-Git.Git
-Kitware.CMake
-Microsoft.DotNet.SDK.7
-Microsoft.VisualStudioCode
-Microsoft.VisualStudio.2022.Community
-Python.Python.3.11
-RustDesk.RustDesk
-Starship.Starship
-WinMerge.WinMerge
-```
-
-#### App not found in CLI
-
-[Cannot use Winget. Winget Not Recognized Error. · Issue #725 · microsoft/winget-cli](https://github.com/microsoft/winget-cli/issues/725#issuecomment-835394620) add `%LOCALAPPDATA%\Microsoft\WindowsApps` to `$env:Path`
-
-Or toggle setting in "App execution aliases"
-
-#### Creating package
-
-`wingetcreate`, generated at `c:\manifest`
-
-[microsoft/winget-create: The Windows Package Manager Manifest Creator command-line tool (aka wingetcreate)](https://github.com/microsoft/winget-create)
-[Create your package manifest | Microsoft Learn](https://learn.microsoft.com/en-us/windows/package-manager/package/manifest?tabs=minschema%2Cversion-example)
-[Alexandre Nédélec - Producing packages for Windows Package Manager](https://www.techwatching.dev/posts/wingetcreate)
-
 ### Scoop
+
+> 👍 hide GUI installers
 
 [Scoop](https://scoop.sh/)
 [ScoopInstaller/Scoop: A command-line installer for Windows.](https://github.com/ScoopInstaller/Scoop)
@@ -843,20 +810,16 @@ Or toggle setting in "App execution aliases"
 iwr -useb get.scoop.sh | iex
 ```
 
-[ScoopInstaller](https://github.com/ScoopInstaller?type=source) "buckets" are repos for Scoop
-
-### webi (webinstall.dev)
-
-> without `sudo` or admin right
-> cross platform
-
-[webinstall.dev](https://webinstall.dev/)
-
-```powershell
-curl.exe -A "MS" https://webinstall.dev/webi | powershell
+```sh
+scoop bucket add extras
+scoop install vscode
 ```
 
+[ScoopInstaller](https://github.com/ScoopInstaller?type=source) "buckets" are repos for Scoop
+
 ### Chocolatey
+
+> 👍 hide GUI installers
 
 [Chocolatey](https://chocolatey.org/) package manager for Windows
 [Get to know the Chocolatey package manager for Windows | Computerworld](https://www.computerworld.com/article/3236406/enterprise-applications/get-to-know-the-chocolatey-package-manager-for-windows.html#tk.ctw_nsdr_ndxprmomod)
@@ -943,6 +906,72 @@ Work setup
 ```
 cinst -y 7zip autohotkey.portable chocolatey dotnet FiraCode-ttf GoogleChrome mediainfo microsoft-windows-terminal notepad2-mod sumatrapdf.install tigervnc vscode visualstudio2019professional winmerge
 ```
+
+### webi (webinstall.dev)
+
+> without `sudo` or admin right
+> cross platform
+
+[webinstall.dev](https://webinstall.dev/)
+
+```powershell
+curl.exe -A "MS" https://webinstall.dev/webi | powershell
+```
+
+### WinGet
+
+> 👎 do not hide GUI installers
+
+[Windows Package Manager | Microsoft Learn](https://learn.microsoft.com/en-us/windows/package-manager/)
+[Using Native Package Manager (WinGet) on Windows 10 | Windows OS Hub](http://woshub.com/using-winget-package-manager-windows/)
+[Windows FINALLY Got a Package Manager - Here's Why It's Awesome - YouTube](https://www.youtube.com/watch?v=uxr7m8wDeGA)
+
+[microsoft/winget-cli: Windows Package Manager CLI (aka winget)](https://github.com/microsoft/winget-cli)
+[microsoft/winget-pkgs: The Microsoft community Windows Package Manager manifest repository](https://github.com/microsoft/winget-pkgs)
+
+[Microsoft announces official Windows package manager. 'Not a package manager' users snap back • The Register](https://www.theregister.com/2020/05/20/microsoft_announces_official_windows_package/)
+[winget-cli/doc/troubleshooting at master · microsoft/winget-cli · GitHub](https://github.com/microsoft/winget-cli/tree/master/doc/troubleshooting)
+
+[winstall - GUI for Windows Package Manager](https://winstall.app/)
+
+```powershell
+winget search app
+winget install app -V version
+winget install --manifest manifest
+winget upgrade --all
+winget export -o c:\installed.txt
+winget settings
+```
+
+```powershell
+7zip.7zip
+AutoHotkey.AutoHotkey
+CPUID.CPU-Z
+Git.Git
+Kitware.CMake
+Microsoft.DotNet.SDK.7
+Microsoft.VisualStudioCode
+Microsoft.VisualStudio.2022.Community
+Python.Python.3.11
+RustDesk.RustDesk
+Starship.Starship
+StartIsBack.StartAllBack
+WinMerge.WinMerge
+```
+
+#### App not found in CLI
+
+[Cannot use Winget. Winget Not Recognized Error. · Issue #725 · microsoft/winget-cli](https://github.com/microsoft/winget-cli/issues/725#issuecomment-835394620) add `%LOCALAPPDATA%\Microsoft\WindowsApps` to `$env:Path`
+
+Or toggle setting in "App execution aliases"
+
+#### Creating package
+
+`wingetcreate`, generated at `c:\manifest`
+
+[microsoft/winget-create: The Windows Package Manager Manifest Creator command-line tool (aka wingetcreate)](https://github.com/microsoft/winget-create)
+[Create your package manifest | Microsoft Learn](https://learn.microsoft.com/en-us/windows/package-manager/package/manifest?tabs=minschema%2Cversion-example)
+[Alexandre Nédélec - Producing packages for Windows Package Manager](https://www.techwatching.dev/posts/wingetcreate)
 
 ---
 

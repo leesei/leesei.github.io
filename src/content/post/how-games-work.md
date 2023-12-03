@@ -2,7 +2,7 @@
 title: How Games Work
 description: How games mechanics works, game design and how to make games, apart from rendering
 created: 2015-08-31
-updated: 2023-08-07
+updated: 2023-11-04
 tags:
   - game-design
   - games
@@ -13,11 +13,11 @@ tags:
 [The Way Games Work - YouTube](https://www.youtube.com/playlist?list=PLA7C9A06DDA635552) by ClanOfTheGrayWolf
 [How Games Work - YouTube](https://www.youtube.com/playlist?list=PLoJSah60cTP5Hulr9HxLyv-JVXFZycdmw) by TheHappieCat
 [Bitwise - YouTube](https://www.youtube.com/playlist?list=PLwOyKHoDhJIqX_-gO1kiWerehrXMUEVBb) DigiDigger
+
 [Gaming Topics - YouTube - YouTube](https://www.youtube.com/playlist?list=PLJAzFcYKyx4RA6_z6pq3bJlJuENg5kWKV)
 [GamesWithGabe - YouTube](https://www.youtube.com/@GamesWithGabe)
 [Nick Maltbie - YouTube](https://www.youtube.com/@NickMaltbie)
 [Alan Zucconi - YouTube](https://www.youtube.com/@AlanZucconi) Game Development, Artificial Intelligence, Shader Coding & Retrocomputing
-
 [GDC - YouTube](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
 [GDC Vault](https://www.gdcvault.com/)
 [Warbot - YouTube](https://www.youtube.com/channel/UCNOVwMpD-5A1xzcQGbIHNeA)
@@ -36,9 +36,12 @@ tags:
 [Extra Credits: Game Careers - YouTube](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5DuIIh7p9FOaR6f-WTTzz_A)
 [Extra Credits: Game Industry - YouTube](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5BjqBfCTq5pgJsSFZShCxSU)
 
-[Game Maker's Toolkit - YouTube](https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw)
-[Game Maker's Toolkit - YouTube](https://www.youtube.com/user/McBacon1337)
+[Game Maker's Toolkit - YouTube](https://www.youtube.com/@GMTK)
+[The 3 Types of Detective Game - YouTube](https://www.youtube.com/watch?v=I7q363Ic26o)
 [Tech Toolbox for Game Programmers - YouTube](https://www.youtube.com/watch?v=W_okgL6HJX8)
+[Zenva Academy – Trusted by +1 million learners. Learn coding, game creation, AI and digital skills.](https://academy.zenva.com/)
+
+[utilForever/game-developer-roadmap: Roadmap to becoming a game developer in 2022](https://github.com/utilForever/game-developer-roadmap)
 [The 2018 Game Developer Roadmap – codeburst](https://codeburst.io/the-2018-game-developer-roadmap-e07e45b3c423)
 
 [Game Development Tutorials](http://www.lessmilk.com/)
@@ -54,9 +57,11 @@ tags:
 [Game Dev News, Tutorials & Interviews - The GameAnalytics Blog](https://gameanalytics.com/blog)
 [The road to video game hell • Eurogamer.net](https://www.eurogamer.net/articles/2018-07-23-the-road-to-video-game-hell)
 [Game development resources - The MagPi MagazineThe MagPi Magazine](https://www.raspberrypi.org/magpi/game-development-resources-raspberry-pi/)
+[GameFromScratch.com – Game Development News, Tutorials and More](https://gamefromscratch.com/)
 
 [KidsCanCode - YouTube](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg/featured) PyGame, Godot, algorithms
 [Digital Foundry - YouTube](https://www.youtube.com/channel/UC9PBzalIcEQCsiIkq36PyUA) analysis on game engine, rendering techniques and hardware
+[Gamefromscratch - YouTube](https://www.youtube.com/@gamefromscratch)
 [Game Programming Tutorials - YouTube](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmqFs83T4W-FZQ9kK983tZC) freeCodeCamp.org
 [Table Flip Games - YouTube](https://www.youtube.com/channel/UCjG7y5Iw4TLHcK6ckuqUj_A)
 [Retro Game Mechanics Explained - YouTube](https://www.youtube.com/channel/UCwRqWnW5ZkVaP_lZF7caZ-g)
@@ -67,37 +72,45 @@ tags:
 
 [Gamasutra - Game Design Deep Dives](https://gamasutra.com/deepdives)
 
-[Masahiro Sakurai on Creating Games - YouTube](https://www.youtube.com/c/sora_sakurai_en) of Kirby and Super Smash Bros. fame
-
+[Masahiro Sakurai on Creating Games - YouTube](https://www.youtube.com/@sora_sakurai_en) of Kirby and Super Smash Bros. fame
 [Marshall McGee - YouTube](https://www.youtube.com/@MarshallMcGee) sound elements
+[RealityEscape - YouTube](https://www.youtube.com/@RealityEscape) many on game genre
+[Ceave Perspective - YouTube](https://www.youtube.com/@StefanPerspective-yb1rm)
+[Curious Archive - YouTube](https://www.youtube.com/@CuriousArchive)
 
-[Good Game Design - Getting Over It With Bennett Foddy - YouTube](https://www.youtube.com/watch?v=kPVXGE5I7xg&list=PLrSZDOvRCmRBLuY5_DPZ0xqdMonjbNjZ_)
+[GDQuest - YouTube](https://www.youtube.com/@Gdquest)
+[Game design tutorial - YouTube](https://www.youtube.com/playlist?list=PLhqJJNjsQ7KHI3oYZfZ9nLEnQMBEhbmP8)
+
+[Good Game Design - Getting Over It With Bennett Foddy - YouTube](https://www.youtube.com/watch?v=kPVXGE5I7xg)
 [Why PS1 and N64 Games Were Different - YouTube](https://www.youtube.com/watch?v=DhKX_i4BlGs)
-[Squeezing more juice out of your game design! - GameAnalytics](https://gameanalytics.com/blog/squeezing-more-juice-out-of-your-game-design.html)
-
 [Cursed Problems in Game Design - YouTube](https://www.youtube.com/watch?v=8uE6-vIi1rQ) conflict between promises
-
-[GDQuest - YouTube](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ)
 [Gaming For A Non-Gamer - YouTube](https://www.youtube.com/playlist?list=PLordXx8iNEyStcX_WzqM0JCpiJYgqhinc) Razbuten and the lady he lives with
-[Game Maker's Toolkit - YouTube](https://www.youtube.com/user/McBacon1337)
-
 [The Power of Invisible Choices - YouTube](https://www.youtube.com/watch?v=6HZuSzlN2eI)
+[Why Breath of the Wild’s Great Plateau Is Gaming’s Greatest Tutorial | Art of the Level - YouTube](https://www.youtube.com/watch?v=txm_Gc3_EQQ)
+[How to Keep Players Engaged (Without Being Evil) - YouTube](https://www.youtube.com/watch?v=hbzGO_Qonu0)
 
-[Design Doc - YouTube](https://www.youtube.com/c/DesignDoc)
+[Design Doc - YouTube](https://www.youtube.com/@DesignDoc)
 [Good Design, Bad Design - YouTube](https://www.youtube.com/playlist?list=PL8K0_g1wdQeoxta9RyvTK-DnhU4jI2QJN)
+
+[Tears of the Kingdom - An Incredible Game That Annoyed Me To No End. - YouTube](https://www.youtube.com/watch?v=a4ldmt3eU2I) good game, bad interface
 
 [10 Illusions Video Games Create to LIE TO YOU - YouTube](https://www.youtube.com/watch?v=kxpGx3XR_vU)
 [10 Things Video Games Use To TRICK YOUR BRAIN - YouTube](https://www.youtube.com/watch?v=2aXOhGYrLu8)
 [10 HACKS Game Makers Use To TRICK YOUR BRAIN - YouTube](https://www.youtube.com/watch?v=gPly_t4aKKY)
 
-[Why Breath of the Wild’s Great Plateau Is Gaming’s Greatest Tutorial | Art of the Level - YouTube](https://www.youtube.com/watch?v=txm_Gc3_EQQ)
 [How Designers Engineer Luck Into Video Games - Nautilus Magazine - Medium](https://medium.com/nautilus-magazine/how-designers-engineer-luck-into-video-games-7d4dea1767b2)
 [Watch 30 People Play Super Mario Bros. Level 1-1 | Ars Technica Video | CNE](https://arstechnica.com/video/watch/30-people-play-super-mario-bros-level-1-1)
-[How to Keep Players Engaged (Without Being Evil) - YouTube](https://www.youtube.com/watch?v=hbzGO_Qonu0)
+
+[Squeezing more juice out of your game design! - GameAnalytics](https://gameanalytics.com/blog/squeezing-more-juice-out-of-your-game-design.html)
 
 [Theory of Fun – Raph's Website](https://www.raphkoster.com/games/presentations/theory-of-fun/)
 [A Game Design Legend Revisits His Theory of Fun](https://www.wired.com/2013/11/theory-of-fun-revised/amp)
 [Summary + PDF: A Theory of Fun for Game Design, by Raph Koster | Allen Cheng](https://www.allencheng.com/theory-of-fun-for-game-design-raph-koster-summary-pdf/)
+
+## Game Genre
+
+[What Makes Tower Defence Games Good? - YouTube](https://www.youtube.com/watch?v=f6KTtb1r1lg)
+[What Makes "Clicker Games" Good? - YouTube](https://www.youtube.com/watch?v=j_nI6G3ZDiE) idle game, ascension -> rouge-like, mobile games
 
 ## Stanley Parable
 
@@ -174,7 +187,7 @@ wave function collapse for specifics, Perlin noise for the category
 [PyBullet Quickstart Guide - Google Docs](https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#heading=h.2ye70wns7io3)
 [bulletphysics/bullet3: Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.](https://github.com/bulletphysics/bullet3) the core C++ engine
 
-## Non-Euclidean
+### Non-Euclidean
 
 [How do non-euclidean games work? | Bitwise - YouTube](https://www.youtube.com/watch?v=lFEIUcXCEvI)
 [How do Non Euclidean Games Work? | Prime Reacts - YouTube](https://www.youtube.com/watch?v=Ty4WgDWIPVQ)
@@ -231,6 +244,13 @@ A perfectly balanced game is not fun to play as the player have to level up them
 
 - [chriscourses/pokemon-style-game](https://github.com/chriscourses/pokemon-style-game)
 - Tiled map editor
+
+## Middling of Games
+
+[为什么游戏越来越不好玩了 - YouTube](https://www.youtube.com/watch?v=jkILlqfShFE)
+
+同質化, 換皮
+手游, in-game payment
 
 ## Free to Play
 

@@ -2,7 +2,7 @@
 title: 裝修
 description: ""
 created: 2020-03-07
-updated: 2023-08-09
+updated: 2023-09-29
 tags:
   - household
   - maker
@@ -28,10 +28,6 @@ tags:
 [Got2Learn - YouTube](https://www.youtube.com/channel/UCtxLpSnpxNiHAchvCX-4Dsg)
 [How To Home - YouTube](https://www.youtube.com/@HowToHomeDIY)
 [Lone Fox - YouTube](https://www.youtube.com/channel/UCtwzsvzRCfPddq2gPlgKW1w) Ikea Hacks
-
-[如何科学地去除甲醛？丨科普丨冷知识丨柴知道 ChaiKnows - YouTube](https://www.youtube.com/watch?v=nPjuAF5ZPbE)
-傳統活性炭一般使用 7 天左右就飽和了，需要勤更換
-椰維炭吸附能力強，不宜飽和，可以把甲醛苯分解成無害的水和二氧化碳
 
 [好師傅 Blog ｜ 好師傅 CoDeco - 優質裝修服務平台，給您最好的裝修體驗。](https://codeco.hk/zh-tw/renovation101/)
 [裝修術語看似高深，實際上竟然是如此簡單？（一） - 好師傅 Codeco](https://www.codeco.hk/zh-tw/renovation101/5/)
@@ -107,8 +103,11 @@ tags:
 [瓷磚 - Wikiwand](https://www.wikiwand.com/zh-hant/%E7%93%B7%E7%A0%96)
 [Ceramic - Wikiwand](https://www.wikiwand.com/en/Ceramic)
 [搪瓷 - Wikiwand](https://www.wikiwand.com/zh-hant/%E6%90%AA%E7%93%B7) 琺瑯, 中温瓷
+
 [Pottery - Wikiwand](https://www.wikiwand.com/en/Pottery)
 [陶器 - Wikiwand](https://www.wikiwand.com/zh/%E9%99%B6%E5%99%A8)
+[[maker#Clay]]
+
 [Vitreous enamel - Wikiwand](https://www.wikiwand.com/en/Vitreous_enamel)
 [釉上彩 - Wikiwand](https://www.wikiwand.com/zh/%E9%87%89%E4%B8%8A%E5%BD%A9)
 [Overglaze decoration - Wikiwand](https://www.wikiwand.com/en/Overglaze_decoration)
@@ -192,7 +191,13 @@ PP 聚丙烯, 食品級
 香港天氣濕, 纖維板用~2-3 年就會軟化, 個女個纖維板書櫃用咗 1 年, 層板就 U 型
 另外纖維板唔可以鑽洞, 夾板只可以鑽一次洞
 
-### 打孔式窗簾
+### 甲醛
+
+[如何科学地去除甲醛？丨科普丨冷知识丨柴知道 ChaiKnows - YouTube](https://www.youtube.com/watch?v=nPjuAF5ZPbE)
+傳統活性炭一般使用 7 天左右就飽和了，需要勤更換
+椰維炭吸附能力強，不宜飽和，可以把甲醛苯分解成無害的水和二氧化碳
+
+## 打孔式窗簾
 
 長:
 打孔式由柱上面 3-5 度到你想到幾長, 加多~3cm 佢做剪栽
@@ -274,11 +279,14 @@ Cisal 水龍頭, 陶瓷掣芯
 [矽利康怎麼打才漂亮? 大凹縫和小凹縫分別怎麼處理｜ How to Apply Silicone or Caulk ｜ DIY 教學｜【宅水電】 - YouTube](https://www.youtube.com/watch?v=oMSeZcFwAKU)
 [浴室矽利康發霉 外角和內角該怎麼處裡 刮掉重打完整記錄｜ How To Remove And Apply Silicone ｜ DIY 實作｜【宅水電】 - YouTube](https://www.youtube.com/watch?v=upzllzGoXWY)
 
+[Pumping Water Without Electricity - The Breurram - YouTube](https://www.youtube.com/watch?v=fUNicSOW46E)
+
 ### 通渠
 
-疏通劑
+[水管疏通劑變成漏水原兇? 排水軟管溫度直接破百 使用前建議看完這一集｜DIY實測｜【宅水電】 - YouTube](https://www.youtube.com/watch?v=YqhcETInhOA)
+[建議吃飯不要看「實測」廚房 排水管 馬桶 堵塞 三大方法絕對解決【超認真少年】How to Fix Kitchen Blocked Sink Mr Muscle unblocker - YouTube](https://www.youtube.com/watch?v=QltyPkZ17iU)
 
-- 蛋白質(頭髮): 過碳酸鈉
+- 蛋白質(頭髮): 過碳酸鈉, 次氯酸鈉
 - 脂肪: 氫氧化鈉 (液態保養用)
 
 ### 水喉接駁
@@ -294,3 +302,11 @@ Cisal 水龍頭, 陶瓷掣芯
 [How To Solder Copper Pipe Like a Pro (Tips & Tricks) | GOT2LEARN - YouTube](https://www.youtube.com/watch?v=V13EEkeeYfM)
 [10 Plumbing Mistakes Beginners Make And How To Avoid Them! | GOT2LEARN - YouTube](https://www.youtube.com/watch?v=-6YFB4-DjJc)
 [The BEST 25 Copper Pipe Tips & Tricks EVER! | GOT2LEARN - YouTube](https://www.youtube.com/watch?v=mt_SPghmRJI)
+
+## Concrete 混凝土
+
+[Concrete - Wikiwand](https://www.wikiwand.com/en/Concrete)
+[混凝土 - Wikiwand](https://www.wikiwand.com/zh-hant/%E6%B7%B7%E5%87%9D%E5%9C%9F)
+
+[Concrete SeriesConcrete Series - YouTube](https://www.youtube.com/playlist?list=PLTZM4MrZKfW90PdaBFt70BLTbz1bTF6Mn) Practical Engineering
+[不要钱的沙子，不香吗？为什么混凝土不用沙漠里免费的沙子【科学火箭叔】 - YouTube](https://www.youtube.com/watch?v=DqcGz0DtLrc)

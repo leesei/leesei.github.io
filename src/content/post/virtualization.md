@@ -2,7 +2,7 @@
 title: Virtualization
 description: ""
 created: 2015-05-10
-updated: 2023-07-26
+updated: 2023-11-08
 tags:
   - linux
   - virtualbox
@@ -13,6 +13,8 @@ tags:
 [OSBoxes - Virtual Machines for VirtualBox & VMware](https://www.osboxes.org/)
 
 [Performance Tuning on Virtual Machines | Learning Tree Blog](https://blog.learningtree.com/performance-tuning-on-virtual-machines/)
+[VirtualBox vs. VMware Player: The Best Virtual Machine for Windows](https://www.makeuseof.com/tag/best-virtual-machine-windows/)
+[The Best Virtual Machine for Linux: KVM vs. VirtualBox vs. QEMU vs. Hyper-V](https://www.makeuseof.com/best-virtual-machine-linux-kvm-virtualbox-qemu-hyper-v/)
 
 # Hypervisor
 
@@ -76,6 +78,7 @@ Xen only check handle three things: memory, CPU and interrupts
 [Before I do anything on Proxmox, I do this first... - YouTube](https://www.youtube.com/watch?v=GoZaMgEgrHw)
 [Perfect Proxmox Template with Cloud Image and Cloud Init - YouTube](https://www.youtube.com/watch?v=shiIi38cJe4)
 [Perfect Proxmox Template with Cloud Image and Cloud Init | Techno Tim Documentation](https://docs.technotim.live/posts/cloud-init-cloud-image/)
+[Let's Install Proxmox 8.0! - YouTube](https://www.youtube.com/watch?v=sZcOlW-DwrU)
 
 [My Proxmox Home Server Walk-Through: Part 1 (TrueNAS, Portainer, Wireguard) - YouTube](https://www.youtube.com/watch?v=_sfddZHhOj4)
 
@@ -101,6 +104,10 @@ Xen only check handle three things: memory, CPU and interrupts
 [Emulating a Raspberry Pi with QEMU](https://gist.github.com/plembo/c4920016312f058209f5765cb9a3a25e)
 
 [quickemu-project/quickemu: Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.](https://github.com/quickemu-project/quickemu)
+
+```sh
+yay -S qemu-base qemu-tools qemu-system-aarch64 qemu-system-arm qemu-system-riscv qemu-user-static
+```
 
 ## VirtualBox
 
@@ -177,6 +184,7 @@ GPU Paravirtualization in Windows 11 Hyper V make it easier than PCIe bifurcatio
 [GPU Passthrough with QEMU on Arch Linux | DominicM](http://dominicm.com/gpu-passthrough-qemu-arch-linux/)
 
 [Proxmox vGPU Gaming Tutorial - Share Your GPU With Multiple VMs! - YouTube](https://www.youtube.com/watch?v=cPrOoeMxzu0)
+[Proxmox 8.0 - PCIe Passthrough Tutorial - YouTube](https://www.youtube.com/watch?v=_hOBAGKLQkI)
 
 ### Hyper V
 

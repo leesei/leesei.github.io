@@ -2,7 +2,7 @@
 title: Rust
 description: Static typed, GC-free system language created by Mozilla.
 created: 2015-11-19
-updated: 2023-04-16
+updated: 2023-12-02
 tags:
   - comp/lang
   - package-manager
@@ -63,7 +63,7 @@ GitHub org:
 [Rustup - ArchWiki](https://wiki.archlinux.org/title/Rust#Using_rustup)
 
 ```sh
-yay -S rustup
+yay -S rustup cargo-install
 
 rustup show
 rustup toolchain install stable
@@ -165,8 +165,8 @@ Getting started:
 [Intro to Rust - YouTube](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW)
 [Learning Rust](https://learning-rust.github.io/)
 [Learn Rust in Y Minutes](https://learnxinyminutes.com/docs/rust/)
-[rust-analyzer](https://rust-analyzer.github.io/)
 [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust) 2020-01
+[bradtraversy/rust_sandbox: Fundamentals of the Rust language](https://github.com/bradtraversy/rust_sandbox)
 
 [Rust for the impatient - YouTube](https://www.youtube.com/watch?v=br3GIIQeefY)
 [Rust Talks - YouTube](https://www.youtube.com/playlist?list=PLZaoyhMXgBzoM9bfb5pyUOT3zjnaDdSEP)
@@ -211,6 +211,8 @@ Getting started:
 [into_rust(): screencasts for learning Rust](http://intorust.com/) 2016
 
 [skyzh/type-exercise-in-rust: Learn Rust generics by implementing basic types in database systems](https://github.com/skyzh/type-exercise-in-rust)
+
+[rust-analyzer](https://rust-analyzer.github.io/) Rust LSP
 
 ## Compiler
 
@@ -687,7 +689,7 @@ fn first(v: &Vec<Book>) -> &String {
 
 [How Rust can replace C, with Python's help | InfoWorld](http://www.infoworld.com/article/3208391/python/how-rust-can-replace-c-with-pythons-help.html)
 
-## Commentary
+## Commentaries
 
 [Rustlog](https://lifthrasiir.github.io/rustlog/)
 
@@ -726,8 +728,14 @@ fn first(v: &Vec<Book>) -> &String {
 [Rust 语言的编程范式 | 酷 壳 - CoolShell](https://coolshell.cn/articles/20845.html)
 [Rust](https://blog.frankel.ch/tag/rust/) from the view of a Java geek
 
+[Why I think C++ is still a desirable coding platform compared to Rust](https://lucisqr.substack.com/p/why-i-think-c-is-still-a-very-attractive)
+[Why i think C++ is better than rust - YouTube](https://www.youtube.com/watch?v=Wz0H8HFkI9U)
+
 [Should you use RUST as your FIRST programming language? - YouTube](https://www.youtube.com/watch?v=L576AckqIZg)
 [Why You SHOULDN'T Learn Rust - YouTube](https://www.youtube.com/watch?v=kOFWIvNowXo)
+[Prime Learns The Truth About Rust - YouTube](https://www.youtube.com/watch?v=Wy-y75mMRg4)
+Theo Line, The Line of Prime
+Don't choose Rust when requirement is flexible
 
 ### Dwelo
 
@@ -835,15 +843,21 @@ fn first(v: &Vec<Book>) -> &String {
 [pencil - Rust](https://fengsp.github.io/pencil/pencil/) inspired by Flask
 [warp - crates.io: Rust Package Registry](https://crates.io/crates/warp)
 [gotham - crates.io: Rust Package Registry](https://crates.io/crates/gotham)
-[axum - crates.io: Rust Package Registry](https://crates.io/crates/axum)
 
-[actix - Rust](https://actix.rs/actix/actix/)
+[actix - Rust](https://actix.rs/)
 [Build A Rust Backend (Really FAST Web Services with Actix Web) - YouTube](https://www.youtube.com/watch?v=L8tWKqSMKUI)
+
+[axum - Rust](https://docs.rs/axum/latest/axum/)
+[axum - crates.io: Rust Package Registry](https://crates.io/crates/axum)
+[tokio-rs/axum: Ergonomic and modular web framework built with Tokio, Tower, and Hyper](https://github.com/tokio-rs/axum)
 
 [Rocket: Web Framework for Rust](https://rocket.rs/)
 [show_notes::cysk::rocket - Rust](http://www.newrustacean.com/show_notes/cysk/rocket/)
 [Rust Rocket Series Series' Articles - DEV Community](https://dev.to/davidedelpapa/series/9626)
 [Build Web Apps With RUST (aka Intro Into Web Framework ‘Rocket’) - YouTube](https://www.youtube.com/watch?v=nJWN0wrPHRo)
+
+[http-rs/tide: Fast and friendly HTTP server framework for async Rust](https://github.com/http-rs/tide)
+[Tide is perhaps my favorite Rust web app framework. - YouTube](https://www.youtube.com/watch?v=ZbhzLP3vnkg)
 
 [Writing a proxy in Rust and why it is the language of the future - Medium](https://medium.com/swlh/writing-a-proxy-in-rust-and-why-it-is-the-language-of-the-future-265d8bf7c6d2)
 [MovingGauteng/shorty-rs: A simple URL shortener, written in Rust and gRPC](https://github.com/MovingGauteng/shorty-rs)
@@ -935,7 +949,7 @@ fn first(v: &Vec<Book>) -> &String {
 #### Dioxus
 
 [Dioxus | An elegant GUI library for Rust](https://dioxuslabs.com/)
-[Introduction](https://dioxuslabs.com/docs/0.3/guide/en/)[GitHub - Demonthos/sledgehammer_bindgen](https://github.com/Demonthos/sledgehammer_bindgen) Rust binding to JSDOM
+[Introduction](https://dioxuslabs.com/docs/0.3/guide/en/)[Demonthos/sledgehammer_bindgen](https://github.com/Demonthos/sledgehammer_bindgen) Rust binding to JSDOM
 
 #### Xilem
 
@@ -1052,6 +1066,8 @@ async fn my_function(i: i32) {
 [Measuring Memory Usage in Rust](https://rust-analyzer.github.io/blog/2020/12/04/measuring-memory-usage-in-rust.html) with `rust-analyzer`
 
 [SIMD for faster computing - The Edition Guide](https://doc.rust-lang.org/edition-guide/rust-2018/simd-for-faster-computing.html) with [`#[cfg()]`](https://doc.rust-lang.org/rust-by-example/attribute/cfg.html) and [`std::arch`](https://doc.rust-lang.org/1.29.1/std/arch/index.html)
+
+["NTFS really isn't that bad" - Robert Collins (LCA 2020) - YouTube](https://www.youtube.com/watch?v=qbKGw8MQ0i8) optimizing `rustup` in WSL2
 
 ## GPU
 

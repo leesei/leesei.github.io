@@ -2,7 +2,7 @@
 title: Visual Studio Code
 description: ""
 created: 2017-06-19
-updated: 2023-03-24
+updated: 2023-11-01
 tags:
   - app
   - package-manager
@@ -204,6 +204,8 @@ Set <kbd>Crtl</kbd> + <kbd>F2</kbd> to toggle bookmark, <kbd>F2</kbd> to jump to
 
 [Use VS Code's syntax highlighting in Markdown preview · Issue #91279 · microsoft/vscode](https://github.com/microsoft/vscode/issues/91279) editor highlight is different from preview/export highlight
 
+[mjbvz/vscode-fenced-code-block-grammar-injection-example: Example of injecting a new grammar into VSCode's builtin markdown syntax highlighting for fenced code blocks](https://github.com/mjbvz/vscode-fenced-code-block-grammar-injection-example)
+
 #### Syntax Injection
 
 > highlight a language in another language's source _in the editor_
@@ -257,8 +259,23 @@ Plantuml
 
 ### Tailwind
 
+[tailwindlabs/prettier-plugin-tailwindcss: A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
+
+```sh
+npm install -D prettier prettier-plugin-tailwindcss
+```
+
+```js
+// prettier.config.js
+module.exports = {
+  plugins: ["prettier-plugin-tailwindcss"],
+};
+```
+
 [Tailwind CSS IntelliSense - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
-[Headwind - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=heybourn.headwind)
+
+[Tailwind Raw Reorder - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Trapfether.tailwind-raw-reorder)
+[Headwind - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=heybourn.headwind) 😴inactive
 
 [My VSCode + Tailwind CSS Workflow Tips (Shortcuts and Extensions) - YouTube](https://www.youtube.com/watch?v=qIHR2wmxy3U)
 

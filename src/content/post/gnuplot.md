@@ -2,6 +2,7 @@
 title: Gnuplot
 description: ""
 created: 2015-05-28
+updated: 2023-09-29
 tags:
   - app
   - gnuplot

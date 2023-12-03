@@ -2,7 +2,7 @@
 title: Computer Graphics (Software)
 description: Computer Graphics on the software side, the how and whys, also on how games are rendered
 created: 2015-08-31
-updated: 2023-03-23
+updated: 2023-09-29
 tags:
   - games
   - graphics/software
@@ -59,6 +59,7 @@ Sprite: image rendered on separate layer
 [【极客周刊】玩游戏为何要 60 帧才流畅，电影却只需 24 帧？ - YouTube](https://www.youtube.com/watch?v=--OKrYxOb6Y)
 [为什么 24 帧的电影很顺畅，30 帧的游戏没法儿玩？24 FPS Movie and 30 FPS Game【柴知道 ChaiKnows】【科普 Science】【冷知识 Trivia】 - YouTube](https://www.youtube.com/watch?v=5hKhEX7vODU)
 [【聊電 Jing】什麼是 1% & 0.1% Lows 為何它比平均 FPS 還要更重要? - YouTube](https://www.youtube.com/watch?v=hR4zl3RKWH8)
+[【硬件科普】游戏帧数越高越流畅？未必！详解1%low帧和流畅度 - YouTube](https://www.youtube.com/watch?v=2cnR0VhXcw0)
 
 [手机插帧芯片 MEMC 有意义吗？「硬核显示技术第五期」详解一加 8Pro 的 MEMC 插帧补偿技术 - YouTube](https://www.youtube.com/watch?v=5hBy7VHC3Q4)
 [Topaz Labs: AI Image Quality Software](https://www.topazlabs.com/)
@@ -96,6 +97,10 @@ MSI Afterburner w/ RivaTuner Statistics Server
 [MangoHud · frostworx/steamtinkerlaunch Wiki](https://github.com/frostworx/steamtinkerlaunch/wiki/MangoHud) RivaTuner
 [GOverlay](https://www.goverlay.com/)
 
+[Intel's Major Overhaul for CPU & GPU Benchmarking | "GPU Busy" & Pipeline Technical Discussion - YouTube](https://www.youtube.com/watch?v=5hAy5V91Hr4)
+
+[GameTechDev/PresentMon: Tool for collection and processing of ETW events related to frame presentation on Windows.](https://github.com/GameTechDev/PresentMon)
+[Intel® Arc™ Graphics - PresentMon](https://game.intel.com/story/intel-presentmon/)
 [MSI Afterburner Overlay Customization Guide | Gaming PC Builder](https://www.gamingpcbuilder.com/msi-afterburner-overlay-customization-guide/)
 
 To backup OSD settings:

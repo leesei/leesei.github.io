@@ -2,7 +2,7 @@
 title: Gene Science
 description: ""
 created: 2017-12-05
-updated: 2023-08-07
+updated: 2023-10-21
 tags:
   - biology
 ---
@@ -28,8 +28,17 @@ Epigenetic link: the environment the organism lives affect the expression of it'
 
 [【2020 諾貝爾化學獎】基因剪刀 CRISPR：它如何改寫人類的生命密碼？ - PanSci 泛科學](https://pansci.asia/archives/335248)
 [Genetic Engineering and Diseases – Gene Drive & Malaria - YouTube](https://www.youtube.com/watch?v=TnzcwTyr6cE)
+[Biotechnology: Genetic Modification, Cloning, Stem Cells, and Beyond - YouTube](https://www.youtube.com/watch?v=OVf_ASEGuns)
 
+[How CRISPR lets you edit DNA - Andrea M. Henle - YouTube](https://www.youtube.com/watch?v=6tw_JVz_IEc)
+[What is CRISPR? - YouTube](https://www.youtube.com/watch?v=MnYppmstxIs)
+[CRISPR-Cas9 Genome Editing Technology - YouTube](https://www.youtube.com/watch?v=IiPL5HgPehs)
+[But what is CRISPR-Cas9? An animated introduction to Gene Editing. #some2 - YouTube](https://www.youtube.com/watch?v=ANehpGhbuF4)
+
+[CRISPR-Cas9打造「完美作物」？超嚴格日本也放寬！臺灣如何規範基因編輯作物？ - YouTube](https://www.youtube.com/watch?v=FW2QOWDlKzA)
 [新冠疫苗中“mRNA 疫苗”是怎么回事？“基因编辑”彻底改造人类，无法阻止未来的降临！ - YouTube](https://www.youtube.com/watch?v=lQyjO2KFetY)
+[癌症有疫苗了!? 莫德納、BNT等大廠重大突破，mRNA疫苗真的能攻克癌症？ ft.癌症問康健 - YouTube](https://www.youtube.com/watch?v=A-QvDbb1C9c)
+[2023 諾貝爾生醫獎頒給兩個學界邊緣人？為什麼研究mRNA 卻遭輕賤？編都編不出來的真實故事！ - YouTube](https://www.youtube.com/watch?v=3BucDj68UU4)
 [人類可以成為阿努納奇的真正原因，我們已經站到了技術大爆炸的奇點上，基因編輯的嬰兒已經誕生……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=8ylUQcJTDdc)
 
 [Questions and Answers about CRISPR | Broad Institute](https://www.broadinstitute.org/what-broad/areas-focus/project-spotlight/questions-and-answers-about-crispr)
@@ -40,6 +49,10 @@ Epigenetic link: the environment the organism lives affect the expression of it'
 
 [基因编辑是啥？CRISPR/cas9 技术如何修改 DNA？李永乐老师讲基因工程（1） - YouTube](https://www.youtube.com/watch?v=o1MdiW5UZh0)
 [基因工程对人类的重大贡献：胰岛素是如何制作的？李永乐老师讲糖尿病医疗简史 - YouTube](https://www.youtube.com/watch?v=2UtZHz3OfJg)
+
+[【科技史】基因编辑（壹）：代码的世界 - YouTube](https://www.youtube.com/watch?v=J-t4dB3IM9M)
+[【科技史】基因编辑（贰）：专利的游戏 - YouTube](https://www.youtube.com/watch?v=t5547dPll5w)
+[【科技史】基因编辑（叁）：混沌的野望 - YouTube](https://www.youtube.com/watch?v=nib-bnjNiKg)
 
 [Single Base Editing Could Sharpen Crispr's Genetic Scalpel | WIRED](https://www.wired.com/story/new-science-could-sharpen-crisprs-gene-editing-scalpel/)
 [Crispr’s Next Big Debate: How Messy Is Too Messy? | WIRED](https://www.wired.com/2017/06/crispr-mutations/)

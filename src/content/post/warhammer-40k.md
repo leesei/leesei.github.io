@@ -2,6 +2,7 @@
 title: Warhammer 40k
 description: ""
 created: 2023-06-06
+updated: 2023-09-29
 tags:
   - boardgame
   - games

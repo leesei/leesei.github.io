@@ -2,7 +2,7 @@
 title: React Native
 description: Learn once, write anywhere.
 created: 2023-06-10
-updated: 2023-07-08
+updated: 2023-11-26
 tags:
   - app
   - mobile
@@ -16,9 +16,6 @@ Write React JSX and deploy to iOS and Android.
 [Home - Proton Native - React Native for the desktop, cross compatible](https://proton-native.js.org)
 
 [infinitered/ignite: Infinite Red's cutting edge React Native project boilerplate, along with a CLI, component/model generators, and more!](https://github.com/infinitered/ignite)
-
-[Hermes | Hermes](https://hermesengine.dev/) to be the default JavaScript engine
-[Using Hermes · React Native](https://reactnative.dev/docs/hermes)
 
 [Understanding React Native Architecture - DEV Community](https://dev.to/goodpic/understanding-react-native-architecture-22hh) 2020-08
 [React Native New Architecture - What to Expect? | LITSLINK Blog](https://litslink.com/blog/new-react-native-architecture) 2020-10
@@ -114,11 +111,7 @@ Write React JSX and deploy to iOS and Android.
 
 ## Hermes
 
-[Hermes · JavaScript engine optimized for React Native](https://hermesengine.dev/)
-[facebook/hermes: Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android.](https://github.com/facebook/hermes)
-
-[Hermes: A new open source JavaScript engine optimized for mobile apps](https://code.fb.com/android/hermes/)
-[Using Hermes · React Native](https://facebook.github.io/react-native/docs/hermes/)
+[[hermes-runtime]]
 
 ## On the contrary
 
@@ -132,17 +125,13 @@ Write React JSX and deploy to iOS and Android.
 [react-community/create-react-native-app: Create a React Native app on any OS with no build config.](https://github.com/react-community/create-react-native-app)
 [Rich-Harris/degit: Straightforward project scaffolding](https://github.com/Rich-Harris/degit)
 
-[Expo](https://expo.io/) SDK that provides native feature to React Native, also a distribution channel
+[Expo](https://expo.io/) ❗!important, SDK that provides native feature to React Native, also a distribution channel
 [expo/expo: Expo iOS/Android Client](https://github.com/expo/expo)
 [Feature Requests | Expo](https://expo.canny.io/feature-requests) check missing features
-[A Brief Introduction to Expo | DigitalOcean](https://www.digitalocean.com/community/tutorials/react-expo-intro)
-[Build a React Native App with Expo | by Mike Perrotta | Bits and Pieces](https://blog.bitsrc.io/building-a-react-native-app-with-expo-530ddef0e1ab)
+[A Brief Introduction to Expo | DigitalOcean](https://www.digitalocean.com/community/tutorials/react-expo-intro) 2018-12
+[Build a React Native App with Expo | by Mike Perrotta | Bits and Pieces](https://blog.bitsrc.io/building-a-react-native-app-with-expo-530ddef0e1ab) 2020-04
 
-[Ignite 2.0 Has Landed!](https://infinite.red/ignite)
-[infinitered/ignite: The unfair starting CLI, Generator, and more for React Native](https://github.com/infinitered/ignite)
-
-[Haul · A command line tool for developing React Native apps](https://callstack.github.io/haul/)
-[callstack-io/haul: Haul is a command line tool for developing React Native apps](https://github.com/callstack-io/haul)
+[infinitered/ignite: Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!](https://github.com/infinitered/ignite)
 
 ## Routing
 
@@ -151,4 +140,10 @@ Write React JSX and deploy to iOS and Android.
 
 [React Navigation · Routing and navigation for your React Native apps](https://reactnavigation.org/)
 [react-navigation/react-navigation: Routing and navigation for your React Native apps](https://github.com/react-navigation/react-navigation)
-[How To Use Routing with React Navigation in React Native | DigitalOcean](https://www.digitalocean.com/community/tutorials/react-react-native-navigation)
+[How To Use Routing with React Navigation in React Native | DigitalOcean](https://www.digitalocean.com/community/tutorials/react-react-native-navigation) 2020-08
+
+## Components
+
+[FlashList – fast and performant React Native list](https://shopify.github.io/flash-list/)
+[Shopify/flash-list: A better list for React Native](https://github.com/Shopify/flash-list)
+[FlashList - Expo Documentation](https://docs.expo.dev/versions/latest/sdk/flash-list/)

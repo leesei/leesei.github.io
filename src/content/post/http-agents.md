@@ -2,6 +2,7 @@
 title: HTTP agents
 description: ""
 created: 2014-12-11
+updated: 2023-11-29
 tags:
   - curl
   - har
@@ -138,7 +139,7 @@ wget -P./download -i list.txt
 [ducaale/xh: Friendly and fast tool for sending HTTP requests](https://github.com/ducaale/xh)
 [HTTPie feature parity checklist · Issue #4 · ducaale/xh · GitHub](https://github.com/ducaale/xh/issues/4)
 
-It's a reimplementation of `httpie`:
+It's a re-implementation of `httpie`:
 
 - prints header and response by default
 - written in Rust, should be faster
@@ -223,26 +224,12 @@ httrack -c8 [url]
 
 ## GUI App
 
+> I recommend REST Client on VSCode or scripts on HTTPie/xh/curl
+> that way you own your collections
+
 [Hurl - Run and Test HTTP Requests](https://hurl.dev/) similar to REST Client, but more powerful
 
-[Insomnia REST Client](https://insomnia.rest/) open source, also supports GraphQL
-[Use Insomnia for API Requests](https://apis.support.brightcove.com/general/use-insomnia-api-requests.html)
-
-[Thunder Client - Lightweight Rest API Client Extension for VS Code](https://www.thunderclient.com/) import OpenAPI, OAuth2 client
-[Thunder Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
-
-[Hoppscotch - Open source API development ecosystem](https://hoppscotch.io/) open source port of Postman, originally Postwoman
-[hoppscotch/hoppscotch: 👽 Open source API development ecosystem https://hoppscotch.io](https://github.com/hoppscotch/hoppscotch)
-[I created Postwoman 👽 - An online, open source API request builder - DEV Community 👩‍💻👨‍💻](https://dev.to/liyasthomas/i-created-postwoman-an-online-open-source-api-request-builder-41md)
-
-[Postman - A powerful HTTP client to test web services](http://www.getpostman.com/)
-[REST Client | Postman API Platform [Free Download]](https://www.postman.com/product/rest-client/) also supports GraphQL
-[Postman Docs](https://www.getpostman.com/docs)
-
-[Newman v3 – Postman Blog](http://blog.getpostman.com/2016/08/12/newman-v3/)
-[postmanlabs/newman: Newman is a command-line collection runner for Postman](https://github.com/postmanlabs/newman)
-
-[Review: Postman Client Makes RESTful API Exploration a Breeze](http://blog.programmableweb.com/2014/01/27/review-postman-client-makes-restful-api-exploration-a-breeze/)
+[Download HTTPie for Desktop – HTTPie](https://httpie.io/download)
 
 [Graphing COVID time series data using Chart.js and Postman | by Joyce Lin | Better Practices | Medium](https://medium.com/better-practices/graphing-covid-time-series-data-using-chart-js-and-postman-5d13eff44761)
 [How to visualize data in Postman - YouTube](https://www.youtube.com/playlist?list=PL6yYBvW22vbqiyhb_U-RWfxuZNv0DKBP8)
@@ -266,11 +253,37 @@ Set `previewOption` to `exchange` (default `full`) to view requests
 
 ### Thunder Client
 
-[Thunder Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) POSTMan in VS Code
+> POSTMan in VS Code
+
+[Thunder Client - Lightweight Rest API Client Extension for VS Code](https://www.thunderclient.com/) import OpenAPI, OAuth2 client
+[Thunder Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 
 ### RapidAPI Client
 
 [RapidAPI Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=RapidAPI.vscode-rapidapi-client) HTTP requests in plain text, generate types
+
+Desktop app available on MacOS
+
+### Hoppscotch
+
+[Hoppscotch - Open source API development ecosystem](https://hoppscotch.io/) open source port of Postman, originally Postwoman
+[hoppscotch/hoppscotch: 👽 Open source API development ecosystem https://hoppscotch.io](https://github.com/hoppscotch/hoppscotch)
+[I created Postwoman 👽 - An online, open source API request builder - DEV Community 👩‍💻👨‍💻](https://dev.to/liyasthomas/i-created-postwoman-an-online-open-source-api-request-builder-41md)
+
+### Not recommended
+
+[Postman - A powerful HTTP client to test web services](http://www.getpostman.com/)
+[REST Client | Postman API Platform [Free Download]](https://www.postman.com/product/rest-client/) also supports GraphQL
+[Postman Docs](https://www.getpostman.com/docs)
+Postman NOT recommended as it is cloud-required (2023-10 with the deprecation of Scratchpad)
+
+[Newman v3 – Postman Blog](http://blog.getpostman.com/2016/08/12/newman-v3/)
+[postmanlabs/newman: Newman is a command-line collection runner for Postman](https://github.com/postmanlabs/newman)
+
+[Review: Postman Client Makes RESTful API Exploration a Breeze](http://blog.programmableweb.com/2014/01/27/review-postman-client-makes-restful-api-exploration-a-breeze/)
+
+[Insomnia REST Client](https://insomnia.rest/) open source, also supports GraphQL, NOT recommended as it is cloud-required (2023-10)
+[Use Insomnia for API Requests](https://apis.support.brightcove.com/general/use-insomnia-api-requests.html)
 
 ## Node.js
 
@@ -309,11 +322,16 @@ Server:
 
 ## Python
 
-[psf/requests: A simple, yet elegant HTTP library.](https://github.com/psf/requests)
+[psf/requests: A simple, yet elegant HTTP library.](https://github.com/psf/requests) no async support
+[Requests: HTTP for Humans™ — Requests documentation](https://requests.readthedocs.io/en/latest/)
 [Python’s Requests Library (Guide) – Real Python](https://realpython.com/python-requests/)
+
+[Python’s Requests Library (Guide) – Real Python](https://realpython.com/python-requests/#request-headers)
+[Advanced usage of Python requests - timeouts, retries, hooks](https://hodovi.ch/blog/advanced-usage-python-requests-timeouts-retries-hooks/)
 
 [HTTPX](https://www.python-httpx.org/) also `httpx[cli]`
 asynchronous client library that supports HTTP/1.1 and HTTP/2
+[encode/httpx: A next generation HTTP client for Python. 🦋](https://github.com/encode/httpx)
 [HTTPX Tutorial - A next-generation HTTP client for Python - YouTube](https://www.youtube.com/watch?v=qAh5dDODJ5k)
 [Asynchronous HTTP Requests in Python with HTTPX and asyncio](https://www.twilio.com/blog/asynchronous-http-requests-in-python-with-httpx-and-asyncio)
 
@@ -442,7 +460,12 @@ class ParameterizedSimulation extends Simulation {
 [RequestBin — A modern request bin to collect, inspect and debug HTTP requests and webhooks - Pipedream](https://pipedream.com/requestbin)
 [Webhook.site - Test, process and transform emails and HTTP requests](https://webhook.site/#!/04199650-1606-47ce-9c38-a97502687bd9)
 
+[httpbin.org](https://httpbin.org/)
+[mccutchen/go-httpbin: A reasonably complete and well-tested golang port of httpbin, with zero dependencies outside the go stdlib.](https://github.com/mccutchen/go-httpbin)
+
 ## httpbin.js
+
+> my code 😃
 
 [leesei/httpbin.js: HTTPbin-like server implemented in Node.js](https://github.com/leesei/httpbin.js)
 

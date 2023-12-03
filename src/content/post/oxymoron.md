@@ -2,49 +2,43 @@
 title: Oxymoron
 description: Contradictory ideas put in a phrase
 created: 2023-03-30
+updated: 2023-09-29
 tags:
   - english
 ---
 
 > adjective-noun or noun-verb phrases
 
+act naturally
+alone together
+clearly misunderstood
 concert for the deaf
 cruelly kind
 dark sunshine
 deafening silence
+definite possibility
 dynamic equilibrium
 full of emptiness
 hand sign for the blinds
 hard-drive performance
 keenly stupid
+loose tights
 optimistic pessimism
+original copy
 partially complete
 passive aggressive
+peace force
 pessimistic optimism
 post-preparation
 rational irrationality
+real phony
 self incitement
 silent whistles
+terribly pleased
 tiny giant
 wise fool
 男 miss
 熱冰水
-
----
-
-act naturally
-original copy
-alone together
-peace force
-definite possibility
-terribly pleased
-real phony
-ill health
-jumbo shrimp
-alone together
-loose tights
-small crowd
-clearly misunderstood
 
 ---
 
@@ -258,6 +252,7 @@ House Plant
 Humane Slaughter
 Humble Opinion
 Ice Water, Iced Coffee
+Ill Health
 Idiot Savant
 Incredibly Convincing
 Independent Financial Advisor

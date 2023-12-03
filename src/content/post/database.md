@@ -2,13 +2,13 @@
 title: Database
 description: ""
 created: 2015-08-03
-updated: 2023-08-09
+updated: 2023-11-29
 tags:
   - comp/database
 ---
 
 > TODO: merge `caravan/database/` here
-> split `mysql`, `redis`, `tikv-tidb`, `datebase-graph`, `datebase-as-a-service`, `datebase-transactional`, `datebase-kv`, `datebase-document`, `datebase-lightweight`, `datebase-multimodal `
+> split `datebase-mysql`, `datebase-redis`, `datebase-tikv-tidb`, `datebase-graph`, `datebase-as-a-service`, `datebase-transactional`, `datebase-kv`, `datebase-document`, `datebase-lightweight`, `datebase-multimodal`, `datebase-vector`
 
 [Database - Wikiwand](https://www.wikiwand.com/en/Database)
 [Databases 101 - Thomas LaRock](https://thomaslarock.com/2018/07/databases-101/)
@@ -61,7 +61,6 @@ Read, Update, Memory amplification
 [A beginner's guide to database table relationships - Vlad Mihalcea](https://vladmihalcea.com/database-table-relationships/)
 
 [Intro, Data Modeling, Databases | Prisma's Data Guide](https://www.prisma.io/dataguide/)
-[SQL vs ORMs vs Query Builders | Compare | Prisma's Data Guide](https://www.prisma.io/dataguide/types/relational/comparing-sql-query-builders-and-orms)
 
 [Database Keys Made Easy - Primary, Foreign, Candidate, Surrogate, & Many More - YouTube](https://www.youtube.com/watch?v=8wUUMOKAK-c)
 [Third normal form - Wikiwand](https://www.wikiwand.com/en/Third_normal_form)
@@ -84,6 +83,12 @@ BCNF is stronger the 3NF but in practice 99.99% of 3NF are BCNF.
 
 [DBML - Database Markup Language | DBML](https://www.dbml.org/home/)
 [dbdiagram.io - Database Relationship Diagrams Design Tool](https://dbdiagram.io/home)
+
+### Concurrent Update
+
+[How To Build a High-Concurrency Ticket Booking System With Prisma - DEV Community](https://dev.to/zenstack/how-to-build-a-high-concurrency-ticket-booking-system-with-prisma-184n) Optimistic Concurrency Control(OCC)
+
+[What is SELECT FOR UPDATE in SQL (with examples)?](https://www.cockroachlabs.com/blog/select-for-update/) SQL support this with built-in
 
 ## Use case
 
@@ -227,6 +232,20 @@ Provides ACID consistency.
 
 [[sql]]
 
+## Indexes
+
+[Database Indexing for Dumb Developers - YouTube](https://www.youtube.com/watch?v=lYh6LrSIDvY)
+
+[Database Indexing Explained (with PostgreSQL) - YouTube](https://www.youtube.com/watch?v=-qNSXK7s7_w)
+[Indexing in PostgreSQL vs MySQL - YouTube](https://www.youtube.com/watch?v=T9n_-_oLrbM)
+
+[The effect of Random UUID on database performance - YouTube](https://www.youtube.com/watch?v=OAOQ7U0XAi0)ranom UUID causes lots of pages look up and split
+[How Shopify’s engineering improved database writes by 50% with ULID - YouTube](https://www.youtube.com/watch?v=f53-Iw_5ucA)
+
+[UUIDs are Popular, but Bad for Performance — Let’s Discuss - Percona Database Performance Blog](https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/)
+[UUIDs are Bad for Performance in MySQL - Is Postgres better? Let us Discuss - YouTube](https://www.youtube.com/watch?v=Y5mWz4vK10A)
+MySQL's data clustering means the primary key affects data I/O; Postgres does not have this issue
+
 ## Datalog
 
 [Datalog - Wikiwand](https://www.wikiwand.com/en/Datalog)
@@ -369,10 +388,6 @@ Basics:
 [MySQL on Docker: Single Host Networking for MySQL Containers | Severalnines](https://severalnines.com/blog/mysql-docker-single-host-networking-mysql-containers)
 [MySQL on Docker: Introduction to Docker Swarm Mode and Multi-Host Networking | Severalnines](https://severalnines.com/blog/mysql-docker-introduction-docker-swarm-mode-and-multi-host-networking)
 
-[UUIDs are Popular, but Bad for Performance — Let’s Discuss - Percona Database Performance Blog](https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/)
-[UUIDs are Bad for Performance in MySQL - Is Postgres better? Let us Discuss - YouTube](https://www.youtube.com/watch?v=Y5mWz4vK10A)
-MySQL's data clustering means the primary key affects data I/O; Postgres does not have this issue
-
 [10 Tips for Building Resilient Payment Systems (2023)](https://shopify.engineering/building-resilient-payment-systems)
 [How Shopify’s engineering improved database writes by 50% with ULID - YouTube](https://www.youtube.com/watch?v=f53-Iw_5ucA)
 
@@ -401,6 +416,8 @@ MySQL's data clustering means the primary key affects data I/O; Postgres does no
 ---
 
 # NoSQL
+
+[[sql#JSON support]]
 
 [NoSQL - Wikiwand](https://www.wikiwand.com/en/NoSQL)
 [NOSQL Databases](http://nosql-database.org/)
@@ -468,10 +485,21 @@ The first three supports relationship by a second index lookup, `JOIN`-like oper
 [Get Started with Redis Modules on AWS - Redis](https://redis.com/modules/get-started/)
 [Redis 7.0 Is Near With "Significant Performance Optimizations" - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Redis-7.0-rc1)
 
+[Learn Redis with Free Online Courses | Redis University](https://university.redis.com/)
+[RU203: Querying, Indexing, and Full-Text Search | Redis University](https://university.redis.com/courses/ru203/)
+
+[Redis In-memory Database Crash Course - YouTube](https://www.youtube.com/watch?v=sVCZo5B8ghE)
+[I've been using Redis wrong this whole time... - YouTube](https://www.youtube.com/watch?v=WQ61RL1GpEE)
+
+- Redis has Snapshot and Append Only File (similar to Write Ahead Log in Postgres) for persistence
+- Redis's data structure can replicate RDB refeatur
+
 [rbmkio/radish: Desktop client for Redis (Windows, MacOS, Linux)](https://github.com/rbmkio/radish)
 
-[The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/) 3.0.3
+[The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/) at the time of v3.0.3, for core concept only
 [AppsInTheOpen](http://appsintheopen.com/posts/23-one-large-redis-or-many-smaller-shards)
+
+[编程技术宇宙 - YouTube](https://www.youtube.com/@user-gq5ss1vi6i/) Redis animations
 
 [Introduction to Redis - DEV Community 👩‍💻👨‍💻](https://dev.to/divyanshutomar/introduction-to-redis-3m2a)
 [Introduction to Redis: Installation, CLI Commands, and Data Types](https://auth0.com/blog/introduction-to-redis-install-cli-commands-and-data-types/)
@@ -644,6 +672,8 @@ CouchDB, LevelDB and browsers compatible
 
 [MyRocks: A space- and write-optimized MySQL database | Engineering Blog | Facebook Code](https://code.facebook.com/posts/190251048047090/myrocks-a-space-and-write-optimized-mysql-database/)
 [facebook/mysql-5.6: Facebook's branch of the Oracle MySQL v5.6 database. This includes MyRocks.](https://github.com/facebook/mysql-5.6)
+
+[SEHException thrown after disposal and reopen · Issue #5 · curiosity-ai/rocksdb-sharp](https://github.com/curiosity-ai/rocksdb-sharp/issues/5) C# binding's library may crash on CPU without AVX2 (now fixed)
 
 ## YottaDB
 
@@ -893,85 +923,10 @@ KV:
 
 SQL:
 
+[[sqlite]]
 [DuckDB - An in-process SQL OLAP database management system](https://duckdb.org/)
 [Firebird: The true open source database for Windows, Linux, Mac OS X and more](https://firebirdsql.org/)
 [LiteDB :: A .NET embedded NoSQL database](https://www.litedb.org/)
-
-## Sqlite
-
-[SQLite Home Page](https://www.sqlite.org/)
-[Many Small Queries Are Efficient In SQLite](https://www.sqlite.org/np1queryprob.html)
-[The SQLite OS Interface or "VFS"](https://www.sqlite.org/vfs.html)
-[JSON Functions And Operators](https://www.sqlite.org/json1.html) included in 3.38 (2022-02)
-
-[How does SQLite work? Part 1: pages! - Julia Evans](http://jvns.ca/blog/2014/09/27/how-does-sqlite-work-part-1-pages/)
-[The Origin of SQLite, the World’s Most Widely-Used Database – The New Stack](https://thenewstack.io/the-origin-story-of-sqlite-the-worlds-most-widely-used-database-software/)
-[Why you should use SQLite | InfoWorld](https://www.infoworld.com/article/3331923/database/why-you-should-use-sqlite.html)
-[Why SQLite may become foundational for digital progress | VentureBeat](https://venturebeat.com/2022/05/20/why-sqlite-may-become-foundational-for-digital-progress/)
-
-[A hands-on tutorial of SQLite3 | Opensource.com](https://opensource.com/article/21/2/sqlite3-cheat-sheet)
-[SQLite Tutorial - An Easy Way to Master SQLite Fast](https://www.sqlitetutorial.net/)
-
-[kripken/sql.js: SQLite compiled to JavaScript through Emscripten](https://github.com/kripken/sql.js)
-[mapbox/node-sqlite3: Asynchronous, non-blocking SQLite3 bindings for Node.js](https://github.com/mapbox/node-sqlite3)
-[Using SQLite /w Node.js for Rapid Prototyping — Medium](https://medium.com/@tarkus/node-js-and-sqlite-for-rapid-prototyping-bc9cf1f26f10#.3l86qh41a)
-
-[sqlite-utils documentation](https://sqlite-utils.datasette.io/en/stable/) Python
-
-[#201: SQLite with Richard Hipp - Changelog](https://changelog.com/201/)
-
-### GUI Viewer
-
-[SqliteMan](https://sqliteman.dev/)
-[SQLiteStudio](https://sqlitestudio.pl/)
-
-#### Datasette
-
-[simonw/datasette: A tool for exploring and publishing data](https://github.com/simonw/datasette)
-[Datasette — Datasette documentation](https://docs.datasette.io/en/stable/#)
-[Simon Willison: Datasette and Datasette Publish - YouTube](https://www.youtube.com/watch?v=_uwrqB--eM4)
-[Datasette: instantly create and publish an API for your SQLite databases](https://simonwillison.net/2017/Nov/13/datasette/)
-
-[Datasette Lite](https://lite.datasette.io/) runs Datasette in browser with Pyodide
-[Datasette Lite: a server-side Python web application running in a browser](https://simonwillison.net/2022/May/4/datasette-lite/)
-
-### CLI client
-
-[Command Line Shell For SQLite](https://www.sqlite.org/cli.html)
-[SQLite commands and general usage](https://www.pantz.org/software/sqlite/sqlite_commands_and_general_usage.html)
-[SQLite - the sqlite3 command line tool](https://zetcode.com/db/sqlite/tool/)
-
-```
-sqlite> .mode
-Error: mode should be one of: ascii column csv html insert line list tabs tcl
-sqlite> .mode LIST
-sqlite> .headers ON
-sqlite> .tables
-sqlite> PRAGMA table_info(Table);
-```
-
-Or specify when invoking `sqlite`: `sqlite3 -list -header <db>`
-
-[LiteCLI](https://litecli.com/)
-[dbcli/litecli: CLI for SQLite Databases with auto-completion and syntax highlighting](https://github.com/dbcli/litecli)
-[LiteCLI - SQLite Client with Autocomplete](https://www.i-programmer.info/news/90-tools/12477-litecli-sqlite-client-with-auto-completion.html)
-
-[sqlite-utils command-line tool - sqlite-utils](https://sqlite-utils.datasette.io/en/stable/cli.html)
-
-### Application
-
-[crawshaw - 2018-07-30](https://crawshaw.io/blog/one-process-programming-notes)
-
-### Scaling
-
-[Litestream - Streaming SQLite Replication](https://litestream.io/)
-[How it works - Litestream](https://litestream.io/how-it-works/)
-
-[I'm All-In on Server-Side SQLite · Fly](https://fly.io/blog/all-in-on-sqlite-litestream/)
-
-[superfly/litefs: FUSE-based file system for replicating SQLite databases across a cluster of machines](https://github.com/superfly/litefs)
-[litefs/ARCHITECTURE.md at main · superfly/litefs](https://github.com/superfly/litefs/blob/main/docs/ARCHITECTURE.md)
-[Introducing LiteFS · Fly](https://fly.io/blog/introducing-litefs/)
 
 ## Bolt
 
@@ -1040,11 +995,77 @@ The _Standard_ API for interacting with GraphDB.
 
 # Vector Database
 
-[NucliaDB, the vector database for HuggingFace users](https://nucliadb.com/)
-[Nuclia vector database](https://nuclia.com/vector-database/)
-
+[WTF Is a Vector Database: A Beginner's Guide! - DEV Community](https://dev.to/pavanbelagatti/wtf-is-a-vector-database-a-beginners-guide-16p)
 [The Power of Vector Databases For Knowledge Search - YouTube](https://www.youtube.com/watch?v=awIm3rQOBxE)
 [Why are they suddenly so popular? - YouTube](https://www.youtube.com/watch?v=IvyAMw7B39k)
+[Vector Databases and the Future of AI-powered Search - Sam Partee - YouTube](https://www.youtube.com/watch?v=g2bNHLeKlAg) Redis Vector Search
+
+[All You Need to Know about Vector Databases and How to Use Them to Augment Your LLM Apps | by Dominik Polzer | Sep, 2023 | Towards Data Science](https://towardsdatascience.com/all-you-need-to-know-about-vector-databases-and-how-to-use-them-to-augment-your-llm-apps-596f39adfedb)
+[Which Vector Database Should I Use? A Comparison Cheatsheet | by Navid Rezaei | Medium](https://navidre.medium.com/which-vector-database-should-i-use-a-comparison-cheatsheet-cb330e55fca)
+[Vector Database Comparison Cheatsheet - Google Sheets](https://docs.google.com/spreadsheets/d/1oAeF4Q7ILxxfInGJ8vTsBck3-2U9VV8idDf3hJOozNw/edit#gid=0)
+
+[Document-Oriented Agents: Vector Databases, LLMs, Langchain, FastAPI, and Docker | Towards Data Science](https://towardsdatascience.com/document-oriented-agents-a-journey-with-vector-databases-llms-langchain-fastapi-and-docker-be0efcd229f4)
+[Explaining Vector Databases in 3 Levels of Difficulty | by Leonie Monigatti | Towards Data Science](https://towardsdatascience.com/explaining-vector-databases-in-3-levels-of-difficulty-fc392e48ab78)
+[How to implement a vector database for AI - LogRocket Blog](https://blog.logrocket.com/implement-vector-database-ai/)
+
+[【上集】向量数据库技术鉴赏 - YouTube](https://www.youtube.com/watch?v=W_ZUUDJsUtA)
+[【下集】向量数据库技术鉴赏 - YouTube](https://www.youtube.com/watch?v=ct20Kv8yn0U)
+
+## Top lists
+
+[Top 5 Vector Database Solutions for Your AI Project - The New Stack](https://thenewstack.io/top-5-vector-database-solutions-for-your-ai-project/)
+[The 5 Best Vector Databases | A List With Examples | DataCamp](https://www.datacamp.com/blog/the-top-5-vector-databases)
+[6 open-source Pinecone alternatives for LLMs](https://blog.apify.com/pinecone-alternatives/)
+[12 Vector Databases For 2023: A Review](https://lakefs.io/blog/12-vector-databases-2023/)
+[Vector Database - A Comprehensive Guide | by Navid Rezaei | Towards Data Science](https://towardsdatascience.com/vector-database-a-comprehensive-guide-2b1a3b0a8b9f)
+[Best Vector Database Software in 2023 | G2](https://www.g2.com/categories/vector-database)
+[Vector databases - a look at the AI database market with a comprehensive comparison matrix](https://objectbox.io/vector-database/)
+
+## Qdrant
+
+[Qdrant - Vector Database](https://qdrant.tech/)
+[Qdrant Documentation - Qdrant](https://qdrant.tech/documentation/) Similarity search
+[qdrant/qdrant: Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/](https://github.com/qdrant/qdrant)
+
+## Milvus
+
+[Vector database - Milvus](https://milvus.io/)
+[Milvus documentation](https://milvus.io/docs) Similarity search
+[milvus-io/milvus: A cloud-native vector database, storage for next generation AI applications](https://github.com/milvus-io/milvus)
+
+## Weaviate
+
+[Welcome | Weaviate - vector database](https://weaviate.io/)
+[Introduction | Weaviate - vector database](https://weaviate.io/developers/weaviate) Similarity search
+[weaviate/weaviate: Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.](https://github.com/weaviate/weaviate)
+
+## Vespa
+
+[Vespa - the big data serving engine](https://vespa.ai/)
+[Vespa Documentation](https://docs.vespa.ai/) nearest neighbor search, approximate nearest neighbor search
+[vespa-engine/vespa: The open big data serving engine. https://vespa.ai](https://github.com/vespa-engine/vespa)
+
+## Faiss
+
+[Welcome to Faiss Documentation — Faiss documentation](https://faiss.ai/) similarity search, approximate similarity search
+[facebookresearch/faiss: A library for efficient similarity search and clustering of dense vectors.](https://github.com/facebookresearch/faiss)
+
+## Chroma
+
+[Chroma](https://www.trychroma.com/)
+[chroma-core/chroma: the AI-native open-source embedding database](https://github.com/chroma-core/chroma)
+
+## NucliaDB
+
+[Nuclia vector database](https://nuclia.com/vector-database/)
+[nuclia/nucliadb: NucliaDB, The vector database optimized for documents and video search](https://github.com/nuclia/nucliadb)
+
+## LlamaIndex
+
+[LlamaIndex 🦙](https://docs.llamaindex.ai/en/stable/)
+[run-llama/llama_index: LlamaIndex (formerly GPT Index) is a data framework for your LLM applications](https://github.com/run-llama/llama_index)
+
+## Pinecone
 
 [Vector Database for Vector Search | Pinecone](https://www.pinecone.io/)
 [【人工智能】爆肝万字介绍向量数据库和 Pinecone | 向量搜索的演化过程 | LLM 是人类的大脑，向量数据库就是海马体 | Pinecone 的发展历程 | Pinecone 直接和潜在竞争对手有哪些 - YouTube](https://www.youtube.com/watch?v=u03AZlmZF_8)
@@ -1053,7 +1074,7 @@ The _Standard_ API for interacting with GraphDB.
 
 # NewSQL
 
-[[postgresql]]
+[[datebase-postgresql]]
 
 [NewSQL - Wikiwand](https://www.wikiwand.com/en/NewSQL)
 [NoSQL vs. NewSQL: Choosing the Right Tool - VoltDB](https://www.voltdb.com/blog/2015/04/09/nosql-vs-newsql-choosing-right-tool/)
@@ -1252,7 +1273,9 @@ Time series database is also good for logging
 
 [Time Series Database | NoSQL Time Series Database | Riak TS | Basho](http://basho.com/products/riak-ts/)
 [OpenTSDB - A Distributed, Scalable Monitoring System](http://opentsdb.net/)
-[Timescale | an open-source time-series SQL database optimized for fast ingest, complex queries and scale.](https://www.timescale.com/)
+
+[Timescale | an open-source time-series SQL database optimized for fast ingest, complex queries and scale.](https://www.timescale.com/) Postgres extension
+[Solving one of PostgreSQL's biggest weaknesses. - YouTube](https://www.youtube.com/watch?v=ruUlK6zRwS8)
 
 [LinkedIn 開源時間序列預測函式庫 Greykite | iThome](https://www.ithome.com.tw/news/144430)
 [Greykite: A flexible, intuitive, and fast forecasting library | LinkedIn Engineering](https://engineering.linkedin.com/blog/2021/greykite--a-flexible--intuitive--and-fast-forecasting-library)
@@ -1303,6 +1326,7 @@ VoltDB
 [Solving real time collaboration using Eventual Consistency](https://matt.aimonetti.net/posts/2020-09-solving-real-time-collaboration-using-eventual-consistency/)
 
 [Druid | Database for modern analytics applications](https://druid.apache.org/)
+[Introduction to Apache Druid | Apache® Druid](https://druid.apache.org/docs/latest/design/)
 
 # AIDB
 

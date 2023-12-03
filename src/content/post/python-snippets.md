@@ -2,6 +2,7 @@
 title: Python snippets
 description: ""
 created: 2014-12-11
+updated: 2023-10-18
 tags:
   - comp/lang
   - python
@@ -79,6 +80,15 @@ def flatten(any_list: Iterable[Any]) -> Iterable[Any]:
 [Reading and Writing CSV Files in Python – Real Python](https://realpython.com/python-csv/)
 [Reading and Writing CSV Files in Python](http://stackabuse.com/reading-and-writing-csv-files-in-python/)
 [The fastest way to read a CSV in Pandas](https://pythonspeed.com/articles/pandas-read-csv-fast/) read as arrow and parquet
+
+```python
+import csv
+
+with open(filepath, "r", ,sep='\t', encoding="utf-8") as fp:
+    reader = csv.DictReader(fp)
+    for row in reader:
+        print(row)
+```
 
 ```python
 # extra noise needed for this script to work in Windows and
@@ -221,6 +231,56 @@ def json_dump(data: dict, outfile: os.PathLike, minify: bool = False, **kwargs):
             )
         else:
             json.dump(data, fp, indent=2, ensure_ascii=False, skipkeys=True, **kwargs)
+```
+
+## Markdown
+
+```py
+#!/usr/bin/env python3
+
+import argparse
+import sys
+from os import path
+from pprint import pprint
+
+import mistune
+
+
+def bail(msg: str):
+    print(msg, file=sys.stderr)
+    exit(1)
+
+
+def md_load(path: str):
+    with open(path) as f:
+        markdown = mistune.create_markdown(renderer=None)
+        return markdown(f.read())
+
+
+parser = argparse.ArgumentParser(
+    description="Parse Markdown file and dump AST",
+    formatter_class=argparse.ArgumentDefaultsHelpFormatter,
+)
+parser.add_argument("input", metavar="MD", help="Input file")
+parser.add_argument(
+    "-v",
+    "--verbose",
+    help="verbose verbose verbose verbose!!!",
+    action="count",
+    default=0,
+)
+
+args = parser.parse_args()
+if args.verbose:
+    print(args)
+
+if not path.isfile(args.input):
+    bail(f"Input [{args.input}] is not a file")
+
+doc = md_load(args.input)
+
+for elem in doc:
+    pprint(elem)
 ```
 
 ## Lodash

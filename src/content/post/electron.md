@@ -2,6 +2,7 @@
 title: Electron
 description: ""
 created: 2015-07-19
+updated: 2023-10-20
 tags:
   - atom-shell
   - comp/lang
@@ -91,8 +92,6 @@ electron-builder > electron-packager
 
 ## Modules
 
-[Devtron](http://electron.atom.io/devtron/) devtool
-[sindresorhus/electron-debug](https://github.com/sindresorhus/electron-debug)
 [Spectron](http://electron.atom.io/spectron/) testing framework
 
 [electron/asar: Simple extensive tar-like archive format with indexing](https://github.com/electron/asar)
@@ -102,6 +101,20 @@ electron-builder > electron-packager
 
 [OsamaAbbas/bytenode: A minimalist bytecode compiler for Node.js](https://github.com/OsamaAbbas/bytenode)
 [How to Compile Node.js Code Using Bytenode? | Hacker Noon](https://hackernoon.com/how-to-compile-node-js-code-using-bytenode-11dcba856fa9)
+
+## Debugging
+
+[How to debug electron production binaries - Stack Overflow](https://stackoverflow.com/questions/45485262/how-to-debug-electron-production-binaries)
+
+Run app with `--args --remote-debugging-port=8315`, then open `http://localhost:8315/` in Chrome.
+
+[Application Debugging | Electron](https://www.electronjs.org/docs/latest/tutorial/application-debugging)
+[Debugging the Main Process | Electron](https://www.electronjs.org/docs/latest/tutorial/debugging-main-process)
+
+[Devtron](http://electron.atom.io/devtron/) devtool
+[sindresorhus/electron-debug](https://github.com/sindresorhus/electron-debug)
+
+[pd4d10/debugtron: Debug in-production Electron based app](https://github.com/pd4d10/debugtron)
 
 ## Wrapper
 

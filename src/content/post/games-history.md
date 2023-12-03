@@ -2,6 +2,7 @@
 title: Games History
 description: ""
 created: 2019-06-20
+updated: 2023-10-20
 tags:
   - games
   - history
@@ -42,6 +43,7 @@ tags:
 [ThatGuyGlen - YouTube](https://www.youtube.com/@ThatGuyGlen)
 [NG 小熊 - YouTube](https://www.youtube.com/@ng4497)
 [游研社 YYSTV - YouTube](https://www.youtube.com/@YYSTV)
+[遊戲浪人 - YouTube](https://www.youtube.com/@user-uw2hp5en8q)
 
 [Dungeon Generation in Diablo 1 – BorisTheBrave.Com](https://www.boristhebrave.com/2019/07/14/dungeon-generation-in-diablo-1/)
 [Street Fighter 1: An oral history - Polygon](https://www.polygon.com/2020/7/7/21270906/street-fighter-1-oral-history-takashi-nishiyama)
@@ -70,10 +72,28 @@ tags:
 [【科技杂谈 85】任天堂 NDS 掌机发展史第四期——R4,改变世界的烧录卡（NDS 历史） - YouTube](https://www.youtube.com/watch?v=K8IHR4XRTa0)
 [【科技杂谈 86】任天堂 NDS 掌机发展史大结局——后无来者的传奇（NDS 历史） - YouTube](https://www.youtube.com/watch?v=cDB3A_RShDc)
 
+[NesHacker - YouTube](https://www.youtube.com/@NesHacker)
+
 ## Xbox History
 
 [Power On: The Story of Xbox - YouTube](https://www.youtube.com/playlist?list=PL0il2l-B_WwadxfTkK3-NLoYNcQEHdBGO)
 [Microsoft's 3 Biggest Mistakes | Gaming Historian - YouTube](https://www.youtube.com/watch?v=8CapGWzI5Mo)
+
+## Playstation History
+
+[【索尼PS2游戏机发展史】第三期：最糟糕的首发【科技杂谈97】 - YouTube](https://www.youtube.com/watch?v=QAzxCZf4GCI)
+[【索尼PS2游戏机发展史】第四期：一起上我赶时间【科技杂谈98】 - YouTube](https://www.youtube.com/watch?v=2W_qSZ5ZLeU&t)
+[【索尼PS2游戏机发展史】第五期：始乱终弃的PS2国行主机【科技杂谈99】 - YouTube](https://www.youtube.com/watch?v=Tkk7Ed_tGDk)
+[【索尼PS2游戏机发展史】大结局：饥饿的盛世【科技杂谈100】 - YouTube](https://www.youtube.com/watch?v=vYH_xPdoks4)
+
+[卖国者联盟强势出道！索尼史上最大作死！CELL处理器开发历史（上）【科技杂谈37】 - YouTube](https://www.youtube.com/watch?v=r5LLFeejK1E)
+[索尼PS3竟能模拟宇宙？CELL处理器开发历史（下）【科技杂谈38】 - YouTube](https://www.youtube.com/watch?v=C6ji_Z7lR2E)
+[21世纪最贵游戏主机！索尼PS3主机发展历史第一期【科技杂谈54】 - YouTube](https://www.youtube.com/watch?v=-rlEbvPUJdQ)
+[死亡FLAG插满的主机！索尼PS3主机发展历史第二期【科技杂谈57】 - YouTube](https://www.youtube.com/watch?v=dN9v6czDTQw)
+[【科技杂谈59】走向破产的索尼SCE！索尼PS3主机发展历史第三期 - YouTube](https://www.youtube.com/watch?v=7OwSJsu6Kek)
+[【科技杂谈61】破解时代来临！索尼PS3主机发展历史第四期 - YouTube](https://www.youtube.com/watch?v=HceBVZ-tiV0)
+[【科技杂谈63】索尼与黑客的世界大战！索尼PS3主机发展历史第五期 - YouTube](https://www.youtube.com/watch?v=4_PYD_jWe0E)
+[【科技杂谈70】游戏主机会被消灭吗？索尼PS3主机发展历史大结局 - YouTube](https://www.youtube.com/watch?v=dw2e2AHq_a4)
 
 ## Quake III
 

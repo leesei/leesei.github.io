@@ -2,6 +2,7 @@
 title: vim settings
 description: ""
 created: 2014-12-11
+updated: 2023-10-23
 tags:
   - app
   - neobundle
@@ -22,7 +23,7 @@ tags:
 
 [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim)
 
-## Bunldes
+## Bundles
 
 [cohama/agit.vim: A powerful Git log viewer](https://github.com/cohama/agit.vim)
 [Shougo/unite.vim: Unite and create user interfaces](https://github.com/Shougo/unite.vim)

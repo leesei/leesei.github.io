@@ -2,7 +2,7 @@
 title: Redux
 description: Redux = **_Red_**ucer + Fl**_ux_**
 created: 2015-12-04
-updated: 2023-03-21
+updated: 2023-11-22
 tags:
   - flux
   - javascript
@@ -38,6 +38,9 @@ It also removed most of the need for Redux middlewares (`redux-thunk`, `redux-sa
 [How Redux Works: A Counter-Example](https://daveceddia.com/how-does-redux-work/)
 [Understanding Redux: The World’s Easiest Guide to Beginning Redux](https://www.freecodecamp.org/news/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6)
 
+[Practical Redux · Mark's Dev Blog](https://blog.isquaredsoftware.com/series/practical-redux/)
+[Idiomatic Redux · Mark's Dev Blog](https://blog.isquaredsoftware.com/series/idiomatic-redux/)
+
 [Understanding Redux: Beginner's guide to modern state management](https://www.educative.io/blog/understanding-redux)
 [Redux Basics Explained From A Beginner's Perspective - DEV Community 👩‍💻👨‍💻](https://dev.to/dylanmesty/redux-basics-explained-from-a-beginner-s-perspective-abm)
 [Leveling Up with React: Redux | CSS-Tricks](https://css-tricks.com/learning-react-redux/)
@@ -49,6 +52,8 @@ It also removed most of the need for Redux middlewares (`redux-thunk`, `redux-sa
 [Redux: The Under The Hood Tour - DEV Community 👩‍💻👨‍💻](https://dev.to/fawwaz2009/redux-the-under-the-hood-tour-2k87) !important, internals
 
 ## Action and ActionCreator
+
+[Idiomatic Redux: Why use action creators? · Mark's Dev Blog](https://blog.isquaredsoftware.com/2016/10/idiomatic-redux-why-use-action-creators/)
 
 ```js
 // Action
@@ -296,7 +301,10 @@ const ourAwesomeEnhancer =
 
 [[flux-alternatives]]
 
+[Blogged Answers: Why React Context is Not a "State Management" Tool (and Why It Doesn't Replace Redux) · Mark's Dev Blog](https://blog.isquaredsoftware.com/2021/01/context-redux-differences/)
 [Blogged Answers: Redux - Not Dead Yet! · Mark's Dev Blog](https://blog.isquaredsoftware.com/2018/03/redux-not-dead-yet/)
+[When (and when not) to reach for Redux |> Changelog](https://changelog.com/posts/when-and-when-not-to-reach-for-redux)
+
 [You Might Not Need Redux – Medium](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
 [Redux feels bloated, complicated and not easy. What are the alternative? : reactjs](https://www.reddit.com/r/reactjs/comments/3towfy/redux_feels_bloated_complicated_and_not_easy_what/)
 [reactjs - What could be the downsides of using Redux instead of Flux - Stack Overflow](http://stackoverflow.com/questions/32021763/what-could-be-the-downsides-of-using-redux-instead-of-flux/32916602#32916602)
@@ -318,6 +326,8 @@ const ourAwesomeEnhancer =
 [Redux Toolkit](https://redux-toolkit.js.org/)
 [RTK Query Overview | Redux Toolkit](https://redux-toolkit.js.org/rtk-query/overview)
 [reduxjs/redux-toolkit: The official, opinionated, batteries-included toolset for efficient Redux development](https://github.com/reduxjs/redux-toolkit)
+
+[Presentations: Modern Redux with Redux Toolkit · Mark's Dev Blog](https://blog.isquaredsoftware.com/2022/06/presentations-modern-redux-rtk/)
 [Redux Toolkit - The Standard Way to Write Redux - DEV Community](https://dev.to/nilanth/redux-toolkit-the-standard-way-to-write-redux-2g32)
 [Redux toolkit crash course. Everything you need to know. #reactjs #redux - YouTube](https://www.youtube.com/watch?v=rSa8sUC8m_4)
 [Redux Toolkit Tutorial – JavaScript State Management Library - YouTube](https://www.youtube.com/watch?v=bbkBuqC1rU4)

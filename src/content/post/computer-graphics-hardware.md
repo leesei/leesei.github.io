@@ -2,7 +2,7 @@
 title: Computer Graphics (Hardware)
 description: Computer Graphics on the hardware side
 created: 2016-10-18
-updated: 2023-08-08
+updated: 2023-11-22
 tags:
   - comp/hardware
   - graphics/hardware
@@ -57,6 +57,9 @@ Asianometry
 ## Rendering/Compositor
 
 [Immediate mode (computer graphics) - Wikiwand](<https://www.wikiwand.com/en/Immediate_mode_(computer_graphics)>)
+[Immediate mode GUI - Wikiwand](https://www.wikiwand.com/en/Immediate_mode_GUI) 🤔incorrect?
+[About the IMGUI paradigm · ocornut/imgui Wiki](https://github.com/ocornut/imgui/wiki/About-the-IMGUI-paradigm) ❗!important
+[Immediate Mode Model/View/Controller](http://www.johno.se/book/imgui.html)
 [Retained mode - Wikiwand](https://www.wikiwand.com/en/Retained_mode)
 
 [linebender/2d.graphics: Repo for an ideational book on 2D graphics, plus tools to make images](https://github.com/linebender/2d.graphics)
@@ -65,6 +68,8 @@ Asianometry
 [The compositor is evil | Raph Levien’s blog](https://raphlinus.github.io/ui/graphics/2020/09/13/compositor-is-evil.html)
 [Swapchains and frame pacing | Raph Levien’s blog](https://raphlinus.github.io/ui/graphics/gpu/2021/10/22/swapchain-frame-pacing.html)
 [How to think about the compositor in 2022 · Issue #77 · raphlinus/raphlinus.github.io](https://github.com/raphlinus/raphlinus.github.io/issues/77)
+
+[Intel's Major Overhaul for CPU & GPU Benchmarking | "GPU Busy" & Pipeline Technical Discussion - YouTube](https://www.youtube.com/watch?v=5hAy5V91Hr4)
 
 ## Font Rendering
 
@@ -96,6 +101,15 @@ DSR Dynamic Super Resolution
 [NVIDIA Killed Their Own Premium Products - Can we tell if DLSS 2.0 is on? - YouTube](https://www.youtube.com/watch?v=_s9EFWjM6bg)
 [Did Nvidia Just Do Us A Favor? - DLDSR Explained - YouTube](https://www.youtube.com/watch?v=BgL8G1XjrMk)
 [免费的性能增强是怎么来的？DLSS/NIS/FSR 技术解析 - YouTube](https://www.youtube.com/watch?v=QN3SAxTSt94)
+
+[Yes, DLSS 3 works on 20 and 30 series GPUs. But what does that even mean? - YouTube](https://www.youtube.com/watch?v=v9EXsBaO06Y) DLSS brand consists of 3 technologies:
+
+- DL Super-resolution and AA (debuted DLSS 1.0, improved in 2.0)
+- DL Frame generation (debuted DLSS 3.0)
+- Ray Reconstruction (debuted DLSS 3.5)
+
+[Cyberpunk 2.0 Ray Reconstruction Comparison, DLSS 3.5, & Benchmarks - YouTube](https://www.youtube.com/watch?v=zZVv6WoUl4Y)
+[Cyberpunk 2.0 Ray Reconstruction Comparison, DLSS 3.5, & Benchmarks - YouTube](https://www.youtube.com/watch?v=zZVv6WoUl4Y)
 
 [GDC 2023: Introducing the FidelityFX SDK with new technologies, an early look at FSR 3 + more! - AMD GPUOpen](https://gpuopen.com/gdc-2023-fidelityfx-sdk-fsr3/)
 [AMD FidelityFX Super Resolution, FSR 測試 / 效能提升 畫質稍減 邊緣重建 | XFastest News](https://news.xfastest.com/amd/96855/amd-fidelityfx-super-resolution-fsr/)

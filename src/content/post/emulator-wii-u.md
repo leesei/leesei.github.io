@@ -2,7 +2,7 @@
 title: Wii U Emulator
 description: ""
 created: 2023-06-12
-updated: 2023-06-30
+updated: 2023-11-06
 tags:
   - emulator
   - games
@@ -19,6 +19,9 @@ tags:
 [Cemu Full Setup Guide Easy to Follow - YouTube](https://www.youtube.com/watch?v=j82yK6z8Oj4) 2023-02
 [(March 2023) How to setup CEMU Full Guide | Best Settings for Breath of the Wild - YouTube](https://www.youtube.com/watch?v=XDd36P3jQ1I) 2022-11
 [Complete Cemu 2.0 Windows Setup Guide | Play Wii U Games On Windows - YouTube](https://www.youtube.com/watch?v=j0s-q5TghjU) 2022-10
+
+[Optimizing Cemu | Cemu Guide](https://cemu.cfw.guide/optimizing-cemu.html)
+[Unofficial Cemu shader and pipeline collection](https://chriztr.github.io/cemu_shader_and_pipeline_caches/)
 
 [Complete Shader Cache Collection 1.8.0 v2 - Google Sheets](https://docs.google.com/spreadsheets/d/1S05wt1T4AkZu3qrtU2iE76unfB4Xb5Y8CHnz2f3PoYA/edit#gid=0)
 [Complete Shader Cache Collection : CEMUcaches](https://www.reddit.com/r/CEMUcaches/comments/622702/complete_shader_cache_collection/?st=j5oyaai0&sh=c911de11)

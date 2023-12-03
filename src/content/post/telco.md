@@ -2,6 +2,7 @@
 title: Telecommunication
 description: ""
 created: 2019-06-13
+updated: 2023-09-29
 tags:
   - 4g
   - 5g

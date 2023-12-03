@@ -2,6 +2,7 @@
 title: Backus–Naur Form (BNF)
 description: ""
 created: 2015-04-13
+updated: 2023-09-29
 tags:
   - bnf
   - comp/lang

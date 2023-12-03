@@ -2,7 +2,7 @@
 title: UML
 description: ""
 created: 2015-04-14
-updated: 2023-08-09
+updated: 2023-11-01
 tags:
   - comp/lang
   - uml
@@ -174,9 +174,16 @@ PlantUML's [service](http://plantuml.com/server) mode, see[jQuery](http://plantu
 
 [Online Diagram Software & Visual Solution | Lucidchart](https://www.lucidchart.com/pages/)
 [Online Collaborative Whiteboard | Sketchboard](https://sketchboard.io/)
-[diagrams.net](https://app.diagrams.net/) Formerly draw.io
 [HackerDraw | Diagramming Made Easy](https://www.hackerdraw.com/)
 [Terrastruct | A diagramming tool crafted to visualize software architecture](https://terrastruct.com/)
+
+## draw.io
+
+[diagrams.net](https://app.diagrams.net/) Formerly draw.io
+
+[Blog - Generate diagrams from code](https://www.drawio.com/blog/diagrams-from-code)
+
+[Solved: Is there a way to convert a plantUML diagram to a ...](https://community.atlassian.com/t5/Confluence-questions/Is-there-a-way-to-convert-a-plantUML-diagram-to-a-draw-io/qaq-p/1284640)
 
 ## Gaphor
 

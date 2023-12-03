@@ -2,7 +2,7 @@
 title: Religion
 description: ""
 created: 2015-04-13
-updated: 2023-08-05
+updated: 2023-10-09
 tags:
   - creationism
   - philosophy
@@ -14,6 +14,7 @@ tags:
 [Religious History - YouTube](https://www.youtube.com/playlist?list=PLxZAPogJjW_insZ-fc9NJmZdiGgqbDfjz)
 
 [用 34 分钟，解决困扰我多年的问题：基督，犹太，伊斯兰教的关系 - YouTube](https://www.youtube.com/watch?v=ncXCHdTFBEs)
+[一口气看完世界主流宗教文化 | 佛、道、犹太、基督、伊斯兰 - YouTube](https://www.youtube.com/watch?v=VPwFhB7hEYk)
 [你知道你生活在一個 虛擬世界中嗎？人越老，對世界的理解越困惑，怎麽辦？ - YouTube](https://www.youtube.com/watch?v=RZ3xY62xWDo)
 
 [Lawrence Krauss vs Christians on Q&A - Amazing Debate - YouTube](https://www.youtube.com/watch?v=iaHxBFwod9Q)
@@ -59,6 +60,11 @@ tags:
 [香港拜火教與巴斯人士! 對香港早期社會有極大貢獻 (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=cupDD3VKz_U)
 [世界最老的宗教之一--瑣羅亞斯德教(拜火教)的發源地--波斯 @ 哈姆斯特的旅遊部落格 :: 隨意窩 Xuite 日誌](<http://blog.xuite.net/hamster0708/twblog/137605759-世界最老的宗教之一--瑣羅亞斯德教(拜火教)的發源地--波斯>)
 [阿努納奇和波斯拜火教有關嗎？波斯拜火教和中華文明有關嗎？ |自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=F92i6kAeifE)
+
+## 道教
+
+[神寫的書，來自中國，讀懂它的兩個歐洲人，都被現代科學「封神」|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=405qU49shTk)
+[1200 年前，一個唐朝人，總結了自《山海經》以來，各種修仙法門，他在夢中悟道，修煉成仙，而我們卻一直以爲他是一個不存在的人物……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=xnu4U4IsvCc)
 
 ## Jewism
 

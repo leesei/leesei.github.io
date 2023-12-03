@@ -2,6 +2,7 @@
 title: Witcher
 description: ""
 created: 2023-08-13
+updated: 2023-11-26
 tags:
   - games
   - witcher
@@ -11,6 +12,8 @@ tags:
 [Witcher Wiki | Fandom](https://witcher.fandom.com/wiki/Witcher_Wiki)
 [A Beginner's Guide to The Witcher](https://winteriscoming.net/2019/12/19/a-beginners-guide-to-the-witcher/amp/)
 [A No Bullshit Conversation With The Authors Behind The Witcher and Metro 2033 - VICE](https://www.vice.com/en_us/article/wn938w/a-no-bullshit-conversation-with-the-authors-behind-the-witcher-and-metro-2033)
+
+[巫師國家地理 - YouTube](https://www.youtube.com/playlist?list=PLBxed0O8BXCdEF4pD1ptDNrL5NpaLPLpT) 艾尔登法环编年史
 
 ## Story
 
@@ -33,8 +36,11 @@ Leya 蕾雅
 [「巫師三部曲」專題 (上) 白狼再起 - 從小說到遊戲 The Witcher 2007 - YouTube](https://www.youtube.com/watch?v=Y7aLCWu_sT8)
 [「巫師三部曲」專題 (中) 國王刺客 - 蝴蝶效應般的敘事體驗 The Witcher 2 2011 - YouTube](https://www.youtube.com/watch?v=NWJ9U8ULDZA)
 [「巫師三部曲」專題 (下) 狂獵 - 改變了 RPG 標準的史詩 The Witcher 3 Wild Hunt 2015 - YouTube](https://www.youtube.com/watch?v=0FtNxLxBaCY)
-[細思極恐,後勁過大!「獵魔人/巫師 3」專題 - 論支線故事的正確寫法 Witcher 3 獵魔士 - YouTube](https://www.youtube.com/watch?v=d5HuTcuCjVI&t=21s)
+[「巫師」專題特別篇: 石之心 - 深入骨髓的暗黑寓言 The Witcher 3 Hearts of Stone 2015 - YouTube](https://www.youtube.com/watch?v=_F6R-lq5BxI)
+[「巫師」專題特別篇: 血與酒 - 如夢似幻! 史上最大資料片 The Witcher 3 Blood and Wine 2016 - YouTube](https://www.youtube.com/watch?v=cQKmu6lvkQs)
+[細思極恐,後勁過大!「獵魔人/巫師 3」專題 - 論支線故事的正確寫法 Witcher 3 獵魔士 - YouTube](https://www.youtube.com/watch?v=d5HuTcuCjVI)
 [腦洞清奇,笑死人了!「獵魔人/巫師 3」專題 - 論支線故事的正確寫法(2) Witcher 3 血與酒資料片 獵魔士 4K 畫質 - YouTube](https://www.youtube.com/watch?v=W6wezsazNks)
+[你錯過了幾個任務? 次世代版「巫師3/獵魔人」支線專題 (3) 4K60畫質 Witcher 3 Next Gen Update - YouTube](https://www.youtube.com/watch?v=tofo5iYRo9Q)
 
 ## Witcher 1
 

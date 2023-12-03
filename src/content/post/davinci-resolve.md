@@ -2,43 +2,45 @@
 title: DaVinci Resolve
 description: ""
 created: 2020-03-08
+updated: 2023-11-12
 tags:
   - multimedia
   - video-editing
 ---
 
-[DaVinci Resolve 16 | Blackmagic Design](https://www.blackmagicdesign.com/hk/products/davinciresolve/)
+[DaVinci Resolve 18 | Blackmagic Design](https://www.blackmagicdesign.com/hk/products/davinciresolve/)
 [Blackmagic Forum • View topic - DaVinci Resolve on Linux - Install issues](https://forum.blackmagicdesign.com/viewtopic.php?f=21&t=56878)
 
-[DaVinci Resolve 16 – Training | Blackmagic Design](https://www.blackmagicdesign.com/hk/products/davinciresolve/training)
-[Blackmagic Design - YouTube](https://www.youtube.com/channel/UCufB8sMVyP9JEScMjLz74YA)
+[DaVinci Resolve Newbies Guide - EASY! Pro Explains - YouTube](https://www.youtube.com/watch?v=g52gP_bR65E)
+[DaVinci Resolve 18 – Training | Blackmagic Design](https://www.blackmagicdesign.com/hk/products/davinciresolve/training) books
+[Blackmagic Design - YouTube](https://www.youtube.com/@BlackmagicDesignOfficial)
 [What's New in DaVinci Resolve 16 - YouTube](https://www.youtube.com/watch?v=8fmvUsBPJn8)
 [DaVinci Resolve 16 剪辑入门 - YouTube](https://www.youtube.com/watch?v=LhfdEIkbEX0)
 [DaVinci Resolve 16 - 调色的艺术 - YouTube](https://www.youtube.com/watch?v=XW3Ee9OQVlc)
 [DaVinci Resolve 16 - Fairlight 音频制作第一部分 - YouTube](https://www.youtube.com/watch?v=x1onLU60CCQ)
 [DaVinci Resolve 16 - Fairlight 音频制作第二部分 - YouTube](https://www.youtube.com/watch?v=4g9pRY5j4yU)
 [免費 Davinci Resolve 16 速成基礎剪片教學：簡單易學！基礎剪接、標題、字幕、畫中畫、快播、慢鏡、配樂（廣東話） - YouTube](https://www.youtube.com/watch?v=W8sVdIcGPO0)
-
-[达芬奇教程 - YouTube](https://www.youtube.com/playlist?list=PL3mA-QfDmoEA75BpudvtwFafLIH1F78IV) Mediastorm 影视飓风
-
 [Introducing DaVinci Resolve 17 - YouTube](https://www.youtube.com/watch?v=A2YJo96KQHw)
 [Here Are Our Favorite DaVinci Resolve 17 Features](https://nofilmschool.com/here-are-our-favorite-davinci-resolve-17-features)
+
+[RESOLVE 18 CRASH COURSE - Davinci Resolve 18 Walkthrough [BEGINNER] - YouTube](https://www.youtube.com/watch?v=h9MrEaELl2M) 1:42:30
 
 [DaVinci Resolve 16 Editing Workflow for Beginners - YouTube](https://www.youtube.com/watch?v=3_TtjyJWVZ8)
 [Resolve 16: The Ultimate Crash Course - DaVinci Resolve Basic Training - Casey Faris - YouTube](https://www.youtube.com/watch?v=gCyczNNk0J8)
 [Davinci Resolve 16: Crash Course for Beginners | Basics Tutorial - YouTube](https://www.youtube.com/watch?v=u-GzbvmTMn8)
 [DA VINCI RESOLVE 16 - FULL BEGINNER'S TUTORIAL | GETTING STARTED - YouTube](https://www.youtube.com/watch?v=plmKRLiiBmk)
 [DaVinci Resolve - COMPLETE Tutorial for Beginners! - YouTube](https://www.youtube.com/watch?v=63Ln33O4p4c)
+[Davinci Resolve Editing Basics - YouTube](https://www.youtube.com/playlist?list=PLpPad33SI7vIt4TENv-tEQgpsIP16-Ij1) Jay Lippman
+[达芬奇教程 - YouTube](https://www.youtube.com/playlist?list=PL3mA-QfDmoEA75BpudvtwFafLIH1F78IV) Mediastorm 影视飓风
 
-[Jamie Fenn - YouTube](https://www.youtube.com/channel/UCm-S7cenOOFKvcTUwD2xrVw)
-[Casey Faris - YouTube](https://www.youtube.com/channel/UCdfDjoLF5L6lLuDCkJw0P3g)
-[Jay Lippman - YouTube](https://www.youtube.com/channel/UCarj5Fzq5drmiRiUwxPm8Uw)
-[Davinci Resolve Editing Basics - YouTube](https://www.youtube.com/playlist?list=PLpPad33SI7vIt4TENv-tEQgpsIP16-Ij1)
-[JayAreTV - YouTube](https://www.youtube.com/channel/UCn5GD-PNXWyonXQO8rH3vPw)
+[Jamie Fenn - YouTube](https://www.youtube.com/@JamieFenn)
+[Casey Faris - YouTube](https://www.youtube.com/@CaseyFaris)
+[Jay Lippman - YouTube](https://www.youtube.com/@JayLippman)
+[JayAreTV - YouTube](https://www.youtube.com/@JayAreTV)
 
-[DaVinci Resolve 16 Crash Course | Film Simplified](https://filmsimplified.com/p/davinci-resolve-crash-course)
-[Learn Color Grading - YouTube](https://www.youtube.com/channel/UCzUyasGg5A03r3zPkorqIBQ)
+[Learn Color Grading - YouTube](https://www.youtube.com/@LearnColorGrading)
 [Learn Color Grading: Free Color Grading & Resolve Tutorials](https://www.learncolorgrading.com/)
+[DaVinci Resolve 16 Crash Course | Film Simplified](https://filmsimplified.com/p/davinci-resolve-crash-course)
 
 [Frame.io | Video Review and Collaboration Software](https://frame.io/pricing) with integration in DR16
 

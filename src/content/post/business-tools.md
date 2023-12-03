@@ -2,6 +2,7 @@
 title: Business Tools
 description: ""
 created: 2018-10-27
+updated: 2023-09-29
 tags:
   - business
 ---
@@ -335,24 +336,6 @@ Better for creating new file
 [PDFTron - PDF SDK with 100's of Features, Fast Setup](https://www.pdftron.com/) viewer
 
 [FlowPaper - Responsive online PDF viewer for your website](https://flowpaper.com/) viewer with fancy effects
-
-#### WeasyPrint
-
-[Home Page - WeasyPrint](https://weasyprint.org/) HTML to PDF in Python
-[WeasyPrint — WeasyPrint documentation](https://weasyprint.readthedocs.io/en/latest/index.html)
-[Samples - WeasyPrint](https://weasyprint.org/samples/) [source](https://github.com/Kozea/WeasyPrint/tree/gh-pages/samples)
-[WeasyPrint recipe](https://jsreport.net/blog/weasyprint-recipe)
-[Creating PDF Reports with Pandas, Jinja and WeasyPrint - Practical Business Python](https://pbpython.com/pdf-reports.html)
-[Python PDF Generation from HTML with WeasyPrint - DEV Community](https://dev.to/bowmanjd/python-pdf-generation-from-html-with-weasyprint-538h)
-[WeasyPrint Performance Report](https://kozea.github.io/WeasyPerf/index.html)
-If `<body>` is present in input, there will only be one page in output PDF.
-
-#### wkhtmltopdf
-
-[wkhtmltopdf](https://wkhtmltopdf.org/)
-[wkhtmltopdf/wkhtmltopdf: Convert HTML to PDF using Webkit (QtWebKit)](https://github.com/wkhtmltopdf/wkhtmltopdf)
-
-[rockdaboot/invoice-html5-to-pdf: Batch HTML5 to PDF invoice generation on the command line](https://github.com/rockdaboot/invoice-html5-to-pdf)
 
 #### ReportLab
 

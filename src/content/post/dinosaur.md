@@ -2,6 +2,7 @@
 title: Dinosaur
 description: ""
 created: 2020-06-01
+updated: 2023-09-29
 tags:
   - dinosaur
   - science
@@ -65,25 +66,25 @@ But skeletal pneumaticity seems to indicate that Theropoda and Sauropoda are mor
 
 [鳥臀目 - Wikiwand](https://www.wikiwand.com/zh/%E9%B3%A5%E8%87%80%E7%9B%AE)
 [Ornithischia - Wikiwand](https://www.wikiwand.com/en/Ornithischia) not skeletal pneumatic (hollow bones)
+mostly (or all?) herbivores
 
 [蜥臀目 - Wikiwand](https://www.wikiwand.com/zh/%E8%9C%A5%E8%87%80%E7%9B%AE)
-[Saurischia - Wikiwand](https://www.wikiwand.com/en/Saurischia)
+[Saurischia - Wikiwand](https://www.wikiwand.com/en/Saurischia) skeletal pneumatic (hollow bones)
+Theropoda and Sauropoda
 
 [蜥腳下目 - Wikiwand](https://www.wikiwand.com/zh-hant/%E8%9C%A5%E8%85%B3%E4%B8%8B%E7%9B%AE)
 [Sauropoda - Wikiwand](https://www.wikiwand.com/en/Sauropoda)
-skeletal pneumatic
+large herbivores
 
 [獸腳亞目 - Wikiwand](https://www.wikiwand.com/zh/%E7%8D%B8%E8%85%B3%E4%BA%9E%E7%9B%AE)
 [Theropoda - Wikiwand](https://www.wikiwand.com/en/Theropoda)
 skeletal pneumatic and three-toed fore limbs
 bipedal carnivores
+from where modern birds (Avian Class) evolved
 
-[艾雷拉龍科 - Wikiwand](https://www.wikiwand.com/zh/%E8%89%BE%E9%9B%B7%E6%8B%89%E9%BE%99%E7%A7%91)
-[Herrerasauridae - Wikiwand](https://www.wikiwand.com/en/Herrerasauridae)
+---
 
-[翼龍目 - Wikiwand](https://www.wikiwand.com/zh/%E7%BF%BC%E9%BE%8D%E7%9B%AE)
-[Pterosaur - Wikiwand](https://www.wikiwand.com/en/Pterosaur) not actually dinosaurs
-[How Did Giant Pterosaurs Fly? - YouTube](https://www.youtube.com/watch?v=-b4kAycprQg)
+> The following section are usually on Family
 
 ## Carnivores
 
@@ -183,11 +184,7 @@ Small carnivores, herbivores and omnivores that walked on two legs and often had
 [角鼻龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E8%A7%92%E9%BC%BB%E9%BE%8D%E5%B1%AC)
 [Ceratosaurus - Wikiwand](https://www.wikiwand.com/en/Ceratosaurus)
 
-### Swimming Reptiles
-
-[Swimming Dinosaurs - Facts for Kids](https://www.kids-dinosaurs.com/swimming-dinosaurs.html)
-
-#### 棘龍科 Spinosauridae
+### 棘龍科 Spinosauridae
 
 [棘龍科 - Wikiwand](https://www.wikiwand.com/zh/%E6%A3%98%E9%BE%8D%E7%A7%91)
 [Spinosauridae - Wikiwand](https://www.wikiwand.com/en/Spinosauridae) semi-aquatic or aquatic
@@ -199,70 +196,10 @@ Small carnivores, herbivores and omnivores that walked on two legs and often had
 [SPINOSAURUS 2020 - It Just Got Weirder - YouTube](https://www.youtube.com/watch?v=De1VJ1UpjhM)
 [Revisiting Spinosaurus - YouTube](https://www.youtube.com/watch?v=cIi52EK2njw)
 
-#### 蛇頸龍目 Plesiosauria
+### 艾雷拉龍科 Herrerasauridae
 
-> actually not dinosaurs
-
-[蛇頸龍目 - Wikiwand](https://www.wikiwand.com/zh/%E8%9B%87%E9%A0%B8%E9%BE%8D%E7%9B%AE)
-[Plesiosauria - Wikiwand](https://www.wikiwand.com/en/Plesiosauria)
-
-[蛇頸龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E8%9B%87%E9%A0%B8%E9%BE%8D%E5%B1%AC)
-[Plesiosaurus - Wikiwand](https://www.wikiwand.com/en/Plesiosaurus)
-
-[薄板龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E8%96%84%E6%9D%BF%E9%BE%8D%E5%B1%AC)
-[Elasmosaurus - Wikiwand](https://www.wikiwand.com/en/Elasmosaurus)
-
-[上龍亞目 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%8A%E9%BE%8D%E7%A7%91)
-[上龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%8A%E9%BE%8D%E5%B1%AC) Predator X
-[Pliosaurus - Wikiwand](https://www.wikiwand.com/en/Pliosaurus)
-[Paleontologists Reveal the Identity of ‘Predator X’](https://www.nationalgeographic.com/science/article/paleontologists-reveal-identity-of-predator-x)
-
-[Plesiosaurs 101 | National Geographic - YouTube](https://www.youtube.com/watch?v=mkw593Qa19U)
-
-#### 滄龍超科 Mosasauroidea
-
-> actually not dinosaurs
-
-[滄龍超科 - Wikiwand](https://www.wikiwand.com/zh/%E6%BB%84%E9%BE%8D%E8%B6%85%E7%A7%91)
-
-[滄龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E6%BB%84%E9%BE%8D%E5%B1%AC)
-[Mosasaurus - Wikiwand](https://www.wikiwand.com/en/Mosasaurus) the one that ate the hybrid hybrid Indominus rex in Jurassic World
-
-[海王龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E6%B5%B7%E7%8E%8B%E9%BE%8D%E5%B1%AC)
-[Tylosaurus - Wikiwand](https://www.wikiwand.com/en/Tylosaurus)
-
-[海諾龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E6%B5%B7%E8%AB%BE%E9%BE%8D%E5%B1%AC)
-[Hainosaurus - Wikiwand](https://www.wikiwand.com/en/Hainosaurus)
-
-### Flying Reptiles
-
-[Flying Dinosaurs Names | Pterodactyl, Quetzalcoatlus, & Dimorphodon](https://www.bioexplorer.net/flying-dinosaurs.html/)
-[Flying Dinosaur Types – What Were They? (Names, Wingspan) – Adventure Dinosaurs](https://adventuredinosaurs.com/2020/08/11/flying-dinosaur-types-what-were-they/)
-[Flying Dinosaurs? Facts for Kids](https://www.kids-dinosaurs.com/flying-dinosaurs.html)
-[Pterodactyl, Pteranodon & Other Flying 'Dinosaurs' | Live Science](https://www.livescience.com/amp/24071-pterodactyl-pteranodon-flying-dinosaurs.html)
-
-#### 翼龍目 Pterosaur
-
-> actually not dinosaurs
-
-[翼龍目 - Wikiwand](https://www.wikiwand.com/zh/%E7%BF%BC%E9%BE%8D%E7%9B%AE)
-[Pterosaur - Wikiwand](https://www.wikiwand.com/en/Pterosaur)
-[Pterosaurs 101 | National Geographic - YouTube](https://www.youtube.com/watch?v=mfYuvlE78Nk)
-
-[翼手龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E7%BF%BC%E6%89%8B%E9%BE%8D%E5%B1%AC)
-[Pterodactylus - Wikiwand](https://www.wikiwand.com/en/Pterodactylus)
-
-[無齒翼龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E7%84%A1%E9%BD%92%E7%BF%BC%E9%BE%8D%E5%B1%AC)
-[Pteranodon - Wikiwand](https://www.wikiwand.com/en/Pteranodon)
-[無齒翼龍：誰說我是無恥之徒！在命名上翼龍重來就沒有輸過丨翼龍類丨恐龍時代 - YouTube](https://www.youtube.com/watch?v=q-F5ZViqVwg)
-
-[風神翼龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E9%A2%A8%E7%A5%9E%E7%BF%BC%E9%BE%8D%E5%B1%AC)
-[Quetzalcoatlus - Wikiwand](https://www.wikiwand.com/en/Quetzalcoatlus)
-[風神翼龍：史上最大飛行生物，翼展堪比小型飛機，這樣的還有 4 個？丨翼龍類丨恐龍時代 - YouTube](https://www.youtube.com/watch?v=sr_P0RPXF6Q)
-
-[悟空翼龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E6%82%9F%E7%A9%BA%E7%BF%BC%E9%BE%8D%E5%B1%AC)
-[Wukongopterus - Wikiwand](https://www.wikiwand.com/en/Wukongopterus)
-[悟空翼龍，鬥戰翼龍，鯤鵬翼龍，干將莫邪，這些都是翼龍名字？翼龍家族的神奇命名遠遠沒有結束：非翼手龍類丨翼龍篇 03 丨恐龍時代 - YouTube](https://www.youtube.com/watch?v=bNY2OTdveaY)
+[艾雷拉龍科 - Wikiwand](https://www.wikiwand.com/zh/%E8%89%BE%E9%9B%B7%E6%8B%89%E9%BE%99%E7%A7%91)
+[Herrerasauridae - Wikiwand](https://www.wikiwand.com/en/Herrerasauridae)
 
 ## Herbivores
 
@@ -452,3 +389,83 @@ fairly slender
 [鯨龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E9%AF%A8%E9%BE%8D%E5%B1%AC)
 [Cetiosaurus - Wikiwand](https://www.wikiwand.com/en/Cetiosaurus)
 [Cetiosaurus Fact Sheet - EnchantedLearning.com](https://www.enchantedlearning.com/subjects/dinosaurs/facts/Cetiosaurus/)
+
+---
+
+## Swimming Reptiles
+
+> actually not dinosaurs
+
+[Swimming Dinosaurs - Facts for Kids](https://www.kids-dinosaurs.com/swimming-dinosaurs.html)
+
+### 魚龍目 Ichthyosauria
+
+[魚龍目 - Wikiwand](https://www.wikiwand.com/zh-hant/%E9%B1%BC%E9%BE%99%E7%9B%AE)
+[Ichthyosaur - Wikiwand](https://www.wikiwand.com/en/Ichthyosaur)
+
+### 蛇頸龍目 Plesiosauria
+
+[蛇頸龍目 - Wikiwand](https://www.wikiwand.com/zh/%E8%9B%87%E9%A0%B8%E9%BE%8D%E7%9B%AE)
+[Plesiosauria - Wikiwand](https://www.wikiwand.com/en/Plesiosauria)
+
+[蛇頸龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E8%9B%87%E9%A0%B8%E9%BE%8D%E5%B1%AC)
+[Plesiosaurus - Wikiwand](https://www.wikiwand.com/en/Plesiosaurus)
+
+[薄板龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E8%96%84%E6%9D%BF%E9%BE%8D%E5%B1%AC)
+[Elasmosaurus - Wikiwand](https://www.wikiwand.com/en/Elasmosaurus)
+
+[上龍亞目 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%8A%E9%BE%8D%E7%A7%91)
+[上龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%8A%E9%BE%8D%E5%B1%AC) Predator X
+[Pliosaurus - Wikiwand](https://www.wikiwand.com/en/Pliosaurus)
+[Paleontologists Reveal the Identity of ‘Predator X’](https://www.nationalgeographic.com/science/article/paleontologists-reveal-identity-of-predator-x)
+
+[Plesiosaurs 101 | National Geographic - YouTube](https://www.youtube.com/watch?v=mkw593Qa19U)
+
+### 滄龍超科/滄龍類 Mosasauroidea
+
+> actually not dinosaurs
+
+[滄龍超科 - Wikiwand](https://www.wikiwand.com/zh/%E6%BB%84%E9%BE%8D%E8%B6%85%E7%A7%91)
+
+[滄龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E6%BB%84%E9%BE%8D%E5%B1%AC)
+[Mosasaurus - Wikiwand](https://www.wikiwand.com/en/Mosasaurus) the one that ate the hybrid hybrid Indominus rex in Jurassic World
+
+[海王龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E6%B5%B7%E7%8E%8B%E9%BE%8D%E5%B1%AC)
+[Tylosaurus - Wikiwand](https://www.wikiwand.com/en/Tylosaurus)
+
+[海諾龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E6%B5%B7%E8%AB%BE%E9%BE%8D%E5%B1%AC)
+[Hainosaurus - Wikiwand](https://www.wikiwand.com/en/Hainosaurus)
+
+---
+
+## Flying Reptiles
+
+> actually not dinosaurs
+
+[Flying Dinosaurs Names | Pterodactyl, Quetzalcoatlus, & Dimorphodon](https://www.bioexplorer.net/flying-dinosaurs.html/)
+[Flying Dinosaur Types – What Were They? (Names, Wingspan) – Adventure Dinosaurs](https://adventuredinosaurs.com/2020/08/11/flying-dinosaur-types-what-were-they/)
+[Flying Dinosaurs? Facts for Kids](https://www.kids-dinosaurs.com/flying-dinosaurs.html)
+[Pterodactyl, Pteranodon & Other Flying 'Dinosaurs' | Live Science](https://www.livescience.com/amp/24071-pterodactyl-pteranodon-flying-dinosaurs.html)
+
+### 翼龍目 Pterosaur
+
+[翼龍目 - Wikiwand](https://www.wikiwand.com/zh/%E7%BF%BC%E9%BE%8D%E7%9B%AE)
+[Pterosaur - Wikiwand](https://www.wikiwand.com/en/Pterosaur)
+
+[How Did Giant Pterosaurs Fly? - YouTube](https://www.youtube.com/watch?v=-b4kAycprQg)
+[Pterosaurs 101 | National Geographic - YouTube](https://www.youtube.com/watch?v=mfYuvlE78Nk)
+
+[翼手龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E7%BF%BC%E6%89%8B%E9%BE%8D%E5%B1%AC)
+[Pterodactylus - Wikiwand](https://www.wikiwand.com/en/Pterodactylus)
+
+[無齒翼龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E7%84%A1%E9%BD%92%E7%BF%BC%E9%BE%8D%E5%B1%AC)
+[Pteranodon - Wikiwand](https://www.wikiwand.com/en/Pteranodon)
+[無齒翼龍：誰說我是無恥之徒！在命名上翼龍重來就沒有輸過丨翼龍類丨恐龍時代 - YouTube](https://www.youtube.com/watch?v=q-F5ZViqVwg)
+
+[風神翼龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E9%A2%A8%E7%A5%9E%E7%BF%BC%E9%BE%8D%E5%B1%AC)
+[Quetzalcoatlus - Wikiwand](https://www.wikiwand.com/en/Quetzalcoatlus)
+[風神翼龍：史上最大飛行生物，翼展堪比小型飛機，這樣的還有 4 個？丨翼龍類丨恐龍時代 - YouTube](https://www.youtube.com/watch?v=sr_P0RPXF6Q)
+
+[悟空翼龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E6%82%9F%E7%A9%BA%E7%BF%BC%E9%BE%8D%E5%B1%AC)
+[Wukongopterus - Wikiwand](https://www.wikiwand.com/en/Wukongopterus)
+[悟空翼龍，鬥戰翼龍，鯤鵬翼龍，干將莫邪，這些都是翼龍名字？翼龍家族的神奇命名遠遠沒有結束：非翼手龍類丨翼龍篇 03 丨恐龍時代 - YouTube](https://www.youtube.com/watch?v=bNY2OTdveaY)

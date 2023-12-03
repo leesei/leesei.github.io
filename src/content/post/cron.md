@@ -2,7 +2,7 @@
 title: Cron
 description: ""
 created: 2015-01-14
-updated: 2023-07-22
+updated: 2023-09-29
 tags:
   - anacron
   - app

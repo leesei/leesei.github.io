@@ -2,7 +2,7 @@
 title: Flutter
 description: ""
 created: 2015-04-03
-updated: 2023-07-27
+updated: 2023-11-02
 tags:
   - app
   - comp/lang
@@ -50,10 +50,12 @@ Flutter is a native runtime written in C++, Skia and OpenGL. With Dart binging t
 [Flutter with Eric Seidel - Software Engineering Daily](https://softwareengineeringdaily.com/2018/07/09/flutter-with-eric-seidel/)
 [Flutter in Practice with Randal Schwartz - Software Engineering Daily](https://softwareengineeringdaily.com/2018/07/11/flutter-in-practice-with-randal-schwartz/)
 
-## Commentary
+## Commentaries
 
 [CINNAMON | Why Choose Flutter Over Other Frameworks?](https://cinnamon.agency/blog/post/why_flutter)
 [Fuchsia Friday: How Flutter is paving the way for Fuchsia (and our first Fuchsia app!) | 9to5Google](https://9to5google.com/2018/03/02/fuchsia-friday-first-fuchsia-app/)
+
+[My Final Flutter Video - YouTube](https://www.youtube.com/watch?v=tTGWfXPKxf4) Flutter is between native widget and game engine
 
 [Goodbye Electron, Hello Flutter. Native cross-platform application… | by Shalitha Suranga | The Startup | Feb, 2021 | Medium](https://medium.com/swlh/goodbye-electron-welcome-flutter-22b3dc10d2f3)
 [Flutter: Just another mobile UI framework?](https://blog.scottlogic.com/2021/02/01/Flutter-just-another-ui-framework.html)

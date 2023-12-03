@@ -2,7 +2,7 @@
 title: Generative AI
 description: ""
 created: 2023-05-08
-updated: 2023-08-09
+updated: 2023-12-01
 tags:
   - ai
   - aigc
@@ -19,6 +19,8 @@ Generator and Discriminator
 [How generative AI is changing the way developers work | The GitHub Blog](https://github.blog/2023-04-14-how-generative-ai-is-changing-the-way-developers-work/)
 
 [苹果 M2 Ultra：干翻英伟达！决战 AI 之巅 - YouTube](https://www.youtube.com/watch?v=UsfmqTb2NVY) The unified memory on Apple SoC fits transformer models very well
+
+[Hung-yi Lee - YouTube](https://www.youtube.com/@HungyiLeeNTU/)
 
 [PyTorch Deep Learning Nanodegree: Generative Adversarial Networks](https://medium.com/datadriveninvestor/pytorch-deep-learning-nanodegree-generative-adversarial-networks-bc37e2b50a81)
 
@@ -108,8 +110,16 @@ Generator and Discriminator
 [The best AI art tutorials: how to use text-to-image generators | Creative Bloq](https://www.creativebloq.com/features/ai-art-tutorials)
 [Here's how AI art generators compare | Creative Bloq](https://www.creativebloq.com/news/ai-art-generator-comparison)
 
+[【生成式AI】淺談圖像生成模型 Diffusion Model 原理 - YouTube](https://www.youtube.com/watch?v=azBugJzmz-o)
+[【生成式AI】Stable Diffusion、DALL-E、Imagen 背後共同的套路 - YouTube](https://www.youtube.com/watch?v=JbfcAaBT66U)
+
+[bycloud - YouTube](https://www.youtube.com/@bycloudAI)
 [How AI Image Generators Work (Stable Diffusion / Dall-E) - Computerphile - YouTube](https://www.youtube.com/watch?v=1CIpzeNxIhU)
+[AI Generated Images Are Getting Too Real - YouTube](https://www.youtube.com/watch?v=AlSCx-4d51U) Model mixing, LoRA
+
 [Stable Diffusion in Code (AI Image Generation) - Computerphile - YouTube](https://www.youtube.com/watch?v=-lz30by8-sU)
+[The Current Absurd State of Generating AI Images - YouTube](https://www.youtube.com/watch?v=-JQDtzSaAuA) 2023-09
+[开源AI社区有多爱苹果电脑？ - YouTube](https://www.youtube.com/watch?v=8b5k6f05p-M) Lora LCM improvement on SDXL
 
 [AI 召喚師 - YouTube](https://www.youtube.com/@ai-summoner)
 
@@ -171,6 +181,11 @@ Better than DALL-E, also open source
 
 [OpenAI 發表的生成圖片模型 Consistency Models 開源了！比 Diffusion 更快更強 | T 客邦](https://www.techbang.com/posts/105469-openais-newly-generated-model-is-open-source-faster-and)
 
+### ControlNet
+
+[ControlNet Revolutionized How We Use AI To Generate Images - YouTube](https://www.youtube.com/watch?v=rCygkyMuSQo) use another image as input for pose
+[How ControlNet v1.1 Is Revolutionizing AI Art Even Further - YouTube](https://www.youtube.com/watch?v=15Q6OR0MWVk)
+
 ## Super resolution/Frame interpolation
 
 [Google AI Blog: High Fidelity Image Generation Using Diffusion Models](https://ai.googleblog.com/2021/07/high-fidelity-image-generation-using.html)
@@ -222,6 +237,18 @@ Better than DALL-E, also open source
 [Open LLM Leaderboard - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 [Understanding the impact of open-source language models - TechTalks](https://bdtechtalks.com/2023/05/29/open-source-llms-cerebras-gpt/)
 
+[80分鐘快速了解大型語言模型 (5:30 有咒術迴戰雷) - YouTube](https://www.youtube.com/watch?v=wG8-IUtqu-s)
+
+[Awesome LLM - Awesome 软件 - OSCHINA - 中文开源技术交流社区](https://www.oschina.net/project/awesome?columnId=51)
+[Hannibal046/Awesome-LLM: Awesome-LLM: a curated list of Large Language Model](https://github.com/Hannibal046/Awesome-LLM)
+[KennethanCeyer/awesome-llm: Awesome series for Large Language Model(LLM)s](https://github.com/KennethanCeyer/awesome-llm)
+[awesome-llm: 可能是最全的开源 LLM （大语言模型）整理](https://gitee.com/oschina/awesome-llm)
+
+[Machine Learning Observability Course - Arize AI](https://arize.com/blog-course/)
+
+[Introduction to Large Language Models and the Transformer Architecture | by Pradeep Menon | Medium](https://rpradeepmenon.medium.com/introduction-to-large-language-models-and-the-transformer-architecture-534408ed7e61)
+[How To Chose Perfect LLM For The Problem Statement Before Finetuning](https://www.labellerr.com/blog/how-to-choose-llm-to-suit-for-use-case/)
+
 [Aviary Explorer](https://aviary.anyscale.com/) compares responses from LLMs
 [A New Tool for the Open Source LLM Developer Stack: Aviary - The New Stack](https://thenewstack.io/a-new-tool-for-the-open-source-llm-developer-stack-aviary/)
 
@@ -229,6 +256,7 @@ Better than DALL-E, also open source
 [List of Open Sourced Fine-Tuned Large Language Models (LLM) | by Sung Kim | Geek Culture | Medium](https://medium.com/geekculture/list-of-open-sourced-fine-tuned-large-language-models-llm-8d95a2e0dc76)
 
 [Language Models For Software Developers in 17 Minutes - YouTube](https://www.youtube.com/watch?v=tL1zltXuHO8)
+[ELMO, BERT, GPT - YouTube](https://www.youtube.com/watch?v=UYPa347-DdE)
 [Large language models and the rise of the AI code generators | InfoWorld](https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.html)
 
 [Jurassic-1 vs GPT-3 vs Everyone Else](https://analyticsindiamag.com/jurassic-1-vs-gpt-3-vs-everyone-else/)
@@ -241,7 +269,6 @@ AI21's Jurassic-1 is the largest network (178 billion parameters)
 Computerphile
 [AI Language Models & Transformers - Computerphile - YouTube](https://www.youtube.com/watch?v=rURRYI66E54)
 [GPT3: An Even Bigger Language Model - Computerphile - YouTube](https://www.youtube.com/watch?v=_8yVOC4ciXc)
-[Vectoring Words (Word Embeddings) - Computerphile - YouTube](https://www.youtube.com/watch?v=gQddtTdmG_8)
 [ChatGPT with Rob Miles - Computerphile - YouTube](https://www.youtube.com/watch?v=viJt_DXTfwA)
 [Ch(e)at GPT? - Computerphile - YouTube](https://www.youtube.com/watch?v=XZJc1p6RE78)
 [Glitch Tokens - Computerphile - YouTube](https://www.youtube.com/watch?v=WO2X3oZEJOA)
@@ -255,6 +282,7 @@ Computerphile
 
 [Sage - Poe](https://poe.com/) integrates multiple LLMs
 [Phind: AI search engine](https://www.phind.com/)
+[Perplexity](https://www.perplexity.ai/)
 [Free AI Writing, PDF, Image, and other Online Tools - TinyWow](https://tinywow.com/)
 
 ### Transformers
@@ -264,10 +292,22 @@ Computerphile
 [Write With Transformer](https://transformer.huggingface.co/)
 [[1706.03762] Attention Is All You Need](https://arxiv.org/abs/1706.03762) Google paper in 2017
 [Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!! - YouTube](https://www.youtube.com/watch?v=zxQyTK8quyY)
+[Deriving the Ultimate Neural Network Architecture from Scratch #SoME3 - YouTube](https://www.youtube.com/watch?v=kWLed8o5M2Y)
 
-[The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time.](https://jalammar.github.io/illustrated-transformer/)
+[How do Transformers work?. A bit of Transformer history | by DhanushKumar_idk | Sep, 2023 | Medium](https://medium.com/@danushidk507/how-do-transformers-work-23efb5077755)
+[Illustrated Guide to Transformers- Step by Step Explanation | by Michael Phi | Towards Data Science](https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0)
+[How to Use Transformer-based NLP Models | Towards Data Science](https://towardsdatascience.com/how-to-use-transformer-based-nlp-models-a42adbc292e5)
+[Machine Learning’s Obsession with Kids’ TV Show Characters | by Catherine Yeo | Towards Data Science](https://towardsdatascience.com/machine-learnings-obsession-with-kids-tv-show-characters-728edfb43b3c)
 [Understanding Transformers in NLP: State-of-the-Art Models](https://www.analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/)
 [A Complete Learning Path To Transformers (Guide To 23 Architectures)](https://analyticsindiamag.com/a-complete-learning-path-to-transformers/)
+[NLP with Transformers: Introduction | C. B. Ozer | Medium](https://cbarkinozer.medium.com/nlp-with-transformers-introduction-part-1-e80684de43b2)
+[Navigating Transformers: A Comprehensive Exploration of Encoder-Only and Decoder-Only Models, Right Shift, and Beyond | by Amirhossein Abaskohi | Medium](https://medium.com/@amirhossein.abaskohi/navigating-transformers-a-comprehensive-exploration-of-encoder-only-and-decoder-only-models-right-a0b46bdf6abe)
+
+[The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time.](https://jalammar.github.io/illustrated-transformer/)❗!important
+[The Narrated Transformer Language Model - YouTube](https://www.youtube.com/watch?v=-QH8fRhqFHM)
+
+[What are Transformer Neural Networks? - YouTube](https://www.youtube.com/watch?v=XSSTuhyAmnI)
+[Attention is all you need (Transformer) - Model explanation (including math), Inference and Training - YouTube](https://www.youtube.com/watch?v=bCz4OMemCcA)
 
 [Introduction - Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/)
 [🤗 Transformers](https://huggingface.co/docs/transformers/index)
@@ -279,7 +319,23 @@ Computerphile
 [OpenAI Introduces Sparse Transformers for Deep Learning of Longer Sequences](https://www.infoq.com/news/2019/05/openai-sparse-transformers/)
 Transformers (formerly known as `pytorch-transformers` and `pytorch-pretrained-bert`) provides general-purpose architectures (BERT, GPT-2, RoBERTa, XLM, DistilBert, XLNet…) for Natural Language Understanding (NLU) and Natural Language Generation (NLG) with over 32+ pretrained models in 100+ languages and deep interoperability between TensorFlow 2.0 and PyTorch.
 
+[Transformer - YouTube](https://www.youtube.com/watch?v=ugWDIIOHtPA)
+
 [youtube/Transformers at main · Me163/youtube](https://github.com/Me163/youtube/tree/main/Transformers)
+
+### Vector Embeddings
+
+[[database#Vector Database]]
+
+[Vectoring Words (Word Embeddings) - Computerphile - YouTube](https://www.youtube.com/watch?v=gQddtTdmG_8)
+
+[Vector Similarity Search: From Basics to Production](https://mlops.community/vector-similarity-search-from-basics-to-production/)
+[Three Pitfalls To Avoid With Embeddings](https://mlops.community/three-pitfalls-to-avoid-with-embeddings/)
+
+[How vector similarity search works](https://labelbox.com/blog/how-vector-similarity-search-works/)
+[Leveraging Vector Embeddings and Similarity Search to Supplement ChatGPT’s Training Data - DEV Community](https://dev.to/chroline/leveraging-vector-embeddings-and-similarity-search-to-supplement-chatgpts-training-data-3ip4)
+
+[Getting Started With Embeddings Is Easier Than You Think - Arize AI](https://arize.com/blog/getting-started-with-embeddings-is-easier-than-you-think/)
 
 ### Hyena
 
@@ -289,13 +345,20 @@ Transformers (formerly known as `pytorch-transformers` and `pytorch-pretrained-b
 
 [LangChain: The Trendiest Web Framework of 2023, Thanks to AI - The New Stack](https://thenewstack.io/langchain-the-trendiest-web-framework-of-2023-thanks-to-ai/)
 [Unlocking the potential of large language models: Elastic's first code contribution to LangChain | Elastic Blog](https://www.elastic.co/blog/large-language-models-elastic-code-langchain)
+[LangChain: The Trendiest Web Framework of 2023, Thanks to AI - The New Stack](https://thenewstack.io/langchain-the-trendiest-web-framework-of-2023-thanks-to-ai/)
 
 [LangChain tutorial #1: Build an LLM-powered app in 18 lines of code](https://blog.streamlit.io/langchain-tutorial-1-build-an-llm-powered-app-in-18-lines-of-code/)
+[Understanding the Langchain Framework | by Mehul Gupta | Data Science in your pocket | Sep, 2023 | Medium](https://medium.com/data-science-in-your-pocket/understanding-the-langchain-framework-2bd57d177dbe)
+[LangChain 101 Course (updated). LangChain 101 course sessions. All code… | by Ivan Reznikov | Oct, 2023 | Medium](https://medium.com/@ivanreznikov/langchain-101-course-updated-668f7b41d6cb)
+[Breaking the Language Model Barriers with LangChain 🦜️🔗 | by Jayita Bhattacharyya | May, 2023 | Medium](https://itsjb13.medium.com/breaking-the-language-model-barriers-with-langchain-%EF%B8%8F-4976f450742)
 
+[LangChain + Vectara: better together](https://blog.langchain.dev/langchain-vectara-better-together/)
 [One-Stop Framework Building Applications with LLMs](https://www.analyticsvidhya.com/blog/2023/05/one-stop-framework-building-applications-with-llms/)
 [LangChain is the Android to OpenAI’s iOS](https://analyticsindiamag.com/langchain-is-the-android-to-openais-ios/)
 [Unleashing the Power of LLM for Enterprise Applications with LangChain](https://analyticsindiamag.com/unleashing-the-power-of-llm-for-enterprise-applications-with-langchain/)
-[Breaking the Language Model Barriers with LangChain 🦜️🔗 | by Jayita Bhattacharyya | May, 2023 | Medium](https://itsjb13.medium.com/breaking-the-language-model-barriers-with-langchain-%EF%B8%8F-4976f450742)
+
+[Hugging Face + Langchain in 5 mins | Access 200k+ FREE AI models for your AI apps - YouTube](https://www.youtube.com/watch?v=_j7JEDWuqLE)
+[Integration Tutorial: How to use LangChain with Apify scrapers - YouTube](https://www.youtube.com/watch?v=zcfeiVdiGJg)
 
 ### Translation
 
@@ -331,6 +394,7 @@ free, accept larger amounts of tokens (100k vs 8k for GPT4)
 
 ### PalM
 
+[Google’s Generative AI Platform Is Now Available To Everyone](https://www.forbes.com/sites/janakirammsv/2023/06/09/googles-generative-ai-platform-is-now-available-to-everyone/?sh=5dbfe8c07b92)
 [I built a fullstack PaLM AI app in just 2 minutes - YouTube](https://www.youtube.com/watch?v=shWEfRlmb6g)
 
 ### Dolly
@@ -340,6 +404,13 @@ free, accept larger amounts of tokens (100k vs 8k for GPT4)
 ### StableLM
 
 [Stability AI Launches the First of its StableLM Suite of Language Models — Stability AI](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)
+[來自 Stable Diffusion 背後公司的「開源版 ChatGPT」， StableLM 想讓人人都能做自己的 GPT | T 客邦](https://www.techbang.com/posts/105659-open-source-chatgpt-is-coming-this-ai-mapping-artifact-team)
+
+### Mistral AI
+
+> The best 7B, Apache 2.0
+
+[Mistral AI | Open source models](https://mistral.ai/)
 
 ### Llama
 
@@ -367,7 +438,7 @@ free, accept larger amounts of tokens (100k vs 8k for GPT4)
 
 #### Alpaca
 
-> fine tuned LLaMa by Stanford with training and inferencing cost of only $600
+> fine tuned LLaMa by Stanford with training and inference cost of only $600
 
 [Alpaca](https://crfm.stanford.edu/alpaca/)
 [Stanford CRFM](https://crfm.stanford.edu/2023/03/13/alpaca.html)
@@ -383,6 +454,8 @@ free, accept larger amounts of tokens (100k vs 8k for GPT4)
 
 [OpenAI 和 Google 都怕這張「開源笑臉」！作為 AI 界 Github 的 Hugging Face 推進了 AI 的「民主化」 | T 客邦](https://www.techbang.com/posts/106333-what-openai-and-google-are-most-afraid-of-is-an-open-source)
 [The Falcon has landed in the Hugging Face ecosystem](https://huggingface.co/blog/falcon)
+
+[An introduction to Hugging Face transformers and pipelines](https://blog.apify.com/how-to-use-hugging-face-transformers-pipelines/)
 
 ### GPT
 
@@ -457,7 +530,19 @@ Glitch Prompt
 [ColossalAI/applications/ChatGPT at main · hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI/tree/main/applications/ChatGPT)
 [Replicate ChatGPT Training Quickly and Affordable with Open Source Colossal-AI](https://www.hpc-ai.tech/blog/colossal-ai-chatgpt)
 
-### Coding
+### EleutherAI
+
+[EleutherAI](https://www.eleuther.ai/)
+[EleutherAI](https://github.com/orgs/EleutherAI/repositories?type=source)
+
+## AI Summary
+
+[ChatPDF - Chat with any PDF!](https://www.chatpdf.com/)
+[ChatPDF 是什麼？免費 ChatGPT 學習神器！無需註冊登記即可試用](https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/892616/)
+
+[【ChatGPT 教學】一鍵秒殺冗長 YouTube 影片、文章 Perplexity AI 配合 Copilot 速效生成摘要 - ezone.hk - 教學評測 - 應用秘技 - D230605](https://ezone.ulifestyle.com.hk/article/3537989/)
+
+## For Coding
 
 [[github#Copilot]]
 

@@ -2,6 +2,7 @@
 title: GRUB
 description: ""
 created: 2014-12-17
+updated: 2023-09-29
 tags:
   - grub
   - linux
@@ -41,14 +42,18 @@ sudo modprobe -r psmouse && sudo modprobe -r psmouse proto=bare
 ```sh
 # check Linux partition
 sudo fdisk -l
-# mount Linux root (say sda5)
-sudo mount /dev/sda5 /mnt
-# install grub
-sudo grub-install /dev/sda --root-directory=/mnt
-sudo reboot
-
+# mount Linux root
+sudo mount /dev/nvme0n1p2 /mnt/root
+arch-chroot /mnt/root /bin/bash
+# mount Linux EFI
+mount /dev/nvme0n1p1 /mnt/esp
+# install grub, `ls /mnt/esp/EFI` for bootloader-id
+grub-install --target=x86_64-efi --efi-directory=/mnt/esp --bootloader-id=GRUB
 # this will also add Window entry to menu (with os-prober)
-sudo grub-mkconfig
+grub-mkconfig -o /boot/grub/grub.cfg
+
+# exit chroot
+sudo reboot
 ```
 
 [Restore the GRUB Bootloader - Manjaro Linux](https://wiki.manjaro.org/index.php/Restore_the_GRUB_Bootloader)

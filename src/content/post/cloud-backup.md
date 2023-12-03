@@ -2,6 +2,7 @@
 title: Cloud Backup
 description: ""
 created: 2016-04-02
+updated: 2023-10-23
 tags:
   - web
 ---
@@ -197,14 +198,6 @@ Virtual file system
 [Umbrel — A personal server OS for self-hosting](https://umbrel.com/)
 [Umbrel Troubleshooting Guide - Guides - Umbrel Community](https://community.getumbrel.com/t/umbrel-troubleshooting-guide/3632)
 
-[Syncthing](https://syncthing.net/) sync between your machines
-[Block Exchange Protocol v1 — Syncthing documentation](https://docs.syncthing.net/specs/bep-v1.html#bep-v1)
-[Syncthing Made EASY - YouTube](https://www.youtube.com/watch?v=PSx-BkMOPF4)
-[Sync files across multiple devices with Syncthing | Opensource.com](https://opensource.com/article/20/1/sync-files-syncthing)
-[Control your data with Syncthing: An open source synchronization tool | Opensource.com](https://opensource.com/article/18/9/take-control-your-data-syncthing)
-[Synchronize Files Between Multiple Systems With Syncthing - OSTechNix](https://ostechnix.com/synchronize-files-between-multiple-systems-with-syncthing/)
-[Linux Fu: Keep In Sync | Hackaday](https://hackaday.com/2020/07/23/linux-fu-keep-in-sync/)
-
 [SparkleShare - Self hosted, instant, secure file sync](http://sparkleshare.org/)
 [Syncany - Secure file sync software for arbitrary storage backends](https://www.syncany.org/)
 
@@ -222,6 +215,19 @@ Virtual file system
 [FileRun - Selfhosted File Sync and Share](https://filerun.com/)
 
 [kimono-koans/httm: Interactive, file-level Time Machine-like tool for ZFS/btrfs](https://github.com/kimono-koans/httm)
+
+## Syncthing
+
+> sync between your machines, works best with Tailscale
+
+[Syncthing](https://syncthing.net/)
+[Block Exchange Protocol v1 — Syncthing documentation](https://docs.syncthing.net/specs/bep-v1.html#bep-v1)
+[Syncthing Made EASY - YouTube](https://www.youtube.com/watch?v=PSx-BkMOPF4)
+[Sync files across multiple devices with Syncthing | Opensource.com](https://opensource.com/article/20/1/sync-files-syncthing)
+[Control your data with Syncthing: An open source synchronization tool | Opensource.com](https://opensource.com/article/18/9/take-control-your-data-syncthing)
+[Synchronize Files Between Multiple Systems With Syncthing - OSTechNix](https://ostechnix.com/synchronize-files-between-multiple-systems-with-syncthing/)
+[Linux Fu: Keep In Sync | Hackaday](https://hackaday.com/2020/07/23/linux-fu-keep-in-sync/)
+[canton7/SyncTrayzor: Windows tray utility / filesystem watcher / launcher for Syncthing](https://github.com/canton7/SyncTrayzor)
 
 ## ownCloud/Nextcloud
 

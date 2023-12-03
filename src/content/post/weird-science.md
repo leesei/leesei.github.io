@@ -2,7 +2,7 @@
 title: Weird Science
 description: ""
 created: 2015-12-04
-updated: 2023-08-10
+updated: 2023-09-29
 tags:
   - science
 ---
@@ -72,6 +72,7 @@ phlogiston -> caloric -> thermodynamics
 [[copyright]]
 
 [藍泉媽媽也抄襲！老高觸犯了兩個大禁忌！理性討論老高抄襲事件 - YouTube](https://www.youtube.com/watch?v=CsFfVsiUO6w)
+[抄襲或巧合？老高爭議影片詳細對比！到底哪裡相同、哪裡不同？｜志祺七七 - YouTube](https://www.youtube.com/watch?v=U0bp7u-9M5g)
 
 [回應被抄襲事件。 - YouTube](https://www.youtube.com/watch?v=ShIWDQQdk9U) 林辰 Buchi
 

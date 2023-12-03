@@ -2,7 +2,7 @@
 title: Desktop Apps
 description: ""
 created: 2015-05-20
-updated: 2023-08-08
+updated: 2023-11-22
 tags:
   - app
   - desktop
@@ -48,12 +48,16 @@ For the softwares I install on my system, see [[arch-packages]].
 ### Math
 
 [GNU Octave](http://www.gnu.org/software/octave/) MATLAB API
+[Octave for Signal Processing: First Impressions from an Engineering Professor - YouTube](https://www.youtube.com/watch?v=H2AhZycbdOg)
+
 [gnuplot homepage](http://www.gnuplot.info/)
 [The Julia Language](http://julialang.org/), see [[julia]]
 [Genius Mathematics Tool and the GEL Language](http://www.jirka.org/genius.html)
 [Matplotlib: Python plotting](https://matplotlib.org/)
 [PyPlot download | SourceForge.net](http://sourceforge.net/projects/pyplot/)
 [GNU Dr. Geo, be a geometer!](http://www.drgeo.eu/)
+
+[Desmos | Let's learn together.](https://www.desmos.com/) webapp
 
 [The best Matlab alternative | Alasdair's musings](https://amca01.wordpress.com/2011/08/31/the-best-matlab-alternative/)
 [The best Matlab alternative (2) | Alasdair's musings](https://amca01.wordpress.com/2012/11/27/the-best-matlab-alternative-2/)
@@ -95,6 +99,15 @@ For the softwares I install on my system, see [[arch-packages]].
 
 [Celestia: Home](http://www.shatters.net/celestia/)
 [Stellarium](http://www.stellarium.org/)
+
+## Local Backup
+
+[Disk cloning - ArchWiki](https://wiki.archlinux.org/title/disk_cloning)
+
+[Clonezilla - About](https://clonezilla.org/)
+[Clonezilla - Advanced Mode](https://clonezilla.org/clonezilla-live/doc/03_Disk_to_disk_clone/advanced/05-advanced-param.php)
+
+`/usr/bin/ocs-onthefly <options> -f nvme1n1p2 -t nvme2n1p2`
 
 ## Cloud Storage
 
@@ -464,7 +477,7 @@ Customize the downloaded documentations with "Select documentation" (on the lowe
 
 Or, if you are on Mac and adamant to spend some money, try [Dash for Mac](http://kapeli.com/dash).
 
-## Diff tool
+## Diff tools
 
 [Meld](http://meldmerge.org/)
 [KDiff3 - Homepage](http://kdiff3.sourceforge.net/)
@@ -611,6 +624,9 @@ Thunar
 [Dragon: How To Add Drag And Drop Support To Any Terminal - YouTube](https://www.youtube.com/watch?v=cbegEIczdNQ)
 [Dragon: Eliminate The Need For All GUI File Managers! - YouTube](https://www.youtube.com/watch?v=GZ4YM7x_Fb4)
 
+[Hello from Yazi | Yazi](https://yazi-rs.github.io/docs/)
+[sxyazi/yazi: 💥 Blazing fast terminal file manager written in Rust, based on async I/O.](https://github.com/sxyazi/yazi)
+
 ## File Transfer
 
 [Warp: An Open-Source Secure File Sharing App That Works Cross-Platform](https://news.itsfoss.com/warp-file-sharing/)
@@ -632,9 +648,6 @@ Thunar
 [Make music on Linux with Ardour | Opensource.com](https://opensource.com/article/21/12/music-linux-ardour)
 
 [MKVToolNix news – Matroska tools for Linux/Unix and Windows](https://www.bunkus.org/videotools/mkvtoolnix/)
-
-[OpenToonz](https://opentoonz.github.io/e/) [GitHub org](https://github.com/opentoonz?type=source)
-[Animation software used by Studio Ghibli is going open source | The Verge](http://www.theverge.com/2016/3/21/11275434/toonz-futurama-studio-ghibli-digital-video-dwango)
 
 [Overview - VidGear](https://abhitronix.github.io/vidgear/latest/)
 
@@ -689,6 +702,17 @@ Thunar
 
 [Lightworks: The professional editor for everyone](http://www.lwks.com/) Freemium, no source code ATM
 
+### Animation
+
+[OpenToonz](https://opentoonz.github.io/e/) [GitHub org](https://github.com/opentoonz?type=source)
+[Animation software used by Studio Ghibli is going open source | The Verge](http://www.theverge.com/2016/3/21/11275434/toonz-futurama-studio-ghibli-digital-video-dwango)
+
+[Blender's Animation Tools - Amazing for 2D Artists - YouTube](https://www.youtube.com/watch?v=VmekmH0QJMs)
+
+[InspirationTuts 2D - YouTube](https://www.youtube.com/@InspirationTuts2D/videos)
+
+[[raster-graphics#Photopea]] Timeline
+
 ### Player
 
 [Stremio - Watch Instantly](http://www.strem.io/)
@@ -716,8 +740,13 @@ Windows
 [mpv.io manual](https://mpv.io/manual/master/#interactive-control)
 [mpv.io config file](https://mpv.io/manual/master/#configuration-files)
 [mpv.io options](https://mpv.io/manual/master/#options)
+
+[mpvnet-player/mpv.net: 🎞 mpv.net is a modern media player for Windows that works just like mpv.](https://github.com/mpvnet-player/mpv.net/tree/master) has context menu by default
+[mpv.net/docs/Manual.md at master · mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net/blob/master/docs/Manual.md)
+
 Configs are in `~/.config/mpv`, sample from `/usr/share/doc/mpv/`
 Windows (Chocolatey): `%APPDATA%\mpv`, `C:\ProgramData\chocolatey\lib\mpv.install\tools\mpv`
+Windows (Chocolatey): `%APPDATA%\mpv.net`, `C:\ProgramData\chocolatey\lib\mpv.install\tools\mpv`
 
 `mpv --input-test --force-window --idle`
 test input key and its binding
@@ -812,8 +841,9 @@ npm install upnp-ssdp peer-ssdp upnp-mediarenderer-client upnp-device upnpserver
 
 ```sh
 # list formats
-youtube-dl -F URL
-youtube-dl -f bestvideo+bestaudio --merge-output-format mkv URL
+yt-dlp -F URL
+yt-dlp -f bestvideo+bestaudio --merge-output-format mkv URL
+yt-dlp --list-extractors
 
 # playlist
 --playlist-start 23
@@ -822,9 +852,14 @@ youtube-dl -f bestvideo+bestaudio --merge-output-format mkv URL
 --match-filter "title ~= (?i)REGEX"  # in `yt-dlp`
 --no-playlist
 
+# download only portion of video
+# https://unix.stackexchange.com/a/718589/7691
+yt-dlp.exe --download-sections "*6:02-6:22" # "*" indicates timestamp
+yt-dlp.exe --download-sections "*1:22:22-inf" # to the end
+
 # download only subtitles
-youtube-dl --list-subs URL
-youtube-dl --write-sub --sub-format vtt --sub-lang zh-HK --skip-download URL
+yt-dlp --list-subs URL
+yt-dlp --write-sub --sub-format vtt --sub-lang zh-HK --skip-download URL
 # --sub-lang en/zh-HK/zh-TW/zh-Hant/zh-Hans --convert-subs=srt
 yt-dl "https://www.youtube.com/playlist?list=PLJV1h9xQ7Hx-b-L_VagAJgnnTJXb5YCuS" -- --write-sub --sub-format vtt --sub-lang zh-HK
 yt-dl "https://www.youtube.com/playlist?list=PLxSscENEp7JhHilZTy4u4rr_s8-nEM1-8" -- --write-auto-sub --sub-format vtt --sub-lang en
@@ -846,10 +881,11 @@ you-get --itag=43 URL
 [Taking a screenshot - ArchWiki](https://wiki.archlinux.org/title/Taking_a_screenshot)
 [5 Ways to Take Screenshot in Linux [GUI and Terminal]](https://itsfoss.com/take-screenshot-linux/)
 
-[Flameshot](https://flameshot.js.org/#/) supports Wayland
 [naelstrof/maim](https://github.com/naelstrof/maim)
 [Shutter - Feature-rich Screenshot Tool](http://shutter-project.org/)
 [GPicView - A Simple and Fast Image Viewer for X](http://lxde.sourceforge.net/gpicview/)
+
+[Flameshot](https://flameshot.js.org/#/) supports Wayland, KDE
 [ksnip/ksnip: ksnip the cross-platform screenshot and annotation tool](https://github.com/ksnip/ksnip/)
 [Here's Why Ksnip is My New Favorite Linux Screenshot Tool in 2022 - It's FOSS News](https://news.itsfoss.com/ksnip-experience/)
 
@@ -965,8 +1001,6 @@ dconf load /com/gexperts/Tilix/ < terminix.dconf
 
 [Clean Your System and Free Disk Space | BleachBit](https://www.bleachbit.org/) akin to CClean
 
-[Syncthing](https://syncthing.net/)
-
 [lukaslangrock/ShutdownTimerClassic: Pick a time and let your computer shutdown itself.](https://github.com/lukaslangrock/ShutdownTimerClassic)
 
 ## Anti-Virus
@@ -1050,11 +1084,13 @@ wmic DISKDRIVE
 
 [Tabby - a terminal for a more modern age](https://tabby.sh/)
 
-[Tilix: A tiling terminal emulator](https://gnunn1.github.io/tilix-web/)
+[Ghostty 👻 – Mitchell Hashimoto](https://mitchellh.com/ghostty) written in Zig,
+
+[Tilix: A tiling terminal emulator](https://gnunn1.github.io/tilix-web/) why not tmux 🤷‍♂️?
 [gnunn1/tilix: A tiling terminal emulator for Linux using GTK+ 3](https://github.com/gnunn1/tilix)
 
 [WezTerm - Wez's Terminal Emulator](https://wezfurlong.org/wezterm/)
-[GitHub - wez/wezterm: A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust](https://github.com/wez/wezterm)
+[wez/wezterm: A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust](https://github.com/wez/wezterm)
 
 [Hyper™](https://hyper.is/)
 

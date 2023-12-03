@@ -2,6 +2,7 @@
 title: Middle East History
 description: ""
 created: 2019-07-31
+updated: 2023-11-12
 tags:
   - history
   - history/middle-east
@@ -27,8 +28,20 @@ Saudi Arabia backed Sunni, Iran backed Shia in proxy wars across middle east and
 [百度百科*V 百科*巴以冲突是怎么回事](https://baike.baidu.com/vbaike/%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B/22179)
 [淺談以巴衝突的前世今生 | 吳嘉茜 | 香港獨立媒體網](http://www.inmediahk.net/node/1024948)
 
-[【巴以衝突 01】一口氣看完巴勒斯坦、以色列千年簡史 | 整理巴以衝突歷史根源 (上) - YouTube](https://www.youtube.com/watch?v=jn9l3PodaXY)
-[【巴以衝突 02】耶路撒冷、加沙、西岸| 從兩個視角整理兩國百年糾紛 - YouTube](https://www.youtube.com/watch?v=WOYycmsSacY)
+[History of Israel-Palestine Conflict - YouTube](https://www.youtube.com/watch?v=m19F4IHTVGc)
+
+[自古以來神聖不可侵犯的「應許之地」！猶太神話解說 (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=mJTqcjWeodc)
+[以色列和巴勒斯坦為什麼互相轟炸？以巴衝突懶人包｜志祺七七 - YouTube](https://www.youtube.com/watch?v=14bIuc0PHPY)
+
+[一部影片看懂以色列：巴勒斯坦的死敵，揭開猶太人的歷史真相！以巴衝突的背後，是來自中東的神秘力量……| 床台 - YouTube](https://www.youtube.com/watch?v=8HfCt5NLyzg) 48:14
+
+小Lin说
+[一口气了解以色列经济 - YouTube](https://www.youtube.com/watch?v=YY2Q4XDmZDE)
+[一口气了解巴勒斯坦经济 - YouTube](https://www.youtube.com/watch?v=YLs7h3Qwwjw)
+
+青蛙刀圣
+[【巴以衝突(上)】一口氣看完巴勒斯坦、以色列- 慢讲千年历史 - YouTube](https://www.youtube.com/watch?v=jn9l3PodaXY)
+[【巴以衝突(下)】詳解：耶路撒冷、加沙、西岸| 從兩個視角整理兩國百年糾紛 - YouTube](https://www.youtube.com/watch?v=WOYycmsSacY)
 
 [Israel-Palestine: Everything you need to know - Vox](https://www.vox.com/2018/11/20/18079996/israel-palestine-conflict-guide-explainer)
 [The Israel-Palestine conflict: a brief, simple history - YouTube](https://www.youtube.com/watch?v=iRYZjOuUnlU)

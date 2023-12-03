@@ -2,7 +2,7 @@
 title: Content Management Systems
 description: ""
 created: 2022-07-09
-updated: 2023-04-30
+updated: 2023-11-16
 tags:
   - business
   - cms
@@ -25,6 +25,14 @@ tags:
 [Joomla vs WordPress: Aspect of Comparison - YouTube](https://www.youtube.com/watch?v=iK9A2ea7D30)
 [Wordpress vs Joomla vs Drupal (Infographic): Which Is The Best in 2020](https://capsicummediaworks.com/wordpress-vs-joomla-vs-drupal/)
 
+## Wix
+
+[Advanced Web Development for Agencies | Wix Studio](https://www.wix.com/studio/development)
+[API Overview - Velo API Reference - Wix.com](https://www.wix.com/velo/reference/api-overview)
+
+[The killer tool for devs who don't want to touch design is... Wix?](https://www.learnwithjason.dev/blog/wix-custom-code)
+[A developer's case for using Wix - YouTube](https://www.youtube.com/watch?v=BUApR8vFW6k)
+
 ## CRM
 
 [Top 12 Best Open Source CRM Software [2021]](https://itsfoss.com/best-open-source-crm/)
@@ -34,6 +42,11 @@ tags:
 ## Headless CMS/Generic Data Model
 
 > headless, API for data, database wrapper
+> also act as internal tool building platform
+
+[What is a Headless CMS: a Visual Guide - Builder.io](https://www.builder.io/m/knowledge-center/headless-cms-visual-guide)
+[Headless CMS Explained: What is it? Why does it matter? | Storyblok](https://www.storyblok.com/tp/headless-cms-explained)
+[Headless CMS Explained: Your Guide for 2023 - 2024 | Cosmic](https://www.cosmicjs.com/headless-cms)
 
 [An overview of headless CMS for blogfolio in 2022](https://hungvu.tech/headless-cms-for-portfolio-and-blogs)
 [Strapi vs Directus vs Payload, Headless CMS Comparison](https://hungvu.tech/strapi-vs-directus-vs-payload-headless-cms-comparison)
@@ -44,6 +57,16 @@ tags:
 [[strapi-cms]]
 
 [RecaMedia/JayDMS-Dev: The development repository of JayDMS (JSON Development Management System).](https://github.com/RecaMedia/JayDMS-Dev) one-off, AGPL
+
+### Webiny
+
+[Open-Source Serverless CMS for Enterprises - Headless CMS & Page Builder](https://www.webiny.com/)
+[webiny/webiny-js: Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.](https://github.com/webiny/webiny-js)
+
+### BCMS
+
+[Open-source Headless CMS for developers](https://thebcms.com/)
+[bcms/cms: ⭐️ BCMS is a Headless CMS for developers & their clients. Works nicely with Gatsby, Next.js & Nuxt. You can even self-host it.](https://github.com/bcms/cms)
 
 ### Medusa
 
@@ -112,11 +135,11 @@ Tina is an open-source site editing toolkit for React-based frameworks — Gatsb
 [[joomla]]
 [[ghost]]
 
+[Self-Hosted CMSs in Jamstack - Bejamas](https://bejamas.io/blog/self-hosted-cms/)
+
 [Crafter CMS | Open Source, Git-based Dynamic CMS](https://craftercms.org/)
 
 [Open Source CMS](https://www.dotcms.com/open-source-cms)
-
-[Builder.io - Drag and drop experience builder](https://www.builder.io/)
 
 [Umbraco CMS: The open-source version of Umbraco](https://umbraco.com/products/umbraco-cms/)
 
@@ -201,6 +224,10 @@ Tina is an open-source site editing toolkit for React-based frameworks — Gatsb
 
 [Craft CMS](https://craftcms.com/) blog, Twig template or bring you own with GraphQL
 [What I Like About Craft CMS | CSS-Tricks](https://css-tricks.com/what-i-like-about-craft-cms/)
+
+[Builder.io - Drag and drop experience builder](https://www.builder.io/) blog
+
+[Cosmic | The #1 Headless, API-first, Content Management Platform | Cosmic](https://www.cosmicjs.com/) generic data model
 
 [The Next Generation GraphQL Content Platform | Hygraph](https://hygraph.com/) previously GraphCMS, generic data model
 [Building with SvelteKit and GraphCMS - Jamstack Explorers](https://explorers.netlify.com/learn/building-with-sveltekit-and-graphcms)
