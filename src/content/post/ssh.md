@@ -2,7 +2,7 @@
 title: SSH
 description: ""
 created: 2014-12-17
-updated: 2023-09-29
+updated: 2024-05-16
 tags:
   - app
   - shell-tool
@@ -35,11 +35,6 @@ tags:
 [Mosh: the mobile shell](https://mosh.org/)
 [What Is the Mosh Shell and How Do You Use It?](https://www.cloudsavvyit.com/1224/what-is-the-mosh-shell-and-how-do-you-use-it/amp/)
 [TimeToogo/tunshell: Remote shell into ephemeral environments 🐚 🦀](https://github.com/TimeToogo/tunshell)
-
-## X11 Forwarding
-
-[What You Need to Know About X11 Forwarding](https://goteleport.com/blog/x11-forwarding/)
-[How To Configure X11 Forwarding Using SSH In Linux - OSTechNix](https://ostechnix.com/how-to-configure-x11-forwarding-using-ssh-in-linux/)
 
 ## `ssh_config`
 
@@ -287,3 +282,8 @@ Forward your local machine's credential to remote machine.
 
 [SSH Agent forwarding using different usernames and different keys - Super User](https://superuser.com/questions/1140830/ssh-agent-forwarding-using-different-usernames-and-different-keys/1141035#1141035)
 [What is SSH Agent Forwarding and How Do You Use It?](https://www.cloudsavvyit.com/25/what-is-ssh-agent-forwarding-and-how-do-you-use-it/amp/)
+
+## X11 Forwarding
+
+[What You Need to Know About X11 Forwarding](https://goteleport.com/blog/x11-forwarding/)
+[How To Configure X11 Forwarding Using SSH In Linux - OSTechNix](https://ostechnix.com/how-to-configure-x11-forwarding-using-ssh-in-linux/)

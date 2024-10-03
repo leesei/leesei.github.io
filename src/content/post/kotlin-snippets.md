@@ -2,7 +2,7 @@
 title: Kotlin
 description: ""
 created: 2019-04-11
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - comp/lang
   - kotlin

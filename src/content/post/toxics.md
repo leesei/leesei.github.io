@@ -2,7 +2,7 @@
 title: Toxics
 description: ""
 created: 2016-10-02
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - science
 ---
@@ -24,5 +24,26 @@ Cyanide 山埃
 LSD is not addictive, and is one of the strongest drugs known to man
 the common dose is a mere 50ug
 comparing to that of cocaine 100mg
+[【科技史】史上最强致幻剂LSD的魔幻往事 - YouTube](https://www.youtube.com/watch?v=R0qL02FXWaY)
+麥角 Ergot
 
 [極度舒適！拿來救命的藥，原來是這樣在身體裏釋放的 - YouTube](https://www.youtube.com/watch?v=S3hlPDBlfvo)
+
+[迷幻蘑菇、一粒沙等迷幻藥大解惑！人工vs.自然用藥後遺症也不同？Expert Answers Psychedelics Questions｜名人專業問答｜GQ Taiwann迷幻蘑菇、一粒沙等迷幻藥大解惑！人工vs.自然用藥後遺症也不同？Expert Answers Psychedelics Questions｜名人專業問答｜GQ Taiwann迷幻蘑菇、一粒沙等迷幻藥大解惑！人工vs.自然用藥後遺症也不同？Expert Answers Psychedelics Questions｜名人專業問答｜GQ Taiwann - YouTube](https://www.youtube.com/watch?v=t73HNabWfeg)
+[光敏者慎入🫥最「chill」研究？教授與200位學生集體嗑迷幻蘑菇！？裸蓋菇素不只幫你放鬆，還能戒菸、治頭痛？ - YouTube](https://www.youtube.com/watch?v=eAJqq_wH_O4)
+
+## Cannabis/Marijuana
+
+> also known as marijuana (Mexican)
+
+[Cannabis (drug) - Wikiwand](<https://omni.wikiwand.com/en/Cannabis_(drug)>)
+
+- Cannabidol 大麻二酚 (CDB)
+  blocks CB1 from binding with THC
+- Tetrahydrocannabinol 四氫大麻酚 (THC)
+  binds with CB1 in brain to make you high
+
+[一定黃標！來聊聊這個大麻煩吧 ！【Buchi 社會課#11】 - YouTube](https://www.youtube.com/watch?v=EpG1BQxaJ4o)
+
+[泰國大麻觀光化台灣客是主力之一 開放2年為何重下禁令？｜公視P# 新聞實驗室泰國大麻觀光化台灣客是主力之一 開放2年為何重下禁令？｜公視P# 新聞實驗室 - YouTube](https://www.youtube.com/watch?v=sFmcB2Shl7w)
+[抽太兇？泰國為何想禁「娛樂用大麻」？大麻合法化兩年，泰國變得怎麼樣了？｜志祺七七 - YouTube](https://www.youtube.com/watch?v=NDcrWnyb1oM)

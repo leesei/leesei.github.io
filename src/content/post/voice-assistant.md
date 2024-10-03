@@ -2,7 +2,7 @@
 title: Voice Assistant
 description: ""
 created: 2018-06-18
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - tts
   - web

@@ -2,7 +2,7 @@
 title: Household Appliances
 description: ""
 created: 2018-07-05
-updated: 2023-10-18
+updated: 2024-08-14
 tags:
   - aircon
   - cooler
@@ -25,6 +25,8 @@ tags:
 
 [海賊王 DIY 日記 - YouTube](https://www.youtube.com/channel/UCQzC7WhCU9kZR7zYmGy98zA) fixing household appliances
 
+[空气炸锅翻红，降糖无油高科技？网红小家电有多少是智商税？- IC实验室出品 - YouTube](https://www.youtube.com/watch?v=betmyzALb1Q) 廚房小家電
+
 [无线吹风机是如何做出来的？ - YouTube](https://www.youtube.com/watch?v=1DjrZZQ4L7g)
 
 # Vendors
@@ -39,9 +41,9 @@ tags:
 
 # HVAC
 
-[Heating, ventilation, and air conditioning - Wikiwand](https://www.wikiwand.com/en/Heating,_ventilation,_and_air_conditioning)
-[Air conditioning - Wikiwand](https://www.wikiwand.com/en/Air_conditioning)
-[Ventilation (architecture) - Wikiwand](<https://www.wikiwand.com/en/Ventilation_(architecture)>)
+[Heating, ventilation, and air conditioning - Wikiwand](https://omni.wikiwand.com/en/Heating,_ventilation,_and_air_conditioning)
+[Air conditioning - Wikiwand](https://omni.wikiwand.com/en/Air_conditioning)
+[Ventilation (architecture) - Wikiwand](<https://omni.wikiwand.com/en/Ventilation_(architecture)>)
 
 - compressor 壓縮機
 - radiator
@@ -57,10 +59,13 @@ tags:
 [Expansion Valves - HVAC - YouTube](https://www.youtube.com/playlist?list=PLWv9VM947MKhP7jzKWA2vpl5WBuw3fes8)
 
 [Heat Pumps - YouTube](https://www.youtube.com/playlist?list=PLHebb5GJgeFcN9RrK4iDSRYN601PaIJv2) Two Bit da Vinci
-[Heat Pumps: the Future of Home Heating - YouTube](https://www.youtube.com/watch?v=7J52mDjZzto)
-[Ground Source / Geothermal Heat Pumps and Other Info - YouTube](https://www.youtube.com/watch?v=7zrx-b2sLUs)
-[Why Heat Pumps are Immensely Important Right Now - YouTube](https://www.youtube.com/watch?v=MFEHFsO-XSI)
-[Heat Pumps are Not Hard: Here's what it will take to start pumping - YouTube](https://www.youtube.com/watch?v=43XKfuptnik)
+[Heat Pumps - YouTube](https://www.youtube.com/playlist?list=PLv0jwu7G_DFVIot1ubOZdR-KC-LFdOVqi) Technology Connections
+[Old HVAC industry practices are holding us back and costing us money. But we can fix it. - YouTube](https://www.youtube.com/watch?v=DTsQjiPlksA)
+[Why This Window Heat Pump Is Genius - YouTube](https://www.youtube.com/watch?v=KNlDu_ZHIo8)
+
+Two Bit da Vinci
+[This Heating Tech Breaks the Laws of Physics? - YouTube](https://www.youtube.com/watch?v=moQapzjjmQM)
+[Breakthrough Heat Pump Works In the MOST Unusual Way… - YouTube](https://www.youtube.com/watch?v=e8fDMKr77bA)
 
 [How Filter Driers Work - HVACR - YouTube](https://www.youtube.com/watch?v=ObbQLPGB_Ks)
 
@@ -75,8 +80,8 @@ tags:
 
 ## Refrigerator
 
-[Refrigeration - Wikiwand](https://www.wikiwand.com/en/Refrigeration)
-[Refrigerator - Wikiwand](https://www.wikiwand.com/en/Refrigerator)
+[Refrigeration - Wikiwand](https://omni.wikiwand.com/en/Refrigeration)
+[Refrigerator - Wikiwand](https://omni.wikiwand.com/en/Refrigerator)
 
 [【※選購秘笈】18 款雪櫃冰箱大比拼！原理、功能、比較、買前考慮！對比一圖睇曬！VNT 輕鬆小棧 - YouTube](https://www.youtube.com/watch?v=pxuY0tERF9I)
 
@@ -85,16 +90,16 @@ tags:
 
 [Energy Label Net | 能源標籤網](https://www.emsd.gov.hk/energylabel/en/households/ref/select_ref.php)
 
-[Heat pump and refrigeration cycle - Wikiwand](https://www.wikiwand.com/en/Heat_pump_and_refrigeration_cycle)
-[Vapor-compression refrigeration - Wikiwand](https://www.wikiwand.com/en/Vapor-compression_refrigeration)
-[Absorption refrigerator - Wikiwand](https://www.wikiwand.com/en/Absorption_refrigerator)
-[Magnetic refrigeration - Wikiwand](https://www.wikiwand.com/en/Magnetic_refrigeration)
+[Heat pump and refrigeration cycle - Wikiwand](https://omni.wikiwand.com/en/Heat_pump_and_refrigeration_cycle)
+[Vapor-compression refrigeration - Wikiwand](https://omni.wikiwand.com/en/Vapor-compression_refrigeration)
+[Absorption refrigerator - Wikiwand](https://omni.wikiwand.com/en/Absorption_refrigerator)
+[Magnetic refrigeration - Wikiwand](https://omni.wikiwand.com/en/Magnetic_refrigeration)
 
-[Compressor - Wikiwand](https://www.wikiwand.com/en/Compressor)
-[Evaporator - Wikiwand](https://www.wikiwand.com/en/Evaporator)
-[Power inverter - Wikiwand](https://www.wikiwand.com/en/Power_inverter)
+[Compressor - Wikiwand](https://omni.wikiwand.com/en/Compressor)
+[Evaporator - Wikiwand](https://omni.wikiwand.com/en/Evaporator)
+[Power inverter - Wikiwand](https://omni.wikiwand.com/en/Power_inverter)
 
-[Glycol Chillers - Wikiwand](https://www.wikiwand.com/en/Glycol_Chillers)
+[Glycol Chillers - Wikiwand](https://omni.wikiwand.com/en/Glycol_Chillers)
 
 ## Air Conditioner
 
@@ -112,7 +117,7 @@ tags:
 [Energy Label Net | 能源標籤網](https://www.emsd.gov.hk/energylabel/en/households/rac/select_ac_result.php?type=all)
 
 [Portable Air Conditioners - Why you shouldn't like them - YouTube](https://www.youtube.com/watch?v=_-mBeYC2KGc)
-[Air conditioning - Wikiwand](https://www.wikiwand.com/en/Air_conditioning#/History)
+[Air conditioning - Wikiwand](https://omni.wikiwand.com/en/Air_conditioning#/History)
 
 **定頻**
 總會保持固定的輸出功率，當房間達到預定溫度時，就會停止運轉。當感溫裝置測到室內溫度高於預定溫度時，冷氣機會重新啟動。由於會持續重複暫停、重新啟動兩個動作，所以室溫的變動幅度會較大，耗電量亦較高。
@@ -290,6 +295,13 @@ Panasonic F-PXM55H \$2360@2020-09
 [濾水器選購資訊(2020 濾水器比較,推介及消委會最新評測) - 專題報導 - 香港格價網 Price.com.hk](https://www.price.com.hk/news.php?id=12648&sec_id=11)
 
 [用掉 50 吨水，揭秘净水器行业有多暴利 | 净水器消费者报告（上） - YouTube](https://www.youtube.com/watch?v=jbE_Bn8D1Tc)
+
+# Dish Washer
+
+[Your dishwasher is better than you think (tips, tricks, and how they work) - YouTube](https://www.youtube.com/watch?v=jHP942Livy0) 2024 remake
+[Connextras dishwasher follow up (the sequel) - YouTube](https://www.youtube.com/watch?v=0Kp3bjm55xw)
+[Detergent packs are kinda wishy-washy (Dishwashers Explained) - YouTube](https://www.youtube.com/watch?v=_rBO8neWw04)
+[I messed up. You're using too much detergent. - YouTube](https://www.youtube.com/watch?v=Ll6-eGDpimU)
 
 # Washing Machine
 

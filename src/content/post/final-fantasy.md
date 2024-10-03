@@ -2,14 +2,14 @@
 title: Final Fantasy
 description: ""
 created: 2023-08-23
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - final-fantasy
   - games
 ---
 
-[Final Fantasy - Wikiwand](https://www.wikiwand.com/en/Final%20Fantasy)
-[最終幻想系列 - Wikiwand](https://www.wikiwand.com/zh/%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97)
+[Final Fantasy - Wikiwand](https://omni.wikiwand.com/en/Final%20Fantasy)
+[最終幻想系列 - Wikiwand](https://omni.wikiwand.com/zh/%E6%9C%80%E7%B5%82%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97)
 
 # FF7
 

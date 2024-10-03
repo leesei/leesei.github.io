@@ -2,7 +2,7 @@
 title: Monster Hunter Rise
 description: ""
 created: 2020-01-16
-updated: 2023-09-29
+updated: 2024-09-23
 tags:
   - games
   - mhr
@@ -100,14 +100,11 @@ Assassin 月
 [MHRise 攻略｜全武器快速上手教學合集　連招詳細說明＋使用心得](https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/603334/)
 [魔物獵人 崛起 (Monster Hunter Rise) 武器使用方法 | 娛樂計程車](https://www.entertainment14.net/blog/post/110969064-%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA-%E5%B4%9B%E8%B5%B7-monster-hunter-rise-%E6%AD%A6%E5%99%A8%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95)
 
-[gaijin hunter MHRise tutorial - YouTube](https://www.youtube.com/c/gaijinhunter/search?query=mhrise%20tutorial)
-[莎皮塞維爾 MHRise 武器基礎教學 - YouTube](https://www.youtube.com/c/Xavier%E5%A1%9E%E7%B6%AD%E7%88%BE%E5%AF%A6%E6%B3%81%E9%A0%BB%E9%81%93Successor/search?query=MHRise%20%E6%AD%A6%E5%99%A8%E5%9F%BA%E7%A4%8E%E6%95%99%E5%AD%B8)
+[gaijin hunter MHRise tutorial - YouTube](https://www.youtube.com/@gaijinhunter/search?query=mhrise%20tutorial)
+[魔物獵人崛起-小攻略集 - YouTube](https://www.youtube.com/playlist?list=PLnHHN0HxS4BQPdKRXdtJ5b7rvfQM9Max3) 莎皮塞維爾
 [GreenteaD 綠茶哥 Rise 全武器教學 - YouTube](https://www.youtube.com/playlist?list=PLNPxf4y4WH1XtvILvjUmIibF65imMtSH7)
 [回首掏工作室 - YouTube](https://www.youtube.com/channel/UCx0o4KKRgRV957wj4kQXhfw)
 
-[【魔物獵人崛起 MHRise】片手劍 - 一把將坦克砲管插在魔物身上的武器! | 武器基礎教學 - 莎皮塞維爾 - YouTube](https://www.youtube.com/watch?v=lzNdQ474ohE)
-
-[【魔物獵人崛起 MHRise】太刀 - 一把反擊之王的中二武器! | 武器基礎教學 - 莎皮塞維爾 - YouTube](https://www.youtube.com/watch?v=xIybSoil5o4)
 [居合的極意！太刀新手教學，初階到高階使用技巧 【魔物獵人崛起 | 亞比】 - YouTube](https://www.youtube.com/watch?v=TqDW4zYbGgY)
 [魔物獵人崛起 進階太刀操作指南 | 10 分內 KO 泡狐不是問題 | 10 秒內升上紅刃 | 10 種進階技巧心得 | 學會可以至少打 10 個 | MHRise demo - YouTube](https://www.youtube.com/watch?v=ScD5bmsNKZI)
 [魔物獵人崛起 太刀技巧指南 上位篇 | 交換技和魔物打法、武器展望、防具推薦 | 大家都可以平均 8 分或 10 內 KO 掉魔物而且全部位破壞!! | MHRise 太刀 - YouTube](https://www.youtube.com/watch?v=3dP5CenUGBE)

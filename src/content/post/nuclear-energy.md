@@ -2,7 +2,7 @@
 title: Nuclear Energy
 description: ""
 created: 2023-05-27
-updated: 2023-09-29
+updated: 2024-09-19
 tags:
   - energy
   - science
@@ -30,8 +30,9 @@ Small Modular Reactor
 [The Future of Nuclear Energy Depends On This... - YouTube](https://www.youtube.com/watch?v=9p-ZxTnNdF4)
 
 - Gen 1: 1950s, prototypes
-- Gen 2: 1960s,Pressurized water reactors (PWR), Boiling water reactors (BWR)
+- Gen 2: 1960s, Pressurized water reactors (PWR), Boiling water reactors (BWR)
 - Gen 3: 2000s, more efficient, passive safety
+- Gen 4: 2020s, fast neutron reactors, reuse nuclear waste, combine with thermal energy storage (TES)
 
 [The Uncertain Future of Nuclear Power - YouTube](https://www.youtube.com/watch?v=INl3pCXm6Tw) Gen 4
 
@@ -40,9 +41,10 @@ Small Modular Reactor
 高功率管道式反應堆/輕水石墨堆 RBMK
 [After years of doubts, hopes grow that nuclear fusion is finally for real and could help address climate change - The Boston Globe](https://www.bostonglobe.com/2021/12/22/science/after-years-doubts-hopes-grow-that-nuclear-fusion-is-finally-real-could-help-address-climate-change/)
 
-[Breakthrough Energy Source Makes Other Power Plants Obsolete! - YouTube](https://www.youtube.com/watch?v=Pct9rD4B2x4) Traveling Wave Reactor, breed and burn, uses depleted uranium as fuel
+[Breakthrough Energy Source Makes Other Power Plants Obsolete! - YouTube](https://www.youtube.com/watch?v=Pct9rD4B2x4) Traveling Wave Reactor, breed and burn, uses depleted Uranium as fuel
+[新核能安全嗎？比爾蓋茲第四代核電廠動土！儲電技術竟然取經太陽能？ - YouTube](https://www.youtube.com/watch?v=-fYLHSQubNk) 快中子滋生反應堆
 
-[太阳为啥不会瞬间就炸掉？核聚变比人体放热还缓慢吗？李永乐老师讲人造太阳（1） - YouTube](https://www.youtube.com/watch?v=vqXkZOL1nQs&t=2s)
+[太阳为啥不会瞬间就炸掉？核聚变比人体放热还缓慢吗？李永乐老师讲人造太阳（1） - YouTube](https://www.youtube.com/watch?v=vqXkZOL1nQs)
 
 ### Nuclear Waste
 
@@ -52,20 +54,31 @@ Small Modular Reactor
 
 ### Small Modular Reactor (SMR)
 
-[Small modular reactor - Wikiwand](https://www.wikiwand.com/en/Small_modular_reactor) it is less efficient than traditional nuclear plant
+[Small modular reactor - Wikiwand](https://omni.wikiwand.com/en/Small_modular_reactor) it is less efficient than traditional nuclear plant
 [Small nuclear power reactors - World Nuclear Association](http://www.world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-power-reactors/small-nuclear-power-reactors.aspx)
 [Advanced Small Modular Reactors (SMRs) | Department of Energy](https://www.energy.gov/ne/advanced-small-modular-reactors-smrs)
 [Benefits of Small Modular Reactors (SMRs) | Department of Energy](https://www.energy.gov/ne/benefits-small-modular-reactors-smrs)
 
 [Why Small Modular Nuclear Reactors Are the KEY - YouTube](https://www.youtube.com/watch?v=UJ_b8y0LbMw)
+[Nuclear 4.0 | The Small Modular Reactor Revolution - YouTube](https://www.youtube.com/watch?v=ydeMrFcwA1o)
 
 - light water reactor
 - fast neutron reactor
 - very high temperature reactor (graphite moderated)
-- non-light water coolant reactor
+- non-light water coolant reactor (e.g. )
 
 [最安全的核電廠？郭董提的小型核電廠 SMR，在中國已有併網發電實例！用發電量換安全性，真的遇到停電也不怕？ - YouTube](https://www.youtube.com/watch?v=29WGNfuxIxc)
 [台灣反核的同時，世界大國卻拚命發展新技術，「小型核電廠」真有那麼神？-風傳媒](https://www.storm.mg/lifestyle/4116728)
+
+### Molten Salt Reactor
+
+> molten salt reactor inherently can be made modular
+
+[It's Happening - China Launches World's First Thorium Nuclear Reactor - YouTube](https://www.youtube.com/watch?v=t4EJQPWjFj8)
+
+- breeds non-radioactive Thorium 232 to Uranium 233
+- produces less actinides (radio-toxic elements with very long half-lives)
+-
 
 ### High-Temperature Gas-Cooled Reactor (HTGR)
 
@@ -78,9 +91,7 @@ Can be cooled passively at air temperature without meltdown
 
 ## Nuclear Fusion
 
-[ITER - Wikiwand](https://www.wikiwand.com/en/iter)
-
-[Nuclear fusion - Wikiwand](https://www.wikiwand.com/en/Nuclear_fusion)
+[Nuclear fusion - Wikiwand](https://omni.wikiwand.com/en/Nuclear_fusion)
 [A Strange 1950s Technology Could Finally Bring Fusion Energy to the Grid](https://www.inverse.com/science/stellarator-nuclear-fusion-reactor)
 [Fusion - YouTube](https://www.youtube.com/playlist?list=PLbhKQRV6Toq4ocE3C1EwVbeY4ofwrPLn_) Improbable Matter
 
@@ -95,8 +106,14 @@ Q_total includes the energy required to create and maintain the plasma and the o
 
 Sabine Hossenfelder
 [How close is nuclear fusion power? - YouTube](https://www.youtube.com/watch?v=LJ4W1g-6JiY) hot fusion
-[Nuclear Fusion: Who'll Be First To Make It Work? - YouTube](https://www.youtube.com/watch?v=23W0t5-Ll)
+[Nuclear Fusion: Who'll Be First To Make It Work?Fusion - YouTube](https://www.youtube.com/watch?v=23W0t5-Ll)
 [Cold Fusion is Back (there's just one problem) - YouTube](https://www.youtube.com/watch?v=ZbzcYQVrTxQ)
+
+### Tokamak Fusion Reactor
+
+[ITER - Wikiwand](https://omni.wikiwand.com/en/iter)
+
+[Is The World's Largest Fusion Project Dead? - YouTube](https://www.youtube.com/watch?v=PAv3wUDxi4g) another delay of ITER into 2034
 
 ### Magnetic confinement fusion
 
@@ -119,24 +136,24 @@ High Temperature Superconductor
 
 ### Inertial confinement fusion
 
-[Inertial confinement fusion - Wikiwand](https://www.wikiwand.com/en/Inertial_confinement_fusion)
+[Inertial confinement fusion - Wikiwand](https://omni.wikiwand.com/en/Inertial_confinement_fusion)
 [Finally, a Fusion Reaction Has Generated More Energy Than Absorbed by The Fuel](https://www.sciencealert.com/for-the-first-time-a-fusion-reaction-has-generated-more-energy-than-absorbed-by-the-fuel)
 [Oil killer?: Why the race to harness the power of the sun just sped up | Financial Post](https://financialpost.com/commodities/energy/nuclear-fusion-why-the-race-to-harness-the-power-of-the-sun-just-sped-up)
 [可控核聚变重大突破：美国人用激光惯性约束实现点火！无限能源要来了吗？ - YouTube](https://www.youtube.com/watch?v=jr6Qu4m2tgI)
 
 ### Magneto-inertial fusion
 
-[Magneto-inertial fusion - Wikiwand](https://www.wikiwand.com/en/Magneto-inertial_fusion)
+[Magneto-inertial fusion - Wikiwand](https://omni.wikiwand.com/en/Magneto-inertial_fusion)
 
 [Helion | First to fusion](https://www.helionenergy.com/)
-[Helion Energy - Wikiwand](https://www.wikiwand.com/en/Helion_Energy)
+[Helion Energy - Wikiwand](https://omni.wikiwand.com/en/Helion_Energy)
 [A New Way to Achieve Nuclear Fusion: Helion - YouTube](https://www.youtube.com/watch?v=_bDXXWQxK38) uses the change in magnetic field to generate heat
 [打造世界第一台核聚变发电机？美国明星创业公司 Helion 是颠覆还是骗局？ - YouTube](https://www.youtube.com/watch?v=vn9WGg1ybt8)
 [The problems with Helion Energy - a response to Real Engineering - YouTube](https://www.youtube.com/watch?v=3vUPhsFoniw)
 
 ### Pebble-bed reactor
 
-[Pebble-bed reactor - Wikiwand](https://www.wikiwand.com/en/Pebble-bed_reactor) Generation 4
+[Pebble-bed reactor - Wikiwand](https://omni.wikiwand.com/en/Pebble-bed_reactor) Generation 4
 [What the US could learn from China's nuclear power expansion - CNET](https://www.cnet.com/news/why-the-us-should-learn-from-chinas-nuclear-power-expansion/)
 
 ## Nuclear Battery

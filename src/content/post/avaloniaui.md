@@ -2,7 +2,7 @@
 title: Avalonia UI
 description: ""
 created: 2022-05-03
-updated: 2023-09-29
+updated: 2024-02-19
 tags:
   - app
   - avalonia
@@ -38,6 +38,8 @@ dotnet new avalonia.mvvm -o MyApp
 [Nikita Tsukanov - AvaloniaUI - cross-platform XAML-oriented .NET UI framework - YouTube](https://www.youtube.com/watch?v=DLHhZJkSqWk)
 [A Cross Platform .NET UI Framework - Hello World in Avalonia UI - YouTube](https://www.youtube.com/watch?v=rho26Ik30D4)
 [Building Engaging Cross Platform Applications using Rider and Avalonia - YouTube](https://www.youtube.com/watch?v=kZCIporjJ70)
+
+[Avalonia UI for .NET: Project Overview from Mike James - InfoQ](https://www.infoq.com/news/2023/06/avalonia-mike-james/)
 
 ## Comparison
 

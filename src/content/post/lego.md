@@ -2,7 +2,7 @@
 title: LEGO
 description: ""
 created: 2016-06-12
-updated: 2023-11-28
+updated: 2024-08-28
 tags:
   - lego
   - toys
@@ -11,8 +11,10 @@ tags:
 [LEGO - YouTube](https://www.youtube.com/channel/UCP-Ng5SXUEt0VE-TXqRdL6g)
 [The LEGO Story - How it all started - YouTube](https://www.youtube.com/watch?v=qr_dTySMl7s)
 [LEGO 樂高如何從一間小木工廠成長為全球玩具巨頭？｜ LEGO 樂高｜巨頭的起源 - YouTube](https://www.youtube.com/watch?v=ro36Nin-_-g)
+[Why Lego Is So Expensive | So Expensive | Business Insider - YouTube](https://www.youtube.com/watch?v=-d8sNML3WT8)
 [The Economics of LEGO - YouTube](https://www.youtube.com/watch?v=zsHXFEOV83gs)
 [Why Lego won - YouTube](https://www.youtube.com/watch?v=pSdJBKhDmNo)
+[一盒樂高≈13把ak47？超越比特幣的硬通貨，被黑暗勢力操縱的自由女神，只有真正的兒童和罪犯會為其狂熱｜總裁聊聊 - YouTube](https://www.youtube.com/watch?v=-U6xSAreBsI)
 
 [How are LEGO Minifigures Made? | LEGO Factory Behind The Scenes - YouTube](https://www.youtube.com/watch?v=ChZotngQ3_8)
 [【中外玩具网披露塑料拼插积木发展历史】 - 中外玩具网](https://news.ctoy.com.cn/show-31866.html)
@@ -34,18 +36,13 @@ tags:
 [Bits N’ Bricks Podcast - YouTube](https://www.youtube.com/playlist?list=PLayhyO1epulTt6ZISzbVV-nTaKJSVKj93) podcast
 
 [LEGO Bricks In The Making - YouTube](https://www.youtube.com/watch?v=C3oiy9eekzk)
+[How It's Made: LEGO Sets - YouTube](https://www.youtube.com/watch?v=FsHeJXdJXOY)
 [How fan films shaped The Lego Movie - YouTube](https://www.youtube.com/watch?v=TVe5XPU10Zc)
 
 [The Brick Bible – The Scriptures in LEGO from Genesis to Revelation](https://thebrickbible.com/)
 [Lego Abominations | Evil Mad Scientist Laboratories](https://www.evilmadscientist.com/2006/lego-abominations/)
 [These What-If Scenarios Are Wonderful in Star Wars Lego Form](https://io9.gizmodo.com/with-the-help-of-legos-this-video-explores-a-series-of-1836935648/amp)
 [CSS LEGO Minifigure Maker](https://codepen.io/joshbader/pen/MZMzjr)
-
-[JK Brickworks - YouTube](https://www.youtube.com/@JKBrickworks)
-[brickitect - YouTube](https://www.youtube.com/@brickitect)
-[Brick Science - YouTube](https://www.youtube.com/@Brick_Science)
-[SpitBrix - YouTube](https://www.youtube.com/@SpitBrix)
-[Tiago Catarino - YouTube](https://www.youtube.com/@TiagoCatarino) LEGO designer
 
 [LEGO® 樂高 網上商店 | HobbyDigi.com 電購網](https://www.hobbydigi.com/zh_hant_hk/lego)
 [我的 LEGO 篇五：我去香港逛 LEGO 打卡六家店，两手空空回\_\_什么值得买](https://post.smzdm.com/p/alpzgxwp/)
@@ -57,32 +54,28 @@ tags:
 [MaxTime TV - YouTube](https://www.youtube.com/@maxtimetv)
 [raptor5120 - YouTube](https://www.youtube.com/@raptor5120) CGI that looks like stop motion
 [BrickBrosProductions - YouTube](https://www.youtube.com/@brickbrosproductions) LEGO in real life
-[Brickology - YouTube](https://www.youtube.com/channel/UCLfg320ARc0SCdgqRexWrOg)
-[Fancy Pants - YouTube](https://www.youtube.com/user/xxxfancypantsxxx)
-[Bricks Brought to Life - YouTube](https://www.youtube.com/c/bblanimation)
-[LCM brick show - YouTube](https://www.youtube.com/c/LCMbrickshow) history
+[JD Brick Productions - YouTube](https://www.youtube.com/@JDBrickProductions) famous battles
+[Brickology - YouTube](https://www.youtube.com/@Brickology)
+[Fancy Pants - YouTube](https://www.youtube.com/@xxxfancypantsxxx) Star Wars
+[Bricks Brought to Life - YouTube](https://www.youtube.com/@bblanimation)
+[LCM brick show - YouTube](https://www.youtube.com/@LCMhistory) history
 [TOPELE Filmstúdió - YouTube](https://www.youtube.com/@topelefilmstudio) good FX
 [Brick Rising - YouTube](https://www.youtube.com/@brickrising8768)
-MICHEALHICKHOXFilms <https://www.youtube.com/user/MlCHAELH>...
-ForestFire101 <https://www.youtube.com/user/forrestf>...
-Rioforce <https://www.youtube.com/user/LukeActi>...
-Paganomation <https://www.youtube.com/user/Paganoma>...
-BrickMotion <https://www.youtube.com/user/IamBrick>...
-onbeatman <https://www.youtube.com/user/Onbeatman>
-Legocloneaddict Productions <https://www.youtube.com/user/legoclon>...
-AkashLegoProductions <https://www.youtube.com/channel/UCNyb>...
-ForlornCreature <https://www.youtube.com/user/ForlornC>...
-Keshen8 <https://www.youtube.com/user/Keshen8>
-watsonfilms <https://www.youtube.com/user/watsonfilms>
+[forrestfire101 - YouTube](https://www.youtube.com/@forrestfire101)
+[Paganomation - YouTube](https://www.youtube.com/@Paganomation)
+[OnBeatMan - YouTube](https://www.youtube.com/@Onbeatman)
+[AkashLegoProductions - YouTube](https://www.youtube.com/@AkashLegoProductions) Marvel files
+[ForlornCreature - YouTube](https://www.youtube.com/@ForlornCreature) Minecraft
+[Keshen8 - YouTube](https://www.youtube.com/@Keshen8)
 mobdeli <https://www.youtube.com/user/mobdeli>
 Aaron Legg <https://www.youtube.com/user/LemonPuffs1>
-HarryandBillyBrick <https://www.youtube.com/user/HarryAnd>...
+HarryandBillyBrick <https://www.youtube.com/user/HarryAnd>
 BrickDictator <https://www.youtube.com/user/cashlego>
-Jampot <https://www.youtube.com/user/JampotAn>...
+Jampot <https://www.youtube.com/user/JampotAn>
 AKPstudios <https://www.youtube.com/user/AKPstudios>
 eananimation <https://www.youtube.com/user/eanimation>
-BrotherhoodWorkshop <https://www.youtube.com/user/Brotherh>...
-HamsterProductions <https://www.youtube.com/user/frankfre>...
+BrotherhoodWorkshop <https://www.youtube.com/user/Brotherh>
+HamsterProductions <https://www.youtube.com/user/frankfre>
 
 [Bricks in Motion](https://blog.bricksinmotion.com/)
 [The Brickfilmers Guild - Home](https://www.brickfilmersguild.com/)
@@ -132,14 +125,14 @@ HamsterProductions <https://www.youtube.com/user/frankfre>...
 [General LEGO Technic and robotics books – LEGO Engineering](http://www.legoengineering.com/general-lego-technic-and-robotics-books/)
 [book.robotedu.org/m/](http://book.robotedu.org/m/)
 
-[LEGO Technic Tora no Maki](http://www.isogawastudio.co.jp/legostudio/toranomaki/en/)
+[LEGO Technic Tora no Maki](http://www.isogawastudio.co.jp/legostudio/toranomaki/en/) 五十川芳仁
 
 [Sariel.pl » The Unofficial LEGO® Technic Builder’s Guide: 2nd edition](http://sariel.pl/2016/10/guide2/)
 [Unofficial LEGO Technic Builder's Guide: 2nd edition look through & comparison - YouTube](https://www.youtube.com/watch?v=07WxDcPPBFU)
 [The Unofficial LEGO Technic Builder’s Guide | JK Brickworks](https://jkbrickworks.com/unofficial-technic-builders-guide/)
 [The Unofficial LEGO Technic Builder's Guide 2nd Edition-淘宝网](https://item.taobao.com/item.htm?id=574165201700)
 
-## Games
+# Games
 
 LEGO City Undercover was meant to be the first LEGO game with voice acting.
 It was conceiving since 2010 and release in 2014 on Wii U.
@@ -147,12 +140,14 @@ This relationship with Nintendo leads to the LEGO Mario AR series.
 (LEGO Batman 2 in 2012 is the first LEGO game release with voice acting.)
 
 [LEGO Gaming - YouTube](https://www.youtube.com/@LEGOGaming)
-[List of Lego video games - Wikiwand](https://www.wikiwand.com/en/List_of_Lego_video_games)
+[List of Lego video games - Wikiwand](https://omni.wikiwand.com/en/List_of_Lego_video_games)
 [Every Lego Game That Has An Open World, Ranked](https://www.thegamer.com/lego-open-world-ranked/)
 [LEGO Games: The Playlist - an IGN Playlist by Playlist Team - IGN](https://www.ign.com/playlist/igneditorial/lists/lego-games-the-complete-playlist)
 
 [Retro LEGO Games We Miss Playing - YouTube](https://www.youtube.com/playlist?list=PLayhyO1epulQUwFkswXLzAZpNmUebwfPx)
 [Nostalgia STUDy - Lego Rock Raiders - YouTube](https://www.youtube.com/watch?v=xa5m_Vm2wMM)
+
+[Lego Racers Can't Be Made Today - YouTube](https://www.youtube.com/watch?v=24t6w-7xNPs)
 
 [Steam Community :: Guide :: Additional Configuration Options](https://steamcommunity.com/sharedfiles/filedetails/?id=453669653) LEGO game's `pcconfig.txt`
 
@@ -171,18 +166,34 @@ This relationship with Nintendo leads to the LEGO Mario AR series.
 
 MOC = My Own Creation
 
+[LEGO® Geometry](https://miek.nl/downloads/2019/lego.pdf)
+
 [LEGO IDEAS - Home](https://ideas.lego.com/#all)
 [Rebrickable | Rebrickable - Build with LEGO](https://rebrickable.com/)
 [Imagine, Build and Trade LEGO MOCs - BrickLink MOC Edition](https://moc.bricklink.com/pages/moc/index.page) stud.io, with instructions
 [Studio Gallery [BrickLink]](https://www.bricklink.com/v3/studio/gallery.page)
 [Brickshelf](http://www.brickshelf.com/)
 [Bricksafe](https://bricksafe.com/)
-[Brickmania | Custom Military Building Kits and BrickArms Weapons](https://www.brickmania.com/)
+[Brickmania | Custom Military Building Kits and BrickArms Weapons](https://www.brickmania.com/) military
+
+[Brick Science - YouTube](https://www.youtube.com/@Brick_Science)
+[brickitect - YouTube](https://www.youtube.com/@brickitect)
+[BrickMecha - YouTube](https://www.youtube.com/@BrickMecha) mini-scale
+[Charbel's LEGO TECHNIC Creations - YouTube](https://www.youtube.com/@CharbelLEGOcreation/featured) Technic, cars
+[DesignJunkie58 - YouTube](https://www.youtube.com/@DesignJunkie58) Technic, cars
+[Jamie's Lego Jams - YouTube](https://www.youtube.com/@JamiesLegoJams)
+[LegoForces - YouTube](https://www.youtube.com/@legoforces8830/) Technic, cars and military
 [LionBricks - YouTube](https://www.youtube.com/@LionBricks)
+[Mydifferentusernames lego gun videos reuploaded by other channels - YouTube](https://www.youtube.com/playlist?list=PLIpkIt_byspWxHBZXEz7r4Trrbq4L4rhR) military
 [RJMBricks - YouTube](https://www.youtube.com/@RJMBricks)
-[LEGO Engineering – Inspiration and support for LEGO-based engineering in the classroom](http://www.legoengineering.com/)
-[Lego Technic Mastery - YouTube](https://www.youtube.com/@legotechnicmastery)
-[Mydifferentusernames lego gun videos reuploaded by other channels - YouTube](https://www.youtube.com/playlist?list=PLIpkIt_byspWxHBZXEz7r4Trrbq4L4rhR) LEGO firearms
+[Sacred - YouTube](https://www.youtube.com/@SacredBricks)
+[SpitBrix - YouTube](https://www.youtube.com/@SpitBrix) reviews LEGO sets
+[The B3 - YouTube](https://www.youtube.com/@TheB3) tower series
+[TheJumiFilm - YouTube](https://www.youtube.com/@TheJumiFilm)
+[TD BRICKS - YouTube](https://www.youtube.com/@TDBRICKS)
+[Tiago Catarino - YouTube](https://www.youtube.com/@TiagoCatarino) LEGO Designer
+[Lego Technic Mastery - YouTube](https://www.youtube.com/@legotechnicmastery) Technic
+[BrickTok 積玩視界 - YouTube](https://www.youtube.com/@bricktok)
 
 [Forums - Eurobricks Forums](https://www.eurobricks.com/forum/index.php?/forums/)
 [[KEY TOPIC] Official Lego sets made in LDraw - Digital LEGO: Tools, Techniques, and Projects - Eurobricks Forums](https://www.eurobricks.com/forum/index.php?/forums/topic/48285-key-topic-official-lego-sets-made-in-ldraw/) !important
@@ -192,13 +203,15 @@ MOC = My Own Creation
 [首页-MOC 图纸小店-淘宝网](https://shop126623282.taobao.com/)
 [首頁-MOC 磚友之家-淘寶網](https://shop261726840.world.taobao.com/)
 
-[Kos Brick - YouTube](https://www.youtube.com/@KosBrick)
+[Kos Brick - YouTube](https://www.youtube.com/@KosBrick) mini-scale, anime, military
 [Lego Transformer G1 Autobot Mini Vehicles - Part 1 (Tutorial) - YouTube](https://www.youtube.com/watch?v=zDQmDeT06fU)
 [Lego Transformer G1 Autobot Mini Vehicles - Part 2 (Tutorial) - YouTube](https://www.youtube.com/watch?v=0lDgCiYn3bI)
 
 [6 YouTube Channels to Help Master Your LEGO Design Skills – Review Geek](https://www.reviewgeek.com/41577/6-youtube-channels-to-help-master-your-lego-design-skills/)
 
-[Playwell Bricks - YouTube](https://www.youtube.com/@PlaywellBricks)
+[Playwell Bricks - YouTube](https://www.youtube.com/@PlaywellBricks) LEGO Studio, LEGO design
+[Studio Tutorials - YouTube](https://www.youtube.com/playlist?list=PLaEL-gouFOoHg5Okoua-cIGxjyrPOOUql)
+[LEGO® MOC Design Tutorial - Introduction to LEGO® Math! - YouTube](https://www.youtube.com/watch?v=WqSMO4Cbqpw&list=PLaEL-gouFOoF3dO2LJn8bvQN5vl1wN3he)
 [Design Theory - YouTube](https://www.youtube.com/playlist?list=PLaEL-gouFOoGcDWKflw8rENiOHyCVSP3g)
 [Basic Brick Tutorials - YouTube](https://www.youtube.com/playlist?list=PLaEL-gouFOoHpTmu4GL2hJnSeT-g2EJXo)
 [Intermediate Brick Tutorials - YouTube](https://www.youtube.com/playlist?list=PLaEL-gouFOoFDFsV5KUC3dZJ96epfr8u0)
@@ -209,26 +222,19 @@ MOC = My Own Creation
 Nathanael Kuipers, ex Lego designer
 
 [JK Brickworks | A Life of LEGO­® Bricks](https://jkbrickworks.com/)
-[JK Brickworks - YouTube](https://www.youtube.com/channel/UCUaiGrBfRCaC6pL7ZnZjWbg)
+[JK Brickworks - YouTube](https://www.youtube.com/@JKBrickworks) Technic, machines
 
 [Sariel.pl » Ideas](http://sariel.pl/category/ideas/)
 [Sariel's LEGO® Workshop - YouTube](https://www.youtube.com/user/searme/featured)
 
+[The Building Block Blog – Lego Technic MOC'S and more…](https://thebuildingblockblog.wordpress.com/)
+[LEGO Engineering – Inspiration and support for LEGO-based engineering in the classroom](http://www.legoengineering.com/)
+
 [Home - Pascal's Bricks](https://www.pascalsbricks.co.za/) Studio files
 [Video Tutorials Archive - Pascal's Bricks](https://www.pascalsbricks.co.za/video-tutorials/)
 
-[Yoshihito ISOGAWA - YouTube](https://www.youtube.com/channel/UCPNU1kNoIec6un4cs8Cikbw)
-
-[LForces LEGO TECHNIC instructions](http://www.lforces.com/) MOC pirated by 開智
-[LegoForces - YouTube](https://www.youtube.com/channel/UCWnlx0RZC1idJjLC5nEw6iQ)
-
-[Mini LEGO Youtuber - YouTube](https://www.youtube.com/channel/UCHbNp6MZcG2lKUKcmjbBNuw)
-[DesignJunkie58 - YouTube](https://www.youtube.com/channel/UCdsE5oH05X89amDPlP02DNQ)
-[Charbel's LEGO TECHNIC Creations - YouTube](https://www.youtube.com/channel/UCCatxt6gCy3dvnVZnqMYa6w)
-
-[The Building Block Blog – Lego Technic MOC'S and more…](https://thebuildingblockblog.wordpress.com/)
-
 [LEGOstudio Homepage](http://www.isogawastudio.co.jp/legostudio/) 五十川芳仁
+[Yoshihito ISOGAWA - YouTube](https://www.youtube.com/@ISOGAWAYoshihito/) Technic
 
 [LEGO Macintosh classic with Wi-Fi and e‑paper display running docker](https://jann.is/lego-macintosh-classic/)
 [LGR - Building a Lego Apple 2 Computer! - YouTube](https://www.youtube.com/watch?v=_iPruO3p6v0)
@@ -297,6 +303,17 @@ Mitu set:
 [936 电磁大炮 之一 图片 - 小米社区官方论坛](http://bbs.xiaomi.cn/t-15198946)
 [米兔越野车第二版 - 小米社区官方论坛](http://bbs.xiaomi.cn/t-15115810)
 [米兔巡线小车 - 小米社区官方论坛](http://bbs.xiaomi.cn/t-14835591)
+
+### Studs Not On Top (SNOT)
+
+[LEGO SNOT techniques - Swooshable](https://swooshable.com/snot)
+
+[A Short History of LEGO SNOT - BrickNerd - All things LEGO and the LEGO fan community](https://bricknerd.com/home/a-short-history-of-snot-2-21-2021)
+[LEGO SNOT Basics: Geometry, Techniques and Pitfalls - BrickNerd - All things LEGO and the LEGO fan community](https://bricknerd.com/home/snot-basics-geometry-techniques-and-pitfalls-3-18-2021)
+[LEGO SNOT: Advanced Techniques and Implementations - BrickNerd - All things LEGO and the LEGO fan community](https://bricknerd.com/home/lego-snot-advanced-techniques-and-implementations-5-12-21)
+
+[How to Build S.N.O.T Method With Lego : 7 Steps - Instructables](https://www.instructables.com/How-To-Build-SNOT-Method-With-Lego/)
+[LEGO Building Techniques - SNOT - Towering Brick Creations](https://toweringbrickcreations.com/2020/08/26/lego-building-techniques-snot/)
 
 ### Horizon Zero Dawn
 
@@ -389,7 +406,7 @@ Kos Brick
 [A Yoda Christmas - LEGO Star Wars - YouTube](https://www.youtube.com/watch?v=l3WMeuU0byY)
 [The Star Wars MOC Index - LEGO Star Wars - Eurobricks Forums](https://www.eurobricks.com/forum/index.php?/forums/topic/69834-the-star-wars-moc-index/)
 [Find LEGO MOCs with Building Instructions | Rebrickable - Build with LEGO](https://rebrickable.com/mocs/?theme=163) Star Wars Mini
-[lego star wars mini moc vechicles - Google Search](https://www.google.com/search?q=lego+star+wars+mini+moc+vechicles&tbm=isch&ved=2ahUKEwjvp8ynoqXoAhVjEqYKHXdMA3gQ2-cCegQIABAA&oq=lego+star+wars+mini+moc+vechicles&gs_l=img.3...6608.11366..11535...0.0..0.90.794.10......0....1..gws-wiz-img.......35i39j0i30j0i8i30.FP0HhXIyV-Y&ei=8LpyXu_vCeOkmAX3mI3ABw&bih=618&biw=1218)
+[lego star wars mini moc vechicles - Google Search](https://www.google.com/search?q=lego+star+wars+mini+moc+vechicles&tbm=isch&ved=2ahUKEwjvp8ynoqXoAhVjEqYKHXdMA3gQ2-cCegQIABAA&oq=lego+star+wars+mini+moc+vechicles&gs_l=img.36608.11366..115350.0..0.90.794.100.1..gws-wiz-img.35i39j0i30j0i8i30.FP0HhXIyV-Y&ei=8LpyXu_vCeOkmAX3mI3ABw&bih=618&biw=1218)
 
 [LEGO Star Wars T-47 Airspeeder/Snowspeeder Instructions - YouTube](https://www.youtube.com/watch?v=JchCHfMsIOE)
 
@@ -817,7 +834,7 @@ Motor shafts:
 [2 毫米 3 毫米电机轴转接件 兼容积木齿轮轮胎-淘宝网](https://item.taobao.com/item.htm?id=37535841134)
 [Pololu 正品 1001/1002 电机轴接乐高齿轮轮胎 适配件 转接件-淘宝网](https://item.taobao.com/item.htm?id=38327947230)
 [M3 Motor Shaft Adapter for Lego 94.8 x 44R Wheels by RobertCL - Thingiverse](https://www.thingiverse.com/thing:1012622)
-[TT Motor Smart Car to Lego Axel Adapter - Please send feedbacks, likes, photos :-).... by avios - Thingiverse](https://www.thingiverse.com/thing:1750406)
+[TT Motor Smart Car to Lego Axel Adapter - Please send feedbacks, likes, photos :-). by avios - Thingiverse](https://www.thingiverse.com/thing:1750406)
 [Reduction from the MIG500 motor shaft to LEGO axle by lukasdulik - Thingiverse](https://www.thingiverse.com/thing:2654720)
 
 Batteries:
@@ -830,7 +847,7 @@ Batteries:
 
 IR receiver + 2 PF ports
 
-[Lego Technic - Wikiwand](https://www.wikiwand.com/en/Lego_Technic)
+[Lego Technic - Wikiwand](https://omni.wikiwand.com/en/Lego_Technic)
 
 [Products - Power functions LEGO.com](https://www.lego.com/en-us/powerfunctions/products)
 [Power Functions | LEGO Shop](https://shop.lego.com/en-US/Power-Functions)

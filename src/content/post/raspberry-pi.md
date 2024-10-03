@@ -2,7 +2,7 @@
 title: Raspberry Pi
 description: ""
 created: 2018-09-12
-updated: 2023-11-26
+updated: 2024-05-12
 tags:
   - iot
   - maker
@@ -76,6 +76,8 @@ ExplainingComputers:
 
 [Raspberry Pi 5: EVERYTHING you need to know - YouTube](https://www.youtube.com/watch?v=nBtOEmUqASQ)
 [Raspberry Pi 5 - YouTube](https://www.youtube.com/watch?v=9hYfQ7bRgZg)
+
+[树莓派5的五个有趣细节 - YouTube](https://www.youtube.com/watch?v=XJ4BOrl-SBA)
 
 ## updating
 
@@ -430,12 +432,15 @@ omxplayer -o hdmi video.h264 # plaback video
 
 [BliKVM products | blicube](https://www.blicube.com/blikvm-products/)
 [ThomasVon2021/blikvm: Open and cost-effective "KVM-over-IP". BliKVM comes in 4 different models, v1 CM4, v2 PCIe, v3 HAT and v4 Allwinner, based on Raspberry Pi and Allwinner SoC.](https://github.com/ThomasVon2021/blikvm)
+[Never Pay For IPMI Again - BliKVM Review - YouTube](https://www.youtube.com/watch?v=Wn5UXY4W6E0)
 
 [BliKVM Plug-n-Play PCIe - Raspberry Pi CM4, KVM-over-IP, easy-to-use - Seeed Studio](https://www.seeedstudio.com/BliKVM-Plug-n-Play-PCIe-p-5623.html)
 [I put a computer in my computer - YouTube](https://www.youtube.com/watch?v=cVWF3u-y-Zg)
 
 [The Modern, Open-Source KVM over IP | TinyPilot](https://tinypilotkvm.com/)
 [tiny-pilot/tinypilot: Use your Raspberry Pi as a browser-based KVM.](https://github.com/tiny-pilot/tinypilot)
+
+[Blicube BliKVM V4: Is This the Best Linux IP KVM Yet? - YouTube](https://www.youtube.com/watch?v=sbH9-fmWBS8)
 
 ## As Desktop PC
 

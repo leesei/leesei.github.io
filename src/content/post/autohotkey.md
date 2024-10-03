@@ -2,7 +2,7 @@
 title: AutoHotKey
 description: The ultimate automation scripting language for Windows.
 created: 2023-02-16
-updated: 2023-09-29
+updated: 2024-09-06
 tags:
   - app
   - automation
@@ -143,3 +143,8 @@ if ($Audio.Name.StartsWith($device1)) {
 
 [[GUI] Traytip/Toast Notification Windows 10/11 - Title remove of modify - AutoHotkey Community](https://www.autohotkey.com/boards/viewtopic.php?t=108920)
 [ActiveScript.ahk/Example_JsRT_Toast.ahk at master · Lexikos/ActiveScript.ahk](https://github.com/Lexikos/ActiveScript.ahk/blob/master/Example_JsRT_Toast.ahk) better than `TrayTip`
+
+### WinHole
+
+[[Script] WinHole - AutoHotkey Community](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=30622)
+[窗口洞洞波 - 让鼠标穿透当前窗口，到桌面操作文件[Windows] - 小众软件](https://www.appinn.com/winhole/)

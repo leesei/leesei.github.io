@@ -2,7 +2,7 @@
 title: Summons Board
 description: ""
 created: 2016-09-11
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - games
 ---

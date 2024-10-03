@@ -2,7 +2,7 @@
 title: Natural Language
 description: ""
 created: 2015-04-10
-updated: 2023-11-14
+updated: 2024-09-29
 tags:
   - chinese
   - english
@@ -24,6 +24,7 @@ tags:
 [What makes a language... a language? - Martin Hilpert - YouTube](https://www.youtube.com/watch?v=_Z_FOtfKyfo)
 A language is a dialect with an army and a navy. - Max Weinreich
 [Dialect vs. Accent: What’s the difference?](https://blog.duolingo.com/dialect-vs-accent-definition/?utm_source=duonews&utm_medium=EN)
+[K Klein - YouTube](https://www.youtube.com/@kklein)
 
 [語之奧秘](http://languagemystery.blogspot.com/)
 
@@ -71,6 +72,15 @@ Wanda Skyes
 
 [⏪！吧「戲遊帶倒」玩來起一](https://nicechord.com/post/reversed-audio/)
 
+## Rhetoric
+
+[Rhetoric - Wikiwand](https://omni.wikiwand.com/en/Rhetoric) the art of persuasion
+[修辞学 - Wikiwand](https://omni.wikiwand.com/zh/%E4%BF%AE%E8%BE%9E%E5%AD%A6)
+
+- Logos: Logic/Reason
+- Pathos: Appeal to emotion
+- Ethos: Credibility/Trustworthiness
+
 ## Typing
 
 [Learn Touch Typing Free - TypingClub](https://www.typingclub.com/)
@@ -107,7 +117,7 @@ Wanda Skyes
 [John McWhorter on the Evolution of Language and Words on the Move | EconTalk | Library of Economics and Liberty](http://www.econtalk.org/archives/2017/08/john_mcwhorter.html)
 
 [Separated by a Common Language](https://separatedbyacommonlanguage.blogspot.com/) Observations on British and American English by an American linguist in the UK
-[Comparison of American and British English - Wikiwand](https://www.wikiwand.com/en/Comparison_of_American_and_British_English)
+[Comparison of American and British English - Wikiwand](https://omni.wikiwand.com/en/Comparison_of_American_and_British_English)
 
 [The English Notes 英語學習筆記](http://the-english-notes.blogspot.com/)
 
@@ -155,7 +165,7 @@ Contractions are abbreviations in which letters from the middle of the word are 
 
 ### Etymologies
 
-[Etymology - Wikiwand](https://www.wikiwand.com/en/Etymology)
+[Etymology - Wikiwand](https://omni.wikiwand.com/en/Etymology)
 
 [Online Etymology Dictionary | Origin, history and meaning of English words](https://www.etymonline.com/)
 [Word origins | OxfordWords blog](https://blog.oxforddictionaries.com/category/word-origins/)
@@ -165,7 +175,8 @@ Contractions are abbreviations in which letters from the middle of the word are 
 
 ### History of English
 
-[History of the English language - Wikiwand](http://www.wikiwand.com/en/History_of_the_English_language)
+[History of the English language - Wikiwand](http://omni.wikiwand.com/en/History_of_the_English_language)
+[Tracing English as far back as possible - YouTube](https://www.youtube.com/watch?v=IeAx3QZ7eRs)
 
 English evolved from Proto-Indo-European language
 
@@ -174,16 +185,16 @@ Stems are created with several observed rules:
 - Vowel Shifts
 - Consonant Shifts
   g k h, d t s, u v w, m n l r, b p m f v
-- [Verner's law - Wikiwand](https://www.wikiwand.com/en/Verner%27s_law)
-- [Grimm's law - Wikiwand](https://www.wikiwand.com/en/Grimm%27s_law)
-- [Grassmann's law - Wikiwand](https://www.wikiwand.com/en/Grassmann%27s_law)
+- [Verner's law - Wikiwand](https://omni.wikiwand.com/en/Verner%27s_law)
+- [Grimm's law - Wikiwand](https://omni.wikiwand.com/en/Grimm%27s_law)
+- [Grassmann's law - Wikiwand](https://omni.wikiwand.com/en/Grassmann%27s_law)
 
 [Language Evolution: How One Language Became Five Languages](https://www.wondriumdaily.com/language-evolution-one-language-became-five-languages/)
 [Proto-Germanic and Germanic: Consonant Shifts and Vowel Changes](https://www.wondriumdaily.com/proto-germanic-and-germanic-consonant-shifts-and-vowel-changes/)
 [The Great Vowel Shift: How We Know Language Now](https://www.wondriumdaily.com/the-great-vowel-shift-how-we-know-language-now/)
 [The Processes of Sound Change](https://www.wondriumdaily.com/the-processes-of-sound-change/)
 
-English originates from the [Angles](http://www.emersonkent.com/tribes_and_peoples/angles.htm) from Germany, hence Angle-lish. [Anglo-Saxons](https://www.wikiwand.com/en/Anglo-Saxons) arrived England in the 5th century. They unified England in the [Norman Conquest](https://www.wikiwand.com/en/Norman_conquest_of_England) lead by [William the Conqueror](https://www.wikiwand.com/en/William_the_Conqueror) in 1066.
+English originates from the [Angles](http://www.emersonkent.com/tribes_and_peoples/angles.htm) from Germany, hence Angle-lish. [Anglo-Saxons](https://omni.wikiwand.com/en/Anglo-Saxons) arrived England in the 5th century. They unified England in the [Norman Conquest](https://omni.wikiwand.com/en/Norman_conquest_of_England) lead by [William the Conqueror](https://omni.wikiwand.com/en/William_the_Conqueror) in 1066.
 
 This is the reason why the name of the animal and its meat are different. The animal is Anglelish, the meat is French.
 
@@ -210,7 +221,7 @@ ang eng ac ank ack anch: acute
 
 > Morse code is Huffman coding before Huffman coding exists
 
-[Morse code - Wikiwand](https://www.wikiwand.com/en/Morse%20code)
+[Morse code - Wikiwand](https://omni.wikiwand.com/en/Morse%20code)
 
 [Hello Morse | Experiments with Google](https://experiments.withgoogle.com/collection/morse)
 [Morse - Learn](https://morse.withgoogle.com/learn/)
@@ -231,13 +242,19 @@ If you want to fixed some wrongdoing, do you want the amend the act or stick wit
 [What are the trickiest rules in English grammar pertaining to commonly used words? - Quora](https://www.quora.com/English-Grammar/What-are-the-trickiest-rules-in-English-grammar-pertaining-to-commonly-used-words) collocation
 
 Contranym: a word with two opposite meanings, e.g. sanction (which can mean both ‘a penalty for disobeying a law’ and ‘official permission or approval for an action’).
-[Auto-antonym - Wikiwand](https://www.wikiwand.com/en/Auto-antonym)
+[Auto-antonym - Wikiwand](https://omni.wikiwand.com/en/Auto-antonym)
 [75 Contronyms (Words with Contradictory Meanings)](https://www.dailywritingtips.com/75-contronyms-words-with-contradictory-meanings/)
 
 [One Sentence With 7 Meanings Unlocks a Mystery of Human Speech | WIRED](https://www.wired.com/story/one-sentence-with-7-meanings-unlocks-a-mystery-of-human-speech/)
 ["I never said she stole my money" has 7 Different Meanings - Fact-inator](http://factinator.com/i-never-said-she-stole-my-money/)
 
 [The english language is a giant meme.. - YouTube](https://www.youtube.com/watch?v=65CFesU4KVQ)
+
+[RobWords - YouTube](https://www.youtube.com/@RobWords)
+[This ruined English spelling - YouTube](https://www.youtube.com/watch?v=fmL6FClRC_s) The Great Vowel Shift (~15-18th century, coinciding with the transition ofj Middle English to Modern English and Gutenberg's printing press technology)
+[The invention that broke English spelling - YouTube](https://www.youtube.com/watch?v=Syp1DVQgN_g) Gutenberg's printing press forces English words to have a spelling
+[The weirdest things about English - YouTube](https://www.youtube.com/watch?v=6lhxxiqqlQY)
+[Why we should go back to writing in runes - YouTube](https://www.youtube.com/watch?v=4npuVmGxXuk)
 
 ### Readability
 
@@ -250,8 +267,8 @@ Contranym: a word with two opposite meanings, e.g. sanction (which can mean both
 [Write Better Stories with this Python Tool - Towards Data Science](https://towardsdatascience.com/write-better-stories-with-this-python-tool-ad1371158822)
 
 [What makes writing more readable?](https://pudding.cool/2022/02/plain/)
-[Plain language - Wikiwand](https://www.wikiwand.com/en/Plain_language)
-[Basic English - Wikiwand](https://www.wikiwand.com/en/Basic_English)
+[Plain language - Wikiwand](https://omni.wikiwand.com/en/Plain_language)
+[Basic English - Wikiwand](https://omni.wikiwand.com/en/Basic_English)
 
 ### Learning
 
@@ -413,7 +430,7 @@ em-dash used like colon to introduce list, or comma to separate out indefinite r
 
 ### Doge Grammar
 
-[Doge (meme) - Wikiwand](<https://www.wikiwand.com/en/Doge_(meme)>)
+[Doge (meme) - Wikiwand](<https://omni.wikiwand.com/en/Doge_(meme)>)
 
 [A Linguist Explains the Grammar of Doge. Wow. - The Toast](http://the-toast.net/2014/02/06/linguist-explains-grammar-doge-wow/)
 [How to speak Doge – Scientific Scribbles](https://blogs.unimelb.edu.au/sciencecommunication/2016/10/22/how-to-speak-doge/)
@@ -421,12 +438,12 @@ em-dash used like colon to introduce list, or comma to separate out indefinite r
 
 ### Euphemism
 
-[Doublespeak - Wikiwand](https://www.wikiwand.com/en/Doublespeak)
+[Doublespeak - Wikiwand](https://omni.wikiwand.com/en/Doublespeak)
 [DoubleSpeak, How to Lie without Lying - YouTube](https://www.youtube.com/watch?v=qP07oyFTRXc)
 
 ### Story Writing
 
-[Hero's journey - Wikiwand](https://www.wikiwand.com/en/Hero%27s_journey)
+[Hero's journey - Wikiwand](https://omni.wikiwand.com/en/Hero%27s_journey)
 [Hero's Journey 101: Definition and Step-by-Step Guide (With Checklist!)](https://blog.reedsy.com/heros-journey/)
 [The Hero's Journey - Mythic Structure of Joseph Campbell's Monomyth](http://www.movieoutline.com/articles/the-hero-journey-mythic-structure-of-joseph-campbell-monomyth.html)
 [The Stages of the Hero's Journey](https://www.tlu.ee/~rajaleid/montaazh/Hero%27s%20Journey%20Arch.pdf)
@@ -466,10 +483,10 @@ favor active over passive voice, except for:
 [音标 - YouTube](https://www.youtube.com/playlist?list=PLiRHe7F8P0-2wRRzK6nzriMTXyfRwKEG6) 英语兔
 [英语最重要的音标体系(DJ, KK, 韦氏, AHD...) - YouTube](https://www.youtube.com/watch?v=vRnRZ4umJxw)
 
-[English phonology - Wikiwand](https://www.wikiwand.com/en/English_phonology)
-[DJ 音標 - Wikiwand](https://www.wikiwand.com/zh-hant/DJ%E9%9F%B3%E6%A8%99) adopts IPA for received pronunciation
-[KK 音標 - Wikiwand](https://www.wikiwand.com/zh-hant/KK%E9%9F%B3%E6%A8%99) adopts IPA for American English
-[International Phonetic Alphabet - Wikiwand](https://www.wikiwand.com/en/International_Phonetic_Alphabet)
+[English phonology - Wikiwand](https://omni.wikiwand.com/en/English_phonology)
+[DJ 音標 - Wikiwand](https://omni.wikiwand.com/zh/DJ%E9%9F%B3%E6%A8%99) adopts IPA for received pronunciation
+[KK 音標 - Wikiwand](https://omni.wikiwand.com/zh/KK%E9%9F%B3%E6%A8%99) adopts IPA for American English
+[International Phonetic Alphabet - Wikiwand](https://omni.wikiwand.com/en/International_Phonetic_Alphabet)
 
 [Why Are A, E, I, O, U, And Y Called "Vowels"? - Dictionary.com](https://www.dictionary.com/e/vowels/)
 [The 44 Phonemes in English](https://www.dyslexia-reading-well.com/44-phonemes-in-english.html)
@@ -483,7 +500,7 @@ favor active over passive voice, except for:
 
 [Basic Spelling Rules Explained - Dictionary.com](https://www.dictionary.com/e/spelling-rules/)
 
-[Harvard sentences - Wikiwand](https://www.wikiwand.com/en/Harvard_sentences)
+[Harvard sentences - Wikiwand](https://omni.wikiwand.com/en/Harvard_sentences)
 [https://www.cs.columbia.edu/~hgs/audio/harvard.html](https://www.cs.columbia.edu/~hgs/audio/harvard.html)
 [www.cs.cmu.edu/afs/cs.cmu.edu/project/fgdata/OldFiles/Recorder.app/utterances/Type1/harvsents.txt](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/fgdata/OldFiles/Recorder.app/utterances/Type1/harvsents.txt)
 
@@ -505,7 +522,7 @@ Writings that is the same right-side up and upside down or normal and reflected 
 
 [Mandarin Chinese Pinyin Chart with Audio - Yabla Chinese](https://chinese.yabla.com/chinese-pinyin-chart.php)
 [Learn Mandarin Chinese Pronunciation with Tone Pair Audio | Yabla Chinese](https://chinese.yabla.com/chinese-tones-learn-the-right-way-with-tone-pairs.php)
-[Pinyin - Wikiwand](https://www.wikiwand.com/en/Pinyin)
+[Pinyin - Wikiwand](https://omni.wikiwand.com/en/Pinyin)
 [When do Chinese Tones Change? | Chinese Tone Guide - YouTube](https://www.youtube.com/watch?v=vl0eHgPP8Ms)
 
 [hapi](https://xyne.archlinux.ca/projects/hapi/) annotating Mandarin Chinese with phonetics (pinyin, zhuyin, etc.) and colors by tone
@@ -528,11 +545,11 @@ Writings that is the same right-side up and upside down or normal and reflected 
 
 [Online Jyutping Input Method 網上粵拼輸入法](http://www.jyutping.com/)
 
-[倉頡輸入法 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%80%89%E9%A0%A1%E8%BC%B8%E5%85%A5%E6%B3%95)
+[倉頡輸入法 - Wikiwand](https://omni.wikiwand.com/zh/%E5%80%89%E9%A0%A1%E8%BC%B8%E5%85%A5%E6%B3%95)
 [倉頡輸入法](https://www.fed.cuhk.edu.hk/readwrite/typing/)
 [【快速學倉頡】真正 10 分鐘完美 KO 倉頡輸入法（涵蓋所有字形，用盡 26 個字母！） - YouTube](https://www.youtube.com/watch?v=ZKOjwgIdM3k)
 
-[五筆字型輸入法 - Wikiwand](https://www.wikiwand.com/zh-hant/%E4%BA%94%E7%AC%94%E5%AD%97%E5%9E%8B%E8%BE%93%E5%85%A5%E6%B3%95)
+[五筆字型輸入法 - Wikiwand](https://omni.wikiwand.com/zh/%E4%BA%94%E7%AC%94%E5%AD%97%E5%9E%8B%E8%BE%93%E5%85%A5%E6%B3%95)
 [The Wubi Effect | Radiolab | WNYC Studios](https://www.wnycstudios.org/podcasts/radiolab/articles/wubi-effect)
 
 [行易有限公司 :: 嘸蝦米輸入法](https://boshiamy.com/)
@@ -541,19 +558,19 @@ Writings that is the same right-side up and upside down or normal and reflected 
 
 ### 注音
 
-[注音符號 - Wikiwand](https://www.wikiwand.com/zh/%E6%B3%A8%E9%9F%B3%E7%AC%A6%E8%99%9F)
+[注音符號 - Wikiwand](https://omni.wikiwand.com/zh/%E6%B3%A8%E9%9F%B3%E7%AC%A6%E8%99%9F)
 [EP 232 「注音符號」是怎麼來的？為什麼全世界只有台灣用注音？｜志祺七七 Podcast - YouTube](https://www.youtube.com/watch?v=1WKi-XhkrsE)
 
 ### 拼音
 
-[汉语拼音 - Wikiwand](https://www.wikiwand.com/zh/%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3)
+[汉语拼音 - Wikiwand](https://omni.wikiwand.com/zh/%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3)
 [拼音（拼读音节的过程）\_百度百科](https://baike.baidu.com/item/%E6%8B%BC%E9%9F%B3/322252)
 
-[香港政府粵語拼音 - Wikiwand](https://www.wikiwand.com/zh/%E9%A6%99%E6%B8%AF%E6%94%BF%E5%BA%9C%E7%B2%B5%E8%AA%9E%E6%8B%BC%E9%9F%B3)
-[香港語言學學會粵語拼音方案 - Wikiwand](https://www.wikiwand.com/zh/%E9%A6%99%E6%B8%AF%E8%AA%9E%E8%A8%80%E5%AD%B8%E5%AD%B8%E6%9C%83%E7%B2%B5%E8%AA%9E%E6%8B%BC%E9%9F%B3%E6%96%B9%E6%A1%88)
+[香港政府粵語拼音 - Wikiwand](https://omni.wikiwand.com/zh/%E9%A6%99%E6%B8%AF%E6%94%BF%E5%BA%9C%E7%B2%B5%E8%AA%9E%E6%8B%BC%E9%9F%B3)
+[香港語言學學會粵語拼音方案 - Wikiwand](https://omni.wikiwand.com/zh/%E9%A6%99%E6%B8%AF%E8%AA%9E%E8%A8%80%E5%AD%B8%E5%AD%B8%E6%9C%83%E7%B2%B5%E8%AA%9E%E6%8B%BC%E9%9F%B3%E6%96%B9%E6%A1%88)
 
-[臺灣語言音標方案 - Wikiwand](https://www.wikiwand.com/zh/%E8%87%BA%E7%81%A3%E8%AA%9E%E8%A8%80%E9%9F%B3%E6%A8%99%E6%96%B9%E6%A1%88)
-[臺語通用拼音 - Wikiwand](https://www.wikiwand.com/zh/%E8%87%BA%E8%AA%9E%E9%80%9A%E7%94%A8%E6%8B%BC%E9%9F%B3)
+[臺灣語言音標方案 - Wikiwand](https://omni.wikiwand.com/zh/%E8%87%BA%E7%81%A3%E8%AA%9E%E8%A8%80%E9%9F%B3%E6%A8%99%E6%96%B9%E6%A1%88)
+[臺語通用拼音 - Wikiwand](https://omni.wikiwand.com/zh/%E8%87%BA%E8%AA%9E%E9%80%9A%E7%94%A8%E6%8B%BC%E9%9F%B3)
 
 ### Dict
 
@@ -644,8 +661,8 @@ Writings that is the same right-side up and upside down or normal and reflected 
 ## Japanese
 
 [elearning 日語自遊行](http://www.rthk.org.hk/elearning/gogojapan/pronoun.html) 五十音
-[Hiragana - Wikiwand](https://www.wikiwand.com/en/Hiragana) 平仮名
-[Katakana - Wikiwand](https://www.wikiwand.com/en/Katakana) 片仮名
+[Hiragana - Wikiwand](https://omni.wikiwand.com/en/Hiragana) 平仮名
+[Katakana - Wikiwand](https://omni.wikiwand.com/en/Katakana) 片仮名
 つ is used as の before 奈良時代
 
 [何必日語 - YouTube](https://www.youtube.com/channel/UCZ5Wn4ss81cVKSk74Duv2BA)
@@ -699,7 +716,7 @@ ka ~> ga; ta ~> da; pa ~> ba
 
 ### 動詞變化
 
-[活用 (日語) - Wikiwand](<https://www.wikiwand.com/zh-hant/%E6%B4%BB%E7%94%A8_(%E6%97%A5%E8%AA%9E)>)
+[活用 (日語) - Wikiwand](<https://omni.wikiwand.com/zh/%E6%B4%BB%E7%94%A8_(%E6%97%A5%E8%AA%9E)>)
 
 - 未然形（第一變化）：後接「〜ない」、「〜う（よう）」（表示「意志」）
 - 連用形（第二變化）：後接丁寧語「～ます」、過去式「〜た」、希望「〜たい」、中止形「～て」
@@ -721,7 +738,7 @@ ka ~> ga; ta ~> da; pa ~> ba
 
 > 用漢字表示日文的書寫系統, 古名常用 "夜露死苦", "愛羅武勇", "阿離我拓", "阿里加都宇姑左伊馬須", "陀異守鬼", "魔苦怒奈流怒"
 
-[萬葉假名 - Wikiwand](https://www.wikiwand.com/zh-hant/%E8%90%AC%E8%91%89%E5%81%87%E5%90%8D)
+[萬葉假名 - Wikiwand](https://omni.wikiwand.com/zh/%E8%90%AC%E8%91%89%E5%81%87%E5%90%8D)
 [深日本#11 ▶ 你說的中文，大部份來自日文【和制漢語】｜好倫 - YouTube](https://www.youtube.com/watch?v=-pg1EYuLTME)
 [日語入門學習五十音圖之假名的含義來源 - 每日頭條](https://kknews.cc/culture/3e2bea.html)
 [萬葉假名：萬葉假名(日文:萬葉仮名 まんようがな)是假名的一種，主要用作上一 -華人百科](https://www.itsfun.com.tw/%E8%90%AC%E8%91%89%E5%81%87%E5%90%8D/wiki-5352427-9369107)
@@ -755,14 +772,14 @@ ka ~> ga; ta ~> da; pa ~> ba
 
 [沪江韩语-沪江旗下韩语学习资讯网站*韩语入门*在线学韩语](http://kr.hujiang.com/)
 [네이버 중국어사전 (NAVER 韩中词典)](http://cndic.naver.com/)
-[訓民正音 - Wikiwand](http://www.wikiwand.com/zh/訓民正音)
+[訓民正音 - Wikiwand](http://omni.wikiwand.com/zh/訓民正音)
 
 [Learn to Read Korean in 5 Minutes (seriously) - YouTube](https://www.youtube.com/watch?v=TE4eplsFSms)
 
 ## Sign language
 
-[Sign language - Wikiwand](https://www.wikiwand.com/en/Sign_language)
-[手語 - Wikiwand](https://www.wikiwand.com/zh-hant/%E6%89%8B%E8%AA%9E)
+[Sign language - Wikiwand](https://omni.wikiwand.com/en/Sign_language)
+[手語 - Wikiwand](https://omni.wikiwand.com/zh/%E6%89%8B%E8%AA%9E)
 
 [比中指也是手語嗎？手語可以國際通用？｜志祺七七 - YouTube](https://www.youtube.com/watch?v=a5MLK9RXzrA)
 
@@ -789,9 +806,9 @@ ka ~> ga; ta ~> da; pa ~> ba
 
 ## Indo-European/Proto-Indo-European Language
 
-[Indo-European languages - Wikiwand](http://www.wikiwand.com/en/Indo-European_languages)
-[Proto-Indo-European language - Wikiwand](http://www.wikiwand.com/en/Proto-Indo-European_language)
-[Proto-Indo-European phonology - Wikiwand](https://www.wikiwand.com/en/Proto-Indo-European_phonology)
+[Indo-European languages - Wikiwand](http://omni.wikiwand.com/en/Indo-European_languages)
+[Proto-Indo-European language - Wikiwand](http://omni.wikiwand.com/en/Proto-Indo-European_language)
+[Proto-Indo-European phonology - Wikiwand](https://omni.wikiwand.com/en/Proto-Indo-European_phonology)
 
 [The Indo-European language, pt. 1 (Linguistics) - Podcast](http://www.cmpod.net/ancient-indo-european-language-pt-1/)
 [The Indo-European Language, Pt. 2: Linguistics & Genetics](http://www.cmpod.net/indo-european-language-pt-2-linguistics-genetics/)
@@ -801,9 +818,10 @@ ka ~> ga; ta ~> da; pa ~> ba
 
 [Logical fallacy - RationalWiki](http://rationalwiki.org/wiki/Logical_fallacy)
 [Category:Fallacious arguments - RationalWiki](http://rationalwiki.org/wiki/Category:Fallacious_arguments)
-[List of cognitive biases - Wikiwand](https://www.wikiwand.com/en/List_of_cognitive_biases)
+[List of cognitive biases - Wikiwand](https://omni.wikiwand.com/en/List_of_cognitive_biases)
 [Category:Cognitive biases - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Category:Cognitive_biases)
 [Cognitive bias cheat sheet](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.luav9hnu2)
+[Every Logical Fallacy Explained in 11 Minutes - YouTube](https://www.youtube.com/watch?v=pCg-SNOteQQ)
 
 [RationalWiki](http://rationalwiki.org/wiki/Main_Page)
 
@@ -836,7 +854,7 @@ The XY problem is asking about your _attempted solution_ (Y) rather than your _a
 Magical thinking that leads to superstition
 
 [13 Common (But Silly) Superstitions](http://www.livescience.com/14141-13-common-silly-superstitions.html)
-[Cargo cult - Wikiwand](https://www.wikiwand.com/en/Cargo_cult)
+[Cargo cult - Wikiwand](https://omni.wikiwand.com/en/Cargo_cult)
 
 #### The Five Monkeys Experiment
 

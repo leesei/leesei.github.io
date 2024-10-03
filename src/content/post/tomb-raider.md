@@ -2,7 +2,7 @@
 title: Tomb Raider
 description: ""
 created: 2023-08-14
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - games
   - tomb-raider

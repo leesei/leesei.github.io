@@ -2,7 +2,7 @@
 title: Content Management Systems
 description: ""
 created: 2022-07-09
-updated: 2023-11-16
+updated: 2024-09-04
 tags:
   - business
   - cms
@@ -37,7 +37,11 @@ tags:
 
 [Top 12 Best Open Source CRM Software [2021]](https://itsfoss.com/best-open-source-crm/)
 
+[Personal CRM done right - Monica](https://www.monicahq.com/)
 [Monica: An Open-Source App for Personal Relationship Management](https://itsfoss.com/monica/)
+
+[ERPNext: Free and Open Source Cloud ERP Software](https://erpnext.com/)
+[GitHub - frappe/erpnext: Free and Open Source Enterprise Resource Planning (ERP)](https://github.com/frappe/erpnext)
 
 ## Headless CMS/Generic Data Model
 
@@ -93,6 +97,8 @@ docker run -d --name baserow \
 [Baserow - an Open Source, Self Hosted, No Code Database alternative to Airtable. - YouTube](https://www.youtube.com/watch?v=woTUh-6sEns)
 
 ### NocoDB
+
+> turns SQL database into spreadsheet, API, and dashboard
 
 [NocoDB | Turns your SQL database into a Nocode platform. Free & Open Source.](https://www.nocodb.com/)
 [NocoDB Documentation - NocoDB](https://docs.nocodb.com/)

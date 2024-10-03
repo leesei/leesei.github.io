@@ -2,7 +2,7 @@
 title: Web Frontend Frameworks
 description: ""
 created: 2022-08-23
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - frontend
   - javascript
@@ -42,6 +42,8 @@ Considerations:
 2023-02
 [The State of JS Frameworks with Ryan Carniato: Part 1 - JSJ 570 - YouTube](https://www.youtube.com/watch?v=FN-7CoyniD4)
 [The State of JS Frameworks with Ryan Carniato: Part 2 - JSJ 571 - YouTube](https://www.youtube.com/watch?v=embiPIZzP6E)
+
+[React vs HTMX - A Fascinating War - YouTube](https://www.youtube.com/watch?v=QBGJZ3h3n4c) 2024-04, React vs SolidJS vs HTMX
 
 [Six tips on front-end framework selection – Graeme Sutherland – Medium](https://medium.com/@grasuth/six-tips-on-front-end-framework-selection-c46f546d1250)
 
@@ -130,7 +132,7 @@ Considerations:
 ## OpenUI
 
 [OpenUI5](https://openui5.org/)
-[OpenUI5 - Wikiwand](https://www.wikiwand.com/en/OpenUI5)
+[OpenUI5 - Wikiwand](https://omni.wikiwand.com/en/OpenUI5)
 
 [SAPUI5 vs. OpenUI5](https://help.sap.com/doc/saphelp_uiaddon20/2.05/en-US/59/82a9734748474aa8d4af9c3d8f31c0/content.htm)
 
@@ -140,6 +142,13 @@ Considerations:
 
 [Window.js](https://windowjs.org/)
 [windowjs/windowjs: Window.js is an open-source Javascript runtime for desktop graphics programming.](https://github.com/windowjs/windowjs)
+
+## Reflex
+
+> build to HTML app with Bun
+
+[Reflex: Web apps in Pure Python](https://reflex.dev/)
+[Simple Task Tracker in Python - Reflex Tutorial - YouTube](https://www.youtube.com/watch?v=JyY2sZIrGb0)
 
 ## Archive
 

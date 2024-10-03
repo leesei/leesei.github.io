@@ -2,7 +2,7 @@
 title: HTTP agents
 description: ""
 created: 2014-12-11
-updated: 2023-11-29
+updated: 2024-08-10
 tags:
   - curl
   - har
@@ -158,6 +158,8 @@ xh --session session.json URL
 
 ## httpie
 
+> use `xh` instead
+
 HTTP client for CLI, more sensible than cURL
 [HTTPie – command-line HTTP client for the API era](https://httpie.io/)
 [HTTPie demo](https://httpie.io/run)
@@ -236,9 +238,16 @@ httrack -c8 [url]
 
 [Inspector](https://inspector.swagger.io/builder?url=https%3A%2F%2Fswapi.co%2Fapi%2Fpeople) web GUI from Swagger
 
+### Bruno
+
+[bruno](https://www.usebruno.com/)
+
+[usebruno/bruno: Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)](https://github.com/usebruno/bruno)
+
 ### REST Client
 
 [REST Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+[Huachao/vscode-restclient: REST Client Extension for Visual Studio Code](https://github.com/Huachao/vscode-restclient)
 
 [Show request headers as well as response · Issue #99 · Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient/issues/99#issuecomment-332139174)
 Set `previewOption` to `exchange` (default `full`) to view requests
@@ -382,11 +391,13 @@ asynchronous client library that supports HTTP/1.1 and HTTP/2
 [alteryx/locust-grasshopper: a load testing tool extended from locust](https://github.com/alteryx/locust-grasshopper)
 [Introducing Grasshopper - An Open Source Python Library for Load Testing](https://innovation.alteryx.com/introducing-grasshopper-an-open-source-python-library-for-load-testing/)
 
-[fcsonline/drill: Drill is an HTTP load testing application written in Rust](https://github.com/fcsonline/drill)
-[codesenberg/bombardier: Fast cross-platform HTTP benchmarking tool written in Go](https://github.com/codesenberg/bombardier)
+[fcsonline/drill: Drill is an HTTP load testing application written in Rust](https://github.com/fcsonline/drill) ❗!important, YAML config for headers and payloads
+[codesenberg/bombardier: Fast cross-platform HTTP benchmarking tool written in Go](https://github.com/codesenberg/bombardier) no header config?
 [h2load - HTTP/2 benchmarking tool - HOW-TO — nghttp2 documentation](https://nghttp2.org/documentation/h2load-howto.html)
 [mcollina/autocannon: fast HTTP/1.1 benchmarking tool written in Node.js](https://github.com/mcollina/autocannon)
-[hatoo/oha: Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.](https://github.com/hatoo/oha)
+[hatoo/oha: Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.](https://github.com/hatoo/oha)❗!important
+[wreck - hapi.dev](https://hapi.dev/module/wreck/)
+[alexfernandez/loadtest: Runs a load test on the selected URL. Easy to extend minimally for your own ends.](https://github.com/alexfernandez/loadtest)
 
 [k6.io - Performance testing for developers, like unit-testing, for performance](https://k6.io/)
 [grafana/k6: A modern load testing tool, using Go and JavaScript - https://k6.io](https://github.com/grafana/k6)
@@ -398,7 +409,6 @@ asynchronous client library that supports HTTP/1.1 and HTTP/2
 Use `ab -k` (keepalive) to avoid testing connections (kernel responsibility)
 [Simultaneously benchmark many URLs with ApacheBench and GNU parallel · Simon Holywell](https://www.simonholywell.com/post/2015/06/parallel-benchmark-many-urls-with-apachebench/)
 
-[alexfernandez/loadtest: Runs a load test on the selected URL. Easy to extend minimally for your own ends.](https://github.com/alexfernandez/loadtest) Node.js
 [wg/wrk: Modern HTTP benchmarking tool](https://github.com/wg/wrk) 😴inactive
 [giltene/wrk2: A constant throughput, correct latency recording variant of wrk](https://github.com/giltene/wrk2) 😴inactive
 [rakyll/hey: HTTP load generator, ApacheBench (ab) replacement](https://github.com/rakyll/hey) 😴inactive
@@ -449,8 +459,6 @@ class ParameterizedSimulation extends Simulation {
 
 # Dumping HTTP request/response
 
-[httpbin(1): HTTP Client Testing Service](http://httpbin.org/)
-
 [Hookbin - Capture and Inspect HTTP Requests](https://hookbin.com/)
 [Hookbin - Capture and Inspect HTTP Requests | CSS-Tricks](https://css-tricks.com/hookbin-capture-inspect-http-requests/)
 
@@ -458,10 +466,17 @@ class ParameterizedSimulation extends Simulation {
 [Mockable: Quickly create REST and SOAP mocks](https://www.mockable.io/)
 
 [RequestBin — A modern request bin to collect, inspect and debug HTTP requests and webhooks - Pipedream](https://pipedream.com/requestbin)
+[PipedreamHQ/pipedream: Connect APIs, remarkably fast. Free for developers.](https://github.com/PipedreamHQ/pipedream)
 [Webhook.site - Test, process and transform emails and HTTP requests](https://webhook.site/#!/04199650-1606-47ce-9c38-a97502687bd9)
 
 [httpbin.org](https://httpbin.org/)
+[postmanlabs/httpbin: HTTP Request & Response Service, written in Python + Flask.](https://github.com/postmanlabs/httpbin)
+
+[go-httpbin(1): HTTP Client Testing Service](https://httpbingo.org/)
 [mccutchen/go-httpbin: A reasonably complete and well-tested golang port of httpbin, with zero dependencies outside the go stdlib.](https://github.com/mccutchen/go-httpbin)
+
+[httpbin-rs](https://httpbin.rs/)
+[duskmoon314/httpbin-rs: HTTP Request & Response Service pretty like [httpbin](http://httpbin.org) but powered by Rust](https://github.com/duskmoon314/httpbin-rs)
 
 ## httpbin.js
 

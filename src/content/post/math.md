@@ -2,7 +2,7 @@
 title: Mathematics
 description: ""
 created: 2017-10-31
-updated: 2023-10-27
+updated: 2024-09-23
 tags:
   - math
 ---
@@ -31,6 +31,7 @@ tags:
 [CalmCode Blog: An Inverse Turing Test](https://calmcode.io/blog/inverse-turing-test.html)
 
 [3Blue1Brown - YouTube](https://www.youtube.com/@3blue1brown)
+[Alan Becker - YouTube](https://www.youtube.com/@alanbecker) match figure series
 [Another Roof - YouTube](https://www.youtube.com/@AnotherRoof)
 [eigenchris - YouTube](https://www.youtube.com/@eigenchris) Linear Algebra, Physics
 [Mathemaniac - YouTube](https://www.youtube.com/@mathemaniac)
@@ -40,6 +41,7 @@ tags:
 [VisualMath - YouTube](https://www.youtube.com/@VisualMath)
 [Zach Star - YouTube](https://www.youtube.com/@zachstar)
 [妈咪说 MommyTalk - YouTube](https://www.youtube.com/@Sci1729)
+[漫士沉思录 - YouTube](https://www.youtube.com/@manshi_math) match figure series disected
 [黑筆紅筆 - YouTube](https://www.youtube.com/@bprptw)
 
 [Understanding Wavelets - YouTube](https://www.youtube.com/playlist?list=PLn8PRpmsu08ojy02wi4QLVzELM545Xw3p)
@@ -63,14 +65,22 @@ tags:
 
 [Aristotle's Wheel Paradox - To Infinity and Beyond - YouTube](https://www.youtube.com/watch?v=mrVg9GM5h7Q)
 [Cantor's Infinity Paradox | Set Theory - YouTube](https://www.youtube.com/watch?v=X56zst79Xjg) Cantor's Diagonalization Proof
-Countably infinite: 1-1 correspondence with Natural Numbers, enumerable infinity
-Uncountably infinite: 1-1 correspondence with Real Numbers, non-enumerable infinity
+Countably infinite (ℵ₀): 1-1 correspondence with Natural Numbers, enumerable infinity
+Uncountably infinite (2^ℵ): 1-1 correspondence with Real Numbers, non-enumerable infinity
+
+[【无痛高数】所有数都是无理数？有关无限所有困惑的答案（上）#数学 #高等数学 - YouTube](https://www.youtube.com/watch?v=KCMhmiGl9QE)
+[这是一个数学无法回答的问题 #高等数学 #math - YouTube](https://www.youtube.com/watch?v=8S_wP7aHl9A)
+Continuum Hypothesis: no set has cardinality between ℵ₀ and 2^ℵ
+Godel proved we cannot disprove it, Cohen proved we cannot prove it
 
 [Why can't you divide by zero? - TED-Ed - YouTube](https://www.youtube.com/watch?v=NKmGVE85GUU)
 
 ## Gödel's Incompleteness Theorems
 
-[Gödel's incompleteness theorems - Wikiwand](https://www.wikiwand.com/en/G%C3%B6del%27s_incompleteness_theorems)
+> the most comprehensible proof is by transforming the this theorem into halting problem
+> see [[learn-to-code#Halting problem]]
+
+[Gödel's incompleteness theorems - Wikiwand](https://omni.wikiwand.com/en/G%C3%B6del%27s_incompleteness_theorems)
 [What's the easiest way to understand Gödel's Incompleteness Theorems? Are there statements that have truth values which cannot be determined except meta-mathematically? - Quora](https://www.quora.com/Whats-the-easiest-way-to-understand-G%C3%B6dels-Incompleteness-Theorems-Are-there-statements-that-have-truth-values-which-cannot-be-determined-except-meta-mathematically)
 
 [Gödel's Incompleteness Theorem - Numberphile - YouTube](https://www.youtube.com/watch?v=O4ndIDcDSGc)
@@ -79,15 +89,15 @@ Uncountably infinite: 1-1 correspondence with Real Numbers, non-enumerable infin
 [The paradox at the heart of mathematics: Gödel's Incompleteness Theorem - Marcus du Sautoy - YouTube](https://www.youtube.com/watch?v=I4pQbo5MQOs)
 Encode mathematics operation as numbers, one can create a number (statement) that cannot be proved within the system
 
-[哥德尔不完备定理到底说了啥？为什么希尔伯特的数学梦因此破灭？ - YouTube](https://www.youtube.com/watch?v=FVZaOTi6ZbE)
+[Mathematician explains Gödel's Incompleteness Theorem | Edward Frenkel and Lex Fridman - YouTube](https://www.youtube.com/watch?v=u3GYrEOoKGk)
 
-[Alan Turing Publishes "On Computable Numbers," Describing What Came to be Called the "Turing Machine" : History of Information](https://www.historyofinformation.com/detail.php?id=619)
-[Turing_Paper_1936.pdf](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
+[哥德尔不完备定理到底说了啥？为什么希尔伯特的数学梦因此破灭？ - YouTube](https://www.youtube.com/watch?v=FVZaOTi6ZbE)
+[【毕导】这个视频里说的都是真的，但你却永远无法证明 | 4K - YouTube](https://www.youtube.com/watch?v=W4rw_kFswj4)
 
 ## Linear Algebra
 
-[Linear algebra - Wikiwand](https://www.wikiwand.com/en/Linear_algebra)
-[Eigenvalues and eigenvectors - Wikiwand](https://www.wikiwand.com/en/Eigenvalues_and_eigenvectors)
+[Linear algebra - Wikiwand](https://omni.wikiwand.com/en/Linear_algebra)
+[Eigenvalues and eigenvectors - Wikiwand](https://omni.wikiwand.com/en/Eigenvalues_and_eigenvectors)
 [What's a Tensor? - YouTube](https://www.youtube.com/watch?v=f5liqUk0ZTw)
 [Mathematics for Machine Learning: Linear Algebra - YouTube](https://www.youtube.com/playlist?list=PL2jykFOD1AWazz20_QRfESiJ2rthDF9-Z)
 [兩小時學會線性代數 - YouTube](https://www.youtube.com/watch?v=73SBvRMgeUY)
@@ -102,7 +112,7 @@ Encode mathematics operation as numbers, one can create a number (statement) tha
 [Matrix Multiplication Explained (with Python examples): Complete Guide](https://pyshark.com/matrix-multiplication-explained-using-python/)
 [The fastest matrix multiplication algorithm - YouTube](https://www.youtube.com/watch?v=sZxjuT1kUd0)
 
-[Covariance and contravariance of vectors - Wikiwand](https://www.wikiwand.com/en/Covariance_and_contravariance_of_vectors)
+[Covariance and contravariance of vectors - Wikiwand](https://omni.wikiwand.com/en/Covariance_and_contravariance_of_vectors)
 [Variance-covariance matrix using matrix notation of factor analysis - YouTube](https://www.youtube.com/watch?v=G16c2ZODcg8)
 [6.5.4.1. Mean Vector and Covariance Matrix](https://www.itl.nist.gov/div898/handbook/pmc/section5/pmc541.htm)
 
@@ -161,7 +171,7 @@ Eigenvalue = sum of squared distances of projected points on principal component
 
 > probabilistic state transition
 
-[Markov chain - Wikiwand](https://www.wikiwand.com/en/Markov%20Chains)
+[Markov chain - Wikiwand](https://omni.wikiwand.com/en/Markov%20Chains)
 [Markov Chains Clearly Explained! - YouTube](https://www.youtube.com/playlist?list=PLM8wYQRetTxBkdvBtz-gw8b9lcVkdXQKV)
 [Markov Decision Processes - Computerphile - YouTube](https://www.youtube.com/watch?v=2iF9PRriA7w)
 
@@ -173,16 +183,16 @@ equilibrium probability = left eigen vector of the adjacency matrix
 
 ## Group Theory
 
-[Group (mathematics) - Wikiwand](<https://www.wikiwand.com/en/Group_(mathematics)>) Set with binary operation defined
-[Simple group - Wikiwand](https://www.wikiwand.com/en/Simple_group) "prime numbers" of group
-[Composition series - Wikiwand](https://www.wikiwand.com/en/Composition_series) Jordan-Hölder theorem
-[List of finite simple groups - Wikiwand](https://www.wikiwand.com/en/List_of_finite_simple_groups)
-[Classical group - Wikiwand](https://www.wikiwand.com/en/classical%20group)
-[Ring (mathematics) - Wikiwand](<https://www.wikiwand.com/en/Ring_(mathematics)>) Group closed in addition, subtraction and multiplication
-[Field (mathematics) - Wikiwand](<https://www.wikiwand.com/en/Field_(mathematics)>) Ring closed also in division
+[Group (mathematics) - Wikiwand](<https://omni.wikiwand.com/en/Group_(mathematics)>) Set with binary operation defined
+[Simple group - Wikiwand](https://omni.wikiwand.com/en/Simple_group) "prime numbers" of group
+[Composition series - Wikiwand](https://omni.wikiwand.com/en/Composition_series) Jordan-Hölder theorem
+[List of finite simple groups - Wikiwand](https://omni.wikiwand.com/en/List_of_finite_simple_groups)
+[Classical group - Wikiwand](https://omni.wikiwand.com/en/classical%20group)
+[Ring (mathematics) - Wikiwand](<https://omni.wikiwand.com/en/Ring_(mathematics)>) Group closed in addition, subtraction and multiplication
+[Field (mathematics) - Wikiwand](<https://omni.wikiwand.com/en/Field_(mathematics)>) Ring closed also in division
 [Explanaria - Groups & Clear Crystal Conundrums](https://explanaria.github.io/crystalgroups/)
 
-[Galois theory - Wikiwand](https://www.wikiwand.com/en/Galois_theory)
+[Galois theory - Wikiwand](https://omni.wikiwand.com/en/Galois_theory)
 [从五次方程到伽罗瓦理论 - YouTube](https://www.youtube.com/playlist?list=PLYtoePJQbGmiq3lqkJcxSKW0eW5objmjQ)
 [Why you can't solve quintic equations (Galois theory approach) SoME2 - YouTube](https://www.youtube.com/watch?v=zCU9tZ2VkWc)
 [What is the square root of two? | The Fundamental Theorem of Galois Theory - YouTube](https://www.youtube.com/watch?v=CwvuZ8aHyH4)
@@ -197,7 +207,7 @@ equilibrium probability = left eigen vector of the adjacency matrix
 
 [Group Theory — Introduction to Higher Mathematics - YouTube](https://www.youtube.com/watch?v=KufsL2VgELo)
 
-[Steiner system - Wikiwand](https://www.wikiwand.com/en/Steiner_system)
+[Steiner system - Wikiwand](https://omni.wikiwand.com/en/Steiner_system)
 [What are...Steiner systems? - YouTube](https://www.youtube.com/watch?v=uAX0RAfo1WU)
 [The Most Powerful Diagram in Mathematics - YouTube](https://www.youtube.com/watch?v=4xnRZqD7rAo) S(5,8,24) and MOG
 
@@ -216,6 +226,9 @@ equilibrium probability = left eigen vector of the adjacency matrix
 [頂級數學家之間的微積分撕逼大戰有多可怕？生前被牛頓打壓，死後居然躺贏 | 雅桑了嗎 - YouTube](https://www.youtube.com/watch?v=o3u5DeLOvsM)
 
 3Blue1Brown
+[This Is the Calculus They Won't Teach You - YouTube](https://www.youtube.com/watch?v=5M2RWtD4EzI) ❗!important, history
+history: integrals -> derivatives -> series -> limits
+taught: series -> limits -> derivatives -> integrals
 [Essence of calculus - YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 [Vector fields, introduction | Multivariable calculus | Khan Academy - YouTube](https://www.youtube.com/watch?v=5FWAVmwMXWg)
 [Divergence and curl: The language of Maxwell's equations, fluid flow, and more - YouTube](https://www.youtube.com/watch?v=rB83DpBJQsE)
@@ -240,14 +253,15 @@ Khan Academy
 ## Probability
 
 [The mathematical foundations of probability - Towards Data Science](https://towardsdatascience.com/the-mathematical-foundations-of-probability-beb8d8426651)
+[Probability: A Statology Primer - KDnuggets](https://www.kdnuggets.com/probability-statology-primer)
 
 [Monte Carlo Methods, Made Simple. Using Chaos to Find Clarity | by Andre Ye | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/monte-carlo-methods-made-simple-91758ba58dde)
 [The Forgotten Algorithm. Exploring Monte Carlo Simulation with… | by Ian Xiao | Towards Data Science](https://towardsdatascience.com/how-to-design-monte-carlo-simulation-138e9214910a)
 [The Beauty of Bayesian Optimization, Explained in Simple Terms | by Andre Ye | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/the-beauty-of-bayesian-optimization-explained-in-simple-terms-81f3ee13b10f)
 [Exploring Bayesian Optimization](https://distill.pub/2020/bayesian-optimization/)
 
-[Statistical hypothesis testing - Wikiwand](https://www.wikiwand.com/en/Statistical_hypothesis_testing)
-[Frequentist inference - Wikiwand](https://www.wikiwand.com/en/Frequentist_inference)
+[Statistical hypothesis testing - Wikiwand](https://omni.wikiwand.com/en/Statistical_hypothesis_testing)
+[Frequentist inference - Wikiwand](https://omni.wikiwand.com/en/Frequentist_inference)
 [Overview of Frequentist Hypothesis Testing](https://web.ma.utexas.edu/users/mks/statmistakes/overviewfreqhyptest.html)
 [class17-slides-all.pdf](https://math.mit.edu/~dav/05.dir/class17-slides-all.pdf)
 [How To Catch A Cheater With Math - YouTube](https://www.youtube.com/watch?v=XTcP4oo4JI4) explains probabilistic tests, statistical power (sensitivity), p-value
@@ -297,11 +311,13 @@ Khan Academy
 
 data set that creates same simple statistics but are totally different
 [Data visualisation, reporting, and processing with R](https://krlmlr.github.io/vistransrep/2019-04-zhr/intro.html#1)
-[Anscombe's quartet - Wikiwand](https://www.wikiwand.com/en/Anscombe%27s_quartet)
+[Anscombe's quartet - Wikiwand](https://omni.wikiwand.com/en/Anscombe%27s_quartet)
 [The Datasaurus Dozen - Same Stats, Different Graphs | Autodesk Research](https://www.autodeskresearch.com/publications/samestats)
 
 [articles/basic_measures_of_descriptive_statistics.md at master · Dobiasd/articles](https://github.com/Dobiasd/articles/blob/master/basic_measures_of_descriptive_statistics.md)
 [articles/mechanical_analogies_for_basic_measures_of_descriptive_statistics.md at master · Dobiasd/articles](https://github.com/Dobiasd/articles/blob/master/mechanical_analogies_for_basic_measures_of_descriptive_statistics.md)
+
+[拉普拉斯妖为何不存在？有办法消除随机吗？柯氏复杂度的不可计算性 - YouTube](https://www.youtube.com/watch?v=WBJoNNz8D48) randomness, Kolmogorov complexity
 
 ### p-value
 
@@ -317,13 +333,13 @@ p-value is the probability that random chance generated the data, or something e
 
 ### Central Limit Theorem
 
-[Central limit theorem - Wikiwand](https://www.wikiwand.com/en/Central%20Limit%20Theorem)
+[Central limit theorem - Wikiwand](https://omni.wikiwand.com/en/Central%20Limit%20Theorem)
 
 [But what is the Central Limit Theorem? - YouTube](https://www.youtube.com/watch?v=zeJD6dqJ5lo)
 
 ### Benford's Law
 
-[Benford's law - Wikiwand](https://www.wikiwand.com/en/Benford's_law)
+[Benford's law - Wikiwand](https://omni.wikiwand.com/en/Benford's_law)
 
 [Why do Biden's votes not follow Benford's Law? - YouTube](https://www.youtube.com/watch?v=etx0k1nLn78)
 
@@ -339,7 +355,7 @@ p-value is the probability that random chance generated the data, or something e
 
 ### Spurious Correlations
 
-[Spurious relationship - Wikiwand](https://www.wikiwand.com/en/Spurious_relationship)
+[Spurious relationship - Wikiwand](https://omni.wikiwand.com/en/Spurious_relationship)
 [Spurious Correlations](https://www.tylervigen.com/spurious-correlations)
 [Spurious Correlation: Definition, Examples & Detecting - Statistics By Jim](https://statisticsbyjim.com/basics/spurious-correlation/)
 [Beware Spurious Correlations](https://hbr.org/2015/06/beware-spurious-correlations)
@@ -361,7 +377,7 @@ p-value is the probability that random chance generated the data, or something e
 
 ## Poincaré Conjecture
 
-[Poincaré conjecture - Wikiwand](https://www.wikiwand.com/en/Poincar%C3%A9_conjecture)
+[Poincaré conjecture - Wikiwand](https://omni.wikiwand.com/en/Poincar%C3%A9_conjecture)
 [庞加莱猜想为何价值 100 万美元？宇宙到底是什么形状？ - YouTube](https://www.youtube.com/watch?v=LsbfmAd9mGM)
 
 ## Programming
@@ -377,24 +393,30 @@ p-value is the probability that random chance generated the data, or something e
 3Blue1Brown
 [e^(iπ) in 3.14 minutes, using dynamics | DE5 - YouTube](https://www.youtube.com/watch?v=v0YEaeIClKY)
 [Euler's formula with introductory group theory - YouTube](https://www.youtube.com/watch?v=mvmuCPvRoWQ)
-
+[Euler's Formula - Numberphile - YouTube](https://www.youtube.com/watch?v=CRj-sbi2i2I)
 [e to the pi i for dummies - YouTube](https://www.youtube.com/watch?v=-dhHrg-KbJ0)
 
 ## Number Theory
 
 [如何快速筛选质数？费马素性检验和米勒-拉宾测试 - YouTube](https://www.youtube.com/watch?v=E5vtn_OIe-c)
-[Fermat's little theorem - Wikiwand](https://www.wikiwand.com/en/Fermat%27s_little_theorem)
+[Fermat's little theorem - Wikiwand](https://omni.wikiwand.com/en/Fermat%27s_little_theorem)
 [Fermat's little theorem - GeeksforGeeks](https://www.geeksforgeeks.org/fermats-little-theorem/)
-[Carmichael number - Wikiwand](https://www.wikiwand.com/en/Carmichael_number) exceptions to Fermat's little theorem
+[Carmichael number - Wikiwand](https://omni.wikiwand.com/en/Carmichael_number) exceptions to Fermat's little theorem
 
-[P-adic number - Wikiwand](https://www.wikiwand.com/en/p-adic)
+[P-adic number - Wikiwand](https://omni.wikiwand.com/en/p-adic)
 [Mathematicians Use Numbers Differently From The Rest of Us - YouTube](https://www.youtube.com/watch?v=tRaq4aYPzCc)
+
+[Mersenne prime - Wikiwand](https://omni.wikiwand.com/en/Mersenne%20prime) prime of the form <i>M<sub>n</sub></i> = 2<sup><i>n</i></sup> − 1, where will actually be another prime number
+
+### Perfect Numbers
+
+[The Oldest Unsolved Problem in Math - YouTube](https://www.youtube.com/watch?v=Zrv1EDIqHkY)
 
 ## Geometry
 
 [Byrne’s Euclid](https://www.c82.net/euclid/) The first 6 books of "The Elements of Euclid" in HTML
 
-[Euclidean geometry - Wikiwand](https://www.wikiwand.com/en/Euclidean_geometry)
+[Euclidean geometry - Wikiwand](https://omni.wikiwand.com/en/Euclidean_geometry)
 [Volume word problems — Basic example (video) | Khan Academy](https://www.khanacademy.org/test-prep/sat/sat-math-practice/new-sat-additional-topics-math/v/sat-math-s1-easier)
 
 [11 岁的爱因斯坦如何证明勾股定理？跟中国古人比谁的方法好？ - YouTube](https://www.youtube.com/watch?v=sl6bv6ElKgc)
@@ -438,8 +460,8 @@ uses complex number and group theory
 
 ### Fractal
 
-[Fractal - Wikiwand](https://www.wikiwand.com/en/Fractal)
-[Mandelbrot set - Wikiwand](https://www.wikiwand.com/en/Mandelbrot_set) bounded set of simple function on complex number to generate fractal
+[Fractal - Wikiwand](https://omni.wikiwand.com/en/Fractal)
+[Mandelbrot set - Wikiwand](https://omni.wikiwand.com/en/Mandelbrot_set) bounded set of simple function on complex number to generate fractal
 
 [Draw the Mandelbrot Set in Python – Real Python](https://realpython.com/mandelbrot-set-python/)
 
@@ -451,7 +473,7 @@ uses complex number and group theory
 
 ### Lean
 
-[Lean (proof assistant) - Wikiwand](<https://www.wikiwand.com/en/Lean_(proof_assistant)>)
+[Lean (proof assistant) - Wikiwand](<https://omni.wikiwand.com/en/Lean_(proof_assistant)>)
 [Lean](https://leanprover.github.io/)
 
 [Automated Mathematical Proofs - Computerphile - YouTube](https://www.youtube.com/watch?v=prYaTrZUces)
@@ -479,7 +501,7 @@ Thinking at a more abstract level will improve your code
 [TLA+](https://github.com/tlaplus)
 [The TLA Toolbox](https://lamport.azurewebsites.net/tla/toolbox.html)
 
-[PlusCal - Wikiwand](https://www.wikiwand.com/en/PlusCal)
+[PlusCal - Wikiwand](https://omni.wikiwand.com/en/PlusCal)
 [PlusCal :: Learn TLA+](https://learntla.com/pluscal/)
 [A Simple Example](http://lamport.azurewebsites.net/tla/peterson.html?back-link=high-level-view.html#pluscal?unhideBut@EQhide-pluscal@AMPunhideDiv@EQpluscal)
 [quux00/PlusCal-Examples: Algorithm examples in PlusCal, the algorithm language of Lamport's TLA+](https://github.com/quux00/PlusCal-Examples)

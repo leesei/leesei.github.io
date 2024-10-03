@@ -2,7 +2,7 @@
 title: Kindle
 description: ""
 created: 2016-04-08
-updated: 2023-09-29
+updated: 2024-02-19
 tags:
   - ebook
 ---
@@ -19,7 +19,7 @@ Compares E-Ink eBook readers
 [Kindle e-reader – Amazon’s Official Site – Learn More](http://www.amazon.com/gp/product/B00I15SB16/ref=topnav_storetab_kstore)
 [Introducing Kindle Oasis - Amazon Official Site - E-reader](http://www.amazon.com/New-Leather-Charging-High-Resolution-Includes/dp/B00REQKWGA)
 
-{% asset_img kindle-comparison-201604.png "Comparison between Kindle versions (201604)" %}
+[![Comparison between Kindle versions (201604)](./_assets/kindle/kindle-comparison-201604.png)](./_assets/kindle/kindle-comparison-201604.png)
 
 [Kindle 2018 對比 : Kindle Paperwhite vs Kindle 8 vs Kindle Oasis - 發現好物 - 最新資訊 - 友和 YOHO - 網購電器及電子產品](https://www.yohohongkong.com/post/189-Kindle-2018-%E5%B0%8D%E6%AF%94-%3A-Kindle-Paperwhite-vs-Kindle-8-vs-Kindle-Oasis)
 [Kindle vs Kindle Paperwhite Comparison](http://www.whichtogo.com/kindle-paperwhite-vs-regular-kindle-touch-screen-e-reader)
@@ -36,9 +36,9 @@ Compares E-Ink eBook readers
 2. Add the sender's email to Approved email list
 3. Use "convert" as subject line to convert PDF/HTML to AZW format
 
-[Send to Kindle for Google Chrome - Chrome Web Store](https://chrome.google.com/webstore/detail/send-to-kindle-for-google/cgdjpilhipecahhcilnafpblkieebhea)
-[Send to Kindle (by Klip.me) - Chrome Web Store](https://chrome.google.com/webstore/detail/send-to-kindle-by-klipme/ipkfnchcgalnafehpglfbommidgmalan)
-[Push to Kindle - Chrome Web Store](https://chrome.google.com/webstore/detail/push-to-kindle/pnaiinchjaonopoejhknmgjingcnaloc)
+[Send to Kindle for Google Chrome](https://chromewebstore.google.com/detail/send-to-kindle-for-google/cgdjpilhipecahhcilnafpblkieebhea)
+[Send to Kindle (by Klip.me)](https://chromewebstore.google.com/detail/send-to-kindle-by-klipme/ipkfnchcgalnafehpglfbommidgmalan)
+[Push to Kindle](https://chromewebstore.google.com/detail/push-to-kindle/pnaiinchjaonopoejhknmgjingcnaloc)
 
 ## Jail-breaking
 

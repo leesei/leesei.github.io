@@ -2,7 +2,7 @@
 title: HTML Canvas
 description: ""
 created: 2016-04-08
-updated: 2023-09-29
+updated: 2024-03-12
 tags:
   - web
   - web/2d
@@ -36,7 +36,6 @@ tags:
 [Optimizing canvas - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Optimizing_canvas)
 [HTML5 Canvas Optimization: A Practical Example](http://code.tutsplus.com/tutorials/html5-canvas-optimization-a-practical-example--active-11893)
 [HTML5 Canvas: Performance and Optimization - ELEKS Labs](http://elekslabs.com/2012/11/html5-canvas-performance-and.html)
-[Improving HTML5 Canvas Performance - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/canvas/performance/)
 [Optimize HTML5 canvas rendering with layering](http://www.ibm.com/developerworks/library/wa-canvashtml5layering/)
 [Myths and realities of canvas - JavaScript performance - 2D - HTML5 Game Devs Forum](http://www.html5gamedevs.com/topic/7735-myths-and-realities-of-canvas-javascript-performance/)
 

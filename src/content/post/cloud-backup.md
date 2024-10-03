@@ -2,7 +2,7 @@
 title: Cloud Backup
 description: ""
 created: 2016-04-02
-updated: 2023-10-23
+updated: 2024-06-14
 tags:
   - web
 ---
@@ -221,12 +221,16 @@ Virtual file system
 > sync between your machines, works best with Tailscale
 
 [Syncthing](https://syncthing.net/)
-[Block Exchange Protocol v1 — Syncthing documentation](https://docs.syncthing.net/specs/bep-v1.html#bep-v1)
+[syncthing/syncthing: Open Source Continuous File Synchronization](https://github.com/syncthing/syncthing)
+[Welcome to Syncthing’s documentation! — Syncthing documentation](https://docs.syncthing.net/index.html)
+[Block Exchange Protocol v1 — Syncthing documentation](https://docs.syncthing.net/specs/bep-v1.html)
+
 [Syncthing Made EASY - YouTube](https://www.youtube.com/watch?v=PSx-BkMOPF4)
 [Sync files across multiple devices with Syncthing | Opensource.com](https://opensource.com/article/20/1/sync-files-syncthing)
 [Control your data with Syncthing: An open source synchronization tool | Opensource.com](https://opensource.com/article/18/9/take-control-your-data-syncthing)
 [Synchronize Files Between Multiple Systems With Syncthing - OSTechNix](https://ostechnix.com/synchronize-files-between-multiple-systems-with-syncthing/)
 [Linux Fu: Keep In Sync | Hackaday](https://hackaday.com/2020/07/23/linux-fu-keep-in-sync/)
+
 [canton7/SyncTrayzor: Windows tray utility / filesystem watcher / launcher for Syncthing](https://github.com/canton7/SyncTrayzor)
 
 ## ownCloud/Nextcloud

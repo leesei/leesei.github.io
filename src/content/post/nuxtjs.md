@@ -2,7 +2,7 @@
 title: Nuxt.js
 description: ""
 created: 2023-02-28
-updated: 2023-09-29
+updated: 2023-12-27
 tags:
   - static-site
   - vuejs
@@ -25,7 +25,6 @@ tags:
 
 [Pooya Parsa - Full stack development with Nuxt 3 and Nitro - Vuejs Amsterdam 2022 - YouTube](https://www.youtube.com/watch?v=eYOifvwsFG0)
 [Server Engine · Nuxt Concepts](https://nuxt.com/docs/guide/concepts/server-engine)
-[Home | ⚗️ Nitro](https://nitro.unjs.io/)
 
 ## Starter Kit
 

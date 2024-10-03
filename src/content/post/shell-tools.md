@@ -2,7 +2,7 @@
 title: Shell Tools
 description: ""
 created: 2015-01-14
-updated: 2023-11-14
+updated: 2024-09-24
 tags:
   - app
   - cpio
@@ -35,6 +35,7 @@ tags:
 [Pantz.org Technical Reference Site](https://www.pantz.org/)
 
 [7 Command-Line Tools for Data Science • Blog • Data Science Workshops](https://www.datascienceworkshops.com/blog/seven-command-line-tools-for-data-science/)
+[7 Amazing CLI Tools You Need To Try - YouTube](https://www.youtube.com/watch?v=mmqDYw9C30I) `fzf`, `bat`, `delta`, `eza`, `tldr`, `zoxide`
 
 [Webminal - Learn and Practise Linux online, Programming online](https://www.webminal.org/)
 [Learn And Practice Linux Commands Online For FREE! - OSTechNix](https://www.ostechnix.com/learn-and-practice-linux-commands-online-for-free/)
@@ -200,7 +201,7 @@ tar --listed-incremental=tarfiles.list cvf images.1.tar images/ > tar.log
 
 ## grep
 
-[grep - Wikiwand](http://www.wikiwand.com/en/Grep)
+[grep - Wikiwand](http://omni.wikiwand.com/en/Grep)
 [Grep](http://www.grymoire.com/Unix/Grep.html)
 [grep is a beautiful tool](http://www.eriwen.com/tools/grep-is-a-beautiful-tool/)
 [Cover - GNU GREP and RIPGREP](https://learnbyexample.github.io/learn_gnugrep_ripgrep/)
@@ -235,7 +236,7 @@ cat a b b | sort | uniq -u > c   # c is set difference a \ b
 
 ## find
 
-[grep - Wikiwand](http://www.wikiwand.com/en/Grep)
+[grep - Wikiwand](http://omni.wikiwand.com/en/Grep)
 [Find](http://www.grymoire.com/Unix/Find.html)
 [Find is a beautiful tool](http://www.eriwen.com/productivity/find-is-a-beautiful-tool/)
 [Mommy, I found it! — 15 Practical Linux Find Command Examples](http://www.thegeekstuff.com/2009/03/15-practical-linux-find-command-examples/)
@@ -306,8 +307,10 @@ mv "$(find -inum 123456)" ../some/where/
 
 [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)
 [Examples · junegunn/fzf Wiki](https://github.com/junegunn/fzf/wiki/examples)
+[Fuzzy Find Everything - YouTube](https://www.youtube.com/watch?v=MvLQor1Ck3M)
 
 [Vim universe. fzf - command line fuzzy finder - YouTube](https://www.youtube.com/watch?v=qgG5Jhi_Els)
+[This may be my favorite CLI tool ever - YouTube](https://www.youtube.com/watch?v=oTNRvnQLLLs) `**`
 [Why you should be using fzf, the command line fuzzy finder](https://www.freecodecamp.org/news/fzf-a-command-line-fuzzy-finder-missing-demo-a7de312403ff/)
 
 <kbd>Tab</kbd> to select multiple items
@@ -326,6 +329,9 @@ Pipe with other tools to provide fuzzy filtering interface
 ## directory jumping
 
 [ajeetdsouza/zoxide: A smarter cd command. Supports all major shells.](https://github.com/ajeetdsouza/zoxide) reimplementation of `z` in Rust
+[Another cool program for terminal file system navigation - YouTube](https://www.youtube.com/watch?v=VzCIMK_z7ag)
+[zoxide has forever improved the way I navigate in the terminal. - YouTube](https://www.youtube.com/watch?v=aghxkpyRVDY)
+
 [rupa/z: z - jump around](https://github.com/rupa/z)
 [b4b4r07/enhancd: A next-generation cd command with your interactive filter](https://github.com/b4b4r07/enhancd)
 [wting/autojump: A cd command that learns - easily navigate directories from the command line](https://github.com/wting/autojump)
@@ -358,6 +364,8 @@ rsync -avR --progress dir1/file1 dir2/file2 target/
 
 ## rename
 
+[Names Have Been Changed » Linux Magazine](https://www.linux-magazine.com/Issues/2023/275/rename)
+
 ```sh
 # to lower (y = transliterating, character substitution)
 rename 'y/A-Z/a-z/' *
@@ -381,12 +389,12 @@ rename 's/$/.txt/' *
 
 ## sort
 
-[sort (Unix) - Wikiwand](<http://www.wikiwand.com/en/Sort_(Unix)>)
+[sort (Unix) - Wikiwand](<http://omni.wikiwand.com/en/Sort_(Unix)>)
 [sort - man page](https://www.mankier.com/1/sort)
 
 ## xargs
 
-[xargs - Wikiwand](http://www.wikiwand.com/en/Xargs)
+[xargs - Wikiwand](http://omni.wikiwand.com/en/Xargs)
 [xargs - man page](https://www.mankier.com/1/xargs)
 [Xargs - Charles Martin Reid](http://charlesmartinreid.com/wiki/Xargs)
 [Things you (probably) didn't know about xargs](http://offbytwo.com/2011/06/26/things-you-didnt-know-about-xargs.html)
@@ -452,7 +460,7 @@ code -diff file1 file2
 [ripgrep is faster than {grep, ag, git grep, ucg, pt, sift} - Andrew Gallant's Blog](https://blog.burntsushi.net/ripgrep/)
 [Releases · BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep/releases)
 
-[Tutorial – ugrep » Linux Magazine](https://www.linux-magazine.com/Issues/2021/245/Tracked-Down?utm_source=Linux+Update&utm_campaign=Linux_Update_241_Copyleft_2021-21-07&utm_medium=email)
+[Tutorial – ugrep » Linux Magazine](https://www.linux-magazine.com/Issues/2021/245/Tracked-Down)
 
 ## Split files
 
@@ -463,8 +471,10 @@ code -diff file1 file2
 [split - Split a file into manageable pieces - IBM Documentation](https://www.ibm.com/docs/en/zos/2.3.0?topic=descriptions-split-split-file-into-manageable-pieces)
 
 ```sh
+# by pattern
 csplit -f"bufferedsource." -b"%02d.log" bufferedsource.log "/.*Clicked NextStep/" "{*}"
 
+# by number of lines
 split -l 1000000 --additional-suffix=".log" -d bufferedsource.log "bufferedsource."
 ```
 
@@ -485,6 +495,37 @@ end_position="$(echo "$file_size - $trim_count" | bc)"
 dd if=/dev/null of="$filename" bs=1 seek="$end_position"
 ```
 
+## File Manager
+
+[Midnight Commander](https://midnight-commander.org/)
+
+[leo-arch/clifm: The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell.](https://github.com/leo-arch/clifm/)
+
+[gokcehan/lf: Terminal file manager](https://github.com/gokcehan/lf)
+[Integrations · gokcehan/lf Wiki · GitHub](https://github.com/gokcehan/lf/wiki/Integrations)
+[Lf: How To Turn It Into A Really Powerful File Manager - YouTube](https://www.youtube.com/watch?v=Lrgt35ruInA)
+
+[Broot](https://dystroy.org/broot/)
+[Canop/broot: A new way to see and navigate directory trees : https://dystroy.org/broot](https://github.com/Canop/broot)
+[Broot: An Innovative Way To View Your Linux File System - YouTube](https://www.youtube.com/watch?v=eTtarjSJ0yU) faster then `fzf` as hidden files a ignored
+[Broot Is A Better Way To Navigate Directories - YouTube](https://www.youtube.com/watch?v=lGD-wsQO_lI)
+
+[Yazi](https://yazi-rs.github.io/)
+[sxyazi/yazi: 💥 Blazing fast terminal file manager written in Rust, based on async I/O.](https://github.com/sxyazi/yazi)
+
+[mwh/dragon: Drag and drop source/target for X](https://github.com/mwh/dragon)
+[Dragon: How To Add Drag And Drop Support To Any Terminal - YouTube](https://www.youtube.com/watch?v=cbegEIczdNQ)
+[Dragon: Eliminate The Need For All GUI File Managers! - YouTube](https://www.youtube.com/watch?v=GZ4YM7x_Fb4)
+
+## File Management
+
+[User manual — rmlint documentation](https://rmlint.readthedocs.io/en/master/)
+[Gentle Guide to rmlint — rmlint documentation](https://rmlint.readthedocs.io/en/master/tutorial.html)
+[sahib/rmlint: Extremely fast tool to remove duplicates and other lint from your filesystem](https://github.com/sahib/rmlint)
+
+[Rename - Quickly Batch File Renaming in Linux](https://www.tecmint.com/rename-multiple-files-in-linux/)
+[Tools For Renaming Files In Linux - YouTube](https://www.youtube.com/watch?v=8SMnfgThlbM)
+
 ## File watching
 
 [rvoicilas/inotify-tools: inotify-tools is a C library and a set of command-line programs for Linux providing a simple interface to inotify.](https://github.com/rvoicilas/inotify-tools)
@@ -496,7 +537,7 @@ dd if=/dev/null of="$filename" bs=1 seek="$end_position"
 
 [cpio - man page](https://www.mankier.com/1/cpio)
 [Linux cpio Examples: How to Create and Extract cpio Archives (and tar archives)](http://www.thegeekstuff.com/2010/08/cpio-utility/)
-[cpio - Wikiwand](https://www.wikiwand.com/en/Cpio)
+[cpio - Wikiwand](https://omni.wikiwand.com/en/Cpio)
 
 copy files to destination folder keeping the tree structure of the path specified
 
@@ -547,10 +588,16 @@ alias rot13="tr '[A-Za-z]' '[N-ZA-Mn-za-m]'"
 [zevv/lsofgraph: lsof to graphviz](https://github.com/zevv/lsofgraph)
 [10 lsof Command Examples in Linux](https://www.tecmint.com/10-lsof-command-examples-in-linux/)
 
+## TUI
+
+[ttyplot - A realtime terminal plotting utility.](https://terminaltrove.com/ttyplot/)
+[tenox7/ttyplot: a realtime plotting utility for terminal/console with data input from stdin](https://github.com/tenox7/ttyplot)
+[ttyplot – a real time plotting utility for the terminal | Virtually Fun](https://virtuallyfun.com/2018/10/14/ttyplot-a-real-time-plotting-utility-for-the-terminal/)
+
 ## funny
 
 [20 amusing Linux commands to have fun with the terminal](http://www.binarytides.com/linux-fun-commands/)
-[cowsay - Wikiwand](https://www.wikiwand.com/en/Cowsay)
+[cowsay - Wikiwand](https://omni.wikiwand.com/en/Cowsay)
 
 ```sh
 cowsay -l
@@ -607,10 +654,11 @@ fortune | cowsay -f stegosaurus
 [jq Manual](https://stedolan.github.io/jq/manual/)
 [jqterm: jq as a service](https://jqterm.com/?query=.)
 [jq play](https://jqplay.org/)
-[object { 5 props } — jqTerm](https://jqterm.com/?query=.)
 
 [jiq - JSON Incremental jq-filterer](https://jq.alhur.es/jiq/)
 [fiatjaf/jiq: jid on jq - interactive JSON query tool using jq expressions](https://github.com/fiatjaf/jiq)
+
+[itchyny/gojq: Pure Go implementation of jq](https://github.com/itchyny/gojq)
 [noahgorstein/jqp: A TUI playground to experiment with jq](https://github.com/noahgorstein/jqp)
 
 [joelpurra/jqnpm: A package manager built for the command-line JSON processor jq.](https://github.com/joelpurra/jqnpm) 😴inactive
@@ -633,11 +681,14 @@ fortune | cowsay -f stegosaurus
 [Reshaping JSON with jq | Programming Historian](http://programminghistorian.org/lessons/json-and-jq)
 [Parsing JSON with jq](http://www.compciv.org/recipes/cli/jq-for-parsing-json/)
 [Wrestling JSON with jq by Arjan van der Gaag](http://arjanvandergaag.nl/blog/wrestling-json-with-jq.html)
+[The BEST CLI Tool - YouTube](https://www.youtube.com/watch?v=n8sOmEe2SDg)
 
 ```sh
 # pick field from array
 cat JSON | jq  '[ .[] | { a: .field1, } ]'
 cat JSON | jq  'map({ a: .field1, })'
+# no "." to construct object with same field name
+cat JSON | jq  'map({ field1, })'
 
 # pick field from files, shorthand for `slideId`
 find . -maxdepth 2 -name *json | xargs -I@ jq -c '{slideId, w: .width, h: .height}' @

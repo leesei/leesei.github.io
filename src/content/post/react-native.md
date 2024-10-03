@@ -2,7 +2,7 @@
 title: React Native
 description: Learn once, write anywhere.
 created: 2023-06-10
-updated: 2023-11-26
+updated: 2024-06-16
 tags:
   - app
   - mobile
@@ -13,9 +13,15 @@ Write React JSX and deploy to iOS and Android.
 [React Native · Learn once, write anywhere](https://reactnative.dev/)
 [facebook/react-native](https://github.com/facebook/react-native)
 
+[About the New Architecture · React Native](https://reactnative.dev/docs/the-new-architecture/landing-page)
+[The New React Native Architecture - YouTube](https://www.youtube.com/watch?v=BdPkVl4Y8TQ)
+
 [Home - Proton Native - React Native for the desktop, cross compatible](https://proton-native.js.org)
 
 [infinitered/ignite: Infinite Red's cutting edge React Native project boilerplate, along with a CLI, component/model generators, and more!](https://github.com/infinitered/ignite)
+
+[Chain React 2023 - YouTube](https://www.youtube.com/playlist?list=PLFHvL21g9bk30F2UaJfn6TqJn15MAoBOc)
+[Colin Gray – Default to performance (Chain React 2023) - YouTube](https://www.youtube.com/watch?v=bEfTgM6QL1E)
 
 [Understanding React Native Architecture - DEV Community](https://dev.to/goodpic/understanding-react-native-architecture-22hh) 2020-08
 [React Native New Architecture - What to Expect? | LITSLINK Blog](https://litslink.com/blog/new-react-native-architecture) 2020-10
@@ -32,6 +38,7 @@ Write React JSX and deploy to iOS and Android.
 [State of React Native 2018 · React Native](https://facebook.github.io/react-native/blog/2018/06/14/state-of-react-native-2018) addressed most of Airbnb's issue
 [Performance Calendar » React Native – Sync & Async Rendering Performance](https://calendar.perfplanet.com/2018/react-native-sync-async/)
 [I think about this article a lot... - YouTube](https://www.youtube.com/watch?v=ZM8lJIJb2Q4) Theo's reaction in 2023
+[The State of React Native - YouTube](https://www.youtube.com/watch?v=sJItBjarnr4) 2024, ecosystem
 
 [Free React Native Workshop - YouTube](https://www.youtube.com/playlist?list=PLqrUy7kON1mcz_YjiwElKqJezF7FdXBX_)
 [React Native Crash Course | Build a Complete App - YouTube](https://www.youtube.com/watch?v=VozPNrt-LfE)
@@ -125,13 +132,42 @@ Write React JSX and deploy to iOS and Android.
 [react-community/create-react-native-app: Create a React Native app on any OS with no build config.](https://github.com/react-community/create-react-native-app)
 [Rich-Harris/degit: Straightforward project scaffolding](https://github.com/Rich-Harris/degit)
 
+[infinitered/ignite: Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!](https://github.com/infinitered/ignite)
+
+## Expo
+
 [Expo](https://expo.io/) ❗!important, SDK that provides native feature to React Native, also a distribution channel
 [expo/expo: Expo iOS/Android Client](https://github.com/expo/expo)
 [Feature Requests | Expo](https://expo.canny.io/feature-requests) check missing features
+
+```sh
+npx create-expo-app <my-app> -t expo-template-blank-typescript
+npx expo install <expo-package>
+```
+
 [A Brief Introduction to Expo | DigitalOcean](https://www.digitalocean.com/community/tutorials/react-expo-intro) 2018-12
 [Build a React Native App with Expo | by Mike Perrotta | Bits and Pieces](https://blog.bitsrc.io/building-a-react-native-app-with-expo-530ddef0e1ab) 2020-04
+[Moving Off React Native - YouTube](https://www.youtube.com/watch?v=gntZth3mIbM) 2024-01
+[Expo JS is the future of mobile apps - YouTube](https://www.youtube.com/watch?v=zdr6Q1t7Hr8) 2022-11
 
-[infinitered/ignite: Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!](https://github.com/infinitered/ignite)
+[Simon Grimm - YouTube](https://www.youtube.com/@galaxies_dev)
+[Should you use Expo for React Native in 2023? 🤔 React Native CLI vs Expo - YouTube](https://www.youtube.com/watch?v=q-sKCsscIsc) 2023-03
+[You’re doing React Native Routing wrong - Expo File-Based Routing 😱 - YouTube](https://www.youtube.com/watch?v=RglRiycD0oQ)
+
+Managed Workflow: no need to manage native Android/iOS project
+Bare Workflow: `expo eject` to manage native Android/iOS project
+
+### Expo Application Services (EAS)
+
+> EAS Build is a hosted service for building app binaries for your Expo and React Native projects.
+> OTA update, auto signing, and more
+> p
+> [Expo Application Services (EAS)](https://expo.dev/eas)
+> [EAS Build - Expo Documentation](https://docs.expo.dev/build/introduction/)
+
+### Auth
+
+[Super Easy React Native AUTHENTICATION with Firebase 🔒 - YouTube](https://www.youtube.com/watch?v=ONAVmsGW6-M)
 
 ## Routing
 
@@ -147,3 +183,14 @@ Write React JSX and deploy to iOS and Android.
 [FlashList – fast and performant React Native list](https://shopify.github.io/flash-list/)
 [Shopify/flash-list: A better list for React Native](https://github.com/Shopify/flash-list)
 [FlashList - Expo Documentation](https://docs.expo.dev/versions/latest/sdk/flash-list/)
+
+## React Native Skia
+
+[React Native Skia | React Native Skia](https://shopify.github.io/react-native-skia/)
+[React Native Skia: A Year in Review and a Look Ahead](https://shopify.engineering/react-native-skia-2022)
+[Flutter INSIDE React? react-native-skia is wild - YouTube](https://www.youtube.com/watch?v=2l9Wm-8TxlA)
+
+## UI Framework
+
+[Tamagui — React Native + Web UI kit](https://tamagui.dev/)
+[tamagui/tamagui: Style React apps fast with 100% parity on React Native, an optional UI kit and optimizing compiler.](https://github.com/tamagui/tamagui)

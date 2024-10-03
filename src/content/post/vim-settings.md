@@ -2,7 +2,7 @@
 title: vim settings
 description: ""
 created: 2014-12-11
-updated: 2023-10-23
+updated: 2023-12-01
 tags:
   - app
   - neobundle

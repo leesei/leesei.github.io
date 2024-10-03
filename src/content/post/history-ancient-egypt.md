@@ -2,13 +2,13 @@
 title: Ancient Egypt History
 description: ""
 created: 2015-10-09
-updated: 2023-10-02
+updated: 2024-08-14
 tags:
   - history
   - history/egypt
 ---
 
-[Ancient Egypt - Wikiwand](https://www.wikiwand.com/en/Ancient_Egypt)
+[Ancient Egypt - Wikiwand](https://omni.wikiwand.com/en/Ancient_Egypt)
 [Ancient Egypt - World History Encyclopedia](https://www.worldhistory.org/egypt/)
 [Egypt | British Museum](https://www.britishmuseum.org/collection/egypt)
 [Ancient Egypt: Religion, Facts and Pyramids | HISTORY.com - HISTORY](https://www.history.com/topics/ancient-egypt)
@@ -43,14 +43,14 @@ Egypt civilization has 31 Dynasties
 Hieraconpolis 希拉孔波利斯 worships Horus, 𣵀伽達 worships Set
 Scorpion King II was a great king of Hieraconpoli
 But 提尼斯 united Egypt at the end as established the 1st Dynasty
-[Old Kingdom of Egypt - Wikiwand](https://www.wikiwand.com/en/Old_Kingdom_of_Egypt)
+[Old Kingdom of Egypt - Wikiwand](https://omni.wikiwand.com/en/Old_Kingdom_of_Egypt)
 The first two Dynasties have human sacrifices (殉葬)
 2613-2181 B.C., Old Kingdom (3rd-6th Dynasty), The Great Pyramid of Khufu was built during 2589-2566 B.C., rise of power of local elites weakened the sovereignty of Pharaohs
 7th-10th Dynasties are short lived and the Pharaohs probably lost control outside of Memphis, 9th and 10th Dynasties formed around Hieraconpolis.
-[Middle Kingdom of Egypt - Wikiwand](https://www.wikiwand.com/en/Middle_Kingdom_of_Egypt)
+[Middle Kingdom of Egypt - Wikiwand](https://omni.wikiwand.com/en/Middle_Kingdom_of_Egypt)
 2040-1782 B.C., Middle Kingdom (11th-12th Dynasty) formed around Thebes in Upper Egypt and reunified Egypt. Nubia civilization also revived after being conquered by the First Kingdom. They were hired as mercenaries during the Middle Kingdom.
 1650-1550B.C., 15th Dynasty (Hyksos) in the Lower Egypt was a foreign dynasty (Canaanites). Some belived this dynasty is comtemplary with Joseph in the Bible.
-[New Kingdom of Egypt - Wikiwand](https://www.wikiwand.com/en/New_Kingdom_of_Egypt)
+[New Kingdom of Egypt - Wikiwand](https://omni.wikiwand.com/en/New_Kingdom_of_Egypt)
 1570-1069 B.C., New Kingdom (18th-20th Dynasty)
 1300B.C. Akhenaten, Nefertiti, Tutankhamun, 一神教興起
 303-30 B.C., 31st Dynasty Ptolemaic Dynasty
@@ -78,13 +78,13 @@ The first two Dynasties have human sacrifices (殉葬)
 
 ## Pharaoh
 
-[Ankh - Wikiwand](https://www.wikiwand.com/en/Ankh)
-[Crook and flail - Wikiwand](https://www.wikiwand.com/en/Crook_and_flail)
+[Ankh - Wikiwand](https://omni.wikiwand.com/en/Ankh)
+[Crook and flail - Wikiwand](https://omni.wikiwand.com/en/Crook_and_flail)
 
 ## Akhenaten
 
-[Akhenaten - Wikiwand](https://www.wikiwand.com/en/Akhenaten)
-[阿肯那頓 - Wikiwand](https://www.wikiwand.com/zh/%E9%98%BF%E8%82%AF%E9%82%A3%E9%A1%BF)
+[Akhenaten - Wikiwand](https://omni.wikiwand.com/en/Akhenaten)
+[阿肯那頓 - Wikiwand](https://omni.wikiwand.com/zh/%E9%98%BF%E8%82%AF%E9%82%A3%E9%A1%BF)
 Father of Tutankhamun, Queen Nefertiti
 
 Ra worship faded, Amun priests raised in power
@@ -101,8 +101,8 @@ Akhenaten === Moses
 
 ## Tutankhamun
 
-[Tutankhamun - Wikiwand](https://www.wikiwand.com/en/Tutankhamun)
-[圖坦卡蒙 - Wikiwand](https://www.wikiwand.com/zh/%E5%9B%BE%E5%9D%A6%E5%8D%A1%E8%92%99)
+[Tutankhamun - Wikiwand](https://omni.wikiwand.com/en/Tutankhamun)
+[圖坦卡蒙 - Wikiwand](https://omni.wikiwand.com/zh/%E5%9B%BE%E5%9D%A6%E5%8D%A1%E8%92%99)
 The tomb, discovered in 1922, is the only one that has not been raided.
 
 [Tutankhamun London Exhibition | Treasures of the Golden Pharaoh](https://tutankhamun-london.com/)
@@ -141,13 +141,13 @@ Ramesses II rules Egypt in 1290B.C.
 
 ## Mummification
 
-[Mummy - Wikiwand](https://www.wikiwand.com/en/Mummy)
-[Ancient Egyptian funerary practices - Wikiwand](https://www.wikiwand.com/en/Ancient_Egyptian_funerary_practices)
+[Mummy - Wikiwand](https://omni.wikiwand.com/en/Mummy)
+[Ancient Egyptian funerary practices - Wikiwand](https://omni.wikiwand.com/en/Ancient_Egyptian_funerary_practices)
 [Mummification (How an Ancient Egyptian Mummy was Made) - YouTube](https://www.youtube.com/watch?v=4FiM8S2_nSg)
 [Mummification](http://www.ancientegypt.co.uk/mummies/home.html)
 
-[Book of the Dead - Wikiwand](https://www.wikiwand.com/en/Book_of_the_Dead)
-[死者之書 - Wikiwand](https://www.wikiwand.com/zh/%E6%AD%BB%E8%80%85%E4%B9%8B%E4%B9%A6)
+[Book of the Dead - Wikiwand](https://omni.wikiwand.com/en/Book_of_the_Dead)
+[死者之書 - Wikiwand](https://omni.wikiwand.com/zh/%E6%AD%BB%E8%80%85%E4%B9%8B%E4%B9%A6)
 
 ## Six Day War
 

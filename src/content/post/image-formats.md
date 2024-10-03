@@ -2,7 +2,7 @@
 title: Image Formats
 description: ""
 created: 2016-08-04
-updated: 2023-10-11
+updated: 2024-09-04
 tags:
   - standard
 ---
@@ -11,12 +11,17 @@ tags:
 
 [TIFF Tag Reference](http://www.awaresystems.be/imaging/tiff/tifftags.html)
 
+[It’s High Time to Replace JPEG With a Next-Generation Image Codec](https://cloudinary.com/blog/time_for_next_gen_codecs_to_dethrone_jpeg)
+
 [Is WebP really better than JPEG? – siipo.la](https://siipo.la/blog/is-webp-really-better-than-jpeg)
 [What’s the best lossless image format? PNG, WebP, AVIF, and JPEG XL compared – siipo.la](https://siipo.la/blog/whats-the-best-lossless-image-format-comparing-png-webp-avif-and-jpeg-xl)
+
+[A rant about image formats - YouTube](https://www.youtube.com/watch?v=pFNmS_HZ2Zs) jpeg, png, svg, webp, avif, jpeg-xl
 
 ## PNG
 
 [How PNG Works: Compromising Speed for Quality - YouTube](https://www.youtube.com/watch?v=EFUYNoFRHQI) also on QOI
+[How PNG Works: Compromising Speed for Quality - YouTube](https://www.youtube.com/watch?v=EFUYNoFRHQI)
 
 - Lossless compression
 - Run length encoding
@@ -32,19 +37,20 @@ tags:
 [Understanding and Decoding a JPEG Image using Python - Yasoob Khalid](https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python/)
 
 [How JPEG Works - YouTube](https://www.youtube.com/playlist?list=PLzH6n4zXuckoAod3z31QEST1ZaizBuNHh) Computerphile
+[JPEG凭什么称霸互联网 30 多年？你大爷永远是你大爷！【柴知道】 - YouTube](https://www.youtube.com/watch?v=NpbhFTmUvts)
 
 [The Unreasonable Effectiveness of JPEG: A Signal Processing Approach - YouTube](https://www.youtube.com/watch?v=0me3guauqOU)
 
 ## AVIF
 
-[AVIF - Wikiwand](https://www.wikiwand.com/en/AVIF)
+[AVIF - Wikiwand](https://omni.wikiwand.com/en/AVIF)
 [Web developer's guide to AVIF images](https://darekkay.com/blog/avif-images/)
 
 [AVIF browser test page: AVIF support in Chrome, Firefox, Edge…](https://libre-software.net/image/avif-test/)
 
 ## WEBP
 
-[WebP - Wikiwand](https://www.wikiwand.com/en/WebP)
+[WebP - Wikiwand](https://omni.wikiwand.com/en/WebP)
 
 [Getting Started | WebP | Google Developers](https://developers.google.com/speed/webp/docs/using)
 [An image format for the Web | WebP | Google Developers](https://developers.google.com/speed/webp/)

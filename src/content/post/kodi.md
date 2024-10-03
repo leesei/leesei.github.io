@@ -2,14 +2,14 @@
 title: Kodi
 description: ""
 created: 2015-08-12
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - app
   - kodi
   - xbmc
 ---
 
-Used to be called XBMC (XBox Media Center), the project was renamed to [Kodi](<http://www.wikiwand.com/en/Kodi_(software)>) to step out from XBox's shadow.
+Used to be called XBMC (XBox Media Center), the project was renamed to [Kodi](<http://omni.wikiwand.com/en/Kodi_(software)>) to step out from XBox's shadow.
 
 [Kodi](http://kodi.wiki/view/Main_Page)
 

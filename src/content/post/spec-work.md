@@ -2,12 +2,12 @@
 title: Speculative Work
 description: ""
 created: 2016-09-22
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - economics
 ---
 
-[Speculative work - Wikiwand](https://www.wikiwand.com/en/Speculative_work)
+[Speculative work - Wikiwand](https://omni.wikiwand.com/en/Speculative_work)
 [The “Pros” and Cons of Spec Work | JUST™ Creative](http://justcreative.com/2009/08/12/the-pros-and-cons-of-spec-work/)
 [What is Spec Work? - YouTube](https://www.youtube.com/watch?v=DsstOs-K7gk)
 [No!Spec](http://www.nospec.com/)

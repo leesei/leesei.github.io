@@ -2,7 +2,7 @@
 title: Kids Learning
 description: ""
 created: 2016-08-17
-updated: 2023-11-02
+updated: 2024-09-01
 tags:
   - learning
 ---
@@ -49,18 +49,18 @@ tags:
 [三月百課](https://freeclassroom.online/video.php)
 
 [Home - PhysicsWallah](http://physicswallahalakhpandey.com/) Physics and Chemistry
-[The Royal Institution - YouTube](https://www.youtube.com/channel/UCYeF244yNGuFefuFKqxIAXw) STEM talks
+[The Royal Institution - YouTube](https://www.youtube.com/@TheRoyalInstitution) STEM talks
+[LIS-science fun - YouTube](https://www.youtube.com/@LISscience) Steam
 [Toppr: Better learning for better results](https://www.toppr.com/)
 
 [教育局教育電視](https://www.hkedcity.net/etv/zh-hant)
 [香港公共圖書館 - 最新消息](https://www.hkpl.gov.hk/tc/e-resources/latest-notice.html) Kids InfoBits, OverDrive, TumbleBookLibrary
-[LIS-science fun - YouTube](https://www.youtube.com/channel/UCEjSMfRDks28MYaJ4iPkQMQ) Steam
-[嘉芙姐姐音樂小教室 - YouTube](https://www.youtube.com/channel/UCZgs3pLaFisZ-TKVOwFEe8Q)
-[小行星樂樂 TV - YouTube](https://www.youtube.com/channel/UCtWocEKhgpEffPDlwwozK9Q)
-[瞳心 Eunice - YouTube](https://www.youtube.com/user/eunicewyf)
-[Peekaboo Kidz - YouTube](https://www.youtube.com/user/Peekaboo) Dr. Binocs
+[嘉芙姐姐音樂小教室 - YouTube](https://www.youtube.com/@kafoomusic)
+[小行星樂樂 TV - YouTube](https://www.youtube.com/@XIAOXINGXING-LeLeTV)
+[瞳心 Eunice - YouTube](https://www.youtube.com/@eunicestories)
+[Peekaboo Kidz - YouTube](https://www.youtube.com/@Peekaboo_Kidz) Dr. Binocs
 [Explained With LEGO Bricks | Homeschool with LEGO Lessons - YouTube](https://www.youtube.com/playlist?list=PLRNbTEZ7dhL0LMDtir9pIgT89718ghah3)
-[Super Simple Learning - YouTube](https://www.youtube.com/user/supersimplelearning)
+[Super Simple Learning - YouTube](https://www.youtube.com/@SuperSimpleOnline)
 
 ## 德育
 
@@ -203,9 +203,9 @@ tags:
 ## 手工/Hand Crafting
 
 [儿童手工 diy 创意制作材料包纸盘贴贴画幼儿园益智力男女孩玩具-淘宝网](https://item.taobao.com/item.htm?id=587408365712)
-[ShaSha hand made 【DIY】 - YouTube](https://www.youtube.com/channel/UCzJo2UX8ysB6rAB0xcMOuJw)
-[SLICK SLIME SAM Live - YouTube](https://www.youtube.com/channel/UCtG0O1M63K3cYaPxioJN6Rg)
-[Kimberly Toon - YouTube](https://www.youtube.com/c/KimberlyToon)
+[ShaSha hand made 【DIY】 - YouTube](https://www.youtube.com/@shashahandmae1225)
+[SLICK SLIME SAM Live - YouTube](https://www.youtube.com/@SLICKSLIMESAMLive)
+[Kimberly Toon - YouTube](https://www.youtube.com/@KimberlyToon)
 
 [一秒變身畢卡索，牛奶畫布畫起來！【LIS 實驗室】 - YouTube](https://www.youtube.com/watch?v=k2HI0V-AK1k)
 
@@ -260,31 +260,20 @@ synthetic phonics
 [Little Fox](https://www.littlefox.com/en/free)
 [【暑假活動】12 大幼兒學英文 YouTube 頻道推介 | Oh!爸媽 - Ohpama.com 一站式升學、親子網站](https://www.ohpama.com/574617/%E9%96%B1%E8%AE%80%E5%AD%B8%E7%BF%92/%E9%82%8A%E7%8E%A9%E9%82%8A%E5%AD%B8/%e6%9a%91%e5%81%87%e6%b4%bb%e5%8b%95-12%e5%a4%a7%e5%b9%bc%e5%85%92%e5%ad%b8%e8%8b%b1%e6%96%87youtube%e9%a0%bb%e9%81%93%e6%8e%a8%e4%bb%8b/)
 
-[The Singing Walrus - English Songs For Kids - YouTube](https://www.youtube.com/user/SingingWalrusMusic)
-[Pinkfong! Kids' Songs & Stories - YouTube](https://www.youtube.com/user/SmartBooksMedia)
-[Jack Hartmann Kids Music Channel - YouTube](https://www.youtube.com/user/JackHartmann)
-[Dream English Kids - YouTube](https://www.youtube.com/user/DreamEnglishKids)
-[The Kiboomers - Kids Music Channel - YouTube](https://www.youtube.com/channel/UCLy6-72NzYpFztbJ7jNEMkg)
-[Bounce Patrol Kids - YouTube](https://www.youtube.com/channel/UC56cowXhoqRWHeqfSJkIQaA)
-[LittleBabyBum ® - YouTube - YouTube](https://www.youtube.com/user/LittleBabyBum)
-[twentytrucks - YouTube](https://www.youtube.com/user/twentytrucks)
-[Fun Kids English - YouTube](https://www.youtube.com/channel/UC4P8csyQKa2_0D5-VtITRIg)
-[English Singsing - YouTube](https://www.youtube.com/c/EnglishSingsing)
-
-[Hello Hello! Can You Clap Your Hands? | Original Kids Song | Super Simple Songs - YouTube](https://www.youtube.com/watch?v=fN1Cyr0ZK9M)
-[Clean Up Song | Kids Song for Tidying Up | Super Simple Songs - YouTube](https://www.youtube.com/watch?v=SFE0mMWbA-Y)
-[Bye Bye Goodbye | Goodbye Song for Kids | Super Simple Songs - YouTube](https://www.youtube.com/watch?v=PraN5ZoSjiY)
-
-[Baa Baa Black Sheep | CoCoMelon Nursery Rhymes & Kids Songs - YouTube](https://www.youtube.com/watch?v=MR5XSOdjKMA)
-[Baby Shark Dance | Sing and Dance! | Animal Songs | PINKFONG Songs for Children - YouTube](https://www.youtube.com/watch?v=XqZsoesa55w&t=13s)
-
-[Noodle & Pals! - YouTube](https://www.youtube.com/playlist?list=PLdkj6XH8GYPSlWRvfDZOgcoZ-j8cXU04G) 14 songs
-[One Little Finger | featuring Noodle & Pals | Super Simple Songs - YouTube](https://www.youtube.com/watch?v=eBVqcTEC3zQ)
-[Walking Walking | featuring Noodle & Pals | Super Simple Songs - YouTube](https://www.youtube.com/watch?v=fPMjnlTEZwU)
+[The Singing Walrus - English Songs For Kids - YouTube](https://www.youtube.com/@Thesingingwalrus)
+[Baby Shark - Pinkfong Kids’ Songs & Stories - YouTube](https://www.youtube.com/@Pinkfong)
+[Jack Hartmann Kids Music Channel - YouTube](https://www.youtube.com/@JackHartmann)
+[Dream English Kids - YouTube](https://www.youtube.com/@DreamEnglishKids)
+[The Kiboomers - Kids Music Channel - YouTube](https://www.youtube.com/@thekiboomers)
+[Bounce Patrol Kids - YouTube](https://www.youtube.com/@bouncepatrol)
+[LittleBabyBum ® - YouTube - YouTube](https://www.youtube.com/@LittleBabyBum)
+[Fun Kids English - YouTube](https://www.youtube.com/@Funkidsenglish)
+[English Singsing - YouTube](https://www.youtube.com/@EnglishSingsing)
 
 [British Council LearnEnglish Kids | Free online games, songs, stories and activities for children](https://learnenglishkids.britishcouncil.org/)
 [English grammar for kids](https://www.anglomaniacy.pl/grammar.htm)
 
+[As the leading synthetic phonics publishers, and the most experienced, we offer a 7-year programme that takes children beyond phonics.](https://www.jollylearning.co.uk/)
 [Free eBook library | Oxford Owl from Oxford University Press](https://www.oxfordowl.co.uk/for-home/find-a-book/library-page)
 [Language Worksheets](https://www.worksheetplace.com/index.php?function=DisplayCategory&showCategory=Y&links=1&id=43&link1=43)
 [English Created Resources](https://www.nortechplus.com/)
@@ -300,10 +289,10 @@ synthetic phonics
 [音标 - YouTube](https://www.youtube.com/playlist?list=PLiRHe7F8P0-2wRRzK6nzriMTXyfRwKEG6)
 [英语的节奏和"等时性"(这才是中式英语的罪魁祸首!) - YouTube](https://www.youtube.com/watch?v=VMDhdaMkeBU)
 
-[Joe Cheers - YouTube](https://www.youtube.com/user/cheerfulkids)
+[Joe Cheers - YouTube](https://www.youtube.com/@cheerfulkids)
 
-[Alphablocks - YouTube](https://www.youtube.com/channel/UC_qs3c0ehDvZkbiEbOj6Drg)
-[RASS LANGUAGE - Reading as Art & Science of Sounds - YouTube](https://www.youtube.com/channel/UCeIP4_JK2Dq6lK4itc-_rGw)
+[Alphablocks - YouTube](https://www.youtube.com/@officialalphablocks)
+[RASS LANGUAGE - Reading as Art & Science of Sounds - YouTube](https://www.youtube.com/@Rasslanguage)
 
 [Start reading with Synthetic Phonics - YouTube](https://www.youtube.com/watch?v=rNG7cSFhAHo)
 [Reading English - Best Phonics practice for Kids - YouTube](https://www.youtube.com/watch?v=5UGOr4GAlvQ)
@@ -429,9 +418,9 @@ modeling by rod which popped up when pivoted on the surface
 
 ## Cartoon
 
-[Robocar POLI TV - YouTube](https://www.youtube.com/user/roivisual)
-[Poli 波力 - Wikiwand](https://www.wikiwand.com/zh/Poli%E6%B3%A2%E5%8A%9B)
-[Robocar Poli - Wikiwand](https://www.wikiwand.com/en/Robocar_Poli#/Main_Characters)
+[Robocar POLI TV - YouTube](https://www.youtube.com/@robocarpoli)
+[Poli 波力 - Wikiwand](https://omni.wikiwand.com/zh/Poli%E6%B3%A2%E5%8A%9B)
+[Robocar Poli - Wikiwand](https://omni.wikiwand.com/en/Robocar_Poli#/Main_Characters)
 [Category:Characters | Robocar Poli Wiki | FANDOM powered by Wikia](https://robocarpoli.fandom.com/wiki/Category:Characters)
 
 ## 感覺統合訓練

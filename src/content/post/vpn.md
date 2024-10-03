@@ -2,24 +2,35 @@
 title: VPN
 description: ""
 created: 2023-04-14
-updated: 2023-11-22
+updated: 2024-09-06
 tags:
   - comp/network
 ---
 
-## VPN
+[6 Totally Free VPN Services to Protect Your Privacy](https://www.makeuseof.com/tag/7-completely-free-vpn-services-protect-privacy/)
+
+# VPN
 
 [OpenMPTCProuter - Internet connection bonding - Home](https://www.openmptcprouter.com/)
 
-[Dreamacro/clash: A rule-based tunnel in Go.](https://github.com/Dreamacro/clash)
+[muink/Clash.Meta: A rule-based tunnel in Go.](https://github.com/muink/Clash.Meta)
+[wangtz0607/clash: A rule-based tunnel in Go.](https://github.com/wangtz0607/clash)
 [zzzgydi/clash-verge: A Clash GUI based on tauri. Supports Windows, macOS and Linux.](https://github.com/zzzgydi/clash-verge)
+[Clash : A Rule-Based Tunnel In Go !!! Kali Linux Tutorials](https://kalilinuxtutorials.com/clash-2/)
 
 [AK 【硬核翻墙系列】 - YouTube](https://www.youtube.com/playlist?list=PLB_IY29eVwsU8HwEY-qgqZ8F2fNzBKIy-)
 
 [不良林 - YouTube](https://www.youtube.com/@bulianglin)
 [【进阶•代理模式篇】看懂就能解决 99%的代理问题，详解系统代理、TUN/TAP 代理、真 VPN 代理，clash/v2ray/singbox 虚拟网卡怎么接管系统全局流量？什么是真正的 VPN？看完就知道了 - YouTube](https://www.youtube.com/watch?v=qItL005LUik)
 
-### Hosted Providers
+## Split Tunneling
+
+[Split tunneling - Wikiwand](https://omni.wikiwand.com/en/Split%20tunneling)
+
+[What is VPN Split Tunneling? | Fortinet](https://www.fortinet.com/resources/cyberglossary/vpn-split-tunneling)
+[Understanding VPN Split Tunneling and How It Works | Security.org](https://www.security.org/vpn/split-tunneling/)
+
+## Hosted Providers
 
 [10 Best VPNs in 2020 for PC, Mac, & Phone – 100% SECURE](https://www.vpnmentor.com/)
 [免費 VPN 推介｜ 10GB 任用　免費竟好過收費？消委會 6 款免費 VPN 評測](https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/743212/)
@@ -43,7 +54,7 @@ tags:
 
 [快帆-海外华人回国 VPN|解锁爱奇艺优酷 B 站腾讯视频 QQ 音乐网易云酷狗海外版权限制](https://www.speedin.in/)
 
-### WireGuard
+## WireGuard
 
 > not sure how auth is done
 
@@ -56,6 +67,8 @@ tags:
 [Linux's WireGuard VPN is here and ready to protect you | ZDNet](https://www.zdnet.com/google-amp/article/linuxs-wireguard-vpn-is-here-and-ready-to-protect-you/)
 [FLOSS Weekly 468 WireGuard](https://twit.tv/shows/floss-weekly/episodes/468)
 
+[How to Install WireGuard in a Proxmox Container LXC - YouTube](https://www.youtube.com/watch?v=i0YjvtZ4nMI)
+
 [SimplePrivateTunnelVPNWithWireGuard - Debian Wiki](https://wiki.debian.org/SimplePrivateTunnelVPNWithWireGuard)
 [Set Up WireGuard VPN on Ubuntu | Linode](https://www.linode.com/docs/networking/vpn/set-up-wireguard-vpn-on-ubuntu/)
 [Alpine Linux set up WireGuard VPN server](https://www.cyberciti.biz/faq/how-to-set-up-wireguard-vpn-server-on-alpine-linux/amp/)
@@ -67,35 +80,48 @@ tags:
 
 [aramperes/onetun: Access your WireGuard network from any device, without root access or having to install WireGuard locally.](https://github.com/aramperes/onetun)
 
-### Tailscale
+## Tailscale
 
 > free for personal and community on GitHub
+> self-hosting available
 
 [Tailscale · Best VPN Service for Secure Networks](https://tailscale.com/)
 
 [Free pricing plans and discounts · Tailscale](https://tailscale.com/kb/1154/free-plans-discounts/)
 
 [Tailnet lock white paper · Tailscale](https://tailscale.com/kb/1230/tailnet-lock-whitepaper/)
+[Tailscale: A Virtual Private Network for Zero Trust Security – The New Stack](https://thenewstack.io/tailscale-a-virtual-private-network-for-zero-trust-security/)
 
-### Twingate
+[Headscale](https://headscale.net/) compatible with Tailscale client
+[Container - Headscale](https://headscale.net/running-headscale-container/)
+[gurucomputing/headscale-ui: A web frontend for the headscale Tailscale-compatible coordination server](https://github.com/gurucomputing/headscale-ui)
+[Self Host Tailscale with Headscale - How To Setup - YouTube](https://www.youtube.com/watch?v=OECp6Pj2ihg)
+[JimsGarage/Headscale at main · JamesTurland/JimsGarage · GitHub](https://github.com/JamesTurland/JimsGarage/tree/main/Headscale)
+
+## Twingate
 
 [Twingate: It's time to ditch your VPN](https://www.twingate.com/)
 Free for 5 users, 10 networks
 
 [the END of VPNs?! - YouTube](https://www.youtube.com/watch?v=IYmXPF3XUwo)
 
-### SoftEther VPN
+## Netbird
+
+[Pricing - NetBird](https://netbird.io/pricing) 5 users, 100 machines
+[netbirdio/netbird: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.](https://github.com/netbirdio/netbird)
+
+## SoftEther VPN
 
 [SoftEther VPN Project - SoftEther VPN Project](https://www.softether.org/)
 multiple technologies
 
-### Clash
+## Clash
 
 [What is Clash? | Clash](https://dreamacro.github.io/clash/)
 [Dreamacro/clash: A rule-based tunnel in Go.](https://github.com/Dreamacro/clash)
 [Clash Editor](https://clash.skk.moe/general)
 
-### OpenVPN/IPSec
+## OpenVPN/IPSec
 
 [OpenVPN - Open Source VPN](https://openvpn.net/)
 [howto/openvpn](https://dn42.net/howto/openvpn)
@@ -109,11 +135,15 @@ multiple technologies
 
 [PIVPN: Simplest way to setup a VPN](https://www.pivpn.io/)
 
-## Mesh VPN
+[OpenConnect VPN client.](https://www.infradead.org/openconnect/)
+
+[Tunnelblick | Free open source OpenVPN VPN client server software for macOS](https://tunnelblick.net/)
+
+# Mesh VPN
 
 [Open Source Mesh VPN Solutions - YouTube](https://www.youtube.com/watch?v=QfcwiSkV_AU)
 
-### ZeroTier
+## ZeroTier
 
 > self-host for non-commercial use
 
@@ -122,7 +152,7 @@ multiple technologies
 
 [zerotier/awesome-zerotier: A collection of things you can do with ZeroTier, how-to guides, and more](https://github.com/zerotier/awesome-zerotier)
 
-### Nebula
+## Nebula
 
 [Introducing Nebula, the open source global overlay network from Slack - Slack Engineering](https://slack.engineering/introducing-nebula-the-open-source-global-overlay-network-from-slack/) encrypted mesh network, UDP only, cross providers, security group, testable
 [Nebula mesh network - an introduction :: TheOrangeOne](https://theorangeone.net/posts/nebula-intro/)
@@ -136,7 +166,7 @@ multiple technologies
 [Nebula, the open source global overlay network VPN solution. - YouTube](https://www.youtube.com/watch?v=94KYUhUI1G0)
 [The Power of Zero-Trust Architecture: Building a Secure Internal Network with Nebula - YouTube](https://www.youtube.com/watch?v=aImSCypCsuw) each peer has its agent (for cert verification) and firewall, no bridging by default
 
-### NordVPN Meshnet
+## NordVPN Meshnet
 
 > free for up to 10 devices you own and 50 external devices
 
@@ -147,7 +177,7 @@ multiple technologies
 [NordVPN Meshnet 推出免費版　輕鬆設立私人 VPN 網絡提升安全性 - 香港 unwire.hk](https://unwire.hk/2023/04/11/nordvpn-meshnet/life-tech/)
 [NordVPN's Meshnet Is Cool, but Don't Expect It to Replace Your VPN - CNET](https://www.cnet.com/tech/services-and-software/nordvpns-meshnet-is-cool-but-dont-expect-it-to-replace-your-vpn/)
 
-### Hamachi
+## Hamachi
 
 > free for up to 5 computers
 

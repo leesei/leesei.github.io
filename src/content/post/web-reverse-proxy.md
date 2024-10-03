@@ -2,21 +2,27 @@
 title: Reverse Proxy
 description: ""
 created: 2015-06-17
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - dev/deploy
   - web
   - web/deploy
 ---
 
-[Reverse proxy - Wikiwand](https://www.wikiwand.com/en/Reverse_proxy)
+[Reverse proxy - Wikiwand](https://omni.wikiwand.com/en/Reverse_proxy)
 [What is a Reverse Proxy Server? | NGINX](https://www.nginx.com/resources/glossary/reverse-proxy-server/)
 
 [Proxy vs Reverse Proxy Server Explained - YouTube](https://www.youtube.com/watch?v=SqqrOspasag)
 [Proxy vs Reverse Proxy Explained - YouTube](https://www.youtube.com/watch?v=RXXRguaHZs0)
-[webserver - Difference between proxy server and reverse proxy server - Stack Overflow](https://stackoverflow.com/questions/224664/difference-between-proxy-server-and-reverse-proxy-server?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
+[webserver - Difference between proxy server and reverse proxy server - Stack Overflow](https://stackoverflow.com/questions/224664/difference-between-proxy-server-and-reverse-proxy-server)
+
+[Difference between API Gateway and Load Balancer in System Design - DEV Community](https://dev.to/somadevtoo/difference-between-api-gateway-and-load-balancer-in-system-design-54dd)
+[Difference between Forward Proxy and Reverse Proxy in System design - DEV Community](https://dev.to/somadevtoo/difference-between-forward-proxy-and-reverse-proxy-in-system-design-54g5)
 
 [Load balancing in Layer 4 vs Layer 7 with HAPROXY Examples - YouTube](https://www.youtube.com/watch?v=aKMLgFVxZYk)
+
+[Load Balancing](https://samwho.dev/load-balancing/)
+[I Finally Understand Load Balancing - YouTube](https://www.youtube.com/watch?v=jdRTpslyvP4)
 
 [Load Balancer vs Reverse Proxy (Explained by Example) - YouTube](https://www.youtube.com/watch?v=S8J2fkN2FeI)
 [What is a Reverse Proxy vs. Load Balancer? - NGINX](https://www.nginx.com/resources/glossary/reverse-proxy-vs-load-balancer/)
@@ -52,8 +58,6 @@ Load balancer is an application of reverse proxy
 
 [squid : Optimising Web Delivery](http://www.squid-cache.org/)
 
-[mitmproxy - an interactive HTTPS proxy](https://mitmproxy.org/)
-
 [HAProxy vs Nginx - what's in your wallet? - The Matrix has you...](https://distinctplace.com/2017/04/20/haproxy-vs-nginx/)
 
 ## Linux Kernel
@@ -74,7 +78,7 @@ Used by Docker SwarmKit
 
 ## HAProxy
 
-[HAProxy - Wikiwand](https://www.wikiwand.com/en/HAProxy)
+[HAProxy - Wikiwand](https://omni.wikiwand.com/en/HAProxy)
 [HAProxy - The Reliable, High Performance TCP/HTTP Load Balancer](http://www.haproxy.org/)
 
 [Load balancing in Layer 4 vs Layer 7 with HAPROXY Examples - YouTube](https://www.youtube.com/watch?v=aKMLgFVxZYk)
@@ -108,6 +112,11 @@ Used by Docker SwarmKit
 ```sh
 go get github.com/xyproto/algernon
 ```
+
+## Pingora
+
+[Open sourcing Pingora: our Rust framework for building programmable network services](https://blog.cloudflare.com/pingora-open-source)
+[Cloudflare Open Sources Its Low Level RUST HTTP Framework, Pingora | Prime Reacts - YouTube](https://www.youtube.com/watch?v=BnLSNf_KiPc)
 
 ## LiteSpeed
 
@@ -191,6 +200,10 @@ Auto load-balancing, supports multiple service registries (Docker, Kubernetes, M
 [Dockerize-Me: Traefik as Reverse-Proxy – Part 6 – WirelessMoves](https://blog.wirelessmoves.com/2021/02/dockerize-me-traefik-as-reverse-proxy-part-6.html)
 [Running Traefik on Worker Nodes More Securely – mikesir87's blog](https://blog.mikesir87.io/2019/08/running-traefik-on-worker-nodes-more-securely/)
 [Is this the BEST Reverse Proxy for Docker? // Traefik Tutorial - YouTube](https://www.youtube.com/watch?v=wLrmmh1eI94)
+
+SmartHomeBeginner
+[Auto Traefik 2 - Docker, Traefik, SSL, Authelia, and more in minutes - YouTube](https://www.youtube.com/playlist?list=PL1Hno7tIbSWViTyCXl9xNdXXU-1bVxIFD)
+[Demystifying Traefik v3 - Full Traefik Course for Homelabbers by AnandsLab - YouTube](https://www.youtube.com/playlist?list=PL1Hno7tIbSWUGrZSqeB9aCsdAuoeVwvgh)
 
 ## Keepalived
 

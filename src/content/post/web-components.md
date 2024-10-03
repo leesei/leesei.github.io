@@ -2,7 +2,7 @@
 title: Web Components
 description: ""
 created: 2022-08-23
-updated: 2023-09-29
+updated: 2024-03-12
 tags:
   - web
   - web-components
@@ -19,14 +19,15 @@ tags:
 [The broken promise of Web Components | A Place Where Even Mammoths Fly](https://dmitriid.com/blog/2017/03/the-broken-promise-of-web-components/)
 [The Story of Web Components - YouTube](https://www.youtube.com/watch?v=fKqgdT-KLrM)
 
-[Building Components | Web Fundamentals | Google Developers](https://developers.google.com/web/fundamentals/web-components/)
+[Building components  |  Articles  |  web.dev](https://web.dev/articles/web-components)
+[Web Components v1 - the next generation  |  Articles  |  web.dev](https://web.dev/articles/webcomponents-org)
+[Custom Elements v1 - Reusable Web Components  |  Articles  |  web.dev](https://web.dev/articles/custom-elements-v1)
+
 [What are WebComponents and why are they important?](http://www.revillweb.com/articles/why-web-components-are-important/)
 [An Introduction to Web Components | CSS-Tricks](https://css-tricks.com/an-introduction-to-web-components/)
 [Making Web Components for Different Contexts | CSS-Tricks](https://css-tricks.com/making-web-components-for-different-contexts/)
 [Introduction to Web Components](http://w3c.github.io/webcomponents/explainer/)
 [Home · basic-web-components/components-dev Wiki](https://github.com/basic-web-components/components-dev/wiki)
-
-[Web Components update: more time to upgrade to v1 APIs](https://developers.google.com/web/updates/2019/07/web-components-time-to-upgrade) v0 is removed from Chrome v80
 
 [Shadow DOM v1: Self-Contained Web Components | Web | Google Developers](https://developers.google.com/web/fundamentals/getting-started/primers/shadowdom)
 [The Hidden Case of the Shadow DOM | by Daniel Martin | Bits and Pieces](https://blog.bitsrc.io/the-hidden-case-of-the-shadow-dom-65d7e211c959)
@@ -36,7 +37,6 @@ tags:
 [Web Components in 2019: Part 3 - codeburst](https://codeburst.io/web-components-in-2019-part-3-e725b781a414)
 [Web Components in 2019: Part 4 - codeburst](https://codeburst.io/web-components-in-2019-part-4-7fe8e63a4dee)
 
-[Custom Elements: defining new elements in HTML - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/)
 [Sharing Polymer Components: Part 1 - Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/sharing-polymer-components-part-1--cms-21264)
 [Sharing Polymer Components: Part 2 - Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/sharing-polymer-components-part-2--cms-21497)
 [How to Turn React Component into Native Web Component](https://hackernoon.com/how-to-turn-react-component-into-native-web-component-84834315cb24)
@@ -96,6 +96,7 @@ tags:
 [LitElement](https://lit-element.polymer-project.org/) used by Polymer
 [Polymer/lit-element: A simple base class for creating fast, lightweight web components](https://github.com/Polymer/lit-element)
 
+[Intro to Lit: A JavaScript framework | InfoWorld](https://www.infoworld.com/article/3654302/intro-to-lit-a-javascript-framework.html)
 [Getting Started with a New Lit Project in 2023 | Bits and Pieces](https://blog.bitsrc.io/getting-started-with-a-new-lit-project-in-2023-1835ed79a9e9)
 [You can use Lit everywhere - YouTube](https://www.youtube.com/watch?v=Jy0dMy2qDMo)
 

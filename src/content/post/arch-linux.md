@@ -1,8 +1,8 @@
 ---
-title: Arch linux
+title: Arch Linux
 description: ""
 created: 2014-12-08
-updated: 2023-10-16
+updated: 2024-09-15
 tags:
   - arch-linux
   - desktop
@@ -10,7 +10,7 @@ tags:
   - package-manager
 ---
 
-[Arch Linux - Wikiwand](http://www.wikiwand.com/en/Arch_Linux)
+[Arch Linux - Wikiwand](http://omni.wikiwand.com/en/Arch_Linux)
 [Arch Linux Wiki](https://www.archlinux.org/)
 [Community Wiki | Antergos](http://antergos.com/wiki/)
 [Arch Linux ARM](https://archlinuxarm.org/)
@@ -44,7 +44,8 @@ tags:
 [Top 9 User-friendly Arch-Based Linux Distributions [2020]](https://itsfoss.com/arch-based-linux-distros/)
 
 [EndeavourOS – A terminal-centric distro with a dynamic and friendly community in its core](https://endeavouros.com/) any DE, close to Arch, less UI apps, focus on community, successor of Antergos
-DE: Xfce, LXQt, MATE, i3-wm, GNOME 3, Plasma, Cinnamon, Budgie, Deepin
+DE: Xfce, Plasma, Gnome, Mate, Cinnamon, Budgie, LxQt, LxDe, i3-wm
+Community DE: Sway, Qtile, BSPWM, Openbox, Worm
 [Garuda Linux | Home](https://garudalinux.org/)
 Eagle themed distro focuses on performance, BTRFS by default
 DE: GNOME, Xfce, Cinnamon, MATE, LXQt-kwin, Deepin, Wayfire, BSPWM and i3wm.
@@ -66,6 +67,7 @@ DE: Budgie, Cinnamon, GNOME, KDE, MATE, Xfce
 
 [ArcoLinux.info | Linux Made Easy and Beautiful](https://arcolinux.info/)
 [Arcolinux.com | Linux Made Easy and Beautiful](https://arcolinux.com/) focus more on teaching you how to install Arch
+[Erik Dubois - YouTube](https://www.youtube.com/@ErikDubois)
 DE: Xfce, Openbox, i3 (ArcoLinux); varies (ArcoLinuxD/ArcoLinuxB)
 
 [ParabolaWiki](https://wiki.parabola.nu/Main_Page) GNU only
@@ -128,6 +130,7 @@ ArchBang kick-start you with OpenBox WM.
 ## Installation
 
 [Installation guide - ArchWiki](https://wiki.archlinux.org/title/Installation_guide)
+[Arch Linux Installation Guide For Developers | LunaTrace](https://www.lunasec.io/docs/blog/arch-linux-installation-guide/)
 
 [Installing Arch Linux (Standard Procedure) - YouTube](https://www.youtube.com/watch?v=lizdpoZj_vU) 2015-10
 [Full Arch Linux Install (SAVAGE Edition!) - YouTube](https://www.youtube.com/watch?v=4PBqpX0_UOc) 2018-03
@@ -314,11 +317,8 @@ ls /dev/disk/by-{id,label,uuid}
 
 [Arch Linux - Mirror Overview](https://www.archlinux.org/mirrors/)
 [Arch Linux - Pacman Mirrorlist Generator](https://www.archlinux.org/mirrorlist/)
-<http://repo.manjaro.org>
 
 ```sh
-sudo pacman-mirrors -i # or -g
-
 # mirror list is located at
 sudo vi /etc/pacman.d/mirrorlist
 ```
@@ -523,17 +523,12 @@ whoneeds package_name
 [[SOLVED] Should I install programs using pacman or packer? (Page 1) / Pacman/Packages / ArchBang Forums](http://bbs.archbang.org/viewtopic.php?id=2474)
 [Speed Up Compilation Process When Installing Packages From AUR](https://www.ostechnix.com/speed-compilation-process-installing-packages-aur/)
 
-[Don't Install Yaourt! Use These Alternatives for AUR in Arch Linux](https://itsfoss.com/best-aur-helpers/)
 [ericm/yup: Arch Linux AUR Helper with ncurses functionality and better searching and sorting](https://github.com/ericm/yup)
 
 #### yay
 
-[Jguer/yay: Yet another Yogurt - An AUR Helper written in Go](https://github.com/Jguer/yay) `yay-bin` in AUR
+[Jguer/yay: Yet another Yogurt - An AUR Helper written in Go](https://github.com/Jguer/yay) `yay` installed by default
 [Yay - Yet Another Reliable AUR Helper Written In GO - OSTechNix](https://www.ostechnix.com/yay-found-yet-another-reliable-aur-helper/)
-
-```sh
-cd /tmp && git clone 'https://aur.archlinux.org/yay.git' && cd /tmp/yay && makepkg -si && cd ~ && rm -rf /tmp/yay/
-```
 
 Make sure you have the `Color` option in your `/etc/pacman.conf`
 

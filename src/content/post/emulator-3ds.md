@@ -2,7 +2,7 @@
 title: 3DS Emulator
 description: ""
 created: 2023-06-12
-updated: 2023-09-29
+updated: 2024-09-29
 tags:
   - 3ds
   - emulator
@@ -19,9 +19,6 @@ boot9strap, luma3ds
 
 Zelda: Spirit Tracks
 Poochy & Yoshi’s Woolly World
-Apollo Justice: Ace Attorney (逆転裁判 4) https://www.emulator-roms.com/?game=apollo-justice-ace-attorney-eur-usa-3ds-cia/
-Phoenix Wright: Ace Attorney - Dual Destinies (逆転裁判 5) https://www.emulator-roms.com/?game=phoenix-wright-ace-attorney-dual-destinies-eur-usa-3ds-cia-eshop-region-free-dlc/
-Phoenix Wright: Ace Attorney - Spirit of Justice (逆転裁判 6) https://www.emulator-roms.com/?game=phoenix-wright-ace-attorney-spirit-of-justice-eur-usa-3ds-cia-region-free-dlc/
-Professor Layton vs. Phoenix Wright: Ace Attorney https://www.emulator-roms.com/?game=professor-layton-vs-phoenix-wright-ace-attorney-eur-usa-3ds-cia-region-free/
+Professor Layton vs. Phoenix Wright: Ace Attorney
 [Mario and Donkey Kong: Minis on the Move - 3DS ROM Download | EmuRoms.ch](http://www.emuroms.ch/3ds/mario-and-donkey-kong-minis-move-rom-download-torrent)
 [Why I Love Radiant Historia - YouTube](https://www.youtube.com/watch?v=Ktev66tZn3Q)

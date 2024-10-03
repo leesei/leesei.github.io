@@ -2,7 +2,7 @@
 title: Powershell
 description: ""
 created: 2023-05-19
-updated: 2023-09-29
+updated: 2024-09-29
 tags:
   - comp/lang
   - powershell
@@ -27,6 +27,11 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 Use "`" to escape ";" (like "\" in Linux)
 
+[PSWindowsupdate: Automated Windows Updates with PowerShell - Virtualization Howto](https://www.virtualizationhowto.com/2023/06/pswindowsupdate-automated-windows-updates-with-powershell/)
+
+[How To Use PS2EXE to Turn PowerShell Scripts Into EXE Files | ITPro Today: IT News, How-Tos, Trends, Case Studies, Career Tips, More](https://www.itprotoday.com/powershell/how-use-ps2exe-convert-powershell-scripts-exe-files)
+[PowerShell Screen Captures: Automate Screenshots in Your Scripts](https://www.itprotoday.com/powershell/powershell-screen-capture-how-to-automate-screenshots-in-your-scripts)
+
 [Powershell Tutorial - Tutorialspoint](https://www.tutorialspoint.com/powershell/)
 [Getting Started with PowerShell](https://www.robvanderwoude.com/powershellstart.php)
 [Learning PowerShell: The basics | Computerworld](https://www.computerworld.com/article/2893515/getting-started-with-powershell-the-basics.html) PowerShell primers series
@@ -38,6 +43,10 @@ Use "`" to escape ";" (like "\" in Linux)
 [PowerShell Core Commands - Stephanos Constantinou Blog](https://www.sconstantinou.com/powershell-core-commands/)
 [The 16 Best PowerShell Commands (Cmdlets) You Must Know](https://www.makeuseof.com/windows-powershell-commands-cmdlets/)
 [powershell Archives - ShellHacks](https://www.shellhacks.com/tag/powershell/)
+
+[How To Use PowerShell’s Get-Date Cmdlet To Create Timestamps](https://www.itprotoday.com/powershell/how-use-powershell-s-get-date-cmdlet-create-timestamps)
+[How To Create Custom PowerShell Cmdlets Using Modules (Video Tutorial)](https://www.itprotoday.com/powershell/how-create-your-own-powershell-cmdlets-video-tutorial)
+[Top 10 PowerShell Tips and Tricks of 2024 (So Far)](https://www.itprotoday.com/powershell/top-10-powershell-tips-and-tricks-of-2024-so-far-)
 
 [lextm/windowsterminal-shell: Install/uninstall scripts for Windows Terminal context menu items](https://github.com/lextm/windowsterminal-shell)
 [Hosting PowerShell in a Python script - PowerShell Team](https://devblogs.microsoft.com/powershell/hosting-powershell-in-a-python-script/)
@@ -127,6 +136,14 @@ Persist Environment Variables
 [CmdletBinding()]
 param()
 ```
+
+## .NET in Powershell
+
+[Enhancing PowerShell With Microsoft .NET Framework](https://www.itprotoday.com/powershell/enhancing-powershell-with-net-classes-and-methods)
+[Integrate Microsoft .NET Classes Into PowerShell Scripts](https://www.itprotoday.com/powershell/how-to-integrate-net-classes-into-powershell-scripts)
+[How To Use .NET Properties and Methods in PowerShell](https://www.itprotoday.com/powershell/how-to-use-net-properties-and-methods-in-powershell)
+
+[.NET API browser | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/api/?view=net-8.0)
 
 ## Session Manager
 

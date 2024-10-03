@@ -2,7 +2,7 @@
 title: Awesome Lists
 description: ""
 created: 2015-07-19
-updated: 2023-09-29
+updated: 2024-03-05
 tags:
   - comp/lang
 ---
@@ -10,10 +10,10 @@ tags:
 Awesome list is a project start
 
 [The awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
+[awesome-devenv/CONTRIBUTING.md at master · jondot/awesome-devenv](https://github.com/jondot/awesome-devenv/blob/master/CONTRIBUTING.md) awesome list guidelines
 
 ## Awesome lists of Awesome lists
 
-[Home | getAwesomeness()](https://getawesomeness.herokuapp.com/)
 [Topic: awesome](https://github.com/topics/awesome)
 
 [Awesome Awesomeness by Alexander Bayandin | ZEEF](https://awesome-awesomeness.zeef.com/alexander.bayandin), also [bayandin/awesome-awesomeness: A curated list of awesome awesomeness](https://github.com/bayandin/awesome-awesomeness)
@@ -26,13 +26,14 @@ Awesome list is a project start
 [jondot/awesome-devenv: A curated list of awesome tools, resources and workflow tips making an awesome development environment.](https://github.com/jondot/awesome-devenv)
 [JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
 
-[n1trux/awesome-sysadmin: A curated list of amazingly awesome open source sysadmin resources.](https://github.com/n1trux/awesome-sysadmin)
+[awesome-foss/awesome-sysadmin: A curated list of amazingly awesome open-source sysadmin resources.](https://github.com/awesome-foss/awesome-sysadmin)
 [Awesome SysAdmin](https://sysadmin.libhunt.com/)
 [veggiemonk/awesome-docker: A curated list of Docker resources and projects](https://github.com/veggiemonk/awesome-docker)
 [binhnguyennus/awesome-scalability: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-End Design Patterns](https://github.com/binhnguyennus/awesome-scalability)
 
 [burningtree/awesome-json: A curated list of awesome JSON libraries and resources.](https://github.com/burningtree/awesome-json)
 [sindresorhus/awesome-electron: Useful resources for creating apps with Electron](https://github.com/sindresorhus/awesome-electron)
+[sudhakar3697/awesome-electron-alternatives: A curated list of awesome Electron alternatives.](https://github.com/sudhakar3697/awesome-electron-alternatives)
 [lk-geimfari/awesomo: An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.](https://github.com/lk-geimfari/awesomo)
 
 [unicodeveloper/awesome-opensource-apps: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!](https://github.com/unicodeveloper/awesome-opensource-apps)

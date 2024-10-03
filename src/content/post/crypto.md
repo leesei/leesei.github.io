@@ -2,7 +2,7 @@
 title: Cryptography
 description: ""
 created: 2016-01-21
-updated: 2023-11-22
+updated: 2024-08-21
 tags:
   - crypto
   - cryptography
@@ -21,19 +21,28 @@ tags:
 [The Cryptopals Crypto Challenges](http://cryptopals.com/)
 [7 Cryptography Concepts EVERY Developer Should Know - YouTube](https://www.youtube.com/watch?v=NuyzuNBFWxQ)
 
+[An Overview of Cryptography](https://www.garykessler.net/library/crypto.html)
+
 In cryptography, these entities are usually used:
 
 - Alice, Bob, Charles, Douglas: authentic users
 - Eve: eavesdropper
 - Mallory: MITM attacker
 - Satan: malicious user/hacker
+  I
+
+## Classical Cryptography
+
+[Classical Cryptography - YouTube](https://www.youtube.com/playlist?list=PLrm9Y---qlNyIhxp6PQp-PQ5CePPc3JhI)
+
+[The Unbreakable Kryptos Code - YouTube](https://www.youtube.com/watch?v=jVpsLMCIB0Y) Vigenère cipher, substitution cipher
 
 ## Algorithms
 
 Bit security measures the number of trials required to brute-force a key. 128 bit security means 2128 trials to break.
 
-[Cryptographic nonce - Wikiwand](http://www.wikiwand.com/en/Cryptographic_nonce)
-[Comparison of cryptography libraries - Wikiwand](https://www.wikiwand.com/en/Comparison_of_cryptography_libraries)
+[Cryptographic nonce - Wikiwand](http://omni.wikiwand.com/en/Cryptographic_nonce)
+[Comparison of cryptography libraries - Wikiwand](https://omni.wikiwand.com/en/Comparison_of_cryptography_libraries)
 
 [cryptography - Do any security experts recommend bcrypt for password storage? - Information Security Stack Exchange](http://security.stackexchange.com/questions/4781/do-any-security-experts-recommend-bcrypt-for-password-storage)
 [BCrypt Explained - DEV Community 👩‍💻👨‍💻](https://dev.to/sylviapap/bcrypt-explained-4k5c)
@@ -47,8 +56,8 @@ Bit security measures the number of trials required to brute-force a key. 128 bi
 
 ### Authenticity
 
-[Message authentication code - Wikiwand](http://www.wikiwand.com/en/Message_authentication_code) MAC
-[Hash-based message authentication code - Wikiwand](http://www.wikiwand.com/en/Hash-based_message_authentication_code) HMAC, hash with secret key
+[Message authentication code - Wikiwand](http://omni.wikiwand.com/en/Message_authentication_code) MAC
+[Hash-based message authentication code - Wikiwand](http://omni.wikiwand.com/en/Hash-based_message_authentication_code) HMAC, hash with secret key
 [Moxie Marlinspike >> Blog >> The Cryptographic Doom Principle](http://www.thoughtcrime.org/blog/the-cryptographic-doom-principle/) Encrypt-then-MAC
 
 [Securing Stream Ciphers (HMAC) - Computerphile - YouTube](https://www.youtube.com/watch?v=wlSG3pEiQdc)
@@ -67,15 +76,15 @@ Certificate Authorities: a trusted third party that will digitally sign and publ
 [Serious Security: How to store your users’ passwords safely – Naked Security](https://nakedsecurity.sophos.com/2013/11/20/serious-security-how-to-store-your-users-passwords-safely/)
 [How Dropbox securely stores your passwords | Dropbox Tech Blog](https://blogs.dropbox.com/tech/2016/09/how-dropbox-securely-stores-your-passwords/)
 
-[scrypt - Wikiwand](https://www.wikiwand.com/en/Scrypt)
-[bcrypt - Wikiwand](https://www.wikiwand.com/en/Bcrypt)
-[Salt (cryptography) - Wikiwand](<https://www.wikiwand.com/en/Salt_(cryptography)>)
+[scrypt - Wikiwand](https://omni.wikiwand.com/en/Scrypt)
+[bcrypt - Wikiwand](https://omni.wikiwand.com/en/Bcrypt)
+[Salt (cryptography) - Wikiwand](<https://omni.wikiwand.com/en/Salt_(cryptography)>)
 
-[PBKDF2 - Wikiwand](https://www.wikiwand.com/en/PBKDF2)
+[PBKDF2 - Wikiwand](https://omni.wikiwand.com/en/PBKDF2)
 [PBKDF2 Hashing Algorithm. Before moving into the PBKDF2 hashing… | by Nishothan Vettivel | Medium](https://nishothan-17.medium.com/pbkdf2-hashing-algorithm-841d5cc9178d)
 [https://www.ietf.org/rfc/rfc2898.txt](https://www.ietf.org/rfc/rfc2898.txt)
 
-[Argon2 - Wikiwand](https://www.wikiwand.com/en/Argon2)
+[Argon2 - Wikiwand](https://omni.wikiwand.com/en/Argon2)
 [P-H-C/phc-winner-argon2: The password hash Argon2, winner of PHC](https://github.com/P-H-C/phc-winner-argon2)
 [How to enable Argon2 KDF in Bitwarden - gHacks Tech News](https://www.ghacks.net/2023/02/15/bitwarden-password-manager-introduces-support-for-argon2-kdf-iterations/)
 
@@ -86,7 +95,14 @@ Certificate Authorities: a trusted third party that will digitally sign and publ
 [The Linux Crypto API for user applications](https://blog.cloudflare.com/the-linux-crypto-api-for-user-applications/)
 This is slower than OpenSSL
 
-[AES instruction set - Wikiwand](https://www.wikiwand.com/en/AES_instruction_set)
+[Welcome to PyCryptodome’s documentation](https://www.pycryptodome.org/) `pycryptodome` provides `Crypto` package (to replace PyCrypto), `pycryptodomex` provides `Cryptodome` package
+[Legrandin/pycryptodome: A self-contained cryptographic library for Python](https://github.com/Legrandin/pycryptodome)
+
+[emmansun/gmsm: ShangMi (SM) cipher suites for golang (Go语言商用密码软件)](https://github.com/emmansun/gmsm)
+[tjfoc/gmsm: GM SM2/3/4 library based on Golang (基于Go语言的国密SM2/SM3/SM4算法库)](https://github.com/tjfoc/gmsm)
+[tjfoc/gmtls: GM TLS/SSL Based on Golang (基于国密算法的TLS/SSL代码库)](https://github.com/tjfoc/gmtls)
+
+[AES instruction set - Wikiwand](https://omni.wikiwand.com/en/AES_instruction_set)
 
 ## Key Exchange
 
@@ -102,7 +118,7 @@ This is slower than OpenSSL
 
 > contrast "stream ciphers", where encrypted strings are the same length as the plaintext
 
-[Symmetric-key algorithm - Wikiwand](https://www.wikiwand.com/en/Symmetric-key_algorithm)
+[Symmetric-key algorithm - Wikiwand](https://omni.wikiwand.com/en/Symmetric-key_algorithm)
 
 [Lecture3 Lecture 3: Block Ciphers and the Data Encryption Standard](https://engineering.purdue.edu/kak/compsec/NewLectures/Lecture3.pdf)
 
@@ -112,7 +128,7 @@ This is slower than OpenSSL
 
 ### Modes of operation
 
-[Block cipher mode of operation - Wikiwand](https://www.wikiwand.com/en/Block_cipher_mode_of_operation)
+[Block cipher mode of operation - Wikiwand](https://omni.wikiwand.com/en/Block_cipher_mode_of_operation)
 
 Block ciphers, as the name suggests, encrypts blocks. The methods of segmenting data into blocks is called "modes of operation".
 
@@ -121,12 +137,12 @@ Block ciphers, as the name suggests, encrypts blocks. The methods of segmenting 
 **CBC**: first block XORed with Initialization Vector (IV) (nonce), every other block XORed with the ciphertext of the block preceding it; however this introduces dependency on previous block and encryption cannot be parallelized
 **CTR**: uses counter and nounce (similar to IV) per block to allow each block to be encrypted concurrently
 
-[Authenticated encryption - Wikiwand](https://www.wikiwand.com/en/Authenticated_encryption) protects against chosen ciphertext attack on decryption oracle
+[Authenticated encryption - Wikiwand](https://omni.wikiwand.com/en/Authenticated_encryption) protects against chosen ciphertext attack on decryption oracle
 [Authenticated Encryption in .NET with AES-GCM](https://www.scottbrady91.com/c-sharp/aes-gcm-dotnet)
 
 ### AES
 
-[Advanced Encryption Standard - Wikiwand](https://www.wikiwand.com/en/Advanced_Encryption_Standard)
+[Advanced Encryption Standard - Wikiwand](https://omni.wikiwand.com/en/Advanced_Encryption_Standard)
 [Lecture 8: AES: The Advanced Encryption Standard](https://engineering.purdue.edu/kak/compsec/NewLectures/Lecture8.pdf)
 [Protect your TCP tunnel by implementing AES encryption with Python [Tutorial] | Packt Hub](https://hub.packtpub.com/protect-tcp-tunnel-implementing-aes-encryption-with-python/)
 
@@ -134,6 +150,8 @@ Block ciphers, as the name suggests, encrypts blocks. The methods of segmenting 
 [AES Explained (Advanced Encryption Standard) - Computerphile - YouTube](https://www.youtube.com/watch?v=O4xNJsjtN6E)
 [One Encryption Standard to Rule Them All! - Computerphile - YouTube](https://www.youtube.com/watch?v=VYech-c5Dic)
 [Almost All Web Encryption Works Like This (SP Networks) - Computerphile - YouTube](https://www.youtube.com/watch?v=DLjzI5dX8jc)
+
+CTR mode, also known as Counter mode, is a stream cipher mode of AES encryption. With stream cipher encryption, it is not necessary to encrypt the plaintext in fixed blocks like AES in CBC mode, which encrypts data in 16-byte blocks. If the plaintext to be encrypted is smaller than the block size, padding is required to process a complete 16-byte block.
 
 ### DES
 
@@ -177,12 +195,12 @@ ARX cipher: add, rotate, xor
 
 ## Public Key Cryptography
 
-[Public-key cryptography - Wikiwand](http://www.wikiwand.com/en/Public-key_cryptography)
+[Public-key cryptography - Wikiwand](http://omni.wikiwand.com/en/Public-key_cryptography)
 Public Key crypto simply works with numbers. This means that any messages would have to be converted into a number before being encrypted.
 
 ### RSA
 
-[RSA (cryptosystem) - Wikiwand](<https://www.wikiwand.com/en/RSA_(cryptosystem)>)
+[RSA (cryptosystem) - Wikiwand](<https://omni.wikiwand.com/en/RSA_(cryptosystem)>)
 [How does RSA work? – Hacker Noon](https://hackernoon.com/how-does-rsa-work-f44918df914b)
 
 [The RSA Encryption Algorithm (1 of 2: Computing an Example) - YouTube](https://www.youtube.com/watch?v=4zahvcJ9glg)
@@ -199,6 +217,27 @@ Public Key crypto simply works with numbers. This means that any messages would 
 
 [Pretty Good Privacy (PGP) and Digital Signatures | Linux Journal](https://www.linuxjournal.com/content/pretty-good-privacy-pgp-and-digital-signatures)
 
+### ECC
+
+### ShangMi
+
+A suite of authentication, encryption, and hash algorithms from the People's Republic of China.
+
+- SM2 Cryptography Algorithm: A public key crypto scheme based on elliptic curves. An overview of the specification, in Chinese, can be found in [GM/T 0009-2012](http://www.gmbz.org.cn/main/viewfile/2018011001400692565.html). Additional specifications can be found in:
+  - [GB/T 32918.1-2016](https://www.chinesestandard.net/PDF/English.aspx/GBT32918.1-2016), Part 1: General
+  - [GB/T 32918.2-2016](http://www.gmbz.org.cn/upload/2018-07-24/1532401673138056311.pdf), Part 2: Digital signature algorithm
+  - [GB/T 32918.3-2016](https://www.chinesestandard.net/PDF/English.aspx/GBT32918.3-2016), Part 3: Key exchange protocol
+  - [GB/T 32918.4-2016](https://www.chinesestandard.net/PDF/English.aspx/GBT32918.4-2016), Part 4: Public key encryption algorithm
+  - [GB/T 32918.5-2017](http://www.gmbz.org.cn/upload/2018-07-24/1532401863206085511.pdf), Part 5: Parameter definition
+    SM3 Cryptographic Hash Algorithm: A hash algorithm operating on 512-bit blocks to produce a 256-bit hash value. Described in [GB/T 32905-2016](http://www.gmbz.org.cn/upload/2018-07-24/1532401392982079739.pdf).
+- SM4 Block Cipher Algorithm: A Feistel block cipher algorithm with a block length and key length of 128 bits, and 32 rounds. Described in [GB/T 32907-2016](http://www.gmbz.org.cn/upload/2018-04-04/1522788048733065051.pdf).
+
+An application of the ShangMi Cipher Suites in TLS can be found in [RFC 8998](https://www.rfc-editor.org/info/rfc8998).
+[国密SSL协议是什么？与标准TLS协议的区别- 沃通SSL证书!](https://www.wosign.com/FAQ/faq_2019062501.htm)
+
+[Performance Evaluation and Comparison of Standard Cryptographic Algorithms and Chinese Cryptographic Algorithms](https://bth.diva-portal.org/smash/record.jsf?pid=diva2%3A1332244&dswid=-5123)
+[On the Design and Performance of Chinese OSCCA-approved Cryptographic Algorithms](https://bth.diva-portal.org/smash/get/diva2:1444129/FULLTEXT01.pdf) PDF
+
 ### age
 
 [FiloSottile/age: A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.](https://github.com/FiloSottile/age)
@@ -213,21 +252,23 @@ Public Key crypto simply works with numbers. This means that any messages would 
 
 ## Steganography
 
-[Steganography - Wikiwand](https://www.wikiwand.com/en/Steganography)
+[Steganography - Wikiwand](https://omni.wikiwand.com/en/Steganography)
 [隐写术鉴赏 - YouTube](https://www.youtube.com/watch?v=AmqOrrOv5Uw)
 
 [StegCloak](https://stegcloak.surge.sh/)
 [KuroLabs/stegcloak: Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐](https://github.com/KuroLabs/stegcloak)
 [How to Hide Secrets in Strings— Modern Text hiding in JavaScript | by Mohan Sundar | Bits and Pieces](https://blog.bitsrc.io/how-to-hide-secrets-in-strings-modern-text-hiding-in-javascript-613a9faa5787)
 
+[resurrecting-open-source-projects/outguess: Universal steganographic tool](https://github.com/resurrecting-open-source-projects/outguess)
+
 ### Homograph
 
-[Faux Cyrillic - Wikiwand](https://www.wikiwand.com/en/Faux_Cyrillic)
-[IDN homograph attack - Wikiwand](https://www.wikiwand.com/en/IDN_homograph_attack)
+[Faux Cyrillic - Wikiwand](https://omni.wikiwand.com/en/Faux_Cyrillic)
+[IDN homograph attack - Wikiwand](https://omni.wikiwand.com/en/IDN_homograph_attack)
 
 ## Zero-knowledge proof/ZKP
 
-[Zero-knowledge proof - Wikiwand](https://www.wikiwand.com/en/Zero-knowledge_proof)
+[Zero-knowledge proof - Wikiwand](https://omni.wikiwand.com/en/Zero-knowledge_proof)
 把問題和答案的關聯轉變成機率問題
 透過趨近無窮次的試驗，使猜對的機率趨近 0
 
@@ -247,3 +288,10 @@ Public Key crypto simply works with numbers. This means that any messages would 
 
 [Zero Knowledge Proofs - YouTube](https://www.youtube.com/watch?v=V5uVKZn3F_4)
 [神奇的零知识证明！既能保守秘密，又让别人信你！ - YouTube](https://www.youtube.com/watch?v=FuKEpOhiVPg)
+
+### zkVMs
+
+[The different types of ZK-EVMs](https://vitalik.eth.limo/general/2022/08/04/zkevm.html)
+
+[The Evolution of Rust inside zkVMs - Erik Kadena | RISC Zero - YouTube](https://www.youtube.com/watch?v=6yVNyuY7lDY)
+[Zeroing into zkVMs — Taiko Labs](https://taiko.mirror.xyz/e_5GeGGFJIrOxqvXOfzY6HmWcRjCjRyG0NQF1zbNpNQ)

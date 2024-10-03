@@ -2,23 +2,33 @@
 title: Bluetooth
 description: ""
 created: 2019-01-29
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - bluetooth
   - comp/hardware
 ---
 
-[Bluetooth - Wikiwand](https://www.wikiwand.com/en/Bluetooth)
+[Bluetooth - Wikiwand](https://omni.wikiwand.com/en/Bluetooth)
 [Bluetooth Basics - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/bluetooth-basics)
 [Introduction | Introduction to Bluetooth Low Energy | Adafruit Learning System](https://learn.adafruit.com/introduction-to-bluetooth-low-energy?view=all)
 [藍牙=藍色的牙齒？取名的由來竟是為了致敬「這位」國王 | 智選 Blog](https://blog.witsper.com/tips/bluetooth/)
-
-[How Bluetooth 4.2 will make your home smarter](http://www.trustedreviews.com/opinions/what-is-bluetooth-4-2)
 
 [GATT Services | Bluetooth Technology Website](https://www.bluetooth.com/specifications/gatt/services) BLE services
 
 [The Physical Web](https://google.github.io/physical-web/) by Google
 [google/eddystone](https://github.com/google/eddystone)
+
+## Spec
+
+[How Bluetooth 4.2 will make your home smarter](http://www.trustedreviews.com/opinions/what-is-bluetooth-4-2)
+
+[What Is Bluetooth 5.3? Bluetooth 5 Versions Explained](https://www.makeuseof.com/what-is-bluetooth-5-3-bluetooth-5-versions-explained/)
+[Overview and demonstration of the new features of Bluetooth 5.0, 5.1 and 5.2](https://www.ti.com/lit/ml/slyp707/slyp707.pdf)
+
+[[蓝牙系列] 蓝牙 BT 5.2 新特性及应用分析 - 知乎](https://zhuanlan.zhihu.com/p/146128534)
+[Bluetooth_5.2_Feature_Overview.pdf](https://www.bluetooth.com/wp-content/uploads/2020/01/Bluetooth_5.2_Feature_Overview.pdf)
+[The Ultimate Guide to What's New in Bluetooth version 5.2 | Novel Bits](https://novelbits.io/bluetooth-version-5-2-le-audio/)
+[Bluetooth_5.3_Feature_Enhancements_Update.pdf](https://www.bluetooth.com/wp-content/uploads/2021/01/Bluetooth_5.3_Feature_Enhancements_Update.pdf)
 
 ## Bluetooth Audio
 

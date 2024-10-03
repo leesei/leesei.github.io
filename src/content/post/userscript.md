@@ -2,7 +2,7 @@
 title: Userscript
 description: ""
 created: 2015-05-22
-updated: 2023-09-29
+updated: 2024-02-19
 tags:
   - web
 ---
@@ -13,7 +13,7 @@ tags:
 
 Userscripts are scripts that users install in their browser to make on-the-fly changes to web page content after or before the page is loaded.
 
-[Tampermonkey - Chrome Web Store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+[Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 [Greasemonkey :: Add-ons for Firefox](https://addons.mozilla.org/en-Us/firefox/addon/greasemonkey/)
 
 [Tampermonkey - FAQ](http://tampermonkey.net/faq.php)
@@ -59,9 +59,9 @@ Userscripts are scripts that users install in their browser to make on-the-fly c
 
 Similar movement for website styles
 
-[Stylish - Chrome Web Store](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe)
-[Minimalist for Everything - Chrome Web Store](https://chrome.google.com/webstore/detail/minimalist-for-everything/bmihblnpomgpjkfddepdpdafhhepdbek)
-[Stylebot - Chrome Web Store](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha)
+[Stylish](https://chromewebstore.google.com/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe)
+[Minimalist for Everything](https://chromewebstore.google.com/detail/minimalist-for-everything/bmihblnpomgpjkfddepdpdafhhepdbek)
+[Stylebot](https://chromewebstore.google.com/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha)
 
 ## setting CSS with user script
 

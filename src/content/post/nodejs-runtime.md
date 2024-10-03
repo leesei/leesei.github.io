@@ -1,8 +1,8 @@
 ---
-title: Node.js notes
+title: Node.js
 description: ""
 created: 2014-12-11
-updated: 2023-11-22
+updated: 2024-09-16
 tags:
   - comp/lang
   - javascript/runtime
@@ -10,6 +10,7 @@ tags:
 ---
 
 [NodeJS Basics: An Introductory Training - YouTube](https://www.youtube.com/watch?v=G0924T2uoiY)
+[Node.js Doesn’t Suck Anymore - YouTube](https://www.youtube.com/watch?v=si9pVRaGz30) 2024-09, v22
 
 [maxogden/art-of-node: a short introduction to node.js](https://github.com/maxogden/art-of-node)
 [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
@@ -155,6 +156,8 @@ Obsoleted:
 [vercel/pkg: Package your Node.js project into an executable](https://github.com/vercel/pkg)
 [vercel/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.](https://github.com/vercel/ncc)
 
+[vadimdemedes/pastel: 🎨 Next.js-like framework for CLIs made with Ink](https://github.com/vadimdemedes/pastel)
+
 ### Accept pipe
 
 You can use `process.stdin` as input stream to accept pipe input:
@@ -192,10 +195,13 @@ See [leesei/openslide-prop2json](https://github.com/leesei/openslide-prop2json).
 
 ## Stream
 
-[Node.js Streams: Everything you need to know](https://www.freecodecamp.org/news/node-js-streams-everything-you-need-to-know-c9141306be93)
-[Stream Node.js v5.10.0 Manual & Documentation](https://nodejs.org/api/stream.html)
-[StrongLoop | What’s New in io.js 1.0 Beta? – Streams3](https://strongloop.com/strongblog/whats-new-io-js-beta-streams3/)
+[Stream | Node.js Documentation](https://nodejs.org/api/stream.html)
+[Node.js Streams: Everything you need to know](https://www.freecodecamp.org/news/node-js-streams-everything-you-need-to-know-c9141306be93) 2017
+[Understanding Streams in Node.js - NodeSource](https://nodesource.com/blog/understanding-streams-in-nodejs/)
 [stream - What is Streams3 in Node.js and how does it differ from Streams2? - Stack Overflow](http://stackoverflow.com/a/21549237/665507)
+
+[Strongly Typed Event Emitters with Conditional Types | by Brian Terlson | Medium](https://medium.com/@bterlson/strongly-typed-event-emitters-2c2345801de8)
+[bterlson/strict-event-emitter-types: A type-only library for strongly typing any event emitter](https://github.com/bterlson/strict-event-emitter-types)
 
 "Classic" streams are available since v0.4.
 Classic readable streams are just `EventEmitter` with `'data'` and `'end'` events and a boolean `writable` member. They can _optionally_ provides `.pause()` and `.resume()` to control buffering.
@@ -422,7 +428,6 @@ stream.on("end", function () {
 [Faster and more feature-rich internationalization APIs · V8](https://v8.dev/blog/intl)
 
 [mö.js - explaining js vm in js - YouTube](https://www.youtube.com/watch?v=y8hVeKMD_oM)
-[StrongLoop | What’s New in Node.js v0.12 – Running Multiple Instances in a Single Process](https://strongloop.com/strongblog/whats-new-node-js-v0-12-multiple-context-execution/)
 [A Guide to JavaScript Engines for Idiots -Telerik Developer Network](http://developer.telerik.com/featured/a-guide-to-javascript-engines-for-idiots/)
 [Writing Fast, Memory-Efficient JavaScript – Smashing Magazine](http://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript/)
 [How to Compile Node.js Code Using Bytenode? – Hacker Noon](https://hackernoon.com/how-to-compile-node-js-code-using-bytenode-11dcba856fa9)
@@ -735,7 +740,7 @@ Use `^` to lock to major version, `~` to lock to minor version. (`npm help updat
 By default all files under the package tree will be published, with predefined blacklist and whitelist, and respects `.npmignore` (or `.gitignore` if `.npmignore` is absent).
 You can specify `files` in `package.json` to define your own file list, this will also respects `.npmignore` (or `.gitignore` if `.npmignore` is absent).
 
-### shrinkwrap
+### ~~~shrinkwrap~~~
 
 > obsolete by lock file
 

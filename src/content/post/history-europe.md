@@ -2,18 +2,18 @@
 title: History Europe
 description: ""
 created: 2016-09-12
-updated: 2023-11-13
+updated: 2024-08-14
 tags:
   - history
   - history/europe
 ---
 
 [World History Encyclopedia](https://www.worldhistory.org/)
-[History of Eurasia - Wikiwand](https://www.wikiwand.com/en/History_of_Eurasia)
-[Middle Ages - Wikiwand](https://www.wikiwand.com/en/Middle_Ages)
+[History of Eurasia - Wikiwand](https://omni.wikiwand.com/en/History_of_Eurasia)
+[Middle Ages - Wikiwand](https://omni.wikiwand.com/en/Middle_Ages)
 
 Herodotus, the first historian
-[Histories (Herodotus) - Wikiwand](<https://www.wikiwand.com/en/Histories_(Herodotus)>)
+[Histories (Herodotus) - Wikiwand](<https://omni.wikiwand.com/en/Histories_(Herodotus)>)
 
 [How the Enlightenment Ends - The Atlantic](https://www.theatlantic.com/magazine/archive/2018/06/henry-kissinger-ai-could-mean-the-end-of-human-history/559124/)
 
@@ -26,6 +26,7 @@ Herodotus, the first historian
 [History Series: Europe - YouTube](https://www.youtube.com/playlist?list=PLEpnbGLPDdmFsiqrVYz-IeGrlYGqZn_Mx)
 [European History - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtMsMTfmRomkVQG8AqrAmJFX) CrashCourse
 [卢格杜努姆的奥古斯丁 - YouTube](https://www.youtube.com/@augustinus_lugdunensis)
+[英國、德國、法國、義呆利曾是同一個國家!? 歐洲是怎麼誕生的? 【15分鐘了解四大強國歷史】 - YouTube](https://www.youtube.com/watch?v=whKw6NEzN8o)
 
 ## Documentaries
 
@@ -75,12 +76,17 @@ Lindybeige
 
 [【封建、莊園、騎士】中世紀的生活是怎樣? 人們吃什麼、穿什麼 真的很浪漫嗎? 騎士、農民的一天 - YouTube](https://www.youtube.com/watch?v=tYaYUmQ5WKM)
 
+## Nobility
+
+[Royalty 101: British Titles of Royalty & Nobility - YouTube](https://www.youtube.com/watch?v=r_7l1P19xrE)
+[Ranks of Nobility, Explained - YouTube](https://www.youtube.com/watch?v=Op8fEbxgqxY)
+
 ## 大航海時代 Age of Sail/Discovery/Exploration
 
 > mid-16 to mid-19 century
 
-[Age of Sail - Wikiwand](https://www.wikiwand.com/en/Age_of_Sail)
-[Age of Discovery - Wikiwand](https://www.wikiwand.com/en/Age_of_Discovery)
+[Age of Sail - Wikiwand](https://omni.wikiwand.com/en/Age_of_Sail)
+[Age of Discovery - Wikiwand](https://omni.wikiwand.com/en/Age_of_Discovery)
 
 [曾經的日不落帝國 歐洲邊緣人如何征服全世界? 葡萄牙帝國的崛起與崩解 - YouTube](https://www.youtube.com/watch?v=YyQ0iQvQxqM)
 [【趣味科普】浅谈大航海时代 - YouTube](https://www.youtube.com/watch?v=XDl3QuUjJnI)
@@ -92,8 +98,8 @@ Lindybeige
 [大航海時代：第二個世界級霸主西班牙，狂熱的黑奴和黃金掠奪之路（下集） - YouTube](https://www.youtube.com/watch?v=weJ0yv4bK-Y)
 [海上馬車夫:世界第壹個資本主義國家荷蘭崛起，黃金世紀海上新霸主！ - YouTube](https://www.youtube.com/watch?v=LnGpsgX7v_8)
 
-[The empire on which the sun never sets - Wikiwand](https://www.wikiwand.com/en/The_empire_on_which_the_sun_never_sets)
-[日不落帝國 - Wikiwand](https://www.wikiwand.com/zh-hant/%E6%97%A5%E4%B8%8D%E8%90%BD%E5%B8%9D%E5%9B%BD)
+[The empire on which the sun never sets - Wikiwand](https://omni.wikiwand.com/en/The_empire_on_which_the_sun_never_sets)
+[日不落帝國 - Wikiwand](https://omni.wikiwand.com/zh/%E6%97%A5%E4%B8%8D%E8%90%BD%E5%B8%9D%E5%9B%BD)
 The first 日不落帝國 was actually the Iberian Union of Portugal and Spain under Philip II in 1580.
 
 [Spanish and Portuguese Exploration in the Americas  |  Classroom Materials at the Library of Congress  |  Library of Congress](https://www.loc.gov/classroom-materials/spanish-and-portuguese-exploration-in-the-americas/)
@@ -101,7 +107,7 @@ The first 日不落帝國 was actually the Iberian Union of Portugal and Spain u
 
 ### Privateer
 
-[Privateer - Wikiwand](https://www.wikiwand.com/en/Privateer)
+[Privateer - Wikiwand](https://omni.wikiwand.com/en/Privateer)
 [Privateer | Definition & History | Britannica](https://www.britannica.com/technology/privateer)
 
 Great Britain, rather than joining the Age of Discovery, focused on developing its Navy.
@@ -109,7 +115,7 @@ It then authorized sea-raiders in the Caribbean to raid Portuguese and Spanish s
 
 ## Napoleon Bonaparte
 
-[Napoleon - Wikiwand](https://www.wikiwand.com/en/Napoleon)
+[Napoleon - Wikiwand](https://omni.wikiwand.com/en/Napoleon)
 
 Epic History TV
 [Napoleonic Wars](https://www.youtube.com/playlist?list=PLUOc2qodFHp-mOphKW9RzQLsFTt-IV9RY)
@@ -117,12 +123,16 @@ Epic History TV
 [Napoleon in Italy - YouTube](https://www.youtube.com/playlist?list=PLUOc2qodFHp9ABETArJAlSKJ2K-_KSg2W)
 [Napoleon's Marshals - YouTube](https://www.youtube.com/playlist?list=PLUOc2qodFHp9SqE7Cjl4Bkyup1o6JbCur)
 
+[The Napoleonic Wars - OverSimplified (Part 1) - YouTube](https://www.youtube.com/watch?v=zqllxbPWKNI)
+[The Napoleonic Wars - OverSimplified (Part 2) - YouTube](https://www.youtube.com/watch?v=mY3SEMTROas)
+
 [Napoleon's Downfall: Invasion of Russia 1812 (Full Documentary) - YouTube](https://www.youtube.com/watch?v=liokytT2TSk)
+[The Simple Reason Why Nobody Could Defeat Napoleon - YouTube](https://www.youtube.com/watch?v=OLo-K2_AyHs)
 
 ## French Revolution
 
-[French Revolution - Wikiwand](https://www.wikiwand.com/en/French_Revolution) 5 May 1789 - 9 November 1799
-[Storming of the Bastille - Wikiwand](https://www.wikiwand.com/en/Storming_of_the_Bastille) 14 July 1789
+[French Revolution - Wikiwand](https://omni.wikiwand.com/en/French_Revolution) 5 May 1789 - 9 November 1799
+[Storming of the Bastille - Wikiwand](https://omni.wikiwand.com/en/Storming_of_the_Bastille) 14 July 1789
 
 [The French Revolution - OverSimplified (Part 1) - YouTube](https://www.youtube.com/watch?v=8qRZcXIODNU)
 [The French Revolution - OverSimplified (Part 2) - YouTube](https://www.youtube.com/watch?v=EQmjXM4VK2U)
@@ -132,7 +142,7 @@ Epic History TV
 > the war from October 1853 to February 1856 between Russia and various European countries
 > so called "World War Zero"
 
-[Crimean War - Wikiwand](https://www.wikiwand.com/en/Crimean_War)
+[Crimean War - Wikiwand](https://omni.wikiwand.com/en/Crimean_War)
 [Extra History: The Crimean War - YouTube](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5D6vGpsszjUMKY3GwYIvhWT)
 
 ## Contemporary

@@ -2,7 +2,7 @@
 title: Ember.js
 description: ""
 created: 2016-06-06
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - frontend
   - javascript

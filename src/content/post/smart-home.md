@@ -2,7 +2,7 @@
 title: Smart Home
 description: ""
 created: 2023-03-18
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - household
   - iot
@@ -27,7 +27,7 @@ tags:
 ## Matter
 
 [Build With Matter | Smart Home Device Solution - CSA](https://csa-iot.org/all-solutions/matter/)
-[Matter (standard) - Wikiwand](<https://www.wikiwand.com/en/Matter_(standard)>)
+[Matter (standard) - Wikiwand](<https://omni.wikiwand.com/en/Matter_(standard)>)
 [How the Matter standard could fix your smart home in 2022 - YouTube](https://www.youtube.com/watch?v=1CHOSFXKGH4)
 [Matter Explained: Will It Be What Finally Helps Smart Home Technology Catch On? | PCMag](https://www.pcmag.com/how-to/matter-explained)
 

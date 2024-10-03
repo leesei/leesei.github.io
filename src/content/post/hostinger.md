@@ -2,7 +2,7 @@
 title: Hostinger
 description: ""
 created: 2021-05-10
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - web
 ---

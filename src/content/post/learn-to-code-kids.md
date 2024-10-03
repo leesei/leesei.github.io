@@ -2,7 +2,7 @@
 title: Learn to code (Kids)
 description: ""
 created: 2014-12-08
-updated: 2023-10-13
+updated: 2024-08-14
 tags:
   - comp/lang
   - learning
@@ -374,14 +374,22 @@ They're both fibers. `inBackground()` have a `fiberDone` callback for clean up a
 ### Mixly
 
 [Lets Mixly!](http://mixly.org/)
-[Get started with Mixly - Wiki](http://wiki.sunfounder.cc/index.php?title=Get_started_with_Mixly)
-[Introduction to Mixly - Microduino Wiki](http://wiki.microduinoinc.com/Introduction_to_Mixly)
 [mixly/Mixly_Arduino: A visual programming editor based on blockly for Arduino、Microbit、MicroPython、Python](https://github.com/mixly/Mixly_Arduino)
+
+[Get started with Mixly - Wiki](http://wiki.sunfounder.cc/index.php?title=Get_started_with_Mixly)
+
+[软件使用基础 — Mixly Wiki](https://mixly.readthedocs.io/zh-cn/latest/contents.html)
 
 ### Raspberry Pi
 
 [Snap! » Raspberry Pi Geek](http://www.raspberry-pi-geek.com/Archive/2014/06/A-web-based-alternative-to-Scratch)
 [karstenda/BlocklyPi](https://github.com/karstenda/BlocklyPi)
+
+[BIPES Project](https://bipes.net.br/ide/) Block based Integrated Platform for Embedded Systems
+[Install MicroPython on ESP32 or ESP8266 to use with BIPES](https://bipes.net.br/flash/esp-web-tools/)
+
+[Piper Make](https://make.playpiper.com/)
+[Drag-n-drop coding for Raspberry Pi Pico - Raspberry Pi](https://www.raspberrypi.com/news/drag-n-drop-coding-for-raspberry-pi-pico/)
 
 ## Squishy Circuits
 
@@ -461,7 +469,14 @@ They're both fibers. `inBackground()` have a `fiberDone` callback for clean up a
 
 [How To Make Super Cool (And Easy) Cub Scout Robots | Cub Scout Ideas](https://cubscoutideas.com/7856/how-to-make-cub-scout-robots/)
 
-## Learn by coding games
+### Spintronics
+
+[Spintronics First Look - YouTube](https://www.youtube.com/watch?v=957kZIBKob8)
+
+[Mechanical circuits: electronics without electricity - YouTube](https://www.youtube.com/watch?v=QrkiJZKJfpY&t=560s)
+[Making Non-Electric Circuits With Computer Logic - YouTube](https://www.youtube.com/watch?v=heaZ_v8kB88)
+
+## Learn by Writing Games
 
 [[pygame]]
 [[game-engines#Arcade]]
@@ -480,6 +495,12 @@ They're both fibers. `inBackground()` have a `fiberDone` callback for clean up a
 [microStudio Game Engine Hands-On – GameFromScratch.com](https://gamefromscratch.com/microstudio-game-engine-hands-on/)
 
 [PICO-8 Fantasy Console](https://www.lexaloffle.com/pico-8.php)
+[PICO-8 - Wikiwand](https://omni.wikiwand.com/en/pico-8)
+
+[CHIP-8 - Wikiwand](https://omni.wikiwand.com/en/CHIP-8)
+[Guide to making a CHIP-8 emulator - Tobias V. Langhoff](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/)
+[How to Create Your Very Own Chip-8 Emulator](https://www.freecodecamp.org/news/creating-your-very-own-chip-8-emulator/)
+[Cowgod's Chip-8 Technical Reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM)
 
 [CodeCombat - Learn how to code by playing a game](https://codecombat.com/) multiple languages
 [Code Avengers](https://www.codeavengers.com/)
@@ -507,16 +528,31 @@ They're both fibers. `inBackground()` have a `fiberDone` callback for clean up a
 [Learn to Code for Free – Grasshopper](https://grasshopper.app/) JavaScript
 [JSRobot](https://lab.reaal.me/jsrobot/) JavaScript
 
+## Learn by Gaming
+
+[Programming](https://store.steampowered.com/tags/en/Programming/)
+[Turing Complete on Steam](https://store.steampowered.com/app/1444480/Turing_Complete/)
+[SHENZHEN I/O on Steam](https://store.steampowered.com/app/504210/SHENZHEN_IO/)
+[while True: learn() on Steam](https://store.steampowered.com/app/619150/while_True_learn/)
+[Bots Are Stupid on Steam](https://store.steampowered.com/app/1578160/Bots_Are_Stupid/)
+[Human Resource Machine on Steam](https://store.steampowered.com/app/375820/Human_Resource_Machine/)
+[7 Billion Humans on Steam](https://store.steampowered.com/app/792100/7_Billion_Humans/)
+[Rogue Bit on Steam](https://store.steampowered.com/app/949790/Rogue_Bit/)
+[Shortcuit on Steam](https://store.steampowered.com/app/2125820/Shortcuit/)
+
 [The SQL Murder Mystery](https://mystery.knightlab.com/)
 [The SQL Murder Mystery: Detailed Walkthrough](https://mystery.knightlab.com/walkthrough.html)
 
 ### Minecraft
 
-[Minecraft - Wikiwand](http://www.wikiwand.com/en/Minecraft)
+[Minecraft - Wikiwand](http://omni.wikiwand.com/en/Minecraft)
 [Official site | Minecraft](https://minecraft.net/en-us/)
 [Official Minecraft Wiki – The Ultimate Resource for Minecraft](https://minecraft.gamepedia.com/Minecraft_Wiki)
 [Java Edition – Official Minecraft Wiki](https://minecraft.fandom.com/Java_Edition)
 [Bedrock Edition – Official Minecraft Wiki](https://minecraft.fandom.com/Bedrock_Edition)
+
+[Minecraft Theories - YouTube](https://www.youtube.com/playlist?list=PLOl4b517qn8jvCcjb6Bmi7EcK_MnmtPFl)
+[Game Theory: The COMPLETE Lore Of Minecraft - YouTube](https://www.youtube.com/watch?v=ysQ-dMA_qkk)
 
 [Minecraft Bedrock Edition: Download guide for PC, system requirements and more](https://www.sportskeeda.com/amp/esports/minecraft-bedrock-edition-download-guide-pc-system-requirements)
 

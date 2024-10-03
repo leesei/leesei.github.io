@@ -2,7 +2,7 @@
 title: nodal
 description: ""
 created: 2016-05-13
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - web
 ---

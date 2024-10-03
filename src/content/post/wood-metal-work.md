@@ -2,7 +2,7 @@
 title: Wood and Metal Work
 description: ""
 created: 2018-08-31
-updated: 2023-09-29
+updated: 2024-06-21
 tags:
   - maker
 ---
@@ -23,6 +23,7 @@ tags:
 [Computer case screws - Wikiwand](https://www.wikiwand.com/en/Computer_case_screws)
 
 [機械 | 製造 | 加工 從零製作螺絲-剖析機械牙及自攻牙螺絲製作方法及相關加工製程介紹[中英字幕] - YouTube](https://www.youtube.com/watch?v=NOhg7gSFTEI)
+[一口氣搞懂「螺絲」的前世今生！曾是農業用品？標示怎麼看？ - YouTube](https://www.youtube.com/watch?v=gHCDeM41NHY)
 
 [The Incredible Strength of Bolted Joints - YouTube](https://www.youtube.com/watch?v=XLzTB4KLCxU)
 
@@ -80,6 +81,7 @@ Electronic torque control will stop the motor when torque maxed out and have mor
 [Woodworking - Wikiwand](https://www.wikiwand.com/en/Woodworking)
 [Fine Woodworking Tools & Hand Tools](https://www.highlandwoodworking.com/)
 
+[Foureyes Furniture - YouTube](https://www.youtube.com/@Foureyes.Furniture)
 [Project Zero Cables - The Cleanest Desk Setup EVER - YouTube](https://www.youtube.com/watch?v=qI2vmqANYcE)
 
 [花十几万买了一堆金丝楠乌木，几年后仅剩十分之一，大家却说太值了「老蒋根雕」 - YouTube](https://www.youtube.com/watch?v=HlpwIOPbCAs)

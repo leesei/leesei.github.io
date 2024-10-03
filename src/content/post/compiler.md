@@ -2,13 +2,13 @@
 title: Compiler
 description: How source code is turned into machine code
 created: 2023-04-14
-updated: 2023-11-22
+updated: 2024-08-14
 tags:
   - comp/hardware
   - comp/lang
 ---
 
-[Compiler - Wikiwand](https://www.wikiwand.com/en/Compiler)
+[Compiler - Wikiwand](https://omni.wikiwand.com/en/Compiler)
 
 1. Tokenize source into tokens
 2. Parse tokens into AST
@@ -31,13 +31,13 @@ tags:
 
 ## Just In Time Compiler
 
-[Just-in-time compilation - Wikiwand](https://www.wikiwand.com/en/Just-in-time_compilation)
+[Just-in-time compilation - Wikiwand](https://omni.wikiwand.com/en/Just-in-time_compilation)
 
 [Just In Time (JIT) Compilers - Computerphile - YouTube](https://www.youtube.com/watch?v=d7KHAVaX_Rs)
 
 ## Cross Compiler
 
-[Cross compiler - Wikiwand](https://www.wikiwand.com/en/Cross_compiler)
+[Cross compiler - Wikiwand](https://omni.wikiwand.com/en/Cross_compiler)
 [Introduction to cross-compiling for Linux](https://landley.net/writing/docs/cross-compiling.html)
 
 Many modern compiled languages (Go, Rust, Zig) have cross compilation built-in.
@@ -90,7 +90,7 @@ $ zig targets | jq ".cpus | map_values(keys)"
 
 ## Bootstrapping
 
-[Bootstrapping (compilers) - Wikiwand](<https://www.wikiwand.com/en/Bootstrapping_(compilers)>)
+[Bootstrapping (compilers) - Wikiwand](<https://omni.wikiwand.com/en/Bootstrapping_(compilers)>)
 [Bootstrapping in Compiler Design - GeeksforGeeks](https://www.geeksforgeeks.org/bootstrapping-in-compiler-design/)
 
 From a compiler that I trust, to a compiler (or toolchain) that can compile source code that I have.
@@ -102,7 +102,7 @@ From a compiler that I trust, to a compiler (or toolchain) that can compile sour
 [trust_stack_slides.pdf](http://web.mit.edu/6.033/2014/wwwdocs/assignments/quizzes/trust_stack_slides.pdf)
 [Countering "Trusting Trust" - Schneier on Security](https://www.schneier.com/blog/archives/2006/01/countering_trus.html)
 [Reflections on Trusting Trust](https://www.win.tue.nl/~aeb/linux/hh/thompson/trust.html)
-[Backdoor (computing) - Wikiwand](https://www.wikiwand.com/en/Trusting%20trust)
+[Backdoor (computing) - Wikiwand](https://omni.wikiwand.com/en/Trusting%20trust)
 
 ## C
 
@@ -134,7 +134,7 @@ gcc -### -march=native /usr/include/stdlib.h
 
 > LLVM defines an intermediate representation (IR) and a backend that targets and optimizes for any instruction set architecture (ISA)
 
-[LLVM - Wikiwand](https://www.wikiwand.com/en/LLVM)
+[LLVM - Wikiwand](https://omni.wikiwand.com/en/LLVM)
 [The LLVM Compiler Infrastructure Project](http://llvm.org/)
 [LLVM | Everything I Know](https://wiki.nikiv.dev/compilers/llvm)
 
@@ -148,10 +148,12 @@ gcc -### -march=native /usr/include/stdlib.h
 
 [LLVM Language Reference Manual — LLVM documentation](https://llvm.org/docs/LangRef.html)
 [llir/grammar: EBNF grammar of LLVM IR assembly.](https://github.com/llir/grammar)
+[Welcome to llir/llvm · llir/llvm](https://llir.github.io/document/)
+[Mapping High Level Constructs to LLVM IR — Mapping High Level Constructs to LLVM IR documentation](https://mapping-high-level-constructs-to-llvm-ir.readthedocs.io/en/latest/index.html)
 
 ### Tools
 
-> see [[reverse-engineering#Lifting Bits]]
+> see [[reverse-engineering#Trail of Bits]]
 
 [LLVM IR and Go | Gopher Academy Blog](https://blog.gopheracademy.com/advent-2018/llvm-ir-and-go/) ❗!important
 [Welcome to llir/llvm · llir/llvm](https://llir.github.io/document/) better than `go-llvm` as each node has corresponding Go struct, rather than a single catchall struct
@@ -169,7 +171,7 @@ gcc -### -march=native /usr/include/stdlib.h
 > Clang is the C frontend for LLVM
 
 [Clang C Language Family Frontend for LLVM](https://clang.llvm.org/)
-[Clang - Wikiwand](https://www.wikiwand.com/en/Clang)
+[Clang - Wikiwand](https://omni.wikiwand.com/en/Clang)
 
 [c++ - LLVM vs clang on OS X - Stack Overflow](https://stackoverflow.com/questions/5708610/llvm-vs-clang-on-os-x)
 [GCC 11 vs. LLVM Clang 12 Compilers On The AMD EPYC 7763 - Phoronix](https://www.phoronix.com/review/gcc11-clang12-epyc7763)
@@ -178,3 +180,8 @@ gcc -### -march=native /usr/include/stdlib.h
 
 [Two Ways To Do Dynamic Dispatch - YouTube](https://www.youtube.com/watch?v=wU8hQvU8aKM) Rust and C++
 [Better Code: Runtime Polymorphism - Sean Parent - YouTube](https://www.youtube.com/watch?v=QGcVXgEVMJg) C++
+
+## Cranelift
+
+[Cranelift](https://cranelift.dev/)
+[wasmtime/cranelift at main · bytecodealliance/wasmtime · GitHub](https://github.com/bytecodealliance/wasmtime/tree/main/cranelift)

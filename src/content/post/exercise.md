@@ -2,7 +2,7 @@
 title: Exercise
 description: ""
 created: 2019-04-17
-updated: 2023-11-26
+updated: 2024-09-23
 tags:
   - health
   - hiit
@@ -17,7 +17,7 @@ tags:
 ➤ “下肢訓練：推，拉，轉，走。”
 x 製造疲動的運動
 
-[Stress (biology) - Wikiwand](<https://www.wikiwand.com/en/Stress_(biology)>)
+[Stress (biology) - Wikiwand](<https://omni.wikiwand.com/en/Stress_(biology)>)
 general adaptation syndrome
 stress recovery adaptation
 
@@ -36,6 +36,9 @@ stress recovery adaptation
 [May Fit - YouTube](https://www.youtube.com/channel/UCxGeKqFaKqpzkuFNGCFjcuA)
 [emi wong - YouTube](https://www.youtube.com/c/EmiWong)
 [Criticalbench - YouTube](https://www.youtube.com/channel/UC5efErrEnb4krh7dwJdj3RA)
+
+[We Need to Rethink Exercise (Updated Version) - YouTube](https://www.youtube.com/watch?v=vSSkDos2hzo)
+2nd part: diet
 
 ## Energy Systems
 
@@ -205,6 +208,7 @@ Gladys Fit Life
 
 [脖子痛的人一定要看，這裡有你最需要的資訊，避免頸椎退化，就從改善頸椎過直開始｜啾c物理治療師 - YouTube](https://www.youtube.com/watch?v=TdjBhvvoGw0)
 [是不是換了枕頭，就可以不再落枕？｜#啾c物理治療師 #落枕 #頸椎 - YouTube](https://www.youtube.com/watch?v=62no604aAZ0)
+[舉著手才能睡？代表你可能有這些問題！ - YouTube](https://www.youtube.com/watch?v=ItjvhLgAwFs)
 
 ### Back
 
@@ -247,6 +251,10 @@ Gladys Fit Life
 [菲爾普斯教練的自由式教學影片(中英字幕) - YouTube](https://www.youtube.com/watch?v=DDlyNFHpT_Q)
 [方力申教游泳 - YouTube](https://www.youtube.com/playlist?list=PLGM_jB0ritDtQvf2nNp7Me7YBhKTvZgeb)
 [Speedo's Ultimate Guide to a Perfect Freestyle Swim Stroke! (Tutorial) - Presented by ProTriathlon - YouTube](https://www.youtube.com/watch?v=4E9O2Iz4WwE)
+
+[Skills N' Talents - YouTube](https://www.youtube.com/@SkillsNT)
+[Swim without getting tired - YouTube](https://www.youtube.com/watch?v=F7yP2bcoRgM)
+[Everything You Need To Swim Better - YouTube](https://www.youtube.com/watch?v=zAkfpGSC5V8)
 
 ## Bicycle
 

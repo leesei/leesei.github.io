@@ -2,7 +2,7 @@
 title: Static Sites
 description: ""
 created: 2019-07-25
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - static-site
   - web

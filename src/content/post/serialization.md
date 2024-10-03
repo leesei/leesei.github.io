@@ -2,14 +2,14 @@
 title: Serialization
 description: ""
 created: 2020-03-27
-updated: 2023-11-22
+updated: 2024-08-14
 tags:
   - comp/lang
 ---
 
 > TODO: merge `Dropbox/caravan/caravan/interchange-format`
 
-[Comparison of data-serialization formats - Wikiwand](https://www.wikiwand.com/en/Comparison_of_data-serialization_formats)
+[Comparison of data-serialization formats - Wikiwand](https://omni.wikiwand.com/en/Comparison_of_data-serialization_formats)
 [RFC 8949 - Comparison of Other Binary Formats to CBOR's Design Objectives](https://datatracker.ietf.org/doc/html/rfc8949#name-comparison-of-other-binary-)
 [deserialization - Performant Entity Serialization: BSON vs MessagePack (vs JSON) - Stack Overflow](https://stackoverflow.com/questions/6355497/performant-entity-serialization-bson-vs-messagepack-vs-json)
 
@@ -22,7 +22,7 @@ tags:
 
 ## IDL
 
-[Interface description language - Wikiwand](https://www.wikiwand.com/en/Interface_description_language)
+[Interface description language - Wikiwand](https://omni.wikiwand.com/en/Interface_description_language)
 
 ## JSON schema
 
@@ -51,13 +51,13 @@ tags:
 [JSON Schema Validation: A Vocabulary for Structural Validation of JSON](https://json-schema.org/latest/json-schema-validation.html)
 [draft-bhutton-json-schema-validation-00 - JSON Schema Validation: A Vocabulary for Structural Validation of JSON](https://tools.ietf.org/html/draft-bhutton-json-schema-validation-00)
 
-[Ajv JSON schema validator](https://ajv.js.org/)
-[ajv-validator/ajv: The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)](https://github.com/ajv-validator/ajv)
-
-[jsonschema — jsonschema 3.2.0 documentation](https://python-jsonschema.readthedocs.io/en/stable/)
-
+Python  
+[jsonschema — jsonschema 3.2.0 documentation](https://python-jsonschema.readthedocs.io/en/stable/)  
 [keleshev/schema: Schema validation just got Pythonic](https://github.com/keleshev/schema)
 
+TypeScript  
+[Ajv JSON schema validator](https://ajv.js.org/)  
+[ajv-validator/ajv: The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)](https://github.com/ajv-validator/ajv)
 [cypress-io/schema-tools: Validate, sanitize and document JSON schemas](https://github.com/cypress-io/schema-tools)
 
 ## JavaScript Validators
@@ -115,6 +115,10 @@ tags:
 
 [Joi validation error does not provide detailed information in response · Issue #3706 · hapijs/hapi](https://github.com/hapijs/hapi/issues/3706) in Hapi, `failAction()` is the best
 
+## Go Validators
+
+[go-playground/validator: :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving](https://github.com/go-playground/validator)
+
 ## JSON
 
 [[shell-tools#JSON manipulation]]
@@ -129,14 +133,12 @@ tags:
 [JSON ABC - Sort JSON Alphabetically](https://novicelab.org/jsonabc/)
 [JSON Sorter - Sort JSON keys online](https://r37r0m0d3l.github.io/json_sort/) allows comments
 
-[fastify/fast-json-stringify: 2x faster than JSON.stringify()](https://github.com/fastify/fast-json-stringify)
+[Convert JSON to Swift, C#, TypeScript, Objective-C, Go, Java, C++ and more • quicktype](https://quicktype.io/)
+[A first look at quicktype](http://blog.quicktype.io/first-look/)
 
 [JSON-LD - JSON for Linking Data](https://json-ld.org/)
-[digitalbazaar/jsonld.js: A JSON-LD Processor and API implementation in JavaScript](https://github.com/digitalbazaar/jsonld.js)
-
+[digitalbazaar/jsonld.js: A JSON-LD Processor and API implementation in JavaScript](https://github.com/digitalbazaar/jsonld.js) JS
 [Creating semantic sites with Web Components and JSON-LD - Chrome for Developers](https://developer.chrome.com/blog/creating-semantic-sites-with-web-components-and-jsonld/)
-
-[ijl/orjson: Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy](https://github.com/ijl/orjson)
 
 [msgspec](https://jcristharif.com/msgspec/)
 [Faster, more memory-efficient Python JSON parsing with msgspec](https://pythonspeed.com/articles/faster-python-json-parsing/)
@@ -144,12 +146,31 @@ tags:
 [ICRAR/ijson: Iterative JSON parser with Pythonic interfaces](https://github.com/ICRAR/ijson)
 [Processing large JSON files in Python without running out of memory](https://pythonspeed.com/articles/json-memory-streaming/)
 
+[JSON for Modern C++ - JSON for Modern C++](https://json.nlohmann.me/)
+[nlohmann/json: JSON for Modern C++](https://github.com/nlohmann/json)
+
+### JSON serializers
+
+[lxsmnsyc/seroval: Stringify JS values](https://github.com/lxsmnsyc/seroval) JS
+[fastify/fast-json-stringify: 2x faster than JSON.stringify()](https://github.com/fastify/fast-json-stringify) JS
+
+[ijl/orjson: Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy](https://github.com/ijl/orjson) Python
+
+[goccy/go-json: Fast JSON encoder/decoder compatible with encoding/json for Go](https://github.com/goccy/go-json/) Go
+
 ### JSON streaming
 
-[JSON streaming - Wikiwand](https://www.wikiwand.com/en/JSON_streaming)
+[JSON streaming - Wikiwand](https://omni.wikiwand.com/en/JSON_streaming)
 [JSON Lines](https://jsonlines.org/)
 
 [ndjson/ndjson.js: Streaming line delimited json parser + serializer](https://github.com/ndjson/ndjson.js)
+
+```sh
+# NDJSON to JSON
+jq --slurp . a.ndjson > a.json
+# JSON to NDJSON
+jq -c .[]  a.json > a.ndjson
+```
 
 ### Binary Serialization
 
@@ -165,12 +186,13 @@ tags:
 [RFC 8949 - Concise Binary Object Representation (CBOR)](https://datatracker.ietf.org/doc/html/rfc8949)
 [RFC 8610 - Concise Data Definition Language (CDDL): A Notational Convention to Express Concise Binary Object Representation (CBOR) and JSON Data Structures](https://datatracker.ietf.org/doc/html/rfc8610)
 [Base58 Encoder / Decoder Online - AppDevTools](https://appdevtools.com/base58-encoder-decoder)
+[toravir/csd: CBOR Stream Decoder](https://github.com/toravir/csd/)
 
 ## TOML
 
 [TOML: English v1.0.0](https://toml.io/en/v1.0.0)
 
-[tomllib — Parse TOML files — Python 3 documentation](https://docs.python.org/3.11/library/tomllib.html) 3.11+, essentially `tomli`
+[tomllib — Parse TOML files — Python 3 documentation](https://docs.python.org/3.11/library/tomllib.html) Python 3.11+, essentially `tomli`
 [hukkin/tomli: A lil' TOML parser](https://github.com/hukkin/tomli)
 [sdispater/tomlkit: Style-preserving TOML library for Python](https://github.com/sdispater/tomlkit)
 
@@ -199,11 +221,19 @@ tags:
 [CUE: a data constraint language and shoo-in for Go. Marcel van Lohuizen, Google. - YouTube](https://www.youtube.com/watch?v=b3fhA12KS48)
 [GopherCon Europe 2020: Marcel van Lohuizen - Better APIs with Shareable Validation Logic - YouTube](https://www.youtube.com/watch?v=IRNluM2B4p8)
 
-## Protocol Buffers
+## Pkl
+
+[Pkl :: Pkl Docs](https://pkl-lang.org/index.html)
+[apple/pkl: A configuration as code language with rich validation and tooling.](https://github.com/apple/pkl)
+
+[Introducing Pkl, a programming language for configuration :: Pkl Docs](https://pkl-lang.org/blog/introducing-pkl.html)
+[Pkl: Apple's New JSON/YAML Killer (I actually want to use this...) - YouTube](https://www.youtube.com/watch?v=lAxXWYAIt4k)
+
+## Protocol Buffers (protobuf)
 
 [Protocol Buffers Documentation](https://protobuf.dev/)
 [Protocol Buffers Version 3 Language Specification | Protocol Buffers Documentation](https://protobuf.dev/reference/protobuf/proto3-spec/)
-[Protocol Buffers - Wikiwand](https://www.wikiwand.com/en/Protocol_Buffers)
+[Protocol Buffers - Wikiwand](https://omni.wikiwand.com/en/Protocol_Buffers)
 
 [Protocol Buffers Crash Course - YouTube](https://www.youtube.com/watch?v=46O73On0gyI)
 
@@ -215,7 +245,7 @@ tags:
 
 [Buf | Home](https://buf.build/) The only Protobuf developer platform
 
-## MessagePack
+## MessagePack (msgpack)
 
 [MessagePack: It's like JSON. but fast and small.](https://msgpack.org/index.html)
 [MessagePack](https://github.com/msgpack)
@@ -225,6 +255,12 @@ supports partial decode, designed for network communication
 [neuecc/MessagePack-CSharp: Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]](https://github.com/neuecc/MessagePack-CSharp)
 
 [msgpack/msgpack-python: MessagePack serializer implementation for Python msgpack.org[Python]](https://github.com/msgpack/msgpack-python)
+
+### Go
+
+[MessagePack encoding for Go](https://msgpack.uptrace.dev/)
+[msgpack package - github.com/vmihailenco/msgpack - Go Packages](https://pkg.go.dev/github.com/vmihailenco/msgpack#section-readme)
+[vmihailenco/msgpack: msgpack.org[Go] MessagePack encoding for Golang](https://github.com/vmihailenco/msgpack)
 
 ### Node
 
@@ -375,6 +411,7 @@ Feather is now part of Apache Arrow
 ## Rust
 
 [Serde](https://serde.rs/) Serialization framework for Rust [GitHub](https://github.com/serde-rs/serde)
+[Rust devs push back as Serde project ships precompiled binaries](https://www.bleepingcomputer.com/news/security/rust-devs-push-back-as-serde-project-ships-precompiled-binaries/)
 
 [sharksforarms/deku: Declarative binary reading and writing: bit-level, symmetric, serialization/deserialization](https://github.com/sharksforarms/deku)
 
@@ -412,7 +449,7 @@ Feather is now part of Apache Arrow
 
 ## Python
 
-[12.1. pickle — Python object serialization — Python documentation](https://docs.python.org/3/library/pickle.html)
+[pickle — Python object serialization — Python documentation](https://docs.python.org/3/library/pickle.html) pickle binds to specific Python version, not cross-compatible
 [Pickle’s nine flaws | Ned Batchelder](https://nedbatchelder.com/blog/202006/pickles_nine_flaws.html)
 
 [Serialization and Deserialization of Python Objects: Part 1](https://code.tutsplus.com/tutorials/serialization-and-deserialization-of-python-objects-part-1--cms-26183)

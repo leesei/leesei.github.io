@@ -2,7 +2,7 @@
 title: Vite
 description: Next Generation Frontend Tooling
 created: 2023-06-10
-updated: 2023-09-29
+updated: 2024-02-24
 tags:
   - bundler
   - vite
@@ -20,6 +20,7 @@ tags:
 - support Rollup plugin
 - different [[#Templates]]
 
+[Visual Guide to the Modern Frontend Toolchain (Vite) - YouTube](https://www.youtube.com/watch?v=M_edImKoEt8)
 [Vite + \_\_ | CSS-Tricks - CSS-Tricks | CSS-Tricks](https://css-tricks.com/vite-plus-blank/)
 
 [A deep-dive on Vite featuring Evan You (JS Party #212) |> Changelog](https://changelog.com/jsparty/212)

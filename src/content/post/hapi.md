@@ -2,7 +2,7 @@
 title: Hapi
 description: ""
 created: 2015-02-16
-updated: 2023-09-29
+updated: 2024-06-18
 tags:
   - backend
   - hapi
@@ -155,7 +155,7 @@ https://github.com/pinojs/hapi-pino/issues/91#issuecomment-553318439 need to set
 [sitraka-hq/hapi-auto-route: Autoloads hapi routes](https://github.com/sitraka-hq/hapi-auto-route)
 
 [bleupen/halacious](https://github.com/bleupen/halacious) HAL/HATEOAS support
-[mdibaiee/hapi-sequelize-crud: Hapi plugin that automatically generates RESTful API for CRUD](https://github.com/mdibaiee/hapi-sequelize-crud)
+[mdibaiee/hapi-sequelize-crud: Hapi plugin that automatically generates RESTful API for CRUD](https://github.com/mdibaiee/hapi-sequelize-crud)❗!important
 
 [futurestudio/hapi-rate-limitor: A hapi plugin for rate limiting. Simple and easy.](https://github.com/futurestudio/hapi-rate-limitor)
 [patova: simple throttling for hapi.js – A sea of code](https://dschenkelman.github.io/2015/03/12/patova-simple-throttling-for-hapi-js/)

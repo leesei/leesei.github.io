@@ -2,13 +2,13 @@
 title: World War I
 description: ""
 created: 2015-06-07
-updated: 2023-11-29
+updated: 2024-09-01
 tags:
   - history
   - world-war
 ---
 
-[World War I - Wikiwand](http://www.wikiwand.com/en/World_War_I)
+[World War I - Wikiwand](http://omni.wikiwand.com/en/World_War_I)
 [BBC - BBC World War One](https://www.bbc.co.uk/programmes/p01nb93y)
 [About WWI | National WWI Museum and Memorial](https://www.theworldwar.org/about-wwi) Interactive Timeline and Map
 
@@ -35,7 +35,7 @@ Ottoman (Osman) Empire
 
 Bulgaria (1915-1918)
 
-[The Great War - YouTube](https://www.youtube.com/c/TheGreatWarSeries)
+[The Great War - YouTube](https://www.youtube.com/@TheGreatWar)
 [The Great War - 1919 - YouTube](https://www.youtube.com/playlist?list=PLB2vhKMBjSxP6Q3Y_dwL_2az12RZQR8PB) The Great War
 [Epic History: World War One - YouTube](https://www.youtube.com/playlist?list=PLUOc2qodFHp-3iOGL5MHjWLfTvIM4iNdZ)
 [First World War Stories - YouTube](https://www.youtube.com/playlist?list=PLolzHiCNNbO98fnufk1ohzLRUOcRQ0Gtg) Imperial War Museums

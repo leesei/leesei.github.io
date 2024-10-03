@@ -2,7 +2,7 @@
 title: Trackball
 description: ""
 created: 2015-06-15
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - adesso
   - comp/hardware
@@ -12,7 +12,7 @@ tags:
   - sanwa
 ---
 
-[Trackball - Wikiwand](http://www.wikiwand.com/en/Trackball)
+[Trackball - Wikiwand](http://omni.wikiwand.com/en/Trackball)
 [Trackball vs Mouse, and How to Choose a Trackball?](http://xahlee.info/kbd/trackball_vs_mouse.html)
 [r/Trackballs](https://www.reddit.com/r/Trackballs)
 
@@ -47,6 +47,7 @@ tags:
 [xmodmap - ArchWiki](https://wiki.archlinux.org/title/Xmodmap)
 
 > see [[linux-desktop#xbindkeys]], one can map buttons to commands (together with `xte` to generate a button event)
+> see [[ui-automation]]
 
 ### Button Mapping
 
@@ -303,8 +304,18 @@ Cons:
 [ELECOM M-HT1DRBK Wireless Trackball Mouse Review - Nerd Techy](https://nerdtechy.com/elecom-m-ht1drbk-review)
 [Elecom HUGE Trackball](http://xahlee.info/kbd/elecom_huge_trackball.html)
 [Elecom Mouse Profiler – Troubleshooting Guide - OxGadgets](https://www.oxgadgets.com/2018/03/elecom-profiler-troubleshooting.html)
+[Elecom Huge: A Trackball Done Right? (w/ Kensington Expert) - YouTube](https://www.youtube.com/watch?v=joRMusRyMQ0)
+[I Use a Trackball in 2021??? - Elecom HUGE Review - YouTube](https://www.youtube.com/watch?v=wyzrIJT4S3k)
 
-[Elecom Huge = Gaming TRACKBALL? Bearing replacement / fix / swap - YouTube](https://www.youtube.com/watch?v=Hgst7JaiAa4?t=431) screws location
+screws locations, G5 2.5mm bearings
+
+- Silicon nitride (氮化硅)
+- Zirconium dioxide (二氧化锆)
+- Chrome Steel
+
+[Elecom Huge = Gaming TRACKBALL? Bearing replacement / fix / swap - YouTube](https://www.youtube.com/watch?v=Hgst7JaiAa4?t=431)
+[Elecom HUGE trackball bearing replacement - YouTube](https://www.youtube.com/watch?v=To9qIhT4i8s)
+[Elecom Huge bearing shootout : Trackballs](https://www.reddit.com/r/Trackballs/comments/g6vns4/elecom_huge_bearing_shootout/)
 
 ### Linux setting
 
@@ -343,4 +354,6 @@ Deft Pro is smaller then Huge, seems to have better built quality.
 Deft is even smaller, but good for one hand off-the-table use.
 
 [Elecom DEFT Pro Trackball](http://xahlee.info/kbd/elecom_pro_trackball.html)
+[Elecom Deft Pro: A Compact Finger-Operated Trackball (w/ Elecom Huge) - YouTube](https://www.youtube.com/watch?v=Xl80vN63gEU)
+
 [Elecom DEFT Trackball](http://xahlee.info/kbd/elecom_trackball.html)

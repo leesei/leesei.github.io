@@ -2,7 +2,7 @@
 title: Internet History
 description: ""
 created: 2016-08-01
-updated: 2023-09-29
+updated: 2024-09-06
 tags:
   - browser-war
   - history
@@ -19,6 +19,7 @@ Documents the history of Internet and major events.
 [A Complete History Archive - The History of the Web](https://thehistoryoftheweb.com/complete-history/)
 [Learn the History of the Internet in Dr. Chuck's 9-Hour Course](https://www.freecodecamp.org/news/learn-the-history-of-the-internet-in-dr-chucks/) ❗!important
 [Internet History, Technology, and Security - Full Course from Dr. Chuck - YouTube](https://www.youtube.com/watch?v=47NRaBVxgVM) also computer's history
+[How the Internet Works in 9 Minutes - YouTube](https://www.youtube.com/watch?v=sMHzfigUxz4)
 
 [How the Internet Crossed the Sea | Nostalgia Nerd - YouTube](https://www.youtube.com/watch?v=A8q7Ayvw5kA)
 [How the Internet works: Submarine fiber, brains in jars, and coaxial cables | Ars Technica](http://arstechnica.com/information-technology/2016/05/how-the-internet-works-submarine-cables-data-centres-last-mile/)
@@ -62,7 +63,7 @@ Documents the history of Internet and major events.
 
 Netscape, IE
 
-[Browser wars - Wikiwand](https://www.wikiwand.com/en/Browser_wars)
+[Browser wars - Wikiwand](https://omni.wikiwand.com/en/Browser_wars)
 
 [Project Code Rush - The Beginnings of Netscape / Mozilla Documentary - YouTube](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y)
 [When Netscape Almost Destroyed Microsoft | Nostalgia Nerd - YouTube](https://www.youtube.com/watch?v=huFRTqxb5BE)

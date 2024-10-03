@@ -2,7 +2,7 @@
 title: News
 description: ""
 created: 2019-07-18
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - trivia
 ---
@@ -18,7 +18,7 @@ tags:
 [巴士的報](https://www.bastillepost.com/hongkong/)
 
 [聞庫](https://collection.news/) 《蘋果日報》及《立場新聞》文庫
-[主場新聞 - Wikiwand](https://www.wikiwand.com/zh-hant/%E4%B8%BB%E5%A0%B4%E6%96%B0%E8%81%9E) closed
+[主場新聞 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%BB%E5%A0%B4%E6%96%B0%E8%81%9E) closed
 
 [memehongkong - YouTube](https://www.youtube.com/channel/UCu_YquoQYKR3GpP82TO-zRw) 蕭若元
 [城寨 Singjai - YouTube](https://www.youtube.com/channel/UC0zUmHNpkviI6UZ0uqCYrww) 劉細良

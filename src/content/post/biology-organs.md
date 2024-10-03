@@ -2,7 +2,7 @@
 title: Organs
 description: ""
 created: 2023-09-03
-updated: 2023-09-29
+updated: 2024-08-27
 tags:
   - biology
   - learning
@@ -17,6 +17,11 @@ tags:
 ## Brain
 
 [An evolutionary history of the human brain, in 7 minutes - Big Think](https://bigthink.com/the-well/the-evolution-of-the-human-brain/)
+
+## Lungs
+
+[【鬼谷说】肺的演化（其一）：一息生两仪 两仪生万物 - YouTube](https://www.youtube.com/watch?v=IxJ2ABj1RBM)
+[【鬼谷说】肺的演化（其二）：福息？祸息？ - YouTube](https://www.youtube.com/watch?v=AHT_v6So_ac)
 
 ## Muscle
 
@@ -55,7 +60,11 @@ What we perceive is the post-processed signals from our brains.
 ### Sight/Eyes
 
 [[optical-illusion]]
-[【鬼谷说】眼睛演化史：三千光明法门 - YouTube](https://www.youtube.com/watch?v=)
+[【鬼谷说】眼睛演化史：三千光明法门 - YouTube](https://www.youtube.com/watch?v=KohT77v9rLw)
+
+### Hearing/Ears
+
+[Do these sound illusions fool you? - YouTube](https://www.youtube.com/watch?v=Sn07AMCfaAI)
 
 ### Smell/Nose
 

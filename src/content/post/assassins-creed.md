@@ -2,13 +2,13 @@
 title: Assassin's Creed
 description: ""
 created: 2018-01-03
-updated: 2023-10-24
+updated: 2024-08-14
 tags:
   - assassins-creed
   - games
 ---
 
-[Assassin's Creed - Wikiwand](http://www.wikiwand.com/en/Assassin%27s_Creed)
+[Assassin's Creed - Wikiwand](http://omni.wikiwand.com/en/Assassin%27s_Creed)
 [Assassin's Creed](https://www.reddit.com/r/assassinscreed/)
 [Assassin's Creed Wiki | Fandom](https://assassinscreed.fandom.com/wiki/Assassin%27s_Creed_Wiki)
 
@@ -91,7 +91,7 @@ Unity has free run up and down buttons
 
 > owned
 
-[Assassin's Creed (video game) - Wikiwand](<https://www.wikiwand.com/en/Assassin%27s_Creed_(video_game)>)
+[Assassin's Creed (video game) - Wikiwand](<https://omni.wikiwand.com/en/Assassin%27s_Creed_(video_game)>)
 
 Set in Jerusalem during the Third Crusade, Altair was to kill 9 Templars in the middle east and doubt his faith in the Brotherhood.
 

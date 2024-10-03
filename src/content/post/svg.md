@@ -2,13 +2,13 @@
 title: SVG
 description: Scalable Vector Graphics
 created: 2016-02-21
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - svg
   - web
 ---
 
-[SVG - Wikiwand](https://www.wikiwand.com/en/svg)
+[SVG - Wikiwand](https://omni.wikiwand.com/en/svg)
 [willianjusten/awesome-svg: A curated list of SVG.](https://github.com/willianjusten/awesome-svg)
 
 [SVG Explained in 100 Seconds - YouTube](https://www.youtube.com/watch?v=emFMHH2Bfvo)

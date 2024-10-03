@@ -2,7 +2,7 @@
 title: Psychology
 description: ""
 created: 2016-07-02
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - science
 ---

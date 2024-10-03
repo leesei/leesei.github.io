@@ -2,7 +2,7 @@
 title: GitHub
 description: ""
 created: 2014-12-11
-updated: 2023-09-29
+updated: 2024-02-19
 tags:
   - app
   - git
@@ -159,6 +159,8 @@ rm -rf node_modules/gh-pages/.cache
 [Introducing Copilot for VS Code – AngularDoc – Medium](https://medium.com/angulardoc/introducing-copilot-for-vs-code-c1b1a16bdd21)
 [前端工程师的必备 VS Code 插件 -- Copilot - 知乎](https://zhuanlan.zhihu.com/p/62929504)
 
+[GitHub Copilot CLI: AI for the Command-Line - YouTube](https://www.youtube.com/watch?v=pw0SH7AHIFI)
+
 [GitHub Copilot Archives | The GitHub Blog](https://github.blog/tag/github-copilot/)
 [How I used GitHub Copilot to build a browser extension | The GitHub Blog](https://github.blog/2023-05-12-how-i-used-github-copilot-to-build-a-browser-extension/)
 
@@ -178,6 +180,10 @@ rm -rf node_modules/gh-pages/.cache
 ### Alternatives
 
 [Github Copilot and ChatGPT alternatives - The Pragmatic Engineer](https://blog.pragmaticengineer.com/github-copilot-alternatives/)
+[I Tried Every AI Coding Assistant - YouTube](https://www.youtube.com/watch?v=TXtnFw9eDmM)
+
+[Cody | AI coding assistant](https://sourcegraph.com/cody) r
+[How is THIS Coding Assistant FREE? - YouTube](https://www.youtube.com/watch?v=Tq13s53jscc)
 
 [Bito](https://bito.ai/)
 [【永久免费 ChatGPT4 编程 AI 助手】Bito AI VSCode 扩展对话式生成代码 10 倍提高开发效率 可平替 Github Copilot - YouTube](https://www.youtube.com/watch?v=UvGUAn5ua3c)
@@ -191,6 +197,7 @@ rm -rf node_modules/gh-pages/.cache
 Put YAML in `.github/workflows/`
 
 [GitHub Actions Documentation - GitHub Docs](https://docs.github.com/en/actions)
+[Understanding GitHub Actions - GitHub Docs](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
 [GitHub Actions](https://github.com/actions?type=source)
 [Features • GitHub Actions](https://github.com/features/actions/)
 [GitHub Marketplace · Actions to improve your workflow](https://github.com/marketplace?type=actions)
@@ -253,11 +260,11 @@ Put YAML in `.github/workflows/`
 [sindresorhus/refined-github: Chrome extension that simplifies the GitHub interface and adds useful features](https://github.com/sindresorhus/refined-github)
 [rubyerme/chrome-github-mate: Chrome extension to make single file download effortless and with more features](https://github.com/rubyerme/chrome-github-mate)
 [octo-linker/chrome-extension: Octo-Linker Chrome extension](https://github.com/octo-linker/chrome-extension/)
-[npm-hub - Chrome Web Store](https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj) add npm dependencies to GitHub repo
+[npm-hub](https://chromewebstore.google.com/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj) add npm dependencies to GitHub repo
 [buunguyen/octotree: Code tree for GitHub and GitLab](https://github.com/buunguyen/octotree)
 
 [thecodejunkie/github.expandinizr: Chrome extension that improves the GitHub experience](https://github.com/thecodejunkie/github.expandinizr)
-[NavTree for Github - Chrome Web Store](https://chrome.google.com/webstore/detail/navtree-for-github/hehmfcekejdeohjjckmalfemepbbafbe?hl=en-US)
+[NavTree for Github](https://chromewebstore.google.com/detail/navtree-for-github/hehmfcekejdeohjjckmalfemepbbafbe?hl=en-US)
 [ZenHub - Project Management for Agile Teams in GitHub](https://www.zenhub.io/)
 
 ## Links

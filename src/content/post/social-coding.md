@@ -2,7 +2,7 @@
 title: Social Coding
 description: ""
 created: 2015-07-02
-updated: 2023-11-02
+updated: 2024-08-16
 tags:
   - comp/lang
 ---
@@ -23,12 +23,13 @@ tags:
 
 [15 FREE Pastebin Alternatives You Can Use Right Away – Root Report](https://www.rootreport.com/pastebin-alternatives/)
 
-[HedgeDoc - Collaborative markdown notes](https://demo.hedgedoc.org/)
 [HackMD - Collaborative Markdown Knowledge Base](https://hackmd.io/)
+[[self-hosting#HedgeDoc]]
 
 ## Whiteboard
 
 [[Excalidraw]]
+[[tldraw]]
 
 [Sketchpad - Draw, Create, Share!](https://sketchpad.app/en/)
 [Free Online Whiteboard for Real-Time Collaboration | Canva](https://www.canva.com/online-whiteboard/)

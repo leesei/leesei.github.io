@@ -2,7 +2,7 @@
 title: Tailwind CSS
 description: Rapidly build modern websites without ever leaving your HTML
 created: 2023-09-01
-updated: 2023-11-01
+updated: 2024-09-08
 tags:
   - css
   - tailwind
@@ -26,17 +26,15 @@ tags:
 <script src="https://cdn.tailwindcss.com"></script>
 ```
 
+[Open-sourcing our progress on Tailwind CSS v4.0 - Tailwind CSS](https://tailwindcss.com/blog/tailwindcss-v4-alpha)
+[Tailwind V4 Is Bigger Than Expected 👀 - YouTube](https://www.youtube.com/watch?v=ueQRCTbiJOE)
+Uses Lightning CSS (Rust compiler and bundler)
+
 [Framework Guides - Tailwind CSS](https://tailwindcss.com/docs/installation/framework-guides)
 [Tailwind CSS v3.3: Extended color palette, ESM/TS support, logical properties, and more - Tailwind CSS](https://tailwindcss.com/blog/tailwindcss-v3-3)
 [Tailwind CSS Tutorial for Beginners – How To Start?](https://codete.com/blog/tailwind-css-tutorial-and-examples-for-beginners)
 [Tailwind CSS Tips and Tricks Worth Knowing](https://www.builder.io/blog/tailwind-css-tips-and-tricks)
-
-[dcastil/tailwind-merge: Merge Tailwind CSS classes without style conflicts](https://github.com/dcastil/tailwind-merge)
-[Tailwind-Merge Is Incredibly Useful — And Here's Why! - YouTube](https://www.youtube.com/watch?v=tfgLd5ZSNPc)
-[cn() - Every Tailwind Coder Needs It (clsx + twMerge) - YouTube](https://www.youtube.com/watch?v=re2JFITR7TI)
-
-[vimeshjs/vimesh-style: Vimesh Style is a full-featured tiny javascript library alternative to Tailwind CSS. Automatically work with any frontend frameworks, including React, Vue, AngularJS ect.](https://github.com/vimeshjs/vimesh-style)
-[Typewind – Typesafe Tailwind](https://typewind.dev/)
+[10 Tailwind Classes I Wish I Knew Earlier - YouTube](https://www.youtube.com/watch?v=x1RJ5Q09PqM)
 
 [Tailwind Labs - YouTube](https://www.youtube.com/tailwindlabs)
 [Tailwind CSS is the worst… - YouTube](https://www.youtube.com/watch?v=lHZwlzOUOZ4)
@@ -55,12 +53,26 @@ tags:
 [Configuration - Tailwind CSS](https://tailwindcss.com/docs/configuration)
 [Functions & Directives - Tailwind CSS](https://tailwindcss.com/docs/functions-and-directives)
 
+[How the PROS Use Tailwind - YouTube](https://www.youtube.com/watch?v=QY2Sj7-MMgM) replace rather than extend
+
 [PostCSS 8 · Issue #9664 · facebook/create-react-app](https://github.com/facebook/create-react-app/issues/9664) But CRA does not support PostCSS 8, which is required by Tailwind 2.0
 [Installation - Tailwind CSS](https://tailwindcss.com/docs/installation#post-css-7-compatibility-build)
 
 [partydeck/game at main · itays123/partydeck](https://github.com/itays123/partydeck/tree/main/game) CRA+craco example
 
+## On the contrary
+
+[The Tailwind Conspiracy | Theo Reacts - YouTube](https://www.youtube.com/watch?v=yGBjXsrwK4M) attack on Tailwind (component-based development actually) and Theo's defense
+
 ## Ecosystem
+
+[vimeshjs/vimesh-style: Vimesh Style is a full-featured tiny javascript library alternative to Tailwind CSS. Automatically work with any frontend frameworks, including React, Vue, AngularJS ect.](https://github.com/vimeshjs/vimesh-style)
+
+[dcastil/tailwind-merge: Merge Tailwind CSS classes without style conflicts](https://github.com/dcastil/tailwind-merge)
+[Tailwind-Merge Is Incredibly Useful — And Here's Why! - YouTube](https://www.youtube.com/watch?v=tfgLd5ZSNPc)
+[cn() - Every Tailwind Coder Needs It (clsx + twMerge) - YouTube](https://www.youtube.com/watch?v=re2JFITR7TI)
+
+[Typewind – Typesafe Tailwind](https://typewind.dev/)
 
 [Twind.style](https://twind.style/)
 [Home | Twind](https://twind.dev/) runtime compiler
@@ -100,6 +112,7 @@ tags:
 
 ## UI kits (Copy and paste)
 
+[Explore 3000+ Free UI Elements: CSS & Tailwind](https://uiverse.io/) Tailwind or pure CSS
 [Tailwind CSS Component Library | WindUI](https://wind-ui.com/)
 [Tailwind CSS Components. Examples and templates](https://tailwindcomponents.com/)
 [Home | Collection of Tailwindcss Templates & Components](https://tailwindtemplates.io/)
@@ -111,18 +124,34 @@ tags:
 ### shadcn/ui
 
 > Radix headless UI + Tailwind CSS
+> [[css-tailwindcss#v0]]
 
 [shadcn/ui - Beautifully designed components built with Radix UI and Tailwind CSS.](https://ui.shadcn.com/)
 [shadcn/ui: Beautifully designed components built with Radix UI and Tailwind CSS.](https://github.com/shadcn/ui)
+
+[The anatomy of shadcn/ui](https://manupa.dev/blog/anatomy-of-shadcn-ui)
+[Breaking Down The Most Hyped Component Library - YouTube](https://www.youtube.com/watch?v=AqmMx_JidGo)
+
+[This might change how we build UI forever - YouTube](https://www.youtube.com/watch?v=c5OPn_dyNcc) `npx shadcn init`
+new CLI that updates instead of replacing your files, you can see the diff
 
 [Best UI kit for Next.js 13 | shadcn ui tutorial - YouTube](https://www.youtube.com/watch?v=-UE_lWgVpes)
 [Let's Build a Component Library Using Shadcn's UI Components - YouTube](https://www.youtube.com/watch?v=ChjoKSNWiBo)
 [The Best UI Components that EVERYONE is Using! - YouTube](https://www.youtube.com/watch?v=DTGRIaAJYIo) 54:05
 
+### Aceternity
+
+> Framer Motion + Tailwind CSS
+
+[Aceternity UI](https://ui.aceternity.com/)
+[Components - Aceternity UI](https://ui.aceternity.com/components)
+
+[This UI component library is mind-blowing - YouTube](https://www.youtube.com/watch?v=RPa3_AD1_Vs)
+
 ### v0
 
 > UI generation with prompt
-> generates shadcn/ui and Tailwind CSS code
+> generates shadcn/ui and Tailwind CSS code, `v0` CLI to install the components
 
 [v0.dev by Vercel](https://v0.dev/)
 [v0.dev - WOW!! This IS WILD - YouTube](https://www.youtube.com/watch?v=nhTyuuDZe4w)

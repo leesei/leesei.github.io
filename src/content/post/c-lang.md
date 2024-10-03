@@ -2,7 +2,7 @@
 title: C and C++
 description: ""
 created: 2023-09-29
-updated: 2023-10-18
+updated: 2024-08-14
 tags:
   - c
   - comp/lang
@@ -28,7 +28,7 @@ History of Programming papers:
 [C & GUI Programming - The MagPi MagazineThe MagPi Magazine](https://www.raspberrypi.org/magpi/issues/c-gui-programming/) for beginners, using GTK, some advanced concepts are intentionally not covered
 [The C Beginner's Handbook: Learn C Programming Language basics in just a few hours](https://www.freecodecamp.org/news/the-c-beginners-handbook/amp/)
 [Some obscure C features - Pancakes and computers](https://multun.net/obscure-c-features.html)
-[Duff's device - Wikiwand](https://www.wikiwand.com/en/Duff%27s_device)
+[Duff's device - Wikiwand](https://omni.wikiwand.com/en/Duff%27s_device)
 [C Is Not a Low-level Language - ACM Queue](https://queue.acm.org/detail.cfm?id=3212479)
 
 [7 Reasons Why You Should Keep Learning C/C++ – Simpliv LLC](https://simpliv.wordpress.com/2019/08/06/7-reasons-why-you-should-keep-learning-c-c/amp/)
@@ -46,7 +46,7 @@ History of Programming papers:
 ## Modern C++
 
 [Standard C++](https://isocpp.org/)
-[C++ Standard Library - Wikiwand](https://www.wikiwand.com/en/C%2B%2B_Standard_Library)
+[C++ Standard Library - Wikiwand](https://omni.wikiwand.com/en/C%2B%2B_Standard_Library)
 [Barry Revzin](https://brevzin.github.io/)
 [Bartek's coding blog](https://www.bfilipek.com/)
 [Modernes C++](http://modernescpp.com/index.php)
@@ -63,17 +63,14 @@ History of Programming papers:
 [Bartek's coding blog: Resources](https://www.bfilipek.com/p/resources.html?m=1)
 [C++20: An (Almost) Complete Overview - Marc Gregoire - CppCon 2020 - YouTube](https://www.youtube.com/watch?v=FRkJCvHWdwQ)
 [Modern C++ (2021 Lecture & Tutorials) - YouTube](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRv7VS6fYerEbT4ckBovKur) Cyrill Stachniss
-
 [how Google writes future-proof c++ - YouTube](https://www.youtube.com/watch?v=6lU11IHfJgo)
+
+[C++17’s Useful Features for Embedded Systems | Interrupt](https://interrupt.memfault.com/blog/cpp-17-for-embedded)
 
 Dave's Garage
 [Learn Advanced C++ Techniques - YouTube](https://www.youtube.com/playlist?list=PLF2KJ6Gy3cZ6wvmEoUD8x7M3uwIqNbC6Z)
 
 [C/C++ - YouTube](https://www.youtube.com/playlist?list=PLJ_usHaf3fgM5vOBPY-hXAjUy6SbgE-KG) mCoding
-
-[unique_ptr: C++'s simplest smart pointer - YouTube](https://www.youtube.com/watch?v=AmjoK55h68Y)
-[unique_ptr is NOT just for heap allocations | custom deleters - YouTube](https://www.youtube.com/watch?v=mhCMtNWQ_CQ)
-[auto_ptr vs unique_ptr vs shared_ptr vs weak_ptr in C++ - GeeksforGeeks](https://www.geeksforgeeks.org/auto_ptr-unique_ptr-shared_ptr-weak_ptr-in-cpp/)
 
 [Fluent C++ - Jonathan Boccara's blog](https://www.fluentcpp.com/)
 [Plenary: The Beauty and Power of "Primitive" C++ - Bjarne Stroustrup - CppCon 2020 - YouTube](https://www.youtube.com/watch?v=ERzENfQ51Ck)
@@ -122,6 +119,18 @@ Dave's Garage
 [Bartek's coding blog: How To Use std::visit With Multiple Variants](https://www.bfilipek.com/2018/09/visit-variants.html)
 
 [abseil / Tip of the Week #153: Don't use using-directives](https://abseil.io/tips/153)
+
+### File system/Path
+
+[C++17 in Detail: Filesystem in The Standard Library - C++ Stories](https://www.cppstories.com/2017/08/cpp17-details-filesystem/)
+
+### Pointers
+
+[unique_ptr: C++'s simplest smart pointer - YouTube](https://www.youtube.com/watch?v=AmjoK55h68Y)
+[Smart Pointer Guidelines](https://www.chromium.org/developers/smart-pointer-guidelines/)
+[unique_ptr is NOT just for heap allocations | custom deleters - YouTube](https://www.youtube.com/watch?v=mhCMtNWQ_CQ)
+[auto_ptr vs unique_ptr vs shared_ptr vs weak_ptr in C++ - GeeksforGeeks](https://www.geeksforgeeks.org/auto_ptr-unique_ptr-shared_ptr-weak_ptr-in-cpp/)
+[How to: Create and use unique_ptr instances | Microsoft Learn](https://learn.microsoft.com/en-us/cpp/cpp/how-to-create-and-use-unique-ptr-instances?view=msvc-170)
 
 ### Books
 
@@ -338,12 +347,12 @@ Python binding available, see `cross-platform-apps-desktop.md#python`
 [LoopPerfect/rxterm: Functional reactive terminals in C++ ⚡⌨️](https://github.com/loopperfect/rxterm)
 [Building Reactive Terminal Interfaces in C++ – Hacker Noon](https://hackernoon.com/building-reactive-terminal-interfaces-in-c-d392ce34e649)
 
-[ncurses - Wikiwand](https://www.wikiwand.com/en/Ncurses)
+[ncurses - Wikiwand](https://omni.wikiwand.com/en/Ncurses)
 [NCURSES Programming HOWTO](http://tldp.org/HOWTO/NCURSES-Programming-HOWTO/)
 [Ncurses programming guide](http://www.cs.ukzn.ac.za/~hughm/os/notes/ncurses.html)
 [NCURSES – New Curses](https://invisible-island.net/ncurses/)
 
-[conio.h - Wikiwand](https://www.wikiwand.com/en/Conio.h) for Windows
+[conio.h - Wikiwand](https://omni.wikiwand.com/en/Conio.h) for Windows
 
 ### Boost
 
@@ -446,6 +455,8 @@ Package manager for C libraries.
 
 [clibs/clib](https://github.com/clibs/clib)
 [Packages · clibs/clib Wiki](https://github.com/clibs/clib/wiki/Packages)
+
+[stephenmathieson-boneyard/clib-create: Create a clib skeleton](https://github.com/stephenmathieson-boneyard/clib-create)
 
 [Introducing Clib — Medium](https://medium.com/@tjholowaychuk/introducing-clib-b32e6e769cb3)
 [The Advent of Clib: the C Package Manager](https://blog.ashworth.in/the-advent-of-clib-the-c-package-manager/)

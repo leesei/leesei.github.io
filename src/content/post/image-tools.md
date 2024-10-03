@@ -2,7 +2,7 @@
 title: Image Tools
 description: ""
 created: 2016-08-04
-updated: 2023-09-29
+updated: 2024-10-03
 tags:
   - app
   - image-magick
@@ -14,6 +14,7 @@ tags:
 [Bigjpg - AI 人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片](https://bigjpg.com/)
 [分享 3 款图片处理神器，渣图还原大法好，老厉害了！ - 知乎](https://zhuanlan.zhihu.com/p/61399728)
 [LunaPic | Free Online Photo Editor | Transparent Background](https://www7.lunapic.com/editor/?action=transparent)
+[picthing - manage your pictures better](https://pic.ping.gg/)
 
 ## ImageMagick
 
@@ -31,8 +32,13 @@ tags:
 | `montage`   | create a composite image by combining several separate images. The images are tiled on the composite image optionally adorned with a border, frame, image name, and more.                                                                                                                                               |
 | `stream`    | a lightweight tool to stream one or more pixel components of the image or portion of the image to your choice of storage formats. It writes the pixel components as they are read from the input image a row at a time making stream desirable when working with large images or when you require raw pixel components. |
 
-[ImageMagick v6 Examples](http://www.imagemagick.org/Usage/)
+> TODO: ImageMagick v7 deprecated `convert` command, use `magick` instead.
+> The above standalone comamnds became `magick`'s sub-command
+> And `magick` is more strict about command line syntax
+
+[ImageMagick v7 Examples](http://www.imagemagick.org/Usage/)
 [Command-line Tools @ ImageMagick](http://www.imagemagick.org/script/command-line-tools.php)
+[ImageMagick – Command-line Processing](https://imagemagick.org/script/command-line-processing.php)
 [ImageMagick: Convert, Edit, Or Compose Bitmap Images](http://www.imagemagick.org/script/index.php)
 
 [ImageMagick 使用心得](http://www.charry.org/docs/linux/ImageMagick/ImageMagick.html)
@@ -53,11 +59,19 @@ convert *.jpg -font Arial -pointsize 72 -gravity SouthEast -fill yellow -annotat
 # convert to pdf
 convert a.png b.png -compress jpeg -resize 1240x1753 \
                       -extent 1240x1753 -gravity center \
-                      -units PixelsPerInch -density 150x150 multipage.pdf
+                      -unis PixelsPerInch -density 150x150 multipage.pdf
 
 # convert sequence of images to GIF
 convert -delay '1x20' *.png output.gif # 20FPS
 convert -delay '2x1' *.png output.gif  # 2 sec each frame
+```
+
+### Watermark
+
+[imagemagick - Apply watermark with text / image using GraphicsMagick - Stack Overflow](https://stackoverflow.com/questions/20997701/apply-watermark-with-text-image-using-graphicsmagick)
+
+```sh
+convert -background transparent -fill grey -font Calibri -size 140x80 -pointsize 14 -gravity southeast label:'copyright text' output.png
 ```
 
 ### Resizing Image
@@ -84,22 +98,20 @@ convert -thumbnail {width} *.jpg
 
 ```sh
 # horizontal
-convert image.jpg ...  +append output.jpg
+magick image.jpg ...  +append output.jpg
 # vertical
-convert image.jpg ...  -append output.jpg
+magick image.jpg ...  -append output.jpg
 ```
-
-`mogrify -adjoin`
 
 ### creating image
 
-[Canvas Creation: Random -- IM v6 Examples](https://legacy.imagemagick.org/Usage/canvas/#random)
-[Canvas Creation: Tile -- IM v6 Examples](https://legacy.imagemagick.org/Usage/canvas/#tile)
+[Canvas Creation: Random -- IM v7 Examples](https://legacy.imagemagick.org/Usage/canvas/#random)
+[Canvas Creation: Tile -- IM v7 Examples](https://legacy.imagemagick.org/Usage/canvas/#tile)
 
 ```sh
 # solid color image
-convert -size 100x100 canvas:khaki  canvas_khaki.gif
-convert -size 100x100 xc:wheat  canvas_wheat.gif
+magick -size 100x100 canvas:khaki canvas_khaki.gif
+magick -size 100x100 xc:wheat  canvas_wheat.gif
 
 # patterned image
 # use "tile" to take source from pipe and repeat
@@ -110,31 +122,32 @@ convert -size 30x54 pattern:hexagons \
           -roll +15+27 \
           -fill dodgerblue -draw 'color 10,10 floodfill' \
           -fill limegreen  -draw 'color 10,25 floodfill'   miff:- |\
-convert -size 200x200 tile:- image.jpg
+magick -size 200x200 tile:- image.jpg
 
-convert -size 500x500 pattern:checkerboard  miff:- |\
-convert -size 5000x5000 tile:- image.jpg
+magick -size 500x500 pattern:checkerboard  miff:- |\
+magick -size 5000x5000 tile:- image.jpg
 ```
 
 ```sh
 # get quality of JPEG file
-identify -verbose file.jpg | grep Quality
+magick identify -verbose file.jpg | grep Quality
 ```
 
 #### with text
 
 ```sh
-convert -size 1280x720 xc:grey \
+magick -size 1280x720 xc:grey \
           -font roboto -pointsize 300 -draw "text 100,600 'userName' text 100,300 'userTitle'"  \
           image.jpg
 
-convert -size 1280x720 xc:grey \
+magick -size 1280x720 xc:grey \
           \( -background none label:"A very much longer label" -trim -gravity center \) \
           -composite image.jpg
 
-convert 0001.png \
+# add overlay text
+magick image.jpg \
           \( -size 560x230 -background white -font roboto-mono label:"0001" -trim -gravity center -extent 560x230 \) \
-          -gravity northwest -geometry +1100+15 -composite 0001.png
+          -gravity northwest -geometry +1100+15 -composite image1.jpg
 ```
 
 [dynamic - ImageMagick best fit text within rectangle? - Stack Overflow](https://stackoverflow.com/questions/39764846/imagemagick-best-fit-text-within-rectangle)
@@ -145,13 +158,14 @@ convert 0001.png \
 [Converting anything to RGB correctly - ImageMagick](https://www.imagemagick.org/discourse-server/viewtopic.php?t=16464)
 
 ```sh
-convert CMYK.jpg -profile /usr/share/color/icc/colord/sRGB.icc RGB.jpg
+magick image.jpg \
+ CMYK.jpg -profile /usr/share/color/icc/colord/sRGB.icc RGB.jpg
 ```
 
 ```sh
-convert -list colorspace
-convert flower_original.jpeg -colorspace Gray greyscale_flower.jpeg
-convert flower_original.jpeg -negate flower_negative.jpeg
+magick flower_original.jpeg -colorspace Gray greyscale_flower.jpeg
+magick -list colorspace
+magick flower_original.jpeg -negate flower_negative.jpeg
 ```
 
 ## Photon
@@ -179,3 +193,5 @@ convert flower_original.jpeg -negate flower_negative.jpeg
 [Concepts — Pillow (PIL Fork) documentation](https://pillow.readthedocs.io/en/stable/handbook/concepts.html)
 
 [Imageio website](https://imageio.github.io/)
+
+[OpenStitching/stitching: A Python package for fast and robust Image Stitching](https://github.com/OpenStitching/stitching)

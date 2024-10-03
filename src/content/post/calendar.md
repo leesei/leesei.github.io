@@ -2,7 +2,7 @@
 title: Calendar
 description: ""
 created: 2016-09-09
-updated: 2023-12-02
+updated: 2024-08-14
 tags:
   - calendar
   - science
@@ -21,11 +21,11 @@ tags:
 
 ## Solar Calendar
 
-[Calendar - Wikiwand](http://www.wikiwand.com/en/Calendar)
-[History of calendars - Wikiwand](http://www.wikiwand.com/en/History_of_calendars)
-[Roman calendar - Wikiwand](http://www.wikiwand.com/en/Roman_calendar)
-[Julian calendar - Wikiwand](http://www.wikiwand.com/`en/Julian_calendar) introduced by Julius Caesar in 46 BC, one leap day every 4 years
-[Gregorian calendar - Wikiwand](http://www.wikiwand.com/en/Gregorian_calendar) introduced by Pope Gregory XIII in 1582, 97 leap days every 400 years
+[Calendar - Wikiwand](http://omni.wikiwand.com/en/Calendar)
+[History of calendars - Wikiwand](http://omni.wikiwand.com/en/History_of_calendars)
+[Roman calendar - Wikiwand](http://omni.wikiwand.com/en/Roman_calendar)
+[Julian calendar - Wikiwand](http://omni.wikiwand.com/`en/Julian_calendar) introduced by Julius Caesar in 46 BC, one leap day every 4 years
+[Gregorian calendar - Wikiwand](http://omni.wikiwand.com/en/Gregorian_calendar) introduced by Pope Gregory XIII in 1582, 97 leap days every 400 years
 
 [Why Does February Only Have 28 Days? - YouTube](https://www.youtube.com/watch?v=AgKaHTh-_Gs)
 
@@ -56,13 +56,14 @@ Metonic Cycles
 
 ### April Fools' Day
 
-[April Fools' Day - Wikiwand](https://www.wikiwand.com/en/April_Fools'_Day)
+[April Fools' Day - Wikiwand](https://omni.wikiwand.com/en/April_Fools'_Day)
 [百度百科*V 百科*我们为啥过愚人节？](https://baike.baidu.com/vbaike/我们为啥过愚人节？/21099)
 
 Conservatives refuses to drop the practice of celebrating 1st April as beginning of the year, the French government mocked this practice and make fool of the conservatives. This eventually becomes April Fools' Day.
 
 ### Christmas
 
+[12月25日如何變成耶穌的聖誕節? 三個主流推論 (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=EVn_EbeKj_U)
 [【加更】鰲拜=all buy，為什麼說他才是聖誕節的終極密碼？原來，這一切故事，我們還要從大洪水的時代說起……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=i7pN26c0Xt8)
 
 ## 中國曆法
@@ -76,7 +77,7 @@ Conservatives refuses to drop the practice of celebrating 1st April as beginning
 明崇禎曆
 
 [干支历\_百度百科](https://baike.baidu.com/item/干支历)
-[干支 - Wikiwand](https://www.wikiwand.com/zh-hant/干支)
+[干支 - Wikiwand](https://omni.wikiwand.com/zh/干支)
 
 [百度百科*V 百科*端午节的真相](https://baike.baidu.com/vbaike/端午节的真相/22435)
 [百度百科*V 百科*十二生肖为啥没有猫](https://baike.baidu.com/vbaike/十二生肖为啥没有猫/22544)
@@ -91,7 +92,7 @@ Conservatives refuses to drop the practice of celebrating 1st April as beginning
 
 ### Leap Second
 
-[Leap second - Wikiwand](https://www.wikiwand.com/en/Leap_second)
+[Leap second - Wikiwand](https://omni.wikiwand.com/en/Leap_second)
 [Official Google Blog: Time, technology and leaping seconds](https://googleblog.blogspot.com/2011/09/time-technology-and-leaping-seconds.html)
 
 [NTP Explained | Network Time Protocol | Cisco CCNA 200-301 - YouTube](https://www.youtube.com/watch?v=oCtkwEjhyD4)

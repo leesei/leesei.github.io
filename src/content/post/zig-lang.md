@@ -2,7 +2,7 @@
 title: Zig Programming Language
 description: General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 created: 2023-03-24
-updated: 2023-11-22
+updated: 2024-08-24
 tags:
   - comp/lang
   - package-manager
@@ -24,7 +24,7 @@ Yet another system language wanted to replace C.
 
 [Home ⚡ Zig Programming Language](https://ziglang.org/)
 [ziglang/zig: General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.](https://github.com/ziglang/zig)
-[Zig (programming language) - Wikiwand](<https://www.wikiwand.com/en/Zig_(programming_language)>)
+[Zig (programming language) - Wikiwand](<https://omni.wikiwand.com/en/Zig_(programming_language)>)
 [zigtools](https://github.com/zigtools) `zls` (language server)
 
 ```sh
@@ -42,10 +42,13 @@ zig zen
 [build system terminology update: package, project, module, dependency · Issue #14307 · ziglang/zig](https://github.com/ziglang/zig/issues/14307)
 
 [Zig in 100 Seconds - YouTube](https://www.youtube.com/watch?v=kxT8-C1vmd4)
+[Zig for Impatient Devs - YouTube](https://www.youtube.com/watch?v=5I4ZkmMS4-0)
 [CppCast Episode 342: Zig with Andrew Kelley - YouTube](https://www.youtube.com/watch?v=AdP6seB4sp4) 2022
 
 [Prime Reacts: Is This NEW Language BETTER Than Rust? C++? (Zig First Impressions) - YouTube](https://www.youtube.com/watch?v=alp_Sx5qhn0)
 [Zig is FASTER and SAFER than Rust | Prime Reacts - YouTube](https://www.youtube.com/watch?v=CbQVR4v5PZw)
+[What's Zig got that C, Rust and Go don't have? (with Loris Cro) - YouTube](https://www.youtube.com/watch?v=5_oqWE9otaE)
+[i changed my mind about zig - YouTube](https://www.youtube.com/watch?v=pnnx1bkFXng) Low Level Learning
 
 [Loris Cro's Personal Website](https://kristoff.it/)
 [Andrew Kelley](https://andrewkelley.me/)
@@ -70,7 +73,10 @@ zig zen
 [Zig Crash Course - Gamedev Guide](https://ikrima.dev/dev-notes/zig/zig-crash-course/)
 [In-depth Overview ⚡ Zig Programming Language](https://ziglang.org/learn/overview/)
 
+[ziglings/exercises: Learn the ⚡Zig programming language by fixing tiny broken programs. - Codeberg.org](https://codeberg.org/ziglings/exercises/)
+
 [Zig in 30 minutes](https://gist.github.com/ityonemo/769532c2017ed9143f3571e5ac104e50)
+[Zig tutorial series - YouTube](https://www.youtube.com/playlist?list=PLLRM7ROnmA9GNl8t_02kTa6Xqp7leH7lN) Matt Freire
 
 [Introduction to the Zig Programming Language - Andrew Kelley](http://andrewkelley.me/post/intro-to-zig.html) 2019
 [Intro to the Zig Programming Language • Andrew Kelley • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=YXrb-DqsBNU)
@@ -78,6 +84,8 @@ zig zen
 
 [Zig - YouTube](https://www.youtube.com/playlist?list=PLkj9QI818ttdeWrktvY4iQ2rhm0ku3Uqb) Context Free
 [Zig SHOWTIME - YouTube](https://www.youtube.com/@ZigSHOWTIME) semi-official Youtube channel
+
+[making a game in zig (i have never used zig) LIVE! - YouTube](https://www.youtube.com/watch?v=ajbYYgbDXGk)
 
 ## Commentaries
 
@@ -92,6 +100,10 @@ zig zen
 [Zig is FASTER and SAFER than Rust | Prime Reacts - YouTube](https://www.youtube.com/watch?v=CbQVR4v5PZw)
 [Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
 
+[Why I Chose Rust Over Zig - YouTube](https://www.youtube.com/watch?v=Vxq6Qc-uAmE)
+[P99 CONF - Zig vs Rust - YouTube](https://www.youtube.com/watch?v=7czcewOnaYg)
+
+[The search for easier safe systems programming](https://www.sophiajt.com/search-for-easier-safe-systems-programming/)
 [A Review of the Zig Programming Language (using Advent of Code 2021) :: Neil Henning](https://www.neilhenning.dev/posts/2021-aoc-zig/) 2021
 [My Zig Experience | Prime Reacts - YouTube](https://www.youtube.com/watch?v=SBe8DgBCjTc)
 
@@ -127,6 +139,8 @@ ranlib
 [Extend a C/C++ Project with Zig - Zig NEWS](https://zig.news/kristoff/extend-a-c-c-project-with-zig-55di)
 
 [Updating libc · ziglang/zig Wiki](https://github.com/ziglang/zig/wiki/Updating-libc)
+
+[make the main zig executable no longer depend on LLVM, LLD, and Clang libraries · Issue #16270 · ziglang/zig · GitHub](https://github.com/ziglang/zig/issues/16270)
 
 ### Cross Compile
 

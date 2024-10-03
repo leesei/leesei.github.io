@@ -2,7 +2,7 @@
 title: Linux Tips and Tricks
 description: ""
 created: 2016-03-11
-updated: 2023-10-23
+updated: 2024-09-25
 tags:
   - app
   - desktop
@@ -137,6 +137,10 @@ echo 3 > /proc/sys/vm/drop_caches
 free -m
 ```
 
+## Mounting storage
+
+[systemd时代的/etc/fstab - Systemd系列文章](https://systemd-book.junmajinlong.com/systemd_fstab.html)
+
 ## Swap
 
 ```sh
@@ -217,13 +221,52 @@ play -n -c1 synth whitenoise lowpass -1 120 lowpass -1 120 lowpass -1 120 gain +
 [journalctl](https://www.freedesktop.org/software/systemd/man/journalctl.html)
 [How To Use Journalctl to View and Manipulate Systemd Logs | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs)
 
+### auditd
+
+[Audit](https://people.redhat.com/sgrubb/audit/)
+[linux-audit/audit-userspace: Linux audit userspace repository](https://github.com/linux-audit/audit-userspace)
+[Chapter 7. System Auditing | Red Hat Product Documentation](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/security_guide/chap-system_auditing)
+
+[auditd: The Linux Audit daemon | audit System Administration | Man Pages | ManKier](https://www.mankier.com/8/auditd)
+[auditd.conf: audit daemon configuration file | audit File Formats | Man Pages | ManKier](https://www.mankier.com/5/auditd.conf)
+[auditctl: a utility to assist controlling the kernel's audit system | audit-rules System Administration | Man Pages | ManKier](https://www.mankier.com/8/auditctl)
+[audit.rules: a set of rules loaded in the kernel audit system | audit-rules Miscellanea | Man Pages | ManKier](https://www.mankier.com/7/audit.rules)
+[ausearch: a tool to query audit daemon logs | audit System Administration | Man Pages | ManKier](https://www.mankier.com/8/ausearch)
+[aureport: a tool that produces summary reports of audit daemon logs | audit System Administration | Man Pages | ManKier](https://www.mankier.com/8/aureport)
+
+[Auditd Manager | Documentation](https://www.elastic.co/docs/current/integrations/auditd_manager)
 [Auditing Docker Containers in a DevOps Environment » ADMIN Magazine](http://www.admin-magazine.com/Archive/2018/43/Auditing-Docker-Containers-in-a-DevOps-Environment/) `auditd`
 
-[auditctl(8) - Linux man page](https://linux.die.net/man/8/auditctl)
-[ausearch(8): query audit daemon logs - Linux man page](https://linux.die.net/man/8/ausearch)
-[aureport(8) - Linux man page](https://linux.die.net/man/8/aureport)
+#### audit.rules
 
-## logrotate
+[7.5. Defining Audit Rules | Red Hat Product Documentation](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/security_guide/sec-defining_audit_rules_and_controls)
+
+[bfuzzy1/auditd-attack: A Linux Auditd rule set mapped to MITRE's Attack Framework](https://github.com/bfuzzy1/auditd-attack) more update than `bfuzzy/auditd-attack`
+[Neo23x0/auditd: Best Practice Auditd Configuration](https://github.com/Neo23x0/auditd)
+[set-element/auditdBroFramework: The Auditd Framework logs and applies security policy to linux auditd data](https://github.com/set-element/auditdBroFramework) `log_normalizer`
+[sigma/rules/linux/auditd at master · SigmaHQ/sigma · GitHub](https://github.com/SigmaHQ/sigma/tree/master/rules/linux/auditd)
+
+#### Analyzing `audit.log`
+
+[7.6. Understanding Audit Log Files | Red Hat Product Documentation](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/security_guide/sec-understanding_audit_log_files)
+[RHEL Audit System Reference - Red Hat Customer Portal](https://access.redhat.com/articles/4409591) ❗!important
+[people.redhat.com/sgrubb/audit/record-fields.html](https://people.redhat.com/sgrubb/audit/record-fields.html)
+
+[stevegrubb/audit-explorer: This is an R shiny app that visualizes audit data using many tools all in one app.](https://github.com/stevegrubb/audit-explorer/)
+
+#### Articles
+
+[(PDF) Auditd: Rule Writing for better Threat Detection on \*nix Devices](https://www.researchgate.net/publication/355181208_Auditd_Rule_Writing_for_better_Threat_Detection_on_nix_Devices)
+
+[Linux auditd for Threat Detection [Part 1] | by IzyKnows | Medium](https://izyknows.medium.com/linux-auditd-for-threat-detection-d06c8b941505)
+[Linux auditd for Threat Detection [Part 2] | by IzyKnows | Medium](https://izyknows.medium.com/linux-auditd-for-threat-hunting-part-2-c75500f591e8)
+[Linux auditd for Threat Detection [Final] | by IzyKnows | Medium](https://izyknows.medium.com/linux-auditd-for-threat-detection-final-9d5173706b3f)
+
+### go-audit
+
+[slackhq/go-audit: go-audit is an alternative to the auditd daemon that ships with many distros](https://github.com/slackhq/go-audit)
+
+### logrotate
 
 [logrotate(8) - Linux man page](https://linux.die.net/man/8/logrotate)
 [Understanding logrotate utility](https://support.rackspace.com/how-to/understanding-logrotate-utility/)

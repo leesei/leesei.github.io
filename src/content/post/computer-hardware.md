@@ -2,7 +2,7 @@
 title: Computer Hardware
 description: ""
 created: 2016-09-27
-updated: 2023-11-12
+updated: 2024-09-23
 tags:
   - comp/hardware
 ---
@@ -14,9 +14,9 @@ tags:
 
 [Handbook of hardware schemes, cables layouts and connectors pinouts diagrams @ pinouts.ru](http://pinouts.ru/)
 
-[极客湾 Geekerwan - YouTube](https://www.youtube.com/c/geekerwan%E6%9E%81%E5%AE%A2%E6%B9%BE%E6%A5%B5%E5%AE%A2%E7%81%A3)
-[Hardware Unboxed - YouTube](https://www.youtube.com/c/Hardwareunboxednow)
-[板廠沒有說的秘密 TOPPC - YouTube](https://www.youtube.com/channel/UCcBHyNvAbtxX8TRJYSQiObw)
+[极客湾Geekerwan - YouTube](https://www.youtube.com/@geekerwan1024)
+[Hardware Unboxed - YouTube](https://www.youtube.com/@Hardwareunboxed)
+[板廠沒有說的秘密 TOPPC - YouTube](https://www.youtube.com/@ToppcLin)
 
 # PC Assembly
 
@@ -38,20 +38,23 @@ Branch Education
 > the real world is analog, and digital computers are just an approximation of it
 > analog devices are much more energy efficient (not requiring A-D conversion)
 
-[Analog computer - Wikiwand](https://www.wikiwand.com/en/Analog_computer)
+[Analog computer - Wikiwand](https://omni.wikiwand.com/en/Analog_computer)
 [What is an Analog Computer? - Definition from Techopedia](https://www.techopedia.com/definition/5955/analog-computer)
 [What is Analog Computer: Definition, Examples, Types, Characteristics, Advantages](https://digitalthinkerhelp.com/what-is-analog-computer-definition-and-its-examples/)
 [Difference between Analog Computer and Digital Computer - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-analog-computer-and-digital-computer/)
 
 [Why Lightbulbs Might Be The Best Invention Ever - YouTube](https://www.youtube.com/watch?v=FU_YFpfDqqA) bulb -> vacuum tube -> amplifier -> digital computer
+[Analog Computers Are About to Take OVER - Here's Why! - YouTube](https://www.youtube.com/watch?v=VWn6Ixh2eDg)
 
 [Analog Chip Design is an Art. Can AI Help? - YouTube](https://www.youtube.com/watch?v=lNypq1XuZRo) AI for analog circuit design
+[Memristors for Analog AI Chips - YouTube](https://www.youtube.com/watch?v=LMuqWQcuy_0)
+[Running Neural Networks on Meshes of Light - YouTube](https://www.youtube.com/watch?v=t0yj4hBDUsc)
 
 Harmonic analyzer: integration
 Differential analyzer
 Analytical Engine
 
-[I Am The Computer Now - YouTube](https://www.youtube.com/watch?v=axtQvkSpoto) analogue calculator
+[I Am The Computer Now - Friden STW10 Mechanical Calculator - YouTube](https://www.youtube.com/watch?v=axtQvkSpoto) analogue calculator
 
 [The Mechanical Integrator - a machine that does calculus - YouTube](https://www.youtube.com/watch?v=s-y_lnzWQjk)
 
@@ -61,6 +64,7 @@ Analytical Engine
 
 [Analog computing will take over 30 billion devices by 2040. Wtf does that mean? | Hard Reset - YouTube](https://www.youtube.com/watch?v=6AgkTdQXFTY)
 [Future Computers Will Be Radically Different (Analog Computing) - YouTube](https://www.youtube.com/watch?v=GVsUOuSjvcg) AI history
+[Why the Future of AI & Computers Will Be Analog - YouTube](https://www.youtube.com/watch?v=6Y6FJVqzivc)
 [Not Your Father’s Analog Computer](https://spectrum.ieee.org/not-your-fathers-analog-computer)
 
 [Why Algorithms Suck and Analog Computers are the Future - De Gruyter Conversations](https://blog.degruyter.com/algorithms-suck-analog-computers-future/)
@@ -69,7 +73,7 @@ Analytical Engine
 
 # Advancement
 
-[Moore's law - Wikiwand](https://www.wikiwand.com/en/Moore%27s_law)
+[Moore's law - Wikiwand](https://omni.wikiwand.com/en/Moore%27s_law)
 
 [Moore's Law is the reason your iPhone is so thin and cheap - CNET](https://www.cnet.com/tech/mobile/moores-law-is-the-reason-why-your-iphone-is-so-thin-and-cheap/)
 [Processor progress is alive and well, the maker of Apple's iPhone chips says - CNET](https://www.cnet.com/tech/mobile/processor-progress-is-alive-and-well-tsmc-builder-of-apple-iphone-chips-says/)
@@ -101,20 +105,20 @@ your kids play Candy Crush on this
 [PC Motherboard Evolution - YouTube](https://www.youtube.com/watch?v=sewt2pqc3us)
 [PC Motherboard Evolution - YouTube](https://www.youtube.com/watch?v=sewt2pqc3us)
 
-[ATX - Wikiwand](https://www.wikiwand.com/en/ATX)
-[Mini ATX - Wikiwand](https://www.wikiwand.com/en/Mini_ATX)
-[microATX - Wikiwand](https://www.wikiwand.com/en/MicroATX)
-[Small form factor - Wikiwand](https://www.wikiwand.com/en/Small_form_factor)
+[ATX - Wikiwand](https://omni.wikiwand.com/en/ATX)
+[Mini ATX - Wikiwand](https://omni.wikiwand.com/en/Mini_ATX)
+[microATX - Wikiwand](https://omni.wikiwand.com/en/MicroATX)
+[Small form factor - Wikiwand](https://omni.wikiwand.com/en/Small_form_factor)
 
-[BTX (form factor) - Wikiwand](<https://www.wikiwand.com/en/BTX_(form_factor)>)
-[MicroBTX - Wikiwand](https://www.wikiwand.com/en/MicroBTX)
+[BTX (form factor) - Wikiwand](<https://omni.wikiwand.com/en/BTX_(form_factor)>)
+[MicroBTX - Wikiwand](https://omni.wikiwand.com/en/MicroBTX)
 
 ## ITX
 
-[Mini-ITX - Wikiwand](https://www.wikiwand.com/en/Mini-ITX) 170x170mm
+[Mini-ITX - Wikiwand](https://omni.wikiwand.com/en/Mini-ITX) 170x170mm
 [Taking a look at Thin Mini-ITX AM4 motherboards](https://rk.edu.pl/en/taking-look-thin-mini-itx-am4-motherboards/) Mini-ITX powered by external power brick
-[Nano-ITX - Wikiwand](https://www.wikiwand.com/en/Nano-ITX)
-[Pico-ITX - Wikiwand](https://www.wikiwand.com/en/Pico-ITX) 100x72mm
+[Nano-ITX - Wikiwand](https://omni.wikiwand.com/en/Nano-ITX)
+[Pico-ITX - Wikiwand](https://omni.wikiwand.com/en/Pico-ITX) 100x72mm
 Mobile ITX 60x60mm
 
 A4 机箱: GPU 背靠底板
@@ -180,8 +184,8 @@ A4 机箱: GPU 背靠底板
 ## Form Factor
 
 [A Basic Guide To Motherboard, Case and Power Supply Form Factors | Tom's Hardware](https://www.tomshardware.com/features/pc-form-factor-basics)
-[Computer form factor - Wikiwand](https://www.wikiwand.com/en/Computer_form_factor)
-[Small form factor - Wikiwand](https://www.wikiwand.com/en/Small_form_factor)
+[Computer form factor - Wikiwand](https://omni.wikiwand.com/en/Computer_form_factor)
+[Small form factor - Wikiwand](https://omni.wikiwand.com/en/Small_form_factor)
 
 ## Airflow/Fan
 
@@ -213,11 +217,14 @@ Maglev bearing:
 PSU efficiency vs load graph _used_ to be like a bell curve which peaked at ~50%, nowadays the graph is much flatter and above 80% across all loads (80 Plus cert)
 Since CPU and GPU both takes 12V, make sure the 12V rail (not the total) can support their load.
 
-[Power supply unit (computer) - Wikiwand](<https://www.wikiwand.com/en/Power_supply_unit_(computer)>)
+[Power supply unit (computer) - Wikiwand](<https://omni.wikiwand.com/en/Power_supply_unit_(computer)>)
 [PSUs 101: A Detailed Look Into Power Supplies | Tom's Hardware](https://www.tomshardware.com/reviews/power-supplies-101,4193.html)
 [Anatomy of a Power Supply Unit (PSU) - TechSpot](https://www-techspot-com.cdn.ampproject.org/v/s/www.techspot.com/amp/article/1967-anatomy-psu/)
 [How Power Supplies Work - Turbo Nerd Edition - YouTube](https://www.youtube.com/watch?v=i9ZnaA8DZDs)
 [Explaining PC Power Supplies - YouTube](https://www.youtube.com/watch?v=NQoLFIuJBGQ)
+
+[ATX3.1更新了啥？《台式机电源到底应该怎么挑？》2024版，最新电源性能指标新手向科普【翼王】 - YouTube](https://www.youtube.com/watch?v=W8HrNcVTTU8)
+[电源评测 - YouTube](https://www.youtube.com/playlist?list=PL2xFGMqQJYNFQyS-tdT-6lcRZF348PWML)
 
 [電源供應器 @ 港都狼窩 WolfLSI's Den :: 痞客邦 ::](https://wolflsi.pixnet.net/blog/category/942282)
 [電源測試文閱讀小指南 Part II @ 港都狼窩 WolfLSI's Den :: 痞客邦 ::](https://wolflsi.pixnet.net/blog/post/67908465)
@@ -253,6 +260,11 @@ LTT's power test equipment
 
 [如何查詢電源供應器 PSU 是哪家代工的 並附常見電供查詢結果 - YouTube](https://www.youtube.com/watch?v=iwiw9tafv04)
 [如何查詢電源供應器 PSU 是哪家代工的](https://www.chsnote.com/2021/10/psu-manufacturer.html)
+[【全网独家】原来电源全是贴牌？22家代工厂介绍评级\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1uk4y1j7PL/)
+[电脑电源品牌排行，一二三线品牌都有哪些？各品牌做工售后到底怎么样？哪些型号千万不能买！\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV11m4y1x75J/)
+Teir 1: 海韵(SeaSonic), 振華 (兩者低端都為代工)
+Teir 2: 長城, 全漢(FSP), 台達(Delta), 航嘉(HuntKey)
+Teir 3: 鑫谷, 先馬, 銀欣
 
 ## PSU Wattage Calculator
 
@@ -388,9 +400,19 @@ Xiaomi
 
 # Interfaces
 
+## PCI-e
+
 [Explaining PCIe Slots - YouTube](https://www.youtube.com/watch?v=PrXwe21biJo)
 [PCI-e bifurcation explained – Dons Blog](https://blog.donbowman.ca/2017/10/06/pci-e-bifurcation-explained/)
 [About PCIe Bifurcation](https://peine-braun.net/shop/index.php?route=information/information&information_id=7)
+
+## Compute Express Link (CXL)
+
+[Homepage - Compute Express Link](https://computeexpresslink.org/)
+[Compute Express Link - Wikiwand](https://omni.wikiwand.com/en/Compute_Express_Link)
+
+[Compute Express Link (CXL): All you need to know - Rambus](https://www.rambus.com/blogs/compute-express-link/)
+[【技術文章】CXL 協定的功能與特性詳解](https://www.eagletek.com.tw/post/cxl-protocol-spec-function)
 
 ---
 

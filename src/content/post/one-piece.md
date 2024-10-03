@@ -2,14 +2,14 @@
 title: One Piece
 description: ""
 created: 2016-06-18
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - anime
   - manga
   - one-piece
 ---
 
-[ONE PIECE - Wikiwand](https://www.wikiwand.com/zh-hant/ONE_PIECE)
+[ONE PIECE - Wikiwand](https://omni.wikiwand.com/zh/ONE_PIECE)
 [One Piece Wiki | Fandom](https://onepiece.fandom.com/wiki/One_Piece_Wiki)
 [ONE PIECE Fanpage -](https://www.opfanpage.com/)
 [海賊王為什麼這麼火？一口氣看完海賊王發展史！尾田榮一郎 4 年創作史，ONEPIECE 創作的前世今生！ - YouTube](https://www.youtube.com/watch?v=mxLTcjjojF0)
@@ -17,13 +17,13 @@ tags:
 航海王最終研究 3──D 之謎
 [航海王 - 漫画全集在线观看 - 哔哩哔哩漫画](https://manga.bilibili.com/detail/mc24742?from=ugc)
 
-[作業本 - YouTube](https://www.youtube.com/channel/UC291LvruKOnyWPHDrL1U3yw)
+[Exercise book - YouTube](https://www.youtube.com/@ZuoYeBen)
 [动漫作业本的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibili](https://space.bilibili.com/488779255)
-[夜與白鯨 - YouTube](https://www.youtube.com/channel/UC65lJ-XUmN9H-oaBy2HtMXQ)
+[夜與白鯨 - YouTube](https://www.youtube.com/@user-vr2xw9oe9o)
 [海賊王 - YouTube](https://www.youtube.com/playlist?list=PL9_zHK6-Ctw6DF-cVKVNeDsIrY51llLo9) 阿後哭哭
-[脆皮墨汁儿 - YouTube](https://www.youtube.com/channel/UCTuxj0cJHEwGAap4QcbrDvw/featured)
-[outlooker 外行員 - YouTube](https://www.youtube.com/channel/UCeBekLhn6TBwndp8Y-w49RA)
-[阿金很忙 - YouTube](https://www.youtube.com/channel/UCFmzVEsyXXBW2QYa5F2aO9w) 胡扯
+[傅正宇 - YouTube](https://www.youtube.com/@user-nn2yt1dr3h) 脆皮墨汁儿
+[outlooker外行員 - YouTube](https://www.youtube.com/@outlooker2506)
+[阿金很忙 - YouTube](https://www.youtube.com/@666jin) 胡扯
 
 [海賊王：10 大搞笑梗！索隆一人佔 4 個，四皇佔 3 個！ - YouTube](https://www.youtube.com/watch?v=1aKg7IuQNGI)
 [海賊王人物傳 - YouTube](https://www.youtube.com/playlist?list=PLHGtcOQ0hBC4cKuOQ3lbSbc8o6kBfhW08) 夢想家
@@ -42,6 +42,7 @@ tags:
 [【可乐剧场】海贼王 164 分钟看完海贼王全部剧情 从第一集讲到 919 集的和之国 - YouTube](https://www.youtube.com/watch?v=J2QwvyGfTcg)
 [42 分钟看完海贼王所有主线！史上最细腻的主线梳理！ - YouTube](https://www.youtube.com/watch?v=HQzLHk8X9Zs)
 [海賊王動畫盤點：連載 20 年完整觀影指南！一口氣回顧 900 多集動畫 | 動漫作業本 - YouTube](https://www.youtube.com/watch?v=ZHvqQiV7v4)
+[秃头的白小明 - YouTube](https://www.youtube.com/playlist?list=PLKBpgRASMadBIaMhXBGrPHq3qMsW9T5DM) 入坑海贼王
 
 生存之海 超新星篇
 1-61: 東海篇

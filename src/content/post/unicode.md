@@ -2,25 +2,25 @@
 title: Unicode
 description: ""
 created: 2015-06-05
-updated: 2023-11-02
+updated: 2024-08-14
 tags:
   - comp/lang
   - emoji
   - unicode
 ---
 
-[Unicode - Wikiwand](https://www.wikiwand.com/en/Unicode)
-[Universal Character Set characters - Wikiwand](http://www.wikiwand.com/en/Universal_Character_Set_characters)
-[Code point - Wikiwand](http://www.wikiwand.com/en/Code_point)
-[BMP](<http://www.wikiwand.com/en/Plane_(Unicode)#/Basic_Multilingual_Plane>)
-[SMP](<http://www.wikiwand.com/en/Plane_(Unicode)#/Supplementary_Multilingual_Plane>)
+[Unicode - Wikiwand](https://omni.wikiwand.com/en/Unicode)
+[Universal Character Set characters - Wikiwand](http://omni.wikiwand.com/en/Universal_Character_Set_characters)
+[Code point - Wikiwand](http://omni.wikiwand.com/en/Code_point)
+[BMP](<http://omni.wikiwand.com/en/Plane_(Unicode)#/Basic_Multilingual_Plane>)
+[SMP](<http://omni.wikiwand.com/en/Plane_(Unicode)#/Supplementary_Multilingual_Plane>)
 [Astral Planes](http://www.opoudjis.net/unicode/unicode_astral.html)
 
 [𝚚𝚠𝚎𝚛𝚝𝚢.𝚍𝚎𝚟](https://qwerty.dev/)
 
 [Plain Text • Dylan Beattie • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=4mRxIgu9R70) ❗!important, 43:11, ASCII history, code page, Unicode, sorting, normalization, encoding, emoji, ligatures
 [Plain Text - Dylan Beattie - NDC Copenhagen 2022 - YouTube](https://www.youtube.com/watch?v=gd5uJ7Nlvvo)
-[Code page - Wikiwand](https://www.wikiwand.com/en/code%20page)
+[Code page - Wikiwand](https://omni.wikiwand.com/en/code%20page)
 In ASCII days, code pages define what the top half of ASCII represents. It is sometimes bound to a particular use case/app.
 
 [Characters, Symbols and the Unicode Miracle - Computerphile - YouTube](https://www.youtube.com/watch?v=MijmeoH9LT4)
@@ -72,17 +72,22 @@ A Python type representing a sequence of code points with "string semantics" (e.
 
 [Unify – Unicode support on browsers and devices](http://unicode.johnholtripley.co.uk/)
 
-[表意文字小組 - Wikiwand](https://www.wikiwand.com/zh-hant/%E8%A1%A8%E6%84%8F%E6%96%87%E5%AD%97%E5%B0%8F%E7%B5%84)
-[中日韓統一表意文字 - Wikiwand](https://www.wikiwand.com/zh-hant/%E4%B8%AD%E6%97%A5%E9%9F%93%E7%B5%B1%E4%B8%80%E8%A1%A8%E6%84%8F%E6%96%87%E5%AD%97)
+[表意文字小組 - Wikiwand](https://omni.wikiwand.com/zh/%E8%A1%A8%E6%84%8F%E6%96%87%E5%AD%97%E5%B0%8F%E7%B5%84)
+[中日韓統一表意文字 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%AD%E6%97%A5%E9%9F%93%E7%B5%B1%E4%B8%80%E8%A1%A8%E6%84%8F%E6%96%87%E5%AD%97)
 [UAX #38: Unicode Han Database (Unihan)](http://www.unicode.org/reports/tr38/)
+
+## Tools
+
+[Unicode Search 🔎](http://xahlee.info/comp/unicode_index.html?q=)
+[c2nes/unichoose: Search Unicode characters using Rofi and fzf](https://github.com/c2nes/unichoose)
 
 ## Combining Marks/Normalization
 
-[Combining character - Wikiwand](https://www.wikiwand.com/en/Combining_character)
+[Combining character - Wikiwand](https://omni.wikiwand.com/en/Combining_character)
 [Zalgo Text Generator ― LingoJam](https://lingojam.com/ZalgoText) 😄funny
 
 [FAQ - Normalization](http://www.unicode.org/faq/normalization.html)
-[Unicode equivalence - Wikiwand](https://www.wikiwand.com/en/Unicode_equivalence)
+[Unicode equivalence - Wikiwand](https://omni.wikiwand.com/en/Unicode_equivalence)
 [String.prototype.normalize() - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/normalize)
 
 [UAX #15: Unicode Normalization Forms](http://unicode.org/reports/tr15/)
@@ -97,22 +102,22 @@ NFKD — Normalization Form Compatibility Decomposition.
 [Unicode Normalization forms - C# - OneCompiler](https://onecompiler.com/csharp/3zs9ccwc6)
 [dotnet_summit_by.cs](https://gist.github.com/dylanbeattie/336b6b8990f0db6dd00d238ad114092a)
 
-[Unicode 相容字元 - Wikiwand](https://www.wikiwand.com/zh-hant/Unicode%E7%9B%B8%E5%AE%B9%E5%AD%97%E7%AC%A6)
-[Unicode compatibility characters - Wikiwand](https://www.wikiwand.com/en/Unicode_compatibility_characters)
+[Unicode 相容字元 - Wikiwand](https://omni.wikiwand.com/zh/Unicode%E7%9B%B8%E5%AE%B9%E5%AD%97%E7%AC%A6)
+[Unicode compatibility characters - Wikiwand](https://omni.wikiwand.com/en/Unicode_compatibility_characters)
 
 Allows multiple glyphs for one code point
-[異體字選擇器 - Wikiwand](https://www.wikiwand.com/zh-hant/%E7%95%B0%E9%AB%94%E5%AD%97%E9%81%B8%E6%93%87%E5%99%A8)
-[Variant form (Unicode) - Wikiwand](<https://www.wikiwand.com/en/Variant_form_(Unicode)>)
+[異體字選擇器 - Wikiwand](https://omni.wikiwand.com/zh/%E7%95%B0%E9%AB%94%E5%AD%97%E9%81%B8%E6%93%87%E5%99%A8)
+[Variant form (Unicode) - Wikiwand](<https://omni.wikiwand.com/en/Variant_form_(Unicode)>)
 
 ## Encoding
 
-[UTF-8 - Wikiwand](http://www.wikiwand.com/en/UTF-8)
-[UTF-16 - Wikiwand](http://www.wikiwand.com/en/UTF-16)
-[Surrogates](http://www.wikiwand.com/en/Universal_Character_Set_characters#/Surrogates)
+[UTF-8 - Wikiwand](http://omni.wikiwand.com/en/UTF-8)
+[UTF-16 - Wikiwand](http://omni.wikiwand.com/en/UTF-16)
+[Surrogates](http://omni.wikiwand.com/en/Universal_Character_Set_characters#/Surrogates)
 
 [RFC 3629 - UTF-8, a transformation format of ISO 10646](http://tools.ietf.org/html/rfc3629)
 
-[Byte order mark - Wikiwand](https://www.wikiwand.com/en/Byte_order_mark)
+[Byte order mark - Wikiwand](https://omni.wikiwand.com/en/Byte_order_mark)
 [FAQ - UTF-8, UTF-16, UTF-32 & BOM](http://www.unicode.org/faq/utf_bom.html#BOM)
 [UTR#17: Unicode Character Encoding Model](https://www.unicode.org/reports/tr17/)
 
@@ -121,7 +126,7 @@ Allows multiple glyphs for one code point
 
 ### Punycode Domain Name
 
-[Punycode - Wikiwand](https://www.wikiwand.com/en/Punycode)
+[Punycode - Wikiwand](https://omni.wikiwand.com/en/Punycode)
 
 [RFC 3492 - Punycode: A Bootstring encoding of Unicode for Internationalized Domain Names in Applications (IDNA)](https://tools.ietf.org/html/rfc3492)
 [Punycode converter (IDN converter), Punycode to Unicode 🔧](https://www.punycoder.com/)
@@ -129,9 +134,11 @@ Allows multiple glyphs for one code point
 [Phishing with Unicode Domains - Xudong Zheng](https://www.xudongz.com/blog/2017/idn-phishing/)
 [Internationalized Domain Names (IDN) in Google Chrome](https://chromium.googlesource.com/chromium/src/+/main/docs/idn.md)
 
+[Why You Can't Visit 💀🎺.com - YouTube](https://www.youtube.com/watch?v=y4393bPetoU) emoji allowed in `.tk`, `.to`, `.ws`
+
 ## Emoji
 
-[Emoji - Wikiwand](https://www.wikiwand.com/en/Emoji)
+[Emoji - Wikiwand](https://omni.wikiwand.com/en/Emoji)
 [How emoji conquered the world | The Verge](http://www.theverge.com/2013/3/4/3966140/how-emoji-conquered-the-world)
 [The Oral History Of The Poop Emoji (Or, How Google Brought Poop To America) | Fast Company | Business + Innovation](http://www.fastcompany.com/3037803/the-oral-history-of-the-poop-emoji-or-how-google-brought-poop-to-america)
 [Emoji and the Levitating Businessman - Computerphile - YouTube](https://www.youtube.com/watch?v=tITwM5GDIAI)
@@ -148,6 +155,7 @@ Black Woman Astronaut = Woman (U+1F469) + Dark Skin Tone (U+1F3FF) + Zero Width 
 [🎁 Emoji cheat sheet for GitHub, Basecamp, Slack & more](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 [Intro to Emoji URLs - DEV Community](https://dev.to/ra101/intro-to-emoji-urls-10c9)
+[The 150 Most Popular Emojis Explained](https://www.makeuseof.com/top-emojis-explained-cheat-sheet/)
 
 ### Library
 
@@ -189,7 +197,7 @@ Black Woman Astronaut = Woman (U+1F469) + Dark Skin Tone (U+1F3FF) + Zero Width 
 [&what: Discover Unicode & HTML Character Entities](http://www.amp-what.com/)
 [Graphemica - For people who ♥ letters, numbers, punctuation, &c](http://graphemica.com/)
 [Code Charts](http://www.unicode.org/charts/) (Unicode official one, PDFs)
-[List of Unicode characters - Wikiwand](https://www.wikiwand.com/en/List_of_Unicode_characters)
+[List of Unicode characters - Wikiwand](https://omni.wikiwand.com/en/List_of_Unicode_characters)
 [Unicode Table](http://www.tamasoft.co.jp/en/general-info/unicode.html)
 [Unicode/UTF-8-character table](http://www.utf8-chartable.de/unicode-utf8-table.pl?number=1024&unicodeinhtml=hex)
 
@@ -201,7 +209,7 @@ Black Woman Astronaut = Woman (U+1F469) + Dark Skin Tone (U+1F3FF) + Zero Width 
 
 ### Guobiao
 
-[國家標準代碼 - Wikiwand](https://www.wikiwand.com/zh-hant/国家标准代码)
+[國家標準代碼 - Wikiwand](https://omni.wikiwand.com/zh/国家标准代码)
 [国标码查询；汉字国家标准编码：GB2312、GBK、GB18030](https://www.qqxiuzi.cn/bianma/guobiaoma.php)
 
 2 bytes per character, with leading bit 1

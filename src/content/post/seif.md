@@ -2,16 +2,22 @@
 title: Seif Project
 description: ""
 created: 2016-01-31
-updated: 2023-09-29
+updated: 2024-01-18
 tags:
+  - archived
   - seif
   - web
 ---
 
-[Seif Project](http://seif.place)
-[The Seif Project by Douglas Crockford - talk.js - YouTube](https://www.youtube.com/watch?v=fQWRoLf7bns) problems of Web, STB of the Web move the Web forward
+> this project is archived
 
+~~[Seif Project](http://seif.place)~~
+[The Seif Project by Douglas Crockford - talk.js - YouTube](https://www.youtube.com/watch?v=fQWRoLf7bns) problems of Web, STB of the Web move the Web forward
 The Web started as a document delivery system, now it is an application delivery system
+
+[Introducing the Seif Project – O’Reilly](https://www.oreilly.com/content/introducing-the-seif-project/)
+
+[paypal/seif-protocol: Node.js Implementation of the Seif protocol](https://github.com/paypal/seif-protocol)
 
 ## Part One: [seifnode](https://github.com/paypal/seifnode)
 

@@ -2,7 +2,7 @@
 title: DevOps
 description: ""
 created: 2016-02-17
-updated: 2023-10-14
+updated: 2024-09-23
 tags:
   - dev/deploy
   - devops
@@ -10,8 +10,8 @@ tags:
 
 > lots of known unknowns and unknown unknowns here
 
-[DevOps - Wikiwand](http://www.wikiwand.com/en/DevOps)
-[System administrator - Wikiwand](http://www.wikiwand.com/en/System_administrator)
+[DevOps - Wikiwand](http://omni.wikiwand.com/en/DevOps)
+[System administrator - Wikiwand](http://omni.wikiwand.com/en/System_administrator)
 
 [DevOps'ish](https://devopsish.com/)
 [The devo.ps blog | devo.ps](http://devo.ps/blog/)
@@ -87,6 +87,7 @@ tags:
 
 [5 GitHub Projects to make you a better DevOps Engineer ⚡ - DEV Community](https://dev.to/ankit01oss/5-github-projects-to-make-you-a-better-devops-engineer-2fkl)
 [trimstray/the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.](https://github.com/trimstray/the-book-of-secret-knowledge)
+[A Guide to Cloud Resilience: Maximize Security, Minimize Downtime](https://www.datacenterknowledge.com/cloud/guide-cloud-resilience-maximize-security-minimize-downtime)
 
 [Cloud Computing information, news, and how-to advice | InfoWorld](http://www.infoworld.com/category/cloud-computing/)
 [Data Center information, news, and how-to advice | InfoWorld](http://www.infoworld.com/category/data-center/)
@@ -101,7 +102,8 @@ tags:
 [OneOps](https://github.com/oneops)
 
 [DevOps Toolbox - YouTube](https://www.youtube.com/@devopstoolbox)
-[Techno Tim - YouTube](https://www.youtube.com/c/TechnoTimLive)
+[Techno Tim - YouTube](https://www.youtube.com/@TechnoTim)
+[Anton Putra - YouTube](https://www.youtube.com/@AntonPutra)
 
 Reddit:
 [r/sysadmin](https://www.reddit.com/r/sysadmin/)
@@ -144,7 +146,7 @@ Map set of works to limited resources, simply put: where to execute the next nod
 Abstracts infrastructure provider
 Takes app and deploy to machine
 
-[Category:Cloud infrastructure - Wikiwand](http://www.wikiwand.com/en/Category:Cloud_infrastructure)
+[Category:Cloud infrastructure - Wikiwand](http://omni.wikiwand.com/en/Category:Cloud_infrastructure)
 [DevOps for University Students — DevOps for University Students 2014.02.19 documentation](http://lancealbertson.com/slides/devopsbootcamp-scale12x/)
 [Docker And Kubernetes: Furthering The Goals Of DevOps Automation](https://www.forbes.com/sites/forbestechcouncil/2018/10/10/docker-and-kubernetes-furthering-the-goals-of-devops-automation/amp/)
 
@@ -200,7 +202,7 @@ Takes app and deploy to machine
 Enable iDRAC in BIOS or front panel.
 I prefer to use DHCP and connect the iDRAC LAN port only when necessary.
 
-[Intelligent Platform Management Interface - Wikiwand](https://www.wikiwand.com/en/Intelligent_Platform_Management_Interface)
+[Intelligent Platform Management Interface - Wikiwand](https://omni.wikiwand.com/en/Intelligent_Platform_Management_Interface)
 [Supermicro IPMIview Remote Monitoring Management KVM-over-IP](http://www.servethehome.com/supermicro-ipmiview-review-remote-server-monitoring-management-ipmi-20-kvm-over-ip/)
 [Supermicro IPMI](https://www.boston.co.uk/technical/2016/03/supermicro-ipmi.aspx)
 [Dell iDRAC 8 Enterprise Overview: Excellent server management](https://www.servethehome.com/dell-idrac-8-enterprise-overview/)
@@ -244,6 +246,7 @@ Bundle multiple aspects of devops into a platform
 [Cockpit Project](http://cockpit-project.org/) administer your GNU/Linux servers via a web browser
 [How to Install Cockpit on Ubuntu 18.04 - Alibaba Cloud Community](https://www.alibabacloud.com/blog/how-to-install-cockpit-on-ubuntu-18-04_594039)
 [How I use Cockpit for my home's Linux server management | Opensource.com](https://opensource.com/article/20/11/cockpit-server-management)
+[How To Install and Use the Cockpit Linux Management Console | ITPro Today: IT News, How-Tos, Trends, Case Studies, Career Tips, More](https://www.itprotoday.com/linux/how-install-and-use-cockpit-linux-management-console)
 
 [Uptime Kuma](https://uptime.kuma.pet/)
 [louislam/uptime-kuma: A fancy self-hosted monitoring tool](https://github.com/louislam/uptime-kuma)
@@ -508,6 +511,8 @@ Nerve register the service to Zookeeper cluster, Synapse subscribe to the servic
 
 ## Health monitoring
 
+> TODO: merge with [[container-ecosystem#monitoring]]
+
 Strategy:
 Check every X minutes, recheck every Y minutes up to N times before generating an alert (Y < X).
 
@@ -521,6 +526,8 @@ Check every X minutes, recheck every Y minutes up to N times before generating a
 [Self-Healing Systems | Technology Conversations](http://technologyconversations.com/2016/01/26/self-healing-systems/)
 [Top 51 Log Management Tools for Monitoring, Analytics and more](https://stackify.com/best-log-management-tools/)
 [Metrics For Your Web Application's Dashboards](https://sirupsen.com/metrics)
+
+[How to monitor ...? - YouTube](https://www.youtube.com/playlist?list=PLiMWaCMwGJXmvZU4E1TNYddF2P5OZ5Dx2)
 
 [highlight.io: The open source monitoring platform.](https://www.highlight.io/) tRPC friendly
 
@@ -588,6 +595,8 @@ OpenCensus, OpenTracing, and OpenTelemetry
 [OpenTelemetry | Effective observability requires high-quality telemetry](https://opentelemetry.io/) OpenTelemetry is the next major version of the OpenTracing and OpenCensus projects
 [Observability Primer | OpenTelemetry](https://opentelemetry.io/docs/concepts/observability-primer/)
 [OpenTelemetry .NET reaches v1.0 | .NET Blog](https://devblogs.microsoft.com/dotnet/opentelemetry-net-reaches-v1-0/)
+
+[OpenTelemetry Gin Monitoring [otelgin]](https://uptrace.dev/get/instrument/opentelemetry-gin.html)
 
 [The OpenTracing project](https://opentracing.io/)
 [OpenTracing Overview](https://opentracing.io/docs/overview/)
@@ -678,6 +687,7 @@ Grafana is a modern implementation of Graphite.
 [Prometheus](https://github.com/prometheus)
 [Rancher Labs | Docker Monitoring Continued: Prometheus and Sysdig | Rancher Labs](http://rancher.com/docker-monitoring-continued-prometheus-and-sysdig/)
 [Prometheus: The Documentary - YouTube](https://www.youtube.com/watch?v=rT4fJNbfe14)
+[Prometheus (Thanos) Tutorials - YouTube](https://www.youtube.com/playlist?list=PLiMWaCMwGJXk_mMqMJ_1f7feroMNLFlS8)
 
 [PromCat: Resource Catalog, Enterprise Prometheus Monitoring](https://sysdig.com/blog/promcat-prometheus-catalog/)
 

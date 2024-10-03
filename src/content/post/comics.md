@@ -2,7 +2,7 @@
 title: Comics
 description: ""
 created: 2015-04-24
-updated: 2023-11-20
+updated: 2024-09-23
 tags:
   - comics
 ---
@@ -25,6 +25,7 @@ More focus on the mental beings of the heroes and villains.
 [NerdSync - YouTube](https://www.youtube.com/@NerdSyncProductions)
 [Comicstorian - YouTube](https://www.youtube.com/@comicstorian)
 [MerryMarvelite - YouTube](https://www.youtube.com/@MerryMarvelite)
+[Trick Theory - YouTube](https://www.youtube.com/@tricktheorists)
 [努力的 Lorre 油管频道 - YouTube](https://www.youtube.com/@lorre1349)
 [美漫懶人包(US comics easy pack) - YouTube](https://www.youtube.com/playlist?list=PLSYYuRn7FAnX5FQjaTH51siG6bPP7JslH) 帥狗 HandsomeDoge
 
@@ -41,7 +42,7 @@ More focus on the mental beings of the heroes and villains.
 
 # Marvel
 
-[Multiverse (Marvel Comics) - Wikiwand](<https://www.wikiwand.com/en/Multiverse_(Marvel_Comics)>)
+[Multiverse (Marvel Comics) - Wikiwand](<https://omni.wikiwand.com/en/Multiverse_(Marvel_Comics)>)
 616: Main Comic Universe
 1616: Ultimate Universe (MCU based on this)
 
@@ -51,7 +52,7 @@ More focus on the mental beings of the heroes and villains.
 [MarvelDirectory.com](http://www.marveldirectory.com/index.htm)
 [Marvel Animated Universe Wiki | FANDOM powered by Wikia](https://marvelanimated.fandom.com/wiki/Marvel_Animated_Universe_Wiki)
 
-[Marvel Entertainment - YouTube](https://www.youtube.com/c/marvel)
+[Marvel Entertainment - YouTube](https://www.youtube.com/@marvel)
 [Marvel 101 - YouTube](https://www.youtube.com/playlist?list=PLK5HARgNfgj-PrPFWJ18sMP1ikSvKP8IW)
 [Marvel 101 - YouTube](https://www.youtube.com/playlist?list=PLK5HARgNfgj9PzWN_8236ehpoGcrjdBgL)
 [Marvel 101 - Monsters Unleashed - YouTube](https://www.youtube.com/playlist?list=PLK5HARgNfgj_Fj49LrFvpxPDK42UpkYhT)
@@ -75,7 +76,7 @@ More focus on the mental beings of the heroes and villains.
 # DC Comics
 
 [Characters | DC Comics](http://www.dccomics.com/characters)
-[Multiverse (DC Comics) - Wikiwand](<https://www.wikiwand.com/en/Multiverse_(DC_Comics)>)
+[Multiverse (DC Comics) - Wikiwand](<https://omni.wikiwand.com/en/Multiverse_(DC_Comics)>)
 
 DC adopts the parallel universe concept, first in Flash, in order to crossover heroes of different origins.
 

@@ -2,15 +2,17 @@
 title: Network File Systems
 description: ""
 created: 2015-05-20
-updated: 2023-09-29
+updated: 2024-10-01
 tags:
   - file-system
   - linux
   - storage
 ---
 
-[Network File System - Wikiwand](https://www.wikiwand.com/en/Network_File_System)
-[Server Message Block - Wikiwand](https://www.wikiwand.com/en/Server_Message_Block)
+[Key Considerations for Planning a PC Storage Refresh](https://www.itprotoday.com/high-speed-storage/how-i-planned-my-storage-hardware-refresh)
+
+[Network File System - Wikiwand](https://omni.wikiwand.com/en/Network_File_System)
+[Server Message Block - Wikiwand](https://omni.wikiwand.com/en/Server_Message_Block)
 [Chapter 8. Network File System (NFS)](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/Storage_Administration_Guide/ch-nfs.html)
 
 [Network share: Performance differences between NFS & SMB](https://ferhatakgun.com/network-share-performance-differences-between-nfs-smb/)
@@ -44,6 +46,13 @@ SMB2 > AFP ~ CIFS
 [Unraid vs TrueNAS - Home Lab Comparison in 2023 - Virtualization Howto](https://www.virtualizationhowto.com/2023/05/unraid-vs-truenas-home-lab-comparison-in-2023/)
 
 [What did you DO?? - The "Jellyfish Fryer" All-SSD Server - YouTube](https://www.youtube.com/watch?v=zeAce9pofvk)
+
+## fnOS
+
+[飞牛私有云 fnOS](https://www.fnnas.com/)
+[全新NAS系统：飞牛fnOS沉浸式体验、相册、影视体验好像有点意思？！全兼容X86平台不挑硬件、黑群外的好选择 - YouTube](https://www.youtube.com/watch?v=dR7BuiJ8IqY)
+[飞牛NAS系统「fnOS」公测版 深度体验 - YouTube](https://www.youtube.com/watch?v=CfsWagvk3mc)
+2
 
 ## Samba/CIFS/Windows Share Folder
 

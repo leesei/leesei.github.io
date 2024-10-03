@@ -2,7 +2,7 @@
 title: GitOps
 description: ""
 created: 2018-07-03
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - dev/deploy
   - devops

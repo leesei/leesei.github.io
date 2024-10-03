@@ -2,7 +2,7 @@
 title: Displays
 description: ""
 created: 2015-04-02
-updated: 2023-11-17
+updated: 2024-08-27
 tags:
   - comp/hardware
   - lcd
@@ -28,6 +28,8 @@ The term "TFT" only indicates that each pixel is controlled by an independent tr
 [Display Calibration 101: Step-By-Step With Datacolor's Spyder4Elite | Tom's Hardware](https://www.tomshardware.com/reviews/spyder4-monitor-calibration-image-quality,3581.html)
 [Imaging Science And Monitor Calibration | Tom's Hardware](https://www.tomshardware.com/reviews/calibrate-your-monitor-theory,3615.html)
 [Display Testing Explained: How We Test PC Monitors | Tom's Hardware](https://www.tomshardware.com/reference/how-we-test-pc-monitors-benchmarking)
+
+[7 Things to Consider Before Using Your TV as a Monitor](https://www.makeuseof.com/things-to-consider-tv-as-monitor/)
 
 [好屏如潮 - YouTube](https://www.youtube.com/@diallodiafi)
 
@@ -57,66 +59,19 @@ Philips 279C9, 4K, USB-C
 BenQ PD2700U
 Gigabyte G27Q 1440p 144Hz, G-Sync $2899
 
-### 2023 buy
+## 2023 buy
 
 [電視選購資訊(2023電視比較,推介及消委會評測) - 專題 - 香港格價網 Price.com.hk](https://www.price.com.hk/news.php?id=11723&sec_id=11)
 
 [真机实测！从 2000 到 3 万块的显示器，谁更值得买？ | 13 款 Mini LED 显示器消费者报告 - YouTube](https://www.youtube.com/watch?v=j0PlFOgcLLw)
 [【2023年4月】显示器保姆级推荐清单！该怎么买？买那款！你想看的都在这边了！小白避坑专辑，建议收藏！ - YouTube](https://www.youtube.com/watch?v=lgNE796xC8M)
 
-[ROG 電競螢幕 OLED PG42UQ 開箱評測 優缺點｜ Swift PG48UQ、ASUS 顯示器、華碩電競、LG C2、OLED 電視、4K 電視、電腦螢幕、OLED 缺點、PTT 推薦｜科技狗 - YouTube](https://www.youtube.com/watch?v=TmJ2QUlObAw)
+[ROG 電競螢幕 OLED PG42UQ 開箱評測 優缺點｜ Swift PG48UQ、ASUS 顯示器、華碩電競、LG C2、OLED 電視、4K 電視、電腦螢幕、OLED 缺點、PTT 推薦｜科技狗 - YouTube](https://www.youtube.com/watch?v=TmJ2QUlObAw) 48"
 
-[飛利浦電視 OLED707 開箱評測 優缺點心得｜ Android TV、OLED 電視、Philips 電視、LG C2、OLED 螢幕、OLED.EX、PC 螢幕、電視機、螢幕推薦｜科技狗 - YouTube](https://www.youtube.com/watch?v=CG55HvwwONs)
+[飛利浦電視 OLED707 開箱評測 優缺點心得｜ Android TV、OLED 電視、Philips 電視、LG C2、OLED 螢幕、OLED.EX、PC 螢幕、電視機、螢幕推薦｜科技狗 - YouTube](https://www.youtube.com/watch?v=CG55HvwwONs) 48"-65"
 OLED806 <-> LG G1
 OLED707 <-> LG C2
 OLED706 <-> LG C1
-
-### LG Panel
-
-[What Is Nano IPS? [Simple Guide] - DisplayNinja](https://www.displayninja.com/what-is-nano-ips/)
-LG nano-IPS panel, weak dark leading to low contrast (~700 rather than 1000:1 expected of an IPS)
-
-LG 27GL850 2019, 1440p 144Hz 350nit HDR10, nano-IPS, G-Sync Compatible $3480
-[lg-27GL850-B](https://www.lg.com/my/monitors/lg-27GL850-B)
-LG 27GL830 2019, 1440p 144Hz 350nit HDR10, nano-IPS, G-Sync Compatible $2980
-LG 27GP850 2021, 1440p 165Hz 400nit HDR400, nano-IPS, G-Sync Compatible $3590 <<<
-[lg-27gp850-B](https://www.lg.com/my/monitors/lg-27gp850-b)
-[LG UltraGear 27GP850-B/EP 27 吋 Nano IPS QHD 180Hz 遊戲顯示器 - 2000Fun 商城 香港人既遊戲店](https://www.openshop.com.hk/product_15611.html)
-[【好牛讲堂】LG 27GL830 与 27GL850 开箱对比分享 到底应该选择哪款 NanoIPS 电竞显示器\_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/s/video/BV1iQ4y1P7SG)
-[【小雪人评测】全球首款 1ms 灰阶响应 nanoIPS 面板！LG 27GL850 电竞显示器评测-G-sync Compatible 认证 - YouTube](https://www.youtube.com/watch?v=ZrfNlH9kFdg)
-[LG 27GP850 Review: Faster, Clearer, Better | TechSpot](https://www.techspot.com/review/2251-lg-27gp850/)
-
-[LG 27 吋 UltraGear 遊戲顯示器 27GL830 價錢、規格及用家意見 - 香港格價網 Price.com.hk](https://www.price.com.hk/product.php?p=458732) $2980
-[LG 27" UltraGear QHD Nano IPS 1ms 遊戲顯示器 27GP850-B 價錢、規格及用家意見 - 香港格價網 Price.com.hk](https://www.price.com.hk/product.php?p=497907) $3570
-[LG UltraGear 27GP850-B/EP 27 吋 Nano IPS QHD 180Hz 遊戲顯示器 - 2000Fun 商城 香港人既遊戲店](https://www.openshop.com.hk/product_15611.html) $3590
-[GIGABYTE 27" Flat Gaming LCD Monitor G27F 價錢、規格及用家意見 - 香港格價網 Price.com.hk](https://www.price.com.hk/product.php?p=464916) w/speaker $1950
-[GIGABYTE G27F Gaming Monitor Review - Feature Packed! - YouTube](https://www.youtube.com/watch?v=uvtK2j2Jynk)
-
-ViewSonic XG270QG, 1440p 144Hz, G-Sync $5499
-AOC AG273QXP, 1440p 170Hz, G-Sync Compatible $3880
-Philips 275M1RZ, 1440p 170Hz, G-Sync Compatible $4080
-
-LG 27GN800 2020, 1440p 144Hz HDR10, G-Sync Compatible $2590
-LG 32GN600 2020, 1440p 144Hz HDR10, G-Sync Compatible $2880
-
-LG 27GN950 4K 144Hz, G-Sync $7000
-[LG 27GL850 Review, Is This The Ultimate 1440p 144Hz Gaming Monitor? - YouTube](https://www.youtube.com/watch?v=T5Loh7vOcVM) G-Sync USD$500
-[ViewSonic Elite XG270QG Review, Buy This or LG 27GL850 for 1440p Gaming? - YouTube](https://www.youtube.com/watch?v=ejx1hGUorG0) G-Sync USD$600
-[Gigabyte FI27Q-P Review, High-End 1440p 165Hz IPS for Gaming - YouTube](https://www.youtube.com/watch?v=GytoH0mS62A) G-Sync USD$600
-
-### Samsung Panel
-
-Neo QLED: Quantum Dot LED-backlit LCD, QuantumMatrix Technology, Mini LED
-Mini LED can reach 1000nit
-
-[QLED vs OLED - Which Is Best? [Simple Guide] - DisplayNinja](https://www.displayninja.com/qled-vs-oled/)
-[I REALLY Wanted to Try This... - YouTube](https://www.youtube.com/watch?v=jM-ED97_vKo) Mini LED
-
-[The Future of TVs is NOT What You Think! - YouTube](https://www.youtube.com/watch?v=RTTiQeXXrhI)
-[This Boiling Liquid goes in your MONITOR - Facility Tour! - YouTube](https://www.youtube.com/watch?v=ZFXit3K7rkI)
-[Samsung just made everything else OBSOLETE - YouTube](https://www.youtube.com/watch?v=Piteu5gyKq0) QD (Quantum dots) OLED
-[This isn't Sponsored. - QD-OLED Monitors Rule! - YouTube](https://www.youtube.com/watch?v=65SvTs_b3RE)
-Use blue OLED as backlight and ink jet printed quantum dots to convert to red and green with high efficiency
 
 ## Interface
 
@@ -172,17 +127,19 @@ KSF with better color gamut has been used in 2022 and phasing out WLED.
 
 ## Panel
 
-Backlight:
+Single Backlight Source (always on):
 
 - LED
-- Mini LED
+- Mini LED (many small LEDs as light source, local dimming)
+- QDLED/QDOLED
 
-Backlight (per pixel):
+Individual Backlight/No Backlight (per pixel light source):
 
-- OLED/WOLED
+- OLED/WOLED (LG)
 - Micro LED
 
-QDLED/QDOLED (quantum dot), makes white from blue light, then used RGB filter, enhances color of LED
+VRR on Individual Backlight is tricky as reducing frame rate will result in dimming of screen.
+TV's panel use the actual frame rate to adjust brightness per frame.
 
 Polarizing layer:
 
@@ -190,6 +147,10 @@ Polarizing layer:
 - VA (Vertical Alignment)
 - PLS (Plane to Line Switching)
 - IPS (In-Plane Switching)
+- Quantum Dots
+
+tl;dr: IPS ~ PLS ~ VA > TN
+P-IPS > H-IPS > S-IPS > AH-IPS > E-IPS
 
 [Panel Technologies - TN Film, MVA, PVA, IPS, PLS](http://www.tftcentral.co.uk/articles/panel_technologies.htm) ❗!important
 [What is an IPS Monitor? A Practical Guide to Understanding Display Technology](http://www.slrlounge.com/what-is-an-ips-monitor-understanding-ips-displays/)
@@ -198,10 +159,10 @@ Polarizing layer:
 [Display Panel Type Differences Defined - TN vs. IPS, PLS, VA, & More | Gamers Nexus - Gaming PC Builds & Hardware Benchmarks](http://www.gamersnexus.net/guides/1890-panel-comparison-tn-ips-pls-va-crt)
 [What is VA (Vertical Alignment) Technology? - YouTube](https://www.youtube.com/watch?v=X863ajSVAbs)
 [PLS vs IPS - Which Panel Type Should I Choose? [Simple Guide]](https://www.displayninja.com/pls-vs-ips/)
+[The billion dollar race for the perfect display - YouTube](https://www.youtube.com/watch?v=TyUA1OmXMXA) the converging evolution of LCD and OLED, Micro LED is the holy grail but not yet available in 2024
 
 [LCD and TFT Monitor Reviews - TFTCentral](http://www.tftcentral.co.uk/reviews.htm)
 [LCD, LED, Plasma, OLED TVs as Fast As Possible - YouTube](https://www.youtube.com/watch?v=w8ykjdA9g9w)
-[Making OLED Displays - YouTube](https://www.youtube.com/watch?v=qg8pMUd-tSk)
 
 硬件茶谈
 [【硬件科普】全网最简洁易懂的 OLED 与 LCD 屏幕工作原理与优劣科普 - YouTube](https://www.youtube.com/watch?v=gZriQjtABCk)
@@ -210,49 +171,94 @@ Polarizing layer:
 [【硬件科普】一个视频带你了解 LCD OLED QLED mini-LED 等显示技术的区别 - YouTube](https://www.youtube.com/watch?v=wHdSGmqLne0)
 
 先看评测
-[屏幕居然能打印了？探秘低调的中国顶级面板工厂 - YouTube](https://www.youtube.com/watch?v=c-O8EqH190c) prints OLED panel to reduce cost, also makes mini LED
-[中国的 OLED 屏幕，做到什么地步了？ - YouTube](https://www.youtube.com/watch?v=6QpePfw3Ip0) LTPO, coating instead of polarizer, under screen camera
 [花 76 亿改了一个字？探秘苏州顶级面板工厂 - YouTube](https://www.youtube.com/watch?v=bPE2IPO2MIQ) TCL bought Samsung's factory
 [2021 年小米电视的性价比回来了吗？小米电视 6、小米 ES2022 评测 - YouTube](https://youtu.be/Oe7mdISHjy8?t=779) demos 分區背光
 
 [They Discontinued This Before I Could Buy One! - YouTube](https://www.youtube.com/watch?v=qSGsMN9UGDY) Hisense's 2 panels display, high latency
 
-Each pixel in OLED is controlled independently and hence can be completely turned off, saving battery and increasing contrast
-However the blue LED will deteriorate over time faster then the other LEDs
-And OLED's brightness is limited if the whole screen is bright
-LG's WRGB LED used white LED and filter to achieve RGB colors in a pixel, and a white LED to compensate the brightness decrease caused by the filter
-Vendors will limit the brightness to make OLED last longer
-[Why THIS New TV Matters! (Mini LED Explained) - YouTube](https://www.youtube.com/watch?v=2JQltMaFpOU)
-Each pixel has its own mini LED as backlight, producing a panel like OLED that archives higher contrast
-Halo effect for small object since blocks of mini LED are turned on together
-[Mini LED 决战 OLED ？华为 2880 分区电视 V75 Super 评测 - YouTube](https://www.youtube.com/watch?v=tbYm0s47CwY)
-[未来显示技术 MicroLED 详解「SIGNOW」 - YouTube](https://www.youtube.com/watch?v=Qxz9kXRPt0Y)
-[王思聪的新电视 110 寸 110 万 详解 MicroLED 技术 买电视我就送特斯拉 Model 3 - YouTube](https://www.youtube.com/watch?v=wfipflFJR-4)
-Mini LED in principal is LCD with thousands of regions (~3000 in 2021)
-Mini LED have worse viewing angle
-Both Mini LED and OLED are transitional technologies
-[MicroLEDs: Lighting The Way To A Solid OLED Competitor | Hackaday](https://hackaday.com/2021/04/12/microleds-lighting-the-way-to-a-solid-oled-competitor/)
-[MicroLED - Will It Replace OLED? - YouTube](https://www.youtube.com/watch?v=_BkXWi9gKKM) OLED pixels (with its carbon based structure) will deteriorate over time, MicroLED uses the same principle (one LED for each color) and eliminates the drawbacks of LCD and OLED; this is when Mini LED solutions reduces the region size to 1 LED
-There is limits on how small a MicroLED could be made (in 2022), so MicroLED is only seen on huge screens
-
-[三星、苹果路线之争？最新 QD-OLED 显示器评测及技术分析 - YouTube](https://www.youtube.com/watch?v=AhKf0jEGYBI)
-[【产品评测】QD-OLED 到底好在哪？三星 G85QB 显示器评测 - YouTube](https://www.youtube.com/watch?v=BuHPHkfJpo8)
-
 [Why is EVERYONE Buying this TV?? - YouTube](https://www.youtube.com/watch?v=5yuqcfp1xxI) 65"-75" is the mainstream in 2020
 [拿 4K 电视做电脑显示器用！显示器和电视到底有什么区别？！ - YouTube](https://www.youtube.com/watch?v=T-GjdJus-CI)
 [【Joeman】螢幕面板科普！LCD、OLED、Mini LED 優缺點分析！ - YouTube](https://www.youtube.com/watch?v=XFia3csKyWg)
 
+### OLED
+
+[Making OLED Displays - YouTube](https://www.youtube.com/watch?v=qg8pMUd-tSk)
+[物体为什么会发光？LCD与OLED的区别 - YouTube](https://www.youtube.com/watch?v=9eOGgAKXm4Y)
+
+先看评测
+[屏幕居然能打印了？探秘低调的中国顶级面板工厂 - YouTube](https://www.youtube.com/watch?v=c-O8EqH190c) prints OLED panel to reduce cost, also makes mini LED
+[中国的 OLED 屏幕，做到什么地步了？ - YouTube](https://www.youtube.com/watch?v=6QpePfw3Ip0) LTPO, coating instead of polarizer, under screen camera
+
+[中国OLED到底做到什么程度了？能不能打赢三星？谈谈中国面板行业的现状 - YouTube](https://www.youtube.com/watch?v=V7iHkFMn7LI)
+
+Each pixel in OLED is controlled independently and hence can be completely turned off, saving battery and increasing contrast
+However the blue LED will deteriorate over time faster then the other LEDs
+And OLED's brightness is limited if the whole screen is bright in order not to damage the OLED itself
+LG's WRGB LED used white LED and filter to achieve RGB colors in a pixel, and a white LED to compensate the brightness decrease caused by the filter
+Vendors will limit the brightness to make OLED last longer
+
+### LG Nano IPS
+
+[What Is Nano IPS? [Simple Guide] - DisplayNinja](https://www.displayninja.com/what-is-nano-ips/)
+LG nano-IPS panel, weak dark leading to low contrast (~700 rather than 1000:1 expected of an IPS)
+OLED evo (introduced in 2022) increased brightness and contrast of OLED panel
+
+### QDLED/QLED/QOLED
+
+Samsung takes the lead, but Chinese companies are also producing QLED displays
+
+[QLED vs OLED - Which Is Best? [Simple Guide] - DisplayNinja](https://www.displayninja.com/qled-vs-oled/)
+[QLED vs. OLED vs. LED: Which Should You Buy?](https://www.makeuseof.com/qled-vs-led-vs-oled-what-is-the-difference/)
+[The 4 Reasons I Always Buy a QLED TV (and You Should Too)](https://www.makeuseof.com/reasons-always-buy-qled-tv/) QLED is brighter than OLED
+[QLED 螢幕顏色真的比較漂亮？可以做為量子電腦材料的量子點，為什麼能自由調控物理特性？｜量子熊 ✕ 泛科學 EP7 - YouTube](https://www.youtube.com/watch?v=IqAgG6JSeaw)
+[The Future of TVs is NOT What You Think! - YouTube](https://www.youtube.com/watch?v=RTTiQeXXrhI) 2020-05, vs MicroOLED
+[This Goo is the Future of Gaming Monitors - Nanosys Tour - YouTube](https://www.youtube.com/watch?v=ZFXit3K7rkI) 2021-12, QDOLED pre-production
+
+QDLED/QDOLED (quantum dot) uses quantum dots film to replace filter
+The blue LED/OLED is used as backlight and the colors are produced by excited quantum dots
+The quantum dots are printed with mature inkjet printers to the PCB, this solved the Mass Transfer problem faced by Micro LED
+This enhances brightness of the LED by not blocking as much light
+QD film also has the advantage of emitting light in a narrow band, which is good for color accuracy
+OLEDs are also more energy-efficient than QLEDs
+
+QD-OLED
+[Samsung just made everything else OBSOLETE - YouTube](https://www.youtube.com/watch?v=Piteu5gyKq0) 2022-01, QD-OLED
+[This isn't Sponsored. - Alienware AW3423DW QD OLED - YouTube](https://www.youtube.com/watch?v=65SvTs_b3RE) 2022-03
+[三星、苹果路线之争？最新 QD-OLED 显示器评测及技术分析 - YouTube](https://www.youtube.com/watch?v=AhKf0jEGYBI) 2022-05
+[【产品评测】QD-OLED 到底好在哪？三星 G85QB 显示器评测 - YouTube](https://www.youtube.com/watch?v=BuHPHkfJpo8) 2023-01
+[I Hate That This is Sponsored – Samsung QD-OLED Gen 3 - YouTube](https://www.youtube.com/watch?v=00D_hw9w9Ms) 2024-01
+
+### Mini LED
+
+[Why THIS New TV Matters! (Mini LED Explained) - YouTube](https://www.youtube.com/watch?v=2JQltMaFpOU)
+Each pixel has its own mini LED as backlight, producing a panel like OLED that archives higher contrast
+Halo effect for small object since blocks of mini LED are turned on together
+[Mini LED 决战 OLED ？华为 2880 分区电视 V75 Super 评测 - YouTube](https://www.youtube.com/watch?v=tbYm0s47CwY)
+[I REALLY Wanted to Try This... - YouTube](https://www.youtube.com/watch?v=jM-ED97_vKo) Quantum dot + Mini LED, can reach 1000nit
+
+### MicroLED
+
+[MicroLEDs: Lighting The Way To A Solid OLED Competitor | Hackaday](https://hackaday.com/2021/04/12/microleds-lighting-the-way-to-a-solid-oled-competitor/)
 [揭開「新視界」序幕：Micro LED 廠商如何跨越成本、良率瓶頸？ | TechNews 科技新報](https://technews.tw/2022/08/17/what-is-micro-led/)
 [顯示技術的終極戰場，Micro LED 全領域展開 | TechNews 科技新報](https://technews.tw/2022/08/17/micro-led-applications-emerge/)
 
-Samsung's QD LED
+[When Can I BUY a MicroLED TV? - YouTube](https://www.youtube.com/watch?v=ZvO0BotGcqE)
+[王思聪的新电视 110 寸 110 万 详解 MicroLED 技术 买电视我就送特斯拉 Model 3 - YouTube](https://www.youtube.com/watch?v=wfipflFJR-4)
+Mini LED in principal is LCD with thousands of regions (~3000 in 2021)
+Mini LED have worse viewing angle
+[Micro OLED「先天硬傷」難贏 Micro LED？AR 顯示技術優劣一次看 | TechNews 科技新報](https://technews.tw/2023/08/14/apple-vision-pro-micro-led-micro-oled-lcos-lbs/)
+Both Mini LED and OLED are transitional technologies
+[未来显示技术 MicroLED 详解「SIGNOW」 - YouTube](https://www.youtube.com/watch?v=Qxz9kXRPt0Y)
+[MicroLED - Will It Replace OLED? - YouTube](https://www.youtube.com/watch?v=_BkXWi9gKKM) OLED pixels (with its carbon based structure) will deteriorate over time, MicroLED uses the same principle (one LED for each color) and eliminates the drawbacks of LCD and OLED; this is when Mini LED solutions reduces the region size to 1 LED
+There is limits on how small a MicroLED could be made (in 2022), so MicroLED is only seen on huge screens
 
-tl;dr: IPS ~ PLS ~ VA > TN
-P-IPS > H-IPS > S-IPS > AH-IPS > E-IPS
+[MicroLED为什么遥遥无期？“巨量转移”技术为何难量产？一条视频给你详细讲清楚 - YouTube](https://www.youtube.com/watch?v=1_jDwReh2TM) Mass Transfer is the bottleneck for MicroLED
 
 ## Laser Projector
 
 [第四代显示技术 ：激光 - YouTube](https://www.youtube.com/watch?v=NypHSpEqLTM)
+[万元光机拆给你看！极米 RS 10 Ultra 投影仪评测 - YouTube](https://www.youtube.com/watch?v=jfMir_ZTUvA)
+[给投影做 CT，揭秘电动变焦到底有多强？Vidda C2 全家桶评测 - YouTube](https://www.youtube.com/watch?v=jj-zsNko__Y)
 
 ## DCI vs RGB
 
@@ -267,6 +273,7 @@ P-IPS > H-IPS > S-IPS > AH-IPS > E-IPS
 [HDR or High Dynamic Range as Fast As Possible - YouTube](https://www.youtube.com/watch?v=wthhc1s0Pig)
 [HDR Standards Explained - HDR10, Dolby Vision, HLG - YouTube](https://www.youtube.com/watch?v=tzm2XjcyKDQ)
 [The Cheapest HDR Monitor vs the BEST - YouTube](https://www.youtube.com/watch?v=0srgPxK-WhQ)
+[What Is HDR10+? Everything to Know About the HDR Format](https://www.makeuseof.com/what-is-hdr10-plus/)
 HDR600, HDR1000 certification is useful
 Local dimming prevents clipping in bright areas
 DP1.2 does not support HDR, DP1.4 does
@@ -338,7 +345,7 @@ LTPO: oxide layer on LTPS (backplane for circuitry), reduce refresh frequency to
 
 ## E Ink
 
-[E Ink - Wikiwand](http://www.wikiwand.com/en/E_Ink)
+[E Ink - Wikiwand](http://omni.wikiwand.com/en/E_Ink)
 
 [Display Week 2018: A look at the future of E Ink displays - Android Authority](https://www.androidauthority.com/e-ink-display-future-display-week-2018-868794/)
 [E Ink breakthrough brings full color displays that can stay on indefinitely - Android Authority](https://www.androidauthority.com/e-ink-breakthrough-brings-full-color-displays-can-stay-indefinitely-694969/)

@@ -2,12 +2,15 @@
 title: Cinnamon notes
 description: ""
 created: 2015-05-04
-updated: 2023-09-29
+updated: 2024-09-28
 tags:
   - cinnamon
   - desktop
   - linux
 ---
+
+> I've been using Cinnamon as my desktop environment for 7+ years.
+> But Cinnamon 6 has been a bit buggy, so I'm switching to Gnome in Fall 2024 (also to enjoy its vast extensions).
 
 Applets, extensions are installed at `~/.local/share/cinnamon/`.
 User configs are at `~/.cinnamon/`.
@@ -29,10 +32,15 @@ Write a `.nemo_action` file in
 
 - `/usr/share/nemo/actions/`
 - `~/.local/share/nemo/actions/`
-  [Nemo Actions - ArchWiki](https://wiki.archlinux.org/title/Nemo#Nemo_Actions)
-  [nemo/files/usr/share/nemo/actions at master · linuxmint/nemo](https://github.com/linuxmint/nemo/tree/master/files/usr/share/nemo/actions)
-  [[Solved: Github nemo patch available]:nemo actions: problem with single quotes in filenames? - Linux Mint Forums](https://forums.linuxmint.com/viewtopic.php?t=248214)
-  [smurphos/nemo_actions_and_cinnamon_scripts: A collection of custom context menu items for the Nemo file manager, along with some miscellaneous feature scripts intended for the Cinnamon desktop environment.](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts)
+
+[Nemo Actions - ArchWiki](https://wiki.archlinux.org/title/Nemo#Nemo_Actions)
+[nemo/files/usr/share/nemo/actions at master · linuxmint/nemo](https://github.com/linuxmint/nemo/tree/master/files/usr/share/nemo/actions)
+[[Solved: Github nemo patch available]:nemo actions: problem with single quotes in filenames? - Linux Mint Forums](https://forums.linuxmint.com/viewtopic.php?t=248214)
+[smurphos/nemo_actions_and_cinnamon_scripts: A collection of custom context menu items for the Nemo file manager, along with some miscellaneous feature scripts intended for the Cinnamon desktop environment.](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts)
+
+[14.04 - Missing nemo right-click "extract/compress files" - Ask Ubuntu](https://askubuntu.com/questions/532714/missing-nemo-right-click-extract-compress-files)
+
+[AUR (en) - nemo-meld-compare](https://aur.archlinux.org/packages/nemo-meld-compare)
 
 ## Nemo Scripts
 

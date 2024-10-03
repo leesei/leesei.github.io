@@ -2,14 +2,14 @@
 title: Kotlin
 description: ""
 created: 2019-04-04
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - comp/lang
   - kotlin
 ---
 
 [Kotlin Programming Language](https://kotlinlang.org/)
-[Kotlin (programming language) - Wikiwand](<https://www.wikiwand.com/en/Kotlin_(programming_language)>)
+[Kotlin (programming language) - Wikiwand](<https://omni.wikiwand.com/en/Kotlin_(programming_language)>)
 Statically typed programming language for the JVM, Android, the browser and native
 
 [Kotlin Clean Architecture – ProAndroidDev](https://proandroiddev.com/kotlin-clean-architecture-1ad42fcd97fa)

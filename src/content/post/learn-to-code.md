@@ -2,7 +2,7 @@
 title: Learn to code
 description: Learn how to code
 created: 2014-12-08
-updated: 2023-12-02
+updated: 2024-09-23
 tags:
   - comp/lang
   - learning
@@ -26,6 +26,9 @@ tags:
 - It's preferable to learn a breath of languages, rather than depth in only one language.
 - Tutorials aren't for learning, they demonstrates how something is done.
 - Becoming a software engineer is NOT a "get-rich-quick" scheme. It's a "get-upper-middle-class-slow" scheme.
+
+[What Your Text Editor Says About You - YouTube](https://www.youtube.com/watch?v=sbdFwFDTDqU) SO TRUE, I'm the Jedi coder that tried all the setting and not just try to get shits done
+[What Does Your Editor Say About You | Prime Reacts - YouTube](https://www.youtube.com/watch?v=LJxF-i0kvPM)
 
 [Code Cartoons](https://code-cartoons.com/)
 [Home - The Renegade Coder](https://therenegadecoder.com/)
@@ -90,6 +93,8 @@ Coding vs Programming is like typing vs writing.
 [GeeksforGeeks | A computer science portal for geeks](https://www.geeksforgeeks.org/)
 [Home • DEVCLASS](https://devclass.com/)
 [Web Development & Programming Tutorials | Packt Hub](https://hub.packtpub.com/category/tutorials/)
+
+[kdeldycke/awesome-falsehood: 😱 Falsehoods Programmers Believe in](https://github.com/kdeldycke/awesome-falsehood)
 
 [5 Commonly Used Idioms in the Tech Industry | by Karina Chow | Jul, 2021 | Level Up Coding](https://levelup.gitconnected.com/demystifying-5-commonly-used-idioms-in-the-tech-industry-827e8a6d653a)
 
@@ -160,7 +165,7 @@ No framework or library is a silver bullet. But the right choice can save you a 
 
 ### Literate Programming
 
-[Literate programming - Wikiwand](https://www.wikiwand.com/en/Literate_programming)
+[Literate programming - Wikiwand](https://omni.wikiwand.com/en/Literate_programming)
 [Literate Programming](http://www.literateprogramming.com/)
 [Why Literate Programming Might Help You Write Better Code – The New Stack](https://thenewstack.io/why-literate-programming-might-help-you-write-better-code/)
 
@@ -185,7 +190,7 @@ You have to know (much) more than the code you're writing:
 [Deciphering Glyph :: Faster](https://blog.glyph.im/2020/11/faster.html) discussion with user is crucial
 “If I had asked people what they wanted, they would have said faster horses.”
 
-[Ninety-ninety rule - Wikiwand](https://www.wikiwand.com/en/Ninety-ninety_rule)
+[Ninety-ninety rule - Wikiwand](https://omni.wikiwand.com/en/Ninety-ninety_rule)
 
 [A Great JavaScript Side Project is your Most Important Asset](http://thefullstack.xyz/javascript-side-project/)
 
@@ -218,6 +223,8 @@ Halstead Metrics -> Maintainability Index
 [Creating a better flamegraph visualization](https://pythonspeed.com/articles/a-better-flamegraph/)
 [speedscope - Interactive Flamegraph Explorer](http://jamie-wong.com/post/speedscope/)
 
+[koute/not-perf: A sampling CPU profiler for Linux](https://github.com/koute/not-perf)
+
 [Linux perf Examples](http://www.brendangregg.com/perf.html)
 [Yet another reason your docker containers may be slow on EC2: clock_gettime, gettimeofday and…](https://medium.com/appian-engineering/yet-another-reason-your-docker-containers-may-be-slow-on-ec2-clock-gettime-gettimeofday-and-9d92f6892048)
 [Standard library header <chrono> - cppreference.com](https://en.cppreference.com/w/cpp/header/chrono)
@@ -227,11 +234,18 @@ Halstead Metrics -> Maintainability Index
 Stabilizer: randomizes layouts
 Causal Profiler (`coz`)
 
+## Pyroscope
+
+> Profiler that support multiple languages
+
+[Grafana Pyroscope OSS | Open source continuous profiling database](https://grafana.com/oss/pyroscope/)
+[grafana/pyroscope: Continuous Profiling Platform. Debug performance issues down to a single line of code](https://github.com/grafana/pyroscope)
+
 ## API
 
 ### Fluent API
 
-[Fluent interface - Wikiwand](https://www.wikiwand.com/en/Fluent_interface)
+[Fluent interface - Wikiwand](https://omni.wikiwand.com/en/Fluent_interface)
 [FluentInterface](https://martinfowler.com/bliki/FluentInterface.html)
 
 [JavaScript like a Boss: Understanding Fluent APIs — SitePoint](https://www.sitepoint.com/javascript-like-boss-understanding-fluent-apis/)
@@ -242,8 +256,9 @@ Causal Profiler (`coz`)
 
 ## ABI
 
-[Binary-code compatibility - Wikiwand](https://www.wikiwand.com/en/Binary-code_compatibility)
+[Binary-code compatibility - Wikiwand](https://omni.wikiwand.com/en/Binary-code_compatibility)
 Calling convention, what register of the CPU are used
+[What are Calling Conventions - CTF Handbook](https://ctf101.org/binary-exploitation/what-are-calling-conventions/)
 
 [Idiot's Guide to ABI Versioning - 250bpm](http://250bpm.com/blog:41)
 
@@ -255,7 +270,7 @@ Calling convention, what register of the CPU are used
 
 [c++ - Why should the "PIMPL" idiom be used? - Stack Overflow](https://stackoverflow.com/questions/60570/why-should-the-pimpl-idiom-be-used)
 
-[Opaque pointer - Wikiwand](https://www.wikiwand.com/en/Opaque_pointer)
+[Opaque pointer - Wikiwand](https://omni.wikiwand.com/en/Opaque_pointer)
 [PImpl - cppreference.com](https://en.cppreference.com/w/cpp/language/pimpl)
 [PImpl Idiom in C++ with Examples - GeeksforGeeks](https://www.geeksforgeeks.org/pimpl-idiom-in-c-with-examples/)
 [Bartek's coding blog: The Pimpl Pattern - what you should know](https://www.bfilipek.com/2018/01/pimpl.html)
@@ -384,9 +399,14 @@ Mostly paid contents:
 
 [The Unreasonable Effectiveness Of Plain Text - YouTube](https://www.youtube.com/watch?v=WgV6M1LyfNY) ❗!important, plain text is easy to maintain and scalable, manage with git repo
 
-## Loren Ipsum
+## Tools
 
-[Lorem ipsum - Wikiwand](https://www.wikiwand.com/en/Lorem_ipsum)
+[Transform](https://transform.tools/)
+[CyberChef](https://gchq.github.io/CyberChef/)
+
+### Loren Ipsum
+
+[Lorem ipsum - Wikiwand](https://omni.wikiwand.com/en/Lorem_ipsum)
 
 [malevole - Text Generator](http://www.malevole.com/mv/misc/text/)
 [Hipster Ipsum – Artisanal filler text for your project.](https://hipsum.co/)
@@ -399,11 +419,11 @@ Mostly paid contents:
 [Lokaltog/baba: Grammar designer application which exports AMD/CommonJS/browser-compatible garbage text generators.](https://github.com/Lokaltog/baba)
 [Lokaltog/git-man-page-generator: Git man page generator.](https://github.com/Lokaltog/git-man-page-generator)
 
-## Phone number checking
+### Phone number checking
 
-[E.123 - Wikiwand](https://www.wikiwand.com/en/E.123)
+[E.123 - Wikiwand](https://omni.wikiwand.com/en/E.123)
 [E.123 :Notation for national and international telephone numbers, e-mail addresses and web addresses](https://www.itu.int/rec/T-REC-E.123)
-[E.164 - Wikiwand](https://www.wikiwand.com/en/E.164)
+[E.164 - Wikiwand](https://omni.wikiwand.com/en/E.164)
 [E.164 :The international public telecommunication numbering plan](https://www.itu.int/rec/T-REC-E.164/en)
 [What is E.164? - Twilio](https://www.twilio.com/docs/glossary/what-e164)
 
@@ -418,11 +438,11 @@ Smaller still, look up the ISO 3166-1 alpha-2 country code and use the length/re
 
 [React Phone Number Input](https://catamphetamine.gitlab.io/react-phone-number-input/#with-country-select)
 
-## Country Code
+### Country Code
 
-[ISO 3166-1 - Wikiwand](https://www.wikiwand.com/en/ISO_3166-1)
-[ISO 3166-1 alpha-2 - Wikiwand](https://www.wikiwand.com/en/ISO_3166-1_alpha-2)
-[ISO 3166-1 alpha-3 - Wikiwand](https://www.wikiwand.com/en/ISO_3166-1_alpha-3)
+[ISO 3166-1 - Wikiwand](https://omni.wikiwand.com/en/ISO_3166-1)
+[ISO 3166-1 alpha-2 - Wikiwand](https://omni.wikiwand.com/en/ISO_3166-1_alpha-2)
+[ISO 3166-1 alpha-3 - Wikiwand](https://omni.wikiwand.com/en/ISO_3166-1_alpha-3)
 
 [wooorm/iso-3166: ISO 3166 (standard for country codes and codes for their subdivisions)](https://github.com/wooorm/iso-3166)
 
@@ -501,8 +521,8 @@ Used in many Go application for formatting output, e.g. `docker`, `kubectl`
 
 ### Time/Computational Complexity
 
-[Computational complexity theory - Wikiwand](https://www.wikiwand.com/en/Computational_complexity_theory)
-[Amortized analysis - Wikiwand](https://www.wikiwand.com/en/Amortized_analysis)
+[Computational complexity theory - Wikiwand](https://omni.wikiwand.com/en/Computational_complexity_theory)
+[Amortized analysis - Wikiwand](https://omni.wikiwand.com/en/Amortized_analysis)
 [Time Complexities Of Python Data Structures - FinTechExplained - Medium](https://medium.com/fintechexplained/time-complexities-of-python-data-structures-ddb7503790ef)
 
 [Understand Big O notation in 7 minutes - Je suis un dev](https://www.jesuisundev.com/en/understand-big-o-notation-in-7-minutes/)
@@ -518,7 +538,9 @@ Used in many Go application for formatting output, e.g. `docker`, `kubectl`
 
 ### Halting problem
 
-[Halting problem - Wikiwand](https://www.wikiwand.com/en/Halting_problem)
+> [[math#Gödel's Incompleteness Theorems]]
+
+[Halting problem - Wikiwand](https://omni.wikiwand.com/en/Halting_problem)
 [Theory of computation | Halting Problem - GeeksforGeeks](https://www.geeksforgeeks.org/theory-of-computation-halting-problem/)
 
 [The History of Undecidability - YouTube](https://www.youtube.com/playlist?list=PLzH6n4zXuckpIQPv8hiHpJkSyv0fmXEYr)
@@ -527,8 +549,13 @@ Used in many Go application for formatting output, e.g. `docker`, `kubectl`
 [Turing & The Halting Problem - Computerphile - YouTube](https://www.youtube.com/watch?v=macM_MtS_w4)
 Cause a contradiction if self-referencing
 
+[Alan Turing Publishes "On Computable Numbers," Describing What Came to be Called the "Turing Machine" : History of Information](https://www.historyofinformation.com/detail.php?id=619)
+[Turing_Paper_1936.pdf](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
+
 [How This One Question Breaks Computers - YouTube](https://www.youtube.com/watch?v=sG0obNcgNJM)
 [The Halting Problem - An Impossible Problem to Solve - YouTube](https://www.youtube.com/watch?v=t37GQgUPa6k)
+
+[【挑战毕导】停机悖论三句话就能证明不完备性定理？#数学 #math - YouTube](https://www.youtube.com/watch?v=Y1yUHnB9Mwg)
 
 ## Architecture Design
 
@@ -538,6 +565,8 @@ Cause a contradiction if self-referencing
 [[design-patterns]]
 [[microservice]]
 
+![System Design Master Template](./_assets/learn-to-code/system-design-template.jpg)
+
 [Software Architecture - The Difference Between Architecture and Design](https://codeburst.io/software-architecture-the-difference-between-architecture-and-design-7936abdd5830)
 [Software Design and Architecture | Coursera](https://www.coursera.org/specializations/software-design-architecture)
 [Minimum Viable Architecture • Randy Shoup • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=9Q7GANXn02k)
@@ -546,6 +575,9 @@ Cause a contradiction if self-referencing
 [The Rule of Three](http://blog.codinghorror.com/rule-of-three/)
 [Programming Should Be More than Coding](http://www.infoq.com/presentations/programming-design-coding)
 [In the Loop – CEO Quest Insights – Medium](https://medium.com/ceoquest/in-the-loop/home)
+
+[Choose Boring Technology](https://boringtechnology.club/)
+[Radical Simplicity in Technology | Join the movement](https://www.radicalsimpli.city/)
 
 [SREcon19 Europe/Middle East/Africa - Advanced Napkin Math: Estimating System... - YouTube](https://www.youtube.com/watch?v=IxkSlnrRFqc)
 [sirupsen/napkin-math: Techniques and numbers for estimating system's performance from first-principles](https://github.com/sirupsen/napkin-math)
@@ -622,7 +654,7 @@ Aria is a framework to run apps in similar design but abstracts away the server 
 
 ## Conway's Game of Life
 
-[Conway's Game of Life - Wikiwand](https://www.wikiwand.com/en/Conway%27s_Game_of_Life)
+[Conway's Game of Life - Wikiwand](https://omni.wikiwand.com/en/Conway%27s_Game_of_Life)
 [Literate Game of Life](http://www.macwright.org/literate-game-of-life/)
 
 [Implementing Life - Rust and WebAssembly](https://rustwasm.github.io/docs/book/game-of-life/implementing.html) Pattern matching on cell _and_ neighbour's states
@@ -659,6 +691,15 @@ Aria is a framework to run apps in similar design but abstracts away the server 
 
 ### Changelog
 
+First of all get your commit message right:
+[Commitizen by commitizen](http://commitizen.github.io/cz-cli/)
+[commitizen/cz-cli: The commitizen command line utility.](https://github.com/commitizen/cz-cli)
+
+[Conventional Commits](https://www.conventionalcommits.org/)
+[commitlint - Lint commit messages](https://commitlint.js.org/#/)
+[conventional-changelog/commitlint: 📓 Lint commit messages](https://github.com/conventional-changelog/commitlint) similar to [angular's convnetion](https://github.com/ajoslin/conventional-changelog/blob/a5505865ff3dd710cf757f50530e73ef0ca641da/conventions/angular.md)
+[angular.js/DEVELOPERS.md at master · angular/angular.js](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#commits) Git Commit Guidelines
+
 #### Manually curated
 
 [Keep a Changelog](http://keepachangelog.com/)
@@ -666,20 +707,10 @@ Aria is a framework to run apps in similar design but abstracts away the server 
 
 #### Automated
 
-First of all get your commit message right:
-[Commitizen by commitizen](http://commitizen.github.io/cz-cli/)
-[commitizen/cz-cli: The commitizen command line utility.](https://github.com/commitizen/cz-cli)
-[conventional-changelog/angular.md](https://github.com/ajoslin/conventional-changelog/blob/a5505865ff3dd710cf757f50530e73ef0ca641da/conventions/angular.md)
-[angular.js/DEVELOPERS.md at master · angular/angular.js](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#commits) Git Commit Guidelines
-
 [Welcome | Legit (Git Workflow for Humans)](http://www.git-legit.org/)
 [Get Legit with Git (and GitHub): The Art of the Commit Message - The New Stack](https://thenewstack.io/getting-legit-with-git-and-github-the-art-of-the-commit-message/)
 
 [changesets/changesets: 🦋 A way to manage your versioning and changelogs with a focus on monorepos](https://github.com/changesets/changesets)
-
-[Conventional Commits](https://www.conventionalcommits.org/)
-[Conventional Commit Messages](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
-[qoomon/git-conventional-commits: Git Conventional Commits Util to generate Semantic Version and Markdown Change Log and Validate Commit Messag](https://github.com/qoomon/git-conventional-commits)
 
 Generate:
 [clog-tool/clog-cli: Generate beautiful changelogs from your Git commit history](https://github.com/clog-tool/clog-cli)
@@ -714,23 +745,27 @@ Language specific optimization can be added when parsing the source code to inte
 
 Following is are lists of learning resources for the programming languages I'm interested in.
 
-[[c-sharp]]
 [[c-lang]]
+[[c-sharp]]
 [[flutter#Dart]]
 [[go-lang]]
-[[java]]
-[[javascript-notes]]
-[[julia]]
-[[nodejs-notes]]
-[[swift-lang]]
+[[java-lang]]
+[[javascript-lang]]
+[[julia-lang]]
 [[nim-lang]]
+[[nodejs-runtime]]
+[[perl-lang]]
 [[php-lang]]
-[[python-notes]]
+[[python-lang]]
 [[regex]]
 [[rust-lang]]
-[[web-dev]]
+[[swift-lang]]
+[[typescript-lang]]
 [[v-lang]]
+[[web-dev]]
 [[zig-lang]]
+
+[Programming Languages As People - YouTube](https://www.youtube.com/watch?v=7JgzqX53VeA)
 
 [HOPL](https://hopl.info/) Online Historical Encyclopaedia of Programming Languages
 [Programming Languages - Hyperpolyglot](https://hyperpolyglot.org/)
@@ -761,6 +796,9 @@ you must speak C when communicating with kernel
 
 [🚀 Demystifying memory management in modern programming languages | Technorage](https://deepu.tech/memory-management-in-programming/)
 
+[Reading files the hard way](https://fasterthanli.me/series/reading-files-the-hard-way)
+[ftrace: trace your kernel functions!](https://jvns.ca/blog/2017/03/19/getting-started-with-ftrace/)
+
 [The Computer Language Benchmarks Game](http://benchmarksgame.alioth.debian.org/)
 [Benchmarks for programming languages and compilers, Which programming language or compiler is faster](https://programming-language-benchmarks.vercel.app/)
 [Evaluating Developer eXperience of a programming language - DEV Community 👩‍💻👨‍💻](https://dev.to/stereobooster/developer-experience-the-stereoboster-test-for-a-programming-language-4c44)
@@ -783,7 +821,7 @@ Game of Life can be used to build logic gates
 Quines
 [rockstar : home](https://codewithrockstar.com/)
 
-[Quine (computing) - Wikiwand](<https://www.wikiwand.com/en/Quine_(computing)>) a program that prints itself
+[Quine (computing) - Wikiwand](<https://omni.wikiwand.com/en/Quine_(computing)>) a program that prints itself
 
 ## Abstract Syntax Tree (AST)
 
@@ -804,7 +842,7 @@ Protocol to abstract editor from specific language.
 
 ## Esolang
 
-[Esoteric programming language - Wikiwand](https://www.wikiwand.com/en/Esoteric_programming_language)
+[Esoteric programming language - Wikiwand](https://omni.wikiwand.com/en/Esoteric_programming_language)
 [Esolang, the esoteric programming languages wiki](https://esolangs.org/wiki/Main_Page)
 [Esoteric.Codes: Esolangs, Esoteric Programming Styles, Code Art, Code Poetry, more...](https://esoteric.codes/)
 
@@ -813,6 +851,9 @@ Protocol to abstract editor from specific language.
 [Strange Computer Languages: A Hacker’s Field Guide | Hackaday](https://hackaday.com/2022/01/26/strange-computer-languages-a-hackers-field-guide/)
 
 [Emojicode](https://www.emojicode.org/)
+
+[wy-lang.org](https://wy-lang.org/)
+[wenyan-lang/wenyan: 文言文編程語言 A programming language for the ancient Chinese.](https://github.com/wenyan-lang/wenyan)
 
 [JSFuck - Write any JavaScript with 6 Characters: []()!+](https://jsfuck.com/)
 [aemkei/jsfuck: Write any JavaScript with 6 Characters: []()!+](https://github.com/aemkei/jsfuck)
@@ -824,16 +865,28 @@ Protocol to abstract editor from specific language.
 ## Assembly
 
 [[reverse-engineering#Binary Analysis/Malware Analysis/Reverse Engineering]]
+[[computer-cpu##Instruction Set Architecture (ISA)]]
 
-[x86 assembly language - Wikiwand](https://www.wikiwand.com/en/X86_assembly_language)
-[x86 calling conventions - Wikiwand](https://www.wikiwand.com/en/X86_calling_conventions)
+[x86 assembly language - Wikiwand](https://omni.wikiwand.com/en/X86_assembly_language)
+[x86 calling conventions - Wikiwand](https://omni.wikiwand.com/en/X86_calling_conventions)
+[Intel x86 Opcode Table and Reference](https://shell-storm.org/x86doc/)
+[Guide to x86 Assembly](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 
 [Intel® 64 and IA-32 Architectures Software Developer Manuals](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
 
+[lowlevellearning/rosetta-stone](https://github.com/lowlevellearning/rosetta-stone)
+
+[C++ vs Rust: which is faster? - YouTube](https://www.youtube.com/watch?v=VMpSYJ_7aYM) calling convention
+
+[uops.info](https://uops.info/) opcode to ALU/AGU breakdown
+
+[x86 Assembly/X86 Architecture - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/X86_Assembly/X86_Architecture)
 [Registers in x86 assembly | Infosec Resources](https://resources.infosecinstitute.com/topic/registers/)
 parameters: `rdi`, `rsi`
 return value: `rax` (`eax` for the lower 32 bits, `ah`/`al` for the higher and lower bytes)
 naming: `r` - 64 bits; `e` - 32 bits; no prefix - 16 bits; `h/l` suffix - 8 bits
+
+[assembly - Understanding how EIP (RIP) register works? - Stack Overflow](https://stackoverflow.com/questions/27429026/understanding-how-eip-rip-register-works)
 
 [Intro to Assembly and Assemblers | Linux.org](http://www.linux.org/threads/intro-to-assembly-and-assemblers.7311/)
 [Gcc: Some Assembly Required | Hackaday](https://hackaday.com/2016/06/08/gcc-some-assembly-required/)
@@ -848,6 +901,8 @@ Dave's Garage
 
 - calling convention
 - Caller stored/Callee stored
+
+[apalrd/riscv-morse: Sample of a morse-code 'blinky' in different architectures](https://github.com/apalrd/riscv-morse)
 
 [Creel - YouTube](https://www.youtube.com/@WhatsACreel)
 [Modern x64 Assembly - YouTube](https://www.youtube.com/playlist?list=PLKK11Ligqitg9MOX3-0tFT1Rmh3uJp7kA)
@@ -869,12 +924,13 @@ Dave's Garage
 [flat assembler](https://flatassembler.net/)
 [Web in Native Assembly (Linux x86_64) - YouTube](https://www.youtube.com/watch?v=b-q4QBy52AA)
 
-## Beef
+## Bend
 
-[The Beef Programming Language](https://www.beeflang.org/)
-[beefytech/Beef: Beef Programming Language](https://github.com/beefytech/Beef)
+[Higher Order Company](https://higherorderco.com/)
+[HigherOrderCO/Bend: A massively parallel, high-level programming language](https://github.com/HigherOrderCO/Bend)
 
-[BEEF -- Ideal Game Programming Language? - YouTube](https://www.youtube.com/watch?v=L6w4y6_ENdU)
+[Mind-bending new programming language for GPUs just dropped... - YouTube](https://www.youtube.com/watch?v=HCOQmKTFzYY)
+[The New Massively Parallel Language - YouTube](https://www.youtube.com/watch?v=NaytZOiX3fs)
 
 ## Bosque
 
@@ -903,7 +959,7 @@ Dave's Garage
 Google's langauge for replacing C
 
 [carbon-language/carbon-lang: Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)](https://github.com/carbon-language/carbon-lang)
-[Carbon (programming language) - Wikiwand](<https://www.wikiwand.com/en/Carbon_(programming_language)>)
+[Carbon (programming language) - Wikiwand](<https://omni.wikiwand.com/en/Carbon_(programming_language)>)
 
 [Carbon Language: An experimental successor to C++ - Chandler Carruth - CppNorth 2022 - YouTube](https://www.youtube.com/watch?v=omrY53kbVoA)
 [Carbon Language Successor Strategy: From C++ Interop to Memory Safety - Chandler Carruth - CppNow 23 - YouTube](https://www.youtube.com/watch?v=1ZTJ9omXOQ0) ❗!important, 58:21 bugs, safety and vulnerability
@@ -948,6 +1004,17 @@ Elm -> ReScript -> F#
 [Google Dex language simplifies array math for machine learning | InfoWorld](https://www.infoworld.com/article/3448551/google-dex-language-simplifies-array-math-for-machine-learning.html)
 [https://google-research.github.io/dex-lang/tutorial.html](https://google-research.github.io/dex-lang/tutorial.html)
 
+## Hylo
+
+> formerly Val
+
+[Hylo | The Hylo Programming Language](https://www.hylo-lang.org/)
+[Introduction | Language tour](https://docs.hylo-lang.org/language-tour)
+[hylo-lang/hylo: The Hylo programming language](https://github.com/hylo-lang/hylo)
+
+[Meet Val: A New Language Alternative to C++, Rust - The New Stack](https://thenewstack.io/meet-val-a-new-language-alternative-to-c-rust/)
+[Val - The Rust Killer | Prime Reacts - YouTube](https://www.youtube.com/watch?v=xLouek82-5g)
+
 ## Lever
 
 [cheery/lever: A programming language in the Perl/Python/Ruby group](https://github.com/cheery/lever)
@@ -966,6 +1033,19 @@ Elm -> ReScript -> F#
 
 [io](http://iolanguage.org/)
 [Io Programming Guide](http://iolanguage.org/scm/io/docs/IoGuide.html)
+
+## Mojo
+
+> Python's syntax, Rust's speed
+
+[Mojo 🔥: Programming language for all of AI](https://www.modular.com/max/mojo)
+[2023 LLVM Dev Mtg - Mojo 🔥: A system programming language for heterogenous computing - YouTube](https://www.youtube.com/watch?v=SEwTjZvy8vw)
+[Mojo - the BLAZINGLY FAST new AI Language? | Prime Reacts - YouTube](https://www.youtube.com/watch?v=RZhTC33lStQ)
+
+[Mojo Programming Language – Full Course for Beginners - YouTube](https://www.youtube.com/watch?v=5Sm9IVMet9c) 2023-09 freeCodeCamp, 2:12:43
+[The Current State of the Mojo Programming Language - YouTube](https://www.youtube.com/watch?v=4f2JH_sK17o) 2023-10
+
+[[UPDATE] Mojo Is Faster Than Rust - Mojo Explains More - YouTube](https://www.youtube.com/watch?v=MDblUyz0PtQ)
 
 ## Odin
 
@@ -1018,7 +1098,7 @@ Elm -> ReScript -> F#
 
 ## OCaml
 
-[OCaml - Wikiwand](https://www.wikiwand.com/en/OCaml)
+[OCaml - Wikiwand](https://omni.wikiwand.com/en/OCaml)
 [Welcome to a World of OCaml](https://ocaml.org/)
 [Learn OCaml](https://ocaml.org/docs)
 
@@ -1094,9 +1174,45 @@ The language used by data analysts.
 [rbspy docs](https://rbspy.github.io/)
 [rbspy/rbspy: Sampling profiler for Ruby](https://github.com/rbspy/rbspy)
 
-## Val
+## Vale
 
-[Val | The Val Programming Language](https://www.val-lang.dev/)
+> author on extended break
 
-[Meet Val: A New Language Alternative to C++, Rust - The New Stack](https://thenewstack.io/meet-val-a-new-language-alternative-to-c-rust/)
-[Val - The Rust Killer | Prime Reacts - YouTube](https://www.youtube.com/watch?v=xLouek82-5g)
+[vale.dev](https://vale.dev/)
+[Introduction](https://vale.dev/guide/introduction)
+[ValeLang/Vale: Compiler for the Vale programming language - http://vale.dev/](https://github.com/ValeLang/Vale)
+
+## Yak
+
+> Cybersecurity Domain Specific Language
+
+[Yak Language Yak Program Language | Yak Program Language](https://yaklang.com/en/)
+[yaklang/yaklang: A programming language exclusively designed for cybersecurity](https://github.com/yaklang/yaklang)
+
+[Yakit: 集成化单兵安全能力平台 | Yak Program Language](https://yaklang.com/en/products/intro)
+
+# Embeddable Programming Languages
+
+[[lua-lang]]
+[[wren-lang]]
+
+## Beef
+
+[The Beef Programming Language](https://www.beeflang.org/)
+[beefytech/Beef: Beef Programming Language](https://github.com/beefytech/Beef)
+
+[BEEF -- Ideal Game Programming Language? - YouTube](https://www.youtube.com/watch?v=L6w4y6_ENdU)
+
+## Gravity
+
+[Gravity Documentation](https://www.gravity-lang.org/#/)
+[marcobambini/gravity: Gravity Programming Language](https://github.com/marcobambini/gravity)
+
+[Gravity -- Embeddable Programming Language - YouTube](https://www.youtube.com/watch?v=YuiF9p5aXeU)
+
+## Wren
+
+[Wren](https://wren.io/)
+[wren-lang/wren: The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.](https://github.com/wren-lang/wren)
+
+[wren -- A 'Classy' Fast Embedded Programming Language - YouTube](https://www.youtube.com/watch?v=Zx9HPy2IjCU)

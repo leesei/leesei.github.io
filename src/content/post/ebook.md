@@ -2,14 +2,14 @@
 title: eBook
 description: ""
 created: 2016-09-13
-updated: 2023-12-02
+updated: 2024-08-14
 tags:
   - ebook
 ---
 
 # Formats
 
-[Comparison of e-book formats - Wikiwand](https://www.wikiwand.com/en/Comparison_of_e-book_formats)
+[Comparison of e-book formats - Wikiwand](https://omni.wikiwand.com/en/Comparison_of_e-book_formats)
 [Difference Between EPUB, MOBI, AZW and PDF eBook Formats](http://www.guidingtech.com/9661/difference-between-epub-mobi-azw-pdf-ebook-formats/)
 [EPUB and Kindle formats explained | Digital Publishing 101](http://digitalpublishing101.com/digital-publishing-101/digital-publishing-basics/epub-kindle-formats/)
 [Difference Between EPUB, MOBI and AZW E-Book Formats](http://techwelkin.com/difference-between-epub-pdf-mobi-and-azw-ebook-formats)
@@ -24,7 +24,7 @@ tags:
 
 [Amazon.com Help - Which Kindle E-reader Do I Have?](https://www.amazon.com/gp/help/customer/display.html?nodeId=201263790)
 
-[Kindle Paperwhite 3](<https://www.wikiwand.com/en/Amazon_Kindle#/Kindle_Paperwhite_(3rd_generation)>):
+[Kindle Paperwhite 3](<https://omni.wikiwand.com/en/Amazon_Kindle#/Kindle_Paperwhite_(3rd_generation)>):
 
 - 7th Generation, 2015
 - 6-inch, 1440×1080, 300 ppi E Ink Carta HD display
@@ -33,7 +33,7 @@ tags:
 - 6.7" x 4.6" x 0.36" (169 mm x 117 mm x 9.1 mm)
   \$770@201604
 
-[Kindle Paperwhite 4](<https://www.wikiwand.com/en/Amazon_Kindle#/Kindle_Paperwhite_(4rd_generation)>)
+[Kindle Paperwhite 4](<https://omni.wikiwand.com/en/Amazon_Kindle#/Kindle_Paperwhite_(4rd_generation)>)
 
 - 10th Generation, 2018
 - 6-inch, 1440×1080, 300 ppi E Ink Carta HD display

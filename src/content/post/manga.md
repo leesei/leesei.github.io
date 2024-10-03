@@ -2,7 +2,7 @@
 title: Manga
 description: ""
 created: 2016-05-30
-updated: 2023-09-29
+updated: 2024-09-29
 tags:
   - anime
   - manga
@@ -94,13 +94,11 @@ Spy x Family
 [动漫屋:你的我的在线漫画](http://www.dm5.com/) provider for [漫画人 - 为爱漫画的人而生](http://www.manhuaren.com/)
 [漫画*漫画搜索*漫画人](https://www.manhuaren.com/search/)
 [在线看漫画*飒漫乐画*妃夕妍雪 - 看漫画](https://www.manhuagui.com/)
-[SF 动漫\_SF 在线漫画\_SF 互动传媒](http://comic.sfacg.com/)
 [日本漫画 漫画大全 看漫画 在线漫画 - 漫画 DB](https://www.manhuadb.com/)
-[动漫之家漫画网](http://manhua.dmzj.com/)
 [動漫狂 - 免費動畫漫畫分享社群 !](http://www.cartoonmad.com/)
-[在线看漫画*飒漫乐画*妃夕妍雪 - 看漫画](http://www.ikanman.com/)
 [哔哩哔哩漫画 - bilibili 正版漫画平台](https://manga.bilibili.com/)
 [Home - MangaDex](https://mangadex.org/)
+[漫画社](https://www.manhuashe.com/)
 
 ---
 

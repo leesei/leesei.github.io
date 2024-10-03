@@ -2,18 +2,18 @@
 title: Anthropology
 description: ""
 created: 2015-08-07
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - anthropology
 ---
 
-[Anthropology - Wikiwand](https://www.wikiwand.com/en/Anthropology)
+[Anthropology - Wikiwand](https://omni.wikiwand.com/en/Anthropology)
 [What is Anthropology? - Advance Your Career](https://www.americananthro.org/AdvanceYourCareer/Content.aspx?ItemNumber=2150)
 
 [HeritageDaily - Archaeology Magazine - HeritageDaily - Archaeology News](https://www.heritagedaily.com/)
 
-[Human evolution - Wikiwand](https://www.wikiwand.com/en/Human_evolution)
-[Template:Human timeline - Wikiwand](https://www.wikiwand.com/en/Template:Human_timeline)
+[Human evolution - Wikiwand](https://omni.wikiwand.com/en/Human_evolution)
+[Template:Human timeline - Wikiwand](https://omni.wikiwand.com/en/Template:Human_timeline)
 [Apidima 1 Is the Oldest Human Fossil Outside Africa - The Atlantic](https://amp.theatlantic.com/amp/article/593563/)
 
 [File:Apeclade.png - Wikipedia](https://en.wikipedia.org/wiki/File:Apeclade.png)

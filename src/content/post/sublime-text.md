@@ -2,7 +2,7 @@
 title: Sublime Text
 description: ""
 created: 2015-04-02
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - app
   - package-control

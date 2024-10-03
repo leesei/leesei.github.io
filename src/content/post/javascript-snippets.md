@@ -2,7 +2,7 @@
 title: JavaScript Snippets
 description: ""
 created: 2014-12-11
-updated: 2023-09-29
+updated: 2024-02-04
 tags:
   - comp/lang
   - javascript
@@ -188,6 +188,24 @@ function ISODateString(date) {
   return (
     date.getUTCFullYear() + pad(date.getUTCMonth() + 1) + pad(date.getUTCDate())
   );
+}
+```
+
+## `htmlencode()`/`htmldecode()`
+
+[JavaScript實現htmlencode()與htmldecode()](https://et20020223.medium.com/javascript%E5%AF%A6%E7%8F%BEhtmlencode-%E8%88%87htmldecode-d5fbec3578b7)
+
+```js
+function htmlencode(s) {
+  var div = document.createElement("div");
+  div.appendChild(document.createTextNode(s));
+  return div.innerHTML;
+}
+
+function htmldecode(s) {
+  var div = document.createElement("div");
+  div.innerHTML = s;
+  return div.innerText || div.textContent;
 }
 ```
 

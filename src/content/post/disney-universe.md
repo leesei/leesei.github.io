@@ -2,14 +2,14 @@
 title: Disney Universe
 description: ""
 created: 2016-04-17
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - anime
   - disney
 ---
 
 [DisneyTheory.com | Connecting Walt Disney's movies from Frozen to Tarzan.](https://disneytheory.com/)
-[Disney Renaissance - Wikiwand](https://www.wikiwand.com/en/Disney_Renaissance)
+[Disney Renaissance - Wikiwand](https://omni.wikiwand.com/en/Disney_Renaissance)
 
 [30 Disney Movies That Share A World | DisneyTheory.com](https://disneytheory.com/2013/08/25/thedisneytheory/)
 [30 Disney Movies That Share A World – Part 2 | DisneyTheory.com](https://disneytheory.com/2014/03/19/30-disney-movies-that-share-a-world-part-2/)

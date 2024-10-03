@@ -2,7 +2,7 @@
 title: Biblical History
 description: ""
 created: 2016-08-10
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - catholic-church
   - dark-ages
@@ -20,6 +20,6 @@ the Church was taking the government's role
 printing press allowed for widespread of ideas, and heresy, rapidly
 Money destabilized social structure:poor blue blood vs rich merchants; decrease in supply of peasants due to plague, there's no market they are bound by law to work for their lord
 
-[History of Christianity - Wikiwand](http://www.wikiwand.com/en/History_of_Christianity)
-[Protestant Reformation - Wikiwand](http://www.wikiwand.com/en/Protestant_Reformation)
-[Eastern Orthodox Church - Wikiwand](http://www.wikiwand.com/en/Eastern_Orthodox_Church)
+[History of Christianity - Wikiwand](http://omni.wikiwand.com/en/History_of_Christianity)
+[Protestant Reformation - Wikiwand](http://omni.wikiwand.com/en/Protestant_Reformation)
+[Eastern Orthodox Church - Wikiwand](http://omni.wikiwand.com/en/Eastern_Orthodox_Church)

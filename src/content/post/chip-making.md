@@ -2,25 +2,29 @@
 title: Chip Making
 description: ""
 created: 2023-06-13
-updated: 2023-09-29
+updated: 2024-09-07
 tags:
   - comp/hardware
   - manufacturing
 ---
 
 [SemiAnalysis | Dylan Patel | Substack](https://www.semianalysis.com/)
+[Chips and Cheese – The Devil is in the Details](https://chipsandcheese.com/)
+[Ken Shirriff's blog](https://www.righto.com/) IC reverse engineering
+[High Yield - YouTube](https://www.youtube.com/@HighYield)
 [老石谈芯 - YouTube](https://www.youtube.com/@laoshi_tec)
 [谈三圈 - YouTube](https://www.youtube.com/@tan3quan)
 
 [Why making chips is so hard - YouTube](https://www.youtube.com/watch?v=CkNn98WE5_k)
 
+[How are Microchips Made? - YouTube](https://www.youtube.com/watch?v=dX9CGRZwD-w)
+[How are microchips made? - YouTube](https://www.youtube.com/watch?v=g8Qav3vIv9s)
 [How Chips are Manufactured – with Optics from ZEISS - YouTube](https://www.youtube.com/watch?v=bUJiMJweI8M)
 [From Sand to Silicon: the Making of a Chip | Intel - YouTube](https://www.youtube.com/watch?v=Q5paWn7bFg4)
 [From Sand to Silicon: The Making of a Microchip | Intel - YouTube](https://www.youtube.com/watch?v=_VMYPLXnd7E)
+[Intel: The Making of a Chip with 22nm/3D Transistors | Intel - YouTube](https://www.youtube.com/watch?v=d9SWNLZvA8g)
 [The Amazing, Humble Silicon Wafer - YouTube](https://www.youtube.com/watch?v=sIRfWyyOFPg)
 [日美科技战：半导体巅峰之争背后的秘密 - YouTube](https://www.youtube.com/watch?v=FwXQSQcyWGQ)
-[Intel: The Making of a Chip with 22nm/3D Transistors | Intel - YouTube](https://www.youtube.com/watch?v=d9SWNLZvA8g)
-[How are microchips made? - YouTube](https://www.youtube.com/watch?v=g8Qav3vIv9s)
 [I Can Die Now. - YouTube](https://www.youtube.com/watch?v=2ehSCWoaOqQ) 2022, Intel Israel Fab
 
 硬件茶谈
@@ -45,10 +49,10 @@ tags:
 
 ## Functional Types
 
-[Application-specific integrated circuit - Wikiwand](https://www.wikiwand.com/en/Application-specific_integrated_circuit) ASIC: high performance, fixed pipeline, high one-time cost
-[Structured ASIC platform - Wikiwand](https://www.wikiwand.com/en/Structured_ASIC_platform) hybrid
-[Gate array - Wikiwand](https://www.wikiwand.com/en/Gate_array)
-[Field-programmable gate array - Wikiwand](https://www.wikiwand.com/en/Field-programmable_gate_array) FPGA: high performance, programmable pipeline, low one-time cost
+[Application-specific integrated circuit - Wikiwand](https://omni.wikiwand.com/en/Application-specific_integrated_circuit) ASIC: high performance, fixed pipeline, high one-time cost
+[Structured ASIC platform - Wikiwand](https://omni.wikiwand.com/en/Structured_ASIC_platform) hybrid
+[Gate array - Wikiwand](https://omni.wikiwand.com/en/Gate_array)
+[Field-programmable gate array - Wikiwand](https://omni.wikiwand.com/en/Field-programmable_gate_array) FPGA: high performance, programmable pipeline, low one-time cost
 
 [These Chips Are Better Than CPUs - YouTube](https://www.youtube.com/watch?v=7Elgs5HzIbE)
 [Difference Between ASIC and FPGA | Difference Between](http://www.differencebetween.net/technology/difference-between-asic-and-fpga/)
@@ -78,8 +82,8 @@ tags:
 [Transistors - The Invention That Changed The World - YouTube](https://www.youtube.com/watch?v=OwS9aTE2Go4)
 [Transistors Explained - How transistors work - YouTube](https://www.youtube.com/watch?v=J4oO7PT_nzQ)
 
-[MOSFET - Wikiwand](https://www.wikiwand.com/en/MOSFET)
-[CMOS - Wikiwand](https://www.wikiwand.com/en/CMOS) Complementary MOSFET
+[MOSFET - Wikiwand](https://omni.wikiwand.com/en/MOSFET)
+[CMOS - Wikiwand](https://omni.wikiwand.com/en/CMOS) Complementary MOSFET
 
 ## Photolithography
 
@@ -92,6 +96,9 @@ tags:
 [芯片制造的核心：光刻机！中芯国际在购得 EUV 光刻机后差距还有多大？梁孟松的传奇（58） - YouTube](https://www.youtube.com/watch?v=-w2Cvd3rxsU)
 [Vol.137 如何在纳米尺度雕刻芯片？ - YouTube](https://www.youtube.com/watch?v=Co7-_d1NjkM)
 [EUV 光刻太贵了：替代技术正加快速度转正-快科技-科技改变生活](https://m.mydrivers.com/newsview/870055.html?ref=https%3A//www.google.com/)
+
+Atomic Layer Deposition (ALD) is used to deposit thin films on the wafer.
+[2奈米以下要靠它？秒懂最強薄膜技術ALD原子層沉積！用超薄材料造出最小電晶體 - YouTube](https://www.youtube.com/watch?v=6QxFJHPhD88)
 
 [用 GPU 榨干光刻机性能！英伟达计算光刻要改写芯片历史？ - YouTube](https://www.youtube.com/watch?v=N8gb_nABdWs)
 [You Didn’t Build your PC… This Did. - YouTube](https://www.youtube.com/watch?v=pfU20SAR21A) ASML's EUV machine
@@ -111,10 +118,10 @@ immersion lithography (ArFi) (2007, N42) and multiple patterning (repeated expos
 
 [Technology Node - WikiChip](https://en.wikichip.org/wiki/technology_node)
 [How Are Process Nodes Defined? - ExtremeTech](https://www.extremetech.com/computing/296154-how-are-process-nodes-defined)
-[Semiconductor device fabrication - Wikiwand](https://www.wikiwand.com/en/Semiconductor_device_fabrication)
+[Semiconductor device fabrication - Wikiwand](https://omni.wikiwand.com/en/Semiconductor_device_fabrication)
 A process node upgrade is meant to double the number of transistors, hence halving the area, so the distance decrease is square root of 0.5 = 0.7071
 90nm -> 65nm -> 45nm -> 32nm -> 22nm -> 14nm -> 10nm -> 7nm -> 5nm
-Laser cannot archive required half pitch after 45nm. 3D techniques (FinFET) are used
+Laser cannot achieve required half pitch after 28nm. 3D techniques (FinFET) are used.
 
 [Die Per Wafer Calculator -](https://caly-technologies.com/die-yield-calculator/)
 
@@ -126,16 +133,26 @@ Transistor density is better measure
 [Intel Ditches "Nanometers," Renames 10nm to "7" & 7nm to "4" - YouTube](https://www.youtube.com/watch?v=wxKGFxmwcDo)
 [14nm and 7nm are NOT what you think it is - Visiting Tescan Part 3/3 - YouTube](https://www.youtube.com/watch?v=1kQUXpZpLXI)
 
-[Beyond 7nm - the race to 4nm is Samsung's to lose - Android Authority](https://www.androidauthority.com/4nm-processing-node-812959/)
-[Samsung Unveils 3nm Gate-All-Around Design Tools - ExtremeTech](https://www.extremetech.com/computing/291507-samsung-unveils-3nm-gate-all-around-design-tools)
-[FinFET - Wikiwand](https://www.wikiwand.com/en/FinFET) the transistor became 3D
-[Tech Brief: FinFET Fundamentals | Lam Research](https://blog.lamresearch.com/tech-brief-finfet-fundamentals/)
-[The 3-D Transistor Transition - YouTube](https://www.youtube.com/watch?v=i3dDslo9ibw) FinFET and Gate All Around (GAA)
-FinFET is used for nodes < 28nm
-
 [Next-Gen CPUs/GPUs have a HUGE problem! - YouTube](https://www.youtube.com/watch?v=vQ5JPqeFitM) SRAM for cache does not scale with process node, and next-gen CPUs/GPUs are using larger cache => greatly increased price; chiplet/tile design help ease this problem for the core and cache can be using different process node
 
 [Is a smaller manufacturing process always better? Intel's 10nm SuperFin suggests otherwise | VentureBeat](https://venturebeat.com/2020/09/21/is-smaller-always-better-in-chips-intels-new-10nm-superfin-technology-suggests-otherwise/amp/)
+
+### 3D Transistors
+
+[The 3-D Transistor Transition - YouTube](https://www.youtube.com/watch?v=i3dDslo9ibw) FinFET and Gate All Around (GAA)
+This increase the contact surface area of the control signal (in the form of magnetic fields) towards the gate.
+
+[FinFET - Wikiwand](https://omni.wikiwand.com/en/FinFET)
+[Beyond 7nm - the race to 4nm is Samsung's to lose - Android Authority](https://www.androidauthority.com/4nm-processing-node-812959/)
+[Tech Brief: FinFET Fundamentals | Lam Research](https://blog.lamresearch.com/tech-brief-finfet-fundamentals/)
+[The secret behind FinFET process node scaling - YouTube](https://www.youtube.com/watch?v=9vQ0T1fOvIA) FinFlex, fin depopulation (reducing the number of fins)
+FinFET is used for nodes < 28nm
+
+[Multigate device - Wikiwand](https://omni.wikiwand.com/en/Gate-all-around)
+[Samsung Unveils 3nm Gate-All-Around Design Tools - ExtremeTech](https://www.extremetech.com/computing/291507-samsung-unveils-3nm-gate-all-around-design-tools)
+[The Gate-All-Around Transistor is Coming - YouTube](https://www.youtube.com/watch?v=5RPFfPtgw7g)
+[Gate-All-Around — The Future of Transistors - YouTube](https://www.youtube.com/watch?v=bfkIp_j0Iv8)
+GAA/RibbonFET is used for nodes < 3nm
 
 ## Packaging
 
@@ -159,8 +176,25 @@ FinFET is used for nodes < 28nm
 
 [【亦】唠唠苹果 M1 Ultra：半导体新时代！ - YouTube](https://www.youtube.com/watch?v=lri6O8EBnlI)
 [Why AMD's Chiplets Work - YouTube](https://www.youtube.com/watch?v=-x9nGo0Ge70)
+[AMD ZEN 6 — Next-gen Chiplets & Packaging - YouTube](https://www.youtube.com/watch?v=ex_gPeWVAo0)
+
+- silicon interposer replaces tiny copper wires on the PCB  
+  the interposer has higher bandwidth, lower latency, and lower power consumption than the PCB  
+  but it is much more expensive to make
+- silicon bridge  
+  archive the benefits of the interposer with lower complexity and lower cost
+- organic RDL (Redistribution Layer)  
+  organic material is used instead of silicon, fanout interconnections in the RDL  
+  already used by Navi 31 and Navi 32 GPUs
 
 [Advanced Packaging Part 1 – Pad Limited Designs, Breakdown Of Economic Semiconductor Scaling, Heterogeneous Compute, and Chiplets](https://www.semianalysis.com/p/advanced-packaging-part-1-pad-limited)
 [Advanced Packaging Part 2 - Review Of Options/Use From Intel, TSMC, Samsung, AMD, ASE, Sony, Micron, SKHynix, YMTC, Tesla, and Nvidia](https://www.semianalysis.com/p/advanced-packaging-part-2-review)
 [Advanced Packaging Part 3 – Intel’s Curious Bet on Thermocompression Bonding, ASM Pacific, Kulicke and Soffa, and Besi TCB Tool Landscape](https://www.semianalysis.com/p/advanced-packaging-part-3-intels)
 [The Future Of Packaging Gets Blurry – Fanouts, ABF, Organic Interposers, Embedded Bridges – Advanced Packaging Part 4](https://www.semianalysis.com/p/the-future-of-packaging-gets-blurry)
+
+### Backside Power Delivery
+
+To separate the signal network from the power network, they have different requirements and can be optimized separately. With less layer of metal in the power network, the power delivery is more efficient. Reduced elements on the frontside also allows for reducing complexity of the signal network and futher optimization of signal network and the transistors. So we will have a more efficient chip with better performance and lower power consumption at a reduced cost.
+
+[Intel’s Next Breakthrough: Backside Power Delivery - YouTube](https://www.youtube.com/watch?v=fc_xzN6UErI) PowerVia is the first Backside Power Delivery technology used in production
+[Why next-gen chips separate Data & Power - YouTube](https://www.youtube.com/watch?v=hyZlQY2xmWQ)

@@ -2,7 +2,7 @@
 title: When Average is not Enough
 description: ""
 created: 2015-08-21
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - math
   - percentile

@@ -11,6 +11,7 @@
     "astro",
     "astrojs",
     "bilibili",
+    "Carnian",
     "chiplet",
     "ciphertext",
     "codeship",
@@ -36,13 +37,16 @@
     "Ryzen",
     "sciency",
     "SPIFFE",
+    "stylex",
+    "Tetris",
+    "Theranos",
     "voxel",
     "wikiwand",
     "YARA"
   ],
   "editor.minimap.enabled": false,
   "files.autoSave": "afterDelay",
-  "files.autoSaveDelay": 120000,
+  "files.autoSaveDelay": 10000,
   "files.exclude": {
     "_assets/**": true
   },

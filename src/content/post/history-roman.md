@@ -2,14 +2,14 @@
 title: History Europe
 description: ""
 created: 2016-09-12
-updated: 2023-09-29
+updated: 2024-09-07
 tags:
   - history
   - history/roman
 ---
 
-[Roman Empire - Wikiwand](http://www.wikiwand.com/en/Roman_Empire)
-[History of the Roman Empire - Wikiwand](http://www.wikiwand.com/en/History_of_the_Roman_Empire)
+[Roman Empire - Wikiwand](http://omni.wikiwand.com/en/Roman_Empire)
+[History of the Roman Empire - Wikiwand](http://omni.wikiwand.com/en/History_of_the_Roman_Empire)
 
 [Roman Republic - World History Encyclopedia](https://www.worldhistory.org/Roman_Republic/)
 [Roman Empire - World History Encyclopedia](https://www.worldhistory.org/Roman_Empire/)
@@ -49,8 +49,11 @@ A Legend (battalion) consists of 3 Manipals plus several other officers
 
 ## Roman-Persian Wars
 
-[Roman–Persian Wars - Wikiwand](http://www.wikiwand.com/en/Roman–Persian_Wars) 54 BCE – 628 CE
+[Roman–Persian Wars - Wikiwand](http://omni.wikiwand.com/en/Roman–Persian_Wars) 54 BCE – 628 CE
 
-## Byzantine
+## Byzantine/Eastern Roman Empire
 
-[Byzantine Empire - Wikiwand](http://www.wikiwand.com/en/Byzantine_Empire) = Eastern Roman Empire, after the fall of the Western Roman Empire in the 5th century CE.
+[Byzantine Empire - Wikiwand](http://omni.wikiwand.com/en/Byzantine_Empire) after the fall of the Western Roman Empire in the 5th century CE
+
+[羅馬千年榮光！「歐洲最強門神」拜占庭帝國的關鍵時刻｜【歷史大調查】EP05 - YouTube](https://www.youtube.com/watch?v=FzbrhX8u7YI)
+The Islamic Arabs stepped out of the Arabs peninsular around 630 CE when the Byzantine and Sassanid Empire were fighting each other. The Arabs took advantage of the situation and conquered the Sassanid Empire and the Byzantine Empire.

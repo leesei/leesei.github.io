@@ -2,7 +2,7 @@
 title: awk notes
 description: ""
 created: 2015-01-13
-updated: 2023-09-29
+updated: 2024-02-24
 tags:
   - app
   - awk
@@ -23,6 +23,7 @@ tags:
 [Why Every Linux User Needs To Learn Awk - YouTube](https://www.youtube.com/watch?v=PnDzUhmP26c)
 [Awk Isn't Just A Command: Let's Learn The Basics - YouTube](https://www.youtube.com/watch?v=2eX0scAsYJk)
 [Every Linux User Should Know Regex and Awk - YouTube](https://www.youtube.com/watch?v=Cq0A0K-gcZY)
+[Learning Awk Is Essential For Linux Users - YouTube](https://www.youtube.com/watch?v=9YOZmI-zWok)
 
 ```sh
 awk '{PROGRAM}' file

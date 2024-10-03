@@ -2,7 +2,7 @@
 title: Postal.js
 description: ""
 created: 2015-07-24
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - javascript
   - postal-js

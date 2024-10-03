@@ -2,7 +2,7 @@
 title: Business Tools
 description: ""
 created: 2018-10-27
-updated: 2023-09-29
+updated: 2024-09-04
 tags:
   - business
 ---
@@ -25,6 +25,7 @@ tags:
 ## Portfolio/Resume
 
 [How to Build an Effective Dev Portfolio](https://www.joshwcomeau.com/effective-portfolio/)
+[The Best AI-Powered Resume Builders to Grab Attention](https://www.makeuseof.com/best-ai-powered-resume-builders/)
 
 [履歷｜漁翁撒網也應專業點！犯上 4 大寫 CV 毛病　印象分立即清零](https://www.hk01.com/%E8%81%B7%E5%A0%B4/814914/)
 [CV 要避免寫這 10 個字！專家：別用“responsible for”+35 個實用詞語](https://www.hk01.com/%E9%96%8B%E7%BD%90/811959/)
@@ -63,6 +64,8 @@ tags:
 
 [Crater: Open-Source Laravel Invoicing App - Laravel News](https://laravel-news.com/crater-open-source-laravel-invoicing-app)
 [Crater Invoices - Open Source, Self Hosted Invoicing and Billing software with Power! - YouTube](https://www.youtube.com/watch?v=velKYXN3A_w)
+
+[🚀 Building and Generate Invoice PDF with Node.js React.js - DEV Community](https://dev.to/idurar/building-an-invoice-pdf-system-with-reactjs-redux-and-nodejs-5g1a)
 
 ## Payment
 
@@ -123,9 +126,14 @@ tags:
 
 [JIRA - Issue & Project Tracking Software | Atlassian](https://www.atlassian.com/software/jira)
 
-[The Trac Project](http://trac.edgewall.org/)
+[Plane - The open source project management tool](https://plane.so/)
+[makeplane/plane: 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.](https://github.com/makeplane/plane)[The Trac Project](http://trac.edgewall.org/)
 
 [About :: Bugzilla :: bugzilla.org](https://www.bugzilla.org/about/)
+
+## Consultation
+
+[How to Write a Consulting Proposal [Template]](https://blog.hubspot.com/sales/how-to-write-consulting-proposal)
 
 ## Analytics
 
@@ -264,6 +272,18 @@ Note: Pre-registered Alphanumeric Sender ID Required for A2P SMS in Hong Kong Ef
 [Welcome to relatorio’s documentation! — relatorio documentation](https://relatorio.readthedocs.io/en/latest/index.html) generates OpenOffice document from code
 
 [Fdawgs/docsmith: RESTful API for converting clinical documents and files](https://github.com/Fdawgs/docsmith)
+
+### Node.js
+
+[mgcrea/node-xlsx: NodeJS excel file parser & builder](https://github.com/mgcrea/node-xlsx) wrapper for sheetjs
+[SheetJS/sheetjs: 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs](https://github.com/SheetJS/sheetjs)
+
+[AlaSQL/alasql: AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel.](https://github.com/alasql/alasql)
+
+streaming Excel reader
+[DaSpawn/xlsx-stream-reader: Memory efficinet minimalist non-blocking/event based streaming XLSX reader](https://github.com/daspawn/xlsx-stream-reader)
+[Claviz/xlstream: Turns XLSX into a readable stream.](https://github.com/Claviz/xlstream)
+[riddheshganatra/excel-stream](https://github.com/riddheshganatra/excel-stream)
 
 ### Excel (Pandas)
 

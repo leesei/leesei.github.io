@@ -2,7 +2,7 @@
 title: Pixar Universe
 description: ""
 created: 2016-04-17
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - anime
   - pixar
@@ -19,9 +19,11 @@ tags:
 [Pixar in a Box | Partner content | Khan Academy](https://www.khanacademy.org/partner-content/pixar)
 [How Pixar's Movement Animation Became So Realistic | Movies Insider - YouTube](https://www.youtube.com/watch?v=QbhsMLD9Hb0)
 
+[皮克斯電影怎麼愈來愈難看? 真的只能怪政治正確? | 超粒方 | 腦筋急轉彎2 | Fall of Pixar - YouTube](https://www.youtube.com/watch?v=p5DdmnP_ysU)
+
 ## Pixar Universe
 
-[The Pixar universe - Wikiwand](https://www.wikiwand.com/en/The_Pixar_universe)
+[The Pixar universe - Wikiwand](https://omni.wikiwand.com/en/The_Pixar_universe)
 
 [The Pixar Theory – Jon Negroni](https://jonnegroni.com/2013/07/11/the-pixar-theory/) connects all the Pixar movies in the same universe
 [The Pixar Theory, Part 2: ‘Inside Out’ – Jon Negroni](https://jonnegroni.com/2015/06/25/the-pixar-theory-part-2/)

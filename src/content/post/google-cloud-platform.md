@@ -2,7 +2,7 @@
 title: Google Cloud Platform
 description: ""
 created: 2017-02-11
-updated: 2023-09-29
+updated: 2024-09-28
 tags:
   - gcp
   - google
@@ -140,7 +140,7 @@ Google bought Firebase in 2014 and migrated its Google Cloud Messaging to Fireba
 Also provides static hosting and FaaS.
 
 [Firebase](https://firebase.google.com/)
-[Firebase - Wikiwand](http://www.wikiwand.com/en/Firebase)
+[Firebase - Wikiwand](http://omni.wikiwand.com/en/Firebase)
 [Firebase Products](https://firebase.google.com/products-build)
 [Firebase Authentication | Simple, free multi-platform sign-in](https://firebase.google.com/products/auth)
 [Firebase Realtime Database | Store and sync data in real time](https://firebase.google.com/products/realtime-database/)
@@ -163,6 +163,13 @@ Also provides static hosting and FaaS.
 
 [Building a Real-Time Chat App with React and Firebase | CSS-Tricks](https://css-tricks.com/building-a-real-time-chat-app-with-react-and-firebase/)
 [Getting started with react-redux-firebase - LogRocket Blog](https://blog.logrocket.com/getting-started-react-redux-firebase/)
+
+### Vulnerability
+
+[0xbigshaq/firepwn-tool: Firepwn is a tool made for testing the Security Rules of a firebase application.](https://github.com/0xbigshaq/firepwn-tool/)
+[how we owned almost all of america's fast food chains - eva's site](https://kibty.town/blog/chattr/)
+[gaining access to anyones browser without them even visiting a website - eva's site](https://kibty.town/blog/arc/)
+[This browser exploit could have ruined my life... - YouTube](https://www.youtube.com/watch?v=d0PyfYpD4bw)
 
 ### FireStore
 

@@ -2,7 +2,7 @@
 title: Earphone Owned
 description: ""
 created: 2023-06-15
-updated: 2023-09-29
+updated: 2024-09-08
 tags:
   - bluetooth
   - comp/hardware
@@ -40,22 +40,28 @@ S/N Ratio:
 
 # True Wireless (TWS)
 
-## 楠思 SN-02
+## 楠思 SN-02 (s90)
 
 Driver: 13mm
-Impedance:
+Impedance: 32ohm
 Sensitivity:
 S/N Ratio:
-Profiles: Bluetooth 5.3;
+Profiles: Bluetooth 5.3; A2DP, AVCTP, AVDTP, AVRCP, HFP, SPP, SMP, ATT, GAP, GATT, RFCCOMM, SDP, L2CAP
 IPX7
 双动圈
 
 [2023 新款蓝牙耳机真无线入耳式降噪正品游戏电竞适用华为苹果小米-tmall.com 天猫](https://detail.tmall.com/item.htm?id=708020605855) ¥35.16@2023-06
 [2023 新款蓝牙耳机真无线入耳式降噪正品游戏电竞适用华为苹果小米](https://buyertrade.taobao.com/trade/detail/tradeSnap.htm?spm=a1z09.2.0.0.21a12e8dyfFsqU&tradeID=1911777134465144593&snapShot=true)
 
-## MPOW X3
+## Letscom T19 ANC (T19)
 
-Press and hold right bud to toggle ANC
+Press and hold right bud for 2 seconds to toggle ANC
+
+Driver:
+Impedance:
+Sensitivity:
+S/N Ratio:
+Profiles: Bluetooth 5.0; AD2P, AVRCP, HFP, HSP
 IPX8
 
 BES2300
@@ -120,7 +126,9 @@ Battery: 43mAh; 300mAh case
 
 [无线运动蓝牙耳机跑步入耳式双耳耳塞颈挂脖式 mp3 一体适用手机小米苹果华为安卓通用高音质女男耳麦超长待机-tmall.com 天猫](https://detail.tmall.com/item.htm?id=587067274841) ¥59.9@2020-01, ¥69.9@2019-04
 
-## 小米降噪项圈蓝牙耳机 (Mi Bluetooth Neckband Earphones ANC)
+## ~~小米降噪项圈蓝牙耳机 (Mi Bluetooth Neckband Earphones ANC)~~
+
+> out of production
 
 Driver: 12mm
 Impedance:
@@ -149,6 +157,9 @@ Specialized App
 [小米蓝牙耳机项圈耳机运动跑步入耳式挂脖式降噪无线篮牙耳塞-tmall.com 天猫](https://detail.tmall.com/item.htm?id=718210075437&skuId=5006880840770) ¥99 青春版, no ANC
 
 ## realme Buds Wireless 2
+
+> turn on by splitting the buds
+> out of production
 
 Driver: 13.6mm
 Impedance:

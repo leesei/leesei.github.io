@@ -2,7 +2,7 @@
 title: UI Automation
 description: ""
 created: 2023-02-16
-updated: 2023-09-29
+updated: 2024-07-03
 tags:
   - app
   - automation
@@ -15,6 +15,9 @@ tags:
 
 [[autohotkey]] Windows
 [[autoit]] Windows
+[[trackball#Linux X settings]]
+
+[X-Mouse Button Control](https://www.highrez.co.uk/downloads/xmousebuttoncontrol.htm)
 
 [go-vgo/robotgo: RobotGo, Go Native cross-platform GUI automation @vcaesar](https://github.com/go-vgo/robotgo)
 

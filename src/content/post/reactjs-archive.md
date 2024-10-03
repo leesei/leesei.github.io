@@ -2,7 +2,7 @@
 title: React.js (Archives)
 description: Archived React.js notes
 created: 2023-03-21
-updated: 2023-11-10
+updated: 2024-01-09
 tags:
   - archived
   - frontend
@@ -120,10 +120,13 @@ Syntax for defining React Component:
 ### TanStack Router
 
 > was React Location
+> extensions helps to generate file-based routing
 
 [TanStack Router | React Router, Solid Router, Svelte Router, Vue Router](https://tanstack.com/router/v1)
 [Comparison | TanStack Router vs React Router | TanStack Router Docs](https://tanstack.com/router/v1/docs/comparison)
 [What Is TanStack Router And Why I Love It - YouTube](https://www.youtube.com/watch?v=OwoZtv6u9p4)
+
+[I Waited 3 Years For This Router. It STILL Blew My Mind. - YouTube](https://www.youtube.com/watch?v=DrP8gIpwkUg)
 
 ### Reach Router
 

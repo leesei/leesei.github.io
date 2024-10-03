@@ -2,7 +2,7 @@
 title: Hexo
 description: ""
 created: 2014-12-09
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - app
   - hexo

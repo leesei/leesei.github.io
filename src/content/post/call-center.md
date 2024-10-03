@@ -2,7 +2,7 @@
 title: Call center
 description: ""
 created: 2018-07-17
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - bank
   - hotline

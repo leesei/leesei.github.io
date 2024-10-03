@@ -2,7 +2,7 @@
 title: SQL Snippets
 description: ""
 created: 2021-05-24
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - comp/lang
   - mysql

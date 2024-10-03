@@ -2,7 +2,7 @@
 title: Git notes
 description: Git is a content addressable file system
 created: 2014-12-11
-updated: 2023-11-29
+updated: 2024-08-14
 tags:
   - app
   - git
@@ -29,8 +29,10 @@ tags:
 [[Linux.conf.au 2013] - Git For Ages 4 And Up - YouTube](https://www.youtube.com/watch?v=1ffBJ4sVUb4)
 [The Biggest Misconception About Git – David Gohberg – Medium](https://medium.com/@gohberg/the-biggest-misconception-about-git-b2f87d97ed52)
 [History of Git | Hackaday](https://hackaday.com/2017/05/11/history-of-git/)
-[git - the simple guide - no deep shit!](https://rogerdudler.github.io/git-guide/)
 
+[Git Guide · GitHub](https://github.com/git-guides)
+[GitHub Skills](https://skills.github.com/)
+[git - the simple guide - no deep shit!](https://rogerdudler.github.io/git-guide/)
 [Opinionated Git](http://opinionatedgit.com/)
 [Coding Career Advice: Using Git for Version Control Effectively · Mark's Dev Blog](https://blog.isquaredsoftware.com/2021/01/coding-career-git-usage/) ❗!important
 
@@ -116,6 +118,9 @@ You can always check reflog to restore commit no matter how you messed with your
 
 [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
 
+[A Guide To Undoing Mistakes With Git (Part 1) — Smashing Magazine](https://www.smashingmagazine.com/2021/05/undoing-mistakes-git-part1/)
+[A Guide To Undoing Mistakes With Git (Part 2) — Smashing Magazine](https://www.smashingmagazine.com/2021/05/undoing-mistakes-git-part2/)
+
 [First Aid git](https://firstaidgit.spielmannspiel.com/#/)
 [First Aid Kit for Git | Learn Version Control with Git](https://www.git-tower.com/learn/git/first-aid-kit/)
 [Dangit, git!](https://dangitgit.com/)
@@ -130,7 +135,7 @@ You can always check reflog to restore commit no matter how you messed with your
 ## Commentaries/Internals
 
 [Git - Plumbing and Porcelain](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain)
-[Merkle tree - Wikiwand](https://www.wikiwand.com/en/Merkle_tree)
+[Merkle tree - Wikiwand](https://omni.wikiwand.com/en/Merkle_tree)
 [The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
 [Plastic SCM blog: Linus Torvalds on GIT and SCM](http://codicesoftware.blogspot.com/2007/05/linus-torvalds-on-git-and-scm.html)
 
@@ -351,9 +356,6 @@ May need [puppetlabs/showoff](https://github.com/puppetlabs/showoff)
 
 `GIT_SSL_NO_VERIFY=true git clone https://url`
 
-[A Guide To Undoing Mistakes With Git (Part 1) — Smashing Magazine](https://www.smashingmagazine.com/2021/05/undoing-mistakes-git-part1/)
-[A Guide To Undoing Mistakes With Git (Part 2) — Smashing Magazine](https://www.smashingmagazine.com/2021/05/undoing-mistakes-git-part2/)
-
 [Presentations: Using Git Effectively · Mark's Dev Blog](https://blog.isquaredsoftware.com/2021/05/presentations-using-git-effectively/)
 
 [tryexceptpass - Episode 6 - Underused Git Commands that Simplify Your Life](https://tryexceptpass.org/podcast/ep6-underused-git-commands/)
@@ -427,6 +429,7 @@ Adds `git su` subcommand to set user from `~/.gitsu`.
 
 ```sh
 # amend last commit
+git commit --amend --reset-author --no-edit
 git commit --amend --author "New Author <new@email>"
 ```
 
@@ -688,11 +691,15 @@ git reflog expire --expire-unreachable=now --all git gc --prune=now
 
 ## worktree
 
-> local fork with merge helpers
+> local fork with merge helpers, starts from bare checkout
 
 [Git - git-worktree Documentation](https://git-scm.com/docs/git-worktree)
 [Using multiple working trees in Git - DEV Community 👩‍💻👨‍💻](https://dev.to/oliverjumpertz/using-multiple-working-trees-in-git-122d)
 [Experiment on your code freely with Git worktree | Opensource.com](https://opensource.com/article/21/4/git-worktree)
+
+[Git's Best And Most Unknown Feature - YouTube](https://www.youtube.com/watch?v=2uEqYw-N8uE)
+[How to Use Git Worktree | Checkout Multiple Git Branches at Once - YouTube](https://www.youtube.com/watch?v=s4BTvj1ZVLM)
+[I was wrong about git stash... - YouTube](https://www.youtube.com/watch?v=ntM7utSjeVU)
 
 ## Get current branch
 

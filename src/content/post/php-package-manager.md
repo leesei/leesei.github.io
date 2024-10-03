@@ -2,7 +2,7 @@
 title: PHP Package Manager
 description: ""
 created: 2023-03-27
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - comp/lang
   - php
@@ -13,7 +13,7 @@ tags:
 [Composer](https://getcomposer.org/) 2012, inspired by `npm`, with `composer.json` and per-project `./vendor/`
 [Composer Docs](https://getcomposer.org/doc/)
 [jakoch/awesome-composer: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.](https://github.com/jakoch/awesome-composer)
-[Composer (software) - Wikiwand](<https://www.wikiwand.com/en/Composer_(software)>)
+[Composer (software) - Wikiwand](<https://omni.wikiwand.com/en/Composer_(software)>)
 [How to Install and Use PHP Composer on Linux Distributions](https://www.ubuntupit.com/how-to-install-and-use-php-composer-on-linux-distributions/)
 
 ```json
@@ -68,4 +68,4 @@ require __DIR__ . "/vendor/autoload.php";
 > obsolete
 
 [PEAR - PHP Extension and Application Repository](https://pear.php.net/) 1999, global `pear/`
-[PEAR - Wikiwand](https://www.wikiwand.com/en/PEAR)
+[PEAR - Wikiwand](https://omni.wikiwand.com/en/PEAR)

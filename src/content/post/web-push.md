@@ -1,166 +1,22 @@
 ---
 title: Web Push Technologies
 description: ""
-created: 2019-03-04
-updated: 2023-11-16
+created: 2024-03-12
+updated: 2024-09-07
 tags:
   - server-send-event
   - web
-  - web-socket
 ---
 
-[Push technology - Wikiwand](https://www.wikiwand.com/en/Push_technology#/Long_polling)
+[Push technology - Wikiwand](https://omni.wikiwand.com/en/Push_technology#/Long_polling)
 [php - What are Long-Polling, Websockets, Server-Sent Events (SSE) and Comet? - Stack Overflow](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
 
 [Webhooks vs Websockets vs HTTP Streaming - Which Event-Driven API to use? - YouTube](https://www.youtube.com/watch?v=6RvlKYgRFYQ)
+[HTTP Polling vs SSE vs WebSocket vs WebHooks - YouTube](https://www.youtube.com/watch?v=JQoPuXAf92U)
 
-[[rpc#gRPC]]
-
----
-
-# Web Socket
-
-A persistent connection between the client and the server and both parties can start sending data at any time.
-
-[[feathersjs]]
-[[go-lang#Iris]]
-
-[websocket.org - Powered by Kaazing](https://www.websocket.org/)
-[HTML5 WebSocket - A Quantum Leap in Scalability for the Web](http://websocket.org/quantum.html)
-[About HTML5 WebSocket - Powered by Kaazing](https://www.websocket.org/aboutwebsocket.html)
-[HTML5 WebSocket - A Quantum Leap in Scalability for the Web](https://websocket.org/quantum.html)
-
-[WebSockets - YouTube](https://www.youtube.com/playlist?list=PLQnljOFTspQUGjfGdg8UvL3D_K9ACL6Qh) Hussein Nasser
-
-[WebSockets - A Conceptual Deep Dive | Ably Realtime](https://ably.com/topic/websockets)
-
-[RFC 6455 - The WebSocket Protocol](https://datatracker.ietf.org/doc/html/rfc6455)
-[WebSockets - A Conceptual Deep-Dive | Ably Realtime](https://www.ably.io/concepts/websockets)
-[WebSockets - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
-[Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/#feat=websockets)
-
-[facundofarias/awesome-websockets: A curated list of Websocket libraries and resources.](https://github.com/facundofarias/awesome-websockets)
-[Introduction to WebSockets](https://flaviocopes.com/websockets/)
-[Introducing WebSockets: Bringing Sockets to the Web - HTML5 Rocks](https://www.html5rocks.com/en/tutorials/websockets/basics/)
-[An Introduction to WebSockets - Treehouse Blog](https://blog.teamtreehouse.com/an-introduction-to-websockets)
-[Developing Real-Time Web Applications with Server-Sent EventsButton - CloseLearn More](https://auth0.com/blog/developing-real-time-web-applications-with-server-sent-events/)
-[WebSockets for fun and profit - Stack Overflow Blog](https://stackoverflow.blog/2019/12/18/websockets-for-fun-and-profit/)
-
-[Using WebSockets in React - DEV Community 👩‍💻👨‍💻](https://dev.to/finallynero/using-websockets-in-react-4fkp)
-
-[NodeUp: fortytwo - a scaling websockets show](http://nodeup.com/fortytwo)
-
-## Kalm
-
-[Kalm - The socket manager](http://kalm.js.org/)
-[kalm/kalm.js: The socket manager](https://github.com/kalm/kalm.js)
-
-## Socio
-
-[Rolands-Laucis/Socio: A WebSocket Real-Time Communication (RTC) API framework](https://github.com/Rolands-Laucis/Socio)
-
-## Server
-
-> Bun and Node.js has built-in support
-
-[8 Node.js Web Socket Libraries For 2018 – Bits and Pieces](https://blog.bitsrc.io/8-node-js-web-socket-libraries-for-2018-818e7e5b67cf)
-
-[websockets/ws: Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js](https://github.com/websockets/ws)
-[WebSockets tutorial: How to go real-time with Node and React - LogRocket Blog](https://blog.logrocket.com/websocket-tutorial-real-time-node-react/)
-
-[uNetworking/uWebSockets: Simple, secure & standards compliant web server for the most demanding of applications](https://github.com/uNetworking/uWebSockets) C/C++, different bindings ❗!important
-[uNetworking/uWebSockets.js: TypeScript web server - 15x faster than Deno](https://github.com/uNetworking/uWebSockets.js)
-[The story of “uws” so far. µWebSockets (“uws”) is an open source… | by uNetworking AB | Medium](https://unetworkingab.medium.com/the-story-of-uws-so-far-493ac0c05ccb)
-
-[soketi/soketi: Just another simple, fast, and resilient open-source WebSockets server. 📣](https://github.com/soketi/soketi)
-[primus/primus: Primus, the creator god of the transformers & an abstraction layer for real-time to prevent module lock-in.](https://github.com/primus/primus)
-[hugmanrique/turbo-ws: Blazing fast low-level WebSocket server](https://github.com/hugmanrique/turbo-ws)
-[faye/faye-websocket-node: Standards-compliant WebSocket client and server](https://github.com/faye/faye-websocket-node)
-
-[kataras/neffos: A modern, fast and scalable websocket framework with elegant API written in Go](https://github.com/kataras/neffos)
-
-[Implementing a WebSocket Server with Node.js – Hacker Noon](https://hackernoon.com/implementing-a-websocket-server-with-node-js-d9b78ec5ffa8) from scratch
-[Node.js & WebSocket — Simple chat tutorial – Martin Sikora – Medium](https://medium.com/@martin.sikora/node-js-websocket-simple-chat-tutorial-2def3a841b61)
-[Building a chat application with Spring Boot and WebSocket | CalliCoder](https://www.callicoder.com/spring-boot-websocket-chat-example/)
-
-## HTTP server integration
-
-```js
-const server = new Hapi.Server();
-const app = require("http").createServer(handler);
-// `server.listener` is equivalent to `app`
-```
-
-## WAMP
-
-[Web Application Messaging Protocol - Wikiwand](https://www.wikiwand.com/en/Web_Application_Messaging_Protocol) MessagePack/JSON over WebSocket
-[The Web Application Messaging Protocol — Web Application Messaging Protocol version 2 documentation](https://wamp-proto.org/)
-
-[Introduction to WAMP, a protocol enabling PUB/SUB and RPC over Websoc…](https://www.slideshare.net/sametmax/intro-wamp)
-
-[Crossbar.io](https://crossbar.io/) Server
-[Crossbar.io - autobahn](https://crossbar.io/autobahn/) Client
-
-## Socket.io
-
-> avoid, old code, inefficient and memory leak
-
-[Socket.IO](https://socket.io/)
-[WebSocket and Socket.IO](https://davidwalsh.name/websocket)
-[Beyond REST: Using WebSockets for two-way communication in your React app](https://blog.logrocket.com/beyond-rest-using-websockets-for-two-way-communication-in-your-react-app-884eff6655f5)
-[Using hapi.js with Socket.io](http://matt-harrison.com/using-hapi-js-with-socket-io/)
-[WebSocket + Node.js + Express — Step by step using Typescript](https://medium.com/factory-mind/websocket-node-js-express-step-by-step-using-typescript-725114ad5fe4)
-
-[Node.js: Better Performance With Socket.IO and doT](https://code.tutsplus.com/tutorials/nodejs-better-performance-with-socketio-and-dot--net-35076)
-[Understanding Socket.IO - NodeSource](https://nodesource.com/blog/understanding-socketio)
-[StrongLoop - Real-time Engines in Node.js](https://strongloop.com/strongblog/real-time-engines-in-node-js/)
-[Adding Socket.io to multi-threaded Node.js](https://www.freecodecamp.org/news/how-to-add-socket-io-to-multi-threaded-node-js-df404b424276)
-[Understanding the basics of Socket.io - DEV Community 👩‍💻👨‍💻](https://dev.to/uf4no/understanding-the-basics-of-socket-io-3a0e)
-
-[WebSockets in 100 Seconds & Beyond with Socket.io - YouTube](https://www.youtube.com/watch?v=1BfCnjr_Vjg)
-[Realtime Chat With Users & Rooms - Socket.io, Node & Express - YouTube](https://www.youtube.com/watch?v=jD7FnbI76Hg)
-
-### On the contrary
-
-[Why you don’t need Socket.IO – codeburst](https://codeburst.io/why-you-don-t-need-socket-io-6848f1c871cd) 2016
-[node.js - Differences between socket.io and websockets - Stack Overflow](https://stackoverflow.com/questions/10112178/differences-between-socket-io-and-websockets/38558531#38558531)
-
-## Sock.js
-
-> avoid, fallback no longer needed
-
-[sockjs/sockjs-client: WebSocket emulation - Javascript client](https://github.com/sockjs/sockjs-client)
-[sockjs/sockjs-node: WebSocket emulation - Node.js server](https://github.com/sockjs/sockjs-node)
-[substack/shoe: streaming sockjs for node and the browser](https://github.com/substack/shoe)
-
-[WebSockets in React, the component way! – Practo Engineering – Medium](https://medium.com/practo-engineering/websockets-in-react-the-component-way-368730334eef)
-
-## Authentication
-
-[javascript - Web Socket connection with Basic Access Authentication - Stack Overflow](https://stackoverflow.com/questions/46998781/web-socket-connection-with-basic-access-authentication)
-[Securing WebSocket using wss and HTTPS/TLS (Tech Tip #50)](http://blog.arungupta.me/securing-websocket-wss-https-tls-techtip50/)
-[Securing WebSockets using Username/Password and Servlet Security (Tech Tip #49)](http://blog.arungupta.me/securing-websockets-username-password-servlet-security-techtip49/)
-
-## Scaling
-
-[SocketCluster](https://socketcluster.io/#!/) scalable server implementation
-[observing/balancerbattle: WebSocket loadbalancer battle](https://github.com/observing/balancerbattle)
-
-[ClusterWS](https://clusterws.github.io/)
-[ClusterWS/ClusterWS: Lightweight, fast and powerful framework for building scalable WebSocket applications in Node.js.](https://github.com/ClusterWS/ClusterWS)
-
-[Scaling WebSockets – Hacker Noon](https://hackernoon.com/scaling-websockets-9a31497af051)
-[Scaling Node.js Socket Server with Nginx and Redis | Jscrambler Blog](https://blog.jscrambler.com/scaling-node-js-socket-server-with-nginx-and-redis/)
-[Horizontally Scaling Node.js and WebSockets with Redis - GoldFire Studios](https://goldfirestudios.com/blog/136/Horizontally-Scaling-Node.js-and-WebSockets-with-Redis)
-[Load Balancing Websocket Connections](https://deepstreamhub.com/blog/load-balancing-websocket-connections/)
-
-[Websockets and scalability - Stack Overflow](https://stackoverflow.com/questions/47268038/websockets-and-scalability)
-[node.js - Load balancing sockets on a horizontally scaling WebSocket server? - Stack Overflow](https://stackoverflow.com/questions/47321335/load-balancing-sockets-on-a-horizontally-scaling-websocket-server)
-
-### Session Persistence
-
-[Enforcing a single web socket connection per user with Node.js, Socket.IO, and Redis](https://hackernoon.com/enforcing-a-single-web-socket-connection-per-user-with-node-js-socket-io-and-redis-65f9eb57f66a)
-[Distributed locks with Redis – Redis](https://redis.io/topics/distlock)
+[[grpc]]
+[[web-socket]]
+[[web-rtc]]
 
 ---
 
@@ -189,7 +45,7 @@ Turns into an unthrottled, continuous loop of immediate polls.
 ## Streaming
 
 Server not completing response
-Intermediatries may buffer response leading to high latency
+Intermediaries may buffer response leading to high latency
 
 ---
 
@@ -197,11 +53,11 @@ Intermediatries may buffer response leading to high latency
 
 [Server-sent events - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
 [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/#feat=eventsource)
-[Server-sent events - Wikiwand](https://www.wikiwand.com/en/Server-sent_events)
+[Server-sent events - Wikiwand](https://omni.wikiwand.com/en/Server-sent_events)
 
 [Server-Sent Events Crash Course - YouTube](https://www.youtube.com/watch?v=4HlNv1qpZFY)
 
-[Stream Updates with Server-Sent Events - HTML5 Rocks](https://www.html5rocks.com/en/tutorials/eventsource/basics/)
+[Stream Updates with Server-Sent Events  |  Articles  |  web.dev](https://web.dev/articles/eventsource-basics)
 [A Look at Server-Sent Events – Conectric Networks – Medium](https://medium.com/conectric-networks/a-look-at-server-sent-events-54a77f8d6ff7)
 [Using SSE Instead Of WebSockets For Unidirectional Data Flow Over HTTP/2 — Smashing Magazine](https://www.smashingmagazine.com/2018/02/sse-websockets-data-flow-http2/)
 [Using Server-Sent Events in Node.js to Build a Realtime App ← Alligator.io](https://alligator.io/nodejs/server-sent-events-build-realtime-app/)
@@ -230,12 +86,17 @@ Intermediatries may buffer response leading to high latency
 
 [Open Source Push Notifications! Get notified of any event you can imagine. Triggers abound! - YouTube](https://www.youtube.com/watch?v=WJgwWXt79pE)
 
-## Notifire
+## Native Notify
 
-[Notifire - Notification management simplified.](https://www.notifire.co/)
-[notifirehq/notifire: 🚀 Open-source notification infrastructure for products](https://github.com/notifirehq/notifire)
+> free up to 10 push notification subscriber
 
-[Building the first open-source notification infrastructure - DEV Community](https://dev.to/scopsy/building-the-first-open-source-notification-infrastructure-5h9k)
+[Push Notifications Made Simple | React Native Expo | Flutter | Native Notify](https://nativenotify.com/)
+
+## OneSignal
+
+> 10,000/mth Free Email Sends, Unlimited Mobile Push Sends
+
+[Push Notification Software to Improve Customer Engagement - OneSignal](https://onesignal.com/)
 
 ## Webhooks
 
@@ -250,7 +111,7 @@ Intermediatries may buffer response leading to high latency
 
 # WebSub
 
-[WebSub - Wikiwand](https://www.wikiwand.com/en/WebSub) formerly PubSubHubbub
+[WebSub - Wikiwand](https://omni.wikiwand.com/en/WebSub) formerly PubSubHubbub
 [PubSubHubbub](https://github.com/pubsubhubbub)
 
 ---

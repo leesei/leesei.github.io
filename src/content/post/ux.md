@@ -2,7 +2,7 @@
 title: User Experience (UX)
 description: ""
 created: 2015-06-25
-updated: 2023-11-10
+updated: 2024-08-19
 tags:
   - ui
   - ux
@@ -36,6 +36,7 @@ tags:
 [FAQ: Tips and tools for getting started in user experience design (aka UX) – Google Design – Medium](https://medium.com/google-design/faq-tips-and-tools-for-getting-started-in-user-experience-design-aka-ux-f46406729d4d#.lclbngscb)
 [6 usability testing methods that will improve your software | InfoWorld](https://www.infoworld.com/article/3290253/application-development/6-usability-testing-methods-that-will-improve-your-software.html)
 [10 Behavior Patterns for UX Design | by Danny Sapio | UX Collective](https://uxdesign.cc/10-essential-cognitive-behavior-patterns-for-ux-design-7f0cc2e00d31)
+[The 10 Best YouTube Channels to Learn Graphic Design](https://www.makeuseof.com/youtube-channels-learn-graphic-design/)
 
 [設計必備資源總匯 - 奧革設計](http://resources.ogdesign.tw/)
 [網站設計 Archives - myCAD](http://blog.clifftechnologies.com.tw/category/web-design/)
@@ -135,10 +136,12 @@ Most Advanced. Yet Acceptable.
 
 ### Gestalt Principles
 
-[Gestalt psychology - Wikiwand](https://www.wikiwand.com/en/Gestalt_psychology)
+[Gestalt psychology - Wikiwand](https://omni.wikiwand.com/en/Gestalt_psychology)
 [The Gestalt Principles](http://graphicdesign.spokanefalls.edu/tutorials/process/gestaltprinciples/gestaltprinc.htm)
 [Gestalt-Driven UX: The Patterns That Drive Our World](https://hackernoon.com/design-psychology-gestalt-driven-ux-64ac01cd257a)
 [7 Gestalt Principles of Visual Perception | UserTesting Blog](https://www.usertesting.com/blog/gestalt-principles/)
+
+[How To Not Suck At Design For Developers - YouTube](https://www.youtube.com/watch?v=YNOwO5s4AL8)
 
 ### Fitts's Law
 
@@ -173,7 +176,7 @@ Most Advanced. Yet Acceptable.
 ## Fluent Design System
 
 [Microsoft Design](https://www.microsoft.com/design/fluent/)
-[Fluent Design System - Wikiwand](https://www.wikiwand.com/en/Fluent_Design_System)
+[Fluent Design System - Wikiwand](https://omni.wikiwand.com/en/Fluent_Design_System)
 
 [Design and code Windows apps - Windows apps | Microsoft Learn](https://learn.microsoft.com/en-us/windows/apps/design/)
 [Microsoft’s Fluent Design System threatens to make Windows look good | Ars Technica](https://arstechnica.com/information-technology/2017/05/taking-a-closer-look-at-microsofts-fluent-design-system/)
@@ -282,6 +285,8 @@ Most Advanced. Yet Acceptable.
 [Create Modern CSS Animations - OpenClassrooms](https://openclassrooms.com/en/courses/5625816-create-modern-css-animations)
 [Web animation process tutorial according to a motion designer. | Shakuro](https://shakuro.com/blog/web-animation-tutorial-from-shakuro-inspired-motion-designer)
 
+[CSSFX - Beautifully simple click-to-copy CSS effects](https://cssfx.netlify.app/) copy and paste CSS effects
+
 [I Will Never Write CSS Animations Again Without Using This Tool - YouTube](https://www.youtube.com/watch?v=w4J8sJpHKvw) DevTool
 [CSS transitions and hover animations, an interactive guide](https://www.joshwcomeau.com/animation/css-transitions/)
 [An Interactive Guide to CSS Keyframe Animations with @keyframes](https://www.joshwcomeau.com/animation/keyframe-animations/)
@@ -324,6 +329,7 @@ Cross platform runtime
 
 [Web Animations API Explained | Hacker Noon](https://hackernoon.com/web-animations-api-explained-3xw3y8q)
 [Web Animations API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API)
+[Motion Design for the Web | FREE COURSE - YouTube](https://www.youtube.com/watch?v=vqXLGX0szIQ)
 
 [Orchestrating Complexity With Web Animations API — Smashing Magazine](https://www.smashingmagazine.com/2021/09/orchestrating-complexity-web-animations-api/)
 [Web animations api | Dan Wilson](https://danielcwilson.com/tags/web-animations-api/)
@@ -404,12 +410,12 @@ Cross platform runtime
 
 ## Internationalization (i18n) and Localization (l10n)
 
-[Internationalization and localization - Wikiwand](https://www.wikiwand.com/en/Internationalization_and_localization)
+[Internationalization and localization - Wikiwand](https://omni.wikiwand.com/en/Internationalization_and_localization)
 
 A locale is usually defined by `{lang}_{country}` where `lang` is a two-letter language code (ISO 639-1), `country` is two-letter upper-case country code (ISO 3166-1 alpha-2)
 
 [[learn-to-code#Country Code]]
-[ISO 639-1 - Wikiwand](https://www.wikiwand.com/en/ISO_639-1) two-letter language code
+[ISO 639-1 - Wikiwand](https://omni.wikiwand.com/en/ISO_639-1) two-letter language code
 
 [Internationalis(z)ing Code - Computerphile - YouTube](https://www.youtube.com/watch?v=0j74jcxSunY)
 [Internationalization (I18n): A Simple Definition - DZone Java](https://dzone.com/articles/internationalization-i18n-a-simple-definition?fromrel=true)
@@ -437,7 +443,7 @@ A locale is usually defined by `{lang}_{country}` where `lang` is a two-letter l
 
 [UTS #35: Unicode Locale Data Markup Language](https://www.unicode.org/reports/tr35/tr35-59/tr35.html)
 
-[IETF language tag - Wikiwand](https://www.wikiwand.com/en/IETF_language_tag)
+[IETF language tag - Wikiwand](https://omni.wikiwand.com/en/IETF_language_tag)
 [https://tools.ietf.org/rfc/bcp/bcp47.txt](https://tools.ietf.org/rfc/bcp/bcp47.txt)
 BCP 47 = RFC 5646 + RFC 4647
 "en", "en-US", "zh", "zh-Hans", "zh-Hant"
@@ -449,7 +455,7 @@ BCP 47 = RFC 5646 + RFC 4647
 
 ### Gettext
 
-[Gettext - Wikiwand](https://www.wikiwand.com/en/Gettext)
+[Gettext - Wikiwand](https://omni.wikiwand.com/en/Gettext)
 
 [GNU gettext utilities](https://www.gnu.org/software/gettext/manual/gettext.html)
 [xgettext Invocation (GNU gettext utilities)](https://www.gnu.org/savannah-checkouts/gnu/gettext/manual/html_node/xgettext-Invocation.html)
@@ -483,6 +489,8 @@ BCP 47 = RFC 5646 + RFC 4647
 [Functions to Add ARIA to Tables and Lists — Adrian Roselli](https://adrianroselli.com/2018/05/functions-to-add-aria-to-tables-and-lists.html)
 
 [Inaccessibility of CAPTCHA](https://www.w3.org/TR/turingtest/)
+
+[APCA Contrast Calculator](https://www.myndex.com/APCA/) Color
 
 [Solving the CSS layout and source order disconnect - Chrome Developers](https://developer.chrome.com/blog/reading-order/)
 

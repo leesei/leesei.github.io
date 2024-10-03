@@ -2,7 +2,7 @@
 title: Prisma
 description: ""
 created: 2023-03-08
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - comp/database
   - nodejs

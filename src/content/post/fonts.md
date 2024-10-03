@@ -2,7 +2,7 @@
 title: Fonts
 description: ""
 created: 2016-04-23
-updated: 2023-11-15
+updated: 2024-09-29
 tags:
   - comp
   - comp/lang
@@ -22,11 +22,13 @@ tags:
 
 [The Making (and Potential Benefits) of a CSS Font | CSS-Tricks](https://css-tricks.com/the-making-and-potential-benefits-of-a-css-font/)
 
+[Linus Boman - YouTube](https://www.youtube.com/linusboman) fonts and designs
+
 ## Typesetting and Font History
 
 [[latex#PostScript]]
 
-[Phototypesetting - Wikiwand](https://www.wikiwand.com/en/Phototypesetting)
+[Phototypesetting - Wikiwand](https://omni.wikiwand.com/en/Phototypesetting)
 [The Great 202 Jailbreak - Computerphile - YouTube](https://www.youtube.com/watch?v=CVxeuwlvf8w) typesetting
 
 [The Font Magicians - Computerphile - YouTube](https://www.youtube.com/watch?v=jAdspOtgciQ) laser printer, font rasterization
@@ -37,6 +39,7 @@ tags:
 baseline, descenders (`j`, `p`), line height, kerning
 [Text Rendering Hates You - Faultlore](https://faultlore.com/blah/text-hates-you/)
 [The Math Behind Font Rasterization | How it Works - YouTube](https://www.youtube.com/watch?v=LaYPoMPRSlk)
+[Coding Adventure: Rendering Text - YouTube](https://www.youtube.com/watch?v=SO83KQuuZvg) parsing `.ttf`, render glyphs
 
 [HarfBuzz Manual: HarfBuzz Manual](https://harfbuzz.github.io/) when character's shape depends on its neighbor
 [harfbuzz/harfbuzz: HarfBuzz text shaping engine](https://github.com/harfbuzz/harfbuzz)
@@ -74,19 +77,19 @@ baseline, descenders (`j`, `p`), line height, kerning
 
 [字里有千秋，細數中國千年來的“神級書法”「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=TQ3zPsu-PvQ)
 [iT 自救術 ─ 關於中文字體 | iThome](http://www.ithome.com.tw/node/53591)
-[CJK 字型列表 - Wikiwand](https://www.wikiwand.com/zh-hant/CJK%E5%AD%97%E4%BD%93%E5%88%97%E8%A1%A8)
-[明體 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%AE%8B%E4%BD%93) 中陸稱宋體; 為制作活版印刷, 應木的天然紋理, 從楷體左低右高的斜橫，演變成直橫; 同時將豎筆加粗; 「橫細豎粗撇如刀，點如瓜子捺如掃」, 橫末帶有「小三角」
-[仿宋體 - Wikiwand](https://www.wikiwand.com/zh-hant/%E4%BB%BF%E5%AE%8B%E9%AB%94)
-[黑體 (字體) - Wikiwand](<https://www.wikiwand.com/zh-hant/%E9%BB%91%E4%BD%93_(%E5%AD%97%E4%BD%93)>)
-[楷書 - Wikiwand](https://www.wikiwand.com/zh-hant/%E6%A5%B7%E4%B9%A6)
-[圓體 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%9C%93%E9%AB%94)
+[CJK 字型列表 - Wikiwand](https://omni.wikiwand.com/zh/CJK%E5%AD%97%E4%BD%93%E5%88%97%E8%A1%A8)
+[明體 - Wikiwand](https://omni.wikiwand.com/zh/%E5%AE%8B%E4%BD%93) 中陸稱宋體; 為制作活版印刷, 應木的天然紋理, 從楷體左低右高的斜橫，演變成直橫; 同時將豎筆加粗; 「橫細豎粗撇如刀，點如瓜子捺如掃」, 橫末帶有「小三角」
+[仿宋體 - Wikiwand](https://omni.wikiwand.com/zh/%E4%BB%BF%E5%AE%8B%E9%AB%94)
+[黑體 (字體) - Wikiwand](<https://omni.wikiwand.com/zh/%E9%BB%91%E4%BD%93_(%E5%AD%97%E4%BD%93)>)
+[楷書 - Wikiwand](https://omni.wikiwand.com/zh/%E6%A5%B7%E4%B9%A6)
+[圓體 - Wikiwand](https://omni.wikiwand.com/zh/%E5%9C%93%E9%AB%94)
 
-[鳥蟲書 - Wikiwand](https://www.wikiwand.com/zh-hant/%E9%B3%A5%E8%9F%B2%E6%9B%B8)
-[篆書 - Wikiwand](https://www.wikiwand.com/zh-hk/%E7%AF%86%E4%B9%A6)
+[鳥蟲書 - Wikiwand](https://omni.wikiwand.com/zh/%E9%B3%A5%E8%9F%B2%E6%9B%B8)
+[篆書 - Wikiwand](https://omni.wikiwand.com/zh-hk/%E7%AF%86%E4%B9%A6)
 [篆体\_百度百科](https://baike.baidu.com/item/%E7%AF%86%E4%BD%93/8566500)
-[隸書 - Wikiwand](https://www.wikiwand.com/zh-hk/%E9%9A%B8%E6%9B%B8)
+[隸書 - Wikiwand](https://omni.wikiwand.com/zh-hk/%E9%9A%B8%E6%9B%B8)
 [隶书（汉字字体）\_百度百科](https://baike.baidu.com/item/%E9%9A%B6%E4%B9%A6/835864?fromModule=lemma_search-box)
-[隸變 - Wikiwand](https://www.wikiwand.com/zh-hant/%E9%9A%B8%E8%AE%8A)
+[隸變 - Wikiwand](https://omni.wikiwand.com/zh/%E9%9A%B8%E8%AE%8A)
 金文, 大篆為周時期官方字體
 小篆, 隸書為秦時期官方字體
 隸書為魏晋時期官方字體
@@ -103,14 +106,14 @@ baseline, descenders (`j`, `p`), line height, kerning
 [【霞鹜文楷 0.1 版已发布】 为 Klee 试制简化字（多图预警） — LXGW · 落霞与孤鹜齐飞，秋水共长天一色。](https://lxgw.github.io/2021/01/28/Klee-Simpchin/)
 [lxgw/LxgwWenKai: An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。](https://github.com/lxgw/LxgwWenKai)
 
-[漢字標準列表 - Wikiwand](https://www.wikiwand.com/zh-hant/%E6%BC%A2%E5%AD%97%E6%A8%99%E6%BA%96%E5%88%97%E8%A1%A8)
+[漢字標準列表 - Wikiwand](https://omni.wikiwand.com/zh/%E6%BC%A2%E5%AD%97%E6%A8%99%E6%BA%96%E5%88%97%E8%A1%A8)
 中港台漢字字符有各自標準
 
-[新字形](https://www.wikiwand.com/zh-hant/%E6%96%B0%E5%AD%97%E5%BD%A2) 為按照[印刷通用漢字字形表](https://www.wikiwand.com/zh-hant/%E5%8D%B0%E5%88%B7%E9%80%9A%E7%94%A8%E6%B1%89%E5%AD%97%E5%AD%97%E5%BD%A2%E8%A1%A8)規範的字體
-[舊字形 - Wikiwand](https://www.wikiwand.com/zh-hant/%E8%88%8A%E5%AD%97%E5%BD%A2)
+[新字形](https://omni.wikiwand.com/zh/%E6%96%B0%E5%AD%97%E5%BD%A2) 為按照[印刷通用漢字字形表](https://omni.wikiwand.com/zh/%E5%8D%B0%E5%88%B7%E9%80%9A%E7%94%A8%E6%B1%89%E5%AD%97%E5%AD%97%E5%BD%A2%E8%A1%A8)規範的字體
+[舊字形 - Wikiwand](https://omni.wikiwand.com/zh/%E8%88%8A%E5%AD%97%E5%BD%A2)
 
-[新字體 - Wikiwand](https://www.wikiwand.com/zh-hant/%E6%96%B0%E5%AD%97%E4%BD%93)
-[舊字體 - Wikiwand](https://www.wikiwand.com/zh-hant/%E8%88%8A%E5%AD%97%E9%AB%94)
+[新字體 - Wikiwand](https://omni.wikiwand.com/zh/%E6%96%B0%E5%AD%97%E4%BD%93)
+[舊字體 - Wikiwand](https://omni.wikiwand.com/zh/%E8%88%8A%E5%AD%97%E9%AB%94)
 
 [CSS 中英文排版大冒险 – 比特客栈的文艺复兴](https://bitinn.net/11207/)
 [網頁字體的一些事 – 要改的地方太多了，那就改天吧](https://blog.user.today/things-about-fonts/)
@@ -151,6 +154,10 @@ Extensions:
 [FontSpace: We love FREE fonts](http://www.fontspace.com/)
 [Handpicked free fonts for graphic designers with commercial-use licenses. | Font Squirrel](http://www.fontsquirrel.com/)
 [1001 Free Fonts - Download 31330 Fonts](http://www.1001freefonts.com/)
+[Font Monkey](https://www.fontmonkey.com/)
+[Free fonts - Download 64,724 fonts](https://www.fonts101.com/)
+[Download 10,000 Free Fonts | ShowFont.net](https://www.showfont.net/)
+[Windows Fonts | Windows Tools, Help & Guides](https://www.mintywhite.com/category/customize/fonts/)
 
 [Free Font Alternatives: The Ultimate Guide – Learn UI Design](https://learnui.design/blog/ultimate-guide-similar-fonts.html)
 
@@ -161,7 +168,7 @@ Extensions:
 [Should you self-host Google Fonts? | Tune The Web](https://www.tunetheweb.com/blog/should-you-self-host-google-fonts/)
 
 [Geist Font — Vercel](https://vercel.com/font)
-[GitHub - vercel/geist-font](https://github.com/vercel/geist-font)
+[vercel/geist-font](https://github.com/vercel/geist-font)
 
 [𝕭𝖊𝖆𝖚𝖙𝖎𝖋𝖚𝖑 𝕯𝖎𝖓𝖌𝖇𝖆𝖙𝖘](https://beautifuldingbats.com/hey-howd-you-do-that)
 [Sans Forgetica - RMIT](https://sansforgetica.rmit.edu.au/)
@@ -229,10 +236,6 @@ Extensions:
 [Nerd Fonts - Cheat Sheet](https://www.nerdfonts.com/cheat-sheet)
 [filamentgroup/grunticon: A mystical CSS icon solution.](https://github.com/filamentgroup/grunticon)
 
-[Font Awesome, the iconic font designed for Bootstrap](http://fontawesome.io/)
-[FortAwesome/react-fontawesome: Font Awesome 5 React component](https://github.com/FortAwesome/react-fontawesome)
-[Using Font Awesome 5 with React ― Scotch.io](https://scotch.io/tutorials/using-font-awesome-5-with-react)
-
 [React Icons](https://react-icons.github.io/react-icons/) ❗!important
 [Lucide | Lucide](https://lucide.dev/)❗!important, SVG, multiple frameworks, customize color
 
@@ -241,14 +244,19 @@ Extensions:
 [Iconify Types](https://docs.iconify.design/types/)
 [iconify/iconify: Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG framework, React, Vue and Svelte components!](https://github.com/iconify/iconify)
 
+[Font Awesome, the iconic font designed for Bootstrap](http://fontawesome.io/)
+[FortAwesome/react-fontawesome: Font Awesome 5 React component](https://github.com/FortAwesome/react-fontawesome)
+[Using Font Awesome 5 with React ― Scotch.io](https://scotch.io/tutorials/using-font-awesome-5-with-react)
+
 [Iconsax React](https://iconsax-react.pages.dev/)
+[hugeicons/hugeicons-react: 4,000+ Open Source Beautiful React Icons](https://github.com/hugeicons/hugeicons-react)
 [Fork Awesome, a fork of the iconic font and CSS toolkit](https://forkaweso.me/Fork-Awesome/)
 [Line Awesome — Free Beautiful Icon Font](https://icons8.com/line-awesome)
 [❍ IcoMoon - Icon Fonts Done Right](http://icomoon.io/)
 [Iconfont-阿里巴巴矢量图标库](http://www.iconfont.cn/)
 [Open Iconic, a free and open icon set](https://useiconic.com/open/)
 [Octicons](https://primer.style/octicons/)
-[Tabler Icons: over 2150 vector icons for web design](https://tabler-icons.io/)
+[Tabler Icons: over 2150 vector icons for web design](https://tabler-icons.io/) SVG, framework support as separate packages
 [Free and open-source SVG Icons - Flowbite](https://flowbite.com/icons/)
 [Typicons](http://typicons.com/)
 [icono | Pure CSS icons](http://saeedalipoor.github.io/icono/)
@@ -308,8 +316,20 @@ calligraphy into a font!
 
 ## Highway Font
 
-[Clearview (typeface) - Wikiwand](<https://www.wikiwand.com/en/Clearview_(typeface)>)
-[Highway Gothic - Wikiwand](https://www.wikiwand.com/en/Highway_Gothic)
+[Clearview (typeface) - Wikiwand](<https://omni.wikiwand.com/en/Clearview_(typeface)>)
+[Highway Gothic - Wikiwand](https://omni.wikiwand.com/en/Highway_Gothic)
+
+## Font Install
+
+### Windows
+
+[Which is the correct font folder? (I have duplicate fonts) - Microsoft Community](https://answers.microsoft.com/en-us/windows/forum/all/which-is-the-correct-font-folder-i-have-duplicate/625fc40c-96dc-493f-a652-fc7c0887ad6f)
+
+- System
+  `C:\Windows\Font`
+- User space
+  `%LOCALAPPDATA%\Microsoft\Windows\Fonts`
+  Clear registry key `HKEY_CURRENT_USER\Software\Microsoft\Windows NT\CurrentVersion\Fonts` and reboot when deleting fonts
 
 ## Tools
 
@@ -338,3 +358,8 @@ calligraphy into a font!
 [thegregorator/ttembed-js: Node module to remove embedding limitations from TrueType fonts](https://github.com/thegregorator/ttembed-js)
 
 [Secret Hotkey Opens Windows 10’s New Emoji Picker in Any App](https://www.howtogeek.com/351344/how-to-use-windows-10%E2%80%99s-new-emoji-picker-in-any-app/)
+
+### Font Manager
+
+[FontBase — a Free, Beautiful, and Fast Font Manager](https://fontba.se/)
+[Printer's Apprentice - A Font Manager for Windows 10, 8, & 7](http://www.loseyourmind.com/default.aspx)

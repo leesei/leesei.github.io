@@ -2,7 +2,7 @@
 title: WordPress Hosting
 description: ""
 created: 2021-07-07
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - app
   - dev/deploy

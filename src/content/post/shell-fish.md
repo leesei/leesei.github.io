@@ -2,7 +2,7 @@
 title: Fish shell
 description: ""
 created: 2016-02-18
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - fish-shell
   - fisher
@@ -30,7 +30,7 @@ Use [Starship: Cross-Shell Prompt](https://starship.rs/) instead
 [IlanCosman/tide: 🌊 The ultimate Fish prompt.](https://github.com/IlanCosman/tide)
 
 [fish for zsh users](https://ludios.org/fish-for-zsh-users/)
-[friendly interactive shell - Wikiwand](https://www.wikiwand.com/en/Friendly_interactive_shell#/Bash/fish_translation_table)
+[friendly interactive shell - Wikiwand](https://omni.wikiwand.com/en/Friendly_interactive_shell#/Bash/fish_translation_table)
 `ENV_VAR=x command` is unsupported; use `env ENV_VAR=x` command instead.
 
 [Auto-escape pasted text · Issue #2188 · fish-shell/fish-shell · GitHub](https://github.com/fish-shell/fish-shell/issues/2188) Shift+Ctrl+V
@@ -140,7 +140,6 @@ fisher install jorgebucaran/nvm.fish
 fisher install PatrickF1/fzf.fish
 fisher install laughedelic/pisces
 fisher install setomits/venv-fish
-fisher install jethrokuan/z
 ```
 
 ## Other package manager

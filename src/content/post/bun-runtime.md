@@ -2,7 +2,7 @@
 title: Bun
 description: Fast *all-in-one* JavaScript runtime
 created: 2023-03-14
-updated: 2023-11-22
+updated: 2023-12-01
 tags:
   - javascript/runtime
   - package-manager

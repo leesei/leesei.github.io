@@ -2,7 +2,7 @@
 title: sed notes
 description: ""
 created: 2015-01-13
-updated: 2023-09-29
+updated: 2024-08-28
 tags:
   - app
   - sed
@@ -57,14 +57,14 @@ sed s/\(apple\)/(\1)/ file
 ```
 
 ```sh
-# get n-th line from file
-sed -n '<n> p' filename
+# get lines 2-5, 8, 12-15 from file
+sed -n '2,5p; 8p; 12,15p;' filename
 echo filename | sed "<n>q;d"
 # count length of line 10
-sed -n '10 p' filename | wc -c
+sed -n '10p' filename | wc -c
 ```
 
 ```sh
-# insert at N-th line of file
-sed -i 'N i <LINE-TO-BE-ADDED>' FILE.txt
+# insert at n-th line of file
+sed -i '<n> i <LINE-TO-BE-ADDED>' FILE.txt
 ```

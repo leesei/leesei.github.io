@@ -2,7 +2,7 @@
 title: Bookmarklets
 description: ""
 created: 2014-12-08
-updated: 2023-09-29
+updated: 2024-09-06
 tags:
   - bookmarklet
   - browser
@@ -273,8 +273,10 @@ javascript: (function () {
 [is.gd - a URL shortener. Mmmm, tasty URLs!](http://is.gd/)
 Bookmarklet on [FAQ](http://is.gd/faq.php#bookmarklet).
 
-[硬是要縮 - 比 PPT 短網址更安全的縮網址服務](http://4fun.tw/)
+[T.LY: World's Shortest URL Shortener](https://t.ly/)
 
-[2lo.ng4.me - short urls](http://2lo.ng4.me/)
+[AMD's Laptop CPU Naming Scheme Is Ultra Confusing, But This Is What It Means](https://www.makeuseof.com/amd-laptop-cpu-naming-scheme-explained/)
+
+[硬是要縮 - 比 PPT 短網址更安全的縮網址服務](http://4fun.tw/)
 
 Bookmarklet on website.

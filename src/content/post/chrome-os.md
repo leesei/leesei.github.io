@@ -2,7 +2,7 @@
 title: Chrome OS
 description: ""
 created: 2019-05-03
-updated: 2023-09-29
+updated: 2024-02-19
 tags:
   - comp/hardware
   - laptop
@@ -11,8 +11,9 @@ tags:
 
 > Google bought Neverware in 2020-12
 
-[Get Chrome OS Flex for PC or Mac - Chrome Enterprise](https://chromeenterprise.google/os/chromeosflex/)
-[Chromebook Recovery Utility - Chrome Web Store](https://chrome.google.com/webstore/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm)
+[ChromeOS Flex: Our Cloud-Based Operating System - ChromeOS](https://chromeos.google/products/chromeos-flex/)
+[Chromebook Recovery Utility](https://chromewebstore.google.com/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm)
+[Chromebook Recovery Utility](https://chromewebstore.google.com/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm)
 
 [Chrome OS Flex: Google’s New PC OS - YouTube](https://www.youtube.com/watch?v=AFAg1FkGgMM)
 [Buying a Chromebook was a BIG MISTAKE - YouTube](https://www.youtube.com/watch?v=HZiaHEmE9PQ)

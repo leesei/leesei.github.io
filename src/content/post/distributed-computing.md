@@ -2,7 +2,7 @@
 title: Distributed Computing
 description: ""
 created: 2016-09-21
-updated: 2023-09-29
+updated: 2024-09-12
 tags:
   - web
 ---
@@ -18,8 +18,8 @@ tags:
 [The Cluster Documentation Project » ADMIN Magazine](http://www.admin-magazine.com/HPC/Articles/Cluster-Documentation-Project)
 [Cluster Documentation Project](https://cdp.clustermonkey.net/index.php/Main_Page)
 
-[Multigrid method - Wikiwand](https://www.wikiwand.com/en/Multigrid_method)
-[Fallacies of distributed computing - Wikiwand](https://www.wikiwand.com/en/Fallacies_of_distributed_computing)
+[Multigrid method - Wikiwand](https://omni.wikiwand.com/en/Multigrid_method)
+[Fallacies of distributed computing - Wikiwand](https://omni.wikiwand.com/en/Fallacies_of_distributed_computing)
 [Fallacies of Distributed Systems](https://architecturenotes.co/fallacies-of-distributed-systems/)
 [Understanding the 8 Fallacies of Distributed Systems - DZone Microservices](https://dzone.com/articles/understanding-the-8-fallacies-of-distributed-syste)
 
@@ -38,25 +38,31 @@ tags:
 
 A split brain is what happens when you have multiple autonomous sub-clusters forming, and more than one believe they're the "master". This can cause irreconcilable changes and data loss.
 
-[Building Your Own Consensus | Hackaday](https://hackaday.com/2022/11/30/building-your-own-consensus/)
-[Episode 377: Heidi Howard on Distributed Consensus : Software Engineering Radio](https://www.se-radio.net/2019/08/episode-377-heidi-howard-on-distributed-consensus/)
-[分布式系统的事务处理 | | 酷 壳 - CoolShell](https://coolshell.cn/articles/10910.html)
-[Paxos (computer science) - Wikiwand](<https://www.wikiwand.com/en/Paxos_(computer_science)>)
-[Paxos Made Live - An Engineering Perspective (2006 Invited Talk) – Google Research](https://research.google/pubs/pub33002/)
-[Paxos Made Moderately Complex](http://www.cs.cornell.edu/courses/cs7412/2011sp/paxos.pdf)
-
-[Raft Consensus Algorithm](https://raft.github.io/)
-[Raft (computer science) - Wikiwand](<http://www.wikiwand.com/en/Raft_(computer_science)>)
-
 [Google I/O 2009 - Transactions Across Datacenters.. - YouTube](https://www.youtube.com/watch?v=srOgpXECblk)
 [Debugging Incidents in Google’s Distributed Systems - ACM Queue](https://queue.acm.org/detail.cfm?id=3404974)
 
 [How to do distributed locking — Martin Kleppmann’s blog](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 [Distributed Locks Are Dead, Long Live Distributed Locks - DZone Java](https://dzone.com/articles/distributed-locks-are-dead-long-live-distributed-l)
 
-## Byzantine Fault Tolerance
+## Consensus Mechanisms
 
-[Byzantine fault - Wikiwand](https://www.wikiwand.com/en/Byzantine_fault)
+[How to Agree: Different Types of Consensus for Blockchain](https://crypto.com/university/different-types-of-consensus-for-blockchain)
+[Building Your Own Consensus | Hackaday](https://hackaday.com/2022/11/30/building-your-own-consensus/)
+
+[Understanding Blockchain Fundamentals, Part 1: Byzantine Fault Tolerance](https://medium.com/loom-network/understanding-blockchain-fundamentals-part-1-byzantine-fault-tolerance-245f46fe8419)
+
+[Episode 377: Heidi Howard on Distributed Consensus : Software Engineering Radio](https://www.se-radio.net/2019/08/episode-377-heidi-howard-on-distributed-consensus/)
+[分布式系统的事务处理 | | 酷 壳 - CoolShell](https://coolshell.cn/articles/10910.html)
+[Paxos (computer science) - Wikiwand](<https://omni.wikiwand.com/en/Paxos_(computer_science)>)
+[Paxos Made Live - An Engineering Perspective (2006 Invited Talk) – Google Research](https://research.google/pubs/pub33002/)
+[Paxos Made Moderately Complex](http://www.cs.cornell.edu/courses/cs7412/2011sp/paxos.pdf)
+
+[Raft Consensus Algorithm](https://raft.github.io/)
+[Raft (computer science) - Wikiwand](<http://omni.wikiwand.com/en/Raft_(computer_science)>)
+
+### Byzantine Fault Tolerance
+
+[Byzantine fault - Wikiwand](https://omni.wikiwand.com/en/Byzantine_fault)
 [Byzantine Fault Tolerance Explained | Binance Academy](https://academy.binance.com/blockchain/byzantine-fault-tolerance-explained)
 [The-Byzantine-Generals-Problem.pdf](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Byzantine-Generals-Problem.pdf)
 [How does blockchain solve the Byzantine generals problem?](https://cointelegraph.com/blockchain-for-beginners/how-does-blockchain-solve-the-byzantine-generals-problem)
@@ -120,6 +126,7 @@ For PC it's easiest to install the [prebuilt binary](https://arrayfire.com/downl
 
 ## GPU
 
+[The GPU evolution: from simple graphics to AI brains - YouTube](https://www.youtube.com/watch?v=usSQPBHxJSI)
 [How GPUs are Beginning to Displace Clusters for Big Data & Data Science - By Dan Voyce](https://hackernoon.com/how-gpus-are-beginning-to-displace-clusters-for-data-science-opbn36pv)
 
 [AmgX | NVIDIA Developer](https://developer.nvidia.com/amgx) algebraic, physics
@@ -133,11 +140,38 @@ For PC it's easiest to install the [prebuilt binary](https://arrayfire.com/downl
 
 [What differences and relations between SVM, HSA, HMM and Unified Memory](https://lists.linuxfoundation.org/pipermail/iommu/2017-June/022391.html)
 
+[How to Build Your GPU Cluster: Process and Hardware Options](https://www.run.ai/guides/multi-gpu/gpu-clusters)
+[PyTorch Multi GPU: 3 Techniques Explain red](https://www.run.ai/guides/multi-gpu/pytorch-multi-gpu-4-techniques-explained)
+[TensorFlow Multiple GPU: 5 Strategies and 2 Quick Tutorials](https://www.run.ai/guides/multi-gpu/tensorflow-multi-gpu-strategies-and-tutorials)
+[Keras Multi GPU: A Practical Guide](https://www.run.ai/guides/multi-gpu/keras-multi-gpu-a-practical-guide)
+
+### Scaling Up
+
+NVLink from nVidia
+
+UALink (Unified Accelerator Link)
+
+- Infinity Fabric from AMD: connects CPUs and GPUs
+- Switching Technologies from Broadcom: supports PCIe7.0 and xGMI
+- OAM (Open Accelerator Module) from Meta and Microsoft: server framework for accelerators
+
+[八巨头联手硬控英伟达！老黄慌了吗？ - YouTube](https://www.youtube.com/watch?v=P1aPQ3FNoNE)
+[Everyone Except Nvidia Forms Ultra Accelerator Link (UALink) Consortium](https://www.hpcwire.com/2024/05/30/everyone-except-nvidia-forms-ultra-accelerator-link-ualink-consortium/)
+[AMD & Intel Team Up For UALink As Open Alternative To NVIDIA's NVLink - Phoronix](https://www.phoronix.com/news/Ultra-Accelerator-Link-UALink)
+[UALink will be the NVLink Standard Backed by AMD Intel Broadcom Cisco and More](https://www.servethehome.com/ualink-will-be-the-nvlink-standard-backed-by-amd-intel-broadcom-cisco-and-more/)
+[Nvidia’s NVLink Vs. UALink. How NVIDIA’s Hype United Tech Giants in… | by Ali Waseem | Jun, 2024 | Medium](https://medium.com/@learngrowthrive.fast/nvidias-nvlink-vs-ualink-4356d0e8a794)
+
+### Scaling Out
+
+Spectrum-X from nVidia
+
+[Ultra Ethernet Consortium](https://ultraethernet.org/)
+
 ### CUDA
 
 [[docker-nvidia]]
 
-[CUDA - Wikiwand](https://www.wikiwand.com/en/CUDA)
+[CUDA - Wikiwand](https://omni.wikiwand.com/en/CUDA)
 [An Even Easier Introduction to CUDA | NVIDIA Developer Blog](https://developer.nvidia.com/blog/even-easier-introduction-cuda/)
 [Programming Guide :: CUDA Toolkit Documentation](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
 
@@ -155,6 +189,9 @@ For PC it's easiest to install the [prebuilt binary](https://arrayfire.com/downl
 
 [PyCUDA](https://mathema.tician.de/software/pycuda/)
 
+[Getting Started With CUDA for Python Programmers - YouTube](https://www.youtube.com/watch?v=nOxKexn3iBo) 2024-01
+[Going Further with CUDA for Python Programmers - YouTube](https://www.youtube.com/watch?v=eUuGdh3nBGo) 2024-01
+
 [Getting Started with NVIDIA GPU CUDA Core Programming Using Visual Studio in 2021 - YouTube](https://www.youtube.com/watch?v=8sDg-lD1fZQ)
 [Intro to Parallel Programming CUDA - Udacity 458 - YouTube](https://www.youtube.com/playlist?list=PLGvfHSgImk4aweyWlhBXNF6XISY3um82_)
 [CUDA Programming - YouTube](https://www.youtube.com/watch?v=xwbD6fL5qC8)
@@ -165,7 +202,26 @@ For PC it's easiest to install the [prebuilt binary](https://arrayfire.com/downl
 
 [NVIDIA Collective Communications Library (NCCL) | NVIDIA Developer](https://developer.nvidia.com/nccl) multi-GPU and multi-node collective communication primitives
 
+### CUDA Monopoly
+
+[Why Nvidia's AI monopoly is coming to an end - YouTube](https://www.youtube.com/watch?v=48AdJgTYSFQ)
+
+[vosen/ZLUDA: CUDA on ??? GPUs](https://github.com/vosen/ZLUDA)
+[ZLUDA Project Paves the Way for CUDA on Intel GPUs | Tom's Hardware](https://www.tomshardware.com/news/zluda-project-cuda-intel-gpus)
+[Software allows CUDA code to run on AMD and Intel GPUs without changes — ZLUDA is back but both companies ditched it, nixing future updates | Tom's Hardware](https://www.tomshardware.com/pc-components/gpus/software-allows-cuda-code-to-run-on-amd-and-intel-gpus-without-changes-zluda-is-back-but-both-companies-ditched-it-nixing-future-updates)
+[Nvidia bans using translation layers for CUDA software — previously the prohibition was only listed in the online EULA, now included in installed files [Updated] | Tom's Hardware](https://www.tomshardware.com/pc-components/gpus/nvidia-bans-using-translation-layers-for-cuda-software-to-run-on-other-chips-new-restriction-apparently-targets-zluda-and-some-chinese-gpu-makers)
+
+[SCALE documentation](https://docs.scale-lang.com/)
+[New SCALE tool enables CUDA applications to run on AMD GPUs | Tom's Hardware](https://www.tomshardware.com/tech-industry/new-scale-tool-enables-cuda-applications-to-run-on-amd-gpus)
+[AMD ‘Scales’ up its CUDA capabilities – Jon Peddie Research](https://www.jonpeddie.com/news/amd-scales-up-its-cuda-capabilities/)
+
+### ROCm
+
+[AMD ROCm™ Software](https://www.amd.com/en/products/software/rocm.html)
+
 ### Triton
+
+> Python code that is compiled to LLVM IR and then to PTX binary, skipping the CUDA compiler
 
 [Welcome to Triton’s documentation! — Triton documentation](https://triton-lang.org/)
 [openai/triton: Development repository for the Triton language and compiler](https://github.com/openai/triton)
@@ -173,9 +229,13 @@ For PC it's easiest to install the [prebuilt binary](https://arrayfire.com/downl
 [Introducing Triton: Open-Source GPU Programming for Neural Networks](https://openai.com/blog/triton/)
 [Wanna use your Nvidia GPU for acceleration but put off by CUDA? OpenAI has a Python-based alternative • The Register](https://www.theregister.com/2021/08/02/nvidia_cuda_openai/?td=keepreading-btm)
 
+##　Pacemaker
+
+[ClusterLabs > Pacemaker](https://clusterlabs.org/pacemaker/)
+
 ## MPI
 
-[Message Passing Interface - Wikiwand](https://www.wikiwand.com/en/Message_Passing_Interface)
+[Message Passing Interface - Wikiwand](https://omni.wikiwand.com/en/Message_Passing_Interface)
 [Open MPI: Open Source High Performance Computing](https://www.open-mpi.org/)
 
 [A Comprehensive MPI Tutorial Resource · MPI Tutorial](http://mpitutorial.com/)
@@ -188,7 +248,7 @@ For PC it's easiest to install the [prebuilt binary](https://arrayfire.com/downl
 
 ## OpenMP
 
-[OpenMP - Wikiwand](http://www.wikiwand.com/en/OpenMP)
+[OpenMP - Wikiwand](http://omni.wikiwand.com/en/OpenMP)
 [Home - OpenMP](https://www.openmp.org/)
 [openmp - GCC Wiki](https://gcc.gnu.org/wiki/openmp)
 
@@ -205,7 +265,7 @@ OpenMP like library for NVIDIA GPU
 enables hybrid CPU + GPU programming
 easier to use than CUDA
 
-[OpenACC - Wikiwand](https://www.wikiwand.com/en/OpenACC)
+[OpenACC - Wikiwand](https://omni.wikiwand.com/en/OpenACC)
 [Homepage | OpenACC](https://www.openacc.org/)
 [OpenACC - GCC Wiki](https://gcc.gnu.org/wiki/OpenACC)
 
@@ -247,7 +307,7 @@ Edge Runtime Cons:
 [xtensor-stack/xtensor-benchmark: Easy to use benchmarks for linear algebra frameworks](https://github.com/xtensor-stack/xtensor-benchmark)
 
 [Intel® Math Kernel Library (Intel® MKL) | Intel® Software](https://software.intel.com/en-us/mkl)
-[Math Kernel Library - Wikiwand](https://www.wikiwand.com/en/Math_Kernel_Library)
+[Math Kernel Library - Wikiwand](https://omni.wikiwand.com/en/Math_Kernel_Library)
 
 [LAPACK — Linear Algebra PACKage](http://www.netlib.org/lapack/)
 

@@ -2,7 +2,7 @@
 title: Gold Standard
 description: ""
 created: 2014-12-26
-updated: 2023-09-29
+updated: 2024-05-05
 tags:
   - economics
 ---
@@ -17,4 +17,4 @@ Also "Gold-based Economy".
 [Ben Bernanke Gives Himself A Grade - Freakonomics Radio (podcast)](https://player.fm/series/freakonomics-radio/ben-bernanke-gives-himself-a-grade)
 Abolishing the gold standard in 1930s to increase money supply relieve the global economic depression
 
-European countries participating in WWI also abandoned gold standard to increase the war spendings.
+European countries participating in WWI also abandoned gold standard to increase the war spending.

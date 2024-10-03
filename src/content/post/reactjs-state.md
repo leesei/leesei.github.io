@@ -2,7 +2,7 @@
 title: React.js
 description: React.js state
 created: 2023-03-21
-updated: 2023-09-29
+updated: 2024-07-11
 tags:
   - frontend
   - javascript
@@ -14,12 +14,13 @@ tags:
 
 > TODO: remove pre-hook articles
 
-3 camps:
+4 camps:
 
 - Flux (Redux, Zustand)
   see [[flux]], [[flux-alternatives]]
 - Proxy (Mobx, Valtio)
-- Atomic (Recoil, Jotai)
+- Atomic/signal (Recoil, Jotai)
+- State machine ([[reactive-programming#Xstate]])
 
 [GantMan/ReactStateMuseum: A whirlwind tour of React state management systems by example](https://github.com/GantMan/ReactStateMuseum)
 [React State Management – Intermediate JavaScript Course - YouTube](https://www.youtube.com/watch?v=-bEzt5ISACA) 2022-11
@@ -42,14 +43,6 @@ tags:
 
 [Pullstate · Simple state stores using immer and React hooks](https://lostpebble.github.io/pullstate/)
 [lostpebble/pullstate: Simple state stores using immer and React hooks - re-use parts of your state by pulling it anywhere you like!](https://github.com/lostpebble/pullstate)
-
-## Storeon
-
-> library-agnostic
-
-[Storeon: "Redux" in 173 bytes — Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/storeon-redux-in-173-bytes)
-[storeon/storeon: 🌩 A tiny (185 bytes) event-based Redux-like state manager for React, Preact, Angular, Vue, and Svelte](https://github.com/storeon/storeon)
-[Event-driven state management in React using Storeon - LogRocket Blog](https://blog.logrocket.com/event-driven-state-management-in-react-using-storeon/)
 
 ## Context API
 
@@ -124,16 +117,6 @@ export const StoreProvider = (props) => {
 };
 ```
 
-## Recoil
-
-> larger footprint
-
-[Recoil](https://recoiljs.org/)
-
-[Recoil - a New State Management Library for React](https://www.infoq.com/news/2020/05/recoil-react-state-management/)
-[Recoil: State Management for Today's React - Dave McCabe aka @mcc_abe at @ReactEurope 2020 - YouTube](https://www.youtube.com/watch?v=_ISAA_Jt9kI)
-[React: Intro to Recoil - YouTube](https://www.youtube.com/watch?v=So4ny9Aa7Oo)
-
 ## Jotai
 
 > like Recoil, but smaller; better memory footprint with `WeakMap`
@@ -150,6 +133,13 @@ export const StoreProvider = (props) => {
 [Redux-Free State Management with Jotai | by Nathan Sebhastian | Bits and Pieces](https://blog.bitsrc.io/redux-free-state-management-with-jotai-2c8f34a6a4a)
 [Jotai vs. Recoil: What are the differences? - LogRocket Blog](https://blog.logrocket.com/jotai-vs-recoil-what-are-the-differences/)
 
+## signia
+
+> library-agnostic
+
+[signia](https://signia.tldraw.dev/)
+[tldraw/signia: Reactive signals that scale, by tldraw.](https://github.com/tldraw/signia)
+
 ## Zustand
 
 > like Redux; small footprint
@@ -158,11 +148,9 @@ export const StoreProvider = (props) => {
 [Zustand Documentation](https://docs.pmnd.rs/zustand/)
 [Working with Zustand | TkDodo's blog](https://tkdodo.eu/blog/working-with-zustand)
 
-## Hookstate
-
-[Hookstate: supercharged React.useState hook | Hookstate](https://hookstate.js.org/)
-
 ## Nano Stores
+
+> library-agnostic
 
 [nanostores/nanostores: A tiny (334 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores](https://github.com/nanostores/nanostores)
 
@@ -171,3 +159,25 @@ export const StoreProvider = (props) => {
 [pmndrs/valtio: 💊 Valtio makes proxy-state simple for React and Vanilla](https://github.com/pmndrs/valtio) Suspense compatible
 
 [bennyg123/entangle: Global state management tool for react hooks inspired by RecoilJS and Jotai using proxies.](https://github.com/bennyg123/entangle)
+
+## Hookstate
+
+[Hookstate: supercharged React.useState hook | Hookstate](https://hookstate.js.org/)
+
+## Recoil
+
+> larger footprint
+
+[Recoil](https://recoiljs.org/)
+
+[Recoil - a New State Management Library for React](https://www.infoq.com/news/2020/05/recoil-react-state-management/)
+[Recoil: State Management for Today's React - Dave McCabe aka @mcc_abe at @ReactEurope 2020 - YouTube](https://www.youtube.com/watch?v=_ISAA_Jt9kI)
+[React: Intro to Recoil - YouTube](https://www.youtube.com/watch?v=So4ny9Aa7Oo)
+
+## Storeon
+
+> library-agnostic, deprecated in favor of [[#Nano Stores]]
+
+[Storeon: "Redux" in 173 bytes — Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/storeon-redux-in-173-bytes)
+[storeon/storeon: 🌩 A tiny (185 bytes) event-based Redux-like state manager for React, Preact, Angular, Vue, and Svelte](https://github.com/storeon/storeon)
+[Event-driven state management in React using Storeon - LogRocket Blog](https://blog.logrocket.com/event-driven-state-management-in-react-using-storeon/)

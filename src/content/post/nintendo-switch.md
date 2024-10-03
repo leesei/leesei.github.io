@@ -2,7 +2,7 @@
 title: Nintendo Switch
 description: ""
 created: 2018-01-09
-updated: 2023-09-29
+updated: 2024-09-23
 tags:
   - games
   - nintendo
@@ -210,7 +210,7 @@ Video playback is blocked since 3.0.0
 
 #### Dragon Quest XI
 
-[Dragon Quest XI - Wikiwand](https://www.wikiwand.com/en/Dragon_Quest_XI)
+[Dragon Quest XI - Wikiwand](https://omni.wikiwand.com/en/Dragon_Quest_XI)
 [Dragon Quest XI - FrontierNav](https://frontiernav.net/explore/dragon-quest-xi)
 
 [Dragon Quest XI: The Kotaku Review - YouTube](https://www.youtube.com/watch?v=4iTbUGItU0s&t=4s)
@@ -246,7 +246,7 @@ Tickington
 [Every known Room Recipe | Dragon Quest Builders 2 - YouTube](https://www.youtube.com/watch?v=7Px8S-q1Ll0)
 [How to make the PERFECT Crop Fields | Most efficient! | Dragon Quest Builders 2 - YouTube](https://www.youtube.com/watch?v=bJW97rpkKpY)
 
-[BenXC - YouTube](https://www.youtube.com/c/BenXC)
+[BenXC - YouTube](https://www.youtube.com/@BenXC)
 [Newcomer & Pro Tips & Tricks | Dragon Quest Builders 2 - YouTube](https://www.youtube.com/playlist?list=PL2KfCrj86O6WTaJXV2UNaTgpg4Xu43Av6)
 [Dragon Quest Builders 2 Tablet Targets - YouTube](https://www.youtube.com/playlist?list=PL2KfCrj86O6VjI6Jik90rAeVCcwgFK4KS)
 [https://www.youtube.com/playlist?list=PL2KfCrj86O6UpzVcVEPME-qas_J7JW8m3](https://www.youtube.com/playlist?list=PL2KfCrj86O6UpzVcVEPME-qas_J7JW8m3)
@@ -398,7 +398,7 @@ TheJWittz
 ### 逆転裁判/Ace Attorney
 
 [CAPCOM：逆転裁判シリーズ 公式サイト](http://www.capcom.co.jp/game/gyakutensaiban/)
-[逆轉裁判系列 - Wikiwand](https://www.wikiwand.com/zh-hant/%E9%80%86%E8%BD%AC%E8%A3%81%E5%88%A4%E7%B3%BB%E5%88%97)
+[逆轉裁判系列 - Wikiwand](https://omni.wikiwand.com/zh/%E9%80%86%E8%BD%AC%E8%A3%81%E5%88%A4%E7%B3%BB%E5%88%97)
 [逆轉裁判 - Komica wiki](https://wiki.komica.org/%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4)
 [Ace Attorney Wiki | Fandom](https://aceattorney.fandom.com/wiki/Ace_Attorney_Wiki)
 
@@ -410,12 +410,17 @@ TheJWittz
 [The Ace Attorney Iceberg Explained - YouTube](https://www.youtube.com/watch?v=FAPpgHxuDA8)
 
 [逆轉裁判登場人物一覽 - Komica wiki](https://wiki.komica.org/%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%BD)
-[逆轉裁判系列角色列表 - Wikiwand](https://www.wikiwand.com/zh-hant/%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E7%B3%BB%E5%88%97%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8)
+[逆轉裁判系列角色列表 - Wikiwand](https://omni.wikiwand.com/zh/%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E7%B3%BB%E5%88%97%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8)
 
 [用一句話形容「逆轉裁判」，沒看過這麼精彩的法庭推理秀！最強律師 VS 最強女鬼！【動漫茶館】 - YouTube](https://www.youtube.com/watch?v=-9yrB5FKpMU)
 [華麗的逆轉（上）成步堂接班人？御劍第一次辯護就上手！【逆轉裁判 3】 - YouTube](https://www.youtube.com/watch?v=JUyV8_efYUc)
 [華麗的逆轉（下）案情翻轉再翻轉，最神之章！華麗的大結局！【逆轉裁判 3】 - YouTube](https://www.youtube.com/watch?v=y0PMd3HrHXo)
 [Steam 上萬好評的推理神作！50 分鐘一次看到華麗的逆轉最大高潮【逆轉裁判 3 精華】 - YouTube](https://www.youtube.com/watch?v=NU4rU8RGpr8)
+
+AMU Game Channel
+[逆轉裁判系列 / Phoenix Wright - YouTube](https://www.youtube.com/playlist?list=PLwFY2FRIQ7pfiWtKDjpLHC9m5pYyjFA5e)
+[逆轉裁判456:王泥喜精選集 / Apollo Justice: Ace Attorney Trilogy - YouTube](https://www.youtube.com/playlist?list=PLwFY2FRIQ7pdtToNkr103MA82eHDmDjON)
+[大逆轉裁判1&2:成步堂龍之介的冒險與覺悟 / The Great Ace Attorney Chronicles - YouTube](https://www.youtube.com/playlist?list=PLwFY2FRIQ7pdpUUBmM8ptW1bQ-wfyaghY)
 
 ## My Nintendo
 

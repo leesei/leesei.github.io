@@ -2,7 +2,7 @@
 title: Model of Grief
 description: ""
 created: 2014-12-26
-updated: 2023-09-29
+updated: 2023-12-10
 tags:
   - model-of-grief
   - psychology
@@ -23,4 +23,3 @@ Kübler-Ross Model，描述的是當人遭逢巨變或災難以後，心理上�
 
 In Link's acceptance of his death in Majora's Mask:
 [Game Theory: Is Link Dead in Majora's Mask? - YouTube](https://www.youtube.com/watch?v=7S1SVkysIRw)
-{% youtube 7S1SVkysIRw %}

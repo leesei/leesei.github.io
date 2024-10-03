@@ -2,7 +2,7 @@
 title: Steam Deck
 description: ""
 created: 2022-01-12
-updated: 2023-10-22
+updated: 2024-08-29
 tags:
   - comp/hardware
   - mobile
@@ -29,10 +29,12 @@ Hardware:
 [AMD Steam Deck GPU Specs | TechPowerUp GPU Database](https://www.techpowerup.com/gpu-specs/steam-deck-gpu.c3897)
 
 [mikeroyal/Steam-Deck-Guide: Steam Deck Guide. Learn all about the Tools and Accessories that will make you Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation.](https://github.com/mikeroyal/Steam-Deck-Guide)
-[Steam Deck Gaming - YouTube](https://www.youtube.com/@SteamDeckGaming)
 
 [Steam Deck HQ](https://steamdeckhq.com/)
 [SDHQ - YouTube](https://www.youtube.com/@SDHQ)
+
+[Fan The Deck - YouTube](https://www.youtube.com/@FanTheDeck)
+[Steam Deck Gaming - YouTube](https://www.youtube.com/@SteamDeckGaming)
 
 [overkill.wtf | Steam Deck news, reviews and more](https://overkill.wtf/)
 
@@ -40,14 +42,15 @@ Gaming On Linux
 [Steam Deck Guides - YouTube](https://www.youtube.com/playlist?list=PLRikbCj_P-2Ghffnr_MPIGI3BcU2WfypW)
 [Steam Deck - YouTube](https://www.youtube.com/playlist?list=PLRikbCj_P-2EUNZMqzctEW5RElgCVaTBl)
 
-[Fan The Deck - YouTube](https://www.youtube.com/@FanTheDeck)
-
 [Steam Deck :: Deck Verified](https://www.steamdeck.com/en/verified)
 [Your Library on Deck](https://store.steampowered.com/steamdeck/mygames)
 [10 Steam Deck Tips To Get The BEST Experience For Beginners and Advanced Users - YouTube](https://www.youtube.com/watch?v=eeGcbHF-vq4)
 [These Games Are PERFECT for the Steam Deck - YouTube](https://www.youtube.com/watch?v=tOaExqg50CM)
 
 [SteamDeck vs GPD WinMax 2 6800U - Can AMD Van Gogh Compete Against AMD Rembrandt 6800U? - YouTube](https://www.youtube.com/watch?v=y0lTxeYLS8M)
+
+[Valve's New Steam Deck OLED is Genius, Here's Why - YouTube](https://www.youtube.com/watch?v=tKEUDdUjjDg)
+[The Steam Deck OLED is better than you think (6 month review) - YouTube](https://www.youtube.com/watch?v=_lPEi84U5jc)
 
 ## Unboxing
 

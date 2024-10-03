@@ -2,7 +2,7 @@
 title: Lifehack
 description: ""
 created: 2015-09-02
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - lifehack
   - trivia

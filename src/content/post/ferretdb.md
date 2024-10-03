@@ -2,7 +2,7 @@
 title: MongoDB
 description: A truly Open Source MongoDB alternative, built on Postgres
 created: 2023-05-17
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - app
   - ferretdb

@@ -2,7 +2,7 @@
 title: MOOC
 description: ""
 created: 2015-05-08
-updated: 2023-11-29
+updated: 2024-10-03
 tags:
   - learning
   - mooc
@@ -11,7 +11,7 @@ tags:
 
 > see [[learning]] on theory, especially [[learning#Speed Reading => Speed Learning]]
 
-[Massive open online course - Wikiwand](https://www.wikiwand.com/en/Massive_open_online_course)
+[Massive open online course - Wikiwand](https://omni.wikiwand.com/en/Massive_open_online_course)
 [No Excuse List](http://noexcuselist.com/)
 
 [Class Central • #1 Search Engine for Free Online Courses & MOOCs](https://www.classcentral.com/)
@@ -50,10 +50,22 @@ tags:
 [Free Online Courses from upGrad](https://www.upgrad.com/hk/free-courses/?utm_source=BLOG&utm_campaign=ALL_FREE_BLOG_BODY_90914)
 [1000+ Free Developer Certifications](https://www.freecodecamp.org/news/free-certificates/)
 
-I've bought several bundles here (with Teachable SSO)
-[StackSkills](https://stackskills.com/courses/enrolled)
-[Kode Kloud](https://kodekloud.com/)
-[One Education – One Education](https://www.oneeducation.org.uk/) CompTIA
+[Free Courses That Are Actually Free: Computer Science Edition - KDnuggets](https://www.kdnuggets.com/free-courses-that-are-actually-free-computer-science-edition)
+[Free Courses That Are Actually Free: Programming Edition - KDnuggets](https://www.kdnuggets.com/free-courses-that-are-actually-free-programming-edition)
+[Free Courses That Are Actually Free: SQL Edition - KDnuggets](https://www.kdnuggets.com/free-courses-that-are-actually-free-sql-edition)
+[Free Courses That Are Actually Free: Data Analytics Edition - KDnuggets](https://www.kdnuggets.com/free-courses-that-are-actually-free-data-analytics-edition)
+[Free Courses That Are Actually Free: AI & ML Edition - KDnuggets](https://www.kdnuggets.com/free-courses-that-are-actually-free-ai-ml-edition)
+
+I've bought several bundles here (with Teachable SSO):
+
+- [StackSkills](https://stackskills.com/courses/enrolled) (mostly from Java Code Geeks)
+  - The Complete Cyber Security Ethical Hacking Certification Bundle
+  - The Complete Arduino eBook Bundle
+  - Ultimate Coding Bundle
+  - Premium Coding Bundle
+- [Kode Kloud](https://kodekloud.com/)
+- [One Education – One Education](https://www.oneeducation.org.uk/) CompTIA
+- [Teachable: Sell Courses, Coaching and Digital Downloads](https://teachable.com/)
 
 [Library - SitePoint Premium - SitePoint Premium](https://www.sitepoint.com/premium/library) I've some courses and books here
 
@@ -143,22 +155,27 @@ seneca-in-practice
 ## Educational Youtube Channels
 
 [Animagraffs - YouTube](https://www.youtube.com/@animagraffs) "How it works" in 3D rendering
+[Arvin Ash - YouTube](https://www.youtube.com/@ArvinAsh) science, explainers
 [AsapSCIENCE - YouTube](https://www.youtube.com/@AsapSCIENCE) animated explainers
 [Be Smart - YouTube](https://www.youtube.com/@besmart) sciency
 [Branch Education - YouTube](https://www.youtube.com/@BranchEducation) "How it works" in 3D rendering
 [BRIGHT SIDE - YouTube](https://www.youtube.com/@BRIGHTSIDEOFFICIAL) explainers
 [CGP Grey - YouTube](https://www.youtube.com/@CGPGrey) trivia on all sorts of things
 [Cheddar - YouTube](https://www.youtube.com/@cheddar) Cheddar explainers, NYC Revealed
+[Chemistorian - YouTube](https://www.youtube.com/@Chemistorian) chemistry, history
 [Clint Explains - YouTube](https://www.youtube.com/@clintexplains5327) explainers, sciency
 [Cleo Abram - YouTube](https://www.youtube.com/@CleoAbram) explainers, HUGE if true stories
 [Cogito - YouTube](https://www.youtube.com/@CogitoEdu) animated history and culture
 [ColdFusion - YouTube](https://www.youtube.com/@ColdFusion) explainers
 [Computerphile - YouTube](https://www.youtube.com/@Computerphile/) computer
+[Confreaks - YouTube](https://www.youtube.com/@Confreaks) tech conferences
 [CrashCourse - YouTube](https://www.youtube.com/@crashcourse) animated explainers
 [Creative Construction Channel - YouTube](https://www.youtube.com/@creativeconstructionchannel) engineering, experiments
 [Dom Burgess - YouTube](https://www.youtube.com/@DomBurgess) explainers
 [Domain of Science - YouTube](https://www.youtube.com/@domainofscience) sciency
+[Dr Ben Miles - YouTube](https://www.youtube.com/@DrBenMiles) sciency
 [engineerguy - YouTube](https://www.youtube.com/@engineerguyvideo) engineering
+[fern - YouTube](https://www.youtube.com/@fern-tv) mini documentaries
 [Fire of Learning - YouTube](https://www.youtube.com/@Fireoflearning) history
 [Freethink - YouTube](https://www.youtube.com/@freethink) explainers
 [Integza - YouTube](https://www.youtube.com/@integza) sciency, experiments
@@ -169,14 +186,17 @@ seneca-in-practice
 [Kurzgesagt – In a Nutshell - YouTube](https://www.youtube.com/@kurzgesagt)
 [Kuvina Saydaki - YouTube](https://www.youtube.com/@Kuvina) math and algorithms
 [Lesics - YouTube](https://www.youtube.com/@Lesics) "How it works" in 3D rendering
+[LEMMiNO - YouTube](https://www.youtube.com/@LEMMiNO) mini documentaries
 [Looking Glass Universe - YouTube](https://www.youtube.com/@LookingGlassUniverse) animated quantum mechanics
 [MinuteEarth - YouTube](https://www.youtube.com/@MinuteEarth) sciency, animated explainers
 [minutephysics - YouTube](https://www.youtube.com/@MinutePhysics) animated physics
+[NileBlue - YouTube](https://www.youtube.com/@NileBlue)
 [Numberphile - YouTube](https://www.youtube.com/@numberphile) math
 [Objectivity - YouTube](https://www.youtube.com/@ObjectivityVideos) science artifacts
 [Periodic Videos - YouTube](https://www.youtube.com/@periodicvideos) chemistry
 [Physics Girl - YouTube](https://www.youtube.com/@physicsgirl) physics
 [Practical Engineering - YouTube](https://www.youtube.com/@PracticalEngineeringChannel) engineering, experiments
+[Primal Space - YouTube](https://www.youtube.com/@primalspace) sciency, space science
 [Primer - YouTube](https://www.youtube.com/@PrimerBlobs) evolution
 [Professor Dave Explains - YouTube](https://www.youtube.com/@ProfessorDaveExplains) sciency, deep dives on various disciplines
 [Quanta Magazine - YouTube](https://www.youtube.com/@QuantaScienceChannel) sciency
@@ -201,6 +221,7 @@ seneca-in-practice
 [TREY the Explainer - YouTube](https://www.youtube.com/@TREYtheExplainer) explainers, history
 [Two Bit da Vinci - YouTube](https://www.youtube.com/@TwoBitDaVinci) explainers
 [Up and Atom - YouTube](https://www.youtube.com/@upandatom) Physics and Maths
+[Undecided with Matt Ferrell - YouTube](https://www.youtube.com/@UndecidedMF) explainers, tech
 [Verge Science - YouTube](https://www.youtube.com/@VergeScience) sciency
 [Veritasium - YouTube](https://www.youtube.com/@veritasium) sciency
 [Vsauce - YouTube](https://www.youtube.com/@Vsauce) sciency
@@ -214,6 +235,8 @@ seneca-in-practice
 [科学火箭叔 - YouTube](https://www.youtube.com/@KeXueHuoJianShu) sciency, but citation is poor
 [科學漫聊 - YouTube](https://www.youtube.com/@KXML) sciency
 [芳斯塔芙 - YouTube](https://www.youtube.com/@Funstuff2018) fun stuff, explainers
+[IC实验室 - YouTube](https://www.youtube.com/@ICLAB) consumerism, business
+[白呀白Talk-科技内容 - YouTube](https://www.youtube.com/playlist?list=PL4l3Q_BiljoFZnAR12G9UiEOWg2frBS8n)
 
 [Projects — Brady Haran](https://www.bradyharanblog.com/projects)
 

@@ -2,13 +2,13 @@
 title: Borderlands
 description: ""
 created: 2023-08-14
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - borderlands
   - games
 ---
 
-[Borderlands (series) - Wikiwand](<https://www.wikiwand.com/en/Borderlands_(series)>)
+[Borderlands (series) - Wikiwand](<https://omni.wikiwand.com/en/Borderlands_(series)>)
 [Borderlands Wiki | Fandom](https://borderlands.fandom.com/wiki/Borderlands_Wiki)
 
 [Inside The Box Archives - Gearbox Software](https://www.gearboxsoftware.com/tag/tag-inside-the-box/)

@@ -2,7 +2,7 @@
 title: Corporate
 description: ""
 created: 2015-04-15
-updated: 2023-09-29
+updated: 2024-09-09
 tags:
   - business
   - corporate
@@ -12,6 +12,7 @@ tags:
 
 [Company Man - YouTube](https://www.youtube.com/channel/UCQMyhrt92_8XM0KgZH6VnRg)
 [Company Profiles - YouTube](https://www.youtube.com/playlist?list=PLKtxx9TnH76Qod2z94xcDNV95_ItzIM-S) Asianometry
+[History of Gadgets - YouTube](https://www.youtube.com/@history.of.gadgets) tech companies
 
 [Office Snapshots - Discover Worldwide Office Design](https://officesnapshots.com/)
 
@@ -53,6 +54,7 @@ When a service is free, you are the product/asset.
 
 [Pluralistic: Tiktok’s enshittification (21 Jan 2023) – Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/2023/01/21/potemkin-ai/)
 [The Enshittification of TikTok–And Everything – The Cultural Gutter](https://culturalgutter.com/2023/01/25/the-enshitification-of-tiktok-and-everything/)
+[The Internet is starting to Break - Here's Why. - YouTube](https://www.youtube.com/watch?v=wVYG1mu8Lg8)
 
 [Who Owns Huawei? The Company Tried to Explain. It Got Complicated. - The New York Times](https://www.nytimes.com/2019/04/25/technology/who-owns-huawei.html)
 [Who Owns Huawei? by Christopher Balding, Donald C. Clarke :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3372669)
@@ -71,6 +73,14 @@ When a service is free, you are the product/asset.
 [Out of the picture: why the world's best photo startup is going out of business | The Verge](http://www.theverge.com/2013/11/5/5039216/everpix-life-and-death-inside-the-worlds-best-photo-startup)
 
 [How We Built a $150 Million Streaming Platform with $100,000 - YouTube](https://www.youtube.com/watch?v=Alqt6RCEWdM) Nebula (+ Curiosity Stream)
+[How Nebula Works - YouTube](https://www.youtube.com/watch?v=0K1pITq4mSk)
+
+## Lenovo
+
+[Lenovo - Wikiwand](https://omni.wikiwand.com/en/Lenovo)
+[联想集团 - Wikiwand](https://omni.wikiwand.com/zh-sg/%E8%81%94%E6%83%B3%E9%9B%86%E5%9B%A2)
+
+[Lenovo - The Last Practical Electronics Maker - YouTube](https://www.youtube.com/watch?v=Cxjs-JmnBHg)
 
 ## McDonald's
 
@@ -78,9 +88,20 @@ When a service is free, you are the product/asset.
 [麥當勞「更深一層」的內幕！聽了上一集你就以為麥當勞是「靠土地賺錢的」就還是太傻太可愛了～｜麥當勞叔叔的黑暗詭計# 2/2 - YouTube](https://www.youtube.com/watch?v=J-elNBg7Ras)
 [吧啦吧吧吧，請買下我們頻道吧 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=UMWKE2u8sPw)
 
+[从高档洋快餐到社区大食堂，肯德基玩明白了？- IC实验室出品 - YouTube](https://www.youtube.com/watch?v=D5L2d6w_fo0)
+[麥當勞大富翁游戲抽獎，竟然成了一場騙局 - YouTube](https://www.youtube.com/watch?v=5FlFP2Ojt-U)
+
+## KFC
+
+[肯德基魔改小吃简史，热干面螺蛳粉串串香：KFC就是不好好做鸡？- IC实验室出品 - YouTube](https://www.youtube.com/watch?v=8JzvV4eGh8U)
+
 ## Lytro
 
 [Lytro: The $360 Million Company That Died - Krazy Ken’s Tech Talk - YouTube](https://www.youtube.com/watch?v=Zo4u578ZqrU)
+
+## IKEA
+
+[The INSANE Truth About IKEA - YouTube](https://www.youtube.com/watch?v=8uNgfFwbziU)
 
 ## Product placement
 
@@ -91,6 +112,7 @@ When a service is free, you are the product/asset.
 [Logo Lookalikes: Vintage Predecessors to Contemporary Company Logos - 99% Invisible](https://99percentinvisible.org/article/logo-lookalikes-vintage-predecessors-contemporary-company-logos/)
 [Logo Of The Day - Logo Design Inspiration, Gallery & Award Scheme!](http://logooftheday.com/)
 [Logopond - Identity Inspiration](http://logopond.com/)
+[How to Make a Logo in 4 Different Ways Using Kittl](https://www.makeuseof.com/how-to-make-logo-using-kittl/)
 
 [What is the best logo ever created? - Quora](http://www.quora.com/What-is-the-best-logo-ever-created)
 [Generic and overused logos - Avoid them!](http://www.gtgraphics.org/genericlogos.html)
@@ -152,6 +174,10 @@ Yahoo was sold to Verizon with a sum of \$4.83 billion in July 2016.
 
 [Why Fujifilm Survived (& Kodak Didn't) - YouTube](https://www.youtube.com/watch?v=AdDIy0c5ZGo)
 
+## Demise of Boeing
+
+[谎言、打压、逐利与权力游戏，波音是如何失去制造骄 傲的？ - YouTube](https://www.youtube.com/watch?v=PSfdilqMxRM)
+
 ## Demise of Theranos
 
 [矽谷「世紀騙局」！估值九十億美元的 Theranos 公司，如何半年內瞬間崩潰？| 惡血 Bad Blood | 啾讀。第 46 集 | 啾啾鞋 - YouTube](https://www.youtube.com/watch?v=7SPY9098mQs)
@@ -178,3 +204,6 @@ Yahoo was sold to Verizon with a sum of \$4.83 billion in July 2016.
 
 Phoebus Cartel
 Right to repair
+
+[Dieselgate, but for trains – some heavyweight hardware hacking – BadCyber](https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/)
+[Case Of The Sabotaged Trains | Prime Reacts - YouTube](https://www.youtube.com/watch?v=sKtNJljJlmo)

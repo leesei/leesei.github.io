@@ -2,7 +2,7 @@
 title: Espressif (ESP)
 description: ""
 created: 2018-10-20
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - esp-c3
   - esp32
@@ -79,10 +79,13 @@ Most vendor will market both ESP8266 and ESP32 boards
 [ESP8266 ESP32 · SmartArduino/SZDOITWiKi Wiki](https://github.com/SmartArduino/SZDOITWiKi/wiki/ESP8266---ESP32)
 [Nicholas3388/LuaNode: Esp32/esp8266 lua sdk](https://github.com/Nicholas3388/LuaNode) DoIT
 
+[Getting Started with the ESP32 Development Board | Random Nerd Tutorials](https://randomnerdtutorials.com/getting-started-with-esp32/)
+[ESP32 Guide 2024 | Choosing and Using an ESP32 Board - YouTube](https://www.youtube.com/watch?v=u5unB24lhC4)
+
 ## ESP32
 
 [ESP32 Overview | Espressif Systems](https://www.espressif.com/en/products/hardware/esp32/overview)
-[ESP32 - Wikiwand](https://www.wikiwand.com/en/ESP32)
+[ESP32 - Wikiwand](https://omni.wikiwand.com/en/ESP32)
 [ESP32 WROOM Overview | Espressif Systems](https://www.espressif.com/en/products/hardware/esp-wroom-32/overview)
 [ESP32 Overview | Espressif Systems](https://www.espressif.com/en/products/hardware/esp32/overview)
 [ESP32-DevKitC V4 Getting Started Guide — ESP-IDF Programming Guide v3.2-dev-1385-g129d327 documentation](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/get-started-devkitc.html)
@@ -107,6 +110,7 @@ Cons: power hungry, Bluetooth 4.2 only, deep sleep causes a reboot, low quality 
 [ESP32 Development Boards Review and Comparison - Maker Advisor](https://makeradvisor.com/esp32-development-boards-review-comparison/)
 [Getting Started with the ESP32 Development Board | Random Nerd Tutorials](https://randomnerdtutorials.com/getting-started-with-esp32/) !important
 [Introduction to the ESP32 WiFi / Bluetooth Wireless Microcontroller](https://predictabledesigns.com/introduction-to-the-esp32-wifi-bluetooth-wireless-microcontroller)
+[Using ESP32 built-in hall effect sensor - Hackster.io](https://www.hackster.io/myhomethings/using-esp32-built-in-hall-effect-sensor-d6a5ad)
 
 [h2zero/NimBLE-Arduino: A fork of the NimBLE library structured for compilation with Ardruino, designed for use with ESP32.](https://github.com/h2zero/NimBLE-Arduino)
 
@@ -124,6 +128,9 @@ Board bringup
 [ESP32 Troubleshooting Guide | Random Nerd Tutorials](https://randomnerdtutorials.com/esp32-troubleshooting-guide/)
 [How to power up ESP32-DevKitC without USB port? - ESP32 Forum](http://bbs.esp32.com/viewtopic.php?t=3416) 5V input via AMS1117-3.3 LDO
 [Getting Started with VS Code and PlatformIO IDE for ESP32 and ESP8266 | Random Nerd Tutorials](https://randomnerdtutorials.com/vs-code-platformio-ide-esp32-esp8266-arduino/)
+
+[thelastoutpostworkshop/gpio_viewer: GPIOViewer Arduino Library to see live GPIO Pins on ESP32 boards](https://github.com/thelastoutpostworkshop/gpio_viewer)
+[Revolutionize Your ESP32 Projects with Live GPIO Pin Monitoring! - YouTube](https://www.youtube.com/watch?v=UxkOosaNohU)
 
 https://pan.baidu.com/s/1ycfadOAvoBZxL1R_L1MY-A 密码 bwle
 

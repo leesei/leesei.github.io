@@ -2,7 +2,7 @@
 title: Nginx
 description: ""
 created: 2014-12-11
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - nginx
   - reverse-proxy
@@ -266,6 +266,7 @@ chmod -R g+w /home/www
 ```
 
 [Linux ACLs - Servers for Hackers](https://serversforhackers.com/video/linux-acls)
+[How to Use Filesystem ACLs (Access Control Lists) on Linux](https://www.howtogeek.com/how-to-use-filesystem-acl-on-linux/)
 
 ```sh
 mkdir /home/www
@@ -275,7 +276,7 @@ setfacl -R -m u:${USER}:rwx /var/www
 
 ## Proxy
 
-[Load balancing (computing) - Wikiwand](<https://www.wikiwand.com/en/Load_balancing_(computing)#/Server-side_Load_Balancers>)
+[Load balancing (computing) - Wikiwand](<https://omni.wikiwand.com/en/Load_balancing_(computing)#/Server-side_Load_Balancers>)
 [Using nginx as HTTP load balancer](http://nginx.org/en/docs/http/load_balancing.html)
 [NGINX Load Balancing - HTTP and TCP Load Balancer](https://www.nginx.com/resources/admin-guide/load-balancer/)
 [Module ngx_http_proxy_module](http://nginx.org/en/docs/http/ngx_http_proxy_module.html)
@@ -486,3 +487,11 @@ location /nginx_status {
     deny all;
 }
 ```
+
+---
+
+# Freenginx
+
+[nginx news](https://freenginx.org/)
+[Freenginx: A Fork of Nginx - The New Stack](https://thenewstack.io/freenginx-a-fork-of-nginx/)
+[Introducing Freenginx, a Fork of The Most Popular Web Server](https://www.makeuseof.com/freenginx-nginx-fork-web-server/)

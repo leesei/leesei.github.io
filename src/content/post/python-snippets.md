@@ -2,7 +2,7 @@
 title: Python snippets
 description: ""
 created: 2014-12-11
-updated: 2023-10-18
+updated: 2024-05-24
 tags:
   - comp/lang
   - python
@@ -305,6 +305,7 @@ from itertools import groupby
 ## Natural sort
 
 [sorting - Does Python have a built in function for string natural sort? - Stack Overflow](https://stackoverflow.com/questions/4836710/does-python-have-a-built-in-function-for-string-natural-sort)
+[Exploring Natural Sorting in Python - KDnuggets](https://www.kdnuggets.com/exploring-natural-sorting-in-python)
 
 ```python
 import re

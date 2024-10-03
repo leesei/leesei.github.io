@@ -2,7 +2,7 @@
 title: Peer-to-peer Technologies
 description: ""
 created: 2016-09-20
-updated: 2023-09-29
+updated: 2024-09-15
 tags:
   - web
 ---
@@ -30,6 +30,14 @@ Dat is the package manager for data. Share files with version control, back up d
 
 [MagnetW-最強 BT 種子搜索神器！ – 零度解說](https://www.freedidi.com/1825.html)
 [2021 年可用、好用、值得推荐的磁力搜索引擎【更新版】-出家如初,成佛有余](https://www.yeeach.com/post/1367)
+
+[Torrends – Torrent Search and Sites](https://torrends.to/)
+[How to Use PirateBay to Download Torrent Files in 2024](https://www.pirateproxy-bay.com/)
+[Download music, movies, games, software! The Pirate Bay - The galaxy's most resilient BitTorrent site](https://www.thepiratebay3.co/)
+[Torrentgalaxy: The Official Home | Torrentgalaxy Official](https://torrentgalaxy-official.com/)
+[Torrent Downloads - download free torrents!](https://www.torrentdownloads.pro/)
+[Torlock - The No Fakes Torrent Site.](https://www.torlock.com/)
+[The Official Home of YIFY Movies Torrent Download - YTS](https://yts.mx/)
 
 ## LBRY
 

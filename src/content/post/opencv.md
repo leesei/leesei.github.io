@@ -2,7 +2,7 @@
 title: OpenCV
 description: ""
 created: 2014-12-31
-updated: 2023-09-29
+updated: 2024-07-04
 tags:
   - comp/lang
   - opencv
@@ -43,8 +43,6 @@ Murtaza's Workshop
 
 [Finger Detection and Tracking using OpenCV and Python - DEV Community 👩‍💻👨‍💻](https://dev.to/amarlearning/finger-detection-and-tracking-using-opencv-and-python-586m)
 
-[How to track football players using Yolo, SORT and Opencv. | by C Kuan | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/how-to-track-football-players-using-yolo-sort-and-opencv-6c58f71120b8)
-
 [Image Segmentation Using Color Spaces in OpenCV + Python – Real Python](https://realpython.com/python-opencv-color-spaces/)
 [Python Face Detection & OpenCV Examples Mini-Guide](https://static.realpython.com/guides/python-opencv-examples.pdf) (PDF)
 
@@ -54,6 +52,15 @@ Murtaza's Workshop
 [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
 
 [Build a Face Detection Model on a Video using Python](https://www.analyticsvidhya.com/blog/2018/12/introduction-face-detection-video-deep-learning-python/)
+
+## YOLO
+
+[THU-MIG/yolov10: YOLOv10: Real-Time End-to-End Object Detection](https://github.com/THU-MIG/yolov10)
+[YOLOv10 - Ultralytics YOLO Docs](https://docs.ultralytics.com/models/yolov10/)
+[ultralytics/ultralytics: NEW - YOLOv8 🚀 in PyTorch > ONNX > OpenVINO > CoreML > TFLite](https://github.com/ultralytics/ultralytics)
+
+[How to track football players using Yolo, SORT and Opencv. | by C Kuan | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/how-to-track-football-players-using-yolo-sort-and-opencv-6c58f71120b8)
+[用YOLO让本地摄像头识别任意目标，yolov10本地部署与训练教程。 - YouTube](https://www.youtube.com/watch?v=7YRJIAIhMpw)
 
 ## Video
 

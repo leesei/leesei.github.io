@@ -2,12 +2,12 @@
 title: Internet Archive
 description: ""
 created: 2015-12-30
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - web
 ---
 
-[Internet Archive - Wikiwand](https://www.wikiwand.com/en/Internet_Archive)
+[Internet Archive - Wikiwand](https://omni.wikiwand.com/en/Internet_Archive)
 
 [Internet Archive: Digital Library of Free Books, Movies, Music & Wayback Machine](https://archive.org/)
 [Internet Archive: Wayback Machine](http://archive.org/web/)

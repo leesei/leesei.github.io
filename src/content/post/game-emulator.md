@@ -2,7 +2,7 @@
 title: Game Emulator
 description: ""
 created: 2017-07-10
-updated: 2023-11-06
+updated: 2024-09-19
 tags:
   - emulator
   - games
@@ -11,6 +11,9 @@ tags:
 [[steam-deck#Emulation]]
 
 [Emulation - Computerphile - YouTube](https://www.youtube.com/watch?v=m6l3Elk7-Hg)
+[Software Emulators vs FPGAs - YouTube](https://www.youtube.com/watch?v=sMMiBEhnizE)
+
+[From Shady to Legal: How Bleem & VGS Battled Sony - YouTube](https://www.youtube.com/watch?v=UGHul1PrXCE&t=41s)
 
 [The Emulator Zone - Your Source for Emulation!](https://www.emulator-zone.com)
 [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page)
@@ -18,11 +21,10 @@ tags:
 [Retro Game Corps](https://retrogamecorps.com/)
 
 [Alexwpi Game - YouTube](https://www.youtube.com/@AlexwpiGame)
+[List of best emulators for each console 2024 - YouTube](https://www.youtube.com/watch?v=xgYgUxnTZM8)
+[The BEST Emulators of 2023 - YouTube](https://www.youtube.com/watch?v=sVPot6-YbsM)
 [Top 10 Emulators of 2022 - YouTube](https://www.youtube.com/watch?v=hd3VE7JZppY)
 [EMU-NATION: Cemu Rage, RPCS3 and PJ64 goes clean? - YouTube](https://www.youtube.com/watch?v=BF6gZbdEmso)
-[EMU-NATION: NEW Hardware for 2021 & NEW Sega Saturn News! - YouTube](https://www.youtube.com/watch?v=s-Wg7f_PLk8)
-[Top 10 Emulators to use in 2017! - YouTube](https://www.youtube.com/watch?v=C0VqwK-Ix_I)
-[Top 10 Emulators to use in 2017! - Part 2 - YouTube](https://www.youtube.com/watch?v=7p0apFT5d58)
 
 [Writing NES Games! With Assembly!! - YouTube](https://www.youtube.com/watch?v=kXbMCKMJXXQ)
 
@@ -45,7 +47,6 @@ MEDNAFEN Multi systems, Good Saturn support
 [EmuMovies Sync - EmuMovies Sync - EmuMovies](https://emumovies.com/files/file/321-emumovies-sync/) box arts, previews
 
 [小鸡模拟器 - 小鸡模拟器 PC 版|小鸡模拟器 iOS 版|小鸡模拟器官网\_小鸡模拟器](https://www.xiaoji001.com/)
-[小鸡模拟器官方下载 2022app-小鸡模拟器最新版 2022 下载 v1.7.29 安卓手机版-二维码-2265 手游网](http://www.2265.com/game/23530.html)
 [悟饭游戏厅 - 发现属于你的游戏！](https://www.5fun.com/)
 
 ## LaunchBox
@@ -188,12 +189,16 @@ PSXP feature to straighten jagged lines
 
 [DUCKSTATION PS Emulator full setup guide 2023 - YouTube](https://www.youtube.com/watch?v=U7iirkW9ul8)
 
+### Games
+
+KLONOA
+
 ## PS2
 
 [PlayStation 2 emulators - Emulation General Wiki](https://emulation.gametechwiki.com/index.php/PlayStation_2_emulators)
 
 [PCSX2 - An Open-Source PS2 Emulator](https://pcsx2.net/)
-[PCSX2 FULL SETUP GUIDE - YouTube](https://www.youtube.com/watch?v=mSSE3mHzlTI)
+[PCSX2 Full Setup Guide For 2024 - YouTube](https://www.youtube.com/watch?v=BVwxGmSZ408)
 
 [AetherSX2](https://www.aethersx2.com/) ARM
 
@@ -201,19 +206,20 @@ PSXP feature to straighten jagged lines
 
 Ape Escape 2
 
-## PS4
-
-As of 2023-06, PS4 emulator is not available.
-
-Uncharted: The Nathan Drake Collection (1-3)
-Uncharted 4: A Thief's End
-
 ## N64
+
+[Nearly all Nintendo 64 games can now be recompiled into native PC ports to add proper ray tracing, ultrawide, high FPS, and more | Tom's Hardware](https://www.tomshardware.com/video-games/nearly-all-nintendo-64-games-can-now-be-recompiled-into-native-pc-ports-to-add-proper-ray-tracing-ultrawide-high-fps-and-more)
+[N64 recompilation is here - and its looking good! - YouTube](https://www.youtube.com/watch?v=WK5VuOInqlg)
 
 ### Games
 
 Zelda: Ocarina of Time
 Zelda: Majora's Mask
+
+## XBox
+
+[xemu: Original Xbox Emulator](https://xemu.app/)
+dev kit for homebrew
 
 ## Dreamcast
 
@@ -238,12 +244,19 @@ Zelda: Majora's Mask
 
 ## NDS
 
+> Citra was no more
+
 [NDS ROMs FREE | Nintendo DS Games | ROMs Games](https://www.romsgames.net/roms/nintendo-ds/)
+
+[DraStic -Index page](https://www.drastic-ds.com/)
+[DraStic DS Emulator - Apps on Google Play](https://play.google.com/store/apps/details?id=com.dsemu.drastic&hl=en_US&gl=US)
+
+[Home - Panda3DS](https://panda3ds.com/)
+[wheremyfoodat/Panda3DS: HLE 3DS emulator](https://github.com/wheremyfoodat/Panda3DS)
 
 DQ4
 DQ5
 DQ6
-Ghost Trick: Phantom Detective
 
 ## PSP
 
@@ -252,6 +265,7 @@ PPSSPP
 ## PS Vita
 
 > backward compatibility with PSP
+> great improvements in 2023
 
 [Vita3K - An Experimental PSVita Emulator](https://vita3k.org/)
 [Vita3K - compatibility](https://vita3k.org/compatibility.html)

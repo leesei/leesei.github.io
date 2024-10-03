@@ -2,14 +2,14 @@
 title: Open Source Copyright
 description: ""
 created: 2023-06-28
-updated: 2023-11-26
+updated: 2024-08-29
 tags:
   - copyleft
   - foss
   - gpl
   - ip/copyright
-  - oss
   - law
+  - oss
 ---
 
 [Open Source Supporters](http://www.iloveopensource.io/)
@@ -96,7 +96,7 @@ If your work linked to/based on (AGPLv3 s5) GPL/AGPL code, copyleft kicks in.
 [Copyleft and the GNU General Public License: A Comprehensive Tutorial and Guide](https://copyleft.org/guide/)
 [The problems with the GPL](https://unixsheikh.com/articles/the-problems-with-the-gpl.html)
 
-[Tivoization - Wikiwand](https://www.wikiwand.com/en/Tivoization)
+[Tivoization - Wikiwand](https://omni.wikiwand.com/en/Tivoization)
 [Linus Torvalds says GPL v3 violates everything that GPLv2 stood for - YouTube](https://www.youtube.com/watch?v=PaKIZ7gJlRU)
 [licensing - What exactly is Tivoization and why did Linus Torvalds not like it in GPLv3? - Open Source Stack Exchange](https://opensource.stackexchange.com/questions/7020/what-exactly-is-tivoization-and-why-did-linus-torvalds-not-like-it-in-gplv3)
 
@@ -187,7 +187,7 @@ It has been a trend to set up "foundations" to take up successful project from e
 
 > merge with [[#Source Available (Faux OSS?)]]?
 
-[Open-core model - Wikiwand](https://www.wikiwand.com/en/Open-core_model)
+[Open-core model - Wikiwand](https://omni.wikiwand.com/en/Open-core_model)
 
 [#2: Open Core —Definition, Examples & Tradeoffs | OSS Capital](https://oss.capital/blog/2-open-core-definition-examples-tradeoffs)
 [Open Source growing pains: Is Open Core the answer? | ZDNet](https://www.zdnet.com/google-amp/article/open-source-growing-pains-is-open-core-the-answer/)
@@ -208,6 +208,8 @@ It has been a trend to set up "foundations" to take up successful project from e
 ## Source Available (Faux OSS?)
 
 [Fair-code](https://faircode.io/)
+
+[FSL - Functional Source License](https://fsl.software/) forbids Competing Use, turns to MIT/Apache after 2 years
 
 [licensing - License that prevents SaaS hosting - Open Source Stack Exchange](https://opensource.stackexchange.com/questions/9116/license-that-prevents-saas-hosting)
 [The battle between real open source vs. faux open source heats up | ZDNet](https://www.zdnet.com/google-amp/article/the-battle-between-real-open-source-vs-faux-open-source-heats-up/)
@@ -305,7 +307,7 @@ Not open source. Not closed source. The Fair Source License allows everyone to s
 
 ### SBOM Tools
 
-[Software Package Data Exchange - Wikiwand](https://www.wikiwand.com/en/Software_Package_Data_Exchange)
+[Software Package Data Exchange - Wikiwand](https://omni.wikiwand.com/en/Software_Package_Data_Exchange)
 [International Open Standard (ISO/IEC 5962:2021) - Software Package Data Exchange (SPDX)](https://spdx.dev/)
 [SPDX](https://github.com/spdx) GitHub Org, spec and language specific tools
 [What Is SPDX and How Does It Work? | Synopsys](https://www.synopsys.com/glossary/what-is-spdx.html)

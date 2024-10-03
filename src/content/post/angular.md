@@ -2,7 +2,7 @@
 title: Angular
 description: ""
 created: 2016-06-08
-updated: 2023-09-29
+updated: 2024-04-06
 tags:
   - frontend
   - javascript
@@ -19,6 +19,11 @@ tags:
 [PatrickJS/awesome-angular: A curated list of awesome Angular resources](https://github.com/PatrickJS/awesome-angular)
 [Angular 16 – Top 8 new features must be known for developers](https://www.c-sharpcorner.com/article/angular-16-top-8-new-features-must-be-known-for-developers/)
 
+## Commentaries
+
+[Why are developers still using Angular? - Aphinya Dechalert - Medium](https://medium.com/@PurpleGreenLemon/why-are-developers-still-using-angular-b9ef29d1f97f)
+[Angular’s Third Era is…weird - YouTube](https://www.youtube.com/watch?v=3CBlwpC1gW4) Angular merging with Wiz
+
 ## Angular Ivy
 
 Ivy is a new backwards-compatible Angular renderer focused on further speed improvements, size reduction, and increased flexibility.
@@ -34,9 +39,10 @@ Legacy renderer is removed in Angular 16 (2023-05).
 [zone.js - npm](https://www.npmjs.com/package/zone.js?activeTab=readme)
 [[Day 08]可能是最簡單的 Zone.js 教學 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10220772)
 
-## Angular
+## Route
 
-[Why are developers still using Angular? - Aphinya Dechalert - Medium](https://medium.com/@PurpleGreenLemon/why-are-developers-still-using-angular-b9ef29d1f97f)
+[Angular - Common Routing Tasks](https://angular.io/guide/router)
+[Demystifying Angular Route Guards: A Beginner's Guide to Secure Navigation - DEV Community](https://dev.to/this-is-angular/demystifying-angular-route-guards-a-beginners-guide-to-secure-navigation-597b)
 
 ## Library
 

@@ -2,14 +2,14 @@
 title: Nuclear Weapon
 description: ""
 created: 2023-03-24
-updated: 2023-11-28
+updated: 2024-08-14
 tags:
   - history
   - science
   - world-war
 ---
 
-[Nuclear weapon - Wikiwand](https://www.wikiwand.com/en/nuclear%20bomb)
+[Nuclear weapon - Wikiwand](https://omni.wikiwand.com/en/nuclear%20bomb)
 
 [How to launch a nuclear missile - YouTube](https://www.youtube.com/watch?v=7Wi8pjzsFD4)
 
@@ -37,9 +37,9 @@ The heavy loss in the incursion of Okinawa caused US President Truman to use ato
 [How The Demon Core Killed Everyone Who Touched It - YouTube](https://www.youtube.com/watch?v=rlywR2PNwCg)
 [The Plutonium Core of an Atom Bomb - Periodic Table of Videos - YouTube](https://www.youtube.com/watch?v=QLZMzsRB86E)
 
-[Thin Man (nuclear bomb) - Wikiwand](<https://www.wikiwand.com/en/Thin_Man_(nuclear_bomb)>)
-[Little Boy - Wikiwand](https://www.wikiwand.com/en/Little_Boy)
-[Fat Man - Wikiwand](https://www.wikiwand.com/en/Fat_Man)
+[Thin Man (nuclear bomb) - Wikiwand](<https://omni.wikiwand.com/en/Thin_Man_(nuclear_bomb)>)
+[Little Boy - Wikiwand](https://omni.wikiwand.com/en/Little_Boy)
+[Fat Man - Wikiwand](https://omni.wikiwand.com/en/Fat_Man)
 [Why Protecting Tanks is Getting Much More Difficult - YouTube](https://www.youtube.com/watch?v=C4NmOss83XI)
 
 Core X (Thin Man, Implosion type, Trinity test in New Mexico, July 16, 1945)
@@ -54,7 +54,7 @@ Implosion type bomb:　 Plutonium has smaller critical mass than U-235 and cost 
 
 ## Hydrogen Bomb/Fusion Bomb/Thermonuclear Bomb
 
-[Thermonuclear weapon - Wikiwand](https://www.wikiwand.com/en/Thermonuclear_weapon)
+[Thermonuclear weapon - Wikiwand](https://omni.wikiwand.com/en/Thermonuclear_weapon)
 
 An Implosion type Fission bomb is used to create the temperature and pressure to kick start nuclear fusion
 

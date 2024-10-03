@@ -2,13 +2,13 @@
 title: Data Visualization
 description: ""
 created: 2016-04-08
-updated: 2023-09-29
+updated: 2024-09-08
 tags:
   - big-data
   - visualization
 ---
 
-[Graph drawing - Wikiwand](http://www.wikiwand.com/en/Graph_drawing)
+[Graph drawing - Wikiwand](http://omni.wikiwand.com/en/Graph_drawing)
 [The Key Differences Between Charts and Graphs Explained](https://www.worldoweb.co.uk/2019/key-differences-between-charts-and-graphs)
 [Effective Data Visualisation - with Valentina D'Efilippo - YouTube](https://www.youtube.com/watch?v=MIZXqC1-VLc)
 [Foundations of Data Visualisation - Computerphile - YouTube](https://www.youtube.com/watch?v=qQ9Wu1IxsYw)
@@ -348,6 +348,10 @@ Server-client architecture, with Python, JS, Scala, R clients
 [epezent/implot: Advanced 2D Plotting for Dear ImGui](https://github.com/epezent/implot)
 
 [Data Preprocessing And Visualization In C++ - Towards Data Science](https://towardsdatascience.com/data-preprocessing-and-visualization-in-c-6d97ed236f3b)
+
+## C#
+
+[GoDiagram - .NET Diagrams for WinForms and Avalonia](https://godiagram.com/winforms/latest/index.html)
 
 ## Julia
 

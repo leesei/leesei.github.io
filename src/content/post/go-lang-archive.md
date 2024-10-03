@@ -2,7 +2,7 @@
 title: The Go Programming Language (Archives)
 description: Archived Go Programming Language notes
 created: 2023-03-30
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - archived
   - comp/lang

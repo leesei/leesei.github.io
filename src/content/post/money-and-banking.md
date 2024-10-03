@@ -2,15 +2,17 @@
 title: Money and Banking
 description: ""
 created: 2015-10-09
-updated: 2023-10-04
+updated: 2024-08-22
 tags:
   - economics
   - monetary-policy
 ---
 
-[Great Depression - Wikiwand](https://www.wikiwand.com/en/Great_Depression)
+[Great Depression - Wikiwand](https://omni.wikiwand.com/en/Great_Depression)
 
 [一口气了解银行游戏规则 中美银行体系 - YouTube](https://www.youtube.com/watch?v=MdIL4rxiYDM)
+[一口气了解美联储 | 全球权力最大的金融机构 - YouTube](https://www.youtube.com/watch?v=iGz2uWl-kGc)
+[【硬核】一口气了解外汇 | Everything You Need To Know About Foreign Exchange - YouTube](https://www.youtube.com/watch?v=NM1hSguZ4fI)
 
 ## Global Reserve Currency
 
@@ -34,18 +36,23 @@ tags:
 
 ## Monetary policy
 
-[Monetary policy - Wikiwand](https://www.wikiwand.com/en/Monetary_policy)
-[Quantitative easing - Wikiwand](https://www.wikiwand.com/en/Quantitative_easing)
-[Excess reserves - Wikiwand](https://www.wikiwand.com/en/Excess_reserves)
+[Monetary policy - Wikiwand](https://omni.wikiwand.com/en/Monetary_policy)
+[Quantitative easing - Wikiwand](https://omni.wikiwand.com/en/Quantitative_easing)
+[Excess reserves - Wikiwand](https://omni.wikiwand.com/en/Excess_reserves)
 
 [Monetary Policy Definition | Investopedia](http://www.investopedia.com/terms/m/monetarypolicy.asp)
 [美國列人民幣為貨幣操縱國 人民幣破七真相〈蕭若元：蕭氏新聞台〉2019-08-06 - YouTube](https://www.youtube.com/watch?v=XNiXinL1Aqw)
+
+[汇率为什么涨跌 | 美元跌宕50年 - YouTube](https://www.youtube.com/watch?v=Q73s8v_d46M)
+
+- purchasing power parity
+- interest rate parity
 
 ### Money supply
 
 [货币是怎么产生的？国家要印多少钱？每个人都要了解的财富密码 - YouTube](https://www.youtube.com/watch?v=jW6AxaKjEmE)
 
-[Money supply - Wikiwand](http://www.wikiwand.com/en/Money_supply)
+[Money supply - Wikiwand](http://omni.wikiwand.com/en/Money_supply)
 [M1 Definition | Investopedia](http://www.investopedia.com/terms/m/m1.asp)
 [M2 Definition | Investopedia](http://www.investopedia.com/terms/m/m2.asp)
 [M3 Definition | Investopedia](http://www.investopedia.com/terms/m/m3.asp)

@@ -2,7 +2,7 @@
 title: GraphQL
 description: ""
 created: 2015-12-04
-updated: 2023-11-02
+updated: 2024-06-11
 tags:
   - falcor
   - graphql
@@ -134,6 +134,9 @@ Playground
 [GraphQL for All? A Few Things to Think about before Blindly Dumping REST for GraphQL](https://www.infoq.com/presentations/api-rest-graphql)
 [Does GraphQL replace REST API ? - DEV Community 👩‍💻👨‍💻](https://dev.to/pratham10/does-graphql-replace-rest-api--50fm)
 [GraphQL and REST | Secret Weblog](http://blog.startifact.com/posts/graphql-and-rest.html)
+
+[Why, after 6 years, I’m over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
+[I Am Done With Graph QL After 6 Years - YouTube](https://www.youtube.com/watch?v=XBUsRVepF-8)
 
 [GraphQL Hard Truths - YouTube](https://www.youtube.com/watch?v=qgdiLcD2RL8) GraphQL frontend not using Relay is inferior as Relay does a lot of query optimization and caching; however Relay is difficult to setup
 
@@ -547,7 +550,7 @@ Graphene Python is built upon GraphQL-core, which is a Python port of GraphQL.js
 [graphql-tools | GraphQL Tools](https://www.apollographql.com/docs/graphql-tools/)
 [apollo-client/packages/apollo-boost at master · apollographql/apollo-client](https://github.com/apollographql/apollo-client/tree/master/packages/apollo-boost) project generator
 [apollographql/apollo-tooling: ✏️ Tooling for development and production Apollo workflows](https://github.com/apollographql/apollo-tooling) CLI client
-[Apollo Client Developer Tools - Chrome Web Store](https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm)
+[Apollo Client Developer Tools](https://chromewebstore.google.com/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm)
 
 [How to Rock the Party with Apollo GraphQL Cache 🎉🎈 - DEV Community 👩‍💻👨‍💻](https://dev.to/akshar07/how-to-rock-the-party-with-apollo-graphql-cache-361l)
 [apollo-client/packages/apollo-cache-inmemory at master · apollographql/apollo-client](https://github.com/apollographql/apollo-client/tree/master/packages/apollo-cache-inmemory)

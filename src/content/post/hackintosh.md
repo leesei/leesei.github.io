@@ -2,7 +2,7 @@
 title: Hackintosh
 description: ""
 created: 2015-01-23
-updated: 2023-09-29
+updated: 2024-06-18
 tags:
   - desktop
   - linux
@@ -17,9 +17,10 @@ tags:
 [黑苹果（hackintosh）技术整合指南 - 知乎](https://zhuanlan.zhihu.com/p/59202039)
 
 [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
-[这台迷你电脑竟然可以“完美”黑苹果，而且还不贵？【开箱翼闻录 第 26 期】 - YouTube](https://www.youtube.com/watch?v=d1olPsGzfGo)
+[这台迷你电脑竟然可以“完美”黑苹果，而且还不贵？【开箱翼闻录 第 26 期】 - YouTube](https://www.youtube.com/watch?v=d1olPsGzfGo) 2021-08
+[The Most Powerful Hackintosh & Video You'll Ever See about it! 2024 Intel 14900K & AMD RX6950 in 8K - YouTube](https://www.youtube.com/watch?v=EujghQXF9Go) 2024-05
 
-[小米笔记本 Pro 三步变身黑苹果/手把手安装 Mojave/(HACKINTOSH GUIDE How to Install MacOS Mojavethosh1) - YouTube](https://www.youtube.com/watch?v=6Ef_ktXA6_s)
+[小米笔记本 Pro 三步变身黑苹果/手把手安装 Mojave/(HACKINTOSH GUIDE How to Install MacOS Mojavethosh1) - YouTube](https://www.youtube.com/watch?v=6Ef_ktXA6_s) 2018-12
 [第二弹手把手安装黑苹果/三步教小米笔记本变 Mac/Mojave 小米驱动安装 /专用 EFI 引导/(HACKINTOSH GUIDE How to Install MacOS Mojavethosh 2) - YouTube](https://www.youtube.com/watch?v=M0GqNuJvvj8)
 [第三弹黑苹果保姆级安装教学/手把手教你解决黑苹果的各种问题/补丁让你的黑苹果更加完美/(HACKINTOSH GUIDE How to Install MacOS Mojavethosh3) - YouTube](https://www.youtube.com/watch?v=C47jJD879SE)
 

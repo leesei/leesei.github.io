@@ -2,7 +2,7 @@
 title: Android notes
 description: ""
 created: 2014-12-17
-updated: 2023-10-28
+updated: 2024-08-14
 tags:
   - aapt
   - adb
@@ -194,7 +194,7 @@ cat /proc/bus/input/devices
 
 Deprecated from Android 12
 
-[RenderScript - Wikiwand](https://www.wikiwand.com/en/RenderScript)
+[RenderScript - Wikiwand](https://omni.wikiwand.com/en/RenderScript)
 [RenderScript Overview  |  Android Developers](https://developer.android.com/guide/topics/renderscript/compute)
 
 [Android Renderscript - YouTube](https://www.youtube.com/watch?v=7TqTnlYAg8E) 2011
@@ -227,6 +227,21 @@ Android app that is able to allow mobile to control Android STB remotely. The se
 [Programmatically Injecting Events on Android - Part 1 - PocketMagic](http://www.pocketmagic.net/injecting-events-programatically-on-android/)
 [Programmatically Injecting Events on Android - Part 2 - PocketMagic](http://www.pocketmagic.net/programmatically-injecting-events-on-android-part-2/)
 [Android Overlay Mouse Cursor - PocketMagic](http://www.pocketmagic.net/android-overlay-cursor/)
+
+## OTA update
+
+[OTA updates  |  Android Open Source Project](https://source.android.com/docs/core/ota)
+[APEX file format  |  Android Open Source Project](https://source.android.com/docs/core/ota/apex)
+[A/B (seamless) system updates  |  Android Open Source Project](https://source.android.com/docs/core/ota/ab)
+[Non-A/B system updates  |  Android Open Source Project](https://source.android.com/docs/core/ota/nonab)
+[Dynamic partitions  |  Android Open Source Project](https://source.android.com/docs/core/ota/dynamic_partitions)
+
+## Security
+
+[Android Security  |  Android Open Source Project](https://source.android.com/docs/security)
+[Secure an Android Device  |  Android Open Source Project](https://source.android.com/docs/security/overview)
+[Android Security Features  |  Android Open Source Project](https://source.android.com/docs/security/features)
+[Android Security Best Practices  |  Android Open Source Project](https://source.android.com/docs/security/best-practices)
 
 ## Debugging
 

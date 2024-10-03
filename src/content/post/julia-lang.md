@@ -2,7 +2,7 @@
 title: Julia
 description: ""
 created: 2015-11-19
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - comp/lang
   - julia

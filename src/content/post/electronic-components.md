@@ -2,7 +2,7 @@
 title: Electronic Components
 description: ""
 created: 2018-09-12
-updated: 2023-10-31
+updated: 2024-09-08
 tags:
   - electronics
   - maker
@@ -15,11 +15,13 @@ tags:
 
 [DroneBot Workshop - YouTube](https://www.youtube.com/channel/UCzml9bXoEM0itbcE96CB03w) many components
 [JohnAudioTech - YouTube](https://www.youtube.com/user/JohnAudioTech/)
+[Andreas Spiess - YouTube](https://www.youtube.com/@AndreasSpiess)
+[SensorsIOT – All about sensors and IOT](https://www.sensorsiot.org/)
 [How To Mechatronics](https://howtomechatronics.com/)
 [How To Mechatronics - YouTube](https://www.youtube.com/channel/UCmkP178NasnhR3TWQyyP4Gw)
 [Engineers - The Engineering Mindset](https://theengineeringmindset.com/)
 [The Engineering Mindset - YouTube](https://www.youtube.com/channel/UCk0fGHsCEzGig-rSzkfCjMw)
-[工科男孙老师 - YouTube](https://www.youtube.com/channel/UCcGM3aVEJ6SrH5UtfZ80YHQ)
+[工科男孙老师 - YouTube](https://www.youtube.com/@hellosunlaoshi/)
 [Components101 - Electronic Components Pinouts, Details & Datasheets](https://components101.com/)
 [Electronics Projects Circuits](https://www.electroschematics.com/)
 [Blog • AranaCorp](https://www.aranacorp.com/en/blog-2/)
@@ -434,15 +436,21 @@ Fine: M-3
 
 [Introduction to Interfaces - YouTube](https://www.youtube.com/watch?v=nMZJwspSkAc)
 
-[General-purpose input/output - Wikiwand](https://www.wikiwand.com/en/General-purpose_input/output)
+[General-purpose input/output - Wikiwand](https://omni.wikiwand.com/en/General-purpose_input/output)
 [GPIO 接腳基本認知 – circuitcellar](https://www.circuitcellar.com.tw/?p=650)
+
+[UART那么好用，为什么单片机还需要I2C和SPI？ - YouTube](https://www.youtube.com/watch?v=UGKT2OPyz1U)
+[15分鐘了解微控制器傳輸協議｜UART／SPI／I2C／CAN／LIN - YouTube](https://www.youtube.com/watch?v=HQ6y7WfBNmo)
+
+[嵌入式通讯的基本逻辑(上)—— 弄懂UART I2C SPI CAN LIN 和 ETH的内在联系 - YouTube](https://www.youtube.com/watch?v=cdrte37s4K8)
+[嵌入式通信的底层逻辑(下) —— 时钟恢复、信号编码调制与DDR在以太网等通信中的作用 - YouTube](https://www.youtube.com/watch?v=FX969pYrfVw)
 
 > Note: when communicating serial bus on ESP32 (with multicore), we have to enter critical session to prevent the bus to timeout
 > see <https://github.com/beegee-tokyo/DHTesp/blob/master/DHTesp.cpp>, search `ESP32`
 
 ### Bit-Banging
 
-[Bit banging - Wikiwand](https://www.wikiwand.com/en/Bit_banging) software implementation of serial interface
+[Bit banging - Wikiwand](https://omni.wikiwand.com/en/Bit_banging) software implementation of serial interface
 
 [Overview - V-USB](http://vusb.wikidot.com/) emulate USB with Bit banging on cheap Atmel chips
 [V-USB - A Firmware-Only USB Driver for Atmel AVR Microcontrollers](https://www.obdev.at/products/vusb/index.html)
@@ -455,17 +463,18 @@ Fine: M-3
 
 ### Serial
 
-[Transistor–transistor logic - Wikiwand](https://www.wikiwand.com/en/Transistor%E2%80%93transistor_logic)
+[Transistor–transistor logic - Wikiwand](https://omni.wikiwand.com/en/Transistor%E2%80%93transistor_logic) TTL
 On 5V, High > 2.4V, Low < 0.4V
 Weak anti-interference
 
-[Serial port - Wikiwand](https://www.wikiwand.com/en/Serial_port)
-[RS-232 - Wikiwand](https://www.wikiwand.com/en/RS-232)
+[Serial port - Wikiwand](https://omni.wikiwand.com/en/Serial_port)
+[5分钟看懂!串口RS232 RS485最本质的区别！ - YouTube](https://www.youtube.com/watch?v=HKQaYN5Odlk)
+[RS-232 - Wikiwand](https://omni.wikiwand.com/en/RS-232)
 Convert 0-5V TTL signal to (-15V, 15V) via Voltage Level Shifter, High 3 - 15V, Low -3 - -15V
 15m, 2Mbps
 
-[RS-485 - Wikiwand](https://www.wikiwand.com/en/RS-485)
-Uses differential signaling
+[RS-485 - Wikiwand](https://omni.wikiwand.com/en/RS-485)
+Uses differential signaling on twisted cables, half duplex
 1200m, 50Mbps
 
 [Serial Communication - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/serial-communication/all) RS232, UARTs
@@ -481,7 +490,7 @@ RX, TX without clock
 
 ### USB Serial/UART
 
-[Universal asynchronous receiver-transmitter - Wikiwand](https://www.wikiwand.com/en/Universal_asynchronous_receiver-transmitter)
+[Universal asynchronous receiver-transmitter - Wikiwand](https://omni.wikiwand.com/en/Universal_asynchronous_receiver-transmitter)
 [Hacker's Guide to UART Root Shells - YouTube](https://www.youtube.com/watch?v=01mw0oTHwxg)
 
 [Which USB to TTL converter Adapter To Chose For Your Arduino Projects?! - YouTube](https://www.youtube.com/watch?v=hE2Yw-fGZRg)
@@ -495,7 +504,7 @@ CH340G, all platforms
 [USB to UART Bridge VCP Drivers | Silicon Labs](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
 CP210X, all platforms
 
-An FTDI chip to provide a USB serial interface to allow you to program it from your PC using a USB cable.
+An FTDI chip to provide a USB to serial (RS-232/TTL serial) interface to allow you to program it from your PC using a USB cable.
 [FT232R](https://www.ftdichip.com/Products/ICs/FT232R.htm)
 [Arduino Playground - FTDI](https://playground.arduino.cc/Main/FTDI) FTDI is one manufacturer of USB-Serial chips
 [FTDI + Arduino Pro Mini - YouTube](https://www.youtube.com/watch?v=Jnf-7NToJSI)
@@ -516,11 +525,11 @@ SUBSYSTEM=="tty", GROUP="plugdev", MODE="0660"
 ACTION=="add", SUBSYSTEMS=="usb", ATTRS{idVendor}=="1a86", ATTRS{idProduct}=="7523", SYMLINK+="wemos"
 ```
 
-Make sure you user is in `plugdev` group (or `dialout` per [espressif doc](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/establish-serial-connection.html)?)
+Make sure you user is in `plugdev` group (or `dialout` or `tty` per [espressif doc](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/establish-serial-connection.html)?)
 
 ### I2C
 
-[I²C - Wikiwand](https://www.wikiwand.com/en/I²C)
+[I²C - Wikiwand](https://omni.wikiwand.com/en/I²C)
 [I2C Device Library](https://www.i2cdevlib.com/)
 [Gammon Forum : Electronics : Microprocessors : I2C - Two-Wire Peripheral Interface - for Arduino](https://gammon.com.au/i2c)
 
@@ -534,6 +543,9 @@ Make sure you user is in `plugdev` group (or `dialout` per [espressif doc](https
 [How I2C Communication Works and How To Use It with Arduino - YouTube](https://www.youtube.com/watch?time_continue=215&v=6IAkYpmA1DQ)
 [I2C-bus by NXP Semiconductors - YouTube](https://www.youtube.com/playlist?list=PLB1BE22BA36431CFD)
 [4 分钟看懂！I2C 通讯协议 最简单的总线通讯！ - YouTube](https://www.youtube.com/watch?v=u62_Rjd5oMY)
+[5分鐘完全了解I2C通訊介面！深入原理解說，揭示其隱藏規律。2024年最詳細解說，掌握I2C的核心概念。無論是尋求技術深入了解還是實際應用，這裡都是您最佳選擇。開啟I2C通訊之門，探索技術的未來。 - YouTube](https://www.youtube.com/watch?v=L98c84j2qmU)
+[单片机I2C通信入门(上)：硬件部分有哪些注意点? - YouTube](https://www.youtube.com/watch?v=VBiNnc37sUw)
+[单片机I2C通信入门(下)：三份文件搞清楚I2C通信协议 - YouTube](https://www.youtube.com/watch?v=xa2DtjFl0Fw&t=37s)
 
 SCK: serial clock
 SDA: serial data
@@ -551,7 +563,7 @@ MCP23017 16 I/Os, with 2 interrupts
 
 ### SPI
 
-[Serial Peripheral Interface - Wikiwand](https://www.wikiwand.com/en/Serial_Peripheral_Interface)
+[Serial Peripheral Interface - Wikiwand](https://omni.wikiwand.com/en/Serial_Peripheral_Interface)
 [Serial Peripheral Interface (SPI) - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi)
 
 [What Could Go Wrong: SPI | Hackaday](https://hackaday.com/2016/07/01/what-could-go-wrong-spi/)
@@ -560,7 +572,7 @@ MCP23017 16 I/Os, with 2 interrupts
 MOSI: master out/slave in
 MISO: master in/slave out
 SCLK: serial clock
-CS<N>: chip select (1 pin for each device on the bus)
+CS{N}: chip select (1 pin for each device on the bus)
 Activate device with active low/high on CS pin (active low)
 Byte interchange during communication, one byte in and one byte out
 
@@ -577,7 +589,7 @@ Endian
 
 ### I2S
 
-[I²S - Wikiwand](https://www.wikiwand.com/en/I²S) Inter-IC Sound
+[I²S - Wikiwand](https://omni.wikiwand.com/en/I²S) Inter-IC Sound
 [Arduino - I2S](https://www.arduino.cc/en/Reference/I2S)
 
 ### JACDAC
@@ -674,6 +686,8 @@ Output: 5V 300mA (not 1A in spec), no protection
 
 [Nanjing Extension Microelectronics TP4056 | lcsc.com](https://lcsc.com/product-detail/PMIC-Battery-Management_TP4056_C16581.html) charging circuit with protection
 [DIY LiPo Charge/Protect/5V Boost Circuit - YouTube](https://www.youtube.com/watch?v=Fj0XuYiE7HU) TP4056 with custom circuit
+
+[How TINY Can I go? The BEST Power Board is here! - YouTube](https://www.youtube.com/watch?v=XAcW4c5qIMc) TPS6302x, low power consumption, 3.3/5V 2A output
 
 Buck-boost converter (with a box) can decrease or increase the input voltage to a specific level.
 S9V11F5, In: 2-16V, Out: 5V 1.5A 2A peak, may get very hot
@@ -780,6 +794,8 @@ TCA9548A demux multiple data streams on i2c and send them to component separatel
 
 [Using an IR Remote and sensor with an Arduino – Brainy-Bits](https://www.brainy-bits.com/ir-remote-arduino/)
 [Using IR Remote Controls with the Arduino - YouTube](https://www.youtube.com/watch?v=8E3ltjnbV0c)
+
+[IR Remotes Revisited - 2023 | DroneBot Workshop](https://dronebotworkshop.com/ir-remotes/)
 
 [一帧红外遥控信号，竟如此复杂，超乎你的想象！红外遥控的工作原理！ - YouTube](https://www.youtube.com/watch?v=Gds_Cz9oMWQ)
 
@@ -910,10 +926,13 @@ So 1 white 5050 takes ~50mA
 
 ### Dot Matrix/LED Array
 
+> convert serial to parallel
+
 [Guide for 8x8 Dot Matrix MAX7219 with Arduino | Random Nerd Tutorials](https://randomnerdtutorials.com/guide-for-8x8-dot-matrix-max7219-with-arduino-pong-game/)
 [Scrolling text using the MAX7219 LED Dot Matrix – Brainy-Bits](https://www.brainy-bits.com/scroll-text-using-the-max7219-led-dot-matrix/)
 [How to use a MAX7219 LED dot matrix with an Arduino – Brainy-Bits](https://www.brainy-bits.com/how-to-control-max7219-led-matrix/)
 [Starting driving LED arrays from the Beaglebone | derekmolloy.ie](http://derekmolloy.ie/driving-led-arrays-using-the-tlc5940/)
+[LED点阵屏是的控制原理 LED广告屏是怎么控制这么多LED灯的 - YouTube](https://www.youtube.com/watch?v=uHCf5c8CYp8)
 
 [Rainbowduino v3.0](http://wiki.seeedstudio.com/Rainbowduino_v3.0/)
 [ULN2803: 8 Channel Darlington Driver (Solenoid/Unipolar Stepper) [ULN2803A] ID: 970 - \$1.95 : Adafruit Industries, Unique & fun DIY electronics and kits](https://www.adafruit.com/product/970)
@@ -985,6 +1004,12 @@ NRF24L01 only supports 1Mbps and 2Mbps
 
 HX711
 
+## ROM
+
+[This 9$ Universal ROM Burner is Open Source! - YouTube](https://www.youtube.com/watch?v=adLz2Gj239s)
+[GAndersBNielsen/Relatively-Universal-ROM-Programmer: Hardware to program W27C512 EEPROM or any 24/28/32 pin ROM requiring from 5V to 27V programming voltage.](https://github.com/AndersBNielsen/Relatively-Universal-ROM-Programmer)
+[AndersBNielsen/65uino: 6502 learning platform in a familiar form factor](https://github.com/AndersBNielsen/65uino)
+
 ## Switch
 
 [Switch Basics - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/switch-basics/all)
@@ -1002,7 +1027,7 @@ HX711
 [How a Key Matrix Work](http://pcbheaven.com/wikipages/How_Key_Matrices_Works/) ❗!important
 logic can also be used for LED matrix
 [Input Matrix Scanning | Open Music Labs](http://www.openmusiclabs.com/learning/digital/input-matrix-scanning/index.html)
-
+[控製64個LED、最少需要幾個引腳？一定要看到最後！ - YouTube](https://www.youtube.com/watch?v=Jv8jhkidris) MAX595 and MAX7219
 [键盘如何识别 104 个按键？绝对巧妙！独立按键和矩阵按键！ - YouTube](https://www.youtube.com/watch?v=JpUGxaGEDGs)
 
 ## Joystick
@@ -1024,52 +1049,20 @@ Funduino Joystick Shield
 
 [nRF24L01 - 2.4GHz RF Transceiver With Arduino (Code and Schematics) | Random Nerd Tutorials](https://randomnerdtutorials.com/nrf24l01-2-4ghz-rf-transceiver-module-with-arduino/)
 
-[Wiegand interface - Wikiwand](https://www.wikiwand.com/en/Wiegand_interface)
+[Wiegand interface - Wikiwand](https://omni.wikiwand.com/en/Wiegand_interface)
 [Wiegand: What Is It And How Does It Work With Access Control | Kisi](https://www.getkisi.com/guides/wiegand)
 [monkeyboard/Wiegand-Protocol-Library-for-Arduino: Wiegand 26 and Wiegand 34 Protocol Library for Arduino](https://github.com/monkeyboard/Wiegand-Protocol-Library-for-Arduino)
 
-### Flipper Zero
-
-[Flipper Zero — Portable Multi-tool Device for Geeks](https://flipperzero.one/)
-[flipperdevices/flipperzero-firmware: Flipper Zero firmware source code](https://github.com/flipperdevices/flipperzero-firmware)
-
-[Talking Sasquach - YouTube](https://www.youtube.com/@TalkingSasquach)
-[Flipper Zero Videos - YouTube](https://www.youtube.com/@FlipperZeroVideos)
-
-[Flipper Zero - Starter Guide - YouTube](https://www.youtube.com/watch?v=MJd6qugqHg8)
-[Flipper Zero - A Hackers Review - YouTube](https://www.youtube.com/watch?v=SuW1CsFU0_8)
-
-[This Makes Hacking TOO Easy - Flipper Zero - YouTube](https://www.youtube.com/watch?v=nLIp4wd0oXs)
-
-David Bombal
-[Flipper Zero: Hottest Hacking Device for 2023? - YouTube](https://www.youtube.com/watch?v=VF3xlAm_tdo)
-[Flipper Zero - YouTube](https://www.youtube.com/playlist?list=PLhfrWIlLOoKPBt0vMsvhPAw4_7Qo_lQLK)
-
-#### Custom Firmware
-
-[Flipper Zero Firmware Update via qFlipper](https://flipperzero.one/update)
-
-[Unleashing the power of the Flipper Zero with custom firmware - YouTube](https://www.youtube.com/watch?v=nc6ZlKn9ZCk)
-[DarkFlippers/unleashed-firmware: Flipper Zero Unleashed Firmware](https://github.com/DarkFlippers/unleashed-firmware)
-
-#### WiFi Dev Board
-
-[Flipper Zero: The Ultimate WI-FI Guide | Marauder ESP32 - YouTube](https://www.youtube.com/watch?v=nEBZ4VeTj7I)
-[Flipper Zero: How To Run Marauder on the WiFi Dev Board - YouTube](https://www.youtube.com/watch?v=_YLTpNo5xa0)
-
-#### Cars
-
-[Flipper Zero vs Cars, Bike locks, Alarm systems and Door chimes 😱 - YouTube](https://www.youtube.com/watch?v=yKTzek8EZ4E)
-
-[Warning! This is how cars are hacked. Just like in Mr Robot. - YouTube](https://www.youtube.com/watch?v=5LvqU3-iINk)
-
-[jimilinuxguy/Tesla-Charging-Port-Opener: Files for HackRF + Portapack MAYHEM firmware to open any and all Tesla vehicle charging ports in range!](https://github.com/jimilinuxguy/Tesla-Charging-Port-Opener)
+[Travis Goodspeed's Blog: Promiscuity is the nRF24L01+'s Duty](http://travisgoodspeed.blogspot.com/2011/02/promiscuity-is-nrf24l01s-duty.html)
+[Travis Goodspeed's Blog: Remotely Exploiting the PHY Layer](http://travisgoodspeed.blogspot.com/2011/09/remotely-exploiting-phy-layer.html)
 
 ## RFID
 
+[[cyber-security#Cybersec Hardwares]]
+
 [RFID Basics - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/rfid-basics)
 [rfid+guide.pdf](https://cdn-shop.adafruit.com/datasheets/rfid+guide.pdf)
-[Radio-frequency identification - Wikiwand](https://www.wikiwand.com/en/Radio-frequency_identification)
+[Radio-frequency identification - Wikiwand](https://omni.wikiwand.com/en/Radio-frequency_identification)
 [About RFID - Learn more about RAIN RFID, UHF RFID, passive RFID](https://www.impinj.com/about-rfid/)
 [HF RFID standards | HF RFID frequencies](http://www.veryfields.net/hf-high-frequency)
 

@@ -2,7 +2,7 @@
 title: Node.js settings
 description: ""
 created: 2014-12-11
-updated: 2023-11-16
+updated: 2024-09-24
 tags:
   - comp/lang
   - nodejs
@@ -242,14 +242,12 @@ npm ls --location=global --depth 0 | grep -P '(?<= ).*(?=@)' -o | grep -v npm | 
 
 ```
 # home
-@google/clasp bunyan sslint fancy-server faucet fixpack github-commits-since-tag-cli hexo-cli htmlhint json jsonlint json-server licenseify live-server markdown-tools nodemon npm-check pipeable-js prettier pxt refine-manhuaren yarn
+@google/clasp bunyan csslint fancy-server faucet fixpack github-commits-since-tag-cli htmlhint json jsonlint json-server licenseify live-server markdown-tools nodemon npm-check pipeable-js prettier pxt refine-manhuaren yarn
 
 @google/clasp fixpack json-server licenseify nodemon prettier yarn
 
 # work
-csslint depcheck dredd ecstatic faucet fixpack htmlhint httpbin.js json jsonlint json-server licenseify live-server logcat markdown-tools netlify-cli nodemon prettier remarkable rfc tap-spec tldr typescript yamljs yarn
-
-@google/clasp @leesei/imgmini bun corepack depcheck fixpack json-server licenseify nodemon prettier serve ts-node typescript yarn
+@google/clasp @leesei/imgmini bun corepack depcheck fixpack httpbin.js json-server licenseify nodemon prettier puppeteer serve ts-node typescript yarn
 ```
 
 ## npm fails
@@ -263,6 +261,12 @@ npm cache clean
 Hope that helps.
 
 [when all else fails, clear you cache](http://codebetter.com/glennblock/2012/02/27/my-tale-of-npm-woe-when-all-else-fails-clear-you-cache/)
+
+[Dispute Resolution | npm Docs](https://docs.npmjs.com/policies/disputes)
+[NPM Typosquatting. NPM (Node Package Manager) is… | by Shane Fast | BACIC | Medium](https://medium.com/bacic/npm-typosquatting-6f2f89b3b605)
+
+[The Great npm Garbage Patch](https://blog.phylum.io/the-great-npm-garbage-patch/) Tea protocol
+[The crypto scam that almost ruined npm forever - YouTube](https://www.youtube.com/watch?v=YYwg9rfoFCU)
 
 ## Running Node alongside web servers
 
@@ -317,13 +321,6 @@ Charset (base 30): "13456789ACDEFGHJKLMNPQRTUVWXYZ"
 
 I need an option parser that auto generates the help page.
 
-[lukeed/sade: Smooth (CLI) Operator 🎶](https://github.com/lukeed/sade) built on mri
-
-[tj/commander.js: node.js command-line interfaces made easy](https://github.com/tj/commander.js) quirky (might have improved since then):
-
-- [Can't use default together with coercion (example from front-page broken) · Issue #400 · tj/commander.js](https://github.com/tj/commander.js/issues/400)
-- [Global Options · Issue #476 · tj/commander.js](https://github.com/tj/commander.js/issues/476)
-
 [util.parseArgs() | Node.js Documentation](https://nodejs.org/api/util.html#utilparseargsconfig) added v18.3.0, v16.17.0
 
 ```js
@@ -344,6 +341,8 @@ if (positionals.length === 0) {
 }
 ```
 
+[lukeed/sade: Smooth (CLI) Operator 🎶](https://github.com/lukeed/sade) built on mri
+[tj/commander.js: node.js command-line interfaces made easy](https://github.com/tj/commander.js)
 [nodeca/argparse: CLI arguments parser for node.js. JS port of python's argparse module.](https://github.com/nodeca/argparse)
 [sindresorhus/meow: CLI app helper](https://github.com/sindresorhus/meow)
 [hapijs/bossy: Command line options parser](https://github.com/hapijs/bossy)
@@ -416,7 +415,7 @@ These allows you to build a sub-shell or yeoman-like app.
 
 ### Terminal interface
 
-The equivalent of [ncurses](https://www.wikiwand.com/en/Ncurses) in Linux.
+The equivalent of [ncurses](https://omni.wikiwand.com/en/Ncurses) in Linux.
 
 [chjj/blessed: A high-level terminal interface library for node.js.](https://github.com/chjj/blessed)
 [substack/node-charm: ansi control sequences for terminal cursor hopping and colors](https://github.com/substack/node-charm)
@@ -555,7 +554,6 @@ nodemon --watch 'src/**/*.ts' --exec node --inspect -r ts-node/register src/serv
 [From TypeORM to LoopBack: A Retrospective – Hacker Noon](https://hackernoon.com/from-typeorm-to-loopback-a-retrospective-188ea18527a2)
 
 [Schniz/cuery: A composable SQL query builder using template literals](https://github.com/Schniz/cuery)
-[Sequelize | The Node.js / io.js ORM for PostgreSQL, MySQL, SQLite and MSSQL](https://sequelize.readthedocs.io/)
 
 [Knex.js - A SQL Query Builder for Javascript](http://knexjs.org/)
 [Bookshelf.js](http://bookshelfjs.org/) built on Knex
@@ -574,6 +572,15 @@ nodemon --watch 'src/**/*.ts' --exec node --inspect -r ts-node/register src/serv
 [planetscale/database-js: A Fetch API-compatible PlanetScale database driver](https://github.com/planetscale/database-js) fixes Prisma's slow cold start problem
 [Let's Talk About Database Performance - YouTube](https://www.youtube.com/watch?v=3P7jnolWfHw)
 
+### Sequelize
+
+[Sequelize | The Node.js / io.js ORM for PostgreSQL, MySQL, SQLite and MSSQL](https://sequelize.readthedocs.io/)
+
+#### Pagination
+
+[Model Querying - Basics | Sequelize](https://sequelize.org/docs/v6/core-concepts/model-querying-basics/)
+[Mastering Pagination in Sequelize | by Mehmed Ali Çalışkan | Hexaworks-Papers | Medium](https://medium.com/hexaworks-papers/mastering-pagination-in-sequelize-e50dbc9de01d) and complex queries, two-step querying process
+
 ### Drizzel ORM
 
 [DrizzleORM - next gen TypeScript ORM](https://orm.drizzle.team/)
@@ -581,4 +588,5 @@ nodemon --watch 'src/**/*.ts' --exec node --inspect -r ts-node/register src/serv
 
 [I Have A New Favorite Database Tool - YouTube](https://www.youtube.com/watch?v=_SLxGYzv6jo)
 [Drizzle ORM First impressions - migrations, relations, queries! - YouTube](https://www.youtube.com/watch?v=Qo-RXkSwOtc)
-[This Drizzle ORM feature is a game changer! - YouTube](https://www.youtube.com/watch?v=O9zxsSl9zgE&pp=ygUHZHJpenpsZQ%3D%3D)
+[This Drizzle ORM feature is a game changer! - YouTube](https://www.youtube.com/watch?v=O9zxsSl9zgE)
+[Drizzle ORM in 100 Seconds - YouTube](https://www.youtube.com/watch?v=i_mAHOhpBSA)

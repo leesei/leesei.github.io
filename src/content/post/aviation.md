@@ -2,7 +2,7 @@
 title: Aviation
 description: ""
 created: 2023-02-21
-updated: 2023-10-04
+updated: 2024-01-24
 tags:
   - transportation
 ---
@@ -19,6 +19,11 @@ tags:
 
 [战斗机是怎么分代的？ - YouTube](https://www.youtube.com/watch?v=SWxZdodxoYk)
 [空中鋼肺！美軍開創無限供氧系統！為什麼戰機飛行員，戴的頭盔和氧氣面罩不同？丨 OBOGS 分子篩氧氣系統 - YouTube](https://www.youtube.com/watch?v=0oZ7NGhOXzU)
+
+[Could This Change Air Travel Forever? - YouTube](https://www.youtube.com/watch?v=C_dNt4UEVZQ)
+oblique wing, suitable for sub-sonic and super-sonic flight
+
+[What Happened To Flying Wings? - YouTube](https://www.youtube.com/watch?v=dByvPIyIbZE)
 
 ## Helicopters
 

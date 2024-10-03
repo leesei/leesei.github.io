@@ -2,7 +2,7 @@
 title: Moon Story
 description: ""
 created: 2016-01-31
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - history
   - moon
@@ -20,6 +20,7 @@ tags:
 
 [美國為何 50 年間不登月，為何最近又高調宣佈重返月球？「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=R5l7DJHq2cM)
 [重返月球 1：2024 月球登陸有何不同？ - YouTube](https://www.youtube.com/watch?v=rngR2Y1QLXo)
+[深挖：第二個登上月球的人，為什麼不敢對著《聖經》發誓？他糾結的一生，古怪的回答，難道一切都不是傳說？還有，無法穿越的輻射帶，不合理的照片，在美國重啟登月之際，我們再來聊聊這個故事……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=tJXudqboKEo)
 
 ## Project Apollo
 
@@ -27,10 +28,13 @@ tags:
 We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard
 {% endblockquote %}
 
-[Apollo program - Wikiwand](http://www.wikiwand.com/en/Apollo_program)
+[Apollo program - Wikiwand](http://omni.wikiwand.com/en/Apollo_program)
 [To the Moon • Russ Olsen - YouTube](https://www.youtube.com/watch?v=l3XwpSKqNZw)
 [Apollo 11’s journey to the moon, annotated - YouTube](https://www.youtube.com/watch?v=OCjhCL2iqlQ)
 [Project Apollo Archive’s albums | Flickr](https://www.flickr.com/photos/projectapolloarchive/albums)
+
+[What Made Apollo a Success?](https://ntrs.nasa.gov/api/citations/19720005243/downloads/19720005243.pdf) NASA document
+[SP-287: WHAT MADE APOLLO A SUCCESS?.  Introduction](https://klabs.org/history/reports/sp287/ch1.htm)
 
 On July 20, 1969, Apollo 11 successfully sent Neil Armstrong and Buzz Aldrin to the surface of the room.
 
@@ -43,16 +47,16 @@ On July 20, 1969, Apollo 11 successfully sent Neil Armstrong and Buzz Aldrin to 
 [How the Apollo Spacecraft works: Part 3 - YouTube](https://www.youtube.com/watch?v=qt_xoCXLXnI)
 [What's inside of the Lunar Module? - YouTube](https://www.youtube.com/watch?v=oX8-IXdABuc)
 
-[Apollo 13 - Wikiwand](https://www.wikiwand.com/en/Apollo_13)
+[Apollo 13 - Wikiwand](https://omni.wikiwand.com/en/Apollo_13)
 [History - The Flight of Apollo 13](https://www.hq.nasa.gov/office/pao/History/apollo/apo13hist.html)
 [Short History Of...: Apollo 13 on Apple Podcasts](https://podcasts.apple.com/us/podcast/apollo-13/id1579040306?i=1000549672287)
 [阿波羅 13 號：人類史上最不可思義的太空營救 - YouTube](https://www.youtube.com/watch?v=-MDrUCw0e6U)
 
 ### Saturn V
 
-[Saturn V - Wikiwand](https://www.wikiwand.com/en/Saturn_V)
+[Saturn V - Wikiwand](https://omni.wikiwand.com/en/Saturn_V)
 
-[Saturn Launch Vehicle Digital Computer - Wikiwand](https://www.wikiwand.com/en/Saturn_Launch_Vehicle_Digital_Computer)
+[Saturn Launch Vehicle Digital Computer - Wikiwand](https://omni.wikiwand.com/en/Saturn_Launch_Vehicle_Digital_Computer)
 [IBM Archives: Saturn guidance computer](https://www.ibm.com/ibm/history/exhibits/space/space_saturn.html)
 [How did NASA Steer the Saturn V?- Smarter Every Day 223 - YouTube](https://www.youtube.com/watch?v=dI-JW2UIAG0)
 [The Computer that Controlled the Saturn V (Behind the Scenes ft Linus Tech Tips) - Smarter Every Day - YouTube](https://www.youtube.com/watch?v=6mMK6iSZsAs)
@@ -63,7 +67,7 @@ On July 20, 1969, Apollo 11 successfully sent Neil Armstrong and Buzz Aldrin to 
 
 ### Apollo Guidance Computer (AGC)
 
-[Apollo Guidance Computer - Wikiwand](https://www.wikiwand.com/en/Apollo_Guidance_Computer)
+[Apollo Guidance Computer - Wikiwand](https://omni.wikiwand.com/en/Apollo_Guidance_Computer)
 first computer to use silicon-based integrated circuits
 [5 Engineering Facts About the Apollo Guidance Computer | Design News](https://www.designnews.com/electronics-test/5-engineering-facts-about-apollo-guidance-computer/101691942561193)
 [Apollo Guidance Computer Restoration - YouTube](https://www.youtube.com/playlist?list=PL-_93BVApb59FWrLZfdlisi_x7-Ut_-w7) CuriousMarc
@@ -88,3 +92,5 @@ first computer to use silicon-based integrated circuits
 
 [Blue Origin | National Team Submits Moon Proposal to NASA](https://www.blueorigin.com/news/national-team-submits-moon-proposal-to-nasa)
 [重返月球 1：2024 月球登陸有何不同？ - YouTube](https://www.youtube.com/watch?v=rngR2Y1QLXo)
+
+[I Was SCARED To Say This To NASA... (But I said it anyway) - Smarter Every Day 293 - YouTube](https://www.youtube.com/watch?v=OoJsPvmFixU) changes in Artemis and NASA's communication problems

@@ -2,13 +2,13 @@
 title: God of War
 description: ""
 created: 2023-08-14
-updated: 2023-10-25
+updated: 2024-08-14
 tags:
   - games
   - god-of-war
 ---
 
-[God of War - Wikiwand](https://www.wikiwand.com/en/God%20of%20War)
+[God of War - Wikiwand](https://omni.wikiwand.com/en/God%20of%20War)
 
 [【社长说 20】《战神》白金之后，我决定回顾一下奎爷年轻时的故事 - YouTube](https://www.youtube.com/watch?v=pJorxP78ceQ)
 [一口气看完【战神】全五部，敬我心中最猛的男人——奎托斯 - YouTube](https://www.youtube.com/watch?v=akK85oVnOXc) 1:33:47, 好尸
@@ -21,8 +21,10 @@ Leya 蕾雅
 [【戰神】是怎样炼成的 (下) - 真戰神和他的老父親 God of War 2018 - YouTube](https://www.youtube.com/watch?v=P-qiXAnDVDY)
 [我們能否變得更好?「戰神:諸神黃昏」完整故事解析 God of War Ragnarok 4K 畫質 - YouTube](https://www.youtube.com/watch?v=MlVfVW3e5Ak)
 
+[戰神God of War - YouTube](https://www.youtube.com/playlist?list=PLe1YdiKWcqPT360gkPw0Kcyz55VqgV2Pm)
+
 [【YA】新战神不买不是人啊！？【战神 4 游戏前沿】 - YouTube](https://www.youtube.com/watch?v=U7Um4AkAtjI)
 [好尸十六分钟带你看完【战神 4】奎托斯从良记 - YouTube](https://www.youtube.com/watch?v=5pinFhf_awE)
 [【YAYA】20 分钟带你看懂《战神 4》 - YouTube](https://www.youtube.com/watch?v=5ZPsexuh_EU)
 
-[God of War Ragnarok Content - YouTube](https://www.youtube.com/playlist?list=PL55clecAtEmxM8C1ycyrQHqo1_zve66ah)
+[God of War Ragnarok Content - YouTube](https://www.youtube.com/playlist?list=PL55clecAtEmxM8C1ycyrQHqo1_zve66ah) 达奇上校

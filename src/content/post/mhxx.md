@@ -2,7 +2,7 @@
 title: Monster Hunter XX
 description: ""
 created: 2018-01-11
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - games
   - mhxx

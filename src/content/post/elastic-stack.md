@@ -2,7 +2,7 @@
 title: Elastic Stack
 description: ""
 created: 2015-08-03
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - comp/database
   - elastic-stack

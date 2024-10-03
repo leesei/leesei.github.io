@@ -2,7 +2,7 @@
 title: Behavioral Economics
 description: ""
 created: 2016-04-24
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - economics
 ---
@@ -12,7 +12,7 @@ tags:
 [Bestiary of Behavioral Economics - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Bestiary_of_Behavioral_Economics)
 [【洗腦】系列影片第一集，錯覺和被操控的選擇 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=5S8jvUaqg-Q)
 
-[Unintended consequences - Wikiwand](https://www.wikiwand.com/en/Unintended_consequences)
+[Unintended consequences - Wikiwand](https://omni.wikiwand.com/en/Unintended_consequences)
 [What is the Law of Unintended Consequences? (with picture)](http://www.wisegeek.com/what-is-the-law-of-unintended-consequences.htm)
 [Econoclass: Law of Unintended Consequences](http://www.econoclass.com/unintendedconsequences.html)
 
@@ -81,7 +81,7 @@ recency bias, what comes easily in mind affects our behavior
 
 [The Cheeseburger Diet (Ep. 230) - Freakonomics Freakonomics](http://freakonomics.com/podcast/the-cheeseburger-diet-a-new-freakonomics-radio-podcast/)
 
-[Commitment device - Wikiwand](https://www.wikiwand.com/en/Commitment_device)
+[Commitment device - Wikiwand](https://omni.wikiwand.com/en/Commitment_device)
 [Bestiary of Behavioral Economics/Commitment Devices - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Bestiary_of_Behavioral_Economics/Commitment_Devices)
 Discipline the fun
 Compensatory behavior, self regulate

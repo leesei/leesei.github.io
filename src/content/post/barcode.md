@@ -2,14 +2,14 @@
 title: Barcode
 description: ""
 created: 2015-09-02
-updated: 2023-10-20
+updated: 2024-10-01
 tags:
   - trivia
 ---
 
-[Barcode - Wikiwand](http://www.wikiwand.com/en/Barcode)
-[Linear barcodes - Wikiwand](http://www.wikiwand.com/en/Barcode#/Linear_barcodes)
-[Matrix (2D) barcodes - Wikiwand](http://www.wikiwand.com/en/Barcode#/Matrix_.282D.29_barcodes)
+[Barcode - Wikiwand](http://omni.wikiwand.com/en/Barcode)
+[Linear barcodes - Wikiwand](http://omni.wikiwand.com/en/Barcode#/Linear_barcodes)
+[Matrix (2D) barcodes - Wikiwand](http://omni.wikiwand.com/en/Barcode#/Matrix_.282D.29_barcodes)
 
 [How UPC Bar Codes Work | HowStuffWorks](https://electronics.howstuffworks.com/gadgets/high-tech-gadgets/upc.htm/printable)
 [Barcode: The Ultimate Guide to Barcodes](http://www.waspbarcode.com/buzz/barcode/)
@@ -29,13 +29,14 @@ tags:
 
 ## QR Code
 
-[QR code - Wikiwand](http://www.wikiwand.com/en/QR_code)
+[QR code - Wikiwand](http://omni.wikiwand.com/en/QR_code)
 [How QR codes work - Explain that Stuff](https://www.explainthatstuff.com/how-data-matrix-codes-work.html)
 [How to Decode a QR Code by Hand - YouTube](https://www.youtube.com/watch?v=KA8hDldvfv0)
 [A Brief History of QR Codes | Field Notes | North Coast Journal](https://m.northcoastjournal.com/humboldt/a-brief-history-of-qr-codes/Content?oid=22744441)
 
 [Animated QR codes: how do they work, and how to create your own?](https://www.bleepingcomputer.com/news/technology/animated-qr-codes-how-do-they-work-and-how-to-create-your-own/)
 
+[I used to hate QR codes. But they're actually genius - YouTube](https://www.youtube.com/watch?v=w5ebcowAJD8)
 [《柴知道》科普：二维码是什么原理？ - YouTube](https://www.youtube.com/watch?v=nG8s1QXnRJc)
 [Vol.120 二维码的秘密 - YouTube](https://www.youtube.com/watch?v=XW8sgT_D0To)
 
@@ -91,12 +92,12 @@ tags:
 
 ## Data Matrix
 
-[Data Matrix - Wikiwand](http://www.wikiwand.com/en/Data_Matrix)
+[Data Matrix - Wikiwand](http://omni.wikiwand.com/en/Data_Matrix)
 
 [How to Decode a DataMatrix by Hand - YouTube](https://www.youtube.com/watch?v=w0xVd2xXySo)
 
 ## Aztec Code
 
-[Aztec Code - Wikiwand](http://www.wikiwand.com/en/Aztec_Code)
+[Aztec Code - Wikiwand](http://omni.wikiwand.com/en/Aztec_Code)
 
 [How to Decode the Aztec Code - YouTube](https://www.youtube.com/watch?v=xtlqYx6e1TE)

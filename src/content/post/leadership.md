@@ -2,7 +2,7 @@
 title: Leadership
 description: Being a software engineering, this post focus more on software engineering
 created: 2018-11-26
-updated: 2023-09-29
+updated: 2024-09-04
 tags:
   - business
   - programmer
@@ -86,7 +86,7 @@ How to Google
 ## 7 Habits
 
 [The 7 Habits of Highly Effective People® - FranklinCovey](https://www.franklincovey.com/the-7-habits/)
-[The 7 Habits of Highly Effective People - Wikiwand](https://www.wikiwand.com/en/The_7_Habits_of_Highly_Effective_People)
+[The 7 Habits of Highly Effective People - Wikiwand](https://omni.wikiwand.com/en/The_7_Habits_of_Highly_Effective_People)
 
 [這是一支需要反覆觀看的影片 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=aeqIeeXjYQw)
 
@@ -121,7 +121,7 @@ Traits is a spectrum instead of binary!
 [https://www.fas.scot/downloads/personality-types/](https://www.fas.scot/downloads/personality-types/)
 
 9 types
-[九型人格 - Wikiwand](https://www.wikiwand.com/zh-hant/%E4%B9%9D%E5%9E%8B%E4%BA%BA%E6%A0%BC)
+[九型人格 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B9%9D%E5%9E%8B%E4%BA%BA%E6%A0%BC)
 [九型人格測試](https://www.ifreesite.com/enneagram/)
 
 ### "Big 5"
@@ -136,14 +136,14 @@ model each personality trait as a spectrum
 - Agreeableness (friendly/compassionate vs. critical/rational)
 - Neuroticism (sensitive/nervous vs. resilient/confident)
 
-[Big Five personality traits - Wikiwand](https://www.wikiwand.com/en/Big_Five_personality_traits)
+[Big Five personality traits - Wikiwand](https://omni.wikiwand.com/en/Big_Five_personality_traits)
 [Big Five Personality Traits | Simply Psychology](https://www.simplypsychology.org/big-five-personality.html)
 [Big 5 Personality Traits | Psychology Today](https://www.psychologytoday.com/us/basics/big-5-personality-traits)
 [The Big Five OCEAN Personality Types: Introduction and Discussions](https://blog.flexmr.net/ocean-personality-types)
 
 ### MBTI (16 types)
 
-[Myers–Briggs Type Indicator - Wikiwand](https://www.wikiwand.com/en/Myers%E2%80%93Briggs_Type_Indicator)
+[Myers–Briggs Type Indicator - Wikiwand](https://omni.wikiwand.com/en/Myers%E2%80%93Briggs_Type_Indicator)
 [Personality Types | 16Personalities](https://www.16personalities.com/personality-types)
 [Myers-Briggs Type Indicator: The 16 Personality Types](https://www.verywellmind.com/the-myers-briggs-type-indicator-2795583)
 [Myers-Briggs | Psychology Today](https://www.psychologytoday.com/us/basics/myers-briggs)
@@ -275,6 +275,9 @@ Boomers: 1945-1965
 Gen X: 1965-1980, individualism, ambition and an addiction to work —
 Gen Y/Millennials: 1981-1996, digital natives,technology is part of their everyday lives
 Gen Z/Centennials: 1997-2012, they arrived with a tablet and a smartphone under their arms
+
+[Embracing Neurodiversity in IT Workplace to Bridge Talent Gaps](https://www.datacenterknowledge.com/diversity-inclusion/neurodiversity-in-the-it-workplace-acceptance-accommodation-action)
+[The Gen Z Guide to Getting Ahead at Work](https://www.itprotoday.com/career-tips/the-gen-z-guide-to-getting-ahead-at-work)
 
 ## Time Estimation
 

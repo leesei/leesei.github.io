@@ -2,7 +2,7 @@
 title: Toothbrush
 description: ""
 created: 2019-04-24
-updated: 2023-09-29
+updated: 2024-04-28
 tags:
   - trivia
 ---
@@ -17,6 +17,8 @@ tags:
 
 [爱否 Fview 米家、网易、飞利浦、入门级电动牙刷对比 - YouTube](https://www.youtube.com/watch?v=yUAQyKjO4-I)
 [爱否 Fview 电动牙刷 第二集（飞利浦 vs 欧乐 B vs Oclean） - YouTube](https://www.youtube.com/watch?v=bKlO6_Ozog8)
+
+[【科技說】6款暢銷電動牙刷｜Oral-B歐樂B、飛利浦Philips、大可波波、usmile、未來實驗室Future Lab、小米｜實測對決EP15 - YouTube](https://www.youtube.com/watch?v=8rjfdady5OQ)
 
 ## How to Brush Your Teeth
 

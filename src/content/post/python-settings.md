@@ -2,7 +2,7 @@
 title: Python settings
 description: ""
 created: 2014-12-11
-updated: 2023-10-09
+updated: 2024-09-19
 tags:
   - comp/lang
   - package-manager
@@ -126,7 +126,6 @@ package2==0.0.1; python_version < '3.7' and
 ```sh
 pipx install poetry
 
-
 poetry env --bin <path_to_python>
 poetry config virtialenvs.in-project true
 poetry shell
@@ -177,14 +176,20 @@ poetry add <package>
 [An Effective Python Environment: Making Yourself at Home – Real Python](https://realpython.com/effective-python-environment/)
 [how do virtualenvs actually work (advanced) anthony explains #522 - YouTube](https://www.youtube.com/watch?v=XFqDHPYfTwE) simple for \*nix, explains intricacies in Windows implementation
 
-[28.3. venv — Creation of virtual environments — Python documentation](https://docs.python.org/3/library/venv.html)
+[venv — Creation of virtual environments — Python documentation](https://docs.python.org/3/library/venv.html)
 [Virtualenv — virtualenv documentation](https://virtualenv.pypa.io/en/latest/)
+
 [Deepwalker/pundler: Python bundler-alike alternative to virtualenv](https://github.com/Deepwalker/pundler)
 
 [Create Virtual Environment using “virtualenv” and add it to Jupyter Notebook | by B. Chen | Towards Data Science](https://towardsdatascience.com/create-virtual-environment-using-virtualenv-and-add-it-to-jupyter-notebook-6e1bf4e03415)
 [Python virtualenv and venv do’s and don’ts | InfoWorld](https://www.infoworld.com/article/3306656/python-virtualenv-and-venv-dos-and-donts.html)
 [Virtualenv and venv: Python virtual environments explained | InfoWorld](https://www.infoworld.com/article/3239675/python/virtualenv-and-venv-python-virtual-environments-explained.html)
 [pyvenv vs virtualenv : learnpython](https://www.reddit.com/r/learnpython/comments/4hsudz/pyvenv_vs_virtualenv/)
+
+```sh
+virtualenv my_env --python=python3.12
+source my_env/bin/activate
+```
 
 [tox --devenv (beginner - intermediate) anthony explains #073 - YouTube](https://www.youtube.com/watch?v=flJi2N3dDk0)
 
@@ -411,6 +416,14 @@ Date times
 [dateutil/dateutil: Useful extensions to the standard Python datetime features](https://github.com/dateutil/dateutil)
 [Pendulum - Python datetimes made easy](https://pendulum.eustace.io/) ❗!important
 [Python - Pendulum Module - GeeksforGeeks](https://www.geeksforgeeks.org/python-pendulum-module/)
+
+## Code Refactoring
+
+[Bowler · Safe code refactoring for modern Python](https://pybowler.io/) codemod for Python
+[facebookincubator/Bowler: Safe code refactoring for modern Python.](https://github.com/facebookincubator/bowler)
+
+[Large Scale Refactoring With PyBowler - Julius Seporaitis](https://www.seporaitis.net/posts/2020/05/19/large-scale-refactoring-with-pybowler/)
+[seporaitis/pybowler-example-repo: A repository with some PyBowler examples](https://github.com/seporaitis/pybowler-example-repo)
 
 ## Web Frameworks
 
@@ -758,7 +771,7 @@ print({section: dict(config[section]) for section in config.sections()})
 [prompt-toolkit/python-prompt-toolkit: Library for building powerful interactive command line applications in Python](https://github.com/prompt-toolkit/python-prompt-toolkit)
 [python-cmd2/cmd2: cmd2 - quickly build feature-rich and user-friendly interactive command line applications in Python](https://github.com/python-cmd2/cmd2)
 
-[Textualize/textual: Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.](https://github.com/Textualize/textual)
+[Textualize/textual: The lean application framework for Python. Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.](https://github.com/Textualize/textual) CLI and GUI
 
 [Introducing Textual](https://www.willmcgugan.com/blog/tech/post/textual-progress/) uses Rich internally
 [Building Rich terminal dashboards](https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/)
@@ -821,7 +834,8 @@ print({section: dict(config[section]) for section in config.sections()})
 [cliff – Command Line Interface Formulation Framework — cliff documentation](https://docs.openstack.org/cliff/latest/)
 [Cement Framework](https://builtoncement.com/)
 [timsavage/pyapp: A Python Application framework - Let us handle the boring stuff!](https://github.com/timsavage/pyapp)
-[google/python-fire: Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.](https://github.com/google/python-fire)
+[google/python-fire: Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.](https://github.com/google/python-fire)[MILC — A Python 3 CLI Framework](https://milc.clueboard.co/latest/)
+[MILC — A Python 3 CLI Framework](https://milc.clueboard.co/latest/)π
 
 ## Project Generators
 
@@ -917,8 +931,7 @@ anthonywritescode
 [getting started with pytest (beginner - intermediate) anthony explains #518 - YouTube](https://www.youtube.com/watch?v=mzlH8lp4ISA)[pytest: everything you need to know about fixtures (intermediate) anthony explains #487 - YouTube](https://www.youtube.com/watch?v=ScEQRKwUePI)
 
 [Effective Python Testing With Pytest – Real Python](https://realpython.com/pytest-python-testing/)
-
-[Welcome to pytest-benchmark’s documentation! — pytest-benchmark documentation](https://pytest-benchmark.readthedocs.io/en/latest/)
+[Getting Started with PyTest: Effortlessly Write and Run Tests in Python - KDnuggets](https://www.kdnuggets.com/getting-started-with-pytest-effortlessly-write-and-run-tests-in-python)
 
 [How To Write Unit Tests For Existing Python Code // Part 1 of 2 - YouTube](https://www.youtube.com/watch?v=ULxMQ57engo)
 [How To Write Unit Tests For Existing Python Code // Part 2 of 2 - YouTube](https://www.youtube.com/watch?v=NI5IGAim8XU)
@@ -929,6 +942,8 @@ anthonywritescode
 [TDD in Python with pytest - Part 3 - The Digital Cat](https://www.thedigitalcatonline.com/blog/2020/09/15/tdd-in-python-with-pytest-part-3/)
 [TDD in Python with pytest - Part 4 - The Digital Cat](https://www.thedigitalcatonline.com/blog/2020/09/17/tdd-in-python-with-pytest-part-4/)
 [TDD in Python with pytest - Part 5 - The Digital Cat](https://www.thedigitalcatonline.com/blog/2020/09/21/tdd-in-python-with-pytest-part-5/)
+
+[Welcome to pytest-benchmark’s documentation! — pytest-benchmark documentation](https://pytest-benchmark.readthedocs.io/en/latest/)
 
 ### tox
 

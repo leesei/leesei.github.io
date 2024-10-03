@@ -2,7 +2,7 @@
 title: Euler's identity
 description: ""
 created: 2016-05-26
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - math
 ---

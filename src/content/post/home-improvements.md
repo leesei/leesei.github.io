@@ -2,7 +2,7 @@
 title: 裝修
 description: ""
 created: 2020-03-07
-updated: 2023-09-29
+updated: 2024-09-30
 tags:
   - household
   - maker
@@ -94,29 +94,42 @@ tags:
 
 [物料攻略：磁磚篇 - 好師傅 Codeco](https://www.codeco.hk/zh-tw/renovation101/51/)
 [木紋磚鋪貼圖鑑 - 好師傅 Codeco](https://www.codeco.hk/zh-tw/renovation101/61/)
-[陶瓷工程 - Wikiwand](https://www.wikiwand.com/zh-hant/%E9%99%B6%E7%93%B7%E5%B7%A5%E7%A8%8B)
+[陶瓷工程 - Wikiwand](https://omni.wikiwand.com/zh/%E9%99%B6%E7%93%B7%E5%B7%A5%E7%A8%8B)
 [磁磚認知 | siukeetile](https://www.siukeetile.com/tips)
 
-[Porcelain - Wikiwand](https://www.wikiwand.com/en/Porcelain)
-[瓷器 - Wikiwand](https://www.wikiwand.com/zh/%E7%93%B7%E5%99%A8) 高温瓷, 玻化砖，吸水率低耐折度高
-[骨瓷 - Wikiwand](https://www.wikiwand.com/zh-hant/%E9%AA%A8%E7%93%B7) 加了動物骨灰，以改善瓷器的玻化及透光度
-[瓷磚 - Wikiwand](https://www.wikiwand.com/zh-hant/%E7%93%B7%E7%A0%96)
-[Ceramic - Wikiwand](https://www.wikiwand.com/en/Ceramic)
-[搪瓷 - Wikiwand](https://www.wikiwand.com/zh-hant/%E6%90%AA%E7%93%B7) 琺瑯, 中温瓷
-
-[Pottery - Wikiwand](https://www.wikiwand.com/en/Pottery)
-[陶器 - Wikiwand](https://www.wikiwand.com/zh/%E9%99%B6%E5%99%A8)
-[[maker#Clay]]
-
-[Vitreous enamel - Wikiwand](https://www.wikiwand.com/en/Vitreous_enamel)
-[釉上彩 - Wikiwand](https://www.wikiwand.com/zh/%E9%87%89%E4%B8%8A%E5%BD%A9)
-[Overglaze decoration - Wikiwand](https://www.wikiwand.com/en/Overglaze_decoration)
+[Porcelain - Wikiwand](https://omni.wikiwand.com/en/Porcelain)
+[瓷器 - Wikiwand](https://omni.wikiwand.com/zh/%E7%93%B7%E5%99%A8) 高温瓷, 玻化砖，吸水率低耐折度高
+[骨瓷 - Wikiwand](https://omni.wikiwand.com/zh/%E9%AA%A8%E7%93%B7) 加了動物骨灰，以改善瓷器的玻化及透光度
+[瓷磚 - Wikiwand](https://omni.wikiwand.com/zh/%E7%93%B7%E7%A0%96)
+[Ceramic - Wikiwand](https://omni.wikiwand.com/en/Ceramic)
+[搪瓷 - Wikiwand](https://omni.wikiwand.com/zh/%E6%90%AA%E7%93%B7) 琺瑯 (Frank 之音譯), 中温瓷
 [珐琅和搪瓷的区别？ - 知乎](https://www.zhihu.com/question/22075322)
+
+[Pottery - Wikiwand](https://omni.wikiwand.com/en/Pottery)
+[陶器 - Wikiwand](https://omni.wikiwand.com/zh/%E9%99%B6%E5%99%A8)
+[[maker#Clay]]
 [porcelain 和 ceramic 的区别 以及扩展知识](https://www.douban.com/note/187355721/)
 [pottery,ceramic 和 porcelain 的差異 鶯歌陶瓷 - powered by phpwind.net](http://www.tp101.org/yinge/read.php?tid=5783)
 
+[Vitreous enamel - Wikiwand](https://omni.wikiwand.com/en/Vitreous_enamel)
+[釉上彩 - Wikiwand](https://omni.wikiwand.com/zh/%E9%87%89%E4%B8%8A%E5%BD%A9)
+[Ceramic glaze - Wikiwand](https://omni.wikiwand.com/en/Ceramic_glaze)
+[Overglaze decoration - Wikiwand](https://omni.wikiwand.com/en/Overglaze_decoration)
+[釉 - Wikiwand](https://omni.wikiwand.com/zh/%E9%87%89) 覆蓋在陶瓷器或搪瓷器外表面的玻璃質薄層
+
 [浴室大改造 06/10 泥水打底及貼牆磚[粵語中文字幕] - YouTube](https://www.youtube.com/watch?v=f3Kp9qGdG_A)
 [浴室大改造 07/10 地面斜水,貼地磚及企缸造型[粵語中文字幕] - YouTube](https://www.youtube.com/watch?v=fV8aLgUkmm8)
+
+### 玻璃
+
+[玻璃 - Wikiwand](https://omni.wikiwand.com/zh/%E7%8E%BB%E7%92%83)
+[Glass - Wikiwand](https://omni.wikiwand.com/en/Glass)
+[琉璃 - Wikiwand](https://omni.wikiwand.com/zh/%E7%90%89%E7%92%83)
+
+[水晶、玻璃與琉璃是一樣的嗎？琉璃難道比較貴嗎?－| tittot琉園私塾 |｜痞客邦](https://tittotblog.pixnet.net/blog/post/225613733) 現代所稱的琉璃，是指用脫蠟鑄造工法所燒製的彩色水晶玻璃創作，其昂貴之處不在材質，而是工藝與創意。
+[「玻璃」、「琉璃」、「水晶」 – 王球餐具](https://www.kingball.com.tw/blogs/news/-%E7%8E%BB%E7%92%83-%E7%90%89%E7%92%83-%E6%B0%B4%E6%99%B6-)
+[琉璃？玻璃？差一個字，可差多了！！（琉璃玻璃的差別、差異） | 薪傳文藝-禮品／贈品／獎盃／獎牌／各式紀念品](https://chinartown.com/about-liuli/liuliglass/1429)
+[琉璃与玻璃真的是一样的吗？琉璃与玻璃的区别|水晶|高温|金属|抛光\_网易订阅](https://www.163.com/dy/article/HS7577IF0553UT6J.html)
 
 ### 油漆
 
@@ -128,6 +141,7 @@ tags:
 [駱駝漆化工有限公司](http://www.camelpaint.com/hk/b5_product2.asp)
 
 [30 分鐘教你由剷底到做牆紙,香港,油漆 - YouTube](https://www.youtube.com/watch?v=qgqIN6LsVAQ)
+[這樣刷油漆就是比較貴 90%的人都不知道的正確順序 讓漆不剝落 和國手特殊技法【超認真少年】How To Paint A Room DIY For Beginners - YouTube](https://www.youtube.com/watch?v=lJCs6duPedY)
 
 [solvents and thinners | davidneat](https://davidneat.wordpress.com/materials/solvents-and-thinners/)
 Oil based paint requires Turpentine (松節水) or Thinner (天拿) to dilute
@@ -305,8 +319,8 @@ Cisal 水龍頭, 陶瓷掣芯
 
 ## Concrete 混凝土
 
-[Concrete - Wikiwand](https://www.wikiwand.com/en/Concrete)
-[混凝土 - Wikiwand](https://www.wikiwand.com/zh-hant/%E6%B7%B7%E5%87%9D%E5%9C%9F)
+[Concrete - Wikiwand](https://omni.wikiwand.com/en/Concrete)
+[混凝土 - Wikiwand](https://omni.wikiwand.com/zh/%E6%B7%B7%E5%87%9D%E5%9C%9F)
 
 [Concrete SeriesConcrete Series - YouTube](https://www.youtube.com/playlist?list=PLTZM4MrZKfW90PdaBFt70BLTbz1bTF6Mn) Practical Engineering
 [不要钱的沙子，不香吗？为什么混凝土不用沙漠里免费的沙子【科学火箭叔】 - YouTube](https://www.youtube.com/watch?v=DqcGz0DtLrc)

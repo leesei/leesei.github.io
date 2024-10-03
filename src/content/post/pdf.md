@@ -2,7 +2,7 @@
 title: Portable Document Format (PDF)
 description: ""
 created: 2018-10-27
-updated: 2023-11-24
+updated: 2024-09-06
 tags:
   - business
   - desktop
@@ -21,6 +21,9 @@ tags:
 PDF 轉檔 <https://pdf.new>
 PDF 壓縮 <https://compresspdf.new>
 PDF 簽署 <https://sign.new>
+
+[Documenso - The Open Source DocuSign Alternative](https://documenso.com/)
+[documenso/documenso at catalins.tech](https://github.com/documenso/documenso?ref=catalins.tech)
 
 ## Viewers
 
@@ -53,11 +56,15 @@ Annotation:
 [Okular - The Universal Document Viewer](https://okular.kde.org/) KDE
 [Master PDF Editor for Linux. Download a free of Master PDF Editor for Linux.](https://code-industry.net/free-pdf-editor/) watermark if unregistered
 
+Chop/Watermark:
+[flytkgl/PDFQFZ: PDF加盖骑缝章的小工具](https://github.com/flytkgl/PDFQFZ)
+[PDF加盖骑缝章的工具，免费开源【PDFQFZ】 – 零度解说](https://www.freedidi.com/13559.html)
+
 ## Toolkits
 
 [11 of the Best Free Linux PDF Tools - LinuxLinks](https://www.linuxlinks.com/pdftools/)
 
-[Ghostscript - Wikiwand](https://www.wikiwand.com/en/Ghostscript)
+[Ghostscript - Wikiwand](https://omni.wikiwand.com/en/Ghostscript)
 [pdftex - Why does PDFSIZEOPT not reduce file size much? - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/549501/why-does-pdfsizeopt-not-reduce-file-size-much) `gs` is better
 
 [How to convert pdf to image on Linux command line - nixCraft](https://www.cyberciti.biz/faq/how-to-convert-pdf-to-image-on-linux-command-line/)
@@ -71,10 +78,14 @@ pdftoppm -f <start_page> -l end_page -jpeg
 [diff-pdf](https://vslavik.github.io/diff-pdf/)
 [Sejda SDK - a Java library to edit PDF files](http://sejda.org/)
 
+[Coherent PDF Command Line Tools and C/C++/Python/.NET/Java/JavaScript API Community Release](https://community.coherentpdf.com/) non-commercial use
+
+[4 Free Methods to Remove Watermarks From PDFs](https://www.makeuseof.com/free-methods-to-remove-watermarks-pdf/)
+
+### `pdfcpu`
+
 [PDF processor api & cli | pdfcpu](http://pdfcpu.io/)
 [pdfcpu/pdfcpu: A PDF processor written in Go.](https://github.com/pdfcpu/pdfcpu)
-
-[Coherent PDF Command Line Tools and C/C++/Python/.NET/Java/JavaScript API Community Release](https://community.coherentpdf.com/) non-commercial use
 
 ### `PDFtk`
 
@@ -190,6 +201,8 @@ gs -dNOPAUSE -dBATCH -dSAFER \
 [Create and Modify PDF Files in Python – Real Python](https://realpython.com/creating-modifying-pdf/)
 [Chapter 13 – Working with PDF and Word Documents - Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter13/)
 
+[Comparison with other PDF Table Extraction libraries and tools · camelot-dev/camelot Wiki · GitHub](https://github.com/camelot-dev/camelot/wiki/Comparison-with-other-PDF-Table-Extraction-libraries-and-tools)
+
 [pikepdf Documentation](https://pikepdf.readthedocs.io/en/latest/) QPDF wrapper
 
 [PyFPDF](https://pyfpdf.readthedocs.io/en/latest/index.html)
@@ -208,7 +221,21 @@ gs -dNOPAUSE -dBATCH -dSAFER \
 [stapler · PyPI](https://pypi.org/project/stapler/)
 [hellerbarde/stapler: A small utility making use of the pypdf library to provide a (somewhat) lighter alternative to pdftk](https://github.com/hellerbarde/stapler)
 
-### WeasyPrint
+[tabula-py · PyPI](https://pypi.org/project/tabula-py/) wrapper of `tabula-java`
+
+#### Camelot
+
+[Camelot: PDF Table Extraction for Humans — Camelot documentation](https://camelot-py.readthedocs.io/en/master/)
+[camelot-dev/camelot: A Python library to extract tabular data from PDFs](https://github.com/camelot-dev/camelot)
+
+#### PyMuPDF
+
+[PyMuPDF documentation](https://pymupdf.readthedocs.io/en/latest/)
+[pymupdf/PyMuPDF: PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.](https://github.com/pymupdf/PyMuPDF)
+[Text Extraction with PyMuPDF](https://artifex.com/blog/text-extraction-with-pymupdf)
+[Table Recognition and Extraction With PyMuPDF](https://artifex.com/blog/table-recognition-extraction-from-pdfs-pymupdf-python)
+
+#### WeasyPrint
 
 [Home Page - WeasyPrint](https://weasyprint.org/) HTML to PDF in Python
 [WeasyPrint — WeasyPrint documentation](https://weasyprint.readthedocs.io/en/latest/index.html)
@@ -222,7 +249,7 @@ If `<body>` is present in input, there will only be one page in output PDF.
 
 [WeasyPrint Performance Report](https://kozea.github.io/WeasyPerf/)
 
-### wkhtmltopdf
+#### wkhtmltopdf
 
 [wkhtmltopdf](https://wkhtmltopdf.org/)
 [wkhtmltopdf/wkhtmltopdf: Convert HTML to PDF using Webkit (QtWebKit)](https://github.com/wkhtmltopdf/wkhtmltopdf)

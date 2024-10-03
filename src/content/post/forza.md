@@ -2,18 +2,18 @@
 title: Forza/Forza Horizon
 description: ""
 created: 2020-05-12
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - forza
   - forza-horizon
   - games
 ---
 
-[Forza (series) - Wikiwand](<https://www.wikiwand.com/en/Forza_(series)>)
-[Forza Horizon - Wikiwand](https://www.wikiwand.com/en/Forza_Horizon) Colorado, USA
-[Forza Horizon 2 - Wikiwand](https://www.wikiwand.com/en/Forza_Horizon_2) Southern France and in Northern Italy
-[Forza Horizon 3 - Wikiwand](https://www.wikiwand.com/en/Forza_Horizon_3) Australia, Hotwheels DLC
-[Forza Horizon 4 - Wikiwand](https://www.wikiwand.com/en/Forza_Horizon_4) Great Britain, LEGO DLC
+[Forza (series) - Wikiwand](<https://omni.wikiwand.com/en/Forza_(series)>)
+[Forza Horizon - Wikiwand](https://omni.wikiwand.com/en/Forza_Horizon) Colorado, USA
+[Forza Horizon 2 - Wikiwand](https://omni.wikiwand.com/en/Forza_Horizon_2) Southern France and in Northern Italy
+[Forza Horizon 3 - Wikiwand](https://omni.wikiwand.com/en/Forza_Horizon_3) Australia, Hotwheels DLC
+[Forza Horizon 4 - Wikiwand](https://omni.wikiwand.com/en/Forza_Horizon_4) Great Britain, LEGO DLC
 
 [Forza Motorsport and Horizon](https://www.reddit.com/r/forza/)
 

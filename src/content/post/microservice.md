@@ -2,7 +2,7 @@
 title: Microservice
 description: ""
 created: 2016-05-15
-updated: 2023-09-29
+updated: 2024-09-07
 tags:
   - architecture
   - microservice
@@ -165,6 +165,7 @@ On an e-Commerce website, Orders, Wishlist, Recommendation, Product Category can
 [Kubernetes Service Mesh: A Comparison of Istio, Linkerd and Consul](https://platform9.com/blog/kubernetes-service-mesh-a-comparison-of-istio-linkerd-and-consul/)
 [Comparing eBPF and Istio/Envoy for monitoring microservice interactions | Cloud Native Computing Foundation](https://www.cncf.io/online-programs/comparing-ebpf-and-istio-envoy-for-monitoring-microservice-interactions/)
 [How eBPF will solve Service Mesh - Goodbye Sidecars](https://isovalent.com/blog/post/2021-12-08-ebpf-servicemesh)
+[How eBPF Streamlines the Service Mesh – The New Stack](https://thenewstack.io/how-ebpf-streamlines-the-service-mesh/)
 [eBPF and Wasm: Exploring the Future of the Service Mesh Data Plane](https://www.infoq.com/news/2022/01/ebpf-wasm-service-mesh/)
 
 [Traefik Mesh, the Simplest Service Mesh | Traefik Labs](https://traefik.io/traefik-mesh/)
@@ -174,6 +175,16 @@ On an e-Commerce website, Orders, Wishlist, Recommendation, Product Category can
 
 [Microservices Demo: Sock Shop](https://microservices-demo.github.io/)
 [microservices-demo/microservices-demo: Deployment scripts & config for Sock Shop](https://github.com/microservices-demo/microservices-demo)
+
+## Hystrix
+
+> microservice monitoring and circuit breaking
+
+[Netflix/Hystrix: Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.](https://github.com/Netflix/Hystrix)
+[Home · Netflix/Hystrix Wiki · GitHub](https://github.com/Netflix/Hystrix/wiki/)
+
+[15 What is Hystrix - Spring Boot Microservices Level 2 - YouTube](https://www.youtube.com/watch?v=SvZ98jLVdM8)
+[Circuit Breaker: Hystrix vs Resilience4J | Microservices #6 - YouTube](https://www.youtube.com/watch?v=37B8ovdX3Eo)
 
 ## Testing
 
@@ -211,6 +222,8 @@ Microservices should only be considered in the next phases when the need to scal
 [Stop Creating Microservices | Prime Reacts - YouTube](https://www.youtube.com/watch?v=ivjPzOoPZsM)
 
 ## [Microservices Demo](https://github.com/microservices-demo)
+
+🗃️archived
 
 [microservices-demo/microservices-demo: Deployment scripts & config for Sock Shop](https://github.com/microservices-demo/microservices-demo)
 [microservices-demo/load-test: A load-test script & container for Sock Shop](https://github.com/microservices-demo/load-test)
@@ -273,7 +286,7 @@ Characteristics of a Microservice Architecture:
 
 ## Auth0
 
-Auth0's three part series: !important
+Auth0's three part series,❗!important
 [An Introduction to Microservices, Part 1](https://auth0.com/blog/2015/09/04/an-introduction-to-microservices-part-1/)
 [API Gateway. An Introduction to Microservices, Part 2](https://auth0.com/blog/2015/09/13/an-introduction-to-microservices-part-2-API-gateway/)
 [An Introduction to Microservices, Part 3: The Service Registry](https://auth0.com/blog/2015/10/02/an-introduction-to-microservices-part-3-the-service-registry/)
@@ -314,7 +327,6 @@ based on framework in Twitter, JVM based
 [[kubernetes#Envoy]]
 
 [Envoy Proxy - Home](https://www.envoyproxy.io/) out of application edge and service proxy used by Istio, eventually consistent
-[How to write WASM filters for Envoy and deploy it with Istio · Banzai Cloud](https://banzaicloud.com/blog/envoy-wasm-filter/)
 [Extending the Envoy Proxy With WebAssembly - Container Journal](https://containerjournal.com/features/extending-the-envoy-proxy-with-webassembly/)
 [one man's singularity - Extending Envoy With Wasm and Rust](https://antweiss.com/blog/extending-envoy-with-wasm-and-rust/)
 
@@ -354,22 +366,6 @@ Convergence of Envoy and eBPF, removing side car
 [GitOps for Istio - Manage Istio Config like Code](https://www.weave.works/blog/gitops-for-istio-manage-istio-config-like-code)
 
 [redhat-developer-demos/istio-tutorial: Istio Tutorial for Java Microservices](https://github.com/redhat-developer-demos/istio-tutorial)
-
-### Backyards
-
-[Backyards - the automated service mesh · Banzai Cloud](https://banzaicloud.com/products/backyards/) the Banzai Cloud Istio distribution, making Istio easy to use and manage for everyone
-[Announcing Banzai Cloud automated service mesh, Backyards - Istio the easy way · Banzai Cloud](https://banzaicloud.com/blog/istio-the-easy-way/)
-[Backyards - automated service mesh for multi and hybrid cloud deployments · Banzai Cloud](https://banzaicloud.com/blog/istio-multicluster-the-easy-way/)
-
-[banzaicloud/backyards-cli: CLI for Backyards, a multi and hybrid-cloud enabled service mesh platform](https://github.com/banzaicloud/backyards-cli)
-
-## StdLib
-
-[StdLib — API development made simple](https://stdlib.com/) A Standard Library for Microservices
-[StdLib – Docs](https://docs.stdlib.com/main/#/introduction)
-
-[Code.xyz — Code Editor for APIs](https://code.xyz/)
-[Scrape Websites for Information Easily using Code.xyz and Node.js](https://codeburst.io/scrape-websites-for-information-easily-using-code-xyz-and-node-js-8be3e2f938ab)
 
 ## Ballerina
 

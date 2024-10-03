@@ -2,7 +2,7 @@
 title: Philosophy
 description: ""
 created: 2015-06-29
-updated: 2023-11-16
+updated: 2024-09-18
 tags:
   - philosophy
 ---
@@ -13,6 +13,7 @@ tags:
 
 [Philosophical Questions - YouTube](https://www.youtube.com/@PhilosophicalQuestions)
 [大问题 Dialectic - YouTube](https://www.youtube.com/@question-dialectic)
+[Political Theory & Philosophy - YouTube](https://www.youtube.com/playlist?list=PLQo2I7piiPpi9T4swRDFWD9LmMHT9-Ifd)
 
 ## 辯證反合
 
@@ -84,21 +85,27 @@ knowledge is justified true belief
 
 ## Cynicism
 
-[Cynicism (philosophy) - Wikiwand](<https://www.wikiwand.com/en/Cynicism_(philosophy)>)
-[犬儒學派 - Wikiwand](https://www.wikiwand.com/zh/%E7%8A%AC%E5%84%92%E5%AD%B8%E6%B4%BE)
+[Cynicism (philosophy) - Wikiwand](<https://omni.wikiwand.com/en/Cynicism_(philosophy)>)
+[犬儒學派 - Wikiwand](https://omni.wikiwand.com/zh/%E7%8A%AC%E5%84%92%E5%AD%B8%E6%B4%BE)
 
 [The philosophy of cynicism - William D. Desmond - YouTube](https://www.youtube.com/watch?v=Utzym1I_BiY)
 
 ## Stoicism
 
-[Stoicism - Wikiwand](https://www.wikiwand.com/en/Stoicism)
-[斯多葛主義 - Wikiwand](https://www.wikiwand.com/zh/%E6%96%AF%E5%A4%9A%E8%91%9B%E4%B8%BB%E7%BE%A9)
+[Stoicism - Wikiwand](https://omni.wikiwand.com/en/Stoicism)
+[斯多葛主義 - Wikiwand](https://omni.wikiwand.com/zh/%E6%96%AF%E5%A4%9A%E8%91%9B%E4%B8%BB%E7%BE%A9)
 
 [The philosophy of Stoicism - Massimo Pigliucci - YouTube](https://www.youtube.com/watch?v=R9OCA6UFE-0)
 
 ## Time Travel
 
 [Time Travel in Fiction Rundown - YouTube](https://www.youtube.com/watch?v=d3zTfXvYZ9s)
+
+## Sovereignty
+
+[Sovereignty - Wikiwand](https://www.wikiwand.com/en/articles/Sovereignty)
+
+"Sovereignty is a community's monopoly on the legitimate use of force" - Max Weber
 
 ## Morality
 
@@ -118,11 +125,11 @@ categorical: locates morality in certain duties and rights (absolute moral requi
 
 ### Utilitarianism
 
-[Utilitarianism - Wikiwand](https://www.wikiwand.com/en/utilitarianism)
-[功利主義 - Wikiwand](https://www.wikiwand.com/zh/%E5%8A%9F%E5%88%A9%E4%B8%BB%E7%BE%A9)
+[Utilitarianism - Wikiwand](https://omni.wikiwand.com/en/utilitarianism)
+[功利主義 - Wikiwand](https://omni.wikiwand.com/zh/%E5%8A%9F%E5%88%A9%E4%B8%BB%E7%BE%A9)
 [What is Utilitarianism? | Utilitarianism.net](https://utilitarianism.net/)
 
 ### Deontology
 
-[Deontology - Wikiwand](https://www.wikiwand.com/en/Deontology)
-[義務倫理學 - Wikiwand](https://www.wikiwand.com/zh/%E4%B9%89%E5%8A%A1%E4%BC%A6%E7%90%86%E5%AD%A6)
+[Deontology - Wikiwand](https://omni.wikiwand.com/en/Deontology)
+[義務倫理學 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B9%89%E5%8A%A1%E4%BC%A6%E7%90%86%E5%AD%A6)

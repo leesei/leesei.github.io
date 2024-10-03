@@ -2,7 +2,7 @@
 title: Network
 description: ""
 created: 2016-04-24
-updated: 2023-11-22
+updated: 2024-09-29
 tags:
   - anycast
   - comp/network
@@ -12,6 +12,8 @@ tags:
 ---
 
 [Computer Networks From Scratch](https://www.networksfromscratch.com/)
+
+[POV: I'm on my third coffee and you just asked me how the internet works - YouTube](https://www.youtube.com/watch?v=jjKFXlFNR4E)
 
 [Here comes 5Gbps networking over standard cables | Ars Technica UK](http://arstechnica.co.uk/gadgets/2016/09/5gbps-ethernet-standard-details-8023bz/)
 
@@ -23,7 +25,7 @@ tags:
 
 ## OSI Model
 
-[OSI model - Wikiwand](https://www.wikiwand.com/en/OSI_model)
+[OSI model - Wikiwand](https://omni.wikiwand.com/en/OSI_model)
 [The OSI model explained: How to understand (and remember) the 7 layer network model | Network World](https://www.networkworld.com/article/3239677/lan-wan/the-osi-model-explained-how-to-understand-and-remember-the-7-layer-network-model.html)
 [The OSI Model – The 7 Layers of Networking Explained in Plain English](https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english/)
 
@@ -48,7 +50,8 @@ tags:
 [The World Wide Web: Crash Course Computer Science #30 - YouTube](https://www.youtube.com/watch?v=guvsH5OFizE)
 [Your Ultimate Guide To Computer Networking in 2019](https://www.potatopirates.game/ultimate-computer-network-guide)
 
-[CompTIA Network+ N10-007 Training Course - YouTube](https://www.youtube.com/playlist?list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd) ❗!important
+[FREE CCNA 200-301 // Complete Course // NetworkChuck 2023 - YouTube](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P) ❗!important
+[CompTIA Network+ N10-007 Training Course - YouTube](https://www.youtube.com/playlist?list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd)
 [Video Notes: Tanenbaum, Wetherall Computer Networks 5e](http://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html)
 
 ## Netbox
@@ -65,8 +68,8 @@ tags:
 
 [你根本不懂网线！双绞线 超五类 Cat5e 六类 Cat6 七类 Cat7 八类 Cat8.1 看这一期就够了哦～ - YouTube](https://www.youtube.com/watch?v=E3whld0N3d8)
 
-[Category 5 cable - Wikiwand](https://www.wikiwand.com/en/Category_5_cable)
-[Category 6 cable - Wikiwand](https://www.wikiwand.com/en/Category_6_cable)
+[Category 5 cable - Wikiwand](https://omni.wikiwand.com/en/Category_5_cable)
+[Category 6 cable - Wikiwand](https://omni.wikiwand.com/en/Category_6_cable)
 
 [拉 Cat.6A 網路線｜網路線有什麼差別?｜簡易測試 WiFi6 速度居然差這麼多!!｜ 10Gbps 區網【水電爸爸】 - YouTube](https://www.youtube.com/watch?v=sUbcXGAuaXQ)
 [Cat 6 vs Cat 7. What is the difference - YouTube](https://www.youtube.com/watch?v=f2bILsfu8NM)
@@ -86,23 +89,24 @@ Cat7 has double shielding to prevent RF interference and crosstalk
 
 ## IP and Subnet
 
-[IPv4 - Wikiwand](https://www.wikiwand.com/en/IPv4)
-IPv4 address are written in [dot-decimal notation](https://www.wikiwand.com/en/Dot-decimal_notation): `192.0.2.128`
+[IPv4 - Wikiwand](https://omni.wikiwand.com/en/IPv4)
+IPv4 address are written in [dot-decimal notation](https://omni.wikiwand.com/en/Dot-decimal_notation): `192.0.2.128`
 
-[IPv6 - Wikiwand](https://www.wikiwand.com/en/IPv6) [IPv6 address - Wikiwand](https://www.wikiwand.com/en/IPv6_address#/Special_addresses) IPv4-mapped IPv6 address:`::ffff:192.0.2.128`or`::ffff:c000:0280`
+[IPv6 - Wikiwand](https://omni.wikiwand.com/en/IPv6) [IPv6 address - Wikiwand](https://omni.wikiwand.com/en/IPv6_address#/Special_addresses) IPv4-mapped IPv6 address:`::ffff:192.0.2.128`or`::ffff:c000:0280`
 [wojtekka/6tunnel: Tunnelling for application that don't speak IPv6](https://github.com/wojtekka/6tunnel)
 [DS-Lite – IPv4 over IPv6 and NAT | Citrix Blogs](https://www.citrix.com/blogs/2012/03/22/ds-lite-%E2%80%93-ipv4-over-ipv6-and-nat/)
 
+[IPv6 keeps getting hacked on Windows - YouTube](https://www.youtube.com/watch?v=Z_QlUyYlUCg)
 [IPv6 from scratch - the very basics of IPv6 - YouTube](https://www.youtube.com/watch?v=oItwDXraK1M)
 [cheat-sheets/ipv6.md at main · onemarcfifty/cheat-sheets](https://github.com/onemarcfifty/cheat-sheets/blob/main/networking/ipv6.md)
 
 [RFC 1918 - Address Allocation for Private Internets](https://tools.ietf.org/html/rfc1918)
-[Reserved IP addresses - Wikiwand](https://www.wikiwand.com/en/Reserved_IP_addresses)
+[Reserved IP addresses - Wikiwand](https://omni.wikiwand.com/en/Reserved_IP_addresses)
 Private IP: not used for routing in internet, use behind NAT
 Loopback IP: managed by OS, virtual network interface
 Link-local: in absence of DHCP or static address, not routing
 
-[Classful network - Wikiwand](https://www.wikiwand.com/en/Classful_network)
+[Classful network - Wikiwand](https://omni.wikiwand.com/en/Classful_network)
 [ExamPointers.com - Online IPv4 Subnet Mask Calculator](http://ccna.exampointers.com/subnet.phtml)
 [CIDR Utility Tool | IP Address Guide](http://www.ipaddressguide.com/cidr)
 [mhausenblas/cidrchk: CLI tool for CIDR range operations (check, generate)](https://github.com/mhausenblas/cidrchk)
@@ -110,7 +114,7 @@ Link-local: in absence of DHCP or static address, not routing
 [ipcalc · PyPI](https://pypi.org/project/ipcalc/)
 
 [RFC 4632 - Classless Inter-domain Routing (CIDR): The Internet Address Assignment and Aggregation Plan](https://tools.ietf.org/html/rfc4632)
-[Classless Inter-Domain Routing - Wikiwand](https://www.wikiwand.com/en/Classless_Inter-Domain_Routing)
+[Classless Inter-Domain Routing - Wikiwand](https://omni.wikiwand.com/en/Classless_Inter-Domain_Routing)
 [What is CIDR Notation?](http://whatismyipaddress.com/cidr)
 [What is CIDR (Classless Inter-Domain Routing or supernetting)? - Definition from WhatIs.com](http://searchnetworking.techtarget.com/definition/CIDR)
 
@@ -140,6 +144,8 @@ Link-local: in absence of DHCP or static address, not routing
 [What is BGP? | BGP routing explained | Cloudflare](https://www.cloudflare.com/learning/security/glossary/what-is-bgp/)
 [Hurricane Electric BGP Toolkit](https://bgp.he.net/) IP range lookup
 
+[Routing vs. Forwarding vs. Switching | Baeldung on Computer Science](https://www.baeldung.com/cs/routing-vs-forwarding-vs-switching)
+
 [Configuring Multiple Default Routes in Linux | Darien Kindlund's Blog](https://kindlund.wordpress.com/2007/11/19/configuring-multiple-default-routes-in-linux/)
 [Two Default Gateways on One System - Thomas-Krenn-Wiki](https://www.thomas-krenn.com/en/wiki/Two_Default_Gateways_on_One_System)
 [LiNUX Horizon - Linux Advanced Routing mini HOWTO](http://www.linuxhorizon.ro/iproute2.html)
@@ -163,14 +169,26 @@ cat /etc/iptables/iptables.rules
 
 [Making Sense of Windows Routing Tables](http://techgenix.com/Making-Sense-Windows-Routing-Tables/)
 
+## Network Interface
+
+### Interface Name
+
+[NetworkInterfaceNames - Debian Wiki](https://wiki.debian.org/NetworkInterfaceNames)
+[networking - Explanation of 70-persistent-net.rules script - Ask Ubuntu](https://askubuntu.com/questions/505421/explanation-of-70-persistent-net-rules-script)
+
 ### Interface Bonding
 
-[Linux Bonding, LLDP, and MAC Flapping - Packet Pushers](https://packetpushers.net/linux-bonding-lldp-and-mac-flapping/?doing_wp_cron=1668670907.9340910911560058593750)
+[Linux Bonding, LLDP, and MAC Flapping - Packet Pushers](https://packetpushers.net/linux-bonding-lldp-and-mac-flapping/)
+
+## Netlink
+
+[Netlink - Wikiwand](https://omni.wikiwand.com/en/Netlink)
+[Introduction to Netlink — The Linux Kernel documentation](https://www.kernel.org/doc/html/next/userspace-api/netlink/intro.html)
 
 ## TCP
 
 [How TCP Sockets Work](https://eklitzke.org/how-tcp-sockets-work)
-[Nagle's algorithm - Wikiwand](https://www.wikiwand.com/en/Nagle%27s_algorithm)
+[Nagle's algorithm - Wikiwand](https://omni.wikiwand.com/en/Nagle%27s_algorithm)
 
 Chris Greer
 [How TCP Works - YouTube](https://www.youtube.com/playlist?list=PLW8bTPfXNGdAZIKv-y9v_XLXtEqrPtntm)
@@ -221,7 +239,7 @@ Chris Greer
 
 > or "Addressing methods"?
 
-[Anycast - Wikiwand](https://www.wikiwand.com/en/Anycast)
+[Anycast - Wikiwand](https://omni.wikiwand.com/en/Anycast)
 [A Brief Primer on Anycast](https://blog.cloudflare.com/a-brief-anycast-primer/)
 [Load Balancing without Load Balancers](https://blog.cloudflare.com/cloudflares-architecture-eliminating-single-p/)
 [What is Anycast and How it works](http://www.slashroot.in/what-anycast-and-how-it-works)
@@ -234,10 +252,10 @@ Chris Greer
 
 InfiBand
 Fabrics: A local-area RDMA network is usually referred to as a fabric.
-[RDMA over Converged Ethernet - Wikiwand](https://www.wikiwand.com/en/RDMA_over_Converged_Ethernet) RoCE, replaces
-[基於融合以太網的 RDMA - Wikiwand](https://www.wikiwand.com/zh-hk/%E5%9F%BA%E4%BA%8E%E8%9E%8D%E5%90%88%E4%BB%A5%E5%A4%AA%E7%BD%91%E7%9A%84RDMA)
-[Remote direct memory access - Wikiwand](https://www.wikiwand.com/en/Remote_direct_memory_access)
-[远程直接内存访问 - Wikiwand](https://www.wikiwand.com/zh/%E8%BF%9C%E7%A8%8B%E7%9B%B4%E6%8E%A5%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE)
+[RDMA over Converged Ethernet - Wikiwand](https://omni.wikiwand.com/en/RDMA_over_Converged_Ethernet) RoCE, replaces
+[基於融合以太網的 RDMA - Wikiwand](https://omni.wikiwand.com/zh-hk/%E5%9F%BA%E4%BA%8E%E8%9E%8D%E5%90%88%E4%BB%A5%E5%A4%AA%E7%BD%91%E7%9A%84RDMA)
+[Remote direct memory access - Wikiwand](https://omni.wikiwand.com/en/Remote_direct_memory_access)
+[远程直接内存访问 - Wikiwand](https://omni.wikiwand.com/zh/%E8%BF%9C%E7%A8%8B%E7%9B%B4%E6%8E%A5%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE)
 
 [RoCE 101: RDMA over Converged Ethernet - YouTube](https://www.youtube.com/watch?v=os9llKRFYvs)
 [NVMe over Fabrics Demystified - YouTube](https://www.youtube.com/watch?v=ywh2N6cl_8M)
@@ -341,6 +359,8 @@ Fabrics: A local-area RDMA network is usually referred to as a fabric.
 [pfSense vs OPNsense](https://teklager.se/en/pfsense-vs-opnsense/)
 [pfSense® 与 OPNsense® 技术比较 | 鐵血男兒的 BLOG](https://pfschina.org/wp/?p=28)
 
+![](./_assets/network/linux-routing.png)
+
 ### iptables
 
 [iptables - ArchWiki](https://wiki.archlinux.org/title/Iptables)
@@ -348,31 +368,58 @@ Fabrics: A local-area RDMA network is usually referred to as a fabric.
 [An IPTABLES Primer | Daniel Miessler](https://danielmiessler.com/study/iptables/)
 [How To Configure iptables Firewall In Linux - LinuxAndUbuntu - Linux News | Apps Reviews | Linux Tutorials HowTo](http://www.linuxandubuntu.com/home/how-to-configure-iptables-firewall-in-linux)
 
-### netfilter/nftables
+[Viewing all iptables rules - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/205867/viewing-all-iptables-rules)
+[how to query iptables](https://www.phind.com/search?cache=cz5j3ek642nnzmkom9ycqa0b)
+
+### netfilter/nftables (`nft`)
 
 > successor of iptables
+
+[nftables - ArchWiki](https://wiki.archlinux.org/title/Nftables)
+[nftables wiki](https://wiki.nftables.org/wiki-nftables/index.php/Main_Page)
 
 [netfilter/iptables project homepage - The netfilter.org project](https://nftables.org/)
 [netfilter/iptables project homepage - The netfilter.org "nftables" project](https://netfilter.org/projects/nftables/)
 [netfilter/iptables project homepage - Documentation about the netfilter/iptables project](http://netfilter.org/documentation/)
-[nftables wiki](https://wiki.nftables.org/wiki-nftables/index.php/Main_Page)
+
+[google/nftables: This repository contains a Go module to interact with Linux nftables (the iptables successor).](https://github.com/google/nftables/)
+
 [Traffic Rules » Linux Magazine](http://www.linux-magazine.com/Issues/2019/226/Nftables)
 [Why you will love nftables – To Linux and beyond !](https://home.regit.org/2014/01/why-you-will-love-nftables/)
 [ungleich blog - IPtables vs. nftables](https://digitalglarus.ch/en-us/cms/blog/2018/08/19/iptables-vs-nftables/)
 [Why you will love nftables – To Linux and beyond !](https://home.regit.org/2014/01/why-you-will-love-nftables/)
 
-### Uncomplicated Firewall (ufw)
+### Firewalld
 
-[Uncomplicated Firewall - Wikiwand](https://www.wikiwand.com/en/Uncomplicated_Firewall) Manages `iptables`/`nftables` rules, available in Ubuntu
+> enabled in EndeavourOS by default
+> uses nftables by default
+
+[Firewalld - ArchWiki](https://wiki.archlinux.org/title/Firewalld)
+[Configure a Firewall with Firewalld (Create and List Rules) | Linode Docs](https://www.linode.com/docs/guides/introduction-to-firewalld-on-centos/)
+
+```sh
+firewall-cmd --get-active-zones
+
+# list zone rules
+firewall-cmd --info-zone=home
+firewall-cmd --info-zone=public
+
+# change zone
+firewall-cmd --zone=home --change-interface=wlan0
+```
+
+### Uncomplicated Firewall (`ufw`)
+
+[Uncomplicated Firewall - Wikiwand](https://omni.wikiwand.com/en/Uncomplicated_Firewall) Manages `iptables`/`nftables` rules, available in Ubuntu
 [UncomplicatedFirewall - Ubuntu Wiki](https://wiki.ubuntu.com/UncomplicatedFirewall)
 [Uncomplicated Firewall - ArchWiki](https://wiki.archlinux.org/title/Uncomplicated_Firewall)
-[Ubuntu Manpage: ufw - program for managing a netfilter firewall](http://manpages.ubuntu.com/manpages/bionic/man8/ufw.8.html)
+[ufw: program for managing a netfilter firewall | ufw System Administration | Man Pages | ManKier](https://www.mankier.com/8/ufw)
+[Linux UFW (Uncomplicated Firewall) Configuration Made Easy](https://www.itprotoday.com/linux-os/linux-ufw-uncomplicated-firewall-configuration-made-easy)
 [How to Set Up a Firewall with UFW on Ubuntu 20.04 | Linuxize](https://linuxize.com/post/how-to-setup-a-firewall-with-ufw-on-ubuntu-20-04/)
-[How To Configure Firewall with UFW on Ubuntu 20.04 LTS - nixCraft](https://www.cyberciti.biz/faq/how-to-configure-firewall-with-ufw-on-ubuntu-20-04-lts/)
+[How to Set Up UFW Firewall on Ubuntu 24.04 LTS in 5 Minutes - nixCraft](https://www.cyberciti.biz/faq/how-to-set-up-ufw-firewall-on-ubuntu-24-04-lts-in-5-minutes/)
 [UFW Essentials: Common Firewall Rules and Commands | DigitalOcean](https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands)
 [How to Configure a Firewall with UFW](https://www.linode.com/docs/security/firewalls/configure-firewall-with-ufw/)
 [Using Firewall With UFW in Ubuntu Linux [Beginner's Guide]](https://itsfoss.com/ufw-ubuntu/)
-[A Guide to the Uncomplicated Firewall (UFW) for Linux](https://medium.com/@jasonrigden/a-guide-to-the-uncomplicated-firewall-ufw-for-linux-570c3774d7f4)
 [How to work with your firewall (UFW - Uncomplicated Firewall)](https://webdock.io/en/docs/how-guides/security-guides/how-work-your-firewall-ufw-uncomplicated-firewall)
 
 ```sh
@@ -389,7 +436,9 @@ ufw delete allow PORT
 
 [DuyaoSS-机场测速和简介](https://www.duyaoss.com/)
 [逗比根据地 - 世界那么逗，我想出去看看](https://doubibackup.com/)
-[翻墙全解析 硬核翻墙系列视频 系统学习翻墙技术原理 一切关于翻墙你需要知道的 - YouTube](https://www.youtube.com/playlist?list=PLqybz7NWybwUgR-S6m78tfd-lV4sBvGFG)
+[翻墙全解析 硬核翻墙系列视频 系统学习翻墙技术原理 一切关于翻墙你需要知道的 - YouTube](https://www.youtube.com/playlist?list=PLqybz7NWybwUgR-S6m78tfd-lV4sBvGFG)❗!important
+
+[中国防火墙究竟是怎么运作的？为什么我说防火墙才是最辱华的东西？中共是如何通过言论管控来削弱地方政府力量的？史上对中国防火墙最透彻的一次探讨 | 互联网防火墙 | 翻墙 | 愚民政策 | 言论自由 - YouTube](https://www.youtube.com/watch?v=i8Iiv9yFTdM)
 
 #### Soft Router
 
@@ -403,61 +452,68 @@ ufw delete allow PORT
 [入门软路由？一篇就够了！真正给小白看的软路由入门指南 - YouTube](https://www.youtube.com/watch?v=iuvTfaid_zc)
 [翻墙软件 路由器 软路由硬件翻墙 和网关模式翻墙等多种翻墙方式的利弊和特点 你更适合哪一种？【硬核翻墙系列】第三期 - YouTube](https://www.youtube.com/watch?v=f9ohvZyQrmY)
 [只要 400？轻松跑满千兆的一线大厂软路由还能放进弱电箱 - YouTube](https://www.youtube.com/watch?v=6Ka73dXWFe4)
+[我依然推荐用linux网关取代openwrt旁路由，稳定、便宜、兼容性拉满。 - YouTube](https://www.youtube.com/watch?v=DqubruPMmhU)
 
-## BPF
+[国伟R86S G系 2.5G多网口N5105N6005万兆双光口wifi6千兆工控主机-淘宝网](https://item.taobao.com/item.htm?id=685359555622)
+
+[Home - sing-box](https://sing-box.sagernet.org/)
+[SagerNet/sing-box: The universal proxy platform](https://github.com/SagerNet/sing-box)
+
+[opusb/tpclash2](https://github.com/opusb/tpclash2)
+
+## BPF/eBPF
+
+> [[microservice#Service mesh]]  
+> [[docker#Cilium]]
+> eBPF should have been called "Kernel Script"
 
 [BPF · Linux kernel code execution engine](https://facebookmicrosites.github.io/bpf/)
-[Berkeley Packet Filter - Wikiwand](https://www.wikiwand.com/en/Berkeley_Packet_Filter)
+[Berkeley Packet Filter - Wikiwand](https://omni.wikiwand.com/en/Berkeley_Packet_Filter)
 
-[Microsoft at Work to Bring eBPF to Windows](https://www.infoq.com/news/2021/05/microsoft-ebpf-windows/)
-
-[The BSD packet filter | Proceedings of the USENIX Winter 1993 Conference Proceedings on USENIX Winter 1993 Conference Proceedings](https://dl.acm.org/doi/10.5555/1267303.1267305)
+[The eBPF stack](https://ebpf.io/)
+[EBPF - Wikiwand](https://omni.wikiwand.com/en/EBPF)
+[Dive into BPF: a list of reading material](https://qmonnet.github.io/whirl-offload/2016/09/01/dive-into-bpf/)
 [A Gentle Introduction to eBPF](https://www.infoq.com/articles/gentle-linux-ebpf-introduction/)
 
-eBPF should have been "Kernel Script"
+[The BSD packet filter | Proceedings of the USENIX Winter 1993 Conference Proceedings on USENIX Winter 1993 Conference Proceedings](https://dl.acm.org/doi/10.5555/1267303.1267305)
+
 [A thorough introduction to eBPF [LWN.net]](https://lwn.net/Articles/740157/)
 [BPF comes to firewalls [LWN.net]](https://lwn.net/Articles/747551/)
-[eBPF: One Small Step](http://www.brendangregg.com/blog/2015-05-15/ebpf-one-small-step.html)
 [An intro to using eBPF to filter packets in the Linux kernel | Opensource.com](https://opensource.com/article/17/9/intro-ebpf)
 [What is eBPF? - DEV Community](https://dev.to/deepeshaburse/what-is-ebpf-2bkb)
-[Dive into BPF: a list of reading material](https://qmonnet.github.io/whirl-offload/2016/09/01/dive-into-bpf/)
 [bpfilter » ADMIN Magazine](http://www.admin-magazine.com/Archive/2019/50/Bpfilter-offers-a-new-approach-to-packet-filtering-in-Linux)
 [Primer: How XDP and eBPF Speed Network Traffic via the Linux Kernel – The New Stack](https://thenewstack.io/primer-how-xdp-and-ebpf-speed-network-traffic-via-the-linux-kernel/)
-[Learn eBPF Tracing: Tutorial and Examples](http://www.brendangregg.com/blog/2019-01-01/learn-ebpf-tracing.html)
-[How io_uring and eBPF Will Revolutionize Programming in Linux – The New Stack](https://thenewstack.io/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
-[BPF For Observability: Getting Started Quickly | Linux Journal](https://www.linuxjournal.com/content/bpf-observability-getting-started-quickly)
-[Kernelless Kernel Programming (eBPF) - Computerphile - YouTube](https://www.youtube.com/watch?v=J_EehoXLbIU)
-
-[How eBPF Streamlines the Service Mesh – The New Stack](https://thenewstack.io/how-ebpf-streamlines-the-service-mesh/)
 [Why is the kernel community replacing iptables with BPF? — Cilium](https://cilium.io/blog/2018/04/17/why-is-the-kernel-community-replacing-iptables/)
+
+[Linux eBPF Tracing Tools](https://brendangregg.com/ebpf.html)
+[eBPF: One Small Step](http://www.brendangregg.com/blog/2015-05-15/ebpf-one-small-step.html)
 [Linux BPF Superpowers](http://www.brendangregg.com/blog/2016-03-05/linux-bpf-superpowers.html)
 
-[BumbleBee](https://bumblebee.io/EN) [solo-io/bumblebee: Get eBPF programs running from the cloud to the kernel in 1 line of bash](https://github.com/solo-io/bumblebee)
-[Solo BumbleBee makes Linux eBPF programming easier | ZDNet](https://www.zdnet.com/article/solo-bumblebee-makes-linux-ebpf-programming-easier/)
+### Beyond Networking
 
-[Introduction to Cilium — Cilium documentation](http://docs.cilium.io/en/stable/intro/)
+[Kernelless Kernel Programming (eBPF) - Computerphile - YouTube](https://www.youtube.com/watch?v=J_EehoXLbIU)
+
+[How io_uring and eBPF Will Revolutionize Programming in Linux – The New Stack](https://thenewstack.io/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
+[BPF For Observability: Getting Started Quickly | Linux Journal](https://www.linuxjournal.com/content/bpf-observability-getting-started-quickly)
+[Exploring the Pros and Cons of eBPF: Is It the Right Tool for You? | ITPro Today: IT News, How-Tos, Trends, Case Studies, Career Tips, More](https://www.itprotoday.com/it-operations-and-management/when-not-use-ebpf-observability-and-security)
+[Learn eBPF Tracing: Tutorial and Examples](http://www.brendangregg.com/blog/2019-01-01/learn-ebpf-tracing.html)
+
+[eBPF Benefits for IT Operations Teams Seeking Better Observability](https://www.itprotoday.com/it-operations-and-management/how-ebpf-benefits-it-operations-teams-seeking-improve-observability)
+[How eBPF Will Revolutionize Container Monitoring](https://www.itprotoday.com/containerization/how-ebpf-will-revolutionize-container-monitoring)
+[How eBPF Enhances Linux Security and Monitoring](https://www.itprotoday.com/linux-os/securing-linux-systems-with-ebpf-the-future-of-in-kernel-observability-and-security)
+[Introduction To Writing eBPF Programs for Linux Security](https://www.itprotoday.com/linux-os/introduction-to-writing-ebpf-programs-for-linux-security)
+
+### Also on Windows
+
+[microsoft/ebpf-for-windows: eBPF implementation that runs on top of Windows](https://github.com/Microsoft/ebpf-for-windows)
+[Microsoft at Work to Bring eBPF to Windows](https://www.infoq.com/news/2021/05/microsoft-ebpf-windows/)
+
+[iovisor/ubpf: Userspace eBPF VM](https://github.com/iovisor/ubpf)
+
+### Tools
 
 [zoidbergwill/awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf)
 [pratyushanand/learn-bpf](https://github.com/pratyushanand/learn-bpf)
-[Linux eBPF Tracing Tools](http://www.brendangregg.com/ebpf.html)
-
-[iovisor/bcc: BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more](https://github.com/iovisor/bcc)
-[bcc/tutorial.md at master · iovisor/bcc](https://github.com/iovisor/bcc/blob/master/docs/tutorial.md)
-[bcc/tutorial_bcc_python_developer.md at master · iovisor/bcc](https://github.com/iovisor/bcc/blob/master/docs/tutorial_bcc_python_developer.md)
-[bcc/reference_guide.md at master · iovisor/bcc](https://github.com/iovisor/bcc/blob/master/docs/reference_guide.md)
-[bpftrace (DTrace 2.0) for Linux 2018](http://www.brendangregg.com/blog/2018-10-08/dtrace-for-linux-2018.html)
-
-[iovisor/bpftrace: High-level tracing language for Linux eBPF](https://github.com/iovisor/bpftrace)
-[An introduction to bpftrace for Linux | Opensource.com](https://opensource.com/article/19/8/introduction-bpftrace)
-
-[aquasecurity/tracee: Linux Runtime Security and Forensics using eBPF](https://github.com/aquasecurity/tracee)
-[Container Security with Liz Rice: DevOps and Docker Live Show (Ep 69) - YouTube](https://www.youtube.com/watch?v=UMtyHmu3_Do)
-
-[dylandreimerink/edb: An eBPF program debugger](https://github.com/dylandreimerink/edb)
-
-[The One About eBPF | TechSNAP 388 | Jupiter Broadcasting](https://www.jupiterbroadcasting.com/127741/the-one-about-ebpf-techsnap-388/)
-
-### Tools
 
 [trailofbits/linuxevents: A sample PoC for container-aware exec events for osquery](https://github.com/trailofbits/linuxevents)
 [trailofbits/ebpf-verifier: Harness for the Linux kernel eBPF verifier](https://github.com/trailofbits/ebpf-verifier)
@@ -465,6 +521,26 @@ eBPF should have been "Kernel Script"
 [trailofbits/ebpfault: A BPF-based syscall fault injector](https://github.com/trailofbits/ebpfault)
 [trailofbits/btfparse: A C++ library that parses debug information encoded in BTF format](https://github.com/trailofbits/btfparse)
 [trailofbits/ebpf-common: Various utilities useful for developers writing BPF tools](https://github.com/trailofbits/ebpf-common)
+
+[BumbleBee](https://bumblebee.io/EN) [solo-io/bumblebee: Get eBPF programs running from the cloud to the kernel in 1 line of bash](https://github.com/solo-io/bumblebee)
+[Solo BumbleBee makes Linux eBPF programming easier | ZDNet](https://www.zdnet.com/article/solo-bumblebee-makes-linux-ebpf-programming-easier/)
+
+[iovisor/bcc: BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more](https://github.com/iovisor/bcc)
+[bcc/tutorial.md at master · iovisor/bcc](https://github.com/iovisor/bcc/blob/master/docs/tutorial.md)
+[bcc/tutorial_bcc_python_developer.md at master · iovisor/bcc](https://github.com/iovisor/bcc/blob/master/docs/tutorial_bcc_python_developer.md)
+[bcc/reference_guide.md at master · iovisor/bcc](https://github.com/iovisor/bcc/blob/master/docs/reference_guide.md)
+
+[dylandreimerink/edb: An eBPF program debugger](https://github.com/dylandreimerink/edb)
+
+[Linux eBPF Tracing Tools](http://www.brendangregg.com/ebpf.html)
+[Virtual filesystems in Linux: Why we need them and how they work | Opensource.com](https://opensource.com/article/19/3/virtual-filesystems-linux) tracing kernel with eBPF
+
+[bpftrace/bpftrace: High-level tracing language for Linux eBPF](https://github.com/bpftrace/bpftrace)
+[An introduction to bpftrace for Linux | Opensource.com](https://opensource.com/article/19/8/introduction-bpftrace)
+[bpftrace (DTrace 2.0) for Linux 2018](http://www.brendangregg.com/blog/2018-10-08/dtrace-for-linux-2018.html)
+
+[aquasecurity/tracee: Linux Runtime Security and Forensics using eBPF](https://github.com/aquasecurity/tracee)
+[Container Security with Liz Rice: DevOps and Docker Live Show (Ep 69) - YouTube](https://www.youtube.com/watch?v=UMtyHmu3_Do)
 
 ## Windows Filtering Platform (WFP)
 
@@ -505,21 +581,21 @@ curl -T uploadfile -u user:passwd ftp://ftp.upload.com/myfile
 [How do internet cables distinguish between no data being sent and 0 bits being sent? - Quora](https://www.quora.com/How-do-internet-cables-distinguish-between-no-data-being-sent-and-0-bits-being-sent)
 
 [Physical layer: signals, waves and transmission types - ICTShore.com](https://www.ictshore.com/free-ccna-course/physical-layer-signals/)
-[Phase-locked loop - Wikiwand](https://www.wikiwand.com/en/Phase-locked_loop)
-[Unipolar encoding - Wikiwand](https://www.wikiwand.com/en/Unipolar_encoding)
+[Phase-locked loop - Wikiwand](https://omni.wikiwand.com/en/Phase-locked_loop)
+[Unipolar encoding - Wikiwand](https://omni.wikiwand.com/en/Unipolar_encoding)
 
 ## NTP/PTP
 
-[Network Time Protocol - Wikiwand](https://www.wikiwand.com/en/Network%20Time%20Protocol)
+[Network Time Protocol - Wikiwand](https://omni.wikiwand.com/en/Network%20Time%20Protocol)
 
-[Precision Time Protocol - Wikiwand](https://www.wikiwand.com/en/Precision_Time_Protocol)
+[Precision Time Protocol - Wikiwand](https://omni.wikiwand.com/en/Precision_Time_Protocol)
 [How works the Precision Time Protocol (PTP)?](https://www.bodet-time.com/products/time-server/articles-and-resources/1774-how-works-the-precision-time-protocol-ptp.html)
 [PTP: Timing accuracy and precision for the future of computing](https://engineering.fb.com/2022/11/21/production-engineering/future-computing-ptp/)
 [How Precision Time Protocol is being deployed at Meta](https://engineering.fb.com/2022/11/21/production-engineering/precision-time-protocol-at-meta/)
 
 ## Homeplug
 
-[HomePlug - Wikiwand](https://www.wikiwand.com/en/HomePlug)
+[HomePlug - Wikiwand](https://omni.wikiwand.com/en/HomePlug)
 [一學就會！活用 Homeplug 電力貓解決大單位 WI-FI 死角問題的實戰攻略 - by Upsangel](https://upsangel.com/router-2/weak-wifi-homeplug-powerline-solution/)
 [電力網路可以取代實體網路?｜實測 → 電力網路 V.S 實體網路｜電力線網路實用嗎？【弱電通】 - YouTube](https://www.youtube.com/watch?v=pV_vEpAJsVk)
 

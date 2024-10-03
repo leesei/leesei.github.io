@@ -2,7 +2,7 @@
 title: rkt
 description: ""
 created: 2016-03-27
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - container
   - rkt

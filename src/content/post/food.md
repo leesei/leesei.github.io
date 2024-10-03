@@ -2,7 +2,7 @@
 title: Food
 description: ""
 created: 2015-10-09
-updated: 2023-11-28
+updated: 2024-09-22
 tags:
   - food
   - science
@@ -11,13 +11,16 @@ tags:
 [foodskey - YouTube](https://www.youtube.com/channel/UCWUq6teKH18Iwuh41D75sQg)
 [MinuteFood - YouTube](https://www.youtube.com/@MinuteFood)
 [History of Food & Agriculture - YouTube](https://www.youtube.com/playlist?list=PLiCEoVachDxtMGZxiUuyeGeCdEZznf1V_) Fire of Learning
+[赛博食录 - YouTube](https://www.youtube.com/@saiboshilu)
+[Ethan Chlebowski - YouTube](https://www.youtube.com/@EthanChlebowski) trying out luxury food
+[獨角獸那麼叫 - YouTube](https://www.youtube.com/@unicorn-roar)
 
 [Food for thought - STYLE Origins series | South China Morning Post](https://series.scmp.com/style/food-origins/)
 [Origins series | South China Morning Post](https://www.scmp.com/magazines/style/topics/origins-series)
 
 [A New Apple Is Born «](http://www.sporkful.com/a-new-apple-is-born/)
 
-[Miraculin - Wikiwand](https://www.wikiwand.com/en/Miraculin) make sour sweet
+[Miraculin - Wikiwand](https://omni.wikiwand.com/en/Miraculin) make sour sweet
 [Flavor Tripping with the Miracle Berry | HowStuffWorks](https://shows.howstuffworks.com/foodstuff/miracle-fruit.htm)
 
 [The Secret to Making Light and Fluffy Scrambled Eggs - Delishably](https://delishably.com/dairy/Secret-to-Light-and-Fluffy-Scrambled-Eggs)
@@ -27,40 +30,58 @@ tags:
 [人均$400 刀一顿米其林，吃货钱都花在哪儿了？| 聊聊餐饮行业 - YouTube](https://www.youtube.com/watch?v=JFETIGpijx4)
 [平價奢華大對決｜ Vogue Taiwan - YouTube](https://www.youtube.com/playlist?list=PLOAJtSxO04pwvh9yOHhFISX01Zsq_NmoA)
 
+[海邊過日子 Living by satoumi - YouTube](https://www.youtube.com/@takumomo9607) seafoods
+
 Coriander vs Chervil vs Parsley
+
+[英国是如何成为黑暗料理界王者的？ - YouTube](https://www.youtube.com/watch?v=fuDpd_xVNrs)
+[为什么法餐能成为风靡全球的高端餐饮？【食录】 - YouTube](https://www.youtube.com/watch?v=WGmEGwxVeqc)
+[【食录】左宗棠鸡、李鸿章杂碎，为什么美国人爱吃的中餐我们都没听过？ - YouTube](https://www.youtube.com/watch?v=s-O7BKuu1kQ)
+
+## Supplements
+
+[Your Supplements are a Lie - YouTube](https://www.youtube.com/watch?v=WIT5_SMIaHE)
+
+## Insect Protein
+
+[蟑螂磨粉製麵包！成本低蛋白質更高 - ezone.hk - 科技焦點 - 科技 - D180711](https://ezone.ulifestyle.com.hk/article/2112897/蟑螂磨粉製麵包！成本低蛋白質更高)
 
 ## Recipes
 
-[食譜目錄、分類大全｜過千份食譜推介＋食譜搜尋器](https://www.hk01.com/%E6%95%99%E7%85%AE/393455/%E9%A3%9F%E8%AD%9C%E7%9B%AE%E9%8C%84-%E5%88%86%E9%A1%9E%E5%A4%A7%E5%85%A8-%E9%81%8E%E5%8D%83%E4%BB%BD%E9%A3%9F%E8%AD%9C%E6%8E%A8%E4%BB%8B-%E9%A3%9F%E8%AD%9C%E6%90%9C%E5%B0%8B%E5%99%A8)
+[食譜目錄、分類大全｜過千份食譜推介＋食譜搜尋器](https://www.hk01.com/%E6%95%99%E7%85%AE/393455/)
+
+[點 Cook Guide - YouTube](https://www.youtube.com/channel/UCXnWjmQ8BDE0sDIeZLK5yJg)
 
 ## Agriculture
 
 [[paleontology#Younger Dryas]]
 
-[Agriculture - Wikiwand](https://www.wikiwand.com/en/Agriculture)
-[农业 - Wikiwand](https://www.wikiwand.com/zh/%E5%86%9C%E4%B8%9A)
+[Agriculture - Wikiwand](https://omni.wikiwand.com/en/Agriculture)
+[农业 - Wikiwand](https://omni.wikiwand.com/zh/%E5%86%9C%E4%B8%9A)
 
-[Agronomy - Wikiwand](https://www.wikiwand.com/en/Agronomy)
-[农学 - Wikiwand](https://www.wikiwand.com/zh/%E5%86%9C%E5%AD%A6)
+[Agronomy - Wikiwand](https://omni.wikiwand.com/en/Agronomy)
+[农学 - Wikiwand](https://omni.wikiwand.com/zh/%E5%86%9C%E5%AD%A6)
 
 [改變人類命運的，神一樣的男人！農業革命是偶然？還是必然？【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=AF_vU7flswM)
-[Neolithic Revolution - Wikiwand](https://www.wikiwand.com/en/First_Agricultural_Revolution) the First Agricultural Revolution (circa 10,000 BC)
-[British Agricultural Revolution - Wikiwand](https://www.wikiwand.com/en/British_Agricultural_Revolution) the Second Agricultural Revolution (17th-19th century)
-[Green Revolution - Wikiwand](https://www.wikiwand.com/en/Third_Agricultural_Revolution)
+[Neolithic Revolution - Wikiwand](https://omni.wikiwand.com/en/First_Agricultural_Revolution) the First Agricultural Revolution (circa 10,000 BC)
+[British Agricultural Revolution - Wikiwand](https://omni.wikiwand.com/en/British_Agricultural_Revolution) the Second Agricultural Revolution (17th-19th century)
+[Green Revolution - Wikiwand](https://omni.wikiwand.com/en/Third_Agricultural_Revolution)
 the Third Agricultural Revolution (1930s-1960s)
 
 [Engineering Breakthroughs That Will FEED The World - YouTube](https://www.youtube.com/watch?v=tQZM38N9ICo)
 
-[五穀 - Wikiwand](https://www.wikiwand.com/zh-hant/%E4%BA%94%E8%B0%B7)
+[五穀 - Wikiwand](https://omni.wikiwand.com/zh/%E4%BA%94%E8%B0%B7)
 [五谷（食物）\_百度百科](https://baike.baidu.com/item/%E4%BA%94%E8%B0%B7/92646)
 [五谷杂粮\_百度百科](https://baike.baidu.com/item/%E4%BA%94%E8%B0%B7%E6%9D%82%E7%B2%AE)
 [你知道，五穀是哪五穀嗎? | KGCHECK 聯華食品生醫研究室](https://shop.kgcheck.com.tw/cc-26232)
 
+北麥南稻
+
 稻
 黍(今粟米?/糜?)
 穀(粟/禾/糜?/稷/小米): 主要種植於北方黃河流域
-麥(小麥)
-菽(大豆, 泛指豆類)z
+麥(小麥): 秋種夏收
+菽(大豆, 泛指豆類)
 加上麻(大麻)稱為六穀
 良莠不分: 狗尾草又稱莠, 狗尾草幼苗和穀子幼苗很難區分
 高梁和小麥並非中國原生作物
@@ -72,6 +93,24 @@ Millet 粟 栗
 [【鬼谷闲谈】玉米：我已面目全非，但归来仍是王者 - YouTube](https://www.youtube.com/watch?v=cg-sJdR4gzQ)
 [【鬼谷闲谈】小麦如何成为最强主粮？ - YouTube](https://www.youtube.com/watch?v=T1erPWe5yr8)
 [【鬼谷闲谈】一颗大豆背后的千年历史 - YouTube](https://www.youtube.com/watch?v=4U7fL7mk61c)
+[【鬼谷闲谈】土豆：从剧毒块茎到未来主粮 - YouTube](https://www.youtube.com/watch?v=DPF64hiU_VA)
+
+[为什么大米可以直接吃，小麦总是磨面吃？ - YouTube](https://www.youtube.com/watch?v=1xFSFipVjnU)
+[小麦的恶魔双胞胎：被嫌弃的毒麦的一生 - YouTube](https://www.youtube.com/watch?v=KcAy6CRuUk4)
+[【食录】高产的土豆，是怎么饿死数百万人的？ - YouTube](https://www.youtube.com/watch?v=absYFmbNrhg) 愛爾蘭饑荒
+[如果没有玉米，我们或许吃不上便宜的炸鸡？ - YouTube](https://www.youtube.com/watch?v=n0IHC5D_XPo)
+
+### Pasta
+
+Al dente
+Coquillettes
+Tortiglioni
+Penne rigate
+Penne ziti rigate
+Alfabeto
+Fusilli
+Maccheroni
+Nidi larghi
 
 ### Vertical Farming
 
@@ -85,10 +124,29 @@ Millet 粟 栗
 
 ## Husbandry
 
-[Animal husbandry - Wikiwand](https://www.wikiwand.com/en/Husbandry)
-[畜牧业 - Wikiwand](https://www.wikiwand.com/zh/%E7%95%9C%E7%89%A7%E4%B8%9A)
+[Animal husbandry - Wikiwand](https://omni.wikiwand.com/en/Husbandry)
+[畜牧业 - Wikiwand](https://omni.wikiwand.com/zh/%E7%95%9C%E7%89%A7%E4%B8%9A)
 
-[六畜 - Wikiwand](https://www.wikiwand.com/zh/%E5%85%AD%E7%95%9C)
+[六畜 - Wikiwand](https://omni.wikiwand.com/zh/%E5%85%AD%E7%95%9C)
+
+料肉比 FCR
+出欄時間
+
+### Poultry
+
+> domestic fowls, including chickens, turkeys, geese and ducks, raised for the production of meat or eggs
+
+[Poultry - Wikiwand](https://omni.wikiwand.com/en/Poultry)
+
+[一年吃掉50亿只，42天就出栏的白羽鸡真的没问题吗？【食录】 - YouTube](https://www.youtube.com/watch?v=0e6kzbHIQ6Q)
+
+### Pork
+
+[【食录】为什么现在的猪肉，吃起来没有以前香了？ - YouTube](https://www.youtube.com/watch?v=Y5xaIrQwCuE)
+
+### Beef/Steak
+
+[相信我，看完视频，你就会挑牛排了 how to choose steaks 丨曼食慢语 - YouTube](https://www.youtube.com/watch?v=qCZZnTLYkY4)
 
 ## Frying Pan
 
@@ -111,6 +169,11 @@ Millet 粟 栗
 [How Junk Food Works - HowStuffWorks](http://recipes.howstuffworks.com/junk-food.htm)
 [為何人類對垃圾食物總是無法抵抗？甚麼才是垃圾食物？ (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=RsZClJYRgjU)
 
+[中国汽水兴衰史：童年夏天必喝的国产汽水，是如何走向衰败的？ - YouTube](https://www.youtube.com/watch?v=SoPOhJSzb_I)
+
+[【食录】为什么我的嘴停不下来？你吃的每一口薯片，都逃不过科学的算计 - YouTube](https://www.youtube.com/watch?v=F7bSYD4pO1I)
+[【食录】汉堡战争：食物界的秦始皇，是如何统一味觉的？ - YouTube](https://www.youtube.com/watch?v=Gzd7KFfUs7c)
+
 [冰淇淋为什么！这~么~好吃！它跟雪糕、冰棍有什么区别？What‘s the difference between ice cream and popsicle? - YouTube](https://www.youtube.com/watch?v=GSZConJZnLI)
 
 [HonestFoodGuide.org - The food guide built to benefit you, not Big Business](http://www.honestfoodguide.org/)
@@ -120,9 +183,7 @@ Millet 粟 栗
 [什麼油最健康安全？為什麼?簡單易懂科學解釋！用錯真的致癌生百病！？ - YouTube](https://www.youtube.com/watch?v=rE4oIAZba6Y)
 [23 種油科學分析！標榜健康的反而致癌？適合熱炒油炸的油有哪些？ - YouTube](https://www.youtube.com/watch?v=1gAfVrEkGyU)
 
-## Recipe
-
-[點 Cook Guide - YouTube](https://www.youtube.com/channel/UCXnWjmQ8BDE0sDIeZLK5yJg)
+[猪油这么香，为什么吃的人却越来越少了？ - YouTube](https://www.youtube.com/watch?v=T9vbXEWzVpY)
 
 ## Date Labels
 
@@ -133,14 +194,59 @@ Millet 粟 栗
 ## Coco/Chocolate
 
 [不同的巧克力有哪些区别？如何挑一块好吃的巧克力？What are the differences between different chocolates? - YouTube](https://www.youtube.com/watch?v=NDmvwD9yzpc)
+[巧克力的前生今世：药、货币、饮料、甜品 - YouTube](https://www.youtube.com/watch?v=btcGK6FZlPM)
+[【可可】直击裸猿底层bug - YouTube](https://www.youtube.com/watch?v=pHvEDA-OcWg)
+
+## Energy Drink
+
+[为什么红牛喜欢赞助极限运动？ - YouTube](https://www.youtube.com/watch?v=vOjhsYOW1pE)
+
+寶礦力水特Pocari Sweat
+Gatorade
+
+## Banana
+
+[【鬼谷闲谈】香蕉：在修罗魔道中修成正果 - YouTube](https://www.youtube.com/watch?v=3likzmS8USU)
+[为什么我们有可能吃不到香蕉了？｜Why can't we eat bananas anymore? - YouTube](https://www.youtube.com/watch?v=OYVW0avdTXE)
+
+## Apple
+
+[“一天一苹果，医生远离我”，为什么苹果总是被神化？ - YouTube](https://www.youtube.com/watch?v=WZ05tGiBTKc)
+
+## Watermelon
+
+[【鬼谷闲谈】西瓜：沙漠苦果如何成为人间至甜 - YouTube](https://www.youtube.com/watch?v=OCZo1w1sWNQ)
 
 ## Cheese
 
 [American Cheese Isn't Cheese - YouTube](https://www.youtube.com/watch?v=bISFxFauTzM)
+[Making American cheese to debunk a conspiracy - YouTube](https://www.youtube.com/watch?v=0aGNAxN5Z-o)
 
 ## Sugar
 
 [“元气森林”真的没有糖吗？人类为什么喜欢吃糖？ - YouTube](https://www.youtube.com/watch?v=sNQ8uAAIHnc)
+[甜蜜的选择：糖与代糖吵了上百年，有结果了吗？【食录】 - YouTube](https://www.youtube.com/watch?v=qDp5u_qdBp4)
+[你無法戒糖的真正原因：糖比香煙更容易上癮，糖是不會醉的酒精，有人故意讓脂肪幫糖背了50年的黑鍋，這背後的故事觸目驚心……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=9vfh85uLz9k)
+
+### Sugar Substitutes
+
+First Generation:
+
+- Saccharin 糖精
+
+Second Generation:
+
+- Aspartame 阿斯巴甜
+- Xylitol
+
+Third Generation:
+
+- Sucralose (三氯蔗糖)
+- Stevia Leaf Extract (甜菊葉)
+- Monk Fruit Extract (羅漢果)
+
+[唯有勇者方敢吃？代糖危害可遺傳？這是一個當代神農嘗百草的故事，美國總統與試毒小分隊也曾為此爭論不休......｜總裁聊聊 - YouTube](https://www.youtube.com/watch?v=YHwXbDqHhq0)
+[代糖致癌？深聊在禁令、政治和金钱之间反复游走的甜蜜革命｜生物科技特辑（2） - YouTube](https://www.youtube.com/watch?v=e3kbgjGrjZQ)
 
 ## Salt
 
@@ -149,6 +255,7 @@ Millet 粟 栗
 ## MSG
 
 [吃了會怎樣？令人恐懼的味精！【Buchi 社會課#22】 - YouTube](https://www.youtube.com/watch?v=zVhXnvlkAGc)
+[是谁在抹黑味精？被“科技与狠活”干倒的中国味精，冤死了 - YouTube](https://www.youtube.com/watch?v=vdXbDH9P4TM)
 [味精：你為什麼恐懼它？也許，這背後還有一個你值得知道的故事……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=HvRX2KL-66E)
 
 ## Additives
@@ -159,22 +266,18 @@ Millet 粟 栗
 
 [世界第一個罐頭居然是拿破崙催生出來的!你不知道的罐頭歷史 - YouTube](https://www.youtube.com/watch?v=cMMHU25WZpY)
 
+## Caviar 魚子醬
+
+[Is Caviar a scam? - YouTube](https://www.youtube.com/watch?v=sClalDEIVbo)
+[鱘魚：從2億年不進化的王者，到被人類圈養的食物，曾經不過是俄國人的黑暗料理，到現在卻是比黃金還貴的奢侈食物，這背後原來隱藏著一個讓人心酸的商業秘……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=oJs8zL7YRG8)
+
 ## Shellfish
 
 [How To Open Every Shellfish | Method Mastery | Epicurious - YouTube](https://www.youtube.com/watch?v=hJTy_8Dtbsc)
 
-## Steak
+[你吃的干貝怎麼來的？ 去日本扇貝的產地，看看扇貝是怎麼養殖，然後賣到全世界的！followed Japanese fisherman to catch scallops in Kesennuma - YouTube](https://www.youtube.com/watch?v=tTynV5DCWhk)
 
-[相信我，看完视频，你就会挑牛排了 how to choose steaks 丨曼食慢语 - YouTube](https://www.youtube.com/watch?v=qCZZnTLYkY4)
+[扇貝：它是進化最成功的貝類，不僅長了200隻眼睛，且還會遊泳，神秘的數百萬隻海星之死和扇貝有關嗎？極品海鮮扇貝的真相！ - YouTube](https://www.youtube.com/watch?v=SQT1HU1lhbY)
 
-## Pasta
-
-Al dente
-Coquillettes
-Tortiglioni
-Penne rigate
-Penne ziti rigate
-Alfabeto
-Fusilli
-Maccheroni
-Nidi larghi
+[最好吃的海怪們：蛤、蚶、蟶、蠔、蜆有什麼區別？北極貝到底是什麼？象拔蚌又有哪些不可告人的秘密？這是一群美味海怪與人類的故事……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=9gqCqmiO1r4)
+[A鮑魚：新西蘭鮑魚氾濫，為什麼它依舊是奢侈食材？秘密隱藏在「頭」當中，「幾頭鮑」的背後有一個古老秘密……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=kUVBY9rz_9A)

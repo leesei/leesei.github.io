@@ -2,7 +2,7 @@
 title: Wifi
 description: ""
 created: 2019-02-25
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - comp/hardware
   - wifi
@@ -10,7 +10,7 @@ tags:
 
 [[router]]
 
-[Wi-Fi - Wikiwand](https://www.wikiwand.com/en/Wi-Fi)
+[Wi-Fi - Wikiwand](https://omni.wikiwand.com/en/Wi-Fi)
 [Router 路由器 集中討論區(30) 記住睇#1 新用家勿買煙條 CPU Router | LIHKG](https://lihkg.com/thread/2098608/page/1)
 [Router 路由器 集中討論區(19)發問前請細閱置頂 | LIHKG](https:/d/lihkg.com/thread/1698364/page/1)
 [连拆 70 台！Wi-Fi6 路由器的终极秘密是？知电路由器选购指南 2023 - YouTube](https://www.youtube.com/watch?v=uQ2nDcdCE4U)
@@ -29,13 +29,13 @@ tags:
 [Get WiFi Analyzer - Microsoft Store](https://www.microsoft.com/en-us/p/wifi-analyzer/9nblggh33n0n?activetab=pivot%3Aoverviewtab)
 
 [Wi-Fi now has version numbers, and Wi-Fi 6 comes out next year - The Verge](https://www.theverge.com/2018/10/3/17926212/wifi-6-version-numbers-announced)
-[802.11: Wi-Fi standards and speeds explained | Network World](https://www.networkworld.com/article/3238664/wi-fi/80211-wi-fi-standards-and-speeds-explained.html)
 Wi-Fi 1: 802.11b (1999)
 Wi-Fi 2: 802.11a (1999)
 Wi-Fi 3: 802.11g (2003)
 Wi-Fi 4: 802.11n (2009)
 Wi-Fi 5: 802.11ac (2014)
-Wi-Fi 6: 802.11ax (2019)
+Wi-Fi 6/6e: 802.11ax (2019)
+Wi-Fi 7: 802.11be (2024)
 
 [Wi-Fi 6, explained: how fast it really is - The Verge](https://www.theverge.com/platform/amp/2019/2/21/18232026/wi-fi-6-speed-explained-router-wifi-how-does-work)
 [5-Minute Breakdown: Wi-Fi 6 | Network World](https://www.networkworld.com/article/3390239/5-minute-breakdown-wi-fi-6.html)
@@ -43,6 +43,7 @@ Wi-Fi 6: 802.11ax (2019)
 [What is Wi-Fi 6? Fundamentals of 802.11ax / wifi 6 - YouTube](https://www.youtube.com/watch?v=uZMA4p00c9g)
 [WiFi 6 詳細教學以及 WiFi 6 Router 總介紹：TP-LINK、LINKSYS、ASUS、Netgear - 數碼科技 - 香港格價網 Price.com.hk](https://www.price.com.hk/news.php?id=15622)
 [硬核讲解 WiFi 7，聊聊 WiFi 技术的现状与展望【白呀白 Talk】 - YouTube](https://www.youtube.com/watch?v=Vu5fGDgKufc)
+[「邦尼評測」必看！請直上 Wi-Fi 7！解析 Wi-Fi 7 強在哪裡？TP-Link Archer GE800 開箱評測（2024路由器選購指南！MLO, 6E vs Wi-Fi 7 值不值得買？ - YouTube](https://www.youtube.com/watch?v=QZT4GEQwMlE)
 
 [What is MU-MIMO | MU-MIMO router | Faster internet MU-MIMO - Feature - PC Advisor](http://www.pcadvisor.co.uk/feature/network-wifi/what-is-mu-mimo-3644171/)
 [10 things you need to know about MU-MIMO Wi-Fi | Network World](https://www.networkworld.com/article/3256905/13-things-you-need-to-know-about-mu-mimo-wi-fi.html)
@@ -64,6 +65,8 @@ netsh wlan show profile
 netsh wlan show profile name="<SSID>" key=clear | findstr Key
 ```
 
+[How to Extract Plaintext Wi-Fi Passwords (with Rust) - YouTube](https://www.youtube.com/watch?v=auGJJOfmrMM)
+
 ## Linux
 
 `iwd` (iNet wireless daemon) is a wireless daemon for Linux written by Intel that aims to replace WPA supplicant.
@@ -81,7 +84,7 @@ netsh wlan show profile name="<SSID>" key=clear | findstr Key
 ### Repeater
 
 Since WiFi is single duplex, repeater will half the bandwidth and increase latency
-[Wireless repeater - Wikiwand](https://www.wikiwand.com/en/Wireless_repeater)
+[Wireless repeater - Wikiwand](https://omni.wikiwand.com/en/Wireless_repeater)
 [2.4 GHz Wi-Fi Repeaters Explained [TP-Link TL-WA855RE] - YouTube](https://www.youtube.com/watch?v=VUx_va_3020)
 
 [Dual-Band Repeaters Explained - YouTube](https://www.youtube.com/watch?v=XuJlxD3kLL0)

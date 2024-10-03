@@ -2,7 +2,7 @@
 title: 2D Drawing on the Web
 description: ""
 created: 2016-04-08
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - web
 ---

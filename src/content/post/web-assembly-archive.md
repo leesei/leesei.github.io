@@ -2,7 +2,7 @@
 title: Web Assembly (Archives)
 description: Archived Web Assembly notes
 created: 2023-03-28
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - archived
   - wasm
@@ -39,7 +39,7 @@ tags:
 > not standardized, obsoleted by WebAssembly
 
 [asm.js](http://asmjs.org/)
-[asm.js - Wikiwand](https://www.wikiwand.com/en/Asm.js)
+[asm.js - Wikiwand](https://omni.wikiwand.com/en/Asm.js)
 
 [asm.js: A Low Level, Highly Optimizable Subset of JavaScript for Compilers | Badass JavaScript](http://badassjs.com/post/43420901994/asm-js-a-low-level-highly-optimizable-subset-of)
 [asm.js: closing the gap between JavaScript and native](http://www.2ality.com/2013/02/asm-js.html)

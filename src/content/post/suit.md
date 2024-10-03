@@ -2,7 +2,7 @@
 title: Suit
 description: ""
 created: 2015-11-04
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - suit
   - trivia

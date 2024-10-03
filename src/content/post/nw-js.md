@@ -2,7 +2,7 @@
 title: NW.js
 description: ""
 created: 2015-08-28
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - comp/lang
   - node-webkit
@@ -24,6 +24,5 @@ It merged Chromium's `MessagePump*` with Node's `libuv` event loop.
 [Cross-Platform Development With NW.js](https://code.tutsplus.com/tutorials/cross-platform-development-with-nwjs--cms-23281)
 [Creating a Photo Discovery App with NW.js (part 1) | Scotch](https://scotch.io/tutorials/creating-a-photo-discovery-app-with-nw-js-part-1)
 [Creating a Photo Discovery App with NW.js (part 2) | Scotch](https://scotch.io/tutorials/creating-a-photo-discovery-app-with-nw-js-part-2)
-[StrongLoop | Creating Desktop Applications With node-webkit](https://strongloop.com/strongblog/creating-desktop-applications-with-node-webkit/)
 
 [octalmage/minum: A new minimal web browsing experience.](https://github.com/octalmage/minum)

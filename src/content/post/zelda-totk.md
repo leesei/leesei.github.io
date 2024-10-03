@@ -2,7 +2,7 @@
 title: "Zelda: Tears of the Kingdom"
 description: ""
 created: 2023-06-06
-updated: 2023-11-27
+updated: 2024-05-22
 tags:
   - games
   - nintendo
@@ -13,6 +13,9 @@ tags:
 
 [塞尔达王国之泪性能分析：被 Switch 机能拖累的神作！ - YouTube](https://www.youtube.com/watch?v=aBHz767EbO4)
 [官方开作弊“毁”游戏《王国之泪》游戏鉴赏【就知道玩游戏 2023】 - YouTube](https://www.youtube.com/watch?v=jjZHRKjXZ84)
+
+[How Zelda Devs Fixed TOTK's Broken Physics - YouTube](https://www.youtube.com/watch?v=NfWOBGF4cu4)
+[GDC Vault - Tunes of the Kingdom: Evolving Physics and Sounds for 'The Legend of Zelda: Tears of the Kingdom'](https://gdcvault.com/play/1034667/Tunes-of-the-Kingdom-Evolving)
 
 [The Legend Of Zelda: Tears Of The Kingdom - How To Unlock The True Ending](https://www.dualshockers.com/zelda-totk-unlock-true-ending/)
 

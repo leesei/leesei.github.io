@@ -2,7 +2,7 @@
 title: iPhone
 description: ""
 created: 2018-02-23
-updated: 2023-09-29
+updated: 2024-02-15
 tags:
   - comp/hardware
   - iphone
@@ -13,6 +13,7 @@ tags:
 
 [Should You Upgrade to iPhone 11? The 5 Best iPhone 11 Features](https://www.makeuseof.com/tag/iphone-11-upgrade/)
 [iPhone 11 and iPhone 11 Pro Tricks: 16 ways to do more faster! | iMore](https://www.imore.com/iphone-11-secret-gesture-button-shortcuts)
+[How to Free Up Storage Space on iCloud](https://www.makeuseof.com/tag/manage-your-icloud-storage-rather-than-paying-for-yearly-upgrades/)
 
 ## Firmware/Flashing
 

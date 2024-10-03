@@ -2,15 +2,16 @@
 title: SQL
 description: On the Query Language
 created: 2017-06-02
-updated: 2023-11-30
+updated: 2024-10-03
 tags:
   - comp/lang
   - sql
 ---
 
 > mysql and mariadb are the most popular dialects
+> see [[cyber-security#SQL injection]] for security concerns
 
-[SQL - Wikiwand](https://www.wikiwand.com/en/SQL)
+[SQL - Wikiwand](https://omni.wikiwand.com/en/SQL)
 [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
 
 [WWW SQL Designer](https://ondras.zarovi.cz/sql/demo/)
@@ -19,10 +20,14 @@ tags:
 [PlanetScale - YouTube](https://www.youtube.com/@PlanetScale) many SQL tricks
 [PlanetScale 🤝 YouTube — PlanetScale](https://planetscale.com/youtube) SQL course
 
+[Roadmap for Learning SQL - YouTube](https://www.youtube.com/watch?v=yMqldbY2AAg)
+[Secret To Optimizing SQL Queries - Understand The SQL Execution Order - YouTube](https://www.youtube.com/watch?v=BHwzDmr6d7s)
+
 [The Magic of SQL - YouTube](https://www.youtube.com/c/TheMagicofSQL)
 [Basic SQL queries - SQL programming for beginners - YouTube](https://www.youtube.com/watch?v=tK-HXzuUunI)
 [you need to learn SQL RIGHT NOW!! (SQL Tutorial for Beginners) - YouTube](https://www.youtube.com/watch?v=xiUTqnI6xk8)
 [SQL basics and creating a simple database - SQL programming for beginners - YouTube](https://www.youtube.com/watch?v=sHQhc5Jz6SQ)
+[SQL for Data Analytics - Learn SQL in 4 Hours - YouTube](https://www.youtube.com/watch?v=7mz73uXD9DA)
 
 [Intro to SQL: Querying and managing data | Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
 [Learn SQL | Codecademy](https://www.codecademy.com/learn/learn-sql)
@@ -80,6 +85,11 @@ WITH
 SELECT * FROM cte1 JOIN cte2
 ```
 
+## Formatter
+
+[sequel fumpt](https://sqlfum.pt/)
+[maddyblue/sqlfmt: SQL formatter with width-aware output](https://github.com/maddyblue/sqlfmt)
+
 ## Indices
 
 [Easy database indexing strategies - YouTube](https://www.youtube.com/watch?v=IcIkjfXoHV4)
@@ -99,6 +109,10 @@ inner join, outer join
 - `SELECT * FROM user WHERE id IN (SELECT id FROM post WHERE views > 10000)`
 - `SELECT * FROM user WHERE EXISTS (SELECT id FROM post WHERE views > 10000 AND user.id = user_id)` exploiting the outside-in execution strategy
 
+## Execution Order
+
+[Secret To Optimizing SQL Queries - Understand The SQL Execution Order 🚀 - DEV Community](https://dev.to/kanani_nirav/secret-to-optimizing-sql-queries-understand-the-sql-execution-order-28m1)
+
 ## JSON support
 
 [You don't need NoSQL (use MySQL) - YouTube](https://www.youtube.com/watch?v=QZBxgX2OWbI)
@@ -112,21 +126,6 @@ inner join, outer join
 - functional indices on JSON attribute
 - generated columns, stored generated columns
 - set JSON column invisible (from `SELECT *`)
-
-## SQL injection
-
-[SQL injection - Wikiwand](http://www.wikiwand.com/en/SQL_injection)
-[SQL injection techniques - Getting started with SQL injection - YouTube](https://www.youtube.com/watch?v=05SmIqGX4zQ)
-[Step-by-step SQL injection guide to bypassing basic login screen - Mastering SQL injection - YouTube](https://www.youtube.com/watch?v=SJgYdTckMBY)
-[Web Security Academy - SQL Injection (Long Version) - YouTube](https://www.youtube.com/playlist?list=PLuyTk2_mYISLaZC4fVqDuW_hOk0dd5rlf)
-
-[7 essential SQL Server security tips | InfoWorld](http://www.infoworld.com/article/2953834/database/7-essential-sql-server-security-tips.html#tk.ifw-infsb)
-
-[Preventing SQL Injection Attacks With Python – Real Python](https://realpython.com/prevent-python-sql-injection/)
-
-[sqlmap: automatic SQL injection and database takeover tool](https://sqlmap.org/)
-
-Simple injection on username field: `ANYNAME OR' 1=1 --`
 
 ## Clients/IDE
 

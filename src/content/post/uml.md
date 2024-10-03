@@ -2,14 +2,13 @@
 title: UML
 description: ""
 created: 2015-04-14
-updated: 2023-11-01
+updated: 2024-09-16
 tags:
   - comp/lang
   - uml
 ---
 
-[Unified Modeling Language - Wikiwand](https://www.wikiwand.com/en/Unified_Modeling_Language)
-[Business Process Model and Notation (BPMN)](http://en.wikipedia.org/wiki/Business_Process_Model_and_Notation) is very similar to activity diagram.
+[Unified Modeling Language - Wikiwand](https://omni.wikiwand.com/en/Unified_Modeling_Language)
 [YANG Central](http://www.yang-central.org/twiki/bin/view/Main/WebHome)
 
 [Allen Holub's UML Quick Reference](http://www.holub.com/goodies/uml/)
@@ -26,9 +25,15 @@ tags:
 
 [UML class diagrams in draw.io - draw.io](https://drawio-app.com/uml-class-diagrams-in-draw-io/)
 
+[Business Process Model and Notation (BPMN)](http://en.wikipedia.org/wiki/Business_Process_Model_and_Notation) is very similar to activity diagram
+[Web-based tooling for BPMN, DMN, CMMN, and Forms | bpmn.io](https://bpmn.io/)
+
 [[learn-to-code#Architecture Design]]
 
 ## Text based tools
+
+[Top 6 Tools to Turn Code into Beautiful Diagrams - YouTube](https://www.youtube.com/watch?v=jCd6XfWLZsg)
+[Kroki!](https://kroki.io/) unified API with support for multiple text based diagram language
 
 I used to use the GUI tool [Dia](https://wiki.gnome.org/Apps/Dia/). But it was very buggy and no longer updated. I then went on to look for alternatives.
 
@@ -47,8 +52,12 @@ Candidates are (ranked according to the criteria below):
 | ------------------------ | ---------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [PlantUML][]             | Java       | Activity, State, Sequence, Component, Class, Object, Use Case, etc | [live](http://www.plantuml.com/), [Language Reference](http://plantuml.com/guide)                                                                                                                             |
 | [blockdiag][]            | Python     | Block, Activity, Sequence, Network, Rack, Packet                   | [live](http://interactive.blockdiag.com)                                                                                                                                                                      |
+| [Diagrams][]             | Python     | Block                                                              | [examples](https://play.d2lang.com/?script=qlDQtVOo5AIEAAD__w%3D%3D&)                                                                                                                                         |
+| [Go-Diagrams][]          | Go         | Block                                                              | A loose port of diagrams                                                                                                                                                                                      |
+| [D2][]                   | Go         | Block, Sequence                                                    | [live](https://diagrams.mingrammer.com/docs/getting-started/examples)                                                                                                                                         |
 | [mermaid][]              | JavaScript | Flowchart (Activity), Sequence, Gantt                              | [live](http://knsv.github.io/mermaid/live_editor/), [Schachte/Mermrender](https://github.com/Schachte/Mermrender)                                                                                             |
 | [JUMLY][]                | JavaScript | Sequence, Activity                                                 | [live](http://jumly.tmtk.net/try.html)                                                                                                                                                                        |
+| [Structurizr][]          | Java       | Block                                                              | [live](https://structurizr.com/dsl)                                                                                                                                                                           |
 | [js-sequence-diagrams][] | JavaScript | Sequence                                                           | live                                                                                                                                                                                                          |
 | [flowchart.js][]         | JavaScript | Flowchart                                                          | live                                                                                                                                                                                                          |
 | [UMLGraph][]             | Java       | Sequence, Class                                                    |
@@ -57,8 +66,12 @@ Candidates are (ranked according to the criteria below):
 
 [plantuml]: http://plantuml.com/
 [blockdiag]: http://blockdiag.com/en/
+[diagrams]: https://diagrams.mingrammer.com/
+[go-diagrams]: https://github.com/blushft/go-diagrams
+[d2]: https://d2lang.com/
 [mermaid]: https://github.com/knsv/mermaid
 [jumly]: http://jumly.tmtk.net/
+[structurizr]: https://structurizr.com/
 [js-sequence-diagrams]: http://bramp.github.io/js-sequence-diagrams/
 [flowchart.js]: http://flowchart.js.org/
 [umlgraph]: http://www.umlgraph.org/index.html
@@ -95,6 +108,7 @@ BTW, `blockdiag` would be the first runner up. It also features several unique d
 [Changing colors and fonts](http://plantuml.com/skinparam)
 
 [PlantUML Standard Library](http://plantuml.com/stdlib) icons
+[plantuml/plantuml-stdlib: Contains official Standard Library for PlantUML](https://github.com/plantuml/plantuml-stdlib)
 [tupadr3/plantuml-icon-font-sprites: plantuml-font-icon-sprites](https://github.com/tupadr3/plantuml-icon-font-sprites)
 
 Wrapper script to JAR file (from [download page](https://plantuml.com/download))
@@ -124,8 +138,8 @@ Live Editor:
 [PlantUML Editor](https://plantuml-editor.kkeisuke.com/#)
 [PlantText UML Editor](https://www.planttext.com/)
 
-[PlantUML Viewer - Chrome Web Store](https://chrome.google.com/webstore/detail/plantuml-viewer/legbfeljfbjgfifnkmpoajgpgejojooj)
-[UML Diagram Editor - Chrome Web Store](https://chrome.google.com/webstore/detail/uml-diagram-editor/hoepdgfgogmeofkgkpapbdpdjkplcode)
+[PlantUML Viewer](https://chromewebstore.google.com/detail/plantuml-viewer/legbfeljfbjgfifnkmpoajgpgejojooj)
+[UML Diagram Editor](https://chromewebstore.google.com/detail/uml-diagram-editor/hoepdgfgogmeofkgkpapbdpdjkplcode)
 [PlantUML QEditor | SourceForge.net](http://sourceforge.net/projects/plantumlqeditor/)
 [nrekretep/pikturr: Simple tool to turn a swagger api spec into a uml class diagram.](https://github.com/nrekretep/pikturr)
 
@@ -152,13 +166,39 @@ styling:
 ### Pikchr
 
 [Pikchr: Documentation](https://pikchr.org/home/doc/trunk/homepage.md)
-[PIC (markup language) - Wikiwand](https://www.wikiwand.com/en/Pic_language)
+[PIC (markup language) - Wikiwand](https://omni.wikiwand.com/en/Pic_language)
 
 [Pikchr: Pikchr User Manual](https://pikchr.org/home/doc/trunk/doc/userman.md)
+
+### Diagrams
+
+> Python
+
+[Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)
+[mingrammer/diagrams: :art: Diagram as Code for prototyping cloud system architectures](https://github.com/mingrammer/diagrams)
+
+### go-diagram
+
+[blushft/go-diagrams: Create beautiful system diagrams with Go](https://github.com/blushft/go-diagrams)
 
 ### Goa Model
 
 [goadesign/model: Create your software architecture models and diagrams in Go.](https://github.com/goadesign/model)
+
+### ASCII
+
+[Diagrams | Internet-Draft Author Resources](https://authors.ietf.org/diagrams)
+
+[ASCIIFlow](https://asciiflow.com/#/)
+[lewish/asciiflow: ASCIIFlow](https://github.com/lewish/asciiflow)
+
+[Textik - ASCII diagrams editor](https://textik.com/#3bb4a2dda4073a00)
+[ astashov/tixi: Ascii charts editor](https://github.com/astashov/tixi)
+
+[Introduction - Asciio](https://nkh.github.io/P5-App-Asciio/)
+[nkh/P5-App-Asciio: Plain ASCII diagram](https://github.com/nkh/P5-App-Asciio)
+
+[Monodraw for macOS — Helftone](https://monodraw.helftone.com/) MacOS, paid
 
 ### GaaS (graph as a service)
 
@@ -169,6 +209,7 @@ With an HTTP client and scraping code, any DSL with web editor could be made as 
 PlantUML's [service](http://plantuml.com/server) mode, see[jQuery](http://plantuml.com/jquery) and JavaScript [async](http://plantuml.com/demo-javascript-asynchronous) and [sync](http://plantuml.com/demo-javascript-synchronous) integration.
 
 [[Excalidraw]]
+[[tldraw]]
 
 [Rough.js](https://roughjs.com/)
 
@@ -177,6 +218,11 @@ PlantUML's [service](http://plantuml.com/server) mode, see[jQuery](http://plantu
 [HackerDraw | Diagramming Made Easy](https://www.hackerdraw.com/)
 [Terrastruct | A diagramming tool crafted to visualize software architecture](https://terrastruct.com/)
 
+## Gaphor
+
+[Modeling for Everyone | Gaphor](https://gaphor.org/)
+[Gaphor: Open Source Graphical Modeling Tool - It's FOSS](https://itsfoss.com/gaphor-modeling-tool/)
+
 ## draw.io
 
 [diagrams.net](https://app.diagrams.net/) Formerly draw.io
@@ -184,11 +230,6 @@ PlantUML's [service](http://plantuml.com/server) mode, see[jQuery](http://plantu
 [Blog - Generate diagrams from code](https://www.drawio.com/blog/diagrams-from-code)
 
 [Solved: Is there a way to convert a plantUML diagram to a ...](https://community.atlassian.com/t5/Confluence-questions/Is-there-a-way-to-convert-a-plantUML-diagram-to-a-draw-io/qaq-p/1284640)
-
-## Gaphor
-
-[Modeling for Everyone | Gaphor](https://gaphor.org/)
-[Gaphor: Open Source Graphical Modeling Tool - It's FOSS](https://itsfoss.com/gaphor-modeling-tool/)
 
 ## GUI Tools
 
@@ -220,8 +261,8 @@ After trying out several GUI tools, yEd comes to my liking.
 
 ### Chrome Apps
 
-[Gliffy Diagrams - Chrome Web Store](https://chrome.google.com/webstore/detail/gliffy-diagrams/bhmicilclplefnflapjmnngmkkkkpfad): the diagram is saved as JSON
-[Sketchboard.io - Chrome Web Store](https://chrome.google.com/webstore/detail/sketchboardio/bgafhjpdkfjfmmjbebbdckolonomaoil)
+[Gliffy Diagrams](https://chromewebstore.google.com/detail/gliffy-diagrams/bhmicilclplefnflapjmnngmkkkkpfad): the diagram is saved as JSON
+[Sketchboard.io](https://chromewebstore.google.com/detail/sketchboardio/bgafhjpdkfjfmmjbebbdckolonomaoil)
 
 ## Code Generation
 

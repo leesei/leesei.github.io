@@ -2,7 +2,7 @@
 title: Kerbal Space Program
 description: ""
 created: 2019-10-22
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - games
   - ksp
@@ -13,7 +13,7 @@ tags:
 [KSPedia-PC.pdf](https://www.kerbalspaceprogram.com/files/KSPedia-PC.pdf)
 KSP 1.12 in 2021-06 is the final update
 
-[Kerbal Space Program - Wikiwand](https://www.wikiwand.com/en/Kerbal_Space_Program)
+[Kerbal Space Program - Wikiwand](https://omni.wikiwand.com/en/Kerbal_Space_Program)
 [Kerbal Space Program Wiki](https://wiki.kerbalspaceprogram.com/wiki/Main_Page)
 [The Kerbal Effect - YouTube](https://www.youtube.com/watch?v=vla6vpa1-Bk)
 [Can Kerbal Space Program Really Teach Rocket Science - YouTube](https://www.youtube.com/watch?v=ogC6ds81gek)
@@ -27,29 +27,30 @@ KSP 1.12 in 2021-06 is the final update
 [Forums - Kerbal Space Program Forums](https://forum.kerbalspaceprogram.com/)
 [KSP - Absolute Beginner's Guide - YouTube](https://www.youtube.com/playlist?list=PLB3Ia8aQsDKgGHrNZnz2ca8NVuyj7eHXc) Mike Aben
 
-[Kerbal Space Program - YouTube](https://www.youtube.com/channel/UC-ZlXbhKDI6m0IQGGSNvtaw) official
-[Kerbal Space Program - YouTube](https://www.youtube.com/playlist?list=PL29CCD4C7E542D28B)
-[Interstellar Quest - YouTube](https://www.youtube.com/playlist?list=PLYu7z3I8tdEmjsTPxZMAsU8_d30ctM1Hm)
-[Reusable Kerbal Space Program - YouTube](https://www.youtube.com/playlist?list=PLYu7z3I8tdEkj16QN9poJyRrfAugyiC7W)
-[Kerbal Air Races - YouTube](https://www.youtube.com/playlist?list=PLYu7z3I8tdEmQg5lSkTer_OlmleHwB_a8)
-[Scott Manley - YouTube](https://www.youtube.com/channel/UCxzC4EngIsMrPmbm6Nxvb-A)
-[Orb8Ter - YouTube](https://www.youtube.com/c/Orb8Ter/playlists)
-[Mike Aben - YouTube](https://www.youtube.com/c/MikeAben/playlists)
-[Kenson Kerman - YouTube](https://www.youtube.com/channel/UCoTHGfFHQUkwdS216F06SFQ)
+[Kerbal Space Program - YouTube](https://www.youtube.com/@KerbalSpaceProgramOfficial) official
+[Orb8Ter - YouTube](https://www.youtube.com/@Orb8Ter/playlists)
+[Mike Aben - YouTube](https://www.youtube.com/@MikeAben/playlists)
+[ShadowZone - YouTube](https://www.youtube.com/@ShadowZone)
+[Kenson Kerman - YouTube](https://www.youtube.com/@KensonKerman)
 
-[Scott Manley - YouTube](https://www.youtube.com/channel/UCxzC4EngIsMrPmbm6Nxvb-A)
+[Scott Manley - YouTube](https://www.youtube.com/@scottmanley)
+[Kerbal Space Program - YouTube](https://www.youtube.com/playlist?list=PL29CCD4C7E542D28B)
 [Kerbal Space Program Tutorials - YouTube](https://www.youtube.com/playlist?list=PLYu7z3I8tdEm5nyZU3a-O2ak6mBYXWPAL)
 [Kerbal Space Program Career Mode Tutorial - YouTube](https://www.youtube.com/playlist?list=PLYu7z3I8tdEmqpOkQZCl5SZB5t0vXuxE0)
+[Interstellar Quest - YouTube](https://www.youtube.com/playlist?list=PLYu7z3I8tdEmjsTPxZMAsU8_d30ctM1Hm)
+[Kerbal Air Races - YouTube](https://www.youtube.com/playlist?list=PLYu7z3I8tdEmQg5lSkTer_OlmleHwB_a8)
+[Reusable Kerbal Space Program - YouTube](https://www.youtube.com/playlist?list=PLYu7z3I8tdEkj16QN9poJyRrfAugyiC7W)
 
 quill18
 [Kerbal Space Program - YouTube](https://www.youtube.com/playlist?list=PLs3acGYgI1-tflJyPE7goO4xM0yu96MyD)
 [Let's Play: Kerbal Space Program - 1.2 Career Mode! - YouTube](https://www.youtube.com/playlist?list=PLs3acGYgI1-u6Cgd79MGYFXKjesMdCUvJ)
 
-[Mark Thrimm - YouTube](https://www.youtube.com/channel/UC0azVlk0TJL4oNlsZHQCzAA)
+[Mark Thrimm - YouTube](https://www.youtube.com/@MarkThrimm)
 [Kerbal Space Program - YouTube](https://www.youtube.com/playlist?list=PLDb3m8xqduQM5X9TCQiWPymVwlBbDxj9N) Stumpt Rik
 
-[Matt Lowne - YouTube](https://www.youtube.com/channel/UCiW7-IEQCTqS9l7223whHZA)
+[Matt Lowne - YouTube](https://www.youtube.com/@MattLowne)
 [Into The Warp - a KSP Movie - YouTube](https://www.youtube.com/watch?v=kIoJxQ5Kv2E)
+[These KSP Visual Mods are ACTUALLY INSANE - YouTube](https://www.youtube.com/watch?v=47oITKFBN7o)
 
 [Kerbal Colonization - YouTube](https://www.youtube.com/playlist?list=PLHqSuWJSw8SDvFNrDlLYXfbuFpAYoBQUI) Rhadamant
 
@@ -115,7 +116,7 @@ inclination change is more efficient at lower speed
 [Kerbal Space Program - Career Mode Guide For Beginners - Part 5 - YouTube](https://www.youtube.com/watch?v=6ffdsuZxAfc)
 [Kerbal Space Program - Career Mode Guide For Beginners - Part 10 - YouTube](https://www.youtube.com/watch?v=W3IRbcJndRw) Launch a Satellite Into a Specific Orbit
 
-[Oberth effect - Wikiwand](https://www.wikiwand.com/en/Oberth_effect) firing rocket engine at high speed causes greater change in kinetic energy than when fired at low speed
+[Oberth effect - Wikiwand](https://omni.wikiwand.com/en/Oberth_effect) firing rocket engine at high speed causes greater change in kinetic energy than when fired at low speed
 [Exploiting The Oberth Effect (again) in Kerbal Space Program - YouTube](https://www.youtube.com/watch?v=gEra14FVD4o)
 
 [How Gravity Assists Work - YouTube](https://www.youtube.com/watch?v=16jr7WWGSxo)
@@ -323,3 +324,10 @@ To be used with Real Solar System
 
 [[KSP 1.6.1] Stock Visual Enhancements [v1.4.1] [20 March 2019] - Add-on Releases - Kerbal Space Program Forums](https://forum.kerbalspaceprogram.com/index.php?/topic/143288-ksp-161-stock-visual-enhancements-v141-20-march-2019/)
 [[KSP 1.6.1] Stock Visual Terrain [v2.2.0] [20 March 2019] - Add-on Releases - Kerbal Space Program Forums](https://forum.kerbalspaceprogram.com/index.php?/topic/143828-ksp-161-stock-visual-terrain-v220-20-march-2019/) stock shader is improving since 1.8
+
+# KSP2
+
+> dead as of 2024-07
+
+["Doomed from the start" - KSP2 Development History FINALLY Revealed - YouTube](https://www.youtube.com/watch?v=NtMA594am4M)
+[Kerbal Space Program 2 is dead. Now what? - YouTube](https://www.youtube.com/watch?v=WuA2dZQxnqA)

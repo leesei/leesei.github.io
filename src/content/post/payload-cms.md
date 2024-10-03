@@ -2,7 +2,7 @@
 title: Payload CMS
 description: A code first CMS that works the way you do
 created: 2023-04-30
-updated: 2023-09-29
+updated: 2024-08-22
 tags:
   - cms
   - typescript
@@ -13,6 +13,7 @@ tags:
 [Payload CMS | Node & React TypeScript Headless CMS](https://payloadcms.com/)
 [payloadcms/payload: Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB](https://github.com/payloadcms/payload)
 
+[Payload - YouTube](https://www.youtube.com/@payloadcms)
 [Let's Checkout... Payload CMS - YouTube](https://www.youtube.com/watch?v=wCZsKrF5elM)
 [MongoDB + Payload: The Future of CMS - YouTube](https://www.youtube.com/watch?v=8dlgJLiGJQ0)
 
@@ -88,6 +89,11 @@ For writing apps based on Payload CMS, can overrides access control (default tru
 - use collection's custom API
 
 [Login with Username instead of Email (Extend authentication parameters) · payloadcms/payload · Discussion #1196](https://github.com/payloadcms/payload/discussions/1196)
+
+## Migration
+
+[How to migrate from Wordpress to Payload - YouTube](https://www.youtube.com/watch?v=t1du7NKb60Y)
+[How to migrate from Wordpress to Payload: Part 2 - YouTube](https://www.youtube.com/watch?v=dnvQLFAXKw0)
 
 ## Plugins
 

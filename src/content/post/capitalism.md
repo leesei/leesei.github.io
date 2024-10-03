@@ -2,7 +2,7 @@
 title: Capitalism
 description: ""
 created: 2015-04-17
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - economics
 ---

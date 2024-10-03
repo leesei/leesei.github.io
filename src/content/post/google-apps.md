@@ -2,7 +2,7 @@
 title: Google Apps
 description: ""
 created: 2017-02-11
-updated: 2023-11-01
+updated: 2024-09-04
 tags:
   - google
   - web
@@ -40,6 +40,9 @@ tags:
 ## Google Sheets/Forms
 
 [十分鐘精通 Google 表單設計！（訂餐表格、課程報名表、線上測驗） - YouTube](https://www.youtube.com/watch?v=P9nWPWushdY)
+[These 8 Google Sheets Formulas Simplify My Budgeting Spreadsheet](https://www.makeuseof.com/simplify-budgeting-with-google-sheets-formulas/)
+
+### API/Automation
 
 [Using Google Drive as a CMS | CSS-Tricks](https://css-tricks.com/using-google-drive-as-a-cms/) service account
 
@@ -115,7 +118,7 @@ tags:
 [How to Migrate Google Drive to New Domain Using Simple Tricks? | by Jenny Martin | Medium](https://medium.com/@martinjenny833/how-to-migrate-google-drive-to-new-domain-using-simple-tricks-8ec54a42204e)
 
 [Drive Migrator - Google Apps Script Examples](https://sites.google.com/site/scriptsexamples/available-web-apps/drive-migrator)
-[Drive Migrator - Chrome Web Store](https://chrome.google.com/webstore/detail/drive-migrator/nakklajdcijlkfagghhcdofbgbhddoed?hl=en)
+[Drive Migrator](https://chromewebstore.google.com/detail/drive-migrator/nakklajdcijlkfagghhcdofbgbhddoed?hl=en)
 [Tutorial: Migrating your Google Drive to a new account outside your domain - YouTube](https://www.youtube.com/watch?v=HhTf8LYjZTY)
 
 ## Google Photos

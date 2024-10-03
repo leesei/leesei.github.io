@@ -2,7 +2,7 @@
 title: Excalidraw
 description: Virtual whiteboard for sketching hand-drawn like diagrams
 created: 2023-03-15
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - graphics
   - uml

@@ -2,7 +2,7 @@
 title: Middle East History
 description: ""
 created: 2019-07-31
-updated: 2023-11-12
+updated: 2023-12-01
 tags:
   - history
   - history/middle-east

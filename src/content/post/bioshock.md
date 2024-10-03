@@ -2,13 +2,13 @@
 title: Bioshock
 description: ""
 created: 2023-08-23
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - bioshock
   - games
 ---
 
-[BioShock - Wikiwand](https://www.wikiwand.com/en/bioshock)
+[BioShock - Wikiwand](https://omni.wikiwand.com/en/bioshock)
 
 [History of BioShock (1994 - 2019) - YouTube](https://www.youtube.com/watch?v=bmS9C3PYHlE)
 [107 BioShock Facts YOU Should Know | The Leaderboard - YouTube](https://www.youtube.com/watch?v=XOfs3Cyblw4)

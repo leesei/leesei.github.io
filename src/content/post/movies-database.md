@@ -2,7 +2,7 @@
 title: Movies Database
 description: ""
 created: 2015-08-26
-updated: 2023-11-16
+updated: 2024-09-23
 tags:
   - movies
 ---
@@ -55,6 +55,10 @@ Innovative and personalized recommendation system.
 [散装官人 - YouTube](https://www.youtube.com/channel/UCxLGmhDaemdlYEs9BqXSHXg)
 [宇哥讲电影 - YouTube](https://www.youtube.com/channel/UCdRKafyb--geO9ySg6CbhYA)
 [那些電影教我的事 Lessons from Movies - YouTube](https://www.youtube.com/@lessonsfrommovies)
+[Buried Alien - YouTube](https://www.youtube.com/@BuriedAlien)
+
+[Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine](https://archive.org/details/movies)
+[How to Watch Classic Movies: The 10 Best Apps and Sites](https://www.makeuseof.com/tag/the-3-best-sites-to-watch-your-favorite-classic-tv-movies-for-free/)
 
 [【官人說電影】一口氣看完《加勒比海盜 1-5》/《神鬼奇航 1-5》大合集【收藏向】 - YouTube](https://www.youtube.com/watch?v=H4e17D30dWM)
 [2 万字解说无间道三部曲 - YouTube](https://www.youtube.com/playlist?list=PLqv3QVOkKnolU8YJvMrQiRvHWYzqV4Y8i)
@@ -110,7 +114,7 @@ Innovative and personalized recommendation system.
 
 ## DCU/DCEU
 
-[DC Extended Universe - Wikiwand](https://www.wikiwand.com/en/DC_Extended_Universe)
+[DC Extended Universe - Wikiwand](https://omni.wikiwand.com/en/DC_Extended_Universe)
 [DC Extended Universe Wiki | Fandom](https://dcextendeduniverse.fandom.com/wiki/DC_Extended_Universe_Wiki)
 
 [1 次看完 DC 全部計畫！亨利超人、巨石亞當＋漫威超強導演 - YouTube](https://www.youtube.com/watch?v=C3F0vYYjGxA) DCEU -> DCU
@@ -133,7 +137,7 @@ Innovative and personalized recommendation system.
 
 ## MCU
 
-[Marvel Cinematic Universe - Wikiwand](https://www.wikiwand.com/en/Marvel_Cinematic_Universe)
+[Marvel Cinematic Universe - Wikiwand](https://omni.wikiwand.com/en/Marvel_Cinematic_Universe)
 [Marvel Cinematic Universe Wiki | FANDOM powered by Wikia](https://marvelcinematicuniverse.fandom.com/wiki/Marvel_Cinematic_Universe_Wiki)
 [Carousell 共你快速重溫 Marvel 電影宇宙 - Carousell Hong Kong Blog](https://blog.carousell.com/hk/十分鐘重溫marvel電影宇宙/)
 [The MCU's First 22 Movies Are Now Called The Infinity Saga - GameSpot](https://www.gamespot.com/articles/the-mcus-first-22-movies-are-now-called-the-infini/1100-6465680/)
@@ -171,8 +175,13 @@ TEEPR 叭啦叭啦研究室
 [Marvel Cinematic Universe plot holes](http://www.digitalspy.com/movies/feature/a838573/marvel-mcu-plot-holes/)
 
 [漫威终局之战系列 - YouTube](https://www.youtube.com/playlist?list=PLzQ6y52QTNAyLpK8GnnwVa1oLOrqggde3)
-[汪達與幻視 - YouTube](https://www.youtube.com/c/%E5%A4%A7%E8%81%AA%E7%9C%8B%E7%94%B5%E5%BD%B1/search?query=%E6%B1%AA%E9%81%94%E8%88%87%E5%B9%BB%E8%A6%96) 大聪看电影
-[汪達與幻視 - YouTube](https://www.youtube.com/c/TEEPR%E8%B6%A3%E5%91%B3%E5%BD%B1%E7%89%87/search?query=%E6%B1%AA%E9%81%94%E8%88%87%E5%B9%BB%E8%A6%96) TEEPR 叭啦叭啦研究室
+[汪達與幻視 - YouTube](https://www.youtube.com/@dacongmovie/search?query=%E6%B1%AA%E9%81%94%E8%88%87%E5%B9%BB%E8%A6%96) 大聪看电影
+[汪達與幻視 - YouTube](https://www.youtube.com/@teeprbala/search?query=%E6%B1%AA%E9%81%94%E8%88%87%E5%B9%BB%E8%A6%96) TEEPR 叭啦叭啦研究室
 [汪達與幻視 - YouTube](https://www.youtube.com/playlist?list=PLNsYSXaDLA88-3c-3laTSJlyPcue3ukdH) 超粒方
 [WandaVision - YouTube](https://www.youtube.com/playlist?list=PLDVUo0d8uHheIisoX18XjcIlHqY52yMo4)
 [Honest Trailers | Every MCU Honest Trailer - YouTube](https://www.youtube.com/watch?v=lS41XvrBFvU)
+
+## Netflix
+
+[9 Useful Netflix Features You May Have Missed](https://www.makeuseof.com/lesser-known-useful-netflix-features/)
+[200+ Secret Netflix Codes to Discover Hidden Movies](https://www.makeuseof.com/tag/netflix-secret-codes-cheat-sheet/)

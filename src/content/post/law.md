@@ -2,7 +2,7 @@
 title: Law
 description: ""
 created: 2018-01-21
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - law
 ---
@@ -26,19 +26,19 @@ tags:
 
 ## Political philosophy
 
-[社會契約 - Wikiwand](https://www.wikiwand.com/zh-hant/%E7%A4%BE%E6%9C%83%E5%A5%91%E7%B4%84)
-[Social contract - Wikiwand](https://www.wikiwand.com/en/Social_contract)
+[社會契約 - Wikiwand](https://omni.wikiwand.com/zh/%E7%A4%BE%E6%9C%83%E5%A5%91%E7%B4%84)
+[Social contract - Wikiwand](https://omni.wikiwand.com/en/Social_contract)
 [The Basis of Law in Hart's "The Concept of Law" on JSTOR](https://www.jstor.org/stable/43155198?seq=1)
 
-[Rule of law - Wikiwand](https://www.wikiwand.com/en/Rule_of_law)
+[Rule of law - Wikiwand](https://omni.wikiwand.com/en/Rule_of_law)
 
 [CLIC - Hong Kong Legal System - The Rule of Law](http://www.clic.org.hk/en/topics/hkLegalSystem/theRuleOfLaw/)
 Hong Kong Laws are generally composed of the Basic Law, Common Law, Rules of Equity and Statute Law.
 
 ## Legal Interpretation
 
-[Statutory interpretation - Wikiwand](https://www.wikiwand.com/en/Statutory_interpretation)
-[法律解釋 - Wikiwand](https://www.wikiwand.com/zh/%E6%B3%95%E5%BE%8B%E8%A7%A3%E9%87%8B)
+[Statutory interpretation - Wikiwand](https://omni.wikiwand.com/en/Statutory_interpretation)
+[法律解釋 - Wikiwand](https://omni.wikiwand.com/zh/%E6%B3%95%E5%BE%8B%E8%A7%A3%E9%87%8B)
 
 ## Estoppels
 
@@ -51,14 +51,14 @@ Hong Kong Laws are generally composed of the Basic Law, Common Law, Rules of Equ
 
 ## Special Duty
 
-[Duty to rescue - Wikiwand](https://www.wikiwand.com/en/Duty_to_rescue)
+[Duty to rescue - Wikiwand](https://omni.wikiwand.com/en/Duty_to_rescue)
 
 [No Special Duty](https://radiolab.org/episodes/no-special-duty-2206)
 
 Negative duty
 Affirmative duty
 
-[Warren v. District of Columbia - Wikiwand](https://www.wikiwand.com/en/Warren_v._District_of_Columbia)
+[Warren v. District of Columbia - Wikiwand](https://omni.wikiwand.com/en/Warren_v._District_of_Columbia)
 [Town Of Castle Rock, Colorado V. Gonzales: Implications for Public Health Policy and Practice - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1525280/)
 
 ## GDPR
@@ -71,5 +71,5 @@ Affirmative duty
 
 ## Lord Kelvin
 
-[William Thomson, 1st Baron Kelvin - Wikiwand](https://www.wikiwand.com/en/William_Thomson,_1st_Baron_Kelvin)
+[William Thomson, 1st Baron Kelvin - Wikiwand](https://omni.wikiwand.com/en/William_Thomson,_1st_Baron_Kelvin)
 [Transmission Line Theory is Born - the GENIUS of Lord Kelvin and the FAILED transatlantic cable - YouTube](https://www.youtube.com/watch?v=ASNQ8rNzcLc)

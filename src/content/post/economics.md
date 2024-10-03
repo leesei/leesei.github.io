@@ -2,7 +2,7 @@
 title: Economics
 description: ""
 created: 2016-09-24
-updated: 2023-10-28
+updated: 2024-02-28
 tags:
   - economics
 ---
@@ -58,6 +58,12 @@ Level 3: CDS insurances for MBS/ABS/CDO, CDS², CDS³, ...
 
 [【硬核加长版】真正的做空 - YouTube](https://www.youtube.com/watch?v=--KnsLGfXWM)
 [甚麼是沽空 short selling 和挾淡倉 short squeeze? (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=UEO4tm_n54k)
+
+[The Trillion Dollar Equation - YouTube](https://www.youtube.com/watch?v=A5w-dEgIU1M)
+
+- Options
+- random walk forms a bell curve
+- hedging
 
 ## Trade War
 

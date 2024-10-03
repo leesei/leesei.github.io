@@ -2,7 +2,7 @@
 title: Health
 description: ""
 created: 2015-12-11
-updated: 2023-09-29
+updated: 2024-09-18
 tags:
   - science
 ---
@@ -25,6 +25,7 @@ Kurzgesagt – In a Nutshell
 [You Are Immune Against Every Disease - YouTube](https://www.youtube.com/watch?v=LmpuerlbJu0)
 [The Immune System Explained I – Bacteria Infection - YouTube](https://www.youtube.com/watch?v=zQGOcOUBi6s) 2014
 [Tiny Bombs in your Blood - The Complement System - YouTube](https://www.youtube.com/watch?v=BSypUV6QUNw) Part II
+[Fever Feels Horrible, but is Actually Awesome! - YouTube](https://www.youtube.com/watch?v=cRZOUcpiOxY)
 [Amazon.com: Immune: A Journey into the Mysterious System That Keeps You Alive: 9780593241318: Dettmer, Philipp: 圖書](https://www.amazon.com/Immune-Journey-Mysterious-System-Keeps/dp/0593241312)
 
 Crash Course
@@ -47,7 +48,7 @@ Crash Course
 
 ## Pathogens
 
-[Pathogen - Wikiwand](https://www.wikiwand.com/en/Pathogen)
+[Pathogen - Wikiwand](https://omni.wikiwand.com/en/Pathogen)
 Microorganisms that causes sickness: Bacteria, Virus, Fungus (foot), parasites (Eukaryote, like Plasmodium that causes Malaria)
 
 妈咪说 MommyTalk
@@ -58,7 +59,7 @@ Microorganisms that causes sickness: Bacteria, Virus, Fungus (foot), parasites (
 > it is still not sure which come first, Bacteria or Viruses
 > but the scientists estimates the former
 
-[Baltimore classification - Wikiwand](https://www.wikiwand.com/en/Baltimore_classification)
+[Baltimore classification - Wikiwand](https://omni.wikiwand.com/en/Baltimore_classification)
 [How are Viruses Classified? - YouTube](https://www.youtube.com/watch?v=tQNuThIjGqg) also on other pathogens
 
 - Type I: double stranded DNA, smallpox, Herpes, chickenpox
@@ -74,6 +75,7 @@ Retroviruses replicate in a backwards manner, It will insert itself into DNA/RNA
 [Viruses: Molecular Hijackers - YouTube](https://www.youtube.com/watch?v=wUgEhfo_qxU)
 [VIRUSES Explained In 9 Images - YouTube](https://www.youtube.com/watch?v=754YnbOtmvA)
 [This Virus Shouldn't Exist (But it Does) - YouTube](https://www.youtube.com/watch?v=1-NxodiGPCU)
+[Why Scientists Are Puzzled By This Virus - YouTube](https://www.youtube.com/watch?v=SbvAaDN1bpE)
 [Humans vs. Viruses - YouTube](https://www.youtube.com/playlist?list=PLJicmE8fK0EiTqtnTb9Mjb4UUyMt39YVQ) TED-Ed
 [【鬼谷闲谈】病毒：生于三界之外 不灭六道之中 - YouTube](https://www.youtube.com/watch?v=-_Y4grNcREY)
 [Why the world needs viruses to function - BBC Future](https://www.bbc.com/future/article/20200617-what-if-all-viruses-disappeared)
@@ -108,8 +110,8 @@ Retroviruses replicate in a backwards manner, It will insert itself into DNA/RNA
 
 [為什麼全世界的檸檬都讀 Lemon？這背後有一個刻在 8 號染色體上的上古故事……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=y0PfdJ2XoAg) 維他命 C
 
-[Bacteriophage - Wikiwand](https://www.wikiwand.com/en/Bacteriophage)
-[噬菌體 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%99%AC%E8%8F%8C%E4%BD%93)
+[Bacteriophage - Wikiwand](https://omni.wikiwand.com/en/Bacteriophage)
+[噬菌體 - Wikiwand](https://omni.wikiwand.com/zh/%E5%99%AC%E8%8F%8C%E4%BD%93)
 [The Deadliest Being on Planet Earth – The Bacteriophage - YouTube](https://www.youtube.com/watch?v=YI3tsmFsrOg)
 [38 億年前的納米機器人：曾被雪藏 100 年的發現，未來將是拯救人類的超級武器……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=DBwui0FO_bs)
 [人類與細菌的戰爭，噬菌體病毒進化理論，病毒也能為人類所用嗎，噬菌體取代抗生素會成為可能嗎| 填坑老高【病毒，進化】| 老高填坑團| 007 期 - YouTube](https://www.youtube.com/watch?v=XQde-sirjgU)
@@ -171,6 +173,7 @@ Traditional vaccine will have left over egg protein or methanol which may cause 
 [被封印的巨人，就在人類的 17 號染色體上，人類是否能打開這把基因鎖……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=s7D_SEPNxfM) gene LIF6 in elephants, CAR-T (training Killer T cells externally)
 [120万一针的抗癌神药为啥这么贵？免疫疗法CAR-T能治好所有癌症吗？ - YouTube](https://www.youtube.com/watch?v=Y2nFl0OY2bs)
 [Your Body Killed Cancer 5 Minutes Ago - YouTube](https://www.youtube.com/watch?v=zFhYJRqz_xk)
+[Everything We've Learned About Cancer | Compilation - YouTube](https://www.youtube.com/watch?v=GkxrJSTLH_s)
 
 [1000萬可以救血癌，你相信嗎？CAR-T 細胞療法用自己的T細胞來抵抗癌症！ - YouTube](https://www.youtube.com/watch?v=xKwC0Za-_L8) CAR-T for liquid tumor (非實體腫瘤) originally for heterogeneous cells and low oxygen environment in solid tumor (實體腫瘤)
 [癌細胞最怕的免疫療法有了新突破，對抗實體腫瘤癌症通過臨床一期！另外新CAR-T技術真的能成功抗癌嗎？ - YouTube](https://www.youtube.com/watch?v=e_MEfPp6Ep4) TCR-T, use CRISPR modified T cell which contains TCR that targets protein fragments on cancer cells in solid tumor
@@ -178,16 +181,3 @@ Traditional vaccine will have left over egg protein or methanol which may cause 
 [癌症有疫苗了!? 莫德納、BNT等大廠重大突破，mRNA疫苗真的能攻克癌症？ ft.癌症問康健 - YouTube](https://www.youtube.com/watch?v=A-QvDbb1C9c)
 [以毒攻毒！抗癌的未來寄託在「細菌」上？細菌為什麼能消滅癌細胞？ feat.【研之有物】 - YouTube](https://www.youtube.com/watch?v=ZE6ClkPlXrI)
 [對腫瘤最終兵器！癌症療法新選擇，基改溶瘤病毒為何備受期待？ - YouTube](https://www.youtube.com/watch?v=gQZQ_kBVuTw) oncolytic virotherapy
-
-## Cannabis
-
-> also known as marijuana (Mexican)
-
-[Cannabis (drug) - Wikiwand](<https://www.wikiwand.com/en/Cannabis_(drug)>)
-
-- Cannabidol 大麻二酚 (CDB)
-  blocks CB1 from binding with THC
-- Tetrahydrocannabinol 四氫大麻酚 (THC)
-  binds with CB1 in brain to make you high
-
-[一定黃標！來聊聊這個大麻煩吧 ！【Buchi 社會課#11】 - YouTube](https://www.youtube.com/watch?v=EpG1BQxaJ4o)

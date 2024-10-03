@@ -2,7 +2,7 @@
 title: Computers
 description: ""
 created: 2016-10-18
-updated: 2023-11-22
+updated: 2024-09-03
 tags:
   - comp/hardware
 ---
@@ -24,10 +24,11 @@ tags:
 - Antec HCG-650 80 Plus Gold $690@2020-06
 - Samsung PM981a MZVLB512HBJQ 512GB (PCIe 3x4, 96L TLC 600TBW, 3500R/2900W, 1GB RAM) $485@2020-07
 - ADATA XPG SX8200 Pro 512GB (PCIe 3x4, 64L TLC 320TBW, 3500R/2300W, 1GB RAM) @2020-09
-- Uncertain Truth Basic LX300 1TB (PCIe 3x4, 64L TLC 600TBW, 2600R/1800W, HBM) ¥359@2022-11
+- 梵想 Fanxiang S500PRO 2TB (PCIe 4x4, 128L TLC 1280TBW, 3500R/3150W, HBM) ¥469.25@2023-06
 - PCIe 4x16 to M.2 NVMe adapter ¥9.9@2022-11
+- Toshiba MG07ACA12TEY 12TB ¥755@2024-04
+- HGST HUS726T6TALE6L4 6TB @2023-10
 - WD Blue WD10EZEX 1TB $565@2012-10
-- WD Red WD30EFRX 3TB @2020-06
 - Intel AX200 + Antennae $116@2020-10
 - Perixx Periduo-505 ¥298@2021-08
 - Elecom HUGE ¥374@2017-09
@@ -44,63 +45,6 @@ BIOS 1004 2020-08-13
 
 [Asus TUF GAMING B550-PLUS Performance Results - UserBenchmark](https://www.userbenchmark.com/UserRun/59486223)
 
-## Lenovo ThinkPad X1 Carbon Gen 7
-
-> sometimes fails to detect the battery, see reconnect fix below
-
-[ThinkPad,ThinkPad X1 Carbon (7th Gen),Model:20R1001BHH](http://psref.lenovo.com/Detail/ThinkPad/ThinkPad_X1_Carbon_7th_Gen?M=20R1001BHH)
-
-- 2019-11
-- 1.09kg
-- Intel Core Comet Lake i7-10510U 4C8T
-- 16GB SK Hynix LPDDR3 2133MT
-- Intel UHD 620
-- Intel® SSD Pro 7600p NVMe SSD 1TB (PCIe 3x4, 64 layers 3D2 TLC)
-- Intel AX200
-- 14" 1920x1080 Low Power IPS 400nits
-- Dolby®Atmos™ Speaker System
-- 51Wh 4 cell battery
-- Type C Charger: 20V/3.25A, 15V/3A, 9V/2A, 5V/2A
-- Replaced battery and display @2020-10
-- Replaced Intel Wireless-AC 9560 (160MHz) with Intel AX200 @2020-11
-
-[Lenovo ThinkPad X1 Carbon (7th Gen) review: A top-quality 14-inch business ultraportable, with excellent security features Review | ZDNet](https://www.zdnet.com/product/thinkpad-x1-carbon-7th-gen/)
-
-### Disassembly
-
-[Removal and Replacement Videos - ThinkPad X1 Carbon Gen 7 (20QD, 20QE) - HK](https://support.lenovo.com/hk/en/solutions/ht508716)
-[Lenovo ThinkPad X1 Carbon 7th Gen Repair - iFixit](https://www.ifixit.com/Device/Lenovo_ThinkPad_X1_Carbon_7th_Gen)
-[How to Disassemble Lenovo X1 Carbon 7th Gen Laptop - YouTube](https://www.youtube.com/watch?v=O9U6XI_gAHk)
-
-[How to Battery Replacement Lenovo ThinkPad X1 Carbon 7th Generation disassembly - YouTube](https://www.youtube.com/watch?v=3giljS-od8Y)
-[Lenovo X1 Carbon Battery Replacement - YouTube](https://www.youtube.com/watch?v=uHOjWRQ_cUY)
-[X1-Carbon-7th-Gen-Battery-Not-Detected-error-msg - English Community - LENOVO COMMUNITY](https://forums.lenovo.com/t5/ThinkPad-X-Series-Laptops/X1-Carbon-7th-Gen-Battery-Not-Detected-error-msg/m-p/5010935?page=4#5383575)
-
-[ThinkPad X1 Carbon (2nd and 3rd Gen) - Wireless LAN Card Replacement - YouTube](https://www.youtube.com/watch?v=JLpFcDEIPE8)
-
-[Lenovo X1 Carbon gen6 - touchpad repair [4k] - YouTube](https://www.youtube.com/watch?v=cu0A-MeVZrY)
-[Trackpad TouchPad replacement on Lenovo Laptop X1 Carbon 9th Gen - Type 20UA - YouTube](https://www.youtube.com/watch?v=pb-293bII4A)
-
-Battery removal fix (from earlier in thread):
-
-Solution:
-
-1. Disable battery in bios
-
-https://download.lenovo.com/lts/RTPW10J0/FOF/RTPW10J0-X1CarbonGen7_REM_FRU_00_DisableBattery.mp4
-
-2. Remove back cover
-
-https://download.lenovo.com/lts/RTPW10J0/FOF/RTPW10J0-X1CarbonGen7_REM_FRU_01_BottomCover.mp4
-
-3. Disconnect battery connector from motherboard
-
-https://download.lenovo.com/lts/RTPW10J0/FOF/RTPW10J0-X1CarbonGen7_REM_FRU_05_BuiltInBattery.mp4
-
-NOTE: Don't do the whole battery removal, just the initial disconnection of the battery connector!
-
-4. Reconnect the battery connector
-
 ## ITX HTPC
 
 $2800@2023-02 (ex-GPU)
@@ -111,7 +55,7 @@ $2800@2023-02 (ex-GPU)
   - 12015 fan at CHA_FAN header
 - ASRock H610M-ITX/ac
 - AGI AI198 1TB (PCIe 3x4, Intel 64L TLC 500TBW, SM2263XT, 1900R/1600W, HBM) $399@2022-11
-- Intel Wireless AC 9462 Wifi 5 433Mbps (onboard, malfunctioned?)
+- Intel AX200 $49@2024-04
 - GigaByte GeForce GTX 1060 WINDFORCE OC 6G (GV-N1060WF2OC-6GD) $2299@2017-07
 
   - 10 SMM, 40 CU, 1280 CUDA Cores
@@ -122,7 +66,7 @@ $2800@2023-02 (ex-GPU)
   - L=224 H=131 W=36 mm
   - 120W
 
-- Myihaja SFX 600W
+- Thermalright TR-TGFX650 SFX 650W $496.5@2017-07
 - 閃鱗 S300 Case
   L=312 H=193 W=135 mm 8.1L
   PCI-E 3.0 extension
@@ -136,9 +80,26 @@ These parts are replaced:
 
 - Colorful 16G 3200MHz CD16G3200D4NZ22 CL22
 - Colorful CN600 512G (PCIe 3x4, Intel TLC 160TBW, 1800R/1500W, HBM)
+- ~~螞蟻悍將 Myihaja SFX 600W~~ dead
 
 https://www.userbenchmark.com/UserRun/59456839 before RAM change
 https://www.userbenchmark.com/UserRun/59459570 after RAM change
+
+## Acer Swift Edge 16
+
+- 2024-06
+- 1.17kg
+- SFE16-42-R533
+- AMD Ryzen 7 7735U Zen3+ 8C16T
+- Hynix 4x4GB (H9JCNNNCP3MLYR-N6E) LPDDR5 6400MHz (soldered)
+- 1TB PCEe Gen 4 NVMe SSD (Micron 3400 1TB MTFDKBA1T0TFH?)
+- AMD Radeon 680M
+- 16" 3840x2400 16:10 60Hz OLED 400nits 100% sRGB 100% DCI-P3
+- Wi-Fi 6E 160MHz
+- 54 Whr 4 cells battery
+- USB Type-C 65W: 20V/3.25A, 15V/3A, 9V/3A, 5V/3A
+
+[Acer Swift Edge SFE16 review - A lightweight 16-inch laptop with AMD power and an OLED display - NotebookCheck.net Reviews](https://www.notebookcheck.net/Acer-Swift-Edge-SFE16-review-A-lightweight-16-inch-laptop-with-AMD-power-and-an-OLED-display.726861.0.html)
 
 ## Intel NUC (NUC8BEK)
 
@@ -154,50 +115,39 @@ https://www.userbenchmark.com/UserRun/59459570 after RAM change
 [Fix NUC8i7BEH overheating - iFixit Repair Guide](https://www.ifixit.com/Guide/Fix+NUC8i7BEH+overheating/131345)
 [4x4-NUC-Fan-Replacement.pdf - Google Drive](https://drive.google.com/file/d/1otCSvWridLursFNo0IlwZxh-5tqDW262/view)
 
-## Work Desktop (😴inactive)
+## Lenovo ThinkPad T14 Gen 4 (Work IT Laptop)
 
-- Intel Core i5-7500 Kabylake 4C4T 3.4GHz
-- ASUS PRIME B250M-A
-- Kingston Hyper-X Fury 2x8GB (KHX2400C15/8G) 2400MT DDR4
-- GTR Micro ATX Case
-- Antec NeoEcoII 550W Micro ATX 80Plus Bronze
-- ADATA Premier Pro SP920SS 256GB
-- Samsung SSD 860 EVO 250GB
-- Microsoft Surface Ergonomic Keyboard 4000 ¥340 @2021-09
-- Elecom HUGE ¥374 @2017-09
-- Dell UltraSharp U3011 30" 2560x1600 16:10 IPS
-- Dell UltraSharp U2415 24.1" 1920x1200 16:10 IPS
+[ThinkPad T series - Wikiwand](https://omni.wikiwand.com/en/ThinkPad_T_series)
 
-## Lenovo ThinkPad X260 (Work IT Laptop)
+- 2024-04
+- 1.32kg (52Wh, 4 cells)
+- Intel Core i7-1355U 2P+8E (5GHz/3.7GHz)
+- 2x8GB 5600MT DDR5
+- SAMSUNG MZVL4512HBLU-00BLL 512GB
+- Intel UHD Graphics Raptor Lake-P/U GT2
+- 14" 1920x1200 IPS 300nits 45%NTSC
+- Intel Wi-Fi 6E AX211 160MHz
+- USB Type-C 65W: 20V/3.25A, 15V/3A, 9V/2A, 5V/2A
 
-[ThinkPad X series - Wikiwand](https://www.wikiwand.com/en/ThinkPad_X_series)
-
-- 2020-11
-- 1.24kg (24Wh, 3 cells) + 150g (24Wh, 3 cells) = 1.39kg
-- Intel Core i5-6200U Skylake 2.3GHz
-- 8G 2133MT DDR4
-- Samsung NVMe MZ7TY256HDHP 256GB
-- 12.5" 1366x768 IPS 300nit
-- Lenovo Charger: 20V/3.25A, 15V/3A, 9V/2A, 5V/2A
-
-## Minisforum EliteMini HM90 (Work CSA PC)
+## Minisforum EliteMini HM90 (Work PC)
 
 - 2021
 - AMD Ryzen™ 9 4900H 8C16T 3.3GHz
-- 2x8G 3200MT DDR4
+- 2x8G Kingston CBD32D4S2S1MF-8 3200MT DDR4
 - AMD Radeon™ Graphics Vega 8
 - Kingston OM8PDP3512B-A01 512G (PCIe 3x4)
 - Intel® Wi-Fi 6 AX201 802.11ax (2x2) and Bluetooth® 5.1
 - Microsoft Surface Ergonomic Keyboard 4000 ¥340 @2021-09
 - Elecom HUGE ¥374 @2017-09
-- Dell P2722H 24.1" 1920x1080 16:9 IPS
+- Dell P2722H 27" 1920x1080 16:9 IPS
+- Dell U2415 24.1" 1920x1080 16:9 IPS
 
 [AMD-Vi: Event logged Error / Newbie Corner / Arch Linux Forums](https://bbs.archlinux.org/viewtopic.php?id=167838)
 
 - install `amd-ucode`
 - disable IOMMU in bios
 
-## Lenovo X1 Extreme Gen 3 (Work CSA Laptop)
+## Lenovo X1 Extreme Gen 3 (Work Laptop)
 
 - 2021
 - 1.8kg
@@ -211,7 +161,7 @@ https://www.userbenchmark.com/UserRun/59459570 after RAM change
 - Lenovo rectangular plugin 135W slim charger
 - Supports USB-C 65W+ charging
 
-## Dell XPS 15 9550 (Work CSA Laptop)
+## Dell XPS 15 9550 (Work Laptop)
 
 - 2015
 - 1.78kg
@@ -264,18 +214,18 @@ https://www.userbenchmark.com/UserRun/59459570 after RAM change
   Emulation
 - M.2 NVM-e to 10Gbps USB-C case 黑單線¥39.8@2023-07 銀雙線¥42.9@2023-07
   JMS583 PCIe Gen3x2
-
+- Uncertain Truth Basic LX300 1TB (PCIe 3x4, 64L TLC 600TBW, 2600R/1800W, HBM) ¥359@2022-11
+- Samsung PM9A1 (PCIe 4x4, 128L TLC 600TBW, 24GB 96L SLC cache, 3500R/3000W, 1G LPDDR4 RAM) 1T ¥361@2023-09
 - PCIe 4x8 to 2 M.2 NVMe adapter ¥39@2022-12
 - PCIe 4x1 to M.2 NVMe adapter ¥11@2023-09
 - PCIe 4x1 to 2 M.2 NVMe adapter ¥11@2023-09
-
-- 梵想 Fanxiang S500PRO 2TB (PCIe 4x4, 128L TLC 1280TBW, 3500R/3150W, HBM) ¥469.25@2023-06
 
 ## Stock
 
 - [Samsung LA22C360E1M](https://www.samsung.com/hk/support/model/LA22C360E1MXZK/) monitor
 - Colorful 16G 3200MHz CD16G3200D4NZ22 CL22
 - Wraith Prism with RGB LED
+- HGST HUS724040ALE641 4TB ¥215.6@2023-07
 
 ---
 
@@ -328,9 +278,21 @@ Philips 190S7FB 19" 1280x1024 5:4 TN $1990@2006-04
 
 mother board dead, probably during case change
 
-## Lenovo ThinkPad X270 (Old Work Laptop)
+## Lenovo ThinkPad X260 (Old Work IT Laptop)
 
-[ThinkPad X series - Wikiwand](https://www.wikiwand.com/en/ThinkPad_X_series)
+[ThinkPad X series - Wikiwand](https://omni.wikiwand.com/en/ThinkPad_X_series)
+
+- 2020-11
+- 1.24kg (24Wh, 3 cells) + 150g (24Wh, 3 cells) = 1.39kg
+- Intel Core i5-6200U Skylake 2.3GHz
+- 8G 2133MT DDR4
+- Samsung NVMe MZ7TY256HDHP 256GB
+- 12.5" 1366x768 IPS 300nit
+- Lenovo Charger: 20V/3.25A, 15V/3A, 9V/2A, 5V/2A
+
+## Lenovo ThinkPad X270 (Old Work IT Laptop)
+
+[ThinkPad X series - Wikiwand](https://omni.wikiwand.com/en/ThinkPad_X_series)
 
 - 2018-06
 - 1.24kg (24Wh, 3 cells) + 150g (24Wh, 3 cells) = 1.39kg
@@ -340,9 +302,9 @@ mother board dead, probably during case change
 - 12.5" 1920x1080 IPS
 - Type C Charger: 20V/3.25A, 15V/3A, 9V/2A, 5V/2A
 
-## Lenovo ThinkPad T440p (Old Work Laptop)
+## Lenovo ThinkPad T440p (Old Work IT Laptop)
 
-[ThinkPad T series - Wikiwand](https://www.wikiwand.com/en/ThinkPad_T_series)
+[ThinkPad T series - Wikiwand](https://omni.wikiwand.com/en/ThinkPad_T_series)
 
 - 2014-03
 - 1736g + 306g (57Wh)
@@ -351,6 +313,73 @@ mother board dead, probably during case change
 - Samsung M27TD256HAFV-000L9 238GB
 - 14" 1366 x 768 TN
 - Lenovo Charger
+
+## ~~Lenovo ThinkPad X1 Carbon Gen 7~~
+
+> sometimes fails to detect the battery, see reconnect fix below
+> died after three years of use 😭
+
+[ThinkPad,ThinkPad X1 Carbon (7th Gen),Model:20R1001BHH](http://psref.lenovo.com/Detail/ThinkPad/ThinkPad_X1_Carbon_7th_Gen?M=20R1001BHH)
+
+- 2019-11
+- 1.09kg
+- Intel Core Comet Lake i7-10510U 4C8T
+- 16GB SK Hynix LPDDR3 2133MT
+- Intel UHD 620
+- Intel® SSD Pro 7600p NVMe SSD 1TB (PCIe 3x4, 64 layers 3D2 TLC)
+- Intel Wireless-AC 9560 (160MHz)
+- 14" 1920x1080 Low Power IPS 400nits
+- Dolby®Atmos™ Speaker System
+- 51Wh 4 cell battery
+- Type C Charger: 20V/3.25A, 15V/3A, 9V/2A, 5V/2A
+- Replaced battery and display @2020-10
+
+[Lenovo ThinkPad X1 Carbon (7th Gen) review: A top-quality 14-inch business ultraportable, with excellent security features Review | ZDNet](https://www.zdnet.com/product/thinkpad-x1-carbon-7th-gen/)
+
+### Disassembly
+
+[Removal and Replacement Videos - ThinkPad X1 Carbon Gen 7 (20QD, 20QE) - HK](https://support.lenovo.com/hk/en/solutions/ht508716)
+[Lenovo ThinkPad X1 Carbon 7th Gen Repair - iFixit](https://www.ifixit.com/Device/Lenovo_ThinkPad_X1_Carbon_7th_Gen)
+[How to Disassemble Lenovo X1 Carbon 7th Gen Laptop - YouTube](https://www.youtube.com/watch?v=O9U6XI_gAHk)
+
+[How to Battery Replacement Lenovo ThinkPad X1 Carbon 7th Generation disassembly - YouTube](https://www.youtube.com/watch?v=3giljS-od8Y)
+[Lenovo X1 Carbon Battery Replacement - YouTube](https://www.youtube.com/watch?v=uHOjWRQ_cUY)
+[X1-Carbon-7th-Gen-Battery-Not-Detected-error-msg - English Community - LENOVO COMMUNITY](https://forums.lenovo.com/t5/ThinkPad-X-Series-Laptops/X1-Carbon-7th-Gen-Battery-Not-Detected-error-msg/m-p/5010935?page=4#5383575)
+
+[ThinkPad X1 Carbon (2nd and 3rd Gen) - Wireless LAN Card Replacement - YouTube](https://www.youtube.com/watch?v=JLpFcDEIPE8)
+
+[Lenovo X1 Carbon gen6 - touchpad repair [4k] - YouTube](https://www.youtube.com/watch?v=cu0A-MeVZrY)
+[Trackpad TouchPad replacement on Lenovo Laptop X1 Carbon 9th Gen - Type 20UA - YouTube](https://www.youtube.com/watch?v=pb-293bII4A)
+
+Battery removal fix (from earlier in thread):
+
+Solution:
+
+1. Disable battery in bios
+
+https://download.lenovo.com/lts/RTPW10J0/FOF/RTPW10J0-X1CarbonGen7_REM_FRU_00_DisableBattery.mp4
+
+2. Remove back cover
+
+https://download.lenovo.com/lts/RTPW10J0/FOF/RTPW10J0-X1CarbonGen7_REM_FRU_01_BottomCover.mp4
+
+3. Disconnect battery connector from motherboard
+
+https://download.lenovo.com/lts/RTPW10J0/FOF/RTPW10J0-X1CarbonGen7_REM_FRU_05_BuiltInBattery.mp4
+
+NOTE: Don't do the whole battery removal, just the initial disconnection of the battery connector!
+
+4. Reconnect the battery connector
+
+## Lenovo IdeaPad U330p
+
+[LENOVO IDEAPAD U410-HOW TO REPAIR BROKEN HINGE - YouTube](https://www.youtube.com/watch?v=NHz3YIjvmSM)
+[New Lenovo IdeaPad U330 U330P U330T Touch LCD Hinges Bracket Left & Right | eBay](https://www.ebay.co.uk/itm/222817700057)
+
+broken hinge, need to replace A panel
+U330P A 壳
+
+- Intel Core i3
 
 ## Toshiba Satellite C660
 
@@ -363,16 +392,6 @@ mother board dead, probably during case change
 - 2200 of 4400mAh battery active
 - wifi sometime fails to connect, need reboot
 
-## Lenovo IdeaPad U330p
-
-[LENOVO IDEAPAD U410-HOW TO REPAIR BROKEN HINGE - YouTube](https://www.youtube.com/watch?v=NHz3YIjvmSM)
-[New Lenovo IdeaPad U330 U330P U330T Touch LCD Hinges Bracket Left & Right | eBay](https://www.ebay.co.uk/itm/222817700057)
-
-broken hinge, need to replace A panel
-U330P A 壳
-
-- Intel Core i3
-
 ## HP 800G1 USDT (e-Waste PC)
 
 - 2020-07
@@ -383,7 +402,6 @@ U330P A 壳
 - Crucial MX200 250GB $600@2016-04
 - TP-Link TL-WN826N Wifi Adapter
 
-- Connected to TV, 150DPI
 - Mini PCIe Slot for WiFi
 - Broadcom Corporation BCM4313 802.11bgn PCIe WiFi Adaptor
 

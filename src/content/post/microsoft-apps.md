@@ -2,7 +2,7 @@
 title: Microsoft Apps
 description: ""
 created: 2020-08-23
-updated: 2023-09-29
+updated: 2024-08-29
 tags:
   - apps
   - microsoft
@@ -19,6 +19,7 @@ tags:
 [Ultimate Microsoft Office Mastery: 90+ Tips, Tricks, and Tutorials for You](https://www.makeuseof.com/tag/microsoft-office-mastery/)
 [​Microsoft 365 (formerly Office 365) for business: Everything you need to know | ZDNet](https://www.zdnet.com/article/microsoft-office-365-for-business-everything-you-need-to-know/)
 
+[免费使用 Office 全家桶办公软件！支持XP、 win7、8、10、11 – 零度解说](https://www.freedidi.com/11501.html)
 [Office 365 永久版免費啟用與雲端 OneDrive 5TB 永久取得教學 - 瘋先生](https://mrmad.com.tw/office-365-e5-and-onedrive-5tb-free)
 
 [What Office 365 subscription is right for your small business? » OnMSFT.com](https://www.onmsft.com/office365/what-office-365-subscription-is-right-for-your-small-business)
@@ -40,6 +41,7 @@ tags:
 
 [PowerPoint 基礎教學 - YouTube](https://www.youtube.com/playlist?list=PL7enJ2-v6SPmqEd_I9zQmCd4b6VSJhYqy) PAPAYA 電腦教室
 [平常沒在用的「小畫家 3D 」竟然變成 PPT 簡報的最佳神隊友？ | PowerPoint 教學 21 - YouTube](https://www.youtube.com/watch?v=9nJeY8moof4)
+[PowerPoint 手寫字高級動畫技巧！讓行雲流水的一筆一劃勾勒出中文文字之美 - YouTube](https://www.youtube.com/watch?v=zkdExGleigE)
 
 [PowerPoint School - YouTube](https://www.youtube.com/channel/UCngkX2grzKhYBx1stz08Z3Q)
 [Animated PowerPoint Infographic Slide Design Tutorial - YouTube](https://www.youtube.com/watch?v=OZKTzpbnGOA)
@@ -58,6 +60,8 @@ tags:
 calender
 [如何製作一個 **讓你看起來有點厲害** 的員工排班表 (上) | Excel 教學 46 - YouTube](https://www.youtube.com/watch?v=j6VLcFoQguk)
 [如何製作一個 **讓你看起來有點厲害** 的員工排班表 (下) | Excel 教學 47 - YouTube](https://www.youtube.com/watch?v=ziga9B5Hr_o)
+
+[Make Your Excel Spreadsheets Smarter With Dropdown Lists](https://www.makeuseof.com/smarter-excel-with-dropdowns/)
 
 [How to Create a Chart Template in Microsoft Excel](https://www.howtogeek.com/763415/how-to-create-a-chart-template-in-microsoft-excel/)
 

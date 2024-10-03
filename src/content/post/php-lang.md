@@ -2,7 +2,7 @@
 title: PHP
 description: ""
 created: 2021-05-28
-updated: 2023-11-02
+updated: 2023-12-01
 tags:
   - comp/lang
   - php

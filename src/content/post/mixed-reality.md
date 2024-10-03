@@ -2,7 +2,7 @@
 title: Mixed Reality
 description: ""
 created: 2015-07-14
-updated: 2023-11-16
+updated: 2024-09-23
 tags:
   - augmented-reality
   - comp/hardware
@@ -10,12 +10,14 @@ tags:
   - virtual-reality
 ---
 
-[Augmented reality - Wikiwand](https://www.wikiwand.com/en/Augmented_reality)
-[Virtual reality - Wikiwand](https://www.wikiwand.com/en/Virtual_reality)
-[Mixed reality - Wikiwand](https://www.wikiwand.com/en/Mixed_reality)
-[Extended reality - Wikiwand](https://www.wikiwand.com/en/Extended_reality)
+[Augmented reality - Wikiwand](https://omni.wikiwand.com/en/Augmented_reality)
+[Virtual reality - Wikiwand](https://omni.wikiwand.com/en/Virtual_reality)
+[Mixed reality - Wikiwand](https://omni.wikiwand.com/en/Mixed_reality)
+[Extended reality - Wikiwand](https://omni.wikiwand.com/en/Extended_reality)
 
 [UploadVR VR/AR News & Reviews](https://uploadvr.com/)
+
+[The Largest Unsolved Problem in VR. - YouTube](https://www.youtube.com/watch?v=Fhlw88_Beu4)
 
 [Create WebVR](http://www.createwebxr.com/webVR.html)
 WebXR includes AR, obsoletes WebVR spec
@@ -51,10 +53,10 @@ WebXR includes AR, obsoletes WebVR spec
 [AltDevBlog » Latency Mitigation Strategies](https://web.archive.org/web/20140719085135/http://www.altdev.co/2013/02/22/latency-mitigation-strategies/) ❗!important
 [networking - Transatlantic ping faster than sending a pixel to the screen? - Super User](http://superuser.com/questions/419070/transatlantic-ping-faster-than-sending-a-pixel-to-the-screen)
 
-[Virtual Reality Oasis - YouTube](https://www.youtube.com/c/VirtualRealityOasis)
-[ThrillSeeker - YouTube](https://www.youtube.com/c/ThrillSeekerVR)
-[eVRydayVR - YouTube](https://www.youtube.com/channel/UCTlgIRnl3viQb1zCJqFJwqw)
-[Ben Plays VR - YouTube](https://www.youtube.com/channel/UCSVjrpufOzTd3jZsUGs-L0g)
+[Virtual Reality Oasis - YouTube](https://www.youtube.com/@VirtualRealityOasis)
+[ThrillSeeker - YouTube](https://www.youtube.com/@ThrillSeekerVR)
+[eVRydayVR - YouTube](https://www.youtube.com/@eVRydayVR)
+[Ben Plays VR - YouTube](https://www.youtube.com/@BenPlaysVR)
 
 [Sensor fusion and motion prediction | Boris Smus](http://smus.com/sensor-fusion-prediction-webvr/)
 [Clever VR Tricks: A 60fps VR Experience On An Old Phone With Tessellation And Vertex Displacement](http://www.tomshardware.com/news/vr-tessellation-vertex-displacement-cardboard,31844.html)
@@ -214,6 +216,22 @@ Many Chinese company release these products in 2022, but they are not actually A
 [1 Month with the Nreal Air AR Glasses - 130" OLED Screen on your FACE! 😎 - YouTube](https://www.youtube.com/watch?v=bj8hMtWeTUg)
 [Nreal Air - Steam Deck's best friend! - YouTube](https://www.youtube.com/watch?v=FX9RH4pnP9U)
 
+## RayNeo 雷鳥
+
+[隨地躺平神器，Switch最佳伴侶 — 雷鳥Air2智能眼鏡 ︳RayNeo Air2 - YouTube](https://www.youtube.com/watch?v=AAByyERBApA)
+
+# Third Gen Headsets
+
+## Apple Vision Pro
+
+[Vision Pro 实机 深度技术分析 - YouTube](https://www.youtube.com/watch?v=2lMs4Gmn1BI)
+[Vision Pro 和 Quest 3有什么不一样？ 什么时候会有廉价版？ - YouTube](https://www.youtube.com/watch?v=lHEJWpoYhnM)
+[手机马上被淘汰？彻底了解 Vision Pro - YouTube](https://www.youtube.com/watch?v=DmJWIqtCyCE)
+[【何同学】很牛，但没用丨苹果Vision Pro深度体验 - YouTube](https://www.youtube.com/watch?v=_1AaLf9khpc)
+[Using Apple Vision Pro: What It’s Actually Like! - YouTube](https://www.youtube.com/watch?v=dtp6b76pMak)
+
+## Oculus Quest 3
+
 # Second Gen Headsets
 
 Second gen have better displays and lens
@@ -312,6 +330,7 @@ Vive Pro 2, links to PC
 
 [「Vision Pro 硬核分析」第一期：扒掉苹果的底裤！从技术角度全面解读苹果 AR 眼镜 Vision Pro - YouTube](https://www.youtube.com/watch?v=D_iLw-7bn0M)
 [手机马上被淘汰？彻底了解 Vision Pro - YouTube](https://www.youtube.com/watch?v=DmJWIqtCyCE)
+[理念如此業餘的Vision Pro真的是出自蘋果的產品？【Gamker】 - YouTube](https://www.youtube.com/watch?v=KAvFdjkkpVg)
 
 # First Gen Headsets
 
@@ -353,14 +372,14 @@ Outside-in position detection
 [【亦】白菜价 VR！自制低成本 VR 方案，竟然很靠谱？ - YouTube](https://www.youtube.com/watch?v=EEoJGdNZhfo) in 2021
 
 [Daydream](https://vr.google.com/daydream/)
-[Google Daydream - Wikiwand](https://www.wikiwand.com/en/Google_Daydream)
+[Google Daydream - Wikiwand](https://omni.wikiwand.com/en/Google_Daydream)
 [Google’s “Daydream View” VR headset is smartphone-powered VR for \$79 | Ars Technica](http://arstechnica.com/gadgets/2016/10/googles-daydream-view-vr-headset-is-smartphone-powered-vr/)
 [Gear VRs for everyone! Google turns Android into a VR-ready OS: Daydream | Ars Technica](http://arstechnica.com/gadgets/2016/05/android-vr-os-gets-a-virtual-reality-mode-and-vr-ready-smartphones/)
 [Android 7.0 Nougat review—Do more on your gigantic smartphone | Ars Technica](http://arstechnica.com/gadgets/2016/08/android-7-0-nougat-review-do-more-on-your-gigantic-smartphone/11/)
 
 [How to Force Daydream VR Compatibility on Unsupported Android Devices](https://www.xda-developers.com/force-daydream-vr-compatibility/)
 
-[Google Cardboard - Wikiwand](https://www.wikiwand.com/en/Google_Cardboard)
+[Google Cardboard - Wikiwand](https://omni.wikiwand.com/en/Google_Cardboard)
 [Google Cardboard – Google VR](https://vr.google.com/cardboard/)
 
 ## ARCore
@@ -395,9 +414,14 @@ Outside-in position detection
 
 ## Virtual Avatar
 
-[CodeMiko - YouTube](https://www.youtube.com/c/CodeMiko)
+[CodeMiko - YouTube](https://www.youtube.com/@CodeMiko)
 
 [冲破二次元！虚拟主播都能面基了？ - YouTube](https://www.youtube.com/watch?v=odiSXZrXTvs)
+
+[Customize your own Android Bot | Android](https://www.android.com/build-android-bot/)
+
+[Mii Studio](https://studio.mii.nintendo.com/) requires login
+[Online Mii Maker on Scratch on Scratch](https://scratch.mit.edu/projects/188864341/)
 
 ## Virtual Land
 

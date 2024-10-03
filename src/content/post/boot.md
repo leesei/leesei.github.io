@@ -2,13 +2,13 @@
 title: Boot
 description: ""
 created: 2015-05-10
-updated: 2023-11-26
+updated: 2024-09-12
 tags:
   - desktop
   - linux
 ---
 
-[Booting - Wikiwand](https://www.wikiwand.com/en/Booting#/SPL)
+[Booting - Wikiwand](https://omni.wikiwand.com/en/Booting#/SPL)
 
 POST -> BIOS/ROM code -> MBR of boot partition -> Bootloader ->
 Kernel -> [`init`](https://wiki.archlinux.org/title/Init)/[`systemd`](https://wiki.archlinux.org/title/Systemd) ->
@@ -58,6 +58,7 @@ shell/display manager (login) -> `startx`/`xinit` -> DE
 [The BIOS/MBR Boot Process](https://neosmart.net/wiki/mbr-boot-process/)
 [鳥哥的 Linux 私房菜 -- 第十九章、開機流程、模組管理與 Loader](http://linux.vbird.org/linux_basic/0510osloader.php)
 [如何訂製 Linux X 視窗環境 - 石頭閒語 - 樂多日誌](http://blog.roodo.com/rocksaying/archives/19886616.html)
+[第14章 Linux开机详细流程 - 骏马金龙 - 博客园](https://www.cnblogs.com/f-ck-need-u/p/7100336.html) `initrc`
 
 [The Linux Boot Process (Linux+ Objective 1.1.2) - YouTube](https://www.youtube.com/watch?v=esH6GUjVa8Y)
 [How Computers BOOT: From Startup to Viruses - YouTube](https://www.youtube.com/watch?v=rmgla4yeCXw)
@@ -83,6 +84,7 @@ GPT (Windows): 128 partitions, bootable only with UEFI
 [What is the difference between a Bootrom vs bootloader on ARM systems - Stack Overflow](https://stackoverflow.com/questions/15665052/what-is-the-difference-between-a-bootrom-vs-bootloader-on-arm-systems)
 [linux - Why do we need a bootloader in an embedded device? - Stack Overflow](https://stackoverflow.com/questions/15548004/why-do-we-need-a-bootloader-in-an-embedded-device)
 
+[什么是bootloader？常见嵌入式芯片启动过程的完全分析 - YouTube](https://www.youtube.com/watch?v=17YVRdv7sfo)
 [Embedded/IoT Linux for Red-Blue Teams - YouTube](https://www.youtube.com/playlist?list=PLzKIBgD3ky224kzDxu258qlLjNKiG7M0i) bootloader + kernel
 
 SPL (secondary program loader) is needed when the static RAM cannot hold the whole bootloader and this abstract the specific hardware used form the bootloader.
@@ -93,7 +95,7 @@ SPL (secondary program loader) is needed when the static RAM cannot hold the who
 [Home · kexecboot/kexecboot Wiki](https://github.com/kexecboot/kexecboot/wiki) Kexecboot is a nice Linux-As-a-Bootloader implementation based on kexec.
 
 [WebHome < U-Boot < DENX](https://www.denx.de/wiki/U-Boot)
-[Das U-Boot - Wikiwand](https://www.wikiwand.com/en/Das_U-Boot)
+[Das U-Boot - Wikiwand](https://omni.wikiwand.com/en/Das_U-Boot)
 [Introduction to the U-Boot bootloader - YouTube](https://www.youtube.com/watch?v=e6wlg9ntPVY)
 [Embedded Linux Booting Process (Multi-Stage Bootloaders, Kernel, Filesystem) - YouTube](https://www.youtube.com/watch?v=DV5S_ZSdK0s)
 [Introduction — Depthcharge documentation](https://depthcharge.readthedocs.io/en/latest/)
@@ -106,13 +108,17 @@ SPL (secondary program loader) is needed when the static RAM cannot hold the who
 
 [Source Dive - YouTube](https://www.youtube.com/playlist?list=PLP29wDx6QmW4Mw8mgvP87Zk33LRcKA9bl) RISC-V QEmu, Kernel
 
+## Secure boot
+
+Technological Protection Measures (TPMs)
+
 ## initramfs
 
-[Initial ramdisk - Wikiwand](https://www.wikiwand.com/en/Initial_ramdisk)
+[Initial ramdisk - Wikiwand](https://omni.wikiwand.com/en/Initial_ramdisk)
 [About initramfs](https://www.linuxfromscratch.org/blfs/view/svn/postlfs/initramfs.html)
 [Arch boot process - ArchWiki](https://wiki.archlinux.org/title/Arch_boot_process#initramfs)
 
-[dracut (software) - Wikiwand](<https://www.wikiwand.com/en/Dracut_(software)>)
+[dracut (software) - Wikiwand](<https://omni.wikiwand.com/en/Dracut_(software)>)
 [dracut - ArchWiki](https://wiki.archlinux.org/title/Dracut)
 [dracut 基本介绍 - doscho - 博客园](https://www.cnblogs.com/doscho/p/6269279.html)
 
@@ -138,7 +144,7 @@ SPL (secondary program loader) is needed when the static RAM cannot hold the who
 
 ## BIOS
 
-[BIOS - Wikiwand](https://www.wikiwand.com/en/BIOS)
+[BIOS - Wikiwand](https://omni.wikiwand.com/en/BIOS)
 [Arch boot process - ArchWiki](https://wiki.archlinux.org/title/Arch_boot_process)
 [Boot with GRUB | Linux Journal](http://www.linuxjournal.com/article/4622)
 
@@ -149,11 +155,11 @@ Flash BIOS with bare motherboard:
 
 ### OpenBIOS
 
-[OpenBIOS - Wikiwand](https://www.wikiwand.com/en/OpenBIOS)
+[OpenBIOS - Wikiwand](https://omni.wikiwand.com/en/OpenBIOS)
 [OpenBIOS](http://www.openfirmware.info/Welcome_to_OpenBIOS)
 [Category:Free BIOS implementations - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Category:Free_BIOS_implementations)
 
-[coreboot](https://www.coreboot.org/) [coreboot - Wikiwand](https://www.wikiwand.com/en/Coreboot)
+[coreboot](https://www.coreboot.org/) [coreboot - Wikiwand](https://omni.wikiwand.com/en/Coreboot)
 [Libreboot project](https://libreboot.org/)
 
 ### Fixing MBR
@@ -183,35 +189,56 @@ See also my `iso2usb`.
 
 Note some utils modify the partition label of the ISO, that can cause problem during bootup.
 
-- [probonopd/SystemImageKit: Run (multiple) operating systems directly from image files. Add extensions, apps and configuration, which are one file each.](https://github.com/probonopd/SystemImageKit) multiple ISOs
 - [Ventoy](https://www.ventoy.net/en/index.html) Windows, Linux, _support Windows ISO_, multiple ISOs
+- [probonopd/SystemImageKit: Run (multiple) operating systems directly from image files. Add extensions, apps and configuration, which are one file each.](https://github.com/probonopd/SystemImageKit) multiple ISOs
 - [UNetbootin](http://unetbootin.github.io/) multiplatform, _support Windows ISO_
   `unetbootin method=diskimage isofile="my.iso" installtype=USB targetdrive=/dev/sdc`
-- [Etcher](https://etcher.io/) multiplatform
+- [Etcher](https://etcher.balena.io/) multiplatform
 - [Rufus](https://rufus.ie/) Windows, fast, _support Windows ISO_
-- [slacka/WoeUSB:](https://github.com/slacka/WoeUSB) _support Windows ISO_
-- Linux Live USB Creator
 - [Universal USB Installer](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/) Windows, wine, fast, _support Windows ISO_
 - [YUMI - Multiboot USB Creator](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) Windows, wine, multiple ISOs
-- Live USB Creator
 
-Ventoy also supports [Persistence Plugin](https://www.ventoy.net/en/plugin_persistence.html), where you can define a image file for persistent storage (per ISO).
+### Ventoy
 
 ```sh
 ./VentoyGUI.x86_64
 ./Ventoy2Disk.sh -u /dev/sda
 ```
 
+[Plugson . Ventoy](https://www.ventoy.net/en/plugin_plugson.html)
+
+Ventoy also supports [Persistence Plugin](https://www.ventoy.net/en/plugin_persistence.html), where you can define a image file for persistent storage (per ISO).
+
+_How to determine the current boot mode?_
+
+After boot into the Ventoy main menu, pay attention to the lower left corner of the screen:
+
+1.0.84 BIOS www.ventoy.net ===> This means current is Legacy BIOS mode.
+1.0.84 UEFI www.ventoy.net ===> This means current is UEFI mode.
+1.0.84 IA32 www.ventoy.net ===> This means current is 32bit UEFI mode.
+1.0.84 AA64 www.ventoy.net ===> This means current is ARM64 UEFI mode.
+1.0.84 MIPS www.ventoy.net ===> This means current is MIPS64EL UEFI mode.
+
+### Windows ISO
+
 The Windows ISO cannot be `dd`-ed to USB flash. We must create a bootable NTFS partition then copy the contents over.
 
 [The best places to find Windows 10 ISOs | Computerworld](https://www.computerworld.com/article/3269118/microsoft-windows/best-places-to-find-windows-10-isos.html)
-[Download Windows USB/DVD Download Tool from Official Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=56485)
+[Windows USB/DVD Download Tool - Microsoft Store](https://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool)
+
+[Rufus](https://rufus.ie/)
+[WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB)
 [ValdikSS/windows2usb: Windows 7/8/8.1/10 ISO to Flash Drive burning utility for Linux (MBR/GPT, BIOS/UEFI, FAT32/NTFS)](https://github.com/ValdikSS/windows2usb)
 
 ## PXEBoot (network boot)
 
 [What Is Network Booting (PXE) and How Can You Use It?](http://www.howtogeek.com/57601/what-is-network-booting-pxe-and-how-can-you-use-it/)
-[Preboot Execution Environment - Wikiwand](https://www.wikiwand.com/en/Preboot_Execution_Environment)
+[Preboot Execution Environment - Wikiwand](https://omni.wikiwand.com/en/Preboot_Execution_Environment)
+
+[Plop Linux - Live - PXE Boot from network (DHCP, TFTP, NFS, Samba, FTP, HTTP) - Linux server](https://www.plop.at/en/ploplinux/live/networkboot-linux.html)
+[Plop Linux - Live - PXE Boot from network (DHCP, TFTP, Network share, FTP, HTTP) - Windows server](https://www.plop.at/en/ploplinux/live/networkboot-windows.html)
+
+[iSCSI/Boot - ArchWiki](https://wiki.archlinux.org/title/ISCSI/Boot)
 
 ### Netboot.xyz
 
@@ -242,8 +269,7 @@ UEFI application (in EFI System partition) -> Bootloader -> Kernel -> ...
 [Linux on your laptop: A closer look at EFI boot options | ZDNet](https://www.zdnet.com/article/linux-on-your-laptop-a-closer-look-at-efi-boot-options/)
 [Linux on your laptop: Here's what you need to know about UEFI firmware | ZDNet](https://www.zdnet.com/article/linux-on-your-laptop-heres-what-you-need-to-know-about-uefi-firmware/)
 
-http://www.rodsbooks.com/refind/installing.html
-`refind-efi`
+[The rEFInd Boot Manager: Installing and Uninstalling rEFInd](https://www.rodsbooks.com/refind/installing.html) `refind-efi`
 
 ### howtogeek.com
 
@@ -271,9 +297,9 @@ http://www.rodsbooks.com/refind/installing.html
 
 [Linux PID 1 和 Systemd | | 酷 壳 - CoolShell](https://coolshell.cn/articles/17998.html)
 
-### `init`/`sysvinit`
+### `init`/`sysvinit` (OBSOLETE)
 
-[init - Wikiwand](http://www.wikiwand.com/en/Init)
+[init - Wikiwand](http://omni.wikiwand.com/en/Init)
 
 Originates from System V, the oldest and most widely used init system.
 `init` is [LSB](http://refspecs.linuxfoundation.org/lsb.shtml)-compliant.
@@ -303,11 +329,11 @@ sudo update-rc.d -f nginx remove
 sudo update-rc.d nginx defaults
 ```
 
-### `upstart`
+### `upstart` (OBSOLETE)
 
 > `upstart` is deprecated
 
-[Upstart - Wikiwand](http://www.wikiwand.com/en/Upstart)
+[Upstart - Wikiwand](http://omni.wikiwand.com/en/Upstart)
 [upstart - event-based init daemon](http://upstart.ubuntu.com/)
 
 Use `upstart` instead of `init.d` for Ubuntu:

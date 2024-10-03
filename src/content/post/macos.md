@@ -2,7 +2,7 @@
 title: macOS
 description: ""
 created: 2016-01-03
-updated: 2023-11-02
+updated: 2024-09-19
 tags:
   - app
   - bootcamp
@@ -16,12 +16,15 @@ tags:
 
 [A Complete Beginner's Guide to macOS: Get Started in Just 1 Hour](https://www.makeuseof.com/tag/macos-beginners-guide/)
 [How to Install Command Line Tools in Mac OS X (Without Xcode)](http://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/)
+[What Is the Alt Key on Mac? A Complete Guide](https://www.makeuseof.com/alt-key-on-mac/)
 
 [herrbischoff/awesome-macos-command-line: Use your macOS terminal shell to do awesome things.](https://github.com/herrbischoff/awesome-macos-command-line)
 [dtinth/JXA-Cookbook: Cookbook for JavaScript for Automation in Mac OS X Yosemite](https://github.com/dtinth/JXA-Cookbook)
 
 [Mac 云课堂 - YouTube](https://www.youtube.com/channel/UCGHCIkfEHaKT7zsq8wzqeOQ)
 [5 top ways to run Windows on a Mac | Computerworld](https://www.computerworld.com/article/3224399/microsoft-windows/5-top-ways-to-run-windows-on-a-mac.html)
+
+[Dunedan/mbp-2016-linux: State of Linux on the MacBook Pro 2016 & 2017](https://github.com/Dunedan/mbp-2016-linux)
 
 ## Bootcamp
 
@@ -49,18 +52,49 @@ If you don't have Windows install USB:
 [Running macOS inside Linux with Docker-OSX - DEV Community](https://dev.to/gombosg/running-macos-inside-linux-with-docker-osx-4e1i)
 
 [XQuartz](https://www.xquartz.org/)
-[XQuartz - Wikiwand](https://www.wikiwand.com/en/XQuartz)
+[XQuartz - Wikiwand](https://omni.wikiwand.com/en/XQuartz)
+
+## Sleep/Hibernate
+
+[How to Hibernate a Mac | Envato Tuts+](https://computers.tutsplus.com/how-to-hibernate-a-mac--cms-23235t)
+[sleep wake - Is there a keyboard shortcut for hibernate now a Mac, without changing power settings? - Ask Different](https://apple.stackexchange.com/questions/239177/is-there-a-keyboard-shortcut-for-hibernate-now-a-mac-without-changing-power-set)
+
+[dazuelos/hibernate: shell scripts about hibernation of MacOS](https://github.com/dazuelos/hibernate/)
 
 ## Productivity
 
-[Turn Your Keyboard into a Text-Editing Rocket – Owen Caulfield – Medium](https://medium.com/@caulfieldOwen/turn-your-keyboard-into-a-text-editing-rocket-1514d8474d2d)
+[Mac keyboard shortcuts - Apple Support](https://support.apple.com/en-us/HT201236)
 
-[Alfred - Productivity App for macOS](https://www.alfredapp.com/)
+[Turn Your Keyboard into a Text-Editing Rocket – Owen Caulfield – Medium](https://medium.com/@caulfieldOwen/turn-your-keyboard-into-a-text-editing-rocket-1514d8474d2d)
 
 [AppleScript: The Language of Automation](https://macosxautomation.com/applescript/index.html)
 [Hammerspoon](https://www.hammerspoon.org/) better than AppleScript
 
-[Karabiner - Software for macOS](https://pqrs.org/osx/karabiner/)
+[Karabiner-Elements](https://karabiner-elements.pqrs.org/) key remapping
+
+### Launcher
+
+["Quick Web Search" for Spotlight — Flashlight](http://flashlight.nateparrott.com/plugin/quicksearch)
+
+[Alfred - Productivity App for Mac OS X](https://www.alfredapp.com/)
+[Workflows | Packal](http://www.packal.org/workflow-list)
+[vitorgalvao/alfred-workflows: Collection of Alfred workflows](https://github.com/vitorgalvao/alfred-workflows)
+
+[Raycast](https://www.raycast.com/) free tier
+[Introduction - Raycast API](https://developers.raycast.com/)
+
+### Windows Manager
+
+[OS X Window Manager Apps | CSS-Tricks](https://css-tricks.com/os-x-window-manager-apps/)
+
+[Mizage - Divvy](http://mizage.com/divvy/)
+
+[sdegutis/mjolnir: Lightweight automation and productivity app for OS X](https://github.com/sdegutis/mjolnir)
+[nathankot/mjolnir.tiling: Add tiling window management powers to your mjolnir](https://github.com/nathankot/mjolnir.tiling)
+[koekeishiya/yabai: A tiling window manager for macOS based on binary space partitioning](https://github.com/koekeishiya/yabai)
+[Hammerspoon Team](https://github.com/hammerspoon)
+
+[Rectangle Mac](https://rectangleapp.com/)
 
 ## Package Manager
 

@@ -2,7 +2,7 @@
 title: Internet of things
 description: ""
 created: 2018-06-12
-updated: 2023-11-26
+updated: 2024-09-23
 tags:
   - iot
   - maker
@@ -10,9 +10,9 @@ tags:
 
 [[electronics]]
 
-[Internet of things - Wikiwand](http://www.wikiwand.com/en/Internet_of_things)
-[Embedded system - Wikiwand](http://www.wikiwand.com/en/Embedded_system)
-[Microcontroller - Wikiwand](http://www.wikiwand.com/en/Microcontroller)
+[Internet of things - Wikiwand](http://omni.wikiwand.com/en/Internet_of_things)
+[Embedded system - Wikiwand](http://omni.wikiwand.com/en/Embedded_system)
+[Microcontroller - Wikiwand](http://omni.wikiwand.com/en/Microcontroller)
 
 [Mesh networking extends IoT reach - O'Reilly Radar](http://radar.oreilly.com/2014/07/mesh-networking-extends-iot-reach.html)
 [Extracting value from the IoT - O'Reilly Radar](http://radar.oreilly.com/2014/06/extracting-value-from-the-iot.html)
@@ -23,14 +23,25 @@ tags:
 [ElectronFun.com - YouTube](https://www.youtube.com/@ElectronFunCom)
 [Programming Electronics Academy - YouTube](https://www.youtube.com/@programmingelectronics) ❗!important, systematic courses
 
+[DroneBot Workshop - YouTube](https://www.youtube.com/@Dronebotworkshop)
+[Tutorials & Projects | DroneBot Workshop | Arduino & Raspberry Pi](https://dronebotworkshop.com/)
+
 [SparkFun Electronics - YouTube](https://www.youtube.com/@sparkfun)
 [Adventures in Science! - YouTube](https://www.youtube.com/playlist?list=PLBcrWxTa5CS0u-rQNkGtLMg1yA7h56r6_)
+[Learn at SparkFun Electronics - SparkFun Learn](https://learn.sparkfun.com/)
+
+[Microcontrollers tutorials and projects](https://microcontrollerslab.com/)
 
 [Random Nerd Tutorials | Learn ESP32, ESP8266, Arduino, and Raspberry Pi](https://randomnerdtutorials.com/)
 [Rui Santos - YouTube](https://www.youtube.com/@RuiSantosdotme)
 
 [Microcontrollers - YouTube](https://www.youtube.com/playlist?list=PLxLxbi4e2mYFkOe5whDbd8IzBVd1opbMb) Gary Explains
 [How Arduino is open-sourcing imagination | Massimo Banzi - YouTube](https://www.youtube.com/watch?v=UoBUXOOdLXY)
+
+## Flashing
+
+Embedded system programming is done by flashing the firmware to the microcontroller.
+The device shall be rebooted to Device Firmware Update (DFU) mode to first. The flashing tool shall be able to communicate with the device in DFU mode.
 
 ## IDE, Platforms and Frameworks
 
@@ -144,6 +155,11 @@ Linux: `~/Documents/Arduino/libraries/`
 [esp8266/arduino-esp8266fs-plugin: Arduino plugin for uploading files to ESP8266 file system](https://github.com/esp8266/arduino-esp8266fs-plugin)
 [me-no-dev/arduino-esp32fs-plugin: Arduino plugin for uploading files to ESP32 file system](https://github.com/me-no-dev/arduino-esp32fs-plugin)
 
+### RIOT OS
+
+[RIOT - The friendly Operating System for the Internet of Things](https://www.riot-os.org/)
+[RIOT-OS/RIOT: RIOT - The friendly OS for IoT](https://github.com/RIOT-OS/RIOT)
+
 ### Mbed OS
 
 Open source RTOS for ARM Cortex-M. Now supported by Arduino IDE.
@@ -210,10 +226,15 @@ Open source RTOS for ARM Cortex-A. Now supported by Arduino IDE.
 
 [Gobot - Golang framework for robotics, physical computing, and the Internet of Things (IoT)](https://gobot.io/)
 
+[gokrazy :: gokrazy](https://gokrazy.org/) deployment platform for RPi or PC, only provides go runtime to reduce attack service
+[gokrazy/gokrazy: turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi Zero 2 W, or amd64 PCs!](https://github.com/gokrazy/gokrazy)
+
 [Home :: TinyGo - Go on Microcontrollers and WASM](https://tinygo.org/)
 [tinygo-org/tinygo: Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.](https://github.com/tinygo-org/tinygo)
 [Arduino Blog » TinyGo on Arduino](https://blog.arduino.cc/2019/08/23/tinygo-on-arduino/)
 [TinyGo GO Compiler for Microcontrollers Now Works on Arduino Boards](https://www.cnx-software.com/2019/08/28/tinygo-go-compiler-for-microcontrollers-now-works-on-arduino-boards/amp/)
+
+[You Can Write Embedded Code With GO? | TinyGo is Awesome - YouTube](https://www.youtube.com/watch?v=95Nz_1Qycl0) Arduino Uno and RPi Pico
 
 ### Partition Size
 
@@ -229,7 +250,6 @@ ESP32 with Bluetooth Classic may need a expand to the partition
 [Ah! I see you have the machine that goes "BING"! - Dr. Graeme Cross - YouTube](https://www.youtube.com/watch?v=nzCvomTixzU)
 
 [PyMite - Python Wiki](https://wiki.python.org/moin/PyMite)
-[MicroPython - Python for microcontrollers](https://micropython.org/)
 [Pyxie -- A Little Python to C++ Compiler](http://www.sparkslabs.com/pyxie/index.html)
 
 [Using MicroPython in the wild - YouTube](https://www.youtube.com/watch?v=WI-nTf5iM84)
@@ -250,11 +270,13 @@ ESP32 with Bluetooth Classic may need a expand to the partition
 [[espressif#MicroPython]]
 
 [MicroPython - Python for microcontrollers](https://micropython.org/)
+[micropython/micropython: MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems](https://github.com/micropython/micropython)
+
+[MicroPython - Wikiwand](https://omni.wikiwand.com/en/MicroPython)
 [Overview — MicroPython documentation](https://docs.micropython.org/en/latest/index.html)
-[MicroPython - Wikiwand](https://www.wikiwand.com/en/MicroPython)
+[MicroPython | Arduino Documentation](https://docs.arduino.cc/micropython/)
 [MicroPython - Adafruit Learning System](https://learn.adafruit.com/category/micropython?view=all)
 
-[micropython/micropython: MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems](https://github.com/micropython/micropython)
 [Code With Mu](https://codewith.mu/en/) offline MicroPython editor
 
 [MicroPython Basics: What is MicroPython?](https://www.digikey.hk/en/maker/projects/micropython-basics-what-is-micropython/1f60afd88e6b44c0beb0784063f664fc)
@@ -265,22 +287,22 @@ ESP32 with Bluetooth Classic may need a expand to the partition
 
 ### CircuitPython
 
+> Adafruit's open source derivative of MicroPython
+
 [CircuitPython](https://circuitpython.org/)
 
 [What is CircuitPython? | Welcome to CircuitPython! | Adafruit Learning System](https://learn.adafruit.com/welcome-to-circuitpython/what-is-circuitpython?view=all)
 [A Coming of Age for CircuitPython? – Hackster Blog](https://blog.hackster.io/a-coming-of-age-for-circuitpython-efb1b9c61aa3)
-
-Adafruit's open source derivative of MicroPython
-[CircuitPython — Adafruit CircuitPython documentation](https://circuitpython.readthedocs.io/en/latest/README.html#differences-from-micropython)
-[CircuitPython vs MicroPython: Key Differences - Tutorial Australia](https://core-electronics.com.au/tutorials/circuitpython-vs-micropython-differences.html)
-
-[CircUp — Circup 1.0 documentation](https://docs.circuitpython.org/projects/circup/en/latest/index.html) package manager for CircuitPython
-[Blinka](https://circuitpython.org/blinka) CircuitPython for SBC
-
 [Adafruit CircuitPython — Adafruit CircuitPython documentation](https://circuitpython.readthedocs.io/en/)
 [adafruit/circuitpython: CircuitPython - a Python implementation for teaching coding with microcontrollers](https://github.com/adafruit/circuitpython)
 [adafruit/Adafruit_CircuitPython_Bundle: A bundle of useful CircuitPython libraries ready to use from the filesystem.](https://github.com/adafruit/Adafruit_CircuitPython_Bundle)
 [adafruit/Adafruit_Blinka: Add CircuitPython hardware API and libraries to MicroPython & CPython devices](https://github.com/adafruit/Adafruit_Blinka)
+
+[CircuitPython vs MicroPython — Adafruit CircuitPython documentation](https://docs.circuitpython.org/en/latest/README.html#differences-from-micropython)
+[CircuitPython vs MicroPython: Key Differences - Tutorial Australia](https://core-electronics.com.au/tutorials/circuitpython-vs-micropython-differences.html)
+
+[CircUp — Circup 1.0 documentation](https://docs.circuitpython.org/projects/circup/en/latest/index.html) package manager for CircuitPython
+[Blinka](https://circuitpython.org/blinka) CircuitPython for SBC
 
 [CircuitPython in 2019 « Adafruit Industries – Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/2019/01/28/circuitpython-in-2019/)
 [Overview | Welcome to CircuitPython! | Adafruit Learning System](https://learn.adafruit.com/welcome-to-circuitpython/overview)
@@ -373,13 +395,13 @@ Adafruit's open source derivative of MicroPython
 
 [CSA-IOT - Connectivity Standards Alliance](https://csa-iot.org/)
 
-[DASH7 - Wikiwand](https://www.wikiwand.com/en/DASH7)
-[Zigbee - Wikiwand](https://www.wikiwand.com/en/ZigBee) now Connectivity Standards Alliance
-[Z-Wave - Wikiwand](https://www.wikiwand.com/en/Z-Wave)
-[FM-UWB - Wikiwand](https://www.wikiwand.com/en/FM-UWB)
-[Thread (network protocol) - Wikiwand](<https://www.wikiwand.com/en/Thread_(network_protocol)>) used in Matter
-[LoRa - Wikiwand](https://www.wikiwand.com/en/LoRa)
-[Matter (standard) - Wikiwand](<https://www.wikiwand.com/en/Matter_(standard)>) renamed 2021-05, formerly CHIP (2019-12) and Zigbee
+[DASH7 - Wikiwand](https://omni.wikiwand.com/en/DASH7)
+[Zigbee - Wikiwand](https://omni.wikiwand.com/en/ZigBee) now Connectivity Standards Alliance
+[Z-Wave - Wikiwand](https://omni.wikiwand.com/en/Z-Wave)
+[FM-UWB - Wikiwand](https://omni.wikiwand.com/en/FM-UWB)
+[Thread (network protocol) - Wikiwand](<https://omni.wikiwand.com/en/Thread_(network_protocol)>) used in Matter
+[LoRa - Wikiwand](https://omni.wikiwand.com/en/LoRa)
+[Matter (standard) - Wikiwand](<https://omni.wikiwand.com/en/Matter_(standard)>) renamed 2021-05, formerly CHIP (2019-12) and Zigbee
 
 [ZigBee vs Z-Wave vs Wi-Fi vs Thread vs Bluetooth vs Matter (CHIP) - YouTube](https://www.youtube.com/watch?v=3zaTIRiFemQ)
 
@@ -393,12 +415,19 @@ ESP8266 is a common Wifi chipset. ESP32 is the next generation with Bluetooth an
 
 [Chirp | Send data with sound](https://chirp.io/)
 
+[The History of Ultra-Wideband (UWB) | FiRa Consortium](https://www.firaconsortium.org/resource-hub/blog/the-history-of-ultrawideband-uwb)
+[What is Ultra-wideband? A guide to UWB technology - Antenova](https://www.antenova.com/ultra-wideband-uwb-technology/)
+[Understanding Ultra-Wideband(UWB) technology - NOVELDA](https://novelda.com/articles/uwb/understanding-ultra-wideband-uwb-technology)
+[The state of UWB (ultra-wideband) in 2024](https://www.pozyx.io/newsroom/the-state-of-uwb)
+
 ### Wifi
 
 ESP8266
 ESP32 (Bluetooth + Wifi)
 
 ### Bluetooth
+
+[[bluetooth]]
 
 ESP32 (Bluetooth + Wifi)
 
@@ -414,9 +443,9 @@ HC-05/HC-06/HC-10 are common Wifi modules using ESP8266
 
 ### LPWAN/LoRA/6LoWPAN
 
-[LPWAN](https://www.wikiwand.com/en/LPWAN): Low Power Wide Area Network
-[LoRa](https://www.wikiwand.com/en/LoRa): Long Range
-[6LoWPAN](https://www.wikiwand.com/en/6LoWPAN): IPv6 over Low-Power Wireless Personal Area Networks
+[LPWAN](https://omni.wikiwand.com/en/LPWAN): Low Power Wide Area Network
+[LoRa](https://omni.wikiwand.com/en/LoRa): Long Range
+[6LoWPAN](https://omni.wikiwand.com/en/6LoWPAN): IPv6 over Low-Power Wireless Personal Area Networks
 
 [How LoRa Modulation really works - long range communication using chirps - YouTube](https://www.youtube.com/watch?v=jHWepP1ZWTk) LoRa can transmit signal at SNR of -20dB at 1% error rate
 
@@ -427,6 +456,10 @@ HC-05/HC-06/HC-10 are common Wifi modules using ESP8266
 [nRF5 IoT SDK: 6LoWPAN over BLE](https://developer.nordicsemi.com/nRF5_IoT_SDK/doc/0.9.0/html/a00011.html)
 [Connecting the Nordic nRF52 chip to IPv6 networks via 6LoWPAN | VisualGDB Tutorials](https://visualgdb.com/tutorials/arm/nrf51/6lowpan/)
 
+### Cellular
+
+[Building Your Own 4G LTE Base Station | Hackaday](https://hackaday.com/2024/03/03/building-your-own-4g-lte-base-station/)
+
 ### CSR
 
 [Wireless Technology Solutions for the Consumer Electronics Market](http://www.csr.com/)
@@ -435,9 +468,9 @@ HC-05/HC-06/HC-10 are common Wifi modules using ESP8266
 
 ### Modulation
 
-[Modulation - Wikiwand](https://www.wikiwand.com/en/Modulation)
-[Frequency-shift keying - Wikiwand](https://www.wikiwand.com/en/Frequency-shift_keying) FSK, GFSK
-[Minimum-shift keying - Wikiwand](https://www.wikiwand.com/en/Minimum-shift_keying) MSK, GmSK
+[Modulation - Wikiwand](https://omni.wikiwand.com/en/Modulation)
+[Frequency-shift keying - Wikiwand](https://omni.wikiwand.com/en/Frequency-shift_keying) FSK, GFSK
+[Minimum-shift keying - Wikiwand](https://omni.wikiwand.com/en/Minimum-shift_keying) MSK, GmSK
 
 [Software Radio Basics - YouTube](https://www.youtube.com/watch?v=BK9QkHxeYQI)
 [Understanding MSK, GMSK, FSK, GFSK Modulator and Demodulator with BER Scientech 2809 - YouTube](https://www.youtube.com/watch?v=Su0--12TfFE)
@@ -535,12 +568,14 @@ PS3/PS4 controller is a slave device in Bluetooth Classic. None of the embedded 
 [FydeOS - 面向未来的云驱动操作系统 | 为中国用户打造的 Chrome OS](https://fydeos.com/) formerly Flint OS, Chinese fork
 
 [LibreELEC – Just enough OS for KODI](https://libreelec.tv/)
-[OpenELEC - Wikiwand](https://www.wikiwand.com/en/OpenELEC)
+[OpenELEC - Wikiwand](https://omni.wikiwand.com/en/OpenELEC)
 
 ## MCU OS
 
 [FreeRTOS - Market leading RTOS (Real Time Operating System) for embedded systems with Internet of Things extensions](https://www.freertos.org/)
 [FreeRTOS - Quick start guide](https://www.freertos.org/FreeRTOS-quick-start-guide.html)
+[单片机也能跑多线程？5分钟带你入门FreeRTOS - YouTube](https://www.youtube.com/watch?v=3aZ65reDWQk)
+[FREERTOS LESSON - YouTube](https://www.youtube.com/playlist?list=PLD22_62MobpXmFlyw4c61cpVobj3FM7Mi) NimaLTD
 
 [Welcome to Simba’s documentation! — Simba master documentation](https://simba-os.readthedocs.io/en/latest/index.html)
 
@@ -550,12 +585,11 @@ PS3/PS4 controller is a slave device in Bluetooth Classic. None of the embedded 
 [FreeRTOS - Arduino Libraries](https://www.arduinolibraries.info/libraries/free-rtos)
 [feilipu/Arduino_FreeRTOS_Library: A FreeRTOS Library for all Arduino AVR Devices (Uno, Leonardo, Mega, etc)](https://github.com/feilipu/Arduino_FreeRTOS_Library)
 [feilipu/avrfreertos: AVR ATmega port of freeRTOS](https://github.com/feilipu/avrfreertos)
-[How to use FreeRTOS with Arduino - Real time operating system](https://microcontrollerslab.com/use-freertos-arduino/)
-[Using FreeRTOS multi-tasking in Arduino - Arduino Project Hub](https://create.arduino.cc/projecthub/feilipu/using-freertos-multi-tasking-in-arduino-ebc3cc)
+[FreeRTOS Tutorials and Projects with Arduino - RTOS](https://microcontrollerslab.com/category/freertos-arduino-tutorial/)
+[Using FreeRTOS multi-tasking in Arduino - Hackster.io](https://www.hackster.io/feilipu/using-freertos-multi-tasking-in-arduino-ebc3cc)
 [Using FreeRTOS Semaphores in Arduino IDE - Hackster.io](https://www.hackster.io/feilipu/using-freertos-semaphores-in-arduino-ide-b3cd6c)
 
 [Mynewt Documentation — Apache Mynewt latest documentation](https://mynewt.apache.org/latest/index.html)
-[Hosting Embedded Rust apps on Apache Mynewt with STM32 Blue Pill](https://medium.com/@ly.lee/hosting-embedded-rust-apps-on-apache-mynewt-with-stm32-blue-pill-c86b119fe5f)
 
 [Using FreeRTOS multi-tasking in Arduino - Hackster.io](https://www.hackster.io/feilipu/using-freertos-multi-tasking-in-arduino-ebc3cc)
 [Battery Powered Arduino Applications through FreeRTOS - Hackster.io](https://www.hackster.io/feilipu/battery-powered-arduino-applications-through-freertos-3b7401)
@@ -584,9 +618,9 @@ PS3/PS4 controller is a slave device in Bluetooth Classic. None of the embedded 
 
 # Hardware Platforms
 
-[System on a chip - Wikiwand](https://www.wikiwand.com/en/System_on_a_chip)
-[Microprocessor - Wikiwand](https://www.wikiwand.com/en/Microprocessor)
-[Microcontroller - Wikiwand](https://www.wikiwand.com/en/Microcontroller)
+[System on a chip - Wikiwand](https://omni.wikiwand.com/en/System_on_a_chip)
+[Microprocessor - Wikiwand](https://omni.wikiwand.com/en/Microprocessor)
+[Microcontroller - Wikiwand](https://omni.wikiwand.com/en/Microcontroller)
 
 There are SBC (single board computer) and MCU (micro controller unit). MCU also acts as co-processor of other system.
 
@@ -653,7 +687,7 @@ Many of them uses sysfs interface
 
 RP2040
 
-- ARM Cortex-M0+ @133Mhx (dual-core)
+- ARM Cortex-M0+ @133Mhz (dual-core)
 - 264KB RAM, 2MB flash (up to 16MB)
 - 2 SPI
 - 2 I2C
@@ -661,9 +695,10 @@ RP2040
 - 3 12-bit ADC
 - 16-bit PWM
 
+[Pico-series Microcontrollers - Raspberry Pi Documentation](https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html#pico-1-family)
+
 [Meet Raspberry Silicon: Raspberry Pi Pico now on sale at $4 - Raspberry Pi](https://www.raspberrypi.org/blog/raspberry-pi-silicon-pico-now-on-sale/)
 [Raspberry Pi Pico W: your $6 IoT platform - Raspberry Pi](https://www.raspberrypi.com/news/raspberry-pi-pico-w-your-6-iot-platform/) adds Wifi
-[Raspberry Pi Documentation - Raspberry Pi Pico and Pico W](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
 [Getting started with Raspberry Pi Pico - Introduction | Raspberry Pi Projects](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/)
 
 [Raspberry Pi Documentation - Pico C SDK](https://www.raspberrypi.com/documentation/pico-sdk/)
@@ -674,6 +709,25 @@ RP2040
 
 [The new Raspberry Pi Pico W is just $6 - YouTube](https://www.youtube.com/watch?v=VEWdxvIphnI)
 [How to Use VSCode with Raspberry Pi Pico W and MicroPython - YouTube](https://www.youtube.com/watch?v=O6lkYTfcMEg)
+
+## Raspberry Pi Pico 2
+
+RP2350
+
+- ARM Hazard 3 @150Mhz (dual-core)
+- ARM Cortex-M33 (dual-core)
+- 512KB RAM, MB flash (up to 16MB)
+- 2 SPI
+- 2 I2C
+- 2 UART
+- 12 PIO state machines
+- 4 12-bit ADC
+- 24 16-bit PWM
+
+[Pico-series Microcontrollers - Raspberry Pi Documentation](https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html#pico-2-family)
+[RP2350 – Raspberry Pi](https://www.raspberrypi.com/products/rp2350/)
+
+[Raspberry Pi Pico 2: a RISC-V bet! - YouTube](https://www.youtube.com/watch?v=oXF_lVwA8A4)
 
 ## AllWinner
 
@@ -706,13 +760,14 @@ RP2040
 
 ## STM
 
-[STM32 - Wikiwand](https://www.wikiwand.com/en/STM32)
+[STM32 - Wikiwand](https://omni.wikiwand.com/en/STM32)
 [STM32 Arm Cortex MCUs - 32-bit Microcontrollers - STMicroelectronics](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
 [Decipher the naming of STM32 MCUs | Michał Derkacz](https://ziutek.github.io/2018/05/07/stm32_naming_scheme.html)
 [How to Understand the STM32 Family’s Naming Convention](https://www.digikey.hk/en/maker/blogs/2020/understanding-stm32-naming-conventions)
 
 [STM32 Blue Pill vs Black Pill Microcontroller Boards - YouTube](https://www.youtube.com/watch?v=QCdnO43RBK4)
 [Why is this Microcontroller so Underrated? STM32G030 - Cortex-M0+ - YouTube](https://www.youtube.com/watch?v=LdK0XqudQBE)
+[STM32 LESSON - YouTube](https://www.youtube.com/playlist?list=PLD22_62MobpUTY80NzhJKMpEJ2JYlCXq8) NimaLTD
 
 STM32F411
 
@@ -799,7 +854,7 @@ micro:bit clone using ESP32
 
 ### EV3/NXT
 
-[Lego Mindstorms NXT - Wikiwand](https://www.wikiwand.com/en/Lego_Mindstorms_NXT)
+[Lego Mindstorms NXT - Wikiwand](https://omni.wikiwand.com/en/Lego_Mindstorms_NXT)
 [Nine alternative programming languages for LEGO MINDSTORMS – LEGO Engineering](http://www.legoengineering.com/alternative-programming-languages/)
 
 [LEGO Mindstorms | Mindstorms Robots](http://www.mindstormsrobots.com/lego-mindstorms/)
@@ -1001,10 +1056,11 @@ Pieces are little bit smaller than LEGO pieces, so _not compatible_
 [Suspense Courtesy of Arduino, Mess of Wires | Hackaday](https://hackaday.com/2018/11/06/suspense-courtesy-of-arduino-mess-of-wires/)
 [Defusable alarm clock – wastes wire but fun for the kids | Hackaday](https://hackaday.com/2011/09/07/defusable-alarm-clock-wastes-wire-but-fun-for-the-kids/)
 
-[8 Bits and a Byte - YouTube](https://www.youtube.com/c/8BitsandaByte)
-[GreatScott! - YouTube](https://www.youtube.com/c/greatscottlab)
-[DavidHuangLab - YouTube](https://www.youtube.com/user/kobebeefg)
-[MickMake - YouTube](https://www.youtube.com/c/MickMake)
+[GreatScott! - YouTube](https://www.youtube.com/@greatscottlab)
+[DavidHuangLab - YouTube](https://www.youtube.com/@davidhuanglab)
+[MickMake - YouTube](https://www.youtube.com/@MickMake)
 
-[Daniele Tartaglia - YouTube](https://www.youtube.com/c/DanieleTartaglia)
+[Daniele Tartaglia - YouTube](https://www.youtube.com/@DanieleTartaglia)
 [4 INCREDIBLE project with old CD/DVDrom - YouTube](https://www.youtube.com/watch?v=cO7-pSsbCP0&t=614s)
+
+[omriharel/deej: Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux](https://github.com/omriharel/deej)

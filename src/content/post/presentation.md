@@ -2,7 +2,7 @@
 title: Presentation
 description: ""
 created: 2016-04-24
-updated: 2023-11-17
+updated: 2024-05-06
 tags:
   - business
 ---
@@ -19,11 +19,22 @@ tags:
 
 [The rectangle behind you — Medium](https://medium.com/the-rectangle-behind-you/the-rectangle-behind-you-103179fcfc32#.w0fj0lp4w) a series of articles about interactive presentations by Marcin Wichary, Google Developer
 [Presentation Skills Considered Harmful — Serious Pony](http://seriouspony.com/blog/2013/10/4/presentation-skills-considered-harmful)
-[Presentations Online Courses | LinkedIn Learning, formerly Lynda.com](https://www.linkedin.com/learning/topics/presentations?trk=slideshare_subnav_learning&entityType=COURSE&sortBy=RECENCY)
+[Presentations Online Courses | LinkedIn Learning, formerly Lynda.com](https://www.linkedin.com/learning/topics/presentations)
+
+The Genard Method
+[How to Raise Your Credibility In Your Next Presentation](https://www.genardmethod.com/blog/how-to-raise-your-credibility-in-your-next-presentation)
+[Three Foolproof Ways To Capture Any Audience's Engagement and Interest](https://www.genardmethod.com/blog/three-foolproof-ways-to-capture-any-audiences-engagement-and-interest)
+[The Power of the Words You Choose when You Speak](https://www.genardmethod.com/blog/the-power-of-the-words-you-choose-when-you-speak)
+[Memorizing Your Speech ... Should You or Shouldn't You?](https://www.genardmethod.com/blog/memorizing-your-speech-.-.-.-should-you-or-shouldnt-you-0) don't, _invent the phrase as you say it_
+[5 Acting Techniques for Greater Stage Presence in Public Speaking](https://www.genardmethod.com/blog/5-acting-techniques-for-greater-stage-presence-in-public-speaking-0)
+[Do You Think Too Much? — Learn How to Speak on the Moment](https://www.genardmethod.com/blog/do-you-think-too-much-learn-how-to-speak-on-the-moment)
+[How To Build A Presentation: Four Ways To Achieve Your Purpose](https://www.genardmethod.com/blog/how-to-build-a-presentation-four-ways-to-achieve-your-purpose)
 
 [Preparing for a Tech Talk, Part 1: Motivation — Overreacted](https://overreacted.io/preparing-for-tech-talk-part-1-motivation/)
 [Preparing for a Tech Talk, Part 2: What, Why, and How — Overreacted](https://overreacted.io/preparing-for-tech-talk-part-2-what-why-and-how/)
 [Preparing for a Tech Talk, Part 3: Content — Overreacted](https://overreacted.io/preparing-for-tech-talk-part-3-content/)
+
+[5 Body Language Mistakes You Need to Stop Making In Your Presentations](https://www.genardmethod.com/blog/bid/140221/5-body-language-mistakes-you-need-to-stop-making-in-your-presentations)
 
 # Feedback
 
@@ -146,6 +157,8 @@ npx marp --pptx --output=dist --input-dir=src --allow-local-files
 [Usage - Presenter notes](https://marpit.marp.app/usage?id=presenter-notes)
 [Theme CSS](https://marpit.marp.app/theme-css)
 [marp-core/themes at main · marp-team/marp-core](https://github.com/marp-team/marp-core/tree/main/themes)
+
+[Split header-footer with logos · marp-team · Discussion #244](https://github.com/orgs/marp-team/discussions/244)
 
 [Introduction](https://marpit.marp.app/)
 [marp-team/marpit: The skinny framework for creating slide deck from Markdown](https://github.com/marp-team/marpit)

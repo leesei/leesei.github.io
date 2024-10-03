@@ -2,7 +2,7 @@
 title: Ansible
 description: ""
 created: 2016-02-17
-updated: 2023-09-29
+updated: 2024-09-04
 tags:
   - ansible
   - app
@@ -302,8 +302,8 @@ ansible-galaxy init <role>
 [Encrypting content with Ansible Vault — Ansible Documentation](https://docs.ansible.com/ansible/latest/user_guide/vault.html)
 
 [ansible vault - alessandromazzoli.comalessandromazzoli.com](http://www.alessandromazzoli.com/ansible-vault/)
-[Safely storing Ansible playbook secrets | On Web Security](https://www.onwebsecurity.com/devops/safely-storing-ansible-playbook-secrets)
-[OpenSSL the Ansible vault.. using PBKDF2 | On Web Security](https://www.onwebsecurity.com/tools/openssl-the-ansible-vault-using-pbkdf2)
+[Safely storing Ansible playbook secrets | On Web Security](https://www.onwebsecurity.com/configuration/safely-storing-ansible-playbook-secrets.html)
+[OpenSSL the Ansible vault... using PBKDF2 | On Web Security](https://www.onwebsecurity.com/configuration/openssl-the-ansible-vault-using-pbkdf2.html)
 [Python for Network Engineers | Articles](https://pynet.twb-tech.com/blog/ansible/vault.html)
 [Specify sudo password for Ansible - Stack Overflow](http://stackoverflow.com/questions/21870083/specify-sudo-password-for-ansible)
 

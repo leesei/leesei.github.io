@@ -2,17 +2,24 @@
 title: Vacation
 description: ""
 created: 2023-04-18
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - holiday
   - trivia
 ---
+
+[旅遊行程規劃必備APP | 去趣 chicTrip 罩你的旅遊 照你的玩](https://www.chictrip.com.tw/)
 
 ## Flight
 
 PNR: Passenger Name Record
 [What Is PNR? What Does a PNR Code Do?](https://www.flypgs.com/en/travel-glossary/pnr)
 [What is PNR: Passenger Name Record Explained in Details | AltexSoft](https://www.altexsoft.com/blog/pnr-explained/)
+
+## 郵輪
+
+[老郵條Dr. Cruise - YouTube](https://www.youtube.com/@dr.cruise2405)
+[不要再浪費自己寶貴的郵輪時光 - YouTube](https://www.youtube.com/watch?v=0y9mUJW04FU)
 
 ## Power Plug
 
@@ -37,10 +44,10 @@ PNR: Passenger Name Record
 
 ## 台灣
 
-[臺灣荷蘭統治時期 - Wikiwand](https://www.wikiwand.com/zh/%E8%87%BA%E7%81%A3%E8%8D%B7%E8%98%AD%E7%B5%B1%E6%B2%BB%E6%99%82%E6%9C%9F)
-[臺灣明鄭時期 - Wikiwand](https://www.wikiwand.com/zh/%E8%87%BA%E7%81%A3%E6%98%8E%E9%84%AD%E6%99%82%E6%9C%9F)
-[臺灣清治時期 - Wikiwand](https://www.wikiwand.com/zh/%E8%87%BA%E7%81%A3%E6%B8%85%E6%B2%BB%E6%99%82%E6%9C%9F)
-[台灣日治時期 - Wikiwand](https://www.wikiwand.com/zh/%E5%8F%B0%E7%81%A3%E6%97%A5%E6%B2%BB%E6%99%82%E6%9C%9F)
+[臺灣荷蘭統治時期 - Wikiwand](https://omni.wikiwand.com/zh/%E8%87%BA%E7%81%A3%E8%8D%B7%E8%98%AD%E7%B5%B1%E6%B2%BB%E6%99%82%E6%9C%9F)
+[臺灣明鄭時期 - Wikiwand](https://omni.wikiwand.com/zh/%E8%87%BA%E7%81%A3%E6%98%8E%E9%84%AD%E6%99%82%E6%9C%9F)
+[臺灣清治時期 - Wikiwand](https://omni.wikiwand.com/zh/%E8%87%BA%E7%81%A3%E6%B8%85%E6%B2%BB%E6%99%82%E6%9C%9F)
+[台灣日治時期 - Wikiwand](https://omni.wikiwand.com/zh/%E5%8F%B0%E7%81%A3%E6%97%A5%E6%B2%BB%E6%99%82%E6%9C%9F)
 [Why Was Taiwan Called the Republic of Formosa?](https://theculturetrip.com/asia/taiwan/articles/taiwan-called-republic-formosa/)
 
 [EP 205 台灣的地名，都是怎麼來的？地名居然跟女巫、荷蘭人、日本人都有關係？｜志祺七七 Podcast - YouTube](https://www.youtube.com/watch?v=XNmGAhP9cqU)

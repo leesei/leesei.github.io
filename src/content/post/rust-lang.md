@@ -2,7 +2,7 @@
 title: Rust
 description: Static typed, GC-free system language created by Mozilla.
 created: 2015-11-19
-updated: 2023-12-02
+updated: 2024-10-03
 tags:
   - comp/lang
   - package-manager
@@ -42,6 +42,7 @@ GitHub org:
 [Introduction to Rust Part 1 - YouTube](https://www.youtube.com/watch?v=WnWGO-tLtLA)
 [Introduction to Rust Part 2 - YouTube](https://www.youtube.com/watch?v=lLWchWTUFOQ)
 [Intel and Rust: the Future of Systems Programming: Josh Triplett - YouTube](https://www.youtube.com/watch?v=l9hM0h6IQDo)
+[why rust libraries may never exist. - YouTube](https://www.youtube.com/watch?v=769VqNup21Q) Rust don't have an ABI
 
 [zkat/rust-notes: Personal notes while learning Rust. Mainly documenting pain points along the way.](https://github.com/zkat/rust-notes)
 [C vs. Rust: Which to choose for programming hardware abstractions | Opensource.com](https://opensource.com/article/20/1/c-vs-rust-abstractions)
@@ -63,7 +64,7 @@ GitHub org:
 [Rustup - ArchWiki](https://wiki.archlinux.org/title/Rust#Using_rustup)
 
 ```sh
-yay -S rustup cargo-install
+yay -S rustup
 
 rustup show
 rustup toolchain install stable
@@ -74,6 +75,10 @@ rustup default stable
 rustup component add rustfmt rls
 
 rustup install nightly
+```
+
+```sh
+cargo-binstall irust # like ipython
 ```
 
 ### Cargo
@@ -99,6 +104,11 @@ cargo bench
 cargo test
 ```
 
+```sh
+cargo-binstall sccache
+RUSTC_WRAPPER=sccache cargo build
+```
+
 [dtolnay/semver-trick: How to avoid complicated coordinated upgrades](https://github.com/dtolnay/semver-trick)
 [Specifying Dependencies - The Cargo Book](https://doc.rust-lang.org/cargo/reference/specifying-dependencies.html)
 [Cargo: predictable dependency management - The Rust Programming Language Blog](https://blog.rust-lang.org/2016/05/05/cargo-pillars.html)
@@ -110,11 +120,6 @@ cargo test
 [dimensionhq/fleet: 🚀 The blazing fast build tool for Rust.](https://github.com/dimensionhq/fleet)
 
 #### Cargo tools
-
-[cargo-bins/cargo-binstall: Binary installation for rust projects](https://github.com/cargo-bins/cargo-binstall)
-[kbknapp/cargo-graph: A cargo subcommand for creating GraphViz DOT files and dependency graphs](https://github.com/kbknapp/cargo-graph)
-[RazrFalcon/cargo-bloat: Find out what takes most of the space in your executable.](https://github.com/RazrFalcon/cargo-bloat)
-[flamegraph-rs/flamegraph: Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3](https://github.com/flamegraph-rs/flamegraph)
 
 ## Editions
 
@@ -342,6 +347,7 @@ RUSTFLAGS='-C target-feature=+crt-static --emit asm' cargo build --release --tar
 [String Types in Rust - Suspect Semantics](http://www.suspectsemantics.com/blog/2016/03/27/string-types-in-rust/)
 [Rust: str vs String](https://www.ameyalokare.com/rust/2017/10/12/rust-str-vs-String.html)
 [What are the differences between Rust's `String` and `str`? - Stack Overflow](https://stackoverflow.com/questions/24158114/what-are-the-differences-between-rusts-string-and-str/24159933#24159933)
+[All Rust string types explained - YouTube](https://www.youtube.com/watch?v=CpvzeyzgQdw)
 
 ```rust
 let face: char = '\u{1F600}' // char is unicode code point
@@ -632,6 +638,7 @@ fn first(v: &Vec<Book>) -> &String {
 [What is Polonius? - Polonius](https://rust-lang.github.io/polonius/)
 
 [Rust: What is Ownership and Borrowing? - YouTube](https://www.youtube.com/watch?v=79phqVpE7cU)
+[The Rust Survival Guide - YouTube](https://www.youtube.com/watch?v=usJDUSrcwqI)
 [Rust Demystified 🪄 Simplifying The Toughest Parts - YouTube](https://www.youtube.com/watch?v=TJTDTyNdJdY) borrowing, references and lifetime
 [Rust Mutability, Borrows, and Moves - the ULTIMATE Tutorial! - YouTube](https://www.youtube.com/watch?v=vtUMT-GNaYE) 50 mins
 
@@ -850,6 +857,7 @@ Don't choose Rust when requirement is flexible
 [axum - Rust](https://docs.rs/axum/latest/axum/)
 [axum - crates.io: Rust Package Registry](https://crates.io/crates/axum)
 [tokio-rs/axum: Ergonomic and modular web framework built with Tokio, Tower, and Hyper](https://github.com/tokio-rs/axum)
+[Rust + Htmx + Askama : Is This Better Than GO?? - YouTube](https://www.youtube.com/watch?v=rcZSOLAI1lM)
 
 [Rocket: Web Framework for Rust](https://rocket.rs/)
 [show_notes::cysk::rocket - Rust](http://www.newrustacean.com/show_notes/cysk/rocket/)
@@ -904,6 +912,9 @@ Don't choose Rust when requirement is flexible
 [redox-os/termion: Mirror of https://gitlab.redox-os.org/redox-os/termion](https://github.com/redox-os/termion)
 [cpjreynolds/rustty: A terminal UI library](https://github.com/cpjreynolds/rustty)
 
+[Ratatui | Ratatui](https://ratatui.rs/)
+[ratatui/ratatui: A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs](https://github.com/ratatui/ratatui)
+
 ### Logger
 
 [log - Rust](https://docs.rs/log/0.4.14/log/)
@@ -945,6 +956,15 @@ Don't choose Rust when requirement is flexible
 [KDAB/cxx-qt: Safe interop between Rust and Qt](https://github.com/KDAB/cxx-qt)
 
 [leptos-rs/leptos: Build fast web applications with Rust.](https://github.com/leptos-rs/leptos)
+
+#### GPUI
+
+> used by Zed editor
+
+[GPUI](https://www.gpui.rs/)
+[GPUI 2 is now in production](https://zed.dev/blog/gpui-2-on-preview)
+[Ownership and data flow in GPUI](https://zed.dev/blog/gpui-ownership)
+[Leveraging Rust and the GPU to render user interfaces at 120 FPS](https://zed.dev/blog/videogame)
 
 #### Dioxus
 
@@ -1085,6 +1105,8 @@ async fn my_function(i: i32) {
 
 ## Embedded system
 
+[Platform Support - The rustc book](https://doc.rust-lang.org/nightly/rustc/platform-support.html)
+
 [Rust Embedded](https://github.com/rust-embedded/)
 
 [Embedded Rust documentation](https://docs.rust-embedded.org/)
@@ -1097,6 +1119,8 @@ async fn my_function(i: i32) {
 
 [miselin/rustic: Rustic Embedded Framework](https://github.com/miselin/rustic) Rust framework for embedded system, 😴inactive
 [Program the real world using Rust on Raspberry Pi | Opensource.com](https://opensource.com/article/19/3/physical-computing-rust-raspberry-pi)
+
+[Embedded Rust setup explained - YouTube](https://www.youtube.com/watch?v=TOAynddiu5M) for micro:bit
 
 [Tock Embedded Operating System](https://www.tockos.org/)
 [Tock Tutorial](https://book.tockos.org/)

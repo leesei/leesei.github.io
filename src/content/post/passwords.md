@@ -2,12 +2,15 @@
 title: Passwords
 description: ""
 created: 2015-04-08
-updated: 2023-10-02
+updated: 2024-05-28
 tags:
   - passwords
   - security
   - web
 ---
+
+[[cyber-security#Password Hacking]]
+[[crypto#Storing password]]
 
 [NIST Password Guidelines: The New Requirements You Need to Know | AuditBoard](https://www.auditboard.com/blog/nist-password-guidelines/)
 [NIST Password Guidelines and Best Practices for 2020](https://auth0.com/blog/dont-pass-on-the-new-nist-password-guidelines/)
@@ -61,6 +64,10 @@ tags:
 [Secret Pass » Linux Magazine](http://www.linux-magazine.com/Issues/2018/215/Pass-Password-Manager)
 [Manage your passwords in the Linux terminal | Opensource.com](https://opensource.com/article/22/1/manage-passwords-linux-terminal)
 [This is perhaps my favorite password manager for the terminal - YouTube](https://www.youtube.com/watch?v=FhwsfH2TpFA)
+[Linux Pass: A Text-Based Password Manager - The New Stack](https://thenewstack.io/linux-pass-a-text-based-password-manager/)
+
+[gopass - the team password manager](https://www.gopass.pw/) ❗!important
+[gopasspw/gopass: The slightly more awesome standard unix password manager for teams](https://github.com/gopasspw/gopass)
 
 [LastPass](https://lastpass.com/)
 [The Beginner's Guide to Setting Up LastPass](http://lifehacker.com/the-beginners-guide-to-setting-up-lastpass-1785424440)
@@ -87,5 +94,5 @@ tags:
 [Keeper Unlimited - 15% OFF](https://www.keepersecurity.com/) free version single device only
 [Password Safe](https://www.schneier.com/passsafe.html)
 
-[Microsoft Autofill - Chrome Web Store](https://chrome.google.com/webstore/detail/microsoft-autofill/fiedbfgcleddlbcmgdigjgdfcggjcion)
+[Microsoft Autofill](https://chromewebstore.google.com/detail/microsoft-autofill/fiedbfgcleddlbcmgdigjgdfcggjcion)
 [Microsoft’s new password manager works across Edge, Chrome, and mobile devices - The Verge](https://www.theverge.com/platform/amp/2020/12/16/22178026/microsoft-authenticator-autofill-feature-password-manager)

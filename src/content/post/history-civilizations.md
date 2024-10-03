@@ -2,7 +2,7 @@
 title: Ancient Civilizations
 description: ""
 created: 2020-01-23
-updated: 2023-11-26
+updated: 2024-08-14
 tags:
   - history
 ---
@@ -32,6 +32,8 @@ Civilization:
 [Fall of Civilizations - YouTube](https://www.youtube.com/@FallofCivilizations)
 [英语的前世今生(和七大姑八大姨) - YouTube](https://www.youtube.com/watch?v=uKUjt4gpZNM)
 [Ancient History - YouTube](https://www.youtube.com/playlist?list=PLxZAPogJjW_itd420UVkM1Aq09AW8B9h0)
+
+[【鎮館之寶+系列】大英博物館·序章 人類的最強記憶！ - YouTube](https://www.youtube.com/watch?v=e-kxMY8cmjc)
 
 [Beginnings - 600 BCE | World history | Arts and humanities | Khan Academy](https://www.khanacademy.org/humanities/world-history/world-history-beginnings)
 
@@ -99,7 +101,7 @@ Greece vs Persian
 
 written history begins around 800B.C.
 Hittite, reached its peak around 1400B.C., kingdom built around Anatolian modern Syria, expanding to Greek and Egypt
-Ramses II fought Hittite in [Battle of Kadesh](https://www.wikiwand.com/en/Battle_of_Kadesh) in 1265B.C., resulting in a peace treaty
+Ramses II fought Hittite in [Battle of Kadesh](https://omni.wikiwand.com/en/Battle_of_Kadesh) in 1265B.C., resulting in a peace treaty
 they formed a ally in 1258B.C. against the uprising Assyrian
 
 Indo-European begin to migrate to Greek around 2000B.C.
@@ -203,8 +205,8 @@ around the same time, the British Romans were attacked by the Celtic Picks from 
 [Ancient Greece – Smarthistory](https://smarthistory.org/ancient-mediterranean/ancient-greece/)
 [古希腊历史/History of Greece - YouTube](https://www.youtube.com/playlist?list=PLoFIX_udvBZnqI678oWSznqlGXXw_T5vO) 佚名
 
-[Greco-Persian Wars - Wikiwand](https://www.wikiwand.com/en/Greco-Persian_Wars) 499–449 BC
-[波希戰爭 - Wikiwand](https://www.wikiwand.com/zh-hant/%E6%B3%A2%E5%B8%8C%E6%88%98%E4%BA%89)
+[Greco-Persian Wars - Wikiwand](https://omni.wikiwand.com/en/Greco-Persian_Wars) 499–449 BC
+[波希戰爭 - Wikiwand](https://omni.wikiwand.com/zh/%E6%B3%A2%E5%B8%8C%E6%88%98%E4%BA%89)
 [波希戰爭 ► 雅典、斯巴達與波斯的愛恨情仇 有趣的古希臘 - YouTube](https://www.youtube.com/watch?v=nG1PhaLkvjk)
 [Misunderstood Moments in History - Why the Persians Failed to Conquer Greece - YouTube](https://www.youtube.com/watch?v=ZlwIKh2Qk14)
 
@@ -249,7 +251,7 @@ around the same time, the British Romans were attacked by the Celtic Picks from 
 [SYSK Selects: Was Atlantis A Real Place? | Stuff You Should Know](https://www.stuffyoushouldknow.com/podcasts/sysk-selects-was-atlantis-a-real-place.htm)
 [Was there a real Atlantis? | HowStuffWorks](https://history.howstuffworks.com/history-vs-myth/real-atlantis.htm)
 
-[Helike - Wikiwand](https://www.wikiwand.com/en/Helike)
+[Helike - Wikiwand](https://omni.wikiwand.com/en/Helike)
 [Helike - Real life Atlantis - Naked History](http://www.historynaked.com/helike-real-life-atlantis/)
 
 [atlantipedia.ie/samples/](http://atlantipedia.ie/samples/)
@@ -267,7 +269,7 @@ around the same time, the British Romans were attacked by the Celtic Picks from 
 
 ### Byzantine Empire
 
-[Byzantine Empire - Wikiwand](http://www.wikiwand.com/en/Byzantine_Empire)
+[Byzantine Empire - Wikiwand](http://omni.wikiwand.com/en/Byzantine_Empire)
 
 [Byzantine Empire Timeline - World History Encyclopedia](https://www.worldhistory.org/timeline/Byzantine_Empire/)
 When Rome Empire crumbles, the Greek speaking officials fled to modern Turkey and created Byzantine Empire, around the time of 唐朝
@@ -292,7 +294,7 @@ When Rome Empire crumbles, the Greek speaking officials fled to modern Turkey an
 
 ## Chauvet Cave
 
-[Chauvet Cave - Wikiwand](https://www.wikiwand.com/en/Chauvet_Cave)
+[Chauvet Cave - Wikiwand](https://omni.wikiwand.com/en/Chauvet_Cave)
 [The Cave Art Paintings of the Chauvet Cave](https://www.bradshawfoundation.com/chauvet/)
 [Chauvet Cave - World History Encyclopedia](https://www.worldhistory.org/Chauvet_Cave/)
 
@@ -309,7 +311,7 @@ When Rome Empire crumbles, the Greek speaking officials fled to modern Turkey an
 ## Places
 
 [Asia Minor - World History Encyclopedia](https://www.worldhistory.org/Asia_Minor/)
-[Anatolia - Wikiwand](https://www.wikiwand.com/en/Anatolia)
+[Anatolia - Wikiwand](https://omni.wikiwand.com/en/Anatolia)
 [Carthage - World History Encyclopedia](https://www.worldhistory.org/carthage/)
 [Constantinople - World History Encyclopedia](https://www.worldhistory.org/Constantinople/)
 [Gaul - World History Encyclopedia](https://www.worldhistory.org/gaul/)

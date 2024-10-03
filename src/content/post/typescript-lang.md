@@ -2,7 +2,7 @@
 title: TypeScript
 description: ""
 created: 2014-12-11
-updated: 2023-11-22
+updated: 2024-08-13
 tags:
   - comp/lang
   - typescript
@@ -37,6 +37,7 @@ tags:
 [Learn TypeScript – The Ultimate Beginners Guide](https://www.freecodecamp.org/news/learn-typescript-beginners-guide/)
 [What is TypeScript programming? Industrial-strength JavaScript](https://www.infoworld.com/article/2871804/javascript/typescript-industrial-strength-javascript.html)
 [How not to learn TypeScript](https://fettblog.eu/how-not-to-learn-typescript/)
+[TypeScript Evolution — Marius Schulz](https://mariusschulz.com/blog/series/typescript-evolution)
 
 [How KEEP-87 & Typeclasses will change the way we write Kotlin - QuickBird Studios Blog](https://quickbirdstudios.com/blog/keep-87-typeclasses-kotlin/)
 
@@ -101,9 +102,6 @@ Type Guard: boolean value that have implication to type of variables of union ty
 [User defined Type Guards in TypeScript - Ultimate Courses™](https://ultimatecourses.com/blog/user-defined-type-guards-in-typescript)
 [TypeScript Literal Type Guards and in Operator - Ultimate Courses™](https://ultimatecourses.com/blog/typescript-literal-type-guards-and-in-operator)
 [LogRocket TypeScript Meetup: Write more readable code with TS 4.4 - YouTube](https://www.youtube.com/watch?v=LxZx3ycrxI0)
-
-[A first look at quicktype](http://blog.quicktype.io/first-look/)
-[Convert JSON to Swift, C#, TypeScript, Objective-C, Go, Java, C++ and more • quicktype](https://quicktype.io/)
 
 [Infer in TypeScript, the Great and Powerful - DEV Community](https://dev.to/artemmalko/infer-in-typescript-the-great-and-powerful-5cch)
 [Understanding infer in TypeScript - LogRocket Blog](https://blog.logrocket.com/understanding-infer-typescript/)

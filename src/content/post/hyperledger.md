@@ -2,7 +2,7 @@
 title: Hyperledger
 description: Open Source Private Blockchain
 created: 2023-04-01
-updated: 2023-09-29
+updated: 2024-04-01
 tags:
   - blockchain
   - hyperledger
@@ -40,6 +40,8 @@ Pavan Adhav
 [Hyperledger Fabric for Developers Training Course | Linux Foundation](https://training.linuxfoundation.org/training/hyperledger-fabric-for-developers-lfd272/#)
 
 # Ecosystem
+
+[Projects | Hyperledger](https://www.hyperledger.org/projects)
 
 [Hyperledger Fabric Release Dashboard | Hack to show days since last release for main Hyperledger Fabric repos](https://hyperledgendary.github.io/release-dashboard/)
 
@@ -112,6 +114,11 @@ Pavan Adhav
 
 [satota2/fabric-opssc: Operations Smart Contract (OpsSC) for Hyperledger Fabric v2.x](https://github.com/satota2/fabric-opssc)
 
+## Hyperledger Firefly
+
+[Home - Hyperledger FireFly Docs](https://hyperledger.github.io/firefly/)
+[hyperledger/firefly: Hyperledger FireFly is the first open source Supernode: a complete stack for enterprises to build and scale secure Web3 applications. The FireFly API for digital assets, data flows, and blockchain transactions makes it radically faster to build production-ready apps on popular chains and protocols.](https://github.com/hyperledger/firefly)
+
 ## Management/API
 
 [fablo-io/fablo-rest: Simple REST API server to call Hyperledger Fabric chaincodes](https://github.com/fablo-io/fablo-rest)
@@ -139,3 +146,5 @@ Pavan Adhav
 
 [Hyperledger Caliper - YouTube](https://www.youtube.com/playlist?list=PL0MZ85B_96CH90E9HH0ezyEquUTe9spoU)
 [Caliper Integration with Hyperledger Fabric - YouTube](https://www.youtube.com/playlist?list=PLSBNVhWU6KjXRadn0Cezi5mCbLMXzjewX)
+
+---

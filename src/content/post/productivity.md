@@ -2,7 +2,7 @@
 title: Productivity
 description: ""
 created: 2019-08-09
-updated: 2023-09-29
+updated: 2023-12-30
 tags:
   - trivia
 ---
@@ -26,6 +26,8 @@ tags:
 [doing - BrettTerpstra.com](https://brettterpstra.com/projects/doing/)
 
 [Stretchly - The break time reminder app](https://hovancik.net/stretchly/downloads/)
+
+[koekeishiya/skhd: Simple hotkey daemon for macOS](https://github.com/koekeishiya/skhd)
 
 ## On the Contrary
 

@@ -2,7 +2,7 @@
 title: Biology
 description: Scientific study of life
 created: 2016-09-24
-updated: 2023-11-09
+updated: 2024-08-14
 tags:
   - biology
   - learning
@@ -13,7 +13,7 @@ tags:
 [[zoology]]
 [[biology-organs]]
 
-[Biology - Wikiwand](https://www.wikiwand.com/en/biology)
+[Biology - Wikiwand](https://omni.wikiwand.com/en/biology)
 [Biology Dictionary - Explanations and Examples of Biological Concepts](https://biologydictionary.net/)
 [Welcome To Biology Explorer | Biology News | BioExplorer.net](https://www.bioexplorer.net/)
 
@@ -43,12 +43,12 @@ vestigial: atrophied, become functionless in the course of evolution
 
 [[paleontology#Boring Billion]]
 
-[Prokaryote](https://www.wikiwand.com/en/Prokaryote): one cell, no separation, bacteria
-[原核生物 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%8E%9F%E6%A0%B8%E7%94%9F%E7%89%A9)
-[Archaea - Wikiwand](https://www.wikiwand.com/en/Archaea)
-[古菌 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%8F%A4%E8%8F%8C)
-[Eukaryote](https://www.wikiwand.com/en/Eukaryote): structures within the cell (endosymbiosis, ~2Ga), with nucleus and cell wall/membrane
-[真核生物 - Wikiwand](https://www.wikiwand.com/zh-hant/%E7%9C%9F%E6%A0%B8%E7%94%9F%E7%89%A9)
+[Prokaryote](https://omni.wikiwand.com/en/Prokaryote): one cell, no separation, bacteria
+[原核生物 - Wikiwand](https://omni.wikiwand.com/zh/%E5%8E%9F%E6%A0%B8%E7%94%9F%E7%89%A9)
+[Archaea - Wikiwand](https://omni.wikiwand.com/en/Archaea)
+[古菌 - Wikiwand](https://omni.wikiwand.com/zh/%E5%8F%A4%E8%8F%8C)
+[Eukaryote](https://omni.wikiwand.com/en/Eukaryote): structures within the cell (endosymbiosis, ~2Ga), with nucleus and cell wall/membrane
+[真核生物 - Wikiwand](https://omni.wikiwand.com/zh/%E7%9C%9F%E6%A0%B8%E7%94%9F%E7%89%A9)
 
 [Evolution of Eukaryotes- How & Why Endosymbiosis Occurred & When First Eukaryotes Evolved | GEO GIRL - YouTube](https://www.youtube.com/watch?v=yIIQFy_Zsp8)
 
@@ -73,7 +73,7 @@ vestigial: atrophied, become functionless in the course of evolution
 
 ## Wallace Line (Biogeographic Boundary)
 
-[Wallace Line - Wikiwand](https://www.wikiwand.com/en/Wallace_Line)
+[Wallace Line - Wikiwand](https://omni.wikiwand.com/en/Wallace_Line)
 
 [The Invisible Barrier Keeping Two Worlds Apart - YouTube](https://www.youtube.com/watch?v=QTK_bC00ilg)
 
@@ -96,18 +96,18 @@ Epigenetics: acquired gene, genic expression
 To categorize organisms based upon similarities and differences in their physical or genetic characteristics
 
 Coevolution 協同進化: two or more species reciprocally affect each other's evolution
-[Coevolution - Wikiwand](https://www.wikiwand.com/en/Coevolution)
-[共同演化 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%85%B1%E5%90%8C%E6%BC%94%E5%8C%96)
+[Coevolution - Wikiwand](https://omni.wikiwand.com/en/Coevolution)
+[共同演化 - Wikiwand](https://omni.wikiwand.com/zh/%E5%85%B1%E5%90%8C%E6%BC%94%E5%8C%96)
 
 Convergent evolution 趨同進化: two unrelated animals evolved similar traits
-[Convergent evolution - Wikiwand](https://www.wikiwand.com/en/Convergent_evolution)
-[趨同演化 - Wikiwand](https://www.wikiwand.com/zh-hant/%E8%B6%8B%E5%90%8C%E6%BC%94%E5%8C%96)
+[Convergent evolution - Wikiwand](https://omni.wikiwand.com/en/Convergent_evolution)
+[趨同演化 - Wikiwand](https://omni.wikiwand.com/zh/%E8%B6%8B%E5%90%8C%E6%BC%94%E5%8C%96)
 
-[Ecological niche - Wikiwand](https://www.wikiwand.com/en/Ecological_niche)
-[生態位 - Wikiwand](https://www.wikiwand.com/zh-hant/%E7%94%9F%E6%80%81%E4%BD%8D)
+[Ecological niche - Wikiwand](https://omni.wikiwand.com/en/Ecological_niche)
+[生態位 - Wikiwand](https://omni.wikiwand.com/zh/%E7%94%9F%E6%80%81%E4%BD%8D)
 
-[Island gigantism - Wikiwand](https://www.wikiwand.com/en/Island_gigantism)
-[島嶼巨型化 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%B3%B6%E5%B6%BC%E5%B7%A8%E5%9E%8B%E5%8C%96)
+[Island gigantism - Wikiwand](https://omni.wikiwand.com/en/Island_gigantism)
+[島嶼巨型化 - Wikiwand](https://omni.wikiwand.com/zh/%E5%B3%B6%E5%B6%BC%E5%B7%A8%E5%9E%8B%E5%8C%96)
 
 [Researchers explain why that picture of monkeys turning into humans is wrong](https://thenextweb.com/news/researchers-explain-why-that-picture-of-monkeys-turning-into-humans-is-wrong)
 
@@ -119,7 +119,7 @@ Convergent evolution 趨同進化: two unrelated animals evolved similar traits
 
 > merge with [[#Taxonomy]]?
 
-[Phylogenetic tree - Wikiwand](https://www.wikiwand.com/en/Phylogenetic_tree) = Phylogeny
+[Phylogenetic tree - Wikiwand](https://omni.wikiwand.com/en/Phylogenetic_tree) = Phylogeny
 [What Is Phylogeny? Definition and Examples](https://www.thoughtco.com/what-is-phylogeny-4582303)
 
 A model that traces the evolutionary history of between organisms.
@@ -133,16 +133,16 @@ Professor Dave Explains
 
 [Evolution and Phylogenetics - YouTube](https://www.youtube.com/playlist?list=PL05keIMVq9x12J4pBn_8IZsL22xQBet2W) Clint Explains
 
-[Phylogenetics - Wikiwand](https://www.wikiwand.com/en/Phylogenetics)
-[系統發生學 - Wikiwand](https://www.wikiwand.com/zh-hant/%E7%B3%BB%E7%BB%9F%E5%8F%91%E7%94%9F%E5%AD%A6)
+[Phylogenetics - Wikiwand](https://omni.wikiwand.com/en/Phylogenetics)
+[系統發生學 - Wikiwand](https://omni.wikiwand.com/zh/%E7%B3%BB%E7%BB%9F%E5%8F%91%E7%94%9F%E5%AD%A6)
 
 - Ribosomal RNA sequency
 - Homology (similarities between organism)
   - Genotype
   - Phenotype
 
-[支序分類學 - Wikiwand](https://www.wikiwand.com/zh-hant/%E6%94%AF%E5%BA%8F%E5%88%86%E9%A1%9E%E5%AD%B8)
-[Cladistics - Wikiwand](https://www.wikiwand.com/en/Cladistics) phylogenetic systematics
+[支序分類學 - Wikiwand](https://omni.wikiwand.com/zh/%E6%94%AF%E5%BA%8F%E5%88%86%E9%A1%9E%E5%AD%B8)
+[Cladistics - Wikiwand](https://omni.wikiwand.com/en/Cladistics) phylogenetic systematics
 [What is cladistics? How reliable is it?](http://www.miketaylor.org.uk/dino/faq/s-class/clad/index.html)
 
 [ETE Toolkit - Analysis and Visualization of (phylogenetic) trees](http://etetoolkit.org/)
@@ -150,14 +150,14 @@ Professor Dave Explains
 
 ## Taxonomy
 
-[生物分類法 - Wikiwand](https://www.wikiwand.com/zh-hant/%E7%94%9F%E7%89%A9%E5%88%86%E9%A1%9E%E6%B3%95)
-[生物分類學 - Wikiwand](https://www.wikiwand.com/zh-hant/%E7%94%9F%E7%89%A9%E5%88%86%E9%A1%9E%E5%AD%B8)
-[Taxonomy (biology) - Wikiwand](<https://www.wikiwand.com/en/Taxonomy_(biology)>)
-[Evolutionary taxonomy - Wikiwand](https://www.wikiwand.com/en/Evolutionary_taxonomy)
+[生物分類法 - Wikiwand](https://omni.wikiwand.com/zh/%E7%94%9F%E7%89%A9%E5%88%86%E9%A1%9E%E6%B3%95)
+[生物分類學 - Wikiwand](https://omni.wikiwand.com/zh/%E7%94%9F%E7%89%A9%E5%88%86%E9%A1%9E%E5%AD%B8)
+[Taxonomy (biology) - Wikiwand](<https://omni.wikiwand.com/en/Taxonomy_(biology)>)
+[Evolutionary taxonomy - Wikiwand](https://omni.wikiwand.com/en/Evolutionary_taxonomy)
 
-[卡爾·林奈 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%8D%A1%E5%B0%94%C2%B7%E6%9E%97%E5%A5%88)
-[二名法 - Wikiwand](https://www.wikiwand.com/zh-hant/%E4%BA%8C%E5%90%8D%E6%B3%95)
-[Binomial nomenclature - Wikiwand](https://www.wikiwand.com/en/Binomial_nomenclature)
+[卡爾·林奈 - Wikiwand](https://omni.wikiwand.com/zh/%E5%8D%A1%E5%B0%94%C2%B7%E6%9E%97%E5%A5%88)
+[二名法 - Wikiwand](https://omni.wikiwand.com/zh/%E4%BA%8C%E5%90%8D%E6%B3%95)
+[Binomial nomenclature - Wikiwand](https://omni.wikiwand.com/en/Binomial_nomenclature)
 
 "Linnean taxonomy is as much an art form as a science."
 There is no real definition of "genus".
@@ -178,8 +178,8 @@ Ranks other than Genus and Species is not necessary in specifying an species
 
 中文類可指綱, 目, 亞目, 科
 
-[分類階元 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%88%86%E7%B1%BB%E9%98%B6%E5%85%83)
-[Taxonomic rank - Wikiwand](https://www.wikiwand.com/en/Taxonomic_rank)
+[分類階元 - Wikiwand](https://omni.wikiwand.com/zh/%E5%88%86%E7%B1%BB%E9%98%B6%E5%85%83)
+[Taxonomic rank - Wikiwand](https://omni.wikiwand.com/en/Taxonomic_rank)
 [What are classification, taxonomy, phylogeny, systematics and cladistics?](http://www.miketaylor.org.uk/dino/faq/s-class/terms/index.html)
 [What do terms like phylum, order and family mean?](http://www.miketaylor.org.uk/dino/faq/s-class/levels/index.html)
 
@@ -187,19 +187,19 @@ Ranks other than Genus and Species is not necessary in specifying an species
 [What Is Phylogeny? Definition and Examples](https://www.thoughtco.com/what-is-phylogeny-4582303)
 [What Is a Cladogram? Definition and Examples](https://www.thoughtco.com/cladogram-definition-and-examples-4778452)
 
-[並系群 - Wikiwand](https://www.wikiwand.com/zh-hant/%E4%B8%A6%E7%B3%BB%E7%BE%A4)
-[Paraphyly - Wikiwand](https://www.wikiwand.com/en/Paraphyly)
-[單系群 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%8D%95%E7%B3%BB%E7%BE%A4)
-[Monophyly - Wikiwand](https://www.wikiwand.com/en/Monophyly)
+[並系群 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%A6%E7%B3%BB%E7%BE%A4)
+[Paraphyly - Wikiwand](https://omni.wikiwand.com/en/Paraphyly)
+[單系群 - Wikiwand](https://omni.wikiwand.com/zh/%E5%8D%95%E7%B3%BB%E7%BE%A4)
+[Monophyly - Wikiwand](https://omni.wikiwand.com/en/Monophyly)
 [What do terms like monophyletic, paraphyletic and polyphyletic mean?](http://www.miketaylor.org.uk/dino/faq/s-class/phyletic/index.html)
 
-[國際動物命名規約 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%9B%BD%E9%99%85%E5%8A%A8%E7%89%A9%E5%91%BD%E5%90%8D%E6%B3%95%E8%A7%84)
-[International Code of Zoological Nomenclature - Wikiwand](https://www.wikiwand.com/en/International_Code_of_Zoological_Nomenclature)
-[Nomen dubium - Wikiwand](https://www.wikiwand.com/en/Nomen_dubium)
+[國際動物命名規約 - Wikiwand](https://omni.wikiwand.com/zh/%E5%9B%BD%E9%99%85%E5%8A%A8%E7%89%A9%E5%91%BD%E5%90%8D%E6%B3%95%E8%A7%84)
+[International Code of Zoological Nomenclature - Wikiwand](https://omni.wikiwand.com/en/International_Code_of_Zoological_Nomenclature)
+[Nomen dubium - Wikiwand](https://omni.wikiwand.com/en/Nomen_dubium)
 
-[模式種 - Wikiwand](https://www.wikiwand.com/zh-hant/%E6%A8%A1%E5%BC%8F%E7%A8%AE)
-[Type species - Wikiwand](https://www.wikiwand.com/en/Type_species)
-[Type (biology) - Wikiwand](<https://www.wikiwand.com/en/Type_(biology)>)
+[模式種 - Wikiwand](https://omni.wikiwand.com/zh/%E6%A8%A1%E5%BC%8F%E7%A8%AE)
+[Type species - Wikiwand](https://omni.wikiwand.com/en/Type_species)
+[Type (biology) - Wikiwand](<https://omni.wikiwand.com/en/Type_(biology)>)
 
 - holotype - the single specimen or illustration that the author(s) clearly indicated to be the nomenclatural type of a name
 - lectotype - a specimen or illustration designated from the original material as the nomenclatural type when there was no holotype specified or the holotype has been lost or destroyed

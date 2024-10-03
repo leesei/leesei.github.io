@@ -2,25 +2,25 @@
 title: Knot
 description: ""
 created: 2018-07-12
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - knot
   - trivia
 ---
 
-[Knot - Wikiwand](https://www.wikiwand.com/en/Knot)
-[List of knot terminology - Wikiwand](http://www.wikiwand.com/en/List_of_knot_terminology)
-[Bight (knot) - Wikiwand](<https://www.wikiwand.com/en/Bight_(knot)>) a curved section of rope, for slipped knot
+[Knot - Wikiwand](https://omni.wikiwand.com/en/Knot)
+[List of knot terminology - Wikiwand](http://omni.wikiwand.com/en/List_of_knot_terminology)
+[Bight (knot) - Wikiwand](<https://omni.wikiwand.com/en/Bight_(knot)>) a curved section of rope, for slipped knot
 
 [How strong is your knot? | MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2020/model-how-strong-knot-0102)
 
 capture the standing end:
 pass the standing end (usually with livestock) around a static object (usually a tree truck or a pole) through the knot to keep the standing end in-place
 
-[List of knots - Wikiwand](https://www.wikiwand.com/en/List_of_knots)
-[Overhand knot - Wikiwand](https://www.wikiwand.com/en/Overhand_knot) twist bight 180° (single loop) and pass the end through
-[Figure-eight knot - Wikiwand](https://www.wikiwand.com/en/Figure-eight_knot) twist bight 360° (double loop) and pass the end through
-[Slip knot - Wikiwand](https://www.wikiwand.com/en/Slip_knot) easy to untie knot, vs slipped knot
+[List of knots - Wikiwand](https://omni.wikiwand.com/en/List_of_knots)
+[Overhand knot - Wikiwand](https://omni.wikiwand.com/en/Overhand_knot) twist bight 180° (single loop) and pass the end through
+[Figure-eight knot - Wikiwand](https://omni.wikiwand.com/en/Figure-eight_knot) twist bight 360° (double loop) and pass the end through
+[Slip knot - Wikiwand](https://omni.wikiwand.com/en/Slip_knot) easy to untie knot, vs slipped knot
 [Siberian hitch - how to tie one, for absolute beginners - YouTube](https://www.youtube.com/watch?v=X0G1I1EUkhg) "slipped figure-eight with a captured standing end"
 
 [Trusted Knots by NetKnots | How to tie the right knots | Animated Knots for Fishing, Scouting, Boating, Climbing, Survival](https://www.netknots.com/)

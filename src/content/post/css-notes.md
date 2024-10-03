@@ -2,7 +2,7 @@
 title: CSS Notes
 description: ""
 created: 2015-12-21
-updated: 2023-10-19
+updated: 2024-04-02
 tags:
   - css
   - web
@@ -233,8 +233,10 @@ CSS props as classes. So instead of actually writing any CSS, you just apply the
 [Panda CSS - Build modern websites using build time and type-safe CSS-in-JS](https://panda-css.com/)
 [chakra-ui/panda: 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️](https://github.com/chakra-ui/panda)
 
+[Panda CSS First Impressions | Theo Reacts - YouTube](https://www.youtube.com/watch?v=UlY-Ixddjm0)
 [Panda CSS - Refactor a NextJS Typescript Quiz App from Tailwind to Panda CSS. - YouTube](https://www.youtube.com/watch?v=ZkUiMBUatEM)
 [Why Panda: CSS for RSCs is Changing the Game - YouTube](https://www.youtube.com/watch?v=fKSemrudovo)
+
 [jherr/barbenheimer: Completed barbenheimer example in TW and Panda-CSS](https://github.com/jherr/barbenheimer)
 
 ### Milligram
@@ -621,18 +623,25 @@ $x("//div[@class='con-box'][contains(., 'EPH Reader')]");
 ## For publishing/printing
 
 [Printing - Developer guides | MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/Printing)
+[CSS paged media - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_paged_media)
+[@page - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/@page)
+
+[Paged.js](https://pagedjs.org/) polyfill
+[pagedjs / pagedjs · GitLab](https://gitlab.coko.foundation/pagedjs/pagedjs/)
+[pagedjs / pagedjs-cli · GitLab](https://gitlab.coko.foundation/pagedjs/pagedjs-cli)
+
 [CSS At-Rules](https://www.quackit.com/css/at-rules/)
 [How to Create Printer-friendly Pages with CSS — SitePoint](https://www.sitepoint.com/css-printer-friendly-pages/)
 [A Guide To The State Of Print Stylesheets In 2018 — Smashing Magazine](https://www.smashingmagazine.com/2018/05/print-stylesheets-in-2018/)
 [How to print your HTML with style](https://flaviocopes.com/css-printing/)
 [print stylesheet Archives | CSS-Tricks](https://css-tricks.com/tag/print-stylesheet/)
+[Designing For Print With CSS — Smashing Magazine](https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/)
+[rachelandrew/css-for-print](https://github.com/rachelandrew/css-for-print)
 
 [print-css.rocks - PrintCSS CSS Paged Media tutorial and information](https://print-css.rocks/)
 [zopyx/print-css-rocks: CSS Paged Media tutorial and review of tools (repository for print-css.rocks)](https://github.com/zopyx/print-css-rocks)
 
 [Prince - Documentation](https://www.princexml.com/doc/) formatting HTML
-[Designing For Print With CSS — Smashing Magazine](https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/)
-[rachelandrew/css-for-print](https://github.com/rachelandrew/css-for-print)
 
 ## Positioning
 
@@ -680,6 +689,7 @@ The overlay should be a `absolute` position in a `relative` container, together 
 [What is the CSS ‘ch’ Unit? – Eric’s Archived Thoughts](https://meyerweb.com/eric/thoughts/2018/06/28/what-is-the-css-ch-unit/)
 [Learn CSS Units – Em, Rem, VH, and VW with Code Examples ✨✨](https://www.freecodecamp.org/news/learn-css-units-em-rem-vh-vw-with-code-examples/)
 [Investigating the new CSS viewport-relative units - LogRocket Blog](https://blog.logrocket.com/investigating-new-css-viewport-relative-units/) Vi, Vb
+[Use these instead of vh - YouTube](https://www.youtube.com/watch?v=ru3U8MHbFFI) dvh, svh, cvh
 
 [Logical Properties](https://web.dev/learn/css/logical-properties/) based on text rather than space, handles rlt and vertical layouts seamlessly
 [Late to Logical | CSS-Tricks - CSS-Tricks](https://css-tricks.com/late-to-logical/)
@@ -1013,6 +1023,7 @@ Responsive layout without media query:
 [What We Want from Grid | CSS-Tricks - CSS-Tricks](https://css-tricks.com/what-we-want-from-grid/) SVG scaling issue in comments
 [Simple Named Grid Areas - CSS-Tricks](https://css-tricks.com/simple-named-grid-areas/) ❗!important
 [Grid Layout Ah-ha Moment - Ahmad Shadeed](https://ishadeed.com/article/css-grid/) ❗!important
+[An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/) ❗!important
 [CSS Grid Handbook – Complete Guide to Grid Containers and Grid Items](https://www.freecodecamp.org/news/complete-guide-to-css-grid/)
 [CSS Grid Template Areas In Action - Ahmad Shadeed](https://ishadeed.com/article/grid-area/) [codepen](https://codepen.io/shadeed/pen/f88b1ee06e63a2691f24328c2123aeba)
 [How to Use CSS Grid Layout – Grid Properties Explained with Examples](https://www.freecodecamp.org/news/how-to-use-css-grid-layout/)
@@ -1102,6 +1113,9 @@ Responsive layout without media query:
 [Aligning Items in a Flex Container - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Aligning_Items_in_a_Flex_Container)
 [How to Center the Content Vertically and Horizontally with Flexbox](https://www.w3docs.com/snippets/css/how-to-center-the-content-vertically-and-horizontally-with-flexbox.html)
 [How to Center an Absolute Positioned Element Vertically and Horizontally with CSS](https://www.freecodecamp.org/news/how-to-center-an-absolute-positioned-element/)
+
+[How To Center a Div](https://www.joshwcomeau.com/css/center-a-div/)
+[I Finally Learned How To Center A Div - YouTube](https://www.youtube.com/watch?v=2kFJ1chvZII)
 
 [HTML Center Image – CSS Align Img Center Example](https://www.freecodecamp.org/news/html-center-image-css-align-img-center-example/)
 

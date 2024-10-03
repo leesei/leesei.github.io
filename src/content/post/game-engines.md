@@ -2,14 +2,16 @@
 title: Game Engines
 description: ""
 created: 2015-01-02
-updated: 2023-11-22
+updated: 2024-09-23
 tags:
   - game-dev
   - game-engine
   - games
 ---
 
-[Game engine - Wikiwand](http://www.wikiwand.com/en/Game_engine)
+[[3d-graphics]]
+
+[Game engine - Wikiwand](http://omni.wikiwand.com/en/Game_engine)
 [How Game Engines Work! - YouTube](https://www.youtube.com/watch?v=DKrdLKetBZE)
 [你瞭解「遊戲引擎」麼？【就知道玩遊戲 43】 - YouTube](https://www.youtube.com/watch?v=M0Q7iNKI5uc)
 [你瞭解遊戲引擎麼(二)：引擎進化的腳步【就知道玩遊戲 51】 - YouTube](https://www.youtube.com/watch?v=lyqdhw-ws6w)
@@ -17,12 +19,13 @@ tags:
 [借虚幻 5 发布，我们来聊聊以前的那些游戏图像引擎【Gadio Pro】丨机核 - YouTube](https://www.youtube.com/watch?v=DwbmaIHxZj4)
 [How do games render their scenes? | Bitwise - YouTube](https://www.youtube.com/watch?v=Oct4Oi-KfVQ)
 [The Evolution of Video Game Graphics Is Complicated - YouTube](https://www.youtube.com/watch?v=l5nxZ8Jycc0)
+[Game Development with Frameworks and Libraries - YouTube](https://www.youtube.com/watch?v=JFnLPyqkaTs)
 
 [quill18creates - YouTube](https://www.youtube.com/user/quill18creates)
 
-[List of game engines - Wikiwand](http://www.wikiwand.com/en/List_of_game_engines)
-[First-person shooter engine - Wikiwand](http://www.wikiwand.com/en/First-person_shooter_engine)
-[List of first-person shooter engines - Wikiwand](http://www.wikiwand.com/en/List_of_first-person_shooter_engines)
+[List of game engines - Wikiwand](http://omni.wikiwand.com/en/List_of_game_engines)
+[First-person shooter engine - Wikiwand](http://omni.wikiwand.com/en/First-person_shooter_engine)
+[List of first-person shooter engines - Wikiwand](http://omni.wikiwand.com/en/List_of_first-person_shooter_engines)
 
 [Underrated Game Engines Round-up – GameFromScratch.com](https://gamefromscratch.com/underrated-game-engines-round-up/)
 [Unity Alternatives in 2023 – GameFromScratch.com](https://gamefromscratch.com/unity-alternatives-in-2023/)
@@ -94,6 +97,9 @@ tags:
 [How Isometric Coordinates Work in 2D games - YouTube](https://www.youtube.com/watch?v=04oQ2jOUjkU)
 camera at infinitely far away creates an orthographic projection that removes distortion of tiles due to perspective
 
+[Programming Terrain Generation for my Farming Game - YouTube](https://www.youtube.com/watch?v=buKQjkad2I0)
+[Draw fewer tiles - by using a Dual-Grid system! - YouTube](https://www.youtube.com/watch?v=jEWFSv3ivTg)
+
 [Tiled Map Editor | A flexible level editor](https://www.mapeditor.org/)
 [A guide to level creation with Tiled [ + how to use it with pygame ] - YouTube](https://www.youtube.com/watch?v=N6xqCwblyiw)
 [Tiled Map Editor Tutorial Part One: The Basics - YouTube](https://www.youtube.com/watch?v=ZwaomOYGuYo)
@@ -163,6 +169,8 @@ CreateJS have multiple tools for game development
 
 [React Game Kit](http://reactnext.surge.sh/)
 [FormidableLabs/react-game-kit: Component library for making games with React & React Native](https://github.com/formidablelabs/react-game-kit)
+
+[Lunakepio/useGamepad: a useGamepad React Hook for GameController support](https://github.com/Lunakepio/useGamepad)
 
 [Matter.js - a 2D rigid body JavaScript physics engine](http://brm.io/matter-js/)
 [kripken/ammo.js: Direct port of the Bullet physics engine to JavaScript using Emscripten](https://github.com/kripken/ammo.js/)
@@ -244,7 +252,7 @@ Consoles, PC, probably web
 
 [FNA](https://fna-xna.github.io/) reimplementation of the Microsoft XNA Game Studio 4.0 Refresh libraries
 [FNA-XNA/FNA: FNA - Accuracy-focused XNA4 reimplementation for open platforms](https://github.com/FNA-XNA/FNA)
-[XNA Game Studio 4.0 Refresh | Microsoft Learn](<https://learn.microsoft.com/en-us/previous-versions/windows/xna/bb200104(v=xnagamestudio.41)?redirectedfrom=MSDN>)
+[XNA Game Studio 4.0 Refresh | Microsoft Learn](<https://learn.microsoft.com/en-us/previous-versions/windows/xna/bb200104(v=xnagamestudio.41)>)
 
 ### Heaps
 
@@ -305,6 +313,11 @@ Consoles, PC, probably web
 [AtomicGameEngine/AtomicGameEngine: The Atomic Game Engine is a multi-platform 2D and 3D engine with a consistent API in C++, C#, JavaScript, and TypeScript](https://github.com/AtomicGameEngine/AtomicGameEngine)
 
 [Home · AtomicGameEngine/AtomicGameEngine Wiki](https://github.com/AtomicGameEngine/AtomicGameEngine/wiki)
+
+## Kaiju Engine
+
+[Kaiju Engine - Kaiju Engine](https://kaijuengine.org/)
+[KaijuEngine/kaiju: Kaiju Engine - Multiplatform 2D and 3D Vulkan game engine written in Go/Golang](https://github.com/KaijuEngine/kaiju)
 
 ## Python
 
@@ -418,7 +431,7 @@ Fully compatible with XNA
 ## SFML
 
 [SFML](https://www.sfml-dev.org/) C++
-[Simple and Fast Multimedia Library - Wikiwand](https://www.wikiwand.com/en/Simple_and_Fast_Multimedia_Library)
+[Simple and Fast Multimedia Library - Wikiwand](https://omni.wikiwand.com/en/Simple_and_Fast_Multimedia_Library)
 
 [Sonkun/python-sfml: Official binding of SFML for Python](https://github.com/Sonkun/python-sfml)
 [jeremyletang/rust-sfml: SFML bindings for Rust](https://github.com/jeremyletang/rust-sfml)
@@ -442,6 +455,8 @@ Fully compatible with XNA
 [Tutorial – Gaming with Godot » Linux Magazine](https://www.linux-magazine.com/Issues/2021/244/Gaming-for-Godot)
 
 [Godot is not the new Unity - YouTube](https://www.youtube.com/watch?v=Vor7ZPt8cUE) Godot is for hobbists
+
+[How to make a Video Game - Godot Beginner Tutorial - YouTube](https://www.youtube.com/watch?v=LOhfqjmasi0&t=14s)
 
 > remove pre 4.0 articles
 
@@ -552,7 +567,7 @@ Titles:
 
 License: ~~Free for development / Pay What You Want~~ 5% royalty after 5.0 (2018)
 
-[CryEngine - Wikiwand](http://www.wikiwand.com/en/CryEngine)
+[CryEngine - Wikiwand](http://omni.wikiwand.com/en/CryEngine)
 [CryENGINE | Crytek](http://www.crytek.com/cryengine)
 [CRYENGINE | The complete solution for next generation game development by Crytek](https://www.cryengine.com/)
 [CRYTEK-CRYENGINE/CRYENGINE: CRYENGINE source code.](https://github.com/CRYTEK-CRYENGINE/CRYENGINE)
@@ -568,14 +583,14 @@ Titles:
 
 License: Proprietary
 
-[id Tech 5 - Wikiwand](http://www.wikiwand.com/en/Id_Tech_5)
+[id Tech 5 - Wikiwand](http://omni.wikiwand.com/en/Id_Tech_5)
 
-[id Tech 4 - Wikiwand](http://www.wikiwand.com/en/Id_Tech_4)
+[id Tech 4 - Wikiwand](http://omni.wikiwand.com/en/Id_Tech_4)
 [Doom3 Source Code Review: Introduction](http://fabiensanglard.net/doom3/)
 [Doom3 BFG Source Code Review: Introduction](http://fabiensanglard.net/doom3_bfg/index.php)
 [Doom3 BFG Documentation](http://fabiensanglard.net/doom3_documentation/index.php)
 
-[id Tech 3 - Wikiwand](http://www.wikiwand.com/en/Id_Tech_3)
+[id Tech 3 - Wikiwand](http://omni.wikiwand.com/en/Id_Tech_3)
 [Quake 3 Source Code Review: Architecture](http://fabiensanglard.net/quake3/index.php)
 
 ## Frostbite
@@ -594,7 +609,7 @@ Titles:
 
 License: Proprietary
 
-[Frostbite (game engine) - Wikiwand](<https://www.wikiwand.com/en/Frostbite_(game_engine)>)
+[Frostbite (game engine) - Wikiwand](<https://omni.wikiwand.com/en/Frostbite_(game_engine)>)
 [Frostbite - Game Engine](http://www.frostbite.com/)
 
 DICE has pushed the Frostbite engine to all games in EA since its bought out in 2006.
@@ -609,7 +624,7 @@ Titles:
 
 License:
 
-[Source (game engine) - Wikiwand](<http://www.wikiwand.com/en/Source_(game_engine)>)
+[Source (game engine) - Wikiwand](<http://omni.wikiwand.com/en/Source_(game_engine)>)
 
 ## Unity
 
@@ -617,13 +632,14 @@ better 2.5D on mobile and web, larger community/store
 
 License: free for first \$100 thousand in game revenue
 
-[Unity (game engine) - Wikiwand](<http://www.wikiwand.com/en/Unity_(game_engine)>)
+[Unity (game engine) - Wikiwand](<http://omni.wikiwand.com/en/Unity_(game_engine)>)
 [Unity - Game engine, tools and multiplatform](http://unity3d.com/unity)
 [UNITY does WHAT NOW?? The State of Unity - YouTube](https://www.youtube.com/watch?v=iOjisA9KnHA) 2022-12
 
 [Unity - Manual: Unity User Manual 2020.3 (LTS)](https://docs.unity3d.com/Manual/index.html)
 [Unity - Scripting API:](https://docs.unity3d.com/ScriptReference/index.html)
 
+[Unity C# and Shader Tutorials](https://catlikecoding.com/unity/tutorials/) ❗!important
 [Unity - Tuts+ Code Category](http://code.tutsplus.com/categories/unity)
 [Introduction to Mobile Augmented Reality Development in Unity | Programming Historian](http://programminghistorian.org/lessons/intro-to-augmented-reality-with-unity)
 [Starting with Unity: Tutorial for Beginners – LiveEdu.tv](https://blog.liveedu.tv/unity-tutorial/)
@@ -689,11 +705,12 @@ Cross platform (PC and consoles)
 [The most powerful real-time 3D creation platform - Unreal Engine](https://www.unrealengine.com/en-US/)
 [Epic Online Services featuring Epic Account and Game Services - Unreal Engine](https://www.unrealengine.com/en-US/blog/epic-online-services-featuring-epic-account-and-game-services)
 
-[Unreal Engine - Wikiwand](http://www.wikiwand.com/en/Unreal_Engine)
+[Unreal Engine - Wikiwand](http://omni.wikiwand.com/en/Unreal_Engine)
 [Evolution of Unreal Engine 1995-2022 - YouTube](https://www.youtube.com/watch?v=TaLiMiyi2g4)
 
 [Online Learning - Unreal Engine](https://www.unrealengine.com/en-US/onlinelearning-courses)
 [80 Level Ratings: Best YouTube Channels With Unreal Engine Tutorials](https://80.lv/articles/80-level-ratings-best-youtube-channels-with-unreal-engine-tutorials/)
+[An Ultimate Free Beginner's Course on Unreal Engine 5 Unveiled](https://80.lv/articles/an-ultimate-free-beginner-s-course-on-unreal-engine-5-unveiled/)
 [WoodyDevs - YouTube](https://www.youtube.com/@WoodyDevs)
 [Unreal Sensei - YouTube](https://www.youtube.com/@UnrealSensei)
 
@@ -703,12 +720,13 @@ Cross platform (PC and consoles)
 [What Unreal Engine 5 means for the games industry...and you | bit-tech.net](https://bit-tech.net/features/gaming/pc/what-unreal-engine-5-means-for-the-games-industryand-you/1/)
 [What Unreal Engine 5 Means for the Games Industry - IGN](https://www.ign.com/articles/what-unreal-engine-5-means-for-the-games-industry)
 [Tech Analysis: Unreal Engine 5 on PS5 - Epic's Next-Gen Leap Examined In-Depth - YouTube](https://www.youtube.com/watch?v=iIDzZJpDlpA)
+[Unreal Engine 5 is AMAZING! - YouTube](https://www.youtube.com/watch?v=xbfJD6f-4F8)
 [從入門到真香！全面預探虛幻 Unreal 5 新技術！【就知道玩遊戲 102】 - YouTube](https://www.youtube.com/watch?v=rcTd_outcew)
 [【亦】虚幻 5，国产单机游戏的机会来了？ - YouTube](https://www.youtube.com/watch?v=I1NbidggLKI)
 [Welcome to Unreal Engine 5 Early Access - YouTube](https://www.youtube.com/watch?v=d1ZnM7CH-v4)
-[Unreal Engine 5 is AMAZING! - YouTube](https://www.youtube.com/watch?v=xbfJD6f-4F8)
 [《黑客帝國》虛幻 5 技術解析：最强游戏画面？做 3A 有手就行？｜大狸子切切裡 - YouTube](https://www.youtube.com/watch?v=T1vOoRTo0Hg)
 [黑科技 Unreal Engine 5 (UE5)｜初探 Nanite 模型導入與 Lumen 設定 - YouTube](https://www.youtube.com/watch?v=z33w72tqTSA)
+[黑神话悟空技术评测：PS5和PC优化如何？精美画面是怎么做的？ - YouTube](https://www.youtube.com/watch?v=UoiiBM00GQ8)
 Nanite: "deep zoom" level of details for 3D objects (low res at distance), seamless zoom
 Lumen: non-ray-traced global illumination
 [Nanite: Everything You Should Know [Unreal Engine 5] - YouTube](https://www.youtube.com/watch?v=P65cADzsP8Q)
@@ -732,7 +750,7 @@ Unreal Sensei
 
 ## REDengine
 
-[REDengine - Wikiwand](https://www.wikiwand.com/zh-hant/REDengine)
+[REDengine - Wikiwand](https://omni.wikiwand.com/zh/REDengine)
 
 Company: CDPR
 Titles:
@@ -748,7 +766,7 @@ Company: Bethesda
 
 License: free for revenue or funding less than $100K
 
-[Unigine - Wikiwand](https://www.wikiwand.com/en/Unigine)
+[Unigine - Wikiwand](https://omni.wikiwand.com/en/Unigine)
 [UNIGINE: real-time 3D engine](https://unigine.com/)
 
 ## Quark

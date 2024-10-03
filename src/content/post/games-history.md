@@ -2,22 +2,33 @@
 title: Games History
 description: ""
 created: 2019-06-20
-updated: 2023-10-20
+updated: 2024-09-02
 tags:
   - games
   - history
 ---
 
+[codetapper - YouTube](https://www.youtube.com/@Codetapper)
 [Gaming Historian - YouTube](https://www.youtube.com/@GamingHistoria)
-[Retrohistories - YouTube](https://www.youtube.com/@retrohistories)
-[strafefox - YouTube](https://www.youtube.com/@strafefox)
 [GVMERS - YouTube](https://www.youtube.com/@GVMERS)
 [LowSpecGamer - YouTube](https://www.youtube.com/@LowSpecGamer)
-[Thomas Game Docs - YouTube](https://www.youtube.com/@ThomasGameDocs)
-[The Golden Bolt - YouTube](https://www.youtube.com/@TheGoldenBolt)
 [NeverKnowsBest - YouTube](https://www.youtube.com/@NeverKnowsBest)
+[Noclip - YouTube](https://www.youtube.com/@NoclipDocs) Game documentaries
+[Noclip Crew - YouTube](https://www.youtube.com/@NoclipCrew)
+[Retrohistories - YouTube](https://www.youtube.com/@retrohistories)
+[strafefox - YouTube](https://www.youtube.com/@strafefox)
+[ThatGuyGlen - YouTube](https://www.youtube.com/@ThatGuyGlen)
+[The Golden Bolt - YouTube](https://www.youtube.com/@TheGoldenBolt)
+[The Nostalgic Gamer - YouTube](https://www.youtube.com/@TheNostalgicGamer)
+[Thomas Game Docs - YouTube](https://www.youtube.com/@ThomasGameDocs)
+[War Stories - YouTube](https://www.youtube.com/playlist?list=PLKBPwuu3eCYkScmqpD9xE7UZsszweVO0n) Ars Technica
 
-[I am Error - Wikiwand](https://www.wikiwand.com/en/I_am_Error)
+[NG 小熊 - YouTube](https://www.youtube.com/@ng4497)
+[游研社 YYSTV - YouTube](https://www.youtube.com/@YYSTV)
+[遊戲浪人 - YouTube](https://www.youtube.com/@user-uw2hp5en8q)
+[游戏茶馆 - YouTube](https://www.youtube.com/@gameteahouse)
+
+[I am Error - Wikiwand](https://omni.wikiwand.com/en/I_am_Error)
 
 [The Entire History of Video Games - YouTube](https://www.youtube.com/watch?v=argpSxB1NQE) NeverKnowsBest, 5:59:29
 
@@ -25,26 +36,13 @@ tags:
 [Legends of Localization - Exploring the best & worst game translations](https://legendsoflocalization.com/)
 
 [Sega Megadrive Video Game Programming - YouTube](https://www.youtube.com/playlist?list=PLzH6n4zXuckpNBPBn9BzKN4Ms_dkDFF6S)
-[How we fit an NES game into 40 Kilobytes - YouTube](https://www.youtube.com/watch?v=ZWQ0591PAxM&t=643s)
-
-[Retro Game Mechanics Explained - YouTube](https://www.youtube.com/@RGMechEx)
-[Pac-Man Ghost AI Explained - YouTube](https://www.youtube.com/watch?v=ataGotQ7ir8)
-
-[The Nostalgic Gamer - YouTube](https://www.youtube.com/@TheNostalgicGamer)
-[Darkstalkers Forever Project - YouTube](https://www.youtube.com/playlist?list=PLuzXM6Wx_4n2R18xpPNdZChZHC6xYVXhQ)
-
-[codetapper - YouTube](https://www.youtube.com/@Codetapper)
-
-[War Stories - YouTube](https://www.youtube.com/playlist?list=PLKBPwuu3eCYkScmqpD9xE7UZsszweVO0n) Ars Technica
+[How we fit an NES game into 40 Kilobytes - YouTube](https://www.youtube.com/watch?v=ZWQ0591PAxM)
 
 [【亦】游戏作弊码是怎么来的？又是怎么没的？ - YouTube](https://www.youtube.com/watch?v=jDnqiPyWLhY)
 
-[Noclip - YouTube](https://www.youtube.com/@NoclipDocs) Game documentaries
-[ThatGuyGlen - YouTube](https://www.youtube.com/@ThatGuyGlen)
-[NG 小熊 - YouTube](https://www.youtube.com/@ng4497)
-[游研社 YYSTV - YouTube](https://www.youtube.com/@YYSTV)
-[遊戲浪人 - YouTube](https://www.youtube.com/@user-uw2hp5en8q)
-
+[Retro Game Mechanics Explained - YouTube](https://www.youtube.com/@RGMechEx)
+[Pac-Man Ghost AI Explained - YouTube](https://www.youtube.com/watch?v=ataGotQ7ir8)
+[Darkstalkers Forever Project - YouTube](https://www.youtube.com/playlist?list=PLuzXM6Wx_4n2R18xpPNdZChZHC6xYVXhQ)
 [Dungeon Generation in Diablo 1 – BorisTheBrave.Com](https://www.boristhebrave.com/2019/07/14/dungeon-generation-in-diablo-1/)
 [Street Fighter 1: An oral history - Polygon](https://www.polygon.com/2020/7/7/21270906/street-fighter-1-oral-history-takashi-nishiyama)
 [The Secret Of Monkey Island, 30 Years Later](https://kotaku.com/looking-at-the-secret-of-monkey-island-through-ron-gilb-1845456083)
@@ -71,6 +69,9 @@ tags:
 [【科技杂谈 84】任天堂 NDS 掌机发展史第三期——NDSL，天下无敌（NDS 历史） - YouTube](https://www.youtube.com/watch?v=-kNd8u2XWGw)
 [【科技杂谈 85】任天堂 NDS 掌机发展史第四期——R4,改变世界的烧录卡（NDS 历史） - YouTube](https://www.youtube.com/watch?v=K8IHR4XRTa0)
 [【科技杂谈 86】任天堂 NDS 掌机发展史大结局——后无来者的传奇（NDS 历史） - YouTube](https://www.youtube.com/watch?v=cDB3A_RShDc)
+
+[The Insane Engineering of the Gameboy - YouTube](https://www.youtube.com/watch?v=BKm45Az02YE)
+[The Chaotic Story Of The Making Of The Game Boy - From Cancelled By Nintendo, To Best Selling - YouTube](https://www.youtube.com/watch?v=HlxH_Th3-LI)
 
 [NesHacker - YouTube](https://www.youtube.com/@NesHacker)
 
@@ -128,9 +129,16 @@ tags:
 [Knee Deep in the Dead: The History of First-Person Shooters | PCMag](https://www.pcmag.com/news/the-complete-history-of-first-person-shooters)
 [Why Doom is Awesome: Binary Space Partitioning - YouTube](https://www.youtube.com/watch?v=hYMZsMMlubg)
 
+[id-Software/DOOM-3: Doom 3 GPL source release](https://github.com/id-Software/DOOM-3)
+[Doom3 Source Code Review: Introduction](https://fabiensanglard.net/doom3/)
+[So I Reviewed the DOOM 3 Source Code.. - YouTube](https://www.youtube.com/watch?v=C_ymp74yobE)
+
 ## Battle Ogre/Ogre Tatics
 
 [S·RPG 的丰碑:《皇家骑士团》全系列回顾【游戏通鉴 Vol.16 SP（上）】 - YouTube](https://www.youtube.com/watch?v=JvKNQ0fww7o)
+[塞提基内亚的革命风暴：《皇家骑士团1》全剧情讲解 【游戏通鉴Vol.16 SP（下）- 1】 - YouTube](https://www.youtube.com/watch?v=d3zm0TgeKL4)
+
+[《皇家騎士團2：重生》初見全破心得➤+遊玩必知注意事項(不然不少人都噴到快棄坑了)【老K遊戲】(JSLG)(戰棋遊戲) - YouTube](https://www.youtube.com/watch?v=mhHCiMhH0g8)
 
 ## Prince of Persia
 
@@ -143,15 +151,21 @@ tags:
 [Crash Bandicoot Co-Creator Andy Gavin: Extended Interview | Ars Technica - YouTube](https://www.youtube.com/watch?v=pSHj5UKSylk)
 [US20070066403A1 - Method for dynamically adjusting an interactive application such as a videogame based on continuing assessments of user capability - Google Patents](https://patents.google.com/patent/US20070066403A1/en)
 
-## Bio Hazard
+## Biohazard
 
 [【万字解析】一口气看完生化危机 0 到生化危机 8 的编年史，25 年的时光都改变了什么 resident evil village - YouTube](https://www.youtube.com/watch?v=htRcR_b7YU8)
 
-[這才是原味的生存恐怖!【生化危機/惡靈古堡 1】原版+重製版 完全鑒賞 Resident Evil 1 - YouTube](https://www.youtube.com/watch?v=d66PEOEPU_o)
-[老生化時代的巔峰「生化危機 2/惡靈古堡 2」原版+重製版 完全鑒賞 (Resident Evil 2) 4K60 畫質 - YouTube](https://www.youtube.com/watch?v=jiWWfT5Q-hg)
+[老生化時代結束, 卡普空開始吃書 -「生化危機0/惡靈古堡0」專題: 一部精緻但尷尬的前傳 ︳Resident Evil Zero - YouTube](https://www.youtube.com/watch?v=yimj3seARmk) 2002, last "tank" control RE game
+[這才是原味的生存恐怖!【生化危機/惡靈古堡 1】原版+重製版 完全鑒賞 Resident Evil 1 - YouTube](https://www.youtube.com/watch?v=d66PEOEPU_o) 1996
+[老生化時代的巔峰「生化危機 2/惡靈古堡 2」原版+重製版 完全鑒賞 (Resident Evil 2) 4K60 畫質 - YouTube](https://www.youtube.com/watch?v=jiWWfT5Q-hg) 1998
 [【生化危機/惡靈古堡系列】莫依菈/娜塔莉亞 - 暴躁少女孤島驚魂記 (遊戲統計局#52)(女子圖鑒) Resident Evil Revelations 2 - YouTube](https://www.youtube.com/watch?v=5cuaO-e9BjQ)
-[為什麼這個遊戲永遠不過時?【生化危機 4】全鑒賞 (惡靈古堡 4) Resident Evil 4 - YouTube](https://www.youtube.com/watch?v=D0Z0vhw8oY8)
+[趕工出經典, 重製毀童年!【生化危機/惡靈古堡3】原版+重製版 完全鑒賞 Resident Evil 3 Nemesis - YouTube](https://www.youtube.com/watch?v=uP3LIwWuSmk) 1999
+[腦洞最大的生化危機!【聖女密碼/代號維羅妮卡】完全鑒賞 Resident Evil Code Veronica ︳惡靈古堡 - YouTube](https://www.youtube.com/watch?v=obQVGJrl-dk) 2000, released as DC exclusive around the same time as Biohazard 3
+
+[為什麼這個遊戲永遠不過時?【生化危機 4】全鑒賞 (惡靈古堡 4) Resident Evil 4 - YouTube](https://www.youtube.com/watch?v=D0Z0vhw8oY8) 2005, first over shoulder shooter
 [又吃書了?!「生化危機/惡靈古堡 4」新版/原版全部區別解析 Resident Evil 4 Remake (4K60 畫質) - YouTube](https://www.youtube.com/watch?v=6IJCrTDwzCA)
+[生化銷量老大, 為何常年被罵?「生化危機5/惡靈古堡5」完全鑒賞 ︳Resident Evil 5 - YouTube](https://www.youtube.com/watch?v=eRD50rqaaT0) 2009
+[至少還有CP嗑嘛~【生化危機6/惡靈古堡6】鑒賞: 傳說中的最爛一代? ︳Resident Evil 6 - YouTube](https://www.youtube.com/watch?v=5je23aozarQ) 2012
 [「惡靈古堡/生化危機 7」回顧 - 八代主角伊森是誰？Resident Evil 7 Biohazard 2017 - YouTube](https://www.youtube.com/watch?v=ZV6CGOVimLw)
 [村裡那點事~ 「惡靈古堡 8/生化危機 8 村莊」評鑒+劇情詳解 - Resident Evil Village 2021 - YouTube](https://www.youtube.com/watch?v=Gu5t15wMYbE)
 [最強毒二代之謎! 《蘿絲魅影》(生化危機/惡靈古堡 8 村莊) DLC 解析 Resident Evil Village Shadow of Rose 2022 - YouTube](https://www.youtube.com/watch?v=S1V5dZwcW1E)
@@ -188,7 +202,9 @@ Speed runs usually exploit glitches in game.
 [Modern Vintage Gamer - YouTube](https://www.youtube.com/@ModernVintageGamer)
 
 [Retro Station History Part 1: The Early History - Indiegala Blog](https://blog.indiegala.com/index.php/retro-station-history-part-1-the-early-history/)
-[Retro Stations Part 2: New Kids On The Block - Indiegala Blog](https://blog.indiegala.com/index.php/retro-stations-part-2-new-kids-on-the-block/?utm_source=sendinblue&utm_campaign=The_Outer_Worlds_-_Crackerjack_-_20200723&utm_medium=email)
+[Retro Stations Part 2: New Kids On The Block - Indiegala Blog](https://blog.indiegala.com/index.php/retro-stations-part-2-new-kids-on-the-block/)
+
+[Mistakes Were Made - The Console Security Marathon - YouTube](https://www.youtube.com/watch?v=8iEb266ZfWQ)
 
 [PlayStation anniversary issue: 25 years of games and consoles - The Verge](https://www.theverge.com/2019/12/3/20970458/playstation-anniversary-ps5-ps4-plus-games-ps3-ps2-25th-sony)
 [有史以来销量最高的游戏主机：一代神机 PS2！那些你知或不知的历史 - YouTube](https://www.youtube.com/watch?v=mSQQxtCLg4A)

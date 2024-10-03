@@ -2,7 +2,7 @@
 title: Laptop
 description: Mostly my study of laptop on market in 2019
 created: 2019-05-03
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - comp/hardware
   - laptop
@@ -24,9 +24,9 @@ D: Bottom Case
 
 [2019 年 10 款轻薄笔记本推荐：这些真的不错，值得等待 - 知乎](https://zhuanlan.zhihu.com/p/54727484)
 
-[Mobile Internet device - Wikiwand](https://www.wikiwand.com/en/Mobile_Internet_device)
-[Ultra-mobile PC - Wikiwand](https://www.wikiwand.com/en/Ultra-mobile_PC)
-[Ultrabook - Wikiwand](https://www.wikiwand.com/en/Ultrabook)
+[Mobile Internet device - Wikiwand](https://omni.wikiwand.com/en/Mobile_Internet_device)
+[Ultra-mobile PC - Wikiwand](https://omni.wikiwand.com/en/Ultra-mobile_PC)
+[Ultrabook - Wikiwand](https://omni.wikiwand.com/en/Ultrabook)
 
 ## Lenovo
 

@@ -2,13 +2,13 @@
 title: Cognitive Behavioural Therapy
 description: ""
 created: 2016-07-02
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - cbt
   - economics
 ---
 
-[Cognitive behavioral therapy - Wikiwand](https://www.wikiwand.com/en/Cognitive_behavioral_therapy)
+[Cognitive behavioral therapy - Wikiwand](https://omni.wikiwand.com/en/Cognitive_behavioral_therapy)
 Challenge your thoughts, help patients recover faster than traditional Freudian therapy.
 [百度百科*V 百科*行为经济学有多牛](https://baike.baidu.com/vbaike/行为经济学有多牛/19518)
 

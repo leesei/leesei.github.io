@@ -2,7 +2,7 @@
 title: Tmux
 description: ""
 created: 2014-12-11
-updated: 2023-11-14
+updated: 2024-04-23
 tags:
   - app
   - shell-tool
@@ -21,6 +21,7 @@ tags:
 DevOps Toolbox
 [NINJA Level Productivity: Master Tmux in 7 Minutes - YouTube](https://www.youtube.com/watch?v=UtINDdy-xBc)
 [A UX Expert Fixes My Tmux - YouTube](https://www.youtube.com/watch?v=_hnuEdrM-a0)
+[Tmux From Scratch To BEAST MODE - YouTube](https://www.youtube.com/watch?v=GH3kpsbbERo)
 
 [Terminal Multiplexers: Screen, Tmux - Hyperpolyglot](http://hyperpolyglot.org/multiplexers)
 [A Gentle Introduction to tmux. What is tmux? | by Alek Shnayder | HackerNoon.com | Medium](https://medium.com/hackernoon/a-gentle-introduction-to-tmux-8d784c404340)
@@ -339,8 +340,9 @@ tmux has-session -t ${SESSION} || {
 tmux -2 attach-session -t ${SESSION}
 ```
 
+[omerxx/tmux-sessionx: A Tmux session manager, with preview, fuzzy finding, and MORE](https://github.com/omerxx/tmux-sessionx)
 [iasj/IniTmux: Initializer for Tmux](https://github.com/iasj/IniTmux) requires Python
-[tmuxinator/tmuxinator: Manage complex tmux sessions easily](https://github.com/tmuxinator/tmuxinator) requires Ruby
+[tmuxinator/tmuxinator: Manage complex tmux sessions easily](https://github.com/tmuxinator/tmuxinator) 👎requires Ruby
 
 ### tmuxifier
 
@@ -362,5 +364,6 @@ git clone https://github.com/jimeh/tmuxifier.git ~/.tmuxifier
 [You need to see what Zellij just released! - YouTube](https://www.youtube.com/watch?v=HaJoRgBlRc8)
 [Zellij for Tmuxers - YouTube](https://www.youtube.com/watch?v=Cd8P4hBC8i8)
 [What is Zellij? Terminal workspace management - YouTube](https://www.youtube.com/watch?v=gtjPeTCkm-8)
+[What the hell is Zellij? - YouTube](https://www.youtube.com/watch?v=ZPfQS5FHNYQ)
 
 [Zellij - YouTube](https://www.youtube.com/playlist?list=PLLLtqOZfy0pdaA_7XkDRpf-RV1sQrWLJL)

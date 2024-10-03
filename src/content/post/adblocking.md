@@ -2,7 +2,7 @@
 title: Adblocking
 description: ""
 created: 2018-07-27
-updated: 2023-10-25
+updated: 2024-09-15
 tags:
   - web
 ---
@@ -22,10 +22,10 @@ Adblocker allows Google to filter out those who won't click ads, this increases 
 
 ## uBlock
 
-[uBlock Origin - Chrome Web Store](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
+[uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
 [gorhill/uBlock: uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.](https://github.com/gorhill/uBlock)
 
-[uBlock Origin - Wikiwand](https://www.wikiwand.com/en/UBlock_Origin)
+[uBlock Origin - Wikiwand](https://omni.wikiwand.com/en/UBlock_Origin)
 [Home · gorhill/uBlock Wiki](https://github.com/gorhill/uBlock/wiki)
 [uBlock vs. ABP: efficiency compared · gorhill/uBlock Wiki](https://github.com/gorhill/uBlock/wiki/uBlock-vs.-ABP:-efficiency-compared)
 
@@ -37,8 +37,8 @@ Adblocker allows Google to filter out those who won't click ads, this increases 
 
 I ditched the Adblock/Adblock Plus family and turned to Nano Adblocker for the anti adblock feature. The lighter footprint is a plus.
 
-[Nano Adblocker - Chrome Web Store](https://chrome.google.com/webstore/detail/nano-adblocker/gabbbocakeomblphkmmnoamkioajlkfo) uBlock Origin fork that integrates better with Nano Defender
-[Nano Defender - Chrome Web Store](https://chrome.google.com/webstore/detail/nano-defender/ggolfgbegefeeoocgjbmkembbncoadlb)
+[Nano Adblocker](https://chromewebstore.google.com/detail/nano-adblocker/gabbbocakeomblphkmmnoamkioajlkfo) uBlock Origin fork that integrates better with Nano Defender
+[Nano Defender](https://chromewebstore.google.com/detail/nano-defender/ggolfgbegefeeoocgjbmkembbncoadlb)
 [NanoAdblocker/NanoCore: Just another adblocker](https://github.com/NanoAdblocker/NanoCore)
 
 Edit: Nano Adblocker's rules seems to break some site (Viu.com), I fall back to uBlock Origin + Nano Defender
@@ -47,7 +47,7 @@ Edit: Nano Adblocker's rules seems to break some site (Viu.com), I fall back to 
 [Integrate Nano Defender with uBlock Origin to block Anti-Adblocker - gHacks Tech News](https://www.ghacks.net/2019/02/15/integrate-nano-defender-with-ublock-origin-to-block-anti-adblocker/)
 Add `https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoFilters/NanoResources.txt` to `userResourcesLocation` of Advanced settings.
 
-## Custom Filter
+## Custom Filter/Filter Syntax
 
 [Static filter syntax · gorhill/uBlock Wiki](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax)
 [Adblock Plus filters explained](https://adblockplus.org/filter-cheatsheet)
@@ -93,7 +93,7 @@ Snippets that can be added to filter (like Userscript)
 [jspenguin2017/uBlockProtector: An anti-adblock defuser for Nano Adblocker and uBlock Origin](https://github.com/jspenguin2017/uBlockProtector)
 
 [Detecting Adblocker Blockers - Schneier on Security](https://www.schneier.com/blog/archives/2018/01/detecting_adblo.html)
-[TNR: How To Bypass Websites that Block "AdBlock" (e.g. Forbes)](http://technewsreporter.blogspot.com/2015/12/how-to-bypass-websites-that-block-ad.html)
+[How To Bypass Websites that Block "AdBlock" (e.g. Forbes)](https://www.techlaco.com/2015/12/how-to-bypass-websites-that-block-ad.html)
 
 ## Discussion/Ethics
 

@@ -2,31 +2,37 @@
 title: Maker
 description: ""
 created: 2018-10-16
-updated: 2023-11-02
+updated: 2024-08-18
 tags:
   - maker
 ---
 
 [DIY Perks - YouTube](https://www.youtube.com/@DIYPerks)
-[Stuff Made Here - YouTube](https://www.youtube.com/@StuffMadeHere)
-[Stuff Made Here 2 - YouTube](https://www.youtube.com/@StuffMadeHere2)
+[Hacksmith Industries - YouTube](https://www.youtube.com/@theHacksmith)
+[Hedgehog 刺蝟幫 - YouTube](https://www.youtube.com/@hedgehogTW)
+[hksubwoofer - YouTube](https://www.youtube.com/@hksubwoofer)
+[How To Make Everything - YouTube](https://www.youtube.com/@htme)
+[Mark Rober - YouTube](https://www.youtube.com/@MarkRober) squirrel obstacle courses
+[OLMMvideo - YouTube](https://www.youtube.com/@OLMMvideo)
+[Owen 来造\_Owen to create - YouTube](https://www.youtube.com/@owen_owentocreate121)
 [PeterSripol - YouTube](https://www.youtube.com/@PeterSripol)
 [Plasma Channel - YouTube](https://www.youtube.com/@PlasmaChannel)
-[OLMMvideo - YouTube](https://www.youtube.com/@OLMMvideo)
+[Sine Tech - YouTube](https://www.youtube.com/@sinetech19)
+[Stuff Made Here - YouTube](https://www.youtube.com/@StuffMadeHere)
+[Stuff Made Here 2 - YouTube](https://www.youtube.com/@StuffMadeHere2)
 [Xyla Foxlin - YouTube](https://www.youtube.com/@xylafoxlin)
-[Hacksmith Industries - YouTube](https://www.youtube.com/@theHacksmith)
-[How To Make Everything - YouTube](https://www.youtube.com/@htme)
-[Sine Tech - YouTube](https://www.youtube.com/@sinetech19)[Hedgehog 刺蝟幫 - YouTube](https://www.youtube.com/@hedgehogTW)
-[小芊枫 XiaoQianFeng - YouTube](https://www.youtube.com/@Xiaoqianfeng)
-[Owen 来造\_Owen to create - YouTube](https://www.youtube.com/@owen_owentocreate121)
-[hksubwoofer - YouTube](https://www.youtube.com/@hksubwoofer)
 [大匠夫 MakerSoulHK - YouTube](https://www.youtube.com/@MakerSoulHK)
+[小芊枫 XiaoQianFeng - YouTube](https://www.youtube.com/@Xiaoqianfeng)
+[老师好我叫何同学 - YouTube](https://www.youtube.com/@hetongxue)
+[黃小潔Jerry - YouTube](https://www.youtube.com/@1129jerry)
 
 [17,342 pounds of tools to make... this? - YouTube](https://www.youtube.com/watch?v=SjJulcvTA7Y&t=62s)
 
 [Things you can make from old, dead laptops - YouTube](https://www.youtube.com/watch?v=WLP_L7Mgz6M)
 [Transforming dead earbuds into POWERFUL wireless speakers - YouTube](https://www.youtube.com/watch?v=zNHDbXAmY_0)
+
 [Old pinball machines are amazingly complex - YouTube](https://www.youtube.com/watch?v=ue-1JoJQaEg) pre-digital, electro-mechanical device
+[Tilting, taking turns, and winning free games: the many tricks inside old pinball machines - YouTube](https://www.youtube.com/watch?v=XeDCCNFAULk)
 
 [胡搞蝦搞 | 704 卡夫特 矽橡膠 使用 經驗 應用 分享 DIY - YouTube](https://www.youtube.com/watch?v=rDDcJQGJLEI)
 [三秒膠黏到手自救法 快乾有毒你怎麼還在用？【超認真少年】LOCTITE 401 SUPER GLUE - YouTube](https://www.youtube.com/watch?v=oLcHF37QqIQ)
@@ -49,8 +55,8 @@ Clay like when opened, rubber like after one day.
 
 ## Clay
 
-[Clay - Wikiwand](https://www.wikiwand.com/en/clay)
-[黏土 - Wikiwand](https://www.wikiwand.com/zh-hant/%E9%BB%8F%E5%9C%9F)
+[Clay - Wikiwand](https://omni.wikiwand.com/en/clay)
+[黏土 - Wikiwand](https://omni.wikiwand.com/zh/%E9%BB%8F%E5%9C%9F)
 
 [How To Identify Clay in Nature - YouTube](https://www.youtube.com/watch?v=nqiJJDzR3vw)
 [How To Make Clay At Home (It's Just Dirt) - YouTube](https://www.youtube.com/watch?v=ca20JkKFAcE)
@@ -59,20 +65,24 @@ Clay like when opened, rubber like after one day.
 ## 3D Printing
 
 - 熔融沉積成型 FDM
-  PLA, ABS, PETG
+  PLA, ABS, PETG (harder)
 - 立體光固化成型 SLA/DLP/LCD
-  光敏樹脂
-- 粉末成型 SLS/SLM
+  光敏樹脂, 樹脂類
+- 選擇性激光燒結 SLS/SLM
+  粉末類
 
 [Thingiverse - Digital Designs for Physical Objects](https://www.thingiverse.com/)
 [Thangs | Free 3D model community | Geometric Search](https://www.thangs.com/)
 [The World's #1 Magazine for the Digital Maker | All3DP](https://all3dp.com/)
 [3D Models for Free - Free3D.com](https://free3d.com/)
+[MakerWorld: Download Free 3D Printing Models](https://makerworld.com/en)
 
 [首頁 - 印核工廠 In Here.](https://inhere3d.com/)
 [The 3D Print General - YouTube](https://www.youtube.com/@3DPrintGeneral)
 [MSC 製樂喵 - YouTube](https://www.youtube.com/@MSCShopHK)
 [Vector 3D - YouTube](https://www.youtube.com/@Vector3DP)
+
+[The Best 3D Printers of 2024](https://www.makeuseof.com/best-3d-printers-for-beginners/)
 
 [gcode viewer - online gcode viewer and analyzer in your browser!](http://gcode.ws/)
 
@@ -88,7 +98,7 @@ Cooling: use active cooling fan (especially PLA), longer layer timeout
 
 [光固化神级软件：Tango 超细自动加支撑教程！轻松实现 3D 打印各种手办模型！ - YouTube](https://www.youtube.com/watch?v=2Y5hD_KY9VE)
 
-PETG filament is harder
+[Bambu Lab 拓竹3D打印机 - Bambu Lab 拓竹科技](https://bambulab.com/zh) 入門: A1, P1S
 
 [【買前必睇】香港人買 3D 打印機攻略！ Ender 3 Pro/ i3 Mega-s / Prusa i3 mk3 3D 列印機評講介紹 - YouTube](https://www.youtube.com/watch?v=ozrZP6ODV3U) FDM, stepping motor + platform
 [【漫威御用 3D 列印機開箱】夢幻光固化 3D 列印機 formlabs Form3 台灣首發開箱！ - YouTube](https://www.youtube.com/watch?v=0J5k3AEzXpU) SLA
@@ -197,3 +207,6 @@ Low frequency waveforms are modulated with higher frequency carrier wave to redu
 [Beginner Guide // How To Build FPV Drone 2019 - YouTube](https://www.youtube.com/watch?v=5r2pS1oIoCw)
 [Drone Theory - YouTube](https://www.youtube.com/playlist?list=PLwQuIH2CxvuNwSc9hrZjqlJOshi5iXb3l)
 [How To Make Drone With Hand-made Radio Control. DIY Drone - YouTube](https://www.youtube.com/watch?v=yFBvC_zRiek&t=0s)
+
+[DJI Mavic 3 Drone Firmware Analysis](https://www.nozominetworks.com/blog/dji-mavic-3-drone-research-part-1-firmware-analysis)
+[DJI Mavic 3 Drone Research: Vulnerability Analysis](https://www.nozominetworks.com/blog/dji-mavic-3-drone-research-part-2-vulnerability-analysis)

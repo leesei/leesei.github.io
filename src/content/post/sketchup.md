@@ -2,7 +2,7 @@
 title: SketchUp
 description: ""
 created: 2018-05-23
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - app
   - desktop

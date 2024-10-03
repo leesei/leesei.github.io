@@ -2,7 +2,7 @@
 title: JavaScript Pipeline
 description: ""
 created: 2015-12-21
-updated: 2023-11-22
+updated: 2024-05-26
 tags:
   - bundler
   - web
@@ -17,9 +17,11 @@ Bundling and transpiling is a solved problem in 2023. We went from writing build
 
 [Prepack · Partial evaluator for JavaScript](https://prepack.io/) AOT optimization at build time
 
+[The JavaScript Oxidation Compiler](https://oxc-project.github.io/) A collection of JavaScript tools written in Rust
+
 ---
 
-# CodeMod
+# Code Refactoring
 
 [facebook/jscodeshift: A JavaScript codemod toolkit.](https://github.com/facebook/jscodeshift)
 [cpojer/js-codemod: Codemod scripts to transform code to next generation JS](https://github.com/cpojer/js-codemod)
@@ -65,7 +67,7 @@ Bundling and transpiling is a solved problem in 2023. We went from writing build
 
 > ESM bundles are also useful for Deno and modern browser
 
-[[deno]]
+[[deno-runtime]]
 
 [UNPKG](https://unpkg.com/) UMD
 [Skypack: search millions of open source JavaScript packages](https://www.skypack.dev/) ESM
@@ -123,16 +125,24 @@ Vite and Next.js replaced it with more features
 
 # Turborepo
 
+[Turbo](https://turbo.build/)
+[Turborepo](https://turbo.build/repo)
+
 [Turborepo](https://turborepo.org/) TypeScript monorepo, used Turbopack
 [vercel/turborepo: The High-performance Build System for JavaScript & TypeScript Codebases](https://github.com/vercel/turborepo)
 
 [What is Turborepo and Why Should You Care? | refine](https://refine.dev/blog/how-to-use-turborepo/)
 
+[Using Zig in our incremental Turborepo migration from Go to Rust – Vercel](https://vercel.com/blog/how-we-continued-porting-turborepo-to-rust)
 [From Go To RUST: The story of Turborepo - YouTube](https://www.youtube.com/watch?v=eOCxuHp76yA)
+
+[Finishing Turborepo's migration from Go to Rust – Vercel](https://vercel.com/blog/finishing-turborepos-migration-from-go-to-rust)
+[Was Porting To Rust A Mistake? - YouTube](https://www.youtube.com/watch?v=_SzvJJ3_6M0)
 
 # Turbopack
 
-[Turbopack - The successor to Webpack](https://turbo.build/pack) caches source files during build, good for large project
+[Turbopack](https://turbo.build/pack)
+caches source files and dependencies during build, good for large project, built with Rust
 
 # PWA
 
@@ -151,6 +161,18 @@ Vite and Next.js replaced it with more features
 [rollup/rollup-starter-lib: Bare-bones example of how to create a library using Rollup](https://github.com/rollup/rollup-starter-lib)
 
 [Webpack and Rollup: the same but different – webpack – Medium](https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c)
+
+# Rolldown
+
+[Rolldown](https://rolldown.rs/)
+[rolldown/rolldown: Fast Rust bundler for JavaScript with Rollup-compatible API.](https://github.com/rolldown/rolldown)
+
+# Kuto
+
+[Kuto, a reverse JS bundler](https://samthor.au/2024/kuto/)
+[samthor/kuto: Faster updates for big JS projects](https://github.com/samthor/kuto)
+
+[wtf is this? Bundlers keep getting weirder… - YouTube](https://www.youtube.com/watch?v=_sxwQBWJQHA)
 
 # Parcel
 

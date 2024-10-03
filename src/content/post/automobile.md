@@ -2,13 +2,15 @@
 title: Automobile
 description: ""
 created: 2020-05-27
-updated: 2023-11-26
+updated: 2024-08-14
 tags:
   - transportation
 ---
 
 [[engines]]
 [[transmissions]]
+
+[什么是汽车域控制器？汽车电子电气架构转变趋势，理解智能座舱与智能驾驶芯片方案 - YouTube](https://www.youtube.com/watch?v=jt7Yl0zJNPE)
 
 ## Cars
 
@@ -77,11 +79,11 @@ e-brake
 ### Counter steering
 
 For automobile that leans,
-[Countersteering - Wikiwand](https://www.wikiwand.com/en/Countersteering)
+[Countersteering - Wikiwand](https://omni.wikiwand.com/en/Countersteering)
 [Steering Vs Countersteering Motorcycle (Simplified) - YouTube](https://www.youtube.com/watch?v=K7YyV92Er8Y)
 
 For automobile that drifts,
-[Opposite lock - Wikiwand](https://www.wikiwand.com/en/Opposite_lock)
+[Opposite lock - Wikiwand](https://omni.wikiwand.com/en/Opposite_lock)
 [How does counter steering actually work? - Quora](https://www.quora.com/How-does-counter-steering-actually-work)
 
 [The Differences Between Drifting And Powersliding - YouTube](https://www.youtube.com/watch?v=p-0iWdUtiug)
@@ -95,6 +97,7 @@ Powersliding after the apex
 
 ## YouTube Channels
 
+[Big Car - YouTube](https://www.youtube.com/bigCar2)
 [Doug DeMuro - YouTube](https://www.youtube.com/@DougDeMuro) exotic cars review
 [Jay Leno's Garage - YouTube](https://www.youtube.com/@jaylenosgarag)
 [Donut Media - YouTube](https://www.youtube.com/@Donut)
@@ -147,14 +150,14 @@ Great racer, designed the Shelby Cobra with British AC Cars with Ford Engine; th
 [KEN MILES - Everything You Need to Know | Up to Speed - YouTube](https://www.youtube.com/watch?v=aE0gq9KxHOw)
 
 [Who ACTUALLY Made Your Car? | WheelHouse - YouTube](https://www.youtube.com/watch?v=pBs9bpIFNgg&feature=emb_rel_pause)
-[Volkswagen Group - Wikiwand](https://www.wikiwand.com/en/Volkswagen_Group#/Operations)
+[Volkswagen Group - Wikiwand](https://omni.wikiwand.com/en/Volkswagen_Group#/Operations)
 Volkswagen owns many passenger car marques such as Audi, Bentley, Bugatti, Lamborghini, Porsche, SEAT, and Škoda.
 Volkswagen bought Rolls Royce and Bentley in 1998
 However BMW owns Rolls Royce's trademark on automobiles
-[General Motors - Wikiwand](https://www.wikiwand.com/en/General_Motors)
+[General Motors - Wikiwand](https://omni.wikiwand.com/en/General_Motors)
 GM owns brands such as Chevrolet, Buick, GMC, and Cadillac; and foreign brands such as Holden, Wuling, Baojun, and Jiefang.
 
-[Toyota - Wikiwand](https://www.wikiwand.com/en/Toyota)
+[Toyota - Wikiwand](https://omni.wikiwand.com/en/Toyota)
 Toyota owns brands such as Hino, Lexus, Ranz, and Daihatsu.
 
 ## Car Model
@@ -201,6 +204,8 @@ Hybrid Electric Vehicle (HEV) 油電混動: 非插電式混動
 
 [缝合怪还是割韭菜？10分钟带你彻底搞懂混动技术！](https://www.youtube.com/watch?v=5tOwLlryaUU)
 
+[硬核讲解电动车快充（快充的原理和危害，特斯拉为什么没有 800V 快充）【电动车】【快充】 - YouTube](https://www.youtube.com/watch?v=rK6MbJzylDk)
+
 [#驱动技术](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=2402216471663116289)
 
 - Serial 串聯/增程式
@@ -234,9 +239,17 @@ Technology Connections
 
 [烧光 131 亿，被王传福痛骂的“吸血鬼”，原形毕露-36 氪](https://36kr.com/p/2244679707324549)
 
-## CAN bus
+## Automobile Systems
 
-[CAN bus - Wikiwand](https://www.wikiwand.com/en/CAN_bus) ISO 11898-1 AND ISO 11898-2
+Scalable Open Architecture for Embedded Edge
+[soafee.io](https://www.soafee.io/)
+[SOAFEE · GitLab](https://gitlab.com/soafee)
+
+[Automotive Oscilloscopes: What you need to know - YouTube](https://www.youtube.com/watch?v=LEzkoF-gAn4)
+
+### CAN bus
+
+[CAN bus - Wikiwand](https://omni.wikiwand.com/en/CAN_bus) ISO 11898-1 AND ISO 11898-2
 [CAN Bus Explained - A Simple Intro [2023] – CSS Electronics](https://www.csselectronics.com/pages/can-bus-simple-intro-tutorial)
 [CAN Bus Protocol: The Ultimate Guide (2023)](https://www.autopi.io/blog/can-bus-explained/)
 [The CAN Bus Protocol - Kvaser](https://www.kvaser.com/about-can/the-can-protocol/)
@@ -252,6 +265,9 @@ Technology Connections
 [How does CAN data flow? CAN data flow explained - YouTube](https://www.youtube.com/watch?v=OHQ0PcuUjeM)
 [CAN Protocol Explained | Controller Area Network - YouTube](https://www.youtube.com/watch?v=WikQ5n1QXQs)
 [CAN Frame structure Understanding | CAN communication Explained - YouTube](https://www.youtube.com/watch?v=3vs40cm1wYs)
+[CAN总线！4分钟看懂！汽车领域用的一种总线通讯！ - YouTube](https://www.youtube.com/watch?v=sREP2e3jVYs)
+[車用通訊CAN Bus-波形解密-示波器解碼-GDS3652A - YouTube](https://www.youtube.com/watch?v=XpAwtJNgt5M)
+[CAN - 介紹(CAN來源/CAN特性/格式介紹/通訊錯誤) - YouTube](https://www.youtube.com/watch?v=MrGZ8QdY4g4)
 
 [Hacking a vehicle network (CAN Bus) - YouTube](https://www.youtube.com/watch?v=Qk-ugN-8roc)
 [Getting started with SocketCAN (can-utils) | ESP32 | Kali Linux Vmware Installation - YouTube](https://www.youtube.com/watch?v=my-mBFQCIZ0)

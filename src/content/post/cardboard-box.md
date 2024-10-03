@@ -2,12 +2,12 @@
 title: Cardboard Box
 description: ""
 created: 2016-09-14
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - trivia
 ---
 
-[Corrugated box design - Wikiwand](https://www.wikiwand.com/en/Corrugated_box_design)
+[Corrugated box design - Wikiwand](https://omni.wikiwand.com/en/Corrugated_box_design)
 
 [Gimlet Media | » #19 Cardboard](https://gimletmedia.com/episode/19-cardboard/)
 

@@ -2,7 +2,7 @@
 title: Docker
 description: ""
 created: 2014-12-11
-updated: 2023-09-29
+updated: 2024-08-28
 tags:
   - container
   - dev/deploy
@@ -191,6 +191,8 @@ Docker started out using LXC, then [docker/libcontainer](https://github.com/dock
 [Why Docker | Docker](https://www.docker.com/why-docker)
 [Why Docker?](https://docs.docker.com/engine/#why-docker)
 
+[Using docker in unusual ways - YouTube](https://www.youtube.com/watch?v=zfNqp85g5JM)
+
 [Docker 1.0 brings container technology to the enterprise | ZDNet](http://www.zdnet.com/article/docker-1-0-brings-container-technology-to-the-enterprise/)
 
 [CI, CD with Docker, Jenkins and Tutum | Sreenivas Makam's Blog](https://sreeninet.wordpress.com/2016/01/23/ci-cd-with-docker-jenkins-and-tutum/) mostly "why Docker"
@@ -226,11 +228,6 @@ Ambassador pattern: if App container depends on Database container, always creat
 
 [Baseimage-docker, fat containers and "treating containers as VMs"](https://blog.phusion.nl/2015/01/20/baseimage-docker-fat-containers-treating-containers-vms/)
 [Baseimage-docker: A minimal Ubuntu base image modified for Docker-friendliness](http://phusion.github.io/baseimage-docker/)
-
-## Linuxserver.io
-
-[Linuxserver.io - There's no place like 127.0.0.1](https://www.linuxserver.io/)
-[Building software from source using Docker – Linuxserver.io](https://www.linuxserver.io/index.php/2016/02/06/building-software-from-source-using-docker/)
 
 ## Nordic APIs
 
@@ -728,6 +725,21 @@ TL;DR: save/load preserves layers and tags, export/import don't
 | `--rm`          | remove container upon exit                                                                            |
 | `--read-only`   | make RFS read only                                                                                    |
 
+### `docker init`
+
+[docker init | Docker Docs](https://docs.docker.com/engine/reference/commandline/init/)
+[Streamline Dockerization with the GA of Docker init | Docker](https://www.docker.com/blog/streamline-dockerization-with-docker-init-ga/)
+
+### `docker scout`
+
+[Docker Scout | Docker Docs](https://docs.docker.com/scout/) compare images, scan for vulnerabilities
+
+### Lazydocker
+
+π
+[jesseduffield/lazydocker: The lazier way to manage everything docker](https://github.com/jesseduffield/lazydocker)
+[Your Minimalist Docker UI - Lazydocker - YouTube](https://www.youtube.com/watch?v=lu8edvTDUvI)
+
 ## Docker API
 
 Docker daemon exposed Docker API via UNIX socket at: `unix:///var/run/docker.sock`
@@ -736,11 +748,14 @@ Docker daemon exposed Docker API via UNIX socket at: `unix:///var/run/docker.soc
 
 ## Logging
 
-[Configure logging drivers | Docker Documentation](https://docs.docker.com/config/containers/logging/configure/)
-[Local File logging driver | Docker Documentation](https://docs.docker.com/config/containers/logging/local/)
-[Use a logging driver plugin | Docker Documentation](https://docs.docker.com/config/containers/logging/plugins/)
+[Configure logging drivers | Docker Docs](https://docs.docker.com/engine/logging/configure/)
+[Local file logging driver | Docker Docs](https://docs.docker.com/engine/logging/drivers/local/)
+[JSON File logging driver | Docker Docs](https://docs.docker.com/engine/logging/drivers/json-file/)
+[Use a logging driver plugin | Docker Docs](https://docs.docker.com/engine/logging/plugins/)
 
 [Docker Logging: How Do Logs Work With Docker Containers? | LogicMonitor](https://www.logicmonitor.com/blog/docker-logging-how-do-logs-work-with-docker-containers)
+
+[Is there a way to specify file size limit for docker logs on Google Container Optimized OS? - Stack Overflow](https://stackoverflow.com/questions/57678774/is-there-a-way-to-specify-file-size-limit-for-docker-logs-on-google-container-op)
 
 ## Builder
 
@@ -878,15 +893,10 @@ DOCKER_BUILDKIT=1 docker build .
 
 ### Image Analysis
 
-[MicroBadger](https://microbadger.com/)
-<https://microbadger.com/images/openjdk:11-slim>
-
-[contains.dev](https://contains.dev/)
-
 [Docker Layers Explained - DZone Cloud](https://dzone.com/articles/docker-layers-explained)
 
 [wagoodman/dive: A tool for exploring each layer in a docker image](https://github.com/wagoodman/dive)
-[shaded-enmity/docker-doug: DOUG - DOcker Update Guard](https://github.com/shaded-enmity/docker-doug)
+[shaded-enmity/docker-doug: DOUG - DOcker Update Guard](https://github.com/shaded-enmity/docker-doug) 😴inactive
 
 [Introducing container-diff, a tool for quickly comparing container images | Google Open Source Blog](https://opensource.googleblog.com/2017/11/container-diff-for-comparing-container-images.html)
 [GoogleContainerTools/container-diff: container-diff: Diff your Docker containers](https://github.com/GoogleContainerTools/container-diff)
@@ -1242,8 +1252,6 @@ dpms/monitor             latest              23e0036ee085        4 days ago     
 
 ### Formatting
 
-{% raw %}
-
 ```sh
 # list mounted volumes
 docker ps -aq | map docker inspect --format "{{.Name}} {{.Mounts}}"
@@ -1253,8 +1261,6 @@ docker ps -aq | docker inspect --format="{{range .NetworkSettings.Networks}}{{.I
 docker node ls -q | \
 xargs docker node inspect --format '{{.Description.Hostname}} {{with .Spec}}{{.Role}}({{.Availability}}) {{.Labels}}{{end}}'
 ```
-
-{% endraw %}
 
 add `table`, `json` (`--format {{json .}}`) prefix for formatting the output
 

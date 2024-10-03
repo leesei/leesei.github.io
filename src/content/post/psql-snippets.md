@@ -2,7 +2,7 @@
 title: PostgreSQL Snippets
 description: ""
 created: 2021-05-24
-updated: 2023-09-29
+updated: 2024-06-19
 tags:
   - comp/lang
   - postgresql
@@ -12,6 +12,7 @@ tags:
 
 [17 Practical psql Commands That You Don't Want To Miss](https://www.postgresqltutorial.com/psql-commands/)
 [10 Command-line Utilities in PostgreSQL (article) - DataCamp](https://www.datacamp.com/community/tutorials/10-command-line-utilities-postgresql)
+[Top psql commands and flags you need to know | PostgreSQL](https://hasura.io/blog/top-psql-commands-and-flags-you-need-to-know-postgresql)
 
 [How to switch database using Postgres](https://flaviocopes.com/postgres-how-to-switch-database/)
 [How to list all databases using Postgres](https://flaviocopes.com/postgres-how-to-list-all-databases/)
@@ -69,17 +70,24 @@ FLUSH PRIVILEGES;
 ## Query
 
 ```sql
-SHOW TABLES;
-DESC tablename;
-SHOW INDEX FROM Slide;
-EXPLAIN SELECT * FROM Slide;
+\l  -- show databases
+\c DBNAME  -- connect to database
+\dt  -- show tables
+\d tablename  -- describe table
+\d+ tablename  -- describe table with more details
+\du -- show users
+\du username -- show user details
+\i filename.sql  -- run script
+\q  -- quit
 
+EXPLAIN SELECT * FROM public."Groups";
 -- sample query
-SELECT COUNT(*) FROM Slide;
-SELECT COUNT(*) FROM Annotation;
+SELECT COUNT(*) FROM public."Groups";
 ```
 
 ## Alter table
+
+> not tested, may not work in psql
 
 ```sql
 ALTER TABLE DPMS.Snapshot
@@ -90,6 +98,8 @@ ALTER TABLE DPMS.Slide
 ```
 
 ## Delete records
+
+> not tested, may not work in psql
 
 ```sql
 DELETE FROM Slide

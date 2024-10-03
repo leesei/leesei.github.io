@@ -2,13 +2,13 @@
 title: Linux setup
 description: ""
 created: 2015-01-23
-updated: 2023-12-02
+updated: 2024-01-09
 tags:
   - desktop
   - linux
 ---
 
-ArchLinux has IMO the best Linux [wiki](https://www.archlinux.org/).
+ArchLinux has IMO the best Linux [wiki](https://www.archlinux.org/). DigitalOcean's [tutorials](https://www.digitalocean.com/community/tutorials) is a close second.
 Most of the Linux tricks can be found there.
 
 [Linux Toolkits](http://linuxtoolkit.blogspot.hk/)

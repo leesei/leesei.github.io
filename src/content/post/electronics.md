@@ -2,7 +2,7 @@
 title: Electronics
 description: ""
 created: 2018-09-12
-updated: 2023-09-29
+updated: 2024-09-29
 tags:
   - electronics
   - maker
@@ -31,13 +31,14 @@ tags:
 [Beginner's Electronics: 10 Skills You Need to Know](https://www.makeuseof.com/tag/beginners-electronics-10-skills-you-need-to-know/)
 [ElProCus - Electronic Projects for Engineering Students - ElProCus is an educational website on electronic projects for ECE and EEE students.](https://www.elprocus.com/)
 
-[Portal:Electronics - Wikiwand](https://www.wikiwand.com/en/Portal:Electronics)
+[Portal:Electronics - Wikiwand](https://omni.wikiwand.com/en/Portal:Electronics)
 [Concepts | Tutorials - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/tags/concepts?page=all) !important
 
 [Analog vs. Digital - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/analog-vs-digital)
 [Analog to Digital Conversion - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/analog-to-digital-conversion)
 [Voltage Dividers - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/voltage-dividers)
 
+[How to use a multimeter like a pro! The Ultimate guide - YouTube](https://www.youtube.com/watch?v=4lAyzRxsbDc)
 [How to Use a Multimeter - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter)
 [INA169 Breakout Board Hookup Guide - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/ina169-breakout-board-hookup-guide) measuring current
 [Multiplexer Breakout Hookup Guide - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/multiplexer-breakout-hookup-guide)
@@ -91,7 +92,7 @@ Mobile electrons don't push each other to create the current. The current is a r
 [What is a Circuit? - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/what-is-a-circuit)
 [Series and Parallel Circuits - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/series-and-parallel-circuits)
 
-[War of the currents - Wikiwand](https://www.wikiwand.com/en/War_of_the_currents)
+[War of the currents - Wikiwand](https://omni.wikiwand.com/en/War_of_the_currents)
 [Why Use AC Instead of DC at Home?? - YouTube](https://www.youtube.com/watch?v=S7C5sSde9e4)
 [Early AC Power History - YouTube](https://www.youtube.com/playlist?list=PLB233828236F6BCAE)
 [How electricity works. . . . animated - YouTube](https://www.youtube.com/watch?v=ZInLPe_bezQ)
@@ -121,12 +122,12 @@ Kathy Loves Physics & History
 [Physics and History of Why USA uses 120 volts and not 220 volts - YouTube](https://www.youtube.com/watch?v=7yRGvMgieEU)
 [History of 3-phase Electricity & Distribution - YouTube](https://www.youtube.com/watch?v=NEkegQanD2I)
 
-[Electric generator - Wikiwand](https://www.wikiwand.com/en/Electric_generator) a device that converts mechanical energy to electricity
-[發電機 - Wikiwand](https://www.wikiwand.com/zh-hant/发电机)
+[Electric generator - Wikiwand](https://omni.wikiwand.com/en/Electric_generator) a device that converts mechanical energy to electricity
+[發電機 - Wikiwand](https://omni.wikiwand.com/zh/发电机)
 
 ### Photoelectricity
 
-[Photoelectric effect - Wikiwand](https://www.wikiwand.com/en/Photoelectric_effect)
+[Photoelectric effect - Wikiwand](https://omni.wikiwand.com/en/Photoelectric_effect)
 [Photoelectricity - an overview | ScienceDirect Topics](https://www.sciencedirect.com/topics/chemistry/photoelectricity)
 [The Mystery Flaw of Solar Panels - YouTube](https://www.youtube.com/watch?v=yVOnHWnLSeU)
 [每年损失 30 个核电站的发电量，太阳能电池板存在着一个神秘的缺陷 - YouTube](https://www.youtube.com/watch?v=q6zyaAze67E)
@@ -143,7 +144,7 @@ Kathy Loves Physics & History
 Seebeck Effect: temperature different at junction generates a voltage
 Peltier Effect: voltage applied at junction causes temperature difference
 
-[Thermoelectric materials - Wikiwand](https://www.wikiwand.com/en/Thermoelectric_materials)
+[Thermoelectric materials - Wikiwand](https://omni.wikiwand.com/en/Thermoelectric_materials)
 [Make Electricity Go Round and Round - The Thermoelectric Effect - YouTube](https://www.youtube.com/watch?v=O6waiEeXDGo)
 
 [Thermoelectric Effects ⚡ How a Peltier Cell and a Thermocouple Work - YouTube](https://www.youtube.com/watch?v=KFHFReWGjMA)
@@ -156,6 +157,11 @@ Peltier Effect: voltage applied at junction causes temperature difference
 
 [Thermoelectric Cooling is a Bad Idea - YouTube](https://www.youtube.com/watch?v=IX2NQ1lq4ZM)
 [This Cooler DRAWS 545W!!? Bad Cooling Ideas #2 - YouTube](https://www.youtube.com/watch?v=sWrqyQWfhrs)
+[Thermoelectric cooling: it's not great. - YouTube](https://www.youtube.com/watch?v=CnMRePtHMZY)
+
+[I’ve got a lucky ticket… - YouTube](https://www.youtube.com/watch?v=e295NaVldZs)
+[Sub Ambient Cooling - The new Intel Cryo Cooler brings TEC Cooling to a new Level - YouTube](https://www.youtube.com/watch?v=uOrUNT_0XVY)
+[I probably wasn't supposed to do this 😅 Ryzen 5950X cooled by Intel Cryo Cooler - YouTube](https://www.youtube.com/watch?v=R2MtHJctd-0)
 
 [用最少的钱，打造一台超强游戏掌机！ - YouTube](https://youtu.be/_ygrNIow6AA)
 
@@ -165,6 +171,8 @@ Peltier Effect: voltage applied at junction causes temperature difference
 [Which way does Electricity REALLY flow?](http://amasci.com/amateur/elecdir.html)
 [Alternating Current (AC) vs. Direct Current (DC) - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/alternating-current-ac-vs-direct-current-dc)
 [Electrical Current Explained - AC DC, fuses, circuit breakers, multimeter, GFCI, ampere - YouTube](https://www.youtube.com/watch?v=kcL2_D33k3o)
+
+[Why Circuit Breakers DON'T Protect People (electric shocks) - YouTube](https://www.youtube.com/watch?v=gqEu9t8HwW0) Circuit Breaker protects cables, not people; Residual Current Device (RCD) protects people
 
 ## Resistor
 
@@ -214,7 +222,7 @@ so capacitors are often used in pairs:
 
 ## Phase Lock Loop
 
-[Phase-locked loop - Wikiwand](https://www.wikiwand.com/en/Phase-locked_loop)
+[Phase-locked loop - Wikiwand](https://omni.wikiwand.com/en/Phase-locked_loop)
 
 [锁相放大器的基本工作原理 - YouTube](https://www.youtube.com/watch?v=YMF38HO5Ipg)
 [让频率提升几十倍的电路！锁相环的工作原理！ - YouTube](https://www.youtube.com/watch?v=YtlwIFsiWtE)
@@ -236,6 +244,10 @@ But it needs the Phase Comparator and Low pass filter to ???
 [Analog Discovery: Getting Started with the Analog and Digital Tools | derekmolloy.ie](http://derekmolloy.ie/analog-discovery-getting-started-with-the-analog-and-digital-tools/)
 [History of the Oscilloscope: Visualizing with Light, the CRT, to the Modern Oscilloscope - News](https://www.allaboutcircuits.com/news/history-of-the-oscilloscope-visualizing-with-light-crt-modern-oscilloscope/)
 
+## Logical Analyzers
+
+[邏輯分析儀怎麼用-數位電路除錯神器-團購LAP C Pro看影片資訊 - YouTube](https://www.youtube.com/watch?v=uYDuidKKGyY) 實作派電子實驗室
+
 ## Relays
 
 [A beginners guide to relays, contactors, and solenoids to automate anything; (#083) - YouTube](https://www.youtube.com/watch?v=AvwBcu3e9O4)
@@ -247,8 +259,8 @@ But it needs the Phase Comparator and Low pass filter to ???
 [Working with Wire - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/working-with-wire)
 [How to Use a Breadboard - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard) 20-29 AWG (0.8-0.3mm) wires
 [Prototyping a Circuit: Methods and Tools - Tutorial Australia](https://core-electronics.com.au/tutorials/prototyping-a-circuit-methods-and-tools.html)
-[Stripboard - Wikiwand](https://www.wikiwand.com/en/Stripboard)
-[Perfboard - Wikiwand](https://www.wikiwand.com/en/Perfboard)
+[Stripboard - Wikiwand](https://omni.wikiwand.com/en/Stripboard)
+[Perfboard - Wikiwand](https://omni.wikiwand.com/en/Perfboard)
 
 [Cable sizing and selection | 12 volt planet](https://www.12voltplanet.co.uk/cable-sizing-selection.html)
 [What cable do I need? | 12 Volt Planet - YouTube](https://www.youtube.com/watch?v=matqU6An46Q)
@@ -259,10 +271,10 @@ But it needs the Phase Comparator and Low pass filter to ???
 [#12 Five Tricks for working with Dupont wires - YouTube](https://www.youtube.com/watch?v=eI3fxTH6f6I)
 [7 Tricks on how to wire your Project (e.g. Arduino, ESP8266, ESP32) Dupont wires - YouTube](https://www.youtube.com/watch?v=uYf7vFREV98)
 
-[IEC 60320 - Wikiwand](https://www.wikiwand.com/en/IEC_60320)
+[IEC 60320 - Wikiwand](https://omni.wikiwand.com/en/IEC_60320)
 [首页-精工电气展示店-淘宝网](https://13649859381.taobao.com/?spm=2013.1.1000126.3.45651187fzaCan)
 
-[JST connector - Wikiwand](https://www.wikiwand.com/en/JST_connector)
+[JST connector - Wikiwand](https://omni.wikiwand.com/en/JST_connector)
 [J.S.T. Mfg. Co., Ltd.](http://www.jst-mfg.com/index_e.php) Japan Solderness Terminals
 [Direct to Connector Series](http://www.jst.com/home8.html)
 [What is a JST Connector? - Tutorial Australia](https://core-electronics.com.au/tutorials/what-is-a-jst-connector.html)
@@ -295,10 +307,16 @@ Dupont connector
 [How to Know When to Crimp vs Solder - Holley Tech - YouTube](https://www.youtube.com/watch?v=faLn-SjVfwY)
 [做杜邦線（假）教程 - 掃文資訊](https://hk.saowen.com/a/96880b4455772e35e29af28cfdf312eb4ccce4ff7ce1069e7bed4660bce0e532)
 
+## Fixing
+
+[笔记本维修厮 - YouTube](https://www.youtube.com/@LaptopRepairGuy)
+[修电脑的张哥 - YouTube](https://www.youtube.com/@fydn)
+[Computer Hardware Tips and Tutorials - YouTube](https://www.youtube.com/@CompHwTipsAndTutorials)
+
 ## PCB
 
 [PCB Basics - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/pcb-basics)
-[How to Read a Schematic - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/how-to-read-a-schematic)
+[How to Read a Schematic - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/how-to-read-a-schematic/all)
 [Collin's Lab: Schematics - YouTube](https://www.youtube.com/watch?v=9cps7Q_IrX0)
 [Principles of Schematics - YouTube](https://www.youtube.com/watch?v=oIRsMBVuSS4)
 [From Idea to Schematic to PCB - How to do it easily! - YouTube](https://www.youtube.com/watch?v=35YuILUlfGs)
@@ -334,6 +352,15 @@ Dupont connector
 [pcb 热转印纸\_淘宝搜索](https://s.taobao.com/search?q=pcb热转印纸)
 [PCB 打板\_淘宝搜索](https://s.taobao.com/search?q=PCB打板)
 
+### Reverse Engineering PCB
+
+[Software for viewing PCB/Laptop/Motherboard Layouts](https://openboardview.org/)
+
+[Reverse Engineering the HARD Way! - YouTube](https://www.youtube.com/watch?v=ICykppClja8)
+
+[Switch Lite Boardview](https://usoldering.com/switch-lite/)
+[Switch lite board layers](http://balika011.hu/switch/lite/)
+
 ## Soldering
 
 [【老司機帶路】焊接&解焊零件不藏私密技大公開/Know-how of Welding & Desoldering【Hedgehog 刺蝟幫】 - YouTube](https://www.youtube.com/watch?v=VCyuhqx5eSg)
@@ -341,7 +368,7 @@ Dupont connector
 [羊羹爸爸业余电子工作室，电子维修与制作器材的介绍 - YouTube](https://www.youtube.com/watch?v=-TgSfcV9LqQ)
 [羊羹爸爸 DIY 生活: 羊羹爸爸的电子制作于维修 DIY 器材(随时更新)](https://ygbbdiylife.blogspot.com/2020/06/diy.html)
 
-[Flux (metallurgy) - Wikiwand](<https://www.wikiwand.com/en/Flux_(metallurgy)>)
+[Flux (metallurgy) - Wikiwand](<https://omni.wikiwand.com/en/Flux_(metallurgy)>)
 
 [How to Solder: Through-Hole Soldering - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/how-to-solder-through-hole-soldering)
 [How to Solder - Castellated Mounting Holes - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/how-to-solder---castellated-mounting-holes)
@@ -391,11 +418,19 @@ Owned: 50W 内热 ¥ 33
 [Home | SolderReflowPlate](https://www.solderreflowplate.co.uk/)
 [AfterEarthLTD/Solder-Reflow-Plate: PCB based SMD reflow plates](https://github.com/AfterEarthLTD/Solder-Reflow-Plate)
 
+## Semiconductor
+
+[Semiconductor - Wikiwand](https://omni.wikiwand.com/en/Semiconductor)
+[Doping (semiconductor) - Wikiwand](<https://omni.wikiwand.com/en/Doping_(semiconductor)>)
+N-Type (doping with extra electron) and P-Type (doping with less electron)
+
+[Why It Was Almost Impossible to Make the Blue LED - YouTube](https://www.youtube.com/watch?v=AF8d72mA41M) semiconductors, GaN
+
 ## Transistors
 
-[Transistor - Wikiwand](http://www.wikiwand.com/en/Transistor)
-[Field-effect transistor - Wikiwand](https://www.wikiwand.com/en/Field-effect_transistor)
-[MOSFET - Wikiwand](https://www.wikiwand.com/en/MOSFET)
+[Transistor - Wikiwand](http://omni.wikiwand.com/en/Transistor)
+[Field-effect transistor - Wikiwand](https://omni.wikiwand.com/en/Field-effect_transistor)
+[MOSFET - Wikiwand](https://omni.wikiwand.com/en/MOSFET)
 [電晶體是如何工作的？發明者自己也不清楚！電晶體反目成仇的發明往事 | T 客邦](https://www.techbang.com/posts/102001-transistor-vacuuml-tubel)
 
 Transistor has can output different voltage depending on the input. They acts as amplifiers or switches driven by current, such that a smaller voltage can be used to drive circuit of larger voltage. They comes in BJTs and MOSFETs varieties, FETs are much preferred nowadays over BJTs transistors for their low "on resistance", more efficient and handle higher current.
@@ -422,10 +457,10 @@ Current flowing through transistors grow exponentially with the voltage applied.
 
 ## Regulators
 
-[Voltage regulator - Wikiwand](https://www.wikiwand.com/en/Voltage_regulator) change voltage of DC
-[Low-dropout regulator - Wikiwand](https://www.wikiwand.com/en/Low-dropout_regulator)
+[Voltage regulator - Wikiwand](https://omni.wikiwand.com/en/Voltage_regulator) change voltage of DC
+[Low-dropout regulator - Wikiwand](https://omni.wikiwand.com/en/Low-dropout_regulator)
 [Introduction to Low Dropout (LDO) Linear Voltage Regulators](https://www.design-reuse.com/articles/42191/low-dropout-ldo-linear-voltage-regulators.html)
-Regulators drop the voltage by wasting it as heat, it is not efficient when there on large voltage difference and large current.
+Regulators drop the voltage by wasting it as heat, it is _not efficient_ when there on _large voltage difference_ and _large current_.
 
 [Linear Voltage Regulators (LM7805) | AO #17 - YouTube](https://www.youtube.com/watch?v=OAoEWaGtQjs)
 [5V Regulator design tutorial - How it works, how to design PCB altium - YouTube](https://www.youtube.com/watch?v=d-j0onzzuNQ)
@@ -462,7 +497,7 @@ Sometimes 7.4V input is needed for H-bridge to get a 6V output.
 
 ## Transformer
 
-[Transformer - Wikiwand](https://www.wikiwand.com/en/Transformer)
+[Transformer - Wikiwand](https://omni.wikiwand.com/en/Transformer)
 [What is a Transformer? An Electrical Transformer Tutorial - YouTube](https://www.youtube.com/watch?v=GMePE7NZcxw)
 
 Convert AC to AC of different voltage
@@ -472,9 +507,10 @@ Convert AC to AC of different voltage
 
 ## Inverter
 
-[Power inverter - Wikiwand](https://www.wikiwand.com/en/Power_inverter)
+[Power inverter - Wikiwand](https://omni.wikiwand.com/en/Power_inverter)
 Convert DC to AC, with PWM (Pulse Width Modulation)
 
+[How Inverters Work - Working principle rectifier - YouTube](https://www.youtube.com/watch?v=ln9VZIL8rVs)
 [⚡ Don't build this 12V DC to 120V AC inverter circuit. - YouTube](https://www.youtube.com/watch?v=5QaKiXRa-n0)
 [Inverters, How do they work ? - YouTube](https://www.youtube.com/watch?v=qVeERT4nyz8)
 [How Inverters Work - Working principle rectifier - YouTube](https://www.youtube.com/watch?v=ln9VZIL8rVs)
@@ -483,7 +519,7 @@ This is used for electronic appliances to control the AC frequency to allow the 
 
 ## Rectifier
 
-[Rectifier - Wikiwand](https://www.wikiwand.com/en/Rectifier)
+[Rectifier - Wikiwand](https://omni.wikiwand.com/en/Rectifier)
 Convert AC to DC, with diode bridge and capacitor
 [Making a Full Bridge Rectifier - YouTube](https://www.youtube.com/watch?v=sI5Ftm1-jik)
 [The End of the Full Bridge Rectifier? (Sorry ElectroBOOM) - YouTube](https://www.youtube.com/watch?v=S0j4xOuRzD4) active Full Bridge Rectifier with controller and MOSFET
@@ -514,7 +550,7 @@ BGA
 
 ## Multiplexing
 
-[Charlieplexing - Wikiwand](https://www.wikiwand.com/en/Charlieplexing)
+[Charlieplexing - Wikiwand](https://omni.wikiwand.com/en/Charlieplexing)
 [Charlieplexing Made Easy (and What It Even Means?!): 7 Steps (with Pictures)](https://www.instructables.com/id/Charlieplexing-Made-Easy-and-What-It-Even-Means/)
 
 [Tucoplexing: A New Charliplex for Buttons and Switches | Hackaday](https://hackaday.com/2019/03/23/tucoplexing-a-new-charliplex-for-buttons-and-switches/)
@@ -531,7 +567,7 @@ Pull up resistors are usually a higher value than pull down resistors so using p
 Pull-up and Pull-down resistors:
 If you have a digital input, it can have two physical states (that may or may not be the same as the logical states, but that’s a separate issue). If the voltage is anywhere in between, undesirable things can happen. So there are two ways to get it into one of the desired states: You can wire it to the pole of a double-throw switch so that it connects directly to one voltage or the other, or you can wire it to a single-throw switch and ‘pull’ the input into the other state when the switch is open. So if you wire the switch between input and ground, so the switch pulls the input to 0 V when it’s closed, you need a “pull-up” resistor to pull the input up to 3.3 V or 5 V when the switch is open. And vice versa.
 
-[Open collector - Wikiwand](https://www.wikiwand.com/en/Open_collector)
+[Open collector - Wikiwand](https://omni.wikiwand.com/en/Open_collector)
 [Arduino Internal Pull-Up Resistor Tutorial - Bald Engineer](https://www.baldengineer.com/arduino-internal-pull-up-resistor-tutorial.html)
 [Inputs](http://www.thebox.myzen.co.uk/Tutorial/Inputs.html)
 [Pull-up Resistors - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/pull-up-resistors)
@@ -545,7 +581,7 @@ If you have a digital input, it can have two physical states (that may or may no
 
 ## PWM
 
-[Pulse-width modulation - Wikiwand](https://www.wikiwand.com/en/Pulse-width_modulation)
+[Pulse-width modulation - Wikiwand](https://omni.wikiwand.com/en/Pulse-width_modulation)
 [Pulse Width Modulation - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/pulse-width-modulation)
 Can be generated by a [555 Timer](https://components101.com/555-timer-ic-pinout-datasheet)
 
@@ -557,12 +593,15 @@ Arduino's PWM (`analogWrite()`) frequency is about 500Hz, 8 bit resolution.
 
 ## MEMS
 
-[MEMS - Wikiwand](https://www.wikiwand.com/en/Microelectromechanical_systems)
+[MEMS - Wikiwand](https://omni.wikiwand.com/en/Microelectromechanical_systems)
 [The ingenious micro mechanisms inside your phone - YouTube](https://www.youtube.com/watch?v=9X4frIQo7x0)
 
 ## EDA tools
 
 [Review of the Top Free Electronics Design Automation Software - News](https://www.allaboutcircuits.com/news/review-of-the-top-free-electronics-design-automation-software/)
+
+[Fritzing Alternatives: Top 8 Online Circuit Simulators | AlternativeTo](https://alternativeto.net/software/fritzing/?platform=online)
+[Circuit Diagram - A Circuit Diagram Maker](https://www.circuit-diagram.org/)
 
 [KiCad EDA](http://kicad-pcb.org/)
 [KiCad Tutorial - CuriousInventor Guides](http://store.curiousinventor.com/guides/kicad)
@@ -575,7 +614,7 @@ Arduino's PWM (`analogWrite()`) frequency is about 500Hz, 8 bit resolution.
 
 [Circuit Simulator Applet](http://www.falstad.com/circuit/) real time simulation
 
-https://www.qorvo.com/design-hub/design-tools/interactive/qspice/
+[QSPICE™ Simulator - Qorvo](https://www.qorvo.com/design-hub/design-tools/interactive/qspice/)
 [Qorvo Releases Free Circuit Simulation Software, QSPICE - News](https://www.allaboutcircuits.com/news/qorvo-releases-free-circuit-simulation-software-qspice/)
 [An Open-Source, Free Circuit Simulator | Hackaday](https://hackaday.com/2023/07/30/an-open-source-free-circuit-simulator/)
 
@@ -607,6 +646,7 @@ https://www.qorvo.com/design-hub/design-tools/interactive/qspice/
 ### Fritzing
 
 [Fritzing Fritzing](http://fritzing.org/home/)
+[fritzing/fritzing-app: Fritzing desktop application](https://github.com/fritzing/fritzing-app)
 
 [Latest parts submit topics - fritzing forum](http://forum.fritzing.org/c/parts-submit)
 Parts are located at`/usr/share/fritzing/parts`

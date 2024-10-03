@@ -2,7 +2,7 @@
 title: Java
 description: ""
 created: 2016-03-04
-updated: 2023-10-12
+updated: 2024-08-14
 tags:
   - clojure
   - comp/lang
@@ -11,8 +11,8 @@ tags:
   - java
 ---
 
-[[kotlin]]
-[[scala]]
+[[kotlin-lang]]
+[[scala-lang]]
 
 [Heroku | The Next Twenty Years of Java: Where We've Been and Where We're Going](https://blog.heroku.com/archives/2015/6/4/the_next_twenty_years_of_java_where_we_ve_been_and_where_we_re_going)
 
@@ -104,7 +104,7 @@ mvn archetype:generate -DgroupId={project-packaging}
 
 ### Jakarta EE
 
-[Java Platform, Enterprise Edition - Wikiwand](https://www.wikiwand.com/en/Java_Platform,_Enterprise_Edition) Java EE is rebranded as Jarkarta EE
+[Java Platform, Enterprise Edition - Wikiwand](https://omni.wikiwand.com/en/Java_Platform,_Enterprise_Edition) Java EE is rebranded as Jarkarta EE
 
 [Jakarta EE: Generation IV — A New Hope - DZone Java](https://dzone.com/articles/jakarta-ee-generation-iv-a-new-hope)
 [Java roadmap: Eclipse’s Jakarta EE enterprise Java takes shape | InfoWorld](https://www.infoworld.com/article/3269210/java/java-roadmap-eclipses-jakarta-ee-enterprise-java-takes-shape.html)
@@ -202,7 +202,7 @@ There a many compile-to-bytecode language. They have the advantage of:
 - Java interoperability (varies)
 - utilize highly optimized JVM
 
-[List of JVM languages - Wikiwand](https://www.wikiwand.com/en/List_of_JVM_languages)
+[List of JVM languages - Wikiwand](https://omni.wikiwand.com/en/List_of_JVM_languages)
 [Pirates of the JVM — The infographic: Are you ready for an adventure? - JAXenter](https://jaxenter.com/pirates-of-the-jvm-the-infographic-132524.html)
 [Beyond Java: Programming languages on the JVM | InfoWorld](https://www.infoworld.com/article/3268484/java/beyond-java-programming-languages-on-the-jvm.htm)
 
@@ -223,11 +223,11 @@ There a many compile-to-bytecode language. They have the advantage of:
 
 ## Kotlin
 
-[[kotlin]]
+[[kotlin-lang]]
 
 ## Scala
 
-[[scala]]
+[[scala-lang]]
 
 ## Groovy
 
@@ -238,7 +238,7 @@ Groovy script is interpreted to Java Bytecode. It also has a compiled mode to ar
 It utilizes invoke dynamic runtime on JVM 7+, Groovy 3 is expected to drop legacy mode which uses reflection and hacks.
 
 [The Groovy programming language](http://groovy-lang.org/)
-[Apache Groovy - Wikiwand](https://www.wikiwand.com/en/Apache_Groovy)
+[Apache Groovy - Wikiwand](https://omni.wikiwand.com/en/Apache_Groovy)
 
 [Groovy web console](http://groovyconsole.appspot.com/) playground
 

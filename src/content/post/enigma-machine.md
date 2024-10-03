@@ -2,7 +2,7 @@
 title: Enigma Machine
 description: ""
 created: 2023-03-06
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - crypto
   - cryptography
@@ -10,8 +10,8 @@ tags:
   - security
 ---
 
-[Enigma machine - Wikiwand](https://www.wikiwand.com/en/Enigma_machine)
-[Cryptanalysis of the Enigma - Wikiwand](https://www.wikiwand.com/en/Cryptanalysis_of_the_Enigma)
+[Enigma machine - Wikiwand](https://omni.wikiwand.com/en/Enigma_machine)
+[Cryptanalysis of the Enigma - Wikiwand](https://omni.wikiwand.com/en/Cryptanalysis_of_the_Enigma)
 
 M1 and M3 have 3 rotor slots, M4 has 4 rotor slots.
 Each rotor slot houses one of the eight _Rotors_ (labeled in Roman numerals, the extra one for M4 labeled with Greek letters). The right _Rotor_ steps each time a letter is typed. Each _Rotor_ have notches at different positions to cause the _Rotor_ on the left to step when itself done a full revolution, the middle rotor has optional "double stepping" which will also step itself when doing so. The starting _Rotor_ location and order is called _Ground/Order Settings_. The inner ring of each _Rotor_ can be set to a different offset, this is the _Ring Settings_.
@@ -32,7 +32,7 @@ Enigma machine is essentially a symmetric cryptography with the initial setup as
 [AMS :: Feature Column from the AMS](https://www.ams.org/publicoutreach/feature-column/fcarc-enigma)
 
 [烽火後的暗戰，密碼學家之戰的頂尖交鋒，打破德國最驕傲的機器 - YouTube](https://www.youtube.com/watch?v=yqfg02ThSWw) Poland has been decrypting Enigma messages with the Bomb Machine in 2 hours during 1933-38, MI6 continued the work after the Enigma upgrade in 1938 and Poland was invaded
-[Marian Rejewski - Wikiwand](https://www.wikiwand.com/en/Marian_Rejewski)
+[Marian Rejewski - Wikiwand](https://omni.wikiwand.com/en/Marian_Rejewski)
 [Polish Mathematicians Finding Patterns in Enigma Messages](https://maa.org/sites/default/files/pdf/upload_library/22/Allendoerfer/christensen247.pdf) PDF
 
 [Bletchley Park | Home](https://bletchleypark.org.uk/) the villa where the team of Mathematicians breaks the Enigma machine

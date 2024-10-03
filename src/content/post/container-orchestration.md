@@ -2,7 +2,7 @@
 title: Container Orchestration
 description: ""
 created: 2014-12-11
-updated: 2023-09-29
+updated: 2024-09-23
 tags:
   - container
   - dev/deploy
@@ -20,9 +20,12 @@ See projects under [Cloud Native Computing Foundation](https://www.cncf.io/proje
 [micahhausler/container-transform: Transforms docker-compose, ECS, and Marathon configurations](https://github.com/micahhausler/container-transform)
 [The Docker Ecosystem: Scheduling and Orchestration | DigitalOcean](https://www.digitalocean.com/community/tutorials/the-docker-ecosystem-scheduling-and-orchestration)
 
+[The cloud is over-engineered and overpriced (no music) - YouTube](https://www.youtube.com/watch?v=jFrGhodqC08) simple Docker Compose/Swarm without using SaaS
+
 ## Comparison
 
 [Container Orchestration Wars (2017) - YouTube](https://www.youtube.com/watch?v=NRZ6N4e-Mko)
+[Container Orchestration Tools: Kubernetes vs Docker vs Apache Mesos](https://www.itprotoday.com/containerization/comparing-container-orchestration-tools-kubernetes-docker-swarm-apache-mesos) 2024-04
 [Kubernetes vs Docker Swarm: A comparison of cloud container tools](https://www.cbronline.com/in-depth/kubernetes-vs-docker-container-tools) 2018-02
 [Docker Swarm Management: A Quick Overview of Rancher, Portainer and Shipyard](https://www.servethehome.com/docker-swarm-management-a-quick-overview-of-rancher-portainer-and-shipyard/) 2017-02
 [Kubernetes, Mesos, and Swarm: Comparing the Rancher Orchestration Engine Options | Rancher Labs](http://rancher.com/comparing-rancher-orchestration-engine-options/) 2016-10 !important
@@ -110,31 +113,17 @@ Docker image for Helios
 
 [The Search for a GUI Docker | Linux Journal](https://www.linuxjournal.com/content/search-gui-docker)
 
+Rancher > Portainer > shipyard
+
 [Kontena - The Developer Friendly Container & Microservices Platform](https://www.kontena.io/)
 
-[Portainer | Simple management UI for Docker](https://portainer.io/)
-[Portainer documentation](https://portainer.readthedocs.io/en/stable/)
-[Portainer, a GUI for Docker Management – The New Stack](https://thenewstack.io/an-introduction-to-portainer-a-gui-for-docker-management/)
+[The Imixs-Cloud | imixs-cloud](https://imixs.github.io/imixs-cloud/) uses Portainer, Swarmpit
 
 [benphelps/homepage: A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.](https://github.com/benphelps/homepage)
 [Your New Docker Homepage - YouTube](https://www.youtube.com/watch?v=o9SLve4wBPY)
 
-[Swarmpit](https://swarmpit.io/)
-[swarmpit/swarmpit: Lightweight Docker Swarm management UI](https://github.com/swarmpit/swarmpit)
-
-[ContainerPilot | Joyent](https://www.joyent.com/containerpilot)
-[joyent/containerpilot: A service for autodiscovery and configuration of applications running in containers](https://github.com/joyent/containerpilot)
-[Implementing the autopilot pattern | Joyent](https://www.joyent.com/blog/applications-on-autopilot)
-
-[The Imixs-Cloud | imixs-cloud](https://imixs.github.io/imixs-cloud/) uses Portainer, Swarmpit
-
 [Kitematic](https://kitematic.com/)
 [Releases · docker/kitematic](https://github.com/docker/kitematic/releases) release for all platforms
-
-[shipyard](http://shipyard-project.com/) built on Swarm
-[Using Shipyard To Manage Docker Containers – JGamblin.com](http://jerrygamblin.com/2016/06/10/using-shipyard-to-manage-docker-containers/)
-
-Rancher > Portainer > shipyard
 
 [Mercateo/dwatch: Manage your docker containers, images and networks in a nice and clean way.](https://github.com/Mercateo/dwatch)
 [lirantal/dockly: Immersive terminal interface for managing docker containers and services](https://github.com/lirantal/dockly)
@@ -143,3 +132,38 @@ Rancher > Portainer > shipyard
 [justone/dockviz: Visualizing docker data](https://github.com/justone/dockviz)
 
 [jesseduffield/lazydocker: The lazier way to manage everything docker](https://github.com/jesseduffield/lazydocker)
+
+## Dockage
+
+[[devops.md#Uptime Kuma]]
+
+[Dockge](https://dockge.kuma.pet/)
+[louislam/dockge: A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager](https://github.com/louislam/dockge)
+[Dockge: A New Way To Manage Your Docker Containers - YouTube](https://www.youtube.com/watch?v=E805XcbTzgY)
+
+## Portainer
+
+[Portainer | Simple management UI for Docker](https://portainer.io/)
+[Portainer documentation](https://portainer.readthedocs.io/en/stable/)
+[Portainer, a GUI for Docker Management – The New Stack](https://thenewstack.io/an-introduction-to-portainer-a-gui-for-docker-management/)
+
+## Shipyard
+
+[shipyard](http://shipyard-project.com/) built on Swarm
+[Using Shipyard To Manage Docker Containers – JGamblin.com](http://jerrygamblin.com/2016/06/10/using-shipyard-to-manage-docker-containers/)
+
+## Swarmpit
+
+[Swarmpit](https://swarmpit.io/)
+[swarmpit/swarmpit: Lightweight Docker Swarm management UI](https://github.com/swarmpit/swarmpit)
+
+## ContainerPilot
+
+[ContainerPilot | Joyent](https://www.joyent.com/containerpilot)
+[joyent/containerpilot: A service for autodiscovery and configuration of applications running in containers](https://github.com/joyent/containerpilot)
+[Implementing the autopilot pattern | Joyent](https://www.joyent.com/blog/applications-on-autopilot)
+
+## Dozzle
+
+[Home | Dozzle](https://dozzle.dev/)
+[amir20/dozzle: Realtime log viewer for docker containers.](https://github.com/amir20/dozzle)

@@ -2,7 +2,7 @@
 title: Web Assembly
 description: ""
 created: 2017-06-19
-updated: 2023-10-02
+updated: 2024-10-03
 tags:
   - wasm
   - web
@@ -11,7 +11,7 @@ tags:
 [[web-assembly-runtime]]
 
 [WebAssembly](http://webassembly.org/)
-[WebAssembly - Wikiwand](https://www.wikiwand.com/en/WebAssembly)
+[WebAssembly - Wikiwand](https://omni.wikiwand.com/en/WebAssembly)
 
 [Bytecode Alliance](https://bytecodealliance.org/)
 [WebAssembly 中文网|Wasm 中文文档](https://www.wasm.com.cn/)
@@ -125,6 +125,8 @@ Playgrounds:
 [Understanding WebAssembly text format - WebAssembly | MDN](https://developer.mozilla.org/en-US/docs/WebAssembly/Understanding_the_text_format)
 [Converting WebAssembly text format to wasm - WebAssembly | MDN](https://developer.mozilla.org/en-US/docs/WebAssembly/Text_format_to_wasm)
 [WAT - WebAssembly Text Format.](https://www.webassemblyman.com/wat_webassembly_text_format.html)
+
+[thomscoder/luna: 🌙 A really tiny WebAssembly compiler for demonstration and educational purposes. Written in Go and built as one of my quests to conquer the WebAssembly dungeon](https://github.com/thomscoder/luna)
 
 ## #perfmatters
 
@@ -383,6 +385,7 @@ cp target/wasm32-wasi/release/*wasm .
 
 [Go and WebAssembly | Learn the Basics of WASM - YouTube](https://www.youtube.com/watch?v=10Mz3z-W1BE)
 
+[Notes on running Go in the browser with WebAssembly - Eli Bendersky's website](https://eli.thegreenplace.net/2024/notes-on-running-go-in-the-browser-with-webassembly/)
 [Go WebAssembly Internals - Part 1 - DEV Community 👩‍💻👨‍💻](https://dev.to/x1unix/go-webassembly-internals-part-1-14aj)
 [Go WebAssembly Internals - Part 2 - DEV Community 👩‍💻👨‍💻](https://dev.to/x1unix/go-webassembly-internals-part-2-51am)
 
@@ -391,7 +394,7 @@ cp target/wasm32-wasi/release/*wasm .
 > Blazor was known as Razor Components in preview builds of .NET Core
 > Blazor is used for building web services/web pages
 
-[Blazor - Wikiwand](https://www.wikiwand.com/en/Blazor)
+[Blazor - Wikiwand](https://omni.wikiwand.com/en/Blazor)
 [Blazor | Build client web apps with C# | .NET](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
 [dotnet/aspnetcore: ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.](https://github.com/dotnet/aspnetcore) Blazor now part of ASP.NET Core
 [ASP.NET Core Blazor | Microsoft Learn](https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-8.0)

@@ -2,7 +2,7 @@
 title: SQLite
 description: ""
 created: 2023-09-26
-updated: 2023-10-05
+updated: 2024-08-14
 tags:
   - comp/database
   - postgresql
@@ -10,7 +10,7 @@ tags:
 ---
 
 [SQLite Home Page](https://www.sqlite.org/)
-[SQLite - Wikiwand](https://www.wikiwand.com/en/sqlite#Media/File:Sqlite3_command_screenshot.png)
+[SQLite - Wikiwand](https://omni.wikiwand.com/en/sqlite#Media/File:Sqlite3_command_screenshot.png)
 
 [SQLite Tutorial - An Easy Way to Master SQLite Fast](https://www.sqlitetutorial.net/)
 [SQLite Tutorial - Tutorialspoint](https://www.tutorialspoint.com/sqlite/index.htm)
@@ -25,6 +25,7 @@ tags:
 [The Origin of SQLite, the World’s Most Widely-Used Database – The New Stack](https://thenewstack.io/the-origin-story-of-sqlite-the-worlds-most-widely-used-database-software/)
 [Why you should use SQLite | InfoWorld](https://www.infoworld.com/article/3331923/database/why-you-should-use-sqlite.html)
 [Why SQLite may become foundational for digital progress | VentureBeat](https://venturebeat.com/2022/05/20/why-sqlite-may-become-foundational-for-digital-progress/)
+[A Guide to Working with SQLite Databases in Python - KDnuggets](https://www.kdnuggets.com/a-guide-to-working-with-sqlite-databases-in-python)
 
 [A hands-on tutorial of SQLite3 | Opensource.com](https://opensource.com/article/21/2/sqlite3-cheat-sheet)
 [SQLite Tutorial - An Easy Way to Master SQLite Fast](https://www.sqlitetutorial.net/)

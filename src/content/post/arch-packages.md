@@ -2,7 +2,7 @@
 title: Arch Post Install
 description: ""
 created: 2021-01-08
-updated: 2023-11-08
+updated: 2024-10-03
 tags:
   - arch-linux
   - desktop
@@ -13,11 +13,18 @@ tags:
 > try to automate these after installing packages
 
 [[cinnamon-setup]]
+[[gnome-notes]]
 
 - Copy old Dropbox folder
 - Copy old Google Drive folder
 
 ```fish
+ln -sf ~/Dropbox/caravan ~/caravan
+ln -sf ~/Dropbox/caravan/wip ~/wip
+ln -sf ~/Dropbox/caravan/seasoned.bits ~/seasoned.bits
+ln -sf ~/Dropbox/commonroom ~/commonroom
+
+# the script also create symlinks
 ln -sf ~/Dropbox/caravan ~/caravan
 set -x CARAVAN_ENV [home|64.48]
 ~/caravan/home/0-install-caravan.sh $CARAVAN_ENV
@@ -35,31 +42,36 @@ See [pigmonkey/spark: Arch Linux Provisioning with Ansible](https://github.com/p
 ```sh
 # priority packages
 # console tools
-yay -S exa fish guake ttf-firacode-nerd noto-fonts-emoji sshfs tmux tree vim xsel
-yay -S colordiff diff-so-fancy fpp httpie mlocate shellcheck-bin
+yay -S --needed --noconfirm eza fish guake kitty ttf-firacode-nerd noto-fonts-emoji starship sshfs tmux tree neovim vim xsel yq
+yay -S --needed --noconfirm colordiff diff-so-fancy fpp jshon plocate shellcheck-bin zoxide
 # new way to rebind mouse/keyboard keys (rather than using X11 conf)
-yay -S xbindkeys xautomation
-yay -S dropbox google-chrome sublime-text-3 visual-studio-code-bin
+yay -S --needed --noconfirm sxhkd xautomation xev xdo xdotool
+yay -S --needed --noconfirm dropbox google-chrome sublime-text-3 visual-studio-code-bin 7-zip-full pcmanfm-gtk3
 
 # admin tools
-baobab dconf dconf-editor htop lnav xbindkeys xautomation xev xdo
+baobab dconf dconf-editor htop lnav mimeo
 # system tools
-base-devel cmake docker docker-buildx lshw nethogs pyenv sysstat udev-browse-git
+base-devel ccache clang cmake docker docker-buildx lshw nethogs pyenv sysstat
+#  udev-browse-git
 
 # runtime
-jre11-openjdk-headless
+jre-openjdk-headless jre11-openjdk-headless
 dotnet-sdk nuget
+go zig zls
 
 # browser
 firefox google-chrome profile-sync-daemon
 # cloud storage
 dropbox pcloud-drive
 # graphics
-gimp flameshot inkscape pinta yed pencil-bin zathura
+drawio-desktop gimp imagemagick inkscape pinta viewnior
+# zathura zathura-pdf-mupdf
+# yed pencil-bin
 # ui tools
-clipit zenity
-rofi goldendict
-mediainfo-gui meld sublime-merge
+zenity goldendict
+rofi rofi-power-menu rofimoji
+meld sublime-merge
+mediainfo mediainfo-gui mpv
 # office tools
 libreoffice-fresh teamviewer turbovnc
 # ebook
@@ -68,10 +80,10 @@ calibre
 teams signal-desktop
 
 # network
-openconnect networkmanager-openconnect networkmanager-pptp
+openconnect networkmanager-openconnect networkmanager-pptp tailscale
 
 # server tools
-studio-3t sqlitestudio
+dbgate #studio-3t sqlitestudio
 ```
 
 ```sh
@@ -143,17 +155,12 @@ ln -s ~/caravan/home/apps.conf/starship.toml ~/.config/
 [graysky2/profile-sync-daemon: Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.](https://github.com/graysky2/profile-sync-daemon)
 
 ```sh
-rm -rf ~/.config/psd
-ln -sf ~/caravan/home/apps.conf/psd ~/.config/psd
-
-psd preview
-
-# add `{user} ALL=(ALL) NOPASSWD: /usr/bin/psd-overlay-helper` to
-sudo visudo -f /etc/sudoers.d/psd
-
+sudo cp ~/caravan/home/home.rfs/etc/sudoers.d/10-psd-overlay-helper /etc/sudoers.d
 # such that this command does not requires password
 sudo -n /usr/bin/psd-overlay-helper
 
+psd preview
+# quit all browsers first
 systemctl --user enable --now psd
 ```
 
@@ -195,10 +202,14 @@ Use `archlinux-java` to select Java Runtime
 
 ## Samba
 
+[Samba - ArchWiki](https://wiki.archlinux.org/title/Samba#Troubleshooting)
 [smb.conf.default](https://git.samba.org/samba.git/?p=samba.git;a=blob_plain;f=examples/smb.conf.default;hb=HEAD)
 
 ```sh
-sudo cp ~/caravan/home/rfs/etc/samba/smb.conf /etc/samba/
+yay -S samba
+cd ~/caravan/home.rfs
+sudo cp etc/samba/smb.conf /etc/samba/
+sudo testparm -d 5 etc/samba/smb.conf # this should pass
 sudo systemctl enable --now smb.service
 
 # add samba user
@@ -220,7 +231,7 @@ If performance is not an issue it is [recommended](https://wiki.archlinux.org/ti
 [Install Video Drivers on Arch Linux | DominicM](http://dominicm.com/install-video-drivers-on-arch-linux/)
 
 [Vulkan - Industry Forged](https://www.khronos.org/vulkan/)
-[Vulkan (API) - Wikiwand](<https://www.wikiwand.com/en/Vulkan_(API)>)
+[Vulkan (API) - Wikiwand](<https://omni.wikiwand.com/en/Vulkan_(API)>)
 [Vulkan - ArchWiki](https://wiki.archlinux.org/title/Vulkan)
 
 [Install And Test Vulkan On Linux](https://linuxconfig.org/install-and-test-vulkan-on-linux) `vulkaninfo` in `vulkan-tools`
@@ -237,10 +248,15 @@ If performance is not an issue it is [recommended](https://wiki.archlinux.org/ti
 [AMDGPU PRO - ArchWiki](https://wiki.archlinux.org/title/AMDGPU_PRO)
 
 ```sh
-mesa lib32-mesa xf86-video-amdgpu
-vulkan-radeon lib32-vulkan-radeon # MESA Vulkan, better performance
-amdvlk lib32-amdvlk  # AMD Vulkan
+
+mesa xf86-video-amdgpu
+vulkan-radeon # MESA Vulkan, better performance
+amdvlk  # AMD Vulkan
 libva-mesa-driver mesa-vdpau # video acceleration
+
+lib32-mesa
+lib32-vulkan-radeon # MESA Vulkan, better performance
+lib32-amdvlk  # AMD Vulkan
 ```
 
 ```sh
@@ -368,6 +384,8 @@ $ vi ~/.xprofile
 export GTK_IM_MODULE=fcitx
 export QT_IM_MODULE=fcitx
 export XMODIFIERS=@im=fcitx
+export SDL_IM_MODULE=fcitx
+export GLFW_IM_MODULE=ibus
 ```
 
 Settings

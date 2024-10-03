@@ -2,7 +2,7 @@
 title: GameCube/Wii Emulator
 description: ""
 created: 2023-06-12
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - emulator
   - gamecube

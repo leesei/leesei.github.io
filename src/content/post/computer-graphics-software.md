@@ -2,7 +2,7 @@
 title: Computer Graphics (Software)
 description: Computer Graphics on the software side, the how and whys, also on how games are rendered
 created: 2015-08-31
-updated: 2023-09-29
+updated: 2024-08-28
 tags:
   - games
   - graphics/software
@@ -10,10 +10,12 @@ tags:
 
 The requirements for computer graphics stems from rendering games.
 See [[computer-graphics-hardware]] for the hardware side.
+See [[3d-graphics]] for tools and specific techniques.
 
 ## Rendering
 
 [How Rendering Graphics Works in Games! - YouTube](https://www.youtube.com/watch?v=cvcAjgMUPUA)
+[How do Video Game Graphics Work? - YouTube](https://www.youtube.com/watch?v=C8YtdC8mxTU)
 
 [Jasper - YouTube](https://www.youtube.com/@JasperRLZ) mostly on console rendering engine
 [noclip](https://noclip.website/#) Nintendo game assets
@@ -60,6 +62,7 @@ Sprite: image rendered on separate layer
 [为什么 24 帧的电影很顺畅，30 帧的游戏没法儿玩？24 FPS Movie and 30 FPS Game【柴知道 ChaiKnows】【科普 Science】【冷知识 Trivia】 - YouTube](https://www.youtube.com/watch?v=5hKhEX7vODU)
 [【聊電 Jing】什麼是 1% & 0.1% Lows 為何它比平均 FPS 還要更重要? - YouTube](https://www.youtube.com/watch?v=hR4zl3RKWH8)
 [【硬件科普】游戏帧数越高越流畅？未必！详解1%low帧和流畅度 - YouTube](https://www.youtube.com/watch?v=2cnR0VhXcw0)
+[影视飓风将停止制作25帧视频 - YouTube](https://www.youtube.com/watch?v=2JwPbNivR2k)
 
 [手机插帧芯片 MEMC 有意义吗？「硬核显示技术第五期」详解一加 8Pro 的 MEMC 插帧补偿技术 - YouTube](https://www.youtube.com/watch?v=5hBy7VHC3Q4)
 [Topaz Labs: AI Image Quality Software](https://www.topazlabs.com/)

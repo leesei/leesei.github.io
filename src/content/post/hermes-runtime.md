@@ -2,7 +2,7 @@
 title: Hermes
 description: JavaScript engine optimized for React Native
 created: 2023-10-02
-updated: 2023-11-26
+updated: 2023-12-01
 tags:
   - javascript/runtime
   - typescript

@@ -2,7 +2,7 @@
 title: Robotics
 description: ""
 created: 2015-10-19
-updated: 2023-09-29
+updated: 2024-09-30
 tags:
   - maker
 ---
@@ -10,13 +10,17 @@ tags:
 [The Complete History And Future of Robots | WIRED](https://www.wired.com/story/wired-guide-to-robots/)
 [9 Most Advanced AI Robots - Humanoid & Industrial Robots - YouTube](https://www.youtube.com/watch?v=Jky9I1ihAkg)
 
-[Documentation - ROS Wiki](http://wiki.ros.org/)
-
 [Robots4Us Student Contest | DRC Finals](http://www.theroboticschallenge.org/Robots4Us)
 [The Robots4Us Challenge - TechStuff (podcast)](https://player.fm/series/techstuff/the-robots4us-challenge)
 [A Compilation of Robots Falling Down at the DARPA Robotics Challenge - YouTube](https://www.youtube.com/watch?v=g0TaYhjpOfo)
 
 [VEX IQ Super Kit - Do you want to build a robot? - YouTube](https://www.youtube.com/watch?v=sohekAXc8UY)
+
+[The Real Reason Robots Shouldn’t Look Like Humans - YouTube](https://www.youtube.com/watch?v=eLVAMG_3fLg)
+
+- soft robotics
+- jumping robot
+- micro mouse
 
 [Robot Quickstart! - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/robot-quickstart) TB6612FNG
 
@@ -38,6 +42,15 @@ tags:
 
 [Build a REAL Robot - YouTube](https://www.youtube.com/playlist?list=PLWNDWPAClRVqZITmi-J-7E9XSZd2aqqBh)
 [Arduino and Servos: How to Make a Laser Turret with XOD - YouTube](https://www.youtube.com/watch?v=iH9_xtulyws) DroneBot Workshop
+
+## Robotics Operating System (ROS)
+
+[ROS: Home](https://ros.org/)
+[Documentation - ROS Wiki](http://wiki.ros.org/)
+
+[Introduction to Robotics Operating System (ROS)](https://www.itprotoday.com/digital-transformation/introduction-to-robotics-operating-system-ros-)
+[How To Deploy ROS 2 on Ubuntu 22.04: A Step-by-Step Guide](https://www.itprotoday.com/digital-transformation/how-to-deploy-ros-2-on-ubuntu-22-04-a-step-by-step-guide)
+[How To Build Your First ROS Application](https://www.itprotoday.com/digital-transformation/how-to-build-your-first-ros-application)
 
 ## Boston Dynamics
 
@@ -126,10 +139,10 @@ tags:
 
 ## IMU
 
-[Inertial measurement unit - Wikiwand](https://www.wikiwand.com/en/Inertial_measurement_unit)
+[Inertial measurement unit - Wikiwand](https://omni.wikiwand.com/en/Inertial_measurement_unit)
 [The GENIUS of Inertial Navigation Systems Explained - YouTube](https://www.youtube.com/watch?v=Pq_PDaYclAw)
 
-[Accelerometer - Wikiwand](https://www.wikiwand.com/en/Accelerometer)
+[Accelerometer - Wikiwand](https://omni.wikiwand.com/en/Accelerometer)
 [Accelerometer Basics - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/accelerometer-basics/all)
 [Accelerometer, Gyro and IMU Buying Guide - SparkFun Electronics](https://www.sparkfun.com/pages/accel_gyro_guide)
 [How a gyroscope guides a rocket - YouTube](https://www.youtube.com/watch?v=KToggTKa9Lk)
@@ -141,7 +154,7 @@ tags:
 
 ## Motor
 
-[Electric motor - Wikiwand](http://www.wikiwand.com/en/Electric_motor) Electronic speed controllers (ESC)
+[Electric motor - Wikiwand](http://omni.wikiwand.com/en/Electric_motor) Electronic speed controllers (ESC)
 [Types of Motors | Adafruit Motor Selection Guide | Adafruit Learning System](https://learn.adafruit.com/adafruit-motor-selection-guide)
 [Motors and Selecting the Right One - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one)
 [Which Motor Type is the Best Generator? || DC, BLDC or Stepper? (Experiment) - YouTube](https://www.youtube.com/watch?v=cJ_vDA7xsGs)
@@ -149,6 +162,7 @@ tags:
 [How does an Electric Motor work? (DC Motor) - YouTube](https://www.youtube.com/watch?v=CWulQ1ZSE3c)
 [How-To: Motors: 10 Steps (with Pictures)](https://www.instructables.com/id/How-To-Motors/)
 [Toy Motors: 3 Steps](https://www.instructables.com/id/Toy-Motors/)
+[三種馬達介紹(再版) - YouTube](https://www.youtube.com/watch?v=NCcYGrakkoU)
 
 Life of Wayne
 [地表最強電機的秘密！解密特斯拉最新電機技術!超乎你的想象！永磁電機不如感應電機？What's inside the tesla motor？ - YouTube](https://www.youtube.com/watch?v=cUIJHyIQgnQ)
@@ -222,8 +236,8 @@ When using PWM to drive DC motor, do a high pass (of say 8 out of 255 with 8 bit
 
 ### DC Brushed/Brushless Motors
 
-[摩打 - Wikiwand](https://www.wikiwand.com/zh-hant/电动机)
-[DC motor - Wikiwand](http://www.wikiwand.com/en/DC_motor)
+[摩打 - Wikiwand](https://omni.wikiwand.com/zh/电动机)
+[DC motor - Wikiwand](http://omni.wikiwand.com/en/DC_motor)
 
 Deceleration Motor
 [减速机\_百度百科](https://baike.baidu.com/item/减速机)
@@ -303,8 +317,8 @@ SynRM
 
 ### Servo Motors
 
-[Servomotor - Wikiwand](https://www.wikiwand.com/en/Servomotor)
-[伺服馬達 - Wikiwand](https://www.wikiwand.com/zh-hant/伺服馬達)
+[Servomotor - Wikiwand](https://omni.wikiwand.com/en/Servomotor)
+[伺服馬達 - Wikiwand](https://omni.wikiwand.com/zh/伺服馬達)
 [How Servo Motors Work | Servo Motor Controllers](https://www.jameco.com/jameco/workshop/howitworks/how-servo-motors-work.html)
 [Technical animation: How a servo motor works - YouTube](https://www.youtube.com/watch?v=hg3TIFIxWCo&vl=en)
 [How RC Servos Works](http://pcbheaven.com/wikipages/How_RC_Servos_Works/)
@@ -318,8 +332,8 @@ Duty cycle: 5-10% (1-2ms)
 
 ### Stepper motor
 
-[Stepper motor - Wikiwand](https://www.wikiwand.com/en/Stepper_motor)
-[步進馬達 - Wikiwand](https://www.wikiwand.com/zh-hant/步進馬達)
+[Stepper motor - Wikiwand](https://omni.wikiwand.com/en/Stepper_motor)
+[步進馬達 - Wikiwand](https://omni.wikiwand.com/zh/步進馬達)
 
 [What is a Stepper Motor? | All About Stepper Motors | Adafruit Learning System](https://learn.adafruit.com/all-about-stepper-motors?view=all)
 [3D Printer Stepper Motor: All You Need to Know | All3DP](https://m.all3dp.com/2/3d-printer-stepper-motor-what-to-consider-and-which-to-choose-2/)
@@ -374,9 +388,15 @@ Duty cycle: 5-10% (1-2ms)
 
 ### PID Control
 
-Proportional, Derivative, Integral
+Proportional: counteract error proportionally
+Integral: counteract the steady state error
+Derivative: counteract the overshoot (slowing down the response)
 
-[PID controller - Wikiwand](https://www.wikiwand.com/en/PID_controller)
+[PID controller - Wikiwand](https://omni.wikiwand.com/en/PID_controller)
+[Controlling Self Driving Cars - YouTube](https://www.youtube.com/watch?v=4Y7zG48uHRo)
+[PIDs Simplified - YouTube](https://www.youtube.com/watch?v=6OH-wOsVVjg)
+[What is a PID Controller? | DigiKey - YouTube](https://www.youtube.com/watch?v=tFVAaUcOm4I)
+[PID vs. Other Control Methods: What's the Best Choice - YouTube](https://www.youtube.com/watch?v=lRZ4NT5DRk8)
 [Understanding PID Control - YouTube](https://www.youtube.com/playlist?list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y)
 [PID Tutorials for Line Following | RobotShop Community](https://www.robotshop.com/community/blog/show/pid-tutorials-for-line-following)
 
@@ -386,10 +406,16 @@ Proportional, Derivative, Integral
 
 [Line Follower Robot - PID Control - Android Setup: 12 Steps (with Pictures)](https://www.instructables.com/id/Line-Follower-Robot-PID-Control-Android-Setup/#step8)
 [PID Tutorials for Line Following - Let's Make Robots / Tutorials - RobotShop Community](https://www.robotshop.com/community/forum/t/pid-tutorials-for-line-following/13164)
+[Arduino PID Controller - From Scratch! - YouTube](https://www.youtube.com/watch?v=RZW1PsfgVEI)
+[PID Controller Implementation in Software - Phil's Lab #6 - YouTube](https://www.youtube.com/watch?v=zOByx3Izf5U)
+[PID Math Demystified - YouTube](https://www.youtube.com/watch?v=JEpWlTl95Tw)
 
 [How to program hand following mBot with XOD PID-controller](https://medium.com/xodlang/how-to-program-mbot-with-xod-pid-controller-c3e310f8eceb)
 [XOD powered line follower mBot – XODlang – Medium](https://medium.com/xodlang/xod-powered-line-follower-mbot-2ae4a4862a9e)
 
+[I made a SUPER FAST Line Follower Robot Using PID! - YouTube](https://www.youtube.com/watch?v=QoNkpnpvEqc)  
+[Are PID line followers ACTUALLY faster? - YouTube](https://www.youtube.com/watch?v=LP9Y7nrc5Z0)
+[Line Follower Robot - YouTube](https://www.youtube.com/playlist?list=PLAKJnPdBaJqzZiQbJeaEbbFurBDd4a3Jx)
 [PID Line Follower for EV3 - The Ultimate Line Follower! - YouTube](https://www.youtube.com/watch?v=AMBWV_HGYj4)
 [What is the Best EV3 Line Follower For You? - YouTube](https://www.youtube.com/watch?v=P50CE0xwhvo)
 
@@ -411,13 +437,13 @@ Proportional, Derivative, Integral
 
 For state estimation
 
-[Kalman filter - Wikiwand](https://www.wikiwand.com/en/Kalman_filter)
+[Kalman filter - Wikiwand](https://omni.wikiwand.com/en/Kalman_filter)
 [Understanding Kalman Filters - YouTube](https://www.youtube.com/playlist?list=PLn8PRpmsu08pzi6EMiYnR-076Mh-q3tWr)
 
 ## Mecanum wheel/Omni wheel
 
-[Mecanum wheel - Wikiwand](https://www.wikiwand.com/en/Meclanum_wheel)
-[Omni wheel - Wikiwand](https://www.wikiwand.com/en/Omni_wheel)
+[Mecanum wheel - Wikiwand](https://omni.wikiwand.com/en/Meclanum_wheel)
+[Omni wheel - Wikiwand](https://omni.wikiwand.com/en/Omni_wheel)
 
 [麥克納姆輪全向移動原理 - IT 閱讀](https://www.itread01.com/content/1549544428.html)
 [机器人中的全向轮是什么 - 知乎](https://zhuanlan.zhihu.com/p/20892139)

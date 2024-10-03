@@ -2,7 +2,7 @@
 title: Lord of the Rings
 description: ""
 created: 2020-12-11
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - lord-of-the-rings
   - lotr

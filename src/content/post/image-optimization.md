@@ -2,7 +2,7 @@
 title: Image Optimization
 description: ""
 created: 2016-08-04
-updated: 2023-09-29
+updated: 2024-08-18
 tags:
   - app
   - shell-tools
@@ -13,26 +13,28 @@ tags:
 [18 image file compression tools tested | Creative Bloq](http://www.creativebloq.com/design/image-compression-tools-1132865)
 [Comparison of all optimisation tools | ImageOptim-CLI](https://jamiemason.github.io/ImageOptim-CLI/)
 
-[ImageOptim — better Save for Web](https://imageoptim.com/mac)
+[ImageOptim — better Save for Web](https://imageoptim.com/mac) macOS
 [ImageOptim alternatives for Windows and Linux](https://imageoptim.com/versions.html)
 [JamieMason/ImageOptim-CLI: Make optimisation of images part of your automated build process](https://github.com/JamieMason/ImageOptim-CLI)
+
+[Squoosh](https://squoosh.app/)
 
 [Trimage (lossless) image compressor](https://trimage.org/) advpng, jpegoptim, optipng and pngcrush
 ImageOptim-inspired, with CLI, much slower and worse compression than `@leesei/imgmini`
 
 [图压 - 简单易用的图片压缩软件](https://tuya.xinxiao.tech/#open-source)
 
-[Caesium - Image Compressor](https://saerasoft.com/caesium)
-[Antelope 5.2.0.0 for Windows - Download](https://antelope.en.uptodown.com/windows)
+[Caesium - Image Compressor](https://saerasoft.com/caesium) Windows, macOS
+[Antelope 5.2.0.0 for Windows - Download](https://antelope.en.uptodown.com/windows) Windows
 
 [BPG Image format](http://bellard.org/bpg/) H.265
 [A new image format for the Web | WebP | Google Developers](https://developers.google.com/speed/webp/)
 
-[toy/image_optim: Optimize images using multiple utilities](https://github.com/toy/image_optim) Ruby
-[spatie/image-optimizer: Easily optimize images using PHP](https://github.com/spatie/image-optimizer) PHP, saving not prominent
-[Image Compression with Golang - DEV Community](https://dev.to/franciscomendes10866/image-compression-with-golang-k2p) Go, `libvips`
 [siiptuo/pio: Optimize images while maintaining the same perceived quality](https://github.com/siiptuo/pio) Rust
-[imager-io/imager: Automated image compression for efficiently distributing images on the web.](https://github.com/imager-io/imager/tree/master) Rust/Docker
+[Image Compression with Golang - DEV Community](https://dev.to/franciscomendes10866/image-compression-with-golang-k2p) Go, `libvips`
+[spatie/image-optimizer: Easily optimize images using PHP](https://github.com/spatie/image-optimizer) PHP, saving not prominent
+[toy/image_optim: Optimize images using multiple utilities](https://github.com/toy/image_optim) Ruby
+[imager-io/imager: Automated image compression for efficiently distributing images on the web.](https://github.com/imager-io/imager) Rust/Docker
 
 [unjs/ipx: High performance, secure and easy to use image proxy based on Sharp and libvips.](https://github.com/unjs/ipx/) web server
 
@@ -50,7 +52,7 @@ ImageOptim-inspired, with CLI, much slower and worse compression than `@leesei/i
 
 [The home of PackJPG](http://www.elektronik.htw-aalen.de/packjpg/)
 
-jpegoptim -P -p --all-progressive -s -m 90 --no-action <file>
+`jpegoptim -P -p --all-progressive -s -m 90 --no-action <file>`
 
 # PNG
 
@@ -71,7 +73,7 @@ jpegoptim -P -p --all-progressive -s -m 90 --no-action <file>
 pingo
 [Advance Projects](http://www.advancemame.it/doc-advpng.html) `advpng`, uses zopflipng, larger file ><
 
-zopflipng
+[google/zopfli: Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression.](https://github.com/google/zopfli) `zopflipng`
 
 # SVG
 

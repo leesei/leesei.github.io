@@ -2,13 +2,13 @@
 title: Second Brain
 description: ""
 created: 2023-01-13
-updated: 2023-11-22
+updated: 2024-09-21
 tags:
   - learning
 featured: true
 ---
 
-[Personal knowledge management - Wikiwand](https://www.wikiwand.com/en/Personal_knowledge_management)
+[Personal knowledge management - Wikiwand](https://omni.wikiwand.com/en/Personal_knowledge_management)
 [Personal Knowledge Management (PKM)](https://www.nozdrenkov.com/pkm/)
 [🌱 My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden)
 [My Knowledge Wiki 🌿 | Everything I Know](https://wiki.nikiv.dev/)
@@ -16,19 +16,22 @@ featured: true
 [Visual PKM - YouTube](https://www.youtube.com/playlist?list=PL6mqgtMZ4NP1emKF-bWvgS5vBD0_NM0v4)
 [学习方法 - 如何构造高效的知识管理系统 ｜ 为什么学了就忘 ｜把书读透的读书方法 ｜ 高效学习方法 - YouTube](https://www.youtube.com/watch?v=5Yn4-aSggI0)
 
-[amirgamil/apollo: A Unix-style personal search engine and web crawler for your digital footprint.](https://github.com/amirgamil/apollo)
+[How to Take Digital Notes and Build Your Second Brain in 2021 (With Tiago Forte) - YouTube](https://www.youtube.com/watch?v=MlBQhdqmaQc)
+[Tiago Forte | Building a Second Brain | Talks at Google - YouTube](https://www.youtube.com/watch?v=Y86GOtc1KNo)
 
 My requirements:
 
 - Zettelkasten method
   hence graph visualization is a plus
-- local file (edit in VSCode)
+- local Markdown files (edit with text editor)
 - tag list
 - tag search
 - export to static site
   MDX and component support is a plus
   wikilink support is a plus
   (this restrict my notes to be a single folder structure for better support of both Foam and static site generation)
+
+「寫作之難，在於把網狀的思考，用樹狀的語法結構，轉換成線性字串。」 - "The Web, the Tree, and the String", Steven Pinker
 
 [[markdown]]
 
@@ -58,7 +61,7 @@ I use graph view and use scripts to analyze the frontmatters
 
 ### Zettelkasten
 
-[Zettelkasten - Wikiwand](https://www.wikiwand.com/en/Zettelkasten)
+[Zettelkasten - Wikiwand](https://omni.wikiwand.com/en/Zettelkasten)
 [Getting Started • Zettelkasten Method](https://zettelkasten.de/posts/overview/)
 [A Beginner’s Guide to the Zettelkasten Method | Zenkit](https://zenkit.com/en/blog/a-beginners-guide-to-the-zettelkasten-method/)
 [How to make atomic literature notes using the Zettelkasten method](https://meda.io/how-to-make-atomic-literature-notes/)
@@ -100,8 +103,11 @@ Hierarchy
 
 ### PARA
 
+[Tiago Forte | The PARA Method: Simplify, Organize, and Master Your Digital Life | Talks at Google - YouTube](https://www.youtube.com/watch?v=UrmUYWOOyFg)
+
 [如何儲存你的檔案，才能快速找到它們？ | T 客邦](https://www.techbang.com/posts/100481-how-do-i-store-files-so-i-can-find-them-quickly)
-PARA: Projects （專案）、Areas （領域）、Resources （資源）、Archives （檔案）
+
+PARA: Projects（專案）、Areas（領域）、Resources（資源）、Archives（檔案）
 專案：一系列與目標相關的任務，有一個截止日期。比如 「完成一個應用程式的模型」，「訂定出遊計畫」，「寫一篇部落客文章」，「在會議上演講」。
 領域：一個活動範圍或類別，比如 「健康」，「財務」，「職業發展」，「汽車」，「產品開發」。
 資源：一個持續關注的話題或主題，比如 「習慣養成」，「音樂」，「網路行銷」，「室內設計」，等等。
@@ -111,7 +117,7 @@ PARA: Projects （專案）、Areas （領域）、Resources （資源）、Arch
 
 [Knowledge Graphs - Computerphile - YouTube](https://www.youtube.com/watch?v=PZBm7M0HGzw)
 
-[Google Knowledge Graph - Wikiwand](https://www.wikiwand.com/en/Google_Knowledge_Graph)
+[Google Knowledge Graph - Wikiwand](https://omni.wikiwand.com/en/Google_Knowledge_Graph)
 [How Google's Knowledge Graph works - Knowledge Panel Help](https://support.google.com/knowledgepanel/answer/9787176?hl=en)
 [Google Knowledge Graph Search API | Google for Developers](https://developers.google.com/knowledge-graph)
 
@@ -125,6 +131,13 @@ PARA: Projects （專案）、Areas （領域）、Resources （資源）、Arch
 [How to choose a note-taking app | Zettelkasten | Notion vs Roam vs Obsidian - YouTube](https://www.youtube.com/watch?v=4MxI68kg8to)
 [Why I chose Obsidian over Roam (as a Roam investor) - YouTube](https://www.youtube.com/watch?v=AWUk8-6yG2g)
 [Best Note-Taking App For Building A Second Brain | by Vinod Sharma | Medium](https://authorvinod.medium.com/best-note-taking-app-for-building-a-second-brain-cf4c6f53df6c)
+
+## AppFlowy
+
+> open source Notion alternative
+
+[AppFlowy.IO](https://www.appflowy.io/)
+[AppFlowy-IO/AppFlowy: Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.](https://github.com/AppFlowy-IO/AppFlowy)
 
 ## Obsidian
 
@@ -173,29 +186,6 @@ Some thoughts are on general methodology
 
 [yoursamlan/pubsidian: An Obsidian-Publish alternative but it's FREE](https://github.com/yoursamlan/pubsidian)
 
-## Roam
-
-> as a service only
-
-[[#Foam]]
-
-[Roam Research – A note taking tool for networked thought.](https://roamresearch.com/)
-
-[100 ROAM TIPS: Beginner to Advanced in 25 Mins | Roam Research Course - YouTube](https://www.youtube.com/watch?v=4yXK9OMc2OU)
-
-## Tana
-
-[Tana：2022 最惊艳的笔记软件，凭什么人人都在排队等待试用？ | 回到 Axton - YouTube](https://www.youtube.com/watch?v=gR6axU2mF0M)
-
-## Notion
-
-> hierarchical, contrary to Zettelkasten
-> cloud-based
-
-[Notion – One workspace. Every team.](https://www.notion.so/product) built on database
-[為什麼許多人都改用 Notion 做為主力筆記軟體？看完這個你就明白了 👍 - YouTube](https://www.youtube.com/watch?v=Q_PfYlAtvHc)
-[A Beginner's Guide to Notion - SitePoint](https://www.sitepoint.com/notion-beginners-guide/)
-
 ## Emanote
 
 [Emanote](https://emanote.srid.ca/)
@@ -207,6 +197,21 @@ Some thoughts are on general methodology
 [mickael-menu/zk-vscode: Visual Studio Code extension for zk](https://github.com/mickael-menu/zk-vscode)
 
 [sirupsen/zk: Zettelkasten on the command-line 📚 🔍](https://github.com/sirupsen/zk)
+
+## Apollo
+
+[amirgamil/apollo: A Unix-style personal search engine and web crawler for your digital footprint.](https://github.com/amirgamil/apollo)
+
+## Anytype
+
+[The Everything App](https://anytype.io/)
+[Any Association · GitHub](https://github.com/anyproto)
+
+[告別用了四年的Notion，更簡單、更穩定、不失控！Anytype是何方神聖？【附模板】｜⊿ - YouTube](https://www.youtube.com/watch?v=PZvinNlwhqw)
+
+## Logseq
+
+[Logseq: A privacy-first, open-source knowledge base](https://logseq.com/)
 
 ## VSCode
 
@@ -272,3 +277,45 @@ mkdir /tmp/dist; emanote gen /tmp/dist
 [Dendron Wiki](https://wiki.dendron.so/)
 
 [Tag Search - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=d3vr.tag-search)
+
+---
+
+# Honorable Mentions
+
+Evernote 👎 for its free tier is very limited.
+
+## Roam
+
+> as a service only
+
+[[#Foam]]
+
+[Roam Research – A note taking tool for networked thought.](https://roamresearch.com/)
+
+[100 ROAM TIPS: Beginner to Advanced in 25 Mins | Roam Research Course - YouTube](https://www.youtube.com/watch?v=4yXK9OMc2OU)
+
+## Tana
+
+> cloud-based
+
+[Tana：2022 最惊艳的笔记软件，凭什么人人都在排队等待试用？ | 回到 Axton - YouTube](https://www.youtube.com/watch?v=gR6axU2mF0M)
+
+## Notion
+
+> hierarchical, contrary to Zettelkasten
+> cloud-based
+
+[Notion – One workspace. Every team.](https://www.notion.so/product) built on database
+[為什麼許多人都改用 Notion 做為主力筆記軟體？看完這個你就明白了 👍 - YouTube](https://www.youtube.com/watch?v=Q_PfYlAtvHc)
+[A Beginner's Guide to Notion - SitePoint](https://www.sitepoint.com/notion-beginners-guide/)
+
+## Zotero
+
+> web service, self-host
+
+[Zotero | Your personal research assistant](https://www.zotero.org/)
+
+## Apollo
+
+[Apollo](https://apollo.amirbolous.com/)
+[amirgamil/apollo: A Unix-style personal search engine and web crawler for your digital footprint.](https://github.com/amirgamil/apollo)

@@ -2,6 +2,7 @@
 title: Transformers
 description: ""
 created: 2023-10-07
+updated: 2024-08-14
 tags:
   - anime
 ---
@@ -13,7 +14,7 @@ tags:
 [Chris McFeely - YouTube](https://www.youtube.com/@ChrisMcFeely)
 [TRANSFORMERS: The Basics - YouTube](https://www.youtube.com/playlist?list=PLSd4_MK_EtUZH6jxBQpEeV0__tgOFedtk)
 
-[Transformers: War for Cybertron Trilogy - Wikiwand](https://www.wikiwand.com/en/Transformers:_War_for_Cybertron_Trilogy) on Netflix
+[Transformers: War for Cybertron Trilogy - Wikiwand](https://omni.wikiwand.com/en/Transformers:_War_for_Cybertron_Trilogy) on Netflix
 
 - War for Cybertron: Siege
 - War for Cybertron: Earthrise

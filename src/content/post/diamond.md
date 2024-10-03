@@ -2,7 +2,7 @@
 title: Diamond
 description: ""
 created: 2023-07-11
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - trivia
 ---

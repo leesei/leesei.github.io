@@ -2,7 +2,7 @@
 title: Net Neutrality
 description: ""
 created: 2015-02-27
-updated: 2023-09-29
+updated: 2023-12-10
 tags:
   - net-neutrality
   - web
@@ -13,15 +13,14 @@ Since it takes enormous amount of investment to dig the ground and lay the cable
 Some analogues the ISP market with the electricity market where providers should focus on providing bits/watts irregardless of how they are consumed by the subscriber.
 
 [Net Neutrality in the US: Now What? - YouTube](https://www.youtube.com/watch?v=NAxMyTwmu_M)
-{% youtube NAxMyTwmu_M %}
 
 [Internet Citizens: Defend Net Neutrality - YouTube](https://www.youtube.com/watch?v=wtt2aSV8wdw)
-{% youtube wtt2aSV8wdw %}
 
 [What's the Deal with Net Neutrality? - YouTube](https://www.youtube.com/watch?v=uw-4pMdbbmg)
-{% youtube uw-4pMdbbmg %}
 
 [H.I. #12: Hamburgers in the Pipes — Hello Internet](http://www.hellointernet.fm/podcast/12) at [44:30](https://youtu.be/C2k6Ui70sMY?t=2671)
+
+[Bandwidth Costs Almost Killed Twitch (A Rant About Net Neutrality) - YouTube](https://www.youtube.com/watch?v=ztbdbAfopl4)
 
 [Net neutrality - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Net_neutrality)
 [Save the Internet | Free Press](http://www.savetheinternet.com/sti-home)

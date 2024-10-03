@@ -2,7 +2,7 @@
 title: Monorepo
 description: Monorepo and tools
 created: 2023-06-14
-updated: 2023-11-16
+updated: 2024-03-23
 tags:
   - app
   - git
@@ -14,7 +14,7 @@ tags:
 
 > many of these discussions are on Node.js/Frontend dev
 
-[[nodejs-notes#Local Dev Dependency]]
+[[nodejs-runtime#Local Dev Dependency]]
 
 [Mono-repo or multi-repo? Why choose one, when you can have both?](https://medium.com/@patrickleet/mono-repo-or-multi-repo-why-choose-one-when-you-can-have-both-e9c77bd0c668) `meta`
 [Repo style wars: mono vs multi](http://www.gigamonkeys.com/mono-vs-multi/)
@@ -37,7 +37,8 @@ tags:
 
 ## Turborepo
 
-[Turborepo](https://turborepo.org/) TypeScript monorepo, caches dependencies during build
+[[javascript-pipeline#Turborepo]]
+
 [Learn how to build a monorepo in Next.js - LogRocket Blog](https://blog.logrocket.com/build-monorepo-next-js/)
 
 ## Nx

@@ -2,7 +2,7 @@
 title: React.js
 description: The library for web and native user interfaces
 created: 2015-12-04
-updated: 2023-11-22
+updated: 2024-09-02
 tags:
   - frontend
   - javascript
@@ -49,6 +49,9 @@ React blends view and controller more the higher up in the component hierarchy. 
 [React book landing page](https://softchris.github.io/books/react/)
 [Learn](https://reactarmory.com/guides)
 [React Fundamentals](https://frontarm.com/courses/react-fundamentals) some free lessons
+
+[React Labs: What We've Been Working On – February 2024 – React](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)
+[React 19 Is Here - Are You Ready? - YouTube](https://www.youtube.com/watch?v=B-tjhF7ojeA)
 
 [Watch The 2020 Reactathon San Francisco Developer Conference for Free](https://www.freecodecamp.org/news/reactathon-2020-conference-live-youtube/)
 
@@ -234,6 +237,7 @@ create `modules.d.ts` and define module
 [React - Under the hood](https://www.freecodecamp.org/news/react-under-the-hood/)
 [A Closer Look at ReactDOM.render - The Need to Know and More -- newline](https://www.newline.co/@KumailP/a-closer-look-at-reactdomrender-the-need-to-know-and-more--891fed64)
 [Managing DOM components with ReactDOM - LogRocket Blog](https://blog.logrocket.com/managing-dom-components-reactdom/)
+[React's Next Big Change? - YouTube](https://www.youtube.com/watch?v=hz5gbCXJ-vA) 2024 update, `react-strict-dom`πvi
 
 [SyntheticEvent – React](https://reactjs.org/docs/events.html)
 [Getting started with React SyntheticEvent - LogRocket Blog](https://blog.logrocket.com/getting-started-react-synthetic-event/)
@@ -244,6 +248,10 @@ create `modules.d.ts` and define module
 [Why Do We Write super(props)? — Overreacted](https://overreacted.io/why-do-we-write-super-props/)
 
 [Lucy | How does React decide to re-render a component?](https://lucybain.com/blog/2017/react-js-when-to-rerender/)
+
+[How React 19 Almost Broke The Web - YouTube](https://www.youtube.com/watch?v=SJjK_YWfngU) suspense, Fabric
+Suspense in `Promise.all()`, throwing the result, and re-render all components upon any promise is resolved
+React 19 changed the parallel fetch to a waterfall
 
 ### Error Boundaries
 
@@ -498,15 +506,19 @@ Use `React.createRef()`/`React.useRef()`, not string ref or callback ref
 ## React Server Component
 
 > this is a React + Next.js thing (Next.js adding [[nextjs#Server Actions]])
-> the paradigm is quite different from React on client, I won't try this
+> the paradigm is quite different from React on client, I won't try this yet
 
 [Understanding React Server Components – Vercel](https://vercel.com/blog/understanding-react-server-components#why-do-we-need-server-components)
 [Getting Started: React Essentials | Next.js](https://nextjs.org/docs/getting-started/react-essentials#server-components)
 
 [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
-[React Server Components: A Comprehensive Breakdown - YouTube](https://www.youtube.com/watch?v=VIwWgV3Lc6s) 52:41
+[React Server Components: A Comprehensive Breakdown - YouTube](https://www.youtube.com/watch?v=VIwWgV3Lc6s) 52:41, theo
 
 [My take on the current React & Server Components controversy | phryneas.de](https://phryneas.de/react-server-components-controversy)
+
+[The Two Reacts — overreacted](https://overreacted.io/the-two-reacts/) dan abramov
+[Rethinking React - YouTube](https://www.youtube.com/watch?v=KuhfT6-I3QU)
+client side component allows optimistic rendering for feedback of user action
 
 [React Server Components](https://www.patterns.dev/posts/react-server-components)
 [Introducing Zero-Bundle-Size React Server Components – React Blog](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
@@ -873,6 +885,9 @@ const BookEntryList = (props) => {
 [Easier Asynchronous State Modelling in React Redux or Hooks](https://medium.com/@jesterxl/easier-asynchronous-state-modelling-in-react-redux-or-hooks-a05924b7bfa1)
 [Handling API request race conditions in React](https://sebastienlorber.com/handling-api-request-race-conditions-in-react) how to handle stale API calls
 
+[Component, colocation, composition: A note on the state of React | bobae kang](https://bobaekang.com/blog/component-colocation-composition/) `Render-trigger-fetch` vs `Fetch-trigger-render`
+[The "Wrong Way" To Use React - YouTube](https://www.youtube.com/watch?v=lcLbYictX3k)
+
 [dai-shi/react-hooks-fetch: Minimal data fetching library with React Suspense](https://github.com/dai-shi/react-hooks-fetch)
 [dai-shi/react-hooks-async: An abortable async function library with React Hooks](https://github.com/dai-shi/react-hooks-async) production lib, like RWieruch's example, cancelable with axios, build async pipeline like async
 [ilyalesik/react-fetch-hook: React hook for conveniently use Fetch API](https://github.com/ilyalesik/react-fetch-hook)
@@ -1072,6 +1087,9 @@ const Conditional = (props) => {
 [Introducing the React Profiler – React Blog](https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html)
 [Deep dive with the React DevTools profiler - YouTube](https://www.youtube.com/watch?v=nySib7ipZdk)
 
+[Million Lint is in public beta | Million.js](https://million.dev/blog/lint)
+[Rethinking The Linter - YouTube](https://www.youtube.com/watch?v=fcY9TthQnI4)
+
 [Improve React Performance - Vena Engineering - Medium](https://medium.com/vena-engineering/optimizing-react-rendering-61a10e741edb)
 [Performance Optimization Techniques In React - Level Up Coding](https://levelup.gitconnected.com/performance-optimization-techniques-in-react-31dee64c3b5)
 
@@ -1155,6 +1173,31 @@ function App({ text }) {
 }
 ```
 
+### React Compiler
+
+> Official compiler debuted React Conf 2024, 2024-05
+> = React Forget?
+
+[React Compiler: In-Depth Beyond React Conf 2024 - YouTube](https://www.youtube.com/watch?v=PYHBHK37xlE)
+[jherr/compiler-repl: compiler-repl](https://github.com/jherr/compiler-repl)
+[React Compiler Playground](https://playground.react.dev/#N4Igzg9grgTgxgUxALhAgHgBwjALgAgBMEAzAQygBsCSoA7OXASwjvwFkBPAQU0wAoAlPmAAdNvhgJcsNgB5CTAG4A+ABIJKlCPgDqOSoTkB6RaoDc4gL7iQVoA)
+
+Caveat:
+
+- always follow [Rules of React – React](https://react.dev/reference/rules)
+- won't work with proxies (MobX, proxied state libraries)
+
+[React Compiler: It's Stranger Than You Think - YouTube](https://www.youtube.com/watch?v=wnXGSwrOw80)
+
+### React Forget
+
+> A compiler the generate memomized code for you
+
+[How React Forget will make React useMemo and useCallback hooks absolutely redundant - DEV Community](https://dev.to/usulpro/how-react-forget-will-make-react-usememo-and-usecallback-hooks-absolutely-redundant-4l68)
+[React Forget: React for developers and compilers - Sathya Gunasekaran - YouTube](https://www.youtube.com/watch?v=kjOacmVsLSE)
+[React's Magic Compiler You Can't Use (Yet) - YouTube](https://www.youtube.com/watch?v=LL4V8CcEhIo&t=1625s)
+[React without memo - YouTube](https://www.youtube.com/watch?v=lGEMwh32soc)
+
 ### Replacing VDOM
 
 [Million.js](https://million.dev/)
@@ -1209,6 +1252,10 @@ function App({ text }) {
 [dnd kit – a modern drag and drop toolkit for React](https://dndkit.com/)
 [clauderic/dnd-kit: The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.](https://github.com/clauderic/dnd-kit)
 
+[Swapy – Easy Drag-to-Swap Solution](https://swapy.tahazsh.com/)
+[TahaSh/swapy: ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/](https://github.com/TahaSh/swapy)
+[A New Drag And Drop Library For EVERY Framework - YouTube](https://www.youtube.com/watch?v=gaNLnuwoFRI)
+
 [react-dropzone](https://react-dropzone.js.org/)
 [react-dropzone/react-dropzone: Simple HTML5 drag-drop zone with React.js.](https://github.com/react-dropzone/react-dropzone)
 
@@ -1230,6 +1277,8 @@ function App({ text }) {
 [typekev/react-mk: A tiny react component which mimics typing](https://github.com/typekev/react-mk)
 
 [Typed.js - Type your heart out](https://mattboldt.github.io/typed.js/)
+
+[Mastering React Hooks: Create an Amazing Typewriter Effect from Scratch! - YouTube](https://www.youtube.com/watch?v=72gMvyH81Ps)
 
 [How to stop your spinner from jumping in React - DEV Community 👩‍💻👨‍💻](https://dev.to/selbekk/how-to-stop-your-spinner-from-jumping-in-react-5cmp)
 
@@ -1373,6 +1422,8 @@ Downshift, select, hook-based
 
 [JedWatson-react-hammerjs · GitHub](https://github.com/JedWatson/react-hammerjs)
 
+[react18-input-otp - npm](https://www.npmjs.com/package/react18-input-otp)
+
 [Lapple-react-transitive-number · GitHub](https://github.com/Lapple/react-transitive-number)
 [React Color](http://casesandberg.github.io/react-color/)
 [react-component/slider](https://github.com/react-component/slider/)
@@ -1394,6 +1445,8 @@ Virtual Window:
 [TanStack Virtual | React Virtual, Solid Virtual, Svelte Virtual, Vue Virtual](https://tanstack.com/virtual/v3)
 [react-window](https://react-window.now.sh) reimplementation of react-virtualized, not all the features
 [React Virtual Window - virtualise anything for a performance boost! - DEV Community](https://dev.to/miketalbot/react-virtual-window-virtualise-anything-for-a-performance-boost-full-tutorial-3moe)
+[petyosi/react-virtuoso: The most powerful virtual list component for React](https://github.com/petyosi/react-virtuoso)
+[Getting Started with React Virtuoso | React Virtuoso](https://virtuoso.dev/)
 [react-virtualized](https://bvaughn.github.io/react-virtualized/#/components/List)
 [Performant Lists in React with react-window ← Alligator.io](https://alligator.io/react/lists-with-react-window/)
 [AddyOsmani.com - Rendering large lists with react-window](https://addyosmani.com/blog/react-window/)

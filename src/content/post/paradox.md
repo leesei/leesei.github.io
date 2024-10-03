@@ -2,14 +2,14 @@
 title: Paradox
 description: ""
 created: 2015-06-18
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - paradox
   - philosophy
 ---
 
-[Paradox - Wikiwand](http://www.wikiwand.com/en/Paradox)
-[List of paradoxes - Wikiwand](http://www.wikiwand.com/en/List_of_paradoxes)
+[Paradox - Wikiwand](http://omni.wikiwand.com/en/Paradox)
+[List of paradoxes - Wikiwand](http://omni.wikiwand.com/en/List_of_paradoxes)
 
 [the five kinds of paradox - YouTube](https://www.youtube.com/watch?v=ppX7Qjbe6BM)
 [Paradoxes - YouTube](https://www.youtube.com/playlist?list=PL1lNrW4e0G8XVWIQoOlp_cM8PxDSqKgis) Up and Atom
@@ -20,9 +20,9 @@ tags:
 
 [[scientific-method]]
 
-[Raven paradox - Wikiwand](https://www.wikiwand.com/en/Raven%20paradox)
-[烏鴉悖論 - Wikiwand](https://www.wikiwand.com/zh-hant/%E7%83%8F%E9%B4%89%E6%82%96%E8%AB%96)
-[白馬非馬 - Wikiwand](https://www.wikiwand.com/zh-hant/%E7%99%BD%E9%A9%AC%E9%9D%9E%E9%A9%AC)
+[Raven paradox - Wikiwand](https://omni.wikiwand.com/en/Raven%20paradox)
+[烏鴉悖論 - Wikiwand](https://omni.wikiwand.com/zh/%E7%83%8F%E9%B4%89%E6%82%96%E8%AB%96)
+[白馬非馬 - Wikiwand](https://omni.wikiwand.com/zh/%E7%99%BD%E9%A9%AC%E9%9D%9E%E9%A9%AC)
 
 [The Raven Paradox - A Hiccup in the Scientific Method - YouTube](https://www.youtube.com/watch?v=Ca_sxDTPo60)
 
@@ -43,8 +43,8 @@ Grandfather
 
 ## Russell's Paradox
 
-[Russell's paradox - Wikiwand](http://www.wikiwand.com/en/Russell's_paradox)
-[Zermelo–Fraenkel set theory - Wikiwand](https://www.wikiwand.com/en/Zermelo%E2%80%93Fraenkel_set_theory)
+[Russell's paradox - Wikiwand](http://omni.wikiwand.com/en/Russell's_paradox)
+[Zermelo–Fraenkel set theory - Wikiwand](https://omni.wikiwand.com/en/Zermelo%E2%80%93Fraenkel_set_theory)
 
 [Russell's Paradox - A Ripple in the Foundations of Mathematics - YouTube](https://www.youtube.com/watch?v=xauCQpnbNAM)
 
@@ -52,11 +52,17 @@ Grandfather
 - Category Theory
 - Homotopy Type Theory
 
-[Arrow's impossibility theorem - Wikiwand](http://www.wikiwand.com/en/Arrow's_impossibility_theorem)
+[Arrow's impossibility theorem - Wikiwand](http://omni.wikiwand.com/en/Arrow's_impossibility_theorem)
+
+## Banach–Tarski Paradox
+
+> A ball can be decomposed into a finite number of pieces and reassembled into two balls of the same size
+
+[The Banach–Tarski Paradox - YouTube](https://www.youtube.com/watch?v=s86-Z-CbaHA)
 
 ## Theseus' Paradox
 
-[Ship of Theseus - Wikiwand](http://www.wikiwand.com/en/Ship_of_Theseus)
+[Ship of Theseus - Wikiwand](http://omni.wikiwand.com/en/Ship_of_Theseus)
 [I Have Died Many Times — CGP Grey](http://www.cgpgrey.com/blog/i-have-died-many-times)
 
 ## Alabama Paradox
@@ -68,8 +74,8 @@ Grandfather
 
 ## Simpson's Paradox
 
-[Simpson's paradox - Wikiwand](https://www.wikiwand.com/en/Simpson%27s_paradox)
-[辛普森悖論 - Wikiwand](https://www.wikiwand.com/zh-hant/%E8%BE%9B%E6%99%AE%E6%A3%AE%E6%82%96%E8%AE%BA)
+[Simpson's paradox - Wikiwand](https://omni.wikiwand.com/en/Simpson%27s_paradox)
+[辛普森悖論 - Wikiwand](https://omni.wikiwand.com/zh/%E8%BE%9B%E6%99%AE%E6%A3%AE%E6%82%96%E8%AE%BA)
 
 A set of data can show opposite trends depending on _how it's grouped_. It is caused by the "lurking variable", usually a presumption on the distribution of the population.
 [How statistics can be misleading - Mark Liddell - YouTube](https://www.youtube.com/watch?v=sxYrzzy3cq8&index=9&list=PLJicmE8fK0EiEzttYMD1zYkT-SmNf323z)
@@ -85,7 +91,7 @@ Related: probabilistic comparison may not be transitive
 
 ## Bertrand paradox
 
-[Bertrand paradox (probability) - Wikiwand](<https://www.wikiwand.com/en/Bertrand_paradox_(probability)>)
+[Bertrand paradox (probability) - Wikiwand](<https://omni.wikiwand.com/en/Bertrand_paradox_(probability)>)
 [神奇的伯特兰悖论：一道概率题竟然有三个不同的答案！ - YouTube](https://www.youtube.com/watch?v=62tL_BEY1no)
 [概率也会骗人？数学中经典的伯特兰悖论 - YouTube](https://www.youtube.com/watch?v=Q2bWVV5GwhU)
 
@@ -94,4 +100,4 @@ Related: probabilistic comparison may not be transitive
 If a disease infects 2% of a population, and a test is developed that is 95% accurate (and no false negatives), then if you are tested positive, the chance you actually have the disease is only 29%.
 
 [Vivek Shukla's answer to What sounds extremely wrong, but is actually correct? - Quora](https://www.quora.com/What-sounds-extremely-wrong-but-is-actually-correct-1/answer/Vivek-Shukla-20)
-[False positive paradox - Wikiwand](https://www.wikiwand.com/en/False_positive_paradox)
+[False positive paradox - Wikiwand](https://omni.wikiwand.com/en/False_positive_paradox)

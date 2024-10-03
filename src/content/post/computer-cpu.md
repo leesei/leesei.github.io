@@ -2,7 +2,7 @@
 title: CPUs
 description: The history of CPU, companies, ISA and chip fabrication
 created: 2019-05-03
-updated: 2023-10-12
+updated: 2024-09-29
 tags:
   - comp/hardware
   - laptop
@@ -31,6 +31,7 @@ tags:
 [How CPUs are Designed, Part 4: Where is Computer Architecture and Design Headed? - TechSpot](https://www.techspot.com/article/1853-how-cpus-are-designed-the-future/)
 [💻 - See How a CPU Works - YouTube](https://www.youtube.com/watch?v=cNN_tTXABUA)
 [💻 - See How Computers Add Numbers In One Lesson - YouTube](https://www.youtube.com/watch?v=VBDoT8o4q00)
+[CRAFTING A CPU TO RUN PROGRAMS - YouTube](https://www.youtube.com/watch?v=GYlNoAMBY6o)
 
 [Researchers build a heat shield just 10 atoms thick to protect electronic devices](https://phys.org/news/2019-08-shield-atoms-thick-electronic-devices.amp)
 
@@ -42,9 +43,9 @@ tags:
 ## History
 
 [Intel® Processor Numbers: Laptop, Desktop, and Mobile Device](http://www.intel.com/content/www/us/en/processors/processor-numbers.html)
-[List of Intel microprocessors - Wikiwand](https://www.wikiwand.com/en/List_of_Intel_microprocessors)
+[List of Intel microprocessors - Wikiwand](https://omni.wikiwand.com/en/List_of_Intel_microprocessors)
 
-[List of AMD microprocessors - Wikiwand](https://www.wikiwand.com/en/List_of_AMD_microprocessors)
+[List of AMD microprocessors - Wikiwand](https://omni.wikiwand.com/en/List_of_AMD_microprocessors)
 [The rise and fall of AMD | Series | Ars Technica](https://arstechnica.com/series/the-rise-and-fall-of-amd/amp/)
 [AMD History and Innovations (1969-2022) | Documentary - YouTube](https://www.youtube.com/watch?v=2DzTGCO-IkM)
 [Every AMD CPU Ever! - YouTube](https://www.youtube.com/watch?v=K8Lz3ANjlDs)
@@ -54,11 +55,17 @@ Asianometry
 [AMD: How It All Began - YouTube](https://www.youtube.com/watch?v=mb53IYjZlNc)
 [How AMD Left GlobalFoundries for TSMC - YouTube](https://www.youtube.com/watch?v=oAlU6vQ1Pn8&t=8s)
 
+RetroBytes
+[The history of SPARC, its not just a Sun thing - YouTube](https://www.youtube.com/watch?v=m0GqCxMmyF4)
+[The potted history of ARM - YouTube](https://www.youtube.com/watch?v=t59EtDxpYmM)
+
 [【科技杂谈 62】 从推土机到 ryzen，AMD 是怎么成功的？ - YouTube](https://www.youtube.com/watch?v=eaOhdoNqhIg)
 [【科技杂谈 74】十七年才熬出头！AMD 移动版 CPU 历史回顾 - YouTube](https://www.youtube.com/watch?v=CHERD3gVF98)
 [【科技杂谈64】英特尔至强E3，从兴起到衰落的故事 - YouTube](https://www.youtube.com/watch?v=qWXBEqtyYl8)
 [【弯评 05】英特尔的故事——一管跨越了半个世纪的牙膏 - YouTube](https://www.youtube.com/watch?v=W2JXxXgqPv8)
 [【弯评 09】这是一个关于猪队友的故事 - YouTube](https://www.youtube.com/watch?v=6Xs4dB5-ikQ)
+
+[一口气了解AMD | 别光盯着英伟达了~ - YouTube](https://www.youtube.com/watch?v=cnTSFpSqYSM)
 
 [How ARM Saved Apple - YouTube](https://www.youtube.com/watch?v=QXgBI8drB-k)
 
@@ -66,14 +73,29 @@ Asianometry
 
 ### RISC and CISC
 
-[Reduced instruction set computer - Wikiwand](https://www.wikiwand.com/en/Reduced_instruction_set_computer)
-[Complex instruction set computer - Wikiwand](https://www.wikiwand.com/en/Complex_instruction_set_computer)
+> all modern RISC uses micro-ops decoder, Superscalar, Out-of-order execution
+> RISC and CISC are not that different anymore
+
+[Reduced instruction set computer - Wikiwand](https://omni.wikiwand.com/en/Reduced_instruction_set_computer)
+[Complex instruction set computer - Wikiwand](https://omni.wikiwand.com/en/Complex_instruction_set_computer)
 
 [RISC vs. CISC](https://cs.stanford.edu/people/eroberts/courses/soco/projects/risc/risccisc/)
 [RISC Vs CISC](https://www.electronicshub.org/risc-and-cisc-architectures/)
 
 [【亦】x86 已死？ - YouTube](https://www.youtube.com/watch?v=0Rs6AasXJag)
 [RISC vs CISC - Is it Still a Thing? - YouTube](https://www.youtube.com/watch?v=g16wZWKcao4)
+
+[Why X86 Needs To Die | Hackaday](https://hackaday.com/2024/03/21/why-x86-needs-to-die/)
+[Why x86 Doesn’t Need to Die – Chips and Cheese](https://chipsandcheese.com/2024/03/27/why-x86-doesnt-need-to-die/)
+[X86 Needs To Die - YouTube](https://www.youtube.com/watch?v=xCBrtopAG80)
+
+### x86
+
+[GCC 11's x86-64 Microarchitecture Feature Levels Are Ready To Roll - Phoronix](https://www.phoronix.com/news/GCC-11-x86-64-Feature-Levels)
+[What is x86-64-v3? Understanding the x86-64 microarchitecture levels - YouTube](https://www.youtube.com/watch?v=TnCkYthXUAc)
+
+[硬科技：豆知識 64位元的x86和IA-64(Itanium)到底有什麼不一樣？ #intel (178286) - Cool3c](https://www.cool3c.com/article/178286)
+[硬科技：「簡報王」和他們的產地 20年前64位元x86指令集誕生的時刻 #AMD (170703) - Cool3c](https://www.cool3c.com/article/170703)
 
 ### Arm
 
@@ -96,6 +118,8 @@ LowSpecGamer
 [Why are Apple’s chips faster than Qualcomm’s? – Gary explains - YouTube](https://www.youtube.com/watch?v=TiVF_ZzzLM0) 2017, A11 Bionic vs Snapdragon 835
 [Apple Silicon Macs - Apple's ARM SoC Tech Explained! - YouTube](https://www.youtube.com/watch?v=ZtO2z5JATVU)
 
+#### Snapdragon
+
 [What is the Qualcomm Snapdragon 8cx? - YouTube](https://www.youtube.com/watch?v=OpXy-L9cnCo)
 [Qualcomm's Snapdragon 8cx SMASHES Intel Core i5 - YouTube](https://www.youtube.com/watch?v=ZphrqgnoZbM)
 
@@ -104,7 +128,9 @@ LowSpecGamer
 [The SQ1 is just the beginning. ARM is coming for the PC - YouTube](https://www.youtube.com/watch?v=hzKb_fV7UB8)
 [Microsoft SQ1 vs Qualcomm Snapdragon 8cx](https://www.notebookcheck.net/SQ1-vs-8cx_11516_11394.247596.0.html)
 
-#### Apple M1
+[The Story of Snapdragon X Elite - YouTube](https://www.youtube.com/watch?v=PGjdN_qfqgg)
+
+#### Apple
 
 [Current x86 vs. Apple M1 Performance Measurements Are Flawed - ExtremeTech](https://www.extremetech.com/computing/318020-flaw-current-measurements-x86-versus-apple-m1-performance)
 [【亦】唠唠苹果 M1 Ultra：半导体新时代！ - YouTube](https://www.youtube.com/watch?v=lri6O8EBnlI)
@@ -115,9 +141,11 @@ LowSpecGamer
 [苹果 M1 Pro/M1 Max 评测：有多强？能做什么？ - YouTube](https://www.youtube.com/watch?v=KSf2tvF53ws)
 [【亦】为什么苹果电脑不适合玩游戏？ - YouTube](https://www.youtube.com/watch?v=wupCpEhB7DE)
 
+[Apple's Silicon Magic Is Over! - YouTube](https://www.youtube.com/watch?v=AOlXmv9EiPo)
+
 #### Arm Ampere
 
-[Ampere Computing - Wikiwand](https://www.wikiwand.com/en/Ampere_Computing)
+[Ampere Computing - Wikiwand](https://omni.wikiwand.com/en/Ampere_Computing)
 [This is the fastest Arm desktop PC on the planet - YouTube](https://www.youtube.com/watch?v=wl5H5rT87JE)
 
 ### RISC-V
@@ -168,10 +196,10 @@ Atom Z series < 2.5W, fanless
 
 Pentium Silver Quad Core (N5000) configs are \$3600, they have more or less the same power as i3 6006U and have lower TDP
 
-[List of Intel Atom microprocessors - Wikiwand](https://www.wikiwand.com/en/List_of_Intel_Atom_microprocessors#/Tablet_processors/SoCs) Z series < 2.5W
-[List of Intel Celeron microprocessors - Wikiwand](https://www.wikiwand.com/en/List_of_Intel_Celeron_microprocessors#/Mobile_Processors) Mobile
-[List of Intel Core M microprocessors - Wikiwand](https://www.wikiwand.com/en/List_of_Intel_Core_M_microprocessors)
-[List of Intel Core i3 microprocessors - Wikiwand](https://www.wikiwand.com/en/List_of_Intel_Core_i3_microprocessors#/Mobile_processors) Mobile
+[List of Intel Atom microprocessors - Wikiwand](https://omni.wikiwand.com/en/List_of_Intel_Atom_microprocessors#/Tablet_processors/SoCs) Z series < 2.5W
+[List of Intel Celeron microprocessors - Wikiwand](https://omni.wikiwand.com/en/List_of_Intel_Celeron_microprocessors#/Mobile_Processors) Mobile
+[List of Intel Core M microprocessors - Wikiwand](https://omni.wikiwand.com/en/List_of_Intel_Core_M_microprocessors)
+[List of Intel Core i3 microprocessors - Wikiwand](https://omni.wikiwand.com/en/List_of_Intel_Core_i3_microprocessors#/Mobile_processors) Mobile
 
 ### Mobile APU
 
@@ -233,6 +261,8 @@ Undervolting on Ryzen will lower temperature AND increase performance
 [Should You Disable Hyper-Threading?](https://bitsum.com/tips-and-tweaks/why-you-should-not-disable-hyper-threading-or-why-you-should/)
 
 ## Ryzen RAM tuning
+
+> Zen 3
 
 [AMD Ryzen RAM scaling - performance effect in games - Introduction](https://www.guru3d.com/articles-pages/amd-ryzen-ram-scaling-effect-in-games,1.html)
 
@@ -359,9 +389,25 @@ H: Performance
 U: ultrabook
 P: efficient
 
+## 2024 CPU
+
+### Intel
+
+[全网最深度分析：Lunar Lake能否帮英特尔逆天改命？ - YouTube](https://www.youtube.com/watch?v=ucUfRV3pBq8)
+[英特尔要改善能效了？Lunar Lake变化很大！ - YouTube](https://www.youtube.com/watch?v=b3FTtvPcc2s)
+
+### AMD
+
+[Not the best value, but still a better value than the flagship - AMD Ryzen 5 8600G review — the new value iGPU gaming champion - Page 6 | Tom's Hardware](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-8600g-cpu-review/)
+[AMD's Laptop CPU Naming Scheme Is Ultra Confusing, But This Is What It Means](https://www.makeuseof.com/amd-laptop-cpu-naming-scheme-explained/)
+
+- 8600G has better performance-price ratio than 8700G
+- 8600G is 30-40% faster than 5600G
+- Core i3-13100 and GTX 1650 is still faster
+
 ## TDP
 
-[Thermal design power - Wikiwand](https://www.wikiwand.com/en/Thermal_design_power)
+[Thermal design power - Wikiwand](https://omni.wikiwand.com/en/Thermal_design_power)
 [Why Intel Processors Draw More Power Than Expected: TDP and Turbo Explained - Print View](https://www.anandtech.com/print/13544/why-intel-processors-draw-more-power-than-expected-tdp-turbo)
 
 C-States: Idle States
@@ -563,25 +609,6 @@ Corsair dominates the AIO (All-in-one) liquid cooling markets
 [This Chinese Water Cooler is WAY Better Than I Thought! - YouTube](https://www.youtube.com/watch?v=HOE-JssEr5A)
 
 ### Thermoelectricity
-
-> Seebeck effect
-
-[Thermoelectric materials - Wikiwand](https://www.wikiwand.com/en/Thermoelectric_materials)
-[Make Electricity Go Round and Round - The Thermoelectric Effect - YouTube](https://www.youtube.com/watch?v=O6waiEeXDGo)
-
-[Making Cooler/Generator with Thermoelectric Device - YouTube](https://www.youtube.com/watch?v=0xY06PT5JDE)
-
-[BUILD YOUR OWN REFRIGERATOR! - SOLID STATE TEC - YouTube](https://www.youtube.com/watch?v=YWUhwmmZa7A)
-[TESTING OUR DIY REFRIGERATOR! - TEC/PELTIER - YouTube](https://www.youtube.com/watch?v=cw8ipUYodkE)
-
-[Thermoelectric Cooling is a Bad Idea - YouTube](https://www.youtube.com/watch?v=IX2NQ1lq4ZM)
-[This Cooler DRAWS 545W!!? Bad Cooling Ideas #2 - YouTube](https://www.youtube.com/watch?v=sWrqyQWfhrs)
-
-[I’ve got a lucky ticket… - YouTube](https://www.youtube.com/watch?v=e295NaVldZs)
-[Sub Ambient Cooling - The new Intel Cryo Cooler brings TEC Cooling to a new Level - YouTube](https://www.youtube.com/watch?v=uOrUNT_0XVY)
-[I probably wasn't supposed to do this 😅 Ryzen 5950X cooled by Intel Cryo Cooler - YouTube](https://www.youtube.com/watch?v=R2MtHJctd-0)
-
-[用最少的钱，打造一台超强游戏掌机！ - YouTube](https://youtu.be/_ygrNIow6AA)
 
 ### Thermal paste
 

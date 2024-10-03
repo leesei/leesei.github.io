@@ -2,7 +2,7 @@
 title: Reactive programming
 description: ""
 created: 2016-03-13
-updated: 2023-09-29
+updated: 2024-09-23
 tags:
   - javascript
   - mobx
@@ -14,7 +14,7 @@ tags:
 
 [[functional-programming]]
 
-[Reactive programming - Wikiwand](https://www.wikiwand.com/en/Reactive_programming)
+[Reactive programming - Wikiwand](https://omni.wikiwand.com/en/Reactive_programming)
 [The Reactive Manifesto](https://www.reactivemanifesto.org/)
 
 [Intro to Reactive Programming - YouTube](https://www.youtube.com/watch?v=Bme_RiT9CK4)
@@ -42,6 +42,11 @@ tags:
 
 [The Evolution of Signals in JavaScript - DEV Community](https://dev.to/this-is-learning/the-evolution-of-signals-in-javascript-8ob)
 [Evolution of Signals in JavaScript - YouTube](https://www.youtube.com/watch?v=LzbwXj9cnVk)
+[Why Signals Are Better Than React Hooks - YouTube](https://www.youtube.com/watch?v=SO8lBVWF2Y8)
+
+[A TC39 Proposal for Signals. A v0 draft of the signals proposal… | by EisenbergEffect | Apr, 2024 | Medium](https://eisenbergeffect.medium.com/a-tc39-proposal-for-signals-f0bedd37a335)
+[tc39/proposal-signals: A proposal to add signals to JavaScript.](https://github.com/tc39/proposal-signals)
+[If this ships, it will change javascript forever - YouTube](https://www.youtube.com/watch?v=JvE_xQVIFF0)
 
 [A Hands-on Introduction to Fine-Grained Reactivity - DEV Community](https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf)
 [Building a Reactive Library from Scratch - DEV Community](https://dev.to/ryansolid/building-a-reactive-library-from-scratch-1i0p)
@@ -242,7 +247,7 @@ Service = interpret(Machine)
 
 ## C#
 
-[StateMachine Class (System.Activities.Statements) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.activities.statements.statemachine?redirectedfrom=MSDN&view=netframework-4.8)
+[StateMachine Class (System.Activities.Statements) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.activities.statements.statemachine&view=netframework-4.8)
 [How to: Create a State Machine Workflow | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/framework/windows-workflow-foundation/how-to-create-a-state-machine-workflow)
 
 [Simple state machine example in C#? - Stack Overflow](https://stackoverflow.com/questions/5923767/simple-state-machine-example-in-c)

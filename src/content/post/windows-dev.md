@@ -2,7 +2,7 @@
 title: Windows Development
 description: ""
 created: 2020-03-02
-updated: 2023-09-29
+updated: 2024-09-23
 tags:
   - app
 ---
@@ -634,13 +634,20 @@ Originally [Media Foundation .NET](http://mfnet.sourceforge.net/)
 
 [c# - Cannot obtain value of local or argument as it is not available at this instruction pointer, possibly because it has been optimized away - Stack Overflow](https://stackoverflow.com/questions/8311303/cannot-obtain-value-of-local-or-argument-as-it-is-not-available-at-this-instruct)
 
+[mrexodia/dumpulator: An easy-to-use library for emulating memory dumps. Useful for malware analysis (config extraction, unpacking) and dynamic analysis in general (sandboxing).](https://github.com/mrexodia/dumpulator)
+
 [x64dbg](https://x64dbg.com/#start)
 [glmcdona/Process-Dump: Windows tool for dumping malware PE files from memory back to disk for analysis.](https://github.com/glmcdona/Process-Dump)
+[minidump — x64dbg documentation](https://help.x64dbg.com/en/latest/commands/memory-operations/minidump.html)
+
+[Home of The Volatility Foundation | Volatility Memory Forensics - The Volatility Foundation - Promoting Accessible Memory Analysis Tools Within the Memory Forensics Community](https://volatilityfoundation.org/)
+[volatilityfoundation/volatility: An advanced memory forensics framework](https://github.com/volatilityfoundation/volatility)
+[Command Reference · volatilityfoundation/volatility Wiki](https://github.com/volatilityfoundation/volatility/wiki/Command-Reference)
 
 [WinDbg - Wikiwand](https://www.wikiwand.com/en/WinDbg)
 [Download Debugging Tools for Windows - WinDbg - Windows drivers | Microsoft Docs](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools)
 [Getting Started with WinDbg (User-Mode) - Windows drivers | Microsoft Docs](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/getting-started-with-windbg)
-[Collecting User-Mode Dumps - Win32 apps | Microsoft Docs](https://docs.microsoft.com/en-us/windows/win32/wer/collecting-user-mode-dumps?redirectedfrom=MSDN)
+[Collecting User-Mode Dumps - Win32 apps | Microsoft Docs](https://docs.microsoft.com/en-us/windows/win32/wer/collecting-user-mode-dumps)
 
 [TsudaKageyu/minhook: The Minimalistic x86/x64 API Hooking Library for Windows](https://github.com/TsudaKageyu/minhook)
 

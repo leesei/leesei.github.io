@@ -2,13 +2,13 @@
 title: Virtualization
 description: ""
 created: 2015-05-10
-updated: 2023-11-08
+updated: 2024-09-15
 tags:
   - linux
   - virtualbox
 ---
 
-[Virtualization - Wikiwand](http://www.wikiwand.com/en/Virtualization)
+[Virtualization - Wikiwand](http://omni.wikiwand.com/en/Virtualization)
 
 [OSBoxes - Virtual Machines for VirtualBox & VMware](https://www.osboxes.org/)
 
@@ -26,19 +26,32 @@ Type 1 hypervisors is an operating system that run directly on the system hardwa
 Type 2 hypervisors run on a host operating system. Most client side VM software contains this kind of hypervisor.
 Intel's VTx technology improved the performance of visualization (rendering binary translation and paravirtualization obsolete) and allowed for KVM to be implemented. More importantly, it negated most of the differences between “type-1” and “type-2” hypervisors.
 
-[Ben Armstrong’s Virtualization Blog | Hyper-V Program Manager](https://blogs.msdn.microsoft.com/virtual_pc_guy/)
+[Ben Armstrong’s Virtualization Blog | Microsoft Learn](https://learn.microsoft.com/en-us/archive/blogs/virtual_pc_guy/)
 
-[Comparison of platform virtualization software - Wikiwand](https://www.wikiwand.com/en/Comparison_of_platform_virtualization_software)
+[Comparison of platform virtualization software - Wikiwand](https://omni.wikiwand.com/en/Comparison_of_platform_virtualization_software)
 [A Performance Comparison of Hypervisors - VMWare](https://www.vmware.com/pdf/hypervisor_performance.pdf) (PDF)
 [Performance Comparison of KVM, VMware and XenServer using a Large Telecommunication Application](https://www.thinkmind.org/download.php?articleid=cloud_computing_2014_5_20_20101) (PDF)
 [Will Containers Replace Hypervisors? Almost Certainly! | Cloudscaling](http://cloudscaling.com/blog/cloud-computing/will-containers-replace-hypervisors-almost-certainly/)
 
-## CPU Modes
+## CPU
 
-[Protection ring - Wikiwand](https://www.wikiwand.com/en/Protection_ring)
-[Real mode - Wikiwand](https://www.wikiwand.com/en/Real_mode)
-[Protected mode - Wikiwand](https://www.wikiwand.com/en/Protected_mode)
-[x86 virtualization - Wikiwand](https://www.wikiwand.com/en/X86_virtualization)
+[Protection ring - Wikiwand](https://omni.wikiwand.com/en/Protection_ring)
+[Real mode - Wikiwand](https://omni.wikiwand.com/en/Real_mode)
+[Protected mode - Wikiwand](https://omni.wikiwand.com/en/Protected_mode)
+[x86 virtualization - Wikiwand](https://omni.wikiwand.com/en/X86_virtualization)
+
+[硬科技：為何x86的虛擬化這麼難搞(上) #作業系統 (152220) - Cool3c](https://www.cool3c.com/article/152220)
+[硬科技：為何x86的虛擬化這麼難搞(中) #作業系統 (152291) - Cool3c](https://www.cool3c.com/article/152291)
+[硬科技：為何x86的虛擬化這麼難搞(下) #作業系統 (152320) - Cool3c](https://www.cool3c.com/article/152320)
+[硬科技：x86虛擬化由內到外還是繼續難搞(上) #intel (152574) - Cool3c](https://www.cool3c.com/article/152574)
+[硬科技：x86虛擬化由內到外還是繼續難搞(中) #作業系統 (152657) - Cool3c](https://www.cool3c.com/article/152657)
+[硬科技：x86虛擬化由內到外還是繼續難搞(下) #intel (152681) - Cool3c](https://www.cool3c.com/article/152681)
+
+## GPU
+
+[硬科技：GPU虛擬化為何超級難搞(上) #CPU (157525) - Cool3c](https://www.cool3c.com/article/157525)
+[硬科技：GPU虛擬化為何超級難搞(中) #api (157526) - Cool3c](https://www.cool3c.com/article/157526)
+[硬科技：GPU虛擬化為何超級難搞(下) #nvidia (157527) - Cool3c](https://www.cool3c.com/article/157527)
 
 ## KVM
 
@@ -73,7 +86,11 @@ Xen only check handle three things: memory, CPU and interrupts
 > Type 2 Hypervisor (actually Ubuntu LTS), plays well with consumer level hardware
 
 [Proxmox VE - Virtualization Management Platform](https://www.proxmox.com/en/proxmox-ve)
+[Proxmox VE](https://pve.proxmox.com/wiki/Main_Page)
 [Virtual Machines Pt. 2 (Proxmox install w/ Kali Linux) - YouTube](https://www.youtube.com/watch?v=_u8qTN3cCnQ)
+
+[Getting Started with Proxmox 8 - YouTube](https://www.youtube.com/playlist?list=PL4i6XWPjbaYm8FjhPVnKuxC1rM9OtJvqB) virtualize everything
+[5 Things I Would Do On Fresh Install Of ProxMox - YouTube](https://www.youtube.com/watch?v=xD9Xyt2mdSI) use OEM install when creating template, storage pass through
 
 [Before I do anything on Proxmox, I do this first... - YouTube](https://www.youtube.com/watch?v=GoZaMgEgrHw)
 [Perfect Proxmox Template with Cloud Image and Cloud Init - YouTube](https://www.youtube.com/watch?v=shiIi38cJe4)
@@ -81,12 +98,22 @@ Xen only check handle three things: memory, CPU and interrupts
 [Let's Install Proxmox 8.0! - YouTube](https://www.youtube.com/watch?v=sZcOlW-DwrU)
 
 [My Proxmox Home Server Walk-Through: Part 1 (TrueNAS, Portainer, Wireguard) - YouTube](https://www.youtube.com/watch?v=_sfddZHhOj4)
+[Remote Gaming and Streaming w/ Proxmox - Proxmox Walk-Through: Part 2 - YouTube](https://www.youtube.com/watch?v=BoMlfk397h0) GPU pass-through
 
 [IMPORT a Virtual Machine Template (OVA, VMDK, RAW, ...) into Proxmox! - YouTube](https://www.youtube.com/watch?v=k6-miz1Tb80)
 
+[Proxmoxer Documentation](https://proxmoxer.github.io/docs/2.0/)
+[joshpatten/PVE-VDIClient: Proxmox based VDI client](https://github.com/joshpatten/PVE-VDIClient) `proxmoxer` + `virt-viewer`
+[PROXMOX VDI Client - A Better Approach to Thin Clients for Proxmox - YouTube](https://www.youtube.com/watch?v=oLatrZBFQrw)
+
+SmartHomeBeginner
+[Mini Homelab Tour - I do a LOT with this Little Proxmox Server and 100+ Docker Apps - YouTube](https://www.youtube.com/watch?v=GfzgNJAM19o)
+[Docker on Proxmox LXC 🚀 Zero Bloat and Pure Performance! - YouTube](https://www.youtube.com/watch?v=-ZSQdJ62r-Q)
+F
+
 ## Hyper-V
 
-[Hyper-V - Wikiwand](https://www.wikiwand.com/en/Hyper-V)
+[Hyper-V - Wikiwand](https://omni.wikiwand.com/en/Hyper-V)
 [What Is Hyper-V & How Do You Use It? A Beginner's Guide](https://www.cloudwards.net/hyper-v/)
 [Introduction to Hyper-V on Windows 10 | Microsoft Docs](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/)
 [Enable Hyper-V on Windows 10 | Microsoft Docs](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)
@@ -94,20 +121,66 @@ Xen only check handle three things: memory, CPU and interrupts
 
 ## QEMU
 
-[QEMU - ArchWiki](https://wiki.archlinux.org/title/QEMU)
-
 [QEMU](https://www.qemu.org/)
-[wimpysworld/quickemu: Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.](https://github.com/wimpysworld/quickemu)
+[QEMU - ArchWiki](https://wiki.archlinux.org/title/QEMU)
+[Welcome to QEMU’s documentation! — QEMU documentation](https://qemu-project.gitlab.io/qemu/index.html)
+
+[Eduardo Otubo: Qemu Sandboxing for dummies. - YouTube](https://www.youtube.com/watch?v=_7yGiafZdVc)
+[QEMU Sandboxing for dummies | PPT](https://www.slideshare.net/EduardoOtubo/qemu-sandboxing-for-dummies)
+
+[QEMU,KVM及QEMU-KVM介绍 - 又是火星人 - 博客园](https://web.archive.org/web/20231212100534/https://www.cnblogs.com/echo1937/p/7138294.html)
+[QEMU vs. KVM: Exploring the Virtualization Giants](https://cloudzy.com/blog/qemu-vs-kvm/)
+[(12) QEMU vs KVM: A Quick Comparison | LinkedIn](https://www.linkedin.com/pulse/qemu-vs-kvm-quick-comparison-raja-nagori-/)
+[virtualization - Difference between KVM and QEMU - Server Fault](https://serverfault.com/questions/208693/difference-between-kvm-and-qemu)
+[Can´t figure out the difference between QEMU and KVM : r/linuxmasterrace](https://www.reddit.com/r/linuxmasterrace/comments/qhrpm8/cant_figure_out_the_difference_between_qemu_and/)
 
 [在 QEMU 中安装 Windows7 虚拟机](https://mp.weixin.qq.com/s/f2hj5XIpGvPtuFRwVWCtAg)
 
-[Emulating a Raspberry Pi with QEMU](https://gist.github.com/plembo/c4920016312f058209f5765cb9a3a25e)
-
 [quickemu-project/quickemu: Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.](https://github.com/quickemu-project/quickemu)
+[mawalu/qsandbox: Shell sandboxing using QEMU and virtiofsd. Just enter qsandbox run to open your current working dir in a temporary QEMU vm.](https://github.com/mawalu/qsandbox)
+[lightweight initramfs](https://g3ngr33n.github.io/qemusandbox/)
+
+[Emulating a Raspberry Pi with QEMU](https://gist.github.com/plembo/c4920016312f058209f5765cb9a3a25e)
 
 ```sh
 yay -S qemu-base qemu-tools qemu-system-aarch64 qemu-system-arm qemu-system-riscv qemu-user-static
 ```
+
+[how to run arm64 docker image on linux](https://www.phind.com/search?cache=l49hh6uev8h9ko5jjcd69vm1)
+[Getting started with Docker for Arm on Linux | Docker](https://www.docker.com/blog/getting-started-with-docker-for-arm-on-linux/)
+
+```sh
+# run this to register qemu, `-p` for persistent
+qemu-user-static --reset -p yes # if you have the installed locally on the host
+docker run --rm --privileged multiarch/qemu-user-static --reset -p yes
+
+# then these can be run
+docker run --rm -it --platform linux/arm64 ubuntu:latest uname -a
+docker run --rm -it --platform=linux/arm64/v8 arm64v8/alpine:3.18
+```
+
+## Frontends
+
+### libvirt
+
+[libvirt: The virtualization API](https://libvirt.org/)
+
+- toolkit to manage VM platforms
+- support KVM, QEMU, LXC, Xen, ...
+- C, C#, Go, Python bindings
+
+[libvirt / libvirt-go-module · GitLab](https://gitlab.com/libvirt/libvirt-go-module)
+[libvirt / libvirt-python · GitLab](https://gitlab.com/libvirt/libvirt-python)
+
+### Virtual Machine Manager
+
+[Virtual Machine Manager](https://virt-manager.org/)
+
+- creates and manages KVM-based virtual machines
+- `virt-viewer` to view VM display (supports VNC and SPICE)
+
+[SPICE](https://spice-space.org/)
+[SPICE - Proxmox VE](https://pve.proxmox.com/wiki/SPICE)
 
 ## VirtualBox
 
@@ -151,7 +224,7 @@ To enable 64bit guests, run through the following checklist:
 
 ## Gaming
 
-{% asset_img virtualbox-win7.png %}
+[![](./_assets/virtualization/virtualbox-win7.png)](./_assets/virtualization/virtualbox-win7.png)
 
 Tips for the Guest Windows 7:
 
@@ -218,31 +291,3 @@ GPU Paravirtualization in Windows 11 Hyper V make it easier than PCIe bifurcatio
 
 [Containers vs Hypervisors: The Battle Has Just Begun | Linux.com](https://www.linux.com/news/enterprise/cloud-computing/785769-containers-vs-hypervisors-the-battle-has-just-begun)
 It's too early so say Containers have won and Hypervisors are obsolete.
-
----
-
-# Infrastructure
-
-[OpenStack Open Source Cloud Computing Software](http://www.openstack.org/)
-[OpenStack Wiki](https://wiki.openstack.org/wiki/Main_Page)
-
----
-
-# Container
-
-[Docker features and tools by Tom Verelst - YouTube](https://www.youtube.com/watch?v=heBI7oQvHZU)
-
-<http://blog.docker.com/2016/02/containers-as-a-service-caas/>
-<https://blog.docker.com/2016/01/webinar-qa-docker-networking/>
-<http://blog.docker.com/2015/12/containerd-daemon-to-control-runc/>
-
-[Microcontainers: Iron.io's New Hack to Shrink Docker Containers - The New Stack](http://thenewstack.io/microcontainers-iron-ios-new-hack-shrink-docker-containers/)
-
-[DockerCon EU 2015 - YouTube](https://www.youtube.com/playlist?list=PLkA60AVN3hh87OoVra6MHf2L4UR9xwJkv)
-
-[Docker: Sorry, you're just going to have to learn about it. Today we begin • The Register](http://www.theregister.co.uk/2014/11/28/docker_part_1_the_history_of_docker/)
-[Docker, Part 2: Whoa! Spontaneous industry standard! How did they do THAT? • The Register](http://www.theregister.co.uk/2014/12/01/docker_part_2_the_libcontainer_evolution/)
-[Part 3: Docker vs hypervisor in tech tussle SMACKDOWN • The Register](http://www.theregister.co.uk/2014/12/02/docker_part_3_containers_versus_hypervisors/)
-[Docker part 4: Microsoft CAN'T ignore it. Aux armes, citoyens! • The Register](http://www.theregister.co.uk/2014/12/04/docker_part_4_prognostication_microsoft_and_the_red_wedding/)
-
----

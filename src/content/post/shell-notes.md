@@ -2,7 +2,7 @@
 title: Shell notes
 description: ""
 created: 2014-12-08
-updated: 2023-11-02
+updated: 2024-09-24
 tags:
   - linux
   - shell
@@ -20,6 +20,9 @@ Most of the following are compatible to `bash` and `zsh`.
 [Conquering the Command Line | Softcover.io](http://conqueringthecommandline.com/book/frontmatter)
 [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
 [OverTheWire: Wargames](https://overthewire.org/wargames/) learn shell commands through games
+
+[The Modern CLI Renaissance | Gabe Venberg](https://gabevenberg.com/posts/cli-renaissance/)
+[CLIs Are Making A Comeback - YouTube](https://www.youtube.com/watch?v=-gmWbD5kGIk)
 
 [Bash Automation & Scripting Basics (Part 1) – CloudSavvy IT](https://www.cloudsavvyit.com/9676/bash-automation-scripting-basics-part-1/)
 [Bash Automation and Scripting Basics (Part 2) – CloudSavvy IT](https://www.cloudsavvyit.com/9760/bash-automation-and-scripting-basics-part-2/)
@@ -55,31 +58,60 @@ But interactive shells must be added to `/etc/shells` first before used as a log
 
 http://fishshell.com/docs/2.1/faq.html#faq-default
 
+## Rust userland
+
+[Oxidise Your Life - YouTube](https://www.youtube.com/watch?v=dFkGNe4oaKk)
+
+[cargo-bins/cargo-binstall: Binary installation for rust projects](https://github.com/cargo-bins/cargo-binstall)
+[light4/cargo-info: cargo-info subcommand - show crates info from crates.io](https://github.com/light4/cargo-info)
+[kbknapp/cargo-graph: A cargo subcommand for creating GraphViz DOT files and dependency graphs](https://github.com/kbknapp/cargo-graph)
+[RazrFalcon/cargo-bloat: Find out what takes most of the space in your executable.](https://github.com/RazrFalcon/cargo-bloat)
+[flamegraph-rs/flamegraph: Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3](https://github.com/flamegraph-rs/flamegraph)
+[eza — command-line utility in Rust // Lib.rs](https://lib.rs/crates/eza)
+
+```sh
+cargo-binstall nu # shell
+cargo-binstall coreutils
+cargo-binstall cargo-info
+cargo-binstall eza bat fd-find du-dust ripgrep zellij
+cargo-binstall mprocs # process manager
+cargo-binstall wiki-tui
+cargo-binstall rtx-cli # Polyglot runtime manager
+```
+
+[Beginner's Guide to rtx (mise) - DEV Community](https://dev.to/jdxcode/beginners-guide-to-rtx-ac4)
+[jdx/mise: dev tools, env vars, task runner](https://github.com/jdx/mise)
+
 ## dotfiles
 
 > most contain useful aliases, functions and scripts
+
+[The Ultimate Guide to Mastering Dotfiles](https://www.daytona.io/dotfiles/ultimate-guide-to-dotfiles)
+[Secure data in Git with the clean/smudge filter | Red Hat Developer](https://developers.redhat.com/articles/2022/02/02/protect-secrets-git-cleansmudge-filter)
 
 It is recommended to use source control to store your config files (_dotfiles_, as they usually begins with a `.`) and use symlinks (`ln -s`) to deploy them to the machine.
 
 [bash - Difference between .bashrc and .bash_profile - Super User](https://superuser.com/questions/183870/difference-between-bashrc-and-bash-profile/183980#183980)
 [talks/linuxcon_eu-2013-10-gitify_your_life.pdf at main · RichiH/talks](https://github.com/RichiH/talks/blob/main/2013/10-linuxcon-eu/linuxcon_eu-2013-10-gitify_your_life.pdf)
 
-[GitHub does dotfiles - dotfiles.github.io](http://dotfiles.github.io/)
+[GitHub does dotfiles - dotfiles.github.io](https://dotfiles.github.io/)
 [webpro/awesome-dotfiles: A curated list of dotfiles resources.](https://github.com/webpro/awesome-dotfiles)
+[dotphiles/dotphiles: A community driven framework of dotfiles.](https://github.com/dotphiles/dotphiles)
+
+> TODO: add my links in `~/caravan/github-watch/dotfiles/`
 
 Honorable mentions:
 
-- http://chneukirchen.org/dotfiles/
-- https://github.com/jukben/dotfiles (Tmux)
-  > TODO: add my links in /caravan/github-watch/dotfiles
+- [leahneukirchen.org/dotfiles/](https://leahneukirchen.org/dotfiles/)
+- [jukben/dotfiles: 🎩 Just my dotfiles. There is no black magic. Basically backup for me. But you can take a look...](https://github.com/jukben/dotfiles) Tmux
+- [artur-shaik/vimmer-dotfiles: Vimmer environment dotfiles.](https://github.com/artur-shaik/vimmer-dotfiles/) sxhkd, keyboard and mouse modes
+- [Stephan Raabe / ML4W dotfiles · GitLab](https://gitlab.com/stephan-raabe/dotfiles) rofi, dunst, rofi, qtile, polybar, hyperland
 - [SukkaW/dotfiles: 🔧 My development environment and config](https://github.com/SukkaW/dotfiles) install script to bootstrap
+- [ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles)
 
-[Steve's Blog: bash aliases](http://siannopollo.blogspot.hk/2007/11/bash-aliases.html)
-
-[jukben/gbck: 🗳 Intuitive lightweight tool for an easy and seamless backup of your files into Git repository](https://github.com/jukben/gbck)
-[gbck— an easy way how to back up your dotfiles – Jakub Beneš – Medium](https://medium.com/@jukben/gbck-an-easy-way-how-to-back-up-your-dotfiles-2a9bf44ab622)
 [Yet Another Dotfiles Manager - yadm](https://yadm.io/)
 [direnv – unclutter your .profile | direnv](https://direnv.net/)
+[I'm never using .env files ever again - YouTube](https://www.youtube.com/watch?v=udezempDBVQ)
 
 [RichiH/vcsh: config manager based on Git](https://github.com/RichiH/vcsh)
 
@@ -95,26 +127,51 @@ Honorable mentions:
 [ajmalsiddiqui/autodot: A dotfile management system that makes sharing your dotfiles easy while keeping you in the loop.](https://github.com/ajmalsiddiqui/utodot)
 [RCM(7)](https://thoughtbot.github.io/rcm/)
 
-[Home | chezmoi.io](https://www.chezmoi.io/)
+### chezmoi
+
+[Home | chezmoi.io](https://www.chezmoi.io/) also manage default apps with `run_once_*`
 [twpayne/chezmoi: Manage your dotfiles across multiple machines, securely.](https://github.com/twpayne/chezmoi)
+
 [Linux Fu: The Kitchen Sync | Hackaday](https://hackaday.com/2019/01/10/linux-fu-the-kitchen-sync/)
+[The ultimate dotfiles setup - YouTube](https://www.youtube.com/watch?v=-RkANM9FfTM) chezmoi + ansible
+
+### gbck
+
+[jukben/gbck: 🗳 Intuitive lightweight tool for an easy and seamless backup of your files into Git repository](https://github.com/jukben/gbck)
+[gbck— an easy way how to back up your dotfiles – Jakub Beneš – Medium](https://medium.com/@jukben/gbck-an-easy-way-how-to-back-up-your-dotfiles-2a9bf44ab622)
+
+### dotfiler
 
 [svetlyak40wt/dotfiler: Shell agnostic git based dotfiles package manager, written in Python.](https://github.com/svetlyak40wt/dotfiler)
-[Using Dropbox as a Settings Repository](http://coda.caseykuhlman.com//entries/2014/dropbox-as-a-settings-repository.html)
+put your dotfiles into environments, each mirroring files/folder in your `~/`
+environments allow you to separate your configs into app-specific folders
+`dotfiler` supports common folder in different environments by creating the common folder and symlinking each file from the environments
+multiple repos can be used to merge common and machine-specific configs
+
+```sh
+git clone https://github.com/svetlyak40wt/dotfiler ~/.dotfiles
+```
 
 ### Stow
+
+> suppose do not support common folder in different environments
 
 [stow: manage farms of symbolic links | stow System Administration | Man Pages | ManKier](https://www.mankier.com/8/stow)
 
 [Use Stow for configuration management of multiple machines | Opensource.com](https://opensource.com/article/20/1/configuration-management-stow)
-[Brandon Invergo - Using GNU Stow to manage your dotfiles](http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
+[Brandon Invergo - Using GNU Stow to manage your dotfiles](https://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
 [Managing dotfiles using GNU Stow](https://www.bharatkalluri.in/post/manage-dotfiles-using-stow/)
 [Managing dotfiles with stow - Apiumhub](https://apiumhub.com/tech-blog-barcelona/managing-dotfiles-with-stow/)
 [Managing dotfiles with GNU Stow | Bastian Venthur's Blog](https://venthur.de/2021-12-19-managing-dotfiles-with-stow.html)
 [Manage dotfiles with GNU Stow | Deepak Ramani](https://dr563105.github.io/blog/manage-dotfiles-with-gnu-stow/)
 
-[GitHub - omerxx/dotfiles](https://github.com/omerxx/dotfiles)
-[GitHub - eeowaa/stow-dotfiles](https://github.com/eeowaa/stow-dotfiles)
+[Manage your dotfiles across multiple machines with GNU Stow and Git - YouTube](https://www.youtube.com/watch?v=90xMTKml9O0)
+[Stow has forever changed the way I manage my dotfiles - YouTube](https://www.youtube.com/watch?v=y6XCebnB9gs)
+[Give Your Dotfiles a Home with GNU Stow - YouTube](https://www.youtube.com/watch?v=CxAT1u8G7is)
+[Manage Your Dotfiles Like A Superhero - YouTube](https://www.youtube.com/watch?v=FHuwzbpTTo0)
+
+[omerxx/dotfiles](https://github.com/omerxx/dotfiles)
+[eeowaa/stow-dotfiles](https://github.com/eeowaa/stow-dotfiles)
 
 ### switching OS and host
 
@@ -139,7 +196,7 @@ fi
 
 ## Environment variable
 
-[Environment variable - Wikiwand](http://www.wikiwand.com/en/Environment_variable)
+[Environment variable - Wikiwand](http://omni.wikiwand.com/en/Environment_variable)
 [Environment variables - ArchWiki](https://wiki.archlinux.org/title/Environment_variables)
 
 ## Frameworks

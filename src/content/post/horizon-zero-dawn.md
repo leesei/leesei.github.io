@@ -2,7 +2,7 @@
 title: Horizon Zero Dawn
 description: ""
 created: 2023-06-13
-updated: 2023-09-29
+updated: 2024-01-10
 tags:
   - games
   - horizon-zero-dawn
@@ -13,6 +13,7 @@ tags:
 
 [Horizon Zero Dawn | The Start Of Something Great - YouTube](https://www.youtube.com/watch?v=y8zOE3ABa7s)
 [The Unexpected Success of Horizon Zero Dawn | 3 Years Later (Retrospective) - YouTube](https://www.youtube.com/watch?v=y8iLmKBlvUE)
+[Behind the Scenes - Horizon Forbidden West [Making of] - YouTube](https://www.youtube.com/watch?v=7wJBpzSZiLM)
 
 [【地平線:期待黎明】視覺炸裂! 小猴子亞蘿伊的神奇身世+機械迷的狂歡! (遊戲統計局#41) (女子圖鑒) Horizon Zero Dawn 2017 地平線 零之曙光 - YouTube](https://www.youtube.com/watch?v=_pzep0SMzI4)
 [「地平線西域禁地」深度解析 - 極致的畫質, 當然要配精彩的故事! 4K Horizon Forbidden West 2022 - YouTube](https://www.youtube.com/watch?v=QHZodQ6LrVU)

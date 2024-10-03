@@ -2,7 +2,7 @@
 title: Docker.io
 description: Tools provided by Docker.io
 created: 2014-12-11
-updated: 2023-12-02
+updated: 2024-02-09
 tags:
   - container
   - dev/deploy
@@ -43,16 +43,13 @@ Compose file can be [stacked](https://docs.docker.com/compose/extends/) for envi
 
 Docker [acquired Orchard](https://blog.docker.com/2014/07/welcoming-the-orchard-and-fig-team/) and used its [Fig](http://www.fig.sh/index.html) as the basis of Docker Compose (released early-2015). See also [decking.io](http://decking.io/).
 
-Compose V2 GA in 2022-04
-[Announcing Compose V2 General Availability - Docker](https://www.docker.com/blog/announcing-compose-v2-general-availability/)
-
-[Docker Compose | Docker](http://www.docker.com/products/docker-compose)
 [Overview of Docker Compose | Docker Documentation](https://docs.docker.com/compose/)
 [Docker Compose Files Version 2 - YouTube](https://www.youtube.com/watch?v=EReEOMS7gsk)
 [Compose file | Docker Documentation](https://docs.docker.com/compose/compose-file/)
 [Compose file version 2 reference | Docker Documentation](https://docs.docker.com/compose/compose-file/compose-file-v2/)
 [Compose file version 3 reference | Docker Documentation](https://docs.docker.com/compose/compose-file/compose-file-v3/)
 [Controlling startup order in Compose | Docker Documentation](https://docs.docker.com/compose/startup-order/) ❗!important, wait for service
+[Scaling Docker Compose Up | Docker](https://www.docker.com/blog/scaling-docker-compose-up/)
 [The definitive Guide to Docker compose](https://gabrieltanner.org/blog/docker-compose)
 [Docker Compose tips for any developers - DEV Community 👩‍💻👨‍💻](https://dev.to/aminnairi/docker-compose-tips-for-any-developers-11j) create a second instance with shared volume to execute commands
 [How to deploy on remote Docker hosts with docker-compose - Docker Blog](https://www.docker.com/blog/how-to-deploy-on-remote-docker-hosts-with-docker-compose/)
@@ -72,93 +69,24 @@ Compose Version 3 added `deploy` key, which is ignored in `docker-compose up` fo
 [Docker Tip #60: What Really Happens When You Run docker-compose up? — Nick Janetakis](https://nickjanetakis.com/blog/docker-tip-60-what-really-happens-when-you-run-docker-compose-up)
 
 [A beginner’s guide to Docker — how to create a client/server side with docker-compose](https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-a-client-server-side-with-docker-compose-12c8cf0ae0aa/)
-[How we happily dockerized our development environment (part 1/2) | Hacker Noon](https://hackernoon.com/how-we-happily-dockerized-our-development-environment-part-1-2-b05fd6927a53#.3rev8amcg)
-[Dockerized development environment on steroids (part 2/2) | Hacker Noon](https://hackernoon.com/dockerized-development-environment-on-steroids-part-2-2-b800a65d0462#.235fodt6h)
+[How we happily dockerized our development environment (part 1/2) | Hacker Noon](https://hackernoon.com/how-we-happily-dockerized-our-development-environment-part-1-2-b05fd6927a53)
+[Dockerized development environment on steroids (part 2/2) | Hacker Noon](https://hackernoon.com/dockerized-development-environment-on-steroids-part-2-2-b800a65d0462)
 
 [From Docker to Docker compose way! - DEV Community](https://dev.to/this-is-learning/from-docker-to-docker-compose-way-56h)
 [Introduction to Docker Compose Tool for Multi-Container Applications | Linux.com | The source for Linux information](https://www.linux.com/learn/introduction-docker-compose-tool-multi-container-applications)
 [Docker Volumes and Networks with Compose | Linux.com | The source for Linux information](https://www.linux.com/learn/docker-volumes-and-networks-compose)
 [Docker tutorial: Get started with Docker Compose | InfoWorld](https://www.infoworld.com/article/3254689/devops/docker-tutorial-get-started-with-docker-compose.html)
-[How to Run Multiple Containers with Docker Compose](https://www.freecodecamp.org/news/run-multiple-containers-with-docker-compose/)
+[How to Run Multiple Containers with Docker Compose](https://www.freecodecamp.org/news/run-multiple-containers-with-docker-compose/)
 [You’re using docker-compose wrong - Earthly Blog](https://earthly.dev/blog/youre-using-docker-compose-wrong/)
 
-[使用 docker-compose 进行 python 开发 | YL Notes](http://yunlzheng.github.io/2015/06/06/dev-python-with-docker-compose/)
 [Dockerizing Flask with Compose and Machine - from localhost to the cloud - Real Python](https://realpython.com/blog/python/dockerizing-flask-with-compose-and-machine-from-localhost-to-the-cloud/) [realpython/orchestrating-docker](https://github.com/realpython/orchestrating-docker)
 
 [Docker Compose Tutorial: Orchestrate Containers for Development | Codeship | via @codeship](https://blog.codeship.com/orchestrate-containers-for-development-with-docker-compose/)
 [Orchestrate Containers for Development with Docker Compose | via @codeship](https://blog.codeship.com/orchestrate-containers-for-development-with-docker-compose/)
 [A Docker Container Pattern - Compose Configuration - Levvel](http://blog.levvel.io/blog-post/a-docker-container-pattern-compose-configuration/)
-[Beyond Docker Compose](http://blog.xebialabs.com/2016/04/11/beyond-docker-compose/)
 [Easy deploy a nodejs app to prod and staging with docker](https://medium.com/@theotow/easy-deploy-a-nodejs-app-to-prod-and-staging-with-docker-f7e6ff406b69) cascading Compose files
 
 [Docker Compose UI by Francesco Uliana](http://francescou.github.io/docker-compose-ui/)
-
-### Examples
-
-[bitnami-docker/subrion.md at master · bitnami/bitnami-docker](https://github.com/bitnami/bitnami-docker/blob/master/tutorials/subrion.md)
-[bitnami-docker/redmine.md at master · bitnami/bitnami-docker](https://github.com/bitnami/bitnami-docker/blob/master/tutorials/redmine.md)
-<https://raw.githubusercontent.com/sameersbn/docker-redmine/master/docker-compose.yml>
-<https://raw.githubusercontent.com/sameersbn/docker-gitlab/master/docker-compose.yml>
-
-## Dockage
-
-[[devops.md#Uptime Kuma]]
-
-[Dockge](https://dockge.kuma.pet/)
-[louislam/dockge: A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager](https://github.com/louislam/dockge)
-[Dockge: A New Way To Manage Your Docker Containers - YouTube](https://www.youtube.com/watch?v=E805XcbTzgY)
-
-## Docker Swarm (standalone)
-
-Docker Swarm is native clustering for Docker Engines. Exposes Docker Remote API to be utilized by standard Docker tools and other tools. Swarm comes with a default scheduler, but it can be replaced by others (e.g. Aurora, Kubernetes).
-
-Swarm, unlike Kubernetes, is not declarative.
-
-Docker [acquired](https://blog.docker.com/2016/03/docker-welcomes-aurora-project-creators/) [Conductant](http://www.infoworld.com/article/3040743/application-virtualization/docker-snaps-up-apache-aurora-devs-for-swarm-team.html) (founded by the creators of Aurora) in March 2016. We're probably going to see Aurora features in Swarm.
-
-[[#Docker Swarm mode]]
-
-[Docker Swarm | Docker](http://www.docker.com/products/docker-swarm)
-[Swarm Overview](https://docs.docker.com/swarm/overview/)
-
-[Docker Tutorial 11 - Docker Swarm - YouTube](https://www.youtube.com/watch?v=zTKGfPfhg78) with hosted discovery
-[Libswarm (in a nutshell) · Container42](http://www.container42.com/2014/07/03/libswarm/)
-[Have Docker, Will Swarm — On Docker — Medium](https://medium.com/on-docker/have-docker-will-swarm-eafae7b58461) setup Swarm in a SINGLE machine
-
-[SwarmWeek: It’s a Wrap – Thanks Y’all! | Docker Blog](https://blog.docker.com/2016/03/swarm-week-roundup-docker-swarm/)
-[SwarmWeek – Video Tutorials to Join Your First Docker Swarm Cluster | Docker Blog](https://blog.docker.com/2016/03/swarmweek-join-your-first-swarm/)
-[Docker Swarm - YouTube](https://www.youtube.com/playlist?list=PLkA60AVN3hh8lmRdhPKzsNJvZxJ8dpj4t)
-[ScaleSwarm: Auto-scaling a swarm cluster - YouTube](https://www.youtube.com/watch?v=fE0qVTGC6MA)
-[Sentient Clusters: Micro-services, Atlassian products, and the Docker Swarm - Nicola Paolucci - YouTube](https://www.youtube.com/watch?v=Pmh5m9eczsE) 30 minutes walk-through
-
-[Docker Machine, Compose & Swarm Tutorials | Codeship | via @codeship](https://blog.codeship.com/docker-machine-compose-and-swarm-how-they-work-together/)
-[Running Services within a Docker Swarm - via @codeship | via @codeship](https://blog.codeship.com/running-services-within-docker-swarm/) ❗!important
-[linux - how to create docker overlay network between multi hosts? - Stack Overflow](http://stackoverflow.com/questions/34365604/how-to-create-docker-overlay-network-between-multi-hosts/34434948#34434948)
-[Levvel Blog - Running a Distributed Docker Swarm on AWS](http://www.levvel.io/blog-post/running-distributed-docker-swarm-on-aws/)
-[NGINX as a Reverse Proxy for Docker Swarm Clusters | via @codeship](https://blog.codeship.com/nginx-reverse-proxy-docker-swarm-clusters/)
-[Review: Docker Swarm soars, and the sky's the limit | InfoWorld](http://www.infoworld.com/article/2913636/linux/first-look-docker-clustering-with-docker-swarm.html)
-[Deploying Containers with Docker Swarm and Docker Networking | Technology Conversations](http://technologyconversations.com/2015/11/25/deploying-containers-with-docker-swarm-and-docker-networking/) [code](https://github.com/vfarcic/docker-swarm-networking)
-[Docker Austin: How Do I Even Swarm? | Carina by Rackspace](https://getcarina.com/blog/docker-austin-how-do-i-even-swarm/)
-[Distributed Data Analysis with Docker Swarm | via @codeship](https://blog.codeship.com/distributed-data-analysis-with-docker-swarm/) naive map-reduce with Docker Swarm
-[Evaluating Container Platforms at Scale — On Docker — Medium](https://medium.com/on-docker/evaluating-container-platforms-at-scale-5e7b44d93f2c)
-[Docker Swarm: Flat File Engine Discovery — On Docker — Medium](https://medium.com/on-docker/docker-swarm-flat-file-engine-discovery-2b23516c71d4)
-[Rescheduling containers on node failures with Docker Swarm 1.1 - Container Solutions](http://container-solutions.com/rescheduling-containers-on-node-failures-with-docker-swarm-1-1/)
-[Couchbase Cluster on Docker Swarm using Docker Compose and Docker Machine](http://blog.couchbase.com/2016/may/couchbase-cluster-docker-swarm-compose-machine)
-[Deploy Docker Swarm cluster on one host | Nan Xiao's Blog](http://nanxiao.me/en/deploy-docker-swarm-cluster-on-one-host/)
-
-[Docker Swarm Exceeds Kubernetes Performance at Scale | Docker Blog](https://blog.docker.com/2016/03/swarmweek-docker-swarm-exceeds-kubernetes-scale/)
-[Docker Swarm beats Kubernetes? Not so fast | InfoWorld](http://www.infoworld.com/article/3042573/application-virtualization/docker-swarm-beats-kubernetes-not-so-fast.html)
-
-### Scaling To Infinity with Docker Swarm, Docker Compose and Consul
-
-[Scaling To Infinity: The Quest For Fully Automated, Scalable, Self-Healing System With Zero-Downtime](http://vfarcic.github.io/scaling/#/cover)
-
-[Scaling To Infinity with Docker Swarm, Docker Compose and Consul (Part 1/4) – A Taste of What Is To Come | Technology Conversations](http://technologyconversations.com/2015/07/02/scaling-to-infinity-with-docker-swarm-docker-compose-and-consul-part-14-a-taste-of-what-is-to-come/)
-[Scaling To Infinity with Docker Swarm, Docker Compose and Consul (Part 2/4) – Manually Deploying Services | Technology Conversations](http://technologyconversations.com/2015/07/02/scaling-to-infinity-with-docker-swarm-docker-compose-and-consul-part-24-manually-deploying-services/)
-[Scaling To Infinity with Docker Swarm, Docker Compose and Consul (Part 3/4) – Blue-Green Deployment, Automation and Self-Healing Procedure | Technology Conversations](http://technologyconversations.com/2015/07/02/scaling-to-infinity-with-docker-swarm-docker-compose-and-consul-part-34-blue-green-deployment-automation-and-self-healing-procedure/)
-[Scaling To Infinity with Docker Swarm, Docker Compose and Consul (Part 4/4) – Scaling Individual Services | Technology Conversations](http://technologyconversations.com/2015/07/02/scaling-to-infinity-with-docker-swarm-docker-compose-and-consul-part-44-scaling-individual-services/)
-
-[vfarcic/docker-swarm](https://github.com/vfarcic/docker-swarm)
 
 ## Docker Swarm mode
 
@@ -401,7 +329,61 @@ eval `docker-machine env $docker_node`
 docker exec -ti $docker_fullname /bin/bash
 ```
 
-## Docker Machine
+## ~~Docker Swarm (standalone)~~
+
+Docker Swarm is native clustering for Docker Engines. Exposes Docker Remote API to be utilized by standard Docker tools and other tools. Swarm comes with a default scheduler, but it can be replaced by others (e.g. Aurora, Kubernetes).
+
+Swarm, unlike Kubernetes, is not declarative.
+
+Docker [acquired](https://blog.docker.com/2016/03/docker-welcomes-aurora-project-creators/) [Conductant](http://www.infoworld.com/article/3040743/application-virtualization/docker-snaps-up-apache-aurora-devs-for-swarm-team.html) (founded by the creators of Aurora) in March 2016. We're probably going to see Aurora features in Swarm.
+
+[[#Docker Swarm mode]]
+
+[Docker Swarm | Docker](http://www.docker.com/products/docker-swarm)
+[Swarm Overview](https://docs.docker.com/swarm/overview/)
+
+[Docker Tutorial 11 - Docker Swarm - YouTube](https://www.youtube.com/watch?v=zTKGfPfhg78) with hosted discovery
+[Libswarm (in a nutshell) · Container42](http://www.container42.com/2014/07/03/libswarm/)
+[Have Docker, Will Swarm — On Docker — Medium](https://medium.com/on-docker/have-docker-will-swarm-eafae7b58461) setup Swarm in a SINGLE machine
+
+[SwarmWeek: It’s a Wrap – Thanks Y’all! | Docker Blog](https://blog.docker.com/2016/03/swarm-week-roundup-docker-swarm/)
+[SwarmWeek – Video Tutorials to Join Your First Docker Swarm Cluster | Docker Blog](https://blog.docker.com/2016/03/swarmweek-join-your-first-swarm/)
+[Docker Swarm - YouTube](https://www.youtube.com/playlist?list=PLkA60AVN3hh8lmRdhPKzsNJvZxJ8dpj4t)
+[ScaleSwarm: Auto-scaling a swarm cluster - YouTube](https://www.youtube.com/watch?v=fE0qVTGC6MA)
+[Sentient Clusters: Micro-services, Atlassian products, and the Docker Swarm - Nicola Paolucci - YouTube](https://www.youtube.com/watch?v=Pmh5m9eczsE) 30 minutes walk-through
+
+[Docker Machine, Compose & Swarm Tutorials | Codeship | via @codeship](https://blog.codeship.com/docker-machine-compose-and-swarm-how-they-work-together/)
+[Running Services within a Docker Swarm - via @codeship | via @codeship](https://blog.codeship.com/running-services-within-docker-swarm/) ❗!important
+[linux - how to create docker overlay network between multi hosts? - Stack Overflow](http://stackoverflow.com/questions/34365604/how-to-create-docker-overlay-network-between-multi-hosts/34434948#34434948)
+[Levvel Blog - Running a Distributed Docker Swarm on AWS](http://www.levvel.io/blog-post/running-distributed-docker-swarm-on-aws/)
+[NGINX as a Reverse Proxy for Docker Swarm Clusters | via @codeship](https://blog.codeship.com/nginx-reverse-proxy-docker-swarm-clusters/)
+[Review: Docker Swarm soars, and the sky's the limit | InfoWorld](http://www.infoworld.com/article/2913636/linux/first-look-docker-clustering-with-docker-swarm.html)
+[Deploying Containers with Docker Swarm and Docker Networking | Technology Conversations](http://technologyconversations.com/2015/11/25/deploying-containers-with-docker-swarm-and-docker-networking/) [code](https://github.com/vfarcic/docker-swarm-networking)
+[Docker Austin: How Do I Even Swarm? | Carina by Rackspace](https://getcarina.com/blog/docker-austin-how-do-i-even-swarm/)
+[Distributed Data Analysis with Docker Swarm | via @codeship](https://blog.codeship.com/distributed-data-analysis-with-docker-swarm/) naive map-reduce with Docker Swarm
+[Evaluating Container Platforms at Scale — On Docker — Medium](https://medium.com/on-docker/evaluating-container-platforms-at-scale-5e7b44d93f2c)
+[Docker Swarm: Flat File Engine Discovery — On Docker — Medium](https://medium.com/on-docker/docker-swarm-flat-file-engine-discovery-2b23516c71d4)
+[Rescheduling containers on node failures with Docker Swarm 1.1 - Container Solutions](http://container-solutions.com/rescheduling-containers-on-node-failures-with-docker-swarm-1-1/)
+[Couchbase Cluster on Docker Swarm using Docker Compose and Docker Machine](http://blog.couchbase.com/2016/may/couchbase-cluster-docker-swarm-compose-machine)
+[Deploy Docker Swarm cluster on one host | Nan Xiao's Blog](http://nanxiao.me/en/deploy-docker-swarm-cluster-on-one-host/)
+
+[Docker Swarm Exceeds Kubernetes Performance at Scale | Docker Blog](https://blog.docker.com/2016/03/swarmweek-docker-swarm-exceeds-kubernetes-scale/)
+[Docker Swarm beats Kubernetes? Not so fast | InfoWorld](http://www.infoworld.com/article/3042573/application-virtualization/docker-swarm-beats-kubernetes-not-so-fast.html)
+
+### Scaling To Infinity with Docker Swarm, Docker Compose and Consul
+
+[Scaling To Infinity: The Quest For Fully Automated, Scalable, Self-Healing System With Zero-Downtime](http://vfarcic.github.io/scaling/#/cover)
+
+[Scaling To Infinity with Docker Swarm, Docker Compose and Consul (Part 1/4) – A Taste of What Is To Come | Technology Conversations](http://technologyconversations.com/2015/07/02/scaling-to-infinity-with-docker-swarm-docker-compose-and-consul-part-14-a-taste-of-what-is-to-come/)
+[Scaling To Infinity with Docker Swarm, Docker Compose and Consul (Part 2/4) – Manually Deploying Services | Technology Conversations](http://technologyconversations.com/2015/07/02/scaling-to-infinity-with-docker-swarm-docker-compose-and-consul-part-24-manually-deploying-services/)
+[Scaling To Infinity with Docker Swarm, Docker Compose and Consul (Part 3/4) – Blue-Green Deployment, Automation and Self-Healing Procedure | Technology Conversations](http://technologyconversations.com/2015/07/02/scaling-to-infinity-with-docker-swarm-docker-compose-and-consul-part-34-blue-green-deployment-automation-and-self-healing-procedure/)
+[Scaling To Infinity with Docker Swarm, Docker Compose and Consul (Part 4/4) – Scaling Individual Services | Technology Conversations](http://technologyconversations.com/2015/07/02/scaling-to-infinity-with-docker-swarm-docker-compose-and-consul-part-44-scaling-individual-services/)
+
+[vfarcic/docker-swarm](https://github.com/vfarcic/docker-swarm)
+
+## ~~Docker Machine~~
+
+> integrated into Docker Desktop
 
 You can use Docker Machine to:
 

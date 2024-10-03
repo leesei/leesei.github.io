@@ -2,7 +2,7 @@
 title: Qt
 description: All the tools you need for creating software applications or embedded devices
 created: 2019-09-19
-updated: 2023-10-12
+updated: 2023-12-01
 tags:
   - app
   - qml

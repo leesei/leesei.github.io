@@ -2,7 +2,7 @@
 title: Games and Arts
 description: ""
 created: 2015-08-01
-updated: 2023-11-22
+updated: 2023-12-01
 tags:
   - games
 ---

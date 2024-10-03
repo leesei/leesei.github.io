@@ -2,13 +2,15 @@
 title: HTTP
 description: ""
 created: 2022-08-23
-updated: 2023-10-09
+updated: 2024-09-06
 tags:
   - http
   - web
 ---
 
 [[http-agents]]
+
+[HTTP 1 Vs HTTP 2 Vs HTTP 3! - YouTube](https://www.youtube.com/watch?v=UMwQjFzTQXw)
 
 ## HTTP/1.1
 
@@ -31,6 +33,7 @@ tags:
 [http — HTTP modules — Python documentation](https://docs.python.org/3/library/http.html)
 [File:Http-headers-status.gif - Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3aHttp-headers-status.gif)
 [Flow Chart for HTTP return code - Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3aHttp-headers-status.gif)
+[HTTP Status Codes: All 63 explained - including FAQ & Video](https://umbraco.com/knowledge-base/http-status-codes/)
 [for-GET/http-decision-diagram: An activity diagram to describe the resolution of HTTP response status codes, given various headers.](https://github.com/for-GET/http-decision-diagram)
 
 [Three ways to reduce the costs of your HTTP(S) API on AWS - GameAnalytics](https://gameanalytics.com/blog/reduce-costs-https-api-aws.html/amp) HTTP headers trimming
@@ -93,7 +96,7 @@ Server Push is deprecated, use 103 Early Hints instead.
 [HTTP3 Is Eating The World | Prime Reacts - YouTube](https://www.youtube.com/watch?v=-jlYeQ3hOhY)
 
 [QUIC Working Group](https://quicwg.org/)
-[QUIC - Wikiwand](https://www.wikiwand.com/en/QUIC)
+[QUIC - Wikiwand](https://omni.wikiwand.com/en/QUIC)
 [QUIC, a multiplexed stream transport over UDP - The Chromium Projects](https://www.chromium.org/quic)
 [The QUIC transport protocol: design and Internet-scale deployment | the morning paper](https://blog.acolyer.org/2017/10/26/the-quic-transport-protocol-design-and-internet-scale-deployment/)
 [Unlocking QUIC’s proxying potential with MASQUE](https://blog.cloudflare.com/unlocking-quic-proxying-potential/)

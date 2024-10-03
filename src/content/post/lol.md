@@ -2,7 +2,7 @@
 title: LOL
 description: ""
 created: 2018-09-03
-updated: 2023-10-27
+updated: 2024-08-27
 tags:
   - lol
   - trivia
@@ -16,10 +16,14 @@ tags:
 
 [十萬個冷笑話 第一季~第三季 - YouTube](https://www.youtube.com/playlist?list=PLi_OO5MFnSj0MU5UMCCLnIG1bqcia4HFh)
 
-寫輪眼 森川葵
 勇者義彦
 
 When it comes to programming career, choose two in: Legal, Well Paid, Interesting
+
+## 寫輪眼 森川葵
+
+[你的努力在她面前全是徒勞無功 被稱為宇智波葵 擁有寫輪眼的砸場天才 森川葵 | 4個0【 明星介紹】 - YouTube](https://www.youtube.com/watch?v=4F97P_c_l2E)
+[不是劇本! 打臉專家的「節目破壞者」，擁有極限天賦的天才日本少女「森川葵」的學習速度有多扯?以為隨便玩玩還真的給她拿到金牌!｜阿先說故事 - YouTube](https://www.youtube.com/watch?v=RbQX0jRL8cM)
 
 ## Stand ups
 
@@ -30,6 +34,10 @@ When it comes to programming career, choose two in: Legal, Well Paid, Interestin
 [德云欢乐铺 - YouTube](https://www.youtube.com/@DeYunShow)
 
 [louis ck - YouTube](https://www.youtube.com/results?search_query=louis+ck)
+
+[Don McMillan - YouTube](https://www.youtube.com/@donmcmillancomedy)
+
+[Two Jews - YouTube](https://www.youtube.com/@twojewscomedy/featured)
 
 ## Meme
 
@@ -91,6 +99,9 @@ To understand recursion, you must first understand recursion.
 
 [Ready to live all your cartoon dreams at a time?](https://toonme.com/)
 [Pointer Pointer](https://pointerpointer.com/)
+
+[#周深 封神之曲《达拉崩吧》 - YouTube](https://www.youtube.com/watch?v=yM5NU6NPS_o)
+[《达拉崩吧》! AKA⚡️ 人 间 变 声 机 ⚡️ - YouTube](https://www.youtube.com/watch?v=FPHLq6FBXls)
 
 ## Mandarin LOL
 

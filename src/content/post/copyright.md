@@ -2,7 +2,7 @@
 title: Copyright
 description: ""
 created: 2015-04-13
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - ip/copyright
   - law
@@ -19,7 +19,7 @@ Copy, transform and combine
 
 [Against Intellectual Property - N. Stephan Kinsella - Google Books](https://books.google.com.hk/books/about/Against_Intellectual_Property.html?id=og0OkSwUnUQC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
 
-[Turning a Resource into an Open Educational Resource.webm - Wikimedia Commons](http://commons.wikimedia.org/w/index.php?title=File%3ATurning_a_Resource_into_an_Open_Educational_Resource.webm)
+[Copyright infringement - Wikiwand](https://omni.wikiwand.com/en/Copyright_infringement)
 
 [YouTube's Copyright System Isn't Broken. The World's Is. - YouTube](https://www.youtube.com/watch?v=1Jwo5qc78QU) copyright law did not catch up
 [老高陷抄襲爭議，到底該不該道歉？法律怎麼規定呢？【時事評判】 - YouTube](https://www.youtube.com/watch?v=606zeuJPzak)
@@ -29,10 +29,12 @@ Copy, transform and combine
 Copyrighted works shall go to Public Domain after a period of time
 Not recognized by all jurisdiction
 
-[Public domain - Wikiwand](https://www.wikiwand.com/en/Public_domain)
-[Public domain in the United States - Wikiwand](https://www.wikiwand.com/en/Public_domain_in_the_United_States) 28 years in 1790 to 95 years in 1998
+[Public domain - Wikiwand](https://omni.wikiwand.com/en/Public_domain)
+[Public domain in the United States - Wikiwand](https://omni.wikiwand.com/en/Public_domain_in_the_United_States) 28 years in 1790 to 95 years in 1998
 [Public domain](https://intellectual-property-helpdesk.ec.europa.eu/news-events/news/public-domain-2020-11-19_en)
 [2.3 The Public Domain | Creative Commons Certificate for Educators, Academic Librarians and GLAM](https://certificates.creativecommons.org/cccertedu/chapter/2-3-the-public-domain/)
+
+[以《小熊維尼》為例拆解版權和公有領域的概念！ (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=06e781IFuMo)
 
 [How Disney routinely exerted influence on the US copyright law to keep its greatest asset — Mickey Mouse - Opinions & Blogs News](https://www.wionews.com/opinions-blogs/how-disney-routinely-exerted-influence-on-the-us-copyright-law-to-keep-its-greatest-asset-mickey-mouse-549141)
 [Will the Disney Copyright for Mickey Mouse Ever End? - art journal](https://artrepreneur.com/journal/disney-copyright-keeps-changing/)
@@ -42,7 +44,7 @@ Not recognized by all jurisdiction
 Fair Use copyrighted materials needs to be contented in court upon an infringement claim.
 As such its use is catered on a case-by-case basis.
 
-[Fair use - Wikiwand](https://www.wikiwand.com/en/Fair_use)
+[Fair use - Wikiwand](https://omni.wikiwand.com/en/Fair_use)
 [U.S. Copyright Office Fair Use Index](https://www.copyright.gov/fair-use/)
 [Fair Use | Columbia University Libraries](https://copyright.columbia.edu/basics/fair-use.html)
 [What is "Fair Use"? - Legal Help](https://support.google.com/legal/answer/4558992?hl=en)
@@ -58,8 +60,10 @@ The four factors judges would consider are:
 Some recognized fair use: scholarship, education, criticism, review, news reporting, parody, sarcasm.
 An other exception is sampling, but the use of copyrighted work shall be de minimus and transformative.
 
-[Toward a Fair Use Standard - Wikiwand](https://www.wikiwand.com/en/Toward_a_Fair_Use_Standard)
+[Toward a Fair Use Standard - Wikiwand](https://omni.wikiwand.com/en/Toward_a_Fair_Use_Standard)
 [TOWARD A FAIR USE STANDARD.PDF](http://www.pijip.org/wp-content/uploads/2015/11/103HarvLRev.pdf)
+
+[以《小熊維尼》為例拆解版權和公有領域的概念！ (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=06e781IFuMo)
 
 ## Non-human creator
 
@@ -80,15 +84,25 @@ An other exception is sampling, but the use of copyrighted work shall be de mini
 [Why is Nintendo so Overprotective of its Intellectual Property? - YouTube](https://www.youtube.com/watch?v=i13hrynnGNY)
 [Why Isn't SEGA Overprotective of its Intellectual Property? - YouTube](https://www.youtube.com/watch?v=IwTXCwqurNQ)
 
+### PalWorld vs Pokémon
+
+[Why Pokémon Can't Sue PalWorld - YouTube](https://www.youtube.com/watch?v=etYHo7cIH1g)
+
+[PALWORLD Plagiarism Tier list - YouTube](https://www.youtube.com/watch?v=EBDG7mLDryw)
+[Fixing The PALWORLD Plagiarism Tier list - YouTube](https://www.youtube.com/watch?v=v-O0f0kmMhg)
+
 ## Creative Commons
 
 [When we share, everyone wins - Creative Commons](https://creativecommons.org/)
 
-[Creative Commons license - Wikiwand](https://www.wikiwand.com/en/Creative_Commons_license)
+[Creative Commons license - Wikiwand](https://omni.wikiwand.com/en/Creative_Commons_license)
 [Creative Commons Certificate for Educators, Academic Librarians and GLAM](https://certificates.creativecommons.org/cccertedu/)
 
 [About The Licenses - Creative Commons](https://creativecommons.org/licenses/)
 [About CC Licenses - Creative Commons](https://creativecommons.org/about/cclicenses/)
+
+[Turning a Resource into an Open Educational Resource (OER) - YouTube](https://www.youtube.com/watch?v=CUVW5fhQP2k)
+[Turning a Resource into an Open Educational Resource.webm - Wikimedia Commons](http://commons.wikimedia.org/w/index.php?title=File%3ATurning_a_Resource_into_an_Open_Educational_Resource.webm)
 
 [Retired Legal Tools - Creative Commons](https://creativecommons.org/retiredlicenses) CC licenses without attribution are retired
 [Retiring standalone DevNations and one Sampling license - Creative Commons](https://creativecommons.org/2007/06/04/retiring-standalone-devnations-and-one-sampling-license/)
@@ -113,11 +127,20 @@ An other exception is sampling, but the use of copyrighted work shall be de mini
 
 ## Oracle v Google
 
+> API not copyrighted
+
 [Oracle v. Google | Series | Ars Technica](https://arstechnica.com/series/series-oracle-v-google/amp/)
 [Oracle’s IP war against Google finally going to trial: What’s at stake – Ars Technica](https://arstechnica.com/tech-policy/2012/04/oracles-ip-war-against-google-finally-going-to-trial-whats-at-stake/amp/)
 [Google’s copyright win against Oracle is in danger on appeal – Ars Technica](https://arstechnica.com/tech-policy/2013/12/googles-copyright-win-against-oracle-is-in-danger-on-appeal/amp/)
 
 [Google and Oracle’s \$9 Billion ‘Copyright Case of the Decade’ Could be Headed for the Supreme Court](https://www.newsweek.com/2019/06/07/google-oracle-copyright-case-supreme-court-1433037.html)
+
+## Tetris v Xio
+
+> "squint test"
+
+[Tetris Holding, LLC v. Xio Interactive, Inc. - Wikiwand](https://omni.wikiwand.com/en/Tetris_Holding,_LLC_v._Xio_Interactive,_Inc.)
+[Protecting fashion designers from copycats.](https://slate.com/news-and-politics/2009/05/protecting-fashion-designers-from-copycats.html)
 
 ## Blogs
 

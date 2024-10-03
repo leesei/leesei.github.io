@@ -2,7 +2,7 @@
 title: File Parsing
 description: ""
 created: 2018-08-01
-updated: 2023-09-29
+updated: 2024-08-28
 tags:
   - binary-file
   - parsing
@@ -55,21 +55,46 @@ Root level keys:
 ### Point Cloud
 
 [The PCD (Point Cloud Data) file format - Point Cloud Library (PCL)](http://pointclouds.org/documentation/tutorials/pcd_file_format.php)
-[PLY (file format) - Wikiwand](<https://www.wikiwand.com/en/PLY_(file_format)>)
-[Wavefront .obj file - Wikiwand](https://www.wikiwand.com/en/Wavefront_.obj_file)
+[PLY (file format) - Wikiwand](<https://omni.wikiwand.com/en/PLY_(file_format)>)
+[Wavefront .obj file - Wikiwand](https://omni.wikiwand.com/en/Wavefront_.obj_file)
 [Point Cloud XYZ (POINTCLOUDXYZ) Reader/Writer](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/pointcloudxyz/pointcloudxyz.htm)
-[STL (file format) - Wikiwand](<https://www.wikiwand.com/en/STL_(file_format)>)
+[STL (file format) - Wikiwand](<https://omni.wikiwand.com/en/STL_(file_format)>)
 
-[glTF - Wikiwand](https://www.wikiwand.com/en/GlTF)
+[glTF - Wikiwand](https://omni.wikiwand.com/en/GlTF)
 [glTF Overview - The Khronos Group Inc](https://www.khronos.org/gltf/)
 
 [The Alliance for OpenUSD (AOUSD)](https://aousd.org/)
+[USD Home — Universal Scene Description documentation](https://openusd.org/release/index.html)
+[USD Tutorials — Universal Scene Description documentation](https://openusd.org/release/tut_usd_tutorials.html)
+[Pixar Universal Scene Description USD | NVIDIA Developer](https://developer.nvidia.com/usd)
+[Working with USD Python Libraries | NVIDIA Developer](https://developer.nvidia.com/usd/tutorials)
+[USD Python API Notes | NVIDIA Developer](https://developer.nvidia.com/usd/apinotes)
+[Pixar USD Python API · kiryha/Houdini Wiki · GitHub](https://github.com/kiryha/Houdini/wiki/Pixar-USD-Python-API)
+
 [Apple、NVIDIA 等公司成立 Alliance for OpenUSD 推動 3D 內容開源標準 - 香港 unwire.hk](https://unwire.hk/2023/08/02/alliance-for-openusd/game-channel/)
+[Did Pixar Just Change the Future of 3D Forever? - YouTube](https://www.youtube.com/watch?v=0zZkE4S06HE)
+[The Most Valuable File Format You've Never Heard Of - YouTube](https://www.youtube.com/watch?v=_N--2xOXEN0)
+
+### BIM
+
+[File formats for BIM - Designing Buildings](https://www.designingbuildings.co.uk/wiki/File_formats_for_BIM)
+
+RVT: Autodesk Revit, .rda, .rte
+NWD: Autodesk Navisworks, .nwc, .nwf, .nwd
+DWG: AutoCAD, .dxf, .dwg
+
+OpenIFC: Industry Foundation Classes, .ifc, .ifcxml, .ifczip
+BCF: BIM Collaboration Format, .bcfzip
+COBie: Construction Operations Building information exchange, .xml
+
+[OpenIFC Model Repository](https://openifcmodel.cs.auckland.ac.nz/)
+
+[bimfag/intro-python-bim: Basic Course in Python for use with BIM](https://github.com/bimfag/intro-python-bim)
 
 ## PDF
 
-[PDF - Wikiwand](https://www.wikiwand.com/en/PDF)
-[PostScript - Wikiwand](https://www.wikiwand.com/en/PostScript)
+[PDF - Wikiwand](https://omni.wikiwand.com/en/PDF)
+[PostScript - Wikiwand](https://omni.wikiwand.com/en/PostScript)
 [c++ - PDF specifications for coders: Adobe or ISO? - Stack Overflow](https://stackoverflow.com/questions/14111831/pdf-specifications-for-coders-adobe-or-iso)
 [PDF File Format - What is a PDF file?](https://docs.fileformat.com/pdf/)
 [PDF file format: Basic structure [updated 2020] - Infosec Resources](https://resources.infosecinstitute.com/topic/pdf-file-format-basic-structure/)

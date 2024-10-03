@@ -2,7 +2,7 @@
 title: FeathersJS
 description: ""
 created: 2023-03-15
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - web
   - web-dev

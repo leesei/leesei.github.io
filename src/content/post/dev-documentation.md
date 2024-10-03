@@ -2,7 +2,7 @@
 title: Documentation
 description: ""
 created: 2015-06-17
-updated: 2023-09-29
+updated: 2024-05-08
 tags:
   - comp/lang
   - documentation
@@ -76,6 +76,7 @@ tags:
 ## MkDocs
 
 [MkDocs](https://www.mkdocs.org/)
+[mkdocs/mkdocs: Project documentation with Markdown.](https://github.com/mkdocs/mkdocs)
 [Deploying Your Docs - MkDocs](https://www.mkdocs.org/user-guide/deploying-your-docs/) can use `file://`
 
 [MkDocs Is The Perfect Open Source Documentation Software](https://fosspost.org/reviews/programs/mkdocs-perfect-open-source-documentation-software)

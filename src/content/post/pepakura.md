@@ -2,7 +2,7 @@
 title: Paper Craft
 description: ""
 created: 2018-10-09
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - maker
   - pepakura

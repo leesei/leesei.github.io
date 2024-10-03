@@ -2,7 +2,7 @@
 title: Kubernetes
 description: ""
 created: 2014-12-11
-updated: 2023-09-29
+updated: 2024-09-07
 tags:
   - container
   - dev/deploy
@@ -14,7 +14,7 @@ tags:
 ---
 
 [Kubernetes by Google](http://kubernetes.io/)
-[Kubernetes - Wikiwand](http://www.wikiwand.com/en/Kubernetes)
+[Kubernetes - Wikiwand](http://omni.wikiwand.com/en/Kubernetes)
 [community/sig-list.md at master · kubernetes/community](https://github.com/kubernetes/community/blob/master/sig-list.md)
 [Exploring the New Kubernetes Maturity Model – The New Stack](https://thenewstack.io/exploring-the-new-kubernetes-maturity-model/)
 
@@ -189,6 +189,7 @@ Kubernetes pods are a group of containers that act like a single VM: they have a
 [Introduction to Kubernetes](https://www.edx.org/course/introduction-to-kubernetes)
 [Fundamentals of Containers, Kubernetes, and Red Hat OpenShift](https://www.edx.org/course/fundamentals-containers-kubernetes-red-red-hat-do081x)
 [Kubernetes Tutorial | Kubernetes | Kubernetes tutorial for beginners - YouTube](https://www.youtube.com/watch?v=gpmerrSpbHg)
+[Kubernetes Tutorial for Beginners [Full Course] - YouTube](https://www.youtube.com/playlist?list=PLiMWaCMwGJXkYKFa_x0Ch38uznuv-4c3l)
 [magicsandbox](https://console.magicsandbox.com/)
 [heptio/kubernetes-workshop: Documentation on our Kubernetes Workshops](https://github.com/heptio/kubernetes-workshop)
 [tkssharma/k8s-learning: Just for learning](https://github.com/tkssharma/k8s-learning)
@@ -438,6 +439,10 @@ Each installer is actually a "distribution" of Kubernetes.
 [GKE vs AKS vs EKS – Hasura](https://blog.hasura.io/gke-vs-aks-vs-eks-411f080640dc)
 [Kubernetes Cloud Services - kubedex.com](https://kubedex.com/google-gke-vs-microsoft-aks-vs-amazon-eks/)
 
+Anton Putra
+[AWS EKS Tutorial for Beginners [Full Course]: Terraform - Ingress - TLS - IAM Users - Autoscaling - YouTube](https://www.youtube.com/watch?v=kwq9EfELYII)
+[Amazon EKS - YouTube](https://www.youtube.com/playlist?list=PLiMWaCMwGJXkbN7J_j3qFEZVBacdoYCPJ)
+
 [Quick Start for Kubernetes by Heptio](https://aws.amazon.com/quickstart/architecture/heptio-kubernetes/) on AWS
 
 [Project Dolos: Testing Kubernetes on Google and Azure - kubedex.com](https://kubedex.com/project-dolos-testing-kubernetes-on-google-and-azure/)
@@ -686,6 +691,8 @@ kops import cluster --name ${NAME} --region ${AWS_REGION}
 [DRY Kubernetes – Jerry Jackson – Medium](https://medium.com/@jrryjcksn/dry-kubernetes-1a11d7fa0054)
 [Growing Pains: Overcoming Kubernetes' 'Day 2' Challenges - The New Stack](https://thenewstack.io/growing-pains-overcoming-kubernetes-day-2-challenges/)
 [How the U.S. Air Force Deployed Kubernetes and Istio on an F-16 in 45 days - The New Stack](https://thenewstack.io/how-the-u-s-air-force-deployed-kubernetes-and-istio-on-an-f-16-in-45-days/)
+
+[6 Techniques for Simplifying Kubernetes Management](https://www.itprotoday.com/hybrid-cloud-and-multicloud/how-simplify-kubernetes-management)
 
 [Draft vs Gitkube vs Helm vs Ksonnet vs Metaparticle vs Skaffold](https://blog.hasura.io/draft-vs-gitkube-vs-helm-vs-ksonnet-vs-metaparticle-vs-skaffold-f5aa9561f948)
 [Draft vs. Skaffold: Developing on Kubernetes - DZone Cloud](https://dzone.com/articles/draft-vs-skaffold-developing-on-kubernetes)
@@ -969,6 +976,9 @@ User Accounts are authenticated and maintained by external identity provider, e.
 [Demystifying RBAC in Kubernetes - Cloud Native Computing Foundation](https://www.cncf.io/blog/2018/08/01/demystifying-rbac-in-kubernetes/)
 [Testing Kubernetes RBAC – YLD Blog – Medium](https://medium.com/yld-engineering-blog/testing-kubernetes-rbac-5e00dc93af8e)
 [RBAC | Helm](https://helm.sh/docs/using_helm/#role-based-access-control)
+
+[Automate workload IAM | Otterize](https://otterize.com/)
+[Otterize: Intent-Based Access Control for Kubernetes and Cloud - The New Stack](https://thenewstack.io/otterize-intent-based-access-control-for-kubernetes-and-cloud/)
 
 [Falco](https://falco.org/) the de facto Kubernetes threat detection engine
 

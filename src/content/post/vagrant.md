@@ -2,7 +2,7 @@
 title: Vagrant
 description: ""
 created: 2017-06-04
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - app
   - vagrant

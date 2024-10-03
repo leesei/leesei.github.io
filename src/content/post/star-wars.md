@@ -2,17 +2,18 @@
 title: Star Wars
 description: ""
 created: 2016-02-07
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - movies
   - star-wars
 ---
 
-[Star Wars - Wikiwand](http://www.wikiwand.com/en/Star_Wars)
+[Star Wars - Wikiwand](http://omni.wikiwand.com/en/Star_Wars)
 [StarWars.com | The Official Star Wars Website](http://www.starwars.com/)
 [The Star Wars Underworld](http://www.starwarsunderworld.com/)
 [Original Trilogy - Star Wars, Film Preservation, and Fan Edits](https://originaltrilogy.com/)
 [Star Wars Theory - YouTube](https://www.youtube.com/channel/UC8CbFnDTYkiVweaz8y9wd_Q)
+[Empire Wreckers - YouTube](https://www.youtube.com/@empirewreckers)
 [Everything Star Wars - YouTube](https://www.youtube.com/@StarWarsRebelsStar)
 
 [The Stupendous Wave - YouTube](https://www.youtube.com/@TheStupendousWave)

@@ -2,7 +2,7 @@
 title: Bicycle
 description: ""
 created: 2015-12-04
-updated: 2023-11-26
+updated: 2024-08-14
 tags:
   - bicycle
   - science
@@ -10,6 +10,7 @@ tags:
 
 [Road Race Lite 903 - Google Sheets](https://docs.google.com/spreadsheets/d/1gxiZY7Kx5Z5_GYwm5XdesZRf8TvivPJwU0VvvWTSx7Y/edit) my bike
 
+[自行車的源頭是火山爆發？天使也會騎單車？俄皇強推，從貴族玩具到代步工具，自行車經歷了怎樣的故事......｜總裁聊聊 - YouTube](https://www.youtube.com/watch?v=pLTheQHj_hY)
 [几百块和几万块的自行车真有区别吗？自行车好玩在哪里？Is there really a difference between bikes at different prices? - YouTube](https://www.youtube.com/watch?v=pF-B9H85MFg)
 
 [Global Cycling Network - YouTube](https://www.youtube.com/channel/UCuTaETsuCOkJ0H_GAztWt0Q)
@@ -18,7 +19,7 @@ tags:
 ### Shimano Groupsets
 
 [Best components for your road bike. | Shimano Road](https://road.shimano.com/)
-[Shimano - Wikiwand](https://www.wikiwand.com/en/Shimano)
+[Shimano - Wikiwand](https://omni.wikiwand.com/en/Shimano)
 
 [Shimano Tiagra Vs. 105 Groupsets Compared | Bike Push](https://bikepush.com/shimano-105-vs-tiagra-groupsets/)
 [Shimano 105 Vs Ultegra Groupsets Reviewed | Bike Push](https://bikepush.com/shimano-105-vs-ultegra-groupsets/)

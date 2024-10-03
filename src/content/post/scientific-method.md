@@ -2,13 +2,13 @@
 title: Scientific Method
 description: ""
 created: 2015-12-11
-updated: 2023-10-16
+updated: 2024-08-14
 tags:
   - science
 ---
 
-[Falsifiability - Wikiwand](https://www.wikiwand.com/en/Falsifiability)
-[Scientific method - Wikiwand](https://www.wikiwand.com/en/Scientific_method)
+[Falsifiability - Wikiwand](https://omni.wikiwand.com/en/Falsifiability)
+[Scientific method - Wikiwand](https://omni.wikiwand.com/en/Scientific_method)
 [How The Scientific Method Works - Stuff You Should Know (podcast)](https://player.fm/series/stuff-you-should-know/how-the-scientific-method-works)
 [The Dark Origins of the Scientific Method - YouTube](https://www.youtube.com/watch?v=5cPzNmtoZDU)
 
@@ -23,6 +23,8 @@ Most research population are WEIRD - Western, Educated and from Industrialized, 
 [Preprints - The Multidisciplinary Preprint Platform](https://www.preprints.org/)
 [arXiv.org e-Print archive](https://arxiv.org/)
 [MDPI - Publisher of Open Access Journals](https://www.mdpi.com/)
+[Academia.edu - Share research](https://www.academia.edu/)
+[AI Chat for scientific PDFs | SciSpace](https://typeset.io/)
 [Home :: SSRN](https://www.ssrn.com/index.cfm/en/)
 [Papers We Love](https://paperswelove.org/)
 [Papers With Code : the latest in machine learning](https://paperswithcode.com/)
@@ -32,6 +34,11 @@ Most research population are WEIRD - Western, Educated and from Industrialized, 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 [Two Minute Papers - YouTube](https://www.youtube.com/user/keeroyz)
+[毕导THU - YouTube](https://www.youtube.com/@thu4878)
+
+[Sci-Hub - Wikiwand](https://omni.wikiwand.com/en/Sci-Hub) actually piracy
+[Sci-Hub](https://sci-hub.hkvisa.net/)
+[Sci-Hub: removing barriers in the way of science](https://sci-hub.ren/)
 
 ## Replication Crisis
 
@@ -64,7 +71,7 @@ Western studies usually targets WEIRD (Western, educated, industrialized, rich a
 
 ## Graphene
 
-[Graphene - Wikiwand](http://www.wikiwand.com/en/Graphene)
+[Graphene - Wikiwand](http://omni.wikiwand.com/en/Graphene)
 [Why graphene hasn’t taken over the world...yet - The Verge](https://www.theverge.com/2018/7/10/17548362/graphene-material-breakthrough-science-technology-hype)
 
 ## Experiments
@@ -77,7 +84,7 @@ Western studies usually targets WEIRD (Western, educated, industrialized, rich a
 
 ## Occam's razor
 
-[Occam's razor - Wikiwand](https://www.wikiwand.com/en/Occam's_razor)
+[Occam's razor - Wikiwand](https://omni.wikiwand.com/en/Occam's_razor)
 [Occam's Razor Has Distorted the History of Science - The Atlantic](http://www.theatlantic.com/science/archive/2016/08/occams-razor/495332r)
 [How Occam's Razor Works | HowStuffWorks](https://science.howstuffworks.com/innovation/scientific-experiments/occams-razor.htm/printable)
 [How Occam's Razor Works | Stuff You Should Know](https://www.stuffyoushouldknow.com/podcasts/how-occams-razor-works.htm)

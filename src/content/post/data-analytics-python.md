@@ -2,7 +2,7 @@
 title: Data Analytics (Python)
 description: ""
 created: 2016-09-21
-updated: 2023-09-29
+updated: 2024-09-24
 tags:
   - big-data
   - pandas
@@ -28,6 +28,8 @@ tags:
 
 [Top 10 Python Libraries for Data Science - Towards Data Science](https://towardsdatascience.com/top-10-python-libraries-for-data-science-cd82294ec266)
 [5 essential Python programming tools for data science—now updated](https://www.infoworld.com/article/3233250/python/5-essential-python-tools-for-data-sciencenow-improved.html)
+[5 Hidden Gem Python Libraries for Data Science - KDnuggets](https://www.kdnuggets.com/5-hidden-gem-python-libraries-for-data-science)
+[Essential Python Libraries for Data Manipulation - KDnuggets](https://www.kdnuggets.com/essential-python-libraries-for-data-manipulation)
 [Weekend Reading: Python | Linux Journal](https://www.linuxjournal.com/content/weekend-reading-using-python-science-and-machine-learning) science and ML
 [Oktoberfest : Quick analysis using Pandas, Matplotlib, and Plotly](https://towardsdatascience.com/oktoberfest-quick-analysis-using-pandas-matplotlib-and-plotly-79778367a4c)
 
@@ -42,7 +44,7 @@ Try Docker image for [Intel® Distribution for Python\* | Intel® Software](http
 ## NumPy
 
 [NumPy — NumPy](http://www.numpy.org/)
-[NumPy - Wikiwand](https://www.wikiwand.com/en/NumPy)
+[NumPy - Wikiwand](https://omni.wikiwand.com/en/NumPy)
 [Numpy and Scipy Documentation — Numpy and Scipy documentation](https://docs.scipy.org/doc/)
 [NumPy User Guide — NumPy Manual](https://docs.scipy.org/doc/numpy/user/index.html)
 [Indexing — NumPy Manual](https://docs.scipy.org/doc/numpy/reference/arrays.indexing.html)
@@ -105,7 +107,7 @@ def count_unique(keys):
 ## SciPy
 
 [SciPy.org — SciPy.org](https://www.scipy.org/)
-[SciPy - Wikiwand](https://www.wikiwand.com/en/SciPy)
+[SciPy - Wikiwand](https://omni.wikiwand.com/en/SciPy)
 
 SciPy is an open-source Python-based tool used for scientific and technical computing. It is built on the NumPy extension and allows Python programmers to manipulate and visualize data with a wide range of high-level commands. SciPy is popular in the field of Mathematics, Science, and Engineering.
 
@@ -261,6 +263,7 @@ with pd.option_context('display.max_rows', None, 'display.max_columns', None):  
 [SettingWithCopyWarning in Pandas: Views vs Copies – Real Python](https://realpython.com/pandas-settingwithcopywarning/)
 [Views and Copies in pandas — Practical Data Science](https://www.practicaldatascience.org/html/views_and_copies_in_pandas.html)
 [Python Pandas DataFrame: load, edit, view data | Shane Lynn](https://www.shanelynn.ie/using-pandas-dataframe-creating-editing-viewing-data-in-python/)
+[How to Merge Large DataFrames Efficiently with Pandas - KDnuggets](https://www.kdnuggets.com/how-to-merge-large-dataframes-efficiently-with-pandas)
 [Combining Data in Pandas With merge(), .join(), and concat() – Real Python](https://realpython.com/pandas-merge-join-and-concat/)
 
 [Reshape pandas dataframe | Towards Data Science](https://towardsdatascience.com/reshape-pandas-dataframe-with-pivot-table-in-python-tutorial-and-visualization-2248c2012a31) Convert long to wide with `pd.pivot_table`
@@ -269,6 +272,8 @@ with pd.option_context('display.max_rows', None, 'display.max_columns', None):  
 [Build pipelines with Pandas using “pdpipe” - Towards Data Science](https://towardsdatascience.com/https-medium-com-tirthajyoti-build-pipelines-with-pandas-using-pdpipe-cade6128cd31)
 [Exploring your data with just 1 line of Python - Towards Data Science](https://towardsdatascience.com/exploring-your-data-with-just-1-line-of-python-4b35ce21a82d)
 [Apply and Lambda usage in pandas - Towards Data Science](https://towardsdatascience.com/apply-and-lambda-usage-in-pandas-b13a1ea037f7)
+
+[How to Use the pivot_table Function for Advanced Data Summarization in Pandas - KDnuggets](https://www.kdnuggets.com/how-to-use-the-pivot_table-function-for-advanced-data-summarization-in-pandas)
 
 [datas-frame – Modern Pandas (Part 1)](https://tomaugspurger.github.io/modern-1-intro.html)
 [datas-frame – Modern Pandas (Part 2): Method Chaining](https://tomaugspurger.github.io/method-chaining)
@@ -350,7 +355,6 @@ df = pd.DataFrame([120000, 140000, 90000, 101000, 59000], idx, col)
 [For the Love of God, Stop Using iterrows() – r y x, r](https://ryxcommar.com/2020/01/15/for-the-love-of-god-stop-using-iterrows/) `df.itertuples(index=False)`
 
 ```python
-
 # column name
 col_mapping = [f"{c[0]}:{c[1]}" for c in enumerate(df.columns)]
 ```
@@ -368,6 +372,9 @@ col_mapping = [f"{c[0]}:{c[1]}" for c in enumerate(df.columns)]
 [man-group/dtale: Visualizer for pandas data structures](https://github.com/man-group/dtale)
 [dtale · PyPI](https://pypi.org/project/dtale/)
 [D-Tale (house_data)](http://alphatechadmin.pythonanywhere.com/dtale/main/1)
+
+[Styling — pandas documentation](https://pandas.pydata.org/pandas-docs/version/1.0/user_guide/style.html)
+[How to Use Conditional Formatting in Pandas to Enhance Data Visualization - KDnuggets](https://www.kdnuggets.com/how-to-use-conditional-formatting-in-pandas-to-enhance-data-visualization)
 
 ### groupby
 
@@ -474,3 +481,8 @@ For writing: `openpyxl`/`xlsxwriter` (XLSX), `PyTables` (HDF5)
 [Welcome to Spark Python API Docs! — PySpark master documentation](http://spark.apache.org/docs/latest/api/python/index.html)
 [First Steps With PySpark and Big Data Processing – Real Python](https://realpython.com/pyspark-intro/)
 [PySpark and SparkSQL Basics - Towards Data Science](https://towardsdatascience.com/pyspark-and-sparksql-basics-6cb4bf967e53)
+
+## JDSL
+
+[Mats Eikeland Mollestad | How I Accidentally Created the “JDSL” of Data Pipelines - And It's Awesome](https://matsmoll.github.io/posts/how-i-accidentally-created-the-jdsl-of-data-pipelines)
+[Accidently created JDSL | Prime Reacts - YouTube](https://www.youtube.com/watch?v=dMfHLUWb6Q0)

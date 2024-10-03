@@ -2,7 +2,7 @@
 title: Arduino
 description: ""
 created: 2018-09-12
-updated: 2023-10-12
+updated: 2024-08-14
 tags:
   - arduino
   - iot
@@ -11,7 +11,7 @@ tags:
 
 [You can learn Arduino in 15 minutes. - YouTube](https://www.youtube.com/watch?v=nL34zDTPkcs) Arduino is the board and the IDE/Platform, which supports many MCUs
 
-[Arduino - Wikiwand](http://www.wikiwand.com/en/Arduino)
+[Arduino - Wikiwand](http://omni.wikiwand.com/en/Arduino)
 [Arduino UNO FAQ | Arduino Tips, Tricks, and Techniques | Adafruit Learning System](https://learn.adafruit.com/arduino-tips-tricks-and-techniques?view=all)
 
 [Is the Arduino Right for Your Project? | Arduino | Maker Pro](https://maker.pro/arduino/tutorial/is-the-arduino-right-for-your-project)
@@ -232,11 +232,12 @@ To program other micro-controllers (e.g. ATTiny85)
 
 ### Keyboard Input
 
+> [[usb#Human Interface Devices (HID)]]
+
 ATMEGA32U4 can act as USB keyboard
 
 [【Arduino 教學】幫你自動打字，自動發送訊息的鍵盤指令 - YouTube](https://www.youtube.com/watch?v=dF4v-ZnMA_s)
 [【Arduino 教學】鍵盤指令進階用法，自動填寫表單，設定自己的電腦巨集按鍵 - YouTube](https://www.youtube.com/watch?v=nVv9vGa4Yv4)
 [【改造游標卡尺】傳送數據到電腦，自動打字紀錄，Creality3D 掃描器 - YouTube](https://www.youtube.com/watch?v=ur3bd3JNyRw)
 
-[QMK Firmware](https://docs.qmk.fm/#/)
-[qmk/qmk_firmware: Open-source keyboard firmware for Atmel AVR and Arm USB families](https://github.com/qmk/qmk_firmware)
+[QMK Firmware - An open source firmware for AVR and ARM based keyboards](https://qmk.fm/)

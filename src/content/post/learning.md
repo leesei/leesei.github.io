@@ -2,7 +2,7 @@
 title: Learning
 description: ""
 created: 2018-07-10
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - learning
 featured: true
@@ -30,7 +30,7 @@ Do learn from first-principal
 [Explore and Contribute to Knowledge | Golden](https://golden.com/explore)
 [Quora](https://www.quora.com/)
 [Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Main_Page)
-[Wikiwand](https://www.wikiwand.com/en/)
+[Wikiwand](https://omni.wikiwand.com/en/)
 
 [Your Goals Kinda Suck - LEVEL UP As A Developer - YouTube](https://www.youtube.com/watch?v=rzwaaWH0ksk) importance of setting achievable goal
 
@@ -84,11 +84,11 @@ Podcast and mailing lists is a good way to discover Unknown Unknown
 
 ## Learning Theory
 
-[Constructionism (learning theory) - Wikiwand](<https://www.wikiwand.com/en/Constructionism_(learning_theory)>)
+[Constructionism (learning theory) - Wikiwand](<https://omni.wikiwand.com/en/Constructionism_(learning_theory)>)
 
 [Marty Lobdell - Study Less Study Smart - YouTube](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
 
-[Project-based learning - Wikiwand](https://www.wikiwand.com/en/Project-based_learning)
+[Project-based learning - Wikiwand](https://omni.wikiwand.com/en/Project-based_learning)
 [What is Project Based Learning? | PBLWorks](https://www.pblworks.org/what-is-pbl)
 
 [我是如何快速学习一个领域的 - YouTube](https://www.youtube.com/watch?v=EViSmcCPK5g) 小 Lin 說
@@ -101,7 +101,7 @@ Podcast and mailing lists is a good way to discover Unknown Unknown
 
 ### Dreyfus model
 
-[Dreyfus model of skill acquisition - Wikiwand](https://www.wikiwand.com/en/Dreyfus_model_of_skill_acquisition)
+[Dreyfus model of skill acquisition - Wikiwand](https://omni.wikiwand.com/en/Dreyfus_model_of_skill_acquisition)
 [The Dreyfus Model of Skill Acquisition - The Five Steps to Expert Learning](https://www.mindtools.com/atdbxer/the-dreyfus-model-of-skill-acquisition)
 
 1. Novice.
@@ -153,7 +153,7 @@ I use these extensions:
 - "Medium Unlimited" [Chrome](https://manojvivek.github.io/medium-unlimited/download/) [Firefox](https://addons.mozilla.org/en-US/firefox/addon/medium-unlimited-read-for-free/)
   [Add "Adding custom domain" section to README.md by ByPort · Pull Request #126 · manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited/pull/126)
   No longer working with Manifest v3
-- [medium infinity reader - Chrome Web Store](https://chrome.google.com/webstore/detail/medium-infinity-reader/fgmeboblogphchmhbkppjdjohckmmhan?hl=en)
+- [medium infinity reader](https://chromewebstore.google.com/detail/medium-infinity-reader/fgmeboblogphchmhbkppjdjohckmmhan?hl=en)
   [yiyu0x/medium-infinity-reader: A chrome extension help you read medium without restrict.](https://github.com/yiyu0x/medium-infinity-reader)
 
 FreeCodeCamp (www.freecodecamp.org/news) and Hackernoon (medium.com/hackernoon) moved away from Medium
@@ -179,8 +179,8 @@ If you are a Kinesthetic learner, then you learn best by doing. You like to enga
 
 ## 互文性/Intertextuality
 
-[Intertextuality - Wikiwand](https://www.wikiwand.com/en/Intertextuality)
-[互文性 - Wikiwand](https://www.wikiwand.com/zh/%E4%BA%92%E6%96%87%E6%80%A7)
+[Intertextuality - Wikiwand](https://omni.wikiwand.com/en/Intertextuality)
+[互文性 - Wikiwand](https://omni.wikiwand.com/zh/%E4%BA%92%E6%96%87%E6%80%A7)
 
 [互文性：網路時代對後結構主義的追思](http://intermargins.net/intermargins/TCulturalWorkshop/culturestudy/theory/02.htm)
 [互文性](http://intermargins.net/intermargins/TCulturalWorkshop/culturestudy/theory/03.htm)
@@ -209,8 +209,8 @@ On education:
 ## School Rankings
 
 Chinese:
-[985 工程 - Wikiwand](https://www.wikiwand.com/zh/985%E5%B7%A5%E7%A8%8B) top tier
-[211 工程 - Wikiwand](https://www.wikiwand.com/zh/211%E5%B7%A5%E7%A8%8B) second tier
+[985 工程 - Wikiwand](https://omni.wikiwand.com/zh/985%E5%B7%A5%E7%A8%8B) top tier
+[211 工程 - Wikiwand](https://omni.wikiwand.com/zh/211%E5%B7%A5%E7%A8%8B) second tier
 二本, 三本, 專科
 
 ## Motive to Learn
@@ -229,7 +229,7 @@ Chinese:
 
 [Question of the Day] 108. What's the Future of Podcasting? Questions are more interesting than answers
 [Question of the Day] 111. How Do You Become an Interesting Person? By asking questions
-[Stay Hungry Stay Foolish - Wikiwand](https://www.wikiwand.com/en/Stay_Hungry_Stay_Foolish)
+[Stay Hungry Stay Foolish - Wikiwand](https://omni.wikiwand.com/en/Stay_Hungry_Stay_Foolish)
 
 ## How brain works
 
@@ -249,7 +249,7 @@ It is difficult to 守 when you don't understand what you're 守-ing.
 
 ## Speed Reading => Speed Learning
 
-[Rapid serial visual presentation - Wikiwand](https://www.wikiwand.com/en/Rapid_serial_visual_presentation)
+[Rapid serial visual presentation - Wikiwand](https://omni.wikiwand.com/en/Rapid_serial_visual_presentation)
 [Speed Learning — How I consume and comprehend media at 2x | Wes Bos](http://wesbos.com/speed-learning/)
 [The Truth About Speed Reading](http://lifehacker.com/the-truth-about-speed-reading-1542508398)
 [Free online speed reading software | Spreeder.com](http://www.spreeder.com/app.php)
@@ -262,7 +262,7 @@ It is difficult to 守 when you don't understand what you're 守-ing.
 
 [What speed do you read? | Staples.com®](http://www.staples.com/sbd/cre/marketing/technology-research-centers/ereaders/speed-reader/)
 
-For video contents use [Video Speed Controller - Chrome Web Store](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en)
+For video contents use [Video Speed Controller](https://chromewebstore.google.com/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en)
 
 ### Tools
 

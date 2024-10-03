@@ -2,7 +2,7 @@
 title: Amazon Web Services
 description: ""
 created: 2015-06-17
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - web
 ---
@@ -20,6 +20,7 @@ tags:
 [The 12 Coolest AWS Tools Of 2020 (So Far)](https://www.crn.com/slide-shows/cloud/the-12-coolest-aws-tools-of-2020-so-far-)
 
 [Software Architecture: Architect Your Application with AWS](https://codeburst.io/software-architecture-architect-your-application-with-aws-52d938603a32)
+[A Practical Guide To Deploying A Complex, Production Level, Three-tier Architecture On AWS - DEV Community](https://dev.to/kelvinskell/a-practical-guide-to-deploying-a-complex-production-level-three-tier-architecture-on-aws-2hf0)
 [Devs are from Venus, Ops are from Mars, Containers: Amazon Web Services, Part I - Turbonomic](https://turbonomic.com/blog/on-technology/devs-are-from-venus-ops-are-from-mars-containers-amazon-web-services-part-i/)
 [Devs are from Venus, Ops are from Mars, Containers: Amazon Web Services, Part II - Turbonomic](https://turbonomic.com/blog/on-technology/devs-are-from-venus-ops-are-from-mars-containers-amazon-web-services-part-ii/)
 [如何基于 AWS 的基础设施构建高可用、高可扩展的系统](http://www.infoq.com/cn/articles/build-ha-scalability-system-aws-infra)
@@ -48,7 +49,7 @@ tags:
 [AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english) ❗!important
 [CloudAcademy AWS](https://cloudacademy.com/amazon-web-services/#services-list) simple description
 [AWS cloud services features: A guide to the right tools for the job | InfoWorld](https://www.infoworld.com/article/3245925/cloud-computing/aws-cloud-services-guide-the-right-tools-for-the-job.html)
-[Category:Amazon Web Services - Wikiwand](http://www.wikiwand.com/en/Category:Amazon_Web_Services)
+[Category:Amazon Web Services - Wikiwand](http://omni.wikiwand.com/en/Category:Amazon_Web_Services)
 [AWSomeBlog.com - Amazon Web Services Tutorials](http://www.awsomeblog.com/)
 
 [Top 50+ AWS Services Explained in 10 Minutes - YouTube](https://www.youtube.com/watch?v=JIbIYCM48to)
@@ -521,6 +522,8 @@ Share storage volume
 [Cloud Storage Services – Amazon Web Services (AWS)](https://aws.amazon.com/products/storage/)
 [Amazon FSx for Lustre | File Storage | AWS](https://aws.amazon.com/fsx/lustre/)
 
+[CostStorage.com ☁️ ️| Quickly estimate the cost of storing your data on S3, Azure, Google Cloud, and more.](https://www.coststorage.com/)
+
 [AWS Storage Gateway - Amazon Web Services](https://aws.amazon.com/storagegateway/)
 [AWS Storage Gateway » ADMIN Magazine](http://www.admin-magazine.com/Articles/Simplify-integration-of-S3-storage-with-local-resources)
 
@@ -574,6 +577,10 @@ We hope these resources will answer your questions and help you get started usin
 [How S3 Signed URLs work - Advanced Web Machinery](https://advancedweb.hu/how-s3-signed-urls-work/) series
 
 [Paging Through The File List Of An AWS S3 Bucket, w/ Node](http://derickbailey.com/2016/04/13/paging-the-results-of-an-aws-s3-bucket/) JS S3 SDK
+
+[S3 Is A Security Nightmare (Common Exploit Showcase) - YouTube](https://www.youtube.com/watch?v=9UC5_Wfg9TI)
+[How to find the AWS Account ID of any S3 Bucket](https://tracebit.com/blog/how-to-find-the-aws-account-id-of-any-s3-bucket)
+[You Suck at Securing S3, Here's Why - env.fail](https://env.fail/posts/aws-s3/)
 
 ```
 Please take a look at the following resources to learn more about S3's features and capabilities.

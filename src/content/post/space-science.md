@@ -2,7 +2,7 @@
 title: Space Science
 description: ""
 created: 2018-01-10
-updated: 2023-11-09
+updated: 2024-09-19
 tags:
   - science
 ---
@@ -54,7 +54,10 @@ Crash Course
 [How does the Soyuz Spacecraft work? - YouTube](https://www.youtube.com/watch?v=24Bz5Ra5RgE)
 [How does the Soyuz Launch work? (and Reentry) - YouTube](https://www.youtube.com/watch?v=_v7YgDum2Sg)
 
+### Venera Project
+
 [How the Soviets Landed on Venus - YouTube](https://www.youtube.com/watch?v=UEmlOjKmL68) Venera Project
+[Surviving Venus in the 1970s - YouTube](https://www.youtube.com/watch?v=rMGUA77z80E)
 
 ## China
 
@@ -80,10 +83,10 @@ Crash Course
 
 ## Cosmic Photos
 
-[Pale Blue Dot - Wikiwand](https://www.wikiwand.com/en/Pale_Blue_Dot)
+[Pale Blue Dot - Wikiwand](https://omni.wikiwand.com/en/Pale_Blue_Dot)
 [Voyager 1's Pale Blue Dot | NASA Solar System Exploration](https://solarsystem.nasa.gov/resources/536/voyager-1s-pale-blue-dot/)
 
-[Earthrise - Wikiwand](https://www.wikiwand.com/en/Earthrise)
+[Earthrise - Wikiwand](https://omni.wikiwand.com/en/Earthrise)
 [Apollo 8’s Earthrise: The Shot Seen Round the World - The New York Times](https://www.nytimes.com/2018/12/21/science/earthrise-moon-apollo-nasa.html?module=inline)
 
 ## Solar Probe
@@ -91,7 +94,7 @@ Crash Course
 Parker Solar Probe
 
 [Parker Solar Probe | NASA](https://www.nasa.gov/content/goddard/parker-solar-probe)
-[Parker Solar Probe - Wikiwand](https://www.wikiwand.com/en/Parker_Solar_Probe)
+[Parker Solar Probe - Wikiwand](https://omni.wikiwand.com/en/Parker_Solar_Probe)
 
 [Traveling to the sun: Why won't Parker Solar Probe melt?](https://phys.org/news/2018-07-sun-wont-parker-solar-probe.amp)
 [Parker Solar Probe Countdown to T-Zero for a Journey to “Touch” the Sun - YouTube](https://www.youtube.com/watch?v=tvgrXBoQY_M)
@@ -114,7 +117,7 @@ Which violates conservation of momentum
 
 ## Fermi Paradox
 
-[Fermi paradox - Wikiwand](http://www.wikiwand.com/en/Fermi_paradox)
+[Fermi paradox - Wikiwand](http://omni.wikiwand.com/en/Fermi_paradox)
 
 [最神奇的星球，地球以及人類存在的真正原因 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=BLpv9fCZqcs)
 [【費米悖論】人類至今無法發現外星人的 14 種可能，越往後可能性越大 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=N4xXGIrzKJs)
@@ -134,7 +137,7 @@ Comets had inclined elliptical orbits, were made of **dust, rock and ice**, when
 Meteoroids are broken parts of asteroids or comets
 Meteors are meteoroids that enters the Earth's atmosphere
 Meteorites are meteors that are not vaporized and landed on the Earth's surface
-[Centaur (small Solar System body) - Wikiwand](<https://www.wikiwand.com/en/Centaur_(small_Solar_System_body)>)
+[Centaur (small Solar System body) - Wikiwand](<https://omni.wikiwand.com/en/Centaur_(small_Solar_System_body)>)
 Kuiper Belt, Oort cloud, Mostly icy
 [Who Protects Earth From Asteroids?](https://gizmodo.com/who-protects-earth-from-asteroids-1836193730)
 [Difference between Asteroids and Meteorites](https://interestingengineering.com/difference-between-asteroids-and-meteorites)
@@ -157,27 +160,29 @@ Kuiper Belt, Oort cloud, Mostly icy
 [International Space Station Construction Videos - YouTube](https://www.youtube.com/playlist?list=PLYu7z3I8tdEnjgkBIBgxaJfZl2LdQN-rP)
 [The Logistics of the International Space Station - YouTube](https://www.youtube.com/watch?v=EkRRo5DN9lI)
 
-[Salyut programme - Wikiwand](https://www.wikiwand.com/en/Salyut_programme) 1971-1986
+[Salyut programme - Wikiwand](https://omni.wikiwand.com/en/Salyut_programme) 1971-1986
 
-[Skylab - Wikiwand](https://www.wikiwand.com/en/Skylab) 1973-1974
+[Skylab - Wikiwand](https://omni.wikiwand.com/en/Skylab) 1973-1974
 
-[Mir - Wikiwand](https://www.wikiwand.com/en/Mir) 1986-2001
+[Mir - Wikiwand](https://omni.wikiwand.com/en/Mir) 1986-2001
 
-[International Space Station - Wikiwand](https://www.wikiwand.com/en/International_Space_Station) 1998-
-[Assembly of the International Space Station - Wikiwand](https://www.wikiwand.com/en/Assembly_of_the_International_Space_Station)
+[International Space Station - Wikiwand](https://omni.wikiwand.com/en/International_Space_Station) 1998-
+[Assembly of the International Space Station - Wikiwand](https://omni.wikiwand.com/en/Assembly_of_the_International_Space_Station)
 [What Is the International Space Station? | NASA](https://www.nasa.gov/audience/forstudents/5-8/features/nasa-knows/what-is-the-iss-58.html)
 [History and Timeline of the ISS](https://www.issnationallab.org/about/iss-timeline/)
 [How does the International Space Station work? - YouTube](https://www.youtube.com/watch?v=oLrOnEmy_GA)
 
-[Tiangong space station - Wikiwand](https://www.wikiwand.com/en/Tiangong_space_station) 2021-
+[Tiangong space station - Wikiwand](https://omni.wikiwand.com/en/Tiangong_space_station) 2021-
 
 ## Earth Orbits
+
+[The Satellite Orbit Tier List - YouTube](https://www.youtube.com/watch?v=Pdt7V8aImCQ)
 
 ### Low Earth Orbit (LEO)
 
 160-2000km above earth's surface
 
-[Project Gemini - Wikiwand](https://www.wikiwand.com/en/Project_Gemini)
+[Project Gemini - Wikiwand](https://omni.wikiwand.com/en/Project_Gemini)
 Cold war, uses Titan II, a modified Intercontinental Ballistic Missile (ICBM), as launch vehicle
 
 ### Medium Earth Orbit
@@ -197,25 +202,38 @@ Satellite Navigation Systems
 300km above GEO
 36000km above equator
 
-[Graveyard orbit - Wikiwand](https://www.wikiwand.com/en/Graveyard_orbit)
+[Graveyard orbit - Wikiwand](https://omni.wikiwand.com/en/Graveyard_orbit)
 [ESA - Mitigation scenarios: Graveyard orbit 300 km above GEO](https://www.esa.int/ESA_Multimedia/Images/2008/03/Mitigation_scenarios_Graveyard_orbit_300_km_above_GEO)
 [Graveyard Orbits Where Old Satellites Are Forgotten - YouTube](https://www.youtube.com/watch?v=ruf_mfjOt9k)
 
 ## Satellite/Space Junk
 
+[The Outer Space Treaty](https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/introouterspacetreaty.html)
+
 [Live Starlink Satellite and Coverage Map](https://satellitemap.space/)
 [Space Junk Removal Is Not Going Smoothly - Scientific American](https://www.scientificamerican.com/article/space-junk-removal-is-not-going-smoothly/)
 [A Giant Piece of Space Junk From a Chinese Rocket Is Hurtling Towards Earth – Here’s How Worried You Should Be](https://scitechdaily.com/a-giant-piece-of-space-junk-from-a-chinese-rocket-is-hurtling-towards-earth-heres-how-worried-you-should-be/)
 
+[衛星和太空垃圾發生嚴重車禍！太空垃圾數量突破百萬，人類會被自己困在地球嗎？ - YouTube](https://www.youtube.com/watch?v=xI85oygo0K8)
+
 ## Satellite Navigation Systems
 
-[Satellite navigation - Wikiwand](https://www.wikiwand.com/en/Satellite_navigation)
+> GPS signals can be jammed or spoofed
+
+[Satellite navigation - Wikiwand](https://omni.wikiwand.com/en/Satellite_navigation)
 [The Beginner's Guide to Different Satellite Navigation Systems](https://linxtechnologies.com/wp/blog-post/beginners-guide-satellite-navigation-systems/)
 
 [Why The US Military Made GPS Free-To-Use - YouTube](https://www.youtube.com/watch?v=ozAPGnr-934)
 
 [手机定位和导航是啥原理？GPS 和北斗有啥区别？李永乐老师讲卫星定位（2018 最新） - YouTube](https://www.youtube.com/watch?v=Rhq18MV6LtU)
 [中国北斗有多厉害？GPS 的霸主地位动摇，欧美体验到什么是中国速度 - YouTube](https://www.youtube.com/watch?v=8sWccq_QzKw&t=1s)
+
+### IMU Navigation Systems
+
+Traditional IMU measures acceleration and integrates twice to get distance
+This method is prune to measurement drifts
+
+[The Genius Behind the Quantum Navigation Breakthrough - YouTube](https://www.youtube.com/watch?v=bFM9HHB9JXI) using Bose-Eistein Condensate as IMU without drift
 
 ## Moon
 
@@ -228,6 +246,11 @@ Satellite Navigation Systems
 
 [How to decode the images on the Voyager Golden Record / Boing Boing](https://boingboing.net/2017/09/05/how-to-decode-the-images-on-th.html)
 [First Ever Decode of Voyager Audio Images, in Real Time. - YouTube](https://www.youtube.com/watch?v=ibByF9XPAPg)
+
+Primal Space
+[Voyager's 15 Billion Mile Software Update - YouTube](https://www.youtube.com/watch?v=_CPxe8yql0Q)
+[What If We Turned On Voyager 1’s Camera? - YouTube](https://www.youtube.com/watch?v=yCkM6XEsrRo)
+[How Voyager 2 Threaded The Needle Through Space - YouTube](https://www.youtube.com/watch?v=NbsHgE89qO4)
 
 [aizquier/voyagerimb: Voyager's Golden Disk Image Browser](https://github.com/aizquier/voyagerimb)
 [Voyager Golden Record: encoded image data by Ozma Records](https://soundcloud.com/user-482195982/voyager-golden-record-encoded-images)
@@ -248,20 +271,20 @@ Satellite Navigation Systems
 [Mars Rover Landing CRASH COURSE- 3 DAYS LEFT! - YouTube](https://www.youtube.com/watch?v=tH2tKigOPBU)
 
 [Mars Pathfinder - NASA Mars](https://mars.nasa.gov/programmissions/missions/past/pathfinder/)
-[Mars Pathfinder - Wikiwand](https://www.wikiwand.com/en/Mars_Pathfinder) 1997
+[Mars Pathfinder - Wikiwand](https://omni.wikiwand.com/en/Mars_Pathfinder) 1997
 
 Spirit and Opportunity are MER twins; designed for a mission of 90 martian days (sol), lasted for more than 7 and 14 years
 [How NASA's Opportunity and Spirit Rovers Changed Mars Exploration Forever | Space](https://www.space.com/mars-rovers-opportunity-spirit-change-exploration.html)
 [Mars Exploration Rovers - Spirit and Opportunity | NASA](https://www.nasa.gov/mission_pages/mer/index.html)
 [Mars Exploration Rovers - NASA Mars](https://mars.nasa.gov/mer/)
-[Spirit (rover) - Wikiwand](<https://www.wikiwand.com/en/Spirit_(rover)>) 2003 MER-A; stopped working in 2010 after trapping in sand dune
-[Opportunity (rover) - Wikiwand](<https://www.wikiwand.com/en/Opportunity_(rover)>) 2004 MER-B; shut down due to record breaking dust storm late 2018
+[Spirit (rover) - Wikiwand](<https://omni.wikiwand.com/en/Spirit_(rover)>) 2003 MER-A; stopped working in 2010 after trapping in sand dune
+[Opportunity (rover) - Wikiwand](<https://omni.wikiwand.com/en/Opportunity_(rover)>) 2004 MER-B; shut down due to record breaking dust storm late 2018
 [Mars Opportunity Rover - YouTube](https://www.youtube.com/watch?v=GKnZrueYRAY) air bags
 [How we landed on Mars with NASA Spirit - YouTube](https://www.youtube.com/watch?v=6t3IARmIdOI)
 [The Desperate Last-Ditch Efforts to Save Opportunity - YouTube](https://www.youtube.com/watch?v=4tNxRssrgDk)
 
 [Mars Science Laboratory](https://mars.nasa.gov/msl/)
-[Curiosity (rover) - Wikiwand](<https://www.wikiwand.com/en/Curiosity_(rover)>) 2011
+[Curiosity (rover) - Wikiwand](<https://omni.wikiwand.com/en/Curiosity_(rover)>) 2011
 
 - first to use sky crane system
 - Equipped with Radioisotope Thermoelectric Generator (RTG)
@@ -273,8 +296,8 @@ Spirit and Opportunity are MER twins; designed for a mission of 90 martian days 
 [The Curiosity Rover Landing - YouTube](https://www.youtube.com/watch?v=a4YqNoLkmxE) power descent (super sonic retro propulsion), sky crane
 [The Computers Behind NASA's Mars Curiosity Rover - YouTube](https://www.youtube.com/watch?v=1eUddT5BJ78)
 
-[Perseverance (rover) - Wikiwand](<https://www.wikiwand.com/en/Perseverance_(rover)>) 2021
-[Ingenuity (helicopter) - Wikiwand](<https://www.wikiwand.com/en/Ingenuity_(helicopter)>)
+[Perseverance (rover) - Wikiwand](<https://omni.wikiwand.com/en/Perseverance_(rover)>) 2021
+[Ingenuity (helicopter) - Wikiwand](<https://omni.wikiwand.com/en/Ingenuity_(helicopter)>)
 [Ingenuity Is So Good, NASA's Mars Helicopter Mission Just Got an Exciting Update](https://www.sciencealert.com/remember-nasa-s-little-mars-copter-it-s-still-going-strong)
 [The Insane Engineering of the Perseverance Rover - YouTube](https://www.youtube.com/watch?v=yqqaW8DCc-I)
 [How does a Mars Rover work? (Perseverance) - YouTube](https://www.youtube.com/watch?v=0-oQRSViZQE)
@@ -299,11 +322,11 @@ Spirit and Opportunity are MER twins; designed for a mission of 90 martian days 
 Viking 1975
 
 [Phoenix - NASA Mars](https://mars.nasa.gov/programmissions/missions/past/phoenix/)
-[Phoenix (spacecraft) - Wikiwand](<https://www.wikiwand.com/en/Phoenix_(spacecraft)>) 2008
+[Phoenix (spacecraft) - Wikiwand](<https://omni.wikiwand.com/en/Phoenix_(spacecraft)>) 2008
 [Phoenix Mars Landing: Nerves and Joy - YouTube](https://www.youtube.com/watch?v=hH5pNFROlYU)
 [火星探索簡史(第五集)：火星上的不死鳥 - YouTube](https://www.youtube.com/watch?v=VndsX5_5zMk)
 
-[InSight - Wikiwand](https://www.wikiwand.com/en/InSight) 2018
+[InSight - Wikiwand](https://omni.wikiwand.com/en/InSight) 2018
 [Entry, Descent, and Landing | Landing – NASA's InSight Mars Lander](https://mars.nasa.gov/insight/timeline/landing/entry-descent-landing/)
 [NASA InSight landing: Watch as the spacecraft successfully lands on Mars - YouTube](https://www.youtube.com/watch?v=A9Q-pXVISD4)
 [Watch NASA land INSIGHT on Mars!!!! - YouTube](https://www.youtube.com/watch?v=BRj3la_i9a4)
@@ -321,8 +344,8 @@ Viking 1975
 Max-Q: maximum aerodynamic pressure a flying object can withstand
 
 Delta-V maps
-[Hohmann transfer orbit - Wikiwand](https://www.wikiwand.com/en/Hohmann_transfer_orbit)
-[Gravity assist - Wikiwand](https://www.wikiwand.com/en/Gravity_assist)
+[Hohmann transfer orbit - Wikiwand](https://omni.wikiwand.com/en/Hohmann_transfer_orbit)
+[Gravity assist - Wikiwand](https://omni.wikiwand.com/en/Gravity_assist)
 
 Single Stage to Orbit (SSTO)
 
@@ -368,6 +391,7 @@ Heat generated at re-entry goes up by the cube of velocity.
 Brings software development philosophy (quick and cheap prototyping, scalability) to building rockets.
 
 [解锁馬斯克的星艦飛船，為什麼前往火星是一次有去無回的旅途？「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=1gb8Ayf3JWE)
+[炸了又炸！30億美元打水漂？馬斯克的星艦計劃為什麼會改變人類歷史？「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=6d09EQtU7_c)
 [(Almost) Every SpaceX Landing, In Order - YouTube](https://www.youtube.com/watch?v=AllaFzIPaG4)
 [“星舰”为何会爆炸？SpaceX 能否帮助人类移民火星？ - YouTube](https://www.youtube.com/watch?v=NB6te314Q14)
 

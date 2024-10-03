@@ -2,7 +2,7 @@
 title: Vector Graphics
 description: ""
 created: 2015-05-20
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - app
   - graphics
@@ -14,9 +14,12 @@ Selection Tool
 
 [Deke's Techniques, videos and tutorials from deke.com](https://www.deke.com/techniques)
 
+[Linearity: Ideate. Design. Animate. | Linearity](https://www.linearity.io/)
+[Can This Free Tool Replace All Adobe Apps?](https://www.makeuseof.com/linearity-vs-adobe/)
+
 ## Bézier Curve
 
-[Bézier curve - Wikiwand](http://www.wikiwand.com/en/Bézier_curve)
+[Bézier curve - Wikiwand](http://omni.wikiwand.com/en/Bézier_curve)
 
 [The Bézier Game](https://bezier.method.ac/)
 [Animated Bézier Curves - Jason Davies](https://www.jasondavies.com/animated-bezier/)

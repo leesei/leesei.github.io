@@ -2,7 +2,7 @@
 title: Makeblock
 description: ""
 created: 2019-06-12
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - comp/hardware
   - iot
@@ -12,7 +12,7 @@ tags:
   - orion
 ---
 
-[Makeblock - Wikiwand](https://www.wikiwand.com/en/Makeblock)
+[Makeblock - Wikiwand](https://omni.wikiwand.com/en/Makeblock)
 [Makeblock: Global STEAM Education Solution Provider](https://www.makeblock.com/)
 [Makeblock HK | STEM Education Robotics Platform](http://makeblock.hk/)
 [Makeblock 官网-全球 STEAM 教育解决方案领导者](https://www.makeblock.com/cn)
@@ -113,18 +113,18 @@ It is also known as Baseboard
 
 ## mBot
 
-[Robot Kits for Kids : mBot | Makeblock - Global STEAM Education Solution Provider](https://www.makeblock.com/steam-kits/mbot)
-[mBot – Open-source Arduino Robot Building Platform|Makeblock Learning Resource](http://learn.makeblock.com/en/mbot/)
-[mBot Docs · GitBook](http://docs.makeblock.com/mbot/en/) mBlock 5
+[mBot Robot kit for Beginners to Learn Block Based Coding and Arduino｜Makeblock](https://www.makeblock.com/pages/mbot-robot-kit)
+[STEM Classes for Teaching and Learning from Home | Makeblock](https://www.makeblock.com/collections/stem-classes?sort_by=manual&filter.p.m.custom.filter_by_product=mBot-S)
+[mBlock 5 – Makeblock Help Center](https://support.makeblock.com/hc/en-us/sections/360001829013-mBlock-5)
 
 [值得拥有——mBot 机器人正式版开箱评测（2.4G 版本） | mBot 机器人学习中心](http://www.mbot.cc/?p=297)
 [让每一个孩子拥有自己的机器人——mBot 开箱评测 - 模型手办 - Chiphell - 分享与交流用户体验](https://www.chiphell.com/thread-1282876-1-1.html)
-[mBot 怎么玩？mBot 官方中文说明书，mbot 中文使用手册 - Makeblock](https://www.makeblock.com/cn/mbot/212197.html)
+[mBot怎么玩？mBot官方中文说明书，mbot中文使用手册 - Makeblock](https://www.makeblock.com.cn/mbot/212197.html)
 [mBot Tutorials - GitBook](http://docs.makeblock.com/mbot/en/)
 [Cheat Sheet / Getting started - mBot (more) - General Discussion - Makeblock Forum](https://forum.makeblock.com/t/cheat-sheet-getting-started-mbot-more/2960)
 
-[mBot 教育资源页 - makeblock education](http://education.makeblock.com/zh-hans/mbot/)
-[home - makeblock education](http://education.makeblock.com/)
+[Help Teachers and Schools Make an Impact | Makeblock Education](https://education.makeblock.com/)
+[mBot Explorer Kit | Makeblock Education](https://education.makeblock.com/mbot-explorer-kit/)
 
 [Technology-at-school/Robots/Makeblock at master · Tauvic/Technology-at-school](https://github.com/Tauvic/Technology-at-school/tree/master/Robots/Makeblock)
 [機器人齊步走 mBlock5 mbot*ver8*探奇邱信仁](https://www.slideshare.net/renchiou/mblock5-mbotver8)

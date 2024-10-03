@@ -2,7 +2,7 @@
 title: Windows Desktop
 description: ""
 created: 2015-01-15
-updated: 2023-11-30
+updated: 2024-09-23
 tags:
   - app
   - desktop
@@ -30,9 +30,9 @@ tags:
 
 ## CLI
 
-[Windows Command-Line: Backgrounder – Windows Command Line Tools For Developers](https://blogs.msdn.microsoft.com/commandline/2018/06/20/windows-command-line-backgrounder/)
-[Windows Command-Line: The Evolution of the Windows Command-Line – Windows Command Line Tools For Developers](https://blogs.msdn.microsoft.com/commandline/2018/06/27/windows-command-line-the-evolution-of-the-windows-command-line/)
-[Windows Command-Line: Inside the Windows Console – Windows Command Line Tools For Developers](https://blogs.msdn.microsoft.com/commandline/2018/07/10/windows-command-line-inside-the-windows-console/)
+[Windows Command-Line: Backgrounder - Windows Command Line](https://devblogs.microsoft.com/commandline/windows-command-line-backgrounder/)
+[Windows Command-Line: The Evolution of the Windows Command-Line - Windows Command Line](https://devblogs.microsoft.com/commandline/windows-command-line-the-evolution-of-the-windows-command-line/)
+[Windows Command-Line: Inside the Windows Console - Windows Command Line](https://devblogs.microsoft.com/commandline/windows-command-line-inside-the-windows-console/)
 
 [Clink](https://chrisant996.github.io/clink/clink.html) `CMD.exe` + `readline`
 
@@ -99,6 +99,20 @@ xfreerdp /u:JohnDoe /p:Pwd123! /vmconnect:C824F53E-95D2-46C6-9A18-23A5BB403532 /
 [Awesome New Windows Tools You NEED - YouTube](https://www.youtube.com/watch?v=0U9SnmgLClo) 2022-11
 [The Coolest New Tools in Microsoft PowerToys - YouTube](https://www.youtube.com/watch?v=JinQIyEhfew) 2023-10
 
+## Windhawk
+
+[Windhawk](https://windhawk.net/)
+[ramensoftware/windhawk: The customization marketplace for Windows programs: https://windhawk.net/](https://github.com/ramensoftware/windhawk)
+[ramensoftware/windhawk-mods: The official collection of Windhawk mods](https://github.com/ramensoftware/windhawk-mods)
+
+[EVERY Windows 11 User Should Know About THIS Free Customization Utility! - YouTube](https://www.youtube.com/watch?v=XyrfCWWWTb8)
+[【神器】Windows没做出来的功能，Windhawk这款软件实现了…… - YouTube](https://www.youtube.com/watch?v=BkAHpslWPCs)
+
+## ExplorerPatcher
+
+[valinet/ExplorerPatcher: This project aims to enhance the working environment on Windows](https://github.com/valinet/ExplorerPatcher)
+[I Can't Use Windows Without ExplorerPatcher (Windows 10 & 11 Tutorial) - YouTube](https://www.youtube.com/watch?v=iucq4Ec8ifM)
+
 ## CMD Shell/Batch Script (.bat)
 
 [Commands by Server role | Microsoft Docs](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/commands-by-server-role)
@@ -111,15 +125,21 @@ xfreerdp /u:JohnDoe /p:Pwd123! /vmconnect:C824F53E-95D2-46C6-9A18-23A5BB403532 /
 
 [Getting started with batch files](https://www.robvanderwoude.com/batchstart.php)
 
+### Launcher
+
+[[desktop-launchers#Windows]]
+
 ## Crapware/Debloating
 
 Beware of where you download from, especially don't use download.com.
 [Here’s What Happens When You Install the Top 10 Download.com Apps](http://www.howtogeek.com/198622/heres-what-happens-when-you-install-the-top-10-download.com-apps/)
 [Crapware Is a Horrible Problem and It's Our Fault](http://lifehacker.com/crapware-is-a-horrible-problem-and-its-all-our-fault-1705794628)
+[How to Quickly Remove Bloatware From Windows 11](https://www.makeuseof.com/how-to-quickly-remove-bloatware-from-windows-11/)
 
 [AtlasOS — Home](https://atlasos.net/)
 [DaddyMadu/Windows10GamingFocus: This is the Ultimate Windows 10 Debloat and Gaming Tweaks Optimization based on ChrisTitusTechScript which is based on multiple debloat scripts and gists from github.](https://github.com/DaddyMadu/Windows10GamingFocus) use this over `Windows10Debloater`
 [Sycnex/Windows10Debloater: Script to remove Windows 10 bloatware.](https://github.com/Sycnex/Windows10Debloater)
+[Raphire/Win11Debloat: A simple powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.](https://github.com/Raphire/Win11Debloat)
 
 [Microsoft Provides New Performance Tips for Windows 11 Gamers | Tom's Hardware](https://www.tomshardware.com/news/microsoft-windows-11-gaming-boost-tips)
 [Options to Optimize Gaming Performance in Windows 11](https://prod.support.services.microsoft.com/en-us/windows/options-to-optimize-gaming-performance-in-windows-11-a255f612-2949-4373-a566-ff6f3f474613)
@@ -130,8 +150,15 @@ Beware of where you download from, especially don't use download.com.
 
 [Debloating Windows 11 The Easy Way! - YouTube](https://www.youtube.com/watch?v=8ReoMuCUdKE)
 [builtbybel/ThisIsWin11: The real PowerToys for Windows 11](https://github.com/builtbybel/ThisIsWin11)
+[Windows 11 Debloater Tool | Debloat GUI (Updated Feb 22, 2024! V2.0.6) - FreeTimeTech](https://freetimetech.com/windows-11-debloater-tool-debloat-gui/)
 
 [StartAllBack to fix all Windows 11 deal-breaking UI issues](https://www.startallback.com/) classic Start Menu, taskbar ungrouping
+`winget install startallback`
+
+```ps
+# restore Windows 10 context menu
+reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve
+```
 
 ### On Phone
 
@@ -192,7 +219,7 @@ In 2016's Anniversary Update (1607), the Windows 10 license can be bound to a Mi
 
 [How to Get Rid of the Activate Windows Watermark [Windows 10 PC Activation Message Removal]](https://www.freecodecamp.org/news/how-to-get-rid-of-the-activate-windows-watermark-windows-10-pc-activation-message-removal/)
 
-[Windows 10 editions - Wikiwand](https://www.wikiwand.com/en/Windows_10_editions)
+[Windows 10 editions - Wikiwand](https://omni.wikiwand.com/en/Windows_10_editions)
 [Compare Windows 10 business editions - Windows](https://www.microsoft.com/en-us/windowsforbusiness/compare/)
 [Every Single Windows 10 Version You Must Know About](https://www.makeuseof.com/tag/windows-10-version-overview/)
 [Windows 10 Pro vs. Enterprise: What Is the Difference? | Lakeside Software](https://www.lakesidesoftware.com/blog/windows-10-pro-vs-enterprise)
@@ -257,7 +284,7 @@ Trigger activation manually: `slui 4`
 
 ## Reserved file names
 
-[What’s the deal with those reserved filenames like NUL and CON? – The Old New Thing](https://blogs.msdn.microsoft.com/oldnewthing/20031022-00/?p=42073)
+[What's the deal with those reserved filenames like NUL and CON? - The Old New Thing](https://devblogs.microsoft.com/oldnewthing/20031022-00/?p=42073)
 
 [foone on Twitter: "It is 2018 and this error message is a mistake from 1974. This limitation, which is still found in the very latest Windows 10, dates back to BEFORE STAR WARS. This bug is as old as Watergate. https://t.co/pPbkZiE57t" / Twitter](https://mobile.twitter.com/Foone/status/1058676834940776450)
 
@@ -305,15 +332,6 @@ The `Antimalware Service Executable` is hogging CPU even after Windows Defender 
 2. Go to: `HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender`
 3. Right click on `Windows Defender` > select `New` > `DWORD`
 4. Double click the newly created `DWORD` > name it `DisableAntiSpyware` > set the value to 1.
-
-## Kernel Monitor
-
-[Process Monitor - Windows Sysinternals | Microsoft Docs](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
-
-[Fibratus](https://www.fibratus.io/#/)
-[rabbitstack/fibratus: Tool for exploration and tracing of the Windows kernel](https://github.com/rabbitstack/fibratus)
-[Fibratus Video Teaser – Rabbit Stack](<https://rabbitstack.github.io/operating systems/fibratus-video-teaser/>) run filter or Python filaments
-[Fibratus Teaser - YouTube](https://www.youtube.com/watch?v=7Isrn-eb8Ws)
 
 ## Network
 
@@ -367,8 +385,8 @@ WSL is (initially) a Ubuntu userland ("Bash for Windows") running on a POSIX -> 
 
 [An overview on the the Windows Subsystem for Linux | Microsoft Docs](https://docs.microsoft.com/en-us/windows/wsl/)
 
-[Windows Command Line](https://devblogs.microsoft.com/commandline/)
-[Windows Subsystem for Linux – The underlying technology enabling the Windows Subsystem for Linux](https://blogs.msdn.microsoft.com/wsl/) old
+[Windows Subsystem for Linux (WSL) - Windows Command Line](https://devblogs.microsoft.com/commandline/category/bash-on-ubuntu-on-windows/)
+[Windows Subsystem for Linux | Microsoft Learn](https://learn.microsoft.com/en-us/archive/blogs/wsl/) old
 
 [Comparing WSL Versions | Microsoft Learn](https://learn.microsoft.com/en-us/windows/wsl/compare-versions)
 
@@ -514,7 +532,7 @@ Edge Stable on Win10 20160322
 
 ## Settings
 
-[Special folder - Wikiwand](https://www.wikiwand.com/en/Special_folder)
+[Special folder - Wikiwand](https://omni.wikiwand.com/en/Special_folder)
 [What Is the AppData Folder in Windows?](https://www.howtogeek.com/318177/what-is-the-appdata-folder-in-windows/)
 [Special Windows Folders You Need to Know About - YouTube](https://www.youtube.com/watch?v=Sxt8WrtlUno)
 
@@ -611,6 +629,7 @@ Uncheck "Users must enter a user name and password to use this computer" in `net
 [Users must enter a user name and password checkbox missing from netplwiz in Windows 10 Fix](https://thegeekpage.com/users-must-enter-a-user-name-and-password-checkbox-missing-from-netplwiz-in-windows-10-fix/)
 [Windows 10 auto login: Quick guide to setting it up - IONOS](https://www.ionos.com/digitalguide/server/configuration/windows-10-automatic-login/)
 [How to Set Up Auto Login in Windows](https://www.lifewire.com/how-do-i-auto-login-to-windows-2626066) `netplwiz` and registry
+[How to Automatically Sign Into a User Account on Windows 11/10](https://www.makeuseof.com/automatically-sign-user-in-windows-10/)
 
 ### Start Menu items
 
@@ -631,26 +650,6 @@ $env:windir\System32\shutdown.exe /s /t 0
 
 Small taskbar button
 Never combine
-
-### Dev setup
-
-```
-7zip
-autohotkey.portable
-chocolatey
-dotnet-sdk
-git
-GoogleChrome
-lockhunter
-microsoft-windows-terminal
-nerd-fonts-FiraCode
-notepad2-mod
-sumatrapdf.install
-tightvnc
-visualstudio2019community
-vscode
-winmerge
-```
 
 ## Tips and Tricks
 
@@ -694,12 +693,12 @@ winmerge
 [8 Annoying Windows 10 Issues & How to Fix Them](https://www.makeuseof.com/tag/8-annoying-windows-10-issues-fix/)
 [Windows 10's best tricks, tips, and tweaks | PCWorld](https://www.pcworld.com/article/2875600/windows-10-the-best-tips-tricks-and-tweaks.html)
 [10 truly helpful Windows 10 tools you might not know about | PCWorld](https://www.pcworld.com/article/3387950/10-truly-helpful-windows-10-tools-you-might-not-know-about.amp.html)
-[Windows 7 GodMode: Tips, Tricks, Tweaks | PCWorld](https://www.pcworld.com/article/220753/windows_7_god_mode_tips_tricks_tweaks.html)
-[How to use God Mode in Windows 10 - TechRepublic](https://www.techrepublic.com/google-amp/article/how-to-use-god-mode-in-windows-10/)
 
 [Windows help](https://support.microsoft.com/en-us/products/windows?os=windows-10)
 [Windows 10 cheat sheet | Computerworld](https://www.computerworld.com/article/3014286/microsoft-windows/windows-10-cheat-sheet.html)
 [Windows 10 tips and tricks for Wi-Fi and networking | InfoWorld](http://www.infoworld.com/article/3155417/microsoft-windows/windows-10-tips-and-tricks-for-wi-fi-and-networking.html)
+
+[How to Use Your Android Phone as a Webcam on Windows 11](https://www.makeuseof.com/use-android-phone-as-webcam-windows-11/)
 
 [How to Mirror Your iPhone or iPad’s Screen on Your Windows PC](https://www.howtogeek.com/247573/how-to-mirror-your-iphone-or-ipads-screen-on-your-windows-pc/)
 [How to Cast Your Windows or Android Display to a Windows 10 PC](https://www.howtogeek.com/269093/how-to-cast-your-windows-or-android-display-to-a-windows-10-pc/)
@@ -720,6 +719,21 @@ Disable `Windows Search` in Service Manager
 
 Start admin cmd:
 Start and type `cmd`, followed by <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd>
+
+### God Mode
+
+[Windows 7 GodMode: Tips, Tricks, Tweaks | PCWorld](https://www.pcworld.com/article/220753/windows_7_god_mode_tips_tricks_tweaks.html)
+[How to use God Mode in Windows 10 - TechRepublic](https://www.techrepublic.com/google-amp/article/how-to-use-god-mode-in-windows-10/)
+
+[I Created Windows SUPER God Mode (Better Than God Mode) - YouTube](https://www.youtube.com/watch?v=CnATL9kJPn8)
+[ThioJoe/Windows-Super-God-Mode: Creates shortcuts to virtually every special location or action built into Windows](https://github.com/ThioJoe/Windows-Super-God-Mode)
+[Windows Shell Folders — The Whys, The Whats, The Hows (And A Complete List Of Them) | by Danilo Bilanoski | Medium](https://medium.com/@dbilanoski/windows-shell-folders-the-whys-the-whats-the-hows-and-a-complete-list-of-them-7e33e1b826cf)
+
+### Windows Shortcuts
+
+[Secrets of Windows Shortcut Files - YouTube](https://www.youtube.com/watch?v=F3MMesBqlF0)
+[Eric Zimmerman's tools](https://ericzimmerman.github.io/) `LECmd`
+[liblnk/documentation/Windows Shortcut File (LNK) format.asciidoc at main · libyal/liblnk · GitHub](<https://github.com/libyal/liblnk/blob/main/documentation/Windows%20Shortcut%20File%20(LNK)%20format.asciidoc>)
 
 ### Fast Startup
 
@@ -768,10 +782,17 @@ Disable Edge tab from new Alt+Tab (Windows 20H2):
 Settings > System > Multitasking > Alt + Tab
 [A closer look at Windows 10's new Alt+Tab experience](https://www.windowslatest.com/2020/07/08/windows-10-alt-tab-browser-tabs-experience/)
 
+### TrustedInstaller
+
+[Tyranid's Lair: The Art of Becoming TrustedInstaller](https://www.tiraniddo.dev/2017/08/the-art-of-becoming-trustedinstaller.html)
+[Tyranid's Lair: The Art of Becoming TrustedInstaller](https://web.archive.org/save/https://www.tiraniddo.dev/2017/08/the-art-of-becoming-trustedinstaller.html)
+[Hacking Windows TrustedInstaller (GOD MODE) - YouTube](https://www.youtube.com/watch?v=Vj1uh89v-Sc)
+
 ### Keyboard Shortcuts
 
 [Windows 10 常用快捷鍵組合 – We Love Windows .HK](http://welovewindows.hk/post24975)
 [Windows Keyboard Shortcuts 101: The Ultimate Guide](https://www.makeuseof.com/tag/windows-shortcuts-101-ultimate-keyboard-shortcut-guide/)
+[The Ultimate Guide to Windows 11's Keyboard Shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/)
 [Keyboard shortcuts in Windows](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec)
 [Keyboard shortcuts in Windows - Windows Help](https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts)
 [Keyboard Shortcuts and System Commands for Popular Programs | TurboFuture](https://turbofuture.com/computers/keyboard-shortcut-keys)
@@ -792,15 +813,22 @@ Settings > System > Multitasking > Alt + Tab
 | IME Toggle              | <kbd>⊞</kbd>+<kbd>Spacebar</kbd>                                           |
 | Restart Graphics Driver | <kbd>⊞</kbd>+<kbd>Ctrl</kbd>++<kbd>Shift</kbd>+<kbd>B</kbd>                |
 
-### Windows Defender
+### Windows Defender/Windows Security
+
+Oringial Windows Defender (antivirus and firewall) is now called Windows Security
+[Did You Know There Are Two Different Microsoft Defender Apps?](https://www.makeuseof.com/microsoft-defender-vs-windows-security/)
 
 [著名黑客 h0ek 教路，只需在 Windows Defender 加上一點就可以得到企業級的保護 - Qooah](https://qooah.com/2022/03/14/famous-hacker-h0ek-teaches-the-way-to-get-enterprise-grade-protection-with-just-a-little-bit-of-windows-defender/)
 [Turn on cloud protection in Microsoft Defender Antivirus | Microsoft Docs](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/enable-cloud-protection-microsoft-defender-antivirus?view=o365-worldwide)
 
 ## Package Managers
 
+[指令式軟體安裝服務比較：Chocolatey、Scoop 與 winget-黑暗執行緒](https://blog.darkthread.net/blog/chocolatey-scoop-winget/)
+[Chocolatey and Winget Comparison · ScoopInstaller/Scoop Wiki](https://github.com/ScoopInstaller/Scoop/wiki/Chocolatey-and-Winget-Comparison)
+
 ### Scoop
 
+> 👍👎 no admin right
 > 👍 hide GUI installers
 
 [Scoop](https://scoop.sh/)
@@ -811,7 +839,7 @@ iwr -useb get.scoop.sh | iex
 ```
 
 ```sh
-scoop bucket add extras
+scoop bucket add extras # non dev tools
 scoop install vscode
 ```
 
@@ -825,16 +853,17 @@ scoop install vscode
 [Get to know the Chocolatey package manager for Windows | Computerworld](https://www.computerworld.com/article/3236406/enterprise-applications/get-to-know-the-chocolatey-package-manager-for-windows.html#tk.ctw_nsdr_ndxprmomod)
 [majkinetor/au: Chocolatey Automatic Package Updater Module](https://github.com/majkinetor/au)
 
+[Chocolatey Software | Packages](https://community.chocolatey.org/packages)
 [bcurran3/ChocolateyPackages: My published Chocolatey packages](https://github.com/bcurran3/ChocolateyPackages)
 [ChocolateyPackages/choco-cleaner at master · bcurran3/ChocolateyPackages](https://github.com/bcurran3/ChocolateyPackages/tree/master/choco-cleaner)
 
 ```sh
-Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 ```
 
 ```sh
-choco install -y --allowEmptyChecksums calibre envince
-choco install -y vscode
+choco install -y --allowEmptyChecksums package
+choco install -y package
 choco uninstall -y package
 
 choco search query
@@ -842,9 +871,7 @@ choco search query
 
 ```sh
 # list installed packages
-chocolatey list -localonly
-choco list -lo
-clist -lo
+choco list
 # upgrade installed packages
 choco upgrade all -y
 cup all -y
@@ -852,63 +879,82 @@ cup all -y
 
 ```
 7zip
-arduino
 autohotkey.portable
-calibre
+cdex
 chocolatey
-choco-cleaner
-comicrack
-crystaldiskmark
-dotnet
-filezilla
-FiraCode-ttf
-Firefox
+chocolatey-compatibility.extension
+chocolatey-core.extension
+chocolatey-font-helpers.extension
+chocolatey-misc-helpers.extension
+chocolatey-windowsupdate.extension
+cpu-z.portable
+crystaldiskinfo.portable
+DotNet4.6.1
+epicgameslauncher
+gimp
+git
 GoogleChrome
-google-backup-and-sync
+gsmartcontrol
+hwinfo.portable
+irfanview
+libreoffice-fresh
+mediainfo
 microsoft-windows-terminal
-KB2919355
-KB2919442
-KB2999226
-KB3033929
-KB3035131
-mpv
-notepad2-mod
-Office365Business
-procmon
-siv
+mpv.install
+nerd-fonts-FiraCode
+openhardwaremonitor
+pinta
+ripgrep
+steam
 sumatrapdf.install
-sublimemerge
-teamviewer
-vcredist140
 vscode
-visualstudio2019community
-winmerge
-wireshark
+wget
+yt-dlp
 ```
 
-Gaming setup
+### Gaming setup
 
 ```
-7zip
-autohotkey.portable
 cpu-z
+ea-app
 gsmartcontrol
 crystaldiskmark
 crystaldiskinfo
-openhardwaremoniter
+OpenHardwareMonitor
 steam
 epicgameslauncher
-origin
 ```
 
-Work setup
+### Dev setup
 
 ```
-cinst -y 7zip autohotkey.portable chocolatey dotnet FiraCode-ttf GoogleChrome mediainfo microsoft-windows-terminal notepad2-mod sumatrapdf.install tigervnc vscode visualstudio2019professional winmerge
+autohotkey.portable
+dotnet-sdk
+git
+GoogleChrome
+lockhunter
+mediainfo
+nerd-fonts-FiraCode
+notepad2-mod
+ripgrep
+sumatrapdf.install
+tightvnc
+visualstudio2019community
+vscode
+wget
+wireshark
+winmerge
 ```
+
+### Zero Install
+
+> cross platform
+
+[Zero Install](https://0install.net/)
 
 ### webi (webinstall.dev)
 
+> install dev tools
 > without `sudo` or admin right
 > cross platform
 
@@ -921,6 +967,7 @@ curl.exe -A "MS" https://webinstall.dev/webi | powershell
 ### WinGet
 
 > 👎 do not hide GUI installers
+> 👎 package list not comprehensive
 
 [Windows Package Manager | Microsoft Learn](https://learn.microsoft.com/en-us/windows/package-manager/)
 [Using Native Package Manager (WinGet) on Windows 10 | Windows OS Hub](http://woshub.com/using-winget-package-manager-windows/)
@@ -995,11 +1042,11 @@ Remove all partition and install to the new disk, Windows setup's partitioner sh
 
 ## Windows Task Scheduler
 
-> cronjob
+> = `cronjob`
 
 [How to create an automated task using Task Scheduler on Windows 10 | Windows Central](https://www.windowscentral.com/how-create-automated-task-using-task-scheduler-windows-10)
 
-## Virtual Desktop
+## ~~Virtual Desktop~~
 
 Windows 10 have Virtual Desktop built-in
 [How to use multiple desktops in Windows 10 - CNET](https://www.cnet.com/how-to/how-to-use-multiple-desktops-in-windows-10/)
@@ -1012,6 +1059,7 @@ Windows Key + Ctrl + D to create new desktop.
 Windows Key + Ctrl + Left/Right Arrow and 3 or 4 fingers swipe to switch desktop.
 
 [The Best Free Programs for Using Virtual Desktops in Windows](https://www.howtogeek.com/130650/the-best-free-programs-for-using-virtual-desktops-in-windows/)
+
 [Virtual Dimension](http://virt-dimension.sourceforge.net/)
 If you messed up with the hotkeys, reset at `HKEY_CURRENT_USER\Software\Typz Software\Virtual Dimension`
 

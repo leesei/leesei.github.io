@@ -2,7 +2,7 @@
 title: Google Analytics
 description: ""
 created: 2023-05-20
-updated: 2023-09-29
+updated: 2024-06-14
 tags:
   - google
   - web
@@ -74,6 +74,10 @@ It's recommended to create and manage Measurements in GA and use GTM for deploym
 ## Alternatives
 
 [Plausible Analytics | Simple, privacy-friendly Google Analytics alternative](https://plausible.io/)
+
+[PostHog - How developers build successful products](https://posthog.com/)
+[PostHog/posthog: 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.](https://github.com/PostHog/posthog)
+[Please Stop Using Google Analytics - YouTube](https://www.youtube.com/watch?v=6xXSsu0YXWo)
 
 [GoatCounter – open source web analytics](https://www.goatcounter.com/)
 

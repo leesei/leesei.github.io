@@ -2,7 +2,7 @@
 title: Linux Security
 description: ""
 created: 2016-05-30
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - linux
   - security
@@ -17,13 +17,16 @@ tags:
 [access control - Comparsion Between AppArmor and Selinux - Information Security Stack Exchange](http://security.stackexchange.com/questions/29378/comparsion-between-apparmor-and-selinux)
 
 [Linux hardening: a 15-step checklist for a secure Linux server | Network World](https://www.networkworld.com/article/3143050/linux/linux-hardening-a-15-step-checklist-for-a-secure-linux-server.html#tk.nww-fsb)
-[What is PAM? – Information & Technology – Medium](https://medium.com/information-and-technology/wtf-is-pam-99a16c80ac57)
-
 [Linux Security - YouTube](https://www.youtube.com/playlist?list=PLk6GyAyNDZmBmVacGhQgMPlXLEzqtyjti)
 [How to protect Linux from Hackers // My server security strategy! - YouTube](https://www.youtube.com/watch?v=Bx_HkLVBz9M)
 
 [Blacklisting modules on Linux | Network World](https://www.networkworld.com/article/3270624/linux/blacklisting-modules-on-linux.html)
 [22 essential Linux security commands | Network World](https://www.networkworld.com/article/3272286/open-source-tools/22-essential-security-commands-for-linux.html)
+
+## User Management
+
+[What is PAM? – Information & Technology – Medium](https://medium.com/information-and-technology/wtf-is-pam-99a16c80ac57)
+[Advanced Linux User Management: How to Manage Users, Groups, and Files](https://www.itprotoday.com/linux/advanced-linux-user-management-privileges-resource-limits-and-more)
 
 ## ASLR
 
@@ -40,14 +43,14 @@ tags:
 ## SELinux
 
 [SELinux Wiki](https://selinuxproject.org/page/Main_Page)
-[Security-Enhanced Linux - Wikiwand](https://www.wikiwand.com/en/Security-Enhanced_Linux)
+[Security-Enhanced Linux - Wikiwand](https://omni.wikiwand.com/en/Security-Enhanced_Linux)
 
 [Your visual how-to guide for SELinux policy enforcement | Opensource.com](https://opensource.com/business/13/11/selinux-policy-guide)
 <http://people.redhat.com/duffy/selinux/selinux-coloring-book_A4-Stapled.pdf>
 
 ## AppArmor
 
-[AppArmor - Wikiwand](https://www.wikiwand.com/en/AppArmor)
+[AppArmor - Wikiwand](https://omni.wikiwand.com/en/AppArmor)
 [AppArmor - Ubuntu Wiki](https://wiki.ubuntu.com/AppArmor)
 [Documentation · Wiki · AppArmor / apparmor · GitLab](https://gitlab.com/apparmor/apparmor/wikis/Documentation)
 [Ubuntu Manpage: AppArmor - kernel enhancement to confine programs to a limited set of resources.](http://manpages.ubuntu.com/manpages/bionic/man7/apparmor.7.html)
@@ -64,12 +67,12 @@ sudo aa-enforce /etc/apparmor.d/*
 
 ## seccomp
 
-[seccomp - Wikiwand](https://www.wikiwand.com/en/Seccomp)
+[seccomp - Wikiwand](https://omni.wikiwand.com/en/Seccomp)
 [Sandboxing in Linux with zero lines of code](https://blog.cloudflare.com/sandboxing-in-linux-with-zero-lines-of-code/amp/)
 
 ## Namespace
 
-[Linux namespaces - Wikiwand](https://www.wikiwand.com/en/Linux_namespaces)
+[Linux namespaces - Wikiwand](https://omni.wikiwand.com/en/Linux_namespaces)
 
 [Introduction to Linux namespaces - Part 1: UTS | Yet another enthusiast blog!](https://blog.yadutaf.fr/2013/12/22/introduction-to-linux-namespaces-part-1-uts/)
 [Introduction to Linux namespaces - Part 2: IPC | Yet another enthusiast blog!](https://blog.yadutaf.fr/2013/12/28/introduction-to-linux-namespaces-part-2-ipc/)
@@ -90,7 +93,7 @@ sudo aa-enforce /etc/apparmor.d/*
 
 Control groups
 
-[cgroups - Wikiwand](https://www.wikiwand.com/en/Cgroups)
+[cgroups - Wikiwand](https://omni.wikiwand.com/en/Cgroups)
 [cgroups(7) - Linux manual page](https://man7.org/linux/man-pages/man7/cgroups.7.html)
 
 [https://www.kernel.org/doc/Documentation/cgroup-v1/cgroups.txt](https://www.kernel.org/doc/Documentation/cgroup-v1/cgroups.txt)

@@ -2,7 +2,7 @@
 title: Linux Package Managers
 description: ""
 created: 2017-05-10
-updated: 2023-11-13
+updated: 2024-09-23
 tags:
   - desktop
   - linux
@@ -11,7 +11,7 @@ tags:
 
 Cross platform Linux package manager
 
-[List of software package management systems - Wikiwand](https://www.wikiwand.com/en/List_of_software_package_management_systems)
+[List of software package management systems - Wikiwand](https://omni.wikiwand.com/en/List_of_software_package_management_systems)
 [So you want to write a package manager | by sam boyer | Medium](https://medium.com/@sdboyer/so-you-want-to-write-a-package-manager-4ae9c17d9527)
 
 [asdf - An extendable version manager](https://asdf-vm.com/#/)
@@ -49,8 +49,8 @@ apt (Debian)
 yum (RHEL, Fedora <22, CentOS)
 dnf (Fedora 22+)
 
-[Category:Linux package management-related software - Wikiwand](https://www.wikiwand.com/en/Category:Linux_package_management-related_software)
-[Category:Free package management systems - Wikiwand](https://www.wikiwand.com/en/Category:Free_package_management_systems)
+[Category:Linux package management-related software - Wikiwand](https://omni.wikiwand.com/en/Category:Linux_package_management-related_software)
+[Category:Free package management systems - Wikiwand](https://omni.wikiwand.com/en/Category:Free_package_management_systems)
 
 ## Snap
 
@@ -133,6 +133,7 @@ flatpak update
 
 [AppImage | Linux apps that run anywhere](http://appimage.org/)
 App as executable image without the need to install.
+[index.html – AppImages](https://appimage.github.io/)
 
 [AppImages · AppImage/AppImageKit Wiki](https://github.com/AppImage/AppImageKit/wiki/AppImages) catalog and their source
 [Dashboard [Jenkins]](http://aci.pangea.pub/) catalog, [source](https://github.com/appimage-packages)
@@ -141,6 +142,10 @@ App as executable image without the need to install.
 [AppImages/recipes at master · AppImage/AppImages](https://github.com/AppImage/AppImages/tree/master/recipes)
 
 [probonopd/linuxdeployqt: Makes Linux applications self-contained by copying in the libraries and plugins that the application uses, and optionally generates an AppImage. Can be used for Qt and other applications](https://github.com/probonopd/linuxdeployqt)
+
+[AppImage Community](https://github.com/AppImageCommunity)
+[AppImageCommunity/awesome-appimage: Lovingly crafted AppImage tools and resources](https://github.com/AppImageCommunity/awesome-appimage)
+[AppImageCommunity/pkg2appimage: Tool and recipes to convert existing deb packages to AppImage](https://github.com/AppImageCommunity/pkg2appimage/tree/master)
 
 [PKGBUILD - aur.git - AUR Package Repositories](https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=simplest-file-renamer-bin) extract app image
 
@@ -158,23 +163,29 @@ OSTree is git for bootable filesystem trees.
 
 [Welcome to nix.dev](https://nix.dev/) An opinionated guide for developers getting things done using the Nix ecosystem.
 
-[NixOS - Nix Pills](https://nixos.org/guides/nix-pills/index.html)
 [NixOS - Nix manual](https://nixos.org/manual/nix/stable/)
-[The Nix Packages collection](https://nixos.org/nixpkgs/)
-[tweag/trustix: Trustix: Distributed trust and reproducibility tracking for binary caches](https://github.com/tweag/trustix)
+[Nixpkgs Reference Manual](https://nixos.org/manual/nixpkgs/stable/)
 
 [Nix: The Purely Functional Package Manager](https://nixos.org/nix/)
 [I was WRONG! This is the BEST Package Manager. - YouTube](https://www.youtube.com/watch?v=Ty8C2B910EI)
 [Nix Package Manager](https://christitus.com/nix-package-manager/)
 
+[The Nix Packages collection](https://nixos.org/nixpkgs/)
+[Noogle - Simply find Nix API reference documentation.](https://noogle.dev/)
 [nmattia/niv: Easy dependency management for Nix projects](https://github.com/nmattia/niv)
+[tweag/trustix: Trustix: Distributed trust and reproducibility tracking for binary caches](https://github.com/tweag/trustix)
+
+[First look at Nix package manager - YouTube](https://www.youtube.com/watch?v=sqzOPPWUc5)
+["Learning Nix pkg mgr: Revolutionize Your Software Manager Game!" - [ 3 easy tips ] - YouTube](https://www.youtube.com/watch?v=qob19j2gWh4)
 
 [So, tell me about Nix | Mattia Gheda](https://ghedam.at/15490/so-tell-me-about-nix)
 [Quality of Life Scripts - NixOS Discourse](https://discourse.nixos.org/t/quality-of-life-scripts/2673)
 [justinwoo/nix-shorts: A collection of short notes about Nix, down to what is immediately needed for users.](https://github.com/justinwoo/nix-shorts)
 
+[NixOS - Nix Pills](https://nixos.org/guides/nix-pills/index.html)
 [nix-community/home-manager: Manage a user environment using Nix [maintainer=@rycee]](https://github.com/nix-community/home-manager)
 [Tutorial: Getting started with Home Manager for Nix | Mattia Gheda](https://ghedam.at/24353/tutorial-getting-started-with-home-manager-for-nix)
+[sioodmy/dotfiles: Beautiful catppuccin themed NixOS configuration, with built in impermanence, full disk encryption and many more!](https://github.com/sioodmy/dotfiles)
 
 [Nix on Microsoft Windows 10 | Nathan Bijnens](https://nathan.gs/2019/04/12/nix-on-windows/)
 [Brand New Package » Linux Magazine](https://www.linux-magazine.com/Issues/2021/248/Nix-and-NixOS)
@@ -187,6 +198,7 @@ OSTree is git for bootable filesystem trees.
 
 > replaces Channels, uses lockfile
 
+[Flakes - NixOS Wiki](https://nixos.wiki/wiki/Flakes)
 [NixOS 40: Converting an Existing NixOS Configuration To Flakes - YouTube](https://www.youtube.com/watch?v=Hox4wByw5pY)
 [You Should Use Flakes Right Away in NixOS! - YouTube](https://www.youtube.com/watch?v=ACybVzRvDhs)
 

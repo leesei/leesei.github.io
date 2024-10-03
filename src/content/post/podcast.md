@@ -2,7 +2,7 @@
 title: Podcast
 description: ""
 created: 2015-08-28
-updated: 2023-09-29
+updated: 2024-02-19
 tags:
   - podcast
   - trivia
@@ -76,6 +76,7 @@ I need an app that can:
 [Software Engineering Radio](http://www.se-radio.net/)
 [New Rustacean](http://www.newrustacean.com/show_notes/index.html)
 [FLOSS Weekly](https://twit.tv/floss)
+[FLOSS Weekly | Hackaday](https://hackaday.com/tag/floss-weekly/) Moved 2023-01
 [The Changelog - Open source moves fast. Keep up.](https://changelog.com/)
 [The No Fluff Just Stuff Podcast with Michael Carducci - No Fluff Just Stuff](https://nofluffjuststuff.com/podcast)
 [Command Line Heroes](https://www.redhat.com/en/command-line-heroes)

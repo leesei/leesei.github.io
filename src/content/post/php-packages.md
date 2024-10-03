@@ -2,7 +2,7 @@
 title: PHP Packages
 description: ""
 created: 2023-03-27
-updated: 2023-09-29
+updated: 2024-09-28
 tags:
   - comp/lang
   - php
@@ -37,17 +37,6 @@ tags:
 [Category Archive "ReactPHP Series" — Cees-Jan Kiewiet's blog](https://blog.wyrihaximus.net/categories/reactphp-series/)
 [FLOSS Weekly 486 ReactPHP](https://twit.tv/shows/floss-weekly/episodes/486)
 
-## Scraping
-
-[PHP: DOMDocument::loadHTML - Manual](https://www.php.net/manual/en/domdocument.loadhtml.php)
-[How to Parse HTML using PHP Native Classes](https://codingreflections.com/php-parse-html/)
-
-[PHP Scraper - An opinionated web-scraping library for PHP](https://phpscraper.de/)
-
-[paquettg/php-html-parser: An HTML DOM parser. It allows you to manipulate HTML. Find tags on an HTML page with selectors just like jQuery.](https://github.com/paquettg/php-html-parser)
-
-[PHP Simple HTML DOM Parser](https://simplehtmldom.sourceforge.io/)
-
 ## Datetime
 
 [Chronos - 2.x](https://book.cakephp.org/chronos/2/en/index.html) immutable date
@@ -78,7 +67,7 @@ tags:
 ## Laravel
 
 [Laravel - The PHP Framework For Web Artisans](https://laravel.com/)
-[Laravel - Wikiwand](https://www.wikiwand.com/en/Laravel)
+[Laravel - Wikiwand](https://omni.wikiwand.com/en/Laravel)
 
 [Laracasts](https://laracasts.com/)
 [Installation - Laravel - The PHP Framework For Web Artisans](https://laravel.com/docs/)

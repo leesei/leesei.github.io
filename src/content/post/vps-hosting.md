@@ -2,7 +2,7 @@
 title: VPS Hosting
 description: ""
 created: 2015-07-26
-updated: 2023-09-29
+updated: 2024-08-03
 tags:
   - digital-ocean
   - hostinger
@@ -56,6 +56,19 @@ SG
 ## Hostinger
 
 [Hostinger Pricing - Check Our Prices and Create Your Website](https://www.hostinger.com/pricing)
+
+## Evoxt
+
+> Hong Kong server
+
+[Evoxt - High CPU Frequency Virtual Machines at Low Prices](https://evoxt.com/)
+[Pricing - Evoxt | Reliable Cloud Virtual Machines that Developer Chooses](https://evoxt.com/pricing/)
+
+## GreenCloud
+
+> Hong Kong server
+
+[GreenCloud - Affordable KVM and Windows VPS](https://greencloudvps.com/)
 
 ## Hetzner
 

@@ -2,7 +2,7 @@
 title: Google Apps Script
 description: ""
 created: 2021-02-27
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - gas
   - google

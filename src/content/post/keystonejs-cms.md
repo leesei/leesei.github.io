@@ -2,7 +2,7 @@
 title: KeystoneJS
 description: ""
 created: 2023-05-15
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - cms
   - typescript

@@ -2,7 +2,7 @@
 title: OpenShift
 description: ""
 created: 2014-12-11
-updated: 2023-09-29
+updated: 2024-03-05
 tags:
   - container
   - dev/deploy
@@ -46,11 +46,9 @@ OpenShift 3 [adopts Kubernetes and Docker](https://blog.openshift.com/red-hat-ch
 
 ## OpenStack
 
-[Home » OpenStack Open Source Cloud Computing Software](https://www.openstack.org/)
+[OpenStack Open Source Cloud Computing Software](https://www.openstack.org/)
+[OpenStack Wiki](https://wiki.openstack.org/wiki/Main_Page)
 [Course | Introduction to OpenStack | edX](https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS152x+1T2018/home)
-[What is OpenStack? Part.1](https://turbonomic.com/blog/on-technology/openstack-pt-1/)
-[What is OpenStack? Part.2](https://turbonomic.com/blog/on-technology/openstack-pt-2/)
-[OpenStack: 4 Years, 10 Releases, and 1 Revolution](https://turbonomic.com/blog/on-technology/openstack-4-years-10-releases-1-revolution/)
 
 [OpenStack Stein - OpenStack is open source software for creating private and public clouds.](https://www.openstack.org/software/stein/)
 [OpenStack Stein: A new cool drink of open-source cloud | ZDNet](https://www.zdnet.com/article/openstack-stein-a-new-cool-drink-of-open-source-cloud/#ftag=CAD-00-10aag7e)

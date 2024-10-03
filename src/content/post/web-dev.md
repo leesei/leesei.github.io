@@ -2,7 +2,7 @@
 title: Web Development
 description: ""
 created: 2015-11-19
-updated: 2023-10-28
+updated: 2024-10-03
 tags:
   - css
   - javascript
@@ -43,7 +43,6 @@ tags:
 [Web Fundamentals — Google Developers](https://developers.google.com/web/fundamentals/)
 [The Coding Bootcamp Primer](https://scrimba.com/g/gbootcampprimer)
 [HTML5 Doctor, helping you implement HTML5 today](http://html5doctor.com/)
-[HTML5 Rocks - A resource for open web HTML5 developers](http://www.html5rocks.com/en/) not much maintained
 [20+ Docs and Guides for Front-end Developers (No. 10)](https://www.sitepoint.com/20-docs-guides-front-end-developers-10/)
 [A Recap of Frontend Development in 2018 – Levelup Your Coding](https://levelup.gitconnected.com/a-recap-of-frontend-development-in-2018-715724c9441d)
 [Learn Web Development](http://killer-web-development.com/)
@@ -72,6 +71,8 @@ tags:
 [The Problem with Native JavaScript APIs - O'Reilly Media](http://www.oreilly.com/programming/free/native-javascript-apis.csp)
 
 [zachleat.com](https://www.zachleat.com/)
+
+[Jack Herrington - YouTube](https://www.youtube.com/@jherr)
 
 [Web Dev Simplified Blog](https://blog.webdevsimplified.com/) pure HTML/CSS tricks
 [Web Dev Simplified - YouTube](https://www.youtube.com/@WebDevSimplified)
@@ -186,6 +187,8 @@ Encodes the whole micro-webpage in hashtag.
 
 ## Server Side Rendering (SSR)
 
+[[reactjs#React Server Component]]
+
 [Server Side Rendering - Loadable Components](https://loadable-components.com/docs/server-side-rendering/)
 [Server Rendering in JavaScript Series' Articles - DEV Community](https://dev.to/ryansolid/series/13734)
 
@@ -197,7 +200,9 @@ Encodes the whole micro-webpage in hashtag.
 If the site is rendered ahead of time at build, it is known as "Static Site Generation"/"Server Side Generated" (SSG).
 ["Static Optimization"](https://nextjs.org/docs/advanced-features/automatic-static-optimization) in Next.js is SSG.
 
+[Rendering on the Web  |  Articles  |  web.dev](https://web.dev/articles/rendering-on-the-web)
 [10 Rendering Patterns for Web Apps - YouTube](https://www.youtube.com/watch?v=Dkx5ydvtpCA)
+[WTF Do These Even Mean - YouTube](https://www.youtube.com/watch?v=p02AIAoImzU) CSR, SSR, SSG, ISR
 [Do you REALLY need SSR? - YouTube](https://www.youtube.com/watch?v=kUs-fH1k-aM)
 [How modern web apps are rendered - YouTube](https://www.youtube.com/watch?v%3DcLivMMSeFgE)
 
@@ -211,8 +216,6 @@ If the site is rendered ahead of time at build, it is known as "Static Site Gene
 [What’s New With Server-Side Rendering in React 16 – Hacker Noon](https://hackernoon.com/whats-new-with-server-side-rendering-in-react-16-9b0d78585d67)
 [An Introduction to React Server-Side Rendering ← Alligator.io](https://alligator.io/react/server-side-rendering/)
 [Server Rendering in JavaScript: Optimizing Performance - DEV Community](https://dev.to/ryansolid/server-rendering-in-javascript-optimizing-performance-1jnk)
-
-[StrongLoop | How to Implement Node + React Isomorphic JavaScript & Why it Matters](https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters/)
 
 ## Progressive Web Apps (PWA)
 
@@ -324,7 +327,8 @@ If the site is rendered ahead of time at build, it is known as "Static Site Gene
 srcset
 size, handled by pre-parser
 Media, type attribute takes precedence
-{% asset_img srcset.jpg %}
+
+[![](./_assets/web-dev/srcset.jpg)](./_assets/web-dev/srcset.jpg)
 
 `<img>`, `srcset`, `size`, `picture`, `<media>`
 
@@ -336,7 +340,7 @@ In SPA, scroll position is loss upon back
 
 [History.scrollRestoration - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/History/scrollRestoration)
 
-https://html.spec.whatwg.org/multipage/browsing-the-web.html#scroll-restoration-mode
+[HTML Standard - scroll restoration mode](https://html.spec.whatwg.org/multipage/browsing-the-web.html#scroll-restoration-mode)
 
 [janpaul123/delayed-scroll-restoration-polyfill: Polyfill that mimics Chrome's scroll restoration behavior.](https://github.com/janpaul123/delayed-scroll-restoration-polyfill)
 
@@ -403,6 +407,17 @@ https://html.spec.whatwg.org/multipage/browsing-the-web.html#scroll-restoration-
 ## Web Components
 
 [[web-components]]
+
+## WebHID
+
+[WebHID API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebHID_API)
+[webhid/EXPLAINER.md at main · WICG/webhid](https://github.com/WICG/webhid/blob/main/EXPLAINER.md)
+[robatwilliams/awesome-webhid: Curated list of resources relating to the WebHID (Human Interface Device) API](https://github.com/robatwilliams/awesome-webhid)
+
+[HID Explorer](https://nondebug.github.io/webhid-explorer/)
+[Connecting to uncommon HID devices  |  Capabilities  |  Chrome for Developers](https://developer.chrome.com/docs/capabilities/hid)
+
+[usb - WebHID: no compatible device found, but device shows up in Chrome device log? - Stack Overflow](https://stackoverflow.com/questions/71889324/webhid-no-compatible-device-found-but-device-shows-up-in-chrome-device-log) browser may block certain devices
 
 ## Web Speech
 
@@ -472,6 +487,8 @@ https://html.spec.whatwg.org/multipage/browsing-the-web.html#scroll-restoration-
 
 ## HTML
 
+> HTML5 was spec'ed in 2008
+
 [The WHATWG Blog](https://blog.whatwg.org/)
 
 [HTML (HyperText Markup Language) | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -481,6 +498,9 @@ https://html.spec.whatwg.org/multipage/browsing-the-web.html#scroll-restoration-
 [HTML Vocabulary](http://apps.workflower.fi/vocabs/html/en)
 [HTML5 Beginner's Guide - Tutorial by WebsiteSetup.org](http://websitesetup.org/html5-beginners-guide/)
 [Twenty Five Seconds. That’s All It Took Before The “HTML5 Element Flowchart” Was My Best Friend. — May The Code Be With Me — Medium](https://medium.com/may-the-code-be-with-me/twenty-five-seconds-thats-all-it-took-before-the-html5-element-flowchart-was-my-best-friend-fe109e223e0a#.3akdhgq9m)
+
+[The case against self-closing tags in HTML - JakeArchibald.com](https://jakearchibald.com/2023/against-self-closing-tags-in-html/) history of HTML development
+[DO NOT USE HTML Self Closing Tags | Prime Reacts - YouTube](https://www.youtube.com/watch?v=jISSlNmrvW8)
 
 [joshbuchea/HEAD: A list of everything that could go in the <head> of your document](https://github.com/joshbuchea/HEAD)
 [Can I include a tag to a tag? Based on HTML Spec WHATWG](https://caninclude.glitch.me/)
@@ -599,7 +619,9 @@ convert -resize x60  input.png apple-touch-icon-60x60.png
 [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/)
 [Can I email… Support tables for HTML and CSS in emails](https://www.caniemail.com/)
 
-[Polyfill service](https://polyfill.io/)
+~~[Polyfill service](https://polyfill.io/)~~ This service has gone rouge
+[Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
+[Automatically replacing polyfill.io links with Cloudflare’s mirror for a safer Internet](https://blog.cloudflare.com/automatically-replacing-polyfill-io-links-with-cloudflares-mirror-for-a-safer-internet)
 
 [Implementing feature detection - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Feature_detection)
 
@@ -620,7 +642,7 @@ convert -resize x60  input.png apple-touch-icon-60x60.png
 
 ## Node
 
-[[nodejs-notes]]
+[[nodejs-runtime]]
 
 ## Browser
 
@@ -661,6 +683,8 @@ convert -resize x60  input.png apple-touch-icon-60x60.png
 [How to Build a Multi-Tenant App with Custom Domains Using Next.js – Vercel Docs](https://vercel.com/guides/nextjs-multi-tenant-application)
 [vercel/platforms: A template for site builders and low-code tools.](https://github.com/vercel/platforms)
 
+[Taipy Website](https://www.taipy.io/)
+
 ## LiveReload
 
 [LiveReload](http://livereload.com/)
@@ -694,15 +718,26 @@ convert -resize x60  input.png apple-touch-icon-60x60.png
 
 ### htmx
 
+> [[go-lang#templ]] is a great fit with HTMX
+
 [</> htmx - high power tools for html](https://htmx.org/)
+[Hypermedia Systems](https://hypermedia.systems/)
+
 [Htmx: HTML Approach to Interactivity in a JavaScript World – The New Stack](https://thenewstack.io/htmx-html-approach-to-interactivity-in-a-javascript-world/)
+[Intro to HTMX: Dynamic HTML without JavaScript | InfoWorld](https://www.infoworld.com/article/3706951/htmx-dynamic-html-without-the-javascript.html)
+
+[htmgo.dev](https://htmgo.dev/) build simple and scalable systems with go + htmx
+[leomorpho/goship: Opinionated Go/HTMX boilerplate with payments, emails, auth, notifications and more!⛵️](https://github.com/leomorpho/GoShip)
+
+[FULL Introduction To HTMX Using Golang - YouTube](https://www.youtube.com/watch?v=x7v6SNIgJpE) ❗!important
+[ThePrimeagen/fem-htmx-proj](https://github.com/ThePrimeagen/fem-htmx-proj)
 
 [Todo App using: Go Postgres HTMx TailwindCSS | This is the way - YouTube](https://www.youtube.com/watch?v=TlrFH-oPyLo)
-[Go TEMPL + HTMX | Brief look - YouTube](https://www.youtube.com/watch?v=PKbAjeMgMjw)
 
 [HTMX is awesome and here's why - YouTube](https://www.youtube.com/watch?v=kPP_TQFPfU8)
 [Golang + HTMX - Creating a Go webserver / HTMX Integration / Template Fragments - YouTube](https://www.youtube.com/watch?v=F9H6vYelYyU)
 [HTM - YouTube](https://www.youtube.com/playlist?list=PLWHKQJvswTpIEKtyeaARPER3u0XwtOAUq)
+[HTMX Crash Course | Dynamic Pages Without Writing Any JavaScript - YouTube](https://www.youtube.com/watch?v=0UvA7zvwsmg) 56:46
 
 [NO BUILD SYSTEM FOR HTMX???? | Prime Reacts - YouTube](https://www.youtube.com/watch?v=RuoUa-uGVnU)
 
@@ -712,10 +747,15 @@ convert -resize x60  input.png apple-touch-icon-60x60.png
 ThPrimeTime
 [From React To HTMX - YouTube](https://www.youtube.com/watch?v=wIzwyyHolRs)
 [HTMX IS INSECURE (XSS) | Prime News - YouTube](https://www.youtube.com/watch?v=j5LPDuFRDP0)
+[</> htmx ~ htmx sucks](https://htmx.org/essays/htmx-sucks/)
+[HTMX Sucks - YouTube](https://www.youtube.com/watch?v=4gwOv2-A8Vo)
 
 ### Hotwire/Stimulus
 
 [HTML Over The Wire | Hotwire](https://hotwired.dev/)
+[HTML over the wire - Signal v. Noise](https://signalvnoise.com/svn3/html-over-the-wire/)
+[JavaScript Framework Unpoly and the HTML Over-the-Wire Trend - The New Stack](https://thenewstack.io/javascript-framework-unpoly-and-the-html-over-the-wire-trend/)
+
 [Stimulus: A modest JavaScript framework for the HTML you already have.](https://stimulusjs.org/)
 
 ### Unpoly

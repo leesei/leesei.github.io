@@ -2,7 +2,7 @@
 title: Fastify
 description: ""
 created: 2021-12-29
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - backend
   - fastify

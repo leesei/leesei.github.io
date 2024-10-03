@@ -2,7 +2,7 @@
 title: Gene Science
 description: ""
 created: 2017-12-05
-updated: 2023-10-21
+updated: 2024-08-14
 tags:
   - biology
 ---
@@ -23,8 +23,8 @@ Epigenetic link: the environment the organism lives affect the expression of it'
 
 ## Gene Editing/Genetic engineering
 
-[CRISPR - Wikiwand](https://www.wikiwand.com/en/CRISPR)
-[Indel - Wikiwand](https://www.wikiwand.com/en/Indel)
+[CRISPR - Wikiwand](https://omni.wikiwand.com/en/CRISPR)
+[Indel - Wikiwand](https://omni.wikiwand.com/en/Indel)
 
 [【2020 諾貝爾化學獎】基因剪刀 CRISPR：它如何改寫人類的生命密碼？ - PanSci 泛科學](https://pansci.asia/archives/335248)
 [Genetic Engineering and Diseases – Gene Drive & Malaria - YouTube](https://www.youtube.com/watch?v=TnzcwTyr6cE)
@@ -34,6 +34,7 @@ Epigenetic link: the environment the organism lives affect the expression of it'
 [What is CRISPR? - YouTube](https://www.youtube.com/watch?v=MnYppmstxIs)
 [CRISPR-Cas9 Genome Editing Technology - YouTube](https://www.youtube.com/watch?v=IiPL5HgPehs)
 [But what is CRISPR-Cas9? An animated introduction to Gene Editing. #some2 - YouTube](https://www.youtube.com/watch?v=ANehpGhbuF4)
+[The First CRISPR Gene Therapy Is Here - YouTube](https://www.youtube.com/watch?v=uHWD8RSw4As)
 
 [CRISPR-Cas9打造「完美作物」？超嚴格日本也放寬！臺灣如何規範基因編輯作物？ - YouTube](https://www.youtube.com/watch?v=FW2QOWDlKzA)
 [新冠疫苗中“mRNA 疫苗”是怎么回事？“基因编辑”彻底改造人类，无法阻止未来的降临！ - YouTube](https://www.youtube.com/watch?v=lQyjO2KFetY)
@@ -69,11 +70,11 @@ Epigenetic link: the environment the organism lives affect the expression of it'
 
 Sex is the body, gender is the mind
 [Sex and gender](https://www.coe.int/en/web/gender-matters/sex-and-gender)
-[Sex and gender distinction - Wikiwand](https://www.wikiwand.com/en/Sex_and_gender_distinction)
+[Sex and gender distinction - Wikiwand](https://omni.wikiwand.com/en/Sex_and_gender_distinction)
 
-[DMRT1 - Wikiwand](https://www.wikiwand.com/en/DMRT1) if DMRT1 is lost, sperm turns into eggs
+[DMRT1 - Wikiwand](https://omni.wikiwand.com/en/DMRT1) if DMRT1 is lost, sperm turns into eggs
 [DMRT1 gene - Genetics Home Reference - NIH](https://ghr.nlm.nih.gov/gene/DMRT1)
-[Testis-determining factor - Wikiwand](https://www.wikiwand.com/en/Testis-determining_factor) Sry gene
+[Testis-determining factor - Wikiwand](https://omni.wikiwand.com/en/Testis-determining_factor) Sry gene
 [SRY gene - Genetics Home Reference - NIH](https://ghr.nlm.nih.gov/gene/SRY)
 
 [Sex determination and maintenance: the role of DMRT1 and FOXL2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5676419/)

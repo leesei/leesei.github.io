@@ -2,7 +2,7 @@
 title: Git server
 description: ""
 created: 2016-03-04
-updated: 2023-09-29
+updated: 2024-07-31
 tags:
   - app
   - git
@@ -64,7 +64,7 @@ read-only unauthenticated (public) access
 
 ## gitosis
 
-[tv42/gitosis](https://github.com/tv42/gitosis) no update since 2007
+[tv42/gitosis](https://github.com/tv42/gitosis) 😴inactive
 [Mivok.net - Gitosis - manage git repositories sanely](http://mivok.net/2010/03/05/gitosis.html)
 [Setting Up a Git Server Using Gitosis - SysTutorials](https://www.systutorials.com/setting-up-git-server-using-gitosis/)
 
@@ -84,7 +84,9 @@ You can even edit it to override the access control.
 
 ## Gitolite
 
-[gitolite](http://gitolite.com/gitolite/index.html) replace gitosis, written in Perl
+[gitolite](http://gitolite.com/gitolite/index.html) replaces gitosis, written in Perl
+[sitaramc/gitolite: Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.](https://github.com/sitaramc/gitolite)
+
 [ssh - How do programs like gitolite work? - Stack Overflow](http://stackoverflow.com/questions/13318715/how-do-programs-like-gitolite-work/)
 [Internal Git server with Gitolite](https://sysadmincasts.com/episodes/11-internal-git-server-with-gitolite)
 [How to Set Up A Gitolite Git Server - A Ten-Minute Tutorial - SysTutorials](https://www.systutorials.com/how-to-set-up-gitolite-git-server-a-ten-minute-tutorial/)
@@ -93,8 +95,7 @@ You can even edit it to override the access control.
 
 [GitLab](https://about.gitlab.com/) GitHub clone, bought [gitorious](https://gitorious.org/)
 
-[GitLab Documentation](http://doc.gitlab.com/ce/)
-[GitLab CI](http://doc.gitlab.com/ce/ci/quick_start/README.html) integrated to GitLab
+[GitLab Documentation](https://docs.gitlab.com/)
 
 The Omnibus package (by Chef) simplifies the setup of GitLab ALOT
 [Download GitLab Community Edition (CE) | GitLab](https://about.gitlab.com/downloads/)

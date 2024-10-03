@@ -2,13 +2,13 @@
 title: systemd
 description: ""
 created: 2017-01-05
-updated: 2023-10-31
+updated: 2024-08-28
 tags:
   - desktop
   - linux
 ---
 
-[systemd - Wikiwand](http://www.wikiwand.com/en/Systemd)
+[systemd - Wikiwand](http://omni.wikiwand.com/en/Systemd)
 [systemd - freedesktop.org](http://www.freedesktop.org/wiki/Software/systemd/)
 [systemd - ArchWiki](https://wiki.archlinux.org/title/systemd)
 [systemd - Debian Wiki](https://wiki.debian.org/systemd)
@@ -20,9 +20,13 @@ tags:
 [EWONTFIX - Broken by design: systemd](http://ewontfix.com/14/)
 
 [Meet systemd, the controversial project taking over a Linux distro near you | PCWorld](http://www.pcworld.com/article/2841873/meet-systemd-the-controversial-project-taking-over-a-linux-distro-near-you.html)
+[Understanding Systemd Units and Unit Files | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-systemd-units-and-unit-files)
 [How To Use Systemctl to Manage Systemd Services and Units | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units)
 [Systemd Essentials: Working with Services, Units, and the Journal | DigitalOcean](https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal)
 [media.ccc.de - systemd in 2018](https://media.ccc.de/v/ASG2018-230-systemd_in_2018/oembed)
+[Understanding systemd. Introduction | by Emmanuel Bashorun | Medium](https://emmanuelbashorun.medium.com/understanding-systemd-ad06aeca4fd0)
+
+[前后台进程、孤儿进程和daemon类进程的父子关系 - Systemd系列文章](https://systemd-book.junmajinlong.com/)
 
 [Archlinux, systemd-free](http://systemd-free.org/)
 
@@ -36,6 +40,7 @@ System services are written in unit files, located in:
 
 - `/lib/systemd/system` (system, installed by package manager, read only)
 - `/usr/lib/systemd/system/` (system, installed by package manager, read only)
+- `/usr/lib/systemd/user/`
 - `/etc/systemd/system/` (custom, overrides `/usr`)
 - `/run/systemd/system/` (temporary)
 
@@ -44,6 +49,8 @@ Drop-in unit file:
 `systemctl edit --full <service.unit>`
 
 This is what `systemctl enable teamviewerd` does:
+
+[Creating User’s Services With systemd | Baeldung on Linux](https://www.baeldung.com/linux/systemd-create-user-services)
 
 ```sh
 ln -s '/usr/lib/systemd/system/teamviewerd.service' '/etc/systemd/system/multi-user.target.wants/teamviewerd.service'
@@ -148,13 +155,13 @@ systemd-nspawn -D /var/lib/machines/<container name>
 
 [systemctl command man page - systemd | ManKier](https://www.mankier.com/1/systemctl)
 
-`systemctl` - List active services in system
+`systemctl` - List active services in system.
 
 `systemctl --all` - List all services in system
 
-`systemctl start SERVICE.service` - Use it to start a service. Does not persist after reboot
+`systemctl start SERVICE.service` - Use it to start a service. Does not persist after reboot.
 
-`systemctl stop SERVICE.service` - Use it to stop a service. Does not persist after reboot
+`systemctl stop SERVICE.service` - Use it to stop a service. Does not persist after reboot.
 
 `systemctl restart SERVICE.service` - Use it to restart a service
 
@@ -180,7 +187,7 @@ systemd-nspawn -D /var/lib/machines/<container name>
 
 `systemd-ui`
 
-[systemd-analyze command man page - systemd | ManKier](https://www.mankier.com/1/systemd-analyze) analyse boot time
+[systemd-analyze command man page - systemd | ManKier](https://www.mankier.com/1/systemd-analyze) analyze boot time
 
 ```sh
 systemd-analyze blame | head -5
@@ -226,6 +233,8 @@ systemd specific locale and timezone:
 [Displaying Linux Log files with journalctl](http://landoflinux.com/linux_journalctl_examples.html)
 [Using journalctl -The Ultimate Guide to Logging](https://www.loggly.com/ultimate-guide/using-journalctl/)
 [How To Use Journalctl to View and Manipulate Systemd Logs | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs)
+
+[Setting journalctl limits - Andreas Karis Blog](https://andreaskaris.github.io/blog/linux/setting-journalctl-limits/)
 
 ```sh
 # clean logs

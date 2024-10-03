@@ -7,12 +7,14 @@ title: "Behind the Curtain"
 
 - TypeScript
 - [Astro](https://astro.build/)
-- [AstroPaper](https://github.com/satnaing/astro-paper)
+- [AstroPaper](https://astro-paper.pages.dev/)
 
   - @astrojs/react
   - @astrojs/tailwind
   - fuzzy search with [Fuse.js](https://fusejs.io/)
-  - ...
+  - [Tag: release | AstroPaper](https://astro-paper.pages.dev/tags/release/)
+
+- ...
 
 ## Posts Migration
 
@@ -77,7 +79,7 @@ Then I tried the low level [vfile](https://unifiedjs.com/explore/package/vfile/)
 [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) fits my purpose at first glance, but it has a full load of other issues.
 Finally I moved back to [vfile](https://unifiedjs.com/explore/package/vfile/) and used [yaml](https://eemeli.org/yaml/) for file output.
 
-## Customizing AstroPaper
+## Customizing AstroPaper v2
 
 Due credits must be given to Astro and AstroPaper.
 Astro make a great static site generator with:
@@ -105,6 +107,7 @@ AstroPaper adopted many best practices. While I do not agree with some of its de
       convert `<Tag/>` from `.astro` to `.tsx`
 - [x] use `post.slug` (filename) as `/post/{slug}`
       search also with `post.slug` (filename)
+      _slug defualts to filename in AstroPaper v4_
 - [x] layout tuning
       increase max width to `max-w-6xl`
       tune `<Header/>`'s nav (menubar) to `justify-end`
@@ -135,6 +138,7 @@ I gradually added these features:
       Need to manually specify `/index` upon import, see [here](https://github.com/react-icons/react-icons/issues/509#issuecomment-1470087348)
 - [x] render `updated` date
       Post lists sort by `updated || created`
+      _added in AstroPaper v4_
 - [x] sort out post assets in Foam and Astro
       `_assets` in `post/` for Foam's preview
       with `_` prefix so Astro will ignore it

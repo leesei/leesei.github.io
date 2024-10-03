@@ -2,7 +2,7 @@
 title: Computer Fundamentals
 description: ""
 created: 2023-04-14
-updated: 2023-11-02
+updated: 2024-10-03
 tags:
   - comp/fundamental
   - comp/hardware
@@ -50,10 +50,18 @@ Computerphile
 [GeekLogic / 极客逻辑 - YouTube](https://www.youtube.com/@geeklogic)
 [XMF-I Restoration: A Chinese Apple II Clone 35 Years Ago / 极限修复！35 年前清华大学研制点错科技树的中文电脑 - YouTube](https://www.youtube.com/watch?v=EGc8j9_w4FQ)
 
+[RetroBytes - YouTube](https://www.youtube.com/@RetroBytesUK)
 [Dave's Garage - YouTube](https://www.youtube.com/@DavesGarage) Microsoft Windows history
 
 [Linux Terminal and Console Explained For Beginners - LinuxBabe](https://www.linuxbabe.com/command-line/linux-terminal)
 [What is the Difference Between the Shell, Terminal, and Console in Linux | TatOG Explains - YouTube](https://www.youtube.com/watch?v=Z6_ja-c2pLc)
+
+## ALU
+
+[How do computers add numbers so quickly? - YouTube](https://www.youtube.com/watch?v=yj6wo5SCObY)
+
+- ripple carry adder
+- carry lookahead adder
 
 ## Turing Machines
 
@@ -75,6 +83,8 @@ Computerphile
 [[reverse-engineering#PE format]]
 
 [CppCon 2018: Matt Godbolt “The Bits Between the Bits: How We Get to main()” - YouTube](https://www.youtube.com/watch?v=dOfucXtyEsU) ELF
+
+[A General Overview of What Happens Before main() - Embedded Artistry](https://embeddedartistry.com/blog/2019/04/08/a-general-overview-of-what-happens-before-main/)
 
 [Chris's Wiki :: blog/linux/32BitProgramOn64BitSystem](https://utcc.utoronto.ca/~cks/space/blog/linux/32BitProgramOn64BitSystem)
 
@@ -114,7 +124,7 @@ Parallelism:
 - Concurrency is a _prerequisite_ (Parallelism implies Concurrency)
 - Concurrency is a _prerequisite_ (Parallelism implies Concurrency)
 
-[Embarrassingly parallel - Wikiwand](https://www.wikiwand.com/en/Embarrassingly_parallel)
+[Embarrassingly parallel - Wikiwand](https://omni.wikiwand.com/en/Embarrassingly_parallel)
 
 [Concurrency is not parallelism - The Go Blog](http://blog.golang.org/concurrency-is-not-parallelism)
 [The Way of the Gopher. Making the Switch from Node.js to… | by Alexandra Bueno | Digg Data | Medium](https://medium.com/digg-data/the-way-of-the-gopher-6693db15ae1f#.h4j5b62nh)
@@ -135,6 +145,7 @@ per thread ring buffer use by many
 
 [io_uring: So Fast. It's Scary. - YouTube](https://www.youtube.com/watch?v=F82Qdi5kyjw)
 
+[Concurrency Vs Parallelism! - YouTube](https://www.youtube.com/watch?v=RlM9AfWf1WU) ❗!important, concise explanation
 [Multitasking vs Multithreading vs Multiprocessing - YouTube](https://www.youtube.com/watch?v=Tn0u-IIBmtc)
 [Fork and Pthreads - A Guide To Get You Started with Multiprocessing - YouTube](https://www.youtube.com/watch?v=VCCCXTyJZzs)
 [Is it concurrent or parallel? - YouTube](https://www.youtube.com/watch?v=r2__Rw8vu1M)
@@ -167,6 +178,9 @@ per thread ring buffer use by many
 
 [What's a Memory Allocator Anyway? - Benjamin Feng - YouTube](https://www.youtube.com/watch?v=vHWiDx_l4V0)
 
+[WHY IS THE STACK SO FAST? - YouTube](https://www.youtube.com/watch?v=N3o5yHYLviQ)
+[WHY IS THE HEAP SO SLOW? - YouTube](https://www.youtube.com/watch?v=ioJkA7Mw2-U)
+
 [🚀 Demystifying memory management in modern programming languages | Technorage](https://deepu.tech/memory-management-in-programming/)
 [🚀 Visualizing memory management in Golang | Technorage](https://deepu.tech/memory-management-in-golang/)
 [🚀 Visualizing memory management in V8 Engine (JavaScript, NodeJS, Deno, WebAssembly) | Technorage](https://deepu.tech/memory-management-in-v8/)
@@ -175,13 +189,13 @@ per thread ring buffer use by many
 
 [[c-sharp#Garbage Collection]]
 [[go-lang#Garbage Collection]]
-[[nodejs-notes#Garbage Collection]]
+[[nodejs-runtime#Garbage Collection]]
 
 [Garbage Collection (Mark & Sweep) - Computerphile - YouTube](https://www.youtube.com/watch?v=c32zXYAK7CI)
 
 ## Endianness
 
-[Endianness - Wikiwand](https://www.wikiwand.com/en/Endianness)
+[Endianness - Wikiwand](https://omni.wikiwand.com/en/Endianness)
 [Number format - Microsoft MakeCode](https://makecode.microbit.org/types/buffer/number-format)
 
 '0xA0 0xB0' in memory could be:

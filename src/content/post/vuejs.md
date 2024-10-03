@@ -2,7 +2,7 @@
 title: Vue.js
 description: ""
 created: 2016-05-17
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - frontend
   - javascript

@@ -2,7 +2,7 @@
 title: Audio-visual Systems
 description: ""
 created: 2018-07-04
-updated: 2023-10-29
+updated: 2024-10-02
 tags:
   - audio-clip
   - clipart
@@ -53,12 +53,16 @@ R: Rhythm
 [采访翻车？5 个简单小技巧，教你拍出有电影质感的采访画面！ - YouTube](https://www.youtube.com/watch?v=QOUellEeOxc)
 [采访教程 2.0：多机位拍摄上手，10 分钟掌握高端采访技巧！ - YouTube](https://www.youtube.com/watch?v=VZb4km7J8ZU)
 
+[Why Does Attack of the Clones Look Like a Video Game? - YouTube](https://www.youtube.com/watch?v=I7Iuia5560Y) VFX
+
 [Gyroflow | Gyroflow](https://gyroflow.xyz/)
 [Welcome to Gyroflow - Gyroflow documentation](https://docs.gyroflow.xyz/app/)
 [gyroflow/gyroflow at news.itsfoss.com](https://github.com/gyroflow/gyroflow)
 [Gyroflow: An Open-Source App to Stabilize Video Footage](https://news.itsfoss.com/gyroflow/)
 
 [HandBrake: Open Source Video Transcoder](https://handbrake.fr/)
+
+[CapCut | All-in-one video editor & graphic design tool driven by AI](https://www.capcut.com/) desktop, mobile and online
 
 ### Adobe
 
@@ -129,6 +133,7 @@ YouTube Creator Studio -> YouTube Audio Library -> Sound Effects
 [EricArchive - YouTube](https://www.youtube.com/channel/UCS2v3pmmpwcD0PWPwf65Zmw) needs attribution, Kevin MacLeod
 [Discover New Music - Chosic](https://www.chosic.com/?ref=jiemr.com)
 [Free Music Archive](https://freemusicarchive.org/static)
+[Professional and affordable Royalty-Free Music for videos, YouTube, film and commercials • audiohub](https://audiohub.com/) needs attribution
 [Free sounds and samples in Ableton Live, powered by commons and community - CDM Create Digital Music](https://cdm.link/2020/08/free-sounds-and-samples-in-ableton-live/)
 [bossa nova results on SoundCloud](https://soundcloud.com/search/sounds?q=bossa%20nova&filter.license=to_use_commercially) Use "Track -> To use commercially" filter
 
@@ -198,6 +203,12 @@ Kevin MacLeod
 [搜图神器-一键搜索聚合，海量图片资源免费下载！](http://soutushenqi.com/)
 [以图搜图、以图搜视频所需插件和平台！ – 零度解说](https://www.freedidi.com/4430.html)
 
+[Create your own passport photo for free - IDPhoto4You](https://www.idphoto4you.com/)
+
+AICG
+[Vispunk Motion](https://vispunk.com/)
+[Stable Diffusion XL | NVIDIA NGC](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/ai-foundation/models/sdxl)
+
 [SVG Repo - Free SVG Vectors and Icons](https://www.svgrepo.com/) edit vector
 [Free Vectors, Stock Photos & PSD Downloads | Freepik](https://www.freepik.com/)
 [Free Vector Art & Graphics](https://www.freevector.com/)
@@ -209,6 +220,7 @@ Kevin MacLeod
 [Free Clip Art & Images - Millions of Royalty Free Images | Clker](http://www.clker.com/)
 [Free Transparent PNG Images, Unlimited Download - PNGkey](https://www.pngkey.com/)
 [illlustrations - open source illustrations kit](https://illlustrations.co/)
+[Download SVG Illustrations - Free & Premium in PNG, SVG](https://freesvgillustration.com/)
 [Free Vector Art, Images, & Graphics for Free Download](https://www.vector4free.com/) 👎
 
 [Icon Archive](http://www.iconarchive.com/)
@@ -311,13 +323,18 @@ document.querySelectorAll("meta[property='og:url']");
 ## Transcripts
 
 [raryelcostasouza/pyTranscriber: pyTranscriber can be used to generate automatic transcription / automatic subtitles for audio/video files through a friendly graphical user interface.](https://github.com/raryelcostasouza/pyTranscriber)
-[光速！為 YouTube 影片自動加上中文字幕 - YouTube](https://www.youtube.com/watch?v=2SzDs_wO0-M&feature=youtu.be)
+[免費SRT字幕產生器 pyTranscriber (Google語音引擎) 使用教學 Mac也可用 - YouTube](https://www.youtube.com/watch?v=V8BBVgVeY-A)
+[光速！為 YouTube 影片自動加上中文字幕 - YouTube](https://www.youtube.com/watch?v=2SzDs_wO0-M)
+
 [三款 AI 自動上字幕工具，對決台式繞口令！誰勝出？【六指淵 Huber】 - YouTube](https://www.youtube.com/watch?v=pXXdQAmXcf8)
 [How to Add Subtitles on YouTube Videos Fast & ACCURATE! - YouTube](https://www.youtube.com/watch?v=B2-ewHcWlak)
 [✍️ 语音转文字--最完美 AI 人工智能语音识别字幕生成软件(2022) - YouTube](https://www.youtube.com/watch?v=C_zMgxGp4uA) Premiere Pro, 剪映
+[不要再用 pyTranscriber 上字幕了，這有更香又免費的AI上字幕方案，不用嗎┃對不起“付費”字幕廠商，我們的上字幕解決方法太香，可能嚴重影響業績 - YouTube](https://www.youtube.com/watch?v=c5CfREUJEUk) 剪映
 [UP 主们都怎么做字幕？调研 100 位 UP，他们的秘密是... - YouTube](https://www.youtube.com/watch?v=08PFXFA8Rs8)
 
+[TurboScribe: Transcribe Audio and Video to Text or Subtitles in Seconds](https://turboscribe.ai/)
 [Amara – Award-winning Subtitle Editor and Enterprise Offerings](https://amara.org/en/)
+[Subanana | 最多香港用戶選用的 AI 字幕生成器](https://subanana.com/)
 
 [audapolis/audapolis: an editor for spoken-word audio with automatic transcription](https://github.com/audapolis/audapolis)
 
@@ -335,9 +352,9 @@ document.querySelectorAll("meta[property='og:url']");
 
 ## Subtitles
 
-[SubRip - Wikiwand](https://www.wikiwand.com/en/SubRip)
+[SubRip - Wikiwand](https://omni.wikiwand.com/en/SubRip)
 [SRT (SubRip Text) | Speechpad](https://www.speechpad.com/captions/srt)
-[WebVTT - Wikiwand](https://www.wikiwand.com/en/WebVTT)
+[WebVTT - Wikiwand](https://omni.wikiwand.com/en/WebVTT)
 [WebVTT (Web Video Text Tracks) | Speechpad](https://www.speechpad.com/captions/webvtt)
 [Subtitles](https://matroska.org/technical/subtitles.html)
 
@@ -352,9 +369,11 @@ document.querySelectorAll("meta[property='og:url']");
 [Subtitle Tools - Online Tools to Sync, Convert and Fix Subtitles](https://subtitletools.com/)
 
 [Subtitles - download movie and TV Series subtitles](https://www.opensubtitles.org/en/search/subs)
+[Subtitles](https://www.podnapisi.net/)
+[Addic7ed.com - The source of latest TV subtitles](https://www.addic7ed.com/)
+[TVsubtitles.net - Download latest TV Show and TV Series subtitles](https://www.tvsubtitles.net/)
 [字幕库(zimuku) -- 字幕下载网站](https://zmk.pw/)
 [分享交流下载字幕平台 - SubHD](https://subhd.tv/)
-[字幕下载网站 | A4k 字幕网](https://www.a4k.net/)
 [首页 - 射手网(伪) - assrt.net - 字幕下载，字幕组，中文字幕，美剧字幕，英剧字幕，双语字幕，新番字幕](https://assrt.net/)
 
 ## Digital Audio
@@ -364,7 +383,7 @@ document.querySelectorAll("meta[property='og:url']");
 
 [DolbyIO/awesome-audio: A curated list of awesome audio technology resources for developers](https://github.com/DolbyIO/awesome-audio)
 
-[Nyquist rate - Wikiwand](https://www.wikiwand.com/en/Nyquist%20Rate) a sampling frequency of 2F is needed to reproduce an waveform of frequency F
+[Nyquist rate - Wikiwand](https://omni.wikiwand.com/en/Nyquist%20Rate) a sampling frequency of 2F is needed to reproduce an waveform of frequency F
 [Nyquist - Signalling at the Nyquist Rate and the Foundation of the Sampling Theory - YouTube](https://www.youtube.com/watch?v=BT_mWQjO-bo)
 
 [Digital Audio Basics: Audio Sample Rate and Bit Depth](https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html)
@@ -396,7 +415,29 @@ document.querySelectorAll("meta[property='og:url']");
 
 ## Video Codecs
 
-[AV1 - Wikiwand](https://www.wikiwand.com/en/AV1)
+[Why Snow and Confetti Ruin YouTube Video Quality - YouTube](https://www.youtube.com/watch?v=r6Rp-uo6HmI) motion takes up bits
+[Why dark video is a terrible mess - YouTube](https://www.youtube.com/watch?v=h9j89L8eQQk) color banding
+
+[Video Compression Is Magical - YouTube](https://www.youtube.com/watch?v=pX2L_UAIoME)
+[H.264 is magic: a technical walkthrough of a remarkable technology.](https://sidbala.com/h-264-is-magic/)
+
+- spatial domain (shares with image compression)
+  - quantization in frequency domain
+  - chroma subsampling, see [[color#Colorspace]]
+- temporal domain
+  - motion compensation
+  - inter-frame prediction
+  - key frame
+  - delta frame
+- entropy encoder
+  traditional lossless compression
+
+[Advanced Video Coding - Wikiwand](https://omni.wikiwand.com/en/Advanced_Video_Coding) AVC/H.264
+
+[VP8 - Wikiwand](https://omni.wikiwand.com/en/VP8)
+[VP9 - Wikiwand](https://omni.wikiwand.com/en/VP9)
+
+[AV1 - Wikiwand](https://omni.wikiwand.com/en/AV1)
 [AV1 Features - Alliance for Open Media](https://aomedia.org/av1-features/)
 [Introducing SVT-AV1: a scalable open-source AV1 framework](https://medium.com/netflix-techblog/introducing-svt-av1-a-scalable-open-source-av1-framework-c726cce3103a)
 [AV1 Specification Released: Can we kiss goodbye to HEVC and royalty bearing video codecs? • BlogGeek.me](https://bloggeek.me/av1-video-codec/)
@@ -404,7 +445,7 @@ document.querySelectorAll("meta[property='og:url']");
 [AV1 - Bitmovin](https://bitmovin.com/av1/)
 [Best Video Codec: An Evaluation of AV1, AVC, HEVC and VP9](https://bitmovin.com/av1-multi-codec-dash-dataset/)
 
-[High Efficiency Video Coding - Wikiwand](https://www.wikiwand.com/en/High_Efficiency_Video_Coding) HEVC
+[High Efficiency Video Coding - Wikiwand](https://omni.wikiwand.com/en/High_Efficiency_Video_Coding) HEVC
 [H.265 – The Arrival of Video Compression's Future | S3 Security Systems](http://www.s3securitysystems.com/h-265-the-arrival-of-video-compressions-future/)
 "HEIF Image Extension" and "HEVC Video Extensions from Device Manufacturer" from Microsoft Store
 
@@ -413,6 +454,11 @@ document.querySelectorAll("meta[property='og:url']");
 
 [4 Reasons to Choose H.264 for your WebRTC Service (or why H.264 Just won over VP8) • BlogGeek.me](https://bloggeek.me/h264-webrtc/)
 [AV1 vs HEVC: Are the WebRTC codec wars back? • BlogGeek.me](https://bloggeek.me/av1-vs-hevc-webrtc-codec/)
+
+## Flickering
+
+[灯光一直闪、屏幕有条纹？彻底搞懂“频闪”是什么！ - YouTube](https://www.youtube.com/watch?v=R0Hn5Z5M-ik)
+[影片被頻閃給毀了？室內燈光確定是可用光源？如何修復頻閃的畫面 | 避免頻閃 | NTSC與PAL的差異 - YouTube](https://www.youtube.com/watch?v=VF4UuBlJRrE)
 
 ## Camera Sensors
 
@@ -438,6 +484,10 @@ How videos are encoded, recorded and broadcasted
 [Television - YouTube](https://www.youtube.com/playlist?list=PLv0jwu7G_DFUGEfwEl0uWduXGcRbT7Ran)
 [Closed Captioning: More Ingenious than You Know - YouTube](https://www.youtube.com/watch?v=6SL6zs2bDks)
 
+[29.97FPS這個幀率是怎麼來的? 直接用30FPS很難嗎? 科普熱身先來 Part1 - YouTube](https://www.youtube.com/watch?v=draDou4iw50)
+[29.97FPS這個幀率是怎麼來的? 直接用30FPS很難嗎? 最終解答公佈 Part2 - YouTube](https://www.youtube.com/watch?v=WjT6CKwr0h8)
+Since Chroma signal is put towards the higher frequency end of the spectrum, and it over laps withe the audio signal (in NTSC), it is create a low frequency beat which will be noise to the Luma
+
 ## Videotape
 
 Videotape records standard definition video for analog TV.
@@ -457,6 +507,8 @@ Betacam is based on Betamax but records component video (separating Luminance an
 
 [Film: the reason some of the past was in HD - YouTube](https://www.youtube.com/watch?v=rVpABCxiDaU)
 [How Was Video Invented? - YouTube](https://www.youtube.com/watch?v=rjDX5ItsOnQ)
+
+[啊？胶片还能刻声音？！你绝对想不到的录制技巧！【柴知道】 - YouTube](https://www.youtube.com/watch?v=H5-v27Hq35U)
 
 [Why Some Films Can Never Be Remastered - Video Tech Explained - YouTube](https://www.youtube.com/watch?v=x4XEomJZV6I)
 The quality of video in the transition from 35mm film to 4K master is inferior than both ends

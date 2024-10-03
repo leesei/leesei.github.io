@@ -2,7 +2,7 @@
 title: Caddy
 description: Caddy 2 is a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go
 created: 2023-06-10
-updated: 2023-09-29
+updated: 2024-01-17
 tags:
   - nginx
   - reverse-proxy
@@ -65,6 +65,8 @@ https://caddyserver.com/download?\
 [Upgrading to Caddy 2 — Caddy Documentation](https://caddyserver.com/docs/v2-upgrade)
 [Caddy Community](https://caddy.community/)
 [Top Wiki topics - Caddy Community](https://caddy.community/c/wiki/13)
+
+[Caddy Load Balancing Tutorial: A Step-by-Step Guide to Balanced Server Workloads | Linux Training Academy](https://www.linuxtrainingacademy.com/caddy-load-balancing-tutorial/)
 
 [Anyone else dislike v2? - Help - Caddy Community](https://caddy.community/t/anyone-else-dislike-v2/8191/10)
 [For Mastodon Caddy Setting file. (Based on official Nginx configuration example) [Last Update: May 16, 2020]](https://gist.github.com/ehlxr/37764950fcb4d68d3a00b5f0000823e7) v1 -> v2

@@ -2,7 +2,7 @@
 title: MongoDB
 description: ""
 created: 2014-12-17
-updated: 2023-11-05
+updated: 2023-12-01
 tags:
   - app
   - mongodb

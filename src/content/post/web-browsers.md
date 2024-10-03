@@ -2,7 +2,7 @@
 title: Web Browser
 description: ""
 created: 2017-06-16
-updated: 2023-09-29
+updated: 2024-09-15
 tags:
   - javascript/runtime
   - web
@@ -72,7 +72,7 @@ tags:
 
 [Servo, the parallel browser engine](https://servo.org/)
 [servo/servo: The Servo Browser Engine](https://github.com/servo/servo)
-[Servo (layout engine) - Wikiwand](<https://www.wikiwand.com/en/Servo_(layout_engine)>)
+[Servo (layout engine) - Wikiwand](<https://omni.wikiwand.com/en/Servo_(layout_engine)>)
 
 [How to Backup and Restore Firefox Profile On Linux](https://www.fossmint.com/backup-and-restore-a-firefox-profile-on-linux/)
 Profile Manager: `firefox -p`
@@ -97,6 +97,13 @@ Profile Manager: `firefox -p`
 [Welcome to Brave Docs — Brave Browser documentation](https://brave-browser.readthedocs.io/en/latest/index.html)
 [Installing Brave — Brave Browser documentation](https://brave-browser.readthedocs.io/en/latest/installing-brave.html#linux)
 
+## Ladybird
+
+[Ladybird](https://ladybird.org/)
+[LadybirdBrowser/ladybird: Truly independent web browser](https://github.com/LadybirdBrowser/ladybird)
+
+[Ladybird: A new cross-platform browser project – Andreas Kling – I like computers!](https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/)
+
 ## How it works
 
 [[css-notes#CSS Houdini]]
@@ -115,7 +122,7 @@ Profile Manager: `firefox -p`
 [Indicium: V8 runtime tracer tool · V8](https://v8.dev/blog/system-analyzer)
 [TurboFan · V8](https://v8.dev/docs/turbofan)
 
-[[nodejs-notes#V8 Internals]]
+[[nodejs-runtime#V8 Internals]]
 
 Sparkplug is positioned as a "super-fast" non-optimizing compiler. Sparkplug is part of a compiler pipeline, nestled between the Ignition interpreter and the TurboFan optimizing compiler.
 
@@ -130,10 +137,9 @@ Sparkplug is positioned as a "super-fast" non-optimizing compiler. Sparkplug is 
 [V8, Advanced JavaScript, & the Next Performance Frontier (Google I/O '17) - YouTube](https://www.youtube.com/watch?v=EdFDJANJJLs)
 [Jake Archibald: In The Loop - JSConf.Asia 2018 - YouTube](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
 
-[Rendering on the Web | Google Developers](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)
 [How browser engines work?](http://www.slideshare.net/haricot/how-browser-engines-work/) 2012
 [How WebKit Works - Google Drive](https://docs.google.com/presentation/d/1ZRIQbUKw9Tf077odCh66OrrwRIVNLvI_nhLm2Gi__F0/embed?start=false&loop=false&delayms=3000#slide=id.p) 2012
-[How Browsers Work: Behind the scenes of modern web browsers - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) 2011
+[How browsers work  |  Articles  |  web.dev](https://web.dev/articles/howbrowserswork) 2011
 [your webkit port is special (just like every other port)](http://ariya.ofilabs.com/2011/06/your-webkit-port-is-special-just-like-every-other-port.html) 2011
 [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm) Tali Garsiel 2009
 [Performance Calendar » Rendering: repaint, reflow/relayout, restyle](http://calendar.perfplanet.com/2009/rendering-repaint-reflow-relayout-restyle/) 2009
@@ -158,7 +164,7 @@ Sparkplug is positioned as a "super-fast" non-optimizing compiler. Sparkplug is 
 [𝗛𝗼𝘄 𝘁𝗼 𝗳𝗶𝗻𝗱 "UNUSED" 𝗝𝗔𝗩𝗔𝗦𝗖𝗥𝗜𝗣𝗧 𝗮𝗻𝗱 𝗖𝗦𝗦 𝗰𝗼𝗱𝗲 𝗼𝗻 𝘆𝗼𝘂𝗿 𝗽𝗮𝗴𝗲? 🤔 - DEV Community](https://dev.to/varunprashar5/unused-3688)
 
 [VisBug](https://visbug.web.app/)
-[VisBug - Chrome Web Store](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en)
+[VisBug](https://chromewebstore.google.com/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en)
 [Day 1 Keynote (Chrome Dev Summit 2018) - YouTube](https://www.youtube.com/watch?v=zPHyxvPT0gg&t=1374)
 
 ## Debugging
@@ -222,60 +228,60 @@ Sparkplug is positioned as a "super-fast" non-optimizing compiler. Sparkplug is 
 
 Goto chrome://extensions/shortcuts to set shortcuts
 
-[Augmented Steam - Chrome Web Store](https://chrome.google.com/webstore/detail/augmented-steam/dnhpnfgdlenaccegplpojghhmaamnnfp)
-[Awesome Screenshot and Screen Recorder - Chrome Web Store](https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj/related)
-[Copycat - Chrome Web Store](https://chrome.google.com/webstore/detail/copycat/jdjbiojkklnaeoanimopafmnmhldejbg)
+[Augmented Steam](https://chromewebstore.google.com/detail/augmented-steam/dnhpnfgdlenaccegplpojghhmaamnnfp)
+[Awesome Screenshot and Screen Recorder](https://chromewebstore.google.com/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj/related)
+[Copycat](https://chromewebstore.google.com/detail/copycat/jdjbiojkklnaeoanimopafmnmhldejbg)
 
 - Ctrl+Shift+D to copy Markdown link
 - PR: add notification after copy
 
-[Don't add custom search engines - Chrome Web Store](https://chrome.google.com/webstore/detail/dont-add-custom-search-en/dnodlcololidkjgbpeoleabmkocdhacc)
-[Explain and Send Screenshots - Chrome Web Store](https://chrome.google.com/webstore/detail/explain-and-send-screensh/mdddabjhelpilpnpgondfmehhcplpiin)
-[Enhanced Steam - Chrome Web Store](https://chrome.google.com/webstore/detail/enhanced-steam/okadibdjfemgnhjiembecghcbfknbfhg)
-[FasterChrome - Chrome Web Store](https://chrome.google.com/webstore/detail/fasterchrome/nmgpnfccjfjhdenioncabecepjcmdnjg)
-[FreshStart - Cross Browser Session Manager - Chrome Web Store](https://chrome.google.com/webstore/detail/freshstart-cross-browser/nmidkjogcjnnlfimjcedenagjfacpobb)
-[Honey - Chrome Web Store](https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj)
-[HTTP Indicator - Chrome Web Store](https://chrome.google.com/webstore/detail/http-indicator/hgcomhbcacfkpffiphlmnlhpppcjgmbl)
-[Ivacy VPN: Best Chrome VPN Proxy Extension - Chrome Web Store](https://chrome.google.com/webstore/detail/ivacy-vpn-best-chrome-vpn/lblebdecfhdegbeoejplcpmhibbkbkin)
-[LastPass: Free Password Manager - Chrome Web Store](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)
-[Link to Text Fragment - Chrome Web Store](https://chrome.google.com/webstore/detail/link-to-text-fragment/pbcodcjpfjdpcineamnnmbkkmkdpajjg)
-[Make Medium Readable Again - Chrome Web Store](https://chrome.google.com/webstore/detail/make-medium-readable-agai/kljjfejkagofbgklifblndjelgabcmig)
-[Markdown Here - Chrome Web Store](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa)
+[Don't add custom search engines](https://chromewebstore.google.com/detail/dont-add-custom-search-en/dnodlcololidkjgbpeoleabmkocdhacc)
+[Explain and Send Screenshots](https://chromewebstore.google.com/detail/explain-and-send-screensh/mdddabjhelpilpnpgondfmehhcplpiin)
+[Enhanced Steam](https://chromewebstore.google.com/detail/enhanced-steam/okadibdjfemgnhjiembecghcbfknbfhg)
+[FasterChrome](https://chromewebstore.google.com/detail/fasterchrome/nmgpnfccjfjhdenioncabecepjcmdnjg)
+[FreshStart - Cross Browser Session Manager](https://chromewebstore.google.com/detail/freshstart-cross-browser/nmidkjogcjnnlfimjcedenagjfacpobb)
+[Honey](https://chromewebstore.google.com/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj)
+[HTTP Indicator](https://chromewebstore.google.com/detail/http-indicator/hgcomhbcacfkpffiphlmnlhpppcjgmbl)
+[Ivacy VPN: Best Chrome VPN Proxy Extension](https://chromewebstore.google.com/detail/ivacy-vpn-best-chrome-vpn/lblebdecfhdegbeoejplcpmhibbkbkin)
+[LastPass: Free Password Manager](https://chromewebstore.google.com/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)
+[Link to Text Fragment](https://chromewebstore.google.com/detail/link-to-text-fragment/pbcodcjpfjdpcineamnnmbkkmkdpajjg)
+[Make Medium Readable Again](https://chromewebstore.google.com/detail/make-medium-readable-agai/kljjfejkagofbgklifblndjelgabcmig)
+[Markdown Here](https://chromewebstore.google.com/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa)
 
 - change shortcut to <kbd>Alt</kbd> + <kbd>M</kbd>
 
 [Medium Unlimited](https://manojvivek.github.io/medium-unlimited/)
-[Mercury Reader - Chrome Web Store](https://chrome.google.com/webstore/detail/mercury-reader/oknpjjbmpnndlpmnhmekjpocelpnlfdi)
-[Moly HaH - Chrome Web Store](https://chrome.google.com/webstore/detail/moly-hah/pjoacnohgednppackhamgfalpkffeeek)
+[Mercury Reader](https://chromewebstore.google.com/detail/mercury-reader/oknpjjbmpnndlpmnhmekjpocelpnlfdi)
+[Moly HaH](https://chromewebstore.google.com/detail/moly-hah/pjoacnohgednppackhamgfalpkffeeek)
 
 - E, Shift-E to enter HaH
 - Charset: ASDZXC
 - PR: sync option
 
-[Petapator - Chrome Web Store](https://chrome.google.com/webstore/detail/petapator/eapjillhmgpcgfelagikhjeiboocofcm)
-[PlantUML Viewer - Chrome Web Store](https://chrome.google.com/webstore/detail/plantuml-viewer/legbfeljfbjgfifnkmpoajgpgejojooj) disabled
-[Reader View - Chrome Web Store](https://chrome.google.com/webstore/detail/reader-view/ecabifbgmdmgdllomnfinbmaellmclnh)
-[Reedy - Chrome Web Store](https://chrome.google.com/webstore/detail/reedy/ihbdojmggkmjbhfflnchljfkgdhokffj)
-[Screenshot YouTube - Chrome Web Store](https://chrome.google.com/webstore/detail/screenshot-youtube/gjoijpfmdhbjkkgnmahganhoinjjpohk/related)
-[Smart Websocket Client - Chrome Web Store](https://chrome.google.com/webstore/detail/smart-websocket-client/omalebghpgejjiaoknljcfmglgbpocdp)
-[Steam Database - Chrome Web Store](https://chrome.google.com/webstore/detail/steam-database/kdbmhfkmnlmbkgbabkdealhhbfhlmmon)
-[Tampermonkey - Chrome Web Store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-[TunnelBear VPN - Chrome Web Store](https://chrome.google.com/webstore/detail/tunnelbear-vpn/omdakjcmkglenbhjadbccaookpfjihpa)
-[Unblock Youku - Chrome Web Store](https://chrome.google.com/webstore/detail/unblock-youku/pdnfnkhpgegpcingjbfihlkjeighnddk)
-[Video Speed Controller - Chrome Web Store](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en)
+[Petapator](https://chromewebstore.google.com/detail/petapator/eapjillhmgpcgfelagikhjeiboocofcm)
+[PlantUML Viewer](https://chromewebstore.google.com/detail/plantuml-viewer/legbfeljfbjgfifnkmpoajgpgejojooj) disabled
+[Reader View](https://chromewebstore.google.com/detail/reader-view/ecabifbgmdmgdllomnfinbmaellmclnh)
+[Reedy](https://chromewebstore.google.com/detail/reedy/ihbdojmggkmjbhfflnchljfkgdhokffj)
+[Screenshot YouTube](https://chromewebstore.google.com/detail/screenshot-youtube/gjoijpfmdhbjkkgnmahganhoinjjpohk/related)
+[Smart Websocket Client](https://chromewebstore.google.com/detail/smart-websocket-client/omalebghpgejjiaoknljcfmglgbpocdp)
+[Steam Database](https://chromewebstore.google.com/detail/steam-database/kdbmhfkmnlmbkgbabkdealhhbfhlmmon)
+[Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+[TunnelBear VPN](https://chromewebstore.google.com/detail/tunnelbear-vpn/omdakjcmkglenbhjadbccaookpfjihpa)
+[Unblock Youku](https://chromewebstore.google.com/detail/unblock-youku/pdnfnkhpgegpcingjbfihlkjeighnddk)
+[Video Speed Controller](https://chromewebstore.google.com/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en)
 
 - PR: sync option
 - Preferred Speed: 1.8
 - Remember Playback Speed
 
-[Web Archiver - Chrome Web Store](https://chrome.google.com/webstore/detail/web-archiver/gjpgpobcdndcdcidmgcmlphbomllapjp)
-[Web Vitals - Chrome Web Store](https://chrome.google.com/webstore/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma)
-[Wikiwand: Wikipedia Modernized - Chrome Web Store](https://chrome.google.com/webstore/detail/wikiwand-wikipedia-modern/emffkefkbkpkgpdeeooapgaicgmcbolj)
-[YT Anti Translate - Chrome Web Store](https://chrome.google.com/webstore/detail/yt-anti-translate/ndpmhjnlfkgfalaieeneneenijondgag)
+[Web Archiver](https://chromewebstore.google.com/detail/web-archiver/gjpgpobcdndcdcidmgcmlphbomllapjp)
+[Web Vitals](https://chromewebstore.google.com/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma)
+[Wikiwand: Wikipedia Modernized](https://chromewebstore.google.com/detail/wikiwand-wikipedia-modern/emffkefkbkpkgpdeeooapgaicgmcbolj)
+[YT Anti Translate](https://chromewebstore.google.com/detail/yt-anti-translate/ndpmhjnlfkgfalaieeneneenijondgag)
 
-[Language Learning with Netflix™ - Chrome Web Store](https://chrome.google.com/webstore/detail/language-learning-with-ne/mkebkjahadmflkecndjlokjodhmleiia)
-[Language Learning with Netflix & YouTube™ - Chrome Web Store](https://chrome.google.com/webstore/detail/language-learning-with-ne/bekopgepchoeepdmokgkpkfhegkeohbl)
-[Trim: IMDB Ratings on Netflix and Prime Video - Chrome Web Store](https://chrome.google.com/webstore/detail/trim-imdb-ratings-on-netf/lpgajkhkagnpdjklmpgjeplmgffnhhjj)
+[Language Learning with Netflix™](https://chromewebstore.google.com/detail/language-learning-with-ne/mkebkjahadmflkecndjlokjodhmleiia)
+[Language Learning with Netflix & YouTube™](https://chromewebstore.google.com/detail/language-learning-with-ne/bekopgepchoeepdmokgkpkfhegkeohbl)
+[Trim: IMDB Ratings on Netflix and Prime Video](https://chromewebstore.google.com/detail/trim-imdb-ratings-on-netf/lpgajkhkagnpdjklmpgjeplmgffnhhjj)
 
 [百度网盘直接下载助手 直链加速版](https://greasyfork.org/zh-CN/scripts/39504-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B-%E7%9B%B4%E9%93%BE%E5%8A%A0%E9%80%9F%E7%89%88)
 
@@ -290,40 +296,43 @@ Chromium, `h264ify`, and `rpi-chromium-mods` are preinstalled since [2016-09](ht
 [Pi3 internet browsing and Youtube performance - Raspberry Pi Forums](https://www.raspberrypi.org/forums/viewtopic.php?t=138025)
 [[HowTo!] Smooth youtube 1080p in Chromium - Raspberry Pi Forums](https://lb.raspberrypi.org/forums/viewtopic.php?f=66&t=199543&sid=ba57433f962277aea45c1aa252056d4d&start=50#p1442955) `config.txt`, `00-rpi-vars`, `chromiummod.sh` 2018
 [How to get smooth youtube/flash video playback on Raspberry Pi (updated 25-03-2019)](https://www.linkedin.com/pulse/how-get-smooth-youtubeflash-video-playback-raspberry-pi-kovalenko)
-[RPi-youtube - Chrome Web Store](https://chrome.google.com/webstore/detail/rpi-youtube/laacchpjldmpbhkcjfmfcjijaekhhlgn?hl=en)
-[RaspberryCast - Chrome Web Store](https://chrome.google.com/webstore/detail/raspberrycast/aikmhmnmlebhcjjdbjilohbpfljioeak?hl=en)
+[RPi-youtube](https://chromewebstore.google.com/detail/rpi-youtube/laacchpjldmpbhkcjfmfcjijaekhhlgn?hl=en)
+[RaspberryCast](https://chromewebstore.google.com/detail/raspberrycast/aikmhmnmlebhcjjdbjilohbpfljioeak?hl=en)
 [Create Your Own Chrome Cast With Raspicast - YouTube](https://www.youtube.com/watch?v=QQ2vlfWY-R8)
-[h264ify - Chrome Web Store](https://chrome.google.com/webstore/detail/h264ify/aleakchihdccplidncghkekgioiakgal?hl=en)
+[h264ify](https://chromewebstore.google.com/detail/h264ify/aleakchihdccplidncghkekgioiakgal?hl=en)
 
 ### Watchlist
 
 [The Best Browser Extensions That’ll Save You Money (and Which to Skip)](https://twocents.lifehacker.com/the-best-browser-extensions-that-ll-save-you-money-and-1702736679)
 [How to Use Pushbullet to Bridge the Gap Between All Your Devices](https://lifehacker.com/how-to-use-pushbullet-to-bridge-the-gap-between-all-you-1548595270)
-[Just Read - Chrome Web Store](https://chrome.google.com/webstore/detail/just-read/dgmanlpmmkibanfdgjocnabmcaclkmod?hl=en)
+[Just Read](https://chromewebstore.google.com/detail/just-read/dgmanlpmmkibanfdgjocnabmcaclkmod?hl=en)
 
 ### DevTools
 
-[Apollo Client Developer Tools - Chrome Web Store](https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm)
-[DOMListener - Chrome Web Store](https://chrome.google.com/webstore/detail/domlistener/jlfdgnlpibogjanomigieemaembjeolj)
-[JSONView - Chrome Web Store](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) disabled
-[JWT Analyzer & Inspector - Chrome Web Store](https://chrome.google.com/webstore/detail/jwt-analyzer-inspector/henclmbnehmcpbjgipaajbggekefngob)
-[React Developer Tools - Chrome Web Store](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
-[Redux DevTools - Chrome Web Store](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
-[Set Character Encoding - Chrome Web Store](https://chrome.google.com/webstore/detail/set-character-encoding/bpojelgakakmcfmjfilgdlmhefphglae)
-[Smart Websocket Client - Chrome Web Store](https://chrome.google.com/webstore/detail/smart-websocket-client/omalebghpgejjiaoknljcfmglgbpocdp)
-[Vue.js devtools - Chrome Web Store](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-[XState DevTools - Chrome Web Store](https://chrome.google.com/webstore/detail/xstate-devtools/aamnodipnlopbknpklfoabalmobheehc)
+[Apollo Client Developer Tools](https://chromewebstore.google.com/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm)
+[DOMListener](https://chromewebstore.google.com/detail/domlistener/jlfdgnlpibogjanomigieemaembjeolj)
+[JSONView](https://chromewebstore.google.com/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) disabled
+[JWT Analyzer & Inspector](https://chromewebstore.google.com/detail/jwt-analyzer-inspector/henclmbnehmcpbjgipaajbggekefngob)
+[React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+[Redux DevTools](https://chromewebstore.google.com/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
+[Set Character Encoding](https://chromewebstore.google.com/detail/set-character-encoding/bpojelgakakmcfmjfilgdlmhefphglae)
+[Smart Websocket Client](https://chromewebstore.google.com/detail/smart-websocket-client/omalebghpgejjiaoknljcfmglgbpocdp)
+[Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+[XState DevTools](https://chromewebstore.google.com/detail/xstate-devtools/aamnodipnlopbknpklfoabalmobheehc)
 
 ### GitHub
 
-[bitHound - Chrome Web Store](https://chrome.google.com/webstore/detail/bithound/jemefagecbkdhddocooihfhhgolbccan)
-[npmhub - Chrome Web Store](https://chrome.google.com/webstore/detail/npmhub/kbbbjimdjbjclaebffknlabpogocablj)
-[Octo Mate - Chrome Web Store](https://chrome.google.com/webstore/detail/octo-mate/baggcehellihkglakjnmnhpnjmkbmpkf)
-[Octotree - Chrome Web Store](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
-[Refined GitHub - Chrome Web Store](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf)
+[bitHound](https://chromewebstore.google.com/detail/bithound/jemefagecbkdhddocooihfhhgolbccan)
+[npmhub](https://chromewebstore.google.com/detail/npmhub/kbbbjimdjbjclaebffknlabpogocablj)
+[Octo Mate](https://chromewebstore.google.com/detail/octo-mate/baggcehellihkglakjnmnhpnjmkbmpkf)
+[Octotree](https://chromewebstore.google.com/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
+[Refined GitHub](https://chromewebstore.google.com/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf)
 
 ## Installed Firefox Extensions
 
 [Video Speed Controller – Add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/addon/videospeed/)
 [uBlock Origin – Add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
-[Tabboo - Session Manager – Add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/addon/tabboo-session-manager/?src=search)
+
+https://addons.mozilla.org/en-US/firefox/addon/tab-session-manager/
+https://addons.mozilla.org/en-US/firefox/addon/hls-stream-detector/
+https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/

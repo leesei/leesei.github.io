@@ -2,7 +2,7 @@
 title: Human Rights
 description: ""
 created: 2018-07-25
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - law
 ---

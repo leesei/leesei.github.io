@@ -2,7 +2,7 @@
 title: OpenSSL
 description: ""
 created: 2015-09-29
-updated: 2023-10-20
+updated: 2024-08-14
 tags:
   - app
   - openssl
@@ -18,17 +18,29 @@ tags:
 
 ## key/cert types
 
-[X.509 - Wikiwand](https://www.wikiwand.com/en/X.509)
+[X.509 - Wikiwand](https://omni.wikiwand.com/en/X.509)
+[RFC 2585 - Internet X.509 Public Key Infrastructure Operational Protocols: FTP and HTTP](https://datatracker.ietf.org/doc/html/rfc2585)
 [DER vs. CRT vs. CER vs. PEM Certificates and How To Convert Them](http://info.ssl.com/article.aspx?id=12149)
+[PEM, DER, CRT, and CER: X.509 Encodings and Conversions - SSL.com](https://www.ssl.com/guide/pem-der-crt-and-cer-x-509-encodings-and-conversions/)
 
-`.pem`, `.key`, `.csr` are used for keys (file format)
-`.crt` == X.509? probably (`-----BEGIN CERTIFICATE-----`)
-`.csr` can be converted to `.crt` by signing with private key
-`.pfx`/`.p12` == PKCS#12
-SPKI, PKCS: key format
+[PKCS - Wikiwand](https://omni.wikiwand.com/en/PKCS)
+[What are Public-Key Cryptography Standards (PKCS)?](https://www.techtarget.com/searchsecurity/definition/Public-Key-Cryptography-Standards)
+[Guide to Public Key Cryptography Standards in Cyber Security | RSI Security](https://blog.rsisecurity.com/guide-to-public-key-cryptography-standards-in-cyber-security/)
 
 key: no meta data, just the prime numbers and modulus
 cert: with meta data
+
+X.509 is the PKI protocol and defines the actual certificate
+DER, PEM, PKCS#7, PKCS#8, PKCS#12 are encoding standards
+
+PEM (Privacy Enhanced Mail) base64 DER, with text headers and footers
+File extensions: `.pem`, `.key`, `.csr`, `.crt`
+DER (Distinguished Encoding Rules), binary without text headers and footers
+File extensions: `.der`, `.cer`
+PKCS (Public-Key Cryptography Standards)
+File extensions: `.p7b` (PKCS#7), `.pfx`, `.p12` (PKCS#12 binary), `.csr` (PKCS#10 base64)
+
+`openssl x509 -in cert.pem -text -noout` to view cert
 
 ## cert generation
 

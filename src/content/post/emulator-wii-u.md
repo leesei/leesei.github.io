@@ -2,7 +2,7 @@
 title: Wii U Emulator
 description: ""
 created: 2023-06-12
-updated: 2023-11-06
+updated: 2024-08-14
 tags:
   - emulator
   - games
@@ -57,7 +57,7 @@ Zelda BotW Graphic Packs:
 
 [Cemu Compatibility List](http://compat.cemu.info/)
 
-[List of Mario role-playing games - Wikiwand](https://www.wikiwand.com/en/List_of_Mario_role-playing_games#)
+[List of Mario role-playing games - Wikiwand](https://omni.wikiwand.com/en/List_of_Mario_role-playing_games#)
 
 [Wii U ROM & ISO - Free Download](https://romsfun.com/roms/wii-u)
 
@@ -72,6 +72,8 @@ Minecraft: Super Mario Edition
 One Piece: Unlimited World Red
 Paper Mario
 Paper Mario: Color Splash
+Star Fox Guard
+Star Fox Zero
 Super Mario 3D World
 Super Smash Bros. for Wii U
 The Legend of Zelda: Majora's Mask

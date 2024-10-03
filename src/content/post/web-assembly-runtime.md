@@ -2,7 +2,7 @@
 title: Web Assembly Runtimes
 description: Runtimes for Web Assembly
 created: 2023-03-28
-updated: 2023-09-29
+updated: 2024-05-26
 tags:
   - wasm
   - wasm/runtime
@@ -10,6 +10,8 @@ tags:
 
 [appcypher/awesome-wasm-runtimes: A list of webassemby runtimes](https://github.com/appcypher/awesome-wasm-runtimes)
 [WebAssembly runtimes compared - LogRocket Blog](https://blog.logrocket.com/webassembly-runtimes-compared/)
+
+[vmware-labs/webassembly-language-runtimes: Wasm Language Runtimes provides popular language runtimes (Ruby, Python, …) precompiled to WebAssembly that are tested for compatibility and kept up to date when new versions of upstream languages are released](https://github.com/vmware-labs/webassembly-language-runtimes/)
 
 ## WASI
 
@@ -20,7 +22,7 @@ tags:
 [Wasm, WASI, Wagi: What are they? | Fermyon • Experience the next wave of cloud computing.](https://www.fermyon.com/blog/wasm-wasi-wagi)
 
 - can also replace the Emscripten driven runtime in browser
-- sandboxing idea similar to [[deno]]
+- sandboxing idea similar to [[deno-runtime]]
 
 [Let's Talk About WebAssembly and WASI - YouTube](https://www.youtube.com/watch?v=2qV-1JhxWeE) 2021-05, 2:09:33
 [Bringing WebAssembly outside the web with WASI by Lin Clark - YouTube](https://www.youtube.com/watch?v=fh9WXPu0hw8) 2019-06

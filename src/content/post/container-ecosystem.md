@@ -2,7 +2,7 @@
 title: Container Ecosystem
 description: ""
 created: 2014-12-11
-updated: 2023-09-29
+updated: 2024-09-23
 tags:
   - container
   - dev/deploy
@@ -58,9 +58,13 @@ tags:
 [Linux Containers - LXC - Getting started](https://linuxcontainers.org/lxc/getting-started/)
 [Linux Containers - LXD - Introduction](https://linuxcontainers.org/lxd/introduction/) This is the Docker Engine equivalent
 [LXC 1.0: Blog post series [0/10] | Stéphane Graber's website](https://www.stgraber.org/2013/12/20/lxc-1-0-blog-post-series/)
-[LXC - Wikiwand](http://www.wikiwand.com/en/LXC)
+[LXC - Wikiwand](http://omni.wikiwand.com/en/LXC)
 [LXC vs Docker comparison criteria deep dive - Robin Systems](https://robinsystems.com/blog/containers-deep-dive-lxc-vs-docker-comparison/)
 [Docker vs Singularity vs Shifter vs UGE Container Edition](https://tin6150.github.io/psg/blogger_container_hpc.html)
+
+Jim's Garage
+[Proxmox LXC - How To Guide - Better Than A VM? - YouTube](https://www.youtube.com/watch?v=xKhWRMj5Nrc)
+[LXC - YouTube](https://www.youtube.com/playlist?list=PLXHMZDvOn5sXGqlLXzUkeCZXSW2PiBRda)
 
 [How to easily run graphics-accelerated GUI apps in LXD containers on your Ubuntu desktop – Mi blog lah!](https://blog.simos.info/how-to-easily-run-graphics-accelerated-gui-apps-in-lxd-containers-on-your-ubuntu-desktop/)
 
@@ -72,6 +76,9 @@ tags:
 [Container Defense in Depth - The New Stack](http://thenewstack.io/container-defense-depth/)
 [A Practical Introduction to Container Terminology - RHD Blog](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/)
 [Containers for all - are we there yet? • DEVCLASS](https://devclass.com/2018/12/21/containers-for-all-are-we-there-yet/)
+
+[Linux Container Internals (Part I) – Rabbit Stack](https://rabbitstack.github.io/operating%20systems/containers/linux-containers-internals-part-i/)
+[Linux Container Internals (Part II) – Rabbit Stack](https://rabbitstack.github.io/operating%20systems/containers/linux-container-internals-part-ii/)
 
 Houses vs apartments
 [Virtual Machines vs Docker Containers - Dive Into Docker - YouTube](https://www.youtube.com/watch?v=TvnZTi_gaNc)
@@ -164,20 +171,23 @@ root         6  0.0  0.0  17504  1984 ?        R+   00:30   0:00 ps aux
 
 ### Podman
 
+[Podman | podman.io](https://podman.io/) exports k8s YAML, 3.0 supports Docker Compose
+[containers/podman: Podman: A tool for managing OCI containers and pods.](https://github.com/containers/podman)
+[containers/podman-py: Python bindings for Podman's RESTful API](https://github.com/containers/podman-py)
+
+[Podman Desktop - Containers and Kubernetes | Podman Desktop](https://podman-desktop.io/)
+[containers/podman-desktop: Podman Desktop - A graphical tool for developing on containers and Kubernetes](https://github.com/containers/podman-desktop)
+[Podman Desktop 1.0: Local container development made easy | Red Hat Developer](https://developers.redhat.com/articles/2023/05/23/podman-desktop-now-generally-available)
+
+[Intro to Podman | Red Hat Developer](https://developers.redhat.com/blog/2018/08/29/intro-to-podman)
+[Transitioning from Docker to Podman | Red Hat Developer](https://developers.redhat.com/blog/2020/11/19/transitioning-from-docker-to-podman)
+[Podman basics: Resources for beginners and experts | Red Hat Developer](https://developers.redhat.com/articles/2022/05/02/podman-basics-resources-beginners-and-experts)
+
 [Why Red Hat is investing in CRI-O and Podman](https://www.redhat.com/en/blog/why-red-hat-investing-cri-o-and-podman)
 [Buildah, Podman, and Skopeo – the BIT that matters](http://saharsh.org/2019/01/18/buildah_podman_skopeo/)
 [Container pipelines for sys admins—and anyone, really—with Buildah and Podman](https://www.redhat.com/en/events/webinar/container-pipelines-sys-admins-and-anyone-really-buildah-and-podman)
 [Goodbye Docker: Purging is Such Sweet Sorrow – zwischenzugs](https://zwischenzugs.com/2019/07/27/goodbye-docker-purging-is-such-sweet-sorrow/amp/)
 [Podman and Buildah for Docker users | Red Hat Developer](https://developers.redhat.com/blog/2019/02/21/podman-and-buildah-for-docker-users)
-
-[Podman | podman.io](https://podman.io/) exports k8s YAML, 3.0 supports Docker Compose
-[containers/podman: Podman: A tool for managing OCI containers and pods.](https://github.com/containers/podman)
-[containers/podman-py: Python bindings for Podman's RESTful API](https://github.com/containers/podman-py)
-
-[Intro to Podman | Red Hat Developer](https://developers.redhat.com/blog/2018/08/29/intro-to-podman)
-[Transitioning from Docker to Podman | Red Hat Developer](https://developers.redhat.com/blog/2020/11/19/transitioning-from-docker-to-podman)
-[Podman basics: Resources for beginners and experts | Red Hat Developer](https://developers.redhat.com/articles/2022/05/02/podman-basics-resources-beginners-and-experts)
-[Podman Desktop 1.0: Local container development made easy | Red Hat Developer](https://developers.redhat.com/articles/2023/05/23/podman-desktop-now-generally-available)
 
 [Replacing Docker with Podman — Power of Podman — Cloudnweb](https://medium.com/@ganeshmani009/replacing-docker-with-podman-power-of-podman-cloudnweb-23cfb7541538)
 [Podman » ADMIN Magazine](http://www.admin-magazine.com/Articles/OCI-containers-with-Podman)
@@ -288,8 +298,8 @@ Compared to the Docker Engine, containerd exposes essentially a CRUD interface a
 
 ### Docker in Windows
 
-[Windows Containers Documentation](https://msdn.microsoft.com/virtualization/windowscontainers/containers_welcome)
-[Windows Container on Windows 10](https://msdn.microsoft.com/virtualization/windowscontainers/quick_start/quick_start_windows_10)
+[Containers on Windows documentation | Microsoft Learn](https://learn.microsoft.com/en-us/virtualization/windowscontainers/)
+[Prepare Windows operating system containers | Microsoft Learn](https://learn.microsoft.com/en-us/virtualization/windowscontainers/quick-start/set-up-environment?tabs=dockerce)
 [How to build a Node.js Nano Server Docker base image](http://stefanscherer.github.io/how-to-build-nodejs-nanoserver-image/)
 [What you need to know about Docker in Windows | InfoWorld](http://www.infoworld.com/article/3163257/application-development/what-you-need-to-know-about-docker-in-windows.html)
 [The Similarities and Differences Between Windows and Linux Containers | Rancher Labs](https://rancher.com/the-similarities-and-differences-between-windows-and-linux-containers/)
@@ -303,6 +313,12 @@ Compared to the Docker Engine, containerd exposes essentially a CRUD interface a
 [Linux Containers: Part 5, Creating Your Own VPN | Linux.org](http://www.linux.org/threads/linux-containers-part-5-creating-your-own-vpn.4431/)
 [Linux Containers: Part 6, Additional VPN Security | Linux.org](http://www.linux.org/threads/linux-containers-part-6-additional-vpn-security.4459/)
 [Linux Containers: Part 7, HTTP and HTTPS Routing | Linux.org](http://www.linux.org/threads/linux-containers-part-7-http-and-https-routing.4544/)
+
+## Dev Containers
+
+[Development containers](https://containers.dev/)
+[Features](https://containers.dev/features)
+[Dev Container Features reference](https://containers.dev/implementors/features/)
 
 ## Security
 
@@ -408,6 +424,11 @@ Compared to the Docker Engine, containerd exposes essentially a CRUD interface a
 
 [sehrope/dokku-logging-supervisord: Individual app logs and supervisord for Dokku](https://github.com/sehrope/dokku-logging-supervisord)
 
+### Coolify
+
+[Coolify](https://coolify.io/)
+[coollabsio/coolify: An open-source & self-hostable Heroku / Netlify / Vercel alternative.](https://github.com/coollabsio/coolify)
+
 ## State Management
 
 [Containerizing stateful applications | InfoWorld](http://www.infoworld.com/article/3106416/cloud-computing/containerizing-stateful-applications.html)
@@ -489,7 +510,7 @@ Compared to the Docker Engine, containerd exposes essentially a CRUD interface a
 
 ## Monitoring
 
-[[devops#Health monitoring]]
+> TODO: merge with [[devops#Health monitoring]]
 
 [Building A Central Logging Service In-House — Smashing Magazine](https://www.smashingmagazine.com/2018/05/building-central-logging-service/)
 [4 Common Kubernetes-Monitoring Traps to Avoid - The New Stack](https://thenewstack.io/4-common-kubernetes-monitoring-traps-to-avoid/)
@@ -544,6 +565,7 @@ State metrics
 
 [Zabbix :: The Enterprise-Class Open Source Network Monitoring Solution](https://www.zabbix.com/)
 [Zabbix API Explained – Zabbix Blog](https://blog.zabbix.com/zabbix-api-explained/9155/)
+[Zabbix - Open Source Monitoring System | Proxmox Home Server Series | Proxmox Home Lab - YouTube](https://www.youtube.com/watch?v=WBiSL6Lq8Rg)
 
 ### sematext
 
@@ -607,7 +629,6 @@ Distributed system for data science
 
 [Create a Node.js Container image for Windows](https://stefanscherer.github.io/create-an-io-js-container-image-for-windows/)
 [Minimal Docker Containers for Node.js | @RisingStack](https://blog.risingstack.com/minimal-docker-containers-for-node-js/)
-[StrongLoop | Containerizing Node.js Apps with Docker and StrongLoop](https://strongloop.com/strongblog/containerizing-node-js-apps-with-docker-and-strongloop/)
 [Containerizing a Node.js Application for Development With Compose | DigitalOcean](https://www.digitalocean.com/community/tutorials/containerizing-a-node-js-application-for-development-with-docker-compose)
 [Dockerizing a Node.js Web Application - Semaphore](https://semaphoreci.com/community/tutorials/dockerizing-a-node-js-web-application)
 [danawoodman/docker-node-hello-world](https://github.com/danawoodman/docker-node-hello-world)

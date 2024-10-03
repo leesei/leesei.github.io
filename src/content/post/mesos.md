@@ -2,7 +2,7 @@
 title: Mesos
 description: ""
 created: 2016-03-21
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - dev/deploy
   - devops
@@ -10,7 +10,7 @@ tags:
 ---
 
 [Apache Mesos](https://mesos.apache.org/) [GitHub](https://github.com/mesos)
-[Apache Mesos - Wikiwand](https://www.wikiwand.com/en/Apache_Mesos)
+[Apache Mesos - Wikiwand](https://omni.wikiwand.com/en/Apache_Mesos)
 
 Apache Mesos is inspired by the Google's paper of their Borg system. It abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively. Twitter have been using it since 2007.
 Mesos provides the low level API. It usually requires a "framework" (scheduler) to tell it what to do and on which node to execute the task.

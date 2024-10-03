@@ -2,7 +2,7 @@
 title: Gundam
 description: ""
 created: 2020-11-04
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - anime
   - gundam
@@ -30,6 +30,7 @@ tags:
 [MS 开发历史 - YouTube](https://www.youtube.com/playlist?list=PLutfmPd-jr58_NuQDkUpGTSHDRkGWJdzm) 爱玩家
 [anime hobby land - YouTube](https://www.youtube.com/channel/UCxZF9ifFwsBrVv2hr085Qiw)
 [高達/鋼彈/GUNDAM/ガンダム-名機圖鑑 - YouTube](https://www.youtube.com/playlist?list=PLCgEruUGtrCGa8oMa8AP1YBMHlhdflyS9)
+[量產型男 - YouTube](https://www.youtube.com/@Mass-Production-Type-Man)
 
 [Zentinel - 高達講場](https://www.zentinelhk.com/blog/singblog)
 [高達講場 - YouTube](https://www.youtube.com/playlist?list=PLW60DZ3uw-7tZsUd8M5fy-lM1vQiOqhHd)
@@ -70,4 +71,8 @@ tags:
 
 [超機動生命體，武者頑馱無，見參～～（前篇） | 玩具人 Toy People News](https://www.toy-people.com/?p=27381)
 
-[SD 戰國傳 武者七人眾篇 - Wikiwand](https://www.wikiwand.com/zh-hant/SD%E6%88%B0%E5%9C%8B%E5%82%B3_%E6%AD%A6%E8%80%85%E4%B8%83%E4%BA%BA%E7%9C%BE%E7%AF%87)
+[SD 戰國傳 武者七人眾篇 - Wikiwand](https://omni.wikiwand.com/zh/SD%E6%88%B0%E5%9C%8B%E5%82%B3_%E6%AD%A6%E8%80%85%E4%B8%83%E4%BA%BA%E7%9C%BE%E7%AF%87)
+
+## Seed
+
+[old p is price - YouTube](https://www.youtube.com/@LaoPJiuShiPROCE)

@@ -2,13 +2,17 @@
 title: DNS
 description: ""
 created: 2015-07-25
-updated: 2023-09-29
+updated: 2024-09-06
 tags:
   - web
 ---
 
-[Domain Name System - Wikiwand](https://www.wikiwand.com/en/Domain_Name_System)
+[Domain Name System - Wikiwand](https://omni.wikiwand.com/en/Domain_Name_System)
 [DNS for Rocket Scientists - Contents](http://www.zytrax.com/books/dns/)
+
+[What is DNS? (and how it makes the Internet work) - YouTube](https://www.youtube.com/watch?v=NiQTs9DbtW4)
+[DNS is beautiful - YouTube](https://www.youtube.com/watch?v=tgWx81_NGcg)
+
 [A Comparison of DNS Server Types: How To Choose the Right DNS Configuration | DigitalOcean](https://www.digitalocean.com/community/tutorials/a-comparison-of-dns-server-types-how-to-choose-the-right-dns-configuration)
 
 [DNS Checker - DNS Propagation Check & DNS Lookup](https://www.whatsmydns.net/) check DNS propagation status
@@ -21,7 +25,6 @@ tags:
 [RFC 1034 - Domain names - concepts and facilities](https://tools.ietf.org/html/rfc1034)
 [RFC 1035 - Domain names - implementation and specification](https://tools.ietf.org/html/rfc1035)
 [RFC 2136 - Dynamic Updates in the Domain Name System (DNS UPDATE)](https://tools.ietf.org/html/rfc2136)
-[DNS is beautiful - YouTube](https://www.youtube.com/watch?v=tgWx81_NGcg)
 
 [An Introduction to Managing DNS | DigitalOcean](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-managing-dns)
 [Domains and DNS :: DigitalOcean Product Documentation](https://www.digitalocean.com/docs/networking/dns/)
@@ -61,12 +64,12 @@ Secondary Name Server (NS record) for second level domains and sub-domains
 
 ## Domain Name
 
-[Domain name - Wikiwand](https://www.wikiwand.com/en/Domain_name)
+[Domain name - Wikiwand](https://omni.wikiwand.com/en/Domain_name)
 [New TLDs, five years in - Domain Name Wire | Domain Name News](https://domainnamewire.com/2019/02/28/new-tlds-five-years-in/)
 
 ## DNS spoofing/cache poisoning
 
-[DNS spoofing - Wikiwand](https://www.wikiwand.com/en/DNS_spoofing)
+[DNS spoofing - Wikiwand](https://omni.wikiwand.com/en/DNS_spoofing)
 [DNS Cache Poisoning - Computerphile - YouTube](https://www.youtube.com/watch?v=7MT1F0O3_Yw)
 
 [An Illustrated Guide to the Kaminsky DNS Vulnerability](http://unixwiz.net/techtips/iguide-kaminsky-dns-vuln.html)
@@ -114,10 +117,10 @@ A
 AAAA for IPv6
 CNAME
 MX
-[TXT record - Wikiwand](https://www.wikiwand.com/en/TXT_record)
-[SRV record - Wikiwand](https://www.wikiwand.com/en/SRV_record)
+[TXT record - Wikiwand](https://omni.wikiwand.com/en/TXT_record)
+[SRV record - Wikiwand](https://omni.wikiwand.com/en/SRV_record)
 
-[SOA](https://www.wikiwand.com/en/SOA_record) Start of Authority
+[SOA](https://omni.wikiwand.com/en/SOA_record) Start of Authority
 NS Name Server
 
 ### Glue Records
@@ -173,7 +176,9 @@ Server Name Identification (SNI), a technology used by servers hosting multiple 
 ## Registrars
 
 [Hover - domain name and email management made simple](https://www.hover.com/)
+[Domain Name Search – Check and Buy a Domain In Minutes](https://www.hostinger.com/domain-name-search)
 [Namecheap.com • Cheap Domain Name Registration & Web Hosting](https://www.namecheap.com/)
+[Cheap Domain Names & Web Hosting Starting at $0.99! | NameSilo](https://www.namesilo.com/)
 [香港域名註冊有限公司](https://www.hkdnr.hk/zho/home-zho/)
 
 [Freenom - A Name for Everyone](https://www.freenom.com/en/index.html?lang=en) many TLDs, at most one year
@@ -209,13 +214,23 @@ Server Name Identification (SNI), a technology used by servers hosting multiple 
 
 ### DDNS
 
-[Free Dynamic DNS - No-IP.com - Managed DNS Services](http://www.noip.com/free)
 [5 Best Dynamic DNS Providers You Can Lookup for Free Today](http://www.makeuseof.com/tag/5-best-dynamic-dns-providers-can-lookup-free-today/)
-[花生壳官网|动态域名|免费域名建站|DDNS|向日葵远程控制|蒲公英路由器-Oray 开放的互联网应用服务引领者](http://www.oray.com/)
 
-[xip.io: wildcard DNS for everyone](http://xip.io/) resolves `[*.]<IP>.xip.io` to `<IP>`.
+[nip.io - wildcard DNS for any IP Address](https://nip.io/) resolves `[*.]<IP>.xip.io` to `<IP>`.
 
-[Duck DNS](https://www.duckdns.org/)
+[Freenom - A Name for Everyone](https://www.freenom.com/en/index.html) domain
+
+[Free dynamic DNS service | Dynu Systems, Inc.](https://www.dynu.com/) domain and subdomain
+
+[FreeDNS - Free DNS - Dynamic DNS - Static DNS subdomain and domain hosting](https://freedns.afraid.org/) domain and subdomain
+
+[Free Dynamic DNS - No-IP.com - Managed DNS Services](http://www.noip.com/free) subdomain
+
+[Duck DNS](https://www.duckdns.org/) subdomain
+
+[Free dynamic DNS for IPv6](https://dynv6.com/) subdomain
+
+[贝锐花生壳内网穿透|ddns动态域名解析|端口映射工具-贝锐花生壳官网](https://hsk.oray.com/)
 
 [DDNS - Debian Wiki](https://wiki.debian.org/DDNS)
 [Linux-Fu: Your Own Dynamic DNS | Hackaday](https://hackaday.com/2020/08/25/linux-fu-your-own-dynamic-dns/)
@@ -227,7 +242,7 @@ Server Name Identification (SNI), a technology used by servers hosting multiple 
 [Linux DNS Server - How To Set Up Static or Dynamic DNS for Your Internet Servers](http://www.aboutdebian.com/dns.htm)
 
 [BIND 9 Open Source DNS Server | Internet Systems Consortium](https://www.isc.org/downloads/bind/)
-[BIND - Wikiwand](https://www.wikiwand.com/en/BIND)
+[BIND - Wikiwand](https://omni.wikiwand.com/en/BIND)
 [Deploying a DNS Server using Docker - SAMEER NAIK](http://www.damagehead.com/blog/2015/04/28/deploying-a-dns-server-using-docker/)
 [sameersbn/docker-bind: Dockerize BIND DNS server with webmin for DNS administration](https://github.com/sameersbn/docker-bind)
 [You want a real DNS Server at home? (bind9 + docker) - YouTube](https://www.youtube.com/watch?v=syzwLwE3Xq4)
@@ -268,7 +283,7 @@ Server Name Identification (SNI), a technology used by servers hosting multiple 
 
 > ensure the authoritative name servers can be trusted, preventing cache-poisoning attack
 
-[Domain Name System Security Extensions - Wikiwand](https://www.wikiwand.com/en/Domain_Name_System_Security_Extensions)
+[Domain Name System Security Extensions - Wikiwand](https://omni.wikiwand.com/en/Domain_Name_System_Security_Extensions)
 [How DNSSEC Works | Cloudflare](https://www.cloudflare.com/dns/dnssec/how-dnssec-works/)
 [DNSSEC – What Is It and Why Is It Important? - ICANN](https://www.icann.org/resources/pages/dnssec-what-is-it-why-important-2019-03-05-en)
 

@@ -2,7 +2,7 @@
 title: Solid.js
 description: ""
 created: 2022-08-23
-updated: 2023-09-29
+updated: 2024-05-26
 tags:
   - frontend
   - javascript
@@ -66,3 +66,9 @@ npx degit solidjs/templates/ts ts-demo
 [Introducing SolidStart w/ Nikhil Saraf - YouTube](https://www.youtube.com/watch?v=eAwuPvRXNdY)
 [a solid start - YouTube](https://www.youtube.com/watch?v=DVWu2b7mvFg)
 [STREAM VOD: SOLID START SHIPPED!!! CHAT W/ RYAN CARNIATO - YouTube](https://www.youtube.com/watch?v=hSECorasSK8) 2022-11
+
+[SolidStart 1.0: The Shape of Frameworks to Come | SolidJS](https://www.solidjs.com/blog/solid-start-the-shape-frameworks-to-come)
+[The First Post-React Framework Just Launched - YouTube](https://www.youtube.com/watch?v=Zgrm7reyc_A) 2024-05, 1.0
+
+[SolidStart Beta 2 · solidjs/solid-start · Discussion #1052 · GitHub](https://github.com/solidjs/solid-start/discussions/1052)
+[Solid.js Just Got WAY Better - YouTube](https://www.youtube.com/watch?v=BB2a_LAdZn8) 2023-12, 1.0-beta2

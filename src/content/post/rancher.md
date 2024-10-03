@@ -2,7 +2,7 @@
 title: Rancher
 description: ""
 created: 2014-12-11
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - container
   - devops

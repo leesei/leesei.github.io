@@ -2,7 +2,7 @@
 title: World History
 description: ""
 created: 2015-10-09
-updated: 2023-11-26
+updated: 2024-08-14
 tags:
   - history
   - history/world
@@ -45,9 +45,9 @@ tags:
 [The Armchair Historian - YouTube](https://www.youtube.com/@TheArmchairHistorian)
 [History Hit - YouTube](https://www.youtube.com/@HistoryHit)
 
-[Category:World history - Wikiwand](https://www.wikiwand.com/en/Category:World_history)
-[History of the world - Wikiwand](https://www.wikiwand.com/en/History_of_the_world)
-[Ancient history - Wikiwand](https://www.wikiwand.com/en/Ancient_history)
+[Category:World history - Wikiwand](https://omni.wikiwand.com/en/Category:World_history)
+[History of the world - Wikiwand](https://omni.wikiwand.com/en/History_of_the_world)
+[Ancient history - Wikiwand](https://omni.wikiwand.com/en/Ancient_history)
 
 [世界史（指有人类以来地球上历史的总和）\_百度百科](https://baike.baidu.com/item/%E4%B8%96%E7%95%8C%E5%8F%B2/82114)
 [古代史\_百度百科](https://baike.baidu.com/item/%E5%8F%A4%E4%BB%A3%E5%8F%B2/3383424)
@@ -104,39 +104,39 @@ crude but true facts
 
 ## Human timeline
 
-[Timeline of human evolution - Wikiwand](https://www.wikiwand.com/en/Timeline_of_human_evolution#/Hominini)
-[人类演化历程 - Wikiwand](https://www.wikiwand.com/zh/%E4%BA%BA%E7%B1%BB%E6%BC%94%E5%8C%96%E5%8E%86%E7%A8%8B)
-[Recent African origin of modern humans - Wikiwand](https://www.wikiwand.com/en/Recent_African_origin_of_modern_humans)
-[人类单地起源说 - Wikiwand](https://www.wikiwand.com/zh/%E4%BA%BA%E7%B1%BB%E5%8D%95%E5%9C%B0%E8%B5%B7%E6%BA%90%E8%AF%B4)
+[Timeline of human evolution - Wikiwand](https://omni.wikiwand.com/en/Timeline_of_human_evolution#/Hominini)
+[人类演化历程 - Wikiwand](https://omni.wikiwand.com/zh/%E4%BA%BA%E7%B1%BB%E6%BC%94%E5%8C%96%E5%8E%86%E7%A8%8B)
+[Recent African origin of modern humans - Wikiwand](https://omni.wikiwand.com/en/Recent_African_origin_of_modern_humans)
+[人类单地起源说 - Wikiwand](https://omni.wikiwand.com/zh/%E4%BA%BA%E7%B1%BB%E5%8D%95%E5%9C%B0%E8%B5%B7%E6%BA%90%E8%AF%B4)
 [「伊甸園」在非洲的基因證據！Y 染色體亞當和線粒體夏娃分別是誰？【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=ah6ZNfi5trQ)
 [人類比黑猩猩少一對染色體，會推翻進化論嗎？被插入的基因到底是什麼？詳解 2 號染色體之謎【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=7zt0fLHJDBA)
 
-[Prehistory - Wikiwand](https://www.wikiwand.com/en/Prehistory)
-[Protohistory - Wikiwand](https://www.wikiwand.com/en/Protohistory)
-[Ancient history - Wikiwand](https://www.wikiwand.com/en/Ancient_history)
-[Prehistoric technology - Wikiwand](https://www.wikiwand.com/en/Prehistoric_technology)
-[Three-age system - Wikiwand](https://www.wikiwand.com/en/Three-age_system)
+[Prehistory - Wikiwand](https://omni.wikiwand.com/en/Prehistory)
+[Protohistory - Wikiwand](https://omni.wikiwand.com/en/Protohistory)
+[Ancient history - Wikiwand](https://omni.wikiwand.com/en/Ancient_history)
+[Prehistoric technology - Wikiwand](https://omni.wikiwand.com/en/Prehistoric_technology)
+[Three-age system - Wikiwand](https://omni.wikiwand.com/en/Three-age_system)
 
-[Ice age - Wikiwand](https://www.wikiwand.com/en/Ice_age)
-When the last Ice Age ended around 10000B.C., human begin to migrate from hunter-gatherers to [agriculture](https://www.wikiwand.com/en/History_of_agriculture) and [husbandry](https://www.wikiwand.com/en/Animal_husbandry#/History) in Neolithic.
-[Stone Age - Wikiwand](https://www.wikiwand.com/en/Stone_Age) [石器時代 - Wikiwand](https://www.wikiwand.com/zh/%E7%9F%B3%E5%99%A8%E6%99%82%E4%BB%A3) 3.4Ma B.C.-8700B.C. and 2000B.C.
+[Ice age - Wikiwand](https://omni.wikiwand.com/en/Ice_age)
+When the last Ice Age ended around 10000B.C., human begin to migrate from hunter-gatherers to [agriculture](https://omni.wikiwand.com/en/History_of_agriculture) and [husbandry](https://omni.wikiwand.com/en/Animal_husbandry#/History) in Neolithic.
+[Stone Age - Wikiwand](https://omni.wikiwand.com/en/Stone_Age) [石器時代 - Wikiwand](https://omni.wikiwand.com/zh/%E7%9F%B3%E5%99%A8%E6%99%82%E4%BB%A3) 3.4Ma B.C.-8700B.C. and 2000B.C.
 
-- [Paleolithic - Wikiwand](https://www.wikiwand.com/en/Paleolithic) [旧石器时代 - Wikiwand](https://www.wikiwand.com/zh/%E6%97%A7%E7%9F%B3%E5%99%A8%E6%97%B6%E4%BB%A3)
-- [Lower Paleolithic - Wikiwand](https://www.wikiwand.com/en/Lower_Paleolithic)
-- [Middle Paleolithic - Wikiwand](https://www.wikiwand.com/en/Middle_Paleolithic)
-- [Upper Paleolithic - Wikiwand](https://www.wikiwand.com/en/Upper_Paleolithic)
-- [Mesolithic - Wikiwand](https://www.wikiwand.com/en/Mesolithic) [中石器時代 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%AD%E7%9F%B3%E5%99%A8%E6%99%82%E4%BB%A3)
-- [Pre-Pottery Neolithic - Wikiwand](https://www.wikiwand.com/en/Pre-Pottery_Neolithic) 10000-6500B.C.
-- [Neolithic - Wikiwand](https://www.wikiwand.com/en/Neolithic) [新石器时代 - Wikiwand](https://www.wikiwand.com/zh/%E6%96%B0%E7%9F%B3%E5%99%A8%E6%97%B6%E4%BB%A3) 10000-5000B.C. and 2000B.C.
+- [Paleolithic - Wikiwand](https://omni.wikiwand.com/en/Paleolithic) [旧石器时代 - Wikiwand](https://omni.wikiwand.com/zh/%E6%97%A7%E7%9F%B3%E5%99%A8%E6%97%B6%E4%BB%A3)
+- [Lower Paleolithic - Wikiwand](https://omni.wikiwand.com/en/Lower_Paleolithic)
+- [Middle Paleolithic - Wikiwand](https://omni.wikiwand.com/en/Middle_Paleolithic)
+- [Upper Paleolithic - Wikiwand](https://omni.wikiwand.com/en/Upper_Paleolithic)
+- [Mesolithic - Wikiwand](https://omni.wikiwand.com/en/Mesolithic) [中石器時代 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%AD%E7%9F%B3%E5%99%A8%E6%99%82%E4%BB%A3)
+- [Pre-Pottery Neolithic - Wikiwand](https://omni.wikiwand.com/en/Pre-Pottery_Neolithic) 10000-6500B.C.
+- [Neolithic - Wikiwand](https://omni.wikiwand.com/en/Neolithic) [新石器时代 - Wikiwand](https://omni.wikiwand.com/zh/%E6%96%B0%E7%9F%B3%E5%99%A8%E6%97%B6%E4%BB%A3) 10000-5000B.C. and 2000B.C.
   [野外求生必學！如何用「石頭」製作成工具？How to Make Stone Tools in a Survival Situation ｜科普長知識｜ GQ Taiwan - YouTube](https://www.youtube.com/watch?v=_fqDGZCT2fg&t=0s)
 
-[Bronze Age - Wikiwand](https://www.wikiwand.com/en/Bronze_Age) [青铜时代 - Wikiwand](https://www.wikiwand.com/zh/%E9%9D%92%E9%93%9C%E6%97%B6%E4%BB%A3)
+[Bronze Age - Wikiwand](https://omni.wikiwand.com/en/Bronze_Age) [青铜时代 - Wikiwand](https://omni.wikiwand.com/zh/%E9%9D%92%E9%93%9C%E6%97%B6%E4%BB%A3)
 
 - 3300–1200B.C. in Africa, Near East and India
 - 3200–600B.C. in Europe
 - 3100–600B.C. in East Asia
 
-[Iron Age - Wikiwand](https://www.wikiwand.com/en/Iron_Age) [铁器时代 - Wikiwand](https://www.wikiwand.com/zh/%E9%93%81%E5%99%A8%E6%97%B6%E4%BB%A3)
+[Iron Age - Wikiwand](https://omni.wikiwand.com/en/Iron_Age) [铁器时代 - Wikiwand](https://omni.wikiwand.com/zh/%E9%93%81%E5%99%A8%E6%97%B6%E4%BB%A3)
 
 - 1200–550B.C. in Africa, Near East
 - 500B.C.-300A.D. in East Asia
@@ -144,7 +144,7 @@ When the last Ice Age ended around 10000B.C., human begin to migrate from hunter
 
 ## Magna Carta
 
-[Magna Carta - Wikiwand](https://www.wikiwand.com/en/Magna_Carta) created at 1215
+[Magna Carta - Wikiwand](https://omni.wikiwand.com/en/Magna_Carta) created at 1215
 the first law to restrict how much tax can the government collect from its people
 
 [Nicholas Vincent on the Magna Carta | EconTalk | Library of Economics and Liberty](http://www.econtalk.org/archives/2015/05/nicholas_vincen.html)

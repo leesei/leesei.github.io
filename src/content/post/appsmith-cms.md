@@ -2,7 +2,7 @@
 title: Appsmith
 description: ""
 created: 2023-04-30
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - cms
 ---

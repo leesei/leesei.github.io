@@ -2,7 +2,7 @@
 title: Oxymoron
 description: Contradictory ideas put in a phrase
 created: 2023-03-30
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - english
 ---

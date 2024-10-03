@@ -2,15 +2,15 @@
 title: File Systems
 description: ""
 created: 2015-05-20
-updated: 2023-11-20
+updated: 2024-08-14
 tags:
   - file-system
   - linux
   - storage
 ---
 
-[File system - Wikiwand](http://www.wikiwand.com/en/File_system)
-[List of file systems - Wikiwand](https://www.wikiwand.com/en/List_of_file_systems)
+[File system - Wikiwand](http://omni.wikiwand.com/en/File_system)
+[List of file systems - Wikiwand](https://omni.wikiwand.com/en/List_of_file_systems)
 
 [Part I. File Systems](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/Storage_Administration_Guide/part-file-systems.html)
 [Virtual filesystems: Why we need them and how they work | Opensource.com](https://opensource.com/article/19/3/virtual-filesystems-linux)
@@ -23,13 +23,13 @@ tags:
 
 [Explaining File Systems: NTFS, exFAT, FAT32, ext4 & More - YouTube](https://www.youtube.com/watch?v=_h30HBYxtws)
 
-[Be File System - Wikiwand](http://www.wikiwand.com/en/Be_File_System)
-[exFAT - Wikiwand](http://www.wikiwand.com/en/ExFAT)
-[ext4 - Wikiwand](http://www.wikiwand.com/en/Ext4)
-[F2FS - Wikiwand](http://www.wikiwand.com/en/F2FS)
-[HFS Plus - Wikiwand](http://www.wikiwand.com/en/HFS_Plus)
-[NILFS - Wikiwand](http://www.wikiwand.com/en/NILFS)
-[NTFS - Wikiwand](http://www.wikiwand.com/en/NTFS)
+[Be File System - Wikiwand](http://omni.wikiwand.com/en/Be_File_System)
+[exFAT - Wikiwand](http://omni.wikiwand.com/en/ExFAT)
+[ext4 - Wikiwand](http://omni.wikiwand.com/en/Ext4)
+[F2FS - Wikiwand](http://omni.wikiwand.com/en/F2FS)
+[HFS Plus - Wikiwand](http://omni.wikiwand.com/en/HFS_Plus)
+[NILFS - Wikiwand](http://omni.wikiwand.com/en/NILFS)
+[NTFS - Wikiwand](http://omni.wikiwand.com/en/NTFS)
 
 [marook/tagfs](https://github.com/marook/tagfs)
 [NHFS - Nonhierarchical File System - 0815 Blog](https://rffr.de/nhfs-nonhierarchical-file-system/)
@@ -60,7 +60,7 @@ tags:
 ### bcachefs
 
 [The bcachefs filesystem [LWN.net]](https://lwn.net/Articles/655366/)
-[bcache - Wikiwand](https://www.wikiwand.com/en/Bcache)
+[bcache - Wikiwand](https://omni.wikiwand.com/en/Bcache)
 [Bcachefs](https://bcache.evilpiepirate.org/Bcachefs/)
 
 [Linux File Systems: Heading Toward Btrfs | Learning Tree Blog](https://blog.learningtree.com/linux-file-systems-heading-toward-btrfs/)
@@ -71,7 +71,7 @@ tags:
 
 ### Btrfs
 
-[Btrfs - Wikiwand](http://www.wikiwand.com/en/Btrfs)
+[Btrfs - Wikiwand](http://omni.wikiwand.com/en/Btrfs)
 
 Btrfs is not stable for use outside a test system.
 [btrfs Meltdown | LUP 87 | Jupiter Broadcasting](http://www.jupiterbroadcasting.com/80097/btrfs-meltdown-lup-87/)
@@ -79,16 +79,19 @@ Btrfs is not stable for use outside a test system.
 
 ### XFS
 
-[XFS - Wikiwand](http://www.wikiwand.com/en/XFS)
+[XFS - Wikiwand](http://omni.wikiwand.com/en/XFS)
 [XFS: There and back ... and there again? [LWN.net]](http://lwn.net/Articles/638546/)
 [Linux File Systems Part Two: The XFS File System | Learning Tree Blog](https://blog.learningtree.com/linux-file-systems-part-two-the-xfs-file-system/)
 
 ### ZFS
 
-[ZFS - Wikiwand](http://www.wikiwand.com/en/ZFS)
+[ZFS - Wikiwand](http://omni.wikiwand.com/en/ZFS)
 ZFS provides bitrot protection.
 
 [ZFS on Linux](http://zfsonlinux.org/)
+
+[OpenZFS Documentation — OpenZFS documentation](https://openzfs.github.io/openzfs-docs/)
+[openzfs/zfs: OpenZFS on Linux and FreeBSD](https://github.com/openzfs/zfs)
 
 ["The ZFS filesystem" - Philip Paeps (LCA 2020) - YouTube](https://www.youtube.com/watch?v=Hjpqa_kjCOI) configure ZFS on OSX
 [What Is ZFS?: A Brief Primer - YouTube](https://www.youtube.com/watch?v=lsFDp-W1Ks0)
@@ -115,21 +118,25 @@ ZFS provides bitrot protection.
 
 ### techniques/internals
 
-[inode - Wikiwand](https://www.wikiwand.com/en/Inode)
+[inode - Wikiwand](https://omni.wikiwand.com/en/Inode)
 [Intro to Inodes | Linux.org](http://www.linux.org/threads/intro-to-inodes.4130/)
 [LINUX Understanding inodes - YouTube](https://www.youtube.com/watch?v=_6VJ8WfWI4k)
 [Detailed Understanding Of Linux Inodes With Example](https://linoxide.com/linux-command/linux-inode/)
 [inode and its structure in linux](https://www.slashroot.in/inode-and-its-structure-linux)
 Check inode usage: `df -i`
+
+[Journal File System | Linux.org](https://www.linux.org/threads/journal-file-system.8630/)
+[Journaling file system - Wikiwand](http://omni.wikiwand.com/en/Journaling_file_system)
+
 [Is the file table in the filesystem or in memory? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/21325/is-the-file-table-in-the-filesystem-or-in-memory)
 
 [Hard and Soft Links in Linux - YouTube](https://www.youtube.com/watch?v=kYonC93SvpE)
 
-[Intro to Extents | Linux.org](http://www.linux.org/threads/intro-to-extents.4131/)
-[Journal File System | Linux.org](http://www.linux.org/threads/journal-file-system.4136/)
-[Journaling file system - Wikiwand](http://www.wikiwand.com/en/Journaling_file_system)
-[Direct I/O | Linux.org](http://www.linux.org/threads/direct-i-o.4230/)
-[Extent (file systems) - Wikiwand](<https://www.wikiwand.com/en/Extent_(file_systems)>)
+[Direct I/O | Linux.org](https://www.linux.org/threads/direct-i-o.8705/)
+[Intro to Extents | Linux.org](https://www.linux.org/threads/intro-to-extents.8625/)
+[Extent (file systems) - Wikiwand](<https://omni.wikiwand.com/en/Extent_(file_systems)>)
+
+[Linux文件系统详解 - pipci - 博客园](https://www.cnblogs.com/pipci/p/11563028.html)
 
 [Ext4 Wiki](https://ext4.wiki.kernel.org/index.php/Main_Page)
 
@@ -142,7 +149,7 @@ Check inode usage: `df -i`
 
 ## Linux LVM
 
-[Logical Volume Manager (Linux) - Wikiwand](<https://www.wikiwand.com/en/Logical_Volume_Manager_(Linux)>)
+[Logical Volume Manager (Linux) - Wikiwand](<https://omni.wikiwand.com/en/Logical_Volume_Manager_(Linux)>)
 
 [LVM - ArchWiki](https://wiki.archlinux.org/title/LVM)
 [Software RAID and LVM - ArchWiki](https://wiki.archlinux.org/title/Software_RAID_and_LVM)
@@ -158,6 +165,33 @@ Check inode usage: `df -i`
 [Recovery of LVM partitions](http://www.softpanorama.org/Commercial_linuxes/LVM/recovery_of_lvm_partitions.shtml)
 
 [Restoring LVM volumes | Jethro Carr](https://www.jethrocarr.com/2013/11/23/restoring-lvm-volumes/)
+
+[LVM快照 - pipci - 博客园](https://www.cnblogs.com/pipci/p/11568861.html)
+[LVM管理 - pipci - 博客园](https://www.cnblogs.com/pipci/p/11477111.html)
+[Linux系统中的Device Mapper学习 - pipci - 博客园](https://www.cnblogs.com/pipci/p/11419949.html)
+[Linux 内核中的 Device Mapper 机制 - pipci - 博客园](https://www.cnblogs.com/pipci/p/11419737.html)
+
+## File System integrity
+
+### dm-crypt
+
+> block level, depends on TPM
+
+[dm-crypt - Wikiwand](https://omni.wikiwand.com/en/Dm-crypt)
+
+### dm-verity
+
+> block level, depends on [[boot#Secure boot]]
+
+[dm-verity — The Linux Kernel documentation](https://docs.kernel.org/admin-guide/device-mapper/verity.html)
+[An Introduction to Dm-verity in Embedded Device Security — Star Lab Software](https://www.starlab.io/blog/dm-verity-in-embedded-device-security)
+[Implementing dm-verity  |  Android Open Source Project](https://source.android.com/docs/security/features/verifiedboot/dm-verity)
+
+### IMA/EVM
+
+> file level, depends on [[boot#Secure boot]]
+
+[Integrity Measurement Architecture (IMA) / Wiki / Home](https://sourceforge.net/p/linux-ima/wiki/Home/)
 
 ## FUSE
 

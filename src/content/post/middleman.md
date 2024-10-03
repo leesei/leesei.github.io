@@ -2,7 +2,7 @@
 title: Middleman
 description: ""
 created: 2016-04-12
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - economics
 ---

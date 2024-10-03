@@ -2,7 +2,7 @@
 title: d3.js
 description: ""
 created: 2016-04-08
-updated: 2023-11-10
+updated: 2023-12-01
 tags:
   - d3-js
   - web

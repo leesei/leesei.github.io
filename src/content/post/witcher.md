@@ -2,7 +2,7 @@
 title: Witcher
 description: ""
 created: 2023-08-13
-updated: 2023-11-26
+updated: 2024-09-28
 tags:
   - games
   - witcher
@@ -66,6 +66,7 @@ Leya 蕾雅
 [Witcher 3: Details You Missed - YouTube](https://www.youtube.com/playlist?list=PLMpNwDjXWh0wH-pQvAeulaTXA7_mgbt8Y)
 [The Witcher 3 ULTIMATE Beginners Guide 2022 - YouTube](https://www.youtube.com/watch?v=TGrc-N3Qu0E)
 
+[【巫師3】全網最詳細的新手指南 | 4K #巫師3 #witcher3 #wildhunt - YouTube](https://www.youtube.com/watch?v=70wji80f4t8)
 [Things I Wish I Knew Earlier In The Witcher 3 Wild Hunt (Tips & Tricks) - YouTube](https://www.youtube.com/watch?v=kAkiXJsFKs8)
 
 [The Witcher 3 Wiki Guide - IGN](https://www.ign.com/wikis/the-witcher-3-wild-hunt/)

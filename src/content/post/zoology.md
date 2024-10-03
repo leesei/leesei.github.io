@@ -2,7 +2,7 @@
 title: Zoology
 description: Scientific study of the animals kingdom
 created: 2021-10-30
-updated: 2023-11-19
+updated: 2024-09-28
 tags:
   - animals
   - biology
@@ -10,7 +10,7 @@ tags:
   - science
 ---
 
-[Zoology - Wikiwand](https://www.wikiwand.com/en/zoology)
+[Zoology - Wikiwand](https://omni.wikiwand.com/en/zoology)
 
 Bilaterians 兩側對稱動物
 
@@ -18,7 +18,7 @@ Bilaterians 兩側對稱動物
 - Arthropoda
 - Chordata (Vertebrates)
   -- Mammalia
-  --- [Eutheria - Wikiwand](https://www.wikiwand.com/en/Eutheria), [真獸下綱 - Wikiwand](https://www.wikiwand.com/zh-hant/%E7%9C%9F%E7%8D%B8%E4%B8%8B%E7%B6%B1)
+  --- [Eutheria - Wikiwand](https://omni.wikiwand.com/en/Eutheria), [真獸下綱 - Wikiwand](https://omni.wikiwand.com/zh/%E7%9C%9F%E7%8D%B8%E4%B8%8B%E7%B6%B1)
 
 [Medieval Bestiary : Animals in the Middle Ages](https://bestiary.ca/)
 
@@ -43,6 +43,11 @@ Bilaterians 兩側對稱動物
 [Insane Biology - YouTube](https://www.youtube.com/playlist?list=PLAzuPFpwy9ZLIG5hDwjGyccJr6FpTsrEr)
 [Spy in the Wild - YouTube](https://www.youtube.com/playlist?list=PL90D7QgJXvhGZJtmV3e-VODd3TXcpMAHb)
 [Mimicry - When Animals Copy Other Animals - YouTube](https://www.youtube.com/watch?v=KHxGA6d204I) Batesian Mimicry, Mullerian Mimicry
+
+[Animal Origins - YouTube](https://www.youtube.com/@animalorigins)
+[The Evolution of Mammals (Every Mammal Family Explained) - YouTube](https://www.youtube.com/watch?v=STHu4dESJH0)
+[The Evolution of Seals, Sea Lions, and Walruses - YouTube](https://www.youtube.com/watch?v=5UpYNKNwzSI)
+[The Evolution of the Monkey - YouTube](https://www.youtube.com/watch?v=FqTZljHqhtw)
 
 [Insane Biology - YouTube](https://www.youtube.com/playlist?list=PLAzuPFpwy9ZLIG5hDwjGyccJr6FpTsrEr) Real Science
 [那些神奇的生物 - YouTube](https://www.youtube.com/playlist?list=PLwSXERWUG_xSR1_Xn9wpX80UP2OJtsM1U) 老肉雜談
@@ -80,11 +85,23 @@ Stork vs Pelican
 
 > The following section are usually on Family 科
 
+## Tardigrades (Water Bear)
+
+[We FINALLY Understand Why Tardigrades Refuse to Die - YouTube](https://www.youtube.com/watch?v=zV2wIfDzFMk)
+Turn unto _tun_ under extreme conditions (cryptobiosis)
+
+[Tardigrades | American Scientist](https://www.americanscientist.org/article/tardigrades)
+[Everything you need (and want) to know about tardigrades](https://frontlinegenomics.com/everything-you-need-and-want-to-know-about-tardigrades/)
+
 ## Primates
 
 [The Evolution of Primates is a CRAZY Story - YouTube](https://www.youtube.com/watch?v=T8dHHkZOd3k)
 
 ### Old World Monkey
+
+[Old World monkey - Wikiwand](https://omni.wikiwand.com/en/Old_World_monkey)
+Family Cercopithecoidea
+Larger noses, downwards pointing nostrils
 
 Baboon 狒狒; Mandrill 狒狒
 
@@ -95,6 +112,10 @@ Baboon 狒狒; Mandrill 狒狒
 [BABOON VS MANDRILL - Which is the strongest monkey? - YouTube](https://www.youtube.com/watch?v=dXaT4Uw4cAo)
 
 ### New World Monkey
+
+[New World monkey - Wikiwand](https://omni.wikiwand.com/en/New_World_monkey)
+Order Platyrrhini
+Flat noses, sideways pointing nostrils
 
 美洲, 温順, 素食, 佔松鼠生態位
 
@@ -149,6 +170,10 @@ Myomorpha 鼠形亞目
 
 [豪豬能改變獅子命運？察沃食人魔事件隱藏的秘密，不愧是非洲第一刺客！【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=NwEN3Klu1p0)
 
+Capybara
+[把鰐魚當坐騎，帶頭反擊人類社區，世界上最有親和力的動物——水豚capybara【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=oKkzMJ8ndyU)
+[水豚：一種平靜之力的圖騰，為什麼大家都選擇『皈依豚門』？情緒穩定，保持淡定，也許是大自然的生存之道……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=akY4qMeUrTM)
+
 [Should I Get Hamster or Guinea Pig? | Guinea Pig vs Hamster – GuineaDad](https://guineadad.com/blogs/news/guinea-pigs-vs-hamsters-differences-between-our-furry-friends)
 [Guinea Pig Vs. Hamster: 6 Key Differences To Know, According To A Vet - DodoWell - The Dodo](https://www.thedodo.com/dodowell/guinea-pig-vs-hamster)
 
@@ -162,8 +187,8 @@ Muskrats vs Beaver
 hydra 水螅, actiniaria 海葵, jellyfish 水母, coral 珊瑚
 with stings, budding (self-reproduction), some are hermaphrodite
 
-[Cnidaria - Wikiwand](https://www.wikiwand.com/en/Cnidaria)
-[刺胞動物門 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%88%BA%E8%83%9E%E5%8B%95%E7%89%A9%E9%96%80)
+[Cnidaria - Wikiwand](https://omni.wikiwand.com/en/Cnidaria)
+[刺胞動物門 - Wikiwand](https://omni.wikiwand.com/zh/%E5%88%BA%E8%83%9E%E5%8B%95%E7%89%A9%E9%96%80)
 
 [【鬼谷闲谈】由癌细胞演化成的动物？ - YouTube](https://www.youtube.com/watch?v=4ErBu5eiH04)
 
@@ -173,8 +198,8 @@ with stings, budding (self-reproduction), some are hermaphrodite
 
 ### Palaeognathae (~= non-flying birds)
 
-[Palaeognathae - Wikiwand](https://www.wikiwand.com/en/Palaeognathae)
-[古顎類 - Wikiwand](https://www.wikiwand.com/zh-hk/%E5%8F%A4%E9%A2%9A%E7%B1%BB)
+[Palaeognathae - Wikiwand](https://omni.wikiwand.com/en/Palaeognathae)
+[古顎類 - Wikiwand](https://omni.wikiwand.com/zh-hk/%E5%8F%A4%E9%A2%9A%E7%B1%BB)
 
 [【鬼谷说】古颚类：最后的龙兽争霸 - YouTube](https://www.youtube.com/watch?v=xmIsm-btxoA)
 
@@ -186,7 +211,7 @@ with stings, budding (self-reproduction), some are hermaphrodite
 
 > crows, ravens and rooks
 
-[Corvus - Wikiwand](https://www.wikiwand.com/en/Corvus)
+[Corvus - Wikiwand](https://omni.wikiwand.com/en/Corvus)
 no consistent distinction between "crows" and "ravens"
 generally crows are smaller than ravens
 
@@ -197,10 +222,10 @@ generally crows are smaller than ravens
 
 ### Accipitridae (raptors)
 
-[Accipitridae - Wikiwand](https://www.wikiwand.com/en/Accipitridae)
-[Eagle - Wikiwand](https://www.wikiwand.com/en/Eagle)
-[Falcon - Wikiwand](https://www.wikiwand.com/en/Falcon)
-[Hawk - Wikiwand](https://www.wikiwand.com/en/Hawk)
+[Accipitridae - Wikiwand](https://omni.wikiwand.com/en/Accipitridae)
+[Eagle - Wikiwand](https://omni.wikiwand.com/en/Eagle)
+[Falcon - Wikiwand](https://omni.wikiwand.com/en/Falcon)
+[Hawk - Wikiwand](https://omni.wikiwand.com/en/Hawk)
 
 [Bird of Prey - YouTube](https://www.youtube.com/watch?v=onvsjQUjTIc)
 [Birds of Prey for Kids - Raptors : Eagle, Owl, Vulture, Hawk, Falcon Nature HD Documentary - YouTube](https://www.youtube.com/watch?v=Th-bO1hTmvc)
@@ -213,31 +238,42 @@ generally crows are smaller than ravens
 [Eagle vs. Hawk vs. Falcon: What’s the Difference? – More Birds](https://morebirds.com/blogs/news/eagle-vs-hawk-vs-falcon-what-s-the-difference)
 [Eagle vs. Hawk](https://www.softschools.com/difference/eagle_vs_hawk/171/)
 
+[貓頭鷹晚上到底多恐怖？為什麼飛行不會發出聲音？牠們的耳朵竟有個驚天大秘密！【老肉雜談】#動物 #野生動物 #鳥 #貓頭鷹 #owl #birds - YouTube](https://www.youtube.com/watch?v=S6XItwN2UQ0)
+
 ## There's no such thing as a fish (fish)
 
-[Osteichthyes - Wikiwand](https://www.wikiwand.com/en/Osteichthyes) bony fish, Actinopterygii and Sarcopterygii
-[硬骨魚 - Wikiwand](https://www.wikiwand.com/zh-hant/%E7%A1%AC%E9%AA%A8%E9%AD%9A)
+[Osteichthyes - Wikiwand](https://omni.wikiwand.com/en/Osteichthyes) bony fish, Actinopterygii and Sarcopterygii
+[硬骨魚 - Wikiwand](https://omni.wikiwand.com/zh/%E7%A1%AC%E9%AA%A8%E9%AD%9A)
+
+[【鬼谷说】鲇形目：数值怪的养成之道 - YouTube](https://www.youtube.com/watch?v=7cBMiuzNFgs)
+
+### 三文魚
+
+[三文魚：真假三文魚？寄生蟲？長白山水怪？黃海冷水團？原來你是這樣的魚……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=Qc0gkU6Tphs)
+[虹鱒冒充鮭魚? 超市、buffet吃到飽的鮭魚會是假的嗎? 日語サケ和サーモン裡不一樣呢? 三文魚 大西洋鮭 太平洋鮭 帝王鮭 淡水養殖三倍體虹鱒 美食料理 海鮮海產 食品安全 寄生蟲 - YouTube](https://www.youtube.com/watch?v=FLbAQPtrSNg)
+[靠轉基因獲得強大特性，卻引發諸多爭議，「人造」大西洋鮭魚會成為超級食物嗎？轉基因三文魚【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=wOANvpEShMI)
+[中国的真假三文鱼大战：新疆“海鲜”虹鳟鱼叫国产三文鱼对不对？5年前就有答案了！ - YouTube](https://www.youtube.com/watch?v=EP7OSGgDvL0)
 
 ### Actinopterygii (ray-finned bony fish)
 
-[Actinopterygii - Wikiwand](https://www.wikiwand.com/en/Actinopterygii)
-[輻鰭魚 - Wikiwand](https://www.wikiwand.com/zh-hant/%E8%BC%BB%E9%B0%AD%E9%AD%9A)
+[Actinopterygii - Wikiwand](https://omni.wikiwand.com/en/Actinopterygii)
+[輻鰭魚 - Wikiwand](https://omni.wikiwand.com/zh/%E8%BC%BB%E9%B0%AD%E9%AD%9A)
 
 ### Sarcopterygii (lobe-finned fish)
 
-[Sarcopterygii - Wikiwand](https://www.wikiwand.com/en/Sarcopterygii)
-[肉鰭魚 - Wikiwand](https://www.wikiwand.com/zh-hant/%E8%82%89%E9%B3%8D%E9%B1%BC)
+[Sarcopterygii - Wikiwand](https://omni.wikiwand.com/en/Sarcopterygii)
+[肉鰭魚 - Wikiwand](https://omni.wikiwand.com/zh/%E8%82%89%E9%B3%8D%E9%B1%BC)
 
 ### Chondrichthyes (jawed cartilaginous fishes)
 
-[Chondrichthyes - Wikiwand](https://www.wikiwand.com/en/Chondrichthyes)
-[軟骨魚綱 - Wikiwand](https://www.wikiwand.com/zh-hant/%E8%BB%9F%E9%AA%A8%E9%AD%9A%E7%B6%B1)
+[Chondrichthyes - Wikiwand](https://omni.wikiwand.com/en/Chondrichthyes)
+[軟骨魚綱 - Wikiwand](https://omni.wikiwand.com/zh/%E8%BB%9F%E9%AA%A8%E9%AD%9A%E7%B6%B1)
 
-[全頭類 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%85%A8%E5%A4%B4%E7%B1%BB) 鮫
-[Holocephali - Wikiwand](https://www.wikiwand.com/en/Holocephali)
+[全頭類 - Wikiwand](https://omni.wikiwand.com/zh/%E5%85%A8%E5%A4%B4%E7%B1%BB) 鮫
+[Holocephali - Wikiwand](https://omni.wikiwand.com/en/Holocephali)
 
-[板鰓亞綱 - Wikiwand](https://www.wikiwand.com/zh-hant/%E6%9D%BF%E9%B3%83%E4%BA%9A%E7%BA%B2) 鯊, 鰩
-[Elasmobranchii - Wikiwand](https://www.wikiwand.com/en/Elasmobranchii)
+[板鰓亞綱 - Wikiwand](https://omni.wikiwand.com/zh/%E6%9D%BF%E9%B3%83%E4%BA%9A%E7%BA%B2) 鯊, 鰩
+[Elasmobranchii - Wikiwand](https://omni.wikiwand.com/en/Elasmobranchii)
 
 #### Selachii (sharks)
 
@@ -257,13 +293,15 @@ Batoidea (rays) 鰩總目 有"大翅膀"
 [因刺死鱷魚先生而臭名昭著，實際上卻是受害者？關於黃貂魚的那些事【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=rxN3XKKyjaE) 魟科 短尾魟 黃貂魚 Stingray, 小至大, 圓盤形, 有毒剌, 底棲
 鰩科 孔鰩 老闆魚, 最小, 食用魚, 底棲
 
+[The Insane Biology of: The Giant Manta Ray - YouTube](https://www.youtube.com/watch?v=jUxObdjZNxE)
+
 ## Carnivora 食肉目
 
 [【鬼谷说】食肉目：猫与犬之歌，权力的游戏 - YouTube](https://www.youtube.com/watch?v=T7hw60W4UD8)
 
 ## Felinae (cats)
 
-[Felinae - Wikiwand](https://www.wikiwand.com/en/Felinae)
+[Felinae - Wikiwand](https://omni.wikiwand.com/en/Felinae)
 
 [All 40 Species of Wild Cat (Organised by Lineage) - YouTube](https://www.youtube.com/watch?v=cIJkTw9OeKQ)
 
@@ -271,10 +309,12 @@ Cougar=Puma, Jaguar, Panther, Leopard 金錢豹 美洲豹
 [Puma 跟 Jaguar 到底是獅還是豹? @ 跟著幸慧去旅遊喔! :: 痞客邦 ::](https://amylinr.pixnet.net/blog/post/65073523)
 [花豹、獵豹、美洲豹、雲豹……已眼花 - 國家地理雜誌中文網](https://www.natgeomedia.com/environment/article/content-2167.html)
 
+[骨骼驚奇、天賦異稟的怪貓，叫起來像在罵街，戰鬥力堪比老虎的——猞猁！#老肉雜談 #肉識動物 - YouTube](https://www.youtube.com/watch?v=TeqMfgjxh-w) lynx
+
 ## Caninae (dogs)
 
-[Canidae - Wikiwand](https://www.wikiwand.com/en/Canidae) Caninae and two distinct subfamily
-[Caninae - Wikiwand](https://www.wikiwand.com/en/Caninae)
+[Canidae - Wikiwand](https://omni.wikiwand.com/en/Canidae) Caninae and two distinct subfamily
+[Caninae - Wikiwand](https://omni.wikiwand.com/en/Caninae)
 
 [All 15 Species of Wild Dog (Wolves, Jackals & Dogs) | Canines Pt. 1 - YouTube](https://www.youtube.com/watch?v=qFM92aMtUek)
 
@@ -303,6 +343,9 @@ New World deer: Moose, Reindeer, Roe deer
 
 ## Camelidae
 
+[The Evolution of the Camel - YouTube](https://www.youtube.com/watch?v=f3PPDn4ABys)
+[You have no idea where camels really come from | Latif Nasser - YouTube](https://www.youtube.com/watch?v=c9V6OKlY80k)
+
 Llamas 駱馬/大羊駝, Alpacas 羊駝, Guanaco 原駝, Vicuna 小羊駝
 [6 Differences Between Llamas and Alpacas - Modern Farmer](https://modernfarmer.com/2015/09/difference-between-llama-and-alpaca/)
 [What's the Difference Between a Llama and an Alpaca?](https://www.wideopenpets.com/whats-difference-llama-alpaca-quiz/)
@@ -317,24 +360,24 @@ Llamas 駱馬/大羊駝, Alpacas 羊駝, Guanaco 原駝, Vicuna 小羊駝
 
 ## Giraffidae
 
-[Giraffidae - Wikiwand](https://www.wikiwand.com/en/Giraffidae)
+[Giraffidae - Wikiwand](https://omni.wikiwand.com/en/Giraffidae)
 
 [人類最想要的超能力，有兩個在長頸鹿基因裡，最新研究讓人浮想聯翩！【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=0muuqHawKWE)
 
 ## Crocodilia
 
-[Crocodilia - Wikiwand](https://www.wikiwand.com/en/Crocodilia)
-[鱷目 - Wikiwand](https://www.wikiwand.com/zh-hant/%E9%B3%84%E7%9B%AE)
+[Crocodilia - Wikiwand](https://omni.wikiwand.com/en/Crocodilia)
+[鱷目 - Wikiwand](https://omni.wikiwand.com/zh/%E9%B3%84%E7%9B%AE)
 
-[Crocodylidae/Crocodile - Wikiwand](https://www.wikiwand.com/en/Crocodile)
-[鱷科 - Wikiwand](https://www.wikiwand.com/zh-hant/%E9%B1%B7%E7%A7%91)
-[Alligatoridae - Wikiwand](https://www.wikiwand.com/en/Alligatoridae)
+[Crocodylidae/Crocodile - Wikiwand](https://omni.wikiwand.com/en/Crocodile)
+[鱷科 - Wikiwand](https://omni.wikiwand.com/zh/%E9%B1%B7%E7%A7%91)
+[Alligatoridae - Wikiwand](https://omni.wikiwand.com/en/Alligatoridae)
 
-[短吻鱷科 - Wikiwand](https://www.wikiwand.com/zh-hant/%E7%9F%AD%E5%90%BB%E9%B3%84%E7%A7%91)
-[Alligator - Wikiwand](https://www.wikiwand.com/en/Alligator)
-[短吻鱷 - Wikiwand](https://www.wikiwand.com/zh-hant/%E7%9F%AD%E5%90%BB%E9%B1%B7) 密河鱷, 揚子鱷
-[Caiman - Wikiwand](https://www.wikiwand.com/en/Caiman)
-[凱門鱷亞科 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%87%B1%E9%96%80%E9%B1%B7%E4%BA%9E%E7%A7%91)
+[短吻鱷科 - Wikiwand](https://omni.wikiwand.com/zh/%E7%9F%AD%E5%90%BB%E9%B3%84%E7%A7%91)
+[Alligator - Wikiwand](https://omni.wikiwand.com/en/Alligator)
+[短吻鱷 - Wikiwand](https://omni.wikiwand.com/zh/%E7%9F%AD%E5%90%BB%E9%B1%B7) 密河鱷, 揚子鱷
+[Caiman - Wikiwand](https://omni.wikiwand.com/en/Caiman)
+[凱門鱷亞科 - Wikiwand](https://omni.wikiwand.com/zh/%E5%87%B1%E9%96%80%E9%B1%B7%E4%BA%9E%E7%A7%91)
 
 [Alligator vs Crocodile: All 9 Differences Explained - Everything Reptiles](https://www.everythingreptiles.com/alligator-vs-crocodile/)
 [How are alligators and crocodiles different? | Live Science](https://www.livescience.com/32144-whats-the-difference-between-alligators-and-crocodiles.html)
@@ -342,8 +385,8 @@ Llamas 駱馬/大羊駝, Alpacas 羊駝, Guanaco 原駝, Vicuna 小羊駝
 
 ## Marsupials
 
-[Marsupial - Wikiwand](https://www.wikiwand.com/en/Marsupial)
-[有袋類 - Wikiwand](https://www.wikiwand.com/zh/%E6%9C%89%E8%A2%8B%E9%A1%9E)
+[Marsupial - Wikiwand](https://omni.wikiwand.com/en/Marsupial)
+[有袋類 - Wikiwand](https://omni.wikiwand.com/zh/%E6%9C%89%E8%A2%8B%E9%A1%9E)
 [【鬼谷说】有袋类：我拿到了主角剧本却没有主角光环 - YouTube](https://www.youtube.com/watch?v=jVIN2IXwhpU)
 
 [marsupial | Definition, Characteristics, Animals, & Facts | Britannica](https://www.britannica.com/animal/marsupial)
@@ -397,15 +440,15 @@ Otter 水獭 is weasel-like carnivorous mammals. Beaver 河狸 is rodent-like ve
 
 ## Cephalopoda (Cephalopods)
 
-[Cephalopod - Wikiwand](https://www.wikiwand.com/en/Cephalopod)
-[頭足綱 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%A4%B4%E8%B6%B3%E7%BA%B2)
+[Cephalopod - Wikiwand](https://omni.wikiwand.com/en/Cephalopod)
+[頭足綱 - Wikiwand](https://omni.wikiwand.com/zh/%E5%A4%B4%E8%B6%B3%E7%BA%B2)
 
 - 鸚鵡螺亞綱 Nautiloidea
 - 菊石亞綱 Ammonoidea
 - 蛸亞綱 Coleoidea
 
-[Coleoidea - Wikiwand](https://www.wikiwand.com/en/Coleoidea)
-[蛸亞綱 - Wikiwand](https://www.wikiwand.com/zh-hant/%E8%9B%B8%E4%BA%9E%E7%B6%B1)
+[Coleoidea - Wikiwand](https://omni.wikiwand.com/en/Coleoidea)
+[蛸亞綱 - Wikiwand](https://omni.wikiwand.com/zh/%E8%9B%B8%E4%BA%9E%E7%B6%B1)
 
 Arms, like those on an octopus, have suction cups the entire length of the limb. Tentacles only have suction cups near the end of the limb. Some Cephalopods have arms, some have tentacles, and some have both!
 章魚/名八爪魚 Octopus 球形頭+8 隻腳, 會噴墨, 會偽裝
@@ -414,18 +457,20 @@ Arms, like those on an octopus, have suction cups the entire length of the limb.
 [墨魚、魷魚、章魚，你能分清楚嗎？ - 每日頭條](https://kknews.cc/news/43erpg.html)
 [章魚、墨魚、魷魚的區別，九成的廈門人都分不清！ - 每日頭條](https://kknews.cc/food/p59rmze.html)
 [烏賊，花枝，墨魚，魷魚，章魚，透抽，小卷的英文怎麼說？ | Jessie's 潔西家](https://jessiesenglish.com/2014/03/23/%E7%83%8F%E8%B3%8A%EF%BC%8C%E8%8A%B1%E6%9E%9D%EF%BC%8C%E5%A2%A8%E9%AD%9A%EF%BC%8C%E9%AD%B7%E9%AD%9A%EF%BC%8C%E7%AB%A0%E9%AD%9A%EF%BC%8C%E9%80%8F%E6%8A%BD%EF%BC%8C%E5%B0%8F%E5%8D%B7%E7%9A%84%E8%8B%B1/)
-[What is the difference between octopus, squid and cuttlefish ?](https://mmmediterranean.com/what-difference-between-octopus-squid-cuttlefish/)
+[What is the difference between octopus, squid and cuttlefish?](https://mmmediterranean.com/what-difference-between-octopus-squid-cuttlefish/)
 [全身 11 個大腦，會直立行走，會使用工具！帝王蟹的一生之敵——章魚【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=KdS9MPIC3Eg)
 [「精盡人亡」竟是成功之道？章魚的超短壽命，到底換來了什麼？【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=QhAnrqNn8g4)
 [明明是熱帶物種，卻能入侵阿拉斯加！有勇有謀，未來海洋的統治者——洪堡魷魚（又名：美洲大赤魷）【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=nGp6nJDCLnY)
 [水下 2300 米發現未知魷魚，一步步破解懸案，我們發現了南極深海巨物的秘密……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=klxPYypTvpA)
 [Octopus, Cuttlefish & Squid - YouTube](https://www.youtube.com/watch?v=u0CH7gdsfvU)
-[The Insane Biology of: The Octopus - YouTube](https://www.youtube.com/watch?v=mFP_AjJeP-M)
 [Get to Know The Four Types of Cephalopods](https://aquarium.ucsd.edu/blog/get-to-know-the-four-types-of-cephalopods/)
+
+[The Insane Biology of: The Octopus - YouTube](https://www.youtube.com/watch?v=mFP_AjJeP-M)
+[【鬼谷闲谈】鱿鱼瞳孔为啥这么奇葩？ - YouTube](https://www.youtube.com/watch?v=oZL9hHaPjxA)
 
 ## Chilopoda (centipedes)
 
-[Centipede - Wikiwand](https://www.wikiwand.com/en/Centipede)
+[Centipede - Wikiwand](https://omni.wikiwand.com/en/Centipede)
 
 ## 棘皮动物
 
@@ -445,9 +490,13 @@ Bee's colony: hive (man-made), nest (natural)
 
 [Is it Cruel to Use Bees as Digital Sensors? - YouTube](https://www.youtube.com/watch?v=lG-ZqO734tM) also pigeon-guided bomb
 
+### Cicadas
+
+[Actual Clickbait - Smarter Every Day 299 - YouTube](https://www.youtube.com/watch?v=TWc48iVC8u8)
+
 ## Decapoda (shrimps, lobsters, crayfishs, crabs)
 
-[Decapoda - Wikiwand](https://www.wikiwand.com/en/Decapoda)
+[Decapoda - Wikiwand](https://omni.wikiwand.com/en/Decapoda)
 
 [為什麼說進化的終點是螃蟹？原來，至少有 5 類史前蟲子進化成了螃蟹……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=Fu0gTUT_MHk)
 [【鬼谷说】虾蟹：只要我变得足够好吃就不会被吃 - YouTube](https://www.youtube.com/watch?v=Cv-FkylVAbA)
@@ -499,7 +548,7 @@ Myticetes: baleen whale (filter-feeding whales, humpback whale, blue whale)
 海牛: fan-shaped tail
 儒艮: V-shaped tail, pipe-like mouth
 
-[Sirenia - Wikiwand](https://www.wikiwand.com/en/Sirenia)
+[Sirenia - Wikiwand](https://omni.wikiwand.com/en/Sirenia)
 
 [Manatee vs. Dugong - What’s the Difference?](https://dipndive.com/blog/manatee-vs-dugong-whats-the-difference/)
 [What Are The Differences Between Dugongs, Mermaids and Manatees](https://www.spotmydive.com/en/news/amazing-differences-between-dugongs-mermaids-manatees-scuba-diving-snorkeling)

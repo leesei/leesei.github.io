@@ -2,7 +2,7 @@
 title: Web Authentication
 description: ""
 created: 2016-01-21
-updated: 2023-10-11
+updated: 2024-10-03
 tags:
   - authentication
   - security
@@ -13,8 +13,6 @@ tags:
 > authorization (usually RBAC) can be integrated to authentication
 > see [[policy-management]] for fine grained control
 
-[[self-hosting#Auth Server/IAM]]
-
 [Secure authentication means moving beyond passwords | CSO Online](https://www.csoonline.com/article/3237827/password-security/ready-for-more-secure-authentication-try-these-password-alternatives-and-enhancements.html)
 
 [Enterprise APIs and OAuth: Have it All](http://news.sys-con.com/node/2275857/print)
@@ -22,6 +20,7 @@ tags:
 [API Keys vs OAuth Tokens vs JSON Web Tokens - The Zapier Engineering Blog - Zapier](https://zapier.com/engineering/apikey-oauth-jwt/)
 
 [Authentication: It’s Easier Than You Think - YouTube](https://www.youtube.com/watch?v=h6wBYWWdyYQ)
+[Session Vs JWT: The Differences You May Not Know! - YouTube](https://www.youtube.com/watch?v=fyTxwIa-1U0)
 [Authentication on the Web (Sessions, Cookies, JWT, localStorage, and more) - YouTube](https://www.youtube.com/watch?v=2PPSXonhIck)
 
 - sessions + cookies
@@ -37,11 +36,13 @@ tags:
 
 [Spring Security Registration Tutorial | Baeldung](https://www.baeldung.com/spring-security-registration)
 
+[Authentication is a developer nightmare - YouTube](https://www.youtube.com/watch?v=IThLjsDUG0g) self hosted and auth services
+
 ## Authentication Protocols
 
-[Basic access authentication - Wikiwand](http://www.wikiwand.com/en/Basic_access_authentication)
-[Digest access authentication - Wikiwand](http://www.wikiwand.com/en/Digest_access_authentication)
-[Secure Remote Password protocol - Wikiwand](http://www.wikiwand.com/en/Secure_Remote_Password_protocol)
+[Basic access authentication - Wikiwand](http://omni.wikiwand.com/en/Basic_access_authentication)
+[Digest access authentication - Wikiwand](http://omni.wikiwand.com/en/Digest_access_authentication)
+[Secure Remote Password protocol - Wikiwand](http://omni.wikiwand.com/en/Secure_Remote_Password_protocol)
 
 does not to mandate SSL/TLS
 
@@ -51,8 +52,8 @@ does not to mandate SSL/TLS
 `Access-Control-Allow-Origin: *` does not allow requests to supply credentials like HTTP authentication, client-side SSL certificates, or cookies. You have to use `Access-Control-Allow-Headers: Authorization, X-Token` to allow those headers.
 
 Use MAC with server nonce instead of send password, allows authentication over non-secure channel.
-[Message authentication code - Wikiwand](https://www.wikiwand.com/en/Message_authentication_code)
-[HMAC - Wikiwand](https://www.wikiwand.com/en/HMAC) hash-based message authentication code
+[Message authentication code - Wikiwand](https://omni.wikiwand.com/en/Message_authentication_code)
+[HMAC - Wikiwand](https://omni.wikiwand.com/en/HMAC) hash-based message authentication code
 [hapijs/hawk: HTTP Holder-Of-Key Authentication Scheme](https://github.com/hapijs/hawk)
 
 ## Sign up
@@ -114,17 +115,17 @@ Based on [Zanzibar](https://research.google/pubs/pub48190/), Google’s Consiste
 
 ## Multi-factor Authentication (MFA)
 
-[Multi-factor authentication - Wikiwand](https://www.wikiwand.com/en/Multi-factor_authentication)
+[Multi-factor authentication - Wikiwand](https://omni.wikiwand.com/en/Multi-factor_authentication)
 [What is multifactor authentication (MFA)? - Definition from WhatIs.com](https://searchsecurity.techtarget.com/definition/multifactor-authentication-MFA)
 
 [Bruteforcing MFA & Fail2ban Manipulation - TryHackMe! (Biteme) - YouTube](https://www.youtube.com/watch?v=vAlkrw-o7m4)
 
 ## TOTP
 
-[Time-based One-time Password algorithm - Wikiwand](https://www.wikiwand.com/en/Time-based_One-time_Password_algorithm)
+[Time-based One-time Password algorithm - Wikiwand](https://omni.wikiwand.com/en/Time-based_One-time_Password_algorithm)
 [RFC 6238: TOTP: Time-Based One-Time Password Algorithm](https://www.rfc-editor.org/rfc/rfc6238.html)
 
-[Google Authenticator - Wikiwand](https://www.wikiwand.com/en/Google_Authenticator)
+[Google Authenticator - Wikiwand](https://omni.wikiwand.com/en/Google_Authenticator)
 [Google 2-Step Verification](https://www.google.com/landing/2step/)
 [Setting up Google Authenticator is as easy as scanning a QR code](https://www.androidguys.com/tips-tools/setting-up-google-authenticator-is-as-easy-as-scanning-a-qr-code/)
 
@@ -135,29 +136,54 @@ Based on [Zanzibar](https://research.google/pubs/pub48190/), Google’s Consiste
 [Advanced Protection Program](https://landing.google.com/advancedprotection/)
 [Use your Android phone's built-in security key - Google Account Help](https://support.google.com/accounts/answer/9289445?p=phone-security-key)
 
-## FIDO
+## FIDO/Passkey
 
 [FIDO Alliance - Open Authentication Standards More Secure than Passwords](https://fidoalliance.org/)
 [FIDO2: Moving the World Beyond Passwords using WebAuthn & CTAP](https://fidoalliance.org/fido2/)
-[FIDO2 Project - Wikiwand](https://www.wikiwand.com/en/FIDO2_Project)
+[FIDO2 Project - Wikiwand](https://omni.wikiwand.com/en/FIDO2_Project)
 [How FIDO Works - Standard Public Key Cryptography & User Privacy](https://fidoalliance.org/how-fido-works/)
 [The ultimate account security is now in your pocket](https://www.blog.google/technology/safety-security/your-android-phone-is-a-security-key/amp/)
 
 [Apple, the FIDO Alliance and the future of passwords | Computerworld](https://www.computerworld.com/video/101679/apple-the-fido-alliance-and-the-future-of-passwords)
 
 [What is Passkey? | Trusted Reviews](https://www.trustedreviews.com/explainer/what-is-passkey-4231178)
+[Is Passkey Authentication More Secure Traditional Passwords?](https://www.itprotoday.com/identity-management-and-access-control/passkey-authentication-more-secure-traditional-passwords)
 
 physical keys
 [FIDO2 | Yubico](https://www.yubico.com/solutions/fido2/)
 [Titan Security Key Bundle, FIDO U2F BT & NFC - Google Store](https://store.google.com/us/product/titan_security_key_kit?hl=en-US)
 
-## Auth.js
+## Node.js
+
+[Authorize Users Like a Pro: Libraries That Help You Implement Access Control With Node.js - DEV Community](https://dev.to/zenstack/authorize-users-like-a-pro-libraries-that-help-you-implement-access-control-with-nodejs-5109)
+
+### Auth.js
 
 > originally NextAuth.js
 
 [Auth.js](https://authjs.dev/) work with OAuth 2 or OpenID Connect provider
 
-## Passport.js
+### AuthKit
+
+[AuthKit by WorkOS](https://www.authkit.com/)
+[workos/authkit: The world's best login box powered by WorkOS and Radix.](https://github.com/workos/authkit)
+
+## Casl
+
+[CASL](https://casl.js.org/)
+[stalniy/casl: CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access](https://github.com/stalniy/casl)
+
+### AccessControl
+
+[AccessControl](https://onury.io/accesscontrol/)
+[onury/accesscontrol: Role and Attribute based Access Control for Node.js](https://github.com/onury/accesscontrol)
+
+### Remult
+
+[Remult | Fullstack Type-safe CRUD & Realtime](https://remult.dev/)
+[remult/remult: Full-stack CRUD, simplified, with SSOT TypeScript entities](https://github.com/remult/remult)
+
+### Passport.js
 
 [Passport.js](https://www.passportjs.org/)
 [Passport.js - Strategies](https://www.passportjs.org/packages/)
@@ -167,7 +193,7 @@ physical keys
 ## WebAuthn
 
 [WebAuthn.io](https://webauthn.io/)
-[WebAuthn - Wikiwand](https://www.wikiwand.com/en/WebAuthn)
+[WebAuthn - Wikiwand](https://omni.wikiwand.com/en/WebAuthn)
 [Web Authentication API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Authentication_API)
 [Web Authentication: An API for accessing Public Key Credentials Level 1](https://www.w3.org/TR/webauthn/)
 
@@ -176,19 +202,6 @@ physical keys
 [Your First WebAuthn](https://codelabs.developers.google.com/codelabs/webauthn-reauth/index.html)
 [Introduction to Web Authentication: The New W3C Spec](https://auth0.com/blog/introduction-to-web-authentication/)
 [一起來了解 Web Authentication | TechBridge 技術共筆部落格](https://blog.techbridge.cc/2019/08/17/webauthn-intro/)
-
-## ACL
-
-[Role-based access control - Wikiwand](https://www.wikiwand.com/en/Role-based_access_control)
-[XACML - Wikiwand](https://www.wikiwand.com/en/XACML)
-
-[The Identity Cookbook: Blockchain for Identity: Access Request Management](http://www.theidentitycookbook.com/2016/06/blockchain-for-identity-access-request.html)
-[Improving Enterprise Business Process Management Systems: Enrich RBAC and ABAC with ProBAC](http://improving-bpm-systems.blogspot.hk/2015/01/enrich-rbac-and-abac-with-probac.html)
-
-## Blockchain
-
-[The Identity Cookbook: Blockchain for Identity: Access Request Management](http://www.theidentitycookbook.com/2016/06/blockchain-for-identity-access-request.html)
-[Anatomy of a zero-knowledge web application - Clipperz, register your creations on the blockchain](https://clipperz.is/blog/2007/08/24/anatomy_zero_knowledge_web_application/)
 
 ## SQRL
 
@@ -329,14 +342,17 @@ does not to mandate SSL/TLS
 
 ## OAuth2
 
-[OAuth - Wikiwand](https://www.wikiwand.com/en/OAuth)
+[OAuth - Wikiwand](https://omni.wikiwand.com/en/OAuth)
 [The OAuth Bible](https://oauthbible.com/)
 [Home | OAuth.XYZ](https://oauth.xyz/)
 
 [OAuth.com - OAuth 2.0 Simplified](https://www.oauth.com/)
+[What is OAuth 2.0 and How does it Work?](https://fusionauth.io/articles/oauth/modern-guide-to-oauth)
 [OAuth 2.0 Simplified - A guide to building OAuth 2.0 servers](https://oauth2simplified.com/)
 [OAuth 2.0 Authorization Framework](https://auth0.com/docs/authenticate/protocols/oauth)
+[OpenID Connect & OAuth 2.0](https://developer.okta.com/docs/api/openapi/okta-oauth/guides/overview/)
 [OAuth2 explained with cute shapes - Back Market Blog](https://engineering.backmarket.com/oauth2-explained-with-cute-shapes-7eae51f20d38)
+[What is OAuth 2.0? What Does It Do for You?](https://cloudentity.com/developers/basics/oauth-framework/oauth-overview/)
 
 OAuth Access Key is like a safe key made of ice, good only for a short period.
 Every time the Refresh Key is used, a new (Access Key, Refresh Key) pair is returned. Any reuse of Refresh Key will yield the corresponding Access Key invalid.
@@ -359,8 +375,7 @@ Every time the Refresh Key is used, a new (Access Key, Refresh Key) pair is retu
 [OAuth 2.0 and OpenID Connect (in plain English) - YouTube](https://www.youtube.com/watch?v=996OiexHze0)
 [An Illustrated Guide to OAuth and OpenID Connect - YouTube](https://www.youtube.com/watch?v=t18YB3xDfXI)
 [OAuth 2.0: An Overview - YouTube](https://www.youtube.com/watch?v=CPbvxxslDTU)
-[Overview of OAuth 2.0 and OpenID Connect - Using OAuth 2.0 and OpenID Connect with Caché - Caché & Ensemble 2018.1](https://docs.intersystems.com/latest/csp/docbook/DocBook.UI.Page.cls?
-KEY=GOAUTH_background)
+[Overview of OAuth 2.0 and OpenID Connect - Using OAuth 2.0 and OpenID Connect with Caché - Caché & Ensemble 2018.1](https://docs.intersystems.com/latest/csp/docbook/DocBook.UI.Page.cls?KEY=GOAUTH_background)
 
 [The unreasonable effectiveness of the Julia programming language – Ars Technica](https://arstechnica.com/science/2020/10/the-unreasonable-effectiveness-of-the-julia-programming-language/amp/)
 
@@ -408,10 +423,6 @@ OAuth 2.0 serves as the authorization framework, the actual authentication occur
 
 [dogeared/OZorkAuth](https://github.com/dogeared/OZorkAuth)
 
-[oauthlib · PyPI](https://pypi.org/project/oauthlib/)
-
-[lelylan/simple-oauth2: A simple Node.js client library for Oauth2](https://github.com/lelylan/simple-oauth2)
-
 [Episode 376: Justin Richer On API Security with OAuth 2 : Software Engineering Radio](https://www.se-radio.net/2019/08/episode-376-justin-richer-on-api-security-with-oauth-2/)
 Server pre-register, get API key and secret (configuration secret)
 Each mobile app registers at run time (dynamical client registration), gets dynamic client ID and secret individually (run time secret) RFC 7591
@@ -430,6 +441,8 @@ OpenID Connect is build upon OAuth 2.0 (with `openid` and `profile` scope) desig
 [RFC 8414 - OAuth 2.0 Authorization Server Metadata](https://tools.ietf.org/html/rfc8414) OAuth Discovery
 
 [OpenID Connect Protocol](https://auth0.com/docs/authenticate/protocols/openid-connect-protocol)
+[panva/node-openid-client: OpenID Certified™ Relying Party (OpenID Connect/OAuth 2.0 Client) implementation for Node.js.](https://github.com/panva/node-openid-client) many links to spec
+[OneLogin OpenId Connect Inspector](https://developers.onelogin.com/openid-connect/inspector)
 
 [OpenID Connect debugger](https://oidcdebugger.com/)
 [OpenID Connect Playground](https://openidconnect.net/) ebook
@@ -447,7 +460,7 @@ OpenID Connect is build upon OAuth 2.0 (with `openid` and `profile` scope) desig
 [Gluu Introduction - YouTube](https://www.youtube.com/watch?v=Gd2dXMjbkwc)
 [How to build a world-class identity service with Gluu - YouTube](https://www.youtube.com/watch?v=cRlwH0Op_EA)
 
-[Security token service - Wikiwand](https://www.wikiwand.com/en/Security_token_service)
+[Security token service - Wikiwand](https://omni.wikiwand.com/en/Security_token_service)
 
 [Open Source OAuth 2.0 and OpenID Connect Server - gethydra.sh](https://gethydra.sh/)
 [ory/hydra: OpenID Certified™ OpenID Connect & OAuth2 Server (OP, OpenID Provider) - cloud native, security-first, open source API security for your infrastructure. Written in Go. SDKs for any language.](https://github.com/ory/hydra)
@@ -455,11 +468,6 @@ OpenID Connect is build upon OAuth 2.0 (with `openid` and `profile` scope) desig
 [greenpau/caddy-auth-portal: Authentication Plugin for Caddy v2 implementing Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication](https://github.com/greenpau/caddy-auth-portal)
 [casbin/caddy-authz: Caddy-authz is a middleware for Caddy that blocks or allows requests based on access control policies.](https://github.com/casbin/caddy-authz)
 [casbin/casbin: An authorization library that supports access control models like ACL, RBAC, ABAC in Golang](https://github.com/casbin/casbin)
-
-[AppAuth](https://appauth.io/)
-[openid/AppAuth-iOS: iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.](https://github.com/openid/AppAuth-iOS)
-[openid/AppAuth-Android: Android client SDK for communicating with OAuth 2.0 and OpenID Connect providers.](https://github.com/openid/AppAuth-Android)
-[openid/AppAuth-JS: JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.](https://github.com/openid/AppAuth-JS)
 
 [OpenID Connect | OpenID](https://openid.net/connect/)
 [OpenID Connect — Session Management – Ashen De Silva – Medium](https://medium.com/@desilvaashen.15/openid-connect-session-management-d0c8e7dc252b)
@@ -470,6 +478,32 @@ OpenID Connect is build upon OAuth 2.0 (with `openid` and `profile` scope) desig
 
 [Single Sign-On — WorkOS](https://workos.com/single-sign-on)
 [Add Single Sign-On (SSO) to a Node app in 8 MINUTES - YouTube](https://www.youtube.com/watch?v=vlCg1UYl36A)
+
+### OpenID Connect Server
+
+[Keycloak](https://www.keycloak.org/)
+[keycloak/keycloak: Open Source Identity and Access Management For Modern Applications and Services](https://github.com/keycloak/keycloak)
+
+[luikyv/go-oidc: A configurable OpenID Provider built in Go.](https://github.com/luikyv/go-oidc)
+
+### OpenID Connect Clients
+
+[lelylan/simple-oauth2: A simple Node.js client library for Oauth2](https://github.com/lelylan/simple-oauth2)
+
+[oauthlib · PyPI](https://pypi.org/project/oauthlib/)
+
+[indigo-dc/oidc-agent: oidc-agent for managing OpenID Connect tokens on the command line](https://github.com/indigo-dc/oidc-agent)
+
+[ctron/oidc-cli: A command line tool to work with OIDC tokens](https://github.com/ctron/oidc-cli)
+[An OpenID Connect command line client – ctron's blog](https://dentrassi.de/2024/03/16/oidc-command-line-client/)
+
+[panva/node-openid-client: OpenID Certified™ Relying Party (OpenID Connect/OAuth 2.0 Client) implementation for Node.js.](https://github.com/panva/node-openid-client/)
+[panva/oauth4webapi: OAuth 2 / OpenID Connect for JavaScript Runtimes](https://github.com/panva/oauth4webapi)
+
+[AppAuth](https://appauth.io/)
+[openid/AppAuth-iOS: iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.](https://github.com/openid/AppAuth-iOS)
+[openid/AppAuth-Android: Android client SDK for communicating with OAuth 2.0 and OpenID Connect providers.](https://github.com/openid/AppAuth-Android)
+[openid/AppAuth-JS: JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.](https://github.com/openid/AppAuth-JS)
 
 ### In the Wild
 
@@ -534,7 +568,7 @@ And much more...
 ## JWT
 
 [JWT](http://jwt.io) is the spec for how a _non-opaque token_ should be created. This allows token receiver to parse the token and receive meta without database query.
-[JSON Web Token - Wikiwand](https://www.wikiwand.com/en/JSON_Web_Token)
+[JSON Web Token - Wikiwand](https://omni.wikiwand.com/en/JSON_Web_Token)
 
 [RFC 7515 - JSON Web Signature (JWS)](https://tools.ietf.org/html/rfc7515)
 [RFC 7516 - JSON Web Encryption (JWE)](https://tools.ietf.org/html/rfc7516)
@@ -570,12 +604,15 @@ JWT = `{header}.{claim}.{signature}`
 [JWT Authentication in React. How to Consume and Use JWT tokens | by Ivan Stoev | Mar, 2022 | Level Up Coding](https://levelup.gitconnected.com/jwt-authentication-in-react-a2b1b705b7a) access and refresh token on client
 
 [nearform/fast-jwt: Fast JSON Web Token implementation](https://github.com/nearform/fast-jwt)
+[jbelmont/decode-jwt: A go library that conducts base64 encoding and decoding](https://github.com/jbelmont/decode-jwt/)
 
 ### In the Contrary
 
 [Stop using JWT for sessions - joepie91's Ramblings](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/)
 [Stop using JWT for sessions, part 2: Why your solution doesn't work - joepie91's Ramblings](http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/)
 [Why JWTs Suck as Session Tokens | Okta Developer](https://developer.okta.com/blog/2017/08/17/why-jwts-suck-as-session-tokens)
+
+[JWTs are insecure session tokens - YouTube](https://www.youtube.com/watch?v=NXXiKl8g6Rw)
 
 [JSON Web Tokens Suck - Randall Degges (DevNet Create 2018) - YouTube](https://www.youtube.com/watch?v=JdGOb7AxUo0)
 
@@ -654,7 +691,7 @@ Auth0 is the owner of Node.js `jsonwebtoken` module.
 
 ## LDAP
 
-[Lightweight Directory Access Protocol - Wikiwand](https://www.wikiwand.com/en/Lightweight_Directory_Access_Protocol)
+[Lightweight Directory Access Protocol - Wikiwand](https://omni.wikiwand.com/en/Lightweight_Directory_Access_Protocol)
 
 [OpenLDAP, Main Page](https://www.openldap.org/)
 [LDAP Linux HOWTO](https://www.tldp.org/HOWTO/LDAP-HOWTO/index.html)
@@ -669,7 +706,7 @@ Auth0 is the owner of Node.js `jsonwebtoken` module.
 
 ### Active Directory
 
-[Active Directory - Wikiwand](https://www.wikiwand.com/en/Active_Directory)
+[Active Directory - Wikiwand](https://omni.wikiwand.com/en/Active_Directory)
 [Introduction to Active Directory Infrastructure in Windows Server 2012 - YouTube](https://www.youtube.com/watch?v=hxgz7MR7MGQ)
 [Introduction to Active Directory Directory Services Structure in Windows Server 2012 - YouTube](https://www.youtube.com/watch?v=lFwek_OuYZ8)
 
@@ -682,35 +719,8 @@ Auth0 is the owner of Node.js `jsonwebtoken` module.
 [Taming Kerberos - Computerphile - YouTube](https://www.youtube.com/watch?v=qW361k3-BtU)
 [CertMike Explains Kerberos - YouTube](https://www.youtube.com/watch?v=nUEWp-r-ugc)
 [Kerberos Authentication Explained | A deep dive - YouTube](https://www.youtube.com/watch?v=5N242XcKAsM)
-[Learn Active Directory Kerberoasting - YouTube](https://www.youtube.com/watch?v=tRCvagjqx3c)
+[Kerberos Explained (In 3 Levels Of Detail) - YouTube](https://www.youtube.com/watch?v=snGeZlDQL2Q)
 [JohnHammond/active_directory: Notes and resources for the Active Directory YouTube series on https://youtube.com/JohnHammond010](https://github.com/JohnHammond/active_directory)
-
-Hacking Kerberos
-get hash and crack offline
-Mimicatz
-[BloodHoundAD/BloodHound: Six Degrees of Domain Admin](https://github.com/BloodHoundAD/BloodHound)
-CrackMapExec, using PSExec
-Password Spray
-invoke phantom disables Windows Event Logs
-DCSync, DCShadow
-NTLM hash\* (Pass The Hash attack), LM hash
-[Generate an NTLM Hash - NTLM Password - Online - Browserling Web Developer Tools](https://www.browserling.com/tools/ntlm-hash)
-
-enterprise admin, KRBTGT ticket (Kerberoast), skeleton key, password access key, DSRM
-domain admin
-local admin
-
-`/do` query domain controller
-
-ipconfig /all
-nslookup NAME /ip
-net accounts /do
-net user USER /do
-net localgroup administrators
-net localgroup administrators /do
-net group HQ_Desktop_admin /do
-nltest /dclist:astri.local
-nltest /server:ASPDC02 /domain_trusts
 
 ## Oz/Hawk
 
@@ -727,7 +737,7 @@ nltest /server:ASPDC02 /domain_trusts
 
 Blockchain can be used as Public Key Infrastructure (PKI), but not the necessary condition.
 
-[Self-sovereign identity - Wikiwand](https://www.wikiwand.com/en/Self-sovereign_identity)
+[Self-sovereign identity - Wikiwand](https://omni.wikiwand.com/en/Self-sovereign_identity)
 [Self Sovereign Identity & Decentralized Identity - An Unlimited Guide - 101 Blockchains](https://101blockchains.com/self-sovereign-identity-and-decentralized-identity/)
 [What is self-sovereign identity? Definition from WhatIs.com](https://www.techtarget.com/searchsecurity/definition/self-sovereign-identity)
 

@@ -2,7 +2,7 @@
 title: Color
 description: ""
 created: 2014-12-17
-updated: 2023-11-08
+updated: 2024-08-19
 tags:
   - color-palette
   - colorspace
@@ -34,6 +34,7 @@ tags:
 [Color — Method of Action](http://color.method.ac/) testing your perception and your monitor's rendering of color
 
 [Is This Banana Really Yellow? - YouTube](https://www.youtube.com/watch?v=WN1yCigL3Hk)
+[literally EVERYTHING about color, simplified - YouTube](https://www.youtube.com/watch?v=srRI7yMjGz0)
 
 Light source, Color Rendering Index
 [The Weird World in RGB - YouTube](https://www.youtube.com/watch?v=uYbdx4I7STg)
@@ -52,7 +53,7 @@ Light source, Color Rendering Index
 [Adobe Color CC](https://color.adobe.com/zh/)
 
 [Realtime Colors](https://realtimecolors.com/)
-[I updated Realtime Colors - YouTube](https://www.youtube.com/watch?v=YWVneCWIfoE)
+[Realtime Colors - YouTube](https://www.youtube.com/playlist?list=PLLTyNV6fs1fR4YBnls84aA5t8t6axO8CB) Juxtopposed
 
 [Color meanings: color names and symbolism | Canva Colors](https://www.canva.com/colors/color-meanings/)
 
@@ -119,33 +120,49 @@ Light source, Color Rendering Index
 [How We Make (and Made) Color - [A Collaboration with Google Arts and Culture] - YouTube](https://www.youtube.com/watch?v=hTZbrRaO2q8)
 [人類為了好色，到底做過哪些重口味的事情…… | 總裁聊聊 - YouTube](https://www.youtube.com/watch?v=7IstCl--Ea0)
 
-[Tyrian purple - Wikiwand](https://www.wikiwand.com/en/Tyrian_purple)
+[Tyrian purple - Wikiwand](https://omni.wikiwand.com/en/Tyrian_purple)
 [In Ancient Rome, Purple Dye Was Made from Snails | Smart News | Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/in-ancient-rome-purple-dye-was-made-from-snails-1239931/)
 [Why is the color purple associated with royalty? | Live Science](https://www.livescience.com/33324-purple-royal-color.html)
 [Why Tyrian Purple Dye Is So Expensive | So Expensive | Insider Business - YouTube](https://www.youtube.com/watch?v=IVXqisH6VeM)
 
-[Mummy brown - Wikiwand](https://www.wikiwand.com/en/Mummy_brown)
+[Mummy brown - Wikiwand](https://omni.wikiwand.com/en/Mummy_brown)
 [The life and death of Mummy Brown - Journal of ART in SOCIETY](http://www.artinsociety.com/the-life-and-death-of-mummy-brown.html)
 [Was This Masterpiece Painted With Ground Mummy?](https://www.nationalgeographic.com/history/article/mummy-art-painting-delacroix-pigment-ancient-Egypt)
 
-[Han purple and Han blue - Wikiwand](https://www.wikiwand.com/en/Han_purple_and_Han_blue)
-[矽酸銅鋇 - Wikiwand](https://www.wikiwand.com/zh/%E7%9F%BD%E9%85%B8%E9%8A%85%E9%8B%87)
+[Han purple and Han blue - Wikiwand](https://omni.wikiwand.com/en/Han_purple_and_Han_blue)
+[矽酸銅鋇 - Wikiwand](https://omni.wikiwand.com/zh/%E7%9F%BD%E9%85%B8%E9%8A%85%E9%8B%87)
 [Han Purple - Collections - Asian Art Museum](https://collections.asianart.org/han-purple/)
 [Man-made blue and purple barium copper silicate pigments and the pabstite (BaSnSi3O9) mystery of ancient Chinese wall paintings from Luoyang | Heritage Science | Full Text](https://heritagesciencejournal.springeropen.com/articles/10.1186/s40494-019-0340-4)
 [This 2000-Year-Old Pigment Can Eliminate The Third Dimension](https://gizmodo.com/this-2000-year-old-pigment-can-eliminate-the-third-dime-1661476168)
 [秦始皇帝陵博物院](https://web.archive.org/web/20160305102022/http://www.bmy.com.cn/contents/83/6566.html)
 
-## Colorspace
+## Colorspace/Color Gamut
 
-[List of color spaces and their uses - Wikiwand](https://www.wikiwand.com/en/List_of_color_spaces_and_their_uses)
+[Color Gamut Test](https://www.colorgamuts.com/)
+[Wide Gamut - Home Page](https://www.wide-gamut.com/)
+[Wide Gamut - Test Page](https://www.wide-gamut.com/test/image-hdr) HDR
+
+[List of color spaces and their uses - Wikiwand](https://omni.wikiwand.com/en/List_of_color_spaces_and_their_uses)
+[YCbCr - Wikiwand](https://omni.wikiwand.com/en/ycbcr)
 [What are the differences between RGB, HSV and CIE-Lab? - Quora](https://www.quora.com/What-are-the-differences-between-RGB-HSV-and-CIE-Lab)
 
+[YCbCr - Wikiwand](https://omni.wikiwand.com/en/ycbcr)
 [The HSB Color System: A Practitioner's Primer – Learn UI Design](https://learnui.design/blog/the-hsb-color-system-practicioners-primer.html)
 
 [色域转换都发生了什么？SRGB 出图需要用广色域链路吗？究竟是否需要买广色域显示器？风光和人像打印可以用一样的设置吗？什么是黑场补偿，相对比色，可感知渲染意图？ - YouTube](https://www.youtube.com/watch?v=2EKtQeXvAD8)
 相對比色 only map colors out of the target colorspace, keeping colors in intersection intact
 可感知 scale all colors to target colorspace to keep gradients in the original colorspace
 Workspace in full colorspace (Adobe RGB) to prevent clipping (overflow/underflow) in operations
+
+[CIE 1931 color space - Wikiwand / articles](https://omni.wikiwand.com/en/articles/CIE_1931_color_space) CIEXYZ
+[CIELUV - Wikiwand](https://www.wikiwand.com/en/CIELUV)
+[HSLuv - Human-friendly HSL](https://www.hsluv.org/)
+[Color Spaces for Human Beings - Alexei Boronine](https://www.boronine.com/2012/03/26/Color-Spaces-for-Human-Beings/)
+[A perceptual color space for image processing](https://bottosson.github.io/posts/oklab/) OKLAB
+[Abney effect - Wikiwand / articles](https://omni.wikiwand.com/en/articles/Abney_effect)
+
+HSL_UV => LCH, OKLCH, perceptually uniform
+HSL (RGB) => LAB, OKLAB, negative number, Abney effect
 
 [Awesome Colour](http://awesome-colour.org/)
 

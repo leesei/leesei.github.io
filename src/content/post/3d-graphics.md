@@ -2,7 +2,7 @@
 title: 3D Graphics
 description: ""
 created: 2019-09-10
-updated: 2023-11-07
+updated: 2024-09-15
 tags:
   - app
   - graphics
@@ -11,7 +11,9 @@ tags:
 
 [[sketchup]]
 
-[Home • FX TD Wiki](http://fxtd.free.fr/)
+[What Is A Graphics Programmer? - YouTube](https://www.youtube.com/watch?v=O-2viBhLTqI)
+[Tutorial Index](https://www.rastertek.com/tutindex.html) DX11 and OpenGL4
+[Contributors | NVIDIA Developer](https://developer.nvidia.com/gpugems/gpugems/contributors) GPU Gems
 
 [Beginners Guide to Learning 3D Computer Graphics - YouTube](https://www.youtube.com/watch?v=VT5oZndzj68)
 [How To Make Triple A Graphics - YouTube](https://www.youtube.com/watch?v=z1wYRHNGQz0)
@@ -26,14 +28,16 @@ tags:
 
 ## CAD
 
-[OpenSCAD - The Programmers Solid 3D CAD Modeller](http://www.openscad.org/)
+[OpenSCAD - The Programmers Solid 3D CAD Modeller](https://www.openscad.org/)
 [Tinkercad | Create 3D digital designs with online CAD](https://www.tinkercad.com/#/)
 [FreeCAD: Your Own 3D Parametric Modeler](https://www.freecadweb.org/)
 [Sign up | Onshape Cloud Product Development Software](https://www.onshape.com/en/sign-up)
 
 [OpenJSCAD.org](https://openjscad.org/)
-[OpenJsCad](http://joostn.github.io/OpenJsCad/)
+[OpenJsCad](https://joostn.github.io/OpenJsCad/)
 [BITPlan/docker-openjscad: dockerized OpenJSCAD](https://github.com/BITPlan/docker-openjscad)
+
+[Onshape | Product Development Platform](https://www.onshape.com/en/) free tier available
 
 [30 Best Free CAD Software Tools 2018 (2D/3D CAD Programs) | All3DP](https://all3dp.com/1/best-free-cad-software-2d-3d-cad-programs-design/)
 
@@ -102,8 +106,6 @@ MCRT: Monte-Carlo Ray Tracer
 [Houdini - 3D modeling, animation, VFX, look development, lighting and rendering | SideFX](https://www.sidefx.com/)
 [Houdini doc](https://www.sidefx.com/docs/houdini/index.html)
 
-[Houdini Category • FX TD Wiki](http://fxtd.free.fr/index.php/wiki/category/houdini/)
-
 [Houdini For Beginners - VDB Clouds - YouTube](https://www.youtube.com/watch?v=ISSFTs9O-l4)
 [What is a Volume? in Houdini for Beginners | Core Concepts - YouTube](https://www.youtube.com/watch?v=ONOp1wPLbxc)
 
@@ -139,20 +141,35 @@ Two Minute Papers
 
 ### Raytracing
 
-[Ray Tracing Resources Page](http://www.realtimerendering.com/raytracing.html)
+[Ray Tracing Resources Page](https://www.realtimerendering.com/raytracing.html)
 [Ray Tracing Gems](https://www.realtimerendering.com/raytracinggems/)
 [Call for Participation: Ray Tracing Gems II](https://www.realtimerendering.com/raytracinggems/rtg2/index.html)
 
 [Raytracing explained: Nvidia, Microsoft lead the way in revolutionizing gaming graphics – Ars Technica](https://arstechnica.com/gadgets/2018/08/microsoft-announces-the-next-step-in-gaming-graphics-directx-raytracing/amp/)
 [NVIDIA’s Ray Tracer - Finally, Real Time! ☀️ - YouTube](https://www.youtube.com/watch?v=W1UDzxtrhes)
 
+[How is CGI [Computer Generated Imagery] Made? 🖥️🏞 🛠️Exploring Ray Tracing and CGI - YouTube](https://www.youtube.com/watch?v=iOlehM5kNSk)
+
+Path tracing:
+Global illumination = Direct illumination + Indirect illumination
+Many shadow rays have to be sent to other objects in the scene for indirect illumination
+The other objects will again calculate its GI acts as a secondary light source to the original object
+
+Screen space ray tracing:
+Using the rasterized image, depth map, normal map of objects rendered in the scene for ray tracing
+This may not be as accurate as path tracing as object outside the screen space will not be considered
+
+BVH: Bounding Volume Hierarchy
+Built a binary tree structure to store the triangles in the scene, to quickly find the intersection of a ray with the scene
+
 [Forget Old School Ray Tracing, NVIDIA Demos Stunning Real-Time Path Tracing](https://hothardware.com/news/nvidia-real-time-path-tracing-gtc-2022)
 [What Is Path Tracing? | NVIDIA Blog](https://blogs.nvidia.com/blog/2022/03/23/what-is-path-tracing/)
 
 [Control PC: Ray Tracing's Killer App? Plus: Full Xbox One X vs PC Comparison! - YouTube](https://www.youtube.com/watch?v=blbu0g9DAGA)
-
-[How Realistic CGI Works (And How To Do It Way Faster) - YouTube](https://www.youtube.com/watch?v=gsZiJeaMO48)
+[Can you REALLY SEE the difference? Raster vs Ray Tracing vs Path Tracing - YouTube](https://www.youtube.com/watch?v=ZFsz0O93c88)
 [Ray Tracing in Games: How Today's Big Tech Gamble Became Tomorrow's Sure Thing [Sponsored] - YouTube](https://www.youtube.com/watch?v=SJ0NzZAkPlo)
+[How Realistic CGI Works (And How To Do It Way Faster) - YouTube](https://www.youtube.com/watch?v=gsZiJeaMO48)
+
 [Ray Tracing Essentials Part 1: Basics of Ray Tracing – NVIDIA Developer News Center](https://news.developer.nvidia.com/ray-tracing-essentials-part-1-basics-of-ray-tracing/)
 [Ray Tracing Essentials Part 2: Rasterization versus Ray Tracing – NVIDIA Developer News Center](https://news.developer.nvidia.com/ray-tracing-essentials-part-2-rasterization-versus-ray-tracing/)
 [Ray Tracing Essentials Part 3: Ray Tracing Hardware – NVIDIA Developer News Center](https://news.developer.nvidia.com/ray-tracing-essentials-part-3-ray-tracing-hardware/)
@@ -177,21 +194,24 @@ Gamers Nexus
 [SimonDev - YouTube](https://www.youtube.com/@simondev758)
 [The NEW way that 3d engines do bloom. From the basics to cutting edge - YouTube](https://www.youtube.com/watch?v=ml-5OGZC7vE) convolution -> FFT
 [How Big Budget AAA Games Render Clouds - YouTube](https://www.youtube.com/watch?v=Qj_tK_mdRcA)
+[Exploring a New Approach to Realistic Lighting: Radiance Cascades - YouTube](https://www.youtube.com/watch?v=3so7xdZHKxw) BRDF (Bidirectional Reflectance Distribution Function) -> Radiance Cascades
 
 ## 3D Data
 
 [3D Models for Free - Free3D.com](https://free3d.com/)
 [Download Free 3D Models - Royalty Free - Sketchfab](https://sketchfab.com/features/free-3d-models)
 
-[PCL - Point Cloud Library (PCL)](http://www.pointclouds.org/)
+[PCL - Point Cloud Library (PCL)](https://www.pointclouds.org/)
 [PCL Notes · GitBook (Legacy)](https://legacy.gitbook.com/book/mnewbie/pcl-notes/details)
 
-[Open3D – A Modern Library for 3D Data Processing](http://www.open3d.org/)
+[Open3D – A Modern Library for 3D Data Processing](https://www.open3d.org/)
 [intel-isl/Open3D: Open3D: A Modern Library for 3D Data Processing](https://github.com/intel-isl/Open3D)
+
+[The Computational Geometry Algorithms Library](https://www.cgal.org/)
 
 [3d - Can I generate Point Cloud from mesh? - Stack Overflow](https://stackoverflow.com/questions/27224934/can-i-generate-point-cloud-from-mesh)
 
-[Point Cloud to Mesh · GitBook](http://fabacademy.org/2018/docs/FabAcademy-Tutorials/week5_3dscanning_and_printing/point_cloud_mesh.html)
+[Point Cloud to Mesh · GitBook](https://fabacademy.org/2018/docs/FabAcademy-Tutorials/week5_3dscanning_and_printing/point_cloud_mesh.html)
 
 [Monster Mash: New Sketch-Based Modeling and Animation Tool](https://monstermash.zone/)
 [Turn 2D Images into 3D Objects with Monster Mash! (Free Web Tool) - YouTube](https://www.youtube.com/watch?v=k043OByAG-4)
@@ -203,13 +223,10 @@ Gamers Nexus
 
 [nschloe/meshio: I/O for various mesh formats](https://github.com/nschloe/meshio/)
 
-[MeshLab](http://www.meshlab.net/)
-[CloudCompare - Open Source project](http://www.cloudcompare.org/)
+[MeshLab](https://www.meshlab.net/)
+[CloudCompare - Open Source project](https://www.cloudcompare.org/)
 
 ### Libraries
-
-[Open3D – A Modern Library for 3D Data Processing](http://www.open3d.org/)
-[The Computational Geometry Algorithms Library](https://www.cgal.org/)
 
 ### Visualization
 

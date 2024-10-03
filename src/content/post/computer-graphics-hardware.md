@@ -2,7 +2,7 @@
 title: Computer Graphics (Hardware)
 description: Computer Graphics on the hardware side
 created: 2016-10-18
-updated: 2023-11-22
+updated: 2024-08-14
 tags:
   - comp/hardware
   - graphics/hardware
@@ -42,6 +42,7 @@ Ahoy
 
 [GPU Tier List - Nvidia Edition! - YouTube](https://www.youtube.com/watch?v=ykDuoq-MpHg)
 
+[【硬核】在诉讼与骂名中崛起的英伟达GPU：从未停止过战斗，也没有永远的朋友 - YouTube](https://www.youtube.com/watch?v=UBwHVneGiXs)
 [【科技杂谈 79】从 GTX 到 RTX，NVIDIA GEFORCE 显卡家族的历史（1999-2019） - YouTube](https://www.youtube.com/watch?v=UUxUCVlXV0A)
 [The Evolution of Nvidia GeForce Graphics (1999-2022) - YouTube](https://www.youtube.com/watch?v=as-aVVm9JZI)
 
@@ -56,11 +57,11 @@ Asianometry
 
 ## Rendering/Compositor
 
-[Immediate mode (computer graphics) - Wikiwand](<https://www.wikiwand.com/en/Immediate_mode_(computer_graphics)>)
-[Immediate mode GUI - Wikiwand](https://www.wikiwand.com/en/Immediate_mode_GUI) 🤔incorrect?
+[Immediate mode (computer graphics) - Wikiwand](<https://omni.wikiwand.com/en/Immediate_mode_(computer_graphics)>)
+[Immediate mode GUI - Wikiwand](https://omni.wikiwand.com/en/Immediate_mode_GUI) 🤔incorrect?
 [About the IMGUI paradigm · ocornut/imgui Wiki](https://github.com/ocornut/imgui/wiki/About-the-IMGUI-paradigm) ❗!important
 [Immediate Mode Model/View/Controller](http://www.johno.se/book/imgui.html)
-[Retained mode - Wikiwand](https://www.wikiwand.com/en/Retained_mode)
+[Retained mode - Wikiwand](https://omni.wikiwand.com/en/Retained_mode)
 
 [linebender/2d.graphics: Repo for an ideational book on 2D graphics, plus tools to make images](https://github.com/linebender/2d.graphics)
 
@@ -80,8 +81,8 @@ Asianometry
 
 ## Antialiasing/Up-sampling/Up-scaling
 
-[Anti-aliasing - Wikiwand](http://www.wikiwand.com/en/Anti-aliasing)
-[Spatial anti-aliasing - Wikiwand](http://www.wikiwand.com/en/Spatial_anti-aliasing)
+[Anti-aliasing - Wikiwand](http://omni.wikiwand.com/en/Anti-aliasing)
+[Spatial anti-aliasing - Wikiwand](http://omni.wikiwand.com/en/Spatial_anti-aliasing)
 [Glossary:Anti-aliasing (AA) - PCGamingWiki PCGW - bugs, fixes, crashes, mods, guides and improvements for every PC game](<https://www.pcgamingwiki.com/wiki/Glossary:Anti-aliasing_(AA)>)
 [TweakGuides.com - Crysis 3 Tweak Guide](http://www.tweakguides.com/Crysis3_6.html)
 
@@ -203,7 +204,7 @@ Asynchronous compute shaders in DX12 benefits the most when CPU is the bottlenec
 
 [How Nvidia Won Graphics Cards - YouTube](https://www.youtube.com/watch?v=TRZqE6H-dww)
 
-[List of Nvidia graphics processing units - Wikiwand](https://www.wikiwand.com/en/List_of_Nvidia_graphics_processing_units)
+[List of Nvidia graphics processing units - Wikiwand](https://omni.wikiwand.com/en/List_of_Nvidia_graphics_processing_units)
 [NVIDIA GeForce RTX 3080/3080 Ti: more VRAM, way faster and CHEAPER?!](https://www.tweaktown.com/news/68455/nvidia-geforce-rtx-3080-ti-more-vram-way-faster-cheaper/amp.html)
 [NVIDIA 40 系顯卡性能翻倍無壓力：4060 打贏 3080、4070 打贏 3090，價格只是略微上漲「超極氪」 - YouTube](https://www.youtube.com/watch?v=-fdrr8e2YzE)
 
@@ -255,6 +256,8 @@ Radeon's DX11 driver was rewritten in 2022-07 which greatly improved stability a
 
 [AMD RDNA 3 GPU Architecture Deep Dive: The Ryzen Moment for GPUs | Tom's Hardware](https://www.tomshardware.com/news/amd-rdna-3-gpu-architecture-deep-dive-the-ryzen-moment-for-gpus)
 [AMD RDNA3 GPU Architecture Deep-Dive: 7900 XTX Drivers, Rasterization, & Ray Tracing - YouTube](https://www.youtube.com/watch?v=9iEDpXyFLFU)
+
+[ilya-zlobintsev/LACT: Linux AMDGPU Controller](https://github.com/ilya-zlobintsev/LACT)
 
 ## Intel Integrated Graphics
 

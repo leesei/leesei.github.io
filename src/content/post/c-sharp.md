@@ -2,7 +2,7 @@
 title: C#
 description: ""
 created: 2020-04-23
-updated: 2023-09-29
+updated: 2024-09-23
 tags:
   - c-sharp
   - comp/lang
@@ -401,7 +401,6 @@ Marshal.FreeHGlobal(unmanagedPointer);
 
 [c# - P/Invoke, Pinning, and KeepAlive Best Practices - Stack Overflow](https://stackoverflow.com/questions/528517/p-invoke-pinning-and-keepalive-best-practices)
 [CLR Inside Out - Best Practices For Managed And Native Code Interoperability | Microsoft Docs](https://docs.microsoft.com/en-us/archive/msdn-magazine/2009/january/clr-inside-out-best-practices-for-managed-and-native-code-interoperability)
-[Delegate Keep alive](https://social.msdn.microsoft.com/Forums/vstudio/en-US/66ea26a6-7c3d-4e96-9336-e3f148659f22/delegate-keep-alive?forum=clr)
 
 [.NET Memory control : Use GCHandle to pin down the objects - DZone](https://dzone.com/articles/net-memory-control-use-gchandl)
 [The Truth About Value Types - Fabulous Adventures In Coding - Site Home - MSDN Blogs](https://web.archive.org/web/20110903152602/http://blogs.msdn.com/b/ericlippert/archive/2010/09/30/the-truth-about-value-types.aspx) always pin structure before copying
@@ -587,7 +586,7 @@ Utf8Json is the fastest
 
 [NuGet Gallery | Microsoft.Windows.EventTracing.Processing.All 1.9.2](https://www.nuget.org/packages/Microsoft.Windows.EventTracing.Processing.All)
 [Documentation - .NET TraceProcessing | Microsoft Docs](https://docs.microsoft.com/en-us/windows/apps/trace-processing/)
-[Event Tracing - Win32 apps | Microsoft Docs](https://docs.microsoft.com/en-us/windows/win32/etw/event-tracing-portal?redirectedfrom=MSDN)
+[Event Tracing - Win32 apps | Microsoft Docs](https://docs.microsoft.com/en-us/windows/win32/etw/event-tracing-portal)
 [perfview/TraceEventProgrammersGuide.md at main · microsoft/perfview](https://github.com/microsoft/perfview/blob/main/documentation/TraceEvent/TraceEventProgrammersGuide.md)
 [perfview/TraceEventLibrary.md at main · microsoft/perfview](https://github.com/microsoft/perfview/blob/main/documentation/TraceEvent/TraceEventLibrary.md)
 [perfview/src/TraceEvent/Samples at main · microsoft/perfview](https://github.com/Microsoft/perfview/tree/main/src/TraceEvent/Samples)

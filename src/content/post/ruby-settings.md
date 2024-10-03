@@ -2,7 +2,7 @@
 title: Ruby settings
 description: ""
 created: 2015-01-13
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - comp/lang
   - gem

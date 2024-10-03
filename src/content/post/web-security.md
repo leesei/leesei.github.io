@@ -2,7 +2,7 @@
 title: Web Security
 description: ""
 created: 2015-05-18
-updated: 2023-11-28
+updated: 2024-08-14
 tags:
   - security
   - ssl
@@ -13,12 +13,12 @@ tags:
 [[dark-web]]
 [[linux-security]]
 [[ssl-tls]]
-[[sql#SQL injection]]
+[[cyber-security#SQL injection]]
 
 > focus of web application and deployment
 
-[Web application security - Wikiwand](http://www.wikiwand.com/en/Web_application_security)
-[Category:Web security exploits - Wikiwand](http://www.wikiwand.com/en/Category:Web_security_exploits)
+[Web application security - Wikiwand](http://omni.wikiwand.com/en/Web_application_security)
+[Category:Web security exploits - Wikiwand](http://omni.wikiwand.com/en/Category:Web_security_exploits)
 
 [Have I been pwned? Check if your email has been compromised in a data breach](https://haveibeenpwned.com/)
 
@@ -97,7 +97,7 @@ tags:
 
 ## Session Fixation
 
-[Session fixation - Wikiwand](http://www.wikiwand.com/en/Session_fixation)
+[Session fixation - Wikiwand](http://omni.wikiwand.com/en/Session_fixation)
 
 ## SRI
 
@@ -115,7 +115,7 @@ hash for resources
 
 ## SSRF
 
-[Server-side request forgery - Wikiwand](https://www.wikiwand.com/en/Server-side_request_forgery)
+[Server-side request forgery - Wikiwand](https://omni.wikiwand.com/en/Server-side_request_forgery)
 [What is SSRF (Server-side request forgery)? Tutorial & Examples | Web Security Academy](https://portswigger.net/web-security)
 
 ## CORS/SOP
@@ -123,7 +123,7 @@ hash for resources
 Cross Origin Resource Sharing
 Same Origin Policy
 
-[Cross-origin resource sharing - Wikiwand](https://www.wikiwand.com/en/Cross-origin_resource_sharing)
+[Cross-origin resource sharing - Wikiwand](https://omni.wikiwand.com/en/Cross-origin_resource_sharing)
 [Cross-Origin Resource Sharing (CORS) - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 [enable cross-origin resource sharing](http://enable-cors.org/index.html)
 
@@ -137,9 +137,8 @@ Same Origin Policy
 
 ## XSRF/CSRF/CSURF
 
-[Cross-site request forgery - Wikiwand](https://www.wikiwand.com/en/Cross-site_request_forgery)
+[Cross-site request forgery - Wikiwand](https://omni.wikiwand.com/en/Cross-site_request_forgery)
 [What is CSRF (Cross-site request forgery)? Tutorial & Examples | Web Security Academy](https://portswigger.net/web-security/csrf)
-[Bypassing CSRF Protections: A Double Defeat of the Double-Submit Cookie Pattern](https://www.owasp.org/images/3/32/David_Johansson-Double_Defeat_of_Double-Submit_Cookie.pdf)
 [Bypassing CSRF Protections: A Double Defeat of the Double-Submit Cookie Pattern](https://www.owasp.org/images/3/32/David_Johansson-Double_Defeat_of_Double-Submit_Cookie.pdf)
 [Cross-Site Request Forgery is dead!](https://scotthelme.co.uk/csrf-is-dead/)
 [CSRF Is Dead, Long Live SameSite=Lax! (or is it?) – Stephen's Thoughts](https://stephenreescarter.net/csrf-is-dead-long-live-samesite-lax/)
@@ -158,7 +157,7 @@ The counter-measure is to:
 
 ## XSS
 
-[Cross-site scripting - Wikiwand](http://www.wikiwand.com/en/Cross-site_scripting)
+[Cross-site scripting - Wikiwand](http://omni.wikiwand.com/en/Cross-site_scripting)
 [What is cross-site scripting (XSS) and how to prevent it? | Web Security Academy](https://portswigger.net/web-security/cross-site-scripting)
 
 [Excess XSS: A comprehensive tutorial on cross-site scripting](http://excess-xss.com/)
@@ -183,11 +182,6 @@ const root = document.createElement("div");
 root.innerHTML = "<img src=1 onerror=alert(1)>";
 root.innerHTML = "<details open ontoggle=alert(1)>";
 ```
-
-## SQL injection
-
-[SQL injection - Wikiwand](http://www.wikiwand.com/en/SQL_injection)
-[What is SQL Injection? Tutorial & Examples | Web Security Academy](https://portswigger.net/web-security/sql-injection)
 
 ## Node.js
 

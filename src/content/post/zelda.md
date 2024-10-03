@@ -2,13 +2,13 @@
 title: The Legend of Zelda
 description: ""
 created: 2023-06-06
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - games
   - zelda
 ---
 
-[The Legend of Zelda - Wikiwand](https://www.wikiwand.com/en/The_Legend_of_Zelda)
+[The Legend of Zelda - Wikiwand](https://omni.wikiwand.com/en/The_Legend_of_Zelda)
 [ゼルダの伝説ポータル | Nintendo](https://www.nintendo.co.jp/character/zelda/index.html)
 [Zelda Wiki](https://zelda.gamepedia.com/Main_Page)
 

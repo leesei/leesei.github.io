@@ -2,7 +2,7 @@
 title: Web Messaging
 description: ""
 created: 2019-03-04
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - message-channel
   - post-message

@@ -2,7 +2,7 @@
 title: Computer Memory
 description: ""
 created: 2016-04-26
-updated: 2023-10-26
+updated: 2024-09-28
 tags:
   - comp/hardware
   - ddr
@@ -27,12 +27,18 @@ true latency
 [【硬件科普】高频内存为什么要打开 XMP？详解内存条 SPD 与 XMP - YouTube](https://www.youtube.com/watch?v=KC4CVyWXjRM)
 [Why I get NO POST with XMP??? 👉 ULTIMATE RAM + XMP Guide - YouTube](https://www.youtube.com/watch?v=wzVZgTP2204) How Rank, Density and Population affects transfer rate (in that order)
 
+AMD's EXPO (for DDR5 on AM5) allow modules to run at lower clock speed upon idle (voltage won't change as of 2024-10)
+
 [Don't waste money chasing RAM speed for gaming on AMD or Intel | PC Gamer](https://www.pcgamer.com/does-ram-speed-matter-gaming-amd-intel/) DDR4@3600MHz is still the sweet spot in 2022
 
 [Understanding RAM Timings - Hardware Secrets](http://www.hardwaresecrets.com/understanding-ram-timings/)
 [RANT: THE CAS LATENCY TIMING DOESN'T MATTER AS MUCH AS YOU THINK IT DOES - YouTube](https://www.youtube.com/watch?v=pgb8N23tsfA)
 [What Are Memory Timings? CAS Latency, tRCD, tRP, & tRAS (Pt 1) | GamersNexus - Gaming PC Builds & Hardware Benchmarks](https://www.gamersnexus.net/guides/3333-memory-timings-defined-cas-latency-trcd-trp-tras)
 [What Are Memory Timings? CAS Latency, tRCD, tRP, & tRAS (Pt 1) - YouTube](https://www.youtube.com/watch?v=o59V3_4NvPM)
+
+[板廠沒有說的祕密:記憶體體質是怎樣定義?在不同的主機板又有什麼樣的差異?DRAGON ALLIANCE記憶體之星聯盟是什麼?記憶體體質是怎樣定義?記憶體相容性要注意那些? - YouTube](https://www.youtube.com/watch?v=JTcIlt-zbsw)
+[為什麼大家官網記憶體頻率越寫越高?是記憶體控制器?是顆粒?還是走線優化? 先講講AB通差異以及天花板變化 - YouTube](https://www.youtube.com/watch?v=P7cfegG9BKU)
+[記憶體頻率天花板之二!記憶體顆粒的差異造成頻率天花板的變化! - YouTube](https://www.youtube.com/watch?v=RUCmAALUL2w)
 
 [RAM Latency Calculator](https://notkyon.moe/ram-latency2.htm)
 
@@ -50,6 +56,13 @@ latency is more crucial
 
 [DDR5 is FINALLY HERE... and I've got it - YouTube](https://www.youtube.com/watch?v=aJEq7H4Wf6U)
 [DDR5 導讀~邁入新世代記憶體 DDR5 入門篇 - YouTube](https://www.youtube.com/watch?v=cKqq4O7qVTU)
+[DDR5進階必懂篇~什麼是JEDEC規範?什麼是POR頻率?為什麼DDR5電壓有1.435V限制?常見電壓破解又是怎麼一回事?? - YouTube](https://www.youtube.com/watch?v=0hookxhPyjI)
+
+## CAMM2
+
+[Upgradable RAM is Back – CAMM2 Explained - YouTube](https://www.youtube.com/watch?v=PMwt3A02WU8)
+[New Laptop Memory Is Here! LPCAMM2 Changes Everything! - YouTube](https://www.youtube.com/watch?v=K3zB9EFntmA)
+[不看你可能會翻車!!!次世代DDR5記憶體概念入門~想搞懂甚麼是CU-DIMM甚麼是CAMM2嗎?來慢慢聊聊天 - YouTube](https://www.youtube.com/watch?v=ImqoHmkIrbo)
 
 ## UDIMM vs RDIMM
 

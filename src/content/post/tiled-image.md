@@ -2,13 +2,13 @@
 title: Tiled Image
 description: ""
 created: 2016-04-08
-updated: 2023-09-29
+updated: 2024-09-23
 tags:
   - tiled-image
   - web
 ---
 
-[Mipmap - Wikiwand](https://www.wikiwand.com/en/Mipmap)
+[Mipmap - Wikiwand](https://omni.wikiwand.com/en/Mipmap)
 
 When viewing extremely large image (maps, medical and astrological images), it's more efficient to:
 
@@ -39,19 +39,19 @@ There are also many viewer to render these images on browser that provide differ
 
 Deep Zoom is a standard by Microsoft. It allows users to pan around and zoom in a large, high resolution image . It reduces the time required for initial load by downloading only the region being viewed or only at the resolution it is displayed at.
 
-[Deep Zoom - Wikiwand](http://www.wikiwand.com/en/Deep_Zoom)
-[A deepzoom primer ( explained and coded).. – Jaime Rodriguez](https://blogs.msdn.microsoft.com/jaimer/2008/04/01/a-deepzoom-primer-explained-and-coded/)
-[Deep Zoom](https://msdn.microsoft.com/en-us/library/cc645050)
-[Deep Zoom File Format Overview](https://msdn.microsoft.com/en-us/library/cc645077) !important
-[Deep Zoom Schema Reference](https://msdn.microsoft.com/en-us/library/cc645022)
-[About Deep Zoom Composer](https://msdn.microsoft.com/en-us/library/dd409068)
-[Creating Zooming Images | OpenSeadragon](http://openseadragon.github.io/examples/creating-zooming-images/)
+[Deep Zoom - Wikiwand](http://omni.wikiwand.com/en/Deep_Zoom)
+[A deepzoom primer ( explained and coded).. | Microsoft Learn](https://learn.microsoft.com/en-us/archive/blogs/jaimer/a-deepzoom-primer-explained-and-coded)
+[Deep Zoom File Format Overview | Microsoft Learn](<https://learn.microsoft.com/en-us/previous-versions/windows/silverlight/dotnet-windows-silverlight/cc645077(v=vs.95)>) ❗!important
+[Deep Zoom Schema Reference | Microsoft Learn](<https://learn.microsoft.com/en-us/previous-versions/windows/silverlight/dotnet-windows-silverlight/cc645022(v=vs.95)>)
+[About Deep Zoom Composer | Microsoft Learn](<https://learn.microsoft.com/en-us/previous-versions/visualstudio/design-tools/deep-zoom-composer/dd409068(v=expression.10)>)
+[Creating Zooming Images | OpenSeadragon](https://openseadragon.github.io/examples/creating-zooming-images/)
 
-[Inside Deep Zoom – Part I: Multiscale Imaging – RTFM / Daniel Gasienica](http://web.archive.org/web/20150429205932/http://www.gasi.ch/blog/inside-deep-zoom-1/)
-[Inside Deep Zoom – Part II: Mathematical Analysis – RTFM / Daniel Gasienica](http://web.archive.org/web/20150429205956/http://www.gasi.ch/blog/inside-deep-zoom-2)
-[Inside Deep Zoom – Part III: Deep Zoom in Flash – RTFM / Daniel Gasienica](http://web.archive.org/web/20150404123937/http://www.gasi.ch/blog/inside-deep-zoom-3/)
+[Inside Deep Zoom – Part I: Multiscale Imaging – RTFM / Daniel Gasienica](https://web.archive.org/web/20231031200714/https://www.gasi.ch/blog/inside-deep-zoom-1)
+[Inside Deep Zoom – Part II: Mathematical Analysis – RTFM / Daniel Gasienica](https://web.archive.org/web/20231031185907/https://www.gasi.ch/blog/inside-deep-zoom-2)
+[Inside Deep Zoom – Part III: Deep Zoom in Flash – RTFM / Daniel Gasienica](https://web.archive.org/web/20231031195112/https://www.gasi.ch/blog/inside-deep-zoom-3)
+[OpenZoom, Is This Your Luggage? – RTFM / Daniel Gasienica](https://web.archive.org/web/20231031194343/https://www.gasi.ch/blog/openzoom-is-this-your-luggage)
 
-[OpenSlide Python](http://openslide.org/api/python/) have built-in deep zoom support. See [RunningDeepZoomServerOnApache · openslide/openslide Wiki](https://github.com/openslide/openslide/wiki/RunningDeepZoomServerOnApache) for setting up an sample server.
+[OpenSlide Python](https://openslide.org/api/python/) have built-in deep zoom support. See [RunningDeepZoomServerOnApache · openslide/openslide Wiki](https://github.com/openslide/openslide/wiki/RunningDeepZoomServerOnApache) for setting up an sample server.
 
 `TileSize` is the effective content, each tile has a padding of `Overlap` pixels. So a non edge tile is has side length of `TileSize + 2*Overlap`.
 [Use 254 pixels as default tile size by gasi · Pull Request #359 · jcupitt/libvips](https://github.com/jcupitt/libvips/pull/359) (recommend tile size)

@@ -2,7 +2,7 @@
 title: HashiCorp
 description: ""
 created: 2016-03-19
-updated: 2023-11-09
+updated: 2024-04-26
 tags:
   - dev/deploy
   - devops
@@ -152,3 +152,6 @@ Designed for production.
 
 [OpenTofu](https://opentofu.org/) Terraform alternative
 [OpenTofu](https://github.com/opentofu)
+
+[OpenBao | OpenBao](https://openbao.org/) Vault alternative
+[OpenBao](https://github.com/openbao)

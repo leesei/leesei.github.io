@@ -2,7 +2,7 @@
 title: Baldur's Gate
 description: ""
 created: 2023-08-14
-updated: 2023-09-29
+updated: 2024-02-19
 tags:
   - baldurs-gate
   - game
@@ -13,6 +13,10 @@ tags:
 Gamker
 [《博得之門 Baldur's Gate》為何被稱為傳奇？它復活的意義？【就知道玩遊戲 65】 - YouTube](https://www.youtube.com/watch?v=n5VE49MXWFs)
 [從《博德之門 3》聊 CRPG 的發展【就知道玩遊戲 118】 - YouTube](https://www.youtube.com/watch?v=3X9zTGp4dBI)
+
+[「年度最佳」這不是肝, 這是愛啊! - 柏德之門3 完全鑒賞 ︳Baldur's Gate 3 博德之門3 ︳4K畫質 - YouTube](https://www.youtube.com/watch?v=quvJzhX_dmw)
+
+[柏德之門3(Baldur’s Gate 3)|攻略匯集（實時更新）\_18183新遊戲](https://xin.18183.com/steam/4417261.html)
 
 [【遊戲攻略】Baldur's Gate3✨ 柏德之門 3✨🎲 骰子篇 🎲 永遠不要跟我提機率！ - YouTube](https://www.youtube.com/watch?v=PmPZU4B8q6k)
 [【遊戲攻略】Baldur's Gate3✨ 柏德之門 3✨🎲 小技巧篇 🎲 燒燙燙的第三集來了！ - YouTube](https://www.youtube.com/watch?v=GQp8wxOi-IQ&t=2s)

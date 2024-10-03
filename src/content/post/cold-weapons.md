@@ -2,13 +2,13 @@
 title: Cold Weapons
 description: ""
 created: 2015-10-09
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - weapons
 ---
 
-[Cold weapon - Wikiwand](http://www.wikiwand.com/en/Cold_weapon)
-[List of premodern combat weapons - Wikiwand](http://www.wikiwand.com/en/List_of_premodern_combat_weapons)
+[Cold weapon - Wikiwand](http://omni.wikiwand.com/en/Cold_weapon)
+[List of premodern combat weapons - Wikiwand](http://omni.wikiwand.com/en/List_of_premodern_combat_weapons)
 
 [Weapons and armour - YouTube](https://www.youtube.com/playlist?list=PLCA860ECD7F894424) Lindybeige
 [Walter Sorrells - YouTube](https://www.youtube.com/user/slappybuckshot)
@@ -46,11 +46,8 @@ tags:
 
 [Weapons, armor and tactics - YouTube](https://www.youtube.com/playlist?list=PLObJ0KGDh5_NAae08xpNDGHyQYvEH6nFF) Epimetheus
 
-[武備志 Martialab - Home](https://www.facebook.com/Martialabhk/)
-[武備志｜提供 MMA、柔道等搏擊運動比賽及技術資訊｜香港 01](https://www.hk01.com/channel/166/%E6%AD%A6%E5%82%99%E5%BF%97)
 [【Swordbreaker/破刃短劍】中世紀特殊短劍 可以破劍的「破刃劍」｜香港 01 ｜武備志](https://www.hk01.com/%E6%AD%A6%E5%82%99%E5%BF%97/204747/)
 
-[Historical European martial arts - Wikiwand](https://www.wikiwand.com/en/Historical_European_martial_arts)
 [如何重現青銅時代的劍術？——研究古代冷兵器對戰，需要現代戰士參與！ - PanSci 泛科學](https://pansci.asia/archives/339084)
 [世紀帝國真人版：一場被遺忘的史詩級青銅器大戰 - PanSci 泛科學](https://pansci.asia/archives/99489)
 [Fight Scene Autopsy - YouTube](https://www.youtube.com/playlist?list=PLWklwxMTl4sy0FAFOuGF-2jVV9K8nnFRs) Shadiversity
@@ -62,22 +59,12 @@ tags:
 [古代兵器大辟谣 - YouTube](https://www.youtube.com/playlist?list=PLB_IY29eVwsVoj3ICm8wdaPPhyUzdXX_K)
 [《古兵器大揭秘》 第二季|揭示古兵器相生相克的秘密【全 10 集】 - YouTube](https://www.youtube.com/playlist?list=PLwXMmy5fUrVxM9p2mQkPFSIXYlat8FkYM)
 
-[十八般兵器 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%8D%81%E5%85%AB%E8%88%AC%E5%85%B5%E5%99%A8)
-[戈 (武器) - Wikiwand](<https://www.wikiwand.com/zh-hant/%E6%88%88_(%E6%AD%A6%E5%99%A8)>) 以勾擊為主要攻擊方式
-[矛 - Wikiwand](https://www.wikiwand.com/zh-hant/%E7%9F%9B) 跟槍、槊同樣
-[戟 - Wikiwand](https://www.wikiwand.com/zh-hant/%E6%88%9F) 結合戈與矛
+[十八般兵器 - Wikiwand](https://omni.wikiwand.com/zh/%E5%8D%81%E5%85%AB%E8%88%AC%E5%85%B5%E5%99%A8)
+[戈 (武器) - Wikiwand](<https://omni.wikiwand.com/zh/%E6%88%88_(%E6%AD%A6%E5%99%A8)>) 以勾擊為主要攻擊方式
+[矛 - Wikiwand](https://omni.wikiwand.com/zh/%E7%9F%9B) 跟槍、槊同樣
+[戟 - Wikiwand](https://omni.wikiwand.com/zh/%E6%88%9F) 結合戈與矛
 
 [[chinese-swords]]
-
-### 武術 Martial Arts
-
-[脚滑的冒险者 - YouTube](https://www.youtube.com/@Maoxianzhe1101)
-[千万不要被咏春拳贴脸 - YouTube](https://www.youtube.com/watch?v=y16XXSUFi6A)
-
-[拳谚 - 快懂百科](https://www.baike.com/wikiid/5909962512942453996?view_id=5j8wq13i7aw00)
-[分享有趣拳諺 @ 常抱柔軟心 隨緣不攀緣 :: 隨意窩 Xuite 日誌](https://blog.xuite.net/softheart0228/twblog/365363049)
-[拳諺:拳諺，是武術中的術語。概述腰入蛇行，步賽粘蛇行，表示靈活；粘，原指 -百科知識中文網](https://www.easyatm.com.tw/wiki/%E6%8B%B3%E8%AB%BA)
-[微言大義拳諺 30 條](https://www.9900.com.tw/talk/BBSShowV2.aspx?jid=7207925c5254004ff947)
 
 ## 日本
 
@@ -95,7 +82,7 @@ tags:
 
 [The Oakeshott Institute: Sword, weapons and armor research](http://oakeshott.org/) on sword categorization
 [The Oakeshott Institute is creating 3d models, photos, and articles on historic arms and armor | Patreon](https://www.patreon.com/oakeshott)
-[Oakeshott typology - Wikiwand](https://www.wikiwand.com/en/Oakeshott_typology)
+[Oakeshott typology - Wikiwand](https://omni.wikiwand.com/en/Oakeshott_typology)
 [Introduction to Oakeshott's Sword Typology](http://www.thearma.org/spotlight/oakeshott_typology.html)
 [Oakeshott's Typology of the Medieval Sword](https://albion-swords.com/articles/oakeshott-typology.htm)
 [Ewart Oakeshott: The Man and his Legacy -- myArmoury.com](https://myarmoury.com/feature_oakeshott.html)
@@ -105,19 +92,19 @@ tags:
 [Armor - A 3D model collection by ferretkun (@ferretkun) - Sketchfab](https://sketchfab.com/ferretkun/collections/armor)
 [Armour - A 3D model collection by metalcharm (@metalcharm) - Sketchfab](https://sketchfab.com/metalcharm/collections/armour)
 
-[十八般兵器 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%8D%81%E5%85%AB%E8%88%AC%E5%85%B5%E5%99%A8)
+[十八般兵器 - Wikiwand](https://omni.wikiwand.com/zh/%E5%8D%81%E5%85%AB%E8%88%AC%E5%85%B5%E5%99%A8)
 [十八般兵器\_百度百科](https://baike.baidu.com/item/%E5%8D%81%E5%85%AB%E8%88%AC%E5%85%B5%E5%99%A8)
 
 ## Siege weapons
 
-[Catapult - Wikiwand](https://www.wikiwand.com/en/Catapult) umbrella term, tension or torsion energy
-[Onager (weapon) - Wikiwand](<https://www.wikiwand.com/en/Onager_(weapon)>) 弩砲 torsion energy, commonly known as catapult
-[Mangonel - Wikiwand](https://www.wikiwand.com/en/Mangonel) 牽引投石機 traction trebuchet, powered by man
-[Trebuchet - Wikiwand](http://www.wikiwand.com/en/Trebuchet) 重力投石機/配重式投石機 powered by counterweight
+[Catapult - Wikiwand](https://omni.wikiwand.com/en/Catapult) umbrella term, tension or torsion energy
+[Onager (weapon) - Wikiwand](<https://omni.wikiwand.com/en/Onager_(weapon)>) 弩砲 torsion energy, commonly known as catapult
+[Mangonel - Wikiwand](https://omni.wikiwand.com/en/Mangonel) 牽引投石機 traction trebuchet, powered by man
+[Trebuchet - Wikiwand](http://omni.wikiwand.com/en/Trebuchet) 重力投石機/配重式投石機 powered by counterweight
 [Catapults, trebuchet, onager, mangonel, ballista - YouTube](https://www.youtube.com/watch?v=yCIk9bT2ZTo) vs people
 
-[Siege engine - Wikiwand](http://www.wikiwand.com/en/Siege_engine)
-[Siege tower - Wikiwand](http://www.wikiwand.com/en/Siege_tower)
+[Siege engine - Wikiwand](http://omni.wikiwand.com/en/Siege_engine)
+[Siege tower - Wikiwand](http://omni.wikiwand.com/en/Siege_tower)
 
 [The Evolution From Arrows To Artillery In Weapon Technology | Our History - YouTube](https://www.youtube.com/watch?v=7bEmrwNRfWA)
 [The TRUTH about medieval CATAPULTS - YouTube](https://www.youtube.com/watch?v=7x-vv0FCIkQ)
@@ -134,16 +121,24 @@ tags:
 
 ## Forging
 
-[Metalworking - Wikiwand](http://www.wikiwand.com/en/Metalworking)
-[Forge - Wikiwand](http://www.wikiwand.com/en/Forge)
-[Forging - Wikiwand](http://www.wikiwand.com/en/Forging)
-[變軟變硬都靠它？金屬熱處理，退火、淬火、回火的原理解說 - YouTube](https://www.youtube.com/watch?v=u9kpobrLBj4)
+[Metalworking - Wikiwand](http://omni.wikiwand.com/en/Metalworking)
+[Forge - Wikiwand](http://omni.wikiwand.com/en/Forge)
+[Forging - Wikiwand](http://omni.wikiwand.com/en/Forging)
+[變軟變硬都靠它？金屬熱處理，退火、淬火、回火的原理解說 - YouTube](https://www.youtube.com/watch?v=u9kpobrLBj4) ❗!important
+
+Heat treat and temper
+晶粒大小(及晶界)影響金屬硬度, 熱處理可改變晶粒大小
+退火: 以高溫加熱金屬, 再慢慢冷卻, 使金屬變軟, 消除內部應力
+淬火: 以高溫加熱金屬, 再急速冷卻, 提高硬度及與強度, 但同時使金屬變脆
+回火: 以中溫加熱金屬, 再慢慢冷卻, 提高韌性與塑性
 
 [Man at Arms: The Complete Series - YouTube](https://www.youtube.com/playlist?list=PLUUGFk1wE5OHqeNDwp2q9_ZiPqKlWNc6V)
 [Forging a Bronze-Age Sword - YouTube](https://www.youtube.com/watch?v=R62TPFzBQ40)
 
 [Casting swords in the movies - forging a lie - YouTube](https://www.youtube.com/watch?v=8E6TzT0eCYs)
 [Forging a sword - part one: the basic shape - YouTube](https://www.youtube.com/watch?v=KYydVZRbl6M)
+[How the Most Expensive Swords in the World Are Made - YouTube](https://www.youtube.com/watch?v=Tt6WQYtefXA)
+[How did Veritasium get SO MUCH wrong in their katana video?! a reply - YouTube](https://www.youtube.com/watch?v=GJZeEi-kifc)
 [【鑄造！朗基努斯之槍！】全不銹鋼鑄造超狂冷兵器！亞洲最狂究極神還原！@Julia 咪妃@崩壞 3rd (ft. 咪妃, 崩壞 3rd x EVA) 福音戰士 明日香 - YouTube](https://www.youtube.com/watch?v=DI-Hzg0axLQ)
 
 [高中生都會！高溫熔鋁鑄造基礎教學【超認真少年】CASTING Aluminum: the Basics - YouTube](https://www.youtube.com/watch?v=t0IP1e1cYFE)
@@ -156,7 +151,7 @@ tags:
 
 Smelting, quenching and tempering
 
-[Smelting - Wikiwand](https://www.wikiwand.com/en/Smelting)
+[Smelting - Wikiwand](https://omni.wikiwand.com/en/Smelting)
 [Category:Smelting - Wikipedia](https://en.wikipedia.org/wiki/Category:Smelting?oldformat=true)
 [The riddle of steel: How people made it by accident for millennia - YouTube](https://www.youtube.com/watch?v=wrgK-9nNzow) early smelting would probably create little bit of steel
 [History Summarized: Steel (Feat. "That Works") - YouTube](https://www.youtube.com/watch?v=T-EuVTg9gzg)
@@ -198,7 +193,7 @@ Buckler: round shield hold at the center facing forward
 
 A stone age tool that predates bow and arrow
 
-[Spear-thrower - Wikiwand](https://www.wikiwand.com/en/Spear-thrower) but spear is a thrusting weapon
+[Spear-thrower - Wikiwand](https://omni.wikiwand.com/en/Spear-thrower) but spear is a thrusting weapon
 [The Atlatl: Most Underrated Stone Age Tool? - YouTube](https://www.youtube.com/watch?v=YGGvWazDM_g)
 [How to Throw an Atlatl | Live Free or Die: DIY - YouTube](https://www.youtube.com/watch?v=NHgUMUk3YwY)
 [Hunting the Ancient Bison. Primitive hunting with the Atlatl & Exploring Experimental Archaeology - YouTube](https://www.youtube.com/watch?v=l7jMxfopKjM)
@@ -225,7 +220,7 @@ A stone age tool that predates bow and arrow
 [為什麼斯基泰騎射手戴弓箭袋方式與別不同？｜香港 01 ｜武備志](https://www.hk01.com/%E6%AD%A6%E5%82%99%E5%BF%97/141744/)
 [關於日本人使弓上下不對稱，有個複雜的說法！ - 每日頭條](https://kknews.cc/news/g83q5m8.html)
 
-[Archer's paradox - Wikiwand](https://www.wikiwand.com/en/Archer%27s_paradox)
+[Archer's paradox - Wikiwand](https://omni.wikiwand.com/en/Archer%27s_paradox)
 [箭該放在弓的那一邊？｜香港 01 ｜武備志](https://www.hk01.com/%E6%AD%A6%E5%82%99%E5%BF%97/87800/)
 
 [archhk - YouTube](https://www.youtube.com/user/archhk/feed)
@@ -235,8 +230,27 @@ A stone age tool that predates bow and arrow
 
 ## 馬鐙 Stirrup
 
-[Stirrup - Wikiwand](https://www.wikiwand.com/en/Stirrup)
-[鐙 - Wikiwand](https://www.wikiwand.com/zh-hant/%E9%95%AB) 古代兵器大辟谣
+[Stirrup - Wikiwand](https://omni.wikiwand.com/en/Stirrup)
+[鐙 - Wikiwand](https://omni.wikiwand.com/zh/%E9%95%AB) 古代兵器大辟谣
 [马镫\_百度百科](https://baike.baidu.com/item/%E9%A9%AC%E9%95%AB)
 [三國時期到底有沒有馬鐙，馬鐙到底是什麼時候出現的？ - 每日頭條](https://kknews.cc/zh-hk/history/5ookgnl.html)
 [到底是誰發明了馬鐙？ - 每日頭條](https://kknews.cc/zh-hk/culture/r8r9q3n.html)
+
+## 武術 Martial Arts
+
+[脚滑的冒险者 - YouTube](https://www.youtube.com/@Maoxianzhe1101)
+[千万不要被咏春拳贴脸 - YouTube](https://www.youtube.com/watch?v=y16XXSUFi6A)
+
+Tengu Media
+[武道史！ - YouTube](https://www.youtube.com/playlist?list=PLbUGnFmS1f5dgZrjMSe-wxNd0eFNMgSV3)  
+[『武道篇』人類如何徒手對抗猛獸？教你徒手單挑打敗老虎、棕熊、大猩猩、巨蟒、鱷魚、大白鯊... - YouTube](https://www.youtube.com/watch?v=MfaS3y7yzu4)
+
+[拳谚 - 快懂百科](https://www.baike.com/wikiid/5909962512942453996?view_id=5j8wq13i7aw00)
+[分享有趣拳諺 @ 常抱柔軟心 隨緣不攀緣 :: 隨意窩 Xuite 日誌](https://blog.xuite.net/softheart0228/twblog/365363049)
+[拳諺:拳諺，是武術中的術語。概述腰入蛇行，步賽粘蛇行，表示靈活；粘，原指 -百科知識中文網](https://www.easyatm.com.tw/wiki/%E6%8B%B3%E8%AB%BA)
+[微言大義拳諺 30 條](https://www.9900.com.tw/talk/BBSShowV2.aspx?jid=7207925c5254004ff947)
+
+[武備志 Martialab - Home](https://www.facebook.com/Martialabhk/)
+[武備志｜提供 MMA、柔道等搏擊運動比賽及技術資訊｜香港 01](https://www.hk01.com/channel/166/%E6%AD%A6%E5%82%99%E5%BF%97)
+
+[Historical European martial arts - Wikiwand](https://omni.wikiwand.com/en/Historical_European_martial_arts)

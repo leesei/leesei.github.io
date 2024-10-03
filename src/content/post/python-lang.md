@@ -2,7 +2,7 @@
 title: Python notes
 description: ""
 created: 2014-12-11
-updated: 2023-10-05
+updated: 2024-09-19
 tags:
   - comp/lang
   - python
@@ -115,6 +115,8 @@ Python version should be a requirement to be satisfied (by pinning particular ve
 [Learn Python By Example - PythonForBeginners.com](https://www.pythonforbeginners.com/)
 [Python tutorial - beginner Python tutorial](http://zetcode.com/lang/python/)
 [9 Free Online Courses for Python Beginners](https://www.makeuseof.com/python-online-course-free/)
+
+[【python】B站没人讲过的CodeObject，python底层实现一点都不简单！ - YouTube](https://www.youtube.com/watch?v=2ifX3yAnAFc&list=PLSo-C2L8kdSNAdlCQQ84dlszsiD-gRM5J&index=7) ❗!important
 
 [PY4E - Python for Everybody](https://www.py4e.com/)
 [Programming for Everybody (Getting Started with Python) | Coursera](https://www.coursera.org/learn/python)
@@ -433,6 +435,7 @@ small integer (`-5` to `256` inclusive) and short strings are interned, use `int
 
 [How to Use the Python or Operator – Real Python](https://realpython.com/python-or-operator/)
 [The Walrus Operator: Python 3.8 Assignment Expressions – Real Python](https://realpython.com/python-walrus-operator/)
+[How (Not) To Use Python’s Walrus Operator - KDnuggets](https://www.kdnuggets.com/how-not-to-use-pythons-walrus-operator)
 
 [Martin Heinz | The Unknown Features of Python's Operator Module](https://martinheinz.dev/blog/54)
 [operator — Standard operators as functions — Python documentation](https://docs.python.org/3/library/operator.html#mapping-operators-to-functions)
@@ -521,6 +524,11 @@ for (key, value) in dictionary.items():
 [Should You Use Python pathlib or os? | by Adam Green | Better Programming](https://betterprogramming.pub/should-you-be-using-pathlib-6f3a0fddec7e)
 
 [Starting With Python's pathlib Module - YouTube](https://www.youtube.com/watch?v=S5UOze6T1jg)
+
+### `shutil`
+
+[shutil — High-level file operations — Python 3 documentation](https://docs.python.org/3/library/shutil.html)
+[shutil: The Ultimate Python File Management Toolkit - YouTube](https://www.youtube.com/watch?v=sXzezIK0d7c)
 
 ### `defaultdict`
 
@@ -656,7 +664,7 @@ class Person:
 
 ## docstring
 
-[Docstring - Wikiwand](https://www.wikiwand.com/en/Docstring#/Python)
+[Docstring - Wikiwand](https://omni.wikiwand.com/en/Docstring#/Python)
 
 [27.2. pydoc — Documentation generator and online help system — Python documentation](https://docs.python.org/3/library/pydoc.html)
 [Charming Python: pydoc and distutils modules](https://www.ibm.com/developerworks/linux/library/l-cpmod/index.html)
@@ -754,6 +762,10 @@ Protocol name can be `Iterable`, `PathLike`, `Ducky`
 [Deciphering Glyph :: Interfaces and Protocols](https://blog.glyph.im/2021/03/interfaces-and-protocols.html)
 [Protocol Types in Python 3.8](https://auth0.com/blog/protocol-types-in-python/)
 [Protocols and structural subtyping - mypy documentation](https://mypy.readthedocs.io/en/stable/protocols.html)
+
+## TypeVar/Generics
+
+[Generics are VITAL in typed Python - YouTube](https://www.youtube.com/watch?v=ChRDzldOz8g)
 
 ## Functions
 
@@ -1055,11 +1067,15 @@ def logging_decorator(func: Callable[..., Any]):
 [Debugging memory usage in a live Python web app – dbader.org](https://dbader.org/blog/debugging-python-memory-usage)
 [How to use the Python debugger | InfoWorld](https://www.infoworld.com/article/3327196/python/how-to-use-the-python-debugger.html)
 
+[【python】这个十多年的bug，没点黑魔法还真解决不了 - YouTube](https://www.youtube.com/watch?v=Mp_f1sBckjU) debugger don't work well with closure, a custom wrapper is needed to generate closure bytecode for pdb's eval
+
 ```sh
 python -m pdb script.py
 ```
 
+[pudb documentation](https://documen.tician.de/pudb/)
 [inducer/pudb: Full-screen console debugger for Python](https://github.com/inducer/pudb)
+
 [robdmc/behold: A Debugging Tool](https://github.com/robdmc/behold)
 
 ## Iterables/Generator
@@ -1371,8 +1387,11 @@ def find_path(source, graph=graph, path=[]):
 
 [Deciphering Glyph :: Modularity for Maintenance](https://glyph.twistedmatrix.com/2020/02/modules-for-maintenance.html)
 
+[amirgamil/Python-Interview-Tricks: A collection of useful python data structures, tricks, and must-knows for coding interviews](https://github.com/amirgamil/Python-Interview-Tricks)
+
 [7 Easter Eggs in Python. Countless Ways to Entertain Yourself at… | by Eden Au | Towards Data Science](https://towardsdatascience.com/7-easter-eggs-in-python-7765dc15a203)
 [Master the 5 Ways to Use Underscores in Python! | by Eirik Berge | Geek Culture | Jul, 2021 | Medium](https://medium.com/geekculture/master-the-5-ways-to-use-underscores-in-python-cfcc7fa53734)
+[Mastering Python: 7 Strategies for Writing Clear, Organized, and Efficient Code - KDnuggets](https://www.kdnuggets.com/mastering-python-7-strategies-for-writing-clear-organized-and-efficient-code)
 
 [5 Tips To Achieve Low Coupling In Your Python Code - YouTube](https://www.youtube.com/watch?v=qR4-PBLUZNw)
 
@@ -1456,7 +1475,7 @@ Gist:
 [Ship better Python software, faster](https://pythonspeed.com/)
 
 [Writing Faster Python 3 - presented by Sebastian Witowski - YouTube](https://www.youtube.com/watch?v=6P68IBou_cg) [code](https://github.com/switowski/writing-faster-python3)
-[#Writing Faster Python - Sebastian Witowski](https://switowski.com/tags/writing-faster-python/)
+[Writing Faster Python - Sebastian Witowski](https://switowski.com/tags/writing-faster-python/)
 
 [10 hard-core coding tips for faster Python | InfoWorld](http://www.infoworld.com/article/3044088/application-development/10-hard-core-coding-tips-for-faster-python.html?upd=1467079778194)
 [A Python Optimization Anecdote | Dropbox Tech Blog](https://blogs.dropbox.com/tech/2011/10/a-python-optimization-anecdote/)
@@ -1597,6 +1616,7 @@ python -c "import module"
 [Speed up your Python using Rust - Red Hat Developer](https://developers.redhat.com/blog/2017/11/16/speed-python-using-rust/)
 [How to use Rust with Python, and Python with Rust | InfoWorld](https://www.infoworld.com/article/3664124/how-to-use-rust-with-python-and-python-with-rust.html)
 [Why you should use Python and Rust together | Opensource.com](https://opensource.com/article/23/3/python-loves-rust)
+[Let’s build and optimize a Rust extension for Python](https://pythonspeed.com/articles/intro-rust-python-extensions/)
 
 [dgrunwald/rust-cpython: Rust <-> Python bindings](https://github.com/dgrunwald/rust-cpython)
 

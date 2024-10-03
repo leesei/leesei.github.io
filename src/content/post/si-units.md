@@ -2,12 +2,12 @@
 title: SI Units
 description: ""
 created: 2015-08-28
-updated: 2023-12-02
+updated: 2024-08-14
 tags:
   - science
 ---
 
-[International System of Units - Wikiwand](http://www.wikiwand.com/en/International_System_of_Units)
+[International System of Units - Wikiwand](http://omni.wikiwand.com/en/International_System_of_Units)
 [SI Redefinition | NIST](https://www.nist.gov/si-redefinition) redefinition of the 7 SI units based on' nature's fundamental constants
 
 [Sixty Symbols - Physics and Astronomy videos](http://www.sixtysymbols.com/)
@@ -16,16 +16,6 @@ tags:
 
 [Seven Dimensions - YouTube](https://www.youtube.com/watch?v=bI-FS7aZJpY) use SI units as basis and matrices for unit conversion
 
-New Mind
-[The Science Of Small Distances - YouTube](https://www.youtube.com/watch?v=Aw-xbs8ZWxE)
-[The Science Of Flatness - YouTube](https://www.youtube.com/watch?v=OWa3F4bKJsE)
-[The Evolution Of Cutting Tools - YouTube](https://www.youtube.com/watch?v=YSdho8y4EoA)
-[The Science Of Roundness - YouTube](https://www.youtube.com/watch?v=NjbvOTUSqdI)
-[Welding With Friction - YouTube](https://www.youtube.com/watch?v=D1NcfXxtKng)
-[Extreme Materials - YouTube](https://www.youtube.com/watch?v=3a8uOXIPhNI)
-[Cloaking With Metamaterials - YouTube](https://www.youtube.com/watch?v=sweVNjEQj0s)
-
-[Machine Thinking - YouTube](https://www.youtube.com/@machinethinking)
 [Origins of Precision - YouTube](https://www.youtube.com/watch?v=gNRnrn5DE58)
 
 The Efficient Engineer
@@ -88,9 +78,9 @@ The Efficient Engineer
 
 ## Temperature (K)
 
-[Celsius - Wikiwand](https://www.wikiwand.com/en/Celsius)
-[Fahrenheit - Wikiwand](https://www.wikiwand.com/en/Fahrenheit) the temperature of a human body (around 98 degrees Fahrenheit) and the temperature of salt and ice (0 °F).
-[Kelvin - Wikiwand](https://www.wikiwand.com/en/Kelvin)
+[Celsius - Wikiwand](https://omni.wikiwand.com/en/Celsius)
+[Fahrenheit - Wikiwand](https://omni.wikiwand.com/en/Fahrenheit) the temperature of a human body (around 98 degrees Fahrenheit) and the temperature of salt and ice (0 °F).
+[Kelvin - Wikiwand](https://omni.wikiwand.com/en/Kelvin)
 [Convert Celsius to Fahrenheit](https://www.unitconverters.net/temperature/celsius-to-fahrenheit.htm)
 [Temperature Is Not What You Think It Is | WIRED](https://www.wired.com/story/temperature-is-not-what-you-think-it-is/)
 

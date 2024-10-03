@@ -2,7 +2,7 @@
 title: Cross Platform Apps (Desktop)
 description: ""
 created: 2022-05-03
-updated: 2023-10-28
+updated: 2024-08-14
 tags:
   - app
 ---
@@ -10,7 +10,7 @@ tags:
 [[avaloniaui]]
 [[flutter]]
 [[qt]]
-[[rust#GUI]]
+[[rust-lang#GUI]]
 [[go-lang#GUI]]
 [[zig-lang#GUI]]
 [[v-lang]]
@@ -36,8 +36,23 @@ Rust core + TypeScript UI
 
 [Rust, SolidJS, and Tauri: Create a cross-platform desktop app - LogRocket Blog](https://blog.logrocket.com/rust-solid-js-tauri-desktop-app/)
 [Tauri vs. Electron: A comparison, how-to, and migration guide - LogRocket Blog](https://blog.logrocket.com/tauri-electron-comparison-migration-guide/)
+[Getting Started with Tauri & Shadcn/ui - YouTube](https://www.youtube.com/watch?v=Doesub32hpc)
 
 [astrodon/astrodon: Make Desktop apps with Deno 🦕](https://github.com/astrodon/astrodon)
+
+### Textualize
+
+[Textualize - Home](https://www.textualize.io/)
+[Textualize/textual: The lean application framework for Python. Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.](https://github.com/Textualize/textual)
+
+[Textualize - YouTube](https://www.youtube.com/@Textualize-official)
+
+[Building a calculator in the terminal – Textual tutorial - YouTube](https://www.youtube.com/watch?v=pxHMi5l6aO8)
+[Textualize/videos: Code samples for Textual(ize) videos.](https://github.com/textualize/videos)
+
+### Gluon
+
+[gluon-framework/gluon: A new framework for creating desktop apps from websites, using system installed browsers and NodeJS](https://github.com/gluon-framework/gluon)
 
 ### Webview
 
@@ -128,9 +143,9 @@ Rust core + TypeScript UI
 ## GTK
 
 [The GTK+ Project](https://www.gtk.org/)
-[GTK+ - Wikiwand](https://www.wikiwand.com/en/GTK%2B)
-[GLib - Wikiwand](https://www.wikiwand.com/en/GLib)
-[List of language bindings for GTK+ - Wikiwand](https://www.wikiwand.com/en/List_of_language_bindings_for_GTK%2B)
+[GTK+ - Wikiwand](https://omni.wikiwand.com/en/GTK%2B)
+[GLib - Wikiwand](https://omni.wikiwand.com/en/GLib)
+[List of language bindings for GTK+ - Wikiwand](https://omni.wikiwand.com/en/List_of_language_bindings_for_GTK%2B)
 
 [threaded animation with cairo](https://www.cairographics.org/threaded_animation_with_cairo/)
 
@@ -143,7 +158,7 @@ Rust core + TypeScript UI
 ### UI Designer
 
 [Glade - A User Interface Designer](https://glade.gnome.org/)
-[Glade Interface Designer - Wikiwand](https://www.wikiwand.com/en/Glade_Interface_Designer)
+[Glade Interface Designer - Wikiwand](https://omni.wikiwand.com/en/Glade_Interface_Designer)
 
 [python - How to add a pygtk Widget to the Glade palette? - Ask Ubuntu](https://askubuntu.com/questions/30496/how-to-add-a-pygtk-widget-to-the-glade-palette)
 [Custom python widgets in glade 3 - Stack Overflow](https://stackoverflow.com/questions/11568062/custom-python-widgets-in-glade-3)
@@ -227,6 +242,7 @@ Rust core + TypeScript UI
 > C++, Rust, JavaScript bindings
 
 [Slint - The fast and easy UI Toolkit](https://slint-ui.com/)
+[you need to build a RUST desktop app!! - YouTube](https://www.youtube.com/watch?v=7aFgeUG9TK4)
 
 ## Kitware
 
@@ -275,7 +291,7 @@ used by many games and PyGame as backend
 ## wxWidgets
 
 [wxWidgets: Cross-Platform GUI Library](http://wxwidgets.org/)
-[wxWidgets - Wikiwand](https://www.wikiwand.com/en/WxWidgets)
+[wxWidgets - Wikiwand](https://omni.wikiwand.com/en/WxWidgets)
 
 Binding to native GUI widgets.
 
@@ -297,6 +313,7 @@ Binding to native GUI widgets.
 ## Go
 
 [Gio UI](https://gioui.org/) immediate mode, uses Go Mobile
+[Gio Cross Platform GUI Programming for Mobile, Desktop, WebAssembly - YouTube](https://www.youtube.com/watch?v=faySIH26NCs)
 
 [Fyne](https://fyne.io/)
 
@@ -444,7 +461,7 @@ Binding to native GUI widgets.
 
 Microsoft acquired Xamarin in 2016 and it became part of .NET. MAUI is announced in 2020 as a replacement of `Xamarin.Forms`.
 
-[Xamarin - Wikiwand](https://www.wikiwand.com/en/Xamarin)
+[Xamarin - Wikiwand](https://omni.wikiwand.com/en/Xamarin)
 [Xamarin | Open-source mobile app platform for .NET](https://dotnet.microsoft.com/apps/xamarin)
 [Xamarin Blog | An open source mobile platform for building Android, iOS, macOS, watchOS, and tvOS apps with .NET.](https://devblogs.microsoft.com/xamarin/)
 

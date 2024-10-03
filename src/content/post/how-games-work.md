@@ -2,7 +2,7 @@
 title: How Games Work
 description: How games mechanics works, game design and how to make games, apart from rendering
 created: 2015-08-31
-updated: 2023-11-04
+updated: 2024-09-30
 tags:
   - game-design
   - games
@@ -23,6 +23,7 @@ tags:
 [Warbot - YouTube](https://www.youtube.com/channel/UCNOVwMpD-5A1xzcQGbIHNeA)
 [gameranx - YouTube](https://www.youtube.com/@gameranxTV)
 [Gamker 攻壳 - YouTube](https://www.youtube.com/channel/UCLgGLSFMZQB8c0WGcwE49Gw)
+[Outrageous Dong Chai - YouTube](https://www.youtube.com/@LiPuDeDongZai) 離譜的東仔, Hacking into games
 
 [Extra Credits - YouTube](https://www.youtube.com/@extracredits) previously on Extra History channel
 [Extra Credits (ALL EPISODES) - YouTube](https://www.youtube.com/playlist?list=PLB9B0CA00461BB187)
@@ -60,6 +61,7 @@ tags:
 [GameFromScratch.com – Game Development News, Tutorials and More](https://gamefromscratch.com/)
 
 [KidsCanCode - YouTube](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg/featured) PyGame, Godot, algorithms
+[Brackeys - YouTube](https://www.youtube.com/@Brackeys) Unity (old), Godot (2024)
 [Digital Foundry - YouTube](https://www.youtube.com/channel/UC9PBzalIcEQCsiIkq36PyUA) analysis on game engine, rendering techniques and hardware
 [Gamefromscratch - YouTube](https://www.youtube.com/@gamefromscratch)
 [Game Programming Tutorials - YouTube](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmqFs83T4W-FZQ9kK983tZC) freeCodeCamp.org
@@ -77,6 +79,7 @@ tags:
 [RealityEscape - YouTube](https://www.youtube.com/@RealityEscape) many on game genre
 [Ceave Perspective - YouTube](https://www.youtube.com/@StefanPerspective-yb1rm)
 [Curious Archive - YouTube](https://www.youtube.com/@CuriousArchive)
+[Game Endeavor - YouTube](https://www.youtube.com/@GameEndeavor)
 
 [GDQuest - YouTube](https://www.youtube.com/@Gdquest)
 [Game design tutorial - YouTube](https://www.youtube.com/playlist?list=PLhqJJNjsQ7KHI3oYZfZ9nLEnQMBEhbmP8)
@@ -111,6 +114,24 @@ tags:
 
 [What Makes Tower Defence Games Good? - YouTube](https://www.youtube.com/watch?v=f6KTtb1r1lg)
 [What Makes "Clicker Games" Good? - YouTube](https://www.youtube.com/watch?v=j_nI6G3ZDiE) idle game, ascension -> rouge-like, mobile games
+
+### Stealth
+
+[Why Stealth Sucks - YouTube](https://www.youtube.com/watch?v=ewnnCbq9j8M)
+[Stealth in Video Games - YouTube](https://www.youtube.com/watch?v=JdmnL6QnsRs)
+[Stealth Games Are Getting Old - YouTube](https://www.youtube.com/watch?v=G25SRvB7TLw)
+
+Game Maker's Toolkit
+[Stealth Game Design - YouTube](https://www.youtube.com/playlist?list=PLc38fcMFcV_s8CEnf_j1ZOu-UCTEXRAfl)
+
+### Fighting Game
+
+[The Fighting Game Glossary | infil.net](https://glossary.infil.net/index.html)
+
+[Every Fighting Game Type Explained - YouTube](https://www.youtube.com/watch?v=b4Kc1p6Iat8)
+[Fighting Games Explained - Character Archetypes - YouTube](https://www.youtube.com/watch?v=xnymxhfyCmE)
+[Character Archetypes in Fighting Games | Full Breakdown/Video Essay - YouTube](https://www.youtube.com/watch?v=46mw-b8VDc0)
+[Fighting Game Video Essays - YouTube](https://www.youtube.com/playlist?list=PLfyRrWzd1T1Dfrjap1UYFROsHHQw-GL_J) TheoryFighter
 
 ## Stanley Parable
 
@@ -186,6 +207,15 @@ wave function collapse for specifics, Perlin noise for the category
 [Bullet Real-Time Physics Simulation | Home of Bullet and PyBullet: physics simulation for games, visual effects, robotics and reinforcement learning.](https://pybullet.org/wordpress/)
 [PyBullet Quickstart Guide - Google Docs](https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#heading=h.2ye70wns7io3)
 [bulletphysics/bullet3: Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.](https://github.com/bulletphysics/bullet3) the core C++ engine
+
+### Water effect
+
+Acerola
+[Rendering Water With Sine Waves - YouTube](https://www.youtube.com/watch?v=PH9q0HNBjT4)
+[Do Video Games Fake Buoyancy? - YouTube](https://www.youtube.com/watch?v=ja8yCvXzw2c)
+[I Tried Simulating The Entire Ocean - YouTube](https://www.youtube.com/watch?v=yPfagLeUa7k)
+
+[The biggest lie in video games - YouTube](https://www.youtube.com/watch?v=Qk_O-q_9YIQ)
 
 ### Non-Euclidean
 

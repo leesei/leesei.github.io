@@ -2,13 +2,13 @@
 title: Antikythera Mechanism
 description: ""
 created: 2015-12-11
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - history
   - science
 ---
 
-[Antikythera mechanism - Wikiwand](https://www.wikiwand.com/en/Antikythera_mechanism)
+[Antikythera mechanism - Wikiwand](https://omni.wikiwand.com/en/Antikythera_mechanism)
 
 [How The Antikythera Mechanism Works - Stuff You Should Know (podcast)](https://player.fm/series/stuff-you-should-know/how-the-antikythera-mechanism-works)
 [Antikythera Update - TechStuff (podcast)](https://player.fm/series/techstuff/antikythera-update)

@@ -2,7 +2,7 @@
 title: Death Stranding
 description: ""
 created: 2023-08-25
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - death-stranding
   - games

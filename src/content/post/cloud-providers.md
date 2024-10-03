@@ -2,7 +2,7 @@
 title: Cloud Providers
 description: ""
 created: 2015-06-17
-updated: 2023-09-29
+updated: 2024-09-04
 tags:
   - dev/deploy
   - web
@@ -224,6 +224,27 @@ Use CNAME to the Netlify URL when dealing with subdomains
 [What are Netlify Build Plugins? Part 1 - How to Use Build Plugins](https://www.netlify.com/blog/2020/04/30/whats-a-netlify-build-plugin-series-part-1-using-build-plugins/)
 [What's a Netlify Build Plugin Series: Part 2 - Making Build Plugins](https://www.netlify.com/blog/2020/05/20/whats-a-netlify-build-plugin-series-part-2-making-build-plugins/)
 
+## Convex
+
+[Convex | The fullstack TypeScript development platform](https://www.convex.dev/)
+[Convex - YouTube](https://www.youtube.com/@convex-dev)
+[Welcome to Convex | Convex Developer Hub](https://docs.convex.dev/get-started)
+[How Convex Works](https://stack.convex.dev/how-convex-works)
+
+[get-convex/convex-backend at news.convex.dev](https://github.com/get-convex/convex-backend?ref=news.convex.dev)
+[Convex is the Open Source Backend You Can Run on Your Machine - YouTube](https://www.youtube.com/watch?v=xa2NsUMXiWs)
+[Convex goes open-source](https://news.convex.dev/convex-goes-open-source/)
+
+[Why I use Convex over Supabase as my BaaS - YouTube](https://www.youtube.com/watch?v=O_HXVAMPEbc)
+
+## Appwrite
+
+[Appwrite - Open-Source End-to-End Backend Server](https://appwrite.io/)
+
+[Authentication - Exploring Appwrite.io with React Series - DEV Community](https://dev.to/daryllukas/authentication-exploring-appwrite-io-with-react-series-1iec)
+[Building a message board with Next.js and AppWrite - DEV Community](https://dev.to/livecycle/building-a-message-board-with-nextjs-and-appwrite-3910)
+[Building a customer support app with live chat and notifications using Next.js, Novu and Appwrite - DEV Community](https://dev.to/arshadayvid/building-a-customer-support-app-with-live-chat-and-notifications-using-nextjs-novu-and-appwrite-2fn8) `account.createEmailSession()`, `account.get()`
+
 ## Railway
 
 > Heroku-like platform
@@ -242,11 +263,18 @@ deploy container, Node.js app, database
 
 ## CloudFlare
 
+[irazasyed/awesome-cloudflare: ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.](https://github.com/irazasyed/awesome-cloudflare)
+[Cloudflare浑身都是宝，普通用户能白嫖多少服务？盘点cloudflare的免费功能 - YouTube](https://www.youtube.com/watch?v=L1eDBgdCmuU)
+
 [Overview · Cloudflare Pub/Sub](https://developers.cloudflare.com/pub-sub/)
 [Cloudflare R2 documentation · Cloudflare R2 docs](https://developers.cloudflare.com/r2) Key value store
 [Using Durable Objects · Cloudflare Workers docs](https://developers.cloudflare.com/workers/learning/using-durable-objects/)
 [How KV works · Cloudflare Workers docs](https://developers.cloudflare.com/workers/learning/how-kv-works/)
 [Announcing D1: our first SQL database](https://blog.cloudflare.com/introducing-d1/) SQLite
+[Cloudflare Turnstile, a free CAPTCHA replacement | Cloudflare](https://www.cloudflare.com/products/turnstile/)
+
+[Tunnel | Zero Trust App Connector | Cloudflare](https://www.cloudflare.com/products/tunnel/)
+[没有公网IP? 免费域名搭建cloudflare内网穿透，不限流量，不用绑卡支付 - YouTube](https://www.youtube.com/watch?v=OJBHG9oJTDk)
 
 ## Azure
 
@@ -292,7 +320,7 @@ Supports dynamic scaling out of the box
 
 ## Heroku
 
-<https://www.heroku.com/pricing>
+[Pricing | Heroku](https://www.heroku.com/pricing#containers)
 
 Supports any language with buildpacks
 Plenty of add-ons
@@ -316,9 +344,13 @@ Plenty of add-ons
 [AWS vs Alibaba Cloud Services in 2019 | Analytics Insight](https://www.analyticsinsight.net/aws-vs-alibaba-cloud-services-in-2019/)
 [AWS vs. DigitalOcean: Which Cloud Server is Better - By DashMagazine](https://hackernoon.com/aws-vs-digitalocean-which-cloud-server-is-better-1386499a6664)
 
+[OpenCost — open source cost monitoring for cloud native environments | OpenCost — open source cost monitoring for cloud native environments](https://www.opencost.io/)
+
 [[vps-hosting]]
 
 ## Multicloud
+
+[[hashicorp#Terraform]]
 
 [Apache Libcloud is a standard Python library that abstracts away differences among multiple cloud provider APIs | Apache Libcloud](https://libcloud.apache.org/)
 [Apache Libcloud documentation](https://libcloud.readthedocs.io/en/latest/)

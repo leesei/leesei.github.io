@@ -2,7 +2,7 @@
 title: Cross Platform Apps (Mobile)
 description: ""
 created: 2015-04-03
-updated: 2023-09-29
+updated: 2024-06-14
 tags:
   - app
   - appcelerator
@@ -13,6 +13,9 @@ tags:
   - nativescript
   - phonegap
 ---
+
+[[react-native]]
+[[cross-platform-apps-desktop#Quasar]]
 
 [Cross-platform - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Cross-platform)
 
@@ -62,6 +65,8 @@ The new Cross-Platform is to share business logic, compile to native code and bi
 [What are the main differences between ReactJS and React-Native? – Medium](https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-differences-between-both-d6e8e88ebf24)
 [What are the key difference between ReactNative and NativeScript? - Quora](https://www.quora.com/What-are-the-key-difference-between-ReactNative-and-NativeScript)
 
+[Flutter vs Native vs React-Native: Examining performance](https://medium.com/swlh/flutter-vs-native-vs-react-native-examining-performance-31338f081980)
+[React Native VS Flutter – What’s Best for You? – SurajOnDev](https://surajondev.com/2021/12/12/react-native-vs-flutter-whats-best-for-you/)
 [React native vs Flutter 2020 comparison - Kriss](https://kriss.io/react-native-vs-flutter-202-comparison/)
 [React Native vs Flutter - I built the same chat app with both - YouTube](https://www.youtube.com/watch?v=X8ipUgXH6jw)
 [React Native vs Flutter vs Native - Let's Talk Engines - YouTube](https://www.youtube.com/watch?v=3_FcxGCCnUs) 2022

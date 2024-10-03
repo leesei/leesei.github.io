@@ -2,7 +2,7 @@
 title: Maritime
 description: ""
 created: 2021-11-10
-updated: 2023-11-10
+updated: 2024-08-14
 tags:
   - transportation
 ---
@@ -32,7 +32,11 @@ tags:
 
 [How Ocean Shipping Works (And Why It's Broken) - YouTube](https://www.youtube.com/watch?v=8d5d_HXGeMA)
 
-## Navy vessel classes
+## Cargo Ship Classes
+
+[What are 7 Types of Cargo Ships?](https://sinay.ai/en/what-are-7-types-of-cargo-ships/)
+
+## Navy Vessel Classes
 
 [All Types of Warships Explained - YouTube](https://www.youtube.com/watch?v=303_Xj8FKJU)
 
@@ -60,10 +64,22 @@ Submarine
 ## Fishing
 
 [The Broken Economics of the Oceans - YouTube](https://www.youtube.com/watch?v=73ygHs4Kwcs)
-[Illegal, unreported and unregulated fishing - Wikiwand](https://www.wikiwand.com/en/Illegal,_unreported_and_unregulated_fishing)
+[Illegal, unreported and unregulated fishing - Wikiwand](https://omni.wikiwand.com/en/Illegal,_unreported_and_unregulated_fishing)
 [Illegal, Unreported and Unregulated (IUU) fishing | Food and Agriculture Organization of the United Nations](https://www.fao.org/iuu-fishing/en/)
 [Understanding Illegal, Unreported, and Unregulated Fishing | NOAA Fisheries](https://www.fisheries.noaa.gov/insight/understanding-illegal-unreported-and-unregulated-fishing)
 
 ## Panama Canal
 
+[Panama Canal - Wikiwand](https://omni.wikiwand.com/en/Panama_Canal)
+
 [The World's Shortcut: How the Panama Canal Works - YouTube](https://www.youtube.com/watch?v=KgsxapE27NU)
+
+[Why the Panama Canal is Dying - YouTube](https://www.youtube.com/watch?v=glR7lvtrGRI)
+
+- low rainfall in 2023 disrupts the water supply needed to operate the canal
+- bi-oceanic corridor in South America
+- interoceanic corridor of hte Isthmus of Tehuantepec in Mexico
+
+## Suez Canal
+
+[Suez Canal - Wikiwand](https://omni.wikiwand.com/en/Suez_Canal)

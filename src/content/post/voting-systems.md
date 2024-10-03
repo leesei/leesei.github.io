@@ -2,7 +2,7 @@
 title: Voting Systems
 description: ""
 created: 2015-03-05
-updated: 2023-09-29
+updated: 2024-08-28
 tags:
   - politics
   - voting
@@ -11,20 +11,19 @@ tags:
 - Primary vs Caucuses
 - Closed/semi-closed/open primary
 
-[Voting system - Wikiwand](http://www.wikiwand.com/en/Voting_system)
+[Voting system - Wikiwand](http://omni.wikiwand.com/en/Voting_system)
 [Michael Munger on Choosing in Groups | EconTalk | Library of Economics and Liberty](http://www.econtalk.org/archives/2015/02/michael_munger_1.html)
 
 [RangeVoting.org - Center for Range Voting - front page](https://www.rangevoting.org/) includes Instant Runoff and Approval voting
 
 [Simulating alternate voting systems - YouTube](https://www.youtube.com/watch?v=yhO6jfHPFQU) ❗!important
 [The 12 different voting systems explained - YouTube](https://www.youtube.com/watch?v=Dsq-sRBmMjA)
-[Comparison of electoral systems - Wikiwand](https://www.wikiwand.com/en/Comparison_of_electoral_systems)
+[Comparison of electoral systems - Wikiwand](https://omni.wikiwand.com/en/Comparison_of_electoral_systems)
 [Which voting system is the best? - Alex Gendler - YouTube](https://www.youtube.com/watch?v=PaxVCsnox_4)
 
-[Michel Balinski](https://www.wikiwand.com/en/Michel_Balinski#/Research_contributions) is an applied mathematician, economist, operations research analyst and political scientist.
+[Michel Balinski](https://omni.wikiwand.com/en/Michel_Balinski#/Research_contributions) is an applied mathematician, economist, operations research analyst and political scientist.
 
-[Quick and Easy Voting for Normal People - YouTube](https://www.youtube.com/watch?v=orybDrUj4vA): allow multiple votes and use instance one off
-{% youtube orybDrUj4vA %}
+[Quick and Easy Voting for Normal People - YouTube](https://www.youtube.com/watch?v=orybDrUj4vA) allow multiple votes and use instance one off
 
 [Politics in the Animal Kingdom — CGP Grey](http://www.cgpgrey.com/politics-in-the-animal-kingdom/)
 
@@ -32,12 +31,24 @@ tags:
 
 ## Voting is Flawed
 
-[Voting paradox - Wikiwand](http://www.wikiwand.com/en/Voting_paradox) group preference is not transitive
-[Arrow's impossibility theorem - Wikiwand](https://www.wikiwand.com/en/Arrow%27s_impossibility_theorem)
-[Gibbard–Satterthwaite theorem - Wikiwand](https://www.wikiwand.com/en/Gibbard%E2%80%93Satterthwaite_theorem)
+[Voting paradox - Wikiwand](http://omni.wikiwand.com/en/Voting_paradox) group preference is not transitive
+[Arrow's impossibility theorem - Wikiwand](https://omni.wikiwand.com/en/Arrow%27s_impossibility_theorem)
+[Why Democracy Is Mathematically Impossible - YouTube](https://www.youtube.com/watch?v=qf7ws2DF-zk)
+Satisfying all five of the following criteria is impossible for a ranked voting system of 3 or more candidates:
+
+- Unanimaty
+- No Dictatorship
+- Unrestricted Domains
+- Transitivity
+- Independence of Irrelevant Alternatives (new option should not change the result)
+
+[Gibbard–Satterthwaite theorem - Wikiwand](https://omni.wikiwand.com/en/Gibbard%E2%80%93Satterthwaite_theorem)
+[Duverger's law - Wikiwand](https://omni.wikiwand.com/en/Duverger%27s_law)
+[Condorcet paradox - Wikiwand](https://omni.wikiwand.com/en/Condorcet_paradox) dead lock
 
 [The flaw in every voting system - by Vasek Rozhon](https://vasekrozhon.substack.com/p/the-flaw-in-every-voting-system)
 [The flaw in every voting system - YouTube](https://www.youtube.com/watch?v=rbVoEjS6Q1Q)
+[The Mathematical Danger of Democratic Voting - YouTube](https://www.youtube.com/watch?v=goQ4ii-zBMw) non-transitive voting
 
 [投票公平合理吗？为什么没有绝对的公平？阿罗不可能定理 - YouTube](https://www.youtube.com/watch?v=9Oisrp99L14)
 
@@ -46,7 +57,6 @@ tags:
 Vote for ONE candidate
 
 [The Problems with First Past the Post Voting Explained - YouTube](https://www.youtube.com/watch?v=s7tWHJfhiyo)
-{% youtube s7tWHJfhiyo %}
 
 [The Problems With First Past the Post Voting Explained — CGP Grey](http://www.cgpgrey.com/blog/the-problems-with-first-past-the-post-voting-explained.html)
 
@@ -60,10 +70,8 @@ But Candidate 2 has the most voters national-wide
 
 [Gerrymandering Explained — CGP Grey](http://www.cgpgrey.com/blog/gerrymandering-explained.html)
 [Gerrymandering Explained - YouTube](https://www.youtube.com/watch?v=Mky11UJb9AY)
-{% youtube Mky11UJb9AY %}
 
 [Multiple Party Gerrymandering [Bonus Video] - YouTube](https://www.youtube.com/watch?v=uR2DfpjIuXo)
-{% youtube uR2DfpjIuXo %}
 
 [How Gerrymandering Works | HowStuffWorks](https://people.howstuffworks.com/gerrymandering.htm/printable)
 [Gerrymandering: How to Stifle Democracy | Stuff You Should Know](https://www.stuffyoushouldknow.com/podcasts/gerrymandering-how-to-stifle-democracy.htm)
@@ -86,7 +94,6 @@ When an 3rd candidate joins the election and steals votes from the original cand
 ## Alternate Voting
 
 [The Alternative Vote Explained - YouTube](https://www.youtube.com/watch?v=3Y3jE3B8HsE)
-{% youtube 3Y3jE3B8HsE %}
 
 [The Alternative Vote Explained — CGP Grey](http://www.cgpgrey.com/blog/the-alternative-vote-explained.html)
 
@@ -96,16 +103,19 @@ Voters put the candidates on a preference list
 The voting loops until one candidate get the majority votes
 Each round the candidate with the least votes get eliminated, with his vote passed to the next on the voter's List
 
-## Single Transferable Vote/Ranked Choice Voting
+## Preferential Voting
 
-[Instant‐runoff voting - Wikiwand](http://www.wikiwand.com/en/Instant‐runoff_voting)
-[Single transferable vote - Wikiwand](https://www.wikiwand.com/en/Single_transferable_vote)
+Single Transferable Vote
+Ranked Choice Voting
+Instant Runoff Voting
+Preferential Voting
+
+[Instant‐runoff voting - Wikiwand](http://omni.wikiwand.com/en/Instant‐runoff_voting)
+[Single transferable vote - Wikiwand](https://omni.wikiwand.com/en/Single_transferable_vote)
 
 [Politics in the Animal Kingdom: Single Transferable Vote - YouTube](https://www.youtube.com/watch?v=l8XOZJkozfI)
-{% youtube l8XOZJkozfI %}
 
 [Extra: STV Election Walkthrough - YouTube](https://www.youtube.com/watch?v=Ac9070OIMUg)
-{% youtube Ac9070OIMUg %}
 
 [Politics in the Animal Kingdom: Single Transferable Vote — CGP Grey](http://www.cgpgrey.com/blog/politics-in-the-animal-kingdom-single-transferable-vote)
 
@@ -120,14 +130,22 @@ Like Alternative Voting, but extra votes are given to next alternative.
 [How Ranked-choice Voting Works | HowStuffWorks](https://people.howstuffworks.com/ranked-choice-voting.htm/printable)
 [How Ranked Choice Voting Works | Stuff You Should Know](https://www.stuffyoushouldknow.com/podcasts/how-ranked-choice-voting-works.htm)
 
+## Quadratic voting
+
+Voters holds a certain amount of tokens, and can use them to vote for a candidate, but the cost of each vote is quadratic to the number of votes.
+
+[Quadratic voting - Wikiwand](https://omni.wikiwand.com/en/Quadratic_voting)
+[V神力推的「平方投票法」是什麼？如何改變民主遊戲規則 | 動區動趨-最具影響力的區塊鏈新聞媒體](https://www.blocktempo.com/what-is-square-voting/)
+
 ## Approval Voting
 
 Voters can vote for any number of candidates
+The preference is not ranked
+The candidate with the most votes wins
 
 ## Mixed-Member Proportional Representation
 
 [Mixed-Member Proportional Representation Explained - YouTube](https://www.youtube.com/watch?v=QT0I-sdoSXU)
-{% youtube QT0I-sdoSXU %}
 
 [Mixed-Member Proportional Representation Explained — CGP Grey](http://www.cgpgrey.com/blog/mixed-member-proportional-representation-explained.html)
 
@@ -139,11 +157,11 @@ Party prepare list to be added to the council after the 1st round
 
 Method for direct election for Hong Kong's Legco member.
 
-[Party-list proportional representation - Wikiwand](https://www.wikiwand.com/en/Party-list_proportional_representation)
+[Party-list proportional representation - Wikiwand](https://omni.wikiwand.com/en/Party-list_proportional_representation)
 
 ## Arrow's Impossibility Theorem
 
-[Arrow's impossibility theorem - Wikiwand](https://www.wikiwand.com/en/Arrow's_impossibility_theorem)
+[Arrow's impossibility theorem - Wikiwand](https://omni.wikiwand.com/en/Arrow's_impossibility_theorem)
 
 When there are three or more candidates, there's no "nice" way to vote for a winner. Collective choice is always manipulative, either cycling or dependency of irrelevant alternative is inevitable.
 
@@ -156,7 +174,7 @@ measure _misrepresentation error_, the difference of percentage points between w
 [H.I. #37: Penguins and Politics — Hello Internet](http://www.hellointernet.fm/podcast/37)
 [HI 37 — CGP Grey](http://www.cgpgrey.com/hi-37-rdr) (1:16:03)
 
-[United Kingdom Alternative Vote referendum, 2011 - Wikiwand](http://www.wikiwand.com/en/United_Kingdom_Alternative_Vote_referendum,_2011)
+[United Kingdom Alternative Vote referendum, 2011 - Wikiwand](http://omni.wikiwand.com/en/United_Kingdom_Alternative_Vote_referendum,_2011)
 
 ---
 
@@ -172,12 +190,10 @@ measure _misrepresentation error_, the difference of percentage points between w
 [Election Basics: Crash Course Government and Politics #36 - YouTube](https://www.youtube.com/watch?v=48EZKXweGDo)
 
 [How the Electoral College Works - YouTube](https://www.youtube.com/watch?v=OUS9mM8Xbbw)
-{% youtube OUS9mM8Xbbw %}
 
 [How The Electoral College Works — CGP Grey](http://www.cgpgrey.com/blog/how-the-electoral-college-works.html)
 
 [The Trouble with the Electoral College - YouTube](https://www.youtube.com/watch?v=7wC42HgLA4k)
-{% youtube 7wC42HgLA4k %}
 
 [The Electoral College, explained - YouTube](https://www.youtube.com/watch?v=ajavsMbCapY)
 
@@ -188,14 +204,14 @@ measure _misrepresentation error_, the difference of percentage points between w
 [The Trouble with the Electoral College — CGP Grey](http://www.cgpgrey.com/blog/the-trouble-with-the-electoral-college.html)
 
 [What If the Electoral College is Tied? - YouTube](https://www.youtube.com/watch?v=sHEDXzOfENI)
-{% youtube sHEDXzOfENI %}
 
 [Why it’s mathematically impossible to share fair - YouTube](https://www.youtube.com/watch?v=GVhFBujPlVo) rounding issue
+
+[【全解釋】美國總統選舉制度! 初選、選舉人票制度! (繁中字幕) - YouTube](https://www.youtube.com/watch?v=o4jTKn8inI8)
 
 ## Primary Election
 
 [Primary Elections Explained - YouTube](https://www.youtube.com/watch?v=_95I_1rZiIs)
-{% youtube _95I_1rZiIs %}
 
 [United States Primaries Explained — CGP Grey](http://www.cgpgrey.com/blog/united-states-primaries-explained.html)
 

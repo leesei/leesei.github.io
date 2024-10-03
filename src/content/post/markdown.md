@@ -2,7 +2,7 @@
 title: Markdown
 description: ""
 created: 2015-04-23
-updated: 2023-10-28
+updated: 2024-08-14
 tags:
   - comp/lang
   - markdown
@@ -17,7 +17,7 @@ tags:
 [BubuAnabelas/awesome-markdown: Delightful Markdown stuff.](https://github.com/BubuAnabelas/awesome-markdown)
 [mundimark/awesome-markdown: A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)](https://github.com/mundimark/awesome-markdown)
 
-[Lightweight markup language - Wikiwand](http://www.wikiwand.com/en/Lightweight_markup_language)
+[Lightweight markup language - Wikiwand](http://omni.wikiwand.com/en/Lightweight_markup_language)
 [Is HTML a Humane Markup Language?](http://blog.codinghorror.com/is-html-a-humane-markup-language/)
 [黑暗執行緒 分類檢視：markdown](https://blog.darkthread.net/blog/category/markdown)
 
@@ -61,6 +61,8 @@ tags:
 
 [Markdown Tables generator - TablesGenerator.com](https://www.tablesgenerator.com/markdown_tables)
 [markdownTables](https://jmalarcon.github.io/markdowntables/)
+
+[[self-hosting#HedgeDoc]]
 
 ### Haroopad
 
@@ -159,6 +161,10 @@ Extensible:
 ## Tools
 
 [jaywcjlove/markdown-to-html-cli: Command line tool that converts markdown to HTML.](https://github.com/jaywcjlove/markdown-to-html-cli)
+
+[Mmark: powerful markdown parser](https://mmark.miek.nl/)
+[mmarkdown/mmark: Mmark: a powerful markdown processor in Go geared towards the IETF](https://github.com/mmarkdown/mmark) parser and renderer
+[Learning-Go-zh-cn/Makefile at master · mikespook/Learning-Go-zh-cn](https://github.com/mikespook/Learning-Go-zh-cn/blob/master/Makefile) sample Makefile
 
 ---
 

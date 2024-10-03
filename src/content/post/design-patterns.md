@@ -2,12 +2,12 @@
 title: Design Patterns
 description: ""
 created: 2019-05-24
-updated: 2023-10-22
+updated: 2024-10-03
 tags:
   - comp/lang
 ---
 
-Contains [Programming paradigm - Wikiwand](https://www.wikiwand.com/en/Programming_paradigm) and [Software design pattern - Wikiwand](https://www.wikiwand.com/en/Software_design_pattern)
+Contains [Programming paradigm - Wikiwand](https://omni.wikiwand.com/en/Programming_paradigm) and [Software design pattern - Wikiwand](https://omni.wikiwand.com/en/Software_design_pattern)
 
 [dwmkerr/hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws](https://github.com/dwmkerr/hacker-laws)
 
@@ -54,7 +54,7 @@ Contains [Programming paradigm - Wikiwand](https://www.wikiwand.com/en/Programmi
 
 ### Gang of Four
 
-[Design Patterns - Wikiwand](https://www.wikiwand.com/en/Design_Patterns)
+[Design Patterns - Wikiwand](https://omni.wikiwand.com/en/Design_Patterns)
 [Design Patterns Book](http://wiki.c2.com/?DesignPatternsBook)
 [Design Patterns CD: Elements of Reusable Object-Oriented Software](http://www.amazon.com/Design-Patterns-Object-Oriented-Professional-Computing/dp/0201634988)
 
@@ -69,7 +69,7 @@ John Vlissides: <http://en.wikipedia.org/wiki/John_Vlissides>
 
 > creation of object, rather than instantiation
 
-[Creational pattern - Wikiwand](https://www.wikiwand.com/en/Creational_pattern)
+[Creational pattern - Wikiwand](https://omni.wikiwand.com/en/Creational_pattern)
 
 Abstract Factory
 Factory method
@@ -81,7 +81,7 @@ Singleton
 
 > class and object composition
 
-[Structural pattern - Wikiwand](https://www.wikiwand.com/en/Structural_pattern)
+[Structural pattern - Wikiwand](https://omni.wikiwand.com/en/Structural_pattern)
 
 [Association, aggregation, and composition in OOP explained | InfoWorld](https://www.infoworld.com/article/3029325/microsoft-net/exploring-association-aggregation-and-composition-in-oop.html)
 [Three Thoughts on Encapsulation - Better Programming - Medium](https://medium.com/better-programming/three-thoughts-on-encapsulation-a44bd610819)
@@ -92,7 +92,7 @@ Singleton
 
 > communication between objects
 
-[Behavioral pattern - Wikiwand](https://www.wikiwand.com/en/Behavioral_pattern)
+[Behavioral pattern - Wikiwand](https://omni.wikiwand.com/en/Behavioral_pattern)
 
 [Publisher Subscriber vs Observer pattern with C# - DEV](https://dev.to/absjabed/publisher-subscriber-vs-observer-pattern-with-c-3gpc)
 `new()` return an object with partially initialized states (like an abstract class)
@@ -112,7 +112,7 @@ with function(s) to initialize the remaining states and return a working class
 
 ## Aspect Oriented Programming
 
-[Aspect-oriented programming - Wikiwand](https://www.wikiwand.com/en/Aspect-oriented_programming)
+[Aspect-oriented programming - Wikiwand](https://omni.wikiwand.com/en/Aspect-oriented_programming)
 
 ## Functional Programming
 
@@ -120,7 +120,7 @@ with function(s) to initialize the remaining states and return a working class
 
 ## Hexagonal Architecture
 
-[Hexagonal architecture (software) - Wikiwand](<https://www.wikiwand.com/en/Hexagonal_architecture_(software)>)
+[Hexagonal architecture (software) - Wikiwand](<https://omni.wikiwand.com/en/Hexagonal_architecture_(software)>)
 [Hexagonal Architecture: What Is It and How Does It Work? - NDepend](https://blog.ndepend.com/hexagonal-architecture/)
 [Hexagonal Architecture - DEV Community](https://dev.to/abh1navv/hexagonal-architecture-3ocl)
 
@@ -128,9 +128,11 @@ with function(s) to initialize the remaining states and return a working class
 [Hexagonal Architecture: What You Need To Know - Simple Explanation - YouTube](https://www.youtube.com/watch?v=bDWApqAUjEI)
 [Hexagonal Architecture In Golang!? - Full Structure Example - YouTube](https://www.youtube.com/watch?v=kWfP4H1qzCk)
 
+[ksckaan1/hexago: A CLI tool for initializing and managing hexagonal Go projects.](https://github.com/ksckaan1/hexago)
+
 ## Domain Driven Design
 
-[Domain-driven design - Wikiwand](https://www.wikiwand.com/en/Domain-driven_design)
+[Domain-driven design - Wikiwand](https://omni.wikiwand.com/en/Domain-driven_design)
 [Domain-Driven Design | Khalil Stemmler](https://khalilstemmler.com/articles/categories/domain-driven-design/)
 
 [domain driven design](https://martinfowler.com/tags/domain%20driven%20design.html)
@@ -158,7 +160,7 @@ with function(s) to initialize the remaining states and return a working class
 
 ## RAII
 
-[Resource acquisition is initialization - Wikiwand](https://www.wikiwand.com/en/Resource_acquisition_is_initialization)
+[Resource acquisition is initialization - Wikiwand](https://omni.wikiwand.com/en/Resource_acquisition_is_initialization)
 [Rust and RAII Memory Management - Computerphile - YouTube](https://www.youtube.com/watch?v=pTMvh6VzDls)
 
 ## CSP
@@ -173,14 +175,14 @@ with function(s) to initialize the remaining states and return a working class
 
 ## Principle of Least Knowledge
 
-[Law of Demeter - Wikiwand](https://www.wikiwand.com/en/Law_of_Demeter)
+[Law of Demeter - Wikiwand](https://omni.wikiwand.com/en/Law_of_Demeter)
 [Demeter: It’s not just a good idea. It’s the law. | Virtuous Code](http://www.virtuouscode.com/2011/07/05/demeter-its-not-just-a-good-idea-its-the-law/)
 [Law of Demeter: Principle of Least Knowledge](http://www.ccs.neu.edu/home/lieber/LoD.html)
 [Demystifying the Law of Demeter principle | InfoWorld](https://www.infoworld.com/article/3136224/demystifying-the-law-of-demeter-principle.html)
 
 ## SOLID Principles
 
-[SOLID - Wikiwand](https://www.wikiwand.com/en/SOLID)
+[SOLID - Wikiwand](https://omni.wikiwand.com/en/SOLID)
 S: Single Responsibility Principle
 O: Open-Closed Principle
 L: Liskov-Substitution Principle
@@ -189,32 +191,34 @@ D: Dependency Inversion Principle
 
 [Clean Coder - Getting a SOLID start.](https://sites.google.com/site/unclebobconsultingllc/getting-a-solid-start)
 [A Solid Guide to SOLID Principles | Baeldung](https://www.baeldung.com/solid-principles)
+[The SOLID Principles of Object-Oriented Programming Explained in Plain English](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)
+[SOLID Principles for Programming and Software Design](https://www.freecodecamp.org/news/solid-principles-for-programming-and-software-design/)
 [The SOLID Principles - Tuts+ Code Tutorials](http://code.tutsplus.com/series/the-solid-principles--cms-634)
 [SOLID Principles every Developer Should Know – Bits and Pieces](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
-[SOLID Principles for Programming and Software Design](https://www.freecodecamp.org/news/solid-principles-for-programming-and-software-design/)
 [SOLID Principles: The Software Developer's Framework to Robust & Maintainable Code [with Examples] | Khalil Stemmler](https://khalilstemmler.com/articles/solid-principles/solid-typescript/)
 [The SOLID Principles | A C Roynon](https://acroynon.com/the-solid-principles/)
 [Applying SOLID To React. SOLID principles were developed to help… | by Eduardo Moniz | Docler Engineering | Apr, 2021 | Medium](https://medium.com/docler-engineering/applying-solid-to-react-ca6d1ff926a4)
+[5 Principles that will make you a SOLID JavaScript Developer](http://thefullstack.xyz/solid-javascript/)
+[SOLID Principles: Improve Object-Oriented Design in Python – Real Python](https://realpython.com/solid-principles-python/)
 
 [Software Design - Introduction to SOLID Principles in 8 Minutes - YouTube](https://www.youtube.com/watch?v=yxf2spbpTSw)
 [Uncle Bob SOLID principles - YouTube](https://www.youtube.com/watch?v=zHiWqnTWsn4)
 [Uncle Bob's SOLID principles made easy 🍀 - in Python! - YouTube](https://www.youtube.com/watch?v=pTB30aXS77U)
 [This is the Only Right Way to Write React clean-code - SOLID - YouTube](https://www.youtube.com/watch?v=MSq_DCRxOxw)
-[5 Principles that will make you a SOLID JavaScript Developer](http://thefullstack.xyz/solid-javascript/)
-[SOLID Principles: Improve Object-Oriented Design in Python – Real Python](https://realpython.com/solid-principles-python/)
+[SOLID principles - write clean code in React.js app - YouTube](https://www.youtube.com/watch?v=Ix6JoarGYiA)
 
 [Why SOLID Principles are not a solid solution for Software Design | by Elye | Apr, 2021 | Towards Data Science](https://towardsdatascience.com/why-solid-principles-are-not-a-solid-solution-for-software-design-fa71b6017ed6)
 
 ### Single Responsibility Principle
 
-[Single responsibility principle - Wikiwand](https://www.wikiwand.com/en/Single_responsibility_principle)
+[Single responsibility principle - Wikiwand](https://omni.wikiwand.com/en/Single_responsibility_principle)
 [The Single Responsibility Principle | 8th Light](http://blog.8thlight.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html)
 [Single Responsibility Principle | Object Oriented Design](https://www.oodesign.com/single-responsibility-principle.html)
 [Understanding SOLID Principles: Single Responsibility | by Fanis Despoudis | codeburst](https://codeburst.io/understanding-solid-principles-single-responsibility-b7c7ec0bf80)
 
 ### Open/Closed Principle
 
-[Open–closed principle - Wikiwand](https://www.wikiwand.com/en/Open%E2%80%93closed_principle)
+[Open–closed principle - Wikiwand](https://omni.wikiwand.com/en/Open%E2%80%93closed_principle)
 [Understanding SOLID Principles: Open Closed Principle](https://codeburst.io/understanding-solid-principles-open-closed-principle-e2b588b6491f)
 [A simple example of the Open/Closed Principle](http://joelabrahamsson.com/a-simple-example-of-the-openclosed-principle/)
 [Open Close Principle | Object Oriented Design](http://www.oodesign.com/open-close-principle.html)
@@ -233,8 +237,8 @@ D: Dependency Inversion Principle
 Dependency Injection: split creatiion and use of dependency
 Dependency Inversion: a design pattern to create abstract class for dependency to prevent coupling to an implementation, implies Dependency Injection
 
-[Inversion of control - Wikiwand](https://www.wikiwand.com/en/Inversion_of_control)
-[Dependency injection - Wikiwand](https://www.wikiwand.com/en/Dependency_injection)
+[Inversion of control - Wikiwand](https://omni.wikiwand.com/en/Inversion_of_control)
+[Dependency injection - Wikiwand](https://omni.wikiwand.com/en/Dependency_injection)
 
 [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
 [Excellent Explanation of Dependency Injection (Inversion of Control) | JavaWorld](https://www.javaworld.com/article/2071914/excellent-explanation-of-dependency-injection--inversion-of-control-.html)
@@ -281,7 +285,7 @@ transaction costs: transformation of output of upstream to fit downstream
 
 > general responsibility assignment software patterns
 
-[GRASP (object-oriented design) - Wikiwand](<https://www.wikiwand.com/en/GRASP_(object-oriented_design)>) easier to understand and more practical than SOLID
+[GRASP (object-oriented design) - Wikiwand](<https://omni.wikiwand.com/en/GRASP_(object-oriented_design)>) easier to understand and more practical than SOLID
 [GRASP: 9 Must-Know Design Principles for Code - Fluent C++](https://www.fluentcpp.com/2021/06/23/grasp-9-must-know-design-principles-for-code/)
 
 [GRASP Design Principles: Why They Matter (And How to Use Them) - YouTube](https://www.youtube.com/watch?v=fGNF6wuD-fg)
@@ -334,9 +338,9 @@ Rust and Go adopts this approach
 Command Query Responsibility Segregation scale read and write independently as each have different techniques in optimizing.
 
 [CQRS](http://martinfowler.com/bliki/CQRS.html)
-[Command–query separation - Wikiwand](https://www.wikiwand.com/en/Command%E2%80%93query_separation)
+[Command–query separation - Wikiwand](https://omni.wikiwand.com/en/Command%E2%80%93query_separation)
 [Command Query Responsibility Segregation (CQRS)](http://microservices.io/patterns/data/cqrs.html)
-[Command and Query Responsibility Segregation (CQRS) Pattern](https://msdn.microsoft.com/en-us/library/dn568103.aspx)
+[Command and Query Responsibility Segregation (CQRS) Pattern | Microsoft Learn](<https://learn.microsoft.com/en-us/previous-versions/msp-n-p/dn568103(v=pandp.10)>)
 [Command Query Segregation | Object-Oriented Design Principles w/ TypeScript | Khalil Stemmler](https://khalilstemmler.com/articles/oop-design-principles/command-query-segregation/)
 [From CQS to CQRS – @herbertograca](https://herbertograca.com/2017/10/19/from-cqs-to-cqrs/)
 [Concepts of CQRS - DZone Microservices](https://dzone.com/articles/concepts-of-cqrs)
@@ -398,6 +402,7 @@ Allows changing schema by replaying event history to get latest state.
 
 [Which Software Architecture Should You Use: MVC, MVP, or MVVM? - YouTube](https://www.youtube.com/watch?v=eHhXoCNCI1c)
 [ArjanCodes/2022-gui](https://github.com/ArjanCodes/2022-gui)
+[Everything You NEED to Know About Client Architecture Patterns - YouTube](https://www.youtube.com/watch?v=I5c7fBgvkNY)
 
 **MVC**
 V has reference to M, C has reference to V and M
@@ -411,8 +416,8 @@ V bind to VM's property, VM don't have reference to V
 [Why I No Longer Use MVC Frameworks](https://www.infoq.com/articles/no-more-mvc-frameworks/) ❗!important
 MVP is not as flexible as MVVM as the Presenter can only exist with a View.
 
-[Model–view–controller - Wikiwand](https://www.wikiwand.com/en/Model%E2%80%93view%E2%80%93controller)
-[Model–view–viewmodel - Wikiwand](https://www.wikiwand.com/en/Model%E2%80%93view%E2%80%93viewmodel)
+[Model–view–controller - Wikiwand](https://omni.wikiwand.com/en/Model%E2%80%93view%E2%80%93controller)
+[Model–view–viewmodel - Wikiwand](https://omni.wikiwand.com/en/Model%E2%80%93view%E2%80%93viewmodel)
 [Android Architecture Components | Android Developers](https://developer.android.com/topic/libraries/architecture)
 
 A proper Model is ignorant of the ViewModel, and a proper ViewModel is ignorant of the View. However, often a programmer tailors the data types exposed by the ViewModel to the data types associated with particular user interfaces.

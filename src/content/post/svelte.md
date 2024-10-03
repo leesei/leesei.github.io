@@ -2,7 +2,7 @@
 title: Svelte
 description: Svelte is a _compiler_ for frontend applications
 created: 2019-12-16
-updated: 2023-11-02
+updated: 2024-01-12
 tags:
   - frontend
   - javascript
@@ -135,5 +135,18 @@ App framework for Svelte, with routing, SSR, code-splitting
 
 [Packaging • Docs • SvelteKit](https://kit.svelte.dev/docs/packaging)
 
+## UI Components
+
 [Skeleton — UI Toolkit for Svelte + Tailwind](https://www.skeleton.dev/)
 [Best UI Library for Svelte - YouTube](https://www.youtube.com/watch?v=P_A0qQ7AuK8)
+
+[Svelte UI Libraries Have Leveled Up - YouTube](https://www.youtube.com/watch?v=jwRqiCv6Z9k)
+
+[shadcn-svelte](https://www.shadcn-svelte.com/)
+[huntabyte/shadcn-svelte: shadcn/ui, but for Svelte. ✨](https://github.com/huntabyte/shadcn-svelte)
+
+[Melt UI](https://melt-ui.com/)
+[melt-ui/melt-ui: A set of headless, accessible component builders for Svelte.](https://github.com/melt-ui/melt-ui)
+
+[Introduction - Bits UI](https://www.bits-ui.com/docs/introduction) powered by Melt UI
+[huntabyte/bits-ui: The headless components for Svelte.](https://github.com/huntabyte/bits-ui)

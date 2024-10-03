@@ -2,14 +2,14 @@
 title: World War II
 description: ""
 created: 2015-06-07
-updated: 2023-10-15
+updated: 2024-08-14
 tags:
   - history
   - world-war
 ---
 
-[第二次世界大战 - Wikiwand](https://www.wikiwand.com/zh/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98)
-[World War II - Wikiwand](http://www.wikiwand.com/en/World_War_II)
+[第二次世界大战 - Wikiwand](https://omni.wikiwand.com/zh/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98)
+[World War II - Wikiwand](http://omni.wikiwand.com/en/World_War_II)
 [BBC - World War Two](https://www.bbc.co.uk/programmes/p07nrbdn)
 [War Stories - YouTube](https://www.youtube.com/@WarStoriesChannel)
 [World War Two - YouTube](https://www.youtube.com/@WorldWarTwo)
@@ -126,7 +126,7 @@ U2511, first type 21 electric U Boats, manufactured in early 1945.
 
 Manhattan Project was the secret project to develop atomic (fission) bomb to end the war.
 
-[Manhattan Project - Wikiwand](http://www.wikiwand.com/en/Manhattan_Project)
+[Manhattan Project - Wikiwand](http://omni.wikiwand.com/en/Manhattan_Project)
 [Manhattan Project Facts, information, pictures | Encyclopedia.com articles about Manhattan Project](http://www.encyclopedia.com/topic/Manhattan_Project.aspx)
 [How the Manhattan Project Worked | HowStuffWorks](http://science.howstuffworks.com/manhattan-project.htm/printable)
 [TechStuff Takes Manhattan (Project) - TechStuff (podcast)](https://player.fm/series/techstuff/techstuff-takes-manhattan-project)
@@ -134,18 +134,18 @@ Manhattan Project was the secret project to develop atomic (fission) bomb to end
 
 ## Napalm
 
-[Napalm - Wikiwand](https://www.wikiwand.com/en/napalm)
+[Napalm - Wikiwand](https://omni.wikiwand.com/en/napalm)
 [78 年前，這位博士把地獄之火召喚到人間，然後，人間出現了一座座煉獄，我們似乎再也回不去了……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=TT3hb2e-yLg)
 
 dropped to Tokyo in 1945-03
-[Air raids on Japan - Wikiwand](https://www.wikiwand.com/en/Air_raids_on_Japan)
+[Air raids on Japan - Wikiwand](https://omni.wikiwand.com/en/Air_raids_on_Japan)
 
 ## Photos
 
-[Raising the Flag on Iwo Jima - Wikiwand](https://www.wikiwand.com/en/Raising_the_Flag_on_Iwo_Jima)
+[Raising the Flag on Iwo Jima - Wikiwand](https://omni.wikiwand.com/en/Raising_the_Flag_on_Iwo_Jima)
 [【Image Explained】經典二戰歷史照片「硫磺島升旗」拆解背後的故事! (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=PPjwKt3Y-4s)
 
-[Raising a Flag over the Reichstag - Wikiwand](https://www.wikiwand.com/en/Raising_a_Flag_over_the_Reichstag) the iconic photo that is reproduced in CoD:World at War
+[Raising a Flag over the Reichstag - Wikiwand](https://omni.wikiwand.com/en/Raising_a_Flag_over_the_Reichstag) the iconic photo that is reproduced in CoD:World at War
 [Why the Soviets doctored this iconic photo - YouTube](https://www.youtube.com/watch?v=4HchGsN7eM4)
 
 ---
@@ -154,7 +154,7 @@ dropped to Tokyo in 1945-03
 
 ## Pacific War
 
-[太平洋战争 - Wikiwand](https://www.wikiwand.com/zh/%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%88%98%E4%BA%89)
+[太平洋战争 - Wikiwand](https://omni.wikiwand.com/zh/%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%88%98%E4%BA%89)
 [THE PACIFIC WAR - Japan versus the US | Full Documentary - YouTube](https://www.youtube.com/watch?v=RHvh2ly1-18)
 [Pacific War - Week by week - YouTube](https://www.youtube.com/playlist?list=PLaBYW76inbX4kE52CPUvx8gZ7CQyjweEg) Kings and Generals
 
@@ -166,8 +166,8 @@ dropped to Tokyo in 1945-03
 
 ### Pearl Harbour
 
-[Attack on Pearl Harbor - Wikiwand](https://www.wikiwand.com/en/Attack_on_Pearl_Harbor)
-[珍珠港事件 - Wikiwand](https://www.wikiwand.com/zh/%E7%8F%8D%E7%8F%A0%E6%B8%AF%E4%BA%8B%E4%BB%B6)
+[Attack on Pearl Harbor - Wikiwand](https://omni.wikiwand.com/en/Attack_on_Pearl_Harbor)
+[珍珠港事件 - Wikiwand](https://omni.wikiwand.com/zh/%E7%8F%8D%E7%8F%A0%E6%B8%AF%E4%BA%8B%E4%BB%B6)
 
 [Attack on Pearl Harbor 1941 - YouTube](https://www.youtube.com/watch?v=f6cz9gtMTeI)
 [The reason Japan attacked Pearl Harbor - YouTube](https://www.youtube.com/watch?v=so4v_2zq35k)
@@ -183,7 +183,7 @@ The Admiral in charge of Pearl Harbour was more afraid of attacks from Japanese 
 US's bombing of Tokyo and Honshu on 18 April 1942.
 This is the beginning of air raids to Japan island.
 
-[Doolittle Raid - Wikiwand](https://www.wikiwand.com/en/Doolittle_Raid)
+[Doolittle Raid - Wikiwand](https://omni.wikiwand.com/en/Doolittle_Raid)
 [The Doolittle Raid | Full Documentary | Jimmy Doolittle | Missions That Changed The War |l The B-25 - YouTube](https://www.youtube.com/watch?v=68qVYAa1uE0)
 
 ### Battle of Midway
@@ -218,7 +218,7 @@ It began with the Battle of the Coral Sea, the first air carrier battle in human
 
 ## Eastern Front
 
-[Eastern Front (World War II) - Wikiwand](<https://www.wikiwand.com/en/Eastern_Front_(World_War_II)>)
+[Eastern Front (World War II) - Wikiwand](<https://omni.wikiwand.com/en/Eastern_Front_(World_War_II)>)
 
 USSR joined force in the invasion of Poland early in WW2.
 
@@ -228,7 +228,7 @@ USSR joined force in the invasion of Poland early in WW2.
 
 German's invasion of Russia on 22 June 1941
 
-[Operation Barbarossa - Wikiwand](https://www.wikiwand.com/en/Operation_Barbarossa)
+[Operation Barbarossa - Wikiwand](https://omni.wikiwand.com/en/Operation_Barbarossa)
 [Operation Barbarossa | History, Summary, Combatants, Casualties, & Facts | Britannica](https://www.britannica.com/event/Operation-Barbarossa)
 
 [Deadliest Siege of WWII: Leningrad | Animated History - YouTube](https://www.youtube.com/watch?v=X7Nkdfx1ato)
@@ -248,9 +248,9 @@ German targets Stalingrad in the south after the failure of Operation Barbarossa
 
 ## Western Front
 
-[Western Front (World War II) - Wikiwand](<https://www.wikiwand.com/en/Western_Front_(World_War_II)>)
+[Western Front (World War II) - Wikiwand](<https://omni.wikiwand.com/en/Western_Front_(World_War_II)>)
 
-[European theatre of World War II - Wikiwand](https://www.wikiwand.com/en/European_theatre_of_World_War_II)
+[European theatre of World War II - Wikiwand](https://omni.wikiwand.com/en/European_theatre_of_World_War_II)
 
 ### Blitzkrieg
 
@@ -262,7 +262,7 @@ The 400000 Allied Troops were stranded in Dunkirk and had to be saved by thousan
 
 ### D-Day/Operation Overlord
 
-[Operation Overlord - Wikiwand](https://www.wikiwand.com/en/Invasion_of_Normandy)
+[Operation Overlord - Wikiwand](https://omni.wikiwand.com/en/Invasion_of_Normandy)
 [The Normandy Landings: June 6, 1944 | D-Day Documentary - YouTube](https://www.youtube.com/watch?v=FTAW1PvEcAk) WarsofTheWorld
 [June 6, 1944 – The Light of Dawn | History - D-Day - War Documentary - YouTube](https://www.youtube.com/watch?v=0UJYYkK4d8s)
 
@@ -277,7 +277,7 @@ The 400000 Allied Troops were stranded in Dunkirk and had to be saved by thousan
 
 A corpse was dumped to Spain to leak the false clue that the Allies are invading through Greece and Sardinia to conceal their D-Day operation in Normandy, France.
 
-[Operation Mincemeat - Wikiwand](https://www.wikiwand.com/en/Operation_Mincemeat)
+[Operation Mincemeat - Wikiwand](https://omni.wikiwand.com/en/Operation_Mincemeat)
 [Operation Mincemeat: How A Corpse Fooled the Nazis | Stuff You Should Know: The Podcast](http://www.stuffyoushouldknow.com/podcasts/operation-mincemeat-how-a-corpse-fooled-the-nazis/)
 [Operation Mincemeat: How a dead tramp fooled Hitler - BBC News](http://www.bbc.com/news/magazine-11887115)
 
@@ -285,11 +285,11 @@ A corpse was dumped to Spain to leak the false clue that the Allies are invading
 
 To deceive Germany the Allies will land on the easy to reach Pas de Calais to cover up Operation Overlord.
 
-[Operation Fortitude - Wikiwand](https://www.wikiwand.com/en/Operation_Fortitude)
+[Operation Fortitude - Wikiwand](https://omni.wikiwand.com/en/Operation_Fortitude)
 
 ### Operation Husky
 
-[Allied invasion of Sicily - Wikiwand](https://www.wikiwand.com/en/Operation%20Husky)
+[Allied invasion of Sicily - Wikiwand](https://omni.wikiwand.com/en/Operation%20Husky)
 
 Espionage to cover up Operation Husky.
 [一個不存在的人，幫盟軍打贏了二戰？戰爭史上最匪夷所思事件，拯救世界、敲響希特勒喪鐘的幽靈 [She's Xiaowu @ndwtb] - YouTube](https://www.youtube.com/watch?v=vU7R-jTnO8U&t=92s)
@@ -299,12 +299,12 @@ Espionage to cover up Operation Husky.
 Allies' push to defeat Germany by December 1944
 Prelude to the Battle of Bulge
 
-[Operation Market Garden - Wikiwand](https://www.wikiwand.com/en/Operation_Market_Garden)
+[Operation Market Garden - Wikiwand](https://omni.wikiwand.com/en/Operation_Market_Garden)
 [Why Operation Market Garden failed - YouTube](https://www.youtube.com/watch?v=mNSMTq-SwaA)
 
 ### Battle Of The Bulge
 
-[Battle of the Bulge - Wikiwand](https://www.wikiwand.com/en/Battle%20Of%20The%20Bulge)
+[Battle of the Bulge - Wikiwand](https://omni.wikiwand.com/en/Battle%20Of%20The%20Bulge)
 German's last offensive campaign on Ardennes Territories with 8 Panzer division in late 1944
 
 [Battle Of The Bulge: The Bloodiest Battle The US Fought In WW2 | Greatest Tank Battles | War Stories - YouTube](https://www.youtube.com/watch?v=mxZF6Sz_P3k)
@@ -318,8 +318,8 @@ German's last offensive campaign on Ardennes Territories with 8 Panzer division 
 
 > Dambusters Raid, attack of German dams on 16 May 1943
 
-[Operation Chastise - Wikiwand](https://www.wikiwand.com/en/Operation_Chastise)
-[The Dam Busters (film) - Wikiwand](<https://www.wikiwand.com/en/The_Dam_Busters_(film)>)
+[Operation Chastise - Wikiwand](https://omni.wikiwand.com/en/Operation_Chastise)
+[The Dam Busters (film) - Wikiwand](<https://omni.wikiwand.com/en/The_Dam_Busters_(film)>)
 
 [Britain's Most Daring WW2 Raid - YouTube](https://www.youtube.com/watch?v=52VQdt0-5EQ)
 
@@ -329,7 +329,7 @@ German's last offensive campaign on Ardennes Territories with 8 Panzer division 
 
 ### Battle of Britain
 
-[Battle of Britain - Wikiwand](https://www.wikiwand.com/en/Battle_of_Britain)
+[Battle of Britain - Wikiwand](https://omni.wikiwand.com/en/Battle_of_Britain)
 
 [Eagle Day: The RAF's Last Stand Against The Luftwaffe | Battle Of Britain | Timeline - YouTube](https://www.youtube.com/watch?v=XmjKODQYYfg)
 [The Battle Of Britain: Britains Finest Hour | WW2 Documentary - YouTube](https://www.youtube.com/watch?v=_eLhOOCaXtY)
@@ -339,12 +339,12 @@ German's last offensive campaign on Ardennes Territories with 8 Panzer division 
 
 ### Battle of Berlin
 
-[Battle of Berlin - Wikiwand](https://www.wikiwand.com/en/Battle_of_Berlin)
+[Battle of Berlin - Wikiwand](https://omni.wikiwand.com/en/Battle_of_Berlin)
 [Battle of Berlin | Animated History - YouTube](https://www.youtube.com/watch?v=1--FQTBdN9s)
 
 ## Mediterranean and Middle East
 
-[Mediterranean and Middle East theatre of World War II - Wikiwand](https://www.wikiwand.com/en/Mediterranean_and_Middle_East_theatre_of_World_War_II)
+[Mediterranean and Middle East theatre of World War II - Wikiwand](https://omni.wikiwand.com/en/Mediterranean_and_Middle_East_theatre_of_World_War_II)
 
 [How Rommel became the Desert Fox | Operation Sonnenblume - YouTube](https://www.youtube.com/watch?v=C5I7pEcMRpk)
 [Turning point in the desert | The Second Battle of El Alamein - YouTube](https://www.youtube.com/watch?v=ERlVM3z3ge0)

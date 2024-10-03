@@ -2,7 +2,7 @@
 title: Writing Good Code
 description: ""
 created: 2023-06-10
-updated: 2023-10-19
+updated: 2024-09-07
 tags:
   - programmer
 ---
@@ -51,6 +51,7 @@ ArjanCodes
 [The Ultimate Guide to Writing Functions - YouTube](https://www.youtube.com/watch?v=yatgY4NpZXE)
 [Cohesion and Coupling: Write BETTER PYTHON CODE Part 1 - YouTube](https://www.youtube.com/watch?v=eiDyK_ofPPM)
 [Dependency Inversion: Write BETTER PYTHON CODE Part 2 - YouTube](https://www.youtube.com/watch?v=Kv5jhbSkqLE)
+[Avoid These BAD Practices in Python OOP - YouTube](https://www.youtube.com/watch?v=yFLY0SVutgM)
 
 [Be an Engineer, not a Frameworker | by John Raines | Medium](https://johndanielraines.medium.com/be-an-engineer-not-a-frameworker-c58fe28d0c88)
 [Be An Engineer, Not A Frameworker | Prime Reacts - YouTube](https://www.youtube.com/watch?v=UowtlZB2a70)
@@ -79,7 +80,7 @@ Read the answers by:
 [Introduction | 97 Things Every Programmer Should Know](http://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/en/)
 [mtdvio/every-programmer-should-know: A collection of (mostly) technical things every software developer should know about](https://github.com/mtdvio/every-programmer-should-know)
 
-[Rubber duck debugging - Wikiwand](https://www.wikiwand.com/en/Rubber_duck_debugging)
+[Rubber duck debugging - Wikiwand](https://omni.wikiwand.com/en/Rubber_duck_debugging)
 [I do not use a debugger – Daniel Lemire's blog](https://lemire.me/blog/2016/06/21/i-do-not-use-a-debugger/)
 
 [A short comment on comments in the code - DEV Community](https://dev.to/this-is-learning/a-short-comment-on-comments-in-the-code-1i54)
@@ -111,7 +112,7 @@ Pragmatic Programmer
 
 [The Tao of Programming](https://www.mit.edu/~xela/tao.html)
 
-[Principle of least astonishment - Wikiwand](https://www.wikiwand.com/en/Principle_of_least_astonishment)
+[Principle of least astonishment - Wikiwand](https://omni.wikiwand.com/en/Principle_of_least_astonishment)
 [Error Codes And The Law Of Least Astonishment | Hackaday](https://hackaday.com/2021/12/17/error-codes-and-the-law-of-least-astonishment/)
 [Principle Of Least Astonishment](https://wiki.c2.com/?PrincipleOfLeastAstonishment)
 
@@ -136,7 +137,7 @@ Pragmatic Programmer
 
 ## I need no magic
 
-[Magic (programming) - Wikiwand](<https://www.wikiwand.com/en/Magic_(programming)>)
+[Magic (programming) - Wikiwand](<https://omni.wikiwand.com/en/Magic_(programming)>)
 [Where do you stand on "magic" within languages and frameworks? - DEV Community](https://dev.to/ben/where-do-you-stand-on-magic-within-languages-and-frameworks-1071)
 [Node.js is a Salad Bar — Medium](https://medium.com/@modernserf/node-js-is-a-salad-bar-74ec01bd4390#.6gi4zr9a4)
 [I Want Simple, Not Just Easy | Loris Cro's Blog](https://kristoff.it/blog/simple-not-just-easy/)

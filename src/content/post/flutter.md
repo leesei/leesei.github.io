@@ -2,7 +2,7 @@
 title: Flutter
 description: ""
 created: 2015-04-03
-updated: 2023-11-02
+updated: 2024-06-14
 tags:
   - app
   - comp/lang
@@ -56,6 +56,7 @@ Flutter is a native runtime written in C++, Skia and OpenGL. With Dart binging t
 [Fuchsia Friday: How Flutter is paving the way for Fuchsia (and our first Fuchsia app!) | 9to5Google](https://9to5google.com/2018/03/02/fuchsia-friday-first-fuchsia-app/)
 
 [My Final Flutter Video - YouTube](https://www.youtube.com/watch?v=tTGWfXPKxf4) Flutter is between native widget and game engine
+[What is happening with Flutter - YouTube](https://www.youtube.com/watch?v=m0GwHNBxvHw)
 
 [Goodbye Electron, Hello Flutter. Native cross-platform application… | by Shalitha Suranga | The Startup | Feb, 2021 | Medium](https://medium.com/swlh/goodbye-electron-welcome-flutter-22b3dc10d2f3)
 [Flutter: Just another mobile UI framework?](https://blog.scottlogic.com/2021/02/01/Flutter-just-another-ui-framework.html)
@@ -64,8 +65,6 @@ Flutter is a native runtime written in C++, Skia and OpenGL. With Dart binging t
 [Reflectly — From React Native to Flutter – Reflectly Engineering – Medium](https://medium.com/reflectly-engineering/reflectly-from-react-native-to-flutter-2e3dffced2ea)
 [Why and how am I learning Flutter? – Flutter Community – Medium](https://medium.com/flutter-community/why-and-how-am-i-learning-flutter-2652c15c8113)
 
-[Flutter vs Native vs React-Native: Examining performance](https://medium.com/swlh/flutter-vs-native-vs-react-native-examining-performance-31338f081980)
-[React Native VS Flutter – What’s Best for You? – SurajOnDev](https://surajondev.com/2021/12/12/react-native-vs-flutter-whats-best-for-you/)
 [React to Flutter: One Developers Journey — Part 1 | by Reme Le Hane | ITNEXT](https://itnext.io/react-to-flutter-one-developers-journey-part-1-f101443bff82)
 [React to Flutter: One Developers Journey — Part 2 | by Reme Le Hane | May, 2021 | ITNEXT](https://itnext.io/react-to-flutter-one-developers-journey-part-2-10ac6919f580)
 [Flutter vs React Native: What Is the Best Language for Food Delivery App Development? - DZone Web Dev](https://dzone.com/articles/flutter-vs-react-native-what-is-the-best-language)
@@ -201,6 +200,7 @@ flutter doctor
 
 [User Interface in Python and Flet | Flutter for Python - YouTube](https://www.youtube.com/watch?v=y75vekE9OqU)
 [Create a ToDo App in Python and Flet | Flutter for Python - YouTube](https://www.youtube.com/watch?v=yMN8BKQJAcs)
+[Python Tutorial - Flet Framework [Basics] For Beginners - YouTube](https://www.youtube.com/watch?v=YG0SkSbcXwU)
 
 [Episode #378 Flet: Flutter apps in Python - [Talk Python To Me Podcast]](https://talkpython.fm/episodes/show/378/flet-flutter-apps-in-python)
 

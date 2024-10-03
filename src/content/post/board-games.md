@@ -2,7 +2,7 @@
 title: Board Games
 description: ""
 created: 2018-01-03
-updated: 2023-10-03
+updated: 2024-08-14
 tags:
   - boardgame
   - games
@@ -71,7 +71,7 @@ Monopoly derives from a patented "The Landlord’s Game", whose goal was to teac
 
 ## Playing Card
 
-[Standard 52-card deck - Wikiwand](https://www.wikiwand.com/en/Standard_52-card_pack)
+[Standard 52-card deck - Wikiwand](https://omni.wikiwand.com/en/Standard_52-card_pack)
 [Evolution of Playing Card Designs - Solitaired](https://solitaired.com/evolution-of-playing-card-design)
 
 ## 散櫻亂武
@@ -83,7 +83,7 @@ Monopoly derives from a patented "The Landlord’s Game", whose goal was to teac
 [散櫻亂武(二幕&新幕) - Google Sheets](https://docs.google.com/spreadsheets/d/1YMUDLvgYvHQRWxoOPuQW9eFQfn2Py1FCUFskA-E48w8/edit?fbclid=IwAR3ufQsycwAtEMxTcFVqGnFRizchWWT7Es2uyg9P3_aEgpxOwTSRM1mXlsk#gid=110399606)
 
 [Furuyoni Board Simulator](https://furuyoni-simulator.herokuapp.com/)
-[散樱乱武对战模拟器卡图插件 Furuyoni Simulator Image Loader - Chrome 网上应用店](https://chrome.google.com/webstore/detail/%E6%95%A3%E6%A8%B1%E4%B9%B1%E6%AD%A6%E5%AF%B9%E6%88%98%E6%A8%A1%E6%8B%9F%E5%99%A8%E5%8D%A1%E5%9B%BE%E6%8F%92%E4%BB%B6-furuyoni-si/jgdkgeeppknnajkmhfjgjjekmhcggaki?hl=zh-CN)
+[散樱乱武对战模拟器卡图插件 Furuyoni Simulator Image Loader](https://chromewebstore.google.com/detail/%E6%95%A3%E6%A8%B1%E4%B9%B1%E6%AD%A6%E5%AF%B9%E6%88%98%E6%A8%A1%E6%8B%9F%E5%99%A8%E5%8D%A1%E5%9B%BE%E6%8F%92%E4%BB%B6-furuyoni-si/jgdkgeeppknnajkmhfjgjjekmhcggaki?hl=zh-CN)
 
 [[規則] 新幕 桜降る代に決闘を (新幕 散櫻亂武) - 看板 BoardGame - 批踢踢實業坊](https://www.ptt.cc/bbs/BoardGame/M.1532012511.A.3A5.html)
 [【規則】桜降る代に決闘を （為落櫻時代獻上決鬥） | 洛克洛克的桌遊倉庫](http://rockrocker33.blogspot.com/2016/06/blog-post_17.html)

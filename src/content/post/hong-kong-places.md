@@ -2,7 +2,7 @@
 title: Hong Kong Places
 description: ""
 created: 2015-05-25
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - trivia
 ---
@@ -16,6 +16,7 @@ tags:
 [歷史時空 - Home](https://www.facebook.com/%E6%AD%B7%E5%8F%B2%E6%99%82%E7%A9%BA-2021670614786179/)
 [香港地方 | 主頁](http://www.hk-place.com/index.php)
 [港識多史｜香港歷史社會研究社 - 香港人說香港史，分享香港歷史文化故事冷知識](https://www.wetoasthk.com/)
+[We Toast HK港識多史 - YouTube](https://www.youtube.com/@WeToastHK)
 [MTR 之今昔 - MTR expo](http://mtr.hk365day.com/index.main.html)
 [關於香港 - YouTube](https://www.youtube.com/playlist?list=PLv_bo10Pna6Tivzuhr8IsFKCmbwE8b5eh)
 [團結香港基金呈獻：TVB 製作《歷史有話說》 - YouTube](https://www.youtube.com/playlist?list=PL4bPFUQlr9lwACKSIN319MXnNhAW9kgLc)
@@ -33,10 +34,10 @@ tags:
 
 ### 殖民統治
 
-[香港割讓 - Wikiwand](https://www.wikiwand.com/zh-hant/%E9%A6%99%E6%B8%AF%E5%89%B2%E8%AE%93)
-[南京條約 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%8D%97%E4%BA%AC%E6%9D%A1%E7%BA%A6) 1842 香港島
-[北京條約 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%8C%97%E4%BA%AC%E6%A2%9D%E7%B4%84) 1860 九龍半島
-[展拓香港界址專條 - Wikiwand](https://www.wikiwand.com/zh-hant/%E5%B1%95%E6%8B%93%E9%A6%99%E6%B8%AF%E7%95%8C%E5%9D%80%E5%B0%88%E6%A2%9D) 1898 租借界限街以北，深圳河以南
+[香港割讓 - Wikiwand](https://omni.wikiwand.com/zh/%E9%A6%99%E6%B8%AF%E5%89%B2%E8%AE%93)
+[南京條約 - Wikiwand](https://omni.wikiwand.com/zh/%E5%8D%97%E4%BA%AC%E6%9D%A1%E7%BA%A6) 1842 香港島
+[北京條約 - Wikiwand](https://omni.wikiwand.com/zh/%E5%8C%97%E4%BA%AC%E6%A2%9D%E7%B4%84) 1860 九龍半島
+[展拓香港界址專條 - Wikiwand](https://omni.wikiwand.com/zh/%E5%B1%95%E6%8B%93%E9%A6%99%E6%B8%AF%E7%95%8C%E5%9D%80%E5%B0%88%E6%A2%9D) 1898 租借界限街以北，深圳河以南
 
 [How 156 years of British rule shaped Hong Kong - YouTube](https://www.youtube.com/watch?v=StW7oGSR_Mg)
 [香港主權移交 20 週年：為什麼 BBC 中文網不說「回歸」？ - BBC News 中文](https://www.bbc.com/zhongwen/trad/chinese-news-40441492)

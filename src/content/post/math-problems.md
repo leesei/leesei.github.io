@@ -2,7 +2,7 @@
 title: Math Problems
 description: Trivia math problems
 created: 2023-06-08
-updated: 2023-09-29
+updated: 2024-09-07
 tags:
   - math
   - trivia
@@ -20,3 +20,10 @@ tags:
 [什么是公平？如何分配利益才能大家都满意？李永乐老师讲切蛋糕问题 - YouTube](https://www.youtube.com/watch?v=I8d13Jxzafk)
 
 [What's The Largest Sofa That Can Fit Around a Corner? - YouTube](https://www.youtube.com/watch?v=bUNl_jJMTOw)
+
+[This pattern breaks, but for a good reason | Moser's circle problem - YouTube](https://www.youtube.com/watch?v=YtkIWDE36qU) The Strong Law of Small Number, Euler Characteristic Formula, Pascal Triangle
+
+## Exploration-Exploitation Dilemma
+
+[数学算法如何帮你做出最好的人生选择？ - YouTube](https://www.youtube.com/watch?v=GLkdv-31FJU)
+[bandits.pdf](https://cseweb.ucsd.edu/~yfreund/papers/bandits.pdf)

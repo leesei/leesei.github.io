@@ -2,7 +2,7 @@
 title: PostgreSQL
 description: The World's Most Advanced Open Source Relational Database
 created: 2023-06-18
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - comp/database
   - postgresql
@@ -12,7 +12,7 @@ tags:
 [[psql-snippets]]
 
 [PostgreSQL: The world's most advanced open source database](https://www.postgresql.org/)
-[PostgreSQL - Wikiwand](https://www.wikiwand.com/en/PostgreSQL)
+[PostgreSQL - Wikiwand](https://omni.wikiwand.com/en/PostgreSQL)
 [PostgreSQL History - 2ndQuadrant | PostgreSQL](https://www.2ndquadrant.com/en/postgresql/postgresql-story/)
 
 [PostgreSQL 12 Top Features Explained - YouTube](https://www.youtube.com/watch?v=PfbzNdrecv4)
@@ -20,8 +20,12 @@ tags:
 [PostgreSQL v14 Is Faster, and Friendly to Developers – The New Stack](https://thenewstack.io/postgresql-v14-is-faster-and-friendly-to-developers/)
 [PostgreSQL 16 advances query parallelism | InfoWorld](https://www.infoworld.com/article/3697752/postgresql-16-advances-query-parallelism.html)
 
+[dhamaniasad/awesome-postgres: A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql](https://github.com/dhamaniasad/awesome-postgres)
+[pg-tr/awesome-postgres: A curated list of awesome PostgreSQL software, libraries, tools and resources, forked from dhamaniasad/awesome-postgres](https://github.com/pg-tr/awesome-postgres)
+
 [Why Postgres? | Crunchy Data](https://www.crunchydata.com/why-postgres)
 [Why old-school PostgreSQL is so hip again | InfoWorld](https://www.infoworld.com/article/3240064/sql/why-old-school-postgresql-is-so-hip-again.html)
+[Wait... PostgreSQL can do WHAT? - YouTube](https://www.youtube.com/watch?v=VEWXmdjzIpQ)
 
 - Multi-version concurrent control, new record created upon write
 - Heavy rely on process, each client is a process
@@ -60,12 +64,10 @@ tags:
 [Postgres Insider Terminology](https://www.crunchydata.com/blog/challenging-postgres-terminology)
 
 Advisory Locks
-[PostgreSQL: Documentation: 15: 13.3. Explicit Locking](https://www.postgresql.org/docs/current/explicit-locking.html)
+[PostgreSQL: Documentation: 13.3. Explicit Locking](https://www.postgresql.org/docs/current/explicit-locking.html)
 [Understanding PostgreSQL Locks: A Comprehensive Guide 101](https://hevodata.com/learn/postgresql-locks/)
 [Richard Clayton - Distributed Locking with Postgres Advisory Locks](https://rclayton.silvrback.com/distributed-locking-with-postgres-advisory-locks)
 [How do PostgreSQL advisory locks work - Vlad Mihalcea](https://vladmihalcea.com/how-do-postgresql-advisory-locks-work/)
-
-[Postgres Extensions in Rust | Depth-First](https://depth-first.com/articles/2021/08/25/postgres-extensions-in-rust/)
 
 [Rob Conery | Designing a PostgreSQL Document API](http://rob.conery.io/2015/08/20/designing-a-postgresql-document-api/)
 [Rob Conery | PostgreSQL Document API Part 2: Full Text Search and Bulk Save](http://rob.conery.io/2015/08/22/postgresql-document-api-part-2-full-text-search-and-bulk-save/)
@@ -79,7 +81,7 @@ Advisory Locks
 ## Clients
 
 [Postgres Databases and Schemas](https://www.crunchydata.com/blog/postgres-databases-and-schemas) URL Schema
-[PostgREST Documentation](https://postgrest.org/)
+[PL Matrix - PostgreSQL wiki](https://wiki.postgresql.org/wiki/PL_Matrix)
 
 [robconery/massive-js: A simple relational data access tool for NodeJS.](https://github.com/robconery/massive-js)
 [porsager/postgres: Postgres.js - The Fastest full featured PostgreSQL client for Node.js and Deno](https://github.com/porsager/postgres)
@@ -94,6 +96,66 @@ Advisory Locks
 [I Forked “Asyncpg” — And It Parses Database Records to Numpy 20x Faster | by Vadim Markovtsev | Jun, 2022 | Better Programming](https://betterprogramming.pub/i-forked-asyncpg-and-it-parses-database-records-to-numpy-20x-faster-e71024a84bff)
 
 [Quicker serverless Postgres connections - Neon](https://neon.tech/blog/quicker-serverless-postgres) websocket, TLS
+
+## Extensions
+
+[Trunk](https://tembo-io.github.io/trunk/)
+[Postgres Extensions in Rust | Depth-First](https://depth-first.com/articles/2021/08/25/postgres-extensions-in-rust/)
+[PostgreSQL: Documentation: Appendix F. Additional Supplied Modules and Extensions](https://www.postgresql.org/docs/current/contrib.html)
+
+[Top 10 PostgreSQL Extensions You Should Know About | Airbyte](https://airbyte.com/data-engineering-resources/postgresql-extensions)
+[Wait... PostgreSQL can do WHAT? - YouTube](https://www.youtube.com/watch?v=VEWXmdjzIpQ)
+
+[PostgREST Documentation](https://postgrest.org/)
+[PostgREST/postgrest: REST API for any Postgres database](https://github.com/PostgREST/postgrest)
+
+[pramsey/pgsql-http: HTTP client for PostgreSQL, retrieve a web page from inside the database.](https://github.com/pramsey/pgsql-http)
+[michelp/pgjwt: PostgreSQL implementation of JWT (JSON Web Tokens)](https://github.com/michelp/pgjwt)
+[mkaski/pg_render: Render HTML in SQL. PostgreSQL extension.](https://github.com/mkaski/pg_render)
+[AbdulYadi/pgqr: PostgreSQL extension to generate QR code](https://github.com/AbdulYadi/pgqr)
+[PostgreSQL Anonymizer](https://postgresql-anonymizer.readthedocs.io/en/stable/)
+
+### Omnigres
+
+[Omnigres documentation](https://docs.omnigres.org/)
+[omnigres/omnigres: Postgres as a Platform](https://github.com/omnigres/omnigres)
+
+### Key-Value
+
+[PostgreSQL: Documentation: F.18. hstore](https://www.postgresql.org/docs/current/hstore.html) key-value store
+
+### Document database
+
+[PostgreSQL: Documentation: 8.14. JSON Types](https://www.postgresql.org/docs/current/datatype-json.html)
+[PostgreSQL: Documentation: 9.16. JSON Functions and Operators](https://www.postgresql.org/docs/current/functions-json.html)
+
+[PostgreSQL JSON Tutorial](https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-json/)
+[PostgreSQL and JSON – How to Use JSON Data in PostgreSQL](https://www.freecodecamp.org/news/postgresql-and-json-use-json-data-in-postgresql/)
+[JSONB PostgreSQL: How To Store & Index JSON Data](https://scalegrid.io/blog/using-jsonb-in-postgresql-how-to-effectively-store-index-json-data-in-postgresql/)
+[Working with JSON in PostgreSQL vs MongoDB - YouTube](https://www.youtube.com/watch?v=n_wkARSxtK4)
+[Bye bye Mongo, Hello Postgres | Information | The Guardian](https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres)
+
+### Message queue
+
+[tembo-io/pgmq: A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.](https://github.com/tembo-io/pgmq)
+[SQL Maxis: Why We Ditched RabbitMQ And Replaced It With A Postgres Queue](https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue)
+
+### Pub/Sub
+
+[PostgreSQL: Documentation: NOTIFY](https://www.postgresql.org/docs/current/sql-notify.html) pub
+[PostgreSQL: Documentation: LISTEN](https://www.postgresql.org/docs/current/sql-listen.html) sub
+
+### Time series
+
+[PostgreSQL ++ for time series and events | Timescale](https://www.timescale.com/)
+[timescale/timescaledb: An open-source time-series SQL database optimized for fast ingest and complex queries. Packaged as a PostgreSQL extension.](https://github.com/timescale/timescaledb)
+
+### Logging Database
+
+[logfellow/logstash-logback-encoder: Logback JSON encoder and appenders](https://github.com/logfellow/logstash-logback-encoder)
+
+[PostgreSQL: Documentation: 12.11. Limitations](https://www.postgresql.org/docs/current/textsearch-limitations.html)
+[Why we replaced Elasticsearch with Postgres Full-Text Search](https://blog.blockost.com/why-we-replaced-elasticsearch-with-postgres-full-text-search)
 
 ## GUI
 
@@ -113,7 +175,11 @@ Advisory Locks
 
 ## Data types
 
+[PostgreSQL: Documentation: Chapter 8. Data Types](https://www.postgresql.org/docs/current/datatype.html)
+
 [PostgreSQL as a Schemaless Database](http://thebuild.com/presentations/pg-as-nosql-pgday-fosdem-2013.pdf)
+
+[the-art-of-the-terminal/postgresql-is-not-a-database/02-object-features.sql at master · vivus-ignis/the-art-of-the-terminal](https://github.com/vivus-ignis/the-art-of-the-terminal/blob/master/postgresql-is-not-a-database/02-object-features.sql) custom data type and inheritance
 
 [Rob Conery | JSONB and PostgreSQL: Work Faster By Ditching Migrations](http://rob.conery.io/2016/02/27/jsonb-and-postgresql/) 9.4+
 [When to use unstructured datatypes in Postgres–Hstore vs. JSON vs. JSONB](https://www.citusdata.com/blog/2016/07/14/choosing-nosql-hstore-json-jsonb/)
@@ -125,7 +191,7 @@ Advisory Locks
 
 [A tour of Postgres' Foreign Data Wrappers - Craig Kerstiens](http://www.craigkerstiens.com/2016/09/11/a-tour-of-fdws/)
 [Understanding Foreign Data Wrappers in Postgres and postgres_fdw](https://www.crunchydata.com/blog/understanding-postgres_fdw)
-[PostgreSQL: Documentation: 15: F.38. postgres_fdw](https://www.postgresql.org/docs/current/postgres-fdw.html)
+[PostgreSQL: Documentation: F.38. postgres_fdw](https://www.postgresql.org/docs/current/postgres-fdw.html)
 
 [Creating a Postgres Foreign Data Wrapper | DoltHub Blog](https://www.dolthub.com/blog/2022-01-26-creating-a-postgres-foreign-data-wrapper/)
 [PostgreSQL FDW aggregation pushdown part I: modifying Multicorn | Splitgraph](https://www.splitgraph.com/blog/postgresql-fdw-aggregation-pushdown-multicorn-part-1)

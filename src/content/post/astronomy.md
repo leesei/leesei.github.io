@@ -2,7 +2,7 @@
 title: Astronomy
 description: ""
 created: 2019-07-16
-updated: 2023-10-25
+updated: 2024-09-18
 tags:
   - astro-physics
   - astronomy
@@ -40,7 +40,7 @@ tags:
 
 [Backyard Worlds: Planet 9 — Zooniverse](https://www.zooniverse.org/projects/marckuchner/backyard-worlds-planet-9)
 
-[Backyard Worlds - Wikiwand](https://www.wikiwand.com/en/Backyard_Worlds)
+[Backyard Worlds - Wikiwand](https://omni.wikiwand.com/en/Backyard_Worlds)
 [Backyard Worlds: Planet 9 | NASA](https://www.nasa.gov/feature/backyard-worlds-planet-9)
 
 ## Cosmology
@@ -58,6 +58,11 @@ tags:
 
 [James Webb Telescope FINALLY Proves Stephen Hawkings Multiverse Theory! - YouTube](https://www.youtube.com/watch?v=UM3lc1fvODc)
 
+PBS Space Time
+[Cosmology - YouTube](https://www.youtube.com/playlist?list=PLsPUh22kYmNAKCiGWtQ48yQVp7s-k0Os2)
+[The Big Bang & The Early Universe - YouTube](https://www.youtube.com/playlist?list=PLsPUh22kYmNAV2T4af0Di7bcsb095z164)
+[The Origins of Matter, Mass & Time - YouTube](https://www.youtube.com/playlist?list=PLsPUh22kYmNCvd_mSHKeO_7tewtnaDEXZ)
+
 Linvo 說宇宙
 [（更新中）【俗說宇宙】宇宙系列 - YouTube](https://www.youtube.com/playlist?list=PLd-GBkH4nB9nUKfeLFiERoEE5Q6Hw29wP)
 [（已完结）【俗說宇宙】銀河系系列 - YouTube](https://www.youtube.com/playlist?list=PLd-GBkH4nB9lrqR2Wht_SJjcou-b5LDSS)
@@ -65,13 +70,13 @@ Linvo 說宇宙
 
 ### 人類文明
 
-[人擇原理 - Wikiwand](https://www.wikiwand.com/zh-hant/%E4%BA%BA%E6%8B%A9%E5%8E%9F%E7%90%86)
-[Anthropic principle - Wikiwand](https://www.wikiwand.com/en/Anthropic_principle)
+[人擇原理 - Wikiwand](https://omni.wikiwand.com/zh/%E4%BA%BA%E6%8B%A9%E5%8E%9F%E7%90%86)
+[Anthropic principle - Wikiwand](https://omni.wikiwand.com/en/Anthropic_principle)
 [人擇宇宙學原理 - MBA 智库百科](https://wiki.mbalib.com/zh-tw/%E4%BA%BA%E6%8B%A9%E5%AE%87%E5%AE%99%E5%AD%A6%E5%8E%9F%E7%90%86)
 
 [The Anthropic Principle - How Your Existence Could Lead to a Multiverse - YouTube](https://www.youtube.com/watch?v=eF2v9oSy70I)
 
-[Kardashev scale - Wikiwand](https://www.wikiwand.com/en/Kardashev_scale)
+[Kardashev scale - Wikiwand](https://omni.wikiwand.com/en/Kardashev_scale)
 [0 ～ 7 級宇宙文明，剛剛發現一個可能比我們先進 10 萬年的二級文明 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=B4joIhlThpc)
 
 [宇宙等級 7 級論：人類文明發展至今，竟還處於 0 級？| 宇宙文明等級科普（上）「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=BTfWpcSIkQU)
@@ -94,8 +99,8 @@ Linvo 說宇宙
 [Scroll through the universe with a new interactive map](https://phys.org/news/2022-11-scroll-universe-interactive.html)
 
 [Solar System Scope - Online Model of Solar System and Night Sky](https://www.solarsystemscope.com/)
-[Cosmic distance ladder - Wikiwand](https://www.wikiwand.com/en/Cosmic_distance_ladder)
-[Cepheid variable - Wikiwand](https://www.wikiwand.com/en/Cepheid_variable) a type of star that pulsates radially
+[Cosmic distance ladder - Wikiwand](https://omni.wikiwand.com/en/Cosmic_distance_ladder)
+[Cepheid variable - Wikiwand](https://omni.wikiwand.com/en/Cepheid_variable) a type of star that pulsates radially
 
 [Every Kind of Thing in Space Mapped - YouTube](https://www.youtube.com/watch?v=uniGQrGLEoI)
 
@@ -104,7 +109,7 @@ Linvo 說宇宙
 [How We Mapped the Stars - YouTube](https://www.youtube.com/watch?v=JWpJjsou99c)
 [The Size of the Universe — Martin Rees - YouTube](https://www.youtube.com/watch?v=VG4MUt7tjwI)
 
-[Spectral line - Wikiwand](https://www.wikiwand.com/en/Spectral_line)
+[Spectral line - Wikiwand](https://omni.wikiwand.com/en/Spectral_line)
 [Can You Solve This Astronomical Riddle? - YouTube](https://www.youtube.com/watch?v=wj8J44OChV8)
 
 [地球的質量是怎麼稱出來的？連牛頓都放棄了的奇葩實驗！How To【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=6i0GMFAKERY)
@@ -126,7 +131,7 @@ Linvo 說宇宙
 
 [Star Facts: The Basics of Star Names and Stellar Evolution | Space](https://www.space.com/amp/57-stars-formation-classification-and-constellations.html)
 
-[Stellar evolution - Wikiwand](https://www.wikiwand.com/en/Stellar_evolution)
+[Stellar evolution - Wikiwand](https://omni.wikiwand.com/en/Stellar_evolution)
 [How elements are formed — Science Learning Hub](https://www.sciencelearn.org.nz/resources/1727-how-elements-are-formed)
 
 [Star and Galaxy Formation in the Early Universe - YouTube](https://www.youtube.com/watch?v=n4vvuzIWOTE)
@@ -143,7 +148,7 @@ Linvo 說宇宙
 
 ## Stellar Classification
 
-[Stellar classification - Wikiwand](https://www.wikiwand.com/en/Stellar_classification)
+[Stellar classification - Wikiwand](https://omni.wikiwand.com/en/Stellar_classification)
 [Star Classification - Zoom Astronomy](https://www.enchantedlearning.com/subjects/astronomy/stars/startypes.shtml)
 [The Classification of Stars](http://www.atlasoftheuniverse.com/startype.html)
 
@@ -169,38 +174,38 @@ Luminosity
 
 ## Telescope
 
-[Telescope - Wikiwand](https://www.wikiwand.com/en/Telescope)
-[History of the telescope - Wikiwand](https://www.wikiwand.com/en/History_of_the_telescope)
+[Telescope - Wikiwand](https://omni.wikiwand.com/en/Telescope)
+[History of the telescope - Wikiwand](https://omni.wikiwand.com/en/History_of_the_telescope)
 [TechStuff Looks Through A Telescope TechStuff podcast](https://player.fm/series/techstuff-2152808/techstuff-looks-through-a-telescope)
 [Why is this Space Telescope so Tiny? - YouTube](https://www.youtube.com/watch?v=HxwhCmO90UQ)
 [星星光芒是如何產生的？|James Webb Telescope - YouTube](https://www.youtube.com/watch?v=FuBgBflBTp0)
 
-[Refracting telescope - Wikiwand](https://www.wikiwand.com/en/Refracting_telescope)
+[Refracting telescope - Wikiwand](https://omni.wikiwand.com/en/Refracting_telescope)
 [Who Invented the Telescope? | Space](https://www.space.com/21950-who-invented-the-telescope.html)
 [Galileo and the Telescope](https://www.atnf.csiro.au/outreach/education/senior/astrophysics/galileo.html)
 [What is Galileo's Telescope? - Universe Today](https://www.universetoday.com/15763/galileos-telescope/)
 [Galileo and the Telescope | Modeling the Cosmos | Articles and Essays | Finding Our Place in the Cosmos: From Galileo to Sagan and Beyond | Digital Collections | Library of Congress](https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/modeling-the-cosmos/galileo-and-the-telescope)
 
-[Reflecting telescope - Wikiwand](https://www.wikiwand.com/en/Reflecting_telescope)
-[Newtonian telescope - Wikiwand](https://www.wikiwand.com/en/Newtonian_telescope)
+[Reflecting telescope - Wikiwand](https://omni.wikiwand.com/en/Reflecting_telescope)
+[Newtonian telescope - Wikiwand](https://omni.wikiwand.com/en/Newtonian_telescope)
 [Reflecting Telescope](http://abyss.uoregon.edu/~js/glossary/reflecting_telescope.html)
 
 ### Optical aberrations
 
-[Optical aberration - Wikiwand](https://www.wikiwand.com/en/Optical_aberration)
+[Optical aberration - Wikiwand](https://omni.wikiwand.com/en/Optical_aberration)
 [Optical aberrations: how to fix errors in your telescope - BBC Sky at Night Magazine](https://www.skyatnightmagazine.com/advice/understanding-optical-aberrations/)
 [Lecture 8: Telescopes; aberrations: chromatic, spherical, and coma | Video Lectures | Optics | Mechanical Engineering | MIT OpenCourseWare](https://ocw.mit.edu/courses/mechanical-engineering/2-71-optics-spring-2009/video-lectures/lecture-8-telescopes-aberrations-chromatic-spherical-and-coma/)
 
 Three mirror design of James Webb Telescope can mitigate the three main kind of distortions.
 
-- [Coma (optics) - Wikiwand](<https://www.wikiwand.com/en/Coma_(optics)>)/Comatic aberration
-- [Chromatic aberration - Wikiwand](https://www.wikiwand.com/en/Chromatic_aberration)
-- [Spherical aberration - Wikiwand](https://www.wikiwand.com/en/Spherical_aberration)
+- [Coma (optics) - Wikiwand](<https://omni.wikiwand.com/en/Coma_(optics)>)/Comatic aberration
+- [Chromatic aberration - Wikiwand](https://omni.wikiwand.com/en/Chromatic_aberration)
+- [Spherical aberration - Wikiwand](https://omni.wikiwand.com/en/Spherical_aberration)
 
 ### Hubble Telescope
 
 [Hubblesite](https://hubblesite.org/)
-[Hubble Space Telescope - Wikiwand](https://www.wikiwand.com/en/Hubble_Space_Telescope)
+[Hubble Space Telescope - Wikiwand](https://omni.wikiwand.com/en/Hubble_Space_Telescope)
 [Hubble Space Telescope | NASA](https://www.nasa.gov/mission_pages/hubble/main/index.html)
 
 Optimized for visible and ultraviolet radiation
@@ -214,7 +219,7 @@ Optimized for visible and ultraviolet radiation
 ### James Webb Telescope
 
 [Webb's Launch GSFC/NASA](https://www.jwst.nasa.gov/)
-[James Webb Space Telescope - Wikiwand](https://www.wikiwand.com/en/James_Webb_Space_Telescope)
+[James Webb Space Telescope - Wikiwand](https://omni.wikiwand.com/en/James_Webb_Space_Telescope)
 
 344 single point of failures means failure rate is still 30% if failure rate of each part is 0.1%
 Optimized for infrared radiation
@@ -247,9 +252,9 @@ Discovery With Andy
 
 ## Black Holes
 
-[Black hole - Wikiwand](https://www.wikiwand.com/en/Black_hole)
-[Hawking radiation - Wikiwand](https://www.wikiwand.com/en/Hawking_radiation)
-[Black hole information paradox - Wikiwand](https://www.wikiwand.com/en/Black_hole_information_paradox)
+[Black hole - Wikiwand](https://omni.wikiwand.com/en/Black_hole)
+[Hawking radiation - Wikiwand](https://omni.wikiwand.com/en/Hawking_radiation)
+[Black hole information paradox - Wikiwand](https://omni.wikiwand.com/en/Black_hole_information_paradox)
 
 [Scientists may have discovered whole new class of black holes](https://phys.org/news/2019-10-scientists-class-black-holes.amp)
 [Have We Solved the Black Hole Information Paradox? - Scientific American Blog Network](https://blogs.scientificamerican.com/observations/have-we-solved-the-black-hole-information-paradox/)
@@ -264,6 +269,7 @@ Discovery With Andy
 [穿越黑洞到另一頭會發生什麼？一個實驗告訴你答案「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=NosNMH2tUZU)
 [黑洞的五种形态！颠覆认知的宇宙生死观 - YouTube](https://www.youtube.com/watch?v=MDFdCWbzKgs)
 [史上最神秘天体！宇宙大爆炸竟然是白洞？ - YouTube](https://www.youtube.com/watch?v=qEyh5uZ4NYk)
+[【天文新鮮事】首次觀測到黑洞暴跌區！重元素或許另有起源！| Linvo說宇宙 - YouTube](https://www.youtube.com/watch?v=uXX7xWqv8PQ)
 [Black hole Firewalls - with Sean Carroll and Jennifer Ouellette - YouTube](https://www.youtube.com/watch?v=_8bhtEgB8Mo)
 
 ### Hawking Radiation
@@ -274,17 +280,21 @@ The explanation in Quantum Theory is that when a pair particle/anti-particle app
 
 ## Dark Matter
 
+[Dark matter - Wikiwand](https://omni.wikiwand.com/en/Dark_matter)
+The mass-energy content of the universe is 5% ordinary matter, 26.8% dark matter, and 68.2% dark energy.
+Thus dark matter constitutes 84.5% of total mass, while dark energy plus dark matter constitute 95% of total mass-energy content.
+
 Astronomers observed the stars at the edges of galaxies are moving too fast, which is not explainable by the known matters.
 They found that most of the universe is made up of "dark matter". It is estimated that there are 5 times more dark matter than "normal" matter.
 Dark matter only weakly interact with known matter.
 Note the original discrepancy could also have been reconciled by an update of gravitational theory. Like Einstein's relativity updates Newton's gravity.
 
 Candidates:
-[Massive compact halo object - Wikiwand](https://www.wikiwand.com/en/Massive_compact_halo_object) MACHOs
-[Primordial black hole - Wikiwand](https://www.wikiwand.com/en/Primordial_black_hole) MACHOs?
-[Weakly interacting massive particles - Wikiwand](https://www.wikiwand.com/en/Weakly_interacting_massive_particles) WIMPs
-[Axion - Wikiwand](https://www.wikiwand.com/en/Axion) 軸子，超軸子
-[Sterile neutrino - Wikiwand](https://www.wikiwand.com/en/Sterile_neutrino)
+[Massive compact halo object - Wikiwand](https://omni.wikiwand.com/en/Massive_compact_halo_object) MACHOs
+[Primordial black hole - Wikiwand](https://omni.wikiwand.com/en/Primordial_black_hole) MACHOs?
+[Weakly interacting massive particles - Wikiwand](https://omni.wikiwand.com/en/Weakly_interacting_massive_particles) WIMPs
+[Axion - Wikiwand](https://omni.wikiwand.com/en/Axion) 軸子，超軸子
+[Sterile neutrino - Wikiwand](https://omni.wikiwand.com/en/Sterile_neutrino)
 
 [A heavyweight candidate for dark matter](https://phys.org/news/2019-08-heavyweight-candidate-dark.amp)
 [Is Dark Matter Real? - with Sabine Hossenfelder - YouTube](https://www.youtube.com/watch?v=U4sw3-__pGo) superfluid dark mater
@@ -318,3 +328,4 @@ Einstein's cosmological constant (his biggest blunder) that will make the univer
 
 [One Number Shows Something Is Fundamentally Wrong with Our Conception of the Universe | Live Science](https://www.livescience.com/amp/hubble-constant-discrepancy-explained.html)
 [Dark Energy May Be Incompatible With String Theory | Quanta Magazine](https://www.quantamagazine.org/dark-energy-may-be-incompatible-with-string-theory-20180809/)
+[Dark Energy Explained! - YouTube](https://www.youtube.com/playlist?list=PLsPUh22kYmNAv1_8MA9-USkY6f2lfr1hb) PBS Space Time

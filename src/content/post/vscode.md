@@ -2,7 +2,7 @@
 title: Visual Studio Code
 description: ""
 created: 2017-06-19
-updated: 2023-11-01
+updated: 2024-09-11
 tags:
   - app
   - package-manager
@@ -24,6 +24,7 @@ tags:
 
 [The History of Visual Studio Code | Microsoft Build 2020 | Channel 9](https://channel9.msdn.com/Events/Build/2020/BDL134)
 [Visual Studio Code Is So Popular But Why?](https://blog.eduonix.com/software-development/visual-studio-code-popular/)
+[The Untold Story of VS Code - YouTube](https://www.youtube.com/watch?v=vBhaFvwvRac)
 
 ## VSCodium
 
@@ -98,6 +99,7 @@ There's also a workspace (`.code-workspace`) file can contain a list of folders 
 ### Key Bindings
 
 [Visual Studio Code Key Bindings](https://code.visualstudio.com/docs/getstarted/keybindings)
+
 [when clause contexts | Visual Studio Code Extension API](https://code.visualstudio.com/api/references/when-clause-contexts)
 [Allow keybindings.json on .vscode folder. · Issue #4504 · microsoft/vscode](https://github.com/Microsoft/vscode/issues/4504) no workspace keybindings
 
@@ -195,6 +197,8 @@ Set <kbd>Crtl</kbd> + <kbd>F2</kbd> to toggle bookmark, <kbd>F2</kbd> to jump to
 [My First Visual Code Extension - DEV Community 👩‍💻👨‍💻](https://dev.to/mokkapps/my-first-visual-code-extension-4l5f)
 [Why I wrote 33 VSCode extensions and how I manage them](https://medium.com/@fabiospampinato/why-i-wrote-33-vscode-extensions-and-how-i-manage-them-cb61df05e154)
 [How we built a VS Code extension with Rust, WebAssembly, and TypeScript](https://www.osohq.com/post/building-vs-code-extension-with-rust-wasm-typescript)
+
+[How to Create a VSCode Extension - YouTube](https://www.youtube.com/watch?v=-0oL2GNV69Q)
 
 ### Language Extensions
 
@@ -340,6 +344,7 @@ module.exports = {
 [Peacock - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock&wt.mc_id=devto-blog-jopapa) change chrome color for easier window identification
 [Project Manager - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 [Sublime Text Keymap and Settings Importer - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
+[Vimium C - All by Keyboard](https://chromewebstore.google.com/detail/vimium-c-all-by-keyboard/hfjbmagddngcpeloejdejnfgbamkjaeg)
 [WordCounter - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=kirozen.wordcounter)
 
 [Introducing MongoDB for VS Code | MongoDB](https://www.mongodb.com/blog/post/introducing-mongodb-for-vs-code)

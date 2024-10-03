@@ -2,7 +2,7 @@
 title: Kernel
 description: ""
 created: 2016-03-27
-updated: 2023-11-08
+updated: 2024-09-27
 tags:
   - comp
   - linux
@@ -30,7 +30,7 @@ tags:
 
 ## Linux Kernel
 
-[Linux kernel - Wikiwand](https://www.wikiwand.com/en/Linux_kernel)
+[Linux kernel - Wikiwand](https://omni.wikiwand.com/en/Linux_kernel)
 [The Linux Kernel documentation — The Linux Kernel documentation](https://docs.kernel.org/index.html)
 [The Linux Documentation Project: Guides](http://www.tldp.org/guides.html)
 [The Linux Kernel](http://www.tldp.org/LDP/tlk/tlk.html)
@@ -58,7 +58,6 @@ tags:
 [What is a Linux 'oops'? | Network World](https://www.networkworld.com/article/3254778/linux/what-is-a-linux-oops.html)
 [Difference Between the macOS and Linux Kernels [Explained] | It's FOSS](https://itsfoss.com/mac-linux-difference/)
 
-[Yocto Project | Open Source embedded Linux build system, package metadata and SDK generator](https://www.yoctoproject.org/)
 [How to compile a Linux kernel in the 21st century | Opensource.com](https://opensource.com/article/19/8/linux-kernel-21st-century)
 [DIY: Build a Custom Minimal Linux Distribution from Source | Linux Journal](https://www.linuxjournal.com/content/diy-build-custom-minimal-linux-distribution-source)
 [Build a Custom Minimal Linux Distribution from Source, Part II | Linux Journal](https://www.linuxjournal.com/content/build-custom-minimal-linux-distribution-source-part-ii)
@@ -77,8 +76,9 @@ tags:
 [Memory part 3: Virtual Memory [LWN.net]](http://lwn.net/Articles/253361/)
 [What Is Swappiness on Linux? (and How to Change It)](https://www.howtogeek.com/449691/what-is-swapiness-on-linux-and-how-to-change-it/amp/)
 
+[But, what is Virtual Memory? - YouTube](https://www.youtube.com/watch?v=A9WLYbE0p-I)
 [What's Virtual Memory? - Computerphile - YouTube](https://www.youtube.com/watch?v=5lFnKYCZT5o) swapping
-[_(char_)0 = 0; - What Does the C++ Programmer Intend With This Code? - JF Bastien - C++ on Sea 2023 - YouTube](https://www.youtube.com/watch?v=dFIqNZ8VbRY) TLB, virt2phys, page table
+[_(char_)0 = 0; - What Does the C++ Programmer Intend With This Code? - JF Bastien - C++ on Sea 2023 - YouTube](https://www.youtube.com/watch?v=dFIqNZ8VbRY) CPU's Translation Lookaside Buffer (TLB), virt2phys, page table
 
 [How does KERNEL memory allocation work? //Source Dive// 004 - YouTube](https://www.youtube.com/watch?v=NC_qkXznvkg)
 [The mechanics of VIRTUAL MEMORY //Source Dive// 005 - YouTube](https://www.youtube.com/watch?v=iTic6EV4DP8)
@@ -111,6 +111,8 @@ CFS: completely fair scheduler
 
 [how greedy are your processes? | Linux niceness - YouTube](https://www.youtube.com/watch?v=GsF8R6DBxSg) niceness, -20 to 19, higher nice value means lower priority
 
+[硬科技：x86處理器的電源管理簡史 省電篇 #ACPI (167786) - Cool3c](https://www.cool3c.com/article/167786)
+
 ### Compression
 
 [Ubuntu Moving Ahead With Compressing Their Kernel Image Using LZ4 - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=LZ4-Initramfs-Ubuntu-Go-Ahead)
@@ -130,10 +132,13 @@ As used by mkinitramfs:
 [Writing a Linux Kernel Module — Part 1: Introduction | derekmolloy.ie](http://derekmolloy.ie/writing-a-linux-kernel-module-part-1-introduction/)
 [Writing a Linux Kernel Module — Part 2: A Character Device | derekmolloy.ie](http://derekmolloy.ie/writing-a-linux-kernel-module-part-2-a-character-device/)
 [Writing a Linux Loadable Kernel Module (LKM) - Interfacing to GPIOs | derekmolloy.ie](http://derekmolloy.ie/kernel-gpio-programming-buttons-and-leds/)
-[Writing a Linux Loadable Kernel Module (LKM) - Interfacing to GPIOs | derekmolloy.ie](http://derekmolloy.ie/kernel-gpio-programming-buttons-and-leds/)
 [exploringBB/extras/kernel at master · derekmolloy/exploringBB](https://github.com/derekmolloy/exploringBB/tree/master/extras/kernel/)
 
 [Understanding the Structure of a Linux Kernel Device Driver - Sergio Prado, Toradex - YouTube](https://www.youtube.com/watch?v=pIUTaMKq0Xc)
+
+[What are those /dev/ Files? | Linux.org](https://www.linux.org/threads/what-are-those-dev-files.9142/)
+
+[The disaster of MIPI cameras on Linux » Linux Magazine](https://www.linux-magazine.com/Issues/2023/270/MIPI-Cameras-and-Linux)
 
 ### Kernel modules
 
@@ -144,9 +149,17 @@ As used by mkinitramfs:
 systemctl status systemd-modules-load.service
 ```
 
+### Device mapper
+
+> mapping block devices to other higher-level block devices
+
+[Device mapper - Wikiwand](https://omni.wikiwand.com/en/Device_mapper)
+[Kernel index [LWN.net]](https://lwn.net/Kernel/Index/#Device_mapper)
+[Right To Your Own Devices LG #114](https://linuxgazette.net/114/kapil.html)
+
 ### DKMS
 
-[Dynamic Kernel Module Support - Wikiwand](https://www.wikiwand.com/en/Dynamic_Kernel_Module_Support)
+[Dynamic Kernel Module Support - Wikiwand](https://omni.wikiwand.com/en/Dynamic_Kernel_Module_Support)
 [Dynamic Kernel Module Support - ArchWiki](https://wiki.archlinux.org/title/Dynamic_Kernel_Module_Support)
 [Kernel Korner - Exploring Dynamic Kernel Module Support (DKMS) | Linux Journal](https://www.linuxjournal.com/article/6896)
 
@@ -155,7 +168,8 @@ Recompiles drivers against kernel header on host on every driver update OR kerne
 ### Device Tree
 
 [Index of /doc/Documentation/devicetree/](https://www.kernel.org/doc/Documentation/devicetree/)
-[Device tree - Wikiwand](https://www.wikiwand.com/en/Device_tree)
+[Open Firmware and Devicetree — The Linux Kernel documentation](https://docs.kernel.org/devicetree/index.html)
+[Device tree - Wikiwand](https://omni.wikiwand.com/en/Device_tree)
 
 [Device Tree Tutorial (ARM) – Linux Kernel For Newbies](https://saurabhsengarblog.wordpress.com/2015/11/28/device-tree-tutorial-arm/)
 [Device Tree Reference - eLinux.org](https://elinux.org/Device_Tree_Reference)
@@ -176,15 +190,10 @@ Recompiles drivers against kernel header on host on every driver update OR kerne
 
 [Linux Audio Explained (ALSA vs PulseAudio vs JACK vs Pipewire Explained) - YouTube](https://www.youtube.com/watch?v=HxEXMHcwtlI)
 
-### sysctl
-
-[sysctl - read/write system parameters - System Calls](https://www.mankier.com/2/sysctl)
-[Sysctl Explorer](https://sysctl-explorer.net/)
-
 ### GPIO/sysfs
 
 One way of accessing GPIO is to modify the device tree and write a device driver for it.
-We could also expose the GPIO via Sysfs interface ("pinctrl" driver) (`/sys/class/gpio`) to allow access on user space.
+We could also expose the GPIO via Sysfs interface (`pinctrl` driver) (`/sys/class/gpio`) to allow access on user space.
 
 [GPIO - eLinux.org](https://elinux.org/GPIO)
 [Access GPIO from Linux user space](https://falsinsoft.blogspot.com/2012/11/access-gpio-from-linux-user-space.html)
@@ -193,6 +202,8 @@ We could also expose the GPIO via Sysfs interface ("pinctrl" driver) (`/sys/clas
 [GPIO 接口解析-wangbaolin719-ChinaUnix 博客](http://blog.chinaunix.net/uid-27717694-id-3701921.html)
 [Controlling GPIO from Linux User Space](https://www.emcraft.com/stm32f429discovery/controlling-gpio-from-linux-user-space)
 [RK3399 用户空间 IO 控制 - zhuyong006 的博客 - CSDN 博客](https://blog.csdn.net/zhuyong006/article/details/80907718?utm_source=blogxgwz0)
+[New GPIO User Space Subsystem since kernel 4.8 – SZ Lin with Cybersecurity & Embedded Linux](https://szlin.me/2018/01/31/new-gpio-user-space-subsystem-since-kernel-4-8/)
+[GPIO Programming: Exploring the libgpiod Library | ICS](https://www.ics.com/blog/gpio-programming-exploring-libgpiod-library)
 
 [Index of /doc/Documentation/gpio/](https://www.kernel.org/doc/Documentation/gpio/)
 [https://www.kernel.org/doc/Documentation/gpio/sysfs.txt](https://www.kernel.org/doc/Documentation/gpio/sysfs.txt) Sysfs GPIO interface is deprecated
@@ -278,17 +289,6 @@ sudo lsof -n <file>
 sudo lsof +f -- /dev/mapper/cachedev1
 ```
 
-### udev
-
-[udev - ArchWiki](https://wiki.archlinux.org/title/Udev)
-[Writing udev rules](http://www.reactivated.net/writing_udev_rules.html)
-[Scripting with udev - jasonwryan.com](http://jasonwryan.com/blog/2014/01/20/udev/)
-
-### procfs
-
-[/proc Talk » Linux Magazine](http://www.linuxpromagazine.com/Issues/2018/217/Exploring-proc/)
-[Troubleshoot using the proc filesystem on Linux | Opensource.com](https://opensource.com/article/20/4/proc-filesystem)
-
 ### RPi
 
 [Department of Computer Science and Technology – Raspberry Pi: Baking Pi – Operating Systems Development](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/)
@@ -297,11 +297,73 @@ sudo lsof +f -- /dev/mapper/cachedev1
 
 ### Embedded System
 
+[Yocto Project | Open Source embedded Linux build system, package metadata and SDK generator](https://www.yoctoproject.org/)
+[Bootlin – Embedded Linux and kernel engineering](https://bootlin.com/)
+
 [Mastering Embedded Linux • &> /dev/null](https://www.thirtythreeforty.net/series/mastering-embedded-linux/)
+
+### Real-time
+
+[RTLinux - Wikiwand](https://omni.wikiwand.com/en/RTLinux)
+[preempt-rt-slides.pdf](https://bootlin.com/doc/training/preempt-rt/preempt-rt-slides.pdf)
+
+[Real-time Ubuntu | Ubuntu](https://ubuntu.com/real-time)
+[What is real-time Linux? Part I | Ubuntu](https://ubuntu.com/blog/what-is-real-time-linux-i)
+[What is real-time Linux? Part II | Ubuntu](https://ubuntu.com/blog/what-is-real-time-linux-ii)
+[Real-time Linux: a comprehensive guide | Ubuntu](https://ubuntu.com/blog/real-time-linux-whitepaper)
+[Technical deep-dive into a real-time kernel | Ubuntu](https://ubuntu.com/blog/real-time-kernel-technical)
+
+[What Is a Real-Time Operating System, and Who Needs One?](https://www.itprotoday.com/cloud-computing-and-edge-computing/what-real-time-operating-system-and-who-needs-one)
+[【原创】为什么Linux不是实时操作系统 - 沐多 - 博客园](https://www.cnblogs.com/wsg1100/p/17985934)
+
+## Pseudo file Systems
+
+[sysfs, procfs, sysctl, debugfs and other similar kernel interfaces | John's Blog](https://johnsofteng.wordpress.com/2013/11/20/sysfs-procfs-sysctl-debugfs-and-other-similar-kernel-interfaces/)
+[Sysfs and Configfs | Linux.org](https://www.linux.org/threads/sysfs-and-configfs.9353/)
+[Virtual filesystems in Linux: Why we need them and how they work | Opensource.com](https://opensource.com/article/19/3/virtual-filesystems-linux)
+
+[Configfs - Wikiwand](https://omni.wikiwand.com/en/Configfs) creating kernel objects at runtime
+
+### Sysfs/Configfs/sysctl
+
+[sysfs - Wikiwand](https://omni.wikiwand.com/en/sysfs)
+
+[sysfs - _The_ filesystem for exporting kernel objects — The Linux Kernel documentation](https://docs.kernel.org/filesystems/sysfs.html)
+[sysfs(5) - Linux manual page](https://man7.org/linux/man-pages/man5/sysfs.5.html)
+
+[sysctl - read/write system parameters - System Calls](https://www.mankier.com/2/sysctl)
+[Sysctl Explorer](https://sysctl-explorer.net/)
+
+### procfs
+
+[procfs - Wikiwand](https://omni.wikiwand.com/en/Procfs)
+[procfs - ArchWiki](https://wiki.archlinux.org/title/Procfs)
+[The /proc Filesystem — The Linux Kernel documentation](https://docs.kernel.org/filesystems/proc.html)
+[proc(5) - Linux manual page](https://man7.org/linux/man-pages/man5/procfs.5.html)
+
+[/proc Talk » Linux Magazine](http://www.linuxpromagazine.com/Issues/2018/217/Exploring-proc/)
+[Troubleshoot using the proc filesystem on Linux | Opensource.com](https://opensource.com/article/20/4/proc-filesystem)
+[Procfs and the Proc Directory | Linux.org](http://www.linux.org/threads/procfs-and-the-proc-directory.4928/)
+
+### `/dev`
+
+[Device file - Wikiwand](https://omni.wikiwand.com/en/Device_file)
+
+[devfsd - Wikiwand](https://omni.wikiwand.com/en/Devfsd) devfs has been succeeded by udev and devtmpfs since Linux 2.5
+
+[udev - Wikiwand](https://omni.wikiwand.com/en/Udev)
+[udev - ArchWiki](https://wiki.archlinux.org/title/Udev)
+
+[driver-core: devtmpfs - driver core maintained /dev tmpfs [LWN.net]](https://lwn.net/Articles/330985/)
+[【linux kernel】devtmpfs文件系统分析-CSDN博客](https://blog.csdn.net/iriczhao/article/details/123966816)
+
+User space permissions and hooks
+[Writing udev rules](http://www.reactivated.net/writing_udev_rules.html)
+[Scripting with udev - jasonwryan.com](http://jasonwryan.com/blog/2014/01/20/udev/)
 
 ## Unikernel
 
-[Unikernel - Wikiwand](https://www.wikiwand.com/en/Unikernel)
+[Unikernel - Wikiwand](https://omni.wikiwand.com/en/Unikernel)
 
 [oscarlab/graphene: Graphene / Graphene-SGX Library OS - a library OS for Linux multi-process applications, with Intel SGX support](https://github.com/oscarlab/graphene)
 [Mini-OS-DevNotes - Xen](https://wiki.xenproject.org/wiki/Mini-OS-DevNotes)
@@ -366,5 +428,5 @@ POSIX compatible unikernel
 
 ## Microkernel
 
-[Microkernel - Wikiwand](https://www.wikiwand.com/en/Microkernel)
+[Microkernel - Wikiwand](https://omni.wikiwand.com/en/Microkernel)
 [Is Linux kernel design outdated? : linux](https://www.reddit.com/r/linux/comments/69umqo/is_linux_kernel_design_outdated/)

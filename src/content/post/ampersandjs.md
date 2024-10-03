@@ -2,7 +2,7 @@
 title: Ampersand.js
 description: ""
 created: 2015-08-12
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - ampersandjs
   - backbone

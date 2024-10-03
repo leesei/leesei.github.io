@@ -2,13 +2,13 @@
 title: Meccano
 description: ""
 created: 2016-06-12
-updated: 2023-09-29
+updated: 2024-08-14
 tags:
   - lego
   - toys
 ---
 
-[Meccano - Wikiwand](https://www.wikiwand.com/en/Meccano)
+[Meccano - Wikiwand](https://omni.wikiwand.com/en/Meccano)
 
 [Welcome to Meccano ® Your inventions need Inventing! Your dreams needs Life!](http://www.meccano.com/)
 

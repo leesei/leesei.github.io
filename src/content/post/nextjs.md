@@ -2,7 +2,7 @@
 title: Next.js
 description: ""
 created: 2021-01-19
-updated: 2023-11-17
+updated: 2024-06-16
 tags:
   - reactjs
   - static-site
@@ -65,6 +65,7 @@ npx build && npx export -o build/ # static HTML (SSG) without need of app server
 [How NextJS REALLY Works - YouTube](https://www.youtube.com/watch?v=d2yNsZd5PMs)
 [5 Reasons I Use Next.js Over Plain React - YouTube](https://www.youtube.com/watch?v=6jWWKczzGM0) 2021-01
 [Next.js Crash Course - YouTube](https://www.youtube.com/watch?v=mTz0GXj8NN0) 2021-01
+[Why I don't use React-Query and tRPC anymore - YouTube](https://www.youtube.com/watch?v=51pf_nCJpwg) Server Components and Server Action
 
 [Best practices to increase the speed for Next.js apps - Stack Overflow Blog](https://stackoverflow.blog/2022/12/20/best-practices-to-increase-the-speed-for-next-js-apps/)
 
@@ -150,6 +151,9 @@ Data fetching is by default on server side. But you can use cache (`next` field)
 [How to use Next.js API Routes? | refine](https://refine.dev/blog/next-js-api-routes/)
 [Next.js API Routes—What You Need To Know](https://www.telerik.com/blogs/nextjs-api-routes-what-need-know)
 
+[jellydn/next-swagger-doc: This package reads your JSDoc-annotated source code on NextJS API route and generates an OpenAPI (Swagger) specification.](https://github.com/jellydn/next-swagger-doc)
+[Create Swagger document on NEXT.JS | by LAI TOCA | Medium](https://tocalai.medium.com/create-swagger-document-on-next-js-11b2c9cf103c)
+
 ## App Router (Next 13)
 
 > opt-in new folder structure in `/app`
@@ -161,6 +165,7 @@ Data fetching is by default on server side. But you can use cache (`next` field)
 [Next.js App Router: Routing, Data Fetching, Caching - YouTube](https://www.youtube.com/watch?v=gSSsZReIFRk)
 [Are React Server Components Really Slower? - YouTube](https://www.youtube.com/watch?v=3Q2q2gs0nAI)
 [Next.js App Router REVIEW (Six Months In Prod) - YouTube](https://www.youtube.com/watch?v=zsa9Ey9INEg)
+[10 common mistakes with the Next.js App Router - YouTube](https://www.youtube.com/watch?v=RBM03RihZVs)
 
 [AddyOsmani.com - React Server Components, Next.js App Router and examples](https://addyosmani.com/blog/react-server-components-app-router/)
 [Working with the app directory in Next.js 13 - LogRocket Blog](https://blog.logrocket.com/next-js-13-app-directory/)
@@ -189,7 +194,7 @@ Data fetching is by default on server side. But you can use cache (`next` field)
 [I Fixed Next.js Server Actions - YouTube](https://www.youtube.com/watch?v=9WvJDor5uvo)
 
 [React + Servers = Confusion - YouTube](https://www.youtube.com/watch?v=cY2SpxhEdyE) server actions behaves differently when included in a Server Component vs exported as a function called on Client
-[GitHub - t3dotgg/server-actions-trpc-examples](https://github.com/t3dotgg/server-actions-trpc-examples)
+[t3dotgg/server-actions-trpc-examples](https://github.com/t3dotgg/server-actions-trpc-examples)
 
 ## Proxy
 
@@ -200,7 +205,7 @@ Equivalent to `http-proxy-middleware`'s `src/setupProxy.js`
 
 ## Auth
 
-[[web-authentication#Auth.js]]
+[[web-authentication#Node.js]]
 
 [Routing: Authenticating | Next.js](https://nextjs.org/docs/pages/building-your-application/routing/authenticating)
 
@@ -254,6 +259,9 @@ This new and improved image component requires less client-side JavaScript and s
 
 [Making Websites With Next.js And Strapi - Youtube](https://www.youtube.com/playlist?list=PLUBR53Dw-Ef_oTLzPB3G5CdLWnGOSsec3)
 
+[Radix Themes: Awesome New Components For NextJS - YouTube](https://www.youtube.com/watch?v=SKm2XGxbLLM)
+[jherr/radix-pokemon: Pokemon Deck Builder using Radix Themes, NextJS, Sqlite and AuthKit](https://github.com/jherr/radix-pokemon)
+
 ### T3 App
 
 [Create T3 App](https://create.t3.gg/) Next.js + Prisma + trpc
@@ -291,6 +299,11 @@ This new and improved image component requires less client-side JavaScript and s
 [Intro to Blitz.js: A full-stack framework for Next.js | InfoWorld](https://www.infoworld.com/article/3673088/intro-to-blitzjs-a-full-stack-framework-for-nextjs.html)
 [Getting Started with Blitz.js | egghead.io](https://egghead.io/courses/getting-started-with-blitz-js-0585)
 [Intro to Blitz.js: A full-stack framework for Next.js | InfoWorld](https://www.infoworld.com/article/3673088/intro-to-blitzjs-a-full-stack-framework-for-nextjs.html)
+
+### Kirimase
+
+[Build Your MVP 10x Faster with this Next.js Full Stack Tool: Kirimase - YouTube](https://www.youtube.com/watch?v=33jlErS3Wxg)
+[Next.js + Kirimase - Adding A New Feature (Code Along) - YouTube](https://www.youtube.com/watch?v=7vSxfElwnKU)
 
 ## Deployment
 

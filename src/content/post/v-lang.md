@@ -2,7 +2,7 @@
 title: The V Programming Language
 description: ""
 created: 2023-03-25
-updated: 2023-09-29
+updated: 2023-12-10
 tags:
   - comp/lang
   - package-manager
@@ -27,6 +27,8 @@ tags:
 [Vlang: The language of 2023?? | Prime React - YouTube](https://www.youtube.com/watch?v=j47Hk5qE9As)
 
 - the promises are too good to be true
+
+[The Vlang Drama - YouTube](https://www.youtube.com/watch?v=cUv13In9RP4) also roasted Rust
 
 ## Libraries
 

@@ -2,7 +2,7 @@
 title: Plamo
 description: ""
 created: 2017-04-25
-updated: 2023-10-15
+updated: 2024-08-14
 tags:
   - toys
 ---
@@ -480,6 +480,7 @@ HG GTO Guncannon First Type ¥86
 [【好男人深入淺出】來認識模型漆吧！模型漆性介紹-模型教學 - YouTube](https://www.youtube.com/watch?v=rG-LKNO6obA) solvent compatibility
 
 [【模型小技#4】笔涂入门，看这一篇就够了！（纯水性漆系列） - YouTube](https://www.youtube.com/watch?v=ICBQ0KmdmK0)
+[【NYC從零開始玩模型#1.2】水油筆塗篇 [初階模型技巧教學] AV Game Golor水性油全筆塗//真實筆觸技法//模型技巧一片通﹗Gunpla Skills Tutorial #1.2 - YouTube](https://www.youtube.com/watch?v=z4FqGPZpC-o)
 
 [筆涂技巧 - YouTube](https://www.youtube.com/playlist?list=PLEFZMH5uuTTCCk-46jvk8ownO-jShTupm) 一月小雪
 [【深度笔涂教程】真·手残也能学会的水性漆笔涂上色技巧~ - YouTube](https://www.youtube.com/watch?v=2Wr7Tyv63GQ)
@@ -636,7 +637,7 @@ Note oil base methods will dilute your paints so apply lacquer coating before pa
 
 ### Washing
 
-[Wash (visual arts) - Wikiwand](<https://www.wikiwand.com/en/Wash_(visual_arts)>)
+[Wash (visual arts) - Wikiwand](<https://omni.wikiwand.com/en/Wash_(visual_arts)>)
 
 Gunpla painting usually uses oil base and water base paint as base and washing. Miniature painting usually uses water based paint and washer.
 

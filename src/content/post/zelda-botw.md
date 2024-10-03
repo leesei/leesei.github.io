@@ -2,7 +2,7 @@
 title: "Zelda: Breath of the Wild"
 description: ""
 created: 2019-01-08
-updated: 2023-09-29
+updated: 2024-09-01
 tags:
   - botw
   - games
@@ -45,9 +45,9 @@ Maps
 
 [The Legend of Zelda: Breath of The Wild Tips & Tricks - YouTube](https://www.youtube.com/playlist?list=PLkR3RWLcKJURqXsabQ3em2-ApQjOBKy_z) AbdallahSmash026
 [The Legend of Zelda: Breath Of The Wild Tip & Tricks - YouTube](https://www.youtube.com/playlist?list=PLwGyU0mZTYHWitiRsKE-PqxsRAceFfWXp) Austin John Plays
-[Gladley Gaming - YouTube](https://www.youtube.com/channel/UCHlvwzjeiR8RKaF7L0zoqVA/videos)
+[Gladley Gaming - YouTube](https://www.youtube.com/@GladleyGaming)
 
-[Kleric - YouTube](https://www.youtube.com/channel/UC4BGutC_CNefeMLs24-XZFA/videos) Glitches
+[Kleric - YouTube](https://www.youtube.com/@KlericYT) Glitches
 
 [Breath of the Wild Theories - YouTube](https://www.youtube.com/playlist?list=PLZBqIJ9ldH72q7N_hRmHeax-XRKgohpbA) NintendoBlackCrisis
 [Stats of the Wild!! - YouTube](https://www.youtube.com/playlist?list=PLAjULYyNSE9aa7aQW31IupW685MO-ZBHc)

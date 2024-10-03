@@ -2,7 +2,7 @@
 title: Cinnamon setup
 description: ""
 created: 2015-05-04
-updated: 2023-09-29
+updated: 2023-12-01
 tags:
   - desktop
   - linux

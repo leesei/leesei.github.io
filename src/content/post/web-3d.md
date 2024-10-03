@@ -2,7 +2,7 @@
 title: 3D Drawing on the Web
 description: ""
 created: 2016-04-08
-updated: 2023-10-06
+updated: 2024-08-14
 tags:
   - web
   - web-gl
@@ -21,7 +21,7 @@ tags:
 
 ## WebGL
 
-[WebGL - Wikiwand](https://www.wikiwand.com/en/WebGL)
+[WebGL - Wikiwand](https://omni.wikiwand.com/en/WebGL)
 
 [WebGL Stats](http://webglstats.com/)
 [get.webgl.org](http://get.webgl.org/) test if your browser supports WebGL
@@ -59,8 +59,12 @@ Replacement of WebGL and Three.js
 [WebGPU: Unlocking modern GPU access in the browser - Chrome Developers](https://developer.chrome.com/blog/webgpu-io2023/)
 [Chrome ships WebGPU - Chrome Developers](https://developer.chrome.com/blog/webgpu-release/)
 
+Visionary 3D
 [WebGPU :: Rendering the future in Real-Time - YouTube](https://www.youtube.com/watch?v=YinfynTz77s)
+[WebGPU :: Javascript at the speed of Light - YouTube](https://www.youtube.com/watch?v=oAwlk0j5RUM)
+
 [WebGPU Tutorial - Advanced Graphics on the Web Course - YouTube](https://www.youtube.com/watch?v=KTFFdZSDiTU) freeCodeCamp, 2:06:29
+[What is WebGPU? - YouTube](https://www.youtube.com/watch?v=oIur9NATg-I)
 
 ## Three.js
 
@@ -143,6 +147,7 @@ Have problem working with shaders (for lighting)
 [React Three Fiber Documentation](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
 [pmndrs/react-three-fiber: 🇨🇭 A React renderer for Three.js](https://github.com/pmndrs/react-three-fiber)
 [pmndrs/drei: 🥉 useful helpers for react-three-fiber](https://github.com/pmndrs/drei)
+[3D GAMES in JAVASCRIPT??! - YouTube](https://www.youtube.com/watch?v=Tfud2Mo_9sY)
 
 [pmndrs/react-three-next: React Three Fiber, Nextjs, Tailwind and Styled-components starter](https://github.com/pmndrs/react-three-next)
 
@@ -153,6 +158,9 @@ Have problem working with shaders (for lighting)
 [pmndrs/use-p2: 👋💣 2d physics hooks for @react-three/fiber](https://github.com/pmndrs/use-p2)
 
 [pmndrs/react-three-flex: 💪📦 Flexbox for react-three-fiber](https://github.com/pmndrs/react-three-flex)
+
+[Lunakepio/Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js)
+[MarioKart.js Blew My Mind (Open Source + React + ThreeJS) - YouTube](https://www.youtube.com/watch?v=mvqPWay9ABI)
 
 [Implementing 3D graphics in React](https://blog.openreplay.com/implementing-3d-graphics-in-react/)
 [Build a 3D World in React with ThreeJS and React Three Fiber - YouTube](https://www.youtube.com/watch?v=9ZEjSxDRIik)

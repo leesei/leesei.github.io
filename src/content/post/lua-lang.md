@@ -1,14 +1,14 @@
 ---
 title: Lua
-description: ""
+description: Embeddable scripting language
 created: 2016-03-22
-updated: 2023-09-29
+updated: 2024-08-20
 tags:
   - comp/lang
   - lua
 ---
 
-[Lua (programming language) - Wikiwand](<https://www.wikiwand.com/en/Lua_(programming_language)>)
+[Lua (programming language) - Wikiwand](<https://omni.wikiwand.com/en/Lua_(programming_language)>)
 
 [The Programming Language Lua](http://www.lua.org/)
 [Lua: version history](http://www.lua.org/versions.html)
@@ -17,7 +17,7 @@ tags:
 [Lua 5.1 Reference Manual](http://www.lua.org/manual/5.1/manual.html)
 [Lua 5.4 Reference Manual](http://www.lua.org/manual/5.4/manual.html)
 
-[Lua (programming language) - Wikiwand](<https://www.wikiwand.com/en/Lua_(programming_language)>)
+[Lua (programming language) - Wikiwand](<https://omni.wikiwand.com/en/Lua_(programming_language)>)
 [lua-users wiki: Home Page](http://lua-users.org/wiki/)
 [Lua - Wikiversity](https://en.wikiversity.org/wiki/Lua)
 [Lua Unofficial FAQ (uFAQ)](http://www.luafaq.org/)
@@ -128,6 +128,7 @@ LuaJIT is faster then v8. However it conforms only to [Lua 5.1](http://www.lua.o
 
 [Luiz Henrique de Figueiredo: Libraries and tools for Lua](http://webserver2.tecgraf.puc-rio.br/~lhf/ftp/lua/) !important
 example of distributed Lua tools, srlua
+[JohnnyMorganz/StyLua: An opinionated Lua code formatter](https://github.com/JohnnyMorganz/StyLua)
 [Lua Toolbox](https://lua-toolbox.com/)
 [leafo/moonscrape: web scraper](https://github.com/leafo/moonscrape)
 

@@ -1,7 +1,8 @@
 ---
 title: Web App Frameworks
-description: "On frameworks running on Node.js ecosystem"
+description: On frameworks running on Node.js ecosystem
 created: 2023-11-16
+updated: 2024-09-04
 tags:
   - backend
   - frontend
@@ -35,6 +36,20 @@ LoopBack is based on Express
 
 [Using three of the top NodeJS Web REST API Frameworks](https://medium.com/swlh/using-three-of-the-top-nodejs-web-rest-api-frameworks-d1d6dac021ee)
 
+## Nitro
+
+> Fullstack Framework to build meta-frameworks, based on Vite
+> powers Nuxt, Analog, Vinxi
+
+[Home | ⚗️ Nitro](https://nitro.unjs.io/)
+
+## Vinxi
+
+> Fullstack Framework to build meta-frameworks, based on Nitro and Vite
+
+[Vinxi](https://vinxi.vercel.app/)
+[nksaraf/vinxi: The Full Stack JavaScript SDK](https://github.com/nksaraf/vinxi)
+
 ## Bling
 
 > endpoint generator for frontend projects
@@ -64,6 +79,7 @@ All JS code are serialized as string and lazy loaded
 [Qwik compiler playground](https://qwik-playground.builder.io/)
 
 [Qwik Reaches v1.0](https://www.builder.io/blog/qwik-v1)
+[Towards Qwik 2.0: Lighter, Faster, Better](https://www.builder.io/blog/qwik-2-coming-soon)
 
 [Qwik… the world's first O(1) JavaScript framework? - YouTube](https://www.youtube.com/watch?v=x2eF3YLiNhY)
 [Build Resumable Apps with Qwik - YouTube](https://www.youtube.com/watch?v=_PDpoJUacuc)
@@ -124,16 +140,6 @@ React + Node.js + Prisma
 [How Hasura works (in doodles) – Hasura](https://blog.hasura.io/how-hasura-works-in-doodles-ba03d6ce6044)
 
 [Tutorial: Leveraging Hasura, GraphQL and Apollo to build and deploy a fullstack react app](https://blog.hasura.io/tutorial-leveraging-hasura-graphql-and-apollo-to-build-and-deploy-a-fullstack-react-app-bafa32724010)
-
-## Appwrite
-
-> Server Side Rendering
-
-[Appwrite - Open-Source End-to-End Backend Server](https://appwrite.io/)
-
-[Authentication - Exploring Appwrite.io with React Series - DEV Community](https://dev.to/daryllukas/authentication-exploring-appwrite-io-with-react-series-1iec)
-[Building a message board with Next.js and AppWrite - DEV Community](https://dev.to/livecycle/building-a-message-board-with-nextjs-and-appwrite-3910)
-[Building a customer support app with live chat and notifications using Next.js, Novu and Appwrite - DEV Community](https://dev.to/arshadayvid/building-a-customer-support-app-with-live-chat-and-notifications-using-nextjs-novu-and-appwrite-2fn8) `account.createEmailSession()`, `account.get()`
 
 ## WunderGraph
 

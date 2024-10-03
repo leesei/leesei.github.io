@@ -2,7 +2,7 @@
 title: Desktop Apps
 description: ""
 created: 2015-05-20
-updated: 2023-11-22
+updated: 2024-10-02
 tags:
   - app
   - desktop
@@ -51,7 +51,7 @@ For the softwares I install on my system, see [[arch-packages]].
 [Octave for Signal Processing: First Impressions from an Engineering Professor - YouTube](https://www.youtube.com/watch?v=H2AhZycbdOg)
 
 [gnuplot homepage](http://www.gnuplot.info/)
-[The Julia Language](http://julialang.org/), see [[julia]]
+[The Julia Language](http://julialang.org/), see [[julia-lang]]
 [Genius Mathematics Tool and the GEL Language](http://www.jirka.org/genius.html)
 [Matplotlib: Python plotting](https://matplotlib.org/)
 [PyPlot download | SourceForge.net](http://sourceforge.net/projects/pyplot/)
@@ -157,71 +157,63 @@ path for dict files, `/usr/share/stardict/dic`?
 [StarDict Dictionaries -- 星际译王词库](http://download.huzheng.org/)
 [胡正的字典文件列表(http://download.huzheng.org/)](https://gist.github.com/leetking/7634b70738067eb5040ce83fbab96d30)
 
-## Conferencing/Remote
+## Conferencing
 
 [5 open source alternatives to Skype | Opensource.com](https://opensource.com/alternatives/skype)
-[Best remote desktop software: From casual use to business deployment | PCWorld](https://www.pcworld.com/article/703570/best-remote-desktop-software-from-casual-use-to-business-deployment.html)
+[10 Best Team Viewer Alternatives for Linux in 2019](https://www.fossmint.com/teamviewer-alternatives-for-linux/)
 
 [Video Conferencing, Web Conferencing, Webinars, Screen Sharing - Zoom](https://zoom.us/)
 
-[TeamViewer – 远程支持、远程访问、服务桌面、在线协作和会议](https://www.teamviewer.cn/cn/)
+[TeamViewer – Remote Support, Remote Access, Service Desk, Online Collaboration and Meetings](https://www.teamviewer.com/en/)
 
-[Chrome Remote Desktop](https://remotedesktop.google.com/)
-
-[The Fast Remote Desktop Application – AnyDesk](https://anydesk.com/en)
-[免費在家工作神器 Anydesk 電腦遠端操作 取代 TeamViewer 遠離封鎖 - YouTube](https://www.youtube.com/watch?v=L4TrssM3KpE)
-
-[向日葵远程控制软件*远程控制电脑手机*远程桌面连接\_远程办公|游戏|运维-贝锐向日葵官网](https://sunlogin.oray.com/)
-
-[Apache Guacamole™](https://guacamole.apache.org/) clientless remote desktop gateway
-[access EVERYTHING from your web browser!! (Linux and Windows Desktop, SSH) // Guacamole Install - YouTube](https://www.youtube.com/watch?v=gsvS2M5knOw)
-[Guacamole Remote Desktop - Open Source, Self Hosted remote access to your machines in the browser! - YouTube](https://www.youtube.com/watch?v=DGw6P5Lkj-U)
-
-[RPort is free remote access & remote management](https://rport.io/)
-[RPort - an open source, self hosted Remote Machine Management System running on Linux! - YouTube](https://www.youtube.com/watch?v=Xc_5qE7ZyYA)
-
-### RustDesk
-
-[RustDesk | The best open source remote desktop software.](https://rustdesk.com/)
-[rustdesk/rustdesk: Yet another remote desktop software](https://github.com/rustdesk/rustdesk)
-
-[RustDesk 源码阅读 - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/1897847)
-
-[dinger1986/rustdeskinstall: Easy install Script for Rustdesk](https://github.com/dinger1986/rustdeskinstall)
-[Self-host :: Documentation for RustDesk](https://rustdesk.com/docs/en/self-host/)
-[rustdesk-server/docker-compose.yml at master · rustdesk/rustdesk-server · GitHub](https://github.com/rustdesk/rustdesk-server/blob/master/docker-compose.yml) add `-k _` to command
-
-```sh
-ufw allow 21115:21119/tcp comment "rustdesk"
-ufw allow 21116/udp comment "rustdesk"
-ufw reload
-
-docker compose up -d
-
-# is this the same as `./data/id_ed25519`?
-ssh-keygen -t ed25519 -C rustdesk -f ./id_ed25519
-cat ./data/id_ed25519.pub
-```
-
-### Software KVM
+## Software KVM
 
 [Synergy - Share one mouse & keyboard across computers](https://symless.com/synergy)
 
-[debauchee/barrier: Open-source KVM software](https://github.com/debauchee/barrier)
+[debauchee/barrier: Open-source KVM software](https://github.com/debauchee/barrier) fork of Synergy 1.9
 [【KVM 教學】Barrier 讓你的鍵盤、滑鼠跨裝置和樹莓派共用！ - AtticEdu](https://atticedu.com/index.php/blog/raspberry-pi-%E6%A8%B9%E8%8E%93%E6%B4%BE/60-%E3%80%90kvm%E6%95%99%E5%AD%B8%E3%80%91barrier%E8%AE%93%E4%BD%A0%E7%9A%84%E9%8D%B5%E7%9B%A4%E3%80%81%E6%BB%91%E9%BC%A0%E8%B7%A8%E8%A3%9D%E7%BD%AE%E5%92%8C%E6%A8%B9%E8%8E%93%E6%B4%BE%E5%85%B1%E7%94%A8%EF%BC%81.html)
 
 ## Batch Renamer
 
 [Métamorphose : A File and Folder Renamer - Powerful batch renamer](http://file-folder-ren.sourceforge.net/index.php?page=Main) Arch: `metamorphose2`
-[Simplest File Renamer - Boris Yakubchik](https://yboris.dev/renamer/) Arch: `simplest-file-renamer-bin` (orphaned, just use the AppImage instead), by editing plain text file names
+[Simplest File Renamer - Boris Yakubchik](https://yboris.dev/renamer/) Arch package orphaned, just use the AppImage instead, by editing plain text file names
 [FileRenamer](https://www.sttmedia.com/filerenamer)
 [GPRename](http://gprename.sourceforge.net/)
 
 [pyRenamer – Mass rename files and folders in Linux – MintGuide.Org](https://mintguide.org/tools/596-pyrenamer-mass-rename-files-and-folders-in-linux.html) discontinued, not found in AUR
 [johnsnails/pyRenamer: pyRenamer is an application to change the names of several files at the same time. This fork currently includes renames based of file creation/modification dates, as well as improved removal of accent characters.](https://github.com/johnsnails/pyRenamer)
 
-[nomino — command-line utility in Rust // Lib.rs](https://lib.rs/crates/nomino)
 [ap/rename: Rename multiple files](https://github.com/ap/rename)
+
+[pipe-rename — Rust application // Lib.rs](https://lib.rs/crates/pipe-rename) Rename your files using your favorite text editor
+
+### nomino
+
+[nomino — command-line utility in Rust // Lib.rs](https://lib.rs/crates/nomino)
+[Examples · yaa110/nomino Wiki · GitHub](https://github.com/yaa110/nomino/wiki/Examples)
+
+```sh
+# -p: print table of old and new names
+# -m: map file
+# -g: generate map file
+# -e: keep extension
+# -t: dry run
+
+# use map file
+nomino -pm map.json
+```
+
+`map.json`:
+
+```json
+{
+  "Nomino (2020) S1.E1.1080p.mkv": "0101.mkv",
+  "Nomino (2020) S1.E2.1080p.mkv": "0102.mkv",
+  "Nomino (2020) S1.E3.1080p.mkv": "0103.mkv",
+  "Nomino (2020) S1.E4.1080p.mkv": "0104.mkv",
+  "Nomino (2020) S1.E5.1080p.mkv": "0105.mkv"
+}
+```
 
 ## Image Viewer
 
@@ -246,7 +238,8 @@ cat ./data/id_ed25519.pub
 
 [List of applications/Multimedia - ArchWiki](https://wiki.archlinux.org/title/List_of_applications/Multimedia#Graphical)
 [Open Source Alternatives for Creatives](https://www.ostraining.com/blog/general/open-source-alternatives-for-creatives/)
-[34 of the best free and open source creative tools in 2016 | Opensource.com](https://opensource.com/article/16/12/yearbook-top-open-source-creative-tools-2016)
+[I Curated the Perfect List of Free Adobe Software Alternatives](https://www.makeuseof.com/free-adobe-software-alternatives/)
+[34 open source tools for creatives | Opensource.com](https://opensource.com/article/16/12/yearbook-top-open-source-creative-tools-2016)
 [The 8 Best Free and Paid Image Editors for Mac](https://www.makeuseof.com/tag/best-free-paid-image-editors-mac-os-x/)
 [The Best Vector Software for Mac Designers on a Budget](https://www.makeuseof.com/tag/best-vector-software-mac-designers-budget/)
 [The 10 Best Lightroom Alternatives (Free and Paid)](https://www.makeuseof.com/tag/best-lightroom-alternatives/)
@@ -275,16 +268,19 @@ cat ./data/id_ed25519.pub
 [darktable | the photo workflow software](http://www.darktable.org/)
 [How to Use Darktable, the Free Adobe Lightroom Alternative](https://www.makeuseof.com/tag/how-to-use-darktable-lightroom-alternative/)
 [Open source photo processing with Darktable | Opensource.com](https://opensource.com/article/21/12/open-source-photo-processing-darktable)
+[RawTherapee - Home](https://rawtherapee.com/) Lightroom alternative
 [Free Photo Editor | Polarr: Smart Photo Editing](https://www.polarr.co/)
 
 [Home | Inkscape](https://inkscape.org/en/)
 [Inkscape Alternatives and Similar Software - AlternativeTo.net](http://alternativeto.net/software/inkscape/)
 
-[Scribus – Open Source Desktop Publishing](https://www.scribus.net/)
+[Scribus – Open Source Desktop Publishing](https://www.scribus.net/) InDesign alternative
+
+[Canva: Visual Suite for Everyone](https://www.canva.com/) layout, flyers, posters, publishing
 
 [[uml]]
 
-[Graph drawing - Wikiwand](http://www.wikiwand.com/en/Graph_drawing)
+[Graph drawing - Wikiwand](http://omni.wikiwand.com/en/Graph_drawing)
 [Graphviz | Graphviz - Graph Visualization Software](http://www.graphviz.org/)
 [PlantUML](http://plantuml.sourceforge.net/)
 [Pencil Project](http://pencil.evolus.vn/)
@@ -415,6 +411,9 @@ TL;DR: use VSCode and skip this session
 [Helix](https://helix-editor.com/)
 [Helix 🧬 the Rust Powered Development Environment - YouTube](https://www.youtube.com/watch?v=xHebvTGOdH8)
 
+[Zed - Code at the speed of thought](https://zed.dev/)
+[This VS Code Killer Just Went Open Source (Written In Rust BTW) - YouTube](https://www.youtube.com/watch?v=ZOYp6-k9HhE)
+
 [Geany : Home Page](http://www.geany.org/) !like
 [Eclipse - The Eclipse Foundation open source community website.](http://www.eclipse.org/)
 [Download Android Studio and SDK tools](https://developer.android.com/studio) from JetBrain
@@ -434,22 +433,17 @@ TL;DR: use VSCode and skip this session
 [Sourcetrail - The open-source cross-platform source explorer](https://www.sourcetrail.com/)
 [Sourcetrail is now free and open-source software – Sourcetrail Developer Blog](https://www.sourcetrail.com/blog/open_source/)
 
-[Komodo Edit | Komodo IDE](http://komodoide.com/komodo-edit/)
-[Lime Text | About](https://limetext.github.io/) open source implementation of Sublime Text, last update 2021
+[Lime Text | About](https://limetext.github.io/) 😴inactive open source implementation of Sublime Text, last update 2021
 [Light Table](http://lighttable.com/) inline evaluation
 [JoelOtter/kajero: Interactive JavaScript notebooks with clever graphing](https://github.com/JoelOtter/kajero)
 
-[Google Web Designer](https://www.google.com/webdesigner/)
+[Google Web Designer - Home](https://webdesigner.withgoogle.com/)
 
-[GitbookIO/editor-legacy](https://github.com/GitbookIO/editor-legacy)
 [Haroopad - The Next Document processor based on Markdown](http://pad.haroopress.com/user.html)
 [marktext/marktext: 📝Next generation markdown editor, running on platforms of MacOS Windows and Linux.](https://github.com/marktext/marktext)
-[yoshuawuyts/vmd: preview markdown files](https://github.com/yoshuawuyts/vmd)
-[A Markdown Editor for the 21st Century | Zettlr](https://www.zettlr.com/)
+[Your One-Stop Publication Workbench | Zettlr](https://www.zettlr.com/)
 
 [Notepad2-mod](https://xhmikosr.github.io/notepad2-mod/)
-
-[Logseq - Open Collective](https://opencollective.com/logseq)
 
 ### light weight
 
@@ -518,114 +512,18 @@ x Download Todo.txt mobile app @Phone
 
 [vamanos/todo-txt: Todo.txt syntax highlighter and helper extension for visual studio code.](https://github.com/vamanos/todo-txt)
 
-## Input Devices
+### Launcher
 
-[Gestures: a GTK app for Linux touchpad gestures - YouTube](https://www.youtube.com/watch?v=MrOIEoyijXM)
-
-## Launcher
-
-[The Best App Launchers for Ubuntu & Linux Mint - OMG! Ubuntu!](https://www.omgubuntu.co.uk/2019/08/best-app-launcher-for-ubuntu-linux/amp)
-
-[kupfer!](http://engla.github.io/kupfer/)
-[qdore/Mutate](https://github.com/qdore/Mutate) plugins in Python and shell script
-[Pext - Python-based Extendable Tool](https://pext.hackerchick.me/) Python/Qt
-[Zazu App](http://zazuapp.org/) Node.js app
-[ManuelSchneid3r/albert](https://github.com/ManuelSchneid3r/albert) plugins in Qt/C++
-[Synapse in Launchpad](https://launchpad.net/synapse-project)
-[Launchy: The Open Source Keystroke Launcher](http://www.launchy.net/)
-
-dmenu: run prompt with auto complete
-[Add An Applications Menu To Any Window Manager - YouTube](https://www.youtube.com/watch?v=wMrdCbrQjnQ)
-
-### Rofi
-
-[davatorium/rofi: Rofi: A window switcher, application launcher and dmenu replacement](https://github.com/davatorium/rofi)
-
-[adi1090x/rofi: A huge collection of Rofi based custom Applets, Launchers & Powermenus.](https://github.com/adi1090x/rofi)
-[Mange/rofi-emoji: Emoji selector plugin for Rofi](https://github.com/Mange/rofi-emoji)
-
-[How to Setup and Configure Rofi (The Best App Launcher) - YouTube](https://www.youtube.com/watch?v=TutfIwxSE_s)
-[Rofi Is Like Dmenu But Sucks Less - YouTube](https://www.youtube.com/watch?v=a2GWqF32U8Q)
-[Make Rofi More Awesome With These Scripts - YouTube](https://www.youtube.com/watch?v=9yLULFzmg3o)
-[Using Rofi for EVERYTHING! (Wifi menu, emoji selector, calculator, & more) - YouTube](https://www.youtube.com/watch?v=v8w1i3wAKiw)
-[Rofi - Application Launcher, Window Switcher and Run Command Utility - YouTube](https://www.youtube.com/watch?v=Wkrw_kyXfhg)
-[Using Rofi for EVERYTHING! (Wifi menu, emoji selector, calculator, & more) - YouTube](https://www.youtube.com/watch?v=v8w1i3wAKiw)
-
-### Ulauncher
-
-> Python + Gtk
-
-[Ulauncher — Application launcher for Linux 🐧](https://ulauncher.io/)
-[Browse Extensions — Ulauncher Extensions](https://ext.ulauncher.io/)
-
-[Ulauncher - An Application Launcher for Linux Desktops](https://www.fossmint.com/ulauncher-application-launcher-for-ubuntu-linux/)
-[Ulauncher Fast Application Launcher - YouTube](https://www.youtube.com/watch?v=XbrHkccJ7Ic)
-
-### Albert
-
-[Albert - Welcome](https://albertlauncher.github.io/docs/)
-[albertlauncher/albert: A fast and flexible keyboard launcher](https://github.com/albertlauncher/albert)
-
-[Making Albert launcher on linux as good as Alfred, one step at a time : linux](https://www.reddit.com/r/linux/comments/9lmcaj/making_albert_launcher_on_linux_as_good_as_alfred/)
-[Search · Albert launcher](https://github.com/search?p=2&q=Albert+launcher&type=Repositories)
-
-Extensions are Python scripts
-[Albert - Python extension](https://albertlauncher.github.io/docs/extensions/python/)
-[Create Albert extensions in Python](https://www.bharatkalluri.in/post/albert-extensions/)
-[albertlauncher/python: A repository for the official Python extensions](https://github.com/albertlauncher/python)
-`/usr/share/albert/org.albert.extension.python/modules`
-`~/.local/share/albert/org.albert.extension.python/modules`
-`~/.local/share/albert/org.albert.extension.externalextensions/extensions`
-[Albert Extensions](https://alberthub.netlify.com/)
-[BharatKalluri/Albert-Extras: A collection of nifty Albert extensions written in python](https://github.com/BharatKalluri/Albert-Extras)
-[nglgzz-archive/albert-plugins: Plugins for albert launcher](https://github.com/nglgzz-archive/albert-plugins)
-
-Plugins are Native Qt Plugins
-[Albert - Extending Albert](https://albertlauncher.github.io/docs/extending/)
-[albertlauncher/plugins: Albert plugins](https://github.com/albertlauncher/plugins)
-`/usr/lib/albert/plugins`
-[plugins/templateExtension at master · albertlauncher/plugins](https://github.com/albertlauncher/plugins/tree/master/templateExtension)
-
-### Windows
-
-[Wox](http://www.getwox.com/)
-[Cerebro App – open-source productivity booster with a brain](https://cerebroapp.com/)
-[Find and Run Robot - DonationCoder.com](https://www.donationcoder.com/software/mouser/popular-apps/farr) Launcher
-[LaunchBar Commander - DonationCoder.com](https://www.donationcoder.com/software/mouser/popular-apps/launchbar-commander) Dock
-[donationcoder / mouser - YouTube](https://www.youtube.com/user/mouseryt/featured)
-[Home - Command E](https://getcommande.com/)
-
-### OSX
-
-["Quick Web Search" for Spotlight — Flashlight](http://flashlight.nateparrott.com/plugin/quicksearch)
-
-[Alfred - Productivity App for Mac OS X](https://www.alfredapp.com/)
-[Workflows | Packal](http://www.packal.org/workflow-list)
-[vitorgalvao/alfred-workflows: Collection of Alfred workflows](https://github.com/vitorgalvao/alfred-workflows)
-
-[Raycast](https://www.raycast.com/) free tier
-[Introduction - Raycast API](https://developers.raycast.com/)
+[[desktop-launchers]]
 
 ## File Manager
 
-[gokcehan/lf: Terminal file manager](https://github.com/gokcehan/lf)
-[Integrations · gokcehan/lf Wiki · GitHub](https://github.com/gokcehan/lf/wiki/Integrations)
-[Lf: How To Turn It Into A Really Powerful File Manager - YouTube](https://www.youtube.com/watch?v=Lrgt35ruInA)
+[[shell-tools#File Manager]]
 
-[Broot](https://dystroy.org/broot/)
-[Canop/broot: A new way to see and navigate directory trees : https://dystroy.org/broot](https://github.com/Canop/broot)
-[Broot: An Innovative Way To View Your Linux File System - YouTube](https://www.youtube.com/watch?v=eTtarjSJ0yU) faster then `fzf` as hidden files a ignored
-[Broot Is A Better Way To Navigate Directories - YouTube](https://www.youtube.com/watch?v=lGD-wsQO_lI)
-
-Spacefm
-Pcmanfm
-Thunar
-
-[Dragon: How To Add Drag And Drop Support To Any Terminal - YouTube](https://www.youtube.com/watch?v=cbegEIczdNQ)
-[Dragon: Eliminate The Need For All GUI File Managers! - YouTube](https://www.youtube.com/watch?v=GZ4YM7x_Fb4)
-
-[Hello from Yazi | Yazi](https://yazi-rs.github.io/docs/)
-[sxyazi/yazi: 💥 Blazing fast terminal file manager written in Rust, based on async I/O.](https://github.com/sxyazi/yazi)
+Nemo (from Cinnamon)
+Caja (from Mate)
+Pcmanfm (from LXDE), open in tabs without `-n` option
+Thunar (from XFCE)
 
 ## File Transfer
 
@@ -760,8 +658,8 @@ test input key and its binding
 
 ### UPnP/DLNA
 
-[List of UPnP AV media servers and clients - Wikiwand](https://www.wikiwand.com/en/List_of_UPnP_AV_media_servers_and_clients)
-[Comparison of UPnP AV media servers - Wikiwand](https://www.wikiwand.com/en/Comparison_of_UPnP_AV_media_servers)
+[List of UPnP AV media servers and clients - Wikiwand](https://omni.wikiwand.com/en/List_of_UPnP_AV_media_servers_and_clients)
+[Comparison of UPnP AV media servers - Wikiwand](https://omni.wikiwand.com/en/Comparison_of_UPnP_AV_media_servers)
 
 [6 UPnP / DLNA Servers For Streaming Media To Your Devices](http://www.makeuseof.com/tag/6-upnpdlna-servers-streaming-media-devices-crossplatform/)
 
@@ -800,7 +698,7 @@ npm install upnp-ssdp peer-ssdp upnp-mediarenderer-client upnp-device upnpserver
 
 #### Chromecast
 
-[Videostream for Google Chromecast™ - Chrome Web Store](https://chrome.google.com/webstore/detail/videostream-for-google-ch/cnciopoikihiagdjbjpnocolokfelagl)
+[Videostream for Google Chromecast™](https://chromewebstore.google.com/detail/videostream-for-google-ch/cnciopoikihiagdjbjpnocolokfelagl)
 [skorokithakis/catt: Cast All The Things allows you to send videos from many, many online sources to your Chromecast.](https://github.com/skorokithakis/catt)
 [xat/castnow: commandline chromecast player](https://github.com/xat/castnow)
 [muammar/mkchromecast: Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices](https://github.com/muammar/mkchromecast)
@@ -984,8 +882,16 @@ And finally optimized the size of the gif using: `convert output.gif -fuzz 10% -
 [Projects/dconf - GNOME Wiki!](https://wiki.gnome.org/action/show/Projects/dconf) (`dconf-editor`)
 
 ```sh
-dconf dump /com/gexperts/Terminix/ > terminix.dconf
-dconf load /com/gexperts/Tilix/ < terminix.dconf
+dconf dump /org/gnome/mutter/keybindings/
+[/]
+overlay-key=''
+
+[keybindings]
+cancel-input-capture=@as []
+switch-monitor=@as []
+
+dconf dump /org/gnome/mutter/keybindings/ > mutter.dconf
+dconf load /org/gnome/mutter/keybindings/ < mutter.dconf
 ```
 
 [Announcing udev-browse](http://0pointer.de/blog/projects/udev-browse.html)
@@ -1004,6 +910,8 @@ dconf load /com/gexperts/Tilix/ < terminix.dconf
 [lukaslangrock/ShutdownTimerClassic: Pick a time and let your computer shutdown itself.](https://github.com/lukaslangrock/ShutdownTimerClassic)
 
 ## Anti-Virus
+
+[This Is Why I'll Never Buy an Antivirus Again](https://www.makeuseof.com/this-is-why-ill-never-buy-an-antivirus-again/)
 
 [Disable Win Defender](https://christitus.com/disable-win-defender/)
 [jbara2002/windows-defender-remover: A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.](https://github.com/jbara2002/windows-defender-remover)
@@ -1047,6 +955,8 @@ hwinfo --bios
 
 inxi -Fxxxr
 inxi -Nn  # network devices
+
+hardinfo
 ```
 
 ### Windows
@@ -1070,34 +980,25 @@ wmic DISKDRIVE
 
 ## Terminal
 
+[I ranked EVERY terminal emulator. It was nuts - YouTube](https://www.youtube.com/watch?v=WxzYtdIcHnQ)
+
 [Apps/Terminal - GNOME Wiki!](https://wiki.gnome.org/Apps/Terminal)
 [ROXTerm](http://roxterm.sourceforge.net/)
 [Cathode | Secret Geometry](http://www.secretgeometry.com/apps/cathode/)
 [Swordfish90/cool-retro-term: A good looking terminal emulator which mimics the old cathode display...](https://github.com/Swordfish90/cool-retro-term)
 
-[kitty - the fast, featureful, GPU based terminal emulator — kitty documentation](https://sw.kovidgoyal.net/kitty/)
-[Kitty Is A Fast And Feature Rich Terminal Emulator - YouTube](https://www.youtube.com/watch?v=TTzP2zYJn2k)
-
-[Alacritty - A cross-platform, OpenGL terminal emulator](https://alacritty.org/)
-[alacritty/alacritty: A cross-platform, OpenGL terminal emulator.](https://github.com/alacritty/alacritty)
-[Alacritty integration with Tmux](https://arslan.io/2018/02/05/gpu-accelerated-terminal-alacritty/)
-
-[Tabby - a terminal for a more modern age](https://tabby.sh/)
-
-[Ghostty 👻 – Mitchell Hashimoto](https://mitchellh.com/ghostty) written in Zig,
+[WezTerm - Wez's Terminal Emulator](https://wezfurlong.org/wezterm/) config with Lua
+[wez/wezterm: A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust](https://github.com/wez/wezterm)
+[Wezterm: A Full Featured Terminal Emulator - YouTube](https://www.youtube.com/watch?v=h7G_GgDhTfY)
 
 [Tilix: A tiling terminal emulator](https://gnunn1.github.io/tilix-web/) why not tmux 🤷‍♂️?
 [gnunn1/tilix: A tiling terminal emulator for Linux using GTK+ 3](https://github.com/gnunn1/tilix)
 
-[WezTerm - Wez's Terminal Emulator](https://wezfurlong.org/wezterm/)
-[wez/wezterm: A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust](https://github.com/wez/wezterm)
-
 [Hyper™](https://hyper.is/)
 
-[subhra74/snowflake: Graphical SFTP client and terminal emulator with helpful utilities](https://github.com/subhra74/snowflake) cross platforms, SFTP
+[Tabby - a terminal for a more modern age](https://tabby.sh/) cross platform
 
-[Warp: The terminal for the 21st century](https://www.warp.dev/) OSX, requires login
-[Warp Terminal — a reimagined terminal experience! - YouTube](https://www.youtube.com/watch?v=wdrjIHzGW74)
+[subhra74/snowflake: Graphical SFTP client and terminal emulator with helpful utilities](https://github.com/subhra74/snowflake) cross platform, SFTP
 
 Windows
 [MobaXterm free Xserver and tabbed SSH client for Windows](https://mobaxterm.mobatek.net/)
@@ -1105,12 +1006,73 @@ Windows
 [ConEmu - Handy Windows Terminal](https://conemu.github.io/)
 [poderosaproject/poderosa](https://github.com/poderosaproject/poderosa)
 
+### Kitty
+
+[kitty - the fast, featureful, GPU based terminal emulator — kitty documentation](https://sw.kovidgoyal.net/kitty/) with built-in config manager (`kitten`)
+[Kitty Is A Fast And Feature Rich Terminal Emulator - YouTube](https://www.youtube.com/watch?v=TTzP2zYJn2k)
+[There Is One Big Flaw With This Terminal - YouTube](https://www.youtube.com/watch?v=40CLV2BfeYE) opt-out pingback, config
+[I'm ditching Alacritty. Here's why - YouTube](https://www.youtube.com/watch?v=BeSUAEZIf9A) config
+[Beautiful Kitty terminal config, from scratch - YouTube](https://www.youtube.com/watch?v=-0XjDgaLUY0)
+[Why I switched from Alacritty to Kitty | linkarzu](https://linkarzu.com/posts/macos/alacritty-to-kitty/) config
+[My Kitty terminal config](https://blog.adamchalmers.com/kitty-terminal-config/)
+
+[kitty.conf - kitty](https://sw.kovidgoyal.net/kitty/conf/)
+`kitty +runpy 'from kitty.config import *; print(commented_out_default_config())' > ~/.config/kitty/kitty.conf`
+
+[ershov/kitty_config: Full config 'kitten' for Kitty terminal.](https://github.com/ershov/kitty_config)
+
+Kitty defied a graphics protocol for terminal emulators
+[Terminal graphics protocol - kitty](https://sw.kovidgoyal.net/kitty/graphics-protocol/)
+
+### Ghostty
+
+[Ghostty 👻 – Mitchell Hashimoto](https://mitchellh.com/ghostty) written in Zig
+[[#32] Ghostty: A New Terminal Emulator Written in Zig - Mitchell Hashimoto - YouTube](https://www.youtube.com/watch?v=l_qY2p0OH9A)
+
+### Alacritty
+
+[Alacritty - A cross-platform, OpenGL terminal emulator](https://alacritty.org/) single tab by design
+[alacritty/alacritty: A cross-platform, OpenGL terminal emulator.](https://github.com/alacritty/alacritty)
+[Alacritty integration with Tmux](https://arslan.io/2018/02/05/gpu-accelerated-terminal-alacritty/)
+[Alacritty - A Fast Terminal Emulator with GPU Acceleration - YouTube](https://www.youtube.com/watch?v=S5ra0DUDZww) config
+
+### Warp
+
+[Warp: The terminal for the 21st century](https://www.warp.dev/) requires login
+[Warp Terminal — a reimagined terminal experience! - YouTube](https://www.youtube.com/watch?v=wdrjIHzGW74)
+
 ### Scratchpad
 
 [noctuid/tdrop: A Glorified WM-Independent Dropdown Creator](https://github.com/noctuid/tdrop)
 [How To Add A Scratchpad To Any Window Manager With Tdrop - YouTube](https://www.youtube.com/watch?v=TbbsjyoK0J4)
 
 [ddterm/gnome-shell-extension-ddterm: Another drop down terminal extension for GNOME Shell. With tabs. Works on Wayland natively](https://github.com/ddterm/gnome-shell-extension-ddterm)
+
+### Guake
+
+[Guake Terminal](https://guake.github.io/)
+[Guake/guake: Drop-down terminal for GNOME](https://github.com/Guake/guake)
+
+```sh
+#!/bin/bash
+
+# Just to be sure Guake is running.
+# Guake handles multiple starting, won't create new instances
+guake &
+
+# Select first (0th) tab and rename it and execute something.
+guake -s 0                          # select tab
+guake -r "md-wiki"                  # rename tab
+guake -e "cd ~/wip/md-wiki; code ." # execute command
+
+guake -n ~/wip # new tab with working directory
+guake -r "wip"
+guake -e "code ."
+
+guake -n ~
+
+guake -s 0 # select first tab
+```
 
 ### Windows Terminal
 
@@ -1214,13 +1176,19 @@ numactl
 
 [20 Command Line Tools to Monitor Linux Performance](http://www.tecmint.com/command-line-tools-to-monitor-linux-performance/)
 [bpytop - Awesome Linux, macOS and FreeBSD resource monitor - nixCraft](https://www.cyberciti.biz/open-source/command-line-hacks/bpytop-awesome-linux-macos-and-freebsd-resource-monitor/)
-[Linux Performance Monitoring with Vmstat and Iostat Commands](https://www.tecmint.com/linux-performance-monitoring-with-vmstat-and-iostat-commands/)
+[Linux Performance Monitoring with Vmstat and Iostat Commands](https://www.tecmint.com/linux-performance-monitoring-with-vmstat-and-iostat-commands/) `vmstat`, `iostat`
 [How do I find out Linux Disk utilization? - nixCraft](https://www.cyberciti.biz/tips/linux-disk-performance-monitoring-howto.html)
 [DAG: Dstat: Versatile resource statistics tool](http://dag.wiee.rs/home-made/dstat/)
-[How to Monitor Ubuntu Performance Using Netdata](https://www.tecmint.com/monitor-ubuntu-performance-using-netdata/amp/)
+
+[Mission Center](https://missioncenter.io/)
+[mission-center-devs / Mission Center · GitLab](https://gitlab.com/mission-center-devs/mission-center)
+
+[Linux Performance Tools! - YouTube](https://www.youtube.com/watch?v=iJ_eIsA5E1U) `vmstat`, `iostat`, `netstat`, `sar`
+[Linux Performance](https://www.brendangregg.com/linuxperf.html)
 
 [nmon for Linux | Main / HomePage](https://nmon.sourceforge.net/pmwiki.php?n=Main.HomePage)
 [Nmon - Terminal-Based System Performance Monitor - YouTube](https://www.youtube.com/watch?v=8PQr055Cn4s)
+[How to Monitor Ubuntu Performance Using Netdata](https://www.tecmint.com/monitor-ubuntu-performance-using-netdata/amp/)
 
 [Apps/SystemMonitor - GNOME Wiki!](https://wiki.gnome.org/Apps/SystemMonitor)
 
@@ -1318,11 +1286,11 @@ lspci -v -s $(lspci | grep VGA | cut -f1 -d' ')
 #keymap
 
 [[autohotkey]]
-[[linux-desktop#xbindkeys]]
+[[linux-desktop#xinput]]
 
-[SharpKeys | randyrants.com](https://www.randyrants.com/category/sharpkeys/)
-[randyrants/sharpkeys: SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.](https://github.com/randyrants/sharpkeys)
-[How to Remap Your Keyboard | PCMag](https://www.pcmag.com/how-to/how-to-remap-your-keyboard) keys only
+[randyrants/sharpkeys: SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.](https://github.com/randyrants/sharpkeys) Windows
+
+[How to Remap Your Keyboard | PCMag](https://www.pcmag.com/how-to/how-to-remap-your-keyboard) PowerTops, keys only
 
 [ATNSOFT Key Remapper — Key, mouse button and mouse wheel remapper](https://atnsoft.com/keyremapper/) trial
 

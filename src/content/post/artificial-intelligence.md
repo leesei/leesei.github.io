@@ -2,7 +2,7 @@
 title: Artificial Intelligence
 description: ""
 created: 2015-04-14
-updated: 2023-11-27
+updated: 2024-09-11
 tags:
   - ai
   - artificial-intelligence
@@ -19,6 +19,8 @@ tags:
 [AI Tools - All Things AI](https://allthingsai.com/tools)
 [Artificial Intelligence For Dummies – A Guide For Beginners | liberties.eu](https://www.liberties.eu/en/stories/artificial-intelligence-for-dummies/43527)
 
+[I Took Google's AI Essentials Course, and This Is What I Learned](https://www.makeuseof.com/google-ai-essentials-course/)
+[Free Courses That Are Actually Free: AI & ML Edition - KDnuggets](https://www.kdnuggets.com/free-courses-that-are-actually-free-ai-ml-edition)
 [The ultimate guide to the state of today’s A.I. – Fortune](https://fortune.com/2020/01/21/the-ultimate-guide-to-the-state-of-todays-a-i/amp/)
 [State Of AI And Machine Learning In 2019](https://www.forbes.com/sites/louiscolumbus/2019/09/08/state-of-ai-and-machine-learning-in-2019/)
 [Machine Learning Terms You Can’t Avoid | by Richmond Alake | Towards Data Science](https://towardsdatascience.com/machine-learning-terms-you-cant-avoid-3528b2a41489)
@@ -28,7 +30,6 @@ tags:
 [How to tell if AI or machine learning is real | InfoWorld](http://www.infoworld.com/article/3199295/artificial-intelligence/primer-how-to-tell-if-ai-or-machine-learning-is-real.html)
 [Debunking the biggest myths about artificial intelligence | Ars Technica](http://arstechnica.com/information-technology/2015/12/demystifying-artificial-intelligence-no-the-singularity-is-not-just-around-the-corner/)
 [The basics of modern AI—how does it work and will it destroy society this year? | Ars Technica](https://arstechnica.com/features/2019/04/from-ml-to-gan-to-hal-a-peak-behind-the-modern-artificial-intelligence-curtain/)
-[Artificial general intelligence - Wikiwand](https://www.wikiwand.com/en/Artificial_general_intelligence)
 [General purpose intelligence: arguing the Orthogonality thesis - Less Wrong](http://lesswrong.com/lw/cej/general_purpose_intelligence_arguing_the/)
 [Why autonomous cars won’t be autonomous | Computerworld](https://www.computerworld.com/article/3262112/artificial-intelligence/why-autonomous-cars-won-t-be-autonomous.html)
 
@@ -48,7 +49,8 @@ tags:
 The term "AI" represents the state of the art technology of archiving it. Currently (as of 2018) it means deep learning with neural network.
 [Today’s computer science is yesterday’s AI - Movie Mango - Medium](https://medium.com/@Go_Movie_Mango/todays-computer-science-is-yesterday-s-ai-bb001c913140)
 
-[Artificial general intelligence - Wikiwand](https://www.wikiwand.com/en/Artificial_general_intelligence)
+[Artificial general intelligence - Wikiwand](https://omni.wikiwand.com/en/Artificial_general_intelligence)
+[A.I. ‐ Humanity's Final Invention? - YouTube](https://www.youtube.com/watch?v=fa8k8IQ1_X0)
 
 AI is any technology that showcases anything that resembles human intelligence (mimics "cognitive" functions).
 Machine Learning is a subset of AI that uses mathematical models from data to make decisions.
@@ -86,9 +88,10 @@ ML:
 [9 machine learning myths | CIO](https://www.cio.com/article/3263776/artificial-intelligence/machine-learning-myths.html)
 [What is Artificial Intelligence? - via @codeship | via @codeship](https://blog.codeship.com/what-is-artificial-intelligence/)
 [NVIDIA BrandVoice: From Deep Learning To Data Science: Everything You Need To Know](https://www.forbes.com/sites/nvidia/2019/02/28/from-deep-learning-to-data-science-everything-you-need-to-know/amp/) data analytics, machine learning, and deep learning
-[A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
+[A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) PDF
 [Data Science’s Most Misunderstood Hero - Towards Data Science](https://towardsdatascience.com/data-sciences-most-misunderstood-hero-2705da366f40)
 [AI research papers – TechTalks](https://bdtechtalks.com/tag/ai-research-papers/)
+[The odd dataguy](https://www.the-odd-dataguy.com/)
 
 [The Artificial Intelligence Wiki | Skymind](https://skymind.ai/wiki/)
 [Index of Best AI/Machine Learning Resources](https://hackernoon.com/index-of-best-ai-machine-learning-resources-71ba0c73e34d#.i7pepmx3d)
@@ -135,6 +138,9 @@ Clustering is usually a task for unsupervised learners. The algorithm is expecte
 
 ## AI vs Machine Learning
 
+[AI is a Lie. - YouTube](https://www.youtube.com/watch?v=nGIpdiQrFDU) current "AI"
+are ANI (N for narrow), the supposed "AI" is AGI (G for general)
+
 [When did Data Science Become Synonymous with Machine Learning? | by Murtaza Ali | Towards Data Science](https://towardsdatascience.com/when-did-data-science-become-synonymous-with-machine-learning-2d7d9f93f4ca)
 
 [The Difference Between AI, Machine Learning, and Deep Learning? | NVIDIA Blog](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)
@@ -165,8 +171,9 @@ Clustering is usually a task for unsupervised learners. The algorithm is expecte
 
 ## Courses
 
-[7 of the Best Free AI and ML Online Courses](https://interestingengineering.com/7-great-free-online-courses-to-help-you-learn-about-ai-and-machine-learning)
 [Top 20 free Data Science, ML and AI MOOCs on the Internet.](https://towardsdatascience.com/top-20-free-data-science-ml-and-ai-moocs-on-the-internet-4036bd0aac12)
+[7 of the Best Free AI and ML Online Courses](https://interestingengineering.com/7-great-free-online-courses-to-help-you-learn-about-ai-and-machine-learning)
+[5 Free Stanford AI Courses - KDnuggets](https://www.kdnuggets.com/5-free-stanford-ai-courses)
 
 [new fast.ai course: A Code-First Introduction to Natural Language Processing · fast.ai](https://www.fast.ai/2019/07/08/fastai-nlp/)
 [Practical Deep Learning for Coders, v3 | fast.ai course v3](https://course.fast.ai/)
@@ -235,7 +242,7 @@ Clustering is usually a task for unsupervised learners. The algorithm is expecte
 ## Limits/Is AI intelligent?
 
 [Deep Learning Has Limits. But Its Commercial Impact Has Just Begun.](https://www.forbes.com/sites/robtoews/2020/02/09/deep-learning-has-limits-but-its-commercial-impact-has-just-begun/amp/)
-[Deep Learning: A Critical Appraisal](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf) (PDF)
+[Deep Learning: A Critical Appraisal](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf) PDF
 
 [why AI can't pass this test - YouTube](https://www.youtube.com/watch?v=QrSCwxrLrRc)
 [How Important is IQ? - YouTube](https://www.youtube.com/watch?v=FkKPsLxgpuY)
@@ -247,7 +254,7 @@ Clustering is usually a task for unsupervised learners. The algorithm is expecte
 
 ## Singularity
 
-[Technological singularity - Wikiwand](https://www.wikiwand.com/en/Technological_singularity)
+[Technological singularity - Wikiwand](https://omni.wikiwand.com/en/Technological_singularity)
 [The Singularity is Near » Homepage](http://singularity.com/)
 
 [A.I. For Good](https://aiforgood.com/)
@@ -255,7 +262,7 @@ Clustering is usually a task for unsupervised learners. The algorithm is expecte
 
 ## Symbolic AI
 
-[Symbolic artificial intelligence - Wikiwand](https://www.wikiwand.com/en/Symbolic_artificial_intelligence) represented by Lisp
+[Symbolic artificial intelligence - Wikiwand](https://omni.wikiwand.com/en/Symbolic_artificial_intelligence) represented by Lisp
 
 ## AI winter
 
@@ -277,7 +284,7 @@ Clustering is usually a task for unsupervised learners. The algorithm is expecte
 
 ## Performance/Accuracy
 
-[Sensitivity and specificity - Wikiwand](https://www.wikiwand.com/en/Sensitivity_and_specificity)
+[Sensitivity and specificity - Wikiwand](https://omni.wikiwand.com/en/Sensitivity_and_specificity)
 [10.3 - Sensitivity, Specificity, Positive Predictive Value, and Negative Predictive Value | STAT 507](https://newonlinecourses.science.psu.edu/stat507/node/71/)
 [Calculation of sensitivity, specificity, and positive and negative... | Download Scientific Diagram](https://www.researchgate.net/figure/Calculation-of-sensitivity-specificity-and-positive-and-negative-predictive_fig1_49650721)
 [Confusion Matrix with Scikit-Learn and Python - Pierian Training](https://pieriantraining.com/confusion-matrix-with-scikit-learn-and-python/)
@@ -348,6 +355,7 @@ Harmonic mean of precision and recall
 
 [[2307.15043] Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)
 [Adversarial Attacks on LLMs - YouTube](https://www.youtube.com/watch?v=pR2et-guixM)
+[What Is an AI Prompt Injection Attack and How Does It Work?](https://www.makeuseof.com/what-is-ai-prompt-injection-attack/)
 
 [Breaking Machine Learning With Adversarial Examples](https://towardsdatascience.com/breaking-machine-learning-with-adversarial-examples-a3ddc5c75ea4)
 [How to trick a neural network into thinking a panda is a vulture](https://codewords.recurse.com/issues/five/why-do-neural-networks-think-a-panda-is-a-vulture)
@@ -372,6 +380,8 @@ Harmonic mean of precision and recall
 [How Hugging Face is tackling bias in NLP | VentureBeat](https://venturebeat.com/2021/08/25/how-hugging-face-is-tackling-bias-in-nlp/)
 [The Illustrated Retrieval Transformer – Jay Alammar – Visualizing machine learning one concept at a time.](http://jalammar.github.io/illustrated-retrieval-transformer/)
 
+[Deep Learning, NLP, and Representations - colah's blog](https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
+[Natural Language Processing with Python NLTK Book](https://www.nltk.org/book/)
 [Everything You Need to Know about Natural Language Processing](http://www.kdnuggets.com/2015/12/natural-language-processing-101.html)
 [5 Heroic Tools for Natural Language Processing | IT Svit Blog](https://itsvit.com/blog/5-heroic-tools-natural-language-processing/)
 [8 great Python libraries for natural language processing | InfoWorld](https://www.infoworld.com/article/3519413/8-great-python-libraries-for-natural-language-processing.html)
@@ -412,6 +422,16 @@ Google’s sophisticated WaveNet audio processing neural network, and because it
 [Snowball](https://snowballstem.org/)
 [Snowball Stemmer - NLP - GeeksforGeeks](https://www.geeksforgeeks.org/snowball-stemmer-nlp/)
 
+### Word distance
+
+[Levenshtein distance - Wikiwand / articles](https://www.wikiwand.com/en/articles/Levenshtein_distance)
+[Understanding the Levenshtein Distance Equation for Beginners | by Ethan Nam | Medium](https://medium.com/@ethannam/understanding-the-levenshtein-distance-equation-for-beginners-c4285a5604f0)
+
+### Named Entity Recognition (NER)
+
+[Named-entity recognition - Wikiwand](https://omni.wikiwand.com/en/Named-entity_recognition)
+[What is Named Entity Recognition? | Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/11/a-beginners-introduction-to-ner-named-entity-recognition/)
+
 ### STT
 
 [OpenSTT | An Open Source Speech-To-Text Project](https://openstt.org/)
@@ -441,11 +461,41 @@ Google’s sophisticated WaveNet audio processing neural network, and because it
 [Mimic 3 - Mycroft](https://mycroft.ai/mimic-3/)
 [Mimic TTS - Mycroft AI](https://mycroft-ai.gitbook.io/docs/mycroft-technologies/mimic-tts/)
 
+[MassTTS/replace_files at main · anyvoiceai/MassTTS](https://github.com/anyvoiceai/MassTTS/tree/main/replace_files)
+
+[fishaudio/Bert-VITS2: vits2 backbone with multilingual-bert](https://github.com/fishaudio/Bert-VITS2)
+[BERT-VITS2教程 | 目前最强的开源中文声音克隆？ - YouTube](https://www.youtube.com/watch?v=H9aYxdvwOPU)
+[fishaudio/Bert-VITS2: vits2 backbone with multilingual-bert](https://github.com/fishaudio/Bert-VITS2)
+[RVC-Boss/GPT-SoVITS: 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)](https://github.com/RVC-Boss/GPT-SoVITS)
+
 [文字轉語音 Archives - 電腦王阿達](https://www.kocpc.com.tw/archives/tag/%e6%96%87%e5%ad%97%e8%bd%89%e8%aa%9e%e9%9f%b3)
 [程式整合 Azure 文字轉語音服務 - PowerShell / C# 範例-黑暗執行緒](https://blog.darkthread.net/blog/azure-tts-example/)
 
 [Web Speech API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 [Beautiful React Hooks docs](https://antonioru.github.io/beautiful-react-hooks/#/useSpeechSynthesis)
+[mozilla/TTS: :robot: Deep learning for Text to Speech (Discussion forum: https://discourse.mozilla.org/c/tts)](https://github.com/mozilla/TTS)
+
+[AI Voice Generator, Text To Speech, #1 Best AI Voice](https://speechify.com/)
+
+[Adding .NET Text-to-Speech Functionality to PowerShell](https://www.itprotoday.com/powershell/how-to-make-powershell-speak-text-to-speech-net-tutorial-)
+[SpeechSynthesizer Class (System.Speech.Synthesis) | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/api/system.speech.synthesis.speechsynthesizer?view=net-8.0)
+
+#### eSpeak
+
+[eSpeak: Speech Synthesizer](https://espeak.sourceforge.net/)
+
+Here are some useful options you can add to the command:
+
+-f <text file>: Text file to speak
+--stdin: Read text input from standard input instead of a file
+-a <integer>: Amplitude, 0 to 20, default is 10. For example, espeak -a 15 sets the amplitude to 15
+-p <integer>: Pitch adjustment, 0 to 99, default is 50
+-s <integer>: Speed in words per minute, default is 160
+-v <voice name>: Use the voice file of this name from the "espeak-data/voices" directory
+-w <wave file name>: Write output to this WAV file, rather than speaking it directly
+--stdout: Write speech output to stdout
+
+[espeak-ng/espeak-ng: eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.](https://github.com/espeak-ng/espeak-ng)
 
 ## Chatbot
 
@@ -519,12 +569,37 @@ It is not advisable to use the ordinal form of categorical variables in clusteri
 3. If the categories are ordinal in nature then you may use the label encoding
 4. Find the correlation between the categorical variable and all the numeric variables, now replace the mean of the numeric variable value which has the highest correlation with the categorical variable. Correlation can be found using the one-way ANOVA test.
 
-## Forecasting
+## Time Series
+
+[Start your time-serie project (analysis, forecast and anomaly detection) with Kats](https://www.the-odd-dataguy.com/2022/01/28/kats/)
+
+[PacktPublishing/Modern-Time-Series-Forecasting-with-Python: Modern Time Series Forecasting with Python, published by Packt](https://github.com/PacktPublishing/Modern-Time-Series-Forecasting-with-Python)
+
+[5 Basic DIY Python Functions to Help Master Time Series Analysis](https://www.statology.org/5-basic-diy-python-functions-to-help-master-time-series-analysis/)
+
+### Forecasting
 
 [The Art of Forecasting - Towards Data Science](https://towardsdatascience.com/the-art-of-forecasting-d2a8806b7aa0)
 
 [Prophet | Forecasting at scale.](https://facebook.github.io/prophet/)
 [Python Time Series Forecasting Tutorial - The New Stack](https://thenewstack.io/python-time-series-forecasting-tutorial/)
+[Time Series Evaluation Metrics — MAPE vs WMAPE vs SMAPE — which one to use, why and when? — Part1 | by Vinit Kothari | Medium](https://medium.com/@vinitkothari.24/time-series-evaluation-metrics-mape-vs-wmape-vs-smape-which-one-to-use-why-and-when-part1-32d3852b4779)
+
+### Anomaly Detection
+
+[Introducing practical and robust anomaly detection in a time series](https://blog.twitter.com/engineering/en_us/a/2015/introducing-practical-and-robust-anomaly-detection-in-a-time-series)
+
+[[2004.00433] Anomaly Detection in Univariate Time-series: A Survey on the State-of-the-Art](https://arxiv.org/abs/2004.00433) AUC computation
+
+[Mastering Anomaly Detection in Time Series Data: Techniques and Insights | by Ketan Kumar | Medium](https://medium.com/@ketan31kumar/mastering-anomaly-detection-in-time-series-data-techniques-and-insights-98fbe94c4258)
+
+[How to Time-series Anomaly Detection Using Deep Learning. | by gudgud | Medium](https://gudwns1215.medium.com/how-to-time-series-anomaly-detection-using-deep-learning-edfc2d1dbbc8) VAE, POT (Peaks Over Threshold)
+
+[Anomaly Detection in Time Series: A Comprehensive Evaluation](https://www.vldb.org/pvldb/vol15/p1779-wenig.pdf) PDF
+
+- LSTM: RNN, insensitive to point order
+- Frequency domain: periodic
+- Sub-LOF: point anomaly, insensitive to point order
 
 ## DuHL
 
@@ -532,28 +607,36 @@ Duality-gap based Heterogeneous Learning
 
 [IBM Rockets Machine Learning Process by 10 Times](https://it.toolbox.com/articles/ibm-rockets-machine-learning-process-by-10-times)
 [IBM shows off tenfold improvement in machine learning using GPUs - TechSpot](https://www.techspot.com/news/72160-ibm-shows-off-tenfold-improvement-machine-learning-using.html)
-[Efficient Use of Limited-Memory Accelerators for Linear Learning on Heterogeneous Systems](https://arxiv.org/pdf/1708.05357.pdf)
+[Efficient Use of Limited-Memory Accelerators for Linear Learning on Heterogeneous Systems](https://arxiv.org/pdf/1708.05357.pdf) PDF
 
 [Three Simple Theories to Help Us Understand Overfitting and Underfitting in Machine Learning Models](https://towardsdatascience.com/three-simple-theories-to-help-us-understand-overfitting-and-underfitting-in-machine-learning-models-54a4905a2222)
 
 ## Decision Tree
 
 [Decision Tree Algorithm, Explained](https://www.kdnuggets.com/2020/01/decision-tree-algorithm-explained.html)
+[Demystifying Decision Trees for the Real World - KDnuggets](https://www.kdnuggets.com/demystifying-decision-trees-for-the-real-world)
 [How to visualize decision trees](https://explained.ai/decision-tree-viz/index.html)
 [How to Create a Perfect Decision Tree - DZone AI](https://dzone.com/articles/how-to-create-a-perfect-decision-tree)
 [Decision Tree Classification Clearly Explained! - YouTube](https://www.youtube.com/watch?v=ZVR2Way4nwQ)
+[Decision Tree Classifier explained in real-life: picking a vacation destination | by Carolina Bento | Towards Data Science](https://towardsdatascience.com/decision-tree-classifier-explained-in-real-life-picking-a-vacation-destination-6226b2b60575)
+
+[Random Forest vs Gradient Boosted Trees: A Comparison | by Wilbo Feathers | Medium](https://medium.com/@wilbossoftwarejourney/random-forest-vs-gradient-boosted-trees-pros-and-cons-8c1feec0ea0d)
+[Gradient Boosted Decision Trees Explained with a Real-Life Example and Some Python Code | by Carolina Bento | Towards Data Science](https://towardsdatascience.com/gradient-boosted-decision-trees-explained-with-a-real-life-example-and-some-python-code-77cee4ccf5e)
+[Gradient Boosted Decision Trees [Guide]: a Conceptual Explanation](https://neptune.ai/blog/gradient-boosted-decision-trees-guide)
+[Gradient Boosting: A Step-by-Step Guide](https://www.analyticsvidhya.com/blog/2021/09/gradient-boosting-algorithm-a-complete-guide-for-beginners/)
 
 ## Random Forest
 
 [3 Reasons to Use Random Forest Over a Neural Network–Comparing Machine Learning versus Deep Learning](https://towardsdatascience.com/3-reasons-to-use-random-forest-over-a-neural-network-comparing-machine-learning-versus-deep-f9d65a154d89)
-
-[Random Forests | SpringerLink](https://link.springer.com/article/10.1023/A:1010933404324)
+[Random Forests Algorithm explained with a real-life example and some Python code | by Carolina Bento | Towards Data Science](https://towardsdatascience.com/random-forests-algorithm-explained-with-a-real-life-example-and-some-python-code-affbfa5a942c)
 [Which one is more important? Be careful before you make decisions with Random Forest](https://towardsdatascience.com/a-relook-on-random-forest-and-feature-importance-2467dfab5cca)
-[Random Forest Algorithm Clearly Explained! - YouTube](https://www.youtube.com/watch?v=v6VJ2RO66Ag)
-
 [Random Forest Overview. A conceptual overview of the Random… | by Kurtis Pykes | Towards Data Science](https://towardsdatascience.com/random-forest-overview-746e7983316)
 [Master Machine Learning: Random Forest From Scratch With Python | by Dario Radečić | Apr, 2021 | Towards Data Science](https://towardsdatascience.com/master-machine-learning-random-forest-from-scratch-with-python-3efdd51b6d7a)
 [How Random Forests & Decision Trees Decide: Simply Explained With An Example In Python | by Serafeim Loukas | Jun, 2022 | Towards Data Science](https://towardsdatascience.com/how-do-random-forests-decision-trees-decide-simply-explained-with-an-example-in-python-6737eb183604)
+
+[Random Forests | SpringerLink](https://link.springer.com/article/10.1023/A:1010933404324)
+[Random Forest Algorithm Clearly Explained! - YouTube](https://www.youtube.com/watch?v=v6VJ2RO66Ag)
+
 [How to Develop a Random Forest Ensemble in Python](https://machinelearningmastery.com/random-forest-ensemble-in-python/)
 
 [Fraud Detection Using Random Forest, Neural Autoencoder, and Isolation Forest Techniques](https://www.infoq.com/articles/fraud-detection-random-forest/)
@@ -569,7 +652,7 @@ Duality-gap based Heterogeneous Learning
 
 ## AutoML
 
-[Automated machine learning - Wikiwand](https://www.wikiwand.com/en/Automated_machine_learning)
+[Automated machine learning - Wikiwand](https://omni.wikiwand.com/en/Automated_machine_learning)
 [Cloud AutoML - Custom Machine Learning Models | AutoML | Google Cloud](https://cloud.google.com/automl/)
 [What is automated ML / AutoML - Azure Machine Learning | Microsoft Docs](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-automated-ml)
 
@@ -591,7 +674,7 @@ AutoML, MLBox, Auto-Sklearn, GridSearchCV, and TPOT
 
 ## Recommendation System
 
-[Recommender system - Wikiwand](https://www.wikiwand.com/en/Recommender_system)
+[Recommender system - Wikiwand](https://omni.wikiwand.com/en/Recommender_system)
 [How to implement a recommender system | InfoWorld](https://www.infoworld.com/article/3241852/machine-learning/how-to-implement-a-recommender-system.html)
 [Comprehensive Guide to build Recommendation Engine from scratch](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/)
 [A Complete Guide To Recommender Systems — Tutorial with Sklearn, Surprise, Keras, Recommenders | by Pathairush Seeda | Oct, 2021 | Towards Data Science](https://towardsdatascience.com/a-complete-guide-to-recommender-system-tutorial-with-sklearn-surprise-keras-recommender-5e52e8ceace1)
@@ -610,6 +693,8 @@ AutoML, MLBox, Auto-Sklearn, GridSearchCV, and TPOT
 [Snorkel — A Weak Supervision System | by Shreya Ghelani | Towards Data Science](https://towardsdatascience.com/snorkel-a-weak-supervision-system-a8943c9b639f)
 
 ## Reinforcement Learning
+
+[Reinforcement Learning Explained with Maze-Solving Robot - YouTube](https://www.youtube.com/watch?v=vw0Zy_oCWxE)
 
 [What’s New in Deep Learning Research – Towards Data Science](https://towardsdatascience.com/whats-new-in-deep-learning-research-7374f524618f)
 [Reinforcement Learning: A Brief Guide - MATLAB & Simulink](https://www.mathworks.com/company/newsletters/articles/reinforcement-learning-a-brief-guide.html)
@@ -678,7 +763,7 @@ Proximal Policy Optimization, an advanced RL algorithm that requires less data t
 ### DeepMind
 
 [Google DeepMind](https://www.deepmind.com/)
-[Google DeepMind - Wikiwand](https://www.wikiwand.com/en/Google_DeepMind)
+[Google DeepMind - Wikiwand](https://omni.wikiwand.com/en/Google_DeepMind)
 [Google DeepMind - YouTube](https://www.youtube.com/@Google_DeepMind)
 [Google DeepMind](https://github.com/google-deepmind) on GitHub
 
@@ -737,6 +822,9 @@ Generative Query Network: 3D reconstruction based on 2D images
 [Learning to Play Minecraft with Video PreTraining (VPT)](https://openai.com/blog/vpt/)
 [看了 7 萬小時 YouTube 影片，OpenAI 新 IDM AI 模型學會玩《當個創世神》 | TechNews 科技新報](https://technews.tw/2022/06/29/openais-new-ai-learned-to-play-minecraft-by-watching-70000-hours-of-youtube/)
 
+[Training AI to Play Pokemon with Reinforcement Learning - YouTube](https://www.youtube.com/watch?v=DcYLT37ImBY&t=0s)
+[训练AI玩宝可梦红版，结局出人意料 - YouTube](https://www.youtube.com/watch?v=mP_o2pWzf9k)
+
 [格斗之王！AI 写出来的 AI 竟然这么强！ - YouTube](https://www.youtube.com/watch?v=B7bYZ5ZFbl0)
 [linyiLYi/street-fighter-ai: This is an AI agent for Street Fighter II Champion Edition.](https://github.com/linyiLYi/street-fighter-ai)
 
@@ -745,6 +833,8 @@ Generative Query Network: 3D reconstruction based on 2D images
 
 [AI Learns to Play Super Mario Bros! - YouTube](https://www.youtube.com/watch?v=CI3FRsSAa_U)
 [AI Learns To Play Super Mario Bros Using A Genetic Algorithm And Neural Network | Chrispresso - All things programming, all things AI](https://chrispresso.io/AI_Learns_To_Play_SMB_Using_GA_And_NN)
+
+[The Story of The Best Trackmania AI Ever Made - YouTube](https://www.youtube.com/watch?v=cUojVsCJ51I)
 
 [Python Plays: Grand Theft Auto V - YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeETZEOy4VdocT7TOjfSA8a)
 [Python AI in StarCraft II - YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcT3tPehHdisGMc8TInNqdq)
@@ -797,10 +887,12 @@ Generative Query Network: 3D reconstruction based on 2D images
 Deep Learning = Artificial Neural Networks with more than 1 hidden layers
 
 [Machine Learning Zero to Hero (Google I/O'19) - YouTube](https://www.youtube.com/watch?v=VwVg9jCtqaU)
-[Machine learning - Wikiwand](https://www.wikiwand.com/en/Machine_learning)
-[Artificial neural network - Wikiwand](https://www.wikiwand.com/en/Artificial_neural_network)
+[Machine learning - Wikiwand](https://omni.wikiwand.com/en/Machine_learning)
+[Artificial neural network - Wikiwand](https://omni.wikiwand.com/en/Artificial_neural_network)
 [Machine Learning Mastery](https://machinelearningmastery.com/)
 [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)
+
+[Jeremy Howard - YouTube](https://www.youtube.com/@howardjeremyp/)
 
 [“影分身之术”！训练 50 亿次的 AI 能有多智能 - YouTube](https://www.youtube.com/watch?v=AJ1TR28KNqY)
 [How neural networks work—and why they’ve become a big business – Ars Technica](https://arstechnica.com/science/2019/12/how-neural-networks-work-and-why-theyve-become-a-big-business/amp/)
@@ -934,7 +1026,7 @@ Deep Learning = Artificial Neural Networks with more than 1 hidden layers
 [Why are neural networks so powerful? - Towards Data Science](https://towardsdatascience.com/why-are-neural-networks-so-powerful-bc308906696c)
 [The statistical foundations of machine learning - Towards Data Science](https://towardsdatascience.com/the-statistical-foundations-of-machine-learning-973c356a95f)
 
-[Gradient descent - Wikiwand](https://www.wikiwand.com/en/Gradient_descent)
+[Gradient descent - Wikiwand](https://omni.wikiwand.com/en/Gradient_descent)
 [Stochastic Gradient Descent Algorithm With Python and NumPy – Real Python](https://realpython.com/gradient-descent-algorithm-python/)
 
 ## Medical
@@ -956,9 +1048,37 @@ Early screening leads to unnecessary treatments to benign cases
 
 PyTorch, Keras
 
+## RNN
+
+[The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+[karpathy/char-rnn: Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch](https://github.com/karpathy/char-rnn)
+
+[The fall of RNN / LSTM. We fell for Recurrent neural networks… | by Eugenio Culurciello | Towards Data Science](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0) forget RNN, use Transformers
+Traditional RNN has the issue of vanishing gradients
+
+[Crash Course in Recurrent Neural Networks for Deep Learning](https://machinelearningmastery.com/crash-course-recurrent-neural-networks-deep-learning/)
+[Deep Learning for NLP: ANNs, RNNs and LSTMs explained!](https://www.kdnuggets.com/2019/08/deep-learning-nlp-explained.html)
+[Understanding LSTM Networks -- colah's blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+[Illustrated Guide to Recurrent Neural Networks: Understanding the Intuition](https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9)
+[Fundamentals of Deep Learning – Introduction to Recurrent Neural Networks](https://www.analyticsvidhya.com/blog/2017/12/introduction-to-recurrent-neural-networks/)
+[Building a LSTM by hand on PyTorch - Towards Data Science](https://towardsdatascience.com/building-a-lstm-by-hand-on-pytorch-59c02a4ec091)
+[Explaining RNNs without neural networks](https://explained.ai/rnn/index.html)
+
+Long Short Term Memory (LSTM), a unit in a Recurrent Neural Network (RNN) proficient at remembering information for long periods of time and well-suited to classifying, processing and making predictions based on time series data.
+
+[Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/) RNN for generative AI
+
+[Recurrent Neural Networks by Example in Python - Towards Data Science](https://towardsdatascience.com/recurrent-neural-networks-by-example-in-python-ffd204f99470)
+[WillKoehrsen/recurrent-neural-networks: Learning about and doing projects with recurrent neural networks](https://github.com/WillKoehrsen/recurrent-neural-networks)
+[recurrent-neural-networks/Quick Start to Recurrent Neural Networks.ipynb at master · WillKoehrsen/recurrent-neural-networks](https://github.com/WillKoehrsen/recurrent-neural-networks/blob/master/notebooks/Quick%20Start%20to%20Recurrent%20Neural%20Networks.ipynb)
+[recurrent-neural-networks/Deep Dive into Recurrent Neural Networks.ipynb at master · WillKoehrsen/recurrent-neural-networks](https://github.com/WillKoehrsen/recurrent-neural-networks/blob/master/notebooks/Deep%20Dive%20into%20Recurrent%20Neural%20Networks.ipynb)
+
 ## CNN
 
+> CNN is very effective for image classification
+
 [什么是卷积神经网络？卷积到底卷了啥？ - YouTube](https://www.youtube.com/watch?v=JJSkAkPS8x4)
+[Why do Convolutional Neural Networks work so well? - YouTube](https://www.youtube.com/watch?v=8iIdWHjleIs)
 
 [Understanding Neural Networks. From neuron to RNN, CNN, and Deep Learning](https://towardsdatascience.com/understanding-neural-networks-from-neuron-to-rnn-cnn-and-deep-learning-cd88e90e0a90) ❗!important
 [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
@@ -983,30 +1103,12 @@ PyTorch, Keras
 
 [Classifying breast cancer tumour type using Convolutional Neural Network (CNN — Deep Learning)](https://towardsdatascience.com/how-to-fight-breast-cancer-with-deep-learning-ab28e42e4250)
 
-## RNN
-
-[The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-[karpathy/char-rnn: Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch](https://github.com/karpathy/char-rnn)
-
-[Crash Course in Recurrent Neural Networks for Deep Learning](https://machinelearningmastery.com/crash-course-recurrent-neural-networks-deep-learning/)
-[Deep Learning for NLP: ANNs, RNNs and LSTMs explained!](https://www.kdnuggets.com/2019/08/deep-learning-nlp-explained.html)
-[Illustrated Guide to Recurrent Neural Networks: Understanding the Intuition](https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9)
-[Fundamentals of Deep Learning – Introduction to Recurrent Neural Networks](https://www.analyticsvidhya.com/blog/2017/12/introduction-to-recurrent-neural-networks/)
-[Building a LSTM by hand on PyTorch - Towards Data Science](https://towardsdatascience.com/building-a-lstm-by-hand-on-pytorch-59c02a4ec091)
-[Explaining RNNs without neural networks](https://explained.ai/rnn/index.html)
-
-Long Short Term Memory (LSTM), a unit in a Recurrent Neural Network (RNN) proficient at remembering information for long periods of time and well-suited to classifying, processing and making predictions based on time series data.
-
-[Recurrent Neural Networks by Example in Python - Towards Data Science](https://towardsdatascience.com/recurrent-neural-networks-by-example-in-python-ffd204f99470)
-[WillKoehrsen/recurrent-neural-networks: Learning about and doing projects with recurrent neural networks](https://github.com/WillKoehrsen/recurrent-neural-networks)
-[recurrent-neural-networks/Quick Start to Recurrent Neural Networks.ipynb at master · WillKoehrsen/recurrent-neural-networks](https://github.com/WillKoehrsen/recurrent-neural-networks/blob/master/notebooks/Quick%20Start%20to%20Recurrent%20Neural%20Networks.ipynb)
-[recurrent-neural-networks/Deep Dive into Recurrent Neural Networks.ipynb at master · WillKoehrsen/recurrent-neural-networks](https://github.com/WillKoehrsen/recurrent-neural-networks/blob/master/notebooks/Deep%20Dive%20into%20Recurrent%20Neural%20Networks.ipynb)
-
 ## Explainable AI
 
 [What-If Tool](https://pair-code.github.io/what-if-tool/)
 [Google AI Blog: The What-If Tool: Code-Free Probing of Machine Learning Models](https://ai.googleblog.com/2018/09/the-what-if-tool-code-free-probing-of.html?m=1)
 
+[An Introduction to Explainable AI (XAI) - KDnuggets](https://www.kdnuggets.com/an-introduction-to-explainable-ai-xai)
 [Explainable AI: Peering inside the deep learning black box | InfoWorld](https://www.infoworld.com/article/3315748/deep-learning/explainable-ai-peering-inside-the-deep-learning-black-box.html)
 [tensorflow/model-analysis: Model analysis tools for TensorFlow](https://github.com/tensorflow/model-analysis)
 [Responsible AI Practices – Google AI](https://ai.google/education/responsible-ai-practices)
@@ -1056,6 +1158,8 @@ This is especially important in the development of AI. Through a new research ap
 [FisherKK/F1sherKK-MyRoadToAI: Repository for storing and tracking my self-study progress.](https://github.com/FisherKK/F1sherKK-MyRoadToAI)
 
 ## Generative Network
+
+see [[generative-ai]]
 
 ## Survival Analysis
 
@@ -1120,7 +1224,7 @@ Kubernetes:
 ## ONNX
 
 [ONNX](https://onnx.ai/) Open Neural Network Exchange Format
-[Open Neural Network Exchange - Wikiwand](https://www.wikiwand.com/en/Open_Neural_Network_Exchange)
+[Open Neural Network Exchange - Wikiwand](https://omni.wikiwand.com/en/Open_Neural_Network_Exchange)
 ONNX allows developers to move models between frameworks such as CNTK, Caffe2, MXNet, and PyTorch.
 
 [onnx/onnx: Open Neural Network Exchange](https://github.com/onnx/onnx)
@@ -1259,11 +1363,12 @@ JavaScript:
 ## PyTorch
 
 [PyTorch](http://pytorch.org/)
-[PyTorch - Wikiwand](https://www.wikiwand.com/en/PyTorch)
+[PyTorch - Wikiwand](https://omni.wikiwand.com/en/PyTorch)
 
 [MONAI - Home](https://monai.io/)
 
 [How Nvidia’s CUDA Monopoly In Machine Learning Is Breaking - OpenAI Triton And PyTorch 2.0](https://www.semianalysis.com/p/nvidiaopenaitritonpytorch)
+[A Beginner’s Guide to PyTorch - KDnuggets](https://www.kdnuggets.com/a-beginners-guide-to-pytorch)
 
 [Ecosystem Day 2021 | PyTorch](https://pytorch.org/ecosystem/pted/2021)
 [facebookincubator/AITemplate: AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.](https://github.com/facebookincubator/AITemplate)
@@ -1272,7 +1377,7 @@ JavaScript:
 [OpenAI goes all-in on Facebook's Pytorch machine learning framework | VentureBeat](https://venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/amp/)
 
 [Torch | Scientific computing for LuaJIT.](http://torch.ch/)
-[Torch (machine learning) - Wikiwand](<https://www.wikiwand.com/en/Torch_(machine_learning)>)
+[Torch (machine learning) - Wikiwand](<https://omni.wikiwand.com/en/Torch_(machine_learning)>)
 [torch/torch7: http://torch.ch](https://github.com/torch/torch7)
 [torch/cutorch: A CUDA backend for Torch7](https://github.com/torch/cutorch/)
 
@@ -1503,11 +1608,46 @@ Scikit-learn is a free software machine learning tool for the Python programming
 
 [Classifying Pokémon Images with Machine Learning | CodeAI](https://medium.com/m2mtechconnect/classifying-pok%C3%A9mon-images-with-machine-learning-79b9bc07c080)
 
-### Dataset
+## Dataset
+
+[Machine Learning Datasets | Papers With Code](https://paperswithcode.com/datasets)
+[Welcome to the UCR Time Series Classification/Clustering Page](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/)
+[Time Series Classification Website](https://www.timeseriesclassification.com/dataset.php)
+[elisejiuqizhang/TS-AD-Datasets: Public datasets for time series anomaly detection](https://github.com/elisejiuqizhang/TS-AD-Datasets)
+
+[Datasets for Data Science, Machine Learning, AI & Analytics - KDnuggets](https://www.kdnuggets.com/datasets/index.html)
+[Emerging Tech Services | Predictability Models Powered by WorldData.AI](https://worlddata.ai/partners/kdnuggets)
 
 [Pokemon Image Dataset | Kaggle](https://www.kaggle.com/vishalsubbiah/pokemon-images-and-types)
 [How to create a deep learning dataset using Google Images - PyImageSearch](https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/)
-[How to (quickly) barto
-uild a deep learning image dataset - PyImageSearch](https://www.pyimagesearch.com/2018/04/09/how-to-quickly-build-a-deep-learning-image-dataset/)
+[How to (quickly) build a deep learning image dataset - PyImageSearch](https://www.pyimagesearch.com/2018/04/09/how-to-quickly-build-a-deep-learning-image-dataset/)
 [Image hashing with OpenCV and Python - PyImageSearch](https://www.pyimagesearch.com/2017/11/27/image-hashing-opencv-python/)
 [Pokemon Generation One | Kaggle](https://www.kaggle.com/thedagger/pokemon-generation-one)
+
+[iTrust Labs_Dataset Info - iTrust](https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/)
+Secure Water Treatment (SWaT)
+Critical Infrastructure Security Showdown (CISS)
+Water Distribution (WADI)
+BATtle of Attack Detection Algorithms (BATADAL)
+Electric Power and Intelligent Control (EPIC)
+
+[OmniAnomaly/README.md at master · NetManAIOps/OmniAnomaly](https://github.com/NetManAIOps/OmniAnomaly/blob/master/README.md)
+ServerMachineDataset
+
+[zamanzadeh/ts-anomaly-benchmark: Time-Series Anomaly Detection Comprehensive Benchmark](https://github.com/zamanzadeh/ts-anomaly-benchmark)
+
+[Numenta Anomoly Benchmark | Numenta](https://www.numenta.com/resources/htm/numenta-anomoly-benchmark/)
+[[1510.03336] Evaluating Real-time Anomaly Detection Algorithms - the Numenta Anomaly Benchmark](https://arxiv.org/abs/1510.03336)
+[numenta/NAB: The Numenta Anomaly Benchmark](https://github.com/numenta/NAB)
+
+[SmartMeter Energy Consumption Data in London Households - London Datastore](https://data.london.gov.uk/dataset/smartmeter-energy-use-data-in-london-households)
+[Smart meters in London](https://www.kaggle.com/datasets/jeanmidev/smart-meters-in-london)
+[jeanmidevacc/london_smartmeter: A repository that will contains all the code used tomake the article related to the articles the kaggle dataset (https://www.kaggle.com/jeanmidev/smart-meters-in-london)](https://github.com/jeanmidevacc/london_smartmeter)
+[Smart meters in London (Part1) — Description and first insights — Jean-Michel D. | by Jean-Michel D | Medium](https://medium.com/@boitemailjeanmid/smart-meters-in-london-part1-description-and-first-insights-jean-michel-d-db97af2de71b)
+
+[Individual Household Electric Power Consumption - UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption)
+[Electricity consumption UK 2009-2024](https://www.kaggle.com/datasets/albertovidalrod/electricity-consumption-uk-20092022)
+
+[Smart Grid Research Unit, Chulalongkorn University](https://sgrudata.github.io/)
+
+[Modern-Time-Series-Forecasting-with-Python/scripts/download_data.py at main · PacktPublishing/Modern-Time-Series-Forecasting-with-Python](https://github.com/PacktPublishing/Modern-Time-Series-Forecasting-with-Python/blob/main/scripts/download_data.py)

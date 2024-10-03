@@ -2,7 +2,7 @@
 title: Browser automation
 description: Automates browser, for web scraping and testing
 created: 2017-11-20
-updated: 2023-10-15
+updated: 2024-10-03
 tags:
   - automation
   - web
@@ -10,8 +10,10 @@ tags:
   - web/scraping
 ---
 
-[Web crawler - Wikiwand](https://www.wikiwand.com/en/Web_crawler)
-[Web scraping - Wikiwand](https://www.wikiwand.com/en/Web_scraping)
+> Automating an headless browser is preferred over parsing the downloaded HTML for the browser can execute JavaScript
+
+[Web crawler - Wikiwand](https://omni.wikiwand.com/en/Web_crawler)
+[Web scraping - Wikiwand](https://omni.wikiwand.com/en/Web_scraping)
 
 [lorien/awesome-web-scraping: List of libraries, tools and APIs for web scraping and data processing.](https://github.com/lorien/awesome-web-scraping)
 [BruceDone/awesome-crawler: A collection of awesome web crawler,spider in different languages](https://github.com/BruceDone/awesome-crawler)
@@ -28,12 +30,14 @@ tags:
 [Turn Websites into structured data /Dataflow kit](https://dataflowkit.com/)
 [Knowledge Graph, AI Web Data Extraction and Crawling | Diffbot](https://www.diffbot.com/)
 
-[CSS Selector Capture Pro - Chrome Web Store](https://chrome.google.com/webstore/detail/css-selector-capture-pro/cpnkcffhllafbdbljkmhebnpbnlhapmd)
-[SelectorGadget - Chrome Web Store](https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb)
+[CSS Selector Capture Pro](https://chromewebstore.google.com/detail/css-selector-capture-pro/cpnkcffhllafbdbljkmhebnpbnlhapmd)
+[SelectorGadget](https://chromewebstore.google.com/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb)
 
 [⚙️ Explain Selenium & Webdrivers automation (Like I'm Five) - DEV Community 👩‍💻👨‍💻](https://dev.to/uilicious/explain-selenium-webdrivers-like-i-m-five-16ng)
 [Google Open Source Blog: Introducing WebDriver](http://google-opensource.blogspot.hk/2009/05/introducing-webdriver.html)
 [WebdriverIO · Next-gen WebDriver test framework for Node.js](https://webdriver.io/)
+
+[Browserbase: Headless browsers for AI agents & applications](https://www.browserbase.com/) Browser scraping as a service
 
 task runner for browser tests:
 [testem/testem: Test'em 'Scripts! A test runner that makes Javascript unit testing fun.](https://github.com/testem/testem)
@@ -52,7 +56,7 @@ task runner for browser tests:
 [Learn How to Automate Browser Testing With Selenium WebDriver — Part 1 - DZone DevOps](https://dzone.com/articles/learn-how-to-automate-browser-with-selenium-webdri)
 [Automate 99% of Websites with Selenium 4 and Python | by Frank Andrade | Geek Culture | May, 2022 | Medium](https://medium.com/geekculture/automate-99-of-websites-with-selenium-4-and-python-38122280493c)
 
-[Sahi (software) - Wikiwand](<https://www.wikiwand.com/en/Sahi_(software)>)
+[Sahi (software) - Wikiwand](<https://omni.wikiwand.com/en/Sahi_(software)>)
 [Sahi - Web Automation and Test Tool download | SourceForge.net](https://sourceforge.net/projects/sahi/)
 
 [5 Best Python Frameworks for WebView Testing | Codementor](https://www.codementor.io/saifsadiq1995/5-best-python-frameworks-for-webview-testing-rp182gqxa)
@@ -62,10 +66,12 @@ task runner for browser tests:
 [Robot Framework Introduction](https://www.slideshare.net/pekkaklarck/robot-framework-introduction)
 [QuickStartGuide/QuickStart.rst at master · robotframework/QuickStartGuide](https://github.com/robotframework/QuickStartGuide/blob/master/QuickStart.rst)
 
-## Nightwatch.js
+## Crawlee
 
-[Nightwatch.js | Node.js powered End-to-End testing framework](https://nightwatchjs.org/)
-[nightwatchjs/nightwatch: End-to-end testing framework written in Node.js and using the W3C Webdriver API](https://github.com/nightwatchjs/nightwatch)
+> builds on top of Puppeteer and Playwright
+
+[Crawlee · Build reliable crawlers. Fast.](https://crawlee.dev/)
+[apify/crawlee: Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.](https://github.com/apify/crawlee)
 
 ## Headless Chrome
 
@@ -80,10 +86,18 @@ task runner for browser tests:
 
 ### Puppeteer
 
+> v23 added Firefox support
+
 [Puppeteer | Puppeteer](https://pptr.dev/)
 [API Reference | Puppeteer](https://pptr.dev/api)
 [Puppeteer Guides | Puppeteer](https://pptr.dev/category/guides)
 [Puppeteer - Chrome for Developers](https://developer.chrome.com/docs/puppeteer/)
+
+Bun have problem running post-install script
+
+```sh
+bunx @puppeteer/browsers install chrome@stable --path $HOME/.cache/puppeteer
+```
 
 [puppeteer/puppeteer: Node.js API for Chrome](https://github.com/puppeteer/puppeteer)
 
@@ -150,6 +164,11 @@ page.on("response", (response) => {
   console.log(`[${response.request().resourceType()}] ${response.url()}`);
 });
 ```
+
+## Nightwatch.js
+
+[Nightwatch.js | Node.js powered End-to-End testing framework](https://nightwatchjs.org/)
+[nightwatchjs/nightwatch: End-to-end testing framework written in Node.js and using the W3C Webdriver API](https://github.com/nightwatchjs/nightwatch)
 
 ## Playwright
 
@@ -225,14 +244,35 @@ page.on("response", (response) => {
 [postlight/parser: 📜 Extract meaningful content from the chaos of a web page](https://github.com/postlight/parser)
 
 [cheeriojs/cheerio: Fast, flexible, and lean implementation of core jQuery designed specifically for the server.](https://github.com/cheeriojs/cheerio)
+[cheeriojs/cheerio-select: CSS selector engine supporting jQuery selectors, based on css-select](https://github.com/cheeriojs/cheerio-select)
 
-## Others
+## Go
+
+[antchfx/antch: Antch, a fast, powerful and extensible web crawling & scraping framework for Go](https://github.com/antchfx/antch) 😴inactive
+[antchfx/antch-getstarted](https://github.com/antchfx/antch-getstarted)
 
 [Web Scraping with Go | DevDungeon](https://www.devdungeon.com/content/web-scraping-go)
 [PuerkitoBio/goquery: A little like that j-thing, only in Go.](https://github.com/PuerkitoBio/goquery)
 
-[segmentio/nightmare: A high-level browser automation library.](https://github.com/segmentio/nightmare) uses Electron (Chromium inside)
-[CasperJS, a navigation scripting and testing utility for PhantomJS and SlimerJS](http://casperjs.org/) Webkit/Gecko
+[tech-engine/goscrapy: GoScrapy: Harnessing Go's power for blazingly fast web scraping, inspired by Python's Scrapy framework.](https://github.com/tech-engine/goscrapy)
+
+[antchfx/htmlquery: htmlquery is golang XPath package for HTML query.](https://github.com/antchfx/htmlquery)
+[antchfx/xpath: XPath package for Golang, supports HTML, XML, JSON document query.](https://github.com/antchfx/xpath)
+
+[bitfield/weaver: A simple link checker in Go](https://github.com/bitfield/weaver) rate limiting
+
+## PHP
+
+[PHP: DOMDocument::loadHTML - Manual](https://www.php.net/manual/en/domdocument.loadhtml.php)
+[How to Parse HTML using PHP Native Classes](https://codingreflections.com/php-parse-html/)
+
+[PHP Scraper - An opinionated web-scraping library for PHP](https://phpscraper.de/)
+
+[paquettg/php-html-parser: An HTML DOM parser. It allows you to manipulate HTML. Find tags on an HTML page with selectors just like jQuery.](https://github.com/paquettg/php-html-parser)
+
+[PHP Simple HTML DOM Parser](https://simplehtmldom.sourceforge.io/)
+
+## Ruby
 
 [Capybara](http://teamcapybara.github.io/capybara/) [source](https://github.com/teamcapybara/capybara) Ruby, multiple drivers
 [Capybara and Selenium for Testing and Scraping - via @codeship | via @codeship](https://blog.codeship.com/capybara-selenium-testing/)

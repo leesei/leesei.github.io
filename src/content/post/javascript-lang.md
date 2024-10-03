@@ -2,7 +2,7 @@
 title: JavaScript
 description: ""
 created: 2014-12-11
-updated: 2023-11-12
+updated: 2024-09-04
 tags:
   - comp/lang
   - javascript
@@ -16,7 +16,7 @@ Harmony stands for the ES5+ feature set. Some of them will be in ES6, some of th
 
 [The Complete JavaScript Handbook](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c)
 
-[ECMAScript - Wikiwand](http://www.wikiwand.com/en/ECMAScript)
+[ECMAScript - Wikiwand](http://omni.wikiwand.com/en/ECMAScript)
 [Brendan Eich » Blog Archive » A Brief History of JavaScript](https://brendaneich.com/2010/07/a-brief-history-of-javascript/)
 [A Short History of JavaScript - Web Education Community Group](https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript)
 [DailyJS: History of JavaScript](http://dailyjs.com/history-of-javascript-index/)
@@ -43,6 +43,9 @@ Harmony stands for the ES5+ feature set. Some of them will be in ES6, some of th
 
 [Blog posts tagged “Understanding ECMAScript” · V8](https://v8.dev/blog/tags/understanding-ecmascript) ❗!important
 
+[WinterCG](https://wintercg.org/) spec for JavaScript runtime (especially non-browser ones)
+[Runtime Keys](https://runtime-keys.proposal.wintercg.org/)
+
 ## Learn
 
 [Learn JavaScript: — JavaScript Scene — Medium](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2#.d0alnptar)
@@ -66,7 +69,6 @@ Harmony stands for the ES5+ feature set. Some of them will be in ES6, some of th
 [Douglas Crockford's Javascript](http://javascript.crockford.com/)
 [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/)
 [JS: The Right Way](http://jstherightway.org/)
-[How To Node - NodeJS](http://howtonode.org/) does a great job in explaining concepts
 [A Map to Learn to Code and Become a Software Engineer | Free Code Camp](http://www.freecodecamp.com/map)
 [The 7 Most-Used JavaScript Topics You Should Know – codeburst](https://codeburst.io/the-7-most-used-javascript-topics-you-should-know-bd242aca41a0)
 
@@ -444,11 +446,9 @@ db.allDocs().then(docs =>
 [Analysis of generators and other async patterns in node](http://spion.github.io/posts/analysis-generators-and-other-async-patterns-node.html)
 [ES6 Generators Deliver Go Style Concurrency](http://swannodette.github.io/2013/08/24/es6-generators-and-csp/)
 [ES6 generators in depth](http://www.2ality.com/2015/03/es6-generators.html)
-[Generators: the Gnarly Bits](http://updates.html5rocks.com/2014/10/Generators-the-Gnarly-Bits)
-[Generators vs Fibers - How To Node - NodeJS](http://howtonode.org/generators-vs-fibers)
+[Generators - the gnarly bits  |  Blog  |  Chrome for Developers](https://developer.chrome.com/blog/generators-the-gnarly-bits)
 [How should I format the ECMAScript 6 generator asterisk?](http://www.2ality.com/2014/08/formatting-generator-asterisk.html)
 [Introduction to Generators & Koa.js - Tuts+ Code Tutorials](http://code.tutsplus.com/series/introduction-to-generators-koajs--cms-690)
-[StrongLoop | Generators in Node.js: Common Misconceptions and Three Good Use Cases](https://strongloop.com/strongblog/how-to-generators-node-js-yield-use-cases/)
 [Generators Are Like Arrays](https://gist.github.com/jkrems/04a2b34fb9893e4c2b5c)
 [Real-life Javascript Generators — Developers Writing — Medium](https://medium.com/developers-writing/real-life-javascript-generators-80c810f82c5c#.d8mkrqvvk)
 [Callbacks vs Coroutines — Medium](https://medium.com/@tjholowaychuk/callbacks-vs-coroutines-174f1fe66127)
@@ -522,7 +522,7 @@ String nowAsISO = df.format(new Date());
 [HTML templating with ES6 template strings](http://www.2ality.com/2015/01/template-strings-html.html)
 [Template strings: embedded DSLs in ECMAScript 6](http://www.2ality.com/2011/09/quasi-literals.html)
 [A closer look at Underscore templates](http://www.2ality.com/2012/06/underscore-templates.html)
-[Getting Literal With ES6 Template Strings](http://updates.html5rocks.com/2015/01/ES6-Template-Strings)
+[Getting Literal With ES6 Template Strings  |  Blog  |  Chrome for Developers](https://developer.chrome.com/blog/es6-template-strings)
 
 [zspecza/common-tags: 🔖 Useful template literal tags for dealing with strings in ES2015+](https://github.com/zspecza/common-tags)
 [chrisdickinson/digraph-tag: ES6 string template tag for quickly generating directed graph data](https://github.com/chrisdickinson/digraph-tag)
@@ -589,11 +589,6 @@ Prototypal Inheritance: instances inherit directly from other objects. Instances
 [A closer look at \_.extend and copying properties](http://www.2ality.com/2012/08/underscore-extend.html)
 [2 Reasons Why You Must Understand Delegate Prototypes - DEV Community 👩‍💻👨‍💻](https://dev.to/jsmanifest/2-reasons-why-you-must-understand-delegate-prototypes-221n)
 [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9#.ilfhok12x)
-
-[Learning Javascript with Object Graphs (Part I) - How To Node - NodeJS](http://howtonode.org/object-graphs)
-[Learning Javascript with Object Graphs (Part II) - How To Node - NodeJS](http://howtonode.org/object-graphs-2)
-[Learning Javascript with Object Graphs (Part III) - How To Node - NodeJS](http://howtonode.org/object-graphs-3)
-[Prototypal Inheritance - How To Node - NodeJS](http://howtonode.org/prototypical-inheritance)
 
 [Inheritance and the prototype chain - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 [Prototypal Inheritance](http://javascript.crockford.com/prototypal.html)
@@ -667,21 +662,20 @@ Class Inheritance: instances inherit from classes (like a blueprint — a de
 `class` keyword from ES6 is a syntactic sugar that _simulates class inheritance_. It still add stuffs to the prototype chain under the hood but it encourages wrongful assumptions for developers from other background so is considered harmful.
 
 [Prototypal Object-Oriented Programming using JavaScript · An A List Apart Article](http://alistapart.com/article/prototypal-object-oriented-programming-using-javascript) ❗!important, why mimicking class inheritance is bad
-[Is “Class” In ES6 The New “Bad” Part? — Medium](https://medium.com/@rajaraodv/is-class-in-es6-the-new-bad-part-6c4e6fe1ee65#.gs5tzbzfg)
+[Is “Class” In ES6 The New “Bad” Part? | by rajaraodv | Medium](https://rajaraodv.medium.com/is-class-in-es6-the-new-bad-part-6c4e6fe1ee65#.gs5tzbzfg)
 
+[John Resig - Simple JavaScript Inheritance](https://johnresig.com/blog/simple-javascript-inheritance/)
 [Classical Inheritance in JavaScript](http://javascript.crockford.com/inheritance.html)
 [Classes in ECMAScript 6 (final semantics)](http://www.2ality.com/2015/02/es6-classes-final.html)
 [Simple JavaScript Inheritance: What You Need to Know - Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/simple-javascript-inheritance-what-you-need-to-know--cms-24144)
 [Understanding ECMAScript 6: Class and Inheritance](http://www.sitepoint.com/understanding-ecmascript-6-class-inheritance/)
-[StrongLoop | An Introduction To JavaScript ES6 Classes](https://strongloop.com/strongblog/an-introduction-to-javascript-es6-classes/)
-[Javascript Classes — Under The Hood – tajawal – Medium](https://medium.com/tech-tajawal/javascript-classes-under-the-hood-6b26d2667677)
+[Javascript Classes — Under The Hood](https://talkingtech.io/javascript-classes-under-the-hood/)
 
-[JavaScript Constructor Functions vs Factory Functions](https://ericleads.wordpress.com/2013/01/javascript-constructor-functions-vs-factory-functions/)
+[Stop Using Constructor Functions In JavaScript | Eric Leads](https://ericleads.com/2012/09/stop-using-constructor-functions-in-javascript)
+[JavaScript Constructor Functions vs Factory Functions](https://ericleads.wordpress.com/2013/01/javascript-constructor-functions-vs-factory-functions)
 
-<http://ejohn.org/blog/simple-javascript-inheritance/>
-<http://phrogz.net/JS/classes/OOPinJS.html>
-<http://phrogz.net/JS/classes/OOPinJS2.html>
-<http://metaduck.com/05-dump-this.html>
+[OOP in JS, Part 1 : Public/Private Variables and Methods](http://phrogz.net/JS/classes/OOPinJS.html)
+[OOP in JS, Part 2 : Inheritance](http://phrogz.net/JS/classes/OOPinJS2.html)
 
 ## Zone
 
@@ -746,6 +740,7 @@ Class Inheritance: instances inherit from classes (like a blueprint — a de
 [JavaScript Modules: A Beginner’s Guide — Free Code Camp — Medium](https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.7pic7kx07)
 [An Introduction To JavaScript ES6 Modules | npmawesome.com](http://npmawesome.com/posts/2015-12-01-an-introduction-to-javascript-es6-modules/)
 [JavaScript ‪Module Cheatsheet 📄‬ - DailyJS - Medium](https://medium.com/dailyjs/javascript-module-cheatsheet-7bd474f1d829)
+
 [ES Modules, the JavaScript Module System](https://flaviocopes.com/es-modules/)
 [Exploring JS 16. Modules](https://exploringjs.com/es6/ch_modules.html)
 
@@ -760,7 +755,7 @@ Class Inheritance: instances inherit from classes (like a blueprint — a de
 
 ### ES Modules in Node.js
 
-[[nodejs-notes#ES Modules]]
+[[nodejs-runtime#ES Modules]]
 
 ## Workflow
 
@@ -777,7 +772,7 @@ Class Inheritance: instances inherit from classes (like a blueprint — a de
 
 ## Derivatives
 
-[[scala#Scala.js]]
+[[scala-lang#Scala.js]]
 [[web-assembly#Python in Browser]]
 
 [List of languages that compile to JS · jashkenas/coffeescript Wiki](https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS)
@@ -836,7 +831,12 @@ ReasonML is backed by ReScript which compiles OCaml to JavaScript.
 
 > TODO: digest these articles and put them into the above categories
 > Refer to categorization here:
-> [A guide to 2ality’s posts on the JavaScript language](http://www.2ality.com/2012/08/guide-jslang.html) > [A guide to 2ality’s posts on ECMAScript.next/ECMAScript 6](http://www.2ality.com/2012/11/guide-esnext.html) > [What are your favorite JavaScript ES6 features?](http://www.2ality.com/2015/07/favorite-es6-features.html) > [zloirock/core-js](https://github.com/zloirock/core-js)
+>
+> - [A guide to 2ality’s posts on the JavaScript language](http://www.2ality.com/2012/08/guide-jslang.html)
+> - [A guide to 2ality’s posts on ECMAScript.next/ECMAScript 6](http://www.2ality.com/2012/11/guide-esnext.html)
+> - [What are your favorite JavaScript ES6 features?](http://www.2ality.com/2015/07/favorite-es6-features.html)
+> - [zloirock/core-js](https://github.com/zloirock/core-js)
+>
 > Add these to `commonroom/es6/`
 
 [Better Node with ES6, Pt. I | Scotch](https://scotch.io/tutorials/better-node-with-es6-pt-i) ❗!important
@@ -852,18 +852,13 @@ ReasonML is backed by ReScript which compiles OCaml to JavaScript.
 [lukehoban/es6features: Overview of ECMAScript 6 features](https://github.com/lukehoban/es6features)
 [ES6 Workshop by Kent C. Dodds](http://slides.com/kentcdodds/es6-workshop)
 
-[https://kpdecker.github.io/six-speed/](https://kpdecker.github.io/six-speed/) ES6/ES5 speed comparison
-
-[Make your JavaScript code shine: knockout old ES5 hacks](https://rainsoft.io/make-your-javascript-code-shide-knockout-old-es5-hack/)
-[Make your JavaScript code shine: knockout old ES5 hacks (Part 2)](https://rainsoft.io/make-your-javascript-code-shine-knockout-old-es5-hacks-part-2/)
-
 [ES6 In Depth Articles ✩ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/category/es6-in-depth/)
 [ES6 Overview in 350 Bullet Points - Pony Foo](https://ponyfoo.com/articles/es6)
 [Articles tagged "es6-in-depth" - Pony Foo](http://ponyfoo.com/articles/tagged/es6-in-depth)
 [Learn ES2015 · Babel](https://babeljs.io/docs/learn-es2015/)
 [Tagtree course: Expert ES6](http://tagtree.tv/courses/expert-es6)
-[jQuery UK - EcmaScript 6 - Google Slides](https://docs.google.com/presentation/d/1PvAHvODY_L3AiumgyjNFl4IPr82dq74vJxmMPOeU8uE/edit#slide=id.p)
-[ES6: What are the benefits of the new features in practice? | CodeUtopia](<http://codeutopia.n>## ES6et/blog/2015/01/06/es6-what-are-the-benefits-of-the-new-features-in-practice/)
+[jQuery UK - EcmaScript 6 - Google Slides](https://docs.google.com/presentation/d/1PvAHvODY_L3AiumgyjNFl4IPr82dq74vJxmMPOeU8uE/edit)
+[ES6: What are the benefits of the new features in practice? | CodeUtopia](https://codeutopia.net/blog/2015/01/06/es6-what-are-the-benefits-of-the-new-features-in-practice/)
 [ECMAScript 6 Power Tutorial - Tuts+ Code Tutorials](http://code.tutsplus.com/series/ecmascript-6-power-tutorial--cms-833)
 [Porting your Javascript to ES6 — Lexical Labs Engineering — Medium](https://medium.com/lexical-labs-engineering/porting-your-javsascript-to-es6-d820520e900d)
 [A Quick Tour Of ES6 (the bits you'll actually use)](http://jamesknelson.com/es6-the-bits-youll-actually-use/)
@@ -880,8 +875,7 @@ ReasonML is backed by ReScript which compiles OCaml to JavaScript.
 
 ### features
 
-[ECMAScript 6: New Features: Overview and Comparison](http://es6-features.org/)
-[lukehoban/es6features](https://github.com/lukehoban/es6features#readme)
+[lukehoban/es6features](https://github.com/lukehoban/es6features)
 [sindresorhus/esnext-showcase](https://github.com/sindresorhus/esnext-showcase)
 [hemanth/paws-on-es6](https://github.com/hemanth/paws-on-es6)
 [help.wtf ECMAScript 6 Cheatsheet](http://help.wtf/es6)
@@ -895,6 +889,9 @@ ReasonML is backed by ReScript which compiles OCaml to JavaScript.
 
 [Here are examples of everything new in ECMAScript 2016, 2017, and 2018](https://www.freecodecamp.org/news/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e)
 [ES2021](https://h3manth.com/ES2021/)
+
+[JavaScript — What’s new with ECMAScript® 2024 (ES15) — In Depth Guide | by Igor Komolov | Medium](https://medium.com/@yourfuse/javascript-whats-new-with-ecmascript-2024-es15-ef056d2f4bf1)
+[Top 5 Enhancements in ECMAScript 2024 (ES15) - DEV Community](https://dev.to/vrutikapremani/top-5-enhancements-in-ecmascript-2024-es15-2j9i)
 
 ## JavaScript Enterprise Container (JEC)
 
@@ -979,9 +976,6 @@ const firstMailSentOn = user.addresses?.[0]?.mail?[0]?.sentOn;
 [Private Members in JavaScript](http://www.crockford.com/javascript/private.html)
 [Managing the private data of ES6 classes](http://www.2ality.com/2016/01/private-data-classes.html)
 [Chapter 17. Objects and Inheritance](http://speakingjs.com/es5/ch17.html#private_data_constructor_environment)
-
-// proper inheritance
-<http://metaduck.com/08-module-pattern-inheritance.html>
 
 ## Functions
 

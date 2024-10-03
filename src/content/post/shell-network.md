@@ -2,7 +2,7 @@
 title: Shell Tools (Network)
 description: ""
 created: 2015-09-15
-updated: 2023-10-11
+updated: 2024-01-29
 tags:
   - app
   - iperf
@@ -93,6 +93,8 @@ unicorn scan
 ### `nmap`
 
 [Nmap: the Network Mapper - Free Security Scanner](https://nmap.org/)
+[Chapter 15. Nmap Reference Guide | Nmap Network Scanning](https://nmap.org/book/man.html)
+
 [How To Use Nmap to Scan for Open Ports on your VPS | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-nmap-to-scan-for-open-ports-on-your-vps)
 [What is Nmap? Why you need this network mapper | Network World](https://www.networkworld.com/article/3296740/lan-wan/what-is-nmap-why-you-need-this-network-mapper.html)
 
@@ -127,6 +129,15 @@ nmap -O ${host}
 nmap -p 443 192.168.2.254
 # check TLS ciphers
 nmap -p 443 --script ssl-enum-ciphers ${host}
+```
+
+```
+-A: Enable OS detection, version detection, script scanning, and traceroute
+-O: Enable OS detection
+-sC: equivalent to --script=default
+-sV: Probe open ports to determine service/version info
+-oN/-oX/-oS/-oG <file>: Output scan in normal, XML, s|<rIpt kIddi3,
+                and Grepable format, respectively, to the given filename.
 ```
 
 ### massscan

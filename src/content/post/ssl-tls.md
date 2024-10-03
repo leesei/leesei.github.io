@@ -2,7 +2,7 @@
 title: SSL/TLS
 description: ""
 created: 2015-04-02
-updated: 2023-11-08
+updated: 2024-10-03
 tags:
   - security
   - ssl
@@ -10,10 +10,12 @@ tags:
   - web
 ---
 
-[Transport Layer Security](http://www.wikiwand.com/en/Transport_Layer_Security) (TLS) and its predecessor, [Secure Sockets Layer](https://www.digicert.com/ssl.htm) (SSL), are cryptographic protocols designed to provide communications security over a computer network.
-[Server Name Indication - Wikiwand](https://www.wikiwand.com/en/Server_Name_Indication) used to host multiple sites on the same IP
+[[ssl-tls-free-certs]]
 
-The authentication relied on Certificate Authorities (CA) and a public key infrastructure using [X.509](http://www.wikiwand.com/en/X.509) certificates.
+[Transport Layer Security](http://omni.wikiwand.com/en/Transport_Layer_Security) (TLS) and its predecessor, [Secure Sockets Layer](https://www.digicert.com/ssl.htm) (SSL), are cryptographic protocols designed to provide communications security over a computer network.
+[Server Name Indication - Wikiwand](https://omni.wikiwand.com/en/Server_Name_Indication) used to host multiple sites on the same IP
+
+The authentication relied on Certificate Authorities (CA) and a public key infrastructure using [X.509](http://omni.wikiwand.com/en/X.509) certificates.
 The server register with a CA and sign its public key with the key of CA for a fee. The client, after receiving the public key from server, verifies it with the CA.
 
 [Creating Secure Web Apps: What Every Developer Needs to Know About HTTPS Today | Heroku](https://www.heroku.com/tech-sessions/creating-secure-web-apps)
@@ -37,11 +39,13 @@ The server register with a CA and sign its public key with the key of CA for a f
 [HTTPS: an awesome, secure tale (pt 1) | by Omer Goldberg | Bits and Pieces](https://blog.bitsrc.io/https-an-awesome-secure-tale-pt-1-32d2ba5ac0c1)
 
 [ESNI: A Privacy-Protecting Upgrade to HTTPS | Electronic Frontier Foundation](https://www.eff.org/deeplinks/2018/09/esni-privacy-protecting-upgrade-https)
-[Server Name Indication - Wikiwand](https://www.wikiwand.com/en/Server_Name_Indication) multi-tenant on the same IP
+[Server Name Indication - Wikiwand](https://omni.wikiwand.com/en/Server_Name_Indication) multi-tenant on the same IP
 
-OpenSSL is a toolkit for the TLS and SSL.
+Toolkits:
 
-[[openssl]]
+- [[openssl]]
+- [GmSSL](http://gmssl.org/docs/quickstart.html)
+- [Botan: Crypto and TLS for Modern C++ — Botan](https://botan.randombit.net/)
 
 [HTTPS Is Easy!](https://httpsiseasy.com/)
 [Is TLS Fast Yet?](https://istlsfastyet.com/)
@@ -55,9 +59,7 @@ OpenSSL is a toolkit for the TLS and SSL.
 [How the NSA (may have) put a backdoor in RSA’s cryptography: A technical primer | Ars Technica](http://arstechnica.com/security/2014/01/how-the-nsa-may-have-put-a-backdoor-in-rsas-cryptography-a-technical-primer/)
 [Critics slam SSL authority for minting certificate for impersonating sites | Ars Technica](http://arstechnica.com/business/2012/02/critics-slam-ssl-authority-for-minting-cert-used-to-impersonate-sites/)
 
-obsolete?
-[How to obtain and install an SSL/TLS certificate, for free | Ars Technica](http://arstechnica.com/security/2009/12/how-to-get-set-with-a-secure-sertificate-for-free/)
-[Web served, part 2: Securing things with SSL/TLS | Ars Technica](http://arstechnica.com/information-technology/2012/11/securing-your-web-server-with-ssltls/#p4)
+[Web served, part 2: Securing things with SSL/TLS | Ars Technica](http://arstechnica.com/information-technology/2012/11/securing-your-web-server-with-ssltls/)
 
 [BetterCrypto⋅org](https://bettercrypto.org/)
 [Cipherli.st - Strong Ciphers for Apache, nginx and Lighttpd](https://cipherli.st/)
@@ -65,12 +67,10 @@ obsolete?
 
 [Deploying HTTPS: The Green Lock and Beyond (Chrome Dev Summit 2015) - YouTube](https://www.youtube.com/watch?v=9WuP4KcDBpI)
 [Mythbusting HTTPS: Squashing security’s urban legends - Google I/O 2016 - YouTube](https://www.youtube.com/watch?v=YMfW1bfyGSY)
-[Roland Bracewell Shoemaker: Let's Encrypt -- What launching a free CA looks like - YouTube](https://www.youtube.com/watch?v=g2_wbp5vxNs)
-[Let's Encrypt with J.C. Jones - YouTube](https://www.youtube.com/watch?v=S7CIHwrroec)
 
 ## HSTS
 
-[HTTP Strict Transport Security - Wikiwand](http://www.wikiwand.com/en/HTTP_Strict_Transport_Security): always use HTTPS
+[HTTP Strict Transport Security - Wikiwand](http://omni.wikiwand.com/en/HTTP_Strict_Transport_Security): always use HTTPS
 [HSTS Preload List Submission](https://hstspreload.appspot.com/)
 
 ## Mutual TLS/mTLS
@@ -80,11 +80,25 @@ obsolete?
 
 [The Cloudflare mTLS vulnerability - A Deep Dive Analysis - YouTube](https://www.youtube.com/watch?v=xsLqf1Qomn0)
 
+## Revocation
+
+[Online Certificate Status Protocol vs Certificate Revocation Lists](https://www.encryptionconsulting.com/ocsp-vs-crl/#:~:text=OCSP%20can%20be%20used%20to,link%20or%20an%20LDAP%20server.)
+
+[Certificate revocation list - Wikiwand](https://omni.wikiwand.com/en/Certificate_revocation_list) CRL
+
+[RFC 6960 - X.509 Internet Public Key Infrastructure Online Certificate Status Protocol - OCSP](https://datatracker.ietf.org/doc/html/rfc6960)
+[Online Certificate Status Protocol - Wikiwand](https://omni.wikiwand.com/en/Online_Certificate_Status_Protocol) alternative to CRL, less data, response of status of a particular cert signed by CA
+
+[Chrome does certificate revocation better | ZDNET](https://www.zdnet.com/article/chrome-does-certificate-revocation-better/)
+Chrome don't use OSCP
+
 ## SSL checkers
 
 [Best SSL Testing Tools for your Website - Grace Themes](https://gracethemes.com/best-ssl-testing-tools-for-your-website/amp/)
 [Online Tool to Test SSL, TLS and Latest Vulnerability - Geekflare](https://geekflare.com/ssl-test-certificate/)
 
+[/bin/bash based SSL/TLS tester: testssl.sh](https://testssl.sh/) offline tool
+[crt.sh | Certificate Search](https://crt.sh/)
 [Qualys SSL Labs](https://www.ssllabs.com/)
 [Free SSL Checker Tool - Check SSL Certificate](https://www.thesslstore.com/ssltools/ssl-checker.php)
 [SSL Certificate Checker - Diagnostic Tool | DigiCert.com](https://www.digicert.com/help/)
@@ -93,6 +107,8 @@ obsolete?
 
 [trimstray/htrace.sh: My simple Swiss Army knife for http/https troubleshooting and profiling.](https://github.com/trimstray/htrace.sh)
 
+[Welcome to pyca/cryptography — Cryptography documentation](https://cryptography.io/en/latest/)
+
 [sslyze | Kali Linux Tools](https://www.kali.org/tools/sslyze/)
 [nabla-c0d3/sslyze: Fast and powerful SSL/TLS scanning library.](https://github.com/nabla-c0d3/sslyze)
 
@@ -100,7 +116,20 @@ obsolete?
 
 [Monsters in the Middleboxes: Introducing Two New Tools for Detecting HTTPS Interception](https://blog.cloudflare.com/monsters-in-the-middleboxes/amp/)
 
+[mitmproxy - an interactive HTTPS proxy](https://mitmproxy.org/)
+[mitmproxy - Introduction](https://docs.mitmproxy.org/stable/)
+[mitmproxy/mitmproxy: An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.](https://github.com/mitmproxy/mitmproxy)
 [How to Man in the Middle HTTPS Using mitmproxy - Earthly Blog](https://earthly.dev/blog/mitmproxy/)
+
+[c2FmZQ/tlsproxy: A simple TLS proxy, Reverse proxy, and Web server that uses Let's Encrypt automatically.](https://github.com/c2FmZQ/tlsproxy)
+
+[PolarProxy TLS proxy](https://www.netresec.com/?page=PolarProxy) decrypt up to 10 GB of data or 10 000 TLS sessions per day
+
+[Intercept, debug & mock HTTP with HTTP Toolkit](https://httptoolkit.com/)
+[HTTP Toolkit](https://github.com/httptoolkit)
+
+[Fiddler Everywhere | Debugging Proxy for Mac, Linux, Windows](https://www.telerik.com/fiddler/fiddler-everywhere) forward TLS proxy, paid
+[Charles Web Debugging Proxy • HTTP Monitor / HTTP Proxy / HTTPS & SSL Proxy / Reverse Proxy](https://www.charlesproxy.com/) forward TLS proxy, paid
 
 [HTTPS/TLS Proxy | NetworkAcademy.io](https://www.networkacademy.io/ccie-enterprise/sdwan/https-tls-proxy)
 [What is a TLS Proxy? Definition & FAQs | Avi Networks](https://avinetworks.com/glossary/tls-proxy/)
@@ -151,140 +180,12 @@ As it turns out, CA may not be trust-worthy after all. There are many instances 
 
 ## Localhost certs
 
-[FiloSottile/mkcert: A simple zero-config tool to make locally-trusted development certificates with any names you'd like.](https://github.com/FiloSottile/mkcert)
+[FiloSottile/mkcert: A simple zero-config tool to make locally-trusted development certificates with any names you'd like.](https://github.com/FiloSottile/mkcert) add local CA to system
 [Why and How to Use HTTPS in Your Local Development Environment](https://auth0.com/blog/using-https-in-your-development-environment/)
 
-## Free SSL Certs
+## Free SSL/TLS Certs
 
-[SSL For Free - Free SSL Certificates in Minutes](https://www.sslforfree.com/)
-[Let's Encrypt](https://letsencrypt.org/)
-
-[How To Get A Trusted SSL Certificate for FREE (Works 2020) - YouTube](https://www.youtube.com/watch?v=K90RxdQp9OE)
-[How to Install Free SSL From Let’s Encrypt on Shared Hosting](https://www.hostinger.com/tutorials/ssl/how-to-install-free-ssl-from-lets-encypt-on-shared-hosting)
-
-### Let's Encrypt
-
-[Let's Encrypt](https://letsencrypt.org/)
-[How It Works](https://letsencrypt.org/howitworks/)
-[Technology](https://letsencrypt.org/howitworks/technology/)
-[letsencrypt](https://github.com/letsencrypt/)
-
-[Let's Debug](https://letsdebug.net/)
-[Let's Encrypt Status](https://letsencrypt.status.io/)
-
-[The CA's Role in Fighting Phishing and Malware - Let's Encrypt - Free SSL/TLS Certificates](https://letsencrypt.org/2015/10/29/phishing-and-malware.html)
-
-[Automatic HTTPS — Caddy Documentation](https://caddyserver.com/docs/automatic-https#acme-challenges)
-
-[Rate Limits - Let's Encrypt - Free SSL/TLS Certificates](https://letsencrypt.org/docs/rate-limits/)
-[Staging Environment - Let's Encrypt - Free SSL/TLS Certificates](https://letsencrypt.org/docs/staging-environment/)
-`https://acme-staging-v02.api.letsencrypt.org/directory`
-
-[The Changelog #243: Let's Encrypt the Web with Jacob Hoffman-Andrews | Changelog](https://changelog.com/podcast/243)
-
-[Let's Encrypt Demo - YouTube](https://www.youtube.com/watch?v=Gas_sSB-5SU)
-[Let’s Encrypt Your Docker Dan’s Trial & Errno](https://blog.danivovich.com/2016/01/28/lets-encrypt-your-docker/)
-[Docker, Nginx & Letsencrypt: Easy & Secure Reverse Proxy](https://medium.com/@ksiig/docker-nginx-letsencrypt-easy-secure-reverse-proxy-40165ba3aee2)
-[How to setup your website for that sweet, sweet HTTPS with Docker, Nginx, and letsencrypt](https://www.freecodecamp.org/news/docker-compose-nginx-and-letsencrypt-setting-up-website-to-do-all-the-things-for-that-https-7cb0bf774b7e)
-[SSL with Docker Swarm, Let's Encrypt and Nginx](https://finnian.io/blog/ssl-with-docker-swarm-lets-encrypt-and-nginx/)
-[Nginx and Let’s Encrypt with Docker in Less Than 5 Minutes](https://medium.com/@pentacent/nginx-and-lets-encrypt-with-docker-in-less-than-5-minutes-b4b8a60d3a71)
-[How To Secure a Containerized Node Application with Let's Encrypt | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-secure-a-containerized-node-js-application-with-nginx-let-s-encrypt-and-docker-compose)
-[Enabling HTTPS with Let's Encrypt on Docker - BROS - Medium](https://medium.com/bros/enabling-https-with-lets-encrypt-over-docker-9cad06bdb82b)
-[Generate free SSL certificates with Docker and LetsEncrypt | Tit Petrič](https://scene-si.org/2016/01/23/generate-free-ssl-certificates-with-docker-and-letsencrypt/)
-[How to Set Up Free SSL Certificates from Let's Encrypt using Docker and Nginx](https://www.humankode.com/ssl/how-to-set-up-free-ssl-certificates-from-lets-encrypt-using-docker-and-nginx)
-
-[certbot-docker/certbot-docker: Source files for Certbot's Docker images](https://github.com/certbot-docker/certbot-docker)
-[JrCs/docker-letsencrypt-nginx-proxy-companion: LetsEncrypt companion container for nginx-proxy](https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion)
-[linuxserver/docker-letsencrypt](https://github.com/linuxserver/docker-letsencrypt)
-[staticfloat/docker-nginx-certbot: Create and renew website certificates using the Letsencrypt free certificate authority.](https://github.com/staticfloat/docker-nginx-certbot)
-
-[Two domains on one droplet with one SSL certificate | DigitalOcean](https://www.digitalocean.com/community/questions/two-domains-on-one-droplet-with-one-ssl-certificate)
-[How To Secure Nginx with Let's Encrypt on Ubuntu 16.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-16-04)
-
-[Let's Encrypt with HAProxy](https://coolaj86.com/articles/lets-encrypt-with-haproxy/)
-[Let's Encrypt on Raspberry Pi](https://coolaj86.com/articles/lets-encrypt-on-raspberry-pi/)
-[adventures in haproxy: tcp, tls, https, ssh, openvpn](https://coolaj86.com/articles/adventures-in-haproxy-tcp-tls-https-ssh-openvpn/)
-[Setting up HTTPS on Nginx using Let’s Encrypt – Frederik Banke – Medium](https://medium.com/@frederikbanke/setting-up-https-on-nginx-using-lets-encrypt-b5eb78cd689d) with Docker and certbot
-[How to configure Nginx with free Let’s Encrypt SSL certificate on Debian or Ubuntu Linux](http://www.cyberciti.biz/faq/how-to-configure-nginx-with-free-lets-encrypt-ssl-certificate-on-debian-or-ubuntu-linux/)
-
-## Clients
-
-> integrating Let's Encrypt client into a private DNS server is cool
-
-[ACME Client Implementations - Let's Encrypt](https://letsencrypt.org/docs/client-options/)
-
-[Certbot](https://certbot.eff.org/) [docs](https://certbot.eff.org/docs/) previously `letsencrypt`/`letsencrypt-auto`
-[User Guide — Certbot.documentation](https://certbot.eff.org/docs/using.html)
-[如何免费的让网站启用 HTTPS | | 酷 壳 - CoolShell](https://coolshell.cn/articles/18094.html)
-[Complete guide to configure SSL on Nginx with Let's Encrypt (Ubuntu/Centos/RHEL) - LinuxTechLab](https://linuxtechlab.com/complete-guide-to-configure-ssl-on-nginx-with-lets-encrypt-ubuntu-centos-rhel/)
-
-[diafygi/acme-tiny: A tiny script to issue and renew TLS certs from Let's Encrypt](https://github.com/diafygi/acme-tiny)
-
-[xenolf/lego: Let's Encrypt client and ACME library written in Go](https://github.com/xenolf/lego) Used in Caddy
-
-[Daplie/node-letsencrypt: letsencrypt for node.js](https://github.com/Daplie/node-letsencrypt)
-[DylanPiercey/auto-sni: Free, automated HTTPS for NodeJS made easy.](https://github.com/DylanPiercey/auto-sni)
-
-### acme-client
-
-[kelunik/acme-client: Let's Encrypt / ACME client written in PHP for the CLI.](https://github.com/kelunik/acme-client)
-
-[Enabling free SSL on Hostinger shared hosting | Kenrick's Notes](https://blog.kenrick95.org/2016/07/enabling-free-ssl-on-hostinger-shared-hosting/)
-[iamshreeram/php-ssl-installer: Installing SSL certificate in hostinger](https://github.com/iamshreeram/php-ssl-installer)
-
-```sh
-php bin/acme issue --domains [colon-separated domain names] --path [colon-separated full path to domain root]
-```
-
-### acme.sh
-
-[acmesh-official/acme.sh: A pure Unix shell script implementing ACME client protocol](https://github.com/acmesh-official/acme.sh)
-[LetsEncrypt SSL cert on GoDaddy Shared Hosting with No Root and No nc](https://tryingtobeawesome.com/encryptdaddy/) `--deploy`, then add cron jobs
-
-```sh
-acme.sh --issue -d $DOMAIN -w /home/wwwroot/$DOMAIN
-# acme.sh --deploy -d example.com --deploy-hook cpanel_uapi
-~/.acme.sh/$DOMAIN/$DOMAIN.cer  # cert
-~/.acme.sh/$DOMAIN/$DOMAIN.key  # private key
-```
-
-```sh
-~/.acme.sh/acme.sh --cron --home ~/.acme.sh --force 2>&1 >> ~/.acme.sh/cronlog.txt
-```
-
-### Cloudflare
-
-[How to Get a FREE SSL Certificate with Hostinger - YouTube](https://www.youtube.com/watch?v=gsELqvQfAyM)
-
-- create Cloudflare account
-- point to a domain with records
-- enable Let's Encrypt
-
-CloudFlare Protection on Hostinger
-For 1 CloudFlare Protection plan, you can only use it for 1 website/domain and all its subdomains as long as the domain/website is pointed to us.
-We use Cloudflare’s free plan here at Hostinger. It does provide you with these features:
-
-- DDoS attack mitigation
-- Global Content Delivery Network (CDN)
-
-The main differences between using Cloudflare with Hostinger directly with and Cloudflare.com are:
-
-- DNS zone can be fully managed from Hostinger side – so you don’t need to worry about updating DNS Records in different places: all of your domain’s DNS management will be in one place
-- All main setting of Cloudflare can be found in hPanel – so changing security level will only take a few clicks
-- One time activation fee – and Cloudflare will secure your domain and all of your subdomains as long as your domain is hosted with us 💜
-
-### SSL for Free
-
-[SSL For Free - Free SSL Certificates in Minutes](https://www.sslforfree.com/)
-
-### Heroku
-
-[Announcing Heroku Free SSL Beta and Flexible Dyno Hours | Heroku](https://blog.heroku.com/archives/2016/5/18/announcing_heroku_free_ssl_beta_and_flexible_dyno_hours)
-[Let's Encrypt and Heroku [Solved] - Server - Let's Encrypt Community Support](https://community.letsencrypt.org/t/lets-encrypt-and-heroku-solved/4272/18)
-[Let's Encrypt with a Rails app on Heroku // Collective Idea | Crafting web and mobile software based in Holland, Michigan](http://collectiveidea.com/blog/archives/2016/01/12/lets-encrypt-with-a-rails-app-on-heroku/)
-[Use Let’s Encrypt TLS certificate on Heroku — Sikachu’s Blog — Medium](https://sikac.hu/use-let-s-encrypt-tls-certificate-on-heroku-65f853870d90#.ut542pcuk)
-[SSL Endpoint | Heroku Dev Center](https://devcenter.heroku.com/articles/ssl-endpoint)
-[Set up CloudFlare's free SSL on Heroku](https://robots.thoughtbot.com/set-up-cloudflare-free-ssl-on-heroku)
+[[ssl-tls-free-certs]]
 
 ## Standards
 
