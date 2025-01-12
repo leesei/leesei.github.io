@@ -2,7 +2,7 @@
 title: Glass
 description: ""
 created: 2019-08-25
-updated: 2024-05-03
+updated: 2025-01-09
 tags:
   - glass
   - trivia
@@ -14,5 +14,8 @@ tags:
 [The Glass Age, Part 2: Strong, Durable Glass - YouTube](https://www.youtube.com/watch?v=13B5K_lAabw)
 
 [Why the Heck Is Glass Transparent? - YouTube](https://www.youtube.com/watch?v=FnDP1sjKGfU)
+[【毕导】这是科学史上最难理解的悖论 #科普 #冷知识 #悖论 - YouTube](https://www.youtube.com/watch?v=bLDnoOp79Os)
 
-[How Communists Made Unbreakable Glass - YouTube](https://www.youtube.com/watch?v=vEvBpjCOBu0)
+[Is Glass a Liquid? - YouTube](https://www.youtube.com/watch?v=c6wuh0NRG1s)
+[The Quest To Make Unbreakable Glass - YouTube](https://www.youtube.com/watch?v=2oDXbFcHliM)
+[How Communists Made Unbreakable Glass - YouTube](https://www.youtube.com/watch?v=vEvBpjCOBu0) it violates planned obsolescence,

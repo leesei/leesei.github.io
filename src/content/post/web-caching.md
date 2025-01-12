@@ -2,7 +2,7 @@
 title: Web Caching
 description: ""
 created: 2016-01-26
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - cache
   - dev/deploy
@@ -18,7 +18,7 @@ tags:
 
 ## Memcached
 
-[Memcached - Wikiwand](https://omni.wikiwand.com/en/Memcached)
+[Memcached - Wikiwand](https://www.wikiwand.com/en/Memcached)
 [memcached - a distributed memory object caching system](http://www.memcached.org/)
 [Module ngx_http_memcached_module](http://nginx.org/en/docs/http/ngx_http_memcached_module.html)
 [bpaquet/ngx_http_enhanced_memcached_module](https://github.com/bpaquet/ngx_http_enhanced_memcached_module)

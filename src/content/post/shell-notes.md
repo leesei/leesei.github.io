@@ -2,7 +2,7 @@
 title: Shell notes
 description: ""
 created: 2014-12-08
-updated: 2024-09-24
+updated: 2025-01-09
 tags:
   - linux
   - shell
@@ -127,6 +127,17 @@ Honorable mentions:
 [ajmalsiddiqui/autodot: A dotfile management system that makes sharing your dotfiles easy while keeping you in the loop.](https://github.com/ajmalsiddiqui/utodot)
 [RCM(7)](https://thoughtbot.github.io/rcm/)
 
+[TechDufus/dotfiles: Fully automated development environment for TechDufus using ansible.](https://github.com/techdufus/dotfiles)
+[Automating your Dotfiles with Ansible: A Showcase - YouTube](https://www.youtube.com/watch?v=hPPIScBt4Gw)
+
+### dotfiler
+
+[svetlyak40wt/dotfiler: Shell agnostic git based dotfiles package manager, written in Python.](https://github.com/svetlyak40wt/dotfiler)
+put your dotfiles into environments, each mirroring files/folder in your `~/`
+environments allow you to separate your configs into app-specific folders
+`dotfiler` supports common folder in different environments by creating the common folder and symlinking each file from the environments
+multiple repos can be used to merge common and machine-specific configs
+
 ### chezmoi
 
 [Home | chezmoi.io](https://www.chezmoi.io/) also manage default apps with `run_once_*`
@@ -139,18 +150,6 @@ Honorable mentions:
 
 [jukben/gbck: 🗳 Intuitive lightweight tool for an easy and seamless backup of your files into Git repository](https://github.com/jukben/gbck)
 [gbck— an easy way how to back up your dotfiles – Jakub Beneš – Medium](https://medium.com/@jukben/gbck-an-easy-way-how-to-back-up-your-dotfiles-2a9bf44ab622)
-
-### dotfiler
-
-[svetlyak40wt/dotfiler: Shell agnostic git based dotfiles package manager, written in Python.](https://github.com/svetlyak40wt/dotfiler)
-put your dotfiles into environments, each mirroring files/folder in your `~/`
-environments allow you to separate your configs into app-specific folders
-`dotfiler` supports common folder in different environments by creating the common folder and symlinking each file from the environments
-multiple repos can be used to merge common and machine-specific configs
-
-```sh
-git clone https://github.com/svetlyak40wt/dotfiler ~/.dotfiles
-```
 
 ### Stow
 
@@ -196,7 +195,7 @@ fi
 
 ## Environment variable
 
-[Environment variable - Wikiwand](http://omni.wikiwand.com/en/Environment_variable)
+[Environment variable - Wikiwand](http://www.wikiwand.com/en/Environment_variable)
 [Environment variables - ArchWiki](https://wiki.archlinux.org/title/Environment_variables)
 
 ## Frameworks

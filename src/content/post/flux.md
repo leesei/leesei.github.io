@@ -2,7 +2,7 @@
 title: Flux
 description: ""
 created: 2015-12-04
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - flux
   - javascript

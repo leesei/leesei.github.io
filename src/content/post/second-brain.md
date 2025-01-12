@@ -2,13 +2,13 @@
 title: Second Brain
 description: ""
 created: 2023-01-13
-updated: 2024-09-21
+updated: 2025-01-09
 tags:
   - learning
 featured: true
 ---
 
-[Personal knowledge management - Wikiwand](https://omni.wikiwand.com/en/Personal_knowledge_management)
+[Personal knowledge management - Wikiwand](https://www.wikiwand.com/en/Personal_knowledge_management)
 [Personal Knowledge Management (PKM)](https://www.nozdrenkov.com/pkm/)
 [🌱 My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden)
 [My Knowledge Wiki 🌿 | Everything I Know](https://wiki.nikiv.dev/)
@@ -61,7 +61,7 @@ I use graph view and use scripts to analyze the frontmatters
 
 ### Zettelkasten
 
-[Zettelkasten - Wikiwand](https://omni.wikiwand.com/en/Zettelkasten)
+[Zettelkasten - Wikiwand](https://www.wikiwand.com/en/Zettelkasten)
 [Getting Started • Zettelkasten Method](https://zettelkasten.de/posts/overview/)
 [A Beginner’s Guide to the Zettelkasten Method | Zenkit](https://zenkit.com/en/blog/a-beginners-guide-to-the-zettelkasten-method/)
 [How to make atomic literature notes using the Zettelkasten method](https://meda.io/how-to-make-atomic-literature-notes/)
@@ -117,7 +117,7 @@ PARA: Projects（專案）、Areas（領域）、Resources（資源）、Archive
 
 [Knowledge Graphs - Computerphile - YouTube](https://www.youtube.com/watch?v=PZBm7M0HGzw)
 
-[Google Knowledge Graph - Wikiwand](https://omni.wikiwand.com/en/Google_Knowledge_Graph)
+[Google Knowledge Graph - Wikiwand](https://www.wikiwand.com/en/Google_Knowledge_Graph)
 [How Google's Knowledge Graph works - Knowledge Panel Help](https://support.google.com/knowledgepanel/answer/9787176?hl=en)
 [Google Knowledge Graph Search API | Google for Developers](https://developers.google.com/knowledge-graph)
 
@@ -212,6 +212,7 @@ Some thoughts are on general methodology
 ## Logseq
 
 [Logseq: A privacy-first, open-source knowledge base](https://logseq.com/)
+[This Free Knowledge Base Tool Organizes My Thoughts Better Than Notion and Obsidian](https://www.makeuseof.com/logseq-organizes-notes-better-than-notion-and-obsidian/)
 
 ## VSCode
 

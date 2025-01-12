@@ -2,7 +2,7 @@
 title: Network
 description: ""
 created: 2016-04-24
-updated: 2024-09-29
+updated: 2025-01-09
 tags:
   - anycast
   - comp/network
@@ -25,12 +25,14 @@ tags:
 
 ## OSI Model
 
-[OSI model - Wikiwand](https://omni.wikiwand.com/en/OSI_model)
+[OSI model - Wikiwand](https://www.wikiwand.com/en/OSI_model)
 [The OSI model explained: How to understand (and remember) the 7 layer network model | Network World](https://www.networkworld.com/article/3239677/lan-wan/the-osi-model-explained-how-to-understand-and-remember-the-7-layer-network-model.html)
 [The OSI Model – The 7 Layers of Networking Explained in Plain English](https://www.freecodecamp.org/news/osi-model-networking-layers-explained-in-plain-english/)
 
 [What Is Layer-2 and Why Do We Need It? « ipSpace.net by @ioshints](http://blog.ipspace.net/2015/04/what-is-layer-2-and-why-do-we-need-it.html)
 [IP addresses & routing - Julia Evans](https://jvns.ca/blog/2018/07/24/ip-addresses-routing/)
+
+[VXLAN Mikrotik - RouterOS v7 - YouTube](https://www.youtube.com/watch?v=Ia1YWqgwXRI) Layer 2 over Layer 3 network
 
 [Bridging and Routing: is there a difference? « ipSpace.net by @ioshints](http://blog.ipspace.net/2010/07/bridging-and-routing-is-there.html)
 [Bridging and Routing, Part II « ipSpace.net by @ioshints](http://blog.ipspace.net/2010/07/bridging-and-routing-part-ii.html)
@@ -68,8 +70,8 @@ tags:
 
 [你根本不懂网线！双绞线 超五类 Cat5e 六类 Cat6 七类 Cat7 八类 Cat8.1 看这一期就够了哦～ - YouTube](https://www.youtube.com/watch?v=E3whld0N3d8)
 
-[Category 5 cable - Wikiwand](https://omni.wikiwand.com/en/Category_5_cable)
-[Category 6 cable - Wikiwand](https://omni.wikiwand.com/en/Category_6_cable)
+[Category 5 cable - Wikiwand](https://www.wikiwand.com/en/Category_5_cable)
+[Category 6 cable - Wikiwand](https://www.wikiwand.com/en/Category_6_cable)
 
 [拉 Cat.6A 網路線｜網路線有什麼差別?｜簡易測試 WiFi6 速度居然差這麼多!!｜ 10Gbps 區網【水電爸爸】 - YouTube](https://www.youtube.com/watch?v=sUbcXGAuaXQ)
 [Cat 6 vs Cat 7. What is the difference - YouTube](https://www.youtube.com/watch?v=f2bILsfu8NM)
@@ -89,10 +91,10 @@ Cat7 has double shielding to prevent RF interference and crosstalk
 
 ## IP and Subnet
 
-[IPv4 - Wikiwand](https://omni.wikiwand.com/en/IPv4)
-IPv4 address are written in [dot-decimal notation](https://omni.wikiwand.com/en/Dot-decimal_notation): `192.0.2.128`
+[IPv4 - Wikiwand](https://www.wikiwand.com/en/IPv4)
+IPv4 address are written in [dot-decimal notation](https://www.wikiwand.com/en/Dot-decimal_notation): `192.0.2.128`
 
-[IPv6 - Wikiwand](https://omni.wikiwand.com/en/IPv6) [IPv6 address - Wikiwand](https://omni.wikiwand.com/en/IPv6_address#/Special_addresses) IPv4-mapped IPv6 address:`::ffff:192.0.2.128`or`::ffff:c000:0280`
+[IPv6 - Wikiwand](https://www.wikiwand.com/en/IPv6) [IPv6 address - Wikiwand](https://www.wikiwand.com/en/IPv6_address#/Special_addresses) IPv4-mapped IPv6 address:`::ffff:192.0.2.128`or`::ffff:c000:0280`
 [wojtekka/6tunnel: Tunnelling for application that don't speak IPv6](https://github.com/wojtekka/6tunnel)
 [DS-Lite – IPv4 over IPv6 and NAT | Citrix Blogs](https://www.citrix.com/blogs/2012/03/22/ds-lite-%E2%80%93-ipv4-over-ipv6-and-nat/)
 
@@ -101,12 +103,12 @@ IPv4 address are written in [dot-decimal notation](https://omni.wikiwand.com/en/
 [cheat-sheets/ipv6.md at main · onemarcfifty/cheat-sheets](https://github.com/onemarcfifty/cheat-sheets/blob/main/networking/ipv6.md)
 
 [RFC 1918 - Address Allocation for Private Internets](https://tools.ietf.org/html/rfc1918)
-[Reserved IP addresses - Wikiwand](https://omni.wikiwand.com/en/Reserved_IP_addresses)
+[Reserved IP addresses - Wikiwand](https://www.wikiwand.com/en/Reserved_IP_addresses)
 Private IP: not used for routing in internet, use behind NAT
 Loopback IP: managed by OS, virtual network interface
 Link-local: in absence of DHCP or static address, not routing
 
-[Classful network - Wikiwand](https://omni.wikiwand.com/en/Classful_network)
+[Classful network - Wikiwand](https://www.wikiwand.com/en/Classful_network)
 [ExamPointers.com - Online IPv4 Subnet Mask Calculator](http://ccna.exampointers.com/subnet.phtml)
 [CIDR Utility Tool | IP Address Guide](http://www.ipaddressguide.com/cidr)
 [mhausenblas/cidrchk: CLI tool for CIDR range operations (check, generate)](https://github.com/mhausenblas/cidrchk)
@@ -114,7 +116,7 @@ Link-local: in absence of DHCP or static address, not routing
 [ipcalc · PyPI](https://pypi.org/project/ipcalc/)
 
 [RFC 4632 - Classless Inter-domain Routing (CIDR): The Internet Address Assignment and Aggregation Plan](https://tools.ietf.org/html/rfc4632)
-[Classless Inter-Domain Routing - Wikiwand](https://omni.wikiwand.com/en/Classless_Inter-Domain_Routing)
+[Classless Inter-Domain Routing - Wikiwand](https://www.wikiwand.com/en/Classless_Inter-Domain_Routing)
 [What is CIDR Notation?](http://whatismyipaddress.com/cidr)
 [What is CIDR (Classless Inter-Domain Routing or supernetting)? - Definition from WhatIs.com](http://searchnetworking.techtarget.com/definition/CIDR)
 
@@ -139,6 +141,11 @@ Link-local: in absence of DHCP or static address, not routing
 [How DHCP Works // DHCP EXPLAINED - YouTube](https://www.youtube.com/watch?v=Cy0M54GSpBg)
 
 ## Routing
+
+[What is Routing, Dynamic Routing Protocols and OSPF?? - YouTube](https://www.youtube.com/watch?v=f9FDNCTFfeY)
+
+[Dynamic Routing using OSPF - YouTube](https://www.youtube.com/watch?v=N_K1ROvqMMA)
+[Dynamic routing | FortiGate / FortiOS 6.0.0 | Fortinet Document Library](https://docs.fortinet.com/document/fortigate/6.0.0/handbook/73754/dynamic-routing)
 
 [Why was Facebook down for five hours? - YouTube](https://www.youtube.com/watch?v=-wMU8vmfaYo) DNS, BGP
 [What is BGP? | BGP routing explained | Cloudflare](https://www.cloudflare.com/learning/security/glossary/what-is-bgp/)
@@ -182,13 +189,13 @@ cat /etc/iptables/iptables.rules
 
 ## Netlink
 
-[Netlink - Wikiwand](https://omni.wikiwand.com/en/Netlink)
+[Netlink - Wikiwand](https://www.wikiwand.com/en/Netlink)
 [Introduction to Netlink — The Linux Kernel documentation](https://www.kernel.org/doc/html/next/userspace-api/netlink/intro.html)
 
 ## TCP
 
 [How TCP Sockets Work](https://eklitzke.org/how-tcp-sockets-work)
-[Nagle's algorithm - Wikiwand](https://omni.wikiwand.com/en/Nagle%27s_algorithm)
+[Nagle's algorithm - Wikiwand](https://www.wikiwand.com/en/Nagle%27s_algorithm)
 
 Chris Greer
 [How TCP Works - YouTube](https://www.youtube.com/playlist?list=PLW8bTPfXNGdAZIKv-y9v_XLXtEqrPtntm)
@@ -239,7 +246,7 @@ Chris Greer
 
 > or "Addressing methods"?
 
-[Anycast - Wikiwand](https://omni.wikiwand.com/en/Anycast)
+[Anycast - Wikiwand](https://www.wikiwand.com/en/Anycast)
 [A Brief Primer on Anycast](https://blog.cloudflare.com/a-brief-anycast-primer/)
 [Load Balancing without Load Balancers](https://blog.cloudflare.com/cloudflares-architecture-eliminating-single-p/)
 [What is Anycast and How it works](http://www.slashroot.in/what-anycast-and-how-it-works)
@@ -252,10 +259,10 @@ Chris Greer
 
 InfiBand
 Fabrics: A local-area RDMA network is usually referred to as a fabric.
-[RDMA over Converged Ethernet - Wikiwand](https://omni.wikiwand.com/en/RDMA_over_Converged_Ethernet) RoCE, replaces
-[基於融合以太網的 RDMA - Wikiwand](https://omni.wikiwand.com/zh-hk/%E5%9F%BA%E4%BA%8E%E8%9E%8D%E5%90%88%E4%BB%A5%E5%A4%AA%E7%BD%91%E7%9A%84RDMA)
-[Remote direct memory access - Wikiwand](https://omni.wikiwand.com/en/Remote_direct_memory_access)
-[远程直接内存访问 - Wikiwand](https://omni.wikiwand.com/zh/%E8%BF%9C%E7%A8%8B%E7%9B%B4%E6%8E%A5%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE)
+[RDMA over Converged Ethernet - Wikiwand](https://www.wikiwand.com/en/RDMA_over_Converged_Ethernet) RoCE, replaces
+[基於融合以太網的 RDMA - Wikiwand](https://www.wikiwand.com/zh-hk/%E5%9F%BA%E4%BA%8E%E8%9E%8D%E5%90%88%E4%BB%A5%E5%A4%AA%E7%BD%91%E7%9A%84RDMA)
+[Remote direct memory access - Wikiwand](https://www.wikiwand.com/en/Remote_direct_memory_access)
+[远程直接内存访问 - Wikiwand](https://www.wikiwand.com/zh/%E8%BF%9C%E7%A8%8B%E7%9B%B4%E6%8E%A5%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE)
 
 [RoCE 101: RDMA over Converged Ethernet - YouTube](https://www.youtube.com/watch?v=os9llKRFYvs)
 [NVMe over Fabrics Demystified - YouTube](https://www.youtube.com/watch?v=ywh2N6cl_8M)
@@ -350,6 +357,7 @@ Fabrics: A local-area RDMA network is usually referred to as a fabric.
 [OpenWRT vs pfSense: Best Open Source Firewall Solution - Virtualization Howto](https://www.virtualizationhowto.com/2023/05/openwrt-vs-pfsense-best-open-source-firewall-solution/)
 
 [Open Port Check Tool - Test Port Forwarding on Your Router](https://www.yougetsignal.com/tools/open-ports/)
+[Build a Firewall that tells Hackers to Try Harder - YouTube](https://www.youtube.com/watch?v=YihZtioFD4o)
 
 [pfSense® - World's Most Trusted Open Source Firewall](https://www.pfsense.org/)
 [your home router SUCKS!! (use pfSense instead) - YouTube](https://www.youtube.com/watch?v=lUzSsX4T4WQ)
@@ -410,7 +418,7 @@ firewall-cmd --zone=home --change-interface=wlan0
 
 ### Uncomplicated Firewall (`ufw`)
 
-[Uncomplicated Firewall - Wikiwand](https://omni.wikiwand.com/en/Uncomplicated_Firewall) Manages `iptables`/`nftables` rules, available in Ubuntu
+[Uncomplicated Firewall - Wikiwand](https://www.wikiwand.com/en/Uncomplicated_Firewall) Manages `iptables`/`nftables` rules, available in Ubuntu
 [UncomplicatedFirewall - Ubuntu Wiki](https://wiki.ubuntu.com/UncomplicatedFirewall)
 [Uncomplicated Firewall - ArchWiki](https://wiki.archlinux.org/title/Uncomplicated_Firewall)
 [ufw: program for managing a netfilter firewall | ufw System Administration | Man Pages | ManKier](https://www.mankier.com/8/ufw)
@@ -468,10 +476,10 @@ ufw delete allow PORT
 > eBPF should have been called "Kernel Script"
 
 [BPF · Linux kernel code execution engine](https://facebookmicrosites.github.io/bpf/)
-[Berkeley Packet Filter - Wikiwand](https://omni.wikiwand.com/en/Berkeley_Packet_Filter)
+[Berkeley Packet Filter - Wikiwand](https://www.wikiwand.com/en/Berkeley_Packet_Filter)
 
 [The eBPF stack](https://ebpf.io/)
-[EBPF - Wikiwand](https://omni.wikiwand.com/en/EBPF)
+[EBPF - Wikiwand](https://www.wikiwand.com/en/EBPF)
 [Dive into BPF: a list of reading material](https://qmonnet.github.io/whirl-offload/2016/09/01/dive-into-bpf/)
 [A Gentle Introduction to eBPF](https://www.infoq.com/articles/gentle-linux-ebpf-introduction/)
 
@@ -488,6 +496,8 @@ ufw delete allow PORT
 [Linux eBPF Tracing Tools](https://brendangregg.com/ebpf.html)
 [eBPF: One Small Step](http://www.brendangregg.com/blog/2015-05-15/ebpf-one-small-step.html)
 [Linux BPF Superpowers](http://www.brendangregg.com/blog/2016-03-05/linux-bpf-superpowers.html)
+
+[Exploring eBPF for Windows: Opportunities and Limitations](https://www.itprotoday.com/microsoft-windows/exploring-ebpf-for-windows-opportunities-and-limitations)
 
 ### Beyond Networking
 
@@ -581,21 +591,21 @@ curl -T uploadfile -u user:passwd ftp://ftp.upload.com/myfile
 [How do internet cables distinguish between no data being sent and 0 bits being sent? - Quora](https://www.quora.com/How-do-internet-cables-distinguish-between-no-data-being-sent-and-0-bits-being-sent)
 
 [Physical layer: signals, waves and transmission types - ICTShore.com](https://www.ictshore.com/free-ccna-course/physical-layer-signals/)
-[Phase-locked loop - Wikiwand](https://omni.wikiwand.com/en/Phase-locked_loop)
-[Unipolar encoding - Wikiwand](https://omni.wikiwand.com/en/Unipolar_encoding)
+[Phase-locked loop - Wikiwand](https://www.wikiwand.com/en/Phase-locked_loop)
+[Unipolar encoding - Wikiwand](https://www.wikiwand.com/en/Unipolar_encoding)
 
 ## NTP/PTP
 
-[Network Time Protocol - Wikiwand](https://omni.wikiwand.com/en/Network%20Time%20Protocol)
+[Network Time Protocol - Wikiwand](https://www.wikiwand.com/en/Network%20Time%20Protocol)
 
-[Precision Time Protocol - Wikiwand](https://omni.wikiwand.com/en/Precision_Time_Protocol)
+[Precision Time Protocol - Wikiwand](https://www.wikiwand.com/en/Precision_Time_Protocol)
 [How works the Precision Time Protocol (PTP)?](https://www.bodet-time.com/products/time-server/articles-and-resources/1774-how-works-the-precision-time-protocol-ptp.html)
 [PTP: Timing accuracy and precision for the future of computing](https://engineering.fb.com/2022/11/21/production-engineering/future-computing-ptp/)
 [How Precision Time Protocol is being deployed at Meta](https://engineering.fb.com/2022/11/21/production-engineering/precision-time-protocol-at-meta/)
 
 ## Homeplug
 
-[HomePlug - Wikiwand](https://omni.wikiwand.com/en/HomePlug)
+[HomePlug - Wikiwand](https://www.wikiwand.com/en/HomePlug)
 [一學就會！活用 Homeplug 電力貓解決大單位 WI-FI 死角問題的實戰攻略 - by Upsangel](https://upsangel.com/router-2/weak-wifi-homeplug-powerline-solution/)
 [電力網路可以取代實體網路?｜實測 → 電力網路 V.S 實體網路｜電力線網路實用嗎？【弱電通】 - YouTube](https://www.youtube.com/watch?v=pV_vEpAJsVk)
 

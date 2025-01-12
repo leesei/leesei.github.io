@@ -2,7 +2,7 @@
 title: Automobile
 description: ""
 created: 2020-05-27
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - transportation
 ---
@@ -79,11 +79,11 @@ e-brake
 ### Counter steering
 
 For automobile that leans,
-[Countersteering - Wikiwand](https://omni.wikiwand.com/en/Countersteering)
+[Countersteering - Wikiwand](https://www.wikiwand.com/en/Countersteering)
 [Steering Vs Countersteering Motorcycle (Simplified) - YouTube](https://www.youtube.com/watch?v=K7YyV92Er8Y)
 
 For automobile that drifts,
-[Opposite lock - Wikiwand](https://omni.wikiwand.com/en/Opposite_lock)
+[Opposite lock - Wikiwand](https://www.wikiwand.com/en/Opposite_lock)
 [How does counter steering actually work? - Quora](https://www.quora.com/How-does-counter-steering-actually-work)
 
 [The Differences Between Drifting And Powersliding - YouTube](https://www.youtube.com/watch?v=p-0iWdUtiug)
@@ -118,6 +118,8 @@ Powersliding after the apex
 [MONEYPIT - Miata Build-Along Show - YouTube](https://www.youtube.com/playlist?list=PLFl907chpCa4WmBZlSv2FfWTiFAwvUeT6)
 [9 Things You’ll REGRET Not Doing to Your Car - YouTube](https://www.youtube.com/watch?v=WBxqiUhadyY) changing engine oil, diff oil, transmission oil, brake fluid, engine coolant, power steering fluid, spark plugs, belts and filters
 
+[98汽油这么好 为啥还要加92？深度揭秘汽油和标号-CD的硬核科普 - YouTube](https://www.youtube.com/watch?v=sTR4Bde2YeU)
+
 ## Car Brands
 
 [Lamborghini - Everything You Need to Know | Up to Speed - YouTube](https://www.youtube.com/watch?v=kvCHcrzLL8I)
@@ -150,14 +152,14 @@ Great racer, designed the Shelby Cobra with British AC Cars with Ford Engine; th
 [KEN MILES - Everything You Need to Know | Up to Speed - YouTube](https://www.youtube.com/watch?v=aE0gq9KxHOw)
 
 [Who ACTUALLY Made Your Car? | WheelHouse - YouTube](https://www.youtube.com/watch?v=pBs9bpIFNgg&feature=emb_rel_pause)
-[Volkswagen Group - Wikiwand](https://omni.wikiwand.com/en/Volkswagen_Group#/Operations)
+[Volkswagen Group - Wikiwand](https://www.wikiwand.com/en/Volkswagen_Group#/Operations)
 Volkswagen owns many passenger car marques such as Audi, Bentley, Bugatti, Lamborghini, Porsche, SEAT, and Škoda.
 Volkswagen bought Rolls Royce and Bentley in 1998
 However BMW owns Rolls Royce's trademark on automobiles
-[General Motors - Wikiwand](https://omni.wikiwand.com/en/General_Motors)
+[General Motors - Wikiwand](https://www.wikiwand.com/en/General_Motors)
 GM owns brands such as Chevrolet, Buick, GMC, and Cadillac; and foreign brands such as Holden, Wuling, Baojun, and Jiefang.
 
-[Toyota - Wikiwand](https://omni.wikiwand.com/en/Toyota)
+[Toyota - Wikiwand](https://www.wikiwand.com/en/Toyota)
 Toyota owns brands such as Hino, Lexus, Ranz, and Daihatsu.
 
 ## Car Model
@@ -222,9 +224,15 @@ Technology Connections
 
 ## Vehicle Autonomy
 
-[The 6 Levels of Vehicle Autonomy Explained | Synopsys Automotive](https://www.synopsys.com/automotive/autonomous-driving-levels.html)
+[SAE Levels of Driving Automation™ Refined for Clarity and International Audience](https://www.sae.org/blog/sae-j3016-update)
+
+[The 6 Levels of Vehicle Autonomy Explained | Synopsys Automotive](https://www.synopsys.com/blogs/chip-design/autonomous-driving-levels.html)
 [A Primer to the 6 Levels of Autonomous Driving | Electronics360](https://electronics360.globalspec.com/article/11594/a-primer-to-the-6-levels-of-autonomous-driving)
 [Explanation of the 6 Levels of Driving Automation](https://blog.rgbsi.com/6-levels-of-driving-automation)
+[Autonomous Self-Driving Vehicle Levels Explained - YouTube](https://www.youtube.com/watch?v=LIP4eJAECvU)
+
+[65页PPT，彻底看懂车联网！-电子工程专辑](https://www.eet-china.com/mp/a334924.html)
+![](./_assets/automobile/vehicle_autonomy_levels.png)
 
 [无人驾驶出租车 落地深圳 已成现实「SIGNOW」 - YouTube](https://www.youtube.com/watch?v=NQHLx2U8HU0)
 [The Truth About Self Driving Cars - YouTube](https://www.youtube.com/watch?v=d5TiaIYdug4)
@@ -247,9 +255,11 @@ Scalable Open Architecture for Embedded Edge
 
 [Automotive Oscilloscopes: What you need to know - YouTube](https://www.youtube.com/watch?v=LEzkoF-gAn4)
 
+[Car Hacking Village](https://www.carhackingvillage.com/)
+
 ### CAN bus
 
-[CAN bus - Wikiwand](https://omni.wikiwand.com/en/CAN_bus) ISO 11898-1 AND ISO 11898-2
+[CAN bus - Wikiwand](https://www.wikiwand.com/en/CAN_bus) ISO 11898-1 AND ISO 11898-2
 [CAN Bus Explained - A Simple Intro [2023] – CSS Electronics](https://www.csselectronics.com/pages/can-bus-simple-intro-tutorial)
 [CAN Bus Protocol: The Ultimate Guide (2023)](https://www.autopi.io/blog/can-bus-explained/)
 [The CAN Bus Protocol - Kvaser](https://www.kvaser.com/about-can/the-can-protocol/)

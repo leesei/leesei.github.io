@@ -2,7 +2,7 @@
 title: Exercise
 description: ""
 created: 2019-04-17
-updated: 2024-09-23
+updated: 2025-01-09
 tags:
   - health
   - hiit
@@ -17,7 +17,7 @@ tags:
 ➤ “下肢訓練：推，拉，轉，走。”
 x 製造疲動的運動
 
-[Stress (biology) - Wikiwand](<https://omni.wikiwand.com/en/Stress_(biology)>)
+[Stress (biology) - Wikiwand](<https://www.wikiwand.com/en/Stress_(biology)>)
 general adaptation syndrome
 stress recovery adaptation
 
@@ -145,6 +145,11 @@ Steady State Cardio/Long Slow Distance vs HIIT
 
 [emi wong - YouTube](https://www.youtube.com/@EmiWong)
 [Emi Full Body Workout 全身帶氧燃脂 - YouTube](https://www.youtube.com/playlist?list=PLGj6tJC_x-74dAtP0pa5VGPTbXQbEzJZ8)
+
+[游書庭 - 瘦身有氧 - YouTube](https://www.youtube.com/@chuckmeo)
+[腹肌訓練、核心、馬甲線 - YouTube](https://www.youtube.com/playlist?list=PLmGD_Plp-ZUPb3nmrA7GeMSOPzkSCq_Np)
+[無跳躍訓練影片 (適合新手、大體重) - YouTube](https://www.youtube.com/playlist?list=PLmGD_Plp-ZUPVrEH6bEkcnnI6kVvggmQe)
+[TABATA訓練 - YouTube](https://www.youtube.com/playlist?list=PLmGD_Plp-ZUOMpa9a65s_KEdNPBr5uAgo)
 
 [25 分鐘【急速燃燒卡路里】全身徒手鍛鍊 腹肌出現 體脂再見！│ 健人訓練 │ 2021ep29 - YouTube](https://www.youtube.com/watch?v=lBa6Ysa07x8&t=22s)
 [30 min Full Body Fat Burn HIIT - Abs, Arms, Thighs & Legs! (Standing Exercises Only, No Mat Needed) - YouTube](https://www.youtube.com/watch?v=ie7nbEybL6k)

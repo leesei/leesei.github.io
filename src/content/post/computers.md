@@ -2,7 +2,7 @@
 title: Computers
 description: ""
 created: 2016-10-18
-updated: 2024-09-03
+updated: 2025-01-09
 tags:
   - comp/hardware
 ---
@@ -28,7 +28,6 @@ tags:
 - PCIe 4x16 to M.2 NVMe adapter ¥9.9@2022-11
 - Toshiba MG07ACA12TEY 12TB ¥755@2024-04
 - HGST HUS726T6TALE6L4 6TB @2023-10
-- WD Blue WD10EZEX 1TB $565@2012-10
 - Intel AX200 + Antennae $116@2020-10
 - Perixx Periduo-505 ¥298@2021-08
 - Elecom HUGE ¥374@2017-09
@@ -53,7 +52,8 @@ $2800@2023-02 (ex-GPU)
 - Kingston Hyper-X Fury 2x8GB (KHX2400C15/8G) 2400MT DDR4
 - ID Cooling IS-40X 4 heat pipe
   - 12015 fan at CHA_FAN header
-- ASRock H610M-ITX/ac
+- 精粤B760I GAMING $495@2024-10  
+  CPU, 内存, 显卡, BOOT, 藍燈
 - AGI AI198 1TB (PCIe 3x4, Intel 64L TLC 500TBW, SM2263XT, 1900R/1600W, HBM) $399@2022-11
 - Intel AX200 $49@2024-04
 - GigaByte GeForce GTX 1060 WINDFORCE OC 6G (GV-N1060WF2OC-6GD) $2299@2017-07
@@ -81,9 +81,13 @@ These parts are replaced:
 - Colorful 16G 3200MHz CD16G3200D4NZ22 CL22
 - Colorful CN600 512G (PCIe 3x4, Intel TLC 160TBW, 1800R/1500W, HBM)
 - ~~螞蟻悍將 Myihaja SFX 600W~~ dead
+- ~~ASRock H610M-ITX/ac~~ PCI-E slot dead
 
 https://www.userbenchmark.com/UserRun/59456839 before RAM change
 https://www.userbenchmark.com/UserRun/59459570 after RAM change
+
+[精粤B760I GAMING主板 - Intel LGA1700 - 精粤JGINYUE官网](https://jginyue.com.cn/index/Article/show/cat_id/22/id/10)
+[精粤B760I Snow Dream D4 主板 - Intel LGA1700 - 精粤JGINYUE官网](https://jginyue.com.cn/index/Article/show/cat_id/22/id/14)
 
 ## Acer Swift Edge 16
 
@@ -117,7 +121,7 @@ https://www.userbenchmark.com/UserRun/59459570 after RAM change
 
 ## Lenovo ThinkPad T14 Gen 4 (Work IT Laptop)
 
-[ThinkPad T series - Wikiwand](https://omni.wikiwand.com/en/ThinkPad_T_series)
+[ThinkPad T series - Wikiwand](https://www.wikiwand.com/en/ThinkPad_T_series)
 
 - 2024-04
 - 1.32kg (52Wh, 4 cells)
@@ -129,6 +133,19 @@ https://www.userbenchmark.com/UserRun/59459570 after RAM change
 - Intel Wi-Fi 6E AX211 160MHz
 - USB Type-C 65W: 20V/3.25A, 15V/3A, 9V/2A, 5V/2A
 
+## Minisforum Venus UM790 Pro (Work PC)
+
+- 2024
+- AMD Ryzen™ 9 7940HS 8C16T 5.2GHz
+- 2x16G Crucial CT16G56C46S5 5600MT CL46 DDR5
+- AMD Radeon™ 780M Graphics
+- ESR01TBTLCZ-27J-2 1T 4800MB/s (PCIe 4x4)
+- Wi-Fi 6E，BlueTooth 5.3
+- Keychron V10 ¥395.44 @2024-03
+- Elecom HUGE ¥374 @2017-09
+- Dell P2722H 27" 1920x1080 16:9 IPS
+- Dell U2415 24.1" 1920x1080 16:9 IPS
+
 ## Minisforum EliteMini HM90 (Work PC)
 
 - 2021
@@ -137,10 +154,6 @@ https://www.userbenchmark.com/UserRun/59459570 after RAM change
 - AMD Radeon™ Graphics Vega 8
 - Kingston OM8PDP3512B-A01 512G (PCIe 3x4)
 - Intel® Wi-Fi 6 AX201 802.11ax (2x2) and Bluetooth® 5.1
-- Microsoft Surface Ergonomic Keyboard 4000 ¥340 @2021-09
-- Elecom HUGE ¥374 @2017-09
-- Dell P2722H 27" 1920x1080 16:9 IPS
-- Dell U2415 24.1" 1920x1080 16:9 IPS
 
 [AMD-Vi: Event logged Error / Newbie Corner / Arch Linux Forums](https://bbs.archlinux.org/viewtopic.php?id=167838)
 
@@ -187,6 +200,7 @@ https://www.userbenchmark.com/UserRun/59459570 after RAM change
 - Orico U2139U3 USB 3.0 Mini-B to 2.5" SATA adapter ¥26.9@2022-06
   JMS578
   Crucial MX300 1TB (TLC 360TBW, 1GB RAM) SATA $588@2019-07
+  Emulation Archive
 - USB 3.0 Type C to 2.5" SATA adapter ¥21@2023-07
   RTL9201R
   Samsung EVO 850 250G SATA
@@ -196,12 +210,12 @@ https://www.userbenchmark.com/UserRun/59459570 after RAM change
   ventoy
 
 - Orico U6218US3 USB 3.0 to 3.5" SATA dock ¥75.4@2020-11
-
 - WD AV-GP WD20EURS 2TB $739@2013-06
-  Anime Archive, Movie Archive, Documentaries Archive
-- HGST 4TB ¥215@2023-07
+  Anime Archive, Cartoons Archive, Movie Archive, Documentaries Archive
+- HGST 4TB ¥215.6@2023-07
   Emulation Archive
 - ADATA Premier Pro SP920SS 256GB? $735@2015-07
+- WD Blue WD10EZEX 1TB $565@2012-10
 
 ### M.2 NVMe
 
@@ -222,10 +236,9 @@ https://www.userbenchmark.com/UserRun/59459570 after RAM change
 
 ## Stock
 
-- [Samsung LA22C360E1M](https://www.samsung.com/hk/support/model/LA22C360E1MXZK/) monitor
 - Colorful 16G 3200MHz CD16G3200D4NZ22 CL22
 - Wraith Prism with RGB LED
-- HGST HUS724040ALE641 4TB ¥215.6@2023-07
+- Microsoft Surface Ergonomic Keyboard 4000 ¥340 @2021-09
 
 ---
 
@@ -280,7 +293,7 @@ mother board dead, probably during case change
 
 ## Lenovo ThinkPad X260 (Old Work IT Laptop)
 
-[ThinkPad X series - Wikiwand](https://omni.wikiwand.com/en/ThinkPad_X_series)
+[ThinkPad X series - Wikiwand](https://www.wikiwand.com/en/ThinkPad_X_series)
 
 - 2020-11
 - 1.24kg (24Wh, 3 cells) + 150g (24Wh, 3 cells) = 1.39kg
@@ -292,7 +305,7 @@ mother board dead, probably during case change
 
 ## Lenovo ThinkPad X270 (Old Work IT Laptop)
 
-[ThinkPad X series - Wikiwand](https://omni.wikiwand.com/en/ThinkPad_X_series)
+[ThinkPad X series - Wikiwand](https://www.wikiwand.com/en/ThinkPad_X_series)
 
 - 2018-06
 - 1.24kg (24Wh, 3 cells) + 150g (24Wh, 3 cells) = 1.39kg
@@ -304,7 +317,7 @@ mother board dead, probably during case change
 
 ## Lenovo ThinkPad T440p (Old Work IT Laptop)
 
-[ThinkPad T series - Wikiwand](https://omni.wikiwand.com/en/ThinkPad_T_series)
+[ThinkPad T series - Wikiwand](https://www.wikiwand.com/en/ThinkPad_T_series)
 
 - 2014-03
 - 1736g + 306g (57Wh)

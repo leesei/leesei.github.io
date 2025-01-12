@@ -2,7 +2,7 @@
 title: OpenSearch
 description: Amazon initiated Elastic Stack fork with Apache 2.0 License
 created: 2023-04-19
-updated: 2024-01-12
+updated: 2025-01-09
 tags:
   - comp/database
   - elastic-stack

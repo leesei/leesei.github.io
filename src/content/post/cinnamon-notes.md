@@ -2,7 +2,7 @@
 title: Cinnamon notes
 description: ""
 created: 2015-05-04
-updated: 2024-09-28
+updated: 2025-01-09
 tags:
   - cinnamon
   - desktop

@@ -2,7 +2,7 @@
 title: Git server
 description: ""
 created: 2016-03-04
-updated: 2024-07-31
+updated: 2025-01-09
 tags:
   - app
   - git

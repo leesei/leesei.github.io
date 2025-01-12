@@ -2,7 +2,7 @@
 title: StyleX
 description: ""
 created: 2023-12-15
-updated: 2024-07-09
+updated: 2025-01-09
 tags:
   - css
   - stylex

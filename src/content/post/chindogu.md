@@ -2,12 +2,12 @@
 title: Chindōgu 珍道具
 description: ""
 created: 2023-04-01
-updated: 2024-09-01
+updated: 2025-01-09
 tags:
   - trivia
 ---
 
-[Chindōgu - Wikiwand](https://omni.wikiwand.com/en/Chind%C5%8Dgu)
+[Chindōgu - Wikiwand](https://www.wikiwand.com/en/Chind%C5%8Dgu)
 [Chindogu | Official Home of the International Chindogu Society](http://chindogu.com/ics/)
 [Chindogu: Those Viral Japanese Inventions](https://www.tofugu.com/japan/chindogu-japanese-inventions/)
 [International Chindogu Society](http://rosemaryroad.org/ctnst3/chindogu.html)

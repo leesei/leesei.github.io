@@ -2,7 +2,7 @@
 title: Transmission and Drivetrain
 description: ""
 created: 2015-09-23
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - automobile
   - drivetrain
@@ -11,8 +11,8 @@ tags:
 
 [CLASSIC: What Do Transmissions Do? - TechStuff (podcast)](https://player.fm/series/techstuff/classic-what-do-transmissions-do)
 
-[Transmission (mechanics) - Wikiwand](<http://omni.wikiwand.com/en/Transmission_(mechanics)>)
-[Continuously variable transmission - Wikiwand](https://omni.wikiwand.com/en/Continuously_variable_transmission)
+[Transmission (mechanics) - Wikiwand](<http://www.wikiwand.com/en/Transmission_(mechanics)>)
+[Continuously variable transmission - Wikiwand](https://www.wikiwand.com/en/Continuously_variable_transmission)
 
 [Car Transmission and Drivetrain Systems | HowStuffWorks](https://auto.howstuffworks.com/car-transmission-drivetrain-systems-channel.htm)
 
@@ -97,7 +97,7 @@ Frame:
 
 ## Differentials
 
-[Differential (mechanical device) - Wikiwand](<https://omni.wikiwand.com/en/Differential_(mechanical_device)>)
+[Differential (mechanical device) - Wikiwand](<https://www.wikiwand.com/en/Differential_(mechanical_device)>)
 [How Differentials Work | HowStuffWorks](https://auto.howstuffworks.com/differential.htm)
 
 [DIFFERENTIALS | How They Work - YouTube](https://www.youtube.com/watch?v=85CA4_cgZ5U)
@@ -118,7 +118,7 @@ Frame:
 
 ## Brakes
 
-[Brake - Wikiwand](https://omni.wikiwand.com/en/Brake)
+[Brake - Wikiwand](https://www.wikiwand.com/en/Brake)
 [BRAKES: How They Work | Science Garage - YouTube](https://www.youtube.com/watch?v=6H7nwlT_qNY)
 [F1 Braking Systems - YouTube](https://www.youtube.com/watch?v=0ykCdaRzn5g)
 [The Story of Brakes - YouTube](https://www.youtube.com/watch?v=Z-F3NDGeu2s)
@@ -129,28 +129,28 @@ Frame:
 
 ### Stopping Mechanism
 
-[Drum brake - Wikiwand](https://omni.wikiwand.com/en/Drum_brake) push out onto the drum, heat on drum not easy to dissipate
+[Drum brake - Wikiwand](https://www.wikiwand.com/en/Drum_brake) push out onto the drum, heat on drum not easy to dissipate
 [Drum Brake System - YouTube](https://www.youtube.com/watch?v=g5n8OqS1Fow)
 [How Drum Brakes Work - YouTube](https://www.youtube.com/watch?v=s7aptDmOQ7U)
 
-[Disc brake - Wikiwand](https://omni.wikiwand.com/en/Disc_brake) squeeze in, creating more pressure
+[Disc brake - Wikiwand](https://www.wikiwand.com/en/Disc_brake) squeeze in, creating more pressure
 [How Disc Brakes Works - Part 1 - YouTube](https://www.youtube.com/watch?v=MAuVDB-G-HQ)
 [How Disc Brakes Works - Part 2 - YouTube](https://www.youtube.com/watch?v=bGKJOICWmFQ)
 [Autotechlabs - YouTube](https://www.youtube.com/channel/UCtfVcXWhbSnF-fWHJ6ugw5A)
 
 ### Control Mechanism
 
-[Air brake (road vehicle) - Wikiwand](<https://omni.wikiwand.com/en/Air_brake_(road_vehicle)>)
+[Air brake (road vehicle) - Wikiwand](<https://www.wikiwand.com/en/Air_brake_(road_vehicle)>)
 [Air Brakes - An Introduction. How it works. - YouTube](https://www.youtube.com/watch?v=f9fLf4UUIQE)
 [Air Brake Relay - How it Works. Air braking systems and Commercial vehicles - YouTube](https://www.youtube.com/watch?v=f3LD8M0HKjo)
 [Basic CDL Air Brake Components - YouTube](https://www.youtube.com/watch?v=dMxilatT0qw)
 Brake on by default (need pressure to overcome the spring)
 Sometimes referred to as "spring brakes"
 
-[Hydraulic brake - Wikiwand](https://omni.wikiwand.com/en/Hydraulic_brake)
+[Hydraulic brake - Wikiwand](https://www.wikiwand.com/en/Hydraulic_brake)
 replaces physical brake lines as the pressure on all brakes are even and it won't snap
 
-[Parking brake - Wikiwand](https://omni.wikiwand.com/en/Parking_brake)
+[Parking brake - Wikiwand](https://www.wikiwand.com/en/Parking_brake)
 
 ## Suspension
 

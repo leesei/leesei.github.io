@@ -2,7 +2,7 @@
 title: React Native
 description: Learn once, write anywhere.
 created: 2023-06-10
-updated: 2024-06-16
+updated: 2025-01-09
 tags:
   - app
   - mobile
@@ -162,8 +162,7 @@ Bare Workflow: `expo eject` to manage native Android/iOS project
 > EAS Build is a hosted service for building app binaries for your Expo and React Native projects.
 > OTA update, auto signing, and more
 > p
-> [Expo Application Services (EAS)](https://expo.dev/eas)
-> [EAS Build - Expo Documentation](https://docs.expo.dev/build/introduction/)
+> [Expo Application Services (EAS)](https://expo.dev/eas) > [EAS Build - Expo Documentation](https://docs.expo.dev/build/introduction/)
 
 ### Auth
 

@@ -2,7 +2,7 @@
 title: Monorepo
 description: Monorepo and tools
 created: 2023-06-14
-updated: 2024-03-23
+updated: 2025-01-09
 tags:
   - app
   - git
@@ -43,12 +43,16 @@ tags:
 
 ## Nx
 
-[Nx: Smart, Extensible Build Framework](https://nx.dev/)
-[Nx Quickstart - How to Scale a JavaScript Project - YouTube](https://www.youtube.com/watch?v=VUyBY72mwrQ)
-[Building ⚛️ React Micro Frontends Monorepo with NX in 5 min | by Vitalii Shevchuk | Feb, 2022 | Level Up Coding](https://levelup.gitconnected.com/building-%EF%B8%8F-react-micro-frontends-monorepo-with-nx-10bf564f03fe)
+[Nx: Smart Monorepos · Fast CI](https://nx.dev/)
+[Intro to Nx | Nx](https://nx.dev/getting-started/intro)
 [Nx Quickstart - How to Scale a JavaScript Project - YouTube](https://www.youtube.com/watch?v=VUyBY72mwrQ)
 [The Nx Iceberg - YouTube](https://www.youtube.com/watch?v=qG9fD508ufY)
+
+[Building ⚛️ React Micro Frontends Monorepo with NX in 5 min | by Vitalii Shevchuk | Feb, 2022 | Level Up Coding](https://levelup.gitconnected.com/building-%EF%B8%8F-react-micro-frontends-monorepo-with-nx-10bf564f03fe)
 [Architects Delight: Enforcing Layers and Project Boundaries with Nx - DEV Community](https://dev.to/this-is-learning/architects-delight-enforcing-layers-and-project-boundaries-with-nx-2d8o)
+
+[Nx Console | Nx](https://nx.dev/recipes/nx-console)
+[Level Up Your Productivity with Nx Console - Jonathan Cammisuli & Max Kless, Nx Conf 2023 - YouTube](https://www.youtube.com/watch?v=TTjVcWCdwVY)
 
 ## Meta
 

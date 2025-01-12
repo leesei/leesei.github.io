@@ -2,7 +2,7 @@
 title: Baldur's Gate
 description: ""
 created: 2023-08-14
-updated: 2024-02-19
+updated: 2025-01-09
 tags:
   - baldurs-gate
   - game

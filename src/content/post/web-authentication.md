@@ -2,7 +2,7 @@
 title: Web Authentication
 description: ""
 created: 2016-01-21
-updated: 2024-10-03
+updated: 2025-01-09
 tags:
   - authentication
   - security
@@ -28,6 +28,7 @@ tags:
 
 [Handling Authentication Secrets in the Browser - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/handling-authentication-secrets-in-the-browser)
 [Secure your users' passwords from the browser on](https://coolaj86.com/articles/secure-your-users-passwords-from-the-browser-on/)
+[Why Using Tokens and Cookies Together is Better for Web App Security | by Ashan Fernando | Bits and Pieces](https://blog.bitsrc.io/why-using-tokens-and-cookies-together-is-better-for-web-apps-9d205b7c1961)
 
 [Facebook, GitHub team up to better secure password resets | InfoWorld](http://www.infoworld.com/article/3163198/security/facebook-github-teams-up-to-make-password-resets-more-secure.html)
 [Delegated Account Recovery](https://rawgit.com/facebookincubator/DelegatedRecovery/master/draft-hill-delegated-recovery.html)
@@ -40,9 +41,9 @@ tags:
 
 ## Authentication Protocols
 
-[Basic access authentication - Wikiwand](http://omni.wikiwand.com/en/Basic_access_authentication)
-[Digest access authentication - Wikiwand](http://omni.wikiwand.com/en/Digest_access_authentication)
-[Secure Remote Password protocol - Wikiwand](http://omni.wikiwand.com/en/Secure_Remote_Password_protocol)
+[Basic access authentication - Wikiwand](http://www.wikiwand.com/en/Basic_access_authentication)
+[Digest access authentication - Wikiwand](http://www.wikiwand.com/en/Digest_access_authentication)
+[Secure Remote Password protocol - Wikiwand](http://www.wikiwand.com/en/Secure_Remote_Password_protocol)
 
 does not to mandate SSL/TLS
 
@@ -52,8 +53,8 @@ does not to mandate SSL/TLS
 `Access-Control-Allow-Origin: *` does not allow requests to supply credentials like HTTP authentication, client-side SSL certificates, or cookies. You have to use `Access-Control-Allow-Headers: Authorization, X-Token` to allow those headers.
 
 Use MAC with server nonce instead of send password, allows authentication over non-secure channel.
-[Message authentication code - Wikiwand](https://omni.wikiwand.com/en/Message_authentication_code)
-[HMAC - Wikiwand](https://omni.wikiwand.com/en/HMAC) hash-based message authentication code
+[Message authentication code - Wikiwand](https://www.wikiwand.com/en/Message_authentication_code)
+[HMAC - Wikiwand](https://www.wikiwand.com/en/HMAC) hash-based message authentication code
 [hapijs/hawk: HTTP Holder-Of-Key Authentication Scheme](https://github.com/hapijs/hawk)
 
 ## Sign up
@@ -115,17 +116,17 @@ Based on [Zanzibar](https://research.google/pubs/pub48190/), Google’s Consiste
 
 ## Multi-factor Authentication (MFA)
 
-[Multi-factor authentication - Wikiwand](https://omni.wikiwand.com/en/Multi-factor_authentication)
+[Multi-factor authentication - Wikiwand](https://www.wikiwand.com/en/Multi-factor_authentication)
 [What is multifactor authentication (MFA)? - Definition from WhatIs.com](https://searchsecurity.techtarget.com/definition/multifactor-authentication-MFA)
 
 [Bruteforcing MFA & Fail2ban Manipulation - TryHackMe! (Biteme) - YouTube](https://www.youtube.com/watch?v=vAlkrw-o7m4)
 
 ## TOTP
 
-[Time-based One-time Password algorithm - Wikiwand](https://omni.wikiwand.com/en/Time-based_One-time_Password_algorithm)
+[Time-based One-time Password algorithm - Wikiwand](https://www.wikiwand.com/en/Time-based_One-time_Password_algorithm)
 [RFC 6238: TOTP: Time-Based One-Time Password Algorithm](https://www.rfc-editor.org/rfc/rfc6238.html)
 
-[Google Authenticator - Wikiwand](https://omni.wikiwand.com/en/Google_Authenticator)
+[Google Authenticator - Wikiwand](https://www.wikiwand.com/en/Google_Authenticator)
 [Google 2-Step Verification](https://www.google.com/landing/2step/)
 [Setting up Google Authenticator is as easy as scanning a QR code](https://www.androidguys.com/tips-tools/setting-up-google-authenticator-is-as-easy-as-scanning-a-qr-code/)
 
@@ -136,18 +137,17 @@ Based on [Zanzibar](https://research.google/pubs/pub48190/), Google’s Consiste
 [Advanced Protection Program](https://landing.google.com/advancedprotection/)
 [Use your Android phone's built-in security key - Google Account Help](https://support.google.com/accounts/answer/9289445?p=phone-security-key)
 
-## FIDO/Passkey
+## FIDO
+
+> see [[passwords#Passkey]]
 
 [FIDO Alliance - Open Authentication Standards More Secure than Passwords](https://fidoalliance.org/)
 [FIDO2: Moving the World Beyond Passwords using WebAuthn & CTAP](https://fidoalliance.org/fido2/)
-[FIDO2 Project - Wikiwand](https://omni.wikiwand.com/en/FIDO2_Project)
+[FIDO2 Project - Wikiwand](https://www.wikiwand.com/en/FIDO2_Project)
 [How FIDO Works - Standard Public Key Cryptography & User Privacy](https://fidoalliance.org/how-fido-works/)
 [The ultimate account security is now in your pocket](https://www.blog.google/technology/safety-security/your-android-phone-is-a-security-key/amp/)
 
 [Apple, the FIDO Alliance and the future of passwords | Computerworld](https://www.computerworld.com/video/101679/apple-the-fido-alliance-and-the-future-of-passwords)
-
-[What is Passkey? | Trusted Reviews](https://www.trustedreviews.com/explainer/what-is-passkey-4231178)
-[Is Passkey Authentication More Secure Traditional Passwords?](https://www.itprotoday.com/identity-management-and-access-control/passkey-authentication-more-secure-traditional-passwords)
 
 physical keys
 [FIDO2 | Yubico](https://www.yubico.com/solutions/fido2/)
@@ -193,7 +193,7 @@ physical keys
 ## WebAuthn
 
 [WebAuthn.io](https://webauthn.io/)
-[WebAuthn - Wikiwand](https://omni.wikiwand.com/en/WebAuthn)
+[WebAuthn - Wikiwand](https://www.wikiwand.com/en/WebAuthn)
 [Web Authentication API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Authentication_API)
 [Web Authentication: An API for accessing Public Key Credentials Level 1](https://www.w3.org/TR/webauthn/)
 
@@ -253,7 +253,7 @@ Server generates session token and send to client via cookie. The session token 
 
 [roblevintennis-passport-api-tokens · GitHub](https://github.com/roblevintennis/passport-api-tokens)
 
-[Why Using Tokens and Cookies Together is Better for Web App Security | by Ashan Fernando | Bits and Pieces](https://blog.bitsrc.io/why-using-tokens-and-cookies-together-is-better-for-web-apps-9d205b7c1961) STS sends JWT to backend to set session cookie
+[Why Using Tokens and Cookies Together is Better for Web App Security | by Ashan Fernando | Bits and Pieces](https://blog.bitsrc.io/why-using-tokens-and-cookies-together-is-better-for-web-apps-9d205b7c1961) Secure Token Services (STS) sends JWT to backend to set session cookie
 [Goodbye Short Sessions: a proposal for using service-workers to improve cookie management on the web | Web Updates - Google Developers](https://developers.google.com/web/updates/2016/06/2-cookie-handoff?hl=en)
 
 There are three ways to send your access token in a request.
@@ -342,7 +342,7 @@ does not to mandate SSL/TLS
 
 ## OAuth2
 
-[OAuth - Wikiwand](https://omni.wikiwand.com/en/OAuth)
+[OAuth - Wikiwand](https://www.wikiwand.com/en/OAuth)
 [The OAuth Bible](https://oauthbible.com/)
 [Home | OAuth.XYZ](https://oauth.xyz/)
 
@@ -460,7 +460,7 @@ OpenID Connect is build upon OAuth 2.0 (with `openid` and `profile` scope) desig
 [Gluu Introduction - YouTube](https://www.youtube.com/watch?v=Gd2dXMjbkwc)
 [How to build a world-class identity service with Gluu - YouTube](https://www.youtube.com/watch?v=cRlwH0Op_EA)
 
-[Security token service - Wikiwand](https://omni.wikiwand.com/en/Security_token_service)
+[Security token service - Wikiwand](https://www.wikiwand.com/en/Security_token_service)
 
 [Open Source OAuth 2.0 and OpenID Connect Server - gethydra.sh](https://gethydra.sh/)
 [ory/hydra: OpenID Certified™ OpenID Connect & OAuth2 Server (OP, OpenID Provider) - cloud native, security-first, open source API security for your infrastructure. Written in Go. SDKs for any language.](https://github.com/ory/hydra)
@@ -568,7 +568,7 @@ And much more...
 ## JWT
 
 [JWT](http://jwt.io) is the spec for how a _non-opaque token_ should be created. This allows token receiver to parse the token and receive meta without database query.
-[JSON Web Token - Wikiwand](https://omni.wikiwand.com/en/JSON_Web_Token)
+[JSON Web Token - Wikiwand](https://www.wikiwand.com/en/JSON_Web_Token)
 
 [RFC 7515 - JSON Web Signature (JWS)](https://tools.ietf.org/html/rfc7515)
 [RFC 7516 - JSON Web Encryption (JWE)](https://tools.ietf.org/html/rfc7516)
@@ -584,6 +584,7 @@ JWT = `{header}.{claim}.{signature}`
 [DjangoCon 2014- JSON Web Tokens - YouTube](https://www.youtube.com/watch?v=825hodQ61bg)
 [JWT - JSON Web Token Crash Course (NodeJS & Postgres) - YouTube](https://www.youtube.com/watch?v=T0k-3Ze4NLo)
 [JWT attacks | Web Security Academy](https://portswigger.net/web-security/jwt)
+[Auth0 | JWT Handbook](https://auth0.com/resources/ebooks/jwt-handbook/)
 
 [Critical flaw alert! Stop using JSON encryption | InfoWorld](http://www.infoworld.com/article/3184582/security/critical-flaw-alert-stop-using-json-encryption.html)
 [Critical Vulnerability Uncovered in JSON Encryption](http://blogs.adobe.com/security/2017/03/critical-vulnerability-uncovered-in-json-encryption.html)
@@ -691,7 +692,7 @@ Auth0 is the owner of Node.js `jsonwebtoken` module.
 
 ## LDAP
 
-[Lightweight Directory Access Protocol - Wikiwand](https://omni.wikiwand.com/en/Lightweight_Directory_Access_Protocol)
+[Lightweight Directory Access Protocol - Wikiwand](https://www.wikiwand.com/en/Lightweight_Directory_Access_Protocol)
 
 [OpenLDAP, Main Page](https://www.openldap.org/)
 [LDAP Linux HOWTO](https://www.tldp.org/HOWTO/LDAP-HOWTO/index.html)
@@ -706,7 +707,7 @@ Auth0 is the owner of Node.js `jsonwebtoken` module.
 
 ### Active Directory
 
-[Active Directory - Wikiwand](https://omni.wikiwand.com/en/Active_Directory)
+[Active Directory - Wikiwand](https://www.wikiwand.com/en/Active_Directory)
 [Introduction to Active Directory Infrastructure in Windows Server 2012 - YouTube](https://www.youtube.com/watch?v=hxgz7MR7MGQ)
 [Introduction to Active Directory Directory Services Structure in Windows Server 2012 - YouTube](https://www.youtube.com/watch?v=lFwek_OuYZ8)
 
@@ -737,7 +738,7 @@ Auth0 is the owner of Node.js `jsonwebtoken` module.
 
 Blockchain can be used as Public Key Infrastructure (PKI), but not the necessary condition.
 
-[Self-sovereign identity - Wikiwand](https://omni.wikiwand.com/en/Self-sovereign_identity)
+[Self-sovereign identity - Wikiwand](https://www.wikiwand.com/en/Self-sovereign_identity)
 [Self Sovereign Identity & Decentralized Identity - An Unlimited Guide - 101 Blockchains](https://101blockchains.com/self-sovereign-identity-and-decentralized-identity/)
 [What is self-sovereign identity? Definition from WhatIs.com](https://www.techtarget.com/searchsecurity/definition/self-sovereign-identity)
 

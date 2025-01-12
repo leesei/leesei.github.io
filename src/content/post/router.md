@@ -2,7 +2,7 @@
 title: Router
 description: ""
 created: 2016-04-12
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - comp/hardware
 ---
@@ -20,8 +20,10 @@ tags:
 [DD-WRT](http://www.dd-wrt.com/) archaic
 
 [Tarifa](http://tarifa.sourceforge.net/) for old WRT54GL router
-[HyperWRT - Wikiwand](https://omni.wikiwand.com/en/HyperWRT) for old WRT54GS router
+[HyperWRT - Wikiwand](https://www.wikiwand.com/en/HyperWRT) for old WRT54GS router
 [Tomato Firmware | polarcloud.com](http://www.polarcloud.com/tomato) for old WRT54GS router, with built-in ad-blocker
+
+[【全网最细】小白2分钟，快速构建编译专属openwrt固件，超级简单，适用于官方openwrt、immortalwrt - YouTube](https://www.youtube.com/watch?v=t0PCzfhwuXQ)
 
 [DD-WRT vs. OpenWrt: Which open-source router firmware should you pick?](https://www.xda-developers.com/dd-wrt-vs-openwrt/)
 
@@ -29,10 +31,10 @@ tags:
 
 [[OpenWrt Wiki] Welcome to the OpenWrt Project](https://openwrt.org/)
 [[OpenWrt Wiki] 歡迎來到 OpenWrt 項目](https://openwrt.org/zh-tw/)
-[OpenWrt - Wikiwand](https://omni.wikiwand.com/en/OpenWrt)
+[OpenWrt - Wikiwand](https://www.wikiwand.com/en/OpenWrt)
 [[OpenWrt Wiki] Table of Hardware](https://openwrt.org/toh/start) not Broadcom friendly
 
-[X-Wrt - Wikiwand](https://omni.wikiwand.com/en/X-Wrt)
+[X-Wrt - Wikiwand](https://www.wikiwand.com/en/X-Wrt)
 [X-Wrt](https://bitsum.com/xwrt.htm)
 [X-Wrt, for IoT, a custom Distribution for OpenWrt](https://x-wrt.com/)
 a set of packages and patches to enhance the end user experience of OpenWrt
@@ -41,7 +43,7 @@ a set of packages and patches to enhance the end user experience of OpenWrt
 [Gargoyle Router Management Utility](https://www.gargoyle-router.com/) based on OpenWrt
 
 [LEDE - Linux Embedded Development Environment](https://www.lede-project.org/) OpenWrt fork, merged back to OpenWrt in 2018
-[LEDE - Wikiwand](https://omni.wikiwand.com/en/LEDE)
+[LEDE - Wikiwand](https://www.wikiwand.com/en/LEDE)
 
 ### Merlin
 

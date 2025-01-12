@@ -2,15 +2,15 @@
 title: Slayers
 description: ""
 created: 2017-11-15
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - anime
   - slayers
 ---
 
-[秀逗魔導士 - Wikiwand](https://omni.wikiwand.com/zh/秀逗魔導士)
-[秀逗魔導士 (動畫) - Wikiwand](<https://omni.wikiwand.com/zh/秀逗魔導士_(動畫)>)
-[秀逗魔導士角色列表 - Wikiwand](https://omni.wikiwand.com/zh/秀逗魔導士角色列表)
+[秀逗魔導士 - Wikiwand](https://www.wikiwand.com/zh/秀逗魔導士)
+[秀逗魔導士 (動畫) - Wikiwand](<https://www.wikiwand.com/zh/秀逗魔導士_(動畫)>)
+[秀逗魔導士角色列表 - Wikiwand](https://www.wikiwand.com/zh/秀逗魔導士角色列表)
 
 [秀逗魔导士（神坂一著轻小说）\_百度百科](https://baike.baidu.com/item/秀逗魔导士/7651?fromtitle=秀逗魔导士小说&fromid=9556828)
 
@@ -21,12 +21,12 @@ tags:
 
 在本作的世界觀中，有無數個世界同時存在，而目前所知的有四個平行世界運轉著，四界是指：赤之世界、黑之世界、青之世界、白之世界；本作大部分人物所存在的世界為赤之世界。而在這四個世界當中，每個世界都有魔族和神族互相牽制著，這就是世界平衡的狀態。
 
-[スレイヤーズの超常的存在 - Wikiwand](https://omni.wikiwand.com/ja/スレイヤーズの超常的存在)
+[スレイヤーズの超常的存在 - Wikiwand](https://www.wikiwand.com/ja/スレイヤーズの超常的存在)
 [魔族（《秀逗魔导士》种族）\_百度百科](https://baike.baidu.com/item/魔族/20814954)
 
 ## 四界之上的存在
 
-[噩梦之主 Lord of Nightmare](https://omni.wikiwand.com/zh/%E7%A7%80%E9%80%97%E9%AD%94%E5%B0%8E%E5%A3%AB%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8#/.E7.A5.9E.E9.AD.94.E4.B9.8B.E4.B8.8A.E7.9A.84.E5.AD.98.E5.9C.A8)
+[噩梦之主 Lord of Nightmare](https://www.wikiwand.com/zh/%E7%A7%80%E9%80%97%E9%AD%94%E5%B0%8E%E5%A3%AB%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8#/.E7.A5.9E.E9.AD.94.E4.B9.8B.E4.B8.8A.E7.9A.84.E5.AD.98.E5.9C.A8)
 
 重破斬（ギガ·スレイブ）, 其威力大到必須將全身魔力耗盡的地步, 稍一不慎就會毁滅世界
 在 Next 對冥王時，莉娜使出了完全的重破斬把噩梦之主召喚到人間
@@ -114,7 +114,7 @@ tags:
 
 ---
 
-[秀逗魔導士 - 魔法 - Wikiwand](https://omni.wikiwand.com/zh/秀逗魔導士#/.E9.AD.94.E6.B3.95)
+[秀逗魔導士 - 魔法 - Wikiwand](https://www.wikiwand.com/zh/秀逗魔導士#/.E9.AD.94.E6.B3.95)
 
 ## 降魔战争
 

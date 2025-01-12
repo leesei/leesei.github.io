@@ -2,7 +2,7 @@
 title: Browser automation
 description: Automates browser, for web scraping and testing
 created: 2017-11-20
-updated: 2024-10-03
+updated: 2025-01-09
 tags:
   - automation
   - web
@@ -12,8 +12,8 @@ tags:
 
 > Automating an headless browser is preferred over parsing the downloaded HTML for the browser can execute JavaScript
 
-[Web crawler - Wikiwand](https://omni.wikiwand.com/en/Web_crawler)
-[Web scraping - Wikiwand](https://omni.wikiwand.com/en/Web_scraping)
+[Web crawler - Wikiwand](https://www.wikiwand.com/en/Web_crawler)
+[Web scraping - Wikiwand](https://www.wikiwand.com/en/Web_scraping)
 
 [lorien/awesome-web-scraping: List of libraries, tools and APIs for web scraping and data processing.](https://github.com/lorien/awesome-web-scraping)
 [BruceDone/awesome-crawler: A collection of awesome web crawler,spider in different languages](https://github.com/BruceDone/awesome-crawler)
@@ -56,7 +56,7 @@ task runner for browser tests:
 [Learn How to Automate Browser Testing With Selenium WebDriver — Part 1 - DZone DevOps](https://dzone.com/articles/learn-how-to-automate-browser-with-selenium-webdri)
 [Automate 99% of Websites with Selenium 4 and Python | by Frank Andrade | Geek Culture | May, 2022 | Medium](https://medium.com/geekculture/automate-99-of-websites-with-selenium-4-and-python-38122280493c)
 
-[Sahi (software) - Wikiwand](<https://omni.wikiwand.com/en/Sahi_(software)>)
+[Sahi (software) - Wikiwand](<https://www.wikiwand.com/en/Sahi_(software)>)
 [Sahi - Web Automation and Test Tool download | SourceForge.net](https://sourceforge.net/projects/sahi/)
 
 [5 Best Python Frameworks for WebView Testing | Codementor](https://www.codementor.io/saifsadiq1995/5-best-python-frameworks-for-webview-testing-rp182gqxa)

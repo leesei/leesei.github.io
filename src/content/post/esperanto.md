@@ -2,13 +2,13 @@
 title: Esperanto
 description: ""
 created: 2019-04-20
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - esperanto
   - language
 ---
 
-[Esperanto - Wikiwand](https://omni.wikiwand.com/en/Esperanto)
+[Esperanto - Wikiwand](https://www.wikiwand.com/en/Esperanto)
 [Esperanto – Esperanto: the international language](http://esperanto.net/en/)
 
 [A multilingual site for learning the international language Esperanto - lernu.net](https://lernu.net/en) !important
@@ -68,8 +68,8 @@ tags:
 
 ## Alphabets
 
-[Esperanto Alphabet - Wikiwand](https://omni.wikiwand.com/en/Esperanto#/Alphabet)
-[Esperanto orthography - Wikiwand](https://omni.wikiwand.com/en/Esperanto_orthography)
+[Esperanto Alphabet - Wikiwand](https://www.wikiwand.com/en/Esperanto#/Alphabet)
+[Esperanto orthography - Wikiwand](https://www.wikiwand.com/en/Esperanto_orthography)
 [3 Writing and pronunciation / Grammar - lernu.net](https://lernu.net/en/gramatiko/skribo)
 
 [The Esperanto Alphabet - YouTube](https://www.youtube.com/watch?v=SCE7Il65KN0) just alphabets
@@ -91,7 +91,7 @@ Writing:
 ## Grammar
 
 [Grammar - lernu.net](https://lernu.net/en/gramatiko)
-[Esperanto grammar - Wikiwand](https://omni.wikiwand.com/en/Esperanto_grammar)
+[Esperanto grammar - Wikiwand](https://www.wikiwand.com/en/Esperanto_grammar)
 
 [The Sixteen Rules of Esperanto Grammar](http://literaturo.org/HARLOW-Don/Esperanto/rules.html)
 [Esperanto - Wikiversity](https://en.wikiversity.org/wiki/Esperanto)
@@ -109,9 +109,9 @@ eo -> eo
 
 ## Words
 
-[Esperanto orthography - Wikiwand](https://omni.wikiwand.com/en/Esperanto_orthography)
-[Esperanto vocabulary - Wikiwand](https://omni.wikiwand.com/en/Esperanto_vocabulary)
-[Esperanto etymology - Wikiwand](https://omni.wikiwand.com/en/Esperanto_etymology)
+[Esperanto orthography - Wikiwand](https://www.wikiwand.com/en/Esperanto_orthography)
+[Esperanto vocabulary - Wikiwand](https://www.wikiwand.com/en/Esperanto_vocabulary)
+[Esperanto etymology - Wikiwand](https://www.wikiwand.com/en/Esperanto_etymology)
 
 [Akademia Vortaro](http://esperanto.davidgsimpson.com/librejo/avortaro.html) includes words through the 9th Official Supplement (2007)
 

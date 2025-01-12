@@ -2,7 +2,7 @@
 title: Caddy
 description: Caddy 2 is a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go
 created: 2023-06-10
-updated: 2024-01-17
+updated: 2025-01-09
 tags:
   - nginx
   - reverse-proxy
@@ -110,6 +110,13 @@ caddy file-server browse
 
 [Caddy v2.1 CORS whitelist](https://gist.github.com/ryanburnette/d13575c9ced201e73f8169d3a793c1a3) use `import` directive
 [Implementing CORS whitelist in Caddy v2 - Help - Caddy Community](https://caddy.community/t/implementing-cors-whitelist-in-caddy-v2/8590) including 2.0 solution
+
+Use `defer` headers to override the value set by the proxied server, c.f. `header_down`
+[Repeated Server Header - Help - Caddy Community](https://caddy.community/t/repeated-server-header/24830/7)
+[Caddy | webinstall.dev](https://webinstall.dev/caddy/#how-to-handle-cors-preflight--request)
+
+[header (Caddyfile directive) — Caddy Documentation](https://caddyserver.com/docs/caddyfile/directives/header)
+[reverse_proxy (Caddyfile directive) — Caddy Documentation](https://caddyserver.com/docs/caddyfile/directives/reverse_proxy#headers)
 
 ### Videos
 

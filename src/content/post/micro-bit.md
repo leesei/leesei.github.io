@@ -2,7 +2,7 @@
 title: Micro:bit
 description: ""
 created: 2018-09-12
-updated: 2024-08-14
+updated: 2025-01-10
 tags:
   - iot
   - maker
@@ -10,10 +10,9 @@ tags:
 ---
 
 [Micro:bit Educational Foundation | micro:bit](https://microbit.org/)
-[Micro Bit - Wikiwand](http://omni.wikiwand.com/en/Micro_Bit)
+[Micro Bit - Wikiwand](http://www.wikiwand.com/en/Micro_Bit)
 
 [carlosperate/awesome-microbit: A curated list of BBC micro:bit resources.](https://github.com/carlosperate/awesome-microbit)
-[Welcome to micro:mag - micro:mag](https://micromag.cc/)
 
 v1.5, 43x52mm, with builtin:
 
@@ -28,12 +27,20 @@ v1.5, 43x52mm, with builtin:
 - PH2.0 3-3.7V power
 
 [bbcmicrobit/hardware: Hardware designs for the BBC micro:bit](https://github.com/bbcmicrobit/hardware)
-[Micro:bit Hardware](https://tech.microbit.org/hardware/)
+[microbit-foundation/microbit-v2-hardware: The schematic and Bill of Material for the BBC micro:bit V2](https://github.com/microbit-foundation/microbit-v2-hardware)
+[Micro:bit Hardware](https://tech.microbit.org/hardware/) V2 has builtin speaker, microphone, touch sensor, two more LEDs, reset/sleep button
+[1.5 micro:bit revision](https://tech.microbit.org/hardware/1-5-revision/) combined motion sensor
+[1.3x micro:bit revision](https://tech.microbit.org/hardware/1-3-revision/) individual accelerometer and magnetometer
+[The new micro:bit V2 : Help & Support](https://support.microbit.org/support/solutions/articles/19000119052-details-of-micro-bit-v2)
+[Overview | micro:bit](https://microbit.org/get-started/features/overview/)
+[How to identify the version number of your micro:bit : Help & Support](https://support.microbit.org/support/solutions/articles/19000119162-how-to-identify-the-version-number-of-your-micro-bit)
+
 [micro:bit Power Consumption | REUK.co.uk](http://www.reuk.co.uk/wordpress/microbit-power-consumption/)
 
 [Getting Started with micro:bit - YouTube](https://www.youtube.com/playlist?list=PLBcrWxTa5CS0mWJrytvii8aG5KUqMXvSk) by SparkFun
 [micro:bit Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PL3bNyZYHcRSUl7Z5ruCPurJIx4fCtZ35D)
 [智能学习-micro:bit 开发板](http://www.yahboom.com/study/micro-board)
+[micro:bit周边配件-亚博智能旗舰店-天猫Tmall.com](https://yabozhineng.world.tmall.com/category-1496418387.htm)
 
 [Bitty Software](http://www.bittysoftware.com/index.html)
 [IchigonQuest for micro:bit - YouTube](https://www.youtube.com/watch?v=Zw0ON6jjoLA)
@@ -42,6 +49,7 @@ v1.5, 43x52mm, with builtin:
 
 [microbit & accessories from Kitronik](https://www.kitronik.co.uk/microbit.html)
 [Micro:bit 技術發展歷程觀察 – circuitcellar](https://www.circuitcellar.com.tw/?p=3882)
+[Micro:bit Zone | Robots Got Talents](https://www.robotsgottalents.com/microbit-zone)
 
 ## Pinout/GPIO
 
@@ -112,16 +120,23 @@ max current for pins: 90mA
 
 ### `.hex` file format
 
-[Intel HEX - Wikiwand](https://omni.wikiwand.com/en/Intel_HEX)
-
 [.HEX file format](https://tech.microbit.org/software/hex-format/)
 Python source code is embedded at address `0x3E000`, source code in the above link.
+The new universal hex file format that supports both V1 and V2 extends Intel HEX and should be larger in size (~1.8Mb vs ~700Kb)
+
+[Home | microbit-universal-hex](https://microbit-foundation.github.io/microbit-universal-hex/)
+[microbit-foundation/spec-universal-hex: Specification for the micro:bit Universal Hex format.](https://github.com/microbit-foundation/spec-universal-hex)
+[microbit-foundation/microbit-universal-hex: TypeScript/JavaScript library to create micro:bit Universal Hex files.](https://github.com/microbit-foundation/microbit-universal-hex)
+
+[Universal Hex Creator](https://tech.microbit.org/software/universal-hex-creator/)
+[Universal Hex Splitter](https://microbit-foundation.github.io/microbit-universal-hex/examples/separate.html)
 
 [Locking and unlocking Makecode Editor .hex files : Support](https://support.microbit.org/support/solutions/articles/19000053218-locking-and-unlocking-makecode-editor-hex-files)
 [pxt/source-embedding.md at 437f53ca6311335c7f3f75a062ec1079b4e7806a · Microsoft/pxt · GitHub](https://github.com/Microsoft/pxt/blob/437f53ca6311335c7f3f75a062ec1079b4e7806a/docs/source-embedding.md)
 JavaScript source is embedded as JSON at `0x20000000`.
 [Locking and unlocking Javascript Blocks Editor .hex files : Support](https://support.microbit.org/support/solutions/articles/19000053218-locking-and-unlocking-javascript-blocks-editor-hex-files)
 
+[Intel HEX - Wikiwand](https://www.wikiwand.com/en/Intel_HEX)
 [Intel HEX file Viewer](http://www.dlwrr.com/electronics/tools/hexview/hexview.html)
 [bialix/intelhex: Python IntelHex library](https://github.com/bialix/intelhex)
 [nrf-intel-hex | Yet another parser for “Intel HEX” files.](https://nordicsemiconductor.github.io/nrf-intel-hex/) JavaScript
@@ -168,6 +183,8 @@ The ID can be used to embed the simulator in web site.
 [Microsoft/pxt-microbit: A Blocks / JavaScript code editor for the micro:bit built on Microsoft MakeCode](https://github.com/Microsoft/pxt-microbit/)
 [pxt-microbit - npm](https://www.npmjs.com/package/pxt-microbit)
 
+[Command Line Tool](https://makecode.com/cli)
+
 > also depends on C Runtime
 
 [kadok0520/pxt-microbit - Docker Hub](https://hub.docker.com/r/kadok0520/pxt-microbit/)
@@ -177,11 +194,32 @@ The ID can be used to embed the simulator in web site.
 
 [Extensions](https://makecode.microbit.org/extensions)
 [MakeCode extensions](https://makecode.com/extensions)
+[pxt.json Manual Page](https://makecode.com/extensions/pxt-json)
+[Naming Conventions](https://makecode.com/extensions/naming-conventions)
+[Defining blocks](https://makecode.com/defining-blocks)
+[Extension localization files](https://makecode.com/extensions/localization)
 
 [makecode-extensions](https://github.com/makecode-extensions/)
-[Tinkertanker](https://github.com/Tinkertanker)
+[microsoft/pxt-common-packages: Common packages for Microsoft MakeCode editors](https://github.com/microsoft/pxt-common-packages)
+[tinkertanker repositories](https://github.com/orgs/tinkertanker/repositories?type=source&q=pxt-)
 [shaoziyang/microbit-lib: all kinds of microbit python drives, libs, examples, etc.](https://github.com/shaoziyang/microbit-lib)
-[lioujj / Repositories](https://github.com/lioujj?tab=repositories&type=source)
+
+```sh
+# once
+npm i -g pxt
+
+# in project folder
+pxt target microbit
+# generates `built/`
+pxt build
+
+# run MakeCode locally
+pxt serve
+# upload `built/binary.hex` in extension
+```
+
+[lioujj (lioujj) / Repositories](https://github.com/lioujj?tab=repositories&q=pxt-&type=source&language=&sort=)
+[吉哥的分享 - micro:bit積木](https://sites.google.com/jes.mlc.edu.tw/ljj/microbit%E9%96%8B%E7%99%BC%E6%9D%BF/microbit%E7%A9%8D%E6%9C%A8)
 
 [Microsoft/pxt-neopixel: A Neo-Pixel package for pxt-microbit](https://github.com/Microsoft/pxt-neopixel)
 [Microsoft/pxt-sonar: A Microsoft MakeCode package to handle sonar sensors and pings](https://github.com/Microsoft/pxt-sonar)
@@ -190,6 +228,8 @@ The ID can be used to embed the simulator in web site.
 [Tinkertanker/pxt-oled-ssd1306: Tinkercademy MakeCode package for using the SSD1306 OLED controller with micro:bit](https://github.com/Tinkertanker/pxt-oled-ssd1306)
 [sparkfun/pxt-gamer-bit: SparkFun gamer:bit package for Microsoft MakeCode - beta](https://github.com/sparkfun/pxt-gamer-bit)
 [MonadnockSystems/pxt-dht11](https://github.com/MonadnockSystems/pxt-dht11)
+
+[seasonedbits/pxt-color-sensor: Extension for TSC3200 color sensor module](https://github.com/seasonedbits/pxt-color-sensor)
 
 [microbit-lib/lcd/I2C_LCD1602 at master · shaoziyang/microbit-lib](https://github.com/shaoziyang/microbit-lib/tree/master/lcd/I2C_LCD1602)
 [KittenBot/pxt-powerbrick](https://github.com/KittenBot/pxt-powerbrick)
@@ -213,9 +253,13 @@ Another JavaScript runtime, no block programming support
 
 > MicroPython API is synchronous and do not implement all of Python 3's feature
 
-[Micro:bit - Python editor](https://python.microbit.org/)
-[Mu editor(Micropython)-Kittenbot](https://www.kittenbot.cn/newsinfo/969085.html)
+[micro:bit Python Editor](https://python.microbit.org/v/)
+[microbit-foundation/python-editor-v3: Micro:bit Educational Foundation Python Editor V3](https://github.com/microbit-foundation/python-editor-v3)
 
+[mytechnotalent/Python-For-Kids: A FREE comprehensive online Python development tutorial FOR KIDS utilizing an official BBC micro:bit Development Board going step-by-step into the world of Python for microcontrollers.](https://github.com/mytechnotalent/Python-For-Kids)
+[Python For Kids #python #micropython #microbit - YouTube](https://www.youtube.com/watch?v=b4V13Lvk_jM)
+
+[bbcmicrobit/micropython: Port of MicroPython for the BBC micro:bit](https://github.com/bbcmicrobit/micropython)
 [BBC micro:bit MicroPython documentation](https://microbit-micropython.readthedocs.io/en/latest/index.html)
 [whaleygeek/microbit_python: Various micro:bit python code examples](https://github.com/whaleygeek/microbit_python)
 
@@ -294,11 +338,7 @@ Used by upper layers, you can also use it directly.
 
 [Networking with the micro:bit - Nominet](https://www.nominet.blog/networking-with-the-microbit/)
 
-## Extension boards
-
-[microbit 转接板 microbit 扩展板 IOBIT KittenBot 小喵科技-淘宝网](https://item.taobao.com/item.htm?id=567838559503) v1 ¥29 (¥20.3), KittenBot, 20pins x 3, micro USB power, buzzer, LEGO compatible
-
-[micro:bit 能量魔块扩展板 Armourbit 图形编程 兼容乐高 小喵科技-淘宝网](https://item.taobao.com/item.htm?id=593081651784) ¥139, KittenBot, 20pins x 8, 4pins PH 2.0 x 7, PH2.0 3-3.7V power, buzzer, LEGO compatible
+## Breakout boards
 
 [micro:bit 转接板 micro:bit 扩展板 IOBIT ittenBot 创客教育套件-淘宝网](https://item.taobao.com/item.htm?id=573067000645) ¥28 (¥18), HJduino, 20pins x 3, micro USB power, buzzer, LEGO compatible, ~= KittenBot IOBIT v1
 
@@ -329,62 +369,18 @@ Used by upper layers, you can also use it directly.
 - Octopus connectors
 - 3.5/5V
 
-[BBC Micro:bit 扩展板 microbit 转接板拓展板 DIY 智能小车 亚博-淘宝网](https://item.taobao.com/item.htm?id=564678119175) ¥117.39, 亚博 Bitbot
-
-- 2 RGB LED spotlight
-- 3 RGB LED
-- 2 DC, 3 servo
-- buzzer
-- LiPo with charging
-- infrared receiver
-- line tracking sensor
-- distance sensor
-- port for ultrasound sensor
-- XH2.54 3.7V power
-- mobile app
-- [智能学习-microbit 扩展板（专业级）](http://www.yahboom.com/study/bitbot-board)
-- [micro:bit expansion board](https://www.yahboom.net/study/breakout)
-- [lzty634158/yahboom_mbit](https://github.com/lzty634158/yahboom_mbit)
-- [lzty634158/yahboom_mbit_en: This is yahboom_mbit English version.](https://github.com/lzty634158/yahboom_mbit_en)
-- better buy 智能小车 set (¥228)
-- [智能学习-Mirco:bit 智能小车](http://www.yahboom.com/study/Bitbot) `h0zd`
-- [micro:bit robot](https://www.yahboom.net/study/Bitbot)
-- [micro：bit smart robot - YouTube](https://www.youtube.com/watch?v=y5QCgXlHN_I)
-
-[Micro:bit 扩展板 积木电机舵机开发驱动板套件 microbit 传感器 GPIO-淘宝网](https://item.taobao.com/item.htm?id=590223678300) ¥99, 亚博 Super:bit
-
-- crocodile clip pins
-- 4 RGB LED
-- 4 DC, 8 servo
-- buzzer
-- 18650 with charging
-- Lego compatible
-- [智能学习-Super:bit 多功能扩展板](https://www.yahboom.com/study/Super:bit) `4hnu`
-- [Super:bit_expansion_board](https://www.yahboom.net/study/Super:bit)
-- [lzty634158/SuperBit: microbit 多功能扩展板](https://github.com/lzty634158/SuperBit)
-
-[micro:bit 扩展板 microbit 中小学入门 Robotbit V2.1 Python 编程-淘宝网](https://item.taobao.com/item.htm?id=559862615142) ¥99, Robot:bit
-
-- 4 RGB LED
-- 4 DC, 8 servo
-- buzzer
-- 18650 with charging
-- Lego compatible
-- [KittenBot/pxt-robotbit: Robotbit extension for makecode](https://github.com/KittenBot/pxt-robotbit)
-- [Robotbit -robotics expansion board for micro:bit – KittenBot](https://www.kittenbot.cc/collections/frontpage/products/robotbit-robotics-expansion-board-for-micro-bit)
-- [2. Robotbit V2.0 详解 — kittenbot docs 文档](https://kittenbot.readthedocs.io/zh_CN/latest/mainboards/Robotbitv2.0.html)
-
-[MBot 拓展板 Micro:bit 电机扩展板-淘宝网](https://item.taobao.com/item.htm?id=574070307498) ¥190.9 Elecfreaks Robit
+[MBot 拓展板 Micro:bit 电机扩展板-淘宝网](https://item.taobao.com/item.htm?id=574070307498) ¥149.9 Elecfreaks Robit
 
 - Makeblock compatible
 - 4 DC/2 step, 8 servo
 - Octopus, RJ25 connectors
 
-[Micro:bit Elecfreaks motor:bit Microbit 电机驱动板 扩展板-淘宝网](https://item.taobao.com/item.htm?id=564916191336) ¥89.90, Elecfreaks motor:bit
+[恩孚microbit驱动扩展板编程积木套装microbit电机舵机传感器扩展-淘宝网](https://item.taobao.com/item.htm?id=676933238779&skuId=4863777441334) ¥119, Elecfreaks motor:bit
 
 - 2 DC, 8 servo
 - buzzer
 - 3.5/5V
+- Lego compatible
 - Octopus connectors
 
 [Microbit Micro:bit 扩展板机器人/品牌原装 Python 编程创客教育-淘宝网](https://item.taobao.com/item.htm?id=563435199195) ¥111.6, LOBOT
@@ -396,7 +392,7 @@ Used by upper layers, you can also use it directly.
 - 18650 with charging
 - LEGO compatible
 
-[microbit 可编程电子积木/DaDa:bit 套件/创客教育 micro:bit 机器人-淘宝网](https://item.taobao.com/item.htm?id=589922037484) ¥122, LOBOT
+[microbit 可编程电子积木/DaDa:bit 套件/创客教育 micro:bit 机器人-淘宝网](https://item.taobao.com/item.htm?id=589922037484) ¥394, LOBOT DaDa:bit
 
 - 2 RGB LED
 - 2 DC, 6 servo
@@ -415,12 +411,168 @@ Used by upper layers, you can also use it directly.
 
 ### Kittenbot
 
+> a bit expensive, I personally prefer Yahboom
+
 [KittenBot](https://www.kittenbot.cc/)
 [KittenBot/kittenbot-docs](https://github.com/KittenBot/kittenbot-docs)
 [欢迎来到 Kittenbot 的文档与教程 — kittenbot docs 文档](https://kittenbot.readthedocs.io/zh_CN/latest/index.html)
 
 [Micro:bit 教程汇总目录（20180710 更新） - Micro:bit&Robot:bit - Kittenbot 小喵科技——专注图形化编程教育 - Powered by Discuz!](http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=104)
 [Micro:bit&Robot:bit - Kittenbot 小喵科技——专注图形化编程教育 - Powered by Discuz!](http://kittenbot.cn/bbs/forum.php?mod=forumdisplay&fid=37)
+
+[microbit 转接板 microbit 扩展板 IOBIT KittenBot 小喵科技-淘宝网](https://item.taobao.com/item.htm?id=567838559503) v2 ¥44.53, KittenBot, 20pins x 3, micro USB power, buzzer, 2.5mm, LEGO compatible
+
+[micro:bit 能量魔块扩展板 Armourbit 图形编程 兼容乐高 小喵科技-淘宝网](https://item.taobao.com/item.htm?id=593081651784) ¥139, KittenBot, 20pins x 8, 4pins PH 2.0 x 7, PH2.0 3-3.7V power, buzzer, LEGO compatible
+
+[micro:bit 扩展板 microbit 中小学入门 Robotbit V2.1 Python 编程-淘宝网](https://item.taobao.com/item.htm?id=559862615142) ¥99, KittenBot Robot:bit
+[Robotbit -robotics expansion board for micro:bit – KittenBot](https://www.kittenbot.cc/collections/frontpage/products/robotbit-robotics-expansion-board-for-micro-bit)
+
+- 4 RGB LED
+- 4 DC, 8 servo
+- buzzer
+- 18650 with charging
+- Lego compatible
+- [KittenBot/pxt-robotbit: Robotbit extension for makecode](https://github.com/KittenBot/pxt-robotbit)
+- [2. Robotbit V2.0 详解 — kittenbot docs 文档](https://kittenbot.readthedocs.io/zh_CN/latest/mainboards/Robotbitv2.0.html)
+
+### 亚博 Yahboom
+
+Chinese study resources requires access code
+Use the global site (change `yahboom.com` to `yahboom.net`)
+
+#### Bitbot
+
+[Microbit Car Kit Support MakeCode Programming APP IR Control | Yahboom](https://category.yahboom.net/collections/mb-robotics/products/bitbot)
+[BBC Micro:bit 扩展板 microbit 转接板拓展板 DIY 智能小车 亚博-淘宝网](https://item.taobao.com/item.htm?id=564678119175) ¥117.39, 亚博 Bitbot Board/mbit
+
+- 2 RGB LED spotlight
+- 3 RGB LED
+- 2 DC, 3 servo
+- buzzer
+- LiPo with charging
+- infrared receiver
+- line tracking sensor
+- distance sensor
+- port for ultrasound sensor
+- XH2.54 3.7V power
+- mobile app
+
+[智能学习-microbit 扩展板（专业级）](http://www.yahboom.com/study/bitbot-board)
+[micro:bit expansion board](https://www.yahboom.net/study/breakout)
+[YahboomTechnology/Microbit-professional-expansion-board: An professional expansion board is designed specifically for micro:bit.](https://github.com/YahboomTechnology/Microbit-professional-expansion-board)
+
+[YahboomTechnology/Building-bit-starter-kit: Yahboom building:bit block kit based on micro:bit](https://github.com/YahboomTechnology/Building-bit-starter-kit)
+
+[亚博智能Micro:bit机器人小车套件 Microbit图形化python编程STEM-tmall.com天猫](https://detail.tmall.com/item.htm?id=608239381395) 智能小车 set (¥228) is a better deal
+[micro：bit smart robot YouTube](https://www.youtube.com/watch?v=y5QCgXlHN_I)
+[智能学习-Mirco:bit 智能小车](http://www.yahboom.com/study/Bitbot) `h0zd`
+[micro:bit robot](https://www.yahboom.net/study/Bitbot)
+[YahboomTechnology/Microbit-Smart-Car: Yahboom micro:bit smart robot car with IR and APP](https://github.com/YahboomTechnology/Microbit-Smart-Car)
+
+MakeCode Extension
+[lzty634158/yahboom_mbit](https://github.com/lzty634158/yahboom_mbit)
+[lzty634158/yahboom_mbit_en: This is yahboom_mbit English version.](https://github.com/lzty634158/yahboom_mbit_en)
+
+#### Super:bit v1
+
+- crocodile clip pins
+- 4 RGB LED
+- 4 DC, 8 servo
+- buzzer
+- 18650 with charging
+- Lego compatible
+
+[亚博智能 Micro:bit扩展板GPIO积木电机舵机microbit传感器驱动板-tmall.com天猫](https://detail.tmall.com/item.htm?id=608896558638) ¥99, 亚博 Super:bit
+[智能学习-Super:bit 多功能扩展板](https://www.yahboom.com/study/Super:bit) `4hnu`
+[Super:bit_expansion_board](https://www.yahboom.net/study/Super:bit)
+
+[Spider:bit积木蜘蛛](https://www.yahboom.com/study/spider:bit)
+[Spider:bit-Microbit](http://www.yahboom.net/study/spider:bit)
+[YahboomTechnology/Spider-bit: Yahboom programmable Spider:bit based on Micro:bit compatible with LEGO](https://github.com/YahboomTechnology/Spider-bit)
+
+[Arm:bit积木机械臂](https://www.yahboom.com/study/arm:bit)
+[Arm:bit](http://www.yahboom.net/study/arm:bit)
+[YahboomTechnology/Arm-bit: Yahboom programmable Arm:bit based on Micro:bit compatible with LEGO](https://github.com/YahboomTechnology/Arm-bit/)
+
+[Omni:bit积木全向车](https://www.yahboom.com/study/Omni:bit)
+[Omni:bit](http://www.yahboom.net/study/Omni:bit)
+[YahboomTechnology/Omnibit: Yahboom programmable Omni:bit smart robot car with Mecanum Wheel](https://github.com/YahboomTechnology/Omnibit)
+
+[Spin:bit积木摩天轮](https://www.yahboom.com/study/Spin:bit)
+[Spin:bit](http://www.yahboom.net/study/Spin:bit)
+[YahboomTechnology/Spin-bit: Yahboom programmable Spin:bit based on Micro:bit compatible with LEGO](https://github.com/YahboomTechnology/Spin-bit)
+
+[Running:bit积木小车](https://www.yahboom.com/study/running:bit)
+[Running:bit](http://www.yahboom.net/study/running:bit)
+[YahboomTechnology/Running-bit: Yahboom programmable Running:bit based on Micro:bit V2 compatible with LEGO](https://github.com/YahboomTechnology/Running-bit)
+
+[Tumble:bit积木平衡车](https://www.yahboom.com/study/tumble:bit) `8dtp`
+[Tumble:bit](http://www.yahboom.net/study/tumble:bit)
+[YahboomTechnology/Omnibit: Yahboom programmable Omni:bit smart robot car with Mecanum Wheel](https://github.com/YahboomTechnology/Omnibit)
+
+[Biped:bit](http://www.yahboom.net/study/biped:bit)
+[YahboomTechnology/Biped-bit: Yahboom programmable Biped:bit based on Micro:bit compatible with LEGO](https://github.com/YahboomTechnology/Biped-bit)
+
+MakeCode Extension
+[lzty634158/SuperBit: microbit 多功能扩展板](https://github.com/lzty634158/SuperBit) Chinese only
+[YahboomTechnology/SuperBitLib](https://github.com/YahboomTechnology/SuperBitLib)
+[YahboomTechnology/OmniBitLib](https://github.com/YahboomTechnology/OmniBitLib)
+
+#### Super:bit v2
+
+[Super:bit 2.0扩展板](https://www.yahboom.com/tbdetails?id=319)
+[Yahboom Microbit Expansion Board with Servo Motor Sensor PH2.0 Interface](https://category.yahboom.net/collections/mb-shield-accessories/products/super-bit)
+
+[亚博智能 Micro:bit扩展板GPIO积木电机舵机microbit传感器驱动板-tmall.com天猫](https://detail.tmall.com/item.htm?id=608896558638) ¥220, SuperBit v2 board, 8 sensors, Lego parts
+
+- 4 RGB LED
+- 4 DC, 8 servo
+- 4 I2C
+- 12 PH2.0 (WOM sensor compatible)
+- buzzer
+- 18650 with charging
+- Lego compatible
+
+[Super:bit 2.0扩展板](https://www.yahboom.com/study/Super:bit)
+[Super:bit Expansion Board](http://www.yahboom.net/study/Super:bit)
+[YahboomTechnology/Superbit-expansion-board: Yahboom Super:bit expansion board for micro:bit](https://github.com/YahboomTechnology/Superbit-expansion-board)
+
+MakeCode Extension
+[YahboomTechnology/SuperBitLibV2](https://github.com/YahboomTechnology/SuperBitLibV2)
+
+#### World of Module
+
+> Lego compatible sensors
+
+[Microbit魔块世界套件详情](https://www.yahboom.com/tbdetails?id=479) PH2.0 breakout board, 10 sensors, Lego parts
+8 sensor kit is missing have 7-segment and button
+SuperBit v2 and Building:kit's advanced kit are better options
+[亚博智能Microbit机器人套件编程小车电子积木传感器python开发板-tmall.com天猫](https://detail.tmall.com/item.htm?id=650822389516) ¥414
+[Yahboom World of Module Programmable Sensor Kit for Micro:bit V2 board](https://category.yahboom.net/collections/mb-micro-bit/products/wom-sensor-kit-microbit)
+
+[Microbit Sensor Expansion Board](http://www.yahboom.net/study/mow_microbit)
+
+[Microbit魔块世界套件](https://www.yahboom.com/study/WOM-Sensor-Kit-microbit)
+[World of Module Sensor Kit](http://www.yahboom.net/study/WOM-Sensor-Kit-microbit)
+[YahboomTechnology/WOM-Sensor-Kit-For-Microbit: Yahboom world of module programmable sensor kit for Micro:bit V2 board](https://github.com/YahboomTechnology/WOM-Sensor-Kit-For-Microbit)
+
+MakeCode Extension
+[YahboomTechnology/Module-World](https://github.com/YahboomTechnology/Module-World)
+
+自选版
+[亚博智能 机器人传感器模块电子积木套件小车microbit树莓派pico2-tmall.com天猫](https://detail.tmall.com/item.htm?id=643573627209) 自选版
+[魔块世界传感器](https://www.yahboom.com/study/World-of-Module)
+[World of Module Kit](http://www.yahboom.net/study/World-of-Module)
+
+#### Building:kit
+
+> Super:bit + World of Module
+
+[亚博智能microbit编程积木机器人传感器套件图形化Python小车教育-tmall.com天猫](https://detail.tmall.com/item.htm?id=619837987780) ¥354, SuperBit v2 board, motors, 8 sensors (Advanced kit), 358 Lego pieces
+[Yahboom 16 in 1 Building:bit Superkit Programmable Kit for Micro:bit](https://category.yahboom.net/collections/mb-micro-bit/products/buildingbit-super-kit)
+
+[Building:bit Superkit](http://www.yahboom.net/study/buildingbit-super-kit)
+[YahboomTechnology/buildingbit-super-kit: Building:bit Super kit Programmable building block kit Based on Micro:bit](https://github.com/YahboomTechnology/buildingbit-super-kit)
 
 ## Box sets
 

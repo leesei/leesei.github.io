@@ -2,272 +2,12 @@
 title: Anime
 description: ""
 created: 2016-05-30
-updated: 2024-09-05
+updated: 2025-01-09
 tags:
   - anime
 ---
 
 [[kids-anime]]
-
-[不負責任熱血君 - YouTube](https://www.youtube.com/@user-crazy-passionate)
-
-## 追番
-
-多羅羅 2019
-鬼滅之刃 2019
-不吉波普不笑 2019
-Radiant
-賢者之孫
-境界觸發
-無職轉生
-MEGALO BOX
-Hajime no Ippo 第一神拳
-旗揚獸道/萌獸寵物店
-海賊王 特別篇：草帽海賊團日誌
-SSSS.GRIDMAN
-SSSS.DYNAZENON
-聖 ☆ 哥傳
-七大罪 啟示錄四騎士
-
-全員惡玉 (2020)
-シャアの日常
-HEROMAN 英雄勇者
-Kanojyo To 彼女, 女友成雙
-寒蟬, 寒蟬鳴泣之時 卒
-叫我對大哥
-新科學小飛俠 GATCHAMAN Crowds
-小林家的龍女僕
-[💫《為美好的世界獻上祝福！》(繁中字幕 )【Ani-One】 - YouTube](https://www.youtube.com/playlist?list=PLC18xlbCdwtTCQstVZEWPQ5ir3Ue5SbzI)
-
-## Watchlist
-
-我的英雄学院 第四五六季
-入間同學入魔了 第一二三季
-史上最強弟子兼一OVA-暗之襲擊 2014
-
-魔法禁書目錄
-魔法禁書目錄 2013 高清重置
-科學一方通行
-科学超电磁炮
-打工吧! 魔王大人
-My Hero Academia: Vigilantes
-My Hero Academia: All Might Rising
-Spider-Man: Into the Spider-Verse
-Spider-Man: Across the Spider-Verse
-山田和七個魔女
-魔王奶爸
-鬼燈的冷徹
-
-工作細胞 第二季
-Overlord
-七大罪 第一二三四五季
-飆速宅男
-勇者鬥惡龍：達伊的大冒險
-奧術
-勇者、辭職不幹了
-電馭叛客：邊緣行者
-葬送的芙莉蓮
-無職轉生：到了異世界就拿出真本事 第一二季
-機動戰士高達：水星的魔女 第一二季
-刺客伍六七 第一二三四季
-惡魔城：夜曲
-齊木楠雄的災難 第三季
-高分少女 第一二季
-國王排名 第一二季
-輝夜姬想讓人告白
-擅長捉弄人的高木同學
-机动奥特曼
-LV1 魔王與獨居廢勇者
-Trigun Stampede
-Vultron: Legendary Defender
-刀劍神域 Alicization Underworld
-
-## 等番
-
-咒術迴戰
-我的英雄学院
-一拳超人
-JOJO 的奇妙冒險
-呪術迴戰
-怕痛的我，把防禦力點滿就對了
-Spy Vs Family
-派對咖孔明
-炎炎消防隊
-肌肉魔法使 MASHLE
-死後變成史萊姆/關於我轉生變成史萊姆這檔事
-異世界歸來的舅舅
-伊甸星原 Edens Zero
-
-## Ended
-
-はじめの一歩
-我家的女僕有夠煩
-Fate Zero
-Konosuba
-男子高校生の日常
-斷空我 Nova
-魔神 X Infinity
-浪客剑心電影
-銀之匙
-修業魔女璐璐萌
-PsychoPass
-花丸幼稚园
-[【可乐剧场】《银魂》1-704 集一口气看完 真正了解【银魂】的结局是什么 - YouTube](https://www.youtube.com/watch?v=XSMdnSHmVEY)
-[【可乐剧场】【妖精的尾巴】一口气看完妖尾全集 217 分钟看完全网最详细动漫视频解说 - YouTube](https://www.youtube.com/watch?v=sQx7FOUPU0Y)
-惡魔城 第一二三四季
-
-Iron Man: Animated Series (2010)
-X-Men: Animated Series (2011)
-Marvel Future Avengers (2017)
-
-[Pokémon the Series: XY - YouTube](https://www.youtube.com/playlist?list=PLQo7jlHehrYN63q0UG54AEYZmv-WsBZZX)
-[Pokémon Journeys: The series | Pokémon Asia ENG - YouTube](https://www.youtube.com/playlist?list=PLQo7jlHehrYNE9PzaiGrywyGThkbwgclT)
-
-Lego Marvel Super Heroes: Maximum Overload (2013)
-Lego Marvel Super Heroes: Avengers Reassembled (2015)
-Iron Man: Rise of Technovore (2010)
-Ultimate Spider-Man (2012-17)
-Marvel's Spider-Man (2017-)
-[michael bublé spider-man theme - Google Search](https://www.google.com/search?q=michael+bubl%C3%A9+spider-man+theme)
-[Promare (2019) - Official Japanese Trailer | Studio Trigger - YouTube](https://www.youtube.com/watch?v=_3zqza91fYI)
-[Promare (2019) - Rotten Tomatoes](https://www.rottentomatoes.com/m/promare)
-Dragon Ball Z: Battle Of Gods
-Dragon Ball Z: Resurrection 'F'
-[【完整版】龍珠 Z：復活的弗利薩 - Dragon Ball Z: Resurrection 'F'](http://skymovie.video/video-streaming-details/26637)
-Dragon Ball Super: BROLY
-
-Slam Dunk
-Gundam Seed
-Gundam Seed Destiny
-Gundam Z
-Gundam ZZ
-Gundam 0080
-Gundam 0083
-Gundam RE:0096
-高達 Reconguista in G
-Summer Wars
-閃電十一人
-FAIRY TAIL 魔導少年 ZERØ
-Digimon 05
-備長炭
-熱帶雨林的爆笑生活
-家庭教师
-金色的卡旋
-魔術士歐菲 Orphen 2020
-[魔術師歐菲 流浪之旅 – Anime1.me 動畫線上看](https://anime1.me/category/2020%e5%b9%b4%e5%86%ac%e5%ad%a3/%e9%ad%94%e8%a1%93%e5%b8%ab%e6%ad%90%e8%8f%b2-%e6%b5%81%e6%b5%aa%e4%b9%8b%e6%97%85)
-時空幻境 熱情傳奇 The X 第一季 第二季
-[宅男也能稱霸體育 一口氣看完高中聯賽 -- 飆速宅男 第一季 第二季 - YouTube](https://www.youtube.com/watch?v=1VM-NR4HASA)
-MAGI 魔奇少年 辛巴達的冒險
-Ironman 2011
-鬼眼狂刀
-[新妹魔王的契約者](https://omni.wikiwand.com/zh/%E6%96%B0%E5%A6%B9%E9%AD%94%E7%8E%8B%E7%9A%84%E5%A5%91%E7%BA%A6%E8%80%85)
-
-## Finished
-
-我的英雄学院 第一 二 三季
-My Hero Academia: Two Heroes
-JOJO 的奇妙冒險 第一 二 三 四 五 六部 岸邊露伴一動不動
-炎炎消防隊 第一 二季
-天元突破
-鋼練 FA
-勇者王 TV ＋ OVA
-羅德斯島戰記-英雄騎士傳-
-傳說中勇者的傳說
-備長炭
-Eye Shield 21
-Digimon 01, 02, Tri
-甲鐵城的卡巴內里 第一季 海門決戰
-一拳超人 第一季 OAD 第二季
-阿爾斯蘭戰記 第一 二季
-記錄的地平線 第一 二季
-石紀元 Dr. Stone 第一 二季
-潮與虎 第一 二 三季
-為食獵人 第一季(49 集)
-刀劍神域 SAO 第一 二季 劇場版:序列爭戰 外傳:GGO Progressive
-暗杀教室 第一 二季, Q, 课外授课
-Gundam 鐵血孤兒 第一 二季
-Gundam 第 08MS 小隊
-Gundam 第 08MS 小隊 劇場版
-Gundam Wing, Gundam Wing: Endless Waltz
-我家有個魚乾妹 第一 二季
-Kill-La-Kill
-怪獣娘 第一 二季
-在下坂本，有何貴幹？
-齊木楠雄的災難 第一 二季 完結篇 再始動篇
-逆轉裁判 第一 二季
-暗殺教室 第一 二季
-Voltron: Legendary Defender (Netflix) Season 1,2,3,4,5,6,7,8
-潔癖男子！青山君
-Hunter X Hunter 2011
-咕嚕咕嚕魔法陣 2017
-WORKING!! 第一 二 三季 Web 版
-工作細胞 第一季
-活撃/刀剣乱舞
-靈能百分百 (路人超能100) 第一 二 三季 Reigen(OVA1)
-BRAVE10 真田十勇士
-將國戡亂記 第一季
-魔法少女-俺
-荒川爆笑团 第一 二季
-慎重勇者
-[冒險失敗魔王扒開公主肚子吃掉她与勇者的孩子？你所不知道慎重勇者 比骨王還謹慎拼盡全力的冒險故事！！【慎重勇者】【爆肝紳士大木】 - YouTube](https://www.youtube.com/watch?v=PU7IUE4Xhos)
-[魔王勇者](https://omni.wikiwand.com/zh/%E9%AD%94%E7%8E%8B%E5%8B%87%E8%80%85)
-怕痛的我，把防禦力點滿就對了 第一 二季
-[一口气看完《结界师》 - YouTube](https://www.youtube.com/watch?v=_HhJNKdAgrc)
-[ULTRAMAN アニメ公式サイト](https://anime.heros-ultraman.com/)
-派對咖孔明 第一季
-靈能百分百 第一 二 三季
-Spy vs Family 間諜家家酒 第一 二季
-肌肉魔法使 MASHLE 第一 二季
-咒術迴戰 第一 二季 劇場版咒術迴戰0
-關於我轉生變成史萊姆這檔事 第一 二季 OAD1 OAD2 日記 柯里烏斯之夢 紅蓮之絆篇
-Shangri-La Frontier 香格里拉·開拓異境
-Cannon Busters 火炮剋星 第一季
-Undead Unluck 不死不運 第一季
-World Trigger 境界觸發者 第一 二 三季
-浪客劍心 2023
-通靈王 FLOWERS 2024
-
-One Piece Strong World
-One Piece: Z
-One Piece: Episode Chopper
-One Piece Gold
-One Piece Stampede
-One Piece RED
-
-七大罪 聖戰的預兆 戒律的復活 眾神的逆鱗 龍的審判
-七大罪電影 天空的囚徒 被光明詛咒的人們 愛丁堡的恩怨
-
-TIGER and BUNNY: The Beginning (2012)
-TIGER and BUNNY: The Rising (2014)
-TIGER and BUNNY (2022)
-TIGER and BUNNY Season 2 (2023)
-
-The Lego Batman Movie
-Batman Ninja
-[Why Megamind is a Subversive Masterpiece - YouTube](https://www.youtube.com/watch?v=c-2Tjm2M2cg&t=1s)
-Shark Tale
-Monsters vs Aliens
-Shrek
-Kung Fu Panda 1
-
-NO GUNS LIFE
-My Hero Academia: Heroes Rising
-My Hero Academia: World Heroes' Mission subtitles
-Slayers 第一 二 三 四季 SPECIAL(OVA1) EXCELLENT(OVA2) 完全无欠版(剧场版 1) RETURN(剧场版 2) GREAT(剧场版 3) GOURGEOUS(剧场版 4) PREMIUM(剧场版 5)
-
-## Songs/神曲
-
-日本 動漫 神曲
-
-Only My Railgun - fripSide
-
-青鳥 Blue Bird-2009 LIVE version - Ikimonogakari
-
-極樂淨土 Gokuraku Joudo - GARNiDELiA
-
-戀愛循環 Renai Circulation - Kana Hanazawa
-
-紅蓮華
 
 ## Source
 
@@ -303,8 +43,9 @@ Only My Railgun - fripSide
 [阿泥妹飯 - YouTube](https://www.youtube.com/@animefan) AnimeFan
 [慢慢慢老斯 - YouTube](https://www.youtube.com/@dr_maam)
 [荔枝 - YouTube](https://www.youtube.com/@laichi7952) 聲優
-[假装冷酷的起灵的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibili](https://space.bilibili.com/26721635/channel/index)
+[假装冷酷的起灵视频专辑-假装冷酷的起灵视频合集-哔哩哔哩视频](https://space.bilibili.com/26721635/channel/series)
 [四郎说动漫 - YouTube](https://www.youtube.com/@user-pf9ko3hj7y)
+[不負責任熱血君 - YouTube](https://www.youtube.com/@user-crazy-passionate)
 [不負責任瘋動漫 2 館 - YouTube](https://www.youtube.com/@user-crazy-anime)
 [RushSong RS - - YouTube](https://www.youtube.com/@RushSongRS)
 
@@ -325,6 +66,281 @@ Only My Railgun - fripSide
 [【无皇刃谭】史上最牛逼的武打动画，迄今无人超越 - YouTube](https://www.youtube.com/watch?v=U37RJYImTDQ)
 [【劇場版推薦】Boss 開口就秀中文！日漫裡最好的武俠片！至今還是真實係動作片裡的頂峰 - YouTube](https://www.youtube.com/watch?v=6Qwmxgz3U2k)
 [【星际牛仔】日本 90 年代最伟大的动画之一，属于天才的作品 - YouTube](https://www.youtube.com/watch?v=gqC09Ky9lgo) Cowboy Bebop: Knockin' on heaven's door
+
+## Songs/神曲
+
+日本 動漫 神曲
+
+Only My Railgun - fripSide
+
+青鳥 Blue Bird-2009 LIVE version - Ikimonogakari
+
+極樂淨土 Gokuraku Joudo - GARNiDELiA
+
+戀愛循環 Renai Circulation - Kana Hanazawa
+
+紅蓮華
+
+## 追番
+
+多羅羅 2019
+鬼滅之刃 2019
+不吉波普不笑 2019
+Radiant
+賢者之孫
+境界觸發
+無職轉生
+MEGALO BOX
+Hajime no Ippo 第一神拳
+旗揚獸道/萌獸寵物店
+海賊王 特別篇：草帽海賊團日誌
+SSSS.GRIDMAN
+SSSS.DYNAZENON
+聖 ☆ 哥傳
+
+全員惡玉 (2020)
+シャアの日常
+HEROMAN 英雄勇者
+Kanojyo To 彼女, 女友成雙
+寒蟬, 寒蟬鳴泣之時 卒
+叫我對大哥
+新科學小飛俠 GATCHAMAN Crowds
+小林家的龍女僕
+[💫《為美好的世界獻上祝福！》(繁中字幕 )【Ani-One】 - YouTube](https://www.youtube.com/playlist?list=PLC18xlbCdwtTCQstVZEWPQ5ir3Ue5SbzI)
+
+## Watchlist
+
+入間同學入魔了 第一二三季
+史上最強弟子兼一OVA-暗之襲擊 2014
+
+My Hero Academia: Vigilantes
+My Hero Academia: All Might Rising
+Trigun Stampede
+葬送的芙莉蓮
+
+魔法禁書目錄
+魔法禁書目錄 2013 高清重置
+科學一方通行
+科学超电磁炮
+打工吧! 魔王大人
+山田和七個魔女
+魔王奶爸
+鬼燈的冷徹
+
+Overlord 第一二三四季
+飆速宅男
+勇者鬥惡龍：達伊的大冒險
+奧術
+勇者、辭職不幹了
+無職轉生：到了異世界就拿出真本事 第一二季
+刺客伍六七 第一二三四季
+惡魔城：夜曲
+高分少女 第一二季
+國王排名 第一二季
+輝夜姬想讓人告白
+擅長捉弄人的高木同學
+LV1 魔王與獨居廢勇者
+Vultron: Legendary Defender
+刀劍神域 Alicization Underworld
+[廢柴男被召喚到異世界，成最強回覆術士，一口氣看完【治癒魔法的錯誤使用法，奔赴戰場的回覆要員】1~13全集完整版一月新番 - YouTube](https://www.youtube.com/watch?v=HmyIR81ootg)
+
+## 等番
+
+咒術迴戰
+我的英雄学院
+一拳超人
+JOJO 的奇妙冒險
+呪術迴戰
+怕痛的我，把防禦力點滿就對了
+Spy Vs Family
+派對咖孔明
+炎炎消防隊
+肌肉魔法使 MASHLE
+死後變成史萊姆/關於我轉生變成史萊姆這檔事
+異世界歸來的舅舅
+伊甸星原 Edens Zero
+Shangri-La Frontier 香格里拉·開拓異境
+轉生就是劍
+啟示錄四騎士 第二季
+
+## Ended
+
+はじめの一歩
+我家的女僕有夠煩
+Fate Zero
+Konosuba
+男子高校生の日常
+斷空我 Nova
+魔神 X Infinity
+浪客剑心電影
+銀之匙
+修業魔女璐璐萌
+PsychoPass
+花丸幼稚园
+[【可乐剧场】《银魂》1-704 集一口气看完 真正了解【银魂】的结局是什么 - YouTube](https://www.youtube.com/watch?v=XSMdnSHmVEY)
+[【可乐剧场】【妖精的尾巴】一口气看完妖尾全集 217 分钟看完全网最详细动漫视频解说 - YouTube](https://www.youtube.com/watch?v=sQx7FOUPU0Y)
+
+Iron Man: Animated Series (2010)
+X-Men: Animated Series (2011)
+Marvel Future Avengers (2017)
+
+[Pokémon the Series: XY - YouTube](https://www.youtube.com/playlist?list=PLQo7jlHehrYN63q0UG54AEYZmv-WsBZZX)
+[Pokémon Journeys: The series | Pokémon Asia ENG - YouTube](https://www.youtube.com/playlist?list=PLQo7jlHehrYNE9PzaiGrywyGThkbwgclT)
+
+Lego Marvel Super Heroes: Maximum Overload (2013)
+Lego Marvel Super Heroes: Avengers Reassembled (2015)
+Iron Man: Rise of Technovore (2010)
+Ultimate Spider-Man (2012-17)
+Marvel's Spider-Man (2017-)
+[michael bublé spider-man theme - Google Search](https://www.google.com/search?q=michael+bubl%C3%A9+spider-man+theme)
+[Promare (2019) - Official Japanese Trailer | Studio Trigger - YouTube](https://www.youtube.com/watch?v=_3zqza91fYI)
+[Promare (2019) - Rotten Tomatoes](https://www.rottentomatoes.com/m/promare)
+Dragon Ball Z: Battle Of Gods
+Dragon Ball Z: Resurrection 'F'
+[【完整版】龍珠 Z：復活的弗利薩 - Dragon Ball Z: Resurrection 'F'](http://skymovie.video/video-streaming-details/26637)
+Dragon Ball Super: BROLY
+
+NO GUNS LIFE
+My Hero Academia: Heroes Rising
+My Hero Academia: World Heroes' Mission subtitles
+Slayers 第一 二 三 四季 SPECIAL(OVA1) EXCELLENT(OVA2) 完全无欠版(剧场版 1) RETURN(剧场版 2) GREAT(剧场版 3) GOURGEOUS(剧场版 4) PREMIUM(剧场版 5)
+Gundam Seed
+Gundam Seed Destiny
+Gundam Z
+Gundam ZZ
+Gundam 0080
+Gundam 0083
+Gundam RE:0096
+閃電十一人
+Digimon 05
+
+Slam Dunk
+高達 Reconguista in G
+Summer Wars
+FAIRY TAIL 魔導少年 ZERØ
+備長炭
+熱帶雨林的爆笑生活
+家庭教师
+金色的卡旋
+魔術士歐菲 Orphen 2020
+[魔術師歐菲 流浪之旅 – Anime1.me 動畫線上看](https://anime1.me/category/2020%e5%b9%b4%e5%86%ac%e5%ad%a3/%e9%ad%94%e8%a1%93%e5%b8%ab%e6%ad%90%e8%8f%b2-%e6%b5%81%e6%b5%aa%e4%b9%8b%e6%97%85)
+時空幻境 熱情傳奇 The X 第一季 第二季
+[宅男也能稱霸體育 一口氣看完高中聯賽 -- 飆速宅男 第一季 第二季 - YouTube](https://www.youtube.com/watch?v=1VM-NR4HASA)
+MAGI 魔奇少年 辛巴達的冒險
+Ironman 2011
+鬼眼狂刀
+[新妹魔王的契約者](https://www.wikiwand.com/zh/%E6%96%B0%E5%A6%B9%E9%AD%94%E7%8E%8B%E7%9A%84%E5%A5%91%E7%BA%A6%E8%80%85)
+
+## Finished
+
+我的英雄学院 第一 二 三 四 五 六季
+My Hero Academia: Two Heroes
+JOJO 的奇妙冒險 第一 二 三 四 五 六部 岸邊露伴一動不動
+炎炎消防隊 第一 二季
+天元突破
+鋼練 FA
+勇者王 TV ＋ OVA
+羅德斯島戰記-英雄騎士傳-
+傳說中勇者的傳說
+備長炭
+Eye Shield 21
+Digimon 01, 02, Tri
+一拳超人 第一季 OAD 第二季
+阿爾斯蘭戰記 第一 二季
+記錄的地平線 第一 二季
+石紀元 Dr. Stone 第一 二季
+為食獵人 第一季(49 集)
+刀劍神域 SAO 第一 二季 劇場版:序列爭戰 外傳:GGO Progressive
+暗杀教室 第一 二季, Q, 课外授课
+
+Gundam 鐵血孤兒 第一 二季
+Gundam 第 08MS 小隊
+Gundam 第 08MS 小隊 劇場版
+Gundam Wing, Gundam Wing: Endless Waltz
+Gundam IGLOO
+Gundam: 水星的魔女 第一二季 [【動漫快易懂】15分鐘超完整解說讓你一次搞懂水星的魔女！媽媽把女兒做成鋼彈是為了成神？！ - YouTube](https://www.youtube.com/watch?v=IbNEEa11Mho)
+Gundam: Requiem of Vengeance
+
+我家有個魚乾妹 第一 二季
+Kill-La-Kill
+怪獣娘 第一 二季
+在下坂本，有何貴幹？
+齊木楠雄的災難 第一 二季 完結篇 再始動篇
+逆轉裁判 第一 二季
+暗殺教室 第一 二季
+Voltron: Legendary Defender (Netflix) Season 1,2,3,4,5,6,7,8
+潔癖男子！青山君
+Hunter X Hunter 2011
+咕嚕咕嚕魔法陣 2017
+WORKING!! 第一 二 三季 Web 版
+活撃/刀剣乱舞
+靈能百分百 (路人超能100) 第一 二 三季 Reigen(OVA1)
+BRAVE10 真田十勇士
+將國戡亂記 第一季
+魔法少女-俺
+荒川爆笑团 第一 二季
+慎重勇者
+[冒險失敗魔王扒開公主肚子吃掉她与勇者的孩子？你所不知道慎重勇者 比骨王還謹慎拼盡全力的冒險故事！！【慎重勇者】【爆肝紳士大木】 - YouTube](https://www.youtube.com/watch?v=PU7IUE4Xhos)
+[魔王勇者](https://www.wikiwand.com/zh/%E9%AD%94%E7%8E%8B%E5%8B%87%E8%80%85)
+怕痛的我，把防禦力點滿就對了 第一 二季
+[一口气看完《结界师》 - YouTube](https://www.youtube.com/watch?v=_HhJNKdAgrc)
+
+甲鐵城的卡巴內里 第一季 海門決戰
+潮與虎 第一 二 三季
+電馭叛客：邊緣行者
+七大罪 第一二三四五季
+七大罪 啟示錄四騎士 第一季
+七大罪 天空的囚人
+七大罪 被光明詛咒的人們
+七大罪 愛丁堡的恩怨
+工作細胞 第一 二季
+机动奥特曼 [ULTRAMAN アニメ公式サイト](https://anime.heros-ultraman.com/)
+派對咖孔明 第一季
+靈能百分百 第一 二 三季
+Spy vs Family 間諜家家酒 第一 二季
+肌肉魔法使 MASHLE 第一 二季
+轉生貴族憑鑑定技能扭轉人生 第一季
+咒術迴戰 第一 二季 劇場版咒術迴戰0
+關於我轉生變成史萊姆這檔事 第一 二季 OAD1 OAD2 日記 柯里烏斯之夢 紅蓮之絆篇
+Shangri-La Frontier 香格里拉·開拓異境 第一季
+Cannon Busters 火炮剋星 第一季
+Undead Unluck 不死不運 第一季
+World Trigger 境界觸發者 第一 二 三季
+浪客劍心 2023 第一 二季
+惡魔城 第一二三四季
+惡魔城:月夜 第一季
+勇者鬥惡龍: 達爾大冒險 2021 第一季 EP1-50
+通靈王 2021
+通靈王 FLOWERS 2024
+人造人009: 正義使命 Cyborg 009: Call of Justice 2017
+Re:從零開始的異世界生活 第一二季
+轉生就是劍 第一季
+
+One Piece Strong World
+One Piece: Z
+One Piece: Episode Chopper
+One Piece Gold
+One Piece Stampede
+One Piece RED
+
+TIGER and BUNNY: The Beginning (2012)
+TIGER and BUNNY: The Rising (2014)
+TIGER and BUNNY (2022)
+TIGER and BUNNY Season 2 (2023)
+
+Spider-Man: Into the Spider-Verse
+Spider-Man: Across the Spider-Verse
+The Lego Batman Movie
+Batman Ninja
+[Why Megamind is a Subversive Masterpiece - YouTube](https://www.youtube.com/watch?v=c-2Tjm2M2cg&t=1s)
+Shark Tale
+Monsters vs Aliens
+Shrek
+Kung Fu Panda 1
+Puss in Boots: The Last Wish 2022
+Ultraman: Rising
+Dragon Quest: Your Story
+Monster Hunter: Legends of the Guild
 
 ## 赌博默示录
 
@@ -375,7 +391,7 @@ Only My Railgun - fripSide
 
 [一拳超人戰力大解析！老師之外誰最強？第一名竟吊打波羅斯！ - YouTube](https://www.youtube.com/watch?v=0OuPpi_kEY4)
 
-[The Philosophy of ONE PUNCH MAN – Wisecrack Edition - YouTube](https://www.youtube.com/watch?v=EQB6ctBXNzs) Saitama renders other character's struggle irrelevant, he is a ["deus ex machina"](https://omni.wikiwand.com/en/Deus_ex_machina)
+[The Philosophy of ONE PUNCH MAN – Wisecrack Edition - YouTube](https://www.youtube.com/watch?v=EQB6ctBXNzs) Saitama renders other character's struggle irrelevant, he is a ["deus ex machina"](https://www.wikiwand.com/en/Deus_ex_machina)
 [one punch man 一拳超人 漫畫解說 - YouTube](https://www.youtube.com/playlist?list=PLvWVez4bXCfQveyAlpBjRm6wY7B204YhK)
 [Love your pen and ink の oil tube - YouTube](https://www.youtube.com/@AiNIMenDeBiMo)
 [一拳超人 - YouTube](https://www.youtube.com/playlist?list=PLmjge9eia_a87xEZEgG-fwyRZLJ_YPTYG) 石小曼
@@ -457,7 +473,7 @@ S 级安年
 
 ## 炎炎消防隊
 
-[炎炎消防隊 - Wikiwand](https://omni.wikiwand.com/zh/%E7%82%8E%E7%82%8E%E6%B6%88%E9%98%B2%E9%9A%8A)
+[炎炎消防隊 - Wikiwand](https://www.wikiwand.com/zh/%E7%82%8E%E7%82%8E%E6%B6%88%E9%98%B2%E9%9A%8A)
 [炎炎消防队（david production 改编的电视动画）\_百度百科](https://baike.baidu.com/item/%E7%82%8E%E7%82%8E%E6%B6%88%E9%98%B2%E9%98%9F/23140560)
 [炎炎消防隊 - 萌娘百科 萬物皆可萌的百科全書](https://mzh.moegirl.org/zh-hant/%E7%82%8E%E7%82%8E%E6%B6%88%E9%98%B2%E9%98%9F)
 [TV アニメ『炎炎ノ消防隊』](https://fireforce-anime.jp/)
@@ -488,8 +504,8 @@ S 级安年
 
 ## 七大罪
 
-[七大罪 (漫畫) - Wikiwand](<https://omni.wikiwand.com/zh/%E4%B8%83%E5%A4%A7%E7%BD%AA_(%E6%BC%AB%E7%95%AB)>)
-[七大罪角色列表 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%83%E5%A4%A7%E7%BD%AA%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8)
+[七大罪 (漫畫) - Wikiwand](<https://www.wikiwand.com/zh/%E4%B8%83%E5%A4%A7%E7%BD%AA_(%E6%BC%AB%E7%95%AB)>)
+[七大罪角色列表 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%83%E5%A4%A7%E7%BD%AA%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8)
 
 ## 怕痛的我，把防禦力點滿就對了
 
@@ -506,9 +522,9 @@ S 级安年
 
 ## 新世紀福音戰士/Neon Genesis Evangelion
 
-[新世紀福音戰士 - Wikiwand](https://omni.wikiwand.com/zh/%E6%96%B0%E4%B8%96%E7%BA%AA%E7%A6%8F%E9%9F%B3%E6%88%98%E5%A3%AB)
-[新世紀福音戰士劇場版 - Wikiwand](https://omni.wikiwand.com/zh/%E6%96%B0%E4%B8%96%E7%B4%80%E7%A6%8F%E9%9F%B3%E6%88%B0%E5%A3%AB%E5%8A%87%E5%A0%B4%E7%89%88) 舊劇場版
-[福音戰士新劇場版 - Wikiwand](https://omni.wikiwand.com/zh/%E7%A6%8F%E9%9F%B3%E6%88%B0%E5%A3%AB%E6%96%B0%E5%8A%87%E5%A0%B4%E7%89%88)
+[新世紀福音戰士 - Wikiwand](https://www.wikiwand.com/zh/%E6%96%B0%E4%B8%96%E7%BA%AA%E7%A6%8F%E9%9F%B3%E6%88%98%E5%A3%AB)
+[新世紀福音戰士劇場版 - Wikiwand](https://www.wikiwand.com/zh/%E6%96%B0%E4%B8%96%E7%B4%80%E7%A6%8F%E9%9F%B3%E6%88%B0%E5%A3%AB%E5%8A%87%E5%A0%B4%E7%89%88) 舊劇場版
+[福音戰士新劇場版 - Wikiwand](https://www.wikiwand.com/zh/%E7%A6%8F%E9%9F%B3%E6%88%B0%E5%A3%AB%E6%96%B0%E5%8A%87%E5%A0%B4%E7%89%88)
 
 [【心得】EVA《新世紀福音戰士》至今的整個系列版本解說 @福音戰士 哈啦板 - 巴哈姆特](https://forum.gamer.com.tw/Co.php?bsn=02150&sn=40760)
 
@@ -562,6 +578,13 @@ S 级安年
 [60 分鐘一口氣看完《overlord》第一季，滿級大神帶滿裝備穿越異世，起手超位，至尊降臨 - YouTube](https://www.youtube.com/watch?v=x_ZhP04UEZw)
 [40 分鐘一口氣看完《overlord》第二季，骨王滅世部隊集結王都，最強冒險者一夜成名 - YouTube](https://www.youtube.com/watch?v=MlUN89JWT20)
 [40 分鐘一口氣看完《overlord》第三季，安茲烏爾恭建國，起手超位，一招屠殺 7 萬士兵 - YouTube](https://www.youtube.com/watch?v=VDHHyYNHBws)
+
+Binge Watch Now 二次元回憶
+[一口氣刷完《Overlord》1~4季｜超爽動畫解說，全程高能，魔王征服之旅！ - YouTube](https://www.youtube.com/watch?v=KZsORj509zs)
+[《OverLord 不死者之王 劇場版：聖王國篇》全解說 - YouTube](https://www.youtube.com/watch?v=6u9AeR3h3FY)
+[Overlord 聖王國篇 上｜王國存亡之戰與不死者之王的威嚴 - YouTube](https://www.youtube.com/watch?v=iwQTVHEBk1s)
+[Overlord 聖王國篇 下｜王國存亡之戰與不死者之王的威嚴 - YouTube](https://www.youtube.com/watch?v=foOpZxpqvjo)
+[一口氣看完《OverLord 劇場版：聖王女之死》｜王女的悲壯命運與黑暗力量的對決 - YouTube](https://www.youtube.com/watch?v=LHVrn88op_k)
 
 E N
 [Overlord 第一季劇情回顧與細節補充 - YouTube](https://www.youtube.com/watch?v=HcQ7BuJ4l_8)
@@ -629,9 +652,9 @@ E N
 
 ## Sword Art Online
 
-[Sword Art Online - Wikiwand](https://omni.wikiwand.com/en/Sword_Art_Online)
-[刀劍神域 - Wikiwand](https://omni.wikiwand.com/zh/%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F)
-[刀劍神域 (動畫) - Wikiwand](<https://omni.wikiwand.com/zh/%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_(%E5%8B%95%E7%95%AB)>)
+[Sword Art Online - Wikiwand](https://www.wikiwand.com/en/Sword_Art_Online)
+[刀劍神域 - Wikiwand](https://www.wikiwand.com/zh/%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F)
+[刀劍神域 (動畫) - Wikiwand](<https://www.wikiwand.com/zh/%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F_(%E5%8B%95%E7%95%AB)>)
 
 [SAO Abridged - YouTube](https://www.youtube.com/playlist?list=PLuAOJfsMefuej06Q3n4QrSSC7qYjQ-FlU)
 [The Genius of Sword Art Online (Abridged): Fixing What's Broken [Part 1] - YouTube](https://www.youtube.com/watch?v=46jzSn9SLlg)
@@ -648,7 +671,9 @@ E N
 
 ## 魔禁 × 超炮
 
-[「魔禁 × 超炮」5 號坑 - YouTube](https://www.youtube.com/playlist?list=PLJ4zEHU9ObY3DJvYRx_YM89CL-Co-MdNQ) 阿泥妹飯
+阿泥妹飯
+[「魔禁×超炮」4號坑 - YouTube](https://www.youtube.com/playlist?list=PLJ4zEHU9ObY3DJvYRx_YM89CL-Co-MdNQ)
+[【魔禁×超炮 時間線】合集 - YouTube](https://www.youtube.com/playlist?list=PLJ4zEHU9ObY0trDeFx4uPyPO0wKb1vJEE)
 魔法禁书目录 2013 高清重置
 
 ## 我的英雄學院/My Hero Academia

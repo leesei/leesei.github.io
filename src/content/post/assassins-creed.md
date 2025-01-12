@@ -2,13 +2,13 @@
 title: Assassin's Creed
 description: ""
 created: 2018-01-03
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - assassins-creed
   - games
 ---
 
-[Assassin's Creed - Wikiwand](http://omni.wikiwand.com/en/Assassin%27s_Creed)
+[Assassin's Creed - Wikiwand](http://www.wikiwand.com/en/Assassin%27s_Creed)
 [Assassin's Creed](https://www.reddit.com/r/assassinscreed/)
 [Assassin's Creed Wiki | Fandom](https://assassinscreed.fandom.com/wiki/Assassin%27s_Creed_Wiki)
 
@@ -46,14 +46,6 @@ Nothing is true, everything is permitted
 [【電玩經典人物回顧】歷代刺客教條主角(上)ー無物為真 諸行皆可 | ACG 英雄譚#8 - YouTube](https://www.youtube.com/watch?v=e-LMK5bAGOU) Nothing is true, everything is permitted
 [【電玩經典人物回顧】歷代刺客教條主角(下)ー”現在的刺客和 UBI 所缺少的?” - YouTube](https://www.youtube.com/watch?v=Du16CAfbapg)
 
-Assassin's Creed Bundle includes:
-
-- Assassin's Creed IV Black Flag
-- Assassin's Creed Rogue
-- Assassin's Creed Syndicate (Owned)
-- Assassin's Creed Unity
-  \$216.72 @2020-03-18
-
 [Assassin's Creed Origins Vs Odyssey (Which is Better?) - YouTube](https://www.youtube.com/watch?v=Stgoq8x_lsg)
 [Assassin's Creed Origins Vs Odyssey - Which Is Better? | Versus - YouTube](https://www.youtube.com/watch?v=paLpNYY4iKQ)
 [Assassin's Creed: Odyssey vs Assassin's Creed: Origins | Direct Comparison - YouTube](https://www.youtube.com/watch?v=LIYvpNlQoM0)
@@ -64,7 +56,18 @@ In Unity/Syndicate and Origins/Odyssey, the first release is developed by Ubisof
 
 [Rogue Academy - Guides and Tutorials - YouTube](https://www.youtube.com/playlist?list=PL36oulzyfYiNG6fUfr-fCHOpnScynQur_) Leo K
 
-### Movements
+### Movements/Parkour
+
+[The Pinnacle of Assassin's Creed Parkour - YouTube](https://www.youtube.com/watch?v=CtOu-ZPO8fQ)
+[Ranking The Parkour In Every Assassin's Creed Game - YouTube](https://www.youtube.com/watch?v=-FKbKgflm4M)
+
+[How Modders Perfected Parkour in Assassin's Creed - YouTube](https://www.youtube.com/watch?v=AeZweFKo7_M)
+[[READ DESCRIPTION] How to Install and Play the AC Parkour Mod | Assassin's Creed Parkour Mod Guide - YouTube](https://www.youtube.com/watch?v=odPBYQoxvLA&t=1540s)
+[Definitive AC1 Parkour Mod at Assassins Creed Nexus - Mods and community](https://www.nexusmods.com/assassinscreed/mods/62)
+[Definitive AC2 Parkour Mod at Assassin's Creed II Nexus - Mods and Community](https://www.nexusmods.com/assassinscreedii/mods/132)
+[Definitive ACB Parkour Mod at Assassin's Creed: Brotherhood Nexus - Mods and community](https://www.nexusmods.com/assassinscreedbrotherhood/mods/187)
+[Definitive ACR Parkour Mod at Assassin's Creed: Revelations Nexus - Mods and community](https://www.nexusmods.com/assassinscreedrevelations/mods/120)
+[Definitive AC4 Parkour Mod (Beta) at Assassin's Creed IV: Black Flag Nexus - Mods and community](https://www.nexusmods.com/assassinscreedivblackflag/mods/570)
 
 [[Rogue Academy] Classic Assassin's Creed | Movement Guide - YouTube](https://www.youtube.com/watch?v=MXrg_3_3FBA) !important
 The first game and Ezio trilogy implemented a highly cancellable movement system
@@ -75,29 +78,29 @@ The first game and Ezio trilogy implemented a highly cancellable movement system
   +legs (on wall) wall eject
 - legs button will trigger parkour moves
   fast walk
-- empty hand button
+- empty hand/eject/vault button
   useful in air/free fall, L-stick controls hand direction
 
-Unity has free run up and down buttons
+Unity revolutionized parkour and has free run up and down buttons
 
 - free run down doubles as empty hand button
-
-[The Pinnacle of Assassin's Creed Parkour - YouTube](https://www.youtube.com/watch?v=CtOu-ZPO8fQ)
 
 [A Chart Mapping Out Mechanics In The Assassin's Creed Franchise](https://kotaku.com/finally-a-chart-explaining-what-is-in-each-assassins-c-1827075233)
 [Common Features in Assassin's Creed : assassinscreed](https://www.reddit.com/r/assassinscreed/comments/8t7nlp/common_features_in_assassins_creed/)
 
 ## Assassin's Creed
 
-> owned
+> bought, Director's Cut Edition
 
-[Assassin's Creed (video game) - Wikiwand](<https://omni.wikiwand.com/en/Assassin%27s_Creed_(video_game)>)
+[Assassin's Creed (video game) - Wikiwand](<https://www.wikiwand.com/en/Assassin%27s_Creed_(video_game)>)
 
 Set in Jerusalem during the Third Crusade, Altair was to kill 9 Templars in the middle east and doubt his faith in the Brotherhood.
 
 He then became the Grand Master and reformed the Brotherhood, made it underground.
 
 ## Assassin's Creed II
+
+> bought
 
 Set in Italy during Renaissance, Ezio Auditore, friend of Leonardo Da vinci and Niccolò Machiavelli, was the main character for 3 games.
 Most of the game took place in Florence, he recovered all of Altair's Codex. In the last mission he entered the Vault od Isu under Vatican City and met Minerva.
@@ -109,11 +112,15 @@ Most of the game took place in Florence, he recovered all of Altair's Codex. In 
 
 ## Assassin's Creed Brotherhood
 
+> bought
+
 [Assassin's Creed Brotherhood is Still Gold - YouTube](https://www.youtube.com/watch?v=z9OLutvDmuY)
 
 Ezio is ambushed by the Templars and their base in Monteriggioni is destroyed. He re-built the Italian Brotherhood in Rome.
 
 ## Assassin's Creed Revelations
+
+> bought
 
 [Assassin's Creed Revelations is Still Gold - YouTube](https://www.youtube.com/watch?v=-iS_gh5CkSU)
 
@@ -121,7 +128,7 @@ Ezio searched for Altair's secret library under Masyaf Fortress and took place i
 
 ## Assassin's Creed III and Liberation
 
-> HD remaster with DLC bought
+> bought, HD remaster with DLC
 
 Set during the American Revolution, Connor's is a mix of Native Indian and England in America. His father, Haytham Kenway, is a Templar Grand Master. Trained by Archilles, he became a Master Assassin. He killed the Colonial Templars, including his father, and reestablished the Colonial Brotherhood.
 Dasmon is killed in ending.
@@ -130,6 +137,8 @@ Dasmon is killed in ending.
 [Assassin's Creed III Remastered Review | Is It Worth It? - YouTube](https://www.youtube.com/watch?v=xzV-SgsD3K8)
 
 ## Assassin's Creed IV Black Flag
+
+> bought, with Freedom Cry
 
 Edward Kenway picked up an Assassin's outfit and became one in the Caribbean Sea.
 After the events in game, he setup the England Brotherhood. He is the father of Haytham Kenway, grandfather of Connor.
@@ -142,6 +151,8 @@ Last game with Daemon's ancestor as the main character.
 Assassin's Creed Freedom Cry is a standalone game or DLC to Black Flag
 
 ## Assassin's Creed Rogue
+
+> bought
 
 Set during the American Revolution (7 Years War), Shay is an Assassin in North Atlantic and turned Templar in order to stop the Brotherhood's plan for mass destruction (using the Precursor's Tree of Eden).
 
@@ -156,10 +167,12 @@ This game took place around a little bit earlier than AC III. A spiritual succes
 
 ## Assassin's Creed Unity
 
+> bought
+
 Arno, set in Paris during French Revolution
 The confrontation between the Templars and the Assassins were more politics than bloody
 
-[In Defense of Assassins Creed Unity - YouTube](https://www.youtube.com/watch?v=S0F9j7JFoiE) Unity revolutionized parklour aspect of the game
+[In Defense of Assassins Creed Unity - YouTube](https://www.youtube.com/watch?v=S0F9j7JFoiE) Unity revolutionized parkour aspect of the game
 [Assassin's Creed Unity: 6 Years Later - YouTube](https://www.youtube.com/watch?v=Z5dOporS8IY)
 [【簡單粗暴】一口氣看完《刺客信條大革命》，DLC《死去的國王》 - YouTube](https://www.youtube.com/watch?v=drO8hJUT_zs)
 
@@ -177,7 +190,7 @@ Visited Edward's house in London
 
 ## Assassin's Creed Origins
 
-> with DLC bought
+> bought, with DLC
 
 Bayek formed the Hidden Ones, used the hidden blade that Darius used killed Xerxes I
 
@@ -196,7 +209,7 @@ Bayek formed the Hidden Ones, used the hidden blade that Darius used killed Xerx
 
 ## Assassin's Creed Odyssey
 
-> with DLC bought
+> bought, with DLC
 
 [Historical Realism Review: Assassin's Creed Odyssey - YouTube](https://www.youtube.com/watch?v=YIm9cXtsjzY)
 [Assassin's Creed Odyssey: Behind the Odyssey - YouTube](https://www.youtube.com/playlist?list=PLpwyzkZha0Z7MadK8Yd76vJdLtMPucIR1)
@@ -212,3 +225,7 @@ LazerzZ
 [Assassin's Creed Odyssey | A Game Out of Touch - YouTube](https://www.youtube.com/watch?v=W-Qmsb2Jz7k)
 [Assassin's Creed Odyssey Fundamentally Breaks Canon/Lore | Here's Why - YouTube](https://www.youtube.com/watch?v=XFFyOgUDEkU)
 [Assassin's Creed Odyssey Broke Me - YouTube](https://www.youtube.com/watch?v=aCuXlPC6gsQ)
+
+## Assassin's Creed Valhalla
+
+[《刺客教條維京紀元》一些超好用的天賦、能力分享，資訊欄有天賦表可參考 - YouTube](https://www.youtube.com/watch?v=HmiiUNI6_4s)

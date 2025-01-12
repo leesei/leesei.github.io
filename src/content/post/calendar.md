@@ -2,7 +2,7 @@
 title: Calendar
 description: ""
 created: 2016-09-09
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - calendar
   - science
@@ -19,13 +19,15 @@ tags:
 [一星期為什麼是七天？ - YouTube](https://www.youtube.com/watch?v=76vXmYSb17s)
 [一天為什麼是 24 小時？時間為什麼不使用十進制？ - YouTube](https://www.youtube.com/watch?v=dFQwN3Udg8c)
 
+[SREcon24 Europe/Middle East/Africa - You Depend on Time, This Is How It Works and You Won’t... - YouTube](https://www.youtube.com/watch?v=v20tVtQUUTk&t=1s)
+
 ## Solar Calendar
 
-[Calendar - Wikiwand](http://omni.wikiwand.com/en/Calendar)
-[History of calendars - Wikiwand](http://omni.wikiwand.com/en/History_of_calendars)
-[Roman calendar - Wikiwand](http://omni.wikiwand.com/en/Roman_calendar)
-[Julian calendar - Wikiwand](http://omni.wikiwand.com/`en/Julian_calendar) introduced by Julius Caesar in 46 BC, one leap day every 4 years
-[Gregorian calendar - Wikiwand](http://omni.wikiwand.com/en/Gregorian_calendar) introduced by Pope Gregory XIII in 1582, 97 leap days every 400 years
+[Calendar - Wikiwand](http://www.wikiwand.com/en/Calendar)
+[History of calendars - Wikiwand](http://www.wikiwand.com/en/History_of_calendars)
+[Roman calendar - Wikiwand](http://www.wikiwand.com/en/Roman_calendar)
+[Julian calendar - Wikiwand](http://www.wikiwand.com/`en/Julian_calendar) introduced by Julius Caesar in 46 BC, one leap day every 4 years
+[Gregorian calendar - Wikiwand](http://www.wikiwand.com/en/Gregorian_calendar) introduced by Pope Gregory XIII in 1582, 97 leap days every 400 years
 
 [Why Does February Only Have 28 Days? - YouTube](https://www.youtube.com/watch?v=AgKaHTh-_Gs)
 
@@ -56,7 +58,7 @@ Metonic Cycles
 
 ### April Fools' Day
 
-[April Fools' Day - Wikiwand](https://omni.wikiwand.com/en/April_Fools'_Day)
+[April Fools' Day - Wikiwand](https://www.wikiwand.com/en/April_Fools'_Day)
 [百度百科*V 百科*我们为啥过愚人节？](https://baike.baidu.com/vbaike/我们为啥过愚人节？/21099)
 
 Conservatives refuses to drop the practice of celebrating 1st April as beginning of the year, the French government mocked this practice and make fool of the conservatives. This eventually becomes April Fools' Day.
@@ -77,7 +79,7 @@ Conservatives refuses to drop the practice of celebrating 1st April as beginning
 明崇禎曆
 
 [干支历\_百度百科](https://baike.baidu.com/item/干支历)
-[干支 - Wikiwand](https://omni.wikiwand.com/zh/干支)
+[干支 - Wikiwand](https://www.wikiwand.com/zh/干支)
 
 [百度百科*V 百科*端午节的真相](https://baike.baidu.com/vbaike/端午节的真相/22435)
 [百度百科*V 百科*十二生肖为啥没有猫](https://baike.baidu.com/vbaike/十二生肖为啥没有猫/22544)
@@ -92,7 +94,7 @@ Conservatives refuses to drop the practice of celebrating 1st April as beginning
 
 ### Leap Second
 
-[Leap second - Wikiwand](https://omni.wikiwand.com/en/Leap_second)
+[Leap second - Wikiwand](https://www.wikiwand.com/en/Leap_second)
 [Official Google Blog: Time, technology and leaping seconds](https://googleblog.blogspot.com/2011/09/time-technology-and-leaping-seconds.html)
 
 [NTP Explained | Network Time Protocol | Cisco CCNA 200-301 - YouTube](https://www.youtube.com/watch?v=oCtkwEjhyD4)
@@ -102,3 +104,10 @@ Conservatives refuses to drop the practice of celebrating 1st April as beginning
 [Making every (leap) second count with our new public NTP servers | Google Cloud Blog](https://cloud.google.com/blog/products/gcp/making-every-leap-second-count-with-our-new-public-ntp-servers)
 [Leap Smear | Public NTP | Google Developers](https://developers.google.com/time/smear)
 [pool.ntp.org: the internet cluster of ntp servers](https://www.ntppool.org/en/)
+
+### Day of week
+
+[Doomsday rule - Wikipedia](https://en.m.wikipedia.org/wiki/Doomsday_rule)
+[The Doomsday Algorithm](https://www.timeanddate.com/date/doomsday-weekday.html)
+[The Doomsday Rule](https://www.timeanddate.com/date/doomsday-rule.html)
+[Doomsday Algorithm](https://www.rudy.ca/doomsday.html)

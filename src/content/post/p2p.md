@@ -2,7 +2,7 @@
 title: Peer-to-peer Technologies
 description: ""
 created: 2016-09-20
-updated: 2024-09-15
+updated: 2025-01-09
 tags:
   - web
 ---

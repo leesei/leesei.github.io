@@ -2,13 +2,13 @@
 title: Brexit
 description: ""
 created: 2016-08-05
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - brexit
   - economics
 ---
 
-[Brexit - Wikiwand](https://omni.wikiwand.com/en/Brexit)
+[Brexit - Wikiwand](https://www.wikiwand.com/en/Brexit)
 
 2016-06-23 universal referendum
 2017-03-29 UK notified EU withdrawal within 2 years

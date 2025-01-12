@@ -2,7 +2,7 @@
 title: PostgreSQL
 description: The World's Most Advanced Open Source Relational Database
 created: 2023-06-18
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - comp/database
   - postgresql
@@ -12,7 +12,7 @@ tags:
 [[psql-snippets]]
 
 [PostgreSQL: The world's most advanced open source database](https://www.postgresql.org/)
-[PostgreSQL - Wikiwand](https://omni.wikiwand.com/en/PostgreSQL)
+[PostgreSQL - Wikiwand](https://www.wikiwand.com/en/PostgreSQL)
 [PostgreSQL History - 2ndQuadrant | PostgreSQL](https://www.2ndquadrant.com/en/postgresql/postgresql-story/)
 
 [PostgreSQL 12 Top Features Explained - YouTube](https://www.youtube.com/watch?v=PfbzNdrecv4)

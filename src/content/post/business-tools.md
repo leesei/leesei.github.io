@@ -2,7 +2,7 @@
 title: Business Tools
 description: ""
 created: 2018-10-27
-updated: 2024-09-04
+updated: 2025-01-09
 tags:
   - business
 ---
@@ -29,6 +29,8 @@ tags:
 
 [履歷｜漁翁撒網也應專業點！犯上 4 大寫 CV 毛病　印象分立即清零](https://www.hk01.com/%E8%81%B7%E5%A0%B4/814914/)
 [CV 要避免寫這 10 個字！專家：別用“responsible for”+35 個實用詞語](https://www.hk01.com/%E9%96%8B%E7%BD%90/811959/)
+
+[The 9 Best Word Resume Templates That Make You Look Like a Pro](https://www.makeuseof.com/best-word-resume-templates/)
 
 ## Kanban/Admin Panel/Dashboard
 
@@ -179,12 +181,33 @@ History is public:
 [Twilio - Communication APIs for SMS, Voice, Video and Authentication](https://www.twilio.com/)
 Each account has master account SID and auth token, but it is safer to create revocable API keys and secrets per application in [Twilio Console - Project API Keys](https://www.twilio.com/console/project/api-keys).
 
+[What are the differences between long codes (A2P 10DLC), short codes, and Toll-Free numbers for messaging to US/Canada? - Twilio Help Center](https://help.twilio.com/articles/360038173654-What-are-the-differences-between-long-codes-short-codes-and-Toll-Free-numbers-for-messaging-to-US-Canada-)
+[SMS Pricing in United States for Text Messaging | Twilio](https://www.twilio.com/en-us/sms/pricing/us)
+[SMS Pricing in Hong Kong for Text Messaging | Twilio](https://www.twilio.com/en-us/sms/pricing/hk)
+
 [Getting Started with Alphanumeric Sender ID for Twilio Programmable SMS – Twilio Support](https://support.twilio.com/hc/en-us/articles/223181348-Getting-Started-with-Alphanumeric-Sender-ID-for-Twilio-Programmable-SMS)
 Note: Pre-registered Alphanumeric Sender ID Required for A2P SMS in Hong Kong Effective January 1, 2022
 
 [Phone Number Verification without Regular Expression - Twilio](https://www.twilio.com/blog/2017/03/phone-number-verification-without-regular-expression.html)
 
 [China SMS Template Whitelisting – Twilio Support](https://support.twilio.com/hc/en-us/articles/360016612253-China-SMS-Template-Whitelisting)
+
+#### US/Canada
+
+Create a Customer Profile first for your business, create an ISV for sending on your customer's behalf; Create Secondary Customer Profile for the customers
+[Am I a direct customer or an Independent Software Vendor (ISV)? - Twilio Help Center](https://help.twilio.com/articles/4402930862747-Am-I-a-direct-customer-or-an-ISV-for-A2P-10DLC-registration-)
+[Console: Create a Primary Customer Profile | Twilio](https://www.twilio.com/docs/trust-hub/trusthub-rest-api/console-create-a-primary-customer-profile)
+
+US and Canada long codes requires A2P 10DLC registration
+[What is A2P 10DLC? - Twilio Help Center](https://help.twilio.com/articles/1260800720410-What-is-A2P-10DLC-)
+[Programmable Messaging and A2P 10DLC | Twilio](https://www.twilio.com/docs/messaging/compliance/a2p-10dlc)
+[A2P 10DLC Sole Proprietor Brands FAQ - Twilio Help Center](https://help.twilio.com/articles/9550596959643)
+[A2P Messaging - Twilio Console](https://console.twilio.com/us1/develop/sms/regulatory-compliance/a2p-10dlc-overview)
+[Comparison between Sole Proprietor, Low Volume Standard, and Standard registration for A2P 10DLC - Twilio Help Center](https://help.twilio.com/articles/4407882914971-Comparison-between-Starter-Low-Volume-Standard-and-Standard-registration-for-A2P-10DLC)
+
+[Toll-Free Message Verification for US/Canada - Twilio Help Center](https://help.twilio.com/articles/5377174717595-Toll-Free-Message-Verification-for-US-Canada)
+[Toll-Free Verification Console Onboarding Guide | Twilio](https://www.twilio.com/docs/messaging/compliance/toll-free/console-onboarding)
+[Toll-Free Verification and Developers: Navigating the New Restrictions - Twilio Help Center](https://help.twilio.com/articles/20212966914075#h_01HEQT07KP48M7VP218P4XB1S4)
 
 ### What's App
 

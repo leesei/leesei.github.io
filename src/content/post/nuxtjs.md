@@ -2,7 +2,7 @@
 title: Nuxt.js
 description: ""
 created: 2023-02-28
-updated: 2023-12-27
+updated: 2025-01-09
 tags:
   - static-site
   - vuejs

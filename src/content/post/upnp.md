@@ -2,7 +2,7 @@
 title: UPnP
 description: ""
 created: 2016-03-26
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - comp/network
 ---
@@ -10,4 +10,4 @@ tags:
 [Adventures in UPnP with node.js](https://coolaj86.com/articles/adventures-in-upnp-with-node-js/)
 [Adventures in UPnP with cURL and netcat](https://coolaj86.com/articles/adventures-in-upnp-with-curl-and-netcat/)
 
-[List of UPnP AV media servers and clients - Wikiwand](https://omni.wikiwand.com/en/List_of_UPnP_AV_media_servers_and_clients)
+[List of UPnP AV media servers and clients - Wikiwand](https://www.wikiwand.com/en/List_of_UPnP_AV_media_servers_and_clients)

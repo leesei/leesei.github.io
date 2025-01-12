@@ -2,7 +2,7 @@
 title: Docker
 description: ""
 created: 2014-12-11
-updated: 2024-08-28
+updated: 2025-01-09
 tags:
   - container
   - dev/deploy
@@ -11,7 +11,7 @@ tags:
   - shell-tool
 ---
 
-> many old articles, check to publish dates
+> many old articles, check publish dates
 
 Docker packs your apps and services in a portable container.
 
@@ -40,6 +40,10 @@ On the contrary, [boycott docker](http://www.boycottdocker.org/).
 
 [Docker Crash Course for Absolute Beginners [NEW] - YouTube](https://www.youtube.com/watch?v=pg19Z8LL06w) 2023-02, 1:07:38
 [Docker Tutorial for Beginners [FULL COURSE in 3 Hours] - YouTube](https://www.youtube.com/watch?v=3c-iBn73dDE) 2020-10, 2:46:15
+
+2024 videos
+[Learn Docker NOW! From Hello World to Doom in 15 Minutes! - YouTube](https://www.youtube.com/watch?v=0gCRw13C2Xw)
+[18 Weird and Wonderful ways I use Docker - YouTube](https://www.youtube.com/watch?v=RUqGlWr5LBA)
 
 [Introduction to Docker - YouTube](https://www.youtube.com/watch?v=Q5POuMHxW-0)
 [Docker at Spotify - YouTube](https://www.youtube.com/watch?v=pts6F00GFuU)
@@ -263,11 +267,12 @@ Ports bound by container are managed by the process `docker-proxy` for port forw
 Use `netstat -nlt` to list all listening TCP ports in _numeric_ format.
 
 ```sh
+docker network create --internal jailnetwork
 docker network connect <network> <container>
 docker network disconnect <network> <container>
 ```
 
-[Docker networking is CRAZY!! (you NEED to learn it) - YouTube](https://www.youtube.com/watch?v=bKFMS5C4CG0)
+[Docker networking is CRAZY!! (you NEED to learn it) - YouTube](https://www.youtube.com/watch?v=bKFMS5C4CG0) ❗!important
 [Docker Networking Tutorial // ALL Network Types explained! - YouTube](https://www.youtube.com/watch?v=5grbXvV_DSk)
 [Docker Networking Crash Course - YouTube](https://www.youtube.com/watch?v=OU6xOM0SE4o)
 [Docker Advanced Networking - YouTube](https://www.youtube.com/watch?v=Xxhhdo2e-DA)
@@ -295,6 +300,9 @@ UDP failure, fixed in 17.05
 
 [Kubernetes: Why Kubernetes doesn’t use libnetwork](http://blog.kubernetes.io/2016/01/why-Kubernetes-doesnt-use-libnetwork.html)
 Docker used libnetwork and [Container Network Model (CNM)](https://blog.docker.com/2015/04/docker-networking-takes-a-step-in-the-right-direction-2/), which are tightly coupled with Docker Engine. appC used Container Network Interface (CNI), which plays along with other ecosystem.
+
+[The Docker Bridge Network - Docker networks part 1 - YouTube](https://www.youtube.com/watch?v=OmZdItNjWNY)
+[The Docker HOST and MACVLAN Networks - Docker Networks part 2 - YouTube](https://www.youtube.com/watch?v=7uA7-9AYkT4)
 
 [Understanding Docker – Network Namespaces – zwischenzugs](https://zwischenzugs.com/2015/11/21/understanding-docker-network-namespaces/)
 [Introduction to Linux Network Namespaces - YouTube](https://www.youtube.com/watch?v=_WgUwUf1d34)
@@ -612,18 +620,10 @@ systemctl enable --now docker
 usermod -aG docker $(id -un)
 docker -v  # should >= 17.05
 
-# https://github.com/docker/compose/releases
-curl -L https://github.com/docker/compose/releases/download/1.24.0/docker-compose-`uname -s`-`uname -m` > /usr/local/bin/docker-compose
-chmod a+x /usr/local/bin/docker-compose
-
-# https://github.com/docker/machine/releases
-curl -L https://github.com/docker/machine/releases/download/v0.16.1/docker-machine-`uname -s`-`uname -m` > /usr/local/bin/docker-machine
-chmod a+x /usr/local/bin/docker-machine
 ```
 
-[Install Docker Engine](https://docs.docker.com/install/)
-[Get Docker CE for ubuntu | Docker Documentation](https://docs.docker.com/install/linux/docker-ce/ubuntu/) Install from package (this is troublesome after the package split in 18.09)
-<https://download.docker.com/linux/ubuntu/dists/xenial/pool/stable/amd64/>
+[Install | Docker Docs](https://docs.docker.com/engine/install/)
+[Ubuntu | Docker Docs](https://docs.docker.com/engine/install/ubuntu/)
 [Install Docker PPA on Ubuntu 16.04 With Good Defaults](https://www.bretfisher.com/install-docker-ppa-on-ubuntu-16-04/)
 [How To Install and Use Docker on Ubuntu 18.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04) check repo used
 [Docker - ArchWiki](https://wiki.archlinux.org/title/Docker)
@@ -631,12 +631,14 @@ chmod a+x /usr/local/bin/docker-machine
 ## Windows/Mac
 
 [Docker Desktop for Mac and Windows | Docker](https://www.docker.com/products/docker-desktop) Windows Server 2016 support Docker natively
-[Docker - Installation on Windows - GeeksforGeeks](https://www.geeksforgeeks.org/docker-installation-on-windows/) 2021-09
+[Docker Desktop | Docker Docs](https://docs.docker.com/desktop/)
+[Docker - Installation on Windows - GeeksforGeeks](https://www.geeksforgeeks.org/docker-installation-on-windows/) 2022-08
 [What you need to know about Docker in Windows | InfoWorld](http://www.infoworld.com/article/3163257/application-development/what-you-need-to-know-about-docker-in-windows.html)
-[Build and run your first Docker Windows Server container - Docker Blog](https://blog.docker.com/2016/09/build-your-first-docker-windows-server-container/) 2016-09
+[Build and Run Your First Docker Windows Server Container | Docker Blog](https://www.docker.com/blog/build-your-first-docker-windows-server-container/) 2016-09
 [How to set up Docker and Windows Subsystem for Linux: A Love Story. 💚](https://www.freecodecamp.org/news/how-to-set-up-docker-and-windows-subsystem-for-linux-a-love-story-35c856968991)
 
 [Rancher Desktop](https://rancherdesktop.io/) Docker Desktop alternative
+[rancher-sandbox/rancher-desktop: Container Management and Kubernetes on the Desktop](https://github.com/rancher-sandbox/rancher-desktop/)
 
 [Under the Hood: Demystifying Docker For Mac CE Edition – Collabnix](http://collabnix.com/how-docker-for-mac-works-under-the-hood/)
 [Top 5 Exclusive Features of Docker For Mac That You Can’t Afford to Ignore – Collabnix](http://collabnix.com/top-5-exclusive-features-of-docker-for-mac-that-you-cant-afford-to-miss/)
@@ -648,13 +650,13 @@ chmod a+x /usr/local/bin/docker-machine
 [A crash course on Docker — Learn to swim with the big fish](https://blog.sourcerer.io/a-crash-course-on-docker-learn-to-swim-with-the-big-fish-6ff25e8958b0)
 
 ```sh
-docker pull ubuntu:14.04
+docker pull ubuntu:22.04
 # created an interactive named container
-docker run -it --name ubuntu ubuntu:14.04 bash
+docker run -it --name ubuntu ubuntu:22.04 bash
 # mounting your home and use it as working directory
-docker run -it -v /home/user:/home/user -w /home/user ubuntu:14.04 bash
+docker run -it -v /home/user:/home/user -w /home/user ubuntu:22.04 bash
 # a read-only container with ram drives
-docker run --read-only --tmpfs /run --tmpfs /tmp -it ubuntu:14.04 /bin/bash
+docker run --read-only --tmpfs /run --tmpfs /tmp -it ubuntu:22.04 /bin/bash
 ```
 
 ## Docker CLI
@@ -770,7 +772,7 @@ Docker daemon exposed Docker API via UNIX socket at: `unix:///var/run/docker.soc
 
 Builder log (annotated):
 
-```txt
+```
 Sending build context to Docker daemon  2.048kB
 Step 1/3 : FROM ubuntu:xenial
  ---> 747cb2d60bbe                              # image ID
@@ -852,6 +854,8 @@ This actually sets breakpoint in your Dockerfile for debugging.
 [Building containers without Docker](https://blog.alexellis.io/building-containers-without-docker/)
 
 ### Buildkit (new builder)
+
+> BuildKit is the default builder for users on Docker Desktop and Docker Engine v23.0 and later.
 
 [BuildKit](https://docs.docker.com/build/buildkit/)
 [moby/buildkit: concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit](https://github.com/moby/buildkit)
@@ -1437,7 +1441,7 @@ This will merge the layers and make the image smaller.
 
 systemd service file:
 
-```txt
+```
 [Unit]
 Description=Run pg
 After=docker.service

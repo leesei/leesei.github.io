@@ -2,7 +2,7 @@
 title: UI Automation
 description: ""
 created: 2023-02-16
-updated: 2024-07-03
+updated: 2025-01-09
 tags:
   - app
   - automation

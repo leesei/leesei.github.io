@@ -2,7 +2,7 @@
 title: GitBook
 description: ""
 created: 2015-06-13
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - app
   - gitbook

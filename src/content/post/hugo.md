@@ -2,7 +2,7 @@
 title: Hugo
 description: ""
 created: 2017-05-09
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - hugo
   - static-site

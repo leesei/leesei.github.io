@@ -2,7 +2,7 @@
 title: Ocean Plastic
 description: ""
 created: 2023-03-29
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - garbage
   - plastics
@@ -12,7 +12,7 @@ tags:
 
 ## Ocean Plastics
 
-[Great Pacific garbage patch - Wikiwand](https://omni.wikiwand.com/en/Great_Pacific_garbage_patch)
+[Great Pacific garbage patch - Wikiwand](https://www.wikiwand.com/en/Great_Pacific_garbage_patch)
 [Great Pacific Garbage Patch](https://education.nationalgeographic.org/resource/great-pacific-garbage-patch/)
 [The Great Pacific Garbage Patch • The Ocean Cleanup](https://theoceancleanup.com/great-pacific-garbage-patch/)
 

@@ -2,13 +2,13 @@
 title: Engines
 description: ""
 created: 2015-09-22
-updated: 2024-09-14
+updated: 2025-01-09
 tags:
   - automobile
   - engines
 ---
 
-[Engine - Wikiwand](http://omni.wikiwand.com/en/Engine) a machine that converts one form of energy to mechanical energy
+[Engine - Wikiwand](http://www.wikiwand.com/en/Engine) a machine that converts one form of energy to mechanical energy
 [EVERY ENGINE SENSOR EXPLAINED - MAF, MAP, IAT, TPS, 02, NOx, EGT - How it works, location, OBD2 code - YouTube](https://www.youtube.com/watch?v=dK4mb1yS0dY)
 
 [Engines | HowStuffWorks](http://auto.howstuffworks.com/car-engine-information-channel.htm)
@@ -55,17 +55,17 @@ Heat difference will create pressure difference in the sealed chamber, this turn
 
 [How Car Engines Work | HowStuffWorks](https://auto.howstuffworks.com/engine.htm)
 
-[External combustion engine - Wikiwand](http://omni.wikiwand.com/en/External_combustion_engine)
-[Internal combustion engine - Wikiwand](http://omni.wikiwand.com/en/Internal_combustion_engine)
+[External combustion engine - Wikiwand](http://www.wikiwand.com/en/External_combustion_engine)
+[Internal combustion engine - Wikiwand](http://www.wikiwand.com/en/Internal_combustion_engine)
 
-[Two-stroke engine - Wikiwand](http://omni.wikiwand.com/en/Two-stroke_engine)
+[Two-stroke engine - Wikiwand](http://www.wikiwand.com/en/Two-stroke_engine)
 [Marine Diesel Two Stroke Engine - How it Works! - YouTube](https://www.youtube.com/watch?v=IM8rxp8qB8k)
 used in the largest diesel engine
 
 - can burn low grade fuel
 - low-speed, high torque by default, no need for reduction gear
 
-[Four-stroke engine - Wikiwand](http://omni.wikiwand.com/en/Four-stroke_engine)
+[Four-stroke engine - Wikiwand](http://www.wikiwand.com/en/Four-stroke_engine)
 
 1. Intake stroke (suck)
 2. Compression stroke (squeeze)
@@ -104,11 +104,11 @@ used in the largest diesel engine
 [See Through Engine - YouTube](https://www.youtube.com/playlist?list=PLUBbg7VLSf-NBbeovWtd6I_pbJVpOaDhE) Warped Perception
 
 [JZ Vs LS - The Best Engines IN THE WORLD! - YouTube](https://www.youtube.com/watch?v=jSJ6lLwGsNU)
-[Toyota JZ engine - Wikiwand](https://omni.wikiwand.com/en/Toyota_JZ_engine)
+[Toyota JZ engine - Wikiwand](https://www.wikiwand.com/en/Toyota_JZ_engine)
 [2JZ ENGINE - How it Works | SCIENCE GARAGE - YouTube](https://www.youtube.com/watch?v=Viz-GXRBj0E) 1JZ=1.5L, 2JZ=3L
 
 [CHEVY LS ENGINE - Everything You Need to Know | Up to Speed - YouTube](https://www.youtube.com/watch?v=kxNwmClQMKs)
-[LS based GM small-block engine - Wikiwand](https://omni.wikiwand.com/en/LS_based_GM_small-block_engine)
+[LS based GM small-block engine - Wikiwand](https://www.wikiwand.com/en/LS_based_GM_small-block_engine)
 [LS1, LS6,LS2, LS3, L99, LS4, LS7, LS9 And LSA Engine History - GM High-Tech Performance](http://www.superchevy.com/how-to/0901gmhtp-ls1-ls6-ls2-ls3-l99-ls4-ls7-ls9-lsa-engine-history/)
 Chevy LS American made aluminum push-rod V8 engine with many configs and better support; the 5th engine is rebranded as LT
 [Chevy LS: Best Engine Swap Ever? | WheelHouse - YouTube](https://www.youtube.com/watch?v=SYLgl59c_x8)
@@ -148,7 +148,7 @@ These factors can be tuned:
 - Valve Lift (VVL)
 - Valve Duration (VVD)
 
-[Variable valve timing - Wikiwand](https://omni.wikiwand.com/en/Variable_valve_timing) electrical system
+[Variable valve timing - Wikiwand](https://www.wikiwand.com/en/Variable_valve_timing) electrical system
 [Car Tech 101: Variable valve timing explained - YouTube](https://www.youtube.com/watch?v=glUXDMuQ3Bs) CNET
 [VTEC: How It Works | Science Garage - YouTube](https://www.youtube.com/watch?v=-R0LvgywiWk) Donut Media
 Engineering Explained
@@ -215,7 +215,7 @@ SPCCI (Spark Controlled Combustion Ignition) compresses the gasoline-air mixture
 [Opposed Piston Diesel Engines Are Crazy Efficient - YouTube](https://www.youtube.com/watch?v=UF5j1DvC954)
 
 [Opposed-Piston - Achates](http://achatespower.com/our-formula/opposed-piston/)
-[Achates Power - Wikiwand](https://omni.wikiwand.com/en/Achates_Power)
+[Achates Power - Wikiwand](https://www.wikiwand.com/en/Achates_Power)
 
 ## Hybrid Engine
 
@@ -234,9 +234,9 @@ SPCCI (Spark Controlled Combustion Ignition) compresses the gasoline-air mixture
 
 ## Superchargers/Turbochargers
 
-[Supercharger - Wikiwand](https://omni.wikiwand.com/en/Supercharger)
-[Turbocharger - Wikiwand](https://omni.wikiwand.com/en/Turbocharger)
-[Turbocharged petrol engines - Wikiwand](https://omni.wikiwand.com/en/Turbocharged_petrol_engines)
+[Supercharger - Wikiwand](https://www.wikiwand.com/en/Supercharger)
+[Turbocharger - Wikiwand](https://www.wikiwand.com/en/Turbocharger)
+[Turbocharged petrol engines - Wikiwand](https://www.wikiwand.com/en/Turbocharged_petrol_engines)
 
 [Superchargers: What They Are, How They Work, and Why You Need One - YouTube](https://www.youtube.com/watch?v=iq8KWnFGNf8)
 [Turbochargers Explained | How Single, Twin-Scroll, VGT & Electric Turbocharger Works? - YouTube](https://www.youtube.com/watch?v=iS0XxIcdcu4)
@@ -282,15 +282,15 @@ Jet engines has been turbo normalizing for ages to bring the air density back to
 
 ### Gas Turbine
 
-[Turbine - Wikiwand](http://omni.wikiwand.com/en/Turbine)
+[Turbine - Wikiwand](http://www.wikiwand.com/en/Turbine)
 
-[Gas turbine - Wikiwand](https://omni.wikiwand.com/en/Gas_turbine)
+[Gas turbine - Wikiwand](https://www.wikiwand.com/en/Gas_turbine)
 [How Gas Turbine Engines Work | HowStuffWorks](http://science.howstuffworks.com/transport/flight/modern/turbine.htm)
 [Types of Gas Turbines](https://www.grc.nasa.gov/www/k-12/airplane/trbtyp.html)
 
 ### Jet Engine
 
-[Jet engine - Wikiwand](https://omni.wikiwand.com/en/Jet_engine)
+[Jet engine - Wikiwand](https://www.wikiwand.com/en/Jet_engine)
 pulsejet, ramjets, scramjets, and turbojets
 [Jet Man | Frank Whittle The Turbojet Pioneer And Genius Of The Jet Revolution | Full Documentary - YouTube](https://www.youtube.com/watch?v=G0T4-XG612Q)
 [Jet Engine Pioneers | The Invention Of The Turbojet - YouTube](https://www.youtube.com/watch?v=vNhz46CjN0A)
@@ -307,10 +307,10 @@ pulsejet, ramjets, scramjets, and turbojets
 
 [喷气时代 - YouTube](https://www.youtube.com/playlist?list=PLZG4GdUu70-7Km85yeT_bQFruapqgeYlB)
 
-[Airbreathing jet engine - Wikiwand](https://omni.wikiwand.com/en/Airbreathing_jet_engine)
-[Turbojet - Wikiwand](https://omni.wikiwand.com/en/Turbojet)
+[Airbreathing jet engine - Wikiwand](https://www.wikiwand.com/en/Airbreathing_jet_engine)
+[Turbojet - Wikiwand](https://www.wikiwand.com/en/Turbojet)
 
-[Afterburner - Wikiwand](https://omni.wikiwand.com/en/Afterburner)
+[Afterburner - Wikiwand](https://www.wikiwand.com/en/Afterburner)
 [How Things Work: Afterburners | Flight Today | Air & Space Magazine](http://www.airspacemag.com/flight-today/how-things-work-afterburners-18481403/?no-ist)
 
 [How do Airplanes fly? - YouTube](https://www.youtube.com/watch?v=F077WDnB8P8)
@@ -340,7 +340,7 @@ Scott Manley
 [3000 度高温，火箭喷嘴里喷出的热气，怎么没把自己熔化呢？【科学火箭叔】 - YouTube](https://www.youtube.com/watch?v=DplkHMxghtA)
 [气尖发动机：先进得至今无法实现 - YouTube](https://www.youtube.com/watch?v=1ZkOjh2N2Qw)
 
-[Composite overwrapped pressure vessel - Wikiwand](https://omni.wikiwand.com/en/Composite_overwrapped_pressure_vessel) COPV, used to fill gas tank to maintain pressure
+[Composite overwrapped pressure vessel - Wikiwand](https://www.wikiwand.com/en/Composite_overwrapped_pressure_vessel) COPV, used to fill gas tank to maintain pressure
 
 [Rocket Science - YouTube](https://www.youtube.com/playlist?list=PLYu7z3I8tdEknQK8KQqHA5sc0wbvj2q7z)
 
@@ -351,7 +351,7 @@ Scott Manley
 [V2 Rocket History - YouTube](https://www.youtube.com/playlist?list=PLCF06C6E015357CB3)
 [Operation Backfire - A4 V2 German Rocket Documentary von Braun - YouTube](https://www.youtube.com/watch?v=80DzifHHIxk)
 
-[Soviet rocketry - Wikiwand](https://omni.wikiwand.com/en/Soviet_rocketry)
+[Soviet rocketry - Wikiwand](https://www.wikiwand.com/en/Soviet_rocketry)
 first multistage rocket, detach booster in Korolev cross fashion (still used in current Russian rockets)
 [The Entire Soviet Rocket Engine Family Tree - YouTube](https://www.youtube.com/watch?v=Y-xyXDiC92s)
 [The Soyuz and the Korolev Cross - YouTube](https://www.youtube.com/watch?v=Uf1Wu1BT5jo)
@@ -362,6 +362,7 @@ first multistage rocket, detach booster in Korolev cross fashion (still used in 
 ### Ionic Thruster
 
 [Designing A Next-Gen Ionic Thruster! (For Flight) - YouTube](https://www.youtube.com/watch?v=nrEBoPYS4ns)
+[Owen来造｜无叶离子无人机！！！Ionic Thrust Drone - YouTube](https://www.youtube.com/watch?v=3TcsuFnyp2s)
 
 ### SpaceX
 

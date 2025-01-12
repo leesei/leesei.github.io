@@ -2,7 +2,7 @@
 title: Hostinger
 description: ""
 created: 2021-05-10
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - web
 ---
@@ -23,6 +23,28 @@ tags:
 [Hostinger Web Hosting Plans: How to Choose the Right One for You](https://www.hostinger.com/tutorials/how-to-choose-web-hosting-plan)
 [Pricing of Web Hosting, VPS & Cloud Hosting - Plans to Choose From](https://www.hostinger.com/pricing)
 [Hostinger Web Hosting Plans Explained | Shared Web Hosting, WordPress Hosting, VPS, Cloud Hosting - YouTube](https://www.youtube.com/watch?v=3OwTrSJXBto)
+
+[What Is Web Hosting – Web Hosting Explained for Beginners](https://www.hostinger.com/tutorials/what-is-web-hosting/)
+[What Is Shared Hosting and How Does It Work +Pros & Cons](https://www.hostinger.com/tutorials/what-is-shared-hosting) [Web Hosting | A Fast and Secure Platform for Your Website](https://www.hostinger.com/web-hosting)
+[What is cloud hosting: benefits and when to use it](https://www.hostinger.com/tutorials/what-is-cloud-hosting) [Managed cloud hosting | 4X more speed | 99.9% uptime](https://www.hostinger.com/cloud-hosting)
+"Shared Hosting" is the lowest tier plan
+"Cloud Hosting" offers dedicated IP but not dedicated server
+
+```
+1. Infrastructure:
+Web Hosting: Web hosting plans utilize shared hosting infrastructure. This means that multiple websites share the same server resources, including CPU, RAM, and storage. It is the most cost-effective plan
+Cloud Hosting: Cloud hosting, on the other hand, is built on a cloud infrastructure. It uses a network of virtual servers, which can be scaled up or down easily. Each website is hosted on a virtual machine, and resources are distributed more evenly. This makes cloud hosting more scalable and reliable.
+2. Performance:
+Web Hosting: For small to medium websites with consistent traffic, it is absolutely enough. However you would also have to note that your usage depends on the performance for Web Hosting plan as mentioned your resources are limited.
+Cloud Hosting: Cloud hosting generally offers better performance and scalability. If your website experiences fluctuations in traffic, cloud hosting can automatically allocate more resources to handle the load, ensuring consistent performance.
+3. Limits Allocation:
+Web Hosting: In shared web hosting, resources like CPU, RAM, and storage are shared among multiple users.
+Cloud Hosting: Cloud hosting typically offers dedicated resources, and you can easily scale up your resources as needed. This means you have more control over the allocation of resources.
+4. Pricing:
+Web Hosting: Web hosting plans are generally more affordable because you're sharing resources with others. They are suitable for small to medium websites and those on a budget.
+Cloud Hosting: Cloud hosting tends to be more expensive due to its scalability and dedicated resources. It's ideal for businesses and websites with fluctuating or high traffic.
+In summary, web hosting is a cost-effective option for small to medium websites with consistent traffic. Cloud hosting offers better performance, scalability, and resource control, making it a good choice for businesses, high-traffic websites, or those with fluctuating demands. Your hosting plan should be based on your website's specific needs and your budget.
+```
 
 [How to install WordPress using Auto Installer? | Hostinger Help Center](https://support.hostinger.com/en/articles/3220304-how-to-install-wordpress-using-auto-installer)
 

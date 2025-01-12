@@ -2,7 +2,7 @@
 title: Kernel
 description: ""
 created: 2016-03-27
-updated: 2024-09-27
+updated: 2025-01-09
 tags:
   - comp
   - linux
@@ -30,7 +30,7 @@ tags:
 
 ## Linux Kernel
 
-[Linux kernel - Wikiwand](https://omni.wikiwand.com/en/Linux_kernel)
+[Linux kernel - Wikiwand](https://www.wikiwand.com/en/Linux_kernel)
 [The Linux Kernel documentation — The Linux Kernel documentation](https://docs.kernel.org/index.html)
 [The Linux Documentation Project: Guides](http://www.tldp.org/guides.html)
 [The Linux Kernel](http://www.tldp.org/LDP/tlk/tlk.html)
@@ -98,7 +98,6 @@ tags:
 [Unix system calls (2/2) - YouTube](https://www.youtube.com/watch?v=2DrjQBL5FMU)
 
 [Syscalls, Kernel vs. User Mode and Linux Kernel Source Code - bin 0x09 - YouTube](https://www.youtube.com/watch?v=fLS99zJDHOc)
-[A Syscall Journey in the Windows Kernel - Alice Climent-Pommeret](https://alice.climent-pommeret.red/posts/a-syscall-journey-in-the-windows-kernel/)
 [Searchable Linux Syscall Table for x86 and x86_64 | PyTux](https://filippo.io/linux-syscall-table/)
 
 ### Scheduler
@@ -153,13 +152,13 @@ systemctl status systemd-modules-load.service
 
 > mapping block devices to other higher-level block devices
 
-[Device mapper - Wikiwand](https://omni.wikiwand.com/en/Device_mapper)
+[Device mapper - Wikiwand](https://www.wikiwand.com/en/Device_mapper)
 [Kernel index [LWN.net]](https://lwn.net/Kernel/Index/#Device_mapper)
 [Right To Your Own Devices LG #114](https://linuxgazette.net/114/kapil.html)
 
 ### DKMS
 
-[Dynamic Kernel Module Support - Wikiwand](https://omni.wikiwand.com/en/Dynamic_Kernel_Module_Support)
+[Dynamic Kernel Module Support - Wikiwand](https://www.wikiwand.com/en/Dynamic_Kernel_Module_Support)
 [Dynamic Kernel Module Support - ArchWiki](https://wiki.archlinux.org/title/Dynamic_Kernel_Module_Support)
 [Kernel Korner - Exploring Dynamic Kernel Module Support (DKMS) | Linux Journal](https://www.linuxjournal.com/article/6896)
 
@@ -169,7 +168,7 @@ Recompiles drivers against kernel header on host on every driver update OR kerne
 
 [Index of /doc/Documentation/devicetree/](https://www.kernel.org/doc/Documentation/devicetree/)
 [Open Firmware and Devicetree — The Linux Kernel documentation](https://docs.kernel.org/devicetree/index.html)
-[Device tree - Wikiwand](https://omni.wikiwand.com/en/Device_tree)
+[Device tree - Wikiwand](https://www.wikiwand.com/en/Device_tree)
 
 [Device Tree Tutorial (ARM) – Linux Kernel For Newbies](https://saurabhsengarblog.wordpress.com/2015/11/28/device-tree-tutorial-arm/)
 [Device Tree Reference - eLinux.org](https://elinux.org/Device_Tree_Reference)
@@ -304,7 +303,7 @@ sudo lsof +f -- /dev/mapper/cachedev1
 
 ### Real-time
 
-[RTLinux - Wikiwand](https://omni.wikiwand.com/en/RTLinux)
+[RTLinux - Wikiwand](https://www.wikiwand.com/en/RTLinux)
 [preempt-rt-slides.pdf](https://bootlin.com/doc/training/preempt-rt/preempt-rt-slides.pdf)
 
 [Real-time Ubuntu | Ubuntu](https://ubuntu.com/real-time)
@@ -322,11 +321,11 @@ sudo lsof +f -- /dev/mapper/cachedev1
 [Sysfs and Configfs | Linux.org](https://www.linux.org/threads/sysfs-and-configfs.9353/)
 [Virtual filesystems in Linux: Why we need them and how they work | Opensource.com](https://opensource.com/article/19/3/virtual-filesystems-linux)
 
-[Configfs - Wikiwand](https://omni.wikiwand.com/en/Configfs) creating kernel objects at runtime
+[Configfs - Wikiwand](https://www.wikiwand.com/en/Configfs) creating kernel objects at runtime
 
 ### Sysfs/Configfs/sysctl
 
-[sysfs - Wikiwand](https://omni.wikiwand.com/en/sysfs)
+[sysfs - Wikiwand](https://www.wikiwand.com/en/sysfs)
 
 [sysfs - _The_ filesystem for exporting kernel objects — The Linux Kernel documentation](https://docs.kernel.org/filesystems/sysfs.html)
 [sysfs(5) - Linux manual page](https://man7.org/linux/man-pages/man5/sysfs.5.html)
@@ -336,7 +335,7 @@ sudo lsof +f -- /dev/mapper/cachedev1
 
 ### procfs
 
-[procfs - Wikiwand](https://omni.wikiwand.com/en/Procfs)
+[procfs - Wikiwand](https://www.wikiwand.com/en/Procfs)
 [procfs - ArchWiki](https://wiki.archlinux.org/title/Procfs)
 [The /proc Filesystem — The Linux Kernel documentation](https://docs.kernel.org/filesystems/proc.html)
 [proc(5) - Linux manual page](https://man7.org/linux/man-pages/man5/procfs.5.html)
@@ -347,11 +346,11 @@ sudo lsof +f -- /dev/mapper/cachedev1
 
 ### `/dev`
 
-[Device file - Wikiwand](https://omni.wikiwand.com/en/Device_file)
+[Device file - Wikiwand](https://www.wikiwand.com/en/Device_file)
 
-[devfsd - Wikiwand](https://omni.wikiwand.com/en/Devfsd) devfs has been succeeded by udev and devtmpfs since Linux 2.5
+[devfsd - Wikiwand](https://www.wikiwand.com/en/Devfsd) devfs has been succeeded by udev and devtmpfs since Linux 2.5
 
-[udev - Wikiwand](https://omni.wikiwand.com/en/Udev)
+[udev - Wikiwand](https://www.wikiwand.com/en/Udev)
 [udev - ArchWiki](https://wiki.archlinux.org/title/Udev)
 
 [driver-core: devtmpfs - driver core maintained /dev tmpfs [LWN.net]](https://lwn.net/Articles/330985/)
@@ -361,9 +360,15 @@ User space permissions and hooks
 [Writing udev rules](http://www.reactivated.net/writing_udev_rules.html)
 [Scripting with udev - jasonwryan.com](http://jasonwryan.com/blog/2014/01/20/udev/)
 
+## Windows
+
+[Windows: Under the Covers - From Hello World to Kernel Mode by a Windows Developer - YouTube](https://www.youtube.com/watch?v=Gf-dwrwVcMs)
+
+[A Syscall Journey in the Windows Kernel - Alice Climent-Pommeret](https://alice.climent-pommeret.red/posts/a-syscall-journey-in-the-windows-kernel/)
+
 ## Unikernel
 
-[Unikernel - Wikiwand](https://omni.wikiwand.com/en/Unikernel)
+[Unikernel - Wikiwand](https://www.wikiwand.com/en/Unikernel)
 
 [oscarlab/graphene: Graphene / Graphene-SGX Library OS - a library OS for Linux multi-process applications, with Intel SGX support](https://github.com/oscarlab/graphene)
 [Mini-OS-DevNotes - Xen](https://wiki.xenproject.org/wiki/Mini-OS-DevNotes)
@@ -428,5 +433,5 @@ POSIX compatible unikernel
 
 ## Microkernel
 
-[Microkernel - Wikiwand](https://omni.wikiwand.com/en/Microkernel)
+[Microkernel - Wikiwand](https://www.wikiwand.com/en/Microkernel)
 [Is Linux kernel design outdated? : linux](https://www.reddit.com/r/linux/comments/69umqo/is_linux_kernel_design_outdated/)

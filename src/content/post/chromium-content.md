@@ -2,7 +2,7 @@
 title: Chromium Content
 description: ""
 created: 2016-04-22
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - chromium
   - comp/lang
@@ -18,7 +18,7 @@ tags:
 
 ## CEF
 
-[Chromium Embedded Framework - Wikiwand](https://omni.wikiwand.com/en/Chromium_Embedded_Framework)
+[Chromium Embedded Framework - Wikiwand](https://www.wikiwand.com/en/Chromium_Embedded_Framework)
 [chromiumembedded / cef — Bitbucket](https://bitbucket.org/chromiumembedded/cef)
 [CEF3 C++ API Docs - Version 3.2526.1373.gb660893](http://magpcss.org/ceforum/apidocs3/)
 [chromiumembedded / cef / wiki / Home — Bitbucket](https://bitbucket.org/chromiumembedded/cef/wiki/Home)

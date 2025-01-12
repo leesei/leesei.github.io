@@ -2,7 +2,7 @@
 title: 3D Graphics
 description: ""
 created: 2019-09-10
-updated: 2024-09-15
+updated: 2025-01-09
 tags:
   - app
   - graphics
@@ -82,6 +82,11 @@ MCRT: Monte-Carlo Ray Tracer
 [MoonRay - Andrew Pearce, Randy Packer, Mark Jackels, Dan McCann, & Keith Jeffery, DreamWorks - YouTube](https://www.youtube.com/watch?v=PU1WgvC_jbg)
 [Open MoonRay Update - Andrew Pearce & Randy Packer, DreamWorks Animation, LLC - YouTube](https://www.youtube.com/watch?v=Ozd4JqquG3k)
 
+## Blockbench
+
+[Blockbench](https://www.blockbench.net/)
+[JannisX11/blockbench: Blockbench - A low poly 3D model editor](https://github.com/JannisX11/blockbench)
+
 ## Volumetric Effects
 
 ### OpenVDB
@@ -95,7 +100,7 @@ MCRT: Monte-Carlo Ray Tracer
 [OpenVDB Is A Game Changer | Blender Tutorial - YouTube](https://www.youtube.com/watch?v=3gS2f4-33pE)
 
 [COMPLETE UNREAL ENGINE 5.3 VDB PIPELINE - YouTube](https://www.youtube.com/watch?v=NBUoR_81V_I)
-[Mastering VDB in Unreal Engine 5.3 - YouTube](https://www.youtube.com/watch?v=AhWqmtc0T7s&t=757s)
+[Mastering VDB in Unreal Engine 5.3 - YouTube](https://www.youtube.com/watch?v=AhWqmtc0T7s)
 
 ### EmberGen
 

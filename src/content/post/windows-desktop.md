@@ -2,7 +2,7 @@
 title: Windows Desktop
 description: ""
 created: 2015-01-15
-updated: 2024-09-23
+updated: 2025-01-09
 tags:
   - app
   - desktop
@@ -152,6 +152,12 @@ Beware of where you download from, especially don't use download.com.
 [builtbybel/ThisIsWin11: The real PowerToys for Windows 11](https://github.com/builtbybel/ThisIsWin11)
 [Windows 11 Debloater Tool | Debloat GUI (Updated Feb 22, 2024! V2.0.6) - FreeTimeTech](https://freetimetech.com/windows-11-debloater-tool-debloat-gui/)
 
+[How to Bypass Windows 11's TPM, CPU and RAM Requirements | Tom's Hardware](https://www.tomshardware.com/how-to/bypass-windows-11-tpm-requirement)
+[How to Use Rufus to Bypass TPM and Secure Boot Requirements in Windows 11](https://www.makeuseof.com/rufus-bypass-tpm-secure-boot-requirements-windows-11/)
+
+[Windows 11’s Right-Click Context Menu Sucks: Here’s How I Restored the Classic One](https://www.makeuseof.com/restore-classic-windows-right-click-context-menu/)
+[valinet/ExplorerPatcher: This project aims to enhance the working environment on Windows](https://github.com/valinet/ExplorerPatcher)
+
 [StartAllBack to fix all Windows 11 deal-breaking UI issues](https://www.startallback.com/) classic Start Menu, taskbar ungrouping
 `winget install startallback`
 
@@ -219,7 +225,7 @@ In 2016's Anniversary Update (1607), the Windows 10 license can be bound to a Mi
 
 [How to Get Rid of the Activate Windows Watermark [Windows 10 PC Activation Message Removal]](https://www.freecodecamp.org/news/how-to-get-rid-of-the-activate-windows-watermark-windows-10-pc-activation-message-removal/)
 
-[Windows 10 editions - Wikiwand](https://omni.wikiwand.com/en/Windows_10_editions)
+[Windows 10 editions - Wikiwand](https://www.wikiwand.com/en/Windows_10_editions)
 [Compare Windows 10 business editions - Windows](https://www.microsoft.com/en-us/windowsforbusiness/compare/)
 [Every Single Windows 10 Version You Must Know About](https://www.makeuseof.com/tag/windows-10-version-overview/)
 [Windows 10 Pro vs. Enterprise: What Is the Difference? | Lakeside Software](https://www.lakesidesoftware.com/blog/windows-10-pro-vs-enterprise)
@@ -232,9 +238,10 @@ Re-loader Activator
 [5 块钱的 win10 激活码能用么？淘宝密钥背后的秘密：盗版系统有什么危害？ - YouTube](https://www.youtube.com/watch?v=o2qdRlmofMg)
 [花了两块钱就是在用正版 Windows 系统？科普某宝密钥是怎么一回事 - YouTube](https://www.youtube.com/watch?v=sz26bnZD7cQ)
 Developer Key
-MAK Key (volume key for corporates)
+MAK Key (volume key for corporate)
 OEM Key
 [Releases · zbezj/HEU_KMS_Activator · GitHub](https://github.com/zbezj/HEU_KMS_Activator/releases)
+[massgravel/Microsoft-Activation-Scripts: Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
 [LTSC: What is it, and when should it be used? - Microsoft Tech Community - 293181](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/LTSC-What-is-it-and-when-should-it-be-used/ba-p/293181)
 [What is Windows 10 LTSC? - YouTube](https://www.youtube.com/watch?v=h5NPPUtptV0) LTSB renamed as LTSC
@@ -532,7 +539,7 @@ Edge Stable on Win10 20160322
 
 ## Settings
 
-[Special folder - Wikiwand](https://omni.wikiwand.com/en/Special_folder)
+[Special folder - Wikiwand](https://www.wikiwand.com/en/Special_folder)
 [What Is the AppData Folder in Windows?](https://www.howtogeek.com/318177/what-is-the-appdata-folder-in-windows/)
 [Special Windows Folders You Need to Know About - YouTube](https://www.youtube.com/watch?v=Sxt8WrtlUno)
 
@@ -660,6 +667,8 @@ Never combine
 [Windows Maintenance Tips: The Good, Bad, and Useless](http://lifehacker.com/5520447/windows-maintenance-tips-the-good-bad-and-useless)
 [Microsoft Windows 10 - YouTube](https://www.youtube.com/playlist?list=PLEbaEyM-xt9m_3PLH6QOfbb2b79XRakZs)
 [How to Use Windows 10: Tips, Tricks, and More | Digital Trends](https://www.digitaltrends.com/computing/how-to-use-windows-10/)
+
+[7 Little-Known Windows Features to Save Time](https://www.makeuseof.com/unknown-windows-features-to-save-time/)
 
 [100 common Windows 10 problems and how to solve them | TechRadar](https://www.techradar.com/uk/how-to/100-common-windows-10-problems)
 [Top tips and tricks to keep Windows 10 running smoothly | Computerworld](https://www.computerworld.com/article/3205864/microsoft-windows/the-best-enterprise-tips-and-tricks-to-get-the-most-from-windows-10.html)
@@ -900,7 +909,7 @@ irfanview
 libreoffice-fresh
 mediainfo
 microsoft-windows-terminal
-mpv.install
+mpvio
 nerd-fonts-FiraCode
 openhardwaremonitor
 pinta

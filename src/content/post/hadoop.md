@@ -2,7 +2,7 @@
 title: Hadoop
 description: ""
 created: 2015-01-15
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - app
   - big-data

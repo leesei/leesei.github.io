@@ -2,7 +2,7 @@
 title: Psychology
 description: ""
 created: 2016-07-02
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - science
 ---
@@ -109,6 +109,10 @@ difficulties at controlling attention
 
 [聊聊冥想，让自己更聪明更快乐更淡定… - YouTube](https://www.youtube.com/watch?v=wu-tBDhmkB4)
 [科学家发现，大脑中隐藏着成为天才的秘密模式，居然和佛教不谋而合 - YouTube](https://www.youtube.com/watch?v=vl2nJMcPX6A)
+
+[All it takes is 10 mindful minutes | Andy Puddicombe | TED - YouTube](https://www.youtube.com/watch?v=qzR62JJCMBQ)
+[How mindfulness changes the emotional life of our brains | Richard J. Davidson | TEDxSanFrancisco - YouTube](https://www.youtube.com/watch?v=7CBfCW67xT8&rco=1)
+[The Power of Mindfulness: What You Practice Grows Stronger | Shauna Shapiro | TEDxWashingtonSquare - YouTube](https://www.youtube.com/watch?v=IeblJdB2-Vo)
 
 [How mindfulness changes the emotional life of our brains | Richard J. Davidson | TEDxSanFrancisco - YouTube](https://www.youtube.com/watch?v=7CBfCW67xT8)
 [The Power of Mindfulness: What You Practice Grows Stronger | Shauna Shapiro | TEDxWashingtonSquare - YouTube](https://www.youtube.com/watch?v=IeblJdB2-Vo)

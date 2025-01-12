@@ -2,12 +2,15 @@
 title: VPN
 description: ""
 created: 2023-04-14
-updated: 2024-09-06
+updated: 2025-01-09
 tags:
   - comp/network
 ---
 
 [6 Totally Free VPN Services to Protect Your Privacy](https://www.makeuseof.com/tag/7-completely-free-vpn-services-protect-privacy/)
+[How I Learned the Difference Between a Good and Bad VPN](https://www.makeuseof.com/difference-between-good-and-bad-vpn/)
+
+[The 5 Best Free Chrome VPNs to Unblock Any Website](https://nira.com/chrome-vpn/)
 
 # VPN
 
@@ -25,7 +28,7 @@ tags:
 
 ## Split Tunneling
 
-[Split tunneling - Wikiwand](https://omni.wikiwand.com/en/Split%20tunneling)
+[Split tunneling - Wikiwand](https://www.wikiwand.com/en/Split%20tunneling)
 
 [What is VPN Split Tunneling? | Fortinet](https://www.fortinet.com/resources/cyberglossary/vpn-split-tunneling)
 [Understanding VPN Split Tunneling and How It Works | Security.org](https://www.security.org/vpn/split-tunneling/)
@@ -98,12 +101,21 @@ tags:
 [Self Host Tailscale with Headscale - How To Setup - YouTube](https://www.youtube.com/watch?v=OECp6Pj2ihg)
 [JimsGarage/Headscale at main · JamesTurland/JimsGarage · GitHub](https://github.com/JamesTurland/JimsGarage/tree/main/Headscale)
 
+## Meshnet by NordVPN
+
+[Connect devices securely with Meshnet - NordVPN](https://nordvpn.com/meshnet/)
+[Overview | Meshnet docs](https://meshnet.nordvpn.com/)
+
+[I Tried NordVPN’s Free Remote Connection Tool and Found It Super Useful](https://www.makeuseof.com/nordvpn-remote-sharing-tool-useful/)
+
 ## Twingate
 
 [Twingate: It's time to ditch your VPN](https://www.twingate.com/)
 Free for 5 users, 10 networks
 
+NetworkChuck
 [the END of VPNs?! - YouTube](https://www.youtube.com/watch?v=IYmXPF3XUwo)
+[Access ANY Network (remotely) - YouTube](https://www.youtube.com/watch?v=1lZ3FQSv-wI)
 
 ## Netbird
 

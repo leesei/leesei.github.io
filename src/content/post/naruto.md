@@ -2,15 +2,15 @@
 title: Naruto
 description: ""
 created: 2018-06-21
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - anime
   - naruto
 ---
 
-[火影忍者 - Wikiwand](https://omni.wikiwand.com/zh/火影忍者)
-[火影忍者疾風傳 - Wikiwand](https://omni.wikiwand.com/zh/火影忍者疾風傳)
-[BORUTO-火影新世代-NARUTO NEXT GENERATIONS- - Wikiwand](https://omni.wikiwand.com/zh/博人传-火影次世代-)
+[火影忍者 - Wikiwand](https://www.wikiwand.com/zh/火影忍者)
+[火影忍者疾風傳 - Wikiwand](https://www.wikiwand.com/zh/火影忍者疾風傳)
+[BORUTO-火影新世代-NARUTO NEXT GENERATIONS- - Wikiwand](https://www.wikiwand.com/zh/博人传-火影次世代-)
 
 [Narutopedia | FANDOM powered by Wikia](http://naruto.fandom.com/wiki/Narutopedia)
 [火影忍者（岸本齐史创作的少年漫画）\_百度百科](https://baike.baidu.com/item/火影忍者/8702)
@@ -48,7 +48,7 @@ tags:
 
 ## 漫畫
 
-[故事簡介 - Wikiwand](https://omni.wikiwand.com/zh/火影忍者#/故事簡介)
+[故事簡介 - Wikiwand](https://www.wikiwand.com/zh/火影忍者#/故事簡介)
 [漫画单行本\_百度百科](https://baike.baidu.com/item/火影忍者/8702#5_1)
 
 第一部（1 卷～ 27 卷）
@@ -64,16 +64,16 @@ tags:
 
 ## 動畫
 
-[火影忍者動畫集數列表 - Wikiwand](https://omni.wikiwand.com/zh/火影忍者動畫集數列表)
+[火影忍者動畫集數列表 - Wikiwand](https://www.wikiwand.com/zh/火影忍者動畫集數列表)
 
-[火影忍者疾風傳動畫集數列表 - Wikiwand](https://omni.wikiwand.com/zh/火影忍者疾風傳動畫集數列表) 221-707
+[火影忍者疾風傳動畫集數列表 - Wikiwand](https://www.wikiwand.com/zh/火影忍者疾風傳動畫集數列表) 221-707
 [火影忍者疾风传\_百度百科](https://baike.baidu.com/item/火影忍者疾风传)
 [テレビ東京・あにてれ　ＮＡＲＵＴＯ－ナルト－ 疾風伝](http://www.tv-tokyo.co.jp/anime/naruto/episodes/episodes40/index.html)
 
-[《BORUTO-火影新世代-NARUTO NEXT GENERATIONS-》动画集数列表 - Wikiwand](https://omni.wikiwand.com/zh/博人传-火影次世代-动画集数列表)
+[《BORUTO-火影新世代-NARUTO NEXT GENERATIONS-》动画集数列表 - Wikiwand](https://www.wikiwand.com/zh/博人传-火影次世代-动画集数列表)
 [BORUTO -火影新世代-（Studio Pierrot 改编的电视动画）\_百度百科](https://baike.baidu.com/item/BORUTO%20-火影新世代-/20820233)
 
-[李洛克青春能量大爆發忍傳 - Wikiwand](https://omni.wikiwand.com/zh/李洛克的青春全力忍傳)
+[李洛克青春能量大爆發忍傳 - Wikiwand](https://www.wikiwand.com/zh/李洛克的青春全力忍傳)
 [火影忍者 SD 李洛克的青春全力忍传\_百度百科](https://baike.baidu.com/item/火影忍者SD%20李洛克的青春全力忍传)
 [テレビ東京・あにてれ　 NARUTO-ナルト- SD ロック・リーの青春フルパワー忍伝 もういっちょ](http://www.tv-tokyo.co.jp/anime/lee/index2.html) S1
 [テレビ東京・あにてれ　 NARUTO-ナルト- SD ロック・リーの青春フルパワー忍伝](http://www.tv-tokyo.co.jp/anime/lee2012/episodes/episodes02/index.html) S2
@@ -82,20 +82,20 @@ tags:
 
 ## 劇場版
 
-[劇場版動畫 - Wikiwand](https://omni.wikiwand.com/zh/火影忍者#/劇場版動畫)
+[劇場版動畫 - Wikiwand](https://www.wikiwand.com/zh/火影忍者#/劇場版動畫)
 [劇場版動畫\_百度百科](https://baike.baidu.com/item/火影忍者/8702#7_2)
 
 [雏田实在太霸道！为什么《忍者之路》是火影 20 年最佳剧场版？ - YouTube](https://www.youtube.com/watch?v=w6Ozw83Iph4)
 
 ## 遊戲
 
-[Naruto: Ultimate Ninja - Wikiwand](https://omni.wikiwand.com/en/Naruto:_Ultimate_Ninja#/Naruto:_Ultimate_Ninja_Storm_series)
+[Naruto: Ultimate Ninja - Wikiwand](https://www.wikiwand.com/en/Naruto:_Ultimate_Ninja#/Naruto:_Ultimate_Ninja_Storm_series)
 
 ## 世界觀
 
-[火影忍者忍者分類 - Wikiwand](https://omni.wikiwand.com/zh/火影忍者忍者分类)
+[火影忍者忍者分類 - Wikiwand](https://www.wikiwand.com/zh/火影忍者忍者分类)
 
-[火影忍者地理 - Wikiwand](https://omni.wikiwand.com/zh/火影忍者地理)
+[火影忍者地理 - Wikiwand](https://www.wikiwand.com/zh/火影忍者地理)
 [火影忍者地理\_百度百科](https://baike.baidu.com/item/火影忍者地理)
 [忍者五大国\_百度百科](https://baike.baidu.com/item/忍者五大国)
 
@@ -103,13 +103,13 @@ tags:
 
 ### 忍術
 
-[火影忍者術列表 - Wikiwand](https://omni.wikiwand.com/zh/火影忍者術列表)
-[卓羅 (火影忍者) - Wikiwand](<https://omni.wikiwand.com/zh/查克拉_(火影忍者)>)
+[火影忍者術列表 - Wikiwand](https://www.wikiwand.com/zh/火影忍者術列表)
+[卓羅 (火影忍者) - Wikiwand](<https://www.wikiwand.com/zh/查克拉_(火影忍者)>)
 [查克拉（漫画《火影忍者》中能量来源）\_百度百科](https://baike.baidu.com/item/查克拉/3424179)
 
 [影分身之术\_百度百科](https://baike.baidu.com/item/影分身之术/6377264)
 [通灵之术（日本漫画《火影忍者》中的忍术）\_百度百科](https://baike.baidu.com/item/通灵之术/1742334)
-[血繼限界 - Wikiwand](https://omni.wikiwand.com/zh/血继限界)
+[血繼限界 - Wikiwand](https://www.wikiwand.com/zh/血继限界)
 [【火影忍者】血繼淘汰和血繼限界有什麼區別？ - YouTube](https://www.youtube.com/watch?v=Hr1_DRsP220)
 [秘传\_百度百科](https://baike.baidu.com/item/秘传)
 [秽土转生\_百度百科](https://baike.baidu.com/item/秽土转生/7534843)
@@ -121,7 +121,7 @@ tags:
 
 [【火影忍者】除了大蛇丸的天和地咒印 還有其他超強的咒印！ - YouTube](https://www.youtube.com/watch?v=cO3yCTK9xlo)
 
-[寫輪眼 - Wikiwand](https://omni.wikiwand.com/zh/写轮眼)
+[寫輪眼 - Wikiwand](https://www.wikiwand.com/zh/写轮眼)
 [写轮眼\_百度百科](https://baike.baidu.com/item/写轮眼)
 [【火影忍者】寫輪眼的秘密，你知道哪個是最強瞳術嗎？！ - YouTube](https://www.youtube.com/watch?v=_tXLoIrsSxQ)
 
@@ -160,7 +160,7 @@ tags:
 
 ### 角色
 
-[火影忍者角色列表 - Wikiwand](https://omni.wikiwand.com/zh/火影忍者角色列表)
+[火影忍者角色列表 - Wikiwand](https://www.wikiwand.com/zh/火影忍者角色列表)
 
 [All 12 Otsutsuki Clan Members and Their Powers Explained! (Naruto / Boruto Every Otsutsuki) - YouTube](https://www.youtube.com/watch?v=284ro7bpHVM)
 [大筒木辉夜\_百度百科](https://baike.baidu.com/item/大筒木辉夜/10269443)
@@ -174,17 +174,17 @@ tags:
 
 [漩涡一族\_百度百科](https://baike.baidu.com/item/漩涡一族) 阿修罗后裔, 擅长封印术的家族, 生命力极强和超庞大的查克拉量
 
-[內輪一族 - Wikiwand](https://omni.wikiwand.com/zh/宇智波一族)
+[內輪一族 - Wikiwand](https://www.wikiwand.com/zh/宇智波一族)
 [宇智波一族\_百度百科](https://baike.baidu.com/item/宇智波一族) 六道仙人长子因陀罗后裔，继承仙人之眼
-[內輪摩馱羅/宇智波斑 - Wikiwand](https://omni.wikiwand.com/zh/宇智波斑)
+[內輪摩馱羅/宇智波斑 - Wikiwand](https://www.wikiwand.com/zh/宇智波斑)
 [宇智波斑\_百度百科](https://baike.baidu.com/item/宇智波斑)
 [宇智波带土\_百度百科](https://baike.baidu.com/item/宇智波带土)
 [宇智波鼬\_百度百科](https://baike.baidu.com/item/宇智波鼬)
-[內輪鼬太知/宇智波鼬 - Wikiwand](https://omni.wikiwand.com/zh/宇智波鼬)
+[內輪鼬太知/宇智波鼬 - Wikiwand](https://www.wikiwand.com/zh/宇智波鼬)
 
-[日向一族 - Wikiwand](https://omni.wikiwand.com/zh/日向一族)
-[日向螺旋 - Wikiwand](https://omni.wikiwand.com/zh/日向宁次)
-[日向雛田 - Wikiwand](https://omni.wikiwand.com/zh/日向雏田)
+[日向一族 - Wikiwand](https://www.wikiwand.com/zh/日向一族)
+[日向螺旋 - Wikiwand](https://www.wikiwand.com/zh/日向宁次)
+[日向雛田 - Wikiwand](https://www.wikiwand.com/zh/日向雏田)
 
 [晓（《火影忍者》中的组织）\_百度百科](https://baike.baidu.com/item/晓/2976952)
 [【火影忍者】Naruto 十位影級實力的「曉」成員都是怎麼死的？他們的死亡，總與木葉的忍者脫不了關係？中文字幕 cc 十大世界 Nung Channel - YouTube](https://www.youtube.com/watch?v=G3saJFQ0n4A)
@@ -200,12 +200,12 @@ tags:
 [飞（《火影忍者》中的人物）\_百度百科](https://baike.baidu.com/item/飞/16921241)
 [枇杷十藏\_百度百科](https://baike.baidu.com/item/枇杷十藏)
 
-[火影 - Wikiwand](https://omni.wikiwand.com/zh/木叶村角色列表#/火影)
+[火影 - Wikiwand](https://www.wikiwand.com/zh/木叶村角色列表#/火影)
 [火影（动漫《火影忍者》中五影之一）\_百度百科](https://baike.baidu.com/item/火影/6892)
 
 ## 尾獸
 
-[尾獸 - Wikiwand](https://omni.wikiwand.com/zh/尾獸)
+[尾獸 - Wikiwand](https://www.wikiwand.com/zh/尾獸)
 [尾兽\_百度百科](https://baike.baidu.com/item/尾兽)
 [九尾九喇嘛\_百度百科](https://baike.baidu.com/item/%E4%B9%9D%E5%B0%BE%E4%B9%9D%E5%96%87%E5%98%9B/3688375?fromtitle=%E4%B9%9D%E5%96%87%E5%98%9B&fromid=5462017)
 [十尾\_百度百科](https://baike.baidu.com/item/十尾)

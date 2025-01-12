@@ -2,12 +2,12 @@
 title: "Dragon's Dogma: Dark Arisen"
 description: ""
 created: 2018-01-08
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - games
 ---
 
-[Dragon's Dogma - Wikiwand](https://omni.wikiwand.com/en/Dragon's_Dogma)
+[Dragon's Dogma - Wikiwand](https://www.wikiwand.com/en/Dragon's_Dogma)
 [Dragon's Dogma Wiki | FANDOM powered by Wikia](https://dragonsdogma.fandom.com/wiki/Dragon's_Dogma_Wiki)
 [Dragons Dogma Wiki](https://dragonsdogma.wiki.fextralife.com/Dragons+Dogma+Wiki)
 [Dragon's Dogma Wiki Guide - IGN](http://www.ign.com/wikis/dragons-dogma)

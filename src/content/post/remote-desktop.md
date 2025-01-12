@@ -2,7 +2,7 @@
 title: Remote Desktop
 description: ""
 created: 2016-07-15
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - app
 ---
@@ -11,19 +11,24 @@ tags:
 
 [NoMachine - Free Remote Desktop For Everybody](https://www.nomachine.com/)
 
-[Virtual Network Computing - Wikiwand](https://omni.wikiwand.com/en/Virtual_Network_Computing)
+[Virtual Network Computing - Wikiwand](https://www.wikiwand.com/en/Virtual_Network_Computing)
 [TightVNC: VNC-Compatible Free Remote Control / Remote Desktop Software](http://www.tightvnc.com/)
 
-[Remote Desktop Protocol - Wikiwand](https://omni.wikiwand.com/en/Remote_Desktop_Protocol)
+[Remote Desktop Protocol - Wikiwand](https://www.wikiwand.com/en/Remote_Desktop_Protocol)
 [Remmina | Remote Desktop Client for Linux](http://www.remmina.org/wp/)
 
 [Chrome Remote Desktop](https://remotedesktop.google.com/)
 [Chrome Remote Desktop](https://chromewebstore.google.com/detail/chrome-remote-desktop/inomeogfingihgjfjlpeplalcfajhgai)
 
+[KasmVNC | Open-Source - Web-Native - Secure](https://www.kasmweb.com/kasmvnc)
+Used by [LinuxServer.io](https://docs.linuxserver.io/) to create containerized GUI app, see [firefox](https://docs.linuxserver.io/images/docker-firefox/), [kali-linux](https://docs.linuxserver.io/images/docker-kali-linux/)
+
 [XPipe](https://xpipe.io/)
 [X-pipe - Open Source, Connection Hub for SSH, Powershell, Docker Container access, and so much more - YouTube](https://www.youtube.com/watch?v=wjd3E0EN2xk)
 
 [DeskIn-Professional and Efficient Remote Desktop Software for Individual and Enterprise](https://www.deskin.io/) low latency
+
+[NoMachine - Free Remote Desktop for Everybody](https://www.nomachine.com/)
 
 [The Fast Remote Desktop Application – AnyDesk](https://anydesk.com/en)
 [免費在家工作神器 Anydesk 電腦遠端操作 取代 TeamViewer 遠離封鎖 - YouTube](https://www.youtube.com/watch?v=L4TrssM3KpE)

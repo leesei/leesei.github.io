@@ -2,14 +2,14 @@
 title: One Piece
 description: ""
 created: 2016-06-18
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - anime
   - manga
   - one-piece
 ---
 
-[ONE PIECE - Wikiwand](https://omni.wikiwand.com/zh/ONE_PIECE)
+[ONE PIECE - Wikiwand](https://www.wikiwand.com/zh/ONE_PIECE)
 [One Piece Wiki | Fandom](https://onepiece.fandom.com/wiki/One_Piece_Wiki)
 [ONE PIECE Fanpage -](https://www.opfanpage.com/)
 [海賊王為什麼這麼火？一口氣看完海賊王發展史！尾田榮一郎 4 年創作史，ONEPIECE 創作的前世今生！ - YouTube](https://www.youtube.com/watch?v=mxLTcjjojF0)
@@ -248,3 +248,7 @@ SP21 空島篇 Remake
 
 [海賊王精彩劇情：強者世界完整回顧！草帽團大戰傳說中的海賊！| 動漫作業本 - YouTube](https://www.youtube.com/watch?v=AHhu1KczGas)
 2009 年第 10 部劇場版, 由尾田榮一郎親任總指揮, 可視為正統主線劇情
+
+## Games
+
+[Evolution of One Piece Games (2005-2024) - YouTube](https://www.youtube.com/watch?v=p8vaYHnndGI)

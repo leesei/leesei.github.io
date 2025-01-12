@@ -2,7 +2,7 @@
 title: Flutter
 description: ""
 created: 2015-04-03
-updated: 2024-06-14
+updated: 2025-01-09
 tags:
   - app
   - comp/lang
@@ -72,6 +72,12 @@ Flutter is a native runtime written in C++, Skia and OpenGL. With Dart binging t
 [Flutter vs. Ionic for cross-platform development - LogRocket Blog](https://blog.logrocket.com/flutter-vs-ionic-cross-platform-development/)
 
 [Why Flutter Uses Dart – HackerNoon.com](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
+
+## Flock
+
+[Flock](https://getflocked.dev/)
+[Flock](https://github.com/join-the-flock/)
+[We're forking Flutter. This is why.](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/)
 
 ## FlutterGen
 

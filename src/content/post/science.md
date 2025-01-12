@@ -2,7 +2,7 @@
 title: Science
 description: ""
 created: 2019-08-09
-updated: 2024-09-18
+updated: 2025-01-09
 tags:
   - science
 ---
@@ -60,7 +60,7 @@ tags:
 
 > quantum field theory, cannot explain gravity
 
-[Standard Model - Wikiwand](https://omni.wikiwand.com/en/Standard_Model)
+[Standard Model - Wikiwand](https://www.wikiwand.com/en/Standard_Model)
 [The Standard Model | CERN](https://home.cern/science/physics/standard-model)
 [The Standard Model - YouTube](https://www.youtube.com/playlist?list=PLoaVOjvkzQtwltNydLdcTwBauZVpwdFwz) minutephysics
 [The Standard Model Lagrangian Playlist - YouTube](https://www.youtube.com/playlist?list=PLsPUh22kYmNBgF_VMMLHFK0lbQGlVGk3v) PBS Space Time
@@ -113,9 +113,9 @@ Faraday: field only
 Pauli Exclusion Principle 泡利不相容原利:
 Bosons (e.g.: photons) can have same quantum state, so can be infinitely squeezed
 Fermions can't share the same quantum state, allowing electrons to fill the outer energy shells of the atom
-electron forming [Cooper pair](https://omni.wikiwand.com/en/Cooper_pair) will become Bosons
+electron forming [Cooper pair](https://www.wikiwand.com/en/Cooper_pair) will become Bosons
 
-[Boson](https://omni.wikiwand.com/en/Boson): force carriers/exchange particles; spins of whole integer; doesn't follow 泡利不相容原利
+[Boson](https://www.wikiwand.com/en/Boson): force carriers/exchange particles; spins of whole integer; doesn't follow 泡利不相容原利
 
 - Gluon: acts on quarks only (Strong field)
 - Photon, Z boson, W Boson, Higgs Boson: works on all fermions (Weak field)
@@ -123,15 +123,15 @@ electron forming [Cooper pair](https://omni.wikiwand.com/en/Cooper_pair) will be
 - Higgs Boson: works on non-neutrino fermions, giving them mass (Higgs field)
 - Graviton?
 
-[Fermion](https://omni.wikiwand.com/en/Fermion): matter particles; spins of 1/2; follows 泡利不相容原利
+[Fermion](https://www.wikiwand.com/en/Fermion): matter particles; spins of 1/2; follows 泡利不相容原利
 
 - Quarks: Up, Down, Top, Bottom, Charm, Strange
 - Leptons
-  - [Electron](https://omni.wikiwand.com/en/Electron)
-  - [Muon](https://omni.wikiwand.com/en/Muon): like electron but much greater mass
-  - [Tau](<https://omni.wikiwand.com/en/Tau_(particle)>): like electron but greater mass
+  - [Electron](https://www.wikiwand.com/en/Electron)
+  - [Muon](https://www.wikiwand.com/en/Muon): like electron but much greater mass
+  - [Tau](<https://www.wikiwand.com/en/Tau_(particle)>): like electron but greater mass
   - Neutrino does not get mass from Higgs Field
-- [Baryon](https://omni.wikiwand.com/en/Baryon): triplet of Quarks
+- [Baryon](https://www.wikiwand.com/en/Baryon): triplet of Quarks
 
 [Daniel and Jorge Explain the Universe: The Sticky Story of the Gluon's Discovery on Apple Podcasts](https://podcasts.apple.com/us/podcast/the-sticky-story-of-the-gluons-discovery/id1436616330?i=1000500310629)
 
@@ -139,14 +139,14 @@ electron forming [Cooper pair](https://omni.wikiwand.com/en/Cooper_pair) will be
 
 ## Anti-matter
 
-[Antimatter - Wikiwand](https://omni.wikiwand.com/en/Anti-matter)
+[Antimatter - Wikiwand](https://www.wikiwand.com/en/Anti-matter)
 [Where is the anti-matter? - YouTube](https://www.youtube.com/watch?v=5EBgo6rVsCk)
 
 ## Superconductivity
 
-[Superconductivity - Wikiwand](https://omni.wikiwand.com/en/Superconductivity)
-[Unconventional superconductor - Wikiwand](https://omni.wikiwand.com/en/Unconventional_superconductor)
-[BCS theory - Wikiwand](https://omni.wikiwand.com/en/BCS_theory) condensation of [Cooper pairs](https://omni.wikiwand.com/en/Cooper_pair) of low energy state electrons such that the metal grid cannot slow them down
+[Superconductivity - Wikiwand](https://www.wikiwand.com/en/Superconductivity)
+[Unconventional superconductor - Wikiwand](https://www.wikiwand.com/en/Unconventional_superconductor)
+[BCS theory - Wikiwand](https://www.wikiwand.com/en/BCS_theory) condensation of [Cooper pairs](https://www.wikiwand.com/en/Cooper_pair) of low energy state electrons such that the metal grid cannot slow them down
 [The Impact of Superconductors - YouTube](https://www.youtube.com/watch?v=uq2b4BqKswg)
 [What’s Up With Superconductors? With Neil deGrasse Tyson - YouTube](https://www.youtube.com/watch?v=kZXF8h0qrZE)
 
@@ -249,12 +249,13 @@ Weak force has handiness
 [Entropy Explained](https://aatishb.com/entropy/)
 [The Most Misunderstood Concept in Physics - YouTube](https://www.youtube.com/watch?v=DxL2HoqLbyA)
 [The Startling Reason Entropy & Time Only Go One Way! - YouTube](https://www.youtube.com/watch?v=pvPxCtrXT1c)
+[The Most Misunderstood Concept in Physics - YouTube](https://www.youtube.com/watch?v=DxL2HoqLbyA)
 
-[Combustion - Wikiwand](https://omni.wikiwand.com/en/Combustion)
+[Combustion - Wikiwand](https://www.wikiwand.com/en/Combustion)
 
-[Furnace - Wikiwand](https://omni.wikiwand.com/en/Furnace)
-[Blast furnace - Wikiwand](https://omni.wikiwand.com/en/Blast_furnace)
-[高爐 - Wikiwand](https://omni.wikiwand.com/zh/%E9%AB%98%E7%88%90)
+[Furnace - Wikiwand](https://www.wikiwand.com/en/Furnace)
+[Blast furnace - Wikiwand](https://www.wikiwand.com/en/Blast_furnace)
+[高爐 - Wikiwand](https://www.wikiwand.com/zh/%E9%AB%98%E7%88%90)
 
 ### State of Matter
 
@@ -262,18 +263,18 @@ Weak force has handiness
 
 ### Fuel
 
-[Fuel - Wikiwand](https://omni.wikiwand.com/en/Fuel)
+[Fuel - Wikiwand](https://www.wikiwand.com/en/Fuel)
 
-[Rosin - Wikiwand](https://omni.wikiwand.com/en/Rosin)
-[松香 - Wikiwand](https://omni.wikiwand.com/zh/%E6%9D%BE%E9%A6%99)
+[Rosin - Wikiwand](https://www.wikiwand.com/en/Rosin)
+[松香 - Wikiwand](https://www.wikiwand.com/zh/%E6%9D%BE%E9%A6%99)
 [松香（天然树脂）\_百度百科](https://baike.baidu.com/item/%E6%9D%BE%E9%A6%99/1406546)
 
-[Charcoal - Wikiwand](https://omni.wikiwand.com/en/Charcoal)
-[木炭 - Wikiwand](https://omni.wikiwand.com/zh/%E6%9C%A8%E7%82%AD)
+[Charcoal - Wikiwand](https://www.wikiwand.com/en/Charcoal)
+[木炭 - Wikiwand](https://www.wikiwand.com/zh/%E6%9C%A8%E7%82%AD)
 [Charcoal Fuel Types | Tips & Techniques](https://www.weber.com/HK/en/blog/tips-techniques/charcoal-fuel-types/weber-31166.html)
 
-[Activated carbon - Wikiwand](https://omni.wikiwand.com/en/Activated_carbon)
-[活性炭 - Wikiwand](https://omni.wikiwand.com/zh/%E6%B4%BB%E6%80%A7%E7%82%AD)
+[Activated carbon - Wikiwand](https://www.wikiwand.com/en/Activated_carbon)
+[活性炭 - Wikiwand](https://www.wikiwand.com/zh/%E6%B4%BB%E6%80%A7%E7%82%AD)
 [Activated charcoal: 8 uses and what the science says](https://www.medicalnewstoday.com/articles/322609)
 
 ## Light/Optics
@@ -358,13 +359,13 @@ Weak force has handiness
 - uncertainty (Heisenberg Uncertainty Principle)
 - entanglement
 
-[Quantum mechanics - Wikiwand](https://omni.wikiwand.com/en/Quantum_mechanics)
+[Quantum mechanics - Wikiwand](https://www.wikiwand.com/en/Quantum_mechanics)
 [Quantum Mechanics - YouTube](https://www.youtube.com/playlist?list=PL0E2ABD1D84697428) minutephysics
 [Quantum Mechanics - YouTube](https://www.youtube.com/playlist?list=PLsPUh22kYmNCGaVGuGfKfJl-6RdHiCjo1) PBS Space Time
 [【量子物理 入门】 - YouTube](https://www.youtube.com/playlist?list=PLg45KLfneaCTEP239hD6WhBd4xQ222GTn) 青蛙刀圣 1993
 [一小時略懂量子力學｜雙狹縫干涉、黑體輻射、薛丁格的貓、光電效應、物質波、量子意識、多重宇宙 - YouTube](https://www.youtube.com/watch?v=IltoID66BV0)
 
-[Uncertainty principle - Wikiwand](https://omni.wikiwand.com/en/Uncertainty_principle)
+[Uncertainty principle - Wikiwand](https://www.wikiwand.com/en/Uncertainty_principle)
 [The Heisenberg Uncertainty Principle Explained Intuitively - YouTube](https://www.youtube.com/watch?v=qwt6wUUD2QI)
 
 Domain of Science
@@ -398,7 +399,7 @@ PBS Space Time
 [The Mind Bending Story Of Quantum Physics (Part 1/2) | Spark - YouTube](https://www.youtube.com/watch?v=ISdBAf-ysI0)
 [Exploring The World Of Quantum Physics with Jim Al-Khalili (Part 2/2) | Spark - YouTube](https://www.youtube.com/watch?v=q4ONRJ1kTdA)
 
-[Interpretations of quantum mechanics - Wikiwand](https://omni.wikiwand.com/en/Interpretations_of_quantum_mechanics)
+[Interpretations of quantum mechanics - Wikiwand](https://www.wikiwand.com/en/Interpretations_of_quantum_mechanics)
 [The Interpretations of Quantum Mechanics - YouTube](https://www.youtube.com/watch?v=mqofuYCz9gs)
 [Where Quantum Probability Comes From | Quanta Magazine](https://www.quantamagazine.org/where-quantum-probability-comes-from-20190909/)
 [Quantum Physics Is Fine, Human Bias About Reality Is The Real Problem](https://www.forbes.com/sites/startswithabang/2019/09/11/the-most-unpopular-interpretation-of-quantum-physics-may-make-all-the-others-irrelevant/) S-G z filtered electron stream regain z spin after another S-G x filter
@@ -458,7 +459,7 @@ Looking Glass Universe
 
 ### Double-slit experiment
 
-[Double-slit experiment - Wikiwand](https://omni.wikiwand.com/en/Double-slit_experiment)
+[Double-slit experiment - Wikiwand](https://www.wikiwand.com/en/Double-slit_experiment)
 [Physics in a minute: The double slit experiment | plus.maths.org](https://plus.maths.org/content/physics-minute-double-slit-experiment-0)
 [Experimental Confirmation of the Fundamental Principle of Wave-Particle Duality](https://scitechdaily.com/experimental-confirmation-of-the-fundamental-principle-of-wave-particle-duality/)
 
@@ -502,8 +503,8 @@ Parallel universe interpretation: opening the box causes the universe to fork in
 
 ### Quantum chromodynamics (QCD)
 
-[Quantum chromodynamics - Wikiwand](https://omni.wikiwand.com/en/Quantum_chromodynamics)
-[QCD matter - Wikiwand](https://omni.wikiwand.com/en/QCD_matter)
+[Quantum chromodynamics - Wikiwand](https://www.wikiwand.com/en/Quantum_chromodynamics)
+[QCD matter - Wikiwand](https://www.wikiwand.com/en/QCD_matter)
 
 ### Quantum Gravity
 
@@ -527,7 +528,7 @@ Parallel universe interpretation: opening the box causes the universe to fork in
 - we used to have 5 self-consistent theories, M Theory unifies them all
 - M Theory introduces super-gravity (super-symmetry + gravity) requires 11 dimensions and 2D membranes (which might roll and form strings)
 
-[History of string theory - Wikiwand](https://omni.wikiwand.com/en/History_of_string_theory)
+[History of string theory - Wikiwand](https://www.wikiwand.com/en/History_of_string_theory)
 [The String Theory: Past and Present - IOPscience](https://iopscience.iop.org/article/10.1088/1755-1315/658/1/012002)
 [string theory lied to us and now science communication is hard - YouTube](https://www.youtube.com/watch?v=kya_LXa_y1E)
 
@@ -569,8 +570,8 @@ Photon -> Photino
 
 ## Material science
 
-[Metallurgy - Wikiwand](https://omni.wikiwand.com/en/Metallurgy)
-[冶金学 - Wikiwand](https://omni.wikiwand.com/zh/%E5%86%B6%E9%87%91%E5%AD%A6)
+[Metallurgy - Wikiwand](https://www.wikiwand.com/en/Metallurgy)
+[冶金学 - Wikiwand](https://www.wikiwand.com/zh/%E5%86%B6%E9%87%91%E5%AD%A6)
 [MetallurgyData - YouTube](https://www.youtube.com/channel/UCsHUpI4UfxcZtAtLXxIwsgQ/videos)
 [Some Aspects of the Metallurgy and Production of European Armor - The Oakeshott Institute](http://oakeshott.org/some-aspects-of-the-metallurgy-and-production-of-european-armor/)
 [Episode 2.28: Digression-Metallurgy - The Scientific Odyssey](http://thescientificodyssey.typepad.com/my-blog/2015/12/episode-228-digression-metallurgy.html)
@@ -589,17 +590,17 @@ Photon -> Photino
 
 [Aluminium - The Material That Changed The World - YouTube](https://www.youtube.com/watch?v=yn9qhQSMCRk&index=3&list=PLx7ERghZ6LoPM76GDZuwEHdiM-8n5Ubfx)
 
-[生鐵 - Wikiwand](https://omni.wikiwand.com/zh/%E7%94%9F%E9%90%B5) carbon > 2%, formed by melting iron ore, too brittle to be processed by machine, used for molding large parts
-[Pig iron - Wikiwand](https://omni.wikiwand.com/en/Pig_iron)
-[Cast iron - Wikiwand](https://omni.wikiwand.com/en/Cast_iron)
-[鑄鐵 - Wikiwand](https://omni.wikiwand.com/zh/%E9%93%B8%E9%93%81)
-[熟鐵 - Wikiwand](https://omni.wikiwand.com/zh/%E7%86%9F%E9%90%B5) 0.03% < carbon, formed by refining 生鐵, too soft for structural parts
-[Wrought iron - Wikiwand](https://omni.wikiwand.com/en/Wrought_iron), case-hardened at 800deg-C, then quenched in a compound of organic materials like hoof, horn and sugar to form a layer of iron
-[鋼 - Wikiwand](https://omni.wikiwand.com/zh/%E9%92%A2) iron with 0.03% < carbon < 2%
+[生鐵 - Wikiwand](https://www.wikiwand.com/zh/%E7%94%9F%E9%90%B5) carbon > 2%, formed by melting iron ore, too brittle to be processed by machine, used for molding large parts
+[Pig iron - Wikiwand](https://www.wikiwand.com/en/Pig_iron)
+[Cast iron - Wikiwand](https://www.wikiwand.com/en/Cast_iron)
+[鑄鐵 - Wikiwand](https://www.wikiwand.com/zh/%E9%93%B8%E9%93%81)
+[熟鐵 - Wikiwand](https://www.wikiwand.com/zh/%E7%86%9F%E9%90%B5) 0.03% < carbon, formed by refining 生鐵, too soft for structural parts
+[Wrought iron - Wikiwand](https://www.wikiwand.com/en/Wrought_iron), case-hardened at 800deg-C, then quenched in a compound of organic materials like hoof, horn and sugar to form a layer of iron
+[鋼 - Wikiwand](https://www.wikiwand.com/zh/%E9%92%A2) iron with 0.03% < carbon < 2%
 
-[Steel - Wikiwand](https://omni.wikiwand.com/en/Steel)
-[不鏽鋼 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%8D%E9%8F%BD%E9%8B%BC)
-[Stainless steel - Wikiwand](https://omni.wikiwand.com/en/Stainless_steel) Chromium steel
+[Steel - Wikiwand](https://www.wikiwand.com/en/Steel)
+[不鏽鋼 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%8D%E9%8F%BD%E9%8B%BC)
+[Stainless steel - Wikiwand](https://www.wikiwand.com/en/Stainless_steel) Chromium steel
 [Is 420j2 stainless steel good? - Knife User](https://knifeuser.com/420j2-steel-review/)
 [420J2 Steel: Is it a Good Knife Steel?](https://www.knifeguides.com/420j2-steel-for-knives/)
 [3Cr13 Steel Review: Is 3cr13 Stainless Steel Good for Knives?](https://www.cherokeeobserver.org/is-3cr13-stainless-steel-good-for-knives/)
@@ -615,17 +616,23 @@ Photon -> Photino
 
 ## Gyroscope
 
-[Gyroscope - Wikiwand](https://omni.wikiwand.com/en/Gyroscope)
+[Gyroscope - Wikiwand](https://www.wikiwand.com/en/Gyroscope)
 
 [8.01x - Lect 24 - Rolling Motion, Gyroscopes, VERY NON-INTUITIVE - YouTube](https://www.youtube.com/watch?v=XPUuF_dECVI)
 
 ## Coriolis Force
 
-[Coriolis force - Wikiwand](https://omni.wikiwand.com/en/Coriolis%20Force)
-[Mass flow meter - Wikiwand](https://omni.wikiwand.com/en/Mass_flow_meter) Coriolis flow meter
+[Coriolis force - Wikiwand](https://www.wikiwand.com/en/Coriolis%20Force)
+[Mass flow meter - Wikiwand](https://www.wikiwand.com/en/Mass_flow_meter) Coriolis flow meter
 [科里奥利力有什么具体应用？在细节中发现科学 - YouTube](https://www.youtube.com/watch?v=xxShFT3B93c)
 
 ## Chaos Theory
 
 [分形与混沌 - YouTube](https://www.youtube.com/playlist?list=PLDrPNFPRTs8ObgbUnMGpEXNihoTjR7T8z)
 [分形与混沌 - 妈咪说 MommyTalk - YouTube](https://www.youtube.com/@Sci1729/search?query=%E5%88%86%E5%BD%A2%E4%B8%8E%E6%B7%B7%E6%B2%8C)
+
+Veritasium
+[Chaos: The Science of the Butterfly Effect - YouTube](https://www.youtube.com/watch?v=fDek6cYijxI)
+[This equation will change how you see the world (the logistic map) - YouTube](https://www.youtube.com/watch?v=ovJcsL7vyrk)
+
+[The Feigenbaum Constant (4.669) - Numberphile - YouTube](https://www.youtube.com/watch?v=ETrYE4MdoLQ)

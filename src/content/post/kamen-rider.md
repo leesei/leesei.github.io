@@ -2,13 +2,13 @@
 title: Kamen Rider
 description: ""
 created: 2024-06-15
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - tokusatsu
 ---
 
-[Kamen Rider - Wikiwand](https://omni.wikiwand.com/en/Kamen_Rider)
-[假面騎士系列 - Wikiwand](https://omni.wikiwand.com/zh/%E5%81%87%E9%9D%A2%E9%A8%8E%E5%A3%AB%E7%B3%BB%E5%88%97)
+[Kamen Rider - Wikiwand](https://www.wikiwand.com/en/Kamen_Rider)
+[假面騎士系列 - Wikiwand](https://www.wikiwand.com/zh/%E5%81%87%E9%9D%A2%E9%A8%8E%E5%A3%AB%E7%B3%BB%E5%88%97)
 [假面騎士（日本特攝系列）\_百度百科](https://baike.baidu.hk/item/%E5%81%87%E9%9D%A2%E9%A8%8E%E5%A3%AB/3409424)
 
 [Kamen Rider Wiki | Fandom](https://kamenrider.fandom.com/wiki/Kamen_Rider_Wiki)

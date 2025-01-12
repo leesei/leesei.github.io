@@ -2,7 +2,7 @@
 title: Kindle
 description: ""
 created: 2016-04-08
-updated: 2024-02-19
+updated: 2025-01-09
 tags:
   - ebook
 ---

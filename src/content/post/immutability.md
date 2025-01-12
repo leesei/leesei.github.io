@@ -2,7 +2,7 @@
 title: Immutability
 description: ""
 created: 2015-12-04
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - immutability
   - javascript
@@ -17,10 +17,10 @@ tags:
 Immutable app state probably will help you to enforce mutation from single component. Passing snapshot of the immutable state as props to child allows you to define your component as "pure" to boost performance.
 
 A naive implementation of immutability is to a deep clone the original data, then return the mutated copy.
-A more performant implementation is to use [persistent data structure](https://omni.wikiwand.com/en/Persistent_data_structure) (structural sharing), where only the mutated fields and the nodes reaching from the root to the field have to be updated.
+A more performant implementation is to use [persistent data structure](https://www.wikiwand.com/en/Persistent_data_structure) (structural sharing), where only the mutated fields and the nodes reaching from the root to the field have to be updated.
 
-[Immutable object - Wikiwand](https://omni.wikiwand.com/en/Immutable_object)
-[Persistent data structure - Wikiwand](https://omni.wikiwand.com/en/Persistent_data_structure)
+[Immutable object - Wikiwand](https://www.wikiwand.com/en/Immutable_object)
+[Persistent data structure - Wikiwand](https://www.wikiwand.com/en/Persistent_data_structure)
 
 [List of immutable libraries](https://gist.github.com/jlongster/bce43d9be633da55053f)
 [immutable-data.md · markerikson/redux-ecosystem-links](https://github.com/markerikson/redux-ecosystem-links/blob/master/immutable-data.md#immutable-update-utilities)

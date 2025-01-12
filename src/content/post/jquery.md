@@ -2,7 +2,7 @@
 title: jQuery
 description: ""
 created: 2016-04-12
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - comp/lang
   - jquery

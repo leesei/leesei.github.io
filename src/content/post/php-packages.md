@@ -2,7 +2,7 @@
 title: PHP Packages
 description: ""
 created: 2023-03-27
-updated: 2024-09-28
+updated: 2025-01-09
 tags:
   - comp/lang
   - php
@@ -67,7 +67,7 @@ tags:
 ## Laravel
 
 [Laravel - The PHP Framework For Web Artisans](https://laravel.com/)
-[Laravel - Wikiwand](https://omni.wikiwand.com/en/Laravel)
+[Laravel - Wikiwand](https://www.wikiwand.com/en/Laravel)
 
 [Laracasts](https://laracasts.com/)
 [Installation - Laravel - The PHP Framework For Web Artisans](https://laravel.com/docs/)

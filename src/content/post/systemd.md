@@ -2,13 +2,13 @@
 title: systemd
 description: ""
 created: 2017-01-05
-updated: 2024-08-28
+updated: 2025-01-09
 tags:
   - desktop
   - linux
 ---
 
-[systemd - Wikiwand](http://omni.wikiwand.com/en/Systemd)
+[systemd - Wikiwand](http://www.wikiwand.com/en/Systemd)
 [systemd - freedesktop.org](http://www.freedesktop.org/wiki/Software/systemd/)
 [systemd - ArchWiki](https://wiki.archlinux.org/title/systemd)
 [systemd - Debian Wiki](https://wiki.debian.org/systemd)
@@ -200,6 +200,10 @@ systemd specific locale and timezone:
 `hostnamectl`: `set-location`
 
 `systemd-inhibit`: run command with suspending
+
+## systemd-boot
+
+[systemd-boot - ArchWiki](https://wiki.archlinux.org/title/Systemd-boot)
 
 ## Lennart Poettering
 

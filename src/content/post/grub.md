@@ -2,7 +2,7 @@
 title: GRUB
 description: ""
 created: 2014-12-17
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - grub
   - linux
@@ -11,7 +11,7 @@ tags:
 Grub is both boot loader and boot menu.
 It loads `/boot/grub/grub.cfg` and present the menu.
 
-[GNU GRUB - Wikiwand](https://omni.wikiwand.com/en/GNU_GRUB)
+[GNU GRUB - Wikiwand](https://www.wikiwand.com/en/GNU_GRUB)
 [GRUB - ArchWiki](https://wiki.archlinux.org/title/GRUB)
 [GRUB/Tips and tricks - ArchWiki](https://wiki.archlinux.org/title/GRUB/Tips_and_tricks)
 [GNU GRUB Manual](http://www.gnu.org/software/grub/manual/html_node/)

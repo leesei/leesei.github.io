@@ -2,14 +2,14 @@
 title: Japanese History
 description: ""
 created: 2016-02-14
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - history
   - history/japanese
 ---
 
-[日本历史 - Wikiwand](http://omni.wikiwand.com/zh/日本历史)
-[日本歷史年表 - Wikiwand](https://omni.wikiwand.com/zh/日本历史年表)
+[日本历史 - Wikiwand](http://www.wikiwand.com/zh/日本历史)
+[日本歷史年表 - Wikiwand](https://www.wikiwand.com/zh/日本历史年表)
 [日本史時代劃分表 - 維基百科，自由的百科全書](http://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8F%B2%E6%99%82%E4%BB%A3%E5%8A%83%E5%88%86%E8%A1%A8)
 
 繩文時代 14000B.C.-
@@ -39,7 +39,7 @@ tags:
 [以時代為基礎說完日本全歷史! 簡介所有日本時代! (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=pCADnLc7bSY)
 [【扫盲班】第 17 期：整明白日本历史！ - YouTube](https://www.youtube.com/watch?v=hGnEdkLLHUY)
 
-[日本人名 - Wikiwand](http://omni.wikiwand.com/zh/日本人名)
+[日本人名 - Wikiwand](http://www.wikiwand.com/zh/日本人名)
 [日本人名 - 維基百科，自由的百科全書](http://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%90%8D)
 
 [科學分析 ▶ 日本人的祖先是誰? 是徐福還是韓國人? - YouTube](https://www.youtube.com/watch?v=1ctBTHk-rNI)

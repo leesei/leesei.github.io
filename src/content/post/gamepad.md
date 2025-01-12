@@ -2,7 +2,7 @@
 title: Gamepad
 description: ""
 created: 2016-09-25
-updated: 2024-09-23
+updated: 2025-01-09
 tags:
   - comp/hardware
 ---
@@ -11,6 +11,7 @@ tags:
 [How Vintage Game Controllers Worked - YouTube](https://www.youtube.com/watch?v=WVnwfwXnNiQ&t=2s)
 
 [【科技杂谈 67】游戏手柄发展史 - YouTube](https://www.youtube.com/watch?v=Sr6bGKltfJg)
+[【科技杂谈番外】XBOX家族真正的灵魂——XBOX手柄的故事 - YouTube](https://www.youtube.com/watch?v=mNMPN8jYndc)
 [游 戏 手 柄 进 化 史 - 知乎](https://zhuanlan.zhihu.com/p/141106714)
 [家用游戏机手柄进化史 - 知乎](https://zhuanlan.zhihu.com/p/19920577)
 [游戏手柄的进化史你知道么？ - 简书](https://www.jianshu.com/p/4fd238a017bc)
@@ -34,7 +35,7 @@ tags:
 [手柄陀螺仪设置全教程（PC端）\_单机游戏热门视频](https://www.bilibili.com/video/BV14A411F7em/)
 
 [Comparison of XInput and DirectInput features - Win32 apps | Microsoft Learn](https://learn.microsoft.com/en-us/windows/win32/xinput/xinput-and-directinput)
-[DirectInput - Wikiwand](https://omni.wikiwand.com/en/DirectInput#/DirectInput_vs_XInput)
+[DirectInput - Wikiwand](https://www.wikiwand.com/en/DirectInput#/DirectInput_vs_XInput)
 
 [手柄哥子俊 - YouTube](https://www.youtube.com/channel/UC24bt5d-Gg5m8Gdu7daaQVQ)
 [Controllers - YouTube](https://www.youtube.com/playlist?list=PL2Ksi8qJcnFKZT8yrh7JH13Z8uw0kxq_a) Gamer Heaven

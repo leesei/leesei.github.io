@@ -2,7 +2,7 @@
 title: Payload CMS
 description: A code first CMS that works the way you do
 created: 2023-04-30
-updated: 2024-08-22
+updated: 2025-01-09
 tags:
   - cms
   - typescript
@@ -10,8 +10,10 @@ tags:
 
 # Payload CMS
 
-[Payload CMS | Node & React TypeScript Headless CMS](https://payloadcms.com/)
-[payloadcms/payload: Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB](https://github.com/payloadcms/payload)
+> TODO: v3 is based on Next.js and revamped docs
+
+[Payload: The fastest growing open-source headless CMS](https://payloadcms.com/)
+[payloadcms/payload: Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.](https://github.com/payloadcms/payload)
 
 [Payload - YouTube](https://www.youtube.com/@payloadcms)
 [Let's Checkout... Payload CMS - YouTube](https://www.youtube.com/watch?v=wCZsKrF5elM)

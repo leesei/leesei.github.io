@@ -2,7 +2,7 @@
 title: Linux Tips and Tricks
 description: ""
 created: 2016-03-11
-updated: 2024-09-25
+updated: 2025-01-09
 tags:
   - app
   - desktop
@@ -29,6 +29,12 @@ David Bombal
 [Linux for Hackers Tutorial (And Free Courses) - YouTube](https://www.youtube.com/watch?v=YJUVNlmIO6E)
 [Linux for Hackers Tutorial with OTW! - YouTube](https://www.youtube.com/watch?v=8z-s5KQ9DbI)
 [Linux Networking that you need to know (Episode 3) - YouTube](https://www.youtube.com/watch?v=t96iOUxC27M)
+
+## Check kernel config
+
+```sh
+zcat /proc/config.gz
+```
 
 ## Check system install time
 
@@ -120,8 +126,9 @@ ps aux | grep $pid
 
 ## Freezes
 
-[Bug #159356 “System freeze on high memory usage” : Bugs : linux package : Ubuntu](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/159356)
+[hakavlad/nohang: A sophisticated low memory handler for Linux](https://github.com/hakavlad/nohang)
 
+[Bug #159356 “System freeze on high memory usage” : Bugs : linux package : Ubuntu](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/159356)
 Some suggested adding this to `/etc/rc.local`:
 
 ```sh
@@ -139,6 +146,11 @@ free -m
 
 ## Mounting storage
 
+[fstab: static information about the filesystems | util-linux File Formats | Man Pages | ManKier](https://www.mankier.com/5/fstab)
+`blkid`/`lsblk -f` to check partition id  
+The second last field (dump) should always be `0`  
+The last field is filesystem check sequence at boot, 1 for rfs, 2 for other file system, 0 to skip
+
 [systemd时代的/etc/fstab - Systemd系列文章](https://systemd-book.junmajinlong.com/systemd_fstab.html)
 
 ## Swap
@@ -153,15 +165,18 @@ mkswap ${SWAPFILE}
 swapoff -a; swapon ${SWAPFILE}
 free -h
 # commit to fstab
-printf "\n${SWAPFILE} none swap sw 0 0\n" >> /etc/fstab
+printf "\n${SWAPFILE} swap swap sw 0 0\n" >> /etc/fstab
 ```
 
 [Linux Add a Swap File – Howto](http://www.cyberciti.biz/faq/linux-add-a-swap-file-howto/)
+[hakavlad/nohang: A sophisticated low memory handler for Linux](https://github.com/hakavlad/nohang)
 
 ### swappiness
 
 [Tales from responsivenessland: why Linux feels slow, and how to fix that — Rudd-O.com in English](https://rudd-o.com/linux-and-free-software/tales-from-responsivenessland-why-linux-feels-slow-and-how-to-fix-that)
 [All about Linux swap space | Linux.com | The source for Linux information](https://www.linux.com/news/all-about-linux-swap-space)
+
+"the swap partition is really just a fall back, where i dont care about performance, i just care about not crashing."
 
 `/etc/sysctl.d/sysctl.conf`:
 
@@ -173,13 +188,25 @@ vm.swappiness = 30
 vm.vfs_cache_pressure = 70
 ```
 
+### zswap
+
+[Zswap vs zram in 2023, what's the actual practical difference? : r/linux](https://www.reddit.com/r/linux/comments/11dkhz7/zswap_vs_zram_in_2023_whats_the_actual_practical)
+[Zswap or Zram: at this time, which one is more efficient? : r/archlinux](https://www.reddit.com/r/archlinux/comments/13ujemv/zswap_or_zram_at_this_time_which_one_is_more/)
+[kernel - zram vs zswap vs zcache Ultimate guide: when to use which one - Ask Ubuntu](https://askubuntu.com/questions/471912/zram-vs-zswap-vs-zcache-ultimate-guide-when-to-use-which-one/472227#472227)
+
+```sh
+cat /sys/module/zswap/parameters/enabled
+
+zcat /proc/config.gz | grep -i zswap
+```
+
 ## Network buffer
 
 This modify the buffer sizes temporarily. Change `sysctl.conf` to make the change permanent.
 
 ```sh
-echo 1048576 >/proc/sys/net/core/rmem_max
-echo 1048576 >/proc/sys/net/core/rmem_default
+echo 1048576 > /proc/sys/net/core/rmem_max
+echo 1048576 > /proc/sys/net/core/rmem_default
 ```
 
 ## Kernel Modules
@@ -255,6 +282,9 @@ play -n -c1 synth whitenoise lowpass -1 120 lowpass -1 120 lowpass -1 120 gain +
 [stevegrubb/audit-explorer: This is an R shiny app that visualizes audit data using many tools all in one app.](https://github.com/stevegrubb/audit-explorer/)
 
 #### Articles
+
+[What You Need to Know About Linux Audit Framework](https://goteleport.com/blog/linux-audit/)
+[Linux auditd: What Is It and How Do You Use It? - United Kingdom](https://www.insentragroup.com/gb/insights/geek-speak/modern-workplace/mastering-auditd-in-rhel-ensuring-security-through-auditing/)
 
 [(PDF) Auditd: Rule Writing for better Threat Detection on \*nix Devices](https://www.researchgate.net/publication/355181208_Auditd_Rule_Writing_for_better_Threat_Detection_on_nix_Devices)
 

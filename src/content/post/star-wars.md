@@ -2,13 +2,13 @@
 title: Star Wars
 description: ""
 created: 2016-02-07
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - movies
   - star-wars
 ---
 
-[Star Wars - Wikiwand](http://omni.wikiwand.com/en/Star_Wars)
+[Star Wars - Wikiwand](http://www.wikiwand.com/en/Star_Wars)
 [StarWars.com | The Official Star Wars Website](http://www.starwars.com/)
 [The Star Wars Underworld](http://www.starwarsunderworld.com/)
 [Original Trilogy - Star Wars, Film Preservation, and Fan Edits](https://originaltrilogy.com/)
@@ -34,6 +34,10 @@ All books and games before 2014 was demoted from Extended Universe to Legend tha
 [How does a Lightsaber work? (Star Wars) - YouTube](https://www.youtube.com/watch?v=KduIzGhnb5c)
 [What's inside the Millennium Falcon? (Star Wars) - YouTube](https://www.youtube.com/watch?v=O5-WI7XN6uo)
 [Every Star Wars Pitch Meeting In Order Of The Star Wars Timeline Compilation - YouTube](https://www.youtube.com/watch?v=o_le0iRslrU)
+
+Prime's Theater
+[The STAR WARS Trilogy | A Complete Retrospective - 1 - YouTube](https://www.youtube.com/watch?v=OMF1PgaIdJk)
+[The PREQUEL Trilogy | A STAR WARS Complete Retrospective - 2 - YouTube](https://www.youtube.com/watch?v=8QtddvR5ZVs)
 
 ## Timeline
 

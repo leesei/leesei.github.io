@@ -2,7 +2,7 @@
 title: Digimon
 description: ""
 created: 2016-03-19
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - anime
   - digimon
@@ -20,18 +20,18 @@ I only follow Digimon Adventure, Digimon Adventure 02, Digimon Data Squad (05), 
 
 ## Wiki
 
-[Digimon - Wikiwand](http://omni.wikiwand.com/en/Digimon)
-[List of Digimon episodes and movies - Wikiwand](http://omni.wikiwand.com/en/List_of_Digimon_episodes_and_movies)
+[Digimon - Wikiwand](http://www.wikiwand.com/en/Digimon)
+[List of Digimon episodes and movies - Wikiwand](http://www.wikiwand.com/en/List_of_Digimon_episodes_and_movies)
 
 [Wikimon - The #1 Digimon Wiki](https://wikimon.net/Main_Page)
 [THE DIGIMON ENCYCLOPEDIA](http://digipedia.db-destiny.net/)
 
-[Digimon: The Movie - Wikiwand](http://omni.wikiwand.com/en/Digimon:_The_Movie)
-[Digimon Adventure - Wikiwand](http://omni.wikiwand.com/en/Digimon_Adventure)
-[Digimon Adventure 02 - Wikiwand](http://omni.wikiwand.com/en/Digimon_Adventure_02)
-[Digimon Data Squad - Wikiwand](http://omni.wikiwand.com/en/Digimon_Data_Squad)
-[Digimon Adventure tri. - Wikiwand](http://omni.wikiwand.com/en/Digimon_Adventure_tri.)
-[Digimon Adventure (2020 TV series) - Wikiwand](<https://omni.wikiwand.com/en/Digimon_Adventure_(2020_TV_series)>) reboot of the first series
+[Digimon: The Movie - Wikiwand](http://www.wikiwand.com/en/Digimon:_The_Movie)
+[Digimon Adventure - Wikiwand](http://www.wikiwand.com/en/Digimon_Adventure)
+[Digimon Adventure 02 - Wikiwand](http://www.wikiwand.com/en/Digimon_Adventure_02)
+[Digimon Data Squad - Wikiwand](http://www.wikiwand.com/en/Digimon_Data_Squad)
+[Digimon Adventure tri. - Wikiwand](http://www.wikiwand.com/en/Digimon_Adventure_tri.)
+[Digimon Adventure (2020 TV series) - Wikiwand](<https://www.wikiwand.com/en/Digimon_Adventure_(2020_TV_series)>) reboot of the first series
 
 [Digimon Wiki - Wikia](http://digimon.fandom.com/wiki/Digimon_Wiki)
 [Digimon Adventure | DigimonWiki | Fandom](http://digimon.fandom.com/wiki/Digimon_Adventure)
@@ -41,7 +41,7 @@ I only follow Digimon Adventure, Digimon Adventure 02, Digimon Data Squad (05), 
 [Digimon Adventure: | DigimonWiki | Fandom](https://digimon.fandom.com/wiki/Digimon_Adventure:)
 
 [List of characters in Digimon Adventure | DigimonWiki | FANDOM powered by Wikia](https://digimon.fandom.com/wiki/List_of_characters_in_Digimon_Adventure)
-[数码宝贝大冒险角色列表 - Wikiwand](http://omni.wikiwand.com/zh/数码宝贝大冒险角色列表)
+[数码宝贝大冒险角色列表 - Wikiwand](http://www.wikiwand.com/zh/数码宝贝大冒险角色列表)
 
 ## Digivolution
 
@@ -97,7 +97,7 @@ Biomerge Digivolution: Digimon merges with its human Tamer and Wrap evolve to th
 
 ## Reference
 
-[數碼暴龍列表 - Wikiwand](https://omni.wikiwand.com/zh/數碼寶貝列表)
+[數碼暴龍列表 - Wikiwand](https://www.wikiwand.com/zh/數碼寶貝列表)
 [数码兽中文数据库 - 数码兽图鉴](http://digimons.net/digimon/index.html)
 [デジモン図鑑（五十音順）｜デジモンオフィシャルポータルサイト デジモンウェブ](http://digimon.net/reference/)
 [デジモン図鑑（進化表順）｜デジモンオフィシャルポータルサイト デジモンウェブ](http://digimon.net/reference/evolution.php#reference_child2)

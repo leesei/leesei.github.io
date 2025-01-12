@@ -2,7 +2,7 @@
 title: Blockchain
 description: ""
 created: 2017-08-18
-updated: 2024-09-08
+updated: 2025-01-09
 tags:
   - blockchain
   - crypto
@@ -172,7 +172,7 @@ In "order selection mechanism" (which is called "mining"), blocks will be serial
 
 [Blockchain For Identity: Access Request Managmement - ForgeRock Forum and Blog](https://forum.forgerock.com/2016/06/blockchain-identity-access-request-managmement/)
 
-[OpenAM - Wikiwand](https://omni.wikiwand.com/en/OpenAM)
+[OpenAM - Wikiwand](https://www.wikiwand.com/en/OpenAM)
 [The Identity Cookbook: Using OpenAM as a Trusted File Authorization Engine](http://www.theidentitycookbook.com/2016/11/using-openam-as-trusted-file.html)
 
 ## NFT/Non-Fungible Tokens
@@ -204,7 +204,7 @@ In "order selection mechanism" (which is called "mining"), blocks will be serial
 
 ## Web 3
 
-[Web3 - Wikiwand](https://omni.wikiwand.com/en/web%203)
+[Web3 - Wikiwand](https://www.wikiwand.com/en/web%203)
 
 - Decentralized Internet
 - Blockchain (cryptocurrency, NFT)
@@ -257,10 +257,10 @@ sarcasm
 
 ## Wallet/Decentralized ID (DID)
 
-[Decentralized identifier - Wikiwand](https://omni.wikiwand.com/en/Decentralized_identifier)
+[Decentralized identifier - Wikiwand](https://www.wikiwand.com/en/Decentralized_identifier)
 [Decentralized Identifiers (DIDs) v1.0](https://www.w3.org/TR/did-core/)
 
-[Self-sovereign identity - Wikiwand](https://omni.wikiwand.com/en/Self-sovereign_identity)
+[Self-sovereign identity - Wikiwand](https://www.wikiwand.com/en/Self-sovereign_identity)
 [Self-sovereign identities | Bosch Global](https://www.bosch.com/stories/self-sovereign-identities/)
 [Self-Sovereign Identity: The Ultimate Guide 2024](https://www.dock.io/post/self-sovereign-identity)
 
@@ -319,7 +319,7 @@ login with blockchain wallet
 
 ## Decentralized application (dApp)
 
-[Decentralized application - Wikiwand](https://omni.wikiwand.com/en/Decentralized_application)
+[Decentralized application - Wikiwand](https://www.wikiwand.com/en/Decentralized_application)
 [Decentralized Applications (dApps): Definition, Uses, Pros and Cons](https://www.investopedia.com/terms/d/decentralized-applications-dapps.asp)
 
 [Decentralized applications (dapps) | ethereum.org](https://ethereum.org/en/dapps/)

@@ -2,7 +2,7 @@
 title: Tailwind CSS
 description: Rapidly build modern websites without ever leaving your HTML
 created: 2023-09-01
-updated: 2024-09-08
+updated: 2025-01-09
 tags:
   - css
   - tailwind
@@ -63,6 +63,9 @@ Uses Lightning CSS (Rust compiler and bundler)
 ## On the contrary
 
 [The Tailwind Conspiracy | Theo Reacts - YouTube](https://www.youtube.com/watch?v=yGBjXsrwK4M) attack on Tailwind (component-based development actually) and Theo's defense
+
+[Thoughts on Tailwind 4](https://nmn.sh/blog/2024-11-30-thoughts-on-tailwind-4) v4 features breaks "atomicity"
+[This new Tailwind feature is scarier than I thought - YouTube](https://www.youtube.com/watch?v=ArSPic3EbCo)
 
 ## Ecosystem
 

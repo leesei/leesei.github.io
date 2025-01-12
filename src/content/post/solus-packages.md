@@ -2,7 +2,7 @@
 title: Solus Packages
 description: ""
 created: 2017-06-05
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - linux
   - solus

@@ -2,7 +2,7 @@
 title: "Zelda: Tears of the Kingdom"
 description: ""
 created: 2023-06-06
-updated: 2024-05-22
+updated: 2025-01-09
 tags:
   - games
   - nintendo

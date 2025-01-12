@@ -2,12 +2,12 @@
 title: DNS
 description: ""
 created: 2015-07-25
-updated: 2024-09-06
+updated: 2025-01-09
 tags:
   - web
 ---
 
-[Domain Name System - Wikiwand](https://omni.wikiwand.com/en/Domain_Name_System)
+[Domain Name System - Wikiwand](https://www.wikiwand.com/en/Domain_Name_System)
 [DNS for Rocket Scientists - Contents](http://www.zytrax.com/books/dns/)
 
 [What is DNS? (and how it makes the Internet work) - YouTube](https://www.youtube.com/watch?v=NiQTs9DbtW4)
@@ -45,7 +45,7 @@ DNS resolution:
 Browser cache
 Recursive Name Servers (Name Servers in OS's network setting, `/etc/resolv.conf`)
 Root Name Server
-TLD (gTLD, ccTLD)
+TLD (Country Code TLD (ccTLD, 2 letters), Generic TLD (gTLD, > 2 letters))
 Authoritative Name Servers (SOA record)
 Secondary Name Server (NS record) for second level domains and sub-domains
 
@@ -64,12 +64,16 @@ Secondary Name Server (NS record) for second level domains and sub-domains
 
 ## Domain Name
 
-[Domain name - Wikiwand](https://omni.wikiwand.com/en/Domain_name)
+[Domain name - Wikiwand](https://www.wikiwand.com/en/Domain_name)
 [New TLDs, five years in - Domain Name Wire | Domain Name News](https://domainnamewire.com/2019/02/28/new-tlds-five-years-in/)
+
+[The Disappearance of an Internet Domain](https://every.to/p/the-disappearance-of-an-internet-domain)
+[IO Domains Are Going Away?? - YouTube](https://www.youtube.com/watch?v=1yJ6AZsUlpc)
+[BREAKING: \*.io domains might disappear soon - YouTube](https://www.youtube.com/watch?v=d725BsbsYqw)
 
 ## DNS spoofing/cache poisoning
 
-[DNS spoofing - Wikiwand](https://omni.wikiwand.com/en/DNS_spoofing)
+[DNS spoofing - Wikiwand](https://www.wikiwand.com/en/DNS_spoofing)
 [DNS Cache Poisoning - Computerphile - YouTube](https://www.youtube.com/watch?v=7MT1F0O3_Yw)
 
 [An Illustrated Guide to the Kaminsky DNS Vulnerability](http://unixwiz.net/techtips/iguide-kaminsky-dns-vuln.html)
@@ -117,10 +121,10 @@ A
 AAAA for IPv6
 CNAME
 MX
-[TXT record - Wikiwand](https://omni.wikiwand.com/en/TXT_record)
-[SRV record - Wikiwand](https://omni.wikiwand.com/en/SRV_record)
+[TXT record - Wikiwand](https://www.wikiwand.com/en/TXT_record)
+[SRV record - Wikiwand](https://www.wikiwand.com/en/SRV_record)
 
-[SOA](https://omni.wikiwand.com/en/SOA_record) Start of Authority
+[SOA](https://www.wikiwand.com/en/SOA_record) Start of Authority
 NS Name Server
 
 ### Glue Records
@@ -242,7 +246,7 @@ Server Name Identification (SNI), a technology used by servers hosting multiple 
 [Linux DNS Server - How To Set Up Static or Dynamic DNS for Your Internet Servers](http://www.aboutdebian.com/dns.htm)
 
 [BIND 9 Open Source DNS Server | Internet Systems Consortium](https://www.isc.org/downloads/bind/)
-[BIND - Wikiwand](https://omni.wikiwand.com/en/BIND)
+[BIND - Wikiwand](https://www.wikiwand.com/en/BIND)
 [Deploying a DNS Server using Docker - SAMEER NAIK](http://www.damagehead.com/blog/2015/04/28/deploying-a-dns-server-using-docker/)
 [sameersbn/docker-bind: Dockerize BIND DNS server with webmin for DNS administration](https://github.com/sameersbn/docker-bind)
 [You want a real DNS Server at home? (bind9 + docker) - YouTube](https://www.youtube.com/watch?v=syzwLwE3Xq4)
@@ -283,7 +287,7 @@ Server Name Identification (SNI), a technology used by servers hosting multiple 
 
 > ensure the authoritative name servers can be trusted, preventing cache-poisoning attack
 
-[Domain Name System Security Extensions - Wikiwand](https://omni.wikiwand.com/en/Domain_Name_System_Security_Extensions)
+[Domain Name System Security Extensions - Wikiwand](https://www.wikiwand.com/en/Domain_Name_System_Security_Extensions)
 [How DNSSEC Works | Cloudflare](https://www.cloudflare.com/dns/dnssec/how-dnssec-works/)
 [DNSSEC – What Is It and Why Is It Important? - ICANN](https://www.icann.org/resources/pages/dnssec-what-is-it-why-important-2019-03-05-en)
 

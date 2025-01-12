@@ -2,7 +2,7 @@
 title: Svelte
 description: Svelte is a _compiler_ for frontend applications
 created: 2019-12-16
-updated: 2024-01-12
+updated: 2025-01-09
 tags:
   - frontend
   - javascript

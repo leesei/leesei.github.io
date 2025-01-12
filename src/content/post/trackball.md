@@ -2,7 +2,7 @@
 title: Trackball
 description: ""
 created: 2015-06-15
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - adesso
   - comp/hardware
@@ -12,7 +12,7 @@ tags:
   - sanwa
 ---
 
-[Trackball - Wikiwand](http://omni.wikiwand.com/en/Trackball)
+[Trackball - Wikiwand](http://www.wikiwand.com/en/Trackball)
 [Trackball vs Mouse, and How to Choose a Trackball?](http://xahlee.info/kbd/trackball_vs_mouse.html)
 [r/Trackballs](https://www.reddit.com/r/Trackballs)
 

@@ -2,7 +2,7 @@
 title: Manga
 description: ""
 created: 2016-05-30
-updated: 2024-09-29
+updated: 2025-01-09
 tags:
   - anime
   - manga
@@ -104,7 +104,7 @@ Spy x Family
 
 ## 火鳳燎原
 
-[【火鳳人物誌 04】史上最強軍師團體『水鏡八奇』，歡迎踏進八奇的思考領域!!｜軒老說火鳳燎原三國武將人物介紹 - YouTube](https://www.youtube.com/watch?v=nofvujlijAo&t=0s)
+[【火鳳燎原人物傳】軒老說火鳳三國人物介紹 - YouTube](https://www.youtube.com/playlist?list=PLsXcWrctveKmQ4XjANIyJKCCuQmPVE0Vi)
 
 ##　結界師
 

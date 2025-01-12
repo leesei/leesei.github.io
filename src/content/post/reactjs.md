@@ -2,7 +2,7 @@
 title: React.js
 description: The library for web and native user interfaces
 created: 2015-12-04
-updated: 2024-09-02
+updated: 2025-01-09
 tags:
   - frontend
   - javascript
@@ -92,6 +92,7 @@ React blends view and controller more the higher up in the component hierarchy. 
 > DO NOT use Create React App anymore
 
 [[nextjs]]
+[[tanstack-start]]
 [[vite#Templates]]
 
 [Replace Create React App recommendation with Vite by t3dotgg · Pull Request #5487 · reactjs/react.dev](https://github.com/reactjs/react.dev/pull/5487)
@@ -109,6 +110,9 @@ yarn create t3-app
 ```
 
 ### Project structure
+
+[This Folder Structure Makes Me 100% More Productive - YouTube](https://www.youtube.com/watch?v=xyxrB2Aa7KE) 2024-10, feature focused
+[WebDevSimplified/parity-deals-clone at feature-folder-structure](https://github.com/WebDevSimplified/parity-deals-clone/tree/feature-folder-structure)
 
 [How to Structure Your React Project](https://daveceddia.com/react-project-structure/)
 [How to structure your react app. - By](https://hackernoon.com/how-to-structure-your-react-app-98c48e102aad)
@@ -454,6 +458,7 @@ Use `React.createRef()`/`React.useRef()`, not string ref or callback ref
 ## App Frameworks/Distros
 
 [[nextjs]]
+[[tanstack-start]]
 
 [JavaScript Frameworks in 2023 - YouTube](https://www.youtube.com/watch?v=S7X6fLbdwlc)
 [drawing](https://twitter.com/t3dotgg/status/1612980211393638401/photo/1)
@@ -1046,6 +1051,8 @@ ESDoc requires `class` syntax.
 
 [How To Write Better Code in React – Bits and Pieces](https://blog.bitsrc.io/how-to-write-better-code-in-react-best-practices-b8ca87d462b0)
 
+[How To Debug React Apps Like A Senior Developer - YouTube](https://www.youtube.com/watch?v=l8knG0BPr-o)
+
 [React.js Best Practices for 2016 | @RisingStack](https://blog.risingstack.com/react-js-best-practices-for-2016/)
 [3 Performance Tips to Speed Up Your React Applications](https://www.telerik.com/blogs/3-performance-tips-to-speed-up-your-react-applications)
 
@@ -1227,12 +1234,6 @@ Caveat:
 
 [React Awesome Reveal](https://react-awesome-reveal.morello.dev/)
 [morellodev/react-awesome-reveal: React components to add reveal animations using the Intersection Observer API and CSS Animations.](https://github.com/morellodev/react-awesome-reveal)
-
-#### Framer Motion
-
-[Production-Ready Animation Library for React | Framer Motion](https://www.framer.com/motion/)
-[Responsive Framer Motion with Tailwind CSS - YouTube](https://www.youtube.com/watch?v=xSuxsfn13xg)
-[How to Use Framer Motion to Add Animations and Page Transitions to a Next.js React App - YouTube](https://www.youtube.com/watch?v=q9tpBtvTTz8)
 
 #### React Spring
 

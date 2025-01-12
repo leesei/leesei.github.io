@@ -2,7 +2,7 @@
 title: Remote Procedure Call (RPC)
 description: ""
 created: 2018-08-02
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - comp/lang
   - rpc
@@ -12,7 +12,7 @@ tags:
 [[grpc]]
 [[web-socket]]
 
-[Remote procedure call - Wikiwand](http://omni.wikiwand.com/en/Remote_procedure_call)
+[Remote procedure call - Wikiwand](http://www.wikiwand.com/en/Remote_procedure_call)
 Usually an interface description language ([IDL](#idl)) is used to define the data sent over the wire. The IDL that can usually generate bindings for multiple languages.
 
 [Understanding RPC (tour of API protocols, gRPC nodejs walkthrough, and Apache Arrow Flight)](https://main.grokoverflow.com/posts/2022/02-understanding-rpc-node-walkthrough)
@@ -103,7 +103,7 @@ RPC framework created by Alibaba.
 
 > GPLv2
 
-[Internet Communications Engine - Wikiwand](https://omni.wikiwand.com/en/Internet_Communications_Engine)
+[Internet Communications Engine - Wikiwand](https://www.wikiwand.com/en/Internet_Communications_Engine)
 [ZeroC - Network Your Software](https://zeroc.com/)
 
 ## JSON-RPC
@@ -113,5 +113,5 @@ RPC framework created by Alibaba.
 
 ## SOAP
 
-[SOAP - Wikiwand](https://omni.wikiwand.com/en/SOAP)
+[SOAP - Wikiwand](https://www.wikiwand.com/en/SOAP)
 [How to Perform SOAP Requests With Node.js - Better Programming - Medium](https://medium.com/better-programming/how

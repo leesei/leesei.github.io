@@ -2,7 +2,7 @@
 title: Deno notes
 description: ""
 created: 2018-06-11
-updated: 2024-03-18
+updated: 2025-01-09
 tags:
   - deno
   - javascript/runtime

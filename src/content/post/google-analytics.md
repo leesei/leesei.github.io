@@ -2,7 +2,7 @@
 title: Google Analytics
 description: ""
 created: 2023-05-20
-updated: 2024-06-14
+updated: 2025-01-09
 tags:
   - google
   - web

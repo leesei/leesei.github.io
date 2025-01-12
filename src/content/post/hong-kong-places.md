@@ -2,7 +2,7 @@
 title: Hong Kong Places
 description: ""
 created: 2015-05-25
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - trivia
 ---
@@ -34,10 +34,10 @@ tags:
 
 ### 殖民統治
 
-[香港割讓 - Wikiwand](https://omni.wikiwand.com/zh/%E9%A6%99%E6%B8%AF%E5%89%B2%E8%AE%93)
-[南京條約 - Wikiwand](https://omni.wikiwand.com/zh/%E5%8D%97%E4%BA%AC%E6%9D%A1%E7%BA%A6) 1842 香港島
-[北京條約 - Wikiwand](https://omni.wikiwand.com/zh/%E5%8C%97%E4%BA%AC%E6%A2%9D%E7%B4%84) 1860 九龍半島
-[展拓香港界址專條 - Wikiwand](https://omni.wikiwand.com/zh/%E5%B1%95%E6%8B%93%E9%A6%99%E6%B8%AF%E7%95%8C%E5%9D%80%E5%B0%88%E6%A2%9D) 1898 租借界限街以北，深圳河以南
+[香港割讓 - Wikiwand](https://www.wikiwand.com/zh/%E9%A6%99%E6%B8%AF%E5%89%B2%E8%AE%93)
+[南京條約 - Wikiwand](https://www.wikiwand.com/zh/%E5%8D%97%E4%BA%AC%E6%9D%A1%E7%BA%A6) 1842 香港島
+[北京條約 - Wikiwand](https://www.wikiwand.com/zh/%E5%8C%97%E4%BA%AC%E6%A2%9D%E7%B4%84) 1860 九龍半島
+[展拓香港界址專條 - Wikiwand](https://www.wikiwand.com/zh/%E5%B1%95%E6%8B%93%E9%A6%99%E6%B8%AF%E7%95%8C%E5%9D%80%E5%B0%88%E6%A2%9D) 1898 租借界限街以北，深圳河以南
 
 [How 156 years of British rule shaped Hong Kong - YouTube](https://www.youtube.com/watch?v=StW7oGSR_Mg)
 [香港主權移交 20 週年：為什麼 BBC 中文網不說「回歸」？ - BBC News 中文](https://www.bbc.com/zhongwen/trad/chinese-news-40441492)

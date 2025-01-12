@@ -2,13 +2,13 @@
 title: World War I
 description: ""
 created: 2015-06-07
-updated: 2024-09-01
+updated: 2025-01-09
 tags:
   - history
   - world-war
 ---
 
-[World War I - Wikiwand](http://omni.wikiwand.com/en/World_War_I)
+[World War I - Wikiwand](http://www.wikiwand.com/en/World_War_I)
 [BBC - BBC World War One](https://www.bbc.co.uk/programmes/p01nb93y)
 [About WWI | National WWI Museum and Memorial](https://www.theworldwar.org/about-wwi) Interactive Timeline and Map
 

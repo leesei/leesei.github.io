@@ -2,7 +2,7 @@
 title: Nvidia GPU in Docker
 description: ""
 created: 2017-11-03
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - container
   - dev/deploy

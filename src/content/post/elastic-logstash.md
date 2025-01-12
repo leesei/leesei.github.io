@@ -2,7 +2,7 @@
 title: Elastic Logstash
 description: ""
 created: 2015-08-03
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - elastic-stack
   - web
@@ -16,6 +16,7 @@ tags:
 [elastic/logstash: logstash - transport and process your logs, events, or other data](https://github.com/elastic/logstash)
 
 [How Logstash Works | Logstash Reference | Elastic](https://www.elastic.co/guide/en/logstash/current/pipeline.html)
+`bin/logstash -e 'input { stdin {} } filter {} output { stdout {} }'`
 The Logstash event processing pipeline has three stages: inputs → filters → outputs. Inputs generate events, filters modify them, and outputs ship them elsewhere. Inputs and outputs support codecs that enable you to encode or decode the data as it enters or exits the pipeline without having to use a separate filter.
 
 [Introduction to Logstash: Getting Started | Cybera](https://www.cybera.ca/news-and-events/tech-radar/introduction-to-logstash-getting-started/)

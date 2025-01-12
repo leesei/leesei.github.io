@@ -2,7 +2,7 @@
 title: Net Neutrality
 description: ""
 created: 2015-02-27
-updated: 2023-12-10
+updated: 2025-01-09
 tags:
   - net-neutrality
   - web

@@ -2,7 +2,7 @@
 title: Coffee
 description: ""
 created: 2016-07-23
-updated: 2024-02-21
+updated: 2025-01-09
 tags:
   - coffee
   - food
@@ -15,13 +15,15 @@ tags:
 [The Secrets of Nespresso Pods - YouTube](https://www.youtube.com/watch?v=HouzvJGazs4)
 
 [Vol.146 速溶咖啡为什么这么难喝？ - YouTube](https://www.youtube.com/watch?v=3QjXu_RKghw)
-[你真的了解咖啡么 | 咖啡鄙视链 咖啡高级常识 - YouTube](https://www.youtube.com/watch?v=motxyzLrf4Y)
+[你真的了解咖啡么 | 咖啡高级常识 - YouTube](https://www.youtube.com/watch?v=motxyzLrf4Y)
+[一喝咖啡就落賽？「咖啡大師」解答網友提問 @jameshoffmann Answers Coffee Questions ｜名人專業問答｜GQ Taiwan - YouTube](https://www.youtube.com/watch?v=JliCCMEtTfA)
 
 [部落格 - 咖啡獵人 Coffee Hunter](https://coffeehunter.tw/blog/)
 [咖啡豆非學不可：基本入門知識 - 咖啡獵人 Coffee Hunter](https://coffeehunter.tw/coffee-bean-guide/)
 [拿鐵、卡布奇諾、摩卡差別比一比 - 咖啡獵人 Coffee Hunter](https://coffeehunter.tw/latte-mocha-cappuccino-difference/)
 [美式咖啡？黑咖啡？竟然是不一樣的咖啡？？ - YouTube](https://www.youtube.com/watch?v=9qhHebHV_Jg)
 [咖啡的秘密：戰士的勇猛秘方，囚犯的保命神器？魔鬼的傑作伴隨著偷盜與美色征服世界......｜總裁聊聊 - YouTube](https://www.youtube.com/watch?v=YO9-HknENMY)
+[【鬼谷闲谈】咖啡：咖啡因造就咖啡果 - YouTube](https://www.youtube.com/watch?v=TYROfgCsOGI)
 
 [維堤咖啡Vetti Coffee - YouTube](https://www.youtube.com/@vetticoffee)π
 [揭秘五種最常見的居家黑咖啡｜Americano lungo傻傻分不清楚 - YouTube](https://www.youtube.com/watch?v=tfCWIQKm460)

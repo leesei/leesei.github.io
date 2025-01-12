@@ -2,7 +2,7 @@
 title: Nintendo Switch
 description: ""
 created: 2018-01-09
-updated: 2024-09-23
+updated: 2025-01-09
 tags:
   - games
   - nintendo
@@ -132,6 +132,12 @@ Video playback is blocked since 3.0.0
 
 [Bloodstained: Ritual of the Night beginner’s guide - Polygon](https://www-polygon-com.cdn.ampproject.org/v/s/www.polygon.com/platform/amp/guides/2019/6/25/18715772/bloodstained-ritual-of-the-night-beginners-guide)
 
+### Unicorn Overlord
+
+[聖獸之王系列 - YouTube](https://www.youtube.com/playlist?list=PLwie-6_kHiZNWDdhzt8wsNiW-O8P50QR6) Arjen Play
+[聖獸之王 Unicorn Overlord - YouTube](https://www.youtube.com/playlist?list=PLmTJWL2O382fHMEsh27YHS5r94pfXAoT6) 阿吸教練
+[聖獸之王 - YouTube](https://www.youtube.com/playlist?list=PLZSbxps8eBq2A98TkiZJtX6MNzZtUoZT_) 非酋戴洛
+
 ### Pokémon Legends: Arceus
 
 [Pokémon Legends: Arceus | Official Website | Pokémon](https://legends.pokemon.com/en-us/)
@@ -210,7 +216,7 @@ Video playback is blocked since 3.0.0
 
 #### Dragon Quest XI
 
-[Dragon Quest XI - Wikiwand](https://omni.wikiwand.com/en/Dragon_Quest_XI)
+[Dragon Quest XI - Wikiwand](https://www.wikiwand.com/en/Dragon_Quest_XI)
 [Dragon Quest XI - FrontierNav](https://frontiernav.net/explore/dragon-quest-xi)
 
 [Dragon Quest XI: The Kotaku Review - YouTube](https://www.youtube.com/watch?v=4iTbUGItU0s&t=4s)
@@ -398,7 +404,7 @@ TheJWittz
 ### 逆転裁判/Ace Attorney
 
 [CAPCOM：逆転裁判シリーズ 公式サイト](http://www.capcom.co.jp/game/gyakutensaiban/)
-[逆轉裁判系列 - Wikiwand](https://omni.wikiwand.com/zh/%E9%80%86%E8%BD%AC%E8%A3%81%E5%88%A4%E7%B3%BB%E5%88%97)
+[逆轉裁判系列 - Wikiwand](https://www.wikiwand.com/zh/%E9%80%86%E8%BD%AC%E8%A3%81%E5%88%A4%E7%B3%BB%E5%88%97)
 [逆轉裁判 - Komica wiki](https://wiki.komica.org/%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4)
 [Ace Attorney Wiki | Fandom](https://aceattorney.fandom.com/wiki/Ace_Attorney_Wiki)
 
@@ -410,7 +416,7 @@ TheJWittz
 [The Ace Attorney Iceberg Explained - YouTube](https://www.youtube.com/watch?v=FAPpgHxuDA8)
 
 [逆轉裁判登場人物一覽 - Komica wiki](https://wiki.komica.org/%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%BD)
-[逆轉裁判系列角色列表 - Wikiwand](https://omni.wikiwand.com/zh/%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E7%B3%BB%E5%88%97%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8)
+[逆轉裁判系列角色列表 - Wikiwand](https://www.wikiwand.com/zh/%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E7%B3%BB%E5%88%97%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8)
 
 [用一句話形容「逆轉裁判」，沒看過這麼精彩的法庭推理秀！最強律師 VS 最強女鬼！【動漫茶館】 - YouTube](https://www.youtube.com/watch?v=-9yrB5FKpMU)
 [華麗的逆轉（上）成步堂接班人？御劍第一次辯護就上手！【逆轉裁判 3】 - YouTube](https://www.youtube.com/watch?v=JUyV8_efYUc)
@@ -471,7 +477,9 @@ Tegra X1? T214/T210N01
 
 ### Hacking Switch
 
-[The Ultimate Noob Guide for Hacking your Nintendo Switch — Homebrew Guide documentation](https://switch.homebrew.guide/)
+[NH Switch Guide](https://switch.hacks.guide/)
+[Team-Neptune/DeepSea: The new All-in-One CFW package for the Nintendo Switch.](https://github.com/Team-Neptune/DeepSea)
+
 [What Can You Do With a Jailbroken Nintendo Switch in 2019? - YouTube](https://www.youtube.com/watch?v=xhq4UQgB8Sc)
 
 [CTCaer/hekate: hekate - A GUI based Nintendo Switch Bootloader](https://github.com/CTCaer/hekate)
@@ -571,19 +579,19 @@ Files:
 
 key_retail.bin = `cat unfixed-info.bin locked-secret.bin > key_retail.bin`
 
-```txt
+```
 1D 16 4B 37 5B 72 A5 57 28 B9 1D 64 B6 A3 C2 05 75 6E 66 69 78 65 64 20 69 6E 66 6F 73 00 00 0E DB 4B 9E 3F 45 27 8F 39 7E FF 9B 4F B9 93 00 00 04 49 17 DC 76 B4 96 40 D6 F8 39 39 96 0F AE D4 EF 39 2F AA B2 14 28 AA 21 FB 54 E5 45 05 47 66 7F 75 2D 28 73 A2 00 17 FE F8 5C 05 75 90 4B 6D 6C 6F 63 6B 65 64 20 73 65 63 72 65 74 00 00 10 FD C8 A0 76 94 B8 9E 4C 47 D3 7D E8 CE 5C 74 C1 04 49 17 DC 76 B4 96 40 D6 F8 39 39 96 0F AE D4 EF 39 2F AA B2 14 28 AA 21 FB 54 E5 45 05 47 66
 ```
 
 unfixed-info.bin (data key)
 
-```txt
+```
 1D 16 4B 37 5B 72 A5 57 28 B9 1D 64 B6 A3 C2 05 75 6E 66 69 78 65 64 20 69 6E 66 6F 73 00 00 0E DB 4B 9E 3F 45 27 8F 39 7E FF 9B 4F B9 93 00 00 04 49 17 DC 76 B4 96 40 D6 F8 39 39 96 0F AE D4 EF 39 2F AA B2 14 28 AA 21 FB 54 E5 45 05 47 66
 ```
 
 locked-secret.bin (tag key)
 
-```txt
+```
 7F 75 2D 28 73 A2 00 17 FE F8 5C 05 75 90 4B 6D 6C 6F 63 6B 65 64 20 73 65 63 72 65 74 00 00 10 FD C8 A0 76 94 B8 9E 4C 47 D3 7D E8 CE 5C 74 C1 04 49 17 DC 76 B4 96 40 D6 F8 39 39 96 0F AE D4 EF 39 2F AA B2 14 28 AA 21 FB 54 E5 45 05 47 66
 ```
 

@@ -2,7 +2,7 @@
 title: Robotics
 description: ""
 created: 2015-10-19
-updated: 2024-09-30
+updated: 2025-01-09
 tags:
   - maker
 ---
@@ -30,7 +30,7 @@ tags:
 [Mini Raspberry Pi Boston Dynamics–inspired robot - Raspberry Pi](https://www.raspberrypi.org/blog/mini-raspberry-pi-boston-dynamics-inspired-robot/)
 
 [How to Control a Servo Motor From a Webpage | Arduino | Maker Pro](https://maker.pro/arduino/tutorial/how-to-control-a-servo-motor-from-a-webpage)
-[Raspberry PI L298N Dual H Bridge DC Motor: 5 Steps](https://www.instructables.com/id/Raspberry-PI-L298N-Dual-H-Bridge-DC-Motor/)
+[Raspberry PI L298N Dual H Bridge DC Motor: 5 Steps](https://www.instructables.com/Raspberry-PI-L298N-Dual-H-Bridge-DC-Motor/)
 [Arduino Robot - Motor Control - DarkBlueBit.com](https://darkbluebit.com/arduino/robot-motor-control/)
 
 [PythonRobotics | Python sample codes for robotics algorithms.](https://atsushisakai.github.io/PythonRobotics/)
@@ -42,6 +42,10 @@ tags:
 
 [Build a REAL Robot - YouTube](https://www.youtube.com/playlist?list=PLWNDWPAClRVqZITmi-J-7E9XSZd2aqqBh)
 [Arduino and Servos: How to Make a Laser Turret with XOD - YouTube](https://www.youtube.com/watch?v=iH9_xtulyws) DroneBot Workshop
+
+## Animatronics
+
+[Disney's Animatronics: A Living History - YouTube](https://www.youtube.com/watch?v=jjNca1L6CUk)
 
 ## Robotics Operating System (ROS)
 
@@ -122,7 +126,7 @@ tags:
 [Mindstorms Strider Ver 3 Mod - DIY Walkers](https://www.diywalkers.com/mindstorms-strider-ver-3-mod.html)
 
 [Building 8-Legged Trotbots, From Tiny to Towering | Make:](https://makezine.com/2017/01/12/lego-trotbot/) too much torque, see below
-[Lego Trotbot: 8 Steps (with Pictures)](https://www.instructables.com/id/Lego-Trotbot/)
+[Lego Trotbot: 8 Steps (with Pictures)](https://www.instructables.com/Lego-Trotbot/)
 [TrotBot Linkage Plans - DIY Walkers](https://www.diywalkers.com/trotbot-linkage-plans.html)
 [TrotBot's Legs Simplified - DIY Walkers](https://www.diywalkers.com/trotbots-legs-simplified.html)
 [Hexapod TrotBot - DIY Walkers](https://www.diywalkers.com/hexapod-trotbot.html)
@@ -139,10 +143,10 @@ tags:
 
 ## IMU
 
-[Inertial measurement unit - Wikiwand](https://omni.wikiwand.com/en/Inertial_measurement_unit)
+[Inertial measurement unit - Wikiwand](https://www.wikiwand.com/en/Inertial_measurement_unit)
 [The GENIUS of Inertial Navigation Systems Explained - YouTube](https://www.youtube.com/watch?v=Pq_PDaYclAw)
 
-[Accelerometer - Wikiwand](https://omni.wikiwand.com/en/Accelerometer)
+[Accelerometer - Wikiwand](https://www.wikiwand.com/en/Accelerometer)
 [Accelerometer Basics - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/accelerometer-basics/all)
 [Accelerometer, Gyro and IMU Buying Guide - SparkFun Electronics](https://www.sparkfun.com/pages/accel_gyro_guide)
 [How a gyroscope guides a rocket - YouTube](https://www.youtube.com/watch?v=KToggTKa9Lk)
@@ -150,18 +154,18 @@ tags:
 ### Self-balancing robot
 
 [Arduino Blog » This self-balancing mech is piloted by an insect](https://blog.arduino.cc/2019/06/14/this-self-balancing-mech-is-piloted-by-an-insect/)
-[Augmented Arthropod - Self-Balancing Mech: 11 Steps (with Pictures)](https://www.instructables.com/id/Augmented-Arthropod-Self-Balancing-Mech/)
+[Augmented Arthropod - Self-Balancing Mech: 11 Steps (with Pictures)](https://www.instructables.com/Augmented-Arthropod-Self-Balancing-Mech/)
 
 ## Motor
 
-[Electric motor - Wikiwand](http://omni.wikiwand.com/en/Electric_motor) Electronic speed controllers (ESC)
+[Electric motor - Wikiwand](http://www.wikiwand.com/en/Electric_motor) Electronic speed controllers (ESC)
 [Types of Motors | Adafruit Motor Selection Guide | Adafruit Learning System](https://learn.adafruit.com/adafruit-motor-selection-guide)
 [Motors and Selecting the Right One - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one)
 [Which Motor Type is the Best Generator? || DC, BLDC or Stepper? (Experiment) - YouTube](https://www.youtube.com/watch?v=cJ_vDA7xsGs)
 [HACKED!: Turning an Induction Motor into a Generator?! - YouTube](https://www.youtube.com/watch?v=05qJM-zZ4ng)
 [How does an Electric Motor work? (DC Motor) - YouTube](https://www.youtube.com/watch?v=CWulQ1ZSE3c)
-[How-To: Motors: 10 Steps (with Pictures)](https://www.instructables.com/id/How-To-Motors/)
-[Toy Motors: 3 Steps](https://www.instructables.com/id/Toy-Motors/)
+[How-To: Motors: 10 Steps (with Pictures)](https://www.instructables.com/How-To-Motors/)
+[Toy Motors: 3 Steps](https://www.instructables.com/Toy-Motors/)
 [三種馬達介紹(再版) - YouTube](https://www.youtube.com/watch?v=NCcYGrakkoU)
 
 Life of Wayne
@@ -172,7 +176,7 @@ Life of Wayne
 [地表最強電機對決！解密超越特斯拉的電機技術！獨家解析 Tesla Plaid Motor VS Lucid Air Motor ｜拆解講解 第二集 - YouTube](https://www.youtube.com/watch?v=wnx39WQXCak)
 
 [Beginners Guide to Using Electric Motors - YouTube](https://www.youtube.com/playlist?list=PL4njCTv7IRbyJbm1WOi6zeE8G-75Xz8JJ)
-[Understanding Motor and Gearbox Design: 10 Steps (with Pictures)](https://www.instructables.com/id/Understanding-Motor-and-Gearbox-Design/)
+[Understanding Motor and Gearbox Design: 10 Steps (with Pictures)](https://www.instructables.com/Understanding-Motor-and-Gearbox-Design/)
 
 [The Electric Motor - Edison Tech Center](http://www.edisontechcenter.org/electricmotors.html)
 [Induction Motors](http://www.edisontechcenter.org/inductionMotors.html)
@@ -196,7 +200,7 @@ When using PWM to drive DC motor, do a high pass (of say 8 out of 255 with 8 bit
 [Overview of Industrial Motor Control Systems - Tutorial - Maxim](https://www.maximintegrated.com/en/app-notes/index.mvp/id/4697)
 [Motor Control Simulation - YouTube](https://www.youtube.com/playlist?list=PLn8PRpmsu08q6N0vjurZxdOaFdbsjuQq2)
 [Motor speed controller tutorial - PWM how to build - YouTube](https://www.youtube.com/watch?v=UPTU6nYSaMo)
-[Motor + LCD + Arduino: Motor Speed Controller With Speed Display: 5 Steps (with Pictures)](https://www.instructables.com/id/Motor-LCD-Arduino-Motor-Speed-Controller-With-Spee/)
+[Motor + LCD + Arduino: Motor Speed Controller With Speed Display: 5 Steps (with Pictures)](https://www.instructables.com/Motor-LCD-Arduino-Motor-Speed-Controller-With-Spee/)
 
 [Pololu - DRV8833 Dual Motor Driver Carrier](https://www.pololu.com/product/2130) 10V 1.5A, used by LEGO IR receiver v2
 [Pololu - DRV8835 Dual Motor Driver Carrier](https://www.pololu.com/product/2135)
@@ -236,8 +240,8 @@ When using PWM to drive DC motor, do a high pass (of say 8 out of 255 with 8 bit
 
 ### DC Brushed/Brushless Motors
 
-[摩打 - Wikiwand](https://omni.wikiwand.com/zh/电动机)
-[DC motor - Wikiwand](http://omni.wikiwand.com/en/DC_motor)
+[摩打 - Wikiwand](https://www.wikiwand.com/zh/电动机)
+[DC motor - Wikiwand](http://www.wikiwand.com/en/DC_motor)
 
 Deceleration Motor
 [减速机\_百度百科](https://baike.baidu.com/item/减速机)
@@ -253,9 +257,13 @@ Deceleration Motor
 [Brushed DC Motors | AddOhms #20 - YouTube](https://www.youtube.com/watch?v=iKqruCYuc1Q)
 [Brushless DC Motors (BLDCs) Introduction | AO #21 - YouTube](https://www.youtube.com/watch?v=ZqEHXEuq2rc)
 [Electronic Basics #18: DC & Brushless DC Motor + ESC - YouTube](https://www.youtube.com/watch?v=UteZJ_7C4Mg)
-
 [How does an Electric Motor work? DC Motor explained - YouTube](https://www.youtube.com/watch?v=GQatiB-JHdI)
+
+Control rotation speed, position and torque
+[Field Oriented Control (FOC) - A Deep Dive](https://www.pmdcorp.com/resources/type/articles/get/field-oriented-control-foc-a-deep-dive-article)
 [Brushless Motor - How they work BLDC ESC PWM - YouTube](https://www.youtube.com/watch?v=yiD5nCfmbV0)
+[FOC Driver Controller PCB - Slow Brushless Control - YouTube](https://www.youtube.com/watch?v=zSdetJsSeNw)
+[没有专业术语！新手小白也能看懂的FOC科普 - YouTube](https://www.youtube.com/watch?v=gKL4_Gr-1cY)
 
 Brushed motor will have spark, and is cheaper
 BLDC = Electronic control unit (ECU) + permanent magnet three phase AC motor; it don't have spark and is lighter and more efficient
@@ -317,8 +325,8 @@ SynRM
 
 ### Servo Motors
 
-[Servomotor - Wikiwand](https://omni.wikiwand.com/en/Servomotor)
-[伺服馬達 - Wikiwand](https://omni.wikiwand.com/zh/伺服馬達)
+[Servomotor - Wikiwand](https://www.wikiwand.com/en/Servomotor)
+[伺服馬達 - Wikiwand](https://www.wikiwand.com/zh/伺服馬達)
 [How Servo Motors Work | Servo Motor Controllers](https://www.jameco.com/jameco/workshop/howitworks/how-servo-motors-work.html)
 [Technical animation: How a servo motor works - YouTube](https://www.youtube.com/watch?v=hg3TIFIxWCo&vl=en)
 [How RC Servos Works](http://pcbheaven.com/wikipages/How_RC_Servos_Works/)
@@ -332,19 +340,19 @@ Duty cycle: 5-10% (1-2ms)
 
 ### Stepper motor
 
-[Stepper motor - Wikiwand](https://omni.wikiwand.com/en/Stepper_motor)
-[步進馬達 - Wikiwand](https://omni.wikiwand.com/zh/步進馬達)
+[Stepper motor - Wikiwand](https://www.wikiwand.com/en/Stepper_motor)
+[步進馬達 - Wikiwand](https://www.wikiwand.com/zh/步進馬達)
 
 [What is a Stepper Motor? | All About Stepper Motors | Adafruit Learning System](https://learn.adafruit.com/all-about-stepper-motors?view=all)
 [3D Printer Stepper Motor: All You Need to Know | All3DP](https://m.all3dp.com/2/3d-printer-stepper-motor-what-to-consider-and-which-to-choose-2/)
 [Arduino Stepper Motor Driver](https://www.electroschematics.com/12353/arduino-stepper-motor-driver/)
 [How Stepper Motors Work - Electric motor - YouTube](https://www.youtube.com/watch?v=09Mpkjcr0bo)
-[Stepper Motor Basics - 6 Wires Unipolar / Bipolar Motor](https://www.instructables.com/id/Stepper-Motor-Basics-6-Wires-Unipolar-Bipolar-Moto/)
-[BYJ48 Stepper Motor: 4 Steps](https://www.instructables.com/id/BYJ48-Stepper-Motor/)
-[Stepper Motor Magic](https://www.instructables.com/id/Stepper-Motor-magic/)
-[Stepper Motor for UART: 5 Steps](https://www.instructables.com/id/Stepper-motor-for-UART/)
-[Controlling Stepper Motor With L293D: 5 Steps (with Pictures)](https://www.instructables.com/id/Controlling-Stepper-Motor-With-L293D/)
-[Control a Stepper Motor With the DRV8825 : 4 Steps (with Pictures)](https://www.instructables.com/id/Controll-a-Stepper-Motor-With-the-DRV8825/)
+[Stepper Motor Basics - 6 Wires Unipolar / Bipolar Motor](https://www.instructables.com/Stepper-Motor-Basics-6-Wires-Unipolar-Bipolar-Moto/)
+[BYJ48 Stepper Motor: 4 Steps](https://www.instructables.com/BYJ48-Stepper-Motor/)
+[Stepper Motor Magic](https://www.instructables.com/Stepper-Motor-magic/)
+[Stepper Motor for UART: 5 Steps](https://www.instructables.com/Stepper-motor-for-UART/)
+[Controlling Stepper Motor With L293D: 5 Steps (with Pictures)](https://www.instructables.com/Controlling-Stepper-Motor-With-L293D/)
+[Control a Stepper Motor With the DRV8825 : 4 Steps (with Pictures)](https://www.instructables.com/Controll-a-Stepper-Motor-With-the-DRV8825/)
 
 [Electronic Basics #24: Stepper Motors and how to use them - YouTube](https://www.youtube.com/watch?v=bkqoKWP4Oy4)
 [Stepper Motors with Arduino - Controlling Bipolar & Unipolar stepper motors - YouTube](https://www.youtube.com/watch?v=0qwrnUeSpYQ)
@@ -392,7 +400,7 @@ Proportional: counteract error proportionally
 Integral: counteract the steady state error
 Derivative: counteract the overshoot (slowing down the response)
 
-[PID controller - Wikiwand](https://omni.wikiwand.com/en/PID_controller)
+[PID controller - Wikiwand](https://www.wikiwand.com/en/PID_controller)
 [Controlling Self Driving Cars - YouTube](https://www.youtube.com/watch?v=4Y7zG48uHRo)
 [PIDs Simplified - YouTube](https://www.youtube.com/watch?v=6OH-wOsVVjg)
 [What is a PID Controller? | DigiKey - YouTube](https://www.youtube.com/watch?v=tFVAaUcOm4I)
@@ -404,7 +412,7 @@ Derivative: counteract the overshoot (slowing down the response)
 [Arduino Playground - PIDAutotuneLibrary](https://playground.arduino.cc/Code/PIDAutotuneLibrary/)
 [PID « Project Blog](http://brettbeauregard.com/blog/category/pid/)
 
-[Line Follower Robot - PID Control - Android Setup: 12 Steps (with Pictures)](https://www.instructables.com/id/Line-Follower-Robot-PID-Control-Android-Setup/#step8)
+[Line Follower Robot - PID Control - Android Setup: 12 Steps (with Pictures)](https://www.instructables.com/Line-Follower-Robot-PID-Control-Android-Setup/#step8)
 [PID Tutorials for Line Following - Let's Make Robots / Tutorials - RobotShop Community](https://www.robotshop.com/community/forum/t/pid-tutorials-for-line-following/13164)
 [Arduino PID Controller - From Scratch! - YouTube](https://www.youtube.com/watch?v=RZW1PsfgVEI)
 [PID Controller Implementation in Software - Phil's Lab #6 - YouTube](https://www.youtube.com/watch?v=zOByx3Izf5U)
@@ -437,13 +445,13 @@ Derivative: counteract the overshoot (slowing down the response)
 
 For state estimation
 
-[Kalman filter - Wikiwand](https://omni.wikiwand.com/en/Kalman_filter)
+[Kalman filter - Wikiwand](https://www.wikiwand.com/en/Kalman_filter)
 [Understanding Kalman Filters - YouTube](https://www.youtube.com/playlist?list=PLn8PRpmsu08pzi6EMiYnR-076Mh-q3tWr)
 
 ## Mecanum wheel/Omni wheel
 
-[Mecanum wheel - Wikiwand](https://omni.wikiwand.com/en/Meclanum_wheel)
-[Omni wheel - Wikiwand](https://omni.wikiwand.com/en/Omni_wheel)
+[Mecanum wheel - Wikiwand](https://www.wikiwand.com/en/Meclanum_wheel)
+[Omni wheel - Wikiwand](https://www.wikiwand.com/en/Omni_wheel)
 
 [麥克納姆輪全向移動原理 - IT 閱讀](https://www.itread01.com/content/1549544428.html)
 [机器人中的全向轮是什么 - 知乎](https://zhuanlan.zhihu.com/p/20892139)

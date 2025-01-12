@@ -2,7 +2,7 @@
 title: Perl
 description: ""
 created: 2015-01-07
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - comp/lang
   - perl

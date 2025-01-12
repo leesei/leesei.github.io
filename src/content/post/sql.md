@@ -2,7 +2,7 @@
 title: SQL
 description: On the Query Language
 created: 2017-06-02
-updated: 2024-10-03
+updated: 2025-01-09
 tags:
   - comp/lang
   - sql
@@ -11,11 +11,13 @@ tags:
 > mysql and mariadb are the most popular dialects
 > see [[cyber-security#SQL injection]] for security concerns
 
-[SQL - Wikiwand](https://omni.wikiwand.com/en/SQL)
+[SQL - Wikiwand](https://www.wikiwand.com/en/SQL)
 [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
+[How to Learn SQL the Lazy Way - KDnuggets](https://www.kdnuggets.com/how-to-learn-sql-the-lazy-way)
 
 [WWW SQL Designer](https://ondras.zarovi.cz/sql/demo/)
 [Database.Guide](https://database.guide/)
+[Free Courses That Are Actually Free: SQL Edition - KDnuggets](https://www.kdnuggets.com/free-courses-that-are-actually-free-sql-edition)
 
 [PlanetScale - YouTube](https://www.youtube.com/@PlanetScale) many SQL tricks
 [PlanetScale 🤝 YouTube — PlanetScale](https://planetscale.com/youtube) SQL course
@@ -130,6 +132,9 @@ inner join, outer join
 ## Clients/IDE
 
 [[sqlite#GUI Client]]
+
+[Online SQL Editor](https://www.programiz.com/sql/online-compiler/)
+[SQL OnLine IDE](https://sqliteonline.com/)
 
 [Alecaddd/sequeler: SQL Client built in Vala](https://github.com/Alecaddd/sequeler)
 

@@ -2,7 +2,7 @@
 title: Gundam
 description: ""
 created: 2020-11-04
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - anime
   - gundam
@@ -21,16 +21,22 @@ tags:
 
 [【不止模型】5 分鐘明白鋼彈前哨站沒有動畫的原因&萬代、創通與日昇的錯綜關係 - YouTube](https://www.youtube.com/watch?v=fj2tJv-O7HU)
 
+[anime hobby land - YouTube](https://www.youtube.com/@animehobbyland)
+[小Ken - YouTube](https://www.youtube.com/user/adsl2x/videos)
+[量產型男 - YouTube](https://www.youtube.com/@Mass-Production-Type-Man)
+[old p is price - YouTube](https://www.youtube.com/@LaoPJiuShiPROCE)
+[CM收藏夾 - YouTube](https://www.youtube.com/@cmexe)
+
 [GUNDAM's ICONIC Design Explained (History and Evolution of Mecha Design) - YouTube](https://www.youtube.com/watch?v=-5gz6imnITc)
 [All Main Gundam First Launch & Appearance (1979-2019) - YouTube](https://www.youtube.com/watch?v=5bU5sk81rG8)
-[Mecha Facts - YouTube](https://www.youtube.com/playlist?list=PLH7RuLqXOxdcpMQmSZSgg8S2YpyD_j3PD)
-第 61 期！吉翁用了都说好！《在提坦斯旗下》银雷
-[鋼彈前哨站 小 Ken - YouTube](https://www.youtube.com/user/adsl2x/videos)
-[【高达 TIME】 小小冰子 EX - YouTube](https://www.youtube.com/channel/UCYNCRnYr2stiwVw2TnTl4qA/search?query=%E3%80%90%E9%AB%98%E8%BE%BETIME%E3%80%91)
+[（完整）一次看完鋼彈主線完整版 THE ORIGIN 一年戰爭 庫克羅斯德安之島 08小隊 0080 0083 Z鋼彈 ZZ鋼彈 夏亞的逆襲 時間線重製版【JoJo TV瞄芝士】 - YouTube](https://www.youtube.com/watch?v=9ZBp4qeGwxs)
+
+[高達/鋼彈/GUNDAM/ガンダム-名機圖鑑 - YouTube](https://www.youtube.com/playlist?list=PLCgEruUGtrCGa8oMa8AP1YBMHlhdflyS9) Play MC
 [MS 开发历史 - YouTube](https://www.youtube.com/playlist?list=PLutfmPd-jr58_NuQDkUpGTSHDRkGWJdzm) 爱玩家
-[anime hobby land - YouTube](https://www.youtube.com/channel/UCxZF9ifFwsBrVv2hr085Qiw)
-[高達/鋼彈/GUNDAM/ガンダム-名機圖鑑 - YouTube](https://www.youtube.com/playlist?list=PLCgEruUGtrCGa8oMa8AP1YBMHlhdflyS9)
-[量產型男 - YouTube](https://www.youtube.com/@Mass-Production-Type-Man)
+[Mecha Facts - YouTube](https://www.youtube.com/playlist?list=PLH7RuLqXOxdcpMQmSZSgg8S2YpyD_j3PD) A Modeler In College
+[【SHINN聊鋼彈】 - YouTube](https://www.youtube.com/playlist?list=PLSJJe1V0GHK5CNOrj2ScDKg6OPXTevKCd)
+[【高达TIME】 - YouTube](https://www.youtube.com/@ex2325/search?query=%E3%80%90%E9%AB%98%E8%BE%BETIME%E3%80%91) 小小冰子EX
+[原作機設介紹 - YouTube](https://www.youtube.com/playlist?list=PLSjT4OEZ4q7D3-GAs5lJ20mu-BI0dO4Qv) CM Favorites
 
 [Zentinel - 高達講場](https://www.zentinelhk.com/blog/singblog)
 [高達講場 - YouTube](https://www.youtube.com/playlist?list=PLW60DZ3uw-7tZsUd8M5fy-lM1vQiOqhHd)
@@ -45,6 +51,11 @@ tags:
 [戰爭中最美麗的愛情，二十分鐘看完《機動戰士高達 08MS 小隊》，史上最寫實的高達作品 - YouTube](https://www.youtube.com/watch?v=gZGI4FCPYnU)
 [【高達·星塵作戰】一口氣看完高達 0083：星塵的回憶被銷毀的高達開發計劃，史上最諷刺的高達，聯邦與吉翁的比爛大賽，一口氣看完高達 0083：星塵的回憶 - YouTube](https://www.youtube.com/watch?v=tJYud0vuLUI)
 
+[Gundam Explained: The One Year War part 1 - YouTube](https://www.youtube.com/watch?v=_-vXSa-5bhA)
+[Gundam Explained: The One Year War part 2 - Journey to Jaburo - YouTube](https://www.youtube.com/watch?v=0amX5Yerolc)
+[Gundam Explained: The One Year War part 3 - Soldiers of Sorrow - YouTube](https://www.youtube.com/watch?v=B0Y5agO9U0Q)
+[Gundam Explained: The One Year War part 4 - Encounters in Space - YouTube](https://www.youtube.com/watch?v=jFuUSj0k3e4)
+
 [宇宙世紀的浩翰史詩：機動戰士鋼彈 UC！ | 玩具人 Toy People News](https://www.toy-people.com/?p=25529)
 [雜魚萬歲！機海無敵！男人要開量產機啊～鋼彈史上歷代「量產機」大盤點 | 玩具人 Toy People News](https://www.toy-people.com/?p=42280)
 [鋼彈兵器究極考究報告!!! 鋼彈超兵器大研究!(前篇) | 玩具人 Toy People News](https://www.toy-people.com/?p=29974)
@@ -55,6 +66,7 @@ tags:
 
 [【機動戰士鋼彈】機體賣出去，錢進的來，亞納海姆發大財！ 帶各位認識 UC 世界觀中的精神感應機體 - YouTube](https://www.youtube.com/watch?v=CmhLVwWP)
 [【SHINN 聊鋼彈】作弊機體大集合 鋼彈全系列七台神棍 嚴選介紹 V 鋼彈 UC SEED OO - YouTube](https://www.youtube.com/watch?v=xUj9bHGSs-0)
+[鋼彈與札古的差距有多大？為什麼扎古身上會有動力管？而鋼彈卻不需要這東西！ 【老p就是proce】#Gundam #seed - YouTube](https://www.youtube.com/watch?v=iaS_-H6I6iI)
 
 ## Wing Gundam
 
@@ -71,8 +83,14 @@ tags:
 
 [超機動生命體，武者頑馱無，見參～～（前篇） | 玩具人 Toy People News](https://www.toy-people.com/?p=27381)
 
-[SD 戰國傳 武者七人眾篇 - Wikiwand](https://omni.wikiwand.com/zh/SD%E6%88%B0%E5%9C%8B%E5%82%B3_%E6%AD%A6%E8%80%85%E4%B8%83%E4%BA%BA%E7%9C%BE%E7%AF%87)
+[SD 戰國傳 武者七人眾篇 - Wikiwand](https://www.wikiwand.com/zh/SD%E6%88%B0%E5%9C%8B%E5%82%B3_%E6%AD%A6%E8%80%85%E4%B8%83%E4%BA%BA%E7%9C%BE%E7%AF%87)
 
 ## Seed
 
-[old p is price - YouTube](https://www.youtube.com/@LaoPJiuShiPROCE)
+芙芙家的洗碗君
+[一口气看完，机动战士高达SEED！全50集！自由高达强势来袭 - YouTube](https://www.youtube.com/watch?v=tkOWe0WwF24)
+[一口气看完，机动战士高达SEED DESTINY！全50集！SEED续作 - YouTube](https://www.youtube.com/watch?v=uvo1A5vTu1A)
+
+[【SHINN聊鋼彈】鋼彈SEED FREEDOM電影版完全心得 DESTINY毀掉的人物全部逆轉 - YouTube](https://www.youtube.com/watch?v=Z5QI1PG-Gx0)
+
+[【合集】为什么高达SEED的机体这么多人喜欢？聊聊高达SEED机设的成功 - YouTube](https://www.youtube.com/watch?v=dbWvWd_2nDU)

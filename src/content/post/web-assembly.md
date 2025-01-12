@@ -2,7 +2,7 @@
 title: Web Assembly
 description: ""
 created: 2017-06-19
-updated: 2024-10-03
+updated: 2025-01-09
 tags:
   - wasm
   - web
@@ -11,7 +11,7 @@ tags:
 [[web-assembly-runtime]]
 
 [WebAssembly](http://webassembly.org/)
-[WebAssembly - Wikiwand](https://omni.wikiwand.com/en/WebAssembly)
+[WebAssembly - Wikiwand](https://www.wikiwand.com/en/WebAssembly)
 
 [Bytecode Alliance](https://bytecodealliance.org/)
 [WebAssembly 中文网|Wasm 中文文档](https://www.wasm.com.cn/)
@@ -394,7 +394,7 @@ cp target/wasm32-wasi/release/*wasm .
 > Blazor was known as Razor Components in preview builds of .NET Core
 > Blazor is used for building web services/web pages
 
-[Blazor - Wikiwand](https://omni.wikiwand.com/en/Blazor)
+[Blazor - Wikiwand](https://www.wikiwand.com/en/Blazor)
 [Blazor | Build client web apps with C# | .NET](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
 [dotnet/aspnetcore: ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.](https://github.com/dotnet/aspnetcore) Blazor now part of ASP.NET Core
 [ASP.NET Core Blazor | Microsoft Learn](https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-8.0)

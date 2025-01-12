@@ -2,7 +2,7 @@
 title: sed notes
 description: ""
 created: 2015-01-13
-updated: 2024-08-28
+updated: 2025-01-09
 tags:
   - app
   - sed

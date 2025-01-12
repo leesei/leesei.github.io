@@ -2,14 +2,14 @@
 title: 易經
 description: 易經/周易 I Ching/Yijing
 created: 2023-06-14
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - trivia
 ---
 
-[易经 - Wikiwand](https://omni.wikiwand.com/zh/%E6%98%93%E7%BB%8F)
-[八卦 - Wikiwand](https://omni.wikiwand.com/zh/%E5%85%AB%E5%8D%A6)
-[六十四卦 - Wikiwand](https://omni.wikiwand.com/zh/%E5%85%AD%E5%8D%81%E5%9B%9B%E5%8D%A6)
+[易经 - Wikiwand](https://www.wikiwand.com/zh/%E6%98%93%E7%BB%8F)
+[八卦 - Wikiwand](https://www.wikiwand.com/zh/%E5%85%AB%E5%8D%A6)
+[六十四卦 - Wikiwand](https://www.wikiwand.com/zh/%E5%85%AD%E5%8D%81%E5%9B%9B%E5%8D%A6)
 
 六爻可以分為上半部分和下半部分，每一部分稱為一個單卦。
 六爻由下而上解最下為：《初、二、三、四、五及上》，由三爻所生的卦「由上而下」為之「上卦」或「外卦」、在下方為之「下卦」或「內卦」。

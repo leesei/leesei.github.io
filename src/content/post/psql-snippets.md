@@ -2,7 +2,7 @@
 title: PostgreSQL Snippets
 description: ""
 created: 2021-05-24
-updated: 2024-06-19
+updated: 2025-01-09
 tags:
   - comp/lang
   - postgresql

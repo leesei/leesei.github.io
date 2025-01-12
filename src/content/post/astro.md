@@ -2,7 +2,7 @@
 title: Astro
 description: ""
 created: 2023-03-04
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - javascript
   - static-site
@@ -29,6 +29,13 @@ tags:
 [Astro's New Features Have Me Rethinking Everything - YouTube](https://www.youtube.com/watch?v=CYuujJvgmns) Astro 3.0, element transition animation
 [Does Astro make heavy JS frameworks obsolete? - YouTube](https://www.youtube.com/watch?v=4Ohi9G-RCcE) 2023-09, 1:31:01, Astro 3.0
 [The Astro Crash Course - YouTube](https://www.youtube.com/watch?v=rRxuVOutmFQ) 3.0, demo project with SolidJS
+
+[Astro 5.0 Beta Release | Astro](https://astro.build/blog/astro-5-beta/)
+[Astro 5.0 | Astro](https://astro.build/blog/astro-5/)
+[Content Layer: A Deep Dive | Astro](https://astro.build/blog/content-layer-deep-dive/)
+[Astro’s BIG new feature - YouTube](https://www.youtube.com/watch?v=NdIzsGGYuTk) Content Collection
+[Astro stole my favorite parts of Next (and I'm hyped) - YouTube](https://www.youtube.com/watch?v=3xqa0SsRbdM)
+[Repository search results](https://github.com/search?q=%22astro-loader%22&type=repositories&s=updated&o=desc&p=1)
 
 [Astro Crash Course in 20 Minutes! - YouTube](https://www.youtube.com/watch?v=zrPVTf761OI) 2022-12
 [Astro Crash Course - YouTube](https://www.youtube.com/watch?v=Oi9z5gfIHJs) 2022-08, 1:35:00

@@ -2,12 +2,13 @@
 title: Dragon Ball
 description: ""
 created: 2020-05-28
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - anime
 ---
 
 [Dragon Ball Wiki | Fandom](https://dragonball.fandom.com/wiki/Main_Page)
+[Dragon Universe Wiki | Fandom](https://dragonballuniverse.fandom.com/wiki/Dragon_Ball_Universe_Wiki)
 
 [Geekdom101 - YouTube](https://www.youtube.com/channel/UCgIqhB8oD5SZ0yUSp71VCOQ)
 [The Complete Dragon Ball Canon Timeline Explained - YouTube](https://www.youtube.com/watch?v=AZ_qfMCS_8s)
@@ -19,6 +20,9 @@ DBZ levelset?
 [Broly: The Legendary Super Saiyan - ANIMATION BREAKDOWN (Dragon Ball Z) - YouTube](https://www.youtube.com/watch?v=Z2WtnSUfqIA)
 
 [DBZ: Every Wish Granted By The Dragon Balls | Screen Rant](https://screenrant.com/dragon-balls-every-wish-granted/)
+
+[Dragon Ball Super Gallery | Dragon Universe Wiki | Fandom](https://dragonballuniverse.fandom.com/wiki/Dragon_Ball_Super_Gallery)
+[Dragon Ball Super Gallery | Dragon Ball Wiki | Fandom](https://dragonball.fandom.com/wiki/Dragon_Ball_Super_Gallery)
 
 ### Super Saiyan God Forms
 
@@ -32,7 +36,7 @@ DBZ levelset?
 ### Dragon Ball Z
 
 [Dragon Ball Z Kai | Dragon Ball Wiki | FANDOM powered by Wikia](https://dragonball.fandom.com/wiki/Dragon_Ball_Z_Kai)
-[List of Dragon Ball Z Kai episodes - Wikiwand](https://omni.wikiwand.com/en/List_of_Dragon_Ball_Z_Kai_episodes) this 2009-2011, 2014-2015 remaster is better than the 2019 Blueray remaster
+[List of Dragon Ball Z Kai episodes - Wikiwand](https://www.wikiwand.com/en/List_of_Dragon_Ball_Z_Kai_episodes) this 2009-2011, 2014-2015 remaster is better than the 2019 Blueray remaster
 [龍珠改系列 - YouTube](https://www.youtube.com/playlist?list=PLzs8RCxI9YdSaqXkafdAjpXLfzVPJx_dQ)
 
 ### Dragon Ball Super

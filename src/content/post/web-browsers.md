@@ -2,12 +2,16 @@
 title: Web Browser
 description: ""
 created: 2017-06-16
-updated: 2024-09-15
+updated: 2025-01-09
 tags:
   - javascript/runtime
   - web
   - web/browsers
 ---
+
+[What are the best private browsers in 2024?](https://privacytests.org/)
+[Choosing the Right Browser for Linux: Pros & Cons of Popular Options - YouTube](https://www.youtube.com/watch?v=x7VHVuhBpQo)
+[Linux Web Browser Feature Matrix - Google Sheets](https://docs.google.com/spreadsheets/d/1N2JLf8UbrLXAOQRXHhPl2B7GYqHQrYdR31EWk9WEfy8/edit)
 
 [Google Chrome](http://www.google.com/chrome/)
 [Google Chrome book](https://www.google.com/googlebooks/chrome/big_00.html)
@@ -39,20 +43,24 @@ tags:
 
 ### Manifest V3
 
-[Overview of Manifest V3 - Chrome Developers](https://developer.chrome.com/docs/extensions/mv3/intro/mv3-overview/)
+[Extensions / Manifest V3  |  Chrome for Developers](https://developer.chrome.com/docs/extensions/develop/migrate/what-is-mv3)
+[Migrate to Manifest V3  |  Chrome Extensions  |  Chrome for Developers](https://developer.chrome.com/docs/extensions/develop/migrate)
+
+[Manifest v3 in Firefox: Recap & Next Steps - Mozilla Add-ons Community Blog](https://blog.mozilla.org/addons/2022/05/18/manifest-v3-in-firefox-recap-next-steps/)
 
 - No access to the network layer
 - declarativeNetRequest (DNR) instead of webRequest API
 - Service workers instead of background page
 
+[Why Google Chrome is killing uBlock Origin - Explained - YouTube](https://www.youtube.com/watch?v=mqv74vBnVu0)
 [Google’s Manifest V3 Still Hurts Privacy, Security, and Innovation | Electronic Frontier Foundation](https://www.eff.org/deeplinks/2021/12/googles-manifest-v3-still-hurts-privacy-security-innovation)
 [Firefox and Chrome are squaring off over ad-blocker extensions - The Verge](https://www.theverge.com/2022/6/10/23131029/mozilla-ad-blocking-firefox-google-chrome-privacy-manifest-v3-web-request)
 [Manifest V3: The Ghostery perspective | Ghostery](https://www.ghostery.com/blog/manifest-v3-the-ghostery-perspective)
 
 ### Extension
 
-[What are extensions? - Google Chrome](https://developer.chrome.com/extensions)
-[API reference - Chrome Developers](https://developer.chrome.com/docs/extensions/reference/)
+[Chrome Extensions  |  Chrome for Developers](https://developer.chrome.com/docs/extensions/)
+[Extensions / Reference  |  Chrome for Developers](https://developer.chrome.com/docs/extensions/reference/)
 [GoogleChrome/chrome-extensions-samples: Chrome Extensions Samples](https://github.com/GoogleChrome/chrome-extensions-samples)
 
 [How to use React.js to create a Chrome extension in 5 minutes](https://levelup.gitconnected.com/how-to-use-react-js-to-create-chrome-extension-in-5-minutes-2ddb11899815)
@@ -72,7 +80,7 @@ tags:
 
 [Servo, the parallel browser engine](https://servo.org/)
 [servo/servo: The Servo Browser Engine](https://github.com/servo/servo)
-[Servo (layout engine) - Wikiwand](<https://omni.wikiwand.com/en/Servo_(layout_engine)>)
+[Servo (layout engine) - Wikiwand](<https://www.wikiwand.com/en/Servo_(layout_engine)>)
 
 [How to Backup and Restore Firefox Profile On Linux](https://www.fossmint.com/backup-and-restore-a-firefox-profile-on-linux/)
 Profile Manager: `firefox -p`

@@ -2,7 +2,7 @@
 title: Fonts
 description: ""
 created: 2016-04-23
-updated: 2024-09-29
+updated: 2025-01-09
 tags:
   - comp
   - comp/lang
@@ -17,18 +17,25 @@ tags:
 [20 Super Clean Fonts Perfect for Minimal Style Design | Freebies](http://webdesignledger.com/freebies/20-super-clean-fonts-perfect-for-minimal-style-design)
 [The 52 best free graffiti fonts | Creative Bloq](http://www.creativebloq.com/typography/free-graffiti-fonts-11121160)
 [The 10 Best Free Google Fonts for Professional Presentations](https://www.makeuseof.com/tag/free-google-fonts-presentations/)
-[Google Fonts 網路字型推出 5 款免費的中文網頁字體【飛肯設計學苑】教學](http://www.flycan.com/article/css/google-fonts-webfont-2474.html)
 [CCPLUS MEDIA | 中文字體設計美學](https://web.archive.org/web/20230923094822/https://www.ccplusmedia.com/%E4%B8%AD%E6%96%87%E5%AD%97%E9%AB%94%E8%A8%AD%E8%A8%88%E7%BE%8E%E5%AD%B8/)
+
+[Browse Fonts - Google Fonts](https://fonts.google.com/)
+[Frequently Asked Questions  |  Google Fonts  |  Google for Developers](https://developers.google.com/fonts/faq)
+[Ｇoogle Fonst 的中文字體推薦，含免費下載點整理與排版使用示範！- justfont blog](https://blog.justfont.com/2023/02/google-fonts-cjk/)
+[Google Fonts 網路字型推出 5 款免費的中文網頁字體【飛肯設計學苑】教學](http://www.flycan.com/article/css/google-fonts-webfont-2474.html)
+[Google提供的免費繁體中文字體 - Digishot Web Design Source](https://digishot.keenchief.com/tw/6942816879/page/blog/mode/show/cID/7/nNO/1683516468)
+[CSS font-family 字型 - Wibibi](https://www.wibibi.com/info.php?tid=67)
 
 [The Making (and Potential Benefits) of a CSS Font | CSS-Tricks](https://css-tricks.com/the-making-and-potential-benefits-of-a-css-font/)
 
 [Linus Boman - YouTube](https://www.youtube.com/linusboman) fonts and designs
+[I promise this story about fonts is interesting - YouTube](https://www.youtube.com/watch?v=WVfRxFwVHQc)
 
 ## Typesetting and Font History
 
 [[latex#PostScript]]
 
-[Phototypesetting - Wikiwand](https://omni.wikiwand.com/en/Phototypesetting)
+[Phototypesetting - Wikiwand](https://www.wikiwand.com/en/Phototypesetting)
 [The Great 202 Jailbreak - Computerphile - YouTube](https://www.youtube.com/watch?v=CVxeuwlvf8w) typesetting
 
 [The Font Magicians - Computerphile - YouTube](https://www.youtube.com/watch?v=jAdspOtgciQ) laser printer, font rasterization
@@ -77,19 +84,19 @@ baseline, descenders (`j`, `p`), line height, kerning
 
 [字里有千秋，細數中國千年來的“神級書法”「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=TQ3zPsu-PvQ)
 [iT 自救術 ─ 關於中文字體 | iThome](http://www.ithome.com.tw/node/53591)
-[CJK 字型列表 - Wikiwand](https://omni.wikiwand.com/zh/CJK%E5%AD%97%E4%BD%93%E5%88%97%E8%A1%A8)
-[明體 - Wikiwand](https://omni.wikiwand.com/zh/%E5%AE%8B%E4%BD%93) 中陸稱宋體; 為制作活版印刷, 應木的天然紋理, 從楷體左低右高的斜橫，演變成直橫; 同時將豎筆加粗; 「橫細豎粗撇如刀，點如瓜子捺如掃」, 橫末帶有「小三角」
-[仿宋體 - Wikiwand](https://omni.wikiwand.com/zh/%E4%BB%BF%E5%AE%8B%E9%AB%94)
-[黑體 (字體) - Wikiwand](<https://omni.wikiwand.com/zh/%E9%BB%91%E4%BD%93_(%E5%AD%97%E4%BD%93)>)
-[楷書 - Wikiwand](https://omni.wikiwand.com/zh/%E6%A5%B7%E4%B9%A6)
-[圓體 - Wikiwand](https://omni.wikiwand.com/zh/%E5%9C%93%E9%AB%94)
+[CJK 字型列表 - Wikiwand](https://www.wikiwand.com/zh/CJK%E5%AD%97%E4%BD%93%E5%88%97%E8%A1%A8)
+[明體 - Wikiwand](https://www.wikiwand.com/zh/%E5%AE%8B%E4%BD%93) 中陸稱宋體; 為制作活版印刷, 應木的天然紋理, 從楷體左低右高的斜橫，演變成直橫; 同時將豎筆加粗; 「橫細豎粗撇如刀，點如瓜子捺如掃」, 橫末帶有「小三角」
+[仿宋體 - Wikiwand](https://www.wikiwand.com/zh/%E4%BB%BF%E5%AE%8B%E9%AB%94)
+[黑體 (字體) - Wikiwand](<https://www.wikiwand.com/zh/%E9%BB%91%E4%BD%93_(%E5%AD%97%E4%BD%93)>)
+[楷書 - Wikiwand](https://www.wikiwand.com/zh/%E6%A5%B7%E4%B9%A6)
+[圓體 - Wikiwand](https://www.wikiwand.com/zh/%E5%9C%93%E9%AB%94)
 
-[鳥蟲書 - Wikiwand](https://omni.wikiwand.com/zh/%E9%B3%A5%E8%9F%B2%E6%9B%B8)
-[篆書 - Wikiwand](https://omni.wikiwand.com/zh-hk/%E7%AF%86%E4%B9%A6)
+[鳥蟲書 - Wikiwand](https://www.wikiwand.com/zh/%E9%B3%A5%E8%9F%B2%E6%9B%B8)
+[篆書 - Wikiwand](https://www.wikiwand.com/zh-hk/%E7%AF%86%E4%B9%A6)
 [篆体\_百度百科](https://baike.baidu.com/item/%E7%AF%86%E4%BD%93/8566500)
-[隸書 - Wikiwand](https://omni.wikiwand.com/zh-hk/%E9%9A%B8%E6%9B%B8)
+[隸書 - Wikiwand](https://www.wikiwand.com/zh-hk/%E9%9A%B8%E6%9B%B8)
 [隶书（汉字字体）\_百度百科](https://baike.baidu.com/item/%E9%9A%B6%E4%B9%A6/835864?fromModule=lemma_search-box)
-[隸變 - Wikiwand](https://omni.wikiwand.com/zh/%E9%9A%B8%E8%AE%8A)
+[隸變 - Wikiwand](https://www.wikiwand.com/zh/%E9%9A%B8%E8%AE%8A)
 金文, 大篆為周時期官方字體
 小篆, 隸書為秦時期官方字體
 隸書為魏晋時期官方字體
@@ -103,17 +110,25 @@ baseline, descenders (`j`, `p`), line height, kerning
 [汉字故事 | TypoChina Chinese](http://www.comdesignlab.com/typochina/chinese/archives/category/%e6%b1%89%e5%ad%97%e6%95%85%e4%ba%8b)
 [千字文語譯 ── 簡譯版](http://www.cantoneseculture.com/page_ThousandWords/thousandwords_simpletrans.aspx)
 
+[justfont｜新世代中文字型設計與字體教育團隊 - justfont](https://justfont.com/)
+[字體課在學什麼｜中文字的重心 - justfont blog](https://blog.justfont.com/2018/07/jf-typeclass-intro-1/)
+[字體課在學什麼｜筆型與工具 - justfont blog](https://blog.justfont.com/2018/07/jf-typeclass-intro-2/)
+[字體課在學什麼｜黑體造形重點 - justfont blog](https://blog.justfont.com/2018/08/jf-typeclass-intro-3/)
+[字體課在學什麼｜明體造形重點 - justfont blog](https://blog.justfont.com/2018/09/jf-typeclass-intro-4/)
+[東張西望地學字型 - justfont blog](https://blog.justfont.com/2013/12/leantypo-via-sinage/)
+[But 專欄｜明體？宋體？傻傻分不清楚 - justfont blog](https://blog.justfont.com/2013/09/mingti_or_songti_1/)
+
 [【霞鹜文楷 0.1 版已发布】 为 Klee 试制简化字（多图预警） — LXGW · 落霞与孤鹜齐飞，秋水共长天一色。](https://lxgw.github.io/2021/01/28/Klee-Simpchin/)
 [lxgw/LxgwWenKai: An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。](https://github.com/lxgw/LxgwWenKai)
 
-[漢字標準列表 - Wikiwand](https://omni.wikiwand.com/zh/%E6%BC%A2%E5%AD%97%E6%A8%99%E6%BA%96%E5%88%97%E8%A1%A8)
+[漢字標準列表 - Wikiwand](https://www.wikiwand.com/zh/%E6%BC%A2%E5%AD%97%E6%A8%99%E6%BA%96%E5%88%97%E8%A1%A8)
 中港台漢字字符有各自標準
 
-[新字形](https://omni.wikiwand.com/zh/%E6%96%B0%E5%AD%97%E5%BD%A2) 為按照[印刷通用漢字字形表](https://omni.wikiwand.com/zh/%E5%8D%B0%E5%88%B7%E9%80%9A%E7%94%A8%E6%B1%89%E5%AD%97%E5%AD%97%E5%BD%A2%E8%A1%A8)規範的字體
-[舊字形 - Wikiwand](https://omni.wikiwand.com/zh/%E8%88%8A%E5%AD%97%E5%BD%A2)
+[新字形](https://www.wikiwand.com/zh/%E6%96%B0%E5%AD%97%E5%BD%A2) 為按照[印刷通用漢字字形表](https://www.wikiwand.com/zh/%E5%8D%B0%E5%88%B7%E9%80%9A%E7%94%A8%E6%B1%89%E5%AD%97%E5%AD%97%E5%BD%A2%E8%A1%A8)規範的字體
+[舊字形 - Wikiwand](https://www.wikiwand.com/zh/%E8%88%8A%E5%AD%97%E5%BD%A2)
 
-[新字體 - Wikiwand](https://omni.wikiwand.com/zh/%E6%96%B0%E5%AD%97%E4%BD%93)
-[舊字體 - Wikiwand](https://omni.wikiwand.com/zh/%E8%88%8A%E5%AD%97%E9%AB%94)
+[新字體 - Wikiwand](https://www.wikiwand.com/zh/%E6%96%B0%E5%AD%97%E4%BD%93)
+[舊字體 - Wikiwand](https://www.wikiwand.com/zh/%E8%88%8A%E5%AD%97%E9%AB%94)
 
 [CSS 中英文排版大冒险 – 比特客栈的文艺复兴](https://bitinn.net/11207/)
 [網頁字體的一些事 – 要改的地方太多了，那就改天吧](https://blog.user.today/things-about-fonts/)
@@ -316,8 +331,8 @@ calligraphy into a font!
 
 ## Highway Font
 
-[Clearview (typeface) - Wikiwand](<https://omni.wikiwand.com/en/Clearview_(typeface)>)
-[Highway Gothic - Wikiwand](https://omni.wikiwand.com/en/Highway_Gothic)
+[Clearview (typeface) - Wikiwand](<https://www.wikiwand.com/en/Clearview_(typeface)>)
+[Highway Gothic - Wikiwand](https://www.wikiwand.com/en/Highway_Gothic)
 
 ## Font Install
 

@@ -2,7 +2,7 @@
 title: Corporate
 description: ""
 created: 2015-04-15
-updated: 2024-09-09
+updated: 2025-01-09
 tags:
   - business
   - corporate
@@ -13,6 +13,8 @@ tags:
 [Company Man - YouTube](https://www.youtube.com/channel/UCQMyhrt92_8XM0KgZH6VnRg)
 [Company Profiles - YouTube](https://www.youtube.com/playlist?list=PLKtxx9TnH76Qod2z94xcDNV95_ItzIM-S) Asianometry
 [History of Gadgets - YouTube](https://www.youtube.com/@history.of.gadgets) tech companies
+[Logically Answered - YouTube](https://www.youtube.com/@LogicallyAnswered)
+[MegaLag - YouTube](https://www.youtube.com/@MegaLag) exposé investigation
 
 [Office Snapshots - Discover Worldwide Office Design](https://officesnapshots.com/)
 
@@ -32,10 +34,6 @@ tags:
 [BAT Stocks](https://www.investopedia.com/terms/b/bat-stocks.asp) Baidu, Alibaba, Tencent
 BATH Baidu, Alibaba, Tencent, Huawei
 
-[Pluralistic: Tiktok’s enshittification (21 Jan 2023) – Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys) on Amazon, Facebook and Tiktok
-[Pluralistic: How monopoly enshittified Amazon/28 Nov 2022 – Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/2022/11/28/enshittification/#relentless-payola)
-"Here is how platforms die: first, they are good to their users; then they abuse their users to make things better for their business customers; finally, they abuse those business customers to claw back all the value for themselves. Then, they die."
-
 ## Funding
 
 [How Company X Make Money? - Adrian Mejia’s Blog](http://adrianmejia.com/blog/2014/03/09/how-company-x-make-money/)
@@ -52,13 +50,24 @@ When a service is free, you are the product/asset.
 [Find Out What Google and Facebook Know About You – Trust Issues – Medium](https://medium.com/s/trustissues/find-out-what-google-and-facebook-know-about-you-31d0fa6d7b61)
 [聊聊市场营销/广告的玩法 (原来你这么值钱!) - YouTube](https://www.youtube.com/watch?v=ERK34RQq9YU) targeted ads
 
-[Pluralistic: Tiktok’s enshittification (21 Jan 2023) – Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/2023/01/21/potemkin-ai/)
-[The Enshittification of TikTok–And Everything – The Cultural Gutter](https://culturalgutter.com/2023/01/25/the-enshitification-of-tiktok-and-everything/)
-[The Internet is starting to Break - Here's Why. - YouTube](https://www.youtube.com/watch?v=wVYG1mu8Lg8)
-
 [Who Owns Huawei? The Company Tried to Explain. It Got Complicated. - The New York Times](https://www.nytimes.com/2019/04/25/technology/who-owns-huawei.html)
 [Who Owns Huawei? by Christopher Balding, Donald C. Clarke :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3372669)
 [Huawei 5G LIES! - YouTube](https://www.youtube.com/watch?v=IfxfdHJ3k9Y&feature=youtu.be)
+
+### Enshittification
+
+[Enshittification - Wikiwand](https://www.wikiwand.com/en/articles/Enshittification)
+
+1. provide competitive (cheap and/or high quality) product to lock-in users
+2. make product worse to better serve (lock-in) business customers
+3. make product even worse for maximum profits
+
+[Pluralistic: Tiktok’s enshittification (21 Jan 2023) – Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys) on Amazon, Facebook and Tiktok
+[Pluralistic: How monopoly enshittified Amazon/28 Nov 2022 – Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/2022/11/28/enshittification/#relentless-payola)
+"Here is how platforms die: first, they are good to their users; then they abuse their users to make things better for their business customers; finally, they abuse those business customers to claw back all the value for themselves. Then, they die."
+
+[The Enshittification of TikTok–And Everything – The Cultural Gutter](https://culturalgutter.com/2023/01/25/the-enshitification-of-tiktok-and-everything/)
+[The Internet is starting to Break - Here's Why. - YouTube](https://www.youtube.com/watch?v=wVYG1mu8Lg8)
 
 ### Crowdfunding
 
@@ -77,8 +86,8 @@ When a service is free, you are the product/asset.
 
 ## Lenovo
 
-[Lenovo - Wikiwand](https://omni.wikiwand.com/en/Lenovo)
-[联想集团 - Wikiwand](https://omni.wikiwand.com/zh-sg/%E8%81%94%E6%83%B3%E9%9B%86%E5%9B%A2)
+[Lenovo - Wikiwand](https://www.wikiwand.com/en/Lenovo)
+[联想集团 - Wikiwand](https://www.wikiwand.com/zh-sg/%E8%81%94%E6%83%B3%E9%9B%86%E5%9B%A2)
 
 [Lenovo - The Last Practical Electronics Maker - YouTube](https://www.youtube.com/watch?v=Cxjs-JmnBHg)
 
@@ -162,9 +171,19 @@ Yahoo was sold to Verizon with a sum of \$4.83 billion in July 2016.
 [What Sank Yahoo? Blame Its Nice Guy Founders - Bloomberg](http://www.bloomberg.com/news/articles/2016-07-25/what-sank-yahoo-blame-its-nice-guy-founders)
 [Platform change, the Yahoo-slayer | TechCrunch](https://techcrunch.com/2016/07/25/jaime-mobilster/)
 
+## Downfall of Nokia
+
+[From Bankruptcy To Billions: The Rebirth Of Nokia - YouTube](https://www.youtube.com/watch?v=CQML68o_5l0)
+
 ## Downfall of IBM
 
 [The Decline of IBM - YouTube](https://www.youtube.com/watch?v=l4b1D1vWRnc)
+[How IBM Lost the PC to Compaq, Intel & Microsoft - YouTube](https://www.youtube.com/watch?v=gjaVKna_m3U)
+[IBM "invented" the PC. Then everyone stole it - YouTube](https://www.youtube.com/watch?v=PLzTVnQ3gqc)
+
+## Downfall of Intel
+
+[The Slow and Deserved - YouTube](https://www.youtube.com/watch?v=N_OrMs5IjWI)
 
 ## Downfall of GE
 
@@ -196,6 +215,18 @@ Yahoo was sold to Verizon with a sum of \$4.83 billion in July 2016.
 ## Demise of Springboard
 
 [Springboard: the secret history of the first real smartphone (Full Documentary) - YouTube](https://www.youtube.com/watch?v=b9_Vh9h3Ohw)
+
+## Honey Scam
+
+Honey extension using unethical methods to get your last click to poach the commission
+It also fails to offer the best discount to the consumers
+[Exposing the Honey Influencer Scam - YouTube](https://www.youtube.com/watch?v=vc4yL3YTwWk)
+
+## EnChroma Scam
+
+[EnChroma CEO Responds to my Exposé (Part 3) - YouTube](https://www.youtube.com/watch?v=oFqDsE2-aFo)
+[Exposing the Fake Science behind Color Blind Glasses (Part 2) - YouTube](https://www.youtube.com/watch?v=_QQtOv2PlOE)
+[EnChroma CEO Responds to my Exposé (Part 3) - YouTube](https://www.youtube.com/watch?v=oFqDsE2-aFo)
 
 ## Planned Obsolescence
 

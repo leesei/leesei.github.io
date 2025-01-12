@@ -2,7 +2,7 @@
 title: CPUs
 description: The history of CPU, companies, ISA and chip fabrication
 created: 2019-05-03
-updated: 2024-09-29
+updated: 2025-01-09
 tags:
   - comp/hardware
   - laptop
@@ -43,20 +43,22 @@ tags:
 ## History
 
 [Intel® Processor Numbers: Laptop, Desktop, and Mobile Device](http://www.intel.com/content/www/us/en/processors/processor-numbers.html)
-[List of Intel microprocessors - Wikiwand](https://omni.wikiwand.com/en/List_of_Intel_microprocessors)
+[List of Intel microprocessors - Wikiwand](https://www.wikiwand.com/en/List_of_Intel_microprocessors)
 
-[List of AMD microprocessors - Wikiwand](https://omni.wikiwand.com/en/List_of_AMD_microprocessors)
+[List of AMD microprocessors - Wikiwand](https://www.wikiwand.com/en/List_of_AMD_microprocessors)
 [The rise and fall of AMD | Series | Ars Technica](https://arstechnica.com/series/the-rise-and-fall-of-amd/amp/)
 [AMD History and Innovations (1969-2022) | Documentary - YouTube](https://www.youtube.com/watch?v=2DzTGCO-IkM)
 [Every AMD CPU Ever! - YouTube](https://www.youtube.com/watch?v=K8Lz3ANjlDs)
 
 Asianometry
 [Intel & AMD: The First 30 Years - YouTube](https://www.youtube.com/watch?v=kZ9ntfjytTI)
+[AMD: The Incredible Adventure Continues - YouTube](https://www.youtube.com/watch?v=TbWfywgY7sk)
 [AMD: How It All Began - YouTube](https://www.youtube.com/watch?v=mb53IYjZlNc)
 [How AMD Left GlobalFoundries for TSMC - YouTube](https://www.youtube.com/watch?v=oAlU6vQ1Pn8&t=8s)
 
 RetroBytes
-[The history of SPARC, its not just a Sun thing - YouTube](https://www.youtube.com/watch?v=m0GqCxMmyF4)
+[CPUs - YouTube](https://www.youtube.com/playlist?list=PLQdJM3NpqP6FiJxsP7gd9kFmcU7kZVoqs)
+[AMD vs Intel a Long History - YouTube](https://www.youtube.com/watch?v=2QEJC_ZPwWY)
 [The potted history of ARM - YouTube](https://www.youtube.com/watch?v=t59EtDxpYmM)
 
 [【科技杂谈 62】 从推土机到 ryzen，AMD 是怎么成功的？ - YouTube](https://www.youtube.com/watch?v=eaOhdoNqhIg)
@@ -76,8 +78,8 @@ RetroBytes
 > all modern RISC uses micro-ops decoder, Superscalar, Out-of-order execution
 > RISC and CISC are not that different anymore
 
-[Reduced instruction set computer - Wikiwand](https://omni.wikiwand.com/en/Reduced_instruction_set_computer)
-[Complex instruction set computer - Wikiwand](https://omni.wikiwand.com/en/Complex_instruction_set_computer)
+[Reduced instruction set computer - Wikiwand](https://www.wikiwand.com/en/Reduced_instruction_set_computer)
+[Complex instruction set computer - Wikiwand](https://www.wikiwand.com/en/Complex_instruction_set_computer)
 
 [RISC vs. CISC](https://cs.stanford.edu/people/eroberts/courses/soco/projects/risc/risccisc/)
 [RISC Vs CISC](https://www.electronicshub.org/risc-and-cisc-architectures/)
@@ -91,8 +93,11 @@ RetroBytes
 
 ### x86
 
+"Microarchitecture levels" (not approved by Linus)
 [GCC 11's x86-64 Microarchitecture Feature Levels Are Ready To Roll - Phoronix](https://www.phoronix.com/news/GCC-11-x86-64-Feature-Levels)
 [What is x86-64-v3? Understanding the x86-64 microarchitecture levels - YouTube](https://www.youtube.com/watch?v=TnCkYthXUAc)
+[CPU Micro Architecture Levels Are Not Real - YouTube](https://www.youtube.com/watch?v=ALxWmz_HiSU)
+But v4 (AVX512) support is messy, newer Intel CPU don't support, E-Core don't support
 
 [硬科技：豆知識 64位元的x86和IA-64(Itanium)到底有什麼不一樣？ #intel (178286) - Cool3c](https://www.cool3c.com/article/178286)
 [硬科技：「簡報王」和他們的產地 20年前64位元x86指令集誕生的時刻 #AMD (170703) - Cool3c](https://www.cool3c.com/article/170703)
@@ -104,10 +109,12 @@ RetroBytes
 
 [Arm processors: Everything you need to know | ZDNet](https://www.zdnet.com/google-amp/article/introducing-the-arm-processor-again-what-you-should-know-about-it-now/)
 [ARM Assembly - YouTube](https://www.youtube.com/playlist?list=PLc7W4b0WHTAXkCy3RUAO0Eqx52ALTLUdq)
+[The Magic Of ARM w/ Casey Muratori - YouTube](https://www.youtube.com/watch?v=Zr09I5OlOjs)
 
 LowSpecGamer
 [How Amateurs created the world´s most popular Processor - YouTube](https://www.youtube.com/watch?v=nIwdhPOVOUk)
 [ARM's Secret Weapon - YouTube](https://www.youtube.com/watch?v=vx1-6yRAGk0)
+[How a Tech War created ARM (Remastered) - YouTube](https://www.youtube.com/watch?v=Nw_udS5b9jI)
 
 [Arm Cortex-X1 and Cortex-A78 CPUs: Big cores with big differences](https://www.androidauthority.com/arm-cortex-x1-cortex-a78-1119666/)
 [骁龙 888 性能分析：翻车！ - YouTube](https://www.youtube.com/watch?v=O7Bj7ONuqgM) X1 as big core, but less cache
@@ -129,6 +136,7 @@ LowSpecGamer
 [Microsoft SQ1 vs Qualcomm Snapdragon 8cx](https://www.notebookcheck.net/SQ1-vs-8cx_11516_11394.247596.0.html)
 
 [The Story of Snapdragon X Elite - YouTube](https://www.youtube.com/watch?v=PGjdN_qfqgg)
+[高通X Elite深度分析：年度最自信CPU - YouTube](https://www.youtube.com/watch?v=Vq5g9a_CsRo) 滿用X Elite
 
 #### Apple
 
@@ -145,7 +153,7 @@ LowSpecGamer
 
 #### Arm Ampere
 
-[Ampere Computing - Wikiwand](https://omni.wikiwand.com/en/Ampere_Computing)
+[Ampere Computing - Wikiwand](https://www.wikiwand.com/en/Ampere_Computing)
 [This is the fastest Arm desktop PC on the planet - YouTube](https://www.youtube.com/watch?v=wl5H5rT87JE)
 
 ### RISC-V
@@ -196,10 +204,10 @@ Atom Z series < 2.5W, fanless
 
 Pentium Silver Quad Core (N5000) configs are \$3600, they have more or less the same power as i3 6006U and have lower TDP
 
-[List of Intel Atom microprocessors - Wikiwand](https://omni.wikiwand.com/en/List_of_Intel_Atom_microprocessors#/Tablet_processors/SoCs) Z series < 2.5W
-[List of Intel Celeron microprocessors - Wikiwand](https://omni.wikiwand.com/en/List_of_Intel_Celeron_microprocessors#/Mobile_Processors) Mobile
-[List of Intel Core M microprocessors - Wikiwand](https://omni.wikiwand.com/en/List_of_Intel_Core_M_microprocessors)
-[List of Intel Core i3 microprocessors - Wikiwand](https://omni.wikiwand.com/en/List_of_Intel_Core_i3_microprocessors#/Mobile_processors) Mobile
+[List of Intel Atom microprocessors - Wikiwand](https://www.wikiwand.com/en/List_of_Intel_Atom_microprocessors#/Tablet_processors/SoCs) Z series < 2.5W
+[List of Intel Celeron microprocessors - Wikiwand](https://www.wikiwand.com/en/List_of_Intel_Celeron_microprocessors#/Mobile_Processors) Mobile
+[List of Intel Core M microprocessors - Wikiwand](https://www.wikiwand.com/en/List_of_Intel_Core_M_microprocessors)
+[List of Intel Core i3 microprocessors - Wikiwand](https://www.wikiwand.com/en/List_of_Intel_Core_i3_microprocessors#/Mobile_processors) Mobile
 
 ### Mobile APU
 
@@ -393,10 +401,26 @@ P: efficient
 
 ### Intel
 
+Lunar Lake:
+
+- embeds PMIC (not using VMR)
+- RAM on SoC
+- Xe2 GPU
+- no hyperthreading
+
+Ultra 7 258V more performant GPU (Xe2) than AI9 HX370, but CPU is less performant and less efficient
+Core Ultra 200V series is extremely power efficient, comparable to Apple's M3, but its performance is a regression form Core Ultra 100
+
 [全网最深度分析：Lunar Lake能否帮英特尔逆天改命？ - YouTube](https://www.youtube.com/watch?v=ucUfRV3pBq8)
 [英特尔要改善能效了？Lunar Lake变化很大！ - YouTube](https://www.youtube.com/watch?v=b3FTtvPcc2s)
 
 ### AMD
+
+[AMD Ryzen U vs H vs HS vs HX Laptop CPUs: What's the Difference?](https://www.makeuseof.com/amd-ryzen-u-h-hs-hx-laptop-chips-what-the-difference/)
+
+- The Ryzen Z2G will be based on the older Rembrandt architecture, utilizing Zen 3+ CPU cores and RDNA2 GPU.
+- The Ryzen Z2 is rumored to feature Phoenix/Hawk Point architecture with Zen 4 CPU cores and RDNA3 GPU.
+- The Ryzen Z2 Extreme, the latest option, will reportedly leverage Strix Point with Zen 5 CPU cores and RDNA3.5 GPU.
 
 [Not the best value, but still a better value than the flagship - AMD Ryzen 5 8600G review — the new value iGPU gaming champion - Page 6 | Tom's Hardware](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-8600g-cpu-review/)
 [AMD's Laptop CPU Naming Scheme Is Ultra Confusing, But This Is What It Means](https://www.makeuseof.com/amd-laptop-cpu-naming-scheme-explained/)
@@ -405,9 +429,12 @@ P: efficient
 - 8600G is 30-40% faster than 5600G
 - Core i3-13100 and GTX 1650 is still faster
 
+[ZEN 5 has a 3D V-Cache Secret - YouTube](https://www.youtube.com/watch?v=bPLKa4crk8A)
+[AMD Zen 5深度评测：HX370能效超强！但大小核靠谱吗？ - YouTube](https://www.youtube.com/watch?v=Th0LONlA9a8) laptop CPU
+
 ## TDP
 
-[Thermal design power - Wikiwand](https://omni.wikiwand.com/en/Thermal_design_power)
+[Thermal design power - Wikiwand](https://www.wikiwand.com/en/Thermal_design_power)
 [Why Intel Processors Draw More Power Than Expected: TDP and Turbo Explained - Print View](https://www.anandtech.com/print/13544/why-intel-processors-draw-more-power-than-expected-tdp-turbo)
 
 C-States: Idle States

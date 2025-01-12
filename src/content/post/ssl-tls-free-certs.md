@@ -2,7 +2,7 @@
 title: Free SSL/TLS Certificates
 description: ""
 created: 2023-05-16
-updated: 2024-06-06
+updated: 2025-01-09
 tags:
   - security
   - ssl

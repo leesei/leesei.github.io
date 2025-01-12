@@ -2,16 +2,16 @@
 title: 關於我轉生變成史萊姆這檔事
 description: ""
 created: 2019-03-30
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - anime
 ---
 
 [從默默無聞 到歷史第三【關於我轉生變成史萊姆這檔事】發跡歷程 八卦細節【不只是聊動漫 No.101】 - YouTube](https://www.youtube.com/watch?v=IuI_Y7NTwAI)
 
-[關於我轉生變成史萊姆這檔事 - Wikiwand](https://omni.wikiwand.com/zh/%E9%97%9C%E6%96%BC%E6%88%91%E8%BD%89%E7%94%9F%E8%AE%8A%E6%88%90%E5%8F%B2%E8%90%8A%E5%A7%86%E9%80%99%E6%AA%94%E4%BA%8B)
-[關於我轉生變成史萊姆這檔事 (動畫) - Wikiwand](<https://omni.wikiwand.com/zh-hk/%E9%97%9C%E6%96%BC%E6%88%91%E8%BD%89%E7%94%9F%E8%AE%8A%E6%88%90%E5%8F%B2%E8%90%8A%E5%A7%86%E9%80%99%E6%AA%94%E4%BA%8B_(%E5%8B%95%E7%95%AB)>)
-[關於我轉生變成史萊姆這檔事角色列表 - Wikiwand](https://omni.wikiwand.com/zh/%E9%97%9C%E6%96%BC%E6%88%91%E8%BD%89%E7%94%9F%E8%AE%8A%E6%88%90%E5%8F%B2%E8%90%8A%E5%A7%86%E9%80%99%E6%AA%94%E4%BA%8B%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8)
+[關於我轉生變成史萊姆這檔事 - Wikiwand](https://www.wikiwand.com/zh/%E9%97%9C%E6%96%BC%E6%88%91%E8%BD%89%E7%94%9F%E8%AE%8A%E6%88%90%E5%8F%B2%E8%90%8A%E5%A7%86%E9%80%99%E6%AA%94%E4%BA%8B)
+[關於我轉生變成史萊姆這檔事 (動畫) - Wikiwand](<https://www.wikiwand.com/zh-hk/%E9%97%9C%E6%96%BC%E6%88%91%E8%BD%89%E7%94%9F%E8%AE%8A%E6%88%90%E5%8F%B2%E8%90%8A%E5%A7%86%E9%80%99%E6%AA%94%E4%BA%8B_(%E5%8B%95%E7%95%AB)>)
+[關於我轉生變成史萊姆這檔事角色列表 - Wikiwand](https://www.wikiwand.com/zh/%E9%97%9C%E6%96%BC%E6%88%91%E8%BD%89%E7%94%9F%E8%AE%8A%E6%88%90%E5%8F%B2%E8%90%8A%E5%A7%86%E9%80%99%E6%AA%94%E4%BA%8B%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8)
 [關於我轉生後成為史萊姆的那件事 - 萌娘百科 萬物皆可萌的百科全書](https://zh.moegirl.org/zh-hant/%E5%85%B3%E4%BA%8E%E6%88%91%E8%BD%AC%E7%94%9F%E5%90%8E%E6%88%90%E4%B8%BA%E5%8F%B2%E8%8E%B1%E5%A7%86%E7%9A%84%E9%82%A3%E4%BB%B6%E4%BA%8B)
 [TV アニメ「転生したらスライムだった件」公式サイト](http://www.ten-sura.com/)
 

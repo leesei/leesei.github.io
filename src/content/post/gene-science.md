@@ -2,7 +2,7 @@
 title: Gene Science
 description: ""
 created: 2017-12-05
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - biology
 ---
@@ -21,10 +21,17 @@ Epigenetic link: the environment the organism lives affect the expression of it'
 [amino acids and proteins menu](https://www.chemguide.co.uk/organicprops/aminoacidmenu.html)
 [From DNA to RNA to protein, how does it work?](https://science-explained.com/theory/dna-rna-and-protein/)
 
+## Polymerase Chain Reaction/PCR
+
+> DNA photocopier
+
+[Polymerase chain reaction - Wikiwand](https://www.wikiwand.com/en/articles/Polymerase_chain_reaction)
+[The Man Who Took LSD and Changed The World - YouTube](https://www.youtube.com/watch?v=zaXKQ70q4KQ)
+
 ## Gene Editing/Genetic engineering
 
-[CRISPR - Wikiwand](https://omni.wikiwand.com/en/CRISPR)
-[Indel - Wikiwand](https://omni.wikiwand.com/en/Indel)
+[CRISPR - Wikiwand](https://www.wikiwand.com/en/CRISPR)
+[Indel - Wikiwand](https://www.wikiwand.com/en/Indel)
 
 [【2020 諾貝爾化學獎】基因剪刀 CRISPR：它如何改寫人類的生命密碼？ - PanSci 泛科學](https://pansci.asia/archives/335248)
 [Genetic Engineering and Diseases – Gene Drive & Malaria - YouTube](https://www.youtube.com/watch?v=TnzcwTyr6cE)
@@ -70,11 +77,11 @@ Epigenetic link: the environment the organism lives affect the expression of it'
 
 Sex is the body, gender is the mind
 [Sex and gender](https://www.coe.int/en/web/gender-matters/sex-and-gender)
-[Sex and gender distinction - Wikiwand](https://omni.wikiwand.com/en/Sex_and_gender_distinction)
+[Sex and gender distinction - Wikiwand](https://www.wikiwand.com/en/Sex_and_gender_distinction)
 
-[DMRT1 - Wikiwand](https://omni.wikiwand.com/en/DMRT1) if DMRT1 is lost, sperm turns into eggs
+[DMRT1 - Wikiwand](https://www.wikiwand.com/en/DMRT1) if DMRT1 is lost, sperm turns into eggs
 [DMRT1 gene - Genetics Home Reference - NIH](https://ghr.nlm.nih.gov/gene/DMRT1)
-[Testis-determining factor - Wikiwand](https://omni.wikiwand.com/en/Testis-determining_factor) Sry gene
+[Testis-determining factor - Wikiwand](https://www.wikiwand.com/en/Testis-determining_factor) Sry gene
 [SRY gene - Genetics Home Reference - NIH](https://ghr.nlm.nih.gov/gene/SRY)
 
 [Sex determination and maintenance: the role of DMRT1 and FOXL2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5676419/)

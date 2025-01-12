@@ -2,23 +2,23 @@
 title: Batteries
 description: ""
 created: 2016-07-31
-updated: 2024-09-19
+updated: 2025-01-09
 tags:
   - trivia
 ---
 
-[Battery (electricity) - Wikiwand](<https://omni.wikiwand.com/en/Battery_(electricity)>)
-[Leclanché cell - Wikiwand](https://omni.wikiwand.com/en/Leclanché_cell)
+[Battery (electricity) - Wikiwand](<https://www.wikiwand.com/en/Battery_(electricity)>)
+[Leclanché cell - Wikiwand](https://www.wikiwand.com/en/Leclanché_cell)
 
 [Overview | All About Batteries | Adafruit Learning System](https://learn.adafruit.com/all-about-batteries?view=all)
 [Battery Technology » Electronics Notes](https://www.electronics-notes.com/articles/electronic_components/battery-technology/primer-basics.php)
 
-[Battery nomenclature - Wikiwand](https://omni.wikiwand.com/en/Battery_nomenclature)
-[List of battery types - Wikiwand](https://omni.wikiwand.com/en/List_of_battery_types)
-[List of battery sizes - Wikiwand](https://omni.wikiwand.com/en/List_of_battery_sizes)
+[Battery nomenclature - Wikiwand](https://www.wikiwand.com/en/Battery_nomenclature)
+[List of battery types - Wikiwand](https://www.wikiwand.com/en/List_of_battery_types)
+[List of battery sizes - Wikiwand](https://www.wikiwand.com/en/List_of_battery_sizes)
 [電池上面的編號到底要怎麼看? 代表著什麼意思? | 一探啾竟 第 60 集 | 啾啾鞋 - YouTube](https://www.youtube.com/watch?v=dTaDqdR7xk4)
 
-[Baghdad Battery - Wikiwand](https://omni.wikiwand.com/en/Baghdad_Battery)
+[Baghdad Battery - Wikiwand](https://www.wikiwand.com/en/Baghdad_Battery)
 [Recreating a 2000-Year Old Battery? - YouTube](https://www.youtube.com/watch?v=KWKa_tuTx_w)
 
 [How Batteries Work - Battery electricity working principle - YouTube](https://www.youtube.com/watch?v=PXNKkcB0pI4)
@@ -57,8 +57,8 @@ GaN charger allows chargers to be miniaturized once more
 
 # Disposables
 
-[Alkaline battery - Wikiwand](https://omni.wikiwand.com/en/Alkaline_battery)
-[Zinc–carbon battery - Wikiwand](https://omni.wikiwand.com/en/Zinc–carbon_battery) "Heavy Duty", "General Purpose"
+[Alkaline battery - Wikiwand](https://www.wikiwand.com/en/Alkaline_battery)
+[Zinc–carbon battery - Wikiwand](https://www.wikiwand.com/en/Zinc–carbon_battery) "Heavy Duty", "General Purpose"
 
 [How Batteries Work - Battery electricity working principle - YouTube](https://www.youtube.com/watch?v=PXNKkcB0pI4)
 [Choices of Primary Batteries - Battery University](http://batteryuniversity.com/learn/article/choices_of_primary_batteries)
@@ -172,10 +172,14 @@ But it create more dendrites, which can cause short circuit.
 > solid electrolytes stops dendrites formation, allows using of lithium anode
 
 [固態電池真要來了？美電池科技公司股票一夜暴漲43%，印度豐田子公司高層再次宣布固態電池未來幾年之內量產 （我們一起聊科學：20240113第33期） - YouTube](https://www.youtube.com/watch?v=cYsJCwhDJiM)
+[大厂纷纷放「狠话」：2027年量产装车？全固态电池怎么突然就行了？ - YouTube](https://www.youtube.com/watch?v=6GL5z1WLRoI)
 
-## Graphite Cathode
+[大众投资了12年的固态电池终于量产了！全球首款无负极设计？ - YouTube](https://www.youtube.com/watch?v=PW1l6pYXlhQ) anode-less, using lithium deposit during charging as anode
+
+## Silicon Cathode + Graphite Anode
 
 [手机电池集体“注水”，背后究竟发生了什么？【柴知道】 - YouTube](https://www.youtube.com/watch?v=ptWkBXOMorA)
+[Why The US Military Chose Silicon-Graphene Batteries - YouTube](https://www.youtube.com/watch?v=l60hjFvj64s)
 
 LiC6: capturing 1/6 Lithium ions with 1 Carbon atom
 Li22Si5: capturing 4.4 Lithium ions with 1 Silicon atom
@@ -246,12 +250,14 @@ QC2 and QC3 uses the data lines (D+/D-) for the INOV (Intelligent Negotiation fo
 
 [Every Fast Charging Standard Explained - YouTube](https://www.youtube.com/watch?v=hScecDuwXLg)
 [How fast charging really works — everything you need to know](https://www.androidauthority.com/fast-charging-explained-889780/)
+[How does mobile phone fast charging work? - YouTube](https://www.youtube.com/watch?v=1nx_n-wEtII)
+[Does Fast Charging ACTUALLY Ruin Your Battery? - YouTube](https://www.youtube.com/watch?v=UpqaQR4ikig)
 
 ## Qualcomm Quick Charge
 
 Spec for charging at > 5V.
 
-[Quick Charge - Wikiwand](https://omni.wikiwand.com/en/Quick_Charge)
+[Quick Charge - Wikiwand](https://www.wikiwand.com/en/Quick_Charge)
 [Fast Charging Technology | Quick Charge 4, 3.0 and 2.0 Devices | Qualcomm](https://www.qualcomm.com/solutions/mobile-computing/features/quick-charge)
 [Qualcomm Quick Charge FAQs | Qualcomm](https://www.qualcomm.com/solutions/mobile-computing/features/quick-charge/faq))
 [#244 QC3.0 Hacking and Tutorial incl. QC2.0 (Mobile Power Supply) Quick charge with Arduino - YouTube](https://www.youtube.com/watch?v=dw3MehLAyWU)
@@ -294,7 +300,7 @@ Quick Charge 4+ supports USB Power Delivery (USB PD).
 USB Type C spec mandates charging current of 3A. Only Type C-Type C cable support PD. Type A-Type C cable current only goes up to 2A.
 USB PD compatible device has a maximum charging power of 100W (20V, 5A).
 
-[USB (Physical) - Wikiwand](<https://omni.wikiwand.com/en/USB_(Physical)#/POWER>)
+[USB (Physical) - Wikiwand](<https://www.wikiwand.com/en/USB_(Physical)#/POWER>)
 [USB.org - USB Power Delivery](http://www.usb.org/developers/powerdelivery/)
 [USB Type-C and Power Delivery | Getting Started | USB | TI.com](http://www.ti.com/interface/usb/type-c-and-power-delivery/getting-started.html)
 [A primer on USB Type-C and power delivery applications and requirements](http://www.ti.com/lit/wp/slyy109/slyy109.pdf)
@@ -343,7 +349,7 @@ VOOC: 5V/5A
 Dash Charge: 5V/4A
 The wall charger is responsible to amp up the current, the battery cells are split into two and charges concurrently.
 
-[VOOC - Wikiwand](https://omni.wikiwand.com/en/VOOC)
+[VOOC - Wikiwand](https://www.wikiwand.com/en/VOOC)
 [VOOC fast charging - everything you need to know](https://www.androidauthority.com/vooc-fast-charging-686000/)
 [VOOC fast charging - everything you need to know - YouTube](https://www.youtube.com/watch?v=qkYw25s4pN8)
 
@@ -539,7 +545,7 @@ Out:
 
 # Air Battery
 
-[Lithium–air battery - Wikiwand](https://omni.wikiwand.com/en/Lithium%E2%80%93air_battery)
-[鋰空氣電池 - Wikiwand](https://omni.wikiwand.com/zh-hk/%E9%8B%B0%E7%A9%BA%E6%B0%A3%E9%9B%BB%E6%B1%A0)
+[Lithium–air battery - Wikiwand](https://www.wikiwand.com/en/Lithium%E2%80%93air_battery)
+[鋰空氣電池 - Wikiwand](https://www.wikiwand.com/zh-hk/%E9%8B%B0%E7%A9%BA%E6%B0%A3%E9%9B%BB%E6%B1%A0)
 
 [使用金屬來發電，鋁空氣電池是如何工作的？ - YouTube](https://www.youtube.com/watch?v=ENxA4bZg2fY)

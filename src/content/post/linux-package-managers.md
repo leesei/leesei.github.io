@@ -2,7 +2,7 @@
 title: Linux Package Managers
 description: ""
 created: 2017-05-10
-updated: 2024-09-23
+updated: 2025-01-09
 tags:
   - desktop
   - linux
@@ -11,7 +11,7 @@ tags:
 
 Cross platform Linux package manager
 
-[List of software package management systems - Wikiwand](https://omni.wikiwand.com/en/List_of_software_package_management_systems)
+[List of software package management systems - Wikiwand](https://www.wikiwand.com/en/List_of_software_package_management_systems)
 [So you want to write a package manager | by sam boyer | Medium](https://medium.com/@sdboyer/so-you-want-to-write-a-package-manager-4ae9c17d9527)
 
 [asdf - An extendable version manager](https://asdf-vm.com/#/)
@@ -49,8 +49,8 @@ apt (Debian)
 yum (RHEL, Fedora <22, CentOS)
 dnf (Fedora 22+)
 
-[Category:Linux package management-related software - Wikiwand](https://omni.wikiwand.com/en/Category:Linux_package_management-related_software)
-[Category:Free package management systems - Wikiwand](https://omni.wikiwand.com/en/Category:Free_package_management_systems)
+[Category:Linux package management-related software - Wikiwand](https://www.wikiwand.com/en/Category:Linux_package_management-related_software)
+[Category:Free package management systems - Wikiwand](https://www.wikiwand.com/en/Category:Free_package_management_systems)
 
 ## Snap
 

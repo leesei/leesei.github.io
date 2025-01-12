@@ -2,7 +2,7 @@
 title: Total.js
 description: ""
 created: 2016-09-17
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - backend
   - javascript

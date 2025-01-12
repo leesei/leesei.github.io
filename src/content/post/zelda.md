@@ -2,13 +2,13 @@
 title: The Legend of Zelda
 description: ""
 created: 2023-06-06
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - games
   - zelda
 ---
 
-[The Legend of Zelda - Wikiwand](https://omni.wikiwand.com/en/The_Legend_of_Zelda)
+[The Legend of Zelda - Wikiwand](https://www.wikiwand.com/en/The_Legend_of_Zelda)
 [ゼルダの伝説ポータル | Nintendo](https://www.nintendo.co.jp/character/zelda/index.html)
 [Zelda Wiki](https://zelda.gamepedia.com/Main_Page)
 
@@ -36,6 +36,7 @@ tags:
 [Zeltik - YouTube](https://www.youtube.com/@Zeltik/)
 [Monster Maze - YouTube](https://www.youtube.com/@MonsterMaze/)
 [Gossip Geist - YouTube](https://www.youtube.com/@GossipGeist)
+[The Hyrule Journals - YouTube](https://www.youtube.com/@TheHyruleJournals)
 [Lorulean Historian](https://loruleanhistorian.tumblr.com/)
 
 [The INSANE History of the Zelda Timeline - YouTube](https://www.youtube.com/watch?v=NbQNtYNkmhM)

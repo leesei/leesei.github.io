@@ -2,7 +2,7 @@
 title: PopcornTime
 description: ""
 created: 2015-10-25
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - web
 ---

@@ -2,13 +2,13 @@
 title: Data Visualization
 description: ""
 created: 2016-04-08
-updated: 2024-09-08
+updated: 2025-01-09
 tags:
   - big-data
   - visualization
 ---
 
-[Graph drawing - Wikiwand](http://omni.wikiwand.com/en/Graph_drawing)
+[Graph drawing - Wikiwand](http://www.wikiwand.com/en/Graph_drawing)
 [The Key Differences Between Charts and Graphs Explained](https://www.worldoweb.co.uk/2019/key-differences-between-charts-and-graphs)
 [Effective Data Visualisation - with Valentina D'Efilippo - YouTube](https://www.youtube.com/watch?v=MIZXqC1-VLc)
 [Foundations of Data Visualisation - Computerphile - YouTube](https://www.youtube.com/watch?v=qQ9Wu1IxsYw)
@@ -152,6 +152,7 @@ Server-client architecture, with Python, JS, Scala, R clients
 [Python | Basic Gantt chart using Matplotlib - GeeksforGeeks](https://www.geeksforgeeks.org/python-basic-gantt-chart-using-matplotlib/)
 [A Simple Guide to Beautiful Visualizations in Python | by Frank Andrade | Apr, 2021 | Towards Data Science](https://towardsdatascience.com/a-simple-guide-to-beautiful-visualizations-in-python-f564e6b9d392)
 [Level Up with Python: Quickly Produce PDFs with Stunning Visuals | by Kate Wall | Feb, 2022 | Towards Data Science](https://towardsdatascience.com/level-up-with-python-quickly-produce-pdfs-with-stunning-visuals-d6750c9c7be2)
+[Visualizing Data Directly from Numpy Arrays - KDnuggets](https://www.kdnuggets.com/visualizing-data-directly-numpy-arrays)
 
 [Seaborn: statistical data visualization](https://seaborn.pydata.org/) abstraction layer using Long Form on top of Matplotlib
 [Seaborn Tutorial - Tutorialspoint](https://www.tutorialspoint.com/seaborn/index.htm)

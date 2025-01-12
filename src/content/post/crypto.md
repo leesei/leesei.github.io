@@ -2,14 +2,14 @@
 title: Cryptography
 description: ""
 created: 2016-01-21
-updated: 2024-08-21
+updated: 2025-01-09
 tags:
   - crypto
   - cryptography
   - security
 ---
 
-> if crypto to you only means [[blockchain#Cryptocurrency]], please leave
+> crypto does not mean [[blockchain#Cryptocurrency]]
 
 [[enigma-machine]]
 
@@ -41,8 +41,8 @@ In cryptography, these entities are usually used:
 
 Bit security measures the number of trials required to brute-force a key. 128 bit security means 2128 trials to break.
 
-[Cryptographic nonce - Wikiwand](http://omni.wikiwand.com/en/Cryptographic_nonce)
-[Comparison of cryptography libraries - Wikiwand](https://omni.wikiwand.com/en/Comparison_of_cryptography_libraries)
+[Cryptographic nonce - Wikiwand](http://www.wikiwand.com/en/Cryptographic_nonce)
+[Comparison of cryptography libraries - Wikiwand](https://www.wikiwand.com/en/Comparison_of_cryptography_libraries)
 
 [cryptography - Do any security experts recommend bcrypt for password storage? - Information Security Stack Exchange](http://security.stackexchange.com/questions/4781/do-any-security-experts-recommend-bcrypt-for-password-storage)
 [BCrypt Explained - DEV Community 👩‍💻👨‍💻](https://dev.to/sylviapap/bcrypt-explained-4k5c)
@@ -56,8 +56,8 @@ Bit security measures the number of trials required to brute-force a key. 128 bi
 
 ### Authenticity
 
-[Message authentication code - Wikiwand](http://omni.wikiwand.com/en/Message_authentication_code) MAC
-[Hash-based message authentication code - Wikiwand](http://omni.wikiwand.com/en/Hash-based_message_authentication_code) HMAC, hash with secret key
+[Message authentication code - Wikiwand](http://www.wikiwand.com/en/Message_authentication_code) MAC
+[Hash-based message authentication code - Wikiwand](http://www.wikiwand.com/en/Hash-based_message_authentication_code) HMAC, hash with secret key
 [Moxie Marlinspike >> Blog >> The Cryptographic Doom Principle](http://www.thoughtcrime.org/blog/the-cryptographic-doom-principle/) Encrypt-then-MAC
 
 [Securing Stream Ciphers (HMAC) - Computerphile - YouTube](https://www.youtube.com/watch?v=wlSG3pEiQdc)
@@ -76,15 +76,15 @@ Certificate Authorities: a trusted third party that will digitally sign and publ
 [Serious Security: How to store your users’ passwords safely – Naked Security](https://nakedsecurity.sophos.com/2013/11/20/serious-security-how-to-store-your-users-passwords-safely/)
 [How Dropbox securely stores your passwords | Dropbox Tech Blog](https://blogs.dropbox.com/tech/2016/09/how-dropbox-securely-stores-your-passwords/)
 
-[scrypt - Wikiwand](https://omni.wikiwand.com/en/Scrypt)
-[bcrypt - Wikiwand](https://omni.wikiwand.com/en/Bcrypt)
-[Salt (cryptography) - Wikiwand](<https://omni.wikiwand.com/en/Salt_(cryptography)>)
+[scrypt - Wikiwand](https://www.wikiwand.com/en/Scrypt)
+[bcrypt - Wikiwand](https://www.wikiwand.com/en/Bcrypt)
+[Salt (cryptography) - Wikiwand](<https://www.wikiwand.com/en/Salt_(cryptography)>)
 
-[PBKDF2 - Wikiwand](https://omni.wikiwand.com/en/PBKDF2)
+[PBKDF2 - Wikiwand](https://www.wikiwand.com/en/PBKDF2)
 [PBKDF2 Hashing Algorithm. Before moving into the PBKDF2 hashing… | by Nishothan Vettivel | Medium](https://nishothan-17.medium.com/pbkdf2-hashing-algorithm-841d5cc9178d)
 [https://www.ietf.org/rfc/rfc2898.txt](https://www.ietf.org/rfc/rfc2898.txt)
 
-[Argon2 - Wikiwand](https://omni.wikiwand.com/en/Argon2)
+[Argon2 - Wikiwand](https://www.wikiwand.com/en/Argon2)
 [P-H-C/phc-winner-argon2: The password hash Argon2, winner of PHC](https://github.com/P-H-C/phc-winner-argon2)
 [How to enable Argon2 KDF in Bitwarden - gHacks Tech News](https://www.ghacks.net/2023/02/15/bitwarden-password-manager-introduces-support-for-argon2-kdf-iterations/)
 
@@ -102,7 +102,7 @@ This is slower than OpenSSL
 [tjfoc/gmsm: GM SM2/3/4 library based on Golang (基于Go语言的国密SM2/SM3/SM4算法库)](https://github.com/tjfoc/gmsm)
 [tjfoc/gmtls: GM TLS/SSL Based on Golang (基于国密算法的TLS/SSL代码库)](https://github.com/tjfoc/gmtls)
 
-[AES instruction set - Wikiwand](https://omni.wikiwand.com/en/AES_instruction_set)
+[AES instruction set - Wikiwand](https://www.wikiwand.com/en/AES_instruction_set)
 
 ## Key Exchange
 
@@ -114,11 +114,21 @@ This is slower than OpenSSL
 [Key Exchange Problems - Computerphile - YouTube](https://www.youtube.com/watch?v=vsXMMT2CqqE)
 [Double Ratchet Messaging Encryption - Computerphile - YouTube](https://www.youtube.com/watch?v=9sO2qdTci-s)
 
+## Homomorphic Encryption
+
+> ciphertext that can be processed or analyzed
+
+[Homomorphic encryption - Wikiwand](https://www.wikiwand.com/en/articles/Homomorphic_encryption)
+[Homomorphic Encryption: How It Works | Splunk](https://www.splunk.com/en_us/blog/learn/homomorphic-encryption.html)
+[What Is Homomorphic Encryption?](https://www.techtarget.com/searchsecurity/definition/homomorphic-encryption)
+
+[3 Homomorphic Encryption Trends for 2025](https://www.itprotoday.com/data-privacy/three-homomorphic-encryption-trends-for-2025)
+
 ## Block Ciphers
 
 > contrast "stream ciphers", where encrypted strings are the same length as the plaintext
 
-[Symmetric-key algorithm - Wikiwand](https://omni.wikiwand.com/en/Symmetric-key_algorithm)
+[Symmetric-key algorithm - Wikiwand](https://www.wikiwand.com/en/Symmetric-key_algorithm)
 
 [Lecture3 Lecture 3: Block Ciphers and the Data Encryption Standard](https://engineering.purdue.edu/kak/compsec/NewLectures/Lecture3.pdf)
 
@@ -128,7 +138,7 @@ This is slower than OpenSSL
 
 ### Modes of operation
 
-[Block cipher mode of operation - Wikiwand](https://omni.wikiwand.com/en/Block_cipher_mode_of_operation)
+[Block cipher mode of operation - Wikiwand](https://www.wikiwand.com/en/Block_cipher_mode_of_operation)
 
 Block ciphers, as the name suggests, encrypts blocks. The methods of segmenting data into blocks is called "modes of operation".
 
@@ -137,12 +147,12 @@ Block ciphers, as the name suggests, encrypts blocks. The methods of segmenting 
 **CBC**: first block XORed with Initialization Vector (IV) (nonce), every other block XORed with the ciphertext of the block preceding it; however this introduces dependency on previous block and encryption cannot be parallelized
 **CTR**: uses counter and nounce (similar to IV) per block to allow each block to be encrypted concurrently
 
-[Authenticated encryption - Wikiwand](https://omni.wikiwand.com/en/Authenticated_encryption) protects against chosen ciphertext attack on decryption oracle
+[Authenticated encryption - Wikiwand](https://www.wikiwand.com/en/Authenticated_encryption) protects against chosen ciphertext attack on decryption oracle
 [Authenticated Encryption in .NET with AES-GCM](https://www.scottbrady91.com/c-sharp/aes-gcm-dotnet)
 
 ### AES
 
-[Advanced Encryption Standard - Wikiwand](https://omni.wikiwand.com/en/Advanced_Encryption_Standard)
+[Advanced Encryption Standard - Wikiwand](https://www.wikiwand.com/en/Advanced_Encryption_Standard)
 [Lecture 8: AES: The Advanced Encryption Standard](https://engineering.purdue.edu/kak/compsec/NewLectures/Lecture8.pdf)
 [Protect your TCP tunnel by implementing AES encryption with Python [Tutorial] | Packt Hub](https://hub.packtpub.com/protect-tcp-tunnel-implementing-aes-encryption-with-python/)
 
@@ -184,6 +194,12 @@ gpg --output filename.tar.gz --decrypt filename.tar.gz.gpg
 [AES Crypt](https://www.aescrypt.com/download/)
 [aescrypt](https://askubuntu.com/a/60875)
 
+### ShangMi SM4
+
+[SM4 (cipher) - Wikiwand](<https://www.wikiwand.com/en/articles/SM4_(cipher)>)
+
+[算法库 | openEuler文档 | openEuler社区 | v22.09](https://docs.openeuler.org/zh/docs/22.09/docs/ShangMi/%E7%AE%97%E6%B3%95%E5%BA%93.html) SM2/3/4 supported in OpenSSL
+
 ## Stream Ciphers
 
 ### Chacha Cipher
@@ -195,12 +211,12 @@ ARX cipher: add, rotate, xor
 
 ## Public Key Cryptography
 
-[Public-key cryptography - Wikiwand](http://omni.wikiwand.com/en/Public-key_cryptography)
+[Public-key cryptography - Wikiwand](http://www.wikiwand.com/en/Public-key_cryptography)
 Public Key crypto simply works with numbers. This means that any messages would have to be converted into a number before being encrypted.
 
 ### RSA
 
-[RSA (cryptosystem) - Wikiwand](<https://omni.wikiwand.com/en/RSA_(cryptosystem)>)
+[RSA (cryptosystem) - Wikiwand](<https://www.wikiwand.com/en/RSA_(cryptosystem)>)
 [How does RSA work? – Hacker Noon](https://hackernoon.com/how-does-rsa-work-f44918df914b)
 
 [The RSA Encryption Algorithm (1 of 2: Computing an Example) - YouTube](https://www.youtube.com/watch?v=4zahvcJ9glg)
@@ -219,7 +235,7 @@ Public Key crypto simply works with numbers. This means that any messages would 
 
 ### ECC
 
-### ShangMi
+### ShangMi SM2
 
 A suite of authentication, encryption, and hash algorithms from the People's Republic of China.
 
@@ -252,8 +268,12 @@ An application of the ShangMi Cipher Suites in TLS can be found in [RFC 8998](ht
 
 ## Steganography
 
-[Steganography - Wikiwand](https://omni.wikiwand.com/en/Steganography)
+[Steganography - Wikiwand](https://www.wikiwand.com/en/Steganography)
 [隐写术鉴赏 - YouTube](https://www.youtube.com/watch?v=AmqOrrOv5Uw)
+
+[Outguess – Rbcafe](https://www.rbcafe.com/software/outguess/)
+[OutGuess - Wikiwand](https://www.wikiwand.com/en/articles/OutGuess)
+[resurrecting-open-source-projects/outguess: Universal steganographic tool](https://github.com/resurrecting-open-source-projects/outguess)
 
 [StegCloak](https://stegcloak.surge.sh/)
 [KuroLabs/stegcloak: Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐](https://github.com/KuroLabs/stegcloak)
@@ -263,14 +283,13 @@ An application of the ShangMi Cipher Suites in TLS can be found in [RFC 8998](ht
 
 ### Homograph
 
-[Faux Cyrillic - Wikiwand](https://omni.wikiwand.com/en/Faux_Cyrillic)
-[IDN homograph attack - Wikiwand](https://omni.wikiwand.com/en/IDN_homograph_attack)
+[Faux Cyrillic - Wikiwand](https://www.wikiwand.com/en/Faux_Cyrillic)
+[IDN homograph attack - Wikiwand](https://www.wikiwand.com/en/IDN_homograph_attack)
 
 ## Zero-knowledge proof/ZKP
 
-[Zero-knowledge proof - Wikiwand](https://omni.wikiwand.com/en/Zero-knowledge_proof)
-把問題和答案的關聯轉變成機率問題
-透過趨近無窮次的試驗，使猜對的機率趨近 0
+[Zero-knowledge proof - Wikiwand](https://www.wikiwand.com/en/Zero-knowledge_proof)
+把問題和答案的關聯轉變成機率問題, 透過趨近無窮次的試驗，使猜對的機率趨近 0
 
 [Introduction | ZKDocs](https://www.zkdocs.com/)
 [trailofbits/zkdocs: Interactive documentation on zero-knowledge proof systems and related primitives.](https://github.com/trailofbits/zkdocs)
@@ -295,3 +314,70 @@ An application of the ShangMi Cipher Suites in TLS can be found in [RFC 8998](ht
 
 [The Evolution of Rust inside zkVMs - Erik Kadena | RISC Zero - YouTube](https://www.youtube.com/watch?v=6yVNyuY7lDY)
 [Zeroing into zkVMs — Taiko Labs](https://taiko.mirror.xyz/e_5GeGGFJIrOxqvXOfzY6HmWcRjCjRyG0NQF1zbNpNQ)
+
+## Post-quantum
+
+[Post-quantum cryptography - Wikiwand](https://www.wikiwand.com/en/articles/Post-quantum_cryptography)
+[后量子密码学 - Wikiwand](https://www.wikiwand.com/zh-hk/articles/%E5%90%8E%E9%87%8F%E5%AD%90%E5%AF%86%E7%A0%81%E5%AD%A6)
+
+[Understanding Post-Quantum Cryptography | Entrust](https://www.entrust.com/resources/learn/post-quantum-cryptography)
+[Post-quantum Cryptography (PQC): New Algorithms for a New Era - Rambus](https://www.rambus.com/blogs/post-quantum-cryptography-pqc-new-algorithms-for-a-new-era/)
+[How to prepare for post quantum cryptography | McKinsey](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/when-and-how-to-prepare-for-post-quantum-cryptography)
+[What are quantum-resistant algorithms—and why do we need them? | MIT Technology Review](https://www.technologyreview.com/2022/09/14/1059400/explainer-quantum-resistant-algorithms/)
+
+[Shor's algorithm - Wikiwand](https://www.wikiwand.com/en/articles/Shor's_algorithm)
+[How Quantum Computers Break Encryption | Shor's Algorithm Explained - YouTube](https://www.youtube.com/watch?v=lvTqbM5Dq4Q)
+
+[【商密前沿】后量子密码最新进展（2024年2月） - 沃通WoTrus安全资讯站](https://www.wosign.com/article/zixun/2332.html)
+
+### Algorithms
+
+[Post-Quantum Cryptography | CSRC](https://csrc.nist.gov/projects/post-quantum-cryptography/selected-algorithms-2022)
+
+- [Lattice-based cryptography - Wikiwand](https://www.wikiwand.com/en/articles/Lattice-based_cryptography)
+- [Multivariate cryptography - Wikiwand](https://www.wikiwand.com/en/articles/Multivariate_cryptography)
+- [Hash-based cryptography - Wikiwand](https://www.wikiwand.com/en/articles/Hash-based_cryptography)
+- Code-based cryptography
+- Isogeny-based cryptography
+- Symmetric key quantum resistance
+
+PQ3 adopted by Apple
+
+[CRYSTALS](https://pq-crystals.org/) hard problems over module lattices, learning with errors (LWE)
+
+Public Key Encryption + Key encapsulation mechanism
+[BIKE - Bit Flipping Key Encapsulation](https://bikesuite.org/) QC-MDPC (Quasi-Cyclic Moderate Density Parity-Check)
+[Classic McEliece: Intro](https://classic.mceliece.org/) binary Goppa codes
+[FrodoKEM](https://frodokem.org/) LWE
+[HQC](https://pqc-hqc.org/) Syndrome decoding of structure codes (Hamming Quasi-Cyclic)
+[Kyber](https://pq-crystals.org/kyber/index.shtml) hard problems over module lattices, LWE
+[NTRU Prime: Intro](https://ntruprime.cr.yp.to/) NTRU lattice
+
+Stateless Signature
+[CROSS crypto](https://www.cross-crypto.com/) random linear code
+[Dilithium](https://pq-crystals.org/dilithium/index.shtml)
+[Falcon](https://falcon-sign.info/) NTRU lattice
+[MAYO](https://pqmayo.org/) multivariable quadratic equations
+[SPHINCS+](https://sphincs.org/) hash-based signatures
+
+Stateful Signature
+[RFC 8391 - XMSS: eXtended Merkle Signature Scheme](https://datatracker.ietf.org/doc/html/rfc8391) hash-based signatures
+[XMSS/xmss-reference: Repository for the XMSS reference code, accompanying RFC 8391, XMSS: eXtended Merkle Signature Scheme](https://github.com/XMSS/xmss-reference)
+[RFC 8554 - Leighton-Micali Hash-Based Signatures](https://datatracker.ietf.org/doc/html/rfc8554) LMS, hash-based signatures
+[cisco/hash-sigs: A full-featured implementation of of the LMS and HSS Hash Based Signature Schemes from draft-mcgrew-hash-sigs-07.](https://github.com/cisco/hash-sigs)
+
+### Framework/Library
+
+[Home | Open Quantum Safe](https://openquantumsafe.org/)
+[open-quantum-safe/oqs-provider: OpenSSL 3 provider containing post-quantum algorithms](https://github.com/open-quantum-safe/oqs-provider)
+[provider - OpenSSL Documentation](https://docs.openssl.org/master/man7/provider/)
+[open-quantum-safe/liboqs: C library for prototyping and experimenting with quantum-resistant cryptography](https://github.com/open-quantum-safe/liboqs)
+
+[PQClean/PQClean: Clean, portable, tested implementations of post-quantum cryptography](https://github.com/PQClean/PQClean)
+
+[mupq/pqm4: Post-quantum crypto library for the ARM Cortex-M4](https://github.com/mupq/pqm4)
+
+### Adoption
+
+[Cloudflare now uses post-quantum cryptography to talk to your origin server](https://blog.cloudflare.com/post-quantum-to-origins/)
+[Chromium Blog: Protecting Chrome Traffic with Hybrid Kyber KEM](https://blog.chromium.org/2023/08/protecting-chrome-traffic-with-hybrid.html)

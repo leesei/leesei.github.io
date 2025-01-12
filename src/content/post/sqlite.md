@@ -2,7 +2,7 @@
 title: SQLite
 description: ""
 created: 2023-09-26
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - comp/database
   - postgresql
@@ -10,7 +10,7 @@ tags:
 ---
 
 [SQLite Home Page](https://www.sqlite.org/)
-[SQLite - Wikiwand](https://omni.wikiwand.com/en/sqlite#Media/File:Sqlite3_command_screenshot.png)
+[SQLite - Wikiwand](https://www.wikiwand.com/en/sqlite#Media/File:Sqlite3_command_screenshot.png)
 
 [SQLite Tutorial - An Easy Way to Master SQLite Fast](https://www.sqlitetutorial.net/)
 [SQLite Tutorial - Tutorialspoint](https://www.tutorialspoint.com/sqlite/index.htm)
@@ -37,6 +37,10 @@ tags:
 [sqlite-utils documentation](https://sqlite-utils.datasette.io/en/stable/) Python
 
 [#201: SQLite with Richard Hipp - Changelog](https://changelog.com/201/)
+
+## libSQL
+
+[SQLite and its weird new fork “libSQL” - YouTube](https://www.youtube.com/watch?v=PGpL5hYpY1o)
 
 ## GUI Client
 

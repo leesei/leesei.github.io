@@ -2,7 +2,7 @@
 title: Learn to code (Kids)
 description: ""
 created: 2014-12-08
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - comp/lang
   - learning
@@ -35,6 +35,7 @@ Learn how to code for kids
 [Learn to Code for Free – Grasshopper](https://grasshopper.app/) JavaScript
 
 [mytechnotalent/Python-For-Kids: A comprehensive and FREE Online Python Development tutorial FOR KIDS utilizing an official BBC micro:bit Development Board going step-by-step into the world of Python for microcontrollers.](https://github.com/mytechnotalent/Python-For-Kids)
+[Python for Kids - YouTube](https://www.youtube.com/playlist?list=PLj_k_RHuTqaV1AOZ0xPSzgWVktrtDoQSt)
 [Machine Learning for Kids](https://machinelearningforkids.co.uk/)
 
 [Coding for kids: Art, games, and animations with our new beginners' Python path - Raspberry Pi](https://www.raspberrypi.org/blog/coding-for-kids-art-games-animations-beginners-python-programming/)
@@ -51,8 +52,11 @@ Learn how to code for kids
 
 [Tux4Kids](https://github.com/tux4kids)
 
-[The EduBlocks Project](https://edublocks.org/)
+[The EduBlocks Project](https://edublocks.org/) for Python
 [Learn Python programming the easy way with EduBlocks | Opensource.com](https://opensource.com/article/18/8/edublocks)
+
+[Code.org](https://studio.code.org/home)
+[Minecraft | Code.org](https://code.org/minecraft)
 
 [GP Blocks](http://www.gpblocks.org/)
 [start [GP Docs]](https://gpblocks.org/wiki/doku.php)
@@ -106,6 +110,7 @@ Learn how to code for kids
 [Scratch - Ideas](https://scratch.mit.edu/ideas)
 [Scratch - Explore](https://scratch.mit.edu/explore/projects/all)
 [TurboWarp - Run Scratch projects faster](https://turbowarp.org/)
+[Projects | Computer coding for kids and teens | Raspberry Pi](https://projects.raspberrypi.org/en/collections/scratch)
 
 [Scratch Coding Cards](https://resources.scratch.mit.edu/www/cards/en/scratch-cards-all.pdf) PDF
 [Scratch API - Scratch Wiki](https://en.scratch-wiki.info/wiki/Scratch_API)
@@ -173,8 +178,6 @@ micro:bit, Ardiono, ...
 
 [Scratch Arduino Extension](http://khanning.github.io/scratch-arduino-extension/)
 
-[EduBlocks](https://edublocks.org/) for Python
-
 [Rete.js](https://rete.js.org/#/)
 [retejs/rete: JavaScript framework for visual programming and creating node editor](https://github.com/retejs/rete)
 
@@ -183,20 +186,30 @@ micro:bit, Ardiono, ...
 [BlocklyDuino/BlocklyDuino: BlocklyDuino is a web-based visual programming editor for arduino.](https://github.com/BlocklyDuino/BlocklyDuino)
 [carlosperate/ardublockly: Visual programming for Arduino. Based on blockly, implements Arduino code generation and facilitates program uploading.](https://github.com/carlosperate/ardublockly)
 
+[Otto Blockly](https://www.ottodiy.com/software) Arduino, ESP
+[OttoDIY/blockly: Otto Blockly; a fully integrated graphical programming for any type of Arduino projects, including robots, ready to install in your computer, it works offline and also online](https://github.com/OttoDIY/blockly)
+
+[Helloblock 亚博-下载专区](https://www.yahboom.com/download/Helloblock) Arduino
+
 [S4A](http://s4a.cat/)
 [Snap4Arduino](http://s4a.cat/snap/)
 [Snap4Arduino](http://snap4arduino.rocks/)
 [MrYsLab/s2a_fm: A Scratch Hardware Extension For Arduino](https://github.com/MrYsLab/s2a_fm)
 
-[Project Bloks - Project Bloks research into tangible programming is complete](https://projectbloks.withgoogle.com/)
-[Google Launches 'Project Bloks' To Help Young Learners Learn To Code](https://fossbytes.com/google-project-bloks-coding/amp/)
+[MakeCode Maker - Blocks / Javascript editor](https://maker.makecode.com/)
 
-[Helloblock 亚博-下载专区](https://www.yahboom.com/download/Helloblock#)
+[Openblock](https://www.openblock.cc/) based on Scratch
+[openblockcc/openblock-desktop: Graphic programming software for hardware like: arduino, microbit, esp32, esp8266...](https://github.com/openblockcc/openblock-desktop)
 
-[Visual Embedded Rust Programming with Visual Studio Code](https://medium.com/@ly.lee/visual-embedded-rust-programming-with-visual-studio-code-1bc1262e398c)
+[Visual Embedded Rust Programming with Visual Studio Code - Technology - PCBway](https://www.pcbway.com/blog/technology/Visual_Embedded_Rust_Programming_with_Visual_Studio_Code.html)
 
 [Brown Dog Gadgets - Projects, DIY Kits & Solar-Powered Gadgets](https://www.browndoggadgets.com/)
 [Brown Dog Gadgets - YouTube](https://www.youtube.com/channel/UCOOrYoQ9AmXaNGafGewvfJg)
+
+### Project Bloks
+
+[Project Bloks - Project Bloks research into tangible programming is complete](https://projectbloks.withgoogle.com/)
+[Google Launches 'Project Bloks' To Help Young Learners Learn To Code](https://fossbytes.com/google-project-bloks-coding/amp/)
 
 ### Tinkergen
 
@@ -256,7 +269,7 @@ mBlock 3, Scratch 2
 
 ### DFRobot Mind+
 
-[mindplus.dfrobot.com.cn](http://mindplus.dfrobot.com.cn/)
+[Mind+官方教程-Mind+图形化编程软件](https://mindplus.dfrobot.com.cn/catalog)
 [Home - Mind+ - Get ready to take the leap from zero to a coding expert](http://mindplus.cc/en.html)
 
 ### Kittenblock
@@ -275,6 +288,7 @@ Scratch 3 based, Block + Python + Arduino IDE
 [Microsoft MakeCode](https://www.microsoft.com/en-hk/makecode?rtc=1)
 [About – Microsoft MakeCode](https://www.microsoft.com/en-hk/makecode/about?rtc=1)
 [Resources – Microsoft MakeCode](https://www.microsoft.com/en-hk/makecode/resources)
+[Microsoft MakeCode Offline App](https://makecode.microbit.org/offline-app)
 
 [One chip to flash them all - Microsoft MakeCode](https://makecode.com/blog/one-chip-to-flash-them-all)
 [microsoft/uf2: UF2 file format specification](https://github.com/Microsoft/uf2)
@@ -283,6 +297,8 @@ Scratch 3 based, Block + Python + Arduino IDE
 [microsoft/pxt: Microsoft MakeCode (PXT - Programming eXperience Toolkit)](https://github.com/Microsoft/pxt)
 [MakeCode (PXT) Documentation - Microsoft MakeCode](https://makecode.com/docs)
 [MakeCode Languages: Blocks, Static TypeScript and Static Python - Microsoft MakeCode](https://makecode.com/language)
+
+[microsoft/pxt-microbit: A Blocks / JavaScript code editor for the micro:bit built on Microsoft MakeCode](https://github.com/Microsoft/pxt-microbit)
 
 #### Platforms
 
@@ -495,9 +511,9 @@ They're both fibers. `inBackground()` have a `fiberDone` callback for clean up a
 [microStudio Game Engine Hands-On – GameFromScratch.com](https://gamefromscratch.com/microstudio-game-engine-hands-on/)
 
 [PICO-8 Fantasy Console](https://www.lexaloffle.com/pico-8.php)
-[PICO-8 - Wikiwand](https://omni.wikiwand.com/en/pico-8)
+[PICO-8 - Wikiwand](https://www.wikiwand.com/en/pico-8)
 
-[CHIP-8 - Wikiwand](https://omni.wikiwand.com/en/CHIP-8)
+[CHIP-8 - Wikiwand](https://www.wikiwand.com/en/CHIP-8)
 [Guide to making a CHIP-8 emulator - Tobias V. Langhoff](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/)
 [How to Create Your Very Own Chip-8 Emulator](https://www.freecodecamp.org/news/creating-your-very-own-chip-8-emulator/)
 [Cowgod's Chip-8 Technical Reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM)
@@ -530,6 +546,8 @@ They're both fibers. `inBackground()` have a `fiberDone` callback for clean up a
 
 ## Learn by Gaming
 
+> see [[minecraft]]
+
 [Programming](https://store.steampowered.com/tags/en/Programming/)
 [Turing Complete on Steam](https://store.steampowered.com/app/1444480/Turing_Complete/)
 [SHENZHEN I/O on Steam](https://store.steampowered.com/app/504210/SHENZHEN_IO/)
@@ -543,82 +561,8 @@ They're both fibers. `inBackground()` have a `fiberDone` callback for clean up a
 [The SQL Murder Mystery](https://mystery.knightlab.com/)
 [The SQL Murder Mystery: Detailed Walkthrough](https://mystery.knightlab.com/walkthrough.html)
 
-### Minecraft
+### Robomind
 
-[Minecraft - Wikiwand](http://omni.wikiwand.com/en/Minecraft)
-[Official site | Minecraft](https://minecraft.net/en-us/)
-[Official Minecraft Wiki – The Ultimate Resource for Minecraft](https://minecraft.gamepedia.com/Minecraft_Wiki)
-[Java Edition – Official Minecraft Wiki](https://minecraft.fandom.com/Java_Edition)
-[Bedrock Edition – Official Minecraft Wiki](https://minecraft.fandom.com/Bedrock_Edition)
-
-[Minecraft Theories - YouTube](https://www.youtube.com/playlist?list=PLOl4b517qn8jvCcjb6Bmi7EcK_MnmtPFl)
-[Game Theory: The COMPLETE Lore Of Minecraft - YouTube](https://www.youtube.com/watch?v=ysQ-dMA_qkk)
-
-[Minecraft Bedrock Edition: Download guide for PC, system requirements and more](https://www.sportskeeda.com/amp/esports/minecraft-bedrock-edition-download-guide-pc-system-requirements)
-
-[The (Latecomer) Beginner's Guide To Minecraft](https://www.makeuseof.com/tag/latecomer-beginners-guide-minecraft/)
-[Minecraft Is A Perfectly Balanced Game With No Exploits - BOOKS = UNLIMITED DIAMONDS - YouTube](https://www.youtube.com/watch?v=7nQzLlTOY2g)
-
-Pros:
-Interactive world
-Resource gathering and composition
-Program a virtual tour
-
-Cons:
-Need to buy the game (not for Pi Edition)
-Server administration is difficult
-
-[Mojang | Different Minecraft Editions](https://help.mojang.com/customer/en/portal/articles/1274139-different-minecraft-editions?b_id=5408)
-
-[我的世界 Minecraft 中国版官方网站—原汁原味，免费下载](http://mc.163.com/)
-
-[Coding with Minecraft](https://turtleappstore.com/book/)
-
-[Why Do These Minecraft YouTubers Look The Same? - YouTube](https://www.youtube.com/watch?v=FkO-BxZLeFU)
-
-#### Modding/Skin
-
-[Downloads for Minecraft Forge for Minecraft 1.20.1](https://files.minecraftforge.net/net/minecraftforge/forge/)
-[Forge Documentation](https://docs.minecraftforge.net/en/latest/)
-
-[Minecraft Skins | Best MC Skins | SkinsMC](https://skinsmc.org/)
-[Minecraft PE Mods, Maps, Skins, Seeds, Texture Packs | MCPE DL](https://mcpedl.com/)
-
-#### Minecraft: Pi Edition
-
-[Pi Edition | Minecraft](https://minecraft.net/en-us/edition/pi/)
-[Getting Started with Minecraft Pi - Introduction | Raspberry Pi Projects](https://projects.raspberrypi.org/en/projects/getting-started-with-minecraft-pi)
-[<Stuff about="code" />: Minecraft API](https://www.stuffaboutcode.com/p/minecraft-api-reference.html)
-[Getting Started with Minecraft Pi | Python | Coding projects for kids and teens](https://projects.raspberrypi.org/en/projects/getting-started-with-minecraft-pi/)
-
-[Hacking Minecraft - YouTube](https://www.youtube.com/playlist?list=PLME-KWdxI8dfQ1mKqnED8eAxZIb82ju6H)
-[Learn Python and Electronics with Minecraft Pi Edition](https://www.makeuseof.com/tag/learn-python-electronics-minecraft-pi-edition/)
-[How to Make a Raspberry Pi Minecraft Server « Adafruit Industries – Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/2019/10/11/how-to-make-a-raspberry-pi-minecraft-server-raspberry_pi-piday-raspberrypi/)
-[How to Install Minecraft Server on Raspberry Pi | Linuxize](https://linuxize.com/post/how-to-install-minecraft-server-on-raspberry-pi/)
-
-#### Minecraft: Education Edition
-
-[Homepage | Minecraft: Education Edition](https://education.minecraft.net/)
-[Search Lessons | Minecraft: Education Edition](https://education.minecraft.net/class-resources/search-lessons)
-[How to download Minecraft Education Edition: Step-by-step guide for beginners](https://www.sportskeeda.com/amp/esports/how-download-minecraft-education-edition)
-
-[Minecraft: Education Edition - YouTube](https://www.youtube.com/channel/UC2XjBkW16jGLGSEF9vo4PDA)
-
-[Minecraft Education Edition - YouTube](https://www.youtube.com/playlist?list=PLokdYgqXzlzIcnHlWplSkKLFdxjVay8lf)
-Bulk adding of users to private server
-
-[Microsoft MakeCode for Minecraft](https://minecraft.makecode.com/#)
-[Minecraft Education Setup for MakeCode](https://minecraft.makecode.com/setup/minecraft-education-edition)
-[Minecraft: Education Edition live - YouTube](https://www.youtube.com/playlist?list=PLMMBk9hE-Sep-xPDSqsdUCPcI6RXNwt4t)
-
-#### Python
-
-[CoderDojo Twin Cities Python for Minecraft documentation](https://coderdojotc.readthedocs.io/projects/python-minecraft/en/latest/contents.html)
-
-[Python Coding for Minecraft: 18 Steps (with Pictures)](https://www.instructables.com/id/Python-coding-for-Minecraft/)
-
-[<Stuff about="code" />: Minecraft API](https://www.stuffaboutcode.com/p/minecraft-api-reference.html)
-[Getting Started with Minecraft Pi - Introduction | Raspberry Pi Projects](https://projects.raspberrypi.org/en/projects/getting-started-with-minecraft-pi)
-
-[Adventures in Minecraft: David Whale, Martin O'Hanlon: 9781118946916: Amazon.com: Books](https://www.amazon.com/Adventures-Minecraft-David-Whale/dp/111894691X)
-[Amazon.com: Learn to Program with Minecraft: Transform Your World with the Power of Python (0689145767025): Craig Richardson: Books](https://www.amazon.com/Learn-Program-Minecraft-Transform-Python/dp/1593276702/)
+[RoboMind](https://www.robomind.net/)
+[RoboMind Lessons | Robots Got Talents](https://www.robotsgottalents.com/robomind-activities)
+[RoboMind 下載](https://resources.hkedcity.net/resource_detail.php?rid=1823398416)

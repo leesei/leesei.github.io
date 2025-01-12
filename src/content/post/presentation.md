@@ -2,7 +2,7 @@
 title: Presentation
 description: ""
 created: 2016-04-24
-updated: 2024-05-06
+updated: 2025-01-09
 tags:
   - business
 ---
@@ -29,6 +29,8 @@ The Genard Method
 [5 Acting Techniques for Greater Stage Presence in Public Speaking](https://www.genardmethod.com/blog/5-acting-techniques-for-greater-stage-presence-in-public-speaking-0)
 [Do You Think Too Much? — Learn How to Speak on the Moment](https://www.genardmethod.com/blog/do-you-think-too-much-learn-how-to-speak-on-the-moment)
 [How To Build A Presentation: Four Ways To Achieve Your Purpose](https://www.genardmethod.com/blog/how-to-build-a-presentation-four-ways-to-achieve-your-purpose)
+[How To Create An Effective Conclusion](https://www.genardmethod.com/blog/bid/142655/how-to-create-an-effective-conclusion)
+[How To Speak To A Large Group Without Fear](https://www.genardmethod.com/blog/how-to-speak-to-a-large-group-without-fear)
 
 [Preparing for a Tech Talk, Part 1: Motivation — Overreacted](https://overreacted.io/preparing-for-tech-talk-part-1-motivation/)
 [Preparing for a Tech Talk, Part 2: What, Why, and How — Overreacted](https://overreacted.io/preparing-for-tech-talk-part-2-what-why-and-how/)

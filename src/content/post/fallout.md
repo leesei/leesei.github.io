@@ -2,7 +2,7 @@
 title: Fallout
 description: ""
 created: 2023-08-14
-updated: 2024-06-09
+updated: 2025-01-09
 tags:
   - fallout
   - games

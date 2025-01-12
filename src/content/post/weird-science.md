@@ -2,7 +2,7 @@
 title: Weird Science
 description: ""
 created: 2015-12-04
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - science
 ---
@@ -27,8 +27,8 @@ phlogiston -> caloric -> thermodynamics
 [About The Ig® Nobel Prizes - Improbable Research](http://www.improbable.com/ig/)
 [Podcast](https://improbable.com/category/the-weekly-improbable-research-podcast/)
 
-[Ig Nobel Prize - Wikiwand](http://omni.wikiwand.com/en/Ig_Nobel_Prize)
-[List of Ig Nobel Prize winners - Wikiwand](https://omni.wikiwand.com/en/List_of_Ig_Nobel_Prize_winners)
+[Ig Nobel Prize - Wikiwand](http://www.wikiwand.com/en/Ig_Nobel_Prize)
+[List of Ig Nobel Prize winners - Wikiwand](https://www.wikiwand.com/en/List_of_Ig_Nobel_Prize_winners)
 
 [What Is An Ig Nobel Prize? - Stuff You Should Know (podcast)](https://player.fm/series/stuff-you-should-know/what-is-an-ig-nobel-prize)
 
@@ -53,7 +53,7 @@ phlogiston -> caloric -> thermodynamics
 ## 老高與小茉 Mr & Mrs Gao
 
 [Mr & Mrs Gao - YouTube](https://www.youtube.com/@laogao)
-[Kuaizero 老高 - Wikiwand](https://omni.wikiwand.com/zh/Kuaizero_%E8%80%81%E9%AB%98)
+[Kuaizero 老高 - Wikiwand](https://www.wikiwand.com/zh/Kuaizero_%E8%80%81%E9%AB%98)
 
 [【Joeman Show Ep18】獨家揭密！老高與小茉的愛情故事！ft.老高 Kuaizero - YouTube](https://www.youtube.com/watch?v=mp20RqlJwbo)
 

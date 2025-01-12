@@ -2,7 +2,7 @@
 title: Kubernetes
 description: ""
 created: 2014-12-11
-updated: 2024-09-07
+updated: 2025-01-09
 tags:
   - container
   - dev/deploy
@@ -14,7 +14,7 @@ tags:
 ---
 
 [Kubernetes by Google](http://kubernetes.io/)
-[Kubernetes - Wikiwand](http://omni.wikiwand.com/en/Kubernetes)
+[Kubernetes - Wikiwand](http://www.wikiwand.com/en/Kubernetes)
 [community/sig-list.md at master · kubernetes/community](https://github.com/kubernetes/community/blob/master/sig-list.md)
 [Exploring the New Kubernetes Maturity Model – The New Stack](https://thenewstack.io/exploring-the-new-kubernetes-maturity-model/)
 
@@ -22,6 +22,7 @@ tags:
 [Kubernetes for Beginners](https://training.play-with-kubernetes.com/kubernetes-workshop/)
 [Deploying and Scaling Microservices with Docker and Kubernetes](http://container.training/kube-selfpaced.yml.html#1)
 
+[10 Years of Kubernetes: Past, Present, and Future - The New Stack](https://thenewstack.io/10-years-of-kubernetes-past-present-and-future/)
 [Kubernetes: The Documentary [PART 1] - YouTube](https://www.youtube.com/watch?v=BE77h7dmoQU)
 [Kubernetes: The Documentary [PART 2] - YouTube](https://www.youtube.com/watch?v=318elIq37PE)
 [解读 2017 之容器篇：后 Kubernetes 时代](https://mp.weixin.qq.com/s/k_0Ya0wPQEy30Yo9LaI2aQ)
@@ -193,6 +194,10 @@ Kubernetes pods are a group of containers that act like a single VM: they have a
 [magicsandbox](https://console.magicsandbox.com/)
 [heptio/kubernetes-workshop: Documentation on our Kubernetes Workshops](https://github.com/heptio/kubernetes-workshop)
 [tkssharma/k8s-learning: Just for learning](https://github.com/tkssharma/k8s-learning)
+
+[Kubernetes 101 | A YouTube streaming series on Kubernetes and container-based infrastructure by Jeff Geerling.](https://kube101.jeffgeerling.com/)
+[Kubernetes 101 - a book by Jeff Geerling](https://www.kubernetes101book.com/)
+[geerlingguy/kubernetes-101: Kubernetes 101 - by Jeff Geerling](https://github.com/geerlingguy/kubernetes-101)
 
 [A Gentle Introduction to Kubernetes - Faun - Medium](https://medium.com/faun/a-gentle-introduction-to-kubernetes-4961e443ba26)
 [eon01/kubernetes-workshop: ⚙️ A Gentle introduction to Kubernetes with more than just the basics. 🌟 Give it a star if you like it.](https://github.com/eon01/kubernetes-workshop)
@@ -807,6 +812,14 @@ Sample configs:
 
 [Deploying your Applications in a Repeatable Way on Kubernetes - YouTube](https://www.youtube.com/watch?v=SxBnlBI9AaE) [slides](https://info.rancher.com/hubfs/Kubernetes%20Master%20Class%20Series/Deploying%20applications%20in%20a%20repeatable%20way%20on%20Kubernetes/Kubernetes%20Master%20Class%20Helm-Catalog%20-%20master%20deck.pptx)
 
+#### k0smotron
+
+[K0smotron](https://k0smotron.io/) The Kubernetes control plane manager
+[Documentation](https://docs.k0smotron.io/stable/)
+[k0sproject/k0smotron: k0smotron](https://github.com/k0sproject/k0smotron)
+
+[Mirantis Releases k0smotron 1.0 to Simplify Kubernetes Cluster Management - Cloud Native Now](https://cloudnativenow.com/editorial-calendar/kubernetes-security/mirantis-releases-k0smotron-1-0-to-simplify-kubernetes-cluster-management/)
+
 #### Werf
 
 [Giterministic CLI tool | werf](https://werf.io/)
@@ -1349,8 +1362,9 @@ CNI: container network interface
 
 [Kubernetes FAQ - How can I route traffic for Kubernetes on bare metal?](https://www.weave.works/blog/kubernetes-faq-how-can-i-route-traffic-for-kubernetes-on-bare-metal) suggest MetalLB, but Træfik is more mature
 
-[Ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/)
-[Service](https://kubernetes.io/docs/concepts/services-networking/service/)
+[Ingress | Kubernetes](https://kubernetes.io/docs/concepts/services-networking/ingress/)
+[Gateway API | Kubernetes](https://kubernetes.io/docs/concepts/services-networking/gateway/)
+[Service | Kubernetes](https://kubernetes.io/docs/concepts/services-networking/service/)
 
 [Get a LoadBalancer for your private Kubernetes cluster](https://blog.alexellis.io/ingress-for-your-local-kubernetes-cluster/)
 [inlets/inlets-operator: Public IP LoadBalancer for local Kubernetes clusters](https://github.com/inlets/inlets-operator)
@@ -1370,7 +1384,8 @@ CNI: container network interface
 [Dynamic Ingress in Kubernetes - Kubernetes](https://kubernetes.io/blog/2018/06/07/dynamic-ingress-in-kubernetes/)
 [IPVS-Based In-Cluster Load Balancing Deep Dive - Kubernetes](https://kubernetes.io/blog/2018/07/09/ipvs-based-in-cluster-load-balancing-deep-dive/)
 
-[Sticky Sessions in Kubernetes – Zhimin Wen – Medium](https://medium.com/@zhimin.wen/sticky-sessions-in-kubernetes-56eb0e8f257d)
+[Sticky Sessions in Kubernetes. In the migration journey to the cloud… | by Zhimin Wen | Medium](https://zhimin-wen.medium.com/sticky-sessions-in-kubernetes-56eb0e8f257d)
+[Session Affinity and Kubernetes— Proceed With Caution! | by Paul Dally | Medium](https://pauldally.medium.com/session-affinity-and-kubernetes-proceed-with-caution-8e66fd5deb05)
 [gRPC Load Balancing on Kubernetes without Tears - Kubernetes](https://kubernetes.io/blog/2018/11/07/grpc-load-balancing-on-kubernetes-without-tears/) with Linkerd
 
 [Load Balancing with Kubernetes: concepts, use cases, and implementation details - YouTube](https://www.youtube.com/watch?v=FG0ZW5eX1JY) [slides](https://info.rancher.com/hubfs/Kubernetes%20Master%20Class%20Series/Load%20Balancing%20with%20Kubernetes/Rancher%20Labs%20-%20Kubernetes%20Master%20Class%20-%20Load%20Balancing%20with%20Kubernetes.pptx)

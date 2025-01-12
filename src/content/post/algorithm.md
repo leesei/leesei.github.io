@@ -2,7 +2,7 @@
 title: Data Structures and Algorithms
 description: ""
 created: 2023-04-14
-updated: 2024-09-15
+updated: 2025-01-09
 tags:
   - comp/lang
   - learning
@@ -53,7 +53,7 @@ tags:
 [Is there an algorithm to win every (3x3) Tic-Tac-Toe game? - Quora](https://www.quora.com/Is-there-an-algorithm-to-win-every-3x3-Tic-Tac-Toe-game)
 [Tic Tac Toe: Understanding the Minimax Algorithm — Never Stop Building](https://www.neverstopbuilding.com/blog/2013/12/13/tic-tac-toe-understanding-the-minimax-algorithm13/)
 
-[Fast inverse square root - Wikiwand](http://omni.wikiwand.com/en/Fast_inverse_square_root)
+[Fast inverse square root - Wikiwand](http://www.wikiwand.com/en/Fast_inverse_square_root)
 [Beyond3D - Origin of Quake3's Fast InvSqrt()](https://www.beyond3d.com/content/articles/8/)
 [Fast Inverse Square Root — A Quake III Algorithm - YouTube](https://www.youtube.com/watch?v=p8u_k2LIZyo)
 
@@ -84,9 +84,9 @@ tags:
 
 ## Data Structures
 
-[Rope (data structure) - Wikiwand](<https://omni.wikiwand.com/en/Rope%20(data%20structure)>)
-[Gap buffer - Wikiwand](https://omni.wikiwand.com/en/gap%20buffer)
-[Piece table - Wikiwand](https://omni.wikiwand.com/en/Piece_table)
+[Rope (data structure) - Wikiwand](<https://www.wikiwand.com/en/Rope%20(data%20structure)>)
+[Gap buffer - Wikiwand](https://www.wikiwand.com/en/gap%20buffer)
+[Piece table - Wikiwand](https://www.wikiwand.com/en/Piece_table)
 
 ## Trees
 
@@ -94,7 +94,7 @@ tags:
 
 > aka digital tree, prefix tree
 
-[Trie - Wikiwand](https://omni.wikiwand.com/en/Trie)
+[Trie - Wikiwand](https://www.wikiwand.com/en/Trie)
 
 [Tries - YouTube](https://www.youtube.com/watch?v=9HqbKLcxQmo) Building a Trie data structure in Go
 
@@ -107,14 +107,14 @@ tags:
 
 ### Binary trees
 
-[Binary search tree - Wikiwand](https://omni.wikiwand.com/en/Binary_search_tree)
-[Self-balancing binary search tree - Wikiwand](https://omni.wikiwand.com/en/Self-balancing_binary_search_tree)
-[B-tree - Wikiwand](https://omni.wikiwand.com/en/B-tree) generalized BST, can have >2 children
-[B+ tree - Wikiwand](https://omni.wikiwand.com/en/B+_tree) wide tree where node contains only keys
+[Binary search tree - Wikiwand](https://www.wikiwand.com/en/Binary_search_tree)
+[Self-balancing binary search tree - Wikiwand](https://www.wikiwand.com/en/Self-balancing_binary_search_tree)
+[B-tree - Wikiwand](https://www.wikiwand.com/en/B-tree) generalized BST, can have >2 children
+[B+ tree - Wikiwand](https://www.wikiwand.com/en/B+_tree) wide tree where node contains only keys
 
 ### Log Structured Merge (LSM) Tree
 
-[Log-structured merge-tree - Wikiwand](https://omni.wikiwand.com/en/Log-structured_merge-tree)
+[Log-structured merge-tree - Wikiwand](https://www.wikiwand.com/en/Log-structured_merge-tree)
 [The Secret Sauce Behind NoSQL: LSM Tree - YouTube](https://www.youtube.com/watch?v=I6jB0nM9SKU)
 
 - optimized for fast write
@@ -132,7 +132,7 @@ tags:
 
 ## Covariance and Contravariance
 
-[Covariance and contravariance (computer science) - Wikiwand](<https://omni.wikiwand.com/en/Covariance_and_contravariance_(computer_science)>) C# uses `in`, `out` keywords to control variance
+[Covariance and contravariance (computer science) - Wikiwand](<https://www.wikiwand.com/en/Covariance_and_contravariance_(computer_science)>) C# uses `in`, `out` keywords to control variance
 [c# - Covariance and contravariance in programming languages - Stack Overflow](https://stackoverflow.com/questions/1163465/covariance-and-contravariance-in-programming-languages)
 [Covariance and Contravariance - withoutbugs.com](https://www.withoutbugs.com/2011/04/covariance-and-contravariance.html)
 [C# : Is Variance (Covariance / Contravariance) another word for Polymorphism? - Stack Overflow](https://stackoverflow.com/questions/1078423/c-sharp-is-variance-covariance-contravariance-another-word-for-polymorphis)
@@ -141,8 +141,8 @@ tags:
 
 [[reactive-programming#Xstate]]
 
-[Finite-state machine - Wikiwand](https://omni.wikiwand.com/en/Finite-state_machine)
-[Deterministic finite automaton - Wikiwand](https://omni.wikiwand.com/en/Deterministic_finite_automaton)
+[Finite-state machine - Wikiwand](https://www.wikiwand.com/en/Finite-state_machine)
+[Deterministic finite automaton - Wikiwand](https://www.wikiwand.com/en/Deterministic_finite_automaton)
 [Finite State Machines](https://flaviocopes.com/finite-state-machines/)
 [Chomsky Language Levels - YouTube](https://www.youtube.com/playlist?list=PLzH6n4zXuckpkgSrHX87sDCmEZSumytL3)
 
@@ -153,7 +153,7 @@ tags:
 [Ragel State Machine Compiler](http://www.colm.net/open-source/ragel/)
 [State Machines & Tools--Quantum Leaps](http://www.state-machine.com/)
 
-[SCXML - Wikiwand](https://omni.wikiwand.com/en/SCXML)
+[SCXML - Wikiwand](https://www.wikiwand.com/en/SCXML)
 [State Chart XML (SCXML): State Machine Notation for Control Abstraction](https://www.w3.org/TR/scxml/)
 [SCXML - Commons SCXML](https://commons.apache.org/proper/commons-scxml/)
 
@@ -193,7 +193,7 @@ A\* Algorithm:
 [Pathfinding in Unity DOTS! (Insane Speed!!!) - YouTube](https://www.youtube.com/watch?v=1bO1FdEThnU)
 [A\* Search: How Your Map Applications Find Shortest Routes - YouTube](https://www.youtube.com/watch?v=88I6IidylGc)
 
-[Maze Solving - Computerphile - YouTube](https://www.youtube.com/watch?v=rop0W4QDOUI&t=45s)
+[Maze Solving - Computerphile - YouTube](https://www.youtube.com/watch?v=rop0W4QDOUI)
 [mikepound/mazesolving: A variety of algorithms to solve mazes from an input image](https://github.com/mikepound/mazesolving) Python
 
 [Easy pathfinding in python [almost without math] - YouTube](https://www.youtube.com/watch?v=8SigT_jhz4I)
@@ -239,17 +239,17 @@ Kuvina Saydaki
 
 ## Random Number Generator
 
-[Random number generation - Wikiwand](http://omni.wikiwand.com/en/Random_number_generation)
-[Diehard tests - Wikiwand](http://omni.wikiwand.com/en/Diehard_tests)
+[Random number generation - Wikiwand](http://www.wikiwand.com/en/Random_number_generation)
+[Diehard tests - Wikiwand](http://www.wikiwand.com/en/Diehard_tests)
 [Empirical Testing of Random Number Generators](http://simul.iro.umontreal.ca/testu01/tu01.html)
-[Birthday problem - Wikiwand](http://omni.wikiwand.com/en/Birthday_problem)
+[Birthday problem - Wikiwand](http://www.wikiwand.com/en/Birthday_problem)
 
 [TIFU by using Math.random() — Medium](https://medium.com/@betable/tifu-by-using-math-random-f1c308c4fd9d#.sp9i13hux)
 [V8 JavaScript Engine: There's Math.random(), and then there's Math.random()](http://v8project.blogspot.de/2015/12/theres-mathrandom-and-then-theres.html)
 
 ## Perlin noise
 
-[Perlin noise - Wikiwand](https://omni.wikiwand.com/en/Perlin_noise) a smoother gradient noise
+[Perlin noise - Wikiwand](https://www.wikiwand.com/en/Perlin_noise) a smoother gradient noise
 [The Theory of Noise: An Overview of Perlin Noise - YouTube](https://www.youtube.com/watch?v=H6FhG9VKhJg)
 [How to turn a few Numbers into Worlds (Perlin Noise) - YouTube](https://www.youtube.com/watch?v=ZsEnnB2wrbI)
 [Understanding Perlin Noise](https://adrianb.io/2014/08/09/perlinnoise.html)
@@ -257,7 +257,7 @@ Kuvina Saydaki
 
 ## Compression
 
-[Kolmogorov complexity - Wikiwand](https://omni.wikiwand.com/en/Kolmogorov_complexity) complexity of data
+[Kolmogorov complexity - Wikiwand](https://www.wikiwand.com/en/Kolmogorov_complexity) complexity of data
 [Berry's Paradox - An Algorithm For Truth - YouTube](https://www.youtube.com/watch?v=FDXf1XxCXAk)
 
 [compression - How are zlib, gzip and zip related? What do they have in common and how are they different? - Stack Overflow](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)
@@ -308,7 +308,7 @@ Non-exact (rounded) results is good enough for many scenarios.
 
 > an optimization over plain recursion by memoizing results of **overlapping** sub-problems
 
-[Dynamic programming - Wikiwand](https://omni.wikiwand.com/en/Dynamic_programming)
+[Dynamic programming - Wikiwand](https://www.wikiwand.com/en/Dynamic_programming)
 [Dynamic Programming - GeeksforGeeks](https://www.geeksforgeeks.org/dynamic-programming/)
 [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges - YouTube](https://www.youtube.com/watch?v=oBt53YbR9Kk) (memoized) recursion and tabulation
 [How to Count Dice Rolls - An Introduction to Dynamic Programming - YouTube](https://www.youtube.com/watch?v=oifN-YVlrq8)
@@ -318,7 +318,7 @@ Non-exact (rounded) results is good enough for many scenarios.
 
 - Fibonacci number
 - Coin change
-- [Knapsack problem](https://omni.wikiwand.com/en/Knapsack_problem)
+- [Knapsack problem](https://www.wikiwand.com/en/Knapsack_problem)
 - Staircase
 
 Decision Problem (Can)
@@ -327,11 +327,11 @@ Optimization Problem (Best)
 
 ## Constraint programming
 
-[Constraint programming - Wikiwand](https://omni.wikiwand.com/en/Constraint_programming)
-[Constraint satisfaction problem - Wikiwand](https://omni.wikiwand.com/en/Constraint_satisfaction_problem)
+[Constraint programming - Wikiwand](https://www.wikiwand.com/en/Constraint_programming)
+[Constraint satisfaction problem - Wikiwand](https://www.wikiwand.com/en/Constraint_satisfaction_problem)
 
-[Satisfiability modulo theories - Wikiwand](https://omni.wikiwand.com/en/Satisfiability_modulo_theories)
-[Z3 Theorem Prover - Wikiwand](https://omni.wikiwand.com/en/Z3_Theorem_Prover)
+[Satisfiability modulo theories - Wikiwand](https://www.wikiwand.com/en/Satisfiability_modulo_theories)
+[Z3 Theorem Prover - Wikiwand](https://www.wikiwand.com/en/Z3_Theorem_Prover)
 [Z3Prover/z3: The Z3 Theorem Prover](https://github.com/Z3Prover/z3)
 [z3-solver · PyPI](https://pypi.org/project/z3-solver/)
 [Python: package z3](https://z3prover.github.io/api/html/z3.html)

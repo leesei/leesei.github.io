@@ -2,7 +2,7 @@
 title: Bicycle
 description: ""
 created: 2015-12-04
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - bicycle
   - science
@@ -19,7 +19,7 @@ tags:
 ### Shimano Groupsets
 
 [Best components for your road bike. | Shimano Road](https://road.shimano.com/)
-[Shimano - Wikiwand](https://omni.wikiwand.com/en/Shimano)
+[Shimano - Wikiwand](https://www.wikiwand.com/en/Shimano)
 
 [Shimano Tiagra Vs. 105 Groupsets Compared | Bike Push](https://bikepush.com/shimano-105-vs-tiagra-groupsets/)
 [Shimano 105 Vs Ultegra Groupsets Reviewed | Bike Push](https://bikepush.com/shimano-105-vs-ultegra-groupsets/)

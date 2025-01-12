@@ -2,7 +2,7 @@
 title: Web Components
 description: ""
 created: 2022-08-23
-updated: 2024-03-12
+updated: 2025-01-09
 tags:
   - web
   - web-components
@@ -14,10 +14,6 @@ tags:
 [Custom Elements Everywhere](https://custom-elements-everywhere.com/) Making sure frameworks and custom elements can be BFFs
 
 [AMP - a web component framework to easily create user-first web experiences - amp.dev](https://amp.dev/)
-
-[Regarding the broken promise of Web Components](https://robdodson.me/regarding-the-broken-promise-of-web-components/)
-[The broken promise of Web Components | A Place Where Even Mammoths Fly](https://dmitriid.com/blog/2017/03/the-broken-promise-of-web-components/)
-[The Story of Web Components - YouTube](https://www.youtube.com/watch?v=fKqgdT-KLrM)
 
 [Building components  |  Articles  |  web.dev](https://web.dev/articles/web-components)
 [Web Components v1 - the next generation  |  Articles  |  web.dev](https://web.dev/articles/webcomponents-org)
@@ -47,7 +43,17 @@ tags:
 
 [hybrids - a framework for the web with unique declarative and functional architecture](https://hybrids.js.org/#/)
 
-[Why I don't use web components - DEV Community](https://dev.to/richharris/why-i-don-t-use-web-components-2cia)
+## Commentaries
+
+[The Story of Web Components - YouTube](https://www.youtube.com/watch?v=fKqgdT-KLrM)
+
+[Regarding the broken promise of Web Components](https://robdodson.me/regarding-the-broken-promise-of-web-components/)
+[The broken promise of Web Components | A Place Where Even Mammoths Fly](https://dmitriid.com/blog/2017/03/the-broken-promise-of-web-components/)
+
+[Why Web Components Failed - YouTube](https://www.youtube.com/watch?v=UrS61kn4gKI)
+[Why I don't use web components - DEV Community](https://dev.to/richharris/why-i-don-t-use-web-components-2cia) Svelte creator
+[Web Components Are Not the Future - DEV Community](https://dev.to/ryansolid/web-components-are-not-the-future-48bh) Solid creator
+
 [Are Web Components Dead?. Recently, I published an article with a… | by Marius Bongarts | Jun, 2022 | Medium](https://levelup.gitconnected.com/are-web-components-dead-12e404e0f4b0)
 
 ## Enhance

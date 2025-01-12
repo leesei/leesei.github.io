@@ -2,7 +2,7 @@
 title: 3D Drawing on the Web
 description: ""
 created: 2016-04-08
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - web
   - web-gl
@@ -21,7 +21,7 @@ tags:
 
 ## WebGL
 
-[WebGL - Wikiwand](https://omni.wikiwand.com/en/WebGL)
+[WebGL - Wikiwand](https://www.wikiwand.com/en/WebGL)
 
 [WebGL Stats](http://webglstats.com/)
 [get.webgl.org](http://get.webgl.org/) test if your browser supports WebGL

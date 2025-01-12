@@ -2,7 +2,7 @@
 title: The Roc Programming Language
 description: A fast, friendly, functional language
 created: 2023-03-25
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - comp/lang
   - package-manager

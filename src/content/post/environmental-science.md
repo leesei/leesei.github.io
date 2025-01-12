@@ -2,7 +2,7 @@
 title: Environmental Science
 description: On climate change and the mitigation, environment protection
 created: 2023-06-28
-updated: 2024-04-17
+updated: 2025-01-09
 tags:
   - climate
   - environment
@@ -35,6 +35,8 @@ tags:
 [CARBON PRICING: What is a carbon credit worth? | The Gold Standard](https://www.goldstandard.org/blog-item/carbon-pricing-what-carbon-credit-worth)
 [CARBON PRICING: Setting an internal price on carbon | The Gold Standard](https://www.goldstandard.org/blog-item/carbon-pricing-setting-internal-price-carbon)
 [CARBON PRICING: Why do prices vary by project type? | The Gold Standard](https://www.goldstandard.org/blog-item/carbon-pricing-why-do-prices-vary-project-type)
+
+[How Tech Companies Are Obscuring AI's Real Carbon Footprint](https://www.itprotoday.com/green-it/how-tech-companies-are-obscuring-ai-s-real-carbon-footprint)
 
 ## Water Harvesting
 

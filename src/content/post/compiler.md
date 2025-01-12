@@ -2,13 +2,13 @@
 title: Compiler
 description: How source code is turned into machine code
 created: 2023-04-14
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - comp/hardware
   - comp/lang
 ---
 
-[Compiler - Wikiwand](https://omni.wikiwand.com/en/Compiler)
+[Compiler - Wikiwand](https://www.wikiwand.com/en/Compiler)
 
 1. Tokenize source into tokens
 2. Parse tokens into AST
@@ -31,16 +31,17 @@ tags:
 
 ## Just In Time Compiler
 
-[Just-in-time compilation - Wikiwand](https://omni.wikiwand.com/en/Just-in-time_compilation)
+[Just-in-time compilation - Wikiwand](https://www.wikiwand.com/en/Just-in-time_compilation)
 
 [Just In Time (JIT) Compilers - Computerphile - YouTube](https://www.youtube.com/watch?v=d7KHAVaX_Rs)
 
 ## Cross Compiler
 
-[Cross compiler - Wikiwand](https://omni.wikiwand.com/en/Cross_compiler)
+[Cross compiler - Wikiwand](https://www.wikiwand.com/en/Cross_compiler)
 [Introduction to cross-compiling for Linux](https://landley.net/writing/docs/cross-compiling.html)
+[交叉编译是什么？在我们已有的 Linux 系统上如何创建一个简单易用的交叉编译环境？希望这一期视频能够帮上大家 - YouTube](https://www.youtube.com/watch?v=zDeBg6BDJC4)
 
-Many modern compiled languages (Go, Rust, Zig) have cross compilation built-in.
+Many modern compiled languages (Go, Rust, Zig) have cross compilation built-in its toolchain.
 
 ### Target Triplet
 
@@ -90,7 +91,7 @@ $ zig targets | jq ".cpus | map_values(keys)"
 
 ## Bootstrapping
 
-[Bootstrapping (compilers) - Wikiwand](<https://omni.wikiwand.com/en/Bootstrapping_(compilers)>)
+[Bootstrapping (compilers) - Wikiwand](<https://www.wikiwand.com/en/Bootstrapping_(compilers)>)
 [Bootstrapping in Compiler Design - GeeksforGeeks](https://www.geeksforgeeks.org/bootstrapping-in-compiler-design/)
 
 From a compiler that I trust, to a compiler (or toolchain) that can compile source code that I have.
@@ -102,7 +103,7 @@ From a compiler that I trust, to a compiler (or toolchain) that can compile sour
 [trust_stack_slides.pdf](http://web.mit.edu/6.033/2014/wwwdocs/assignments/quizzes/trust_stack_slides.pdf)
 [Countering "Trusting Trust" - Schneier on Security](https://www.schneier.com/blog/archives/2006/01/countering_trus.html)
 [Reflections on Trusting Trust](https://www.win.tue.nl/~aeb/linux/hh/thompson/trust.html)
-[Backdoor (computing) - Wikiwand](https://omni.wikiwand.com/en/Trusting%20trust)
+[Backdoor (computing) - Wikiwand](https://www.wikiwand.com/en/Trusting%20trust)
 
 ## C
 
@@ -134,7 +135,7 @@ gcc -### -march=native /usr/include/stdlib.h
 
 > LLVM defines an intermediate representation (IR) and a backend that targets and optimizes for any instruction set architecture (ISA)
 
-[LLVM - Wikiwand](https://omni.wikiwand.com/en/LLVM)
+[LLVM - Wikiwand](https://www.wikiwand.com/en/LLVM)
 [The LLVM Compiler Infrastructure Project](http://llvm.org/)
 [LLVM | Everything I Know](https://wiki.nikiv.dev/compilers/llvm)
 
@@ -171,7 +172,7 @@ gcc -### -march=native /usr/include/stdlib.h
 > Clang is the C frontend for LLVM
 
 [Clang C Language Family Frontend for LLVM](https://clang.llvm.org/)
-[Clang - Wikiwand](https://omni.wikiwand.com/en/Clang)
+[Clang - Wikiwand](https://www.wikiwand.com/en/Clang)
 
 [c++ - LLVM vs clang on OS X - Stack Overflow](https://stackoverflow.com/questions/5708610/llvm-vs-clang-on-os-x)
 [GCC 11 vs. LLVM Clang 12 Compilers On The AMD EPYC 7763 - Phoronix](https://www.phoronix.com/review/gcc11-clang12-epyc7763)

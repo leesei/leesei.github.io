@@ -2,7 +2,7 @@
 title: Container Ecosystem
 description: ""
 created: 2014-12-11
-updated: 2024-09-23
+updated: 2025-01-09
 tags:
   - container
   - dev/deploy
@@ -58,7 +58,7 @@ tags:
 [Linux Containers - LXC - Getting started](https://linuxcontainers.org/lxc/getting-started/)
 [Linux Containers - LXD - Introduction](https://linuxcontainers.org/lxd/introduction/) This is the Docker Engine equivalent
 [LXC 1.0: Blog post series [0/10] | Stéphane Graber's website](https://www.stgraber.org/2013/12/20/lxc-1-0-blog-post-series/)
-[LXC - Wikiwand](http://omni.wikiwand.com/en/LXC)
+[LXC - Wikiwand](http://www.wikiwand.com/en/LXC)
 [LXC vs Docker comparison criteria deep dive - Robin Systems](https://robinsystems.com/blog/containers-deep-dive-lxc-vs-docker-comparison/)
 [Docker vs Singularity vs Shifter vs UGE Container Edition](https://tin6150.github.io/psg/blogger_container_hpc.html)
 
@@ -353,6 +353,9 @@ Compared to the Docker Engine, containerd exposes essentially a CRUD interface a
 [A Field Guide to Docker Security Measures – zwischenzugs](https://zwischenzugs.com/2015/05/21/a-field-guide-to-docker-security-measures/)
 
 [The Evolution of Docker Container Security: Part I](http://www.itprotoday.com/cloud-data-center/evolution-docker-container-security-part-1)
+[The Evolution of Docker Container Security: Part 2](https://www.itprotoday.com/server-virtualization/the-evolution-of-docker-container-security-part-2)
+[The Evolution of Docker Container Security: Part 3](https://www.itprotoday.com/devops/the-evolution-of-docker-container-security-part-3)
+[10 Container Security Best Practices for Linux Users](https://www.itprotoday.com/linux-os/10-ways-to-harden-your-linux-containers-against-attacks)
 
 [Docker - Introduction to User Namespaces in Docker Engine](https://success.docker.com/KBase/Introduction_to_User_Namespaces_in_Docker_Engine)
 [Docker Security: Best Practices for your Vessel & Containers](http://linux-audit.com/docker-security-best-practices-for-your-vessel-and-containers/)

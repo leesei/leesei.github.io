@@ -2,18 +2,18 @@
 title: Dungeons & Dragons
 description: ""
 created: 2015-12-15
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - boardgame
   - games
 ---
 
-[Dungeons & Dragons - Wikiwand](https://omni.wikiwand.com/en/Dungeons_%26_Dragons)
-[List of Dungeons & Dragons rulebooks - Wikiwand](https://omni.wikiwand.com/en/List_of_Dungeons_%26_Dragons_rulebooks)
-[Dungeons & Dragons rulebooks - Wikiwand](http://omni.wikiwand.com/en/Dungeons_%26_Dragons_rulebooks)
-[d20 System - Wikiwand](http://omni.wikiwand.com/en/D20_System)
-[d20 Modern - Wikiwand](http://omni.wikiwand.com/en/D20_Modern)
-[d20 Future - Wikiwand](http://omni.wikiwand.com/en/D20_Future)
+[Dungeons & Dragons - Wikiwand](https://www.wikiwand.com/en/Dungeons_%26_Dragons)
+[List of Dungeons & Dragons rulebooks - Wikiwand](https://www.wikiwand.com/en/List_of_Dungeons_%26_Dragons_rulebooks)
+[Dungeons & Dragons rulebooks - Wikiwand](http://www.wikiwand.com/en/Dungeons_%26_Dragons_rulebooks)
+[d20 System - Wikiwand](http://www.wikiwand.com/en/D20_System)
+[d20 Modern - Wikiwand](http://www.wikiwand.com/en/D20_Modern)
+[d20 Future - Wikiwand](http://www.wikiwand.com/en/D20_Future)
 
 [D&D Official Homepage | Dungeons & Dragons](https://dnd.wizards.com/)
 
@@ -33,8 +33,8 @@ tags:
 ## Character Alignment
 
 [Why They Fight](http://www.imaginaryworldspodcast.org/why-they-fight.html)
-[Alignment (role-playing games) - Wikiwand](<http://omni.wikiwand.com/en/Alignment_(role-playing_games)>)
-[Alignment (Dungeons & Dragons) - Wikiwand](<http://omni.wikiwand.com/en/Alignment_(Dungeons_%26_Dragons)>)
+[Alignment (role-playing games) - Wikiwand](<http://www.wikiwand.com/en/Alignment_(role-playing_games)>)
+[Alignment (Dungeons & Dragons) - Wikiwand](<http://www.wikiwand.com/en/Alignment_(Dungeons_%26_Dragons)>)
 [How to Choose and Correctly Role Play Your Alignment in Dungeons and Dragons V3.5](http://www.wikihow.com/Choose-and-Correctly-Role-Play-Your-Alignment-in-Dungeons-and-Dragons-V3.5)
 
 ## Playthrough

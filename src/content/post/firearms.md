@@ -2,41 +2,54 @@
 title: Firearms
 description: Weapons with gun powder
 created: 2015-06-13
-updated: 2024-09-01
+updated: 2025-01-10
 tags:
   - weapons
 ---
 
-> TODO: separate out `military`/[Armoured fighting vehicle](https://omni.wikiwand.com/en/Armoured_fighting_vehicle)?
+> TODO: separate out `military`/[Armoured fighting vehicle](https://www.wikiwand.com/en/Armoured_fighting_vehicle)?
 
-[Firearm - Wikiwand](https://omni.wikiwand.com/en/Firearm)
-[History of the firearm - Wikiwand](https://omni.wikiwand.com/en/History_of_the_firearm)
+[Military Wiki | Fandom](https://military-history.fandom.com/wiki/Main_Page)
+
+[Firearm - Wikiwand](https://www.wikiwand.com/en/Firearm)
+[History of the firearm - Wikiwand](https://www.wikiwand.com/en/History_of_the_firearm)
 [How a Handgun Works: 1911 .45 - Animagraffs](http://animagraffs.com/how-a-handgun-works-1911-45/)
+[M1911，手槍之王！服役時間最長的手槍，美軍士兵的最愛！擊落零式戰機，戰爭史上的奇跡！點45與9毫米之爭，哪個更好用？| 勃朗寧 | 柯爾特 | M1900 | M9 | 火力君 | - YouTube](https://www.youtube.com/watch?v=UCFBiU8Nycs)
 [Firearms Channel - HowStuffWorks](http://science.howstuffworks.com/firearms-channel.htm)
-[火力就是正義（資訊頻道） - YouTube](https://www.youtube.com/@Mr.F)
-[火力施密特 - YouTube](https://www.youtube.com/@Schmitt)
-[Forgotten Weapons - YouTube](https://www.youtube.com/@ForgottenWeapons)
-[Backyard Ballistics - YouTube](https://www.youtube.com/@Backyard.Ballistics)
-[Garand Thumb - YouTube](https://www.youtube.com/@GarandThumb)
-[Task & Purpose - YouTube](https://www.youtube.com/@Taskandpurpose)
-[Dark Tech - YouTube](https://www.youtube.com/@darktech4621/videos)
-[InRangeTV - YouTube](https://www.youtube.com/@InrangeTv)
 
-[Cursed Guns Serie - YouTube](https://www.youtube.com/playlist?list=PLmJ2tl71-4QUccyU4Thsrn4_OgmR8gdOF)
+[Backyard Ballistics - YouTube](https://www.youtube.com/@Backyard.Ballistics)
+[Brandon Herrera - YouTube](https://www.youtube.com/@BrandonHerrera)
+[Forgotten Weapons - YouTube](https://www.youtube.com/@ForgottenWeapons)
+[Garand Thumb - YouTube](https://www.youtube.com/@GarandThumb)
+[InRangeTV - YouTube](https://www.youtube.com/@InrangeTv)
+[Military History Visualized - YouTube](https://www.youtube.com/@MilitaryHistoryVisualized)
+[TFB TV - YouTube](https://www.youtube.com/tfbtv)
+[The Armchair Historian - YouTube](https://www.youtube.com/@TheArmchairHistorian)
+[The Most - YouTube](https://www.youtube.com/@themost9058) 3D animation
+[Civilian Use Only - YouTube](https://www.youtube.com/@civilianuseonly)
+[Blue Paw Print - YouTube](https://www.youtube.com/@BluePawPrint)
+
+[Cursed Guns Series - YouTube](https://www.youtube.com/playlist?list=PLmJ2tl71-4QUccyU4Thsrn4_OgmR8gdOF)
 [Firearms History - YouTube](https://www.youtube.com/playlist?list=PLkaaNLbRcosmUxuz0CXGsNrz0fYeQ6tL2) LionHeart FilmWorks
 [Evolution of Battlefield Technology - YouTube](https://www.youtube.com/playlist?list=PLxZAPogJjW_iTuwOb-0QGY9-LZtYtZM1v) Our History, machines
-
 [Guns! - YouTube](https://www.youtube.com/playlist?list=PLBC8A83AD41790AB0) SmarterEveryDay
-[GUNS: Everything You Need to Know (Special) - YouTube](https://www.youtube.com/watch?v=GqX2utKCc2w)
-
 [Balancing Arms - YouTube](https://www.youtube.com/playlist?list=PLNAD3PNmsLmkjinU78E7xXEviIfeIPgH_) Arch, guns in gaming
+
+[GUNS: Everything You Need to Know (Special) - YouTube](https://www.youtube.com/watch?v=GqX2utKCc2w)
 
 More on military vehicles
 [AiTelly - YouTube](https://www.youtube.com/@Aitelly)
 [Armor Cast - YouTube](https://www.youtube.com/@ArmorCast)
-[Not What You Think - YouTube](https://www.youtube.com/@NotWhatYouThink)
-[名将榜 - YouTube](https://www.youtube.com/@agl)
 [CRAZY262 - YouTube](https://www.youtube.com/@CRAZY-fu9pj)
+[Found And Explained - YouTube](https://www.youtube.com/@FoundAndExplained)
+[Hunt武器局 - YouTube](https://www.youtube.com/@Hunt_No.2)
+[Not What You Think - YouTube](https://www.youtube.com/@NotWhatYouThink)
+[Task & Purpose - YouTube](https://www.youtube.com/@Taskandpurpose)
+[Tech - YouTube](https://www.youtube.com/@DarkMilitaryTech)
+[兵器說 - YouTube](https://www.youtube.com/@armssay)
+[名将榜 - YouTube](https://www.youtube.com/@agl)
+[火力就是正義（資訊頻道） - YouTube](https://www.youtube.com/@Mr.F)
+[火力施密特 - YouTube](https://www.youtube.com/@HuoLiShiMiTe)
 
 [Fuels, Explosives and Propellants: What's the difference? - YouTube](https://www.youtube.com/watch?v=HEhH7735gSs)
 
@@ -75,8 +88,8 @@ Ahoy
 
 ## Ignition
 
-[Flintlock - Wikiwand](https://omni.wikiwand.com/en/Flintlock)
-[Percussion cap - Wikiwand](https://omni.wikiwand.com/en/Percussion_cap)
+[Flintlock - Wikiwand](https://www.wikiwand.com/en/Flintlock)
+[Percussion cap - Wikiwand](https://www.wikiwand.com/en/Percussion_cap)
 
 火繩槍
 燧火槍, 明朝
@@ -84,34 +97,36 @@ Ahoy
 
 ## Gunpowder
 
-[Gunpowder - Wikiwand](https://omni.wikiwand.com/en/Gunpowder) Black power, mixture sulfur (S), charcoal (C), and potassium nitrate (saltpeter, KNO3). Finely grained powder are pressed to form corned serpentine powder.
+[Gunpowder - Wikiwand](https://www.wikiwand.com/en/Gunpowder) Black power, mixture sulfur (S), charcoal (C), and potassium nitrate (saltpeter, KNO3). Finely grained powder are pressed to form corned serpentine powder.
 
-[Nitrocellulose - Wikiwand](https://omni.wikiwand.com/en/Nitrocellulose) guncotton, flash paper
-[Smokeless powder - Wikiwand](https://omni.wikiwand.com/en/Smokeless_powder) less residue, more energy
+[Nitrocellulose - Wikiwand](https://www.wikiwand.com/en/Nitrocellulose) guncotton, flash paper
+[Smokeless powder - Wikiwand](https://www.wikiwand.com/en/Smokeless_powder) less residue, more energy
 Fulminate
 Cordite, mix of nitrocellulose and nitroglycerin
 
 [The Science of Fireworks! - YouTube](https://www.youtube.com/watch?v=rmtK2BgmGCw)
-[Fireworks and Waterworks - with Andrew Szydlo - YouTube](https://youtu.be/HRBVfqhPQQ8?t=1612)
+[Fireworks and Waterworks - with Andrew Szydlo - YouTube](https://youtu.be/HRBVfqhPQQ8)
+[The Hidden Science of Fireworks - YouTube](https://www.youtube.com/watch?v=lfkjm2YRG-Q)
+
 [The Chemistry of Fire and Gunpowder - with Andrew Szydlo - YouTube](https://www.youtube.com/watch?v=OYZT3opLedc)
 [Why aren't bullets sharp? - Quora](https://www.quora.com/Why-arent-bullets-sharp)
-[Niter - Wikiwand](https://omni.wikiwand.com/en/Niter)saltpeter, potassium nitrate, serves a an oxidizer
-[硝石 - Wikiwand](https://omni.wikiwand.com/zh/%E7%A1%9D%E7%9F%B3)
+[Niter - Wikiwand](https://www.wikiwand.com/en/Niter)saltpeter, potassium nitrate, serves a an oxidizer
+[硝石 - Wikiwand](https://www.wikiwand.com/zh/%E7%A1%9D%E7%9F%B3)
 
 ## Dynamite
 
-[Dynamite - Wikiwand](https://omni.wikiwand.com/en/Dynamite) a stablized nitroglycerin
-[TNT - Wikiwand](https://omni.wikiwand.com/en/TNT)
-[Nitroglycerin - Wikiwand](https://omni.wikiwand.com/en/Nitroglycerin)
-[Alfred Nobel - Wikiwand](https://omni.wikiwand.com/en/Alfred_Nobel#/Inventions) Nobel invented dynamite, which is used in wars and he wanted to make good by setting up Nobel Prize at his will
+[Dynamite - Wikiwand](https://www.wikiwand.com/en/Dynamite) a stablized nitroglycerin
+[TNT - Wikiwand](https://www.wikiwand.com/en/TNT)
+[Nitroglycerin - Wikiwand](https://www.wikiwand.com/en/Nitroglycerin)
+[Alfred Nobel - Wikiwand](https://www.wikiwand.com/en/Alfred_Nobel#/Inventions) Nobel invented dynamite, which is used in wars and he wanted to make good by setting up Nobel Prize at his will
 
 ## Ammo/Cartridge
 
-[Ammunition - Wikiwand](https://omni.wikiwand.com/en/Ammunition)
-[Cartridge (firearms) - Wikiwand](<https://omni.wikiwand.com/en/Cartridge_(firearms)>) shell/case (casing for gun powder) + primer + propellent + bullet
+[Ammunition - Wikiwand](https://www.wikiwand.com/en/Ammunition)
+[Cartridge (firearms) - Wikiwand](<https://www.wikiwand.com/en/Cartridge_(firearms)>) shell/case (casing for gun powder) + primer + propellent + bullet
 [Category:Pistol and rifle cartridges - Wikipedia](https://en.wikipedia.org/wiki/Category:Pistol_and_rifle_cartridges?oldformat=true)
 
-[Caliber - Wikiwand](https://omni.wikiwand.com/en/Caliber) of the bore (or equivalently the bullet)
+[Caliber - Wikiwand](https://www.wikiwand.com/en/Caliber) of the bore (or equivalently the bullet)
 [The Weird Ways Games Use Calibers - Loadout - YouTube](https://www.youtube.com/watch?v=webwt79nI1k)
 .50 cal = 12.7mm
 .308 cal = 7.62mm
@@ -133,7 +148,7 @@ Lead ball
 
 ### Solid Lead Bullet
 
-[Minié ball - Wikiwand](https://omni.wikiwand.com/en/Minié_ball)
+[Minié ball - Wikiwand](https://www.wikiwand.com/en/Minié_ball)
 
 "Laws of War" of Hague Peace Conference in 1899 banned the use of solid lead bullets, which expand or flatten easily in the human body, transferring most of its kinetic energy to the target and causing grievous harm.
 
@@ -176,13 +191,18 @@ Recoil Action (mid 1900): the expanded gas in the barrel is used push the lever 
 Blow Back Action (mid 1900):
 Fully Automatic: load, pull and hold the trigger until your magazine is empty. Advanced design will also route the exhaust upwards to suppress the recoil.
 
-[Trigger (firearms) - Wikiwand](<http://omni.wikiwand.com/en/Trigger_(firearms)>)
+Fix barrel (not using gas?)
+Toggle Delayed
+
+[Toggle Action Guns - YouTube](https://www.youtube.com/playlist?list=PL9e3UCcU00TTMpD_JlvZDh4nXSzyfPwZ5)
+
+[Trigger (firearms) - Wikiwand](<http://www.wikiwand.com/en/Trigger_(firearms)>)
 Single Action: the trigger only releases the lever, the lever has to be manually loaded
 Double Action: the trigger pulls the lever back and releases it
 Single action triggers should provide more accuracy (as the aim is not affected by the sudden release of the spring)
 [Single- and double-action revolvers - YouTube](https://www.youtube.com/watch?v=dggcZeGbVvo)
 
-[【不止遊戲】MP5 是如何成為經典之作的？ - YouTube](https://www.youtube.com/watch?v=txTqu6vlahE)
+[【不止遊戲】MP5 是如何成為經典之作的？ - YouTube](https://www.youtube.com/watch?v=txTqu6vlahE) German SMG, more on automatic SMG
 
 ## Recoil
 
@@ -193,8 +213,8 @@ Single action triggers should provide more accuracy (as the aim is not affected 
 
 > closing of chamber to capture the expanded gas and turning it to thrust
 
-[Breechblock - Wikiwand](https://omni.wikiwand.com/en/Breechblock)
-[Chamber (firearms) - Wikiwand](<https://omni.wikiwand.com/en/Breech_(firearms)>) aka breech
+[Breechblock - Wikiwand](https://www.wikiwand.com/en/Breechblock)
+[Chamber (firearms) - Wikiwand](<https://www.wikiwand.com/en/Breech_(firearms)>) aka breech
 
 ## Revolvers
 
@@ -202,14 +222,14 @@ Single action triggers should provide more accuracy (as the aim is not affected 
 
 ## Long Guns
 
-[Rifle - Wikiwand](https://omni.wikiwand.com/en/rifle)
-[步枪 - Wikiwand](https://omni.wikiwand.com/zh/%E6%AD%A5%E6%9E%AA)
+[Rifle - Wikiwand](https://www.wikiwand.com/en/rifle)
+[步枪 - Wikiwand](https://www.wikiwand.com/zh/%E6%AD%A5%E6%9E%AA)
 
-[Arquebus - Wikiwand](https://omni.wikiwand.com/en/Arquebus) ~1500, mussel loaded, slow match ignition, smoothbore (滑膛)
-[Musket - Wikiwand](https://omni.wikiwand.com/en/musket) mussel loaded, flintlock ignition, paper cartridge, most likely smoothbore
+[Arquebus - Wikiwand](https://www.wikiwand.com/en/Arquebus) ~1500, mussel loaded, slow match ignition, smoothbore (滑膛)
+[Musket - Wikiwand](https://www.wikiwand.com/en/musket) mussel loaded, flintlock ignition, paper cartridge, most likely smoothbore
 Mussel loading Musket (early 1700 - early 1800)
 Mussel loading Rifle (early 1700)
-Mussel loading Rifle (~1850) using Percussion Cap and [Minié ball](https://omni.wikiwand.com/en/Mini%C3%A9_ball)
+Mussel loading Rifle (~1850) using Percussion Cap and [Minié ball](https://www.wikiwand.com/en/Mini%C3%A9_ball)
 Lever/Bolt Action Repeating Rifle also appeared in ~1860
 Bolt Action Repeating Rifle was widely used in WW I(~1900) and WW II(~1940) Springfield M1903, Kar98k
 [How a Kar98k Works - YouTube](https://www.youtube.com/watch?v=igNcDEEl5to)
@@ -225,15 +245,15 @@ Fully Automatic M16 Assault Rifle (~1960) and AK47 (~1950)
 
 ## Carbine
 
-[Carbine - Wikiwand](https://omni.wikiwand.com/en/Carbine)
-[卡宾枪 - Wikiwand](https://omni.wikiwand.com/zh/%E5%8D%A1%E5%AE%BE%E6%9E%AA)
+[Carbine - Wikiwand](https://www.wikiwand.com/en/Carbine)
+[卡宾枪 - Wikiwand](https://www.wikiwand.com/zh/%E5%8D%A1%E5%AE%BE%E6%9E%AA)
 
 Overlaps with Assault Rifle and SMG
 
 ## Assault Rifle
 
-[Assault rifle - Wikiwand](https://omni.wikiwand.com/en/Assault%20rifle)
-[突击步枪 - Wikiwand](https://omni.wikiwand.com/zh/%E7%AA%81%E6%93%8A%E6%AD%A5%E6%A7%8D)
+[Assault rifle - Wikiwand](https://www.wikiwand.com/en/Assault%20rifle)
+[突击步枪 - Wikiwand](https://www.wikiwand.com/zh/%E7%AA%81%E6%93%8A%E6%AD%A5%E6%A7%8D)
 
 uses rifle calibers (.30-.40) with reduced firepower
 speed and magazine size of a submachine gun + power and range of a rifle
@@ -245,13 +265,23 @@ German's STG44 (MP43/MP44) is the grandfather of modern assault rifles
 [Evolution of the Sturmgewehr: MP43/1, MP43, MP44, and StG44 - YouTube](https://www.youtube.com/watch?v=UXkpFajH66A)
 [WW2 Mauser Becomes Heckler & Koch: the StG-45(M), or Gerat 06H - YouTube](https://www.youtube.com/watch?v=NrKhJC35QRA)
 
+Belgian FN FAL
+[美國士兵更喜歡M-16還是FN FAL？足以抗衡AK47的世界名槍，外號自由世界的右臂，曾經北約的標準步槍，僱傭兵最愛，差點擊敗M14，俄烏戰爭還在用！|冷戰|步槍|輕武器|歷史|軍事 - YouTube](https://www.youtube.com/watch?v=CTvw7aw4WLE)
+
 US M16/M4A1, AR-15
 [How an AR-15 Works - YouTube](https://www.youtube.com/watch?v=omv85cLfmxU)
+[世界最強步槍AR-15，遠超AK系列！為何AR-15步槍具有統治地位？1950年代設計的步槍能用至少一百年！|AR-15|M-4|M-16|AK-47|尤金斯通納| - YouTube](https://www.youtube.com/watch?v=ZAlG7Bo5ohw)
+
+German HK416 (modified AR-15)
+[HK416，真正的特種部隊之槍！三角洲御用槍械，暢銷歐洲多國！擊斃兩大頭目，真正的槍中鬼見愁！|HK416|海豹突擊隊|HK416F|HK416N|活塞式自動步槍| - YouTube](https://www.youtube.com/watch?v=bKuwiOTjuF8)
 
 Russian RPK, AK-47
 [【不止遊戲】AK-47 究竟有多經典？ - YouTube](https://www.youtube.com/watch?v=7BwjbKezR7c)
 [【不止遊戲】究竟如何區分如此多的 AK 型號？ - YouTube](https://www.youtube.com/watch?v=ln7P5R0-W5Q)
+[為什麼都喜歡魔改AK47，AK-47步槍，20世紀世界十大名槍之首！AM-47產量上億支，足跡遍佈全球，步槍之王！AK-47 VS M16，越南戰場實戰！| 氣吹式 | AKM | AK-74 | - YouTube](https://www.youtube.com/watch?v=QXa6WENHT1c)
 [Why Almost All Fighters Use The AK-47 - YouTube](https://www.youtube.com/watch?v=Ywp_wokASZI)
+
+[槍口上跳嚴重的AUG步槍，如何成為世界10大知名步槍之一？史上第一款大規模列裝的無託式步槍，開啟全球無託時代|武器|歷史|步槍 - YouTube](https://www.youtube.com/watch?v=nGw-df3nQlI)
 
 [M16A2/A4 vs AR-15 - How Do They Compare and What's the Difference? - YouTube](https://www.youtube.com/watch?v=RLV2aTCyPYA)
 
@@ -265,8 +295,8 @@ Machine guns are to provide high volume of sustained fire, often at the expense 
 Uses the recoil to load the ammo
 Heated barrel are replaced
 
-[Submachine gun - Wikiwand](https://omni.wikiwand.com/en/Submachine%20gun)
-[冲锋枪 - Wikiwand](https://omni.wikiwand.com/zh/%E8%A1%9D%E9%8B%92%E6%A7%8D)
+[Submachine gun - Wikiwand](https://www.wikiwand.com/en/Submachine%20gun)
+[冲锋枪 - Wikiwand](https://www.wikiwand.com/zh/%E8%A1%9D%E9%8B%92%E6%A7%8D)
 
 [machine gun | History, Description, & Facts | Britannica](https://www.britannica.com/technology/machine-gun)
 [Machine-guns: light, medium, heavy, or sub? - YouTube](https://www.youtube.com/watch?v=ivYlHU0Zi-I)
@@ -305,7 +335,7 @@ Black Powder undermining
 Dynamite undermining
 Dynamite = Nitro-glycerin + silicon
 
-## Granades
+## Grenades
 
 [All Types of Grenades Explained - YouTube](https://www.youtube.com/watch?v=uxvDhmecoYQ)
 
@@ -316,25 +346,27 @@ Dynamite = Nitro-glycerin + silicon
 
 ## Handheld Rocket
 
-[Rocket launcher - Wikiwand](https://omni.wikiwand.com/en/Rocket_launcher)
-[火箭彈發射器 - Wikiwand](https://omni.wikiwand.com/zh/%E7%81%AB%E7%AE%AD%E5%BC%B9%E5%8F%91%E5%B0%84%E5%99%A8)
+[Rocket launcher - Wikiwand](https://www.wikiwand.com/en/Rocket_launcher)
+[火箭彈發射器 - Wikiwand](https://www.wikiwand.com/zh/%E7%81%AB%E7%AE%AD%E5%BC%B9%E5%8F%91%E5%B0%84%E5%99%A8)
 
-[Bazooka - Wikiwand](https://omni.wikiwand.com/en/Bazooka)
-[巴祖卡火箭筒 - Wikiwand](https://omni.wikiwand.com/zh/%E5%B7%B4%E7%A5%96%E5%8D%A1%E7%81%AB%E7%AE%AD%E7%AD%92)
+[Bazooka - Wikiwand](https://www.wikiwand.com/en/Bazooka)
+[巴祖卡火箭筒 - Wikiwand](https://www.wikiwand.com/zh/%E5%B7%B4%E7%A5%96%E5%8D%A1%E7%81%AB%E7%AE%AD%E7%AD%92)
 [【不止遊戲】你敢信？最常見到的「火箭筒」竟然不是火箭筒啊！ - YouTube](https://www.youtube.com/watch?v=Qr5wtxxy6DA)
 Bazooka: 以彈頭的火箭為發射動力
 
-[Rocket-propelled grenade - Wikiwand](https://omni.wikiwand.com/en/Rocket-propelled_grenade)
-[火箭推進榴彈 - Wikiwand](https://omni.wikiwand.com/zh/%E7%81%AB%E7%AE%AD%E6%8E%A8%E9%80%B2%E6%A6%B4%E5%BD%88)
-[RPG-7 - Wikiwand](https://omni.wikiwand.com/zh/RPG-7)
+[Rocket-propelled grenade - Wikiwand](https://www.wikiwand.com/en/Rocket-propelled_grenade)
+[火箭推進榴彈 - Wikiwand](https://www.wikiwand.com/zh/%E7%81%AB%E7%AE%AD%E6%8E%A8%E9%80%B2%E6%A6%B4%E5%BD%88)
+[RPG-7 - Wikiwand](https://www.wikiwand.com/zh/RPG-7)
 
 ## Tank
 
 [Tank Encyclopedia, the first online tank museum](https://tanks-encyclopedia.com/)
 [Tanks | Usborne Quicklinks | Be Curious](https://usborne.com/row/quicklinks/quicklink/11137-tanks)
+[Tank Wiki | Fandom](https://tank.fandom.com/wiki/Tank_Wiki)
 
-[ConeOfArc - YouTube](https://www.youtube.com/@ConeOfArc)
+[ConeOfArc - YouTube](https://www.youtube.com/@ConeOfArc) mostly on Tanks
 
+[Home - The Tank Museum](https://tankmuseum.org/)
 [The Tank Museum - YouTube](https://www.youtube.com/@thetankmuseum)
 [How did tank guns get so deadly? | Evolution of Firepower - YouTube](https://www.youtube.com/watch?v=8XWAktvFZGI)
 [What Tank Armour Can (& Can't) Do | Evolution of Armour - YouTube](https://www.youtube.com/watch?v=_hRVefl2M0k)
@@ -344,23 +376,35 @@ Bazooka: 以彈頭的火箭為發射動力
 [Evolution of Russian Tanks | Animated History - YouTube](https://www.youtube.com/watch?v=LyJSsv3KFpM)
 [These Are the Largest Tanks Ever Designed - YouTube](https://www.youtube.com/watch?v=WtblYGKCaRs)
 
+[【軍備科技樹】英國坦克發展史第一期，馬克Ⅰ型，拖拉機廠製造，現代坦克的鼻祖，一戰後歐洲列強軍備競賽的結果 #兵器說 坦克｜一戰 - YouTube](https://www.youtube.com/watch?v=QY6gJCkbls0)
+[坦克上的機槍，無用？高射機槍，坦克必備武器！同軸機槍、前列機槍、高射機槍，分別在哪？| M1A2 | M240 | M2HB | T-34 | T-72 | 火力君 | - YouTube](https://www.youtube.com/watch?v=gkjf0MwZDuY)
+
+[【不止遊戲】謝爾曼坦克有什麼有趣的細節？ - YouTube](https://www.youtube.com/watch?v=kWhT3LCt500)
+
 [大名鼎鼎的虎式坦克，為何不使用傾斜裝甲，是設計師盲目自大嗎？ - YouTube](https://www.youtube.com/watch?v=wZpLZAnehuw)
 [德國豹式坦克，二戰坦克巔峰之作，專為剋制 T-34 而生 - YouTube](https://www.youtube.com/watch?v=2qnjy7nV5Oo)
 
-[T-34 - Wikiwand](https://omni.wikiwand.com/en/T-34)
-[T-72 - Wikiwand](https://omni.wikiwand.com/en/T-72)
+[T-34 - Wikiwand](https://www.wikiwand.com/en/T-34)
+[T-72 - Wikiwand](https://www.wikiwand.com/en/T-72)
+[Stalin's Bunker Buster, The Story of the KV-2 | Cursed By Design - YouTube](https://www.youtube.com/watch?v=F0_dHpyYN-Y)
 [Was the T-34 Really the Best Tank of WW2? - YouTube](https://www.youtube.com/watch?v=iK73kRstoPg)
 
 [【世界最先進主戰坦克 評測】都说自己是第一，究竟誰更強？ M1 主戰坦克 、T-90 主戰坦克、豹 2 主戰坦克、挑戰者主戰坦克、T-14 主戰坦克、阿瓊主戰坦克、勒克萊爾主戰坦克 - YouTube](https://www.youtube.com/watch?v=f1XJyWSr7y0)
-[【俄制坦克究竟有多差？】俄軍坦克在烏克蘭殘骸遍地！為何俄制坦克總被開罐？ - YouTube](https://www.youtube.com/watch?v=UlF6zZNItAc)
-[【M1 坦克堅持人工裝彈的原因】美軍 M1 系列坦克為何不用自動裝彈機？詳解 M1 坦克火力系統！ - YouTube](https://www.youtube.com/watch?v=FZLZ1eN3XZ4)
+
 [The Insane Engineering of the M1 Abrams - YouTube](https://www.youtube.com/watch?v=NR5pWBy-6Fk)
+[M1坦克40年無敵路，坐著真皮打蘇俄坦克，最完美的美系坦克，海灣戰爭橫掃伊拉克裝甲集團，2000米擊穿2輛蘇系T-72 | 豹式 | M60 | 巴頓 | - YouTube](https://www.youtube.com/watch?v=iCxI0roxgqs)
+[美軍M1「艾布拉姆斯」坦克被長期低估，實際戰力世界領先，M1A2T坦克不可小覷【裝備資訊】#m1a2abrams #m1abrams - YouTube](https://www.youtube.com/watch?v=GBgqNVWsZw8)
+[【M1 坦克堅持人工裝彈的原因】美軍 M1 系列坦克為何不用自動裝彈機？詳解 M1 坦克火力系統！ - YouTube](https://www.youtube.com/watch?v=FZLZ1eN3XZ4)
 
-## Anti-Armor/Armor Piercing ammo
+[【俄制坦克究竟有多差？】俄軍坦克在烏克蘭殘骸遍地！為何俄制坦克總被開罐？ - YouTube](https://www.youtube.com/watch?v=UlF6zZNItAc)
 
-[Armour-piercing ammunition - Wikiwand](https://omni.wikiwand.com/en/Armour-piercing_ammunition)
-[穿甲弹 - Wikiwand](https://omni.wikiwand.com/zh/%E7%A9%BF%E7%94%B2%E5%BC%B9)
-[Armour-piercing, capped, ballistic capped shell - Wikiwand](https://omni.wikiwand.com/en/Armour-piercing,_capped,_ballistic_capped_shell)
+[失去炮塔，反而變更強？瑞典Strv 103主戰坦克，M1艾布拉姆斯都要學它！ - YouTube](https://www.youtube.com/watch?v=1kqstUKg7h8)
+
+## Anti-Armor/Armor Piercing
+
+[Armour-piercing ammunition - Wikiwand](https://www.wikiwand.com/en/Armour-piercing_ammunition)
+[穿甲弹 - Wikiwand](https://www.wikiwand.com/zh/%E7%A9%BF%E7%94%B2%E5%BC%B9)
+[Armour-piercing, capped, ballistic capped shell - Wikiwand](https://www.wikiwand.com/en/Armour-piercing,_capped,_ballistic_capped_shell)
 [A Guide to Tank Ammo | Koala Explains: Tank Ammunition Types and their Differences - YouTube](https://www.youtube.com/watch?v=01eqS2K0aTQ)
 
 [Why do modern tanks have smoothbore main guns? - YouTube](https://www.youtube.com/watch?v=1kch8uIoJrY) ❗!important
@@ -371,24 +415,27 @@ smoothbore is preferred for APCR and APDS
 Kinetic shells pierce the armor via kinetic energy:
 穿甲彈 (Armor Piercing, AP): pierce armor with hardness and momentum, with explosives inside to further damage crews, 尖頭穿甲彈 can easily be deflected with inclined armor
 被帽穿甲彈/鈍頭穿甲彈 (Armor Piercing Capped, APC): cap made of softer steel added, it will deform and normalize the shell to reduce the armor thickness needed to penetrate
-風帽被帽穿甲彈 (Armor Piercing Capped Ballistic Capped, APCPC): 被帽穿甲彈 is more effective but not aerodynamic; 空心風帽 (Ballistic Cap) is added to reduce drag
-[Armour-piercing, capped, ballistic capped shell - Wikiwand](https://omni.wikiwand.com/en/Armour-piercing,_capped,_ballistic_capped_shell)
+風帽被帽穿甲彈 (Armor Piercing Capped Ballistic Capped, APCBC): 被帽穿甲彈 is more effective against armor but not aerodynamic; 空心風帽 (Ballistic Cap, BC) is added to reduce drag
+[Armour-piercing, capped, ballistic capped shell - Wikiwand](https://www.wikiwand.com/en/Armour-piercing,_capped,_ballistic_capped_shell)
 
-Sub-calibre AP rounds have smaller and denser core (碳化鎢), using larger barrels also allows for greater initial velocity, they create less spalling and shrapneling:
+Sub-calibre AP rounds have smaller and denser core (碳化鎢), using larger barrels also allows for greater initial velocity, they create less spalling and shrapnels:
 高速穿甲彈 (High Velocity Armor Piercing, HVAP)/硬芯穿甲彈 (Armor Piercing Composite Rigid, APCR): smaller caliber core inside the aerodynamic jacket will pierce armor after contact
 脫殼穿甲彈 (Armor Piercing Discarding Sabot, APDS): the aerodynamic jacket will decouple with the small and dense core shortly in-flight
 尾翼穩定脫殼穿甲彈 (Armor Piercing Fin-stabilized Discarding Sabot, APFSDS): ammo fired without spin (with smooth bore barrel) to accommodate lengthier ammo, the ammo is stabilized with fins like a dart; also adapted to rifle barrel but usually only used in small caliber
-[Armour-piercing fin-stabilized discarding sabot - Wikiwand](https://omni.wikiwand.com/en/Armour-piercing%20fin-stabilized%20discarding%20sabot)
-[尾翼穩定脫殼穿甲彈 - Wikiwand](https://omni.wikiwand.com/zh/%E5%B0%BE%E7%BF%BC%E7%A9%A9%E5%AE%9A%E8%84%AB%E6%AE%BC%E7%A9%BF%E7%94%B2%E5%BD%88)
+[Armour-piercing fin-stabilized discarding sabot - Wikiwand](https://www.wikiwand.com/en/Armour-piercing%20fin-stabilized%20discarding%20sabot)
+[尾翼穩定脫殼穿甲彈 - Wikiwand](https://www.wikiwand.com/zh/%E5%B0%BE%E7%BF%BC%E7%A9%A9%E5%AE%9A%E8%84%AB%E6%AE%BC%E7%A9%BF%E7%94%B2%E5%BD%88)
 
 Chemical shells contains explosive filler that will explode on timer, on contact or by proximity.
 高爆彈/榴彈 (Armor Piercing High Explosive, APHE): explodes after penetration, the shockwave and shrapnel deal AoE damage; not useful for AP due to reduced mass; also have BC, CBC variants; also used for Anti-Air shells
 [高爆彈\_百度百科](https://baike.baidu.hk/item/%E9%AB%98%E7%88%86%E5%BD%88/10395223)
-破甲彈 (High Explosive Anti Tank/HEAT): contains explosives and an (inverted) metal cone, the explosion happens outside of the armor and the shockwave will form focused a jet of metal particles at supersonic speed to pierce the armor and wreck havoc; smooth bore barrel should be used to keep the jet focused; initial velocity is irrelevant; needs room between the explosion and the armor for the jet formation, as seen by the standoff probe in the front to detonate the explosive; also have BC, CBC variants; used in RPGs; aka HEAT-MP (Multipurpose) or MPAT (Multipurpose Anti Tank)
+破甲彈 (High Explosive Anti Tank/HEAT): contains explosives and an (inverted) metal cone, the explosion happens outside of the armor and the shockwave will form focused a jet of metal particles at supersonic speed to pierce the armor and wreck havoc; smooth bore barrel should be used to keep the jet focused; initial velocity is irrelevant; needs room between the explosion and the armor for the jet formation, as seen by the standoff probe in the front to detonate the explosive; also have Ballistic Cap (BC), Capped Ballistic Capped (CBC) variants; used in RPGs; aka HEAT-MP (Multipurpose) or MPAT (Multipurpose Anti Tank)
 尾翼穩定破甲彈 HEAT-FS: Since we're not using rifle, fin stabilizer is used, also reduces the weight of shell
 碎甲彈 (High Explosive Squash Head, HESH/High Explosive Plastic, HEP): contains explosive that will deform, spread and stick to outside of armor, explosion will send shockwave through the armor and create spall and shrapnel inside to injure the crews; prefer rifle barrels to spread the HE; used by UK so they tends to keep Challenge 2's rifle barrel
 Armor Piercing Incendiary round
-[Thermite - Wikiwand](https://omni.wikiwand.com/en/Thermite) 白磷, produces extreme heat to melt the armor
+
+[Thermite - Wikiwand](https://www.wikiwand.com/en/Thermite) 白磷, produces extreme heat to melt the armor
+[People said this experiment was impossible, so I tried it - YouTube](https://www.youtube.com/watch?v=cUBz04LlLVk)
+[俄烏戰場"地獄烈焰"，鋁熱劑武器大揭秘，綁上無人機化身毀滅者，士兵藏身處一次性全清除！2500度高溫，鈦合金都融化！集束炸彈也能用，和貧鈾彈比誰該被禁？【那是為什麼】#俄烏戰爭 #美國陸軍 #烏克蘭 - YouTube](https://www.youtube.com/watch?v=cAnQI4ahBC0)
 
 [【不止遊戲】「高爆穿甲被帽風帽」坦克炮彈名字究竟是什麼意思？ - YouTube](https://www.youtube.com/watch?v=l2XjlHKdvg0)
 [【不止遊戲】高爆彈 破甲彈 白磷彈 炮射導彈等究竟是如何攻擊的？ - YouTube](https://www.youtube.com/watch?v=76VyBQ96XAk)
@@ -396,46 +443,83 @@ Armor Piercing Incendiary round
 [如何用钢钉击穿装甲？残暴的超速脱壳穿甲彈 - YouTube](https://www.youtube.com/watch?v=2cHbojGQjNU)
 [强悍的碎甲彈、穿甲彈、破甲彈，它们是如何让装甲车瞬间报废的？ - YouTube](https://www.youtube.com/watch?v=RAKv2I1-Cs8)
 [穿甲彈如何穿透裝甲？尾翼穩定彈已成大哥大！破甲彈和碎甲彈與其有何不同！ - YouTube](https://www.youtube.com/watch?v=ozUmqsolSwA)
+[次口徑彈藥，專業打坦克！穿甲神器，一炮擊穿T-90！次口技彈藥是如何穿透裝甲的？| 脫殼穿甲彈 | 尾翼穩定 | 全口徑 | 火力君 | - YouTube](https://www.youtube.com/watch?v=15lpIebXSCA)
+
+[BGM-71 TOW - Wikiwand](https://www.wikiwand.com/en/articles/BGM-71_TOW)
+[陶式反坦克導彈，專業打坦克54年！坦克開罐神器，生產數量最多、裝備國家最多、實戰經驗最豐富的反坦克導彈！| 標槍 | BGM-71 | 長釘 | 有線制導 | 火力君 | - YouTube](https://www.youtube.com/watch?v=cHbs5w_XrAY)
+
+[AT4 - Wikiwand](https://www.wikiwand.com/en/articles/AT4)
+[AT4火箭筒，美軍最愛的反坦克武器！隨拿隨用，用完就扔，費效比遠超標槍！一炮幹翻T-62，反坦克火箭筒的未來！| 古斯塔夫 | 海灣戰爭 | T-90 | 火力君 | - YouTube](https://www.youtube.com/watch?v=pzI2uVSNlb8)
+
+[NLAW - Wikiwand](https://www.wikiwand.com/en/articles/MBT-LAW)
+[【MBT-LAW】英國瑞典共同研發下一代終極坦克殺手，一枚擊毀一輛坦克，單兵就可操作打完就扔，當今主戰坦克的最大威脅 - YouTube](https://www.youtube.com/watch?v=iLyOR-SSVTE)
+
+[FGM-148 Javelin - Wikiwand](https://www.wikiwand.com/en/articles/FGM-148)
+[FGM-148標槍，一枚幹穿T-90！攻頂打擊，可擊毀任何一款坦克！坦克開罐神器，美軍反坦克王牌！標槍升級，更換非製冷導引頭！| M2 | M3 | FGM-77 | AT-4 | 火力君 - YouTube](https://www.youtube.com/watch?v=9vB3IjX4dNQ)
+
+[Barrett M82 - Wikiwand](https://www.wikiwand.com/en/articles/M82A1)
+[M82A1為什麼叫反器材狙擊槍？威力巨大，功能多樣的巴雷特傳奇誕生史|輕武器|狙擊槍|軍事| - YouTube](https://www.youtube.com/watch?v=ILyyz7fvvGk)
 
 ### Anti Anti-Armor
 
 反應裝甲 (Explosive Reactive Armor, ERA) and 間隙裝甲 are used to counter 破甲彈, 碎甲彈.
 Ceramic composite/Kevlar liners armor also nullified application of them.
-Twin-staged warhead ([Tandem-charge](https://omni.wikiwand.com/en/Tandem-charge)) is used to counter ERA where the first stage (precursor charge) will detonate/destroy the reactive armor.
+Twin-staged warhead ([Tandem-charge](https://www.wikiwand.com/en/Tandem-charge)) is used to counter ERA where the first stage (precursor charge) will detonate/destroy the reactive armor.
 Second gen ERA have two set of explosive and steel plate to counter that. Think of Cheese Burger vs Big Mac. The two plates are set grind together, effectively increasing the thickness and can also snap APFSDS.
 Heavy ERA have multiple charges that shot out to destroy the incoming round. But this is not welcomed by the infantry cause the extra charge may cause harm to surrounding troops.
 Non-Explosive Reactive Armor (NERA)
 
 [What Are Those Bricks on Russian Tanks? | Koala Explains: Explosive Reactive Armor (ERA) - YouTube](https://www.youtube.com/watch?v=zmf_s8faAC4)
 [What Are Those Cages on Russian Tanks? | Koala Explains: "Cope Cages" (& Why They're Not Working) - YouTube](https://www.youtube.com/watch?v=cVMVU6vHrT4)
+[爆炸反應裝甲，為什麼只有蘇聯廣泛用？一個小小的方盒子，就能擋住坦克主炮的攻擊，爆反到底有什麼魔力？|俄烏|蘇聯|坦克|冷戰 - YouTube](https://www.youtube.com/watch?v=WVevYSqxLvM)
 
 [Why Protecting Tanks is Getting Much More Difficult - YouTube](https://www.youtube.com/watch?v=C4NmOss83XI) RPG history
 
 ### Anti-Tank Guided Missile/ATGM
 
-[Anti-tank guided missile - Wikiwand](https://omni.wikiwand.com/en/Anti-tank_guided_missile)
+[Anti-tank guided missile - Wikiwand](https://www.wikiwand.com/en/Anti-tank_guided_missile)
 [The Insane Engineering of the Javelin - YouTube](https://www.youtube.com/watch?v=SUdHzKRiBX8)
 [Javelin Missile | How a Javelin Missile works - YouTube](https://www.youtube.com/watch?v=E5C20L0yvY0)
 
 A round of Javelin costs around $200000, while the cost of a battle tank is around $1 to 2 million.
+
+## Anti-Air
+
+[高射炮如何擊落飛機！誕生幾百年依然不可替代！末端防空的主力！ - YouTube](https://www.youtube.com/watch?v=VXPHhQhaI7k)
+
+### Ground-to-Air Missile/GTAM
+
+[Surface-to-air missile - Wikiwand](https://www.wikiwand.com/en/articles/Surface-to-air_missile)
+
+[FIM-92 Stinger - Wikiwand](https://www.wikiwand.com/en/articles/FIM-92_Stinger)
+[直升機飛行員的噩夢，毒刺防空導彈到底有多強？戰場命中率高達80%#導彈 #防空導彈 - YouTube](https://www.youtube.com/watch?v=wdeKnby6wY8)
 
 ## Artillery
 
 [Artillery | Definition, History, Types, & Facts | Britannica](https://www.britannica.com/technology/artillery)
 [Cannon | weapon | Britannica](https://www.britannica.com/technology/cannon-weapon)
 
+[List of siege artillery - Wikiwand](https://www.wikiwand.com/en/articles/Siege_cannon) immobile
+
+[Field artillery - Wikiwand](https://www.wikiwand.com/en/articles/Field_artillery)
+[Cannon - Wikiwand](https://www.wikiwand.com/en/articles/Cannon)
+[M61 Vulcan - Wikiwand](https://www.wikiwand.com/en/articles/vulcan%20cannon)
+[Field gun - Wikiwand](https://www.wikiwand.com/en/articles/Field_gun)
+[Howitzer - Wikiwand](https://www.wikiwand.com/en/articles/Howitzer)
+[Mortar (weapon) - Wikiwand](<https://www.wikiwand.com/en/articles/Mortar_(weapon)>)
+
 [坦克、突击炮、坦克歼击车、自行火炮究竟是如何分类的？ - YouTube](https://www.youtube.com/watch?v=WrdWbBr2l14)
 
 [How does the ammunition of a towed artillery work? - YouTube](https://www.youtube.com/watch?v=ScZuCDYSM2g)
-
-[高射炮如何擊落飛機！誕生幾百年依然不可替代！末端防空的主力！ - YouTube](https://www.youtube.com/watch?v=VXPHhQhaI7k)
+[Why Artillery Guns Always Shoot Short at Night - YouTube](https://www.youtube.com/watch?v=pQXVhUObsIw)
+[Why Artillery Guns Always Shoot Short at Night - YouTube](https://www.youtube.com/watch?v=pQXVhUObsIw)
 
 ### Recoilless rifle
 
 > fire missiles?
 
-[Recoilless rifle - Wikiwand](https://omni.wikiwand.com/en/Recoilless_rifle)
-[無後座力砲 - Wikiwand](https://omni.wikiwand.com/zh/%E6%97%A0%E5%90%8E%E5%BA%A7%E5%8A%9B%E7%82%AE)
+[Recoilless rifle - Wikiwand](https://www.wikiwand.com/en/Recoilless_rifle)
+[無後座力砲 - Wikiwand](https://www.wikiwand.com/zh/%E6%97%A0%E5%90%8E%E5%BA%A7%E5%8A%9B%E7%82%AE)
 
 ### Self-propelled Guns
 
@@ -454,16 +538,15 @@ It was called Flak 18 to mask to fact that it was designed in the 30's.
 
 ### Schwerer Gustav
 
-[Schwerer Gustav - Wikiwand](https://omni.wikiwand.com/en/Schwerer_Gustav)
+[Schwerer Gustav - Wikiwand](https://www.wikiwand.com/en/Schwerer_Gustav)
 [World’s BIGGEST / MOST POWERFUL GUN ever built! (Heavy Gustav Railway Gun.) - YouTube](https://www.youtube.com/watch?v=As3NzDQknVc)
 [德國二戰的黑科技“多拉巨炮”，射程 50 公里，需要動用 4000 人發射「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=1ZxND8rMwmU)
 
 ## Rocket artillery
 
-[Rocket artillery - Wikiwand](https://omni.wikiwand.com/en/Rocket_artillery)
-[火箭炮 - Wikiwand](https://omni.wikiwand.com/zh/%E7%81%AB%E7%AE%AD%E7%82%AE)
+[Rocket artillery - Wikiwand](https://www.wikiwand.com/en/Rocket_artillery)
+[火箭炮 - Wikiwand](https://www.wikiwand.com/zh/%E7%81%AB%E7%AE%AD%E7%82%AE)
 
-[【不止遊戲】遊戲中的導彈，究竟是如何追著你一直打的？ - YouTube](https://www.youtube.com/watch?v=y-leUDrkpM8)
 [【不止遊戲】想學迫擊炮怎麼發射么？我教你啊！ - YouTube](https://www.youtube.com/watch?v=D5DqonUg6QA)
 
 ## Anti-Air
@@ -475,21 +558,25 @@ It was called Flak 18 to mask to fact that it was designed in the 30's.
 
 ## Missiles
 
-[Missile - Wikiwand](https://omni.wikiwand.com/en/Missile)
-[導彈 - Wikiwand](https://omni.wikiwand.com/zh/%E5%AF%BC%E5%BC%B9)
+[Missile - Wikiwand](https://www.wikiwand.com/en/Missile)
+[導彈 - Wikiwand](https://www.wikiwand.com/zh/%E5%AF%BC%E5%BC%B9)
 
-[Ballistic missile - Wikiwand](https://omni.wikiwand.com/en/Ballistic_missile) no wings, like a rocket; enters LEO
-[彈道導彈 - Wikiwand](https://omni.wikiwand.com/zh/%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9)
+[Ballistic missile - Wikiwand](https://www.wikiwand.com/en/Ballistic_missile) no wings, like a rocket; enters LEO
+[彈道導彈 - Wikiwand](https://www.wikiwand.com/zh/%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9)
 
-[Cruise missile - Wikiwand](https://omni.wikiwand.com/en/Cruise_missile) like an unmanned airplane; fly within atmosphere
-[巡航導彈 - Wikiwand](https://omni.wikiwand.com/zh/%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9)
+[Cruise missile - Wikiwand](https://www.wikiwand.com/en/Cruise_missile) like an unmanned airplane; fly within atmosphere
+[巡航導彈 - Wikiwand](https://www.wikiwand.com/zh/%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9)
 
 [meaning - What is the difference between a 'rocket' and a 'missile' - English Language & Usage Stack Exchange](https://english.stackexchange.com/questions/185955/what-is-the-difference-between-a-rocket-and-a-missile)
 
 [东风 41 能否以德服人，世界洲际导彈哪家强？二战的日本怎么这么搞笑 - YouTube](https://www.youtube.com/watch?v=BeUt5eD62ps)
 [中国东风-17 有多厉害？比东风-41 还要让人畏惧，美军专家：“全球没有任何国家能够拦截” - YouTube](https://www.youtube.com/watch?v=7c3lMlrUho8)
 
+[【不止遊戲】遊戲中的導彈，究竟是如何追著你一直打的？ - YouTube](https://www.youtube.com/watch?v=y-leUDrkpM8)
+
 ## Torpedo
+
+[The "Impossible Torpedo" was real - YouTube](https://www.youtube.com/watch?v=qvtZIdSI1Yk)
 
 [魚雷，改變海戰的黑科技，兩枚 MK48 魚雷就可以摧毀一個“颱風”級核潛艇，五枚就可以摧毀庫茲涅佐夫號航母或者烏裏揚諾夫斯克號核動力航母，可以稱為航母殺手。 - YouTube](https://www.youtube.com/watch?v=rqzS3TormRU)
 
@@ -497,8 +584,8 @@ It was called Flak 18 to mask to fact that it was designed in the 30's.
 
 ## Guns Database
 
-[List of infantry weapons of World War I - Wikiwand](https://omni.wikiwand.com/en/List_of_infantry_weapons_of_World_War_I)
-[List of World War II infantry weapons - Wikiwand](https://omni.wikiwand.com/en/List_of_infantry_weapons_of_World_War_II)
+[List of infantry weapons of World War I - Wikiwand](https://www.wikiwand.com/en/List_of_infantry_weapons_of_World_War_I)
+[List of World War II infantry weapons - Wikiwand](https://www.wikiwand.com/en/List_of_infantry_weapons_of_World_War_II)
 
 [二战美国步兵武器大盘点，每一款都是经典，最长服役长达百年之久 - YouTube](https://www.youtube.com/watch?v=_M9rQM7G3Wk)
 [二战最经典冲锋枪排名，M3 黄油枪倒数第二，波波沙冲锋枪位列榜首 - YouTube](https://www.youtube.com/watch?v=O8h5qcYmmcg)
@@ -526,28 +613,35 @@ It was called Flak 18 to mask to fact that it was designed in the 30's.
 |         Browning M1917 A1         |   US    | 1917 |         MG         |  Recoil   |         Belt         |     .30     | stationary, water cooling, used in WW II and Korean War |
 |         Browning M1919 A4         |   US    | 1919 |         MG         |  Recoil   |         Belt         |     .30     |        used in WW II, especially in the Pacific         |
 |          Browning M1921           |   US    | 1921 |         MG         |  Recoil   |                      |     .50     |                    water cool, heavy                    |
-|            M2 Browning            |   US    | 1933 |         MG         |  Recoil   |                      |     .50     |                                                         |
+|        Browning M1921A1/M2        |   US    | 1933 |         MG         |  Recoil   |                      |     .50     |                                                         |
 |            Type 92 HMG            |  Japan  | 1932 |         MG         |  Recoil   | 30 rounds feed strip |    7.7mm    |          stationary, accurate defensive weapon          |
 |             Bren MkI              | British | 1935 |        LMG         |  Recoil   |    30 rounds mag     |    .030     |           Replaceable Barrel, used up to 80s            |
 | Browning Automatic Rifle (B.A.R.) |   US    | 1918 |        LMG         |  Recoil   |    20 rounds mag     |    0.30     |
 | M249 Squad Automatic Weapon (SAW) |   US    | 1984 |         MG         |  Recoil   |    20 rounds mag     | 5.56mm NATO |                   Replaceable barrel                    |
 |        HECKLER & KOCH MP5         |   US    | 1966 | SMG/Machine Pistol | Blow Back |    30 rounds mag     | 9mm pistol  |   3 modes (Full Auto, Burst, Semi Auto), short range    |
 
+KPV Russian HMG
 MP15 German LMG
 MP18 German LMG
 MP34 German
 MP42 German MG
-MP40 German SMG
-[PPSh-41 - Wikiwand](https://omni.wikiwand.com/en/PPSh-41) SMG
-[Thompson submachine gun - Wikiwand](https://omni.wikiwand.com/en/Thompson_submachine_gun) US SMG, 0.45, 11.43mm
+[聽見槍響就臥倒！世界上最致命的機槍 ，勃朗寧M2，美國老字型大小的百年經典， 勃朗寧機槍為何上天下海，曆久彌新 - YouTube](https://www.youtube.com/watch?v=rwqBKdZXvjs) US MG
+[美國打算援烏M60機槍？大名鼎鼎的蘭博之槍M60，為何被美軍叫做豬？陸軍不喜歡，特種部隊卻偏愛！美軍首個通用機槍，竟有著德軍血統，服役38年，至今還在用！|冷戰|歷史|機槍 - YouTube](https://www.youtube.com/watch?v=bv2Qr03akLU) US MG
+
+[Submachine Guns - YouTube](https://www.youtube.com/playlist?list=PL9e3UCcU00TS0RHYvm0DSvAWu9gxU78vs) Forgotten Weapons
+
+[德國的 MP40，英國的司登，美國的湯普森，蘇聯的波波沙，到底哪個牛？ - YouTube](https://www.youtube.com/watch?v=XfitcvdnMNc) German SMG
+[PPSh-41 - Wikiwand](https://www.wikiwand.com/en/PPSh-41) Soviet, SMG
+
+[Thompson submachine gun - Wikiwand](https://www.wikiwand.com/en/Thompson_submachine_gun) US SMG, 0.45, 11.43mm
+[M3 submachine gun - Wikiwand](https://www.wikiwand.com/en/articles/M3_submachine_gun) US SMG, 0.45, 11.43mm, "Grease Gun"
+[M3A1 Grease Gun - America’s $15 SMG - YouTube](https://www.youtube.com/watch?v=2dOr6Hvm-tU)
+
+[British Submachine Gun Overview: Lanchester, Sten, Sterling, and More! - YouTube](https://www.youtube.com/watch?v=8-PmLxkOmaM)
 Lanchester British SMG, direct copy of German's MP28, expensive nad very heavy
 [STEN: How Bad Was the Cheapest Gun of WW2? - YouTube](https://www.youtube.com/watch?v=ciF-aQhxScw)
 STEN British SMG, 9x19mm 32 rounds, cheap SMG mass-produced after Dunkirk
 Sterling L2A3, British SMG, refinement of STEN, improved magazine
-M3 submachine gun 0.45, 11.43mm
-KPV Russian HMG
-[British Submachine Gun Overview: Lanchester, Sten, Sterling, and More! - YouTube](https://www.youtube.com/watch?v=8-PmLxkOmaM)
-[德國的 MP40，英國的司登，美國的湯普森，蘇聯的波波沙，到底哪個牛？ - YouTube](https://www.youtube.com/watch?v=XfitcvdnMNc)
 
 |      Name       |   Country    |  Year   | Type  | Action | Reloading |      Ammo       | Remark |
 | :-------------: | :----------: | :-----: | :---: | :----: | :-------: | :-------------: | :----: |

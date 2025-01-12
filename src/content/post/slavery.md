@@ -2,18 +2,18 @@
 title: Slavery
 description: ""
 created: 2016-09-05
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - history
 ---
 
 This is a study of modern slavery.
 
-[Slavery - Wikiwand](http://omni.wikiwand.com/en/Slavery)
-[Contemporary slavery - Wikiwand](https://omni.wikiwand.com/en/Contemporary_slavery)
-[Slavery among Native Americans in the United States - Wikiwand](https://omni.wikiwand.com/en/Slavery_among_Native_Americans_in_the_United_States)
-[Slavery among the indigenous peoples of the Americas - Wikiwand](https://omni.wikiwand.com/en/Slavery_among_the_indigenous_peoples_of_the_Americas)
-[Slavery in Africa - Wikiwand](http://omni.wikiwand.com/en/Slavery_in_Africa)
+[Slavery - Wikiwand](http://www.wikiwand.com/en/Slavery)
+[Contemporary slavery - Wikiwand](https://www.wikiwand.com/en/Contemporary_slavery)
+[Slavery among Native Americans in the United States - Wikiwand](https://www.wikiwand.com/en/Slavery_among_Native_Americans_in_the_United_States)
+[Slavery among the indigenous peoples of the Americas - Wikiwand](https://www.wikiwand.com/en/Slavery_among_the_indigenous_peoples_of_the_Americas)
+[Slavery in Africa - Wikiwand](http://www.wikiwand.com/en/Slavery_in_Africa)
 
 [Munger on Slavery and Racism | EconTalk | Library of Economics and Liberty](http://www.econtalk.org/archives/2016/08/munger_on_slave.html)
 [Equality: Montesquieu, Spirit of Laws, bk. 15, CHS. 1, 4--8](http://press-pubs.uchicago.edu/founders/documents/v1ch15s4.html)

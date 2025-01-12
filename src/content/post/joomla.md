@@ -2,7 +2,7 @@
 title: Joomla
 description: ""
 created: 2021-05-11
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - app
   - cms

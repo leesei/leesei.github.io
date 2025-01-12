@@ -2,7 +2,7 @@
 title: Cyberpunk 2077
 description: ""
 created: 2023-08-14
-updated: 2024-05-02
+updated: 2025-01-09
 tags:
   - cyberpunk-2077
   - games

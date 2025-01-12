@@ -2,7 +2,7 @@
 title: Horizon Zero Dawn
 description: ""
 created: 2023-06-13
-updated: 2024-01-10
+updated: 2025-01-09
 tags:
   - games
   - horizon-zero-dawn
@@ -25,6 +25,8 @@ tags:
 [黑桐谷歌【地平线 零之曙光】 - YouTube](https://www.youtube.com/playlist?list=PL7PA3hyhaHFLdNdK9AIreo07NoONbpvnJ) play with
 [Horizon 2021 - YouTube](https://www.youtube.com/playlist?list=PL55clecAtEmynbZEHGFQvcCClgZaP0yhk) JorRaptor
 [Horizon Zero Dawn Best Mods In 2021 & How To Get Them Early (Horizon Zero Dawn Mods) - YouTube](https://www.youtube.com/watch?v=PQ06b6Ifmh8)
+
+[Change These Settings Before Playing Horizon Zero Dawn Remastered! - YouTube](https://www.youtube.com/watch?v=cMR0ed6TkRg)
 
 ## Map
 
@@ -57,6 +59,11 @@ tags:
 
 [Horizon Zero Dawn - How to Kill Every Machine; a complete guide - YouTube](https://www.youtube.com/watch?v=PBfN65mw0Kc)
 [12 hidden mechanics Horizon: Zero Dawn never tells you about - YouTube](https://www.youtube.com/watch?v=T_IP2qLyWP0)
+
+[BEST Horizon Zero Dawn Tips and Tricks For NEW & RETURNING Players - (Horizon Zero Dawn Remastered) - YouTube](https://www.youtube.com/watch?v=duG0qqDpZgM)
+[ESSENTIAL Tips I Wish I Knew Sooner 🏹 Horizon Zero Dawn Remastered - YouTube](https://www.youtube.com/watch?v=bNNA3FwtDzk)
+[How To Spend Your First 40 Skill Points 🏹 Horizon Zero Dawn Remastered - YouTube](https://www.youtube.com/watch?v=72PIHQgVCOg)
+[Get OP Early! Essential Tips & Tricks - Horizon Zero Dawn Remastered - YouTube](https://www.youtube.com/watch?v=WccJu3lAAjs)
 
 [107 Horizon Zero Dawn FACTS YOU Should Know | The Leaderboard - YouTube](https://www.youtube.com/watch?v=20qRBtpW11U)
 [Horizon Zero Dawn: 10 Things To Know When Starting A NEW GAME - YouTube](https://www.youtube.com/watch?v=JcPOYRpRXEA)

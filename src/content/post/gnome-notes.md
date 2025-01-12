@@ -2,7 +2,7 @@
 title: Gnome notes
 description: ""
 created: 2024-09-10
-updated: 2024-09-26
+updated: 2025-01-09
 tags:
   - desktop
   - gnome
@@ -47,6 +47,7 @@ Antialiasing: Subpixel
 Scaling Factor: 1.25
 
 **Keyboard**
+Meta map to Win
 Capslock to Esc, Shift+Capslock to Capslock
 
 **Windows**
@@ -59,9 +60,18 @@ Window Action Key: Alt
 
 ```sh
 dconf dump /org/gnome/ > org.gnome.dconf
-dconf load /org/gnome/ < org.gnome.dconf
 dconf dump /org/gtk/ > org.gtk.dconf
+dconf dump /org/cinnamon/ > org.cinnamon.dconf
+dconf dump /org/nemo/ > org.nemo.dconf
+dconf dump /org/guake/ > org.guake.dconf
+dconf dump /org/gnome/Ptyxis/ > Ptyxis.conf
+
+dconf load /org/gnome/ < org.gnome.dconf
 dconf load /org/gtk/ < org.gtk.dconf
+dconf load /org/cinnamon/ < org.cinnamon.dconf
+dconf load /org/nemo/ < org.nemo.dconf
+dconf load /org/guake/ < org.guake.dconf
+dconf load /org/gnome/Ptyxis/ < Ptyxis.conf
 ```
 
 ```

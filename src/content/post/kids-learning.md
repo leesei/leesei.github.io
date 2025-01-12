@@ -2,7 +2,7 @@
 title: Kids Learning
 description: ""
 created: 2016-08-17
-updated: 2024-09-01
+updated: 2025-01-09
 tags:
   - learning
 ---
@@ -419,8 +419,8 @@ modeling by rod which popped up when pivoted on the surface
 ## Cartoon
 
 [Robocar POLI TV - YouTube](https://www.youtube.com/@robocarpoli)
-[Poli 波力 - Wikiwand](https://omni.wikiwand.com/zh/Poli%E6%B3%A2%E5%8A%9B)
-[Robocar Poli - Wikiwand](https://omni.wikiwand.com/en/Robocar_Poli#/Main_Characters)
+[Poli 波力 - Wikiwand](https://www.wikiwand.com/zh/Poli%E6%B3%A2%E5%8A%9B)
+[Robocar Poli - Wikiwand](https://www.wikiwand.com/en/Robocar_Poli#/Main_Characters)
 [Category:Characters | Robocar Poli Wiki | FANDOM powered by Wikia](https://robocarpoli.fandom.com/wiki/Category:Characters)
 
 ## 感覺統合訓練

@@ -2,10 +2,11 @@
 title: Monster Hunter Rise
 description: ""
 created: 2020-01-16
-updated: 2024-09-23
+updated: 2025-01-09
 tags:
   - games
   - mhr
+  - monhunt
 ---
 
 [MONSTER HUNTER RISE | CAPCOM](https://www.monsterhunter.com/rise/hk/)

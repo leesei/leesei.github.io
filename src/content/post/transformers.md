@@ -2,7 +2,7 @@
 title: Transformers
 description: ""
 created: 2023-10-07
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - anime
 ---
@@ -13,14 +13,20 @@ tags:
 
 [Chris McFeely - YouTube](https://www.youtube.com/@ChrisMcFeely)
 [TRANSFORMERS: The Basics - YouTube](https://www.youtube.com/playlist?list=PLSd4_MK_EtUZH6jxBQpEeV0__tgOFedtk)
+[Transformers Retrospective - YouTube](https://www.youtube.com/playlist?list=PL6dvQxI0Dx5WEbeqziTvod4wPR2pZLoTO) Prime's Theater
 
-[Transformers: War for Cybertron Trilogy - Wikiwand](https://omni.wikiwand.com/en/Transformers:_War_for_Cybertron_Trilogy) on Netflix
+[Transformers: War for Cybertron Trilogy - Wikiwand](https://www.wikiwand.com/en/Transformers:_War_for_Cybertron_Trilogy) on Netflix
 
 - War for Cybertron: Siege
 - War for Cybertron: Earthrise
 - War for Cybertron: Kingdom
 
 [变形金刚 6 部剧情|看完变形金刚的前世今生|最强时间线整理|美国电影推荐 - YouTube](https://www.youtube.com/watch?v=uUj0262_EEE)
+[《变形金刚7》观影必备！7部《变形金刚》一次看完！#变形金刚 - YouTube](https://www.youtube.com/watch?v=Vy7NQBLrmIY)
+
+[AKR/PFK│變形金剛角色介紹（完整大百科） - YouTube](https://www.youtube.com/playlist?list=PLhTbZbHYudXE_kn7gbYeOaWKOFPT22B2f)
+[AKR/PFK說變形金剛 - YouTube](https://www.youtube.com/playlist?list=PLhTbZbHYudXGoIdSQsjFPIWqg_hAWhq1H)
+[變形金剛│Shorts (AKR/PFK) - YouTube](https://www.youtube.com/playlist?list=PLhTbZbHYudXFe96xJlw_VIPN-iKJtzV2e)
 
 [二叔托马斯 - YouTube](https://www.youtube.com/channel/UCPawzI1EqtpKSZXLmG2GlHA)
 [变形金刚 - YouTube](https://www.youtube.com/playlist?list=PLgmTvH0O5wnz6ELLYibbYqUQE8JxO71uv)

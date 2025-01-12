@@ -2,13 +2,15 @@
 title: Economics
 description: ""
 created: 2016-09-24
-updated: 2024-02-28
+updated: 2025-01-09
 tags:
   - economics
 ---
 
 [[capitalism]]
 [[money-and-banking]]
+[[passive-income]]
+[[properties]]
 
 [Economics - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPNZwz5_o_5uirJ8gQXnhEO) Crash Course
 [Economy - Investopedia](https://www.investopedia.com/economy-4689801)
@@ -21,6 +23,7 @@ Externalities
 Public goods
 
 [The Invisible Paw (Ep. 329) - Freakonomics Freakonomics](http://freakonomics.com/podcast/animal-economics/)
+[【基础篇】10分钟简明易懂 搞懂什么是金融 - YouTube](https://www.youtube.com/watch?v=4MiAZ-5_WnU)
 
 [原油期货价格-37 美元/桶！钱赔光了还欠银行钱！期货风险为何这么大？ - YouTube](https://www.youtube.com/watch?v=ii1fTxhD_D0)
 
@@ -33,7 +36,30 @@ Public goods
 [经济机器是怎样运行的 (时长 30 分钟) Ray Dalio - YouTube](https://www.youtube.com/watch?v=rFV7wdEX-Mo)
 [Principles for Dealing with the Changing World Order by Ray Dalio - YouTube](https://www.youtube.com/watch?v=xguam0TKMw8) the Big Cycle
 
+[一口气了解全球经济形势 - YouTube](https://www.youtube.com/watch?v=qk5hdxFJXg8)
+[一口气了解全球经济 (下) | 我是怎么分析经济问题的 - YouTube](https://www.youtube.com/watch?v=pYIwaHYmcUs)
+
 [這本書讓我從慘賠 40 萬到重新賺回來，為什麼眾多理財專家都推薦它？｜《投資最重要的事》｜啾啾鞋 - YouTube](https://www.youtube.com/watch?v=9oV47AeaYmw)
+
+## Marketing
+
+[What Is Marketing In 3 Minutes | Marketing For Beginners - YouTube](https://www.youtube.com/watch?v=QusJ4fpWQwA)
+[What is Marketing? | Marketing Mix (4 Ps of marketing) | Types of Marketing - YouTube](https://www.youtube.com/watch?v=zslTD2MqO0E)
+[EVERYTHING You Need To Know About Marketing In 10 Minutes [FREE CRASH COURSE] - YouTube](https://www.youtube.com/watch?v=O9j9aLo9waY)
+[How Brands Use Design & Marketing to Control Your Mind - YouTube](https://www.youtube.com/watch?v=p6aF5ma7BiM)
+[Marketing Color Psychology: What Do Colors Mean and How Do They Affect Consumers? - YouTube](https://www.youtube.com/watch?v=x0smq5ljlf4)
+
+[聊聊市场营销/广告的玩法 (原来你这么值钱!) - YouTube](https://www.youtube.com/watch?v=ERK34RQq9YU)
+[一种阴险的营销方式 - YouTube](https://www.youtube.com/watch?v=Euc0HS-0XUs)
+
+[今年，你交了多少智商税？ - YouTube](https://www.youtube.com/watch?v=F7RF-UedVB8)
+
+- 純騙傻子
+- 引發焦慮, 制造需求
+  價格歧視, 充份挖掘消費者剩餘價值
+- 不可置信的保證, 建立信任
+- 包裝人設, 建立信任
+- 偽科學概念
 
 ## 財技
 
@@ -44,8 +70,6 @@ Level 1: MBS (Mortgage Based Security) / ABS (Asset Based Security)
 Level 2: CDO packages MBS/ABS as security, CDO², CDO³, ...
 Level 3: CDS insurances for MBS/ABS/CDO, CDS², CDS³, ...
 
-[最干货的一期｜专业股票投资人怎么看门道？ - YouTube](https://www.youtube.com/watch?v=xnIYIpXKvNM)
-
 [【止凡】價投講財技一\_細價股財技係乜？乜係殼？乜係肉？【財自話語 第三十一話】 - YouTube](https://www.youtube.com/watch?v=kdqXy_OjL30)
 [【止凡】價投講財技二\_財技派點炒 IPO？CB 可以玩到幾恐怖？乜叫"乾"？做乜要分柝上市？【財自話語 第三十二話】 - YouTube](https://www.youtube.com/watch?v=_c6tQd9YSe4)
 [【止凡】價投講財技三\_公司缺水點算？莊家供股玩法你又知幾多？【財自話語 第三十三話】 - YouTube](https://www.youtube.com/watch?v=AtZ4_t2zhag)
@@ -53,17 +77,11 @@ Level 3: CDS insurances for MBS/ABS/CDO, CDS², CDS³, ...
 [【止凡】價投講財技五\_炒重組點高班法？莊家有乜辦法令你高位接佢貨？【財自話語 第三十五話】 - YouTube](https://www.youtube.com/watch?v=CKx6vmSLy5M&t=2s)
 
 [【硬核】苹果海外千亿税款如何避税 | 欧美政府税收反击战 - YouTube](https://www.youtube.com/watch?v=dQ2bjo07aNs)
+[一口气搞清避税天堂的资本游戏 - YouTube](https://www.youtube.com/watch?v=eT8xd3ap5oU)
+[【避税天堂 - 下】许家印是如何转移资产的？ - YouTube](https://www.youtube.com/watch?v=wjr36QmZP2w)
+[【深度解析】聊聊富豪避税的手段 - YouTube](https://www.youtube.com/watch?v=T-ZEqZdp-gc)
 
-## Short selling
-
-[【硬核加长版】真正的做空 - YouTube](https://www.youtube.com/watch?v=--KnsLGfXWM)
-[甚麼是沽空 short selling 和挾淡倉 short squeeze? (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=UEO4tm_n54k)
-
-[The Trillion Dollar Equation - YouTube](https://www.youtube.com/watch?v=A5w-dEgIU1M)
-
-- Options
-- random walk forms a bell curve
-- hedging
+[一口气了解洗钱 它能玩得有多花 - YouTube](https://www.youtube.com/watch?v=s3iM7VslPsQ)
 
 ## Trade War
 

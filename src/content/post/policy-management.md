@@ -2,7 +2,7 @@
 title: Policy Management/Authorization
 description: Policy for accessing services
 created: 2023-06-15
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - authentication
   - authorization
@@ -13,17 +13,17 @@ tags:
 
 [[blockchain#Wallet/Decentralized ID (DID)]]
 
-[Identity management - Wikiwand](https://omni.wikiwand.com/en/Identity_management)
-[XACML - Wikiwand](https://omni.wikiwand.com/en/XACML)
+[Identity management - Wikiwand](https://www.wikiwand.com/en/Identity_management)
+[XACML - Wikiwand](https://www.wikiwand.com/en/XACML)
 
 [Why Every Company Needs a Data Policy - The New Stack](https://thenewstack.io/why-every-company-needs-a-data-policy/)
 
-[Access-control list - Wikiwand](https://omni.wikiwand.com/en/Access-control_list)
+[Access-control list - Wikiwand](https://www.wikiwand.com/en/Access-control_list)
 
-[Role-based access control - Wikiwand](https://omni.wikiwand.com/en/Role-based_access_control) mini RBAC (RBACm) = group ACL (ACLg)
+[Role-based access control - Wikiwand](https://www.wikiwand.com/en/Role-based_access_control) mini RBAC (RBACm) = group ACL (ACLg)
 [What Is Role-Based Access Control (RBAC)? | Okta](https://www.okta.com/identity-101/what-is-role-based-access-control-rbac/)
 
-[Attribute-based access control - Wikiwand](https://omni.wikiwand.com/en/Attribute-based_access_control) policy-based access control
+[Attribute-based access control - Wikiwand](https://www.wikiwand.com/en/Attribute-based_access_control) policy-based access control
 
 [RBAC vs. ABAC: Definitions & When to Use | Okta](https://www.okta.com/identity-101/role-based-access-control-vs-attribute-based-access-control/)
 [Fine-Grained Access Control: Where RBAC falls short - DEV Community](https://dev.to/egeaytin/fine-grained-access-control-where-rbac-falls-short-37hp)

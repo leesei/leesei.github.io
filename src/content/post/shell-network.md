@@ -2,7 +2,7 @@
 title: Shell Tools (Network)
 description: ""
 created: 2015-09-15
-updated: 2024-01-29
+updated: 2025-01-09
 tags:
   - app
   - iperf
@@ -97,12 +97,13 @@ unicorn scan
 
 [How To Use Nmap to Scan for Open Ports on your VPS | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-nmap-to-scan-for-open-ports-on-your-vps)
 [What is Nmap? Why you need this network mapper | Network World](https://www.networkworld.com/article/3296740/lan-wan/what-is-nmap-why-you-need-this-network-mapper.html)
-
+[What Is Nmap? A Comprehensive Tutorial For Network Mapping | Simplilearn](https://www.simplilearn.com/tutorials/cyber-security-tutorial/what-is-nmap)
 [How to Check Service Running on Specific Port on Linux](https://linoxide.com/linux-how-to/check-service-running-linux-port/)
 
 [How Nmap really works // And how to catch it // Stealth scan vs TCP scan // Wireshark analysis - YouTube](https://www.youtube.com/watch?v=F2PXe_o7KqM)
 [Nmap Tutorial to find Network Vulnerabilities - YouTube](https://www.youtube.com/watch?v=4t4kBkMsDbQ)
 [NMAP Revealed: Unleash the Ultimate Hacker Tool - YouTube](https://www.youtube.com/watch?v=OseLMP88QFA)
+[Penetration Testing with Nmap: A Comprehensive Tutorial - YouTube](https://www.youtube.com/watch?v=wlqUO09J-nw)
 
 [Hack Like a Pro: How to Conduct Active Reconnaissance and DOS Attacks with Nmap « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/hack-like-pro-conduct-active-reconnaissance-and-dos-attacks-with-nmap-0146950/)
 [Hack Like a Pro: Advanced Nmap for Reconnaissance « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/hack-like-pro-advanced-nmap-for-reconnaissance-0151619/)
@@ -129,6 +130,8 @@ nmap -O ${host}
 nmap -p 443 192.168.2.254
 # check TLS ciphers
 nmap -p 443 --script ssl-enum-ciphers ${host}
+
+nmap -sC -sV -oN namp/initial ${host}
 ```
 
 ```
@@ -140,9 +143,14 @@ nmap -p 443 --script ssl-enum-ciphers ${host}
                 and Grepable format, respectively, to the given filename.
 ```
 
-### massscan
+[Zenmap - Official cross-platform Nmap Security Scanner GUI](https://nmap.org/zenmap/)
 
-massscan
+### masscan
+
+> "quicker than Nmap but less detailed"
+
+[robertdavidgraham/masscan: TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.](https://github.com/robertdavidgraham/masscan)
+[Masscan: A Fast IP Port Scanner for Windows, Linux and MacOS](https://securitytrails.com/blog/masscan)
 
 ### rustscan
 

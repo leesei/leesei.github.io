@@ -2,7 +2,7 @@
 title: Learning
 description: ""
 created: 2018-07-10
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - learning
 featured: true
@@ -30,7 +30,7 @@ Do learn from first-principal
 [Explore and Contribute to Knowledge | Golden](https://golden.com/explore)
 [Quora](https://www.quora.com/)
 [Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Main_Page)
-[Wikiwand](https://omni.wikiwand.com/en/)
+[Wikiwand](https://www.wikiwand.com/en/)
 
 [Your Goals Kinda Suck - LEVEL UP As A Developer - YouTube](https://www.youtube.com/watch?v=rzwaaWH0ksk) importance of setting achievable goal
 
@@ -84,11 +84,11 @@ Podcast and mailing lists is a good way to discover Unknown Unknown
 
 ## Learning Theory
 
-[Constructionism (learning theory) - Wikiwand](<https://omni.wikiwand.com/en/Constructionism_(learning_theory)>)
+[Constructionism (learning theory) - Wikiwand](<https://www.wikiwand.com/en/Constructionism_(learning_theory)>)
 
 [Marty Lobdell - Study Less Study Smart - YouTube](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
 
-[Project-based learning - Wikiwand](https://omni.wikiwand.com/en/Project-based_learning)
+[Project-based learning - Wikiwand](https://www.wikiwand.com/en/Project-based_learning)
 [What is Project Based Learning? | PBLWorks](https://www.pblworks.org/what-is-pbl)
 
 [我是如何快速学习一个领域的 - YouTube](https://www.youtube.com/watch?v=EViSmcCPK5g) 小 Lin 說
@@ -101,7 +101,7 @@ Podcast and mailing lists is a good way to discover Unknown Unknown
 
 ### Dreyfus model
 
-[Dreyfus model of skill acquisition - Wikiwand](https://omni.wikiwand.com/en/Dreyfus_model_of_skill_acquisition)
+[Dreyfus model of skill acquisition - Wikiwand](https://www.wikiwand.com/en/Dreyfus_model_of_skill_acquisition)
 [The Dreyfus Model of Skill Acquisition - The Five Steps to Expert Learning](https://www.mindtools.com/atdbxer/the-dreyfus-model-of-skill-acquisition)
 
 1. Novice.
@@ -136,9 +136,12 @@ When researching on topics (especially technical ones), do keep note of the date
 [How to "Google It" like a Senior Software Engineer - YouTube](https://www.youtube.com/watch?v=cEBkvm0-rg0)
 
 [The Best Google Search Cheat Sheet: Tips, Operators, and Commands to Know](https://www.makeuseof.com/tag/best-google-search-tips-pdf/)
+[My 12 Top Tips and Tricks to Use Google Search More Effectively](https://www.makeuseof.com/top-tips-tricks-use-google-search/)
 [The Essential Google Tricks for Better Search Results](https://lifehacker.com/the-tiny-essential-google-tricks-for-way-better-search-1826791031/amp)
 [This Infographic Crams In Over 30 Essential Google Search Tips](https://lifehacker.com/this-infographic-crams-in-over-3R0-essential-google-sear-1783855855)
 [Google Tips and Tricks Every Student Should Know](https://lifehacker.com/google-tips-and-tricks-every-student-should-know-1508121671)
+
+[Why Google Search is Falling Apart. - YouTube](https://www.youtube.com/watch?v=uSGVk2KVokQ)
 
 ## Medium
 
@@ -179,8 +182,8 @@ If you are a Kinesthetic learner, then you learn best by doing. You like to enga
 
 ## 互文性/Intertextuality
 
-[Intertextuality - Wikiwand](https://omni.wikiwand.com/en/Intertextuality)
-[互文性 - Wikiwand](https://omni.wikiwand.com/zh/%E4%BA%92%E6%96%87%E6%80%A7)
+[Intertextuality - Wikiwand](https://www.wikiwand.com/en/Intertextuality)
+[互文性 - Wikiwand](https://www.wikiwand.com/zh/%E4%BA%92%E6%96%87%E6%80%A7)
 
 [互文性：網路時代對後結構主義的追思](http://intermargins.net/intermargins/TCulturalWorkshop/culturestudy/theory/02.htm)
 [互文性](http://intermargins.net/intermargins/TCulturalWorkshop/culturestudy/theory/03.htm)
@@ -209,8 +212,8 @@ On education:
 ## School Rankings
 
 Chinese:
-[985 工程 - Wikiwand](https://omni.wikiwand.com/zh/985%E5%B7%A5%E7%A8%8B) top tier
-[211 工程 - Wikiwand](https://omni.wikiwand.com/zh/211%E5%B7%A5%E7%A8%8B) second tier
+[985 工程 - Wikiwand](https://www.wikiwand.com/zh/985%E5%B7%A5%E7%A8%8B) top tier
+[211 工程 - Wikiwand](https://www.wikiwand.com/zh/211%E5%B7%A5%E7%A8%8B) second tier
 二本, 三本, 專科
 
 ## Motive to Learn
@@ -229,7 +232,7 @@ Chinese:
 
 [Question of the Day] 108. What's the Future of Podcasting? Questions are more interesting than answers
 [Question of the Day] 111. How Do You Become an Interesting Person? By asking questions
-[Stay Hungry Stay Foolish - Wikiwand](https://omni.wikiwand.com/en/Stay_Hungry_Stay_Foolish)
+[Stay Hungry Stay Foolish - Wikiwand](https://www.wikiwand.com/en/Stay_Hungry_Stay_Foolish)
 
 ## How brain works
 
@@ -249,7 +252,7 @@ It is difficult to 守 when you don't understand what you're 守-ing.
 
 ## Speed Reading => Speed Learning
 
-[Rapid serial visual presentation - Wikiwand](https://omni.wikiwand.com/en/Rapid_serial_visual_presentation)
+[Rapid serial visual presentation - Wikiwand](https://www.wikiwand.com/en/Rapid_serial_visual_presentation)
 [Speed Learning — How I consume and comprehend media at 2x | Wes Bos](http://wesbos.com/speed-learning/)
 [The Truth About Speed Reading](http://lifehacker.com/the-truth-about-speed-reading-1542508398)
 [Free online speed reading software | Spreeder.com](http://www.spreeder.com/app.php)

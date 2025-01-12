@@ -2,7 +2,7 @@
 title: Adblocking
 description: ""
 created: 2018-07-27
-updated: 2024-09-15
+updated: 2025-01-09
 tags:
   - web
 ---
@@ -25,7 +25,7 @@ Adblocker allows Google to filter out those who won't click ads, this increases 
 [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
 [gorhill/uBlock: uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.](https://github.com/gorhill/uBlock)
 
-[uBlock Origin - Wikiwand](https://omni.wikiwand.com/en/UBlock_Origin)
+[uBlock Origin - Wikiwand](https://www.wikiwand.com/en/UBlock_Origin)
 [Home · gorhill/uBlock Wiki](https://github.com/gorhill/uBlock/wiki)
 [uBlock vs. ABP: efficiency compared · gorhill/uBlock Wiki](https://github.com/gorhill/uBlock/wiki/uBlock-vs.-ABP:-efficiency-compared)
 

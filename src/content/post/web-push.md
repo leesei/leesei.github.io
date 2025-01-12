@@ -2,13 +2,13 @@
 title: Web Push Technologies
 description: ""
 created: 2024-03-12
-updated: 2024-09-07
+updated: 2025-01-09
 tags:
   - server-send-event
   - web
 ---
 
-[Push technology - Wikiwand](https://omni.wikiwand.com/en/Push_technology#/Long_polling)
+[Push technology - Wikiwand](https://www.wikiwand.com/en/Push_technology#/Long_polling)
 [php - What are Long-Polling, Websockets, Server-Sent Events (SSE) and Comet? - Stack Overflow](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
 
 [Webhooks vs Websockets vs HTTP Streaming - Which Event-Driven API to use? - YouTube](https://www.youtube.com/watch?v=6RvlKYgRFYQ)
@@ -53,7 +53,7 @@ Intermediaries may buffer response leading to high latency
 
 [Server-sent events - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
 [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/#feat=eventsource)
-[Server-sent events - Wikiwand](https://omni.wikiwand.com/en/Server-sent_events)
+[Server-sent events - Wikiwand](https://www.wikiwand.com/en/Server-sent_events)
 
 [Server-Sent Events Crash Course - YouTube](https://www.youtube.com/watch?v=4HlNv1qpZFY)
 
@@ -111,7 +111,7 @@ Intermediaries may buffer response leading to high latency
 
 # WebSub
 
-[WebSub - Wikiwand](https://omni.wikiwand.com/en/WebSub) formerly PubSubHubbub
+[WebSub - Wikiwand](https://www.wikiwand.com/en/WebSub) formerly PubSubHubbub
 [PubSubHubbub](https://github.com/pubsubhubbub)
 
 ---

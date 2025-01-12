@@ -2,13 +2,13 @@
 title: UML
 description: ""
 created: 2015-04-14
-updated: 2024-09-16
+updated: 2025-01-09
 tags:
   - comp/lang
   - uml
 ---
 
-[Unified Modeling Language - Wikiwand](https://omni.wikiwand.com/en/Unified_Modeling_Language)
+[Unified Modeling Language - Wikiwand](https://www.wikiwand.com/en/Unified_Modeling_Language)
 [YANG Central](http://www.yang-central.org/twiki/bin/view/Main/WebHome)
 
 [Allen Holub's UML Quick Reference](http://www.holub.com/goodies/uml/)
@@ -166,7 +166,7 @@ styling:
 ### Pikchr
 
 [Pikchr: Documentation](https://pikchr.org/home/doc/trunk/homepage.md)
-[PIC (markup language) - Wikiwand](https://omni.wikiwand.com/en/Pic_language)
+[PIC (markup language) - Wikiwand](https://www.wikiwand.com/en/Pic_language)
 
 [Pikchr: Pikchr User Manual](https://pikchr.org/home/doc/trunk/doc/userman.md)
 

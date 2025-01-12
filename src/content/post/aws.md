@@ -2,7 +2,7 @@
 title: Amazon Web Services
 description: ""
 created: 2015-06-17
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - web
 ---
@@ -49,7 +49,7 @@ tags:
 [AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english) ❗!important
 [CloudAcademy AWS](https://cloudacademy.com/amazon-web-services/#services-list) simple description
 [AWS cloud services features: A guide to the right tools for the job | InfoWorld](https://www.infoworld.com/article/3245925/cloud-computing/aws-cloud-services-guide-the-right-tools-for-the-job.html)
-[Category:Amazon Web Services - Wikiwand](http://omni.wikiwand.com/en/Category:Amazon_Web_Services)
+[Category:Amazon Web Services - Wikiwand](http://www.wikiwand.com/en/Category:Amazon_Web_Services)
 [AWSomeBlog.com - Amazon Web Services Tutorials](http://www.awsomeblog.com/)
 
 [Top 50+ AWS Services Explained in 10 Minutes - YouTube](https://www.youtube.com/watch?v=JIbIYCM48to)

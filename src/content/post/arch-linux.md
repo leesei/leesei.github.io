@@ -2,7 +2,7 @@
 title: Arch Linux
 description: ""
 created: 2014-12-08
-updated: 2024-09-15
+updated: 2025-01-09
 tags:
   - arch-linux
   - desktop
@@ -10,7 +10,7 @@ tags:
   - package-manager
 ---
 
-[Arch Linux - Wikiwand](http://omni.wikiwand.com/en/Arch_Linux)
+[Arch Linux - Wikiwand](http://www.wikiwand.com/en/Arch_Linux)
 [Arch Linux Wiki](https://www.archlinux.org/)
 [Community Wiki | Antergos](http://antergos.com/wiki/)
 [Arch Linux ARM](https://archlinuxarm.org/)

@@ -2,7 +2,7 @@
 title: macOS
 description: ""
 created: 2016-01-03
-updated: 2024-09-19
+updated: 2025-01-09
 tags:
   - app
   - bootcamp
@@ -52,7 +52,7 @@ If you don't have Windows install USB:
 [Running macOS inside Linux with Docker-OSX - DEV Community](https://dev.to/gombosg/running-macos-inside-linux-with-docker-osx-4e1i)
 
 [XQuartz](https://www.xquartz.org/)
-[XQuartz - Wikiwand](https://omni.wikiwand.com/en/XQuartz)
+[XQuartz - Wikiwand](https://www.wikiwand.com/en/XQuartz)
 
 ## Sleep/Hibernate
 
@@ -62,6 +62,8 @@ If you don't have Windows install USB:
 [dazuelos/hibernate: shell scripts about hibernation of MacOS](https://github.com/dazuelos/hibernate/)
 
 ## Productivity
+
+[[window-manager#OS X]]
 
 [Mac keyboard shortcuts - Apple Support](https://support.apple.com/en-us/HT201236)
 
@@ -82,19 +84,6 @@ If you don't have Windows install USB:
 
 [Raycast](https://www.raycast.com/) free tier
 [Introduction - Raycast API](https://developers.raycast.com/)
-
-### Windows Manager
-
-[OS X Window Manager Apps | CSS-Tricks](https://css-tricks.com/os-x-window-manager-apps/)
-
-[Mizage - Divvy](http://mizage.com/divvy/)
-
-[sdegutis/mjolnir: Lightweight automation and productivity app for OS X](https://github.com/sdegutis/mjolnir)
-[nathankot/mjolnir.tiling: Add tiling window management powers to your mjolnir](https://github.com/nathankot/mjolnir.tiling)
-[koekeishiya/yabai: A tiling window manager for macOS based on binary space partitioning](https://github.com/koekeishiya/yabai)
-[Hammerspoon Team](https://github.com/hammerspoon)
-
-[Rectangle Mac](https://rectangleapp.com/)
 
 ## Package Manager
 

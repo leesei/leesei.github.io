@@ -2,7 +2,7 @@
 title: Reverse Engineering
 description: ""
 created: 2023-03-01
-updated: 2024-09-29
+updated: 2025-01-09
 tags:
   - security
 ---
@@ -119,7 +119,7 @@ John Hammond
 
 ## Shellcode
 
-[Shellcode - Wikiwand](https://omni.wikiwand.com/en/Shellcode)
+[Shellcode - Wikiwand](https://www.wikiwand.com/en/Shellcode)
 [What is shellcode and how is it used? | TechTarget](https://www.techtarget.com/searchsecurity/answer/What-is-the-relationship-between-shellcode-and-exploit-code)
 
 [Emulation of Malicious Shellcode With Speakeasy | Mandiant](https://www.mandiant.com/resources/blog/emulation-of-malicious-shellcode-with-speakeasy)
@@ -131,8 +131,8 @@ John Hammond
 
 ## ELF
 
-[Executable and Linkable Format - Wikiwand](https://omni.wikiwand.com/en/Executable_and_Linkable_Format)
-[Global Offset Table - Wikiwand](https://omni.wikiwand.com/en/Global_Offset_Table)
+[Executable and Linkable Format - Wikiwand](https://www.wikiwand.com/en/Executable_and_Linkable_Format)
+[Global Offset Table - Wikiwand](https://www.wikiwand.com/en/Global_Offset_Table)
 
 [Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer)
 [In-depth: ELF - The Extensible & Linkable Format - YouTube](https://www.youtube.com/watch?v=nC1U1LJQL8o)
@@ -159,7 +159,7 @@ objdump -d -Mintel <binary>
 
 ### PE format
 
-[Portable Executable - Wikiwand](https://omni.wikiwand.com/en/Portable_Executable)
+[Portable Executable - Wikiwand](https://www.wikiwand.com/en/Portable_Executable)
 
 [Libpe - a Fast PE32/PE32+ Parsing Library.](https://www.evilsocket.net/2014/02/21/libpe-A-fast-PE32-PE32-parsing-library/)
 [evilsocket/libpe: A C/C++ library to parse Windows portable executables written with speed and stability in mind.](https://github.com/evilsocket/libpe)
@@ -178,7 +178,10 @@ objdump -d -Mintel <binary>
 ## C Sharp
 
 [I show you how to Crack a .NET Application (3 clicks) - DEV Community](https://dev.to/dotnetsafer/i-show-you-how-to-crack-a-net-application-3-clicks-47ke)
+
 [dnSpy/dnSpy: .NET debugger and assembly editor](https://github.com/dnSpy/dnSpy)
+[Decompiling C# by Example with Cracknet | Codingo](https://codingo.io/reverse-engineering/ctf/2017/07/25/Decompiling-CSharp-By-Example-with-Cracknet.html)
+
 [Kani](https://decompiler.dotnetsafer.com/) Web decompiler
 
 [icsharpcode/ILSpy: .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!](https://github.com/icsharpcode/ILSpy)
@@ -220,8 +223,13 @@ objdump -d -Mintel <binary>
 
 [Android Applications Reversing 101](https://www.evilsocket.net/2017/04/27/Android-Applications-Reversing-101/)
 [r0ysue/AndroidSecurityStudy: 安卓应用安全学习](https://github.com/r0ysue/AndroidSecurityStudy)
-[Frida 脱壳、自动化、objection、Wallbreaker插件、fridaUiTools-CSDN博客](https://blog.csdn.net/freeking101/article/details/107749541)
 [Writing your first Frida script for Android | Cognisys Labs](https://labs.cognisys.group/posts/Writing-your-first-Frida-script-for-Android/)
+
+[Objection Tutorial | HackTricks](https://book.hacktricks.xyz/mobile-pentesting/android-app-pentesting/frida-tutorial/objection-tutorial)
+[sensepost/objection: 📱 objection - runtime mobile exploration](https://github.com/sensepost/objection) patch APK to include Frida
+
+[Three Ways to Hack Mobile Apps - YouTube](https://www.youtube.com/watch?v=QwwLSyRzNwo) `jadx`, Frida+Objection, `apktool`+smail
+[Frida 脱壳、自动化、objection、Wallbreaker插件、fridaUiTools-CSDN博客](https://blog.csdn.net/freeking101/article/details/107749541)
 
 ## Wasm
 

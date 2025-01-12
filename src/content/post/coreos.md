@@ -2,7 +2,7 @@
 title: CoreOS
 description: ""
 created: 2014-12-11
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - container
   - coreos
@@ -14,7 +14,7 @@ tags:
 > acquired by RedHat
 
 [CoreOS is Linux for Massive Server Deployments](https://coreos.com/) succeeded by Fedora Core OS
-[CoreOS - Wikiwand](https://omni.wikiwand.com/en/CoreOS)
+[CoreOS - Wikiwand](https://www.wikiwand.com/en/CoreOS)
 
 [Orchestrating your containers with CoreOS, an introduction – Development the way it should be](https://jlordiales.me/2015/07/12/coreos/)
 [Docker debuts containerized kit for building Linux distros | InfoWorld](http://www.infoworld.com/article/3190611/open-source-tools/docker-debuts-containerized-construction-kit-for-building-linux-distros.html)

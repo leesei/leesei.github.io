@@ -2,13 +2,13 @@
 title: Cold Weapons
 description: ""
 created: 2015-10-09
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - weapons
 ---
 
-[Cold weapon - Wikiwand](http://omni.wikiwand.com/en/Cold_weapon)
-[List of premodern combat weapons - Wikiwand](http://omni.wikiwand.com/en/List_of_premodern_combat_weapons)
+[Cold weapon - Wikiwand](http://www.wikiwand.com/en/Cold_weapon)
+[List of premodern combat weapons - Wikiwand](http://www.wikiwand.com/en/List_of_premodern_combat_weapons)
 
 [Weapons and armour - YouTube](https://www.youtube.com/playlist?list=PLCA860ECD7F894424) Lindybeige
 [Walter Sorrells - YouTube](https://www.youtube.com/user/slappybuckshot)
@@ -59,10 +59,10 @@ tags:
 [古代兵器大辟谣 - YouTube](https://www.youtube.com/playlist?list=PLB_IY29eVwsVoj3ICm8wdaPPhyUzdXX_K)
 [《古兵器大揭秘》 第二季|揭示古兵器相生相克的秘密【全 10 集】 - YouTube](https://www.youtube.com/playlist?list=PLwXMmy5fUrVxM9p2mQkPFSIXYlat8FkYM)
 
-[十八般兵器 - Wikiwand](https://omni.wikiwand.com/zh/%E5%8D%81%E5%85%AB%E8%88%AC%E5%85%B5%E5%99%A8)
-[戈 (武器) - Wikiwand](<https://omni.wikiwand.com/zh/%E6%88%88_(%E6%AD%A6%E5%99%A8)>) 以勾擊為主要攻擊方式
-[矛 - Wikiwand](https://omni.wikiwand.com/zh/%E7%9F%9B) 跟槍、槊同樣
-[戟 - Wikiwand](https://omni.wikiwand.com/zh/%E6%88%9F) 結合戈與矛
+[十八般兵器 - Wikiwand](https://www.wikiwand.com/zh/%E5%8D%81%E5%85%AB%E8%88%AC%E5%85%B5%E5%99%A8)
+[戈 (武器) - Wikiwand](<https://www.wikiwand.com/zh/%E6%88%88_(%E6%AD%A6%E5%99%A8)>) 以勾擊為主要攻擊方式
+[矛 - Wikiwand](https://www.wikiwand.com/zh/%E7%9F%9B) 跟槍、槊同樣
+[戟 - Wikiwand](https://www.wikiwand.com/zh/%E6%88%9F) 結合戈與矛
 
 [[chinese-swords]]
 
@@ -82,7 +82,7 @@ tags:
 
 [The Oakeshott Institute: Sword, weapons and armor research](http://oakeshott.org/) on sword categorization
 [The Oakeshott Institute is creating 3d models, photos, and articles on historic arms and armor | Patreon](https://www.patreon.com/oakeshott)
-[Oakeshott typology - Wikiwand](https://omni.wikiwand.com/en/Oakeshott_typology)
+[Oakeshott typology - Wikiwand](https://www.wikiwand.com/en/Oakeshott_typology)
 [Introduction to Oakeshott's Sword Typology](http://www.thearma.org/spotlight/oakeshott_typology.html)
 [Oakeshott's Typology of the Medieval Sword](https://albion-swords.com/articles/oakeshott-typology.htm)
 [Ewart Oakeshott: The Man and his Legacy -- myArmoury.com](https://myarmoury.com/feature_oakeshott.html)
@@ -92,19 +92,19 @@ tags:
 [Armor - A 3D model collection by ferretkun (@ferretkun) - Sketchfab](https://sketchfab.com/ferretkun/collections/armor)
 [Armour - A 3D model collection by metalcharm (@metalcharm) - Sketchfab](https://sketchfab.com/metalcharm/collections/armour)
 
-[十八般兵器 - Wikiwand](https://omni.wikiwand.com/zh/%E5%8D%81%E5%85%AB%E8%88%AC%E5%85%B5%E5%99%A8)
+[十八般兵器 - Wikiwand](https://www.wikiwand.com/zh/%E5%8D%81%E5%85%AB%E8%88%AC%E5%85%B5%E5%99%A8)
 [十八般兵器\_百度百科](https://baike.baidu.com/item/%E5%8D%81%E5%85%AB%E8%88%AC%E5%85%B5%E5%99%A8)
 
 ## Siege weapons
 
-[Catapult - Wikiwand](https://omni.wikiwand.com/en/Catapult) umbrella term, tension or torsion energy
-[Onager (weapon) - Wikiwand](<https://omni.wikiwand.com/en/Onager_(weapon)>) 弩砲 torsion energy, commonly known as catapult
-[Mangonel - Wikiwand](https://omni.wikiwand.com/en/Mangonel) 牽引投石機 traction trebuchet, powered by man
-[Trebuchet - Wikiwand](http://omni.wikiwand.com/en/Trebuchet) 重力投石機/配重式投石機 powered by counterweight
+[Catapult - Wikiwand](https://www.wikiwand.com/en/Catapult) umbrella term, tension or torsion energy
+[Onager (weapon) - Wikiwand](<https://www.wikiwand.com/en/Onager_(weapon)>) 弩砲 torsion energy, commonly known as catapult
+[Mangonel - Wikiwand](https://www.wikiwand.com/en/Mangonel) 牽引投石機 traction trebuchet, powered by man
+[Trebuchet - Wikiwand](http://www.wikiwand.com/en/Trebuchet) 重力投石機/配重式投石機 powered by counterweight
 [Catapults, trebuchet, onager, mangonel, ballista - YouTube](https://www.youtube.com/watch?v=yCIk9bT2ZTo) vs people
 
-[Siege engine - Wikiwand](http://omni.wikiwand.com/en/Siege_engine)
-[Siege tower - Wikiwand](http://omni.wikiwand.com/en/Siege_tower)
+[Siege engine - Wikiwand](http://www.wikiwand.com/en/Siege_engine)
+[Siege tower - Wikiwand](http://www.wikiwand.com/en/Siege_tower)
 
 [The Evolution From Arrows To Artillery In Weapon Technology | Our History - YouTube](https://www.youtube.com/watch?v=7bEmrwNRfWA)
 [The TRUTH about medieval CATAPULTS - YouTube](https://www.youtube.com/watch?v=7x-vv0FCIkQ)
@@ -121,9 +121,9 @@ tags:
 
 ## Forging
 
-[Metalworking - Wikiwand](http://omni.wikiwand.com/en/Metalworking)
-[Forge - Wikiwand](http://omni.wikiwand.com/en/Forge)
-[Forging - Wikiwand](http://omni.wikiwand.com/en/Forging)
+[Metalworking - Wikiwand](http://www.wikiwand.com/en/Metalworking)
+[Forge - Wikiwand](http://www.wikiwand.com/en/Forge)
+[Forging - Wikiwand](http://www.wikiwand.com/en/Forging)
 [變軟變硬都靠它？金屬熱處理，退火、淬火、回火的原理解說 - YouTube](https://www.youtube.com/watch?v=u9kpobrLBj4) ❗!important
 
 Heat treat and temper
@@ -151,7 +151,7 @@ Heat treat and temper
 
 Smelting, quenching and tempering
 
-[Smelting - Wikiwand](https://omni.wikiwand.com/en/Smelting)
+[Smelting - Wikiwand](https://www.wikiwand.com/en/Smelting)
 [Category:Smelting - Wikipedia](https://en.wikipedia.org/wiki/Category:Smelting?oldformat=true)
 [The riddle of steel: How people made it by accident for millennia - YouTube](https://www.youtube.com/watch?v=wrgK-9nNzow) early smelting would probably create little bit of steel
 [History Summarized: Steel (Feat. "That Works") - YouTube](https://www.youtube.com/watch?v=T-EuVTg9gzg)
@@ -193,7 +193,7 @@ Buckler: round shield hold at the center facing forward
 
 A stone age tool that predates bow and arrow
 
-[Spear-thrower - Wikiwand](https://omni.wikiwand.com/en/Spear-thrower) but spear is a thrusting weapon
+[Spear-thrower - Wikiwand](https://www.wikiwand.com/en/Spear-thrower) but spear is a thrusting weapon
 [The Atlatl: Most Underrated Stone Age Tool? - YouTube](https://www.youtube.com/watch?v=YGGvWazDM_g)
 [How to Throw an Atlatl | Live Free or Die: DIY - YouTube](https://www.youtube.com/watch?v=NHgUMUk3YwY)
 [Hunting the Ancient Bison. Primitive hunting with the Atlatl & Exploring Experimental Archaeology - YouTube](https://www.youtube.com/watch?v=l7jMxfopKjM)
@@ -220,7 +220,7 @@ A stone age tool that predates bow and arrow
 [為什麼斯基泰騎射手戴弓箭袋方式與別不同？｜香港 01 ｜武備志](https://www.hk01.com/%E6%AD%A6%E5%82%99%E5%BF%97/141744/)
 [關於日本人使弓上下不對稱，有個複雜的說法！ - 每日頭條](https://kknews.cc/news/g83q5m8.html)
 
-[Archer's paradox - Wikiwand](https://omni.wikiwand.com/en/Archer%27s_paradox)
+[Archer's paradox - Wikiwand](https://www.wikiwand.com/en/Archer%27s_paradox)
 [箭該放在弓的那一邊？｜香港 01 ｜武備志](https://www.hk01.com/%E6%AD%A6%E5%82%99%E5%BF%97/87800/)
 
 [archhk - YouTube](https://www.youtube.com/user/archhk/feed)
@@ -230,8 +230,8 @@ A stone age tool that predates bow and arrow
 
 ## 馬鐙 Stirrup
 
-[Stirrup - Wikiwand](https://omni.wikiwand.com/en/Stirrup)
-[鐙 - Wikiwand](https://omni.wikiwand.com/zh/%E9%95%AB) 古代兵器大辟谣
+[Stirrup - Wikiwand](https://www.wikiwand.com/en/Stirrup)
+[鐙 - Wikiwand](https://www.wikiwand.com/zh/%E9%95%AB) 古代兵器大辟谣
 [马镫\_百度百科](https://baike.baidu.com/item/%E9%A9%AC%E9%95%AB)
 [三國時期到底有沒有馬鐙，馬鐙到底是什麼時候出現的？ - 每日頭條](https://kknews.cc/zh-hk/history/5ookgnl.html)
 [到底是誰發明了馬鐙？ - 每日頭條](https://kknews.cc/zh-hk/culture/r8r9q3n.html)
@@ -253,4 +253,4 @@ Tengu Media
 [武備志 Martialab - Home](https://www.facebook.com/Martialabhk/)
 [武備志｜提供 MMA、柔道等搏擊運動比賽及技術資訊｜香港 01](https://www.hk01.com/channel/166/%E6%AD%A6%E5%82%99%E5%BF%97)
 
-[Historical European martial arts - Wikiwand](https://omni.wikiwand.com/en/Historical_European_martial_arts)
+[Historical European martial arts - Wikiwand](https://www.wikiwand.com/en/Historical_European_martial_arts)

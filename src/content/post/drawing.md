@@ -2,7 +2,7 @@
 title: Drawing
 description: ""
 created: 2015-10-27
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - trivia
 ---
@@ -16,6 +16,11 @@ tags:
 [Marvel DRAW! - YouTube](https://www.youtube.com/playlist?list=PLNw_hEO5pK1qZr8pVt-1clkHOf2f2EPeK)
 [jd art - YouTube](https://www.youtube.com/channel/UCPDRZPNVb3Rxhjv7AI4kUEw)
 [Jazza - YouTube](https://www.youtube.com/channel/UCHu2KNu6TtJ0p4hpSW7Yv7Q)
+
+## Sketching
+
+[李正素描(接定制) - YouTube](https://www.youtube.com/@%E6%9D%8E%E6%AD%A3%E7%B4%A0%E6%8F%8F%E6%8E%A5%E5%AE%9A%E5%88%B6-g3v/)
+[素描侧脸美女人像教程来喽！一起来画 抖音插画大赛 GAF广州插画艺术节 素描 画画 美术生 - YouTube](https://www.youtube.com/shorts/lZq2e2JsllY)
 
 ## Animation
 
@@ -35,16 +40,16 @@ tags:
 [What Is The Difference Between Watercolor Pencils, Markers & Sticks - YouTube](https://www.youtube.com/watch?v=GUjwOZ6eNCs)
 [ALCOHOL Vs. WATER (Markers) - Which is best?... - YouTube](https://www.youtube.com/watch?v=PWX6icF3-K0)
 
-[Watercolor painting - Wikiwand](https://omni.wikiwand.com/en/Watercolor_painting#/Watercolor_paint)
+[Watercolor painting - Wikiwand](https://www.wikiwand.com/en/Watercolor_painting#/Watercolor_paint)
 [Watercolor For Beginners | Supplies & Watercolor Techniques for Beginners & Painting the Ocean - YouTube](https://www.youtube.com/watch?v=Wg_vJzRLSAI)
 
-[Acrylic paint - Wikiwand](https://omni.wikiwand.com/en/Acrylic_paint)
+[Acrylic paint - Wikiwand](https://www.wikiwand.com/en/Acrylic_paint)
 
-[Poster paint - Wikiwand](https://omni.wikiwand.com/en/Poster_paint)
-[Gouache - Wikiwand](https://omni.wikiwand.com/en/Gouache)
+[Poster paint - Wikiwand](https://www.wikiwand.com/en/Poster_paint)
+[Gouache - Wikiwand](https://www.wikiwand.com/en/Gouache)
 [Poster Color - What is it? Sakura Poster Color First Impressions - YouTube](https://www.youtube.com/watch?v=oz8XHJ_aqTY)
 [How to paint with Poster Colours | Poster color painting. - Jdarts 08 - YouTube](https://www.youtube.com/watch?v=nF0s37PWCSQ)
 Poster paint is cheaper and not lightfast (degrade under sunlight)
 
-[Pastel - Wikiwand](https://omni.wikiwand.com/en/Pastel)
-[Crayon - Wikiwand](https://omni.wikiwand.com/en/Crayon)
+[Pastel - Wikiwand](https://www.wikiwand.com/en/Pastel)
+[Crayon - Wikiwand](https://www.wikiwand.com/en/Crayon)

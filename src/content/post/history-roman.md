@@ -2,14 +2,14 @@
 title: History Europe
 description: ""
 created: 2016-09-12
-updated: 2024-09-07
+updated: 2025-01-09
 tags:
   - history
   - history/roman
 ---
 
-[Roman Empire - Wikiwand](http://omni.wikiwand.com/en/Roman_Empire)
-[History of the Roman Empire - Wikiwand](http://omni.wikiwand.com/en/History_of_the_Roman_Empire)
+[Roman Empire - Wikiwand](http://www.wikiwand.com/en/Roman_Empire)
+[History of the Roman Empire - Wikiwand](http://www.wikiwand.com/en/History_of_the_Roman_Empire)
 
 [Roman Republic - World History Encyclopedia](https://www.worldhistory.org/Roman_Republic/)
 [Roman Empire - World History Encyclopedia](https://www.worldhistory.org/Roman_Empire/)
@@ -21,6 +21,7 @@ tags:
 [Roman History - YouTube](https://www.youtube.com/playlist?list=PLaBYW76inbX6WrNCeL_AdR36ZIODiGNzq) Kings and Generals
 [Ancient Rome, classical world - YouTube](https://www.youtube.com/playlist?list=PLObJ0KGDh5_NK3QFHjjAFF7ZQeOXAFSCp) Epimetheus
 [羅馬是怎麼建立的 古羅馬起源 古羅馬共和國 羅馬歷史 羅馬是誰建立的 羅馬帝國 屋大維 凱撒 安東尼 羅馬皇帝 羅馬簡史 古羅馬簡史 早期羅馬 動畫科普 趣味歷史 歐洲歷史 歐洲史 歐洲簡史 - YouTube](https://www.youtube.com/watch?v=eOHfOlgJqdA)
+[同是大一统王朝，为什么中国走向一统，但罗马帝国却四分五裂？20分钟讲透罗马帝国政治史 - YouTube](https://www.youtube.com/watch?v=hqJ9ErAje34)
 
 [作者: Zannanza | 聚言時報 Polymer](http://polymerhk.com/articles/author/zannanza/)
 
@@ -49,11 +50,12 @@ A Legend (battalion) consists of 3 Manipals plus several other officers
 
 ## Roman-Persian Wars
 
-[Roman–Persian Wars - Wikiwand](http://omni.wikiwand.com/en/Roman–Persian_Wars) 54 BCE – 628 CE
+[Roman–Persian Wars - Wikiwand](http://www.wikiwand.com/en/Roman–Persian_Wars) 54 BCE – 628 CE
 
 ## Byzantine/Eastern Roman Empire
 
-[Byzantine Empire - Wikiwand](http://omni.wikiwand.com/en/Byzantine_Empire) after the fall of the Western Roman Empire in the 5th century CE
+[Byzantine Empire - Wikiwand](http://www.wikiwand.com/en/Byzantine_Empire) after the fall of the Western Roman Empire in the 5th century CE
 
 [羅馬千年榮光！「歐洲最強門神」拜占庭帝國的關鍵時刻｜【歷史大調查】EP05 - YouTube](https://www.youtube.com/watch?v=FzbrhX8u7YI)
 The Islamic Arabs stepped out of the Arabs peninsular around 630 CE when the Byzantine and Sassanid Empire were fighting each other. The Arabs took advantage of the situation and conquered the Sassanid Empire and the Byzantine Empire.
+[拜占庭末日之戰，最後的羅馬皇帝如何力挽狂瀾？ ｜【英雄故事書】EP155 - YouTube](https://www.youtube.com/watch?v=DJrQabnNfh4)

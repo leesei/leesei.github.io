@@ -2,17 +2,17 @@
 title: Food
 description: ""
 created: 2015-10-09
-updated: 2024-09-22
+updated: 2025-01-09
 tags:
   - food
   - science
 ---
 
-[foodskey - YouTube](https://www.youtube.com/channel/UCWUq6teKH18Iwuh41D75sQg)
+[foodskey - YouTube](https://www.youtube.com/@foodskey)
 [MinuteFood - YouTube](https://www.youtube.com/@MinuteFood)
 [History of Food & Agriculture - YouTube](https://www.youtube.com/playlist?list=PLiCEoVachDxtMGZxiUuyeGeCdEZznf1V_) Fire of Learning
 [赛博食录 - YouTube](https://www.youtube.com/@saiboshilu)
-[Ethan Chlebowski - YouTube](https://www.youtube.com/@EthanChlebowski) trying out luxury food
+[Ethan Chlebowski - YouTube](https://www.youtube.com/@EthanChlebowski) trying out luxury food, food science
 [獨角獸那麼叫 - YouTube](https://www.youtube.com/@unicorn-roar)
 
 [Food for thought - STYLE Origins series | South China Morning Post](https://series.scmp.com/style/food-origins/)
@@ -20,7 +20,7 @@ tags:
 
 [A New Apple Is Born «](http://www.sporkful.com/a-new-apple-is-born/)
 
-[Miraculin - Wikiwand](https://omni.wikiwand.com/en/Miraculin) make sour sweet
+[Miraculin - Wikiwand](https://www.wikiwand.com/en/Miraculin) make sour sweet
 [Flavor Tripping with the Miracle Berry | HowStuffWorks](https://shows.howstuffworks.com/foodstuff/miracle-fruit.htm)
 
 [The Secret to Making Light and Fluffy Scrambled Eggs - Delishably](https://delishably.com/dairy/Secret-to-Light-and-Fluffy-Scrambled-Eggs)
@@ -56,21 +56,21 @@ Coriander vs Chervil vs Parsley
 
 [[paleontology#Younger Dryas]]
 
-[Agriculture - Wikiwand](https://omni.wikiwand.com/en/Agriculture)
-[农业 - Wikiwand](https://omni.wikiwand.com/zh/%E5%86%9C%E4%B8%9A)
+[Agriculture - Wikiwand](https://www.wikiwand.com/en/Agriculture)
+[农业 - Wikiwand](https://www.wikiwand.com/zh/%E5%86%9C%E4%B8%9A)
 
-[Agronomy - Wikiwand](https://omni.wikiwand.com/en/Agronomy)
-[农学 - Wikiwand](https://omni.wikiwand.com/zh/%E5%86%9C%E5%AD%A6)
+[Agronomy - Wikiwand](https://www.wikiwand.com/en/Agronomy)
+[农学 - Wikiwand](https://www.wikiwand.com/zh/%E5%86%9C%E5%AD%A6)
 
 [改變人類命運的，神一樣的男人！農業革命是偶然？還是必然？【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=AF_vU7flswM)
-[Neolithic Revolution - Wikiwand](https://omni.wikiwand.com/en/First_Agricultural_Revolution) the First Agricultural Revolution (circa 10,000 BC)
-[British Agricultural Revolution - Wikiwand](https://omni.wikiwand.com/en/British_Agricultural_Revolution) the Second Agricultural Revolution (17th-19th century)
-[Green Revolution - Wikiwand](https://omni.wikiwand.com/en/Third_Agricultural_Revolution)
+[Neolithic Revolution - Wikiwand](https://www.wikiwand.com/en/First_Agricultural_Revolution) the First Agricultural Revolution (circa 10,000 BC)
+[British Agricultural Revolution - Wikiwand](https://www.wikiwand.com/en/British_Agricultural_Revolution) the Second Agricultural Revolution (17th-19th century)
+[Green Revolution - Wikiwand](https://www.wikiwand.com/en/Third_Agricultural_Revolution)
 the Third Agricultural Revolution (1930s-1960s)
 
 [Engineering Breakthroughs That Will FEED The World - YouTube](https://www.youtube.com/watch?v=tQZM38N9ICo)
 
-[五穀 - Wikiwand](https://omni.wikiwand.com/zh/%E4%BA%94%E8%B0%B7)
+[五穀 - Wikiwand](https://www.wikiwand.com/zh/%E4%BA%94%E8%B0%B7)
 [五谷（食物）\_百度百科](https://baike.baidu.com/item/%E4%BA%94%E8%B0%B7/92646)
 [五谷杂粮\_百度百科](https://baike.baidu.com/item/%E4%BA%94%E8%B0%B7%E6%9D%82%E7%B2%AE)
 [你知道，五穀是哪五穀嗎? | KGCHECK 聯華食品生醫研究室](https://shop.kgcheck.com.tw/cc-26232)
@@ -100,6 +100,8 @@ Millet 粟 栗
 [【食录】高产的土豆，是怎么饿死数百万人的？ - YouTube](https://www.youtube.com/watch?v=absYFmbNrhg) 愛爾蘭饑荒
 [如果没有玉米，我们或许吃不上便宜的炸鸡？ - YouTube](https://www.youtube.com/watch?v=n0IHC5D_XPo)
 
+[為什麼有人說玉米是外星植物？爆米花竟然可能改變了世界！世界第一糧食作物，其實早已不只是糧食……【老肉雜談】#生物 #玉米 #植物 #都市傳說 - YouTube](https://www.youtube.com/watch?v=QVZlo_cDvvI)
+
 ### Pasta
 
 Al dente
@@ -124,10 +126,10 @@ Nidi larghi
 
 ## Husbandry
 
-[Animal husbandry - Wikiwand](https://omni.wikiwand.com/en/Husbandry)
-[畜牧业 - Wikiwand](https://omni.wikiwand.com/zh/%E7%95%9C%E7%89%A7%E4%B8%9A)
+[Animal husbandry - Wikiwand](https://www.wikiwand.com/en/Husbandry)
+[畜牧业 - Wikiwand](https://www.wikiwand.com/zh/%E7%95%9C%E7%89%A7%E4%B8%9A)
 
-[六畜 - Wikiwand](https://omni.wikiwand.com/zh/%E5%85%AD%E7%95%9C)
+[六畜 - Wikiwand](https://www.wikiwand.com/zh/%E5%85%AD%E7%95%9C)
 
 料肉比 FCR
 出欄時間
@@ -136,7 +138,7 @@ Nidi larghi
 
 > domestic fowls, including chickens, turkeys, geese and ducks, raised for the production of meat or eggs
 
-[Poultry - Wikiwand](https://omni.wikiwand.com/en/Poultry)
+[Poultry - Wikiwand](https://www.wikiwand.com/en/Poultry)
 
 [一年吃掉50亿只，42天就出栏的白羽鸡真的没问题吗？【食录】 - YouTube](https://www.youtube.com/watch?v=0e6kzbHIQ6Q)
 
@@ -251,6 +253,7 @@ Third Generation:
 ## Salt
 
 [How Salt Works | HowStuffWorks](https://science.howstuffworks.com/innovation/edible-innovations/salt.htm/printable)
+[Is expensive Salt actually worth it? - YouTube](https://www.youtube.com/watch?v=L3EHUgx-jIY)
 
 ## MSG
 
@@ -280,4 +283,4 @@ Third Generation:
 [扇貝：它是進化最成功的貝類，不僅長了200隻眼睛，且還會遊泳，神秘的數百萬隻海星之死和扇貝有關嗎？極品海鮮扇貝的真相！ - YouTube](https://www.youtube.com/watch?v=SQT1HU1lhbY)
 
 [最好吃的海怪們：蛤、蚶、蟶、蠔、蜆有什麼區別？北極貝到底是什麼？象拔蚌又有哪些不可告人的秘密？這是一群美味海怪與人類的故事……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=9gqCqmiO1r4)
-[A鮑魚：新西蘭鮑魚氾濫，為什麼它依舊是奢侈食材？秘密隱藏在「頭」當中，「幾頭鮑」的背後有一個古老秘密……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=kUVBY9rz_9A)
+[鮑魚：新西蘭鮑魚氾濫，為什麼它依舊是奢侈食材？秘密隱藏在「頭」當中，「幾頭鮑」的背後有一個古老秘密……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=kUVBY9rz_9A)

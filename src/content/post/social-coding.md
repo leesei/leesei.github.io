@@ -2,7 +2,7 @@
 title: Social Coding
 description: ""
 created: 2015-07-02
-updated: 2024-08-16
+updated: 2025-01-09
 tags:
   - comp/lang
 ---

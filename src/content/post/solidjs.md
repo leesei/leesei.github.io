@@ -2,7 +2,7 @@
 title: Solid.js
 description: ""
 created: 2022-08-23
-updated: 2024-05-26
+updated: 2025-01-09
 tags:
   - frontend
   - javascript

@@ -2,7 +2,7 @@
 title: Paleontology
 description: ""
 created: 2019-08-09
-updated: 2024-08-27
+updated: 2025-01-09
 tags:
   - geology
   - paleontology
@@ -12,14 +12,14 @@ tags:
 [[dinosaur]]
 [[prehistoric-creatures]]
 
-[Geology - Wikiwand](https://omni.wikiwand.com/en/geology)
-[Paleontology - Wikiwand](https://omni.wikiwand.com/en/Paleontology)
+[Geology - Wikiwand](https://www.wikiwand.com/en/geology)
+[Paleontology - Wikiwand](https://www.wikiwand.com/en/Paleontology)
 Ma = million years ago
 Ga = billion years ago
 
-[History of Earth - Wikiwand](https://omni.wikiwand.com/en/History_of_Earth)
-[Timeline of the evolutionary history of life - Wikiwand](https://omni.wikiwand.com/en/meline_of_the_evolutionary_history_of_life)
-[Evolutionary history of life - Wikiwand](https://omni.wikiwand.com/en/Evolutionary_history_of_life)
+[History of Earth - Wikiwand](https://www.wikiwand.com/en/History_of_Earth)
+[Timeline of the evolutionary history of life - Wikiwand](https://www.wikiwand.com/en/meline_of_the_evolutionary_history_of_life)
+[Evolutionary history of life - Wikiwand](https://www.wikiwand.com/en/Evolutionary_history_of_life)
 
 Algol
 [History of the Earth - YouTube](https://www.youtube.com/watch?v=Q1OreyX0-fw)
@@ -35,6 +35,7 @@ Algol
 [CHimerasuchus - YouTube](https://www.youtube.com/@chimerasuchus)
 [E.D.G.E - YouTube](https://www.youtube.com/@EDGEscience)
 [GEO GIRL - YouTube](https://www.youtube.com/@GEOGIRL)
+[Factor Trace - YouTube](https://www.youtube.com/@FactorTrace)
 [Henry the PaleoGuy - YouTube](https://www.youtube.com/@HenrythePaleoGuy)
 [History of the Earth - YouTube](https://www.youtube.com/@HistoryoftheEarth)
 [PBS Eons - YouTube](https://www.youtube.com/@eons)
@@ -56,7 +57,7 @@ TREY the Explainer
 [The Man Who Created The Dinosaurs - YouTube](https://www.youtube.com/watch?v=_irPNoHYAco) Sir Richard Owen
 [The Unsung Hero of Dinosaurs - Gideon Mantell - YouTube](https://www.youtube.com/watch?v=Ymx7_u845yY)
 
-[Bone Wars - Wikiwand](https://omni.wikiwand.com/en/Bone_Wars)
+[Bone Wars - Wikiwand](https://www.wikiwand.com/en/Bone_Wars)
 [發生在 19 世紀的恐龍化石戰爭，且看兩個古生物研究狂人的鬥爭如何引領恐龍文化的狂潮丨恐龍時代 - YouTube](https://www.youtube.com/watch?v=XpQ5AVunmy4)
 [化石是怎樣形成？甚麼是化石？恐龍如何變成化石？(繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=DHZF603yLX4)
 
@@ -76,7 +77,7 @@ TREY the Explainer
 [Walking With Monsters (2005) Review - YouTube](https://www.youtube.com/watch?v=6_rbO-fEOEQ)
 [Chased By Dinosaurs (2002) & Chased By Sea Monsters (2003) Reviews - YouTube](https://www.youtube.com/watch?v=_URbj7YRRDM)
 
-[Dinosaur Revolution - Wikiwand](https://omni.wikiwand.com/en/Dinosaur_Revolution)
+[Dinosaur Revolution - Wikiwand](https://www.wikiwand.com/en/Dinosaur_Revolution)
 [Dinosaur Revolution Wiki | Fandom](https://dinosaurrevolution.fandom.com/wiki/Dinosaur_Revolution_Wiki)
 
 ## Paleoart
@@ -97,15 +98,15 @@ TREY the Explainer
 
 ## Geology
 
-[Geologic time scale - Wikiwand](https://omni.wikiwand.com/en/Geologic_time_scale)
-[地質年代 - Wikiwand](https://omni.wikiwand.com/zh/%E5%9C%B0%E8%B4%A8%E5%B9%B4%E4%BB%A3)
-[Geological history of Earth - Wikiwand](https://omni.wikiwand.com/en/Geological_history_of_Earth)
+[Geologic time scale - Wikiwand](https://www.wikiwand.com/en/Geologic_time_scale)
+[地質年代 - Wikiwand](https://www.wikiwand.com/zh/%E5%9C%B0%E8%B4%A8%E5%B9%B4%E4%BB%A3)
+[Geological history of Earth - Wikiwand](https://www.wikiwand.com/en/Geological_history_of_Earth)
 [240 million years ago to 250 million years in the future - YouTube](https://www.youtube.com/watch?v=uLahVJNnoZ4)
 
 [Ancient Earth globe](https://dinosaurpictures.org/ancient-earth/) 3D globe in prehistory
 
-[Stratigraphy - Wikiwand](https://omni.wikiwand.com/en/Stratigraphy)
-[地層學 - Wikiwand](https://omni.wikiwand.com/zh/%E5%9C%B0%E5%B1%82%E5%AD%A6)
+[Stratigraphy - Wikiwand](https://www.wikiwand.com/en/Stratigraphy)
+[地層學 - Wikiwand](https://www.wikiwand.com/zh/%E5%9C%B0%E5%B1%82%E5%AD%A6)
 [International Commission on Stratigraphy](https://stratigraphy.org/chart) 地質年代表/年代地層表
 [地質年代表（國際地層柱） – 新石頭城](http://mynotes.org/earth/?p=2500)
 [【皮毛考古兩分鐘】甚麼是侏羅紀? 淺談恐龍時代! (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=f4T5lpzhiUk)
@@ -138,15 +139,15 @@ Ediacaran 震旦紀 550 Ma
 
 ### Pangaea
 
-[Pangaea - Wikiwand](https://omni.wikiwand.com/en/Pangaea) the singele continent in 225 Ma, starts to split since Triassic
-[泛大陆 - Wikiwand](https://omni.wikiwand.com/zh/%E7%9B%A4%E5%8F%A4%E5%A4%A7%E9%99%B8)
+[Pangaea - Wikiwand](https://www.wikiwand.com/en/Pangaea) the singele continent in 225 Ma, starts to split since Triassic
+[泛大陆 - Wikiwand](https://www.wikiwand.com/zh/%E7%9B%A4%E5%8F%A4%E5%A4%A7%E9%99%B8)
 
 [Pangea Continent Map - Continental Drift - Supercontinent](https://geology.com/pangea.htm)
 [Incredible Map of Pangea With Modern-Day Borders](https://www.visualcapitalist.com/incredible-map-of-pangea-with-modern-borders/)
 [From Pangaea to the Modern Continents - YouTube](https://www.youtube.com/watch?v=WaUk94AdXPA)
 
 Rodinia broke in 750 Ma
-[Gondwana - Wikiwand](https://omni.wikiwand.com/en/Gondwana)
+[Gondwana - Wikiwand](https://www.wikiwand.com/en/Gondwana)
 
 ### Volcanoes
 
@@ -158,8 +159,8 @@ VEI 7: Indonesia in 1815, causing year without summer
 
 ## Events
 
-[Extinction event - Wikiwand](https://omni.wikiwand.com/en/Extinction_event) mass extinction
-[生物集群滅絕 - Wikiwand](https://omni.wikiwand.com/zh/%E7%94%9F%E7%89%A9%E9%9B%86%E7%BE%A4%E7%81%AD%E7%BB%9D)
+[Extinction event - Wikiwand](https://www.wikiwand.com/en/Extinction_event) mass extinction
+[生物集群滅絕 - Wikiwand](https://www.wikiwand.com/zh/%E7%94%9F%E7%89%A9%E9%9B%86%E7%BE%A4%E7%81%AD%E7%BB%9D)
 [物種滅絕正在進行中? 介紹地球史上 6 次大型物種滅絕事件 (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=Nloa6OPTEJI)
 [滅絕事件 - YouTube](https://www.youtube.com/playlist?list=PLCWpbC1k9iiHyaz18KMs4fdhR9a2yWUsJ) 黑毛羊駝
 
@@ -184,7 +185,7 @@ It's after the evolution of insects, by grinding the dead plants and trees, whic
 1.8 to 0.8 Ga (Billion years ago)
 between the two Oxidation Events
 
-[Boring Billion - Wikiwand](https://omni.wikiwand.com/en/boring%20billion)
+[Boring Billion - Wikiwand](https://www.wikiwand.com/en/boring%20billion)
 
 [The "Boring Billion"- What Really Happened 1.8 to 0.8 Billion Years Ago? GEO GIRL - YouTube](https://www.youtube.com/watch?v=7cb5kOjTFIE)
 [The Earth's "Boring Billion" Years Were Anything But - YouTube](https://www.youtube.com/watch?v=-rEiywnAra0)
@@ -212,15 +213,15 @@ Animalia and Fungi evolved
 
 550 Ma
 
-[End-Ediacaran extinction - Wikiwand](https://omni.wikiwand.com/en/End-Ediacaran_extinction)
-[埃迪卡拉紀末期滅絕事件 - Wikiwand](https://omni.wikiwand.com/zh/%E5%9F%83%E8%BF%AA%E5%8D%A1%E6%8B%89%E7%BA%AA%E6%9C%AB%E6%9C%9F%E7%81%AD%E7%BB%9D%E4%BA%8B%E4%BB%B6)
+[End-Ediacaran extinction - Wikiwand](https://www.wikiwand.com/en/End-Ediacaran_extinction)
+[埃迪卡拉紀末期滅絕事件 - Wikiwand](https://www.wikiwand.com/zh/%E5%9F%83%E8%BF%AA%E5%8D%A1%E6%8B%89%E7%BA%AA%E6%9C%AB%E6%9C%9F%E7%81%AD%E7%BB%9D%E4%BA%8B%E4%BB%B6)
 
 ### Cambrian Explosion
 
 540 Ma
 
-[Cambrian explosion - Wikiwand](https://omni.wikiwand.com/en/Cambrian_explosion)
-[寒武紀大爆發 - Wikiwand](https://omni.wikiwand.com/zh/%E5%AF%92%E6%AD%A6%E7%BA%AA%E5%A4%A7%E7%88%86%E5%8F%91)
+[Cambrian explosion - Wikiwand](https://www.wikiwand.com/en/Cambrian_explosion)
+[寒武紀大爆發 - Wikiwand](https://www.wikiwand.com/zh/%E5%AF%92%E6%AD%A6%E7%BA%AA%E5%A4%A7%E7%88%86%E5%8F%91)
 
 [Cambrian Explosion- More like PREcambrian Explosion & Cambrian Skeletonization | GEO GIRL - YouTube](https://www.youtube.com/watch?v=fyfrbWI0kc0)
 [我們都是外星生命的證據？探秘詭異的寒武紀生命大爆發！【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=hssePD_b_NU)
@@ -231,8 +232,8 @@ Animalia and Fungi evolved
 killed off 27% of all families, 57% of all genera and 60% to 70% of all species
 oxygen level in ocean decreased, vertebrates flourish
 
-[Ordovician–Silurian extinction events - Wikiwand](https://omni.wikiwand.com/en/Ordovician%E2%80%93Silurian_extinction_events)
-[奧陶紀－志留紀滅絕事件 - Wikiwand](https://omni.wikiwand.com/zh/%E5%A5%A7%E9%99%B6%E7%B4%80%EF%BC%8D%E5%BF%97%E7%95%99%E7%B4%80%E6%BB%85%E7%B5%95%E4%BA%8B%E4%BB%B6)
+[Ordovician–Silurian extinction events - Wikiwand](https://www.wikiwand.com/en/Ordovician%E2%80%93Silurian_extinction_events)
+[奧陶紀－志留紀滅絕事件 - Wikiwand](https://www.wikiwand.com/zh/%E5%A5%A7%E9%99%B6%E7%B4%80%EF%BC%8D%E5%BF%97%E7%95%99%E7%B4%80%E6%BB%85%E7%B5%95%E4%BA%8B%E4%BB%B6)
 
 ### Late Devonian Extinction (Big Five)
 
@@ -241,8 +242,8 @@ eliminated about 19% of all families, 50% of all genera and at least 70% of all 
 ocean reduced and landmass increased
 vertebrates landed
 
-[Late Devonian extinction - Wikiwand](https://omni.wikiwand.com/en/Late_Devonian_extinction)
-[泥盆紀後期滅絕事件 - Wikiwand](https://omni.wikiwand.com/zh/%E6%B3%A5%E7%9B%86%E7%B4%80%E5%BE%8C%E6%9C%9F%E6%BB%85%E7%B5%95%E4%BA%8B%E4%BB%B6)
+[Late Devonian extinction - Wikiwand](https://www.wikiwand.com/en/Late_Devonian_extinction)
+[泥盆紀後期滅絕事件 - Wikiwand](https://www.wikiwand.com/zh/%E6%B3%A5%E7%9B%86%E7%B4%80%E5%BE%8C%E6%9C%9F%E6%BB%85%E7%B5%95%E4%BA%8B%E4%BB%B6)
 
 ### Permian Extinction/P–Tr Extinction (Big Five)
 
@@ -250,8 +251,8 @@ vertebrates landed
 most of the water evaporated, killed 57% of all families, 83% of all genera and 90% to 96% of all species
 Pangaea formed and blocked ocean current, flammable ice melted and released tonnes of methane gas to the atmosphere
 
-[Permian–Triassic extinction event - Wikiwand](https://omni.wikiwand.com/en/Permian%E2%80%93Triassic_extinction_event)
-[二疊紀－三疊紀滅絕事件 - Wikiwand](https://omni.wikiwand.com/zh/%E4%BA%8C%E5%8F%A0%E7%BA%AA%EF%BC%8D%E4%B8%89%E5%8F%A0%E7%BA%AA%E7%81%AD%E7%BB%9D%E4%BA%8B%E4%BB%B6)
+[Permian–Triassic extinction event - Wikiwand](https://www.wikiwand.com/en/Permian%E2%80%93Triassic_extinction_event)
+[二疊紀－三疊紀滅絕事件 - Wikiwand](https://www.wikiwand.com/zh/%E4%BA%8C%E5%8F%A0%E7%BA%AA%EF%BC%8D%E4%B8%89%E5%8F%A0%E7%BA%AA%E7%81%AD%E7%BB%9D%E4%BA%8B%E4%BB%B6)
 
 [Permian Extinction Information and Facts](https://www.nationalgeographic.com/science/prehistoric-world/permian-extinction/)
 [Why did nearly all life on Earth die 250 Ma?](https://io9.gizmodo.com/why-did-nearleary-all-life-on-earth-die-250-million-years-5558871)
@@ -264,8 +265,8 @@ Lasted for about one million years.
 Resulted in the diversification of many plant and animal groups.
 Some reptiles adopted aquatic lifeform.
 
-[Carnian pluvial episode - Wikiwand](https://omni.wikiwand.com/en/Carnian_pluvial_episode)
-[卡尼期洪積事件 - Wikiwand](https://omni.wikiwand.com/zh/%E5%8D%A1%E5%B0%BC%E6%9C%9F%E6%B4%AA%E7%A9%8D%E4%BA%8B%E4%BB%B6)
+[Carnian pluvial episode - Wikiwand](https://www.wikiwand.com/en/Carnian_pluvial_episode)
+[卡尼期洪積事件 - Wikiwand](https://www.wikiwand.com/zh/%E5%8D%A1%E5%B0%BC%E6%9C%9F%E6%B4%AA%E7%A9%8D%E4%BA%8B%E4%BB%B6)
 
 [【鬼谷闲谈】卡尼期洪积事件：一场绵延两百万年的雨 - YouTube](https://www.youtube.com/watch?v=Op3eYfHgkPk)
 [地球上的一場雨下了兩百萬年！兩億年的三次生命滅絕給恐龍的崛起帶來的契機丨盤點三疊紀生物群落滅絕丨滅絕事件 - YouTube](https://www.youtube.com/watch?v=xzeA8WWh6tw)
@@ -277,8 +278,8 @@ About 23% of all families, 48% of all genera (20% of marine families and 55% of 
 Sea level changes, volcanic activities and meteor impact
 Dinosaurs flourish
 
-[Triassic–Jurassic extinction event - Wikiwand](https://omni.wikiwand.com/en/Triassic%E2%80%93Jurassic_extinction_event)
-[三疊紀－侏羅紀滅絕事件 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%89%E7%96%8A%E7%B4%80%EF%BC%8D%E4%BE%8F%E7%BE%85%E7%B4%80%E6%BB%85%E7%B5%95%E4%BA%8B%E4%BB%B6)
+[Triassic–Jurassic extinction event - Wikiwand](https://www.wikiwand.com/en/Triassic%E2%80%93Jurassic_extinction_event)
+[三疊紀－侏羅紀滅絕事件 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%89%E7%96%8A%E7%B4%80%EF%BC%8D%E4%BE%8F%E7%BE%85%E7%B4%80%E6%BB%85%E7%B5%95%E4%BA%8B%E4%BB%B6)
 
 ### Cretaceous–Paleogene Extinction/K–Pg/K–T Extinction (Big Five)
 
@@ -287,8 +288,8 @@ About 17% of all families, 50% of all genera and 75% of all species became extin
 A meteor or comet impacted on Mexico and lead to a series of geological changes
 Wiped out non-avian dinosaurs, mammals flourish
 
-[Cretaceous–Paleogene extinction event - Wikiwand](https://omni.wikiwand.com/en/Cretaceous%E2%80%93Paleogene_extinction_event)
-[白堊紀﹣古近紀滅絕事件 - Wikiwand](https://omni.wikiwand.com/zh/%E7%99%BD%E5%9E%A9%E7%BA%AA%EF%B9%A3%E5%8F%A4%E8%BF%91%E7%BA%AA%E7%81%AD%E7%BB%9D%E4%BA%8B%E4%BB%B6)
+[Cretaceous–Paleogene extinction event - Wikiwand](https://www.wikiwand.com/en/Cretaceous%E2%80%93Paleogene_extinction_event)
+[白堊紀﹣古近紀滅絕事件 - Wikiwand](https://www.wikiwand.com/zh/%E7%99%BD%E5%9E%A9%E7%BA%AA%EF%B9%A3%E5%8F%A4%E8%BF%91%E7%BA%AA%E7%81%AD%E7%BB%9D%E4%BA%8B%E4%BB%B6)
 [顛覆你所知道的恐龍大滅絕原因！白堊紀大滅絕揭秘；火山噴發保護了受到隕石撞擊影響的部分生命？丨盤點白垩纪生物群落滅絕丨滅絕事件 - YouTube](https://www.youtube.com/watch?v=YmV5BSCG6Gc)
 
 [Late Cretaceous Dinosaur-Dominated Ecosystem - HeritageDaily - Archaeology News](https://www.heritagedaily.com/2020/03/late-cretaceous-dinosaur-dominated-ecosystem/126600)
@@ -300,15 +301,15 @@ Average temperature increased by 5-8°C, lasted for 200,000 years
 After the extinction of dinosaurs, mammals begin to flourish
 Antarctica ice cap melted and forests begin to grow
 
-[Paleocene–Eocene Thermal Maximum - Wikiwand](https://omni.wikiwand.com/en/Paleocene%E2%80%93Eocene_Thermal_Maximum)
-[古新世—始新世极热事件 - Wikiwand](https://omni.wikiwand.com/zh/%E5%8F%A4%E6%96%B0%E4%B8%96%E2%80%94%E5%A7%8B%E6%96%B0%E4%B8%96%E6%9E%81%E7%83%AD%E4%BA%8B%E4%BB%B6)
+[Paleocene–Eocene Thermal Maximum - Wikiwand](https://www.wikiwand.com/en/Paleocene%E2%80%93Eocene_Thermal_Maximum)
+[古新世—始新世极热事件 - Wikiwand](https://www.wikiwand.com/zh/%E5%8F%A4%E6%96%B0%E4%B8%96%E2%80%94%E5%A7%8B%E6%96%B0%E4%B8%96%E6%9E%81%E7%83%AD%E4%BA%8B%E4%BB%B6)
 
 ### Eocene–Oligocene Extinction
 
 33.9Ma
 
-[Eocene–Oligocene extinction event - Wikiwand](https://omni.wikiwand.com/en/Eocene%E2%80%93Oligocene_extinction_event)
-[始新世-漸新世滅絕事件 - Wikiwand](https://omni.wikiwand.com/zh/%E5%A7%8B%E6%96%B0%E4%B8%96-%E6%B8%90%E6%96%B0%E4%B8%96%E7%81%AD%E7%BB%9D%E4%BA%8B%E4%BB%B6)
+[Eocene–Oligocene extinction event - Wikiwand](https://www.wikiwand.com/en/Eocene%E2%80%93Oligocene_extinction_event)
+[始新世-漸新世滅絕事件 - Wikiwand](https://www.wikiwand.com/zh/%E5%A7%8B%E6%96%B0%E4%B8%96-%E6%B8%90%E6%96%B0%E4%B8%96%E7%81%AD%E7%BB%9D%E4%BA%8B%E4%BB%B6)
 
 The proliferation of grass
 
@@ -318,8 +319,8 @@ The proliferation of grass
 A comet of 1.5km diameter hits the ice cap in Greenland, the water contained and the ice melted created great flood on Earth
 This event might have promoted human spices to practice husbandry and agriculture
 
-[新仙女木事件 - Wikiwand](https://omni.wikiwand.com/zh/%E6%96%B0%E4%BB%99%E5%A5%B3%E6%9C%A8%E4%BA%8B%E4%BB%B6)
-[Younger Dryas impact hypothesis - Wikiwand](https://omni.wikiwand.com/en/Younger_Dryas_impact_hypothesis)
+[新仙女木事件 - Wikiwand](https://www.wikiwand.com/zh/%E6%96%B0%E4%BB%99%E5%A5%B3%E6%9C%A8%E4%BA%8B%E4%BB%B6)
+[Younger Dryas impact hypothesis - Wikiwand](https://www.wikiwand.com/en/Younger_Dryas_impact_hypothesis)
 
 [世界上最深的套路實錘了！新仙女木事件？第四紀滅絕事件真沒那麼簡單！ - YouTube](https://www.youtube.com/watch?v=X0CRr0anHgc)
 [【鬼谷闲谈】新仙女木事件：那一天，大地突然冰封…… - YouTube](https://www.youtube.com/watch?v=Iu5OWqbqfM0)

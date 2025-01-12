@@ -2,7 +2,7 @@
 title: Zig Programming Language
 description: General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 created: 2023-03-24
-updated: 2024-08-24
+updated: 2025-01-09
 tags:
   - comp/lang
   - package-manager
@@ -24,7 +24,7 @@ Yet another system language wanted to replace C.
 
 [Home ⚡ Zig Programming Language](https://ziglang.org/)
 [ziglang/zig: General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.](https://github.com/ziglang/zig)
-[Zig (programming language) - Wikiwand](<https://omni.wikiwand.com/en/Zig_(programming_language)>)
+[Zig (programming language) - Wikiwand](<https://www.wikiwand.com/en/Zig_(programming_language)>)
 [zigtools](https://github.com/zigtools) `zls` (language server)
 
 ```sh

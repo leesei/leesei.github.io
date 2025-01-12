@@ -2,7 +2,7 @@
 title: Shell Tools
 description: ""
 created: 2015-01-14
-updated: 2024-09-24
+updated: 2025-01-09
 tags:
   - app
   - cpio
@@ -33,6 +33,7 @@ tags:
 [The Unix CD Bookshelf, v3.0](https://docstore.mik.ua/orelly/unix3/)
 
 [Pantz.org Technical Reference Site](https://www.pantz.org/)
+[Terminal Trove - The $HOME of all things in the terminal.](https://terminaltrove.com/)
 
 [7 Command-Line Tools for Data Science • Blog • Data Science Workshops](https://www.datascienceworkshops.com/blog/seven-command-line-tools-for-data-science/)
 [7 Amazing CLI Tools You Need To Try - YouTube](https://www.youtube.com/watch?v=mmqDYw9C30I) `fzf`, `bat`, `delta`, `eza`, `tldr`, `zoxide`
@@ -108,7 +109,7 @@ tags:
 [dbrgn/tealdeer: A very fast implementation of tldr in Rust.](https://github.com/dbrgn/tealdeer)
 
 [cheat/cheat: cheat allows you to create and view interactive cheatsheets on the command-line.](https://github.com/cheat/cheat)
-[How to Create and View Interactive Cheatsheets on the Command-line | by Khuyen Tran | Towards Data Science](https://towardsdatascience.com/how-to-create-and-view-interactive-cheatsheets-on-the-command-line-6578641039ff?gi=50f17142521b)
+[How to Create and View Interactive Cheatsheets on the Command-line | by Khuyen Tran | Towards Data Science](https://towardsdatascience.com/how-to-create-and-view-interactive-cheatsheets-on-the-command-line-6578641039ff)
 
 [maaslalani/nap: Code snippets in your terminal](https://github.com/maaslalani/nap)
 
@@ -201,7 +202,7 @@ tar --listed-incremental=tarfiles.list cvf images.1.tar images/ > tar.log
 
 ## grep
 
-[grep - Wikiwand](http://omni.wikiwand.com/en/Grep)
+[grep - Wikiwand](http://www.wikiwand.com/en/Grep)
 [Grep](http://www.grymoire.com/Unix/Grep.html)
 [grep is a beautiful tool](http://www.eriwen.com/tools/grep-is-a-beautiful-tool/)
 [Cover - GNU GREP and RIPGREP](https://learnbyexample.github.io/learn_gnugrep_ripgrep/)
@@ -236,7 +237,7 @@ cat a b b | sort | uniq -u > c   # c is set difference a \ b
 
 ## find
 
-[grep - Wikiwand](http://omni.wikiwand.com/en/Grep)
+[grep - Wikiwand](http://www.wikiwand.com/en/Grep)
 [Find](http://www.grymoire.com/Unix/Find.html)
 [Find is a beautiful tool](http://www.eriwen.com/productivity/find-is-a-beautiful-tool/)
 [Mommy, I found it! — 15 Practical Linux Find Command Examples](http://www.thegeekstuff.com/2009/03/15-practical-linux-find-command-examples/)
@@ -389,12 +390,12 @@ rename 's/$/.txt/' *
 
 ## sort
 
-[sort (Unix) - Wikiwand](<http://omni.wikiwand.com/en/Sort_(Unix)>)
+[sort (Unix) - Wikiwand](<http://www.wikiwand.com/en/Sort_(Unix)>)
 [sort - man page](https://www.mankier.com/1/sort)
 
 ## xargs
 
-[xargs - Wikiwand](http://omni.wikiwand.com/en/Xargs)
+[xargs - Wikiwand](http://www.wikiwand.com/en/Xargs)
 [xargs - man page](https://www.mankier.com/1/xargs)
 [Xargs - Charles Martin Reid](http://charlesmartinreid.com/wiki/Xargs)
 [Things you (probably) didn't know about xargs](http://offbytwo.com/2011/06/26/things-you-didnt-know-about-xargs.html)
@@ -537,7 +538,7 @@ dd if=/dev/null of="$filename" bs=1 seek="$end_position"
 
 [cpio - man page](https://www.mankier.com/1/cpio)
 [Linux cpio Examples: How to Create and Extract cpio Archives (and tar archives)](http://www.thegeekstuff.com/2010/08/cpio-utility/)
-[cpio - Wikiwand](https://omni.wikiwand.com/en/Cpio)
+[cpio - Wikiwand](https://www.wikiwand.com/en/Cpio)
 
 copy files to destination folder keeping the tree structure of the path specified
 
@@ -597,7 +598,7 @@ alias rot13="tr '[A-Za-z]' '[N-ZA-Mn-za-m]'"
 ## funny
 
 [20 amusing Linux commands to have fun with the terminal](http://www.binarytides.com/linux-fun-commands/)
-[cowsay - Wikiwand](https://omni.wikiwand.com/en/Cowsay)
+[cowsay - Wikiwand](https://www.wikiwand.com/en/Cowsay)
 
 ```sh
 cowsay -l

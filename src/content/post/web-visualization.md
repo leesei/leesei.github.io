@@ -2,7 +2,7 @@
 title: Data Visualization on the Web
 description: ""
 created: 2016-04-08
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - big-data
   - visualization
@@ -14,7 +14,7 @@ tags:
 
 [How to Choose a JavaScript Charting Library - ZingChart Blog](http://www.zingchart.com/blog/2015/09/15/how-to-choose-a-javascript-charting-library/)
 [Best jQuery Chart Libraries for Building Interactive Charts | Code Geekz](https://codegeekz.com/best-jquery-chart-libraries-for-building-interactive-charts/)
-[Comparison of JavaScript charting frameworks - Wikiwand](http://omni.wikiwand.com/en/Comparison_of_JavaScript_charting_frameworks)
+[Comparison of JavaScript charting frameworks - Wikiwand](http://www.wikiwand.com/en/Comparison_of_JavaScript_charting_frameworks)
 
 [vis.js - A dynamic, browser based visualization library.](http://visjs.org/)
 

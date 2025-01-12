@@ -2,7 +2,7 @@
 title: Django
 description: ""
 created: 2019-05-08
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - cms
   - django

@@ -2,7 +2,7 @@
 title: How Games Work
 description: How games mechanics works, game design and how to make games, apart from rendering
 created: 2015-08-31
-updated: 2024-09-30
+updated: 2025-01-09
 tags:
   - game-design
   - games
@@ -24,6 +24,7 @@ tags:
 [gameranx - YouTube](https://www.youtube.com/@gameranxTV)
 [Gamker 攻壳 - YouTube](https://www.youtube.com/channel/UCLgGLSFMZQB8c0WGcwE49Gw)
 [Outrageous Dong Chai - YouTube](https://www.youtube.com/@LiPuDeDongZai) 離譜的東仔, Hacking into games
+[桜井政博のゲーム作るには - YouTube](https://www.youtube.com/@sora_sakurai_jp) 《星之卡比》、《任天堂明星大亂鬥》系列製作人
 
 [Extra Credits - YouTube](https://www.youtube.com/@extracredits) previously on Extra History channel
 [Extra Credits (ALL EPISODES) - YouTube](https://www.youtube.com/playlist?list=PLB9B0CA00461BB187)
@@ -80,6 +81,7 @@ tags:
 [Ceave Perspective - YouTube](https://www.youtube.com/@StefanPerspective-yb1rm)
 [Curious Archive - YouTube](https://www.youtube.com/@CuriousArchive)
 [Game Endeavor - YouTube](https://www.youtube.com/@GameEndeavor)
+[Good Blood - YouTube](https://www.youtube.com/@GoodBloodGames)
 
 [GDQuest - YouTube](https://www.youtube.com/@Gdquest)
 [Game design tutorial - YouTube](https://www.youtube.com/playlist?list=PLhqJJNjsQ7KHI3oYZfZ9nLEnQMBEhbmP8)

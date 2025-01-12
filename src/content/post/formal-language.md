@@ -2,7 +2,7 @@
 title: Formal Language
 description: ""
 created: 2019-06-18
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - comp/lang
   - formal-language
@@ -11,18 +11,18 @@ tags:
 [[bnf]]
 [[regex]]
 
-[Compiler-compiler - Wikiwand](https://omni.wikiwand.com/en/Compiler-compiler)
+[Compiler-compiler - Wikiwand](https://www.wikiwand.com/en/Compiler-compiler)
 [A Guide To Parsing: Algorithms And Terminology](https://tomassetti.me/guide-parsing-algorithms-terminology/)
 
-[Parsing expression grammar - Wikiwand](https://omni.wikiwand.com/en/Parsing_expression_grammar) PEG
+[Parsing expression grammar - Wikiwand](https://www.wikiwand.com/en/Parsing_expression_grammar) PEG
 
-[Earley parser - Wikiwand](https://omni.wikiwand.com/en/Earley_parser)
-[LR parser - Wikiwand](https://omni.wikiwand.com/en/LR_parser)
-[Simple LR parser - Wikiwand](https://omni.wikiwand.com/en/SLR_parser)
-[LALR parser - Wikiwand](https://omni.wikiwand.com/en/LALR_parser)
+[Earley parser - Wikiwand](https://www.wikiwand.com/en/Earley_parser)
+[LR parser - Wikiwand](https://www.wikiwand.com/en/LR_parser)
+[Simple LR parser - Wikiwand](https://www.wikiwand.com/en/SLR_parser)
+[LALR parser - Wikiwand](https://www.wikiwand.com/en/LALR_parser)
 
-[LALR parser generator - Wikiwand](https://omni.wikiwand.com/en/LALR_parser_generator)
-[Comparison of parser generators - Wikiwand](https://omni.wikiwand.com/en/Comparison_of_parser_generators)
+[LALR parser generator - Wikiwand](https://www.wikiwand.com/en/LALR_parser_generator)
+[Comparison of parser generators - Wikiwand](https://www.wikiwand.com/en/Comparison_of_parser_generators)
 
 [Parser Combinators are Easy - DEV Community 👩‍💻👨‍💻](https://dev.to/deciduously/parser-combinators-are-easy-4bjm)
 
@@ -83,7 +83,7 @@ antlr -Dlanguage=Go ./SuricataRuleLexer.g4 ./SuricataRuleParser.g4 -o parser -no
 
 ## GNU Bison
 
-[GNU Bison - Wikiwand](https://omni.wikiwand.com/en/GNU_Bison)
+[GNU Bison - Wikiwand](https://www.wikiwand.com/en/GNU_Bison)
 [Bison - GNU Project - Free Software Foundation](https://www.gnu.org/software/bison/)
 
 ## Go

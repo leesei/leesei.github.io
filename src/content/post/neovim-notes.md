@@ -2,7 +2,7 @@
 title: Neovim notes
 description: hyperextensible Vim-based text editor
 created: 2023-10-23
-updated: 2024-09-08
+updated: 2025-01-09
 tags:
   - app
   - neovim

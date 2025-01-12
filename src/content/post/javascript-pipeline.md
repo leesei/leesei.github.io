@@ -2,7 +2,7 @@
 title: JavaScript Pipeline
 description: ""
 created: 2015-12-21
-updated: 2024-05-26
+updated: 2025-01-09
 tags:
   - bundler
   - web
@@ -110,6 +110,13 @@ Vite and Next.js replaced it with more features
 
 [[vite]]
 
+| Gen 0      | Gen 1   | Gen 2     |
+| ---------- | ------- | --------- |
+| Browserify | Webpack | Turbopack |
+|            |         | Rspack    |
+|            | Rollup  | Rolldown  |
+|            | Parcel  | Esbuild   |
+
 # esbuild
 
 [esbuild - An extremely fast JavaScript bundler](https://esbuild.github.io/) built with Go, used in Snowpack
@@ -165,7 +172,19 @@ caches source files and dependencies during build, good for large project, built
 # Rolldown
 
 [Rolldown](https://rolldown.rs/)
-[rolldown/rolldown: Fast Rust bundler for JavaScript with Rollup-compatible API.](https://github.com/rolldown/rolldown)
+[rolldown/rolldown: Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.](https://github.com/rolldown/rolldown)
+
+[Rolldown is here, can it save Vite? - YouTube](https://www.youtube.com/watch?v=IDe1zVWoX94) history of bundlers
+
+# Farm
+
+[Farm Documentation | Farm](https://www.farmfe.org/)
+[farm-fe/farm: Extremely fast Vite-compatible web build tool written in Rust](https://github.com/farm-fe/farm)
+
+# Rspack
+
+[Rspack](https://rspack.dev/)
+[web-infra-dev/rspack: The fast Rust-based web bundler with webpack-compatible API 🦀️](https://github.com/web-infra-dev/rspack)
 
 # Kuto
 

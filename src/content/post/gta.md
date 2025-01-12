@@ -2,13 +2,13 @@
 title: Grand Theft Auto (GTA)
 description: ""
 created: 2023-08-14
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - games
   - gta
 ---
 
-[Grand Theft Auto - Wikiwand](https://omni.wikiwand.com/en/Grand_Theft_Auto)
+[Grand Theft Auto - Wikiwand](https://www.wikiwand.com/en/Grand_Theft_Auto)
 [GTA Wiki | Fandom](https://gta.fandom.com/wiki/Main_Page)
 
 [《GTA》為什麼這麼好玩？論 GTA 如何定義「開放世界」【就知道玩遊戲 32】 - YouTube](https://www.youtube.com/watch?v=-SPO_xWxa4s)

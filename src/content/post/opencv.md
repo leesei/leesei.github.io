@@ -2,7 +2,7 @@
 title: OpenCV
 description: ""
 created: 2014-12-31
-updated: 2024-07-04
+updated: 2025-01-09
 tags:
   - comp/lang
   - opencv
@@ -55,12 +55,18 @@ Murtaza's Workshop
 
 ## YOLO
 
+[Home - Ultralytics YOLO Docs](https://docs.ultralytics.com/)
+[ultralytics/ultralytics: Ultralytics YOLO11 🚀](https://github.com/ultralytics/ultralytics)
+
+[[2405.14458] YOLOv10: Real-Time End-to-End Object Detection](https://arxiv.org/abs/2405.14458)
 [THU-MIG/yolov10: YOLOv10: Real-Time End-to-End Object Detection](https://github.com/THU-MIG/yolov10)
 [YOLOv10 - Ultralytics YOLO Docs](https://docs.ultralytics.com/models/yolov10/)
-[ultralytics/ultralytics: NEW - YOLOv8 🚀 in PyTorch > ONNX > OpenVINO > CoreML > TFLite](https://github.com/ultralytics/ultralytics)
-
 [How to track football players using Yolo, SORT and Opencv. | by C Kuan | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/how-to-track-football-players-using-yolo-sort-and-opencv-6c58f71120b8)
 [用YOLO让本地摄像头识别任意目标，yolov10本地部署与训练教程。 - YouTube](https://www.youtube.com/watch?v=7YRJIAIhMpw)
+
+[[2410.17725] YOLOv11: An Overview of the Key Architectural Enhancements](https://arxiv.org/abs/2410.17725)
+[What’s New in YOLOv11 Transforming Object Detection Once Again Part 1 | DigitalOcean](https://www.digitalocean.com/community/tutorials/what-is-new-with-yolo)
+[YOLO11: Faster Than You Can Imagine!](https://learnopencv.com/yolo11/)
 
 ## Video
 

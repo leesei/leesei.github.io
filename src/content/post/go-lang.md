@@ -2,7 +2,7 @@
 title: The Go Programming Language
 description: Build simple, secure, scalable systems with Go
 created: 2015-02-16
-updated: 2024-10-03
+updated: 2025-01-09
 tags:
   - comp/lang
   - go-lang
@@ -12,9 +12,10 @@ tags:
 > materials before 2019 should probably be removed
 
 [The Go Programming Language](https://go.dev/)
-[Go (programming language) - Wikiwand](<https://omni.wikiwand.com/en/Go_(programming_language)>)
+[Go (programming language) - Wikiwand](<https://www.wikiwand.com/en/Go_(programming_language)>)
 [Go: A Documentary](https://golang.design/history/)
 [What reasons are there to not use Go (programming language)? - Quora](https://www.quora.com/What-reasons-are-there-to-not-use-Go-programming-language)
+[The Fascinating History of Go - YouTube](https://www.youtube.com/watch?v=mSwvS83O9wc)
 [The Why of Go - YouTube](https://www.youtube.com/watch?v=bmZNaUcwBt4)
 
 [Go 1 and the Future of Go Programs - go.dev](https://go.dev/doc/go1compat)
@@ -141,6 +142,11 @@ godoc pkg Label  # look up function/type
 
 [Rust Vs Go: A Hands-On Comparison](https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison) with web services
 [Rust vs Go : Hands On Comparison - YouTube](https://www.youtube.com/watch?v=dSoP7EF2YJ4)
+
+[Attention, Spoiled Software Engineers: Take a Lesson from Google’s Programming Language | WIRED](https://www.wired.com/story/attention-spoiled-software-engineers-take-a-lesson-from-googles-programming-language/)
+[Attention Spoiled Developers - YouTube](https://www.youtube.com/watch?v=LKh_C1NGXcI)
+
+[Why I’m Switching To Go in 2024 - YouTube](https://www.youtube.com/watch?v=TGz4Osgk7AQ)
 
 ## On the contrary
 
@@ -364,7 +370,7 @@ fmt.Printf("%T\n", variable)  // print type of variable
 fmt.Printf("%[2]v%[1]v%[2]v%[1]v", "o", "c")
 ```
 
-```txt
+```
 # General
 %v the value in a default format
    when printing structs, the plus flag (%+v) adds field names
@@ -676,6 +682,7 @@ Anthony GG
 ### Resource embedding
 
 [embed package - embed - pkg.go.dev](https://pkg.go.dev/embed)
+[The embed package is a lot more useful than I originally thought... - YouTube](https://www.youtube.com/watch?v=7EK06n485nk)
 
 [v0x.nl - Portable apps with Go and Next.js](https://v0x.nl/articles/portable-apps-go-nextjs)
 
@@ -719,9 +726,10 @@ go build -v
 
 [jmoiron/sqlx: general purpose extensions to golang's database/sql](https://github.com/jmoiron/sqlx) SQL sanitizer
 
-[Compile SQL to type-safe code | sqlc.dev](https://sqlc.dev/)
+[Compile SQL to type-safe code | sqlc.dev](https://sqlc.dev/) compile raw SQL query to multiple languages
 [sqlc-dev/sqlc: Generate type-safe code from SQL](https://github.com/sqlc-dev/sqlc)
 [SQLx vs SQLc - YouTube](https://www.youtube.com/watch?v=tPhyJHly7CU)
+[SQLc is the perfect tool for those who don't like ORMs - YouTube](https://www.youtube.com/watch?v=VX6KzpjaPp8) [code](https://github.com/dreamsofcode-io/sqlc)
 
 [Masterminds/squirrel: Fluent SQL generation for golang](https://github.com/Masterminds/squirrel)
 

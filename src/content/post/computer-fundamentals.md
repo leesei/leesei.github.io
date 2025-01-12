@@ -2,7 +2,7 @@
 title: Computer Fundamentals
 description: ""
 created: 2023-04-14
-updated: 2024-10-03
+updated: 2025-01-09
 tags:
   - comp/fundamental
   - comp/hardware
@@ -124,7 +124,7 @@ Parallelism:
 - Concurrency is a _prerequisite_ (Parallelism implies Concurrency)
 - Concurrency is a _prerequisite_ (Parallelism implies Concurrency)
 
-[Embarrassingly parallel - Wikiwand](https://omni.wikiwand.com/en/Embarrassingly_parallel)
+[Embarrassingly parallel - Wikiwand](https://www.wikiwand.com/en/Embarrassingly_parallel)
 
 [Concurrency is not parallelism - The Go Blog](http://blog.golang.org/concurrency-is-not-parallelism)
 [The Way of the Gopher. Making the Switch from Node.js to… | by Alexandra Bueno | Digg Data | Medium](https://medium.com/digg-data/the-way-of-the-gopher-6693db15ae1f#.h4j5b62nh)
@@ -195,7 +195,7 @@ per thread ring buffer use by many
 
 ## Endianness
 
-[Endianness - Wikiwand](https://omni.wikiwand.com/en/Endianness)
+[Endianness - Wikiwand](https://www.wikiwand.com/en/Endianness)
 [Number format - Microsoft MakeCode](https://makecode.microbit.org/types/buffer/number-format)
 
 '0xA0 0xB0' in memory could be:

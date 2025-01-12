@@ -2,7 +2,7 @@
 title: Motion Sickness
 description: ""
 created: 2016-08-17
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - science
 ---

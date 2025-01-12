@@ -2,7 +2,7 @@
 title: Desktop Apps
 description: ""
 created: 2015-05-20
-updated: 2024-10-02
+updated: 2025-01-09
 tags:
   - app
   - desktop
@@ -53,9 +53,12 @@ For the softwares I install on my system, see [[arch-packages]].
 [gnuplot homepage](http://www.gnuplot.info/)
 [The Julia Language](http://julialang.org/), see [[julia-lang]]
 [Genius Mathematics Tool and the GEL Language](http://www.jirka.org/genius.html)
+[GNU Dr. Geo, be a geometer!](http://www.drgeo.eu/)
+
+> see [[visualization#Python]]
+
 [Matplotlib: Python plotting](https://matplotlib.org/)
 [PyPlot download | SourceForge.net](http://sourceforge.net/projects/pyplot/)
-[GNU Dr. Geo, be a geometer!](http://www.drgeo.eu/)
 
 [Desmos | Let's learn together.](https://www.desmos.com/) webapp
 
@@ -68,13 +71,26 @@ For the softwares I install on my system, see [[arch-packages]].
 [The Programming Language Mathematica Marks a Milestone – The New Stack](https://thenewstack.io/the-programming-language-mathematica-marks-a-milestone/)
 [Celebrating a Third of a Century of Mathematica, and Looking Forward - YouTube](https://www.youtube.com/watch?v=5yLXrThYSPk)
 
+[Euler Studio](https://www.eulertour.com/)
+[Euler Studio | drawing shapes](https://www.eulertour.com/documentation)
+
 [3b1b/manim: Animation engine for explanatory math videos](https://github.com/3b1b/manim) 3Blue1Brown
-[Welcome to Manim’s documentation! — Manim documentation](https://www.eulertour.com/learn/manim/)
-[Manim Community](https://www.manim.community/)
+[Welcome to Manim’s documentation! — Manim documentation](https://manim.readthedocs.io/en/latest/) by
+[3b1b/videos: Code for the manim-generated scenes used in 3blue1brown videos](https://github.com/3b1b/videos)
+[ManimCE vs ManimGL vs ManimCairo (pros and cons of each) - YouTube](https://www.youtube.com/watch?v=1tqtgnawBts) ManimGL allows live preview
+
+[Manim Community](https://www.manim.community/) fork of ManimCairo and GL backend is experimental
 [ManimCommunity/manim: A community-maintained Python framework for creating mathematical animations.](https://github.com/ManimCommunity/manim/)
+[Manim OpenGL Renderer Usage Guide - November 2021 · aquabeam](https://www.aquabeam.me/manim/opengl_guide/)
 [Creating math animations in Python with Manim](https://gilberttanner.com/blog/creating-math-animations-in-python-with-manim)
-[ManimCE tutorial - YouTube](https://www.youtube.com/playlist?list=PL2B6OzTsMUrw08oYXq40MpMonRX27IJqr)
-[How to Create Mathematical Animations like 3Blue1Brown Using Python | by Khuyen Tran | Towards Data Science](https://towardsdatascience.com/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1?gi=423d2ca7b23b)
+[How to Create Mathematical Animations like 3Blue1Brown Using Python | by Khuyen Tran | Towards Data Science](https://towardsdatascience.com/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1)
+[How I animate 3Blue1Brown | A Manim demo with Ben Sparks - YouTube](https://www.youtube.com/watch?v=rbu7Zu5X1zI)
+[ManimCE Tutorials 2021 - YouTube](https://www.youtube.com/playlist?list=PLWOlLjdyZm2NQD1YZmEPB0dwbd0yKINAT)
+
+[Theorem of Beethoven - YouTube](https://www.youtube.com/@TheoremofBeethoven)
+[ManimCE tutorial - YouTube](https://www.youtube.com/playlist?list=PL2B6OzTsMUrw08oYXq40MpMonRX27IJqr) 2021
+[Is it worth learning Manim? - YouTube](https://www.youtube.com/watch?v=EONHtYkfCds)
+[ManimCE & ManimGL installation for Windows - 2022 Edition - YouTube](https://www.youtube.com/watch?v=CYOLQk8GpME)
 
 [wxMaxima](https://wxmaxima-developers.github.io/wxmaxima/)
 [Maxima, a Computer Algebra System](http://maxima.sourceforge.net/)
@@ -280,7 +296,7 @@ nomino -pm map.json
 
 [[uml]]
 
-[Graph drawing - Wikiwand](http://omni.wikiwand.com/en/Graph_drawing)
+[Graph drawing - Wikiwand](http://www.wikiwand.com/en/Graph_drawing)
 [Graphviz | Graphviz - Graph Visualization Software](http://www.graphviz.org/)
 [PlantUML](http://plantuml.sourceforge.net/)
 [Pencil Project](http://pencil.evolus.vn/)
@@ -658,8 +674,8 @@ test input key and its binding
 
 ### UPnP/DLNA
 
-[List of UPnP AV media servers and clients - Wikiwand](https://omni.wikiwand.com/en/List_of_UPnP_AV_media_servers_and_clients)
-[Comparison of UPnP AV media servers - Wikiwand](https://omni.wikiwand.com/en/Comparison_of_UPnP_AV_media_servers)
+[List of UPnP AV media servers and clients - Wikiwand](https://www.wikiwand.com/en/List_of_UPnP_AV_media_servers_and_clients)
+[Comparison of UPnP AV media servers - Wikiwand](https://www.wikiwand.com/en/Comparison_of_UPnP_AV_media_servers)
 
 [6 UPnP / DLNA Servers For Streaming Media To Your Devices](http://www.makeuseof.com/tag/6-upnpdlna-servers-streaming-media-devices-crossplatform/)
 
@@ -983,9 +999,11 @@ wmic DISKDRIVE
 [I ranked EVERY terminal emulator. It was nuts - YouTube](https://www.youtube.com/watch?v=WxzYtdIcHnQ)
 
 [Apps/Terminal - GNOME Wiki!](https://wiki.gnome.org/Apps/Terminal)
+[Console – Apps for GNOME](https://apps.gnome.org/Console/) `kgx`, minimalistic
+[Christian Hergert / ptyxis · GitLab](https://gitlab.gnome.org/chergert/ptyxis) Terminal on GTK4
+[Ptyxis (formerly known as Prompt) will replace GNOME Terminal as the default terminal in F41 : r/Fedora](https://www.reddit.com/r/Fedora/comments/1ew2rmg/ptyxis_formerly_known_as_prompt_will_replace/)
+
 [ROXTerm](http://roxterm.sourceforge.net/)
-[Cathode | Secret Geometry](http://www.secretgeometry.com/apps/cathode/)
-[Swordfish90/cool-retro-term: A good looking terminal emulator which mimics the old cathode display...](https://github.com/Swordfish90/cool-retro-term)
 
 [WezTerm - Wez's Terminal Emulator](https://wezfurlong.org/wezterm/) config with Lua
 [wez/wezterm: A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust](https://github.com/wez/wezterm)
@@ -1005,6 +1023,10 @@ Windows
 [Cmder | Console Emulator](https://cmder.net/)
 [ConEmu - Handy Windows Terminal](https://conemu.github.io/)
 [poderosaproject/poderosa](https://github.com/poderosaproject/poderosa)
+
+### Retro terminal
+
+[Swordfish90/cool-retro-term: A good looking terminal emulator which mimics the old cathode display...](https://github.com/Swordfish90/cool-retro-term)
 
 ### Kitty
 
@@ -1026,8 +1048,24 @@ Kitty defied a graphics protocol for terminal emulators
 
 ### Ghostty
 
+[Ghostty](https://ghostty.org/)
 [Ghostty 👻 – Mitchell Hashimoto](https://mitchellh.com/ghostty) written in Zig
 [[#32] Ghostty: A New Terminal Emulator Written in Zig - Mitchell Hashimoto - YouTube](https://www.youtube.com/watch?v=l_qY2p0OH9A)
+[My New Favorite Terminal Just Dropped - YouTube](https://www.youtube.com/watch?v=VUxMfyzTM_Y)
+[Everyone Is Talking About THIS Terminal - YouTube](https://www.youtube.com/watch?v=4Dvv-LbYml0)
+
+[Ghostty Docs](https://ghostty.org/docs)
+[Option Reference - Configuration](https://ghostty.org/docs/config/reference)
+[Ghostty Config](https://ghostty.zerebos.com/)
+[Action Reference - Keybindings](https://ghostty.org/docs/config/keybind/reference)
+[How I configure Ghostty - YouTube](https://www.youtube.com/watch?v=jWuQxU4bDeU)
+
+```sh
+ghostty +list-themes
+ghostty +show-config
+ghostty +validate-config
+ghostty +reload_config
+```
 
 ### Alacritty
 
@@ -1073,6 +1111,13 @@ guake -n ~
 
 guake -s 0 # select first tab
 ```
+
+### ddterm
+
+> with Wayland support
+
+[ddterm - GNOME Shell Extensions](https://extensions.gnome.org/extension/3780/ddterm/)
+[ddterm/gnome-shell-extension-ddterm: Another drop down terminal extension for GNOME Shell. With tabs. Works on Wayland natively](https://github.com/ddterm/gnome-shell-extension-ddterm)
 
 ### Windows Terminal
 

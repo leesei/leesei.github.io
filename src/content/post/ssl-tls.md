@@ -2,7 +2,7 @@
 title: SSL/TLS
 description: ""
 created: 2015-04-02
-updated: 2024-10-03
+updated: 2025-01-09
 tags:
   - security
   - ssl
@@ -12,10 +12,10 @@ tags:
 
 [[ssl-tls-free-certs]]
 
-[Transport Layer Security](http://omni.wikiwand.com/en/Transport_Layer_Security) (TLS) and its predecessor, [Secure Sockets Layer](https://www.digicert.com/ssl.htm) (SSL), are cryptographic protocols designed to provide communications security over a computer network.
-[Server Name Indication - Wikiwand](https://omni.wikiwand.com/en/Server_Name_Indication) used to host multiple sites on the same IP
+[Transport Layer Security](http://www.wikiwand.com/en/Transport_Layer_Security) (TLS) and its predecessor, [Secure Sockets Layer](https://www.digicert.com/ssl.htm) (SSL), are cryptographic protocols designed to provide communications security over a computer network.
+[Server Name Indication - Wikiwand](https://www.wikiwand.com/en/Server_Name_Indication) used to host multiple sites on the same IP
 
-The authentication relied on Certificate Authorities (CA) and a public key infrastructure using [X.509](http://omni.wikiwand.com/en/X.509) certificates.
+The authentication relied on Certificate Authorities (CA) and a public key infrastructure using [X.509](http://www.wikiwand.com/en/X.509) certificates.
 The server register with a CA and sign its public key with the key of CA for a fee. The client, after receiving the public key from server, verifies it with the CA.
 
 [Creating Secure Web Apps: What Every Developer Needs to Know About HTTPS Today | Heroku](https://www.heroku.com/tech-sessions/creating-secure-web-apps)
@@ -39,7 +39,7 @@ The server register with a CA and sign its public key with the key of CA for a f
 [HTTPS: an awesome, secure tale (pt 1) | by Omer Goldberg | Bits and Pieces](https://blog.bitsrc.io/https-an-awesome-secure-tale-pt-1-32d2ba5ac0c1)
 
 [ESNI: A Privacy-Protecting Upgrade to HTTPS | Electronic Frontier Foundation](https://www.eff.org/deeplinks/2018/09/esni-privacy-protecting-upgrade-https)
-[Server Name Indication - Wikiwand](https://omni.wikiwand.com/en/Server_Name_Indication) multi-tenant on the same IP
+[Server Name Indication - Wikiwand](https://www.wikiwand.com/en/Server_Name_Indication) multi-tenant on the same IP
 
 Toolkits:
 
@@ -70,7 +70,7 @@ Toolkits:
 
 ## HSTS
 
-[HTTP Strict Transport Security - Wikiwand](http://omni.wikiwand.com/en/HTTP_Strict_Transport_Security): always use HTTPS
+[HTTP Strict Transport Security - Wikiwand](http://www.wikiwand.com/en/HTTP_Strict_Transport_Security): always use HTTPS
 [HSTS Preload List Submission](https://hstspreload.appspot.com/)
 
 ## Mutual TLS/mTLS
@@ -84,10 +84,10 @@ Toolkits:
 
 [Online Certificate Status Protocol vs Certificate Revocation Lists](https://www.encryptionconsulting.com/ocsp-vs-crl/#:~:text=OCSP%20can%20be%20used%20to,link%20or%20an%20LDAP%20server.)
 
-[Certificate revocation list - Wikiwand](https://omni.wikiwand.com/en/Certificate_revocation_list) CRL
+[Certificate revocation list - Wikiwand](https://www.wikiwand.com/en/Certificate_revocation_list) CRL
 
 [RFC 6960 - X.509 Internet Public Key Infrastructure Online Certificate Status Protocol - OCSP](https://datatracker.ietf.org/doc/html/rfc6960)
-[Online Certificate Status Protocol - Wikiwand](https://omni.wikiwand.com/en/Online_Certificate_Status_Protocol) alternative to CRL, less data, response of status of a particular cert signed by CA
+[Online Certificate Status Protocol - Wikiwand](https://www.wikiwand.com/en/Online_Certificate_Status_Protocol) alternative to CRL, less data, response of status of a particular cert signed by CA
 
 [Chrome does certificate revocation better | ZDNET](https://www.zdnet.com/article/chrome-does-certificate-revocation-better/)
 Chrome don't use OSCP

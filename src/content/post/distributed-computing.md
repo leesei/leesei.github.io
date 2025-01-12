@@ -2,7 +2,7 @@
 title: Distributed Computing
 description: ""
 created: 2016-09-21
-updated: 2024-09-12
+updated: 2025-01-09
 tags:
   - web
 ---
@@ -18,8 +18,8 @@ tags:
 [The Cluster Documentation Project » ADMIN Magazine](http://www.admin-magazine.com/HPC/Articles/Cluster-Documentation-Project)
 [Cluster Documentation Project](https://cdp.clustermonkey.net/index.php/Main_Page)
 
-[Multigrid method - Wikiwand](https://omni.wikiwand.com/en/Multigrid_method)
-[Fallacies of distributed computing - Wikiwand](https://omni.wikiwand.com/en/Fallacies_of_distributed_computing)
+[Multigrid method - Wikiwand](https://www.wikiwand.com/en/Multigrid_method)
+[Fallacies of distributed computing - Wikiwand](https://www.wikiwand.com/en/Fallacies_of_distributed_computing)
 [Fallacies of Distributed Systems](https://architecturenotes.co/fallacies-of-distributed-systems/)
 [Understanding the 8 Fallacies of Distributed Systems - DZone Microservices](https://dzone.com/articles/understanding-the-8-fallacies-of-distributed-syste)
 
@@ -53,16 +53,16 @@ A split brain is what happens when you have multiple autonomous sub-clusters for
 
 [Episode 377: Heidi Howard on Distributed Consensus : Software Engineering Radio](https://www.se-radio.net/2019/08/episode-377-heidi-howard-on-distributed-consensus/)
 [分布式系统的事务处理 | | 酷 壳 - CoolShell](https://coolshell.cn/articles/10910.html)
-[Paxos (computer science) - Wikiwand](<https://omni.wikiwand.com/en/Paxos_(computer_science)>)
+[Paxos (computer science) - Wikiwand](<https://www.wikiwand.com/en/Paxos_(computer_science)>)
 [Paxos Made Live - An Engineering Perspective (2006 Invited Talk) – Google Research](https://research.google/pubs/pub33002/)
 [Paxos Made Moderately Complex](http://www.cs.cornell.edu/courses/cs7412/2011sp/paxos.pdf)
 
 [Raft Consensus Algorithm](https://raft.github.io/)
-[Raft (computer science) - Wikiwand](<http://omni.wikiwand.com/en/Raft_(computer_science)>)
+[Raft (computer science) - Wikiwand](<http://www.wikiwand.com/en/Raft_(computer_science)>)
 
 ### Byzantine Fault Tolerance
 
-[Byzantine fault - Wikiwand](https://omni.wikiwand.com/en/Byzantine_fault)
+[Byzantine fault - Wikiwand](https://www.wikiwand.com/en/Byzantine_fault)
 [Byzantine Fault Tolerance Explained | Binance Academy](https://academy.binance.com/blockchain/byzantine-fault-tolerance-explained)
 [The-Byzantine-Generals-Problem.pdf](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Byzantine-Generals-Problem.pdf)
 [How does blockchain solve the Byzantine generals problem?](https://cointelegraph.com/blockchain-for-beginners/how-does-blockchain-solve-the-byzantine-generals-problem)
@@ -128,6 +128,7 @@ For PC it's easiest to install the [prebuilt binary](https://arrayfire.com/downl
 
 [The GPU evolution: from simple graphics to AI brains - YouTube](https://www.youtube.com/watch?v=usSQPBHxJSI)
 [How GPUs are Beginning to Displace Clusters for Big Data & Data Science - By Dan Voyce](https://hackernoon.com/how-gpus-are-beginning-to-displace-clusters-for-data-science-opbn36pv)
+[How do Graphics Cards Work? Exploring GPU Architecture - YouTube](https://www.youtube.com/watch?v=h9Z4oGN89MU)
 
 [AmgX | NVIDIA Developer](https://developer.nvidia.com/amgx) algebraic, physics
 [AmgX: Multi-Grid Accelerated Linear Solvers for Industrial Applications](https://devblogs.nvidia.com/amgx-multi-grid-accelerated-linear-solvers-industrial-applications/)
@@ -171,7 +172,7 @@ Spectrum-X from nVidia
 
 [[docker-nvidia]]
 
-[CUDA - Wikiwand](https://omni.wikiwand.com/en/CUDA)
+[CUDA - Wikiwand](https://www.wikiwand.com/en/CUDA)
 [An Even Easier Introduction to CUDA | NVIDIA Developer Blog](https://developer.nvidia.com/blog/even-easier-introduction-cuda/)
 [Programming Guide :: CUDA Toolkit Documentation](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
 
@@ -210,6 +211,7 @@ Spectrum-X from nVidia
 [ZLUDA Project Paves the Way for CUDA on Intel GPUs | Tom's Hardware](https://www.tomshardware.com/news/zluda-project-cuda-intel-gpus)
 [Software allows CUDA code to run on AMD and Intel GPUs without changes — ZLUDA is back but both companies ditched it, nixing future updates | Tom's Hardware](https://www.tomshardware.com/pc-components/gpus/software-allows-cuda-code-to-run-on-amd-and-intel-gpus-without-changes-zluda-is-back-but-both-companies-ditched-it-nixing-future-updates)
 [Nvidia bans using translation layers for CUDA software — previously the prohibition was only listed in the online EULA, now included in installed files [Updated] | Tom's Hardware](https://www.tomshardware.com/pc-components/gpus/nvidia-bans-using-translation-layers-for-cuda-software-to-run-on-other-chips-new-restriction-apparently-targets-zluda-and-some-chinese-gpu-makers)
+[ZLUDA: CUDA For AMD GPUs Returns From The Grave - YouTube](https://www.youtube.com/watch?v=0UH1Iv9E5fs)
 
 [SCALE documentation](https://docs.scale-lang.com/)
 [New SCALE tool enables CUDA applications to run on AMD GPUs | Tom's Hardware](https://www.tomshardware.com/tech-industry/new-scale-tool-enables-cuda-applications-to-run-on-amd-gpus)
@@ -229,13 +231,17 @@ Spectrum-X from nVidia
 [Introducing Triton: Open-Source GPU Programming for Neural Networks](https://openai.com/blog/triton/)
 [Wanna use your Nvidia GPU for acceleration but put off by CUDA? OpenAI has a Python-based alternative • The Register](https://www.theregister.com/2021/08/02/nvidia_cuda_openai/?td=keepreading-btm)
 
+## NPU
+
+[Do we really need NPUs now? - YouTube](https://www.youtube.com/watch?v=a9NprGqBr54) questionable as there is current no need for long running AI app in the background
+
 ##　Pacemaker
 
 [ClusterLabs > Pacemaker](https://clusterlabs.org/pacemaker/)
 
 ## MPI
 
-[Message Passing Interface - Wikiwand](https://omni.wikiwand.com/en/Message_Passing_Interface)
+[Message Passing Interface - Wikiwand](https://www.wikiwand.com/en/Message_Passing_Interface)
 [Open MPI: Open Source High Performance Computing](https://www.open-mpi.org/)
 
 [A Comprehensive MPI Tutorial Resource · MPI Tutorial](http://mpitutorial.com/)
@@ -248,7 +254,7 @@ Spectrum-X from nVidia
 
 ## OpenMP
 
-[OpenMP - Wikiwand](http://omni.wikiwand.com/en/OpenMP)
+[OpenMP - Wikiwand](http://www.wikiwand.com/en/OpenMP)
 [Home - OpenMP](https://www.openmp.org/)
 [openmp - GCC Wiki](https://gcc.gnu.org/wiki/openmp)
 
@@ -265,7 +271,7 @@ OpenMP like library for NVIDIA GPU
 enables hybrid CPU + GPU programming
 easier to use than CUDA
 
-[OpenACC - Wikiwand](https://omni.wikiwand.com/en/OpenACC)
+[OpenACC - Wikiwand](https://www.wikiwand.com/en/OpenACC)
 [Homepage | OpenACC](https://www.openacc.org/)
 [OpenACC - GCC Wiki](https://gcc.gnu.org/wiki/OpenACC)
 
@@ -307,7 +313,7 @@ Edge Runtime Cons:
 [xtensor-stack/xtensor-benchmark: Easy to use benchmarks for linear algebra frameworks](https://github.com/xtensor-stack/xtensor-benchmark)
 
 [Intel® Math Kernel Library (Intel® MKL) | Intel® Software](https://software.intel.com/en-us/mkl)
-[Math Kernel Library - Wikiwand](https://omni.wikiwand.com/en/Math_Kernel_Library)
+[Math Kernel Library - Wikiwand](https://www.wikiwand.com/en/Math_Kernel_Library)
 
 [LAPACK — Linear Algebra PACKage](http://www.netlib.org/lapack/)
 

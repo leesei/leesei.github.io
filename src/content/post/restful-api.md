@@ -2,7 +2,7 @@
 title: Restful API
 description: ""
 created: 2016-05-16
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - rest
   - web
@@ -49,7 +49,7 @@ tags:
 ## OData
 
 [OData - the Best Way to REST](https://www.odata.org/)
-[Open Data Protocol - Wikiwand](https://omni.wikiwand.com/en/Open_Data_Protocol)
+[Open Data Protocol - Wikiwand](https://www.wikiwand.com/en/Open_Data_Protocol)
 
 [Understand OData in 6 steps · OData - the Best Way to REST](https://www.odata.org/getting-started/understand-odata-in-6-steps/)
 [Documentation · OData - the Best Way to REST](https://www.odata.org/documentation/)

@@ -2,7 +2,7 @@
 title: New Energy Source
 description: Renewable Energy, Non-fossil Energy"
 created: 2015-11-04
-updated: 2024-09-23
+updated: 2025-01-09
 tags:
   - energy
   - science
@@ -27,7 +27,9 @@ New energy source that don't have turbines (large rotating masses) cannot handle
 
 [太陽能電池的重大突破！結合碳奈米點與鈣鈦礦太陽能電池的技術！ - YouTube](https://www.youtube.com/watch?v=xQgWTwaBMBg)
 
+[How the Next Big Solar Panel Tech is Already Here - YouTube](https://www.youtube.com/watch?v=3GIzZwQw4nc) Cadmium Telluride (CdTe), slighter lower efficiency than silicon but with higher theoretical efficiency, lower carbon footprint (in both process and material), fastest energy payback time
 [Solar 3.0: This New Technology Could Change Everything - YouTube](https://www.youtube.com/watch?v=tQmFVcD-Mbo)
+[2024 Perovskite Breakthroughs are the Future of Solar - YouTube](https://www.youtube.com/watch?v=FOBY6t1xnMI)
 
 ## Wind Turbine
 
@@ -35,7 +37,7 @@ New energy source that don't have turbines (large rotating masses) cannot handle
 
 ## Fuel Cell
 
-[Fuel cell - Wikiwand](https://omni.wikiwand.com/en/Fuel_cell)
+[Fuel cell - Wikiwand](https://www.wikiwand.com/en/Fuel_cell)
 [A Basic Overview of Fuel Cell Technology](http://americanhistory.si.edu/fuelcells/basics.htm)
 
 [How Fuel Cells Work - HowStuffWorks](http://auto.howstuffworks.com/fuel-efficiency/alternative-fuels/fuel-cell.htm)
@@ -59,7 +61,7 @@ Two Bit da Vinci
 
 ## Plasma
 
-[Plasma gasification - Wikiwand](http://omni.wikiwand.com/en/Plasma_gasification)
+[Plasma gasification - Wikiwand](http://www.wikiwand.com/en/Plasma_gasification)
 [How Plasma Converters Work - HowStuffWorks](http://science.howstuffworks.com/environmental/energy/plasma-converter.htm)
 [How Plasma Waste Converters Work | Stuff You Should Know: The Podcast](http://www.stuffyoushouldknow.com/podcasts/please-listen-to-how-plasma-waste-converters-work/)
 [The Cold Plasma Wand That Heals (Microjet)⚡ - YouTube](https://www.youtube.com/watch?v=wOV8kliF4eo)

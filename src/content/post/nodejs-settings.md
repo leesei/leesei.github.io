@@ -2,7 +2,7 @@
 title: Node.js settings
 description: ""
 created: 2014-12-11
-updated: 2024-09-24
+updated: 2025-01-09
 tags:
   - comp/lang
   - nodejs
@@ -247,7 +247,7 @@ npm ls --location=global --depth 0 | grep -P '(?<= ).*(?=@)' -o | grep -v npm | 
 @google/clasp fixpack json-server licenseify nodemon prettier yarn
 
 # work
-@google/clasp @leesei/imgmini bun corepack depcheck fixpack httpbin.js json-server licenseify nodemon prettier puppeteer serve ts-node typescript yarn
+@google/clasp @leesei/imgmini bun corepack depcheck fixpack httpbin.js json-server licenseify nodemon prettier serve ts-node typescript yarn
 ```
 
 ## npm fails
@@ -415,7 +415,7 @@ These allows you to build a sub-shell or yeoman-like app.
 
 ### Terminal interface
 
-The equivalent of [ncurses](https://omni.wikiwand.com/en/Ncurses) in Linux.
+The equivalent of [ncurses](https://www.wikiwand.com/en/Ncurses) in Linux.
 
 [chjj/blessed: A high-level terminal interface library for node.js.](https://github.com/chjj/blessed)
 [substack/node-charm: ansi control sequences for terminal cursor hopping and colors](https://github.com/substack/node-charm)

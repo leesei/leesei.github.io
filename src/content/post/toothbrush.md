@@ -2,7 +2,7 @@
 title: Toothbrush
 description: ""
 created: 2019-04-24
-updated: 2024-04-28
+updated: 2025-01-09
 tags:
   - trivia
 ---

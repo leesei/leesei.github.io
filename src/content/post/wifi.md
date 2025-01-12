@@ -2,7 +2,7 @@
 title: Wifi
 description: ""
 created: 2019-02-25
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - comp/hardware
   - wifi
@@ -10,7 +10,7 @@ tags:
 
 [[router]]
 
-[Wi-Fi - Wikiwand](https://omni.wikiwand.com/en/Wi-Fi)
+[Wi-Fi - Wikiwand](https://www.wikiwand.com/en/Wi-Fi)
 [Router 路由器 集中討論區(30) 記住睇#1 新用家勿買煙條 CPU Router | LIHKG](https://lihkg.com/thread/2098608/page/1)
 [Router 路由器 集中討論區(19)發問前請細閱置頂 | LIHKG](https:/d/lihkg.com/thread/1698364/page/1)
 [连拆 70 台！Wi-Fi6 路由器的终极秘密是？知电路由器选购指南 2023 - YouTube](https://www.youtube.com/watch?v=uQ2nDcdCE4U)
@@ -84,7 +84,7 @@ netsh wlan show profile name="<SSID>" key=clear | findstr Key
 ### Repeater
 
 Since WiFi is single duplex, repeater will half the bandwidth and increase latency
-[Wireless repeater - Wikiwand](https://omni.wikiwand.com/en/Wireless_repeater)
+[Wireless repeater - Wikiwand](https://www.wikiwand.com/en/Wireless_repeater)
 [2.4 GHz Wi-Fi Repeaters Explained [TP-Link TL-WA855RE] - YouTube](https://www.youtube.com/watch?v=VUx_va_3020)
 
 [Dual-Band Repeaters Explained - YouTube](https://www.youtube.com/watch?v=XuJlxD3kLL0)

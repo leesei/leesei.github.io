@@ -2,7 +2,7 @@
 title: Color
 description: ""
 created: 2014-12-17
-updated: 2024-08-19
+updated: 2025-01-09
 tags:
   - color-palette
   - colorspace
@@ -10,6 +10,8 @@ tags:
 ---
 
 [Color Matters welcomes you to the world of color: Symbolism, design, vision, science, marketing and more!](https://www.colormatters.com/)
+
+[20000元1张纸，这是什么？ - YouTube](https://www.youtube.com/watch?v=U7pfic9TJ-E)
 
 ## Color Theory
 
@@ -25,6 +27,8 @@ tags:
 [Your Colors Suck (it's not your fault) - YouTube](https://www.youtube.com/watch?v=fv-wlo8yVhk) CIE XYZ colorspace
 [Color: From Hexcodes to Eyeballs](http://jamie-wong.com/post/color/)
 
+[How Games are HACKING Color Theory - YouTube](https://www.youtube.com/watch?v=j68UW21Nx6g) tone mapping, from real colorspace to one for the display
+
 ## Human's perception of Color
 
 [[optical-illusion#Color Constancy]]
@@ -33,8 +37,12 @@ tags:
 [Colourful in Theory - That Irks Me - YouTube](https://www.youtube.com/watch?v=qKPY2opisRk)
 [Color — Method of Action](http://color.method.ac/) testing your perception and your monitor's rendering of color
 
-[Is This Banana Really Yellow? - YouTube](https://www.youtube.com/watch?v=WN1yCigL3Hk)
-[literally EVERYTHING about color, simplified - YouTube](https://www.youtube.com/watch?v=srRI7yMjGz0)
+[The Physics and Psychology of Colour - with Andrew Hanson - YouTube](https://www.youtube.com/watch?v=af78RPi6ayE)
+[How Do We Actually See Color? - YouTube](https://www.youtube.com/watch?v=WN1yCigL3Hk)
+[everything about color (literally) - YouTube](https://www.youtube.com/watch?v=srRI7yMjGz0)
+
+[Marketing Color Psychology: What Do Colors Mean and How Do They Affect Consumers? - YouTube](https://www.youtube.com/watch?v=x0smq5ljlf4)
+[The Philosophy of Color - YouTube](https://www.youtube.com/watch?v=1i8s8knHFTs)
 
 Light source, Color Rendering Index
 [The Weird World in RGB - YouTube](https://www.youtube.com/watch?v=uYbdx4I7STg)
@@ -43,8 +51,8 @@ Light source, Color Rendering Index
 
 [人眼是如何看到颜色的？紫色不存在吗？ - YouTube](https://www.youtube.com/watch?v=0t4y9jVtYko)
 [这个世界上根本不存在紫色！ - YouTube](https://www.youtube.com/watch?v=vv79wigS-4I)
-[There's no purple light - YouTube](https://www.youtube.com/watch?v=CoLQF3cfxv0)
 [草莓是什么颜色的？眼见一定为实吗？ - YouTube](https://www.youtube.com/watch?v=jpUcm-g_zRA)
+[There's no purple light - YouTube](https://www.youtube.com/watch?v=CoLQF3cfxv0)
 
 ## Color Palette/Scheme
 
@@ -56,6 +64,7 @@ Light source, Color Rendering Index
 [Realtime Colors - YouTube](https://www.youtube.com/playlist?list=PLLTyNV6fs1fR4YBnls84aA5t8t6axO8CB) Juxtopposed
 
 [Color meanings: color names and symbolism | Canva Colors](https://www.canva.com/colors/color-meanings/)
+[Spice up your Brand - Create your own color palette in PowerPoint - YouTube](https://www.youtube.com/watch?v=r1bu6y0kQMI)
 
 [Is there a science to picking colors that work well together or is it just subjective? - Quora](http://www.quora.com/Is-there-a-science-to-picking-colors-that-work-well-together-or-is-it-just-subjective)
 [Which Colors Look Good on Black and White? - DEV Community 👩‍💻👨‍💻](https://dev.to/finnhvman/which-colors-look-good-on-black-and-white-2pe6)
@@ -120,17 +129,17 @@ Light source, Color Rendering Index
 [How We Make (and Made) Color - [A Collaboration with Google Arts and Culture] - YouTube](https://www.youtube.com/watch?v=hTZbrRaO2q8)
 [人類為了好色，到底做過哪些重口味的事情…… | 總裁聊聊 - YouTube](https://www.youtube.com/watch?v=7IstCl--Ea0)
 
-[Tyrian purple - Wikiwand](https://omni.wikiwand.com/en/Tyrian_purple)
+[Tyrian purple - Wikiwand](https://www.wikiwand.com/en/Tyrian_purple)
 [In Ancient Rome, Purple Dye Was Made from Snails | Smart News | Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/in-ancient-rome-purple-dye-was-made-from-snails-1239931/)
 [Why is the color purple associated with royalty? | Live Science](https://www.livescience.com/33324-purple-royal-color.html)
 [Why Tyrian Purple Dye Is So Expensive | So Expensive | Insider Business - YouTube](https://www.youtube.com/watch?v=IVXqisH6VeM)
 
-[Mummy brown - Wikiwand](https://omni.wikiwand.com/en/Mummy_brown)
+[Mummy brown - Wikiwand](https://www.wikiwand.com/en/Mummy_brown)
 [The life and death of Mummy Brown - Journal of ART in SOCIETY](http://www.artinsociety.com/the-life-and-death-of-mummy-brown.html)
 [Was This Masterpiece Painted With Ground Mummy?](https://www.nationalgeographic.com/history/article/mummy-art-painting-delacroix-pigment-ancient-Egypt)
 
-[Han purple and Han blue - Wikiwand](https://omni.wikiwand.com/en/Han_purple_and_Han_blue)
-[矽酸銅鋇 - Wikiwand](https://omni.wikiwand.com/zh/%E7%9F%BD%E9%85%B8%E9%8A%85%E9%8B%87)
+[Han purple and Han blue - Wikiwand](https://www.wikiwand.com/en/Han_purple_and_Han_blue)
+[矽酸銅鋇 - Wikiwand](https://www.wikiwand.com/zh/%E7%9F%BD%E9%85%B8%E9%8A%85%E9%8B%87)
 [Han Purple - Collections - Asian Art Museum](https://collections.asianart.org/han-purple/)
 [Man-made blue and purple barium copper silicate pigments and the pabstite (BaSnSi3O9) mystery of ancient Chinese wall paintings from Luoyang | Heritage Science | Full Text](https://heritagesciencejournal.springeropen.com/articles/10.1186/s40494-019-0340-4)
 [This 2000-Year-Old Pigment Can Eliminate The Third Dimension](https://gizmodo.com/this-2000-year-old-pigment-can-eliminate-the-third-dime-1661476168)
@@ -142,11 +151,11 @@ Light source, Color Rendering Index
 [Wide Gamut - Home Page](https://www.wide-gamut.com/)
 [Wide Gamut - Test Page](https://www.wide-gamut.com/test/image-hdr) HDR
 
-[List of color spaces and their uses - Wikiwand](https://omni.wikiwand.com/en/List_of_color_spaces_and_their_uses)
-[YCbCr - Wikiwand](https://omni.wikiwand.com/en/ycbcr)
+[List of color spaces and their uses - Wikiwand](https://www.wikiwand.com/en/List_of_color_spaces_and_their_uses)
+[YCbCr - Wikiwand](https://www.wikiwand.com/en/ycbcr)
 [What are the differences between RGB, HSV and CIE-Lab? - Quora](https://www.quora.com/What-are-the-differences-between-RGB-HSV-and-CIE-Lab)
 
-[YCbCr - Wikiwand](https://omni.wikiwand.com/en/ycbcr)
+[YCbCr - Wikiwand](https://www.wikiwand.com/en/ycbcr)
 [The HSB Color System: A Practitioner's Primer – Learn UI Design](https://learnui.design/blog/the-hsb-color-system-practicioners-primer.html)
 
 [色域转换都发生了什么？SRGB 出图需要用广色域链路吗？究竟是否需要买广色域显示器？风光和人像打印可以用一样的设置吗？什么是黑场补偿，相对比色，可感知渲染意图？ - YouTube](https://www.youtube.com/watch?v=2EKtQeXvAD8)
@@ -154,12 +163,12 @@ Light source, Color Rendering Index
 可感知 scale all colors to target colorspace to keep gradients in the original colorspace
 Workspace in full colorspace (Adobe RGB) to prevent clipping (overflow/underflow) in operations
 
-[CIE 1931 color space - Wikiwand / articles](https://omni.wikiwand.com/en/articles/CIE_1931_color_space) CIEXYZ
+[CIE 1931 color space - Wikiwand / articles](https://www.wikiwand.com/en/articles/CIE_1931_color_space) CIEXYZ
 [CIELUV - Wikiwand](https://www.wikiwand.com/en/CIELUV)
 [HSLuv - Human-friendly HSL](https://www.hsluv.org/)
 [Color Spaces for Human Beings - Alexei Boronine](https://www.boronine.com/2012/03/26/Color-Spaces-for-Human-Beings/)
 [A perceptual color space for image processing](https://bottosson.github.io/posts/oklab/) OKLAB
-[Abney effect - Wikiwand / articles](https://omni.wikiwand.com/en/articles/Abney_effect)
+[Abney effect - Wikiwand / articles](https://www.wikiwand.com/en/articles/Abney_effect)
 
 HSL_UV => LCH, OKLCH, perceptually uniform
 HSL (RGB) => LAB, OKLAB, negative number, Abney effect
@@ -176,7 +185,7 @@ There are several standards regulating the YUV colorspace:
 
 ### EBU
 
-```txt
+```
 Y' =  0.299*R' + 0.587*G' + 0.114*B'
 U' = -0.147*R' - 0.289*G' + 0.436*B' = 0.493*(B' - Y')
 V' =  0.615*R' - 0.515*G' - 0.100*B' = 0.877*(R' - Y')
@@ -188,7 +197,7 @@ B' =  Y' + 2.029*U' + 0.000*V'
 
 ### ITU.BT-601
 
-```txt
+```
 Y' =  0.299*R' + 0.587*G' + 0.114*B'
 Cb = -0.169*R' - 0.331*G' + 0.500*B' = 0.564(B - Y')
 Cr =  0.500*R' - 0.419*G' - 0.081*B' = 0.713(R - Y')
@@ -200,7 +209,7 @@ B' =  Y' + 1.773*U' + 0.000*V'
 
 ### ITU.BT-709
 
-```txt
+```
 Y' =  0.2215*R' + 0.7154*G' + 0.0721*B'
 Cb = -0.1145*R' - 0.3855*G' + 0.5000*B'
 Cr =  0.5016*R' - 0.4556*G' - 0.0459*B'
@@ -212,7 +221,7 @@ B' =  Y' - 1.8556*Cb + 0.0000*Cr
 
 ### yCbCr<-->rgb (ITU.BT-565?)
 
-```txt
+```
 Y’  = 0.257*R' + 0.504*G' + 0.098*B' + 16
 Cb' = -0.148*R' - 0.291*G' + 0.439*B' + 128
 Cr' = 0.439*R' - 0.368*G' - 0.071*B' + 128

@@ -2,7 +2,7 @@
 title: Distributed File Systems
 description: ""
 created: 2015-05-20
-updated: 2024-09-12
+updated: 2025-01-09
 tags:
   - file-system
   - linux
@@ -11,9 +11,9 @@ tags:
 
 [[enterprise-server#Storage]]
 
-[Clustered file system - Wikiwand](https://omni.wikiwand.com/en/Clustered_file_system#/Distributed_file_systems)
-[List of Distributed file systems - Wikiwand](https://omni.wikiwand.com/en/List_of_file_systems#/Distributed_file_systems)
-[Comparison of distributed file systems - Wikiwand](https://omni.wikiwand.com/en/Comparison_of_distributed_file_systems)
+[Clustered file system - Wikiwand](https://www.wikiwand.com/en/Clustered_file_system#/Distributed_file_systems)
+[List of Distributed file systems - Wikiwand](https://www.wikiwand.com/en/List_of_file_systems#/Distributed_file_systems)
+[Comparison of distributed file systems - Wikiwand](https://www.wikiwand.com/en/Comparison_of_distributed_file_systems)
 
 [File systems unfit as distributed storage backends: lessons from ten years of Ceph evolution – the morning paper](https://blog.acolyer.org/2019/11/06/ceph-evolution/amp/)
 
@@ -24,7 +24,7 @@ tags:
 [File storage, block storage, or object storage?](https://www.redhat.com/en/topics/data-storage/file-block-object-storage)
 [Distributed File System SBFAQ](http://pl.atyp.us/2015-05-dfs-sbfaq.html)
 
-[Distributed Replicated Block Device - Wikiwand](https://omni.wikiwand.com/en/Distributed_Replicated_Block_Device)
+[Distributed Replicated Block Device - Wikiwand](https://www.wikiwand.com/en/Distributed_Replicated_Block_Device)
 
 [filesystems - Distributed File Systems: GridFS vs. GlusterFS vs Ceph vs HekaFS Benchmarks - Stack Overflow](http://stackoverflow.com/questions/17425153/distributed-file-systems-gridfs-vs-glusterfs-vs-ceph-vs-hekafs-benchmarks)
 [Ceph at CERN: A Year in the Life of a Petabyte-Scale Block Storage Service » OpenStack Open Source Cloud Computing Software](https://www.openstack.org/summit/vancouver-2015/summit-videos/presentation/ceph-at-cern-a-year-in-the-life-of-a-petabyte-scale-block-storage-service)
@@ -45,7 +45,7 @@ tags:
 
 ## Ceph
 
-[Ceph (software) - Wikiwand](<https://omni.wikiwand.com/en/Ceph_(software)>)
+[Ceph (software) - Wikiwand](<https://www.wikiwand.com/en/Ceph_(software)>)
 [ceph.com](http://ceph.com/)
 Ceph is a flexible object storage system, with four access methods: Amazon S3 RESTful API, CephFS, Rados Block Device and iSCSI gateway.
 
@@ -92,7 +92,7 @@ Kubernetes Operator for Ceph (and many others)
 
 ## GlusterFS
 
-[GlusterFS - Wikiwand](http://omni.wikiwand.com/en/GlusterFS)
+[GlusterFS - Wikiwand](http://www.wikiwand.com/en/GlusterFS)
 [Storage for your Cloud. — Gluster](http://www.gluster.org/)
 [Gluster Docs](https://docs.gluster.org/en/latest/)
 [Architecture - Gluster Docs](https://docs.gluster.org/en/latest/Quick-Start-Guide/Architecture/)
@@ -112,7 +112,7 @@ Kubernetes Operator for Ceph (and many others)
 ### LINSTOR/DRDB
 
 [LINSTOR | LINBIT-Creates, Removes, & Manages storage volumes](https://www.linbit.com/en/linstor/)
-[Distributed Replicated Block Device - Wikiwand](https://omni.wikiwand.com/en/Distributed_Replicated_Block_Device)
+[Distributed Replicated Block Device - Wikiwand](https://www.wikiwand.com/en/Distributed_Replicated_Block_Device)
 [DRBD - Linux-HA](http://www.linux-ha.org/wiki/DRBD)
 
 [Linbit Docs – Docs LINBIT](https://docs.linbit.com/docs/users-guide-9.0/)
@@ -129,7 +129,7 @@ iSCSI LUN: a portion of storage space that can be utilized by initiators by conn
 
 [How to create and use the iSCSI target service on a QNAP NAS - QNAP (AU)](https://www.qnap.com/en-au/how-to/tutorial/article/how-to-create-and-use-the-iscsi-target-service-on-a-qnap-nas/)
 
-[LIO (SCSI target) - Wikiwand](<https://omni.wikiwand.com/en/LIO_(SCSI_target)>)
+[LIO (SCSI target) - Wikiwand](<https://www.wikiwand.com/en/LIO_(SCSI_target)>)
 [ISCSI/LIO - ArchWiki](https://wiki.archlinux.org/title/ISCSI/LIO)
 
 [LIO -SCSI target - pipci - 博客园](https://www.cnblogs.com/pipci/p/11618548.html)
@@ -164,11 +164,11 @@ iSCSI LUN: a portion of storage space that can be utilized by initiators by conn
 
 ## OrangeFS
 
-[OrangeFS - Wikiwand](https://omni.wikiwand.com/en/OrangeFS)
+[OrangeFS - Wikiwand](https://www.wikiwand.com/en/OrangeFS)
 [OrangeFS](http://orangefs.com/) more info than [orangefs.org](http://www.orangefs.org/)
 
 An open source FS by EMC, the one behind
-[EMC Isilon - Wikiwand](http://omni.wikiwand.com/en/EMC_Isilon)
+[EMC Isilon - Wikiwand](http://www.wikiwand.com/en/EMC_Isilon)
 
 ## Stratis
 
@@ -178,7 +178,7 @@ An open source FS by EMC, the one behind
 
 ## Lustre File system
 
-[Lustre (file system) - Wikiwand](<https://omni.wikiwand.com/en/Lustre_(file_system)>)
+[Lustre (file system) - Wikiwand](<https://www.wikiwand.com/en/Lustre_(file_system)>)
 [Lustre](http://lustre.org/)
 
 [The Lustre Distributed Filesystem | Linux Journal](https://www.linuxjournal.com/content/lustre-distributed-filesystem)
@@ -192,7 +192,7 @@ White papers:
 
 ## XtreemFS
 
-[XtreemFS - Wikiwand](http://omni.wikiwand.com/en/XtreemFS)
+[XtreemFS - Wikiwand](http://www.wikiwand.com/en/XtreemFS)
 [XtreemFS - Fault-Tolerant Distributed File System](http://www.xtreemfs.org/)
 
 > I tested XtreemFS and found that it does not work well. There are problems like data corruption ([#359][#359]), read errors in degraded mode ([#357][#357]/[#235][#235]), crippled read-only mode ([#358][#358]) etc.; build system is a mess plus XtreemFS depends on old (not updated since 2007) non-free JAR ([#309][#309], [#173][#173]) so XtreemFS is in violation of DFSG and not distributable in Debian. Also I'm not happy about how devs respond to bugs. Finally XtreemFS is written in poor language notorious for inefficient memory management so naturally XtreemFS can't stand against GfarmFS and LizardFS in performance comparison.

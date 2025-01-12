@@ -2,7 +2,7 @@
 title: Computer Memory
 description: ""
 created: 2016-04-26
-updated: 2024-09-28
+updated: 2025-01-09
 tags:
   - comp/hardware
   - ddr
@@ -63,6 +63,14 @@ latency is more crucial
 [Upgradable RAM is Back – CAMM2 Explained - YouTube](https://www.youtube.com/watch?v=PMwt3A02WU8)
 [New Laptop Memory Is Here! LPCAMM2 Changes Everything! - YouTube](https://www.youtube.com/watch?v=K3zB9EFntmA)
 [不看你可能會翻車!!!次世代DDR5記憶體概念入門~想搞懂甚麼是CU-DIMM甚麼是CAMM2嗎?來慢慢聊聊天 - YouTube](https://www.youtube.com/watch?v=ImqoHmkIrbo)
+
+[Computer RAM gets biggest upgrade in 25 years but it may be too little, too late — LPCAMM2 won't stop Apple, Intel and AMD from integrating memory directly on the CPU | TechRadar](https://www.techradar.com/pro/computer-ram-gets-biggest-upgrade-in-25-years-but-it-may-be-too-little-too-late-lpcamm2-wont-stop-apple-intel-and-amd-from-integrating-memory-directly-on-the-cpu)
+[SO-DIMM laptop memory sticks to disappear as CAMM poised to take over — new RAM format comes to market, but may be a mere stopgap before tech industry moves to on-chip system memory à la Apple | TechRadar](https://www.techradar.com/pro/so-dimm-laptop-memory-sticks-to-disappear-as-camm-poised-to-take-over-new-ram-format-comes-to-market-but-may-be-a-mere-stopgap-before-tech-industry-moves-to-on-chip-system-memory-a-la-apple)
+
+[What is CAMM2? Meet the faster, smaller, upgradeable new memory standard | Tom's Hardware](https://www.tomshardware.com/pc-components/motherboards/what-is-camm2)
+[Why manufacturers are testing CAMM2 on the desktop | PCWorld](https://www.pcworld.com/article/2363771/why-msi-asus-and-asrock-are-testing-camm2-on-desktop.html)
+[MSI Highlights Benefits of CAMM2 DDR5 Memory For Desktop PCs: Shorter Traces Lead To Higher Speeds & Lower Latencies, Cooler & Innovative Designs](https://wccftech.com/msi-benefits-camm2-ddr5-memory-desktop-pcs-shorter-traces-higher-speeds-lower-latencies-cooler-innovative-designs/)
+[Compression-mounted laptop RAM is fast, efficient, and upgradeable - The Verge](https://www.theverge.com/2024/5/7/24151369/lpcamm2-laptop-memory-ram-lenovo-ifixit)
 
 ## UDIMM vs RDIMM
 

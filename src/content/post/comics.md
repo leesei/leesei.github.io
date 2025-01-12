@@ -2,7 +2,7 @@
 title: Comics
 description: ""
 created: 2015-04-24
-updated: 2024-09-23
+updated: 2025-01-09
 tags:
   - comics
 ---
@@ -42,7 +42,7 @@ More focus on the mental beings of the heroes and villains.
 
 # Marvel
 
-[Multiverse (Marvel Comics) - Wikiwand](<https://omni.wikiwand.com/en/Multiverse_(Marvel_Comics)>)
+[Multiverse (Marvel Comics) - Wikiwand](<https://www.wikiwand.com/en/Multiverse_(Marvel_Comics)>)
 616: Main Comic Universe
 1616: Ultimate Universe (MCU based on this)
 
@@ -76,7 +76,7 @@ More focus on the mental beings of the heroes and villains.
 # DC Comics
 
 [Characters | DC Comics](http://www.dccomics.com/characters)
-[Multiverse (DC Comics) - Wikiwand](<https://omni.wikiwand.com/en/Multiverse_(DC_Comics)>)
+[Multiverse (DC Comics) - Wikiwand](<https://www.wikiwand.com/en/Multiverse_(DC_Comics)>)
 
 DC adopts the parallel universe concept, first in Flash, in order to crossover heroes of different origins.
 

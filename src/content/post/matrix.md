@@ -2,7 +2,7 @@
 title: Matrix
 description: ""
 created: 2018-12-09
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - anime
   - matrix

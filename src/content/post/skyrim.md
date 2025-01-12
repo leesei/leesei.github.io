@@ -2,7 +2,7 @@
 title: Elder Scroll V Skyrim
 description: ""
 created: 2023-08-14
-updated: 2024-06-02
+updated: 2025-01-09
 tags:
   - games
   - skyrim
@@ -22,6 +22,8 @@ The old version supports all mods with achievements
 [The Elder Scrolls V: Skyrim - Legendary Edition | PC Steam Game | Fanatical](https://www.fanatical.com/en/game/the-elder-scrolls-v-skyrim-legendary-edition)
 
 ## Mods
+
+[Wabbajack](https://www.wabbajack.org/) An automated Modlist installer
 
 [Skyrim Script Extender (SKSE) on Steam](https://store.steampowered.com/app/365720/Skyrim_Script_Extender_SKSE/)
 

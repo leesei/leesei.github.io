@@ -1,14 +1,14 @@
 ---
-title: far-cry
+title: Far Cry
 description: ""
 created: 2023-08-14
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - far-cry
   - games
 ---
 
-[Far Cry - Wikiwand](https://omni.wikiwand.com/en/Far_Cry)
+[Far Cry - Wikiwand](https://www.wikiwand.com/en/Far_Cry)
 
 [Ranking The Far Cry Games From Worst To Best - YouTube](https://www.youtube.com/watch?v=1vWVc2-r2uA)
 Primal > Blood dragon > 5 > 2 > 4

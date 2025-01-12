@@ -2,13 +2,13 @@
 title: Boot
 description: ""
 created: 2015-05-10
-updated: 2024-09-12
+updated: 2025-01-09
 tags:
   - desktop
   - linux
 ---
 
-[Booting - Wikiwand](https://omni.wikiwand.com/en/Booting#/SPL)
+[Booting - Wikiwand](https://www.wikiwand.com/en/Booting#/SPL)
 
 POST -> BIOS/ROM code -> MBR of boot partition -> Bootloader ->
 Kernel -> [`init`](https://wiki.archlinux.org/title/Init)/[`systemd`](https://wiki.archlinux.org/title/Systemd) ->
@@ -80,6 +80,9 @@ GPT (Windows): 128 partitions, bootable only with UEFI
 
 ## Bootloader
 
+[[grub]]
+[[systemd#systemd-boot]]
+
 [Bootloader - OSDev Wiki](https://wiki.osdev.org/Bootloader)
 [What is the difference between a Bootrom vs bootloader on ARM systems - Stack Overflow](https://stackoverflow.com/questions/15665052/what-is-the-difference-between-a-bootrom-vs-bootloader-on-arm-systems)
 [linux - Why do we need a bootloader in an embedded device? - Stack Overflow](https://stackoverflow.com/questions/15548004/why-do-we-need-a-bootloader-in-an-embedded-device)
@@ -95,7 +98,7 @@ SPL (secondary program loader) is needed when the static RAM cannot hold the who
 [Home · kexecboot/kexecboot Wiki](https://github.com/kexecboot/kexecboot/wiki) Kexecboot is a nice Linux-As-a-Bootloader implementation based on kexec.
 
 [WebHome < U-Boot < DENX](https://www.denx.de/wiki/U-Boot)
-[Das U-Boot - Wikiwand](https://omni.wikiwand.com/en/Das_U-Boot)
+[Das U-Boot - Wikiwand](https://www.wikiwand.com/en/Das_U-Boot)
 [Introduction to the U-Boot bootloader - YouTube](https://www.youtube.com/watch?v=e6wlg9ntPVY)
 [Embedded Linux Booting Process (Multi-Stage Bootloaders, Kernel, Filesystem) - YouTube](https://www.youtube.com/watch?v=DV5S_ZSdK0s)
 [Introduction — Depthcharge documentation](https://depthcharge.readthedocs.io/en/latest/)
@@ -114,11 +117,11 @@ Technological Protection Measures (TPMs)
 
 ## initramfs
 
-[Initial ramdisk - Wikiwand](https://omni.wikiwand.com/en/Initial_ramdisk)
+[Initial ramdisk - Wikiwand](https://www.wikiwand.com/en/Initial_ramdisk)
 [About initramfs](https://www.linuxfromscratch.org/blfs/view/svn/postlfs/initramfs.html)
 [Arch boot process - ArchWiki](https://wiki.archlinux.org/title/Arch_boot_process#initramfs)
 
-[dracut (software) - Wikiwand](<https://omni.wikiwand.com/en/Dracut_(software)>)
+[dracut (software) - Wikiwand](<https://www.wikiwand.com/en/Dracut_(software)>)
 [dracut - ArchWiki](https://wiki.archlinux.org/title/Dracut)
 [dracut 基本介绍 - doscho - 博客园](https://www.cnblogs.com/doscho/p/6269279.html)
 
@@ -144,7 +147,7 @@ Technological Protection Measures (TPMs)
 
 ## BIOS
 
-[BIOS - Wikiwand](https://omni.wikiwand.com/en/BIOS)
+[BIOS - Wikiwand](https://www.wikiwand.com/en/BIOS)
 [Arch boot process - ArchWiki](https://wiki.archlinux.org/title/Arch_boot_process)
 [Boot with GRUB | Linux Journal](http://www.linuxjournal.com/article/4622)
 
@@ -155,11 +158,11 @@ Flash BIOS with bare motherboard:
 
 ### OpenBIOS
 
-[OpenBIOS - Wikiwand](https://omni.wikiwand.com/en/OpenBIOS)
+[OpenBIOS - Wikiwand](https://www.wikiwand.com/en/OpenBIOS)
 [OpenBIOS](http://www.openfirmware.info/Welcome_to_OpenBIOS)
 [Category:Free BIOS implementations - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Category:Free_BIOS_implementations)
 
-[coreboot](https://www.coreboot.org/) [coreboot - Wikiwand](https://omni.wikiwand.com/en/Coreboot)
+[coreboot](https://www.coreboot.org/) [coreboot - Wikiwand](https://www.wikiwand.com/en/Coreboot)
 [Libreboot project](https://libreboot.org/)
 
 ### Fixing MBR
@@ -233,7 +236,7 @@ The Windows ISO cannot be `dd`-ed to USB flash. We must create a bootable NTFS p
 ## PXEBoot (network boot)
 
 [What Is Network Booting (PXE) and How Can You Use It?](http://www.howtogeek.com/57601/what-is-network-booting-pxe-and-how-can-you-use-it/)
-[Preboot Execution Environment - Wikiwand](https://omni.wikiwand.com/en/Preboot_Execution_Environment)
+[Preboot Execution Environment - Wikiwand](https://www.wikiwand.com/en/Preboot_Execution_Environment)
 
 [Plop Linux - Live - PXE Boot from network (DHCP, TFTP, NFS, Samba, FTP, HTTP) - Linux server](https://www.plop.at/en/ploplinux/live/networkboot-linux.html)
 [Plop Linux - Live - PXE Boot from network (DHCP, TFTP, Network share, FTP, HTTP) - Windows server](https://www.plop.at/en/ploplinux/live/networkboot-windows.html)
@@ -299,7 +302,7 @@ UEFI application (in EFI System partition) -> Bootloader -> Kernel -> ...
 
 ### `init`/`sysvinit` (OBSOLETE)
 
-[init - Wikiwand](http://omni.wikiwand.com/en/Init)
+[init - Wikiwand](http://www.wikiwand.com/en/Init)
 
 Originates from System V, the oldest and most widely used init system.
 `init` is [LSB](http://refspecs.linuxfoundation.org/lsb.shtml)-compliant.
@@ -333,7 +336,7 @@ sudo update-rc.d nginx defaults
 
 > `upstart` is deprecated
 
-[Upstart - Wikiwand](http://omni.wikiwand.com/en/Upstart)
+[Upstart - Wikiwand](http://www.wikiwand.com/en/Upstart)
 [upstart - event-based init daemon](http://upstart.ubuntu.com/)
 
 Use `upstart` instead of `init.d` for Ubuntu:

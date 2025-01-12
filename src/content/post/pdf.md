@@ -2,7 +2,7 @@
 title: Portable Document Format (PDF)
 description: ""
 created: 2018-10-27
-updated: 2024-09-06
+updated: 2025-01-09
 tags:
   - business
   - desktop
@@ -64,7 +64,7 @@ Chop/Watermark:
 
 [11 of the Best Free Linux PDF Tools - LinuxLinks](https://www.linuxlinks.com/pdftools/)
 
-[Ghostscript - Wikiwand](https://omni.wikiwand.com/en/Ghostscript)
+[Ghostscript - Wikiwand](https://www.wikiwand.com/en/Ghostscript)
 [pdftex - Why does PDFSIZEOPT not reduce file size much? - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/549501/why-does-pdfsizeopt-not-reduce-file-size-much) `gs` is better
 
 [How to convert pdf to image on Linux command line - nixCraft](https://www.cyberciti.biz/faq/how-to-convert-pdf-to-image-on-linux-command-line/)

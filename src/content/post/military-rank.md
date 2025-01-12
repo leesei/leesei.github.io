@@ -2,16 +2,16 @@
 title: Military Rank
 description: ""
 created: 2016-03-13
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - trivia
 ---
 
-[军衔 - Wikiwand](https://omni.wikiwand.com/zh/军衔)
-[軍隊の階級 - Wikiwand](https://omni.wikiwand.com/ja/軍隊の階級)
-[Comparative military ranks of Korea - Wikiwand](https://omni.wikiwand.com/en/Comparative_military_ranks_of_Korea)
-[Military rank - Wikiwand](https://omni.wikiwand.com/en/Military_rank#/Warrant_officers)
-[Command hierarchy - Wikiwand](https://omni.wikiwand.com/en/Command_hierarchy#/Chain_of_command)
+[军衔 - Wikiwand](https://www.wikiwand.com/zh/军衔)
+[軍隊の階級 - Wikiwand](https://www.wikiwand.com/ja/軍隊の階級)
+[Comparative military ranks of Korea - Wikiwand](https://www.wikiwand.com/en/Comparative_military_ranks_of_Korea)
+[Military rank - Wikiwand](https://www.wikiwand.com/en/Military_rank#/Warrant_officers)
+[Command hierarchy - Wikiwand](https://www.wikiwand.com/en/Command_hierarchy#/Chain_of_command)
 
 Division
 Regiment, Brigade 旅

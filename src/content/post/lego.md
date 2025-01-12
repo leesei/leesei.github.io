@@ -2,7 +2,7 @@
 title: LEGO
 description: ""
 created: 2016-06-12
-updated: 2024-08-28
+updated: 2025-01-09
 tags:
   - lego
   - toys
@@ -12,16 +12,8 @@ tags:
 [The LEGO Story - How it all started - YouTube](https://www.youtube.com/watch?v=qr_dTySMl7s)
 [LEGO 樂高如何從一間小木工廠成長為全球玩具巨頭？｜ LEGO 樂高｜巨頭的起源 - YouTube](https://www.youtube.com/watch?v=ro36Nin-_-g)
 [Why Lego Is So Expensive | So Expensive | Business Insider - YouTube](https://www.youtube.com/watch?v=-d8sNML3WT8)
-[The Economics of LEGO - YouTube](https://www.youtube.com/watch?v=zsHXFEOV83gs)
 [Why Lego won - YouTube](https://www.youtube.com/watch?v=pSdJBKhDmNo)
-[一盒樂高≈13把ak47？超越比特幣的硬通貨，被黑暗勢力操縱的自由女神，只有真正的兒童和罪犯會為其狂熱｜總裁聊聊 - YouTube](https://www.youtube.com/watch?v=-U6xSAreBsI)
-
-[How are LEGO Minifigures Made? | LEGO Factory Behind The Scenes - YouTube](https://www.youtube.com/watch?v=ChZotngQ3_8)
-[【中外玩具网披露塑料拼插积木发展历史】 - 中外玩具网](https://news.ctoy.com.cn/show-31866.html)
-[史上最全乐高玩具大梳理！1 篇文章搞懂乐高玩具！|乐高|颗粒|德宝\_新浪网](http://k.sina.com.cn/article_6425065479_17ef6b80700100aaj1.html)
 [風靡一世的樂高為何走上窮途末路？專利過期、還也還不完的巨額負債，超強 CEO 用 1 招殺出重圍！ - YouTube](https://www.youtube.com/watch?v=IxSo-vVPYB0)
-
-[樂高拌飯 - YouTube](https://www.youtube.com/channel/UCvEfQkFQHVUBQopiijXOUEQ)
 
 [乐高 篇一：让我告诉你在乐高中国总部搭建新品 10261 过山车是种什么体验*开箱晒物*什么值得买](https://post.smzdm.com/p/731665/?nozhiyou)
 [乐高 篇二：那个你心心念念的乐高中国总部 是不是该了解一下？*生活记录*什么值得买](https://post.smzdm.com/p/728862/)
@@ -30,14 +22,19 @@ tags:
 [樂高新手入門 100 個 Lego 知識(二)：知識百科篇 - 魯蛇實驗室](http://www.loserlab.tw/2016/05/lego-100-question-qa-2.html)
 
 [投資樂高　比股票黃金更有賺頭？｜財經時事｜投資理財｜ 2015-12-27 ｜即時｜天下雜誌](https://www.cw.com.tw/article/article.action?id=5073501)
+[The Economics of LEGO - YouTube](https://www.youtube.com/watch?v=zsHXFEOV83gs)
+[一盒樂高≈13把ak47？超越比特幣的硬通貨，被黑暗勢力操縱的自由女神，只有真正的兒童和罪犯會為其狂熱｜總裁聊聊 - YouTube](https://www.youtube.com/watch?v=-U6xSAreBsI)
+[全球最赚钱的玩具公司 - 乐高 - YouTube](https://www.youtube.com/watch?v=n7s5bWD4_mA)
 
-[The EVOLUTION of LEGO TECHNIC 1977-2018 - YouTube](https://www.youtube.com/watch?v=BtpsunOWopU)
-[Sariel visits LEGO: inside LEGO molding factory, LEGO vault & LEGO Ideas House - YouTube](https://www.youtube.com/watch?v=8xAxjzrKSs0)
+[Lego Bibimbap - YouTube](https://www.youtube.com/@JiMuBanFan) LEGO Master commentary
 [Bits N’ Bricks Podcast - YouTube](https://www.youtube.com/playlist?list=PLayhyO1epulTt6ZISzbVV-nTaKJSVKj93) podcast
 
 [LEGO Bricks In The Making - YouTube](https://www.youtube.com/watch?v=C3oiy9eekzk)
 [How It's Made: LEGO Sets - YouTube](https://www.youtube.com/watch?v=FsHeJXdJXOY)
 [How fan films shaped The Lego Movie - YouTube](https://www.youtube.com/watch?v=TVe5XPU10Zc)
+[The EVOLUTION of LEGO TECHNIC 1977-2018 - YouTube](https://www.youtube.com/watch?v=BtpsunOWopU)
+[How are LEGO Minifigures Made? | LEGO Factory Behind The Scenes - YouTube](https://www.youtube.com/watch?v=ChZotngQ3_8)
+[Sariel visits LEGO: inside LEGO molding factory, LEGO vault & LEGO Ideas House - YouTube](https://www.youtube.com/watch?v=8xAxjzrKSs0)
 
 [The Brick Bible – The Scriptures in LEGO from Genesis to Revelation](https://thebrickbible.com/)
 [Lego Abominations | Evil Mad Scientist Laboratories](https://www.evilmadscientist.com/2006/lego-abominations/)
@@ -47,18 +44,27 @@ tags:
 [LEGO® 樂高 網上商店 | HobbyDigi.com 電購網](https://www.hobbydigi.com/zh_hant_hk/lego)
 [我的 LEGO 篇五：我去香港逛 LEGO 打卡六家店，两手空空回\_\_什么值得买](https://post.smzdm.com/p/alpzgxwp/)
 
+## 国产积木
+
+[【中外玩具网披露塑料拼插积木发展历史】 - 中外玩具网](https://news.ctoy.com.cn/show-31866.html)
+[拼奇、维思等国潮积木：逆袭乐高，不忘内卷-36氪](https://36kr.com/p/1846915528782211)
+[史上最全乐高玩具大梳理！1 篇文章搞懂乐高玩具！|乐高|颗粒|德宝\_新浪网](http://k.sina.com.cn/article_6425065479_17ef6b80700100aaj1.html)
+[国产积木崛起🔥国产积木25个宝藏品牌安利❗️全网最全最新最专业\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1iT411h7UM)
+[国产积木YYDS，16个宝藏品牌安利，全网最全最专业，平替乐高，学生必看\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1eh4y1A7gT)
+
 ## Stop motion
 
-[Beyond the Brick - YouTube](https://www.youtube.com/@BeyondtheBrick)
+[Beyond the Brick - YouTube](https://www.youtube.com/@BeyondtheBrick) military, World War II in LEGO
 [All New Bricks - YouTube](https://www.youtube.com/@allnewbricks)
 [MaxTime TV - YouTube](https://www.youtube.com/@maxtimetv)
 [raptor5120 - YouTube](https://www.youtube.com/@raptor5120) CGI that looks like stop motion
 [BrickBrosProductions - YouTube](https://www.youtube.com/@brickbrosproductions) LEGO in real life
-[JD Brick Productions - YouTube](https://www.youtube.com/@JDBrickProductions) famous battles
+[JD Brick Productions - YouTube](https://www.youtube.com/@JDBrickProductions) military, famous battles
+[Brictator - YouTube](https://www.youtube.com/@brictator) military
 [Brickology - YouTube](https://www.youtube.com/@Brickology)
 [Fancy Pants - YouTube](https://www.youtube.com/@xxxfancypantsxxx) Star Wars
 [Bricks Brought to Life - YouTube](https://www.youtube.com/@bblanimation)
-[LCM brick show - YouTube](https://www.youtube.com/@LCMhistory) history
+[LCM brick show - YouTube](https://www.youtube.com/@LCMhistory) history, military, famous battles
 [TOPELE Filmstúdió - YouTube](https://www.youtube.com/@topelefilmstudio) good FX
 [Brick Rising - YouTube](https://www.youtube.com/@brickrising8768)
 [forrestfire101 - YouTube](https://www.youtube.com/@forrestfire101)
@@ -67,15 +73,13 @@ tags:
 [AkashLegoProductions - YouTube](https://www.youtube.com/@AkashLegoProductions) Marvel files
 [ForlornCreature - YouTube](https://www.youtube.com/@ForlornCreature) Minecraft
 [Keshen8 - YouTube](https://www.youtube.com/@Keshen8)
-mobdeli <https://www.youtube.com/user/mobdeli>
-Aaron Legg <https://www.youtube.com/user/LemonPuffs1>
-HarryandBillyBrick <https://www.youtube.com/user/HarryAnd>
-BrickDictator <https://www.youtube.com/user/cashlego>
-Jampot <https://www.youtube.com/user/JampotAn>
-AKPstudios <https://www.youtube.com/user/AKPstudios>
-eananimation <https://www.youtube.com/user/eanimation>
-BrotherhoodWorkshop <https://www.youtube.com/user/Brotherh>
-HamsterProductions <https://www.youtube.com/user/frankfre>
+[mobdeli - YouTube](https://www.youtube.com/@mobdeli)
+[Legg Animations - YouTube](https://www.youtube.com/@LeggAnimations) Star Wars
+[HarryAndBillyBrick - YouTube](https://www.youtube.com/@HarryAndBillyBrick)
+[Jam Pot Studios - YouTube](https://www.youtube.com/@JamPotStudios)
+[AKPstudios - YouTube](https://www.youtube.com/@AKPstudios)
+[BrotherhoodWorkshop - YouTube](https://www.youtube.com/@BrotherhoodWorkshop)
+[Hamster Productions - YouTube](https://www.youtube.com/@hamsterproductionsofficial)
 
 [Bricks in Motion](https://blog.bricksinmotion.com/)
 [The Brickfilmers Guild - Home](https://www.brickfilmersguild.com/)
@@ -92,8 +96,11 @@ HamsterProductions <https://www.youtube.com/user/frankfre>
 ## Database
 
 [Building Instructions - service LEGO.com](https://www.lego.com/en-us/service/buildinginstructions)
+[LEGO® Builder - Apps on Google Play](https://play.google.com/store/apps/details?id=com.lego.legobuildinginstructions)
 
-[Search our LEGO Instructions database at BrickInstructions.com](http://lego.brickinstructions.com/en/search/general/new)
+[LEGO Instructions, Free LEGO instructions Database, LEGO assembly instructions](https://lego.brickinstructions.com/)
+[Old LEGO Instructions - Let's Build It Again](https://letsbuilditagain.com/index.php)
+
 [Brickset home page | Brickset: LEGO set guide and database](https://brickset.com/)
 [The LEGO Database by The Brick Show](http://brickshow.com/lego.asp)
 
@@ -101,8 +108,6 @@ HamsterProductions <https://www.youtube.com/user/frankfre>
 [Download](https://rebrickable.com/downloads/) [API](https://rebrickable.com/api/)
 
 [Brick4.com - 最实用的国产积木索引表](http://brick4.com/)
-
-[所有商品-乐高京东自营官方旗舰店](https://mall.jd.com/view_search-396203-0-99-1-24-1.html)
 
 ## Reviews
 
@@ -132,7 +137,7 @@ HamsterProductions <https://www.youtube.com/user/frankfre>
 [The Unofficial LEGO Technic Builder’s Guide | JK Brickworks](https://jkbrickworks.com/unofficial-technic-builders-guide/)
 [The Unofficial LEGO Technic Builder's Guide 2nd Edition-淘宝网](https://item.taobao.com/item.htm?id=574165201700)
 
-# Games
+## Games
 
 LEGO City Undercover was meant to be the first LEGO game with voice acting.
 It was conceiving since 2010 and release in 2014 on Wii U.
@@ -140,7 +145,7 @@ This relationship with Nintendo leads to the LEGO Mario AR series.
 (LEGO Batman 2 in 2012 is the first LEGO game release with voice acting.)
 
 [LEGO Gaming - YouTube](https://www.youtube.com/@LEGOGaming)
-[List of Lego video games - Wikiwand](https://omni.wikiwand.com/en/List_of_Lego_video_games)
+[List of Lego video games - Wikiwand](https://www.wikiwand.com/en/List_of_Lego_video_games)
 [Every Lego Game That Has An Open World, Ranked](https://www.thegamer.com/lego-open-world-ranked/)
 [LEGO Games: The Playlist - an IGN Playlist by Playlist Team - IGN](https://www.ign.com/playlist/igneditorial/lists/lego-games-the-complete-playlist)
 
@@ -199,13 +204,25 @@ MOC = My Own Creation
 [[KEY TOPIC] Official Lego sets made in LDraw - Digital LEGO: Tools, Techniques, and Projects - Eurobricks Forums](https://www.eurobricks.com/forum/index.php?/forums/topic/48285-key-topic-official-lego-sets-made-in-ldraw/) !important
 [[KEY TOPIC] Official LEGO Sets made in LDD - Digital LEGO: Tools, Techniques, and Projects - Eurobricks Forums](https://www.eurobricks.com/forum/index.php?/forums/topic/41226-key-topic-official-lego-sets-made-in-ldd/) !important
 
-[首页-DX 干燥设计 Design Xero-淘宝网](https://shop237482849.taobao.com/)
-[首页-MOC 图纸小店-淘宝网](https://shop126623282.taobao.com/)
 [首頁-MOC 磚友之家-淘寶網](https://shop261726840.world.taobao.com/)
 
 [Kos Brick - YouTube](https://www.youtube.com/@KosBrick) mini-scale, anime, military
 [Lego Transformer G1 Autobot Mini Vehicles - Part 1 (Tutorial) - YouTube](https://www.youtube.com/watch?v=zDQmDeT06fU)
 [Lego Transformer G1 Autobot Mini Vehicles - Part 2 (Tutorial) - YouTube](https://www.youtube.com/watch?v=0lDgCiYn3bI)
+[Lego Transformer Decepticon Megatron Mini Vehicles (Tutorial) - YouTube](https://www.youtube.com/watch?v=tONWBpqyan0)
+[Lego WW2 German Tank Mini Vehicles (Tutorial) - YouTube](https://www.youtube.com/watch?v=BqUhH9iaQZ0)
+[Lego WW2 USSR Soviet Tank Mini Vehicles (Tutorial) - YouTube](https://www.youtube.com/watch?v=RUoeuOaHdzc)
+[Lego WW2 United States Tank Mini Vehicles (Tutorial) - YouTube](https://www.youtube.com/watch?v=cpLHj8vsFr0)
+[Lego Churchill British WW2 Tank Mini Vehicles (Tutorial) - YouTube](https://www.youtube.com/watch?v=E3yFSF81uPc)
+[Lego Military Mini Vehicles Compilation 1 - Part 1-4 (Tutorial) - YouTube](https://www.youtube.com/watch?v=oa-R0ZH6X7c)
+[Lego Military Mini Vehicles - Part 6 (Tutorial) - YouTube](https://www.youtube.com/watch?v=Yeu-lDdINng)
+[Lego Military Mini Vehicles - Part 7 (Tutorial) - YouTube](https://www.youtube.com/watch?v=d648rHiREWE)
+[Lego Military Mini Vehicles - Part 8 (Tutorial) - YouTube](https://www.youtube.com/watch?v=rGPl58tBsOg)
+[Lego Military Mini Vehicles - Part 9 (Tutorial) - YouTube](https://www.youtube.com/watch?v=gcJdPpw4JpE)
+[Lego Military Mini Vehicles - Part 10 (Tutorial) - YouTube](https://www.youtube.com/watch?v=JN_bcGYid-g)
+[Lego WW2 Military Planes Mini Vehicles - Part 1 (Tutorial) - YouTube](https://www.youtube.com/watch?v=L7omq-NUUWc)
+[Lego WW2 Military Planes Mini Vehicles - Part 2 (Tutorial) - YouTube](https://www.youtube.com/watch?v=qoMArhwErrE)
+[Micro LEGO Military Vehicles | Comparison - YouTube](https://www.youtube.com/watch?v=7eZFAhQeX0g)
 
 [6 YouTube Channels to Help Master Your LEGO Design Skills – Review Geek](https://www.reviewgeek.com/41577/6-youtube-channels-to-help-master-your-lego-design-skills/)
 
@@ -439,7 +456,8 @@ Mini Millennium Falcon
 
 [Test: Custom 3D Printed LEGO-Compatible Elements - YouTube](https://www.youtube.com/watch?v=M78UMa2lMG8)
 
-Recommend to buy 正品 for gear parts
+Recommend to buy 正品 for gear parts, 双鹰 CaDA is also good
+精磚 is first tier, used by 哲高 since 2003
 
 [首页-乐高朋友之家-淘宝网](https://brickfriendshome.taobao.com/) 正品
 [首页-玩具新大陆-淘宝网](https://shop33124361.taobao.com/) 正品
@@ -453,64 +471,6 @@ Recommend to buy 正品 for gear parts
 [小颗粒科技零件-机智猫少儿创客机器人-淘宝网](https://shop150832632.taobao.com/category-1360548152.htm)
 
 ### PF Compatible Parts
-
-IR joystick remote 8885 36
-IR speed remote 8879
-IR receiver 8884 39
-2.4GHz joystick remote 25-36
-2.4GHz speed remote 45-59
-2.4GHz receiver 34.5-39
-双鹰 2.4GHz joystick remote 34.5
-双鹰 2.4GHz receiver 25
-
-M Motor 8883 25-29
-L Motor 88003 35-38
-XL Motor 8882 39-45-47
-Servo motor 88004 35-39-42
-LiPo battery 7.4v 1800mAH w/cable 65-72-80
-双鹰 2.4GHz LiPo battery 7.4v 800mAH w/remote 100
-AA battery box 8801 28-29
-
-37cm LEDx2 18
-46cm LEDx2 25
-50cm extension 25
-27cm switch 18
-
-[lego 乐高马达 9686 动力组 8883 电机电源 usb 供电线 gbc 火车木马摩天轮-淘宝网](https://item.taobao.com/item.htm?id=553124412878) USB 5V->5V, 5V->9V cable
-[lego 乐高马达供电线 9686 8883 电机 usb gbc 传送带旋转木马摩天轮-淘宝网](https://item.taobao.com/item.htm?id=562937767625) USB 5V->5V, 5V->9V cable
-
-[适用乐高 EV3/NXT 主控马达传感器连接线 乐高 lego 连接线 数据线-淘宝网](https://item.taobao.com/item.htm?id=554185937877)
-[乐高 wedo2.0 马达维修带线水晶头 8883/9686 马达维修带线卡头-淘宝网](https://item.taobao.com/item.htm?id=551031945053)
-
-[乐高 NXT/EV3 配件及扩展-BricksTech 板砖店-淘宝网](https://brickstech.world.taobao.com/category-1244341881.htm)
-
-NXT to PF cable
-[LEGO 乐高 EV3/ NXT 与 PF 电器兼容马达接口 转换线 格鲁夫推杆连接线-淘宝网](https://item.taobao.com/item.htm?id=537478885887)
-
-NXT to Dupont cable
-[micro:bit robotbit 乐高转杜邦数据 连接线用于乐高 LEGO EV3-淘宝网](https://item.taobao.com/item.htm?id=566177469415)
-
-NXT to Dupont socket
-[NXT 端口扩展板 IO 扩展板 可搭配乐高 LEGO NXT 和 LED 发光件 摇摇棒-淘宝网](https://item.taobao.com/item.htm?id=534497681696)
-
-[moc 零件遥控兼容乐高马达套件科技机械 PF 件电动电机配件拼装积木-淘宝网](https://item.taobao.com/item.htm?id=568830399078&ns=1&abbucket=12#detail)
-
-[兼容乐高 EV3 大马达 中马达 wedo2.0 马达 兼容乐高 PF 动力组 电池盒-淘宝网](https://item.taobao.com/item.htm?id=560296725915)
-
-[电动 PF 件-ALEX 积木补给站-淘宝网](https://shop57851572.taobao.com/category-516999353.htm?catName=%B5%E7%B6%AFPF%BC%FE) !important, 四代, 升級版
-[lepin 乐拼科技积木电动 PF 件 8881MXL 马达电机遥控接器锂电池-淘宝网](https://item.taobao.com/item.htm?id=571190893222) !important
-[乐拼科技机械马达电机组 PF 摇控器电池盒改装电动积木配件兼容乐高-淘宝网](https://item.taobao.com/item.htm?id=571625557345) !important
-[兼容 LEGO 乐高 M 电机 8883 伺服马达积木科技锂电池盒发射接收遥控器-淘宝网](https://item.taobao.com/item.htm?id=561367656256) expensive
-[乐博士 KJ021 科技系列 8293 动力马达组适用 42039 兼容 42042 兼容 42006-淘宝网](https://item.taobao.com/item.htm?id=531475795980)
-[国产积木兼容乐高 lego8882 科技系列 PF 电机 XL 马达伺服遥控接收电池-淘宝网](https://item.taobao.com/item.htm?id=556686583291)
-[乐拼科技 PF 摇控器接收器 MXL 马达伺服电机火车动力组积木锂电池盒-淘宝网](https://item.taobao.com/item.htm?id=573385000671) some items are more expensive
-[国产 ev3 科技 MOC 动力组改装 PF 配件 M 马达拼装积木 8883 电机锂电池-淘宝网](https://item.taobao.com/item.htm?id=572300851787)
-
-[双鹰 CaDA 国产 88003 88004 12787c01(6024100) 电机伺服回力马达-淘宝网](https://item.taobao.com/item.htm?id=568732832644) !important
-[双鹰 cada 科技系列 pf 伺服电机 L 马达锂电池遥控器 moc 机械组动力套装-tmall.com 天猫](https://detail.tmall.com/item.htm?id=568658680251)
-[双鹰 cada 科技系列 pf 伺服电机 L 马达锂电池遥控器 moc 机械组动力套装-淘宝网](https://item.taobao.com/item.htm?id=573036636563)
-[双鹰 CADA 电机马达组科技 PF 摇控器电池盒 XL 积木 8293 锂电盒-淘宝网](https://item.taobao.com/item.htm?id=563922388665)
-[咔嗒积木双鹰 PF 电动配件遥控电机马达兼容乐高乐拼 MOC 科技系列-淘宝网](https://item.taobao.com/item.htm?id=561431183568)
 
 ### DIY
 
@@ -565,6 +525,8 @@ NXT to Dupont socket
 [LEGO Engineering – Inspiration and support for LEGO-based engineering in the classroom](http://www.legoengineering.com/)
 [Top 10 MOST AMAZING LEGO Mini Engines Starting Up And Running [COOL] - YouTube](https://www.youtube.com/watch?v=dgP5ldlYItU)
 [10 MOST AMAZING Lego Machines - YouTube](https://www.youtube.com/watch?v=3_q8O8xQnlQ)
+[LEGO Simple Machines - YouTube](https://www.youtube.com/playlist?list=PLj_k_RHuTqaVBTvnFWKEpml4P_ZCp-BV9)
+
 [Build & Test Lego Engines: 1-cyl, opp-piston, S2, V2, F2, U2, W3, S4, H4, X4, radial-6 - YouTube](https://www.youtube.com/watch?v=p6-cB1AGPO8)
 [Build & Test Lego Engines: V8, U12, H16, X24, multirow-radial-42, S100 - YouTube](https://www.youtube.com/watch?v=bKKBBrQohLk)
 
@@ -613,7 +575,7 @@ TL;DR (non return to center steering):
 [LEGO Steampunk Walking Ship (Strandbeest) - YouTube](https://www.youtube.com/watch?v=b5E-VyQOfNM)
 
 [LEGO MOC-9119 EV3 Hexapod (Mindstorms > EV3 2016) | Rebrickable - Build with LEGO](https://rebrickable.com/mocs/MOC-9119/Artem%2016/ev3-hexapod/#bi)
-[Lego Quadruped Robot: 14 Steps](https://www.instructables.com/id/Lego-Quadruped-Robot/)
+[Lego Quadruped Robot: 14 Steps](https://www.instructables.com/Lego-Quadruped-Robot/)
 
 [Squid Man : LEGO BOOST - YouTube](https://www.youtube.com/watch?v=KDfCnaLN9m4)
 [Lego boost - 怪物 - YouTube](https://www.youtube.com/watch?v=plTV-ue7pWQ)
@@ -629,7 +591,7 @@ TL;DR (non return to center steering):
 [Sariel.pl » Diwheel](http://sariel.pl/2009/01/diwheel/)
 
 [LEGO MOC-2564 Compact Tracked Cube (RC) (Technic 2015) | Rebrickable - Build with LEGO](https://rebrickable.com/mocs/MOC-2564/martijnnab/compact-tracked-cube-rc/#comments)
-[2 Wheel RC Racer (with Pictures)](https://www.instructables.com/id/2-Wheel-RC-Racer/)
+[2 Wheel RC Racer (with Pictures)](https://www.instructables.com/2-Wheel-RC-Racer/)
 
 ### PF Modification/Motorize
 
@@ -655,6 +617,12 @@ TL;DR (non return to center steering):
 
 [LEGO Ideas - Home](https://ideas.lego.com/#all)
 
+[LEGO - 01 Basic Dimensions & Bricks Explained | GrabCAD Tutorials](https://grabcad.com/tutorials/lego-01-basic-dimensions-bricks-explained)
+[LEGO - 02 Building Bricks with Parameters | GrabCAD Tutorials](https://grabcad.com/tutorials/lego-02-building-bricks-with-parameters)
+[LEGO - 03 Using Data from LDraw | GrabCAD Tutorials](https://grabcad.com/tutorials/lego-03-using-data-from-ldraw)
+[LEGO - 04 Extracting Data from LEGO Digital Designer (LDD) | GrabCAD Tutorials](https://grabcad.com/tutorials/lego-04-extracting-data-from-lego-digital-designer-ldd)
+[Learn How to Model a Lego Brick in SOLIDWORKS & Render in Keyshot | GrabCAD Tutorials](https://grabcad.com/tutorials/learn-how-to-model-a-lego-brick-in-solidworks-render-in-keyshot)
+
 [Bits N’ Bricks Season 5 Episode 47: The Rise of BrickLink - YouTube](https://www.youtube.com/watch?v=gNkck_-_rEg) deprecation of LDD
 
 [Best Free Lego Building Software | Gizmo's Freeware](http://www.techsupportalert.com/content/best-free-lego-building-program.htm)
@@ -675,8 +643,12 @@ TL;DR (non return to center steering):
 
 [Studio Download [BrickLink]](https://www.bricklink.com/v3/studio/download.page) stud.io, built on LDraw
 [BrickLink - Studio](https://www.bricklink.com/v2/build/studio.page) v2 has instructions maker
+[Getting Started – Studio Help Center](https://studiohelp.bricklink.com/hc/en-us/categories/5404814688023-Getting-Started)
 [An Introduction to Bricklink Studio - YouTube](https://www.youtube.com/watch?v=j-_wOwXxLhc) 2017-07
+[Introduction to Studio – Studio Help Center](https://studiohelp.bricklink.com/hc/en-us/articles/5404381697559-Introduction-to-Studio)
+[LEGO Digital Building Tutorials in Bricklink Studio - YouTube](https://www.youtube.com/playlist?list=PLJLUP5dbMVzwfEPjK_4WIas_hiW9xIbCi)
 [Studio Tutorials - YouTube](https://www.youtube.com/playlist?list=PLaEL-gouFOoHg5Okoua-cIGxjyrPOOUql) Playwell Bricks, 2020+
+You cannot add rubber bands or cables in BrickLink Studio. If you want to do that use LDraw tools: LDCad for building the model and LPub3D for creating instructions
 
 [LDCad](http://www.melkert.net/LDCad)
 [Getting Started with LDCAD - A Better Alternative to LDD - YouTube](https://www.youtube.com/watch?v=g2TbID9jNfs)
@@ -803,18 +775,18 @@ Use 1x2 Thin arms to get adjustable angles
 [Lego compatible motor mount for 28BYJ-48 Stepper Motor by markbenson - Thingiverse](https://www.thingiverse.com/thing:151616)
 
 [Servo SG90 mount for Lego by ivanpost - Thingiverse](https://www.thingiverse.com/thing:2780938) !important
-[Servo-motor Adapted to Lego: 4 Steps (with Pictures)](https://www.instructables.com/id/Servo-motor-Adapted-to-Lego/)
-[Servo-motor Converted to Motor (with Speed & Direction Control): 4 Steps (with Pictures)](https://www.instructables.com/id/Servo-motor-Converted-to-Motor-with-Speed-Directio/)
+[Servo-motor Adapted to Lego: 4 Steps (with Pictures)](https://www.instructables.com/Servo-motor-Adapted-to-Lego/)
+[Servo-motor Converted to Motor (with Speed & Direction Control): 4 Steps (with Pictures)](https://www.instructables.com/Servo-motor-Converted-to-Motor-with-Speed-Directio/)
 
-[Lego PIR Housing: 19 Steps (with Pictures)](https://www.instructables.com/id/Lego-PIR-Housing/)
+[Lego PIR Housing: 19 Steps (with Pictures)](https://www.instructables.com/Lego-PIR-Housing/)
 [PIR Sensor Brick Mount by badBrick - Thingiverse](https://www.thingiverse.com/thing:52910)
 [Lego Robot Sensors (Ultrasonic, IR, Button) by MechEngineerMike - Thingiverse](https://www.thingiverse.com/thing:2415906) !important
 [Lego Ultrasonic SR04 & Camera mount by ivanpost - Thingiverse](https://www.thingiverse.com/thing:3063269)
 [HC-SR04 Ultrasonic sensor holder (LEGO compatible) by markster1998 - Thingiverse](https://www.thingiverse.com/thing:2486264)
 
-[Lego Torch/Flashlight.](https://www.instructables.com/id/Lego-Torch/)
-[Lego Wireless Mouse Receiver: 5 Steps](https://www.instructables.com/id/Lego-Wireless-Mouse-Receiver/)
-[Lego AA Battery Holder: 10 Steps](https://www.instructables.com/id/Lego-AA-Battery-Holder/)
+[Lego Torch/Flashlight.](https://www.instructables.com/Lego-Torch/)
+[Lego Wireless Mouse Receiver: 5 Steps](https://www.instructables.com/Lego-Wireless-Mouse-Receiver/)
+[Lego AA Battery Holder: 10 Steps](https://www.instructables.com/Lego-AA-Battery-Holder/)
 
 ### Robotics Parts
 
@@ -843,11 +815,9 @@ Batteries:
 
 ## Power Functions (PF) and the likes
 
-### LEGO
-
 IR receiver + 2 PF ports
 
-[Lego Technic - Wikiwand](https://omni.wikiwand.com/en/Lego_Technic)
+[Lego Technic - Wikiwand](https://www.wikiwand.com/en/Lego_Technic)
 
 [Products - Power functions LEGO.com](https://www.lego.com/en-us/powerfunctions/products)
 [Power Functions | LEGO Shop](https://shop.lego.com/en-US/Power-Functions)
@@ -868,16 +838,6 @@ Check [Philo's Home Page](http://www.philohome.com/) for technical info
 [LEGO Speed Comparison: Power Functions V1 / V2 / SBrick / BuWizz - YouTube](https://www.youtube.com/watch?v=MlB-MrOY_JY)
 
 [How the LEGO Technic RC system works - YouTube](https://www.youtube.com/watch?v=dQOJSqTF1cM) discontinued in 2003
-
-### Boost
-
-[LEGO Powered Up VS LEGO Power Functions: In-depth Test & Comparison - YouTube](https://www.youtube.com/watch?v=bjcasrQeKqY) Power Functions 2.0, Bluetooth, Boost plug
-[NEW LEGO Powered Up motor VS LEGO Power Functions motor - YouTube](https://www.youtube.com/watch?v=dt6ipWP2e4Y)
-
-[LEGO Wireless Protocol 3.0.00 documentation](https://lego.github.io/lego-ble-wireless-protocol-docs/)
-
-[Hack Lego Boost with Raspberry Pi - The MagPi MagazineThe MagPi Magazine](https://www.raspberrypi.org/magpi/hack-lego-boost-with-raspberry-pi/)
-[JorgePe/BOOSTreveng: Reverse engineering the LEGO BOOST Hub](https://github.com/JorgePe/BOOSTreveng)
 
 ### Wiring and Signals
 
@@ -976,6 +936,8 @@ Arduino Pro Micro + TB6612FNG + HM-10 + WebBT
 
 ### 双鹰咔嗒
 
+> Buwizz clone
+
 V1: 2.4GHz receiver + 2 PF ports, external AA battery box
 V2: 2.4GHz receiver + LiPo battery + 4 PF compatible ports (BuWizz-like)
 Control with proprietary controller, sticks control port 3 and 4 (yellow and black), shoulder buttons control port 1 and 2 (read and blue)
@@ -985,78 +947,225 @@ Also have custom chassis with 2.4GHz receiver
 [国产 Buwizz？双鹰 C51027 遥控机器人 开箱评测*开箱晒物*什么值得买](https://post.smzdm.com/p/685838/)
 
 motors:
-[兼容乐高科技动力组电动马达 PF 电机 9686 教育 EV3 教具遥控器接收器-淘宝网](https://item.taobao.com/item.htm?id=581613535960)
+[双鹰 CaDA 国产 88003 88004 12787c01(6024100) 电机伺服回力马达-淘宝网](https://item.taobao.com/item.htm?id=568732832644) !important
 [双鹰 cada 科技系列 pf 伺服电机 L 马达锂电池遥控器 moc 机械组动力套装-tmall.com 天猫](https://detail.tmall.com/item.htm?id=568658680251)
-[咔嗒积木双鹰 PF 电动配件遥控电机马达兼容乐高乐拼 MOC 科技系列-淘宝网](https://item.taobao.com/item.htm?id=561431183568)
-[双鹰 cada 科技系列 pf 伺服电机 L 马达锂电池遥控器 moc 机械组动力套装-淘宝网](https://item.taobao.com/item.htm?id=573036636563)
-[双鹰咔嗒 L 电机马 M 达科技 PF 摇控器锂电池盒积木 8293 机械动力组-淘宝网](https://item.taobao.com/item.htm?id=563990953646)
-[双鹰 cada 科技系列 pf 伺服电机 L 马达锂电池遥控器 moc 机械组动力套装-淘宝网](https://item.taobao.com/item.htm?id=567610042096)
+[正版cada咔搭积木伺服马达动力电机锂电池动力套装pf改装升级配件-tmall.com天猫](https://detail.tmall.com/item.htm?id=568658680251&skuId=3808020314090)
 
-[双鹰咔嗒科技遥控军事导弹车 BM-21 火箭炮车-C61002 童拼插益智积木-淘宝网](https://item.taobao.com/item.htm?id=559104094878)
-[国产最强科技组！咔嗒积木 C61001M1A2 全遥控坦克评测【月光砖厂】\_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av14222236)
-[双鹰咔嗒科技拼插装搭积木早教遥控 2 种变化机器人儿童男孩子玩具-淘宝网](https://item.taobao.com/item.htm?id=567443701194)
+[双鹰cada东风41导弹车遥控发射车模型积木军事系列男孩拼装玩具-淘宝网](https://item.taobao.com/item.htm?id=836550391048&skuId=5596232485219) Bluetooth
+[遥控积木玩具拼装编程车越野礼物男孩儿童益智汽车跑车赛车双鹰咔-淘宝网](https://item.taobao.com/item.htm?id=684370477051&skuId=5062795714212) Bluetooth
+[国产最强科技组！咔嗒积木 C61001M1A2 全遥控坦克评测【月光砖厂】\_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av14222236) PF
+[双鹰C61001遥控坦克车M1A2大型可旋转炮塔发射导弹拼装积木玩具-淘宝网](https://item.taobao.com/item.htm?id=84803252879) PF
+[双鹰咔搭大型拼装积木遥控坦克车发射导弹益智玩具儿童节日礼物-tmall.com天猫](https://detail.tmall.com/item.htm?id=563412538774) PF
 
-### 乐拼
+### 宇星
 
-2.4GHz receiver + 2 PF compatible ports
+> Buwizz clone
+
+2.4GHz receiver + 4 PF compatible ports
 Li-Polymer battery box
 
-[乐拼 pf2777 电机马 中号 M 电机 科技系列 兼容乐高 MOC 积木 LEGO8883-淘宝网](https://item.taobao.com/item.htm?id=556503460174)
-[国产电机 PF-积木 MOC 改装商城-淘宝网](https://shop441387253.world.taobao.com/category-1335024960.htm?catName=%B9%FA%B2%FA%B5%E7%BB%FAPF)
-
-### 启辉
-
-Li-Polymer battery + 2.4GHz receiver + 6 micro USB ports
-L motors with short micro USB cable
-
-### Metas
-
-[积木机器人-咖咖创客官方店-淘宝网](https://kakachuangke.taobao.com/category-1307624654-1521901088.htm)
-
-### 图思迪/Tostudy
-
-IR receiver + 2 PF compatible ports
-More expensive parts
-
-[乐高 万格 图思迪 积木玩具？\_百度知道](https://zhidao.baidu.com/question/334640343.html) 贴牌货
-
-[首页-图思迪拼搭我的世界-淘宝网](https://le9o.taobao.com/shop/view_shop.htm?shop_id=60270364)
-
-[兼容乐高拼装积木 MOC 科技零件包 PF 配件电机马达红外线接收遥控器-淘宝网](https://item.taobao.com/item.htm?&id=563760865543&ns=1&abbucket=12#detail)
-[moc 零件遥控兼容乐高马达套件科技机械 PF 件电动电机配件拼装积木-淘宝网](https://item.taobao.com/item.htm?id=568830399078&ns=1&abbucket=12#detail)
-
-[电动科技零配件-乐高教育机器人俱乐部-淘宝网](https://shop194011402.world.taobao.com/category-1278776515.htm) motor, 液压推杆!
-
-### 升得利/SDL
-
-2.4GHz receiver + 2 ports, not PF compatible
-custom chassis and steering part
-
-[升得利/SDL](https://sdltoys.taobao.com/)
+[宇星PF黑爆电机马达MOC改装锂电池盒积木配件6通道适用乐高buwizz-淘宝网](https://item.taobao.com/item.htm?id=616507969954&skuId=4821120155430)
 
 ### LEGO compatible motor
 
-[可编程积木舵机 micro:bit 伺服电机 microbit 编程 DIY 微型防堵转 9G-淘宝网](https://item.taobao.com/item.htm?id=589793543733) Yahboom
-[micro:bit Robotbit LEGO 兼容乐高 伺服电机 舵机 makecode 编程-淘宝网](https://item.taobao.com/item.htm?id=572085241353) Kittenbot
-[micro:bit 兼容乐高 Robotbit360 舵机角度脉冲模式 makecode 编程 LEGO-淘宝网](https://item.taobao.com/item.htm?id=591715190337) Kittenbot
-
 [国产电机 兼容乐高 8883 马达 9686 马达 电机电池盒 可充电 传感器-淘宝网](https://item.taobao.com/item.htm?id=559891920923)
+[可编程积木舵机伺服电机兼容科技积木小车适用于Arduino/microbit-淘宝网](https://item.taobao.com/item.htm?id=802508916789)
 
+Yaboom
+[积木舵机](https://www.yahboom.com/study_module/servo_block)
+[亚博智能 积木舵机microbit可编程伺服电机DIY小车微型十字输出轴-tmall.com天猫](https://detail.tmall.com/item.htm?id=608855102227)
 [Yahboom programmable building block servo/motor – yahboom](https://category.yahboom.net/collections/a-motor-motor-drive/products/building-block-servo-motor)
 [Motor Block](https://www.yahboom.com/study_module/motor_block) `lxnp`
 [Building_block_motor](http://www.yahboom.net/study/motor_block)
 [Servo Block](https://www.yahboom.com/study_module/servo_block) `gy0l`
 [Building_block_servo](http://www.yahboom.net/study/servo_block)
 
-[micro:bit 能量魔块电池盒 Armourbit 电源模块 兼容乐高 小喵科技-淘宝网](https://item.taobao.com/item.htm?id=592750620909) Kittenbot
+Kittenbot
+[micro:bit Robotbit LEGO 兼容乐高 伺服电机 舵机 makecode 编程-淘宝网](https://item.taobao.com/item.htm?id=572085241353) [micro:bit 能量魔块电池盒 Armourbit 电源模块 兼容乐高 小喵科技-淘宝网](https://item.taobao.com/item.htm?id=592750620909)
+[micro:bit兼容乐高脉宽robotbit 控制方式正反转电机makecode编程-淘宝网](https://item.taobao.com/item.htm?id=591715190337)
 
 [Bluetooth Upgrade Kit | Tenka Inc.](https://circuitcubes.com/collections/kits/products/bluetooth-upgrade-kit)
 
-### Other
+IR joystick remote 8885 36
+IR speed remote 8879
+IR receiver 8884 39
+2.4GHz joystick remote 25-36
+2.4GHz speed remote 45-59
+2.4GHz receiver 34.5-39
+双鹰 2.4GHz joystick remote 34.5
+双鹰 2.4GHz receiver 25
 
-[BlueSmartControl - automate your remote LEGO® creations by Andreas Pockberger — Kickstarter](https://www.kickstarter.com/projects/1628872772/bluesmartcontrol-remote-lego-or-fischertechnik-cre) cannot fund
+M Motor 8883 25-29
+L Motor 88003 35-38
+XL Motor 8882 39-45-47
+Servo motor 88004 35-39-42
+LiPo battery 7.4v 1800mAH w/cable 65-72-80
+双鹰 2.4GHz LiPo battery 7.4v 800mAH w/remote 100
+AA battery box 8801 28-29
 
-[Fx Bricks](https://fxbricks.com/)
+37cm LEDx2 18
+46cm LEDx2 25
+50cm extension 25
+27cm switch 18
+
+[乐拼科技机械马达电机组 PF 摇控器电池盒改装电动积木配件兼容乐高-淘宝网](https://item.taobao.com/item.htm?id=571625557345) !important
+[国产 ev3 科技 MOC 动力组改装 PF 配件 M 马达拼装积木 8883 电机锂电池-淘宝网](https://item.taobao.com/item.htm?id=572300851787)
+[可编程积木舵机microbit伺服电机DIY小车微型十字输出轴兼容乐高-淘宝网](https://item.taobao.com/item.htm?id=715120853453)
+[齐护180 270 360度兼容乐高大扭力积木舵机数字金属齿轮Mixly编程-淘宝网](https://item.taobao.com/item.htm?id=607216357889)
+
+[lego 乐高马达 9686 动力组 8883 电机电源 usb 供电线 gbc 火车木马摩天轮-淘宝网](https://item.taobao.com/item.htm?id=553124412878) USB 5V->5V, 5V->9V cable
+[lego 乐高马达供电线 9686 8883 电机 usb gbc 传送带旋转木马摩天轮-淘宝网](https://item.taobao.com/item.htm?id=562937767625) USB 5V->5V, 5V->9V cable
+
+## Programming
+
+> see [[micro-bit#Extension boards]]
+
+[恩孚科技 Elecfreaks](https://www.elecfreaks.com/learn-cn/) Micro:bit
+[途道科技](http://cn.td-robot.com/) [app](https://a.app.qq.com/o/simple.jsp?pkgname=com.tudao.RobotMake&fromcase=40002)
+[Whalesbot](https://www.whalesbot.com/) [app](https://play.google.com/store/apps/details?id=com.whalesbot.games)
+
+### Bluetooth Wireless Protocol
+
+> used by NXT EV3, Boost, SPIKE hub
+
+[LEGO/lego-ble-wireless-protocol-docs: This repository contains information about LEGO Hubs (name, battery level, etc.) and to interact with any sensors and motors connected to it.](https://github.com/LEGO/lego-ble-wireless-protocol-docs)
+[LEGO Wireless Protocol 3.0.00 documentation](https://lego.github.io/lego-ble-wireless-protocol-docs/)
+
+[Hack Lego Boost with Raspberry Pi — The MagPi magazine](https://magpi.raspberrypi.com/articles/hack-lego-boost-with-raspberry-pi)
+[undera/pylgbst: Python library for LEGO® PoweredUp devices](https://github.com/undera/pylgbst/)
+[Andrey Pokhilko - YouTube](https://www.youtube.com/@andreypokhilko9778)
+
+[JorgePe/BOOSTreveng: Reverse engineering the LEGO BOOST Hub](https://github.com/JorgePe/BOOSTreveng)
+
+### Boost
+
+[BOOST Creative Toolbox 17101 | BOOST | Buy online at the Official LEGO® Shop US](https://www.lego.com/en-us/product/boost-creative-toolbox-17101)
+[LEGO® Boost - Apps on Google Play](https://play.google.com/store/apps/details?id=com.lego.boost.boost)
+[Review of kit Lego BOOST 17101 - Roboinstruction.com](https://roboinstruction.com/review-of-kit-lego-boost-17101/)
+
+[Hub 88009 | Powered UP | Buy online at the Official LEGO® Shop LT](https://www.lego.com/en-lt/product/hub-88009)
+[Move Hub 88006 | Powered UP | Buy online at the Official LEGO® Shop LT](https://www.lego.com/en-lt/product/move-hub-88006)\
+
+[LEGO Powered Up VS LEGO Power Functions: In-depth Test & Comparison - YouTube](https://www.youtube.com/watch?v=bjcasrQeKqY) Power Functions 2.0, Bluetooth, Boost plug
+[NEW LEGO Powered Up motor VS LEGO Power Functions motor - YouTube](https://www.youtube.com/watch?v=dt6ipWP2e4Y)
+
+### WeDo 2.0
+
+[LEGO® Education WeDo 2.0 Core Set 45300 | LEGO® Education | Buy online at the Official LEGO® Shop HU](https://www.lego.com/en-hu/product/lego-education-wedo-2-0-core-set-45300)
+[LEGO 45300 WeDo 2.0 Core Set | Brickset](https://brickset.com/sets/45300-1/WeDo-2-0-Core-Set)
+[WeDo 2.0 Support | Teacher Guides | LEGO® Education](https://education.lego.com/en-us/product-resources/wedo-2/teacher-resources/teacher-guides/)
+[STEM & STEAM Lesson Plans & Activities | LEGO® Education](https://education.lego.com/en-us/lessons/?products=WeDo+2.0+Core+Set)
+[WeDo 2.0 Support | Building Instructions | LEGO® Education](https://education.lego.com/en-us/product-resources/wedo-2/downloads/building-instructions/)
+
+[Full review of kit Lego Wedo 2.0 - Roboinstruction.com](https://roboinstruction.com/full-review-of-kit-lego-wedo-2-0/)
+
+[Getting Started with WeDo 2.0 - YouTube](https://www.youtube.com/playlist?list=PLXNn7QnqlNpi4FxGDuQySokXqc9_a5zy9) LEGO Education
+[Lego WeDo 2.0 - YouTube](https://www.youtube.com/playlist?list=PLYs6_8f4qITUJoDRwutgnADd6ZLEXmx1i) Build with Don
+[LEGO WeDo 2.0 - YouTube](https://www.youtube.com/playlist?list=PLj_k_RHuTqaXat5pjI8b43IBZ4w-5DNh3) Creator Academy Australia
+[Periodic Pandas - YouTube](https://www.youtube.com/@periodicpandas3803)
+[LEGO WeDo 2.0 Programming Tutorials - YouTube](https://www.youtube.com/playlist?list=PLJ9p4vPU79w5KQYVdyJYtsbX3lPDtRGtJ) W.A.F.F.L.E.S. Community Robotics
+
+[WeDo 2 0 Interface - YouTube](https://www.youtube.com/watch?v=JQ6loTuY03Q)
+[Programming WeDo 2 0 - YouTube](https://www.youtube.com/watch?v=UGVYhNX3Oj8)
+
+[WEDO2.0马达传感器维修线 WEDO2.0 抗拉线-淘宝网](https://item.taobao.com/item.htm?id=708364349477)
+[兼容乐高SPiKE水晶头线wedo2.0马达连接线传感器线维修线延长线-淘宝网](https://item.taobao.com/item.htm?id=830534597914)
+[乐高 wedo2.0 马达维修带线水晶头 8883/9686 马达维修带线卡头-淘宝网](https://item.taobao.com/item.htm?id=551031945053)
+[wedo2.0马达传感器数据线水晶头公母延长线兼容乐高配件连接线-淘宝网](https://item.taobao.com/item.htm?id=815597659028)
+
+#### MOC
+
+[Вы искали wedo 2.0 - Roboinstruction.com](https://roboinstruction.com/?s=wedo+2.0)
+[Roboinstruction Wedo 2.0 - YouTube](https://www.youtube.com/@roboinstruction4579/search?query=Wedo%202.0) ❗!important
+
+[Инструкции для Lego WeDo 2.0](https://www.mbrc.ch/) from many sources
+
+MOC (many from Roboinstruction.com)
+[WeDo 2.0 Lessons | Robots Got Talents](https://www.robotsgottalents.com/wedoactivities)
+[LEGO Masters - YouTube](https://www.youtube.com/@legomasters6044/)
+[LEGO BUILDING INSTRUCTIONS - YouTube](https://www.youtube.com/playlist?list=PLbDsR4Y-aumcmLx0jaU6Sien_0Zy_1LJe)
+[WEDO MODELS - YouTube](https://www.youtube.com/playlist?list=PLngbFWEqsyRSV7GVGB-QptBueR6gGHKqs) with [apps](https://play.google.com/store/apps/dev?id=5387209274607723259)
+[Lego Wedo 2.0 - YouTube](https://www.youtube.com/playlist?list=PLT65Pw1H4nyLUYnHlh41ZXkV-lKYrDEor)
+[lego education Wedo 2 0 instructions + code - YouTube](https://www.youtube.com/playlist?list=PLSEA1ZLX1qyRaT7rpRupFJP_R-B1NCIOM)
+[Lego WeDo 2.0 Proyectos (PROJECTS) ⚙️ EdComb - YouTube](https://www.youtube.com/playlist?list=PLVjNrRnppjAB3KjvR9SiR6jt83LaEWNxS)
+[LEGO WeDo 2.0 Building Instructions - YouTube](https://www.youtube.com/playlist?list=PLKiEfyjhkhxf5wKzMaKNaCryi0qizX_mk) Coders Studio
+[Lego Wedo 2.0 projects - YouTube](https://www.youtube.com/playlist?list=PL3Zv6trxH0yCL7ltppzNRr_FnfnTLCRf8) ego & STEM education
+
+### Mindstorm
+
+[LEGO Mindstorms - YouTube](https://www.youtube.com/playlist?list=PLRNbTEZ7dhL0RylOhnRxZ_lA1GWOD7HHb)
+[Downloads | Mindstorms | Official LEGO® HK](https://www.lego.com/en-hk/themes/mindstorms/downloads)
+
+[LEGO® MINDSTORMS® Education EV3 - Blocks / Javascript editor](https://makecode.mindstorms.com/)
+
+[Large Hub 88016 | Powered UP | Buy online at the Official LEGO® Shop LT](https://www.lego.com/en-lt/product/large-hub-88016)
+[Hub Documentation — hub-api documentation](https://lego.github.io/MINDSTORMS-Robot-Inventor-hub-API/)
+
+[MINDSTORMS EV3 Lesson | Robots Got Talnets](https://www.robotsgottalents.com/mindstormsev3-zone)
+
+[LEGO Mindstorms EV3 - YouTube](https://www.youtube.com/playlist?list=PLj_k_RHuTqaV14S7djz6f1qJX_SkQcyrc) Creator Academy Australia
+
+Mindstorm compatible
+[乐博士少儿竞赛配件编程机器人大赛数智物流友好地球遥控器马达-淘宝网](https://item.taobao.com/item.htm?id=818404663776)
+[乐博士机器人大赛 数智物流友好地球电子器材配件遥控器马达红外-淘宝网](https://item.taobao.com/item.htm?id=809155286893)
+
+[适用乐高 EV3/NXT 主控马达传感器连接线 乐高 lego 连接线 数据线-淘宝网](https://item.taobao.com/item.htm?id=554185937877)
+[乐高 NXT/EV3 配件及扩展-BricksTech 板砖店-淘宝网](https://brickstech.world.taobao.com/category-1244341881.htm)
+
+NXT to PF cable
+[LEGO 乐高 EV3/ NXT 与 PF 电器兼容马达接口 转换线 格鲁夫推杆连接线-淘宝网](https://item.taobao.com/item.htm?id=537478885887)
+
+NXT to Dupont cable
+[micro:bit robotbit 乐高转杜邦数据 连接线用于乐高 LEGO EV3-淘宝网](https://item.taobao.com/item.htm?id=566177469415)
+
+### SPIKE Essential
+
+> using PF2 connectors
+
+[LEGO® Education SPIKE™ Essential Set 45345 | LEGO® Education | Buy online at the Official LEGO® Shop US](https://www.lego.com/en-us/product/lego-education-spike-essential-set-45345)
+[SPIKE™ Essential - STEAM Set - Grades K - 5 | LEGO® Education](https://education.lego.com/en-us/products/lego-education-spike-essential-set/45345/)
+[SPIKE™ Essential Tutorial | LEGO® Education](https://education.lego.com/en-us/start/spike-essential/)
+
+[Review of Lego SPIKE Essential 45345 - Roboinstruction.com](https://roboinstruction.com/review-of-lego-spike-essential-45345/)
+
+[Spike Essential Lessons | Robots Got Talents](https://www.robotsgottalents.com/spike-essential-zone)
+[Вы искали SPIKE Essential - Roboinstruction.com](https://roboinstruction.com/?s=SPIKE+Essential)
+
+[SPIKE Essential - YouTube](https://www.youtube.com/playlist?list=PLj_k_RHuTqaUwSDEmgTZL7posbDcYuhtf) Creator Academy Australia
+
+MOC
+[Lego education Spike Essential Projects - YouTube](https://www.youtube.com/playlist?list=PLSEA1ZLX1qyTqF5Bb0TYGt3xErEjm9DIe)
+
+### SPIKE Prime
+
+> using PF2 connectors
+
+[LEGO® Education SPIKE™ Prime Set 45678 | LEGO® Education | Buy online at the Official LEGO® Shop US](https://www.lego.com/en-us/product/lego-education-spike-prime-set-45678)
+[SPIKE™ Prime – STEAM Set - Grades 6 - 8 | LEGO® Education](https://education.lego.com/en-us/products/lego-education-spike-prime-set/45678/)
+[SPIKE™ Prime - Get Started | LEGO® Education](https://education.lego.com/en-us/start/spike-prime/)
+
+[Welcome — SPIKE™ Prime protocol 1.0 documentation](https://lego.github.io/spike-prime-docs/)
+[LEGO/spike-prime-docs: Reference documentation for the LEGO® Education SPIKE™ Prime communication protocol.](https://github.com/LEGO/spike-prime-docs)
+
+[Review of Lego SPIKE Prime 45678 - Roboinstruction.com](https://roboinstruction.com/review-of-lego-spike-prime-45678/)
+
+[Spike Prime Lessons | Robots Got Talents](https://www.robotsgottalents.com/spike-zone)
+
+LEGO Education
+[Getting Started with LEGO Education SPIKE Prime - YouTube](https://www.youtube.com/playlist?list=PLXNn7QnqlNpgSG-5bJKTXAdJLUe_9Ljog)
+[LEGO Education SPIKE Prime Lessons - YouTube](https://www.youtube.com/playlist?list=PLXNn7QnqlNpie_QehRAMqCBfxV97RFcs3)
+[Hannah's Rebuild the World Playlist - YouTube](https://www.youtube.com/playlist?list=PLXNn7QnqlNpicJKUqbTnsXNUhpLjjq_fz)
+[LEGO Education SPIKE Prime Activity Inspiration - YouTube](https://www.youtube.com/playlist?list=PLXNn7QnqlNpiXGy4uTcpGnyh9k0xiy-2W)
+
+Creator Academy Australia
+[LEGO Mindstorms/SPIKE Prime - YouTube](https://www.youtube.com/playlist?list=PLj_k_RHuTqaUsl7AlR-iYRP4cMYsZBb3C)
+[中文版STEM教育視頻 - YouTube](https://www.youtube.com/playlist?list=PLj_k_RHuTqaV0_5r9j3hWQq5m9VGJgPbJ)
+[Python Tutorials for SPIKE Prime - YouTube](https://www.youtube.com/playlist?list=PLj_k_RHuTqaUlBoR-8AemA2PeXgZLVBZG)
+
+[Roboinstruction SPIKE Prime - YouTube](https://www.youtube.com/@roboinstruction4579/search?query=SPIKE%20Prime)
+
+MOC
+[Lego Education Spike Prime - YouTube](https://www.youtube.com/playlist?list=PLSEA1ZLX1qyTmL7uvg-q_VdH8ka14t8pr)
 
 ## 國產
 
@@ -1183,6 +1292,22 @@ LEGO 8423 (Bela 10008) World Grand Prix Racing Rivalry (McQueen and Francesco) �
 [兼容乐高星球大战黑武士维达暴风白兵原力手办模型拼装积木玩具-淘宝网](https://item.taobao.com/item.htm?id=545762425174)
 Darth Vadar (old) ¥25.8@2022-08
 General Grievous ¥39@2022-08
+
+### Owned Millitary
+
+1号双色二战武器片 ￥3
+5号双色二战武器片 ￥3
+德军三轮摩托车 ￥3.9
+四管高射炮 ￥4.7
+88MM反坦克炮 115pcs ￥11.99
+德军：二号C型炮兵观察坦克 685pcs ￥40
+德军：山猫坦克 503pcs ￥40
+希金斯登陆艇0855 182pcs ￥20.79
+虎豹兄弟组合[袋装] 503/472pcs ￥46.10
+虎式坦克-H型+10人仔 1361pcs ￥108
+KV1坦克 461pcs ￥27.16
+T34/76中型坦克 [袋装] 415pcs ￥19.11
+丘吉尔MK.I步兵坦克 1031pcs ￥88
 
 ## Wishlist
 

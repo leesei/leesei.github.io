@@ -2,7 +2,7 @@
 title: Web Development
 description: ""
 created: 2015-11-19
-updated: 2024-10-03
+updated: 2025-01-09
 tags:
   - css
   - javascript
@@ -208,6 +208,7 @@ If the site is rendered ahead of time at build, it is known as "Static Site Gene
 
 [[reactjs#Server Side Rendering/Hydration]]
 [[nextjs]]
+[[tanstack-start]]
 [[nuxtjs]]
 [[svelte#SvelteKit]]
 
@@ -743,6 +744,8 @@ convert -resize x60  input.png apple-touch-icon-60x60.png
 
 [The Truth About HTMX - YouTube](https://www.youtube.com/watch?v=NA5Fcgs_viU)
 [The Truth About HTMX | Prime Reacts - YouTube](https://www.youtube.com/watch?v=2hMrk7A8Wf0)
+[A modest critique of Htmx](https://chrisdone.com/posts/htmx-critique/)
+[Maybe HTMX Is Bad... - YouTube](https://www.youtube.com/watch?v=9AtijVV11SA)
 
 ThPrimeTime
 [From React To HTMX - YouTube](https://www.youtube.com/watch?v=wIzwyyHolRs)
@@ -1056,6 +1059,8 @@ Forward?
 [Building UI Components With SVG and CSS - Ahmad Shadeed](https://ishadeed.com/article/building-components-svg-css/)
 
 [OTP Screen UI using HTML, CSS & JS - YouTube](https://www.youtube.com/watch?v=ZVV2UM4hzIE)
+
+[Coding2GO - YouTube](https://www.youtube.com/@coding2go)
 
 [Learn CSS Scroll Snap In 6 Minutes - YouTube](https://www.youtube.com/watch?v=ytl6TrroGis)
 

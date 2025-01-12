@@ -2,7 +2,7 @@
 title: Cinnamon setup
 description: ""
 created: 2015-05-04
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - desktop
   - linux
@@ -257,6 +257,8 @@ dconf dump /org/cinnamon/desktop/keybindings/wm/
 - "Home folder": <kbd>Super</kbd>+<kbd>E</kbd>
 
 ## Nemo
+
+[linuxmint/nemo-extensions: A set of extensions for Nemo](https://github.com/linuxmint/nemo-extensions/tree/master)
 
 ### "Views"
 

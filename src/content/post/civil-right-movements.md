@@ -2,7 +2,7 @@
 title: Civil Right Movements
 description: ""
 created: 2016-09-06
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - law
   - politics
@@ -22,19 +22,19 @@ tags:
 
 ## Magnitsky Act
 
-[Magnitsky Act - Wikiwand](https://omni.wikiwand.com/en/Magnitsky_Act)
+[Magnitsky Act - Wikiwand](https://www.wikiwand.com/en/Magnitsky_Act)
 [The Magnitsky Law Is Taking Over The European Union](https://www.forbes.com/sites/ewelinaochab/2018/12/10/the-magnitsky-law-is-taking-over-the-european-union/#319ff7f31eca)
 [What is the Global Magnitsky Act, and why are U.S. senators invoking this on Saudi Arabia? - The Washington Post](https://beta.washingtonpost.com/news/monkey-cage/wp/2018/10/12/what-is-the-global-magnitsky-act-and-why-are-u-s-senators-invoking-this-on-saudi-arabia/?outputType=amp)
 
 ## 政治光譜
 
-[政治光譜 - Wikiwand](https://omni.wikiwand.com/zh/%E6%94%BF%E6%B2%BB%E5%85%89%E8%AD%9C)
-[左翼 - Wikiwand](https://omni.wikiwand.com/zh/%E5%B7%A6%E6%B4%BE)
-[右翼 - Wikiwand](https://omni.wikiwand.com/zh/%E5%8F%B3%E6%B4%BE)
-[左翼和右翼 - Wikiwand](https://omni.wikiwand.com/zh/%E5%B7%A6%E6%B4%BE%E5%92%8C%E5%8F%B3%E6%B4%BE)
+[政治光譜 - Wikiwand](https://www.wikiwand.com/zh/%E6%94%BF%E6%B2%BB%E5%85%89%E8%AD%9C)
+[左翼 - Wikiwand](https://www.wikiwand.com/zh/%E5%B7%A6%E6%B4%BE)
+[右翼 - Wikiwand](https://www.wikiwand.com/zh/%E5%8F%B3%E6%B4%BE)
+[左翼和右翼 - Wikiwand](https://www.wikiwand.com/zh/%E5%B7%A6%E6%B4%BE%E5%92%8C%E5%8F%B3%E6%B4%BE)
 
-[建制派 (香港) - Wikiwand](<https://omni.wikiwand.com/zh/%E5%BB%BA%E5%88%B6%E6%B4%BE_(%E9%A6%99%E6%B8%AF)>)
-[泛民主派 - Wikiwand](https://omni.wikiwand.com/zh/%E6%B3%9B%E6%B0%91%E4%B8%BB%E6%B4%BE)
+[建制派 (香港) - Wikiwand](<https://www.wikiwand.com/zh/%E5%BB%BA%E5%88%B6%E6%B4%BE_(%E9%A6%99%E6%B8%AF)>)
+[泛民主派 - Wikiwand](https://www.wikiwand.com/zh/%E6%B3%9B%E6%B0%91%E4%B8%BB%E6%B4%BE)
 
 [為何會有人支持專政？建制派的邏輯分析，中國人性格和民族主義的反思，陶國璋、趙善軒哲學對談 - YouTube](https://www.youtube.com/watch?v=TRy_d4iHgyU)
 [「百萬人」香港人「反送中」的社會心理分析；自由派與建制派是義利之辯 ；陶國璋丶趙善軒對談錄 20190620 - YouTube](https://www.youtube.com/watch?v=ORr6FOkCJAw)
@@ -64,9 +64,9 @@ tags:
 
 ## 中國民運
 
-[中華人民共和國民主運動 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95)
-[六四事件 - Wikiwand](https://omni.wikiwand.com/zh/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6)
-[必須旗幟鮮明地反對動亂 - Wikiwand](https://omni.wikiwand.com/zh/%E5%BF%85%E9%A1%BB%E6%97%97%E5%B8%9C%E9%B2%9C%E6%98%8E%E5%9C%B0%E5%8F%8D%E5%AF%B9%E5%8A%A8%E4%B9%B1) 四·二六社論
+[中華人民共和國民主運動 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95)
+[六四事件 - Wikiwand](https://www.wikiwand.com/zh/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6)
+[必須旗幟鮮明地反對動亂 - Wikiwand](https://www.wikiwand.com/zh/%E5%BF%85%E9%A1%BB%E6%97%97%E5%B8%9C%E9%B2%9C%E6%98%8E%E5%9C%B0%E5%8F%8D%E5%AF%B9%E5%8A%A8%E4%B9%B1) 四·二六社論
 
 [六四事件：廣場備忘錄－ BBC News 中文 ｜天安門｜ 1989 - YouTube](https://www.youtube.com/watch?v=ExqqdUXXdgA)
 [BBC 新闻档案节选：六四清场报道 - YouTube](https://www.youtube.com/watch?v=Ea3LiY7aMVI)
@@ -82,7 +82,7 @@ tags:
 
 ## 天星小輪加價暴動/六六暴動
 
-[天星小輪加價暴動 - Wikiwand](https://omni.wikiwand.com/zh/%E5%A4%A9%E6%98%9F%E5%B0%8F%E8%BC%AA%E5%8A%A0%E5%83%B9%E6%9A%B4%E5%8B%95)
+[天星小輪加價暴動 - Wikiwand](https://www.wikiwand.com/zh/%E5%A4%A9%E6%98%9F%E5%B0%8F%E8%BC%AA%E5%8A%A0%E5%83%B9%E6%9A%B4%E5%8B%95)
 [Vanished Archives 消失的檔案 - Posts](https://www.facebook.com/vanishedarchives/posts/1711116002311886)
 
 [五十年前「斗零騷動」主角現身說法　蘇守忠怎樣看今天旺角騷亂？ - 明報新聞網](https://news.mingpao.com/ins/%E6%96%87%E6%91%98/article/20160225/s00022/1456380246355/%E4%BA%94%E5%8D%81%E5%B9%B4%E5%89%8D%E3%80%8C%E6%96%97%E9%9B%B6%E9%A8%B7%E5%8B%95%E3%80%8D%E4%B8%BB%E8%A7%92%E7%8F%BE%E8%BA%AB%E8%AA%AA%E6%B3%95-%E8%98%87%E5%AE%88%E5%BF%A0%E6%80%8E%E6%A8%A3%E7%9C%8B%E4%BB%8A%E5%A4%A9%E6%97%BA%E8%A7%92%E9%A8%B7%E4%BA%82-%EF%BC%88%E6%96%87-%E9%84%AD%E6%98%8E%E4%BB%81%EF%BC%89)
@@ -93,7 +93,7 @@ tags:
 
 ## 六七暴動
 
-[六七暴動 - Wikiwand](https://omni.wikiwand.com/zh/%E5%85%AD%E4%B8%83%E6%9A%B4%E5%8B%95)
+[六七暴動 - Wikiwand](https://www.wikiwand.com/zh/%E5%85%AD%E4%B8%83%E6%9A%B4%E5%8B%95)
 [六七暴動真相懸空 50 年，八大待解之謎｜香港｜端傳媒 Initium Media](https://theinitium.com/article/20170509-hongkong-67-myth/)
 [六七暴動 | 香港網絡大典 | FANDOM powered by Wikia](https://evchk.wikia.org/zh/wiki/%E5%85%AD%E4%B8%83%E6%9A%B4%E5%8B%95)
 
@@ -101,26 +101,26 @@ tags:
 
 ## 2003 二十三條立法
 
-[香港特別行政區基本法第二十三條 - Wikiwand](https://omni.wikiwand.com/zh/%E9%A6%99%E6%B8%AF%E7%89%B9%E5%88%A5%E8%A1%8C%E6%94%BF%E5%8D%80%E5%9F%BA%E6%9C%AC%E6%B3%95%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%89%E6%A2%9D)
-[2003 年香港七一遊行 - Wikiwand](https://omni.wikiwand.com/zh/2003%E5%B9%B4%E9%A6%99%E6%B8%AF%E4%B8%83%E4%B8%80%E9%81%8A%E8%A1%8C)
+[香港特別行政區基本法第二十三條 - Wikiwand](https://www.wikiwand.com/zh/%E9%A6%99%E6%B8%AF%E7%89%B9%E5%88%A5%E8%A1%8C%E6%94%BF%E5%8D%80%E5%9F%BA%E6%9C%AC%E6%B3%95%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%89%E6%A2%9D)
+[2003 年香港七一遊行 - Wikiwand](https://www.wikiwand.com/zh/2003%E5%B9%B4%E9%A6%99%E6%B8%AF%E4%B8%83%E4%B8%80%E9%81%8A%E8%A1%8C)
 
 ## 2014 2016 政改/雨傘革命/佔領中環
 
 2014 年 6 月 10 日，國務院新聞辦發表《一國兩制白皮書》，高調宣示中央擁有對香港擁有「全面管治權」，而且特首人選必須「愛國愛港」。真普選聯盟於 622 公投跑出的[「三軌」方案](http://www.atd.hk/?p=332)摒棄了提名委員會的唯一提名權(必須提名"公民推薦"之候選人)，明顯違反跟據基本法第 45 條。2014 年 8 月 31 日，人大釋法封殺「公民提名」、「政黨提名」，維持[基本法附件一](http://www.basiclaw.gov.hk/tc/basiclawtext/annex_1.html)中提名委員會組成，更收緊候選人門檻。同時規定[基本法附件二](http://www.basiclaw.gov.hk/tc/basiclawtext/annex_1.html)沿用 2012 年之 35 直選+35 功能組別議席。此舉非單沒有"循序漸進，實現普選"，更像是港人就真普選訴求的當頭棒喝。這最終導致學界大罷課，更間接成為醞釀多時的佔中行動(2014 年 9 月 26 日至 12 月 15 日)導火綫。
 
-[2016 年及 2017 年香港政治制度改革 - Wikiwand](https://omni.wikiwand.com/zh/2016年及2017年香港政治制度改革)
+[2016 年及 2017 年香港政治制度改革 - Wikiwand](https://www.wikiwand.com/zh/2016年及2017年香港政治制度改革)
 [關於「831 決定」，你需要了解的 4 個問題 - 紐約時報中文網](https://cn.nytimes.com/china/20190830/hong-kong-protests/zh-hant/)
-[真普選 - Wikiwand](https://omni.wikiwand.com/zh/真普選)
-[真普選聯盟 - Wikiwand](https://omni.wikiwand.com/zh/真普選聯盟)
-[6.22 民間全民投票 - Wikiwand](https://omni.wikiwand.com/zh/6.22民間全民投票)
+[真普選 - Wikiwand](https://www.wikiwand.com/zh/真普選)
+[真普選聯盟 - Wikiwand](https://www.wikiwand.com/zh/真普選聯盟)
+[6.22 民間全民投票 - Wikiwand](https://www.wikiwand.com/zh/6.22民間全民投票)
 [投咩方案諗到頭爆？快睇 6.22 懶人包 | 蘋果日報 | 要聞港聞 | 20140620](http://hk.apple.nextmedia.com/news/art/20140620/18768522)
-[2014 年香港學界大罷課 - Wikiwand](https://omni.wikiwand.com/zh/2014年香港學界大罷課)
-[雨傘革命 - Wikiwand](https://omni.wikiwand.com/zh/雨傘革命)
-[讓愛與和平佔領中環 - Wikiwand](https://omni.wikiwand.com/zh/讓愛與和平佔領中環)
+[2014 年香港學界大罷課 - Wikiwand](https://www.wikiwand.com/zh/2014年香港學界大罷課)
+[雨傘革命 - Wikiwand](https://www.wikiwand.com/zh/雨傘革命)
+[讓愛與和平佔領中環 - Wikiwand](https://www.wikiwand.com/zh/讓愛與和平佔領中環)
 
 ## 2019 《逃犯條例》修訂/反送中
 
-[2019 年逃犯及刑事事宜相互法律協助法例（修訂）條例草案 - Wikiwand](https://omni.wikiwand.com/zh/2019%E5%B9%B4%E9%80%83%E7%8A%AF%E5%8F%8A%E5%88%91%E4%BA%8B%E4%BA%8B%E5%AE%9C%E7%9B%B8%E4%BA%92%E6%B3%95%E5%BE%8B%E5%8D%94%E5%8A%A9%E6%B3%95%E4%BE%8B%EF%BC%88%E4%BF%AE%E8%A8%82%EF%BC%89%E6%A2%9D%E4%BE%8B%E8%8D%89%E6%A1%88)
+[2019 年逃犯及刑事事宜相互法律協助法例（修訂）條例草案 - Wikiwand](https://www.wikiwand.com/zh/2019%E5%B9%B4%E9%80%83%E7%8A%AF%E5%8F%8A%E5%88%91%E4%BA%8B%E4%BA%8B%E5%AE%9C%E7%9B%B8%E4%BA%92%E6%B3%95%E5%BE%8B%E5%8D%94%E5%8A%A9%E6%B3%95%E4%BE%8B%EF%BC%88%E4%BF%AE%E8%A8%82%EF%BC%89%E6%A2%9D%E4%BE%8B%E8%8D%89%E6%A1%88)
 [Hundreds of thousands take to the streets in latest Hong Kong protest - Vox](https://www.vox.com/world/2019/7/21/20702812/hong-kong-protests-extradition-bill-independence-police-carrie-lam-beijing)
 [Hong Kong’s huge protests, explained - YouTube](https://www.youtube.com/watch?v=6_RdnVtfZPY)
 
@@ -136,8 +136,8 @@ tags:
 [【不斷更新】反送中現場 | 獨媒報導 | 香港獨立媒體網](https://www.inmediahk.net/node/1064746)
 [【逃犯條例．6.16 大遊行局勢全覽】民陣斥林鄭無回應五大訴求](https://www.hk01.com/%E6%94%BF%E6%83%85/341130/)
 
-[2019 年 6 月 9 日香港反對逃犯條例修訂草案遊行 - Wikiwand](https://omni.wikiwand.com/zh/2019%E5%B9%B46%E6%9C%889%E6%97%A5%E9%A6%99%E6%B8%AF%E5%8F%8D%E5%B0%8D%E9%80%83%E7%8A%AF%E6%A2%9D%E4%BE%8B%E4%BF%AE%E8%A8%82%E8%8D%89%E6%A1%88%E9%81%8A%E8%A1%8C)
-[反對逃犯條例修訂草案佔領行動 - Wikiwand](https://omni.wikiwand.com/zh/%E5%8F%8D%E5%B0%8D%E9%80%83%E7%8A%AF%E6%A2%9D%E4%BE%8B%E4%BF%AE%E8%A8%82%E8%8D%89%E6%A1%88%E4%BD%94%E9%A0%98%E8%A1%8C%E5%8B%95)
+[2019 年 6 月 9 日香港反對逃犯條例修訂草案遊行 - Wikiwand](https://www.wikiwand.com/zh/2019%E5%B9%B46%E6%9C%889%E6%97%A5%E9%A6%99%E6%B8%AF%E5%8F%8D%E5%B0%8D%E9%80%83%E7%8A%AF%E6%A2%9D%E4%BE%8B%E4%BF%AE%E8%A8%82%E8%8D%89%E6%A1%88%E9%81%8A%E8%A1%8C)
+[反對逃犯條例修訂草案佔領行動 - Wikiwand](https://www.wikiwand.com/zh/%E5%8F%8D%E5%B0%8D%E9%80%83%E7%8A%AF%E6%A2%9D%E4%BE%8B%E4%BF%AE%E8%A8%82%E8%8D%89%E6%A1%88%E4%BD%94%E9%A0%98%E8%A1%8C%E5%8B%95)
 [不能忽略的最新民意調查 - The News Lens 關鍵評論網](https://hk.thenewslens.com/article/123027?fbclid=IwAR20YAaZp2WPopHlEb2U_X20SyzZbIBFSWlA8qbPNKaT3FsfSTREUo50j_g)
 [論林鄭的新論述 | 周保松 | 香港獨立媒體網](https://www.inmediahk.net/node/1066269)
 

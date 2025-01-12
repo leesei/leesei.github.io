@@ -2,7 +2,7 @@
 title: Generative AI
 description: ""
 created: 2023-05-08
-updated: 2024-09-24
+updated: 2025-01-09
 tags:
   - ai
   - aigc
@@ -23,7 +23,17 @@ Generator and Discriminator
 [Generative AI is Everything Everywhere, All at Once | Databricks Blog](https://www.databricks.com/blog/generative-ai-everything-everywhere-all-once)
 [4 Ways AI Can Make Working With PDFs Easier](https://www.makeuseof.com/ai-pdfs-working-easier/)
 
+[5 YouTube Channels to Master LLMs - KDnuggets](https://www.kdnuggets.com/5-youtube-channels-to-master-llms)
+[Andrej Karpathy - YouTube](https://www.youtube.com/@AndrejKarpathy)
+[CodeEmporium - YouTube](https://www.youtube.com/@CodeEmporium)
+[Cole Medin - YouTube](https://www.youtube.com/@ColeMedin)
+[Dave Ebbelaar - YouTube](https://www.youtube.com/@daveebbelaar)
+[Entry Point AI - YouTube](https://www.youtube.com/@EntryPointAI)
 [Hung-yi Lee - YouTube](https://www.youtube.com/@HungyiLeeNTU/)
+[Krish Naik - YouTube](https://www.youtube.com/@krishnaik06)
+[Matthew Berman - YouTube](https://www.youtube.com/@matthew_berman)
+[Yannic Kilcher - YouTube](https://www.youtube.com/@YannicKilcher) research paper breakdown
+[Prompt Engineering - YouTube](https://www.youtube.com/@engineerprompt)
 
 [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/)
 
@@ -53,15 +63,7 @@ Generator and Discriminator
 [Reproducing Japanese Anime Styles With CartoonGAN AI](https://medium.com/syncedreview/reproducing-japanese-anime-styles-with-cartoongan-ai-cf30d583736e)
 [A Gentle Introduction to StyleGAN the Style Generative Adversarial Network](https://machinelearningmastery.com/introduction-to-style-generative-adversarial-network-stylegan/)
 
-[ImagetoCartoon | Cartoonizer & Cartoon Avatar Maker Online Free](https://imagetocartoon.com/)
-[Ready to live all your cartoon dreams at a time?](https://toonme.com/)
-
 [Computer evolves to generate baroque music! - YouTube](https://www.youtube.com/watch?v=SacogDL_4JU)
-[How I generated 1000 random faces for my game in Python](https://itnext.io/how-i-generated-1000-random-faces-for-my-game-in-python-83340079013f)
-
-[naver-ai/c3-gan: Official Pytorch implementation of C3-GAN](https://github.com/naver-ai/c3-gan)
-
-[AnimeGANv2 - a Hugging Face Space by akhaliq](https://huggingface.co/spaces/akhaliq/AnimeGANv2)
 
 ## Google Courses
 
@@ -80,26 +82,6 @@ Generator and Discriminator
 [Introduction to Image Generation | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/541)
 [Create Image Captioning Models | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/542)
 
-## Fine-tuning LLM
-
-[The Best Strategies for Fine-Tuning Large Language Models - KDnuggets](https://www.kdnuggets.com/the-best-strategies-for-fine-tuning-large-language-models)
-[How to Fine-Tune BERT for Sentiment Analysis with Hugging Face Transformers - KDnuggets](https://www.kdnuggets.com/how-to-fine-tune-bert-sentiment-analysis-hugging-face-transformers)
-[Top Tips and Tricks for LLM Fine-tuning and Inference](https://www.intel.com/content/www/us/en/developer/articles/technical/top-tricks-for-llm-fine-tuning-and-inference.html)
-
-[[2106.09685] LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
-[[2305.14314] QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
-
-[mlx-examples/llms/mlx_lm/LORA.md at main · ml-explore/mlx-examples · GitHub](https://github.com/ml-explore/mlx-examples/blob/main/llms/mlx_lm/LORA.md)
-
-[Unsloth AI | Finetune Llama 3 & Mistral LLMs](https://unsloth.ai/)
-[unslothai/unsloth: Finetune Llama 3, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory](https://github.com/unslothai/unsloth)
-[Windows下中文微调Llama3，单卡8G显存只需5分钟，模型可接入GPT4All、Ollama，实现CPU推理聊天，附Colab一键训练脚本。 - YouTube](https://www.youtube.com/watch?v=LPmI-Ok5fUc)
-[Unsloth, what's the catch? Seems too good to be true. : r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1ar7e4m/unsloth_whats_the_catch_seems_too_good_to_be_true/)
-
-[[2406.17642] Banishing LLM Hallucinations Requires Rethinking Generalization](https://arxiv.org/abs/2406.17642)
-[Introducing Lamini Memory Tuning: 95% LLM Accuracy, 10x Fewer Hallucinations | Lamini - Enterprise LLM Platform](https://www.lamini.ai/blog/lamini-memory-tuning)
-[Lamini AI's Memory Tuning Achieves 95% Accuracy and Reduces Hallucinations by 90% in Large Language Models - MarkTechPost](https://www.marktechpost.com/2024/06/17/lamini-ais-memory-tuning-achieves-95-accuracy-and-reduces-hallucinations-by-90-in-large-language-models/)
-
 ## Detecting AI/AGC watermarking
 
 [Overview - C2PA](https://c2pa.org/)
@@ -117,6 +99,10 @@ Generator and Discriminator
 [AI Checkers Are Useless, and These 5 Examples Prove Why](https://www.makeuseof.com/ai-checkers-are-useless-examples-prove-why/)
 [AI Content Detectors Don’t Work, and That’s a Big Problem](https://www.makeuseof.com/ai-content-detectors-dont-work/)
 
+## AI Lies
+
+[When an AI lies – 4sysops](https://4sysops.com/archives/when-an-ai-lies/)
+
 ## Hallucination
 
 > When you like it it's creativity, when you don't it's hallucination.
@@ -127,7 +113,9 @@ Generator and Discriminator
 [[2305.18153] Do Large Language Models Know What They Don't Know?](https://arxiv.org/abs/2305.18153)
 [GPT 總愛「一本正經的胡說八道」怎麼辦？OpenAI 稱找到解決 AI「幻覺」方法 | T 客邦](https://www.techbang.com/posts/106813-what-to-do-with-ai-making-up-nonsense-openai-claims-to-find-a)
 [為什麼 ChatGPT 總是會「一本正經的胡說八道」？瞭解 GPT 語言模型的 6 個缺點與問題 | T 客邦](https://www.techbang.com/posts/104718-dark-side-of-chatgpt)
+[5 Hilarious Times AI Chatbots Went Wild and Hallucinated](https://www.makeuseof.com/best-examples-ai-chatbot-hallucination/)
 
+[What Is AI Hallucination, and How Do You Spot It?](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/)
 [How to Reduce AI Hallucination With These 6 Prompting Techniques](https://www.makeuseof.com/how-to-reduce-ai-hallucination/)
 [Lamini AI's Memory Tuning Achieves 95% Accuracy and Reduces Hallucinations by 90% in Large Language Models - MarkTechPost](https://www.marktechpost.com/2024/06/17/lamini-ais-memory-tuning-achieves-95-accuracy-and-reduces-hallucinations-by-90-in-large-language-models/)
 
@@ -162,12 +150,11 @@ Generator and Discriminator
 [The 5 Best Open-Source AI Image Generators](https://www.makeuseof.com/best-open-source-ai-image-generators/)
 [5 Free Alternatives to Midjourney](https://www.makeuseof.com/free-midjourney-alternatives-ai-art/)
 [Do These AI Generators Really Create Vector Images That Look Crisp at Any Size?](https://www.makeuseof.com/ai-generators-that-create-scalable-vector-images/)
+[27 AI Art Prompt Ideas You Should Try](https://www.makeuseof.com/ai-art-prompt-ideas/)
 
 [2023 年視覺生成式 AI 年終大回顧！！ - YouTube](https://www.youtube.com/watch?v=9AahFT8Y3lw)
 [【生成式AI】淺談圖像生成模型 Diffusion Model 原理 - YouTube](https://www.youtube.com/watch?v=azBugJzmz-o)
 [【生成式AI】Stable Diffusion、DALL-E、Imagen 背後共同的套路 - YouTube](https://www.youtube.com/watch?v=JbfcAaBT66U)
-
-[【漫士科普】人工智能博士生告诉你SORA扩散模型究竟是怎样生成视频的？#ai #sora #openai #chatgpt - YouTube](https://www.youtube.com/watch?v=FMKa4075VZg)
 
 [The REAL Fight Over AI Art - YouTube](https://www.youtube.com/watch?v=NiJeB2NJy1A)
 
@@ -179,7 +166,6 @@ Vox
 [bycloud - YouTube](https://www.youtube.com/@bycloudAI)
 [How AI Image Generators Work (Stable Diffusion / Dall-E) - Computerphile - YouTube](https://www.youtube.com/watch?v=1CIpzeNxIhU)
 [AI Generated Images Are Getting Too Real - YouTube](https://www.youtube.com/watch?v=AlSCx-4d51U) Model mixing, LoRA
-[LoRA是什么？| 5分钟讲清楚LoRA的工作原理 - YouTube](https://www.youtube.com/watch?v=jDkV_Ror5Ds)
 
 [Stable Diffusion in Code (AI Image Generation) - Computerphile - YouTube](https://www.youtube.com/watch?v=-lz30by8-sU)
 [The Current Absurd State of Generating AI Images - YouTube](https://www.youtube.com/watch?v=-JQDtzSaAuA) 2023-09
@@ -240,6 +226,8 @@ Vox
 [How DALL-E could power a creative revolution - The Verge](https://www.theverge.com/23162454/openai-dall-e-image-generation-tool-creative-revolution)
 [Why The Internet Is Raving About DALL-E Mini, A Free AI Tool That Converts Any Text To Art](https://www.slashgear.com/891949/why-the-internet-is-raving-about-dall-e-mini-a-free-ai-tool-that-converts-any-text-to-art/)
 [What Is Outpainting in DALL-E 2 and How Do You Use It?](https://www.makeuseof.com/dall-e-2-outpainting-how-to-use/)
+[What Is DALL-E and How Does It Create Images From Text?](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/)
+[Stable Diffusion: DALL-E 2 For Free, For Everyone! - YouTube](https://www.youtube.com/watch?v=nVhmFski3vg)
 
 [DALL·E 3 | OpenAI](https://openai.com/index/dall-e-3)
 [How to Use DALL-E 3 for Free Inside Microsoft Bing](https://www.makeuseof.com/how-use-dalle-3-free-microsoft-bing/)
@@ -272,10 +260,15 @@ Vox
 
 Better than DALL-E, also open source
 [CompVis/stable-diffusion: A latent text-to-image diffusion model](https://github.com/CompVis/stable-diffusion)
-[Stable Diffusion - a Hugging Face Space by stabilityai](https://huggingface.co/spaces/stabilityai/stable-diffusion)
+[Stable Diffusion - a Hugging Face Space by stabilityai](https://huggingface.co/spaces/stabilityai/stable-diffusion) SD2.1
 [Stable Diffusion with 🧨 diffusers - Colaboratory](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb)
-[Stable Diffusion: DALL-E 2 For Free, For Everyone! - YouTube](https://www.youtube.com/watch?v=nVhmFski3vg)
 [Google's AI: Stable Diffusion On Steroids! 💪 - YouTube](https://www.youtube.com/watch?v=XW_nO2NMH_g)
+
+[Stability AI Releases SD3: The Most Powerful, Open-Source Image Generator is Available in HuggingFace - Decrypt](https://decrypt.co/234935/stability-ai-releases-sd3-the-most-powerful-open-source-image-generator-is-available-in-huggingface)
+[stabilityai/stable-diffusion-3-medium · Hugging Face](https://huggingface.co/stabilityai/stable-diffusion-3-medium)
+
+[Easy Diffusion v3 | A simple 1-click way to create beautiful images on your computer, by installing Stable Diffusion. No dependencies or technical knowledge required](https://easydiffusion.github.io/)
+[Stable Diffusion Can Be Overwhelming: This Text-to-Image AI Is Much More Approachable](https://www.makeuseof.com/easy-diffusion-text-to-image-ai-software-guide/)
 
 [子不語｜方格子 vocus](https://vocus.cc/user/5fb30029fd89780001f90400)
 [AI 紀行 - 文章列表｜方格子 vocus](https://vocus.cc/BHRiceAI/home)
@@ -326,6 +319,23 @@ Better than DALL-E, also open source
 [ControlNet Revolutionized How We Use AI To Generate Images - YouTube](https://www.youtube.com/watch?v=rCygkyMuSQo) use another image as input for pose
 [How ControlNet v1.1 Is Revolutionizing AI Art Even Further - YouTube](https://www.youtube.com/watch?v=15Q6OR0MWVk)
 
+## Image to Image
+
+[ImagetoCartoon | Cartoonizer & Cartoon Avatar Maker Online Free](https://imagetocartoon.com/)
+[Ready to live all your cartoon dreams at a time?](https://toonme.com/)
+
+[AnimeGANv2 - a Hugging Face Space by akhaliq](https://huggingface.co/spaces/akhaliq/AnimeGANv2)
+
+[How I generated 1000 random faces for my game in Python](https://itnext.io/how-i-generated-1000-random-faces-for-my-game-in-python-83340079013f)
+[janjilecek/faceGenerator: Python random face generator from the article "How I generated 1000 random faces for my game in Python"](https://github.com/janjilecek/faceGenerator)
+
+[naver-ai/c3-gan: Official Pytorch implementation of C3-GAN (Spotlight at ICLR 2022)](https://github.com/naver-ai/c3-gan)
+
+## Text to Video
+
+[【漫士科普】人工智能博士生告诉你SORA扩散模型究竟是怎样生成视频的？#ai #sora #openai #chatgpt - YouTube](https://www.youtube.com/watch?v=FMKa4075VZg)
+[The 9 Best AI Video Generators (Text-to-Video)](https://www.makeuseof.com/best-ai-video-generators-text-to-video/)
+
 ## Super resolution/Frame interpolation
 
 [Google AI Blog: High Fidelity Image Generation Using Diffusion Models](https://ai.googleblog.com/2021/07/high-fidelity-image-generation-using.html)
@@ -338,7 +348,7 @@ Better than DALL-E, also open source
 
 ## Deep Fake
 
-[Deepfake - Wikiwand](https://omni.wikiwand.com/en/Deepfake)
+[Deepfake - Wikiwand](https://www.wikiwand.com/en/Deepfake)
 ['Deep fakes': How to know what's true in the fake-Obama video era - Science News - ABC News](http://www.abc.net.au/news/science/2018-03-04/deep-fakes-and-obama-videos/9490614)
 [3 startups commercializing Deepfakes media manipulation tech](https://www.fastcompany.com/90337767/deepfakes-started-a-war-on-whats-real-these-startups-are-racing-to-commercialize-it)
 
@@ -370,33 +380,61 @@ Better than DALL-E, also open source
 [suno-ai/bark: 🔊 Text-Prompted Generative Audio Model](https://github.com/suno-ai/bark)
 [Bark: The Ultimate Audio Generation Model - KDnuggets](https://www.kdnuggets.com/2023/05/bark-ultimate-audio-generation-model.html)
 
+[AI Voice Impersonation: How Do We Stop Deepfake Scams?](https://www.itprotoday.com/vulnerabilities-threats/we-re-worried-about-deepfake-voice-scams-how-do-we-protect-employees-)
+
 ## Lossless Compression
 
 [A Deep Learning Approach to Data Compression – The Berkeley Artificial Intelligence Research Blog](https://bair.berkeley.edu/blog/2019/09/19/bit-swap/)
 [Talk on Bit-Swap (Recursive Bits-Back Coding) at ICML 2019 - YouTube](https://www.youtube.com/watch?v=gR-P41Pis24)
 
-## Large Language Model/LLM
+## Large Language Model (LLM)
 
-[Large language model - Wikiwand](https://omni.wikiwand.com/en/Large_language_model)
+[Large language model - Wikiwand](https://www.wikiwand.com/en/Large_language_model)
 ["Catching up on the weird world of LLMs" - Simon Willison (North Bay Python 2023) - YouTube](https://www.youtube.com/watch?v=h8Jth_ijZyY)
 [LLM Foundations (LLM Bootcamp) - YouTube](https://www.youtube.com/watch?v=MyFrMFab6bo)
 [A Hackers' Guide to Language Models - YouTube](https://www.youtube.com/watch?v=jkrNMKz9pWU)
+[Stanford CS224N: Natural Language Processing with Deep Learning | 2023 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
 [Large Language Model Category - MarkTechPost](https://www.marktechpost.com/category/technology/artificial-intelligence/large-language-model/)
+[GPT-3 vs BERT: Comparing LLMs | Exxact Corp.](https://www.exxactcorp.com/blog/deep-learning/gpt-3-vs-bert-llm-comparison)
+
+[Language Models Explained in 5 Minutes - KDnuggets](https://www.kdnuggets.com/language-models-explained-in-5-minutes)
+[Top 5 Tips for Fine-Tuning LLMs - KDnuggets](https://www.kdnuggets.com/top-5-tips-fine-tuning-llms)
+
+[Maxime Labonne - Articles](https://mlabonne.github.io/blog/)
+[mlabonne/llm-course: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.](https://github.com/mlabonne/llm-course)
+
+Andrej Karpathy
+[State of GPT | BRK216HFS - YouTube](https://www.youtube.com/watch?v=bZQun8Y4L2A) ❗!important, LLM in general
+[Slides](./_assets/generative-ai/State%20of%20GPT%20-%20Microsoft%20Build%202023%20RD.pdf)
+[State of GPT: OpenAI 大神 Andrej Karpathy 揭秘大模型原理和训练全过程 - 华尔街见闻](https://wallstreetcn.com/articles/3689905)
+[[1hr Talk] Intro to Large Language Models - YouTube](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 
 [Open LLM Leaderboard - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 [Understanding the impact of open-source language models - TechTalks](https://bdtechtalks.com/2023/05/29/open-source-llms-cerebras-gpt/)
 
+[【人工智能】如何仅用初中数学来理解大语言模型原理 | 神经网络 | 嵌入 | 分词器 | ReLU | 自注意力 | 残差连接 | 层归一化 | Dropout | GPT | Transformer - YouTube](https://www.youtube.com/watch?v=NnxMwIWumOc)
 [80分鐘快速了解大型語言模型 (5:30 有咒術迴戰雷) - YouTube](https://www.youtube.com/watch?v=wG8-IUtqu-s)
 [【漫士科普】GPT是如何工作的？为什么要学习接下一个词？#gpt #chatgpt #openai - YouTube](https://www.youtube.com/watch?v=j5N2j6Ydhao) foundation model, supervised fine-tuning, reinforcement learning with human feedback (RLHF)
+[LLM reinforcement learning: What is Essential in 2024 ? | by Wiem Souai | Medium](https://medium.com/@wiem.souai/llm-reinforcement-learning-what-is-essential-in-2024-6b0e2d394e2d)
+
+[不要再做One Hot Encoding！！. Categorical feature的正確開啟方式 | by 倢愷 Oscar | Medium](https://axk51013.medium.com/%E4%B8%8D%E8%A6%81%E5%86%8D%E5%81%9Aone-hot-encoding-b5126d3f8a63)
+[【LLM專欄1】如何改進LLM？ - 倢愷 Oscar - Medium](https://axk51013.medium.com/llm%E5%B0%88%E6%AC%841-%E5%A6%82%E4%BD%95%E6%94%B9%E9%80%B2llm-161e7a504658) analyzing why LLM performs badly
+[【專欄】ckip-llama-2真的有這麼爛嗎？淺談LLMs的training與data的關係。 | by 倢愷 Oscar | Medium](https://axk51013.medium.com/%E5%B0%88%E6%AC%84-ckip-llama-2%E7%9C%9F%E7%9A%84%E6%9C%89%E9%80%99%E9%BA%BC%E7%88%9B%E5%97%8E-%E6%B7%BA%E8%AB%87llms%E7%9A%84training%E8%88%87data%E7%9A%84%E9%97%9C%E4%BF%82-67a4eb4a5077) on Training data quantity and quality
+[【LLM 10大觀念-1】Scaling Law. 迎接2024年：10個必須要搞懂的LLM概念-1 | by 倢愷 Oscar | Medium](https://axk51013.medium.com/llm%E5%B0%88%E6%AC%84-%E8%BF%8E%E6%8E%A52024%E5%B9%B4-10%E5%80%8B%E5%BF%85%E9%A0%88%E8%A6%81%E6%90%9E%E6%87%82%E7%9A%84llm%E6%A6%82%E5%BF%B5-1-scaling-law-5f6a409d35c5)
+[【LLM 10大觀念-2】Good Data is All You Need | by 倢愷 Oscar | Medium](https://axk51013.medium.com/llm%E5%B0%88%E6%AC%84-%E8%BF%8E%E6%8E%A52024%E5%B9%B4-10%E5%80%8B%E5%BF%85%E9%A0%88%E8%A6%81%E6%90%9E%E6%87%82%E7%9A%84llm%E6%A6%82%E5%BF%B5-2-good-data-is-all-you-need-1e9e760c016a)
 
 林亦LYi
 [从零开始学习大语言模型（一） - YouTube](https://www.youtube.com/watch?v=biMrHwwsK-M)
 [不要199！免费教程速通大模型！AI是怎么学会讲人话的？ - YouTube](https://www.youtube.com/watch?v=2YRFaaHrZTI) token, n-gram encoding
+[大模型是怎么学会讲人话的？ - YouTube](https://www.youtube.com/watch?v=6-wpuac27Bk)
 
 [Awesome LLM - Awesome 软件 - OSCHINA - 中文开源技术交流社区](https://www.oschina.net/project/awesome?columnId=51)
 [Hannibal046/Awesome-LLM: Awesome-LLM: a curated list of Large Language Model](https://github.com/Hannibal046/Awesome-LLM)
 [KennethanCeyer/awesome-llm: Awesome series for Large Language Model(LLM)s](https://github.com/KennethanCeyer/awesome-llm)
 [awesome-llm: 可能是最全的开源 LLM （大语言模型）整理](https://gitee.com/oschina/awesome-llm)
+
+[5 LLM Tools I Can’t Live Without - KDnuggets](https://www.kdnuggets.com/5-llm-tools-i-cant-live-without)
+[facebookresearch/lingua: Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.](https://github.com/facebookresearch/lingua)
 
 [xiangsx/gpt4free-ts: Providing a free OpenAI GPT-4 API ! This is a replication project for the typescript version of xtekky/gpt4free](https://github.com/xiangsx/gpt4free-ts)
 [使用 gpt4free-ts 完全免费白嫖 GPT-4 · 云原生实验室](https://icloudnative.io/posts/completely-free-to-use-gpt4/)
@@ -405,7 +443,6 @@ Better than DALL-E, also open source
 
 [Introduction to Large Language Models and the Transformer Architecture | by Pradeep Menon | Medium](https://rpradeepmenon.medium.com/introduction-to-large-language-models-and-the-transformer-architecture-534408ed7e61)
 [How To Chose Perfect LLM For The Problem Statement Before Finetuning](https://www.labellerr.com/blog/how-to-choose-llm-to-suit-for-use-case/)
-[Zero-Shot and Few-Shot Learning with LLMs](https://neptune.ai/blog/zero-shot-and-few-shot-learning-with-llms)
 
 [Aviary Explorer](https://aviary.anyscale.com/) compares responses from LLMs
 [A New Tool for the Open Source LLM Developer Stack: Aviary - The New Stack](https://thenewstack.io/a-new-tool-for-the-open-source-llm-developer-stack-aviary/)
@@ -439,10 +476,67 @@ Computerphile
 [苹果 M2 Ultra：干翻英伟达！决战 AI 之巅 - YouTube](https://www.youtube.com/watch?v=UsfmqTb2NVY) The unified memory on Apple SoC fits large transformer models very well
 [大模型解决不了英伟达的难题，AI新范式必将出现：专访安克创新CEO阳萌 - YouTube](https://www.youtube.com/watch?v=kMBjzxKYWw4) von Neumann -> unified memory -> 存算一體
 
-[LLM System and Hardware Requirements - Running Large Language Models Locally #systemrequirements - YouTube](https://www.youtube.com/watch?v=oaV_8ZSFblg)
+[Feed Your OWN Documents to a Local Large Language Model! - YouTube](https://www.youtube.com/watch?v=fFgyOucIFuk)
 
 [Llama3–70B inference on Intel Core Ultra 5 125H | by Wei Lu | Medium](https://medium.com/@GenerationAI/llama3-70b-inference-on-intel-core-ultra-5-125h-a796560c2c3a)
 [Cheap mini runs a 70B LLM 🤯 - YouTube](https://www.youtube.com/watch?v=xyKEQjUzfAk) on Intel Core Ultra 5 125H w/ 96G RAM
+
+[Local AI (LLMs, RAG, more) - YouTube](https://www.youtube.com/playlist?list=PLyrg3m7Ei-MqNM-au_lfjzTsuVVTTx0ke) Cole Medin
+[Run ALL Your AI Locally in Minutes (LLMs, RAG, and more) - YouTube](https://www.youtube.com/watch?v=V_0dNE-H2gw)
+[ai-agents-masterclass/local-ai-packaged at main · coleam00/ai-agents-masterclass](https://github.com/coleam00/ai-agents-masterclass/tree/main/local-ai-packaged) n8n
+
+[How to Install and Run LLMs Locally on Android Phones - KDnuggets](https://www.kdnuggets.com/install-run-llms-locally-android-phones)
+
+[Running Ollama on AMD iGPU - Robert's blog](https://blog.machinezoo.com/Running_Ollama_on_AMD_iGPU)
+[Integrated AMD GPU support · Issue #2637 · ollama/ollama](https://github.com/ollama/ollama/issues/2637)
+[AMD integrated graphic on linux kernel 6.9.9+, GTT memory, loading freeze fix by MaciejMogilany · Pull Request #6282 · ollama/ollama](https://github.com/ollama/ollama/pull/6282)
+
+#### Ollama
+
+[Ollama](https://ollama.com/)
+[ollama/ollama: Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.](https://github.com/ollama/ollama)
+
+[Ollama Tutorial: Running LLMs Locally Made Super Simple - KDnuggets](https://www.kdnuggets.com/ollama-tutorial-running-llms-locally-made-super-simple)
+[Neovim Can Write The Code For You - YouTube](https://www.youtube.com/watch?v=7YPufxIMdJo)
+
+[12 Tools to Provide a Web UI for Ollama](https://itsfoss.com/ollama-web-ui-tools/)
+[ollama-ui/Makefile at main · ollama-ui/ollama-ui](https://github.com/ollama-ui/ollama-ui/blob/main/Makefile)
+
+#### Open WebUI
+
+[Open WebUI](https://openwebui.com/)
+[open-webui/open-webui: User-friendly AI Interface (Supports Ollama, OpenAI API, ...)](https://github.com/open-webui/open-webui)
+
+#### Cortex
+
+[Homepage - Cortex](https://cortex.so/)
+[janhq/cortex.cpp: Local AI API Platform](https://github.com/janhq/cortex.cpp)
+
+[Run Local LLMs with Cortex - KDnuggets](https://www.kdnuggets.com/run-local-llms-with-cortex)
+
+#### AnythingLLM
+
+[AnythingLLM | The all-in-one AI application for everyone](https://anythingllm.com/)
+[Mintplex-Labs/anything-llm: The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.](https://github.com/Mintplex-Labs/anything-llm)
+
+[AnythingLLM: The LLM Application You’ve Been Waiting For - KDnuggets](https://www.kdnuggets.com/anythingllm-the-llm-application-youve-been-waiting-for)
+
+#### OpenLLM
+
+[BentoML: Unified Inference Platform](https://bentoml.com/)
+[bentoml/OpenLLM: Run any open-source LLMs, such as Llama, Mistral, as OpenAI compatible API endpoint in the cloud.](https://github.com/bentoml/OpenLLM)
+[Introducing OpenLLM: Open Source Library for LLMs - KDnuggets](https://www.kdnuggets.com/2023/07/introducing-openllm-open-source-library-llms.html)
+
+[vllm-project/vllm: A high-throughput and memory-efficient inference and serving engine for LLMs](https://github.com/vllm-project/vllm)
+
+### Memory Requirements
+
+[LLM System and Hardware Requirements - Running Large Language Models Locally #systemrequirements - YouTube](https://www.youtube.com/watch?v=oaV_8ZSFblg)
+
+[Finetune LLMs on your own consumer hardware using tools from PyTorch and Hugging Face ecosystem | PyTorch](https://pytorch.org/blog/finetune-llms/)
+
+[How long does fine-tuning take, and how much VRAM does it use? (At different model sizes and context lengths, using the latest methods) : r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/15hiid1/how_long_does_finetuning_take_and_how_much_vram/?rdt=44163)
+[How much VRAM do I need for LLM model fine-tuning? | Modal Blog](https://modal.com/blog/how-much-vram-need-fine-tuning)
 
 ### Tokenization
 
@@ -457,48 +551,216 @@ Computerphile
 ### On the contrary
 
 [【人工智能】语言究竟是一种交流工具还是思考工具 | MIT论文解读 | 颠覆大语言模型 | 语言和思想之争 | 失语症 | 聋哑儿童 - YouTube](https://www.youtube.com/watch?v=AlJdNDWCP8A)
+[【人工智能】大模型到底懂不懂推理？| 苹果发表最新论文 | GSM-Symbolic | GSM8K数据集 | 数学推理的局限性 | 开闭源模型纷纷中招 | 线性化子图匹配 | 模式匹配器 - YouTube](https://www.youtube.com/watch?v=ojndlMzGZZk)
 
 ### Tools
 
 [Sage - Poe](https://poe.com/) integrates multiple LLMs
 [Phind: AI search engine](https://www.phind.com/)
-[Perplexity](https://www.perplexity.ai/)
 [Free AI Writing, PDF, Image, and other Online Tools - TinyWow](https://tinywow.com/)
+[Meco: The #1 newsletter aggregator | Declutter your inbox](https://meco.app/)
+[Komo](https://komo.ai/)
+
+[Perplexity](https://www.perplexity.ai/)
+[What is Perplexity Pro?](https://www.perplexity.ai/hub/faq/what-is-perplexity-pro)
+[Why a Perplexity Pro Subscription Is Absolutely Worth the Money](https://www.makeuseof.com/why-perplexity-pro-subscription-worth-the-money/)
+[How to Get the Most From Your New Perplexity Pro Subscription](https://www.makeuseof.com/best-ways-use-perplexity-pro-subscription/)
+[I Put Perplexity to the Test Against Google in These 8 Searches: Here’s How It Went](https://www.makeuseof.com/google-vs-perplexity/)
+
+[The 6 Best Download-Free Spelling and Grammar Checkers](https://www.makeuseof.com/best-download-free-spelling-checkers/)
+[Free Grammar Checker - LanguageTool](https://languagetool.org/)
 
 [Hamster Ai](https://app.hamsterai.net/home)
 [This Is the Best Free All-in-One AI Generator I’ve Used: Here’s Why](https://www.makeuseof.com/best-free-all-in-one-ai-generator/)
 
 [TruLens for LLMs](https://www.trulens.org/)
 
-### Leaderboard/Benchmark
+### Leaderboard/Benchmark/Evaluation
+
+[LLM Evaluation doesn't need to be complicated](https://www.philschmid.de/llm-evaluation)
 
 [The Large Language Model (LLM) Index | Sapling](https://sapling.ai/llm/index) ❗!important
 [List of Open Sourced Fine-Tuned Large Language Models (LLM) | by Sung Kim | Geek Culture | Medium](https://medium.com/geekculture/list-of-open-sourced-fine-tuned-large-language-models-llm-8d95a2e0dc76)
 
-[Chat with Open Large Language Models](https://arena.lmsys.org/)
+[Chatbot Arena (formerly LMSYS): Free AI Chat to Compare & Test Best AI Chatbots](https://lmarena.ai/)
 [[2403.04132] Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference](https://arxiv.org/abs/2403.04132)
 
 [LYi 林哥的大模型野榜](https://lyihub.com/)
 [测爆我！我们决定让全网白嫖，只为找到最强大模型！ - YouTube](https://www.youtube.com/watch?v=Q6StH5gnYnY)
 
 [open-llm-leaderboard (Open LLM Leaderboard)](https://huggingface.co/open-llm-leaderboard)
-[Open LLM Leaderboard 2 - a Hugging Face Space by open-llm-leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
+[Open LLM Leaderboard 2 - a Hugging Face Space by open-llm-leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) using Evaluation Harness
+[EleutherAI/lm-evaluation-harness: A framework for few-shot evaluation of language models.](https://github.com/EleutherAI/lm-evaluation-harness)
+[Evaluate LLMs using Evaluation Harness and Hugging Face TGI/vLLM](https://www.philschmid.de/evaluate-llms-with-lm-eval-and-tgi-vllm)
+
+[Training & Fine-Tuning LLMs: Evaluation - YouTube](https://www.youtube.com/watch?v=CqO8P5xz6fk)
+
+[DeepEval - The Open-Source LLM Evaluation Framework](https://docs.confident-ai.com/)
+Can use online or local LLM, different benchmarks
+
+- BIG-Bench Hard
+- HellaSwag
+- MMLU (Massive Multitask Language Understanding)
+- DROP
+- TruthfulQA
+- HumanEval
+- GSM8K
 
 [Evaluations for Retrieval Augmented Generation: TruLens + Milvus - The New Stack](https://thenewstack.io/evaluations-for-retrieval-augmented-generation-trulens-milvus/)
 
-### Ollama
+[facebookresearch/lingua: Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.](https://github.com/facebookresearch/lingua)
+[lm-sys/FastChat: An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.](https://github.com/lm-sys/FastChat/)
 
-[Ollama](https://ollama.com/)
-[ollama/ollama: Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.](https://github.com/ollama/ollama)
+### Zero-shot Learning/Few-shot Learning/Prompt Engineering
 
-[Ollama Tutorial: Running LLMs Locally Made Super Simple - KDnuggets](https://www.kdnuggets.com/ollama-tutorial-running-llms-locally-made-super-simple)
-[Neovim Can Write The Code For You - YouTube](https://www.youtube.com/watch?v=7YPufxIMdJo)
+[Zero-Shot Learning vs. Few-Shot Learning vs. Fine-Tuning: A technical walkthrough using OpenAI's APIs & models](https://labelbox.com/guides/zero-shot-learning-few-shot-learning-fine-tuning/)
+[Ensuring Reliable Few-Shot Prompt Selection for LLMs - KDnuggets](https://www.kdnuggets.com/2023/07/ensuring-reliable-fewshot-prompt-selection-llms.html)
+
+[Zero-Shot and Few-Shot Learning with LLMs](https://neptune.ai/blog/zero-shot-and-few-shot-learning-with-llms)
+[Strategies For Effective Prompt Engineering](https://neptune.ai/blog/prompt-engineering-strategies)
+
+[[2205.11916] Large Language Models are Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916) prompts like "Let's think step by step" (chain of thought prompts) is useful
+[Chain-of-thought prompting - Explained! - YouTube](https://www.youtube.com/watch?v=AFE6x81AP4k)
+
+[Learn Prompting: Your Guide to Communicating with AI](https://learnprompting.org/)
+[Most Useful ChatGPT Prompts｜ExplainThis](https://www.explainthis.io/en/chatgpt)
+
+[dair-ai/Prompt-Engineering-Guide: 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
+[The Only Prompting Framework for Every Use - KDnuggets](https://www.kdnuggets.com/the-only-prompting-framework-for-every-use)
+[Mastering Prompt Engineering in 2024 - KDnuggets](https://www.kdnuggets.com/mastering-prompt-engineering-in-2024)
+
+[The Best 5 AI Prompt Generators For Any AI Tool](https://www.makeuseof.com/best-ai-prompt-generators-for-any-ai-tool/)
+[Try This AI Prompting Formula and I Guarantee You'll Love the Results](https://www.makeuseof.com/ai-prompting-formula-guaranteed-results/)
+[This Chrome Extension Makes ChatGPT Prompting Easy](https://www.makeuseof.com/aiprm-chrome-extension-makes-chatgpt-prompting-easy/)
+[I Ran the Same Prompt on Three AI Chatbots, and This One Responded Best](https://www.makeuseof.com/what-best-ai-chatbot-gemini-chatgpt-claude/)
+
+[Prompt Engineering - YouTube](https://www.youtube.com/@engineerprompt)
+[【專欄】如何用ChatGPT打造一個AI產品？ Part2: 基礎Prompt Engineering入門 - 倢愷 Oscar - Medium](https://axk51013.medium.com/%E5%B0%88%E6%AC%84-%E5%A6%82%E4%BD%95%E7%94%A8chatgpt%E6%89%93%E9%80%A0%E4%B8%80%E5%80%8Bai%E7%94%A2%E5%93%81-part2-%E5%9F%BA%E7%A4%8Eprompt-engineering%E5%85%A5%E9%96%80-11d6cc3161ac)
+
+[swyxio/ai-notes: notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under the /Resources folder.](https://github.com/swyxio/ai-notes#top-prompt-engineering-reads)
+[microsoft/prompt-engine: A library for helping developers craft prompts for Large Language Models](https://github.com/microsoft/prompt-engine)
+
+[Prompt Engineering 101: Introduction and resources - AI, software, tech, and people. Not in that order. By X](https://amatriain.net/blog/PromptEngineering)
+[Prompt Engineering 201: Advanced methods and toolkits - AI, software, tech, and people. Not in that order. By X](https://amatriain.net/blog/prompt201)
+
+[【必看】解放實力！ChatGPT 全能方法＝全知的神 詠唱技巧 論文 功課 報告 文案 - YouTube](https://www.youtube.com/watch?v=oF74vvgq4Kc)
+[The Secrets To Making LLMs More Reliable - YouTube](https://www.youtube.com/watch?v=O5rmwjY2lbA) tell it "don't hallucinate"
+[lencx/ChatGPT: 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT)
+[f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts)
+[All ChatGPT Prompts in 1 Article. Create Your Perfect ChatGPT Prompt | by Arslan Mirza | Medium | Level Up Coding](https://levelup.gitconnected.com/all-chatgpt-prompts-in-1-article-2efbacdfa24c)
+[不知道怎麼獲得 ChatGPT 更精準、更詳細的回答嗎？35 個萬用公式整理給你 - 電腦王阿達](https://www.kocpc.com.tw/archives/494045)
+
+[prompt-engineering-note — 提示工程笔记](https://islinxu.github.io/prompt-engineering-note/)
+[Prompt engineering for AI: what is prompt engineering and how to get good results from AI engines - DEV Community](https://dev.to/github/prompt-engineering-for-ai-what-is-prompt-engineering-and-how-to-get-good-results-from-ai-engines-5ch6)
+[微軟官方親自出教學指南，介紹 Prompt 工程中的一些進階玩法 | T 客邦](https://www.techbang.com/posts/106279-microsoft-advanced-promp)
+[我的 ChatGPT 怎麼用總是比別人笨？11 個 GPT 提示詞技巧，最佳化你的問題 | T 客邦](https://www.techbang.com/posts/105403-11-tips-to-optimize-chatgpt-prompt-words-so-you-can-get)
+[Prompt engineering techniques with Azure OpenAI - Azure OpenAI Service | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering)
+[Best Practices for Prompt Engineering | by Dmytro Nikolaiev (Dimid) | Towards Data Science](https://towardsdatascience.com/summarising-best-practices-for-prompt-engineering-c5e86c483af4)
+[如何讓 ChatGPT 產出更精確的答案 — 淺談 Prompt Engineering (一)｜方格子 vocus](https://vocus.cc/article/6463933cfd89780001772ad3)
+[如何讓 ChatGPT 產出更精確的答案 — 淺談 Prompt Engineering (二)｜方格子 vocus](https://vocus.cc/article/64639456fd897800017741e2)
+
+#### Glitch Prompt/Prompt Injection
+
+[GPT3: An Even Bigger Language Model - Computerphile - YouTube](https://www.youtube.com/watch?v=_8yVOC4ciXc)
+[ChatGPT with Rob Miles - Computerphile - YouTube](https://www.youtube.com/watch?v=viJt_DXTfwA)
+[Glitch Tokens - Computerphile - YouTube](https://www.youtube.com/watch?v=WO2X3oZEJOA)
+
+[Why Prompt Injection Is a Threat to Large Language Models](https://www.itprotoday.com/software-development-techniques/why-prompt-injection-is-a-threat-to-large-language-models)
+[Hackers Uncovered AI Chatbots’ Weaknesses. Here’s What They Found.](https://www.itprotoday.com/artificial-intelligence/hackers-competed-uncover-ai-chatbots-weaknesses-here-s-what-they-found) 2024-04 many old hack don't work anymore
+
+[Forget Deepfakes or Phishing: Prompt Injection is GenAI's Biggest Problem](https://www.darkreading.com/cyber-risk/forget-deepfakes-or-phishing-prompt-injection-is-genai-s-biggest-problem)
+[AI Chatbots Ditch Guardrails After 'Deceptive Delight' Cocktail](https://www.darkreading.com/vulnerabilities-threats/ai-chatbots-ditch-guardrails-deceptive-delight-cocktail)
+
+### Fine-tuning LLM
+
+[Prompt Engineering, RAG, and Fine-tuning: Benefits and When to Use - YouTube](https://www.youtube.com/watch?v=YVWxbHJakgg) ❗!important
+[RAG vs Fine Tuning - YouTube](https://www.youtube.com/watch?v=R2_Lx0pZGxk)
+[When to Go Out and When to Stay In: RAG vs. Fine-tuning - KDnuggets](https://www.kdnuggets.com/go-out-stay-in-rag-vs-fine-tuning)
+
+[Everything you need to know about Fine-tuning and Merging LLMs: Maxime Labonne - YouTube](https://www.youtube.com/watch?v=uLrOI65XbDw)
+[LoRA - Explained! - YouTube](https://www.youtube.com/watch?v=Bq9zqTJDsjg)
+[LLM (Parameter Efficient) Fine Tuning - Explained! - YouTube](https://www.youtube.com/watch?v=HcVtpLAGMXo)
+[LoRA & QLoRA Fine-tuning Explained In-Depth - YouTube](https://www.youtube.com/watch?v=t1caDsMzWBk)
+
+[The Best Strategies for Fine-Tuning Large Language Models - KDnuggets](https://www.kdnuggets.com/the-best-strategies-for-fine-tuning-large-language-models)
+[Top 5 Tips for Fine-Tuning LLMs - KDnuggets](https://www.kdnuggets.com/top-5-tips-fine-tuning-llms)
+[How to Fine-Tune BERT for Sentiment Analysis with Hugging Face Transformers - KDnuggets](https://www.kdnuggets.com/how-to-fine-tune-bert-sentiment-analysis-hugging-face-transformers)
+[Top Five Tips and Tricks for LLM Fine-Tuning and Inference](https://www.intel.com/content/www/us/en/developer/articles/technical/top-tricks-for-llm-fine-tuning-and-inference.html)
+[Fine-tune Embedding models for Retrieval Augmented Generation (RAG)](https://www.philschmid.de/fine-tune-embedding-model-for-rag)
+
+[Finetuning LLM - YouTube](https://www.youtube.com/playlist?list=PLZoTAELRMXVN9VbAx5I2VvloTtYmlApe3) Krish Naik
+[EASIEST Way to Fine-Tune a LLM and Use It With Ollama - YouTube](https://www.youtube.com/watch?v=pxhkDaKzBaY)
+[EASIEST Way to Fine-Tune LLAMA-3.2 and Run it in Ollama - YouTube](https://www.youtube.com/watch?v=YZW3pkIR-YE)
+
+[[2406.17642] Banishing LLM Hallucinations Requires Rethinking Generalization](https://arxiv.org/abs/2406.17642)
+[Introducing Lamini Memory Tuning: 95% LLM Accuracy, 10x Fewer Hallucinations | Lamini - Enterprise LLM Platform](https://www.lamini.ai/blog/lamini-memory-tuning)
+[Lamini AI's Memory Tuning Achieves 95% Accuracy and Reduces Hallucinations by 90% in Large Language Models - MarkTechPost](https://www.marktechpost.com/2024/06/17/lamini-ais-memory-tuning-achieves-95-accuracy-and-reduces-hallucinations-by-90-in-large-language-models/)
+
+[Fine-Tuning GPT-4o - KDnuggets](https://www.kdnuggets.com/fine-tuning-gpt-4o)
+
+#### Supervised Finetuning (SFT)/Instruction Tuning
+
+[mlabonne/llm-datasets: High-quality datasets, tools, and concepts for LLM fine-tuning.](https://github.com/mlabonne/llm-datasets)
+
+[Maxime Labonne - Fine-tune Llama 3.1 Ultra-Efficiently with Unsloth](https://mlabonne.github.io/blog/posts/2024-07-29_Finetune_Llama31.html)
+[【LLM 10大觀念-3】快速建造自己個instruction tuning dataset | by 倢愷 Oscar | Medium](https://axk51013.medium.com/llm-10%E5%A4%A7%E8%A7%80%E5%BF%B5-3-%E5%BF%AB%E9%80%9F%E5%BB%BA%E9%80%A0%E8%87%AA%E5%B7%B1%E5%80%8Binstruction-tuning-dataset-ab391eba61e5)
+
+#### Reinforcement Learning with Human Feedback (RLHF)
+
+[[1909.08593] Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593)
+[Anthropic/hh-rlhf · Datasets at Hugging Face](https://huggingface.co/datasets/Anthropic/hh-rlhf/viewer/default/train)
+
+[Maxime Labonne - Fine-tune Mistral-7b with Direct Preference Optimization](https://mlabonne.github.io/blog/posts/Fine_tune_Mistral_7b_with_DPO.html)
+
+#### Unsloth
+
+> better than LoRa
+> finetuning as a service?
+
+[Unsloth AI | Open Source Fine-Tuning for LLMs](https://unsloth.ai/)
+[unslothai/unsloth: Finetune Llama 3.2, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory](https://github.com/unslothai/unsloth)
+
+[Fine-tuning Llama 3.2 Using Unsloth - KDnuggets](https://www.kdnuggets.com/fine-tuning-llama-using-unsloth)
+[Windows下中文微调Llama3，单卡8G显存只需5分钟，模型可接入GPT4All、Ollama，实现CPU推理聊天，附Colab一键训练脚本。 - YouTube](https://www.youtube.com/watch?v=LPmI-Ok5fUc)
+[Unsloth, what's the catch? Seems too good to be true. : r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1ar7e4m/unsloth_whats_the_catch_seems_too_good_to_be_true/)
+
+#### Low-Rank Adaptation (LoRA)
+
+> Parameter-Efficient Fine-Tuning (PEFT): updates a small subset of a model's parameters while keeping the rest frozen
+
+[[2106.09685] LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
+[microsoft/LoRA: Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"](https://github.com/microsoft/LoRA)
+[[2305.14314] QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
+
+[Efficiently fine-tune Llama 3 with PyTorch FSDP and Q-Lora](https://www.philschmid.de/fsdp-qlora-llama3)
+
+[Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms)
+[Understanding LLM Fine Tuning with LoRA (Low-Rank Adaptation)](https://www.run.ai/guides/generative-ai/lora-fine-tuning)
+[【LLM專欄】All about Lora. LLM最重要技術之一，一篇文章深入淺出Lora的方方面面 | by 倢愷 Oscar | Medium](https://axk51013.medium.com/llm%E5%B0%88%E6%AC%84-all-about-lora-5bc7e447c234)
+[LoRA是什么？| 5分钟讲清楚LoRA的工作原理 - YouTube](https://www.youtube.com/watch?v=jDkV_Ror5Ds)
+
+[huggingface/peft: 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.](https://github.com/huggingface/peft)
+[mlx-examples/llms/mlx_lm/LORA.md at main · ml-explore/mlx-examples · GitHub](https://github.com/ml-explore/mlx-examples/blob/main/llms/mlx_lm/LORA.md)
+
+### Quantization
+
+[Maxime Labonne - Introduction to Weight Quantization](https://mlabonne.github.io/blog/posts/Introduction_to_Weight_Quantization.html) ❗!important
+
+GGUF: GPT-Generated Unified Format
+QAT: Quantization Aware Training
+GPTQ: Generalized Post-Training Quantization
+AWQ: Activation-Aware Weight Quantization
+
+[LLM Quantization | GPTQ | QAT | AWQ | GGUF | GGML | PTQ | by Siddharth vij | Medium](https://medium.com/@siddharth.vij10/llm-quantization-gptq-qat-awq-gguf-ggml-ptq-2e172cd1b3b5)
+[大语言模型量化方法对比：GPTQ、GGUF、AWQ-腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/2361027)
+[LLM Quantization: Quantize Model with GPTQ, AWQ and Bitsandbytes | Towards AI](https://pub.towardsai.net/llm-quantisation-quantise-hugging-face-model-with-gptq-awq-and-bitsandbytes-a4ad45cd8b48)
+[Exploring Bits-and-Bytes, AWQ, GPTQ, EXL2, and GGUF Quantization Techniques with Practical Examples | by kirouane Ayoub | GoPenAI](https://blog.gopenai.com/exploring-bits-and-bytes-awq-gptq-exl2-and-gguf-quantization-techniques-with-practical-examples-74d590063d34)
 
 ### Transformers
 
 > replace the convolution layers in CNN with pairwise attention layers
 
-[Transformer (machine learning model) - Wikiwand](<https://omni.wikiwand.com/en/Transformer%20(machine%20learning%20model)>)
+[Transformer (machine learning model) - Wikiwand](<https://www.wikiwand.com/en/Transformer%20(machine%20learning%20model)>)
 [Transformers — transformers documentation](https://huggingface.co/transformers/)
 [Write With Transformer](https://transformer.huggingface.co/)
 [[1706.03762] Attention Is All You Need](https://arxiv.org/abs/1706.03762) Google paper in 2017
@@ -553,6 +815,8 @@ Transformers (formerly known as `pytorch-transformers` and `pytorch-pretrained-b
 [Mamba: Linear-Time Sequence Modeling with Selective State Spaces | by 鴕鳥 CHIH-HSUAN LI | Medium](https://medium.com/@chs.li.work/mamba-linear-time-sequence-modeling-with-selective-state-spaces-2978842ca461)
 [Attention is not Exactly What you Need. Introducing Mamba!](https://www.linkedin.com/pulse/attention-exactly-what-you-need-introducing-mamba-yash-sharma-anuof)
 
+[Zamba 2 is a Hybrid Mamba + Transformers Model (Fully Tested) - YouTube](https://www.youtube.com/watch?v=WNWRMbwh0xM)
+
 ### Vector Embeddings
 
 [[database#Vector Database]]
@@ -569,14 +833,39 @@ Transformers (formerly known as `pytorch-transformers` and `pytorch-pretrained-b
 
 ### Retrieval Augmented Generation (RAG)
 
-[Agentic RAG vs. Traditional RAG: Which Improves AI Capabilities More?](https://www.itprotoday.com/ai-machine-learning/agentic-rag-vs-traditional-rag-which-enhances-ai-capabilities-more-)
-
+[[2005.11401] Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) ❗!important
 [Retrieval Augmented Generation (RAG) | Prompt Engineering Guide](https://www.promptingguide.ai/techniques/rag)
 [Retrieval Augmented Generation (RAG) for LLMs | Prompt Engineering Guide](https://www.promptingguide.ai/research/rag)
 
-[[2005.11401] Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
+![](./_assets/generative-ai/Retrieval-Augment-Generation-Architecture.webp)
 
-[How To Improve the Performance of a RAG Model - KDnuggets](https://www.kdnuggets.com/how-to-improve-the-performance-of-a-rag-model)
+[How RAG Makes LLMs Smarter | Exxact Blog](https://www.exxactcorp.com/blog/deep-learning/how-retrieval-augment-generation-makes-llms-smarter-than-before)
+[When to Finetune vs Use RAG for LLMs | Exxact Blog](https://www.exxactcorp.com/blog/deep-learning/finetune-vs-use-rag-for-llms)
+[Understanding RAG Part I: Why It's Needed - MachineLearningMastery.com](https://machinelearningmastery.com/understanding-rag-part-i-why-its-needed/)
+[Understanding RAG Part II: How Classic RAG Works - MachineLearningMastery.com](https://machinelearningmastery.com/)
+
+[Optimizing RAG with Embedding Tuning - KDnuggets](https://www.kdnuggets.com/optimizing-rag-with-embedding-tuning)
+[How to Implement a Basic Reranking System in RAG - KDnuggets](https://www.kdnuggets.com/how-to-implement-a-basic-reranking-system-in-rag)
+
+[RAG from Scratch without any Frameworks - YouTube](https://www.youtube.com/watch?v=bmduzd1oY7U)
+[How To Improve the Performance of a RAG Model | Exxact Blog](https://www.exxactcorp.com/blog/deep-learning/how-to-improve-the-performance-of-a-rag-model)
+[From RAG to Knowledge Assistants - YouTube](https://www.youtube.com/watch?v=F3wzKiJcX1E)
+
+[Build high-performance RAG using just PostgreSQL (Full Tutorial) - YouTube](https://www.youtube.com/watch?v=hAdEuDBN57g) with pgvectorscale
+[daveebbelaar/pgvectorscale-rag-solution at setup](https://github.com/daveebbelaar/pgvectorscale-rag-solution/tree/setup)
+understanding-rag-part-ii-how-classic-rag-works/)
+
+[LightRAG](https://lightrag.github.io/)
+[HKUDS/LightRAG: "LightRAG: Simple and Fast Retrieval-Augmented Generation"](https://github.com/HKUDS/LightRAG)
+[Local LightRAG: A GraphRAG Alternative but Fully Local with Ollama - YouTube](https://www.youtube.com/watch?v=g21royNJ4fw)
+[LightRAG: A More Efficient Solution than GraphRAG for RAG Systems? - YouTube](https://www.youtube.com/watch?v=oageL-1I0GE)
+[LightRAG - A simple and fast RAG that beats GraphRAG? (paper explained) - YouTube](https://www.youtube.com/watch?v=5EmRZcJIfnw)
+
+[Welcome - GraphRAG](https://microsoft.github.io/graphrag/)
+[microsoft/graphrag: A modular graph-based Retrieval-Augmented Generation (RAG) system](https://github.com/microsoft/graphrag)
+[Graph RAG: Improving RAG with Knowledge Graphs - YouTube](https://www.youtube.com/watch?v=vX3A96_F3FU)
+[Local GraphRAG with LLaMa 3.1 - LangChain, Ollama & Neo4j - YouTube](https://www.youtube.com/watch?v=nkbyD4joa0A)
+[Building a Graph RAG System: A Step-by-Step Approach - MachineLearningMastery.com](https://machinelearningmastery.com/building-graph-rag-system-step-by-step-approach/)
 
 [infiniflow/ragflow: RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.](https://github.com/infiniflow/ragflow) Raptor + Self-RAG
 [RAGFlow：知识库终极引擎 - YouTube](https://www.youtube.com/watch?v=9x-9-r2ifig)
@@ -621,19 +910,89 @@ Transformers (formerly known as `pytorch-transformers` and `pytorch-pretrained-b
 [RAG with Open WebUI-Guide, Tips, and Demo - YouTube](https://www.youtube.com/watch?v=W0nAZiFMnYw)
 [Open WebUI, Ollama, GPT-4o, RAG, Tool Use, Agent-Mastering Building Your Own AI - YouTube](https://www.youtube.com/live/B6gG729hjAA)
 
-### Agent
+### Agentic System
+
+> LangGraph of [[#LangChain]]
+
+[5 No-Cost Learning Resources for LLM Agents - KDnuggets](https://www.kdnuggets.com/5-no-cost-learning-resources-for-llm-agents)
+[Why Agent Frameworks Will Fail (and what to use instead) - YouTube](https://www.youtube.com/watch?v=KY8n96Erp5Q)
+Use pipeline instead of agents
+
+[AutoGPT](https://agpt.co/)
+[Significant-Gravitas/AutoGPT: AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.](https://github.com/Significant-Gravitas/AutoGPT)
+[AutoGPT教學懶人包｜下載、安裝方式及實測　自主分析功能更強大](https://www.hk01.com/%E5%AF%A6%E7%94%A8%E6%95%99%E5%AD%B8/889954/)
+
+[KaibanJS](https://www.kaibanjs.com/)
 
 [“Wait, this Agent can Scrape ANYTHING?!” - Build universal web scraping agent - YouTube](https://www.youtube.com/watch?v=dSX5eoD4-u4)
 
+[AI Agent integrations | Workflow automation with n8n](https://n8n.io/integrations/agent/)
+[AI Agents: From Theory to Practice (+Free Templates) – n8n Blog](https://blog.n8n.io/ai-agents/)
+[AI 狂潮下的求生指南：為何只懂 ChatGPT 讓你離失業更近一步，n8n AI Agent 才是你的救命稻草 - YouTube](https://www.youtube.com/watch?v=rgU0mbVpg0k)
+[AI Agents Masterclass - YouTube](https://www.youtube.com/playlist?list=PLyrg3m7Ei-MpsdEA6eKN1k2gJpuhllNTi) Cole Medin
+[coleam00/ai-agents-masterclass: Follow along with my AI Agents Masterclass videos! All of the code I create and use in this series on YouTube will be here for you to use and even build on top of!](https://github.com/coleam00/ai-agents-masterclass)
+
+[我让六个AI合租，居然出了个海王？ - YouTube](https://www.youtube.com/watch?v=n_ItIpBB5zM)
+
+#### Transformers Agents
+
+[Agents & Tools](https://huggingface.co/docs/transformers/en/main_classes/agent)
+[License to Call: Introducing Transformers Agents 2.0](https://huggingface.co/blog/agents)
+
+[Introducing Transformers Agents 2.0 | by Amanatullah | Medium](https://medium.com/@amanatulla1606/introducing-transformers-agents-2-0-14a5601ade0b)
+[🤗 Hugging Face Transformers Agent | LangChain comparisons - YouTube](https://www.youtube.com/watch?v=rn4eIxuxx2g)
+
+#### Semantic Router
+
+[Semantic Router | Aurelio AI](https://www.aurelio.ai/semantic-router)
+[aurelio-labs/semantic-router: Superfast AI decision making and intelligent processing of multi-modal data.](https://github.com/aurelio-labs/semantic-router)
+
+#### Agentic RAG
+
+[Agentic RAG vs. Traditional RAG: Which Improves AI Capabilities More?](https://www.itprotoday.com/ai-machine-learning/agentic-rag-vs-traditional-rag-which-enhances-ai-capabilities-more-)
+[Agentic RAG: Make Chatting with Docs Smarter - YouTube](https://www.youtube.com/watch?v=QQAkXHRJcZg) with Transformer Agents
+
+[How to Implement Agentic RAG Using LangChain: Part 1 - KDnuggets](https://www.kdnuggets.com/how-to-implement-agentic-rag-using-langchain-part-1)
+[How to Implement Agentic RAG Using LangChain: Part 2 - KDnuggets](https://www.kdnuggets.com/implement-agentic-rag-using-langchain-part-2)
+
+### fabric
+
+[danielmiessler/fabric: fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.](https://github.com/danielmiessler/fabric)
+
+[Hack your life (with demos) and get Superpowers! - YouTube](https://www.youtube.com/watch?v=vF-MQmVxnCs)
+
+### Translation
+
+[How Large Language Models Mimic the Human Translation Process - Slator](https://slator.com/how-large-language-models-mimic-human-translation-process/)
+[Google Explores How Large Language Models Actually Translate - Slator](https://slator.com/google-explores-how-large-language-models-actually-translate/)
+
 ### LangChain
+
+[Introduction | 🦜️🔗 LangChain](https://python.langchain.com/docs/introduction/)
+[Conceptual guide | 🦜️🔗 LangChain](https://python.langchain.com/docs/concepts/)
+[langchain-ai/langchain: 🦜🔗 Build context-aware reasoning applications](https://github.com/langchain-ai/langchain)
+
+[LangGraph](https://langchain-ai.github.io/langgraph/)
+[langchain-ai/langgraph: Build resilient language agents as graphs.](https://github.com/langchain-ai/langgraph)
 
 [LangChain: The Trendiest Web Framework of 2023, Thanks to AI - The New Stack](https://thenewstack.io/langchain-the-trendiest-web-framework-of-2023-thanks-to-ai/)
 [Unlocking the potential of large language models: Elastic's first code contribution to LangChain | Elastic Blog](https://www.elastic.co/blog/large-language-models-elastic-code-langchain)
-[LangChain: The Trendiest Web Framework of 2023, Thanks to AI - The New Stack](https://thenewstack.io/langchain-the-trendiest-web-framework-of-2023-thanks-to-ai/)
+[The Problem With LangChain | Max Woolf's Blog](https://minimaxir.com/2023/07/langchain-problem/)
+[LangChain 101 Course (updated 2024 with LCEL). LangChain 101 course sessions. All code… | by Ivan Reznikov | Medium | Medium](https://medium.com/@ivanreznikov/langchain-101-course-updated-668f7b41d6cb)
 
+[LangChain - YouTube](https://www.youtube.com/playlist?list=PLyrg3m7Ei-MpiX11VkL5NzH4cDoRtuxno) Cole Medin
+[Fresh And Updated Langchain Series- Understanding Langchain Ecosystem - YouTube](https://www.youtube.com/watch?v=KmQOlg5YfU0) Krish Naik
+
+Streamlit
 [LangChain tutorial #1: Build an LLM-powered app in 18 lines of code](https://blog.streamlit.io/langchain-tutorial-1-build-an-llm-powered-app-in-18-lines-of-code/)
+[LangChain tutorial #2: Build a blog outline generator app in 25 lines of code](https://blog.streamlit.io/langchain-tutorial-2-build-a-blog-outline-generator-app-in-25-lines-of-code/)
+[LangChain tutorial #3: Build a Text Summarization app](https://blog.streamlit.io/langchain-tutorial-3-build-a-text-summarization-app/)
+[LangChain tutorial #4: Build an Ask the Doc app](https://blog.streamlit.io/langchain-tutorial-4-build-an-ask-the-doc-app/)
+[LangChain tutorial #5: Build an Ask the Data app](https://blog.streamlit.io/langchain-tutorial-5-build-an-ask-the-data-app/)
+[How in-app feedback can increase your chatbot’s performance](https://blog.streamlit.io/how-in-app-feedback-can-increase-your-chatbots-performance/)
+[Chat with pandas DataFrames using LLMs](https://blog.streamlit.io/chat-with-pandas-dataframes-using-llms/)
+
 [Understanding the Langchain Framework | by Mehul Gupta | Data Science in your pocket | Sep, 2023 | Medium](https://medium.com/data-science-in-your-pocket/understanding-the-langchain-framework-2bd57d177dbe)
-[LangChain 101 Course (updated). LangChain 101 course sessions. All code… | by Ivan Reznikov | Oct, 2023 | Medium](https://medium.com/@ivanreznikov/langchain-101-course-updated-668f7b41d6cb)
 [Breaking the Language Model Barriers with LangChain 🦜️🔗 | by Jayita Bhattacharyya | May, 2023 | Medium](https://itsjb13.medium.com/breaking-the-language-model-barriers-with-langchain-%EF%B8%8F-4976f450742)
 
 [LangChain + Vectara: better together](https://blog.langchain.dev/langchain-vectara-better-together/)
@@ -641,13 +1000,26 @@ Transformers (formerly known as `pytorch-transformers` and `pytorch-pretrained-b
 [LangChain is the Android to OpenAI’s iOS](https://analyticsindiamag.com/langchain-is-the-android-to-openais-ios/)
 [Unleashing the Power of LLM for Enterprise Applications with LangChain](https://analyticsindiamag.com/unleashing-the-power-of-llm-for-enterprise-applications-with-langchain/)
 
+[Langchain with fastapi stream example · GitHub](https://gist.github.com/ninely/88485b2e265d852d3feb8bd115065b1a)
+
 [Hugging Face + Langchain in 5 mins | Access 200k+ FREE AI models for your AI apps - YouTube](https://www.youtube.com/watch?v=_j7JEDWuqLE)
 [Integration Tutorial: How to use LangChain with Apify scrapers - YouTube](https://www.youtube.com/watch?v=zcfeiVdiGJg)
 
-### Translation
+### LlamaIndex
 
-[How Large Language Models Mimic the Human Translation Process - Slator](https://slator.com/how-large-language-models-mimic-human-translation-process/)
-[Google Explores How Large Language Models Actually Translate - Slator](https://slator.com/google-explores-how-large-language-models-actually-translate/)
+[LlamaIndex, Data Framework for LLM Applications](https://www.llamaindex.ai/)
+[LlamaIndex - LlamaIndex](https://docs.llamaindex.ai/en/stable/)
+[run-llama/llama_index: LlamaIndex is a data framework for your LLM applications](https://github.com/run-llama/llama_index) Optimized for building retrieval augmented generation
+
+[Llama Hub](https://llamahub.ai/)
+
+[chatbot - Differences between Langchain & LlamaIndex - Stack Overflow](https://stackoverflow.com/questions/76990736/differences-between-langchain-llamaindex)
+[LangChain vs LlamaIndex: A Detailed Comparison | DataCamp](https://www.datacamp.com/blog/langchain-vs-llamaindex)
+[LangChain vs. LlamaIndex. Main differences - Addepto](https://addepto.com/blog/langchain-vs-llamaindex-main-differences/)
+[LangChain vs LlamaIndex: Choose the Best Framework for Your AI Applications](https://myscale.com/blog/llamaindex-vs-langchain-detailed-comparison/)
+[Let's talk about LlamaIndex and LangChain | Superwise ML Observability](https://superwise.ai/blog/lets-talk-about-llamaindex-and-langchain/)
+[LlamaIndex vs LangChain - Choose the best framework](https://datasciencedojo.com/blog/llamaindex-vs-langchain/)
+[LangChain vs. LlamaIndex: A Comprehensive Comparison for Retrieval-Augmented Generation (RAG) | by Tamanna | Oct, 2024 | Medium](https://medium.com/@tam.tamanna18/langchain-vs-llamaindex-a-comprehensive-comparison-for-retrieval-augmented-generation-rag-0adc119363fe)
 
 ### Hyena
 
@@ -719,6 +1091,9 @@ free, accept larger amounts of tokens (100k vs 8k for GPT4)
 [The Easiest Way of Running Llama 3 Locally - KDnuggets](https://www.kdnuggets.com/easiest-way-of-running-llama-3-locally) `Ollama`
 [Using Llama 3.2 Locally - KDnuggets](https://www.kdnuggets.com/using-llama-3-2-locally) `Msty`
 [Llama, Llama, Llama: 3 Simple Steps to Local RAG with Your Content - KDnuggets](https://www.kdnuggets.com/3-simple-steps-to-local-rag-with-your-content) `Ollama`+`LlamaIndex`
+[Use (Almost) Any Language Model Locally with Ollama and Hugging Face Hub - KDnuggets](https://www.kdnuggets.com/use-almost-any-language-model-locally-with-ollama-and-hugging-face-hub)
+[Build a chatbot with custom data sources, powered by LlamaIndex](https://blog.streamlit.io/build-a-chatbot-with-custom-data-sources-powered-by-llamaindex/)
+[EASILY Train Llama 3 and Upload to Ollama.com (Must Know) - YouTube](https://www.youtube.com/watch?v=V6LDl3Vjq-A)
 
 [Meta’s LLaMA Leaked to the Public, Thanks To 4chan](https://analyticsindiamag.com/metas-llama-leaked-to-the-public-thanks-to-4chan/)
 [Leaked LLaMA Unveils the Power of Open Source](https://analyticsindiamag.com/leaked-llama-unveils-the-power-of-open-source/)
@@ -729,9 +1104,6 @@ free, accept larger amounts of tokens (100k vs 8k for GPT4)
 
 [Ollama](https://ollama.com/)
 [Msty - Using AI Models made Simple and Easy](https://msty.app/)
-[LlamaIndex, Data Framework for LLM Applications](https://www.llamaindex.ai/)
-
-[jerryjliu/llama_index: LlamaIndex (GPT Index) is a data framework for your LLM applications](https://github.com/jerryjliu/llama_index)
 
 [[2312.06674] Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations](https://arxiv.org/abs/2312.06674)
 
@@ -768,9 +1140,6 @@ free, accept larger amounts of tokens (100k vs 8k for GPT4)
 [An introduction to Hugging Face transformers and pipelines](https://blog.apify.com/how-to-use-hugging-face-transformers-pipelines/)
 
 ### GPT
-
-[State of GPT | BRK216HFS - YouTube](https://www.youtube.com/watch?v=bZQun8Y4L2A)
-[State of GPT: OpenAI 大神 Andrej Karpathy 揭秘大模型原理和训练全过程 - 华尔街见闻](https://wallstreetcn.com/articles/3689905)
 
 [GPT-4 vs. GPT-4o vs. GPT-4o Mini: What's the Difference?](https://www.makeuseof.com/gpt-4-vs-gpt-4-turbo-vs-gpt-4o-whats-the-difference/)
 
@@ -817,6 +1186,8 @@ ChatGPT was based on GPT4
 [Significant-Gravitas/Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous.](https://github.com/Significant-Gravitas/Auto-GPT)
 
 [What is Auto-GPT? Everything to know about the next powerful AI tool | ZDNET](https://www.zdnet.com/article/what-is-auto-gpt-everything-to-know-about-the-next-powerful-ai-tool/)
+[Install AutoGPT Locally 🤖 Step-By-Step Tutorial - YouTube](https://www.youtube.com/watch?v=m6TwUf0seS8)
+[AutoGPT Tutorial - More Exciting Than ChatGPT - YouTube](https://www.youtube.com/watch?v=FeIIaJUN-4A)
 
 [AGI 新纪元：微软 JARVIS 与 Auto-GPT 揭秘，未来智能之门已开 | 回到 Axton - YouTube](https://www.youtube.com/watch?v=-zNSMGScT-U)
 
@@ -837,48 +1208,6 @@ ChatGPT was based on GPT4
 
 [EleutherAI](https://www.eleuther.ai/)
 [EleutherAI](https://github.com/orgs/EleutherAI/repositories?type=source)
-
-### Prompt Engineering
-
-[[2205.11916] Large Language Models are Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916) prompts like "Let's think step by step" (chain of thought prompts) is useful
-
-[dair-ai/Prompt-Engineering-Guide: 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
-[The Only Prompting Framework for Every Use - KDnuggets](https://www.kdnuggets.com/the-only-prompting-framework-for-every-use)
-[The Best 5 AI Prompt Generators For Any AI Tool](https://www.makeuseof.com/best-ai-prompt-generators-for-any-ai-tool/)
-[Try This AI Prompting Formula and I Guarantee You'll Love the Results](https://www.makeuseof.com/ai-prompting-formula-guaranteed-results/)
-[Prompt Engineering - YouTube](https://www.youtube.com/@engineerprompt)
-
-[swyxio/ai-notes: notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under the /Resources folder.](https://github.com/swyxio/ai-notes#top-prompt-engineering-reads)
-[microsoft/prompt-engine: A library for helping developers craft prompts for Large Language Models](https://github.com/microsoft/prompt-engine)
-
-[Prompt Engineering 101: Introduction and resources - AI, software, tech, and people. Not in that order. By X](https://amatriain.net/blog/PromptEngineering)
-[Prompt Engineering 201: Advanced methods and toolkits - AI, software, tech, and people. Not in that order. By X](https://amatriain.net/blog/prompt201)
-
-[This Chrome Extension Makes ChatGPT Prompting Easy](https://www.makeuseof.com/aiprm-chrome-extension-makes-chatgpt-prompting-easy/)
-[【必看】解放實力！ChatGPT 全能方法＝全知的神 詠唱技巧 論文 功課 報告 文案 - YouTube](https://www.youtube.com/watch?v=oF74vvgq4Kc)
-[The Secrets To Making LLMs More Reliable - YouTube](https://www.youtube.com/watch?v=O5rmwjY2lbA) tell it "don't hallucinate"
-[lencx/ChatGPT: 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT)
-[f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts)
-[All ChatGPT Prompts in 1 Article. Create Your Perfect ChatGPT Prompt | by Arslan Mirza | Medium | Level Up Coding](https://levelup.gitconnected.com/all-chatgpt-prompts-in-1-article-2efbacdfa24c)
-[不知道怎麼獲得 ChatGPT 更精準、更詳細的回答嗎？35 個萬用公式整理給你 - 電腦王阿達](https://www.kocpc.com.tw/archives/494045)
-
-[prompt-engineering-note — 提示工程笔记](https://islinxu.github.io/prompt-engineering-note/)
-[Prompt engineering for AI: what is prompt engineering and how to get good results from AI engines - DEV Community](https://dev.to/github/prompt-engineering-for-ai-what-is-prompt-engineering-and-how-to-get-good-results-from-ai-engines-5ch6)
-[微軟官方親自出教學指南，介紹 Prompt 工程中的一些進階玩法 | T 客邦](https://www.techbang.com/posts/106279-microsoft-advanced-promp)
-[我的 ChatGPT 怎麼用總是比別人笨？11 個 GPT 提示詞技巧，最佳化你的問題 | T 客邦](https://www.techbang.com/posts/105403-11-tips-to-optimize-chatgpt-prompt-words-so-you-can-get)
-[Prompt engineering techniques with Azure OpenAI - Azure OpenAI Service | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering)
-[Best Practices for Prompt Engineering | by Dmytro Nikolaiev (Dimid) | Towards Data Science](https://towardsdatascience.com/summarising-best-practices-for-prompt-engineering-c5e86c483af4)
-[如何讓 ChatGPT 產出更精確的答案 — 淺談 Prompt Engineering (一)｜方格子 vocus](https://vocus.cc/article/6463933cfd89780001772ad3)
-[如何讓 ChatGPT 產出更精確的答案 — 淺談 Prompt Engineering (二)｜方格子 vocus](https://vocus.cc/article/64639456fd897800017741e2)
-
-#### Glitch Prompt/Prompt Injection
-
-[GPT3: An Even Bigger Language Model - Computerphile - YouTube](https://www.youtube.com/watch?v=_8yVOC4ciXc)
-[ChatGPT with Rob Miles - Computerphile - YouTube](https://www.youtube.com/watch?v=viJt_DXTfwA)
-[Glitch Tokens - Computerphile - YouTube](https://www.youtube.com/watch?v=WO2X3oZEJOA)
-
-[Why Prompt Injection Is a Threat to Large Language Models](https://www.itprotoday.com/software-development/why-prompt-injection-threat-large-language-models)
-[Hackers Uncovered AI Chatbots’ Weaknesses. Here’s What They Found.](https://www.itprotoday.com/artificial-intelligence/hackers-competed-uncover-ai-chatbots-weaknesses-here-s-what-they-found) 2024-04 many old hack don't work anymore
 
 ## AI Summary
 

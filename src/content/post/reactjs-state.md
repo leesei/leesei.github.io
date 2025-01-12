@@ -2,7 +2,7 @@
 title: React.js
 description: React.js state
 created: 2023-03-21
-updated: 2024-07-11
+updated: 2025-01-09
 tags:
   - frontend
   - javascript
@@ -133,13 +133,6 @@ export const StoreProvider = (props) => {
 [Redux-Free State Management with Jotai | by Nathan Sebhastian | Bits and Pieces](https://blog.bitsrc.io/redux-free-state-management-with-jotai-2c8f34a6a4a)
 [Jotai vs. Recoil: What are the differences? - LogRocket Blog](https://blog.logrocket.com/jotai-vs-recoil-what-are-the-differences/)
 
-## signia
-
-> library-agnostic
-
-[signia](https://signia.tldraw.dev/)
-[tldraw/signia: Reactive signals that scale, by tldraw.](https://github.com/tldraw/signia)
-
 ## Zustand
 
 > like Redux; small footprint
@@ -147,6 +140,25 @@ export const StoreProvider = (props) => {
 [Zustand](https://zustand-demo.pmnd.rs/)
 [Zustand Documentation](https://docs.pmnd.rs/zustand/)
 [Working with Zustand | TkDodo's blog](https://tkdodo.eu/blog/working-with-zustand)
+
+[Why Everyone Loves Zustand - YouTube](https://www.youtube.com/watch?v=14B85quRQhw)
+
+## xstate/store
+
+> library-agnostic
+> fixing Zustand's problems
+
+[@xstate/store | Stately](https://stately.ai/docs/xstate-store)
+
+[Introducing XState Store | TkDodo's blog](https://tkdodo.eu/blog/introducing-x-state-store)
+[I might have a new favorite state manager... - YouTube](https://www.youtube.com/watch?v=Pmieyp75SrA)
+
+## signia
+
+> library-agnostic
+
+[signia](https://signia.tldraw.dev/)
+[tldraw/signia: Reactive signals that scale, by tldraw.](https://github.com/tldraw/signia)
 
 ## Nano Stores
 

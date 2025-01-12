@@ -2,17 +2,19 @@
 title: Network File Systems
 description: ""
 created: 2015-05-20
-updated: 2024-10-01
+updated: 2025-01-09
 tags:
   - file-system
   - linux
   - storage
 ---
 
+> [[cloud-backup#Private Cloud Solution]]
+
 [Key Considerations for Planning a PC Storage Refresh](https://www.itprotoday.com/high-speed-storage/how-i-planned-my-storage-hardware-refresh)
 
-[Network File System - Wikiwand](https://omni.wikiwand.com/en/Network_File_System)
-[Server Message Block - Wikiwand](https://omni.wikiwand.com/en/Server_Message_Block)
+[Network File System - Wikiwand](https://www.wikiwand.com/en/Network_File_System)
+[Server Message Block - Wikiwand](https://www.wikiwand.com/en/Server_Message_Block)
 [Chapter 8. Network File System (NFS)](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/Storage_Administration_Guide/ch-nfs.html)
 
 [Network share: Performance differences between NFS & SMB](https://ferhatakgun.com/network-share-performance-differences-between-nfs-smb/)
@@ -36,24 +38,6 @@ SMB2 > AFP ~ CIFS
 
 [NAS / 路由器 / 網絡相關 - YouTube](https://www.youtube.com/playlist?list=PLXvhiMRRLHkN5LwW18zKryt22UbQza4i3) Mostly for Synology products
 
-## FreeNAS/TrueNAS
-
-[TrueNAS](https://www.truenas.com/)
-
-[FreeNAS is Dead Long Live TrueNAS CORE | ServeTheHome](https://www.servethehome.com/freenas-is-dead-long-live-truenas-core/)
-[TrueNAS Core will soon replace FreeNAS—and we test the beta – Ars Technica](https://arstechnica.com/gadgets/2020/07/an-easy-mode-for-zfs-we-test-the-truenas-core-12-0-beta/amp/)
-
-[Unraid vs TrueNAS - Home Lab Comparison in 2023 - Virtualization Howto](https://www.virtualizationhowto.com/2023/05/unraid-vs-truenas-home-lab-comparison-in-2023/)
-
-[What did you DO?? - The "Jellyfish Fryer" All-SSD Server - YouTube](https://www.youtube.com/watch?v=zeAce9pofvk)
-
-## fnOS
-
-[飞牛私有云 fnOS](https://www.fnnas.com/)
-[全新NAS系统：飞牛fnOS沉浸式体验、相册、影视体验好像有点意思？！全兼容X86平台不挑硬件、黑群外的好选择 - YouTube](https://www.youtube.com/watch?v=dR7BuiJ8IqY)
-[飞牛NAS系统「fnOS」公测版 深度体验 - YouTube](https://www.youtube.com/watch?v=CfsWagvk3mc)
-2
-
 ## Samba/CIFS/Windows Share Folder
 
 [Samba - ArchWiki](https://wiki.archlinux.org/title/Samba)
@@ -73,6 +57,12 @@ sudo systemctl start nmb.service
 
 ```sh
 sudo mount -t cifs -o rw,username=$USER,password=$PWD,uid=$(id -u),forceuid,gid=$(id -g),forcegid \
+    $SAMBA_PATH $TARGET_FOLDER
+
+# credential file
+# username={{user}}
+# password={{password}}
+sudo mount -t cifs -o rw,credentials={{CREDENTIAL_FILE}},uid=$(id -u),forceuid,gid=$(id -g),forcegid \
     $SAMBA_PATH $TARGET_FOLDER
 ```
 

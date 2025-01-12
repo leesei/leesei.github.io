@@ -2,7 +2,7 @@
 title: Computer Graphics (Hardware)
 description: Computer Graphics on the hardware side
 created: 2016-10-18
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - comp/hardware
   - graphics/hardware
@@ -57,11 +57,12 @@ Asianometry
 
 ## Rendering/Compositor
 
-[Immediate mode (computer graphics) - Wikiwand](<https://omni.wikiwand.com/en/Immediate_mode_(computer_graphics)>)
-[Immediate mode GUI - Wikiwand](https://omni.wikiwand.com/en/Immediate_mode_GUI) 🤔incorrect?
+[Immediate mode (computer graphics) - Wikiwand](<https://www.wikiwand.com/en/Immediate_mode_(computer_graphics)>) redraw on every refresh; c.f.: retained mode
+[Immediate mode GUI - Wikiwand](https://www.wikiwand.com/en/Immediate_mode_GUI) 🤔incorrect?
 [About the IMGUI paradigm · ocornut/imgui Wiki](https://github.com/ocornut/imgui/wiki/About-the-IMGUI-paradigm) ❗!important
 [Immediate Mode Model/View/Controller](http://www.johno.se/book/imgui.html)
-[Retained mode - Wikiwand](https://omni.wikiwand.com/en/Retained_mode)
+[Retained mode - Wikiwand](https://www.wikiwand.com/en/Retained_mode)
+[Immediate-Mode Graphical User Interfaces - 2005 - YouTube](https://www.youtube.com/watch?v=Z1qyvQsjK5Y)
 
 [linebender/2d.graphics: Repo for an ideational book on 2D graphics, plus tools to make images](https://github.com/linebender/2d.graphics)
 
@@ -72,6 +73,8 @@ Asianometry
 
 [Intel's Major Overhaul for CPU & GPU Benchmarking | "GPU Busy" & Pipeline Technical Discussion - YouTube](https://www.youtube.com/watch?v=5hAy5V91Hr4)
 
+[手机GPU和PC显卡有何不同？小芯片为何能玩大型游戏？ - YouTube](https://www.youtube.com/watch?v=Raxr-BpJiQs) Tile Based Rendering, Immediate Rendering
+
 ## Font Rendering
 
 [Text layout is a loose hierarchy of segmentation | Raph Levien’s blog](https://raphlinus.github.io/text/2020/10/26/text-layout.html)
@@ -81,10 +84,13 @@ Asianometry
 
 ## Antialiasing/Up-sampling/Up-scaling
 
-[Anti-aliasing - Wikiwand](http://omni.wikiwand.com/en/Anti-aliasing)
-[Spatial anti-aliasing - Wikiwand](http://omni.wikiwand.com/en/Spatial_anti-aliasing)
+[Anti-aliasing - Wikiwand](http://www.wikiwand.com/en/Anti-aliasing)
+[Spatial anti-aliasing - Wikiwand](http://www.wikiwand.com/en/Spatial_anti-aliasing)
 [Glossary:Anti-aliasing (AA) - PCGamingWiki PCGW - bugs, fixes, crashes, mods, guides and improvements for every PC game](<https://www.pcgamingwiki.com/wiki/Glossary:Anti-aliasing_(AA)>)
 [TweakGuides.com - Crysis 3 Tweak Guide](http://www.tweakguides.com/Crysis3_6.html)
+
+[This issue is plaguing modern gaming graphics - YouTube](https://www.youtube.com/watch?v=YEtX_Z7zZSY) TAA make frames blurry
+[Improving Anti-Aliasing: Clarity & Stability - YouTube](https://www.youtube.com/watch?v=LiUvA3cTdhg)
 
 [upscayl/upscayl: 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.](https://github.com/upscayl/upscayl)
 
@@ -98,8 +104,6 @@ SSAA super sample AA, super sample on all pixels
 DLAA Deep learning Super Sampling (nVidia) AA
 DSR Dynamic Super Resolution
 
-[【硬件科普】免费提升画质和帧数？详解 DLSS2.0 的工作原理与作用 - YouTube](https://www.youtube.com/watch?v=Hi5vbf7sdVQ)
-[NVIDIA Killed Their Own Premium Products - Can we tell if DLSS 2.0 is on? - YouTube](https://www.youtube.com/watch?v=_s9EFWjM6bg)
 [Did Nvidia Just Do Us A Favor? - DLDSR Explained - YouTube](https://www.youtube.com/watch?v=BgL8G1XjrMk)
 [免费的性能增强是怎么来的？DLSS/NIS/FSR 技术解析 - YouTube](https://www.youtube.com/watch?v=QN3SAxTSt94)
 
@@ -112,13 +116,12 @@ DSR Dynamic Super Resolution
 [Cyberpunk 2.0 Ray Reconstruction Comparison, DLSS 3.5, & Benchmarks - YouTube](https://www.youtube.com/watch?v=zZVv6WoUl4Y)
 [Cyberpunk 2.0 Ray Reconstruction Comparison, DLSS 3.5, & Benchmarks - YouTube](https://www.youtube.com/watch?v=zZVv6WoUl4Y)
 
-[GDC 2023: Introducing the FidelityFX SDK with new technologies, an early look at FSR 3 + more! - AMD GPUOpen](https://gpuopen.com/gdc-2023-fidelityfx-sdk-fsr3/)
+FSR3 is also a frame generation technology
 [AMD FidelityFX Super Resolution, FSR 測試 / 效能提升 畫質稍減 邊緣重建 | XFastest News](https://news.xfastest.com/amd/96855/amd-fidelityfx-super-resolution-fsr/)
 [What Is AMD's FSR and What Does it Do?](https://www.makeuseof.com/amd-fsr-explained/)
 [AMD FidelityFX Super Resolution Quality Comparison & Benchmarks (FSR) - YouTube](https://www.youtube.com/watch?v=KCzjQ4qP124)
 [AMD Radeon Super Resolution vs. FidelityFX Usability & Image Quality Comparison - YouTube](https://www.youtube.com/watch?v=AgFGI8JFo8g)
 FSR is opt-in by game dev. RSR is a driver feature.
-FSR > RSR
 [AMD FSR Based on Modified Lanczos Upscaler, Can Be Enabled On NVIDIA GPUs Using Control Panel For Similar Results In Games](https://wccftech.com/amd-fsr-based-on-modified-lanczos-upscaler-enabled-on-nvidia-gpus-using-control-panel-in-all-games/)
 
 [FSR 2.0 is the complete reboot AMD's upscaling needed | Digital Trends](https://www.digitaltrends.com/computing/fsr-2-complete-reboot-amd-upscaling-needed/)
@@ -133,6 +136,16 @@ FSR > RSR
 ## Hardware Scheduling
 
 [Faster Gaming for FREE - Hardware GPU Scheduling Explained - YouTube](https://www.youtube.com/watch?v=47VDnHyCUig)
+
+## Frame generation
+
+In-game generation (need game dev support) > Driver generation
+
+[【硬件科普】免费提升画质和帧数？详解 DLSS2.0 的工作原理与作用 - YouTube](https://www.youtube.com/watch?v=Hi5vbf7sdVQ)
+[NVIDIA Killed Their Own Premium Products - Can we tell if DLSS 2.0 is on? - YouTube](https://www.youtube.com/watch?v=_s9EFWjM6bg)
+
+[AMD just dropped the BEST GPU Update and you HAVE to try it! - YouTube](https://www.youtube.com/watch?v=XDQ8NXOD5kU) AFMF2
+[GDC 2023: Introducing the FidelityFX SDK with new technologies, an early look at FSR 3 + more! - AMD GPUOpen](https://gpuopen.com/gdc-2023-fidelityfx-sdk-fsr3/)
 
 ## Resizable BAR
 
@@ -204,7 +217,7 @@ Asynchronous compute shaders in DX12 benefits the most when CPU is the bottlenec
 
 [How Nvidia Won Graphics Cards - YouTube](https://www.youtube.com/watch?v=TRZqE6H-dww)
 
-[List of Nvidia graphics processing units - Wikiwand](https://omni.wikiwand.com/en/List_of_Nvidia_graphics_processing_units)
+[List of Nvidia graphics processing units - Wikiwand](https://www.wikiwand.com/en/List_of_Nvidia_graphics_processing_units)
 [NVIDIA GeForce RTX 3080/3080 Ti: more VRAM, way faster and CHEAPER?!](https://www.tweaktown.com/news/68455/nvidia-geforce-rtx-3080-ti-more-vram-way-faster-cheaper/amp.html)
 [NVIDIA 40 系顯卡性能翻倍無壓力：4060 打贏 3080、4070 打贏 3090，價格只是略微上漲「超極氪」 - YouTube](https://www.youtube.com/watch?v=-fdrr8e2YzE)
 
@@ -266,6 +279,10 @@ Radeon's DX11 driver was rewritten in 2022-07 which greatly improved stability a
 [Intel Iris Plus Graphics 655 vs Intel HD Graphics 4600](https://www.notebookcheck.net/Iris-Plus-Graphics-655-vs-HD-Graphics-4600_8828_3567.247598.0.html)
 [Iris Plus Graphics 655 vs HD Graphics 4600 [in 6 benchmarks]](https://technical.city/en/video/Iris-Plus-Graphics-655-vs-HD-Graphics-4600)
 [UserBenchmark: Intel HD Graphics P4600 vs Iris Plus 655](https://gpu.userbenchmark.com/Compare/Intel-Iris-Plus-Graphics-655-vs-Intel-HD-Graphics-P4600/m543592vsm18483)
+
+## Intel Arc
+
+[Intel Battlemage GPU Deep-Dive Into a Frame | Engineering Discussion ft. Tom Petersen - YouTube](https://www.youtube.com/watch?v=ACOlBthEFUw) Xe2
 
 ## Overclocking/Underclocking
 

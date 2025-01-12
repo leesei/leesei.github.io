@@ -2,13 +2,13 @@
 title: Virtualization
 description: ""
 created: 2015-05-10
-updated: 2024-09-15
+updated: 2025-01-09
 tags:
   - linux
   - virtualbox
 ---
 
-[Virtualization - Wikiwand](http://omni.wikiwand.com/en/Virtualization)
+[Virtualization - Wikiwand](http://www.wikiwand.com/en/Virtualization)
 
 [OSBoxes - Virtual Machines for VirtualBox & VMware](https://www.osboxes.org/)
 
@@ -28,17 +28,19 @@ Intel's VTx technology improved the performance of visualization (rendering bina
 
 [Ben Armstrong’s Virtualization Blog | Microsoft Learn](https://learn.microsoft.com/en-us/archive/blogs/virtual_pc_guy/)
 
-[Comparison of platform virtualization software - Wikiwand](https://omni.wikiwand.com/en/Comparison_of_platform_virtualization_software)
+[Comparison of platform virtualization software - Wikiwand](https://www.wikiwand.com/en/Comparison_of_platform_virtualization_software)
 [A Performance Comparison of Hypervisors - VMWare](https://www.vmware.com/pdf/hypervisor_performance.pdf) (PDF)
 [Performance Comparison of KVM, VMware and XenServer using a Large Telecommunication Application](https://www.thinkmind.org/download.php?articleid=cloud_computing_2014_5_20_20101) (PDF)
 [Will Containers Replace Hypervisors? Almost Certainly! | Cloudscaling](http://cloudscaling.com/blog/cloud-computing/will-containers-replace-hypervisors-almost-certainly/)
 
+[BSD Hypervisor](https://bhyve.org/)
+
 ## CPU
 
-[Protection ring - Wikiwand](https://omni.wikiwand.com/en/Protection_ring)
-[Real mode - Wikiwand](https://omni.wikiwand.com/en/Real_mode)
-[Protected mode - Wikiwand](https://omni.wikiwand.com/en/Protected_mode)
-[x86 virtualization - Wikiwand](https://omni.wikiwand.com/en/X86_virtualization)
+[Protection ring - Wikiwand](https://www.wikiwand.com/en/Protection_ring)
+[Real mode - Wikiwand](https://www.wikiwand.com/en/Real_mode)
+[Protected mode - Wikiwand](https://www.wikiwand.com/en/Protected_mode)
+[x86 virtualization - Wikiwand](https://www.wikiwand.com/en/X86_virtualization)
 
 [硬科技：為何x86的虛擬化這麼難搞(上) #作業系統 (152220) - Cool3c](https://www.cool3c.com/article/152220)
 [硬科技：為何x86的虛擬化這麼難搞(中) #作業系統 (152291) - Cool3c](https://www.cool3c.com/article/152291)
@@ -63,6 +65,10 @@ Intel's VTx technology improved the performance of visualization (rendering bina
 [Virtual Machine Manager](https://virt-manager.org/) virt-manager
 
 [How to Use Virtualbox VMs on KVM In Linux](https://www.tecmint.com/migrate-virtualbox-vms-into-kvm-vms/amp/)
+
+```sh
+kvm -cdrom ubuntu-20.04.4-desktop-amd64.iso
+```
 
 ## Xen
 
@@ -113,7 +119,7 @@ F
 
 ## Hyper-V
 
-[Hyper-V - Wikiwand](https://omni.wikiwand.com/en/Hyper-V)
+[Hyper-V - Wikiwand](https://www.wikiwand.com/en/Hyper-V)
 [What Is Hyper-V & How Do You Use It? A Beginner's Guide](https://www.cloudwards.net/hyper-v/)
 [Introduction to Hyper-V on Windows 10 | Microsoft Docs](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/)
 [Enable Hyper-V on Windows 10 | Microsoft Docs](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)

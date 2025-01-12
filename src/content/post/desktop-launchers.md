@@ -2,7 +2,7 @@
 title: Desktop Launchers
 description: ""
 created: 2024-01-19
-updated: 2024-09-17
+updated: 2025-01-09
 tags:
   - albert
   - app
@@ -99,10 +99,31 @@ Plugins are Native Qt Plugins
 dmenu: run prompt with auto complete
 [Add An Applications Menu To Any Window Manager - YouTube](https://www.youtube.com/watch?v=wMrdCbrQjnQ)
 
+## Sunbeam
+
+[Home | Sunbeam](https://sunbeam.pomdtr.me/)
+[pomdtr/sunbeam: Command-line launcher](https://github.com/pomdtr/sunbeam)
+
+[Introduction | Sunbeam](https://sunbeam.pomdtr.me/docs/)
+[Guidelines | Sunbeam](https://sunbeam.pomdtr.me/docs/developer-guide/guidelines.html)
+
+[Extension Catalog | Sunbeam](https://sunbeam.pomdtr.me/catalog/)
+
+[sunbeam - A general purpose command-line launcher.](https://terminaltrove.com/sunbeam/)
+
+## Cerebro
+
+> cross platforms
+
+[Cerebro App - Open Source productivity booster with a brain](https://www.cerebroapp.com/)
+[cerebroapp/cerebro: 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency](https://github.com/cerebroapp/cerebro)
+
+[cerebroapp/awesome-cerebro: Curated list of Cerebro plugins and resources](https://github.com/cerebroapp/awesome-cerebro)
+[cerebro-plugin - npms](https://npms.io/search?q=keywords%3Acerebro-plugin)
+
 ## Windows
 
 [Wox](http://www.getwox.com/)
-[Cerebro App – open-source productivity booster with a brain](https://cerebroapp.com/)
 [Find and Run Robot - DonationCoder.com](https://www.donationcoder.com/software/mouser/popular-apps/farr) Launcher
 [LaunchBar Commander - DonationCoder.com](https://www.donationcoder.com/software/mouser/popular-apps/launchbar-commander) Dock
 [donationcoder / mouser - YouTube](https://www.youtube.com/user/mouseryt/featured)

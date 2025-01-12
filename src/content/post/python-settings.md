@@ -2,7 +2,7 @@
 title: Python settings
 description: ""
 created: 2014-12-11
-updated: 2024-09-19
+updated: 2025-01-09
 tags:
   - comp/lang
   - package-manager
@@ -53,6 +53,20 @@ python -c "import site; print(site.getsitepackages())"
 [How to use GitHub as a PyPi server](https://www.freecodecamp.org/news/how-to-use-github-as-a-pypi-server-1c3b0d07db2)
 
 [my python project setup (+ all tools) (intermediate) anthony explains #396 - YouTube](https://www.youtube.com/watch?v=q8DkatMZvUs)
+
+### uv
+
+[uv](https://docs.astral.sh/uv/)
+[astral-sh/uv: An extremely fast Python package and project manager, written in Rust.](https://github.com/astral-sh/uv)
+
+[uv IS the Future of Python Packaging! 🐍📦 - YouTube](https://www.youtube.com/watch?v=8UuW8o4bHbw)
+[Production-ready Python Docker Containers with uv](https://hynek.me/articles/docker-uv/)
+
+[uv: An Extremely Fast Python Package Manager - YouTube](https://www.youtube.com/watch?v=gSKTfG1GXYQ)
+[I’ve Switched to UV for Python, and So Should You - YouTube](https://www.youtube.com/watch?v=qh98qOND6MI)
+[uv: Unified Python packaging](https://astral.sh/blog/uv-unified-python-packaging)
+[pip vs. uv: How Streamlit Cloud sped up app load times by 55%](https://blog.streamlit.io/python-pip-vs-astral-uv/)
+[A New Python Package Manager - KDnuggets](https://www.kdnuggets.com/new-python-package-manager)
 
 ## Anaconda
 
@@ -126,10 +140,13 @@ package2==0.0.1; python_version < '3.7' and
 ```sh
 pipx install poetry
 
-poetry env --bin <path_to_python>
+poetry env use $(which python)
 poetry config virtialenvs.in-project true
+poetry env list
 poetry shell
 poetry add <package>
+poetry show -T -o # show top-level (direct) outdated packages
+poetry show --top-level --outdated --only=main
 ```
 
 ### PDM
@@ -667,11 +684,11 @@ asyncio.run(main())
 ### Other async libs
 
 [Comparing gevent to eventlet | Concurrency in Python](https://blog.gevent.org/2010/02/27/why-gevent/)
-[What is gevent? — gevent documentation](http://www.gevent.org/) uses libev
+[What is gevent? — gevent documentation](http://www.gevent.org/) uses `libev`
 
 [Eventlet Networking Library](http://eventlet.net/)
 
-[MagicStack/uvloop: Ultra fast asyncio event loop.](https://github.com/MagicStack/uvloop) uses uvloop
+[MagicStack/uvloop: Ultra fast asyncio event loop.](https://github.com/MagicStack/uvloop) uses `uvloop`
 
 ## Socket programming
 
@@ -731,6 +748,7 @@ print({section: dict(config[section]) for section in config.sections()})
 [PEP 249 – Python Database API Specification v2.0 | peps.python.org](https://peps.python.org/pep-0249/)
 
 [SQLModel](https://sqlmodel.tiangolo.com/) of the FastAPI family, uses Pydantic
+[Why You Should Switch to SQLModel for FastAPI Projects - YouTube](https://www.youtube.com/watch?v=GONyd0CUrPc)
 
 [SQLAlchemy - The Database Toolkit for Python](http://www.sqlalchemy.org/)
 [dahlia/awesome-sqlalchemy: A curated list of awesome tools for SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
@@ -961,6 +979,8 @@ anthonywritescode
 
 - like `tox` but use Python script as config
 
+[#NOX vs #TOX – WHAT are they for & HOW do you CHOOSE? 🐍 - YouTube](https://www.youtube.com/watch?v=ImBvrDvK-1U)
+
 ### nose
 
 [Welcome to nose2 — nose2 documentation](https://docs.nose2.io/en/latest/)
@@ -1174,8 +1194,9 @@ Defines `pyproject.toml`, decouples from `setuptools` to allow multiple build to
 
 [build](https://pypa-build.readthedocs.io/en/stable/) PEP 517 frontend
 
-[Ruff](https://beta.ruff.rs/docs/) all-in-one tool, used by many
+[Ruff](https://docs.astral.sh/ruff/) all-in-one tool, used by many
 [Goodbye to Flake8 and PyLint: faster linting with Ruff](https://pythonspeed.com/articles/pylint-flake8-ruff/)
+[Ruff: A Modern Python Linter for Error-Free and Maintainable Code – Real Python](https://realpython.com/ruff-python/)
 
 [takluyver/flit: Simplified packaging of Python modules](https://github.com/takluyver/flit) backend, for pure Python module
 [Flit — Flit documentation](https://flit.pypa.io/en/latest/#)
@@ -1395,7 +1416,7 @@ Type Guard: boolean value that have implication to type of variables of union ty
 [the state of type hints in Python](https://www.bernat.tech/the-state-of-type-hints-in-python/)
 [Stanford Seminar - Optional Static Typing for Python - YouTube](https://www.youtube.com/watch?v=GiZKuyLKvAA)
 [Types at the edges in Python – MeadSteve's Dev Blog](https://blog.meadsteve.dev/programming/2020/02/10/types-at-the-edges-in-python/)
-[Modernize Your Sinful Python Code with Beautiful Type Hints | by Eirik Berge | Jul, 2021 | Towards Data Science](https://towardsdatascience.com/modernize-your-sinful-python-code-with-beautiful-type-hints-4e72e98f6bf1?gi=85e63db703d4)
+[Modernize Your Sinful Python Code with Beautiful Type Hints | by Eirik Berge | Jul, 2021 | Towards Data Science](https://towardsdatascience.com/modernize-your-sinful-python-code-with-beautiful-type-hints-4e72e98f6bf1)
 [Typechecking with a Python Library That Has No Type Hints ·](https://skeptric.com/python-type-stubs/)
 [python 学习笔记：typing 和 pydantic | 小猴子 jerry](https://monkeyjerry.top/post/typing_pydantic/)
 

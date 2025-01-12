@@ -2,7 +2,7 @@
 title: Ansible
 description: ""
 created: 2016-02-17
-updated: 2024-09-04
+updated: 2025-01-09
 tags:
   - ansible
   - app
@@ -36,6 +36,10 @@ Ansible runs over SSH so there is no need for agent in slave nodes. This reduces
 [ansible/ansible-examples: A few starter examples of ansible playbooks, to show features and how they work together.](https://github.com/ansible/ansible-examples)
 [geerlingguy/ansible-for-devops: Ansible examples from Ansible for DevOps.](https://github.com/geerlingguy/ansible-for-devops)
 [Servers For Hackers](https://github.com/Servers-for-Hackers)
+
+[Ansible 101 by Jeff Geerling - YouTube streaming series | Jeff Geerling](https://www.jeffgeerling.com/blog/2020/ansible-101-jeff-geerling-youtube-streaming-series)
+[Ansible for DevOps - Ansible Book by Jeff Geerling](https://www.ansiblefordevops.com/)
+[Ansible for Kubernetes - a book by Jeff Geerling](https://www.ansibleforkubernetes.com/)
 
 ```
 YAML truthy

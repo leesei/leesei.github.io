@@ -2,7 +2,7 @@
 title: Audio-visual Systems
 description: ""
 created: 2018-07-04
-updated: 2024-10-02
+updated: 2025-01-09
 tags:
   - audio-clip
   - clipart
@@ -39,9 +39,10 @@ R: Rhythm
 [巫师后期.Wizard Retouch - YouTube](https://www.youtube.com/channel/UCl8H2rDqKFlisPC37gVX9mg)
 [理论知识 - YouTube](https://www.youtube.com/playlist?list=PLhnwj_CftHvhwO8P0mytRNZzlgbtOvgf4)
 
-[Mediastorm 影视飓风 - YouTube](https://www.youtube.com/channel/UC2cRwTuSWxxEtrRnT4lrlQA)
+[Mediastorm 影视飓风 - YouTube](https://www.youtube.com/@mediastorm6801)
+[1年150期视频？影视飓风2024工作流分享！ - YouTube](https://www.youtube.com/watch?v=CNg9Vr4T-xs)
 
-[Kevin - The Basic Filmmaker - YouTube](https://www.youtube.com/channel/UCx5KB2QDUDH-o8PFnF3yJCQ)
+[Kevin - The Basic Filmmaker - YouTube](https://www.youtube.com/@BasicFilmmaker)
 
 [Upgrading Your Cheap Streaming Setup - YouTube](https://www.youtube.com/watch?v=0HwGt9bcKZk)
 
@@ -124,6 +125,8 @@ YouTube Creator Studio -> YouTube Audio Library -> Sound Effects
 [音效素材總集 - YouTube](https://www.youtube.com/playlist?list=PLUbUGSRNc7PzxjLIvKbRiWvikuwc-JrLZ)
 
 ### Music
+
+[10 Sites to Download Free and Copyright-Free Music for YouTube Videos](https://www.makeuseof.com/tag/download-copyright-free-music-youtube-videos/)
 
 [Free Music Audio Library - YouTube](https://www.youtube.com/channel/UCEZczasge6oHujNFJLYm72w)
 [Audio Library — Music for content creators - YouTube](https://www.youtube.com/channel/UCht8qITGkBvXKsR1Byln-wA)
@@ -352,9 +355,9 @@ document.querySelectorAll("meta[property='og:url']");
 
 ## Subtitles
 
-[SubRip - Wikiwand](https://omni.wikiwand.com/en/SubRip)
+[SubRip - Wikiwand](https://www.wikiwand.com/en/SubRip)
 [SRT (SubRip Text) | Speechpad](https://www.speechpad.com/captions/srt)
-[WebVTT - Wikiwand](https://omni.wikiwand.com/en/WebVTT)
+[WebVTT - Wikiwand](https://www.wikiwand.com/en/WebVTT)
 [WebVTT (Web Video Text Tracks) | Speechpad](https://www.speechpad.com/captions/webvtt)
 [Subtitles](https://matroska.org/technical/subtitles.html)
 
@@ -367,6 +370,7 @@ document.querySelectorAll("meta[property='og:url']");
 [command line - How do I merge two \*.srt files - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/2283/how-do-i-merge-two-srt-files)
 [8 Best VTT Editors for Windows, Mac and Online](https://www.flexclip.com/learn/vtt-editor.html)
 [Subtitle Tools - Online Tools to Sync, Convert and Fix Subtitles](https://subtitletools.com/)
+[Otter.ai - AI Meeting Note Taker & Real-time AI Transcription](https://otter.ai/)
 
 [Subtitles - download movie and TV Series subtitles](https://www.opensubtitles.org/en/search/subs)
 [Subtitles](https://www.podnapisi.net/)
@@ -383,7 +387,7 @@ document.querySelectorAll("meta[property='og:url']");
 
 [DolbyIO/awesome-audio: A curated list of awesome audio technology resources for developers](https://github.com/DolbyIO/awesome-audio)
 
-[Nyquist rate - Wikiwand](https://omni.wikiwand.com/en/Nyquist%20Rate) a sampling frequency of 2F is needed to reproduce an waveform of frequency F
+[Nyquist rate - Wikiwand](https://www.wikiwand.com/en/Nyquist%20Rate) a sampling frequency of 2F is needed to reproduce an waveform of frequency F
 [Nyquist - Signalling at the Nyquist Rate and the Foundation of the Sampling Theory - YouTube](https://www.youtube.com/watch?v=BT_mWQjO-bo)
 
 [Digital Audio Basics: Audio Sample Rate and Bit Depth](https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html)
@@ -432,12 +436,12 @@ document.querySelectorAll("meta[property='og:url']");
 - entropy encoder
   traditional lossless compression
 
-[Advanced Video Coding - Wikiwand](https://omni.wikiwand.com/en/Advanced_Video_Coding) AVC/H.264
+[Advanced Video Coding - Wikiwand](https://www.wikiwand.com/en/Advanced_Video_Coding) AVC/H.264
 
-[VP8 - Wikiwand](https://omni.wikiwand.com/en/VP8)
-[VP9 - Wikiwand](https://omni.wikiwand.com/en/VP9)
+[VP8 - Wikiwand](https://www.wikiwand.com/en/VP8)
+[VP9 - Wikiwand](https://www.wikiwand.com/en/VP9)
 
-[AV1 - Wikiwand](https://omni.wikiwand.com/en/AV1)
+[AV1 - Wikiwand](https://www.wikiwand.com/en/AV1)
 [AV1 Features - Alliance for Open Media](https://aomedia.org/av1-features/)
 [Introducing SVT-AV1: a scalable open-source AV1 framework](https://medium.com/netflix-techblog/introducing-svt-av1-a-scalable-open-source-av1-framework-c726cce3103a)
 [AV1 Specification Released: Can we kiss goodbye to HEVC and royalty bearing video codecs? • BlogGeek.me](https://bloggeek.me/av1-video-codec/)
@@ -445,7 +449,7 @@ document.querySelectorAll("meta[property='og:url']");
 [AV1 - Bitmovin](https://bitmovin.com/av1/)
 [Best Video Codec: An Evaluation of AV1, AVC, HEVC and VP9](https://bitmovin.com/av1-multi-codec-dash-dataset/)
 
-[High Efficiency Video Coding - Wikiwand](https://omni.wikiwand.com/en/High_Efficiency_Video_Coding) HEVC
+[High Efficiency Video Coding - Wikiwand](https://www.wikiwand.com/en/High_Efficiency_Video_Coding) HEVC
 [H.265 – The Arrival of Video Compression's Future | S3 Security Systems](http://www.s3securitysystems.com/h-265-the-arrival-of-video-compressions-future/)
 "HEIF Image Extension" and "HEVC Video Extensions from Device Manufacturer" from Microsoft Store
 
@@ -470,6 +474,8 @@ document.querySelectorAll("meta[property='og:url']");
 
 [Why Does Every Camera Put Photos in a DCIM Folder?](https://www.howtogeek.com/204228/why-does-every-camera-put-photos-in-a-dcim-folder/)
 
+[这是什么？摩尔纹。 - YouTube](https://www.youtube.com/watch?v=I48vtTxdaeQ)
+
 [How Have Smartphone Cameras Gotten So Good? - YouTube](https://www.youtube.com/watch?v=Gd9rovdMNNo)
 [Why Your Webcam Still SUCKS! - YouTube](https://www.youtube.com/watch?v=-BLgS7m0W94)
 [The Megapixel Myth As Fast As Possible - YouTube](https://www.youtube.com/watch?v=oIPGeMeSL8I)
@@ -487,6 +493,8 @@ How videos are encoded, recorded and broadcasted
 [29.97FPS這個幀率是怎麼來的? 直接用30FPS很難嗎? 科普熱身先來 Part1 - YouTube](https://www.youtube.com/watch?v=draDou4iw50)
 [29.97FPS這個幀率是怎麼來的? 直接用30FPS很難嗎? 最終解答公佈 Part2 - YouTube](https://www.youtube.com/watch?v=WjT6CKwr0h8)
 Since Chroma signal is put towards the higher frequency end of the spectrum, and it over laps withe the audio signal (in NTSC), it is create a low frequency beat which will be noise to the Luma
+
+[影视飓风将停止制作25帧视频 - YouTube](https://www.youtube.com/watch?v=2JwPbNivR2k) modern panel is optimzed for 60Hz
 
 ## Videotape
 

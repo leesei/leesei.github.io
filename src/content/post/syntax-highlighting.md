@@ -2,7 +2,7 @@
 title: Syntax Highlighting
 description: ""
 created: 2015-10-08
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - syntax-highlight
   - web

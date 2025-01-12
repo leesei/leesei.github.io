@@ -2,7 +2,7 @@
 title: Image Formats
 description: ""
 created: 2016-08-04
-updated: 2024-09-04
+updated: 2025-01-09
 tags:
   - standard
 ---
@@ -43,14 +43,14 @@ tags:
 
 ## AVIF
 
-[AVIF - Wikiwand](https://omni.wikiwand.com/en/AVIF)
+[AVIF - Wikiwand](https://www.wikiwand.com/en/AVIF)
 [Web developer's guide to AVIF images](https://darekkay.com/blog/avif-images/)
 
 [AVIF browser test page: AVIF support in Chrome, Firefox, Edge…](https://libre-software.net/image/avif-test/)
 
 ## WEBP
 
-[WebP - Wikiwand](https://omni.wikiwand.com/en/WebP)
+[WebP - Wikiwand](https://www.wikiwand.com/en/WebP)
 
 [Getting Started | WebP | Google Developers](https://developers.google.com/speed/webp/docs/using)
 [An image format for the Web | WebP | Google Developers](https://developers.google.com/speed/webp/)

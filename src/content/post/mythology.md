@@ -2,14 +2,14 @@
 title: Mythology
 description: ""
 created: 2015-08-01
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - trivia
 ---
 
-[Creation myth - Wikiwand](http://omni.wikiwand.com/en/Creation_myth)
-[Rigvedic deities - Wikiwand](http://omni.wikiwand.com/en/Rigvedic_deities)
-[Conceptions of God - Wikiwand](http://omni.wikiwand.com/en/Conceptions_of_God)
+[Creation myth - Wikiwand](http://www.wikiwand.com/en/Creation_myth)
+[Rigvedic deities - Wikiwand](http://www.wikiwand.com/en/Rigvedic_deities)
+[Conceptions of God - Wikiwand](http://www.wikiwand.com/en/Conceptions_of_God)
 
 [Encyclopedia Mythica: mythology, folklore, and religion.](http://www.pantheon.org/)
 [Gods And Monsters - Ancient to Modern Mythology](http://www.gods-and-monsters.com/)
@@ -30,67 +30,69 @@ tags:
 
 ## Chinese
 
+[中國神話 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%AD%E5%9B%BD%E7%A5%9E%E8%AF%9D)
+[中國傳說時代 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%AD%E5%9B%BD%E4%BC%A0%E8%AF%B4%E6%97%B6%E4%BB%A3) 從盤古到大禹
+[盤古 - Wikiwand](https://www.wikiwand.com/zh/%E7%9B%98%E5%8F%A4)
+
 [中国的漫威，中国神话宇宙！太古神话故事线！从盘古开天讲到大禹治水 - YouTube](https://www.youtube.com/watch?v=aikl56J-QpQ)
-[【中国鬼怪排行榜】官方频道 - YouTube](https://www.youtube.com/channel/UCGen7Lt2yi_sETCitiu5oZQ/playlists)
-
-[中國神話 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%AD%E5%9B%BD%E7%A5%9E%E8%AF%9D)
-[中國傳說時代 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%AD%E5%9B%BD%E4%BC%A0%E8%AF%B4%E6%97%B6%E4%BB%A3) 從盤古到大禹
-[盤古 - Wikiwand](https://omni.wikiwand.com/zh/%E7%9B%98%E5%8F%A4)
-
+[时长两小时，一口气带你搞明白懂最复杂的神话体系：中国众神！中国诸神体系为什么搞不明白?| 【诸神简史纯享版】01 - YouTube](https://www.youtube.com/watch?v=ol0uaCev_ik)
 [中國上古時期神話故事 盤古 女媧 伏羲 神農 有巢氏 燧人氏 炎帝 黃帝 蚩尤 螺祖 倉頡，華夏傳說 | 有點意思 - YouTube](https://www.youtube.com/watch?v=_drsH5YbsX8)
 [中國上古神話](https://www.chiculture.net/0401/html/a01/0401a01.html)
 [《黑暗傳》：盤古開天之前是什麼？1980年代，神農架驚現原始史詩，我們竟然發現了盤古之前的故事，昆崙在地心世界？｜總裁聊聊 - YouTube](https://www.youtube.com/watch?v=5XVp9ng_rq4)
 
+[【中国神话】系列 - YouTube](https://www.youtube.com/playlist?list=PLjUnVnXwPY7FJFE9sjrScjfe3u-UoWKEN)
+[老梁：中国神话体系 - YouTube](https://www.youtube.com/watch?v=lfmry8zWJ8M)
+[中國古代全都是外星人，而且和蘇美神話居然是一樣的 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=nPnNQNCoC9M)
+[大臉怪爸爸 - YouTube](https://www.youtube.com/@%E5%A4%A7%E8%87%89%E6%80%AA%E7%88%B8%E7%88%B8)
+
+[【中国鬼怪排行榜】官方频道 - YouTube](https://www.youtube.com/@zgggphb)
 [中国鬼怪排行榜 - YouTube](https://www.youtube.com/playlist?list=PLK5xZu3SLGqbQp4zFirGgfJ3VeC_bru3A)
 [华夏众神 - YouTube](https://www.youtube.com/playlist?list=PLK5xZu3SLGqb8_2GuJ_wWcKFHcl-bFLRQ)
-[大臉怪爸爸 - YouTube](https://www.youtube.com/%40user-bv2mc2ck7h/featured)
-[老梁：中国神话体系 - YouTube](https://www.youtube.com/watch?v=lfmry8zWJ8M&t=0s)
-[【中国神话】系列 - YouTube](https://www.youtube.com/playlist?list=PLjUnVnXwPY7FJFE9sjrScjfe3u-UoWKEN)
-[中國古代全都是外星人，而且和蘇美神話居然是一樣的 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=nPnNQNCoC9M)
 
 [File: 馬王堆絲畫 - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/File:Mawangdui_silk_banner_from_tomb_no1.jpg)
 
 ### 三皇五帝
 
-[三皇五帝 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%89%E7%9A%87%E4%BA%94%E5%B8%9D)
+[三皇五帝 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%89%E7%9A%87%E4%BA%94%E5%B8%9D)
 
 [帝王世紀 : 帝王世紀 - 中國哲學書電子化計劃](https://ctext.org/wiki.pl?if=gb&chapter=838808)
-[帝王世紀 - Wikiwand](https://omni.wikiwand.com/zh/%E5%B8%9D%E7%8E%8B%E4%B8%96%E7%B4%80)
+[帝王世紀 - Wikiwand](https://www.wikiwand.com/zh/%E5%B8%9D%E7%8E%8B%E4%B8%96%E7%B4%80)
 [帝王世纪（史书）\_百度百科](https://baike.baidu.com/item/%E5%B8%9D%E7%8E%8B%E4%B8%96%E7%BA%AA/8557963)
 
 [三皇本紀 - 維基文庫，自由的圖書館](https://zh.wikisource.org/zh-hant/%E4%B8%89%E7%9A%87%E6%9C%AC%E7%B4%80)
 [三皇本纪\_百度百科](https://baike.baidu.com/item/%E4%B8%89%E7%9A%87%E6%9C%AC%E7%BA%AA)
 
-[燧人氏 - Wikiwand](https://omni.wikiwand.com/zh/%E7%87%A7%E4%BA%BA%E6%B0%8F) 於用火及因游走各地有較高知識, 游獵型部族 + [華胥 - Wikiwand](https://omni.wikiwand.com/zh/%E5%8D%8E%E8%83%A5) (富裕, 母系農耕型部族)
-[伏羲 - Wikiwand](https://omni.wikiwand.com/zh/%E4%BC%8F%E7%BE%B2)
-[女媧 - Wikiwand](https://omni.wikiwand.com/zh/%E5%A5%B3%E5%A8%B2)
+[燧人氏 - Wikiwand](https://www.wikiwand.com/zh/%E7%87%A7%E4%BA%BA%E6%B0%8F) 於用火及因游走各地有較高知識, 游獵型部族 + [華胥 - Wikiwand](https://www.wikiwand.com/zh/%E5%8D%8E%E8%83%A5) (富裕, 母系農耕型部族)
+[伏羲 - Wikiwand](https://www.wikiwand.com/zh/%E4%BC%8F%E7%BE%B2)
+[女媧 - Wikiwand](https://www.wikiwand.com/zh/%E5%A5%B3%E5%A8%B2)
 伏羲(太昊)及女媧, 姓風 (女媧造人 -> 人口爆炸, 父系社會 -> 姓), 都於陳(河南淮陽)
 昊/昊天為遠古時自然神
 伏羲造字, 傳八卦
 
 4500BC. 山東大汶口文化 -> 龍山文化
-[神農 - Wikiwand](https://omni.wikiwand.com/zh/%E7%A5%9E%E5%86%9C) 神農氏傳 17 代，都稱為炎帝
-[炎帝 - Wikiwand](https://omni.wikiwand.com/zh/%E7%82%8E%E5%B8%9D) 神農氏, 姓姜, 父為少典氏, 長於姜水, 始都於陳(河南淮陽), 後遷都於魯(山東曲阜), 葬於長沙; 生共工, 共工生后土; 神農氏統治 530 年, 傳八世, 因土地喪失肥力而由山東西遷至陝西, 後山東大汶口落入蚩尤控制
-[黃帝 - Wikiwand](https://omni.wikiwand.com/zh/%E9%BB%84%E5%B8%9D) 神農氏, 本姓公孫, 後因壯大了姬水畔的部落改姓姬, 字軒轅; 擊敗炎帝並成為炎黃部落之共主
+[神農 - Wikiwand](https://www.wikiwand.com/zh/%E7%A5%9E%E5%86%9C) 神農氏傳 17 代，都稱為炎帝
+[炎帝 - Wikiwand](https://www.wikiwand.com/zh/%E7%82%8E%E5%B8%9D) 神農氏, 姓姜, 父為少典氏, 長於姜水, 始都於陳(河南淮陽), 後遷都於魯(山東曲阜), 葬於長沙; 生共工, 共工生后土; 神農氏統治 530 年, 傳八世, 因土地喪失肥力而由山東西遷至陝西, 後山東大汶口落入蚩尤控制
+[黃帝 - Wikiwand](https://www.wikiwand.com/zh/%E9%BB%84%E5%B8%9D) 神農氏, 本姓公孫, 後因壯大了姬水畔的部落改姓姬, 字軒轅; 擊敗炎帝並成為炎黃部落之共主
 《國語 晋語》: 炎黃二帝本為兄弟, 少典之子, 長於陝西姜水及姬水
 少典為華胥氏之後, 分封為有熊氏
 有說炎帝發於湖北華北地區, 黃帝發於陝西河套地地區
 黃帝建立統一部落, 令百姓安居樂業, 創立姓氏制度
 黃帝國師倉頡又再造字, 疑為改寫歷史
-[阪泉之戰 - Wikiwand](https://omni.wikiwand.com/zh/%E9%98%AA%E6%B3%89%E4%B9%8B%E6%88%98)
+[阪泉之戰 - Wikiwand](https://www.wikiwand.com/zh/%E9%98%AA%E6%B3%89%E4%B9%8B%E6%88%98)
 [發現真相！炎黃大戰的炎帝到底是哪裡人？學者：種種證據指向這裡 - YouTube](https://www.youtube.com/watch?v=_hhD-Xtb3wM)
 [驚人發現！炎帝的都城找到了！學者：這座 6000 年前古城，種種證據指向炎帝 - YouTube](https://www.youtube.com/watch?v=qXteHtfM314)
 [黃帝西來？黃帝北來？黃帝南來？黃帝來自何方？|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=5BvaC6a2igQ) 照葉森林區造成東亞半月弓弧
-[刑天 - Wikiwand](https://omni.wikiwand.com/zh/%E5%88%91%E5%A4%A9) 炎帝之臣, 山海經中被軒轅劍斬首後化成無頭不死戰神
+[“炎黄子孙”怎么来的？炎帝、黄帝有什么文明密码？这本1950年的禁书，将告诉你一切 - YouTube](https://www.youtube.com/watch?v=CVTn72BleyE) 炎帝黄帝均為母系社會的生育神, 炎帝=蚩尤
+[刑天 - Wikiwand](https://www.wikiwand.com/zh/%E5%88%91%E5%A4%A9) 炎帝之臣, 山海經中被軒轅劍斬首後化成無頭不死戰神
 
 Tengu Media, 炎帝為黃河農耕民族 (仰韶, 大地灣, 老官台文化, 古羌集團), 黃帝為北方遊牧民族 (阿爾泰族, 古戎狄集團), 軒轅為可汗音譯
 [👺 黃帝是 4000 年前的外來殖民者！全面揭露黃帝的真面目！ - YouTube](https://www.youtube.com/watch?v=9muNcuEXTU0)
 [👺 再談「中國人不是炎黃子孫！黃帝乃是 4000 年前的成吉思汗！」 - YouTube](https://www.youtube.com/watch?v=hPFlKtXeUSY)
 [中國史學界的禁忌話題！ - YouTube](https://www.youtube.com/watch?v=hPFlKtXeUSY) 專家研究
 
-[蚩尤 - Wikiwand](https://omni.wikiwand.com/zh/%E8%9A%A9%E5%B0%A4)
-[涿鹿之戰 - Wikiwand](https://omni.wikiwand.com/zh/%E6%B6%BF%E9%B9%BF%E4%B9%8B%E6%88%B0)
-[九黎 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B9%9D%E9%BB%8E)
+[蚩尤 - Wikiwand](https://www.wikiwand.com/zh/%E8%9A%A9%E5%B0%A4)
+[涿鹿之戰 - Wikiwand](https://www.wikiwand.com/zh/%E6%B6%BF%E9%B9%BF%E4%B9%8B%E6%88%B0)
+[九黎 - Wikiwand](https://www.wikiwand.com/zh/%E4%B9%9D%E9%BB%8E)
 [中国上下五千年（十）逐鹿之战|涿鹿之战|涿鹿|蚩尤\_新浪网](http://k.sina.com.cn/article_6877910719_199f496bf00100esyt.html)
 [逐鹿之战真相：蚩尤并未遭到分尸反而成了华夏先祖 - YouTube](https://www.youtube.com/watch?v=qacqKg9DxvQ)
 [逐鹿之戰是一場非對稱戰爭？先進的蚩尤部族緣何敗給了炎黃聯盟？ - 每日頭條](https://kknews.cc/history/6o8na6p.html)
@@ -105,15 +107,15 @@ Tengu Media, 炎帝為黃河農耕民族 (仰韶, 大地灣, 老官台文化, �
 夸父, 炎帝一族, 姓姜, 后土之孫
 黃帝擊敗蚩尤, 佔領山東一帶; 夸父沿黃河西逃至陝西華陰一帶, 被追趕而來的應龍所殺, 後人發展為羌人或融合到羌人中, 一直佔領黃河河套地區至商朝
 
-[少昊 - Wikiwand](https://omni.wikiwand.com/zh/%E5%B0%91%E6%98%8A) 黃帝之子, 白帝
-[顓頊 - Wikiwand](https://omni.wikiwand.com/zh/%E9%A2%9B%E9%A1%BC) 高陽氏, 黃帝孫, 嚳的堂伯父; 絕地天通為斷絕人神二界之舉
-[帝嚳 - Wikiwand](https://omni.wikiwand.com/zh/%E5%9A%B3) 高辛氏; 曾為顓頊助手
+[少昊 - Wikiwand](https://www.wikiwand.com/zh/%E5%B0%91%E6%98%8A) 黃帝之子, 白帝
+[顓頊 - Wikiwand](https://www.wikiwand.com/zh/%E9%A2%9B%E9%A1%BC) 高陽氏, 黃帝孫, 嚳的堂伯父; 絕地天通為斷絕人神二界之舉
+[帝嚳 - Wikiwand](https://www.wikiwand.com/zh/%E5%9A%B3) 高辛氏; 曾為顓頊助手
 跟姜源生棄, 周之始祖; 據說踩了巨人腳印成孕
 跟簡狄生契, 商之始祖; 據說吃了五彩玄鳥蛋成孕
 跟慶都生堯; 據說赤龍撲倒成孕
 跟常儀生挚, 嫦娥
-[堯 - Wikiwand](https://omni.wikiwand.com/zh/%E5%B0%A7) 陶唐氏, 姓伊祁
-[舜 - Wikiwand](https://omni.wikiwand.com/zh/%E8%88%9C) 有虞氏, 姓姚
+[堯 - Wikiwand](https://www.wikiwand.com/zh/%E5%B0%A7) 陶唐氏, 姓伊祁
+[舜 - Wikiwand](https://www.wikiwand.com/zh/%E8%88%9C) 有虞氏, 姓姚
 禹, 鯀(音滾)之子, 治大洪水, 平雲貴苗疆的三苗放族(九黎遺民)
 [科學分析 ▶ 比現在洪水威力強 6 倍 大禹治水是真的嗎? - YouTube](https://www.youtube.com/watch?v=p5Q5QZmtj4w) 黃河中下游泛濫始於河南省西北部的輝縣市(古稱共, "洪"字來源)
 
@@ -137,7 +139,7 @@ Tengu Media, 炎帝為黃河農耕民族 (仰韶, 大地灣, 老官台文化, �
 
 ## Japanese
 
-[古事記 - Wikiwand](https://omni.wikiwand.com/zh/古事記)
+[古事記 - Wikiwand](https://www.wikiwand.com/zh/古事記)
 [古事记（日本古代的文学作品）\_百度百科](https://baike.baidu.com/item/古事记/24170)
 [日本神话\_百度百科](https://baike.baidu.com/item/日本神话)
 
@@ -146,7 +148,7 @@ Tengu Media, 炎帝為黃河農耕民族 (仰韶, 大地灣, 老官台文化, �
 
 ## Greek
 
-[Greek mythology - Wikiwand](http://omni.wikiwand.com/en/Greek_mythology)
+[Greek mythology - Wikiwand](http://www.wikiwand.com/en/Greek_mythology)
 
 [Greek Mythology](http://messagenetcommresearch.com/myths/)
 [THEOI GREEK MYTHOLOGY, Exploring Mythology & the Greek Gods in Classical Literature & Art](http://www.theoi.com/)
@@ -191,9 +193,9 @@ Romans adopts Greek mythology so most (if not all) of Roman deities have Greek c
 
 ## Hindu
 
-[印度神话 - Wikiwand](http://omni.wikiwand.com/zh/印度神话)
-[Hindu mythology - Wikiwand](http://omni.wikiwand.com/en/Hindu_mythology)
-[Buddhist cosmology - Wikiwand](http://omni.wikiwand.com/en/Buddhist_cosmology)
+[印度神话 - Wikiwand](http://www.wikiwand.com/zh/印度神话)
+[Hindu mythology - Wikiwand](http://www.wikiwand.com/en/Hindu_mythology)
+[Buddhist cosmology - Wikiwand](http://www.wikiwand.com/en/Buddhist_cosmology)
 
 [Encyclopedia Mythica: Hindu mythology](http://www.pantheon.org/areas/mythology/asia/hindu/)
 [Hindu mythology and religion | Encyclopedia Mythica](https://pantheon.org/mythology/hindu/)
@@ -203,7 +205,7 @@ Romans adopts Greek mythology so most (if not all) of Roman deities have Greek c
 
 ## Norse
 
-[Norse mythology - Wikiwand](http://omni.wikiwand.com/en/Norse_mythology)
+[Norse mythology - Wikiwand](http://www.wikiwand.com/en/Norse_mythology)
 
 [Norse mythology | Encyclopedia Mythica](https://pantheon.org/mythology/norse/)
 
@@ -212,10 +214,10 @@ Romans adopts Greek mythology so most (if not all) of Roman deities have Greek c
 ## Celestial Bodies
 
 [Planets - NASA Solar System Exploration](http://solarsystem.nasa.gov/planets/)
-[IAU definition of planet - Wikiwand](https://omni.wikiwand.com/en/IAU_definition_of_planet)
+[IAU definition of planet - Wikiwand](https://www.wikiwand.com/en/IAU_definition_of_planet)
 
-[Astronomical symbols - Wikiwand](https://omni.wikiwand.com/en/Astronomical_symbols)
-[Astrological symbols - Wikiwand](https://omni.wikiwand.com/en/Astrological_symbols)
+[Astronomical symbols - Wikiwand](https://www.wikiwand.com/en/Astronomical_symbols)
+[Astrological symbols - Wikiwand](https://www.wikiwand.com/en/Astrological_symbols)
 
 [Origins of the names of the celestial bodies | Encyclopedia Mythica](https://pantheon.org/miscellaneous/origin_names_celestial_bodies.php)
 Ancient culture named Mercury, Venus, Mars, Jupiter, and Saturn after Roman Gods as they are the only five planets that are visible to the naked eye.
@@ -225,8 +227,8 @@ Upon the discovery of new planets in the Solar system, a God's name was chosen t
 
 # Creatures
 
-[Legendary creature - Wikiwand](http://omni.wikiwand.com/en/Legendary_creature)
-[Lists of legendary creatures - Wikiwand](https://omni.wikiwand.com/en/Lists_of_legendary_creatures)
+[Legendary creature - Wikiwand](http://www.wikiwand.com/en/Legendary_creature)
+[Lists of legendary creatures - Wikiwand](https://www.wikiwand.com/en/Lists_of_legendary_creatures)
 [The List of Mythical Creatures - A Gods and Monsters Exclusive](http://www.gods-and-monsters.com/list-of-mythical-creatures.html)
 [Mythical Creatures - The Ultimate List of Mythological Creatures](http://mythologian.net/mythical-creatures-ultimate-list-mythological-creatures/)
 [List of Greek Mythological Creatures and Monsters • Facts & Information](https://greekgodsandgoddesses.net/creatures/)
@@ -238,17 +240,18 @@ Upon the discovery of new planets in the Solar system, a God's name was chosen t
 
 ## Chinese
 
-[中國妖怪列表 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%AD%E5%9C%8B%E5%A6%96%E6%80%AA%E5%88%97%E8%A1%A8)
-[中國傳說生物 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%AD%E5%9B%BD%E4%BC%A0%E8%AF%B4%E7%94%9F%E7%89%A9)
+[中國妖怪列表 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%AD%E5%9C%8B%E5%A6%96%E6%80%AA%E5%88%97%E8%A1%A8)
+[中國傳說生物 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%AD%E5%9B%BD%E4%BC%A0%E8%AF%B4%E7%94%9F%E7%89%A9)
 [知妖(中国妖怪百集) – 收集中国古今妖怪](http://www.cbaigui.com/)
 
 [山海經 - 中國哲學書電子化計劃](https://ctext.org/shan-hai-jing/zh)
 [山海經全文閱讀翻譯*山海經白話文*詩詞古文大全網](https://www.iccie.tw/guwen/shanhai/)
-[山海經 - Wikiwand](https://omni.wikiwand.com/zh/%E5%B1%B1%E6%B5%B7%E7%BB%8F)
+[山海經 - Wikiwand](https://www.wikiwand.com/zh/%E5%B1%B1%E6%B5%B7%E7%BB%8F)
 [山海經&上古傳說 - YouTube](https://www.youtube.com/playlist?list=PLD3Ywi8n56O7G_Fj2fr6khQSKLG7mdVxA) 自说自话的总裁
 [先秦傳說「奇珍異獸」戰國山海經最大謎團！ - 關鍵時刻精選 馬西屏 劉燦榮 傅鶴齡 - YouTube](https://www.youtube.com/watch?v=JyeCTcF0bSI)
 [《山海經》中最神奇的十大神獸，你知道幾個？ - 每日頭條](https://kknews.cc/zh-hk/culture/qyqzlzg.html)
 [山海經中的 56 種上古神獸 - 壹讀](https://read01.com/zh-hk/j5zOP5.html)
+[【萬分抱歉，這次的影片又晚了】上古三大奇書之山海經，這本書裡寫的的東西你都沒見過，甚至都無法想像，但它們卻有可能真實存在，只是不是五千年前，而是六千五百萬年前 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=OrLo4FgAplU)
 
 悟空的宝箱
 [《山海经》解说系列 - YouTube](https://www.youtube.com/playlist?list=PLAnIBQR8Pi4-KDzXiaRu8pSRRVoE0qRnS)
@@ -259,16 +262,16 @@ Upon the discovery of new planets in the Solar system, a God's name was chosen t
 
 [淮南子 : 本經訓 - 中國哲學書電子化計劃](https://ctext.org/huainanzi/ben-jing-xun/zh)
 
-[搜神記 - Wikiwand](https://omni.wikiwand.com/zh/%E6%90%9C%E7%A5%9E%E8%AE%B0)
+[搜神記 - Wikiwand](https://www.wikiwand.com/zh/%E6%90%9C%E7%A5%9E%E8%AE%B0)
 
-[龍生九子 - Wikiwand](https://omni.wikiwand.com/zh/%E9%BE%99%E7%94%9F%E4%B9%9D%E5%AD%90)
+[龍生九子 - Wikiwand](https://www.wikiwand.com/zh/%E9%BE%99%E7%94%9F%E4%B9%9D%E5%AD%90)
 [R 說書-龍生九子到底是哪九子 - YouTube](https://www.youtube.com/watch?v=ZSxEKDoLa5o)
 [為什麼龍生九子不像龍？看看龍的妻子你就明白了！人間處處都能看到他們的身影！丨竹公子 - YouTube](https://www.youtube.com/watch?v=NQQQMDrJQW8)
 
 [龍的起源大概分為三種，中國龍的原型是什麼？自然說，動物說，圖騰說，龍是什麼，龍的來源，中國龍，龍是什麼生物，龍是什麼，中國龍起源於什麼動物，龍圖騰，中國文化，最早的龍，考古的龍，龍文化，圖騰崇拜 - YouTube](https://www.youtube.com/watch?v=TC29tbMwatg)
 [【怪物志】龍是否真實存在？解密東方神龍的起源！ - YouTube](https://www.youtube.com/watch?v=fVvMA1XlYnI)
 
-[獬豸 - Wikiwand](https://omni.wikiwand.com/zh/%E7%8D%AC%E8%B1%B8)
+[獬豸 - Wikiwand](https://www.wikiwand.com/zh/%E7%8D%AC%E8%B1%B8)
 
 ## Japanese
 
@@ -288,7 +291,7 @@ Upon the discovery of new planets in the Solar system, a God's name was chosen t
 
 ## Dragons
 
-[European dragon - Wikiwand](https://omni.wikiwand.com/en/European_dragon)
+[European dragon - Wikiwand](https://www.wikiwand.com/en/European_dragon)
 [Difference Between A Chinese Dragon and A Western Dragon](http://blog.tutorming.com/expats/chinese-dragon-western-difference-lucky)
 [Draconika - Dragons, Dragon Information, and Dragon Pictures](http://www.draconika.com/index.php)
 [Dragons - The Origin of Dragons - Extra Mythology - YouTube](https://www.youtube.com/watch?v=rL8qSfXIo4M)

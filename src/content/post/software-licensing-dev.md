@@ -2,7 +2,7 @@
 title: Software Licensing
 description: Enforcing license on your software
 created: 2015-06-27
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - app
   - dev/deploy

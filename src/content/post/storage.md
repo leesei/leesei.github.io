@@ -2,7 +2,7 @@
 title: Storage
 description: ""
 created: 2015-05-11
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - comp/hardware
   - harddisk
@@ -48,8 +48,8 @@ Physically read and writes are done with sector. On file system it is done with 
 [What are PMR and SMR hard disk drives? | Synology Inc.](https://www.synology.com/en-us/knowledgebase/DSM/tutorial/Storage/PMR_SMR_hard_disk_drives)
 Tracks of SMR HDD overlaps to increase density. Writes are performed to PMR cache, then committed back to SMR area during idle time. So they usually have larger buffer to prevent overwriting data and slower write speed.
 
-[Perpendicular recording - Wikiwand](https://omni.wikiwand.com/en/Perpendicular_recording) also conventional magnetic recording (CMR)
-[Shingled magnetic recording - Wikiwand](https://omni.wikiwand.com/en/Shingled_magnetic_recording)
+[Perpendicular recording - Wikiwand](https://www.wikiwand.com/en/Perpendicular_recording) also conventional magnetic recording (CMR)
+[Shingled magnetic recording - Wikiwand](https://www.wikiwand.com/en/Shingled_magnetic_recording)
 
 SMR will cause RAID mis-identify disk failure during high workload
 [Buyer beware—that 2TB-6TB “NAS” drive you’ve been eyeing might be SMR – Ars Technica](https://arstechnica.com/gadgets/2020/04/caveat-emptor-smr-disks-are-being-submarined-into-unexpected-channels/amp/)
@@ -81,7 +81,7 @@ More precise writing techniques to increase density of magnetic track
 
 ## SSD
 
-[Solid-state storage - Wikiwand](http://omni.wikiwand.com/en/Solid-state_storage)
+[Solid-state storage - Wikiwand](http://www.wikiwand.com/en/Solid-state_storage)
 [Solid-state revolution: in-depth on how SSDs really work | Ars Technica](http://arstechnica.com/information-technology/2012/06/inside-the-ssd-revolution-how-solid-state-disks-really-work/)
 [How Do SSDs Work? - ExtremeTech](https://www.extremetech.com/extreme/210492-extremetech-explains-how-do-ssds-work)
 [How SSDs Work - Intel X25-M SSD: Intel Delivers One of the World's Fastest Drives](http://www.anandtech.com/show/2614/2)
@@ -186,7 +186,7 @@ Alignment used to an issue years ago, but no longer.
 
 ### Trim
 
-[Trim (computing) - Wikiwand](<http://omni.wikiwand.com/en/Trim_(computing)>)
+[Trim (computing) - Wikiwand](<http://www.wikiwand.com/en/Trim_(computing)>)
 [Garbage Collection and TRIM in SSDs Explained - An SSD Primer | The SSD Review](http://www.thessdreview.com/daily-news/latest-buzz/garbage-collection-and-trim-in-ssds-explained-an-ssd-primer/)
 [Extend the life of your SSD drive with fstrim | Opensource.com](https://opensource.com/article/20/2/trim-solid-state-storage-linux)
 [Explainer: What is SSD Trimming? | TechSpot](https://www.techspot.com/article/2600-ssd-trimming-explained/)
@@ -372,7 +372,7 @@ done
 
 ### UFS
 
-[Universal Flash Storage - Wikiwand](https://omni.wikiwand.com/en/Universal_Flash_Storage)
+[Universal Flash Storage - Wikiwand](https://www.wikiwand.com/en/Universal_Flash_Storage)
 
 ### eMMC
 
@@ -407,7 +407,7 @@ SD R: 100MB W: 100MB
 
 ## Tape
 
-[Linear Tape-Open - Wikiwand](https://omni.wikiwand.com/en/Linear_Tape-Open)
+[Linear Tape-Open - Wikiwand](https://www.wikiwand.com/en/Linear_Tape-Open)
 [What is LTO Technology? | Ultrium LTO](https://www.lto.org/technology/what-is-lto-technology/)
 
 [We got a \$5,500 TAPE DRIVE! - YouTube](https://www.youtube.com/watch?v=alxqpbSZorA)
@@ -492,7 +492,7 @@ fio --ioengine=libaio --size=1024m --filename=$HOME/tempfile --direct=1 --loops=
 
 ## SMART
 
-[S.M.A.R.T. - Wikiwand](http://omni.wikiwand.com/en/S.M.A.R.T.)
+[S.M.A.R.T. - Wikiwand](http://www.wikiwand.com/en/S.M.A.R.T.)
 [S.M.A.R.T. - ArchWiki](https://wiki.archlinux.org/title/S.M.A.R.T.)
 [smartmontools](https://www.smartmontools.org/)
 [CrystalDiskInfo - Software - Crystal Dew World](http://crystalmark.info/software/CrystalDiskInfo/index-e.html)
@@ -502,7 +502,7 @@ fio --ioengine=libaio --size=1024m --filename=$HOME/tempfile --direct=1 --loops=
 [How Hard Disk S.M.A.R.T. Works?](http://www.hdsentinel.com/smart/index.php)
 [SMART Devices » ADMIN Magazine](https://www.admin-magazine.com/HPC/Articles/SMART-Devices)
 
-[Known ATA S.M.A.R.T. attributes - Wikiwand](http://omni.wikiwand.com/en/S.M.A.R.T.#/Known_ATA_S.M.A.R.T._attributes)
+[Known ATA S.M.A.R.T. attributes - Wikiwand](http://www.wikiwand.com/en/S.M.A.R.T.#/Known_ATA_S.M.A.R.T._attributes)
 [Can we believe S.M.A.R.T. ? - S.M.A.R.T. attribute list](http://www.hdsentinel.com/smart/smartattr.php)
 [S.M.A.R.T. Monitoring | Knowledge Base](https://kb.acronis.com/content/9636) with description article
 
@@ -577,11 +577,11 @@ lsscsi -t
 
 This interface is obsolete.
 
-[Parallel ATA - Wikiwand](http://omni.wikiwand.com/en/Parallel_ATA)
+[Parallel ATA - Wikiwand](http://www.wikiwand.com/en/Parallel_ATA)
 
 ### SATA
 
-[Serial ATA - Wikiwand](http://omni.wikiwand.com/en/Serial_ATA)
+[Serial ATA - Wikiwand](http://www.wikiwand.com/en/Serial_ATA)
 SATA interface devices will use SATA bus.
 
 SATA 1 - 1.5 Gb/s (150 MB)
@@ -592,7 +592,7 @@ SATA 3.2 – 16 Gb/s (1969 MB/s)
 
 ### M.2
 
-[M.2 - Wikiwand](http://omni.wikiwand.com/en/M.2)
+[M.2 - Wikiwand](http://www.wikiwand.com/en/M.2)
 
 - M key: 4x
 - B key: 2x
@@ -611,11 +611,11 @@ SATA 3.2 – 16 Gb/s (1969 MB/s)
 
 ### SAS
 
-[Serial Attached SCSI - Wikiwand](https://omni.wikiwand.com/en/Serial_Attached_SCSI)
+[Serial Attached SCSI - Wikiwand](https://www.wikiwand.com/en/Serial_Attached_SCSI)
 
 ### NVMe
 
-[NVM Express - Wikiwand](https://omni.wikiwand.com/en/NVM_Express)
+[NVM Express - Wikiwand](https://www.wikiwand.com/en/NVM_Express)
 [NVM Express – scalable, efficient, and industry standard](https://nvmexpress.org/)
 Ditches the SCSI and allow CPU to access NAND like RAM. SCSI Express is doing similar thing. NVMe flash can use M.2 or PCI-E interface.
 
@@ -645,7 +645,7 @@ Higher end NVMe sticks have DRAM buffer for caching the mapping tables for trans
 
 ### SD Card
 
-[SD card - Wikiwand](https://omni.wikiwand.com/en/SD_card#/Speed)
+[SD card - Wikiwand](https://www.wikiwand.com/en/SD_card#/Speed)
 UHS bus is used in SD/TF cards. It is marked in roman numerals on the card.
 [Confusing Symbols on SD Cards - YouTube](https://www.youtube.com/watch?v=Bw89C41NY7U)
 
@@ -661,7 +661,7 @@ A{d} for random I/O per second
 
 ## Advanced Format
 
-[Advanced Format - Wikiwand](https://omni.wikiwand.com/en/Advanced_Format)
+[Advanced Format - Wikiwand](https://www.wikiwand.com/en/Advanced_Format)
 [A Brief Introduction of Advanced Format](http://www.minitool.com/lib/advanced-format.html)
 
 Traditional sector size is 512 byte, with 447 bytes usable data, an storage efficiency of 88%.

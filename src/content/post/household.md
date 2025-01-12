@@ -2,7 +2,7 @@
 title: Household
 description: ""
 created: 2018-07-05
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - household
 ---
@@ -28,23 +28,13 @@ tags:
 
 ## 家品
 
+[[computer-ergonomics#工学椅]]
+
 ### 熒幕掛燈
 
 [【爱否评测】小米显示器挂灯 vs 明基 ScreenBar Plus 屏幕挂灯大战 - YouTube](https://www.youtube.com/watch?v=EDFqeX0FNzc)
 [什么是非对称光源？小米/明基/倍思屏幕挂灯深度对比评测 | XiaoMi Display hanging light Review - YouTube](https://www.youtube.com/watch?v=ZxVNQdzrQfY)
 [平的也好？百到千元熒幕掛燈邊款值得買？ - YouTube](https://www.youtube.com/watch?v=ZzBnF-cxP_Y)
-
-### 工学椅
-
-[Setting up your Computer Work Station - YouTube](https://www.youtube.com/watch?v=v4v7CXDBTxk)
-[Labour Department - Setting Up Office Workstations (video) (Cantonese version)](https://www.labour.gov.hk/eng/public/officeCantonese.htm)
-
-[【爱否评测】千元级人体工学椅横评：如何保护你那年轻的「老腰」？ - YouTube](https://www.youtube.com/watch?v=g-4F3GMt7c4)
-[史上最全！人体工学椅选购指南 | 先看评测 - YouTube](https://www.youtube.com/watch?v=cist5QiK-yw)
-[暴力测试 8 把人体工学椅，先看推荐也翻车！ - YouTube](https://www.youtube.com/watch?v=nkXWvn9I3bo)
-[人体工学椅怎么选？揭秘黑幕！这个视频让你少走弯路！ - YouTube](https://www.youtube.com/watch?v=jNH5lfIm2oM)
-[Don't Buy a "Gaming Chair" - Office Chair vs. Gaming Chair Round-Up & Review - YouTube](https://www.youtube.com/watch?v=9Yhc6mmdJC4)
-[Gaming vs. Office Chairs: What I Learned After Selling 1000’s - YouTube](https://www.youtube.com/watch?v=4LGVUK65wUM)
 
 ### Razors
 

@@ -2,13 +2,14 @@
 title: Tomb Raider
 description: ""
 created: 2023-08-14
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - games
   - tomb-raider
 ---
 
 [History of Tomb Raider (1996 - 2018) - YouTube](https://www.youtube.com/watch?v=K09niWRULuM)
+[Tomb Raider Complete Timeline - YouTube](https://www.youtube.com/playlist?list=PLoR8eXNS_o8tJ2gFJy6yUcBue7Yj1hk74)
 
 The original trilogy debuted in this order from first to last:
 Tomb Raider: Legend (2006)

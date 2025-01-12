@@ -2,7 +2,7 @@
 title: Database
 description: ""
 created: 2015-08-03
-updated: 2024-09-07
+updated: 2025-01-09
 tags:
   - comp/database
 ---
@@ -10,7 +10,7 @@ tags:
 > TODO: merge `caravan/database/` here
 > split `datebase-mysql`, `datebase-redis`, `datebase-tikv-tidb`, `datebase-graph`, `datebase-as-a-service`, `datebase-transactional`, `datebase-kv`, `datebase-document`, `datebase-lightweight`, `datebase-multimodal`, `datebase-vector`
 
-[Database - Wikiwand](https://omni.wikiwand.com/en/Database)
+[Database - Wikiwand](https://www.wikiwand.com/en/Database)
 [Databases 101 - Thomas LaRock](https://thomaslarock.com/2018/07/databases-101/)
 [Introduction :: LearnDB](https://learndb.net/basics/intro/)
 
@@ -20,13 +20,13 @@ tags:
 # Theory
 
 [ACID vs. BASE: The Shifting pH of Database Transaction Processing | Big Data Articles | DATAVERSITY](http://www.dataversity.net/acid-vs-base-the-shifting-ph-of-database-transaction-processing/)
-[ACID - Wikiwand](http://omni.wikiwand.com/en/ACID)
-[Eventual consistency - Wikiwand](http://omni.wikiwand.com/en/Eventual_consistency)
+[ACID - Wikiwand](http://www.wikiwand.com/en/ACID)
+[Eventual consistency - Wikiwand](http://www.wikiwand.com/en/Eventual_consistency)
 [Myth: Eric Brewer on Why Banks are BASE Not ACID - Availability Is Revenue - High Scalability -](http://highscalability.com/blog/2013/5/1/myth-eric-brewer-on-why-banks-are-base-not-acid-availability.html)
 [Building Robust Systems With ACID and Constraints — Brandur Leach](https://brandur.org/acid)
 [Relational Database ACID Transactions (Explained by Example) - YouTube](https://www.youtube.com/watch?v=pomxJOFVcQs)
 
-[XML database - Wikiwand](https://omni.wikiwand.com/en/XML_database)
+[XML database - Wikiwand](https://www.wikiwand.com/en/XML_database)
 
 [NoSQL 数据库不应该放弃 Consistency](https://www.infoq.cn/article/rhzs0KI2G*Y2r9PMdeNv)
 [Don't Get Stuck in the CON Game (V3) - by Pat Helland](https://pathelland.substack.com/p/dont-get-stuck-in-the-con-game-v3)
@@ -38,7 +38,7 @@ tags:
 
 ## CAP Theorem
 
-[CAP theorem - Wikiwand](http://omni.wikiwand.com/en/CAP_theorem)
+[CAP theorem - Wikiwand](http://www.wikiwand.com/en/CAP_theorem)
 [Brewer's CAP Theorem <= :julianbrowne](http://www.julianbrowne.com/article/viewer/brewers-cap-theorem)
 [CAP Twelve Years Later: How the "Rules" Have Changed](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)
 [Blog | Plan setup, pause-minority, mirrored nodes and the CAP theorem - CloudAMQP, RabbitMQ as a Service](https://www.cloudamqp.com/blog/2015-12-29-cloudamqp-plan-setup-pause-minority-mirrored-nodes-and-the-cap-theorem.html)
@@ -64,7 +64,7 @@ Read, Update, Memory amplification
 [Intro, Data Modeling, Databases | Prisma's Data Guide](https://www.prisma.io/dataguide/)
 
 [Database Keys Made Easy - Primary, Foreign, Candidate, Surrogate, & Many More - YouTube](https://www.youtube.com/watch?v=8wUUMOKAK-c)
-[Third normal form - Wikiwand](https://omni.wikiwand.com/en/Third_normal_form)
+[Third normal form - Wikiwand](https://www.wikiwand.com/en/Third_normal_form)
 [An Introduction to Database Normalization | Mike Hillyer's Personal Webspace](http://mikehillyer.com/articles/an-introduction-to-database-normalization/)
 [The Basics of Database Normalization](http://databases.about.com/od/specificproducts/a/normalization.htm)
 [Database Normalization Explained - DEV Community 👩‍💻👨‍💻](https://dev.to/nexttech/database-normalization-explained-5b1a)
@@ -98,7 +98,7 @@ BCNF is stronger the 3NF but in practice 99.99% of 3NF are BCNF.
 
 ## CRDT
 
-[Conflict-free replicated data type - Wikiwand](https://omni.wikiwand.com/en/Conflict-free_replicated_data_type)
+[Conflict-free replicated data type - Wikiwand](https://www.wikiwand.com/en/Conflict-free_replicated_data_type)
 [Readings in conflict-free replicated data types](http://christophermeiklejohn.com/crdt/2014/07/22/readings-in-crdts.html) ❗!important
 [A Look at Conflict-Free Replicated Data Types (CRDT) – Medium](https://medium.com/@istanbul_techie/a-look-at-conflict-free-replicated-data-types-crdt-221a5f629e7e#.hn2ru5vr5)
 [ljwagerfield/crdt: CRDT Tutorial for Beginners (a digestible explanation with less math!)](https://github.com/ljwagerfield/crdt)
@@ -110,7 +110,7 @@ BCNF is stronger the 3NF but in practice 99.99% of 3NF are BCNF.
 [dominictarr/crdt: Commutative Replicated Data Types for easy collaborative/distributed systems.](https://github.com/dominictarr/crdt) is this the same?
 
 This replaces operational transformation for collaborative editing.
-[Operational transformation - Wikiwand](https://omni.wikiwand.com/en/Operational_transformation)
+[Operational transformation - Wikiwand](https://www.wikiwand.com/en/Operational_transformation)
 [Operational Transformation – OT Explained](https://operational-transformation.github.io/)
 [Operation Transformation - Google Slides](https://docs.google.com/presentation/d/1soRtddFXH-zATvr8vvwTvfGvgqlDw0RaclcOKjOcxCk/present?slide=id.i14)
 [Operational Transformation or How Google Docs Works - David Chu @CocoaHeads Taipei - YouTube](https://www.youtube.com/watch?v=u2_yccaHbQk)
@@ -162,22 +162,22 @@ Innodb B-tree, fast for read and update workload
 
 [[algorithm#Database Data Structures]]
 
-[Database engine - Wikiwand](https://omni.wikiwand.com/en/Database_engine)
-[Comparison of MySQL database engines - Wikiwand](https://omni.wikiwand.com/en/Comparison_of_MySQL_database_engines)
+[Database engine - Wikiwand](https://www.wikiwand.com/en/Database_engine)
+[Comparison of MySQL database engines - Wikiwand](https://www.wikiwand.com/en/Comparison_of_MySQL_database_engines)
 [MySQL Storage Engines » ADMIN Magazine](http://www.admin-magazine.com/Articles/A-storage-engine-for-every-use-case)
 
 [Should you move from MyISAM to Innodb ? - MySQL Performance Blog](https://www.percona.com/blog/2009/01/12/should-you-move-from-myisam-to-innodb/)
 [MySQL Engines - MyISAM vs Innodb](https://support.rackspace.com/how-to/mysql-engines-myisam-vs-innodb/)
 
-[InnoDB - Wikiwand](https://omni.wikiwand.com/en/InnoDB) Relational
+[InnoDB - Wikiwand](https://www.wikiwand.com/en/InnoDB) Relational
 [The physical structure of InnoDB index pages – Jeremy Cole](https://blog.jcole.us/2013/01/07/the-physical-structure-of-innodb-index-pages/)
-[TokuDB - Wikiwand](https://omni.wikiwand.com/en/TokuDB) Relational
+[TokuDB - Wikiwand](https://www.wikiwand.com/en/TokuDB) Relational
 [Percona TokuDB](https://www.percona.com/software/mysql-database/percona-tokudb)
 [TokuDB Introduction](https://www.percona.com/doc/percona-server/LATEST/tokudb/tokudb_intro.html)
 
-[WiredTiger - Wikiwand](https://omni.wikiwand.com/en/WiredTiger) Document
+[WiredTiger - Wikiwand](https://www.wikiwand.com/en/WiredTiger) Document
 
-[RocksDB - Wikiwand](https://omni.wikiwand.com/en/RocksDB) KV
+[RocksDB - Wikiwand](https://www.wikiwand.com/en/RocksDB) KV
 
 [Database Pages — A deep dive. The Physical storage of rows and… | by Hussein Nasser | Medium](https://medium.com/@hnasr/database-pages-a-deep-dive-38cdb2c79eb5)
 
@@ -208,7 +208,7 @@ Uber's migration from PostgreSQL (back) to MySQL
 
 # RDBMS/Transactional Database
 
-[Relational database management system - Wikiwand](http://omni.wikiwand.com/en/Relational_database_management_system)
+[Relational database management system - Wikiwand](http://www.wikiwand.com/en/Relational_database_management_system)
 
 Most call this categories of DBMS as SQL DB.
 
@@ -250,7 +250,7 @@ MySQL's data clustering means the primary key affects data I/O; Postgres does no
 
 ## Datalog
 
-[Datalog - Wikiwand](https://omni.wikiwand.com/en/Datalog)
+[Datalog - Wikiwand](https://www.wikiwand.com/en/Datalog)
 
 [Datalog: Deductive Database Programming](https://docs.racket-lang.org/datalog/)
 [pyDatalog](https://sites.google.com/site/pydatalog/)
@@ -358,7 +358,7 @@ HAProxy recipes
 ## MySQL
 
 [MySQL](https://www.mysql.com/)
-[MySQL - Wikiwand](https://omni.wikiwand.com/en/MySQL)
+[MySQL - Wikiwand](https://www.wikiwand.com/en/MySQL)
 
 [Course introduction — MySQL for Developers — PlanetScale](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction)
 [Learn MySQL - YouTube](https://www.youtube.com/playlist?list=PLQiYtJSQdSEDH7TCBxm6tgdTc8rbKoX6K) PlanetScale
@@ -422,7 +422,7 @@ Basics:
 
 [[sql#JSON support]]
 
-[NoSQL - Wikiwand](https://omni.wikiwand.com/en/NoSQL)
+[NoSQL - Wikiwand](https://www.wikiwand.com/en/NoSQL)
 [NOSQL Databases](http://nosql-database.org/)
 [NoSQL: Past, Present, Future](http://www.infoq.com/presentations/NoSQL-History)
 [Visual Guide To NoSQL Systems](http://blog.nahurst.com/visual-guide-to-nosql-systems)
@@ -446,8 +446,6 @@ Next Generation Databases mostly addressing _some of the points_: being non-rela
 Usually provides BASE eventual consistency (eventual convergence may be a better term).
 
 [MongoDB vs. PostgreSQL vs. ScyllaDB: Tractian’s Experience - The New Stack](https://thenewstack.io/mongodb-vs-postgresql-vs-scylladb-tractians-experience/)
-
-[Don't Get Stuck in the CON Game (V3) - by Pat Helland](https://pathelland.substack.com/p/dont-get-stuck-in-the-con-game-v3)
 
 Category in data type/arrangement:
 
@@ -600,7 +598,7 @@ The first three supports relationship by a second index lookup, `JOIN`-like oper
 ## LMDB
 
 [LMDB: Lightning Memory-Mapped Database Manager (LMDB)](http://www.lmdb.tech/doc/index.html) B+ tree, faster than log based for small tree size
-[Lightning Memory-Mapped Database - Wikiwand](https://omni.wikiwand.com/en/Lightning_Memory-Mapped_Database)
+[Lightning Memory-Mapped Database - Wikiwand](https://www.wikiwand.com/en/Lightning_Memory-Mapped_Database)
 [Kolab Now Blog: A short guide to LMDB](https://blogs.kolabnow.com/2018/06/07/a-short-guide-to-lmdb)
 [LMDB: Getting Started](http://www.lmdb.tech/doc/starting.html)
 [LMDB/lmdb: Read-only mirror of official repo on openldap.org.](https://github.com/LMDB/lmdb)
@@ -763,7 +761,7 @@ RDBMS solutions rely on cheap CPU cycles to enable efficient solutions. NoSQL so
 [RethinkDB: the open-source database for the realtime web](http://rethinkdb.com/)
 [Frequently asked questions - RethinkDB](https://rethinkdb.com/faq/)
 
-[RethinkDB - Wikiwand](https://omni.wikiwand.com/en/RethinkDB)
+[RethinkDB - Wikiwand](https://www.wikiwand.com/en/RethinkDB)
 [rethinkdb/rethinkdb: The open-source database for the realtime web.](https://github.com/rethinkdb/rethinkdb)
 [Ten-minute guide with RethinkDB and JavaScript - RethinkDB](https://rethinkdb.com/docs/guide/javascript/)
 [Jepsen: RethinkDB 2.1.5](https://aphyr.com/posts/329-jepsen-rethinkdb-2-1-5)
@@ -846,7 +844,7 @@ EdgeQL/GraphQL and REST backed by PostgreSQL.
 ## Apache HBase
 
 [Apache HBase – Apache HBase™ Home](http://hbase.apache.org/)
-[Apache HBase - Wikiwand](http://omni.wikiwand.com/en/Apache_HBase)
+[Apache HBase - Wikiwand](http://www.wikiwand.com/en/Apache_HBase)
 implements Google's BigTable with Hadoop and HDFS
 
 [Configuring and deploying HBase [Tutorial] | Packt Hub](https://hub.packtpub.com/configuring-and-deploying-hbase-tutorial/)
@@ -855,7 +853,7 @@ implements Google's BigTable with Hadoop and HDFS
 ## Apache Cassandra
 
 [The Apache Cassandra Project](http://cassandra.apache.org/)
-[Apache Cassandra - Wikiwand](http://omni.wikiwand.com/en/Apache_Cassandra)
+[Apache Cassandra - Wikiwand](http://www.wikiwand.com/en/Apache_Cassandra)
 
 [Top 5 reasons to use Apache Cassandra Database | IT Svit Blog](https://itsvit.com/blog/top-5-reasons-use-apache-cassandra-database/)
 
@@ -869,7 +867,7 @@ implements Google's BigTable with Hadoop and HDFS
 ## Scylla
 
 [ScyllaDB](http://www.scylladb.com/)
-[Scylla (database) - Wikiwand](<http://omni.wikiwand.com/en/Scylla_(database)>)
+[Scylla (database) - Wikiwand](<http://www.wikiwand.com/en/Scylla_(database)>)
 Cassandra compatible with higher throughputs and lower latencies
 
 [scylladb/scylla: NoSQL data store using the seastar framework, compatible with Apache Cassandra](https://github.com/scylladb/scylla)
@@ -891,7 +889,7 @@ C++ framework for high-performance server applications on modern hardware
 ## BigTable
 
 [Bigtable - Scalable NoSQL Database Service | Google Cloud](https://cloud.google.com/bigtable/)
-[Bigtable - Wikiwand](http://omni.wikiwand.com/en/Bigtable)
+[Bigtable - Wikiwand](http://www.wikiwand.com/en/Bigtable)
 
 [Bigtable: A Distributed Storage System for Structured Data – Google AI](https://ai.google/research/pubs/pub27898)
 
@@ -916,7 +914,7 @@ C++ framework for high-performance server applications on modern hardware
 
 [[#LevelDB]]
 
-[In-memory database - Wikiwand](https://omni.wikiwand.com/en/In-memory_database)
+[In-memory database - Wikiwand](https://www.wikiwand.com/en/In-memory_database)
 [Adding a cache is not as simple as it may seem... - YouTube](https://www.youtube.com/watch?v=bFf-A27Rc9s)
 
 [Lightweight javascript in-memory database: LokiJS](http://techfort.github.io/LokiJS/) Mongo API
@@ -1035,6 +1033,7 @@ The _Standard_ API for interacting with GraphDB.
 [All You Need to Know about Vector Databases and How to Use Them to Augment Your LLM Apps | by Dominik Polzer | Sep, 2023 | Towards Data Science](https://towardsdatascience.com/all-you-need-to-know-about-vector-databases-and-how-to-use-them-to-augment-your-llm-apps-596f39adfedb)
 [Which Vector Database Should I Use? A Comparison Cheatsheet | by Navid Rezaei | Medium](https://navidre.medium.com/which-vector-database-should-i-use-a-comparison-cheatsheet-cb330e55fca)
 [Vector Database Comparison Cheatsheet - Google Sheets](https://docs.google.com/spreadsheets/d/1oAeF4Q7ILxxfInGJ8vTsBck3-2U9VV8idDf3hJOozNw/edit#gid=0)
+[Pgvector vs. Pinecone: Vector Database Comparison](https://www.timescale.com/blog/pgvector-vs-pinecone/)
 
 [Document-Oriented Agents: Vector Databases, LLMs, Langchain, FastAPI, and Docker | Towards Data Science](https://towardsdatascience.com/document-oriented-agents-a-journey-with-vector-databases-llms-langchain-fastapi-and-docker-be0efcd229f4)
 [Explaining Vector Databases in 3 Levels of Difficulty | by Leonie Monigatti | Towards Data Science](https://towardsdatascience.com/explaining-vector-databases-in-3-levels-of-difficulty-fc392e48ab78)
@@ -1052,6 +1051,17 @@ The _Standard_ API for interacting with GraphDB.
 [Vector Database - A Comprehensive Guide | by Navid Rezaei | Towards Data Science](https://towardsdatascience.com/vector-database-a-comprehensive-guide-2b1a3b0a8b9f)
 [Best Vector Database Software in 2023 | G2](https://www.g2.com/categories/vector-database)
 [Vector databases - a look at the AI database market with a comprehensive comparison matrix](https://objectbox.io/vector-database/)
+
+## pgvector/pgvectorscale
+
+[pgvector/pgvector: Open-source vector similarity search for Postgres](https://github.com/pgvector/pgvector)
+
+[timescale/pgvectorscale: A complement to pgvector for high performance, cost efficient vector search on large workloads.](https://github.com/timescale/pgvectorscale)
+[timescale/pgai: A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL](https://github.com/timescale/pgai)
+
+[Vector Databases Are the Wrong Abstraction](https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/)
+
+[The Problem with Vector Databases (and how to fix it) - YouTube](https://www.youtube.com/watch?v=8oTnUtFYAes)
 
 ## Qdrant
 
@@ -1108,7 +1118,7 @@ The _Standard_ API for interacting with GraphDB.
 
 [[datebase-postgresql]]
 
-[NewSQL - Wikiwand](https://omni.wikiwand.com/en/NewSQL)
+[NewSQL - Wikiwand](https://www.wikiwand.com/en/NewSQL)
 [NoSQL vs. NewSQL: Choosing the Right Tool - VoltDB](https://www.voltdb.com/blog/2015/04/09/nosql-vs-newsql-choosing-right-tool/)
 
 [NoSQL Is Dead](http://www.infoq.com/presentations/nosql-commonalities)
@@ -1126,7 +1136,7 @@ Better scaling strategy than RMDBS
 ## VoltDB
 
 [In-Memory Database | VoltDB](https://www.voltdb.com/) a NewSQL database that combines the scale + performance of NoSQL with immediate consistency + ACID transactions
-[VoltDB - Wikiwand](https://omni.wikiwand.com/en/VoltDB)
+[VoltDB - Wikiwand](https://www.wikiwand.com/en/VoltDB)
 
 [Jepsen: VoltDB 6.3](https://aphyr.com/posts/331-jepsen-voltdb-6-3)
 
@@ -1177,12 +1187,12 @@ Hive long running job, resume interrupted computation
 ## MemSQL
 
 [MemSQL: The Database For Real-Time Applications](https://www.memsql.com/)
-[MemSQL - Wikiwand](http://omni.wikiwand.com/en/MemSQL)
+[MemSQL - Wikiwand](http://www.wikiwand.com/en/MemSQL)
 
 ## CockroachDB
 
 [Cockroach Labs](https://www.cockroachlabs.com/)
-[Cockroach Labs - Wikiwand](http://omni.wikiwand.com/en/Cockroach_Labs)
+[Cockroach Labs - Wikiwand](http://www.wikiwand.com/en/Cockroach_Labs)
 
 CockroachDB is a cloud-native SQL database for building global, scalable cloud services that survive disasters.
 
@@ -1223,7 +1233,7 @@ CockroachDB is a cloud-native SQL database for building global, scalable cloud s
 ## Google Cloud Spanner
 
 [Cloud Spanner | Automatic Sharding with Transactional Consistency at Scale | Google Cloud](https://cloud.google.com/spanner/)
-[Spanner (database) - Wikiwand](<https://omni.wikiwand.com/en/Spanner_(database)>)
+[Spanner (database) - Wikiwand](<https://www.wikiwand.com/en/Spanner_(database)>)
 
 [Google's Cloud Spanner: how does it stack up? | ZDNet](https://www.zdnet.com/article/google-spanner-and-how-it-compares-to-microsofts-cosmos-db/)
 [Spanner vs. Calvin: Distributed Consistency at Scale](https://fauna.com/blog/distributed-consistency-at-scale-spanner-vs-calvin)
@@ -1259,7 +1269,7 @@ CockroachDB is a cloud-native SQL database for building global, scalable cloud s
 ## OrientDB
 
 [OrientDB - Distributed Graph/Document Multi-Model Database](http://orientdb.com/)
-[OrientDB - Wikiwand](http://omni.wikiwand.com/en/OrientDB)
+[OrientDB - Wikiwand](http://www.wikiwand.com/en/OrientDB)
 
 Multi-model database supporting graph, document, key/value, and object models.
 Relationships are managed by graph.
@@ -1270,7 +1280,7 @@ Relationships are managed by graph.
 ## ArangoDB
 
 [ArangoDB - highly available multi-model NoSQL database](https://www.arangodb.com/)
-[ArangoDB - Wikiwand](http://omni.wikiwand.com/en/ArangoDB)
+[ArangoDB - Wikiwand](http://www.wikiwand.com/en/ArangoDB)
 Document, Graph, KV
 Supports JavaScript (V8 Engine)
 
@@ -1287,7 +1297,7 @@ Supports JavaScript (V8 Engine)
 ## CosmoDB
 
 [Azure Cosmos DB – Globally Distributed Database Service (formerly DocumentDB) | Microsoft Azure](https://azure.microsoft.com/en-us/services/cosmos-db/)
-[Cosmos DB - Wikiwand](https://omni.wikiwand.com/en/Cosmos_DB)
+[Cosmos DB - Wikiwand](https://www.wikiwand.com/en/Cosmos_DB)
 [Introduction to Azure Cosmos DB | Microsoft Docs](https://docs.microsoft.com/en-us/azure/cosmos-db/introduction)
 
 multi data model, multi API, multi consistencies database as a service by Microsoft
@@ -1335,7 +1345,7 @@ Time series database is also good for logging
 ## InfluxDB
 
 [Home InfluxDB | InfluxData](https://www.influxdata.com/home/)
-[InfluxDB - Wikiwand](https://omni.wikiwand.com/en/InfluxDB)
+[InfluxDB - Wikiwand](https://www.wikiwand.com/en/InfluxDB)
 [influxdata/influxdb: Scalable datastore for metrics, events, and real-time analytics](https://github.com/influxdata/influxdb)
 InfluxDB 2.0 is cloud based, the battle tested features goes to the open source version, more like a downstream
 IOX (InfluxDB 3.0?) separated the DB part as open source product,the control plane is the closed source commercial part
@@ -1390,7 +1400,7 @@ VoltDB
 
 [Pricing | Railway](https://railway.app/pricing) can host SQL, Redis, Mongo, $5 credit per month
 
-[Turso | Pricing](https://turso.tech/pricing) SQLite on the edge, generous free tier3
+[Turso | Pricing](https://turso.tech/pricing) SQLite on the edge, generous free tier
 
 [Pricing and Plans | Fauna](https://fauna.com/pricing) distributed ACID document DB
 

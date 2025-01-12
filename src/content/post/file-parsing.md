@@ -2,7 +2,7 @@
 title: File Parsing
 description: ""
 created: 2018-08-01
-updated: 2024-08-28
+updated: 2025-01-09
 tags:
   - binary-file
   - parsing
@@ -55,12 +55,12 @@ Root level keys:
 ### Point Cloud
 
 [The PCD (Point Cloud Data) file format - Point Cloud Library (PCL)](http://pointclouds.org/documentation/tutorials/pcd_file_format.php)
-[PLY (file format) - Wikiwand](<https://omni.wikiwand.com/en/PLY_(file_format)>)
-[Wavefront .obj file - Wikiwand](https://omni.wikiwand.com/en/Wavefront_.obj_file)
+[PLY (file format) - Wikiwand](<https://www.wikiwand.com/en/PLY_(file_format)>)
+[Wavefront .obj file - Wikiwand](https://www.wikiwand.com/en/Wavefront_.obj_file)
 [Point Cloud XYZ (POINTCLOUDXYZ) Reader/Writer](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/pointcloudxyz/pointcloudxyz.htm)
-[STL (file format) - Wikiwand](<https://omni.wikiwand.com/en/STL_(file_format)>)
+[STL (file format) - Wikiwand](<https://www.wikiwand.com/en/STL_(file_format)>)
 
-[glTF - Wikiwand](https://omni.wikiwand.com/en/GlTF)
+[glTF - Wikiwand](https://www.wikiwand.com/en/GlTF)
 [glTF Overview - The Khronos Group Inc](https://www.khronos.org/gltf/)
 
 [The Alliance for OpenUSD (AOUSD)](https://aousd.org/)
@@ -93,8 +93,8 @@ COBie: Construction Operations Building information exchange, .xml
 
 ## PDF
 
-[PDF - Wikiwand](https://omni.wikiwand.com/en/PDF)
-[PostScript - Wikiwand](https://omni.wikiwand.com/en/PostScript)
+[PDF - Wikiwand](https://www.wikiwand.com/en/PDF)
+[PostScript - Wikiwand](https://www.wikiwand.com/en/PostScript)
 [c++ - PDF specifications for coders: Adobe or ISO? - Stack Overflow](https://stackoverflow.com/questions/14111831/pdf-specifications-for-coders-adobe-or-iso)
 [PDF File Format - What is a PDF file?](https://docs.fileformat.com/pdf/)
 [PDF file format: Basic structure [updated 2020] - Infosec Resources](https://resources.infosecinstitute.com/topic/pdf-file-format-basic-structure/)

@@ -2,7 +2,7 @@
 title: Arduino
 description: ""
 created: 2018-09-12
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - arduino
   - iot
@@ -11,7 +11,7 @@ tags:
 
 [You can learn Arduino in 15 minutes. - YouTube](https://www.youtube.com/watch?v=nL34zDTPkcs) Arduino is the board and the IDE/Platform, which supports many MCUs
 
-[Arduino - Wikiwand](http://omni.wikiwand.com/en/Arduino)
+[Arduino - Wikiwand](http://www.wikiwand.com/en/Arduino)
 [Arduino UNO FAQ | Arduino Tips, Tricks, and Techniques | Adafruit Learning System](https://learn.adafruit.com/arduino-tips-tricks-and-techniques?view=all)
 
 [Is the Arduino Right for Your Project? | Arduino | Maker Pro](https://maker.pro/arduino/tutorial/is-the-arduino-right-for-your-project)
@@ -30,7 +30,6 @@ tags:
 [Free Online Arduino Class](https://www.instructables.com/class/Arduino-Class/)
 [Arduino Tutorials | Maker Pro](https://maker.pro/arduino/tutorial)
 [Arduino 101 » Linux Magazine](http://www.linux-magazine.com/Online/Features/Arduino-101)
-[Arduino Mini Course - YouTube](https://www.youtube.com/playlist?list=PLeJ_Vi9u6Kitus0uCM-Fb3bIYumS8XFRg)
 
 [Arduino Resources](http://robodino.org/resources/arduino)
 [AVR Tutorial](http://ladyada.net/learn/avr/index.html)
@@ -39,12 +38,14 @@ tags:
 [Tracing the Origins of Arduino: Part 1: The AVR... | element14 | Arduino Tutorials](https://www.element14.com/community/docs/DOC-88981/l/tracing-the-origins-of-arduino-part-1-the-avr-microcontroller)
 
 [Arduino Mini Course Access | Random Nerd Tutorials](https://randomnerdtutorials.com/arduino-mini-course-access/)
+[Arduino Mini Course - YouTube](https://www.youtube.com/playlist?list=PLeJ_Vi9u6Kitus0uCM-Fb3bIYumS8XFRg)
 
 [Arduino MASTERCLASS | Full Programming Workshop in 90 Minutes! - YouTube](https://www.youtube.com/watch?v=BLrHTHUjPuw) beginner
 
 [Why Arduino is not the right educational tool | Hack van de dam](http://www.hackvandedam.nl/blog/?p=762)
 [5 Myths Everyone Believes about Arduino (that aren't true) - Bald Engineer](https://www.baldengineer.com/5-arduino-myths.html)
 
+[Arduino Discovery Zone | Robots Got Talents](https://www.robotsgottalents.com/arduino-lessons)
 [tableflip/nodebot-workshop: A nodeschool workshop on how to get your ardunio alive with johnny-five](https://github.com/tableflip/nodebot-workshop)
 
 ## Trademark lawsuit
@@ -58,15 +59,23 @@ tags:
 [[electronic-components]]
 
 [Arduino Libraries | All About Arduino Libraries | Adafruit Learning System](https://learn.adafruit.com/adafruit-all-about-arduino-libraries-install-use?view=all)
+[Libraries | Arduino Documentation](https://docs.arduino.cc/libraries/)
 [Arduino Library List - Arduino Libraries](https://www.arduinolibraries.info/)
 
 Generic libraries not related to particular hardware
 
-[piconomix/piconomix-fwlib: open source bare-metal C firmware and documentation for microcontrollers](https://github.com/piconomix/piconomix-fwlib) CLI interface to pins
-[spacehuhn/SimpleCLI: Command Line Interface Library for Arduino](https://github.com/spacehuhn/SimpleCLI)
+[piconomix/px-fwlib: open source bare-metal C firmware and documentation for microcontrollers](https://github.com/piconomix/px-fwlib) CLI interface to pins
+[SpacehuhnTech/SimpleCLI: Command Line Interface Library for Arduino](https://github.com/SpacehuhnTech/SimpleCLI)
 
-[avdweb_AnalogReadFast - Arduino Reference](https://www.arduino.cc/reference/en/libraries/avdweb_analogreadfast/)
-[Faster analogRead](https://www.avdweb.nl/arduino/adc-dac/fast-10-bit-adc)
+[avdweb_AnalogReadFast | Arduino Documentation](https://docs.arduino.cc/libraries/avdweb_analogreadfast/)
+[Fast analogRead 10/12 bit ADC for the Arduino Zero and Uno](https://avdweb.nl/arduino/adc-dac/fast-10-bit-adc)
+
+### USB HID
+
+[Keyboard | Arduino Documentation](https://docs.arduino.cc/language-reference/en/functions/usb/Keyboard/)
+[Mouse | Arduino Documentation](https://docs.arduino.cc/language-reference/en/functions/usb/Mouse/)
+
+[NicoHood/HID: Bring enhanced HID functions to your Arduino!](https://github.com/NicoHood/HID)
 
 ## Choosing Arduino Board
 
@@ -115,19 +124,32 @@ Digispark/ATTiny86
 
 [Why a Digispark should not be your first Arduino. - YouTube](https://www.youtube.com/watch?v=Gg2nM0OdUtQ)
 
-[ATtiny85 - 8-bit AVR Microcontrollers - Microcontrollers and Processors](https://www.microchip.com/wwwproducts/en/ATtiny85)
+[ATtiny85 | Microchip Technology](https://www.microchip.com/en-us/product/ATtiny85)
 
 [High-Low Tech – Programming an ATtiny w/ Arduino 1.6 (or 1.0)](http://highlowtech.org/?p=1695)
 [How to use Atmel ATtiny85 with Arduino || Arduino tutorial - YouTube](https://www.youtube.com/watch?v=gff_Jxfqcio)
 
 [digispark:tutorials:connecting [Digistump Wiki]](http://digistump.com/wiki/digispark/tutorials/connecting)
 [Installing Drivers and Programming the DigiSpark ATtiny85 dev boards - Tutorial - YouTube](https://www.youtube.com/watch?v=MmDBvgrYGZs) !important
-[Digispark Attiny 85 With Arduino IDE: 3 Steps](https://www.instructables.com/id/Digispark-Attiny-85-With-Arduino-IDE/)
+[Digispark Attiny 85 With Arduino IDE: 3 Steps](https://www.instructables.com/Digispark-Attiny-85-With-Arduino-IDE/)
 
 [How Do You Power the Digispark?](https://digistump.com/board/index.php?topic=16.0)
 [digispark:tricks [Digistump Wiki]](https://digistump.com/wiki/digispark/tricks)
 
 [ATtiny85 Board First Look and Review | Install Drivers & Use with Arduino IDE - YouTube](https://www.youtube.com/watch?v=vPRpT_7rQNo)
+[ATtiny85 Arduino Getting Started Tutorial, The Smallest Arduino](https://www.electroniclinic.com/attiny85-arduino-getting-started-tutorial-the-smallest-arduino/)
+
+### ATMega32U4
+
+> ATMega32U4 can be used as an USB HID device
+
+[ATmega32U4 | Microchip Technology](https://www.microchip.com/en-us/product/ATmega32U4)
+
+[How To Make DIY Keyboard With ATMEGA32U4 Dev Board |From ICStation.com - YouTube](https://www.youtube.com/watch?v=peyG24r4sjA)
+[Keyboard demo - Pastebin.com](https://pastebin.com/diTfkUh7)
+
+[How To Turn An Arduino Into A USB Keyboard Or Mouse! | ATMega32U4 - YouTube](https://www.youtube.com/watch?v=yTc2GLXfCOY)
+[SimpleElectronicsYT/HID-EXAMPLE: the example that goes with the HID Keyboard video](https://github.com/SimpleElectronicsYT/HID-EXAMPLE)
 
 ## ADC
 
@@ -202,8 +224,8 @@ To program other micro-controllers (e.g. ATTiny85)
 [AVRISP versus AVRISP mkII | AVR Freaks](https://www.avrfreaks.net/forum/avrisp-versus-avrisp-mkii)
 
 [Arduino ISP (In System Programming) and stand-alone circuits | Open Electronics](https://www.open-electronics.org/arduino-isp-in-system-programming-and-stand-alone-circuits/)
-[3 Simple Ways of Programming an ESP8266 12X Module: 5 Steps (with Pictures)](https://www.instructables.com/id/3-Simple-Ways-of-Programming-an-ESP8266-12X-Module/)
-[Integrate ArduinoISP and Atmel Studio: 4 Steps](https://www.instructables.com/id/Integrate-ArduinoISP-and-Atmel-Studio/)
+[3 Simple Ways of Programming an ESP8266 12X Module: 5 Steps (with Pictures)](https://www.instructables.com/3-Simple-Ways-of-Programming-an-ESP8266-12X-Module/)
+[Integrate ArduinoISP and Atmel Studio: 4 Steps](https://www.instructables.com/Integrate-ArduinoISP-and-Atmel-Studio/)
 
 [Overview | Program an AVR or Arduino Using Raspberry Pi GPIO | Adafruit Learning System](https://learn.adafruit.com/program-an-avr-or-arduino-using-raspberry-pi-gpio-pins?view=all)
 
@@ -217,7 +239,7 @@ To program other micro-controllers (e.g. ATTiny85)
 [Arduino Arcade LEGO Games Box - Arduino Project Hub](https://create.arduino.cc/projecthub/LenkaDesign/arduino-arcade-lego-games-box-c05299)
 [Balancing Robot (Arduino) | Barrett's Projects](https://barrettsprojects.wordpress.com/2014/03/11/balancing-robot-arduino/)
 [Electronic Piano Keyboard With Preset Songs - Hackster.io](https://www.hackster.io/lindsi8784/electronic-piano-keyboard-with-preset-songs-74ee7c)
-[Self-Watering Plant: 30 Steps (with Pictures)](https://www.instructables.com/id/Self-Watering-Plant/)
+[Self-Watering Plant: 30 Steps (with Pictures)](https://www.instructables.com/Self-Watering-Plant/)
 
 [60+ Arduino Projects and Tutorials | Random Nerd Tutorials](https://randomnerdtutorials.com/projects-arduino/)
 

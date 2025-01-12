@@ -2,7 +2,7 @@
 title: HTTP
 description: ""
 created: 2022-08-23
-updated: 2024-09-06
+updated: 2025-01-09
 tags:
   - http
   - web
@@ -96,7 +96,7 @@ Server Push is deprecated, use 103 Early Hints instead.
 [HTTP3 Is Eating The World | Prime Reacts - YouTube](https://www.youtube.com/watch?v=-jlYeQ3hOhY)
 
 [QUIC Working Group](https://quicwg.org/)
-[QUIC - Wikiwand](https://omni.wikiwand.com/en/QUIC)
+[QUIC - Wikiwand](https://www.wikiwand.com/en/QUIC)
 [QUIC, a multiplexed stream transport over UDP - The Chromium Projects](https://www.chromium.org/quic)
 [The QUIC transport protocol: design and Internet-scale deployment | the morning paper](https://blog.acolyer.org/2017/10/26/the-quic-transport-protocol-design-and-internet-scale-deployment/)
 [Unlocking QUIC’s proxying potential with MASQUE](https://blog.cloudflare.com/unlocking-quic-proxying-potential/)

@@ -2,7 +2,7 @@
 title: Bulma
 description: The modern CSS framework that just works
 created: 2023-09-01
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - bulma
   - css

@@ -2,7 +2,7 @@
 title: Mixed Reality
 description: ""
 created: 2015-07-14
-updated: 2024-09-23
+updated: 2025-01-09
 tags:
   - augmented-reality
   - comp/hardware
@@ -10,10 +10,10 @@ tags:
   - virtual-reality
 ---
 
-[Augmented reality - Wikiwand](https://omni.wikiwand.com/en/Augmented_reality)
-[Virtual reality - Wikiwand](https://omni.wikiwand.com/en/Virtual_reality)
-[Mixed reality - Wikiwand](https://omni.wikiwand.com/en/Mixed_reality)
-[Extended reality - Wikiwand](https://omni.wikiwand.com/en/Extended_reality)
+[Augmented reality - Wikiwand](https://www.wikiwand.com/en/Augmented_reality)
+[Virtual reality - Wikiwand](https://www.wikiwand.com/en/Virtual_reality)
+[Mixed reality - Wikiwand](https://www.wikiwand.com/en/Mixed_reality)
+[Extended reality - Wikiwand](https://www.wikiwand.com/en/Extended_reality)
 
 [UploadVR VR/AR News & Reviews](https://uploadvr.com/)
 
@@ -232,6 +232,14 @@ Many Chinese company release these products in 2022, but they are not actually A
 
 ## Oculus Quest 3
 
+## XREAL One
+
+Integrated spacial 3Dof processor
+
+[XREAL - Building Augmented Reality for Everyone](https://www.xreal.com/one/)
+[XREAL One 體驗：這回全給你縫完了！AR眼鏡完全體！一鍵賽博！｜大狸子切切裡 - YouTube](https://www.youtube.com/watch?v=HGMqScJv114)
+[「花生」当我尝试把手机戴在头上，发现XREAL One是真的牛 - YouTube](https://www.youtube.com/watch?v=OphM9sci_i0)
+
 # Second Gen Headsets
 
 Second gen have better displays and lens
@@ -372,14 +380,14 @@ Outside-in position detection
 [【亦】白菜价 VR！自制低成本 VR 方案，竟然很靠谱？ - YouTube](https://www.youtube.com/watch?v=EEoJGdNZhfo) in 2021
 
 [Daydream](https://vr.google.com/daydream/)
-[Google Daydream - Wikiwand](https://omni.wikiwand.com/en/Google_Daydream)
+[Google Daydream - Wikiwand](https://www.wikiwand.com/en/Google_Daydream)
 [Google’s “Daydream View” VR headset is smartphone-powered VR for \$79 | Ars Technica](http://arstechnica.com/gadgets/2016/10/googles-daydream-view-vr-headset-is-smartphone-powered-vr/)
 [Gear VRs for everyone! Google turns Android into a VR-ready OS: Daydream | Ars Technica](http://arstechnica.com/gadgets/2016/05/android-vr-os-gets-a-virtual-reality-mode-and-vr-ready-smartphones/)
 [Android 7.0 Nougat review—Do more on your gigantic smartphone | Ars Technica](http://arstechnica.com/gadgets/2016/08/android-7-0-nougat-review-do-more-on-your-gigantic-smartphone/11/)
 
 [How to Force Daydream VR Compatibility on Unsupported Android Devices](https://www.xda-developers.com/force-daydream-vr-compatibility/)
 
-[Google Cardboard - Wikiwand](https://omni.wikiwand.com/en/Google_Cardboard)
+[Google Cardboard - Wikiwand](https://www.wikiwand.com/en/Google_Cardboard)
 [Google Cardboard – Google VR](https://vr.google.com/cardboard/)
 
 ## ARCore
@@ -430,7 +438,7 @@ Outside-in position detection
 
 [district0x](https://district0x.io/) Ethereum + Aragon + IPFS
 [district0x Updates](https://blog.district0x.io/)
-[Decentraland Districts. Powering marketplaces for the metaverse | by Joe Urgo | district0x Updates](https://blog.district0x.io/decentraland-districts-40b9ada0431b?gi=4e8c77809257)
+[Decentraland Districts. Powering marketplaces for the metaverse | by Joe Urgo | district0x Updates](https://blog.district0x.io/decentraland-districts-40b9ada0431b)
 
 [The Sandbox Game — User-Generated Crypto & Blockchain Games](https://www.sandbox.game/en/)
 

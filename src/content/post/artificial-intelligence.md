@@ -2,7 +2,7 @@
 title: Artificial Intelligence
 description: ""
 created: 2015-04-14
-updated: 2024-09-11
+updated: 2025-01-09
 tags:
   - ai
   - artificial-intelligence
@@ -15,9 +15,10 @@ tags:
 
 [Data Science and Robots Blog](https://brohrer.github.io/blog.html) ❗!important
 [Distill — Latest articles about machine learning](https://distill.pub/)
-
 [AI Tools - All Things AI](https://allthingsai.com/tools)
 [Artificial Intelligence For Dummies – A Guide For Beginners | liberties.eu](https://www.liberties.eu/en/stories/artificial-intelligence-for-dummies/43527)
+
+[10 GitHub Repositories for Advanced Machine Learning Projects - KDnuggets](https://www.kdnuggets.com/10-github-repositories-for-advanced-machine-learning-projects)
 
 [I Took Google's AI Essentials Course, and This Is What I Learned](https://www.makeuseof.com/google-ai-essentials-course/)
 [Free Courses That Are Actually Free: AI & ML Edition - KDnuggets](https://www.kdnuggets.com/free-courses-that-are-actually-free-ai-ml-edition)
@@ -49,7 +50,7 @@ tags:
 The term "AI" represents the state of the art technology of archiving it. Currently (as of 2018) it means deep learning with neural network.
 [Today’s computer science is yesterday’s AI - Movie Mango - Medium](https://medium.com/@Go_Movie_Mango/todays-computer-science-is-yesterday-s-ai-bb001c913140)
 
-[Artificial general intelligence - Wikiwand](https://omni.wikiwand.com/en/Artificial_general_intelligence)
+[Artificial general intelligence - Wikiwand](https://www.wikiwand.com/en/Artificial_general_intelligence)
 [A.I. ‐ Humanity's Final Invention? - YouTube](https://www.youtube.com/watch?v=fa8k8IQ1_X0)
 
 AI is any technology that showcases anything that resembles human intelligence (mimics "cognitive" functions).
@@ -254,7 +255,7 @@ are ANI (N for narrow), the supposed "AI" is AGI (G for general)
 
 ## Singularity
 
-[Technological singularity - Wikiwand](https://omni.wikiwand.com/en/Technological_singularity)
+[Technological singularity - Wikiwand](https://www.wikiwand.com/en/Technological_singularity)
 [The Singularity is Near » Homepage](http://singularity.com/)
 
 [A.I. For Good](https://aiforgood.com/)
@@ -262,7 +263,7 @@ are ANI (N for narrow), the supposed "AI" is AGI (G for general)
 
 ## Symbolic AI
 
-[Symbolic artificial intelligence - Wikiwand](https://omni.wikiwand.com/en/Symbolic_artificial_intelligence) represented by Lisp
+[Symbolic artificial intelligence - Wikiwand](https://www.wikiwand.com/en/Symbolic_artificial_intelligence) represented by Lisp
 
 ## AI winter
 
@@ -284,7 +285,9 @@ are ANI (N for narrow), the supposed "AI" is AGI (G for general)
 
 ## Performance/Accuracy
 
-[Sensitivity and specificity - Wikiwand](https://omni.wikiwand.com/en/Sensitivity_and_specificity)
+[Not All Tasks Are Born Equal: Understanding Zero-Shot Generalization | OpenReview](https://openreview.net/forum?id=KGV-GBh8fb)
+
+[Sensitivity and specificity - Wikiwand](https://www.wikiwand.com/en/Sensitivity_and_specificity)
 [10.3 - Sensitivity, Specificity, Positive Predictive Value, and Negative Predictive Value | STAT 507](https://newonlinecourses.science.psu.edu/stat507/node/71/)
 [Calculation of sensitivity, specificity, and positive and negative... | Download Scientific Diagram](https://www.researchgate.net/figure/Calculation-of-sensitivity-specificity-and-positive-and-negative-predictive_fig1_49650721)
 [Confusion Matrix with Scikit-Learn and Python - Pierian Training](https://pieriantraining.com/confusion-matrix-with-scikit-learn-and-python/)
@@ -293,8 +296,8 @@ Sensitivity (Recall) = TP/TP+FN
 靈敏度代表「真陽性機率」，解釋作檢測出現陽性時，準確度的百份比。
 Specificity = TN/TN+FP
 特異性代表「真陰性機率」，解釋作檢測出現陰性時，準確度的百份比。
-Accuracy = Correct Sample / Total Sample
-Precision = TP/TP+FN
+Accuracy = TP+TN / TP+FP+TN+FN (Total Sample)
+Precision = TP/TP+FP
 F1-Score = 2 \* ((Precision \* Recall) / (Precision + Recall))
 Harmonic mean of precision and recall
 
@@ -357,6 +360,10 @@ Harmonic mean of precision and recall
 [Adversarial Attacks on LLMs - YouTube](https://www.youtube.com/watch?v=pR2et-guixM)
 [What Is an AI Prompt Injection Attack and How Does It Work?](https://www.makeuseof.com/what-is-ai-prompt-injection-attack/)
 
+[[1707.07397] Synthesizing Robust Adversarial Examples](https://arxiv.org/abs/1707.07397)
+[Fooling Neural Networks in the Physical World with 3D Adversarial Objects · labsix](https://www.labsix.org/physical-objects-that-fool-neural-nets/)
+[Fooling Image Recognition with Adversarial Examples - YouTube](https://www.youtube.com/watch?v=piYnd_wYlT8)
+
 [Breaking Machine Learning With Adversarial Examples](https://towardsdatascience.com/breaking-machine-learning-with-adversarial-examples-a3ddc5c75ea4)
 [How to trick a neural network into thinking a panda is a vulture](https://codewords.recurse.com/issues/five/why-do-neural-networks-think-a-panda-is-a-vulture)
 [Breaking Linear Classifiers on ImageNet](http://karpathy.github.io/2015/03/30/breaking-convnets/)
@@ -375,6 +382,8 @@ Harmonic mean of precision and recall
 
 [[voice-assistant]]
 [[mycroft]]
+
+[10 GitHub Repositories to Master Natural Language Processing (NLP) - KDnuggets](https://www.kdnuggets.com/10-github-repositories-to-master-natural-language-processing-nlp)
 
 [Introduction - Hugging Face Course](https://huggingface.co/learn/nlp-course/)
 [How Hugging Face is tackling bias in NLP | VentureBeat](https://venturebeat.com/2021/08/25/how-hugging-face-is-tackling-bias-in-nlp/)
@@ -429,7 +438,7 @@ Google’s sophisticated WaveNet audio processing neural network, and because it
 
 ### Named Entity Recognition (NER)
 
-[Named-entity recognition - Wikiwand](https://omni.wikiwand.com/en/Named-entity_recognition)
+[Named-entity recognition - Wikiwand](https://www.wikiwand.com/en/Named-entity_recognition)
 [What is Named Entity Recognition? | Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/11/a-beginners-introduction-to-ner-named-entity-recognition/)
 
 ### STT
@@ -516,6 +525,8 @@ Here are some useful options you can add to the command:
 
 [[opencv]]
 
+[7 Computer Vision Projects for All Levels - KDnuggets](https://www.kdnuggets.com/7-computer-vision-projects-for-all-levels)
+
 [A 2019 Guide to Object Detection](https://www.kdnuggets.com/2019/08/2019-guide-object-detection.html)
 [DeepSORT: Deep Learning to track custom objects in a video](https://nanonets.com/blog/object-tracking-deepsort/)
 
@@ -589,6 +600,9 @@ It is not advisable to use the ordinal form of categorical variables in clusteri
 
 [Introducing practical and robust anomaly detection in a time series](https://blog.twitter.com/engineering/en_us/a/2015/introducing-practical-and-robust-anomaly-detection-in-a-time-series)
 
+[Anomaly Detection Techniques in Large-Scale Datasets - MachineLearningMastery.com](https://machinelearningmastery.com/anomaly-detection-techniques-in-large-scale-datasets/)
+[Anomaly Detection with Isolation Forest and Kernel Density Estimation - MachineLearningMastery.com](https://machinelearningmastery.com/anomaly-detection-with-isolation-forest-and-kernel-density-estimation/)
+
 [[2004.00433] Anomaly Detection in Univariate Time-series: A Survey on the State-of-the-Art](https://arxiv.org/abs/2004.00433) AUC computation
 
 [Mastering Anomaly Detection in Time Series Data: Techniques and Insights | by Ketan Kumar | Medium](https://medium.com/@ketan31kumar/mastering-anomaly-detection-in-time-series-data-techniques-and-insights-98fbe94c4258)
@@ -652,7 +666,7 @@ Duality-gap based Heterogeneous Learning
 
 ## AutoML
 
-[Automated machine learning - Wikiwand](https://omni.wikiwand.com/en/Automated_machine_learning)
+[Automated machine learning - Wikiwand](https://www.wikiwand.com/en/Automated_machine_learning)
 [Cloud AutoML - Custom Machine Learning Models | AutoML | Google Cloud](https://cloud.google.com/automl/)
 [What is automated ML / AutoML - Azure Machine Learning | Microsoft Docs](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-automated-ml)
 
@@ -674,7 +688,7 @@ AutoML, MLBox, Auto-Sklearn, GridSearchCV, and TPOT
 
 ## Recommendation System
 
-[Recommender system - Wikiwand](https://omni.wikiwand.com/en/Recommender_system)
+[Recommender system - Wikiwand](https://www.wikiwand.com/en/Recommender_system)
 [How to implement a recommender system | InfoWorld](https://www.infoworld.com/article/3241852/machine-learning/how-to-implement-a-recommender-system.html)
 [Comprehensive Guide to build Recommendation Engine from scratch](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/)
 [A Complete Guide To Recommender Systems — Tutorial with Sklearn, Surprise, Keras, Recommenders | by Pathairush Seeda | Oct, 2021 | Towards Data Science](https://towardsdatascience.com/a-complete-guide-to-recommender-system-tutorial-with-sklearn-surprise-keras-recommender-5e52e8ceace1)
@@ -763,7 +777,7 @@ Proximal Policy Optimization, an advanced RL algorithm that requires less data t
 ### DeepMind
 
 [Google DeepMind](https://www.deepmind.com/)
-[Google DeepMind - Wikiwand](https://omni.wikiwand.com/en/Google_DeepMind)
+[Google DeepMind - Wikiwand](https://www.wikiwand.com/en/Google_DeepMind)
 [Google DeepMind - YouTube](https://www.youtube.com/@Google_DeepMind)
 [Google DeepMind](https://github.com/google-deepmind) on GitHub
 
@@ -887,13 +901,14 @@ Generative Query Network: 3D reconstruction based on 2D images
 Deep Learning = Artificial Neural Networks with more than 1 hidden layers
 
 [Machine Learning Zero to Hero (Google I/O'19) - YouTube](https://www.youtube.com/watch?v=VwVg9jCtqaU)
-[Machine learning - Wikiwand](https://omni.wikiwand.com/en/Machine_learning)
-[Artificial neural network - Wikiwand](https://omni.wikiwand.com/en/Artificial_neural_network)
+[Machine learning - Wikiwand](https://www.wikiwand.com/en/Machine_learning)
+[Artificial neural network - Wikiwand](https://www.wikiwand.com/en/Artificial_neural_network)
 [Machine Learning Mastery](https://machinelearningmastery.com/)
 [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)
 
 [Jeremy Howard - YouTube](https://www.youtube.com/@howardjeremyp/)
 
+[90分钟深度！一口气看明白人工智能和神经网络 - YouTube](https://www.youtube.com/watch?v=LF9sd-2jCoY)
 [“影分身之术”！训练 50 亿次的 AI 能有多智能 - YouTube](https://www.youtube.com/watch?v=AJ1TR28KNqY)
 [How neural networks work—and why they’ve become a big business – Ars Technica](https://arstechnica.com/science/2019/12/how-neural-networks-work-and-why-theyve-become-a-big-business/amp/)
 [Early Bird uses 10 times less energy to train deep neural networks](https://techxplore.com/news/2020-05-early-bird-energy-deep-neural.amp) look for key network connectivity patterns early in training
@@ -1026,7 +1041,7 @@ Deep Learning = Artificial Neural Networks with more than 1 hidden layers
 [Why are neural networks so powerful? - Towards Data Science](https://towardsdatascience.com/why-are-neural-networks-so-powerful-bc308906696c)
 [The statistical foundations of machine learning - Towards Data Science](https://towardsdatascience.com/the-statistical-foundations-of-machine-learning-973c356a95f)
 
-[Gradient descent - Wikiwand](https://omni.wikiwand.com/en/Gradient_descent)
+[Gradient descent - Wikiwand](https://www.wikiwand.com/en/Gradient_descent)
 [Stochastic Gradient Descent Algorithm With Python and NumPy – Real Python](https://realpython.com/gradient-descent-algorithm-python/)
 
 ## Medical
@@ -1224,7 +1239,7 @@ Kubernetes:
 ## ONNX
 
 [ONNX](https://onnx.ai/) Open Neural Network Exchange Format
-[Open Neural Network Exchange - Wikiwand](https://omni.wikiwand.com/en/Open_Neural_Network_Exchange)
+[Open Neural Network Exchange - Wikiwand](https://www.wikiwand.com/en/Open_Neural_Network_Exchange)
 ONNX allows developers to move models between frameworks such as CNTK, Caffe2, MXNet, and PyTorch.
 
 [onnx/onnx: Open Neural Network Exchange](https://github.com/onnx/onnx)
@@ -1332,6 +1347,7 @@ JavaScript:
 [pop-os/tensorman: Utility for easy management of Tensorflow containers](https://github.com/pop-os/tensorman)
 [Reducing Tensorflow Debugging Time by 90 Percent - Towards Data Science](https://towardsdatascience.com/reducing-tensorflow-debugging-time-by-90-percent-41e8d60f9494)
 [The Google’s 7 steps of Machine Learning in practice: a TensorFlow example for structured data | by B. Chen | Towards Data Science](https://towardsdatascience.com/the-googles-7-steps-of-machine-learning-in-practice-a-tensorflow-example-for-structured-data-96ccbb707d77)
+[Keras vs. JAX: A Comparison - KDnuggets](https://www.kdnuggets.com/keras-vs-jax-a-comparison)
 
 [Ludwig](https://ludwig-ai.github.io/ludwig-docs/)
 [Introducing Ludwig, a Code-Free Deep Learning Toolbox | Uber Engineering Blog](https://eng.uber.com/introducing-ludwig/)
@@ -1363,7 +1379,7 @@ JavaScript:
 ## PyTorch
 
 [PyTorch](http://pytorch.org/)
-[PyTorch - Wikiwand](https://omni.wikiwand.com/en/PyTorch)
+[PyTorch - Wikiwand](https://www.wikiwand.com/en/PyTorch)
 
 [MONAI - Home](https://monai.io/)
 
@@ -1377,7 +1393,7 @@ JavaScript:
 [OpenAI goes all-in on Facebook's Pytorch machine learning framework | VentureBeat](https://venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/amp/)
 
 [Torch | Scientific computing for LuaJIT.](http://torch.ch/)
-[Torch (machine learning) - Wikiwand](<https://omni.wikiwand.com/en/Torch_(machine_learning)>)
+[Torch (machine learning) - Wikiwand](<https://www.wikiwand.com/en/Torch_(machine_learning)>)
 [torch/torch7: http://torch.ch](https://github.com/torch/torch7)
 [torch/cutorch: A CUDA backend for Torch7](https://github.com/torch/cutorch/)
 

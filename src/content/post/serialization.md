@@ -2,14 +2,14 @@
 title: Serialization
 description: ""
 created: 2020-03-27
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - comp/lang
 ---
 
 > TODO: merge `Dropbox/caravan/caravan/interchange-format`
 
-[Comparison of data-serialization formats - Wikiwand](https://omni.wikiwand.com/en/Comparison_of_data-serialization_formats)
+[Comparison of data-serialization formats - Wikiwand](https://www.wikiwand.com/en/Comparison_of_data-serialization_formats)
 [RFC 8949 - Comparison of Other Binary Formats to CBOR's Design Objectives](https://datatracker.ietf.org/doc/html/rfc8949#name-comparison-of-other-binary-)
 [deserialization - Performant Entity Serialization: BSON vs MessagePack (vs JSON) - Stack Overflow](https://stackoverflow.com/questions/6355497/performant-entity-serialization-bson-vs-messagepack-vs-json)
 
@@ -22,7 +22,7 @@ tags:
 
 ## IDL
 
-[Interface description language - Wikiwand](https://omni.wikiwand.com/en/Interface_description_language)
+[Interface description language - Wikiwand](https://www.wikiwand.com/en/Interface_description_language)
 
 ## JSON schema
 
@@ -160,7 +160,7 @@ TypeScript
 
 ### JSON streaming
 
-[JSON streaming - Wikiwand](https://omni.wikiwand.com/en/JSON_streaming)
+[JSON streaming - Wikiwand](https://www.wikiwand.com/en/JSON_streaming)
 [JSON Lines](https://jsonlines.org/)
 
 [ndjson/ndjson.js: Streaming line delimited json parser + serializer](https://github.com/ndjson/ndjson.js)
@@ -233,7 +233,7 @@ jq -c .[]  a.json > a.ndjson
 
 [Protocol Buffers Documentation](https://protobuf.dev/)
 [Protocol Buffers Version 3 Language Specification | Protocol Buffers Documentation](https://protobuf.dev/reference/protobuf/proto3-spec/)
-[Protocol Buffers - Wikiwand](https://omni.wikiwand.com/en/Protocol_Buffers)
+[Protocol Buffers - Wikiwand](https://www.wikiwand.com/en/Protocol_Buffers)
 
 [Protocol Buffers Crash Course - YouTube](https://www.youtube.com/watch?v=46O73On0gyI)
 

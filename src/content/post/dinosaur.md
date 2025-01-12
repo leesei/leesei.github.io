@@ -2,7 +2,7 @@
 title: Dinosaur
 description: ""
 created: 2020-06-01
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - dinosaur
   - science
@@ -12,9 +12,10 @@ tags:
 [[biology]] for taxonomy
 
 [What Is A Dinosaur And What Isn’t? - YouTube](https://www.youtube.com/watch?v=5_8h_Pwy15s)
+[You’re Probably Wrong About Dinosaurs - YouTube](https://www.youtube.com/watch?v=RDoVLHaYfgM)
 
-[Dinosaur - Wikiwand](https://omni.wikiwand.com/en/Dinosaur)
-[List of dinosaur genera - Wikiwand](https://omni.wikiwand.com/en/List_of_dinosaur_genera)
+[Dinosaur - Wikiwand](https://www.wikiwand.com/en/Dinosaur)
+[List of dinosaur genera - Wikiwand](https://www.wikiwand.com/en/List_of_dinosaur_genera)
 
 [National Jurassic - YouTube](https://www.youtube.com/channel/UCAcDMMIqfYFp-C-YKxuSUzA) "documentaries" made with Jurassic World Evolution 2
 [翼龍無法直接把人抓起來！專家介紹《侏羅紀公園》中的各種恐龍 Every Dinosaur In 'Jurassic Park' Series Explained ｜經典電影大解密｜ GQ Taiwan - YouTube](https://www.youtube.com/watch?v=POBeQfK6UKU)
@@ -64,20 +65,20 @@ tags:
 A study suggest that Theropoda is more closely related to Ornithischia. This would imply carnivory and similar body plans evolved twice.
 But skeletal pneumaticity seems to indicate that Theropoda and Sauropoda are more closely related.
 
-[鳥臀目 - Wikiwand](https://omni.wikiwand.com/zh/%E9%B3%A5%E8%87%80%E7%9B%AE)
-[Ornithischia - Wikiwand](https://omni.wikiwand.com/en/Ornithischia) not skeletal pneumatic (hollow bones)
+[鳥臀目 - Wikiwand](https://www.wikiwand.com/zh/%E9%B3%A5%E8%87%80%E7%9B%AE)
+[Ornithischia - Wikiwand](https://www.wikiwand.com/en/Ornithischia) not skeletal pneumatic (hollow bones)
 mostly (or all?) herbivores
 
-[蜥臀目 - Wikiwand](https://omni.wikiwand.com/zh/%E8%9C%A5%E8%87%80%E7%9B%AE)
-[Saurischia - Wikiwand](https://omni.wikiwand.com/en/Saurischia) skeletal pneumatic (hollow bones)
+[蜥臀目 - Wikiwand](https://www.wikiwand.com/zh/%E8%9C%A5%E8%87%80%E7%9B%AE)
+[Saurischia - Wikiwand](https://www.wikiwand.com/en/Saurischia) skeletal pneumatic (hollow bones)
 Theropoda and Sauropoda
 
-[蜥腳下目 - Wikiwand](https://omni.wikiwand.com/zh/%E8%9C%A5%E8%85%B3%E4%B8%8B%E7%9B%AE)
-[Sauropoda - Wikiwand](https://omni.wikiwand.com/en/Sauropoda)
+[蜥腳下目 - Wikiwand](https://www.wikiwand.com/zh/%E8%9C%A5%E8%85%B3%E4%B8%8B%E7%9B%AE)
+[Sauropoda - Wikiwand](https://www.wikiwand.com/en/Sauropoda)
 large herbivores
 
-[獸腳亞目 - Wikiwand](https://omni.wikiwand.com/zh/%E7%8D%B8%E8%85%B3%E4%BA%9E%E7%9B%AE)
-[Theropoda - Wikiwand](https://omni.wikiwand.com/en/Theropoda)
+[獸腳亞目 - Wikiwand](https://www.wikiwand.com/zh/%E7%8D%B8%E8%85%B3%E4%BA%9E%E7%9B%AE)
+[Theropoda - Wikiwand](https://www.wikiwand.com/en/Theropoda)
 skeletal pneumatic and three-toed fore limbs
 bipedal carnivores
 from where modern birds (Avian Class) evolved
@@ -96,193 +97,196 @@ Small carnivores, herbivores and omnivores that walked on two legs and often had
 
 ### 美頜龍科 Compsognathidae
 
-[美頜龍科 - Wikiwand](https://omni.wikiwand.com/zh/%E7%BE%8E%E9%A0%9C%E9%BE%8D%E7%A7%91)
-[Compsognathidae - Wikiwand](https://omni.wikiwand.com/en/Compsognathidae)
+[美頜龍科 - Wikiwand](https://www.wikiwand.com/zh/%E7%BE%8E%E9%A0%9C%E9%BE%8D%E7%A7%91)
+[Compsognathidae - Wikiwand](https://www.wikiwand.com/en/Compsognathidae)
 
-[美頜龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E7%BE%8E%E9%A0%9C%E9%BE%8D%E5%B1%AC)
-[Compsognathus - Wikiwand](https://omni.wikiwand.com/en/Compsognathus)
+[美頜龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E7%BE%8E%E9%A0%9C%E9%BE%8D%E5%B1%AC)
+[Compsognathus - Wikiwand](https://www.wikiwand.com/en/Compsognathus)
 
-[中華麗羽龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%AD%E8%8F%AF%E9%BA%97%E7%BE%BD%E9%BE%8D%E5%B1%AC)
-[Sinocalliopteryx - Wikiwand](https://omni.wikiwand.com/en/Sinocalliopteryx)
+[中華麗羽龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%AD%E8%8F%AF%E9%BA%97%E7%BE%BD%E9%BE%8D%E5%B1%AC)
+[Sinocalliopteryx - Wikiwand](https://www.wikiwand.com/en/Sinocalliopteryx)
 
-[中華龍鳥屬 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%AD%E8%8F%AF%E9%BE%8D%E9%B3%A5%E5%B1%AC)
-[Sinosauropteryx - Wikiwand](https://omni.wikiwand.com/en/Sinosauropteryx)
+[中華龍鳥屬 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%AD%E8%8F%AF%E9%BE%8D%E9%B3%A5%E5%B1%AC)
+[Sinosauropteryx - Wikiwand](https://www.wikiwand.com/en/Sinosauropteryx)
 
 ### 馳龍科 Dromaeosauridae
 
 [名揚天下的‘迅猛龍’只是移花接木的騙局？丨盜羽刺客 - 馳龍丨近鳥類篇 01 丨【恐龍時代】 - YouTube](https://www.youtube.com/watch?v=KyMDLcl_6ZU)
 
-[馳龍科 - Wikiwand](https://omni.wikiwand.com/zh/%E9%A6%B3%E9%BE%8D%E7%A7%91)
-[Dromaeosauridae - Wikiwand](https://omni.wikiwand.com/en/Dromaeosauridae) probably with feathers
+[馳龍科 - Wikiwand](https://www.wikiwand.com/zh/%E9%A6%B3%E9%BE%8D%E7%A7%91)
+[Dromaeosauridae - Wikiwand](https://www.wikiwand.com/en/Dromaeosauridae) probably with feathers
 
-[恐爪龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E6%81%90%E7%88%AA%E9%BE%8D%E5%B1%AC)
-[Deinonychus - Wikiwand](https://omni.wikiwand.com/en/Deinonychus) inspiration for Jurassic Park's raptors
+[恐爪龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E6%81%90%E7%88%AA%E9%BE%8D%E5%B1%AC)
+[Deinonychus - Wikiwand](https://www.wikiwand.com/en/Deinonychus) inspiration for Jurassic Park's raptors
 
-[伶盜龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E4%BC%B6%E7%9B%9C%E9%BE%8D%E5%B1%AC)
+[伶盜龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E4%BC%B6%E7%9B%9C%E9%BE%8D%E5%B1%AC)
 [Velociraptor Fact Sheet - EnchantedLearning.com](https://www.enchantedlearning.com/subjects/dinosaurs/facts/Velociraptor/) actual raptors are turkey-sized
 
 ### 異特龍科 Allosauridae
 
-[異特龍超科 - Wikiwand](https://omni.wikiwand.com/zh/%E7%95%B0%E7%89%B9%E9%BE%8D%E8%B6%85%E7%A7%91)
-[Allosauroidea - Wikiwand](https://omni.wikiwand.com/en/Allosauroidea)
+[異特龍超科 - Wikiwand](https://www.wikiwand.com/zh/%E7%95%B0%E7%89%B9%E9%BE%8D%E8%B6%85%E7%A7%91)
+[Allosauroidea - Wikiwand](https://www.wikiwand.com/en/Allosauroidea)
 
-[異特龍科 - Wikiwand](https://omni.wikiwand.com/zh/%E7%95%B0%E7%89%B9%E9%BE%8D%E7%A7%91)
-[Allosauridae - Wikiwand](https://omni.wikiwand.com/en/Allosauridae)
+[異特龍科 - Wikiwand](https://www.wikiwand.com/zh/%E7%95%B0%E7%89%B9%E9%BE%8D%E7%A7%91)
+[Allosauridae - Wikiwand](https://www.wikiwand.com/en/Allosauridae)
 
-[異特龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E7%95%B0%E7%89%B9%E9%BE%8D%E5%B1%AC)
-[Allosaurus - Wikiwand](https://omni.wikiwand.com/en/Allosaurus)
+[異特龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E7%95%B0%E7%89%B9%E9%BE%8D%E5%B1%AC)
+[Allosaurus - Wikiwand](https://www.wikiwand.com/en/Allosaurus)
 [Allosaurus: Facts About the 'Different Lizard' | Live Science](https://www.livescience.com/24815-allosaurus.html)
 
 ### 暴龍科 Tyrannosauridae
 
-[暴龍超科 - Wikiwand](https://omni.wikiwand.com/zh/%E6%9A%B4%E9%BE%8D%E8%B6%85%E7%A7%91)
+[Every Tyrannosaurid, explained. - YouTube](https://www.youtube.com/watch?v=OskpC2yK7tY)
+
+[暴龍超科 - Wikiwand](https://www.wikiwand.com/zh/%E6%9A%B4%E9%BE%8D%E8%B6%85%E7%A7%91)
 [Tyrannosauroidea - Wikipedia](https://en.wikipedia.org/wiki/Tyrannosauroidea?oldformat=true)
 
-[暴龍科 - Wikiwand](https://omni.wikiwand.com/zh/%E6%9A%B4%E9%BE%8D%E7%A7%91)
-[Tyrannosauridae - Wikiwand](https://omni.wikiwand.com/en/Tyrannosauridae)
+[暴龍科 - Wikiwand](https://www.wikiwand.com/zh/%E6%9A%B4%E9%BE%8D%E7%A7%91)
+[Tyrannosauridae - Wikiwand](https://www.wikiwand.com/en/Tyrannosauridae)
 
-[暴龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E6%9A%B4%E9%BE%8D)
-[Tyrannosaurus - Wikiwand](https://omni.wikiwand.com/en/Tyrannosaurus)
+[暴龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E6%9A%B4%E9%BE%8D)
+[Tyrannosaurus - Wikiwand](https://www.wikiwand.com/en/Tyrannosaurus)
 [T. rex Fact Sheet - EnchantedLearning.com](https://www.enchantedlearning.com/subjects/dinosaurs/facts/Trex/)
 [How the Tyrannosaurs Ruled the World – with David Hone - YouTube](https://www.youtube.com/watch?v=f-jD7kQvyPs)
 [Tyrant Files - YouTube](https://www.youtube.com/playlist?list=PLomaaRl17MJ5kHt3zTDYYzS12BBjSvQV-)
 
-[蛇髮女怪龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E8%9B%87%E9%AB%AE%E5%A5%B3%E6%80%AA%E9%BE%8D%E5%B1%AC)
-[Gorgosaurus - Wikiwand](https://omni.wikiwand.com/en/Gorgosaurus)
+[蛇髮女怪龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E8%9B%87%E9%AB%AE%E5%A5%B3%E6%80%AA%E9%BE%8D%E5%B1%AC)
+[Gorgosaurus - Wikiwand](https://www.wikiwand.com/en/Gorgosaurus)
 
-[帝龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E5%B8%9D%E9%BE%8D%E5%B1%AC)
-[Dilong paradoxus - Wikiwand](https://omni.wikiwand.com/en/Dilong_paradoxus)
+[帝龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E5%B8%9D%E9%BE%8D%E5%B1%AC)
+[Dilong paradoxus - Wikiwand](https://www.wikiwand.com/en/Dilong_paradoxus)
 
 ### 鯊齒龍科 Carcharodontosauridae
 
-[鯊齒龍科 - Wikiwand](https://omni.wikiwand.com/zh/%E9%AF%8A%E9%BD%92%E9%BE%8D%E7%A7%91)
-[Carcharodontosauridae - Wikiwand](https://omni.wikiwand.com/en/Carcharodontosauridae)
+[鯊齒龍科 - Wikiwand](https://www.wikiwand.com/zh/%E9%AF%8A%E9%BD%92%E9%BE%8D%E7%A7%91)
+[Carcharodontosauridae - Wikiwand](https://www.wikiwand.com/en/Carcharodontosauridae)
 
-[南方巨獸龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E5%8D%97%E6%96%B9%E5%B7%A8%E7%8D%B8%E9%BE%8D%E5%B1%AC)
-[Giganotosaurus - Wikiwand](https://omni.wikiwand.com/en/Giganotosaurus)
+[南方巨獸龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E5%8D%97%E6%96%B9%E5%B7%A8%E7%8D%B8%E9%BE%8D%E5%B1%AC)
+[Giganotosaurus - Wikiwand](https://www.wikiwand.com/en/Giganotosaurus)
 
-[魁紂龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E9%AD%81%E7%B4%82%E9%BE%8D%E5%B1%AC)
-[Tyrannotitan - Wikiwand](https://omni.wikiwand.com/en/Tyrannotitan)
+[魁紂龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E9%AD%81%E7%B4%82%E9%BE%8D%E5%B1%AC)
+[Tyrannotitan - Wikiwand](https://www.wikiwand.com/en/Tyrannotitan)
 
 ### 阿貝力龍科 Abelisauridae
 
-[阿貝力龍科 - Wikiwand](https://omni.wikiwand.com/zh/%E9%98%BF%E8%B2%9D%E5%8A%9B%E9%BE%8D%E7%A7%91)
-[Abelisauridae - Wikiwand](https://omni.wikiwand.com/en/Abelisauridae) stubby fore limbs, horn like structures on skill
+[阿貝力龍科 - Wikiwand](https://www.wikiwand.com/zh/%E9%98%BF%E8%B2%9D%E5%8A%9B%E9%BE%8D%E7%A7%91)
+[Abelisauridae - Wikiwand](https://www.wikiwand.com/en/Abelisauridae) stubby fore limbs, horn like structures on skill
 
-[食肉牛龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E9%A3%9F%E8%82%89%E7%89%9B%E9%BE%99%E5%B1%9E)
-[Carnotaurus - Wikiwand](https://omni.wikiwand.com/en/Carnotaurus)
+[食肉牛龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E9%A3%9F%E8%82%89%E7%89%9B%E9%BE%99%E5%B1%9E)
+[Carnotaurus - Wikiwand](https://www.wikiwand.com/en/Carnotaurus)
 
-[瑪君龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E7%91%AA%E5%90%9B%E9%BE%8D%E5%B1%AC)
-[Majungasaurus - Wikiwand](https://omni.wikiwand.com/en/Majungasaurus)
+[瑪君龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E7%91%AA%E5%90%9B%E9%BE%8D%E5%B1%AC)
+[Majungasaurus - Wikiwand](https://www.wikiwand.com/en/Majungasaurus)
 [Majungasaurus - The One-horned Ruler of Madagascar - YouTube](https://www.youtube.com/watch?v=YZiCL2XJCYU)
 
 ### 角鼻龍科 Ceratosauridae
 
-[角鼻龍科 - Wikiwand](https://omni.wikiwand.com/zh/%E8%A7%92%E9%BC%BB%E9%BE%8D%E7%A7%91)
-[Ceratosauridae - Wikiwand](https://omni.wikiwand.com/en/Ceratosauridae)
+[角鼻龍科 - Wikiwand](https://www.wikiwand.com/zh/%E8%A7%92%E9%BC%BB%E9%BE%8D%E7%A7%91)
+[Ceratosauridae - Wikiwand](https://www.wikiwand.com/en/Ceratosauridae)
 
-[角鼻龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E8%A7%92%E9%BC%BB%E9%BE%8D%E5%B1%AC)
-[Ceratosaurus - Wikiwand](https://omni.wikiwand.com/en/Ceratosaurus)
+[角鼻龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E8%A7%92%E9%BC%BB%E9%BE%8D%E5%B1%AC)
+[Ceratosaurus - Wikiwand](https://www.wikiwand.com/en/Ceratosaurus)
 
 ### 棘龍科 Spinosauridae
 
-[棘龍科 - Wikiwand](https://omni.wikiwand.com/zh/%E6%A3%98%E9%BE%8D%E7%A7%91)
-[Spinosauridae - Wikiwand](https://omni.wikiwand.com/en/Spinosauridae) semi-aquatic or aquatic
+[棘龍科 - Wikiwand](https://www.wikiwand.com/zh/%E6%A3%98%E9%BE%8D%E7%A7%91)
+[Spinosauridae - Wikiwand](https://www.wikiwand.com/en/Spinosauridae) semi-aquatic or aquatic
 
-[棘龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E6%A3%98%E9%BE%8D%E5%B1%AC)
-[Spinosaurus - Wikiwand](https://omni.wikiwand.com/en/Spinosaurus)
+[棘龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E6%A3%98%E9%BE%8D%E5%B1%AC)
+[Spinosaurus - Wikiwand](https://www.wikiwand.com/en/Spinosaurus)
 [Spinosaurus Fact Sheet - EnchantedLearning.com](https://www.enchantedlearning.com/subjects/dinosaurs/facts/Spinosaurus/)
 [The Tail of Spinosaurus - A 2020 Revelation - YouTube](https://www.youtube.com/watch?v=gtNgdxt5Rl4)
 [SPINOSAURUS 2020 - It Just Got Weirder - YouTube](https://www.youtube.com/watch?v=De1VJ1UpjhM)
 [Revisiting Spinosaurus - YouTube](https://www.youtube.com/watch?v=cIi52EK2njw)
+[Spinosaurus: The Controversy of the Aquatic Dinosaur - YouTube](https://www.youtube.com/watch?v=B27iy3lAdJo)
 
 ### 艾雷拉龍科 Herrerasauridae
 
-[艾雷拉龍科 - Wikiwand](https://omni.wikiwand.com/zh/%E8%89%BE%E9%9B%B7%E6%8B%89%E9%BE%99%E7%A7%91)
-[Herrerasauridae - Wikiwand](https://omni.wikiwand.com/en/Herrerasauridae)
+[艾雷拉龍科 - Wikiwand](https://www.wikiwand.com/zh/%E8%89%BE%E9%9B%B7%E6%8B%89%E9%BE%99%E7%A7%91)
+[Herrerasauridae - Wikiwand](https://www.wikiwand.com/en/Herrerasauridae)
 
 ## Herbivores
 
-[劍龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E5%8A%8D%E9%BE%8D%E5%B1%AC)
-[Stegosaurus - Wikiwand](https://omni.wikiwand.com/en/Stegosaurus)
+[劍龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E5%8A%8D%E9%BE%8D%E5%B1%AC)
+[Stegosaurus - Wikiwand](https://www.wikiwand.com/en/Stegosaurus)
 [Stegosaurus Fact Sheet - EnchantedLearning.com](https://www.enchantedlearning.com/subjects/dinosaurs/facts/Stegosaurus/)
 [Stegosaurus: Bony Plates & Tiny Brain | Live Science](https://www.livescience.com/24184-stegosaurus-facts.html)
 
 ### 鴨嘴龍科 Hadrosauridae
 
-[鴨嘴龍科 - Wikiwand](https://omni.wikiwand.com/zh/%E9%B4%A8%E5%98%B4%E9%BE%8D%E7%A7%91)
-[Hadrosauridae - Wikiwand](https://omni.wikiwand.com/en/Hadrosauridae) duck billed dinosaur
+[鴨嘴龍科 - Wikiwand](https://www.wikiwand.com/zh/%E9%B4%A8%E5%98%B4%E9%BE%8D%E7%A7%91)
+[Hadrosauridae - Wikiwand](https://www.wikiwand.com/en/Hadrosauridae) duck billed dinosaur
 
-[鴨嘴龍 - Wikiwand](https://omni.wikiwand.com/zh/%E9%B8%AD%E5%98%B4%E9%BE%99)
-[Hadrosaurus - Wikiwand](https://omni.wikiwand.com/en/Hadrosaurus)
+[鴨嘴龍 - Wikiwand](https://www.wikiwand.com/zh/%E9%B8%AD%E5%98%B4%E9%BE%99)
+[Hadrosaurus - Wikiwand](https://www.wikiwand.com/en/Hadrosaurus)
 
-[厚頭龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E5%8E%9A%E9%A0%AD%E9%BE%8D%E5%B1%AC)
-[Pachycephalosaurus - Wikiwand](https://omni.wikiwand.com/en/Pachycephalosaurus)
+[厚頭龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E5%8E%9A%E9%A0%AD%E9%BE%8D%E5%B1%AC)
+[Pachycephalosaurus - Wikiwand](https://www.wikiwand.com/en/Pachycephalosaurus)
 
-[副櫛龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E5%89%AF%E6%AB%9B%E9%BE%8D%E5%B1%AC)
-[Parasaurolophus - Wikiwand](https://omni.wikiwand.com/en/Parasaurolophus) long crest
+[副櫛龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E5%89%AF%E6%AB%9B%E9%BE%8D%E5%B1%AC)
+[Parasaurolophus - Wikiwand](https://www.wikiwand.com/en/Parasaurolophus) long crest
 
-[冠龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E5%86%A0%E9%BE%8D%E5%B1%AC)
-[Corythosaurus - Wikiwand](https://omni.wikiwand.com/en/Corythosaurus) high dome crest
+[冠龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E5%86%A0%E9%BE%8D%E5%B1%AC)
+[Corythosaurus - Wikiwand](https://www.wikiwand.com/en/Corythosaurus) high dome crest
 
 ### 角龍科 Ceratopsidae
 
-[角龍科 - Wikiwand](https://omni.wikiwand.com/zh/%E8%A7%92%E9%BE%8D%E7%A7%91)
-[Ceratopsidae - Wikiwand](https://omni.wikiwand.com/en/Ceratopsidae)
+[角龍科 - Wikiwand](https://www.wikiwand.com/zh/%E8%A7%92%E9%BE%8D%E7%A7%91)
+[Ceratopsidae - Wikiwand](https://www.wikiwand.com/en/Ceratopsidae)
 [Body Shape - Ceratopsian dinosaurs | Natural History Museum](https://www.nhm.ac.uk/discover/dino-directory/body-shape/ceratopsian/gallery.html)
 
-[角龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E8%A7%92%E9%BE%8D%E5%B1%AC)
-[Ceratops - Wikiwand](https://omni.wikiwand.com/en/Ceratops)
+[角龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E8%A7%92%E9%BE%8D%E5%B1%AC)
+[Ceratops - Wikiwand](https://www.wikiwand.com/en/Ceratops)
 
 quadrupedal herbivores from the Upper Cretaceous
 characterized byparrot-like beaks, rows of shearing teeth in the back of the jaw, and elaborate nasal horns and a thin parietal-squamosal shelf that extends back and up into a frill
 
-[三角龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%89%E8%A7%92%E9%BE%8D%E5%B1%AC)
-[Triceratops - Wikiwand](https://omni.wikiwand.com/en/Triceratops)
+[三角龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%89%E8%A7%92%E9%BE%8D%E5%B1%AC)
+[Triceratops - Wikiwand](https://www.wikiwand.com/en/Triceratops)
 [Triceratops Fact Sheet - EnchantedLearning.com](https://www.enchantedlearning.com/subjects/dinosaurs/facts/Triceratops/)
 [Triceratops: Facts about the Three-horned Dinosaur | Live Science](https://www.livescience.com/24011-triceratops-facts.html)
 
-[戟龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E6%88%9F%E9%BE%8D%E5%B1%AC)
-[Styracosaurus - Wikiwand](https://omni.wikiwand.com/en/Styracosaurus)
+[戟龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E6%88%9F%E9%BE%8D%E5%B1%AC)
+[Styracosaurus - Wikiwand](https://www.wikiwand.com/en/Styracosaurus)
 
-[牛角龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E7%89%9B%E8%A7%92%E9%BE%8D%E5%B1%AC)
-[Torosaurus - Wikiwand](https://omni.wikiwand.com/en/Torosaurus)
+[牛角龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E7%89%9B%E8%A7%92%E9%BE%8D%E5%B1%AC)
+[Torosaurus - Wikiwand](https://www.wikiwand.com/en/Torosaurus)
 [Torosaurus Fact Sheet - EnchantedLearning.com](https://www.enchantedlearning.com/subjects/dinosaurs/facts/Torosaurus/)
 
-[祖尼角龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E7%A5%96%E5%B0%BC%E8%A7%92%E9%BE%8D%E5%B1%AC)
-[Zuniceratops - Wikiwand](https://omni.wikiwand.com/en/Zuniceratops)
+[祖尼角龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E7%A5%96%E5%B0%BC%E8%A7%92%E9%BE%8D%E5%B1%AC)
+[Zuniceratops - Wikiwand](https://www.wikiwand.com/en/Zuniceratops)
 
 ### 雙冠龍科 Dilophosauridae
 
-[雙冠龍科 - Wikiwand](https://omni.wikiwand.com/zh/%E9%9B%99%E5%86%A0%E9%BE%8D%E7%A7%91)
-[Dilophosauridae - Wikiwand](https://omni.wikiwand.com/en/Dilophosauridae)
+[雙冠龍科 - Wikiwand](https://www.wikiwand.com/zh/%E9%9B%99%E5%86%A0%E9%BE%8D%E7%A7%91)
+[Dilophosauridae - Wikiwand](https://www.wikiwand.com/en/Dilophosauridae)
 
-[雙冠龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E9%9B%99%E5%86%A0%E9%BE%8D%E5%B1%AC)
-[Dilophosaurus - Wikiwand](https://omni.wikiwand.com/en/Dilophosaurus) depicted in Jurassic Park with with large frill
+[雙冠龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E9%9B%99%E5%86%A0%E9%BE%8D%E5%B1%AC)
+[Dilophosaurus - Wikiwand](https://www.wikiwand.com/en/Dilophosaurus) depicted in Jurassic Park with with large frill
 
 ['Jurassic Park' got almost everything wrong about this iconic dinosaur](https://api.nationalgeographic.com/distribution/public/amp/science/2020/07/jurassic-park-got-almost-everything-wrong-about-iconic-dinosaur-dilophosaurus)
 
 ### 甲龍科 Ankylosauridae
 
-[甲龍科 - Wikiwand](https://omni.wikiwand.com/zh/%E7%94%B2%E9%BE%8D%E7%A7%91)
-[Ankylosauridae - Wikiwand](https://omni.wikiwand.com/en/Ankylosauridae)
+[甲龍科 - Wikiwand](https://www.wikiwand.com/zh/%E7%94%B2%E9%BE%8D%E7%A7%91)
+[Ankylosauridae - Wikiwand](https://www.wikiwand.com/en/Ankylosauridae)
 [Body Shape - Armoured Dinosaurs | Natural History Museum](https://www.nhm.ac.uk/discover/dino-directory/body-shape/armoured-dinosaur/gallery.html)
 
-[甲龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E7%94%B2%E9%BE%8D%E5%B1%AC)
-[Ankylosaurus - Wikiwand](https://omni.wikiwand.com/en/Ankylosaurus)
+[甲龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E7%94%B2%E9%BE%8D%E5%B1%AC)
+[Ankylosaurus - Wikiwand](https://www.wikiwand.com/en/Ankylosaurus)
 
-[加斯頓龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E5%8A%A0%E6%96%AF%E9%A0%93%E9%BE%8D%E5%B1%AC)
-[Gastonia (dinosaur) - Wikiwand](<https://omni.wikiwand.com/en/Gastonia_(dinosaur)>)
+[加斯頓龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E5%8A%A0%E6%96%AF%E9%A0%93%E9%BE%8D%E5%B1%AC)
+[Gastonia (dinosaur) - Wikiwand](<https://www.wikiwand.com/en/Gastonia_(dinosaur)>)
 
-[美甲龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E7%BE%8E%E7%94%B2%E9%BE%8D%E5%B1%AC)
-[Saichania - Wikiwand](https://omni.wikiwand.com/en/Saichania)
+[美甲龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E7%BE%8E%E7%94%B2%E9%BE%8D%E5%B1%AC)
+[Saichania - Wikiwand](https://www.wikiwand.com/en/Saichania)
 
 ### Euornithopods
 
 [Body Shape - Euornithopod dinosaurs | Natural History Museum](https://www.nhm.ac.uk/discover/dino-directory/body-shape/euornithopod/gallery.html) Medium-sized herbivores that usually walked on two legs.
 
-[禽龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E7%A6%BD%E9%BE%8D%E5%B1%AC)
-[Iguanodon - Wikiwand](https://omni.wikiwand.com/en/Iguanodon)
+[禽龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E7%A6%BD%E9%BE%8D%E5%B1%AC)
+[Iguanodon - Wikiwand](https://www.wikiwand.com/en/Iguanodon)
 
 ### 蜥腳類 Sauropods
 
@@ -290,27 +294,27 @@ characterized byparrot-like beaks, rows of shearing teeth in the back of the jaw
 
 [進擊的巨獸第二集丨體型最大的十大蜥腳類恐龍丨恐龍之最 02 - YouTube](https://www.youtube.com/watch?v=j7jLubFg6g8)
 
-[新蜥腳類 - Wikiwand](https://omni.wikiwand.com/zh/%E6%96%B0%E8%9C%A5%E8%85%B3%E9%A1%9E)
+[新蜥腳類 - Wikiwand](https://www.wikiwand.com/zh/%E6%96%B0%E8%9C%A5%E8%85%B3%E9%A1%9E)
 [Neosauropoda - Wikipedia](https://en.wikipedia.org/wiki/Neosauropoda?oldformat=true)
 
-[梁龍超科 - Wikiwand](https://omni.wikiwand.com/zh/%E6%A2%81%E9%BE%8D%E8%B6%85%E7%A7%91)
-[Diplodocoidea - Wikiwand](https://omni.wikiwand.com/en/Diplodocoidea)
+[梁龍超科 - Wikiwand](https://www.wikiwand.com/zh/%E6%A2%81%E9%BE%8D%E8%B6%85%E7%A7%91)
+[Diplodocoidea - Wikiwand](https://www.wikiwand.com/en/Diplodocoidea)
 
-[大鼻龍類 - Wikiwand](https://omni.wikiwand.com/zh/%E5%A4%A7%E9%BC%BB%E9%BE%8D%E9%A1%9E)
-[Macronaria - Wikiwand](https://omni.wikiwand.com/en/Macronaria) having a nasal crest
-[巨龍形類 - Wikiwand](https://omni.wikiwand.com/zh/%E5%B7%A8%E9%BE%8D%E5%BD%A2%E9%A1%9E) Titanosauriformes
+[大鼻龍類 - Wikiwand](https://www.wikiwand.com/zh/%E5%A4%A7%E9%BC%BB%E9%BE%8D%E9%A1%9E)
+[Macronaria - Wikiwand](https://www.wikiwand.com/en/Macronaria) having a nasal crest
+[巨龍形類 - Wikiwand](https://www.wikiwand.com/zh/%E5%B7%A8%E9%BE%8D%E5%BD%A2%E9%A1%9E) Titanosauriformes
 
 ### 馬門溪龍科 Mamenchisauridae
 
-[馬門溪龍科 - Wikiwand](https://omni.wikiwand.com/zh/%E9%A6%AC%E9%96%80%E6%BA%AA%E9%BE%8D%E7%A7%91)
+[馬門溪龍科 - Wikiwand](https://www.wikiwand.com/zh/%E9%A6%AC%E9%96%80%E6%BA%AA%E9%BE%8D%E7%A7%91)
 [亞洲第一龍丨脖子最長的恐龍丨馬門溪龍丨 蜥腳類 01 丨恐龍時代 - YouTube](https://www.youtube.com/watch?v=1GQKNdPzqdk)
 
-[馬門溪龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E9%A6%AC%E9%96%80%E6%BA%AA%E9%BE%8D)
+[馬門溪龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E9%A6%AC%E9%96%80%E6%BA%AA%E9%BE%8D)
 
 #### 梁龍科 Diplodocidae
 
-[梁龍科 - Wikiwand](https://omni.wikiwand.com/zh/%E6%A2%81%E9%BE%8D%E7%A7%91)
-[Diplodocidae - Wikiwand](https://omni.wikiwand.com/en/Diplodocidae)
+[梁龍科 - Wikiwand](https://www.wikiwand.com/zh/%E6%A2%81%E9%BE%8D%E7%A7%91)
+[Diplodocidae - Wikiwand](https://www.wikiwand.com/en/Diplodocidae)
 fore limbs equal/shorter in length than hind legs
 thinker and more horizontal neck
 bulky barrel-like body
@@ -319,14 +323,14 @@ might have ridges on spine
 [A specimen-level phylogenetic analysis and taxonomic revision of Diplodocidae (Dinosauria, Sauropoda) [PeerJ]](https://peerj.com/articles/857/)
 [久負盛名的族群，髮型酷炫的靚仔，恐龍中的殺馬特一族！梁龍丨 蜥腳類 03 丨恐龍時代 - YouTube](https://www.youtube.com/watch?v=tdJm4XWx0Bg)
 
-[迷惑龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E8%BF%B7%E6%83%91%E9%BE%8D%E5%B1%AC)
-[Apatosaurus - Wikiwand](https://omni.wikiwand.com/en/Apatosaurus)
+[迷惑龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E8%BF%B7%E6%83%91%E9%BE%8D%E5%B1%AC)
+[Apatosaurus - Wikiwand](https://www.wikiwand.com/en/Apatosaurus)
 
-[重龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E9%87%8D%E9%BE%8D%E5%B1%AC)
-[Barosaurus - Wikiwand](https://omni.wikiwand.com/en/Barosaurus)
+[重龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E9%87%8D%E9%BE%8D%E5%B1%AC)
+[Barosaurus - Wikiwand](https://www.wikiwand.com/en/Barosaurus)
 
-[雷龍 - Wikiwand](https://omni.wikiwand.com/zh/%E9%9B%B7%E9%BE%8D)
-[Brontosaurus - Wikiwand](https://omni.wikiwand.com/en/Brontosaurus)
+[雷龍 - Wikiwand](https://www.wikiwand.com/zh/%E9%9B%B7%E9%BE%8D)
+[Brontosaurus - Wikiwand](https://www.wikiwand.com/en/Brontosaurus)
 [Brontosaurus - The Story of the Thunder Lizard - YouTube](https://www.youtube.com/watch?v=ItsKDjGwKA8)
 [The Brontosaurus Is Back - Scientific American](https://www.scientificamerican.com/article/the-brontosaurus-is-back1/) Brontosaurus was once categorized as Apatosaurus in 1974 , study showed they are different afterall in 2015
 [Did The Brontosaurus Exist? - YouTube](https://www.youtube.com/watch?v=qSRL33NoNTA) Bone Wars
@@ -337,18 +341,18 @@ might have ridges on spine
 [Difference Between Brontosaurus and Brachiosaurus | Compare the Difference Between Similar Terms](https://www.differencebetween.com/difference-between-brontosaurus-and-brachiosaurus/)
 [Difference Between Brontosaurus and Diplodocus | Compare the Difference Between Similar Terms](https://www.differencebetween.com/difference-between-brontosaurus-and-diplodocus/)
 
-[梁龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E6%A2%81%E9%BE%8D%E5%B1%AC)
-[Diplodocus - Wikiwand](https://omni.wikiwand.com/en/Diplodocus)
+[梁龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E6%A2%81%E9%BE%8D%E5%B1%AC)
+[Diplodocus - Wikiwand](https://www.wikiwand.com/en/Diplodocus)
 [Diplodocus Fact Sheet - EnchantedLearning.com](https://www.enchantedlearning.com/subjects/dinosaurs/facts/Diplodocus/)
 with chevron bones on the under side of tail
 
-[超龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E8%B6%85%E9%BE%8D%E5%B1%AC)
-[Supersaurus - Wikiwand](https://omni.wikiwand.com/en/Supersaurus)
+[超龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E8%B6%85%E9%BE%8D%E5%B1%AC)
+[Supersaurus - Wikiwand](https://www.wikiwand.com/en/Supersaurus)
 
 #### 腕龍科 Brachiosauridae
 
-[腕龍科 - Wikiwand](https://omni.wikiwand.com/zh/%E8%85%95%E9%BE%8D%E7%A7%91)
-[Brachiosauridae - Wikiwand](https://omni.wikiwand.com/en/Brachiosauridae)
+[腕龍科 - Wikiwand](https://www.wikiwand.com/zh/%E8%85%95%E9%BE%8D%E7%A7%91)
+[Brachiosauridae - Wikiwand](https://www.wikiwand.com/en/Brachiosauridae)
 shorter hind legs which made it easier to hold its neck up
 smaller and thiner neck
 shorter tail
@@ -356,38 +360,38 @@ distinct large nare over its skull
 fairly slender
 [進擊的巨獸第二集丨體型最大的十大蜥腳類恐龍丨恐龍之最 02 - YouTube](https://www.youtube.com/watch?v=j7jLubFg6g8)
 
-[腕龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E8%85%95%E9%BE%8D%E5%B1%AC)
-[Brachiosaurus - Wikiwand](https://omni.wikiwand.com/en/Brachiosaurus)
+[腕龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E8%85%95%E9%BE%8D%E5%B1%AC)
+[Brachiosaurus - Wikiwand](https://www.wikiwand.com/en/Brachiosaurus)
 [Brachiosaurus Fact Sheet - EnchantedLearning.com](https://www.enchantedlearning.com/subjects/dinosaurs/facts/Brachiosaurus/)
 [Difference Between Apatosaurus and Brachiosaurus | Compare the Difference Between Similar Terms](https://www.differencebetween.com/difference-between-apatosaurus-and-brachiosaurus/)
 
-[長頸巨龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E9%95%B7%E9%A0%B8%E5%B7%A8%E9%BE%8D%E5%B1%AC)
-[Giraffatitan - Wikiwand](https://omni.wikiwand.com/en/Giraffatitan)
+[長頸巨龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E9%95%B7%E9%A0%B8%E5%B7%A8%E9%BE%8D%E5%B1%AC)
+[Giraffatitan - Wikiwand](https://www.wikiwand.com/en/Giraffatitan)
 
 #### 泰坦巨龍類 Titanosauria
 
-[泰坦巨龍類 - Wikiwand](https://omni.wikiwand.com/zh/%E6%B3%B0%E5%9D%A6%E5%B7%A8%E9%BE%8D%E9%A1%9E) enormous, armored Sauropods
-[Titanosauria - Wikiwand](https://omni.wikiwand.com/en/Titanosauria)
+[泰坦巨龍類 - Wikiwand](https://www.wikiwand.com/zh/%E6%B3%B0%E5%9D%A6%E5%B7%A8%E9%BE%8D%E9%A1%9E) enormous, armored Sauropods
+[Titanosauria - Wikiwand](https://www.wikiwand.com/en/Titanosauria)
 [泰坦巨龍：史上最大的陸地生物，蜥腳類最後的排面！丨蜥腳類 04 丨恐龍時代 - YouTube](https://www.youtube.com/watch?v=n0zQM_WG4iA)
 
-[泰坦巨龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E6%B3%B0%E5%9D%A6%E5%B7%A8%E9%BE%8D%E5%B1%AC) 是個「未分類物種集中地」
-[Titanosaurus - Wikiwand](https://omni.wikiwand.com/en/Titanosaurus)
+[泰坦巨龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E6%B3%B0%E5%9D%A6%E5%B7%A8%E9%BE%8D%E5%B1%AC) 是個「未分類物種集中地」
+[Titanosaurus - Wikiwand](https://www.wikiwand.com/en/Titanosaurus)
 [Titanosaurus Fact Sheet - EnchantedLearning.com](https://www.enchantedlearning.com/subjects/dinosaurs/facts/Titanosaurus/)
 
-[阿根廷龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%BE%8D%E5%B1%AC)
-[Argentinosaurus - Wikiwand](https://omni.wikiwand.com/en/Argentinosaurus)
+[阿根廷龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%BE%8D%E5%B1%AC)
+[Argentinosaurus - Wikiwand](https://www.wikiwand.com/en/Argentinosaurus)
 [Argentinosaurus Fact Sheet - EnchantedLearning.com](https://www.enchantedlearning.com/subjects/dinosaurs/facts/Argentinosaurus/)
 
-[波塞東龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E6%B3%A2%E5%A1%9E%E6%9D%B1%E9%BE%8D%E5%B1%AC)
-[Sauroposeidon - Wikiwand](https://omni.wikiwand.com/en/Sauroposeidon)
+[波塞東龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E6%B3%A2%E5%A1%9E%E6%9D%B1%E9%BE%8D%E5%B1%AC)
+[Sauroposeidon - Wikiwand](https://www.wikiwand.com/en/Sauroposeidon)
 
 #### 鯨龍科 Cetiosauridae
 
-[鯨龍科 - Wikiwand](https://omni.wikiwand.com/zh/%E9%AF%A8%E9%BE%8D%E7%A7%91)
-[Cetiosauridae - Wikiwand](https://omni.wikiwand.com/en/Cetiosauridae)
+[鯨龍科 - Wikiwand](https://www.wikiwand.com/zh/%E9%AF%A8%E9%BE%8D%E7%A7%91)
+[Cetiosauridae - Wikiwand](https://www.wikiwand.com/en/Cetiosauridae)
 
-[鯨龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E9%AF%A8%E9%BE%8D%E5%B1%AC)
-[Cetiosaurus - Wikiwand](https://omni.wikiwand.com/en/Cetiosaurus)
+[鯨龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E9%AF%A8%E9%BE%8D%E5%B1%AC)
+[Cetiosaurus - Wikiwand](https://www.wikiwand.com/en/Cetiosaurus)
 [Cetiosaurus Fact Sheet - EnchantedLearning.com](https://www.enchantedlearning.com/subjects/dinosaurs/facts/Cetiosaurus/)
 
 ---
@@ -400,23 +404,23 @@ fairly slender
 
 ### 魚龍目 Ichthyosauria
 
-[魚龍目 - Wikiwand](https://omni.wikiwand.com/zh/%E9%B1%BC%E9%BE%99%E7%9B%AE)
-[Ichthyosaur - Wikiwand](https://omni.wikiwand.com/en/Ichthyosaur)
+[魚龍目 - Wikiwand](https://www.wikiwand.com/zh/%E9%B1%BC%E9%BE%99%E7%9B%AE)
+[Ichthyosaur - Wikiwand](https://www.wikiwand.com/en/Ichthyosaur)
 
 ### 蛇頸龍目 Plesiosauria
 
-[蛇頸龍目 - Wikiwand](https://omni.wikiwand.com/zh/%E8%9B%87%E9%A0%B8%E9%BE%8D%E7%9B%AE)
-[Plesiosauria - Wikiwand](https://omni.wikiwand.com/en/Plesiosauria)
+[蛇頸龍目 - Wikiwand](https://www.wikiwand.com/zh/%E8%9B%87%E9%A0%B8%E9%BE%8D%E7%9B%AE)
+[Plesiosauria - Wikiwand](https://www.wikiwand.com/en/Plesiosauria)
 
-[蛇頸龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E8%9B%87%E9%A0%B8%E9%BE%8D%E5%B1%AC)
-[Plesiosaurus - Wikiwand](https://omni.wikiwand.com/en/Plesiosaurus)
+[蛇頸龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E8%9B%87%E9%A0%B8%E9%BE%8D%E5%B1%AC)
+[Plesiosaurus - Wikiwand](https://www.wikiwand.com/en/Plesiosaurus)
 
-[薄板龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E8%96%84%E6%9D%BF%E9%BE%8D%E5%B1%AC)
-[Elasmosaurus - Wikiwand](https://omni.wikiwand.com/en/Elasmosaurus)
+[薄板龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E8%96%84%E6%9D%BF%E9%BE%8D%E5%B1%AC)
+[Elasmosaurus - Wikiwand](https://www.wikiwand.com/en/Elasmosaurus)
 
-[上龍亞目 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%8A%E9%BE%8D%E7%A7%91)
-[上龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%8A%E9%BE%8D%E5%B1%AC) Predator X
-[Pliosaurus - Wikiwand](https://omni.wikiwand.com/en/Pliosaurus)
+[上龍亞目 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%8A%E9%BE%8D%E7%A7%91)
+[上龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%8A%E9%BE%8D%E5%B1%AC) Predator X
+[Pliosaurus - Wikiwand](https://www.wikiwand.com/en/Pliosaurus)
 [Paleontologists Reveal the Identity of ‘Predator X’](https://www.nationalgeographic.com/science/article/paleontologists-reveal-identity-of-predator-x)
 
 [Plesiosaurs 101 | National Geographic - YouTube](https://www.youtube.com/watch?v=mkw593Qa19U)
@@ -425,16 +429,16 @@ fairly slender
 
 > actually not dinosaurs
 
-[滄龍超科 - Wikiwand](https://omni.wikiwand.com/zh/%E6%BB%84%E9%BE%8D%E8%B6%85%E7%A7%91)
+[滄龍超科 - Wikiwand](https://www.wikiwand.com/zh/%E6%BB%84%E9%BE%8D%E8%B6%85%E7%A7%91)
 
-[滄龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E6%BB%84%E9%BE%8D%E5%B1%AC)
-[Mosasaurus - Wikiwand](https://omni.wikiwand.com/en/Mosasaurus) the one that ate the hybrid hybrid Indominus rex in Jurassic World
+[滄龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E6%BB%84%E9%BE%8D%E5%B1%AC)
+[Mosasaurus - Wikiwand](https://www.wikiwand.com/en/Mosasaurus) the one that ate the hybrid hybrid Indominus rex in Jurassic World
 
-[海王龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E6%B5%B7%E7%8E%8B%E9%BE%8D%E5%B1%AC)
-[Tylosaurus - Wikiwand](https://omni.wikiwand.com/en/Tylosaurus)
+[海王龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E6%B5%B7%E7%8E%8B%E9%BE%8D%E5%B1%AC)
+[Tylosaurus - Wikiwand](https://www.wikiwand.com/en/Tylosaurus)
 
-[海諾龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E6%B5%B7%E8%AB%BE%E9%BE%8D%E5%B1%AC)
-[Hainosaurus - Wikiwand](https://omni.wikiwand.com/en/Hainosaurus)
+[海諾龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E6%B5%B7%E8%AB%BE%E9%BE%8D%E5%B1%AC)
+[Hainosaurus - Wikiwand](https://www.wikiwand.com/en/Hainosaurus)
 
 ---
 
@@ -449,23 +453,23 @@ fairly slender
 
 ### 翼龍目 Pterosaur
 
-[翼龍目 - Wikiwand](https://omni.wikiwand.com/zh/%E7%BF%BC%E9%BE%8D%E7%9B%AE)
-[Pterosaur - Wikiwand](https://omni.wikiwand.com/en/Pterosaur)
+[翼龍目 - Wikiwand](https://www.wikiwand.com/zh/%E7%BF%BC%E9%BE%8D%E7%9B%AE)
+[Pterosaur - Wikiwand](https://www.wikiwand.com/en/Pterosaur)
 
 [How Did Giant Pterosaurs Fly? - YouTube](https://www.youtube.com/watch?v=-b4kAycprQg)
 [Pterosaurs 101 | National Geographic - YouTube](https://www.youtube.com/watch?v=mfYuvlE78Nk)
 
-[翼手龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E7%BF%BC%E6%89%8B%E9%BE%8D%E5%B1%AC)
-[Pterodactylus - Wikiwand](https://omni.wikiwand.com/en/Pterodactylus)
+[翼手龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E7%BF%BC%E6%89%8B%E9%BE%8D%E5%B1%AC)
+[Pterodactylus - Wikiwand](https://www.wikiwand.com/en/Pterodactylus)
 
-[無齒翼龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E7%84%A1%E9%BD%92%E7%BF%BC%E9%BE%8D%E5%B1%AC)
-[Pteranodon - Wikiwand](https://omni.wikiwand.com/en/Pteranodon)
+[無齒翼龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E7%84%A1%E9%BD%92%E7%BF%BC%E9%BE%8D%E5%B1%AC)
+[Pteranodon - Wikiwand](https://www.wikiwand.com/en/Pteranodon)
 [無齒翼龍：誰說我是無恥之徒！在命名上翼龍重來就沒有輸過丨翼龍類丨恐龍時代 - YouTube](https://www.youtube.com/watch?v=q-F5ZViqVwg)
 
-[風神翼龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E9%A2%A8%E7%A5%9E%E7%BF%BC%E9%BE%8D%E5%B1%AC)
-[Quetzalcoatlus - Wikiwand](https://omni.wikiwand.com/en/Quetzalcoatlus)
+[風神翼龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E9%A2%A8%E7%A5%9E%E7%BF%BC%E9%BE%8D%E5%B1%AC)
+[Quetzalcoatlus - Wikiwand](https://www.wikiwand.com/en/Quetzalcoatlus)
 [風神翼龍：史上最大飛行生物，翼展堪比小型飛機，這樣的還有 4 個？丨翼龍類丨恐龍時代 - YouTube](https://www.youtube.com/watch?v=sr_P0RPXF6Q)
 
-[悟空翼龍屬 - Wikiwand](https://omni.wikiwand.com/zh/%E6%82%9F%E7%A9%BA%E7%BF%BC%E9%BE%8D%E5%B1%AC)
-[Wukongopterus - Wikiwand](https://omni.wikiwand.com/en/Wukongopterus)
+[悟空翼龍屬 - Wikiwand](https://www.wikiwand.com/zh/%E6%82%9F%E7%A9%BA%E7%BF%BC%E9%BE%8D%E5%B1%AC)
+[Wukongopterus - Wikiwand](https://www.wikiwand.com/en/Wukongopterus)
 [悟空翼龍，鬥戰翼龍，鯤鵬翼龍，干將莫邪，這些都是翼龍名字？翼龍家族的神奇命名遠遠沒有結束：非翼手龍類丨翼龍篇 03 丨恐龍時代 - YouTube](https://www.youtube.com/watch?v=bNY2OTdveaY)

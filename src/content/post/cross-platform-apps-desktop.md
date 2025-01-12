@@ -2,7 +2,7 @@
 title: Cross Platform Apps (Desktop)
 description: ""
 created: 2022-05-03
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - app
 ---
@@ -133,7 +133,7 @@ Rust core + TypeScript UI
 
 ## libmatoya
 
-[chrisd1100/libmatoya: Cross-platform application development.](https://github.com/chrisd1100/libmatoya) used by Parsec
+[snowcone-ltd/libmatoya: Cross-platform application development.](https://github.com/snowcone-ltd/libmatoya) used by Parsec
 
 ## IUP
 
@@ -143,9 +143,9 @@ Rust core + TypeScript UI
 ## GTK
 
 [The GTK+ Project](https://www.gtk.org/)
-[GTK+ - Wikiwand](https://omni.wikiwand.com/en/GTK%2B)
-[GLib - Wikiwand](https://omni.wikiwand.com/en/GLib)
-[List of language bindings for GTK+ - Wikiwand](https://omni.wikiwand.com/en/List_of_language_bindings_for_GTK%2B)
+[GTK+ - Wikiwand](https://www.wikiwand.com/en/GTK%2B)
+[GLib - Wikiwand](https://www.wikiwand.com/en/GLib)
+[List of language bindings for GTK+ - Wikiwand](https://www.wikiwand.com/en/List_of_language_bindings_for_GTK%2B)
 
 [threaded animation with cairo](https://www.cairographics.org/threaded_animation_with_cairo/)
 
@@ -158,7 +158,7 @@ Rust core + TypeScript UI
 ### UI Designer
 
 [Glade - A User Interface Designer](https://glade.gnome.org/)
-[Glade Interface Designer - Wikiwand](https://omni.wikiwand.com/en/Glade_Interface_Designer)
+[Glade Interface Designer - Wikiwand](https://www.wikiwand.com/en/Glade_Interface_Designer)
 
 [python - How to add a pygtk Widget to the Glade palette? - Ask Ubuntu](https://askubuntu.com/questions/30496/how-to-add-a-pygtk-widget-to-the-glade-palette)
 [Custom python widgets in glade 3 - Stack Overflow](https://stackoverflow.com/questions/11568062/custom-python-widgets-in-glade-3)
@@ -291,7 +291,7 @@ used by many games and PyGame as backend
 ## wxWidgets
 
 [wxWidgets: Cross-Platform GUI Library](http://wxwidgets.org/)
-[wxWidgets - Wikiwand](https://omni.wikiwand.com/en/WxWidgets)
+[wxWidgets - Wikiwand](https://www.wikiwand.com/en/WxWidgets)
 
 Binding to native GUI widgets.
 
@@ -461,7 +461,7 @@ Binding to native GUI widgets.
 
 Microsoft acquired Xamarin in 2016 and it became part of .NET. MAUI is announced in 2020 as a replacement of `Xamarin.Forms`.
 
-[Xamarin - Wikiwand](https://omni.wikiwand.com/en/Xamarin)
+[Xamarin - Wikiwand](https://www.wikiwand.com/en/Xamarin)
 [Xamarin | Open-source mobile app platform for .NET](https://dotnet.microsoft.com/apps/xamarin)
 [Xamarin Blog | An open source mobile platform for building Android, iOS, macOS, watchOS, and tvOS apps with .NET.](https://devblogs.microsoft.com/xamarin/)
 

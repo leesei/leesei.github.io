@@ -2,7 +2,7 @@
 title: Game Engines
 description: ""
 created: 2015-01-02
-updated: 2024-09-23
+updated: 2025-01-09
 tags:
   - game-dev
   - game-engine
@@ -11,7 +11,7 @@ tags:
 
 [[3d-graphics]]
 
-[Game engine - Wikiwand](http://omni.wikiwand.com/en/Game_engine)
+[Game engine - Wikiwand](http://www.wikiwand.com/en/Game_engine)
 [How Game Engines Work! - YouTube](https://www.youtube.com/watch?v=DKrdLKetBZE)
 [你瞭解「遊戲引擎」麼？【就知道玩遊戲 43】 - YouTube](https://www.youtube.com/watch?v=M0Q7iNKI5uc)
 [你瞭解遊戲引擎麼(二)：引擎進化的腳步【就知道玩遊戲 51】 - YouTube](https://www.youtube.com/watch?v=lyqdhw-ws6w)
@@ -23,9 +23,9 @@ tags:
 
 [quill18creates - YouTube](https://www.youtube.com/user/quill18creates)
 
-[List of game engines - Wikiwand](http://omni.wikiwand.com/en/List_of_game_engines)
-[First-person shooter engine - Wikiwand](http://omni.wikiwand.com/en/First-person_shooter_engine)
-[List of first-person shooter engines - Wikiwand](http://omni.wikiwand.com/en/List_of_first-person_shooter_engines)
+[List of game engines - Wikiwand](http://www.wikiwand.com/en/List_of_game_engines)
+[First-person shooter engine - Wikiwand](http://www.wikiwand.com/en/First-person_shooter_engine)
+[List of first-person shooter engines - Wikiwand](http://www.wikiwand.com/en/List_of_first-person_shooter_engines)
 
 [Underrated Game Engines Round-up – GameFromScratch.com](https://gamefromscratch.com/underrated-game-engines-round-up/)
 [Unity Alternatives in 2023 – GameFromScratch.com](https://gamefromscratch.com/unity-alternatives-in-2023/)
@@ -87,10 +87,11 @@ tags:
 ## raylib
 
 [raylib | A simple and easy-to-use library to enjoy videogames programming](https://www.raylib.com/) binding in various languages
+[Ray - itch.io](https://raysan5.itch.io/)
 [Home · raysan5/raylib Wiki](https://github.com/raysan5/raylib/wiki)
 [raysan5/raylib: A simple and easy-to-use library to enjoy videogames programming](https://github.com/raysan5/raylib)
 
-[Ray - itch.io](https://raysan5.itch.io/)
+[RayLib 5.5 Released - The Easiest C/C++ Game Library Just Got Even Easier - YouTube](https://www.youtube.com/watch?v=JXL2bYmTLE4)
 
 ## Tiles
 
@@ -132,14 +133,19 @@ camera at infinitely far away creates an orthographic projection that removes di
 
 ## Flecs
 
-[Flecs: Flecs](https://www.flecs.dev/flecs/)
+[Flecs: Flecs](https://www.flecs.dev/flecs/) data oriented system, no rendering
 [SanderMertens/flecs: A fast entity component system (ECS) for C & C++](https://github.com/SanderMertens/flecs)
 
 [foxnne/zig-flecs: Zig wrapper for Flecs](https://github.com/foxnne/zig-flecs)
 
 ## EnTT
 
+[EnTT: EnTT](https://skypjack.github.io/entt/) data oriented system, no rendering
 [skypjack/entt: Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more](https://github.com/skypjack/entt)
+[Home · skypjack/entt Wiki](https://github.com/skypjack/entt/wiki)
+
+[EnTT in Action · skypjack/entt Wiki](https://github.com/skypjack/entt/wiki/EnTT-in-Action)
+[indianakernick/EnTT-Pacman: An example of how to use the ECS part of the EnTT framework](https://github.com/indianakernick/EnTT-Pacman)
 
 [prime31/zig-ecs](https://github.com/prime31/zig-ecs)
 
@@ -191,6 +197,7 @@ CreateJS have multiple tools for game development
 [Stage.js - 2D JavaScript library for cross-platform HTML5 game development](http://piqnt.com/stage.js/)
 [Impact - HTML5 Canvas & JavaScript Game Engine](http://impactjs.com/)
 [andrewrk/chem: 2d canvas-based rapid prototyping game engine](https://github.com/andrewrk/chem)
+[BlackGlory/extra-game-loop: 🌳](https://github.com/BlackGlory/extra-game-loop)
 
 [Riskmap.filkor.org](http://dev.filkor.org/RiskMap/#Quebec)
 [Create an interactive map using Javascript and HTML5 Canvas - filkor.org Writings](http://dev.filkor.org/2013/04/14/create-an-interactive-map-using-javascript-and-html-5-canvas/)
@@ -431,7 +438,7 @@ Fully compatible with XNA
 ## SFML
 
 [SFML](https://www.sfml-dev.org/) C++
-[Simple and Fast Multimedia Library - Wikiwand](https://omni.wikiwand.com/en/Simple_and_Fast_Multimedia_Library)
+[Simple and Fast Multimedia Library - Wikiwand](https://www.wikiwand.com/en/Simple_and_Fast_Multimedia_Library)
 
 [Sonkun/python-sfml: Official binding of SFML for Python](https://github.com/Sonkun/python-sfml)
 [jeremyletang/rust-sfml: SFML bindings for Rust](https://github.com/jeremyletang/rust-sfml)
@@ -567,7 +574,7 @@ Titles:
 
 License: ~~Free for development / Pay What You Want~~ 5% royalty after 5.0 (2018)
 
-[CryEngine - Wikiwand](http://omni.wikiwand.com/en/CryEngine)
+[CryEngine - Wikiwand](http://www.wikiwand.com/en/CryEngine)
 [CryENGINE | Crytek](http://www.crytek.com/cryengine)
 [CRYENGINE | The complete solution for next generation game development by Crytek](https://www.cryengine.com/)
 [CRYTEK-CRYENGINE/CRYENGINE: CRYENGINE source code.](https://github.com/CRYTEK-CRYENGINE/CRYENGINE)
@@ -583,14 +590,14 @@ Titles:
 
 License: Proprietary
 
-[id Tech 5 - Wikiwand](http://omni.wikiwand.com/en/Id_Tech_5)
+[id Tech 5 - Wikiwand](http://www.wikiwand.com/en/Id_Tech_5)
 
-[id Tech 4 - Wikiwand](http://omni.wikiwand.com/en/Id_Tech_4)
+[id Tech 4 - Wikiwand](http://www.wikiwand.com/en/Id_Tech_4)
 [Doom3 Source Code Review: Introduction](http://fabiensanglard.net/doom3/)
 [Doom3 BFG Source Code Review: Introduction](http://fabiensanglard.net/doom3_bfg/index.php)
 [Doom3 BFG Documentation](http://fabiensanglard.net/doom3_documentation/index.php)
 
-[id Tech 3 - Wikiwand](http://omni.wikiwand.com/en/Id_Tech_3)
+[id Tech 3 - Wikiwand](http://www.wikiwand.com/en/Id_Tech_3)
 [Quake 3 Source Code Review: Architecture](http://fabiensanglard.net/quake3/index.php)
 
 ## Frostbite
@@ -609,7 +616,7 @@ Titles:
 
 License: Proprietary
 
-[Frostbite (game engine) - Wikiwand](<https://omni.wikiwand.com/en/Frostbite_(game_engine)>)
+[Frostbite (game engine) - Wikiwand](<https://www.wikiwand.com/en/Frostbite_(game_engine)>)
 [Frostbite - Game Engine](http://www.frostbite.com/)
 
 DICE has pushed the Frostbite engine to all games in EA since its bought out in 2006.
@@ -624,7 +631,7 @@ Titles:
 
 License:
 
-[Source (game engine) - Wikiwand](<http://omni.wikiwand.com/en/Source_(game_engine)>)
+[Source (game engine) - Wikiwand](<http://www.wikiwand.com/en/Source_(game_engine)>)
 
 ## Unity
 
@@ -632,7 +639,7 @@ better 2.5D on mobile and web, larger community/store
 
 License: free for first \$100 thousand in game revenue
 
-[Unity (game engine) - Wikiwand](<http://omni.wikiwand.com/en/Unity_(game_engine)>)
+[Unity (game engine) - Wikiwand](<http://www.wikiwand.com/en/Unity_(game_engine)>)
 [Unity - Game engine, tools and multiplatform](http://unity3d.com/unity)
 [UNITY does WHAT NOW?? The State of Unity - YouTube](https://www.youtube.com/watch?v=iOjisA9KnHA) 2022-12
 
@@ -705,7 +712,7 @@ Cross platform (PC and consoles)
 [The most powerful real-time 3D creation platform - Unreal Engine](https://www.unrealengine.com/en-US/)
 [Epic Online Services featuring Epic Account and Game Services - Unreal Engine](https://www.unrealengine.com/en-US/blog/epic-online-services-featuring-epic-account-and-game-services)
 
-[Unreal Engine - Wikiwand](http://omni.wikiwand.com/en/Unreal_Engine)
+[Unreal Engine - Wikiwand](http://www.wikiwand.com/en/Unreal_Engine)
 [Evolution of Unreal Engine 1995-2022 - YouTube](https://www.youtube.com/watch?v=TaLiMiyi2g4)
 
 [Online Learning - Unreal Engine](https://www.unrealengine.com/en-US/onlinelearning-courses)
@@ -750,7 +757,7 @@ Unreal Sensei
 
 ## REDengine
 
-[REDengine - Wikiwand](https://omni.wikiwand.com/zh/REDengine)
+[REDengine - Wikiwand](https://www.wikiwand.com/zh/REDengine)
 
 Company: CDPR
 Titles:
@@ -766,7 +773,7 @@ Company: Bethesda
 
 License: free for revenue or funding less than $100K
 
-[Unigine - Wikiwand](https://omni.wikiwand.com/en/Unigine)
+[Unigine - Wikiwand](https://www.wikiwand.com/en/Unigine)
 [UNIGINE: real-time 3D engine](https://unigine.com/)
 
 ## Quark

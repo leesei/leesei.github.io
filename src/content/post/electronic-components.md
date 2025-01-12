@@ -2,7 +2,7 @@
 title: Electronic Components
 description: ""
 created: 2018-09-12
-updated: 2024-09-08
+updated: 2025-01-09
 tags:
   - electronics
   - maker
@@ -436,7 +436,7 @@ Fine: M-3
 
 [Introduction to Interfaces - YouTube](https://www.youtube.com/watch?v=nMZJwspSkAc)
 
-[General-purpose input/output - Wikiwand](https://omni.wikiwand.com/en/General-purpose_input/output)
+[General-purpose input/output - Wikiwand](https://www.wikiwand.com/en/General-purpose_input/output)
 [GPIO 接腳基本認知 – circuitcellar](https://www.circuitcellar.com.tw/?p=650)
 
 [UART那么好用，为什么单片机还需要I2C和SPI？ - YouTube](https://www.youtube.com/watch?v=UGKT2OPyz1U)
@@ -450,7 +450,7 @@ Fine: M-3
 
 ### Bit-Banging
 
-[Bit banging - Wikiwand](https://omni.wikiwand.com/en/Bit_banging) software implementation of serial interface
+[Bit banging - Wikiwand](https://www.wikiwand.com/en/Bit_banging) software implementation of serial interface
 
 [Overview - V-USB](http://vusb.wikidot.com/) emulate USB with Bit banging on cheap Atmel chips
 [V-USB - A Firmware-Only USB Driver for Atmel AVR Microcontrollers](https://www.obdev.at/products/vusb/index.html)
@@ -463,17 +463,17 @@ Fine: M-3
 
 ### Serial
 
-[Transistor–transistor logic - Wikiwand](https://omni.wikiwand.com/en/Transistor%E2%80%93transistor_logic) TTL
+[Transistor–transistor logic - Wikiwand](https://www.wikiwand.com/en/Transistor%E2%80%93transistor_logic) TTL
 On 5V, High > 2.4V, Low < 0.4V
 Weak anti-interference
 
-[Serial port - Wikiwand](https://omni.wikiwand.com/en/Serial_port)
+[Serial port - Wikiwand](https://www.wikiwand.com/en/Serial_port)
 [5分钟看懂!串口RS232 RS485最本质的区别！ - YouTube](https://www.youtube.com/watch?v=HKQaYN5Odlk)
-[RS-232 - Wikiwand](https://omni.wikiwand.com/en/RS-232)
+[RS-232 - Wikiwand](https://www.wikiwand.com/en/RS-232)
 Convert 0-5V TTL signal to (-15V, 15V) via Voltage Level Shifter, High 3 - 15V, Low -3 - -15V
 15m, 2Mbps
 
-[RS-485 - Wikiwand](https://omni.wikiwand.com/en/RS-485)
+[RS-485 - Wikiwand](https://www.wikiwand.com/en/RS-485)
 Uses differential signaling on twisted cables, half duplex
 1200m, 50Mbps
 
@@ -490,7 +490,7 @@ RX, TX without clock
 
 ### USB Serial/UART
 
-[Universal asynchronous receiver-transmitter - Wikiwand](https://omni.wikiwand.com/en/Universal_asynchronous_receiver-transmitter)
+[Universal asynchronous receiver-transmitter - Wikiwand](https://www.wikiwand.com/en/Universal_asynchronous_receiver-transmitter)
 [Hacker's Guide to UART Root Shells - YouTube](https://www.youtube.com/watch?v=01mw0oTHwxg)
 
 [Which USB to TTL converter Adapter To Chose For Your Arduino Projects?! - YouTube](https://www.youtube.com/watch?v=hE2Yw-fGZRg)
@@ -529,7 +529,7 @@ Make sure you user is in `plugdev` group (or `dialout` or `tty` per [espressif d
 
 ### I2C
 
-[I²C - Wikiwand](https://omni.wikiwand.com/en/I²C)
+[I²C - Wikiwand](https://www.wikiwand.com/en/I²C)
 [I2C Device Library](https://www.i2cdevlib.com/)
 [Gammon Forum : Electronics : Microprocessors : I2C - Two-Wire Peripheral Interface - for Arduino](https://gammon.com.au/i2c)
 
@@ -563,7 +563,7 @@ MCP23017 16 I/Os, with 2 interrupts
 
 ### SPI
 
-[Serial Peripheral Interface - Wikiwand](https://omni.wikiwand.com/en/Serial_Peripheral_Interface)
+[Serial Peripheral Interface - Wikiwand](https://www.wikiwand.com/en/Serial_Peripheral_Interface)
 [Serial Peripheral Interface (SPI) - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi)
 
 [What Could Go Wrong: SPI | Hackaday](https://hackaday.com/2016/07/01/what-could-go-wrong-spi/)
@@ -589,7 +589,7 @@ Endian
 
 ### I2S
 
-[I²S - Wikiwand](https://omni.wikiwand.com/en/I²S) Inter-IC Sound
+[I²S - Wikiwand](https://www.wikiwand.com/en/I²S) Inter-IC Sound
 [Arduino - I2S](https://www.arduino.cc/en/Reference/I2S)
 
 ### JACDAC
@@ -940,15 +940,21 @@ So 1 white 5050 takes ~50mA
 
 ## Color Sensor
 
-[TCS3200 Color Sensor (SKU:SEN0101) - DFRobot Electronic Product Wiki and Tutorial: Arduino and Robot Wiki-DFRobot.com](<https://www.dfrobot.com/wiki/index.php/TCS3200_Color_Sensor_(SKU:SEN0101)>)
+[TCS3200 Color Sensor - DFRobot](https://wiki.dfrobot.com/TCS3200_Color_Sensor__SKU_SEN0101_)
+[pxt-SEN-Color 1.0.1 (joy-it/pxt-SEN-Color)](https://makecode.microbit.org/pkg/joy-it/pxt-SEN-Color)
 [seasonedbits/pxt-color-sensor: Extension for TSC3200 color sensor module](https://github.com/seasonedbits/pxt-color-sensor)
 
-[Arduino COLOR Sensor / Color Recognition Sensor TCS230](https://www.instructables.com/id/Arduino-COLOR-Sensor-Color-Recognition-Sensor-TCS2/) Arduino
+Do ground to OE pin to avoid noise interference
+[Arduino COLOR Sensor / Color Recognition Sensor TCS230](https://www.instructables.com/Arduino-COLOR-Sensor-Color-Recognition-Sensor-TCS2/) Arduino
+[Arduino TCS3200 Color Sensor Tutorial - How TCS3200 Color Sensor Works and Interfacing it with Arduino](https://circuitdigest.com/microcontroller-projects/interfacing-color-sensor-with-arduino)
 [How to Make a Color Sensor Using a TCS3200 Module | PIC | Maker Pro](https://maker.pro/pic/tutorial/how-to-make-a-color-sensor-using-a-tcs3200-module)
 [TCS3200 RGB Color Sensor For Arduino - Thingbits Electronics](https://www.thingbits.net/products/tcs3200-rgb-color-sensor-for-arduino)
 [MajicDesigns/MD_TCS230: TCS230 TCS3200 RGB Color Sensor Library](https://github.com/MajicDesigns/MD_TCS230)
 
-[Help With TCS3200 Color Sensor (Understanding Output)](https://forum.arduino.cc/index.php?topic=141827.0)
+[Help With TCS3200 Color Sensor (Understanding Output) - Projects / Programming - Arduino Forum](https://forum.arduino.cc/t/help-with-tcs3200-color-sensor-understanding-output/138422)
+
+[TCS34725 Color Sensor - Waveshare Wiki](https://www.waveshare.com/wiki/TCS34725_Color_Sensor)
+[TCS34725 I2C Color Sensor - DFRobot](https://wiki.dfrobot.com/TCS34725_I2C_Color_Sensor_For_Arduino_SKU__SEN0212)
 
 ## UV sensor
 
@@ -1049,7 +1055,7 @@ Funduino Joystick Shield
 
 [nRF24L01 - 2.4GHz RF Transceiver With Arduino (Code and Schematics) | Random Nerd Tutorials](https://randomnerdtutorials.com/nrf24l01-2-4ghz-rf-transceiver-module-with-arduino/)
 
-[Wiegand interface - Wikiwand](https://omni.wikiwand.com/en/Wiegand_interface)
+[Wiegand interface - Wikiwand](https://www.wikiwand.com/en/Wiegand_interface)
 [Wiegand: What Is It And How Does It Work With Access Control | Kisi](https://www.getkisi.com/guides/wiegand)
 [monkeyboard/Wiegand-Protocol-Library-for-Arduino: Wiegand 26 and Wiegand 34 Protocol Library for Arduino](https://github.com/monkeyboard/Wiegand-Protocol-Library-for-Arduino)
 
@@ -1062,7 +1068,7 @@ Funduino Joystick Shield
 
 [RFID Basics - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/rfid-basics)
 [rfid+guide.pdf](https://cdn-shop.adafruit.com/datasheets/rfid+guide.pdf)
-[Radio-frequency identification - Wikiwand](https://omni.wikiwand.com/en/Radio-frequency_identification)
+[Radio-frequency identification - Wikiwand](https://www.wikiwand.com/en/Radio-frequency_identification)
 [About RFID - Learn more about RAIN RFID, UHF RFID, passive RFID](https://www.impinj.com/about-rfid/)
 [HF RFID standards | HF RFID frequencies](http://www.veryfields.net/hf-high-frequency)
 
@@ -1219,8 +1225,8 @@ MCU-86 AK8975
 [Tutorial: How to calibrate a compass (and accelerometer) with Arduino | Underwater Arduino Data Loggers](https://thecavepearlproject.org/2015/05/22/calibrating-any-compass-or-accelerometer-for-arduino/)
 [Arduino - RobotCompassCalibration](https://www.arduino.cc/en/Tutorial/RobotCompassCalibration)
 [Advanced hard and soft iron magnetometer calibration for dummies - DIY Drones](https://diydrones.com/profiles/blogs/advanced-hard-and-soft-iron-magnetometer-calibration-for-dummies)
-[Simple Manual Magnetometer Calibration: 7 Steps (with Pictures)](https://www.instructables.com/id/Simple-Manual-Magnetometer-Calibration/)
-[Automatic Magnetometer Calibration: 6 Steps](https://www.instructables.com/id/Automatic-Magnetometer-Calibration/)
+[Simple Manual Magnetometer Calibration: 7 Steps (with Pictures)](https://www.instructables.com/Simple-Manual-Magnetometer-Calibration/)
+[Automatic Magnetometer Calibration: 6 Steps](https://www.instructables.com/Automatic-Magnetometer-Calibration/)
 [Calibration | LSM303 Accelerometer + Compass Breakout | Adafruit Learning System](https://learn.adafruit.com/lsm303-accelerometer-slash-compass-breakout/calibration?view=all)
 [LSM303C 6DoF Hookup Guide - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/lsm303c-6dof-hookup-guide/all)
 [magnetometer - QMC5883L automatic calibration - Arduino Stack Exchange](https://arduino.stackexchange.com/questions/62498/qmc5883l-automatic-calibration)

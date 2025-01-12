@@ -2,7 +2,7 @@
 title: Android notes
 description: ""
 created: 2014-12-17
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - aapt
   - adb
@@ -194,7 +194,7 @@ cat /proc/bus/input/devices
 
 Deprecated from Android 12
 
-[RenderScript - Wikiwand](https://omni.wikiwand.com/en/RenderScript)
+[RenderScript - Wikiwand](https://www.wikiwand.com/en/RenderScript)
 [RenderScript Overview  |  Android Developers](https://developer.android.com/guide/topics/renderscript/compute)
 
 [Android Renderscript - YouTube](https://www.youtube.com/watch?v=7TqTnlYAg8E) 2011
@@ -305,6 +305,7 @@ tag: `^(?!.*(DeskClock|dalvik|wpa)).*$`, `^(?!(BluetoothAdapter|AbsListView))`
 #### logcat (node)
 
 [logcat-org/logcat: adb logcat console and web viewer](https://github.com/logcat-org/logcat)
+[openstf/adbkit-logcat: A Node.js interface for working with Android's logcat output.](https://github.com/openstf/adbkit-logcat)
 
 #### pidcat (python)
 

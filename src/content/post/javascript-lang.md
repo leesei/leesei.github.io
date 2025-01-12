@@ -2,7 +2,7 @@
 title: JavaScript
 description: ""
 created: 2014-12-11
-updated: 2024-09-04
+updated: 2025-01-09
 tags:
   - comp/lang
   - javascript
@@ -16,7 +16,7 @@ Harmony stands for the ES5+ feature set. Some of them will be in ES6, some of th
 
 [The Complete JavaScript Handbook](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c)
 
-[ECMAScript - Wikiwand](http://omni.wikiwand.com/en/ECMAScript)
+[ECMAScript - Wikiwand](http://www.wikiwand.com/en/ECMAScript)
 [Brendan Eich » Blog Archive » A Brief History of JavaScript](https://brendaneich.com/2010/07/a-brief-history-of-javascript/)
 [A Short History of JavaScript - Web Education Community Group](https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript)
 [DailyJS: History of JavaScript](http://dailyjs.com/history-of-javascript-index/)

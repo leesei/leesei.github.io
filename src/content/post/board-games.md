@@ -2,7 +2,7 @@
 title: Board Games
 description: ""
 created: 2018-01-03
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - boardgame
   - games
@@ -40,6 +40,8 @@ tags:
 [Viva La Dirt League D&D - YouTube](https://www.youtube.com/@VivaLaDirtLeagueDnD)
 [NPC D&D - Entire campaign - 'Adventures of Azerim' - YouTube](https://www.youtube.com/playlist?list=PL8UrCqt275jEBJ07mm2FoTWTZiU4rhCQA)
 
+[Games Night - YouTube](https://www.youtube.com/@GamesNight)
+
 ## Monopoly
 
 Monopoly derives from a patented "The Landlord’s Game", whose goal was to teach the bads of monopoly, rather than encouraging it.
@@ -71,7 +73,7 @@ Monopoly derives from a patented "The Landlord’s Game", whose goal was to teac
 
 ## Playing Card
 
-[Standard 52-card deck - Wikiwand](https://omni.wikiwand.com/en/Standard_52-card_pack)
+[Standard 52-card deck - Wikiwand](https://www.wikiwand.com/en/Standard_52-card_pack)
 [Evolution of Playing Card Designs - Solitaired](https://solitaired.com/evolution-of-playing-card-design)
 
 ## 散櫻亂武

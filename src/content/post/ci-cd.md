@@ -2,14 +2,14 @@
 title: CI/CD
 description: ""
 created: 2019-11-04
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - dev/deploy
   - devops
   - gitops
 ---
 
-[Continuous integration - Wikiwand](https://omni.wikiwand.com/en/Continuous_integration)
+[Continuous integration - Wikiwand](https://www.wikiwand.com/en/Continuous_integration)
 [Continuous Integration Essentials | Codeship](https://codeship.com/continuous-integration-essentials)
 [What is CI/CD? Continuous integration and continuous delivery explained | InfoWorld](https://www.infoworld.com/article/3271126/application-development/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html)
 [What is continuous testing? How to align test automation with agile and devops | InfoWorld](https://www.infoworld.com/article/3289104/application-testing/how-to-align-test-automation-with-agile-and-devops.html)
@@ -183,7 +183,7 @@ tags:
 
 Jekins began as a fork of Hudson.
 Community migrated to Jenkins fork early 2011 after Hudson is bought by Oracle bought Sun.
-[Hudson (software) - Wikiwand](<https://omni.wikiwand.com/en/Hudson_(software)>)
+[Hudson (software) - Wikiwand](<https://www.wikiwand.com/en/Hudson_(software)>)
 [Continuous Integration: Hudson vs. Jenkins - DevTeam.Space](https://www.devteam.space/blog/continuous-integration-hudson-vs-jenkins/)
 
 ## OVH CDS
@@ -226,7 +226,7 @@ Community migrated to Jenkins fork early 2011 after Hudson is bought by Oracle b
 
 > Travis is hosted service, with self-hosted enterprise option
 
-[Travis CI - Wikiwand](https://omni.wikiwand.com/en/Travis_CI)
+[Travis CI - Wikiwand](https://www.wikiwand.com/en/Travis_CI)
 [Travis CI - Test and Deploy Your Code with Confidence](https://travis-ci.org/)
 [DamonOehlman/travis-multirunner: A simple configuration for running (limited) multibrowser tests on travis ci](https://github.com/damonoehlman/travis-multirunner)
 [GUI and Headless Browser Testing - Travis CI](https://dosc.travis-ci.com/user/gui-and-headless-browsers/)

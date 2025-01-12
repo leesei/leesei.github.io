@@ -2,7 +2,7 @@
 title: Chrome OS
 description: ""
 created: 2019-05-03
-updated: 2024-02-19
+updated: 2025-01-09
 tags:
   - comp/hardware
   - laptop

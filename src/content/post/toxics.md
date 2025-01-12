@@ -2,7 +2,7 @@
 title: Toxics
 description: ""
 created: 2016-10-02
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - science
 ---
@@ -36,7 +36,7 @@ comparing to that of cocaine 100mg
 
 > also known as marijuana (Mexican)
 
-[Cannabis (drug) - Wikiwand](<https://omni.wikiwand.com/en/Cannabis_(drug)>)
+[Cannabis (drug) - Wikiwand](<https://www.wikiwand.com/en/Cannabis_(drug)>)
 
 - Cannabidol 大麻二酚 (CDB)
   blocks CB1 from binding with THC

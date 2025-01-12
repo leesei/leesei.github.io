@@ -2,7 +2,7 @@
 title: Web App Frameworks
 description: On frameworks running on Node.js ecosystem
 created: 2023-11-16
-updated: 2024-09-04
+updated: 2025-01-09
 tags:
   - backend
   - frontend
@@ -17,6 +17,7 @@ tags:
 [[feathersjs]]
 [[hapi]]
 [[nextjs]]
+[[tanstack-start]]
 [[totaljs]]
 
 [The Curious Case of Blazing Fast Front-End JS Frameworks](https://analyticsindiamag.com/the-curious-case-of-blazing-fast-front-end-js-frameworks/)

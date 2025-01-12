@@ -2,7 +2,7 @@
 title: Data Analytics
 description: ""
 created: 2016-09-21
-updated: 2024-09-23
+updated: 2025-01-09
 tags:
   - big-data
 ---
@@ -12,20 +12,20 @@ tags:
 [[elastic-stack]]
 [[elastic-kibana]]
 
-[Analytics - Wikiwand](http://omni.wikiwand.com/en/Analytics)
+[Analytics - Wikiwand](http://www.wikiwand.com/en/Analytics)
 [Data Analytics Reference Stack | Clear Linux\* Project](https://clearlinux.org/stacks/data-analytics)
 [Data Science Timeline - Noteworthy - The Journal Blog](https://blog.usejournal.com/data-science-timeline-305ef75dceb6)
 [Data Analyst VS Data Scientist – What's the Difference?](https://www.freecodecamp.org/news/data-analyst-vs-data-scientist-whats-the-difference/)
 
-[Software analytics - Wikiwand](http://omni.wikiwand.com/en/Software_analytics)
-[Web analytics - Wikiwand](https://omni.wikiwand.com/en/Web_analytics)
-[IT operations analytics - Wikiwand](http://omni.wikiwand.com/en/IT_operations_analytics)
-[Session (web analytics) - Wikiwand](<http://omni.wikiwand.com/en/Session_(web_analytics)>)
+[Software analytics - Wikiwand](http://www.wikiwand.com/en/Software_analytics)
+[Web analytics - Wikiwand](https://www.wikiwand.com/en/Web_analytics)
+[IT operations analytics - Wikiwand](http://www.wikiwand.com/en/IT_operations_analytics)
+[Session (web analytics) - Wikiwand](<http://www.wikiwand.com/en/Session_(web_analytics)>)
 
-[Behavioral analytics - Wikiwand](https://omni.wikiwand.com/en/Behavioral_analytics)
+[Behavioral analytics - Wikiwand](https://www.wikiwand.com/en/Behavioral_analytics)
 not to be confused with User Behavioral Analytics, used in security context for threat detection
-[Business intelligence - Wikiwand](https://omni.wikiwand.com/en/Business_intelligence)
-[Cohort analysis - Wikiwand](https://omni.wikiwand.com/en/Cohort_analysis)
+[Business intelligence - Wikiwand](https://www.wikiwand.com/en/Business_intelligence)
+[Cohort analysis - Wikiwand](https://www.wikiwand.com/en/Cohort_analysis)
 [10 Steps To Get You Started With Behavioral Analytics](https://amplitude.com/blog/2016/06/14/10-steps-behavioral-analytics/)
 [Six Ways to Create Better Customer Behavior Analytics | Datameer](https://www.datameer.com/blog/six-ways-create-better-customer-behavior-analytics/)
 
@@ -34,7 +34,7 @@ not to be confused with User Behavioral Analytics, used in security context for 
 [What is Operational Analytics? - Definition from Techopedia](https://www.techopedia.com/definition/29495/operational-analytics)
 [Operations Analytics | Coursera](https://www.coursera.org/learn/wharton-operations-analytics)
 
-[Business analytics - Wikiwand](https://omni.wikiwand.com/en/Business_analytics)
+[Business analytics - Wikiwand](https://www.wikiwand.com/en/Business_analytics)
 
 First data, logs or events triggered by applications and services, must be collected and store on some data store.
 
@@ -59,14 +59,14 @@ First data, logs or events triggered by applications and services, must be colle
 
 [OLTP vs. OLAP](http://datawarehouse4u.info/OLTP-vs-OLAP.html)
 
-[Online transaction processing - Wikiwand](https://omni.wikiwand.com/en/Online_transaction_processing) OLTP
+[Online transaction processing - Wikiwand](https://www.wikiwand.com/en/Online_transaction_processing) OLTP
 [What is OLTP (online transaction processing)? - Definition from WhatIs.com](https://searchdatacenter.techtarget.com/definition/OLTP)
-[Online analytical processing - Wikiwand](https://omni.wikiwand.com/en/Online_analytical_processing) OLAP
+[Online analytical processing - Wikiwand](https://www.wikiwand.com/en/Online_analytical_processing) OLAP
 [What is OLAP (online analytical processing)? - Definition from WhatIs.com](https://searchdatamanagement.techtarget.com/definition/OLAP)
-[Hybrid transactional/analytical processing - Wikiwand](https://omni.wikiwand.com/en/Hybrid_transactional/analytical_processing) NoSQL/NewSQL database can serve this purpose
+[Hybrid transactional/analytical processing - Wikiwand](https://www.wikiwand.com/en/Hybrid_transactional/analytical_processing) NoSQL/NewSQL database can serve this purpose
 RTA
-[Data warehouse - Wikiwand](https://omni.wikiwand.com/en/Data_warehouse)
-[Extract, transform, load - Wikiwand](https://omni.wikiwand.com/en/Extract,_transform,_load)
+[Data warehouse - Wikiwand](https://www.wikiwand.com/en/Data_warehouse)
+[Extract, transform, load - Wikiwand](https://www.wikiwand.com/en/Extract,_transform,_load)
 [ETL](http://datawarehouse4u.info/ETL-process.html)
 [ETLs vs ELTs: Why are ELTs Disrupting the Data Market? | by SeattleDataGuy | Coriers | Mar, 2021 | Medium](https://medium.com/coriers/etls-vs-elts-why-are-elts-disrupting-the-data-market-5c2e0dc76d29)
 
@@ -118,7 +118,7 @@ Streaming pipeline:
 [Top 10 Problems When Using Apache Kafka - Pandio](https://pandio.com/blog/top-10-problems-when-using-apache-kafka/)
 
 [Apache Pulsar](https://pulsar.apache.org/) Apache Pulsar is an open-source distributed pub-sub messaging system
-[Comparing Apache Kafka and Apache Pulsar | by Jaroslaw Kijanowski | SoftwareMill Tech Blog](https://blog.softwaremill.com/comparing-apache-kafka-and-apache-pulsar-3bd44e00f304?gi=6576dde59374)
+[Comparing Apache Kafka and Apache Pulsar | by Jaroslaw Kijanowski | SoftwareMill Tech Blog](https://blog.softwaremill.com/comparing-apache-kafka-and-apache-pulsar-3bd44e00f304)
 [7 Reasons We Chose Apache Pulsar over Apache Kafka | DataStax](https://www.datastax.com/blog/2019/05/7-reasons-we-chose-apache-pulsar-over-apache-kafka)
 [5 More Reasons to Choose Apache Pulsar over Kafka | DataStax](https://www.datastax.com/blog/2019/10/5-more-reasons-choose-apache-pulsar-over-kafka)
 
@@ -138,7 +138,7 @@ Streaming pipeline:
 [We interrupt this revolution: Apache Spark changes the rules of the game | ZDNet](https://www.zdnet.com/article/we-interrupt-this-revolution-apache-spark-changes-the-rules-of-the-game/)
 
 [Apache Beam](https://beam.apache.org/)
-[Apache Beam - Wikiwand](https://omni.wikiwand.com/en/Apache_Beam)
+[Apache Beam - Wikiwand](https://www.wikiwand.com/en/Apache_Beam)
 stream API to abstract streaming warehouse, abstracts Flink, Spark, Dataflow
 Beam is introducing a framework through which APIs in languages other than Java can be supported, and Python is the first one.
 

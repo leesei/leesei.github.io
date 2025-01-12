@@ -2,7 +2,7 @@
 title: Reactive programming
 description: ""
 created: 2016-03-13
-updated: 2024-09-23
+updated: 2025-01-09
 tags:
   - javascript
   - mobx
@@ -14,7 +14,7 @@ tags:
 
 [[functional-programming]]
 
-[Reactive programming - Wikiwand](https://omni.wikiwand.com/en/Reactive_programming)
+[Reactive programming - Wikiwand](https://www.wikiwand.com/en/Reactive_programming)
 [The Reactive Manifesto](https://www.reactivemanifesto.org/)
 
 [Intro to Reactive Programming - YouTube](https://www.youtube.com/watch?v=Bme_RiT9CK4)

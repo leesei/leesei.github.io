@@ -2,7 +2,7 @@
 title: QuickJS
 description: QuickJS is a small and embeddable Javascript engine.
 created: 2024-06-07
-updated: 2024-07-06
+updated: 2025-01-09
 tags:
   - javascript/runtime
 ---

@@ -2,7 +2,7 @@
 title: WinterJS Runtime
 description: ""
 created: 2024-03-18
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - javascript
   - javascript/runtime

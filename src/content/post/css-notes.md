@@ -2,7 +2,7 @@
 title: CSS Notes
 description: ""
 created: 2015-12-21
-updated: 2024-04-02
+updated: 2025-01-09
 tags:
   - css
   - web
@@ -654,7 +654,7 @@ $x("//div[@class='con-box'][contains(., 'EPH Reader')]");
 [CSS Positioning Explained By Building An Ice Cream Sundae](https://www.freecodecamp.org/news/css-positioning-explained-by-building-an-ice-cream-sundae-831cb884bfa9)
 [static, relative, absolute, fixed, sticky - Understanding the difference - Dillion's Blog](https://dillionmegida.com/p/static-relative-absolute-fixed-sticky-positions/)
 [How Well Do You Understand CSS Positioning? - Vanseo Design](http://vanseodesign.com/css/css-positioning/)
-[CSS: Absolutely positioning things relatively | by Canva Engineering | May, 2022 | Canva Engineering Blog](https://canvatechblog.com/css-absolutely-positioning-things-relatively-964898de886b?gi=620b602ad796)
+[CSS: Absolutely positioning things relatively | by Canva Engineering | May, 2022 | Canva Engineering Blog](https://canvatechblog.com/css-absolutely-positioning-things-relatively-964898de886b)
 
 [5 Things You Might Not Know About the CSS Positioning Types | Scotch](https://scotch.io/bar-talk/5-things-you-might-not-know-about-the-css-positioning-types)
 
@@ -1337,6 +1337,8 @@ use responsive font size (`vw`/`vh`) on small screen, use fixed font size on lar
 [propjockey/css-sweeper: MineSweeper implemented in CSS + HTML using the Space Toggle trick (no JavaScript!)](https://github.com/propjockey/css-sweeper)
 
 [Building a coordinate system in CSS and HTML - DEV Community](https://dev.to/alvaromontoro/building-a-coordinate-system-in-css-and-html-pc7)
+
+[These CSS PRO Tips & Tricks Will Blow Your Mind! - YouTube](https://www.youtube.com/watch?v=PL3Odw-k8W4)
 
 ### Live CSS editor
 

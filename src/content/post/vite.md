@@ -2,7 +2,7 @@
 title: Vite
 description: Next Generation Frontend Tooling
 created: 2023-06-10
-updated: 2024-02-24
+updated: 2025-01-09
 tags:
   - bundler
   - vite
@@ -15,7 +15,7 @@ tags:
 [vitejs/vite: Next generation frontend tooling. It's fast!](https://github.com/vitejs/vite)
 [Vite and VitePress - Evan You - YouTube](https://www.youtube.com/watch?v=xXrhg26VCSc)
 
-- native ESM for dev
+- native ESM (transformed by esbuild), for dev
 - pre-configured Rollup build for production
 - support Rollup plugin
 - different [[#Templates]]

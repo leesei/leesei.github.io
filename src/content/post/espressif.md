@@ -2,7 +2,7 @@
 title: Espressif (ESP)
 description: ""
 created: 2018-10-20
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - esp-c3
   - esp32
@@ -85,7 +85,7 @@ Most vendor will market both ESP8266 and ESP32 boards
 ## ESP32
 
 [ESP32 Overview | Espressif Systems](https://www.espressif.com/en/products/hardware/esp32/overview)
-[ESP32 - Wikiwand](https://omni.wikiwand.com/en/ESP32)
+[ESP32 - Wikiwand](https://www.wikiwand.com/en/ESP32)
 [ESP32 WROOM Overview | Espressif Systems](https://www.espressif.com/en/products/hardware/esp-wroom-32/overview)
 [ESP32 Overview | Espressif Systems](https://www.espressif.com/en/products/hardware/esp32/overview)
 [ESP32-DevKitC V4 Getting Started Guide — ESP-IDF Programming Guide v3.2-dev-1385-g129d327 documentation](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/get-started-devkitc.html)
@@ -312,7 +312,7 @@ ESPlorer?
 [MicroPython - Getting Started with MQTT on ESP32/ESP8266 | Random Nerd Tutorials](https://randomnerdtutorials.com/micropython-mqtt-esp32-esp8266/)
 [A Robust ESP8266 RFID Access Control System | Hackaday](https://hackaday.com/2019/04/15/a-robust-esp8266-rfid-access-control-system/)
 [ESP32 Capacitive Touch Sensor Pins with Arduino IDE | Random Nerd Tutorials](https://randomnerdtutorials.com/esp32-touch-pins-arduino-ide/)
-[MicroPython on Cheap \$3 ESP8266 WeMos D1 Mini for 2x Temperature Logging, Wifi and Mobile Stats: 4 Steps](https://www.instructables.com/id/MicroPython-on-Cheap-3-ESP8266-WeMos-D1-Mini-for-T/)
+[MicroPython on Cheap \$3 ESP8266 WeMos D1 Mini for 2x Temperature Logging, Wifi and Mobile Stats: 4 Steps](https://www.instructables.com/MicroPython-on-Cheap-3-ESP8266-WeMos-D1-Mini-for-T/)
 
 [ESP32 Micro Robot Arm - Electron Dust](https://electrondust.com/2018/11/11/esp-32-micro-robot-arm/)
 

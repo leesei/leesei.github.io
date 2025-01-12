@@ -2,7 +2,7 @@
 title: Game Emulator
 description: ""
 created: 2017-07-10
-updated: 2024-09-19
+updated: 2025-01-10
 tags:
   - emulator
   - games
@@ -20,7 +20,9 @@ tags:
 [Play classic video games on your computer or mobile device | Emuparadise](https://www.emuparadise.me/)
 [Retro Game Corps](https://retrogamecorps.com/)
 
+[N-tertainment X-tended - YouTube](https://www.youtube.com/@n-tertainmentx-tended4760)
 [Alexwpi Game - YouTube](https://www.youtube.com/@AlexwpiGame)
+
 [List of best emulators for each console 2024 - YouTube](https://www.youtube.com/watch?v=xgYgUxnTZM8)
 [The BEST Emulators of 2023 - YouTube](https://www.youtube.com/watch?v=sVPot6-YbsM)
 [Top 10 Emulators of 2022 - YouTube](https://www.youtube.com/watch?v=hd3VE7JZppY)
@@ -36,6 +38,7 @@ MEDNAFEN Multi systems, Good Saturn support
 
 [The ethics of emulation: how creators, the community, and the law view console emulators | PC Gamer](https://www.pcgamer.com/the-ethics-of-emulation-how-creators-the-community-and-the-law-view-console-emulators/)
 ["It's Just Emulation!" - The Challenge of Selling Old Games - YouTube](https://www.youtube.com/watch?v=HLWY7fCXUwE)
+[The taboo and secret history of Emulation | Documentary on Emulation and Its Controversies - YouTube](https://www.youtube.com/watch?v=gydg-egxDZ4)
 
 [Why Are Emulators Legal? Dolphin vs. Nintendo, and the Fate of Emulation - YouTube](https://www.youtube.com/watch?v=wROQUZDCIMI)
 
@@ -188,28 +191,24 @@ There is also a ~1.4MB `neogeo.zip` (containing unibios and other ROMs) that wor
 PSXP feature to straighten jagged lines
 
 [DUCKSTATION PS Emulator full setup guide 2023 - YouTube](https://www.youtube.com/watch?v=U7iirkW9ul8)
+[Duckstation Updated Graphics Guide | Make PlayStation PS1 Games Look EXACTLY How YOU Want - YouTube](https://www.youtube.com/watch?v=jGUWiz5-ivE)
+[Duckstation emulator | How to play PS1 games on pc (easy setup guide) - YouTube](https://www.youtube.com/watch?v=x0oeOBL3ND0)
 
 ### Games
 
-KLONOA
+Ape Escape
 
-## PS2
-
-[PlayStation 2 emulators - Emulation General Wiki](https://emulation.gametechwiki.com/index.php/PlayStation_2_emulators)
-
-[PCSX2 - An Open-Source PS2 Emulator](https://pcsx2.net/)
-[PCSX2 Full Setup Guide For 2024 - YouTube](https://www.youtube.com/watch?v=BVwxGmSZ408)
-
-[AetherSX2](https://www.aethersx2.com/) ARM
-
-### Games
-
-Ape Escape 2
+KLONOA (prefer Switch port)
 
 ## N64
 
+[Why is Nintendo 64 emulation still a broken mess in 2025 ? - YouTube](https://www.youtube.com/watch?v=OmKjVpVdHDQ)
+
 [Nearly all Nintendo 64 games can now be recompiled into native PC ports to add proper ray tracing, ultrawide, high FPS, and more | Tom's Hardware](https://www.tomshardware.com/video-games/nearly-all-nintendo-64-games-can-now-be-recompiled-into-native-pc-ports-to-add-proper-ray-tracing-ultrawide-high-fps-and-more)
 [N64 recompilation is here - and its looking good! - YouTube](https://www.youtube.com/watch?v=WK5VuOInqlg)
+
+[simple64 | An easy to use N64 emulator. Available for Windows and Linux](https://simple64.github.io/)
+[loganmc10 | creating games & software | Patreon](https://www.patreon.com/loganmc10)
 
 ### Games
 
@@ -246,13 +245,15 @@ dev kit for homebrew
 
 > Citra was no more
 
-[NDS ROMs FREE | Nintendo DS Games | ROMs Games](https://www.romsgames.net/roms/nintendo-ds/)
+[DESMUME vs MelonDS vs No$GBA 11 GAMES | PERFORMANCE TEST | What is the best Nintendo DS emulator? - YouTube](https://www.youtube.com/watch?v=lHcZUUGbrRQ)
 
 [DraStic -Index page](https://www.drastic-ds.com/)
 [DraStic DS Emulator - Apps on Google Play](https://play.google.com/store/apps/details?id=com.dsemu.drastic&hl=en_US&gl=US)
 
 [Home - Panda3DS](https://panda3ds.com/)
 [wheremyfoodat/Panda3DS: HLE 3DS emulator](https://github.com/wheremyfoodat/Panda3DS)
+
+[NDS ROMs FREE | Nintendo DS Games | ROMs Games](https://www.romsgames.net/roms/nintendo-ds/)
 
 DQ4
 DQ5
@@ -261,6 +262,15 @@ DQ6
 ## PSP
 
 PPSSPP
+
+### Games
+
+Patapon 1-3 (2 is easier, 3 is a deviation)
+[Patapon Retrospective - YouTube](https://www.youtube.com/watch?v=wRCi_Hqad0E)
+
+LocoRoco
+LocoRoco 2
+LocoRoco Midnight Carnival
 
 ## PS Vita
 

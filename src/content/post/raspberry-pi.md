@@ -2,7 +2,7 @@
 title: Raspberry Pi
 description: ""
 created: 2018-09-12
-updated: 2024-05-12
+updated: 2025-01-09
 tags:
   - iot
   - maker
@@ -546,7 +546,7 @@ Most are backed by RetroArch + EmulationStation
 [Updating RetroPie · RetroPie/RetroPie-Setup Wiki](https://github.com/retropie/retropie-setup/wiki/updating-retropie)
 [RetroPie 4.4. First Installation. A Beginner's Guide to Setting Up RetroPie on a Raspberry Pi - YouTube](https://www.youtube.com/watch?v=E1sbnPZ_A8w)
 [Build a Raspberry Pi 4 Retro-Gaming Console with RetroPie (Complete Guide) - YouTube](https://www.youtube.com/watch?v=fsc3gYIYwV8)
-[The ULTIMATE RetroPie 4.1 Raspberry Pi Setup Tutorial: 10 Steps (with Pictures)](https://www.instructables.com/id/The-ULTIMATE-RetroPie-41-Raspberry-Pi-Setup-Tutori/)
+[The ULTIMATE RetroPie 4.1 Raspberry Pi Setup Tutorial: 10 Steps (with Pictures)](https://www.instructables.com/The-ULTIMATE-RetroPie-41-Raspberry-Pi-Setup-Tutori/)
 [How to Set Up RetroPie on Raspberry Pi 4 (or earlier) | Tom's Hardware](https://www.tomshardware.com/amp/how-to/install-retropie-raspberry-pi-4)
 [RetroPie: Build your own Raspberry Pi retro gaming rig - howchoo](https://howchoo.com/g/n2qyzdk5zdm/build-your-own-raspberry-pi-retro-gaming-rig)
 [How to Configure RetroPie and Install ROMs - YouTube](https://www.youtube.com/watch?v=HZFxSqXCx34)
@@ -612,7 +612,7 @@ Parsec dropped Raspberry Pi support in 2022-10
 [pip install opencv - PyImageSearch](https://www.pyimagesearch.com/2018/09/19/pip-install-opencv/) object classification
 [Raspberry Pi Face Recognition - PyImageSearch](https://www.pyimagesearch.com/2018/06/25/raspberry-pi-face-recognition/)
 [Object detection with Raspberry Pi and Python - Data Driven Investor - Medium](https://medium.com/datadriveninvestor/object-detection-with-raspberry-pi-and-python-bc6b3a1d4972)
-[Real Time Face Detection on the RaspberryPi-4: 6 Steps](https://www.instructables.com/id/Real-Time-Face-Detection-on-the-RaspberryPi-4/)
+[Real Time Face Detection on the RaspberryPi-4: 6 Steps](https://www.instructables.com/Real-Time-Face-Detection-on-the-RaspberryPi-4/)
 
 ## Development
 

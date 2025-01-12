@@ -2,7 +2,7 @@
 title: Learn to code
 description: Learn how to code
 created: 2014-12-08
-updated: 2024-09-23
+updated: 2025-01-09
 tags:
   - comp/lang
   - learning
@@ -47,7 +47,7 @@ Coding vs Programming is like typing vs writing.
 ## Programming Literacy
 
 [Honeypot - YouTube](https://www.youtube.com/@Honeypotio) tech documentaries
-[Honeypot Talks - YouTube](https://www.youtube.com/channel/UClcdrPcu8o3vzMdCKmSOlrA)
+[Honeypot Talks - YouTube](https://www.youtube.com/@honeypottalks7932)
 
 [Programming Literacy — JavaScript Scene — Medium](https://medium.com/javascript-scene/programming-literacy-7bc4ae154b91)
 [Programming Literacy](http://www.programmingliteracy.com/)
@@ -95,6 +95,7 @@ Coding vs Programming is like typing vs writing.
 [Web Development & Programming Tutorials | Packt Hub](https://hub.packtpub.com/category/tutorials/)
 
 [kdeldycke/awesome-falsehood: 😱 Falsehoods Programmers Believe in](https://github.com/kdeldycke/awesome-falsehood)
+[Falsehoods Programmers Believe About Names | Kalzumeus Software](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 
 [5 Commonly Used Idioms in the Tech Industry | by Karina Chow | Jul, 2021 | Level Up Coding](https://levelup.gitconnected.com/demystifying-5-commonly-used-idioms-in-the-tech-industry-827e8a6d653a)
 
@@ -107,6 +108,7 @@ Coding vs Programming is like typing vs writing.
 [Sourcegraph - Universal Code Search](https://about.sourcegraph.com/)
 [10 Sourcegraph Search Tricks for Open Source Contributors and Maintainers - DEV Community](https://dev.to/sourcegraph/10-sourcegraph-search-tricks-for-open-source-contributors-and-maintainers-44n9)
 
+[Free Courses That Are Actually Free: Programming Edition - KDnuggets](https://www.kdnuggets.com/free-courses-that-are-actually-free-programming-edition)
 [10 Free Programming Books You Should Read in 2018 - Tutorialzine](https://tutorialzine.com/2018/01/10-free-programming-books-you-should-read-in-2018)
 [Learn to Code: 13 Tips that Could Save You Years of Effort — JavaScript Scene — Medium](https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.nfmjv9vto)
 [29 Behaviors That Will Make You An Unstoppable Programmer — Medium](https://medium.com/@kenmazaika/29-behaviors-that-will-make-you-an-unstoppable-programmer-8778941d80f7#.1xy2mg43s)
@@ -128,6 +130,7 @@ Coding vs Programming is like typing vs writing.
 [The Differences Between a Junior, Mid-Level, and Senior Developer](https://medium.com/better-programming/the-differences-between-a-junior-mid-level-and-senior-developer-bb2cb2eb000d)
 [How to Go from Junior to Senior Programmer - Level Up Coding](https://levelup.gitconnected.com/how-to-go-from-junior-to-senior-programmer-29d53f3edd27)
 [Why developers like to code at night | Opensource.com](https://opensource.com/article/20/2/why-developers-code-night)
+[Computer Science vs. Software Engineering: A Career Guide](https://www.itprotoday.com/it-infrastructure/computer-science-vs-software-engineering-a-guide-to-choosing-the-best-career-path)
 [Coding vs Programming 軟體工程師在 編碼 or 編程? | 5 Differences between Coding and Programming【電腦說人話】 - YouTube](https://www.youtube.com/watch?v=ItWknQTTEx4)
 
 [Why New Software Engineers Have it Hard - YouTube](https://www.youtube.com/watch?v=J0p2Psy7NfA)
@@ -165,7 +168,7 @@ No framework or library is a silver bullet. But the right choice can save you a 
 
 ### Literate Programming
 
-[Literate programming - Wikiwand](https://omni.wikiwand.com/en/Literate_programming)
+[Literate programming - Wikiwand](https://www.wikiwand.com/en/Literate_programming)
 [Literate Programming](http://www.literateprogramming.com/)
 [Why Literate Programming Might Help You Write Better Code – The New Stack](https://thenewstack.io/why-literate-programming-might-help-you-write-better-code/)
 
@@ -174,12 +177,13 @@ No framework or library is a silver bullet. But the right choice can save you a 
 
 ## Goal of Software Development
 
+[SDLC Unveiled: Essential Guide to Software Development Life Cycle](https://www.itprotoday.com/software-development-techniques/sdlc-unveiled-essential-guide-to-software-development-life-cycle)
+
 Sustainably minimize lead time to business impact.
 
 If you are not embarrassed with the first version of your software, you waited too long to ship.
 
 [Complexity Is Outside the Code](http://www.infoq.com/presentations/complexity-simplicity-esb)
-
 [The collapse of complex software | Read the Tea Leaves](https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/)
 
 [Jared Spool's answer to Should I focus on a good user experience, or push something out quickly? - Quora](http://www.quora.com/Should-I-focus-on-a-good-user-experience-or-push-something-out-quickly/answer/Jared-Spool)
@@ -190,7 +194,7 @@ You have to know (much) more than the code you're writing:
 [Deciphering Glyph :: Faster](https://blog.glyph.im/2020/11/faster.html) discussion with user is crucial
 “If I had asked people what they wanted, they would have said faster horses.”
 
-[Ninety-ninety rule - Wikiwand](https://omni.wikiwand.com/en/Ninety-ninety_rule)
+[Ninety-ninety rule - Wikiwand](https://www.wikiwand.com/en/Ninety-ninety_rule)
 
 [A Great JavaScript Side Project is your Most Important Asset](http://thefullstack.xyz/javascript-side-project/)
 
@@ -245,7 +249,7 @@ Causal Profiler (`coz`)
 
 ### Fluent API
 
-[Fluent interface - Wikiwand](https://omni.wikiwand.com/en/Fluent_interface)
+[Fluent interface - Wikiwand](https://www.wikiwand.com/en/Fluent_interface)
 [FluentInterface](https://martinfowler.com/bliki/FluentInterface.html)
 
 [JavaScript like a Boss: Understanding Fluent APIs — SitePoint](https://www.sitepoint.com/javascript-like-boss-understanding-fluent-apis/)
@@ -256,7 +260,7 @@ Causal Profiler (`coz`)
 
 ## ABI
 
-[Binary-code compatibility - Wikiwand](https://omni.wikiwand.com/en/Binary-code_compatibility)
+[Binary-code compatibility - Wikiwand](https://www.wikiwand.com/en/Binary-code_compatibility)
 Calling convention, what register of the CPU are used
 [What are Calling Conventions - CTF Handbook](https://ctf101.org/binary-exploitation/what-are-calling-conventions/)
 
@@ -270,7 +274,7 @@ Calling convention, what register of the CPU are used
 
 [c++ - Why should the "PIMPL" idiom be used? - Stack Overflow](https://stackoverflow.com/questions/60570/why-should-the-pimpl-idiom-be-used)
 
-[Opaque pointer - Wikiwand](https://omni.wikiwand.com/en/Opaque_pointer)
+[Opaque pointer - Wikiwand](https://www.wikiwand.com/en/Opaque_pointer)
 [PImpl - cppreference.com](https://en.cppreference.com/w/cpp/language/pimpl)
 [PImpl Idiom in C++ with Examples - GeeksforGeeks](https://www.geeksforgeeks.org/pimpl-idiom-in-c-with-examples/)
 [Bartek's coding blog: The Pimpl Pattern - what you should know](https://www.bfilipek.com/2018/01/pimpl.html)
@@ -312,26 +316,26 @@ Calling convention, what register of the CPU are used
 [KIRUPA](https://www.kirupa.com/)
 [Educative: Interactive Courses for Software Developers](https://www.educative.io/) snippets
 
-[Udemy Tech - YouTube](https://www.youtube.com/udemytech)
-[edureka! - YouTube](https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ)
-[InfoQ - YouTube](https://www.youtube.com/channel/UCkQX1tChV7Z7l1LFF4L9j_g) MarakanaTechTV/NewCircle now part of InfoQ
-[in28minutes - YouTube](https://www.youtube.com/rithustutorials)
+[edureka! - YouTube](https://www.youtube.com/@edurekaIN)
+[InfoQ - YouTube](https://www.youtube.com/@infoq) MarakanaTechTV/NewCircle now part of InfoQ
 [Skills Matter - YouTube](https://www.youtube.com/@skills_matter)
-[Derek Banas - YouTube](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
-[ArjanCodes - YouTube](https://www.youtube.com/channel/UCVhQ2NnY5Rskt6UjCUkJ_DA) mostly Python
+[Derek Banas - YouTube](https://www.youtube.com/@derekbanas)
+[ArjanCodes - YouTube](https://www.youtube.com/@ArjanCodes) mostly Python
+[Hynek Schlawack - YouTube](https://www.youtube.com/@The_Hynek) mostly Python
 
 [Code to the Moon - YouTube](https://www.youtube.com/@codetothemoon) mostly Rust
 [SimonDev - YouTube](https://www.youtube.com/@simondev758) web 3D, web performance
 [fasterthanlime - YouTube](https://www.youtube.com/@fasterthanlime)
-[ThePrimeagen - YouTube](https://www.youtube.com/ThePrimeagen)
+[ThePrimeagen - YouTube](https://www.youtube.com/@ThePrimeagen)
 [ThePrimeTime - YouTube](https://www.youtube.com/@ThePrimeTimeagen)
 [TechWorld with Nana - YouTube](https://www.youtube.com/@TechWorldwithNana)
 
 [strager - YouTube](https://www.youtube.com/@strager_) C++, Rust
-[Low Level Learning - YouTube](https://www.youtube.com/@LowLevelLearning) low level, security
+[Low Level - YouTube](https://www.youtube.com/@LowLevel) low level, security
 [Dreams of Code - YouTube](https://www.youtube.com/@dreamsofcode) Rust, Python, system
 [Jacob Sorber - YouTube](https://www.youtube.com/@JacobSorber) C, embedded system
 [Dave's Garage - YouTube](https://www.youtube.com/@DavesGarage) C, Windows C, IoT
+[EfficLab - YouTube](https://www.youtube.com/@efficlab)
 
 [Topic:Computer programming - Wikiversity](https://en.wikiversity.org/wiki/Topic:Computer_programming)
 [10 Useful Sites for Learning How to Code](http://www.onextrapixel.com/2013/11/14/10-useful-sites-for-learning-how-to-code/)
@@ -406,7 +410,7 @@ Mostly paid contents:
 
 ### Loren Ipsum
 
-[Lorem ipsum - Wikiwand](https://omni.wikiwand.com/en/Lorem_ipsum)
+[Lorem ipsum - Wikiwand](https://www.wikiwand.com/en/Lorem_ipsum)
 
 [malevole - Text Generator](http://www.malevole.com/mv/misc/text/)
 [Hipster Ipsum – Artisanal filler text for your project.](https://hipsum.co/)
@@ -421,9 +425,9 @@ Mostly paid contents:
 
 ### Phone number checking
 
-[E.123 - Wikiwand](https://omni.wikiwand.com/en/E.123)
+[E.123 - Wikiwand](https://www.wikiwand.com/en/E.123)
 [E.123 :Notation for national and international telephone numbers, e-mail addresses and web addresses](https://www.itu.int/rec/T-REC-E.123)
-[E.164 - Wikiwand](https://omni.wikiwand.com/en/E.164)
+[E.164 - Wikiwand](https://www.wikiwand.com/en/E.164)
 [E.164 :The international public telecommunication numbering plan](https://www.itu.int/rec/T-REC-E.164/en)
 [What is E.164? - Twilio](https://www.twilio.com/docs/glossary/what-e164)
 
@@ -440,9 +444,9 @@ Smaller still, look up the ISO 3166-1 alpha-2 country code and use the length/re
 
 ### Country Code
 
-[ISO 3166-1 - Wikiwand](https://omni.wikiwand.com/en/ISO_3166-1)
-[ISO 3166-1 alpha-2 - Wikiwand](https://omni.wikiwand.com/en/ISO_3166-1_alpha-2)
-[ISO 3166-1 alpha-3 - Wikiwand](https://omni.wikiwand.com/en/ISO_3166-1_alpha-3)
+[ISO 3166-1 - Wikiwand](https://www.wikiwand.com/en/ISO_3166-1)
+[ISO 3166-1 alpha-2 - Wikiwand](https://www.wikiwand.com/en/ISO_3166-1_alpha-2)
+[ISO 3166-1 alpha-3 - Wikiwand](https://www.wikiwand.com/en/ISO_3166-1_alpha-3)
 
 [wooorm/iso-3166: ISO 3166 (standard for country codes and codes for their subdivisions)](https://github.com/wooorm/iso-3166)
 
@@ -489,6 +493,7 @@ Used in many Go application for formatting output, e.g. `docker`, `kubectl`
 
 ## Computer Science
 
+[Free Courses That Are Actually Free: Computer Science Edition - KDnuggets](https://www.kdnuggets.com/free-courses-that-are-actually-free-computer-science-edition)
 [Map of Computer Science - YouTube](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 [prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses)
 
@@ -521,8 +526,8 @@ Used in many Go application for formatting output, e.g. `docker`, `kubectl`
 
 ### Time/Computational Complexity
 
-[Computational complexity theory - Wikiwand](https://omni.wikiwand.com/en/Computational_complexity_theory)
-[Amortized analysis - Wikiwand](https://omni.wikiwand.com/en/Amortized_analysis)
+[Computational complexity theory - Wikiwand](https://www.wikiwand.com/en/Computational_complexity_theory)
+[Amortized analysis - Wikiwand](https://www.wikiwand.com/en/Amortized_analysis)
 [Time Complexities Of Python Data Structures - FinTechExplained - Medium](https://medium.com/fintechexplained/time-complexities-of-python-data-structures-ddb7503790ef)
 
 [Understand Big O notation in 7 minutes - Je suis un dev](https://www.jesuisundev.com/en/understand-big-o-notation-in-7-minutes/)
@@ -540,7 +545,7 @@ Used in many Go application for formatting output, e.g. `docker`, `kubectl`
 
 > [[math#Gödel's Incompleteness Theorems]]
 
-[Halting problem - Wikiwand](https://omni.wikiwand.com/en/Halting_problem)
+[Halting problem - Wikiwand](https://www.wikiwand.com/en/Halting_problem)
 [Theory of computation | Halting Problem - GeeksforGeeks](https://www.geeksforgeeks.org/theory-of-computation-halting-problem/)
 
 [The History of Undecidability - YouTube](https://www.youtube.com/playlist?list=PLzH6n4zXuckpIQPv8hiHpJkSyv0fmXEYr)
@@ -617,6 +622,11 @@ Cause a contradiction if self-referencing
 
 [缓存更新的套路 | | 酷 壳 - CoolShell](https://coolshell.cn/articles/17416.html)
 
+Uber's transaction database
+[How LedgerStore Supports Trillions of Indexes at Uber | Uber Blog](https://www.uber.com/en-CA/blog/how-ledgerstore-supports-trillions-of-indexes/)
+[How Uber Migrated Financial Data from DynamoDB to Docstore | Uber Blog](https://www.uber.com/en-CA/blog/dynamodb-to-docstore-migration/)
+[Revolutionizing Money Movements at Scale with Strong Data Consistency | Uber Blog](https://www.uber.com/en-CA/blog/money-scale-strong-data/)
+
 ### C4 Model
 
 [The C4 model for visualising software architecture](https://c4model.com/)
@@ -654,7 +664,7 @@ Aria is a framework to run apps in similar design but abstracts away the server 
 
 ## Conway's Game of Life
 
-[Conway's Game of Life - Wikiwand](https://omni.wikiwand.com/en/Conway%27s_Game_of_Life)
+[Conway's Game of Life - Wikiwand](https://www.wikiwand.com/en/Conway%27s_Game_of_Life)
 [Literate Game of Life](http://www.macwright.org/literate-game-of-life/)
 
 [Implementing Life - Rust and WebAssembly](https://rustwasm.github.io/docs/book/game-of-life/implementing.html) Pattern matching on cell _and_ neighbour's states
@@ -821,7 +831,7 @@ Game of Life can be used to build logic gates
 Quines
 [rockstar : home](https://codewithrockstar.com/)
 
-[Quine (computing) - Wikiwand](<https://omni.wikiwand.com/en/Quine_(computing)>) a program that prints itself
+[Quine (computing) - Wikiwand](<https://www.wikiwand.com/en/Quine_(computing)>) a program that prints itself
 
 ## Abstract Syntax Tree (AST)
 
@@ -842,7 +852,7 @@ Protocol to abstract editor from specific language.
 
 ## Esolang
 
-[Esoteric programming language - Wikiwand](https://omni.wikiwand.com/en/Esoteric_programming_language)
+[Esoteric programming language - Wikiwand](https://www.wikiwand.com/en/Esoteric_programming_language)
 [Esolang, the esoteric programming languages wiki](https://esolangs.org/wiki/Main_Page)
 [Esoteric.Codes: Esolangs, Esoteric Programming Styles, Code Art, Code Poetry, more...](https://esoteric.codes/)
 
@@ -867,8 +877,8 @@ Protocol to abstract editor from specific language.
 [[reverse-engineering#Binary Analysis/Malware Analysis/Reverse Engineering]]
 [[computer-cpu##Instruction Set Architecture (ISA)]]
 
-[x86 assembly language - Wikiwand](https://omni.wikiwand.com/en/X86_assembly_language)
-[x86 calling conventions - Wikiwand](https://omni.wikiwand.com/en/X86_calling_conventions)
+[x86 assembly language - Wikiwand](https://www.wikiwand.com/en/X86_assembly_language)
+[x86 calling conventions - Wikiwand](https://www.wikiwand.com/en/X86_calling_conventions)
 [Intel x86 Opcode Table and Reference](https://shell-storm.org/x86doc/)
 [Guide to x86 Assembly](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 
@@ -959,7 +969,7 @@ Dave's Garage
 Google's langauge for replacing C
 
 [carbon-language/carbon-lang: Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)](https://github.com/carbon-language/carbon-lang)
-[Carbon (programming language) - Wikiwand](<https://omni.wikiwand.com/en/Carbon_(programming_language)>)
+[Carbon (programming language) - Wikiwand](<https://www.wikiwand.com/en/Carbon_(programming_language)>)
 
 [Carbon Language: An experimental successor to C++ - Chandler Carruth - CppNorth 2022 - YouTube](https://www.youtube.com/watch?v=omrY53kbVoA)
 [Carbon Language Successor Strategy: From C++ Interop to Memory Safety - Chandler Carruth - CppNow 23 - YouTube](https://www.youtube.com/watch?v=1ZTJ9omXOQ0) ❗!important, 58:21 bugs, safety and vulnerability
@@ -1098,7 +1108,7 @@ Elm -> ReScript -> F#
 
 ## OCaml
 
-[OCaml - Wikiwand](https://omni.wikiwand.com/en/OCaml)
+[OCaml - Wikiwand](https://www.wikiwand.com/en/OCaml)
 [Welcome to a World of OCaml](https://ocaml.org/)
 [Learn OCaml](https://ocaml.org/docs)
 

@@ -2,7 +2,7 @@
 title: Plamo
 description: ""
 created: 2017-04-25
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - toys
 ---
@@ -33,6 +33,7 @@ tags:
 
 [Best Gunpla of the Decade! - YouTube](https://www.youtube.com/watch?v=jJg22wmllCE)
 
+[鋼彈全系列產品 一口氣看完【阿蛋哥】 - YouTube](https://www.youtube.com/watch?v=XK5G-MbVUEY)
 [What is the Difference between the Grades of Gundams - SDEX Real RG, Perfect PG, High HG, NG, Master MG & RE/100 Grade - Gundam Toys Shop](http://www.gundamtoyshop.com/gundamts-news/what-is-the-difference-between-the-grades-of-gundams-rg-pg-hguc-mg)
 
 [Master Grade | The Gundam Wiki | Fandom powered by Wikia](http://gundam.fandom.com/wiki/Master_Grade)
@@ -225,11 +226,6 @@ RG Sinanju, while more or less the same price as the HG kit, is not recommended:
 [SD Cross Silhouette Mazinkaiser (SD) (Gundam Model Kits) (Plastic model) - HobbySearch Gundam Kit/etc. Store](https://www.1999.co.jp/eng/10595731) 魔神凱撒 ¥68@2020-12
 [【普拉模】#9 黑鋼兄弟 SDCS 魔神 Z&大魔神(無敵鐵金剛)製作報告 - YouTube](https://www.youtube.com/watch?v=L8iGGNgSv8c)
 
-### MGSD
-
-[MASTER GRADE SD 自由高達](https://hk.gundam.info/content/mgsd/001/)
-[MGSD 自由高達模型 23 年發售｜頂級技術 SD 系列貴過 HG](https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/820192/)
-
 ### SD/Others
 
 [Haropla Mobile Haro (Gundam Model Kits) - HobbySearch Gundam Kit/etc. Store](https://www.1999.co.jp/eng/10571361) 社長 ¥53.9@2020-12
@@ -357,6 +353,16 @@ Grimoire
 
 [Adam Savage Reviews Bandai's 1/144 Saturn V Model Set! - YouTube](https://www.youtube.com/watch?v=hDU7tj7whLE&t=0s)
 [Apollo 13 & Saturn V Rocket (Completed) - HobbySearch Anime Robot/SFX Store](https://www.1999.co.jp/eng/10222448)
+
+### MGSD
+
+[MASTER GRADE SD 自由高達](https://hk.gundam.info/content/mgsd/001/)
+[MGSD 高達巴巴托司](https://hk.gundam.info/content/mgsd/002/)
+[MGSD 飛翼高達零式EW](https://hk.gundam.info/content/mgsd/003/)
+
+[MGSD 戴萌兔 - YouTube](https://www.youtube.com/@demon2_/search?query=MGSD)
+[MGSD 评头论足 - YouTube](https://www.youtube.com/@pingtoulunzu/search?query=mgsd)
+[搜尋結果：MGSD｜香港01](https://www.hk01.com/search?q=MGSD)
 
 ### Haropla
 
@@ -637,7 +643,7 @@ Note oil base methods will dilute your paints so apply lacquer coating before pa
 
 ### Washing
 
-[Wash (visual arts) - Wikiwand](<https://omni.wikiwand.com/en/Wash_(visual_arts)>)
+[Wash (visual arts) - Wikiwand](<https://www.wikiwand.com/en/Wash_(visual_arts)>)
 
 Gunpla painting usually uses oil base and water base paint as base and washing. Miniature painting usually uses water based paint and washer.
 
@@ -669,6 +675,7 @@ Gunpla painting usually uses oil base and water base paint as base and washing. 
 ### Decal
 
 [阿蛋哥的鋼普拉貼紙課｜看懂鋼彈上的刺青｜貼紙安排邏輯【阿蛋哥】 - YouTube](https://www.youtube.com/watch?v=VXThNjJNyCg)
+[如何自製水貼! 從設計到送印 全網最詳細教學!【阿蛋哥】 - YouTube](https://www.youtube.com/watch?v=ubdl0_4ck2A)
 
 [【好男人深入淺出】模型水貼操作技巧\_模型教學 - YouTube](https://www.youtube.com/watch?v=IA5lP29uyLg)
 [[😁Henry 模型教室 😁] 對比色水貼教學 由淺入深!💪💪 EP.4{廣東話旁述/中文字幕} - YouTube](https://www.youtube.com/watch?v=kfMMtctzYys)

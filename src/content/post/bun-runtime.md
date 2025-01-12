@@ -2,7 +2,7 @@
 title: Bun
 description: Fast *all-in-one* JavaScript runtime
 created: 2023-03-14
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - javascript/runtime
   - package-manager
@@ -96,6 +96,7 @@ bun pm - package manager related commands
 [Node.js – Ecosystem | Bun Docs](https://bun.sh/docs/ecosystem/nodejs) standard libraries are improving to match Node
 
 [theseyan/bkg: Package Bun apps into a single executable](https://github.com/theseyan/bkg)
+[Single-file executable – Runtime | Bun Docs](https://bun.sh/docs/bundler/executables)
 
 ## App Framework
 

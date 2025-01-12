@@ -2,7 +2,7 @@
 title: Open Source Copyright
 description: ""
 created: 2023-06-28
-updated: 2024-08-29
+updated: 2025-01-09
 tags:
   - copyleft
   - foss
@@ -15,6 +15,8 @@ tags:
 [Open Source Supporters](http://www.iloveopensource.io/)
 [Copyfree: Unfetter your ideas](http://copyfree.org/)
 
+[Open Source Licence Types - YouTube](https://www.youtube.com/watch?v=nFU8KoSgEmk)
+
 [Open Source Guides | Learn how to launch and grow your project.](https://opensource.guide/)
 [The Unsung Heroes of Modern Software Development – Towards Data Science](https://towardsdatascience.com/the-unsung-heroes-of-modern-software-development-561fc4cb6850) foundations
 [What is Open Source? | opensource.dev](https://opensource.dev/)
@@ -22,6 +24,7 @@ tags:
 [Open Source Guides | Learn how to launch and grow your project.](https://opensource.guide/)
 [Open Source Software: The Complete Wired Guide | WIRED](https://www.wired.com/story/wired-guide-open-source-software/)
 
+[Open Source Software Powers 96% of Modern Applications, New Study Finds](https://www.itprotoday.com/software-development-techniques/open-source-software-powers-96-of-modern-applications-new-study-finds)
 [10 Reasons Open Source Is Good for Business | PCWorld](http://www.pcworld.com/article/209891/10_reasons_open_source_is_good_for_business.html)
 [What is open source software? | Opensource.com](https://opensource.com/resources/what-open-source)
 [Why Open Source? — Medium](https://medium.com/@rmangi/why-open-source-ddd1b729113a)
@@ -96,7 +99,7 @@ If your work linked to/based on (AGPLv3 s5) GPL/AGPL code, copyleft kicks in.
 [Copyleft and the GNU General Public License: A Comprehensive Tutorial and Guide](https://copyleft.org/guide/)
 [The problems with the GPL](https://unixsheikh.com/articles/the-problems-with-the-gpl.html)
 
-[Tivoization - Wikiwand](https://omni.wikiwand.com/en/Tivoization)
+[Tivoization - Wikiwand](https://www.wikiwand.com/en/Tivoization)
 [Linus Torvalds says GPL v3 violates everything that GPLv2 stood for - YouTube](https://www.youtube.com/watch?v=PaKIZ7gJlRU)
 [licensing - What exactly is Tivoization and why did Linus Torvalds not like it in GPLv3? - Open Source Stack Exchange](https://opensource.stackexchange.com/questions/7020/what-exactly-is-tivoization-and-why-did-linus-torvalds-not-like-it-in-gplv3)
 
@@ -145,6 +148,8 @@ Express grant of patent use
 
 ## Developer Burnout
 
+[Am I Burned Out? How To Identify and Address Burnout in IT](https://www.itprotoday.com/career-tips/am-i-burned-out-how-to-identify-and-address-burnout-in-it)
+
 [The Reality of Developer Burnout — Kenneth Reitz](https://kennethreitz.org/essays/2017/01/05/the-reality-of-developer-burnout)
 
 [Jessica Rose: Burnout and Balance - YouTube](https://www.youtube.com/watch?v=WlPgIbikhl8)
@@ -187,7 +192,7 @@ It has been a trend to set up "foundations" to take up successful project from e
 
 > merge with [[#Source Available (Faux OSS?)]]?
 
-[Open-core model - Wikiwand](https://omni.wikiwand.com/en/Open-core_model)
+[Open-core model - Wikiwand](https://www.wikiwand.com/en/Open-core_model)
 
 [#2: Open Core —Definition, Examples & Tradeoffs | OSS Capital](https://oss.capital/blog/2-open-core-definition-examples-tradeoffs)
 [Open Source growing pains: Is Open Core the answer? | ZDNet](https://www.zdnet.com/google-amp/article/open-source-growing-pains-is-open-core-the-answer/)
@@ -206,6 +211,8 @@ It has been a trend to set up "foundations" to take up successful project from e
 [FLOSS Weekly 570 xs:code](https://twit.tv/shows/floss-weekly/episodes/570)
 
 ## Source Available (Faux OSS?)
+
+[Fake Open Source Is a Problem - YouTube](https://www.youtube.com/watch?v=5v72pNaincM)
 
 [Fair-code](https://faircode.io/)
 
@@ -307,7 +314,7 @@ Not open source. Not closed source. The Fair Source License allows everyone to s
 
 ### SBOM Tools
 
-[Software Package Data Exchange - Wikiwand](https://omni.wikiwand.com/en/Software_Package_Data_Exchange)
+[Software Package Data Exchange - Wikiwand](https://www.wikiwand.com/en/Software_Package_Data_Exchange)
 [International Open Standard (ISO/IEC 5962:2021) - Software Package Data Exchange (SPDX)](https://spdx.dev/)
 [SPDX](https://github.com/spdx) GitHub Org, spec and language specific tools
 [What Is SPDX and How Does It Work? | Synopsys](https://www.synopsys.com/glossary/what-is-spdx.html)

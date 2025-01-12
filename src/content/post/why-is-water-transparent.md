@@ -2,7 +2,7 @@
 title: Why is water transparent?
 description: ""
 created: 2015-01-23
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - philosophy
   - physics

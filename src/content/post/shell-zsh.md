@@ -2,7 +2,7 @@
 title: Zsh shell
 description: ""
 created: 2014-12-08
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - linux
   - oh-my-zsh
@@ -59,7 +59,7 @@ curl -L http://install.ohmyz.sh | sh
 With oh-my-zsh installed and `~/.zshrc` updated, you may change your default shell to zsh.
 
 ```sh
-chsh -s /bin/zsh ${USER}
+chsh -s $(which zsh) ${USER}
 ```
 
 ## Completion

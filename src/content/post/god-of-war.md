@@ -2,13 +2,13 @@
 title: God of War
 description: ""
 created: 2023-08-14
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - games
   - god-of-war
 ---
 
-[God of War - Wikiwand](https://omni.wikiwand.com/en/God%20of%20War)
+[God of War - Wikiwand](https://www.wikiwand.com/en/God%20of%20War)
 
 [【社长说 20】《战神》白金之后，我决定回顾一下奎爷年轻时的故事 - YouTube](https://www.youtube.com/watch?v=pJorxP78ceQ)
 [一口气看完【战神】全五部，敬我心中最猛的男人——奎托斯 - YouTube](https://www.youtube.com/watch?v=akK85oVnOXc) 1:33:47, 好尸

@@ -2,20 +2,20 @@
 title: Patents
 description: ""
 created: 2023-06-28
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - ip/patent
   - law
 ---
 
-[Patent - Wikiwand](https://omni.wikiwand.com/en/patent)
+[Patent - Wikiwand](https://www.wikiwand.com/en/patent)
 
 [Petapator](http://www.petapator.com/)
 [Google Patents](https://patents.google.com/)
 [Patent Fetcher - Patent Fetcher - Pay As You Go Patent PDFs](https://free.patentfetcher.com/)
 [WIPS Global](http://www.wipsglobal.com/service/mai/main.wips)
 
-[Alice Corp. v. CLS Bank International - Wikiwand](https://omni.wikiwand.com/en/Alice_Corp._v._CLS_Bank_International)
+[Alice Corp. v. CLS Bank International - Wikiwand](https://www.wikiwand.com/en/Alice_Corp._v._CLS_Bank_International)
 [Supreme Court smashes “do it on a computer” patents in 9-0 opinion – Ars Technica](https://arstechnica.com/tech-policy/2014/06/supreme-court-smashes-do-it-on-a-computer-patents-in-9-0-opinion/)
 [Software patents take a hit, but they're far from dead | ZDNet](https://www.zdnet.com/article/software-patents-take-a-hit-but-theyre-far-from-dead/)
 Using generic computers to automate established human tasks cannot qualify as an 'invention' worthy of patent protection.
@@ -36,7 +36,7 @@ Using generic computers to automate established human tasks cannot qualify as an
 
 ## Patent trolls
 
-[Patent troll - Wikiwand](https://omni.wikiwand.com/en/Patent_troll)
+[Patent troll - Wikiwand](https://www.wikiwand.com/en/Patent_troll)
 [What is non-practicing entity (NPE)? - Definition from WhatIs.com](https://whatis.techtarget.com/definition/non-practicing-entity-NPE)
 
 [Non practicing entities (NPEs) and their impacts - Lexology](https://www.lexology.com/library/detail.aspx?g=2bc351e0-c393-4637-9c38-306ff7713557)

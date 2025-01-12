@@ -2,12 +2,12 @@
 title: Mobile OS
 description: ""
 created: 2015-06-22
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - mobile
 ---
 
-[Comparison of mobile operating systems - Wikiwand](http://omni.wikiwand.com/en/Comparison_of_mobile_operating_systems)
+[Comparison of mobile operating systems - Wikiwand](http://www.wikiwand.com/en/Comparison_of_mobile_operating_systems)
 
 [Getting started with Julia: A list of resources (free PDF) - TechRepublic](https://www.techrepublic.com/resource-library/whitepapers/getting-started-with-julia-a-list-of-resources-free-pdf/#ftag=CAD-00-10aag7f)
 [maru - Your phone is your PC](https://maruos.com/)
@@ -16,22 +16,22 @@ tags:
 
 [Tizen](https://www.tizen.org/)
 [Tizen Developers](https://developer.tizen.org/)
-[Tizen - Wikiwand](http://omni.wikiwand.com/en/Tizen)
+[Tizen - Wikiwand](http://www.wikiwand.com/en/Tizen)
 
-Native part adopts the abandoned [Bada](http://omni.wikiwand.com/en/Bada) project.
+Native part adopts the abandoned [Bada](http://www.wikiwand.com/en/Bada) project.
 
 ## Jolla Sailfish
 
 [SailfishOS - sailfishos.org](https://sailfishos.org/)
-[Sailfish OS - Wikiwand](https://omni.wikiwand.com/en/Sailfish_OS)
+[Sailfish OS - Wikiwand](https://www.wikiwand.com/en/Sailfish_OS)
 
-It is based on [Mer](http://merproject.org/), a fork of the abandoned [MeeGo](http://omni.wikiwand.com/en/MeeGo) project.
+It is based on [Mer](http://merproject.org/), a fork of the abandoned [MeeGo](http://www.wikiwand.com/en/MeeGo) project.
 
 ## Google Fuchsia
 
 > probably dead as of Feb 2023
 
-[Google Fuchsia - Wikiwand](https://omni.wikiwand.com/en/Google_Fuchsia)
+[Google Fuchsia - Wikiwand](https://www.wikiwand.com/en/Google_Fuchsia)
 [fuchsia Git repositories - Git at Google](https://fuchsia.googlesource.com/?format=HTML)
 [docs - fuchsia - Git at Google](https://fuchsia.googlesource.com/fuchsia/+/master/docs)
 [the-book - docs - Git at Google](https://fuchsia.googlesource.com/docs/+/26d5429c0d0b3f6b642911cc61b524adfcb82a39/the-book/)
@@ -64,7 +64,7 @@ Concepts:
 
 ## Google Android
 
-[Android (operating system) - Wikiwand](<http://omni.wikiwand.com/en/Android_(operating_system)>)
+[Android (operating system) - Wikiwand](<http://www.wikiwand.com/en/Android_(operating_system)>)
 
 ## Apple iOS
 
@@ -73,7 +73,7 @@ Concepts:
 > discontinued in 2016-09
 
 [Firefox OS Help](https://support.mozilla.org/en-US/products/firefox-os)
-[Firefox OS - Wikiwand](http://omni.wikiwand.com/en/Firefox_OS)
+[Firefox OS - Wikiwand](http://www.wikiwand.com/en/Firefox_OS)
 
 [Firefox OS - Mozilla | MDN](https://developer.mozilla.org/en-US/Firefox_OS)
 [Firefox OS architecture - Mozilla | MDN](https://developer.mozilla.org/en-US/Firefox_OS/Platform/Architecture)

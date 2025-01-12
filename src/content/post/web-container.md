@@ -2,7 +2,7 @@
 title: Web Container
 description: Run Node.js environment natively in your browser
 created: 2023-09-08
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - web
   - web-container

@@ -2,7 +2,7 @@
 title: Microscopy
 description: ""
 created: 2016-09-24
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - science
 ---
@@ -16,7 +16,7 @@ tags:
 [Bright Field Microscopy - an overview | ScienceDirect Topics](https://www.sciencedirect.com/topics/medicine-and-dentistry/bright-field-microscopy)
 [Brightfield Microscopy - Uses & Advancements; Microscope Reviews; Pros and Cons](https://www.microscopemaster.com/brightfield-microscopy.html)
 
-[Dark-field microscopy - Wikiwand](https://omni.wikiwand.com/en/Dark-field_microscopy)
+[Dark-field microscopy - Wikiwand](https://www.wikiwand.com/en/Dark-field_microscopy)
 [Dark field microscopy](https://www.ruf.rice.edu/~bioslabs/methods/microscopy/dfield.html)
 [Darkfield Microscopy](https://www.microscopeworld.com/t-darkfield_microscopy.aspx)
 

@@ -2,7 +2,7 @@
 title: Microservice
 description: ""
 created: 2016-05-15
-updated: 2024-09-07
+updated: 2025-01-09
 tags:
   - architecture
   - microservice

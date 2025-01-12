@@ -2,7 +2,7 @@
 title: Internet of things
 description: ""
 created: 2018-06-12
-updated: 2024-09-23
+updated: 2025-01-09
 tags:
   - iot
   - maker
@@ -10,9 +10,9 @@ tags:
 
 [[electronics]]
 
-[Internet of things - Wikiwand](http://omni.wikiwand.com/en/Internet_of_things)
-[Embedded system - Wikiwand](http://omni.wikiwand.com/en/Embedded_system)
-[Microcontroller - Wikiwand](http://omni.wikiwand.com/en/Microcontroller)
+[Internet of things - Wikiwand](http://www.wikiwand.com/en/Internet_of_things)
+[Embedded system - Wikiwand](http://www.wikiwand.com/en/Embedded_system)
+[Microcontroller - Wikiwand](http://www.wikiwand.com/en/Microcontroller)
 
 [Mesh networking extends IoT reach - O'Reilly Radar](http://radar.oreilly.com/2014/07/mesh-networking-extends-iot-reach.html)
 [Extracting value from the IoT - O'Reilly Radar](http://radar.oreilly.com/2014/06/extracting-value-from-the-iot.html)
@@ -272,12 +272,17 @@ ESP32 with Bluetooth Classic may need a expand to the partition
 [MicroPython - Python for microcontrollers](https://micropython.org/)
 [micropython/micropython: MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems](https://github.com/micropython/micropython)
 
-[MicroPython - Wikiwand](https://omni.wikiwand.com/en/MicroPython)
+[MicroPython - Wikiwand](https://www.wikiwand.com/en/MicroPython)
 [Overview — MicroPython documentation](https://docs.micropython.org/en/latest/index.html)
 [MicroPython | Arduino Documentation](https://docs.arduino.cc/micropython/)
 [MicroPython - Adafruit Learning System](https://learn.adafruit.com/category/micropython?view=all)
 
+[MicroPython Hex File — BBC micro:bit MicroPython 2 documentation](https://microbit-micropython.readthedocs.io/en/v2-docs/devguide/hexformat.html)
+
 [Code With Mu](https://codewith.mu/en/) offline MicroPython editor
+
+[ViperIDE](https://viper-ide.org/)
+[vshymanskyy/ViperIDE: An innovative MicroPython / CircuitPython IDE for Web and Mobile](https://github.com/vshymanskyy/ViperIDE)
 
 [MicroPython Basics: What is MicroPython?](https://www.digikey.hk/en/maker/projects/micropython-basics-what-is-micropython/1f60afd88e6b44c0beb0784063f664fc)
 
@@ -395,13 +400,13 @@ ESP32 with Bluetooth Classic may need a expand to the partition
 
 [CSA-IOT - Connectivity Standards Alliance](https://csa-iot.org/)
 
-[DASH7 - Wikiwand](https://omni.wikiwand.com/en/DASH7)
-[Zigbee - Wikiwand](https://omni.wikiwand.com/en/ZigBee) now Connectivity Standards Alliance
-[Z-Wave - Wikiwand](https://omni.wikiwand.com/en/Z-Wave)
-[FM-UWB - Wikiwand](https://omni.wikiwand.com/en/FM-UWB)
-[Thread (network protocol) - Wikiwand](<https://omni.wikiwand.com/en/Thread_(network_protocol)>) used in Matter
-[LoRa - Wikiwand](https://omni.wikiwand.com/en/LoRa)
-[Matter (standard) - Wikiwand](<https://omni.wikiwand.com/en/Matter_(standard)>) renamed 2021-05, formerly CHIP (2019-12) and Zigbee
+[DASH7 - Wikiwand](https://www.wikiwand.com/en/DASH7)
+[Zigbee - Wikiwand](https://www.wikiwand.com/en/ZigBee) now Connectivity Standards Alliance
+[Z-Wave - Wikiwand](https://www.wikiwand.com/en/Z-Wave)
+[FM-UWB - Wikiwand](https://www.wikiwand.com/en/FM-UWB)
+[Thread (network protocol) - Wikiwand](<https://www.wikiwand.com/en/Thread_(network_protocol)>) used in Matter
+[LoRa - Wikiwand](https://www.wikiwand.com/en/LoRa)
+[Matter (standard) - Wikiwand](<https://www.wikiwand.com/en/Matter_(standard)>) renamed 2021-05, formerly CHIP (2019-12) and Zigbee
 
 [ZigBee vs Z-Wave vs Wi-Fi vs Thread vs Bluetooth vs Matter (CHIP) - YouTube](https://www.youtube.com/watch?v=3zaTIRiFemQ)
 
@@ -435,7 +440,7 @@ Arduino requires an external BT module.
 HC-05/HC-06/HC-10 are common Wifi modules using ESP8266
 [Arduino - ArduinoBoardBT](https://www.arduino.cc/en/Main/ArduinoBoardBT)
 
-[Connect Arduino Uno to Android Via Bluetooth: 6 Steps](https://www.instructables.com/id/Connect-Arduino-Uno-to-Android-via-Bluetooth/)
+[Connect Arduino Uno to Android Via Bluetooth: 6 Steps](https://www.instructables.com/Connect-Arduino-Uno-to-Android-via-Bluetooth/)
 [Bluetooth Basics: How to Control an LED Using a Smartphone and Arduino | Arduino | Maker Pro](https://maker.pro/arduino/tutorial/bluetooth-basics-how-to-control-led-using-smartphone-arduino)
 [Communicate with Your Arduino Through Android](https://www.allaboutcircuits.com/projects/communicate-with-your-arduino-through-android/)
 
@@ -443,9 +448,9 @@ HC-05/HC-06/HC-10 are common Wifi modules using ESP8266
 
 ### LPWAN/LoRA/6LoWPAN
 
-[LPWAN](https://omni.wikiwand.com/en/LPWAN): Low Power Wide Area Network
-[LoRa](https://omni.wikiwand.com/en/LoRa): Long Range
-[6LoWPAN](https://omni.wikiwand.com/en/6LoWPAN): IPv6 over Low-Power Wireless Personal Area Networks
+[LPWAN](https://www.wikiwand.com/en/LPWAN): Low Power Wide Area Network
+[LoRa](https://www.wikiwand.com/en/LoRa): Long Range
+[6LoWPAN](https://www.wikiwand.com/en/6LoWPAN): IPv6 over Low-Power Wireless Personal Area Networks
 
 [How LoRa Modulation really works - long range communication using chirps - YouTube](https://www.youtube.com/watch?v=jHWepP1ZWTk) LoRa can transmit signal at SNR of -20dB at 1% error rate
 
@@ -468,9 +473,9 @@ HC-05/HC-06/HC-10 are common Wifi modules using ESP8266
 
 ### Modulation
 
-[Modulation - Wikiwand](https://omni.wikiwand.com/en/Modulation)
-[Frequency-shift keying - Wikiwand](https://omni.wikiwand.com/en/Frequency-shift_keying) FSK, GFSK
-[Minimum-shift keying - Wikiwand](https://omni.wikiwand.com/en/Minimum-shift_keying) MSK, GmSK
+[Modulation - Wikiwand](https://www.wikiwand.com/en/Modulation)
+[Frequency-shift keying - Wikiwand](https://www.wikiwand.com/en/Frequency-shift_keying) FSK, GFSK
+[Minimum-shift keying - Wikiwand](https://www.wikiwand.com/en/Minimum-shift_keying) MSK, GmSK
 
 [Software Radio Basics - YouTube](https://www.youtube.com/watch?v=BK9QkHxeYQI)
 [Understanding MSK, GMSK, FSK, GFSK Modulator and Demodulator with BER Scientech 2809 - YouTube](https://www.youtube.com/watch?v=Su0--12TfFE)
@@ -499,7 +504,7 @@ Taobao has cheap wireless controller for PS2 ([PS2 无线手柄](https://s.taoba
 
 [Interfacing PS2 Wireless Controller With Arduino](http://www.rhydolabz.com/wiki/?p=12663)
 [Using A Playstation 2 Controller with your Arduino Project](http://www.techmonkeybusiness.com/using-a-playstation-2-controller-with-your-arduino-project.html)
-[Control Anything With Ps2 Controller and Arduino (wirelessly): 6 Steps](https://www.instructables.com/id/Control-anything-with-ps2-controller-and-Arduino-/)
+[Control Anything With Ps2 Controller and Arduino (wirelessly): 6 Steps](https://www.instructables.com/Control-anything-with-ps2-controller-and-Arduino-/)
 
 [PlayStation 2 Compatible Controller - COM-10330 - SparkFun Electronics](https://www.sparkfun.com/products/retired/10330)
 
@@ -538,7 +543,7 @@ PS3/PS4 controller is a slave device in Bluetooth Classic. None of the embedded 
 [Make Your Own Smart Mirror for Under \$80 Using Raspberry Pi - Hackster.io](https://www.hackster.io/SrivishnuTech/make-your-own-smart-mirror-for-under-80-using-raspberry-pi-a87460)
 [Xonay Labs | Michael Teeuw](http://michaelteeuw.nl/tagged/magicmirror)
 
-[Smart Wall Calendar: 5 Steps](https://www.instructables.com/id/Smart-Wall-Calendar/)
+[Smart Wall Calendar: 5 Steps](https://www.instructables.com/Smart-Wall-Calendar/)
 
 ---
 
@@ -568,7 +573,7 @@ PS3/PS4 controller is a slave device in Bluetooth Classic. None of the embedded 
 [FydeOS - 面向未来的云驱动操作系统 | 为中国用户打造的 Chrome OS](https://fydeos.com/) formerly Flint OS, Chinese fork
 
 [LibreELEC – Just enough OS for KODI](https://libreelec.tv/)
-[OpenELEC - Wikiwand](https://omni.wikiwand.com/en/OpenELEC)
+[OpenELEC - Wikiwand](https://www.wikiwand.com/en/OpenELEC)
 
 ## MCU OS
 
@@ -618,9 +623,9 @@ PS3/PS4 controller is a slave device in Bluetooth Classic. None of the embedded 
 
 # Hardware Platforms
 
-[System on a chip - Wikiwand](https://omni.wikiwand.com/en/System_on_a_chip)
-[Microprocessor - Wikiwand](https://omni.wikiwand.com/en/Microprocessor)
-[Microcontroller - Wikiwand](https://omni.wikiwand.com/en/Microcontroller)
+[System on a chip - Wikiwand](https://www.wikiwand.com/en/System_on_a_chip)
+[Microprocessor - Wikiwand](https://www.wikiwand.com/en/Microprocessor)
+[Microcontroller - Wikiwand](https://www.wikiwand.com/en/Microcontroller)
 
 There are SBC (single board computer) and MCU (micro controller unit). MCU also acts as co-processor of other system.
 
@@ -644,10 +649,6 @@ There are SBC (single board computer) and MCU (micro controller unit). MCU also 
 [The Single Board Computer Database](https://www.board-db.org/)
 [sbc-bench/Results.md at master · ThomasKaiser/sbc-bench](https://github.com/ThomasKaiser/sbc-bench/blob/master/Results.md)
 [geerlingguy/sbc-reviews: Jeff Geerling's SBC review data - Raspberry Pi, Radxa, Orange Pi, etc.](https://github.com/geerlingguy/sbc-reviews)
-
-[Ringing in 2018 with 103 hacker-friendly SBCs](http://linuxgizmos.com/ringing-in-2018-with-103-hacker-friendly-sbcs/)
-[2018 reader survey of 116 open-spec Linux/Android SBCs](http://linuxgizmos.com/2018-reader-survey-of-116-open-spec-linux-android-sbcs/)
-[Six SBC Benchmark: ODROID XU4, ROCKPro64 & More! - YouTube](https://www.youtube.com/watch?v=k4kMEbeORLo)
 
 [When to Use Micro Processors vs. Micro Controllers - YouTube](https://www.youtube.com/watch?v=Rai8dAkcDLk)
 [The Next Generation of High-Powered Microcontrollers « Adafruit Industries – Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/2018/06/26/the-next-generation-of-high-powered-microcontrollers/)
@@ -760,7 +761,7 @@ RP2350
 
 ## STM
 
-[STM32 - Wikiwand](https://omni.wikiwand.com/en/STM32)
+[STM32 - Wikiwand](https://www.wikiwand.com/en/STM32)
 [STM32 Arm Cortex MCUs - 32-bit Microcontrollers - STMicroelectronics](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
 [Decipher the naming of STM32 MCUs | Michał Derkacz](https://ziutek.github.io/2018/05/07/stm32_naming_scheme.html)
 [How to Understand the STM32 Family’s Naming Convention](https://www.digikey.hk/en/maker/blogs/2020/understanding-stm32-naming-conventions)
@@ -854,7 +855,9 @@ micro:bit clone using ESP32
 
 ### EV3/NXT
 
-[Lego Mindstorms NXT - Wikiwand](https://omni.wikiwand.com/en/Lego_Mindstorms_NXT)
+> obsoleted
+
+[Lego Mindstorms NXT - Wikiwand](https://www.wikiwand.com/en/Lego_Mindstorms_NXT)
 [Nine alternative programming languages for LEGO MINDSTORMS – LEGO Engineering](http://www.legoengineering.com/alternative-programming-languages/)
 
 [LEGO Mindstorms | Mindstorms Robots](http://www.mindstormsrobots.com/lego-mindstorms/)

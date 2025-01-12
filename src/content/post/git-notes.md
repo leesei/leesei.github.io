@@ -2,7 +2,7 @@
 title: Git notes
 description: Git is a content addressable file system
 created: 2014-12-11
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - app
   - git
@@ -69,6 +69,7 @@ You can always check reflog to restore commit no matter how you messed with your
 [Git Immersion - Brought to you by Neo](http://gitimmersion.com/) guided tour
 [Learn Version Control with Git for Free](https://www.git-tower.com/learn/)
 [Home // Think Like (a) Git](http://think-like-a-git.net/)
+[Welcome to GitFu - GitFu](https://gitfu.fyi/)
 [Git Succinctly - Tuts+ Code Tutorials](http://code.tutsplus.com/series/git-succinctly--net-33581)
 [A Beginner's Git and GitHub Tutorial | Udacity](http://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html)
 [Understanding Git Conceptually](http://www.sbf5.com/~cduan/technical/git/)
@@ -135,7 +136,7 @@ You can always check reflog to restore commit no matter how you messed with your
 ## Commentaries/Internals
 
 [Git - Plumbing and Porcelain](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain)
-[Merkle tree - Wikiwand](https://omni.wikiwand.com/en/Merkle_tree)
+[Merkle tree - Wikiwand](https://www.wikiwand.com/en/Merkle_tree)
 [The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
 [Plastic SCM blog: Linus Torvalds on GIT and SCM](http://codicesoftware.blogspot.com/2007/05/linus-torvalds-on-git-and-scm.html)
 
@@ -280,6 +281,7 @@ You can name you custom script as `git-mycmd`, place it in you PATH and use `git
 [Git Branching Strategies for Maintainable Test Automation - DZone DevOps](https://dzone.com/articles/git-branching-strategies-for-maintainable-test-aut)
 [How to Use Git and Git Workflows – a Practical Guide](https://www.freecodecamp.org/news/practical-git-and-git-workflows/)
 [Git Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows#centralized-workflow)
+[git revert 的正确使用姿势！ - YouTube](https://www.youtube.com/watch?v=KHkTF3MlGG0)
 
 I prefer this flow:
 [Please stop recommending Git Flow! – George Stocker](https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/)
@@ -313,6 +315,7 @@ Commits to `master` kicks off CI/CD
 [Merging vs. Rebasing | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/merging-vs-rebasing/)
 [Merge or Rebase? | SourceTree Blog](https://blog.sourcetreeapp.com/2012/08/21/merge-or-rebase/)
 [Learn Git Rebase Interactively – zwischenzugs](https://zwischenzugs.com/2018/04/05/learn-git-rebase-interactively/)
+[Avoid merge commits - GitFu](https://gitfu.fyi/tips/avoid-merge-commits/)
 
 [Github workflow · servo/servo Wiki](https://github.com/servo/servo/wiki/Github-workflow)
 `rebase --interactive --autosquash`

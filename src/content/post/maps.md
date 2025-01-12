@@ -2,13 +2,13 @@
 title: Maps
 description: ""
 created: 2016-04-16
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - maps
   - science
 ---
 
-[Cartography - Wikiwand](https://omni.wikiwand.com/en/Cartography)
+[Cartography - Wikiwand](https://www.wikiwand.com/en/Cartography)
 [Pixel Map Generator | amCharts](http://pixelmap.amcharts.com/#)
 
 [How Maps Work | HowStuffWorks](http://science.howstuffworks.com/environmental/earth/geophysics/map.htm/printable)
@@ -49,8 +49,8 @@ tags:
 
 ## Projections
 
-[Map projection - Wikiwand](https://omni.wikiwand.com/en/Map_projection)
-[List of map projections - Wikiwand](https://omni.wikiwand.com/en/List_of_map_projections)
+[Map projection - Wikiwand](https://www.wikiwand.com/en/Map_projection)
+[List of map projections - Wikiwand](https://www.wikiwand.com/en/List_of_map_projections)
 
 [Why all world maps are wrong - YouTube](https://www.youtube.com/watch?v=kIID5FDi2JQ)
 [How the World Map Looks Wildly Different Than You Think - YouTube](https://www.youtube.com/watch?v=lPNrtjboISg)
@@ -96,7 +96,7 @@ tags:
 - Accessibility/Practicality
   ease of use and understand
 
-- [Mercator projection - Wikiwand](https://omni.wikiwand.com/en/Mercator_projection)
+- [Mercator projection - Wikiwand](https://www.wikiwand.com/en/Mercator_projection)
   - x = a, y = ln(sec(a)+tan(b))
   - similar to blowing up the earth inside a cylinder (central cylindrical), but expands towards the polars (applying the latitudinal movement bias to longitude)
   - preserves direction and angle (constant true direction, conformal), good for navigation by following strict line of map, which is actually not the shortest distance
@@ -104,7 +104,7 @@ tags:
   - [Web Mercator Tile Visibility / Jake Low / Observable](https://observablehq.com/@jake-low/web-mercator-tile-visibility)
 - Gall-Peters projection
   - preserves areas, distorts shape
-- [Winkel tripel projection - Wikiwand](https://omni.wikiwand.com/en/Winkel_tripel_projection)
+- [Winkel tripel projection - Wikiwand](https://www.wikiwand.com/en/Winkel_tripel_projection)
   - compromise between area, distance and direction distortion (hence tripel, "triple" in German)
   - adopted by National Geographic
 - Miller
@@ -113,21 +113,21 @@ tags:
 - Equal Earth 👍
   - formulation looks complicated, but easy on computer
   - equal area with less distortion
-- [Equirectangular projection - Wikiwand](https://omni.wikiwand.com/en/Equirectangular_projection)
+- [Equirectangular projection - Wikiwand](https://www.wikiwand.com/en/Equirectangular_projection)
   - x = long, y = lat
-- [Goode homolosine projection - Wikiwand / articles](https://omni.wikiwand.com/en/articles/Goode_homolosine_projection)
+- [Goode homolosine projection - Wikiwand / articles](https://www.wikiwand.com/en/articles/Goode_homolosine_projection)
   - "orange peel" projection
   - based on Sinusoidal projection (x = acos(b), y = b), fixes the skewing by "interrupting" the map (and mixes with Mollweide Elliptical projection)
   - reverse the latitudinal movement bias
   - preserves size and distance
-- [Robinson projection - Wikiwand](https://omni.wikiwand.com/en/Robinson_projection)
+- [Robinson projection - Wikiwand](https://www.wikiwand.com/en/Robinson_projection)
   pseudo-conical Robinson projection
 - Cahill 1909, Cahill-Keyes 1975
   [GK-map-index](http://www.genekeyes.com/MENUS/GK-map-index.html)
 
 ## Naming of Continents
 
-[List of continent name etymologies - Wikiwand](https://omni.wikiwand.com/en/List_of_continent_name_etymologies)
+[List of continent name etymologies - Wikiwand](https://www.wikiwand.com/en/List_of_continent_name_etymologies)
 
 [Who Gets to Name Continents? | Stuff You Should Know: The Podcast](http://www.stuffyoushouldknow.com/podcasts/who-gets-to-name-continents/)
 [The Origin of the Names of the Continents](http://www.todayifoundout.com/index.php/2013/05/the-origin-of-the-names-of-the-continents/)
@@ -147,16 +147,16 @@ tags:
 
 ## Navigation
 
-[History of longitude - Wikiwand](https://omni.wikiwand.com/en/History_of_longitude)long
-[Longitude Act 1714 - Wikiwand](https://omni.wikiwand.com/en/Longitude_Act)
+[History of longitude - Wikiwand](https://www.wikiwand.com/en/History_of_longitude)long
+[Longitude Act 1714 - Wikiwand](https://www.wikiwand.com/en/Longitude_Act)
 
 [The Longitude Problem (Maritime History) - Podcast](http://www.cmpod.net/marine-navigation-scilly-islands-disaster/)
 [古航海定位神器 - 六分儀！至今仍在使用！現代船舶備用的定位裝置 - YouTube](https://www.youtube.com/watch?v=HEjQ1RslEqg)
-[List of geocoding systems - Wikiwand](https://omni.wikiwand.com/en/List_of_geocoding_systems)
+[List of geocoding systems - Wikiwand](https://www.wikiwand.com/en/List_of_geocoding_systems)
 
 ### Latitude
 
-[Latitude - Wikiwand](http://omni.wikiwand.com/en/Latitude)
+[Latitude - Wikiwand](http://www.wikiwand.com/en/Latitude)
 Horizontal lines specifying the _north-south_ position of a point on the Earth's surface.
 Ranging from 0° at the Equator to 90° (North or South) at the poles.
 
@@ -164,10 +164,10 @@ Mariners measured the angle between the horizon and stars (e.g.: Polaris – The
 
 ### Longitude
 
-[Longitude - Wikiwand](http://omni.wikiwand.com/en/Longitude)
+[Longitude - Wikiwand](http://www.wikiwand.com/en/Longitude)
 Vertical lines (_Meridians_) specifying the _east-west_ position of a point on the Earth's surface.
-Ranging from 0° at the [Prime meridian](https://omni.wikiwand.com/en/Prime_meridian) (Greenwich, England) to +180° eastward and −180° westward.
-In October 1884, [Prime meridian (Greenwich)](<https://omni.wikiwand.com/en/Prime_meridian_(Greenwich)>) was selected in Washington.
+Ranging from 0° at the [Prime meridian](https://www.wikiwand.com/en/Prime_meridian) (Greenwich, England) to +180° eastward and −180° westward.
+In October 1884, [Prime meridian (Greenwich)](<https://www.wikiwand.com/en/Prime_meridian_(Greenwich)>) was selected in Washington.
 
 Since every hour the earth rotates 15°, mariners can estimate their longitude by comparing local time (probably noon) to a time at know longitude (Greenwich time) with chronometers.
 
@@ -180,7 +180,7 @@ Chronometer method, famously pioneered by John Harrison, became the preferred wa
 [Gimlet Media | » #21 Postal Addresses](https://gimletmedia.com/episode/21-postal-addresses/)
 
 [what3words | Addressing the world](https://map.what3words.com/) divides the world into 3m x 3m squares associated with 3 dictionary words
-[what3words - Wikiwand](https://omni.wikiwand.com/en/What3words)
+[what3words - Wikiwand](https://www.wikiwand.com/en/What3words)
 
 [The Official Web Site of the Natural Area Coding System](http://www.nacgeo.com/nacsite/) NAC "hashes" the lat-long as strings
 https://en.wikipedia.org/wiki/Natural_Area_Code

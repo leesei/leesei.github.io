@@ -2,7 +2,7 @@
 title: Linux Desktop
 description: ""
 created: 2014-12-12
-updated: 2024-09-22
+updated: 2025-01-09
 tags:
   - desktop
   - gjs
@@ -11,8 +11,8 @@ tags:
   - xinput
 ---
 
-This post is about using GNU/Linux with [desktop environment](http://omni.wikiwand.com/en/Desktop_environment) as a daily driver.
-[Linux - Wikiwand](https://omni.wikiwand.com/en/linux)
+This post is about using GNU/Linux with [desktop environment](http://www.wikiwand.com/en/Desktop_environment) as a daily driver.
+[Linux - Wikiwand](https://www.wikiwand.com/en/linux)
 
 [Unix vs Linux - YouTube](https://www.youtube.com/watch?v=jowCUo_UGts)
 
@@ -30,6 +30,10 @@ This post is about using GNU/Linux with [desktop environment](http://omni.wikiwa
 
 [Welcome To Distro.Tube](https://distro.tube/)
 [DistroTube - YouTube](https://www.youtube.com/@DistroTube)
+
+[Brodie Robertson - YouTube](https://www.youtube.com/@BrodieRobertson)
+[The Linux Experiment - YouTube](https://www.youtube.com/@TheLinuxEXP)
+[Learn Linux TV - YouTube](https://www.youtube.com/@LearnLinuxTV)
 
 [The Linux Documentation Project](http://www.tldp.org/)
 [The Linux Information Project (LINFO) Home Page](http://www.linfo.org/index.html)
@@ -62,7 +66,7 @@ To distinguish GNU and Linux, and why it is not "correct" to say Linux system, r
 [Unix vs. Linux: The Differences Between and Why It Matters](https://www.makeuseof.com/tag/linux-vs-unix-crucial-differences-matter-linux-professionals/)
 
 [GNU Userland | Linux.org](http://www.linux.org/threads/gnu-userland.7429/)
-[List of GNU packages - Wikiwand](http://omni.wikiwand.com/en/List_of_GNU_packages)
+[List of GNU packages - Wikiwand](http://www.wikiwand.com/en/List_of_GNU_packages)
 [GNU-Binutils | Linux.org](http://www.linux.org/threads/gnu-binutils.6544/)
 [GNU Toolchain Explained | Linux.org](http://www.linux.org/threads/gnu-toolchain-explained.6469/)
 
@@ -81,8 +85,8 @@ To distinguish GNU and Linux, and why it is not "correct" to say Linux system, r
 
 ## Distros
 
-[Linux distribution - Wikiwand](http://omni.wikiwand.com/en/Linux_distribution)
-[List of Linux distributions - Wikiwand](http://omni.wikiwand.com/en/List_of_Linux_distributions)
+[Linux distribution - Wikiwand](http://www.wikiwand.com/en/Linux_distribution)
+[List of Linux distributions - Wikiwand](http://www.wikiwand.com/en/List_of_Linux_distributions)
 [GNU/Linux Distribution Timeline](http://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
 Well, Android is also a [Linux distro](http://www.linux.org/threads/android-and-its-derivatives.6145/) with its own forks.
 [What Are The Components Of A Linux Distribution?](https://fosspost.org/education/what-are-the-components-of-a-linux-distribution)
@@ -164,7 +168,7 @@ The default DE saves you the hassle of going through the setup and probably more
 [7 Best Linux Distro For Laptop In 2016 - How To Use Linux](http://howtouselinux.net/best-linux-distro-for-laptop/)
 [Which Official Ubuntu Flavor Is Best for You? | Linux.com | The source for Linux information](https://www.linux.com/learn/intro-to-linux/2017/5/which-official-ubuntu-flavor-best-you)
 [Lubuntu Vs. Xubuntu - LinuxAndUbuntu - Linux News | Apps Reviews | Linux Tutorials HowTo](http://www.linuxandubuntu.com/home/lubuntu-vs-xubuntu)
-[Lightweight Linux distribution - Wikiwand](https://omni.wikiwand.com/en/Lightweight_Linux_distribution)
+[Lightweight Linux distribution - Wikiwand](https://www.wikiwand.com/en/Lightweight_Linux_distribution)
 
 [Top 5 Linux Distros to look forward in 2017 » TechWorm](https://www.techworm.net/2017/01/top-5-linux-distros-look-forward-2017.html)
 [The Best Linux Distros to Watch Out for in 2017 - Make Tech Easier](https://www.maketecheasier.com/linux-distros-2017/)
@@ -231,13 +235,13 @@ faillock --user <user> --reset
 [A Guide to Window Managers and Desktops for Unix and Linux](http://www.techopedia.com/2/28684/software/operating-systems/a-guide-to-window-managers-and-desktops-for-unix-and-linux)
 [How-to: Picking a desktop environment in Linux](http://www.engadget.com/2012/11/30/how-to-pick-a-desktop-environment-in-linux/)
 
-[Desktop environment - Wikiwand](https://omni.wikiwand.com/en/Desktop_environment)
+[Desktop environment - Wikiwand](https://www.wikiwand.com/en/Desktop_environment)
 [Desktop environment - ArchWiki](https://wiki.archlinux.org/title/Desktop_environment)
 [Category:Desktop environments - ArchWiki](https://wiki.archlinux.org/title/Category:Desktop_environments)
 [Display manager - ArchWiki](https://wiki.archlinux.org/title/Display_manager)
-[Comparison of X Window System desktop environments - Wikiwand](http://omni.wikiwand.com/en/Comparison_of_X_Window_System_desktop_environments)
-[X Window System - Wikiwand](http://omni.wikiwand.com/en/X_Window_System)
-[AIGLX - Wikiwand](http://omni.wikiwand.com/en/AIGLX)
+[Comparison of X Window System desktop environments - Wikiwand](http://www.wikiwand.com/en/Comparison_of_X_Window_System_desktop_environments)
+[X Window System - Wikiwand](http://www.wikiwand.com/en/X_Window_System)
+[AIGLX - Wikiwand](http://www.wikiwand.com/en/AIGLX)
 
 [The 8 best desktop environments for Linux | CIO](http://www.cio.com/article/2885122/linux/the-8-best-desktop-environments-for-linux.html)
 [10 Best Linux Desktop Environments And Their Comparison | 2018 Edition](https://fossbytes.com/best-linux-desktop-environments/)
@@ -250,7 +254,7 @@ faillock --user <user> --reset
 
 Fork of GNOME Shell, brings traditional desktop experience with GTK+ 3.
 
-[Cinnamon (software) - Wikiwand](<https://omni.wikiwand.com/en/Cinnamon_(software)>)
+[Cinnamon (software) - Wikiwand](<https://www.wikiwand.com/en/Cinnamon_(software)>)
 [Cinnamon - ArchWiki](https://wiki.archlinux.org/title/Cinnamon)
 [Projects](http://developer.linuxmint.com/projects.html)
 
@@ -284,7 +288,7 @@ Based on GNOME shell, tiling WM, written in Rust
 
 Minimal, modern desktop written in Qt and Go.
 
-[Deepin - Wikiwand](http://omni.wikiwand.com/en/Deepin)
+[Deepin - Wikiwand](http://www.wikiwand.com/en/Deepin)
 [Deepin Desktop Environment - ArchWiki](https://wiki.archlinux.org/title/Deepin_Desktop_Environment)
 [Original Apps | deepin provides a powerful driving force for computers all over the world!](https://www.deepin.org/soft.html)
 
@@ -295,7 +299,7 @@ Minimal, modern desktop written in Qt and Go.
 
 OS X like desktop that is [ported to OS X](http://blog.elementary.io/post/142076012991/introducing-elementary-for-os-x).
 
-[Elementary OS - Wikiwand](http://omni.wikiwand.com/en/Elementary_OS)
+[Elementary OS - Wikiwand](http://www.wikiwand.com/en/Elementary_OS)
 [Pantheon - ArchWiki](https://wiki.archlinux.org/title/Pantheon)
 [Get Involved with elementary OS](https://elementary.io/get-involved)
 
@@ -311,7 +315,7 @@ OS X like desktop that is [ported to OS X](http://blog.elementary.io/post/142076
 > 2023-03: Rust-based Cosmic desktop is under development
 
 [Pop!\_OS by System76](https://pop.system76.com/)
-[Pop!\_OS - Wikiwand](https://omni.wikiwand.com/en/Pop!_OS)
+[Pop!\_OS - Wikiwand](https://www.wikiwand.com/en/Pop!_OS)
 
 [Pop OS Review: Is This Beautiful Linux Distribution Worth Your Time?](https://itsfoss.com/pop-os-linux-review/)
 
@@ -344,22 +348,22 @@ Some DM use `~/.xinitrc` instead of `/usr/share/xsessions/`.
 
 ## Display Server
 
-[Display server - Wikiwand](https://omni.wikiwand.com/en/Display_server)
+[Display server - Wikiwand](https://www.wikiwand.com/en/Display_server)
 
 ```sh
 [ "$DISPLAY" ] || [ "$WAYLAND_DISPLAY" ] || [ "$MIR_SOCKET" ] && echo graphical environment
 ```
 
-[Mode setting - Wikiwand](https://omni.wikiwand.com/en/Mode_setting)
+[Mode setting - Wikiwand](https://www.wikiwand.com/en/Mode_setting)
 [Kernel mode setting - ArchWiki](https://wiki.archlinux.org/title/Kernel_mode_setting)
-[Direct Rendering Manager - Wikiwand](https://omni.wikiwand.com/en/Direct_Rendering_Manager)
+[Direct Rendering Manager - Wikiwand](https://www.wikiwand.com/en/Direct_Rendering_Manager)
 
 [[Linux.conf.au 2013] - The real story behind Wayland and X - YouTube](https://www.youtube.com/watch?v=cQoQE_HDG8g&index=79&list=WL)
 
 [Xorg - ArchWiki](https://wiki.archlinux.org/title/Xorg)
-[X.Org Server - Wikiwand](https://omni.wikiwand.com/en/X.Org_Server) [X Window System core protocol - Wikiwand](https://omni.wikiwand.com/en/X_Window_System_core_protocol)
+[X.Org Server - Wikiwand](https://www.wikiwand.com/en/X.Org_Server) [X Window System core protocol - Wikiwand](https://www.wikiwand.com/en/X_Window_System_core_protocol)
 
-[Mir - ArchWiki](https://wiki.archlinux.org/title/Mir) [Mir (software) - Wikiwand](<https://omni.wikiwand.com/en/Mir_(software)>)
+[Mir - ArchWiki](https://wiki.archlinux.org/title/Mir) [Mir (software) - Wikiwand](<https://www.wikiwand.com/en/Mir_(software)>)
 SurfaceFlinger
 
 [Splitting up the Frame Clock – GNOME Shell & Mutter](https://blogs.gnome.org/shell-dev/2020/07/02/splitting-up-the-frame-clock/)
@@ -376,7 +380,7 @@ talks to KMS and GLES directly without X
 ### Wayland
 
 [Wayland - ArchWiki](https://wiki.archlinux.org/title/wayland)
-[Wayland (protocol) - Wikiwand](<https://omni.wikiwand.com/en/Wayland_(protocol)>)
+[Wayland (protocol) - Wikiwand](<https://www.wikiwand.com/en/Wayland_(protocol)>)
 [Wayland](https://wayland.freedesktop.org/)
 [Wayland misconceptions debunked | Drew DeVault’s Blog](https://drewdevault.com/2019/02/10/Wayland-misconceptions-debunked.html)
 [Waypipe Is Successfully Working For This Network-Transparent Wayland Apps/Games Proxy - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Waypipe-Successful-GSoC-2019)
@@ -407,7 +411,7 @@ talks to KMS and GLES directly without X
 ## LVFS
 
 [LVFS: Home](https://fwupd.org/)
-[fwupd - Wikiwand](https://omni.wikiwand.com/en/Fwupd)
+[fwupd - Wikiwand](https://www.wikiwand.com/en/Fwupd)
 
 [fwupd - ArchWiki](https://wiki.archlinux.org/title/Fwupd)
 
@@ -440,7 +444,7 @@ Qt
 ## Microcode
 
 [Microcode - ArchWiki](https://wiki.archlinux.org/title/Microcode)
-[Microcode - Wikiwand](https://omni.wikiwand.com/en/Microcode)
+[Microcode - Wikiwand](https://www.wikiwand.com/en/Microcode)
 
 When uninstalling microcode, do a grub update to remove it from grub manual.
 
@@ -512,7 +516,7 @@ X11 has not one, not two, but _three_ clipboards. They are called:
 s
 [Linux Standard Base (LSB) | The Linux Foundation](http://www.linuxfoundation.org/collaborate/workgroups/lsb)
 [Linux Standard Base (LSB) | Linux.org](http://www.linux.org/threads/linux-standard-base-lsb.5113/)
-[Linux Standard Base - Wikiwand](https://omni.wikiwand.com/en/Linux_Standard_Base)
+[Linux Standard Base - Wikiwand](https://www.wikiwand.com/en/Linux_Standard_Base)
 
 [X org / Desktop | Linux.org](http://www.linux.org/forums/x-org-desktop.50/)
 
@@ -520,7 +524,7 @@ s
 
 ### Filesystem Hierarchy
 
-[Filesystem Hierarchy Standard - Wikiwand](https://omni.wikiwand.com/en/Filesystem_Hierarchy_Standard)
+[Filesystem Hierarchy Standard - Wikiwand](https://www.wikiwand.com/en/Filesystem_Hierarchy_Standard)
 [Linux Filesystem Hierarchy](http://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/html/index.html)
 [Filesystem Hierarchy Standard](https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html)
 [FilesystemHierarchyStandard - Debian Wiki](https://wiki.debian.org/FilesystemHierarchyStandard)
@@ -628,17 +632,19 @@ echo $(grep 'MimeType=' $(mimeo --finddesk viewnior.desktop) |  sed -e 's/.*=//'
 xdg-mime query filetype text/plain
 # query default
 xdg-mime query default inode/directory
-xdg-mime query default inode/directory
 # set default
 xdg-mime default sublime_text.desktop text/plain
-xdg-mime default pcmanfm.desktop inode/directory
+xdg-mime default nemo.desktop inode/directory
 
 # shows recommended apps
 gio mime inode/directory
-gio mime inode/directory pcmanfm.desktop
+gio mime inode/directory nemo.desktop
 
 # set default app to all mime type supported
-xdg-mime default viewnior.desktop  $(grep 'MimeType=' $(mimeo --finddesk viewnior.desktop) |  sed -e 's/.*=//' -e 's/;/ /g')
+mimeo --prefer viewnior.desktop
+xdg-mime default viewnior.desktop $(grep 'MimeType=' $(mimeo --finddesk viewnior.desktop) | sed -e 's/.*=//' -e 's/;/ /g')
+mimeo --prefer mpv.desktop
+xdg-mime default mpv.desktop $(grep 'MimeType=' $(mimeo --finddesk mpv.desktop) | sed -e 's/.*=//' -e 's/;/ /g')
 ```
 
 NOTE: [xdg-utils](http://portland.freedesktop.org/wiki/XdgUtils) is needed here. It's a tool released by Portland project of Freedesktop.org. Most modern Linux distros have this tool installed by default.
@@ -693,10 +699,11 @@ gsettings = cross-platform config with schema validation
 [Projects/dconf - GNOME Wiki!](https://wiki.gnome.org/action/show/Projects/dconf)
 [Apps/DconfEditor - GNOME Wiki!](https://wiki.gnome.org/Apps/DconfEditor)
 [dconf: dconf Reference Manual](https://developer.gnome.org/dconf/unstable/dconf-overview.html)
-[dconf - Wikiwand](http://omni.wikiwand.com/en/Dconf)
+[dconf - Wikiwand](http://www.wikiwand.com/en/Dconf)
 
 ```sh
 gsettings list-schemas
+gsettings list-recursively
 gsettings list-keys org.cinnamon.desktop.screensaver
 gsettings set org.cinnamon.desktop.lockdown disable-lock-screen true
 gsettings set org.cinnamon.desktop.lockdown disable-lock-screen false
@@ -859,7 +866,7 @@ Bing keys to program, with `xte` of `xautomation` it is another (better and more
 ## Xorg stuffs
 
 [Xorg - ArchWiki](https://wiki.archlinux.org/title/Xorg)
-[X Window System - Wikiwand](https://omni.wikiwand.com/en/X_Window_System)
+[X Window System - Wikiwand](https://www.wikiwand.com/en/X_Window_System)
 [The History of X11 - YouTube](https://www.youtube.com/watch?v=R-N-fgKWYGU)
 XFree86 -> X Org
 
@@ -872,7 +879,7 @@ XFree86 -> X Org
 
 ### XCB
 
-[XCB - Wikiwand](https://omni.wikiwand.com/en/XCB)
+[XCB - Wikiwand](https://www.wikiwand.com/en/XCB)
 [xcb](https://xcb.freedesktop.org/)
 
 [BurntSushi/xpybutil: An incomplete xcb-util port plus some extras](https://github.com/BurntSushi/xpybutil)
@@ -883,9 +890,9 @@ XFree86 -> X Org
 [The Linux Graphics Stack | Clean Rinse](http://blog.mecheye.net/2012/06/the-linux-graphics-stack/)
 [Wayland](http://wayland.freedesktop.org/)
 
-[X Window System - Wikiwand](http://omni.wikiwand.com/en/X_Window_System)
-[Display server - Wikiwand](http://omni.wikiwand.com/en/Display_server)
-[Windowing system - Wikiwand](http://omni.wikiwand.com/en/Windowing_system)
+[X Window System - Wikiwand](http://www.wikiwand.com/en/X_Window_System)
+[Display server - Wikiwand](http://www.wikiwand.com/en/Display_server)
+[Windowing system - Wikiwand](http://www.wikiwand.com/en/Windowing_system)
 
 [[Linux.conf.au 2013] - The real story behind Wayland and X - YouTube](https://www.youtube.com/watch?v=cQoQE_HDG8g)
 
@@ -907,12 +914,12 @@ Most DE includes UI for resolution and multihead settings
 [X and ModeLines](http://howto-pages.org/ModeLines/)
 [X/Troubleshooting/Resolution - Ubuntu Wiki](https://wiki.ubuntu.com/X/Troubleshooting/Resolution)
 
-[Extended Display Identification Data - Wikiwand](https://omni.wikiwand.com/en/Extended_Display_Identification_Data)
+[Extended Display Identification Data - Wikiwand](https://www.wikiwand.com/en/Extended_Display_Identification_Data)
 [Adventures in Resolving Missing EDID Monitor Data – Delightly Linux](https://delightlylinux.wordpress.com/2013/08/23/adventures-in-resolving-missing-edid-monitor-data/amp/)
 
 #### xrandr
 
-[RandR - Wikiwand](https://omni.wikiwand.com/en/RandR)
+[RandR - Wikiwand](https://www.wikiwand.com/en/RandR)
 [xrandr - ArchWiki](https://wiki.archlinux.org/title/Xrandr)
 [xrandr command man page - xorg-x11-server-utils | ManKier](https://www.mankier.com/1/xrandr)
 
@@ -970,7 +977,7 @@ ddcutil setvcp --display 1 60 12 # HDMI2
 
 ### D-Bus
 
-[D-Bus - Wikiwand](https://omni.wikiwand.com/en/D-Bus)
+[D-Bus - Wikiwand](https://www.wikiwand.com/en/D-Bus)
 [dbus](https://www.freedesktop.org/wiki/Software/dbus/)
 
 [busctl(1) — Arch manual pages](https://man.archlinux.org/man/core/systemd/busctl.1.en)

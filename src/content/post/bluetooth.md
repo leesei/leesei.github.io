@@ -2,13 +2,13 @@
 title: Bluetooth
 description: ""
 created: 2019-01-29
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - bluetooth
   - comp/hardware
 ---
 
-[Bluetooth - Wikiwand](https://omni.wikiwand.com/en/Bluetooth)
+[Bluetooth - Wikiwand](https://www.wikiwand.com/en/Bluetooth)
 [Bluetooth Basics - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/bluetooth-basics)
 [Introduction | Introduction to Bluetooth Low Energy | Adafruit Learning System](https://learn.adafruit.com/introduction-to-bluetooth-low-energy?view=all)
 [藍牙=藍色的牙齒？取名的由來竟是為了致敬「這位」國王 | 智選 Blog](https://blog.witsper.com/tips/bluetooth/)

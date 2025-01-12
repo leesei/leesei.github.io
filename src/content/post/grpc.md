@@ -2,7 +2,7 @@
 title: gRPC
 description: A high performance, open source universal RPC framework
 created: 2024-03-12
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - comp/lang
   - rpc/grpc
@@ -14,7 +14,7 @@ tags:
 [grpc/CONCEPTS.md at master · grpc/grpc](https://github.com/grpc/grpc/blob/master/CONCEPTS.md)
 
 [grpc](https://github.com/grpc) Org
-[gRPC - Wikiwand](https://omni.wikiwand.com/en/GRPC)
+[gRPC - Wikiwand](https://www.wikiwand.com/en/GRPC)
 A high performance, open source, general RPC framework that puts mobile and HTTP/2 first.
 
 [gRPC vs REST: Understanding gRPC, OpenAPI and REST and when to use them in API design | Google Cloud Blog](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)

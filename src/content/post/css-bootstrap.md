@@ -2,7 +2,7 @@
 title: Bootstrap
 description: Build fast, responsive sites with Bootstrap
 created: 2023-09-01
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - bootstrap
   - css

@@ -2,7 +2,7 @@
 title: Electron
 description: ""
 created: 2015-07-19
-updated: 2024-04-03
+updated: 2025-01-09
 tags:
   - atom-shell
   - comp/lang

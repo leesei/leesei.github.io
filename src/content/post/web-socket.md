@@ -2,7 +2,7 @@
 title: Web Socket
 description: ""
 created: 2024-03-12
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - comp/lang
   - rpc/web-socket
@@ -80,7 +80,7 @@ const app = require("http").createServer(handler);
 
 ## WAMP
 
-[Web Application Messaging Protocol - Wikiwand](https://omni.wikiwand.com/en/Web_Application_Messaging_Protocol) MessagePack/JSON over WebSocket
+[Web Application Messaging Protocol - Wikiwand](https://www.wikiwand.com/en/Web_Application_Messaging_Protocol) MessagePack/JSON over WebSocket
 [The Web Application Messaging Protocol — Web Application Messaging Protocol version 2 documentation](https://wamp-proto.org/)
 
 [Introduction to WAMP, a protocol enabling PUB/SUB and RPC over Websoc…](https://www.slideshare.net/sametmax/intro-wamp)

@@ -2,7 +2,7 @@
 title: Displays
 description: ""
 created: 2015-04-02
-updated: 2024-08-27
+updated: 2025-01-09
 tags:
   - comp/hardware
   - lcd
@@ -72,6 +72,10 @@ Gigabyte G27Q 1440p 144Hz, G-Sync $2899
 OLED806 <-> LG G1
 OLED707 <-> LG C2
 OLED706 <-> LG C1
+
+## 2024 buy
+
+[别买错了！花 12 万买遍热门电视，告诉你哪款最值得买 | 2024 电视选购指南 | 小米 雷鸟 海信 TCL 创维 Vidda 酷开 - YouTube](https://www.youtube.com/watch?v=rIak0SPFgRU)
 
 ## Interface
 
@@ -180,6 +184,12 @@ P-IPS > H-IPS > S-IPS > AH-IPS > E-IPS
 [拿 4K 电视做电脑显示器用！显示器和电视到底有什么区别？！ - YouTube](https://www.youtube.com/watch?v=T-GjdJus-CI)
 [【Joeman】螢幕面板科普！LCD、OLED、Mini LED 優缺點分析！ - YouTube](https://www.youtube.com/watch?v=XFia3csKyWg)
 
+### LG Nano IPS
+
+[What Is Nano IPS? [Simple Guide] - DisplayNinja](https://www.displayninja.com/what-is-nano-ips/)
+LG nano-IPS panel, weak dark leading to low contrast (~700 rather than 1000:1 expected of an IPS)
+OLED evo (introduced in 2022) increased brightness and contrast of OLED panel
+
 ### OLED
 
 [Making OLED Displays - YouTube](https://www.youtube.com/watch?v=qg8pMUd-tSk)
@@ -188,20 +198,17 @@ P-IPS > H-IPS > S-IPS > AH-IPS > E-IPS
 先看评测
 [屏幕居然能打印了？探秘低调的中国顶级面板工厂 - YouTube](https://www.youtube.com/watch?v=c-O8EqH190c) prints OLED panel to reduce cost, also makes mini LED
 [中国的 OLED 屏幕，做到什么地步了？ - YouTube](https://www.youtube.com/watch?v=6QpePfw3Ip0) LTPO, coating instead of polarizer, under screen camera
+[一块屏幕浓缩 10 年竞争：国产 OLED 赢了吗？ - YouTube](https://www.youtube.com/watch?v=8kOUuLLQNIA)
 
 [中国OLED到底做到什么程度了？能不能打赢三星？谈谈中国面板行业的现状 - YouTube](https://www.youtube.com/watch?v=V7iHkFMn7LI)
+[亮度再提三倍？国产 OLED 厂商要用光刻机做屏幕了！ - YouTube](https://www.youtube.com/watch?v=3t-oHMpQnOk)
 
 Each pixel in OLED is controlled independently and hence can be completely turned off, saving battery and increasing contrast
 However the blue LED will deteriorate over time faster then the other LEDs
 And OLED's brightness is limited if the whole screen is bright in order not to damage the OLED itself
 LG's WRGB LED used white LED and filter to achieve RGB colors in a pixel, and a white LED to compensate the brightness decrease caused by the filter
 Vendors will limit the brightness to make OLED last longer
-
-### LG Nano IPS
-
-[What Is Nano IPS? [Simple Guide] - DisplayNinja](https://www.displayninja.com/what-is-nano-ips/)
-LG nano-IPS panel, weak dark leading to low contrast (~700 rather than 1000:1 expected of an IPS)
-OLED evo (introduced in 2022) increased brightness and contrast of OLED panel
+Masking methodology limits the size of OLED panel, this is solved by Quantum Dot (printing to PCB) and Photolithography
 
 ### QDLED/QLED/QOLED
 
@@ -259,6 +266,8 @@ There is limits on how small a MicroLED could be made (in 2022), so MicroLED is 
 [第四代显示技术 ：激光 - YouTube](https://www.youtube.com/watch?v=NypHSpEqLTM)
 [万元光机拆给你看！极米 RS 10 Ultra 投影仪评测 - YouTube](https://www.youtube.com/watch?v=jfMir_ZTUvA)
 [给投影做 CT，揭秘电动变焦到底有多强？Vidda C2 全家桶评测 - YouTube](https://www.youtube.com/watch?v=jj-zsNko__Y)
+[投影仪选购指南，3000 元 10 款横评 | 极米、坚果、米家、当贝、爱普生、明基、索尼、JVC、大眼橙 - YouTube](https://www.youtube.com/watch?v=9fmvY7J85lM)
+[27款！3个月！耗资10万！从1000元-10000元 双11投影仪选购！ - YouTube](https://www.youtube.com/watch?v=5u6QZldmH8A)
 
 ## DCI vs RGB
 
@@ -273,6 +282,8 @@ There is limits on how small a MicroLED could be made (in 2022), so MicroLED is 
 [HDR or High Dynamic Range as Fast As Possible - YouTube](https://www.youtube.com/watch?v=wthhc1s0Pig)
 [HDR Standards Explained - HDR10, Dolby Vision, HLG - YouTube](https://www.youtube.com/watch?v=tzm2XjcyKDQ)
 [The Cheapest HDR Monitor vs the BEST - YouTube](https://www.youtube.com/watch?v=0srgPxK-WhQ)
+[影视飓风为什么不常做HDR？ - YouTube](https://www.youtube.com/watch?v=pnieqcqg3vQ)
+
 [What Is HDR10+? Everything to Know About the HDR Format](https://www.makeuseof.com/what-is-hdr10-plus/)
 HDR600, HDR1000 certification is useful
 Local dimming prevents clipping in bright areas
@@ -345,7 +356,7 @@ LTPO: oxide layer on LTPS (backplane for circuitry), reduce refresh frequency to
 
 ## E Ink
 
-[E Ink - Wikiwand](http://omni.wikiwand.com/en/E_Ink)
+[E Ink - Wikiwand](http://www.wikiwand.com/en/E_Ink)
 
 [Display Week 2018: A look at the future of E Ink displays - Android Authority](https://www.androidauthority.com/e-ink-display-future-display-week-2018-868794/)
 [E Ink breakthrough brings full color displays that can stay on indefinitely - Android Authority](https://www.androidauthority.com/e-ink-breakthrough-brings-full-color-displays-can-stay-indefinitely-694969/)

@@ -2,7 +2,7 @@
 title: Nuclear Energy
 description: ""
 created: 2023-05-27
-updated: 2024-09-19
+updated: 2025-01-09
 tags:
   - energy
   - science
@@ -54,8 +54,9 @@ Small Modular Reactor
 
 ### Small Modular Reactor (SMR)
 
-[Small modular reactor - Wikiwand](https://omni.wikiwand.com/en/Small_modular_reactor) it is less efficient than traditional nuclear plant
+[Small modular reactor - Wikiwand](https://www.wikiwand.com/en/Small_modular_reactor) it is less efficient than traditional nuclear plant
 [Small nuclear power reactors - World Nuclear Association](http://www.world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-power-reactors/small-nuclear-power-reactors.aspx)
+[What are Small Modular Reactors (SMRs)? | IAEA](https://www.iaea.org/newscenter/news/what-are-small-modular-reactors-smrs)
 [Advanced Small Modular Reactors (SMRs) | Department of Energy](https://www.energy.gov/ne/advanced-small-modular-reactors-smrs)
 [Benefits of Small Modular Reactors (SMRs) | Department of Energy](https://www.energy.gov/ne/benefits-small-modular-reactors-smrs)
 
@@ -91,7 +92,7 @@ Can be cooled passively at air temperature without meltdown
 
 ## Nuclear Fusion
 
-[Nuclear fusion - Wikiwand](https://omni.wikiwand.com/en/Nuclear_fusion)
+[Nuclear fusion - Wikiwand](https://www.wikiwand.com/en/Nuclear_fusion)
 [A Strange 1950s Technology Could Finally Bring Fusion Energy to the Grid](https://www.inverse.com/science/stellarator-nuclear-fusion-reactor)
 [Fusion - YouTube](https://www.youtube.com/playlist?list=PLbhKQRV6Toq4ocE3C1EwVbeY4ofwrPLn_) Improbable Matter
 
@@ -111,7 +112,7 @@ Sabine Hossenfelder
 
 ### Tokamak Fusion Reactor
 
-[ITER - Wikiwand](https://omni.wikiwand.com/en/iter)
+[ITER - Wikiwand](https://www.wikiwand.com/en/iter)
 
 [Is The World's Largest Fusion Project Dead? - YouTube](https://www.youtube.com/watch?v=PAv3wUDxi4g) another delay of ITER into 2034
 
@@ -136,24 +137,24 @@ High Temperature Superconductor
 
 ### Inertial confinement fusion
 
-[Inertial confinement fusion - Wikiwand](https://omni.wikiwand.com/en/Inertial_confinement_fusion)
+[Inertial confinement fusion - Wikiwand](https://www.wikiwand.com/en/Inertial_confinement_fusion)
 [Finally, a Fusion Reaction Has Generated More Energy Than Absorbed by The Fuel](https://www.sciencealert.com/for-the-first-time-a-fusion-reaction-has-generated-more-energy-than-absorbed-by-the-fuel)
 [Oil killer?: Why the race to harness the power of the sun just sped up | Financial Post](https://financialpost.com/commodities/energy/nuclear-fusion-why-the-race-to-harness-the-power-of-the-sun-just-sped-up)
 [可控核聚变重大突破：美国人用激光惯性约束实现点火！无限能源要来了吗？ - YouTube](https://www.youtube.com/watch?v=jr6Qu4m2tgI)
 
 ### Magneto-inertial fusion
 
-[Magneto-inertial fusion - Wikiwand](https://omni.wikiwand.com/en/Magneto-inertial_fusion)
+[Magneto-inertial fusion - Wikiwand](https://www.wikiwand.com/en/Magneto-inertial_fusion)
 
 [Helion | First to fusion](https://www.helionenergy.com/)
-[Helion Energy - Wikiwand](https://omni.wikiwand.com/en/Helion_Energy)
+[Helion Energy - Wikiwand](https://www.wikiwand.com/en/Helion_Energy)
 [A New Way to Achieve Nuclear Fusion: Helion - YouTube](https://www.youtube.com/watch?v=_bDXXWQxK38) uses the change in magnetic field to generate heat
 [打造世界第一台核聚变发电机？美国明星创业公司 Helion 是颠覆还是骗局？ - YouTube](https://www.youtube.com/watch?v=vn9WGg1ybt8)
 [The problems with Helion Energy - a response to Real Engineering - YouTube](https://www.youtube.com/watch?v=3vUPhsFoniw)
 
 ### Pebble-bed reactor
 
-[Pebble-bed reactor - Wikiwand](https://omni.wikiwand.com/en/Pebble-bed_reactor) Generation 4
+[Pebble-bed reactor - Wikiwand](https://www.wikiwand.com/en/Pebble-bed_reactor) Generation 4
 [What the US could learn from China's nuclear power expansion - CNET](https://www.cnet.com/news/why-the-us-should-learn-from-chinas-nuclear-power-expansion/)
 
 ## Nuclear Battery

@@ -2,7 +2,7 @@
 title: Meteor.js
 description: ""
 created: 2023-05-17
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - web
   - web-dev

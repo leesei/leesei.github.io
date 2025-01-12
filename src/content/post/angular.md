@@ -2,7 +2,7 @@
 title: Angular
 description: ""
 created: 2016-06-08
-updated: 2024-04-06
+updated: 2025-01-09
 tags:
   - frontend
   - javascript

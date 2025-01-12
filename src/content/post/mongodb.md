@@ -2,7 +2,7 @@
 title: MongoDB
 description: ""
 created: 2014-12-17
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - app
   - mongodb
@@ -61,7 +61,7 @@ tags:
 [docs/mongo at master · docker-library/docs · GitHub](https://github.com/docker-library/docs/tree/master/mongo#initializing-a-fresh-instance)
 [Initializing mongo db in docker-compose with init script · GitHub](https://gist.github.com/gbzarelli/c15b607d62fc98ae436564bf8129ea8e)
 
-## `mongo` client
+## `mongo` client (`mongosh`)
 
 [mongo — MongoDB Manual](https://docs.mongodb.com/manual/reference/program/mongo/)
 [mongo Shell Quick Reference — MongoDB Manual](https://docs.mongodb.com/manual/reference/mongo-shell/)
@@ -282,7 +282,7 @@ const friendSchema = mongoose.Schema(
     givenName: String,
     familyName: String,
   },
-  { toJSON: reshapingOptions },
+  { toJSON: reshapingOptions }
 );
 
 const friendModel = mongoose.model("Friend", friendSchema);

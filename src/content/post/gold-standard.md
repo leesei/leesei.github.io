@@ -2,7 +2,7 @@
 title: Gold Standard
 description: ""
 created: 2014-12-26
-updated: 2024-05-05
+updated: 2025-01-09
 tags:
   - economics
 ---

@@ -2,7 +2,7 @@
 title: Web Frontend Frameworks
 description: ""
 created: 2022-08-23
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - frontend
   - javascript
@@ -132,7 +132,7 @@ Considerations:
 ## OpenUI
 
 [OpenUI5](https://openui5.org/)
-[OpenUI5 - Wikiwand](https://omni.wikiwand.com/en/OpenUI5)
+[OpenUI5 - Wikiwand](https://www.wikiwand.com/en/OpenUI5)
 
 [SAPUI5 vs. OpenUI5](https://help.sap.com/doc/saphelp_uiaddon20/2.05/en-US/59/82a9734748474aa8d4af9c3d8f31c0/content.htm)
 

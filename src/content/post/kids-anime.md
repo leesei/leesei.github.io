@@ -2,7 +2,7 @@
 title: Kids Anime
 description: ""
 created: 2021-08-24
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - anime
 ---
@@ -16,8 +16,11 @@ tags:
 ## Eldran series
 
 [エルドラン公式サイト](http://www.eldran.net/)
-[Eldran series - Wikiwand](https://omni.wikiwand.com/en/Eldran_series)
-[Eldran 系列 - Wikiwand](https://omni.wikiwand.com/zh/Eldran%E7%B3%BB%E5%88%97)
+[Eldran series - Wikiwand](https://www.wikiwand.com/en/Eldran_series)
+[Eldran 系列 - Wikiwand](https://www.wikiwand.com/zh/Eldran%E7%B3%BB%E5%88%97)
+
+路基亞 x ルギア
+[機械人動畫 - YouTube](https://www.youtube.com/playlist?list=PLpVvYF-vqZ_dQWueF3-AFGBAL2IbdlDNW)
 
 不負責任熱血君
 [勇者系列 - YouTube](https://www.youtube.com/playlist?list=PL6Y0u0Fhoh3hXCj9Qc_xDYN-hdrnubyHx)
@@ -25,18 +28,18 @@ tags:
 
 絕對無敵獅人鳳
 [絶対無敵ライジンオー｜エルドラン公式サイト](http://www.eldran.net/raijin-oh/index.html)
-[绝对无敌 - Wikiwand](https://omni.wikiwand.com/zh/%E7%BB%9D%E5%AF%B9%E6%97%A0%E6%95%8C)
+[绝对无敌 - Wikiwand](https://www.wikiwand.com/zh/%E7%BB%9D%E5%AF%B9%E6%97%A0%E6%95%8C)
 [【動畫介紹】「絕對無敵」雷神王 or 獅人鳳!? - YouTube](https://www.youtube.com/watch?v=9hXm_KvgEDI)
 [帶你複習近 30 年前的神作-絕對無敵雷神王 - YouTube](https://www.youtube.com/watch?v=QyGDYEroC38)
 
 元氣爆發伏魔金剛
 [元気爆発ガンバルガー｜エルドラン公式サイト](http://www.eldran.net/gambaruger/index.html)
-[元氣爆發 - Wikiwand](https://omni.wikiwand.com/zh/%E5%85%83%E6%B0%A3%E7%88%86%E7%99%BC)
+[元氣爆發 - Wikiwand](https://www.wikiwand.com/zh/%E5%85%83%E6%B0%A3%E7%88%86%E7%99%BC)
 [RT 帶你看元氣爆發的元氣小子 - YouTube](https://www.youtube.com/watch?v=wX2s5cyrR0s)
 
 熱血最強哥修羅
 [熱血最強ゴウザウラー｜エルドラン公式サイト](http://www.eldran.net/gosaurar/)
-[熱血最強 - Wikiwand](https://omni.wikiwand.com/zh/%E7%86%B1%E8%A1%80%E6%9C%80%E5%BC%B7)
+[熱血最強 - Wikiwand](https://www.wikiwand.com/zh/%E7%86%B1%E8%A1%80%E6%9C%80%E5%BC%B7)
 馬赫翼龍, 大地劍龍, 轟天雷龍
 [【藍光人】熱血最強哥修羅 「上集」( 主角 & 機體 ) - YouTube](https://www.youtube.com/watch?v=CuDWiiffb9k)
 [【藍光人】熱血最強哥修羅 「下集」( 敵人 & 劇情 ) - YouTube](https://www.youtube.com/watch?v=hQcZl0CXEqE)
@@ -66,16 +69,16 @@ tags:
 
 ## 麵包超人
 
-[麵包超人 - Wikiwand](https://omni.wikiwand.com/zh/%E9%BA%B5%E5%8C%85%E8%B6%85%E4%BA%BA)
+[麵包超人 - Wikiwand](https://www.wikiwand.com/zh/%E9%BA%B5%E5%8C%85%E8%B6%85%E4%BA%BA)
 
-[麵包超人角色列表 - Wikiwand](https://omni.wikiwand.com/zh/%E9%9D%A2%E5%8C%85%E8%B6%85%E4%BA%BA%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8)
+[麵包超人角色列表 - Wikiwand](https://www.wikiwand.com/zh/%E9%9D%A2%E5%8C%85%E8%B6%85%E4%BA%BA%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8)
 [人物介紹 - 麵包超人台灣官方網站](https://www.anpanman.tw/data.php?sys_name=works3)
 [なかまのしょうかい｜アンパンマンについて｜アンパンマンポータルサイト](https://www.anpanman.jp/about/friend.html)
 [それいけ!アンパンマンの登場人物 (それいけあんぱんまんのとうじょうじんぶつ)とは【ピクシブ百科事典】](https://dic.pixiv.net/a/%E3%81%9D%E3%82%8C%E3%81%84%E3%81%91%21%E3%82%A2%E3%83%B3%E3%83%91%E3%83%B3%E3%83%9E%E3%83%B3%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9)
 
 ## PAW Patrol
 
-[PAW Patrol - Wikiwand](https://omni.wikiwand.com/en/PAW_Patrol)
+[PAW Patrol - Wikiwand](https://www.wikiwand.com/en/PAW_Patrol)
 
 [PAW Patrol & Friends | Home of PAW Patrol and Friends – PAW Patrol & Friends | Official Site](https://pawpatrolandfriends.com/)
 
@@ -85,7 +88,7 @@ tags:
 
 ## Superwings
 
-[Super Wings - Wikiwand](https://omni.wikiwand.com/en/Super_Wings)
+[Super Wings - Wikiwand](https://www.wikiwand.com/en/Super_Wings)
 
 [Super Wings | Play games and watch videos | Cartoonito](https://www.cartoonito.co.uk/tv-show/super-wings)
 [Super Wings Characters | Official home for Super Wings Fandom | Cartoonito](https://www.cartoonito.co.uk/tv-show/super-wings/characters)
@@ -95,7 +98,7 @@ tags:
 
 ## Fireman Sam
 
-[Fireman Sam - Wikiwand](https://omni.wikiwand.com/en/Fireman_Sam)
+[Fireman Sam - Wikiwand](https://www.wikiwand.com/en/Fireman_Sam)
 
 [Fireman Sam | Play games and watch videos | Cartoonito](https://www.cartoonito.co.uk/tv-show/fireman-sam)
 [Fireman Sam Characters | Official home for Fireman Sam Fandom | Cartoonito](https://www.cartoonito.co.uk/tv-show/fireman-sam/characters)

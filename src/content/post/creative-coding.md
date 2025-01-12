@@ -2,7 +2,7 @@
 title: Creative Coding
 description: ""
 created: 2016-04-08
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - web
 ---
@@ -91,8 +91,8 @@ concurrent by default
 
 # Logo
 
-[Logo (programming language) - Wikiwand](<https://omni.wikiwand.com/en/Logo_(programming_language)>)
-[Turtle graphics - Wikiwand](https://omni.wikiwand.com/en/Turtle_graphics)
+[Logo (programming language) - Wikiwand](<https://www.wikiwand.com/en/Logo_(programming_language)>)
+[Turtle graphics - Wikiwand](https://www.wikiwand.com/en/Turtle_graphics)
 
 [PyLogo: the Logo Language implemented in Python](http://www.ianbicking.org/docs/PyLogo_lightning.html)
 [turtle — Turtle graphics — Python documentation](https://docs.python.org/3/library/turtle.html)

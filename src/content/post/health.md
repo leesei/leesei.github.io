@@ -2,7 +2,7 @@
 title: Health
 description: ""
 created: 2015-12-11
-updated: 2024-09-18
+updated: 2025-01-09
 tags:
   - science
 ---
@@ -39,16 +39,19 @@ Crash Course
 - 非特異性 (innate): 巨噬細胞 Macrophage, 樹突細胞 Dentritic cells, 自然殺手細胞 NK cells
 - 特異性 (acquired): 輔助 T 細胞 Tn, 細胞毒性 T 細胞 Tc Cytotoxic T cells, 記憶 T 細胞 Tm Memory T cells, B 細胞, 記憶 B 細胞 Bm Memory B cells, 漿細胞 Plasma cells
 
-[過敏性鼻炎：又是一年鼻炎季，全球 7 億人的痛苦，究竟怎麼破……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=W_5m1ffJcxE) allergy
-
 [My Thymus, Myself](https://radiolab.org/episodes/my-thymus-myself) Trains T-Cell
 
-[工作細胞 – Anime1.me 動畫線上看](https://anime1.me/category/2018%e5%b9%b4%e5%a4%8f%e5%ad%a3/%e5%b7%a5%e4%bd%9c%e7%b4%b0%e8%83%9e) 02
-[工作細胞!!(第二季) – Anime1.me 動畫線上看](https://anime1.me/category/2021%e5%b9%b4%e5%86%ac%e5%ad%a3/%e5%b7%a5%e4%bd%9c%e7%b4%b0%e8%83%9e-%e7%ac%ac%e4%ba%8c%e5%ad%a3)
+[工作細胞 - Anime1.cc 動畫線上看](https://anime1.cc/272559592/)
+[工作細胞第二季 - Anime1.cc 動畫線上看](https://anime1.cc/208507514/)
+
+### Allergies
+
+[Why This Shrimp Might Kill You - Allergies Explained - YouTube](https://www.youtube.com/watch?v=9zCH37330f8)
+[過敏性鼻炎：又是一年鼻炎季，全球 7 億人的痛苦，究竟怎麼破……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=W_5m1ffJcxE) allergy
 
 ## Pathogens
 
-[Pathogen - Wikiwand](https://omni.wikiwand.com/en/Pathogen)
+[Pathogen - Wikiwand](https://www.wikiwand.com/en/Pathogen)
 Microorganisms that causes sickness: Bacteria, Virus, Fungus (foot), parasites (Eukaryote, like Plasmodium that causes Malaria)
 
 妈咪说 MommyTalk
@@ -59,7 +62,7 @@ Microorganisms that causes sickness: Bacteria, Virus, Fungus (foot), parasites (
 > it is still not sure which come first, Bacteria or Viruses
 > but the scientists estimates the former
 
-[Baltimore classification - Wikiwand](https://omni.wikiwand.com/en/Baltimore_classification)
+[Baltimore classification - Wikiwand](https://www.wikiwand.com/en/Baltimore_classification)
 [How are Viruses Classified? - YouTube](https://www.youtube.com/watch?v=tQNuThIjGqg) also on other pathogens
 
 - Type I: double stranded DNA, smallpox, Herpes, chickenpox
@@ -110,8 +113,8 @@ Retroviruses replicate in a backwards manner, It will insert itself into DNA/RNA
 
 [為什麼全世界的檸檬都讀 Lemon？這背後有一個刻在 8 號染色體上的上古故事……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=y0PfdJ2XoAg) 維他命 C
 
-[Bacteriophage - Wikiwand](https://omni.wikiwand.com/en/Bacteriophage)
-[噬菌體 - Wikiwand](https://omni.wikiwand.com/zh/%E5%99%AC%E8%8F%8C%E4%BD%93)
+[Bacteriophage - Wikiwand](https://www.wikiwand.com/en/Bacteriophage)
+[噬菌體 - Wikiwand](https://www.wikiwand.com/zh/%E5%99%AC%E8%8F%8C%E4%BD%93)
 [The Deadliest Being on Planet Earth – The Bacteriophage - YouTube](https://www.youtube.com/watch?v=YI3tsmFsrOg)
 [38 億年前的納米機器人：曾被雪藏 100 年的發現，未來將是拯救人類的超級武器……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=DBwui0FO_bs)
 [人類與細菌的戰爭，噬菌體病毒進化理論，病毒也能為人類所用嗎，噬菌體取代抗生素會成為可能嗎| 填坑老高【病毒，進化】| 老高填坑團| 007 期 - YouTube](https://www.youtube.com/watch?v=XQde-sirjgU)

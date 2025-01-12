@@ -2,7 +2,7 @@
 title: Arch Post Install
 description: ""
 created: 2021-01-08
-updated: 2024-10-03
+updated: 2025-01-09
 tags:
   - arch-linux
   - desktop
@@ -42,16 +42,16 @@ See [pigmonkey/spark: Arch Linux Provisioning with Ansible](https://github.com/p
 ```sh
 # priority packages
 # console tools
-yay -S --needed --noconfirm eza fish guake kitty ttf-firacode-nerd noto-fonts-emoji starship sshfs tmux tree neovim vim xsel yq
-yay -S --needed --noconfirm colordiff diff-so-fancy fpp jshon plocate shellcheck-bin zoxide
+yay -S --needed --noconfirm eza fish guake kitty ttf-firacode-nerd noto-fonts-cjk noto-fonts-emoji sshfs starship tmux tree neovim vim xsel yq
+yay -S --needed --noconfirm colordiff diff-so-fancy fpp hadolint jshon plocate shellcheck-bin zoxide
 # new way to rebind mouse/keyboard keys (rather than using X11 conf)
 yay -S --needed --noconfirm sxhkd xautomation xev xdo xdotool
-yay -S --needed --noconfirm dropbox google-chrome sublime-text-3 visual-studio-code-bin 7-zip-full pcmanfm-gtk3
+yay -S --needed --noconfirm dropbox pcloud-drive google-chrome sublime-text-3 visual-studio-code-bin 7-zip-full nemo nemo-compare
 
 # admin tools
 baobab dconf dconf-editor htop lnav mimeo
 # system tools
-base-devel ccache clang cmake docker docker-buildx lshw nethogs pyenv sysstat
+base-devel ccache clang cmake docker docker-buildx docker-compose lshw nethogs pyenv sysstat
 #  udev-browse-git
 
 # runtime
@@ -60,7 +60,7 @@ dotnet-sdk nuget
 go zig zls
 
 # browser
-firefox google-chrome profile-sync-daemon
+firefox google-chrome profile-sync-daemon gnome-browser-connector
 # cloud storage
 dropbox pcloud-drive
 # graphics
@@ -68,10 +68,11 @@ drawio-desktop gimp imagemagick inkscape pinta viewnior
 # zathura zathura-pdf-mupdf
 # yed pencil-bin
 # ui tools
+nemo
 zenity goldendict
 rofi rofi-power-menu rofimoji
 meld sublime-merge
-mediainfo mediainfo-gui mpv
+mediainfo mediainfo-gui mpv subtitleeditor
 # office tools
 libreoffice-fresh teamviewer turbovnc
 # ebook
@@ -87,7 +88,7 @@ dbgate #studio-3t sqlitestudio
 ```
 
 ```sh
-# need review
+# image viewers, need review
 meh
 feh
 
@@ -119,32 +120,23 @@ cat /proc/sys/fs/inotify/max_user_watches
 sudo echo 150000 > /proc/sys/fs/inotify/max_user_watches
 ```
 
-## Dracula theme
-
-[Dark theme for Gnome Terminal and 142+ apps — Dracula](https://draculatheme.com/gnome-terminal)
-[Dark theme for Gedit and 142+ apps — Dracula](https://draculatheme.com/gedit/)
-
-```sh
-cd /tmp && git clone https://github.com/dracula/gnome-terminal
-cd gnome-terminal && ./install.sh
-
-cd /tmp && wget https://raw.githubusercontent.com/dracula/gedit/master/dracula.xml
-mkdir -p $HOME/.local/share/gedit/styles/
-cp dracula.xml $HOME/.local/share/gedit/styles/
-```
-
 ## Terminal
 
 ```sh
-rm -rf ~/.config/fish
-ln -sf ~/caravan/home/apps.conf/fish ~/.config/fish
-chsh -s /bin/fish $USER
+# setup dotfiler
+git clone https://github.com/svetlyak40wt/dotfiler ~/.dotfiles
+
+cd ~/.dotfiles
+# create symlinks to this folder
+./bin/dot update
+```
+
+```sh
+chsh -s $(which fish) $USER
 
 fish
 curl -sL https://git.io/fisher | source && fisher install jorgebucaran/fisher
 fisher update
-
-ln -s ~/caravan/home/apps.conf/starship.toml ~/.config/
 ```
 
 ## Profile sync
@@ -162,6 +154,20 @@ sudo -n /usr/bin/psd-overlay-helper
 psd preview
 # quit all browsers first
 systemctl --user enable --now psd
+```
+
+## Dracula theme
+
+[Dark theme for Gnome Terminal and 142+ apps — Dracula](https://draculatheme.com/gnome-terminal)
+[Dark theme for Gedit and 142+ apps — Dracula](https://draculatheme.com/gedit/)
+
+```sh
+cd /tmp && git clone https://github.com/dracula/gnome-terminal
+cd gnome-terminal && ./install.sh
+
+cd /tmp && wget https://raw.githubusercontent.com/dracula/gedit/master/dracula.xml
+mkdir -p $HOME/.local/share/gedit/styles/
+cp dracula.xml $HOME/.local/share/gedit/styles/
 ```
 
 ## overGrive
@@ -231,7 +237,7 @@ If performance is not an issue it is [recommended](https://wiki.archlinux.org/ti
 [Install Video Drivers on Arch Linux | DominicM](http://dominicm.com/install-video-drivers-on-arch-linux/)
 
 [Vulkan - Industry Forged](https://www.khronos.org/vulkan/)
-[Vulkan (API) - Wikiwand](<https://omni.wikiwand.com/en/Vulkan_(API)>)
+[Vulkan (API) - Wikiwand](<https://www.wikiwand.com/en/Vulkan_(API)>)
 [Vulkan - ArchWiki](https://wiki.archlinux.org/title/Vulkan)
 
 [Install And Test Vulkan On Linux](https://linuxconfig.org/install-and-test-vulkan-on-linux) `vulkaninfo` in `vulkan-tools`
@@ -294,9 +300,9 @@ sudo nvidia-smi -pl (base power limit+11)
 
 ```sh
 # uninstall
-sudo yremove nvidia nvidia-lts
+yay -R nvidia nvidia-lts
 # need alternate vulkan driver before uninstalling
-sudo yremove nvidia-utils nvidia-libgl lib32-nvidia-utils lib32-nvidia-libgl
+yay -R nvidia-utils nvidia-libgl lib32-nvidia-utils lib32-nvidia-libgl
 # [How to Fix - Failed to Start Light Display Manager Error [Solved]](https://www.debugpoint.com/failed-to-start-lightdm/)
 # !important, regenerate X conf and replace `/etc/X11/xorg.conf`
 sudo X --configure
@@ -371,7 +377,7 @@ pacman -Syyu
 [Fcitx: Input Method Editor Made Easy On Linux - YouTube](https://www.youtube.com/watch?v=lJoXhS4EUJs)
 
 ```sh
-yay -S fcitx5-im fcitx5-table-extra
+yay -S --needed --noconfirm fcitx5-im fcitx5-table-extra
 
 # reload
 fcitx5 -r
@@ -427,7 +433,7 @@ gcin &
 ## Remove indexer (Antergos only?)
 
 ```sh
-pacman -Rs tracker bijiben gnome-music gnome-online-miners totem zeitgeist
+yay -Rs tracker bijiben gnome-music gnome-online-miners totem zeitgeist
 ```
 
 ## Network

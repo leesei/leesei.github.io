@@ -2,7 +2,7 @@
 title: MOOC
 description: ""
 created: 2015-05-08
-updated: 2024-10-03
+updated: 2025-01-09
 tags:
   - learning
   - mooc
@@ -11,7 +11,7 @@ tags:
 
 > see [[learning]] on theory, especially [[learning#Speed Reading => Speed Learning]]
 
-[Massive open online course - Wikiwand](https://omni.wikiwand.com/en/Massive_open_online_course)
+[Massive open online course - Wikiwand](https://www.wikiwand.com/en/Massive_open_online_course)
 [No Excuse List](http://noexcuselist.com/)
 
 [Class Central • #1 Search Engine for Free Online Courses & MOOCs](https://www.classcentral.com/)
@@ -91,6 +91,16 @@ I've bought several bundles here (with Teachable SSO):
 
 [HowStuffWorks - Learn How Everything Works!](https://www.howstuffworks.com/)
 [eHow | eHow](https://www.ehow.com/)
+
+## Museums
+
+[British Museum](https://www.britishmuseum.org/)
+[Collection | British Museum](https://www.britishmuseum.org/collection)
+
+[Home | Natural History Museum](https://www.nhm.ac.uk/)
+
+[國立自然科學博物館](https://www.nmns.edu.tw/ch/)
+[數位典藏系統 Digital Collection System](https://digicoll.nmns.edu.tw/)
 
 ## Screen vs Paper
 
@@ -178,6 +188,7 @@ seneca-in-practice
 [fern - YouTube](https://www.youtube.com/@fern-tv) mini documentaries
 [Fire of Learning - YouTube](https://www.youtube.com/@Fireoflearning) history
 [Freethink - YouTube](https://www.youtube.com/@freethink) explainers
+[Future Proof - YouTube](https://www.youtube.com/@FutureProofTV) brands and products
 [Integza - YouTube](https://www.youtube.com/@integza) sciency, experiments
 [Interesting Engineering - YouTube](https://www.youtube.com/@Interestingengineeringofficial) engineering
 [Jared Owen - YouTube](https://www.youtube.com/@JaredOwen) "How it works" in 3D rendering
@@ -190,7 +201,7 @@ seneca-in-practice
 [Looking Glass Universe - YouTube](https://www.youtube.com/@LookingGlassUniverse) animated quantum mechanics
 [MinuteEarth - YouTube](https://www.youtube.com/@MinuteEarth) sciency, animated explainers
 [minutephysics - YouTube](https://www.youtube.com/@MinutePhysics) animated physics
-[NileBlue - YouTube](https://www.youtube.com/@NileBlue)
+[NileBlue - YouTube](https://www.youtube.com/@NileBlue) sciency, experiments
 [Numberphile - YouTube](https://www.youtube.com/@numberphile) math
 [Objectivity - YouTube](https://www.youtube.com/@ObjectivityVideos) science artifacts
 [Periodic Videos - YouTube](https://www.youtube.com/@periodicvideos) chemistry
@@ -220,8 +231,9 @@ seneca-in-practice
 [Tom Scott - YouTube](https://www.youtube.com/@TomScottGo) sciency
 [TREY the Explainer - YouTube](https://www.youtube.com/@TREYtheExplainer) explainers, history
 [Two Bit da Vinci - YouTube](https://www.youtube.com/@TwoBitDaVinci) explainers
-[Up and Atom - YouTube](https://www.youtube.com/@upandatom) Physics and Maths
 [Undecided with Matt Ferrell - YouTube](https://www.youtube.com/@UndecidedMF) explainers, tech
+[Up and Atom - YouTube](https://www.youtube.com/@upandatom) Physics and Maths
+[USENIX - YouTube](https://www.youtube.com/@UsenixOrg) tech conferences
 [Verge Science - YouTube](https://www.youtube.com/@VergeScience) sciency
 [Veritasium - YouTube](https://www.youtube.com/@veritasium) sciency
 [Vsauce - YouTube](https://www.youtube.com/@Vsauce) sciency

@@ -2,7 +2,7 @@
 title: Google Apps
 description: ""
 created: 2017-02-11
-updated: 2024-09-04
+updated: 2025-01-09
 tags:
   - google
   - web
@@ -36,6 +36,10 @@ tags:
 
 [Google Tasks](https://mail.google.com/tasks/ig)
 [Overview | Tasks API | Google Developers](https://developers.google.com/google-apps/tasks/)
+
+## Google Docs
+
+[10 Google Docs Features You Might Be Missing Out On](https://www.makeuseof.com/google-docs-features-youre-missing-out-on/)
 
 ## Google Sheets/Forms
 
@@ -71,6 +75,7 @@ tags:
 ## Google Slide
 
 [Best tips for Google Slides presentations](https://www.fastcompany.com/90568459/tips-for-google-slides-presentations)
+[Google Slides Isn't Just for Presentations: 8 Ways I Use It for More](https://www.makeuseof.com/ways-to-use-google-slides-for-more-than-presentations/)
 
 ## Google App Script (GAS)
 
@@ -79,6 +84,7 @@ tags:
 ## Google Drive
 
 [How to get more space in your Google storage - The Verge](https://www.theverge.com/22286339/google-drive-storage-more-space-how-to-photos-files)
+[Stop Paying for Google Drive Storage With These 7 Tips](https://www.makeuseof.com/stop-paying-for-google-drive-storage/)
 
 [Google One Storage](https://one.google.com/storage)
 [Google One Storage Management](https://one.google.com/storage/management)
@@ -152,6 +158,8 @@ tags:
 ## Gmail
 
 [10 Chrome extensions to juice up Gmail | Computerworld](https://www.computerworld.com/article/2979569/web-browsers/chrome-extensions-to-juice-up-gmail.html)
+
+[I Never Forget to Respond to Emails Thanks to These 5 Gmail Features](https://www.makeuseof.com/never-forget-to-respond-to-emails-with-gmail-features/)
 
 [Search operators you can use with Gmail - Gmail Help](https://support.google.com/mail/answer/7190?hl=en)
 [Find emails much faster and easier with new Gmail search operators | ITworld](https://www.itworld.com/article/2717895/find-emails-much-faster-and-easier-with-new-gmail-search-operators.html)

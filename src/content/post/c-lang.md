@@ -2,7 +2,7 @@
 title: C and C++
 description: ""
 created: 2023-09-29
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - c
   - comp/lang
@@ -28,7 +28,7 @@ History of Programming papers:
 [C & GUI Programming - The MagPi MagazineThe MagPi Magazine](https://www.raspberrypi.org/magpi/issues/c-gui-programming/) for beginners, using GTK, some advanced concepts are intentionally not covered
 [The C Beginner's Handbook: Learn C Programming Language basics in just a few hours](https://www.freecodecamp.org/news/the-c-beginners-handbook/amp/)
 [Some obscure C features - Pancakes and computers](https://multun.net/obscure-c-features.html)
-[Duff's device - Wikiwand](https://omni.wikiwand.com/en/Duff%27s_device)
+[Duff's device - Wikiwand](https://www.wikiwand.com/en/Duff%27s_device)
 [C Is Not a Low-level Language - ACM Queue](https://queue.acm.org/detail.cfm?id=3212479)
 
 [7 Reasons Why You Should Keep Learning C/C++ – Simpliv LLC](https://simpliv.wordpress.com/2019/08/06/7-reasons-why-you-should-keep-learning-c-c/amp/)
@@ -46,7 +46,7 @@ History of Programming papers:
 ## Modern C++
 
 [Standard C++](https://isocpp.org/)
-[C++ Standard Library - Wikiwand](https://omni.wikiwand.com/en/C%2B%2B_Standard_Library)
+[C++ Standard Library - Wikiwand](https://www.wikiwand.com/en/C%2B%2B_Standard_Library)
 [Barry Revzin](https://brevzin.github.io/)
 [Bartek's coding blog](https://www.bfilipek.com/)
 [Modernes C++](http://modernescpp.com/index.php)
@@ -59,6 +59,10 @@ History of Programming papers:
 
 [Stroustrup: FAQ](https://www.stroustrup.com/bs_faq.html)
 [C++11 FAQ](https://www.stroustrup.com/C++11FAQ.html)
+
+[C++新特性：从C++11开始｜第50期 - YouTube](https://www.youtube.com/watch?v=eNJWAdNVpqg)
+[C++23 Library Features and Reference Cards - C++ Stories](https://www.cppstories.com/2024/cpp23_lib/)
+[C++23 Language Features and Reference Cards - C++ Stories](https://www.cppstories.com/2024/cpp23_lang/)
 
 [Bartek's coding blog: Resources](https://www.bfilipek.com/p/resources.html?m=1)
 [C++20: An (Almost) Complete Overview - Marc Gregoire - CppCon 2020 - YouTube](https://www.youtube.com/watch?v=FRkJCvHWdwQ)
@@ -331,11 +335,16 @@ Python binding available, see `cross-platform-apps-desktop.md#python`
 [Elements C++ GUI library | Elements is a lightweight, fine-grained, HDPI capable, resolution independent, modular C++ GUI library.](https://cycfi.github.io/elements/)
 [Elements C++ GUI library – Cycfi Research](https://www.cycfi.com/2019/07/photon-micro-gui/)
 
+[Clay - UI Layout Library](https://www.nicbarker.com/clay)
 [Immediate-Mode-UI/Nuklear: A single-header ANSI C immediate mode cross-platform GUI library](https://github.com/Immediate-Mode-UI/Nuklear) bindings on multiple languages
 [wjakob/nanogui: Minimalistic GUI library for OpenGL](https://github.com/wjakob/nanogui#simple-mode) Python binding
 
+[nicbarker/clay: High performance UI layout library in C.](https://github.com/nicbarker/clay)
+[Introducing Clay - High Performance UI Layout in C - YouTube](https://www.youtube.com/watch?v=DYWTw19_8r4)
+
 [idea4good/GuiLite: ✔️The smallest header-only GUI library(5 KLOC) for all platforms](https://github.com/idea4good/GuiLite) web, embedded
-[LVGL - Light and Versatile Embedded Graphics Library](https://lvgl.io/)
+
+[LVGL - Light and Versatile Embedded Graphics Library](https://lvgl.io/) for IoT devices
 
 ### CLI
 
@@ -347,12 +356,12 @@ Python binding available, see `cross-platform-apps-desktop.md#python`
 [LoopPerfect/rxterm: Functional reactive terminals in C++ ⚡⌨️](https://github.com/loopperfect/rxterm)
 [Building Reactive Terminal Interfaces in C++ – Hacker Noon](https://hackernoon.com/building-reactive-terminal-interfaces-in-c-d392ce34e649)
 
-[ncurses - Wikiwand](https://omni.wikiwand.com/en/Ncurses)
+[ncurses - Wikiwand](https://www.wikiwand.com/en/Ncurses)
 [NCURSES Programming HOWTO](http://tldp.org/HOWTO/NCURSES-Programming-HOWTO/)
 [Ncurses programming guide](http://www.cs.ukzn.ac.za/~hughm/os/notes/ncurses.html)
 [NCURSES – New Curses](https://invisible-island.net/ncurses/)
 
-[conio.h - Wikiwand](https://omni.wikiwand.com/en/Conio.h) for Windows
+[conio.h - Wikiwand](https://www.wikiwand.com/en/Conio.h) for Windows
 
 ### Boost
 

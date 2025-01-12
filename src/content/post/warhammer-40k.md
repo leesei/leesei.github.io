@@ -2,14 +2,14 @@
 title: Warhammer 40k
 description: ""
 created: 2023-06-06
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - boardgame
   - games
   - warhammer-40k
 ---
 
-[Warhammer 40,000 - Wikiwand](https://omni.wikiwand.com/en/Warhammer_40,000)
+[Warhammer 40,000 - Wikiwand](https://www.wikiwand.com/en/Warhammer_40,000)
 [Warhammer 40,000](https://warhammer40000.com/)
 [Warhammer 40k Wiki | Fandom](https://warhammer40k.fandom.com/wiki/Warhammer_40k_Wiki)
 

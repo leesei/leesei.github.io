@@ -2,7 +2,7 @@
 title: Keyboard
 description: ""
 created: 2015-06-15
-updated: 2024-08-09
+updated: 2025-01-09
 tags:
   - comp/hardware
   - logitech
@@ -12,6 +12,8 @@ tags:
 
 [KeebNews - YouTube](https://www.youtube.com/@KeebNews)
 [【硬件科普】键鼠是怎么工作的，高端主板为什么要保留 PS2 接口？8K 回报率有意义吗？ - YouTube](https://www.youtube.com/watch?v=DLyR8M4xhDM)
+[¥200和¥8000的机械键盘有什么区别？键盘侠们在折腾什么？【柴知道】 - YouTube](https://www.youtube.com/watch?v=R55RQqesrRk)
+[超詳細鍵盤入坑指南！一個視頻告訴你，鍵盤到底在買什麼！差價幾十倍的鍵盤怎麼選？包懂的！｜大狸子切切裡 - YouTube](https://www.youtube.com/watch?v=C_QfIcAkOIg)
 
 ## Switches
 
@@ -43,6 +45,11 @@ Clicky: jade
 [Myth of QWERTY vs Dvorak Layout](http://xahlee.info/kbd/myth_of_qwerty_dvorak_layout.html)
 
 [QWERTY vs Dvorak As Fast as Possible - YouTube](https://www.youtube.com/watch?annotation_id=annotation_1042960797&feature=iv&src_vid=bLBKUbnLYTs&v=tIJNusYZXMA)
+
+[dreamsofcode-io/home-row-mods](https://github.com/dreamsofcode-io/home-row-mods)
+[This weird keyboard technique has the way I type. - YouTube](https://www.youtube.com/watch?v=sLWQ4Gx88h4) home row mods
+[A guide to home row mods](https://precondition.github.io/home-row-mods)
+[jtroo/kanata: Improve keyboard comfort and usability with advanced customization](https://github.com/jtroo/kanata)
 
 ## Stenotype Machine
 
@@ -148,6 +155,7 @@ Matrix layout solves this issues
 > [[usb#Human Interface Devices (HID)]]
 
 [QMK vs ZMK, which is better now, and future? : r/ErgoMechKeyboards](https://www.reddit.com/r/ErgoMechKeyboards/comments/17bes44/qmk_vs_zmk_which_is_better_now_and_future/)
+[TMK vs QMK vs KMK vs ZMK : r/ErgoMechKeyboards](https://www.reddit.com/r/ErgoMechKeyboards/comments/17fr7te/tmk_vs_qmk_vs_kmk_vs_zmk/)
 [If you're interested in QMK, you might want to give ZMK a shot as well. The big ... | Hacker News](https://news.ycombinator.com/item?id=38992444)
 
 [dfu-programmer](https://dfu-programmer.github.io/)
@@ -220,6 +228,9 @@ Enable VIA support in QMK to support the VIA configurators
 
 [KMKfw/kmk_firmware: Clackety Keyboards Powered by Python](https://github.com/KMKfw/kmk_firmware)
 
+[Pog - Keyboard Firmware made easy | Pog](https://pog.heaper.de/)
+[JanLunge/pog: A Kmk firmware flashing and configuration tool](https://github.com/JanLunge/pog)
+
 ### ZMK
 
 > based on Zephyr RTOS
@@ -269,4 +280,3 @@ K2600/K2800 ¥104 from Taobao
 [Logi Options+ | 適用於羅技產品的軟體應用程式](https://www.logitech.com/zh-hk/software/logi-options-plus.html)
 
 [pwr-Solaar/Solaar: Linux device manager for Logitech devices](https://github.com/pwr-Solaar/Solaar) supports Unifying, Bolt and Lightspeed
-               

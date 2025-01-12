@@ -2,7 +2,7 @@
 title: Sequence and Series
 description: ""
 created: 2017-10-31
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - math
   - sequence
@@ -37,7 +37,7 @@ Like we (the human race) did to extend rational numbers to real numbers, then to
 
 Assigning sum to diverging series (`ζ(-1) = -1/12` here) has significance in many physical fields.
 
-[1 + 2 + 3 + 4 + … - Wikiwand](https://omni.wikiwand.com/zh/1_%2B_2_%2B_3_%2B_4_%2B_%E2%80%A6)
+[1 + 2 + 3 + 4 + … - Wikiwand](https://www.wikiwand.com/zh/1_%2B_2_%2B_3_%2B_4_%2B_%E2%80%A6)
 [自然数之和等于-1/12 有何含义？隐藏在卡西米尔效应中的无穷大 - YouTube](https://www.youtube.com/watch?v=7AOCCVumSmQ)
 [全体自然数之和等于负十二分之一？真相远没有那么简单！#数学 #高中数学 #math - YouTube](https://www.youtube.com/watch?v=qk6MiBtP1BE)
 
@@ -63,7 +63,7 @@ Mathologer
 
 `ζ(s) = 1/1^s+1/2^s+...` is the Riemann Zeta function, it's a series that converges when s > 1. The Riemann Hypothesis states that all non-trivial zeros of the Riemann Zeta function have a real part of 1/2.
 
-[Riemann hypothesis - Wikiwand](https://omni.wikiwand.com/en/Riemann%20Hypothesis)
+[Riemann hypothesis - Wikiwand](https://www.wikiwand.com/en/Riemann%20Hypothesis)
 s > 1 originally, Riemann ζ function analytically extended the function to complex plane and dropped this restriction
 
 Zeta regularization/Analytic continuation

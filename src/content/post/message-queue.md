@@ -2,12 +2,12 @@
 title: Message Queue
 description: ""
 created: 2015-08-03
-updated: 2024-09-07
+updated: 2025-01-09
 tags:
   - comp/database
 ---
 
-[Message broker - Wikiwand](https://omni.wikiwand.com/en/Message_broker)
+[Message broker - Wikiwand](https://www.wikiwand.com/en/Message_broker)
 [Kafka vs. RabbitMQ vs. Messaging Middleware vs. Pulsar - YouTube](https://www.youtube.com/watch?v=x4k1XEjNzYQ)
 
 [Choosing Your Messaging Protocol: AMQP, MQTT, or STOMP - VMware vFabric Blog - VMware Blogs](https://blogs.vmware.com/vfabric/2013/02/choosing-your-messaging-protocol-amqp-mqtt-or-stomp.html)
@@ -47,7 +47,7 @@ tags:
 ## AMQP
 
 [AMQP is the Internet Protocol for Business Messaging | AMQP](http://www.amqp.org/about/what)
-[Advanced Message Queuing Protocol - Wikiwand](http://omni.wikiwand.com/en/Advanced_Message_Queuing_Protocol)
+[Advanced Message Queuing Protocol - Wikiwand](http://www.wikiwand.com/en/Advanced_Message_Queuing_Protocol)
 [Messaging, AMQP and RabbitMQ - A Speed Guide - Compose Articles](https://www.compose.com/articles/messaging-amqp-and-rabbitmq-a-speed-guide/)
 [Tech Spotlight: Advanced Message Queuing Protoc... | element14 | Tech Connection](https://www.element14.com/community/docs/DOC-91119/l/tech-spotlight-advanced-message-queuing-protocol-amqp) disable JavaScript
 
@@ -69,7 +69,7 @@ tags:
 > Gateways for AMQP, HTTP, STOMP, and MQTT protocols
 
 [RabbitMQ - Messaging that just works](http://www.rabbitmq.com/)
-[RabbitMQ - Wikiwand](https://omni.wikiwand.com/en/RabbitMQ)
+[RabbitMQ - Wikiwand](https://www.wikiwand.com/en/RabbitMQ)
 [RabbitMQ Tutorials — RabbitMQ](https://www.rabbitmq.com/getstarted.html)
 
 [rabbitmq/rabbitmq-server: Open source multi-protocol messaging broker](https://github.com/rabbitmq/rabbitmq-server)
@@ -124,7 +124,7 @@ tags:
 ### ActiveMQ
 
 [Apache ActiveMQ ™](http://activemq.apache.org/)
-[Apache ActiveMQ - Wikiwand](https://omni.wikiwand.com/en/Apache_ActiveMQ)
+[Apache ActiveMQ - Wikiwand](https://www.wikiwand.com/en/Apache_ActiveMQ)
 [ActiveMQ in Action Introduction](https://freecontent.manning.com/wp-content/uploads/introduction-to-apache-activemq.pdf)
 
 Supports AMQP, REST, STOMP, MQTT, OpenWire, XMPP and WebSockets.
@@ -139,7 +139,7 @@ Supports AMQP, REST, STOMP, MQTT, OpenWire, XMPP and WebSockets.
 > not actually a message queue, but the building blocks of one
 
 [ZeroMQ](https://zeromq.org/)
-[ZeroMQ - Wikiwand](https://omni.wikiwand.com/en/ZeroMQ)
+[ZeroMQ - Wikiwand](https://www.wikiwand.com/en/ZeroMQ)
 [The ZeroMQ project](https://github.com/zeromq) GitHub Org
 [Pieter Hintjens talks about ZeroMQ and open source at CERN, 27 June 2013 - YouTube](https://www.youtube.com/watch?v=fh89cdAIiNg) history and design
 Why should I have written ZeroMQ in C, not C++ [part I](https://250bpm.com/blog:4/) [part II](https://250bpm.com/blog:8/)
@@ -284,14 +284,14 @@ ditched POSIX API, allows callback rather than forcing one to poll file descript
 ## AMQP
 
 [Home | AMQP](https://www.amqp.org/)
-[Advanced Message Queuing Protocol - Wikiwand](https://omni.wikiwand.com/en/Advanced_Message_Queuing_Protocol)
+[Advanced Message Queuing Protocol - Wikiwand](https://www.wikiwand.com/en/Advanced_Message_Queuing_Protocol)
 
 [Designed for Performance & Reliability - OpenAMQ](http://openamq.wikidot.com/) obsolete
 
 ## COAP
 
 [CoAP — Constrained Application Protocol | Overview](http://coap.technology/)
-[Constrained Application Protocol - Wikiwand](https://omni.wikiwand.com/en/Constrained_Application_Protocol)
+[Constrained Application Protocol - Wikiwand](https://www.wikiwand.com/en/Constrained_Application_Protocol)
 [RFC 7252 - The Constrained Application Protocol (CoAP)](https://datatracker.ietf.org/doc/html/rfc7252)
 [HTTP vs CoAP · Issue #10 · mcollina/node-coap](https://github.com/mcollina/node-coap/issues/10)
 [Tech Spotlight: The CoAP Protocol | element14 | Tech Connection](https://www.element14.com/community/docs/DOC-90554/l/tech-spotlight-the-coap-protoco) disable JavaScript
@@ -303,7 +303,7 @@ ditched POSIX API, allows callback rather than forcing one to poll file descript
 MQTT is a pub/sub broker rather than a message queue
 
 [MQTT](http://mqtt.org/)
-[MQTT - Wikiwand](http://omni.wikiwand.com/en/MQTT)
+[MQTT - Wikiwand](http://www.wikiwand.com/en/MQTT)
 
 [MQTT Specification](https://mqtt.org/mqtt-specification/)
 [Differences between 3.1.1 and 5.0 · mqtt/mqtt.org Wiki](https://github.com/mqtt/mqtt.org/wiki/Differences-between-3.1.1-and-5.0)
@@ -332,7 +332,7 @@ MQTT is a pub/sub broker rather than a message queue
 
 ## XMPP
 
-[XMPP - Wikiwand](https://omni.wikiwand.com/en/XMPP)
+[XMPP - Wikiwand](https://www.wikiwand.com/en/XMPP)
 [XMPP | XMPP Main](https://xmpp.org/)
 [Tech Spotlight: The XMPP Protocol | element14 | Tech Connection](https://www.element14.com/community/docs/DOC-92109/l/tech-spotlight-the-xmpp-protoco) disable JavaScript
 

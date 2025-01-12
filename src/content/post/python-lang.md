@@ -2,7 +2,7 @@
 title: Python notes
 description: ""
 created: 2014-12-11
-updated: 2024-09-19
+updated: 2025-01-09
 tags:
   - comp/lang
   - python
@@ -142,8 +142,7 @@ Python version should be a requirement to be satisfied (by pinning particular ve
 
 [Automate with Python – Full Course for Beginners - YouTube](https://www.youtube.com/watch?v=PXMJ6FS7llk)
 [What Does It Take To Be An Expert At Python? - YouTube](https://www.youtube.com/watch?v=7lmCu8wz8ro)
-[Expert Python Tutorials - YouTube](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP)
-Tech With Tim
+[Expert Python Tutorials - YouTube](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP) Tech With Tim
 [anthony explains - YouTube](https://www.youtube.com/playlist?list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY) intermediate topics
 [Talk Python Training - Python tutorials and courses for developers](https://training.talkpython.fm/) I've bought some courses here
 [Python Practice Problems: Get Ready for Your Next Interview – Real Python](https://realpython.com/python-practice-problems/#python-practice-problem-3-caesar-cipher-redux)
@@ -664,7 +663,7 @@ class Person:
 
 ## docstring
 
-[Docstring - Wikiwand](https://omni.wikiwand.com/en/Docstring#/Python)
+[Docstring - Wikiwand](https://www.wikiwand.com/en/Docstring#/Python)
 
 [27.2. pydoc — Documentation generator and online help system — Python documentation](https://docs.python.org/3/library/pydoc.html)
 [Charming Python: pydoc and distutils modules](https://www.ibm.com/developerworks/linux/library/l-cpmod/index.html)
@@ -732,6 +731,8 @@ Use `dis.dis()` to pretty print a function's byte code; see `adaptive`, `show_ca
 [Python moves to remove the GIL and boost concurrency | InfoWorld](https://www.infoworld.com/article/3704248/python-moves-to-remove-the-gil-and-boost-concurrency.html)
 [Talks - Łukasz Langa: Working Around the GIL with asyncio - YouTube](https://www.youtube.com/watch?v=oVhJAVS3g00)
 [python is removing the GIL! (PEP 703) (advanced) anthony explains #550 - YouTube](https://www.youtube.com/watch?v=OC2gnyfmwL8)
+
+[Python Thread Safety: Using a Lock and Other Techniques – Real Python](https://realpython.com/python-thread-lock/)
 
 [Understanding the Python GIL - YouTube](https://www.youtube.com/watch?v=Obt-vMVdM8s)
 [Talks - Alireza Farhidzadeh: Getting Around the GIL: Parallelizing Python for Better Performance - YouTube](https://www.youtube.com/watch?v=7d2FLFu2zJY)
@@ -894,6 +895,7 @@ Use `@property` declaration to abstract member access or derived/computed attrib
 [the python @property decorator (beginner - intermediate) anthony explains #005 - YouTube](https://www.youtube.com/watch?v=orp6bhe4i00) `cached_property`
 [python typing: @property (beginner - intermediate) anthony explains #117 - YouTube](https://www.youtube.com/watch?v=Q0K8CKn5htI)
 
+[Python's property(): Add Managed Attributes to Your Classes – Real Python](https://realpython.com/python-property/)
 [Python: Declaring Dynamic Attributes](https://amir.rachum.com/python-dynamic-attributes/)
 [Python Attribute Access and the Descriptor Protocol](https://amir.rachum.com/amp/blog/2019/10/16/descriptors.html)
 [8 things in Python you didn't realize are descriptors - YouTube](https://www.youtube.com/watch?v=mMbVs17Vmo4) 3.0, Descriptor, `__getattribute__()`,`__getattr__()`

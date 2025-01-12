@@ -2,7 +2,7 @@
 title: DevOps
 description: ""
 created: 2016-02-17
-updated: 2024-09-23
+updated: 2025-01-09
 tags:
   - dev/deploy
   - devops
@@ -10,8 +10,8 @@ tags:
 
 > lots of known unknowns and unknown unknowns here
 
-[DevOps - Wikiwand](http://omni.wikiwand.com/en/DevOps)
-[System administrator - Wikiwand](http://omni.wikiwand.com/en/System_administrator)
+[DevOps - Wikiwand](http://www.wikiwand.com/en/DevOps)
+[System administrator - Wikiwand](http://www.wikiwand.com/en/System_administrator)
 
 [DevOps'ish](https://devopsish.com/)
 [The devo.ps blog | devo.ps](http://devo.ps/blog/)
@@ -146,7 +146,7 @@ Map set of works to limited resources, simply put: where to execute the next nod
 Abstracts infrastructure provider
 Takes app and deploy to machine
 
-[Category:Cloud infrastructure - Wikiwand](http://omni.wikiwand.com/en/Category:Cloud_infrastructure)
+[Category:Cloud infrastructure - Wikiwand](http://www.wikiwand.com/en/Category:Cloud_infrastructure)
 [DevOps for University Students — DevOps for University Students 2014.02.19 documentation](http://lancealbertson.com/slides/devopsbootcamp-scale12x/)
 [Docker And Kubernetes: Furthering The Goals Of DevOps Automation](https://www.forbes.com/sites/forbestechcouncil/2018/10/10/docker-and-kubernetes-furthering-the-goals-of-devops-automation/amp/)
 
@@ -202,7 +202,7 @@ Takes app and deploy to machine
 Enable iDRAC in BIOS or front panel.
 I prefer to use DHCP and connect the iDRAC LAN port only when necessary.
 
-[Intelligent Platform Management Interface - Wikiwand](https://omni.wikiwand.com/en/Intelligent_Platform_Management_Interface)
+[Intelligent Platform Management Interface - Wikiwand](https://www.wikiwand.com/en/Intelligent_Platform_Management_Interface)
 [Supermicro IPMIview Remote Monitoring Management KVM-over-IP](http://www.servethehome.com/supermicro-ipmiview-review-remote-server-monitoring-management-ipmi-20-kvm-over-ip/)
 [Supermicro IPMI](https://www.boston.co.uk/technical/2016/03/supermicro-ipmi.aspx)
 [Dell iDRAC 8 Enterprise Overview: Excellent server management](https://www.servethehome.com/dell-idrac-8-enterprise-overview/)
@@ -516,6 +516,7 @@ Nerve register the service to Zookeeper cluster, Synapse subscribe to the servic
 Strategy:
 Check every X minutes, recheck every Y minutes up to N times before generating an alert (Y < X).
 
+[State of Observability 2024: Embracing OpenTelemetry for Better Insights](https://www.itprotoday.com/it-management/state-of-observability-2024-embracing-opentelemetry-for-better-insights)
 [Observability - kubedex.com](https://kubedex.com/observability-time-series-vs-logging-vs-tracing/)
 
 - time series
@@ -615,6 +616,8 @@ Goals for a logging system:
 
 One way is to persistent log to `fluentd` for 2 weeks and then store them in Elasticsearch
 
+[12 Logging BEST Practices in 12 minutes - YouTube](https://www.youtube.com/watch?v=I2mWnh66Bkg)
+
 [Centralized Logging and Monitoring | Technology Conversations](http://technologyconversations.com/2016/02/17/centralized-logging-and-monitoring/)
 
 [Customizing Kubernetes Logging (Part 1) – Google Cloud Platform - Community – Medium](https://medium.com/google-cloud/customizing-kubernetes-logging-part-1-a1e5791dcda8)
@@ -633,7 +636,7 @@ One way is to persistent log to `fluentd` for 2 weeks and then store them in Ela
 [Application Performance Monitoring & Error Tracking Software | Sentry](https://sentry.io/welcome/) cross platform SDK to collect log and errors
 [getsentry/sentry: Developer-first error tracking and performance monitoring](https://github.com/getsentry/sentry)
 
-[Open Source: Declarative Tracking for React Apps | by Jeremy Gayed | NYT Open](https://open.nytimes.com/introducing-react-tracking-declarative-tracking-for-react-apps-2c76706bb79a?gi=bcb81208841f)
+[Open Source: Declarative Tracking for React Apps | by Jeremy Gayed | NYT Open](https://open.nytimes.com/introducing-react-tracking-declarative-tracking-for-react-apps-2c76706bb79a)
 [nytimes/react-tracking: 🎯 Declarative tracking for React apps.](https://github.com/NYTimes/react-tracking)
 [react-tracking: Declarative tracking for React apps - LogRocket Blog](https://blog.logrocket.com/react-tracking-declarative-tracking-react-apps/)
 [react-tracking: Declarative tracking for React apps - LogRocket Blog](https://blog.logrocket.com/react-tracking-declarative-tracking-react-apps/)

@@ -2,16 +2,16 @@
 title: Floating Point Number
 description: Floating point number in computer is only an *approximation* of the actual value
 created: 2023-03-18
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - comp/fundamental
   - learning
   - math
 ---
 
-[IEEE 754-2008 revision - Wikiwand](https://omni.wikiwand.com/en/IEEE_754-2008)
-[Floating-point arithmetic - Wikiwand](https://omni.wikiwand.com/en/Floating-point_arithmetic)
-[Unit in the last place - Wikiwand](https://omni.wikiwand.com/en/Unit_in_the_last_place) the spacing between two consecutive floating-point numbers
+[IEEE 754-2008 revision - Wikiwand](https://www.wikiwand.com/en/IEEE_754-2008)
+[Floating-point arithmetic - Wikiwand](https://www.wikiwand.com/en/Floating-point_arithmetic)
+[Unit in the last place - Wikiwand](https://www.wikiwand.com/en/Unit_in_the_last_place) the spacing between two consecutive floating-point numbers
 
 Since the number of segments between the power of twos are limited by the number of bits of the mantissa, this space will increase as the numbers increases.
 
@@ -22,7 +22,7 @@ Since the number of segments between the power of twos are limited by the number
 
 ## Fast Inverse Square Root
 
-[Fast inverse square root - Wikiwand](https://omni.wikiwand.com/en/Fast_inverse_square_root)
+[Fast inverse square root - Wikiwand](https://www.wikiwand.com/en/Fast_inverse_square_root)
 [Fast Inverse Square Root — A Quake III Algorithm - YouTube](https://www.youtube.com/watch?v=p8u_k2LIZyo) explaining IEEE 754
 [REVEALED: Quake III's SECRET Algorithm! - YouTube](https://www.youtube.com/watch?v=uCv5VRf8op0)
 [The Truth about the Fast Inverse Square Root on the N64 - YouTube](https://www.youtube.com/watch?v=tmb6bLbxd08) when it is applicable (normalization) and performance improvement
@@ -38,7 +38,7 @@ Since the number of segments between the power of twos are limited by the number
 
 ## Single-precision and Double-precision
 
-[Single-precision floating-point format - Wikiwand](https://omni.wikiwand.com/en/Single-precision_floating-point_format)
+[Single-precision floating-point format - Wikiwand](https://www.wikiwand.com/en/Single-precision_floating-point_format)
 
 ```
 # protocol "Fraction:23,Exponent:8,S:1"
@@ -55,7 +55,7 @@ https://wikimedia.org/api/rest_v1/media/math/render/svg/908c155d6002beadf2df5a7c
 {\displaystyle {\text{value}}=(-1)^{\text{sign}}\times 2^{(E-127)}\times \left(1+\sum _{i=1}^{23}b_{23-i}2^{-i}\right).}
 ```
 
-[Double-precision floating-point format - Wikiwand](https://omni.wikiwand.com/en/Double-precision_floating-point_format)
+[Double-precision floating-point format - Wikiwand](https://www.wikiwand.com/en/Double-precision_floating-point_format)
 
 ```
 # protocol "Fraction:52,Exponent:11,S:1"

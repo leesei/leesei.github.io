@@ -2,19 +2,22 @@
 title: Documentation
 description: ""
 created: 2015-06-17
-updated: 2024-05-08
+updated: 2025-01-09
 tags:
   - comp/lang
   - documentation
   - static-site
 ---
 
+Static site generators supporting file-based routing are also candidates for documentation generator.
+
 [[docusaurus]]
-[[gitbook]]
+[[astro]]
 [[nextjs#Nextra]]
 [[static-sites#Eleventy/11ty]]
 [[static-sites#VitePress]]
 [[static-sites#VuePress]]
+[[gitbook]]
 
 # Documentation
 

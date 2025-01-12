@@ -2,7 +2,7 @@
 title: C#
 description: ""
 created: 2020-04-23
-updated: 2024-09-23
+updated: 2025-01-09
 tags:
   - c-sharp
   - comp/lang

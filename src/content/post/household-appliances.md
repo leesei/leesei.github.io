@@ -2,7 +2,7 @@
 title: Household Appliances
 description: ""
 created: 2018-07-05
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - aircon
   - cooler
@@ -17,13 +17,13 @@ tags:
 
 [Reviews and Ratings - RTINGS.com](https://www.rtings.com/)
 
-[先看评测 - YouTube](https://www.youtube.com/channel/UCf4YPrRO2clAH-zJcomJaGw)
-[FView Official Channel - YouTube](https://www.youtube.com/channel/UC6ISXkvMtP_Je1ITiYIJSSA)
-[TESTV - YouTube](https://www.youtube.com/channel/UC9v3JGut2Z1PxrXEpGzgEAA)
-[凰家评测 Phoenix Lab - YouTube](https://www.youtube.com/channel/UC7r1EcBC-zv-6apYGgVmFEw)
-[深入了解PreInsight - YouTube](https://www.youtube.com/@preinsight/featured)
+[先看评测 - YouTube](https://www.youtube.com/@%E5%85%88%E7%9C%8B%E8%AF%84%E6%B5%8B)
+[爱否科技 - YouTube](https://www.youtube.com/@FView-CN)
+[TESTV - YouTube](https://www.youtube.com/@testvcn)
+[凰家评测 - YouTube](https://www.youtube.com/@ifengTech)
+[深入了解PreInsight - YouTube](https://www.youtube.com/@preinsight)
 
-[海賊王 DIY 日記 - YouTube](https://www.youtube.com/channel/UCQzC7WhCU9kZR7zYmGy98zA) fixing household appliances
+[海賊王DIY日記 - YouTube](https://www.youtube.com/@pirate-king) fixing household appliances
 
 [空气炸锅翻红，降糖无油高科技？网红小家电有多少是智商税？- IC实验室出品 - YouTube](https://www.youtube.com/watch?v=betmyzALb1Q) 廚房小家電
 
@@ -41,9 +41,9 @@ tags:
 
 # HVAC
 
-[Heating, ventilation, and air conditioning - Wikiwand](https://omni.wikiwand.com/en/Heating,_ventilation,_and_air_conditioning)
-[Air conditioning - Wikiwand](https://omni.wikiwand.com/en/Air_conditioning)
-[Ventilation (architecture) - Wikiwand](<https://omni.wikiwand.com/en/Ventilation_(architecture)>)
+[Heating, ventilation, and air conditioning - Wikiwand](https://www.wikiwand.com/en/Heating,_ventilation,_and_air_conditioning)
+[Air conditioning - Wikiwand](https://www.wikiwand.com/en/Air_conditioning)
+[Ventilation (architecture) - Wikiwand](<https://www.wikiwand.com/en/Ventilation_(architecture)>)
 
 - compressor 壓縮機
 - radiator
@@ -80,8 +80,8 @@ Two Bit da Vinci
 
 ## Refrigerator
 
-[Refrigeration - Wikiwand](https://omni.wikiwand.com/en/Refrigeration)
-[Refrigerator - Wikiwand](https://omni.wikiwand.com/en/Refrigerator)
+[Refrigeration - Wikiwand](https://www.wikiwand.com/en/Refrigeration)
+[Refrigerator - Wikiwand](https://www.wikiwand.com/en/Refrigerator)
 
 [【※選購秘笈】18 款雪櫃冰箱大比拼！原理、功能、比較、買前考慮！對比一圖睇曬！VNT 輕鬆小棧 - YouTube](https://www.youtube.com/watch?v=pxuY0tERF9I)
 
@@ -90,16 +90,16 @@ Two Bit da Vinci
 
 [Energy Label Net | 能源標籤網](https://www.emsd.gov.hk/energylabel/en/households/ref/select_ref.php)
 
-[Heat pump and refrigeration cycle - Wikiwand](https://omni.wikiwand.com/en/Heat_pump_and_refrigeration_cycle)
-[Vapor-compression refrigeration - Wikiwand](https://omni.wikiwand.com/en/Vapor-compression_refrigeration)
-[Absorption refrigerator - Wikiwand](https://omni.wikiwand.com/en/Absorption_refrigerator)
-[Magnetic refrigeration - Wikiwand](https://omni.wikiwand.com/en/Magnetic_refrigeration)
+[Heat pump and refrigeration cycle - Wikiwand](https://www.wikiwand.com/en/Heat_pump_and_refrigeration_cycle)
+[Vapor-compression refrigeration - Wikiwand](https://www.wikiwand.com/en/Vapor-compression_refrigeration)
+[Absorption refrigerator - Wikiwand](https://www.wikiwand.com/en/Absorption_refrigerator)
+[Magnetic refrigeration - Wikiwand](https://www.wikiwand.com/en/Magnetic_refrigeration)
 
-[Compressor - Wikiwand](https://omni.wikiwand.com/en/Compressor)
-[Evaporator - Wikiwand](https://omni.wikiwand.com/en/Evaporator)
-[Power inverter - Wikiwand](https://omni.wikiwand.com/en/Power_inverter)
+[Compressor - Wikiwand](https://www.wikiwand.com/en/Compressor)
+[Evaporator - Wikiwand](https://www.wikiwand.com/en/Evaporator)
+[Power inverter - Wikiwand](https://www.wikiwand.com/en/Power_inverter)
 
-[Glycol Chillers - Wikiwand](https://omni.wikiwand.com/en/Glycol_Chillers)
+[Glycol Chillers - Wikiwand](https://www.wikiwand.com/en/Glycol_Chillers)
 
 ## Air Conditioner
 
@@ -117,7 +117,7 @@ Two Bit da Vinci
 [Energy Label Net | 能源標籤網](https://www.emsd.gov.hk/energylabel/en/households/rac/select_ac_result.php?type=all)
 
 [Portable Air Conditioners - Why you shouldn't like them - YouTube](https://www.youtube.com/watch?v=_-mBeYC2KGc)
-[Air conditioning - Wikiwand](https://omni.wikiwand.com/en/Air_conditioning#/History)
+[Air conditioning - Wikiwand](https://www.wikiwand.com/en/Air_conditioning#/History)
 
 **定頻**
 總會保持固定的輸出功率，當房間達到預定溫度時，就會停止運轉。當感溫裝置測到室內溫度高於預定溫度時，冷氣機會重新啟動。由於會持續重複暫停、重新啟動兩個動作，所以室溫的變動幅度會較大，耗電量亦較高。
@@ -321,6 +321,9 @@ Siemens LU83S750HK $2418@2020
 # Television
 
 [[displays]]
+
+[Use These 3 Handy Tools to Figure Out What TV Size You Need](https://www.makeuseof.com/free-tools-figure-out-what-tv-size-needed/)
+[TV Size and Viewing Distance Calculator - Inch Calculator](https://www.inchcalculator.com/tv-size-viewing-distance-calculator/)
 
 Panasonic TH-L50EM6 VIERA® LED TV \$6464@2014
 [TH-L50EM6 VIERA® LED TV - Panasonic](https://www.panasonic.com/middleeast/en/support/product-archive/tv/th-l50em6.html)

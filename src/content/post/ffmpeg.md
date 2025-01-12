@@ -2,7 +2,7 @@
 title: ffmpeg
 description: A complete, cross-platform solution to record, convert and stream audio and video.
 created: 2015-01-13
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - app
   - avconv
@@ -10,7 +10,7 @@ tags:
   - shell-tool
 ---
 
-[FFmpeg - Wikiwand](https://omni.wikiwand.com/en/FFmpeg)
+[FFmpeg - Wikiwand](https://www.wikiwand.com/en/FFmpeg)
 [FFmpeg](https://ffmpeg.org/)
 
 [libavcodec - What is ffmpeg, avcodec, x264? - Stack Overflow](https://stackoverflow.com/questions/16772558/what-is-ffmpeg-avcodec-x264)
@@ -167,7 +167,7 @@ Using per frame palettes:
 
 > Libav/avconv are dead as of 2022
 
-[Libav - Wikiwand](https://omni.wikiwand.com/en/Libav)
+[Libav - Wikiwand](https://www.wikiwand.com/en/Libav)
 Libav is a fork of FFmpeg in 2011 with more transparent governance.
 But the maintainers failed to maintain their original intention and rejected to merge changes from FFmpeg.
 They managed to keep their popularity as Debian/Ubuntu used it as default and claiming FFMpeg that is obsolete. That changed in 2015 and momentum to Libav is lost.

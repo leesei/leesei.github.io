@@ -2,7 +2,7 @@
 title: 中國歷史
 description: ""
 created: 2015-10-09
-updated: 2024-09-29
+updated: 2025-01-09
 tags:
   - history
   - history/chinese
@@ -10,10 +10,10 @@ tags:
 
 [中国古代史（中国历史）\_百度百科](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E5%8F%B2/3093)
 《一本書看懂中國史》
-[中国历史 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2)
+[中国历史 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2)
 [《中华上下五千年》在线阅读-名著小说全文阅读-读书 369](http://www.dushu369.com/gushi/zhsxwqn/)
 [主頁 | 中國文化研究院 - 燦爛的中國文明](https://chiculture.org.hk/)
-[History of China - Wikiwand](https://omni.wikiwand.com/en/History_of_China)
+[History of China - Wikiwand](https://www.wikiwand.com/en/History_of_China)
 [Ancient China: Religion and Dynasties | HISTORY.com - HISTORY](https://www.history.com/topics/ancient-china)
 
 [中國河流詳細介紹，分為九大流域片、七大水系，了解河流分佈情況。#中國地理 #中國河流 - YouTube](https://www.youtube.com/watch?v=wRZ8w_4JBzs)
@@ -36,8 +36,8 @@ tags:
 [歷史面面觀 - YouTube](https://www.youtube.com/@history_aspects)
 [李天豪 - YouTube](https://www.youtube.com/@leecehao)
 
-[封建制度 (中國) - Wikiwand](<https://omni.wikiwand.com/zh/%E5%B0%81%E5%BB%BA%E5%88%B6%E5%BA%A6_(%E4%B8%AD%E5%9C%8B)>)
-[六藝 - Wikiwand](https://omni.wikiwand.com/zh/%E5%85%AD%E8%89%BA)
+[封建制度 (中國) - Wikiwand](<https://www.wikiwand.com/zh/%E5%B0%81%E5%BB%BA%E5%88%B6%E5%BA%A6_(%E4%B8%AD%E5%9C%8B)>)
+[六藝 - Wikiwand](https://www.wikiwand.com/zh/%E5%85%AD%E8%89%BA)
 
 [竹書紀年 - 维基文库，自由的图书馆](https://zh.wikisource.org/wiki/%E7%AB%B9%E6%9B%B8%E7%B4%80%E5%B9%B4) 戰國魏襄王之墓, 竹簡於晉朝出土
 [老梁：惊世骇俗的《竹书纪年》 - YouTube](https://www.youtube.com/watch?v=nakmmgj0izE)
@@ -65,7 +65,7 @@ tags:
 
 ## 姓氏
 
-[氏 - Wikiwand](https://omni.wikiwand.com/zh/%E6%B0%8F)
+[氏 - Wikiwand](https://www.wikiwand.com/zh/%E6%B0%8F)
 [https://www.bastillepost.com/hongkong/article/10046267-古代「姓」「氏」有區別%E3%80%80 今日「十大百家姓」是](https://www.bastillepost.com/hongkong/article/10046267-%E5%8F%A4%E4%BB%A3%E3%80%8C%E5%A7%93%E3%80%8D%E3%80%8C%E6%B0%8F%E3%80%8D%E6%9C%89%E5%8D%80%E5%88%A5%E3%80%80%E4%BB%8A%E6%97%A5%E3%80%8C%E5%8D%81%E5%A4%A7%E7%99%BE%E5%AE%B6%E5%A7%93%E3%80%8D%E6%98%AF)
 [上古起源？一期带你看懂华夏姓氏五千年发展史 - YouTube](https://www.youtube.com/watch?v=J830TDy6QT8) 姓是氏的源頭, 氏是姓的分支
 [姓氏故事 - YouTube](https://www.youtube.com/playlist?list=PLD3Ywi8n56O6WdwULxUsed6411ZudHwe5) 自說自話的總裁
@@ -94,12 +94,12 @@ tags:
 
 ## 官制
 
-[周禮 - Wikiwand](https://omni.wikiwand.com/zh/%E5%91%A8%E7%A6%AE)
-[周朝官制 - Wikiwand](https://omni.wikiwand.com/zh/%E5%91%A8%E6%9C%9D%E5%AE%98%E5%88%B6)
-[三公 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%89%E5%85%AC)
-[三少 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%89%E5%B0%91)
-[六卿 - Wikiwand](https://omni.wikiwand.com/zh/%E5%85%AD%E5%8D%BF)
-[諸侯 - Wikiwand](https://omni.wikiwand.com/zh/%E8%AF%B8%E4%BE%AF)
+[周禮 - Wikiwand](https://www.wikiwand.com/zh/%E5%91%A8%E7%A6%AE)
+[周朝官制 - Wikiwand](https://www.wikiwand.com/zh/%E5%91%A8%E6%9C%9D%E5%AE%98%E5%88%B6)
+[三公 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%89%E5%85%AC)
+[三少 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%89%E5%B0%91)
+[六卿 - Wikiwand](https://www.wikiwand.com/zh/%E5%85%AD%E5%8D%BF)
+[諸侯 - Wikiwand](https://www.wikiwand.com/zh/%E8%AF%B8%E4%BE%AF)
 
 天官冢宰第一：本章總述政府官制，北周時代據此設立「吏部」，掌管政府官員。
 地官司徒第二：本章描述民政與財政制度，北周時代據此設立「戶部」，掌管戶籍和徵稅。
@@ -108,16 +108,16 @@ tags:
 秋官司寇第五：本章描述司法與外交制度，北周時代據此設立「刑部」，掌管法律和刑罰。
 冬官考工記第六：本章描述各種工具器物的製作方法與國家工程準則，北周時代據此設立「工部」，掌管工程方面。
 
-[官制 - Wikiwand](https://omni.wikiwand.com/zh/%E5%AE%98%E5%88%B6)
+[官制 - Wikiwand](https://www.wikiwand.com/zh/%E5%AE%98%E5%88%B6)
 
 ## 神話/上古傳說
 
 [[mythology#Chinese]]
 
 5800 B.C. [高廟文化\_百度百科](https://baike.baidu.hk/item/%E9%AB%98%E5%BB%9F%E6%96%87%E5%8C%96/13217779) 湖南
-5000-2700 B.C. [仰韶文化 - Wikiwand](https://omni.wikiwand.com/zh-hk/%E4%BB%B0%E9%9F%B6%E6%96%87%E5%8C%96) 黄河中游
-4900-2900 B.C. [紅山文化 - Wikiwand](https://omni.wikiwand.com/zh-hk/%E7%BA%A2%E5%B1%B1%E6%96%87%E5%8C%96) 北京
-3000-1900 B.C. [龍山文化 - Wikiwand](https://omni.wikiwand.com/zh-hk/%E9%BE%99%E5%B1%B1%E6%96%87%E5%8C%96) 山東
+5000-2700 B.C. [仰韶文化 - Wikiwand](https://www.wikiwand.com/zh-hk/%E4%BB%B0%E9%9F%B6%E6%96%87%E5%8C%96) 黄河中游
+4900-2900 B.C. [紅山文化 - Wikiwand](https://www.wikiwand.com/zh-hk/%E7%BA%A2%E5%B1%B1%E6%96%87%E5%8C%96) 北京
+3000-1900 B.C. [龍山文化 - Wikiwand](https://www.wikiwand.com/zh-hk/%E9%BE%99%E5%B1%B1%E6%96%87%E5%8C%96) 山東
 
 中國歷史文最早文字紀錄為殷墟的甲骨文, 距今為~3000 年
 [考古 - YouTube](https://www.youtube.com/playlist?list=PLAnIBQR8Pi48B68lOBEUyc1ue1HeyYtce) 悟空的宝箱
@@ -126,8 +126,8 @@ tags:
 ## 朝代
 
 [中國朝代 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-hk/%E4%B8%AD%E5%9B%BD%E6%9C%9D%E4%BB%A3?oldformat=true)
-[中國年號列表 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%AD%E5%9B%BD%E5%B9%B4%E5%8F%B7%E5%88%97%E8%A1%A8)
-[中国历史年表 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%E5%B9%B4%E8%A1%A8)
+[中國年號列表 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%AD%E5%9B%BD%E5%B9%B4%E5%8F%B7%E5%88%97%E8%A1%A8)
+[中国历史年表 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%E5%B9%B4%E8%A1%A8)
 [中國古代十三個國號的由來，唐朝國號最唯美，宋朝國號最附會 - YouTube](https://www.youtube.com/watch?v=rWdlH_fJXHg)
 
 [中國歷史 24 個朝代，每個朝代滅亡原因是什麼？ - YouTube](https://www.youtube.com/watch?v=np2SOHeGpCA)
@@ -152,18 +152,18 @@ tags:
 明, 姓朱
 清, 姓愛新覺羅
 
-[夏商周断代工程 - Wikiwand](https://omni.wikiwand.com/zh/%E5%A4%8F%E5%95%86%E5%91%A8%E6%96%AD%E4%BB%A3%E5%B7%A5%E7%A8%8B)
+[夏商周断代工程 - Wikiwand](https://www.wikiwand.com/zh/%E5%A4%8F%E5%95%86%E5%91%A8%E6%96%AD%E4%BB%A3%E5%B7%A5%E7%A8%8B)
 [消失的神秘诸侯国 (上) 西周诸侯国神秘消失 历史上未曾记载 - YouTube](https://www.youtube.com/watch?v=r1gp4IWr50Y)
 [消失的神秘诸侯国 (下) 西周诸侯国神秘消失 历史上未曾记载 - YouTube](https://www.youtube.com/watch?v=rYG2WgIxjGQ)
 
-[南越国 - Wikiwand](https://omni.wikiwand.com/zh/%E5%8D%97%E8%B6%8A%E5%9B%BD)
+[南越国 - Wikiwand](https://www.wikiwand.com/zh/%E5%8D%97%E8%B6%8A%E5%9B%BD)
 
 ### 版圖
 
 [[philosophy#Sovereignty]]
 
 [史图馆 Histodome - YouTube](https://www.youtube.com/channel/UCqVd0cpvMnzigYTeyMYCq2w)
-[中國疆域史 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%AD%E5%9B%BD%E7%96%86%E5%9F%9F%E5%8F%B2)
+[中國疆域史 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%AD%E5%9B%BD%E7%96%86%E5%9F%9F%E5%8F%B2)
 [中 國 歷 代 版 圖](https://www.chiculture.net/9001/map/index.htm) downloaded offline
 [中華五千年 - 歷代與疆土 | 中國文化研究院 - 燦爛的中國文明](https://chiculture.org.hk/tc/dynasty-and-territory)
 
@@ -179,6 +179,8 @@ tags:
 
 [中國歷史朝代地圖，看看他們打拚下來的是怎樣的一個國度（二） - 每日頭條](https://kknews.cc/history/62pl3zp.html)
 [中國歷史朝代地圖，他們拼的是怎樣一個天下（三） - 每日頭條](https://kknews.cc/history/l2e42og.html)
+
+[为什么新疆是中国固有领土，但越南却不是？中国固有领土，到底多大？20分钟讲透【中国】演变800年 - YouTube](https://www.youtube.com/watch?v=Z1Xdu1AJBB8)
 
 李天豪
 [中國自古以來有多大？ - YouTube](https://www.youtube.com/watch?v=A6JYZFwy_xA)
@@ -226,44 +228,45 @@ tags:
 
 ## 夏
 
-[夏朝 - Wikiwand](https://omni.wikiwand.com/zh/%E5%A4%8F%E6%9C%9D) 2100BC-1700BC
+[夏朝 - Wikiwand](https://www.wikiwand.com/zh/%E5%A4%8F%E6%9C%9D) 2100BC-1700BC
 [夏朝君主列表 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-hk/%E5%A4%8F%E6%9C%9D%E5%90%9B%E4%B8%BB%E5%88%97%E8%A1%A8?oldformat=true)
 
-[禹 - Wikiwand](https://omni.wikiwand.com/zh/%E7%A6%B9) 治大洪水, 受舜禪讓帝位; 平雲貴苗疆的三苗放族(九黎遺民)
-[啟 - Wikiwand](https://omni.wikiwand.com/zh/%E5%90%AF)
-[桀 - Wikiwand](https://omni.wikiwand.com/zh/%E6%A1%80)
+[禹 - Wikiwand](https://www.wikiwand.com/zh/%E7%A6%B9) 治大洪水, 受舜禪讓帝位; 平雲貴苗疆的三苗放族(九黎遺民)
+[啟 - Wikiwand](https://www.wikiwand.com/zh/%E5%90%AF)
+[桀 - Wikiwand](https://www.wikiwand.com/zh/%E6%A1%80)
 
 [(開啟字幕) 證據確鑿？西方學者也不承認夏朝的原因，中國到底有三千年還是四千年信史？20210402 - YouTube](https://www.youtube.com/watch?v=aapAXHp59o4)
 [1950年中国一本禁书，撕开清洗3000年的夏朝的真相！ - YouTube](https://www.youtube.com/watch?v=k4k4bwWrXCA)
 
 ## 商
 
-[商朝 - Wikiwand](https://omni.wikiwand.com/zh/%E5%95%86%E6%9C%9D) 1700BC-1100BC
-[商朝君主列表 - Wikiwand](https://omni.wikiwand.com/zh/%E5%95%86%E6%9C%9D%E5%90%9B%E4%B8%BB%E5%88%97%E8%A1%A8)
+[商朝 - Wikiwand](https://www.wikiwand.com/zh/%E5%95%86%E6%9C%9D) 1700BC-1100BC
+[商朝君主列表 - Wikiwand](https://www.wikiwand.com/zh/%E5%95%86%E6%9C%9D%E5%90%9B%E4%B8%BB%E5%88%97%E8%A1%A8)
 
-[契 - Wikiwand](https://omni.wikiwand.com/zh/%E5%A5%91) 帝嚳之子; 助大禹治水有功, 封於商 (今陝西商洛市); 商朝先公
-[商湯 - Wikiwand](https://omni.wikiwand.com/zh/%E5%95%86%E6%B1%A4)
+[契 - Wikiwand](https://www.wikiwand.com/zh/%E5%A5%91) 帝嚳之子; 助大禹治水有功, 封於商 (今陝西商洛市); 商朝先公
+[商湯 - Wikiwand](https://www.wikiwand.com/zh/%E5%95%86%E6%B1%A4)
 
 [被抹黑最慘的人 歷史上真實的商紂王 是誰在抹黑商紂王? 酒池肉林、寵信妲己都是假的? - YouTube](https://www.youtube.com/watch?v=jjGCg1EHvws)
 
 [殷墟的三大惊喜与三大惊吓，这是一期全面了解殷墟的视频。 - YouTube](https://www.youtube.com/watch?v=7EWH1yOKf8c)
 [人祭：一段被隱藏了 3000 年的黑暗歷史！華夏文明竟起源於同類相食？周易與甲骨文中的陰森密碼，絕大多數人都沒看懂…[She's Xiaowu @ndwtb] - YouTube](https://www.youtube.com/watch?v=CGY9JH4kYQE)
+[唯一不信神的民族，为何是中国人？ 翦商：一场弑神的权力游戏 - YouTube](https://www.youtube.com/watch?v=ZGdjmcYOZDM)
 
 ## 西周
 
-[周朝 - Wikiwand](https://omni.wikiwand.com/zh/%E5%91%A8%E6%9C%9D)
-[西周 - Wikiwand](https://omni.wikiwand.com/zh/%E8%A5%BF%E5%91%A8) 1100BC-771BC
-[周朝君主列表 - Wikiwand](https://omni.wikiwand.com/zh/%E5%91%A8%E6%9C%9D%E5%90%9B%E4%B8%BB%E5%88%97%E8%A1%A8)
+[周朝 - Wikiwand](https://www.wikiwand.com/zh/%E5%91%A8%E6%9C%9D)
+[西周 - Wikiwand](https://www.wikiwand.com/zh/%E8%A5%BF%E5%91%A8) 1100BC-771BC
+[周朝君主列表 - Wikiwand](https://www.wikiwand.com/zh/%E5%91%A8%E6%9C%9D%E5%90%9B%E4%B8%BB%E5%88%97%E8%A1%A8)
 
 [考古發現：商朝滅亡後，紂王后裔曾 4 次復國，所建國家至今仍存！ - YouTube](https://www.youtube.com/watch?v=twVYeJOyyQQ)
 於牧野之戰攻佔殷商, 但商朝勢力仍在
 
-[宗法 - Wikiwand](https://omni.wikiwand.com/zh/%E5%AE%97%E6%B3%95)
-[封建制度 (中國) - Wikiwand](<https://omni.wikiwand.com/zh/%E5%B0%81%E5%BB%BA%E5%88%B6%E5%BA%A6_(%E4%B8%AD%E5%9C%8B)>)
-[禮樂制度 - Wikiwand](https://omni.wikiwand.com/zh/%E7%A4%BC%E4%B9%90%E5%88%B6%E5%BA%A6)
+[宗法 - Wikiwand](https://www.wikiwand.com/zh/%E5%AE%97%E6%B3%95)
+[封建制度 (中國) - Wikiwand](<https://www.wikiwand.com/zh/%E5%B0%81%E5%BB%BA%E5%88%B6%E5%BA%A6_(%E4%B8%AD%E5%9C%8B)>)
+[禮樂制度 - Wikiwand](https://www.wikiwand.com/zh/%E7%A4%BC%E4%B9%90%E5%88%B6%E5%BA%A6)
 
 周封建制度下, 即便打仗戰敗方也會封候, 並保對方不會被絶後, 而前朝皇室和後人亦會受分封
-[二王三恪 - Wikiwand](https://omni.wikiwand.com/zh/%E4%BA%8C%E7%8E%8B%E4%B8%89%E6%81%AA) 興滅國，繼絕世
+[二王三恪 - Wikiwand](https://www.wikiwand.com/zh/%E4%BA%8C%E7%8E%8B%E4%B8%89%E6%81%AA) 興滅國，繼絕世
 [兴灭国，继绝世，举逸民！什么意思？\_百度知道](https://zhidao.baidu.com/question/249247720.html)
 
 [課本騙人！ 烽火戲諸侯的真相 ▶ 周幽王、褒姒被誰黑了兩千年? - YouTube](https://www.youtube.com/watch?v=6Tc6id_U9fc)
@@ -271,15 +274,15 @@ tags:
 
 ## 東周 (春秋戰國)
 
-[東周 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%9C%E5%91%A8) 770BC-256BC
+[東周 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%9C%E5%91%A8) 770BC-256BC
 西周遷都洛邑(今洛陽), 諸侯自立為王, 進入春秋時代
 [極簡歷史系列 - 欣阳漫話 - YouTube](https://www.youtube.com/playlist?list=PL_T3JO9GtG2_I9LcFL00EQIJVQZw8TnQZ)
 
-[春秋時期 - Wikiwand](https://omni.wikiwand.com/zh/%E6%98%A5%E7%A7%8B%E6%97%B6%E6%9C%9F)
-[尊王攘夷 - Wikiwand](https://omni.wikiwand.com/zh/%E5%B0%8A%E7%8E%8B%E6%94%98%E5%A4%B7)
-[闔閭 - Wikiwand](https://omni.wikiwand.com/zh/%E9%98%96%E9%97%BE)
-[勾踐 - Wikiwand](https://omni.wikiwand.com/zh/%E5%8B%BE%E8%B7%B5)
-[夫差 - Wikiwand](https://omni.wikiwand.com/zh/%E5%A4%AB%E5%B7%AE)
+[春秋時期 - Wikiwand](https://www.wikiwand.com/zh/%E6%98%A5%E7%A7%8B%E6%97%B6%E6%9C%9F)
+[尊王攘夷 - Wikiwand](https://www.wikiwand.com/zh/%E5%B0%8A%E7%8E%8B%E6%94%98%E5%A4%B7)
+[闔閭 - Wikiwand](https://www.wikiwand.com/zh/%E9%98%96%E9%97%BE)
+[勾踐 - Wikiwand](https://www.wikiwand.com/zh/%E5%8B%BE%E8%B7%B5)
+[夫差 - Wikiwand](https://www.wikiwand.com/zh/%E5%A4%AB%E5%B7%AE)
 
 [1994年，湖北挖出兩座千年古墓，這底下竟然是一條直通上古的迷島……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=nlu3QJFEmWA)
 [深埋地下 2000 多年 又被遗弃旷野 39 天的一具女尸竟不朽不腐……《荆门战国楚墓》（上）| 中华国宝 - YouTube](https://www.youtube.com/watch?v=snuzC8PsdIk)
@@ -287,22 +290,22 @@ tags:
 [墓中出土的郭店楚简《老子》竟出现了字数严重缩水的现象？拥有并随葬了这批珍贵典籍的楚人会是屈原吗？——《荆门战国楚墓》（下）| 中华国宝 - YouTube](https://www.youtube.com/watch?v=Qs-6Q5Ejfmo)
 戰國後期楚"東宮之師"之墓(屈原? 環淵?), 郭店楚简填補了春秋未期至戰國中期的史料空白
 
-[戰國時期 - Wikiwand](https://omni.wikiwand.com/zh/%E6%88%98%E5%9B%BD%E6%97%B6%E6%9C%9F)
-[三家分晉 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%89%E5%AE%B6%E5%88%86%E6%99%8B) 進入戰國時代
+[戰國時期 - Wikiwand](https://www.wikiwand.com/zh/%E6%88%98%E5%9B%BD%E6%97%B6%E6%9C%9F)
+[三家分晉 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%89%E5%AE%B6%E5%88%86%E6%99%8B) 進入戰國時代
 [【三维地图】春秋战国分水岭——三家分晋是怎么发生的？它为何有如此重大的历史意义？结局又如何？ - YouTube](https://www.youtube.com/watch?v=F3rb0nEA7LM)
-[縱橫家 - Wikiwand](https://omni.wikiwand.com/zh/%E7%BA%B5%E6%A8%AA%E5%AE%B6)
-[合縱 - Wikiwand](https://omni.wikiwand.com/zh/%E5%90%88%E7%B8%B1)
-[連橫 (外交策略) - Wikiwand](<https://omni.wikiwand.com/zh/%E9%80%A3%E6%A9%AB_(%E5%A4%96%E4%BA%A4%E7%AD%96%E7%95%A5)>)
+[縱橫家 - Wikiwand](https://www.wikiwand.com/zh/%E7%BA%B5%E6%A8%AA%E5%AE%B6)
+[合縱 - Wikiwand](https://www.wikiwand.com/zh/%E5%90%88%E7%B8%B1)
+[連橫 (外交策略) - Wikiwand](<https://www.wikiwand.com/zh/%E9%80%A3%E6%A9%AB_(%E5%A4%96%E4%BA%A4%E7%AD%96%E7%95%A5)>)
 
 戰國趙武靈王仿傚諸胡軍隊, 重用騎兵
-[胡服騎射 - Wikiwand](https://omni.wikiwand.com/zh/%E8%83%A1%E6%9C%8D%E9%A8%8E%E5%B0%84)
+[胡服騎射 - Wikiwand](https://www.wikiwand.com/zh/%E8%83%A1%E6%9C%8D%E9%A8%8E%E5%B0%84)
 [胡服騎射簡介：胡服騎射怎樣改變了戰國史 - 每日頭條](https://kknews.cc/zh-hk/history/xz5q869.html)
 
-[田氏代齊 - Wikiwand](https://omni.wikiwand.com/zh/%E7%94%B0%E6%B0%8F%E4%BB%A3%E9%BD%90)
+[田氏代齊 - Wikiwand](https://www.wikiwand.com/zh/%E7%94%B0%E6%B0%8F%E4%BB%A3%E9%BD%90)
 
 [戰國七雄外第八強國，雄踞中原 800 年，因太囂張被三大強國聯手消滅（修復版） - YouTube](https://www.youtube.com/watch?v=DM17g5DWgvw) 西周封商後人於殷商為宋國
 
-[中山國 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%AD%E5%B1%B1%E5%9B%BD)
+[中山國 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%AD%E5%B1%B1%E5%9B%BD)
 [《中山国》| 讲述中华民族历史大融合中不可或缺的一页【全 6 集】 - YouTube](https://www.youtube.com/playlist?list=PLwXMmy5fUrVyIdqrMVn4YTVbyU8a0mTQl) 遊牧民族白狄從陝西遷徙到河北建中山國, 在趙國的領土中; 被魏滅後又復國, 乃戰國"第八雄"
 [神秘中山国【百家讲坛 20150612 】 - YouTube](https://www.youtube.com/watch?v=8tZXalWn8fQ)
 
@@ -310,7 +313,7 @@ tags:
 
 ## 秦
 
-[秦朝 - Wikiwand](https://omni.wikiwand.com/zh/%E7%A7%A6%E6%9C%9D) 221BC-207BC
+[秦朝 - Wikiwand](https://www.wikiwand.com/zh/%E7%A7%A6%E6%9C%9D) 221BC-207BC
 白起
 蒙恬
 王翦
@@ -333,11 +336,11 @@ tags:
 
 ## 漢
 
-[漢朝 - Wikiwand](https://omni.wikiwand.com/zh/%E6%B1%89%E6%9C%9D) 202BC-220
-[西漢 - Wikiwand](https://omni.wikiwand.com/zh/%E8%A5%BF%E6%B1%89) 建都長安
-[東漢 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%9C%E6%B1%89) 建都洛陽
+[漢朝 - Wikiwand](https://www.wikiwand.com/zh/%E6%B1%89%E6%9C%9D) 202BC-220
+[西漢 - Wikiwand](https://www.wikiwand.com/zh/%E8%A5%BF%E6%B1%89) 建都長安
+[東漢 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%9C%E6%B1%89) 建都洛陽
 
-[漢高帝劉邦 - Wikiwand](https://omni.wikiwand.com/zh/%E5%88%98%E9%82%A6)
+[漢高帝劉邦 - Wikiwand](https://www.wikiwand.com/zh/%E5%88%98%E9%82%A6)
 沛県五人組
 韓信點兵，多多益善
 韓信攻趙(井陘之戰): 大張旗鼓，背水一戰
@@ -348,7 +351,7 @@ tags:
 [《楚汉》第三集 楚河汉界 | CCTV 纪录 - YouTube](https://www.youtube.com/watch?v=bbqmXLdWUSY)
 [《楚汉》第四集 霸王别姬 | CCTV 纪录 - YouTube](https://www.youtube.com/watch?v=6RsIaX3iSko)
 
-[漢武帝 - Wikiwand](https://omni.wikiwand.com/zh/%E6%B1%89%E6%AD%A6%E5%B8%9D)
+[漢武帝 - Wikiwand](https://www.wikiwand.com/zh/%E6%B1%89%E6%AD%A6%E5%B8%9D)
 漢武帝命衛青霍去病出戰漠北, 霍去病封狼居胥
 公元 48 年, 匈奴分裂成南北兩部, 南匈奴對漢稱臣
 漢武帝再命竇憲沿衛青霍去病路線征討北匈奴, 於公元 91 年將北匈奴擊敗, 北匈奴遺民西遷
@@ -382,7 +385,7 @@ tags:
 
 ## 三國
 
-[三國 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%89%E5%9B%BD) 208-280
+[三國 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%89%E5%9B%BD) 208-280
 
 [英雄說書 - YouTube](https://www.youtube.com/channel/UCIpRQFB5af6be62BpQyWbuA) mostly 三國
 [說書人柳豫 - YouTube](https://www.youtube.com/channel/UCBY6ricq_NJTBSgFkZ2llkA) mostly 三國
@@ -408,8 +411,8 @@ tags:
 
 ## 魏晉南北朝
 
-[晉朝 - Wikiwand](https://omni.wikiwand.com/zh/%E6%99%8B%E6%9C%9D) 266-420
-[南北朝 - Wikiwand](https://omni.wikiwand.com/zh/%E5%8D%97%E5%8C%97%E6%9C%9D) 420-589
+[晉朝 - Wikiwand](https://www.wikiwand.com/zh/%E6%99%8B%E6%9C%9D) 266-420
+[南北朝 - Wikiwand](https://www.wikiwand.com/zh/%E5%8D%97%E5%8C%97%E6%9C%9D) 420-589
 
 匈奴滅西後, 五胡於北方立十六國, 後鮮卑拓跋統一北方, 建立北朝
 
@@ -418,12 +421,12 @@ tags:
 
 ## 隋
 
-[隋朝 - Wikiwand](https://omni.wikiwand.com/zh/%E9%9A%8B%E6%9C%9D) 581-619
+[隋朝 - Wikiwand](https://www.wikiwand.com/zh/%E9%9A%8B%E6%9C%9D) 581-619
 楊堅為北魏拓跋氏小弟
 
 ## 唐
 
-[唐朝 - Wikiwand](https://omni.wikiwand.com/zh/%E5%94%90%E6%9C%9D) 618-907
+[唐朝 - Wikiwand](https://www.wikiwand.com/zh/%E5%94%90%E6%9C%9D) 618-907
 李淵為北魏拓跋氏小弟, 鮮卑人, 本姓大野(Dayan, 蒙古語廣闊)
 在突厥支持下統一中國
 
@@ -432,12 +435,12 @@ tags:
 
 ## 宋
 
-[宋朝 - Wikiwand](https://omni.wikiwand.com/zh/%E5%AE%8B%E6%9C%9D) 960-1279
+[宋朝 - Wikiwand](https://www.wikiwand.com/zh/%E5%AE%8B%E6%9C%9D) 960-1279
 
 [壇淵之盟 - YouTube](https://www.youtube.com/playlist?list=PLd6O6ASBjtW7lxu21o0pPuAaHelzQmbws)
 [世紀帝國汁歷史#1 宋朝跟你說 什麼叫做有錢好辦事-澶淵之盟之宋遼戰爭 - YouTube](https://www.youtube.com/watch?v=bR8SfEpeWhM)
 
-[靖康之變 - Wikiwand](https://omni.wikiwand.com/zh-hk/%E9%9D%96%E5%BA%B7%E4%B9%8B%E5%8F%98) 宋徽宗欲收復燕雲十六州而聯金滅遼, 其後金國攻陷汴梁, 擄走皇帝宋欽宗、太上皇宋徽宗
+[靖康之變 - Wikiwand](https://www.wikiwand.com/zh-hk/%E9%9D%96%E5%BA%B7%E4%B9%8B%E5%8F%98) 宋徽宗欲收復燕雲十六州而聯金滅遼, 其後金國攻陷汴梁, 擄走皇帝宋欽宗、太上皇宋徽宗
 [35年前，古墓裡挖出一位蒙面女子，她為我們破解了那段最悲憤的歷史，原來，被踐踏的不僅僅是那些絕望的女人們……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=KFgeaRphGng) 海上之盟, 靖康之變
 [正史都不敢記載！一場跨越百年的命運輪迴！史上最恐怖的現世報事件，宋朝滅亡時究竟發生了什麼？[Unsolved Mystery Stories | Xiaowu] - YouTube](https://www.youtube.com/watch?v=tNobrV_cgD4)
 
@@ -452,12 +455,12 @@ tags:
 
 ## 元
 
-[元朝 - Wikiwand](http://omni.wikiwand.com/zh/%E5%85%83%E6%9C%9D) 1271-1368
-[北元 - Wikiwand](http://omni.wikiwand.com/zh/%E5%8C%97%E5%85%83) 1368-1388
-[蒙哥 - Wikiwand](https://omni.wikiwand.com/zh/%E8%92%99%E5%93%A5)
-[忽必烈 - Wikiwand](https://omni.wikiwand.com/zh/%E5%BF%BD%E5%BF%85%E7%83%88)
+[元朝 - Wikiwand](http://www.wikiwand.com/zh/%E5%85%83%E6%9C%9D) 1271-1368
+[北元 - Wikiwand](http://www.wikiwand.com/zh/%E5%8C%97%E5%85%83) 1368-1388
+[蒙哥 - Wikiwand](https://www.wikiwand.com/zh/%E8%92%99%E5%93%A5)
+[忽必烈 - Wikiwand](https://www.wikiwand.com/zh/%E5%BF%BD%E5%BF%85%E7%83%88)
 
-[蒙古秘史 - Wikiwand](https://omni.wikiwand.com/zh/%E8%92%99%E5%8F%A4%E7%A7%98%E5%8F%B2) 元朝秘史
+[蒙古秘史 - Wikiwand](https://www.wikiwand.com/zh/%E8%92%99%E5%8F%A4%E7%A7%98%E5%8F%B2) 元朝秘史
 [元朝秘史 - 維基文庫，自由的圖書館](https://zh.m.wikisource.org/zh-hant/%E5%85%83%E6%9C%9D%E7%A7%98%E5%8F%B2)
 
 [被騙了好久 馬可波羅根本沒到過中國? 馬可波羅遊記在講什麼? - YouTube](https://www.youtube.com/watch?v=-uJckVbAUUk)
@@ -468,15 +471,15 @@ tags:
 [How Kublai Khan’s Yuan complicates the notion of ‘China’ - SupChina](https://supchina.com/2020/12/16/how-kublai-khans-yuan-complicates-the-notion-of-china/amp/)
 [细说蒙古历史，黄金家族717年汗统的辉煌与覆灭！ - YouTube](https://www.youtube.com/watch?v=SxIoUHPrUeM)
 
-[蒙古四大汗國 - Wikiwand](https://omni.wikiwand.com/zh/%E8%92%99%E5%8F%A4%E5%9B%9B%E5%A4%A7%E6%B1%97%E5%9B%BD)
-[蒙古帝國 - Wikiwand](https://omni.wikiwand.com/zh/%E8%92%99%E5%8F%A4%E5%B8%9D%E5%9B%BD) 蒙哥死後蒙古帝國再分裂
+[蒙古四大汗國 - Wikiwand](https://www.wikiwand.com/zh/%E8%92%99%E5%8F%A4%E5%9B%9B%E5%A4%A7%E6%B1%97%E5%9B%BD)
+[蒙古帝國 - Wikiwand](https://www.wikiwand.com/zh/%E8%92%99%E5%8F%A4%E5%B8%9D%E5%9B%BD) 蒙哥死後蒙古帝國再分裂
 [成吉思汗的「大蒙古帝國」和忽必烈創建的「元朝」有什麼區別 - 每日頭條](https://kknews.cc/history/bo6vnvo.html)
 [叛變吞併蒙古帝國一半多的土地，後自稱是蒙古與羅馬的後代 - 每日頭條](https://kknews.cc/history/k8jpxlp.html)
 攻佔歐洲的為赤朮二子拔都沙皇的金帳汗國, 而忽必烈的元朝被其他汗國視為蒙古叛亂者
 [中亞最恐怖征服者，竟發動 180 萬大軍攻打明朝？史上最瘋狂的軍事行動！ - YouTube](https://www.youtube.com/watch?v=EW0hZr_K_lY) 帖木兒帝國
 
-[欽察汗國 - Wikiwand](https://omni.wikiwand.com/zh/%E6%AC%BD%E5%AF%9F%E6%B1%97%E5%9C%8B)
-[拔都 - Wikiwand](https://omni.wikiwand.com/zh/%E6%8B%94%E9%83%BD)
+[欽察汗國 - Wikiwand](https://www.wikiwand.com/zh/%E6%AC%BD%E5%AF%9F%E6%B1%97%E5%9C%8B)
+[拔都 - Wikiwand](https://www.wikiwand.com/zh/%E6%8B%94%E9%83%BD)
 
 Tengu Media
 [被歷史書抹去的亘古大國「韃靼利亞」！ - YouTube](https://www.youtube.com/watch?v=ey385zBy09I)
@@ -489,22 +492,22 @@ Tengu Media
 
 [成吉思汗陵根本不存在？高科技搜尋無果，考古甚至遭遇“詛咒”「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=-OfN7TRg3sg)
 
-[傳統蒙古文 - Wikiwand](https://omni.wikiwand.com/zh/%E4%BC%A0%E7%BB%9F%E8%92%99%E5%8F%A4%E6%96%87) 回鶻蒙古文, 直書方便馬上書寫
-[蒙古語西里爾字母 - Wikiwand](https://omni.wikiwand.com/zh/%E8%92%99%E5%8F%A4%E8%AF%AD%E8%A5%BF%E9%87%8C%E5%B0%94%E5%AD%97%E6%AF%8D)
+[傳統蒙古文 - Wikiwand](https://www.wikiwand.com/zh/%E4%BC%A0%E7%BB%9F%E8%92%99%E5%8F%A4%E6%96%87) 回鶻蒙古文, 直書方便馬上書寫
+[蒙古語西里爾字母 - Wikiwand](https://www.wikiwand.com/zh/%E8%92%99%E5%8F%A4%E8%AF%AD%E8%A5%BF%E9%87%8C%E5%B0%94%E5%AD%97%E6%AF%8D)
 
 ## 明
 
 1389 年朱元璋駕崩, 長孫朱允炆登基, 削藩以鞏固勢力; 四子燕王朱棣以「清君側」的名義, 花四年攻陷明都南京(靖難之役), 是為明成祖, 改元永樂; 把首都從南京遷到北京(大都), 篇修永樂大典, 並開通大運河, 把南方物資運到北方, 又支持了鄭和六次下西洋
 
-[明朝 - Wikiwand](https://omni.wikiwand.com/zh/%E6%98%8E%E6%9C%9D) 1368-1644
-[明成祖 - Wikiwand](https://omni.wikiwand.com/zh/%E6%98%8E%E6%88%90%E7%A5%96) 永樂帝
-[鄭和 - Wikiwand](https://omni.wikiwand.com/zh/%E9%84%AD%E5%92%8C)
+[明朝 - Wikiwand](https://www.wikiwand.com/zh/%E6%98%8E%E6%9C%9D) 1368-1644
+[明成祖 - Wikiwand](https://www.wikiwand.com/zh/%E6%98%8E%E6%88%90%E7%A5%96) 永樂帝
+[鄭和 - Wikiwand](https://www.wikiwand.com/zh/%E9%84%AD%E5%92%8C)
 鄭和為雲南阿拉伯人, 父親為元官, 明軍清剿元餘黨時被徵為太監
-[鄭和下西洋 - Wikiwand](https://omni.wikiwand.com/zh/%E9%83%91%E5%92%8C%E4%B8%8B%E8%A5%BF%E6%B4%8B)
+[鄭和下西洋 - Wikiwand](https://www.wikiwand.com/zh/%E9%83%91%E5%92%8C%E4%B8%8B%E8%A5%BF%E6%B4%8B)
 
 ## 清
 
-[清朝 - Wikiwand](https://omni.wikiwand.com/zh/%E6%B8%85%E6%9C%9D) 1636-1912
+[清朝 - Wikiwand](https://www.wikiwand.com/zh/%E6%B8%85%E6%9C%9D) 1636-1912
 
 [清朝的延續：滿洲國的興盛和滅亡！ - YouTube](https://www.youtube.com/watch?v=taMikZeWjzg)
 [貪官是怎麼養成的？ - YouTube](https://www.youtube.com/watch?v=6bD13UfC2CI)
@@ -513,21 +516,21 @@ Tengu Media
 
 [地图帝的个人主页\_百度百科](https://baike.baidu.com/usercenter/userpage?uk=5ad10133&authorId=b66f18449d17cf980dfd0021&from=tashuo)
 
-[河套 - Wikiwand](https://omni.wikiwand.com/zh/%E6%B2%B3%E5%A5%97)
-[塞北 - Wikiwand](https://omni.wikiwand.com/zh/%E5%A1%9E%E5%8C%97)
+[河套 - Wikiwand](https://www.wikiwand.com/zh/%E6%B2%B3%E5%A5%97)
+[塞北 - Wikiwand](https://www.wikiwand.com/zh/%E5%A1%9E%E5%8C%97)
 
-[中國山脈列表 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%AD%E5%9B%BD%E5%B1%B1%E8%84%89%E5%88%97%E8%A1%A8)
+[中國山脈列表 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%AD%E5%9B%BD%E5%B1%B1%E8%84%89%E5%88%97%E8%A1%A8)
 [Category:Mountain ranges of China - Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Mountain_ranges_of_China?uselang=zh-hk)
-[崑崙山脈 - Wikiwand](https://omni.wikiwand.com/zh/%E6%98%86%E4%BB%91%E5%B1%B1%E8%84%89)
+[崑崙山脈 - Wikiwand](https://www.wikiwand.com/zh/%E6%98%86%E4%BB%91%E5%B1%B1%E8%84%89)
 五岳: 北岳恒山、南岳衡山、中岳嵩山，东岳泰山、西岳华山
 
-[中國河流列表 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%AD%E5%9C%8B%E6%B2%B3%E6%B5%81%E5%88%97%E8%A1%A8)
+[中國河流列表 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%AD%E5%9C%8B%E6%B2%B3%E6%B5%81%E5%88%97%E8%A1%A8)
 [壶口瀑布分属山西和陕西，落差高达四十多米，古代货船怎么过去？\_百科 TA 说](https://baike.baidu.com/tashuo/browse/content?id=2a5beae450289f3310bd55c6)
 
 [分類:中國平原 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-hk/Category:%E4%B8%AD%E5%9B%BD%E5%B9%B3%E5%8E%9F?oldformat=true)
 
 [关中（地名）\_百度百科](https://baike.baidu.com/item/%E5%85%B3%E4%B8%AD/13464186)
-[渭河平原 - Wikiwand](https://omni.wikiwand.com/zh/%E6%B8%AD%E6%B2%B3%E5%B9%B3%E5%8E%9F)
+[渭河平原 - Wikiwand](https://www.wikiwand.com/zh/%E6%B8%AD%E6%B2%B3%E5%B9%B3%E5%8E%9F)
 东潼关、西散关（大震关）、南武关（蓝关）、北萧关（金锁关）
 
 蔥嶺: 帕米爾高原, 新疆以西
@@ -561,20 +564,20 @@ Tengu Media
 隴西郡: 今甘肅省南部和東南部的天水、蘭州等地區
 上黨郡: 今山西長治市
 涼州: 今甘肅, 寧夏, 青海東北部, 新疆東南部
-[瑯琊](https://omni.wikiwand.com/zh/%E7%90%85%E9%82%AA%E9%83%A1): 山東
+[瑯琊](https://www.wikiwand.com/zh/%E7%90%85%E9%82%AA%E9%83%A1): 山東
 
-[塔克拉瑪干沙漠](https://omni.wikiwand.com/zh/%E5%A1%94%E5%85%8B%E6%8B%89%E7%8E%9B%E5%B9%B2%E6%B2%99%E6%BC%A0): 新疆的塔里木盆地中央 (維吾爾語被遺棄的故鄉)
+[塔克拉瑪干沙漠](https://www.wikiwand.com/zh/%E5%A1%94%E5%85%8B%E6%8B%89%E7%8E%9B%E5%B9%B2%E6%B2%99%E6%BC%A0): 新疆的塔里木盆地中央 (維吾爾語被遺棄的故鄉)
 
-[中國行政區劃 州郡時期 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%AD%E5%9B%BD%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92#/%E5%B7%9E%E9%83%A1%E6%99%82%E6%9C%9F%EF%BC%88%E5%89%8D221%E5%B9%B4%EF%BC%8D583%E5%B9%B4%EF%BC%89)
-[九州 (中國) - Wikiwand](<https://omni.wikiwand.com/zh/%E4%B9%9D%E5%B7%9E_(%E4%B8%AD%E5%9B%BD)>)
-[秦朝行政區劃 - Wikiwand](https://omni.wikiwand.com/zh/%E7%A7%A6%E6%9C%9D%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92) 秦朝实施郡县二级管理制度
-[西漢行政區劃 - Wikiwand](https://omni.wikiwand.com/zh/%E8%A5%BF%E6%B1%89%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92) 汉武帝时期，实施州、郡、县三级管理制度
-[東漢行政區劃 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%9C%E6%B1%89%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92)
+[中國行政區劃 州郡時期 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%AD%E5%9B%BD%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92#/%E5%B7%9E%E9%83%A1%E6%99%82%E6%9C%9F%EF%BC%88%E5%89%8D221%E5%B9%B4%EF%BC%8D583%E5%B9%B4%EF%BC%89)
+[九州 (中國) - Wikiwand](<https://www.wikiwand.com/zh/%E4%B9%9D%E5%B7%9E_(%E4%B8%AD%E5%9B%BD)>)
+[秦朝行政區劃 - Wikiwand](https://www.wikiwand.com/zh/%E7%A7%A6%E6%9C%9D%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92) 秦朝实施郡县二级管理制度
+[西漢行政區劃 - Wikiwand](https://www.wikiwand.com/zh/%E8%A5%BF%E6%B1%89%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92) 汉武帝时期，实施州、郡、县三级管理制度
+[東漢行政區劃 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%9C%E6%B1%89%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92)
 
-[常山郡 - Wikiwand](https://omni.wikiwand.com/zh/%E5%B8%B8%E5%B1%B1%E9%83%A1)
-[大宛 - Wikiwand](https://omni.wikiwand.com/zh/%E5%A4%A7%E5%AE%9B)
+[常山郡 - Wikiwand](https://www.wikiwand.com/zh/%E5%B8%B8%E5%B1%B1%E9%83%A1)
+[大宛 - Wikiwand](https://www.wikiwand.com/zh/%E5%A4%A7%E5%AE%9B)
 
-[交趾郡 - Wikiwand](https://omni.wikiwand.com/zh/%E4%BA%A4%E8%B6%BE%E9%83%A1) 越南北部
+[交趾郡 - Wikiwand](https://www.wikiwand.com/zh/%E4%BA%A4%E8%B6%BE%E9%83%A1) 越南北部
 [越南通史，從神話到現代，簡單越南歷史|古代越南|越南簡史|越南史|越南朝代|越南皇帝|范氏姮|阮朝|鸿庞氏|越南各個朝代|越南從古到今與中國的關係|法國日本殖民越南|越戰|中越戰爭|南越|北越| - YouTube](https://www.youtube.com/watch?v=KBfOf3P4vo4)
 
 [蝴蝶效應：戚繼光失業與菲律賓改名 | 自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=GG54jTC1s24)
@@ -588,15 +591,15 @@ Tengu Media
 ## 外族
 
 [中國朝代 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-hk/%E4%B8%AD%E5%9B%BD%E6%9C%9D%E4%BB%A3?oldformat=true) 中亞, 北亞, 東北亞
-[中国东北地区历史 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%AD%E5%9B%BD%E4%B8%9C%E5%8C%97%E5%9C%B0%E5%8C%BA%E5%8E%86%E5%8F%B2)
+[中国东北地区历史 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%AD%E5%9B%BD%E4%B8%9C%E5%8C%97%E5%9C%B0%E5%8C%BA%E5%8E%86%E5%8F%B2)
 [Category:中亚民族史 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/Category:%E4%B8%AD%E4%BA%9A%E6%B0%91%E6%97%8F%E5%8F%B2?oldformat=true)
 [如何從《二十四史》了解少數民族王朝的興衰？ | 中國文化研究院 - 燦爛的中國文明](https://chiculture.org.hk/tc/china-five-thousand-years/2846)
 
-[四夷 - Wikiwand](https://omni.wikiwand.com/zh/%E5%9B%9B%E5%A4%B7) 又蠻夷: 東夷、南蠻、西戎=犬戎=白狄、北狄
+[四夷 - Wikiwand](https://www.wikiwand.com/zh/%E5%9B%9B%E5%A4%B7) 又蠻夷: 東夷、南蠻、西戎=犬戎=白狄、北狄
 
 [侵略中国100多年，比日本人还狠！远古白种人的侵华战争：【鬼方】 - YouTube](https://www.youtube.com/watch?v=H1jPcvl3an8) 商稱鬼方, 周稱玁狁, 周後稱犬戎, 為今甘肅寧夏以西一帶的雅利安白人; 長期與殷商交戰, 有作為戰俘被獻祭; 及後再次入侵華夏, 殺周幽王, 擄褒姒, 滅西周
 
-[魏略 - Wikiwand](https://omni.wikiwand.com/zh/%E9%AD%8F%E7%95%A5)
+[魏略 - Wikiwand](https://www.wikiwand.com/zh/%E9%AD%8F%E7%95%A5)
 [Ancient Chinese Historian Describes The Roman Empire // 3rd century AD "Weilüe" // Primary Source - YouTube](https://www.youtube.com/watch?v=4XdPodNwSGU)
 [How accurate is this? - Ancient Chinese Historian Describes The Roman Empire (Voices of the Past) - YouTube](https://www.youtube.com/watch?v=FgsMR5R3P1o)
 [Chinese-Romans - Imperial Romans New Zealand](http://www.imperium-romana.org/chinese-romans.html)
@@ -626,9 +629,9 @@ Wuchisan: Alexandria
 漢人會外族依接近漢化程度及活動區域南北而區分熟/白或生/黑
 
 東胡 = 商周時河北地區; 被秦所滅, 分成鮮卑和烏桓; 三國時烏桓被曹操所滅
-[鮮卑](https://omni.wikiwand.com/zh/%E9%B2%9C%E5%8D%91) = 秦漢時主導蒙古地區, 東胡後人; 五國十代時分成北鮮卑(=北魏, 北魏拓跋宏選擇了漢化而非斯坦化), 西鮮卑(=青州吐谷渾), 東鮮卑(=十六國中前燕、後燕、西燕、南燕都是慕容部所建), 南北朝時柔然被突厥所滅; 姓氏: 拓跋(北鮮卑), 慕容(西鮮卑), 段, 慕容, 宇文 (東鮮卑)
-[匈奴](https://omni.wikiwand.com/zh/%E5%8C%88%E5%A5%B4) = 秦漢時蒙古地區; 匈奴王為單于 (讀善於); 漢時分成南北匈奴, 有說北匈奴遷往東歐, 成為匈人? (see `history-civilizations.md#huns`); 姓氏: 呼延, 劉
-[柔然](https://omni.wikiwand.com/zh/%E6%9F%94%E7%84%B6) = 南北朝蒙古地區, 北鮮卑拓跋部南遷後所建, 於北魏以北; 隋時為突厥所滅; 姓氏: 拓跋
+[鮮卑](https://www.wikiwand.com/zh/%E9%B2%9C%E5%8D%91) = 秦漢時主導蒙古地區, 東胡後人; 五國十代時分成北鮮卑(=北魏, 北魏拓跋宏選擇了漢化而非斯坦化), 西鮮卑(=青州吐谷渾), 東鮮卑(=十六國中前燕、後燕、西燕、南燕都是慕容部所建), 南北朝時柔然被突厥所滅; 姓氏: 拓跋(北鮮卑), 慕容(西鮮卑), 段, 慕容, 宇文 (東鮮卑)
+[匈奴](https://www.wikiwand.com/zh/%E5%8C%88%E5%A5%B4) = 秦漢時蒙古地區; 匈奴王為單于 (讀善於); 漢時分成南北匈奴, 有說北匈奴遷往東歐, 成為匈人? (see `history-civilizations.md#huns`); 姓氏: 呼延, 劉
+[柔然](https://www.wikiwand.com/zh/%E6%9F%94%E7%84%B6) = 南北朝蒙古地區, 北鮮卑拓跋部南遷後所建, 於北魏以北; 隋時為突厥所滅; 姓氏: 拓跋
 室韋 = 南北朝東三省地區; 為突厥擴張後鮮卑族(柔然), 突厥語為韃靼; 唐末時被突厥趕至黑龍江省邊陲; 姓氏: 拓跋
 靺鞨 = 南北朝東三省地區; 肅慎(周、秦、西漢), 挹婁(漢朝)，勿吉(南北朝)，黑水靺鞨(隋唐)
 突厥 = 5 世紀南北朝, 隋唐時蒙古地區; 隋時分成東西突厥; 突厥王為汗; 唐時被安撫後再掘起, 被回鶻趕出蒙古地區; 唐末突厥再掘起, 主導蒙古北三省地區; 因為突厥有文字, 為其統治下民族所用, 用突厥文的民族後來西遷到中亞
@@ -639,16 +642,16 @@ Wuchisan: Alexandria
 [被歷史書抹去的亘古大國「韃靼利亞」！ - YouTube](https://www.youtube.com/watch?v=ey385zBy09I)
 [新疆历史和时事 - YouTube](https://www.youtube.com/playlist?list=PLs_kPxa_j2tsDCHUJcwgB6wCs2nL6gYpl)
 
-[古羌人](https://omni.wikiwand.com/zh/%E5%8F%A4%E7%BE%8C%E4%BA%BA) = 漢時新疆地區
-[羌族 - Wikiwand](https://omni.wikiwand.com/zh/%E7%BE%8C%E6%97%8F)
-[龜茲](https://omni.wikiwand.com/zh/%E9%BE%9F%E5%85%B9) = 庫車, 新疆地區塔里木盆地, 興盛於東漢及晉朝
+[古羌人](https://www.wikiwand.com/zh/%E5%8F%A4%E7%BE%8C%E4%BA%BA) = 漢時新疆地區
+[羌族 - Wikiwand](https://www.wikiwand.com/zh/%E7%BE%8C%E6%97%8F)
+[龜茲](https://www.wikiwand.com/zh/%E9%BE%9F%E5%85%B9) = 庫車, 新疆地區塔里木盆地, 興盛於東漢及晉朝
 [絲綢之路上的綠洲古國-龜茲，龜茲從默默無聞到繁榮到衰落的過程，古代西域龟兹国，龜茲與大漢，龜茲國的歷史，龜茲歷史，西域歷史，西域諸國歷史，張騫，漢武帝，新疆龜茲，龜茲文化，古代西域文化，古代西域國家 - YouTube](https://www.youtube.com/watch?v=pBYTtJdScPU)
-[吐谷渾](https://omni.wikiwand.com/zh/%E5%90%90%E8%B0%B7%E6%B5%91) = 西晉至唐朝青海甘肅地區, 鮮卑慕容部後人; 283 年慕容吐谷渾率部下先抵內蒙陰山, 313 年再南下隴西建國; 663 年被吐蕃征服
-[白蘭](https://omni.wikiwand.com/zh/%E7%99%BD%E8%98%AD%E5%9C%8B) = 漢前起存於青海南部, 丁零人所建; 吐谷渾建國後才被西晉所記錄; 13 世紀被蒙古打敗
-[大理](https://omni.wikiwand.com/zh/%E5%A4%A7%E7%90%86%E5%9B%BD)
+[吐谷渾](https://www.wikiwand.com/zh/%E5%90%90%E8%B0%B7%E6%B5%91) = 西晉至唐朝青海甘肅地區, 鮮卑慕容部後人; 283 年慕容吐谷渾率部下先抵內蒙陰山, 313 年再南下隴西建國; 663 年被吐蕃征服
+[白蘭](https://www.wikiwand.com/zh/%E7%99%BD%E8%98%AD%E5%9C%8B) = 漢前起存於青海南部, 丁零人所建; 吐谷渾建國後才被西晉所記錄; 13 世紀被蒙古打敗
+[大理](https://www.wikiwand.com/zh/%E5%A4%A7%E7%90%86%E5%9B%BD)
 
-[吐蕃](https://omni.wikiwand.com/zh/%E5%90%90%E8%95%83) 唐朝起於青藏高原, 雲南西川一帶; 吐蕃王為贊普; 姓氏: 噶爾(祿), 原信奉苯教
-[松贊干布 - Wikiwand](https://omni.wikiwand.com/zh/%E6%9D%BE%E8%B5%9E%E5%B9%B2%E5%B8%83)
+[吐蕃](https://www.wikiwand.com/zh/%E5%90%90%E8%95%83) 唐朝起於青藏高原, 雲南西川一帶; 吐蕃王為贊普; 姓氏: 噶爾(祿), 原信奉苯教
+[松贊干布 - Wikiwand](https://www.wikiwand.com/zh/%E6%9D%BE%E8%B5%9E%E5%B9%B2%E5%B8%83)
 629 年松贊干布統一西藏, 遷都邏些(今拉薩), 娶泥婆羅(今尼泊爾)公主才引入佛教, 並吞併泥婆羅成屬國; 638 年攻下吐谷渾, 640 年娶文成公主
 [吐蕃為啥改名西藏？「西」和「藏」咋來的？ - YouTube](https://www.youtube.com/watch?v=2Pl5DQb5Osk)
 [為何吐蕃寧可和大唐死磕 200 年，都不去打旁邊的印度？答案你一定不知道 - YouTube](https://www.youtube.com/watch?v=mnUUjuWtoUQ)
@@ -664,17 +667,17 @@ Wuchisan: Alexandria
 [新疆到底是如何被伊斯兰化的？（三）新疆伊斯兰化最终完成，而留下了藏传佛教的火种 - YouTube](https://www.youtube.com/watch?v=9aqeSzGaCls) 西遼
 [新疆是怎么伊斯兰化的？（四）东突的由来！国民党和共产党的治疆之策~The origin of East Turkistan - YouTube](https://www.youtube.com/watch?v=q9Awi13H3Bo)
 
-[党項](https://omni.wikiwand.com/zh/%E5%85%9A%E9%A0%85): 羌族的一支, 鮮卑後人, 唐時居四川地區, 安史之亂後吐蕃壓迫党項, 党項在唐高宗幫助下遷住陝北甘肅地區, 1038 年建[西夏](https://omni.wikiwand.com/zh/%E8%A5%BF%E5%A4%8F); 姓氏: 拓跋(李)
+[党項](https://www.wikiwand.com/zh/%E5%85%9A%E9%A0%85): 羌族的一支, 鮮卑後人, 唐時居四川地區, 安史之亂後吐蕃壓迫党項, 党項在唐高宗幫助下遷住陝北甘肅地區, 1038 年建[西夏](https://www.wikiwand.com/zh/%E8%A5%BF%E5%A4%8F); 姓氏: 拓跋(李)
 
-[月氏](https://omni.wikiwand.com/zh/%E6%9C%88%E6%B0%8F) = 甘肅西部和新疆東部
-[大月氏 - Wikiwand](https://omni.wikiwand.com/zh/%E5%A4%A7%E6%9C%88%E6%B0%8F)
+[月氏](https://www.wikiwand.com/zh/%E6%9C%88%E6%B0%8F) = 甘肅西部和新疆東部
+[大月氏 - Wikiwand](https://www.wikiwand.com/zh/%E5%A4%A7%E6%9C%88%E6%B0%8F)
 
-[吐火罗人 - Wikiwand](https://omni.wikiwand.com/zh/%E5%90%90%E7%81%AB%E7%BD%97%E4%BA%BA)
+[吐火罗人 - Wikiwand](https://www.wikiwand.com/zh/%E5%90%90%E7%81%AB%E7%BD%97%E4%BA%BA)
 
 奄蔡 = 阿蘭王國, 西漢起於高加索地區活動, 350 年匈人吞并了阿蘭王國
 [奄蔡 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E5%A5%84%E8%94%A1?oldformat=true)
-[阿蘭王國 - Wikiwand](https://omni.wikiwand.com/zh/%E9%98%BF%E8%98%AD%E7%8E%8B%E5%9C%8B)
-[Alans - Wikiwand](https://omni.wikiwand.com/en/Alans)
+[阿蘭王國 - Wikiwand](https://www.wikiwand.com/zh/%E9%98%BF%E8%98%AD%E7%8E%8B%E5%9C%8B)
+[Alans - Wikiwand](https://www.wikiwand.com/en/Alans)
 
 高加索: 西亞及東歐交界處，黑海、裏海之間; 南高加索即今格魯吉亞、亞美尼亞和阿塞拜疆三國; 北高加索地處屬俄羅斯, 即今達吉斯坦、車臣、印古什、北奧塞梯、卡巴爾達-巴爾卡爾等共和國
 
@@ -689,7 +692,7 @@ Wuchisan: Alexandria
 
 自春秋戰國時代為抵禦塞北遊牧部落而建的工程設施
 
-[長城 - Wikiwand](https://omni.wikiwand.com/zh/%E9%95%BF%E5%9F%8E)
+[長城 - Wikiwand](https://www.wikiwand.com/zh/%E9%95%BF%E5%9F%8E)
 秦漢長城主要沿河套地區而建, 預警調兵作用大於死守
 明在土木堡一戰後失去河套地區控制權, 長城退到燕山山區
 
@@ -704,6 +707,9 @@ Wuchisan: Alexandria
 [世界遗产在中国 E27 明清故宫下 - YouTube](https://www.youtube.com/watch?v=YxgAcvhsAuE)
 
 [世界遗产在中国 E28 天坛 - YouTube](https://www.youtube.com/watch?v=-t2hKJNzyrU)
+
+[Tencent Launches Immersive Digital Experience of Newest World Heritage Site with Gametech - Tencent 腾讯](https://www.tencent.com/en-us/articles/2201899.html)
+[在虛擬世界穿越北京中軸線750年，是一種什麼體驗？ - YouTube](https://www.youtube.com/watch?v=mrswX7wnFMo)
 
 ## 越
 
@@ -725,10 +731,11 @@ Wuchisan: Alexandria
 [鏗鏘集：文革五十年 (上) - YouTube](https://www.youtube.com/watch?v=ZOqrQnxq0jA)
 [鏗鏘集：文革五十年(下) - YouTube](https://www.youtube.com/watch?v=Uhxb9YC7DwU)
 [文革回顧 (香港語) - YouTube](https://www.youtube.com/watch?v=lDwGUOpi_mQ)
-[四五運動 - Wikiwand](https://omni.wikiwand.com/zh/%E5%9B%9B%E4%BA%94%E8%BF%90%E5%8A%A8)
+[四五運動 - Wikiwand](https://www.wikiwand.com/zh/%E5%9B%9B%E4%BA%94%E8%BF%90%E5%8A%A8)
 
 [大躍進、大飢荒與「三年自然災害」，讀高華《在歷史上的風陵渡口》有感（一）附字幕 - YouTube](https://www.youtube.com/watch?v=HDeHoQCVa78)
 [大躍進、大飢荒與「三年自然災害」，讀高華《在歷史上的風陵渡口》有感（二）有字幕 - YouTube](https://www.youtube.com/watch?v=tD8vzio5eT8)
+[禍害4000萬人，被中國全面封殺的「文化大革命」，到底發生了什麽？ - YouTube](https://www.youtube.com/watch?v=8mrKfHtxHCU)
 
 [壹读视频 005 新鲜的中央政府 - YouTube](https://www.youtube.com/watch?v=rZhZNUgvu0U)
 [壹读视频 018 三分钟看懂中国官员级别 - YouTube](https://www.youtube.com/watch?v=n7UYbgGljyc)

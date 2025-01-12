@@ -2,7 +2,7 @@
 title: Next.js
 description: ""
 created: 2021-01-19
-updated: 2024-06-16
+updated: 2025-01-09
 tags:
   - reactjs
   - static-site
@@ -73,11 +73,20 @@ npx build && npx export -o build/ # static HTML (SSG) without need of app server
 
 [OpenNext](https://open-next.js.org/) self-host Next.js using serverless
 
+[NextJS Is Hard To Self Host - YouTube](https://www.youtube.com/watch?v=E-w0R-leDMc)
+
 ## Commentaries
 
 [Why I Won't Use Next.js | Epic Web Dev by Kent C. Dodds](https://www.epicweb.dev/why-i-wont-use-nextjs)
 [Why I'm Using Next.js | Lee Robinson](https://leerob.io/blog/using-nextjs)
 [I DONT USE NEXT JS - YouTube](https://www.youtube.com/watch?v=UdCXUVhVSEE)
+
+## Next.js 15
+
+[Next.js 15 | Next.js](https://nextjs.org/blog/next-15)
+
+[Next.js 15 Breakdown (Everything You Need To Know) - YouTube](https://www.youtube.com/watch?v=fqabW3WRUbw)
+[This magic hack makes Next.js possible - YouTube](https://www.youtube.com/watch?v=VMDydLUCLtE)
 
 ## Next.js 13
 

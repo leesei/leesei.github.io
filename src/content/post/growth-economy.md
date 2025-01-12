@@ -2,7 +2,7 @@
 title: Growth Economy
 description: ""
 created: 2016-04-17
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - economics
 ---
@@ -32,7 +32,7 @@ If I had asked people what they wanted, they would have said faster horses. — 
 
 ## Second Machine Age
 
-Physical labour was replaced by machines with better strength in the _First Machine Age_. This displacement did created other job opportunities, hence the concept of [creative destruction](https://omni.wikiwand.com/en/Creative_destruction).
+Physical labour was replaced by machines with better strength in the _First Machine Age_. This displacement did created other job opportunities, hence the concept of [creative destruction](https://www.wikiwand.com/en/Creative_destruction).
 In the _Second Machine Age_, white collar labour will be replaced by cognitive computers. This time not much new job opportunities are created. Only creative works and personalized yet low paying works remains for human. The destructiveness outgrows the creation.
 
 AI won't replace human. It will replace human not using AI.

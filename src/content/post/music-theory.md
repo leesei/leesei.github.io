@@ -2,14 +2,14 @@
 title: Music Theory
 description: ""
 created: 2016-10-11
-updated: 2024-09-23
+updated: 2025-01-09
 tags:
   - music
   - trivia
 ---
 
-[Music theory - Wikiwand](https://omni.wikiwand.com/en/Music_theory)
-[樂理 - Wikiwand](https://omni.wikiwand.com/zh/%E6%A8%82%E7%90%86)
+[Music theory - Wikiwand](https://www.wikiwand.com/en/Music_theory)
+[樂理 - Wikiwand](https://www.wikiwand.com/zh/%E6%A8%82%E7%90%86)
 
 [musictheory.net - Lessons](http://www.musictheory.net/lessons) ❗!important
 [How Music Works : Overview : How Music Works](http://www.howmusicworks.org/)
@@ -33,10 +33,10 @@ tags:
 [NiceChord 好和弦 - 調式基礎 - YouTube](https://www.youtube.com/playlist?list=PLmVjZfPp5kiOBXB0O5366xQC0jyHCM6-B)
 [NiceChord 好和弦 - 音律的故事系列 - YouTube](https://www.youtube.com/playlist?list=PLmVjZfPp5kiMijHD7EEsNLV96uAOocDvD)
 
-[Sonata - Wikiwand](https://omni.wikiwand.com/en/Sonata)
-[奏鳴曲 - Wikiwand](https://omni.wikiwand.com/zh/%E5%A5%8F%E9%B8%A3%E6%9B%B2)
-[Cantata - Wikiwand](https://omni.wikiwand.com/en/Cantata)
-[清唱套曲 - Wikiwand](https://omni.wikiwand.com/zh/%E6%B8%85%E5%94%B1%E5%A5%97%E6%9B%B2)
+[Sonata - Wikiwand](https://www.wikiwand.com/en/Sonata)
+[奏鳴曲 - Wikiwand](https://www.wikiwand.com/zh/%E5%A5%8F%E9%B8%A3%E6%9B%B2)
+[Cantata - Wikiwand](https://www.wikiwand.com/en/Cantata)
+[清唱套曲 - Wikiwand](https://www.wikiwand.com/zh/%E6%B8%85%E5%94%B1%E5%A5%97%E6%9B%B2)
 
 [Complete Piano Theory Course: Chords, Intervals, Scales & More! - YouTube](https://www.youtube.com/watch?v=Ud9CpGOG1GE)
 [Music Theory ~ Review Video (AP and Undergraduate) - YouTube](https://www.youtube.com/watch?v=QAGUWiVC1ys)
@@ -55,7 +55,7 @@ Harmonic intervals: play notes simultaneously
 - rallentando
 - canto
 
-[自然音階 - Wikiwand](https://omni.wikiwand.com/zh/%E8%87%AA%E7%84%B6%E9%9F%B3%E9%98%B6)
+[自然音階 - Wikiwand](https://www.wikiwand.com/zh/%E8%87%AA%E7%84%B6%E9%9F%B3%E9%98%B6)
 [半音階如何改變世界? 從莫札特、蕭邦、到華格納 - YouTube](https://www.youtube.com/watch?v=QTVIAxtSrCI)
 [史上最精彩的歌劇「崔斯坦與伊索德」，如何用「半音階」描繪慾望? - YouTube](https://www.youtube.com/watch?v=80V6gPZuqfo)
 
@@ -79,10 +79,10 @@ Harmonic intervals: play notes simultaneously
 
 ### 音名/唱名
 
-[音名 - Wikiwand](https://omni.wikiwand.com/zh/%E9%9F%B3%E5%90%8D)
-[Key signature names and translations - Wikiwand](https://omni.wikiwand.com/en/Key_signature_names_and_translations)
-[Solfège - Wikiwand](https://omni.wikiwand.com/en/Solf%C3%A8ge)
-[唱名 - Wikiwand](https://omni.wikiwand.com/zh/%E5%94%B1%E5%90%8D)
+[音名 - Wikiwand](https://www.wikiwand.com/zh/%E9%9F%B3%E5%90%8D)
+[Key signature names and translations - Wikiwand](https://www.wikiwand.com/en/Key_signature_names_and_translations)
+[Solfège - Wikiwand](https://www.wikiwand.com/en/Solf%C3%A8ge)
+[唱名 - Wikiwand](https://www.wikiwand.com/zh/%E5%94%B1%E5%90%8D)
 
 音名 corresponds to a note at specific frequency
 唱名 is am alias given to the n-th note in the scale
@@ -102,7 +102,7 @@ Do, Di, Re, Ri, Mi, Fa, Fi, Sol, Si, La, Li, Ti
 ### Harmonic series
 
 [The most mind-blowing concept in music (Harmonic Series) - YouTube](https://www.youtube.com/watch?v=Wx_kugSemfY) also on tuning and temperament
-[Harmonic series (music) - Wikiwand](<https://omni.wikiwand.com/en/Harmonic_series_(music)>)
+[Harmonic series (music) - Wikiwand](<https://www.wikiwand.com/en/Harmonic_series_(music)>)
 All notes we hear are mixture of harmonic series of the fundamental tone (first harmonic)
 Different strength of the harmonics is the cause of timbre in different instruments
 This is how digital synthesizers mimics different instruments
@@ -127,18 +127,18 @@ where:
 [kennethreitz/pytheory: Music Theory for Humans.](https://github.com/kennethreitz/pytheory)
 
 [A = 432Hz - YouTube](https://www.youtube.com/watch?v=EKTZ151yLnk)
-[Scientific pitch - Wikiwand](https://omni.wikiwand.com/en/Scientific_pitch)
+[Scientific pitch - Wikiwand](https://www.wikiwand.com/en/Scientific_pitch)
 
-[Piano key frequencies - Wikiwand](https://omni.wikiwand.com/en/Piano_key_frequencies)
+[Piano key frequencies - Wikiwand](https://www.wikiwand.com/en/Piano_key_frequencies)
 
 ### Just intonation
 
-[Just intonation - Wikiwand](https://omni.wikiwand.com/en/Just_intonation) based on rational ratio of base frequency (harmonic series)
-[纯律 - Wikiwand](https://omni.wikiwand.com/zh/%E7%BA%AF%E5%BE%8B)
+[Just intonation - Wikiwand](https://www.wikiwand.com/en/Just_intonation) based on rational ratio of base frequency (harmonic series)
+[纯律 - Wikiwand](https://www.wikiwand.com/zh/%E7%BA%AF%E5%BE%8B)
 
 ### Intervals
 
-[Interval (music) - Wikiwand](<https://omni.wikiwand.com/en/Interval_(music)>)
+[Interval (music) - Wikiwand](<https://www.wikiwand.com/en/Interval_(music)>)
 [The Ultimate Guide to Interval Ear Training](https://www.musical-u.com/learn/ultimate-guide-to-interval-ear-training/)
 [Stichting Huygens-Fokker: List of intervals](https://www.huygens-fokker.org/docs/intervals.html)
 
@@ -150,13 +150,13 @@ Remember to include the start node when counting:
 - C and D has an interval of a 2nd (1 tone)
 - C and G has an interval of a 5th (3.5 tone)
 
-[Perfect fifth - Wikiwand](https://omni.wikiwand.com/en/Perfect_fifth) 纯五度, 7 semitones, 3:2 ratio
+[Perfect fifth - Wikiwand](https://www.wikiwand.com/en/Perfect_fifth) 纯五度, 7 semitones, 3:2 ratio
 Perfect forth, 4:3 ratio
 
 ### Tuning
 
-[Musical tuning - Wikiwand](https://omni.wikiwand.com/en/Musical%20tuning#Tuning_systems)
-[Musical temperament - Wikiwand](https://omni.wikiwand.com/en/Musical_temperament) compromises on the pure intervals of just intonation for instrument tuning
+[Musical tuning - Wikiwand](https://www.wikiwand.com/en/Musical%20tuning#Tuning_systems)
+[Musical temperament - Wikiwand](https://www.wikiwand.com/en/Musical_temperament) compromises on the pure intervals of just intonation for instrument tuning
 
 [重制版：音乐也有科学道理吗？Do、Re、Mi...都是如何确定的？李永乐老师讲音律 - YouTube](https://www.youtube.com/watch?v=v5QlocAclXY)
 frequency (pitch) rations 2:1, 3:2, 4:3 sound good to human
@@ -166,12 +166,12 @@ ISO picked 440Hz as the frequency of middle A
 [Noyce Guitars: Technotes: Equal Temperament & Guitar Tuning](http://www.noyceguitars.com/Technotes/Articles/T4.html)
 [Testing 432 Hz Frequencies (and temperaments) - YouTube](https://www.youtube.com/watch?v=ghUs-84NAAU)
 
-[Meantone temperament - Wikiwand](https://omni.wikiwand.com/en/Meantone_temperament)
+[Meantone temperament - Wikiwand](https://www.wikiwand.com/en/Meantone_temperament)
 
 ### 五度相生法/Pythagorean tuning
 
-[五度相生律 - Wikiwand](https://omni.wikiwand.com/zh/%E4%BA%94%E5%BA%A6%E7%9B%B8%E7%94%9F%E5%BE%8B)
-[Pythagorean tuning - Wikiwand](https://omni.wikiwand.com/en/Pythagorean_tuning)
+[五度相生律 - Wikiwand](https://www.wikiwand.com/zh/%E4%BA%94%E5%BA%A6%E7%9B%B8%E7%94%9F%E5%BE%8B)
+[Pythagorean tuning - Wikiwand](https://www.wikiwand.com/en/Pythagorean_tuning)
 based on ratio of 3:2 ("pure" perfect fifths)
 
 [How Pythagoras Broke Music (and how we kind of fixed it) - YouTube](https://www.youtube.com/watch?v=EdYzqLgMmgk)
@@ -182,13 +182,13 @@ based on ratio of 3:2 ("pure" perfect fifths)
 - lower by an octave is if it is higher than one (\* 1/2)
 - requires the Pythagoras comma for correction every 12 notes (7 octaves)
 
-[中國五聲音階 - Wikiwand](https://omni.wikiwand.com/zh/%E4%B8%AD%E5%9C%8B%E4%BA%94%E8%81%B2%E9%9F%B3%E9%9A%8E)
+[中國五聲音階 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%AD%E5%9C%8B%E4%BA%94%E8%81%B2%E9%9F%B3%E9%9A%8E)
 宮商角徵羽 Do Re Mi Sol La
 
 ### 三分損益法
 
-[十二律 - Wikiwand](https://omni.wikiwand.com/zh/%E5%8D%81%E4%BA%8C%E5%BE%8B) 管仲
-[Shí-èr-lǜ - Wikiwand](https://omni.wikiwand.com/en/Sh%C3%AD-%C3%A8r-l%C7%9C)
+[十二律 - Wikiwand](https://www.wikiwand.com/zh/%E5%8D%81%E4%BA%8C%E5%BE%8B) 管仲
+[Shí-èr-lǜ - Wikiwand](https://www.wikiwand.com/en/Sh%C3%AD-%C3%A8r-l%C7%9C)
 
 [三分损益法\_百度百科](https://baike.baidu.com/item/%E4%B8%89%E5%88%86%E6%8D%9F%E7%9B%8A%E6%B3%95)
 [三分損益\_古音律的形成與宮商角徵羽 - YouTube](https://www.youtube.com/watch?v=JkSL5mtrGI4)
@@ -199,10 +199,10 @@ Geometric mean, keeping ratios of neighbor notes constant (one semitone)
 
 Chromatic Scale: All 12 piano keys from C to C (an octave)
 C C♯/D♭ D D♯/E♭ E F F♯/G♭ G G♯/A♭ A A♯/B♭ B/C♭ C
-[Chromatic scale - Wikiwand](https://omni.wikiwand.com/en/Chromatic_scale)
+[Chromatic scale - Wikiwand](https://www.wikiwand.com/en/Chromatic_scale)
 
-[Equal temperament - Wikiwand](https://omni.wikiwand.com/en/Equal_temperament)
-[十二平均律 - Wikiwand](https://omni.wikiwand.com/zh/%E5%8D%81%E4%BA%8C%E5%B9%B3%E5%9D%87%E5%BE%8B) 朱載堉
+[Equal temperament - Wikiwand](https://www.wikiwand.com/en/Equal_temperament)
+[十二平均律 - Wikiwand](https://www.wikiwand.com/zh/%E5%8D%81%E4%BA%8C%E5%B9%B3%E5%9D%87%E5%BE%8B) 朱載堉
 [Why Does Music Only Use 12 Different Notes? - YouTube](https://www.youtube.com/watch?v=lvmzgVtZtUQ)
 [Why It's Impossible to Tune a Piano - YouTube](https://www.youtube.com/watch?v=1Hqm0dYKUx4)
 
@@ -223,7 +223,7 @@ Relative Major and Minor: the scales uses exactly the same notes (thus having th
 #### Mnemonic
 
 Refer to the number of sharps and flats to add in the Circle of fifths
-[Circle of fifths - Wikiwand](https://omni.wikiwand.com/en/Circle_of_fifths)
+[Circle of fifths - Wikiwand](https://www.wikiwand.com/en/Circle_of_fifths)
 [The Circle of Fifths Explained | LedgerNote](https://ledgernote.com/columns/music-theory/circle-of-fifths-explained/)
 [The Ultimate Guide to the Circle of Fifths - Musical U](https://www.musical-u.com/learn/how-to-use-circle-fifths/)
 [一部影片之內，真的完全搞懂「五度圈」！（Circle of Fifths） - YouTube](https://www.youtube.com/watch?v=EyF7EBnmdEs)
@@ -241,7 +241,7 @@ F♯, C♯, G♯, D♯, A♯, E♯/F, B♯
 
 ### Chord
 
-[Chord (music) - Wikiwand](<https://omni.wikiwand.com/en/Chord_(music)>)
+[Chord (music) - Wikiwand](<https://www.wikiwand.com/en/Chord_(music)>)
 
 The 1st, 3rd, 5th notes on a scale is called a triad.
 The 1st and 5th notes of major chord and minor chord are always the same (perfect fifth = 3.5 tones).
@@ -273,21 +273,21 @@ crotchet (quarter note): spi-der spi-der
 quavers (eighth note): cat-er-pil-lar cat-er-pil-lar
 semiquavers (sixteenth note)
 
-[Slur (music) - Wikiwand](<https://omni.wikiwand.com/en/Slur_(music)>)
-[圓滑線 - Wikiwand](https://omni.wikiwand.com/zh/%E5%9C%93%E6%BB%91%E7%B7%9A)
+[Slur (music) - Wikiwand](<https://www.wikiwand.com/en/Slur_(music)>)
+[圓滑線 - Wikiwand](https://www.wikiwand.com/zh/%E5%9C%93%E6%BB%91%E7%B7%9A)
 
 valid: `((3:2:2 D2D)`
 invalid: `((3 D2D)`
 
-[Staccato - Wikiwand](https://omni.wikiwand.com/en/Staccato)
-[斷奏 - Wikiwand](https://omni.wikiwand.com/zh/%E8%B7%B3%E9%9F%B3) 斷音
+[Staccato - Wikiwand](https://www.wikiwand.com/en/Staccato)
+[斷奏 - Wikiwand](https://www.wikiwand.com/zh/%E8%B7%B3%E9%9F%B3) 斷音
 
 [EVERY Time Signature EXPLAINED (using Nintendo Music) - YouTube](https://www.youtube.com/watch?v=0g00Pd8Xfu4)
 [What's the difference between 3/4 and 6/8 time? - YouTube](https://www.youtube.com/watch?v=N4q2kBe82-o)
 
 ## Tempo (speed)
 
-[Tempo - Wikiwand](https://omni.wikiwand.com/en/Tempo)
+[Tempo - Wikiwand](https://www.wikiwand.com/en/Tempo)
 duration of crotchet (quarter note), in M.M. (Maclzel's Metronome)
 
 - presto
@@ -310,13 +310,13 @@ duration of crotchet (quarter note), in M.M. (Maclzel's Metronome)
 
 ## Music Notation
 
-[Musical notation - Wikiwand](https://omni.wikiwand.com/en/Musical_notation)
-[List of musical symbols - Wikiwand](https://omni.wikiwand.com/en/List_of_musical_symbols)
+[Musical notation - Wikiwand](https://www.wikiwand.com/en/Musical_notation)
+[List of musical symbols - Wikiwand](https://www.wikiwand.com/en/List_of_musical_symbols)
 [How to read music - Tim Hansen - YouTube](https://www.youtube.com/watch?v=ZN41d7Txcq0&t=22s)
 
-[Scientific pitch notation - Wikiwand](https://omni.wikiwand.com/en/Scientific_pitch_notation)
+[Scientific pitch notation - Wikiwand](https://www.wikiwand.com/en/Scientific_pitch_notation)
 
-[Intonation (music) - Wikiwand](<https://omni.wikiwand.com/en/Intonation_(music)>)
+[Intonation (music) - Wikiwand](<https://www.wikiwand.com/en/Intonation_(music)>)
 
 [music21: a Toolkit for Computer-Aided Musicology](https://web.mit.edu/music21/)
 
@@ -335,7 +335,7 @@ Clefs are symbols to denote how high or low the music is going to sound
 ### abc notation
 
 [abc | home](http://abcnotation.com/) a text-based music notation system and the de facto standard for folk and traditional music. It can be used to generate MIDI and score.
-[ABC notation - Wikiwand](https://omni.wikiwand.com/en/ABC_notation)
+[ABC notation - Wikiwand](https://www.wikiwand.com/en/ABC_notation)
 
 [ABC (musical notation) - Just Solve the File Format Problem](<http://justsolve.archiveteam.org/wiki/ABC_(musical_notation)>)
 [abcjs: Table of Contents](https://paulrosen.github.io/abcjs/examples/toc.html)
@@ -390,7 +390,7 @@ E2E EFE|E2E EFG|[M:9/8] A2G F2E D2|]
 ### MusicXML
 
 [MusicXML for Exchanging Digital Sheet Music](https://www.musicxml.com/)
-[MusicXML - Wikiwand](https://omni.wikiwand.com/en/MusicXML)
+[MusicXML - Wikiwand](https://www.wikiwand.com/en/MusicXML)
 [MusicXML 3.0 Specification](https://www.musicxml.com/for-developers/)
 
 ## Midi
@@ -508,7 +508,7 @@ black notes on piano
 
 ### Kazoo 卡祖笛
 
-[卡祖笛 - Wikiwand](https://omni.wikiwand.com/zh-hk/%E5%8D%A1%E7%A5%96%E7%AC%9B)
+[卡祖笛 - Wikiwand](https://www.wikiwand.com/zh-hk/%E5%8D%A1%E7%A5%96%E7%AC%9B)
 
 [♪Your Music 愉耳樂器 ♪ 卡祖笛是什麼？？｜ kazzo ｜英國 Clarke ｜ Dunlop 塑膠｜ woodman 實木 卡祖笛 實測 - YouTube](https://www.youtube.com/watch?v=-T8VX9E5ABw)
 [LOL 樂器開箱|| 卡祖笛 - YouTube](https://www.youtube.com/watch?v=oaZYUc64T6Y)
@@ -523,6 +523,7 @@ black notes on piano
 ### Guitar
 
 [Guitar Fretboard: Master the Notes on the Neck](https://www.ubisoft.com/en-us/game/rocksmith/plus/news-updates/2Qdrcji7gE9pOhUvcBiqFC/guitar-fretboard-master-the-notes-on-the-neck)
+[Only Guitar Music Theory You Need in 5 Minutes](https://www.yourguitarsage.com/blog/only-guitar-music-theory-you-need-in-5-minutes)
 
 ### Ukulele
 
@@ -547,6 +548,6 @@ black notes on piano
 [New York, New York on hard drive speaker - YouTube](https://www.youtube.com/watch?v=A6OR27bH0qE)
 [Darude - Sandstorm on hard drive speaker - YouTube](https://www.youtube.com/watch?v=juE7NcCYz3Q)
 
-[Motor Sound Generator: 4 Steps (with Pictures)](https://www.instructables.com/id/Motor-Sound-generator/)
-[Music With Servo Motor: 3 Steps](https://www.instructables.com/id/Music-With-Servo-Motor/)
+[Motor Sound Generator: 4 Steps (with Pictures)](https://www.instructables.com/Motor-Sound-generator/)
+[Music With Servo Motor: 3 Steps](https://www.instructables.com/Music-With-Servo-Motor/)
 [【社长说 29】这些神仙制造的朋克乐器有多硬核 - YouTube](https://www.youtube.com/watch?v=mmP-XUSrLPw)

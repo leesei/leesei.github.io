@@ -2,7 +2,7 @@
 title: Magic
 description: ""
 created: 2019-08-21
-updated: 2023-12-01
+updated: 2025-01-10
 tags:
   - magic
   - trivia
@@ -18,3 +18,11 @@ Penn and Teller Fool Us
 3. Transposition
 4. Transformation
 5. Natural Laws Defied
+
+[irehman7 - YouTube](https://www.youtube.com/@irehman7) magic reveals
+[玩牌的天天tiant - YouTube](https://www.youtube.com/@tiant238)
+[Confused feat - YouTube](https://www.youtube.com/@Confusedfeat/shorts)
+[魔術師查尼 - YouTube](https://www.youtube.com/@magicchani)
+[MW Magic Tutorials - YouTube](https://www.youtube.com/@MwMagicTutorials)
+[magic qingfeng - YouTube](https://www.youtube.com/@magicqingfeng/shorts)
+[Magician VEVE - YouTube](https://www.youtube.com/@magician_veve)

@@ -2,7 +2,7 @@
 title: Makeblock
 description: ""
 created: 2019-06-12
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - comp/hardware
   - iot
@@ -12,7 +12,7 @@ tags:
   - orion
 ---
 
-[Makeblock - Wikiwand](https://omni.wikiwand.com/en/Makeblock)
+[Makeblock - Wikiwand](https://www.wikiwand.com/en/Makeblock)
 [Makeblock: Global STEAM Education Solution Provider](https://www.makeblock.com/)
 [Makeblock HK | STEM Education Robotics Platform](http://makeblock.hk/)
 [Makeblock 官网-全球 STEAM 教育解决方案领导者](https://www.makeblock.com/cn)
@@ -47,11 +47,11 @@ tags:
 
 [xeecos/python-for-mbot: A Python interface to control and communicate with mBot robot kit](https://github.com/xeecos/python-for-mbot)
 
-[Interactive MBot With JavaScript: 4 Steps](https://www.instructables.com/id/Interactive-mBot-with-JavaScript/)
+[Interactive MBot With JavaScript: 4 Steps](https://www.instructables.com/Interactive-mBot-with-JavaScript/)
 [Makeblock-official/mbot_nodebots](https://github.com/Makeblock-official/mbot_nodebots)
 
 [Getting Started: Wire up Your Creation - Makeblock](https://www.makeblock.com/project/step-1-wiring-color-marker-show-the-modules-connection-for-correct)
-[Advanced Makeblock Sensors (DIY): 32 Steps (with Pictures)](https://www.instructables.com/id/Advanced-Makeblock-Sensors-DIY/) !important
+[Advanced Makeblock Sensors (DIY): 32 Steps (with Pictures)](https://www.instructables.com/Advanced-Makeblock-Sensors-DIY/) !important
 [Me RJ25 Adapter - Makeblock](https://www.makeblock.com/project/me-rj25-adapter)
 
 [mBot Serial Port Protocol - Makeblock](https://www.makeblock.com/project/mbot-serial-port-protocol)
@@ -131,7 +131,7 @@ It is also known as Baseboard
 [2017 探奇 mBot mblock 機器人齊步走 15 小時課程講義 v7](https://www.slideshare.net/renchiou/2017-mbot-mblock-15-v7)
 [[mbot] 我的 mbot 教學記錄 II (2018~已完成) @zfang の科學小玩意](http://n.sfs.tw/content/index/12238) !important
 [[合集] mBot 教學 - makeblock education](http://education.makeblock.com/zh-hans/resource/%E5%90%88%E9%9B%86-mbot-%E6%95%99%E5%AD%B8/) [吳錫修](https://www.slideshare.net/sshiouwu/presentations) !important, 2018 version
-[Programming With Scratch X for Makeblock MBot : 4 Steps](https://www.instructables.com/id/Programming-With-Scratch-X-for-Makeblock-MBot/)
+[Programming With Scratch X for Makeblock MBot : 4 Steps](https://www.instructables.com/Programming-With-Scratch-X-for-Makeblock-MBot/)
 
 [mBot - YouTube](https://www.youtube.com/playlist?list=PL0SbEqiUD3gxR2nv5ZcHzFudksPz6e2tc) 粤語
 [Makeblock - mBot 小學堂珊子姊姊教學影片 - YouTube](https://www.youtube.com/playlist?list=PL9SylZdGlmQNQYK1f5qXW0Ump8hGbEYuz)

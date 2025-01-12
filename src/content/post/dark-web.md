@@ -2,7 +2,7 @@
 title: Dark Web
 description: ""
 created: 2023-03-06
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - security
   - web
@@ -11,6 +11,8 @@ tags:
 [The "dark web" is being used to post Medibank data. What is it?](https://thenewdaily.com.au/finance/finance-news/2022/11/17/medibank-dark-web/)
 
 [The Hacker’s Choice | Founded in 1995](https://www.thc.org/segfault/) Disposable Root Servers
+
+[The Best Dark Web Browser for Your Device](https://www.makeuseof.com/tag/dark-web-browser/)
 
 [Tor Project | Anonymity Online](https://www.torproject.org/)
 [Onion Router - an overview | ScienceDirect Topics](https://www.sciencedirect.com/topics/computer-science/onion-router)
@@ -29,3 +31,5 @@ tags:
 [Tor Project | Set up Your Onion Service](https://community.torproject.org/onion-services/setup/)
 [Generating a Vanity Address for Version 3 Onions | www.bentasker.co.uk](https://www.bentasker.co.uk/posts/documentation/linux/708-generating-a-vanity-address-for-version-3-onions.html)
 [Create Your Own Dark Web Website - YouTube](https://www.youtube.com/watch?v=YXoS8wd1DJo)
+
+[SilenceGeneric/DarkAI: A dark web analysis tool.](https://github.com/SilenceGeneric/DarkAI)

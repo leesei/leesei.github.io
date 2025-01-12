@@ -2,7 +2,7 @@
 title: Shell string expansion
 description: ""
 created: 2014-12-08
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - linux
   - shell

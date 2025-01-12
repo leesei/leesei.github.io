@@ -2,7 +2,7 @@
 title: Self Hosting
 description: Usage includes homelab and self-hosted components for commercial projects
 created: 2023-06-10
-updated: 2024-08-12
+updated: 2025-01-09
 tags:
   - devops
 ---

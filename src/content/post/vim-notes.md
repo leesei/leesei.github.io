@@ -2,7 +2,7 @@
 title: Vim notes
 description: A screen-oriented text editor originally created for the Unix operating system
 created: 2015-01-14
-updated: 2024-07-04
+updated: 2025-01-09
 tags:
   - app
   - shell-tool

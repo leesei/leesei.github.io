@@ -2,7 +2,7 @@
 title: Enterprise Server
 description: ""
 created: 2016-02-17
-updated: 2024-09-02
+updated: 2025-01-09
 tags:
   - comp/hardware
   - enterprise
@@ -72,7 +72,7 @@ SAS (serial attached SCSI) and SATA uses the same connector. Its the protocol ov
 
 [What is nearline storage? - Definition from WhatIs.com](https://searchstorage.techtarget.com/definition/near-line-storage)
 
-[iSCSI - Wikiwand](https://omni.wikiwand.com/en/iSCSI)
+[iSCSI - Wikiwand](https://www.wikiwand.com/en/iSCSI)
 [What is iSCSI (Internet Small Computer System Interface)? - Definition from WhatIs.com](https://searchstorage.techtarget.com/definition/iSCSI)
 [What you need to know about improving iSCSI performance](https://searchstorage.techtarget.com/podcast/iSCSI-performance-An-expert-discussion-with-Dennis-Martin)
 
@@ -90,9 +90,9 @@ DAS = Direct Attached Storage (drives inside a server node)
 HBA = host bus adapter (offload network processing from CPU in FC SAN)
 JBOD?
 
-[Storage area network - Wikiwand](http://omni.wikiwand.com/en/Storage_area_network)
-[Network-attached storage - Wikiwand](http://omni.wikiwand.com/en/Network-attached_storage)
-[Object storage - Wikiwand](http://omni.wikiwand.com/en/Object_storage)
+[Storage area network - Wikiwand](http://www.wikiwand.com/en/Storage_area_network)
+[Network-attached storage - Wikiwand](http://www.wikiwand.com/en/Network-attached_storage)
+[Object storage - Wikiwand](http://www.wikiwand.com/en/Object_storage)
 
 [Introduction to Storage Area Networks](https://www.redbooks.ibm.com/redbooks/pdfs/sg245470.pdf) (PDF)
 [How to create a high-availability configuration with Synology NAS - Tutorials - Synology - Network Attached Storage (NAS)](https://www.synology.com/en-us/knowledgebase/tutorials/585)
@@ -156,9 +156,9 @@ Unified storage unit supports SAN and NAS, with FC and iSCSI interface
 
 ### RAID
 
-[RAID - Wikiwand](http://omni.wikiwand.com/en/RAID)
-[Standard RAID levels - Wikiwand](https://omni.wikiwand.com/en/Standard_RAID_levels)
-[Nested RAID levels - Wikiwand](https://omni.wikiwand.com/en/Nested_RAID_levels#/RAID_100_.28RAID_10.2B0.29)
+[RAID - Wikiwand](http://www.wikiwand.com/en/RAID)
+[Standard RAID levels - Wikiwand](https://www.wikiwand.com/en/Standard_RAID_levels)
+[Nested RAID levels - Wikiwand](https://www.wikiwand.com/en/Nested_RAID_levels#/RAID_100_.28RAID_10.2B0.29)
 [RAID - ArchWiki](https://wiki.archlinux.org/title/RAID)
 
 [What is RAID 0, 1, 5, & 10? - YouTube](https://www.youtube.com/watch?v=U-OCdTeZLac)

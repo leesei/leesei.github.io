@@ -2,7 +2,7 @@
 title: Gradle
 description: ""
 created: 2019-04-04
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - comp/lang
   - gradle

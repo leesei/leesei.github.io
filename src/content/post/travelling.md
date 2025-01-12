@@ -2,6 +2,7 @@
 title: Travelling
 description: ""
 created: 2024-01-26
+updated: 2025-01-09
 tags:
   - trivia
 ---

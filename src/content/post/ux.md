@@ -2,7 +2,7 @@
 title: User Experience (UX)
 description: ""
 created: 2015-06-25
-updated: 2024-08-19
+updated: 2025-01-09
 tags:
   - ui
   - ux
@@ -74,7 +74,7 @@ Most Advanced. Yet Acceptable.
 [The God Login](http://blog.codinghorror.com/the-god-login/)
 [How to get better at UI and UX design](http://ui-patterns.com/blog/How-to-get-better-at-UI-design)
 [Rethinking the Mobile Web by Yiibu](http://www.slideshare.net/bryanrieger/rethinking-the-mobile-web-by-yiibu)
-[UI & UX Micro-Tips: The Ultimate Collection | by Marc Andrew | UX Collective](https://uxdesign.cc/ui-ux-micro-tips-the-ultimate-collection-a07d56c9e98?gi=74ef0e011b62)
+[UI & UX Micro-Tips: The Ultimate Collection | by Marc Andrew | UX Collective](https://uxdesign.cc/ui-ux-micro-tips-the-ultimate-collection-a07d56c9e98)
 
 [What is the difference between UX and UI designer and web designer? - Quora](http://www.quora.com/What-is-the-difference-between-UX-and-UI-designer-and-web-designer)
 [What’s the difference between UX and UI design? | by Steven Paul Winkelstein | UX Collective](https://uxdesign.cc/whats-the-difference-between-ux-and-ui-design-7ad6f732935c)
@@ -136,7 +136,7 @@ Most Advanced. Yet Acceptable.
 
 ### Gestalt Principles
 
-[Gestalt psychology - Wikiwand](https://omni.wikiwand.com/en/Gestalt_psychology)
+[Gestalt psychology - Wikiwand](https://www.wikiwand.com/en/Gestalt_psychology)
 [The Gestalt Principles](http://graphicdesign.spokanefalls.edu/tutorials/process/gestaltprinciples/gestaltprinc.htm)
 [Gestalt-Driven UX: The Patterns That Drive Our World](https://hackernoon.com/design-psychology-gestalt-driven-ux-64ac01cd257a)
 [7 Gestalt Principles of Visual Perception | UserTesting Blog](https://www.usertesting.com/blog/gestalt-principles/)
@@ -176,7 +176,7 @@ Most Advanced. Yet Acceptable.
 ## Fluent Design System
 
 [Microsoft Design](https://www.microsoft.com/design/fluent/)
-[Fluent Design System - Wikiwand](https://omni.wikiwand.com/en/Fluent_Design_System)
+[Fluent Design System - Wikiwand](https://www.wikiwand.com/en/Fluent_Design_System)
 
 [Design and code Windows apps - Windows apps | Microsoft Learn](https://learn.microsoft.com/en-us/windows/apps/design/)
 [Microsoft’s Fluent Design System threatens to make Windows look good | Ars Technica](https://arstechnica.com/information-technology/2017/05/taking-a-closer-look-at-microsofts-fluent-design-system/)
@@ -393,6 +393,20 @@ Cross platform runtime
 
 [Barba.js](http://barbajs.org/index.html) Create badass, fluid and smooth transition between your website's pages.
 
+[Rombo | Animation library for Tailwind CSS Library](https://rombo.co/tailwind/)
+[romboHQ/tailwindcss-motion: tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.](https://github.com/romboHQ/tailwindcss-motion)
+[New package makes animation easy in Tailwind?? 👀 - YouTube](https://www.youtube.com/watch?v=gTi7whoLFGc)
+
+#### Motion
+
+> originally Framer Motion for React
+
+[Motion - A modern animation library for JavaScript and React](https://motion.dev/)
+[The animation library you should probably be using - YouTube](https://www.youtube.com/watch?v=bItvhlRVQhM)
+
+[Responsive Framer Motion with Tailwind CSS - YouTube](https://www.youtube.com/watch?v=xSuxsfn13xg)
+[How to Use Framer Motion to Add Animations and Page Transitions to a Next.js React App - YouTube](https://www.youtube.com/watch?v=q9tpBtvTTz8)
+
 ## Colors
 
 [[color]]
@@ -410,12 +424,12 @@ Cross platform runtime
 
 ## Internationalization (i18n) and Localization (l10n)
 
-[Internationalization and localization - Wikiwand](https://omni.wikiwand.com/en/Internationalization_and_localization)
+[Internationalization and localization - Wikiwand](https://www.wikiwand.com/en/Internationalization_and_localization)
 
 A locale is usually defined by `{lang}_{country}` where `lang` is a two-letter language code (ISO 639-1), `country` is two-letter upper-case country code (ISO 3166-1 alpha-2)
 
 [[learn-to-code#Country Code]]
-[ISO 639-1 - Wikiwand](https://omni.wikiwand.com/en/ISO_639-1) two-letter language code
+[ISO 639-1 - Wikiwand](https://www.wikiwand.com/en/ISO_639-1) two-letter language code
 
 [Internationalis(z)ing Code - Computerphile - YouTube](https://www.youtube.com/watch?v=0j74jcxSunY)
 [Internationalization (I18n): A Simple Definition - DZone Java](https://dzone.com/articles/internationalization-i18n-a-simple-definition?fromrel=true)
@@ -443,7 +457,7 @@ A locale is usually defined by `{lang}_{country}` where `lang` is a two-letter l
 
 [UTS #35: Unicode Locale Data Markup Language](https://www.unicode.org/reports/tr35/tr35-59/tr35.html)
 
-[IETF language tag - Wikiwand](https://omni.wikiwand.com/en/IETF_language_tag)
+[IETF language tag - Wikiwand](https://www.wikiwand.com/en/IETF_language_tag)
 [https://tools.ietf.org/rfc/bcp/bcp47.txt](https://tools.ietf.org/rfc/bcp/bcp47.txt)
 BCP 47 = RFC 5646 + RFC 4647
 "en", "en-US", "zh", "zh-Hans", "zh-Hant"
@@ -455,7 +469,7 @@ BCP 47 = RFC 5646 + RFC 4647
 
 ### Gettext
 
-[Gettext - Wikiwand](https://omni.wikiwand.com/en/Gettext)
+[Gettext - Wikiwand](https://www.wikiwand.com/en/Gettext)
 
 [GNU gettext utilities](https://www.gnu.org/software/gettext/manual/gettext.html)
 [xgettext Invocation (GNU gettext utilities)](https://www.gnu.org/savannah-checkouts/gnu/gettext/manual/html_node/xgettext-Invocation.html)

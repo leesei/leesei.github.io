@@ -2,13 +2,13 @@
 title: Batman Games
 description: ""
 created: 2018-01-10
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - batman
   - games
 ---
 
-[Batman: Arkham - Wikiwand](https://omni.wikiwand.com/en/Batman:_Arkham)
+[Batman: Arkham - Wikiwand](https://www.wikiwand.com/en/Batman:_Arkham)
 [Batman: Arkham Series | Arkham Wiki | Fandom](https://arkhamcity.fandom.com/wiki/Batman:_Arkham_Series)
 
 [The Arkham Legacy | Batman Arkham Retrospective - YouTube](https://www.youtube.com/watch?v=_UPXsaOyY3U)

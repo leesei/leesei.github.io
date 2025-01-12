@@ -2,7 +2,7 @@
 title: Markdown
 description: ""
 created: 2015-04-23
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - comp/lang
   - markdown
@@ -17,7 +17,7 @@ tags:
 [BubuAnabelas/awesome-markdown: Delightful Markdown stuff.](https://github.com/BubuAnabelas/awesome-markdown)
 [mundimark/awesome-markdown: A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)](https://github.com/mundimark/awesome-markdown)
 
-[Lightweight markup language - Wikiwand](http://omni.wikiwand.com/en/Lightweight_markup_language)
+[Lightweight markup language - Wikiwand](http://www.wikiwand.com/en/Lightweight_markup_language)
 [Is HTML a Humane Markup Language?](http://blog.codinghorror.com/is-html-a-humane-markup-language/)
 [黑暗執行緒 分類檢視：markdown](https://blog.darkthread.net/blog/category/markdown)
 
@@ -87,7 +87,13 @@ tags:
 [paper-terminal — command-line utility in Rust // Lib.rs](https://lib.rs/crates/paper-terminal)
 
 [NotNinja/europa: Pure JavaScript library for converting HTML into valid Markdown](https://github.com/NotNinja/europa)
-CopyCat Chrome Extension
+
+[BlackGlory/copycat: 🌳 Copy content from web powerful than ever before.](https://github.com/BlackGlory/copycat) CopyCat Chrome Extension
+
+### MarkItDown
+
+[Microsoft Open Sourced MarkItDown: An AI Tool to Convert All Files into Markdown for Seamless Integration and Analysis - MarkTechPost](https://www.marktechpost.com/2024/12/18/microsoft-open-sourced-markitdown-an-ai-tool-to-convert-all-files-into-markdown-for-seamless-integration-and-analysis/)
+[microsoft/markitdown: Python tool for converting files and office documents to Markdown.](https://github.com/microsoft/markitdown)
 
 ## Parsers
 
@@ -103,6 +109,9 @@ Extensible:
 [phenomic/markdown-as-json](https://github.com/phenomic/markdown-as-json)
 
 [LeaVerou/md-block: A custom element for rendering stylable (light DOM) Markdown](https://github.com/LeaVerou/md-block) `<md-block>`
+
+[BlackGlory/rmdast: 🌳 Renderable Markdown Abstract Syntax Tree.](https://github.com/BlackGlory/rmdast)
+[syntax-tree/mdast at 4.0.0](https://github.com/syntax-tree/mdast/tree/4.0.0)
 
 [rsms/markdown-wasm: Markdown parser and HTML generator implemented in WebAssembly, based on md4c](https://github.com/rsms/markdown-wasm)
 [Markdown-Wasm, a Very Fast Markdown Parser Written in WebAssembly](https://www.infoq.com/news/2020/10/markdown-wasm-fast-parser/)

@@ -2,7 +2,7 @@
 title: OpenShift
 description: ""
 created: 2014-12-11
-updated: 2024-03-05
+updated: 2025-01-09
 tags:
   - container
   - dev/deploy

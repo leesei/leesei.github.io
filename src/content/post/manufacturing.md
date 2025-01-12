@@ -2,7 +2,7 @@
 title: Manufacturing
 description: ""
 created: 2023-06-10
-updated: 2024-06-21
+updated: 2025-01-09
 tags:
   - manufacturing
   - science

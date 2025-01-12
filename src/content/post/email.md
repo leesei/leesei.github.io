@@ -2,7 +2,7 @@
 title: Email Services
 description: ""
 created: 2015-11-19
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - ldap
   - mail
@@ -14,19 +14,19 @@ tags:
 
 ## POP
 
-[Post Office Protocol - Wikiwand](https://omni.wikiwand.com/en/Post_Office_Protocol)
+[Post Office Protocol - Wikiwand](https://www.wikiwand.com/en/Post_Office_Protocol)
 [Everything You Need to Know About POP](https://www.lifewire.com/what-is-pop-post-office-protocol-1171121)
 
 ## IMAP
 
-[Internet Message Access Protocol - Wikiwand](https://omni.wikiwand.com/en/Internet_Message_Access_Protocol)
+[Internet Message Access Protocol - Wikiwand](https://www.wikiwand.com/en/Internet_Message_Access_Protocol)
 [What IMAP Email Can Do for You](https://www.lifewire.com/what-does-imap-do-1166415)
 
 ## SMTP
 
 > outgoing
 
-[Simple Mail Transfer Protocol - Wikiwand](http://omni.wikiwand.com/en/Simple_Mail_Transfer_Protocol)
+[Simple Mail Transfer Protocol - Wikiwand](http://www.wikiwand.com/en/Simple_Mail_Transfer_Protocol)
 [RFC 5321 - Simple Mail Transfer Protocol](https://tools.ietf.org/html/rfc5321)
 
 [16 Command Examples to Send Email From The Linux Command Line](https://blog.edmdesigner.com/send-email-from-linux-command-line/)

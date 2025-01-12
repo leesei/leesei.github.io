@@ -2,7 +2,7 @@
 title: HTML Canvas
 description: ""
 created: 2016-04-08
-updated: 2024-03-12
+updated: 2025-01-09
 tags:
   - web
   - web/2d

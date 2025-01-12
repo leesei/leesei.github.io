@@ -2,7 +2,7 @@
 title: Games History
 description: ""
 created: 2019-06-20
-updated: 2024-09-02
+updated: 2025-01-09
 tags:
   - games
   - history
@@ -28,7 +28,7 @@ tags:
 [遊戲浪人 - YouTube](https://www.youtube.com/@user-uw2hp5en8q)
 [游戏茶馆 - YouTube](https://www.youtube.com/@gameteahouse)
 
-[I am Error - Wikiwand](https://omni.wikiwand.com/en/I_am_Error)
+[I am Error - Wikiwand](https://www.wikiwand.com/en/I_am_Error)
 
 [The Entire History of Video Games - YouTube](https://www.youtube.com/watch?v=argpSxB1NQE) NeverKnowsBest, 5:59:29
 
@@ -108,8 +108,6 @@ tags:
 
 ## Square RPGs
 
-[Chrono Trigger Complete Story Explained - YouTube](https://www.youtube.com/watch?v=_JoPAn_dbr0)
-
 [Final Fantasy VI Complete Story Explained - YouTube](https://www.youtube.com/watch?v=nujwBh1A5X4)
 
 [Let's Mosey: A Slow Translation Of Final Fantasy VII - YouTube](https://www.youtube.com/playlist?list=PLsiJPoHlPqEEA07AKMQ2Hm2oRLiGkR_uJ)
@@ -123,6 +121,14 @@ tags:
 [Zack Fair's Origins Explained ► Final Fantasy 7 + Crisis Core Lore - YouTube](https://www.youtube.com/watch?v=57exqEbogYM)
 
 [【游戏通鉴 Vol.1】40 分钟讲完《最终幻想 8》 - YouTube](https://www.youtube.com/watch?v=CAQDkDMIrss)
+
+### Chrono Trigger
+
+[Chrono Trigger Complete Story Explained - YouTube](https://www.youtube.com/watch?v=_JoPAn_dbr0)
+
+[主角中途死亡！魔王入隊拯救世界？豆瓣評分9.4神作，史上第一RPG《超時空之輪》到底講述了什麼？ - YouTube](https://www.youtube.com/watch?v=OnDyhGVQyFY)
+[主角和Boss互換身體？遊戲史上最經典的RPG之一，神作《超時空之匙2》（CHRONO CROSS）講述了什麼？ - YouTube](https://www.youtube.com/watch?v=UFV1438reso)
+[即使25年過去了，我仍然覺得這是遊戲史上最浪漫的結局之一！神作《超時空之匙2》（CHRONO CROSS）講述了什麼？（下） - YouTube](https://www.youtube.com/watch?v=_98r-XgTA4U)
 
 ## Doom
 
@@ -198,11 +204,13 @@ Speed runs usually exploit glitches in game.
 
 ## Consoles
 
-[Nostalgia Nerd - YouTube](https://www.youtube.com/user/nostalgianerdvideos/playlists?view=50&sort=dd&shelf_id=14)
+[Nostalgia Nerd - YouTube](https://www.youtube.com/user/nostalgianerdvideos/playlists)
 [Modern Vintage Gamer - YouTube](https://www.youtube.com/@ModernVintageGamer)
 
 [Retro Station History Part 1: The Early History - Indiegala Blog](https://blog.indiegala.com/index.php/retro-station-history-part-1-the-early-history/)
 [Retro Stations Part 2: New Kids On The Block - Indiegala Blog](https://blog.indiegala.com/index.php/retro-stations-part-2-new-kids-on-the-block/)
+
+[What Are The Console Wars and Are They Over?](https://www.makeuseof.com/what-are-console-wars/)
 
 [Mistakes Were Made - The Console Security Marathon - YouTube](https://www.youtube.com/watch?v=8iEb266ZfWQ)
 

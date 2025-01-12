@@ -2,7 +2,7 @@
 title: Vexillology
 description: The study of flags
 created: 2023-04-05
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - trivia
 ---

@@ -2,13 +2,13 @@
 title: Tales series
 description: ""
 created: 2023-08-14
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - games
   - tales-series
 ---
 
-[Tales (video game series) - Wikiwand](<https://omni.wikiwand.com/en/Tales_(video_game_series)>)
+[Tales (video game series) - Wikiwand](<https://www.wikiwand.com/en/Tales_(video_game_series)>)
 [Aselia Wiki | Fandom](https://aselia.fandom.com/wiki/Main_Page)
 [The Best Games In The Tales Series, Ranked](https://www.thegamer.com/best-tales-games-ranked/)
 
@@ -34,7 +34,7 @@ Tales of Vesperia
 
 ## Tales of Zestiria
 
-[Tales of Zestiria - Wikiwand](https://omni.wikiwand.com/en/Tales_of_Zestiria)
+[Tales of Zestiria - Wikiwand](https://www.wikiwand.com/en/Tales_of_Zestiria)
 [Tales of Zestiria - YouTube](https://www.youtube.com/playlist?list=PLcJeZQ2AGVnVeOx8ZYiGzpfRp0BG6UHbE)
 
 Install the 60FPS TZFix mod, and watch Swillo's video, "Battle System Guide (Basics to Intermediate Stuff)" - particularly the bit on spell cancelling while armatized. The game does such a poor job explaining key features through bland walls of text, which will make anyone's head spin.

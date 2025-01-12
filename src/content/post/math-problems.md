@@ -2,7 +2,7 @@
 title: Math Problems
 description: Trivia math problems
 created: 2023-06-08
-updated: 2024-09-07
+updated: 2025-01-09
 tags:
   - math
   - trivia

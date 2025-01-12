@@ -2,7 +2,7 @@
 title: Google Cloud Platform
 description: ""
 created: 2017-02-11
-updated: 2024-09-28
+updated: 2025-01-09
 tags:
   - gcp
   - google
@@ -29,6 +29,8 @@ tags:
 [Developing Applications with Google Cloud Platform | Coursera](https://www.coursera.org/specializations/developing-apps-gcp)
 [Google Cloud Platform Fundamentals: Core Infrastructure | Coursera](https://www.coursera.org/learn/gcp-fundamentals) ❗!important, 20% GCP, 80% general knowledge
 [Google Cloud Platform - YouTube](https://www.youtube.com/googlecloudplatform)
+
+[Free Courses That Are Actually Free: Google Cloud Edition - KDnuggets](https://www.kdnuggets.com/free-courses-that-are-actually-free-google-cloud-edition)
 
 [Cloud_OnBoard_TrainingManual](https://lp.google-mkto.com/rs/248-TPC-286/images/Cloud_OnBoard_TrainingManual.pdf)
 
@@ -140,7 +142,7 @@ Google bought Firebase in 2014 and migrated its Google Cloud Messaging to Fireba
 Also provides static hosting and FaaS.
 
 [Firebase](https://firebase.google.com/)
-[Firebase - Wikiwand](http://omni.wikiwand.com/en/Firebase)
+[Firebase - Wikiwand](http://www.wikiwand.com/en/Firebase)
 [Firebase Products](https://firebase.google.com/products-build)
 [Firebase Authentication | Simple, free multi-platform sign-in](https://firebase.google.com/products/auth)
 [Firebase Realtime Database | Store and sync data in real time](https://firebase.google.com/products/realtime-database/)

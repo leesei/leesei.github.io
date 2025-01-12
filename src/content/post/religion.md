@@ -2,7 +2,7 @@
 title: Religion
 description: ""
 created: 2015-04-13
-updated: 2024-10-03
+updated: 2025-01-09
 tags:
   - creationism
   - philosophy
@@ -14,6 +14,7 @@ tags:
 [Religious History - YouTube](https://www.youtube.com/playlist?list=PLxZAPogJjW_insZ-fc9NJmZdiGgqbDfjz)
 
 [用 34 分钟，解决困扰我多年的问题：基督，犹太，伊斯兰教的关系 - YouTube](https://www.youtube.com/watch?v=ncXCHdTFBEs)
+[犹太教、基督教、伊斯兰教，为何裂变？有何恩怨？爆肝1个月！45分钟， 讲透亚伯拉罕三教3000年 - YouTube](https://www.youtube.com/watch?v=KFHBFd_xxto)
 [【一口气看完】佛、道、犹太、基督、伊斯兰 ，婆罗门文化 ！ - YouTube](https://www.youtube.com/watch?v=VPwFhB7hEYk)
 [你知道你生活在一個 虛擬世界中嗎？人越老，對世界的理解越困惑，怎麽辦？ - YouTube](https://www.youtube.com/watch?v=RZ3xY62xWDo)
 [渺小的人類永遠也無法知道的答案！我們到底應如何面對這樣的未知？？ - YouTube](https://www.youtube.com/watch?v=Bd1Hnrx_f_s)
@@ -34,7 +35,7 @@ tags:
 
 ## Bill Nye vs Ken Ham
 
-[Bill Nye–Ken Ham debate - Wikiwand](https://omni.wikiwand.com/en/Bill_Nye–Ken_Ham_debate)
+[Bill Nye–Ken Ham debate - Wikiwand](https://www.wikiwand.com/en/Bill_Nye–Ken_Ham_debate)
 [Bill Nye Debates Ken Ham - HD (Official) - YouTube](https://www.youtube.com/watch?v=z6kgvhG3AkI)
 
 [What You Missed While Not Watching the Bill Nye and Ken Ham Creation Debate | TIME](http://time.com/4511/bill-nye-ken-ham-debate/)
@@ -53,16 +54,17 @@ tags:
 
 ## 拜火教
 
-[Zoroastrianism - Wikiwand](https://omni.wikiwand.com/en/Zoroastrianism) [拜火教 - Wikiwand](https://omni.wikiwand.com/zh/%E7%90%90%E7%BD%97%E4%BA%9A%E6%96%AF%E5%BE%B7%E6%95%99)
+[Zoroastrianism - Wikiwand](https://www.wikiwand.com/en/Zoroastrianism) [拜火教 - Wikiwand](https://www.wikiwand.com/zh/%E7%90%90%E7%BD%97%E4%BA%9A%E6%96%AF%E5%BE%B7%E6%95%99)
 [拜火教 - YouTube](https://www.youtube.com/playlist?list=PLD3Ywi8n56O6OVOUoseMIZYUd-gmOtBBN) 自说自话的总裁
 [What Is Zoroastrianism? - YouTube](https://www.youtube.com/watch?v=hl9QgeHdKYk)
-[瑣羅亞斯德教 - Wikiwand](https://omni.wikiwand.com/zh/琐罗亚斯德教)
+[瑣羅亞斯德教 - Wikiwand](https://www.wikiwand.com/zh/琐罗亚斯德教)
 [在香港的拜火教(Zoroastrianism)簡介 - 宗教神蹟 Religion & Miracles - 粵語協會](http://bbs.cantonese.asia/thread-19459-1-1.html)
 [香港拜火教與巴斯人士! 對香港早期社會有極大貢獻 (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=cupDD3VKz_U)
 [拜火教：最接近「科學」的創世、造人神話 | 自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=l7-G4rKpMk4)
 [阿努納奇和波斯拜火教有關嗎？波斯拜火教和中華文明有關嗎？ |自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=F92i6kAeifE)
 [祆教拜火教是什麼？一個可以近親結婚的宗教！在教徒的眼裡，狗狗的地位高到不行！ - YouTube](https://www.youtube.com/watch?v=4puodwJ5tZQ)
 [世界最老的宗教之一--瑣羅亞斯德教(拜火教)的發源地--波斯 @ 哈姆斯特的旅遊部落格 :: 隨意窩 Xuite 日誌](<http://blog.xuite.net/hamster0708/twblog/137605759-世界最老的宗教之一--瑣羅亞斯德教(拜火教)的發源地--波斯>)
+[祆教：人类最早一神教，到底是个什么样的教？为什么又骤然灭亡？ - YouTube](https://www.youtube.com/watch?v=45jI9SapN_I)
 
 ## 道教
 
@@ -117,12 +119,13 @@ tags:
 東正教 Orthodox Church
 no idols
 
-[Catholic Church - Wikiwand](https://omni.wikiwand.com/en/Catholic_Church) venerates Virgin Mary, creates idols and paintings
-[天主教](https://omni.wikiwand.com/zh/%E5%A4%A9%E4%B8%BB%E6%95%99)
-[Indulgence - Wikiwand](https://omni.wikiwand.com/en/Indulgence)
-[大赦 (基督教) - Wikiwand](<https://omni.wikiwand.com/zh/%E5%A4%A7%E8%B5%A6_(%E5%9F%BA%E7%9D%A3%E6%95%99)>) 贖罪券
+[Catholic Church - Wikiwand](https://www.wikiwand.com/en/Catholic_Church) venerates Virgin Mary, creates idols and paintings
+[天主教](https://www.wikiwand.com/zh/%E5%A4%A9%E4%B8%BB%E6%95%99)
+[Indulgence - Wikiwand](https://www.wikiwand.com/en/Indulgence)
+[大赦 (基督教) - Wikiwand](<https://www.wikiwand.com/zh/%E5%A4%A7%E8%B5%A6_(%E5%9F%BA%E7%9D%A3%E6%95%99)>) 贖罪券
 
 [Western Christianity vs Eastern Christianity - YouTube](https://www.youtube.com/watch?v=9Yk0slGP-rM)
+[明明信一个基督，为什么东正教、天主教、新教却死斗不休？基督教又如何分裂成这3大教？20分钟讲透基督教3教裂变1000年 - YouTube](https://www.yo[明明信一个基督，为什么东正教、天主教、新教却死斗不休？基督教又如何分裂成这3大教？20分钟讲透基督教3教裂变1000年 - YouTube](https://www.youtube.com/watch?v=FQ3uDsdrsZ8)utube.com/watch?v=FQ3uDsdrsZ8)
 [天主教，基督教，○○○ 教，世界各大宗教之間究竟有什麼區別 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=vgFEYOJ8Knk)
 [【基督宗教 历史专题】【基督宗教 历史专题】【基督宗教 历史专题】 - YouTube](https://www.youtube.com/playlist?list=PLg45KLfneaCRYo5ZvdFf_OcWfCNjMCiej)
 [一口氣整理 世界三大宗教之一，基督的历史起源！(1/4) - YouTube](https://www.youtube.com/watch?v=9EMx2kevK5U)
@@ -153,10 +156,10 @@ Pentateuch in Old Testament = Toran in Jewish Bible
 
 > The Bible has more authority than the church
 
-[Protestantism - Wikiwand](https://omni.wikiwand.com/en/Protestantism) forked from Catholic Church when it sold Indulgence, Martin Luther challenged the interpretation of building Christianity upon the Roman Pope
+[Protestantism - Wikiwand](https://www.wikiwand.com/en/Protestantism) forked from Catholic Church when it sold Indulgence, Martin Luther challenged the interpretation of building Christianity upon the Roman Pope
 Gutenberg's printing of German Bible in some way triggered the Reformation
-[基督新教 - Wikiwand](https://omni.wikiwand.com/zh/%E6%96%B0%E6%95%99)
-[Reformation - Wikiwand](https://omni.wikiwand.com/en/Reformation)
-[宗教改革 - Wikiwand](https://omni.wikiwand.com/zh/%E5%AE%97%E6%95%99%E6%94%B9%E9%9D%A9)
-[Martin Luther - Wikiwand](https://omni.wikiwand.com/en/Martin_Luther)
-[馬丁·路德 - Wikiwand](https://omni.wikiwand.com/zh/%E9%A6%AC%E4%B8%81%C2%B7%E8%B7%AF%E5%BE%B7)
+[基督新教 - Wikiwand](https://www.wikiwand.com/zh/%E6%96%B0%E6%95%99)
+[Reformation - Wikiwand](https://www.wikiwand.com/en/Reformation)
+[宗教改革 - Wikiwand](https://www.wikiwand.com/zh/%E5%AE%97%E6%95%99%E6%94%B9%E9%9D%A9)
+[Martin Luther - Wikiwand](https://www.wikiwand.com/en/Martin_Luther)
+[馬丁·路德 - Wikiwand](https://www.wikiwand.com/zh/%E9%A6%AC%E4%B8%81%C2%B7%E8%B7%AF%E5%BE%B7)

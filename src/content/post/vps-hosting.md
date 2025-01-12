@@ -2,7 +2,7 @@
 title: VPS Hosting
 description: ""
 created: 2015-07-26
-updated: 2024-08-03
+updated: 2025-01-09
 tags:
   - digital-ocean
   - hostinger

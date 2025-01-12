@@ -2,7 +2,7 @@
 title: Passwords
 description: ""
 created: 2015-04-08
-updated: 2024-05-28
+updated: 2025-01-09
 tags:
   - passwords
   - security
@@ -76,6 +76,12 @@ tags:
 [Bitwarden Open Source Password Manager | Bitwarden](https://bitwarden.com/) generous free tier, open source
 [How to Transfer Your LastPass Passwords to Bitwarden](https://www.howtogeek.com/714518/how-to-transfer-your-lastpass-passwords-to-bitwarden/)
 [Vaultwarden - Open Source, self hosted backend for the Bitwarden password manager. - YouTube](https://www.youtube.com/watch?v=mq7n_0Xs1Kg)
+[Is Bitwarden's 2FA Code a Security Risk? - YouTube](https://www.youtube.com/watch?v=646dlqdcbMk)
+
+Jason Rebholz - TeachMeCyber
+[Bitwarden Tutorial | The Full Beginners Guide - YouTube](https://www.youtube.com/watch?v=OkYKb0Sx-XA)
+[Bitwarden Vs Vaultwarden: Review & Comparison - YouTube](https://www.youtube.com/watch?v=xdiUoXwjahk)
+[The Easiest (and MOST SECURE) Way to Log into Bitwarden - YouTube](https://www.youtube.com/watch?v=QkC1LcRUpag)
 
 [Buttercup](https://buttercup.pw/)
 [Buttercup is an open source password manager for Windows, macOS, Linux, - gHacks Tech News](https://www.ghacks.net/2019/07/30/buttercup-open-source-password-manager-windows-macos-linux-firefox-chrome/)
@@ -96,3 +102,13 @@ tags:
 
 [Microsoft Autofill](https://chromewebstore.google.com/detail/microsoft-autofill/fiedbfgcleddlbcmgdigjgdfcggjcion)
 [Microsoft’s new password manager works across Edge, Chrome, and mobile devices - The Verge](https://www.theverge.com/platform/amp/2020/12/16/22178026/microsoft-authenticator-autofill-feature-password-manager)
+
+## Passkey
+
+[What are Passkeys? | Are Passwords Dead? | A Security Expert Explains - YouTube](https://www.youtube.com/watch?v=AhP0q8c38QU)
+[Faster Logins with Passkeys | Bitwarden Passkey Tutorial - YouTube](https://www.youtube.com/watch?v=o4asbRziCD0)
+
+[Wallets vs. Passkeys: What CISOs Need To Know](https://www.itprotoday.com/identity-management-access-control/wallets-vs-passkeys-what-cisos-need-to-know)
+[Why It’s Time to Switch to This Phishing-Resistant Password Alternative](https://www.makeuseof.com/reasons-switch-passcode-instead-password/)
+[What is Passkey? | Trusted Reviews](https://www.trustedreviews.com/explainer/what-is-passkey-4231178)
+[Is Passkey Authentication More Secure Traditional Passwords?](https://www.itprotoday.com/identity-management-and-access-control/passkey-authentication-more-secure-traditional-passwords)

@@ -2,7 +2,7 @@
 title: Functional Programming
 description: ""
 created: 2016-03-13
-updated: 2024-09-15
+updated: 2025-01-09
 tags:
   - javascript
   - web
@@ -14,10 +14,10 @@ tags:
 [[reactive-programming]]
 [[immutability]]
 
-[Functional programming - Wikiwand](https://omni.wikiwand.com/en/Functional_programming)
-[Category:Functional programming - Wikiwand](https://omni.wikiwand.com/en/Category:Functional_programming)
-[Functional reactive programming - Wikiwand](https://omni.wikiwand.com/en/Functional_reactive_programming)
-Contrast: [Imperative programming - Wikiwand](https://omni.wikiwand.com/en/Imperative_programming)
+[Functional programming - Wikiwand](https://www.wikiwand.com/en/Functional_programming)
+[Category:Functional programming - Wikiwand](https://www.wikiwand.com/en/Category:Functional_programming)
+[Functional reactive programming - Wikiwand](https://www.wikiwand.com/en/Functional_reactive_programming)
+Contrast: [Imperative programming - Wikiwand](https://www.wikiwand.com/en/Imperative_programming)
 
 [Why Functional Programming Matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf) (PDF)
 [What is functional reactive programming? | Packt Hub](https://hub.packtpub.com/what-is-functional-reactive-programming/)
@@ -59,15 +59,15 @@ _declarative_ as antithetical to _imperative_, and _procedural_ as antithetical 
 
 ## Lambda calculus
 
-[Lambda calculus - Wikiwand](https://omni.wikiwand.com/en/Lambda_calculus)
+[Lambda calculus - Wikiwand](https://www.wikiwand.com/en/Lambda_calculus)
 [Lambda Calculus - Computerphile - YouTube](https://www.youtube.com/watch?v=eis11j_iGMs)
 
 ## Functor/Monad
 
 > programming with effects
 
-[Functor (functional programming) - Wikiwand](<https://omni.wikiwand.com/en/Functor_(functional_programming)>)
-[Monad (functional programming) - Wikiwand](<https://omni.wikiwand.com/en/Monad_(functional_programming)>)
+[Functor (functional programming) - Wikiwand](<https://www.wikiwand.com/en/Functor_(functional_programming)>)
+[Monad (functional programming) - Wikiwand](<https://www.wikiwand.com/en/Monad_(functional_programming)>)
 [What is a Monad? - Computerphile - YouTube](https://www.youtube.com/watch?v=t1e8gqXLbsU)
 
 [Functors, Applicatives, And Monads In Pictures - adit.io](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
@@ -125,7 +125,7 @@ myFunctor.map((x) => f(g(x))) === myFunctor.map(g).map(f);
 
 ## Recursion
 
-[Recursion (computer science) - Wikiwand](<https://omni.wikiwand.com/en/Recursion_(computer_science)>)
+[Recursion (computer science) - Wikiwand](<https://www.wikiwand.com/en/Recursion_(computer_science)>)
 [Fantastic tail calls, and how to implement them - Leaning Technologies](https://leaningtech.com/fantastic-tail-calls-and-how-to-implement-them/)
 
 ## Currying
@@ -192,7 +192,7 @@ Elm is designed to be a functional language compiled to JavaScript for frontend 
 ## F
 
 [F# Software Foundation](https://fsharp.org/)
-[F Sharp (programming language) - Wikiwand](<https://omni.wikiwand.com/en/F_Sharp_(programming_language)>)
+[F Sharp (programming language) - Wikiwand](<https://www.wikiwand.com/en/F_Sharp_(programming_language)>)
 
 [F# | Functional programming for .NET](https://dotnet.microsoft.com/languages/fsharp)
 [F# docs - get started, tutorials, reference. | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/fsharp/)
@@ -224,7 +224,7 @@ playground
 ## Haskell
 
 [Haskell Language](https://www.haskell.org/)
-[Haskell (programming language) - Wikiwand](<https://omni.wikiwand.com/en/Haskell_(programming_language)>)
+[Haskell (programming language) - Wikiwand](<https://www.wikiwand.com/en/Haskell_(programming_language)>)
 
 [HaskellWiki](https://wiki.haskell.org/Haskell)
 [Monad - HaskellWiki](https://wiki.haskell.org/Monad)
@@ -256,7 +256,7 @@ Haskell use monads to carry out side effects
 ## Erlang
 
 [Erlang Programming Language](http://www.erlang.org/)
-[Erlang (programming language) - Wikiwand](<https://omni.wikiwand.com/en/Erlang_(programming_language)>)
+[Erlang (programming language) - Wikiwand](<https://www.wikiwand.com/en/Erlang_(programming_language)>)
 [Structure and Interpretation of Computer Programs](http://lfe.gitbooks.io/sicp/content/)
 [rvirding/lfe](https://github.com/rvirding/lfe)
 [Learn You Some Erlang for Great Good!](http://learnyousomeerlang.com/content)
@@ -342,7 +342,7 @@ Haskell use monads to carry out side effects
 
 ### OTP
 
-[Open Telecom Platform - Wikiwand](https://omni.wikiwand.com/en/Open_Telecom_Platform)
+[Open Telecom Platform - Wikiwand](https://www.wikiwand.com/en/Open_Telecom_Platform)
 [What is OTP? | Learn You Some Erlang for Great Good!](http://learnyousomeerlang.com/what-is-otp)
 [The Architecture of Open Source Applications: Riak and Erlang/OTP](http://www.aosabook.org/en/riak.html)
 [An Erlang OTP tutorial for beginners — A bot blog](http://blog.bot.co.za/en/article/349/an-erlang-otp-tutorial-for-beginners)

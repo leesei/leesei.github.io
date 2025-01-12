@@ -2,7 +2,7 @@
 title: Data Analytics (Python)
 description: ""
 created: 2016-09-21
-updated: 2024-09-24
+updated: 2025-01-09
 tags:
   - big-data
   - pandas
@@ -26,6 +26,10 @@ tags:
 [Data Scientists, The 5 Graph Algorithms that you should know](https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513)
 [Why and How to Use Pandas with Large Data - Towards Data Science](https://towardsdatascience.com/why-and-how-to-use-pandas-with-large-data-9594dda2ea4c)
 
+[Tips for Handling Large Datasets in Python - KDnuggets](https://www.kdnuggets.com/tips-handling-large-datasets-python)
+[Build a Data Science App with Python in 10 Easy Steps - KDnuggets](https://www.kdnuggets.com/build-data-science-app-with-python-10-easy-steps)
+[Building Interactive Data Science Applications with Python - KDnuggets](https://www.kdnuggets.com/building-interactive-data-science-applications-with-python)
+
 [Top 10 Python Libraries for Data Science - Towards Data Science](https://towardsdatascience.com/top-10-python-libraries-for-data-science-cd82294ec266)
 [5 essential Python programming tools for data science—now updated](https://www.infoworld.com/article/3233250/python/5-essential-python-tools-for-data-sciencenow-improved.html)
 [5 Hidden Gem Python Libraries for Data Science - KDnuggets](https://www.kdnuggets.com/5-hidden-gem-python-libraries-for-data-science)
@@ -44,7 +48,7 @@ Try Docker image for [Intel® Distribution for Python\* | Intel® Software](http
 ## NumPy
 
 [NumPy — NumPy](http://www.numpy.org/)
-[NumPy - Wikiwand](https://omni.wikiwand.com/en/NumPy)
+[NumPy - Wikiwand](https://www.wikiwand.com/en/NumPy)
 [Numpy and Scipy Documentation — Numpy and Scipy documentation](https://docs.scipy.org/doc/)
 [NumPy User Guide — NumPy Manual](https://docs.scipy.org/doc/numpy/user/index.html)
 [Indexing — NumPy Manual](https://docs.scipy.org/doc/numpy/reference/arrays.indexing.html)
@@ -107,7 +111,7 @@ def count_unique(keys):
 ## SciPy
 
 [SciPy.org — SciPy.org](https://www.scipy.org/)
-[SciPy - Wikiwand](https://omni.wikiwand.com/en/SciPy)
+[SciPy - Wikiwand](https://www.wikiwand.com/en/SciPy)
 
 SciPy is an open-source Python-based tool used for scientific and technical computing. It is built on the NumPy extension and allows Python programmers to manipulate and visualize data with a wide range of high-level commands. SciPy is popular in the field of Mathematics, Science, and Engineering.
 
@@ -185,6 +189,9 @@ better API to address columns, akin to pandas
 
 [Stylin’ with Pandas - Practical Business Python](https://pbpython.com/styling-pandas.html)
 [Efficiently Cleaning Text with Pandas - Practical Business Python](https://pbpython.com/text-cleaning.html)
+
+[10 Python One-Liners That Will Boost Your Data Science Workflow - MachineLearningMastery.com](https://machinelearningmastery.com/10-python-one-liners-that-will-boost-your-data-science-workflow/)
+[7 Ways to Improve Your Data Cleaning Skills with Python - KDnuggets](https://www.kdnuggets.com/7-ways-to-improve-your-data-cleaning-skills-with-python)
 
 [pandas-profiling/pandas-profiling: Create HTML profiling reports from pandas DataFrame objects](https://github.com/pandas-profiling/pandas-profiling)
 

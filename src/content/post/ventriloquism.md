@@ -2,14 +2,14 @@
 title: Ventriloquism
 description: ""
 created: 2020-12-30
-updated: 2024-09-18
+updated: 2025-01-09
 tags:
   - lol
   - trivia
 ---
 
-[Ventriloquism - Wikiwand](https://omni.wikiwand.com/en/Ventriloquism)
-[腹語術 - Wikiwand](https://omni.wikiwand.com/zh/%E8%85%B9%E8%AA%9E%E8%A1%93)
+[Ventriloquism - Wikiwand](https://www.wikiwand.com/en/Ventriloquism)
+[腹語術 - Wikiwand](https://www.wikiwand.com/zh/%E8%85%B9%E8%AA%9E%E8%A1%93)
 
 [How To Be A Ventriloquist - Learn Ventriloquism](https://learn-ventriloquism.com/)
 [Learn Ventriloquism with Tom Crowl - YouTube](https://www.youtube.com/watch?v=hCR_yU8pq4k)

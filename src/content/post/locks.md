@@ -2,7 +2,7 @@
 title: Locks
 description: ""
 created: 2016-12-26
-updated: 2024-08-21
+updated: 2025-01-09
 tags:
   - lock
   - trivia

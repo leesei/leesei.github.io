@@ -2,7 +2,7 @@
 title: Container Orchestration
 description: ""
 created: 2014-12-11
-updated: 2024-09-23
+updated: 2025-01-09
 tags:
   - container
   - dev/deploy
@@ -23,6 +23,8 @@ See projects under [Cloud Native Computing Foundation](https://www.cncf.io/proje
 [The cloud is over-engineered and overpriced (no music) - YouTube](https://www.youtube.com/watch?v=jFrGhodqC08) simple Docker Compose/Swarm without using SaaS
 
 ## Comparison
+
+[What Kubernetes should learn from other Orchestrators - YouTube](https://www.youtube.com/watch?v=9N9IOpyl3v8) 2024-11
 
 [Container Orchestration Wars (2017) - YouTube](https://www.youtube.com/watch?v=NRZ6N4e-Mko)
 [Container Orchestration Tools: Kubernetes vs Docker vs Apache Mesos](https://www.itprotoday.com/containerization/comparing-container-orchestration-tools-kubernetes-docker-swarm-apache-mesos) 2024-04

@@ -2,7 +2,7 @@
 title: Passive Income
 description: ""
 created: 2018-09-05
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - finance
 ---
@@ -29,14 +29,27 @@ Mostly via investment in high dividend stock and bonds, and margin with low inte
 
 [9 Passive Income Ideas - How I Make $27k per Week - YouTube](https://www.youtube.com/watch?v=M5y69v1RbU0)
 
-## Stocks/Funds
+## Equities/Funds
 
 [最干货的一期｜专业股票投资人怎么看门道？ - YouTube](https://www.youtube.com/watch?v=xnIYIpXKvNM)
+[关于上市，你需要知道的那些事儿 - YouTube](https://www.youtube.com/watch?v=m7i2xSxYS3o)
+[关于退市，你必须知道的那些事儿 - YouTube](https://www.youtube.com/watch?v=Tg0KpAFgyso)
 
 [【全是干货】你应该买基金么？买什么基金最合适？| 基金防割指南 - YouTube](https://www.youtube.com/watch?v=d_kJgwxhOJM)
 [【实用篇】如何选基金？ - YouTube](https://www.youtube.com/watch?v=kRmOaRDWnIg)
 [聊聊对冲基金大佬们的花式策略【小 Lin 干货】 - YouTube](https://www.youtube.com/watch?v=pBy9aw-xWXw)
 [私募风投大佬都在怎么玩？【小 Lin 干货】 - YouTube](https://www.youtube.com/watch?v=Vo8pEe615eQ)
+
+### Short selling
+
+[【硬核加长版】真正的做空 - YouTube](https://www.youtube.com/watch?v=--KnsLGfXWM)
+[甚麼是沽空 short selling 和挾淡倉 short squeeze? (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=UEO4tm_n54k)
+
+[The Trillion Dollar Equation - YouTube](https://www.youtube.com/watch?v=A5w-dEgIU1M)
+
+- Options
+- random walk forms a bell curve
+- hedging
 
 ## Dividends
 

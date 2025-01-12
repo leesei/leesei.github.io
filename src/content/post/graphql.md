@@ -2,7 +2,7 @@
 title: GraphQL
 description: ""
 created: 2015-12-04
-updated: 2024-06-11
+updated: 2025-01-09
 tags:
   - falcor
   - graphql
@@ -360,7 +360,7 @@ graphql, apollo-server-hapi
 [apollographql/federation: 🌐 Build and scale a single data graph across multiple services with Apollo's federation gateway.](https://github.com/apollographql/federation)
 [Moving from Schema Stitching to Federation: How Expedia improved performance - Apollo GraphQL Blog](https://www.apollographql.com/blog/announcement/expedia-improved-performance-by-moving-from-schema-stitching-to-apollo-federation/)
 
-[How Netflix Scales its API with GraphQL Federation | Netflix TechBlog](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-1-ae3557c187e2?gi=5e62767c0808)
+[How Netflix Scales its API with GraphQL Federation | Netflix TechBlog](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-1-ae3557c187e2)
 [Scaling Netflix's API via GraphQL Federation (#2) | Netflix TechBlog](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-2-bbe71aaec44a)
 
 ### OpenAPI-to-GraphQL

@@ -2,7 +2,7 @@
 title: Maker
 description: ""
 created: 2018-10-16
-updated: 2024-08-18
+updated: 2025-01-09
 tags:
   - maker
 ---
@@ -55,8 +55,8 @@ Clay like when opened, rubber like after one day.
 
 ## Clay
 
-[Clay - Wikiwand](https://omni.wikiwand.com/en/clay)
-[黏土 - Wikiwand](https://omni.wikiwand.com/zh/%E9%BB%8F%E5%9C%9F)
+[Clay - Wikiwand](https://www.wikiwand.com/en/clay)
+[黏土 - Wikiwand](https://www.wikiwand.com/zh/%E9%BB%8F%E5%9C%9F)
 
 [How To Identify Clay in Nature - YouTube](https://www.youtube.com/watch?v=nqiJJDzR3vw)
 [How To Make Clay At Home (It's Just Dirt) - YouTube](https://www.youtube.com/watch?v=ca20JkKFAcE)
@@ -71,11 +71,17 @@ Clay like when opened, rubber like after one day.
 - 選擇性激光燒結 SLS/SLM
   粉末類
 
+![Filament Comparision](./_assets/maker/filament_comparison.jpg)
+
 [Thingiverse - Digital Designs for Physical Objects](https://www.thingiverse.com/)
 [Thangs | Free 3D model community | Geometric Search](https://www.thangs.com/)
 [The World's #1 Magazine for the Digital Maker | All3DP](https://all3dp.com/)
 [3D Models for Free - Free3D.com](https://free3d.com/)
 [MakerWorld: Download Free 3D Printing Models](https://makerworld.com/en)
+
+[《解密 3D 打印机》第一集 万能制造机 | CCTV 纪录 - YouTube](https://www.youtube.com/watch?v=B4pd3z2J39w)
+[《解密 3D 打印机》第二集 魔盒的秘密 | CCTV 纪录 - YouTube](https://www.youtube.com/watch?v=3-GNgDWJ7Bs)
+[《解密 3D 打印机》第三集 打印未来 | CCTV 纪录 - YouTube](https://www.youtube.com/watch?v=X1sTUXGm_VI)
 
 [首頁 - 印核工廠 In Here.](https://inhere3d.com/)
 [The 3D Print General - YouTube](https://www.youtube.com/@3DPrintGeneral)
@@ -108,13 +114,11 @@ Cooling: use active cooling fan (especially PLA), longer layer timeout
 [[超級簡單]3D 打印入門教程 1-3D 打印機選購，開箱調試及打印第一件 3D 模型 - YouTube](https://www.youtube.com/watch?v=CRMera1Szzs)
 [[超级简单]3D 打印入门教程 2-3D 模型制作及获取方法介绍及切片软件 Cura 的基本使用方法 - YouTube](https://www.youtube.com/watch?v=Rn6Si93cVeQ)
 
-[《解密 3D 打印机》第一集 万能制造机 | CCTV 纪录 - YouTube](https://www.youtube.com/watch?v=B4pd3z2J39w)
-[《解密 3D 打印机》第二集 魔盒的秘密 | CCTV 纪录 - YouTube](https://www.youtube.com/watch?v=3-GNgDWJ7Bs)
-[《解密 3D 打印机》第三集 打印未来 | CCTV 纪录 - YouTube](https://www.youtube.com/watch?v=X1sTUXGm_VI)
+[【入门指南】不会建模，怎么3D打印？ - YouTube](https://www.youtube.com/watch?v=AmYSu4akEC0)
+[When support structures fail, try this! #3dprinting tip - YouTube](https://www.youtube.com/watch?v=v05HU2nBrOs)
+[The Material Science of Metal 3D Printing - YouTube](https://www.youtube.com/watch?v=fzBRYsiyxjI)
 
 [IBM/MicroscoPy: An open-source, motorized, and modular microscope built using LEGO bricks, Arduino, Raspberry Pi and 3D printing.](https://github.com/IBM/MicroscoPy)
-
-[The Material Science of Metal 3D Printing - YouTube](https://www.youtube.com/watch?v=fzBRYsiyxjI)
 
 [Power Loss Recovery Might Make 3D-Printed Blobs | Hackaday](https://hackaday.com/2022/10/10/power-loss-recovery-might-make-3d-printed-blobs/)
 [This GCode Post-Processor Squeezes Lines Into Arcs | Hackaday](https://hackaday.com/2020/11/03/this-gcode-post-processor-squeezes-lines-into-arcs/)
@@ -182,16 +186,16 @@ Low frequency waveforms are modulated with higher frequency carrier wave to redu
 
 ## DIY Electromagnetism
 
-[Homopolar DC Motor: 4 Steps](https://www.instructables.com/id/Homopolar-DC-motor/)
-[The Simple DC Motor: 5 Steps](https://www.instructables.com/id/The-Simple-DC-Motor/)
-[How to Build a Motor](https://www.instructables.com/id/How-To-Build-a-Motor/)
-[Super Simple Unipole Motor](https://www.instructables.com/id/Super-Simple-Unipole-Motor/)
-[Easy DIY Homopolar Motor: 4 Steps (with Pictures)](https://www.instructables.com/id/Easy-DIY-Homopolar-Motor/)
+[Homopolar DC Motor: 4 Steps](https://www.instructables.com/Homopolar-DC-motor/)
+[The Simple DC Motor: 5 Steps](https://www.instructables.com/The-Simple-DC-Motor/)
+[How to Build a Motor](https://www.instructables.com/How-To-Build-a-Motor/)
+[Super Simple Unipole Motor](https://www.instructables.com/Super-Simple-Unipole-Motor/)
+[Easy DIY Homopolar Motor: 4 Steps (with Pictures)](https://www.instructables.com/Easy-DIY-Homopolar-Motor/)
 [Super Simple DC Motor - YouTube](https://www.youtube.com/watch?v=4CGjs-Z7bDE)
 
-[Electric Motor G13: 9 Steps](https://www.instructables.com/id/Electric-Motor-G13/)
-[DC Motor Brushed Style: 5 Steps (with Pictures)](https://www.instructables.com/id/DC-Motor-Brushed-Style/)
-[Easy FAST DC MOTOR: 4 Steps](https://www.instructables.com/id/Easy-FAST-DC-MOTOR/)
+[Electric Motor G13: 9 Steps](https://www.instructables.com/Electric-Motor-G13/)
+[DC Motor Brushed Style: 5 Steps (with Pictures)](https://www.instructables.com/DC-Motor-Brushed-Style/)
+[Easy FAST DC MOTOR: 4 Steps](https://www.instructables.com/Easy-FAST-DC-MOTOR/)
 
 [DIY Electromagnetism - YouTube](https://www.youtube.com/playlist?list=PL_92WMXSLe__DCuMW5TJZtRXvkaR97RTe)
 [DIY Loudspeaker (round neodymium magnet) - YouTube](https://www.youtube.com/watch?v=B7p2FuJkzkc)

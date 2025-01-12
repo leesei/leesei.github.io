@@ -2,7 +2,7 @@
 title: React.js (Archives)
 description: Archived React.js notes
 created: 2023-03-21
-updated: 2024-01-09
+updated: 2025-01-09
 tags:
   - archived
   - frontend

@@ -2,7 +2,7 @@
 title: Witcher
 description: ""
 created: 2023-08-13
-updated: 2024-09-28
+updated: 2025-01-09
 tags:
   - games
   - witcher
@@ -93,9 +93,9 @@ Leya 蕾雅
 [21 Great Witcher 3 Mods for Returning Players](https://za.ign.com/the-witcher-3/143191/feature/21-great-witcher-3-mods-for-returning-players)
 [The best Witcher 3 mods | PCGamesN](https://www.pcgamesn.com/the-witcher-3-wild-hunt/best-witcher-3-mods)
 
-[The Witcher 3 Enhanced Edition V4.90 released, adds combat stance options, fixes various issues & more - DSOGaming](https://www.dsogaming.com/news/the-witcher-3-enhanced-edition-v4-90-released-adds-combat-stance-options-fixes-various-issues-more/)
+[The Witcher 3 HD Reworked Project NextGen Edition at The Witcher 3 Nexus - Mods and community](https://www.nexusmods.com/witcher3/mods/9963)
 
-[Mods and The Witcher 3 next-gen update | Forums - CD PROJEKT RED](https://forums.cdprojektred.com/index.php?threads/mods-and-the-witcher-3-next-gen-update.11110486/)
+[Mods and The Witcher 3 next-gen update | Forums - CD PROJEKT RED](https://forums.cdprojektred.com/index.php?threads/mods-and-the-witcher-3-next-gen-update.11110486/) includes bunch of mods
 [The Witcher® 3: Wild Hunt - Next-gen update list of changes - Steam News](https://store.steampowered.com/news/app/292030/view/3642879552277333733):
 
 - [The Witcher 3 HD Reworked Project at The Witcher 3 Nexus - Mods and community](https://www.nexusmods.com/witcher3/mods/1021)
@@ -105,7 +105,6 @@ Leya 蕾雅
 - [Nitpicker's Patch - various visual fixes at The Witcher 3 Nexus - Mods and community](https://www.nexusmods.com/witcher3/mods/2117)
 - [World Map Fixes at The Witcher 3 Nexus - Mods and community](https://www.nexusmods.com/witcher3/mods/3430)
 - Full Combat Rebalance 3
-
 - [Friendly HUD at The Witcher 3 Nexus - Mods and community](https://www.nexusmods.com/witcher3/mods/365)
   [Friendly HUD - Better Icons and Extra Options (Add-On to original) at The Witcher 3 Nexus - Mods and community](https://www.nexusmods.com/witcher3/mods/4250)
 - [Absolute Camera at The Witcher 3 Nexus - Mods and community](https://www.nexusmods.com/witcher3/mods/856)

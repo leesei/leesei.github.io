@@ -2,7 +2,7 @@
 title: Movies Database
 description: ""
 created: 2015-08-26
-updated: 2024-09-23
+updated: 2025-01-09
 tags:
   - movies
 ---
@@ -114,10 +114,11 @@ Innovative and personalized recommendation system.
 
 ## DCU/DCEU
 
-[DC Extended Universe - Wikiwand](https://omni.wikiwand.com/en/DC_Extended_Universe)
+[DC Extended Universe - Wikiwand](https://www.wikiwand.com/en/DC_Extended_Universe)
 [DC Extended Universe Wiki | Fandom](https://dcextendeduniverse.fandom.com/wiki/DC_Extended_Universe_Wiki)
 
 [1 次看完 DC 全部計畫！亨利超人、巨石亞當＋漫威超強導演 - YouTube](https://www.youtube.com/watch?v=C3F0vYYjGxA) DCEU -> DCU
+[DCEU Failure Should Be Studied. - YouTube](https://www.youtube.com/watch?v=18p9R5S5guM)
 
 [Shazam's Origin Story & Powers Explained | ScreenRant](https://screenrant.com/shazam-movie-origin-powers-wizard-explained/)
 [Shazam Family Explained: Who Plays The Adults & What Are Their Powers?](https://screenrant.com/shazam-family-dc-movie-team-explained/)
@@ -137,7 +138,7 @@ Innovative and personalized recommendation system.
 
 ## MCU
 
-[Marvel Cinematic Universe - Wikiwand](https://omni.wikiwand.com/en/Marvel_Cinematic_Universe)
+[Marvel Cinematic Universe - Wikiwand](https://www.wikiwand.com/en/Marvel_Cinematic_Universe)
 [Marvel Cinematic Universe Wiki | FANDOM powered by Wikia](https://marvelcinematicuniverse.fandom.com/wiki/Marvel_Cinematic_Universe_Wiki)
 [Carousell 共你快速重溫 Marvel 電影宇宙 - Carousell Hong Kong Blog](https://blog.carousell.com/hk/十分鐘重溫marvel電影宇宙/)
 [The MCU's First 22 Movies Are Now Called The Infinity Saga - GameSpot](https://www.gamespot.com/articles/the-mcus-first-22-movies-are-now-called-the-infini/1100-6465680/)
@@ -168,6 +169,9 @@ TEEPR 叭啦叭啦研究室
 [Timeline of Marvel Cinematic Universe Events (Phase 1-Phase 3) - YouTube](https://www.youtube.com/watch?v=40Ksv25H4PM&app=desktop)
 
 [Marvel Studios 10: Timeline](https://disneymovierewards.go.com/articles/marvelstudios10-timeline)
+
+[The Top 20 WORST SUPERVILLAIN Adaptations in the MCU - YouTube](https://www.youtube.com/watch?v=ASDfvRDDK30)
+[The Top 20 WORST SUPERHERO Adaptations in the MCU - YouTube](https://www.youtube.com/watch?v=sxJgvJFW3wA)
 
 [Too Powerful For Marvel Movies - YouTube](https://www.youtube.com/playlist?list=PL9sO35KZL50w5_ObILpwuVvbsZCPFAIak)
 [6 Superheroes That Marvel Does Not Own the Rights to Anymore](http://www.cheatsheet.com/entertainment/how-6-marvel-superheroes-came-to-be-owned-by-other-studios.html/)

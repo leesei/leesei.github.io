@@ -2,7 +2,7 @@
 title: WebRTC
 description: ""
 created: 2024-03-12
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - web
   - webrtc
@@ -39,10 +39,10 @@ tags:
 
 ## NAT
 
-[STUN - Wikiwand](https://omni.wikiwand.com/en/STUN)
-[Traversal Using Relays around NAT - Wikiwand](https://omni.wikiwand.com/en/Traversal_Using_Relay_NAT) TURN
-[Interactive Connectivity Establishment - Wikiwand](https://omni.wikiwand.com/en/Interactive_Connectivity_Establishment) ICE
-[UDP hole punching - Wikiwand](https://omni.wikiwand.com/en/UDP_hole_punching)
+[STUN - Wikiwand](https://www.wikiwand.com/en/STUN)
+[Traversal Using Relays around NAT - Wikiwand](https://www.wikiwand.com/en/Traversal_Using_Relay_NAT) TURN
+[Interactive Connectivity Establishment - Wikiwand](https://www.wikiwand.com/en/Interactive_Connectivity_Establishment) ICE
+[UDP hole punching - Wikiwand](https://www.wikiwand.com/en/UDP_hole_punching)
 
 [Build the backend services needed for a WebRTC app  |  Articles  |  web.dev](https://web.dev/articles/webrtc-infrastructure)
 [Еnvironment: signaling, STUN and TURN servers – Medialooks Help Center](https://support.medialooks.com/hc/en-us/articles/360000213312-%D0%95nvironment-signaling-STUN-and-TURN-servers)

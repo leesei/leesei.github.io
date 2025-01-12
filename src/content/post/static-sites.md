@@ -2,17 +2,17 @@
 title: Static Sites
 description: ""
 created: 2019-07-25
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - static-site
   - web
   - web-dev
 ---
 
-[[hexo]]
-[[hugo]]
 [[astro]]
 [[nextjs]]
+[[hexo]]
+[[hugo]]
 [[nuxtjs]]
 [[dev-documentation]]
 [[web-asset-optimization]]

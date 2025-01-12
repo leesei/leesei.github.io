@@ -2,7 +2,7 @@
 title: GitHub
 description: ""
 created: 2014-12-11
-updated: 2024-02-19
+updated: 2025-01-09
 tags:
   - app
   - git
@@ -269,7 +269,7 @@ Put YAML in `.github/workflows/`
 
 ## Links
 
-```txt
+```
 # browse tree in browser
 https://github.com/<user>/<repo>/tree/<branch>/<folder>
 # e.g.:

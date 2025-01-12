@@ -2,7 +2,7 @@
 title: Chip Making
 description: ""
 created: 2023-06-13
-updated: 2024-09-07
+updated: 2025-01-09
 tags:
   - comp/hardware
   - manufacturing
@@ -15,6 +15,7 @@ tags:
 [老石谈芯 - YouTube](https://www.youtube.com/@laoshi_tec)
 [谈三圈 - YouTube](https://www.youtube.com/@tan3quan)
 
+[Semiconductor device fabrication - Wikiwand](https://www.wikiwand.com/en/articles/Semiconductor_device_fabrication)
 [Why making chips is so hard - YouTube](https://www.youtube.com/watch?v=CkNn98WE5_k)
 
 [How are Microchips Made? - YouTube](https://www.youtube.com/watch?v=dX9CGRZwD-w)
@@ -49,10 +50,10 @@ tags:
 
 ## Functional Types
 
-[Application-specific integrated circuit - Wikiwand](https://omni.wikiwand.com/en/Application-specific_integrated_circuit) ASIC: high performance, fixed pipeline, high one-time cost
-[Structured ASIC platform - Wikiwand](https://omni.wikiwand.com/en/Structured_ASIC_platform) hybrid
-[Gate array - Wikiwand](https://omni.wikiwand.com/en/Gate_array)
-[Field-programmable gate array - Wikiwand](https://omni.wikiwand.com/en/Field-programmable_gate_array) FPGA: high performance, programmable pipeline, low one-time cost
+[Application-specific integrated circuit - Wikiwand](https://www.wikiwand.com/en/Application-specific_integrated_circuit) ASIC: high performance, fixed pipeline, high one-time cost
+[Structured ASIC platform - Wikiwand](https://www.wikiwand.com/en/Structured_ASIC_platform) hybrid
+[Gate array - Wikiwand](https://www.wikiwand.com/en/Gate_array)
+[Field-programmable gate array - Wikiwand](https://www.wikiwand.com/en/Field-programmable_gate_array) FPGA: high performance, programmable pipeline, low one-time cost
 
 [These Chips Are Better Than CPUs - YouTube](https://www.youtube.com/watch?v=7Elgs5HzIbE)
 [Difference Between ASIC and FPGA | Difference Between](http://www.differencebetween.net/technology/difference-between-asic-and-fpga/)
@@ -82,8 +83,8 @@ tags:
 [Transistors - The Invention That Changed The World - YouTube](https://www.youtube.com/watch?v=OwS9aTE2Go4)
 [Transistors Explained - How transistors work - YouTube](https://www.youtube.com/watch?v=J4oO7PT_nzQ)
 
-[MOSFET - Wikiwand](https://omni.wikiwand.com/en/MOSFET)
-[CMOS - Wikiwand](https://omni.wikiwand.com/en/CMOS) Complementary MOSFET
+[MOSFET - Wikiwand](https://www.wikiwand.com/en/MOSFET)
+[CMOS - Wikiwand](https://www.wikiwand.com/en/CMOS) Complementary MOSFET
 
 ## Photolithography
 
@@ -95,7 +96,10 @@ tags:
 
 [芯片制造的核心：光刻机！中芯国际在购得 EUV 光刻机后差距还有多大？梁孟松的传奇（58） - YouTube](https://www.youtube.com/watch?v=-w2Cvd3rxsU)
 [Vol.137 如何在纳米尺度雕刻芯片？ - YouTube](https://www.youtube.com/watch?v=Co7-_d1NjkM)
+
 [EUV 光刻太贵了：替代技术正加快速度转正-快科技-科技改变生活](https://m.mydrivers.com/newsview/870055.html?ref=https%3A//www.google.com/)
+[撼動晶片業！日本推出便宜EUV！？台積電不用當盤子了！？極紫外光EUV大解密！ - YouTube](https://www.youtube.com/watch?v=3_oFWrsfvDs)
+[EUV With Fewer Mirrors? - YouTube](https://www.youtube.com/watch?v=hzsWO-juoQQ)
 
 Atomic Layer Deposition (ALD) is used to deposit thin films on the wafer.
 [2奈米以下要靠它？秒懂最強薄膜技術ALD原子層沉積！用超薄材料造出最小電晶體 - YouTube](https://www.youtube.com/watch?v=6QxFJHPhD88)
@@ -118,7 +122,7 @@ immersion lithography (ArFi) (2007, N42) and multiple patterning (repeated expos
 
 [Technology Node - WikiChip](https://en.wikichip.org/wiki/technology_node)
 [How Are Process Nodes Defined? - ExtremeTech](https://www.extremetech.com/computing/296154-how-are-process-nodes-defined)
-[Semiconductor device fabrication - Wikiwand](https://omni.wikiwand.com/en/Semiconductor_device_fabrication)
+[Semiconductor device fabrication - Wikiwand](https://www.wikiwand.com/en/Semiconductor_device_fabrication)
 A process node upgrade is meant to double the number of transistors, hence halving the area, so the distance decrease is square root of 0.5 = 0.7071
 90nm -> 65nm -> 45nm -> 32nm -> 22nm -> 14nm -> 10nm -> 7nm -> 5nm
 Laser cannot achieve required half pitch after 28nm. 3D techniques (FinFET) are used.
@@ -142,13 +146,13 @@ Transistor density is better measure
 [The 3-D Transistor Transition - YouTube](https://www.youtube.com/watch?v=i3dDslo9ibw) FinFET and Gate All Around (GAA)
 This increase the contact surface area of the control signal (in the form of magnetic fields) towards the gate.
 
-[FinFET - Wikiwand](https://omni.wikiwand.com/en/FinFET)
+[FinFET - Wikiwand](https://www.wikiwand.com/en/FinFET)
 [Beyond 7nm - the race to 4nm is Samsung's to lose - Android Authority](https://www.androidauthority.com/4nm-processing-node-812959/)
 [Tech Brief: FinFET Fundamentals | Lam Research](https://blog.lamresearch.com/tech-brief-finfet-fundamentals/)
 [The secret behind FinFET process node scaling - YouTube](https://www.youtube.com/watch?v=9vQ0T1fOvIA) FinFlex, fin depopulation (reducing the number of fins)
 FinFET is used for nodes < 28nm
 
-[Multigate device - Wikiwand](https://omni.wikiwand.com/en/Gate-all-around)
+[Multigate device - Wikiwand](https://www.wikiwand.com/en/Gate-all-around)
 [Samsung Unveils 3nm Gate-All-Around Design Tools - ExtremeTech](https://www.extremetech.com/computing/291507-samsung-unveils-3nm-gate-all-around-design-tools)
 [The Gate-All-Around Transistor is Coming - YouTube](https://www.youtube.com/watch?v=5RPFfPtgw7g)
 [Gate-All-Around — The Future of Transistors - YouTube](https://www.youtube.com/watch?v=bfkIp_j0Iv8)
@@ -171,6 +175,16 @@ GAA/RibbonFET is used for nodes < 3nm
   - Wafer Level Package: die interconnects are hooked up before being cut out of the wafer
 - Advanced Packaging
   chiplets, multi chip modules, hybrid circuits, system in packages, mixing process nodes; TSMC SoIC, 3D IC (different chips stacked), 2.5D IC (chip stacked on interposer)
+
+[Redistribution Layers (RDLs) - Semiconductor Engineering](https://semiengineering.com/knowledge_centers/packaging/redistribution-layers-rdls/)
+[IC Packaging | 3D IC | Cadence](https://resources.pcb.cadence.com/ic-packaging)
+
+[全网遥遥领先，彻底讲懂芯片封装，封装到底是个啥？ - YouTube](https://www.youtube.com/watch?v=crOq5jmoO6Q)
+[全网最简单清晰！15分钟彻底讲清楚芯片封装技术！ - YouTube](https://www.youtube.com/watch?v=v4ypqCOU5z0) ❗!important, Wire Bonding, Flip Chip Bonding, Chip-scale packaging (CSP) (Redistribution Layer (RDL), Fan-in WLCSP, Fan-out WLCSP), 2.5D and 3D Packaging (Through-silicon via (TSV), Chiplet)
+[并非无解！先进封装技术，能打破国产芯片的困局吗？ - YouTube](https://www.youtube.com/watch?v=6UKPFcD2Ihc)
+
+[The RDL Layer Revolution | Advanced PCB Design Blog | Cadence](https://resources.pcb.cadence.com/blog/2023-redistribution-layer-process-flow-for-3d-ics)
+[Redistribution Layers (RDLs) - Semiconductor Engineering](https://semiengineering.com/knowledge_centers/packaging/redistribution-layers-rdls/)
 
 ### Advanced Packaging
 

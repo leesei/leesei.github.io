@@ -2,14 +2,14 @@
 title: Reverse Proxy
 description: ""
 created: 2015-06-17
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - dev/deploy
   - web
   - web/deploy
 ---
 
-[Reverse proxy - Wikiwand](https://omni.wikiwand.com/en/Reverse_proxy)
+[Reverse proxy - Wikiwand](https://www.wikiwand.com/en/Reverse_proxy)
 [What is a Reverse Proxy Server? | NGINX](https://www.nginx.com/resources/glossary/reverse-proxy-server/)
 
 [Proxy vs Reverse Proxy Server Explained - YouTube](https://www.youtube.com/watch?v=SqqrOspasag)
@@ -78,7 +78,7 @@ Used by Docker SwarmKit
 
 ## HAProxy
 
-[HAProxy - Wikiwand](https://omni.wikiwand.com/en/HAProxy)
+[HAProxy - Wikiwand](https://www.wikiwand.com/en/HAProxy)
 [HAProxy - The Reliable, High Performance TCP/HTTP Load Balancer](http://www.haproxy.org/)
 
 [Load balancing in Layer 4 vs Layer 7 with HAPROXY Examples - YouTube](https://www.youtube.com/watch?v=aKMLgFVxZYk)

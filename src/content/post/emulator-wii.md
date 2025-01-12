@@ -2,7 +2,7 @@
 title: GameCube/Wii Emulator
 description: ""
 created: 2023-06-12
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - emulator
   - gamecube
@@ -20,6 +20,7 @@ tags:
 
 Touch `Portable` to save configs in `User/` under current folder.
 Custom Texture packs
+[Dolphin emulator | How to install texture packs (simplified guide) - YouTube](https://www.youtube.com/watch?v=6IBDG_GJKFw)
 
 Requirements:
 
@@ -36,6 +37,7 @@ Requirements:
 
 [Nintendo GameCube - Dolphin Emulator Wiki](https://wiki.dolphin-emu.org/index.php?title=Nintendo_GameCube)
 [Wii - Dolphin Emulator Wiki](https://wiki.dolphin-emu.org/index.php?title=Wii)
+[Dolphin | 40 awesome exclusive games on the emulator (best of Gamecube and Wii) - YouTube](https://www.youtube.com/watch?v=Y5C6om0zbqo)
 
 [List GameCube games - Download Emulator ROMs Free Online](https://www.emulator-roms.com/?list=list-gamecube-games/)
 [List Wii Games - Download Emulator ROMs Free Online](https://www.emulator-roms.com/?list=list-wii-games/)

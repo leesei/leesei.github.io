@@ -2,7 +2,7 @@
 title: 3DS Emulator
 description: ""
 created: 2023-06-12
-updated: 2024-09-29
+updated: 2025-01-09
 tags:
   - 3ds
   - emulator

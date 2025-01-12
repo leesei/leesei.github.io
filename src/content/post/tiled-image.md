@@ -2,13 +2,13 @@
 title: Tiled Image
 description: ""
 created: 2016-04-08
-updated: 2024-09-23
+updated: 2025-01-09
 tags:
   - tiled-image
   - web
 ---
 
-[Mipmap - Wikiwand](https://omni.wikiwand.com/en/Mipmap)
+[Mipmap - Wikiwand](https://www.wikiwand.com/en/Mipmap)
 
 When viewing extremely large image (maps, medical and astrological images), it's more efficient to:
 
@@ -39,7 +39,7 @@ There are also many viewer to render these images on browser that provide differ
 
 Deep Zoom is a standard by Microsoft. It allows users to pan around and zoom in a large, high resolution image . It reduces the time required for initial load by downloading only the region being viewed or only at the resolution it is displayed at.
 
-[Deep Zoom - Wikiwand](http://omni.wikiwand.com/en/Deep_Zoom)
+[Deep Zoom - Wikiwand](http://www.wikiwand.com/en/Deep_Zoom)
 [A deepzoom primer ( explained and coded).. | Microsoft Learn](https://learn.microsoft.com/en-us/archive/blogs/jaimer/a-deepzoom-primer-explained-and-coded)
 [Deep Zoom File Format Overview | Microsoft Learn](<https://learn.microsoft.com/en-us/previous-versions/windows/silverlight/dotnet-windows-silverlight/cc645077(v=vs.95)>) ❗!important
 [Deep Zoom Schema Reference | Microsoft Learn](<https://learn.microsoft.com/en-us/previous-versions/windows/silverlight/dotnet-windows-silverlight/cc645022(v=vs.95)>)

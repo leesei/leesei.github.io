@@ -2,19 +2,19 @@
 title: Castlevania
 description: ""
 created: 2023-09-06
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - castlevania
   - game
 ---
 
-[Castlevania - Wikiwand](https://omni.wikiwand.com/en/Castlevania)
+[Castlevania - Wikiwand](https://www.wikiwand.com/en/Castlevania)
 
 ## Castlevania: Symphony of the Night 月下夜想曲
 
 > 1997 classic
 
-[Castlevania: Symphony of the Night - Wikiwand](https://omni.wikiwand.com/en/Castlevania:_Symphony_of_the_Night)
+[Castlevania: Symphony of the Night - Wikiwand](https://www.wikiwand.com/en/Castlevania:_Symphony_of_the_Night)
 
 [神作中的神作！Konami的傳世經典之作到底講了個什麼劇情？《惡魔城X月下夜想曲》丨萌評遊戲 爬爬娘 - YouTube](https://www.youtube.com/watch?v=ANouV7g3_QM)
 [26年前的恶魔城：月下夜想曲为何能成为系列巅峰【上集】【恶魔城编年史1】 - YouTube](https://www.youtube.com/watch?v=Xsy9tkWAEME)

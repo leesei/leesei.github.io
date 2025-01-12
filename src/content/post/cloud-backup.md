@@ -2,7 +2,7 @@
 title: Cloud Backup
 description: ""
 created: 2016-04-02
-updated: 2024-06-14
+updated: 2025-01-09
 tags:
   - web
 ---
@@ -253,8 +253,27 @@ The founders of the project are dissatisfied with ownCloud.com's management, IP 
 [omv-extras.org Joomla](http://omv-extras.org/joomla/)
 [omv-extras.org Simple](http://omv-extras.org/simple/)
 
-## FreeNAS
+## FreeNAS/TrueNAS
 
-[FreeNAS Storage Operating System | Open Source - FreeNAS - Open Source Storage Operating System](http://www.freenas.org/)
-[The Ars NAS distribution shootout: FreeNAS vs NAS4Free | Ars Technica](http://arstechnica.com/information-technology/2014/06/the-ars-nas-distribution-shootout-freenas-vs-nas4free/)
-[How-To: Set up a home file server using FreeNAS](http://www.engadget.com/2012/02/01/how-to-set-up-a-home-file-server-using-freenas/)
+[TrueNAS](https://www.truenas.com/)
+
+[FreeNAS is Dead Long Live TrueNAS CORE | ServeTheHome](https://www.servethehome.com/freenas-is-dead-long-live-truenas-core/)
+[TrueNAS Core will soon replace FreeNAS—and we test the beta – Ars Technica](https://arstechnica.com/gadgets/2020/07/an-easy-mode-for-zfs-we-test-the-truenas-core-12-0-beta/amp/)
+
+[Unraid vs TrueNAS - Home Lab Comparison in 2023 - Virtualization Howto](https://www.virtualizationhowto.com/2023/05/unraid-vs-truenas-home-lab-comparison-in-2023/)
+
+[What did you DO?? - The "Jellyfish Fryer" All-SSD Server - YouTube](https://www.youtube.com/watch?v=zeAce9pofvk)
+
+## fnOS
+
+[飞牛私有云 fnOS](https://www.fnnas.com/)
+[全新NAS系统：飞牛fnOS沉浸式体验、相册、影视体验好像有点意思？！全兼容X86平台不挑硬件、黑群外的好选择 - YouTube](https://www.youtube.com/watch?v=dR7BuiJ8IqY)
+[飞牛NAS系统「fnOS」公测版 深度体验 - YouTube](https://www.youtube.com/watch?v=CfsWagvk3mc)
+
+## Unraid
+
+[Unraid | Unleash Your Hardware](https://unraid.net/)
+
+## HexOS
+
+[HexOS](https://hexos.com/)

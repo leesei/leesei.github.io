@@ -2,7 +2,7 @@
 title: Kerbal Space Program
 description: ""
 created: 2019-10-22
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - games
   - ksp
@@ -13,7 +13,7 @@ tags:
 [KSPedia-PC.pdf](https://www.kerbalspaceprogram.com/files/KSPedia-PC.pdf)
 KSP 1.12 in 2021-06 is the final update
 
-[Kerbal Space Program - Wikiwand](https://omni.wikiwand.com/en/Kerbal_Space_Program)
+[Kerbal Space Program - Wikiwand](https://www.wikiwand.com/en/Kerbal_Space_Program)
 [Kerbal Space Program Wiki](https://wiki.kerbalspaceprogram.com/wiki/Main_Page)
 [The Kerbal Effect - YouTube](https://www.youtube.com/watch?v=vla6vpa1-Bk)
 [Can Kerbal Space Program Really Teach Rocket Science - YouTube](https://www.youtube.com/watch?v=ogC6ds81gek)
@@ -116,7 +116,7 @@ inclination change is more efficient at lower speed
 [Kerbal Space Program - Career Mode Guide For Beginners - Part 5 - YouTube](https://www.youtube.com/watch?v=6ffdsuZxAfc)
 [Kerbal Space Program - Career Mode Guide For Beginners - Part 10 - YouTube](https://www.youtube.com/watch?v=W3IRbcJndRw) Launch a Satellite Into a Specific Orbit
 
-[Oberth effect - Wikiwand](https://omni.wikiwand.com/en/Oberth_effect) firing rocket engine at high speed causes greater change in kinetic energy than when fired at low speed
+[Oberth effect - Wikiwand](https://www.wikiwand.com/en/Oberth_effect) firing rocket engine at high speed causes greater change in kinetic energy than when fired at low speed
 [Exploiting The Oberth Effect (again) in Kerbal Space Program - YouTube](https://www.youtube.com/watch?v=gEra14FVD4o)
 
 [How Gravity Assists Work - YouTube](https://www.youtube.com/watch?v=16jr7WWGSxo)
@@ -331,3 +331,12 @@ To be used with Real Solar System
 
 ["Doomed from the start" - KSP2 Development History FINALLY Revealed - YouTube](https://www.youtube.com/watch?v=NtMA594am4M)
 [Kerbal Space Program 2 is dead. Now what? - YouTube](https://www.youtube.com/watch?v=WuA2dZQxnqA)
+[Kerbal Space Program 2 Was Murdered. - YouTube](https://www.youtube.com/watch?v=LtXc1filzpY)
+
+# KSA
+
+[Kerbal's End, Kitten Space Agency's Beginning - YouTube](https://www.youtube.com/watch?v=W6hjhinQHtY)
+[Kitten Space Agency - December Update - YouTube](https://www.youtube.com/watch?v=ZltK2ltbpC4)
+
+[9 Things We Know About Kitten Space Agency (KSA) - New "KSP Killer" - YouTube](https://www.youtube.com/watch?v=yZ6zRpYTX_Y)
+[KSA Developer Reveals Future for Kerbal Space Program Successor - YouTube](https://www.youtube.com/watch?v=E-F_pGAn_MM)

@@ -2,13 +2,13 @@
 title: Gamification
 description: ""
 created: 2015-07-20
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - games
   - gamification
 ---
 
-[Gamification - Wikiwand](https://omni.wikiwand.com/en/Gamification) intrinsic reinforcement
+[Gamification - Wikiwand](https://www.wikiwand.com/en/Gamification) intrinsic reinforcement
 [What is Gamification and Why Bunchball is the Answer | Bunchball](http://www.bunchball.com/gamification)
 [What is Gamification? | Gamification.org](https://badgeville.com/wiki/Gamification)
 

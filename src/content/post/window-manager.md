@@ -2,7 +2,7 @@
 title: Window Manager
 description: ""
 created: 2014-12-12
-updated: 2024-09-25
+updated: 2025-01-09
 tags:
   - desktop
   - linux
@@ -14,8 +14,8 @@ tags:
 ---
 
 [Window manager - ArchWiki](https://wiki.archlinux.org/title/Window_Manager)
-[Window manager - Wikiwand](https://omni.wikiwand.com/en/Window_manager)
-[Dynamic window manager - Wikiwand](https://omni.wikiwand.com/en/Dynamic_window_manager)
+[Window manager - Wikiwand](https://www.wikiwand.com/en/Window_manager)
+[Dynamic window manager - Wikiwand](https://www.wikiwand.com/en/Dynamic_window_manager)
 [Extended Window Manager Hints](http://standards.freedesktop.org/wm-spec/wm-spec-latest.html)
 
 [Window Managers in Linux - Everything you NEED to know! - YouTube](https://www.youtube.com/watch?v=7NLtw26qJtU)

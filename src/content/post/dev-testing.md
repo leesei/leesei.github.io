@@ -2,7 +2,7 @@
 title: Testing
 description: ""
 created: 2015-06-17
-updated: 2024-09-29
+updated: 2025-01-09
 tags:
   - comp/lang
   - dev/testing
@@ -13,9 +13,9 @@ tags:
 
 [What is Software Testing? The 10 Most Common Types of Tests Developers Use in Projects](https://www.freecodecamp.org/news/types-of-software-testing/)
 
-[Unit testing - Wikiwand](http://omni.wikiwand.com/en/Unit_testing)
-[Test automation - Wikiwand](http://omni.wikiwand.com/en/Test_automation)
-[List of unit testing frameworks - Wikiwand](http://omni.wikiwand.com/en/List_of_unit_testing_frameworks)
+[Unit testing - Wikiwand](http://www.wikiwand.com/en/Unit_testing)
+[Test automation - Wikiwand](http://www.wikiwand.com/en/Test_automation)
+[List of unit testing frameworks - Wikiwand](http://www.wikiwand.com/en/List_of_unit_testing_frameworks)
 [Unit Testing Succinctly - Envato Tuts+ Code Tutorials](http://code.tutsplus.com/series/unit-testing-succinctly--cms-675)
 [Testing Pipeline 101 For Frontend Testing — Smashing Magazine](https://www.smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/)
 
@@ -45,10 +45,10 @@ Unit Test: given input _x_, is the output _y_?
 [Code Cop: Y U NO TDD](http://blog.code-cop.org/2019/08/y-u-no-tdd.html)
 [RIP Test Driven Development - Better Programming - Medium](https://medium.com/better-programming/rip-tdd-or-are-we-just-thinking-about-it-wrong-32ef36b9c5)
 
-[Test-driven development - Wikiwand](https://omni.wikiwand.com/en/Test-driven_development)
+[Test-driven development - Wikiwand](https://www.wikiwand.com/en/Test-driven_development)
 [Test-Driven Development (TDD) | Technology Conversations](http://technologyconversations.com/2014/09/30/test-driven-development-tdd/)
 
-[Behavior-driven development - Wikiwand](https://omni.wikiwand.com/en/Behavior-driven_development)
+[Behavior-driven development - Wikiwand](https://www.wikiwand.com/en/Behavior-driven_development)
 [Introducing BDD | Dan North & Associates](http://dannorth.net/introducing-bdd/)
 [What’s in a Story? | Dan North & Associates](http://dannorth.net/whats-in-a-story/)
 [BDD Assistant: It’s alive and cries for help | Technology Conversations](http://technologyconversations.com/2014/09/02/bdd-assistant-its-alive-and-cries-for-help/)
@@ -127,7 +127,7 @@ Gherkin is a human and machine friendly spec for specifying behavior:
 [Gherkin Syntax : Cucumber](https://docs.cucumber.io/gherkin/)
 [Feature Introduction · cucumber/cucumber Wiki](https://github.com/cucumber/cucumber/wiki/Feature-Introduction)
 
-[Behavior-driven development - Wikiwand](https://omni.wikiwand.com/en/Behavior-driven_development#/Behavioral_specifications)
+[Behavior-driven development - Wikiwand](https://www.wikiwand.com/en/Behavior-driven_development#/Behavioral_specifications)
 
 [Behat documentation](http://docs.behat.org/en/latest/user_guide/writing_scenarios.html)
 [Writing better user stories with Gherkin and Cucumber](https://medium.com/@mvwi/story-writing-with-gherkin-and-cucumber-1878124c284c)
@@ -173,8 +173,8 @@ Some test runners take the features and generate test scripts in various languag
 
 ## Ad-hoc standard
 
-[xUnit - Wikiwand](http://omni.wikiwand.com/en/XUnit)
-[Test Anything Protocol - Wikiwand](http://omni.wikiwand.com/en/Test_Anything_Protocol) [TAP](https://testanything.org/) is a simple text-based interface between testing modules in a test harness. Many test frameworks can output TAP results.
+[xUnit - Wikiwand](http://www.wikiwand.com/en/XUnit)
+[Test Anything Protocol - Wikiwand](http://www.wikiwand.com/en/Test_Anything_Protocol) [TAP](https://testanything.org/) is a simple text-based interface between testing modules in a test harness. Many test frameworks can output TAP results.
 [Main Page - Test Anything Protocol](http://testanything.org/)
 
 ---
@@ -221,9 +221,14 @@ Some test runners take the features and generate test scripts in various languag
 [google/atheris](https://github.com/google/atheris/)
 
 [american fuzzy lop](https://lcamtuf.coredump.cx/afl/)
+[google/AFL: american fuzzy lop - a security-oriented fuzzer](https://github.com/google/AFL/) 😴inactive,
 [Fuzzing With AFL-Fuzz, a Practical Example ( AFL vs Binutils )](https://www.evilsocket.net/2015/04/30/Fuzzing-with-AFL-Fuzz-a-Practical-Example-AFL-vs-binutils/)
+[the 7z rabbit hole is extremely deep. (1000's of crashes) - YouTube](https://www.youtube.com/watch?v=i5L9xEk_adw) `afl-gcc`, `afltriage`
 
+[The AFL++ fuzzing framework | AFLplusplus](https://aflplus.plus/)
 [AFLplusplus/AFLplusplus: The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!](https://github.com/AFLplusplus/AFLplusplus)
+
+[quic/AFLTriage](https://github.com/quic/AFLTriage)
 
 ## Android
 
@@ -296,7 +301,7 @@ Some test runners take the features and generate test scripts in various languag
 [Getting Started With Property-Based Testing in Python With Hypothesis and Pytest - Semaphore](https://semaphoreci.com/blog/property-based-testing-python-hypothesis-pytest)
 
 [doctest — Test interactive Python examples — Python documentation](https://docs.python.org/3/library/doctest.html)
-[doctest - Wikiwand](https://omni.wikiwand.com/en/Doctest)
+[doctest - Wikiwand](https://www.wikiwand.com/en/Doctest)
 [doctest — Testing Through Documentation — PyMOTW 3](https://pymotw.com/3/doctest/)
 [Python Testing with doctest - Mouse Vs Python](https://www.blog.pythonlibrary.org/2014/03/17/python-testing-with-doctest/)
 
@@ -384,7 +389,7 @@ Some test runners take the features and generate test scripts in various languag
 
 [Essential JavaScript: the top five testing libraries | JavaScript | Creative Bloq](http://www.creativebloq.com/javascript/essential-javascript-top-five-testing-libraries-10126048)
 
-[List of unit testing frameworks (JavaScript) - Wikiwand](http://omni.wikiwand.com/en/List_of_unit_testing_frameworks#/JavaScript)
+[List of unit testing frameworks (JavaScript) - Wikiwand](http://www.wikiwand.com/en/List_of_unit_testing_frameworks#/JavaScript)
 [thegrtman/javascript-test-framework-comparison](https://github.com/thegrtman/javascript-test-framework-comparison)
 [coderwall.com : establishing geek cred since 1305712800](https://coderwall.com/p/ntbixw/javascript-test-framework-comparison)
 [JavaScript unit test tools for TDD - Stack Overflow](http://stackoverflow.com/questions/300855/javascript-unit-test-tools-for-tdd)

@@ -2,7 +2,7 @@
 title: OpenSSL
 description: ""
 created: 2015-09-29
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - app
   - openssl
@@ -10,20 +10,25 @@ tags:
 ---
 
 [OpenSSL](https://www.openssl.org/) is a toolkit for the TLS and SSL.
+[OpenSSL - Wikiwand](https://www.wikiwand.com/en/articles/BoringSSL)
+[ossl-guide-introduction - OpenSSL Documentation](https://docs.openssl.org/master/man7/ossl-guide-introduction/)
+
+[Symmetric Key Decryption Methods (AES, ARIA, Blowfish, Camellia, ChaCha20, Cast, DES, 3DES, IDEA, RC2 and RC4)](https://asecuritysite.com/openssl/openssl3) CLI command generator
 [The Most Common OpenSSL Commands](https://www.sslshopper.com/article-most-common-openssl-commands.html)
 [Some list of openssl commands for check and verify your keys](https://gist.github.com/Hakky54/b30418b25215ad7d18f978bc0b448d81)
 [OpenSSL command cheatsheet](https://www.freecodecamp.org/news/openssl-command-cheatsheet-b441be1e8c4a/)
+[OpenSSL Quick Reference Guide](https://knowledge.digicert.com/general-information/openssl-quick-reference-guide)
 
 [jbp.io :: TLS performance: rustls versus OpenSSL](https://jbp.io/2019/07/01/rustls-vs-openssl-performance.html)
 
 ## key/cert types
 
-[X.509 - Wikiwand](https://omni.wikiwand.com/en/X.509)
+[X.509 - Wikiwand](https://www.wikiwand.com/en/X.509)
 [RFC 2585 - Internet X.509 Public Key Infrastructure Operational Protocols: FTP and HTTP](https://datatracker.ietf.org/doc/html/rfc2585)
 [DER vs. CRT vs. CER vs. PEM Certificates and How To Convert Them](http://info.ssl.com/article.aspx?id=12149)
 [PEM, DER, CRT, and CER: X.509 Encodings and Conversions - SSL.com](https://www.ssl.com/guide/pem-der-crt-and-cer-x-509-encodings-and-conversions/)
 
-[PKCS - Wikiwand](https://omni.wikiwand.com/en/PKCS)
+[PKCS - Wikiwand](https://www.wikiwand.com/en/PKCS)
 [What are Public-Key Cryptography Standards (PKCS)?](https://www.techtarget.com/searchsecurity/definition/Public-Key-Cryptography-Standards)
 [Guide to Public Key Cryptography Standards in Cyber Security | RSI Security](https://blog.rsisecurity.com/guide-to-public-key-cryptography-standards-in-cyber-security/)
 
@@ -133,9 +138,31 @@ openssl s_client -connect 10.6.64.170:443 -state -msg
 
 ---
 
-# CFSSL
+# Alternate Implementations
 
-#cfssl #cloudflare
+## LibreSSL
+
+> fork of OpenSSL by OpenBSD
+
+[LibreSSL](https://www.libressl.org/)
+[LibreSSL - Wikiwand](https://www.wikiwand.com/en/articles/LibreSSL)
+
+## Tink
+
+> Google originally forked OpenSSL as BoringSSL
+
+[Tink  |  Google for Developers](https://developers.google.com/tink)
+[Goodbye OpenSSL, and Hello To Google Tink | by Prof Bill Buchanan OBE FRSE | ASecuritySite: When Bob Met Alice | Medium](https://medium.com/asecuritysite-when-bob-met-alice/goodbye-openssl-and-hello-to-google-tink-583163cfd76c)
+
+[Tink Cryptography Library](https://github.com/tink-crypto)
+
+## wolfSSL
+
+[wolfSSL – Embedded SSL/TLS Library](https://www.wolfssl.com/)
+[WolfSSL - Wikiwand](https://www.wikiwand.com/en/articles/WolfSSL)
+[wolfSSL/wolfssl: The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud. wolfSSL supports up to TLS 1.3 and DTLS 1.3!](https://github.com/wolfssl/wolfssl) GPL
+
+## CFSSL
 
 [Introducing CFSSL - CloudFlare's PKI toolkit](https://blog.cloudflare.com/introducing-cfssl/)
 

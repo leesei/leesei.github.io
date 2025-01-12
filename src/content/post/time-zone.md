@@ -2,12 +2,12 @@
 title: Time Zone
 description: ""
 created: 2019-05-08
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - trivia
 ---
 
-[Time zone - Wikiwand](https://omni.wikiwand.com/en/Time_zone)
+[Time zone - Wikiwand](https://www.wikiwand.com/en/Time_zone)
 [Time Zone Map](https://www.timeanddate.com/time/map/)
 [World_Time_Zones_Map.png (4000×2157)](https://upload.wikimedia.org/wikipedia/commons/8/88/World_Time_Zones_Map.png)
 

@@ -2,7 +2,7 @@
 title: NixOS
 description: ""
 created: 2023-06-18
-updated: 2024-09-23
+updated: 2025-01-09
 tags:
   - desktop
   - linux
@@ -20,6 +20,7 @@ tags:
 [NixOS ❄: tmpfs as root](https://elis.nu/blog/2020/05/nixos-tmpfs-as-root/)
 
 [Nix explained from the ground up - YouTube](https://www.youtube.com/watch?v=5D3nUU1OVx8) ❗!important
+[Nix in 100 Seconds - YouTube](https://www.youtube.com/watch?v=FJVFXsNzYZQ)
 [Nix in 100 Seconds - YouTube](https://www.youtube.com/watch?v=FJVFXsNzYZQ)
 [NIX OS: the BEST package manager on the MOST SOLID Linux distribution - YouTube](https://www.youtube.com/watch?v=DMQWirkx5EY)
 [I Have Fallen In 💕 Love With ❄️ NixOS | A Basic Introduction To NixOS - YouTube](https://www.youtube.com/watch?v=uS8Bx8nQots)

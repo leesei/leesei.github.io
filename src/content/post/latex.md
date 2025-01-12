@@ -2,7 +2,7 @@
 title: Latex
 description: ""
 created: 2015-05-20
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - asciimath
   - comp/lang
@@ -32,7 +32,7 @@ tags:
 
 ## TikZ
 
-[PGF/TikZ - Wikiwand](https://omni.wikiwand.com/en/PGF/TikZ)
+[PGF/TikZ - Wikiwand](https://www.wikiwand.com/en/PGF/TikZ)
 [TikZ package - Overleaf, Online LaTeX Editor](https://www.overleaf.com/learn/latex/TikZ_package)
 [How to make beautiful math graphics using Tikz & LaTeX - YouTube](https://www.youtube.com/watch?v=bQugbYq0BVA)
 [LaTeX/PGF/TikZ - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/LaTeX/PGF/TikZ)

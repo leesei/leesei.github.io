@@ -2,7 +2,7 @@
 title: Maritime
 description: ""
 created: 2021-11-10
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - transportation
 ---
@@ -64,13 +64,13 @@ Submarine
 ## Fishing
 
 [The Broken Economics of the Oceans - YouTube](https://www.youtube.com/watch?v=73ygHs4Kwcs)
-[Illegal, unreported and unregulated fishing - Wikiwand](https://omni.wikiwand.com/en/Illegal,_unreported_and_unregulated_fishing)
+[Illegal, unreported and unregulated fishing - Wikiwand](https://www.wikiwand.com/en/Illegal,_unreported_and_unregulated_fishing)
 [Illegal, Unreported and Unregulated (IUU) fishing | Food and Agriculture Organization of the United Nations](https://www.fao.org/iuu-fishing/en/)
 [Understanding Illegal, Unreported, and Unregulated Fishing | NOAA Fisheries](https://www.fisheries.noaa.gov/insight/understanding-illegal-unreported-and-unregulated-fishing)
 
 ## Panama Canal
 
-[Panama Canal - Wikiwand](https://omni.wikiwand.com/en/Panama_Canal)
+[Panama Canal - Wikiwand](https://www.wikiwand.com/en/Panama_Canal)
 
 [The World's Shortcut: How the Panama Canal Works - YouTube](https://www.youtube.com/watch?v=KgsxapE27NU)
 
@@ -82,4 +82,4 @@ Submarine
 
 ## Suez Canal
 
-[Suez Canal - Wikiwand](https://omni.wikiwand.com/en/Suez_Canal)
+[Suez Canal - Wikiwand](https://www.wikiwand.com/en/Suez_Canal)

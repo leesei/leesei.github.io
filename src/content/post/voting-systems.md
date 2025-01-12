@@ -2,7 +2,7 @@
 title: Voting Systems
 description: ""
 created: 2015-03-05
-updated: 2024-08-28
+updated: 2025-01-09
 tags:
   - politics
   - voting
@@ -11,17 +11,17 @@ tags:
 - Primary vs Caucuses
 - Closed/semi-closed/open primary
 
-[Voting system - Wikiwand](http://omni.wikiwand.com/en/Voting_system)
+[Voting system - Wikiwand](http://www.wikiwand.com/en/Voting_system)
 [Michael Munger on Choosing in Groups | EconTalk | Library of Economics and Liberty](http://www.econtalk.org/archives/2015/02/michael_munger_1.html)
 
 [RangeVoting.org - Center for Range Voting - front page](https://www.rangevoting.org/) includes Instant Runoff and Approval voting
 
 [Simulating alternate voting systems - YouTube](https://www.youtube.com/watch?v=yhO6jfHPFQU) ❗!important
 [The 12 different voting systems explained - YouTube](https://www.youtube.com/watch?v=Dsq-sRBmMjA)
-[Comparison of electoral systems - Wikiwand](https://omni.wikiwand.com/en/Comparison_of_electoral_systems)
+[Comparison of electoral systems - Wikiwand](https://www.wikiwand.com/en/Comparison_of_electoral_systems)
 [Which voting system is the best? - Alex Gendler - YouTube](https://www.youtube.com/watch?v=PaxVCsnox_4)
 
-[Michel Balinski](https://omni.wikiwand.com/en/Michel_Balinski#/Research_contributions) is an applied mathematician, economist, operations research analyst and political scientist.
+[Michel Balinski](https://www.wikiwand.com/en/Michel_Balinski#/Research_contributions) is an applied mathematician, economist, operations research analyst and political scientist.
 
 [Quick and Easy Voting for Normal People - YouTube](https://www.youtube.com/watch?v=orybDrUj4vA) allow multiple votes and use instance one off
 
@@ -31,8 +31,8 @@ tags:
 
 ## Voting is Flawed
 
-[Voting paradox - Wikiwand](http://omni.wikiwand.com/en/Voting_paradox) group preference is not transitive
-[Arrow's impossibility theorem - Wikiwand](https://omni.wikiwand.com/en/Arrow%27s_impossibility_theorem)
+[Voting paradox - Wikiwand](http://www.wikiwand.com/en/Voting_paradox) group preference is not transitive
+[Arrow's impossibility theorem - Wikiwand](https://www.wikiwand.com/en/Arrow%27s_impossibility_theorem)
 [Why Democracy Is Mathematically Impossible - YouTube](https://www.youtube.com/watch?v=qf7ws2DF-zk)
 Satisfying all five of the following criteria is impossible for a ranked voting system of 3 or more candidates:
 
@@ -42,9 +42,9 @@ Satisfying all five of the following criteria is impossible for a ranked voting 
 - Transitivity
 - Independence of Irrelevant Alternatives (new option should not change the result)
 
-[Gibbard–Satterthwaite theorem - Wikiwand](https://omni.wikiwand.com/en/Gibbard%E2%80%93Satterthwaite_theorem)
-[Duverger's law - Wikiwand](https://omni.wikiwand.com/en/Duverger%27s_law)
-[Condorcet paradox - Wikiwand](https://omni.wikiwand.com/en/Condorcet_paradox) dead lock
+[Gibbard–Satterthwaite theorem - Wikiwand](https://www.wikiwand.com/en/Gibbard%E2%80%93Satterthwaite_theorem)
+[Duverger's law - Wikiwand](https://www.wikiwand.com/en/Duverger%27s_law)
+[Condorcet paradox - Wikiwand](https://www.wikiwand.com/en/Condorcet_paradox) dead lock
 
 [The flaw in every voting system - by Vasek Rozhon](https://vasekrozhon.substack.com/p/the-flaw-in-every-voting-system)
 [The flaw in every voting system - YouTube](https://www.youtube.com/watch?v=rbVoEjS6Q1Q)
@@ -110,8 +110,8 @@ Ranked Choice Voting
 Instant Runoff Voting
 Preferential Voting
 
-[Instant‐runoff voting - Wikiwand](http://omni.wikiwand.com/en/Instant‐runoff_voting)
-[Single transferable vote - Wikiwand](https://omni.wikiwand.com/en/Single_transferable_vote)
+[Instant‐runoff voting - Wikiwand](http://www.wikiwand.com/en/Instant‐runoff_voting)
+[Single transferable vote - Wikiwand](https://www.wikiwand.com/en/Single_transferable_vote)
 
 [Politics in the Animal Kingdom: Single Transferable Vote - YouTube](https://www.youtube.com/watch?v=l8XOZJkozfI)
 
@@ -134,7 +134,7 @@ Like Alternative Voting, but extra votes are given to next alternative.
 
 Voters holds a certain amount of tokens, and can use them to vote for a candidate, but the cost of each vote is quadratic to the number of votes.
 
-[Quadratic voting - Wikiwand](https://omni.wikiwand.com/en/Quadratic_voting)
+[Quadratic voting - Wikiwand](https://www.wikiwand.com/en/Quadratic_voting)
 [V神力推的「平方投票法」是什麼？如何改變民主遊戲規則 | 動區動趨-最具影響力的區塊鏈新聞媒體](https://www.blocktempo.com/what-is-square-voting/)
 
 ## Approval Voting
@@ -157,11 +157,11 @@ Party prepare list to be added to the council after the 1st round
 
 Method for direct election for Hong Kong's Legco member.
 
-[Party-list proportional representation - Wikiwand](https://omni.wikiwand.com/en/Party-list_proportional_representation)
+[Party-list proportional representation - Wikiwand](https://www.wikiwand.com/en/Party-list_proportional_representation)
 
 ## Arrow's Impossibility Theorem
 
-[Arrow's impossibility theorem - Wikiwand](https://omni.wikiwand.com/en/Arrow's_impossibility_theorem)
+[Arrow's impossibility theorem - Wikiwand](https://www.wikiwand.com/en/Arrow's_impossibility_theorem)
 
 When there are three or more candidates, there's no "nice" way to vote for a winner. Collective choice is always manipulative, either cycling or dependency of irrelevant alternative is inevitable.
 
@@ -174,7 +174,7 @@ measure _misrepresentation error_, the difference of percentage points between w
 [H.I. #37: Penguins and Politics — Hello Internet](http://www.hellointernet.fm/podcast/37)
 [HI 37 — CGP Grey](http://www.cgpgrey.com/hi-37-rdr) (1:16:03)
 
-[United Kingdom Alternative Vote referendum, 2011 - Wikiwand](http://omni.wikiwand.com/en/United_Kingdom_Alternative_Vote_referendum,_2011)
+[United Kingdom Alternative Vote referendum, 2011 - Wikiwand](http://www.wikiwand.com/en/United_Kingdom_Alternative_Vote_referendum,_2011)
 
 ---
 

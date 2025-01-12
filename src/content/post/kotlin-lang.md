@@ -2,14 +2,14 @@
 title: Kotlin
 description: ""
 created: 2019-04-04
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - comp/lang
   - kotlin
 ---
 
 [Kotlin Programming Language](https://kotlinlang.org/)
-[Kotlin (programming language) - Wikiwand](<https://omni.wikiwand.com/en/Kotlin_(programming_language)>)
+[Kotlin (programming language) - Wikiwand](<https://www.wikiwand.com/en/Kotlin_(programming_language)>)
 Statically typed programming language for the JVM, Android, the browser and native
 
 [Kotlin Clean Architecture – ProAndroidDev](https://proandroiddev.com/kotlin-clean-architecture-1ad42fcd97fa)
@@ -247,7 +247,7 @@ improvements in 1.3, but not for prime time yet
 [Kotlin Spring Boot Series - YouTube](https://www.youtube.com/playlist?list=PLjuEK3Ez60n2dTFL7-KETl1yl04kOo-rM) Habibi Coding
 
 [Ktor - asynchronous Web framework for Kotlin](https://ktor.io/)
-[Ktor for fast server prototyping. Ktor is framework for creating server… | by Jarosław Michalik | Kt. Academy](https://blog.kotlin-academy.com/ktor-for-fast-server-prototyping-6e7c6d2ec296?gi=5b6b1ced336e)
+[Ktor for fast server prototyping. Ktor is framework for creating server… | by Jarosław Michalik | Kt. Academy](https://blog.kotlin-academy.com/ktor-for-fast-server-prototyping-6e7c6d2ec296)
 
 [Javalin - A lightweight Java and Kotlin web framework](https://javalin.io/)
 [Introducing Javalin: a Lightweight Web Framework for Java and Kotlin](https://www.infoq.com/news/2019/07/javalin/)

@@ -2,14 +2,14 @@
 title: nVidia Jetson
 description: ""
 created: 2019-08-09
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - iot
   - jetson
   - maker
 ---
 
-[Nvidia Jetson - Wikiwand](https://omni.wikiwand.com/en/Nvidia_Jetson)
+[Nvidia Jetson - Wikiwand](https://www.wikiwand.com/en/Nvidia_Jetson)
 
 [Embedded AI Modules: NVIDIA's Jetson TX2, Nano & AGX Xavier | Arrow.com](https://www.arrow.com/en/research-and-events/articles/comparing-embedded-ai-modules-nvidias-jetson-nano-tx2--and-agx-xavier)
 

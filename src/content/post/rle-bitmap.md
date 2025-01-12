@@ -2,7 +2,7 @@
 title: RLE Bitmap
 description: ""
 created: 2018-06-13
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - bitmap
   - rle
@@ -10,4 +10,4 @@ tags:
 
 [c++ - Where can I find example of 24 bit bitmap image RLE - Stack Overflow](https://stackoverflow.com/questions/34982705/where-can-i-find-example-of-24-bit-bitmap-image-rle)
 
-[Run-length encoding - Wikiwand](https://omni.wikiwand.com/en/Run-length_encoding)
+[Run-length encoding - Wikiwand](https://www.wikiwand.com/en/Run-length_encoding)

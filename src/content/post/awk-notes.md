@@ -2,7 +2,7 @@
 title: awk notes
 description: ""
 created: 2015-01-13
-updated: 2024-02-24
+updated: 2025-01-09
 tags:
   - app
   - awk

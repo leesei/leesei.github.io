@@ -2,7 +2,7 @@
 title: Microsoft Apps
 description: ""
 created: 2020-08-23
-updated: 2024-08-29
+updated: 2025-01-09
 tags:
   - apps
   - microsoft
@@ -33,6 +33,7 @@ tags:
 # Word
 
 [Word 基礎教學 - YouTube](https://www.youtube.com/playlist?list=PL7enJ2-v6SPlgDsNHXJ1K2RpkZY2b_pm7) PAPAYA 電腦教室
+[9 Time-Saving Tips for Formatting Documents in Microsoft Word](https://www.makeuseof.com/time-saving-tips-for-formatting-documents-microsoft-word/)
 
 # PowerPoint
 
@@ -46,6 +47,9 @@ tags:
 [PowerPoint School - YouTube](https://www.youtube.com/channel/UCngkX2grzKhYBx1stz08Z3Q)
 [Animated PowerPoint Infographic Slide Design Tutorial - YouTube](https://www.youtube.com/watch?v=OZKTzpbnGOA)
 
+[Spice up your Brand - Create your own color palette in PowerPoint - YouTube](https://www.youtube.com/watch?v=r1bu6y0kQMI)
+[How to Program Custom Color Palettes in PowerPoint! 🌈 [PPT TIPS] - YouTube](https://www.youtube.com/watch?v=BB5T6t_adGg)
+
 [Home | PptxGenJS](https://gitbrent.github.io/PptxGenJS/)
 
 [Great Impractical Ideas in Computer Science: PowerPoint Programming - YouTube](https://www.youtube.com/watch?v=_3loq22TxSc)
@@ -53,6 +57,8 @@ tags:
 # Excel
 
 [Excel 基礎教學 - YouTube](https://www.youtube.com/playlist?list=PL7enJ2-v6SPm-EHMuRMCG7R7C-vXQugNM) PAPAYA 電腦教室
+
+[An Intro to Using Conditional Formatting in Excel](https://www.makeuseof.com/intro-to-excel-using-conditional-formatting/)
 
 [Excel 不求人 - YouTube](https://www.youtube.com/playlist?list=PL4NLMOC4WqJ-TeP1zJ46CN7FKjAxl_98q)
 [Excel 教學 E23 | 自動化排班表設計 | 學會這些函數，讓你的排班表可以萬年使用~ - YouTube](https://www.youtube.com/watch?v=9WsRNHalqp4)
@@ -64,10 +70,12 @@ calender
 [Make Your Excel Spreadsheets Smarter With Dropdown Lists](https://www.makeuseof.com/smarter-excel-with-dropdowns/)
 
 [How to Create a Chart Template in Microsoft Excel](https://www.howtogeek.com/763415/how-to-create-a-chart-template-in-microsoft-excel/)
+[Make Excel Smarter With Dynamic Dropdown Lists: Here's How They Work](https://www.makeuseof.com/excel-dynamic-dropdown-lists/)
+[Make Excel Formulas Dynamic with the This Trick - YouTube](https://www.youtube.com/watch?v=HOmVlf6Bm2g)
 
 ## Excel Lambda function
 
-[LAMBDA: The ultimate Excel worksheet function - Microsoft Research](https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/)
+[LAMBDA: The ultimate Excel worksheet function - Microsoft Research](https://www.microsoft.com/en-us/r【amiesearch/blog/lambda-the-ultimatae-excel-worksheet-function/)
 [LAMBDA function - Excel](https://support.microsoft.com/en-us/office/lambda-function-bd212d27-1cd1-4321-a34a-ccbf254b8b67)
 [Announcing LAMBDA](https://techcommunity.microsoft.com/t5/excel-blog/announcing-lambda-turn-excel-formulas-into-custom-functions/ba-p/1925546)
 

@@ -2,12 +2,12 @@
 title: USB
 description: ""
 created: 2019-01-29
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - comp/hardware
 ---
 
-[USB - Wikiwand](https://omni.wikiwand.com/en/USB)
+[USB - Wikiwand](https://www.wikiwand.com/en/USB)
 [USB in a NutShell](http://www.beyondlogic.org/usbnutshell/usb1.shtml)
 [Front Page | USB-IF](https://www.usb.org/)
 
@@ -133,14 +133,14 @@ Add your use to `dialout` group
 
 ## USB OTG
 
-[USB On-The-Go - Wikiwand](https://omni.wikiwand.com/en/USB_On-The-Go)
+[USB On-The-Go - Wikiwand](https://www.wikiwand.com/en/USB_On-The-Go)
 [USB On-the-Go Basics - Tutorial - Maxim](https://www.maximintegrated.com/en/app-notes/index.mvp/id/1822)
 
 [Simple guide for setting up OTG modes on the Raspberry Pi Zero](https://gist.github.com/gbaman/50b6cca61dd1c3f88f41)
 
 ## Cables
 
-[USB hardware - Wikiwand](https://omni.wikiwand.com/en/USB_hardware#/Connectors)
+[USB hardware - Wikiwand](https://www.wikiwand.com/en/USB_hardware#/Connectors)
 
 [Fastest charging cables - which one is best for you?](https://www.androidauthority.com/fastest-charging-cables-793649/)
 [Google engineer challenges USB-C cables for sale at Amazon - ExtremeTech](https://www.extremetech.com/computing/217556-google-engineer-challenges-usb-c-cables-for-sale-at-amazon)

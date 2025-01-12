@@ -2,7 +2,7 @@
 title: Telecommunication
 description: ""
 created: 2019-06-13
-updated: 2024-09-25
+updated: 2025-01-09
 tags:
   - 4g
   - 5g
@@ -45,7 +45,7 @@ WiMAX US, CDMA based, dead
 ## 5G
 
 5G NR
-[5G NR frequency bands - Wikiwand](https://omni.wikiwand.com/en/5G_NR_frequency_bands)
+[5G NR frequency bands - Wikiwand](https://www.wikiwand.com/en/5G_NR_frequency_bands)
 
 Physical Layer Protocols of eMBB:
 
@@ -82,7 +82,7 @@ Chinese government gives different bandwidth to different providers for differen
 
 ## DMFS
 
-[Dual-tone multi-frequency signaling - Wikiwand](https://omni.wikiwand.com/en/Dual-tone_multi-frequency_signaling)
+[Dual-tone multi-frequency signaling - Wikiwand](https://www.wikiwand.com/en/Dual-tone_multi-frequency_signaling)
 
 [電話按鍵聲的秘密，原來不只是響好聽的? | 超邊緣冷知識 第 35 集 | 啾啾鞋 - YouTube](https://www.youtube.com/watch?v=48xx6H-M4ZI)
 

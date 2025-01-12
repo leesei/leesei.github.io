@@ -2,7 +2,7 @@
 title: NW.js
 description: ""
 created: 2015-08-28
-updated: 2024-08-14
+updated: 2025-01-09
 tags:
   - comp/lang
   - node-webkit

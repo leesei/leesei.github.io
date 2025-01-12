@@ -2,7 +2,7 @@
 title: Tmux
 description: ""
 created: 2014-12-11
-updated: 2024-04-23
+updated: 2025-01-09
 tags:
   - app
   - shell-tool
@@ -17,6 +17,9 @@ tags:
 
 [Tmux has forever changed the way I write code. - YouTube](https://www.youtube.com/watch?v=DzNmUNvnB04) tmux + neovim
 [Tmux can do WHAT?? // Use THIS to Make Tmux AMAZING Instantly - YouTube](https://www.youtube.com/watch?v=0z6akhNyguw)
+
+[Tmux in 100 Seconds - YouTube](https://www.youtube.com/watch?v=vtB1J_zCv8I)
+[TMUX in 100 seconds | Prime Reacts - YouTube](https://www.youtube.com/watch?v=0eHZRPzbiJ0)
 
 DevOps Toolbox
 [NINJA Level Productivity: Master Tmux in 7 Minutes - YouTube](https://www.youtube.com/watch?v=UtINDdy-xBc)
@@ -356,10 +359,15 @@ git clone https://github.com/jimeh/tmuxifier.git ~/.tmuxifier
 
 # zellij
 
+[Zellij](https://zellij.dev/)
 [zellij-org/zellij: A terminal workspace with batteries included](https://github.com/zellij-org/zellij)
+
+[Using Layouts for Personal Automation](https://zellij.dev/tutorials/layouts/)
+[Session Management with Zellij](https://zellij.dev/tutorials/session-management/)
 
 [Aram Drevekenin – Zellij - A terminal workspace with batteries included - Rust Vienna June 2023 - YouTube](https://www.youtube.com/watch?v=nBL_8KsTA5g)
 
+[Zellij vs Tmux | Typecraft Learn](https://typecraft.dev/tutorial/zellij-vs-tmux)
 [Is Zellij the PERFECT Multiplexer? // Tmux Getting Dethroned! - YouTube](https://www.youtube.com/watch?v=BjfMWqy1hnw)
 [You need to see what Zellij just released! - YouTube](https://www.youtube.com/watch?v=HaJoRgBlRc8)
 [Zellij for Tmuxers - YouTube](https://www.youtube.com/watch?v=Cd8P4hBC8i8)

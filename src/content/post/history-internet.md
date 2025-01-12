@@ -2,7 +2,7 @@
 title: Internet History
 description: ""
 created: 2016-08-01
-updated: 2024-09-06
+updated: 2025-01-09
 tags:
   - browser-war
   - history
@@ -63,7 +63,7 @@ Documents the history of Internet and major events.
 
 Netscape, IE
 
-[Browser wars - Wikiwand](https://omni.wikiwand.com/en/Browser_wars)
+[Browser wars - Wikiwand](https://www.wikiwand.com/en/Browser_wars)
 
 [Project Code Rush - The Beginnings of Netscape / Mozilla Documentary - YouTube](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y)
 [When Netscape Almost Destroyed Microsoft | Nostalgia Nerd - YouTube](https://www.youtube.com/watch?v=huFRTqxb5BE)

@@ -2,11 +2,13 @@
 title: Quantum Computer
 description: ""
 created: 2015-12-11
-updated: 2023-12-01
+updated: 2025-01-09
 tags:
   - comp/hardware
   - science
 ---
+
+> [[crypto#Post-quantum]]
 
 [A Beginner’s Guide to Quantum Computing - YouTube](https://www.youtube.com/watch?v=S52rxZG-zi0)
 [Quantum computing explained with a deck of cards | Dario Gil, IBM Research - YouTube](https://www.youtube.com/watch?v=yy6TV9Dntlw)
@@ -29,7 +31,7 @@ tags:
 [Quantum Computing: Untangling the Hype - YouTube](https://www.youtube.com/watch?v=wE1OCXvaDtc)
 [Quantum Computing for Computer Scientists - YouTube](https://www.youtube.com/watch?v=F_Riqjdh2oM)
 [Quantum Computing - YouTube](https://www.youtube.com/playlist?list=PLV4qsET9ZdOR-pf6ZMJZx2auIZScXhCaW)
-[How Quantum Computers Break Encryption | Shor's Algorithm Explained - YouTube](https://www.youtube.com/watch?v=lvTqbM5Dq4Q)
+[一小時略懂量子電腦｜量子位元、量子計算、超導電路、離子阱、拓撲量子位元、量子糾錯 - YouTube](https://www.youtube.com/watch?v=XuN6sF8UGSw)
 [什么是量子计算机？做一台量子计算机有哪些困难？ - YouTube](https://www.youtube.com/watch?v=OJEoWNZKcfs)
 [量子计算机可以取代经典计算机？不！一台合格的量子计算机应有哪些标准？ - YouTube](https://www.youtube.com/watch?v=OHTqCYCQJe0)
 [18 个量子比特纠缠是什么？量子计算机为何如此强大？李永乐老师讲量子的纠缠态与叠加态（2018 最新） - YouTube](https://www.youtube.com/watch?v=BzyOoo4AOxs)

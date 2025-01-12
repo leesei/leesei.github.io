@@ -2,7 +2,7 @@
 title: Computer Hardware
 description: ""
 created: 2016-09-27
-updated: 2024-09-23
+updated: 2025-01-09
 tags:
   - comp/hardware
 ---
@@ -18,6 +18,10 @@ tags:
 [Hardware Unboxed - YouTube](https://www.youtube.com/@Hardwareunboxed)
 [板廠沒有說的秘密 TOPPC - YouTube](https://www.youtube.com/@ToppcLin)
 
+Branch Education
+[How do Computers Work? - YouTube](https://www.youtube.com/playlist?list=PL6rx9p3tbsMsZ9hUvU-kDOXc8Fot04Hhu)
+[How do Desktop Computers Work? 💻🛠🔬 [3D ANIMATED Teardown] - YouTube](https://www.youtube.com/watch?v=d86ws7mQYIg)
+
 # PC Assembly
 
 硬件茶谈
@@ -29,16 +33,16 @@ tags:
 [How to build a PC, the last guide you'll ever need! - YouTube](https://www.youtube.com/watch?v=BL4DCEp7blY) LTT
 [宿舍神机！全网第二细的 ITX 装机教程 - YouTube](https://www.youtube.com/watch?v=EXRFOceNL7w)
 
-Branch Education
-[How do Computers Work? - YouTube](https://www.youtube.com/playlist?list=PL6rx9p3tbsMsZ9hUvU-kDOXc8Fot04Hhu)
-[How do Desktop Computers Work? 💻🛠🔬 [3D ANIMATED Teardown] - YouTube](https://www.youtube.com/watch?v=d86ws7mQYIg)
+number of slots for GPU = ceiling(GPU width / 20.3)
 
 # Analog Computer
 
 > the real world is analog, and digital computers are just an approximation of it
 > analog devices are much more energy efficient (not requiring A-D conversion)
 
-[Analog computer - Wikiwand](https://omni.wikiwand.com/en/Analog_computer)
+[[antikythera-mechanism]]
+
+[Analog computer - Wikiwand](https://www.wikiwand.com/en/Analog_computer)
 [What is an Analog Computer? - Definition from Techopedia](https://www.techopedia.com/definition/5955/analog-computer)
 [What is Analog Computer: Definition, Examples, Types, Characteristics, Advantages](https://digitalthinkerhelp.com/what-is-analog-computer-definition-and-its-examples/)
 [Difference between Analog Computer and Digital Computer - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-analog-computer-and-digital-computer/)
@@ -73,7 +77,7 @@ Analytical Engine
 
 # Advancement
 
-[Moore's law - Wikiwand](https://omni.wikiwand.com/en/Moore%27s_law)
+[Moore's law - Wikiwand](https://www.wikiwand.com/en/Moore%27s_law)
 
 [Moore's Law is the reason your iPhone is so thin and cheap - CNET](https://www.cnet.com/tech/mobile/moores-law-is-the-reason-why-your-iphone-is-so-thin-and-cheap/)
 [Processor progress is alive and well, the maker of Apple's iPhone chips says - CNET](https://www.cnet.com/tech/mobile/processor-progress-is-alive-and-well-tsmc-builder-of-apple-iphone-chips-says/)
@@ -105,20 +109,20 @@ your kids play Candy Crush on this
 [PC Motherboard Evolution - YouTube](https://www.youtube.com/watch?v=sewt2pqc3us)
 [PC Motherboard Evolution - YouTube](https://www.youtube.com/watch?v=sewt2pqc3us)
 
-[ATX - Wikiwand](https://omni.wikiwand.com/en/ATX)
-[Mini ATX - Wikiwand](https://omni.wikiwand.com/en/Mini_ATX)
-[microATX - Wikiwand](https://omni.wikiwand.com/en/MicroATX)
-[Small form factor - Wikiwand](https://omni.wikiwand.com/en/Small_form_factor)
+[ATX - Wikiwand](https://www.wikiwand.com/en/ATX)
+[Mini ATX - Wikiwand](https://www.wikiwand.com/en/Mini_ATX)
+[microATX - Wikiwand](https://www.wikiwand.com/en/MicroATX)
+[Small form factor - Wikiwand](https://www.wikiwand.com/en/Small_form_factor)
 
-[BTX (form factor) - Wikiwand](<https://omni.wikiwand.com/en/BTX_(form_factor)>)
-[MicroBTX - Wikiwand](https://omni.wikiwand.com/en/MicroBTX)
+[BTX (form factor) - Wikiwand](<https://www.wikiwand.com/en/BTX_(form_factor)>)
+[MicroBTX - Wikiwand](https://www.wikiwand.com/en/MicroBTX)
 
-## ITX
+### ITX
 
-[Mini-ITX - Wikiwand](https://omni.wikiwand.com/en/Mini-ITX) 170x170mm
+[Mini-ITX - Wikiwand](https://www.wikiwand.com/en/Mini-ITX) 170x170mm
 [Taking a look at Thin Mini-ITX AM4 motherboards](https://rk.edu.pl/en/taking-look-thin-mini-itx-am4-motherboards/) Mini-ITX powered by external power brick
-[Nano-ITX - Wikiwand](https://omni.wikiwand.com/en/Nano-ITX)
-[Pico-ITX - Wikiwand](https://omni.wikiwand.com/en/Pico-ITX) 100x72mm
+[Nano-ITX - Wikiwand](https://www.wikiwand.com/en/Nano-ITX)
+[Pico-ITX - Wikiwand](https://www.wikiwand.com/en/Pico-ITX) 100x72mm
 Mobile ITX 60x60mm
 
 A4 机箱: GPU 背靠底板
@@ -138,6 +142,10 @@ A4 机箱: GPU 背靠底板
 
 [立式便携小钢炮——闪鳞 S200 现已上市 - 哔哩哔哩](https://www.bilibili.com/read/cv18858163)
 [饼の聊箱 篇九十四：立式 ITX 结构，更加 mini 的占地面积，闪鳞 S200 机箱装机分享*机箱*什么值得买](https://post.smzdm.com/p/a60q94ve/)
+
+### NUC
+
+[2024年9月高性价比迷你主机迷你电脑选购攻略，500~4000价位百元级低功耗入门千元级主流性能两千元级高性能，畅玩2K黑神话，助你直面天命！ - YouTube](https://www.youtube.com/watch?v=ChyrzZXO5xE)
 
 ---
 
@@ -184,8 +192,8 @@ A4 机箱: GPU 背靠底板
 ## Form Factor
 
 [A Basic Guide To Motherboard, Case and Power Supply Form Factors | Tom's Hardware](https://www.tomshardware.com/features/pc-form-factor-basics)
-[Computer form factor - Wikiwand](https://omni.wikiwand.com/en/Computer_form_factor)
-[Small form factor - Wikiwand](https://omni.wikiwand.com/en/Small_form_factor)
+[Computer form factor - Wikiwand](https://www.wikiwand.com/en/Computer_form_factor)
+[Small form factor - Wikiwand](https://www.wikiwand.com/en/Small_form_factor)
 
 ## Airflow/Fan
 
@@ -217,7 +225,7 @@ Maglev bearing:
 PSU efficiency vs load graph _used_ to be like a bell curve which peaked at ~50%, nowadays the graph is much flatter and above 80% across all loads (80 Plus cert)
 Since CPU and GPU both takes 12V, make sure the 12V rail (not the total) can support their load.
 
-[Power supply unit (computer) - Wikiwand](<https://omni.wikiwand.com/en/Power_supply_unit_(computer)>)
+[Power supply unit (computer) - Wikiwand](<https://www.wikiwand.com/en/Power_supply_unit_(computer)>)
 [PSUs 101: A Detailed Look Into Power Supplies | Tom's Hardware](https://www.tomshardware.com/reviews/power-supplies-101,4193.html)
 [Anatomy of a Power Supply Unit (PSU) - TechSpot](https://www-techspot-com.cdn.ampproject.org/v/s/www.techspot.com/amp/article/1967-anatomy-psu/)
 [How Power Supplies Work - Turbo Nerd Edition - YouTube](https://www.youtube.com/watch?v=i9ZnaA8DZDs)
@@ -409,7 +417,7 @@ Xiaomi
 ## Compute Express Link (CXL)
 
 [Homepage - Compute Express Link](https://computeexpresslink.org/)
-[Compute Express Link - Wikiwand](https://omni.wikiwand.com/en/Compute_Express_Link)
+[Compute Express Link - Wikiwand](https://www.wikiwand.com/en/Compute_Express_Link)
 
 [Compute Express Link (CXL): All you need to know - Rambus](https://www.rambus.com/blogs/compute-express-link/)
 [【技術文章】CXL 協定的功能與特性詳解](https://www.eagletek.com.tw/post/cxl-protocol-spec-function)
