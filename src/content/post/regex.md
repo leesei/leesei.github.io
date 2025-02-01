@@ -67,7 +67,7 @@ These highlight matches in input test string.
 [RegExp playground](http://leaverou.github.io/regexplained/) (JavaScript)
 [ReFiddle](http://refiddle.com/) (JavaScript, Ruby, .Net)
 [Regex Tester and Debugger Online - Javascript, PCRE, PHP](https://www.regextester.com/)
-[Python Regex Tool](http://www.pythonregex.com/)
+[Python Regex Tool](https://pythonium.net/regex)
 [Rubular: a Ruby regular expression editor and tester](http://rubular.com/)
 
 ## #perfmatters
