@@ -2,7 +2,7 @@
 title: Fonts
 description: ""
 created: 2016-04-23
-updated: 2025-01-09
+updated: 2025-07-06
 tags:
   - comp
   - comp/lang
@@ -69,7 +69,7 @@ baseline, descenders (`j`, `p`), line height, kerning
 [iT 自救術 ─ 怎麼選購英文字體產品 | iThome](http://www.ithome.com.tw/node/53450)
 
 [justfont blog](https://blog.justfont.com/)
-[justfont - YouTube](https://www.youtube.com/channel/UC1j5OXLtUj_Hq3zjsITs4Bw)
+[justfont - YouTube](https://www.youtube.com/@justfonttaiwan)
 [字體相談室 - YouTube](https://www.youtube.com/playlist?list=PLu-dyDh514xwcM-NNTPqqfojbfuWFMwia) justfont
 
 [Wrangling Typefaces with Jason Santa Maria | The Web Ahead](http://thewebahead.net/83)
@@ -252,12 +252,15 @@ Extensions:
 [filamentgroup/grunticon: A mystical CSS icon solution.](https://github.com/filamentgroup/grunticon)
 
 [React Icons](https://react-icons.github.io/react-icons/) ❗!important
-[Lucide | Lucide](https://lucide.dev/)❗!important, SVG, multiple frameworks, customize color
+[Lucide | Lucide](https://lucide.dev/) ❗!important, SVG, multiple frameworks, customize color
 
 [Iconify - all open source icons in one framework](https://iconify.design/)
 [Icon Sets • Iconify](https://icon-sets.iconify.design/) ❗!important, SVG, multiple frameworks, customization
 [Iconify Types](https://docs.iconify.design/types/)
 [iconify/iconify: Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG framework, React, Vue and Svelte components!](https://github.com/iconify/iconify)
+
+[Icônes](https://icones.js.org/)
+[antfu-collective/icones: ⚡️ Icon Explorer with Instant searching, powered by Iconify](https://github.com/antfu-collective/icones)
 
 [Font Awesome, the iconic font designed for Bootstrap](http://fontawesome.io/)
 [FortAwesome/react-fontawesome: Font Awesome 5 React component](https://github.com/FortAwesome/react-fontawesome)

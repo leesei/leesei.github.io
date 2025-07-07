@@ -2,7 +2,7 @@
 title: Cloud Providers
 description: ""
 created: 2015-06-17
-updated: 2025-01-09
+updated: 2025-03-24
 tags:
   - dev/deploy
   - web
@@ -278,8 +278,10 @@ deploy container, Node.js app, database
 
 ## Azure
 
-<http://azure.microsoft.com/en-us/pricing/details/websites/>
-<http://azure.microsoft.com/en-us/pricing/details/sql-database/>
+[Azure Pricing Overview | Microsoft Azure](https://azure.microsoft.com/en-us/pricing/#Pricing-by-product)
+[Explore Free Azure Services | Microsoft Azure](https://azure.microsoft.com/en-us/pricing/free-services/)
+
+[John Savill's Technical Training - YouTube](https://www.youtube.com/@NTFAQGuy)
 
 Basic Tier
 3 VM + 250GB SQL + Auto Scale = \$71
@@ -292,11 +294,36 @@ Supports dynamic scaling out of the box, higher tier support more advances scali
 
 [Overview of the Azure CLI | Microsoft Docs](https://docs.microsoft.com/en-us/cli/azure/)
 
+|                     |                                                                                                                                                  |                                                                                                                                                                                                       |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Feature**         | **Azure Savings Plan**                                                                                                                           | **Azure Reserved Instances**                                                                                                                                                                          |
+| **Commitment Term** | 1 or 3 years                                                                                                                                     | 1 or 3 years                                                                                                                                                                                          |
+| **Flexibility**     | Applies to various services and regions, providing more flexibility                                                                              | Applies to specific VM sizes and regions, less flexible                                                                                                                                               |
+| **Discount**        | Up to 65% savings on pay-as-you-go prices [1](https://azure.microsoft.com/en-us/pricing/offers/savings-plan-compute/)                            | Up to 72% savings on pay-as-you-go prices [2](https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/save-compute-costs-reservations)                                           |
+| **Payment Options** | Pay upfront or monthly                                                                                                                           | Pay upfront or monthly [2](https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/save-compute-costs-reservations)                                                              |
+| **Scope**           | Can be applied to multiple subscriptions and resource groups                                                                                     | Can be applied to specific subscriptions or shared across multiple subscriptions [3](https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/manage-reserved-vm-instance)        |
+| **Usage**           | Automatically applies to eligible resources                                                                                                      | Automatically applies to matching resources based on attributes like SKU and region [2](https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/save-compute-costs-reservations) |
+| **Management**      | Can change scope and auto-renewal settings [4](https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/manage-savings-plan) | Can change scope, split, merge, or exchange reservations [3](https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/manage-reserved-vm-instance)                                |
+| **Ideal For**       | Organizations with variable workloads and need for flexibility                                                                                   | Organizations with predictable workloads and specific resource requirements [5](https://azure.microsoft.com/en-us/pricing/reserved-vm-instances/)                                                     |
+
+[Microsoft Azure Reservations (Reserved Instances) Deep Dive - YouTube](https://www.youtube.com/watch?v=vpTDXenagcM)
+[Reserved Instance and Capacity Reservations - YouTube](https://www.youtube.com/watch?v=43wX15ypp9Y)
+[Understanding Azure Savings Plan for Compute - YouTube](https://www.youtube.com/watch?v=lBnKBV2r6lI)
+
+**References**
+
+\[1] _[Azure savings plan for compute](https://azure.microsoft.com/en-us/pricing/offers/savings-plan-compute/)_
+\[2] _[What are Azure Reservations? - Microsoft Cost Management](https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/save-compute-costs-reservations)_
+\[3] _[Manage Azure Reservations - Microsoft Cost Management](https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/manage-reserved-vm-instance)_
+\[4] _[Manage Azure savings plans - Microsoft Cost Management](https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/manage-savings-plan)_
+\[5] _[Azure Reserved Virtual Machine Instances](https://azure.microsoft.com/en-us/pricing/reserved-vm-instances/)_
+\[6] _[View Azure savings plan cost and usage details](https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/utilization-cost-reports)_
+
 ### Azure Functions
 
 [Azure Functions - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-functions/bg-p/AzureFunctionsBlog)
 [Azure Functions Serverless Compute | Microsoft Azure](https://azure.microsoft.com/en-us/services/functions/)
-[Azure Functions - YouTube](https://www.youtube.com/channel/UCtUYj6As_XFkOooUFnsJbYg/featured)
+[Microsoft Azure Developers - YouTube](https://www.youtube.com/@AzureDevelopers)
 Durable function
 Fan out pattern
 
@@ -306,8 +333,8 @@ Fan out pattern
 
 ## Google App Engine
 
-<https://cloud.google.com/appengine/pricing>
-<https://cloud.google.com/appengine/docs/quotas>
+[Pricing  |  App Engine  |  Google Cloud](https://cloud.google.com/appengine/pricing)
+[Quotas and limits  |  Google App Engine standard environment docs  |  Google Cloud](https://cloud.google.com/appengine/docs/standard/quotas)
 
 Supports Python, Java, PHP, Go in SDK
 Supports any language with Google Cloud VMs (IAAS)

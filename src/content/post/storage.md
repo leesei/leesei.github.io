@@ -2,7 +2,7 @@
 title: Storage
 description: ""
 created: 2015-05-11
-updated: 2025-01-09
+updated: 2025-06-24
 tags:
   - comp/hardware
   - harddisk
@@ -81,6 +81,8 @@ More precise writing techniques to increase density of magnetic track
 
 ## SSD
 
+[SSD Database | TechPowerUp](https://www.techpowerup.com/ssd-specs/)
+
 [Solid-state storage - Wikiwand](http://www.wikiwand.com/en/Solid-state_storage)
 [Solid-state revolution: in-depth on how SSDs really work | Ars Technica](http://arstechnica.com/information-technology/2012/06/inside-the-ssd-revolution-how-solid-state-disks-really-work/)
 [How Do SSDs Work? - ExtremeTech](https://www.extremetech.com/extreme/210492-extremetech-explains-how-do-ssds-work)
@@ -92,6 +94,8 @@ More precise writing techniques to increase density of magnetic track
 [Exploring Solid State Drives and 3D NAND - YouTube](https://www.youtube.com/playlist?list=PL6rx9p3tbsMuk0jnC-dBdwb32Z1g7mD0j)
 [Why SSDs Are Big And Cheap - YouTube](https://www.youtube.com/watch?v=ErV-2tlf9Ls) SLC to PLC
 [你的U盘，其实是个监狱｜flash存储原理：固态硬盘，U盘，SD卡 - YouTube](https://www.youtube.com/watch?v=8wGRYxuPVvU)
+
+[6 Simple Ways to Get More Performance From Your NVMe SSD](https://www.makeuseof.com/ways-optimize-nvme-ssd/)
 
 [SSD 硬件方案/TBW (SATA/SAS/M.2/U.2/U.3/EDSFF)、主控、3D NAND 汇总（持续更新） - 电脑讨论(新) - Chiphell - 分享与交流用户体验](https://www.chiphell.com/thread-2444506-1-1.html)
 
@@ -106,13 +110,11 @@ DRAM is more important than the protocol
 [美光的墮落！新旗艦 SSD M600 深入測試 - 壹讀](https://read01.com/gg6e7z.html) Crucial: `MX___`, Micro: `M___/C___`
 
 [SSDs - Latest Articles and Reviews on AnandTech](https://www.anandtech.com/tag/ssd)
-[Best SSDs: Q1 2019](https://www.anandtech.com/show/9799/best-ssds)
-[Best SSD 2019: Solid State Drives - Tech Advisor](https://www.techadvisor.co.uk/test-centre/storage/best-ssd-3235200/)
-[How to Buy the Right SSD: A Guide for 2019](https://www.tomshardware.com/reviews/ssd-buying-guide,5602.html)
-[Best SSDs 2019: SATA, PCIe, and Add-in Cards](https://www.tomshardware.com/reviews/best-ssds,3891.html)
-[Sean's SSD Buyers Guide & Information Thread](http://www.overclock.net/t/1179518/seans-ssd-buyers-guide-information-thread)
-[Best SSDs for 2019 - CNET](https://www.cnet.com/topics/storage/best-hard-drives-and-storage/ssd/)
-[Best SSD for gaming 2020: Faster storage for your gaming PC | PC Gamer](https://www.pcgamer.com/best-ssd-for-gaming/)
+[Best SSDs: May 2021 - Print View](https://www.anandtech.com/print/9799/best-ssds)
+[Best SSDs 2024: Top NVMe Drives - Tech Advisor](https://www.techadvisor.com/article/723356/best-ssd.html)
+[How to Buy the Right SSD: A Guide for 2024 | Tom's Hardware](https://www.tomshardware.com/reviews/ssd-buying-guide,5602.html)
+[Best SSDs 2025: From blazing-fast M.2 NVMe down to budget SATA | Tom's Hardware](https://www.tomshardware.com/reviews/best-ssds,3891.html)
+[Best SSD for gaming in 2025: the speediest SSDs I personally recommend | PC Gamer](https://www.pcgamer.com/best-ssd-for-gaming/)
 
 [Enterprise versus Client SSD](http://www.kingston.com/en/ssd/enterprise/best_practices/enterprise_versus_client_ssd)
 [Solid state / SSD news, tips and information – SearchSolidStateStorage.com](http://searchsolidstatestorage.techtarget.com/)
@@ -129,6 +131,7 @@ DRAM is more important than the protocol
 ### NAND Cell
 
 [【硬件科普】固态硬盘的缓存是干什么的？有缓存和无缓存有什么区别？ - YouTube](https://www.youtube.com/watch?v=7ZJ4UFxaAZw)
+[1TB 以上的硬碟是怎麼來的？ NAND Flash 進化史 1967 - 2025 - YouTube](https://www.youtube.com/watch?v=Uw_3KKCWRFE)
 [How SSD Technology Keeps Getting WORSE! - Intel 660p Review - YouTube](https://www.youtube.com/watch?v=OffzVc7ZB-o) first QLC drive
 [Explaining SSDs: The Price/Performance Trade-off - YouTube](https://www.youtube.com/watch?v=F8k_XIEhKWo)
 
@@ -438,7 +441,9 @@ iozone -a -I -b out.csv
 ```sh
 # read speed benchmark
 sudo dd if=/dev/sdX1 of=/dev/zero bs=1M count=400 iflag=direct
-echo 3 | sudo tee /proc/sys/vm/drop_caches  # clear cache first
+# clear cache first
+sudo /sbin/sysctl -w vm.drop_caches=3
+echo 3 | sudo tee /proc/sys/vm/drop_caches
 sudo dd if=/dev/zero of=/dev/sdX1 bs=1M count=400 skip=1000 conv=fdatasync
 ```
 
@@ -448,6 +453,7 @@ sudo dd if=/dev/zero of=/dev/sdX1 bs=1M count=400 skip=1000 conv=fdatasync
 
 GNOME Disk (`gnome-disks`) has built-in benchmarking feature.
 
+[4 Ways to Test SSD Speed & Performance](https://www.makeuseof.com/ways-test-ssd-speed-performance/)
 [6 Tools to Test Read and Write Speed of USB Flash Drives • Raymond.CC - Page 2](https://www.raymond.cc/blog/test-read-and-write-speed-of-usb-flash-drives-with-usbdeview/2/)
 [How to test the speed of your USB drives | PCWorld](https://www.pcworld.com/article/2455205/test-the-speed-of-your-usb-drives.html)
 [Performance Tuning Dojo » ADMIN Magazine](http://www.admin-magazine.com/Articles/Assess-USB-performance-while-exploring-storage-caching)
@@ -455,7 +461,7 @@ GNOME Disk (`gnome-disks`) has built-in benchmarking feature.
 [Iometer project](http://www.iometer.org/)
 
 [HD Tune website](http://www.hdtune.com/download.html)
-[CrystalDiskMark – Crystal Dew World](https://crystalmark.info/en/software/crystaldiskmark/) tests file system only
+[CrystalDiskMark - Crystal Dew World [en]](https://crystalmark.info/en/software/crystaldiskmark/) tests file system only
 [Disk Benchmark Software | ATTO](https://www.atto.com/disk-benchmark/)
 [AS SSD Benchmark Download](https://www.guru3d.com/files-details/as-ssd-benchmark.html)
 

@@ -2,7 +2,7 @@
 title: Robotics
 description: ""
 created: 2015-10-19
-updated: 2025-01-09
+updated: 2025-05-18
 tags:
   - maker
 ---
@@ -167,6 +167,9 @@ tags:
 [How-To: Motors: 10 Steps (with Pictures)](https://www.instructables.com/How-To-Motors/)
 [Toy Motors: 3 Steps](https://www.instructables.com/Toy-Motors/)
 [三種馬達介紹(再版) - YouTube](https://www.youtube.com/watch?v=NCcYGrakkoU)
+[液压vs电驱——20分钟讲透人形机器人核心动力系统革命 - YouTube](https://www.youtube.com/watch?v=07H8_ytRjdk)
+
+[Genius Contactless Motor Could Change Transport Forever - YouTube](https://www.youtube.com/watch?v=oBaJuAFOn8w)
 
 Life of Wayne
 [地表最強電機的秘密！解密特斯拉最新電機技術!超乎你的想象！永磁電機不如感應電機？What's inside the tesla motor？ - YouTube](https://www.youtube.com/watch?v=cUIJHyIQgnQ)
@@ -408,6 +411,8 @@ Derivative: counteract the overshoot (slowing down the response)
 [Understanding PID Control - YouTube](https://www.youtube.com/playlist?list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y)
 [PID Tutorials for Line Following | RobotShop Community](https://www.robotshop.com/community/blog/show/pid-tutorials-for-line-following)
 
+[学会PID 基于板球平衡系统 初中基础就能听懂的简单讲 - YouTube](https://www.youtube.com/watch?v=P12UqD-j_jM) ❗!important, principles, tuning
+
 [Arduino Playground - PIDLibrary](https://playground.arduino.cc/Code/PIDLibrary/)
 [Arduino Playground - PIDAutotuneLibrary](https://playground.arduino.cc/Code/PIDAutotuneLibrary/)
 [PID « Project Blog](http://brettbeauregard.com/blog/category/pid/)
@@ -461,5 +466,7 @@ AB BA
 BA AB
 
 [【萝卜君 025】全方位移动神器 麦克纳姆轮 - YouTube](https://www.youtube.com/watch?v=sZlCp41VRao)
+[天才发明“麦克纳姆轮”！为什么不转向，就能横移斜移原地自转？ - YouTube](https://www.youtube.com/watch?v=B9_v9KePWeo)
 
+[The Mecanum Wheel Is So Weird, It Is Genius. How It Works - YouTube](https://www.youtube.com/watch?v=AlsCUzCCc-k)
 [This Robot Design is AMAZING! But is it worth the STRUGGLE? (Omniwheel) - YouTube](https://www.youtube.com/watch?v=ktcuBLA3Www)

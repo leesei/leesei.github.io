@@ -2,7 +2,7 @@
 title: History Europe
 description: ""
 created: 2016-09-12
-updated: 2025-01-09
+updated: 2025-05-19
 tags:
   - history
   - history/roman
@@ -22,6 +22,7 @@ tags:
 [Ancient Rome, classical world - YouTube](https://www.youtube.com/playlist?list=PLObJ0KGDh5_NK3QFHjjAFF7ZQeOXAFSCp) Epimetheus
 [羅馬是怎麼建立的 古羅馬起源 古羅馬共和國 羅馬歷史 羅馬是誰建立的 羅馬帝國 屋大維 凱撒 安東尼 羅馬皇帝 羅馬簡史 古羅馬簡史 早期羅馬 動畫科普 趣味歷史 歐洲歷史 歐洲史 歐洲簡史 - YouTube](https://www.youtube.com/watch?v=eOHfOlgJqdA)
 [同是大一统王朝，为什么中国走向一统，但罗马帝国却四分五裂？20分钟讲透罗马帝国政治史 - YouTube](https://www.youtube.com/watch?v=hqJ9ErAje34)
+[【極簡羅馬史】羅馬幾時建成？由兩個棄嬰點樣變成龐大帝國？22分鐘帶你睇哂由羅馬起源，到西羅馬帝國滅亡嘅故事 - YouTube](https://www.youtube.com/watch?v=O9rfYkigHH4)
 
 [作者: Zannanza | 聚言時報 Polymer](http://polymerhk.com/articles/author/zannanza/)
 

@@ -2,15 +2,17 @@
 title: Health
 description: ""
 created: 2015-12-11
-updated: 2025-01-09
+updated: 2025-05-09
 tags:
   - science
 ---
 
 [air purifier benefits | AccuWeather](https://www.accuweather.com/en/health-wellness/air-purifier-benefits/646281)
 
-[WHY WHITE 為什麼醫學 - YouTube](https://www.youtube.com/channel/UCbZhCylAwwLqDVKLifuYAcA)
-[Medicine & Biology - YouTube](https://www.youtube.com/playlist?list=PLFs4vir_WsTyY31efyHdmtp9l7DpR0Wvi)
+[WHY WHITE 為什麼醫學 - YouTube](https://www.youtube.com/@WHYWHITE)
+[Medicine & Biology - YouTube](https://www.youtube.com/playlist?list=PLFs4vir_WsTyY31efyHdmtp9l7DpR0Wvi) Kurzgesagt – In a Nutshell
+
+[仿制药真的比原研药差吗？为何同样的药价格差距这么大？【差评君】 - YouTube](https://www.youtube.com/watch?v=Maz1RSj_kFg)
 
 [The Insane Engineering of MRI Machines - YouTube](https://www.youtube.com/watch?v=NlYXqRG7lus)
 
@@ -32,6 +34,8 @@ Crash Course
 [Immune System, Part 1: Crash Course A&P #45 - YouTube](https://www.youtube.com/watch?v=GIJK3dwCWCw)
 [Immune System, Part 2: Crash Course A&P #46 - YouTube](https://www.youtube.com/watch?v=2DFN4IBZ3rI)
 [Immune System, Part 3: Crash Course A&P #47 - YouTube](https://www.youtube.com/watch?v=rd2cf5hValM)
+
+[萬字解讀炎症的真相，流感死亡，衰老記憶的真正原因，為甚麽左右生命最重要的機制，來自一個外來戶？ - YouTube](https://www.youtube.com/watch?v=Z2HIrndr_ck)
 
 [120 万一针的抗癌神药为啥这么贵？免疫疗法 CAR-T 能治好所有癌症吗？ - YouTube](https://www.youtube.com/watch?v=Y2nFl0OY2bs) 免疫系統
 
@@ -109,6 +113,7 @@ Retroviruses replicate in a backwards manner, It will insert itself into DNA/RNA
 
 [鼠疫是如何传染的？黑死病从未远离人类！ - YouTube](https://www.youtube.com/watch?v=4-FJP1oEopM) Genus Yesrina (buonic plague)
 [【鬼谷闲谈】火带来的超级病菌？ - YouTube](https://www.youtube.com/watch?v=u0VaxiszcD0) Mycobacterium tuberculosis 肺結核菌, infects Macrophage 巨噬細胞
+[沃尔巴克氏体：恶魔的契约【芳斯塔芙】 - YouTube](https://www.youtube.com/watch?v=xMGOahvOJLo) a virus-like bacteria
 [死神的病菌：《國際衛生條例》因它而生，號稱死神的鐮刀，但突然被人類發現軟肋，所以，面對病菌，我們該如何壓制它們的軟肋？|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=difNkA5Z0ks) Cholera 霍亂
 
 [為什麼全世界的檸檬都讀 Lemon？這背後有一個刻在 8 號染色體上的上古故事……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=y0PfdJ2XoAg) 維他命 C
@@ -126,9 +131,15 @@ Prion 朊病毒
 ## Plagues
 
 [Americapox: The Missing Plague - YouTube](https://www.youtube.com/watch?v=JEYh5WACqEk)
+
+0. No plagues
+1. No big cities
+2. No close animals
+3. No domestication
+
+[沒有疫苗下 ▶ 歷史上幾次疾病大流行 都是怎麼結束的 - YouTube](https://www.youtube.com/watch?v=sxUksYTqSSc)
 [新冠疫情：影響人類歷史進程的五次疫疾大流行 - BBC News 中文](https://www.bbc.com/zhongwen/trad/world-51959677)
 [疫苗：大規模接種如何擊敗幾大致命傳染病 - BBC 英伦网](https://www.bbc.com/ukchina/trad/55287619)
-[沒有疫苗下 ▶ 歷史上幾次疾病大流行 都是怎麼結束的 - YouTube](https://www.youtube.com/watch?v=sxUksYTqSSc)
 
 ### Spanish Influenza
 
@@ -178,9 +189,11 @@ Traditional vaccine will have left over egg protein or methanol which may cause 
 [Your Body Killed Cancer 5 Minutes Ago - YouTube](https://www.youtube.com/watch?v=zFhYJRqz_xk)
 [Everything We've Learned About Cancer | Compilation - YouTube](https://www.youtube.com/watch?v=GkxrJSTLH_s)
 
-[1000萬可以救血癌，你相信嗎？CAR-T 細胞療法用自己的T細胞來抵抗癌症！ - YouTube](https://www.youtube.com/watch?v=xKwC0Za-_L8) CAR-T for liquid tumor (非實體腫瘤) originally for heterogeneous cells and low oxygen environment in solid tumor (實體腫瘤)
-[癌細胞最怕的免疫療法有了新突破，對抗實體腫瘤癌症通過臨床一期！另外新CAR-T技術真的能成功抗癌嗎？ - YouTube](https://www.youtube.com/watch?v=e_MEfPp6Ep4) TCR-T, use CRISPR modified T cell which contains TCR that targets protein fragments on cancer cells in solid tumor
+[1000萬可以救血癌，你相信嗎？CAR-T 細胞療法用自己的T細胞來抵抗癌症！ - YouTube](https://www.youtube.com/watch?v=xKwC0Za-_L8)
+[癌細胞最怕的免疫療法有了新突破，對抗實體腫瘤癌症通過臨床一期！另外新CAR-T技術真的能成功抗癌嗎？ - YouTube](https://www.youtube.com/watch?v=e_MEfPp6Ep4)
+[一針讓身體自產抗癌藥！？抗癌神器再進化，而且更便宜？ - YouTube](https://www.youtube.com/watch?v=LwnpqveuorQ) CAR-T 2.0, CAR Enhancer
 [抗癌免疫新藥花費300萬，真的能讓「免疫系統重開機」攻破癌細胞嗎？ ft.癌症問康健 - YouTube](https://www.youtube.com/watch?v=aNIjAt6AQDc) immune checkpoint inhibitor, inhibits the immune checkpoint on cancer cells
+[連國外病人都要來台灣就醫！？全球只有兩個國家擁有的癌症治療技術，到底強在哪？ - YouTube](https://www.youtube.com/watch?v=jB5uvBtitGs) 放射治療, 質子, 重力子, 硼中子
 [癌症有疫苗了!? 莫德納、BNT等大廠重大突破，mRNA疫苗真的能攻克癌症？ ft.癌症問康健 - YouTube](https://www.youtube.com/watch?v=A-QvDbb1C9c)
 [以毒攻毒！抗癌的未來寄託在「細菌」上？細菌為什麼能消滅癌細胞？ feat.【研之有物】 - YouTube](https://www.youtube.com/watch?v=ZE6ClkPlXrI)
 [對腫瘤最終兵器！癌症療法新選擇，基改溶瘤病毒為何備受期待？ - YouTube](https://www.youtube.com/watch?v=gQZQ_kBVuTw) oncolytic virotherapy

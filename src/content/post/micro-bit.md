@@ -2,7 +2,7 @@
 title: Micro:bit
 description: ""
 created: 2018-09-12
-updated: 2025-01-10
+updated: 2025-01-27
 tags:
   - iot
   - maker
@@ -35,18 +35,17 @@ v1.5, 43x52mm, with builtin:
 [Overview | micro:bit](https://microbit.org/get-started/features/overview/)
 [How to identify the version number of your micro:bit : Help & Support](https://support.microbit.org/support/solutions/articles/19000119162-how-to-identify-the-version-number-of-your-micro-bit)
 
-[micro:bit Power Consumption | REUK.co.uk](http://www.reuk.co.uk/wordpress/microbit-power-consumption/)
-
 [Getting Started with micro:bit - YouTube](https://www.youtube.com/playlist?list=PLBcrWxTa5CS0mWJrytvii8aG5KUqMXvSk) by SparkFun
 [micro:bit Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PL3bNyZYHcRSUl7Z5ruCPurJIx4fCtZ35D)
-[智能学习-micro:bit 开发板](http://www.yahboom.com/study/micro-board)
-[micro:bit周边配件-亚博智能旗舰店-天猫Tmall.com](https://yabozhineng.world.tmall.com/category-1496418387.htm)
 
 [Bitty Software](http://www.bittysoftware.com/index.html)
 [IchigonQuest for micro:bit - YouTube](https://www.youtube.com/watch?v=Zw0ON6jjoLA)
 
-[micro:bit Power Consumption | REUK.co.uk](http://www.reuk.co.uk/wordpress/microbit-power-consumption/)
+[micro:bit开发板](https://www.yahboom.com/study/micro-board)
+[BBC Microbit](http://www.yahboom.net/study/micro-board)
 
+[micro:bit Power Consumption | REUK.co.uk](http://www.reuk.co.uk/wordpress/microbit-power-consumption/)
+[micro:bit 教學 | STEAM 教育學習網](https://steam.oxxostudio.tw/category/microbit/index.html)
 [microbit & accessories from Kitronik](https://www.kitronik.co.uk/microbit.html)
 [Micro:bit 技術發展歷程觀察 – circuitcellar](https://www.circuitcellar.com.tw/?p=3882)
 [Micro:bit Zone | Robots Got Talents](https://www.robotsgottalents.com/microbit-zone)
@@ -243,9 +242,11 @@ Another JavaScript runtime, no block programming support
 ### Scratch
 
 [Scratch - micro:bit](https://scratch.mit.edu/microbit)
-[首页 - Mind+ 重装归来 - Mind+官网](http://mindplus.cc/)
+[Scratch cards | micro:bit](https://microbit.org/get-started/user-guide/scratch/)
+[How To Connect Microbit To Scratch For Interactive Games - Liam's Coding Journey](https://liamscodingjourney.com/how-to-connect-microbit-to-scratch/)
 
-[Scratch cards for micro:bit | micro:bit](https://microbit.org/scratch/)
+[Home - Mind+ - Get ready to take the leap from zero to a coding expert](https://mindplus.cc/en.html) offline editor
+
 [EduMakerLab STEAM 實驗室: 小玩 Scratch 3.0 之 micro:bit 篇](https://edumakerlab.blogspot.com/2018/08/scratch-30-microbit.html)
 [Micro:bit Scratch 課程系列介紹 :: Microbit & STEAM Shop](http://www.astar-tek.com.tw/micro%3abit-scratch-課程系列介紹/)
 
@@ -321,12 +322,16 @@ Used by upper layers, you can also use it directly.
 ## Updating Firmware
 
 [Firmware | micro:bit](https://microbit.org/guide/firmware/)
+[Upgrading the micro:bit firmware : Help & Support](https://support.microbit.org/support/solutions/articles/19000019131-how-to-upgrade-the-firmware-on-the-micro-bit)
 [Troubleshooting downloads with WebUSB - Microsoft MakeCode](https://makecode.microbit.org/device/usb/webusb/troubleshoot)
 [DAPLink on micro:bit (KL26Z) | Mbed](https://www.mbed.com/en/platform/hardware/prototyping-production/daplink/daplink-on-kl26z/#Updating_your_DAPLink_firmware)
 
-## Android test apps
+## Bluetooth Pairing
 
 [How to pair your BBC micro:bit with an Android phone or tablet - YouTube](https://www.youtube.com/watch?v=7hLBfdAGkZI)
+
+[Bluetooth Pairing](https://makecode.microbit.org/reference/bluetooth/bluetooth-pairing)
+[Bluetooth Download feature · Issue #4807 · microsoft/pxt](https://github.com/Microsoft/pxt/issues/4807)
 
 [micro:bit Blue - Apps on Google Play](https://play.google.com/store/apps/details?id=com.bluetooth.mwoolley.microbitbledemo&rdid=com.bluetooth.mwoolley.microbitbledemo)
 [microbit-foundation/microbit-blue](https://github.com/microbit-foundation/microbit-blue)

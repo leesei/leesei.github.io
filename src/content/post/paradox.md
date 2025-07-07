@@ -2,7 +2,7 @@
 title: Paradox
 description: ""
 created: 2015-06-18
-updated: 2025-01-09
+updated: 2025-07-01
 tags:
   - paradox
   - philosophy
@@ -13,6 +13,7 @@ tags:
 
 [the five kinds of paradox - YouTube](https://www.youtube.com/watch?v=ppX7Qjbe6BM)
 [Paradoxes - YouTube](https://www.youtube.com/playlist?list=PL1lNrW4e0G8XVWIQoOlp_cM8PxDSqKgis) Up and Atom
+[The Most Mind-Bending Paradoxes in Math and Physics - YouTube](https://www.youtube.com/watch?v=yrJA0J7jciY)
 
 [一个反直觉的硬币游戏，伯特兰箱子悖论 - YouTube](https://www.youtube.com/watch?v=kq_Ey8l_1yc) Goat's paradox
 
@@ -92,8 +93,18 @@ Related: probabilistic comparison may not be transitive
 ## Bertrand paradox
 
 [Bertrand paradox (probability) - Wikiwand](<https://www.wikiwand.com/en/Bertrand_paradox_(probability)>)
+
 [神奇的伯特兰悖论：一道概率题竟然有三个不同的答案！ - YouTube](https://www.youtube.com/watch?v=62tL_BEY1no)
+[【漫士】数学不存在了！同一个事件居然有三个概率？ - YouTube](https://www.youtube.com/watch?v=fuwkxji1C8Q)
 [概率也会骗人？数学中经典的伯特兰悖论 - YouTube](https://www.youtube.com/watch?v=Q2bWVV5GwhU)
+
+妈咪说 MommyTalk
+[概率也能骗人？什么是伯特兰悖论？用数学告诉你为什么说话要严谨 - YouTube](https://www.youtube.com/watch?v=h2grRS_VYfA)
+[一个反直觉的硬币游戏，伯特兰箱子悖论 - YouTube](https://www.youtube.com/watch?v=kq_Ey8l_1yc)
+
+## Braess's Paradox
+
+[This mechanism shrinks when pulled - YouTube](https://www.youtube.com/watch?v=-QTkPfq7w1A) removing a shortcut ia better for everyone
 
 ## False Positive Paradox
 

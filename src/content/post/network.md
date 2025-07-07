@@ -2,7 +2,7 @@
 title: Network
 description: ""
 created: 2016-04-24
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - anycast
   - comp/network
@@ -20,6 +20,7 @@ tags:
 [科普文：详解音视频直播中的低延时](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247488746&idx=1&sn=f4e7471c1886347d663f81f97399cd3e&chksm=f951a1a9ce2628bf7d6b48d6a9ca2647cd3d7eb45a335f997ecbfb962c5832b368918fa13d0c&scene=27#wechat_redirect)
 
 [Ethernet (50th Birthday) - Computerphile - YouTube](https://www.youtube.com/watch?v=TkOVgkcrvbg)
+[Networking: RJ45, DAC, or Fiber – Which Is Best in Your Rack? - YouTube](https://www.youtube.com/watch?v=dmHdhSzfwHQ)
 
 [Ten Windows 10 network commands everyone one should know - TechRepublic](https://www.techrepublic.com/article/ten-windows-10-network-commands-everyone-one-should-know/)
 
@@ -102,7 +103,7 @@ IPv4 address are written in [dot-decimal notation](https://www.wikiwand.com/en/D
 [IPv6 from scratch - the very basics of IPv6 - YouTube](https://www.youtube.com/watch?v=oItwDXraK1M)
 [cheat-sheets/ipv6.md at main · onemarcfifty/cheat-sheets](https://github.com/onemarcfifty/cheat-sheets/blob/main/networking/ipv6.md)
 
-[RFC 1918 - Address Allocation for Private Internets](https://tools.ietf.org/html/rfc1918)
+[RFC 1918 - Address Allocation for Private Internets](https://datatracker.ietf.org/doc/html/rfc1918)
 [Reserved IP addresses - Wikiwand](https://www.wikiwand.com/en/Reserved_IP_addresses)
 Private IP: not used for routing in internet, use behind NAT
 Loopback IP: managed by OS, virtual network interface
@@ -113,9 +114,9 @@ Link-local: in absence of DHCP or static address, not routing
 [CIDR Utility Tool | IP Address Guide](http://www.ipaddressguide.com/cidr)
 [mhausenblas/cidrchk: CLI tool for CIDR range operations (check, generate)](https://github.com/mhausenblas/cidrchk)
 [IP Calculator / IP Subnetting](http://jodies.de/ipcalc)
-[ipcalc · PyPI](https://pypi.org/project/ipcalc/)
+[kjokjo/ipcalc](https://github.com/kjokjo/ipcalc)
 
-[RFC 4632 - Classless Inter-domain Routing (CIDR): The Internet Address Assignment and Aggregation Plan](https://tools.ietf.org/html/rfc4632)
+[RFC 4632 - Classless Inter-domain Routing (CIDR): The Internet Address Assignment and Aggregation Plan](https://datatracker.ietf.org/doc/html/rfc4632)
 [Classless Inter-Domain Routing - Wikiwand](https://www.wikiwand.com/en/Classless_Inter-Domain_Routing)
 [What is CIDR Notation?](http://whatismyipaddress.com/cidr)
 [What is CIDR (Classless Inter-Domain Routing or supernetting)? - Definition from WhatIs.com](http://searchnetworking.techtarget.com/definition/CIDR)
@@ -219,15 +220,16 @@ Disconnected but still holding socket
 [TCP 的那些事儿（下） | | 酷 壳 - CoolShell](https://coolshell.cn/articles/11609.html)
 
 [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/) BSD sockets API
+[99% of Developers Don't Get Sockets - YouTube](https://www.youtube.com/watch?v=D26sUZ6DHNQ)
 
 ## Reliable UDP
 
-[draft-ietf-sigtran-reliable-udp-00 - RELIABLE UDP PROTOCOL](https://tools.ietf.org/html/draft-ietf-sigtran-reliable-udp-00)
+[draft-ietf-sigtran-reliable-udp-00 - RELIABLE UDP PROTOCOL](https://datatracker.ietf.org/doc/html/draft-ietf-sigtran-reliable-udp-00)
 
 [怎么让不可靠的 UDP 可靠？](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247487188&idx=1&sn=2e1280a6a672d66b4f87c036a6c44ca6&chksm=96c9b8b4a1be31a2aca62731912f594f380bf3b4326797a2a013c54e7789095bf5721b5f55f1#rd)
 [Reliable UDP (RUDP): The Next Big Streaming Protocol? - Streaming Media Magazine](<http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/Reliable-UDP-(RUDP)-The-Next-Big-Streaming-Protocol-85316.aspx>)
 
-### Wireshark
+## Wireshark
 
 Wireshark can open many dump formats (e.g. `.cap`/`.pcap` from `tcpdump`)
 
@@ -241,6 +243,8 @@ Chris Greer
 [Wireshark Masterclass - YouTube](https://www.youtube.com/playlist?list=PLW8bTPfXNGdC5Co0VnBK1yVzAwSSphzpJ)
 
 [gcla/termshark: A terminal UI for tshark, inspired by Wireshark](https://github.com/gcla/termshark)
+
+[IETF-OPSAWG-WG/draft-ietf-opsawg-pcap: PCAP next generation file format specification](https://github.com/IETF-OPSAWG-WG/draft-ietf-opsawg-pcap) `.pcapng`
 
 ## Anycast
 
@@ -296,8 +300,8 @@ Fabrics: A local-area RDMA network is usually referred to as a fabric.
 [schollz/croc: Easily and securely send things from one computer to another](https://github.com/schollz/croc)
 [howeyc/crocgui: GUI for croc](https://github.com/howeyc/crocgui)
 
-[RFC 8489: Session Traversal Utilities for NAT (STUN)](https://www.rfc-editor.org/rfc/rfc8489)
-[RFC 8445: Interactive Connectivity Establishment (ICE): A Protocol for Network Address Translator (NAT) Traversal](https://www.rfc-editor.org/rfc/rfc8445)
+[RFC 8489: Session Traversal Utilities for NAT (STUN)](https://datatracker.ietf.org/doc/html/rfc8489)
+[RFC 8445: Interactive Connectivity Establishment (ICE): A Protocol for Network Address Translator (NAT) Traversal](https://datatracker.ietf.org/doc/html/rfc8445)
 [RFC 8863 - Interactive Connectivity Establishment Patiently Awaiting Connectivity (ICE PAC)](https://datatracker.ietf.org/doc/html/rfc8863)
 
 ### inlets
@@ -447,6 +451,7 @@ ufw delete allow PORT
 [翻墙全解析 硬核翻墙系列视频 系统学习翻墙技术原理 一切关于翻墙你需要知道的 - YouTube](https://www.youtube.com/playlist?list=PLqybz7NWybwUgR-S6m78tfd-lV4sBvGFG)❗!important
 
 [中国防火墙究竟是怎么运作的？为什么我说防火墙才是最辱华的东西？中共是如何通过言论管控来削弱地方政府力量的？史上对中国防火墙最透彻的一次探讨 | 互联网防火墙 | 翻墙 | 愚民政策 | 言论自由 - YouTube](https://www.youtube.com/watch?v=i8Iiv9yFTdM)
+[【我翻牆不違法】一句話，揭開中國翻牆背後沒人敢講的真相！| 張內咸脫口秀 - YouTube](https://www.youtube.com/watch?v=KqvPzPwQem0) 2025翻牆不違法
 
 #### Soft Router
 

@@ -2,7 +2,7 @@
 title: Web Security
 description: ""
 created: 2015-05-18
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - security
   - ssl
@@ -59,7 +59,7 @@ tags:
 [1 Hour of Popular Web Attacks (XSS, CSRF, SSRF, SQL Injection, MIME Sniffing, Smuggling and more!) - YouTube](https://www.youtube.com/watch?v=pdC3H8SX-F4)
 
 [Vickie Li's Security Blog](https://vickieli.dev/)
-[Vickie Li Dev - YouTube](https://www.youtube.com/channel/UCjQHiY2JeOkBamHSg_6UeFw)
+[Vickie Li Dev - YouTube](https://www.youtube.com/@VickieLiDev)
 [Attacking Web Applications - YouTube](https://www.youtube.com/playlist?list=PLk6GyAyNDZmBQd1AWy91paDEtmkMMjT46)
 [Defending Web Applications - YouTube](https://www.youtube.com/playlist?list=PLk6GyAyNDZmBapoYXxoSG1fwzg9VaY2KS)
 

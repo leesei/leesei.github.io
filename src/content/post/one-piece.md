@@ -2,7 +2,7 @@
 title: One Piece
 description: ""
 created: 2016-06-18
-updated: 2025-01-09
+updated: 2025-03-19
 tags:
   - anime
   - manga
@@ -88,6 +88,9 @@ tags:
 
 [伟大航路（《海贼王》中的地理名称）\_百度百科](http://baike.baidu.com/subview/1771170/6160842.htm)
 [The One Piece World Explained: Grand Line, Red Line & More! - YouTube](https://www.youtube.com/watch?v=GSHioZ9IPOY)
+
+[网上绝大多数的海贼王世界地图都画错了？深度解析海贼王世界地图的设定以及各个岛屿的确切地理位置！ - YouTube](https://www.youtube.com/watch?v=a_QCgH65t_I)
+[在海贼世界里进出伟大航路到底有多难？深度解析海贼王世界地理以及其他细节！ - YouTube](https://www.youtube.com/watch?v=mpg3sXYU-hI)
 
 ### 地點
 
@@ -186,7 +189,7 @@ Punk Hazard
 ### 霸气
 
 [霸气（《海贼王》角色技能）\_百度百科](http://baike.baidu.com/subview/401217/5806440.htm)
-[Haki | One Piece Wiki | FANDOM powered by Wikia](http://onepiece.fandom.com/wiki/Haki)
+[Haki | One Piece Wiki | Fandom](http://onepiece.fandom.com/wiki/Haki)
 [见闻色霸气\_百度百科](http://baike.baidu.com/view/5312835.htm)
 [武装色霸气\_百度百科](http://baike.baidu.com/view/6888106.htm)
 [霸王色霸气\_百度百科](http://baike.baidu.com/view/4460327.htm)
@@ -202,7 +205,7 @@ Punk Hazard
 [800 年前的真實幻獸，太陽神覺醒三系全開！惡魔果實起源終極猜想！ - YouTube](https://www.youtube.com/watch?v=5xY2DXWrd_s)
 
 [恶魔果实\_百度百科](https://baike.baidu.com/item/恶魔果实)
-[Devil Fruit | One Piece Wiki | FANDOM powered by Wikia](http://onepiece.fandom.com/wiki/Devil_Fruit)
+[Devil Fruit | One Piece Wiki | Fandom](http://onepiece.fandom.com/wiki/Devil_Fruit)
 [How Awakening Spoiled The Secret Behind Devil Fruits - YouTube](https://www.youtube.com/watch?v=2qMBMslEAxw)
 [恶魔果实自然系\_百度百科](https://baike.baidu.com/item/恶魔果实自然系) [Logia（ロギア）](http://onepiece.fandom.com/wiki/Logia)
 [恶魔果实超人系\_百度百科](https://baike.baidu.com/item/恶魔果实超人系) [Paramecia（パラミシア）](http://onepiece.fandom.com/wiki/Paramecia)

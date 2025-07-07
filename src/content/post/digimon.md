@@ -2,7 +2,7 @@
 title: Digimon
 description: ""
 created: 2016-03-19
-updated: 2025-01-09
+updated: 2025-02-16
 tags:
   - anime
   - digimon
@@ -40,12 +40,12 @@ I only follow Digimon Adventure, Digimon Adventure 02, Digimon Data Squad (05), 
 [Digimon Adventure tri. | DigimonWiki | Fandom](https://digimon.fandom.com/wiki/Digimon_Adventure_tri.)
 [Digimon Adventure: | DigimonWiki | Fandom](https://digimon.fandom.com/wiki/Digimon_Adventure:)
 
-[List of characters in Digimon Adventure | DigimonWiki | FANDOM powered by Wikia](https://digimon.fandom.com/wiki/List_of_characters_in_Digimon_Adventure)
+[List of characters in Digimon Adventure | DigimonWiki | Fandom](https://digimon.fandom.com/wiki/List_of_characters_in_Digimon_Adventure)
 [数码宝贝大冒险角色列表 - Wikiwand](http://www.wikiwand.com/zh/数码宝贝大冒险角色列表)
 
 ## Digivolution
 
-[Digivolution | DigimonWiki | FANDOM powered by Wikia](https://digimon.fandom.com/wiki/Digivolution)
+[Digivolution | DigimonWiki | Fandom](https://digimon.fandom.com/wiki/Digivolution)
 
 Main Digivolutionary Stages (English adaptation terms with Japanese terms in brackets):
 
@@ -113,19 +113,6 @@ Biomerge Digivolution: Digimon merges with its human Tamer and Wrap evolve to th
 
 [Digimon Adventure tri. Opening ~ Butter-Fly [Full Version][Kōji Wada] - YouTube](https://www.youtube.com/watch?v=Ge6ky3w-eLM)
 [Brave Heart~ tri.Version~ OFICIAL FULL VERSION (Digimon Adventure Tri) - YouTube](https://www.youtube.com/watch?v=23LpAs1Wfeg)
-
-```sh
-cd season1
-youtube-dl.py --prefer-free-formats --match-title "デジモンアドベンチャーアニメ" https://www.youtube.com/channel/UC1meOBKxMrAxt3aKnvGRlJw/videos
-youtube-dl.py -f 43 https://www.youtube.com/playlist?list=PLlxr5GQ4O2arXWWA2QG1a9zp1HxCO55hw
-
-cd season2
-youtube-dl.py -f 43 https://www.youtube.com/playlist?list=PLlxr5GQ4O2aq-1K0-G0oATY1dsNmSgxCz
-
-cd season5
-youtube-dl.py --prefer-free-formats --match-title "デジモンアドベンチャー０5"  https://www.youtube.com/channel/UC1meOBKxMrAxt3aKnvGRlJw/videos
-youtube-dl.py -f 43 https://www.youtube.com/playlist?list=PL63_uY8YsnBR64qR85D8QMmZ5kvtSPu3i
-```
 
 ## Movies
 

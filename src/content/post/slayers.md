@@ -2,7 +2,7 @@
 title: Slayers
 description: ""
 created: 2017-11-15
-updated: 2025-01-09
+updated: 2025-06-02
 tags:
   - anime
   - slayers
@@ -20,6 +20,8 @@ tags:
 [秀逗魔導士\_OVA | Muse 木棉花 動畫 線上看 - YouTube](https://www.youtube.com/playlist?list=PL12UaAf_xzfpNl-GDbTy80gXqrq6v_C8v)
 
 在本作的世界觀中，有無數個世界同時存在，而目前所知的有四個平行世界運轉著，四界是指：赤之世界、黑之世界、青之世界、白之世界；本作大部分人物所存在的世界為赤之世界。而在這四個世界當中，每個世界都有魔族和神族互相牽制著，這就是世界平衡的狀態。
+
+[【經典懷舊一口氣】一口氣看完 秀逗魔導士 無印 劇情完全解析 ( 魔劍美神 劍與魔法世界的經典神作 ) - YouTube](https://www.youtube.com/watch?v=a17qE9VQAmU)
 
 [スレイヤーズの超常的存在 - Wikiwand](https://www.wikiwand.com/ja/スレイヤーズの超常的存在)
 [魔族（《秀逗魔导士》种族）\_百度百科](https://baike.baidu.com/item/魔族/20814954)

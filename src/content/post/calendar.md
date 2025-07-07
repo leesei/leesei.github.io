@@ -2,7 +2,7 @@
 title: Calendar
 description: ""
 created: 2016-09-09
-updated: 2025-01-09
+updated: 2025-02-04
 tags:
   - calendar
   - science
@@ -14,6 +14,12 @@ tags:
 
 [Origins of the names of the months | Encyclopedia Mythica](https://pantheon.org/miscellaneous/origin_names_months.php)
 [Origins of the names of the days | Encyclopedia Mythica](https://pantheon.org/miscellaneous/origin_names_days.php)
+
+The Generalist Papers
+[Where did the Months get their Names? - YouTube](https://www.youtube.com/watch?v=9Aa9M2JGfm0)
+[The Origins of the Seven Day Week - YouTube](https://www.youtube.com/watch?v=IoAJWj6XQKo)
+
+[How the months got their names (and what we used to call them) - YouTube](https://www.youtube.com/watch?v=Y9iOt48bTw4)
 
 [Why Are There 7 Days In a Week? EXPLAINED - YouTube](https://www.youtube.com/watch?v=vpRd52dXHlQ) planetary week, which is still (partially) adopted in modern Latin derived languages (Spanish and French), Indian and Japanese; Anglo-Saxons translated Tuesday and Friday to Norse-god to form today's English words  
 [一星期為什麼是七天？ - YouTube](https://www.youtube.com/watch?v=76vXmYSb17s)

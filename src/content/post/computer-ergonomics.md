@@ -2,7 +2,7 @@
 title: Computer Ergonomics
 description: ""
 created: 2023-02-16
-updated: 2025-01-09
+updated: 2025-06-15
 tags:
   - comp/hardware
 ---
@@ -30,6 +30,7 @@ tags:
 
 [【爱否评测】千元级人体工学椅横评：如何保护你那年轻的「老腰」？ - YouTube](https://www.youtube.com/watch?v=g-4F3GMt7c4)
 [史上最全！人体工学椅选购指南 | 先看评测 - YouTube](https://www.youtube.com/watch?v=cist5QiK-yw)
+[400个屁股严选，618 人体工学椅选购指南 - YouTube](https://www.youtube.com/watch?v=HhnriwxPXAI)
 [暴力测试 8 把人体工学椅，先看推荐也翻车！ - YouTube](https://www.youtube.com/watch?v=nkXWvn9I3bo)
 [人体工学椅怎么选？揭秘黑幕！这个视频让你少走弯路！ - YouTube](https://www.youtube.com/watch?v=jNH5lfIm2oM)
 [Don't Buy a "Gaming Chair" - Office Chair vs. Gaming Chair Round-Up & Review - YouTube](https://www.youtube.com/watch?v=9Yhc6mmdJC4)

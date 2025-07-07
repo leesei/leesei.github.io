@@ -2,7 +2,7 @@
 title: Data Analytics
 description: ""
 created: 2016-09-21
-updated: 2025-01-09
+updated: 2025-06-24
 tags:
   - big-data
 ---
@@ -11,6 +11,7 @@ tags:
 [[database]]
 [[elastic-stack]]
 [[elastic-kibana]]
+[[jupyter]]
 
 [Analytics - Wikiwand](http://www.wikiwand.com/en/Analytics)
 [Data Analytics Reference Stack | Clear Linux\* Project](https://clearlinux.org/stacks/data-analytics)
@@ -29,29 +30,27 @@ not to be confused with User Behavioral Analytics, used in security context for 
 [10 Steps To Get You Started With Behavioral Analytics](https://amplitude.com/blog/2016/06/14/10-steps-behavioral-analytics/)
 [Six Ways to Create Better Customer Behavior Analytics | Datameer](https://www.datameer.com/blog/six-ways-create-better-customer-behavior-analytics/)
 
-[From unstructured data to actionable intelligence: Using machine learning for threat intelligence - Microsoft Security](https://www.microsoft.com/security/blog/2019/08/08/from-unstructured-data-to-actionable-intelligence-using-machine-learning-for-threat-intelligence/)
-
 [What is Operational Analytics? - Definition from Techopedia](https://www.techopedia.com/definition/29495/operational-analytics)
 [Operations Analytics | Coursera](https://www.coursera.org/learn/wharton-operations-analytics)
-
-[Business analytics - Wikiwand](https://www.wikiwand.com/en/Business_analytics)
-
 First data, logs or events triggered by applications and services, must be collected and store on some data store.
 
-[Data Series - Microsoft Virtual Academy](<https://mva.microsoft.com/search/SearchResults.aspx#!q>="Data Series%3A"&lang=1033)
+[How to Learn Math for Data Science: A Roadmap for Beginners - KDnuggets](https://www.kdnuggets.com/how-to-learn-math-for-data-science-a-roadmap-for-beginners)
+[4 free maths courses to do in quarantine and level up your Data Science skills | by Gonzalo Ferreiro Volpi | Towards Data Science](https://towardsdatascience.com/4-free-maths-courses-to-do-in-quarantine-and-level-up-your-data-science-skills-f815daca56f7?source=friends_link&sk=e21d4439fe6e60160c25668377f66936)
+[Machine Learning and Data Science free online courses to do in quararantine | Towards Data Science](https://towardsdatascience.com/machine-learning-free-online-courses-from-beginner-to-advanced-f50982dce950)
+[Training for Data Analysts | Microsoft Learn](https://learn.microsoft.com/en-us/training/career-paths/data-analyst)
+[Training for Data Engineers | Microsoft Learn](https://learn.microsoft.com/en-us/training/career-paths/data-engineer)
+[Training for Data Scientists | Microsoft Learn](https://learn.microsoft.com/en-us/training/career-paths/data-scientist)
 
-[Data Scientia – Data Science | AI | Machine Learning | IoT | Cloud Analytics](https://datascientia.blog/)
-[Data Science Simplified Part 12: Resampling Methods – Data Scientia](https://datascientia.blog/2019/08/15/data-science-simplified-part-12-resampling-methods/)
+[From unstructured data to actionable intelligence: Using machine learning for threat intelligence - Microsoft Security](https://www.microsoft.com/security/blog/2019/08/08/from-unstructured-data-to-actionable-intelligence-using-machine-learning-for-threat-intelligence/)
+
 [The Best Free Data Science eBooks - Towards Data Science](https://towardsdatascience.com/the-best-free-data-science-ebooks-b671691e5231)
+[10 Free Data Science Books For 2025 - KDnuggets](https://www.kdnuggets.com/10-free-data-science-books-for-2025)
 
 [Introducing Application Insights Analytics - Brian Harry's Blog](https://devblogs.microsoft.com/bharry/introducing-application-analytics/)
 
 [Apache Hadoop Ecosystem and Open Source Big Data Projects | Hortonworks](https://hortonworks.com/ecosystems/) ❗!important
 
-[4 free maths courses to do in quarantine and level up your Data Science skills | by Gonzalo Ferreiro Volpi | Towards Data Science](https://towardsdatascience.com/4-free-maths-courses-to-do-in-quarantine-and-level-up-your-data-science-skills-f815daca56f7?source=friends_link&sk=e21d4439fe6e60160c25668377f66936)
-[Machine Learning and Data Science free online courses to do in quararantine | Towards Data Science](https://towardsdatascience.com/machine-learning-free-online-courses-from-beginner-to-advanced-f50982dce950)
-
-[Prefect Docs](https://docs.prefect.io/)
+[Prefect Docs](https://docs.prefect.io/) Workflow Orchestration For Resilient Data Platforms
 [101 Machine Learning Algorithms for Data Science with Cheat Sheets | R-bloggers](https://www.r-bloggers.com/101-machine-learning-algorithms-for-data-science-with-cheat-sheets/amp/)
 [7 Open Source Data Science Projects | Machine Learning Projects](https://www.analyticsvidhya.com/blog/2020/07/7-open-source-data-science-projects-add-resume/)
 
@@ -204,87 +203,9 @@ Beam is introducing a framework through which APIs in languages other than Java 
 
 [a49a/bigdata-sql-benchmark: Flink, Presto, Trino TPC-DS benchmark](https://github.com/a49a/bigdata-sql-benchmark)
 [Apache Iceberg](https://iceberg.apache.org/) The open table format for analytic datasets, supports SQL and Spark, Trino, Flink, Presto engine
+
 [Apache Airflow](https://airflow.apache.org/) data pipeline in Python, SQL-like query
-
-### Jupyter
-
-[Project Jupyter | Home](http://jupyter.org/)
-[Jupyter and the future of IPython — IPython](http://ipython.org/index.html) Jupyter was formerly [IPython Notebook](http://ipython.org/notebook.html)
-[Search, explore & show/display Jupyter notebooks in the terminal | Towards Data Science](https://towardsdatascience.com/rapidly-explore-jupyter-notebooks-right-in-your-terminal-67598d2265c2)
-
-[Welcome to nbdev | nbdev](https://nbdev.fast.ai/)
-[nbdev: use Jupyter Notebooks for everything · fast.ai](https://www.fast.ai/2019/12/02/nbdev/)
-[Jupyter is now a full-fledged IDE - Towards Data Science](https://towardsdatascience.com/jupyter-is-now-a-full-fledged-ide-c99218d33095)
-[MatrixDS – A community for working on and sharing advanced analytics](https://matrixds.com/)
-[Deepnote - Data science notebook for teams](https://deepnote.com/)
-
-[Introducing the Jupyter Extension for VS Code - Python](https://devblogs.microsoft.com/python/introducing-the-jupyter-extension-for-vs-code/)
-
-[Jupyter Notebook: An Introduction – Real Python](https://realpython.com/jupyter-notebook-introduction/)
-[Basics of Jupyter Notebook and Python | Packt Hub](https://hub.packtpub.com/basics-jupyter-notebook-python/)
-[28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
-[Jupyter Notebooks in Visual Studio Code | Visual Studio Toolbox | Channel 9](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Jupyter-Notebooks-in-Visual-Studio-Code)
-[Get Started With Jupyter Notebook: A Tutorial](https://www.makeuseof.com/get-started-with-jupyter-notebook/)
-[Introduction to Jupyter Notebooks | Programming Historian](https://programminghistorian.org/en/lessons/jupyter-notebooks)
-[Top 10 Magic Commands in Python to Boost your Productivity | by Siddhesh Jadhav | Towards Data Science](https://towardsdatascience.com/top-10-magic-commands-in-python-to-boost-your-productivity-1acac061c7a9)
-
-[IPython Cookbook - IPython Cookbook, Second Edition (2018)](https://ipython-books.github.io/)
-[ipython/ipython-in-depth: IPython and Jupyter in-depth Tutorial, first presented at PyCon 2012](https://github.com/ipython/ipython-in-depth)
-
-[Jupyter Notebooks as Markdown Documents, Julia, Python or R Scripts — Jupytext documentation](https://jupytext.readthedocs.io/en/latest/)
-
-[A gallery of interesting Jupyter Notebooks · jupyter/jupyter Wiki](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
-[JupyterLab Documentation](https://jupyterlab.readthedocs.io/en/stable/)
-
-[Voilà Dashboards](https://github.com/voila-dashboards)
-[And Voilà!. … from Jupyter notebooks to standalone… | by QuantStack | Jupyter Blog](https://blog.jupyter.org/and-voil%C3%A0-f6a2c08a4a93)
-[Dashboarding with JupyterLab 3. Project Jupyter offers a complete suite… | by Carlos Herrero | Jan, 2021 | Jupyter Blog](https://blog.jupyter.org/dashboarding-with-jupyterlab-3-789fcb1a5857)
-
-[Hello, Colaboratory - Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb)
-[Google Drive + Google Colab + GitHub; Don’t Just Read, Do It!](https://towardsdatascience.com/google-drive-google-colab-github-dont-just-read-do-it-5554d5824228)
-[Microsoft Azure Notebooks](https://notebooks.azure.com/)
-
-[scrapbook documentation](https://nteract-scrapbook.readthedocs.io/en/latest/) a library for recording a notebook’s data values and generated visual content as "scraps"
-
-[papermill documentation](https://papermill.readthedocs.io/en/latest/) tool for parameterizing and executing Jupyter Notebooks
-[nteract/papermill: 📚 Parameterize, execute, and analyze notebooks](https://github.com/nteract/papermill)
-[Introduction to Papermill - Towards Data Science](https://towardsdatascience.com/introduction-to-papermill-2c61f66bea30)
-[Automated Report Generation with Papermill: Part 1 - Practical Business Python](https://pbpython.com/papermil-rclone-report-1.html)
-[Automated Report Generation with Papermill: Part 2 - Practical Business Python](https://pbpython.com/papermil-rclone-report-2.html)
-
-[Project Jupyter](https://github.com/jupyter)
-[The Jupyter Notebook — Jupyter Notebook documentation](https://jupyter-notebook.readthedocs.io/en/stable/)
-[nbviewer](https://nbviewer.jupyter.org/) [FAQ](https://nbviewer.jupyter.org/faq)
-[jupyter/nbconvert: Jupyter Notebook Conversion](https://github.com/jupyter/nbconvert)
-[Binder](https://mybinder.org/) executable notebooks from URL
-
-[JupyterLab](https://github.com/jupyterlab)
-[JupyterLab Documentation — JupyterLab documentation](https://jupyterlab.readthedocs.io/en/stable/)
-
-[JupyterHub](https://github.com/jupyterhub)
-[JupyterHub — JupyterHub documentation](https://jupyterhub.readthedocs.io/en/stable/)
-
-[ipywidgets — Jupyter Widgets documentation](https://ipywidgets.readthedocs.io/en/stable/index.html)
-[A very simple demo of interactive controls on Jupyter notebook](https://towardsdatascience.com/a-very-simple-demo-of-interactive-controls-on-jupyter-notebook-4429cf46aabd)
-[Interactive Visualizations with Pandas, Seaborn and Ipywidgets | by Zoltan Guba | Python in Plain English](https://python.plainenglish.io/interactive-visualizations-with-pandas-seaborn-and-ipywidgets-173e5d7d6a5e)
-
-[jupyter-repo2docker — repo2docker documentation](https://repo2docker.readthedocs.io/en/latest/)
-[Docker Without the Hassle – Towards Data Science](https://towardsdatascience.com/docker-without-the-hassle-b98447caedd8)
-[Create your own GPU accelerated Jupyter Notebook Server for Google Colab using Docker | by Sascha Kirch | Apr, 2022 | Towards Data Science](https://towardsdatascience.com/create-your-own-gpu-accelerated-yupyter-notebook-server-with-google-colab-using-docker-2fa14900bab5)
-
-[neuron - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=neuron.neuron-IPE)
-[Data Science in Visual Studio Code using Neuron, a new VS Code extension | Microsoft Learn](https://learn.microsoft.com/en-us/archive/blogs/uk_faculty_connection/data-science-in-visual-studio-code-using-neuron-a-new-vs-code-extension)
-
-### Jupylet
-
-[JUPYLET PROGRAMMER’S REFERENCE GUIDE — Jupylet documentation](https://jupylet.readthedocs.io/en/latest/index.html)
-
-### Polyglot Notebook
-
-[Polyglot Notebooks - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode)
-
-[Announcing Polyglot Notebooks! Multi-language notebooks in Visual Studio Code - .NET Blog](https://devblogs.microsoft.com/dotnet/announcing-polyglot-notebooks-harness-the-power-of-multilanguage-notebooks-in-visual-studio-code/)
-[Polyglot Notebooks fully released for VS Code, with support for multiple languages - not including Python • DEVCLASS](https://devclass.com/2023/03/17/polyglot-notebooks-fully-released-for-vs-code-with-support-for-multiple-languages-not-including-python/) history of Jupyter Notebook
+[A Practical Guide to Modern Airflow - KDnuggets](https://www.kdnuggets.com/a-practical-guide-to-modern-airflow)
 
 ## Datasets
 
@@ -339,6 +260,34 @@ Beam is introducing a framework through which APIs in languages other than Java 
 [Easy analytics with Grafana, Postgres, and Kubernetes.](https://medium.com/@MailSlurp/easy-analytics-with-grafana-postgres-and-kubernetes-a9451f41d0be)
 
 ---
+
+## Data Generation
+
+### JavaScript
+
+[Chance](https://chancejs.com/)
+[chancejs/chancejs: Chance - Random generator helper for JavaScript](https://github.com/chancejs/chancejs)
+
+[aharris88/awesome-ipsum](https://github.com/aharris88/awesome-ipsum)
+[dejavu1987/jabber: Simple random word / paragraph / lorem ipsum / dummy text generator.](https://github.com/dejavu1987/jabber)
+
+[Marak/faker.js](https://github.com/marak/Faker.js/)
+[drewbrokke/chance-token-replacer](https://github.com/drewbrokke/chance-token-replacer)
+[ngneat/falso: All the Fake Data for All Your Real Needs 🙂](https://github.com/ngneat/falso)
+[adleroliveira/dreamjs: A lightweight json data generator.](https://github.com/adleroliveira/dreamjs)
+[json-schema-faker/json-schema-faker: JSON-Schema + Faker](https://github.com/json-schema-faker/json-schema-faker)
+[danibram/mocker-data-generator](https://github.com/danibram/mocker-data-generator/)
+
+### Python
+
+[Welcome to Faker’s documentation! — Faker documentation](https://faker.readthedocs.io/en/master/)
+[joke2k/faker: Faker is a Python package that generates fake data for you.](https://github.com/joke2k/faker)
+
+[Mimesis: Fake Data Generator — Mimesis 17.1.0 documentation](https://mimesis.name/master/)
+[lk-geimfari/mimesis: Mimesis is a robust data generator for Python that can produce a wide range of fake data in multiple languages.](https://github.com/lk-geimfari/mimesis)
+[Getting Started with Mimesis: A Modern Approach to Synthetic Data Generation](https://www.statology.org/getting-started-mimesis-modern-approach-synthetic-data-generation/)
+
+[chris1610/barnum-proj: Python application for generating pseudo-random data](https://github.com/chris1610/barnum-proj)
 
 ## Data Processing
 
@@ -407,5 +356,7 @@ Beam is introducing a framework through which APIs in languages other than Java 
 [Polars](https://www.pola.rs/)
 [Pandas vs. Polars: A Syntax and Speed Comparison | by Leonie Monigatti | Jan, 2023 | Towards Data Science](https://towardsdatascience.com/pandas-vs-polars-a-syntax-and-speed-comparison-5aa54e27497e)
 [Why Polars uses less memory than Pandas](https://pythonspeed.com/articles/polars-memory-pandas/)
-[Replacing Pandas with Polars. A Practical Guide. - Confessions of a Data Guy](https://www.confessionsofadataguy.com/replacing-pandas-with-polars-a-practical-guide/)
 [Polars for initial data analysis, Polars for production](https://pythonspeed.com/articles/polars-exploratory-data-analysis-vs-production/)
+[Replacing Pandas with Polars. A Practical Guide. - Confessions of a Data Guy](https://www.confessionsofadataguy.com/replacing-pandas-with-polars-a-practical-guide/)
+[Working With Python Polars – Real Python](https://realpython.com/courses/working-with-python-polars/)
+[Polars for Pandas Users: A Blazing Fast DataFrame Alternative - KDnuggets](https://www.kdnuggets.com/polars-for-pandas-users-a-blazing-fast-dataframe-alternative)

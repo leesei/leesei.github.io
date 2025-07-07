@@ -2,7 +2,7 @@
 title: Religion
 description: ""
 created: 2015-04-13
-updated: 2025-01-09
+updated: 2025-07-03
 tags:
   - creationism
   - philosophy
@@ -10,7 +10,7 @@ tags:
   - science
 ---
 
-[ReligionForBreakfast - YouTube](https://www.youtube.com/channel/UCct9aR7HC79Cv2g-9oDOTLw)
+[ReligionForBreakfast - YouTube](https://www.youtube.com/@ReligionForBreakfast)
 [Religious History - YouTube](https://www.youtube.com/playlist?list=PLxZAPogJjW_insZ-fc9NJmZdiGgqbDfjz)
 
 [用 34 分钟，解决困扰我多年的问题：基督，犹太，伊斯兰教的关系 - YouTube](https://www.youtube.com/watch?v=ncXCHdTFBEs)
@@ -68,6 +68,8 @@ tags:
 
 ## 道教
 
+[一口气看懂万物之【道】 | 原来2500年前老子就預言了西方近代史的進程！ - YouTube](https://www.youtube.com/watch?v=y0weeDZFL7c)
+
 [神寫的書，來自中國，讀懂它的兩個歐洲人，都被現代科學「封神」|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=405qU49shTk)
 [1200 年前，一個唐朝人，總結了自《山海經》以來，各種修仙法門，他在夢中悟道，修煉成仙，而我們卻一直以爲他是一個不存在的人物……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=xnu4U4IsvCc)
 
@@ -105,11 +107,19 @@ tags:
 
 ## Islamism
 
+[History of Islam - Wikiwand](https://www.wikiwand.com/en/articles/History_of_Islam)
+
 [为什么伊斯兰教禁食猪肉，甚至汉族娶穆斯林姑娘还得洗胃？ - YouTube](https://www.youtube.com/watch?v=Oied27tmZ5U)
 [西域离中国那么近，为什么最后却都信了伊斯兰教？ - YouTube](https://www.youtube.com/watch?v=aovwKmHqDvQ)
 [伊斯兰教为什么这么“恨”世俗化？为什么伊斯兰内斗如此疯狂？中东的“反世俗诅咒” - YouTube](https://www.youtube.com/watch?v=x_WiuxYq-Io)
 [宗教由黄变绿，但人种却由白变黄！伊斯兰化后，中亚人种为何巨变？ - YouTube](https://www.youtube.com/watch?v=_IArPj74gG0)
 [1块石头，却砸了3500年！全世界都谴责，为什么伊斯兰教就不废私处石刑？又为何石刑只对女人？ - YouTube](https://www.youtube.com/watch?v=yce22EHxICg)
+
+[现代回族，却不信回教！为何说回教不是伊斯兰教？回教如何消亡？19分钟讲透回教史 - YouTube](https://www.youtube.com/watch?v=8ZbCpqtOPhk) like 景教 to Christianity, 回教 was 漢化伊斯兰教
+[伊斯蘭是怎麼來的？穆聖娶了她才建教？古蘭經真的很極端嗎？ ｜中東千年宗教紛爭｜伊斯蘭史詩 01 ｜思維實驗室 - YouTube](https://www.youtube.com/watch?v=KAMQkVzhiMg)
+[伊斯蘭的沒落要怪安史之亂？阿拉伯帝國的興衰原理分析 ｜什葉派與遜尼派的鬥爭｜伊斯蘭史詩 02 ｜思維實驗室 - YouTube](https://www.youtube.com/watch?v=-NIG69wnMoY)
+[一次看懂伊斯蘭教：猶太的世仇！另一個版本的上帝故事 | 聊聊阿拉伯被中斷的天命，伊斯蘭與西方的永恆衝突…| 床台 - YouTube](https://www.youtube.com/watch?v=n0iUxUTw4vI)
+[伊斯蘭教究竟有什麽魔力？爲何華人會陷入穆斯林困境？那些「先知之後」，將帶領伊斯蘭走向何方？半小時速懂伊斯蘭！ | 床台 - YouTube](https://www.youtube.com/watch?v=Azk_r4Wdl1M)
 
 ## Christianity
 
@@ -125,11 +135,14 @@ no idols
 [大赦 (基督教) - Wikiwand](<https://www.wikiwand.com/zh/%E5%A4%A7%E8%B5%A6_(%E5%9F%BA%E7%9D%A3%E6%95%99)>) 贖罪券
 
 [Western Christianity vs Eastern Christianity - YouTube](https://www.youtube.com/watch?v=9Yk0slGP-rM)
-[明明信一个基督，为什么东正教、天主教、新教却死斗不休？基督教又如何分裂成这3大教？20分钟讲透基督教3教裂变1000年 - YouTube](https://www.yo[明明信一个基督，为什么东正教、天主教、新教却死斗不休？基督教又如何分裂成这3大教？20分钟讲透基督教3教裂变1000年 - YouTube](https://www.youtube.com/watch?v=FQ3uDsdrsZ8)utube.com/watch?v=FQ3uDsdrsZ8)
+[明明信一个基督，为什么东正教、天主教、新教却死斗不休？基督教又如何分裂成这3大教？20分钟讲透基督教3教裂变1000年 - YouTube](https://www.yo[utube.com/watch?v=FQ3uDsdrsZ8)
 [天主教，基督教，○○○ 教，世界各大宗教之間究竟有什麼區別 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=vgFEYOJ8Knk)
 [【基督宗教 历史专题】【基督宗教 历史专题】【基督宗教 历史专题】 - YouTube](https://www.youtube.com/playlist?list=PLg45KLfneaCRYo5ZvdFf_OcWfCNjMCiej)
 [一口氣整理 世界三大宗教之一，基督的历史起源！(1/4) - YouTube](https://www.youtube.com/watch?v=9EMx2kevK5U)
 [【歷史】世界最大宗教的起源，探索五千年人類文明！(2/4) - YouTube](https://www.youtube.com/watch?v=QXTQ61KbN7M) Mesopotamian history, Babylonian cosmology
+
+[一部影片看完西方宗教故事：天主教、東正教、基督教有什麼區別？哪個教派勢力最大？他們為什麼搞分裂？| 床台 - YouTube](https://www.youtube.com/watch?v=_t3gYU74Ldc&list=PLOVOh57bDrreOtW7C_bWbJsyzPEqALjUD&index=20)
+[一看就懂！用125張AI圖片講完基督教歷史，15分鐘看完聖經故事！| 床台 - YouTube](https://www.youtube.com/watch?v=htu-wQlr6xw)
 
 [Who is Yahweh - How a Warrior-Storm God became the God of the Israelites and World Monotheism - YouTube](https://www.youtube.com/watch?v=mdKst8zeh-U)
 

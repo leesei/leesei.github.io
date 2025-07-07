@@ -2,7 +2,7 @@
 title: Minecraft
 description: ""
 created: 2024-12-30
-updated: 2025-01-09
+updated: 2025-04-12
 tags:
   - game
   - learn-to-code
@@ -73,6 +73,8 @@ Server administration is difficult
 
 ### Mods
 
+[Minecraft: YSWS Edition](https://hackcraft.hackclub.com/)
+
 [Downloads for Minecraft Forge for Minecraft](https://files.minecraftforge.net/net/minecraftforge/forge/)
 [Forge Documentation](https://docs.minecraftforge.net/en/latest/)
 
@@ -88,7 +90,7 @@ Server administration is difficult
 
 [Search Lessons | Minecraft: Education Edition](https://education.minecraft.net/class-resources/search-lessons)
 [How to download Minecraft Education Edition: Step-by-step guide for beginners](https://www.sportskeeda.com/amp/esports/how-download-minecraft-education-edition)
-[Minecraft: Education Edition - YouTube](https://www.youtube.com/channel/UC2XjBkW16jGLGSEF9vo4PDA)
+[Minecraft Education - YouTube](https://www.youtube.com/@MinecraftEducation/playlists)
 
 Hour of Code can be played in demo version (select in sign in screen)
 [One Pager HOC.pdf](https://education.minecraft.net/content/dam/education-edition/learning-experiences/hoc24/One%20Pager%20HOC.pdf)

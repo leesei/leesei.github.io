@@ -2,7 +2,7 @@
 title: Ultraman
 description: ""
 created: 2015-05-22
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - tokusatsu
 ---
@@ -13,15 +13,18 @@ tags:
 [超人力霸王系列 - Wikiwand](https://www.wikiwand.com/zh/%E8%B6%85%E4%BA%BA%E5%8A%9B%E9%9C%B8%E7%8E%8B%E7%B3%BB%E5%88%97)
 [奥特曼（圆谷株式会社出品的空想特摄系列作品）\_百度百科](https://baike.baidu.com/item/%E5%A5%A5%E7%89%B9%E6%9B%BC/336395)
 
-[ウルトラマン公式 ULTRAMAN OFFICIAL by TSUBURAYA PROD. - YouTube](https://www.youtube.com/user/tsuburaya)
-[Muse 木棉花-超級英雄 - YouTube](https://www.youtube.com/channel/UCBj27FrkgEbYVif-ZAPnsGA) TW proxy
+[The Complete HISTORY of ULTRAMAN - 1966 - 2025 - YouTube](https://www.youtube.com/watch?v=pP7MUygIILI)
+[Top 10 Coolest ULTRAS in ULTRAMAN!!! - YouTube](https://www.youtube.com/watch?v=ae86hhBN7P8)
 
-[光之阿泽-官方频道 - YouTube](https://www.youtube.com/channel/UCKsW6lzYLmwONXLq0xAVOWg/featured)
-[ultraWYY - YouTube](https://www.youtube.com/channel/UCsf8SJz1H_E8zNYLM6u5pOg)
+[ウルトラマン公式 ULTRAMAN OFFICIAL by TSUBURAYA PROD. - YouTube](https://www.youtube.com/@ULTRAMAN_OFFICIAL)
+[Muse 木棉花-超級英雄 - YouTube](https://www.youtube.com/@Muse_Hero) TW proxy
+
+[光之阿泽-【本人】 - YouTube](https://www.youtube.com/@GuangZhiAze)
+[ultraWYY - YouTube](https://www.youtube.com/@ultrawyy5641)
 [奥特曼 - YouTube](https://www.youtube.com/playlist?list=PLLvGCVxkdnZwa97BB34wTDll0wDXlKgBV) 在下三少啦
-[九冢嵬 - YouTube](https://www.youtube.com/channel/UC9fcR7bZqp1naD_00NYFBVQ/playlists)
+[九冢嵬 - YouTube](https://www.youtube.com/@%E4%B9%9D%E5%86%A2%E5%B5%AC)
 [M78阿伟V - YouTube](https://www.youtube.com/@M78AW)
-[奥特阿j - YouTube](https://www.youtube.com/@M78awei/featured)
+[奥特阿j - YouTube](https://www.youtube.com/@M78awei)
 [M78 阿伟 V 的个人空间\_哔哩哔哩\_bilibili](https://space.bilibili.com/1322449822)
 
 [♦️超人的起源，日本特攝片歷史｜格物冷知識｜格物致知 - YouTube](https://www.youtube.com/watch?v=RsaqueziPdA)
@@ -35,6 +38,7 @@ tags:
 [奧特曼編年史終稿,奧特曼歷史最長高斯登場,神作奈克瑟斯被砍 - YouTube](https://www.youtube.com/watch?v=jfLkUFAHGg8)
 [奧特曼編年史平成篇,大古回歸出演迪迦,賽羅橫空出世連接新生代 - YouTube](https://www.youtube.com/watch?v=7wDF363SEiM)
 [奧特曼編年史新生代篇,銀河成功開啟新生代,澤塔再創奧特巔峰 - YouTube](https://www.youtube.com/watch?v=IidTy-lrFZ4)
+[一个视频告诉你，奥特曼57年历史一共诞生过多少奥特曼 - YouTube](https://www.youtube.com/watch?v=aKx1UpVYuto)
 
 [神秘四奥\_百度百科](https://baike.baidu.com/item/%E7%A5%9E%E7%A7%98%E5%9B%9B%E5%A5%A5/12014388)
 [究极奥特战士\_百度百科](https://baike.baidu.com/item/%E7%A9%B6%E6%9E%81%E5%A5%A5%E7%89%B9%E6%88%98%E5%A3%AB/19465516)
@@ -46,6 +50,8 @@ tags:
 [超人力霸王總介紹~昭和篇 - YouTube](https://www.youtube.com/watch?v=WfJ4FFbwwxk)
 
 [奥特曼六兄弟\_百度百科](https://baike.baidu.com/item/%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%85%AD%E5%85%84%E5%BC%9F/8469902)
+
+[一口气看完全部昭和奥的诞生 - YouTube](https://www.youtube.com/watch?v=ZZNpc9uDsJg)
 
 ## 平成奥特曼
 

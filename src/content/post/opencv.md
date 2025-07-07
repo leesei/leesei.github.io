@@ -2,7 +2,7 @@
 title: OpenCV
 description: ""
 created: 2014-12-31
-updated: 2025-01-09
+updated: 2025-03-18
 tags:
   - comp/lang
   - opencv
@@ -67,6 +67,11 @@ Murtaza's Workshop
 [[2410.17725] YOLOv11: An Overview of the Key Architectural Enhancements](https://arxiv.org/abs/2410.17725)
 [What’s New in YOLOv11 Transforming Object Detection Once Again Part 1 | DigitalOcean](https://www.digitalocean.com/community/tutorials/what-is-new-with-yolo)
 [YOLO11: Faster Than You Can Imagine!](https://learnopencv.com/yolo11/)
+
+## Detectron2
+
+[Welcome to detectron2’s documentation! — detectron2 documentation](https://detectron2.readthedocs.io/en/latest/)
+[facebookresearch/detectron2: Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.](https://github.com/facebookresearch/detectron2)
 
 ## Video
 

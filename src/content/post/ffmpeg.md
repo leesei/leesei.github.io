@@ -2,7 +2,7 @@
 title: ffmpeg
 description: A complete, cross-platform solution to record, convert and stream audio and video.
 created: 2015-01-13
-updated: 2025-01-09
+updated: 2025-04-28
 tags:
   - app
   - avconv
@@ -35,9 +35,27 @@ ffmpeg [global options] [[infile options][-i infile]]... {[outfile options] outf
 ## screenshot
 
 ```sh
+# single frame
+ffmpeg -ss 01:23:45 -i input -frames:v 1 -q:v 2 output.jpg
+
 # capture 10s of frames starting from 5 minute mark
 ffmpeg -ss 05:00 -to 05:10 -i <input> screenshot%05d.png
 ```
+
+## cropping
+
+```
+ffmpeg -i in.mp4 -filter:v "crop=out_w:out_h:x:y" -crf 18 out.mp4
+```
+
+Where the options are as follows:
+
+- `out_w` is the width of the output rectangle
+- `out_h` is the height of the output rectangle
+- `x` and `y` specify the top left corner of the output rectangle
+- `-crf 18` output better quality x264 than the default 23
+
+[ubuntu - How can I crop a video to a part of the view? - Super User](https://superuser.com/a/511151)
 
 ## screen capture
 

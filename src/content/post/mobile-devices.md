@@ -2,7 +2,7 @@
 title: Mobile Devices
 description: ""
 created: 2022-02-09
-updated: 2025-01-09
+updated: 2025-05-28
 tags:
   - comp/hardware
   - mobile
@@ -10,12 +10,25 @@ tags:
 
 [[displays#Panel]]
 
+> TODO: remove products pre-2023
+
+## PC Gaming on Android
+
+[Winlator - Android app](https://winlator.org/)
+[GitHub - brunodev85/winlator: Android application for running Windows applications with Wine and Box86/Box64](https://github.com/brunodev85/winlator)
+[olegos2/mobox](https://github.com/olegos2/mobox)
+
 [旧手机不要扔，还能做这些事…… - YouTube](https://www.youtube.com/watch?v=EROFDL9sKyo)
+[在手机上玩PC游戏！甚至能玩2077？彻底榨干8Gen3！ - YouTube](https://www.youtube.com/watch?v=OTgl6RaImjY)
+[我们用旧手机造出了一台终极游戏掌机！ - YouTube](https://www.youtube.com/watch?v=f4cKo1jFZG0)
+[手机运行黑神话悟空！我们用红魔10S Pro+体验了PC游戏 - YouTube](https://www.youtube.com/watch?v=goGCjAiKv3c)
 
 ## Touch Screen
 
 [How Do Touchscreens Work? - YouTube](https://www.youtube.com/watch?v=cFvh7qM6LdA)
 [How does Multitouch work? - YouTube](https://www.youtube.com/watch?v=4mPdNV_smWg)
+
+[9H保護貼是智商稅？最划防護法！搞懂大猩猩、超瓷晶盾、藍寶石三種手機玻璃技術 - YouTube](https://www.youtube.com/watch?v=OknYMUGA1PQ)
 
 ## Tablets
 
@@ -26,38 +39,28 @@ tags:
 [[steam-deck]]
 
 [Device Reviews - YouTube](https://www.youtube.com/playlist?list=PL9lafQPiMYh78DBIv64t_EgpW9vqY1k2s) Taki Udon
-[LowSpecGamer - YouTube](https://www.youtube.com/c/LowSpecGamer)
-[Taki Udon - YouTube](https://www.youtube.com/channel/UCKF5151a6yAooOILrYTvfJg)
-[The Phawx - YouTube](https://www.youtube.com/c/ThePhawx)
+[LowSpecGamer - YouTube](https://www.youtube.com/@LowSpecGamer)
+[Taki Udon - YouTube](https://www.youtube.com/@TakiUdon)
+[The Phawx - YouTube](https://www.youtube.com/@ThePhawx)
 
 [AMD Ryzen 7 6800U and 5800U/5700U laptops - specs, benchmarks, complete list](https://www.ultrabookreview.com/36030-amd-ryzen-7-u-laptops/)
 [Ryzen 7 5800U Review, AMD Retakes Ultrathin Performance Throne - YouTube](https://www.youtube.com/watch?v=edpdmbmYOj0)
 [最强核显登场！能干掉 10 年前最强卡皇吗？Ryzen 6000 APU 性能评测 - YouTube](https://www.youtube.com/watch?v=4Kw5jo4hbn8)
 5000 Zen 3 U have doubled cache and faster IPC, but improvements depends on application
 
+[LegacyKillaHD - YouTube](https://www.youtube.com/@LegacyKillaHD)
+
 Prices are 16GB RAM, 1TB NVMe SSD unless otherwise specified
 
 ### AYA NEO
 
-[AYANEO 2021 – ayaneo store](https://store.ayaneo.com/products/ayaneo-2021)
-[AYA 掌机 2021 AYA Neo Windows 掌机 WIN10 系统高性能 AMD 核心-淘宝网](https://item.taobao.com/item.htm?id=640487645858) 7", R5 4500U ¥5999, trigger button
+[Store - AYANEO](https://store.ayaneo.com/)
 [AYA NEO - YouTube](https://www.youtube.com/playlist?list=PL9lafQPiMYh7YO5aIRJQVAMtIJ_R3PLjJ)
 [FINALLY an AMD Handheld Gaming PC!! - Aya Neo Review - YouTube](https://www.youtube.com/watch?v=wINKqvWou5w)
 [Handheld AMD Gaming PC: AYA NEO Review & Benchmarks of a Switch Alternative - YouTube](https://www.youtube.com/watch?v=y1Mfo43UnuY)
 [AYA NEO Tear-Down & Disassembly of Handheld AMD Gaming PC - YouTube](https://www.youtube.com/watch?v=f7vhZw4QiYY)
 [I Was Sent A Nintendo Switch Pro... kinda - YouTube](https://www.youtube.com/watch?v=LMDEn1DT5Yo)
 [能畅玩 3A 大作的国产 AMD 掌机靠谱么？AYA 掌机首发评测 - YouTube](https://www.youtube.com/watch?v=BzZU0FelTUM)
-
-[AYANEO 2021 Pro – ayaneo store](https://store.ayaneo.com/products/ayaneo-2021-pro)
-[AYANEO 2021 Pro/Retro Power AMD4800 核心掌机 Windows 掌上游戏机-淘宝网](https://item.taobao.com/item.htm?id=661477291204) R7 4800U ¥6999, analog trigger, linear rumble, not so ergonomic
-[This is my favorite gaming device right now. Period. - YouTube](https://www.youtube.com/watch?v=ImN-p_S9fMU)
-
-Aya Neo Next R7 5800U/5825U $1315, hall sensor analog stick
-[I HAVE to make the SWITCH - YouTube](https://www.youtube.com/watch?v=TQV5ZywkAx8)
-[I Was Sent A $1400 Nintendo Switch Pro! - YouTube](https://www.youtube.com/watch?v=mfdQjrjxYos)
-[The knock off STEAM DECK that's $1000 more... - YouTube](https://www.youtube.com/watch?v=kUl3ubGe4UE)
-[PC 遊戲帶著走，黃油帶到廁所玩？！真 WIN 10 掌機《AYANEO 亞諾電競掌機》開箱實測， 3A 大作也無壓力順跑，還能用來剪片！？ - YouTube](https://www.youtube.com/watch?v=gmQpSOr6K78)
-[AYANEO NEXT -- One Month Later - YouTube](https://www.youtube.com/watch?v=IzS6Jp7XBs4)
 
 Aya Neo Air, OLED, RDNA 2
 [I DESPERATELY Wanted to Love This... - YouTube](https://www.youtube.com/watch?v=XbA6S0kdu2o)
@@ -78,12 +81,6 @@ Ayaneo 2, USD1100, Ryzen 7 6800U, RDNA2 12CU
 [OnexPlayer 官网*壹号掌机*掌机*Windows 掌机\_PC 掌机*掌上游戏机](http://www.onexplayer.com/)
 
 8.4" is too big
-[OnexPlayerAMD 版*AMD 掌机*壹号掌机*Windows 掌机\_PC 掌机*掌上游戏机](http://www.onexplayer.com/product/OnexPlayer_AMD/) 8.4" R7 4800U ¥6299/R7 5700U ¥6699
-[I can't believe I BROKE it! - OneXPlayer AMD 5700U Version - YouTube](https://www.youtube.com/watch?v=ljdd26UH94E)
-[OnexPlayer1S*壹号游戏掌机\_Windows 掌机\_PC 掌机*掌上游戏机](http://www.onexplayer.com/product/OnexPlayer_1S/) 8.4" i7-1195G7 ¥6999
-
-[OnexPlayermini 版*mini 掌机*壹号掌机*Windows 掌机\_PC 掌机*掌上游戏机](http://www.onexplayer.com/product/OnexPlayermini/) 7" i7-1195G7 ¥6699
-[Witcher 3 on THIS?!? - OneXPlayer Mini - YouTube](https://www.youtube.com/watch?v=P7br33n81LY)
 
 ### Asus ROG Ally
 

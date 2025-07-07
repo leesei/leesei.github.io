@@ -2,7 +2,7 @@
 title: Electronic Components
 description: ""
 created: 2018-09-12
-updated: 2025-01-09
+updated: 2025-01-22
 tags:
   - electronics
   - maker
@@ -55,6 +55,8 @@ tags:
 [首页-深海电子科技-淘宝网](https://shenhaidz.taobao.com/) OLED, cheaper carrier
 [首页-电子配件爱好者之家-淘宝网](https://shop71752789.world.taobao.com) resistors in batch, RGB LED, 銅柱, 2.54mm 座
 [首页-萍忻电子-淘宝网](https://fly-fish.taobao.com/)
+[兼容乐高L系列模块-嘉年创奇企业店-淘宝网](https://shop171703954.taobao.com/category-1733367030.htm) LEGO compatible, PH2.0
+[传感器&乐高传感器-YFRobot电子工作室-淘宝网](https://yfrobot.world.taobao.com/category-1349325484.htm) LEGO compatible, PH2.0
 
 [首页-深圳宏维微电子工厂店-淘宝网](https://shop103515034.taobao.com/)
 [首页-嘉麒盛电子模块批发-淘宝网](https://shop166042192.taobao.com/)

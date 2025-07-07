@@ -2,7 +2,7 @@
 title: WordPress
 description: ""
 created: 2015-05-21
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - app
   - bitnami
@@ -50,9 +50,9 @@ tags:
 - WP Admin UI Customize
 - Manage WP
 
-[LivingWithPixels - YouTube](https://www.youtube.com/channel/UC4rBpJF855RQuO8PrUVb68g)
-[Links - Living With Pixels](https://livingwithpixels.com/links/)
-[Josh Hall - YouTube](https://www.youtube.com/channel/UCmu7bw5BYIeR0VDw0hJKblw)
+[Rino de Boer - YouTube](https://www.youtube.com/@rinodeboer)
+[Software Archive - Living With Pixels](https://livingwithpixels.com/software/)
+[Josh Hall - YouTube](https://www.youtube.com/@JoshHallco)
 
 [Speed Up WordPress Today in These 9 Simple Steps](https://www.hostinger.com/tutorials/speed-up-wordpress)
 [殺手級 WordPress 體檢項目：101 個網站必須遵照的原則！](https://free.com.tw/killer-wordpress-checklist/)

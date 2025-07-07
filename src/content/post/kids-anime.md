@@ -2,7 +2,7 @@
 title: Kids Anime
 description: ""
 created: 2021-08-24
-updated: 2025-01-09
+updated: 2025-06-02
 tags:
   - anime
 ---
@@ -53,11 +53,24 @@ tags:
 [【動畫介紹】守護黃金力量的偉大勇者！黃金勇者！「上集」 - YouTube](https://www.youtube.com/watch?v=wGVvDP0P-A0)
 [【動畫介紹】現在是時候甦醒！在我面前現身吧！黃金勇者！「下集」 - YouTube](https://www.youtube.com/watch?v=r_hRQtdTvIw)
 
+[【經典懷舊系列】勇者指令 故事劇情解析01 ( 千值練 SMP 剛力合體 勁力達古奧 ) - YouTube](https://www.youtube.com/watch?v=03dFPWIzkXM)
+[【經典懷舊系列】勇者指令 故事劇情解析02 完結篇 ( 千值練 SMP 剛力合體 勁力達古奧 ) - YouTube](https://www.youtube.com/watch?v=qAcalJyI9vo)
+[【經典懷舊一口氣】一口氣看完勇者指令ダグオン(機器人大戰DD 千直練 萬代) - YouTube](https://www.youtube.com/watch?v=zq44U0WCNy4)
+
 [RT 帶你看勇者傳說-雷霆達鋼(上集) - YouTube](https://www.youtube.com/watch?v=uc20EZ7gS3M)
 [帶你複習大型玩具廣告!勇者傳說-雷霆達鋼(下集) - YouTube](https://www.youtube.com/watch?v=SkibqNWurIE)
 [【勇者系列】二十分鐘完全解析 勇者傳說 達鋼 (內含從未公開的第 11 位勇者及 TV 結束後 主角群高中生設定資料) - YouTube](https://www.youtube.com/watch?v=qgypFQP7-xc)
 
+[【經典懷舊系列】童年經典神作 勇者傳說 達鋼 精彩故事解析 (達剛 達鋼 泰丹 雷霆達鋼號 伝説の勇者ダ・ガーン 勇者系列 第三部) - YouTube](https://www.youtube.com/watch?v=u3f9okkeRJE)
+[【經典懷舊系列】你可能不知道的 童年經典神作 勇者傳說 達鋼 精彩大結局 內含:結局後日談 (達剛 達鋼 泰丹 雷霆達鋼號 伝説の勇者ダ・ガーン 勇者系列 第三部) - YouTube](https://www.youtube.com/watch?v=bE-UQLdk-Dw)
+
+### Gaogaigar
+
 [【勇者系列】十分鐘完全解析 勇者王我王凱牙 TV (內含從未公開的我王凱牙大合體資料) - YouTube](https://www.youtube.com/watch?v=y17EOD9YhXo)
+
+[【你可能沒看過】另一版本 勇者王FINAL Grand Glorious Gathering TV 12話 精彩故事解析 內含TV版最終大合體廢案 (機器人大戰DD) - YouTube](https://www.youtube.com/watch?v=r2jrNJrsItk)
+[【你可能沒看過】另一版本 勇者王FINAL Grand Glorious Gathering TV 12話 精彩大結局 勇者默示錄 (機器人大戰DD) - YouTube](https://www.youtube.com/watch?v=AQjiUQHjUNA)
+[【經典一口氣看完】 霸界王 小說版 劇情回顧( 勇者王 勇者宇宙 達剛 達鋼) - YouTube](https://www.youtube.com/watch?v=1u8elOprZ0Q)
 
 ## Transformers
 

@@ -2,7 +2,7 @@
 title: Astro
 description: ""
 created: 2023-03-04
-updated: 2025-01-09
+updated: 2025-02-19
 tags:
   - javascript
   - static-site
@@ -41,6 +41,15 @@ tags:
 [Astro Crash Course - YouTube](https://www.youtube.com/watch?v=Oi9z5gfIHJs) 2022-08, 1:35:00
 [Astro Crash Course - YouTube](https://www.youtube.com/playlist?list=PLtLXFsdHI8JSX0qJsHfMDSTR3taqvXa5S) 2021-2022
 [Astro makes websites faster & easier to build - YouTube](https://www.youtube.com/watch?v=acgIGT0J99U) 2023-06, 22:54, refactor a site using Astro components
+
+## Starlight
+
+[Starlight 🌟 Build documentation sites with Astro](https://starlight.astro.build/)
+[withastro/starlight: 🌟 Build beautiful, accessible, high-performance documentation websites with Astro](https://github.com/withastro/starlight)
+
+[Starlight turns one year old! | Astro](https://astro.build/blog/starlight-turns-one/)
+[Building docs with Starlight and Astro - YouTube](https://www.youtube.com/watch?v=sF6UcV3moZg)
+[Quick & clean documentation 📚 app with Astro Starlight 🎥 LIVE Coding & Chill 🔴 - YouTube](https://www.youtube.com/watch?v=1zMUbv3vHns)
 
 ## Server-side Rendering
 

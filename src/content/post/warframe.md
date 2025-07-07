@@ -2,9 +2,10 @@
 title: Warframe
 description: ""
 created: 2024-12-24
+updated: 2025-02-16
 tags:
-  - warframe
   - games
+  - warframe
 ---
 
 [How Did Warframe, a Free MMO, Become My Favorite Game? | Good Cheap Games - YouTube](https://www.youtube.com/watch?v=VKYwETRFpE0)
@@ -17,7 +18,7 @@ Skill Up
 [The Rise of Warframe (Warframe Doc Part 2) - YouTube](https://www.youtube.com/watch?v=NA5vT1LooXk)
 
 [Steam Community :: Guide :: Space](https://steamcommunity.com/sharedfiles/filedetails/?id=1409926603)
-[WARFRAME Wiki | FANDOM powered by Wikia](https://warframe.fandom.com/wiki/WARFRAME_Wiki)
+[WARFRAME Wiki | Fandom](https://warframe.fandom.com/wiki/WARFRAME_Wiki)
 
 [Most recent Buy and Sell orders](https://warframe.market/)
 

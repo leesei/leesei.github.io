@@ -2,7 +2,7 @@
 title: Astronomy
 description: ""
 created: 2019-07-16
-updated: 2025-01-09
+updated: 2025-05-31
 tags:
   - astro-physics
   - astronomy
@@ -18,12 +18,12 @@ tags:
 
 [Imagine the Universe!](https://imagine.gsfc.nasa.gov/home.html)
 [The Universe and Space stuff - YouTube](https://www.youtube.com/playlist?list=PLFs4vir_WsTwEd-nJgVJCZPNL3HALHHpF) Kurzgesagt – In a Nutshell
+[天文史话 - YouTube](https://www.youtube.com/playlist?list=PLYtoePJQbGmicW5EiJeVIgz5a4Br99WwC) 妈咪说MommyTalk
 
 [Space Facts - Interesting Facts about Space](https://space-facts.com/)
-[Astronomy and Nature TV - YouTube](https://www.youtube.com/channel/UCIwQ5bWXAf57sE5HN6ldW3Q)
-[Sixty Symbols - YouTube](https://www.youtube.com/user/sixtysymbols/about)
-[Launch Pad Astronomy - YouTube](https://www.youtube.com/channel/UCNqNkZ7kKfqimqHkgbWMNYA)
-[天文史话 - YouTube](https://www.youtube.com/playlist?list=PLYtoePJQbGmicW5EiJeVIgz5a4Br99WwC)
+[Astronomy and Nature TV - YouTube](https://www.youtube.com/@RocketPlanet)
+[Sixty Symbols - YouTube](https://www.youtube.com/@sixtysymbols)
+[Launch Pad Astronomy - YouTube](https://www.youtube.com/@LaunchPadAstronomy)
 [Sabine Hossenfelder - YouTube](https://www.youtube.com/@SabineHossenfelder) Science without the Gobbledygook
 
 [Astronomers Get Their Wish, and the Hubble Crisis Gets Worse | Quanta Magazine](https://www.quantamagazine.org/astronomers-get-their-wish-and-the-hubble-crisis-gets-worse-20201217/)
@@ -56,7 +56,12 @@ tags:
 
 [二十分鐘講完宇宙的一生，從一切的開始到結束 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=iMntG5KjUmM)
 
+[Terence Tao on how we measure the cosmos | The Distance Ladder Part 1 - YouTube](https://www.youtube.com/watch?v=YdOXS_9_P4U)
+[How to measure the universe | The Cosmic Distance Ladder Part 2 - YouTube](https://www.youtube.com/watch?v=hFMaT9oRbs4)
+
 [James Webb Telescope FINALLY Proves Stephen Hawkings Multiverse Theory! - YouTube](https://www.youtube.com/watch?v=UM3lc1fvODc)
+
+[JWST Made a Cosmological Crisis Worse - YouTube](https://www.youtube.com/watch?v=SxcaeYdKTSA) different estimations of Hubble Constant
 
 PBS Space Time
 [Cosmology - YouTube](https://www.youtube.com/playlist?list=PLsPUh22kYmNAKCiGWtQ48yQVp7s-k0Os2)
@@ -272,6 +277,7 @@ Discovery With Andy
 [The Black Hole Bomb and Black Hole Civilizations - YouTube](https://www.youtube.com/watch?v=ulCdoCfw-bY)
 [Why Black Holes Could Delete The Universe – The Information Paradox - YouTube](https://www.youtube.com/watch?v=yWO-cvGETRQ)
 
+[宇宙中最難以理解的「點」！物理定律在此完全崩壞？如果到達黑洞裡面的奇異點，到底會發生什麼？｜量子熊 ✕ 泛科學 EP17 - YouTube](https://www.youtube.com/watch?v=42B87aIalic)
 [穿越黑洞到另一頭會發生什麼？一個實驗告訴你答案「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=NosNMH2tUZU)
 [黑洞的五种形态！颠覆认知的宇宙生死观 - YouTube](https://www.youtube.com/watch?v=MDFdCWbzKgs)
 [史上最神秘天体！宇宙大爆炸竟然是白洞？ - YouTube](https://www.youtube.com/watch?v=qEyh5uZ4NYk)

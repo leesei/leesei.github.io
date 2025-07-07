@@ -2,13 +2,14 @@
 title: Call of Duty
 description: ""
 created: 2023-08-13
-updated: 2025-01-09
+updated: 2025-04-16
 tags:
   - cod
   - games
 ---
 
 [Call of Duty - Wikiwand](http://www.wikiwand.com/en/Call_of_Duty)
+[Call of Duty Wiki | Fandom](https://callofduty.fandom.com/wiki/Call_of_Duty_Wiki)
 [History of Call of Duty (2003 - 2019) - YouTube](https://www.youtube.com/watch?v=_I9l261A_fY)
 [The Dark & Bizzare Call of Duty Iceberg Explained - YouTube](https://www.youtube.com/watch?v=mZKIqKNimcU)
 [《使命召唤》系列剧情解说 - YouTube](https://www.youtube.com/playlist?list=PLr1fPJ7Kq0uZ00pFRWr7umCFIzuD5_3Nn)
@@ -26,7 +27,7 @@ Black Ops 3
 
 ## Call of Duty: Modern Warfare
 
-### Original
+### Original Trilogy
 
 MW1:
 US army attack on rebel group in middle-east, leading to a nuclear bomb attack; Task Force 141 tracked the rebel leader with Nikolai's intel, stopped Zakhaev plan to nuke the world, Gaz died, Russian army saved the day
@@ -44,7 +45,7 @@ Half of the campaign is a filler, Nikolai and Price saving wounded Soap, Makarov
 [【下飯專用】一口氣看完《現代戰爭三部曲》，一部關于背叛和複仇的遊戲電影 - YouTube](https://www.youtube.com/watch?v=RGTW0okKIyw)
 [《使命召唤：现代战争》三部曲系列故事 - YouTube](https://www.youtube.com/playlist?list=PLYV1uFh2z5idVJYyDxG-LaLDr7ji3A_r9)
 
-### Reboot
+### Reboot Trilogy
 
 Call of Duty: Modern Warfare has a soft reboot with MW in 2019, MW2 in 2022, MW3 in 2023
 
@@ -68,14 +69,17 @@ Call of Duty: Modern Warfare has a soft reboot with MW in 2019, MW2 in 2022, MW3
 
 [The Full Story of Call of Duty: Black Ops Explained - YouTube](https://www.youtube.com/watch?v=C4DeGm4clNc)
 [The FULL Story of the Call of Duty Black Ops Series Explained (WaW - BO6) - YouTube](https://www.youtube.com/watch?v=Wt2WVbk9pmI)
+[The Full Story of Call of Duty: Black Ops Explained - YouTube](https://www.youtube.com/watch?v=C4DeGm4clNc) WaW to BO6
 [The Complete Call Of Duty Black Ops Timeline! | The Leaderboard - YouTube](https://www.youtube.com/watch?v=VREdGycb_zs) WaW to BO6
-[Call of Duty: Black Ops Saga Story Summary (Updated!) - What You Need to Know! - YouTube](https://www.youtube.com/watch?v=ta-v3Kr5qC0) 1-3
+[The Complete Call of Duty Black Ops Story! - YouTube](https://www.youtube.com/watch?v=GJ-4gexfbd8) WaW to BO3
+[Call of Duty: Black Ops Saga Story Summary (Updated!) - What You Need to Know! - YouTube](https://www.youtube.com/watch?v=ta-v3Kr5qC0) BO1-BO3
 [The Story of Call of Duty: Black Ops [1945 - 2025] - YouTube](https://www.youtube.com/watch?v=5YweaEfNwMI)
 [The Mind-Bending Story of Black Ops 3 [2025 - 2070] - YouTube](https://www.youtube.com/watch?v=yNbA4OCWuDk)
 [【下飯專用】《黑色行動》全系列 - YouTube](https://www.youtube.com/watch?v=EZ57tACEv9A) WaW to BO3
+[【下飯專用】《黑色行動》全系列 - YouTube](https://www.youtube.com/watch?v=EZ57tACEv9A) WaW to BO3
 [《使命召唤21：黑色行动6》剧情解说：传奇特工回归，美国再陷危机 | 游戏剧情 | 游戏解说 - YouTube](https://www.youtube.com/watch?v=qweduYG1Jbw)
-[《決勝時刻：黑色行動 冷戰》究竟講了什麼樣的故事？ - YouTube](https://www.youtube.com/watch?v=A8wxVi_j7Cs)
 [從《使命召喚：黑色行動 4》看單機和多人的戰爭【就知道玩遊戲 37】 - YouTube](https://www.youtube.com/watch?v=8WWbVgs6ct8) no single player campaign
+[《決勝時刻：黑色行動 冷戰》究竟講了什麼樣的故事？ - YouTube](https://www.youtube.com/watch?v=A8wxVi_j7Cs)
 
 [History Teacher Explains Call of Duty: Black Ops 1 - YouTube](https://www.youtube.com/watch?v=egVIwRDNMn8)
 [History Teacher Explains Call of Duty: Black Ops 2 - YouTube](https://www.youtube.com/watch?v=yiicg3lbPmg)

@@ -2,7 +2,7 @@
 title: World War II
 description: ""
 created: 2015-06-07
-updated: 2025-01-09
+updated: 2025-02-04
 tags:
   - history
   - world-war
@@ -10,21 +10,6 @@ tags:
 
 [第二次世界大战 - Wikiwand](https://www.wikiwand.com/zh/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98)
 [World War II - Wikiwand](http://www.wikiwand.com/en/World_War_II)
-[BBC - World War Two](https://www.bbc.co.uk/programmes/p07nrbdn)
-[War Stories - YouTube](https://www.youtube.com/@WarStoriesChannel)
-[World War Two - YouTube](https://www.youtube.com/@WorldWarTwo)
-[The Operations Room - YouTube](https://www.youtube.com/@TheOperationsRoom) battles animated
-[Yarnhub - YouTube](https://www.youtube.com/@Yarnhub) battles animated
-[重返戰場 - YouTube](https://www.youtube.com/@BattleReplay)
-[二戰風雲戰役和人物 - YouTube](https://www.youtube.com/playlist?list=PLB1UN3q8P5XetxeLkF95RT4xsWMRBEU3A) 历史学
-[Historical videos. Missions that changed the world - YouTube](https://www.youtube.com/playlist?list=PLBI4gRjPKfnMKV7ukPXQJLHveKXNwbT80)
-
-[Imperial War Museums - YouTube](https://www.youtube.com/@ImperialWarMuseums)
-[Second World War Stories - YouTube](https://www.youtube.com/playlist?list=PLolzHiCNNbO_cFlnAjPpoTGUiPCnjcx9A)
-
-[The Fallen of World War II - Data-driven documentary about war & peace](http://www.fallen.io/ww2/)
-[World War II Every Day with Army Sizes - YouTube](https://www.youtube.com/watch?v=1CqGeAmVu1I)
-[World Wars History - YouTube](https://www.youtube.com/playlist?list=PLkaaNLbRcosmgRcLjkWVHW3jXAVEwn0GR)
 
 **_Allies_** vs **_Axis_**
 [Modern History of World: What are some cool/unusual facts about soldiers in WWI and WWII? - Quora](https://www.quora.com/Modern-History-of-World-What-are-some-cool-unusual-facts-about-soldiers-in-WWI-and-WWII)
@@ -50,8 +35,27 @@ USSR entered non-aggression pact with German in 1939. Even knowing German's plan
 [Why did Germany think that it could rule the world in 1941? - Quora](https://www.quora.com/Why-did-Germany-think-that-it-could-rule-the-world-in-1941)
 [石油！拖垮強大德軍裝甲部隊！為什麼希特勒不攻佔中東地區獲取石油？不缺石油的二戰德國有多可怕?#重返戰場 #二戰 #德國 #虎式坦克 #苏联 - YouTube](https://www.youtube.com/watch?v=usvUxtV8Sec)
 
+[BBC - World War Two](https://www.bbc.co.uk/programmes/p07nrbdn)
+[The Operations Room - YouTube](https://www.youtube.com/@TheOperationsRoom) battles animated
+[War Stories - YouTube](https://www.youtube.com/@WarStoriesChannel)
+[World War Two - YouTube](https://www.youtube.com/@WorldWarTwo)
+[Yarnhub - YouTube](https://www.youtube.com/@Yarnhub) battles animated
+[重返戰場 - YouTube](https://www.youtube.com/@BattleReplay)
+[Eastory - YouTube](https://www.youtube.com/@Eastory)
+[Montemayor - YouTube](https://www.youtube.com/@MontemayorChannel)
+
+[Imperial War Museums - YouTube](https://www.youtube.com/@ImperialWarMuseums)
+[Second World War Stories - YouTube](https://www.youtube.com/playlist?list=PLolzHiCNNbO_cFlnAjPpoTGUiPCnjcx9A)
+
+[二戰風雲戰役和人物 - YouTube](https://www.youtube.com/playlist?list=PLB1UN3q8P5XetxeLkF95RT4xsWMRBEU3A) 历史学
+[WORLD WAR 2 - YouTube](https://www.youtube.com/playlist?list=PLOJtsUMWwR9hJmZZjUg7aIpX0Fty-bGbj) Knowledgia
+[World Wars History - YouTube](https://www.youtube.com/playlist?list=PLkaaNLbRcosmgRcLjkWVHW3jXAVEwn0GR) LionHeart FilmWorks
 [WWII Documentaries - YouTube](https://www.youtube.com/playlist?list=PLD5JXdOMso1SjWDrQnZjkL1w3kRaIxOTE) collection
 [WWII - YouTube](https://www.youtube.com/playlist?list=PLpFIBvOQ0N1VXdMKlZeQ5F7eMOXUzkxhl) WarsofTheWorld
+[二战那些事儿 - YouTube](https://www.youtube.com/playlist?list=PLnzvH6pAJKSpwaA1h-0BbE320rQyhlSYb)
+LIFEANO CLUB
+[二戰系列 - 欣阳漫話 - YouTube](https://www.youtube.com/playlist?list=PL_T3JO9GtG28sqWEaGbbauFeleQj3KrtA)
+["Brilliant" plans to win World War II - YouTube](https://www.youtube.com/playlist?list=PL5ahI6AQBuJMCiZM2NLJdG6M2k9vXCN98) Eastory
 
 World at War
 [Apocalypse - Second World War Documentary - WW2 Documentary - YouTube](https://www.youtube.com/watch?v=nLLHyLzHIA0)
@@ -64,6 +68,10 @@ WarsofTheWorld
 [The Second World War: 1939 - 1945 | WWII Documentary: PART 1 - YouTube](https://www.youtube.com/watch?v=sqMmOJ0riCg)
 [The Second World War: 1939 - 1945 | WWII Documentary: PART 2 - YouTube](https://www.youtube.com/watch?v=tWjU5pidIME)
 
+Casualties
+[The Fallen of World War II - Data-driven documentary about war & peace](http://www.fallen.io/ww2/)
+[World War II Every Day with Army Sizes - YouTube](https://www.youtube.com/watch?v=1CqGeAmVu1I)
+
 [Best World War 2 Documentary Ever!! - YouTube](https://www.youtube.com/watch?v=qqXtXI274HM)
 [The Complete History of the Second World War | World War II Documentary | Part 1 - YouTube](https://www.youtube.com/watch?v=SPMBwSH3e58)
 [The Complete History of the Second World War | World War II Documentary | Part 2 - YouTube](https://www.youtube.com/watch?v=ECktl3jCK8o)
@@ -74,18 +82,11 @@ WarsofTheWorld
 [WW2 - OverSimplified (Part 2) - YouTube](https://www.youtube.com/watch?v=fo2Rb9h788s)
 [A History Teacher Reacts | Oversimplified - WW2 (Part 1) - YouTube](https://www.youtube.com/watch?v=--DFJ_rOXWo)
 [A History Teachers Reacts | Oversimplified - WW2 (Part 2) - YouTube](https://www.youtube.com/watch?v=32CKIbLTrXQ)
-[二战那些事儿 - YouTube](https://www.youtube.com/playlist?list=PLnzvH6pAJKSpwaA1h-0BbE320rQyhlSYb)
-[Eastory - YouTube](https://www.youtube.com/@Eastory)
-[Montemayor - YouTube](https://www.youtube.com/@MontemayorChannel)
-[二戰系列 - 欣阳漫話 - YouTube](https://www.youtube.com/playlist?list=PL_T3JO9GtG28sqWEaGbbauFeleQj3KrtA)
 
-["Brilliant" plans to win World War II - YouTube](https://www.youtube.com/playlist?list=PL5ahI6AQBuJMCiZM2NLJdG6M2k9vXCN98)
 [15 分鐘講完二次世界大戰 (簡史、重點、趣聞) - YouTube](https://www.youtube.com/watch?v=TqHD3Qo0Qec)
 [一口气看完 《第二次世界大战》完整版 Best World War II commentary - YouTube](https://www.youtube.com/watch?v=gj8s5Xdm7Hk)
 [二戰中的熊戰士：抽煙、喝酒、把妹，還能晉升下士……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=PhAmanpIA8U)
-
 [二戰敦刻爾克大逃亡：希特勒把40萬英法聯軍逼入絕境，卻為何停止進攻？「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=eB_iBBWcQQo)
-
 [朝核危機反思：二戰核攻擊日本前外交秘史（上） - BBC News 中文](https://www.bbc.com/zhongwen/trad/world-40911977)
 [朝核危機反思：二戰核攻擊日本前外交秘史（下） - BBC News 中文](https://www.bbc.com/zhongwen/trad/world-40988010)
 
@@ -132,6 +133,8 @@ Manhattan Project was the secret project to develop atomic (fission) bomb to end
 [How the Manhattan Project Worked | HowStuffWorks](http://science.howstuffworks.com/manhattan-project.htm/printable)
 [TechStuff Takes Manhattan (Project) - TechStuff (podcast)](https://player.fm/series/techstuff/techstuff-takes-manhattan-project)
 [The Manhattan Project Part One - TechStuff (podcast)](https://player.fm/series/techstuff/the-manhattan-project-part-one)
+
+[《奧本海默》是《哥吉拉》前傳？為何奧本海默總是滿眼內疚？或許，有關那段毀滅人類的完整故事，我們要從五個1900後說起……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=DG7d5lV7IS8)
 
 ## Napalm
 

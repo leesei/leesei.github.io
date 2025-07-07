@@ -2,7 +2,7 @@
 title: JavaScript
 description: ""
 created: 2014-12-11
-updated: 2025-01-09
+updated: 2025-04-01
 tags:
   - comp/lang
   - javascript
@@ -691,6 +691,7 @@ Class Inheritance: instances inherit from classes (like a blueprint — a de
 
 [An interesting kind of JavaScript memory leak - Meteor](https://www.meteor.com/blog/2013/08/13/an-interesting-kind-of-javascript-memory-leak)
 [4 Types of Memory Leaks in JavaScript and How to Get Rid Of Them](https://auth0.com/blog/2016/01/26/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/)
+[Avoiding Memory Leaks in Node.js: Best Practices for Performance | AppSignal Blog](https://blog.appsignal.com/2020/05/06/avoiding-memory-leaks-in-nodejs-best-practices-for-performance.html)
 
 [Memory leak patterns in JavaScript](http://www.ibm.com/developerworks/library/wa-memleak/)
 [Understand memory leaks in JavaScript applications](http://www.ibm.com/developerworks/library/wa-jsmemory/)

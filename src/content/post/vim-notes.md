@@ -2,7 +2,7 @@
 title: Vim notes
 description: A screen-oriented text editor originally created for the Unix operating system
 created: 2015-01-14
-updated: 2025-01-09
+updated: 2025-06-24
 tags:
   - app
   - shell-tool
@@ -16,9 +16,7 @@ tags:
 [Vim Tips Wiki | Fandom](https://vim.fandom.com/wiki/Vim_Tips_Wiki)
 
 [Vimcasts - Free screencasts about the text editor Vim](http://vimcasts.org/)
-[A guide to getting started with Vim](http://www.integralist.co.uk/posts/vim-1.html)
-[Vim Workflow](http://www.integralist.co.uk/posts/vim-2.html)
-[Vim Workflow (Part Deux)](http://www.integralist.co.uk/posts/vim-3.html)
+[Vim From Scratch](https://www.vimfromscratch.com/)
 [Vim workflows](http://mrmrs.io/writing/2013/12/21/vim-workflows/)
 [简明 Vim 练级攻略 | 酷 壳 - CoolShell.cn](http://coolshell.cn/articles/5426.html)
 [无插件 Vim 编程技巧 | 酷 壳 - CoolShell.cn](http://coolshell.cn/articles/11312.html)
@@ -30,11 +28,27 @@ tags:
 [50+ Vim Tips and Tricks from Beginner to Expert - YouTube](https://www.youtube.com/watch?v=ZEIpdC_klDI)
 [Vim Tips - YouTube](https://www.youtube.com/playlist?list=PL0tgH22U2S3GN7MdobsdWV44qw-P5g7RJ)
 
+[A guide to getting started with Vim](http://www.integralist.co.uk/posts/vim-1.html)
+[Vim Workflow](http://www.integralist.co.uk/posts/vim-2.html)
+[Vim Workflow (Part Deux)](http://www.integralist.co.uk/posts/vim-3.html)
+
+[Vim for Developers: Part 0 — Why Vim? | by David Ondrich | Level Up Coding](https://levelup.gitconnected.com/vim-for-developers-part-0-why-vim-95e68dc5d3a1)
+[Vim for Developers: Part 1 — The Basics | by David Ondrich | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/vim-for-developers-part-1-the-basics-663619ca122a)
+[Vim for Developers: Part 2 — Advanced Basics | by David Ondrich | The Startup | Medium](https://medium.com/swlh/vim-for-developers-part-2-advanced-basics-857c0dbda905)
+[Vim for Developers: Part 3— Advanced Vim | by David Ondrich | The Startup | Medium](https://medium.com/swlh/vim-for-developers-part-3-advanced-vim-6055081751bd)
+[Vim For Developers: Part 4 — Custom Configurations | by David Ondrich | Medium](https://medium.com/@dbo1093/vim-for-developers-part-4-custom-configurations-7f1db2f1ef3d)
+[Vim For Developers: Part 5— Plugins | by David Ondrich | Medium](https://medium.com/@dbo1093/vim-for-developers-part-5-plugins-41e36aff346a)
+
 [Learn Vim For the Last Time: A Tutorial and Primer - Daniel Miessler](https://danielmiessler.com/study/vim/)
 [How To Learn Vim: A Four Week Plan – Actualize – Medium](https://medium.com/actualize-network/how-to-learn-vim-a-four-week-plan-cd8b376a9b85)
 [vimtutor(1): Vim tutor - Linux man page](https://linux.die.net/man/1/vimtutor)
 
 [《Practical Vim》 - PegasusWang的读书笔记](https://pegasuswang.readthedocs.io/zh/latest/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/practical_vim/practical_vim/)
+
+[Andreas Grech's Blog: Vim](http://blog.dreasgrech.com/search/label/Vim)
+[Andreas Grech's Blog: Vim is like your average text editor...on steroids!](http://blog.dreasgrech.com/2009/11/vim-is-like-your-average-text-editoron.html)
+[Andreas Grech's Blog: Extending vim with the Expression Register](http://blog.dreasgrech.com/2010/06/extending-vim-with-expression-register.html)
+[Andreas Grech's Blog: Useful vim commands and snippets](http://blog.dreasgrech.com/2010/06/useful-vim-commands-and-snippets.html)
 
 [VimGolf - real Vim ninjas count every keystroke!](http://www.vimgolf.com/)
 [Learn VIM while playing a game - VIM Adventures](https://vim-adventures.com/)
@@ -92,9 +106,13 @@ Vim Motion is applicable in other editors (as vim mode or vim plugin)
   - `?<string>` search backward for string
   - `cs*tem>` change surrounding \* for the \<em> tag
   - `ysiw"` surround word under the cursor with quotes
+  - `^o`/`^i` previous/next cursor location
+  - `^b`/`^f` page up/down
+  - `^b`/`^f` ½ page up/down
 
 [Vim Cheat Sheet - English](https://vim.rtorr.com/)
 [vi-vim-cheat-sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
+[Vim cheatsheet](https://devhints.io/vim)
 
 [vim motions](https://www.phind.com/search?cache=588ad35e-8713-4f93-b0ba-6d0844af5f71)
 [Vim: motion.txt](https://vimhelp.org/motion.txt.html)
@@ -107,6 +125,10 @@ Vim Motion is applicable in other editors (as vim mode or vim plugin)
 [Vim Tutorial - YouTube](https://www.youtube.com/watch?v=IiwGbcd8S7I) 1:04:44
 [VIM ALPHABET - YouTube](https://www.youtube.com/playlist?list=PLnc_NxpmOxaNqdGvUg8RBi8ZTaZGPdqBD) chantastic
 
+## Vim Macro
+
+[Use Vim macros to automate frequent tasks](https://www.redhat.com/en/blog/use-vim-macros)
+
 ## VSCode
 
 [Vim - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) "Use system clipboard", "Enable EasyMotion"
@@ -116,6 +138,7 @@ Free up keys:
 [VS code VIM extension copy and paste - Stack Overflow](https://stackoverflow.com/questions/58306002/vs-code-vim-extension-copy-and-paste)
 [visual studio code - When I use Shift + Alt + UpArrow or DownArrow in VScode it goes into Multi-Cursor mode - Stack Overflow](https://stackoverflow.com/questions/69939030/when-i-use-shift-alt-uparrow-or-downarrow-in-vscode-it-goes-into-multi-curso)
 
+[Learn Vim - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=vintharas.learn-vim)
 [Boost Your Coding Fu With VSCode and Vim - The Book | Barbarian Meets Coding](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim)
 [Boost Your Coding Fu With VSCode and Vim - Table Of Contents | Barbarian Meets Coding](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/table-of-contents)
 [Boost Your Coding Fu With VSCode and Vim - Cheatsheet | Barbarian Meets Coding](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/cheatsheet/)

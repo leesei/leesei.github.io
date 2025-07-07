@@ -2,7 +2,7 @@
 title: Computer Memory
 description: ""
 created: 2016-04-26
-updated: 2025-01-09
+updated: 2025-06-30
 tags:
   - comp/hardware
   - ddr
@@ -17,6 +17,16 @@ tags:
 [Everything You Need To Know About DDR, DDR2 and DDR3 Memories - Hardware Secrets](http://www.hardwaresecrets.com/everything-you-need-to-know-about-ddr-ddr2-and-ddr3-memories/)
 [Laptop DDR4 caveats - x8 layout versus x16 versus single and dual channel](https://rk.edu.pl/en/laptop-ddr4-caveats-x8-layout-versus-x16-versus-single-and-dual-channel/) channels, x8 and x16 layout
 
+## History
+
+[DRAM 記憶體 60 年 : 最殘酷的半導體戰爭【DRAM 進化史】 - YouTube](https://www.youtube.com/watch?v=eB8SdLQNAmc)
+
+### Magnetic Core Memory
+
+[Magnetic Core Memory From Soviet Russia - YouTube](https://www.youtube.com/shorts/mrBz9-9qgGw)
+[Core Memory Explained and Demonstrated - YouTube](https://www.youtube.com/watch?v=AwsInQLmjXc)
+[Apollo Core Rope Memory (Apollo Guidance Computer Part 30) - YouTube](https://www.youtube.com/watch?v=hckwxq8rnr0)
+
 ## Timing/Latency
 
 true latency
@@ -28,6 +38,7 @@ true latency
 [Why I get NO POST with XMP??? 👉 ULTIMATE RAM + XMP Guide - YouTube](https://www.youtube.com/watch?v=wzVZgTP2204) How Rank, Density and Population affects transfer rate (in that order)
 
 AMD's EXPO (for DDR5 on AM5) allow modules to run at lower clock speed upon idle (voltage won't change as of 2024-10)
+[What Is AMD EXPO and How Does It Compare to Intel's XMP?](https://www.makeuseof.com/what-is-amd-expo/)
 
 [Don't waste money chasing RAM speed for gaming on AMD or Intel | PC Gamer](https://www.pcgamer.com/does-ram-speed-matter-gaming-amd-intel/) DDR4@3600MHz is still the sweet spot in 2022
 
@@ -57,6 +68,7 @@ latency is more crucial
 [DDR5 is FINALLY HERE... and I've got it - YouTube](https://www.youtube.com/watch?v=aJEq7H4Wf6U)
 [DDR5 導讀~邁入新世代記憶體 DDR5 入門篇 - YouTube](https://www.youtube.com/watch?v=cKqq4O7qVTU)
 [DDR5進階必懂篇~什麼是JEDEC規範?什麼是POR頻率?為什麼DDR5電壓有1.435V限制?常見電壓破解又是怎麼一回事?? - YouTube](https://www.youtube.com/watch?v=0hookxhPyjI)
+[不建议插满4根DDR5，主板为啥要设计4个内存插槽？【差评君】Why does the motherboard have 4 memory slots? - YouTube](https://www.youtube.com/watch?v=kTEEV6FlnBg)
 
 ## CAMM2
 

@@ -2,7 +2,7 @@
 title: Remote Desktop
 description: ""
 created: 2016-07-15
-updated: 2025-01-09
+updated: 2025-06-24
 tags:
   - app
 ---
@@ -13,6 +13,7 @@ tags:
 
 [Virtual Network Computing - Wikiwand](https://www.wikiwand.com/en/Virtual_Network_Computing)
 [TightVNC: VNC-Compatible Free Remote Control / Remote Desktop Software](http://www.tightvnc.com/)
+[Free VNC Viewer for Windows, Mac, Android and iOS - Remote Ripple](https://remoteripple.com/) based on TightVNC
 
 [Remote Desktop Protocol - Wikiwand](https://www.wikiwand.com/en/Remote_Desktop_Protocol)
 [Remmina | Remote Desktop Client for Linux](http://www.remmina.org/wp/)

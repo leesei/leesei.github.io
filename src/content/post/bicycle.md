@@ -2,7 +2,7 @@
 title: Bicycle
 description: ""
 created: 2015-12-04
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - bicycle
   - science
@@ -13,7 +13,7 @@ tags:
 [自行車的源頭是火山爆發？天使也會騎單車？俄皇強推，從貴族玩具到代步工具，自行車經歷了怎樣的故事......｜總裁聊聊 - YouTube](https://www.youtube.com/watch?v=pLTheQHj_hY)
 [几百块和几万块的自行车真有区别吗？自行车好玩在哪里？Is there really a difference between bikes at different prices? - YouTube](https://www.youtube.com/watch?v=pF-B9H85MFg)
 
-[Global Cycling Network - YouTube](https://www.youtube.com/channel/UCuTaETsuCOkJ0H_GAztWt0Q)
+[Global Cycling Network - YouTube](https://www.youtube.com/@gcn)
 [GCN's Guide To Buying Your First Road Bike - YouTube](https://www.youtube.com/watch?v=_T7NTe3uBN4)
 
 ### Shimano Groupsets

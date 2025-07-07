@@ -2,7 +2,7 @@
 title: Web Socket
 description: ""
 created: 2024-03-12
-updated: 2025-01-09
+updated: 2025-03-05
 tags:
   - comp/lang
   - rpc/web-socket
@@ -85,8 +85,8 @@ const app = require("http").createServer(handler);
 
 [Introduction to WAMP, a protocol enabling PUB/SUB and RPC over Websoc…](https://www.slideshare.net/sametmax/intro-wamp)
 
-[Crossbar.io](https://crossbar.io/) Server
-[Crossbar.io - autobahn](https://crossbar.io/autobahn/) Client
+[Site Contents — autobahn documentation](https://autobahn.readthedocs.io/en/latest/contents.html)
+[crossbario/autobahn-testsuite: Autobahn WebSocket protocol testsuite](https://github.com/crossbario/autobahn-testsuite)
 
 ## Socket.io
 

@@ -2,7 +2,7 @@
 title: Chip Making
 description: ""
 created: 2023-06-13
-updated: 2025-01-09
+updated: 2025-07-06
 tags:
   - comp/hardware
   - manufacturing
@@ -17,6 +17,7 @@ tags:
 
 [Semiconductor device fabrication - Wikiwand](https://www.wikiwand.com/en/articles/Semiconductor_device_fabrication)
 [Why making chips is so hard - YouTube](https://www.youtube.com/watch?v=CkNn98WE5_k)
+[半導體 - YouTube](https://www.youtube.com/playlist?list=PLBbGP5YXTYgknNgVZX3oQ7yRnxk_XslFe) PanSci
 
 [How are Microchips Made? - YouTube](https://www.youtube.com/watch?v=dX9CGRZwD-w)
 [How are microchips made? - YouTube](https://www.youtube.com/watch?v=g8Qav3vIv9s)
@@ -24,9 +25,19 @@ tags:
 [From Sand to Silicon: the Making of a Chip | Intel - YouTube](https://www.youtube.com/watch?v=Q5paWn7bFg4)
 [From Sand to Silicon: The Making of a Microchip | Intel - YouTube](https://www.youtube.com/watch?v=_VMYPLXnd7E)
 [Intel: The Making of a Chip with 22nm/3D Transistors | Intel - YouTube](https://www.youtube.com/watch?v=d9SWNLZvA8g)
+[Semiconductors Explained - YouTube](https://www.youtube.com/playlist?list=PL9jh-CW6ZfSW3Ehx-rTy60sKwZ5_ezsZ7) Samsung Semiconductor Newsroom
 [The Amazing, Humble Silicon Wafer - YouTube](https://www.youtube.com/watch?v=sIRfWyyOFPg)
 [日美科技战：半导体巅峰之争背后的秘密 - YouTube](https://www.youtube.com/watch?v=FwXQSQcyWGQ)
 [I Can Die Now. - YouTube](https://www.youtube.com/watch?v=2ehSCWoaOqQ) 2022, Intel Israel Fab
+
+[【全网最深度解读】小米玄戒O1：一场输不起的芯片战争 - YouTube](https://www.youtube.com/watch?v=xEF4RkMvMMQ)
+
+- spec and architecture definition
+  define performance, power and cost requirements
+- frontend design
+  RTL functional design
+- backend design
+  RTL -> physical design with EDA tools, physical and electrical integrity
 
 硬件茶谈
 [【硬件科普】带你认识 CPU 第 00 期——什么是 MOSFET - YouTube](https://www.youtube.com/watch?v=P91wpwVGH6M)
@@ -82,6 +93,7 @@ tags:
 
 [Transistors - The Invention That Changed The World - YouTube](https://www.youtube.com/watch?v=OwS9aTE2Go4)
 [Transistors Explained - How transistors work - YouTube](https://www.youtube.com/watch?v=J4oO7PT_nzQ)
+[Incredible Engineering- Inventing the Transistor - YouTube](https://www.youtube.com/watch?v=YUJ3FTb3Bf0)
 
 [MOSFET - Wikiwand](https://www.wikiwand.com/en/MOSFET)
 [CMOS - Wikiwand](https://www.wikiwand.com/en/CMOS) Complementary MOSFET
@@ -136,6 +148,8 @@ Transistor density is better measure
 [Intel 10nm Delay Explained & AMD's "7nm" | Ft. David Kanter - YouTube](https://www.youtube.com/watch?v=dtiBEHH7mEA)
 [Intel Ditches "Nanometers," Renames 10nm to "7" & 7nm to "4" - YouTube](https://www.youtube.com/watch?v=wxKGFxmwcDo)
 [14nm and 7nm are NOT what you think it is - Visiting Tescan Part 3/3 - YouTube](https://www.youtube.com/watch?v=1kQUXpZpLXI)
+[2nm 先進製程 Nanosheet 是怎麼從 1947 年點接觸式電晶體演化過來的？【電晶體進化史 1947 - 2025】 - YouTube](https://www.youtube.com/watch?v=IOwc-llJxVQ)
+[放大20万倍,这是3纳米芯片最深层的秘密【玄戒O1解剖报告】 - YouTube](https://www.youtube.com/watch?v=Q9oJnTmpMg8)
 
 [Next-Gen CPUs/GPUs have a HUGE problem! - YouTube](https://www.youtube.com/watch?v=vQ5JPqeFitM) SRAM for cache does not scale with process node, and next-gen CPUs/GPUs are using larger cache => greatly increased price; chiplet/tile design help ease this problem for the core and cache can be using different process node
 
@@ -174,7 +188,11 @@ GAA/RibbonFET is used for nodes < 3nm
 - Chip scale packaging: package with a die occupying > 80% of the total packaging area
   - Wafer Level Package: die interconnects are hooked up before being cut out of the wafer
 - Advanced Packaging
+  wire bonding and grid array uses larger area and have high latency
   chiplets, multi chip modules, hybrid circuits, system in packages, mixing process nodes; TSMC SoIC, 3D IC (different chips stacked), 2.5D IC (chip stacked on interposer)
+
+System-in-Package (SiP): packaging multiple dies and passive components (with prelim packaging) in a single package
+System-on-Chip (SoC): Multiple (naked) chips cut from wafer are integrated to the same substrate
 
 [Redistribution Layers (RDLs) - Semiconductor Engineering](https://semiengineering.com/knowledge_centers/packaging/redistribution-layers-rdls/)
 [IC Packaging | 3D IC | Cadence](https://resources.pcb.cadence.com/ic-packaging)
@@ -205,6 +223,8 @@ GAA/RibbonFET is used for nodes < 3nm
 [Advanced Packaging Part 2 - Review Of Options/Use From Intel, TSMC, Samsung, AMD, ASE, Sony, Micron, SKHynix, YMTC, Tesla, and Nvidia](https://www.semianalysis.com/p/advanced-packaging-part-2-review)
 [Advanced Packaging Part 3 – Intel’s Curious Bet on Thermocompression Bonding, ASM Pacific, Kulicke and Soffa, and Besi TCB Tool Landscape](https://www.semianalysis.com/p/advanced-packaging-part-3-intels)
 [The Future Of Packaging Gets Blurry – Fanouts, ABF, Organic Interposers, Embedded Bridges – Advanced Packaging Part 4](https://www.semianalysis.com/p/the-future-of-packaging-gets-blurry)
+
+[靠「封裝」超越摩爾定律極限？CoWoS 是什麼？蘋果Ｍ系晶片為什麼小又快？台積電的先進封裝聯盟！ - YouTube](https://www.youtube.com/watch?v=MjYBkQ5_uxs)
 
 ### Backside Power Delivery
 

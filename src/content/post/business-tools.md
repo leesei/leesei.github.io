@@ -2,7 +2,7 @@
 title: Business Tools
 description: ""
 created: 2018-10-27
-updated: 2025-01-09
+updated: 2025-04-05
 tags:
   - business
 ---
@@ -14,7 +14,7 @@ tags:
 [Mattermost Integrations - Powerful integrations to help your team do better work, faster.](https://integrations.mattermost.com/#privateApps)
 [Zulip: Open-source team chat with topic-based threading](https://zulip.com/)
 
-[LivingWithPixels - YouTube](https://www.youtube.com/channel/UC4rBpJF855RQuO8PrUVb68g) web design and hosting
+[Rino de Boer - YouTube](https://www.youtube.com/@rinodeboer) web design and hosting
 
 [[email]]
 
@@ -155,6 +155,7 @@ tags:
 [n8n.io - Free and Open Workflow Automation Tool](https://n8n.io/)
 [n8n-io/n8n: Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.](https://github.com/n8n-io/n8n)
 [n8n - an open source, self hosted info transform & workflow automation tool w/ drag and drop ease. - YouTube](https://www.youtube.com/watch?v=lpRsqiBc2JQ)
+[我找到了最好用的AI工作流工具 看完就懂 - YouTube](https://www.youtube.com/watch?v=31fHVMs6PVE)
 
 ## SMS Reception
 
@@ -400,7 +401,7 @@ Better for creating new file
 
 ### iCalendar
 
-[RFC 5545 - Internet Calendaring and Scheduling Core Object Specification (iCalendar)](https://tools.ietf.org/html/rfc5545)
+[RFC 5545 - Internet Calendaring and Scheduling Core Object Specification (iCalendar)](https://datatracker.ietf.org/doc/html/rfc5545)
 
 `ics`
 [Ics.py : iCalendar for Humans — ics.py documentation](https://icspy.readthedocs.io/en/stable/)

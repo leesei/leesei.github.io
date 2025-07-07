@@ -2,7 +2,7 @@
 title: Color
 description: ""
 created: 2014-12-17
-updated: 2025-01-09
+updated: 2025-07-06
 tags:
   - color-palette
   - colorspace
@@ -124,6 +124,9 @@ Light source, Color Rendering Index
 
 [https://xkcd.com/color/rgb/](https://xkcd.com/color/rgb/) HTML color names
 
+HTML will turn any string into color
+[My favourite colour is Chuck Norris red - HTMHell](https://web.archive.org/web/20250215211846/https://htmhell.dev/adventcalendar/2024/20/)
+
 ### Pigments
 
 [How We Make (and Made) Color - [A Collaboration with Google Arts and Culture] - YouTube](https://www.youtube.com/watch?v=hTZbrRaO2q8)
@@ -169,6 +172,7 @@ Workspace in full colorspace (Adobe RGB) to prevent clipping (overflow/underflow
 [Color Spaces for Human Beings - Alexei Boronine](https://www.boronine.com/2012/03/26/Color-Spaces-for-Human-Beings/)
 [A perceptual color space for image processing](https://bottosson.github.io/posts/oklab/) OKLAB
 [Abney effect - Wikiwand / articles](https://www.wikiwand.com/en/articles/Abney_effect)
+[cICP in PNG, explained • Chris Lilley](https://svgees.us/blog/cICP.html)
 
 HSL_UV => LCH, OKLCH, perceptually uniform
 HSL (RGB) => LAB, OKLAB, negative number, Abney effect

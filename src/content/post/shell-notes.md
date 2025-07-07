@@ -2,7 +2,7 @@
 title: Shell notes
 description: ""
 created: 2014-12-08
-updated: 2025-01-09
+updated: 2025-02-16
 tags:
   - linux
   - shell
@@ -260,7 +260,7 @@ exec $PROG "${ARGS[@]}"
 node --harmonic "$@"
 ```
 
-Use `-s` to pass extra arguments
+Use `-S` to pass extra arguments
 
 ```py
 #!/usr/bin/env -S python3 -i

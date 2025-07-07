@@ -2,7 +2,7 @@
 title: Database
 description: ""
 created: 2015-08-03
-updated: 2025-01-09
+updated: 2025-06-27
 tags:
   - comp/database
 ---
@@ -475,8 +475,6 @@ The first three supports relationship by a second index lookup, `JOIN`-like oper
 [FastoNoSQL - cross-platform GUI Manager for Redis, Memcached, SSDB, LevelDB, RocksDB, LMDB, Unqlite, ForestDB, Pika, Dynomite and KeyDB databases.](https://fastonosql.com/)
 [fastogt/fastonosql: FastoNoSQL is a crossplatform Redis, Memcached, SSDB, LevelDB, RocksDB, UnQLite, LMDB, ForestDB, Pika, Dynomite, KeyDB GUI management tool.](https://github.com/fastogt/fastonosql/)
 
-[db<>fiddle](https://dbfiddle.uk/) SQL fiddle
-
 ---
 
 # Key-Value Database
@@ -534,7 +532,7 @@ The first three supports relationship by a second index lookup, `JOIN`-like oper
 
 ### Ecosystem
 
-[rbmkio/radish: Desktop client for Redis (Windows, MacOS, Linux)](https://github.com/rbmkio/radish)
+[rbmkio/radish: Desktop client for Redis (Windows, macOS, Linux)](https://github.com/rbmkio/radish)
 
 [Introduction · Hydra](https://www.hydramicroservice.com/) using Redis as message queue
 [fetlife/redis-analyzer: Redis Memory Analyzer written in Rust](https://github.com/fetlife/redis-analyzer)
@@ -549,15 +547,16 @@ The first three supports relationship by a second index lookup, `JOIN`-like oper
 
 ## Valkey
 
-> Redis cmmpatible, forked from 7.2.4
+> Redis compatible, forked from 7.2.4
 
 [valkey-io/valkey: A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.](https://github.com/valkey-io/valkey)
 
+[Stop Using Redis. Use Open Source Instead - YouTube](https://www.youtube.com/watch?v=npnagMgbruc)
 [Linux Foundation Launches Open Source Valkey Community](https://www.linuxfoundation.org/press/linux-foundation-launches-open-source-valkey-community)
 
 ## Garnet
 
-> Redis cmmpatible, written in C#
+> Redis compatible, written in C#
 
 [Hello from Garnet | Garnet](https://microsoft.github.io/garnet/)
 [microsoft/garnet: Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.](https://github.com/microsoft/garnet)
@@ -1199,6 +1198,15 @@ CockroachDB is a cloud-native SQL database for building global, scalable cloud s
 [Open source SQL database CockroachDB hits 1.0 | InfoWorld](http://www.infoworld.com/article/3195773/database/open-source-sql-database-cockroachdb-hits-10.html)
 [Be Flexible & Consistent: JSON Comes to CockroachDB | Cockroach Labs](https://www.cockroachlabs.com/blog/json-coming-to-cockroach/)
 
+## SpacetimeDB
+
+> built for MMORPG
+
+[SpacetimeDB](https://spacetimedb.com/)
+[clockworklabs/SpacetimeDB: Multiplayer at the speed of light](https://github.com/clockworklabs/SpacetimeDB)
+
+[A breakthrough in game dev - SpacetimeDB 1.0 - YouTube](https://www.youtube.com/watch?v=kzDnA_EVhTU)
+
 ## TiDB
 
 [Home| PingCAP](https://pingcap.com/en/)
@@ -1395,6 +1403,8 @@ VoltDB
 # DBaaS
 
 [PlanetScale Pricing](https://planetscale.com/pricing) MySQL-compatible, with free tier
+
+[Connves | Plans and Pricing](https://www.convex.dev/pricing) with free tier
 
 [Pricing | Cockroach Labs](https://www.cockroachlabs.com/pricing/) distributed SQL, with free tier
 

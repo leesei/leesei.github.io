@@ -2,7 +2,7 @@
 title: Hostinger
 description: ""
 created: 2021-05-10
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - web
 ---
@@ -18,7 +18,7 @@ tags:
 
 [Hostinger Tutorials](https://www.hostinger.com/tutorials/)
 [Hostinger Help Center](https://support.hostinger.com/en/) KB
-[Hostinger Academy - YouTube](https://www.youtube.com/channel/UCbNIC-svDbtUOH2qsLnPQPg)
+[Hostinger Academy - YouTube](https://www.youtube.com/@HostingerAcademy)
 
 [Hostinger Web Hosting Plans: How to Choose the Right One for You](https://www.hostinger.com/tutorials/how-to-choose-web-hosting-plan)
 [Pricing of Web Hosting, VPS & Cloud Hosting - Plans to Choose From](https://www.hostinger.com/pricing)

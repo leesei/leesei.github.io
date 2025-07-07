@@ -2,7 +2,7 @@
 title: Backus–Naur Form (BNF)
 description: ""
 created: 2015-04-13
-updated: 2025-01-09
+updated: 2025-02-16
 tags:
   - bnf
   - comp/lang
@@ -17,7 +17,7 @@ tags:
 
 [1. Introduction — Python documentation](https://docs.python.org/3/reference/introduction.html#notation)
 
-IETF defines [Augmented BNF (ABNF)](http://tools.ietf.org/html/rfc5234) to be used in RFC documents.
+IETF defines [Augmented BNF (ABNF)](https://datatracker.ietf.org/doc/html/rfc5234) to be used in RFC documents.
 
 [BNF and EBNF: What are they and how do they work?](http://www.garshol.priv.no/download/text/bnf.html)
 [Grammar: The language of languages (BNF, EBNF, ABNF and more)](http://matt.might.net/articles/grammars-bnf-ebnf/)

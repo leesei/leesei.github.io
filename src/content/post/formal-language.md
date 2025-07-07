@@ -2,7 +2,7 @@
 title: Formal Language
 description: ""
 created: 2019-06-18
-updated: 2025-01-09
+updated: 2025-05-14
 tags:
   - comp/lang
   - formal-language
@@ -97,6 +97,19 @@ antlr -Dlanguage=Go ./SuricataRuleLexer.g4 ./SuricataRuleParser.g4 -o parser -no
 [kach/nearley: 📜🔜🌲 Simple, fast, powerful parser toolkit for JavaScript.](https://github.com/kach/nearley)
 
 [Writing a parser - nearley.js - JS Parsing Toolkit](https://nearley.js.org/docs/grammar)
+
+## Lax/Yacc
+
+> replaced by Bison/Flex?
+
+[Lex (software) - Wikiwand](<https://www.wikiwand.com/en/articles/Lex_(software)>)
+[Yacc - Wikiwand](https://www.wikiwand.com/en/articles/Yacc)
+
+[编译原理工具系列(1)——lex | 楚权的世界](https://chuquan.me/2022/06/22/compiler-principle-tool-lex/)
+[编译原理工具系列(2)——yacc | 楚权的世界](https://chuquan.me/2022/07/10/compiler-principle-tool-yacc/)
+
+[Introduction to YACC | GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-yacc/)
+[凹语言版本 yacc 简介 - 以表达式解析为例 | 凹语言](https://wa-lang.org/smalltalk/st0021.html)
 
 ---
 

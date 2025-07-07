@@ -2,7 +2,7 @@
 title: Web Frontend Frameworks
 description: ""
 created: 2022-08-23
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - frontend
   - javascript
@@ -18,6 +18,8 @@ tags:
 [[solidjs]]
 [[svelte]]
 [[vuejs]]
+
+[JavaScript Frameworks in 2025 - YouTube](https://www.youtube.com/watch?v=TKcetuFoYU0)
 
 [Immutable User Interfaces (Lee Byron) - Full Stack Fest 2016 - YouTube](https://www.youtube.com/watch?v=pLvrZPSzHxo)
 [Marco Rogers: Finding Patterns Across Front-end Frameworks [JSConf2014] - YouTube](https://www.youtube.com/watch?v=Bp3Jy177NvU)
@@ -136,7 +138,7 @@ Considerations:
 
 [SAPUI5 vs. OpenUI5](https://help.sap.com/doc/saphelp_uiaddon20/2.05/en-US/59/82a9734748474aa8d4af9c3d8f31c0/content.htm)
 
-[OpenUI5 - YouTube](https://www.youtube.com/channel/UCOlLpeus2uAJhmxjKHHGTgA)
+[OpenUI5 - YouTube](https://www.youtube.com/@ui5videos)
 
 ## Window.js
 

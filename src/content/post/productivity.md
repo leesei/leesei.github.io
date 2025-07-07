@@ -2,22 +2,25 @@
 title: Productivity
 description: ""
 created: 2019-08-09
-updated: 2025-01-09
+updated: 2025-03-16
 tags:
   - trivia
 ---
 
 [An Overview of All the Essential Productivity Methods You Need to Know](https://www.makeuseof.com/essential-productivity-methods-you-need-to-know/)
 
-[What is GTD - Getting Things Done®](https://gettingthingsdone.com/what-is-gtd/)
-[Getting Things Done® - Inside OmniFocus](https://inside.omnifocus.com/gtd)
-[How I Use the GTD (Getting Things Done) Method to Conquer My Tasks](https://www.makeuseof.com/how-i-use-the-gtd-getting-things-done-method/)
-
 [Structured Procrastination](http://www.structuredprocrastination.com/)
 
 [Time management - Wikiwand](https://www.wikiwand.com/en/articles/Time_management)
 
 [How Task Batching Improved My Focus (and When It Didn’t)](https://www.makeuseof.com/how-task-batching-improved-my-focus/)
+[These 11 Productivity Methods Actually Worked for Me](https://www.makeuseof.com/productivity-methods-that-work/)
+
+## Getting Things Done/GTD
+
+[What is GTD - Getting Things Done®](https://gettingthingsdone.com/what-is-gtd/)
+[Getting Things Done® - Inside OmniFocus](https://inside.omnifocus.com/gtd)
+[How I Use the GTD (Getting Things Done) Method to Conquer My Tasks](https://www.makeuseof.com/how-i-use-the-gtd-getting-things-done-method/)
 
 ## Eisenhower Squares/Time Management Matrix
 
@@ -57,8 +60,6 @@ Stephen Covey 的 Time Management Matrix
 [doing - BrettTerpstra.com](https://brettterpstra.com/projects/doing/)
 
 [Stretchly - The break time reminder app](https://hovancik.net/stretchly/downloads/)
-
-[koekeishiya/skhd: Simple hotkey daemon for macOS](https://github.com/koekeishiya/skhd)
 
 ## On the Contrary
 

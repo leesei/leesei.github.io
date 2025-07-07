@@ -2,7 +2,7 @@
 title: Kindle
 description: ""
 created: 2016-04-08
-updated: 2025-01-09
+updated: 2025-04-14
 tags:
   - ebook
 ---
@@ -20,6 +20,7 @@ Compares E-Ink eBook readers
 [Introducing Kindle Oasis - Amazon Official Site - E-reader](http://www.amazon.com/New-Leather-Charging-High-Resolution-Includes/dp/B00REQKWGA)
 
 [![Comparison between Kindle versions (201604)](./_assets/kindle/kindle-comparison-201604.png)](./_assets/kindle/kindle-comparison-201604.png)
+[Kindle Models | Kindle Modding Wiki](https://kindlemodding.org/jailbreaking/kindle-models)
 
 [Kindle 2018 對比 : Kindle Paperwhite vs Kindle 8 vs Kindle Oasis - 發現好物 - 最新資訊 - 友和 YOHO - 網購電器及電子產品](https://www.yohohongkong.com/post/189-Kindle-2018-%E5%B0%8D%E6%AF%94-%3A-Kindle-Paperwhite-vs-Kindle-8-vs-Kindle-Oasis)
 [Kindle vs Kindle Paperwhite Comparison](http://www.whichtogo.com/kindle-paperwhite-vs-regular-kindle-touch-screen-e-reader)
@@ -42,9 +43,13 @@ Compares E-Ink eBook readers
 
 ## Jail-breaking
 
+[It's Time to Jailbreak Your Kindle. - YouTube](https://www.youtube.com/watch?v=Qtk7ERwlIAk)
+
+[Home | Kindle Modding Wiki](https://kindlemodding.org/)
 [Kindle ePub Hack: Installing FBReader on Kindle for ePub Support – FBKindle | The eBook Reader Blog](http://blog.the-ebook-reader.com/2011/05/17/kindle-epub-hack-installing-fbreader-on-kindle-for-epub-support-fbkindle/)
 [Installation on Kindle devices · koreader/koreader Wiki](https://github.com/koreader/koreader/wiki/Installation-on-Kindle-devices)
-[How to Jailbreak Kindle Paperwhite - 5.6.5 firmware version](http://www.epubor.com/how-to-jailbreak-kindle-paperwhite.html)
+[How to Jailbreak Kindle Paperwhite 2022](https://www.epubor.com/how-to-jailbreak-kindle-paperwhite.html)
 [Jailbreak Your Kindle for Dead Simple Screensaver Customization](http://www.howtogeek.com/howto/37424/jailbreak-your-kindle-for-dead-simple-screensaver-customization/)
 
-[koreader/koreader: An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Kindle, Kobo, PocketBook, Ubuntu Touch and Android devices](https://github.com/koreader/koreader)
+[KOReader](https://koreader.rocks/)
+[koreader/koreader: An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices](https://github.com/koreader/koreader)

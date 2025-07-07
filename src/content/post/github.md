@@ -2,7 +2,7 @@
 title: GitHub
 description: ""
 created: 2014-12-11
-updated: 2025-01-09
+updated: 2025-06-20
 tags:
   - app
   - git
@@ -151,6 +151,15 @@ rm -rf node_modules/gh-pages/.cache
 [GitHub Copilot for Developer Productivity Series' Articles - DEV Community](https://dev.to/blackgirlbytes/series/19058)
 
 [Copilot for VS Code - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Metatype.copilot-vscode)
+[Vibe coding with GitHub Copilot: Agent mode and MCP support rolling out to all VS Code users - The GitHub Blog](https://github.blog/news-insights/product-news/github-copilot-agent-mode-activated/)
+[Use MCP servers in VS Code (Preview)](https://code.visualstudio.com/docs/copilot/chat/mcp-servers)
+
+[GitHub Copilot Agent mode vs. Ask and Edit mode in VS Code – 4sysops](https://4sysops.com/archives/github-copilot-agent-mode-vs-ask-and-edit-mode-in-vs-code/)
+[What are GitHub Copilot instruction files? A simple usage example – 4sysops](https://4sysops.com/archives/what-are-github-copilot-instruction-files-a-simple-usage-example/)
+[What are GitHub Copilot prompt files? An MCP usage example – 4sysops](https://4sysops.com/archives/what-are-github-copilot-prompt-files-an-mcp-usage-example/)
+[What are VS Code chat participants, chat variables, and slash commands for GitHub Copilot? – 4sysops](https://4sysops.com/archives/what-are-vs-code-chat-participants-chat-variables-and-slash-commands-for-github-copilot/)
+[Install Microsoft Playwright MCP server in VS Code for AI-powered-browser automation in GitHub Copilot Agent Mode – 4sysops](https://4sysops.com/archives/install-microsoft-playwright-mcp-server-in-vs-code-for-ai-powered-browser-automation-in-github-copilot-agent-mode/)
+[New GitHub Copilot features in VS Code: custom chat modes, chat tool sets, undoing edits, and Simple Browser – 4sysops](https://4sysops.com/archives/new-github-copilot-features-in-vs-code-custom-chat-modes-chat-tool-sets-undoing-edits-and-simple-browser/)
 
 [Get Started with the Future of Coding: GitHub Copilot - YouTube](https://www.youtube.com/watch?v=Fi3AJZZregI)
 [CoPilot Review: My Thoughts After 6 Months - YouTube](https://www.youtube.com/watch?v=RDd71IUIgpg)

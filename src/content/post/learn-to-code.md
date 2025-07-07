@@ -2,7 +2,7 @@
 title: Learn to code
 description: Learn how to code
 created: 2014-12-08
-updated: 2025-01-09
+updated: 2025-05-27
 tags:
   - comp/lang
   - learning
@@ -17,6 +17,8 @@ tags:
 
 [[computer-fundamentals]]
 [[compiler]]
+
+[Compare career levels across companies with Levels.fyi](https://www.levels.fyi/)
 
 [Learn to Code the Slow Way | Boot.dev](https://blog.boot.dev/education/learn-to-code-the-slow-way/)
 [Why You Should Learn To Program the HARD WAY - YouTube](https://www.youtube.com/watch?v=DZkbDCSdC1Q)
@@ -238,7 +240,7 @@ Halstead Metrics -> Maintainability Index
 Stabilizer: randomizes layouts
 Causal Profiler (`coz`)
 
-## Pyroscope
+### Pyroscope
 
 > Profiler that support multiple languages
 
@@ -258,19 +260,7 @@ Causal Profiler (`coz`)
 
 [Fluent API - C# Refresh](https://www.codingame.com/playgrounds/52999/c-refresh/fluent-api)
 
-## ABI
-
-[Binary-code compatibility - Wikiwand](https://www.wikiwand.com/en/Binary-code_compatibility)
-Calling convention, what register of the CPU are used
-[What are Calling Conventions - CTF Handbook](https://ctf101.org/binary-exploitation/what-are-calling-conventions/)
-
-[Idiot's Guide to ABI Versioning - 250bpm](http://250bpm.com/blog:41)
-
-[20 ABI (Application Binary Interface) breaking changes every C++ developer should know](https://www.acodersjourney.com/20-abi-breaking-changes/)
-
-[do you know how "return" ACTUALLY works? (are you SURE?) - YouTube](https://www.youtube.com/watch?v=e46wHUjNDjE)
-
-### Pointer to implementation
+## Pointer to implementation
 
 [c++ - Why should the "PIMPL" idiom be used? - Stack Overflow](https://stackoverflow.com/questions/60570/why-should-the-pimpl-idiom-be-used)
 
@@ -336,6 +326,7 @@ Calling convention, what register of the CPU are used
 [Jacob Sorber - YouTube](https://www.youtube.com/@JacobSorber) C, embedded system
 [Dave's Garage - YouTube](https://www.youtube.com/@DavesGarage) C, Windows C, IoT
 [EfficLab - YouTube](https://www.youtube.com/@efficlab)
+[原子能 - YouTube](https://www.youtube.com/@yuan_zi_neng)
 
 [Topic:Computer programming - Wikiversity](https://en.wikiversity.org/wiki/Topic:Computer_programming)
 [10 Useful Sites for Learning How to Code](http://www.onextrapixel.com/2013/11/14/10-useful-sites-for-learning-how-to-code/)
@@ -407,6 +398,7 @@ Mostly paid contents:
 
 [Transform](https://transform.tools/)
 [CyberChef](https://gchq.github.io/CyberChef/)
+[corentinth/it-tools - Docker Image | Docker Hub](https://hub.docker.com/r/corentinth/it-tools)
 
 ### Loren Ipsum
 
@@ -804,8 +796,6 @@ you must speak C when communicating with kernel
 
 [a-z of programming languages - News, Features, and Slideshows - Computerworld](http://www.computerworld.com.au/tag/a-z-of-programming-languages/)
 
-[🚀 Demystifying memory management in modern programming languages | Technorage](https://deepu.tech/memory-management-in-programming/)
-
 [Reading files the hard way](https://fasterthanli.me/series/reading-files-the-hard-way)
 [ftrace: trace your kernel functions!](https://jvns.ca/blog/2017/03/19/getting-started-with-ftrace/)
 
@@ -832,6 +822,13 @@ Quines
 [rockstar : home](https://codewithrockstar.com/)
 
 [Quine (computing) - Wikiwand](<https://www.wikiwand.com/en/Quine_(computing)>) a program that prints itself
+[先有鸡还是先有蛋？递归与自我复制悖论 #递归 #自我复制悖论 - YouTube](https://www.youtube.com/watch?v=vdZr-O3nTPY)
+
+## Creating a New Language
+
+[[formal-language]]
+
+[Table of Contents · Crafting Interpreters](https://craftinginterpreters.com/contents.html)
 
 ## Abstract Syntax Tree (AST)
 
@@ -971,6 +968,7 @@ Google's langauge for replacing C
 [carbon-language/carbon-lang: Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)](https://github.com/carbon-language/carbon-lang)
 [Carbon (programming language) - Wikiwand](<https://www.wikiwand.com/en/Carbon_(programming_language)>)
 
+[Carbon: (C++)++ ? Can Carbon De-Throne C++? - Computerphile - YouTube](https://www.youtube.com/watch?v=t6amG00HQuo)
 [Carbon Language: An experimental successor to C++ - Chandler Carruth - CppNorth 2022 - YouTube](https://www.youtube.com/watch?v=omrY53kbVoA)
 [Carbon Language Successor Strategy: From C++ Interop to Memory Safety - Chandler Carruth - CppNow 23 - YouTube](https://www.youtube.com/watch?v=1ZTJ9omXOQ0) ❗!important, 58:21 bugs, safety and vulnerability
 [Carbon Lang… The C++ killer? - YouTube](https://www.youtube.com/watch?v=-bHK0qmp06c)

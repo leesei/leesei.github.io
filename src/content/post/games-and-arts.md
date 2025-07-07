@@ -2,7 +2,7 @@
 title: Games and Arts
 description: ""
 created: 2015-08-01
-updated: 2025-01-09
+updated: 2025-07-06
 tags:
   - games
 ---
@@ -58,8 +58,8 @@ And [Stanley Parable](http://store.steampowered.com/app/221910/), which a narrat
 [Miniboss • Pixel art tutorials](https://blog.studiominiboss.com/pixelart)
 
 [MarcoValeKaz - YouTube](https://www.youtube.com/@MarcoValeKaz)
-[Pixel Overload - YouTube](https://www.youtube.com/channel/UCAfpcnw3DvpcggcHKos_mvQ)
-[Pixel Pete (Peter Milko) - YouTube](https://www.youtube.com/channel/UC7OO80qJzGTLOj_6-0dmOiA)
+[Pixel Overload - YouTube](https://www.youtube.com/@PixelOverloadChannel)
+[Pixel Pete (Peter Milko) - YouTube](https://www.youtube.com/@PeterMilko)
 [10 most common pixelart mistakes by beginners - YouTube](https://www.youtube.com/watch?v=R44hZgtqMI8)
 
 [So you wanna make pixel art - General guide for ART 464 - YouTube](https://www.youtube.com/watch?v=wdz2IIuTBbs) Paint.NET
@@ -99,20 +99,12 @@ And [Stanley Parable](http://store.steampowered.com/app/221910/), which a narrat
 
 [38 Best pixel art / sprite editors as of 2021 - Slant](https://www.slant.co/topics/1547/~best-pixel-art-sprite-editors)
 
-[LibreSprite](https://libresprite.github.io/#!/)
-[LibreSprite/LibreSprite: Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite](https://github.com/LibreSprite/LibreSprite)
+[Pixel Studio - pixel art editor on Steam](https://store.steampowered.com/app/1204050/Pixel_Studio__pixel_art_editor/)
 
 [pixi | Pixel art editor made with Zig.](https://foxnne.github.io/pixi/)
 [foxnne/pixi: Pixel art editor made with Zig.](https://github.com/foxnne/pixi)
 
 [Pyxel Edit: pixel art and tileset creation tool](https://pyxeledit.com/)
-
-#### GraphicsGale
-
-[Animation Graphic Editor - GraphicsGale](https://graphicsgale.com/us/)
-
-[Pixel Art - Pinnguaq](https://pinnguaq.com/learn/pixel-art/)
-[Pixel Art With GraphicsGale - YouTube](https://www.youtube.com/watch?v=3dSspGMI7d4)
 
 #### Aseprite
 
@@ -122,6 +114,36 @@ And [Stanley Parable](http://store.steampowered.com/app/221910/), which a narrat
 [Aseprite -- Sprite Editor and Animation Tool - YouTube](https://www.youtube.com/watch?v=pi6Kx4TPO2o)
 [Aseprite Guide for Beginners (Pixelart Tutorial) - YouTube](https://www.youtube.com/watch?v=Md6W79jtLJM)
 [Aseprite Tutorial For Beginners (Pixel Art) - YouTube](https://www.youtube.com/watch?v=tFsETEP01k8)
+
+[Aseprite - Docs - Extensions](https://www.aseprite.org/docs/extensions/)
+[Aseprite - Api - Plugin](https://aseprite.org/api/plugin)
+[juanpaexpedite/AsepritePlugins: Plugins for Aseprite](https://github.com/juanpaexpedite/AsepritePlugins)
+[Latest Scripts & Extensions topics - Aseprite Community](https://community.aseprite.org/c/scripts/13)
+[Recommended must-have extensions? : r/aseprite](https://www.reddit.com/r/aseprite/comments/11908i1/recommended_musthave_extensions/)
+[Three AWESOME must have ASEPRITE extensions - YouTube](https://www.youtube.com/watch?v=mfUnB-yq53w)
+[Aseprite extensions - Collection by now_its_dark - itch.io](https://itch.io/c/1026445/aseprite-extensions)
+
+- 1PointHelper
+- Color Shading
+- Glass Floor
+- Stroke Outside Selection
+
+#### LibreSprite
+
+[LibreSprite](https://libresprite.github.io/#!/)
+[LibreSprite/LibreSprite: Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite](https://github.com/LibreSprite/LibreSprite)
+
+#### Pixel Composer
+
+[Pixel Composer](https://pixel-composer.com/)
+[Pixel Composer on Steam](https://store.steampowered.com/app/2299510/Pixel_Composer/)
+
+#### GraphicsGale
+
+[Animation Graphic Editor - GraphicsGale](https://graphicsgale.com/us/)
+
+[Pixel Art - Pinnguaq](https://pinnguaq.com/learn/pixel-art/)
+[Pixel Art With GraphicsGale - YouTube](https://www.youtube.com/watch?v=3dSspGMI7d4)
 
 #### Piskel
 

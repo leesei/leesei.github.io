@@ -2,7 +2,7 @@
 title: Node.js
 description: ""
 created: 2014-12-11
-updated: 2025-01-09
+updated: 2025-06-27
 tags:
   - comp/lang
   - javascript/runtime
@@ -112,7 +112,7 @@ Obsoleted:
 
 [piscinajs/piscina: A fast, efficient Node.js Worker Thread Pool implementation](https://github.com/piscinajs/piscina)
 
-[only half of the cores can be made busy on MacOS, ever · Issue #38629 · nodejs/node](https://github.com/nodejs/node/issues/38629)
+[only half of the cores can be made busy on macOS, ever · Issue #38629 · nodejs/node](https://github.com/nodejs/node/issues/38629)
 
 ## async_hook
 
@@ -178,6 +178,7 @@ See [leesei/openslide-prop2json](https://github.com/leesei/openslide-prop2json).
 
 [nlf/spit](https://github.com/nlf/spit) async
 [xat/hoook](https://github.com/xat/hoook) async and priority
+[sindresorhus/emittery: Simple and modern async event emitter](https://github.com/sindresorhus/emittery)
 
 ### Eavesdrop Events
 

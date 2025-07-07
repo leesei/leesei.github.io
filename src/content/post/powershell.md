@@ -2,7 +2,7 @@
 title: PowerShell
 description: ""
 created: 2023-05-19
-updated: 2025-01-09
+updated: 2025-01-22
 tags:
   - comp/lang
   - powershell
@@ -30,9 +30,6 @@ Use "`" to escape ";" (like "\" in Linux)
 
 [PSWindowsupdate: Automated Windows Updates with PowerShell - Virtualization Howto](https://www.virtualizationhowto.com/2023/06/pswindowsupdate-automated-windows-updates-with-powershell/)
 
-[How To Use PS2EXE to Turn PowerShell Scripts Into EXE Files | ITPro Today: IT News, How-Tos, Trends, Case Studies, Career Tips, More](https://www.itprotoday.com/powershell/how-use-ps2exe-convert-powershell-scripts-exe-files)
-[Make Portable PowerShell EXEs Without External Dependencies (Tutorial)](https://www.itprotoday.com/powershell/how-to-make-powershell-exes-without-external-dependencies-tutorial-)
-
 [PowerShell Screen Captures: Automate Screenshots in Your Scripts](https://www.itprotoday.com/powershell/powershell-screen-capture-how-to-automate-screenshots-in-your-scripts)
 
 [Powershell Tutorial - Tutorialspoint](https://www.tutorialspoint.com/powershell/)
@@ -49,9 +46,8 @@ Use "`" to escape ";" (like "\" in Linux)
 
 [How To Use PowerShell’s Get-Date Cmdlet To Create Timestamps](https://www.itprotoday.com/powershell/how-use-powershell-s-get-date-cmdlet-create-timestamps)
 [How To Create Custom PowerShell Cmdlets Using Modules (Video Tutorial)](https://www.itprotoday.com/powershell/how-create-your-own-powershell-cmdlets-video-tutorial)
-[Top 10 PowerShell Tips and Tricks of 2024 (So Far)](https://www.itprotoday.com/powershell/top-10-powershell-tips-and-tricks-of-2024-so-far-)
-[Make Portable PowerShell EXEs Without External Dependencies (Tutorial)](https://www.itprotoday.com/powershell/how-to-make-powershell-exes-without-external-dependencies-tutorial-)
-[How I Built a PowerShell Multi-File Search Tool (With Source Code)](https://www.itprotoday.com/powershell/how-i-built-my-own-powershell-multi-file-search-tool)
+[How To Use PowerShell for Automated Event Response](https://www.itprotoday.com/powershell/how-to-use-powershell-for-automated-event-response)
+[PowerShell Error Handling: Learn These Key Techniques](https://www.itprotoday.com/powershell/powershell-error-handling-learn-these-key-techniques)
 [How To Build a Disk Space Pie Chart in PowerShell](https://www.itprotoday.com/powershell/how-to-build-a-disk-space-pie-chart-in-powershell)
 
 [lextm/windowsterminal-shell: Install/uninstall scripts for Windows Terminal context menu items](https://github.com/lextm/windowsterminal-shell)
@@ -136,12 +132,18 @@ Persist Environment Variables
 [about_Functions_Advanced_Parameters - PowerShell | Microsoft Docs](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_functions_advanced_parameters?view=powershell-7)
 [about_Functions_CmdletBindingAttribute - PowerShell | Microsoft Docs](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_functions_cmdletbindingattribute?view=powershell-7)
 [PowerShell advanced functions – The CmdletBinding and Parameter attribute – 4sysops](https://4sysops.com/archives/powershell-advanced-functions-the-cmdletbinding-and-parameter-attribute/#advanced-vs-simple-function)
+[PowerShell Parameter Validation: Ensuring Valid Input for Functions](https://www.itprotoday.com/powershell/powershell-parameter-validation-ensuring-valid-input-for-functions)
 
 ```powershell
 # parsing argument
 [CmdletBinding()]
 param()
 ```
+
+## Exe file
+
+[How To Use PS2EXE to Turn PowerShell Scripts Into EXE Files | ITPro Today: IT News, How-Tos, Trends, Case Studies, Career Tips, More](https://www.itprotoday.com/powershell/how-use-ps2exe-convert-powershell-scripts-exe-files)
+[Make Portable PowerShell EXEs Without External Dependencies (Tutorial)](https://www.itprotoday.com/powershell/how-to-make-powershell-exes-without-external-dependencies-tutorial-)
 
 ## .NET in PowerShell
 
@@ -153,6 +155,8 @@ param()
 
 ## UI in PowerShell
 
+[Solving the PowerShell GUI Paradox (With Example Scripts)](https://www.itprotoday.com/powershell/solving-the-powershell-gui-paradox-with-example-scripts-)
+
 [How To Create an Interactive PowerShell Menu](https://www.itprotoday.com/powershell/how-to-create-an-interactive-powershell-menu)
 [Intro to Microsoft Dialog Boxes in PowerShell](https://www.itprotoday.com/powershell/intro-to-microsoft-dialog-boxes-in-powershell)
 [How I Built a PowerShell Multi-File Search Tool (With Source Code)](https://www.itprotoday.com/powershell/how-i-built-my-own-powershell-multi-file-search-tool)
@@ -161,6 +165,7 @@ param()
 [PowerShell Screen Captures: Automate Screenshots in Your Scripts](https://www.itprotoday.com/powershell/powershell-screen-capture-how-to-automate-screenshots-in-your-scripts)
 [How To Use PowerShell and WPF To Create Advanced GUIs](https://www.itprotoday.com/powershell/untitled)
 [Generate Windows toast notifications with the PowerShell module BurntToast – 4sysops](https://4sysops.com/archives/generate-windows-toast-notifications-with-the-powershell-module-burnttoast/)
+[Building WPF GUIs in PowerShell: Beginner’s Guide](https://www.itprotoday.com/powershell/building-wpf-guis-in-powershell-beginner-s-guide)
 
 ## Session Manager
 

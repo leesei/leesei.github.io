@@ -2,7 +2,7 @@
 title: PlayStation 3 Emulator
 description: ""
 created: 2023-06-12
-updated: 2025-01-09
+updated: 2025-04-28
 tags:
   - emulator
   - games
@@ -75,6 +75,7 @@ GPU
 [PS3 ROMs & ISO - Playstation 3 Decryption Game Download](https://romsfun.com/roms/ps3)
 [NoPayStation v3](https://nopaystation.com/search?query=&platform=ps3&category=game&region=us&limit=10&orderBy=completionDate&sort=DESC&missing=Show)
 [PS3 ROMS » ROMSUNLOCKED](https://romsunlocked.com/category/ps3/)
+[PS3 Archives - Download Game PSX PS2 PS3 PS4 PS5](https://dlpsgame.com/category/ps3/)
 
 Army of Two
 LittleBigPlanet: Game Of The Year Edition
@@ -87,6 +88,13 @@ Call of Duty: Modern Warfare 3
 Call of Duty: World at War (halts early in first mission)
 Call of Duty: Ghosts
 Call of Duty: Advanced Warfare
+God of War Collection = God of War and God of War II
+God of War: Origins Collection = Chains of Olympus and Ghost of Sparta
+God of War III
+God of War Ascension
+Resistance: Fall of Man
+Resistance 2
+Resistance 3
 Starhawk
 Uncharted: Drake's Fortune
 Uncharted 2: Among Thieves
@@ -96,15 +104,10 @@ Medal of Honor: Warfighter (won't enter game)
 Mobile Suit Gundam: Target In Sight
 50 cent - Blood on the Sand
 Attack on Titan - Wings of Freedom
-Resistance: Fall of Man
-Resistance 2
-Resistance 3
 Goldeneye 007: Reloaded
 Killzone Trilogy
 The Last of Us
 The Last of Us: Left Behind
-God of War Collection
-God of War III
 Metal Gear Solid 4: Guns of the Patriots
 The Ratchet & Clank Trilogy HD Collection
 Ratchet & Clank Future: Tools of Destruction

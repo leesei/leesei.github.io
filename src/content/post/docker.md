@@ -2,7 +2,7 @@
 title: Docker
 description: ""
 created: 2014-12-11
-updated: 2025-01-09
+updated: 2025-05-09
 tags:
   - container
   - dev/deploy
@@ -157,11 +157,13 @@ Docker overlay2 metacopy issue on Linux 4.19
 [Docker for the Absolute Beginners - YouTube](https://www.youtube.com/playlist?list=PL2We04F3Y_40PSZyTcOUuH4flMxbxkhDe)
 [Docker Tutorial for Beginners - A Full so Course on How to Run Applications in Containers - YouTube](https://www.youtube.com/watch?v=fqMOX6JJhGo)
 
+[Docker Tutorials | Collection from Christian Lempa | 8 posts | Patreon](https://www.patreon.com/collection/239867?view=expanded)
+
 [The right way to Docker - YouTube](https://www.youtube.com/watch?v=GNQgkn-fcYA)
 [you need to learn Docker RIGHT NOW!! // Docker Containers 101 - YouTube](https://www.youtube.com/watch?v=eGz9DS-aIeY)
 
 Production
-[The Containerizers - YouTube](https://www.youtube.com/channel/UCFkOoM5xXS6hRs1lpw_8ydQ)
+[The Containerizers - YouTube](https://www.youtube.com/@TheContainerizers)
 [Docker features and tools by Tom Verelst - YouTube](https://www.youtube.com/watch?v=heBI7oQvHZU)
 [Introduction to Docker - YouTube](https://www.youtube.com/watch?v=Q5POuMHxW-0) by dotCloud founder in 2013
 [Taking Docker to Production: What You Need to Know and Decide - DockerCon Europe 2017 Videos](https://dockercon.docker.com/watch/WdAeLaLuSCNQwEp61YVXUt)
@@ -666,7 +668,6 @@ Config and aliases can be stored in `~/.docker/config.json`
 
 [Docker Basic Command | Fast Deploying Systems With Docker](http://chunchio.gitbooks.io/docker/content/DockerBasicCommand.html)
 [wsargent/docker-cheat-sheet: Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
-[j-bennet/wharfee: A CLI with autocompletion and syntax highlighting for Docker commands.](https://github.com/j-bennet/wharfee)
 [CLI Tips and Tricks (From Docker Online Meetup)](https://www.bretfisher.com/docker-cli-tips-and-tricks/)
 [10 Tips & Tricks with Docker - Mercure News](https://mercurenews.com/en/10-tips-tricks-with-docker/)
 
@@ -921,6 +922,9 @@ docker history --no-trunc IMAGE
 
 [GoogleContainerTools/kaniko: Build Container Images In Kubernetes](https://github.com/GoogleContainerTools/kaniko)
 [Building Docker images with Kaniko – Sebastien Goasguen – Medium](https://medium.com/@sebgoa/building-docker-images-with-kaniko-6e2421b018)
+
+[openshift/source-to-image: A tool for building artifacts from source and injecting into container images](https://github.com/openshift/source-to-image)
+[OpenShift Commons Briefing #43: Source-to-Image Deep Dive - YouTube](https://www.youtube.com/watch?v=flI6zx9wH6M)
 
 ## Tiny Image
 

@@ -2,7 +2,7 @@
 title: Kodi
 description: ""
 created: 2015-08-12
-updated: 2025-01-09
+updated: 2025-06-11
 tags:
   - app
   - kodi
@@ -14,8 +14,6 @@ Used to be called XBMC (XBox Media Center), the project was renamed to [Kodi](<h
 [Kodi](http://kodi.wiki/view/Main_Page)
 
 [Kodi/XBMC 媒体中心 - HTPC 原动力论坛 i 媒体中心,htpc 论坛,MCE,HTPC 硬件 - Powered by Discuz!](http://bbs.htpc1.com/forum-225-1.html)
-
-[Plex vs Kodi - The Ultimate Comparison Guide for Beginners](http://www.htpcbeginner.com/plex-vs-kodi-comparison-guide/)
 
 ## Skin
 
@@ -40,11 +38,6 @@ Used to be called XBMC (XBox Media Center), the project was renamed to [Kodi](<h
 
 [Is Kodi Exodus Legal?](https://www.makeuseof.com/tag/is-kodi-exodus-legal/)
 
-[Girens for Plex—Linux Apps on Flathub](https://flathub.org/apps/details/nl.g4d.Girens)
-
-[Jellyfin: The Free Software Media System](https://jellyfin.org/)
-[jellyfin/jellyfin-kodi: Jellyfin Plugin for Kodi](https://github.com/jellyfin/jellyfin-kodi)
-
 ### Repo
 
 [Fusion Repo](http://www.tvaddons.ag/fusion-installer-kodi/) is a source repo for Kodi. It is used for installing [Addon Installer for Kodi](http://www.tvaddons.ag/addon-installer-kodi/).
@@ -67,7 +60,6 @@ http://xbmc.hdpfans.com/repository.hdpfans.xbmc-addons.zip
 [Navi-X addon for Kodi and XBMC](https://superrepo.org/kodi/addon/script.navi-x/)
 [Guide: How to install Phoenix Kodi addon](http://www.htpcbeginner.com/install-phoenix-kodi-addon/)
 [Guide: How to install Genesis addon on Kodi?](http://www.htpcbeginner.com/install-genesis-addon-kodi/)
-[Plex Unofficial Channels: Install the 3 Best Plex Channels](http://www.htpcbeginner.com/plex-unofficial-channels/)
 [3 Ways to watch ESPN online on XBMC](http://www.htpcbeginner.com/watch-espn-online-free-on-xbmc/)
 
 ### Remote

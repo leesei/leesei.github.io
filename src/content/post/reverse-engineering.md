@@ -2,7 +2,7 @@
 title: Reverse Engineering
 description: ""
 created: 2023-03-01
-updated: 2025-01-09
+updated: 2025-05-26
 tags:
   - security
 ---
@@ -34,6 +34,7 @@ Low Level Learning
 [Reverse engineering visual novels 101, part 2 – Hacker Noon](https://hackernoon.com/reverse-engineering-visual-novels-101-part-2-9258f547262a)
 
 [Intro to Game Hacking: DEFCON 32 - YouTube](https://www.youtube.com/watch?v=Y0O3SHrBFbE)
+[Unlocking the Secrets of my Favorite Childhood Game. - YouTube](https://www.youtube.com/watch?v=2ZnAS5_0Z3I)
 
 [Level Up Your Reverse Engineering Skills – Angular In Depth](https://blog.angularindepth.com/level-up-your-reverse-engineering-skills-8f910ae10630)
 [Practical application of reverse-engineering guidelines and principles](https://medium.com/react-in-depth/practical-application-of-reverse-engineering-guidelines-and-principles-784c004bb657)
@@ -64,8 +65,10 @@ John Hammond
 
 [mandiant/flare-floss: FLARE Obfuscated String Solver - Automatically extract obfuscated strings from malware.](https://github.com/mandiant/flare-floss)
 
-[Vaughan Hilts - Experimentation with Reverse Engineering - Trails in the Sky (FC / SC) Extracting Sprite Data w/ Unix Tools & Kaitai Struct](http://vaughanhilts.me/blog/2016/11/16/reverse-engineering-trails-in-the-sky-ed-6-game-engine.html)
+[radareorg/radare2: UNIX-like reverse engineering framework and command-line toolset](https://github.com/radareorg/radare2)
 [Introduction · Radare2 Book](https://radare.gitbooks.io/radare2book/content/)
+[Radare: Open-source reverse engineering framework - Help Net Security](https://www.helpnetsecurity.com/2024/06/10/radare-open-source-reverse-engineering-framework/)
+[Vaughan Hilts - Experimentation with Reverse Engineering - Trails in the Sky (FC / SC) Extracting Sprite Data w/ Unix Tools & Kaitai Struct](http://vaughanhilts.me/blog/2016/11/16/reverse-engineering-trails-in-the-sky-ed-6-game-engine.html)
 
 [Reverse Engineering A Modern IP Camera | Hackaday](https://hackaday.com/2019/03/28/reverse-engineering-a-modern-ip-camera/)
 [Reverse Engineering Shimano Bike Electronics | Hackaday](https://hackaday.com/2019/03/26/reverse-engineering-shimano-bike-electronics/)
@@ -181,6 +184,8 @@ objdump -d -Mintel <binary>
 
 [dnSpy/dnSpy: .NET debugger and assembly editor](https://github.com/dnSpy/dnSpy)
 [Decompiling C# by Example with Cracknet | Codingo](https://codingo.io/reverse-engineering/ctf/2017/07/25/Decompiling-CSharp-By-Example-with-Cracknet.html)
+
+[dnSpyEx/dnSpy: Unofficial revival of the well known .NET debugger and assembly editor, dnSpy](https://github.com/dnSpyEx/dnSpy)
 
 [Kani](https://decompiler.dotnetsafer.com/) Web decompiler
 

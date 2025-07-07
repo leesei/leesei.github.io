@@ -2,7 +2,7 @@
 title: Naruto
 description: ""
 created: 2018-06-21
-updated: 2025-01-09
+updated: 2025-02-16
 tags:
   - anime
   - naruto
@@ -12,7 +12,7 @@ tags:
 [火影忍者疾風傳 - Wikiwand](https://www.wikiwand.com/zh/火影忍者疾風傳)
 [BORUTO-火影新世代-NARUTO NEXT GENERATIONS- - Wikiwand](https://www.wikiwand.com/zh/博人传-火影次世代-)
 
-[Narutopedia | FANDOM powered by Wikia](http://naruto.fandom.com/wiki/Narutopedia)
+[Narutopedia | Fandom](http://naruto.fandom.com/wiki/Narutopedia)
 [火影忍者（岸本齐史创作的少年漫画）\_百度百科](https://baike.baidu.com/item/火影忍者/8702)
 
 [Naruto: The Manga and Anime Series... And an ingredient in ramen.](https://www.reddit.com/r/Naruto/)

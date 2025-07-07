@@ -2,7 +2,7 @@
 title: File Systems
 description: ""
 created: 2015-05-20
-updated: 2025-01-09
+updated: 2025-06-19
 tags:
   - file-system
   - linux
@@ -117,6 +117,10 @@ ZFS provides bitrot protection.
 [jimsalterjrs/sanoid: Policy-driven snapshot management and replication tools. Using ZFS for underlying next-gen storage.](https://github.com/jimsalterjrs/sanoid)
 `syncoid`, a replication tool that facilitates the asynchronous incremental replication of ZFS filesystems
 [ZFS backups - Sanoid and Syncoid help : zfs](https://www.reddit.com/r/zfs/comments/rnsf4w/zfs_backups_sanoid_and_syncoid_help/)
+
+### NTFS
+
+[No More Drive Letters! How to use Hard Links, Symlinks, Junction Points and Mount Points on Windows - YouTube](https://www.youtube.com/watch?v=7Rbw953DXg0)
 
 ### techniques/internals
 

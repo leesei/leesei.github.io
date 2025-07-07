@@ -2,7 +2,7 @@
 title: Forza/Forza Horizon
 description: ""
 created: 2020-05-12
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - forza
   - forza-horizon
@@ -59,7 +59,6 @@ Tires: (targets 33PSI at normal condition)
 [Category:Forza Horizon 3 | Forza Wiki | Fandom](https://forza.fandom.com/wiki/Category:Forza_Horizon_3)
 [Forza Motorsport - Hoonigan Car Pack](https://www.forzamotorsport.net/en-us/news/fh3_hoonigan_car_pack)
 
-[Forza Horizon 3 - YouTube](https://www.youtube.com/channel/UCl7Mh2dkjj-s6mzHv6v3lrw)
 [Category:Forza Horizon 3 | Forza Motorsport Wiki | Fandom](https://forza.fandom.com/wiki/Category:Forza_Horizon_3)
 [Forza Horizon 3 | Prima Games](https://primagames.com/games/forza-horizon-3)
 [Category:Event Types (FH3) | Forza Motorsport Wiki | Fandom](<https://forza.fandom.com/wiki/Category:Event_Types_(FH3)>)

@@ -2,7 +2,7 @@
 title: Transmission and Drivetrain
 description: ""
 created: 2015-09-23
-updated: 2025-01-09
+updated: 2025-03-16
 tags:
   - automobile
   - drivetrain
@@ -53,6 +53,7 @@ The marketed peak HP and peak torque does not necessarily overlap in the same RP
 [变速箱工作原理入门浅谈。 AT, MT, DCT, CVT - YouTube](https://www.youtube.com/watch?v=-xTBblW1ESM)
 [【龍 Sir 教室 Ep03】CVT 真係咁多缺點？三招即拆解（內附字幕）｜ TopGear HK 極速誌 - YouTube](https://www.youtube.com/watch?v=MR9OFefMfv4)
 [【龍 Sir 教室 Ep04】點解日本車堅持用 CVT（內附字幕）｜ TopGear HK 極速誌 - YouTube](https://www.youtube.com/watch?v=cAyumBtjoks)
+[Why It Would Suck to be a CVT - YouTube](https://www.youtube.com/watch?v=_EBMYWd7KS4)
 
 [Dog Boxes & Sequential Transmission | How it Works - YouTube](https://www.youtube.com/watch?v=RikzgmPvmnE)
 [Planetary Gearsets & Gear Ratios - How Gears Work | HowStuffWorks](https://science.howstuffworks.com/transport/engines-equipment/gear7.htm)
@@ -84,7 +85,10 @@ Frame:
 - Ladder 陣式
 
 4WD = 4x4
+4H power distributed to all wheels, with differentials
+4L power distributed to all wheels, locking the differentials, lower gear ratio
 
+[Ultimate Drivetrain Guide: FWD vs RWD vs AWD vs 4x4 – Everything You Need to Know. - YouTube](https://www.youtube.com/watch?v=-cTJqNWwmf0) ❗!important
 [The Difference Between AWD vs 4WD - YouTube](https://www.youtube.com/watch?v=rHMDtEPeuQM)
 [AWD VS 4x4 | How it Works | Donut Media - YouTube](https://www.youtube.com/watch?v=JUqSSD0rkbU)
 [AWD vs 4WD... Which is Best? - YouTube](https://www.youtube.com/watch?v=7xlKfwDPV9M)
@@ -122,6 +126,7 @@ Frame:
 [BRAKES: How They Work | Science Garage - YouTube](https://www.youtube.com/watch?v=6H7nwlT_qNY)
 [F1 Braking Systems - YouTube](https://www.youtube.com/watch?v=0ykCdaRzn5g)
 [The Story of Brakes - YouTube](https://www.youtube.com/watch?v=Z-F3NDGeu2s)
+[Why Do Big Trucks Use Air Brakes? How Does It work? - YouTube](https://www.youtube.com/watch?v=uZ7lu064YEU)
 
 [【龍 Sir 教室 Ep23】煞車系統的工作原理（內附字幕）｜ TopGear HK 極速誌 topgearhk - YouTube](https://www.youtube.com/watch?v=q9UaJfePFX4)
 [【龍 Sir 教室 Ep24】關於煞車的十五問（內附字幕）｜ TopGear HK 極速誌 topgearhk - YouTube](https://www.youtube.com/watch?v=ovFpXQ9fG1Q)
@@ -136,7 +141,7 @@ Frame:
 [Disc brake - Wikiwand](https://www.wikiwand.com/en/Disc_brake) squeeze in, creating more pressure
 [How Disc Brakes Works - Part 1 - YouTube](https://www.youtube.com/watch?v=MAuVDB-G-HQ)
 [How Disc Brakes Works - Part 2 - YouTube](https://www.youtube.com/watch?v=bGKJOICWmFQ)
-[Autotechlabs - YouTube](https://www.youtube.com/channel/UCtfVcXWhbSnF-fWHJ6ugw5A)
+[Autotechlabs - YouTube](https://www.youtube.com/@autotechlabs)
 
 ### Control Mechanism
 

@@ -2,7 +2,7 @@
 title: AutoHotKey
 description: The ultimate automation scripting language for Windows.
 created: 2023-02-16
-updated: 2025-01-09
+updated: 2025-06-18
 tags:
   - app
   - automation
@@ -19,6 +19,7 @@ Use `#Requires AutoHotkey v2.0` to opt-in to v2.
 [How to Create Custom Keyboard Shortcuts with AutoHotkey](https://www.howtogeek.com/290501/how-to-create-custom-keyboard-shortcuts-with-autohotkey/)
 
 [Joe - AUTOHOTKEY Guru - YouTube](https://www.youtube.com/@JoeGlines-Automator)
+[evilC (Clive Galway)](https://github.com/evilC)
 
 ## Koan
 
@@ -91,8 +92,14 @@ Windows Registry Editor Version 5.00
 [NirCmd - Windows command line tool](http://www.nirsoft.net/utils/nircmd.html)
 
 ```autohotkey
-#^g:: Run explorer %USERPROFILE%\Dropbox  ; Win+Ctrl+G
+# templates #
+NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+; #Warn  ; Enable warnings to assist with detecting common errors.
+SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
+SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+```
 
+```autohotkey
 ; if using NoEnv
 #NoEnv
 EnvGet, home_dir, USERPROFILE

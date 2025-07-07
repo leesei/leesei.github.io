@@ -2,7 +2,7 @@
 title: Xbox 360 Emulator
 description: ""
 created: 2023-06-12
-updated: 2025-01-09
+updated: 2025-05-21
 tags:
   - emulator
   - games
@@ -106,3 +106,4 @@ Lost Odyessy (RPG)
 Star Ocean: The Last Hope (RPG)
 Blue Dragon (RPG)
 Wall-E
+Perfect Dark Zero

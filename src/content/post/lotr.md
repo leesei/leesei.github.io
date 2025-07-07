@@ -2,7 +2,7 @@
 title: Lord of the Rings
 description: ""
 created: 2020-12-11
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - lord-of-the-rings
   - lotr
@@ -25,8 +25,8 @@ tags:
 [【魔戒中土世界】 - YouTube](https://www.youtube.com/playlist?list=PL4Kt3ngY0fjlrrVp9luPTotIvjnbPpDxm)
 
 Channels
-[魔戒十克拉 - YouTube](https://www.youtube.com/channel/UC-ibZNRhTa-aT-Zrhzqwnmw)
-[中土远征军 - YouTube](https://www.youtube.com/channel/UCvIqA0oXqhFBYM5cG7_i-9w)
+[魔戒十克拉 - YouTube](https://www.youtube.com/@魔戒十克拉)
+[中土远征军 - YouTube](https://www.youtube.com/@中土远征军)
 [散装官人的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibili](https://space.bilibili.com/40545158/channel/detail?cid=79743)
 
 CGP Grey

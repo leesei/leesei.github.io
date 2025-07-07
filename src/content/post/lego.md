@@ -2,7 +2,7 @@
 title: LEGO
 description: ""
 created: 2016-06-12
-updated: 2025-01-09
+updated: 2025-05-18
 tags:
   - lego
   - toys
@@ -43,14 +43,6 @@ tags:
 
 [LEGO® 樂高 網上商店 | HobbyDigi.com 電購網](https://www.hobbydigi.com/zh_hant_hk/lego)
 [我的 LEGO 篇五：我去香港逛 LEGO 打卡六家店，两手空空回\_\_什么值得买](https://post.smzdm.com/p/alpzgxwp/)
-
-## 国产积木
-
-[【中外玩具网披露塑料拼插积木发展历史】 - 中外玩具网](https://news.ctoy.com.cn/show-31866.html)
-[拼奇、维思等国潮积木：逆袭乐高，不忘内卷-36氪](https://36kr.com/p/1846915528782211)
-[史上最全乐高玩具大梳理！1 篇文章搞懂乐高玩具！|乐高|颗粒|德宝\_新浪网](http://k.sina.com.cn/article_6425065479_17ef6b80700100aaj1.html)
-[国产积木崛起🔥国产积木25个宝藏品牌安利❗️全网最全最新最专业\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1iT411h7UM)
-[国产积木YYDS，16个宝藏品牌安利，全网最全最专业，平替乐高，学生必看\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1eh4y1A7gT)
 
 ## Stop motion
 
@@ -199,6 +191,7 @@ MOC = My Own Creation
 [Tiago Catarino - YouTube](https://www.youtube.com/@TiagoCatarino) LEGO Designer
 [Lego Technic Mastery - YouTube](https://www.youtube.com/@legotechnicmastery) Technic
 [BrickTok 積玩視界 - YouTube](https://www.youtube.com/@bricktok)
+[Galactic Plastics - YouTube](https://www.youtube.com/@nicktrotta)
 
 [Forums - Eurobricks Forums](https://www.eurobricks.com/forum/index.php?/forums/)
 [[KEY TOPIC] Official Lego sets made in LDraw - Digital LEGO: Tools, Techniques, and Projects - Eurobricks Forums](https://www.eurobricks.com/forum/index.php?/forums/topic/48285-key-topic-official-lego-sets-made-in-ldraw/) !important
@@ -223,6 +216,9 @@ MOC = My Own Creation
 [Lego WW2 Military Planes Mini Vehicles - Part 1 (Tutorial) - YouTube](https://www.youtube.com/watch?v=L7omq-NUUWc)
 [Lego WW2 Military Planes Mini Vehicles - Part 2 (Tutorial) - YouTube](https://www.youtube.com/watch?v=qoMArhwErrE)
 [Micro LEGO Military Vehicles | Comparison - YouTube](https://www.youtube.com/watch?v=7eZFAhQeX0g)
+
+[The Most Underrated LEGO Brick - YouTube](https://www.youtube.com/watch?v=E4CDMu5LJxs) headlight bricks
+[This piece changed LEGO forever - YouTube](https://www.youtube.com/watch?v=A6mcwNcFgRs) brackets/angular plates
 
 [6 YouTube Channels to Help Master Your LEGO Design Skills – Review Geek](https://www.reviewgeek.com/41577/6-youtube-channels-to-help-master-your-lego-design-skills/)
 
@@ -262,7 +258,7 @@ Nathanael Kuipers, ex Lego designer
 
 [Sheepo's Garage: MAP & Bodyworks Instructions](https://www.sheepo.es/2014/12/map-jeep-willys-instructions.html#more) Paid
 [Sheepo's Garage Downloads - Google Drive](https://drive.google.com/drive/folders/0B-6-_3Ej69YUeHlZbXRUTUJCbHc)
-[Sheepo's Garage: AXR 400 Crossbone](https://www.sheepo.es/2014/03/axr-400-crossbone.html#more)
+[Sheepo's Garage: AXR 400 Crossbone](https://www.sheepo.es/2014/03/axr-400-crossbone.html)
 
 [Behind The Build - Lego Honda Civic Type R /ep.1 - YouTube](https://www.youtube.com/watch?v=XH1mGDwDFsY)
 [Behind The Build - Lego Honda Civic Type R /ep.2 - YouTube](https://www.youtube.com/watch?v=WJc5G5LKCYY)
@@ -456,9 +452,6 @@ Mini Millennium Falcon
 
 [Test: Custom 3D Printed LEGO-Compatible Elements - YouTube](https://www.youtube.com/watch?v=M78UMa2lMG8)
 
-Recommend to buy 正品 for gear parts, 双鹰 CaDA is also good
-精磚 is first tier, used by 哲高 since 2003
-
 [首页-乐高朋友之家-淘宝网](https://brickfriendshome.taobao.com/) 正品
 [首页-玩具新大陆-淘宝网](https://shop33124361.taobao.com/) 正品
 [首页-乐高玩家－零件配件-淘宝网](https://play-well.taobao.com/index.htm) 正品
@@ -482,6 +475,12 @@ Recommend to buy 正品 for gear parts, 双鹰 CaDA is also good
 [How To Make A Custom 9V Lego Motor - YouTube](https://www.youtube.com/watch?v=Alj50TYrG6o)
 [How To Make A Custom Lego Mini Servo - YouTube](https://www.youtube.com/watch?v=qTcIXiINAu4)
 
+### Illegal Building Techniques
+
+[Top 10 LEGO ILLEGAL Building Techniques - YouTube](https://www.youtube.com/watch?v=83kMaEIHbJU)
+[Illegal LEGO Techniques - YouTube](https://www.youtube.com/watch?v=jWtZUzkvQ2E)
+[MORE Illegal LEGO Techniques - YouTube](https://www.youtube.com/watch?v=0b0Pn9JkdJg)
+
 ### Tips and Tricks
 
 [Top 15 Easy Lego Building Tips, Tricks & Techniques Anyone Can Make - YouTube](https://www.youtube.com/watch?v=U0ctYcgnfvI)
@@ -489,7 +488,7 @@ Recommend to buy 正品 for gear parts, 双鹰 CaDA is also good
 [9 Incredibly Useful LEGO Hacks - YouTube](https://www.youtube.com/watch?v=LFccDA6YA0E)
 [LEGO LIFE HACKS - Easy DIY LEGO Ideas - It's a LEGO Life - YouTube](https://www.youtube.com/watch?v=wjmJWMQpxv0)
 [7 EASY LEGO MAGIC TRICKS - YouTube](https://www.youtube.com/watch?v=WPeG-x9Lz1A)
-[Top 10 LEGO ILLEGAL Building Techniques - YouTube](https://www.youtube.com/watch?v=83kMaEIHbJU)
+[The POWER of LEGO Jumper Plates - YouTube](https://www.youtube.com/watch?v=cSaw3vMcvfo)
 
 [只会用乐高搭积木娃就亏大了！学会这些玩法，一套顶十套|搭积木|乐高|宝宝\_新浪网](http://k.sina.com.cn/article_6378164272_17c2b103000100afo5.html)
 [它是乐高积木的黄金搭档，深藏功与名，却让所有人爱不释手|积木|黄金搭档|乐高\_新浪网](http://k.sina.com.cn/article_6419908578_17ea807e200100aqda.html) brick separator
@@ -625,6 +624,13 @@ TL;DR (non return to center steering):
 
 [Bits N’ Bricks Season 5 Episode 47: The Rise of BrickLink - YouTube](https://www.youtube.com/watch?v=gNkck_-_rEg) deprecation of LDD
 
+[BrickStore](https://www.brickstore.dev/) BrickLink offline maagement tool
+
+```sh
+yay -S brickstore
+yay -S bricklink-studio
+```
+
 [Best Free Lego Building Software | Gizmo's Freeware](http://www.techsupportalert.com/content/best-free-lego-building-program.htm)
 [LDraw vs LDD vs stud.io? : lego](https://www.reddit.com/r/lego/comments/5zo7kq/ldraw_vs_ldd_vs_studio/)
 [What are the differences between LDraw and LDD (LEGO Digital Designer)? - Quora](https://www.quora.com/What-are-the-differences-between-LDraw-and-LDD-LEGO-Digital-Designer)
@@ -641,13 +647,13 @@ TL;DR (non return to center steering):
 [LDraw.org - Home](http://ldraw.org/) CAD, database and file format
 [LDraw.org - Windows](https://www.ldraw.org/article/104.html)
 
-[Studio Download [BrickLink]](https://www.bricklink.com/v3/studio/download.page) stud.io, built on LDraw
-[BrickLink - Studio](https://www.bricklink.com/v2/build/studio.page) v2 has instructions maker
+[Studio [BrickLink]](https://www.bricklink.com/v3/studio/main.page) aka stud.io, instructions maker since v2
+[Studio Help Center](https://studiohelp.bricklink.com/hc/en-us)
 [Getting Started – Studio Help Center](https://studiohelp.bricklink.com/hc/en-us/categories/5404814688023-Getting-Started)
 [An Introduction to Bricklink Studio - YouTube](https://www.youtube.com/watch?v=j-_wOwXxLhc) 2017-07
-[Introduction to Studio – Studio Help Center](https://studiohelp.bricklink.com/hc/en-us/articles/5404381697559-Introduction-to-Studio)
-[LEGO Digital Building Tutorials in Bricklink Studio - YouTube](https://www.youtube.com/playlist?list=PLJLUP5dbMVzwfEPjK_4WIas_hiW9xIbCi)
+[LEGO Digital Building Tutorials in Bricklink Studio - YouTube](https://www.youtube.com/playlist?list=PLJLUP5dbMVzwfEPjK_4WIas_hiW9xIbCi) v2, Boone Builds
 [Studio Tutorials - YouTube](https://www.youtube.com/playlist?list=PLaEL-gouFOoHg5Okoua-cIGxjyrPOOUql) Playwell Bricks, 2020+
+[Build any LEGO SET for FREE with BrickLink Studio (Tutorial) - YouTube](https://www.youtube.com/watch?v=fnph3r6E1ZI)
 You cannot add rubber bands or cables in BrickLink Studio. If you want to do that use LDraw tools: LDCad for building the model and LPub3D for creating instructions
 
 [LDCad](http://www.melkert.net/LDCad)
@@ -1057,6 +1063,11 @@ AA battery box 8801 28-29
 [STEM & STEAM Lesson Plans & Activities | LEGO® Education](https://education.lego.com/en-us/lessons/?products=WeDo+2.0+Core+Set)
 [WeDo 2.0 Support | Building Instructions | LEGO® Education](https://education.lego.com/en-us/product-resources/wedo-2/downloads/building-instructions/)
 
+[How to use LEGO WeDo with Scratch](https://www.robocamp.eu/en/blog/how-to-use-lego-wedo-with-scratch/)
+[How to connect Lego Wedo 2.0 to Scratch - Liam's Coding Journey](https://liamscodingjourney.com/how-to-connect-lego-wedo-2-0-to-scratch/)
+[Scratch - WeDo 2.0](https://scratch.mit.edu/wedo)
+[LEGO WeDo Construction Set - Scratch Wiki](https://en.scratch-wiki.info/wiki/LEGO_WeDo_Construction_Set)
+
 [Full review of kit Lego Wedo 2.0 - Roboinstruction.com](https://roboinstruction.com/full-review-of-kit-lego-wedo-2-0/)
 
 [Getting Started with WeDo 2.0 - YouTube](https://www.youtube.com/playlist?list=PLXNn7QnqlNpi4FxGDuQySokXqc9_a5zy9) LEGO Education
@@ -1064,6 +1075,17 @@ AA battery box 8801 28-29
 [LEGO WeDo 2.0 - YouTube](https://www.youtube.com/playlist?list=PLj_k_RHuTqaXat5pjI8b43IBZ4w-5DNh3) Creator Academy Australia
 [Periodic Pandas - YouTube](https://www.youtube.com/@periodicpandas3803)
 [LEGO WeDo 2.0 Programming Tutorials - YouTube](https://www.youtube.com/playlist?list=PLJ9p4vPU79w5KQYVdyJYtsbX3lPDtRGtJ) W.A.F.F.L.E.S. Community Robotics
+[Lego Wedo 2.0 Archives - Liam's Coding Journey](https://liamscodingjourney.com/category/lego/lego-wedo-2-0/)
+[Studio Gallery [BrickLink]](https://www.bricklink.com/v3/studio/gallery.page?s=WeDo%202.0)
+
+3D图纸教学
+众号搜索 "乐趣十足在线"
+点击课程中心，找到WEDO2.0那套产品，点击进去就是这套的图纸
+永久会员账号18623092329 密码1234567
+
+Wedo 2.0 教程
+链接：https://pan.baidu.com/s/1Nycz6DTclDVshalHKeDm1Q
+提取码：1234
 
 [WeDo 2 0 Interface - YouTube](https://www.youtube.com/watch?v=JQ6loTuY03Q)
 [Programming WeDo 2 0 - YouTube](https://www.youtube.com/watch?v=UGVYhNX3Oj8)
@@ -1171,6 +1193,22 @@ MOC
 
 [请别再叫我“仿乐高”，我是国产积木\_产业 - 中外玩具网资讯](https://news.ctoy.com.cn/show-32061.html)
 
+[【中外玩具网披露塑料拼插积木发展历史】 - 中外玩具网](https://news.ctoy.com.cn/show-31866.html)
+[拼奇、维思等国潮积木：逆袭乐高，不忘内卷-36氪](https://36kr.com/p/1846915528782211)
+[史上最全乐高玩具大梳理！1 篇文章搞懂乐高玩具！|乐高|颗粒|德宝\_新浪网](http://k.sina.com.cn/article_6425065479_17ef6b80700100aaj1.html)
+
+[十款不輸樂高的國產積木綜合大橫評，六個維度全面分析國產與樂高的差距，部分套裝已經開始超越！【第01季】 - YouTube](https://www.youtube.com/watch?v=OM0LugJoqyg)
+[国产积木崛起🔥国产积木25个宝藏品牌安利❗️全网最全最新最专业\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1iT411h7UM)
+[国产积木YYDS，16个宝藏品牌安利，全网最全最专业，平替乐高，学生必看\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1eh4y1A7gT)
+
+Recommend to buy 正品 for gear parts, 双鹰 CaDA is also good
+精砖, 高砖 are first tier, used by 哲高 since 2003
+
+[Double E - CaDA® Official Online Store – Doublee_CaDA](https://decadastore.com/)
+[广东双鹰玩具实业有限公司](https://cn.doubleeagle-group.com/)
+[双鹰玩具旗舰店 - 京东](https://mall.jd.com/index-133498.html)
+[首页-双鹰模型直销店-淘宝网](https://shop124502910.taobao.com/)
+
 [有哪些和乐高（Lego）兼容的积木玩具品牌？ - 知乎](https://www.zhihu.com/question/20672323)
 [有哪些值得购买的国产积木？ - 知乎](https://www.zhihu.com/question/48452227)
 [国产乐高类积木盘点 | 国产乐高类积木有哪些* 国产乐高式积木品牌*什么值得买](https://post.smzdm.com/p/398266/)
@@ -1205,8 +1243,9 @@ Original sets:
 宝玩乐 **星堡** military sets
 [启蒙](http://www.qmjm.com/)/ENLIGHTEN targets small child
 
+全冠 military sets
 開智 military sets
-[图思迪/Tostudy](https://shop102158591.taobao.com/) IR remote control sets
+[乐高积木玩具流浪地球-图思迪拼搭我的世界-淘宝网](https://shop60270364.taobao.com/) IR remote control sets
 双鹰咔嗒 2.4GHz remote control sets
 [升得利/SDL](https://sdltoys.taobao.com/) 2.4GHz remote control sets
 潘洛斯/Panos pirates other 国产积木
@@ -1217,7 +1256,7 @@ SY > 品高 > 欣宏
 得高
 
 Black list:
-小鲁班/Sluban good original IPs in early years(辽宁号, 三国系列), poor set in recent years
+小鲁班/Sluban good original IPs in early years (辽宁号, 三国系列), poor set in recent years
 小白龙/积高
 沃玛/WOMA
 
@@ -1245,8 +1284,9 @@ Black list:
 
 [宝可梦：皮卡丘款巴士（Pokemon）（Keeppley K20206） | Brick4.com - 最实用的国产积木索引表](http://brick4.com/set/15403/Pokemon) ¥31@2021-11
 ¥31@2021-12
-K20213 皮卡丘款迷你美食车
-K20214 皮卡丘款迷你精灵球车
+[宝可梦：皮卡丘款迷你美食车（Pokemon）（Keeppley K20213） | Brick4.com - 最实用的国产积木索引表](http://brick4.com/set/30183/Pokemon)
+[宝可梦：皮卡丘款迷你精灵球车（Pokemon）（Keeppley K20214） | Brick4.com - 最实用的国产积木索引表](http://brick4.com/set/30184/Pokemon)
+[国玩：蒙古象棋（Keeppley K10123） | Brick4.com - 最实用的国产积木索引表](http://brick4.com/set/15638/) ¥25@2025-05
 
 [多彩世界：海盗船（Colorful World：Pirate Ship）（星堡 XINGBAO XB-01109） | Brick4.com - 最实用的国产积木索引表](http://brick4.com/set/1059/Colorful-World-Pirate-Ship) free?
 

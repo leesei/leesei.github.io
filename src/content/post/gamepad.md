@@ -2,7 +2,7 @@
 title: Gamepad
 description: ""
 created: 2016-09-25
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - comp/hardware
 ---
@@ -30,6 +30,13 @@ tags:
 碳膜: ALPS, 控銀/K-Silver, 台灣普耀
 霍爾: 谷粒(分體式), 控銀(一體式)
 
+Tunneling Magnetoresistance
+[TMR vs Hall Effect Joysticks Explained](https://gamerant.com/tmr-vs-hall-effect-joysticks-explained/)
+[from-hall-effect-to-tunneling-magnetoresistance-tmr.pdf](https://cototechnology.com/library/appnote/from-hall-effect-to-tunneling-magnetoresistance-tmr.pdf) PDF
+Higher resolution (but hall is already enough)
+Higher reporting rate
+Lower power consumption
+
 [Glossary:Controller - PCGamingWiki PCGW - bugs, fixes, crashes, mods, guides and improvements for every PC game](http://pcgamingwiki.com/wiki/Glossary:Controller#XInput_Plus)
 
 [手柄陀螺仪设置全教程（PC端）\_单机游戏热门视频](https://www.bilibili.com/video/BV14A411F7em/)
@@ -37,7 +44,7 @@ tags:
 [Comparison of XInput and DirectInput features - Win32 apps | Microsoft Learn](https://learn.microsoft.com/en-us/windows/win32/xinput/xinput-and-directinput)
 [DirectInput - Wikiwand](https://www.wikiwand.com/en/DirectInput#/DirectInput_vs_XInput)
 
-[手柄哥子俊 - YouTube](https://www.youtube.com/channel/UC24bt5d-Gg5m8Gdu7daaQVQ)
+[手柄哥子俊 - YouTube](https://www.youtube.com/@手柄哥子俊)
 [Controllers - YouTube](https://www.youtube.com/playlist?list=PL2Ksi8qJcnFKZT8yrh7JH13Z8uw0kxq_a) Gamer Heaven
 [手柄 - 科技遊戲站 - YouTube](https://www.youtube.com/@TechGamestop/search?query=%E6%89%8B%E6%9F%84)
 [老班长 a 的个人空间\_哔哩哔哩\_bilibili](https://space.bilibili.com/269079123/channel/collectiondetail?sid=273735)
@@ -234,6 +241,22 @@ Face buttons defaults to Switch layout, need to buy PC kit (~$35) to swap
 - 2.4G Multiplatform
 - 3.5mm
 - Swappable face plate
+
+### 鲲鹏20
+
+[北通鲲鹏20智控游戏手柄产品手册](https://www.yuque.com/fujuan-us0ly/ypaf1b)
+[北通鲲鹏20游戏手柄评测：三模畅连无界限，精准掌控游戏节奏 - zFrontier 装备前线](https://www.zfrontier.com/app/flow/r5WlR9y815WV)
+[精准操控，199元性价比之选：北通鲲鹏20游戏手柄*游戏手柄*什么值得买](https://post.smzdm.com/p/a3xd8vw7/)
+
+- TMR Thumbstick
+- Hall Trigger
+- Trigger stop
+- Rear buttons (2)
+- Gyro
+- Wired + Bluetooth + 2.4G
+- 2.4G Multiplatform
+- RGB
+- AI Rumble
 
 ## 玄派
 

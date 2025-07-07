@@ -2,7 +2,7 @@
 title: Restful API
 description: ""
 created: 2016-05-16
-updated: 2025-01-09
+updated: 2025-04-09
 tags:
   - rest
   - web
@@ -25,7 +25,7 @@ tags:
 [REST API Tutorial](http://www.restapitutorial.com/)
 [Design an easy to use and flexible REST API - DEV Community 👩‍💻👨‍💻](https://dev.to/khalyomede/design-an-easy-to-use-and-flexible-rest-endpoints-3fia)
 [The Case for REST - Prudence: Scalable REST Platform for the JVM - Three Crickets](http://threecrickets.com/prudence/articles/rest/)
-[Thoughts on RESTful API Design](https://restful-api-design.readthedocs.org/en/latest/)
+[Thoughts on RESTful API Design](https://restful-api-design.readthedocs.io/en/latest/)
 [A Brief Introduction to REST](http://www.infoq.com/articles/rest-introduction)
 [10 Best Practices for Writing Node.js REST APIs – Node.js Collection – Medium](https://medium.com/the-node-js-collection/10-best-practices-for-writing-node-js-rest-apis-7643a7765cd)
 [13 free tools for API design, development, and testing | InfoWorld](https://www.infoworld.com/article/3410586/13-free-tools-for-api-design-development-and-testing.html)

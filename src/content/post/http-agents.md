@@ -2,7 +2,7 @@
 title: HTTP agents
 description: ""
 created: 2014-12-11
-updated: 2025-01-09
+updated: 2025-06-27
 tags:
   - curl
   - har
@@ -47,6 +47,7 @@ http --print -Hh OPTIONS \
 [#153: 17 Years of curl With Daniel Stenberg - The Changelog](https://changelog.com/153/)
 [Everything curl - GitBook](https://www.gitbook.com/book/bagder/everything-curl/details)
 [Chapter 3: cURL | Conquering the Command Line | Softcover.io](http://conqueringthecommandline.com/book/curl)
+[lexiforest/curl-impersonate: An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome and Firefox.](https://github.com/lexiforest/curl-impersonate)
 
 ```sh
 curl
@@ -69,7 +70,7 @@ curl -X POST -H "Content-Type: application/json" -d '{"type": "json"}' ${URL}
 [curl - Manual](https://curl.haxx.se/docs/manual.html)
 [curl - Tutorial](https://curl.haxx.se/docs/httpscripting.html)
 
-[15 Practical Linux cURL Command Examples (cURL Download Examples)](http://www.thegeekstuff.com/2012/04/curl-examples/)
+[15 Practical Linux cURL Command Examples (cURL Download Examples)](https://www.thegeekstuff.com/2012/04/curl-examples/)
 [POST Form Data with cURL](https://davidwalsh.name/curl-post-file)
 
 [Embed curl - Embeddable curl commands for your web site.](https://www.embedcurl.com/)
@@ -87,8 +88,8 @@ Converts browser/Node request to `curl` command line.
 [Chrome DevTools](https://developer.chrome.com/devtools/docs/network#copying-requests-as-curl-commands)
 [Firefox DevTools](https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor#Copy_as_cURL)
 
-[NickCarneiro/curlconverter](https://github.com/NickCarneiro/curlconverter)
-[Convert curl command syntax to python requests code](http://curl.trillworks.com/#node)
+[Convert curl commands to code](https://curlconverter.com/)
+[curlconverter/curlconverter: Transpile curl commands into Python, JavaScript and 27 other languages](https://github.com/curlconverter/curlconverter)
 
 ## wget
 
@@ -271,7 +272,7 @@ Set `previewOption` to `exchange` (default `full`) to view requests
 
 [RapidAPI Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=RapidAPI.vscode-rapidapi-client) HTTP requests in plain text, generate types
 
-Desktop app available on MacOS
+Desktop app available on macOS
 
 ### Hoppscotch
 
@@ -387,23 +388,21 @@ asynchronous client library that supports HTTP/1.1 and HTTP/2
 
 [Load Testing: An Unorthodox Guide](https://www.marcobehler.com/guides/load-testing)
 
-[Locust - A modern load testing framework](https://locust.io/) Python
+[Locust - A modern load testing framework](https://locust.io/)
+[locustio/locust: Write scalable load tests in plain Python 🚗💨](https://github.com/locustio/locust/)
 [alteryx/locust-grasshopper: a load testing tool extended from locust](https://github.com/alteryx/locust-grasshopper)
 [Introducing Grasshopper - An Open Source Python Library for Load Testing](https://innovation.alteryx.com/introducing-grasshopper-an-open-source-python-library-for-load-testing/)
 
 [fcsonline/drill: Drill is an HTTP load testing application written in Rust](https://github.com/fcsonline/drill) ❗!important, YAML config for headers and payloads
-[codesenberg/bombardier: Fast cross-platform HTTP benchmarking tool written in Go](https://github.com/codesenberg/bombardier) no header config?
 [h2load - HTTP/2 benchmarking tool - HOW-TO — nghttp2 documentation](https://nghttp2.org/documentation/h2load-howto.html)
 [mcollina/autocannon: fast HTTP/1.1 benchmarking tool written in Node.js](https://github.com/mcollina/autocannon)
 [hatoo/oha: Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.](https://github.com/hatoo/oha)❗!important
 [wreck - hapi.dev](https://hapi.dev/module/wreck/)
-[alexfernandez/loadtest: Runs a load test on the selected URL. Easy to extend minimally for your own ends.](https://github.com/alexfernandez/loadtest)
 
 [k6.io - Performance testing for developers, like unit-testing, for performance](https://k6.io/)
 [grafana/k6: A modern load testing tool, using Go and JavaScript - https://k6.io](https://github.com/grafana/k6)
 
-[SmokePing - About SmokePing](http://oss.oetiker.ch/smokeping/index.en.html) deluxe latency measurement tool
-[Smokeping on Nginx](http://tomoconnor.eu/blogish/smokeping-nginx/)
+[SmokePing - About SmokePing](https://oss.oetiker.ch/smokeping/index.en.html) deluxe latency measurement tool
 
 [ab - Apache HTTP server benchmarking tool - Apache HTTP Server](https://httpd.apache.org/docs/current/programs/ab.html)
 Use `ab -k` (keepalive) to avoid testing connections (kernel responsibility)
@@ -412,6 +411,8 @@ Use `ab -k` (keepalive) to avoid testing connections (kernel responsibility)
 [wg/wrk: Modern HTTP benchmarking tool](https://github.com/wg/wrk) 😴inactive
 [giltene/wrk2: A constant throughput, correct latency recording variant of wrk](https://github.com/giltene/wrk2) 😴inactive
 [rakyll/hey: HTTP load generator, ApacheBench (ab) replacement](https://github.com/rakyll/hey) 😴inactive
+[alexfernandez/loadtest: Runs a load test on the selected URL. Easy to extend minimally for your own ends.](https://github.com/alexfernandez/loadtest) 😴inactive
+[codesenberg/bombardier: Fast cross-platform HTTP benchmarking tool written in Go](https://github.com/codesenberg/bombardier) 😴inactive, no header config?
 
 ## Gatling
 
@@ -466,7 +467,7 @@ class ParameterizedSimulation extends Simulation {
 [Mockable: Quickly create REST and SOAP mocks](https://www.mockable.io/)
 
 [RequestBin — A modern request bin to collect, inspect and debug HTTP requests and webhooks - Pipedream](https://pipedream.com/requestbin)
-[PipedreamHQ/pipedream: Connect APIs, remarkably fast. Free for developers.](https://github.com/PipedreamHQ/pipedream)
+[PipedreamHQ/pipedream: Connect APIs, remarkably fast. Free for developers.](https://github.com/PipedreamHQ/pipedream) hosted
 [Webhook.site - Test, process and transform emails and HTTP requests](https://webhook.site/#!/04199650-1606-47ce-9c38-a97502687bd9)
 
 [httpbin.org](https://httpbin.org/)

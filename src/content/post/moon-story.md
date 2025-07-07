@@ -2,7 +2,7 @@
 title: Moon Story
 description: ""
 created: 2016-01-31
-updated: 2025-01-09
+updated: 2025-05-10
 tags:
   - history
   - moon
@@ -19,8 +19,11 @@ tags:
 [【月球第三部】人類無法再次登月的另一種可能 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=Udvl_VJoM94)
 
 [美國為何 50 年間不登月，為何最近又高調宣佈重返月球？「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=R5l7DJHq2cM)
+[阿姆斯壮究竟在月球上看到了什麼？诡异月震实验，人类无法再登月的真相...1小时中间无广告合集 [She's Xiaowu 小乌] - YouTube](https://www.youtube.com/watch?v=I3MR1P_qBJU)
 [重返月球 1：2024 月球登陸有何不同？ - YouTube](https://www.youtube.com/watch?v=rngR2Y1QLXo)
 [深挖：第二個登上月球的人，為什麼不敢對著《聖經》發誓？他糾結的一生，古怪的回答，難道一切都不是傳說？還有，無法穿越的輻射帶，不合理的照片，在美國重啟登月之際，我們再來聊聊這個故事……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=tJXudqboKEo)
+
+[阿姆斯壮究竟在月球上看到了什麼？诡异月震实验，人类无法再登月的真相...1小时中间无广告合集 [She's Xiaowu 小乌] - YouTube](https://www.youtube.com/watch?v=I3MR1P_qBJU)
 
 ## Project Apollo
 
@@ -70,7 +73,10 @@ On July 20, 1969, Apollo 11 successfully sent Neil Armstrong and Buzz Aldrin to 
 [Apollo Guidance Computer - Wikiwand](https://www.wikiwand.com/en/Apollo_Guidance_Computer)
 first computer to use silicon-based integrated circuits
 [5 Engineering Facts About the Apollo Guidance Computer | Design News](https://www.designnews.com/electronics-test/5-engineering-facts-about-apollo-guidance-computer/101691942561193)
-[Apollo Guidance Computer Restoration - YouTube](https://www.youtube.com/playlist?list=PL-_93BVApb59FWrLZfdlisi_x7-Ut_-w7) CuriousMarc
+
+CuriousMarc
+[Apollo Guidance Computer Restoration - YouTube](https://www.youtube.com/playlist?list=PL-_93BVApb59FWrLZfdlisi_x7-Ut_-w7)
+[Apollo S-Band Communications - YouTube](https://www.youtube.com/playlist?list=PL-_93BVApb58SXL-BCv4rVHL-8GuC2WGb)
 
 [The Real Story Behind the Apollo 11 Computer Error | WSJ - YouTube](https://www.youtube.com/watch?v=z4cn93H6sM0)
 [Don Eyles Walks Us Through the Lunar Module Source Code | Hackaday](http://hackaday.com/2016/07/05/don-eyles-walks-us-through-the-lunar-module-source-code/)

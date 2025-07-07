@@ -2,7 +2,7 @@
 title: Kernel
 description: ""
 created: 2016-03-27
-updated: 2025-01-09
+updated: 2025-03-09
 tags:
   - comp
   - linux
@@ -23,8 +23,6 @@ tags:
 [Operating Systems and Middleware: Supporting Controlled Interaction](https://gustavus.edu/mcs/max/os-book/) stopped updating
 
 [Optimizing for Workloads: Linux Spinlocks vs. Mutexes | Nathan Petersen](https://nathanpetersen.com/2019/02/17/optimizing-for-workloads-linux-spinlocks-vs-mutexes/)
-
-[What Does It Take to Make a Kernel? | Linux Journal](https://www.linuxjournal.com/content/what-does-it-take-make-kernel-0)
 
 [Is It Time to Rewrite the Operating System in Rust? - YouTube](https://www.youtube.com/watch?v=HgtRAbE1nBM) history of OS
 
@@ -187,7 +185,18 @@ Recompiles drivers against kernel header on host on every driver update OR kerne
 
 ### Audio subsystem
 
+[PipeWire](https://pipewire.org/)
+[PipeWire - ArchWiki](https://wiki.archlinux.org/title/PipeWire)
+[PipeWire: The Linux audio/video bus [LWN.net]](https://lwn.net/Articles/847412/)
+
+[PulseAudio](https://www.freedesktop.org/wiki/Software/PulseAudio/)
+[PulseAudio - ArchWiki](https://wiki.archlinux.org/title/PulseAudio)
+
+[Home | JACK Audio Connection Kit](https://jackaudio.org/)
+[JACK Audio Connection Kit - ArchWiki](https://wiki.archlinux.org/title/JACK_Audio_Connection_Kit)
+
 [Linux Audio Explained (ALSA vs PulseAudio vs JACK vs Pipewire Explained) - YouTube](https://www.youtube.com/watch?v=HxEXMHcwtlI)
+[What are the advantages of PipeWire over PulseAudio? : r/Fedora](https://www.reddit.com/r/Fedora/comments/m8nod5/what_are_the_advantages_of_pipewire_over/)
 
 ### GPIO/sysfs
 

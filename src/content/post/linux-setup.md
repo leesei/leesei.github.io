@@ -2,7 +2,7 @@
 title: Linux setup
 description: ""
 created: 2015-01-23
-updated: 2025-01-09
+updated: 2025-02-27
 tags:
   - desktop
   - linux
@@ -63,6 +63,21 @@ cat /sys/class/power_supply/BAT0/*
 [How to Monitor Laptop Battery Usage in Linux - Make Tech Easier](https://www.maketecheasier.com/monitor-laptop-battery-usage-linux/)
 
 [Battery life on linux systems : linux](https://www.reddit.com/r/linux/comments/7wn791/battery_life_on_linux_systems/)
+
+## NetworkManager
+
+```sh
+# list connections
+nmcli con
+
+# set DNS server
+nmcli con mod <connection_name> ipv4.dns <dns_server>
+# e.g.
+nmcli con mod "Wired connection 1" ipv4.dns 8.8.8.8
+
+# restart for new settings to take effect
+sudo service NetworkManager restart
+```
 
 ## Wifi
 

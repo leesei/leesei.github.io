@@ -2,7 +2,7 @@
 title: Dragon Ball
 description: ""
 created: 2020-05-28
-updated: 2025-01-09
+updated: 2025-02-16
 tags:
   - anime
 ---
@@ -35,7 +35,7 @@ DBZ levelset?
 
 ### Dragon Ball Z
 
-[Dragon Ball Z Kai | Dragon Ball Wiki | FANDOM powered by Wikia](https://dragonball.fandom.com/wiki/Dragon_Ball_Z_Kai)
+[Dragon Ball Z Kai | Dragon Ball Wiki | Fandom](https://dragonball.fandom.com/wiki/Dragon_Ball_Z_Kai)
 [List of Dragon Ball Z Kai episodes - Wikiwand](https://www.wikiwand.com/en/List_of_Dragon_Ball_Z_Kai_episodes) this 2009-2011, 2014-2015 remaster is better than the 2019 Blueray remaster
 [龍珠改系列 - YouTube](https://www.youtube.com/playlist?list=PLzs8RCxI9YdSaqXkafdAjpXLfzVPJx_dQ)
 

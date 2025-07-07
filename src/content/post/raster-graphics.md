@@ -2,7 +2,7 @@
 title: Raster Graphics
 description: ""
 created: 2019-05-21
-updated: 2025-01-09
+updated: 2025-05-23
 tags:
   - app
   - desktop

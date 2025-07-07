@@ -2,13 +2,21 @@
 title: Vacation
 description: ""
 created: 2023-04-18
-updated: 2025-01-09
+updated: 2025-06-24
 tags:
   - holiday
   - trivia
 ---
 
-[旅遊行程規劃必備APP | 去趣 chicTrip 罩你的旅遊 照你的玩](https://www.chictrip.com.tw/)
+[去趣 chicTrip 官方網站 | 最便利的旅遊行程規劃 APP](https://www.chictrip.com.tw/)
+
+## SIM
+
+[eSIM vs. Local SIM: How I Choose When Traveling](https://www.makeuseof.com/esim-vs-local-sim-how-i-choose/)
+[eSIM vs. SIM, Explained: What's eSIM and What's the Difference?](https://www.makeuseof.com/tag/what-is-esim-better-sim-card/)
+
+[全港最抵 最多款全球各國電話卡 旅游數據上網卡 DataSIM](https://www.datasimstore.com/)
+[anlander 好貨加 - 匯聚智能家居及電子產品](https://anlander.com/)
 
 ## Flight
 
@@ -24,6 +32,7 @@ PNR: Passenger Name Record
 ## Power Plug
 
 [Plug & socket types](https://www.worldstandards.eu/electricity/plugs-and-sockets/)
+[How to Tell Different AC Plugs Around the World - ChargerLAB Explained - YouTube](https://www.youtube.com/watch?v=i4g6w6DNs9o)
 
 [【Taiwan Travel Guide】A Quick Overview of Taiwan's Plug Type and Weather | Justaiwantour Blog](https://www.justaiwantour.com/blog/2020/05/21/%E3%80%90taiwan-travel-guide%E3%80%91a-quick-overview-of-taiwans-plug-type-and-weather/)
 
@@ -49,5 +58,7 @@ PNR: Passenger Name Record
 [臺灣清治時期 - Wikiwand](https://www.wikiwand.com/zh/%E8%87%BA%E7%81%A3%E6%B8%85%E6%B2%BB%E6%99%82%E6%9C%9F)
 [台灣日治時期 - Wikiwand](https://www.wikiwand.com/zh/%E5%8F%B0%E7%81%A3%E6%97%A5%E6%B2%BB%E6%99%82%E6%9C%9F)
 [Why Was Taiwan Called the Republic of Formosa?](https://theculturetrip.com/asia/taiwan/articles/taiwan-called-republic-formosa/)
+
+[台灣電話卡推薦│本地買、台灣機場申請最平每日只需 $4.6 | ezone](https://ezone.hk/article/3523972/%E5%8F%B0%E7%81%A3%E9%9B%BB%E8%A9%B1%E5%8D%A1%E6%8E%A8%E8%96%A6-%E6%9C%AC%E5%9C%B0%E8%B2%B7-%E5%8F%B0%E7%81%A3%E6%A9%9F%E5%A0%B4%E7%94%B3%E8%AB%8B%E6%9C%80%E5%B9%B3%E6%AF%8F%E6%97%A5%E5%8F%AA%E9%9C%80-4-6)
 
 [EP 205 台灣的地名，都是怎麼來的？地名居然跟女巫、荷蘭人、日本人都有關係？｜志祺七七 Podcast - YouTube](https://www.youtube.com/watch?v=XNmGAhP9cqU)

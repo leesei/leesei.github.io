@@ -2,7 +2,7 @@
 title: Trackball
 description: ""
 created: 2015-06-15
-updated: 2025-01-09
+updated: 2025-04-28
 tags:
   - adesso
   - comp/hardware
@@ -19,6 +19,7 @@ tags:
 [TrackballWorld](http://www.trackballworld.com/)
 [Deskthority wiki](http://deskthority.net/wiki/Main_Page)
 
+[I Started Using a Trackball and Will Never Switch Back to a Mouse](https://www.makeuseof.com/reasons-trackball-mouse-better-than-traditional/)
 [Building and modding the Ploopy trackball - The Verge](https://www.theverge.com/22958439/trackball-diy-building-ploopy)
 
 ## TouchPad

@@ -2,7 +2,7 @@
 title: PC Games
 description: ""
 created: 2018-01-03
-updated: 2025-01-09
+updated: 2025-05-18
 tags:
   - games
 ---
@@ -27,6 +27,7 @@ tags:
 [LazerzZ - YouTube](https://www.youtube.com/@LazerzZ) good summary of gameplay and plot
 [Digital Foundry - YouTube](https://www.youtube.com/@DigitalFoundry) frame time analysis
 [Retro Renew - YouTube](https://www.youtube.com/@RetroRenew) mods, emulators
+[LegacyKillaHD - YouTube](https://www.youtube.com/@LegacyKillaHD) news, review
 
 [The Spiffing Brit Breaks Games - YouTube](https://www.youtube.com/playlist?list=PLcXPLd_I-oBqnNYc9x-L1Dbi5Zl0Jkzy7) exploiting game glitches and design flaws for fun
 
@@ -60,8 +61,11 @@ tags:
 
 [Can You RUN It | Can I Run It | Can My PC Run It](https://www.systemrequirementslab.com/cyri)
 [Why Video Game Graphics Degrade — And Who's to Blame? - YouTube](https://www.youtube.com/watch?v=Sz-_Nw8JNe4)
+[Why Are Modern Open World Games So Damn Empty? - YouTube](https://www.youtube.com/watch?v=Atx4Xl65JFI)
 [Why are Games so BIG now? - YouTube](https://www.youtube.com/watch?v=2y7l7kYNrSE)
 [Modern Gaming. - YouTube](https://www.youtube.com/watch?v=X8jC2KT481c)
+[The REAL REASON Why Video Games Suck Now - YouTube](https://www.youtube.com/watch?v=_Z5ITQJC1RM)
+[Why Modern Games Take FOREVER To Make - YouTube](https://www.youtube.com/watch?v=olAn5VN9Jl8)
 
 ## Game Manager/Launcher
 
@@ -584,6 +588,7 @@ Fallout 76 is an online only game with in-game store.
 [Fortnite | Download & Play For Free - Epic Games Store](https://store.epicgames.com/en-US/p/fortnite)
 
 [Fortnite Wiki | Fandom](https://fortnite.fandom.com/wiki/Fortnite_Wiki)
+[Weaponry (Battle Royale) | Fortnite Wiki | Fandom](<https://fortnite.fandom.com/wiki/Weaponry_(Battle_Royale)>)
 
 ## Fortnite Save the World
 
@@ -628,6 +633,17 @@ Beast
 
 [Steam Community :: Crysis](https://steamcommunity.com/app/17300/guides/)
 [Steam Community :: Guide :: Crysis Console Commands](https://steamcommunity.com/sharedfiles/filedetails/?id=113193939)
+
+# Avowed
+
+[Avowed Wiki](https://avowed.wiki.fextralife.com/)
+[Avowed Map | Interactive Map Checklist](https://avowed.wiki.fextralife.com/Interactive+Map)
+
+[Avowed Guide - IGN](https://www.ign.com/wikis/avowed)
+[Treasure Maps - Avowed Guide - IGN](https://www.ign.com/wikis/avowed/Treasure_Maps)
+[God Totem Fragments - Avowed Guide - IGN](https://www.ign.com/wikis/avowed/God_Totem_Fragments)
+[Pargrun Caches - Avowed Guide - IGN](https://www.ign.com/wikis/avowed/Pargrun_Caches)
+[Ancient Memories - Avowed Guide - IGN](https://www.ign.com/wikis/avowed/Ancient_Memories)
 
 # Mass Effect
 
@@ -762,6 +778,12 @@ r_soft_shadows none
 [『鬼泣5』（惡魔獵人5）系列梗最多的作品！大病区稳定发挥！究竟讲了什么故事！【修片狂魔】 - YouTube](https://www.youtube.com/watch?v=3If-LOVgdVg)
 [『鬼泣DMC』鬼泣系列最具争议的一部作品，主角但丁更改往日骚气，与鬼泣正传完全不同的世界观！【修片狂魔】 - YouTube](https://www.youtube.com/watch?v=W_-CHm5SkrA)
 
+# 光與影33號遠征隊
+
+[擊穿次元壁的敘事陷阱！【光與影33號遠征隊】終極劇情鑒賞 ︳Clair Obscur Expedition 33 Narrative Analysis 4K - YouTube](https://www.youtube.com/watch?v=9MPiOdLaNac&t=622s)
+[這遊戲的劇情，應該沒那麼簡單〖遊戲不止〗（33號遠徵隊） - YouTube](https://www.youtube.com/watch?v=tFr4whUAAQg)
+[【光與影：33號遠征隊】回合製遊戲還能這麼玩？這畫面也太優雅了吧！絕美的藝術盛宴！｜大狸子切切裡 - YouTube](https://www.youtube.com/watch?v=SVsfCFfH9vk)
+
 # Prince of Persia
 
 [Prince of Persia - Wikiwand](https://www.wikiwand.com/en/Prince_of_Persia)
@@ -877,8 +899,8 @@ Leya
 
 # Okami
 
-[Ōkami Wiki | FANDOM powered by Wikia](https://okami.fandom.com/wiki/%C5%8Ckami_Wiki:Main_Page)
-[Floral Finisher | Ōkami Wiki | FANDOM powered by Wikia](https://okami.fandom.com/wiki/Floral_Finisher)
+[Ōkami Wiki | Fandom](https://okami.fandom.com/wiki/%C5%8Ckami_Wiki:Main_Page)
+[Floral Finisher | Ōkami Wiki | Fandom](https://okami.fandom.com/wiki/Floral_Finisher)
 
 [DF Retro X Modern: Okami HD Hits Switch! All Console Versions Tested! - YouTube](https://www.youtube.com/watch?v=_L54LbYdzlU)
 [大神 絶景版（HD リマスター）～絶景の舞台裏～ Behind the Okami HD: ヘキサドライブ日記](http://hexadrive.sblo.jp/article/59698038.html)
@@ -887,10 +909,10 @@ Leya
 
 [Hollow Knight – An atmospheric adventure through a surreal, bug-infested world](https://hollowknight.com/)
 [Hollow Knight - Wikiwand](https://www.wikiwand.com/en/Hollow_Knight)
-[Hollow Knight Wiki | FANDOM powered by Wikia](https://hollowknight.fandom.com/wiki/Hollow_Knight_Wiki)
+[Hollow Knight Wiki | Fandom](https://hollowknight.fandom.com/wiki/Hollow_Knight_Wiki)
 [Hollow Knight | The Completionist - YouTube](https://www.youtube.com/watch?v=e4QGKT28kj0)
 
-[Category:Spells and Abilities (Hollow Knight) | Hollow Knight Wiki | FANDOM powered by Wikia](<https://hollowknight.fandom.com/wiki/Category:Spells_and_Abilities_(Hollow_Knight)>)
+[Category:Spells and Abilities (Hollow Knight) | Hollow Knight Wiki | Fandom](<https://hollowknight.fandom.com/wiki/Category:Spells_and_Abilities_(Hollow_Knight)>)
 [空洞骑士（虚空骑士）攻略集合 - YouTube](https://www.youtube.com/playlist?list=PL5Nnuy0hm7upg21POCCHVatFYkT8y0Z7D) dogsama
 [空洞骑士（窟窿骑士）故事解析集合 - YouTube](https://www.youtube.com/playlist?list=PL5Nnuy0hm7urUv27BVyO9TpGpQxh4MQAY) dogsama
 

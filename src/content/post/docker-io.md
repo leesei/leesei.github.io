@@ -2,7 +2,7 @@
 title: Docker.io
 description: Tools provided by Docker.io
 created: 2014-12-11
-updated: 2025-01-09
+updated: 2025-03-25
 tags:
   - container
   - dev/deploy
@@ -25,6 +25,7 @@ tags:
 
 [Dockercon 2021 | DockerCon 2021](https://docker.events.cube365.net/dockercon-live/2021)
 [Docker Production Best Practices from Bret Fisher at DockerCon - YouTube](https://www.youtube.com/watch?v=V4f_sHTzvCI) DockerCon 2017
+[How to Secure Docker Containers with Best Practices - KDnuggets](https://www.kdnuggets.com/how-to-secure-docker-containers-with-best-practices)
 
 ## Docker Compose
 

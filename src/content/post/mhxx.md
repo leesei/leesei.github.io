@@ -2,7 +2,7 @@
 title: Monster Hunter XX
 description: ""
 created: 2018-01-11
-updated: 2025-01-09
+updated: 2025-02-16
 tags:
   - games
   - mhxx
@@ -14,7 +14,7 @@ tags:
 [【MHXX】モンスターハンターダブルクロス攻略データベース](https://x.mh4info.com/)
 [MHXX wiki -(MHXX)モンスターハンターダブルクロス攻略データ wiki](http://mhx-wiki.com/)
 [モンハンダブルクロス(MHXX)攻略 Wiki ｜ゲームエイト](https://game8.jp/mhxx)
-[Monster Hunter XX | Monster Hunter Wiki | FANDOM powered by Wikia](http://monsterhunter.fandom.com/wiki/Monster_Hunter_XX)
+[Monster Hunter XX | Monster Hunter Wiki | Fandom](http://monsterhunter.fandom.com/wiki/Monster_Hunter_XX)
 [モンハン初心者講座ー MHXX（ダブルクロス）の攻略情報](http://bassy-mh.info/mhx-html)[モンハンダブルクロス(MHXX)攻略 Wiki - ゲーム攻略 GAMY](https://gamy.jp/monsterhunter-x)
 
 [魔物獵人 XX 武器圖鑑 全系武器套裝圖鑑及效果 - 蝦米攻略網](https://pcucgame.com/魔物獵人xx-武器圖鑑-全系武器套裝圖鑑及效果/)
@@ -192,9 +192,9 @@ X 的那 12 只二名的 1-10 任務全清，在加上 XX 追加的 G1-G5 的 5 
 
 ## Monsters
 
-[Category:MHXX Database | Monster Hunter Wiki | FANDOM powered by Wikia](http://monsterhunter.fandom.com/wiki/Category:MHXX_Database)
-[MHXX: Monsters | Monster Hunter Wiki | FANDOM powered by Wikia](http://monsterhunter.fandom.com/wiki/MHXX:_Monsters)
-[Monster Types | Monster Hunter Wiki | FANDOM powered by Wikia](http://monsterhunter.fandom.com/wiki/Monster_Types)
+[Category:MHXX Database | Monster Hunter Wiki | Fandom](http://monsterhunter.fandom.com/wiki/Category:MHXX_Database)
+[MHXX: Monsters | Monster Hunter Wiki | Fandom](http://monsterhunter.fandom.com/wiki/MHXX:_Monsters)
+[Monster Types | Monster Hunter Wiki | Fandom](http://monsterhunter.fandom.com/wiki/Monster_Types)
 
 [大型モンスター一覧 | 【MHXX】モンハンダブルクロス攻略レシピ](http://wiki.mhxg.org/data/2501.html)
 [小型モンスター一覧 | 【MHXX】モンハンダブルクロス攻略レシピ](http://wiki.mhxg.org/data/2502.html)

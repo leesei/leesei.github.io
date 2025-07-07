@@ -2,7 +2,7 @@
 title: Testing
 description: ""
 created: 2015-06-17
-updated: 2025-01-09
+updated: 2025-06-28
 tags:
   - comp/lang
   - dev/testing
@@ -316,13 +316,6 @@ Some test runners take the features and generate test scripts in various languag
 [Welcome to Nox — Nox documentation](https://nox.thea.codes/en/stable/) easier to break the abstraction
 [Thea Flowers - Break the Cycle: Three excellent Python tools to automate repetitive tasks - YouTube](https://www.youtube.com/watch?v=-BHverY7IwU)
 
-### Mock/Stub
-
-[Welcome to Faker’s documentation! — Faker documentation](https://faker.readthedocs.io/en/master/)
-[joke2k/faker: Faker is a Python package that generates fake data for you.](https://github.com/joke2k/faker)
-
-[chris1610/barnum-proj: Python application for generating pseudo-random data](https://github.com/chris1610/barnum-proj)
-
 ## JavaScript
 
 > TODO: Define "Test runner", "Assertion", "Framework"
@@ -437,19 +430,9 @@ experiment("getting started with hapi testing,", () => {
 [typicode/json-server: Get a full fake REST API with zero coding in less than 30 seconds (seriously)](https://github.com/typicode/json-server)
 [WireMock - WireMock](http://wiremock.org/)
 
-[Marak/faker.js](https://github.com/marak/Faker.js/)
-[dejavu1987/jabber: Simple random word / paragraph / lorem ipsum / dummy text generator.](https://github.com/dejavu1987/jabber)
-[Chance.js: Utility library to generate anything random for JavaScript](http://chancejs.com/)
-[drewbrokke/chance-token-replacer](https://github.com/drewbrokke/chance-token-replacer)
-[ngneat/falso: All the Fake Data for All Your Real Needs 🙂](https://github.com/ngneat/falso)
-[adleroliveira/dreamjs: A lightweight json data generator.](https://github.com/adleroliveira/dreamjs)
-[json-schema-faker/json-schema-faker: JSON-Schema + Faker](https://github.com/json-schema-faker/json-schema-faker)
-[danibram/mocker-data-generator](https://github.com/danibram/mocker-data-generator/)
-[aharris88/awesome-ipsum](https://github.com/aharris88/awesome-ipsum)
-
 [mfncooper/mockery: Simplifying the use of mocks with Node.js](https://github.com/mfncooper/mockery)
 [thlorenz/proxyquire: Proxies nodejs require in order to allow overriding dependencies during testing.](https://github.com/thlorenz/proxyquire)
-[rvagg/node-mkfiletree](https://github.com/rvagg/node-mkfiletree)
+[rvagg/mkfiletree: Make a tree of files and directories by from data defined in an object](https://github.com/rvagg/mkfiletree)
 
 [Introducing frock: Easy fake services for a microservices environment](https://www.urbanairship.com/blog/introducing-frock-easy-fake-services-for-a-microservices-environment)
 [urbanairship/frock: A plugin-based tool for running fake HTTP and socket services](https://github.com/urbanairship/frock)
@@ -481,28 +464,22 @@ lab -r tap
 [how I write tests for node and the browser](http://substack.net/how_I_write_tests_for_node_and_the_browser)
 
 [TAP in JavaScript](https://github.com/tapjs) `node-tap` evolved
-[substack/tape](https://github.com/substack/tape)
-[scottcorgan/tapes](https://github.com/scottcorgan/tapes), `tape` with `beforeEach()`, `afterEach()`
-[spion/blue-tape](https://github.com/spion/blue-tape) `tape` with promise
-[wavded/babel-tape-runner](https://github.com/wavded/babel-tape-runner)
-[Jam3/tap-dev-tool: prettifies TAP in the browser's console](https://github.com/Jam3/tap-dev-tool)
-
-[rvagg/bustermove](https://github.com/rvagg/bustermove) use Buster syntax in `tape`
+[tape-testing/tape: tap-producing test harness for node and browsers](https://github.com/tape-testing/tape)
+[scottcorgan/tapes: A more robust tap-producing test harness for node and browsers. Adds suites, beforeEach, afterEach, etc.](https://github.com/scottcorgan/tapes)
+[tapjs/tapjs: Test Anything Protocol tools for node](https://github.com/tapjs/tapjs) with promise
 
 Reporters:
-[scottcorgan/tap-spec](https://github.com/scottcorgan/tap-spec)
-[substack/faucet](https://github.com/substack/faucet)
-[namuol/tap-difflet](https://github.com/namuol/tap-difflet)
-[tap-nyan - npm](https://www.npmjs.com/package/tap-nyan)
+[tape-testing/faucet: human-readable TAP summarizer](https://github.com/tape-testing/faucet)
+[scottcorgan/tap-spec: Formatted TAP output like Mocha's spec reporter](https://github.com/scottcorgan/tap-spec)
+[gummesson/tap-min: Minimal TAP output formatter.](https://github.com/gummesson/tap-min)
 
 ### Assertion
 
-[hapijs-code · GitHub](https://github.com/hapijs/code)
-[Home - Chai](http://chaijs.com/)
+[Chai](https://www.chaijs.com/)
 [Chai HTTP - Chai](http://chaijs.com/plugins/chai-http)
-[Automattic/expect.js](https://github.com/Automattic/expect.js)
-[shouldjs/should.js](https://github.com/shouldjs/should.js)
-[sindresorhus/core-assert: Node.js `assert` as a standalone module](https://github.com/sindresorhus/core-assert)
+
+[hapijs/code: Assertion library](https://github.com/hapijs/code)
+[Automattic/expect.js: Minimalistic BDD-style assertions for Node.JS and the browser.](https://github.com/Automattic/expect.js)
 
 ### End-to-end
 
@@ -540,6 +517,8 @@ Reporters:
 [NoriSte/cypress-wait-until: Add the Cypress waiting power to virtually everything 🎉](https://github.com/NoriSte/cypress-wait-until)
 
 [Sleeping better at night with cypress.io - Tomasz Łakomy - YouTube](https://www.youtube.com/watch?v=-tE0SQ0cR4c)
+[Cypress Course - YouTube](https://www.youtube.com/playlist?list=PLjHVyq6aPCTP9JqdQb-UXBL5TknHMheQV)
+
 [Testing Angular with Cypress and Docker - TestDriven.io](https://testdriven.io/testing-angular-with-cypress-and-docker)
 [Implementing Your First End-to-End Tests In React Using Cypress](https://blog.openreplay.com/implementing-your-first-end-to-end-tests-in-react-using-cypress)
 [UI Testing a React App Using Cypress - Level Up Coding](https://levelup.gitconnected.com/ui-testing-a-react-app-using-cypress-247c3bc4cd94)

@@ -2,7 +2,7 @@
 title: Distributed Computing
 description: ""
 created: 2016-09-21
-updated: 2025-01-09
+updated: 2025-02-04
 tags:
   - web
 ---
@@ -85,8 +85,10 @@ A split brain is what happens when you have multiple autonomous sub-clusters for
 [pyamgx – Accelerated Python Library » ADMIN Magazine](http://www.admin-magazine.com/HPC/Articles/pyamgx-Accelerated-Python-[[Library]]) algebraic multigrid
 
 [Scale your pandas workflow by changing a single line of code. — Modin documentation](https://modin.readthedocs.io/en/latest/) Pandas API on Ray/Dask
-[Ray documentation](https://ray.readthedocs.io/en/latest/)
 [Dask: Scalable analytics in Python](https://dask.org/)
+
+[Ray documentation](https://ray.readthedocs.io/en/latest/)
+[An Introduction to Ray: The Swiss Army Knife of Distributed Computing - KDnuggets](https://www.kdnuggets.com/introduction-ray-swiss-army-knife-distributed-computing)
 
 [High-Performance Python – Distributed Python » ADMIN Magazine](https://www.admin-magazine.com/HPC/Articles/High-Performance-Python-4/)
 

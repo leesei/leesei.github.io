@@ -2,7 +2,7 @@
 title: Rust
 description: Static typed, GC-free system language created by Mozilla.
 created: 2015-11-19
-updated: 2024-10-03
+updated: 2025-02-04
 tags:
   - comp/lang
   - package-manager
@@ -200,6 +200,7 @@ Getting started:
 [From Python To Rust Series Archives - rebelScience](https://rebelscience.club/category/from-python-to-rust/)
 [rochacbruno/py2rs: A quick reference guide for the Pythonista in the process of becoming a Rustacean](https://github.com/rochacbruno/py2rs)
 [Learning Rust by Converting Python to Rust | by Shinichi Okada | Towards Data Science](https://towardsdatascience.com/learning-rust-by-converting-python-to-rust-259e735591c6)
+[A Gentle Introduction to Rust for Python Programmers - KDnuggets](https://www.kdnuggets.com/gentle-introduction-rust-python-programmers)
 
 [Introduction | Rust for C++ Programmers](https://aminb.gitbooks.io/rust-for-c/content/) [nrc/r4cppp: Rust for C++ programmers](https://github.com/nrc/r4cppp)
 [Introduction | Rust for C++ Programmers](https://aminb.gitbooks.io/rust-for-c/content/)

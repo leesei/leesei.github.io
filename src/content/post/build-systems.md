@@ -2,7 +2,7 @@
 title: Build Systems
 description: ""
 created: 2015-06-11
-updated: 2025-01-09
+updated: 2025-02-16
 tags:
   - bazel
   - buck
@@ -27,6 +27,8 @@ tags:
 [跟我一起写 Makefile](https://seisman.github.io/how-to-write-makefile/) [source](https://github.com/seisman/how-to-write-makefile)
 [Makefile Tutorial by Example](http://makefiletutorial.com/)
 [Linux Fu: The Great Power Of Make | Hackaday](https://hackaday.com/2018/06/22/linux-fu-the-great-power-of-make/)
+[Self-documenting Makefiles - by Julio Merino](https://blogsystem5.substack.com/p/make-help)
+[帶有 make help 說明的 Makefile – Gea-Suan Lin's BLOG](https://blog.gslin.org/archives/2025/01/12/12201/%e5%b8%b6%e6%9c%89-make-help-%e8%aa%aa%e6%98%8e%e7%9a%84-makefile/)
 
 [The joy of make at jsconfeu](http://codeofrob.com/entries/the-joy-of-make-at-jsconfeu.html)
 [Practical Makefiles, by example](http://nuclear.mutantstargoat.com/articles/make/)

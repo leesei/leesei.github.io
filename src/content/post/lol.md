@@ -2,7 +2,7 @@
 title: LOL
 description: ""
 created: 2018-09-03
-updated: 2025-01-09
+updated: 2025-05-02
 tags:
   - lol
   - trivia
@@ -16,6 +16,12 @@ tags:
 
 [十萬個冷笑話 第一季~第三季 - YouTube](https://www.youtube.com/playlist?list=PLi_OO5MFnSj0MU5UMCCLnIG1bqcia4HFh)
 
+[#周深 封神之曲《达拉崩吧》 - YouTube](https://www.youtube.com/watch?v=yM5NU6NPS_o)
+
+[【RPG遊戲】 - YouTube](https://www.youtube.com/playlist?list=PLst9zLbm4U1Sd17fqQKDzZ5wyDaXmK8Ji)
+
+[Harmless Pranks to Play On Your Co-Worker When They Step Away From Their Desk](https://www.makeuseof.com/harmless-windows-pranks/)
+
 勇者義彦
 
 When it comes to programming career, choose two in: Legal, Well Paid, Interesting
@@ -27,17 +33,38 @@ When it comes to programming career, choose two in: Legal, Well Paid, Interestin
 
 ## Stand ups
 
+[laugh out loud flix - YouTube](https://www.youtube.com/@lolflix/featured)
+[Two Jews - YouTube](https://www.youtube.com/@twojewscomedy)
+[Don McMillan - YouTube](https://www.youtube.com/@donmcmillancomedy)
+[louis ck - YouTube](https://www.youtube.com/results?search_query=louis+ck)
+
 [Stand up, Brian! 博恩站起來！ - YouTube](https://www.youtube.com/@StandupBrian)
 
 [黃子華 Dayo Wong 棟篤笑 - 官方頻道 - YouTube](https://www.youtube.com/@tzewahofficial)
 
 [德云欢乐铺 - YouTube](https://www.youtube.com/@DeYunShow)
+[漫品德云相声 - YouTube](https://www.youtube.com/@Crosstalk_DeYun)
+[赛博领笑员 - YouTube](https://www.youtube.com/@%E8%B5%9B%E5%8D%9A%E9%A2%86%E7%AC%91%E5%91%98)
 
-[louis ck - YouTube](https://www.youtube.com/results?search_query=louis+ck)
+[YouTube #脱口秀](https://www.youtube.com/hashtag/%E8%84%B1%E5%8F%A3%E7%A7%80)
 
-[Don McMillan - YouTube](https://www.youtube.com/@donmcmillancomedy)
+[Variety show - YouTube](https://www.youtube.com/@C-HitShow/featured)
+[【喜剧大会】重磅回归😎🤏😳🕶🤏点击领取今日欢乐！郭麒麟陪你笑不停！ - YouTube](https://www.youtube.com/playlist?list=PLua-L-o3nGJr3gG29eVXXHIW065_HDADb)
+[【喜人奇妙夜】爆笑小品一口气看个够🤣精彩幕后花絮等你来挖🫵 - YouTube](https://www.youtube.com/playlist?list=PLua-L-o3nGJoRQZovKegvgu5di8Fbt3zb)
+[【轻轻松松喜剧节】🎉定档0419🤩和各位新老朋友来一场轻松交流～ - YouTube](https://www.youtube.com/playlist?list=PLua-L-o3nGJqB--BYyLN3lERjszHNKPaV)
+[【脱口秀和ta的朋友们🎙️】脱6王者归来📢生活里的烦恼用脱口秀说说🤩 - YouTube](https://www.youtube.com/playlist?list=PLua-L-o3nGJqWMPrQqimqFVkfGQRl52Sc)
+[【脱口秀大会ROCK&ROAST 1-4季】纯享合辑💗原创棚内喜剧脱口秀💗 爆笑段子一次看过瘾，承包你所有笑点 | 每日更新中じ☆ve - YouTube](https://www.youtube.com/playlist?list=PLua-L-o3nGJo0xfJ6uz502wO1Tvdo25sC)
+[😎【Super嘎嘎man】💗“有趣综艺新偶像”选拔类真人秀 💗 好看的皮囊千篇一律，有趣的灵魂万里挑一 | 每日更新中じ☆ve - YouTube](https://www.youtube.com/playlist?list=PLua-L-o3nGJqxphJbmu0GLSHWF8xtZaCA)
 
-[Two Jews - YouTube](https://www.youtube.com/@twojewscomedy/featured)
+[Watch Together - YouTube](https://www.youtube.com/@video-cntalkshow/playlists)
+[【喜人奇妙夜】 - YouTube](https://www.youtube.com/playlist?list=PLr9yg5FoAw_NxmHSN4gc0nKmVwOSSTB73)
+[【单排喜剧大赛】和徐志胜/郭德纲/阎鹤祥一起感受单排喜剧的快乐~ - YouTube](https://www.youtube.com/playlist?list=PLr9yg5FoAw_OC7jZb8B-wJt9B5TL5-r7N)
+[【脱口秀开小会啦~】和李诞一起来到脱口秀小餐厅 一起畅聊台前幕后、生活趣事、每个人不为人知的小故事！ - YouTube](https://www.youtube.com/playlist?list=PLr9yg5FoAw_MhIm3grelP7-K8YJkB3jev)
+
+[綜劇安利社 - YouTube](https://www.youtube.com/@talkshowchannel)
+[【单排喜剧大赛】郭德纲阎鹤祥徐志胜组建单人喜剧厂牌？！谁才是solo comedy的王！#单排喜剧大赛 #喜剧 #综艺 - YouTube](https://www.youtube.com/playlist?list=PL3483-r9ZH78QpXMK0e04za0GIMvzuNWR)
+[【喜人奇妙夜】马东黄渤秦昊高圆圆贾冰领衔王牌喜剧综艺爆笑回归！ - YouTube](https://www.youtube.com/playlist?list=PL3483-r9ZH7-3TbwjQRSTMnwa-ms20CQN)
+[【脱口秀和Ta的朋友们】脱口秀新综艺！大家的快乐回归了！#脱口秀 #助眠 #talkshow #搞笑 #综艺 #娱乐 #呼兰 #何广智 #赵晓卉 #徐志胜 - YouTube](https://www.youtube.com/playlist?list=PL3483-r9ZH78Udec9SGAdW8FzxhKgXe_1)
 
 ## Meme
 
@@ -53,6 +80,8 @@ When it comes to programming career, choose two in: Legal, Well Paid, Interestin
 [Homestar Runner Wiki](http://www.hrwiki.org/wiki/Main_Page)
 
 [墨鏡哥SG - YouTube](https://www.youtube.com/@SG666)
+[笑中乐 - YouTube](https://www.youtube.com/@%E7%AC%91%E4%B8%AD%E4%B9%90/)
+[三度C - YouTube](https://www.youtube.com/@3doc9553)
 
 [【名梗盘点】为什么你只是看着？假面骑士破圈名梗 TOP10！ - YouTube](https://www.youtube.com/watch?v=ZL-bA2tgmZo)
 [【名梗盘点】砸瓦鲁多是无敌哒！JOJO 破圈名梗盘点 TOP10！ - YouTube](https://www.youtube.com/watch?v=4TSSLb9d3cc)
@@ -76,7 +105,7 @@ When it comes to programming career, choose two in: Legal, Well Paid, Interestin
 亞熱帶蜚蠊 蟑螂
 だが ことわる/だが 斷る 但是, 我拒絕
 
-[낄낄상회 - YouTube](https://www.youtube.com/channel/UCLVwgJVAzHwA-zv88mrAeZw)
+[낄낄상회 - YouTube](https://www.youtube.com/@GGILGGILMARKET)
 [낄낄상회 | Facebook](https://www.facebook.com/watch/search/?q=%EB%82%84%EB%82%84%EC%83%81%ED%9A%8C)
 
 [Casually Explained - YouTube](https://www.youtube.com/@CasuallyExplained) sarcastic
@@ -86,6 +115,7 @@ When it comes to programming career, choose two in: Legal, Well Paid, Interestin
 [口水封神 第一季 36 集全 Investiture of the Gods Season1 - YouTube](https://www.youtube.com/playlist?list=PLIAs8wTJiEhnWT8Om25rAYsl_CrYM_5kf)
 [口水三国 第一季 120 集全 Three Kingdoms Talk Show Season1 - YouTube](https://www.youtube.com/playlist?list=PLIAs8wTJiEhnIuW6S-3cg6zSNB-2ZmDYZ)
 [口水三国 2 海外版 连载中](https://www.youtube.com/playlist?list=PLIAs8wTJiEhnhmewHcZ2hwPY2XHg6spxq)
+[Steven He - YouTube](https://www.youtube.com/@StevenHe)
 
 [30 Programming Memes That Will Lighten Your Mood - part 1 | JavaScript In Plain English](https://medium.com/javascript-in-plain-english/30-programming-memes-that-will-lighten-your-mood-265b4fe50229)
 [30 Programming Memes That Will Lighten Your Mood | by Atit | JavaScript In Plain English | Jan, 2021 | Medium](https://medium.com/javascript-in-plain-english/30-programming-memes-that-will-lighten-your-mood-part-2-5946d8b7d3cd)

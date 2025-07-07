@@ -2,7 +2,7 @@
 title: Borderlands
 description: ""
 created: 2023-08-14
-updated: 2025-01-09
+updated: 2025-02-16
 tags:
   - borderlands
   - games
@@ -35,7 +35,7 @@ tags:
 
 ## Manufacturers
 
-[Manufacturer | Borderlands Wiki | FANDOM powered by Wikia](https://borderlands.fandom.com/wiki/Manufacturer)
+[Manufacturer | Borderlands Wiki | Fandom](https://borderlands.fandom.com/wiki/Manufacturer)
 [All weapon manufacturers in Borderlands 3, explained | Windows Central](https://www.windowscentral.com/all-weapon-manufacturers-borderlands-3-explained)
 [Here’s What All 9 Different Gun Brands Do In ‘Borderlands 3’](https://www.forbes.com/sites/paultassi/2019/09/16/heres-what-all-9-different-gun-brands-do-in-borderlands-3/#2cf7b188212e)
 [Borderlands 3 weapons manufacturers and weapon rarity explained • Eurogamer.net](https://www.eurogamer.net/articles/2019-07-29-borderlands-3-weapons-manufacturers-weapon-rarity-6039)

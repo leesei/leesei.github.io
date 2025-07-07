@@ -2,7 +2,7 @@
 title: Python settings
 description: ""
 created: 2014-12-11
-updated: 2025-01-09
+updated: 2025-05-12
 tags:
   - comp/lang
   - package-manager
@@ -68,17 +68,33 @@ python -c "import site; print(site.getsitepackages())"
 [pip vs. uv: How Streamlit Cloud sped up app load times by 55%](https://blog.streamlit.io/python-pip-vs-astral-uv/)
 [A New Python Package Manager - KDnuggets](https://www.kdnuggets.com/new-python-package-manager)
 
-## Anaconda
+```sh
+uv python list
+uv python install 3.10 3.11 3.12
+
+uv init <project> # creates `pyproject.toml`
+uv add <deps>
+uv sync
+
+uv venv --python 3.12.0
+uv python pin 3.11 # writes `.python-version`
+```
+
+### Anaconda
 
 [Anaconda Distribution | Continuum Analytics: Documentation](https://docs.continuum.io/anaconda/)
 [Presentations & Blog Posts — Conda documentation](http://conda.pydata.org/docs/)
+[Conda Documentation — conda documentation](https://docs.conda.io/projects/conda/en/stable/)
+[Cheatsheet — conda documentation](https://docs.conda.io/projects/conda/en/stable/user-guide/cheatsheet.html)
+
+[Learning Catalog](https://learning.anaconda.cloud/page/catalog)
 
 - introduces the whole root file system
 - still depends on system libraries
 - the conda environment could potentially leak
 - could have used Docker nowadays
 
-### Installing pip
+### pip
 
 [pip — documentation](https://pip.pypa.io/en/stable/)
 [Installation — pip documentation](https://pip.pypa.io/en/latest/installing.html)
@@ -93,7 +109,7 @@ curl -OL https://bootstrap.pypa.io/get-pip.py
 sudo python get-pip.py
 ```
 
-### `pip` Usage
+#### `pip` Usage
 
 ```sh
 pip install package
@@ -116,7 +132,7 @@ pip install --no-cache-dir -r requirements.txt
 --no-cache-dir
 ```
 
-### conditions in `requirements.txt`
+#### conditions in `requirements.txt`
 
 [pip - Is there a way to have a conditional requirements.txt file for my Python application based on platform? - Stack Overflow](https://stackoverflow.com/questions/29222269/is-there-a-way-to-have-a-conditional-requirements-txt-file-for-my-python-applica)
 [PEP 508 – Dependency specification for Python Software Packages | peps.python.org](https://peps.python.org/pep-0508/)
@@ -401,6 +417,7 @@ pip install --user python-pygame
 [6 Python libraries every programmer will love | InfoWorld](http://www.infoworld.com/article/3008915/application-development/6-python-libraries-every-programmer-will-love.html)
 [4 can't-miss Python goodies from Microsoft, Google, Facebook, and Uber | InfoWorld](http://www.infoworld.com/article/3126468/application-development/4-cant-miss-python-goodies-from-microsoft-google-facebook-and-uber.html)
 [Top 10 Python Libraries You Should Know | Tryolabs Blog](https://tryolabs.com/blog/2019/12/10/top-10-python-libraries-of-2019/)
+[30 Must-Know Tools for Python Development - KDnuggets](https://www.kdnuggets.com/2025/02/nettresults/30-must-know-tools-for-python-development)
 [5 wicked-fast Python frameworks you have to try | InfoWorld](http://www.infoworld.com/article/3133854/application-development/5-wicked-fast-python-frameworks-you-have-to-try.html)
 [The World of Zope — Zope Project and Community documentation](https://www.zope.org/world.html#tools)
 [15 Python Libraries You Should Know About in 2023 - YouTube](https://www.youtube.com/watch?v=o06MyVhYte4)
@@ -617,6 +634,7 @@ except* aiohttp.ClientResponseError:
 [How to use asyncio in Python | InfoWorld](https://www.infoworld.com/article/3526429/how-to-use-asyncio-in-python.html)
 [3 steps to a Python async overhaul | InfoWorld](https://www.infoworld.com/article/3562577/3-steps-to-a-python-async-overhaul.html)
 [Python async/await Tutorial](https://stackabuse.com/python-async-await-tutorial)
+[Getting Started with Python’s asyncio Library - KDnuggets](https://www.kdnuggets.com/getting-started-with-pythons-asyncio-library)
 
 [import asyncio: Learn Python's AsyncIO - YouTube](https://www.youtube.com/playlist?list=PLhNSoGM2ik6SIkVGXWBwerucXjgP1rHmB) EdgeDB
 [How To Easily Do Asynchronous Programming With Asyncio In Python - YouTube](https://www.youtube.com/watch?v=2IW-ZEui4h4)
@@ -747,8 +765,12 @@ print({section: dict(config[section]) for section in config.sections()})
 
 [PEP 249 – Python Database API Specification v2.0 | peps.python.org](https://peps.python.org/pep-0249/)
 
-[SQLModel](https://sqlmodel.tiangolo.com/) of the FastAPI family, uses Pydantic
+[SQLModel](https://sqlmodel.tiangolo.com/) of the FastAPI family, same model for app and ORM, uses Pydantic
 [Why You Should Switch to SQLModel for FastAPI Projects - YouTube](https://www.youtube.com/watch?v=GONyd0CUrPc)
+
+[Tortoise ORM - Tortoise ORM Documentation](https://tortoise.github.io/)
+[Tortoise-ORM FastAPI integration - Tortoise ORM Documentation](https://tortoise.github.io/contrib/fastapi.html?h=fas)
+[Tortoise ORM / FastAPI 整合快速筆記 | 六小編 Editor Leon](https://editor.leonh.space/2022/tortoise/)
 
 [SQLAlchemy - The Database Toolkit for Python](http://www.sqlalchemy.org/)
 [dahlia/awesome-sqlalchemy: A curated list of awesome tools for SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
@@ -864,6 +886,7 @@ print({section: dict(config[section]) for section in config.sections()})
 
 [Cookiecutter Templates](http://cookiecutter-templates.sebastianruml.name/)
 [nvie/cookiecutter-python-cli](https://github.com/nvie/cookiecutter-python-cli)
+[jfhbrook/templates: Josh H's Cookiecutter templates](https://github.com/jfhbrook/templates)
 
 [bpw1621/ordained: An opinionated template for Python packages.](https://github.com/bpw1621/ordained)
 [ORDAINED: The Python Project Template - KDnuggets](https://www.kdnuggets.com/2021/11/ordained-python-project-template.html)
@@ -1192,6 +1215,8 @@ Defines `pyproject.toml`, decouples from `setuptools` to allow multiple build to
 > build backend: knows how to take a source tree and turn it into a distributable artifact — a source distribution or a wheel (e.g.: setuptools or flit)
 > build frontend: orchestrates the build environment and invokes the build backend, possibly creates environment for the build (e.g.: pip or build, test runners like tox or nox)
 
+[7 Tools To Help Write Better Python Code - KDnuggets](https://www.kdnuggets.com/7-tools-help-write-better-python-code)
+
 [build](https://pypa-build.readthedocs.io/en/stable/) PEP 517 frontend
 
 [Ruff](https://docs.astral.sh/ruff/) all-in-one tool, used by many
@@ -1235,10 +1260,10 @@ The act of bundling all dependencies, and optionally to make a standalone binary
 
 osnap
 pynist
-nuitka
+
+[[python-lang#Nuitka]]
 
 [Briefcase](https://briefcase.readthedocs.io/en/latest/)
-[Nuitka the Python Compiler — Nuitka the Python Compiler documentation](https://nuitka.net/)
 
 [linkedin/shiv: shiv is a command line utility for building fully self contained Python zipapps as outlined in PEP 441, but with all their dependencies included.](https://github.com/linkedin/shiv)
 
@@ -1255,6 +1280,7 @@ nuitka
 [PyInstaller Manual — PyInstaller documentation](https://pyinstaller.readthedocs.io/en/latest/)
 [pyinstaller/pyinstaller: Freeze (package) Python programs into stand-alone executables](https://github.com/pyinstaller/pyinstaller)
 
+[听说还有人不知道怎么把Python游戏打包成exe？ #Python #打包exe #pyinstaller #pgzero #编程 #计算机 #程序员 - YouTube](https://www.youtube.com/watch?v=qyc2c9eAt4I)
 [brentvollebregt/auto-py-to-exe: Converts .py to .exe using a simple graphical interface](https://github.com/brentvollebregt/auto-py-to-exe)
 [How to Create Executable Applications in Python | Tom's Hardware](https://www.tomshardware.com/how-to/create-python-executable-applications)
 

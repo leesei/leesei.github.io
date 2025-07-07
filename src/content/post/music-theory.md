@@ -2,7 +2,7 @@
 title: Music Theory
 description: ""
 created: 2016-10-11
-updated: 2025-01-09
+updated: 2025-07-03
 tags:
   - music
   - trivia
@@ -15,17 +15,21 @@ tags:
 [How Music Works : Overview : How Music Works](http://www.howmusicworks.org/)
 [Musical U: Become More Musical](https://www.musical-u.com/)
 [1. Music Theory Fundamentals -- LearnMusicTheory.net](http://learnmusictheory.net/lmtnet/fundamentals/)
-[Music theory concepts ranked by importance - YouTube](https://www.youtube.com/watch?v=ItsMmqTOgKo)
-
 [Thomann Online Guides - Thomann UK](https://www.thomann.de/gb/onlineexpert.html)
 
 [音樂家的無聊人生 Musician Seacow - YouTube](https://www.youtube.com/@musicianseacow)
-[Feng's Music Channel - YouTube](https://www.youtube.com/channel/UCyh_y1SIGj_cUqMeoewO5_w)
 [笑哈哈 LOL - YouTube](https://www.youtube.com/channel/UCl42iEuQpjTWzzheHM5SOgg)
 [薛汀哲 - YouTube](https://www.youtube.com/@user-fl1pi9od2x)
 [Animenz Piano Sheets - YouTube](https://www.youtube.com/user/Animenzzz)
 [Chloe's Music Classroom - YouTube](https://www.youtube.com/channel/UCgimPr3oAwVX_jRhVj44SNQ)
-[8-bit Music Theory - YouTube](https://www.youtube.com/channel/UCeZLO2VgbZHeDcongKzzfOw)
+[叨叨冯聊音乐 - YouTube](https://www.youtube.com/@daodaofeng)
+
+[Brad Harrison Music - YouTube](https://www.youtube.com/@BradHarrison)
+[Classical Covers - YouTube](https://www.youtube.com/@ClassicalCovers)
+[Montechait - YouTube](https://www.youtube.com/@Montechait)
+[David Bennett Piano - YouTube](https://www.youtube.com/@DavidBennettPiano)
+[Matthew Cawood - YouTube](https://www.youtube.com/@matticawood)
+[Tantacrul - YouTube](https://www.youtube.com/@Tantacrul)
 
 [NiceChord (好和弦) - YouTube](https://www.youtube.com/@nicechordwiwi)
 [五線譜：一次搞懂所有你該知道的、基本的事情。 - YouTube](https://www.youtube.com/watch?v=qkt5X_4FJBY)
@@ -38,8 +42,23 @@ tags:
 [Cantata - Wikiwand](https://www.wikiwand.com/en/Cantata)
 [清唱套曲 - Wikiwand](https://www.wikiwand.com/zh/%E6%B8%85%E5%94%B1%E5%A5%97%E6%9B%B2)
 
+[The Music Theory Iceberg Explained - YouTube](https://www.youtube.com/watch?v=NmeogiNhdHI)
+[Music theory concepts ranked by importance - YouTube](https://www.youtube.com/watch?v=ItsMmqTOgKo)
 [Complete Piano Theory Course: Chords, Intervals, Scales & More! - YouTube](https://www.youtube.com/watch?v=Ud9CpGOG1GE)
 [Music Theory ~ Review Video (AP and Undergraduate) - YouTube](https://www.youtube.com/watch?v=QAGUWiVC1ys)
+[Music Theory videos - YouTube](https://www.youtube.com/playlist?list=PLDaNGknQ_wTh3eXyjB0smdEYSvqa-wJ1_) Brad Harrison Music
+[Music Theory For Producers (This Is All You Need) - YouTube](https://www.youtube.com/watch?v=KlAqx_8_7vU)
+[music theory is easy. - YouTube](https://www.youtube.com/watch?v=OtBqDgOsW1c)
+[Music theory you actually need, none of the sh\*t you don’t - YouTube](https://www.youtube.com/watch?v=2NWp7tC-9Hk)
+
+[samuraiguitarist - YouTube](https://www.youtube.com/@samuraiguitarist)
+[MUSIC THEORY for guitar - YouTube](https://www.youtube.com/watch?v=o-qNepGpI3U)
+
+[Pianote - YouTube](https://www.youtube.com/@PianoteOfficial)
+[A Beginner's Guide To Music Theory (Everything You Need To Know) - YouTube](https://www.youtube.com/watch?v=6CFP9DF706s)
+[Beginner Piano Lessons - YouTube](https://www.youtube.com/playlist?list=PLfM8ivjJ-rKXL-qnJ3UPEjOHfOtLRjlIH)
+[Play Any Song By Ear in 3 Simple Steps (Piano Lesson) - YouTube](https://www.youtube.com/watch?v=bKFRBmG0aTQ)
+
 Melodic intervals: play notes sequentially
 Harmonic intervals: play notes simultaneously
 
@@ -47,6 +66,9 @@ Harmonic intervals: play notes simultaneously
 [Learn music theory in half an hour. - YouTube](https://www.youtube.com/watch?v=rgaTLrZGlk0)
 
 [音乐常识补充（一）](https://www.douban.com/note/322287138/)
+
+[Benedetti's Puzzle (mathematically impossible music) - YouTube](https://www.youtube.com/watch?v=TYhPAbsIqA8)
+[Benedetti's Puzzle SOLVED (response to Adam Neely) - YouTube](https://www.youtube.com/watch?v=wUwC4syOX1s)
 
 [[音樂辭典] 不囉唆的音樂名詞查詢器 by NiceChord](https://nicechord.com/terms/)
 [Why do we use Italian words in music notation? - Classic FM](http://www.classicfm.com/discover-music/music-theory/why-italian-words-in-music-notation/)
@@ -77,13 +99,24 @@ Harmonic intervals: play notes simultaneously
 
 [Music And Measure Theory - YouTube](https://www.youtube.com/watch?v=cyW5z-M2yzw)
 
+[Why are there 12 different notes? - YouTube](https://www.youtube.com/watch?v=NgW3zUWVWnI) ❗!important
+Just Intonation (using overtone's ratios, only work for the starting note) => Pythagorean Tuning (Perfect fifths, rounding error) => Equal temperament
+[Understanding Musical Scales: Pentatonic, Diatonic, Chromatic - YouTube](https://www.youtube.com/watch?v=sfLn0DIfCdI) ❗!important
+
+David Bennett Piano
+[Why is there no B# or E# note on the piano? - YouTube](https://www.youtube.com/watch?v=lN54Y73LlLo)
+[Why pianos and guitars aren’t really in tune (just intonation vs 12TET) - YouTube](https://www.youtube.com/watch?v=7JhVcGtT8z4)
+
+Pentatonic Scale: 12356 on C major, only full steps, one of the oldest scale
+
+[Musical Scales and Modes - Online Piano & Music Notes](https://pulse.berklee.edu/?id=4&lesson=73)
+
 ### 音名/唱名
 
 [音名 - Wikiwand](https://www.wikiwand.com/zh/%E9%9F%B3%E5%90%8D)
 [Key signature names and translations - Wikiwand](https://www.wikiwand.com/en/Key_signature_names_and_translations)
 [Solfège - Wikiwand](https://www.wikiwand.com/en/Solf%C3%A8ge)
 [唱名 - Wikiwand](https://www.wikiwand.com/zh/%E5%94%B1%E5%90%8D)
-
 音名 corresponds to a note at specific frequency
 唱名 is am alias given to the n-th note in the scale
 
@@ -128,6 +161,7 @@ where:
 
 [A = 432Hz - YouTube](https://www.youtube.com/watch?v=EKTZ151yLnk)
 [Scientific pitch - Wikiwand](https://www.wikiwand.com/en/Scientific_pitch)
+[【漫士】音乐动听的背后，藏着怎样的数学密码？ - YouTube](https://www.youtube.com/watch?v=86y0gZnxuWE)
 
 [Piano key frequencies - Wikiwand](https://www.wikiwand.com/en/Piano_key_frequencies)
 
@@ -142,13 +176,26 @@ where:
 [The Ultimate Guide to Interval Ear Training](https://www.musical-u.com/learn/ultimate-guide-to-interval-ear-training/)
 [Stichting Huygens-Fokker: List of intervals](https://www.huygens-fokker.org/docs/intervals.html)
 
-The distance between notes is called interval, counted in steps and half-steps (tone and semitone).
+The distance between notes is called interval, counted in steps (whole, W) and half-steps (H) (in British: tone (T) and semitone (S)).
 A cent is 1/100 of a semitone.
 
-Remember to include the start node when counting:
+Remember to include the start note when counting:
 
 - C and D has an interval of a 2nd (1 tone)
 - C and G has an interval of a 5th (3.5 tone)
+
+[Songs that will help you identify ascending intervals - YouTube](https://www.youtube.com/watch?v=PhDIm_2qS5s)
+[Ear Training and Sight Singing: The Superpower you get from Music School - YouTube](https://www.youtube.com/watch?v=Ed2VUq9cu1I)
+
+![Intervals](./_assets/music-theory/intervals.png)
+
+Interval is highly related to solfège
+Minor 2nd (half step), Jaws
+Major 2nd, do-re
+Major 3rd, doorbell, do-mi
+Perfect 4th, Wagner's Bridal Chorus, Star Wars, do-fa
+Tritone, The Simpsons (The Sim)
+Perfect 5th, Superman
 
 [Perfect fifth - Wikiwand](https://www.wikiwand.com/en/Perfect_fifth) 纯五度, 7 semitones, 3:2 ratio
 Perfect forth, 4:3 ratio
@@ -166,12 +213,14 @@ ISO picked 440Hz as the frequency of middle A
 [Noyce Guitars: Technotes: Equal Temperament & Guitar Tuning](http://www.noyceguitars.com/Technotes/Articles/T4.html)
 [Testing 432 Hz Frequencies (and temperaments) - YouTube](https://www.youtube.com/watch?v=ghUs-84NAAU)
 
+Other attempts to fix Pythagorean Tuning
 [Meantone temperament - Wikiwand](https://www.wikiwand.com/en/Meantone_temperament)
+[Well temperament - Wikiwand](https://www.wikiwand.com/en/articles/Well%20temperament)
 
 ### 五度相生法/Pythagorean tuning
 
 [五度相生律 - Wikiwand](https://www.wikiwand.com/zh/%E4%BA%94%E5%BA%A6%E7%9B%B8%E7%94%9F%E5%BE%8B)
-[Pythagorean tuning - Wikiwand](https://www.wikiwand.com/en/Pythagorean_tuning)
+[Pythagorean tun ing - Wikiwand](https://www.wikiwand.com/en/Pythagorean_tuning)
 based on ratio of 3:2 ("pure" perfect fifths)
 
 [How Pythagoras Broke Music (and how we kind of fixed it) - YouTube](https://www.youtube.com/watch?v=EdYzqLgMmgk)
@@ -196,6 +245,7 @@ based on ratio of 3:2 ("pure" perfect fifths)
 ### 十二平均律/Equal temperament/Chromatic Scale
 
 Geometric mean, keeping ratios of neighbor notes constant (one semitone)
+This is more instrument friendly
 
 Chromatic Scale: All 12 piano keys from C to C (an octave)
 C C♯/D♭ D D♯/E♭ E F F♯/G♭ G G♯/A♭ A A♯/B♭ B/C♭ C
@@ -226,6 +276,11 @@ Refer to the number of sharps and flats to add in the Circle of fifths
 [Circle of fifths - Wikiwand](https://www.wikiwand.com/en/Circle_of_fifths)
 [The Circle of Fifths Explained | LedgerNote](https://ledgernote.com/columns/music-theory/circle-of-fifths-explained/)
 [The Ultimate Guide to the Circle of Fifths - Musical U](https://www.musical-u.com/learn/how-to-use-circle-fifths/)
+[樂理教學：調號怎麼看？如何快速記住調號？ - Susanna Leung Piano Studio](https://www.susannaleungpiano.com/%E6%A8%82%E7%90%86%E6%95%99%E5%AD%B8%EF%BC%9A%E8%AA%BF%E8%99%9F%E6%80%8E%E9%BA%BC%E7%9C%8B%EF%BC%9F%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E8%A8%98%E4%BD%8F%E8%AA%BF%E8%99%9F%EF%BC%9F/)
+
+[Circle of Fifths: Everything You Need to Know - YouTube](https://www.youtube.com/watch?v=O43EBVnwNvo)
+[The Circle of Fifths vs Fourths - YouTube](https://www.youtube.com/watch?v=gT0Fawqrs8w)
+
 [一部影片之內，真的完全搞懂「五度圈」！（Circle of Fifths） - YouTube](https://www.youtube.com/watch?v=EyF7EBnmdEs)
 
 ![Circle of Fifths (circular)](./_assets/music-theory/circle-of-fifths.png)
@@ -234,25 +289,73 @@ Refer to the number of sharps and flats to add in the Circle of fifths
 1234567
 CDEFGAB
 
-Flats to add: 7362514 (reverse of the below)
+Number of flats in Major scale:
+Fat Boy Eat All Day (flat major except F)
+Flats to add: 7362514 (ref numpad, reverse of the below)
 B♭, E♭, A♭, D♭, G♭, C♭/B, F♭
-Sharps to add: 4152637 (reverse of the above)
+
+Number of sharps in Major scale:
+Go Down And Eat Breakfast
+Sharps to add: 4152637 (ref numpad, reverse of the above)
 F♯, C♯, G♯, D♯, A♯, E♯/F, B♯
 
 ### Chord
 
 [Chord (music) - Wikiwand](<https://www.wikiwand.com/en/Chord_(music)>)
+[What Are Major Scale Diatonic Chords? | StudyBass](https://www.studybass.com/lessons/harmony/what-are-major-scale-diatonic-chords/)
+[Music Theory Fundamentals—Major, Minor, and Diminished Chords - YouTube](https://www.youtube.com/watch?v=Ymkp56PfQmo)
 
 The 1st, 3rd, 5th notes on a scale is called a triad.
 The 1st and 5th notes of major chord and minor chord are always the same (perfect fifth = 3.5 tones).
-D major chord: D F♯ A
+D major chord: D F♯ A (not G♭)
 D minor chord: D F A
+D augmented: D F A♭ (not G♯)
+D diminished: D F♯ A♯ (not G♭)
+
+Major chord: root + 4 + 3 (Semitone)
+Minor chord: root + 3 + 4 (Semitone)
+Augmented chord: root + 4 + 4 (Semitone)
+Diminished chord: root + 3 + 3 (Semitone)
+
+The lowest note us called the root of the chord
+On piano the left hand can play the first and third note of the chord triad one octave lower
+
+Harmonic Analysis uses Roman numerals to denote whether a chord is major/minor
+I ii iii IV V vi vii I
+
+On C major:
+1 2m 3m 4 5 6m 7dim
+m: minor
+dim: diminish minor
 
 We can add variance to the chord, e.g: adding the 7th note, adding flats/sharps to the notes of the chord
 
+[How To Make Your #chords Sound Beautiful - YouTube](https://www.youtube.com/watch?v=ypJvzT3w_WY)
 [Why is this weird chord so great? - YouTube](https://www.youtube.com/watch?v=zbu1wnkTJjY) 1,3,5,9,#11,13 = C major triad + D major triad
 
-#### 萬能 chord
+Inversion: play the notes from different octaves
+First inversion: move the root note one octave higher
+Second inversion: move the root note of First inversion to one octave higher
+
+#### 萬能 chord/Pop Progression
+
+Major progression:
+I V vi IV
+1 5 6m 4
+C G Am F
+[5 Levels Of The 1-5-6-4 (Piano Lesson) - YouTube](https://www.youtube.com/watch?v=5Uc_ZaQl7_w)
+
+Minor progression:
+vi IV I V
+6m 4 1 5
+Am F C G
+
+1 6m 4 5
+
+Minor Canon
+6 5 4 3 2 1 7 3
+Major Canon
+1 7 6 5 4 3 2 5
 
 [薛之谦许嵩流行歌串烧，好听！ - YouTube](httpis://www.youtube.com/watch?v=L2Vc4bclD4I) 4536251
 
@@ -265,7 +368,14 @@ We can add variance to the chord, e.g: adding the 7th note, adding flats/sharps 
 [原來 66% 的流行歌，都是用這 3 種和弦進行？ [2019 流行歌和弦大調查] - YouTube](https://www.youtube.com/watch?v=zL_14UGziy4)
 [「卡農」和聲進行，以及為什麼很多流行歌的旋律都很像 - YouTube](https://www.youtube.com/watch?v=wU3jriu1wAE)
 
-## Rhythm (beats)
+## Rhythm
+
+Gives the general "feel" of the music
+Often expressed by drum kit
+
+Time signature 4/4: 4 (top) quarter note (bottom) in a measure (bar)
+[Understanding Time Signatures in Music ⏰ (Essential Tips for Musicians) - YouTube](https://www.youtube.com/watch?v=VJDCD5hJii4)
+[97% of pop is in 4/4... let’s look at the 3% that's not - YouTube](https://www.youtube.com/watch?v=AcAUcbwI8QE)
 
 semibreve (whole note): fly fly
 minim (half note): ant ant
@@ -273,9 +383,17 @@ crotchet (quarter note): spi-der spi-der
 quavers (eighth note): cat-er-pil-lar cat-er-pil-lar
 semiquavers (sixteenth note)
 
-[Slur (music) - Wikiwand](<https://www.wikiwand.com/en/Slur_(music)>)
-[圓滑線 - Wikiwand](https://www.wikiwand.com/zh/%E5%9C%93%E6%BB%91%E7%B7%9A)
+1+2+ (one and two and three and four and)
+1e+a2e+a (one e and uh two e and uh)
 
+[Fundamentals of Rhythm for Electronic Music - YouTube](https://www.youtube.com/watch?v=JE3QM_9sljI)
+[Chrome Music Lab - Rhythm](https://musiclab.chromeexperiments.com/Rhythm/)
+
+[Reminder of rhythms🎶 - YouTube](https://www.youtube.com/shorts/9VSnf86_7mM)
+[How to Play Ties and Slurs on the Piano? What is the difference? - YouTube](https://www.youtube.com/watch?v=xoq0fgoHc4U)
+[How to play Triplets & Duplets on the Piano | Tutorial & Music Theory - YouTube](https://www.youtube.com/watch?v=kODNajKkzLE)
+
+slur?
 valid: `((3:2:2 D2D)`
 invalid: `((3 D2D)`
 
@@ -285,10 +403,20 @@ invalid: `((3 D2D)`
 [EVERY Time Signature EXPLAINED (using Nintendo Music) - YouTube](https://www.youtube.com/watch?v=0g00Pd8Xfu4)
 [What's the difference between 3/4 and 6/8 time? - YouTube](https://www.youtube.com/watch?v=N4q2kBe82-o)
 
+[18 Rhythms you should know - YouTube](https://www.youtube.com/watch?v=ZROR_E5bFEI)
+[7 Rhythms you should know - YouTube](https://www.youtube.com/watch?v=fyVFC9JI_Pw)
+[#drums | Master Odd Time Signature Drum Beats | Essential Grooves for Every Drummer 🥁🔥| Lesson 23 - YouTube](https://www.youtube.com/watch?v=YPiiugHCt2A)
+[Analyzing 20 Genres And Their Unique Drum Patterns - YouTube](https://www.youtube.com/watch?v=wzwkW8K11y4)
+
+Polyrhythm https://youtu.be/fyVFC9JI_Pw?t=481
+3:2 Nice cup of tea
+4:3 Pass the god damn butter
+5:4 I'm looking for a home to buy
+
 ## Tempo (speed)
 
 [Tempo - Wikiwand](https://www.wikiwand.com/en/Tempo)
-duration of crotchet (quarter note), in M.M. (Maclzel's Metronome)
+duration of beat (crotchet, quarter note), in M.M. (Maclzel's Metronome)
 
 - presto
 - vivace
@@ -308,15 +436,41 @@ duration of crotchet (quarter note), in M.M. (Maclzel's Metronome)
 - crescendo (cres./cresc.): gradually getting louder
 - diminuendo (dim.): gradually getting quieter
 
-## Music Notation
+## Music Notation/Score/譜
 
 [Musical notation - Wikiwand](https://www.wikiwand.com/en/Musical_notation)
 [List of musical symbols - Wikiwand](https://www.wikiwand.com/en/List_of_musical_symbols)
 [How to read music - Tim Hansen - YouTube](https://www.youtube.com/watch?v=ZN41d7Txcq0&t=22s)
+[How to Read Notes The EASY Way You Weren’t Taught - YouTube](https://www.youtube.com/watch?v=PyOKefHURsg)
+
+2nd interval: consecutive
+3rd interval: line-line, space-space (skip/jump)
+4th interval: line-space, space-line (leap)
+5th interval: further line-line, space-space
+6th interval: line-space, space-line
+7th interval: further line-line, space-space
+
+Treble Clef Spaces (bottom up): F A C E
+Treble Clef Lines (bottom up): E G B D F
+Every Good Burger Deserves Fries
+Every Good Band Deserves Fans
+
+Bass Clef Spaces (bottom up): A C E G
+All Cows Eat Grass
+Bass Clef Lines (bottom up): G B D F A
+Good Burger Deserves Fries Always
+
+Accidental marks (Sharp, Flat and Natural) affect all notes following it in that bar
+
+[Ear Training and Sight Singing: The Superpower you get from Music School - YouTube](https://www.youtube.com/watch?v=Ed2VUq9cu1I)
+
+[50 Music Symbols Explained in 15 Minutes! - YouTube](https://www.youtube.com/watch?v=dae8vhHuPFE)
+[Notation Must Die: The Battle For How We Read Music - YouTube](https://www.youtube.com/watch?v=Eq3bUFgEcb4)
 
 [Scientific pitch notation - Wikiwand](https://www.wikiwand.com/en/Scientific_pitch_notation)
 
 [Intonation (music) - Wikiwand](<https://www.wikiwand.com/en/Intonation_(music)>)
+[Repeat Signs and Symbols in Sheet Music - navigating the musical 'map'](https://musiker.com.au/blogs/blog-musiker/posts/6945460/repeat-signs-and-symbols-in-sheet-music)
 
 [music21: a Toolkit for Computer-Aided Musicology](https://web.mit.edu/music21/)
 
@@ -336,9 +490,11 @@ Clefs are symbols to denote how high or low the music is going to sound
 
 [abc | home](http://abcnotation.com/) a text-based music notation system and the de facto standard for folk and traditional music. It can be used to generate MIDI and score.
 [ABC notation - Wikiwand](https://www.wikiwand.com/en/ABC_notation)
+[abc:standard:v2.1 [abc wiki]](https://abcnotation.com/wiki/abc:standard:v2.1)
+[abc:standard:v2.2 [abc wiki]](http://abcnotation.com/wiki/abc:standard:v2.2)
 
+[An ABC primer](https://trillian.mit.edu/~jc/music/abc/doc/ABCprimer.html)
 [ABC (musical notation) - Just Solve the File Format Problem](<http://justsolve.archiveteam.org/wiki/ABC_(musical_notation)>)
-[abcjs: Table of Contents](https://paulrosen.github.io/abcjs/examples/toc.html)
 [abc | learning](http://abcnotation.com/learn)
 [abc | examples](https://abcnotation.com/examples)
 [Making Music with Abc 2.pdf](https://abcplus.sourceforge.net/abcplus_en.html)
@@ -360,27 +516,27 @@ online
 
 [abcweb](https://wim.vree.org/js/)
 
+[abcjs](https://github.com/abcjs-music) GitHub org
+
 [paulrosen/abcjs: javascript for rendering abc music notation](https://github.com/paulrosen/abcjs)
+[abcjs: Table of Contents](https://paulrosen.github.io/abcjs/examples/toc.html)
+
 [abcjs](https://abcjs.net/)
 [abcjs demo](https://abcjs.net/abcjs-editor.html)
 [Draw The Dots: Tune Editor](http://drawthedots.com/)
 
 [abcm2ps/abc2svg documentation](http://moinejf.free.fr/abcm2ps-doc/index.html)
 [abc2svg: Documentation](https://chiselapp.com/user/moinejf/repository/abc2svg/doc/trunk/README.md)
-[abc:standard:v2.2 [abc wiki]](http://abcnotation.com/wiki/abc:standard:v2.2)
+[methf/abc2ps: LGPL fork of the original utility to generate Postscript from abc music notation. Written by Michael Methfessel.](https://github.com/methf/abc2ps)
 
 #### Tips and Tricks
 
-[abc:standard:v2.1 Use of fields within the tune body](https://abcnotation.com/wiki/abc:standard:v2.1#use_of_fields_within_the_tune_body) use `[]` or `\{field}`
+[abc:standard:v2.2 Use of fields within the tune body](https://abcnotation.com/wiki/abc:standard:v2.2#use_of_fields_within_the_tune_body) use `[]` or `\{field}`
 
 ```abc
 E2E EFE|E2E EFG|[M:9/8] A2G F2E D2|]
 \L:1/4\\K:Bb\"Eb"e4|
 ```
-
-#### Scores
-
-[Tunes - ABC Music Notation](https://abcmusicnotation.weebly.com/tunes.html)
 
 ### LilyPond
 
@@ -400,10 +556,12 @@ E2E EFE|E2E EFG|[M:9/8] A2G F2E D2|]
 
 ## Apps
 
-[MuseScore download | SourceForge.net](https://sourceforge.net/projects/mscore/)
 [10 Applications Every Linux Using Musician Should Know About](https://fossbytes.com/best-applications-linux-for-musician/)
 [Hydrogen](http://hydrogen-music.org/) MIDI consumer
 MIDI to mp3/ogg
+
+[How I Designed a Free Music Font for 5 Million Musicians (MuseScore 3.6) - YouTube](https://www.youtube.com/watch?v=XGo4PJd1lng)
+[MuseScoreFonts/Leland: A SMuFL-compliant OpenType music font](https://github.com/MuseScoreFonts/Leland)
 
 ```sh
 timidity file.mid -Ow -o - | lame - file.mp3
@@ -428,26 +586,50 @@ timidity file.mid -Ow -o - | lame - file.ogg
 [mackron/miniaudio: Single file audio playback and capture library written in C.](https://github.com/mackron/miniaudio)
 [miniaudio · PyPI](https://pypi.org/project/miniaudio/)
 
+### MuseScore
+
+[Free music composition and notation software | MuseScore](http://musescore.org/en)
+[Plugins | MuseScore](https://musescore.org/en/plugins)
+
+[musescore/MuseScore: MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!](https://github.com/musescore/MuseScore)
+[How We Made MuseScore 4 - Music App Design is Challenging! - YouTube](https://www.youtube.com/watch?v=Qct6LKbneKQ)
+
+[Add Jianpu numbers as text (lyrics): 五线谱->简谱 | MuseScore](https://musescore.org/en/project/add-jianpu-numbers-text-lyrics-wuxianpu-jianpu)
+
 ### Online
 
 [Chrome Piano](https://chromewebstore.google.com/detail/chrome-piano/pjafcgbpdclmdeiipolenjgkikeldljl/)
 [Chrome Music Lab](https://musiclab.chromeexperiments.com/)
 
-## Scores/Sheets
+## Music Scores/Sheets
 
-[Free music composition and notation software | MuseScore](http://musescore.org/en)
+[Noteflight - Online Music Notation Software](https://www.noteflight.com/)
+
 [Open Music Score](http://openmusicscore.org/)
-[Musescore.com | The world's largest free sheet music catalog and community](https://musescore.com/)
-[Directory listing of http://duskpiano.com/sheets/](http://duskpiano.com/sheets/)
-[91 譜 - 即時轉調的吉他譜](https://www.91pu.com.tw/)
+[Classical Sheet Music - Music-Scores.com](https://www.music-scores.com/)
+[DuskPiano Sheet Music - Google Drive](https://drive.google.com/drive/folders/16cZuNND9a55-8TgTUwIG4DMf4DbkL4bd)
 [IMSLP: Free Sheet Music PDF Download](https://imslp.org/wiki/Main_Page)
+[樂譜交流 - 香港討論區 Discuss.com.hk - 香討．香港 No.1](https://www.discuss.com.hk/forumdisplay.php?fid=409)
+[91 譜 - 即時轉調的吉他譜](https://www.91pu.com.tw/)
+[Tunes - ABC Music Notation](https://abcmusicnotation.weebly.com/tunes.html)
+[Musescore.com | The world's largest free sheet music catalog and community](https://musescore.com/) subscription
 
 [Easy Music](https://easymusic.altervista.org/)
+
+[The Green Notes - YouTube](https://www.youtube.com/@TheGreenNotes)
+[RAT DANCING MEME SONG - EASY Piano Tutorial - YouTube](https://www.youtube.com/watch?v=ka11PGJ1K9A)
+
+[Astronomia (Coffin Dance) - Easy Piano Tutorial - YouTube](https://www.youtube.com/watch?v=Cp2cy8rg_ZE)
+[Vicetone & Tony Igy - Astronomia - YouTube](https://www.youtube.com/watch?v=iLBBRuVDOo4)
 
 [Dolmetsch Online - Manuscript/Staff/Music paper/Papier à musique](http://www.dolmetsch.com/manuscriptpaper.htm)
 [Digimon - Butter-Fly (Piano Cover) [SHEET MUSIC] - YouTube](https://www.youtube.com/watch?v=CCG2jnOqaQ4)
 [Frozen - Let It Go (Piano Cover) [SHEET MUSIC] - YouTube](https://www.youtube.com/watch?v=jjoR4Obv7NA)
 [Pirates of the Caribbean - He's A Pirate (Piano Cover) - YouTube](https://www.youtube.com/watch?v=6efNg4HMMSo)
+
+[Bongo Cat](https://bongo.cat/)
+[Bongo Cat - YouTube](https://www.youtube.com/@BongoCat)
+[Externalizable/bongo.cat Song Submissions · Discussions · GitHub](https://github.com/Externalizable/bongo.cat/discussions/categories/song-submissions)
 
 ## How Music Works / David Byrne
 
@@ -476,6 +658,14 @@ black notes on piano
 
 [Why does Mario music sound "Fun"? - YouTube](https://www.youtube.com/watch?v=vVwEeiyPfFg)
 [Why the DUCKTALES Theme Song is Stuck in Your Head Right Now... || NerdSync - YouTube](https://www.youtube.com/watch?v=2lQVG7Gf7I4)
+
+## Game Music
+
+[8-bit Music Theory - YouTube](https://www.youtube.com/@8bitMusicTheory)
+
+Pianote
+[Piano Teachers REACT to The Legend Of Zelda's Soundtrack #legendofzelda - YouTube](https://www.youtube.com/watch?v=eAVSJmPA604)
+[Top 20 Video Game Songs 🎮 (ft. Jemma Heigis) - YouTube](https://www.youtube.com/watch?v=sknqbJjsh7c)
 
 ## Classical Music
 
@@ -506,6 +696,14 @@ black notes on piano
 [好和弦的「鋼琴視譜」完全指南！讓你秒讀五線譜的完整訓練課程～ - YouTube](https://www.youtube.com/watch?v=aB6q7P3AAkc)
 [在鋼琴上輕鬆地「飛來飛去」！厲害的人都在用的移位絕招～ - YouTube](https://www.youtube.com/watch?v=xaoWExqN-ZI)
 
+[小晖钢琴 - YouTube](https://www.youtube.com/@%E5%B0%8F%E6%99%96%E9%92%A2%E7%90%B4)
+[钢琴保姆级教程，虽然很变态但可以光速学会钢琴.....#钢琴 #piano #youtube - YouTube](https://www.youtube.com/watch?v=pYxYWRmFw0M) 即興伴奏
+[钢琴基础入门 - YouTube](https://www.youtube.com/playlist?list=PLxjrHRMh-_3yxajQm5-Z7lybECAbfbP4a)
+[成人如何学钢琴？偷偷看完让你少走99%的弯路！#piano - YouTube](https://www.youtube.com/watch?v=iIP2h2FuJoM)
+
+[崔松钢琴 - YouTube](https://www.youtube.com/@%E5%B4%94%E6%9D%BE)
+[学钢琴先看完这一集，五线谱到实操弹琴都讲清楚了！学不会来骂我！ - YouTube](https://www.youtube.com/watch?v=30FrYGqtwYQ)
+
 ### Kazoo 卡祖笛
 
 [卡祖笛 - Wikiwand](https://www.wikiwand.com/zh-hk/%E5%8D%A1%E7%A5%96%E7%AC%9B)
@@ -525,14 +723,19 @@ black notes on piano
 [Guitar Fretboard: Master the Notes on the Neck](https://www.ubisoft.com/en-us/game/rocksmith/plus/news-updates/2Qdrcji7gE9pOhUvcBiqFC/guitar-fretboard-master-the-notes-on-the-neck)
 [Only Guitar Music Theory You Need in 5 Minutes](https://www.yourguitarsage.com/blog/only-guitar-music-theory-you-need-in-5-minutes)
 
+[The 7 Best Websites to Find Guitar Chords for Songs](https://www.makeuseof.com/tag/top-5-websites-find-guitar-chords-songs/)
+
+[小聰學結他 - YouTube](https://www.youtube.com/@%E5%B0%8F%E8%81%B0%E5%AD%B8%E7%B5%90%E4%BB%96)
+
 ### Ukulele
 
 [Juju ukulele beginner tablatures](http://tabs.revolunet.com/)
 [revolunet/opentablatures: some tablatures for ukulele beginner](https://github.com/revolunet/opentablatures)
 
-### Drum Kit
+### Percussion
 
-[打鼓比你想的複雜！專業鼓手示範 13 個難度級別的鼓技｜科普長知識｜ GQ Taiwan - YouTube](https://www.youtube.com/watch?v=aKHgDLm2f0o)
+[The Encyclopedia of Pitched Percussion - Video Essay - YouTube](https://www.youtube.com/watch?v=6ikARx35U5A)
+[打鼓比你想的複雜！專業鼓手示範 13 個難度級別的鼓技｜科普長知識｜ GQ Taiwan - YouTube](https://www.youtube.com/watch?v=aKHgDLm2f0o) Drum Kit
 
 ### Acapella
 

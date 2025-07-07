@@ -2,7 +2,7 @@
 title: Dinosaur
 description: ""
 created: 2020-06-01
-updated: 2025-01-09
+updated: 2025-06-01
 tags:
   - dinosaur
   - science
@@ -17,10 +17,6 @@ tags:
 [Dinosaur - Wikiwand](https://www.wikiwand.com/en/Dinosaur)
 [List of dinosaur genera - Wikiwand](https://www.wikiwand.com/en/List_of_dinosaur_genera)
 
-[National Jurassic - YouTube](https://www.youtube.com/channel/UCAcDMMIqfYFp-C-YKxuSUzA) "documentaries" made with Jurassic World Evolution 2
-[翼龍無法直接把人抓起來！專家介紹《侏羅紀公園》中的各種恐龍 Every Dinosaur In 'Jurassic Park' Series Explained ｜經典電影大解密｜ GQ Taiwan - YouTube](https://www.youtube.com/watch?v=POBeQfK6UKU)
-[古生物界最大成果！恐龙怎么变成了鸟？？ - YouTube](https://www.youtube.com/watch?v=V9a_JgwEXxg)
-
 [恐龙百科分类\_百度百科](https://baike.baidu.com/wikicategory/view?categoryName=%E6%81%90%E9%BE%99%E5%A4%A7%E5%85%A8)
 [Dinosaur Images & Facts - The Online Database](https://dinosaurpictures.org/)
 
@@ -29,17 +25,21 @@ tags:
 [Dinopedia | Fandom](https://dinopedia.fandom.com/wiki/Main_Page)
 [Dinosaur Facts | Types of Dinosaurs | DK Find Out](https://www.dkfindout.com/uk/dinosaurs-and-prehistoric-life/dinosaurs/)
 
-[T-Rex Ranch - Dinosaurs For Kids - YouTube](https://www.youtube.com/channel/UCJykHJfN9FHtf79IgYE00zg)
-[Donut and Ah Meow Short Video - Dino 101 - YouTube](https://www.youtube.com/playlist?list=PLYhcHamp9R59BILxqHMcmIQG3sc2TqOYD)
-[I'm A Dinosaur - YouTube](https://www.youtube.com/channel/UCXSBK9W8BrIwPsZ1xN70JPg)
-[Dinosaurs National Geographic - YouTube](https://www.youtube.com/playlist?list=PL4a4wBUg1sFuGhnKeH-lVGohMXLlFLR0Y)
-[MARCH OF THE DINOSAURS | FULL MOVIE | EN - YouTube](https://www.youtube.com/watch?v=va_NXwxSoSw)
-[Your Dinosaurs Are Wrong - YouTube](https://www.youtube.com/channel/UCmVa-cbCpkd5Cd9Fr_4tCWg)
-[恐龍時代 - YouTube](https://www.youtube.com/playlist?list=PLCWpbC1k9iiEA4XOabCWqb9BI1Y43LjTl) 黑毛羊駝
-[Dino Diego - YouTube](https://www.youtube.com/channel/UCOKXmcqxAhRMtNM6BU4FDXQ)
+[National Jurassic - YouTube](https://www.youtube.com/@nationaljurassic) "documentaries" made with Jurassic World Evolution 2
+[Dino Diego - YouTube](https://www.youtube.com/@DinoDiego16)
+[Your Dinosaurs Are Wrong - YouTube](https://www.youtube.com/@YourDinosaursAreWrong)
 
-[Jurassic Park - YouTube](https://www.youtube.com/playlist?list=PL2TvzMXLdSHifizoX2nBNiwc-GZ5vMek8) TREY the Explainer
+[What dinosaur names literally mean - YouTube](https://www.youtube.com/watch?v=7FOamlJf-28)
+[古生物界最大成果！恐龙怎么变成了鸟？？ - YouTube](https://www.youtube.com/watch?v=V9a_JgwEXxg)
+[MARCH OF THE DINOSAURS | FULL MOVIE | EN - YouTube](https://www.youtube.com/watch?v=va_NXwxSoSw)
 [How Did Dinosaurs Get So Huge? - YouTube](https://www.youtube.com/watch?v=ENK245mtPTo)
+
+[Dinosaurs National Geographic - YouTube](https://www.youtube.com/playlist?list=PL4a4wBUg1sFuGhnKeH-lVGohMXLlFLR0Y)
+[恐龍時代 - YouTube](https://www.youtube.com/playlist?list=PLCWpbC1k9iiEA4XOabCWqb9BI1Y43LjTl) 黑毛羊駝
+[Jurassic Park - YouTube](https://www.youtube.com/playlist?list=PL2TvzMXLdSHifizoX2nBNiwc-GZ5vMek8) TREY the Explainer
+
+[Donut and Ah Meow Short Video - Dino 101 - YouTube](https://www.youtube.com/playlist?list=PLYhcHamp9R59BILxqHMcmIQG3sc2TqOYD) kids
+[Dinosaur - I'm A Dinosaur - YouTube](https://www.youtube.com/@ImADinosaur) kids
 
 [Dinosaur size comparison chart - Business Insider](https://www.businessinsider.com/dinosaur-size-comparison-chart-2015-6)
 
@@ -49,9 +49,6 @@ tags:
 [The Dinosaur FAQ](http://www.miketaylor.org.uk/dino/faq/index.html)
 [When is a new dinosaur erected as a new species or genus?](http://www.miketaylor.org.uk/dino/faq/s-class/choice/index.html)
 [How similar are different species of a given dinosaur genus?](http://www.miketaylor.org.uk/dino/faq/s-class/close/index.html)
-
-[Jurassic Park wiki | Fandom](https://jurassicpark.fandom.com/wiki/Jurassic_Park_Wiki)
-[Every Dinosaur In 'Jurassic Park' Series Explained | WIRED - YouTube](https://www.youtube.com/watch?v=hcUAJNqxrUY)
 
 [11.0 Dino explosion! - Sum Of All Parts - ABC Radio National (Australian Broadcasting Corporation)](https://www.abc.net.au/radionational/programs/sum-of-all-parts/11.0-dino-explosion!/11222312)
 [Dino explosion! v2](https://docs.google.com/document/d/e/2PACX-1vQ5hyr75xuq3MqxcWbt--pH9R2573TMBTotiLTYg91CtTWU8-R6kIPKqPLPDvJBxGg8GqCEPHficjub/pub)
@@ -82,6 +79,12 @@ large herbivores
 skeletal pneumatic and three-toed fore limbs
 bipedal carnivores
 from where modern birds (Avian Class) evolved
+
+## Jurassic Park
+
+[Jurassic Park wiki | Fandom](https://jurassicpark.fandom.com/wiki/Jurassic_Park_Wiki)
+[Every Dinosaur In 'Jurassic Park' Series Explained | WIRED - YouTube](https://www.youtube.com/watch?v=hcUAJNqxrUY)
+[翼龍無法直接把人抓起來！專家介紹《侏羅紀公園》中的各種恐龍 Every Dinosaur In 'Jurassic Park' Series Explained ｜經典電影大解密｜ GQ Taiwan - YouTube](https://www.youtube.com/watch?v=POBeQfK6UKU)
 
 ---
 
@@ -455,6 +458,7 @@ fairly slender
 
 [翼龍目 - Wikiwand](https://www.wikiwand.com/zh/%E7%BF%BC%E9%BE%8D%E7%9B%AE)
 [Pterosaur - Wikiwand](https://www.wikiwand.com/en/Pterosaur)
+[【鬼谷说】翼龙：大鹏一日同风起 - YouTube](https://www.youtube.com/watch?v=MRyy_g4SetE)
 
 [How Did Giant Pterosaurs Fly? - YouTube](https://www.youtube.com/watch?v=-b4kAycprQg)
 [Pterosaurs 101 | National Geographic - YouTube](https://www.youtube.com/watch?v=mfYuvlE78Nk)

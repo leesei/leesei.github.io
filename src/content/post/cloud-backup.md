@@ -2,7 +2,7 @@
 title: Cloud Backup
 description: ""
 created: 2016-04-02
-updated: 2025-01-09
+updated: 2025-02-05
 tags:
   - web
 ---
@@ -47,6 +47,10 @@ Keep THREE copies of important data on TWO devices, with ONE of those copies sav
 [介紹好用工具：功能完整且強大的 LFTP 命令列工具 | The Will Will Web](https://blog.miniasp.com/post/2023/02/01/Useful-tool-LFTP)
 
 [Uppy](https://uppy.io/) upload to multiple storage providers
+
+[fsspec: Filesystem interfaces for Python — fsspec documentation](https://filesystem-spec.readthedocs.io/en/latest/)
+[fsspec/filesystem_spec: A specification that python filesystems should adhere to.](https://github.com/fsspec/filesystem_spec)
+[Using fsspec for Unified File Management in Your Python Projects - KDnuggets](https://www.kdnuggets.com/fsspec-unified-file-management-python-projects)
 
 ## odrive
 

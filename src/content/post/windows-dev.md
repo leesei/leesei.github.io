@@ -2,7 +2,7 @@
 title: Windows Development
 description: ""
 created: 2020-03-02
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - app
 ---
@@ -186,7 +186,7 @@ Respond to Triggers (like Andriod's Intent)
 
 [dotnet/wpf: WPF is a .NET Core UI framework for building Windows desktop applications.](https://github.com/dotnet/wpf)
 
-[IAmTimCorey - YouTube](https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw)
+[IAmTimCorey - YouTube](https://www.youtube.com/@IAmTimCorey)
 [Intro to WPF: Learn the basics and best practices of WPF for C# - YouTube](https://www.youtube.com/watch?v=gSfMNjWNoX0)
 
 [Graphics rendering overview - WPF .NET Framework | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/graphics-multimedia/wpf-graphics-rendering-overview?view=netframeworkdesktop-4.8)

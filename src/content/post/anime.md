@@ -2,7 +2,7 @@
 title: Anime
 description: ""
 created: 2016-05-30
-updated: 2025-01-09
+updated: 2025-05-21
 tags:
   - anime
 ---
@@ -80,6 +80,10 @@ Only My Railgun - fripSide
 戀愛循環 Renai Circulation - Kana Hanazawa
 
 紅蓮華
+
+千本櫻
+
+Butterfly
 
 ## 追番
 
@@ -202,7 +206,8 @@ Dragon Ball Super: BROLY
 
 NO GUNS LIFE
 My Hero Academia: Heroes Rising
-My Hero Academia: World Heroes' Mission subtitles
+My Hero Academia: World Heroes' Mission
+My Hero Academia: You're Next
 Slayers 第一 二 三 四季 SPECIAL(OVA1) EXCELLENT(OVA2) 完全无欠版(剧场版 1) RETURN(剧场版 2) GREAT(剧场版 3) GOURGEOUS(剧场版 4) PREMIUM(剧场版 5)
 Gundam Seed
 Gundam Seed Destiny
@@ -248,7 +253,7 @@ Digimon 01, 02, Tri
 一拳超人 第一季 OAD 第二季
 阿爾斯蘭戰記 第一 二季
 記錄的地平線 第一 二季
-石紀元 Dr. Stone 第一 二季
+石紀元 Dr. Stone 第一 二 三 四季
 為食獵人 第一季(49 集)
 刀劍神域 SAO 第一 二季 劇場版:序列爭戰 外傳:GGO Progressive
 暗杀教室 第一 二季, Q, 课外授课
@@ -288,33 +293,39 @@ BRAVE10 真田十勇士
 甲鐵城的卡巴內里 第一季 海門決戰
 潮與虎 第一 二 三季
 電馭叛客：邊緣行者
-七大罪 第一二三四五季
-七大罪 啟示錄四騎士 第一季
-七大罪 天空的囚人
-七大罪 被光明詛咒的人們
-七大罪 愛丁堡的恩怨
 工作細胞 第一 二季
 机动奥特曼 [ULTRAMAN アニメ公式サイト](https://anime.heros-ultraman.com/)
 派對咖孔明 第一季
 靈能百分百 第一 二 三季
 Spy vs Family 間諜家家酒 第一 二季
+Spy × Family Code: White
 肌肉魔法使 MASHLE 第一 二季
 轉生貴族憑鑑定技能扭轉人生 第一季
 咒術迴戰 第一 二季 劇場版咒術迴戰0
 關於我轉生變成史萊姆這檔事 第一 二季 OAD1 OAD2 日記 柯里烏斯之夢 紅蓮之絆篇
-Shangri-La Frontier 香格里拉·開拓異境 第一季
+Shangri-La Frontier 香格里拉·開拓異境 第一 二季
 Cannon Busters 火炮剋星 第一季
 Undead Unluck 不死不運 第一季
 World Trigger 境界觸發者 第一 二 三季
 浪客劍心 2023 第一 二季
 惡魔城 第一二三四季
-惡魔城:月夜 第一季
+惡魔城:月夜 第一 二季
 勇者鬥惡龍: 達爾大冒險 2021 第一季 EP1-50
 通靈王 2021
-通靈王 FLOWERS 2024
+通靈王 FLOWERS 2024 第一季
 人造人009: 正義使命 Cyborg 009: Call of Justice 2017
-Re:從零開始的異世界生活 第一二季
+Re:從零開始的異世界生活 2020 第一季
 轉生就是劍 第一季
+範馬刃牙 2023 第一二季
+怪兽8号 第一季
+輝夜姬想讓人告白 第一 二 三 四季
+Devil May Cry
+
+七大罪 第一二三四五季
+七大罪 啟示錄四騎士 第一 二季
+七大罪 天空的囚人
+七大罪 被光明詛咒的人們
+七大罪 愛丁堡的恩怨
 
 One Piece Strong World
 One Piece: Z
@@ -341,6 +352,28 @@ Puss in Boots: The Last Wish 2022
 Ultraman: Rising
 Dragon Quest: Your Story
 Monster Hunter: Legends of the Guild
+
+## ANIMANIACS
+
+Original series: 1993-1998
+Reboot: 2020-2021
+
+[Top 20 Greatest Animaniacs Songs - YouTube](https://www.youtube.com/watch?v=089o9FhXlic)
+[Animaniacs SING-ALONG 🎤 | Animaniacs Theme Song | WB Kids - YouTube](https://www.youtube.com/watch?v=kVI0jwFs_wU)
+[Animaniacs SING-ALONG 🎤 | Yakko’s World | WB Kids - YouTube](https://www.youtube.com/watch?v=V1508wboZXk)
+[🎶 The Nations of the World - Official Song by the Ylvis Brothers 🌍 - YouTube](https://www.youtube.com/watch?v=L2kxg_GS0cM)
+[Animaniacs 2021 - Countries of the Early 19th Century - YouTube](https://www.youtube.com/watch?v=i1Ie9Wji_2U)
+[Animaniacs SING-ALONG 🎤 | Wakko’s America | WB Kids - YouTube](https://www.youtube.com/watch?v=bx6c_EefZAQ)
+[Animaniacs - The Presidents Song Full (+2020 update) - YouTube](https://www.youtube.com/watch?v=z9KFoqK-yhU)
+[Yakko Warner sings all the words in the English Language - YouTube](https://www.youtube.com/watch?v=GlTEjlHXXkw)
+[Animaniacs | The Burpee Song | Classic Cartoon | WB Kids - YouTube](https://www.youtube.com/watch?v=oeYLu2XkqlE)
+[Animaniacs | The Greatest Historical Figures | Classic Cartoon Compilation | WB Kids - YouTube](https://www.youtube.com/watch?v=iQuPiPbofhQ)
+
+[107 Animaniacs Facts You Should Know! | Channel Frederator - YouTube](https://www.youtube.com/watch?v=FV6jJHOWuUI)
+[107 Pinky and the Brain Facts YOU Should Know! | ChannelFrederator - YouTube](https://www.youtube.com/watch?v=Wgqf5_Lr9Zg)
+[Evolution of ANIMANIACS - 27 Years Explained | CARTOON EVOLUTION - YouTube](https://www.youtube.com/watch?v=l6YI70YdAPs)
+[Voice Evolution of ANIMANIACS / PINKY & BRAIN - Original & Reboot Compared | CARTOON EVOLUTION - YouTube](https://www.youtube.com/watch?v=_pebtYKk2_8)
+[The Bizarre Genius of The Animaniacs - YouTube](https://www.youtube.com/watch?v=uklZx0Xxp1k)
 
 ## 赌博默示录
 
@@ -483,6 +516,10 @@ S 级安年
 [炎炎消防隊 - YouTube](https://www.youtube.com/playlist?list=PLDHDMPgKjY-bcTSfAYGkPPUobftyI8cM2) 電波比比
 [60 分钟看完《炎炎消防队》第一季，未来人类变成火焰怪物，超能力消防局成立！ - YouTube](https://www.youtube.com/watch?v=VHIcuvkmIwU)
 [童顏巨乳自動送福利體質的女孩，球球都快被擠爆了！ - YouTube](https://www.youtube.com/watch?v=eJsW5I6KgIQ) 第一二季
+[一口气看完，炎炎消防队1-304集！动画+漫画！人类自燃，觉醒火焰超能力！ - YouTube](https://www.youtube.com/watch?v=ThVpdQ3ITs0)
+
+[All 17 Shinra Evolutions: How Shinra Became A GOD & The STRONGEST Anime Character EVER | FIRE FORCE - YouTube](https://www.youtube.com/watch?v=kRLMny3cIAg)
+[Why Everyone is Afraid of Benimaru - His GODLY True Power Explained | FIRE FORCE ANIME - YouTube](https://www.youtube.com/watch?v=Aw2_7K43D64)
 
 ## 呪術迴戰
 
@@ -678,7 +715,7 @@ E N
 
 ## 我的英雄學院/My Hero Academia
 
-[My Hero Academia Wiki | FANDOM powered by Wikia](https://bokunoheroacademia.fandom.com/wiki/My_Hero_Academia_Wiki)
+[My Hero Academia Wiki | Fandom](https://bokunoheroacademia.fandom.com/wiki/My_Hero_Academia_Wiki)
 
 [我的英雄學院 - YouTube](https://www.youtube.com/playlist?list=PL3jhN-6PQ1jxgsCnDQgGCL-ezkW_pmdi2) 妮柯基慢
 [The Entire My Hero Academia Story Explained in 30 Minutes | One For All vs All For One 🦸🏼‍♂️ - YouTube](https://www.youtube.com/watch?v=NXXEhZlBAqo)
@@ -697,6 +734,7 @@ E N
 [【NG】一大口氣看完《我的英雄學院》前五季 - YouTube](https://www.youtube.com/watch?v=P_D4z2WyKQA) 我就是NG
 
 [【我的英雄學院劇場版：英雄新世紀】超展開的劇情！熱血到我想再來個五刷！ - YouTube](https://www.youtube.com/watch?v=_y458qNM39k)
+[【我的英雄學院】灰廻航一是「最弱」也可能是「最強」 | 從非法英雄到美國傳奇！| 【ILLEGALS Vigilante】 - YouTube](https://www.youtube.com/watch?v=XU_aS0dEfLc)
 
 [【我的英雄學院】RU 華後輸鬼滅&咒術 ⋯ 漫畫劇情每況愈下的《我英》到底怎麼了？｜井川一點評 - YouTube](https://www.youtube.com/watch?v=DqdezHXMKY4)
 

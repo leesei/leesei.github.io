@@ -2,7 +2,7 @@
 title: Chinese Philosophy
 description: ""
 created: 2023-06-21
-updated: 2025-01-09
+updated: 2025-05-28
 tags:
   - history
   - philosophy
@@ -28,7 +28,11 @@ tags:
 非命
 非樂
 
-## 道德經
+## 道家
+
+[這就是道家？半節課時間，極緻濃縮中國2500年前的智慧，天人合一(下) - YouTube](https://www.youtube.com/watch?v=lhoteglcuco)
+
+### 道德經
 
 [道德經 - Wikiwand](https://www.wikiwand.com/zh/%E9%81%93%E5%BE%B7%E7%B6%93)
 

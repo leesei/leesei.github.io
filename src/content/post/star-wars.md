@@ -2,7 +2,7 @@
 title: Star Wars
 description: ""
 created: 2016-02-07
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - movies
   - star-wars
@@ -12,36 +12,32 @@ tags:
 [StarWars.com | The Official Star Wars Website](http://www.starwars.com/)
 [The Star Wars Underworld](http://www.starwarsunderworld.com/)
 [Original Trilogy - Star Wars, Film Preservation, and Fan Edits](https://originaltrilogy.com/)
-[Star Wars Theory - YouTube](https://www.youtube.com/channel/UC8CbFnDTYkiVweaz8y9wd_Q)
-[Empire Wreckers - YouTube](https://www.youtube.com/@empirewreckers)
-[Everything Star Wars - YouTube](https://www.youtube.com/@StarWarsRebelsStar)
-
-[The Stupendous Wave - YouTube](https://www.youtube.com/@TheStupendousWave)
-[STAR WARS EXPLAINED - YouTube](https://www.youtube.com/playlist?list=PLGtejOzdTfmx39oyTPlybqqns7PSJsaFO)
+[Star Wars Characters, Planets, and Vehicles | StarWars.com](http://www.starwars.com/databank)
+[Wookieepedia - Wikia](http://starwars.fandom.com/wiki/Main_Page)
 
 [Star Wars Legends | Wookieepedia | Fandom](https://starwars.fandom.com/wiki/Star_Wars_Legends)
 All books and games before 2014 was demoted from Extended Universe to Legend thanks to Disney.
 [Why Star Wars is Falling Apart | Video Essay - YouTube](https://www.youtube.com/watch?v=hZAfdW9pvP0)
 
-[星球大戰正傳時間線!! 星戰簡介入!! 正傳的定義!! (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=W_H2OIVKj-s&t=1s)
-[甚麼是白兵? 四種白兵! 白兵起源! (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=QGhVDeF9K04)
-[星際大戰「光劍顏色」大解析！7 種光劍代表不同個性！ - YouTube](https://www.youtube.com/watch?v=zPUd6o3sW24)
+[Empire Wreckers - YouTube](https://www.youtube.com/@empirewreckers)
+[Everything Star Wars - YouTube](https://www.youtube.com/@StarWarsRebelsStar)
+[Star Wars Theory - YouTube](https://www.youtube.com/@StarWarsTheory)
+[The Stupendous Wave - YouTube](https://www.youtube.com/@TheStupendousWave)
+[Star Wars Videos - YouTube](https://www.youtube.com/playlist?list=PLA8JiNkN-yGGuEo4x_Bh_ozzZt7BXaWmB) Michael Jae
+[STAR WARS EXPLAINED - YouTube](https://www.youtube.com/playlist?list=PLGtejOzdTfmx39oyTPlybqqns7PSJsaFO) The Stupendous Wave
 
 [15 Hilarious Star Wars Fan-Art Photos & Memes That Could Make Darth Vader Laugh](https://screenrant.com/star-wars-funniest-fan-art-photos-memes/)
 
 [電影戀物癖：藏在 Darth Vader 頭盔背後的三個靈感 | 玩具人 Toy People News](https://www.toy-people.com/?p=49365)
 
-[How does a Lightsaber work? (Star Wars) - YouTube](https://www.youtube.com/watch?v=KduIzGhnb5c)
 [What's inside the Millennium Falcon? (Star Wars) - YouTube](https://www.youtube.com/watch?v=O5-WI7XN6uo)
-[Every Star Wars Pitch Meeting In Order Of The Star Wars Timeline Compilation - YouTube](https://www.youtube.com/watch?v=o_le0iRslrU)
-
-Prime's Theater
-[The STAR WARS Trilogy | A Complete Retrospective - 1 - YouTube](https://www.youtube.com/watch?v=OMF1PgaIdJk)
-[The PREQUEL Trilogy | A STAR WARS Complete Retrospective - 2 - YouTube](https://www.youtube.com/watch?v=8QtddvR5ZVs)
+[甚麼是白兵? 四種白兵! 白兵起源! (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=QGhVDeF9K04)
 
 ## Timeline
 
-[Star Wars Explained - YouTube](https://www.youtube.com/c/StarWarsExplained)
+[Every Star Wars Pitch Meeting In Order Of The Star Wars Timeline Compilation - YouTube](https://www.youtube.com/watch?v=o_le0iRslrU)
+
+[Star Wars Explained - YouTube](https://www.youtube.com/@StarWarsExplained)
 [Star Wars: The Complete Legends History - Star Wars Explained - YouTube](https://www.youtube.com/watch?v=E9QyKl6dgA4)
 [The Entire Clone Wars Timeline [Canon] - YouTube](https://www.youtube.com/watch?v=peg3vTiWAj8)
 [Star Wars: The Complete Canon Timeline (2022) - YouTube](https://www.youtube.com/watch?v=6t81ODdOBKc)
@@ -62,6 +58,10 @@ Episode I-III
 [Executive Separatist Council | Wookieepedia | Fandom](https://starwars.fandom.com/wiki/Executive_Separatist_Council)
 [Trade Federation | Wookieepedia | Fandom](https://starwars.fandom.com/wiki/Trade_Federation)
 
+Prime's Theater
+[The STAR WARS Trilogy | A Complete Retrospective - 1 - YouTube](https://www.youtube.com/watch?v=OMF1PgaIdJk)
+[The PREQUEL Trilogy | A STAR WARS Complete Retrospective - 2 - YouTube](https://www.youtube.com/watch?v=8QtddvR5ZVs)
+
 Episode IV-VI
 [Imperial Era | Wookieepedia | Fandom](https://starwars.fandom.com/wiki/Imperial_Era)
 [Galactic Civil War | Wookieepedia | Fandom](https://starwars.fandom.com/wiki/Galactic_Civil_War)
@@ -80,6 +80,8 @@ Episode VII-IX
 [Resistance | Wookieepedia | Fandom](https://starwars.fandom.com/wiki/Resistance)
 [The First Order](http://www.starwars.com/databank/the-first-order)
 [First Order | Wookieepedia | Fandom](https://starwars.fandom.com/wiki/First_Order)
+
+[星球大戰正傳時間線!! 星戰簡介入!! 正傳的定義!! (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=W_H2OIVKj-s)
 
 ## Movies
 
@@ -120,11 +122,6 @@ Episode VII-IX
 [#30 Han Shot Solo](http://www.imaginaryworldspodcast.org/han-shot-solo.html)
 [#31 The Expanded Universe](http://www.imaginaryworldspodcast.org/the-expanded-universe.html)
 
-## Wiki
-
-[Star Wars Characters, Planets, and Vehicles | StarWars.com](http://www.starwars.com/databank)
-[Wookieepedia - Wikia](http://starwars.fandom.com/wiki/Main_Page)
-
 ## Stormtroopers
 
 > plot armor made Stormtroopers dumb
@@ -143,3 +140,13 @@ Episode VII-IX
   - Shadows
 - Guardians
 - Consulars
+
+## Lightsaber
+
+[How does a Lightsaber work? (Star Wars) - YouTube](https://www.youtube.com/watch?v=KduIzGhnb5c)
+[Every Lightsaber Variant Explained in 20 Minutes - YouTube](https://www.youtube.com/watch?v=j7J0YuARnfQ)
+[EVERY SINGLE Lightsaber Color Meaning Explained! - YouTube](https://www.youtube.com/watch?v=Z3a03QTd9yU)
+[星際大戰「光劍顏色」大解析！7 種光劍代表不同個性！ - YouTube](https://www.youtube.com/watch?v=zPUd6o3sW24)
+
+[How Ahsoka Got Her WHITE LIGHTSABERS Explained! - YouTube](https://www.youtube.com/watch?v=xKYxcGTCrII)
+[The 10 Most UNIQUE Lightsaber Hilts Explained! - YouTube](https://www.youtube.com/watch?v=kiV0viGRe84)

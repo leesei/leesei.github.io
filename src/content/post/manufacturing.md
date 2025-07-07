@@ -2,7 +2,7 @@
 title: Manufacturing
 description: ""
 created: 2023-06-10
-updated: 2025-01-09
+updated: 2025-07-06
 tags:
   - manufacturing
   - science
@@ -18,15 +18,17 @@ New Mind
 [Extreme Materials - YouTube](https://www.youtube.com/watch?v=3a8uOXIPhNI)
 [Cloaking With Metamaterials - YouTube](https://www.youtube.com/watch?v=sweVNjEQj0s)
 
-[Machine Thinking - YouTube](https://www.youtube.com/@machinethinking)
-
-[制造原理 - YouTube](https://www.youtube.com/@user-bt2ct9sh3m)
 [AddMaker - YouTube](https://www.youtube.com/@addmakertw)
+[Machine Thinking - YouTube](https://www.youtube.com/@machinethinking)
+[制造原理 - YouTube](https://www.youtube.com/@%E5%88%B6%E9%80%A0%E5%8E%9F%E7%90%86-u5t)
+[SatisFactory Process - YouTube](https://www.youtube.com/@satisfactoryprocess)
 [了不起的中国制造了 - YouTube](https://www.youtube.com/playlist?list=PL7aNHwx_SJ55D99mzyXr8Ksqpbz84OW5L) 网易文创
 [Factory tours - YouTube](https://www.youtube.com/playlist?list=PL42a-LTi6YKA_j1aPbwZTRAEk0iuSBfpU) Strange Parts
+[Factory Tours - YouTube](https://www.youtube.com/playlist?list=PLsuVSmND84QuVMZuk2HGUtCSYXR7nmC5a) Gamers Nexus
 
+超認真少年
 [【隱形工廠｜戶外教學】 - YouTube](https://www.youtube.com/playlist?list=PLBTwOvE8YhQFcfuoNhXOaJsUsVNnyf_3z)
-[超認真少年 Imserious 隱形工廠 - YouTube](https://www.youtube.com/channel/UCckzc03-ycrpB1XIUfRhpnw/search?query=%E9%9A%B1%E5%BD%A2%E5%B7%A5%E5%BB%A0)
+[超認真少年 Imserious 隱形工廠 - YouTube](https://www.youtube.com/@超認真少年/search?query=%E9%9A%B1%E5%BD%A2%E5%B7%A5%E5%BB%A0)
 
 [How Do You Steer a Drill Below The Earth? - YouTube](https://www.youtube.com/watch?v=JAhdb7dKQpU) Horizontal Directional Drilling
 
@@ -39,9 +41,10 @@ New Mind
 [《伟大的制造》第二季 - YouTube](https://www.youtube.com/playlist?list=PLIjobl3M0vH34R1bEkOtCLJ0a12FFeA8L)
 [潮玩是艺术还是智商税？揭秘盲盒工厂！《伟大的制造》【亚军频道】 - YouTube](https://www.youtube.com/watch?v=Djx3-fx1HEI)
 
-[Factory Tours - YouTube](https://www.youtube.com/playlist?list=PLsuVSmND84QuVMZuk2HGUtCSYXR7nmC5a) Gamers Nexus
+[把电池装进汽车，一共需要几步？｜Super Factory: How to Manufacture a New Energy Vehicles - YouTube](https://www.youtube.com/watch?v=N94RFuqQfwM)
 
 [How Raspberry Pis are made (Factory Tour) - YouTube](https://www.youtube.com/watch?v=k2C4lbbIH0c)
+[Inside China’s Top Factory: How Premium CPU Air Coolers Are Made | Deepcool - YouTube](https://www.youtube.com/watch?v=9kul1zlF3UE)
 
 LinusTechTips
 [Checking on my Investment in Person - Framework Laptop Factory Tour - YouTube](https://www.youtube.com/watch?v=7nXVJBGowmY)

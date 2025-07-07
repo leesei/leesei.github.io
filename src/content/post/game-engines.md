@@ -2,7 +2,7 @@
 title: Game Engines
 description: ""
 created: 2015-01-02
-updated: 2025-01-09
+updated: 2025-05-23
 tags:
   - game-dev
   - game-engine
@@ -16,6 +16,7 @@ tags:
 [你瞭解「遊戲引擎」麼？【就知道玩遊戲 43】 - YouTube](https://www.youtube.com/watch?v=M0Q7iNKI5uc)
 [你瞭解遊戲引擎麼(二)：引擎進化的腳步【就知道玩遊戲 51】 - YouTube](https://www.youtube.com/watch?v=lyqdhw-ws6w)
 [遊戲引擎是如何讓遊戲變得越來越好的？ - YouTube](https://www.youtube.com/watch?v=e8QhACMGSH0)
+[游戏引擎发展史 #gameengine #游戏开发 #游戏科普 - YouTube](https://www.youtube.com/watch?v=nU2AmB6b8X0)
 [借虚幻 5 发布，我们来聊聊以前的那些游戏图像引擎【Gadio Pro】丨机核 - YouTube](https://www.youtube.com/watch?v=DwbmaIHxZj4)
 [How do games render their scenes? | Bitwise - YouTube](https://www.youtube.com/watch?v=Oct4Oi-KfVQ)
 [The Evolution of Video Game Graphics Is Complicated - YouTube](https://www.youtube.com/watch?v=l5nxZ8Jycc0)
@@ -101,7 +102,7 @@ camera at infinitely far away creates an orthographic projection that removes di
 [Programming Terrain Generation for my Farming Game - YouTube](https://www.youtube.com/watch?v=buKQjkad2I0)
 [Draw fewer tiles - by using a Dual-Grid system! - YouTube](https://www.youtube.com/watch?v=jEWFSv3ivTg)
 
-[Tiled Map Editor | A flexible level editor](https://www.mapeditor.org/)
+[Tiled | Flexible level editor](https://www.mapeditor.org/)
 [A guide to level creation with Tiled [ + how to use it with pygame ] - YouTube](https://www.youtube.com/watch?v=N6xqCwblyiw)
 [Tiled Map Editor Tutorial Part One: The Basics - YouTube](https://www.youtube.com/watch?v=ZwaomOYGuYo)
 
@@ -175,6 +176,8 @@ CreateJS have multiple tools for game development
 
 [React Game Kit](http://reactnext.surge.sh/)
 [FormidableLabs/react-game-kit: Component library for making games with React & React Native](https://github.com/formidablelabs/react-game-kit)
+
+[Dora SSR | Dora SSR](https://dora-ssr.net/)
 
 [Lunakepio/useGamepad: a useGamepad React Hook for GameController support](https://github.com/Lunakepio/useGamepad)
 
@@ -489,8 +492,8 @@ Zenva
 [Godot Game Development Mini-Degree - YouTube](https://www.youtube.com/playlist?list=PLnEt5PBXuAmsMmS2w-mwnT1bk0JN2YyYM)
 [COMPLETE COURSE - Learn the GODOT Game Engine in 50 MINUTES - YouTube](https://www.youtube.com/watch?v=QftpPI5iYrY)
 
-[KidsCanCode - YouTube](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg/playlists?view=1&sort=dd&shelf_id=5)
-[Godot 101: Beginner Lessons for Godot 3.1 - YouTube](https://www.youtube.com/playlist?list=PLsk-HSGFjnaFwmOFrfD4gQQqvgvEUielY)
+[KidsCanCode - YouTube](https://www.youtube.com/@Kidscancode/playlists)
+[Godot 101: Beginner Lessons for Godot 3.1 - YouTube](https://www.youtube.com/playlist?list=PLsk-HSGFjnaFwmOFrfD4gQQqvgvEUielY) KidsCanCode
 [kidscancode/godot_recipes: Lessons, tutorials, and guides for game development using the Godot game engine.](https://github.com/kidscancode/godot_recipes)
 
 [Game Endeavor - YouTube](https://www.youtube.com/@GameEndeavor)
@@ -500,7 +503,7 @@ Zenva
 
 [Goodgis - YouTube](https://www.youtube.com/@Goodgis) mostly on Godot
 
-[HeartBeast - YouTube](https://www.youtube.com/channel/UCrHQNOyU1q6BFEfkNq2CYMA)
+[Heartbeast - YouTube](https://www.youtube.com/@uheartbeast)
 
 ## ursina
 
@@ -542,7 +545,7 @@ Zenva
 [neoGFX C++ Application/Game Engine and Development Platform](https://neogfx.org/)
 [i42output/neoGFX: Cross-platform GPU-oriented C++ application/game framework](https://github.com/i42output/neoGFX)
 
-[Leigh Johnston - YouTube](https://www.youtube.com/channel/UC7jyS93YRVSSjrJjmiw1xjA)
+[Leigh Johnston - YouTube](https://www.youtube.com/@leighjohnston2802)
 
 ## TIC-80
 

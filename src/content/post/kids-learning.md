@@ -2,7 +2,7 @@
 title: Kids Learning
 description: ""
 created: 2016-08-17
-updated: 2025-01-09
+updated: 2025-02-16
 tags:
   - learning
 ---
@@ -106,7 +106,7 @@ tags:
 7. 爸爸的事過後，小女孩想做甚麼？
 8. 小女孩最終有沒有放棄夢想？
 
-[Father And Daughter - 2000 Academy Award for Animated Short Film - YouTube - YouTube](https://www.youtube.com/watch?v=CvA4Gn5OudI)
+[Father And Daughter - 2000 Academy Award for Animated Short Film - YouTube](https://www.youtube.com/watch?v=CvA4Gn5OudI)
 思考問題：
 
 1. 女兒和爸爸騎單車到哪裡？
@@ -266,7 +266,7 @@ synthetic phonics
 [Dream English Kids - YouTube](https://www.youtube.com/@DreamEnglishKids)
 [The Kiboomers - Kids Music Channel - YouTube](https://www.youtube.com/@thekiboomers)
 [Bounce Patrol Kids - YouTube](https://www.youtube.com/@bouncepatrol)
-[LittleBabyBum ® - YouTube - YouTube](https://www.youtube.com/@LittleBabyBum)
+[LittleBabyBum ® - YouTube](https://www.youtube.com/@LittleBabyBum)
 [Fun Kids English - YouTube](https://www.youtube.com/@Funkidsenglish)
 [English Singsing - YouTube](https://www.youtube.com/@EnglishSingsing)
 
@@ -421,7 +421,7 @@ modeling by rod which popped up when pivoted on the surface
 [Robocar POLI TV - YouTube](https://www.youtube.com/@robocarpoli)
 [Poli 波力 - Wikiwand](https://www.wikiwand.com/zh/Poli%E6%B3%A2%E5%8A%9B)
 [Robocar Poli - Wikiwand](https://www.wikiwand.com/en/Robocar_Poli#/Main_Characters)
-[Category:Characters | Robocar Poli Wiki | FANDOM powered by Wikia](https://robocarpoli.fandom.com/wiki/Category:Characters)
+[Category:Characters | Robocar Poli Wiki | Fandom](https://robocarpoli.fandom.com/wiki/Category:Characters)
 
 ## 感覺統合訓練
 

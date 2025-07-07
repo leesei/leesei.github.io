@@ -2,7 +2,7 @@
 title: Esperanto
 description: ""
 created: 2019-04-20
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - esperanto
   - language
@@ -26,10 +26,11 @@ tags:
 [Esperanto Language Blog | Esperanto Language Blog](https://blogs.transparent.com/esperanto/)
 
 [Universala Esperanto Metodo](https://eduinf.waw.pl/esp/lern/uem/index.php)
-[Universala Esperanto Metodo - YouTube](https://www.youtube.com/playlist?list=PL12A85D8778E8DDB1)
-[Esperanto Variety Show - YouTube](https://www.youtube.com/channel/UCXnT_KZNsQw-MX8Q8gJQDgw)
-[Esperanto Video Course - All episodes - Lernu kun Logano - YouTube](https://www.youtube.com/playlist?list=PLl5PRFz0DHxZFcwSHcLDDkVzVq553ULx3)
-[Esperanto class daily recap - NASK 2018 - YouTube](https://www.youtube.com/playlist?list=PLl5PRFz0DHxbTDRkGiNGC8gWMYXJdr2ce)
+[Universala Esperanto Metodo - YouTube](https://www.youtube.com/playlist?list=PL12A85D8778E8DDB1) Professor Silva
+
+[Esperanto Variety Show - YouTube](https://www.youtube.com/@EsperantoVariety)
+[Esperanto Video Course - All episodes - Lernu kun Logano - YouTube](https://www.youtube.com/playlist?list=PLl5PRFz0DHxZFcwSHcLDDkVzVq553ULx3) Esperanto Variety Show
+[Esperanto class daily recap - NASK 2018 - YouTube](https://www.youtube.com/playlist?list=PLl5PRFz0DHxbTDRkGiNGC8gWMYXJdr2ce) Esperanto Variety Show
 
 ## Sites
 
@@ -64,7 +65,7 @@ tags:
 [Gene Keyes: Me Clone / Mi-Klono (U): Contents](http://www.genekeyes.com/MC-MK/MC-MK-U-Contents.html)
 [Yuletide Carols / Jula Karolaro](http://www.genekeyes.com/Yuletide-Carols.html)
 [The Twelve Days of Christmas / La Dek Du Tagoj de Kristnasko](http://www.genekeyes.com/12-DAYS/12-days-of-Christmas.html)
-[bookboxinc - YouTube](https://www.youtube.com/user/bookboxinc/search?query=Esperanto)
+[bookboxinc - YouTube](https://www.youtube.com/@BookBoxInc/search?query=Esperanto)
 
 ## Alphabets
 

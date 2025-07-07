@@ -2,7 +2,7 @@
 title: Civil Right Movements
 description: ""
 created: 2016-09-06
-updated: 2025-01-09
+updated: 2025-03-05
 tags:
   - law
   - politics
@@ -48,7 +48,7 @@ tags:
 
 ### 和理非非
 
-[和理非非 | 香港網絡大典 | FANDOM powered by Wikia](https://evchk.wikia.org/zh/wiki/%E5%92%8C%E7%90%86%E9%9D%9E%E9%9D%9E)
+[和理非非 | 香港網絡大典 | Fandom](https://evchk.wikia.org/zh/wiki/%E5%92%8C%E7%90%86%E9%9D%9E%E9%9D%9E)
 [普羅之聲：由「和理非」到「和理非非」 - 太陽報](http://the-sun.on.cc/cnt/news/20130228/00418_005.html)
 [普羅之聲：反鬧爆文化的根源 - 太陽報](http://the-sun.on.cc/cnt/news/20130206/00418_009.html)
 
@@ -95,9 +95,10 @@ tags:
 
 [六七暴動 - Wikiwand](https://www.wikiwand.com/zh/%E5%85%AD%E4%B8%83%E6%9A%B4%E5%8B%95)
 [六七暴動真相懸空 50 年，八大待解之謎｜香港｜端傳媒 Initium Media](https://theinitium.com/article/20170509-hongkong-67-myth/)
-[六七暴動 | 香港網絡大典 | FANDOM powered by Wikia](https://evchk.wikia.org/zh/wiki/%E5%85%AD%E4%B8%83%E6%9A%B4%E5%8B%95)
+[六七暴動 | 香港網絡大典 | Fandom](https://evchk.wikia.org/zh/wiki/%E5%85%AD%E4%B8%83%E6%9A%B4%E5%8B%95)
 
-[歷史時空 - Videos](https://www.facebook.com/pg/%E6%AD%B7%E5%8F%B2%E6%99%82%E7%A9%BA-2021670614786179/videos/) 六七暴動
+[歷史時空 | Facebook](https://www.facebook.com/profile/100064629254322/search/?q=%E5%85%AD%E4%B8%83%E6%9A%B4%E5%8B%95) 六七暴動
+[他們永不讓你知道香港1967年暴動最黑暗的真相... - YouTube](https://www.youtube.com/watch?v=Q8zIxUz7fN4)
 
 ## 2003 二十三條立法
 

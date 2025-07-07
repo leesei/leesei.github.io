@@ -2,13 +2,13 @@
 title: Fallout
 description: ""
 created: 2023-08-14
-updated: 2025-01-09
+updated: 2025-02-16
 tags:
   - fallout
   - games
 ---
 
-[Fallout Wiki | FANDOM powered by Wikia](https://fallout.fandom.com/wiki/Fallout_Wiki)
+[Fallout Wiki | Fandom](https://fallout.fandom.com/wiki/Fallout_Wiki)
 
 [一次搞懂!「異塵餘生/輻射」全系列作品關聯指南 ︳Fallout franchise explained - YouTube](https://www.youtube.com/watch?v=Kc3BiB29hOw)
 [Every Vault in the Fallout Series Explained | Fallout Lore - YouTube](https://www.youtube.com/watch?v=8dbWUUf9KKw)
@@ -30,10 +30,10 @@ tags:
 [Steam Community :: Fallout: New Vegas](https://steamcommunity.com/app/22380/guides/)
 [Steam Community :: Guide :: PERMANENT SKILL BOOKS LOCATIONS GUIDE.](https://steamcommunity.com/sharedfiles/filedetails/?id=1801196895)
 
-[Portal:Fallout: New Vegas | Fallout Wiki | FANDOM powered by Wikia](https://fallout.fandom.com/wiki/Portal:Fallout:_New_Vegas)
+[Portal:Fallout: New Vegas | Fallout Wiki | Fandom](https://fallout.fandom.com/wiki/Portal:Fallout:_New_Vegas)
 [Introduction - Fallout: New Vegas Guide](https://www.supercheats.com/guides/fallout-new-vegas)
 
-[Fallout: New Vegas map | Fallout Wiki | FANDOM powered by Wikia](https://fallout.fandom.com/wiki/Fallout:_New_Vegas_map)
+[Fallout: New Vegas map | Fallout Wiki | Fandom](https://fallout.fandom.com/wiki/Fallout:_New_Vegas_map)
 
 ## Mods
 

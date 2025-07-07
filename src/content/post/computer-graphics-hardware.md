@@ -2,7 +2,7 @@
 title: Computer Graphics (Hardware)
 description: Computer Graphics on the hardware side
 created: 2016-10-18
-updated: 2025-01-09
+updated: 2025-06-27
 tags:
   - comp/hardware
   - graphics/hardware
@@ -25,7 +25,7 @@ RAM of GPU matters the most on high texture and output resolution.
 
 [Scratchapixel](https://www.scratchapixel.com/index.php) Learn Computer Graphics From Scratch!
 
-[ICTGraphicsLab - YouTube](https://www.youtube.com/channel/UCOgm-72B_tibAM2I5j-mBiQ)
+[ICT Vision and Graphics Lab - YouTube](https://www.youtube.com/@ICTGraphicsLab)
 
 ## History
 
@@ -42,6 +42,7 @@ Ahoy
 
 [GPU Tier List - Nvidia Edition! - YouTube](https://www.youtube.com/watch?v=ykDuoq-MpHg)
 
+[GPU 是怎麼被發明的? - YouTube](https://www.youtube.com/watch?v=Zb3m-8_sf8Q)
 [【硬核】在诉讼与骂名中崛起的英伟达GPU：从未停止过战斗，也没有永远的朋友 - YouTube](https://www.youtube.com/watch?v=UBwHVneGiXs)
 [【科技杂谈 79】从 GTX 到 RTX，NVIDIA GEFORCE 显卡家族的历史（1999-2019） - YouTube](https://www.youtube.com/watch?v=UUxUCVlXV0A)
 [The Evolution of Nvidia GeForce Graphics (1999-2022) - YouTube](https://www.youtube.com/watch?v=as-aVVm9JZI)
@@ -54,6 +55,14 @@ Asianometry
 [20 年前的游戏与 PC：探秘 3D 游戏史上最辉煌的岁月（上） - YouTube](https://www.youtube.com/watch?v=TeJ2IFae2-0)
 [N 卡是如何崛起的？20 年前的 PC 和游戏（下） - YouTube](https://www.youtube.com/watch?v=JsVfKeJKJu0)
 [A 卡崛起之路：重现当年 AN 显卡巅峰对决！ - YouTube](https://www.youtube.com/watch?v=BlI9PVQA8ZA)
+
+## GDDR
+
+GDDR5 is quad data rate
+GDDR6 is octo data rate, with PAM-4 (2 binary bit) data record on GDDR6-X
+GDDR6 uses PAM-3 (trinary bit)
+
+[内存和显存的区别 - YouTube](https://www.youtube.com/watch?v=xenDvvSGfwA)
 
 ## Rendering/Compositor
 
@@ -92,7 +101,7 @@ Asianometry
 [This issue is plaguing modern gaming graphics - YouTube](https://www.youtube.com/watch?v=YEtX_Z7zZSY) TAA make frames blurry
 [Improving Anti-Aliasing: Clarity & Stability - YouTube](https://www.youtube.com/watch?v=LiUvA3cTdhg)
 
-[upscayl/upscayl: 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.](https://github.com/upscayl/upscayl)
+[upscayl/upscayl: 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, macOS and Windows built with Linux-First philosophy.](https://github.com/upscayl/upscayl)
 
 [Tech Focus: Anti-Aliasing - What Is It And Why Do We Need It? - YouTube](https://www.youtube.com/watch?v=NbrA4Nxd8Vo)
 
@@ -202,7 +211,7 @@ Asynchronous compute shaders in DX12 benefits the most when CPU is the bottlenec
 > TODO: merge [[mobile-devices]]'s info here
 
 [GPU Benchmarks Hierarchy - Graphics Card Rankings | Tom's Hardware](https://www.tomshardware.com/reviews/gpu-hierarchy,4388.html)
-[Ancient Gameplays - YouTube](https://www.youtube.com/channel/UClxgKTFDjv90AQ_MYWiB1PA)
+[Ancient Gameplays - YouTube](https://www.youtube.com/@AncientGameplays)
 
 [Nvidia Ampere vs. AMD RDNA 2: Battle of the Architectures | TechSpot](https://www.techspot.com/article/2151-nvidia-ampere-vs-amd-rdna2/)
 [GPU Architecture Deep Dive: AMD RDNA 3, Intel Arc Alchemist and Nvidia Ada Lovelace | TechSpot](https://www.techspot.com/article/2570-gpu-architectures-nvidia-intel-amd/)
@@ -236,6 +245,16 @@ Asynchronous compute shaders in DX12 benefits the most when CPU is the bottlenec
 
 [Multi-Instance GPU (MIG) 設定 | 不務正業工程師的家](https://roychou121.github.io/2020/10/29/nvidia-A100-MIG/)
 [透過 MIG-PARTED 管理 MIG | 不務正業工程師的家](https://roychou121.github.io/2021/05/22/nvidia-mig-parted/)
+
+### 12VHPWR debacle
+
+1.1 safety factor without load monitoring and balancing make the cable burn
+
+[My crazy powerful gaming PC feels like a ticking time bomb](https://www.xda-developers.com/my-crazy-powerful-gaming-pc-feels-like-a-ticking-time-bomb/)
+[The real "User Error" is with Nvidia - YouTube](https://www.youtube.com/watch?v=oB75fEt7tH0)
+
+[How Nvidia made the 12VHPWR connector even worse. - YouTube](https://www.youtube.com/watch?v=kb5YzMoVQyw)
+[Why ATX power supplies don't load-balance power connectors - YouTube](https://www.youtube.com/watch?v=BAnQNGs0lOc)
 
 ### CLARA
 

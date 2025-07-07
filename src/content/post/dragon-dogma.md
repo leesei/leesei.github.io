@@ -2,13 +2,13 @@
 title: "Dragon's Dogma: Dark Arisen"
 description: ""
 created: 2018-01-08
-updated: 2025-01-09
+updated: 2025-02-16
 tags:
   - games
 ---
 
 [Dragon's Dogma - Wikiwand](https://www.wikiwand.com/en/Dragon's_Dogma)
-[Dragon's Dogma Wiki | FANDOM powered by Wikia](https://dragonsdogma.fandom.com/wiki/Dragon's_Dogma_Wiki)
+[Dragon's Dogma Wiki | Fandom](https://dragonsdogma.fandom.com/wiki/Dragon's_Dogma_Wiki)
 [Dragons Dogma Wiki](https://dragonsdogma.wiki.fextralife.com/Dragons+Dogma+Wiki)
 [Dragon's Dogma Wiki Guide - IGN](http://www.ign.com/wikis/dragons-dogma)
 
@@ -39,7 +39,7 @@ always clear quest from 6 Notice Boards before major plot advancement
 [Dragon's Dogma Guides - YouTube](https://www.youtube.com/playlist?list=PL0qbYcdU6-clTtvEk8cX30Q2jxVQ_Qlrl) LemonEatingKow
 [Dragon's Dogma Guides (PlayStation, Xbox, Steam) - YouTube](https://www.youtube.com/playlist?list=PL5EOl-1nkRRVktIuJvdj2vLfn24us2BZ-) Anamanajewbee
 [Dragon's Dogma - Armor/Weapon/Gear/Money farming and other tips at game start (BBI and Gransys) - YouTube](https://www.youtube.com/playlist?list=PLrZgsrY1mV1mnQgJWC2Wm557DjZrGNO_7) wh1sper
-[wh1sper 123 - YouTube](https://www.youtube.com/channel/UCZSazQkanwU8oJ2sctVCFwA)
+[wh1sper 123 - YouTube](https://www.youtube.com/@whsper-fe4fo)
 
 [Easy drake and early dragon forge guide (Dragon's Dogma Dark Arisen) - YouTube](https://www.youtube.com/watch?v=2utAbLe65ws) use rock to block dragons
 
@@ -69,8 +69,8 @@ http://andriasang.com/comuxs/dragons_dogma/
 
 ### Builds
 
-[Stat Growths | Dragon's Dogma Wiki | FANDOM powered by Wikia](http://dragonsdogma.fandom.com/wiki/Stat_Growths)
-[Augments | Dragon's Dogma Wiki | FANDOM powered by Wikia](http://dragonsdogma.fandom.com/wiki/Augments)
+[Stat Growths | Dragon's Dogma Wiki | Fandom](http://dragonsdogma.fandom.com/wiki/Stat_Growths)
+[Augments | Dragon's Dogma Wiki | Fandom](http://dragonsdogma.fandom.com/wiki/Augments)
 [Dragon's Dogma Stat Planner](http://stackoverflow.github.io/dragons-dogma-stat-planner/#af000000000000000000000000000000000000)
 
 Immolation
@@ -91,7 +91,7 @@ Warrior's first
 
 ## Bitterblack Isle
 
-[Bitterblack Isle | Dragon's Dogma Wiki | FANDOM powered by Wikia](http://dragonsdogma.fandom.com/wiki/Bitterblack_Isle)
+[Bitterblack Isle | Dragon's Dogma Wiki | Fandom](http://dragonsdogma.fandom.com/wiki/Bitterblack_Isle)
 
 Create your pawn, visit pier in Cassardis at night, then you can talk with Olra travel to BitterBlack Isle
 

@@ -2,7 +2,7 @@
 title: Cinnamon setup
 description: ""
 created: 2015-05-04
-updated: 2025-01-09
+updated: 2025-06-28
 tags:
   - desktop
   - linux
@@ -46,7 +46,7 @@ Uncheck "Show icons on buttons"
 Upper panel (left-to-right):
 
 - Menu
-- Panel launchers
+- Panel launchers ("Add to panel" in Cinnamon menu)
   - Chrome
   - Firefox
   - Terminal

@@ -2,7 +2,7 @@
 title: Leadership
 description: Being a software engineering, this post focus more on software engineering
 created: 2018-11-26
-updated: 2025-01-09
+updated: 2025-03-20
 tags:
   - business
   - programmer
@@ -22,6 +22,12 @@ tags:
 
 [What good leaders do: 3 key practices you can adopt today | CIO](https://www.cio.com/article/3513951/what-good-leaders-do-3-key-practices-you-can-adopt-today.html)
 
+- Be vulnerable
+- Be consistent
+- Optimize for strengths
+
+[10 Leadership Landmines: How to Detect and Avoid an Explosion](https://gavinadams.com/10-leadership-landmines-how-to-detect-and-avoid-an-explosion/)
+
 [6 Ways to Handle and Fight Racism in the Workplace](https://www.intuit.com/blog/social-responsibility/6-ways-to-fight-racism-in-the-workplace/)
 
 [Time to revise the adage that amateurs talk strategy while professionals talk logistics – MountainRunner.us](https://mountainrunner.us/2006/07/time_to_revise_/)
@@ -38,6 +44,9 @@ tags:
 [The problem with software engineering - YouTube](https://www.youtube.com/watch?v=M-ThkvdcYmo)
 
 [優秀的問題解決者，可以後天養成！麥肯錫解決問題 7 步驟怎麼用？－商周讀書會｜商周](https://www.businessweekly.com.tw/careers/blog/3012392) programmers are meant to solve problems
+
+[Gavin Adams - What’s the Secret to a Great Team? These 10 Principles Make the Difference](https://gavinadams.com/whats-the-secret-to-a-great-team-these-10-principles-make-the-difference/)
+[The Leadership Tightrope: How to Hold High Standards Without Crushing Your Team](https://drgavinadams.substack.com/p/the-leadership-tightrope-how-to-hold)
 
 ## Technical Lead
 

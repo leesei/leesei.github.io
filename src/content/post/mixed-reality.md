@@ -2,7 +2,7 @@
 title: Mixed Reality
 description: ""
 created: 2015-07-14
-updated: 2025-01-09
+updated: 2025-03-23
 tags:
   - augmented-reality
   - comp/hardware
@@ -182,6 +182,7 @@ Pattern (picture) marker:
 ---
 
 [真的晕到吐...VR 眼镜最强劝退指南 - YouTube](https://www.youtube.com/watch?v=RROr6EmKz-k)
+[突擊檢查！ VR現在都能玩什麼游戏？今年值得入手了麼？｜最新Meta Quest 3S体验｜大狸子切切裡 - YouTube](https://www.youtube.com/watch?v=YflI2D4W-ao) 2025
 
 # Headmount Display Headsets
 
@@ -246,7 +247,7 @@ Second gen have better displays and lens
 
 [Meta's display chief names 10 features for a perfect VR headset](https://mixed-news.com/en/the-perfect-vr-headset-metas-display-boss-names-10-features/)
 
-[Chill VR - YouTube](https://www.youtube.com/channel/UCT4SzgiomenhOTIbbg7gVAw)
+[Chill VR - YouTube](https://www.youtube.com/@Chill-VR)
 
 [Oculus Quest vs Rift S vs Valve Index - YouTube](https://www.youtube.com/watch?v=Ev_2VDOEAAY)
 [Should You Buy The Oculus Quest, Oculus Rift S Or Oculus Go? - YouTube](https://www.youtube.com/watch?v=Iri2Onx9V7U)

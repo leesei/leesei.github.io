@@ -2,7 +2,7 @@
 title: Web App Frameworks
 description: On frameworks running on Node.js ecosystem
 created: 2023-11-16
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - backend
   - frontend
@@ -65,7 +65,7 @@ LoopBack is based on Express
 [Marko](http://markojs.com/)
 [A First Look at MarkoJS - DEV Community](https://dev.to/ryansolid/a-first-look-at-markojs-3h78)
 
-[Marko - YouTube](https://www.youtube.com/channel/UC1wouaQKl3Qw-aOOo1NmQbA)
+[Marko - YouTube](https://www.youtube.com/@Marko-js)
 
 [Redesigning Marko Series' Articles - DEV Community](https://dev.to/ryansolid/series/14986) 2020-11, Marko 6 features
 

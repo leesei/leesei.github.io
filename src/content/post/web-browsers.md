@@ -2,7 +2,7 @@
 title: Web Browser
 description: ""
 created: 2017-06-16
-updated: 2025-01-09
+updated: 2025-06-24
 tags:
   - javascript/runtime
   - web
@@ -198,6 +198,13 @@ Sparkplug is positioned as a "super-fast" non-optimizing compiler. Sparkplug is 
 [Run Snippets Of Code From Any Page | Tools for Web Developers | Google Developers](https://developers.google.com/web/tools/chrome-devtools/snippets)
 [Scratchpad - Firefox Developer Tools | MDN](https://developer.mozilla.org/en-US/docs/Tools/Scratchpad)
 
+## Mobile Browser
+
+[Microsoft Just Gave You a Reason to Use Edge on Android](https://www.makeuseof.com/microsoft-edge-extensions-update/)
+[Microsoft Edge Add-ons - Extensions for Android](https://microsoftedge.microsoft.com/addons/collections/mobile_android_extensions)
+
+[How to Use Chrome Extensions on Android Mobile Browsers](https://www.makeuseof.com/chrome-extensions-android-mobile/)
+
 ## Video policy
 
 [New <video> Policies for iOS | WebKit](https://webkit.org/blog/6784/new-video-policies-for-ios/) 2016-07
@@ -237,29 +244,23 @@ Sparkplug is positioned as a "super-fast" non-optimizing compiler. Sparkplug is 
 Goto chrome://extensions/shortcuts to set shortcuts
 
 [Augmented Steam](https://chromewebstore.google.com/detail/augmented-steam/dnhpnfgdlenaccegplpojghhmaamnnfp)
-[Awesome Screenshot and Screen Recorder](https://chromewebstore.google.com/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj/related)
+[Bitwarden Password Manager](https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb)
+[Chrome Piano](https://chromewebstore.google.com/detail/chrome-piano/pjafcgbpdclmdeiipolenjgkikeldljl)
 [Copycat](https://chromewebstore.google.com/detail/copycat/jdjbiojkklnaeoanimopafmnmhldejbg)
 
 - Ctrl+Shift+D to copy Markdown link
 - PR: add notification after copy
 
 [Don't add custom search engines](https://chromewebstore.google.com/detail/dont-add-custom-search-en/dnodlcololidkjgbpeoleabmkocdhacc)
-[Explain and Send Screenshots](https://chromewebstore.google.com/detail/explain-and-send-screensh/mdddabjhelpilpnpgondfmehhcplpiin)
-[Enhanced Steam](https://chromewebstore.google.com/detail/enhanced-steam/okadibdjfemgnhjiembecghcbfknbfhg)
-[FasterChrome](https://chromewebstore.google.com/detail/fasterchrome/nmgpnfccjfjhdenioncabecepjcmdnjg)
+[Explain and Send Screenshots](https://chromewebstore.google.com/detail/explain-and-send-screensh/mdddabjhelpilpnpgondfmehhcplpiin) with license
 [FreshStart - Cross Browser Session Manager](https://chromewebstore.google.com/detail/freshstart-cross-browser/nmidkjogcjnnlfimjcedenagjfacpobb)
-[Honey](https://chromewebstore.google.com/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj)
 [HTTP Indicator](https://chromewebstore.google.com/detail/http-indicator/hgcomhbcacfkpffiphlmnlhpppcjgmbl)
-[Ivacy VPN: Best Chrome VPN Proxy Extension](https://chromewebstore.google.com/detail/ivacy-vpn-best-chrome-vpn/lblebdecfhdegbeoejplcpmhibbkbkin)
-[LastPass: Free Password Manager](https://chromewebstore.google.com/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)
+[GNOME Shell integration](https://chromewebstore.google.com/detail/gnome-shell-integration/gphhapmejobijbbhgpjhcjognlahblep)
 [Link to Text Fragment](https://chromewebstore.google.com/detail/link-to-text-fragment/pbcodcjpfjdpcineamnnmbkkmkdpajjg)
-[Make Medium Readable Again](https://chromewebstore.google.com/detail/make-medium-readable-agai/kljjfejkagofbgklifblndjelgabcmig)
 [Markdown Here](https://chromewebstore.google.com/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa)
 
 - change shortcut to <kbd>Alt</kbd> + <kbd>M</kbd>
 
-[Medium Unlimited](https://manojvivek.github.io/medium-unlimited/)
-[Mercury Reader](https://chromewebstore.google.com/detail/mercury-reader/oknpjjbmpnndlpmnhmekjpocelpnlfdi)
 [Moly HaH](https://chromewebstore.google.com/detail/moly-hah/pjoacnohgednppackhamgfalpkffeeek)
 
 - E, Shift-E to enter HaH
@@ -267,14 +268,13 @@ Goto chrome://extensions/shortcuts to set shortcuts
 - PR: sync option
 
 [Petapator](https://chromewebstore.google.com/detail/petapator/eapjillhmgpcgfelagikhjeiboocofcm)
-[PlantUML Viewer](https://chromewebstore.google.com/detail/plantuml-viewer/legbfeljfbjgfifnkmpoajgpgejojooj) disabled
 [Reader View](https://chromewebstore.google.com/detail/reader-view/ecabifbgmdmgdllomnfinbmaellmclnh)
-[Reedy](https://chromewebstore.google.com/detail/reedy/ihbdojmggkmjbhfflnchljfkgdhokffj)
-[Screenshot YouTube](https://chromewebstore.google.com/detail/screenshot-youtube/gjoijpfmdhbjkkgnmahganhoinjjpohk/related)
-[Smart Websocket Client](https://chromewebstore.google.com/detail/smart-websocket-client/omalebghpgejjiaoknljcfmglgbpocdp)
-[Steam Database](https://chromewebstore.google.com/detail/steam-database/kdbmhfkmnlmbkgbabkdealhhbfhlmmon)
+[Refined GitHub](https://chromewebstore.google.com/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf)
+[Reedy](https://chromewebstore.google.com/detail/reedy/ihbdojmggkmjbhfflnchljfkgdhokffj) beware, close source
+[Screenshot YouTube](https://chromewebstore.google.com/detail/screenshot-youtube/gjoijpfmdhbjkkgnmahganhoinjjpohk)
+[Set Character Encoding](https://chromewebstore.google.com/detail/set-character-encoding/bpojelgakakmcfmjfilgdlmhefphglae)
+[SteamDB](https://chromewebstore.google.com/detail/steamdb/kdbmhfkmnlmbkgbabkdealhhbfhlmmon)
 [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-[TunnelBear VPN](https://chromewebstore.google.com/detail/tunnelbear-vpn/omdakjcmkglenbhjadbccaookpfjihpa)
 [Unblock Youku](https://chromewebstore.google.com/detail/unblock-youku/pdnfnkhpgegpcingjbfihlkjeighnddk)
 [Video Speed Controller](https://chromewebstore.google.com/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en)
 
@@ -282,14 +282,25 @@ Goto chrome://extensions/shortcuts to set shortcuts
 - Preferred Speed: 1.8
 - Remember Playback Speed
 
-[Web Archiver](https://chromewebstore.google.com/detail/web-archiver/gjpgpobcdndcdcidmgcmlphbomllapjp)
-[Web Vitals](https://chromewebstore.google.com/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma)
-[Wikiwand: Wikipedia Modernized](https://chromewebstore.google.com/detail/wikiwand-wikipedia-modern/emffkefkbkpkgpdeeooapgaicgmcbolj)
-[YT Anti Translate](https://chromewebstore.google.com/detail/yt-anti-translate/ndpmhjnlfkgfalaieeneneenijondgag)
+[Wayback Machine](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak)
+[Wikiwand - Wikipedia, and beyond](https://chromewebstore.google.com/detail/wikiwand-wikipedia-and-be/emffkefkbkpkgpdeeooapgaicgmcbolj)
+[YouTube Anti Translate](https://chromewebstore.google.com/detail/youtube-anti-translate/ndpmhjnlfkgfalaieeneneenijondgag)
+
+[HackBar](https://chromewebstore.google.com/detail/hackbar/ginpbkfigcoaokgflihfhhmglmbchinc)
+[npmhub](https://chromewebstore.google.com/detail/npmhub/kbbbjimdjbjclaebffknlabpogocablj)
+[React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+[Snippets](https://chromewebstore.google.com/detail/snippets/fakjeijchchmicjllnabpdkclfkpbiag)
+[Vimium C - All by Keyboard](https://chromewebstore.google.com/detail/vimium-c-all-by-keyboard/hfjbmagddngcpeloejdejnfgbamkjaeg)
+[Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+[Wappalyzer - Technology profiler](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)
+
+[TunnelBear VPN](https://chromewebstore.google.com/detail/tunnelbear-vpn/omdakjcmkglenbhjadbccaookpfjihpa)
+[Windscribe - Free Proxy and Ad Blocker](https://chromewebstore.google.com/detail/windscribe-free-proxy-and/hnmpcagpplmpfojmgmnngilcnanddlhb)
 
 [Language Learning with Netflix™](https://chromewebstore.google.com/detail/language-learning-with-ne/mkebkjahadmflkecndjlokjodhmleiia)
 [Language Learning with Netflix & YouTube™](https://chromewebstore.google.com/detail/language-learning-with-ne/bekopgepchoeepdmokgkpkfhegkeohbl)
 [Trim: IMDB Ratings on Netflix and Prime Video](https://chromewebstore.google.com/detail/trim-imdb-ratings-on-netf/lpgajkhkagnpdjklmpgjeplmgffnhhjj)
+[uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh)
 
 [百度网盘直接下载助手 直链加速版](https://greasyfork.org/zh-CN/scripts/39504-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B-%E7%9B%B4%E9%93%BE%E5%8A%A0%E9%80%9F%E7%89%88)
 

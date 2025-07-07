@@ -2,7 +2,7 @@
 title: Raspberry Pi
 description: ""
 created: 2018-09-12
-updated: 2025-01-09
+updated: 2025-06-27
 tags:
   - iot
   - maker
@@ -128,7 +128,7 @@ USB boot mode is stored on chip
 ### <= Raspberry Pi 3
 
 [Pi 3 booting part I: USB mass storage boot beta - Raspberry Pi](https://www.raspberrypi.org/blog/pi-3-booting-part-i-usb-mass-storage-boot/)
-[Install Raspbian on a USB Flash drive from MacOS or Linux](https://www.stewright.me/2017/06/install-raspbian-usb-flash-drive-macos-linux/)
+[Install Raspbian on a USB Flash drive from macOS or Linux](https://www.stewright.me/2017/06/install-raspbian-usb-flash-drive-macos-linux/)
 
 [documentation/booteeprom.md at master · raspberrypi/documentation](https://github.com/raspberrypi/documentation/blob/master/hardware/raspberrypi/booteeprom.md)
 

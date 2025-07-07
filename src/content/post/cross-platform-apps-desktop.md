@@ -2,7 +2,7 @@
 title: Cross Platform Apps (Desktop)
 description: ""
 created: 2022-05-03
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - app
 ---
@@ -469,10 +469,10 @@ Microsoft acquired Xamarin in 2016 and it became part of .NET. MAUI is announced
 [Xamarin.Forms documentation - Xamarin | Microsoft Docs](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/)
 [Xamarin.Forms XAML Basics - Xamarin | Microsoft Docs](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/xaml/xaml-basics/)
 
-[Xamarin Developers - YouTube](https://www.youtube.com/channel/UCe-f02uZgEXdHmHpC3loAQg)
+[Xamarin Developers - YouTube](https://www.youtube.com/@XamarinDevelopers)
 [Xamarin.Forms: More Productive and Beautiful Than Ever - YouTube](https://www.youtube.com/watch?v=iU_MUcM7BVQ)
-[Xamarin 101 - YouTube](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oU10SXt2W58pu2L0v2dOW-1)
-[Xamarin.Forms 101 - YouTube](https://www.youtube.com/playlist?list=PLM75ZaNQS_FaEPpqVjfQdnFaSR1EWCeNZ)
+[Xamarin.Forms 101 - YouTube](https://www.youtube.com/playlist?list=PLM75ZaNQS_FaEPpqVjfQdnFaSR1EWCeNZ) Xamarin Developers
+[Xamarin for Beginners - YouTube](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oU10SXt2W58pu2L0v2dOW-1) dotnet
 
 #### Mobile
 

@@ -2,16 +2,19 @@
 title: Board Games
 description: ""
 created: 2018-01-03
-updated: 2025-01-09
+updated: 2025-04-06
 tags:
-  - boardgame
+  - board-game
   - games
+  - table-top-game
 ---
 
 [PBS Game/Show - YouTube](https://www.youtube.com/@pbsgameshow)
-[桌遊港 BG Port HK - Hong Kong Boardgame Channel - YouTube](https://www.youtube.com/channel/UCOLemwSfpB8uC7mtAhJT2Yw)
+[桌遊港 BG Port HK - Hong Kong Boardgame Channel - YouTube](https://www.youtube.com/@PortBG)
+[Gather Together Games - YouTube](https://www.youtube.com/@GatherTogetherGames/)
 
 [Best app-assisted board games | Dicebreaker](https://www.dicebreaker.com/topics/app-assisted-board-games/best-games/best-app-assisted-board-games)
+[I built LEGO BOARD GAMES... - YouTube](https://www.youtube.com/watch?v=3-j6_pmxLF8)
 
 ## Virtual tabletops
 
@@ -25,6 +28,16 @@ tags:
 
 [Roll20: Online virtual tabletop for pen and paper RPGs and board games](https://roll20.net/)
 [How Roll 20 brings the spirit of D&D to PC | PC Gamer](https://www.pcgamer.com/au/venture-forth-how-roll-20-is-bringing-the-spirit-of-dd-to-videogames/)
+
+### Tabletop Simulator
+
+[Tabletop Simulator on Steam](https://store.steampowered.com/app/286160/Tabletop_Simulator/)
+[Steam Community :: Tabletop Simulator](https://steamcommunity.com/app/286160/workshop/)
+[Steam Workshop::新幕 桜降る代に決闘を Scripted JP（Includes English and Korean）](https://steamcommunity.com/sharedfiles/filedetails/?id=3440137295)
+[Steam Workshop::Sakura Arms Scripted](https://steamcommunity.com/sharedfiles/filedetails/?id=1936563866)
+
+[Meek97/Uno-Scripted: My Tabletop Simulator workshop mod from Uno Scripted](https://github.com/Meek97/Uno-Scripted)
+[GStefanowich/TTS-Uno: A lua script for the game TableTop Simulator](https://github.com/GStefanowich/TTS-Uno)
 
 ## TRPG
 
@@ -61,6 +74,9 @@ Monopoly derives from a patented "The Landlord’s Game", whose goal was to teac
 [Monopoly - Interesting Facts and Strategies - YouTube](https://www.youtube.com/watch?v=mQaEXAtlK00)
 [How to use math to win at Monopoly - YouTube](https://www.youtube.com/watch?v=7_SXFtdf65s)
 [The right way to play Monopoly - YouTube](https://www.youtube.com/watch?v=wK7xcWFgHoA)
+
+[How To Play Monopoly - YouTube](https://www.youtube.com/watch?v=AuWvMgYv03g)
+[How To Play Monopoly — Gather Together Games](https://gathertogethergames.com/monopoly)
 
 [MONINS.PDF](https://www.hasbro.com/common/instruct/monins.pdf)
 [Monopoly/Official Rules - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Monopoly/Official_Rules)
@@ -102,3 +118,11 @@ Monopoly derives from a patented "The Landlord’s Game", whose goal was to teac
 [How to run any program in a Magic: The Gathering Turing Machine - YouTube](https://www.youtube.com/watch?v=YzXoFldEux4)
 
 [Game Theory: I Lost EVERY Game of Magic... So You Don't Have To! (Magic The Gathering) - YouTube](https://www.youtube.com/watch?v=2317ip172lw)
+
+## Take 6 / 牛頭王
+
+[官方聽取民意 狂改玩法!《牛頭王 30週年》新玩法詳細介紹 - YouTube](https://www.youtube.com/watch?v=_aJ3r5yqo94)
+
+## Checkers
+
+[How To Play Checkers - YouTube](https://www.youtube.com/watch?v=ScKIdStgAfU)

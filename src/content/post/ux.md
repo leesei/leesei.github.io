@@ -2,7 +2,7 @@
 title: User Experience (UX)
 description: ""
 created: 2015-06-25
-updated: 2025-01-09
+updated: 2025-03-28
 tags:
   - ui
   - ux
@@ -101,6 +101,8 @@ Most Advanced. Yet Acceptable.
 [為何 Google、Facebook、Adobe 都愛這種插畫？ | TechNews 科技新報](https://technews.tw/2022/01/23/facebook-alegria/)
 
 [Wait Wait...Tell Me! - 99% Invisible](https://99percentinvisible.org/episode/wait-wait-tell-me/) Operation transparency makes people willing to wait
+
+[User Inyerface - A worst-practice UI experiment](https://userinyerface.com/game.html))
 
 ## Open UI
 

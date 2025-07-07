@@ -2,7 +2,7 @@
 title: Neovim notes
 description: hyperextensible Vim-based text editor
 created: 2023-10-23
-updated: 2025-01-09
+updated: 2025-03-15
 tags:
   - app
   - neovim
@@ -34,7 +34,8 @@ ThePrimeagen
 [Using Vim 2023 - YouTube](https://www.youtube.com/watch?v=FrMRyXtiJkc)
 
 DevOps Toolbox
-[Vim - YouTube](https://www.youtube.com/playlist?list=PLmcTCfaoOo_grgVqU7UbOx7_RG9kXPgEr)
+[Neovim - YouTube](https://www.youtube.com/playlist?list=PLmcTCfaoOo_grgVqU7UbOx7_RG9kXPgEr)
+[Neovim From Scratch To BEAST MODE - YouTube](https://www.youtube.com/watch?v=evCmP4hH7ZU)
 [Turn VIM into a full featured IDE with only one command - YouTube](https://www.youtube.com/watch?v=Mtgo-nP_r8Y)
 [DEBUG in Neovim. Like a BOSS. - YouTube](https://www.youtube.com/watch?v=RziPWdTzSV8)
 [Level Up Your Vim Game with These Hidden Tricks - YouTube](https://www.youtube.com/watch?v=ixJWAP1L6jc)
@@ -90,13 +91,14 @@ DistroTube
 
 ### LSP/Linting
 
+[lsp-zero.nvim](https://lsp-zero.netlify.app/)
+
 [williamboman/mason.nvim: Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.](https://github.com/williamboman/mason.nvim) manages lsp and DAP
 [neovim/nvim-lspconfig: Quickstart configurations for the Nvim LSP client](https://github.com/neovim/nvim-lspconfig) language server protocol
 [How I Setup LSP In Neovim For An Amazing Dev Experience - Full Guide - YouTube](https://www.youtube.com/watch?v=NL8D8EkphUw)
 
-[What the hell is NULL-LS | FREE COURSE // EP 4 - YouTube](https://www.youtube.com/watch?v=SxuwQJ0JHMU)
-
 [jose-elias-alvarez/null-ls.nvim: Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.](https://github.com/jose-elias-alvarez/null-ls.nvim) 🗃️archived, lsp wrapper for linter, formatter
+[What the hell is NULL-LS | FREE COURSE // EP 4 - YouTube](https://www.youtube.com/watch?v=SxuwQJ0JHMU)
 [nvimtools/none-ls.nvim: null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.](https://github.com/nvimtools/none-ls.nvim)
 
 [mfussenegger/nvim-dap: Debug Adapter Protocol client implementation for Neovim](https://github.com/mfussenegger/nvim-dap)
@@ -207,7 +209,15 @@ NVIM_APPNAME="nvim.custom" nvim
 [neovide/neovide: No Nonsense Neovim Client in Rust](https://github.com/neovide/neovide)
 [Neovide Is A Graphical Neovim Client Written In Rust - YouTube](https://www.youtube.com/watch?v=Vd5AACp6GG0)
 
+[Text editing with 'mini.nvim' - Neovimconf 2024 - YouTube](https://www.youtube.com/watch?v=cNK5kYJ7mrs)
+[echasnovski/mini.nvim: Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort](https://github.com/echasnovski/mini.nvim)
+[This Neovim "Plugin" Replaces 40 Others - YouTube](https://www.youtube.com/watch?v=qyB-sAvW2lI)
+
+[folke/snacks.nvim: 🍿 A collection of QoL plugins for Neovim](https://github.com/folke/snacks.nvim)
+
 [nvim-lua/kickstart.nvim: A launch point for your personal nvim configuration](https://github.com/nvim-lua/kickstart.nvim)
 [nvim-lua/plenary.nvim: plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.](https://github.com/nvim-lua/plenary.nvim)
 [The Only Video You Need to Get Started with Neovim - YouTube](https://www.youtube.com/watch?v=m8C0Cq9Uv9o)
 [Configure Golang in Kickstart.nvim - YouTube](https://www.youtube.com/watch?v=CNYqPnaCgJw)
+
+[cyrusn/nvim: My Neovim settings](https://github.com/cyrusn/nvim)

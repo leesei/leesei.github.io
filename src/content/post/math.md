@@ -2,14 +2,14 @@
 title: Mathematics
 description: ""
 created: 2017-10-31
-updated: 2025-01-09
+updated: 2025-06-15
 tags:
   - math
 ---
 
 [Wolfram MathWorld: The Web's Most Extensive Mathematics Resource](https://mathworld.wolfram.com/)
 
-[Eddie Woo - YouTube - YouTube](https://www.youtube.com/@misterwootube) High School
+[Eddie Woo - YouTube](https://www.youtube.com/@misterwootube) High School
 [MathHelp.com - YouTube](https://www.youtube.com/@yourteachermathhelp)
 [Math | Khan Academy](https://www.khanacademy.org/math)
 [AMATH 301 - YouTube](https://www.youtube.com/@amath3019)
@@ -19,6 +19,7 @@ tags:
 
 [Math with Bad Drawings – Lover of math. Bad at drawing.](https://mathwithbaddrawings.com/)
 [Mathstopia | Share your Knowledge](https://www.mathstopia.net/)
+[Matrix67: The Aha Moments](https://matrix67.com/blog/)
 [Math is Fun](https://www.mathsisfun.com/)
 [The Map of Mathematics - YouTube](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)
 [The story of mathematical proof – with John Stillwell - YouTube](https://www.youtube.com/watch?v=S1AEWuCFq6A) geometric -> algebraic (including calculus) proof, unsolvability
@@ -38,6 +39,7 @@ tags:
 [Mathologer - YouTube](https://www.youtube.com/@Mathologer)
 [MindYourDecisions - YouTube](https://www.youtube.com/@MindYourDecisions)
 [Primer - YouTube](https://www.youtube.com/@PrimerLearning)
+[2swap - YouTube](https://www.youtube.com/@twoswap)
 [VisualMath - YouTube](https://www.youtube.com/@VisualMath)
 [Zach Star - YouTube](https://www.youtube.com/@zachstar)
 [妈咪说 MommyTalk - YouTube](https://www.youtube.com/@Sci1729)
@@ -75,9 +77,16 @@ Godel proved we cannot disprove it, Cohen proved we cannot prove it
 
 [Why can't you divide by zero? - TED-Ed - YouTube](https://www.youtube.com/watch?v=NKmGVE85GUU)
 
+Axiom of choice => Banach-Tarski Paradox
+[Axiom of choice - Wikiwand](https://www.wikiwand.com/en/articles/Axiom_of_choice)
+[The Axiom Behind Math's Weirdest Paradox - YouTube](https://www.youtube.com/watch?v=SvfATfaL2qc)
+[The Man Who Almost Broke Math (And Himself...) - YouTube](https://www.youtube.com/watch?v=_cr46G2K5Fo)
+[Math's Strangest Set - YouTube](https://www.youtube.com/watch?v=hs3eDa3_DzU)
+[Does math have a major flaw? - Jacqueline Doan and Alex Kazachek - YouTube](https://www.youtube.com/watch?v=seugK4PrW48)
+
 ## Gödel's Incompleteness Theorems
 
-> the most comprehensible proof is by transforming the this theorem into halting problem
+> the most comprehensible proof is by transforming this theorem into a halting problem
 > see [[learn-to-code#Halting problem]]
 
 [Gödel's incompleteness theorems - Wikiwand](https://www.wikiwand.com/en/G%C3%B6del%27s_incompleteness_theorems)
@@ -181,6 +190,10 @@ equilibrium probability = left eigen vector of the adjacency matrix
 
 [Combinatorics - YouTube](https://www.youtube.com/playlist?list=PL0kfjAYPrUS4mfG6qVvAU5x4S9-n2b8WO)
 
+[Your DnD Party is Too Big - YouTube](https://www.youtube.com/watch?v=0pc9Uf3vFDU) chance of schedule conflict increases as number of participants increases
+
+[【漫士】一个案例教会你(几乎)所有组合数学思想 - YouTube](https://www.youtube.com/watch?v=IDD247qjs-4)
+
 ## Group Theory
 
 [Group (mathematics) - Wikiwand](<https://www.wikiwand.com/en/Group_(mathematics)>) Set with binary operation defined
@@ -252,6 +265,10 @@ Khan Academy
 
 ## Probability
 
+[[paradox#Bertrand paradox]]
+[[paradox#Simpson's Paradox]]
+[[paradox#False Positive Paradox]]
+
 [The mathematical foundations of probability - Towards Data Science](https://towardsdatascience.com/the-mathematical-foundations-of-probability-beb8d8426651)
 [Probability: A Statology Primer - KDnuggets](https://www.kdnuggets.com/probability-statology-primer)
 
@@ -271,9 +288,9 @@ Khan Academy
 [Why “probability of 0” does not mean “impossible” | Probabilities of probabilities, part 2 - YouTube](https://www.youtube.com/watch?v=ZA4JkHKZM50) Probability Density Function, where the area under the function is 1
 [But what is a convolution? - YouTube](https://www.youtube.com/watch?v=KuXjwB4LzSA)
 
+[【漫士】99%的人都会答错！为什么概率这么反直觉？ - YouTube](https://www.youtube.com/watch?v=WUHQLhr-Tzo)
+
 妈咪说 MommyTalk
-[概率也能骗人？什么是伯特兰悖论？用数学告诉你为什么说话要严谨 - YouTube](https://www.youtube.com/watch?v=h2grRS_VYfA)
-[一个反直觉的硬币游戏，伯特兰箱子悖论 - YouTube](https://www.youtube.com/watch?v=kq_Ey8l_1yc)
 [充满争议的概率论问题星期二男孩悖论，你能算对吗？ - YouTube](https://www.youtube.com/watch?v=dloKdhnCZj4)
 
 ### Bayes Theorem
@@ -300,16 +317,15 @@ Khan Academy
 [StatQuest with Josh Starmer - YouTube](https://www.youtube.com/@statquest)
 [Normalized Nerd - YouTube](https://www.youtube.com/@NormalizedNerd)
 
+data set that creates same simple statistics but are totally different
 [This is How Easy It Is to Lie With Statistics - YouTube](https://www.youtube.com/watch?v=bVG2OQp6jEQ)
 [This is how easy it is to manipulate public perception - YouTube](https://www.youtube.com/watch?v=ioxWuCd-mn0)
 [Does math belong in the courtroom? - YouTube](https://www.youtube.com/watch?v=wgWNtlz-2vM)
 
 [Three Statistical Tests Every Game Developer Should Know - YouTube](https://www.youtube.com/watch?v=fl9V0U2SGeI)
-[淘宝“双 11”2684 亿销售额造假了吗？用本福特定律检验一下 - YouTube](https://www.youtube.com/watch?v=CCo4k9Ax7cM)
 
-[Think Stats 2e – Green Tea Press](https://greenteapress.com/wp/think-stats-2e/)
+[Think Stats 3e – Green Tea Press](https://greenteapress.com/wp/think-stats-3e/)
 
-data set that creates same simple statistics but are totally different
 [Data visualisation, reporting, and processing with R](https://krlmlr.github.io/vistransrep/2019-04-zhr/intro.html#1)
 [Anscombe's quartet - Wikiwand](https://www.wikiwand.com/en/Anscombe%27s_quartet)
 [The Datasaurus Dozen - Same Stats, Different Graphs | Autodesk Research](https://www.autodeskresearch.com/publications/samestats)
@@ -342,6 +358,8 @@ p-value is the probability that random chance generated the data, or something e
 [Benford's law - Wikiwand](https://www.wikiwand.com/en/Benford's_law)
 
 [Why do Biden's votes not follow Benford's Law? - YouTube](https://www.youtube.com/watch?v=etx0k1nLn78)
+[淘宝“双 11”2684 亿销售额造假了吗？用本福特定律检验一下 - YouTube](https://www.youtube.com/watch?v=CCo4k9Ax7cM)
+[【毕导】这个定律，预言了你的人生进度条！#科普 #数学 #时间 #本福特定律 - YouTube](https://www.youtube.com/watch?v=JdhRD4TKh48)
 
 ## Differential Equations
 
@@ -403,10 +421,13 @@ p-value is the probability that random chance generated the data, or something e
 [Fermat's little theorem - GeeksforGeeks](https://www.geeksforgeeks.org/fermats-little-theorem/)
 [Carmichael number - Wikiwand](https://www.wikiwand.com/en/Carmichael_number) exceptions to Fermat's little theorem
 
+[Mersenne prime - Wikiwand](https://www.wikiwand.com/en/Mersenne%20prime) prime of the form <i>M<sub>n</sub></i> = 2<sup><i>n</i></sup> − 1, where will actually be another prime number
+
+### P-adic number
+
 [P-adic number - Wikiwand](https://www.wikiwand.com/en/p-adic)
 [Mathematicians Use Numbers Differently From The Rest of Us - YouTube](https://www.youtube.com/watch?v=tRaq4aYPzCc)
-
-[Mersenne prime - Wikiwand](https://www.wikiwand.com/en/Mersenne%20prime) prime of the form <i>M<sub>n</sub></i> = 2<sup><i>n</i></sup> − 1, where will actually be another prime number
+[【漫士】怎么把疯狂的想法变成严谨的数学 - YouTube](https://www.youtube.com/watch?v=JMGEaZvOY7A)
 
 ### Perfect Numbers
 
@@ -453,6 +474,8 @@ uses complex number and group theory
 [教你如何不用计算器徒手开平方！《孙子算经》中的开平方术 - YouTube](https://www.youtube.com/watch?v=VPk5H8xUP0M)
 [如何快速徒手开立方？当我没有计算器的时候…… - YouTube](https://www.youtube.com/watch?v=YU6ub-0KgHk)
 
+[【漫士】凭什么我就不能尺规作图三等分角？ - YouTube](https://www.youtube.com/watch?v=jaXSlOgK9-w) ❗!important, explains the following with dimension of extended domain
+
 以下問題為尺規不可解
 
 立方體體積倍增
@@ -466,11 +489,66 @@ uses complex number and group theory
 
 [Draw the Mandelbrot Set in Python – Real Python](https://realpython.com/mandelbrot-set-python/)
 
-## Prover
+## Prover/Formal verification
+
+[Formal verification - Wikiwand](https://www.wikiwand.com/en/articles/Formal_verification)
+
+[Program Proofs · Program Proofs book site](https://program-proofs.com/)
 
 [The story of mathematical proof – with John Stillwell - YouTube](https://www.youtube.com/watch?v=S1AEWuCFq6A)
 
 [Isabelle](https://isabelle.in.tum.de/)
+
+### Tamarin
+
+[Tamarin Prover](https://tamarin-prover.com/)
+[tamarin-prover/tamarin-prover: Main source code repository of the Tamarin prover for security protocol verification.](https://github.com/tamarin-prover/tamarin-prover)
+[Tamarin: Verification of Large-Scale, Real World, Cryptographic Protocols - Archive ouverte HAL](https://hal.science/hal-03586826) technical report
+
+[Tamarin Prover Manual](https://tamarin-prover.com/manual/master/book/001_introduction.html)
+[Modeling and Analyzing Security Protocols with Tamarin: A Comprehensive Guide](https://tamarin-prover.com/book/index.html)
+[tamarin-prover/teaching: Teaching materials related to the Tamarin Prover](https://github.com/tamarin-prover/teaching)
+
+#### Examples
+
+[Automated Analysis of TLS 1.3](https://tls13tamarin.github.io/TLS13Tamarin/)
+[TLS 1.3 in Tamarin](https://samscott89.github.io/TLS13_Tamarin/)
+
+[kemtls/Tamarin-multi-stage-model: Tamarin proof for the KEMTLS protocol using the multi-stage AKE model](https://github.com/kemtls/Tamarin-multi-stage-model)
+[protocol-verification-refinement/dh/model/dh.spthy at main · viperproject/protocol-verification-refinement](https://github.com/viperproject/protocol-verification-refinement/blob/main/dh/model/dh.spthy)
+[protocol-verification-refinement/wireguard/model/wireguard.spthy at main · viperproject/protocol-verification-refinement](https://github.com/viperproject/protocol-verification-refinement/blob/main/wireguard/model/wireguard.spthy)
+
+[[1806.10360] A Formal Analysis of 5G Authentication](https://arxiv.org/abs/1806.10360)
+
+[Blog - iMessage with PQ3: The new state of the art in quantum-secure messaging at scale - Apple Security Research](https://security.apple.com/blog/imessage-pq3/)
+[Security_analysis_of_the_iMessage_PQ3_protocol_Stebila.pdf](https://security.apple.com/assets/files/Security_analysis_of_the_iMessage_PQ3_protocol_Stebila.pdf)
+
+### Viper
+
+[Viper – Programming Methodology Group | ETH Zurich](https://www.pm.inf.ethz.ch/research/viper.html)
+[viperproject/viper-ide: This is the main repository for the Viper IDE extension for VS Code.](https://github.com/viperproject/viper-ide)
+[Viper tutorial](https://viper.ethz.ch/tutorial/)
+
+[Gobra – Programming Methodology Group | ETH Zurich](https://www.pm.inf.ethz.ch/research/gobra.html)
+[viperproject/gobra: Gobra is an automated, modular verifier for Go programs, based on the Viper verification infrastructure.](https://github.com/viperproject/gobra)
+[viperproject/gobra-ide: VSCode Plugin for Gobra](https://github.com/viperproject/gobra-ide)
+[Practical Program Verification in Go with Gobra](https://viperproject.github.io/gobra-book/)
+
+[viperproject/protocol-verification-refinement: Artifact of the paper "Sound Verication of Security Protocols: From Design to Interoperable Implementations"](https://github.com/viperproject/protocol-verification-refinement) WireGuard
+
+[viperproject/silver: Definition of the Viper intermediate verification language.](https://github.com/viperproject/silver/)
+[viperproject/silicon: Symbolic-execution-based verifier for the Viper intermediate verification language.](https://github.com/viperproject/silicon)
+
+### ProVerif+CryptoVerif
+
+> does not rely on the symbolic, Dolev-Yao model, but on the computational model
+
+[CryptoVerif](https://bblanche.gitlabpages.inria.fr/cryptoverif//)
+[CryptoVerif - Wikiwand](https://www.wikiwand.com/en/articles/CryptoVerif)
+
+[ProVerif](https://bblanche.gitlabpages.inria.fr/proverif/)
+[ProVerif - Wikiwand](https://www.wikiwand.com/en/articles/ProVerif)
+[ProVerif with Lemmas, Induction, Fast Subsumption, and Much More | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/9833653)
 
 ### Lean
 

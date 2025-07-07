@@ -2,7 +2,7 @@
 title: New Energy Source
 description: Renewable Energy, Non-fossil Energy"
 created: 2015-11-04
-updated: 2025-01-09
+updated: 2025-03-05
 tags:
   - energy
   - science
@@ -15,6 +15,12 @@ tags:
 [Renewable Energy - YouTube](https://www.youtube.com/playlist?list=PLHebb5GJgeFd3_6WIS8YgRboGvawbRHo7)
 
 [Renewable energy: Why US counties often ban solar, wind power plants](https://www.usatoday.com/story/news/investigations/2024/02/04/us-counties-ban-renewable-energy-plants/71841063007/)
+
+[How We Solved Renewables BIGGEST Problem - YouTube](https://www.youtube.com/watch?v=j1HWNXmmld4)
+
+- femtosecond layer wields remove the need for adhesives
+- recyclable wind turbine blade with PECAN
+- recycling lithium batteries
 
 [[nuclear-energy]]
 
@@ -30,6 +36,12 @@ New energy source that don't have turbines (large rotating masses) cannot handle
 [How the Next Big Solar Panel Tech is Already Here - YouTube](https://www.youtube.com/watch?v=3GIzZwQw4nc) Cadmium Telluride (CdTe), slighter lower efficiency than silicon but with higher theoretical efficiency, lower carbon footprint (in both process and material), fastest energy payback time
 [Solar 3.0: This New Technology Could Change Everything - YouTube](https://www.youtube.com/watch?v=tQmFVcD-Mbo)
 [2024 Perovskite Breakthroughs are the Future of Solar - YouTube](https://www.youtube.com/watch?v=FOBY6t1xnMI)
+
+Solar Thermal Plant
+[This $2B Solar Plant was an EPIC Failure - What Happened? - YouTube](https://www.youtube.com/watch?v=V2Uc0NFxLaU) Ivanpah Power Plant in Mojave Desert, water at 266℃
+[This Billion Dollar Solar Plant was an EPIC Failure - YouTube](https://www.youtube.com/watch?v=oiPSy2bKZkE) Crescent Dune Power Plant in Nevada, molten salt at 600℃
+
+[What REALLY happens to used Solar Panels? - YouTube](https://www.youtube.com/watch?v=FCtEWveySsA) recycling
 
 ## Wind Turbine
 

@@ -2,7 +2,7 @@
 title: Regular expression
 description: ""
 created: 2015-02-26
-updated: 2025-01-09
+updated: 2025-04-28
 tags:
   - comp/lang
   - formal-language
@@ -36,6 +36,7 @@ tags:
 [Best of Fluent 2012: /Reg(exp){2}lained/: Demystifying Regular Expressions - YouTube](https://www.youtube.com/watch?v=EkluES9Rvak)
 
 [Writing The Perfect RGB Regex And Failing](https://emnudge.dev/blog/perfect-rgb-regex)
+[The Essential Guide to Regular Expressions for Data Scientists - KDnuggets](https://www.kdnuggets.com/the-essential-guide-to-regular-expressions-for-data-scientists)
 
 [VerbalExpressions ♥ Open Source](http://verbalexpressions.github.io/)
 
@@ -61,13 +62,11 @@ These highlight matches in input test string.
 
 [Online regex tester and debugger: JavaScript, Python, PHP, and PCRE](https://regex101.com/) (with explanation)
 [RegExr: Learn, Build, & Test RegEx](https://regexr.com/) (JavaScript, PCRE) (with explanation)
-[RegExr: Learn, Build, & Test RegEx](http://www.regexr.com/) (JavaScript)
 [Regex Builder](http://ysmood.github.io/regex-builder/) (JavaScript)
 [Regex Tester - Javascript, PCRE, PHP](http://www.regexpal.com/)
 [RegExp playground](http://leaverou.github.io/regexplained/) (JavaScript)
-[ReFiddle](http://refiddle.com/) (JavaScript, Ruby, .Net)
+[Python Regex Online](https://pythonium.net/regex) (with diagram)
 [Regex Tester and Debugger Online - Javascript, PCRE, PHP](https://www.regextester.com/)
-[Python Regex Tool](http://www.pythonregex.com/)
 [Rubular: a Ruby regular expression editor and tester](http://rubular.com/)
 
 ## #perfmatters

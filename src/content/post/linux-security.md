@@ -2,7 +2,7 @@
 title: Linux Security
 description: ""
 created: 2016-05-30
-updated: 2025-01-09
+updated: 2025-02-04
 tags:
   - linux
   - security
@@ -56,6 +56,7 @@ tags:
 [Documentation · Wiki · AppArmor / apparmor · GitLab](https://gitlab.com/apparmor/apparmor/wikis/Documentation)
 [Ubuntu Manpage: AppArmor - kernel enhancement to confine programs to a limited set of resources.](http://manpages.ubuntu.com/manpages/bionic/man7/apparmor.7.html)
 
+[How To Use AppArmor to Lock Down Linux Applications](https://www.itprotoday.com/linux-os/how-to-use-apparmor-to-lock-down-linux-applications)
 [14.4. Introduction to AppArmor](https://debian-handbook.info/browse/stable/sect.apparmor.html)
 
 ```sh

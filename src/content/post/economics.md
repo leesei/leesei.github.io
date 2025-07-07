@@ -2,7 +2,7 @@
 title: Economics
 description: ""
 created: 2016-09-24
-updated: 2025-01-09
+updated: 2025-06-08
 tags:
   - economics
 ---
@@ -14,8 +14,9 @@ tags:
 
 [Economics - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPNZwz5_o_5uirJ8gQXnhEO) Crash Course
 [Economy - Investopedia](https://www.investopedia.com/economy-4689801)
-[Asianometry - YouTube](https://www.youtube.com/channel/UC1LpsuAUaKoMzzJSEt5WImw)
+[Asianometry - YouTube](https://www.youtube.com/@Asianometry)
 [小岛大浪吹-非正经政经频道 - YouTube](https://www.youtube.com/@xiaodaodalang)
+[Phil Edwards - YouTube](https://www.youtube.com/@PhilEdwardsInc)
 
 [Cost of Living](https://www.expatistan.com/cost-of-living)
 
@@ -85,11 +86,26 @@ Level 3: CDS insurances for MBS/ABS/CDO, CDS², CDS³, ...
 
 ## Trade War
 
+[一口气了解关税 - YouTube](https://www.youtube.com/watch?v=uiMsul6sKus)
+
+[美国刹不住的贸易逆差，根本原因是什么? - YouTube](https://www.youtube.com/watch?v=XDXeZk6a170)
+current account, capital account, financial account
+[Triffin dilemma - Wikiwand](https://www.wikiwand.com/en/articles/Triffin_dilemma)
+[How The Triffin Dilemma Affects Currencies](https://www.investopedia.com/financial-edge/1011/how-the-triffin-dilemma-affects-currencies.aspx)
+[The Triffin paradox revisited](https://www.aegonam.com/aegon-insights/macro/the-triffin-paradox-revisited/)
+
+[一定要看：這個世界的「劇本」已經被川普暴露？廣場協議2.0？穩定幣？關稅戰？川普拿到的「劇本」究竟要將我們帶往何處？|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=jcoTKgVx7Tw)
+[关税过山车，特朗普究竟想干嘛？ - YouTube](https://www.youtube.com/watch?v=Op_lsH_ys5g)
+national debt's interest is a big expense of the US government
+Trump tries to depreciate US dollar and re-shpring manufacturing sector
+
 [US-China trade war update | Podcasts | South China Morning Post](https://www.scmp.com/podcasts/us-china-trade-war-update)
 
 [One country is winning the trade war. It’s not the US and it’s not China | South China Morning Post](https://www.scmp.com/week-asia/opinion/article/3017498/one-country-winning-trade-war-its-not-us-and-its-not-china)
 [Xi is not the boss in US-China struggle. Neither’s Trump. Here’s who is | South China Morning Post](https://www.scmp.com/week-asia/opinion/article/3016557/xi-not-boss-us-china-struggle-neithers-trump-heres-who)
 [从比较优势理论分析：中美为何会爆发贸易战？与鸦片战争有什么相似之处？李永乐老师告诉你 - YouTube](https://www.youtube.com/watch?v=nwLqo83iqks)
+
+[The loophole that made Temu — and could kill it - YouTube](https://www.youtube.com/watch?v=m_w6eqzen68) de minimis exception to import duty
 
 ## European Union
 

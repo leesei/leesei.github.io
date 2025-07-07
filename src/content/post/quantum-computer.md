@@ -11,12 +11,19 @@ tags:
 > [[crypto#Post-quantum]]
 
 [A Beginner’s Guide to Quantum Computing - YouTube](https://www.youtube.com/watch?v=S52rxZG-zi0)
-[Quantum computing explained with a deck of cards | Dario Gil, IBM Research - YouTube](https://www.youtube.com/watch?v=yy6TV9Dntlw)
-[Quantum computing explained in 10 minutes | Shohini Ghose - YouTube](https://www.youtube.com/watch?v=QuR969uMICM) TED
+[The Map of Quantum Computing - Quantum Computing Explained - YouTube](https://www.youtube.com/watch?v=-UlxHPIEVqA) Domain of Science
 [Shohini Ghose: A beginner's guide to quantum computing | TED Talk](https://www.ted.com/talks/shohini_ghose_quantum_computing_explained_in_10_minutes)
+[Quantum computing explained in 10 minutes | Shohini Ghose - YouTube](https://www.youtube.com/watch?v=QuR969uMICM) TED
+[Quantum computing explained with a deck of cards | Dario Gil, IBM Research - YouTube](https://www.youtube.com/watch?v=yy6TV9Dntlw)
 [Quantum Computing: It’s Not Just the Qubits - YouTube](https://www.youtube.com/watch?v=bvCbrFD7wdU)
-[Quantum Programming - Part 1 - YouTube](https://www.youtube.com/watch?v=2Eswqed8agg)
+[美国后量子密码政策解析与欧美技术全景 - 安全内参 | 决策者的网络安全知识库](https://www.secrss.com/articles/80112) technologies and solutions
+
+[2024 Quantum Computing Guide: Getting Ready For Tomorrows Tech](https://www.keyfactor.com/resources/content/2024-quantum-computing-quide)
 [Quantum computing opens new realms of possibilities – Discovery: Research at Princeton](https://discovery.princeton.edu/2019/12/09/quantum-computing-opens-new-realms-of-possibilities/)
+[TrUE vs. QKD vs. PQC | Quantropi](https://www.quantropi.com/true-vs-qkd-vs-pqc-know-the-difference/)
+
+[Microsoft Quantum | Homepage](https://quantum.microsoft.com/)
+[Quantum Country](https://quantum.country/)
 
 [Quantum computing: A cheat sheet - TechRepublic](https://www.techrepublic.com/article/quantum-computing-the-smart-persons-guide/)
 [The 5 basics of quantum computers - TechRepublic](https://www.techrepublic.com/videos/the-5-basics-of-quantum-computers/)
@@ -30,7 +37,11 @@ tags:
 [Five Quantum Computing Misconceptions - YouTube](https://www.youtube.com/watch?v=kEry1TaN4-k)
 [Quantum Computing: Untangling the Hype - YouTube](https://www.youtube.com/watch?v=wE1OCXvaDtc)
 [Quantum Computing for Computer Scientists - YouTube](https://www.youtube.com/watch?v=F_Riqjdh2oM)
-[Quantum Computing - YouTube](https://www.youtube.com/playlist?list=PLV4qsET9ZdOR-pf6ZMJZx2auIZScXhCaW)
+[What Even Is A Quantum Computer? - YouTube](https://www.youtube.com/watch?v=dm6ux6d6kCA)
+[What _is_ a qubit? - YouTube](https://www.youtube.com/watch?v=kgSVkVNxXyU)
+[Why I Left Quantum Computing Research - YouTube](https://www.youtube.com/watch?v=pDj1QhPOVBo) lack of quantum algorithm
+[Quantum Computing - YouTube](https://www.youtube.com/playlist?list=PLV4qsET9ZdOR-pf6ZMJZx2auIZScXhCaW) Josh's Channel
+[量子熊 ✕ 泛科學 - YouTube](https://www.youtube.com/playlist?list=PLBbGP5YXTYgn4GjqUr8NA-KiSoMYQDQjZ) PanSci
 [一小時略懂量子電腦｜量子位元、量子計算、超導電路、離子阱、拓撲量子位元、量子糾錯 - YouTube](https://www.youtube.com/watch?v=XuN6sF8UGSw)
 [什么是量子计算机？做一台量子计算机有哪些困难？ - YouTube](https://www.youtube.com/watch?v=OJEoWNZKcfs)
 [量子计算机可以取代经典计算机？不！一台合格的量子计算机应有哪些标准？ - YouTube](https://www.youtube.com/watch?v=OHTqCYCQJe0)
@@ -38,6 +49,9 @@ tags:
 [“九章”量子计算机为啥快？玻色采样是什么？量子霸权时代来了吗？ - YouTube](https://www.youtube.com/watch?v=bfp_0f2BJDI)
 [量子霸權，比世界上最強的超級計算機快十五億倍的量子電腦 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=7l6BeKyLc3Y)
 [十分鐘略懂量子運算：量子物理、量子電腦、量子位元、量子閘、量子演算法與量子未來應用 - YouTube](https://www.youtube.com/watch?v=hXHrhnt2TEI)
+
+3blue1brown
+[But what is quantum computing? (Grover's Algorithm) - YouTube](https://www.youtube.com/watch?v=RQWpF2Gb-gU) Grover's Algorithm uses QC to verify a solution, good for solving NP problems
 
 [Quantum computing in the 21st Century – with David Jamieson - YouTube](https://www.youtube.com/watch?v=zxml8UQSwC0)
 [Quantum Computers Could Solve These Problems - YouTube](https://www.youtube.com/watch?v=IhS6ecYZFdQ)
@@ -77,13 +91,28 @@ full-scale error correction will require tens of qubits to make just one logical
 ## Programming
 
 [4 Platforms To Learn Quantum Computing for Free | by Israel Miles | Feb, 2022 | Level Up Coding](https://levelup.gitconnected.com/4-platforms-to-learn-quantum-computing-for-free-c7390c925e57)
+[Quantum Simulation Explained in 9 Slides - YouTube](https://www.youtube.com/watch?v=kD370qyxTyw)
+[How To Code A Quantum Computer - YouTube](https://www.youtube.com/watch?v=JOJ5zihcd6Q)
+[Quantum Programming - Part 1 - YouTube](https://www.youtube.com/watch?v=2Eswqed8agg)
 
 [IBM Q Experience](https://quantumexperience.ng.bluemix.net/qx/experience)
 [Qiskit](https://qiskit.org/)
+[Qiskit - YouTube](https://www.youtube.com/qiskit)
 
+[Microsoft Quantum | Quantum coding with Copilot in Microsoft Quantum](https://quantum.microsoft.com/en-us/tools/quantum-coding)
 [Explore Quantum Hardware for Free with Azure Quantum - Q# Blog](https://devblogs.microsoft.com/qsharp/explore-quantum-hardware-for-free-with-azure-quantum/)
 
 [Cirq | Google Quantum AI](https://quantumai.google/cirq)
 
 [Twist: MIT’s New Programming Language for Quantum Computing](https://scitechdaily.com/twist-mits-new-programming-language-for-quantum-computing/)
 [Meet Twist: MIT’s Quantum Programming Language - IEEE Spectrum](https://spectrum.ieee.org/quantum-programming-language-twist)
+
+## Google Willow
+
+## Microsoft Majorana 1
+
+[Majorana 1 Explained: The Path to a Million Qubits - YouTube](https://www.youtube.com/watch?v=wSHmygPQukQ)
+[Microsoft's Topological Quantum Computer Explained - YouTube](https://www.youtube.com/watch?v=ihZXl33t8So)
+[Microsoft Announces World's First Topological Quantum Chip - Majorana 1 Explained - YouTube](https://www.youtube.com/watch?v=xr_izIthZWQ)
+[见证历史？微软的马约拉纳量子芯片究竟是瞎吹还是颠覆？ - YouTube](https://www.youtube.com/watch?v=RmHYHSZRweY)
+[Microsoft’s Topological Qubits Probably Don’t Exist, Researchers Warn - YouTube](https://www.youtube.com/watch?v=bJTsFZtD7xE)

@@ -2,7 +2,7 @@
 title: CPUs
 description: The history of CPU, companies, ISA and chip fabrication
 created: 2019-05-03
-updated: 2025-01-09
+updated: 2025-05-21
 tags:
   - comp/hardware
   - laptop
@@ -68,6 +68,7 @@ RetroBytes
 [【弯评 09】这是一个关于猪队友的故事 - YouTube](https://www.youtube.com/watch?v=6Xs4dB5-ikQ)
 
 [一口气了解AMD | 别光盯着英伟达了~ - YouTube](https://www.youtube.com/watch?v=cnTSFpSqYSM)
+[曾经的芯片霸主，如今为何跌落神坛？【英特尔变革史｜商界传奇】 - YouTube](https://www.youtube.com/watch?v=tCkeVMYdp2w)
 
 [How ARM Saved Apple - YouTube](https://www.youtube.com/watch?v=QXgBI8drB-k)
 
@@ -90,6 +91,7 @@ RetroBytes
 [Why X86 Needs To Die | Hackaday](https://hackaday.com/2024/03/21/why-x86-needs-to-die/)
 [Why x86 Doesn’t Need to Die – Chips and Cheese](https://chipsandcheese.com/2024/03/27/why-x86-doesnt-need-to-die/)
 [X86 Needs To Die - YouTube](https://www.youtube.com/watch?v=xCBrtopAG80)
+[I finally know how CPUs work (w/ Casey Muratori) - YouTube](https://www.youtube.com/watch?v=jC_z1vL1OCI)
 
 ### x86
 
@@ -419,7 +421,7 @@ Core Ultra 200V series is extremely power efficient, comparable to Apple's M3, b
 [AMD Ryzen U vs H vs HS vs HX Laptop CPUs: What's the Difference?](https://www.makeuseof.com/amd-ryzen-u-h-hs-hx-laptop-chips-what-the-difference/)
 
 - The Ryzen Z2G will be based on the older Rembrandt architecture, utilizing Zen 3+ CPU cores and RDNA2 GPU.
-- The Ryzen Z2 is rumored to feature Phoenix/Hawk Point architecture with Zen 4 CPU cores and RDNA3 GPU.
+- The Ryzen Z2 is to feature Phoenix/Hawk Point architecture with Zen 4 CPU cores and RDNA3 GPU.
 - The Ryzen Z2 Extreme, the latest option, will reportedly leverage Strix Point with Zen 5 CPU cores and RDNA3.5 GPU.
 
 [Not the best value, but still a better value than the flagship - AMD Ryzen 5 8600G review — the new value iGPU gaming champion - Page 6 | Tom's Hardware](https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-8600g-cpu-review/)
@@ -431,6 +433,19 @@ Core Ultra 200V series is extremely power efficient, comparable to Apple's M3, b
 
 [ZEN 5 has a 3D V-Cache Secret - YouTube](https://www.youtube.com/watch?v=bPLKa4crk8A)
 [AMD Zen 5深度评测：HX370能效超强！但大小核靠谱吗？ - YouTube](https://www.youtube.com/watch?v=Th0LONlA9a8) laptop CPU
+
+## 2025
+
+### Intel
+
+[笔记本CPU上新，英特尔游戏本新品来了 - YouTube](https://www.youtube.com/watch?v=y53hUKW7TvU)
+
+### AMD
+
+[I’ve Never Been This ANGRY and CONFUSED - AMD 2025 Product Update (CES) - YouTube](https://www.youtube.com/watch?v=mNP-qhGdWvM)
+
+- adds HX3D, Ryzen AI Max to mobile lineup
+- naming convention is changed _again_
 
 ## TDP
 

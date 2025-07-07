@@ -2,7 +2,7 @@
 title: C and C++
 description: ""
 created: 2023-09-29
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - c
   - comp/lang
@@ -188,8 +188,15 @@ Dave Poo
 
 [[reverse-engineering#gdb]]
 
-[Valgrind Home](http://www.valgrind.org/)
+[Valgrind Home](http://www.valgrind.org/) wraps existing binary
+[Twenty years of Valgrind | Nicholas Nethercote](https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html)
 [sowson/valgrind: Experimental Version of Valgrind for macOS 10.14.6 Mojave and 10.15.1 Catalina](https://github.com/sowson/valgrind/)
+[CS107 Guide to valgrind](https://web.stanford.edu/class/archive/cs/cs107/cs107.1174/guide_valgrind.html)
+
+[AddressSanitizer — Clang documentation](https://clang.llvm.org/docs/AddressSanitizer.html) requires building of instrumented binary
+[AddressSanitizer · google/sanitizers Wiki](https://github.com/google/sanitizers/wiki/AddressSanitizer)
+[AddressSanitizerLeakSanitizer · google/sanitizers Wiki](https://github.com/google/sanitizers/wiki/AddressSanitizerLeakSanitizer)
+[AddressSanitizer使用介绍](https://www.bynav.com/cn/resource/bywork/healthy-work/70.html)
 
 [Keynote Video: Elecia White Finds Treasure In The Memory Map | Hackaday](https://hackaday.com/2021/12/16/keynote-video-elecia-white-finds-treasure-in-memory-map/)
 [五大内存泄露应对之策，好文必看！](https://mp.weixin.qq.com/s?__biz=MjM5ODg5MDIzOQ==&mid=2650491536&idx=1&sn=b674f071c3feb911d623677a065e2546&chksm=becc350089bbbc16395aa929f7d300c4ad4d7cd2c34d15c080c655a08a529feb52b608f73d5e&exptype=unsubscribed_card_1_article_onlinev2_1000w_promotion_level1&expsessionid=2214205324004229121&scene=169&subscene=10000&sessionid=1641647579&clicktime=1641647593&enterid=1641647593&ascene=56&devicetype=android-30&version=28000f41&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=en&exportkey=Aolu7jWf%2FyuUGJrJLAJX70k%3D&pass_ticket=xLZpDXLFVK%2BeNbr8O4hCe0Lpxh2H2ApcZULLx3Kag0eGJgYNgvOu3vqtiZ6xIoPA&wx_header=1)

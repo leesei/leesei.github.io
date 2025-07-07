@@ -2,7 +2,7 @@
 title: Functional Programming
 description: ""
 created: 2016-03-13
-updated: 2025-01-09
+updated: 2025-03-26
 tags:
   - javascript
   - web
@@ -61,6 +61,9 @@ _declarative_ as antithetical to _imperative_, and _procedural_ as antithetical 
 
 [Lambda calculus - Wikiwand](https://www.wikiwand.com/en/Lambda_calculus)
 [Lambda Calculus - Computerphile - YouTube](https://www.youtube.com/watch?v=eis11j_iGMs)
+[What is PLUS times PLUS? - YouTube](https://www.youtube.com/watch?v=RcVA8Nj6HEo)
+[Programming with Math | The Lambda Calculus - YouTube](https://www.youtube.com/watch?v=ViPNHMSUcog)
+[Lambda Calculus! - YouTube](https://www.youtube.com/watch?v=RsO_sfHtXCM)
 
 ## Functor/Monad
 
@@ -265,7 +268,7 @@ Haskell use monads to carry out side effects
 [Erlang, a Language for the Internet of Things - The New Stack](http://thenewstack.io/past-present-future-erlang/)
 [Stuff Goes Bad: Erlang in Anger](https://www.erlang-in-anger.com/)
 
-[Erlang Solutions - YouTube](https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ)
+[Erlang Solutions - YouTube](https://www.youtube.com/@ErlangSolutions)
 
 [Erlang.mk](https://erlang.mk/)
 

@@ -2,7 +2,7 @@
 title: Organs
 description: ""
 created: 2023-09-03
-updated: 2025-01-09
+updated: 2025-06-09
 tags:
   - biology
   - learning
@@ -18,6 +18,15 @@ tags:
 
 [An evolutionary history of the human brain, in 7 minutes - Big Think](https://bigthink.com/the-well/the-evolution-of-the-human-brain/)
 
+[【鬼谷说】神经演化（其一）：风起青萍之末 - YouTube](https://www.youtube.com/watch?v=ZRkzXd1owPE)
+[【鬼谷说】神经演化（其二）：混沌一念心智开 - YouTube](https://www.youtube.com/watch?v=zjxzytyRZ2g)
+[【鬼谷说】神经演化（其三）：脑的夺权之路 - YouTube](https://www.youtube.com/watch?v=x8MPVjtq5cw)
+[【鬼谷说】神经演化（其五）：脑智三分 所归于一 - YouTube](https://www.youtube.com/watch?v=0rIaIu2U7Yk)
+
+[【漫士】为什么要求在比赛中留意提子是反人类的 - YouTube](https://www.youtube.com/watch?v=8RHGYApR4yY)
+System 1: Intuition and instinct, fast
+System 2: Rational and logical, slow
+
 ## Lungs
 
 [【鬼谷说】肺的演化（其一）：一息生两仪 两仪生万物 - YouTube](https://www.youtube.com/watch?v=IxJ2ABj1RBM)
@@ -31,9 +40,12 @@ tags:
 
 ## Skin
 
+芳斯塔芙
 [今天讲个毛的演化史：毛皮鳞羽都是怎么诞生的？ - YouTube](https://www.youtube.com/watch?v=wNVilTKLwTk)
 [【人类赤裸裸的真相】我们为什么浑身上下都几乎没有任何体毛，却又保留了头发眉毛等等等等 - YouTube](https://www.youtube.com/watch?v=FUX501VnFic)
+[生物的演化能有多凑合？ - YouTube](https://www.youtube.com/watch?v=0CBdrR-Xd18)
 
+[我們真正登陸的器官，癢和痛是力度不同，還是兩件事？為什麼說光有生理一致性不足以形成個體延續性。皮膚的真相一口氣說完。 - YouTube](https://www.youtube.com/watch?v=Ror1xQgCa4E)
 [最詭異的器官，我們都被這個器官封裝在超能力機甲當中……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=n4TWUh4ZGhk)
 
 ## Digestive System
@@ -61,6 +73,7 @@ What we perceive is the post-processed signals from our brains.
 
 [[optical-illusion]]
 [【鬼谷说】眼睛演化史：三千光明法门 - YouTube](https://www.youtube.com/watch?v=KohT77v9rLw)
+[最神秘的器官：我們因為這個器官而擁有了大腦和意識，我們其實是這個器官的傀儡，它究竟從何而來？|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=hqcWyoVlr2A)
 
 ### Hearing/Ears
 

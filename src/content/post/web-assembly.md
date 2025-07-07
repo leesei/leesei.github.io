@@ -2,7 +2,7 @@
 title: Web Assembly
 description: ""
 created: 2017-06-19
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - wasm
   - web
@@ -23,7 +23,7 @@ tags:
 [WebAssembly feature detection](https://web.dev/webassembly-feature-detection/)
 
 [WebAssembly | MDN](https://developer.mozilla.org/en-US/docs/WebAssembly)
-[WebAssembly Summit - YouTube](https://www.youtube.com/channel/UCh9PqDCdacsTpyRaIryhA8g)
+[WebAssembly Summit - YouTube](https://www.youtube.com/@WebAssemblySummit)
 
 [Wasm By Example](https://wasmbyexample.dev/home.en-us.html)
 [Tanks! Demo - WebAssembly](https://webassembly.org/demo/)

@@ -2,7 +2,7 @@
 title: Corporate
 description: ""
 created: 2015-04-15
-updated: 2025-01-09
+updated: 2025-05-18
 tags:
   - business
   - corporate
@@ -21,6 +21,7 @@ tags:
 [IC 实验室 - YouTube](https://www.youtube.com/channel/UCJ1zX4FZA15dwE2olLAO3-w)
 [经济洞察 - YouTube](https://www.youtube.com/playlist?list=PLlRfc9iRmW9Z8CT1VatBzq_llDd9r6r4i)
 [消费战争 - YouTube](https://www.youtube.com/playlist?list=PLlRfc9iRmW9YBf6iT_44SReiVgq7iIZK2)
+[十萬個品牌故事 100k Brand Stories - YouTube](https://www.youtube.com/@100kBrandStories)
 
 [外國的月亮就是圓？從元氣森林名創優品到傑士邦，真國產為什麽總用假洋牌忽悠人？- IC 實驗室出品 - YouTube](https://www.youtube.com/watch?v=-kn_hOyMLF0)
 [賣吊牌一年血賺 13 億？股價秒殺茅台，3 個月漲幅 133%？揭秘中國貼牌宇宙是如何坑消費者的錢的？- IC 實驗室出品 - YouTube](https://www.youtube.com/watch?v=U8Q7oNZMnr8)
@@ -103,6 +104,10 @@ When a service is free, you are the product/asset.
 ## KFC
 
 [肯德基魔改小吃简史，热干面螺蛳粉串串香：KFC就是不好好做鸡？- IC实验室出品 - YouTube](https://www.youtube.com/watch?v=8JzvV4eGh8U)
+
+## Alibaba
+
+[2025马云重磅回归！中国经济迎来新秩序！1小时看懂曾经的阿里危机，马云为何突然消失、又突然出现，背后的原因超乎你的想象 [She's Xiaowu 小乌] - YouTube](https://www.youtube.com/watch?v=wfiawZg14Vo)
 
 ## Lytro
 

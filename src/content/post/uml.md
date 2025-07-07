@@ -2,7 +2,7 @@
 title: UML
 description: ""
 created: 2015-04-14
-updated: 2025-01-09
+updated: 2025-06-27
 tags:
   - comp/lang
   - uml
@@ -157,6 +157,7 @@ Live Editor:
 [jmbruel/basics: Basic UML concepts and diagrams in plantUML for easy modification/translation](https://github.com/jmbruel/basics)
 [BracketsUML/diagrams at master · KyleKorndoerfer/BracketsUML](https://github.com/KyleKorndoerfer/BracketsUML/tree/master/diagrams)
 [Examples Gallery — PlantUML Client in Python 1.0.0 documentation](http://plantweb.readthedocs.io/examples.html)
+[mattjhayes/PlantUML-Examples: Examples of PlantUML code to generate 'Diagrams as Code'](https://github.com/mattjhayes/PlantUML-Examples)
 
 styling:
 [hackebrot/plantuml-snippets: Code snippets for drawing diagrams with PlantUML](https://github.com/hackebrot/plantuml-snippets)
@@ -198,7 +199,7 @@ styling:
 [Introduction - Asciio](https://nkh.github.io/P5-App-Asciio/)
 [nkh/P5-App-Asciio: Plain ASCII diagram](https://github.com/nkh/P5-App-Asciio)
 
-[Monodraw for macOS — Helftone](https://monodraw.helftone.com/) MacOS, paid
+[Monodraw for macOS — Helftone](https://monodraw.helftone.com/) macOS, paid
 
 ### GaaS (graph as a service)
 

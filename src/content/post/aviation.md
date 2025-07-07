@@ -2,17 +2,23 @@
 title: Aviation
 description: ""
 created: 2023-02-21
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - transportation
 ---
+
+> [[mh370]]
 
 [DroneScapes - YouTube](https://www.youtube.com/@Dronescapes)
 [Mustard - YouTube](https://www.youtube.com/@MustardChannel)
 [Ziroth - YouTube](https://www.youtube.com/@ZirothTech)
 [1K圖解 - YouTube](https://www.youtube.com/@1kdoc)
+[Mentour Pilot - YouTube](https://www.youtube.com/@MentourPilot)
+[RX不止飞行 - YouTube](https://www.youtube.com/@ramosxin2340)
 
 [耗时2个月辗转10个机场，我们终于拍到了！ - YouTube](https://www.youtube.com/watch?v=_gXxi7rbivg)
+
+[Missions That Changed The World. Aviation Documentary Series - YouTube](https://www.youtube.com/playlist?list=PLBI4gRjPKfnMKV7ukPXQJLHveKXNwbT80) DroneScapes
 
 [How do airplanes actually fly? - Raymond Adkins - YouTube](https://www.youtube.com/watch?v=p4VHMsIuPmk)
 [Metamorphic Wings: The Future of Flight is Here - YouTube](https://www.youtube.com/watch?v=OKWurIhfkhQ)
@@ -35,6 +41,24 @@ X: Experiment
 
 [战斗机是怎么分代的？ - YouTube](https://www.youtube.com/watch?v=SWxZdodxoYk)
 [空中鋼肺！美軍開創無限供氧系統！為什麼戰機飛行員，戴的頭盔和氧氣面罩不同？丨 OBOGS 分子篩氧氣系統 - YouTube](https://www.youtube.com/watch?v=0oZ7NGhOXzU)
+
+## Civil Aviation
+
+[The Design of Airline Route Networks - YouTube](https://www.youtube.com/watch?v=sY7cQNx4Hg4)
+
+### 瘋狂機長 詹姆士
+
+[型男機長瘋狂詹姆士 - YouTube](https://www.youtube.com/@crazyjames787/)
+[瘋狂機長 詹姆士｜連你阿嬤都能懂失速..不用會數學、不用大腦，保證秒懂失速是什麼 - YouTube](https://www.youtube.com/watch?v=6yDJt-UiQTI)
+[瘋狂機長 詹姆士｜看完這集..發動機構造、啟動、運作、全精通 - YouTube](https://www.youtube.com/watch?v=jEqSo_PgCoE)
+[瘋狂機長 詹姆士｜【精華篇】一失算成千古恨，飛機加的油你知道多少？ - YouTube](https://www.youtube.com/watch?v=DS3cMhVWkr0) Aviation oil
+[瘋狂機長 詹姆士｜我一顆她五顆...飛機在地面上冷氣跟電哪裡來？ - YouTube](https://www.youtube.com/watch?v=fJ6gRdF2Dkw) APU: Auxiliary Power Unit
+[型男機長 詹姆士｜飛機為何需要無線電(上) 看完這集..你也能懂無線電操作了 - YouTube](https://www.youtube.com/watch?v=eDwapcBEaLE) VHF
+[飛機為何需要無線電 (下) 吼的撕心裂肺的HF通訊.. - YouTube](https://www.youtube.com/watch?v=yjo4YcZmUlU) HF
+[搭飛機為什麼不會得高山症? 飛機加壓系統如何運作？ - YouTube](https://www.youtube.com/watch?v=DmOKGTVXCZI)
+[汽車在陸上有馬路開，飛機在空中怎麼找路飛呢？ - YouTube](https://www.youtube.com/watch?v=EQnJLrcBAu4)
+[瘋狂機長 詹姆士｜(地面) 飛機的除/防冰..比你想像的還複雜，還要重要千倍！All you need to Know.. - YouTube](https://www.youtube.com/watch?v=TnXmizaVhkg)
+[現代飛機都用自動駕駛飛行，連落地都自動落地...那飛行員在上面幹嘛的？？ - YouTube](https://www.youtube.com/watch?v=BU_EV1ZL0K4)
 
 ## Flying Wing
 
@@ -62,6 +86,7 @@ Real Engineering
 [The Insane Engineering of the Spitfire - YouTube](https://www.youtube.com/watch?v=_m6SEKNgxno)
 [The Insane Engineering of the P-47 Thunderbolt - YouTube](https://www.youtube.com/watch?v=IwqTN5fhMR8)
 [The Rise and Fall of the Japanese Zero - YouTube](https://www.youtube.com/watch?v=X0Mu4jJ0S0s)
+[The Unique Engineering of the P-38 Lightning - YouTube](https://www.youtube.com/watch?v=Gb4UBK53sGQ)
 
 WarsofTheWorld
 [WW2 Weapons: The Dawn of the Turret Fighters | Part 1 - YouTube](https://www.youtube.com/watch?v=aB7AZNGvl6A)
@@ -70,12 +95,17 @@ WarsofTheWorld
 [4 Aviation Mysteries of WWII... - YouTube](https://www.youtube.com/watch?v=dNgoeiSG20k)
 [4 Peculiar Allied Prototype Planes of WW2... - YouTube](https://www.youtube.com/watch?v=6Ch7cOtDbOU)
 
+Blue Paw Print
+[Five Iconic World War II Aircraft - YouTube](https://www.youtube.com/watch?v=hXGef2aeRwc)
+
 War Stories
 [The Wooden Plane That Terrorized The Luftwaffe | Battlefield Mysteries | War Stories - YouTube](https://www.youtube.com/watch?v=TDZlMRVwxEY) De Havilland Mosquito
 
 Caliban Rising - Aviation History
 [P 38 Lightning VS De Haviland Mosquito - Which Would You Want To Fight WW2 In? - YouTube](https://www.youtube.com/watch?v=ChsLapzCH5c)
 [The 6 Most Daring De Havilland Mosquito Missions Of WW2 - YouTube](https://www.youtube.com/watch?v=WJS6RgA9mqc)
+
+[揭秘二戰德國的末日武器，隱身轟炸機HO-229，現代六代機的鼻祖「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=9KiOdYRMdv0)
 
 [How a P-51 Mustang Works - YouTube](https://www.youtube.com/watch?v=hjsrqMe0B3s)
 
@@ -117,6 +147,8 @@ SmarterEveryDay
 [How Helicopters Work Deep Dive - YouTube](https://www.youtube.com/playlist?list=PL6CECC2E56B68A2C3)
 [The Amazing Engineering of Rescue Helicopters - Smarter Every Day 289 - YouTube](https://www.youtube.com/watch?v=oTfXehFVFyk)
 
+[The V-22 Osprey and why it keeps crashing - YouTube](https://www.youtube.com/watch?v=4BmRrbxQCos)
+
 休伊 UH-1N
 眼鏡蛇 AH-1 Cobra
 阿帕奇 AH-64 Apache
@@ -144,3 +176,5 @@ AC-130 Gunship
 SR-71 Blackbird Reconnaissance aircraft
 F-117 Nighthawk Bomber
 B-2 Spirit
+
+[The Insane Engineering of the B-2 Bomber - YouTube](https://www.youtube.com/watch?v=1wMM87UKr_c)

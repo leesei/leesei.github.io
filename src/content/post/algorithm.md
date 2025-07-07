@@ -2,7 +2,7 @@
 title: Data Structures and Algorithms
 description: ""
 created: 2023-04-14
-updated: 2025-01-09
+updated: 2025-02-15
 tags:
   - comp/lang
   - learning
@@ -179,6 +179,7 @@ tags:
 [Gamedev: In-depth Topics - YouTube](https://www.youtube.com/playlist?list=PLsk-HSGFjnaHYvbjMbTQG6kLhhZHLzdb3) Python
 [pygame_tutorials/examples/pathfinding at master · kidscancode/pygame_tutorials · GitHub](https://github.com/kidscancode/pygame_tutorials/tree/master/examples/pathfinding)
 [How Dijkstra's Algorithm Works - YouTube](https://www.youtube.com/watch?v=EFg3u_E6eHU)
+[【科学】Dijkstra算法再被证明是普遍最优算法 | Edsger Dijkstra | 计算机经典算法 | 单源最短路径 | 堆Heap | 工作集属性 | FOCS 2024最佳论文 - YouTube](https://www.youtube.com/watch?v=Q7xZ162l5ag&t=633s)
 
 A\* Algorithm:
 
@@ -236,6 +237,11 @@ Kuvina Saydaki
 [C++ STL 之哈希表 | unordered_map | 「浮生若梦」 - sczyh30's blog](https://www.sczyh30.com/posts/C-C/cpp-stl-hashmap/)
 [How does C++ STL unordered_map resolve collisions? - Stack Overflow](https://stackoverflow.com/questions/21518704/how-does-c-stl-unordered-map-resolve-collisions)
 [Class template unordered_map - boost](https://www.boost.org/doc/libs/release/doc/html/boost/unordered_map.html)
+
+[Undergraduate Upends a 40-Year-Old Data Science Conjecture | Quanta Magazine](https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/)
+[【数据结构】哈希表Hash Table算法获重大突破 | 本科生推翻图灵奖得主姚期智40年前猜想 | 均匀哈希 | 弹性哈希 | 漏斗哈希 | 最坏探测复杂度 - YouTube](https://www.youtube.com/watch?v=bCX7bCngTqQ)
+[[2111.12800] Tiny Pointers](https://arxiv.org/abs/2111.12800)
+[[2501.02305] Optimal Bounds for Open Addressing Without Reordering](https://arxiv.org/abs/2501.02305) Elastic Hashing, Funnel Hashing
 
 ## Random Number Generator
 

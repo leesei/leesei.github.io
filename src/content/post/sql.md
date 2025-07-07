@@ -2,7 +2,7 @@
 title: SQL
 description: On the Query Language
 created: 2017-06-02
-updated: 2025-01-09
+updated: 2025-06-24
 tags:
   - comp/lang
   - sql
@@ -136,24 +136,24 @@ inner join, outer join
 [Online SQL Editor](https://www.programiz.com/sql/online-compiler/)
 [SQL OnLine IDE](https://sqliteonline.com/)
 
-[Alecaddd/sequeler: SQL Client built in Vala](https://github.com/Alecaddd/sequeler)
-
 [DbGate | Open Source (no)SQL Database Client](https://dbgate.org/) ❗!important
 [dbgate/dbgate: Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application](https://github.com/dbgate/dbgate)
 
-[Adminer - Database management in a single PHP file](https://www.adminer.org/)
-[adminer - Official Image | Docker Hub](https://hub.docker.com/_/adminer)
-
 [DBeaver | Free Universal Database Tool](https://dbeaver.io/)
 [dbeaver/dbeaver: Free universal database tool and SQL client](https://github.com/dbeaver/dbeaver)
+
+[Alecaddd/sequeler: SQL Client built in Vala](https://github.com/Alecaddd/sequeler)
+
+[RazorSQL - SQL Query Tool and SQL Editor for Mac, Windows, and Linux](https://razorsql.com/)
+
+[Adminer - Database management in a single PHP file](https://www.adminer.org/)
+[adminer - Official Image | Docker Hub](https://hub.docker.com/_/adminer)
 
 [Sqlectron - One single DB client for any relational DB](https://sqlectron.github.io/) 😴inactive
 [ohwgiles/sequeljoe: SQL administration GUI](https://github.com/ohwgiles/sequeljoe) 😴inactive
 
 [tora-tool/tora: TOra is an open source SQL IDE for Oracle, MySQL and PostgreSQL dbs](https://github.com/tora-tool/tora) 😴inactive
 [Home · tora-tool/tora Wiki](https://github.com/tora-tool/tora/wiki)
-
-[RazorSQL - SQL Query Tool and SQL Editor for Mac, Windows, and Linux](https://razorsql.com/)
 
 [BlocklySQL Demo: Generating SQL Code with Blocks](https://www.dbinf.informatik.uni-wuerzburg.de/google-blockly-4efa0da/sql/index.html)
 [nicolaipoehner/blocklysql: The web-based visual programming editor with SQL blocks execute database queries.](https://github.com/nicolaipoehner/blocklysql) 😴inactive

@@ -2,7 +2,7 @@
 title: Window Manager
 description: ""
 created: 2014-12-12
-updated: 2025-01-09
+updated: 2025-01-22
 tags:
   - desktop
   - linux
@@ -456,7 +456,12 @@ wmctrl -i -r $win2 -e 0,$((width/2)),0,$((width/2)),$height
 
 [sdegutis/mjolnir: Lightweight automation and productivity app for OS X](https://github.com/sdegutis/mjolnir)
 [nathankot/mjolnir.tiling: Add tiling window management powers to your mjolnir](https://github.com/nathankot/mjolnir.tiling)
+
 [koekeishiya/yabai: A tiling window manager for macOS based on binary space partitioning](https://github.com/koekeishiya/yabai)
 [Hammerspoon Team](https://github.com/hammerspoon)
+
+[AeroSpace Guide](https://nikitabobko.github.io/AeroSpace/guide)
+[nikitabobko/AeroSpace: AeroSpace is an i3-like tiling window manager for macOS](https://github.com/nikitabobko/AeroSpace)
+[Aerospace Is The Best Tiling Window Manager I've Tried On macOS - YouTube](https://www.youtube.com/watch?v=-FoWClVHG5g)
 
 [Rectangle Mac](https://rectangleapp.com/)

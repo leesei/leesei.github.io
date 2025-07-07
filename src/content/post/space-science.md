@@ -2,7 +2,7 @@
 title: Space Science
 description: ""
 created: 2018-01-10
-updated: 2025-01-09
+updated: 2025-06-06
 tags:
   - science
 ---
@@ -41,6 +41,7 @@ Crash Course
 [The Space Race - YouTube](https://www.youtube.com/@TheSpaceRaceYT)
 
 [Why SPACESHIPS CAN'T TURN as shown in Science Fiction - YouTube](https://www.youtube.com/watch?v=L-Of6r1DlY8)
+[How Different Are Space Computers From Earth-Based Ones? - YouTube](https://www.youtube.com/watch?v=g1npYSuNy4U)
 
 [我要搬家了，探索太陽系的時候發現了真正的 2021 預言 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=so8E3Cp_OAw)
 
@@ -303,8 +304,6 @@ Spirit and Opportunity are MER twins; designed for a mission of 90 martian days 
 [The Computers Behind NASA's Mars Curiosity Rover - YouTube](https://www.youtube.com/watch?v=1eUddT5BJ78)
 
 [Perseverance (rover) - Wikiwand](<https://www.wikiwand.com/en/Perseverance_(rover)>) 2021
-[Ingenuity (helicopter) - Wikiwand](<https://www.wikiwand.com/en/Ingenuity_(helicopter)>)
-[Ingenuity Is So Good, NASA's Mars Helicopter Mission Just Got an Exciting Update](https://www.sciencealert.com/remember-nasa-s-little-mars-copter-it-s-still-going-strong)
 [The Insane Engineering of the Perseverance Rover - YouTube](https://www.youtube.com/watch?v=yqqaW8DCc-I)
 [How does a Mars Rover work? (Perseverance) - YouTube](https://www.youtube.com/watch?v=0-oQRSViZQE)
 
@@ -318,10 +317,18 @@ Spirit and Opportunity are MER twins; designed for a mission of 90 martian days 
 
 [Mars Perseverance Rover | NASA](https://www.nasa.gov/perseverance)
 [Mars 2020 Perseverance Rover - NASA Mars](https://mars.nasa.gov/mars2020/)
-[Mars 2020 Perseverance Rover - What's Different This Time? A Narrated Explanation. - YouTube](https://www.youtube.com/watch?v=95hMM2u6Fgw)
 [How NASA's next-gen Perseverance Mars rover tops older sibling Curiosity - CNET](https://www.cnet.com/google-amp/news/how-nasas-next-gen-perseverance-mars-rover-tops-its-older-sibling-curiosity/)
+
+[Mars 2020 Perseverance Rover - What's Different This Time? A Narrated Explanation. - YouTube](https://www.youtube.com/watch?v=95hMM2u6Fgw)
+[The Insane Engineering of the Perseverance Rover - YouTube](https://www.youtube.com/watch?v=yqqaW8DCc-I)
+[本該存活90天，它卻在火星上奮鬥了六年 - YouTube](https://www.youtube.com/watch?v=Xj6OQqzX5vU)
+
+### Ingenuity
+
+[Ingenuity (helicopter) - Wikiwand](<https://www.wikiwand.com/en/Ingenuity_(helicopter)>) 2021, went to Mars with Perseverance
+[Ingenuity Is So Good, NASA's Mars Helicopter Mission Just Got an Exciting Update](https://www.sciencealert.com/remember-nasa-s-little-mars-copter-it-s-still-going-strong)
 [First Flight on Another Planet! - YouTube](https://www.youtube.com/watch?v=GhsZUZmJvaM)
-[The Insane Engineering of the Perseverance Rover - YouTube](https://www.youtube.com/watch?v=yqqaW8DCc-I&feature=emb_rel_pause)
+[Why Did The Mars Helicopter Disappear? - YouTube](https://www.youtube.com/watch?v=20vUNgRdB4o)
 
 ### Landers
 
@@ -412,6 +419,7 @@ Starship Launch System (SLS), using Superheavy as first stage booster
 [How SpaceX and Boeing will get Astronauts to the ISS - YouTube](https://www.youtube.com/watch?v=RqLNIBAroGY)
 [Starship - YouTube](https://www.youtube.com/playlist?list=PLBQ5P5txVQr9_jeZLGa0n5EIYvsOJFAnY) SN8 began to trial flip landing
 [What's Inside The SpaceX Starship? - YouTube](https://www.youtube.com/watch?v=OKy2Z2BnyU8)
+[馬斯克的星艦真的會成功嗎？SpaceX 在一次次的爆炸中，到底成長了多少？ - YouTube](https://www.youtube.com/watch?v=Plht5QdeoG0)
 
 ![](./_assets/space-science/falcon-9-vs-starship.png)
 

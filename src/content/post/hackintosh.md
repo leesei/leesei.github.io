@@ -2,7 +2,7 @@
 title: Hackintosh
 description: ""
 created: 2015-01-23
-updated: 2025-01-09
+updated: 2025-06-27
 tags:
   - desktop
   - linux
@@ -20,9 +20,9 @@ tags:
 [这台迷你电脑竟然可以“完美”黑苹果，而且还不贵？【开箱翼闻录 第 26 期】 - YouTube](https://www.youtube.com/watch?v=d1olPsGzfGo) 2021-08
 [The Most Powerful Hackintosh & Video You'll Ever See about it! 2024 Intel 14900K & AMD RX6950 in 8K - YouTube](https://www.youtube.com/watch?v=EujghQXF9Go) 2024-05
 
-[小米笔记本 Pro 三步变身黑苹果/手把手安装 Mojave/(HACKINTOSH GUIDE How to Install MacOS Mojavethosh1) - YouTube](https://www.youtube.com/watch?v=6Ef_ktXA6_s) 2018-12
-[第二弹手把手安装黑苹果/三步教小米笔记本变 Mac/Mojave 小米驱动安装 /专用 EFI 引导/(HACKINTOSH GUIDE How to Install MacOS Mojavethosh 2) - YouTube](https://www.youtube.com/watch?v=M0GqNuJvvj8)
-[第三弹黑苹果保姆级安装教学/手把手教你解决黑苹果的各种问题/补丁让你的黑苹果更加完美/(HACKINTOSH GUIDE How to Install MacOS Mojavethosh3) - YouTube](https://www.youtube.com/watch?v=C47jJD879SE)
+[小米笔记本 Pro 三步变身黑苹果/手把手安装 Mojave/(HACKINTOSH GUIDE How to Install macOS Mojavethosh1) - YouTube](https://www.youtube.com/watch?v=6Ef_ktXA6_s) 2018-12
+[第二弹手把手安装黑苹果/三步教小米笔记本变 Mac/Mojave 小米驱动安装 /专用 EFI 引导/(HACKINTOSH GUIDE How to Install macOS Mojavethosh 2) - YouTube](https://www.youtube.com/watch?v=M0GqNuJvvj8)
+[第三弹黑苹果保姆级安装教学/手把手教你解决黑苹果的各种问题/补丁让你的黑苹果更加完美/(HACKINTOSH GUIDE How to Install macOS Mojavethosh3) - YouTube](https://www.youtube.com/watch?v=C47jJD879SE)
 
 [黑蘋果安裝教學 - YouTube](https://www.youtube.com/playlist?list=PL0DjVqdYfD5x7wbxiU0NK0coievRMV6m_)
 [黑苹果入门必看指南/Kaisam 吴 - YouTube](https://www.youtube.com/playlist?list=PL0S-cr-cd0sl5JNjvAj7f6VMwL66bFTbz)
@@ -44,9 +44,9 @@ tags:
 [Mac OS High Sierra Hackintosh Install Clover Walkthrough - Hackintosher](https://hackintosher.com/guides/macos-high-sierra-hackintosh-install-clover-walkthrough/)
 [[Guide] Booting the OS X installer on LAPTOPS with Clover | tonymacx86.com](https://www.tonymacx86.com/threads/guide-booting-the-os-x-installer-on-laptops-with-clover.148093/)
 
-## MacOS over Type 1 Hypervisor
+## macOS over Type 1 Hypervisor
 
-[Apple won't like this... - Run MacOS on ANY PC - YouTube](https://www.youtube.com/watch?v=ATnpEOo3GJA) with KVM and VFIO to passthrough GPU and USB to VM
+[Apple won't like this... - Run macOS on ANY PC - YouTube](https://www.youtube.com/watch?v=ATnpEOo3GJA) with KVM and VFIO to passthrough GPU and USB to VM
 [Best Way to Run macOS & Windows On Single Computer At the Same Time! - YouTube](https://www.youtube.com/watch?v=jdYyfoZcgJI)
 
 [An Open Letter to Linus Tech Tips (and a PSA) - The Passthrough POST](https://passthroughpo.st/an-open-letter-to-linus-tech-tips-and-a-psa/)

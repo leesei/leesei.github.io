@@ -2,7 +2,7 @@
 title: Python notes
 description: ""
 created: 2014-12-11
-updated: 2025-01-09
+updated: 2025-06-24
 tags:
   - comp/lang
   - python
@@ -22,7 +22,9 @@ It's also easier to create a single binary with all dependencies bundled for dis
 
 [filiplajszczak/awesome-zen-of-python: awesome list of so called python philosophy resources](https://github.com/filiplajszczak/awesome-zen-of-python)
 [The Zen Of Python Is A Joke And Here Is Why (You Should Not Take It Too Seriously) - DEV Community](https://dev.to/abdurrahmaanj/the-zen-of-python-is-a-joke-and-here-is-why-you-should-not-take-it-too-seriously-508d)
+
 [Clean Code in Python | TestDriven.io](https://testdriven.io/blog/clean-code-python/)
+[Stop Writing Messy Python: A Clean Code Crash Course - KDnuggets](https://www.kdnuggets.com/stop-writing-messy-python-a-clean-code-crash-course)
 
 All python code are executed statements, no such thing as declaration
 [Where is Python heading in 2018/19? When is version 4 coming out and what new features and improvements can we expect in next two years? - Quora](https://www.quora.com/Where-is-Python-heading-in-2018-19-When-is-version-4-coming-out-and-what-new-features-and-improvements-can-we-expect-in-next-two-years)
@@ -363,11 +365,14 @@ Python version should be a requirement to be satisfied (by pinning particular ve
 
 ## IPython
 
-> see `data-analytics#jypyter`
+> see [[jupyter]]
 
 [Jupyter and the future of IPython — IPython](http://ipython.org/index.html)
 [IPython Documentation — IPython documentation](https://ipython.readthedocs.io/en/stable/index.html)
 [IPython Documentation - Jupyter Notebook Viewer](http://nbviewer.jupyter.org/github/ipython/ipython/blob/master/examples/Index.ipynb)
+
+[IPython Cookbook - IPython Cookbook, Second Edition (2018)](https://ipython-books.github.io/)
+[ipython/ipython-in-depth: IPython and Jupyter in-depth Tutorial, first presented at PyCon 2012](https://github.com/ipython/ipython-in-depth)
 
 [IPython Cookbook - IPython Cookbook, Second Edition (2018)](https://ipython-books.github.io/)
 [IPython Cookbook - IPython Cookbook, Second Edition (2018)](https://ipython-books.github.io/) [source](https://github.com/ipython-books/cookbook-2nd) [code](https://github.com/ipython-books/cookbook-2nd-code)
@@ -1040,6 +1045,7 @@ with ignored(OSError):
 [Are you using Python with APIs? Learn how to use a retry decorator!](https://towardsdatascience.com/are-you-using-python-with-apis-learn-how-to-use-a-retry-decorator-27b6734c3e6)
 [Decorator inside Python class. Let’s suppose we need a decorator that… | by Vadim Pushtaev | Medium](https://medium.com/@vadimpushtaev/decorator-inside-python-class-1e74d23107f6)
 
+[Custom Python Decorator Patterns Worth Copy-Pasting Forever - KDnuggets](https://www.kdnuggets.com/custom-python-decorator-patterns-worth-copy-pasting-forever)
 [Python Decorators: The Complete Guide - YouTube](https://www.youtube.com/watch?v=QH5fw9kxDQA) ❗!important
 
 ```python
@@ -1394,6 +1400,7 @@ def find_path(source, graph=graph, path=[]):
 [7 Easter Eggs in Python. Countless Ways to Entertain Yourself at… | by Eden Au | Towards Data Science](https://towardsdatascience.com/7-easter-eggs-in-python-7765dc15a203)
 [Master the 5 Ways to Use Underscores in Python! | by Eirik Berge | Geek Culture | Jul, 2021 | Medium](https://medium.com/geekculture/master-the-5-ways-to-use-underscores-in-python-cfcc7fa53734)
 [Mastering Python: 7 Strategies for Writing Clear, Organized, and Efficient Code - KDnuggets](https://www.kdnuggets.com/mastering-python-7-strategies-for-writing-clear-organized-and-efficient-code)
+[Lesser-Known Python Functions That Are Super Useful - KDnuggets](https://www.kdnuggets.com/lesser-known-python-functions-that-are-super-useful)
 
 [5 Tips To Achieve Low Coupling In Your Python Code - YouTube](https://www.youtube.com/watch?v=qR4-PBLUZNw)
 
@@ -1552,9 +1559,6 @@ only supports 2.7 and lacked the performance improvements originally intended, a
 
 ### Compiler
 
-[Nuitka the Python Compiler — Nuitka the Python Compiler documentation](https://nuitka.net/)
-[kayhayen/Nuitka: Official mirror of Nuitka as from http://nuitka.net](https://github.com/kayhayen/Nuitka)
-
 [Welcome to mypyc documentation! — mypyc documentation](https://mypyc.readthedocs.io/en/latest/) use type hints
 [mypyc/mypyc: Compile type annotated Python to fast C extensions](https://github.com/mypyc/mypyc)
 
@@ -1569,21 +1573,20 @@ python -c "import module"
 [exaloop/codon: A high-performance, zero-overhead, extensible Python compiler using LLVM](https://github.com/exaloop/codon)
 [Python-based compiler achieves orders-of-magnitude speedups | MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2023/codon-python-based-compiler-achieve-orders-magnitude-speedups-0314)
 
+#### Nuitka
+
+> convert to C and compile
+
+[Nuitka the Python Compiler — Nuitka the Python Compiler](https://nuitka.net/)
+[Nuitka/Nuitka: Nuitka is a Python compiler written in Python. It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.](https://github.com/Nuitka/Nuitka)
+
+[新一代Python打包+加速神器：nuitka - YouTube](https://www.youtube.com/watch?v=kjG92Mb76s8)
+
 ### C-binding
 
 [[data-analytics-python#Numba]]
 
 [CPython Compilers](http://compilers.pydata.org/)
-
-[Cython: C-Extensions for Python](http://cython.org/) compiled Python C, sacrificing Python features
-[Cython Offers the Ease of Python, the Speed of C++ - The New Stack](https://thenewstack.io/cython-offers-the-ease-of-python-the-speed-of-c/)
-[Use Cython to get more than 30X speedup on your Python code](https://towardsdatascience.com/use-cython-to-get-more-than-30x-speedup-on-your-python-code-f6cb337919b6)
-[An Introduction to Just Enough Cython to be Useful | Peter Baumgartner](https://www.peterbaumgartner.com/blog/intro-to-just-enough-cython-to-be-useful/)
-[An Introduction to Cython, the Secret Python Extension with Superpowers](https://okigiveup.net/tutorials/an-introduction-to-cython/)
-[PEP 579 – Refactoring C functions and methods | peps.python.org](https://peps.python.org/pep-0579/)
-[Buffer Protocol — Python documentation](https://docs.python.org/3/c-api/buffer.html)
-[Iterator Protocol — Python documentation](https://docs.python.org/3/c-api/iter.html)
-[Argument Clinic How-To — Python documentation](https://docs.python.org/3/howto/clinic.html) preprocessor for CPython C files
 
 [Python/C API Reference Manual — Python 3 documentation](https://docs.python.org/3/c-api/index.html)
 [CFFI documentation](https://cffi.readthedocs.io/en/latest/) better than [Ctypes](https://docs.python.org/3/library/ctypes.html) in standard library
@@ -1595,21 +1598,37 @@ python -c "import module"
 [Importing with ctypes in Python: fighting overflows – Python Tips](https://pythontips.com/2017/03/10/importing-with-ctypes-in-python-fighting-overflows/)
 [Python Bindings: Calling C or C++ From Python – Real Python](https://realpython.com/python-bindings-overview/)
 
+[Cython: C-Extensions for Python](http://cython.org/) compiled Python C, sacrificing Python features
+[Cython Offers the Ease of Python, the Speed of C++ - The New Stack](https://thenewstack.io/cython-offers-the-ease-of-python-the-speed-of-c/)
+[Use Cython to get more than 30X speedup on your Python code](https://towardsdatascience.com/use-cython-to-get-more-than-30x-speedup-on-your-python-code-f6cb337919b6)
+[An Introduction to Just Enough Cython to be Useful | Peter Baumgartner](https://www.peterbaumgartner.com/blog/intro-to-just-enough-cython-to-be-useful/)
+[An Introduction to Cython, the Secret Python Extension with Superpowers](https://okigiveup.net/tutorials/an-introduction-to-cython/)
+[PEP 579 – Refactoring C functions and methods | peps.python.org](https://peps.python.org/pep-0579/)
+[Buffer Protocol — Python documentation](https://docs.python.org/3/c-api/buffer.html)
+[Iterator Protocol — Python documentation](https://docs.python.org/3/c-api/iter.html)
+[Argument Clinic How-To — Python documentation](https://docs.python.org/3/howto/clinic.html) preprocessor for CPython C files
+
 [Intro — pybind11 documentation](https://pybind11.readthedocs.io/en/stable/index.html)
 [pybind/pybind11: Seamless operability between C++11 and Python](https://github.com/pybind/pybind11)
 [Ivan Smirnov - pybind11 - seamless operability between C++11 and Python - YouTube](https://www.youtube.com/watch?v=jQedHfF1Jfw)
 [Python wrappers for C++ with pybind11 — LSST DM Developer Guide Current documentation](https://developer.lsst.io/pybind11/how-to.html)
 [C++ in Python the Easy Way! - YouTube](https://www.youtube.com/watch?v=_5T70cAXDJ0) easier than Boost.Python
 
+[nanobind documentation](https://nanobind.readthedocs.io/en/latest/) by author of pybind11
+[wjakob/nanobind: nanobind: tiny and efficient C++/Python bindings](https://github.com/wjakob/nanobind)
+
 [Boost.Python](https://www.boost.org/doc/libs/release/libs/python/doc/html/index.html)
 [Using C++ with Python 3 in 2018 - Keith Whitley - Medium](https://medium.com/@keithwhitley/using-c-with-python-3-in-2018-480f3e46c8c) build with Docker
 
-[Riverbank | Software | SIP | What is SIP?](https://riverbankcomputing.com/software/sip/intro)
-[SIP Reference Guide](http://pyqt.sourceforge.net/Docs/sip4/)
+#### SIP
+
+> originally developed for PyQt
+
+[Python-SIP/sip: A Python bindings generator for C/C++ libraries](https://github.com/Python-SIP/sip)
+[sip documentation](https://python-sip.readthedocs.io/en/stable/index.html)
 
 ### Rust binding
 
-[Introduction - PyO3 user guide](https://pyo3.rs/)
 [Introduction - PyO3 user guide](https://pyo3.rs/)
 [PyO3/pyo3: Rust bindings for the Python interpreter](https://github.com/PyO3/pyo3)
 [Writing Python Extensions In Rust Using PyO3](https://www.benfrederickson.com/writing-python-extensions-in-rust-using-pyo3/)
@@ -1700,9 +1719,7 @@ with cProfile.Profile() as profiler:
 stats = pstats.Stats(profiler)
 stats.sort_stats(pstats.SortKey.TIME)
 stats.print_stats()
-stats.dump_stats(filename='output.prof')
-
-# snakeviz output.prof
+stats.dump_stats(filename='profile.prof')
 ```
 
 [timeit — Measure execution time of small code snippets — Python documentation](https://docs.python.org/3/library/timeit.html)
@@ -1747,6 +1764,18 @@ stats.dump_stats(filename='output.prof')
 
 [Fil: A memory profiler for Python](https://pythonspeed.com/fil/docs/)
 [Reduce your Python program’s memory usage with Fil](https://pythonspeed.com/fil/)
+
+### Snakeviz
+
+> graphical viewer for cProfile dummp
+
+[SnakeViz](https://jiffyclub.github.io/snakeviz/)
+
+```sh
+uv run python -m cProfile -o profile.out -m your_script_or_package
+uv add --dev snakeviz
+uv run snakeviz profile.out
+```
 
 ## Embedded System
 

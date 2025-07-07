@@ -2,7 +2,7 @@
 title: PlayStation 4 Emulator
 description: ""
 created: 2024-08-20
-updated: 2025-01-09
+updated: 2025-04-16
 tags:
   - emulator
   - games
@@ -52,11 +52,11 @@ God of War
 God of War III Remastered
 God of War: Ragnarök
 Gravity Rush Remastered
+InFAMOUS Second Son
 Parappa The Rapper
 Spider-Man
 Spider-Man 2
 Spider-Man: Miles Morales
 The Last Guardian
 The Order 1886
-Uncharted 4: A Thief's End
 Uncharted: The Nathan Drake Collection (1-3)

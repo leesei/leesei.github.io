@@ -2,7 +2,7 @@
 title: Git notes
 description: Git is a content addressable file system
 created: 2014-12-11
-updated: 2025-01-09
+updated: 2025-04-09
 tags:
   - app
   - git
@@ -115,7 +115,7 @@ You can always check reflog to restore commit no matter how you messed with your
 [kernel.org howto](https://www.kernel.org/pub/software/scm/git/docs/howto/)
 [Git Reference](http://gitref.org/)
 [Git SCM Wiki](https://git.wiki.kernel.org/index.php/Main_Page)
-[Git Memo](http://git-memo.readthedocs.org/en/latest/introduction.html)
+[Git Memo](http://git-memo.readthedocs.io/en/latest/introduction.html)
 
 [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
 
@@ -239,10 +239,10 @@ You can name you custom script as `git-mycmd`, place it in you PATH and use `git
 
 [extrawurst/gitui: Blazing 💥 fast terminal-ui for git written in rust 🦀](https://github.com/Extrawurst/gitui) 👍
 [chriswalz/bit: Bit is a modern Git CLI](https://github.com/chriswalz/bit) 👍
+[jesseduffield/lazygit: simple terminal UI for git commands](https://github.com/jesseduffield/lazygit)
 
 [Tig: text-mode interface for Git](http://jonas.nitro.dk/tig/) 👎
 [The Tig Manual](http://jonas.nitro.dk/tig/manual.html)
-
 [tig: nice text-mode (ncurses) Git repo viewer - YouTube](https://www.youtube.com/watch?v=udCXubFr5Yo)
 
 [git ready » tig, the ncurses front-end to Git](http://gitready.com/advanced/2009/07/31/tig-the-ncurses-front-end-to-git.html)
@@ -744,7 +744,7 @@ VS Code's 3-way Merge Editor
 
 ### vimdiff
 
-[A better Vimdiff Git mergetool | Vim Tips Wiki | FANDOM powered by Wikia](https://vim.fandom.com/wiki/A_better_Vimdiff_Git_mergetool)
+[A better Vimdiff Git mergetool | Vim Tips Wiki | Fandom](https://vim.fandom.com/wiki/A_better_Vimdiff_Git_mergetool)
 
 [Use vimdiff as git mergetool - Ruslan Osipov](http://www.rosipov.com/blog/use-vimdiff-as-git-mergetool/)
 

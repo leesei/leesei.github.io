@@ -2,7 +2,7 @@
 title: Passwords
 description: ""
 created: 2015-04-08
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - passwords
   - security
@@ -35,6 +35,8 @@ tags:
 [Authentication – from “Programming JavaScript Applications”](https://ericleads.wordpress.com/2013/08/authentication-from-programming-javascript-applications/)
 
 [Your Password is Too Damn Short](http://blog.codinghorror.com/your-password-is-too-damn-short/)
+
+[Here's What Happens if You Lose Your Google Account—and How to Prepare for It](https://www.makeuseof.com/what-happens-lose-your-google-account/)
 
 ## The World without Password
 
@@ -77,6 +79,7 @@ tags:
 [How to Transfer Your LastPass Passwords to Bitwarden](https://www.howtogeek.com/714518/how-to-transfer-your-lastpass-passwords-to-bitwarden/)
 [Vaultwarden - Open Source, self hosted backend for the Bitwarden password manager. - YouTube](https://www.youtube.com/watch?v=mq7n_0Xs1Kg)
 [Is Bitwarden's 2FA Code a Security Risk? - YouTube](https://www.youtube.com/watch?v=646dlqdcbMk)
+[The 7 Best Bitwarden Features You're Not Using](https://www.makeuseof.com/top-bitwarden-tips-and-tricks/)
 
 Jason Rebholz - TeachMeCyber
 [Bitwarden Tutorial | The Full Beginners Guide - YouTube](https://www.youtube.com/watch?v=OkYKb0Sx-XA)
@@ -107,8 +110,16 @@ Jason Rebholz - TeachMeCyber
 
 [What are Passkeys? | Are Passwords Dead? | A Security Expert Explains - YouTube](https://www.youtube.com/watch?v=AhP0q8c38QU)
 [Faster Logins with Passkeys | Bitwarden Passkey Tutorial - YouTube](https://www.youtube.com/watch?v=o4asbRziCD0)
+[Say Goodbye to Passwords: Passkeys Explained Simply - YouTube](https://www.youtube.com/watch?v=QYdHm7zoF_M)
+[Passkeys SUCK (here’s why + how I use them) - YouTube](https://www.youtube.com/watch?v=_tQbWop1P7o)
 
 [Wallets vs. Passkeys: What CISOs Need To Know](https://www.itprotoday.com/identity-management-access-control/wallets-vs-passkeys-what-cisos-need-to-know)
 [Why It’s Time to Switch to This Phishing-Resistant Password Alternative](https://www.makeuseof.com/reasons-switch-passcode-instead-password/)
 [What is Passkey? | Trusted Reviews](https://www.trustedreviews.com/explainer/what-is-passkey-4231178)
 [Is Passkey Authentication More Secure Traditional Passwords?](https://www.itprotoday.com/identity-management-and-access-control/passkey-authentication-more-secure-traditional-passwords)
+
+[YubiKey-Guide | Guide to using YubiKey for GnuPG and SSH](https://drduh.github.io/YubiKey-Guide/)
+[drduh/YubiKey-Guide: Guide to using YubiKey for GnuPG and SSH](https://github.com/drduh/YubiKey-Guide)
+
+[YubiKey Technical Manual](https://docs.yubico.com/hardware/yubikey/yk-tech-manual/webdocs.pdf)
+[Business – Yubico](https://support.yubico.com/hc/en-us/categories/360002508120-Business)

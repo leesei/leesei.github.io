@@ -2,7 +2,7 @@
 title: StyleX
 description: ""
 created: 2023-12-15
-updated: 2025-01-09
+updated: 2025-03-31
 tags:
   - css
   - stylex
@@ -26,6 +26,7 @@ tags:
 
 [Facebook Did It Again - YouTube](https://www.youtube.com/watch?v=dphmbB77W_4)
 
+t3.gg
 [Facebook Tried Tailwind, Then Built This Instead - YouTube](https://www.youtube.com/watch?v=PHV94q7BivI)
 [Facebook's Tailwind Killer Is Now Open Source - YouTube](https://www.youtube.com/watch?v=v4HkkjXmEMM)
 

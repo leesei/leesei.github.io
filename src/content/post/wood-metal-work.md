@@ -2,13 +2,13 @@
 title: Wood and Metal Work
 description: ""
 created: 2018-08-31
-updated: 2025-01-09
+updated: 2025-04-14
 tags:
   - maker
 ---
 
-[Mitchell Dillman - YouTube](https://www.youtube.com/channel/UCdHONESUDUHVaw0n5NBkqwg)
-[izzy swan - YouTube](https://www.youtube.com/channel/UCO39zTYpvWL5jx2q15Ma_Hw)
+[Mitchell Dillman - YouTube](https://www.youtube.com/@MitchellDillman)
+[izzy swan - YouTube](https://www.youtube.com/@izzyswan)
 
 ## Screws
 
@@ -84,6 +84,7 @@ Electronic torque control will stop the motor when torque maxed out and have mor
 [Foureyes Furniture - YouTube](https://www.youtube.com/@Foureyes.Furniture)
 [Project Zero Cables - The Cleanest Desk Setup EVER - YouTube](https://www.youtube.com/watch?v=qI2vmqANYcE)
 
+[客觀評價中國古建築木結構和榫卯水平。真不用一根釘子？和歐洲比如何？不自吹不自貶。 | 大鳥俠BigBirdXia - YouTube](https://www.youtube.com/watch?v=EymYrXNPEk0)
 [花十几万买了一堆金丝楠乌木，几年后仅剩十分之一，大家却说太值了「老蒋根雕」 - YouTube](https://www.youtube.com/watch?v=HlpwIOPbCAs)
 
 [Wooden Ren - YouTube](https://www.youtube.com/c/mylove348) 木頭仁

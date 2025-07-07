@@ -2,7 +2,7 @@
 title: Game Emulator
 description: ""
 created: 2017-07-10
-updated: 2025-01-10
+updated: 2025-03-31
 tags:
   - emulator
   - games
@@ -265,7 +265,7 @@ PPSSPP
 
 ### Games
 
-Patapon 1-3 (2 is easier, 3 is a deviation)
+Patapon 1-3 (2 is easier, 3 is a deviation) prefer Switch
 [Patapon Retrospective - YouTube](https://www.youtube.com/watch?v=wRCi_Hqad0E)
 
 LocoRoco

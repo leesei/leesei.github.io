@@ -2,7 +2,7 @@
 title: Toys
 description: ""
 created: 2020-06-13
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - toys
 ---
@@ -18,8 +18,8 @@ tags:
 
 # NERF Guns
 
-[PDK Films - YouTube](https://www.youtube.com/user/PDKFilms)
-[NERF - YouTube](https://www.youtube.com/playlist?list=PLoc1XxAWd3zwzjjXTSCYbtPRYenBOyoz-)
+[PDK Films - YouTube](https://www.youtube.com/@PDKFilms)
+[NERF - YouTube](https://www.youtube.com/playlist?list=PLoc1XxAWd3zwzjjXTSCYbtPRYenBOyoz-) 英雄日常Heroisme
 
 # Rubik's Cube
 
@@ -31,12 +31,12 @@ tags:
 
 > see `lego.md#stop-motion`
 
-[Pota Creates - YouTube](https://www.youtube.com/channel/UCQJSCBYflHDP3A5ua3HZpOg) interesting time-lapse build with painting
-[【Stop motion】ゆきしろ - YouTube](https://www.youtube.com/channel/UCEfNKeEbF5AKx1Vmbot3CPQ) stop motion build
-[Animist - YouTube](https://www.youtube.com/channel/UCweDxCT5Fiykk3uHqPKqLWg)
-[Jordan Tseng - YouTube](https://www.youtube.com/channel/UC-Jdvil2cD-QkvAt2b5FjMA)
-[SmallPond -jpn- - YouTube](https://www.youtube.com/channel/UC45JKoJVh67kdmw8OnBf5jA)
-[Switch force - YouTube](https://www.youtube.com/channel/UCZmJi0tik2b-jJwnT0xyWLg)
-[Rihito Ue - YouTube](https://www.youtube.com/channel/UChYE_nogV-a0sPX2QYcAfgA)
-[counter656 - YouTube](https://www.youtube.com/channel/UCghSH7oEVzV0esSVhGQgQSg)
-[Toy Life Animations - YouTube](https://www.youtube.com/c/TOYLIFE-Animations)
+[Potan Creates - YouTube](https://www.youtube.com/@PotanCreates) interesting time-lapse build with painting
+[【Stop motion】ゆきしろ - YouTube](https://www.youtube.com/@yukishiro_3) stop motion plamo build
+[Animist - YouTube](https://www.youtube.com/@Animist_1)
+[Jordan Tseng - YouTube](https://www.youtube.com/@jordantseng)
+[SmallPond - YouTube](https://www.youtube.com/@SmallPond_Studio)
+[Switch force - YouTube](https://www.youtube.com/@S3InF3LD)
+[Rihito Ue - YouTube](https://www.youtube.com/@RihitoUe)
+[counter656 - YouTube](https://www.youtube.com/@counter656)
+[Toy Life Animations - YouTube](https://www.youtube.com/@ToyLifeAnimations)

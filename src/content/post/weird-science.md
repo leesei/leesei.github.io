@@ -2,7 +2,7 @@
 title: Weird Science
 description: ""
 created: 2015-12-04
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - science
 ---
@@ -65,7 +65,7 @@ phlogiston -> caloric -> thermodynamics
 北斗七星胎記 https://www.youtube.com/watch?v=_HZHXVqhayc&t=314s
 眉前紅點胎記 https://youtu.be/zcWwJHLILk4?t=244
 
-[杜安調查團 - YouTube](https://www.youtube.com/channel/UCgINx_OgGVlRzHC9hzj6lew) 老高填坑團
+[杜安調查團 - YouTube](https://www.youtube.com/@杜安調查團) 老高填坑團
 
 ## 說書頻道抄襲/洗稿
 

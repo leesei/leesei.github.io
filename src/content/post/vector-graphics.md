@@ -2,7 +2,7 @@
 title: Vector Graphics
 description: ""
 created: 2015-05-20
-updated: 2025-01-09
+updated: 2025-07-06
 tags:
   - app
   - graphics
@@ -54,7 +54,14 @@ Selection Tool
 [Inkscape Intermediate/Advanced Tutorials - YouTube](https://www.youtube.com/playlist?list=PLynG8gQD-n8AFcLFAkvqJYnQUiBweRh1y)
 [Inkscape Explained - YouTube](https://www.youtube.com/playlist?list=PLynG8gQD-n8Byyq30_FOq9ylUFL1nTkGC)
 
-## Vectorizing Image
+## GodSVG
+
+> built on Godot
+
+[GodSVG - SVG Editor](https://www.godsvg.com/)
+[MewPurPur/GodSVG: A vector graphics application for structured SVG editing, available on all major desktop platforms and on web. Currently in late alpha.](https://github.com/MewPurPur/GodSVG)
+
+## Vectorize Image
 
 [inkscape - Convert a line drawing from raster to vector **LINES** - Graphic Design Stack Exchange](https://graphicdesign.stackexchange.com/questions/60107/convert-a-line-drawing-from-raster-to-vector-lines)
 

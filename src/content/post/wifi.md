@@ -2,7 +2,7 @@
 title: Wifi
 description: ""
 created: 2019-02-25
-updated: 2025-01-09
+updated: 2025-03-20
 tags:
   - comp/hardware
   - wifi
@@ -54,6 +54,11 @@ Wi-Fi 7: 802.11be (2024)
 [你不了解的「WiFi」从技术原理 应用 讲到行业的未来 一个视频彻底讲清楚 「硬核无线技术」系列视频 WiFi 篇 - YouTube](https://www.youtube.com/watch?v=4w6_zWSrZw4)
 
 [The Wi-Fi Market and the genesis of 802.11ax](https://www.arubanetworks.com/assets/wp/WP_802.11AX.pdf) PDF
+
+## Security
+
+[Everything You Should Know About Wi-Fi Security](https://smallstep.com/blog/everything-wifi-security/)
+
 [A brief history of Wi-Fi security protocols from “oh my, that’s bad” to WPA3 | Ars Technica](https://arstechnica.com/gadgets/2019/03/802-eleventy-who-goes-there-wpa3-wi-fi-security-and-what-came-before-it/2/)
 
 ## Windows
@@ -75,11 +80,16 @@ netsh wlan show profile name="<SSID>" key=clear | findstr Key
 
 [WPA supplicant - ArchWiki](https://wiki.archlinux.org/title/WPA_supplicant)
 
+[uoaerg/wavemon: wavemon is an ncurses-based monitoring application for wireless network devices on Linux.](https://github.com/uoaerg/wavemon)
+
 ## Signal Boosting
 
 [What's the difference: WiFi Booster, Repeater or Extender?](https://www.waveform.com/pages/wifi-booster-repeater-extender-differences)
 [The differences between a WiFi extender, WiFi booster and WiFi repeater.](https://www.actiontec.com/wifihelp/wifibooster/differences-wifi-booster-wifi-extender-wifi-repeater/)
 [WiFi Repeater Vs Extender - All You Need To Know](https://www.wifiattendance.com/blog/wifi-repeater-vs-extender/)
+[Mesh Wi-Fi vs. Extenders: I Tried Both, and Here’s Why Mesh Came Out on Top](https://www.makeuseof.com/mesh-wi-fi-vs-extenders-why-mesh-came-out-on-top/)
+
+Mesh allows hopping to AP with strongest signal
 
 ### Repeater
 

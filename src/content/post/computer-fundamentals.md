@@ -2,7 +2,7 @@
 title: Computer Fundamentals
 description: ""
 created: 2023-04-14
-updated: 2025-01-09
+updated: 2025-04-12
 tags:
   - comp/fundamental
   - comp/hardware
@@ -24,7 +24,11 @@ tags:
 [Imperative vs Declarative Scenarios in User Stories • Ben Mabey](http://benmabey.com/2008/05/19/imperative-vs-declarative-scenarios-in-user-stories.html)
 [Threads vs. Processes: A Look At How They Work Within Your Program](https://www.backblaze.com/blog/whats-the-diff-programs-processes-and-threads/)
 
-[The Bits And Bytes Of Binary - YouTube](https://www.youtube.com/playlist?list=PLP29wDx6QmW47oPsNBFNEi_SYTOLDJXqQ)
+[Core Dumped - YouTube](https://www.youtube.com/@CoreDumpped)
+
+[Intro | Putting the "You" in CPU](https://cpu.land/)
+
+[The Bits And Bytes Of Binary - YouTube](https://www.youtube.com/playlist?list=PLP29wDx6QmW47oPsNBFNEi_SYTOLDJXqQ) Low Byte Productions
 [How a Computer Works - from silicon to apps - YouTube](https://www.youtube.com/watch?v=5f3NJnvnk7k)
 
 Computerphile
@@ -34,6 +38,7 @@ Computerphile
 [Multiple Processor Systems - Computerphile - YouTube](https://www.youtube.com/watch?v=3RvkfuXUv1c)
 [GUI Programming Introduction - Computerphile - YouTube](https://www.youtube.com/watch?v=odjdWym0t4I)
 [GUI: Under the Hood - Computerphile - YouTube](https://www.youtube.com/watch?v=ptcHHXp1PEU)
+[Matt Godbolt on Computerphile - YouTube](https://www.youtube.com/playlist?list=PLzH6n4zXuckpwdGMHgRH5N9xNHzVGCxwf) on CPU
 
 [An Analysis of Hash Map Implementations in Popular Languages](https://rcoh.me/posts/hash-map-analysis/)
 [Why Linked Lists vs Arrays isn’t a real choice - YouTube](https://www.youtube.com/watch?v=34ky600VTN0)
@@ -76,6 +81,27 @@ Computerphile
 [Turing Machines - How Computer Science Was Created By Accident - YouTube](https://www.youtube.com/watch?v=PLVCscCY4xI)
 [Turing machines explained visually - YouTube](https://www.youtube.com/watch?v=-ZS_zFg4w5k)
 [Making a computer Turing complete - YouTube](https://www.youtube.com/watch?v=AqNDk_UJW4k)
+
+## Operating System
+
+> [[kernel]]
+
+[What Does It Take to Make a Kernel? | Linux Journal](https://www.linuxjournal.com/content/what-does-it-take-make-kernel-0)
+
+[How a Single Bit Inside Your Processor Shields Your Operating System's Integrity - YouTube](https://www.youtube.com/watch?v=H4SDPLiUnv4) user mode, kernel mode
+[Why Applications Are Operating-System Specific - YouTube](https://www.youtube.com/watch?v=eP_P4KOjwhs) syscall, ABI
+
+### ABI
+
+[Binary-code compatibility - Wikiwand](https://www.wikiwand.com/en/Binary-code_compatibility)
+Calling convention, what register of the CPU are used
+[What are Calling Conventions - CTF Handbook](https://ctf101.org/binary-exploitation/what-are-calling-conventions/)
+
+[Idiot's Guide to ABI Versioning - 250bpm](http://250bpm.com/blog:41)
+
+[20 ABI (Application Binary Interface) breaking changes every C++ developer should know](https://www.acodersjourney.com/20-abi-breaking-changes/)
+
+[do you know how "return" ACTUALLY works? (are you SURE?) - YouTube](https://www.youtube.com/watch?v=e46wHUjNDjE)
 
 ## How program runs
 
@@ -130,6 +156,7 @@ Parallelism:
 [The Way of the Gopher. Making the Switch from Node.js to… | by Alexandra Bueno | Digg Data | Medium](https://medium.com/digg-data/the-way-of-the-gopher-6693db15ae1f#.h4j5b62nh)
 
 [You Keep Using That Word: Asynchronous And Interprocess Comms - Sam Newman - NDC Oslo 2023 - YouTube](https://www.youtube.com/watch?v=2LMEJ-WGFTk)
+[CONCURRENCY IS NOT WHAT YOU THINK - YouTube](https://www.youtube.com/watch?v=3X93PnKRNUo)
 
 [Asynchronous vs Multithreading and Multiprocessing Programming (The Main Difference) - YouTube](https://www.youtube.com/watch?v=0vFgKr5bjWI)
 [What Color is Your Function? – journal.stuffwithstuff.com](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/) the chasm between sync and async code
@@ -176,14 +203,16 @@ per thread ring buffer use by many
 [Memory, Cache Locality, and why Arrays are Fast (Data Structures and Optimization) - YouTube](https://www.youtube.com/watch?v=247cXLkYt2M)
 [The Origins of Process Memory | Exploring the Use of Various Memory Allocators in Linux C - YouTube](https://www.youtube.com/watch?v=c7xf5dvUb_Q)
 
+[Differences between Stack and Heap](https://net-informations.com/faq/net/stack-heap.htm)
 [What's a Memory Allocator Anyway? - Benjamin Feng - YouTube](https://www.youtube.com/watch?v=vHWiDx_l4V0)
 
 [WHY IS THE STACK SO FAST? - YouTube](https://www.youtube.com/watch?v=N3o5yHYLviQ)
 [WHY IS THE HEAP SO SLOW? - YouTube](https://www.youtube.com/watch?v=ioJkA7Mw2-U)
 
 [🚀 Demystifying memory management in modern programming languages | Technorage](https://deepu.tech/memory-management-in-programming/)
-[🚀 Visualizing memory management in Golang | Technorage](https://deepu.tech/memory-management-in-golang/)
 [🚀 Visualizing memory management in V8 Engine (JavaScript, NodeJS, Deno, WebAssembly) | Technorage](https://deepu.tech/memory-management-in-v8/)
+[🚀 Visualizing memory management in Golang | Technorage](https://deepu.tech/memory-management-in-golang/)
+[🚀 Visualizing memory management in Rust | Technorage](https://deepu.tech/memory-management-in-rust/)
 
 ### Garbage Collection
 

@@ -2,7 +2,7 @@
 title: Web Development
 description: ""
 created: 2015-11-19
-updated: 2025-01-09
+updated: 2025-04-05
 tags:
   - css
   - javascript
@@ -25,6 +25,8 @@ tags:
 [A practical guide to learning front end development for beginners](https://www.freecodecamp.org/news/a-practical-guide-to-learning-front-end-development-for-beginners-da6516505e41) 2019
 [A Guide to Different Web Technologies and How They Are Related | by Erik Engheim | Medium](https://erik-engheim.medium.com/a-guide-to-different-web-technologies-and-how-they-are-related-a0951c7b43f4)
 
+[All the ways HTML gets to your browser - YouTube](https://www.youtube.com/watch?v=Cifkb-ZVps4) 2025 over view of how web pages are rendered
+
 [Illustrated.dev](https://illustrated.dev/) web dev concepts illustrated
 [Enterprise Resources - Jamstack Webinars, Guides, & More](https://www.netlify.com/resources/)
 [How to Design for the Modern Web – Silicon Satire – Medium](https://medium.com/s/silicon-satire/how-to-design-for-the-modern-web-52eaa926bae2) 2019, sarcasm
@@ -32,12 +34,12 @@ tags:
 [The Widening Responsibility for Front-End Developers | CSS-Tricks](https://css-tricks.com/the-widening-responsibility-for-front-end-developers/)
 [Social Network for Programmers and Developers](https://morioh.com/explore)
 
-[The 2019 Web Almanac](https://almanac.httparchive.org/en/2019/)
+[The 2024 Web Almanac](https://almanac.httparchive.org/en/2024/)
 
-[web.dev](https://web.dev/)
-[Web | Google Developers](https://developers.google.com/web) successor of HTML5 Rocks
+[My current stack - YouTube](https://www.youtube.com/watch?v=5qG6yDO5lUM) 2025-04, Theo
+
+[web.dev](https://web.dev/) successor of HTML5 Rocks
 [Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn) ❗!important
-[15 Interesting JavaScript and CSS Libraries for March 2018 - Tutorialzine](https://tutorialzine.com/2018/03/15-interesting-javascript-and-css-libraries-for-march-2018)
 [Build a Great Web Experience | Google Developers](https://developers.google.com/web/)
 [Web Updates - Google Developers](https://developers.google.com/web/updates/)
 [Web Fundamentals — Google Developers](https://developers.google.com/web/fundamentals/)
@@ -82,14 +84,9 @@ tags:
 
 ## Trends/Reports
 
-[The State Of JavaScript 2018](https://stateofjs.com/)
-[JavaScript and Web Development InfoQ Trends Report](https://www.infoq.com/articles/javascript-web-development-trends)
-[The Top JavaScript Trends to Watch in 2018 – Hacker Noon](https://hackernoon.com/the-top-javascript-trends-to-watch-in-2018-a8437dd94425)
-
-[Web Development 2018 - The Must-Know Tech - YouTube](https://www.youtube.com/watch?v=gVXcqO9A1vo) ❗!important
-[The 2018 Web Developer Roadmap – codeburst](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
-[Skill Up 2018 - Developer Skills Report | PACKT Books](https://www.packtpub.com/skill-up-2018)
+[State of JavaScript](https://stateofjs.com/en-US)
 [Mobile Overview Report (MOVR) | ScientiaMobile](https://www.scientiamobile.com/movr-mobile-overview-report/)
+
 [13 Web Design Trends to Watch in 2020](https://www.shopify.com/partners/blog/web-design-trends)
 [ReactJs Roadmap🗺 for beginners - 2021 - DEV Community](https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en)
 
@@ -103,6 +100,11 @@ tags:
 
 [2016/2017 MUST-KNOW WEB DEVELOPMENT TECH - Watch this if you want to be a web developer - YouTube](https://www.youtube.com/watch?v=sBzRwzY7G-k) [Web Development](https://coggle.it/diagram/Vz9LvW8byvN0I38x)
 [A Guide to Becoming a Full-Stack Developer in 2017 – Coderbyte – Medium](https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c)
+
+[Web Development 2018 - The Must-Know Tech - YouTube](https://www.youtube.com/watch?v=gVXcqO9A1vo) ❗!important
+[The 2018 Web Developer Roadmap – codeburst](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
+[Skill Up 2018 - Developer Skills Report | PACKT Books](https://www.packtpub.com/skill-up-2018)
+[JavaScript and Web Development InfoQ Trends Report](https://www.infoq.com/articles/javascript-web-development-trends/) 2018
 
 [Front-end Developer Handbook 2019 - Learn the entire JavaScript, CSS and HTML development practice!](https://frontendmasters.com/guides/front-end-handbook/2019/)
 [Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
@@ -465,10 +467,10 @@ In SPA, scroll position is loss upon back
 
 ## Video
 
-[LevelUpTuts - YouTube](https://www.youtube.com/user/LevelUpTuts)
-[NewCircle Training - YouTube](https://www.youtube.com/user/MarakanaTechTV)
+[Syntax - YouTube](https://www.youtube.com/@syntaxfm)
+[InfoQ - YouTube](https://www.youtube.com/@infoq) MarakanaTechTV -> NewCircle Training -> InfoQ
 [Nodecasts, Premium Node.js Screencasts](https://nodecasts.io/)
-[Traversy Media - YouTube](https://www.youtube.com/user/TechGuyWeb/featured)
+[Traversy Media - YouTube](https://www.youtube.com/@TraversyMedia)
 
 [Lets create a screen recorder with JS - DEV Community](https://dev.to/0shuvo0/lets-create-a-screen-recorder-with-js-3leb)
 
@@ -727,6 +729,9 @@ convert -resize x60  input.png apple-touch-icon-60x60.png
 [Htmx: HTML Approach to Interactivity in a JavaScript World – The New Stack](https://thenewstack.io/htmx-html-approach-to-interactivity-in-a-javascript-world/)
 [Intro to HTMX: Dynamic HTML without JavaScript | InfoWorld](https://www.infoworld.com/article/3706951/htmx-dynamic-html-without-the-javascript.html)
 
+[</> htmx ~ The future of htmx](https://htmx.org/essays/future/)
+[The Future of HTMX - YouTube](https://www.youtube.com/watch?v=0rtpsJSLb44)
+
 [htmgo.dev](https://htmgo.dev/) build simple and scalable systems with go + htmx
 [leomorpho/goship: Opinionated Go/HTMX boilerplate with payments, emails, auth, notifications and more!⛵️](https://github.com/leomorpho/GoShip)
 
@@ -820,10 +825,10 @@ Async version of WSGI
 
 ## URL/URI
 
-[RFC 1738 - A Gopher URL Format](https://tools.ietf.org/html/rfc1738)
-[RFC 3986 - Uniform Resource Identifier (URI): Generic Syntax](https://tools.ietf.org/html/rfc3986)
-[RFC 3987 - Internationalized Resource Identifiers (IRIs)](https://tools.ietf.org/html/rfc3987)
-[RFC 6570 - URI Template](https://tools.ietf.org/html/rfc6570)
+[RFC 1738 - A Gopher URL Format](https://datatracker.ietf.org/doc/html/rfc1738)
+[RFC 3986 - Uniform Resource Identifier (URI): Generic Syntax](https://datatracker.ietf.org/doc/html/rfc3986)
+[RFC 3987 - Internationalized Resource Identifiers (IRIs)](https://datatracker.ietf.org/doc/html/rfc3987)
+[RFC 6570 - URI Template](https://datatracker.ietf.org/doc/html/rfc6570)
 7595 URI Scheme Guidelines
 
 3406 URN Namespace Definition Mechanisms
@@ -926,9 +931,9 @@ URI : URL | URN
 [Measuring the Effects of Brotli Compression on WordPress - SitePoint](https://www.sitepoint.com/brotli-compression-wordpress/)
 
 [gzip - Wikiwand](https://www.wikiwand.com/en/Gzip)
-[RFC 1950 - ZLIB Compressed Data Format Specification version 3.3](https://tools.ietf.org/html/rfc1950)
-[RFC 1951 - DEFLATE Compressed Data Format Specification version 1.3](https://tools.ietf.org/html/rfc1951)
-[RFC 1952 - GZIP file format specification version 4.3](https://tools.ietf.org/html/rfc1952)
+[RFC 1950 - ZLIB Compressed Data Format Specification version 3.3](https://datatracker.ietf.org/doc/html/rfc1950)
+[RFC 1951 - DEFLATE Compressed Data Format Specification version 1.3](https://datatracker.ietf.org/doc/html/rfc1951)
+[RFC 1952 - GZIP file format specification version 4.3](https://datatracker.ietf.org/doc/html/rfc1952)
 
 [google/zopfli: Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression.](https://github.com/google/zopfli)
 

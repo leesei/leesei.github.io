@@ -2,7 +2,7 @@
 title: Portable Document Format (PDF)
 description: ""
 created: 2018-10-27
-updated: 2025-01-09
+updated: 2025-06-24
 tags:
   - business
   - desktop
@@ -27,7 +27,7 @@ PDF 簽署 <https://sign.new>
 
 ## Viewers
 
-[Free PDF Reader - Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)
+[Free PDF Reader - Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) Windows
 
 [Poppler](https://poppler.freedesktop.org/) PDF rendering library
 
@@ -40,6 +40,9 @@ PDF 簽署 <https://sign.new>
 [The 8 Best PDF Editor Apps](https://zapier.com/blog/best-pdf-editor-apps/)
 [11 Best Linux PDF Editors You Can Use in 2022](https://itsfoss.com/pdf-editors-linux/)
 [Best free PDF editor 2022 | TechRadar](https://www.techradar.com/best/free-pdf-editor)
+
+[PDFgear - Free PDF Editor Software & Online tools](https://www.pdfgear.com/)
+[This Free App Is a Game Changer for PDFs on Windows](https://www.makeuseof.com/this-free-pdf-app-game-changer-on-windows/)
 
 Page manipulation:
 [Split and merge PDF files. Free and open source - PDFsam](https://pdfsam.org/)
@@ -60,6 +63,25 @@ Chop/Watermark:
 [flytkgl/PDFQFZ: PDF加盖骑缝章的小工具](https://github.com/flytkgl/PDFQFZ)
 [PDF加盖骑缝章的工具，免费开源【PDFQFZ】 – 零度解说](https://www.freedidi.com/13559.html)
 
+## Signature
+
+[What is ESTI PAdES? | Ascertia | Blog](https://blog.ascertia.com/etsi-pades-explored-and-explained)
+
+## Data Extraction
+
+[MinerU](https://mineru.net/)
+[opendatalab/MinerU: A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。](https://github.com/opendatalab/MinerU)
+
+[欢迎来到 PDF-Extract-Kit 的中文文档 — PDF-Extract-Kit 0.1.0 文档](https://pdf-extract-kit.readthedocs.io/zh-cn/latest/index.html)
+[opendatalab/PDF-Extract-Kit: A Comprehensive Toolkit for High-Quality PDF Content Extraction](https://github.com/opendatalab/PDF-Extract-Kit)
+
+[Tabula: Extract Tables from PDFs](https://tabula.technology/)
+[tabulapdf/tabula: Tabula is a tool for liberating data tables trapped inside PDF files](https://github.com/tabulapdf/tabula)
+
+[6 Methods to Extract Data from PDF 2025](https://klearstack.com/how-to-extract-data-from-pdf/)
+
+[Building a Custom PDF Parser with PyPDF and LangChain - KDnuggets](https://www.kdnuggets.com/building-a-custom-pdf-parser-with-pypdf-and-langchain)
+
 ## Toolkits
 
 [11 of the Best Free Linux PDF Tools - LinuxLinks](https://www.linuxlinks.com/pdftools/)
@@ -72,7 +94,7 @@ Chop/Watermark:
 ```sh
 pdftoppm <input.pdf> <output> -jpeg
 pdftoppm <input.pdf> <output> -jpeg
-pdftoppm -f <start_page> -l end_page -jpeg
+pdftoppm -f <start_page> -l end_page -jpeg <input.pdf> <output>
 ```
 
 [diff-pdf](https://vslavik.github.io/diff-pdf/)
@@ -89,14 +111,19 @@ pdftoppm -f <start_page> -l end_page -jpeg
 
 ### `PDFtk`
 
-[PDFtk - The PDF Toolkit](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/)
+[PDFtk - The PDF Toolkit](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) with GUI for Windows
+[PDFtk Server Examples](https://www.pdflabs.com/docs/pdftk-cli-examples/)
 [Manipulating PDFs with the PDF Toolkit | Linux.com | The source for Linux information](https://www.linux.com/learn/manipulating-pdfs-pdf-toolkit)
 
 ```sh
 # merge PDF
 pdftk first.pdf second.pdf cat output merged.pdf
 # extract pages
-pdftk input.pdf cat 1 5-7 output extract.pdf
+pdftk input.pdf cat 1 5-end output extract.pdf
+# split each page into a separate file
+pdftk input.pdf burst output out_%d.pdf
+# print meta data
+pdftk in.pdf dump_data output report.txt
 ```
 
 [STAMPtk - The PDF Stamp Maker](https://www.pdflabs.com/tools/stamptk-the-pdf-stamp-maker/)
@@ -108,6 +135,10 @@ pdftk input.pdf cat 1 5-7 output extract.pdf
 [How to view and edit the code of a PDF file - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/17220/how-to-view-and-edit-the-code-of-a-pdf-file)
 
 ```sh
+fd . --maxdepth 1 -e pdf |
+
+qpdf --compress-streams=y --object-streams=generate document.pdf qpdf_compressed.pdf
+
 # decompress PDF
 qpdf --qdf --object-streams=disable orig.pdf expanded.pdf
 # recompress PDF
@@ -130,6 +161,7 @@ exec docker run -v "$PWD:/workdir" -u "$(id -u):$(id -g)" --rm -it ptspts/pdfsiz
 [Ghostscript](https://www.ghostscript.com/)
 [Welcome to Ghostscript — Ghostscript documentation](https://ghostscript.readthedocs.io/en/latest/)
 [Optimization of the Sizes of PDF Files on Linux | Baeldung on Linux](https://www.baeldung.com/linux/pdf-compress)
+[Reduce PDF File Size in Linux | DigitalOcean](https://www.digitalocean.com/community/tutorials/reduce-pdf-file-size-in-linux)
 
 [theeko74/pdfc: Simple python script to compress PDF](https://github.com/theeko74/pdfc) Python 3, calls `gs`
 [aklomp/shrinkpdf: Shrink PDF files with Ghostscript](https://github.com/aklomp/shrinkpdf)

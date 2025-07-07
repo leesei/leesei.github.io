@@ -2,7 +2,7 @@
 title: Zoology
 description: Scientific study of the animals kingdom
 created: 2021-10-30
-updated: 2025-01-09
+updated: 2025-06-01
 tags:
   - animals
   - biology
@@ -46,7 +46,6 @@ Bilaterians 兩側對稱動物
 
 [Animal Origins - YouTube](https://www.youtube.com/@animalorigins)
 [The Evolution of Mammals (Every Mammal Family Explained) - YouTube](https://www.youtube.com/watch?v=STHu4dESJH0)
-[The Evolution of Seals, Sea Lions, and Walruses - YouTube](https://www.youtube.com/watch?v=5UpYNKNwzSI)
 [The Evolution of the Monkey - YouTube](https://www.youtube.com/watch?v=FqTZljHqhtw)
 
 [Insane Biology - YouTube](https://www.youtube.com/playlist?list=PLAzuPFpwy9ZLIG5hDwjGyccJr6FpTsrEr) Real Science
@@ -70,10 +69,6 @@ Bilaterians 兩側對稱動物
 
 [企鵝冷知識 | Move Hub Limited](https://app.move-hub.net/MH-FC-PENGUIN/)
 
-[Seals and Sea Lions, What is the Difference? - Redwood National and State Parks (U.S. National Park Service)](https://www.nps.gov/redw/learn/nature/true-seals-versus-fur-seals-and-sea-lions.htm)
-[【我才跟他不一樣！】海豹、海狗、海獅，傻傻分不清 - 窩窩｜為牠發聲](https://wuo-wuo.com/topics/widlife/64-comparison-and-similar-animals/641-i-was-with-him-is-not-the-same-seals-fur-seals-sea-lions-innocently-tell)
-[關於海豹你應該知道的事情，其實你一直都不認識真正的海豹！【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=dD1wBSsNOL0)
-
 raccoon dog/tanuki 狸貓; raccoon 浣熊
 [How to tell a Japanese tanuki apart from a regular raccoon – SoraNews24 -Japan News-](https://soranews24.com/2016/11/23/how-to-tell-a-japanese-tanuki-apart-from-a-regular-raccoon/amp/)
 
@@ -84,6 +79,17 @@ Armadillo vs Pangolin
 Stork vs Pelican
 
 > The following section are usually on Family 科
+
+## Ursidae (Bear)
+
+[Giant panda - Wikiwand](https://www.wikiwand.com/en/articles/panda)
+[Why Pandas Are Impressively Bad at Existing - YouTube](https://www.youtube.com/watch?v=mLi1Ex9t128)
+[熊貓：一種真實存在的上古恐懼，為什麼只有人類覺得大熊貓很可愛？為什麼大熊貓在大自然中拒絕偽裝？為什麼熊貓不怕摔？大熊貓當真能吃鐵嗎？有關熊貓的秘密，這裡一定還有讓你驚奇的故事……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=Q2IWe4zjURQ)
+[曾經的食肉猛獸，變身世界上最受歡迎的動物，熊貓的演化算成功了嗎？突然開始瘋狂吃竹子的真正原因……【老肉雜談】#動物 #熊貓 #貓熊 #冷知識 #生物 - YouTube](https://www.youtube.com/watch?v=Wp8V4g4HdoQ)
+
+[大熊貓直播｜直擊大熊貓的可愛瞬間 | 香港海洋公園](https://pandalive.oceanpark.com.hk/tc/)
+[FULL🐼《熊猫一家人》 芒果TV独播！熊猫粉的天堂疗愈你的每一天｜Panda‘s Family | MangoTV - YouTube](https://www.youtube.com/playlist?list=PLUM8x224JrX9aHolCvQSfOysFNpf451Bt)
+[Ladou Entertainment - YouTube](https://www.youtube.com/@LaDouYuLe)
 
 ## Tardigrades (Water Bear)
 
@@ -259,6 +265,7 @@ generally crows are smaller than ravens
 
 [Actinopterygii - Wikiwand](https://www.wikiwand.com/en/Actinopterygii)
 [輻鰭魚 - Wikiwand](https://www.wikiwand.com/zh/%E8%BC%BB%E9%B0%AD%E9%AD%9A)
+[【鬼谷说】辐鳍鱼类：亿年老苟，坟头舞王 - YouTube](https://www.youtube.com/watch?v=ssKROhDJvX0)
 
 ### Sarcopterygii (lobe-finned fish)
 
@@ -269,6 +276,7 @@ generally crows are smaller than ravens
 
 [Chondrichthyes - Wikiwand](https://www.wikiwand.com/en/Chondrichthyes)
 [軟骨魚綱 - Wikiwand](https://www.wikiwand.com/zh/%E8%BB%9F%E9%AA%A8%E9%AD%9A%E7%B6%B1)
+[【鬼谷说】软骨鱼：头铁真汉子，亿年五五开，坚守自我，永不放弃！ - YouTube](https://www.youtube.com/watch?v=igJqRaWdoeE)
 
 [全頭類 - Wikiwand](https://www.wikiwand.com/zh/%E5%85%A8%E5%A4%B4%E7%B1%BB) 鮫
 [Holocephali - Wikiwand](https://www.wikiwand.com/en/Holocephali)
@@ -285,6 +293,11 @@ generally crows are smaller than ravens
 [吃虎鯨的肉，喝大白鯊的血，以所有海洋動物為食的惡魔——達摩鯊【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=7FTp2zsdxVM)
 [150 歲才性成熟，壽命超過 500 歲！格陵蘭鯊的長壽秘訣，給人類帶來怎麼樣的啟示？【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=wEbHcDihQWI)
 
+[主宰海洋上億年的霸主，真正的海王 - 鯊魚，而他們中誰最奇特誰是鯊皇，盤點十大史前鯊魚丨動物之最 - YouTube](https://www.youtube.com/watch?v=tv34a661BrE)
+[億萬年進化后的海洋統治者鯊魚：三億年前的鯊魚長的什麼樣？ 我們的祖先居然都是魚！丨恐龍時代丨特別篇 01 丨黑毛羊駝 - YouTube](https://www.youtube.com/watch?v=EY-AUuAT2qQ)
+[上億年的海底爭霸中鯊魚永遠都是老二？！長久以來的鯊魚造型有什麼變化，它們到底是怎麼進化的丨恐龍時代丨特別篇 02 丨黑毛羊駝 - YouTube](https://www.youtube.com/watch?v=3r3Eoi3p8P4)
+[剛出生體型就長達 2 米，幼年就是頂級掠食者！巨齒鯊：史上最強海怪的誕生之路丨恐龍時代丨特別篇 03 丨黑毛羊駝 - YouTube](https://www.youtube.com/watch?v=a4OY7qmhcb8)
+
 ### Batoidea (rays)
 
 Rays, Skates, Sawfish
@@ -300,17 +313,26 @@ Batoidea (rays) 鰩總目 有"大翅膀"
 
 [【鬼谷说】食肉目：猫与犬之歌，权力的游戏 - YouTube](https://www.youtube.com/watch?v=T7hw60W4UD8)
 
-## Felinae (cats)
+## Felidae (cats)
 
-[Felinae - Wikiwand](https://www.wikiwand.com/en/Felinae)
+[Felidae - Wikiwand](https://www.wikiwand.com/en/articles/Felidae)
+[猫科 - Wikiwand](https://www.wikiwand.com/zh/articles/%E7%8C%AB%E7%A7%91)
 
 [All 40 Species of Wild Cat (Organised by Lineage) - YouTube](https://www.youtube.com/watch?v=cIJkTw9OeKQ)
+
+[骨骼驚奇、天賦異稟的怪貓，叫起來像在罵街，戰鬥力堪比老虎的——猞猁！#老肉雜談 #肉識動物 - YouTube](https://www.youtube.com/watch?v=TeqMfgjxh-w) lynx
+
+### Panthera (big cats)
+
+[Panthera - Wikiwand](https://www.wikiwand.com/en/articles/Panthera)
+[豹属 - Wikiwand](https://www.wikiwand.com/zh/articles/%E8%B1%B9%E5%B1%AC)
 
 Cougar=Puma, Jaguar, Panther, Leopard 金錢豹 美洲豹
 [Puma 跟 Jaguar 到底是獅還是豹? @ 跟著幸慧去旅遊喔! :: 痞客邦 ::](https://amylinr.pixnet.net/blog/post/65073523)
 [花豹、獵豹、美洲豹、雲豹……已眼花 - 國家地理雜誌中文網](https://www.natgeomedia.com/environment/article/content-2167.html)
 
-[骨骼驚奇、天賦異稟的怪貓，叫起來像在罵街，戰鬥力堪比老虎的——猞猁！#老肉雜談 #肉識動物 - YouTube](https://www.youtube.com/watch?v=TeqMfgjxh-w) lynx
+[大貓的王者之路：老虎是如何一步一步演化到食物鏈頂端的？虎年說虎新年專輯丨黑毛羊駝 - YouTube](https://www.youtube.com/watch?v=j-6J7tMyvv8)
+[為什麼說獅子被嚴重誤解？真打不過老虎嗎？母獅戰鬥力其實超乎想象，雄獅則另有隱秘真相……【老肉雜談】#獅子 #老虎 #動物 #生物 #冷知識 - YouTube](https://www.youtube.com/watch?v=laRR1zPX5Fo)
 
 ## Caninae (dogs)
 
@@ -321,14 +343,32 @@ Cougar=Puma, Jaguar, Panther, Leopard 金錢豹 美洲豹
 
 [從二哈的傳奇故事，到邊牧的超級智商！遠古的狼為何自願變成狗？關於狗的那些真相【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=jG0luF6OA8U)
 
-## Bovidae (cows)
+## Perissodactyla
+
+> horses, tapirs, rhinos
+
+[Perissodactyla - Wikiwand](https://www.wikiwand.com/en/articles/Perissodactyla)
+[奇蹄目 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E5%A5%87%E8%B9%84%E7%9B%AE)
+
+[【鬼谷说】奇蹄目：看铁蹄铮铮，踏遍万里河山 - YouTube](https://www.youtube.com/watch?v=k9QIoEqdwRI&t=3s)
+
+## Perissodactyla 偶蹄目
+
+> pigs, sheep, cows, deers, camels, hippos
+
+[Artiodactyl - Wikiwand](https://www.wikiwand.com/en/articles/Artiodactyla)
+[偶蹄目 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E5%81%B6%E8%B9%84%E7%9B%AE)
+
+[【鬼谷说】偶蹄目：掌握核心黑科技 - YouTube](https://www.youtube.com/watch?v=e6OD_Vj9Xr0)
+
+### Bovidae (cows)
 
 Antelope 羚羊；Gazelles 瞪羚/小羚羊；Gnu/Wildebeest 牛羚/角馬
 all gazelles are antelopes, but not all antelopes are gazelles
 [Gazelles vs Antelopes - what is the difference? | Tanzania-Experience](https://www.tanzania-experience.com/blog/gazelles-vs-antilopes/)
 [The Surprising Species That Everything Else Depends On | IN OUR NATURE - YouTube](https://www.youtube.com/watch?v=i8wrAkixfHc) Wildebeest and Bison
 
-## Cervidae (deers)
+### Cervidae (deers)
 
 Cervidae (deers) 鹿科
 Deer 鹿/梅花鹿: small; Elk 麋鹿/馬鹿, Reindeer 馴鹿: mid-sized; Moose 駝鹿 (Elk in Eurpoe): large, broad antlers, and long, broad snouts
@@ -342,7 +382,7 @@ New World deer: Moose, Reindeer, Roe deer
 
 [鹿：大自然的死侍，擁有超級血液，能再生器官、百毒不侵，還能輕功飛天、一葦渡江，這就是為什麼無論東西方都認為它是仙獸的真正原因……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=xTQyYwumROk)
 
-## Camelidae
+### Camelidae
 
 [The Evolution of the Camel - YouTube](https://www.youtube.com/watch?v=f3PPDn4ABys)
 [You have no idea where camels really come from | Latif Nasser - YouTube](https://www.youtube.com/watch?v=c9V6OKlY80k)
@@ -359,11 +399,22 @@ Llamas 駱馬/大羊駝, Alpacas 羊駝, Guanaco 原駝, Vicuna 小羊駝
 
 [Vicuña - Facts and Beyond | Biology Dictionary](https://biologydictionary.net/vicuna/)
 
-## Giraffidae
+### Giraffidae
 
 [Giraffidae - Wikiwand](https://www.wikiwand.com/en/Giraffidae)
 
 [人類最想要的超能力，有兩個在長頸鹿基因裡，最新研究讓人浮想聯翩！【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=0muuqHawKWE)
+
+## Pinnipedia 鳍足类
+
+[鰭足類 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E9%B3%8D%E8%B6%B3%E7%B1%BB)
+
+[【鬼谷说】鳍足类：归海正天罡 - YouTube](https://www.youtube.com/watch?v=eN-SSi6TgQE)
+[The Evolution of Seals, Sea Lions, and Walruses - YouTube](https://www.youtube.com/watch?v=5UpYNKNwzSI)
+
+[Seals and Sea Lions, What is the Difference? - Redwood National and State Parks (U.S. National Park Service)](https://www.nps.gov/redw/learn/nature/true-seals-versus-fur-seals-and-sea-lions.htm)
+[【我才跟他不一樣！】海豹、海狗、海獅，傻傻分不清 - 窩窩｜為牠發聲](https://wuo-wuo.com/topics/widlife/64-comparison-and-similar-animals/641-i-was-with-him-is-not-the-same-seals-fur-seals-sea-lions-innocently-tell)
+[關於海豹你應該知道的事情，其實你一直都不認識真正的海豹！【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=dD1wBSsNOL0)
 
 ## Crocodilia
 
@@ -450,6 +501,7 @@ Otter 水獭 is weasel-like carnivorous mammals. Beaver 河狸 is rodent-like ve
 
 [Coleoidea - Wikiwand](https://www.wikiwand.com/en/Coleoidea)
 [蛸亞綱 - Wikiwand](https://www.wikiwand.com/zh/%E8%9B%B8%E4%BA%9E%E7%B6%B1)
+[🌟MULTISUB【鬼谷说】蛸类：宿命的轮回 - YouTube](https://www.youtube.com/watch?v=OrXV9kECVFA)
 
 Arms, like those on an octopus, have suction cups the entire length of the limb. Tentacles only have suction cups near the end of the limb. Some Cephalopods have arms, some have tentacles, and some have both!
 章魚/名八爪魚 Octopus 球形頭+8 隻腳, 會噴墨, 會偽裝
@@ -474,6 +526,16 @@ Arms, like those on an octopus, have suction cups the entire length of the limb.
 
 [Centipede - Wikiwand](https://www.wikiwand.com/en/Centipede)
 
+## Serpentes (snakes)
+
+[Snake - Wikiwand](https://www.wikiwand.com/en/articles/snake)
+[Lists of snakes - Wikiwand](https://www.wikiwand.com/en/articles/List_of_snake_genera)
+
+[【蛇年必看】眼鏡蛇噴射毒液，竟是為了對付人類！超級毒液讓人類變得更強？最致命毒蛇大揭秘【老肉雜談】#動物 #蛇 #蛇年 #眼鏡蛇 #生物 - YouTube](https://www.youtube.com/watch?v=33r0MkZVnlc)
+
+Neurotoxic
+Hemotoxic
+
 ## 棘皮动物
 
 Starfish 海星, 海膽, Sea cucumber 海參, 海百合
@@ -491,6 +553,7 @@ six-legged Arthropods
 Bee's colony: hive (man-made), nest (natural)
 
 [Is it Cruel to Use Bees as Digital Sensors? - YouTube](https://www.youtube.com/watch?v=lG-ZqO734tM) also pigeon-guided bomb
+[膜翅目：来自混沌的守序 - YouTube](https://www.youtube.com/watch?v=PGVZLzitwQ8)
 
 ### Cicadas
 
@@ -512,7 +575,7 @@ Bee's colony: hive (man-made), nest (natural)
 ## Cetaceans (fish-like sea mammals)
 
 > whales, orcas, dolphins, proposes
-> separated from "hippos" 50 Ma
+> separated from 偶蹄目 "hippos" 50 Ma
 
 [When Whales Walked - YouTube](https://www.youtube.com/watch?v=_OSRKtT_9vw)
 
@@ -541,6 +604,7 @@ Myticetes: baleen whale (filter-feeding whales, humpback whale, blue whale)
 [「精液鯨」這個名稱是怎麼來的？神秘儀式竟能 10 分鐘恢復活力！抹香鯨和龍涎香【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=EGU6h3Ab6tc)
 [刺穿虎鯨心臟？還是串燒鱈魚？揭秘獨角鯨大長角的真實用途【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=JNJwBNz0p4c)
 [【震驚】航拍記錄下驚人一幕，澳洲近百頭領航鯨神秘聚集，一天後集體衝上海灘擱淺！它們跟虎鯨，又到底有什麼恩怨？【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=WJ-fqfWW0Ro)
+[【鬼谷说】鲸：一曲鲸歌寄沧海 - YouTube](https://www.youtube.com/watch?v=1tDsn2GEeA0&t=1s)
 
 ## Sirenia (sea cows, mermaids)
 
@@ -556,3 +620,4 @@ Myticetes: baleen whale (filter-feeding whales, humpback whale, blue whale)
 [What Are The Differences Between Dugongs, Mermaids and Manatees](https://www.spotmydive.com/en/news/amazing-differences-between-dugongs-mermaids-manatees-scuba-diving-snorkeling)
 [【我才跟他不一樣！】海象、海牛、儒艮 搞得懂嗎？ - 窩窩｜為牠發聲](https://wuo-wuo.com/topics/widlife/64-comparison-and-similar-animals/640-i-was-with-him-is-not-the-same-walruses-manatees-dugongs)
 [與海龜情同手足，肉卻被放龜殼裡烤！最佛系的海洋巨獸——儒艮【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=Sw5SPEGCMoU)
+[【鬼谷说】海牛目：那年特提斯微雨 - YouTube](https://www.youtube.com/watch?v=OdI0dztvpns)

@@ -2,7 +2,7 @@
 title: Espressif (ESP)
 description: ""
 created: 2018-10-20
-updated: 2025-01-09
+updated: 2025-06-27
 tags:
   - esp-c3
   - esp32
@@ -47,7 +47,7 @@ Board bringup
 [ESPlorer — Next Generation IDE for ESP8266 developers - Everything ESP8266](https://www.esp8266.com/viewtopic.php?f=22&t=882)
 Includes Lua and MicroPython IDE
 
-[jczic/ESP32-MPY-Jama: New UI tool for manage Espressif ESP32 microcontrollers with embedded MicroPython for Windows & MacOS (IDE, files manager, REPL, real-time dashboards, advanced features, ...).](https://github.com/jczic/ESP32-MPY-Jama)
+[jczic/ESP32-MPY-Jama: New UI tool for manage Espressif ESP32 microcontrollers with embedded MicroPython for Windows & macOS (IDE, files manager, REPL, real-time dashboards, advanced features, ...).](https://github.com/jczic/ESP32-MPY-Jama)
 [MicroPython ESP32 IDE Makes Life Simpler | Hackaday](https://hackaday.com/2023/02/07/micropython-esp32-ide-makes-life-simpler/)
 
 [Christian Jacobsen: Nim in a light switch - Programming the ESP8266 (NimConf 2020) - YouTube](https://www.youtube.com/watch?v=eCCrkZI0rVU)

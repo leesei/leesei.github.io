@@ -2,7 +2,7 @@
 title: Serialization
 description: ""
 created: 2020-03-27
-updated: 2025-01-09
+updated: 2025-05-03
 tags:
   - comp/lang
 ---
@@ -49,7 +49,7 @@ tags:
 ### Validators
 
 [JSON Schema Validation: A Vocabulary for Structural Validation of JSON](https://json-schema.org/latest/json-schema-validation.html)
-[draft-bhutton-json-schema-validation-00 - JSON Schema Validation: A Vocabulary for Structural Validation of JSON](https://tools.ietf.org/html/draft-bhutton-json-schema-validation-00)
+[draft-bhutton-json-schema-validation-00 - JSON Schema Validation: A Vocabulary for Structural Validation of JSON](https://datatracker.ietf.org/doc/html/draft-bhutton-json-schema-validation-00)
 
 Python  
 [jsonschema — jsonschema 3.2.0 documentation](https://python-jsonschema.readthedocs.io/en/stable/)  
@@ -149,6 +149,13 @@ TypeScript
 [JSON for Modern C++ - JSON for Modern C++](https://json.nlohmann.me/)
 [nlohmann/json: JSON for Modern C++](https://github.com/nlohmann/json)
 
+### Signing and Encryption
+
+[Javascript Object Signing and Encryption (jose)](https://datatracker.ietf.org/wg/jose/documents/)
+[CBOR Object Signing and Encryption (cose)](https://datatracker.ietf.org/wg/cose/documents/)
+
+[draft-ietf-cose-dilithium-06 - ML-DSA for JOSE and COSE](https://datatracker.ietf.org/doc/html/draft-ietf-cose-dilithium/)
+
 ### JSON serializers
 
 [lxsmnsyc/seroval: Stringify JS values](https://github.com/lxsmnsyc/seroval) JS
@@ -185,6 +192,7 @@ jq -c .[]  a.json > a.ndjson
 [CBOR — Concise Binary Object Representation | Overview](https://cbor.io/) Web Assembly, based-on MsgPack, supports partial decode, designed for network communication
 [RFC 8949 - Concise Binary Object Representation (CBOR)](https://datatracker.ietf.org/doc/html/rfc8949)
 [RFC 8610 - Concise Data Definition Language (CDDL): A Notational Convention to Express Concise Binary Object Representation (CBOR) and JSON Data Structures](https://datatracker.ietf.org/doc/html/rfc8610)
+[draft-ietf-cose-merkle-tree-proofs-10](https://datatracker.ietf.org/doc/html/draft-ietf-cose-merkle-tree-proofs-10)
 [Base58 Encoder / Decoder Online - AppDevTools](https://appdevtools.com/base58-encoder-decoder)
 [toravir/csd: CBOR Stream Decoder](https://github.com/toravir/csd/)
 
@@ -270,6 +278,14 @@ supports partial decode, designed for network communication
 [mattheworiordan/nodejs-encoding-benchmarks: Simple repo to benchmark performance of Node.js encoding libraries](https://github.com/mattheworiordan/nodejs-encoding-benchmarks)
 [msgpack/msgpack-javascript: @msgpack/msgpack - MessagePack for JavaScript/TypeScript/ECMA-262 / msgpack.org[JavaScript]](https://github.com/msgpack/msgpack-javascript)
 [kawanet/msgpack-lite: Fast Pure JavaScript MessagePack Encoder and Decoder / msgpack.org[JavaScript]](https://github.com/kawanet/msgpack-lite)
+
+## Apache Avro
+
+> used in Hadoop, Kafka, Spark
+
+[Apache Avro](https://avro.apache.org/)
+[Documentation | Apache Avro](https://avro.apache.org/docs/)
+[Download | Apache Avro](https://avro.apache.org/project/download/)
 
 ## Apache Arrow/Feather
 
@@ -379,7 +395,7 @@ Feather is now part of Apache Arrow
 ## BaseN encoding
 
 [multiformats/multibase: Self identifying base encodings](https://github.com/multiformats/multibase)
-[RFC 4648 - The Base16, Base32, and Base64 Data Encodings](https://datatracker.ietf.org/doc/html/rfc4648.html)
+[RFC 4648 - The Base16, Base32, and Base64 Data Encodings](https://datatracker.ietf.org/doc/html/rfc4648)
 [draft-msporny-base58-03](https://datatracker.ietf.org/doc/html/draft-msporny-base58-03) base58btc
 [multibase/rfcs at master · multiformats/multibase](https://github.com/multiformats/multibase/tree/master/rfcs)
 
@@ -471,6 +487,7 @@ Feather is now part of Apache Arrow
 [Reading and Writing JSON in Python - The Python Guru](https://thepythonguru.com/reading-and-writing-json-in-python/)
 
 [Better Python Object Serialization · Homepage of Hynek Schlawack](https://hynek.me/articles/serialization/)
+[Bytes Objects: Handling Binary Data in Python – Real Python](https://realpython.com/python-bytes/)
 
 [Efficiently Store Pandas DataFrames](http://matthewrocklin.com/blog/work/2015/03/16/Fast-Serialization)
 

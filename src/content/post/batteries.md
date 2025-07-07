@@ -2,7 +2,7 @@
 title: Batteries
 description: ""
 created: 2016-07-31
-updated: 2025-01-09
+updated: 2025-03-28
 tags:
   - trivia
 ---
@@ -93,6 +93,7 @@ ZMI 彩虹电池 ¥23.9 24 節
 [Smartphone Futurology: The science behind your next phone's battery | Android Central](https://www.androidcentral.com/smartphone-futurology-1-battery)
 [Overview of Rechargeable Batteries and Fast Stand-Alone Chargers - Tutorial - Maxim](https://www.maximintegrated.com/en/app-notes/index.mvp/id/3999)
 [How to charge a phone’s battery, tips: stop charging from zero to 100% - How-To - PC Advisor](http://www.pcadvisor.co.uk/how-to/mobile-phone/how-charge-phones-battery-3619623/)
+[How a Battery Works and 3 Ways You Can Ruin It](https://www.makeuseof.com/tag/battery-works-3-ways-can-ruin/)
 
 [We asked, you told us: Fast wired charging please, Android makers - Android Authority](https://www.androidauthority.com/we-asked-you-told-us-fast-wired-charging-please-android-makers-869903/)
 [Speed, Thermal & Performance Comparison of Fast Charging Standards](https://www.xda-developers.com/charging-comparison-oneplus-huawei/)
@@ -175,6 +176,12 @@ But it create more dendrites, which can cause short circuit.
 [大厂纷纷放「狠话」：2027年量产装车？全固态电池怎么突然就行了？ - YouTube](https://www.youtube.com/watch?v=6GL5z1WLRoI)
 
 [大众投资了12年的固态电池终于量产了！全球首款无负极设计？ - YouTube](https://www.youtube.com/watch?v=PW1l6pYXlhQ) anode-less, using lithium deposit during charging as anode
+
+[Why This Ultra Cheap Battery Breakthrough Matters - YouTube](https://www.youtube.com/watch?v=qZ8z5tFzuIw)
+
+- dry printing of electrodes
+- replace copper with conductive polymer composites
+- FeCl3 cathode
 
 ## Silicon Cathode + Graphite Anode
 
@@ -308,6 +315,8 @@ USB PD compatible device has a maximum charging power of 100W (20V, 5A).
 [A primer on USB Type-C and Power Delivery applications and requirements](https://www.ti.com/lit/wp/slyy109/slyy109.pdf)
 [How to Put USB-C Power on ANYTHING (almost) - YouTube](https://www.youtube.com/watch?v=kZOe7aaiqqE) charge all things with USB-PD
 [An Ultimate PD3.1 Product Buying Guide: Chargers, Cables, Chips, and More - Chargerlab](https://www.chargerlab.com/everything-you-need-to-know-about-pd3-1-chargers-cables-chips-and-more/)
+
+[USB-C Just got Even Better! (PPS) - YouTube](https://www.youtube.com/watch?v=kcmpGbR6xZc)
 
 [Ralim/usb-pd: USB-PD driver stack for the FUSB302](https://github.com/Ralim/usb-pd/)
 [PD Buddy Sink | Hackaday.io](https://hackaday.io/project/20424-pd-buddy-sink)

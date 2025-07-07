@@ -2,7 +2,7 @@
 title: Games History
 description: ""
 created: 2019-06-20
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - games
   - history
@@ -204,7 +204,7 @@ Speed runs usually exploit glitches in game.
 
 ## Consoles
 
-[Nostalgia Nerd - YouTube](https://www.youtube.com/user/nostalgianerdvideos/playlists)
+[Nostalgia Nerd - YouTube](https://www.youtube.com/@Nostalgianerd/playlists)
 [Modern Vintage Gamer - YouTube](https://www.youtube.com/@ModernVintageGamer)
 
 [Retro Station History Part 1: The Early History - Indiegala Blog](https://blog.indiegala.com/index.php/retro-station-history-part-1-the-early-history/)

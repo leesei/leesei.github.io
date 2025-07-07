@@ -2,7 +2,7 @@
 title: Tailwind CSS
 description: Rapidly build modern websites without ever leaving your HTML
 created: 2023-09-01
-updated: 2025-01-09
+updated: 2025-06-18
 tags:
   - css
   - tailwind
@@ -35,6 +35,7 @@ Uses Lightning CSS (Rust compiler and bundler)
 [Tailwind CSS Tutorial for Beginners – How To Start?](https://codete.com/blog/tailwind-css-tutorial-and-examples-for-beginners)
 [Tailwind CSS Tips and Tricks Worth Knowing](https://www.builder.io/blog/tailwind-css-tips-and-tricks)
 [10 Tailwind Classes I Wish I Knew Earlier - YouTube](https://www.youtube.com/watch?v=x1RJ5Q09PqM)
+[Tailwind and the beauty of ugly code](https://boot-and-shoe.vercel.app/posts/skeptics-guide-to-tailwind)
 
 [Tailwind Labs - YouTube](https://www.youtube.com/tailwindlabs)
 [Tailwind CSS is the worst… - YouTube](https://www.youtube.com/watch?v=lHZwlzOUOZ4)
@@ -66,6 +67,8 @@ Uses Lightning CSS (Rust compiler and bundler)
 
 [Thoughts on Tailwind 4](https://nmn.sh/blog/2024-11-30-thoughts-on-tailwind-4) v4 features breaks "atomicity"
 [This new Tailwind feature is scarier than I thought - YouTube](https://www.youtube.com/watch?v=ArSPic3EbCo)
+
+[Is Tailwind really the right default? - YouTube](https://www.youtube.com/watch?v=oL0_PITvFto)
 
 ## Ecosystem
 

@@ -1,7 +1,8 @@
 ---
 title: Nim
-description: "Efficient, expressive, elegant"
+description: Efficient, expressive, elegant
 created: 2023-09-29
+updated: 2025-02-07
 tags:
   - comp/lang
   - nim
@@ -14,7 +15,7 @@ tags:
 [Nim Programming Language](https://nim-lang.org/)
 [Nim Docs](https://nim-lang.org/documentation.html)
 [Nim in 100 Seconds - YouTube](https://www.youtube.com/watch?v=WHyOHQ_GkNo)
-[Nim Programming Language - YouTube](https://www.youtube.com/channel/UCDAYn_VFt0VisL5-1a5Dk7Q)
+[Nim Programming Language - YouTube](https://www.youtube.com/@nimprogramminglanguage3130)
 
 [Nim Manual](https://nim-lang.org/docs/manual.html) pragmas (`{. .}`)
 [Nim Standard Library](https://nim-lang.org/docs/lib.html)

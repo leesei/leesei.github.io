@@ -2,7 +2,7 @@
 title: React Native
 description: Learn once, write anywhere.
 created: 2023-06-10
-updated: 2025-01-09
+updated: 2025-03-31
 tags:
   - app
   - mobile
@@ -191,5 +191,7 @@ Bare Workflow: `expo eject` to manage native Android/iOS project
 
 ## UI Framework
 
-[Tamagui — React Native + Web UI kit](https://tamagui.dev/)
-[tamagui/tamagui: Style React apps fast with 100% parity on React Native, an optional UI kit and optimizing compiler.](https://github.com/tamagui/tamagui)
+[Home | NativeWind](https://www.nativewind.dev/)
+
+[Tamagui](https://tamagui.dev/)
+[tamagui/tamagui: Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.](https://github.com/tamagui/tamagui)

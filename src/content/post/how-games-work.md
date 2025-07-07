@@ -2,7 +2,7 @@
 title: How Games Work
 description: How games mechanics works, game design and how to make games, apart from rendering
 created: 2015-08-31
-updated: 2025-01-09
+updated: 2025-07-06
 tags:
   - game-design
   - games
@@ -14,17 +14,19 @@ tags:
 [How Games Work - YouTube](https://www.youtube.com/playlist?list=PLoJSah60cTP5Hulr9HxLyv-JVXFZycdmw) by TheHappieCat
 [Bitwise - YouTube](https://www.youtube.com/playlist?list=PLwOyKHoDhJIqX_-gO1kiWerehrXMUEVBb) DigiDigger
 
-[Gaming Topics - YouTube - YouTube](https://www.youtube.com/playlist?list=PLJAzFcYKyx4RA6_z6pq3bJlJuENg5kWKV)
-[GamesWithGabe - YouTube](https://www.youtube.com/@GamesWithGabe)
-[Nick Maltbie - YouTube](https://www.youtube.com/@NickMaltbie)
 [Alan Zucconi - YouTube](https://www.youtube.com/@AlanZucconi) Game Development, Artificial Intelligence, Shader Coding & Retrocomputing
+[gameranx - YouTube](https://www.youtube.com/@gameranxTV)
+[GamesWithGabe - YouTube](https://www.youtube.com/@GamesWithGabe)
+[Gaming Topics - YouTube](https://www.youtube.com/playlist?list=PLJAzFcYKyx4RA6_z6pq3bJlJuENg5kWKV)
+[Gamker 攻壳 - YouTube](https://www.youtube.com/channel/UCLgGLSFMZQB8c0WGcwE49Gw)
 [GDC - YouTube](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
 [GDC Vault](https://www.gdcvault.com/)
-[Warbot - YouTube](https://www.youtube.com/channel/UCNOVwMpD-5A1xzcQGbIHNeA)
-[gameranx - YouTube](https://www.youtube.com/@gameranxTV)
-[Gamker 攻壳 - YouTube](https://www.youtube.com/channel/UCLgGLSFMZQB8c0WGcwE49Gw)
+[Nick Maltbie - YouTube](https://www.youtube.com/@NickMaltbie)
 [Outrageous Dong Chai - YouTube](https://www.youtube.com/@LiPuDeDongZai) 離譜的東仔, Hacking into games
+[RnL石葉 - YouTube](https://www.youtube.com/@ysrocky1992)
+[Warbot - YouTube](https://www.youtube.com/channel/UCNOVwMpD-5A1xzcQGbIHNeA)
 [桜井政博のゲーム作るには - YouTube](https://www.youtube.com/@sora_sakurai_jp) 《星之卡比》、《任天堂明星大亂鬥》系列製作人
+[秦无邪OvO - YouTube](https://www.youtube.com/@AibitGames)
 
 [Extra Credits - YouTube](https://www.youtube.com/@extracredits) previously on Extra History channel
 [Extra Credits (ALL EPISODES) - YouTube](https://www.youtube.com/playlist?list=PLB9B0CA00461BB187)

@@ -2,7 +2,7 @@
 title: Container Orchestration
 description: ""
 created: 2014-12-11
-updated: 2025-01-09
+updated: 2025-02-04
 tags:
   - container
   - dev/deploy
@@ -134,6 +134,7 @@ Rancher > Portainer > shipyard
 [justone/dockviz: Visualizing docker data](https://github.com/justone/dockviz)
 
 [jesseduffield/lazydocker: The lazier way to manage everything docker](https://github.com/jesseduffield/lazydocker)
+[This one tool forever changed how I use Docker - YouTube](https://www.youtube.com/watch?v=IUAk1pjXDWM)
 
 ## Dockage
 

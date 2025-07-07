@@ -2,7 +2,7 @@
 title: Unicode
 description: ""
 created: 2015-06-05
-updated: 2025-01-09
+updated: 2025-02-16
 tags:
   - comp/lang
   - emoji
@@ -115,7 +115,7 @@ Allows multiple glyphs for one code point
 [UTF-16 - Wikiwand](http://www.wikiwand.com/en/UTF-16)
 [Surrogates](http://www.wikiwand.com/en/Universal_Character_Set_characters#/Surrogates)
 
-[RFC 3629 - UTF-8, a transformation format of ISO 10646](http://tools.ietf.org/html/rfc3629)
+[RFC 3629 - UTF-8, a transformation format of ISO 10646](https://datatracker.ietf.org/doc/html/rfc3629)
 
 [Byte order mark - Wikiwand](https://www.wikiwand.com/en/Byte_order_mark)
 [FAQ - UTF-8, UTF-16, UTF-32 & BOM](http://www.unicode.org/faq/utf_bom.html#BOM)
@@ -128,7 +128,7 @@ Allows multiple glyphs for one code point
 
 [Punycode - Wikiwand](https://www.wikiwand.com/en/Punycode)
 
-[RFC 3492 - Punycode: A Bootstring encoding of Unicode for Internationalized Domain Names in Applications (IDNA)](https://tools.ietf.org/html/rfc3492)
+[RFC 3492 - Punycode: A Bootstring encoding of Unicode for Internationalized Domain Names in Applications (IDNA)](https://datatracker.ietf.org/doc/html/rfc3492)
 [Punycode converter (IDN converter), Punycode to Unicode 🔧](https://www.punycoder.com/)
 
 [Phishing with Unicode Domains - Xudong Zheng](https://www.xudongz.com/blog/2017/idn-phishing/)

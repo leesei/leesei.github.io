@@ -2,7 +2,7 @@
 title: Displays
 description: ""
 created: 2015-04-02
-updated: 2025-01-09
+updated: 2025-07-05
 tags:
   - comp/hardware
   - lcd
@@ -23,6 +23,7 @@ The term "TFT" only indicates that each pixel is controlled by an independent tr
 [硬核显示技术系列视频 有关显示器 显示技术和屏幕 一切你需要知道的事 - YouTube](https://www.youtube.com/playlist?list=PLqybz7NWybwWcl_s-VLB_tXqbbBww6nbK)
 [【科技杂谈 75】电子世界之门——显示器的发展历史（上） - YouTube](https://www.youtube.com/watch?v=iFDjYxpEXfs)
 [【科技杂谈 76】【究极干货】显示器的历史 History of Display Technology - YouTube](https://www.youtube.com/watch?v=LLJ3BkLEL78)
+[从大头到纸片屏幕，显示器是如何发展至今的？【显示器发展史｜仿生之旅】 - YouTube](https://www.youtube.com/watch?v=nuJpDvl30-Q)
 [Advanced Guide on Interfacing with a Video Display](https://predictabledesigns.com/advanced-guide-on-interfacing-with-a-video-display/)
 
 [Display Calibration 101: Step-By-Step With Datacolor's Spyder4Elite | Tom's Hardware](https://www.tomshardware.com/reviews/spyder4-monitor-calibration-image-quality,3581.html)
@@ -59,24 +60,6 @@ Philips 279C9, 4K, USB-C
 BenQ PD2700U
 Gigabyte G27Q 1440p 144Hz, G-Sync $2899
 
-## 2023 buy
-
-[電視選購資訊(2023電視比較,推介及消委會評測) - 專題 - 香港格價網 Price.com.hk](https://www.price.com.hk/news.php?id=11723&sec_id=11)
-
-[真机实测！从 2000 到 3 万块的显示器，谁更值得买？ | 13 款 Mini LED 显示器消费者报告 - YouTube](https://www.youtube.com/watch?v=j0PlFOgcLLw)
-[【2023年4月】显示器保姆级推荐清单！该怎么买？买那款！你想看的都在这边了！小白避坑专辑，建议收藏！ - YouTube](https://www.youtube.com/watch?v=lgNE796xC8M)
-
-[ROG 電競螢幕 OLED PG42UQ 開箱評測 優缺點｜ Swift PG48UQ、ASUS 顯示器、華碩電競、LG C2、OLED 電視、4K 電視、電腦螢幕、OLED 缺點、PTT 推薦｜科技狗 - YouTube](https://www.youtube.com/watch?v=TmJ2QUlObAw) 48"
-
-[飛利浦電視 OLED707 開箱評測 優缺點心得｜ Android TV、OLED 電視、Philips 電視、LG C2、OLED 螢幕、OLED.EX、PC 螢幕、電視機、螢幕推薦｜科技狗 - YouTube](https://www.youtube.com/watch?v=CG55HvwwONs) 48"-65"
-OLED806 <-> LG G1
-OLED707 <-> LG C2
-OLED706 <-> LG C1
-
-## 2024 buy
-
-[别买错了！花 12 万买遍热门电视，告诉你哪款最值得买 | 2024 电视选购指南 | 小米 雷鸟 海信 TCL 创维 Vidda 酷开 - YouTube](https://www.youtube.com/watch?v=rIak0SPFgRU)
-
 ## Interface
 
 [HDMI vs. DisplayPort vs. DVI vs. VGA: Which connection to choose? - CNET](http://www.cnet.com/news/hdmi-vs-displayport-vs-dvi-vs-vga-which-connection-to-choose/)
@@ -103,6 +86,8 @@ Variable Refresh Rate (VRR)
 Auto Low Latency (ALLM)
 eARC
 Source Based Tone Mapping (reduce latency for HDR)
+[HDMI 2.1 vs. 2.0 vs. 1.4 Explained Simply](https://www.makeuseof.com/hdmi-21-vs-20-vs-14/)
+[HDMI 2.2 Is Here, and I Can't Wait to Upgrade My Devices](https://www.makeuseof.com/what-is-hdmi-2-2-upgrade-devices/)
 
 [HDMI ARC and HDMI eARC: everything you need to know | What Hi-Fi?](https://www.whathifi.com/advice/hdmi-arc-and-hdmi-earc-everything-you-need-to-know)
 [HDMI ARC and eARC: What They Are and Why You Should Care | Digital Trends](https://www.digitaltrends.com/home-theater/hdmi-arc-explained-works-care/)
@@ -167,6 +152,9 @@ P-IPS > H-IPS > S-IPS > AH-IPS > E-IPS
 
 [LCD and TFT Monitor Reviews - TFTCentral](http://www.tftcentral.co.uk/reviews.htm)
 [LCD, LED, Plasma, OLED TVs as Fast As Possible - YouTube](https://www.youtube.com/watch?v=w8ykjdA9g9w)
+[What Is the Difference Between QLED, OLED, and UHD? Which Is Best?](https://www.makeuseof.com/qled-vs-uhd-vs-oled/)
+[What Is Mini LED and Is It Better Than OLED?](https://www.makeuseof.com/is-mini-led-better-than-oled/)
+[Micro-LED vs. MiniLED: What's the Difference, & What Should You Buy?](https://www.makeuseof.com/micro-led-vs-miniled-whats-the-difference/)
 
 硬件茶谈
 [【硬件科普】全网最简洁易懂的 OLED 与 LCD 屏幕工作原理与优劣科普 - YouTube](https://www.youtube.com/watch?v=gZriQjtABCk)
@@ -216,6 +204,7 @@ Samsung takes the lead, but Chinese companies are also producing QLED displays
 
 [QLED vs OLED - Which Is Best? [Simple Guide] - DisplayNinja](https://www.displayninja.com/qled-vs-oled/)
 [QLED vs. OLED vs. LED: Which Should You Buy?](https://www.makeuseof.com/qled-vs-led-vs-oled-what-is-the-difference/)
+[QNED vs. OLED vs. QLED: What Is the Difference and Which Is Best?](https://www.makeuseof.com/qned-vs-oled-vs-qled-what-is-the-difference-and-which-is-best/)
 [The 4 Reasons I Always Buy a QLED TV (and You Should Too)](https://www.makeuseof.com/reasons-always-buy-qled-tv/) QLED is brighter than OLED
 [QLED 螢幕顏色真的比較漂亮？可以做為量子電腦材料的量子點，為什麼能自由調控物理特性？｜量子熊 ✕ 泛科學 EP7 - YouTube](https://www.youtube.com/watch?v=IqAgG6JSeaw)
 [The Future of TVs is NOT What You Think! - YouTube](https://www.youtube.com/watch?v=RTTiQeXXrhI) 2020-05, vs MicroOLED
@@ -242,6 +231,7 @@ Each pixel has its own mini LED as backlight, producing a panel like OLED that a
 Halo effect for small object since blocks of mini LED are turned on together
 [Mini LED 决战 OLED ？华为 2880 分区电视 V75 Super 评测 - YouTube](https://www.youtube.com/watch?v=tbYm0s47CwY)
 [I REALLY Wanted to Try This... - YouTube](https://www.youtube.com/watch?v=jM-ED97_vKo) Quantum dot + Mini LED, can reach 1000nit
+[中国首次量产？揭秘全世界首台三色 Mini LED 电视 100UX - YouTube](https://www.youtube.com/watch?v=hMwQWZnLGqY)
 
 ### MicroLED
 
@@ -259,6 +249,7 @@ Both Mini LED and OLED are transitional technologies
 [MicroLED - Will It Replace OLED? - YouTube](https://www.youtube.com/watch?v=_BkXWi9gKKM) OLED pixels (with its carbon based structure) will deteriorate over time, MicroLED uses the same principle (one LED for each color) and eliminates the drawbacks of LCD and OLED; this is when Mini LED solutions reduces the region size to 1 LED
 There is limits on how small a MicroLED could be made (in 2022), so MicroLED is only seen on huge screens
 
+[led为什么会发光？Micro-LED还有未来吗？为什么我们需要RGB-LED三色显示技术？ - YouTube](https://www.youtube.com/watch?v=Te8pljjpWFU)
 [MicroLED为什么遥遥无期？“巨量转移”技术为何难量产？一条视频给你详细讲清楚 - YouTube](https://www.youtube.com/watch?v=1_jDwReh2TM) Mass Transfer is the bottleneck for MicroLED
 
 ## Laser Projector
@@ -284,6 +275,7 @@ There is limits on how small a MicroLED could be made (in 2022), so MicroLED is 
 [The Cheapest HDR Monitor vs the BEST - YouTube](https://www.youtube.com/watch?v=0srgPxK-WhQ)
 [影视飓风为什么不常做HDR？ - YouTube](https://www.youtube.com/watch?v=pnieqcqg3vQ)
 
+[Not All HDR Is Equal: Here’s What Budget Buyers Need to Know](https://www.makeuseof.com/hdr-explained-what-budget-buyers-need-to-know/)
 [What Is HDR10+? Everything to Know About the HDR Format](https://www.makeuseof.com/what-is-hdr10-plus/)
 HDR600, HDR1000 certification is useful
 Local dimming prevents clipping in bright areas
@@ -295,6 +287,8 @@ Cheap HDR is worst than SDR
 [HDR and color management in KWin - Planet KDE](https://planet.kde.org/xavers-blog-2023-05-18-hdr-and-color-management-in-kwin/)
 
 [HDR is a SCAM! feat. LG OLED GX 77 - YouTube](https://www.youtube.com/watch?v=fx-pfuszquk)
+[Your Phone's HDR Might Be Useless—Mine Was](https://www.makeuseof.com/phone-camera-hdr-useless/)
+[iPhone亮瞎眼，安卓一团灰，都是HDR照片，为啥差别这么大？ - YouTube](https://www.youtube.com/watch?v=dfVN3FkG1G4)
 
 [The Expanding Gamut of Color on the Web | CSS-Tricks](https://css-tricks.com/the-expanding-gamut-of-color-on-the-web/)
 
@@ -350,9 +344,8 @@ LTPO: oxide layer on LTPS (backplane for circuitry), reduce refresh frequency to
 
 [How Analog Color TV Works: The Beginnings - YouTube](https://www.youtube.com/watch?v=dX649lnKAU0)
 [Lines of Light: How Analog Television Works - YouTube](https://www.youtube.com/watch?v=l4UgZBs7ZGo)
+[暴打4K屏，CRT显示器玩老游戏居然显示效果更好？【柴知道】 - YouTube](https://www.youtube.com/watch?v=yVk3WlnVRTc)
 [Compatible Color: The Ultimate Three-For-One Special - YouTube](https://www.youtube.com/watch?v=InrDRGTPqnE) how NTSC creates color image compatible to black and white TV
-
-[OnePlus 6 Display Analysis: Differences to expect from the OnePlus 5T](https://www.xda-developers.com/oneplus-6-display-analysis-compared-oneplus-5t/)
 
 ## E Ink
 
@@ -383,7 +376,7 @@ LTPO: oxide layer on LTPS (backplane for circuitry), reduce refresh frequency to
 [PC Monitors | Expert Advice on Computer Monitors](https://pcmonitors.info/)
 [DisplayNinja | Monitor Reviews, Recommendations & Guides](https://www.displayninja.com/)
 [Monitor Reviews - YouTube](https://www.youtube.com/playlist?list=PL7m5C6_P_lnXb9cHwdo0Ct1TTZ7KUwm3e) Hardware Unboxed
-[小雪人数码 - YouTube](https://www.youtube.com/channel/UCSpFRxeEpg2qi6p-ZPRDR6w/videos)
+[小雪人数码 - YouTube](https://www.youtube.com/@小雪人评测)
 [好牛数码的个人空间\_哔哩哔哩\_bilibili](https://space.bilibili.com/447408756)
 
 [DisplayCAL—Display Calibration and Characterization powered by ArgyllCMS](https://displaycal.net/)

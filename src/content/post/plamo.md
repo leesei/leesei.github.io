@@ -2,7 +2,7 @@
 title: Plamo
 description: ""
 created: 2017-04-25
-updated: 2025-01-09
+updated: 2025-02-16
 tags:
   - toys
 ---
@@ -23,22 +23,22 @@ tags:
 [Figurines database - My Anime Shelf](https://www.shelf.moe/figures/)
 [谢双超 - YouTube](https://www.youtube.com/channel/UC-BTcj5YbvKnR_uBUGhrA4w)
 [Mecha Gaikotsu - YouTube](https://www.youtube.com/channel/UCowMgqWFV83mFHLKo32_O4w)
-[ZakuAurelius - YouTube](https://www.youtube.com/channel/UCAgGBehH9xUCSuGvbatgVzg) [OOB Reviews](https://www.youtube.com/user/ZakuAurelius/search?query=OOB%20Review) review with sticker locations, articulations
+[ZakuAurelius - YouTube](https://www.youtube.com/channel/UCAgGBehH9xUCSuGvbatgVzg) [OOB Reviews](https://www.youtube.com/user/ZakuAurelius/search?query=OOB%20Review) review with sticker locations, articulation
 
 [R-Team - YouTube](https://www.youtube.com/channel/UCAxtVPkcfG47XIgCt9h0lPQ) review with background info and painting guide
 [鋼普拉 - YouTube](https://www.youtube.com/playlist?list=PLJjPncmYl_uVEuIwbJ4DA8xq6wJNqgiKV)
 [普拉模 - YouTube](https://www.youtube.com/playlist?list=PLJjPncmYl_uVbHsaEClZNJE0FOsmaOT9Y)
-[NYC HOBBY - YouTube](https://www.youtube.com/channel/UCJBo4LLhadi2ziZ4Xjen8Gw)
 [NYC HOBBY // 模型 // 教學 // 速報 - YouTube](https://www.youtube.com/@NYCHOBBY)
+[Fabi 法比 - YouTube](https://www.youtube.com/@littlefabi)
 
 [Best Gunpla of the Decade! - YouTube](https://www.youtube.com/watch?v=jJg22wmllCE)
 
 [鋼彈全系列產品 一口氣看完【阿蛋哥】 - YouTube](https://www.youtube.com/watch?v=XK5G-MbVUEY)
 [What is the Difference between the Grades of Gundams - SDEX Real RG, Perfect PG, High HG, NG, Master MG & RE/100 Grade - Gundam Toys Shop](http://www.gundamtoyshop.com/gundamts-news/what-is-the-difference-between-the-grades-of-gundams-rg-pg-hguc-mg)
 
-[Master Grade | The Gundam Wiki | Fandom powered by Wikia](http://gundam.fandom.com/wiki/Master_Grade)
-[Real Grade | The Gundam Wiki | Fandom powered by Wikia](http://gundam.fandom.com/wiki/Real_Grade)
-[Perfect Grade | The Gundam Wiki | Fandom powered by Wikia](http://gundam.fandom.com/wiki/Perfect_Grade)
+[Master Grade | The Gundam Wiki | Fandom](http://gundam.fandom.com/wiki/Master_Grade)
+[Real Grade | The Gundam Wiki | Fandom](http://gundam.fandom.com/wiki/Real_Grade)
+[Perfect Grade | The Gundam Wiki | Fandom](http://gundam.fandom.com/wiki/Perfect_Grade)
 
 [Figurines database - My Anime Shelf](https://www.shelf.moe/figures/)
 [달롱이의 건플라 리뷰](http://www.dalong.net/)
@@ -512,6 +512,11 @@ White primer for metallic gold; Black primer for metallic silver
 [AV 水性油手油細節簡單教學](https://www.youtube.com/watch?v=wCoi3oA8wf4)
 [模型教室：水性漆筆塗入門篇 | 教您如何用 AV/MIG 等水性漆筆塗鋼彈！ - YouTube](https://www.youtube.com/watch?v=jGW9N3jfQX0)
 
+[水性漆](https://www.lmodel.hk/categories/%E6%B0%B4%E6%80%A7%E6%BC%86)
+[【 九五二漆 水性油 筆塗全攻略 】 高達模型 水性油筆塗 // 突擊自由極 金色骨 // 筆塗消光 // 新手都做到 // L-MODEL 贊助 ( CC 中文字幕 ) - YouTube](https://www.youtube.com/watch?v=6WRCYKvgH8Y)
+[超詳細實測「九五二漆」4款筆塗專用水性底灰！！6大準則決定是否性價比最強選擇！？【模型師之旅 4】 #gundam #gunpla #bandai #高達 #模型 - YouTube](https://www.youtube.com/watch?v=IKzlW7XJoF8) 九五二漆
+[6大準則實測酋長大陸水性底灰！！新手筆塗的福音！？【模型師之旅 3】 #gundam #gunpla #bandai #高達 #模型 - YouTube](https://www.youtube.com/watch?v=E_zlku6yGZo) 酋長大陸
+
 [【RAY】最简单的补色方法，别说你学不会！第七期，高达马克笔补色技巧【RAY 的高达模型课堂】 - YouTube](https://www.youtube.com/watch?v=4NhmAF2MSnw)
 
 [Gundam/ mech model workshop 85: Mr. masking sol neo review - YouTube](https://www.youtube.com/watch?v=e5OOWICphv8)
@@ -626,12 +631,11 @@ Note oil base methods will dilute your paints so apply lacquer coating before pa
    Acutally we can use what we found in stationary stores for panel lining
    It's better to use 0.10mm or 0.05mm panel line pens for 1/144 models
    There are several alternative for hard tip pens:
-
-- 郡士's GM01-03 0.3mm (also marketed as Gundam markers) (oil base)
-- Sakura Micron 0.20mm and 0.05mm (water base)
-- Potentate 0.05mm (water base)
-  Sakura and Potentate take a bit more time to dry compared with GM0X
-  郡士 also has a water base brush GM20-21 series
+   - 郡士's GM01-03 0.3mm (also marketed as Gundam markers) (oil base)
+   - Sakura Micron 0.20mm and 0.05mm (water base)
+   - Potentate 0.05mm (water base)
+     Sakura and Potentate take a bit more time to dry compared with GM0X
+     郡士 also has a water base brush GM20-21 series
 
 2. water base marker
    Use the small end of GM40X series on the panel lines and wipe off the excess

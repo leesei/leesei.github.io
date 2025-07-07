@@ -2,7 +2,7 @@
 title: Learning
 description: ""
 created: 2018-07-10
-updated: 2025-01-09
+updated: 2025-04-14
 tags:
   - learning
 featured: true
@@ -274,7 +274,7 @@ For video contents use [Video Speed Controller](https://chromewebstore.google.co
 
 [Squirt](http://www.squirt.io/)
 
-[olegcherr/Reedy-for-Chrome: Read all you want faster with Reedy for Google Chrome!](https://github.com/olegcherr/Reedy-for-Chrome)
+[olegcherr/Reedy-for-Chrome: Read all you want faster with Reedy for Google Chrome!](https://github.com/olegcherr/Reedy-for-Chrome) not associated with the Chrome extension anymore
 
 [Miserlou/Glance: Good reads, extremely fucking fast.](https://github.com/Miserlou/Glance) [Android](https://play.google.com/store/apps/details?id=pro.dbro.glance) OSS Sprintz
 [Spreeder | Free online speed reading software](http://www.spreeder.com/) primitive

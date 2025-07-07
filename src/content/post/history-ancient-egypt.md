@@ -2,7 +2,7 @@
 title: Ancient Egypt History
 description: ""
 created: 2015-10-09
-updated: 2025-01-09
+updated: 2025-06-26
 tags:
   - history
   - history/egypt
@@ -18,6 +18,7 @@ tags:
 
 [TICE ART 1010 Ancient Near Eastern and Ancient Egyptian Art - YouTube](https://www.youtube.com/watch?v=A_8yPgC9zQc)
 [Ancient Egypt: Crash Course World History #4 - YouTube](https://www.youtube.com/watch?v=Z3Wvw6BivVI)
+[知識量超大！一口氣看完古埃及歷史：法老們的戰爭！金字塔、木乃伊、埃及豔后的古老之謎… | 床台 - YouTube](https://www.youtube.com/watch?v=i3UA3D5zvC8)
 [古埃及歷史|動畫科普|古埃及簡史|古埃及文明|古埃及法老|法老|拉美西斯二世|埃及艷后|極簡古埃及歷史|古埃及有多少個王朝|古埃及金字塔|金字塔|圖坦卡門|法老|古埃及怎麼滅亡的|古埃及托勒密王朝 - YouTube](https://www.youtube.com/watch?v=V_7fN_rQPwA)
 [埃及史合集，古埃及歷史全集，從第 0 王朝到托勒密時代，埃及史，埃及法老，圖特卡蒙，拉美西斯二世，奈菲爾提提，奈菲爾塔麗，埃及古王國時期，埃及中王國時期，埃及晚王國時期，古埃及通史，古埃及全部法老 - YouTube](https://www.youtube.com/watch?v=riF3QWYXMCM)
 [Ancient Egypt - YouTube](https://www.youtube.com/playlist?list=PLxZAPogJjW_hMmgHQfARTmixxolQ9eg7g)

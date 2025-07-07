@@ -2,7 +2,7 @@
 title: Science
 description: ""
 created: 2019-08-09
-updated: 2025-01-09
+updated: 2025-05-26
 tags:
   - science
 ---
@@ -27,7 +27,10 @@ tags:
 
 [New physics or not? I'll sort it out for you. - YouTube](https://www.youtube.com/watch?v=AZgyFghqkHg)
 
-[The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
+[The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/) explains light as wave
+[Richard Feynman's Lectures - YouTube](https://www.youtube.com/@richardfeynmanslectures9531)
+[153980862 QED The Strange Theory Of Light And Matter( 1) : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/153980862-qed-the-strange-theory-of-light-and-matter-1/mode/2up) explains light as particle
+
 [Bad Science](https://www.badscience.net/)
 
 [ViaScience - YouTube](https://www.youtube.com/@viascience) sciency
@@ -68,7 +71,7 @@ tags:
 [Science Made Simple: What Is the Standard Model of Particle Physics?](https://scitechdaily.com/science-made-simple-what-is-the-standard-model-of-particle-physics/)
 Quantum Field Theory, unifies strong, weak, and EM forces; compatible with Quantum Mechanics and Special Relativity
 
-[The Map of Particle Physics | The Standard Model Explained - YouTube](https://www.youtube.com/watch?v=mYcLuWHzfmE)
+[The Map of Particle Physics | The Standard Model Explained - YouTube](https://www.youtube.com/watch?v=mYcLuWHzfmE) Domain of Science
 [A New Map of All the Particles and Forces | Quanta Magazine](https://www.quantamagazine.org/a-new-map-of-the-standard-model-of-particle-physics-20201022/)
 
 [What's Going Wrong in Particle Physics? (This is why I lost faith in science.) - YouTube](https://www.youtube.com/watch?v=lu4mH3Hmw2o)
@@ -290,6 +293,8 @@ Weak force has handiness
 
 [【硬核科普】高中所学的折射现象真的有那么简单吗？为什么光会折射？折射的本质到底是什么？13分钟以量子电动力学的角度带你重新认识折射的机制。（2/3） - YouTube](https://www.youtube.com/watch?v=-vM8kg7V5LQ)
 
+[【毕导】在这个简单的问题上，你学的教材可能一直是错的！#科普 #物理 #实验 #抖音精选 - YouTube](https://www.youtube.com/watch?v=mJR0yZe2pZ0)
+
 ### Polarization
 
 [Why Sugar Always Twists Light To The Right - Optical Rotation - YouTube](https://www.youtube.com/watch?v=975r9a7FMqc)
@@ -328,6 +333,7 @@ Weak force has handiness
 科學漫聊
 [光速到底是怎么回事，光速不变会推出什么奇怪的结论？ - YouTube](https://www.youtube.com/watch?v=Xp3dQryAmaU)
 [光速為什麽不變？ - YouTube](https://www.youtube.com/watch?v=p8t8Lw_zkW4)
+[反重力裝置真的做得出來？靠近黑洞真的能讓時間變慢？一次看懂愛因斯坦廣義相對論！時間與空間到底為何會互相影響？｜量子熊 ✕ 泛科學 EP15 - YouTube](https://www.youtube.com/watch?v=bem5CpdxCtE)
 
 雅桑了嗎
 [8 分鐘讀懂狹義相對論！時間變慢、長度變短、質量變重、E=mc² 一次性全搞明白 | 雅桑了嗎 - YouTube](https://www.youtube.com/watch?v=wspDAnUrHTA)
@@ -362,8 +368,15 @@ Weak force has handiness
 [Quantum mechanics - Wikiwand](https://www.wikiwand.com/en/Quantum_mechanics)
 [Quantum Mechanics - YouTube](https://www.youtube.com/playlist?list=PL0E2ABD1D84697428) minutephysics
 [Quantum Mechanics - YouTube](https://www.youtube.com/playlist?list=PLsPUh22kYmNCGaVGuGfKfJl-6RdHiCjo1) PBS Space Time
+
 [【量子物理 入门】 - YouTube](https://www.youtube.com/playlist?list=PLg45KLfneaCTEP239hD6WhBd4xQ222GTn) 青蛙刀圣 1993
-[一小時略懂量子力學｜雙狹縫干涉、黑體輻射、薛丁格的貓、光電效應、物質波、量子意識、多重宇宙 - YouTube](https://www.youtube.com/watch?v=IltoID66BV0)
+[一小時略懂量子力學｜雙狹縫干涉、黑體輻射、薛丁格的貓、光電效應、物質波、量子意識、多重宇宙 - YouTube](https://www.youtube.com/watch?v=IltoID66BV0) PanSci
+[（已完结）【俗說量子】 - YouTube](https://www.youtube.com/playlist?list=PLd-GBkH4nB9liMqQBq3XqRMmAd0J8fEVN) Linvo說宇宙
+
+Looking Glass Universe
+[Quantum mechanics course - YouTube](https://www.youtube.com/playlist?list=PLg-OiIIbfPj1t7zYsf6aj7wrGb9fghFDk)  
+[Some Quantum Mechanics - YouTube](https://www.youtube.com/playlist?list=PLg-OiIIbfPj2aXCoQkrVA3CwUGLDgKZBQ)
+[Quantum Mechanics (all the videos) - YouTube](https://www.youtube.com/playlist?list=PLg-OiIIbfPj3JrdQgqkdlPe_jxRC0mw35)
 
 [Uncertainty principle - Wikiwand](https://www.wikiwand.com/en/Uncertainty_principle)
 [The Heisenberg Uncertainty Principle Explained Intuitively - YouTube](https://www.youtube.com/watch?v=qwt6wUUD2QI)
@@ -411,6 +424,7 @@ PBS Space Time
 [Quantum Darwinism may solve the question of whether God plays dice or not](https://thenextweb.com/insights/2019/07/30/quantum-darwinism-may-solve-the-question-of-whether-god-plays-dice-or-not/amp/)
 [The Many-Worlds Theory, Explained | The MIT Press Reader](https://thereader.mitpress.mit.edu/the-many-worlds-theory/)
 [Does the Many Worlds Interpretation make sense? - YouTube](https://www.youtube.com/watch?v=433tAfO4dbA)
+[Something Strange Happens When You Trust Quantum Mechanics - YouTube](https://www.youtube.com/watch?v=qJZ1Ez28C-A) principle of least action to explain how quantum world transit to classical world
 
 [Quantum observers with knowledge of quantum mechanics break reality – Ars Technica](https://arstechnica.com/science/2018/09/quantum-observers-with-knowledge-of-quantum-mechanics-break-reality/amp/)
 
@@ -466,8 +480,11 @@ Looking Glass Universe
 [Dr. Quantum Double Slit - YouTube](https://www.youtube.com/watch?v=rQJ4yX1l6to)
 [Dr. Quantum and the Double Slit Experiment on Vimeo](https://vimeo.com/109295025)
 [Double Slit Experiment explained! by Jim Al-Khalili - YouTube](https://www.youtube.com/watch?v=A9tKncAdlHQ)
+[The biggest lie about the double slit experiment - YouTube](https://www.youtube.com/watch?v=fbzHNBT0nl0)
+[Astrophysicists Try to Resolve the Wave-Particle Duality - YouTube](https://www.youtube.com/watch?v=L9ub_B71U0E)
 
 [【Fun 科學】真．量子穿隧(親眼見証人類無法看懂的現象!!) - YouTube](https://www.youtube.com/watch?v=TfN_a3Qvp0w)
+[【光的真相曝光】暗光子理論顛覆量子物理學百年共識！｜Dark Photon Theory Overturns A Century-Old Consensus In Quantum Physics! - YouTube](https://www.youtube.com/watch?v=PEAxrxEo2pA)
 
 [讓物理學界變瘋的進度條，人類迄今為之最恐怖的理論 雙縫實驗 | 雅桑了嗎 - YouTube](https://www.youtube.com/watch?v=LyezYrcl-Jc)
 [你敢挑戰 140 智商嗎？惠勒延遲選擇實驗中量子如何改寫過去 | 雅桑了嗎 - YouTube](https://www.youtube.com/watch?v=CgCaWc3jxik)

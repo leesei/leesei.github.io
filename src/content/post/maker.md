@@ -2,7 +2,7 @@
 title: Maker
 description: ""
 created: 2018-10-16
-updated: 2025-01-09
+updated: 2025-07-06
 tags:
   - maker
 ---
@@ -25,8 +25,12 @@ tags:
 [小芊枫 XiaoQianFeng - YouTube](https://www.youtube.com/@Xiaoqianfeng)
 [老师好我叫何同学 - YouTube](https://www.youtube.com/@hetongxue)
 [黃小潔Jerry - YouTube](https://www.youtube.com/@1129jerry)
+[Playful Technology - YouTube](https://www.youtube.com/@PlayfulTechnology) escape room
+[CrunchLabs - YouTube](https://www.youtube.com/@CrunchLabs) by Mark Rober
 
 [17,342 pounds of tools to make... this? - YouTube](https://www.youtube.com/watch?v=SjJulcvTA7Y&t=62s)
+
+[I weighed an airplane... while it was flying! - YouTube](https://www.youtube.com/watch?v=hnvtstq3ztI) building very sensitive scale
 
 [Things you can make from old, dead laptops - YouTube](https://www.youtube.com/watch?v=WLP_L7Mgz6M)
 [Transforming dead earbuds into POWERFUL wireless speakers - YouTube](https://www.youtube.com/watch?v=zNHDbXAmY_0)
@@ -34,9 +38,12 @@ tags:
 [Old pinball machines are amazingly complex - YouTube](https://www.youtube.com/watch?v=ue-1JoJQaEg) pre-digital, electro-mechanical device
 [Tilting, taking turns, and winning free games: the many tricks inside old pinball machines - YouTube](https://www.youtube.com/watch?v=XeDCCNFAULk)
 
+## Super Glue
+
 [胡搞蝦搞 | 704 卡夫特 矽橡膠 使用 經驗 應用 分享 DIY - YouTube](https://www.youtube.com/watch?v=rDDcJQGJLEI)
 [三秒膠黏到手自救法 快乾有毒你怎麼還在用？【超認真少年】LOCTITE 401 SUPER GLUE - YouTube](https://www.youtube.com/watch?v=oLcHF37QqIQ)
 [木工鐵工塑膠都能黏 瞬間膠的 6 種特別使用方法【超認真少年】Loctite Superglue and Glue Accelerators - YouTube](https://www.youtube.com/watch?v=aakU0PKIzz4) 401, 420, 454
+[Why Super Glue Is Perfect For Gluing Skin - YouTube](https://www.youtube.com/watch?v=Ni82f1-cAXg)
 
 ## Moldable Glue
 
@@ -92,9 +99,13 @@ Clay like when opened, rubber like after one day.
 
 [gcode viewer - online gcode viewer and analyzer in your browser!](http://gcode.ws/)
 
+[该入坑了！普通人也可以买3D打印机！ - YouTube](https://www.youtube.com/watch?v=8B--BVKKJLo)
+[2025年，最强家用3D打印机能做什么？ - YouTube](https://www.youtube.com/watch?v=v7SAYdWRRVE)
+
 [【硬件科普】什么是 3D 打印，3D 打印有哪些种类，优劣分别是什么？ - YouTube](https://www.youtube.com/watch?v=YqY6BbhkbGA)
 [『3D 列印小潔堂』 - YouTube](https://www.youtube.com/playlist?list=PLtVJQPo_KE7vad_4nNTLlioaU94RN0023)
 [Introduction to 3D Printing - YouTube](https://www.youtube.com/playlist?list=PLL3HlcMqxH5LmXMFLifsk031FZhVaL5np)
+[公司用上3D打印之后... - YouTube](https://www.youtube.com/watch?v=3ju-CFrZLs8)
 
 [3D Printer Calibration Method I Can't Live Without - YouTube](https://www.youtube.com/watch?v=dbWAhb40kG4)
 [[3D 列印 EP07]每個月都會發生幾次? 堵料? 出料不順終結者 教你輕鬆讓 3D 列印機乖的像小貓(上集/初心者篇) - YouTube](https://www.youtube.com/watch?v=x-BnrgAzZwU)

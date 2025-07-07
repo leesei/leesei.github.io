@@ -2,7 +2,7 @@
 title: Browser automation
 description: Automates browser, for web scraping and testing
 created: 2017-11-20
-updated: 2025-01-09
+updated: 2025-06-28
 tags:
   - automation
   - web
@@ -46,6 +46,14 @@ task runner for browser tests:
 [Introducing fuite: a tool for finding memory leaks in web apps | Read the Tea Leaves](https://nolanlawson.com/2021/12/17/introducing-fuite-a-tool-for-finding-memory-leaks-in-web-apps/)
 [nolanlawson/fuite: A tool for finding memory leaks in web apps](https://github.com/nolanlawson/fuite)
 
+## Bot Detection
+
+`window['navigator']['webdriver']` will return `true` on most headless browsers and it is used to detect bots.
+Inject init script to circumvent this: `delete Object.getPrototypeOf(navigator).webdriver`
+
+[Antibot](https://bot.sannysoft.com/)
+[java - Selenium webdriver: Modifying navigator.webdriver flag to prevent selenium detection - Stack Overflow](https://stackoverflow.com/questions/53039551/selenium-webdriver-modifying-navigator-webdriver-flag-to-prevent-selenium-detec)
+
 ## Selenium
 
 [Selenium - Web Browser Automation](http://www.seleniumhq.org/)
@@ -75,8 +83,8 @@ task runner for browser tests:
 
 ## Headless Chrome
 
-[Learn Playwright & Puppeteer | Checkly](https://www.checklyhq.com/learn/headless/) originally theheadless.dev
-[checkly/theheadless.dev: 🪖 Learn Puppeteer and Playwright - Tips, tricks and in-depth guides from the trenches.](https://github.com/checkly/theheadless.dev) 😴inactive
+[Learn How to Test, Monitor, and Automate with Playwright](https://www.checklyhq.com/learn/playwright/) originally theheadless.dev
+[checkly/theheadless.dev: 🪖 Learn Puppeteer and Playwright - Tips, tricks and in-depth guides from the trenches.](https://github.com/checkly/theheadless.dev) 🗃️archived, old site
 
 [Getting Started with Headless Chrome - Chrome Developers](https://developer.chrome.com/blog/headless-chrome/)
 [Chrome’s Headless mode gets an upgrade: introducing `--headless=new` - Chrome Developers](https://developer.chrome.com/articles/new-headless/) ❗!important
@@ -141,7 +149,9 @@ const browser = await puppeteer.launch({
   headless: false,
   slowMo: 250, //ms
 });
+```
 
+```js
 const page = await browser.newPage();
 await page.setRequestInterception(true);
 // intercept requests
@@ -176,18 +186,41 @@ page.on("response", (response) => {
 > binding in Node.js, Python, Java, .NET
 
 [Fast and reliable end-to-end testing for modern web apps | Playwright](https://playwright.dev/)
+[Fast and reliable end-to-end testing for modern web apps | Playwright Python](https://playwright.dev/python/)
 
-[microsoft/playwright: Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.](https://github.com/microsoft/playwright)
-[microsoft/playwright-dotnet: .NET version of the Playwright testing and automation library.](https://github.com/microsoft/playwright-dotnet)
+[microsoft/playwright: Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.](https://github.com/microsoft/playwright) Javascript
+[microsoft/playwright-python: Python version of the Playwright testing and automation library.](https://github.com/microsoft/playwright-python) Python
 
-[nearform/playwright-setup: Barebones playwright testing framework](https://github.com/nearform/playwright-setup)
+[Playwright - YouTube](https://www.youtube.com/playlist?list=PLjHVyq6aPCTMZqcTBw4c-VDRSIk6Dkmbt)
 
 [Mastering Web Scraping in Python: Avoid Blocking Like a Ninja - ZenRows](https://www.zenrows.com/blog/stealth-web-scraping-in-python-avoid-blocking-like-a-ninja)
 
 [Crawlee · Build reliable crawlers. Fast. | Crawlee](https://crawlee.dev/)
 [apify/crawlee: Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.](https://github.com/apify/crawlee)
 
+[Request interception with Puppeteer and Playwright - DEV Community](https://dev.to/checkly/request-interception-with-puppeteer-and-playwright-1503)
+
+### Codegen
+
+[Test generator | Playwright](https://playwright.dev/docs/codegen)
+
+### Koan
+
+[microsoft/playwright-examples](https://github.com/microsoft/playwright-examples)
+
+```js
+// evaluate all available links
+const as = await page.locator("a").all();
+// wait for all the getAttribute() calls to resolve
+const links = await Promise.all(
+  // extract the `href` attribute
+  as.map((a) => a.getAttribute("href")),
+);
+```
+
 ## Python
+
+[Python’s Most Banned Scripts: Getting You Blacklisted? - DEV Community](https://dev.to/snappytuts/pythons-most-banned-scripts-getting-you-blacklisted-55n4)
 
 [Image Scraping with Python - Towards Data Science](https://towardsdatascience.com/image-scraping-with-python-a96feda8af2d)
 [reanalytics-databoutique/webscraping-open-project: Repository of open knowledge about web scraping in Python](https://github.com/reanalytics-databoutique/webscraping-open-project)
@@ -276,3 +309,11 @@ page.on("response", (response) => {
 
 [Capybara](http://teamcapybara.github.io/capybara/) [source](https://github.com/teamcapybara/capybara) Ruby, multiple drivers
 [Capybara and Selenium for Testing and Scraping - via @codeship | via @codeship](https://blog.codeship.com/capybara-selenium-testing/)
+
+## AI Web Scraping
+
+[Python AI Web Scraper Tutorial - Use AI To Scrape ANYTHING - YouTube](https://www.youtube.com/watch?v=Oo8-nEuDBkk) Llama 3
+[“Wait, this Agent can Scrape ANYTHING?!” - Build universal web scraping agent - YouTube](https://www.youtube.com/watch?v=dSX5eoD4-u4)
+
+[Firecrawl](https://www.firecrawl.dev/)
+[firecrawl/SELF_HOST.md at main · mendableai/firecrawl](https://github.com/mendableai/firecrawl/blob/main/SELF_HOST.md)

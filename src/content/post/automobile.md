@@ -2,7 +2,7 @@
 title: Automobile
 description: ""
 created: 2020-05-27
-updated: 2025-01-09
+updated: 2025-05-28
 tags:
   - transportation
 ---
@@ -97,7 +97,7 @@ Powersliding after the apex
 
 ## YouTube Channels
 
-[Big Car - YouTube](https://www.youtube.com/bigCar2)
+[Big Car - YouTube](https://www.youtube.com/@BigCar2)
 [Doug DeMuro - YouTube](https://www.youtube.com/@DougDeMuro) exotic cars review
 [Jay Leno's Garage - YouTube](https://www.youtube.com/@jaylenosgarag)
 [Donut Media - YouTube](https://www.youtube.com/@Donut)
@@ -108,6 +108,7 @@ Powersliding after the apex
 [ISSIMI Official - YouTube](https://www.youtube.com/@ISSIMIOfficial) cars reviews
 [REV Channel - YouTube](https://www.youtube.com/@REVChannelhk)
 [11磅小老虎 - YouTube](https://www.youtube.com/@11bang)
+[TalksWithNoise - YouTube](https://www.youtube.com/@TalksWithNoise)
 
 [Automobile Engineering - YouTube](https://www.youtube.com/playlist?list=PLuUdFsbOK_8rJsh_osoqVKfIRUkb8-rOg)
 [Automotive Engineering - YouTube](https://www.youtube.com/playlist?list=PLpw4kOpfNU9bTCpLAf2mM-SpjpcKpnnPu)
@@ -207,6 +208,7 @@ Hybrid Electric Vehicle (HEV) 油電混動: 非插電式混動
 [缝合怪还是割韭菜？10分钟带你彻底搞懂混动技术！](https://www.youtube.com/watch?v=5tOwLlryaUU)
 
 [硬核讲解电动车快充（快充的原理和危害，特斯拉为什么没有 800V 快充）【电动车】【快充】 - YouTube](https://www.youtube.com/watch?v=rK6MbJzylDk)
+[This Chinese Battery Breakthrough Just Killed the Gas Station - YouTube](https://www.youtube.com/watch?v=wW0a4x52H_o)
 
 [#驱动技术](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=2402216471663116289)
 
@@ -245,6 +247,8 @@ Technology Connections
 [Self-Driving Engineering with George Hotz - Software Engineering Daily](https://softwareengineeringdaily.com/2018/08/08/self-driving-engineering-with-george-hotz/)
 [commaai/opendbc: democratize access to car decoder rings](https://github.com/commaai/opendbc)
 
+[Can You Fool A Self Driving Car? - YouTube](https://www.youtube.com/watch?v=IQJL3htsDyQ) LiDAR vs optical camera
+
 [烧光 131 亿，被王传福痛骂的“吸血鬼”，原形毕露-36 氪](https://36kr.com/p/2244679707324549)
 
 ## Automobile Systems
@@ -265,6 +269,7 @@ Scalable Open Architecture for Embedded Edge
 [The CAN Bus Protocol - Kvaser](https://www.kvaser.com/about-can/the-can-protocol/)
 [Introduction to CAN (Controller Area Network) - Technical Articles](https://www.allaboutcircuits.com/technical-articles/introduction-to-can-controller-area-network/)
 [What is the CoAP Communication Protocol? - Documents - Tech Connection - element14 Community](https://community.element14.com/learn/learning-center/the-tech-connection/w/documents/3831/what-is-the-coap-communication-protocol)
+[【硬件科普】什么是汽车的电子电气架构，中央域控架构能为消费者带来什么？ - YouTube](https://www.youtube.com/watch?v=K2lY3btGZko)
 
 [Guides – CSS Electronics](https://www.csselectronics.com/pages/can-bus-intros-tutorials) ❗!important
 [CAN DBC Editor Playground - Google Sheets](https://docs.google.com/spreadsheets/d/1X6VQBkqRX0a6QLd4oFbAos_ps3zrpVc86CVGd67DoSs/edit#gid=282429578)

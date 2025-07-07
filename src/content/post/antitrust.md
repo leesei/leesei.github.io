@@ -2,12 +2,14 @@
 title: Antitrust
 description: ""
 created: 2015-04-04
-updated: 2025-01-09
+updated: 2025-01-31
 tags:
   - antitrust
   - law
 ---
 
+[Sherman Antitrust Act - Wikiwand](https://www.wikiwand.com/en/articles/Sherman_Antitrust_Act)
+[The Antitrust Laws | Federal Trade Commission](https://www.ftc.gov/advice-guidance/competition-guidance/guide-antitrust-laws/antitrust-laws)
 [All Broken Up About Facebook | TechStuff Podcast](https://www.techstuffpodcast.com/podcasts/all-broken-up-about-facebook.htm) overview of antitrust laws
 
 Monopoly Duopoly Oligopoly

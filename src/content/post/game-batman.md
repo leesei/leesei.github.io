@@ -2,7 +2,7 @@
 title: Batman Games
 description: ""
 created: 2018-01-10
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - batman
   - games
@@ -18,7 +18,7 @@ tags:
 
 [3 Things Gotham Knights Should Learn From the Arkham Games | CBR](https://www.cbr.com/gotham-knights-arkham-games-lessons/)
 
-[Batman Arkham Videos - YouTube](https://www.youtube.com/channel/UCl2Ae8IzmEusR43OL9HNcKQ)
+[Batman Arkham Videos - YouTube](https://www.youtube.com/@BatmanArkhamVideos)
 
 ## Batman: Arkham Asylum
 

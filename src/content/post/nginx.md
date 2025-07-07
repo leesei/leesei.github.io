@@ -2,7 +2,7 @@
 title: Nginx
 description: ""
 created: 2014-12-11
-updated: 2025-01-09
+updated: 2025-05-20
 tags:
   - nginx
   - reverse-proxy
@@ -162,7 +162,7 @@ An array directive (e.g.: `fastcgi_param`) is basically any directive that can b
 [NGINX Docs | Restricting Access with HTTP Basic Authentication](https://docs.nginx.com/nginx/admin-guide/security-controls/configuring-http-basic-authentication/)
 [Protecting Folders with Nginx » KBeezie](http://kbeezie.com/protecting-folders-with-nginx/)
 
-[Dynamic Drive: .htaccess password generator](http://www.tools.dynamicdrive.com/password/)
+[Htpasswd Generator – Create htpasswd - hostingcanada.org](https://hostingcanada.org/htpasswd-generator/)
 
 ### Snippets
 

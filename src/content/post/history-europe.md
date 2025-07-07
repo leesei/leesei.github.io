@@ -2,7 +2,7 @@
 title: History Europe
 description: ""
 created: 2016-09-12
-updated: 2025-01-09
+updated: 2025-06-28
 tags:
   - history
   - history/europe
@@ -17,20 +17,24 @@ Herodotus, the first historian
 
 [How the Enlightenment Ends - The Atlantic](https://www.theatlantic.com/magazine/archive/2018/06/henry-kissinger-ai-could-mean-the-end-of-human-history/559124/)
 
-[陳樂行 - The News Lens 關鍵評論網](https://www.thenewslens.com/author/Henry%20Chan) 歐洲歷史入門
+[陳樂行 - TNL The News Lens 關鍵評論網](https://www.thenewslens.com/author/henrychan) 歐洲歷史入門
+
+[Knowledgia - YouTube](https://www.youtube.com/@Knowledgia)
+[卢格杜努姆的奥古斯丁 - YouTube](https://www.youtube.com/@augustinuslugdunensis)
+
+[History Series: Europe - YouTube](https://www.youtube.com/playlist?list=PLEpnbGLPDdmFsiqrVYz-IeGrlYGqZn_Mx)
+[European History - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtMsMTfmRomkVQG8AqrAmJFX) CrashCourse
 
 [8 分钟速读《极简欧洲史》丨 The Shortest History of Europe 丨柴知道丨读书 - YouTube](https://www.youtube.com/watch?v=jBwHvGZZ7wk)
 [History of Europe - 6013 years in 3 minutes - YouTube](https://www.youtube.com/watch?v=uxDyJ_6N-6A)
 [History of Europe [1-2016] [Every year] - YouTube](https://www.youtube.com/watch?v=gn6mYygyxQk)
 [The History of Europe: Every Year - YouTube](https://www.youtube.com/watch?v=oWWLECJnylM) 3650B.C-2016
-[History Series: Europe - YouTube](https://www.youtube.com/playlist?list=PLEpnbGLPDdmFsiqrVYz-IeGrlYGqZn_Mx)
-[European History - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtMsMTfmRomkVQG8AqrAmJFX) CrashCourse
 [英國、德國、法國、義呆利曾是同一個國家!? 歐洲是怎麼誕生的? 【15分鐘了解四大強國歷史】 - YouTube](https://www.youtube.com/watch?v=whKw6NEzN8o)
-[卢格杜努姆的奥古斯丁 - YouTube](https://www.youtube.com/@augustinuslugdunensis)
+[The origin of every European country's name - YouTube](https://www.youtube.com/watch?v=2Pcv2ySMi40)
+[British country names explained - YouTube](https://www.youtube.com/watch?v=aXAjMlTO7Dc)
 
 ## Documentaries
 
-[Ancient Warriors - YouTube](https://www.youtube.com/playlist?list=PLFxVdVoTuIGx-pGdeAc5rRTQRj1Sbp-MP)
 [European History Documentaries - YouTube](https://www.youtube.com/playlist?list=PLOArLjRj3ekoq7K2ublcB5XGnnxMxAjWm)
 [European History Documentaries - YouTube](https://www.youtube.com/playlist?list=PLFXjUhgSe6nnyKqYMmEmIbwaO024JE80v)
 
@@ -90,6 +94,7 @@ Lindybeige
 
 [曾經的日不落帝國 歐洲邊緣人如何征服全世界? 葡萄牙帝國的崛起與崩解 - YouTube](https://www.youtube.com/watch?v=YyQ0iQvQxqM)
 [【趣味科普】浅谈大航海时代 - YouTube](https://www.youtube.com/watch?v=XDl3QuUjJnI)
+[Why wasn't Portugal Conquered by Spain? - YouTube](https://www.youtube.com/watch?v=zaD6WPIOoN8)
 
 那点事儿
 [大航海時代：首個世界級霸主葡萄牙，最早開啟世界版圖開拓和殖民之路（上集） - YouTube](https://www.youtube.com/watch?v=8NmfPOhRwt4)
@@ -116,6 +121,11 @@ It then authorized sea-raiders in the Caribbean to raid Portuguese and Spanish s
 ## Napoleon Bonaparte
 
 [Napoleon - Wikiwand](https://www.wikiwand.com/en/Napoleon)
+[Napoleon - Wikiwand](https://www.wikiwand.com/en/articles/Napoleon_Bonaparte)
+[拿破仑一世 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E6%8B%BF%E7%A0%B4%E4%BB%91%E4%B8%80%E4%B8%96)
+
+[Napoleonic Wars - Wikiwand](https://www.wikiwand.com/en/articles/Napoleonic_Wars)
+[拿破崙戰爭 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E6%8B%BF%E7%A0%B4%E5%B4%99%E6%88%B0%E7%88%AD)
 
 Epic History TV
 [Napoleonic Wars](https://www.youtube.com/playlist?list=PLUOc2qodFHp-mOphKW9RzQLsFTt-IV9RY)
@@ -151,3 +161,4 @@ Epic History TV
 [[ww-ii]]
 
 [Why There is No Bridge Between Europe and Africa - YouTube](https://www.youtube.com/watch?v=rtvHUr_oTdQ)
+[俄烏戰爭為何還沒打完？烏克蘭人真的想被解放嗎？｜國際為什麼 EP1 - YouTube](https://www.youtube.com/watch?v=ZFKc2ieCDHg)

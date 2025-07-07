@@ -2,7 +2,7 @@
 title: Arch Linux
 description: ""
 created: 2014-12-08
-updated: 2025-01-09
+updated: 2025-01-23
 tags:
   - arch-linux
   - desktop
@@ -72,11 +72,9 @@ DE: Xfce, Openbox, i3 (ArcoLinux); varies (ArcoLinuxD/ArcoLinuxB)
 
 [ParabolaWiki](https://wiki.parabola.nu/Main_Page) GNU only
 
-[Liri](https://liri.io/) Arch + Qt + Wayland + [Hawaii](http://hawaiios.org/) + [Papyros](http://papyros.io/)
-not active
-[Antergos Linux](http://antergos.com/) discontinued
-DE: GNOME 3, KDE, Cinnamon, Xfce, Openbox, LXQt, MATE, CLI
-remove `antergos` block form `/etc/pacman.conf`
+[Liri](https://liri.io/) Arch + Qt + Wayland +
+[EndeavourOS](https://endeavouros.com/)
+DE: KDE, GNOME, Cinnamon, Xfce, Openbox, LXQt, MATE, Budgie, CLI
 
 ### ArcoLinux
 
@@ -317,11 +315,15 @@ ls /dev/disk/by-{id,label,uuid}
 
 [Arch Linux - Mirror Overview](https://www.archlinux.org/mirrors/)
 [Arch Linux - Pacman Mirrorlist Generator](https://www.archlinux.org/mirrorlist/)
+[Mirrors - ArchWiki](https://wiki.archlinux.org/title/Mirrors)
 
 ```sh
 # mirror list is located at
 sudo vi /etc/pacman.d/mirrorlist
 ```
+
+[Chaotic-AUR](https://aur.chaotic.cx/) prebuilt packages
+[On Arch Linux, The AUR Is Good. But The Chaotic AUR Is GREAT! - YouTube](https://www.youtube.com/watch?v=0XR0chZU3vY)
 
 #### Arch Linux News
 

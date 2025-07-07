@@ -2,7 +2,7 @@
 title: Engines
 description: ""
 created: 2015-09-22
-updated: 2025-01-09
+updated: 2025-06-29
 tags:
   - automobile
   - engines
@@ -14,16 +14,15 @@ tags:
 [Engines | HowStuffWorks](http://auto.howstuffworks.com/car-engine-information-channel.htm)
 [Inside Engines | HowStuffWorks](https://auto.howstuffworks.com/inside-engines-roundup.htm)
 
-[Gear Quest - YouTube](https://www.youtube.com/channel/UC594mp4ZsrTH5dLBfZAglhw)
-[Science Garage - Cars Down to the Atom - YouTube](https://www.youtube.com/playlist?list=PLFl907chpCa7R39l29VY5DygA8RgBQZBf) Donut Media on car techs
-[Autotechlabs - YouTube](https://www.youtube.com/channel/UCtfVcXWhbSnF-fWHJ6ugw5A)
+[Gear Quest - YouTube](https://www.youtube.com/@GearQuest)
+[Autotechlabs - YouTube](https://www.youtube.com/@autotechlabs)
 [driving 4 answers - YouTube](https://www.youtube.com/@d4a)
+[Science Garage - Cars Down to the Atom - YouTube](https://www.youtube.com/playlist?list=PLFl907chpCa7R39l29VY5DygA8RgBQZBf) Donut Media on car techs
 
 [Animated Engines - Home](http://www.animatedengines.com/)
 [Animated Engines](http://www.mekanizmalar.com/menu-engine.html)
 
-Engineering Explained !important
-[Engineering Explained - YouTube](https://www.youtube.com/user/EngineeringExplained/playlists?view=50&sort=dd&shelf_id=2)
+[Engineering Explained - YouTube](https://www.youtube.com/@EngineeringExplained) ❗!important
 [Engines - YouTube](https://www.youtube.com/playlist?list=PL30C950600B683799)
 [Engine Components and Features - YouTube](https://www.youtube.com/playlist?list=PL1C4B9B13E1EAC364)
 
@@ -234,8 +233,8 @@ SPCCI (Spark Controlled Combustion Ignition) compresses the gasoline-air mixture
 
 ## Superchargers/Turbochargers
 
-[Supercharger - Wikiwand](https://www.wikiwand.com/en/Supercharger)
-[Turbocharger - Wikiwand](https://www.wikiwand.com/en/Turbocharger)
+[Supercharger - Wikiwand](https://www.wikiwand.com/en/Supercharger) uses mechanical power from engine's drive shaft
+[Turbocharger - Wikiwand](https://www.wikiwand.com/en/Turbocharger) uses mechanical power from engine's exhaust gas, has lag
 [Turbocharged petrol engines - Wikiwand](https://www.wikiwand.com/en/Turbocharged_petrol_engines)
 
 [Superchargers: What They Are, How They Work, and Why You Need One - YouTube](https://www.youtube.com/watch?v=iq8KWnFGNf8)
@@ -316,6 +315,7 @@ pulsejet, ramjets, scramjets, and turbojets
 [How do Airplanes fly? - YouTube](https://www.youtube.com/watch?v=F077WDnB8P8)
 [Jet Engine, How it works ? - YouTube](https://www.youtube.com/watch?v=KjiUUJdPGX0)
 [人類工業文明皇冠上的明珠，航空發動機壹共分幾種？ - YouTube](https://www.youtube.com/watch?v=FuEtZQkHP6s)
+[為何運輸機還在用古早的螺旋槳？渦噴/渦槳/渦扇，三種飛機引擎有什麼區別？#軍用飛機 #運輸機 #C130 #螺旋槳 - YouTube](https://www.youtube.com/watch?v=LqehN_Ss7e8)
 [飞机发动机的大哥，燃气轮机怎么工作的？中国燃机到底什么水平？ - YouTube](https://www.youtube.com/watch?v=Yl4bU-DhVTI)
 [飛機屁股上的黑洞洞是什麽？飛機發動機是怎麽啟動的？A340 為何被稱為 5APU 飛機？ - YouTube](https://www.youtube.com/watch?v=QVLxkahoW3s)
 [把汽车发动机装上飞机，它还能飞得起来吗？活塞发动机与涡轮发动机的比拼【科学火箭叔】 - YouTube](https://www.youtube.com/watch?v=gqteLkMHDDA)
@@ -326,6 +326,9 @@ pulsejet, ramjets, scramjets, and turbojets
 [Why Single Stage to Orbit rockets SUCK. The wacky history and future maybes of SSTOs - YouTube](https://www.youtube.com/watch?v=Sfc2Jg1gkKA)
 [Rocket Rundowns (In Depth Overviews) - YouTube](https://www.youtube.com/playlist?list=PLWzKfs3icbT6yhDTpO1GyDlz9AXdWSiGr)
 [Aerospace & Aeronautical - YouTube](https://www.youtube.com/playlist?list=PLuUdFsbOK_8ree2xXtXR2S394u9hTYIU3)
+
+The Space Race
+[The Evolution of The Rocket Engine - YouTube](https://www.youtube.com/watch?v=xTq5nrHfdZc)
 
 Integza
 [Rocket Engines by Integza - YouTube](https://www.youtube.com/playlist?list=PLYissAYow7CovvUy6ZLySiCnSmgn_WXtQ)

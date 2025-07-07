@@ -2,7 +2,7 @@
 title: Nuclear Weapon
 description: ""
 created: 2023-03-24
-updated: 2025-01-09
+updated: 2025-02-03
 tags:
   - history
   - science
@@ -13,7 +13,11 @@ tags:
 
 [How to launch a nuclear missile - YouTube](https://www.youtube.com/watch?v=7Wi8pjzsFD4)
 
+[海底核彈：哥吉拉寓言背後的故事，海底原來有很多顆人類遺失的核彈……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=YT4OodQtydE)
+
 ## Fission Bomb/Atomic Bomb
+
+> [[ww-ii#Manhattan Project]]
 
 Shaped C4 (insensitive) charges are used send shockwave to compress the core from different direction uniformly. When the core reaches criticality, it will start the nuclear chain reaction.
 

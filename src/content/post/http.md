@@ -2,7 +2,7 @@
 title: HTTP
 description: ""
 created: 2022-08-23
-updated: 2025-01-09
+updated: 2025-04-14
 tags:
   - http
   - web
@@ -15,7 +15,7 @@ tags:
 ## HTTP/1.1
 
 2817 HTTP Upgrade to TLS
-[RFC 5861: HTTP Cache-Control Extensions for Stale Content](https://www.rfc-editor.org/rfc/rfc5861)
+[RFC 5861: HTTP Cache-Control Extensions for Stale Content](https://datatracker.ietf.org/doc/html/rfc5861)
 6266 Content-Disposition in HTTP
 6585 Additional HTTP Status Codes
 7230 HTTP/1.1 Message Syntax and Routing
@@ -24,9 +24,9 @@ tags:
 7233 HTTP/1.1 Range Requests
 7235 HTTP/1.1 Authentication
 7237 HTTP/1.1 Caching
-[RFC 9110: HTTP Semantics](https://www.rfc-editor.org/rfc/rfc9110)
-[RFC 9111: HTTP Caching](https://www.rfc-editor.org/rfc/rfc9111)
-[RFC 9112: HTTP/1.1](https://www.rfc-editor.org/rfc/rfc9112)
+[RFC 9110: HTTP Semantics](https://datatracker.ietf.org/doc/html/rfc9110)
+[RFC 9111: HTTP Caching](https://datatracker.ietf.org/doc/html/rfc9111)
+[RFC 9112: HTTP/1.1](https://datatracker.ietf.org/doc/html/rfc9112)
 
 [How I learned to (stop worrying and) love HTTP](https://codewords.recurse.com/issues/two/how-i-learned-to-stop-worrying-and-love-http)
 [Hypertext Transfer Protocol (HTTP) Status Code Registry](https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml)
@@ -40,13 +40,13 @@ tags:
 
 ### April Fools joke
 
-[RFC 2324 - Hyper Text Coffee Pot Control Protocol (HTCPCP/1.0)](https://tools.ietf.org/html/rfc2324)
+[RFC 2324 - Hyper Text Coffee Pot Control Protocol (HTCPCP/1.0)](https://datatracker.ietf.org/doc/html/rfc2324)
 [Larry Masinter Musings: HTTP Status Cat: 418 - I'm a teapot](http://masinter.blogspot.hk/2011/12/http-status-cat-418-i-teapot.html)
 [Strange Brew: How the Web's 418 Error Code Became Steeped in Controversy - The New Stack](https://thenewstack.io/tempest-teapot-error-compleat-history-418-return-code/)
 
 ## HTTP/2
 
-[RFC 9113: HTTP/2](https://www.rfc-editor.org/rfc/rfc9113)
+[RFC 9113: HTTP/2](https://datatracker.ietf.org/doc/html/rfc9113)
 
 TCP fast open, put TLS data in syn ack response, but most firewall don't support this
 
@@ -79,6 +79,7 @@ TCP fast open, put TLS data in syn ack response, but most firewall don't support
 
 ## HTTP/3 (QUIC)
 
+[QUIC - Wikiwand](https://www.wikiwand.com/en/QUIC)
 [HTTP/1 vs HTTP/2 vs HTTP/3 - DEV Community](https://dev.to/accreditly/http1-vs-http2-vs-http3-2k1c)
 
 HTTP/2 is coupled to TCP features, HTTP/3 reimplemented HTTP/2 features on top of QUIC, a UDP-based protocol
@@ -88,15 +89,19 @@ This makes most of the payload opaque to firewalls so they won't mess up the pac
 
 Server Push is deprecated, use 103 Early Hints instead.
 
-[RFC 9114: HTTP/3](https://www.rfc-editor.org/rfc/rfc9114)
-[RFC 9204: QPACK: Field Compression for HTTP/3](https://www.rfc-editor.org/rfc/rfc9204)
-[RFC 9218: Extensible Prioritization Scheme for HTTP](https://www.rfc-editor.org/rfc/rfc9218) HTTP/2 and HTTP/3
-
-[Why HTTP/3 is eating the world | APNIC Blog](https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/)
-[HTTP3 Is Eating The World | Prime Reacts - YouTube](https://www.youtube.com/watch?v=-jlYeQ3hOhY)
-
 [QUIC Working Group](https://quicwg.org/)
-[QUIC - Wikiwand](https://www.wikiwand.com/en/QUIC)
+[QUIC (quic)](https://datatracker.ietf.org/wg/quic/documents/)
+[RFC 9000 - QUIC: A UDP-Based Multiplexed and Secure Transport](https://datatracker.ietf.org/doc/html/rfc9000/)
+[RFC 9001 - Using TLS to Secure QUIC](https://datatracker.ietf.org/doc/html/rfc9001)
+[RFC 9114: HTTP/3](https://datatracker.ietf.org/doc/html/rfc9114)
+[RFC 9204: QPACK: Field Compression for HTTP/3](https://datatracker.ietf.org/doc/html/rfc9204)
+[RFC 9221 - An Unreliable Datagram Extension to QUIC](https://datatracker.ietf.org/doc/html/rfc9221/)
+[RFC 9218: Extensible Prioritization Scheme for HTTP](https://datatracker.ietf.org/doc/html/rfc9218) HTTP/2 and HTTP/3
+[RFC 9308 - Applicability of the QUIC Transport Protocol](https://datatracker.ietf.org/doc/html/rfc9308/)
+[RFC 9369 - QUIC Version 2](https://datatracker.ietf.org/doc/html/rfc9369/)
+
+[QUIC: next generation multiplexed transport over UDP - YouTube](https://www.youtube.com/watch?v=hQZ-0mXFmk8) 2014
+
 [QUIC, a multiplexed stream transport over UDP - The Chromium Projects](https://www.chromium.org/quic)
 [The QUIC transport protocol: design and Internet-scale deployment | the morning paper](https://blog.acolyer.org/2017/10/26/the-quic-transport-protocol-design-and-internet-scale-deployment/)
 [Unlocking QUIC’s proxying potential with MASQUE](https://blog.cloudflare.com/unlocking-quic-proxying-potential/)
@@ -109,6 +114,9 @@ Server Push is deprecated, use 103 Early Hints instead.
 [HTTP/3: Practical Deployment Options (Part 3) — Smashing Magazine](https://www.smashingmagazine.com/2021/09/http3-practical-deployment-options-part3/)
 
 [The Changelog #299: Curl turns 20, HTTP/2, and QUIC with Daniel Stenberg | News and podcasts for developers | Changelog](https://changelog.com/podcast/299)
+
+[Why HTTP/3 is eating the world | APNIC Blog](https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/)
+[HTTP3 Is Eating The World | Prime Reacts - YouTube](https://www.youtube.com/watch?v=-jlYeQ3hOhY)
 
 [The Internet just changed. - YouTube](https://www.youtube.com/watch?v=cdb7M37o9sU)
 [QUIC is FINALLY a Standard - YouTube](https://www.youtube.com/watch?v=vfShdjlyRGg)

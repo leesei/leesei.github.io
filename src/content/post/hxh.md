@@ -2,7 +2,7 @@
 title: Hunter X Hunter
 description: ""
 created: 2018-03-12
-updated: 2025-01-09
+updated: 2025-02-16
 tags:
   - anime
   - hunterxhunter
@@ -14,7 +14,7 @@ tags:
 
 [HUNTER X HUNTER IN 49 MINUTES - YouTube](https://www.youtube.com/watch?v=eGIkGo-lGm0)
 
-[Hunterpedia | FANDOM powered by Wikia](http://hunterxhunter.fandom.com/wiki/Hunterpedia)
+[Hunterpedia | Fandom](http://hunterxhunter.fandom.com/wiki/Hunterpedia)
 [全职猎人全集 - YouTube](https://www.youtube.com/playlist?list=PLnYLDv2h47jDfhEpq1Wcgq2ORyCslGBAw) 一朵老香菇
 
 [現在的獵人到底在演什麼？【獵人】王位繼承戰 劇情整理 第 1 集 - YouTube](https://www.youtube.com/watch?v=efC7bIpMqso) 暗黑大陸篇

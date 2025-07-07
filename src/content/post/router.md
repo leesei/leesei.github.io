@@ -2,7 +2,7 @@
 title: Router
 description: ""
 created: 2016-04-12
-updated: 2025-01-09
+updated: 2025-06-29
 tags:
   - comp/hardware
 ---
@@ -44,6 +44,8 @@ a set of packages and patches to enhance the end user experience of OpenWrt
 
 [LEDE - Linux Embedded Development Environment](https://www.lede-project.org/) OpenWrt fork, merged back to OpenWrt in 2018
 [LEDE - Wikiwand](https://www.wikiwand.com/en/LEDE)
+
+[You're doing routers wrong... Use OpenWRT instead! - YouTube](https://www.youtube.com/watch?v=XGefV0Rf9QQ)
 
 ### Merlin
 

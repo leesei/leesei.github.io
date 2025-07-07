@@ -2,7 +2,7 @@
 title: Keyboard
 description: ""
 created: 2015-06-15
-updated: 2025-01-09
+updated: 2025-04-28
 tags:
   - comp/hardware
   - logitech
@@ -38,6 +38,9 @@ Clicky: jade
 [The Best Optical Keyboards for Gaming 2019 - IGN](https://www.ign.com/articles/2018/12/28/the-best-optical-keyboards-for-gaming)
 [Razer Optical Switches - Speed of Light | Razer Hong Kong (en)](https://www.razer.com/hk-en/razer-optical-switch)
 [B720-FULL LIGHT STRIKE GAMING KEYBOARD-Bloody Official Website](https://www.bloody.com/en/product.php?pid=11&id=111)
+
+[【硬核科普】一个视频了解磁轴，静电容，机械轴，光轴键盘的原理 - YouTube](https://www.youtube.com/watch?v=eTo-_EWB1uY) magnetic and wedged-optical axis can output analog signal
+[【建議收藏】作弊器還是智商稅？一個影片全面認識磁軸和RT！ - YouTube](https://www.youtube.com/watch?v=yAnW2YawiMg) Rapid Trigger on the magnetic axis
 
 ## Layout
 

@@ -2,12 +2,13 @@
 title: Chinese Politics
 description: ""
 created: 2023-03-27
-updated: 2025-01-09
+updated: 2025-03-20
 tags:
   - politics
 ---
 
 [一個機構兩塊牌子 - Wikiwand](https://www.wikiwand.com/zh-hk/%E4%B8%80%E4%B8%AA%E6%9C%BA%E6%9E%84%E4%B8%A4%E5%9D%97%E7%89%8C%E5%AD%90)
+[一个机构两块牌子 - Wikiwand](https://www.wikiwand.com/zh-cn/articles/%E4%B8%80%E4%B8%AA%E6%9C%BA%E6%9E%84%E4%B8%A4%E5%9D%97%E7%89%8C%E5%AD%90)
 
 理科男士 K 一米
 [看懂《狂飙》需要先来了解：中国官员的级别是怎么定的？谁大谁小你分的清吗 - YouTube](https://www.youtube.com/watch?v=yYHn9Pfo99A)

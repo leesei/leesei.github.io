@@ -2,7 +2,7 @@
 title: Internet of things
 description: ""
 created: 2018-06-12
-updated: 2025-01-09
+updated: 2025-06-27
 tags:
   - iot
   - maker
@@ -22,6 +22,7 @@ tags:
 [Maker 101 - YouTube](https://www.youtube.com/@maker101io)
 [ElectronFun.com - YouTube](https://www.youtube.com/@ElectronFunCom)
 [Programming Electronics Academy - YouTube](https://www.youtube.com/@programmingelectronics) ❗!important, systematic courses
+[技术宅 - YouTube](https://www.youtube.com/@%E6%8A%80%E6%9C%AF%E5%AE%85-s7r)
 
 [DroneBot Workshop - YouTube](https://www.youtube.com/@Dronebotworkshop)
 [Tutorials & Projects | DroneBot Workshop | Arduino & Raspberry Pi](https://dronebotworkshop.com/)
@@ -358,7 +359,7 @@ ESP32 with Bluetooth Classic may need a expand to the partition
 [Espruino on ESP32](http://www.espruino.com/ESP32)
 [BBC micro:bit - Espruino](http://www.espruino.com/MicroBit)
 
-[How to Flash/Install Espruino on an ESP8266 Dev Board/Microcontroller (MacOS) - YouTube](https://www.youtube.com/watch?v=j9xwgeE9u8E)
+[How to Flash/Install Espruino on an ESP8266 Dev Board/Microcontroller (macOS) - YouTube](https://www.youtube.com/watch?v=j9xwgeE9u8E)
 
 ## Go for SoC
 
@@ -408,7 +409,9 @@ ESP32 with Bluetooth Classic may need a expand to the partition
 [LoRa - Wikiwand](https://www.wikiwand.com/en/LoRa)
 [Matter (standard) - Wikiwand](<https://www.wikiwand.com/en/Matter_(standard)>) renamed 2021-05, formerly CHIP (2019-12) and Zigbee
 
+[Smart Homes Still Suck—Here’s Why - YouTube](https://www.youtube.com/watch?v=kCuA3EWLvIw)
 [ZigBee vs Z-Wave vs Wi-Fi vs Thread vs Bluetooth vs Matter (CHIP) - YouTube](https://www.youtube.com/watch?v=3zaTIRiFemQ)
+[I finally set up Home Assistant with Zigbee, and my entire home changed](https://www.xda-developers.com/i-finally-set-home-assistant-zigbee-home-changed/)
 
 [Thread Benefits](https://www.threadgroup.org/What-is-Thread/Thread-Benefits)
 

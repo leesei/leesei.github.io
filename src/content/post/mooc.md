@@ -2,7 +2,7 @@
 title: MOOC
 description: ""
 created: 2015-05-08
-updated: 2025-01-09
+updated: 2025-07-06
 tags:
   - learning
   - mooc
@@ -49,6 +49,7 @@ tags:
 [Free online courses from Harvard to learn how to code - Business Insider](https://www.businessinsider.com/free-harvard-courses-on-coding-programming-computer-science-2020-6)
 [Free Online Courses from upGrad](https://www.upgrad.com/hk/free-courses/?utm_source=BLOG&utm_campaign=ALL_FREE_BLOG_BODY_90914)
 [1000+ Free Developer Certifications](https://www.freecodecamp.org/news/free-certificates/)
+[BrightTALK](https://www.brighttalk.com/)
 
 [Free Courses That Are Actually Free: Computer Science Edition - KDnuggets](https://www.kdnuggets.com/free-courses-that-are-actually-free-computer-science-edition)
 [Free Courses That Are Actually Free: Programming Edition - KDnuggets](https://www.kdnuggets.com/free-courses-that-are-actually-free-programming-edition)
@@ -63,7 +64,7 @@ I've bought several bundles here (with Teachable SSO):
   - The Complete Arduino eBook Bundle
   - Ultimate Coding Bundle
   - Premium Coding Bundle
-- [Kode Kloud](https://kodekloud.com/)
+- [KodeKloud](https://kodekloud.com/)
 - [One Education – One Education](https://www.oneeducation.org.uk/) CompTIA
 - [Teachable: Sell Courses, Coaching and Digital Downloads](https://teachable.com/)
 
@@ -170,6 +171,7 @@ seneca-in-practice
 [Be Smart - YouTube](https://www.youtube.com/@besmart) sciency
 [Branch Education - YouTube](https://www.youtube.com/@BranchEducation) "How it works" in 3D rendering
 [BRIGHT SIDE - YouTube](https://www.youtube.com/@BRIGHTSIDEOFFICIAL) explainers
+[Casually Explained - YouTube](https://www.youtube.com/@CasuallyExplained) explainers
 [CGP Grey - YouTube](https://www.youtube.com/@CGPGrey) trivia on all sorts of things
 [Cheddar - YouTube](https://www.youtube.com/@cheddar) Cheddar explainers, NYC Revealed
 [Chemistorian - YouTube](https://www.youtube.com/@Chemistorian) chemistry, history
@@ -189,6 +191,7 @@ seneca-in-practice
 [Fire of Learning - YouTube](https://www.youtube.com/@Fireoflearning) history
 [Freethink - YouTube](https://www.youtube.com/@freethink) explainers
 [Future Proof - YouTube](https://www.youtube.com/@FutureProofTV) brands and products
+[IETF - Internet Engineering Task Force - YouTube](https://www.youtube.com/@ietf) meeting recordings
 [Integza - YouTube](https://www.youtube.com/@integza) sciency, experiments
 [Interesting Engineering - YouTube](https://www.youtube.com/@Interestingengineeringofficial) engineering
 [Jared Owen - YouTube](https://www.youtube.com/@JaredOwen) "How it works" in 3D rendering
@@ -199,6 +202,7 @@ seneca-in-practice
 [Lesics - YouTube](https://www.youtube.com/@Lesics) "How it works" in 3D rendering
 [LEMMiNO - YouTube](https://www.youtube.com/@LEMMiNO) mini documentaries
 [Looking Glass Universe - YouTube](https://www.youtube.com/@LookingGlassUniverse) animated quantum mechanics
+[MegaBuilds - YouTube](https://www.youtube.com/@MegaBuildsYT) sciency, construction projects
 [MinuteEarth - YouTube](https://www.youtube.com/@MinuteEarth) sciency, animated explainers
 [minutephysics - YouTube](https://www.youtube.com/@MinutePhysics) animated physics
 [NileBlue - YouTube](https://www.youtube.com/@NileBlue) sciency, experiments
@@ -210,6 +214,7 @@ seneca-in-practice
 [Primal Space - YouTube](https://www.youtube.com/@primalspace) sciency, space science
 [Primer - YouTube](https://www.youtube.com/@PrimerBlobs) evolution
 [Professor Dave Explains - YouTube](https://www.youtube.com/@ProfessorDaveExplains) sciency, deep dives on various disciplines
+[ProtonsTalk - YouTube](https://www.youtube.com/@ProtonsTalk) sciency
 [Quanta Magazine - YouTube](https://www.youtube.com/@QuantaScienceChannel) sciency
 [Real Engineering - YouTube](https://www.youtube.com/@RealEngineering) engineering
 [Real Science - YouTube](https://www.youtube.com/@realscience) sciency, Insane Biology
@@ -222,6 +227,7 @@ seneca-in-practice
 [Sixty Symbols - YouTube](https://www.youtube.com/@sixtysymbols) physics and astronomy
 [SmarterEveryDay - YouTube](https://www.youtube.com/@smartereveryday) sciency, engineering, experiments
 [Steve Mould - YouTube](https://www.youtube.com/@SteveMould) sciency
+[T. Folse Nuclear - YouTube](https://www.youtube.com/@tfolsenuclear) explainers, nuclear engineer
 [The Efficient Engineer - YouTube](https://www.youtube.com/@TheEfficientEngineer/) engineering
 [The Engineering Mindset - YouTube](https://www.youtube.com/@EngineeringMindset) explainers, electronics and engineering
 [The RSA - YouTube](https://www.youtube.com/@rsaorg) The Royal Society for Arts, Manufactures and Commerce, animated explainers
@@ -231,6 +237,8 @@ seneca-in-practice
 [Tom Scott - YouTube](https://www.youtube.com/@TomScottGo) sciency
 [TREY the Explainer - YouTube](https://www.youtube.com/@TREYtheExplainer) explainers, history
 [Two Bit da Vinci - YouTube](https://www.youtube.com/@TwoBitDaVinci) explainers
+[IC实验室 - YouTube](https://www.youtube.com/@ICLAB) consumerism, business
+[Projects — Brady Haran](https://www.bradyharanblog.com/projects)
 [Undecided with Matt Ferrell - YouTube](https://www.youtube.com/@UndecidedMF) explainers, tech
 [Up and Atom - YouTube](https://www.youtube.com/@upandatom) Physics and Maths
 [USENIX - YouTube](https://www.youtube.com/@UsenixOrg) tech conferences
@@ -238,19 +246,25 @@ seneca-in-practice
 [Veritasium - YouTube](https://www.youtube.com/@veritasium) sciency
 [Vsauce - YouTube](https://www.youtube.com/@Vsauce) sciency
 [Wendover Productions - YouTube](https://www.youtube.com/@Wendoverproductions) explainers, Nebula founder
+[Wisecrack - YouTube](https://www.youtube.com/@WisecrackEDU) commentary on society and culture
 [Zepherus - YouTube](https://www.youtube.com/@Zepherus) obscure historical/scientific things
 [壹读 iRead - 轻幽默·有情趣 - YouTube](https://www.youtube.com/@feidie1min) animated explainers, abandoned?
 [小 Lin 说 - YouTube](https://www.youtube.com/@xiao_lin_shuo) economics and related history
+[差评君 - YouTube](https://www.youtube.com/@xpinman) explainers
 [柴知道 ChaiKnows Official Channel - YouTube](https://www.youtube.com/@chaiknowsofficialchannel982) animated explainers
 [混乱博物馆 ChaosMuseum - YouTube](https://www.youtube.com/@chaosmuseum) explainers
 [瑞森老哥 Reason - YouTube](https://www.youtube.com/@reason2188) animated explainers, short history
+[白呀白Talk-科技内容 - YouTube](https://www.youtube.com/playlist?list=PL4l3Q_BiljoFZnAR12G9UiEOWg2frBS8n)
+[知危 - YouTube](https://www.youtube.com/@%E7%9F%A5%E5%8D%B1) explainers, economics
 [科学火箭叔 - YouTube](https://www.youtube.com/@KeXueHuoJianShu) sciency, but citation is poor
 [科學漫聊 - YouTube](https://www.youtube.com/@KXML) sciency
+[秦老闆請鑑價 - YouTube](https://www.youtube.com/@MrChin740)
 [芳斯塔芙 - YouTube](https://www.youtube.com/@Funstuff2018) fun stuff, explainers
-[IC实验室 - YouTube](https://www.youtube.com/@ICLAB) consumerism, business
-[白呀白Talk-科技内容 - YouTube](https://www.youtube.com/playlist?list=PL4l3Q_BiljoFZnAR12G9UiEOWg2frBS8n)
+[【驚奇說】正片全集 - YouTube](https://www.youtube.com/playlist?list=PL8U4PMpSw-d0x48nwNiwiKYyrEkYdxaI7)
 
-[Projects — Brady Haran](https://www.bradyharanblog.com/projects)
+computer science
+[Polylog - YouTube](https://www.youtube.com/@PolylogCS)
+[Truttle1 - YouTube](https://www.youtube.com/@Truttle1)
 
 ### TED
 
@@ -309,6 +323,11 @@ seneca-in-practice
 [CCTV纪录 - YouTube](https://www.youtube.com/@CCTVDocumentary)
 [中华国宝 - YouTube](https://www.youtube.com/@ChineseNationalTreasure)
 [國家地理 National Geographic TW - YouTube](https://www.youtube.com/@NGCTaiwan)
+[星球研究所Institute for Planets - YouTube](https://www.youtube.com/@instituteforplanets5807)
+
+Hong Kong channels
+[米紙 - YouTube](https://www.youtube.com/@ricezi2hk)
+[Mill MILK - YouTube](https://www.youtube.com/@mm.millmilk)
 
 [Johnny Harris - YouTube](https://www.youtube.com/@johnnyharris)
 [PolyMatter - YouTube](https://www.youtube.com/@PolyMatter)

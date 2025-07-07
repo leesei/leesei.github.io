@@ -2,7 +2,7 @@
 title: Monster Hunter
 description: ""
 created: 2024-11-06
-updated: 2025-01-09
+updated: 2025-02-16
 tags:
   - games
   - monhunt
@@ -14,7 +14,7 @@ tags:
 [V2 = World of Monster Hunter (Version 2) | Inkarnate - Create Fantasy Maps Online](https://inkarnate.com/m/voEGRd--world-of-monster-hunter-version-2/)
 
 [モンスターハンター大辞典 Wiki\*](http://wikiwiki.jp/nenaiko/)
-[Monster Hunter Wiki | FANDOM powered by Wikia](http://monsterhunter.fandom.com/wiki/Monster_Hunter_Wiki)
+[Monster Hunter Wiki | Fandom](http://monsterhunter.fandom.com/wiki/Monster_Hunter_Wiki)
 [モンハン攻略・初心者講座](http://bassy-mh.info/) MH4G, MHX
 [gaijin hunter - YouTube](https://www.youtube.com/@gaijinhunter)
 [GreenteaD綠茶哥 - YouTube](https://www.youtube.com/@greentead_gaming)

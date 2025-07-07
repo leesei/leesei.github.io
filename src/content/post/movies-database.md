@@ -2,7 +2,7 @@
 title: Movies Database
 description: ""
 created: 2015-08-26
-updated: 2025-01-09
+updated: 2025-07-06
 tags:
   - movies
 ---
@@ -45,6 +45,9 @@ Innovative and personalized recommendation system.
 [Films&Stuff - YouTube](https://www.youtube.com/channel/UCcddcRNcQfVwCMmvV2QWf8Q)
 
 [9 Free Movie Streaming Sites With No Sign Up Requirements](https://www.makeuseof.com/free-movie-streaming-sites-no-sign-up/)
+[The 15 Best Sites to Watch Movies for Free (Legally!)](https://www.makeuseof.com/tag/best-free-movie-streaming-sites/)
+[I Tried Free Ad-Supported Streaming TV, and I Might Cancel Netflix](https://www.makeuseof.com/free-ad-supported-streaming-tv-experience/)
+[Cinema No.8 - HK Movie - YouTube](https://www.youtube.com/@8-hkmovie)
 
 [小丑说电影 - YouTube](https://www.youtube.com/channel/UChr5PGUSYdf4HrgFQFaMn3g)
 [Happy Kongner - YouTube](https://www.youtube.com/channel/UCW_n_gfIv4HhRqCk8EnRhJA)
@@ -75,6 +78,8 @@ Innovative and personalized recommendation system.
 [電影工作人員職稱（中英文對照） @ 優影設計有限公司的部落格-專司影片製作.活動紀錄.網站設計與行銷 :: 痞客邦 ::](http://yoing99.pixnet.net/blog/post/44007742-%E9%9B%BB%E5%BD%B1%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%93%A1%E8%81%B7%E7%A8%B1%EF%BC%88%E4%B8%AD%E8%8B%B1%E6%96%87%E5%B0%8D%E7%85%A7%EF%BC%89)
 [影视制作岗位中英文对照表（但愿成为最详细的）](https://www.douban.com/note/356877119/)
 
+[電影劇組入門 - YouTube](https://www.youtube.com/playlist?list=PLiyT3ZJaRwTvm_Guk06aUqiwb8Z2_ZY7O)
+
 [為什麼「蜘蛛人不上 Disney+」？《蜘蛛人:無家日》票房超好都是 Sony 功勞？｜為什麼會 Jon - YouTube](https://www.youtube.com/watch?v=dZAAXO8iLkg)
 
 ## Behind the Scenes
@@ -87,8 +92,10 @@ Innovative and personalized recommendation system.
 [The Movie Rabbit Hole - YouTube](https://www.youtube.com/@TheMovieRabbitHole)
 [BEHIND THE SCENES & B-ROLL - YouTube](https://www.youtube.com/playlist?list=PLQ7_GA82PpMGBaHHowmE-Ucs__mY7UA5M)
 [經典電影大解密｜ Breaks Down - YouTube](https://www.youtube.com/playlist?list=PLiyT3ZJaRwTvS7o7p9DJoIDPCDO1Ph2co)
+[电影冷知识 - YouTube](https://www.youtube.com/@MR__COLD)
 
 [The Incredible True Story Of How "Titanic" Got Made](https://www.buzzfeednews.com/article/sarahmarshall/20-years-ago-titanic-took-over-the-world-heres-why)
+[經典電影大解密｜Breaks Down - YouTube](https://www.youtube.com/playlist?list=PLiyT3ZJaRwTvS7o7p9DJoIDPCDO1Ph2co)
 
 ### Foley
 
@@ -107,6 +114,14 @@ Innovative and personalized recommendation system.
 [火爆全球 27 年，帶你重溫影史最帥特工系列，萬字盤點阿湯哥經典之作《碟中諜》1-3 部 - YouTube](https://www.youtube.com/watch?v=1JmN5V70_mM)
 [全球票房超 35 億美元！ 玩命拍戲堅持不用替身，萬字盤點阿湯哥經典之作《碟中諜》4-6 部 - YouTube](https://www.youtube.com/watch?v=nVi5oEtPVDM)
 
+## Kingdom of Heaven 天國王朝
+
+[深度解析『天国王朝』,十字军战争的血与泪; - YouTube](https://www.youtube.com/watch?v=_EdH2Lbh6b0)
+
+[這部電影還原了一千年前，耶路撒冷的殺戮、仇恨與狂熱【天國王朝(1/3)】 - YouTube](https://www.youtube.com/watch?v=ZEVBhnoespI)
+[一場1000年前的無差別屠殺，挑起了耶路撒冷的戰爭漩渦【天國王朝(2/3)】 - YouTube](https://www.youtube.com/watch?v=nHSgLEBgTz0)
+[教皇說這是上帝的戰爭，人性卻説這是不義的殺戮【天國王朝(3/4)】 - YouTube](https://www.youtube.com/watch?v=-9v0ZR02tzM)
+
 # Comics Movies
 
 [10 Best Comic Book Movies of All Time](http://io9.com/5908428/10-best-comic-book-movies-of-all-time)
@@ -119,6 +134,7 @@ Innovative and personalized recommendation system.
 
 [1 次看完 DC 全部計畫！亨利超人、巨石亞當＋漫威超強導演 - YouTube](https://www.youtube.com/watch?v=C3F0vYYjGxA) DCEU -> DCU
 [DCEU Failure Should Be Studied. - YouTube](https://www.youtube.com/watch?v=18p9R5S5guM)
+[Who Killed the DCEU - YouTube](https://www.youtube.com/watch?v=cqtk8AINMpE)
 
 [Shazam's Origin Story & Powers Explained | ScreenRant](https://screenrant.com/shazam-movie-origin-powers-wizard-explained/)
 [Shazam Family Explained: Who Plays The Adults & What Are Their Powers?](https://screenrant.com/shazam-family-dc-movie-team-explained/)
@@ -139,7 +155,7 @@ Innovative and personalized recommendation system.
 ## MCU
 
 [Marvel Cinematic Universe - Wikiwand](https://www.wikiwand.com/en/Marvel_Cinematic_Universe)
-[Marvel Cinematic Universe Wiki | FANDOM powered by Wikia](https://marvelcinematicuniverse.fandom.com/wiki/Marvel_Cinematic_Universe_Wiki)
+[Marvel Cinematic Universe Wiki | Fandom](https://marvelcinematicuniverse.fandom.com/wiki/Marvel_Cinematic_Universe_Wiki)
 [Carousell 共你快速重溫 Marvel 電影宇宙 - Carousell Hong Kong Blog](https://blog.carousell.com/hk/十分鐘重溫marvel電影宇宙/)
 [The MCU's First 22 Movies Are Now Called The Infinity Saga - GameSpot](https://www.gamespot.com/articles/the-mcus-first-22-movies-are-now-called-the-infini/1100-6465680/)
 [漫威终局之战系列 - YouTube](https://www.youtube.com/playlist?list=PLzQ6y52QTNAyLpK8GnnwVa1oLOrqggde3) 大聪看电影

@@ -2,7 +2,7 @@
 title: Shell Tools
 description: ""
 created: 2015-01-14
-updated: 2025-01-09
+updated: 2025-06-27
 tags:
   - app
   - cpio
@@ -11,10 +11,12 @@ tags:
   - find
   - grep
   - inotify-tools
+  - jq
   - locate
   - mega
   - openrtsp
   - pt
+  - pup
   - rsync
   - shell-tool
   - sort
@@ -23,6 +25,7 @@ tags:
   - useradd
   - usermod
   - xargs
+  - yq
 ---
 
 [All commands | commandlinefu.com](https://www.commandlinefu.com/commands/browse)
@@ -313,6 +316,7 @@ mv "$(find -inum 123456)" ../some/where/
 [Vim universe. fzf - command line fuzzy finder - YouTube](https://www.youtube.com/watch?v=qgG5Jhi_Els)
 [This may be my favorite CLI tool ever - YouTube](https://www.youtube.com/watch?v=oTNRvnQLLLs) `**`
 [Why you should be using fzf, the command line fuzzy finder](https://www.freecodecamp.org/news/fzf-a-command-line-fuzzy-finder-missing-demo-a7de312403ff/)
+[This may be my favorite CLI tool ever - YouTube](https://www.youtube.com/watch?v=oTNRvnQLLLs)
 
 <kbd>Tab</kbd> to select multiple items
 
@@ -532,6 +536,12 @@ dd if=/dev/null of="$filename" bs=1 seek="$end_position"
 [rvoicilas/inotify-tools: inotify-tools is a C library and a set of command-line programs for Linux providing a simple interface to inotify.](https://github.com/rvoicilas/inotify-tools)
 [Linux Fu: Watch That Filesystem | Hackaday](https://hackaday.com/2018/06/07/linux-fu-watch-that-filesystem/)
 
+[seb-m/pyinotify: Monitoring filesystems events with inotify on Linux.](https://github.com/seb-m/pyinotify)
+[gene-git/pynotify: Python class which implements "inotify". Easy to monitor file(s) for events](https://github.com/gene-git/pynotify)
+
+[chrisjbillington/inotify_simple: A simple Python wrapper around inotify. No fancy bells and whistles, just a literal wrapper with ctypes.](https://github.com/chrisjbillington/inotify_simple) C binding
+[letorbi/inotifyrecursive: Simple recursive inotify watches for Python.](https://github.com/letorbi/inotifyrecursive)
+
 [entr(1)](http://eradman.com/entrproject/)
 
 ## cpio
@@ -699,6 +709,12 @@ find . -maxdepth 2 -name *json | xargs -I@ jq -c '{slideId, w: .width, h: .heigh
 # match field
 cat JSON | jq -c 'select(.row === 33089)'
 cat JSON | jq -c 'select(.list | contains(["foo", "bar"]) | select(.access | test("(deny|disallow)") | not)'
+
+# pick fields
+bat -r:5 JSON | jq '{ session_id, events: (.events|map(pick(.eventid, .input))) }'
+
+# remove fields
+bat -r:5 JSON | jq -c '. | { events: (.events|map(del(.geoip_ext))|map(del(.geoip))), tactics }'
 ```
 
 `tocsv.jq`:
@@ -731,6 +747,10 @@ tocsv(.)
 ### jql
 
 [JQL — command-line utility in Rust // Lib.rs](https://lib.rs/crates/jql)
+
+## pup
+
+[ericchiang/pup: Parsing HTML at the command line](https://github.com/ericchiang/pup)
 
 ## Toolbelt
 

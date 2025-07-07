@@ -2,7 +2,7 @@
 title: Arch Post Install
 description: ""
 created: 2021-01-08
-updated: 2025-01-09
+updated: 2025-06-27
 tags:
   - arch-linux
   - desktop
@@ -46,12 +46,12 @@ yay -S --needed --noconfirm eza fish guake kitty ttf-firacode-nerd noto-fonts-cj
 yay -S --needed --noconfirm colordiff diff-so-fancy fpp hadolint jshon plocate shellcheck-bin zoxide
 # new way to rebind mouse/keyboard keys (rather than using X11 conf)
 yay -S --needed --noconfirm sxhkd xautomation xev xdo xdotool
-yay -S --needed --noconfirm dropbox pcloud-drive google-chrome sublime-text-3 visual-studio-code-bin 7-zip-full nemo nemo-compare
+yay -S --needed --noconfirm dropbox pcloud-drive google-chrome sublime-text-3 visual-studio-code-bin p7zip-full-bin nemo nemo-compare
 
 # admin tools
 baobab dconf dconf-editor htop lnav mimeo
 # system tools
-base-devel ccache clang cmake docker docker-buildx docker-compose lshw nethogs pyenv sysstat
+at base-devel ccache clang cmake docker docker-buildx docker-compose lshw nethogs sysstat
 #  udev-browse-git
 
 # runtime
@@ -74,7 +74,7 @@ rofi rofi-power-menu rofimoji
 meld sublime-merge
 mediainfo mediainfo-gui mpv subtitleeditor
 # office tools
-libreoffice-fresh teamviewer turbovnc
+onlyoffice-bin teamviewer turbovnc
 # ebook
 calibre
 # communication tools
@@ -84,7 +84,8 @@ teams signal-desktop
 openconnect networkmanager-openconnect networkmanager-pptp tailscale
 
 # server tools
-dbgate #studio-3t sqlitestudio
+# electron30 is very large, use electron30-bin
+electron30-bin dbgate-bin #studio-3t sqlitestudio
 ```
 
 ```sh
@@ -536,10 +537,12 @@ sudo updatedb
 ```sh
 # for wireshark
 sudo usermod -a -G wireshark $USER
+
 # for nginx
 # enable `user http;` in `/etc/nginx/nginx.conf`
 sudo usermod -a -G http $USER
 chgrp -R http /www/public/
+
 # for /dev/tty*
 sudo usermod -a -G uucp $USER
 ```

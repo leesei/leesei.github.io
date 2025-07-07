@@ -2,7 +2,7 @@
 title: Design Patterns
 description: ""
 created: 2019-05-24
-updated: 2025-01-09
+updated: 2025-04-09
 tags:
   - comp/lang
 ---
@@ -356,6 +356,8 @@ CodeOpinion
 
 ## Event-Driven Architectures
 
+> [[nodejs-runtime#Event Emitter]]
+
 [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler - YouTube](https://www.youtube.com/watch?v=STKCRSUsyP0)
 [GOTO 2020 • The Power of Event-Driven Systems without Burning your Hands or Budgets • Allard Buijze - YouTube](https://www.youtube.com/watch?v=Fso2OyguRuQ)
 
@@ -367,8 +369,11 @@ CodeOpinion
 [From Request/Response to Events - DZone Microservices](https://dzone.com/articles/from-requestresponse-to-events)
 [How to tame event-driven microservices | InfoWorld](https://www.infoworld.com/article/3391592/how-to-tame-event-driven-microservices.html)
 
-[Implementing Your Own Event Loop From Scratch - DEV Community](https://dev.to/pratikgchaudhari/implementing-your-own-event-loop-from-scratch-44l9)
+[Implementing Your Own Event Loop From Scratch - DEV Community](https://dev.to/pratikgchaudhari/implementing-your-own-event-loop-from-scratch-44l9) Java
 [pratikgchaudhari/event-loop-demo: A project to learn how Event Loop works.](https://github.com/pratikgchaudhari/event-loop-demo)
+
+[jfhbrook/pyee: A rough port of Node.js's EventEmitter to Python with a few tricks of its own](https://github.com/jfhbrook/pyee)
+[pyee Documentation](https://pyee.readthedocs.io/en/latest/)
 
 [The Many Meanings of Event-Driven Architecture • Martin Fowler • GOTO 2017 - YouTube](https://www.youtube.com/watch?v=STKCRSUsyP0)
 [Event-Driven Architecture: I do not think it means what you think it means - YouTube](https://www.youtube.com/watch?v=iAA7PTqs4xY)
@@ -380,6 +385,27 @@ CodeOpinion
 3. Event Sourcing Pattern
 4. Backpressure Pattern
 5. Saga Pattern
+
+```js
+const EventEmitter = require("events");
+
+class AsyncEventEmitter extends EventEmitter {
+  /**
+   * @param {!string} event
+   * @param {...*} args
+   * @return {!Promise}
+   */
+  emitAsync(event, ...args) {
+    const promises = [];
+    this.listeners(event).forEach((listener) => {
+      promises.push(listener(...args));
+    });
+    return Promise.all(promises);
+  }
+}
+
+module.exports = AsyncEventEmitter;
+```
 
 ## Event Sourcing
 

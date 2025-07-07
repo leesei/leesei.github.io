@@ -2,7 +2,7 @@
 title: macOS
 description: ""
 created: 2016-01-03
-updated: 2025-01-09
+updated: 2025-06-27
 tags:
   - app
   - bootcamp
@@ -21,7 +21,7 @@ tags:
 [herrbischoff/awesome-macos-command-line: Use your macOS terminal shell to do awesome things.](https://github.com/herrbischoff/awesome-macos-command-line)
 [dtinth/JXA-Cookbook: Cookbook for JavaScript for Automation in Mac OS X Yosemite](https://github.com/dtinth/JXA-Cookbook)
 
-[Mac 云课堂 - YouTube](https://www.youtube.com/channel/UCGHCIkfEHaKT7zsq8wzqeOQ)
+[Mac云课堂 - YouTube](https://www.youtube.com/@Mac-XiuKang)
 [5 top ways to run Windows on a Mac | Computerworld](https://www.computerworld.com/article/3224399/microsoft-windows/5-top-ways-to-run-windows-on-a-mac.html)
 
 [Dunedan/mbp-2016-linux: State of Linux on the MacBook Pro 2016 & 2017](https://github.com/Dunedan/mbp-2016-linux)
@@ -59,7 +59,7 @@ If you don't have Windows install USB:
 [How to Hibernate a Mac | Envato Tuts+](https://computers.tutsplus.com/how-to-hibernate-a-mac--cms-23235t)
 [sleep wake - Is there a keyboard shortcut for hibernate now a Mac, without changing power settings? - Ask Different](https://apple.stackexchange.com/questions/239177/is-there-a-keyboard-shortcut-for-hibernate-now-a-mac-without-changing-power-set)
 
-[dazuelos/hibernate: shell scripts about hibernation of MacOS](https://github.com/dazuelos/hibernate/)
+[dazuelos/hibernate: shell scripts about hibernation of macOS](https://github.com/dazuelos/hibernate/)
 
 ## Productivity
 
@@ -72,7 +72,10 @@ If you don't have Windows install USB:
 [AppleScript: The Language of Automation](https://macosxautomation.com/applescript/index.html)
 [Hammerspoon](https://www.hammerspoon.org/) better than AppleScript
 
-[Karabiner-Elements](https://karabiner-elements.pqrs.org/) key remapping
+key remapping
+[Karabiner-Elements](https://karabiner-elements.pqrs.org/)
+[koekeishiya/skhd: Simple hotkey daemon for macOS](https://github.com/koekeishiya/skhd)
+[Global hotkeys for macOS with skhd | myByways](https://mybyways.com/blog/global-hotkeys-for-macos-with-skhd)
 
 ### Launcher
 

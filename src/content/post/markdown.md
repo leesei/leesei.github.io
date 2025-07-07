@@ -2,7 +2,7 @@
 title: Markdown
 description: ""
 created: 2015-04-23
-updated: 2025-01-09
+updated: 2025-05-14
 tags:
   - comp/lang
   - markdown
@@ -26,8 +26,6 @@ tags:
 
 [List of CommonMark Implementations · commonmark/CommonMark Wiki](https://github.com/commonmark/CommonMark/wiki/list-of-commonmark-implementations)
 [babelmark3 | Compare Markdown Implementations](https://babelmark.github.io/)
-
-[Markdoc | A powerful, flexible, Markdown-based authoring framework](https://markdoc.dev/) parser and renderer pipeline, supports directives
 
 [nonplain](https://github.com/nonplain) Plaintext files, with metadata; also supports Markdown
 
@@ -68,6 +66,18 @@ tags:
 
 [Haroopad - The Next Document processor based on Markdown](http://pad.haroopress.com/)
 [rhiokim/haroopad](https://github.com/rhiokim/haroopad)
+
+## IETF Draft
+
+[danyork/writing-internet-drafts-in-markdown: A presentation (in Markdown) for the IETF Hub Boston on June 12, 2018.](https://github.com/danyork/writing-internet-drafts-in-markdown)
+
+[mmarkdown/mmark: Mmark: a powerful markdown processor in Go geared towards the IETF](https://github.com/mmarkdown/mmark)
+[xml2rfc · PyPI](https://pypi.org/project/xml2rfc/)
+
+```sh
+% ./mmark rfc/3514.md > x.xml
+% xml2rfc --v3 --text x.xml
+```
 
 ## Converters
 

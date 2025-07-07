@@ -2,7 +2,7 @@
 title: Pixar Universe
 description: ""
 created: 2016-04-17
-updated: 2025-01-09
+updated: 2025-01-22
 tags:
   - anime
   - pixar
@@ -46,3 +46,9 @@ tags:
 [Meet all of Cars 3 Characters - Cars 3 Cast and Character Names](https://www.caranddriver.com/features/g15086608/cars-3-characters-names/)
 
 [CARS Easter Eggs, you missed some, I promise. - YouTube](https://www.youtube.com/watch?v=yQRTnXRjaGk&list=PLQZ6KauekhWjKfiBli348nurPg9Y-AIf6)
+[How Pixar's Cars Tricked An Entire Generation - YouTube](https://www.youtube.com/watch?v=4AiEKkbFoH4)
+
+## Incredibles
+
+[The Disturbing World Of The Incredibles - YouTube](https://www.youtube.com/watch?v=L8wdnPiTtrk)
+[How Incredibles 2 Tricked An Entire Generation - YouTube](https://www.youtube.com/watch?v=EkKG6NEZwm4)

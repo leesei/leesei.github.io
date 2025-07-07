@@ -2,15 +2,15 @@
 title: Boot
 description: ""
 created: 2015-05-10
-updated: 2025-01-09
+updated: 2025-07-01
 tags:
   - desktop
   - linux
 ---
 
-[Booting - Wikiwand](https://www.wikiwand.com/en/Booting#/SPL)
+[Booting - Wikiwand](https://www.wikiwand.com/en/Booting)
 
-POST -> BIOS/ROM code -> MBR of boot partition -> Bootloader ->
+POST -> BIOS/ROM code -> MBR of boot partition -> Bootloader (SPL)->
 Kernel -> [`init`](https://wiki.archlinux.org/title/Init)/[`systemd`](https://wiki.archlinux.org/title/Systemd) ->
 shell/display manager (login) -> `startx`/`xinit` -> DE
 
@@ -27,9 +27,9 @@ shell/display manager (login) -> `startx`/`xinit` -> DE
    a. boot loader knows how to read kernel from file system
    b. usually loads kernel to an address > 1MB and switches to
    protected mode before jumping to kernel entry point
-   protected mode before jumping to kernel entry point
 
 ```
+
 +--------+----------------+----------------+----------+
 | Boot   | Terminology #1 | Terminology #2 | Actual   |
 | stage  |                |                | program  |
@@ -113,7 +113,8 @@ SPL (secondary program loader) is needed when the static RAM cannot hold the who
 
 ## Secure boot
 
-Technological Protection Measures (TPMs)
+requires Trusted Platform Module (TPMs)
+[All About TPMs](https://smallstep.com/blog/trusted-platform-modules-tpms/)
 
 ## initramfs
 
@@ -371,7 +372,7 @@ pre-stop exec /usr/bin/docker stop -a docker-wordpress
 
 ### `Launchd`
 
-used by MacOS
+used by macOS
 
 [Launchd: One Program to Rule them All - YouTube](https://www.youtube.com/watch?v=SjrtySM9Dns)
-[About Daemons and Services](https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/Introduction.html)
+[About Daemons and Services](https://developer.apple.com/library/archive/documentation/macOSX/Conceptual/BPSystemStartup/Chapters/Introduction.html)

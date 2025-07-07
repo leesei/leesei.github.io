@@ -2,7 +2,7 @@
 title: Google Apps
 description: ""
 created: 2017-02-11
-updated: 2025-01-09
+updated: 2025-06-30
 tags:
   - google
   - web
@@ -45,6 +45,7 @@ tags:
 
 [十分鐘精通 Google 表單設計！（訂餐表格、課程報名表、線上測驗） - YouTube](https://www.youtube.com/watch?v=P9nWPWushdY)
 [These 8 Google Sheets Formulas Simplify My Budgeting Spreadsheet](https://www.makeuseof.com/simplify-budgeting-with-google-sheets-formulas/)
+[This Google Sheets Function Shaved Hours Off My Week](https://www.makeuseof.com/google-sheets-function-saves-hours/)
 
 ### API/Automation
 
@@ -148,6 +149,11 @@ tags:
 
 [Google Maps 實用攻略 旅行前幫你輕鬆規劃行程 - Smart Collection - Articles - YOHO](https://www.yohohongkong.com/post/490-Google-Maps-%E5%AF%A6%E7%94%A8%E6%94%BB%E7%95%A5-%E6%97%85%E8%A1%8C%E5%89%8D%E5%B9%AB%E4%BD%A0%E8%BC%95%E9%AC%86%E8%A6%8F%E5%8A%83%E8%A1%8C%E7%A8%8B)
 
+[The secret economics of Google Street View - YouTube](https://www.youtube.com/watch?v=Jp2Qgw44MsA)
+
+[GeoGuessr - Let's explore the world!](https://www.geoguessr.com/)
+[GeoGuessr Free | Unlimited Mode](https://geoguessr.io/)
+
 ## Google Earth
 
 [Google Earth](https://earth.google.com/web/) Web
@@ -164,14 +170,15 @@ tags:
 [Search operators you can use with Gmail - Gmail Help](https://support.google.com/mail/answer/7190?hl=en)
 [Find emails much faster and easier with new Gmail search operators | ITworld](https://www.itworld.com/article/2717895/find-emails-much-faster-and-easier-with-new-gmail-search-operators.html)
 [How to filter mail older than a certain date in Gmail – FIT Information Technology](https://it.fitnyc.edu/kb/how-to-filter-mail-older-than-a-certain-date-in-gmail/)
+[Gmail’s Search Bar Is Wildly Powerful—if You Know What to Type](https://www.makeuseof.com/gmail-inbox-search-hacks/)
 
 ```
 category:primary|social|promotions|updates|forums
 newer_than:2h|3d
 older_than:30d|1M|
 older:YYYY/MM/DD
-larger:500M
 has:nouserlabels -in:inbox
+has:attachment larger:10M
 ```
 
 [How to Easily Automate Emails with Python | by Frank Andrade | Jun, 2022 | Towards Data Science](https://towardsdatascience.com/how-to-easily-automate-emails-with-python-8b476045c151) Google Account App password, SMTP

@@ -2,7 +2,7 @@
 title: Artificial Intelligence
 description: ""
 created: 2015-04-14
-updated: 2025-01-09
+updated: 2025-06-20
 tags:
   - ai
   - artificial-intelligence
@@ -12,6 +12,14 @@ tags:
 
 [[generative-ai]]
 [[distributed-computing.md#CUDA]]
+
+[Choosing the Right Machine Learning Algorithm: A Decision Tree Approach - KDnuggets](https://www.kdnuggets.com/choosing-the-right-machine-learning-algorithm-a-decision-tree-approach)
+
+[Artificial intelligence - Wikiwand](https://www.wikiwand.com/en/articles/Artificial_intelligence)
+[Symbolic artificial intelligence - Wikiwand](https://www.wikiwand.com/en/articles/Symbolic_artificial_intelligence)
+[Neural network (machine learning) - Wikiwand](https://www.wikiwand.com/en/articles/Artificial_neural_network)
+[Autoencoder - Wikiwand](https://www.wikiwand.com/en/articles/Autoencoder) unsupervised NN
+[Transformer (deep learning architecture) - Wikiwand](<https://www.wikiwand.com/en/articles/Transformer_(deep_learning_architecture)>)
 
 [Data Science and Robots Blog](https://brohrer.github.io/blog.html) ❗!important
 [Distill — Latest articles about machine learning](https://distill.pub/)
@@ -128,6 +136,7 @@ Clustering is usually a task for unsupervised learners. The algorithm is expecte
 [Machine Learning Theory - Part 3: Regularization and the Bias-variance Trade-off](https://mostafa-samir.github.io/ml-theory-pt3/)
 [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 [20 free books to get started with Artificial Intelligence](http://bigdata-madesimple.com/20-free-books-to-get-started-with-artificial-intelligence/)
+[10 Free Machine Learning Books For 2025 - KDnuggets](https://www.kdnuggets.com/10-free-machine-learning-books-for-2025)
 [Free Resources | MarkTechPost](https://www.marktechpost.com/free-resources/)
 
 [Model Training with Yufeng Guo | Software Engineering Daily](https://softwareengineeringdaily.com/2017/10/18/model-training-with-yufeng-guo/)
@@ -160,6 +169,12 @@ are ANI (N for narrow), the supposed "AI" is AGI (G for general)
 [Artificial Intelligence Vs Machine Learning Vs Deep Learning](https://www.analyticsvidhya.com/blog/2021/05/ai-ml-dl/)
 [AI vs Machine Learning vs Deep Learning | Edureka](https://www.edureka.co/blog/ai-vs-machine-learning-vs-deep-learning/)
 [Deep learning vs. machine learning – What’s the difference?](https://levity.ai/blog/difference-machine-learning-deep-learning)
+
+## AI Wall
+
+[What is the AI Wall? Prominent AI researchers about the scaling law – 4sysops](https://4sysops.com/archives/what-is-the-ai-wall-prominent-ai-researchers-about-the-scaling-law/) we can scale compute, but not the data
+[How OpenAI o3 crashed into the AI Wall – 4sysops](https://4sysops.com/archives/how-openai-o3-crashed-into-the-ai-wall/)
+[Does ARC-AGI measure AGI, and is OpenAI o3 a human-level intelligence? – 4sysops](https://4sysops.com/archives/does-arc-agi-measure-agi-and-is-openai-o3-a-human-level-intelligence/)
 
 ## Video
 
@@ -265,6 +280,8 @@ are ANI (N for narrow), the supposed "AI" is AGI (G for general)
 
 [Symbolic artificial intelligence - Wikiwand](https://www.wikiwand.com/en/Symbolic_artificial_intelligence) represented by Lisp
 
+[A Gentle Introduction to Symbolic AI - KDnuggets](https://www.kdnuggets.com/gentle-introduction-symbolic-ai)
+
 ## AI winter
 
 [AI winter is well on its way – Piekniewski's blog](https://blog.piekniewski.info/2018/05/28/ai-winter-is-well-on-its-way/)
@@ -332,6 +349,7 @@ Harmonic mean of precision and recall
 [The Mythos of Model Interpretability - ACM Queue](https://queue.acm.org/detail.cfm?id=3241340)
 
 [神力 AI(MANA)-国内最大的 AI 代码平台](https://manaai.cn/)
+[国产大模型新赛季：五强争锋 - YouTube](https://www.youtube.com/watch?v=XfilTB8lQkk)
 
 [Home | TensorFlow Hub](https://tfhub.dev/)
 [models/official at master · tensorflow/models](https://github.com/tensorflow/models/tree/master/official)
@@ -339,7 +357,10 @@ Harmonic mean of precision and recall
 
 [For Researchers | PyTorch](https://pytorch.org/hub/research-models)
 
-[Hugging Face – On a mission to solve NLP, one commit at a time.](https://huggingface.co/models)
+[Models - Hugging Face](https://huggingface.co/models)
+[数据集-OpenDataLab](https://opendatalab.org.cn/)
+
+[Gradio](https://www.gradio.app/)
 
 ---
 
@@ -412,6 +433,9 @@ Google’s sophisticated WaveNet audio processing neural network, and because it
 [keon/awesome-nlp: A curated list of resources dedicated to Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp)
 [Deep Learning for NLP: ANNs, RNNs and LSTMs explained!](https://www.kdnuggets.com/2019/08/deep-learning-nlp-explained.html)
 
+[Detecting adversarial behaviour by applying NLP techniques to command lines - F-Secure Blog](https://blog.f-secure.com/command-lines/)
+[idank/bashlex: Python parser for bash](https://github.com/idank/bashlex)
+
 [Introducing speech-to-text, text-to-speech, and more for 1,100+ languages](https://ai.meta.com/blog/multilingual-model-speech-recognition/) Meta
 
 [jellyfish documentation](https://jellyfish.readthedocs.io/en/latest/)
@@ -443,7 +467,11 @@ Google’s sophisticated WaveNet audio processing neural network, and because it
 
 ### STT
 
+[The Evolution of Speech Recognition Metrics - KDnuggets](https://www.kdnuggets.com/2022/10/evolution-speech-recognition-metrics.html)
+
 [OpenSTT | An Open Source Speech-To-Text Project](https://openstt.org/)
+
+[KoljaB/RealtimeSTT: A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.](https://github.com/KoljaB/RealtimeSTT)
 
 [Python Project – How to Build Tony Stark's JARVIS with Python](https://www.freecodecamp.org/news/python-project-how-to-build-your-own-jarvis-using-python/)
 [SpeechRecognition · PyPI](https://pypi.org/project/SpeechRecognition/)
@@ -452,6 +480,10 @@ Google’s sophisticated WaveNet audio processing neural network, and because it
 [AssemblyAI Speech-to-Text API | Automatic Speech Recognition](https://www.assemblyai.com/)
 
 [SpeechRecognition - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition)
+
+[openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision](https://github.com/openai/whisper)
+[SYSTRAN/faster-whisper: Faster Whisper transcription with CTranslate2](https://github.com/SYSTRAN/faster-whisper)
+[Purfview/whisper-standalone-win: Whisper & Faster-Whisper standalone executables for those who don't want to bother with Python.](https://github.com/Purfview/whisper-standalone-win)
 
 [DeepSpeech 0.6: Mozilla's Speech-to-Text Engine Gets Fast, Lean, and Ubiquitous - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2019/12/deepspeech-0-6-mozillas-speech-to-text-engine/)
 [Mozilla updates DeepSpeech with an English language model that runs 'faster than real time' | VentureBeat](https://venturebeat.com/2019/12/05/mozilla-updates-deepspeech-with-an-english-language-model-that-runs-faster-than-real-time/)
@@ -466,6 +498,7 @@ Google’s sophisticated WaveNet audio processing neural network, and because it
 [Hearling | Text to Speech for everyone](https://hearling.com/) normal quality
 [Sound of Text](https://soundoftext.com/) normal quality
 [Voicemaker® - Text to Speech Converter](https://voicemaker.in/)
+[Speechify: Free Text to Speech Reader | 500,000+ 5-star Reviews](https://speechify.com/) 50,000 characters free
 
 [Mimic 3 - Mycroft](https://mycroft.ai/mimic-3/)
 [Mimic TTS - Mycroft AI](https://mycroft-ai.gitbook.io/docs/mycroft-technologies/mimic-tts/)
@@ -483,8 +516,6 @@ Google’s sophisticated WaveNet audio processing neural network, and because it
 [Web Speech API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 [Beautiful React Hooks docs](https://antonioru.github.io/beautiful-react-hooks/#/useSpeechSynthesis)
 [mozilla/TTS: :robot: Deep learning for Text to Speech (Discussion forum: https://discourse.mozilla.org/c/tts)](https://github.com/mozilla/TTS)
-
-[AI Voice Generator, Text To Speech, #1 Best AI Voice](https://speechify.com/)
 
 [Adding .NET Text-to-Speech Functionality to PowerShell](https://www.itprotoday.com/powershell/how-to-make-powershell-speak-text-to-speech-net-tutorial-)
 [SpeechSynthesizer Class (System.Speech.Synthesis) | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/api/system.speech.synthesis.speechsynthesizer?view=net-8.0)
@@ -556,6 +587,34 @@ Counterfactual World Modeling
 [Intel(R) MKL-DNN: Understanding Memory Formats](https://intel.github.io/mkl-dnn/understanding_memory_formats.html)
 [Image Pre-Processing | Caffe2](https://caffe2.ai/docs/tutorial-image-pre-processing.html)
 
+### Image Editing
+
+[IOPaint – IOPaint](https://www.iopaint.com/)
+[Sanster/IOPaint: Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.](https://github.com/Sanster/IOPaint)
+
+#### Handwriting Remover
+
+[EraseNet: End-to-End Text Removal in the Wild | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/9180003)
+
+[去手写-帮小忙，腾讯QQ浏览器在线工具箱](https://tool.browser.qq.com/handwriting_erasure.html)
+[试卷擦除 - 在线擦除试卷手写痕迹 - 拍试卷](https://www.paishijuan.com/shijuancachu/)
+
+[产品文档-智慧学习服务](https://ai.youdao.com/DOCSIRMA/html/learn/price/sjsxtcc/index.html)
+
+[百度网盘AI大赛：手写文字擦除(赛题二)\_飞桨大赛-飞桨AI Studio星河社区](https://aistudio.baidu.com/competition/detail/129/0/introduction)
+
+[zdyshine/Baidu-netdisk-AI-Image-processing-Challenge-handwriting: 手写文字擦除第1名方案，水印智能消除赛第1名](https://github.com/zdyshine/Baidu-netdisk-AI-Image-processing-Challenge-handwriting)
+
+[AndSonder/HandWritingEraser-Pytorch: Use Deeplabv3+ to achieve a handwriting earser on Chinese papers](https://github.com/AndSonder/HandWritingEraser-Pytorch)
+
+[adbu42/WPI_inpainting: Remove the handwriting of WPI Images with inpainting.](https://github.com/adbu42/WPI_inpainting)
+
+## Feature Selection
+
+> feature extraction and selection is done by the network in deep learning
+
+[A Complete Guide to 3ection Methods](https://www.statology.org/complete-guide-feature-selection-methods/)
+
 ## Clustering
 
 [Unsupervised Learning: Clustering Algorithms - Towards Data Science](https://towardsdatascience.com/unsupervised-learning-clustering-algorithms-5b290967f746)
@@ -586,6 +645,7 @@ It is not advisable to use the ordinal form of categorical variables in clusteri
 
 [PacktPublishing/Modern-Time-Series-Forecasting-with-Python: Modern Time Series Forecasting with Python, published by Packt](https://github.com/PacktPublishing/Modern-Time-Series-Forecasting-with-Python)
 
+[A Beginner's Guide to Time Series Analysis with Pandas](https://www.statology.org/beginner-guide-time-series-analysis-pandas/)
 [5 Basic DIY Python Functions to Help Master Time Series Analysis](https://www.statology.org/5-basic-diy-python-functions-to-help-master-time-series-analysis/)
 
 ### Forecasting
@@ -603,7 +663,11 @@ It is not advisable to use the ordinal form of categorical variables in clusteri
 [Anomaly Detection Techniques in Large-Scale Datasets - MachineLearningMastery.com](https://machinelearningmastery.com/anomaly-detection-techniques-in-large-scale-datasets/)
 [Anomaly Detection with Isolation Forest and Kernel Density Estimation - MachineLearningMastery.com](https://machinelearningmastery.com/anomaly-detection-with-isolation-forest-and-kernel-density-estimation/)
 
+[[2412.20512] Dive into Time-Series Anomaly Detection: A Decade Review](https://arxiv.org/abs/2412.20512)
+
 [[2004.00433] Anomaly Detection in Univariate Time-series: A Survey on the State-of-the-Art](https://arxiv.org/abs/2004.00433) AUC computation
+
+[用 z-score 抓出異常的量 – Gea-Suan Lin's BLOG](https://blog.gslin.org/archives/2024/12/31/12169/%E7%94%A8-z-score-%E6%8A%93%E5%87%BA%E7%95%B0%E5%B8%B8%E7%9A%84%E9%87%8F/)
 
 [Mastering Anomaly Detection in Time Series Data: Techniques and Insights | by Ketan Kumar | Medium](https://medium.com/@ketan31kumar/mastering-anomaly-detection-in-time-series-data-techniques-and-insights-98fbe94c4258)
 
@@ -638,6 +702,7 @@ Duality-gap based Heterogeneous Learning
 [Gradient Boosted Decision Trees Explained with a Real-Life Example and Some Python Code | by Carolina Bento | Towards Data Science](https://towardsdatascience.com/gradient-boosted-decision-trees-explained-with-a-real-life-example-and-some-python-code-77cee4ccf5e)
 [Gradient Boosted Decision Trees [Guide]: a Conceptual Explanation](https://neptune.ai/blog/gradient-boosted-decision-trees-guide)
 [Gradient Boosting: A Step-by-Step Guide](https://www.analyticsvidhya.com/blog/2021/09/gradient-boosting-algorithm-a-complete-guide-for-beginners/)
+[Selecting the Ideal Regression Model: A Decision Tree Approach](https://www.statology.org/selecting-the-ideal-regression-model-a-decision-tree-approach/)
 
 ## Random Forest
 
@@ -848,7 +913,8 @@ Generative Query Network: 3D reconstruction based on 2D images
 [AI Learns to Play Super Mario Bros! - YouTube](https://www.youtube.com/watch?v=CI3FRsSAa_U)
 [AI Learns To Play Super Mario Bros Using A Genetic Algorithm And Neural Network | Chrispresso - All things programming, all things AI](https://chrispresso.io/AI_Learns_To_Play_SMB_Using_GA_And_NN)
 
-[The Story of The Best Trackmania AI Ever Made - YouTube](https://www.youtube.com/watch?v=cUojVsCJ51I)
+[The Story of The Best Trackmania AI Ever Made - YouTube](https://www.youtube.com/watch?v=cUojVsCJ51I) 2024-05, Linesight
+[AI exploits a bug in Trackmania - YouTube](https://www.youtube.com/watch?v=NUl6QikjR04) 2025-02, Yosh, Noseboost
 
 [Python Plays: Grand Theft Auto V - YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeETZEOy4VdocT7TOjfSA8a)
 [Python AI in StarCraft II - YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcT3tPehHdisGMc8TInNqdq)
@@ -973,8 +1039,6 @@ Deep Learning = Artificial Neural Networks with more than 1 hidden layers
 
 [What is deep learning, and why should you care? - O'Reilly Radar](http://radar.oreilly.com/2014/07/what-is-deep-learning-and-why-should-you-care.html)
 [What deep learning really means | InfoWorld](http://www.infoworld.com/article/3163130/artificial-intelligence/what-deep-learning-really-means.html)
-
-> feature extraction is done mostly in deep learning process
 
 [Data in, intelligence out: Machine learning pipelines demystified | InfoWorld](http://www.infoworld.com/article/3198252/artificial-intelligence/data-in-intelligence-out-machine-learning-pipelines-demystified.html)
 [Do You Know The Difference Between Data Analytics And AI Machine Learning?](https://www.forbes.com/sites/forbesagencycouncil/2018/08/01/do-you-know-the-difference-between-data-analytics-and-ai-machine-learning/)
@@ -1376,6 +1440,13 @@ JavaScript:
 [TFRT: A new TensorFlow runtime — The TensorFlow Blog](https://blog.tensorflow.org/2020/04/tfrt-new-tensorflow-runtime.html)
 [Google Open-Sources New Higher Performance TensorFlow Runtime](https://www.infoq.com/news/2020/05/google-tensorflow-runtime/)
 
+## PyCaret
+
+> end-to-end machine learning and model management tool that exponentially speeds up the experiment cycle and makes you more productive
+
+[Home - PyCaret](https://pycaret.org/)
+[Creating Powerful Ensemble Models with PyCaret - MachineLearningMastery.com](https://machinelearningmastery.com/creating-powerful-ensemble-models-pycaret/)
+
 ## PyTorch
 
 [PyTorch](http://pytorch.org/)
@@ -1410,6 +1481,7 @@ JavaScript:
 
 [A Beginner-Friendly Guide to PyTorch and How it Works from Scratch](https://www.analyticsvidhya.com/blog/2019/09/introduction-to-pytorch-from-scratch/)
 [How to build Convolutional Neural Networks in PyTorch?](https://www.analyticsvidhya.com/blog/2019/10/building-image-classification-models-cnn-pytorch/)
+[Optimizing Memory Usage in PyTorch Models - MachineLearningMastery.com](https://machinelearningmastery.com/optimizing-memory-usage-pytorch-models/)
 
 [Facebook launches 3D deep learning library for PyTorch | VentureBeat](https://venturebeat.com/2020/02/06/facebook-launches-3d-deep-learning-library-for-pytorch/amp/)
 [zalandoresearch/flair: A very simple framework for state-of-the-art Natural Language Processing (NLP)](https://github.com/zalandoresearch/flair)
@@ -1453,6 +1525,25 @@ DSSTNE, pronounced “destiny”, optimizes for data sparseness and scalability 
 # AI Model Security
 
 [trailofbits/awesome-ml-security](https://github.com/trailofbits/awesome-ml-security)
+
+[First Known Zero-Click AI Exploit: Microsoft 365 Copilot's 'EchoLeak' Flaw](https://www.techrepublic.com/article/news-microsoft-365-copilot-flaw-echoleak/)
+
+#### Glitch Prompt/Prompt Injection
+
+[GPT3: An Even Bigger Language Model - Computerphile - YouTube](https://www.youtube.com/watch?v=_8yVOC4ciXc)
+[ChatGPT with Rob Miles - Computerphile - YouTube](https://www.youtube.com/watch?v=viJt_DXTfwA)
+[Glitch Tokens - Computerphile - YouTube](https://www.youtube.com/watch?v=WO2X3oZEJOA)
+
+[Why Prompt Injection Is a Threat to Large Language Models](https://www.itprotoday.com/software-development-techniques/why-prompt-injection-is-a-threat-to-large-language-models)
+[Hackers Uncovered AI Chatbots’ Weaknesses. Here’s What They Found.](https://www.itprotoday.com/artificial-intelligence/hackers-competed-uncover-ai-chatbots-weaknesses-here-s-what-they-found) 2024-04 many old hack don't work anymore
+[DeepSeek Failed Over Half of the Jailbreak Tests by Qualys TotalAI | Qualys](https://blog.qualys.com/vulnerabilities-threat-research/2025/01/31/deepseek-failed-over-half-of-the-jailbreak-tests-by-qualys-totalai)
+
+[Generative AI's Greatest Flaw - Computerphile - YouTube](https://www.youtube.com/watch?v=rAEqP9VEhe8) Indirect Prompt Injection, poisoning data in RAG
+
+[Forget Deepfakes or Phishing: Prompt Injection is GenAI's Biggest Problem](https://www.darkreading.com/cyber-risk/forget-deepfakes-or-phishing-prompt-injection-is-genai-s-biggest-problem)
+[AI Chatbots Ditch Guardrails After 'Deceptive Delight' Cocktail](https://www.darkreading.com/vulnerabilities-threats/ai-chatbots-ditch-guardrails-deceptive-delight-cocktail)
+
+[Gen AI Red Team Challenge.pdf](./_assets/generative-ai/Gen%20AI%20Red%20Team%20Challenge.pdf)
 
 ---
 

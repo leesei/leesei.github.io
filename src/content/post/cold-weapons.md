@@ -2,7 +2,7 @@
 title: Cold Weapons
 description: ""
 created: 2015-10-09
-updated: 2025-01-09
+updated: 2025-07-03
 tags:
   - weapons
 ---
@@ -11,11 +11,15 @@ tags:
 [List of premodern combat weapons - Wikiwand](http://www.wikiwand.com/en/List_of_premodern_combat_weapons)
 
 [Weapons and armour - YouTube](https://www.youtube.com/playlist?list=PLCA860ECD7F894424) Lindybeige
-[Walter Sorrells - YouTube](https://www.youtube.com/user/slappybuckshot)
-[scholagladiatoria - YouTube](https://www.youtube.com/channel/UCt14YOvYhd5FCGCwcjhrOdA)
-[epicfantasy - YouTube](https://www.youtube.com/user/epicfantasy)
-[Tod's Workshop - YouTube](https://www.youtube.com/channel/UCWnlQMQ-ACfhpD68yWRsnJw)
-[Royal Armouries - YouTube](https://www.youtube.com/user/RoyalArmouries)
+[Walter Sorrells - YouTube](https://www.youtube.com/@WalterSorrellsBlades)
+[epicfantasy - YouTube](https://www.youtube.com/@epicfantasy)
+[scholagladiatoria - YouTube](https://www.youtube.com/@scholagladiatoria)
+[SandRhoman History - YouTube](https://www.youtube.com/@SandRhomanHistory) battles
+[Tod's Workshop - YouTube](https://www.youtube.com/@tods_workshop)
+[Royal Armouries - YouTube](https://www.youtube.com/@RoyalArmouriesMuseum) cold and hot weapons
+[艾姆霸霸 - YouTube](https://www.youtube.com/@%E8%89%BE%E5%A7%86%E9%9C%B8%E9%9C%B8) check old videos in playlist
+[極端武力 - YouTube](https://www.youtube.com/@%E6%A5%B5%E7%AB%AF%E6%AD%A6%E5%8A%9B)
+[冷兵器研究所OfficialChannel - YouTube](https://www.youtube.com/@%E5%86%B7%E5%85%B5%E5%99%A8%E7%A0%94%E7%A9%B6%E6%89%80Official)
 
 [Association for Renaissance Martial Arts](http://www.thearma.org/)
 [Mediaeval Sword](http://www.vikingsword.com/)
@@ -24,7 +28,6 @@ tags:
 [Albion Swords Ltd - Sword Cutlers and Blademakers - Fine Handmade Collectable Limited Edition Museum Quality Medieval Swords](https://albion-swords.com/index.html)
 [myArmoury.com](https://myarmoury.com/home.html)
 [Home - Sword and Stone](http://www.swordandstone.com/)
-[大理寺卿 - YouTube](https://www.youtube.com/channel/UCTp8-nJj3jyUpNR31YjnfEQ) also on ships
 
 南北朝時期, 綦毋懷文以灌鋼法和嵌鋼技術做宿鐵刀; 據傳以動物尿液和脂肪作淬火
 灌鋼: 以熔化的生鐵與范內的熟鐵片高温溶合, 得到合適的含碳量, 以低成本量產鋼材
@@ -63,6 +66,9 @@ tags:
 [戈 (武器) - Wikiwand](<https://www.wikiwand.com/zh/%E6%88%88_(%E6%AD%A6%E5%99%A8)>) 以勾擊為主要攻擊方式
 [矛 - Wikiwand](https://www.wikiwand.com/zh/%E7%9F%9B) 跟槍、槊同樣
 [戟 - Wikiwand](https://www.wikiwand.com/zh/%E6%88%9F) 結合戈與矛
+
+[中华兵器巡礼 - YouTube](https://www.youtube.com/playlist?list=PLE_JCp32FjBXryqQbvVPmrNLBnbv4haH2) 冷兵器研究所
+[東方武器如何在美國創業，拐如何成爲警用裝備，拐的威力到底有多大 - YouTube](https://www.youtube.com/watch?v=bc8NRl3Eb2Y)
 
 [[chinese-swords]]
 
@@ -111,10 +117,13 @@ tags:
 [A point about sieges - YouTube](https://www.youtube.com/watch?v=7IO-CooA4_Y)
 [Sieges and Siege-craft - YouTube](https://www.youtube.com/watch?v=iq1EHbWTbFU)
 [Medieval castle SIEGES in depth - YouTube](https://www.youtube.com/watch?v=Bc2o9mknM-Y)
+[Eastern vs Western Siegecraft: When the Chinese Besieged a Russian Star Fortress in 1686 - YouTube](https://www.youtube.com/watch?v=7DcUVcvpV0E)
+[Hey kid... Wanna Siege a Castle? - YouTube](https://www.youtube.com/watch?v=GZ1-BtL6j14)
 
 [古代守城兵爲何不推倒梯子？不是不想而是不能，別被影視劇騙了！ - YouTube](https://www.youtube.com/watch?v=JwG9bOxG438)
 [【不止遊戲】遊戲和電影出現的攻城器械，究竟是如何攻破城牆防禦的？ - YouTube](https://www.youtube.com/watch?v=AnM2If-BbmE)
 [【不止遊戲】投石機是怎麼丟出那些巨大的石塊? - YouTube](https://www.youtube.com/watch?v=9qrE6rrybK0)
+[盤點古代攻城器械，是如何被運用在戰場｜攻城器具的歷史和發展｜弩砲 投石機 攻城塔 衝車 床弩 拋石機 重力投石機 - YouTube](https://www.youtube.com/watch?v=4vHJAA9vSWQ)
 
 [投石汽車！把古老的攻城機械裝在車上！直接開到哪裡投到哪裡！【胡思亂搞】(ft. 中華汽車 ZINGER PICK UP) - YouTube](https://www.youtube.com/watch?v=EuiwQSejnl8)
 [火球投石車！紅焰劃破夜空那畫面實在太震撼！【胡思亂搞】 - YouTube](https://www.youtube.com/watch?v=JtZKZtsDZns)

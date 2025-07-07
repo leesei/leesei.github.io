@@ -2,7 +2,7 @@
 title: VPN
 description: ""
 created: 2023-04-14
-updated: 2025-01-09
+updated: 2025-07-03
 tags:
   - comp/network
 ---
@@ -89,6 +89,8 @@ tags:
 > self-hosting available
 
 [Tailscale · Best VPN Service for Secure Networks](https://tailscale.com/)
+[Tailscale - YouTube](https://www.youtube.com/@Tailscale)
+[5 things you didn't know you could do with Tailscale | Recorded for PlatformCon NYC 2025 - YouTube](https://www.youtube.com/watch?v=dZs-xPKD2vM)
 
 [Free pricing plans and discounts · Tailscale](https://tailscale.com/kb/1154/free-plans-discounts/)
 

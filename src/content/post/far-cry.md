@@ -2,7 +2,7 @@
 title: Far Cry
 description: ""
 created: 2023-08-14
-updated: 2025-01-09
+updated: 2025-02-16
 tags:
   - far-cry
   - games
@@ -40,5 +40,5 @@ https://www.ign.com/maps/far-cry-primal/oros-valley
 
 [Steam Community :: Guide :: Tamable Animals in Far Cry: Primal](https://steamcommunity.com/sharedfiles/filedetails/?id=838624010)
 [Far Cry Primal animal taming guide | Far Cry Primal](https://www.gameskinny.com/eqr92/far-cry-primal-animal-taming-guide)
-[Far Cry Primal Animal List | Far Cry Wiki | FANDOM powered by Wikia](https://farcry.fandom.com/wiki/Far_Cry_Primal_Animal_List)
+[Far Cry Primal Animal List | Far Cry Wiki | Fandom](https://farcry.fandom.com/wiki/Far_Cry_Primal_Animal_List)
 [Far Cry Primal - All the Pet Animals - YouTube](https://www.youtube.com/watch?v=cKE2tsvwK5E)

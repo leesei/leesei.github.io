@@ -2,7 +2,7 @@
 title: Kubernetes
 description: ""
 created: 2014-12-11
-updated: 2025-01-09
+updated: 2025-04-09
 tags:
   - container
   - dev/deploy
@@ -97,6 +97,7 @@ tags:
 [A guide for CTO: 8 questions to ask before using Kubernetes](https://www.qovery.com/blog/a-guide-for-cto-8-questions-to-ask-before-using-kubernetes)
 [7 things no one will ever tell you about Kubernetes](https://www.qovery.com/blog/7-things-no-one-will-ever-tell-you-about-kubernetes)
 [You Don’t Need Kubernetes - YouTube](https://www.youtube.com/watch?v=H5sPGruv2yc)
+[What Kubernetes should learn from other Orchestrators - YouTube](https://www.youtube.com/watch?v=9N9IOpyl3v8)
 
 ## Adopting K8s
 
@@ -232,13 +233,13 @@ Kubernetes pods are a group of containers that act like a single VM: they have a
 [Designing Your First Application in Kubernetes, Part 4: Configuration - Docker Blog](https://www.docker.com/blog/designing-your-first-application-kubernetes-configuration-part4/)
 [Designing Your First Application in Kubernetes, Part 5: Provisioning Storage - Docker Blog](https://www.docker.com/blog/designing-your-first-application-kubernetes-storage-part5/)
 
-[Kubernetes - YouTube](https://www.youtube.com/kubernetescommunity)
-[Kubernetes Best Practices - YouTube](https://www.youtube.com/playlist?list=PLIivdWyY5sqL3xfXz5xJvwzFW_tlQB_GB)
-[Rancher Labs - YouTube](https://www.youtube.com/channel/UCh5Xtp82q8wjijP8npkVTBA/featured)
-[TGI Kubernetes - YouTube](https://www.youtube.com/playlist?list=PLvmPtYZtoXOENHJiAQc6HmV2jmuexKfrJ)
-[K8s Primer - YouTube](https://www.youtube.com/playlist?list=PLTyWtrsGknYdHLSdZz9fW0cMnpZny3UPL&app=desktop)
-[Kubernetes Tutorial | Udemy: Kubernetes Made Easy | Coupon: YTUBE999 - YouTube](https://www.youtube.com/playlist?list=PLMPZQTftRCS8Pp4wiiUruly5ODScvAwcQ) some are demo, on GCP
-[Kubernetes for the Absolute Beginners - YouTube](https://www.youtube.com/playlist?list=PL2We04F3Y_43dAehLMT5GxJhtk3mJtkl5)
+[Kubernetes - YouTube](https://www.youtube.com/@KubernetesCommunity)
+[Kubernetes Best Practices - YouTube](https://www.youtube.com/playlist?list=PLIivdWyY5sqL3xfXz5xJvwzFW_tlQB_GB) Google Cloud Tech
+[Rancher - YouTube](https://www.youtube.com/@Rancher)
+[TGI Kubernetes - YouTube](https://www.youtube.com/playlist?list=PLvmPtYZtoXOENHJiAQc6HmV2jmuexKfrJ) Heptio
+[K8s Primer - YouTube](https://www.youtube.com/playlist?list=PLTyWtrsGknYdHLSdZz9fW0cMnpZny3UPL) Tech Primers
+[Kubernetes Tutorial | Udemy: Kubernetes Made Easy | Coupon: YTUBE999 - YouTube](https://www.youtube.com/playlist?list=PLMPZQTftRCS8Pp4wiiUruly5ODScvAwcQ) Srinath Challa, some are demo, on GCP
+[Kubernetes for the Absolute Beginners - YouTube](https://www.youtube.com/playlist?list=PL2We04F3Y_43dAehLMT5GxJhtk3mJtkl5) KodeKloud
 
 ### [Controllers](https://kubernetes.io/docs/concepts/workloads/controllers/)
 
@@ -262,6 +263,8 @@ Kubernetes pods are a group of containers that act like a single VM: they have a
 
 [Using Admission Controllers - Kubernetes](https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/)
 [A Guide to Kubernetes Admission Controllers - Kubernetes](https://kubernetes.io/blog/2019/03/21/a-guide-to-kubernetes-admission-controllers/)
+
+[Understanding and Leveraging Kubernetes Controllers | OMER HAMERMAN](https://omerxx.com/k8s-controllers-revisited/)
 
 [Kubernetes Replication Controller, Replica Set and Deployments: Understanding replication options | Mirantis](https://www.mirantis.com/blog/kubernetes-replication-controller-replica-set-and-deployments-understanding-replication-options/)
 [Understanding ReplicaSet vs. StatefulSet vs. DaemonSet vs. Deployments - Semaphore](https://semaphoreci.com/blog/replicaset-statefulset-daemonset-deployments)

@@ -2,7 +2,7 @@
 title: Julia
 description: ""
 created: 2015-11-19
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - comp/lang
   - julia
@@ -67,11 +67,9 @@ Cheat sheets:
 
 ## Video
 
-[The Julia Language - YouTube](https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA)
+[The Julia Programming Language - YouTube](https://www.youtube.com/@TheJuliaLanguage)
 [Intro to Julia - YouTube](https://www.youtube.com/watch?v=4igzy3bGVkQ)
 [dpsanders/scipy_2014_julia](https://github.com/dpsanders/scipy_2014_julia)
-
-[The 4th annual JuliaCon 2017 (Berkeley) - YouTube](https://www.youtube.com/playlist?list=PLP8iPy9hna6QpP6vqZs408etJVECPKIev)
 
 ## Social coding
 

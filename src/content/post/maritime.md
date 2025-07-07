@@ -2,7 +2,7 @@
 title: Maritime
 description: ""
 created: 2021-11-10
-updated: 2025-01-09
+updated: 2025-06-30
 tags:
   - transportation
 ---
@@ -24,7 +24,7 @@ tags:
 
 [How Massive Ship Steering Gears Work! - YouTube](https://www.youtube.com/watch?v=99PkWjURKTY)
 
-[JeffHK - YouTube](https://www.youtube.com/channel/UCGpdSarF_FdCygiA1tOl6Cg)
+[JeffHK store - YouTube](https://www.youtube.com/@JeffHK)
 [Navigation Bridge of a Mega Ship - A Closer Look at the Command Center - YouTube](https://www.youtube.com/watch?v=Bj3_peT4u9M)
 [Lifeboats - What Equipments Inside? Launching & How do they work? - YouTube](https://www.youtube.com/watch?v=MZLkiTwh10M)
 
@@ -32,20 +32,30 @@ tags:
 
 [How Ocean Shipping Works (And Why It's Broken) - YouTube](https://www.youtube.com/watch?v=8d5d_HXGeMA)
 
+[Oceanliner Designs - YouTube](https://www.youtube.com/@OceanlinerDesigns)
+[How Do Anchors Actually Work? - YouTube](https://www.youtube.com/watch?v=eR84ap2KMoU)
+
+[How the Diesel Engine Became King of the Seas - YouTube](https://www.youtube.com/watch?v=EgMZeLYlKU8)
+
 ## Cargo Ship Classes
 
 [What are 7 Types of Cargo Ships?](https://sinay.ai/en/what-are-7-types-of-cargo-ships/)
+[连接世界的不是互联网，而是集装箱？是什么让跨国货物运输，变得如此便宜？What makes international freight transport so cheap?【差评君】 - YouTube](https://www.youtube.com/watch?v=lZRIjvcxd-8)
 
 ## Navy Vessel Classes
 
 [All Types of Warships Explained - YouTube](https://www.youtube.com/watch?v=303_Xj8FKJU)
+[巡洋舰、驱逐舰、护卫舰，究竟有何区别？它们的名字又是从何而来的？【科学火箭叔】 - YouTube](https://www.youtube.com/watch?v=O_Zgzt4sVhg)
+[中英文舰船分级简介 - 资讯智能交换中心(Lounge) - 深度时空宇宙/太空游戏社区 - Powered by Discuz!](https://bbs.deeptimes.net/forum.php?mod=viewthread&tid=2109513)
+[编号01：基本常识篇01:海军基础知识：军舰的基本定义、存在意义、大小、标准化分类、防护及动力 - 知乎](https://zhuanlan.zhihu.com/p/567751166)
+[例出海军舰船等级 - Phind](https://www.phind.com/search/cmchw4k650000356uwbt2iwjv)
 
-Aircraft Carrier
-Battleship
-Cruiser: usually bigger and with more guns (but large Destroyers are catching up)
-Destroyer: jack of all trades to protect the fleet
-Frigate: usually no air defense, focus on anti -sub
-Corvettes: not blue-sea worthy, missile or anit-sub
+Aircraft Carrier 航空母舰
+Battleship 战列舰: heavy cannon and armor, wek against toroedos and missiles
+Cruiser 巡洋舰: usually bigger and with more guns (but large Destroyers are catching up)
+Destroyer 驱逐舰: jack of all trades to protect the fleet (especially for modern warfare)
+Frigate 巡防艦/護衛艦: usually no air defense, focus on anti-sub
+Corvettes 海防巡邏艦: not blue-sea worthy, missile or anit-sub
 Amphibious Assault Ship: mini aircraft
 Sea Tender
 Submarine
@@ -56,10 +66,6 @@ Submarine
 [Submarines – Extreme Technology – Big Bigger Biggest - YouTube](https://www.youtube.com/watch?v=1Esapb0gT3w)
 [How Do Nuclear Submarines Make Oxygen?- Smarter Every Day 251 - YouTube](https://www.youtube.com/watch?v=g3Ud6mHdhlQ)
 [How to Surface a Submarine in the Arctic Ocean - Smarter Every Day 260 - YouTube](https://www.youtube.com/watch?v=XFJnWp1tAdU)
-
-戰列
-巡洋
-驅逐艦
 
 ## Fishing
 

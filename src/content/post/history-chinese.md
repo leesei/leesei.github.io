@@ -2,7 +2,7 @@
 title: 中國歷史
 description: ""
 created: 2015-10-09
-updated: 2025-01-09
+updated: 2025-07-06
 tags:
   - history
   - history/chinese
@@ -35,6 +35,7 @@ tags:
 [地图里的故事 - YouTube](https://www.youtube.com/@DiTuLiDeGuShi)
 [歷史面面觀 - YouTube](https://www.youtube.com/@history_aspects)
 [李天豪 - YouTube](https://www.youtube.com/@leecehao)
+[蘇老拳 - YouTube](https://www.youtube.com/@PandaSuHistory)
 
 [封建制度 (中國) - Wikiwand](<https://www.wikiwand.com/zh/%E5%B0%81%E5%BB%BA%E5%88%B6%E5%BA%A6_(%E4%B8%AD%E5%9C%8B)>)
 [六藝 - Wikiwand](https://www.wikiwand.com/zh/%E5%85%AD%E8%89%BA)
@@ -60,8 +61,6 @@ tags:
 [腾飞五千年——汉末三国 - YouTube](https://www.youtube.com/playlist?list=PLnzvH6pAJKSqUKcsA3GxzIng7TWEuYz4m)
 [腾飞五千年——金 - YouTube](https://www.youtube.com/playlist?list=PLnzvH6pAJKSruyKaS07Cs6Gt-9D0GCAjE)
 [蕭若元講明史 - YouTube](https://www.youtube.com/playlist?list=PLLPBrSaE8CCvEBpuJ3OV9VAdVNLEPSHv1)
-
-[《清明上河圖》的秘密 ▶ 隱藏在千古名畫中的細節 - YouTube](https://www.youtube.com/watch?v=ZHighD9zBxI)
 
 ## 姓氏
 
@@ -226,6 +225,8 @@ tags:
 [三星堆遺址的未解之謎遠遠不止這些【上下合集】（2021）@布解探秘 - YouTube](https://www.youtube.com/watch?v=Um4-AlDIki4)
 [三星堆：大洪水冲出来的古文明！考古学破译三星堆的终极秘密 - YouTube](https://www.youtube.com/watch?v=FsexaoDRc0Q) 巴蜀三星堆為夏朝遺民
 
+[比夏朝還魔幻的存在，只敢發掘不到2%，官方沒有公布的「三星堆文字」的真相！古蜀文明為何突然出現，又突然消失？破解三星堆之謎 [She's Xiaowu 小烏] - YouTube](https://www.youtube.com/watch?v=i01-vbzQHNI) 巴蜀 -> 古蜀 -> 晚商 -> 西周
+
 ## 夏
 
 [夏朝 - Wikiwand](https://www.wikiwand.com/zh/%E5%A4%8F%E6%9C%9D) 2100BC-1700BC
@@ -291,11 +292,17 @@ tags:
 戰國後期楚"東宮之師"之墓(屈原? 環淵?), 郭店楚简填補了春秋未期至戰國中期的史料空白
 
 [戰國時期 - Wikiwand](https://www.wikiwand.com/zh/%E6%88%98%E5%9B%BD%E6%97%B6%E6%9C%9F)
-[三家分晉 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%89%E5%AE%B6%E5%88%86%E6%99%8B) 進入戰國時代
-[【三维地图】春秋战国分水岭——三家分晋是怎么发生的？它为何有如此重大的历史意义？结局又如何？ - YouTube](https://www.youtube.com/watch?v=F3rb0nEA7LM)
 [縱橫家 - Wikiwand](https://www.wikiwand.com/zh/%E7%BA%B5%E6%A8%AA%E5%AE%B6)
 [合縱 - Wikiwand](https://www.wikiwand.com/zh/%E5%90%88%E7%B8%B1)
 [連橫 (外交策略) - Wikiwand](<https://www.wikiwand.com/zh/%E9%80%A3%E6%A9%AB_(%E5%A4%96%E4%BA%A4%E7%AD%96%E7%95%A5)>)
+
+[開局地盤明明差到極點，弱小的秦國究竟如何做到逆天改命最終一統天下？13分鐘看懂戰國「最勵志」國家｜蘇老拳 - YouTube](https://www.youtube.com/watch?v=SKAmQv7W9eI)
+[在戰國七雄中地盤最小位置還最危險，韓國究竟靠什麽堅持了170多年？分鐘看懂完美將劣勢變優勢的戰略智慧｜蘇老拳 - YouTube](https://www.youtube.com/watch?v=Him4xUpXox0)
+[實力超強第一個稱霸，土豪到極點的齊國為何越到後來越躺平？13分鐘看懂戰國最無奈國家｜蘇老拳 - YouTube](https://www.youtube.com/watch?v=uk9mSjDyOCI)
+
+[三家分晉 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%89%E5%AE%B6%E5%88%86%E6%99%8B) 進入戰國時代
+[【三维地图】春秋战国分水岭——三家分晋是怎么发生的？它为何有如此重大的历史意义？结局又如何？ - YouTube](https://www.youtube.com/watch?v=F3rb0nEA7LM)
+[曾經是華夏最強大的國家，連秦國都畏懼的晉國為何會「一夜之間」突然崩潰滅亡？11分鐘看懂註定解體的春秋霸主｜蘇老拳 - YouTube](https://www.youtube.com/watch?v=LHQXIZtx-T0)
 
 戰國趙武靈王仿傚諸胡軍隊, 重用騎兵
 [胡服騎射 - Wikiwand](https://www.wikiwand.com/zh/%E8%83%A1%E6%9C%8D%E9%A8%8E%E5%B0%84)
@@ -419,6 +426,8 @@ tags:
 西晉大臣擁王室遷都建業, 建東晉 r
 東晉滅後由(劉)宋、齊、梁、陳統治南方, 史稱南朝
 
+[當兵12年沒被發現？ 花木蘭是如何藏住祕密的？隱藏在《木蘭詩》的秘密 - YouTube](https://www.youtube.com/watch?v=SMvdD8-J5HA)
+
 ## 隋
 
 [隋朝 - Wikiwand](https://www.wikiwand.com/zh/%E9%9A%8B%E6%9C%9D) 581-619
@@ -430,7 +439,15 @@ tags:
 李淵為北魏拓跋氏小弟, 鮮卑人, 本姓大野(Dayan, 蒙古語廣闊)
 在突厥支持下統一中國
 
+[唐太宗](https://www.wikiwand.com/zh-hant/articles/%E5%94%90%E5%A4%AA%E5%AE%97)「[貞觀之治](https://www.wikiwand.com/zh-hant/articles/%E8%B2%9E%E8%A7%80%E4%B9%8B%E6%B2%BB)」、[唐高宗](https://www.wikiwand.com/zh-hant/articles/%E5%94%90%E9%AB%98%E5%AE%97)「[永徽之治](https://www.wikiwand.com/zh-hant/articles/%E6%B0%B8%E5%BE%BD%E4%B9%8B%E6%B2%BB)」、[武則天](https://www.wikiwand.com/zh-hant/articles/%E6%AD%A6%E5%89%87%E5%A4%A9)「[貞觀遺風](https://www.wikiwand.com/zh-hant/articles/%E8%B2%9E%E8%A7%80%E9%81%BA%E9%A2%A8)」及[唐玄宗](https://www.wikiwand.com/zh-hant/articles/%E5%94%90%E7%8E%84%E5%AE%97)的「[開元盛世](https://www.wikiwand.com/zh-hant/articles/%E5%BC%80%E5%85%83%E7%9B%9B%E4%B8%96)」
+
 [1个朝鲜半岛人，却弄丢中国200万平方公里！为什么中国丢了中亚？ - YouTube](https://www.youtube.com/watch?v=gD5_Fkd_sFA) 恒羅斯之戰
+
+[破解史學界千年謎團！無字碑其實是武則天留在異度空間的“遺言”？普通人看不見無字碑上刻字的真正原因...[She's Xiaowu 小烏] - YouTube](https://www.youtube.com/watch?v=gGfVHZaF4f4)
+
+### 安史之亂
+
+[安史之亂 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E5%AE%89%E5%8F%B2%E4%B9%8B%E4%BA%82) 755-763
 [歷時 7 年，消滅 1/4 世界人口，2/3 中國人口！最血腥的叛亂，徹底改變歷史走向，整個國家都是修羅場！安史之亂是如何發生的？[Unsolved Mystery Stories | Xiaowu] - YouTube](https://www.youtube.com/watch?v=ei8rWetBCys)
 
 ## 宋
@@ -445,13 +462,16 @@ tags:
 [正史都不敢記載！一場跨越百年的命運輪迴！史上最恐怖的現世報事件，宋朝滅亡時究竟發生了什麼？[Unsolved Mystery Stories | Xiaowu] - YouTube](https://www.youtube.com/watch?v=tNobrV_cgD4)
 
 [清明上河圖電子版 - Google Drive](https://drive.google.com/drive/folders/1NEkr8hpdCY6fmecGToRR-ogHXspiFJbF)
+[《清明上河圖》的秘密 ▶ 隱藏在千古名畫中的細節 - YouTube](https://www.youtube.com/watch?v=ZHighD9zBxI)
 [清明上河圖隱藏的秘密:繁榮景象背後的危機 | 暢銷書《清明上河圖》(張擇端,北宋,宋朝,人文歷史,古畫,國畫,孟元老,有聲書,讀書,科普) - YouTube](https://www.youtube.com/watch?v=zI-0l_abfC4)
+[2024最新解讀：你聽過的《清明上河圖》謎團全部被推翻？最新解讀竟然從中發現了被忽略千年的神秘人？他是誰？詭異畫作中究竟隱藏著什麼故事？|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=Syn8GM4-KtU)
 
 [海龍囤古堡：40 年前，考古隊意外闖入這座傳説中的古堡，然後，一個延續過 700 年的神秘家族浮出了水面……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=vxxnSBf5M3M) 播州楊氏, 於四川釣魚城誅滅蒙古大汗蒙哥, 間接拯救歐洲和中東
 
 ## 西夏
 
 [【CCTV 顶级首播-神秘的西夏】探秘被历史遗忘的神秘王朝 Mysterious Tangut | 【1080P 版全十集】 - YouTube](https://www.youtube.com/playlist?list=PLwXMmy5fUrVzqZG93hC0uKFd3QZMMR_0k)
+[自然條件差到離譜，看似弱小的西夏到底是如何在大國間生存100多年？11分鐘看懂中國歷史上最頑強「小國」｜蘇老拳 - YouTube](https://www.youtube.com/watch?v=tC7mvaaNB3U)
 
 ## 元
 
@@ -511,6 +531,44 @@ Tengu Media
 
 [清朝的延續：滿洲國的興盛和滅亡！ - YouTube](https://www.youtube.com/watch?v=taMikZeWjzg)
 [貪官是怎麼養成的？ - YouTube](https://www.youtube.com/watch?v=6bD13UfC2CI)
+
+### 鴉片戰爭
+
+[鸦片战争 - Wikiwand](https://www.wikiwand.com/zh/articles/%E9%B8%A6%E7%89%87%E6%88%98%E4%BA%89)
+[2500萬人成為行屍走肉，全球華人命運的轉折！無人敢提的歷史真相，80萬清軍為何打不過2萬侵略者？鴉片戰爭竟然是這樣爆發的 [She's Xiaowu 小烏] - YouTube](https://www.youtube.com/watch?v=Cn3CHg_y9KA)
+
+[第一次鸦片战争 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%B8%A6%E7%89%87%E6%88%98%E4%BA%89) 1840-42, 道光年間, 《南京條約》
+[南京条约 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E5%8D%97%E4%BA%AC%E6%A2%9D%E7%B4%84)
+[虎门条约 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E8%99%8E%E9%96%80%E6%A2%9D%E7%B4%84)
+
+[第二次鸦片战争 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%B8%A6%E7%89%87%E6%88%98%E4%BA%89) 1856-60, 咸豐年間, 英法聯軍, 《天津條約》, 火燒圓明園, 中國開國
+[天津条约 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E5%A4%A9%E6%B4%A5%E6%A2%9D%E7%B4%84)
+
+清代茶葉出口導致英國大額貿易逆差, 大量白銀流向中國, 英國向華傾銷鴉片
+[解读清代中国茶叶出口贸易详情 - 知乎](https://www.zhihu.com/column/p/29149328)
+[鸦片背后的阴谋：被茶叶贸易点燃的战争 - 知乎](https://zhuanlan.zhihu.com/p/440564642)
+[記者來鴻：茶葉與鴉片—中英印三角關係 - BBC News 中文](https://www.bbc.com/zhongwen/trad/fooc/2016/07/160725_fooc_uk_indian_china_tea)
+[清代茶葉貿易興衰的原因－四宜茶坊｜痞客邦](https://slingpc.pixnet.net/blog/post/305470917)
+
+### 甲午战争
+
+[甲午战争 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E7%94%B2%E5%8D%88%E6%88%98%E4%BA%89) 1894-95
+[马关条约 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E9%A9%AC%E5%85%B3%E6%9D%A1%E7%BA%A6)
+
+### 八國聯軍侵華戰爭
+
+[八国联军之役 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E5%85%AB%E5%9C%8B%E8%81%AF%E8%BB%8D%E4%B9%8B%E5%BD%B9) 1900
+[八國聯軍 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E5%85%AB%E5%9C%8B%E8%81%AF%E8%BB%8D)
+[辛丑条约 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E8%BE%9B%E4%B8%91%E6%9D%A1%E7%BA%A6)
+
+### 太平天國
+
+[太平天国 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E5%A4%AA%E5%B9%B3%E5%A4%A9%E5%9B%BD)
+[一場差點讓中國滅國的戰爭！14年1億多人不知所蹤…顛覆教科書上的內容！嘗試在地上建立「天國」的他們，最終製造了「人間煉獄」...[She's Xiaowu @ndwtb] - YouTube](https://www.youtube.com/watch?v=OabMBjIksnE)
+
+### 辛亥革命
+
+[辛亥革命 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E8%BE%9B%E4%BA%A5%E9%9D%A9%E5%91%BD)
 
 ## 地理
 
@@ -655,6 +713,7 @@ Wuchisan: Alexandria
 629 年松贊干布統一西藏, 遷都邏些(今拉薩), 娶泥婆羅(今尼泊爾)公主才引入佛教, 並吞併泥婆羅成屬國; 638 年攻下吐谷渾, 640 年娶文成公主
 [吐蕃為啥改名西藏？「西」和「藏」咋來的？ - YouTube](https://www.youtube.com/watch?v=2Pl5DQb5Osk)
 [為何吐蕃寧可和大唐死磕 200 年，都不去打旁邊的印度？答案你一定不知道 - YouTube](https://www.youtube.com/watch?v=mnUUjuWtoUQ)
+[土地貧瘠從未強大過的西藏，在唐朝時期為何會突然出現巔峰人口超過1000萬的超級帝國吐蕃？18分鐘看懂最不可思議國家崛起，東亞史上最尚武的民族之一｜蘇老拳 - YouTube](https://www.youtube.com/watch?v=cEO7nfx6ibg)
 [大唐帝國的死對頭 吐蕃王的崛起 ▶ 唐朝文成公主遠嫁西藏 - YouTube](https://www.youtube.com/watch?v=yUw60wJRv8w)
 [西藏是怎麼成為中國領土的？過程非常曲折艱難，原來清朝對中國貢獻這麼大！ - YouTube](https://www.youtube.com/watch?v=eFT_7-2gVtI)
 [新疆怎麼成為中國一部分的？歷經了如此多艱險，滿清為新疆付出的代價太過慘重 - YouTube](https://www.youtube.com/watch?v=s2EcRkP1gog)
@@ -733,8 +792,14 @@ Wuchisan: Alexandria
 [文革回顧 (香港語) - YouTube](https://www.youtube.com/watch?v=lDwGUOpi_mQ)
 [四五運動 - Wikiwand](https://www.wikiwand.com/zh/%E5%9B%9B%E4%BA%94%E8%BF%90%E5%8A%A8)
 
+[第一次國共合作 - Wikiwand](https://www.wikiwand.com/zh/articles/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9B%BD%E5%85%B1%E5%90%88%E4%BD%9C)
+[第二次国共合作 - Wikiwand](https://www.wikiwand.com/zh/articles/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%9B%BD%E5%85%B1%E5%90%88%E4%BD%9C)
+
+[三年困难时期 - Wikiwand](https://www.wikiwand.com/zh/articles/%E4%B8%89%E5%B9%B4%E5%9B%B0%E9%9A%BE%E6%97%B6%E6%9C%9F)
 [大躍進、大飢荒與「三年自然災害」，讀高華《在歷史上的風陵渡口》有感（一）附字幕 - YouTube](https://www.youtube.com/watch?v=HDeHoQCVa78)
 [大躍進、大飢荒與「三年自然災害」，讀高華《在歷史上的風陵渡口》有感（二）有字幕 - YouTube](https://www.youtube.com/watch?v=tD8vzio5eT8)
+
+[文化大革命 - Wikiwand](https://www.wikiwand.com/zh/articles/%E6%96%87%E5%8C%96%E5%A4%A7%E9%9D%A9%E5%91%BD)
 [禍害4000萬人，被中國全面封殺的「文化大革命」，到底發生了什麽？ - YouTube](https://www.youtube.com/watch?v=8mrKfHtxHCU)
 
 [壹读视频 005 新鲜的中央政府 - YouTube](https://www.youtube.com/watch?v=rZhZNUgvu0U)

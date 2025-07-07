@@ -2,7 +2,7 @@
 title: Japanese History
 description: ""
 created: 2016-02-14
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - history
   - history/japanese
@@ -49,7 +49,7 @@ tags:
 [超出你想像的繩文人，比目前已知最古老的人類文明還早一萬年，他們為何不停用泥土造人，究竟如何來到這裡 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=jFQPvAHwVK0)
 [深日本#47 ▶ 天皇為何不多娶幾個老婆？平成後新年號預測！｜好倫｜ - YouTube](https://www.youtube.com/watch?v=c_hw6hfW-y8)
 
-[景 Jing - YouTube](https://www.youtube.com/channel/UCDzsV6ZqGNlgVqSnvhi5aAg/playlists)
+[日本-不專業知日系列 - YouTube](https://www.youtube.com/playlist?list=PLZRr6kZkdfMgmi4hLd5s3txQU2KMH-To2) 景Jing
 
 [【沖繩返還 50 週年】薩摩併吞、復歸日本、美軍基地，堆疊出當前沖繩的難題與哀傷 - The News Lens 關鍵評論網](https://www.thenewslens.com/interactive/166008)
 
@@ -60,6 +60,8 @@ tags:
 織田信長
 豐田秀吉
 德川家康
+
+[The Shogunate - YouTube](https://www.youtube.com/@TheShogunate/featured)
 
 ## 明治時代
 

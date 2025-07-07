@@ -2,7 +2,7 @@
 title: Biology
 description: Scientific study of life
 created: 2016-09-24
-updated: 2025-01-09
+updated: 2025-06-06
 tags:
   - biology
   - learning
@@ -17,7 +17,7 @@ tags:
 [Biology Dictionary - Explanations and Examples of Biological Concepts](https://biologydictionary.net/)
 [Welcome To Biology Explorer | Biology News | BioExplorer.net](https://www.bioexplorer.net/)
 
-[Atlas Pro - YouTube](https://www.youtube.com/channel/UCz1oFxMrgrQ82-276UCOU9w)
+[Atlas Pro - YouTube](https://www.youtube.com/@AtlasPro1)
 [Journey to the Microcosmos - YouTube](https://www.youtube.com/@journeytomicro)
 [SubAnima - YouTube](https://www.youtube.com/@SubAnima)
 [All About Biology - YouTube](https://www.youtube.com/playlist?list=PL05keIMVq9x2tOMNjscs-o5smIMmCRgEg) Clint Explains
@@ -61,6 +61,8 @@ vestigial: atrophied, become functionless in the course of evolution
 [【鬼谷闲谈】以硅质构筑身体的硬核碳基生物 - YouTube](https://www.youtube.com/watch?v=tJShruCM1rg)
 [【鬼谷闲谈】迷失的乐园，杀出的黎明，埃迪卡拉纪的太初之战 - YouTube](https://www.youtube.com/watch?v=nCrrrRAywPQ)
 [【鬼谷闲谈】纤毛虫：满级单细胞生物是怎样的存在？ - YouTube](https://www.youtube.com/watch?v=hBGDhxuGfms)
+
+[【鬼谷闲谈】阿斯加德古菌：给人类一点小小的神之震撼 - YouTube](https://www.youtube.com/watch?v=pcDE2A8e7Dk)
 
 ## What is Life
 

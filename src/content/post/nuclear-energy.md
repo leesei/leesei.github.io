@@ -2,7 +2,7 @@
 title: Nuclear Energy
 description: ""
 created: 2023-05-27
-updated: 2025-01-09
+updated: 2025-03-31
 tags:
   - energy
   - science
@@ -36,8 +36,6 @@ Small Modular Reactor
 
 [The Uncertain Future of Nuclear Power - YouTube](https://www.youtube.com/watch?v=INl3pCXm6Tw) Gen 4
 
-[切尔诺贝利的警示：核辐射有哪些危害？核电站会发生核爆炸吗？ - YouTube](https://www.youtube.com/watch?v=BaNj2K73NPY)
-[切尔诺贝利为啥爆炸？原子弹与核电站的工作原理 - YouTube](https://www.youtube.com/watch?v=hOUyWmcO6D8)
 高功率管道式反應堆/輕水石墨堆 RBMK
 [After years of doubts, hopes grow that nuclear fusion is finally for real and could help address climate change - The Boston Globe](https://www.bostonglobe.com/2021/12/22/science/after-years-doubts-hopes-grow-that-nuclear-fusion-is-finally-real-could-help-address-climate-change/)
 
@@ -66,7 +64,7 @@ Small Modular Reactor
 - light water reactor
 - fast neutron reactor
 - very high temperature reactor (graphite moderated)
-- non-light water coolant reactor (e.g. )
+- non-light water coolant reactor
 
 [最安全的核電廠？郭董提的小型核電廠 SMR，在中國已有併網發電實例！用發電量換安全性，真的遇到停電也不怕？ - YouTube](https://www.youtube.com/watch?v=29WGNfuxIxc)
 [台灣反核的同時，世界大國卻拚命發展新技術，「小型核電廠」真有那麼神？-風傳媒](https://www.storm.mg/lifestyle/4116728)
@@ -76,10 +74,19 @@ Small Modular Reactor
 > molten salt reactor inherently can be made modular
 
 [It's Happening - China Launches World's First Thorium Nuclear Reactor - YouTube](https://www.youtube.com/watch?v=t4EJQPWjFj8)
+[The Genius Behind Bill Gates' New Natrium Reactor - YouTube](https://www.youtube.com/watch?v=qUnik4gxrtM)
 
-- breeds non-radioactive Thorium 232 to Uranium 233
+- _breeds_ non-radioactive Thorium 232 to Uranium 233 or Uranium 238 to Uranium 239
 - produces less actinides (radio-toxic elements with very long half-lives)
--
+- fast neutron and liquid sodium as moderator and coolant
+- radioactive byproducts can be removed from system in liquid form to extend fuel life
+- higher efficiency at higher temperature
+
+- molten salt is corrosive
+- pump have to work at high temperature
+
+[Is THORIUM the Future of Nuclear Power? - YouTube](https://www.youtube.com/watch?v=FjHH8Qf3aO4)
+[Why Isn’t Thorium Changing the World? - YouTube](https://www.youtube.com/watch?v=BcoN2bdACGA)
 
 ### High-Temperature Gas-Cooled Reactor (HTGR)
 
@@ -95,6 +102,8 @@ Can be cooled passively at air temperature without meltdown
 [Nuclear fusion - Wikiwand](https://www.wikiwand.com/en/Nuclear_fusion)
 [A Strange 1950s Technology Could Finally Bring Fusion Energy to the Grid](https://www.inverse.com/science/stellarator-nuclear-fusion-reactor)
 [Fusion - YouTube](https://www.youtube.com/playlist?list=PLbhKQRV6Toq4ocE3C1EwVbeY4ofwrPLn_) Improbable Matter
+[I Explored the World's First Nuclear Power Plant (and How It Works) - Smarter Every Day 306 - YouTube](https://www.youtube.com/watch?v=JVROsxtjoCw) series
+[I Explored MORE OF the World's First Nuclear Power Plant (and How It Works) Smarter Every Day 306B - YouTube](https://www.youtube.com/watch?v=OVzNPO1pZGo)
 
 deuterium-deuterium (D-D) reaction -> H3 + neutron
 deuterium-tritium (D-T) reaction -> H4 + neutron, preferred
@@ -162,3 +171,14 @@ High Temperature Superconductor
 [Epic Tech Runs Cars & Homes For 1000 Years Without Gas Or Charging? - YouTube](https://www.youtube.com/watch?v=tfoX-YMkTAo) using nuclear wastes
 
 NDB: nuclear diamond battery
+
+## Incidences
+
+[2011年，第一批被投放到福島核電站內的機器人總是離奇失靈，在經過數次產品疊代後，這些機器人們終於發現了隱藏著輻射地獄中的秘密……｜總裁聊聊 - YouTube](https://www.youtube.com/watch?v=76A25AxGRPk)
+
+[Chornobyl Family 🇺🇦 - YouTube](https://www.youtube.com/@ChernobylFamily)
+[切尔诺贝利的警示：核辐射有哪些危害？核电站会发生核爆炸吗？ - YouTube](https://www.youtube.com/watch?v=BaNj2K73NPY)
+[切尔诺贝利为啥爆炸？原子弹与核电站的工作原理 - YouTube](https://www.youtube.com/watch?v=hOUyWmcO6D8)
+[象腳：切爾諾貝利/車諾比的尸體，它又在重新燃燒起來了……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=tQZI9HW2chA)
+
+[U-70核事故：最不可思議的故事，被高能粒子爆頭，輻射劑量超標數十萬倍，竟然倖存，還獲得了半張不老容顏……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=uCrZWoxPIgo)

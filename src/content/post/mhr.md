@@ -2,7 +2,7 @@
 title: Monster Hunter Rise
 description: ""
 created: 2020-01-16
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - games
   - mhr
@@ -103,8 +103,8 @@ Assassin 月
 
 [gaijin hunter MHRise tutorial - YouTube](https://www.youtube.com/@gaijinhunter/search?query=mhrise%20tutorial)
 [魔物獵人崛起-小攻略集 - YouTube](https://www.youtube.com/playlist?list=PLnHHN0HxS4BQPdKRXdtJ5b7rvfQM9Max3) 莎皮塞維爾
-[GreenteaD 綠茶哥 Rise 全武器教學 - YouTube](https://www.youtube.com/playlist?list=PLNPxf4y4WH1XtvILvjUmIibF65imMtSH7)
-[回首掏工作室 - YouTube](https://www.youtube.com/channel/UCx0o4KKRgRV957wj4kQXhfw)
+[GreenteaD 綠茶哥 Rise 全武器教學 - YouTube](https://www.youtube.com/playlist?list=PLNPxf4y4WH1XtvILvjUmIibF65imMtSH7) GreenteaD綠茶哥
+[回首掏工作室 - YouTube](https://www.youtube.com/@hst_gpdy)
 
 [居合的極意！太刀新手教學，初階到高階使用技巧 【魔物獵人崛起 | 亞比】 - YouTube](https://www.youtube.com/watch?v=TqDW4zYbGgY)
 [魔物獵人崛起 進階太刀操作指南 | 10 分內 KO 泡狐不是問題 | 10 秒內升上紅刃 | 10 種進階技巧心得 | 學會可以至少打 10 個 | MHRise demo - YouTube](https://www.youtube.com/watch?v=ScD5bmsNKZI)

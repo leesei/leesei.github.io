@@ -2,7 +2,7 @@
 title: "Zelda: Breath of the Wild"
 description: ""
 created: 2019-01-08
-updated: 2025-01-09
+updated: 2025-02-16
 tags:
   - botw
   - games
@@ -114,7 +114,7 @@ Maps
 [Zelda BOTW Armor Tracker](http://www.volv.org/zelda/)
 [Guide of the Wild - Armor](https://www.guideofthewild.com/armor)
 
-[Armor | Zeldapedia | FANDOM powered by Wikia](https://zelda.fandom.com/wiki/Armor)
+[Armor | Zeldapedia | Fandom](https://zelda.fandom.com/wiki/Armor)
 [Armor - Zelda Wiki](https://zelda.gamepedia.com/Armor)
 [Shields in Breath of the Wild - Zelda Wiki](https://zelda.gamepedia.com/Shields_in_Breath_of_the_Wild)
 

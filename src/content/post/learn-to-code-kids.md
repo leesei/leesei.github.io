@@ -2,7 +2,7 @@
 title: Learn to code (Kids)
 description: ""
 created: 2014-12-08
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - comp/lang
   - learning
@@ -138,6 +138,7 @@ Learn how to code for kids
 [Scratch Game Programming for Young Adults | Udemy](https://www.udemy.com/scratch-game-programming/?couponCode=INVENT_WITH_SCRATCH)
 [進學國小資訊組 - Scratch 線上版課程教案整理](https://class.tn.edu.tw/modules/tad_web/news.php?WebID=1384&NewsID=12353)
 [Froggy Volley on Scratch](https://scratch.mit.edu/projects/889686144/)
+[Scratch 教學 | STEAM 教育學習網](https://steam.oxxostudio.tw/category/scratch/index.html)
 
 [ScratchX](https://scratchx.org/) Experimental Extensions to Scratch
 micro:bit, Ardiono, ...
@@ -204,7 +205,7 @@ micro:bit, Ardiono, ...
 [Visual Embedded Rust Programming with Visual Studio Code - Technology - PCBway](https://www.pcbway.com/blog/technology/Visual_Embedded_Rust_Programming_with_Visual_Studio_Code.html)
 
 [Brown Dog Gadgets - Projects, DIY Kits & Solar-Powered Gadgets](https://www.browndoggadgets.com/)
-[Brown Dog Gadgets - YouTube](https://www.youtube.com/channel/UCOOrYoQ9AmXaNGafGewvfJg)
+[Brown Dog Gadgets - YouTube](https://www.youtube.com/@BrownDogGadgets)
 
 ### Project Bloks
 

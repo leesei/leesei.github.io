@@ -2,7 +2,7 @@
 title: Household Appliances
 description: ""
 created: 2018-07-05
-updated: 2025-01-09
+updated: 2025-07-05
 tags:
   - aircon
   - cooler
@@ -22,6 +22,8 @@ tags:
 [TESTV - YouTube](https://www.youtube.com/@testvcn)
 [凰家评测 - YouTube](https://www.youtube.com/@ifengTech)
 [深入了解PreInsight - YouTube](https://www.youtube.com/@preinsight)
+[差评硬件部 - YouTube](https://www.youtube.com/@chapinghardware)
+[Shan Yi talks about decoration - YouTube](https://www.youtube.com/@ShanYalkaboudecoration)
 
 [海賊王DIY日記 - YouTube](https://www.youtube.com/@pirate-king) fixing household appliances
 
@@ -155,6 +157,8 @@ Rownenta SO9080 2000W @2014
 ## Fan
 
 美的遙控直立扇 FZ10-17JR @2015
+
+[【硬核更新】便宜电风扇能买吗？不花冤枉钱！低价变频vs大牌循环扇！实测+盘点，一次搞懂电风扇！小米海尔美的艾美特创维格力…… - YouTube](https://www.youtube.com/watch?v=j8e2n9hPVIs)
 
 # Air Purifier
 
@@ -306,12 +310,15 @@ Panasonic F-PXM55H \$2360@2020-09
 # Washing Machine
 
 [Energy Label Net | 能源標籤網](https://www.emsd.gov.hk/energylabel/en/households/wm/select_wm.php)
-
+[Why did the red-hot drum washing machine ”fall off the altar”? If you don't solve these problems y - YouTube](https://www.youtube.com/watch?v=CbUrnovNcwo)
 [洗衣機選購資訊(2020 洗衣機比較,推介及消委會評測) - 專題報導 - 香港格價網 Price.com.hk](https://www.price.com.hk/news.php?id=12542&sec_id=11)
+[洗衣機怎麼買？種類有分那些？｜滾筒式？直立式？｜優缺點完整剖析｜烘衣機要分開買嗎？｜買之前要注意甚麼事｜胡少 - YouTube](https://www.youtube.com/watch?v=10857Lhc_Ho&t=10s)
+[※洗衣機24款大比併！邊款好？點樣揀？滾筒式、前置式、歐式、日式有乜分別？【選購秘笈】買洗衣機指南！有齊優缺點資料比較！VNT輕鬆小棧 - YouTube](https://www.youtube.com/watch?v=bpsyMWsMna8)
+[洗坏 17 件衣服，破坏 4 台洗衣机，告诉你哪种洗烘一体机值得买 - YouTube](https://www.youtube.com/watch?v=J3NQq2lU_Fo)
+
 [洗衣機暗藏 STEM 洗衣機暗藏 STEM - PCM](https://www.pcmarket.com.hk/2018/10/11/洗衣機暗藏-stem/)
 
-Zanussi ZWS 5108 $4500@2014
-Zanussi ZWQ 71236SE $3430@2014
+[Candy 上置式洗衣機 (8kg, 1400轉/分鐘) CSTG 48TM/1-UK 用家意見 Review - 香港格價網 Price.com.hk](https://www.price.com.hk/product.php?p=516011&ct=review)
 
 # Rangehood
 
@@ -325,6 +332,8 @@ Siemens LU83S750HK $2418@2020
 [Use These 3 Handy Tools to Figure Out What TV Size You Need](https://www.makeuseof.com/free-tools-figure-out-what-tv-size-needed/)
 [TV Size and Viewing Distance Calculator - Inch Calculator](https://www.inchcalculator.com/tv-size-viewing-distance-calculator/)
 
+[【超长篇】你家需要电视吗？千万别瞎买！miniLED/OLED哪个好？LR低反/AG防眩有啥用？海信TCL索尼LG三星创维雷鸟小米华为vidda…… - YouTube](https://www.youtube.com/watch?v=wpBzsUE44rg)
+
 Panasonic TH-L50EM6 VIERA® LED TV \$6464@2014
 [TH-L50EM6 VIERA® LED TV - Panasonic](https://www.panasonic.com/middleeast/en/support/product-archive/tv/th-l50em6.html)
 
@@ -335,6 +344,30 @@ Their OLED can be pitch black
 - 2020 CX
 - 2021 C1
 - 2022 C2
+
+## 2023 buy
+
+[電視選購資訊(2023電視比較,推介及消委會評測) - 專題 - 香港格價網 Price.com.hk](https://www.price.com.hk/news.php?id=11723&sec_id=11)
+
+[真机实测！从 2000 到 3 万块的显示器，谁更值得买？ | 13 款 Mini LED 显示器消费者报告 - YouTube](https://www.youtube.com/watch?v=j0PlFOgcLLw)
+[【2023年4月】显示器保姆级推荐清单！该怎么买？买那款！你想看的都在这边了！小白避坑专辑，建议收藏！ - YouTube](https://www.youtube.com/watch?v=lgNE796xC8M)
+
+[ROG 電競螢幕 OLED PG42UQ 開箱評測 優缺點｜ Swift PG48UQ、ASUS 顯示器、華碩電競、LG C2、OLED 電視、4K 電視、電腦螢幕、OLED 缺點、PTT 推薦｜科技狗 - YouTube](https://www.youtube.com/watch?v=TmJ2QUlObAw) 48"
+
+[飛利浦電視 OLED707 開箱評測 優缺點心得｜ Android TV、OLED 電視、Philips 電視、LG C2、OLED 螢幕、OLED.EX、PC 螢幕、電視機、螢幕推薦｜科技狗 - YouTube](https://www.youtube.com/watch?v=CG55HvwwONs) 48"-65"
+OLED806 <-> LG G1
+OLED707 <-> LG C2
+OLED706 <-> LG C1
+
+## 2024 buy
+
+[别买错了！花 12 万买遍热门电视，告诉你哪款最值得买 | 2024 电视选购指南 | 小米 雷鸟 海信 TCL 创维 Vidda 酷开 - YouTube](https://www.youtube.com/watch?v=rIak0SPFgRU)
+
+## Smart TV
+
+[Dumb TVs Are Scarce: These Are Your Best Alternatives](https://www.makeuseof.com/best-alternatives-non-smart-tv/) dumbify smart TV
+[Your Smart TV Isn’t Broken—Try These Hidden Fixes First](https://www.makeuseof.com/broken-smart-tv-hidden-fixes/)
+[Change These Settings to Instantly Make Your Smart TV More Private](https://www.makeuseof.com/change-settings-make-smart-tv-more-private/)
 
 # Printer
 

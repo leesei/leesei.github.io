@@ -2,7 +2,7 @@
 title: Desktop Apps
 description: ""
 created: 2015-05-20
-updated: 2025-01-09
+updated: 2025-07-06
 tags:
   - app
   - desktop
@@ -56,6 +56,8 @@ For the softwares I install on my system, see [[arch-packages]].
 [GNU Dr. Geo, be a geometer!](http://www.drgeo.eu/)
 
 > see [[visualization#Python]]
+
+[SymPy](https://www.sympy.org/en/index.html)
 
 [Matplotlib: Python plotting](https://matplotlib.org/)
 [PyPlot download | SourceForge.net](http://sourceforge.net/projects/pyplot/)
@@ -149,6 +151,7 @@ For the softwares I install on my system, see [[arch-packages]].
 
 [ONLYOFFICE](https://www.onlyoffice.com/) Electron wrapper for web app?
 [ONLYOFFICE or LibreOffice? | ONLYOFFICE Blog](https://www.onlyoffice.com/blog/2018/08/onlyoffice-vs-libreoffice-what-to-choose-when-you-decide-to-ditch-microsoft/)
+[Use AI assistants in ONLYOFFICE | ONLYOFFICE](https://www.onlyoffice.com/ai-assistants.aspx)
 
 [FreeOffice](https://www.freeoffice.com/en/)
 
@@ -239,6 +242,7 @@ nomino -pm map.json
 
 [Geeqie Image Viewer](http://geeqie.org/)
 [nomacs | Image Lounge](http://nomacs.org/)
+[EMULSION | A lightweight and minimalistic image viewer.](https://arturkovacs.github.io/emulsion-website/)
 
 [xyb3rt/sxiv: Simple X Image Viewer](https://github.com/xyb3rt/sxiv)
 [feh – a fast and light image viewer](https://feh.finalrewind.org/) default is not sane
@@ -389,23 +393,13 @@ Maybe include game engines?
 
 ## Notification
 
-[Growl For Windows](http://www.growlforwindows.com/)
-
-[Growl](http://growl.info/) OS X
+[Growl | growl](https://growl.github.io/growl/) macOS
 [indirect/growlnotify: I am lazy and don't want to download a DMG to install growlnotify](https://github.com/indirect/growlnotify)
 
-[mattn/growl-for-linux @ GitHub](https://mattn.github.io/growl-for-linux/)
-[Linux Manpages Online - man.cx manual pages](https://man.cx/notify-send)
-`notify-send "Hello World" "Body"`
+[Growl For Windows](http://www.growlforwindows.com/)
 
-[Desktop notifications - ArchWiki](https://wiki.archlinux.org/title/Desktop_notifications)
-
-[dschep/ntfy: 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.](https://github.com/dschep/ntfy)
-
-[Welcome to xbar](https://xbarapp.com/)
+[Welcome to xbar](https://xbarapp.com/) macOS
 [matryer/xbar: Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)](https://github.com/matryer/xbar)
-
-[Send desktop notifications and reminders from Linux terminal | Opensource.com](https://opensource.com/article/22/1/linux-desktop-notifications)
 
 [Push | Javascript Notification Framework](https://pushjs.org/)
 [Nickersoft/push.js: The world's most versatile desktop notifications framework](https://github.com/Nickersoft/push.js)
@@ -456,7 +450,7 @@ TL;DR: use VSCode and skip this session
 [Google Web Designer - Home](https://webdesigner.withgoogle.com/)
 
 [Haroopad - The Next Document processor based on Markdown](http://pad.haroopress.com/user.html)
-[marktext/marktext: 📝Next generation markdown editor, running on platforms of MacOS Windows and Linux.](https://github.com/marktext/marktext)
+[marktext/marktext: 📝Next generation markdown editor, running on platforms of macOS Windows and Linux.](https://github.com/marktext/marktext)
 [Your One-Stop Publication Workbench | Zettlr](https://www.zettlr.com/)
 
 [Notepad2-mod](https://xhmikosr.github.io/notepad2-mod/)
@@ -473,7 +467,7 @@ TL;DR: use VSCode and skip this session
 ### hex
 
 [Apps/Ghex - GNOME Wiki!](https://wiki.gnome.org/Apps/Ghex)
-[wxHexEditor - a Free Hex Editor / Disk Editor for Huge Files or Devices on Linux, Windows and MacOSX](http://www.wxhexeditor.org/) supports tags (parsing of file)
+[wxHexEditor - a Free Hex Editor / Disk Editor for Huge Files or Devices on Linux, Windows and macOSX](http://www.wxhexeditor.org/) supports tags (parsing of file)
 `hexdump -n 120 -C 32 -s 1000 <file>`
 `xxd -l 120 -g 1 -c 32 -s 1000 <file>`
 
@@ -545,87 +539,17 @@ Thunar (from XFCE)
 
 [Warp: An Open-Source Secure File Sharing App That Works Cross-Platform](https://news.itsfoss.com/warp-file-sharing/)
 [World / Warp · GitLab](https://gitlab.gnome.org/World/warp?ref=news.itsfoss.com)
+
+[Magic-Wormhole: Get Things From One Computer To Another, Safely — Magic-Wormhole documentation](https://magic-wormhole.readthedocs.io/en/latest/)
 [magic-wormhole · GitHub](https://github.com/magic-wormhole)
 
 ## Multimedia
 
 [[ffmpeg]]
 
-[Audacity ® | Free, open source, cross-platform audio software for multi-track recording and editing.](https://www.audacityteam.org/)
-[Edit music recordings with Audacity on Linux | Opensource.com](https://opensource.com/article/20/4/audacity?utm_campaign=intrel)
-[CD Rippers - Tom's Definitive Linux Software Roundup: Audio Apps | Tom's Hardware](https://www.tomshardware.com/reviews/ubuntu-linux-audio-software,2856-8.html)
-
-[Asunder: Home](http://littlesvr.ca/asunder/)
-[Asunder CD Ripper: an excellent utility to extract the audio from your CDs | Ubunlog](https://ubunlog.com/en/asunder-cd-ripper-una-excelente-utilidad-para-extraer-el-audio-de-tus-cd/)
-
-[ardour - the digital audio workstation](http://ardour.org/)
-[Make music on Linux with Ardour | Opensource.com](https://opensource.com/article/21/12/music-linux-ardour)
-
 [MKVToolNix news – Matroska tools for Linux/Unix and Windows](https://www.bunkus.org/videotools/mkvtoolnix/)
 
-[Overview - VidGear](https://abhitronix.github.io/vidgear/latest/)
-
-### Video Editing
-
-[[davinci-resolve]]
-
-[42 Best Free Linux Video Software - Linux Links - The Linux Portal Site](http://www.linuxlinks.com/article/20160125121909407/Video.html)
-[34 of the best free and open source creative tools in 2016 | Opensource.com](https://opensource.com/article/16/12/yearbook-top-open-source-creative-tools-2016)
-[The Best Video Editing Apps and Software for YouTube](https://www.makeuseof.com/tag/video-editing-apps-software-for-youtube/)
-[Free Graphics & Video Software - YouTube](https://www.youtube.com/playlist?list=PL2m2YvnrOYxJGHDZczNkU6jLuVeRyjj2i)
-[6 Best FREE Video Editors for YouTubers in 2020 - YouTube](https://www.youtube.com/watch?v=f1wYvQRLfek)
-
-[ASWF Landscape](https://landscape.aswf.io/zoom=200) Academy Software Foundation
-[The Definitive (and Painless) Linux Video Production Guide: Getting Started - The Passthrough POST](https://passthroughpo.st/the-definitive-and-painless-linux-video-production-guide-part-1/)
-[Painless Linux Video Production Pt. 2: Installation & Setup - The Passthrough POST](https://passthroughpo.st/painless-linux-video-production-pt-2-installation-setup/)
-[Painless Linux Video Production Part 3: Organization and Workflow - The Passthrough POST](https://passthroughpo.st/painless-linux-video-production-part-3-organization-and-workflow/)
-
-[Ivan Molodetskikh / Video Trimmer · GitLab](https://gitlab.gnome.org/YaLTeR/video-trimmer)
-
-[Linux video tools](http://www.videohelp.com/tools/sections/linux-video-tools)
-[Avidemux - Main Page](http://fixounet.free.fr/avidemux/)
-[Kdenlive | Libre Video Editor](https://kdenlive.org/en/)
-
-[FFmpeg](https://www.ffmpeg.org/)
-[Libav](https://libav.org/), ffmpeg's fork
-[HandBrake: Open Source Video Transcoder](https://handbrake.fr/)
-
-[mifi/lossless-cut: The swiss army knife of lossless video/audio editing](https://github.com/mifi/lossless-cut) FFmpeg wrapper
-
-[Shotcut - Home](https://www.shotcut.org/)
-[Shotcut - YouTube](https://www.youtube.com/playlist?list=PLF9C79uP5504S3C95Ir6tiB94cIMvDibh) Video Editing in a Minute
-
-[Easy to use, free solution for complex camera control | digiCamControl](http://digicamcontrol.com/)
-[OpenShot Video Editor | Free, Open, and Award-Winning Video Editor for Linux, Mac, and Windows!](http://www.openshot.org/)
-
-[OpenShot Video Editor | Free, Open, and Award-Winning Video Editor for Linux, Mac, and Windows!](https://www.openshot.org/)
-
-[[OFFICIAL] Wondershare Filmora - Easy, Trendy and Quality Video Editing Software](https://filmora.wondershare.net/)
-
-[Write videos in React | Remotion](https://www.remotion.dev/)
-[Introduction to Remotion — Create Videos and Animations with React | by Chameera Dulanga | Feb, 2021 | Bits and Pieces](https://blog.bitsrc.io/introduction-to-remotion-create-videos-and-animations-with-react-a57083771607)
-[Remotion: A framework for making videos in React - LogRocket Blog](https://blog.logrocket.com/remotion-a-framework-for-making-videos-in-react/)
-
-[Olive - Professional Open-Source Video Editor](https://www.olivevideoeditor.org/)
-[Meet Olive: The First Open Source Video Editor Worth Talking About - The Passthrough POST](https://passthroughpo.st/meet-olive-the-first-open-source-video-editor-worth-talking-about/)
-
-[ozmartian/vidcutter](https://github.com/\ozmartian/vidcutter)
-[User Guide — MoviePy documentation](https://zulko.github.io/moviepy/index.html)
-
-[Pitivi, a free and open source video editor for Linux](http://www.pitivi.org/)
-
-[Lightworks: The professional editor for everyone](http://www.lwks.com/) Freemium, no source code ATM
-
-### Animation
-
-[OpenToonz](https://opentoonz.github.io/e/) [GitHub org](https://github.com/opentoonz?type=source)
-[Animation software used by Studio Ghibli is going open source | The Verge](http://www.theverge.com/2016/3/21/11275434/toonz-futurama-studio-ghibli-digital-video-dwango)
-
-[Blender's Animation Tools - Amazing for 2D Artists - YouTube](https://www.youtube.com/watch?v=VmekmH0QJMs)
-
-[InspirationTuts 2D - YouTube](https://www.youtube.com/@InspirationTuts2D/videos)
-
-[[raster-graphics#Photopea]] Timeline
+[Overview - VidGear](https://abhitronix.github.io/vidgear/latest/) Python Video Processing Framework
 
 ### Player
 
@@ -671,6 +595,115 @@ test input key and its binding
 [User Scripts · mpv-player/mpv Wiki · GitHub](https://github.com/mpv-player/mpv/wiki/User-Scripts)
 [CogentRedTester/mpv-scripts: A collection of scripts for mpv player](https://github.com/CogentRedTester/mpv-scripts)
 [Making Mpv Even Better With Some Lua Scripts - YouTube](https://www.youtube.com/watch?v=b8GoHyKw_8Q)
+
+### Media Server
+
+[[kodi]]
+
+[4 Reasons I Use Plex Instead of Jellyfin or Emby](https://www.makeuseof.com/reasons-use-plex-instead-of-jellyfin-emby/)
+[Plex vs Kodi - The Ultimate Comparison Guide for Beginners](http://www.htpcbeginner.com/plex-vs-kodi-comparison-guide/)
+
+[Jellyfin: The Free Software Media System](https://jellyfin.org/)
+[jellyfin/jellyfin-kodi: Jellyfin Plugin for Kodi](https://github.com/jellyfin/jellyfin-kodi)
+
+[Stream Movies & Find Shows On The Best Streaming Services](https://www.plex.tv/)
+[Plex Unofficial Channels: Install the 3 Best Plex Channels](http://www.htpcbeginner.com/plex-unofficial-channels/)
+[Girens for Plex—Linux Apps on Flathub](https://flathub.org/apps/details/nl.g4d.Girens)
+
+### Video Editing
+
+[[davinci-resolve]]
+
+[42 Best Free Linux Video Software - Linux Links - The Linux Portal Site](http://www.linuxlinks.com/article/20160125121909407/Video.html)
+[34 of the best free and open source creative tools in 2016 | Opensource.com](https://opensource.com/article/16/12/yearbook-top-open-source-creative-tools-2016)
+[The Best Video Editing Apps and Software for YouTube](https://www.makeuseof.com/tag/video-editing-apps-software-for-youtube/)
+[Free Graphics & Video Software - YouTube](https://www.youtube.com/playlist?list=PL2m2YvnrOYxJGHDZczNkU6jLuVeRyjj2i)
+[6 Best FREE Video Editors for YouTubers in 2020 - YouTube](https://www.youtube.com/watch?v=f1wYvQRLfek)
+
+[ASWF Landscape](https://landscape.aswf.io/zoom=200) Academy Software Foundation
+[The Definitive (and Painless) Linux Video Production Guide: Getting Started - The Passthrough POST](https://passthroughpo.st/the-definitive-and-painless-linux-video-production-guide-part-1/)
+[Painless Linux Video Production Pt. 2: Installation & Setup - The Passthrough POST](https://passthroughpo.st/painless-linux-video-production-pt-2-installation-setup/)
+[Painless Linux Video Production Part 3: Organization and Workflow - The Passthrough POST](https://passthroughpo.st/painless-linux-video-production-part-3-organization-and-workflow/)
+
+[Ivan Molodetskikh / Video Trimmer · GitLab](https://gitlab.gnome.org/YaLTeR/video-trimmer)
+
+[Linux video tools](http://www.videohelp.com/tools/sections/linux-video-tools)
+[Avidemux - Main Page](http://fixounet.free.fr/avidemux/)
+[Kdenlive | Libre Video Editor](https://kdenlive.org/en/)
+
+[FFmpeg](https://www.ffmpeg.org/)
+[HandBrake: Open Source Video Transcoder](https://handbrake.fr/)
+
+[CapCut Desktop: Powerful free video editing tool](https://www.capcut.com/tools/desktop-video-editor)
+
+[Install Footage on Linux | Flathub](https://flathub.org/apps/io.gitlab.adhami3310.Footage)
+
+Clipchamp
+
+[mifi/lossless-cut: The swiss army knife of lossless video/audio editing](https://github.com/mifi/lossless-cut) FFmpeg wrapper
+
+[Shotcut - Home](https://www.shotcut.org/)
+[Shotcut - YouTube](https://www.youtube.com/playlist?list=PLF9C79uP5504S3C95Ir6tiB94cIMvDibh) Video Editing in a Minute
+
+[Easy to use, free solution for complex camera control | digiCamControl](http://digicamcontrol.com/)
+[OpenShot Video Editor | Free, Open, and Award-Winning Video Editor for Linux, Mac, and Windows!](http://www.openshot.org/)
+
+[OpenShot Video Editor | Free, Open, and Award-Winning Video Editor for Linux, Mac, and Windows!](https://www.openshot.org/)
+
+[[OFFICIAL] Wondershare Filmora - Easy, Trendy and Quality Video Editing Software](https://filmora.wondershare.net/)
+
+[Write videos in React | Remotion](https://www.remotion.dev/)
+[Introduction to Remotion — Create Videos and Animations with React | by Chameera Dulanga | Feb, 2021 | Bits and Pieces](https://blog.bitsrc.io/introduction-to-remotion-create-videos-and-animations-with-react-a57083771607)
+[Remotion: A framework for making videos in React - LogRocket Blog](https://blog.logrocket.com/remotion-a-framework-for-making-videos-in-react/)
+
+[Olive - Professional Open-Source Video Editor](https://www.olivevideoeditor.org/)
+[Meet Olive: The First Open Source Video Editor Worth Talking About - The Passthrough POST](https://passthroughpo.st/meet-olive-the-first-open-source-video-editor-worth-talking-about/)
+
+[ozmartian/vidcutter](https://github.com/\ozmartian/vidcutter)
+[User Guide — MoviePy documentation](https://zulko.github.io/moviepy/index.html)
+
+[Pitivi, a free and open source video editor for Linux](http://www.pitivi.org/)
+
+[Lightworks: The professional editor for everyone](http://www.lwks.com/) Freemium, no source code ATM
+
+### Animation
+
+[OpenToonz](https://opentoonz.github.io/e/) [GitHub org](https://github.com/opentoonz?type=source)
+[Animation software used by Studio Ghibli is going open source | The Verge](http://www.theverge.com/2016/3/21/11275434/toonz-futurama-studio-ghibli-digital-video-dwango)
+
+[Blender's Animation Tools - Amazing for 2D Artists - YouTube](https://www.youtube.com/watch?v=VmekmH0QJMs)
+
+[InspirationTuts 2D - YouTube](https://www.youtube.com/@InspirationTuts2D/videos)
+
+[[raster-graphics#Photopea]] Timeline
+
+### Audio Editing
+
+[Audacity ® | Free, open source, cross-platform audio software for multi-track recording and editing.](https://www.audacityteam.org/)
+[Edit music recordings with Audacity on Linux | Opensource.com](https://opensource.com/article/20/4/audacity?utm_campaign=intrel)
+
+[ardour - the digital audio workstation](http://ardour.org/)
+[Make music on Linux with Ardour | Opensource.com](https://opensource.com/article/21/12/music-linux-ardour)
+
+[Create Your Best Music | FL Studio](https://www.image-line.com/)
+
+#### sfxr
+
+[DrPetter's homepage - sfxr](https://www.drpetter.se/project_sfxr.html)
+[grimfang4/sfxr: DrPetter's sound effect generator](https://github.com/grimfang4/sfxr)
+[SFXR Overview - YouTube](https://www.youtube.com/watch?v=Sgah1W4y6Zs)
+
+[Bfxr. Make sound effects for your games.](https://www.bfxr.net/)
+[jsfxr - 8 bit sound maker and online sfx generator](https://sfxr.me/)
+[Jsfxr Pro retro 8-bit sound effects generator](https://pro.sfxr.me/)
+[tomeyro/godot-sfxr: Godot plugin that adds the SfxrStreamPlayer node to generate sound effects inside the editor.](https://github.com/tomeyro/godot-sfxr)
+
+### CD Rippers
+
+[CD Rippers - Tom's Definitive Linux Software Roundup: Audio Apps | Tom's Hardware](https://www.tomshardware.com/reviews/ubuntu-linux-audio-software,2856-8.html)
+
+[Asunder: Home](http://littlesvr.ca/asunder/)
+[Asunder CD Ripper: an excellent utility to extract the audio from your CDs | Ubunlog](https://ubunlog.com/en/asunder-cd-ripper-una-excelente-utilidad-para-extraer-el-audio-de-tus-cd/)
 
 ### UPnP/DLNA
 
@@ -728,6 +761,9 @@ npm install upnp-ssdp peer-ssdp upnp-mediarenderer-client upnp-device upnpserver
 #### YouTube Downloader
 
 [How to use a free YouTube download app to watch videos offline for 2022 | TechRadar](https://www.techradar.com/how-to/download-youtube-videos)
+
+[Grayjay App - Follow Creators Not Platforms](https://grayjay.app/desktop/) custom frontend for various platforms
+[futo-org](https://github.com/futo-org)
 
 [ytdl-org/youtube-dl: Command-line program to download videos from YouTube.com and other video sites](https://github.com/ytdl-org/youtube-dl#readme)
 [Youtube-dl Tutorial With Examples For Beginners - OSTechNix](https://ostechnix.com/youtube-dl-tutorial-with-examples-for-beginners/)
@@ -798,6 +834,8 @@ you-get --itag=43 URL
 [naelstrof/maim](https://github.com/naelstrof/maim)
 [Shutter - Feature-rich Screenshot Tool](http://shutter-project.org/)
 [GPicView - A Simple and Fast Image Viewer for X](http://lxde.sourceforge.net/gpicview/)
+[Eyedropper – Apps for GNOME](https://apps.gnome.org/Eyedropper/)
+[FineFindus/eyedropper: Pick and format colors](https://github.com/FineFindus/eyedropper)
 
 [Flameshot](https://flameshot.js.org/#/) supports Wayland, KDE
 [ksnip/ksnip: ksnip the cross-platform screenshot and annotation tool](https://github.com/ksnip/ksnip/)
@@ -806,7 +844,7 @@ you-get --itag=43 URL
 Windows
 [Take Screenshot in Windows 10 | Tutorials](https://www.tenforums.com/tutorials/6102-take-screenshot-windows-10-a.html)
 [Greenshot](https://getgreenshot.org/)
-[PicPick - by NGWIN, All-in-one design tool, Screen Capture, Image Editor, Color Picker, Pixel Ruler and More](http://ngwin.com/picpick)
+[PicPick - All-in-one Graphic Design, Best Screen Capture and Recording Software, Image Editor, Color Picker, Pixel Ruler and More](https://picpick.app/en/)
 [Why I'm Not Using The Windows Snipping Tool - gHacks Tech News](https://www.ghacks.net/2010/11/24/why-im-not-using-the-windows-snipping-tool/)
 [Goodbye Snipping Tool Hello Screen Sketch - gHacks Tech News](https://www.ghacks.net/2018/07/01/goodbye-snipping-tool-hello-screen-sketch/)
 
@@ -998,16 +1036,25 @@ wmic DISKDRIVE
 
 [I ranked EVERY terminal emulator. It was nuts - YouTube](https://www.youtube.com/watch?v=WxzYtdIcHnQ)
 
+```sh
+# for Gnome desktop and Nautilus
+gsettings list-recursively org.gnome.desktop.default-applications.terminal
+gsettings set org.gnome.desktop.default-applications.terminal exec gnome-terminal
+
+# for nemo
+gsettings list-recursively org.cinnamon.desktop.default-applications.terminal
+# use `open-wezterm-here` as work around for CWD
+gsettings set org.cinnamon.desktop.default-applications.terminal exec open-wezterm-here
+```
+
 [Apps/Terminal - GNOME Wiki!](https://wiki.gnome.org/Apps/Terminal)
 [Console – Apps for GNOME](https://apps.gnome.org/Console/) `kgx`, minimalistic
 [Christian Hergert / ptyxis · GitLab](https://gitlab.gnome.org/chergert/ptyxis) Terminal on GTK4
 [Ptyxis (formerly known as Prompt) will replace GNOME Terminal as the default terminal in F41 : r/Fedora](https://www.reddit.com/r/Fedora/comments/1ew2rmg/ptyxis_formerly_known_as_prompt_will_replace/)
 
-[ROXTerm](http://roxterm.sourceforge.net/)
+[Extraterm by sedwards2009](https://extraterm.org/index.html)
 
-[WezTerm - Wez's Terminal Emulator](https://wezfurlong.org/wezterm/) config with Lua
-[wez/wezterm: A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust](https://github.com/wez/wezterm)
-[Wezterm: A Full Featured Terminal Emulator - YouTube](https://www.youtube.com/watch?v=h7G_GgDhTfY)
+[ROXTerm](http://roxterm.sourceforge.net/)
 
 [Tilix: A tiling terminal emulator](https://gnunn1.github.io/tilix-web/) why not tmux 🤷‍♂️?
 [gnunn1/tilix: A tiling terminal emulator for Linux using GTK+ 3](https://github.com/gnunn1/tilix)
@@ -1067,6 +1114,17 @@ ghostty +validate-config
 ghostty +reload_config
 ```
 
+### WezTerm
+
+[WezTerm - Wez's Terminal Emulator](https://wezfurlong.org/wezterm/) config with Lua
+[wez/wezterm: A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust](https://github.com/wez/wezterm)
+
+[Wezterm: A Full Featured Terminal Emulator - YouTube](https://www.youtube.com/watch?v=h7G_GgDhTfY)
+[More fun in the terminal with Wezterm! - YouTube](https://www.youtube.com/watch?v=hqP0XdB7VcA)
+[How I Use Wezterm & Zsh For An Amazing Terminal Setup On My Mac - YouTube](https://www.youtube.com/watch?v=TTgQV21X0SQ)
+
+[Working directory not preserved when opened from Nemo file manager · Issue #1982 · wez/wezterm](https://github.com/wez/wezterm/issues/1982) use `open-wezterm-here` for shell integrtation
+
 ### Alacritty
 
 [Alacritty - A cross-platform, OpenGL terminal emulator](https://alacritty.org/) single tab by design
@@ -1078,13 +1136,13 @@ ghostty +reload_config
 
 [Warp: The terminal for the 21st century](https://www.warp.dev/) requires login
 [Warp Terminal — a reimagined terminal experience! - YouTube](https://www.youtube.com/watch?v=wdrjIHzGW74)
+[The NEW Windows Shell: Warp - Explained by a Retired Windows Developer - YouTube](https://www.youtube.com/watch?v=qkduRen6QFk)
+[THIS Is The Terminal For People Who Just Want Things To Work - YouTube](https://www.youtube.com/watch?v=8kNF4TY6BVg)
 
 ### Scratchpad
 
 [noctuid/tdrop: A Glorified WM-Independent Dropdown Creator](https://github.com/noctuid/tdrop)
 [How To Add A Scratchpad To Any Window Manager With Tdrop - YouTube](https://www.youtube.com/watch?v=TbbsjyoK0J4)
-
-[ddterm/gnome-shell-extension-ddterm: Another drop down terminal extension for GNOME Shell. With tabs. Works on Wayland natively](https://github.com/ddterm/gnome-shell-extension-ddterm)
 
 ### Guake
 
@@ -1195,10 +1253,9 @@ Solarize Dark
 [HWMONITOR-PRO | Softwares | CPUID](http://www.cpuid.com/softwares/hwmonitor-pro.html)
 [PERFMONITOR-2 | Softwares | CPUID](http://www.cpuid.com/softwares/perfmonitor-2.html)
 
-[CrystalDiskMark - Software - Crystal Dew World](http://crystalmark.info/software/CrystalDiskMark/index-e.html)
-
 [Cinebench R20 -MAXON | 3D FOR THE REAL WORLD](https://www.maxon.net/en-us/products/cinebench-r20-overview/)
 
+[Novabench - Free Computer Benchmark Software](https://novabench.com/)
 [PassMark Software - PC Benchmark and Test Software](https://www.passmark.com/)
 [AIDA64 | The Ultimate System Information, Diagnostics and Benchmark Tool](https://www.aida64.com/)
 
@@ -1219,11 +1276,16 @@ numastat
 numactl
 ```
 
+[Top 10 ways to monitor Linux in a Terminal - YouTube](https://www.youtube.com/watch?v=4isEhE2rvmA)
+
 [20 Command Line Tools to Monitor Linux Performance](http://www.tecmint.com/command-line-tools-to-monitor-linux-performance/)
 [bpytop - Awesome Linux, macOS and FreeBSD resource monitor - nixCraft](https://www.cyberciti.biz/open-source/command-line-hacks/bpytop-awesome-linux-macos-and-freebsd-resource-monitor/)
 [Linux Performance Monitoring with Vmstat and Iostat Commands](https://www.tecmint.com/linux-performance-monitoring-with-vmstat-and-iostat-commands/) `vmstat`, `iostat`
 [How do I find out Linux Disk utilization? - nixCraft](https://www.cyberciti.biz/tips/linux-disk-performance-monitoring-howto.html)
 [DAG: Dstat: Versatile resource statistics tool](http://dag.wiee.rs/home-made/dstat/)
+[Sysstat Home Page](https://sysstat.github.io/)
+
+[Apps/SystemMonitor - GNOME Wiki!](https://wiki.gnome.org/Apps/SystemMonitor)
 
 [Mission Center](https://missioncenter.io/)
 [mission-center-devs / Mission Center · GitLab](https://gitlab.com/mission-center-devs/mission-center)
@@ -1235,9 +1297,10 @@ numactl
 [Nmon - Terminal-Based System Performance Monitor - YouTube](https://www.youtube.com/watch?v=8PQr055Cn4s)
 [How to Monitor Ubuntu Performance Using Netdata](https://www.tecmint.com/monitor-ubuntu-performance-using-netdata/amp/)
 
-[Apps/SystemMonitor - GNOME Wiki!](https://wiki.gnome.org/Apps/SystemMonitor)
+[Tomas-M/iotop: A top utility for IO](https://github.com/Tomas-M/iotop) IO
+[Syllo/nvtop: GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm](https://github.com/Syllo/nvtop) GPU
 
-[bustle / bustle · GitLab](https://gitlab.freedesktop.org/bustle/bustle)
+[World / Bustle · GitLab](https://gitlab.gnome.org/World/bustle) D-bus
 
 [oguzhaninan/Stacer: Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web](https://github.com/oguzhaninan/Stacer)
 

@@ -2,7 +2,7 @@
 title: Electronics
 description: ""
 created: 2018-09-12
-updated: 2025-01-09
+updated: 2025-07-06
 tags:
   - electronics
   - maker
@@ -49,14 +49,16 @@ tags:
 [All AddOhms Tutorials - YouTube](https://www.youtube.com/playlist?list=PLRIGIzu0Z7KlBkiI9nNfMmRy4ZTzGr0RN)
 [Bald Engineer - Electronics Tutorials for Enginerds](https://www.baldengineer.com/)
 [Simply Electronics - YouTube](https://www.youtube.com/user/sutty6/featured)
-[RimstarOrg - YouTube](https://www.youtube.com/channel/UCSY6p1ZwMs0lW2XP7Zc7k9g)
-[ElectroBOOM101 - YouTube](https://www.youtube.com/playlist?list=PLr_CZLgMkHeWFl1uf5yR2ouhIh00ycHn9)
+[RimstarOrg - YouTube](https://www.youtube.com/@RimstarOrg)
+[ElectroBOOM101 - YouTube](https://www.youtube.com/playlist?list=PLr_CZLgMkHeWFl1uf5yR2ouhIh00ycHn9) ElectroBOOM
+
+[ElectrArc240 - YouTube](https://www.youtube.com/@electrarc240)
 
 [Visual Electric - YouTube](https://www.youtube.com/@VisualElectric_)
 [Electronic Basics - YouTube](https://www.youtube.com/playlist?list=PLAROrg3NQn7cyu01HpOv5BWo217XWBZu0) Great Scott
 [Electronics for Beginners - YouTube](https://www.youtube.com/playlist?list=PLzqS33DOPhJkRn6e9_OTdQwRojO8qlusI) Afrotechmods
 [Electronics Tutorials - YouTube](https://www.youtube.com/playlist?list=PLqyw60j6c9OsgLwbklRYIIYL3dgmd6Fyw) Crazy Couple
-[BUFidea 零基礎電路學 - YouTube](https://www.youtube.com/playlist?list=PLpsrnaNcZIbk0I2XP3Tme7_9eH70qnf79)
+[BUFidea 零基礎電路學 - YouTube](https://www.youtube.com/playlist?list=PLpsrnaNcZIbk0I2XP3Tme7_9eH70qnf79) BUFidea
 
 [Schemdraw documentation — SchemDraw 0.14 documentation](https://schemdraw.readthedocs.io/en/latest/) electrical circuit schematic
 
@@ -117,6 +119,7 @@ No return cable needed for balanced loads
 [Ground, Neutral and Hot wires (US/Can) - The Engineering Mindset](https://theengineeringmindset.com/ground-neutral-and-hot-wires-us-can/)
 [Ground Neutral and Hot wires explained - electrical engineering grounding ground fault - YouTube](https://www.youtube.com/watch?v=P-W42tk-fWc)
 [The GFCI/RCD: A Simple but Life-Saving Protector - YouTube](https://www.youtube.com/watch?v=ILBjnZq0n8s)
+[How Japan Made Their Outlet Safe - YouTube](https://www.youtube.com/watch?v=tqClY6PDCW0) Japan add grounding to GFCI
 
 Kathy Loves Physics & History
 [Physics and History of Why USA uses 120 volts and not 220 volts - YouTube](https://www.youtube.com/watch?v=7yRGvMgieEU)
@@ -494,6 +497,9 @@ Sometimes 7.4V input is needed for H-bridge to get a 6V output.
 
 [Power Supplies and Electronic Life-Hacks (ElectroBOOM101 – 009) - YouTube](https://www.youtube.com/watch?v=WOfD1JT-KzQ)
 
+[Every Component of a Switch Mode Power Supply Explained - YouTube](https://www.youtube.com/watch?v=3FyXqNcqvRM)
+[Everything is Better: GaN vs Silicon Power Supplies - YouTube](https://www.youtube.com/watch?v=vgmqUhvQlww)
+
 ## Generators/Dynamo/Alternators
 
 [How Alternators Work - Automotive Electricity Generator - YouTube](https://www.youtube.com/watch?v=jdSKlg80DjU)
@@ -602,6 +608,7 @@ Arduino's PWM (`analogWrite()`) frequency is about 500Hz, 8 bit resolution.
 ## EDA tools
 
 [Review of the Top Free Electronics Design Automation Software - News](https://www.allaboutcircuits.com/news/review-of-the-top-free-electronics-design-automation-software/)
+[EDA 軟體是怎麼發明的？從 Virtuoso 到 Verilog - YouTube](https://www.youtube.com/watch?v=1Qa48J9fqcA)
 
 [Fritzing Alternatives: Top 8 Online Circuit Simulators | AlternativeTo](https://alternativeto.net/software/fritzing/?platform=online)
 [Circuit Diagram - A Circuit Diagram Maker](https://www.circuit-diagram.org/)
@@ -620,6 +627,8 @@ Arduino's PWM (`analogWrite()`) frequency is about 500Hz, 8 bit resolution.
 [CircuitLab Editor](https://www.circuitlab.com/editor/#?id=7pq5wm)
 
 [Circuit Simulator Applet](http://www.falstad.com/circuit/) real time simulation
+
+[CircuitMaker | Free PCB Design Tool Built on Altium Designer Technology | Altium](https://www.altium.com/circuitmaker)
 
 [QSPICE™ Simulator - Qorvo](https://www.qorvo.com/design-hub/design-tools/interactive/qspice/)
 [Qorvo Releases Free Circuit Simulation Software, QSPICE - News](https://www.allaboutcircuits.com/news/qorvo-releases-free-circuit-simulation-software-qspice/)

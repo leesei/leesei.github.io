@@ -2,7 +2,7 @@
 title: Linux Tips and Tricks
 description: ""
 created: 2016-03-11
-updated: 2025-01-09
+updated: 2025-06-09
 tags:
   - app
   - desktop
@@ -24,6 +24,7 @@ These tips and tricks shall be promoted to its own post when the topic has accum
 [OverTheWire: Wargames](https://overthewire.org/wargames/)
 [Linux Survival | Where learning Linux is easy](https://linuxsurvival.com/)
 [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
+[Michael Tunnell - YouTube](https://www.youtube.com/@michael_tunnell/)
 
 David Bombal
 [Linux for Hackers Tutorial (And Free Courses) - YouTube](https://www.youtube.com/watch?v=YJUVNlmIO6E)
@@ -254,6 +255,13 @@ play -n -c1 synth whitenoise lowpass -1 120 lowpass -1 120 lowpass -1 120 gain +
 [linux-audit/audit-userspace: Linux audit userspace repository](https://github.com/linux-audit/audit-userspace)
 [Chapter 7. System Auditing | Red Hat Product Documentation](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/security_guide/chap-system_auditing)
 
+[What Is Auditd in Linux: A Brief Tutorial - Sematext](https://sematext.com/glossary/auditd)
+[Linux auditd for Threat Detection [Part 1] | by IzyKnows | Medium](https://izyknows.medium.com/linux-auditd-for-threat-detection-d06c8b941505)
+[Linux auditd for Threat Detection [Part 2] | by IzyKnows | Medium](https://izyknows.medium.com/linux-auditd-for-threat-hunting-part-2-c75500f591e8)
+[Linux auditd for Threat Detection [Final] | by IzyKnows | Medium](https://izyknows.medium.com/linux-auditd-for-threat-detection-final-9d5173706b3f)
+
+[Linux Audit Framework - Linux Audit](https://linux-audit.com/linux-audit-framework/)
+
 [auditd: The Linux Audit daemon | audit System Administration | Man Pages | ManKier](https://www.mankier.com/8/auditd)
 [auditd.conf: audit daemon configuration file | audit File Formats | Man Pages | ManKier](https://www.mankier.com/5/auditd.conf)
 [auditctl: a utility to assist controlling the kernel's audit system | audit-rules System Administration | Man Pages | ManKier](https://www.mankier.com/8/auditctl)
@@ -272,6 +280,13 @@ play -n -c1 synth whitenoise lowpass -1 120 lowpass -1 120 lowpass -1 120 gain +
 [Neo23x0/auditd: Best Practice Auditd Configuration](https://github.com/Neo23x0/auditd)
 [set-element/auditdBroFramework: The Auditd Framework logs and applies security policy to linux auditd data](https://github.com/set-element/auditdBroFramework) `log_normalizer`
 [sigma/rules/linux/auditd at master · SigmaHQ/sigma · GitHub](https://github.com/SigmaHQ/sigma/tree/master/rules/linux/auditd)
+
+```sh
+# modify files in `/etc/audit/rules.d/`
+
+# this generates `/etc/audit/audit.rules` and reload it
+augenrules --load
+```
 
 #### Analyzing `audit.log`
 
@@ -292,9 +307,17 @@ play -n -c1 synth whitenoise lowpass -1 120 lowpass -1 120 lowpass -1 120 gain +
 [Linux auditd for Threat Detection [Part 2] | by IzyKnows | Medium](https://izyknows.medium.com/linux-auditd-for-threat-hunting-part-2-c75500f591e8)
 [Linux auditd for Threat Detection [Final] | by IzyKnows | Medium](https://izyknows.medium.com/linux-auditd-for-threat-detection-final-9d5173706b3f)
 
+[exeronn/auditd-python-parser: A python library to parse raw auditd events generated on a linux system](https://github.com/exeronn/auditd-python-parser/) output pandas Dataframe
+[jhb/auditd_tools: Python tools for handling auditd events](https://github.com/jhb/auditd_tools/tree/main) requires `auparser`
+
 ### go-audit
 
 [slackhq/go-audit: go-audit is an alternative to the auditd daemon that ships with many distros](https://github.com/slackhq/go-audit)
+
+### eBPF
+
+[eBPF for security: a beginner's guide | Red Canary](https://redcanary.com/blog/threat-detection/ebpf-for-security/)
+[Master Linux Security with Tetragon and Wazuh: Real-Time Monitoring and Seamless SIEM Integration - YouTube](https://www.youtube.com/watch?v=Mfnrp3X1E-k)
 
 ### logrotate
 

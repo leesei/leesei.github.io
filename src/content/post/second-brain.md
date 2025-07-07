@@ -2,7 +2,7 @@
 title: Second Brain
 description: ""
 created: 2023-01-13
-updated: 2025-01-09
+updated: 2025-05-03
 tags:
   - learning
 featured: true
@@ -58,6 +58,8 @@ PARA (storage): Project, Areas, Resources, Archives
 I use graph view and use scripts to analyze the frontmatters
 
 [Networked Thought](https://jzhao.xyz/posts/networked-thought/)
+
+[How I Use AI to Improve My Knowledge Management Base](https://www.makeuseof.com/use-ai-improve-knowledge-management-base/)
 
 ### Zettelkasten
 

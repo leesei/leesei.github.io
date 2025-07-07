@@ -2,7 +2,7 @@
 title: Amazon Web Services
 description: ""
 created: 2015-06-17
-updated: 2025-01-09
+updated: 2025-06-24
 tags:
   - web
 ---
@@ -572,6 +572,9 @@ We hope these resources will answer your questions and help you get started usin
 [Understanding your AWS billing and usage reports for Amazon S3 - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/aws-usage-report-understand.html)
 
 [Amazon S3 REST API Introduction - Amazon Simple Storage Service](http://docs.aws.amazon.com/AmazonS3/latest/API/Welcome.html)
+
+[s3fs-fuse/s3fs-fuse: FUSE-based file system backed by Amazon S3](https://github.com/s3fs-fuse/s3fs-fuse)
+[Mount an S3 bucket on an EC2 instance at boot using fstab with Mountpoint for Amazon S3 or s3fs-fuse – 4sysops](https://4sysops.com/archives/mount-an-s3-bucket-on-an-ec2-instance-at-boot-using-fstab-with-mountpoint-for-amazon-s3-or-s3fs-fuse/)
 
 [Differences between PUT and POST S3 signed URLs - Advanced Web Machinery](https://advancedweb.hu/2019/07/17/upload_signed_urls_differences/)
 [How S3 Signed URLs work - Advanced Web Machinery](https://advancedweb.hu/how-s3-signed-urls-work/) series

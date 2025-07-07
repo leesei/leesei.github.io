@@ -2,7 +2,7 @@
 title: 關於我轉生變成史萊姆這檔事
 description: ""
 created: 2019-03-30
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - anime
 ---
@@ -34,7 +34,7 @@ E N
 
 [【轉生史萊姆】先修下水道！史萊姆如何成就建國霸業 《關於我轉生變成史萊姆這檔事》【不只是聊動漫#93】 - YouTube](https://www.youtube.com/watch?v=Mu7cOgOPNHs)
 
-[洛天 lee -BILIBILI - YouTube](https://www.youtube.com/channel/UCMD9Ww2m1_oBjGBIy_Yn5fA)
+[洛天 lee -BILIBILI - YouTube](https://www.youtube.com/@leeBILIBILI)
 [史莱姆科普 - YouTube](https://www.youtube.com/playlist?list=PLlw2XE61KvHEhhLi7PSQvZZ2TiNrQa48E)
 [史莱姆故事（第二、三、四、五季） - YouTube](https://www.youtube.com/playlist?list=PLlw2XE61KvHFq2e6ZUGigZUJ1SCurdDU4)
 

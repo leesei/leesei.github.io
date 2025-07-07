@@ -2,7 +2,7 @@
 title: Hong Kong Places
 description: ""
 created: 2015-05-25
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - trivia
 ---
@@ -53,7 +53,7 @@ tags:
 
 [主頁 | www.16seats.net](https://www.16seats.net/chi/index.html)
 
-[鐵流 Railic HK - YouTube](https://www.youtube.com/channel/UCv7VwecZHZ0mxntE3bA3cTg)
+[鐵流 Railic HK - YouTube](https://www.youtube.com/@RailicHongKong)
 
 [Tour Builder | Build Mobile Walking Tours - PocketSights](https://pocketsights.com/)
 

@@ -2,7 +2,7 @@
 title: Computer Hardware
 description: ""
 created: 2016-09-27
-updated: 2025-01-09
+updated: 2025-06-24
 tags:
   - comp/hardware
 ---
@@ -17,6 +17,7 @@ tags:
 [极客湾Geekerwan - YouTube](https://www.youtube.com/@geekerwan1024)
 [Hardware Unboxed - YouTube](https://www.youtube.com/@Hardwareunboxed)
 [板廠沒有說的秘密 TOPPC - YouTube](https://www.youtube.com/@ToppcLin)
+[差评硬件部 - YouTube](https://www.youtube.com/@chapinghardware)
 
 Branch Education
 [How do Computers Work? - YouTube](https://www.youtube.com/playlist?list=PL6rx9p3tbsMsZ9hUvU-kDOXc8Fot04Hhu)
@@ -31,9 +32,10 @@ Branch Education
 [【FUN 科技】可能是北半球最简单的装机教程 - YouTube](https://www.youtube.com/watch?v=-bG2DmzsyrE)
 [安裝一台電腦，真的沒那麼複雜 | 教你如何裝一台好看的主機｜電腦配置｜大狸子切切裡 - YouTube](https://www.youtube.com/watch?v=uJL0hAueSK0)
 [How to build a PC, the last guide you'll ever need! - YouTube](https://www.youtube.com/watch?v=BL4DCEp7blY) LTT
+[First Person View POV PC BUILD Guide! (2024) - YouTube](https://www.youtube.com/watch?v=DC-Xn2C_L1U)
 [宿舍神机！全网第二细的 ITX 装机教程 - YouTube](https://www.youtube.com/watch?v=EXRFOceNL7w)
 
-number of slots for GPU = ceiling(GPU width / 20.3)
+number of slots for GPU = `ceiling(GPU width / 20.3)`
 
 # Analog Computer
 
@@ -46,6 +48,7 @@ number of slots for GPU = ceiling(GPU width / 20.3)
 [What is an Analog Computer? - Definition from Techopedia](https://www.techopedia.com/definition/5955/analog-computer)
 [What is Analog Computer: Definition, Examples, Types, Characteristics, Advantages](https://digitalthinkerhelp.com/what-is-analog-computer-definition-and-its-examples/)
 [Difference between Analog Computer and Digital Computer - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-analog-computer-and-digital-computer/)
+[Are Analogue Computer Hybrids The Future? - YouTube](https://www.youtube.com/watch?v=e2Mtt2rb654) analog signal processing
 
 [Why Lightbulbs Might Be The Best Invention Ever - YouTube](https://www.youtube.com/watch?v=FU_YFpfDqqA) bulb -> vacuum tube -> amplifier -> digital computer
 [Analog Computers Are About to Take OVER - Here's Why! - YouTube](https://www.youtube.com/watch?v=VWn6Ixh2eDg)
@@ -100,13 +103,13 @@ your kids play Candy Crush on this
 [Toppc Lin - YouTube](https://www.youtube.com/user/Toppccbb) MSI staff
 [How Motherboards Work - Turbo Nerd Edition - YouTube](https://www.youtube.com/watch?v=zxGqGCtPxn4)
 
+[【电脑DIY】从萌新入门到开窍——主板篇 - 知乎](https://zhuanlan.zhihu.com/p/333489243)
 [【硬件科普】电脑主板右下角的散热片下面究竟隐藏着什么？详解主板南桥芯片组的功能和作用 - YouTube](https://www.youtube.com/watch?v=8JpLPenK5v0)
 
 ## Form Factor
 
 [Anatomy of a Motherboard - TechSpot](https://www.techspot.com/article/1965-anatomy-motherboard/)
 [PC Motherboard Sizes as Fast As Possible - YouTube](https://www.youtube.com/watch?v=Tbeh1eRDmsk)
-[PC Motherboard Evolution - YouTube](https://www.youtube.com/watch?v=sewt2pqc3us)
 [PC Motherboard Evolution - YouTube](https://www.youtube.com/watch?v=sewt2pqc3us)
 
 [ATX - Wikiwand](https://www.wikiwand.com/en/ATX)
@@ -237,9 +240,14 @@ Since CPU and GPU both takes 12V, make sure the 12V rail (not the total) can sup
 [電源供應器 @ 港都狼窩 WolfLSI's Den :: 痞客邦 ::](https://wolflsi.pixnet.net/blog/category/942282)
 [電源測試文閱讀小指南 Part II @ 港都狼窩 WolfLSI's Den :: 痞客邦 ::](https://wolflsi.pixnet.net/blog/post/67908465)
 
+[PSU Circuit - YouTube](https://www.youtube.com/@PSUCircuit)
+[Power Supplies | LTT Labs](https://www.lttlabs.com/categories/power-supplies)
+[Thousands of you are buying these power supplies - YouTube](https://www.youtube.com/watch?v=7h6kUNlC6cs) 2025-03
+
 [PSU Hierarchy 2023 [PC Power Supply Tier List] - GPU Mag](https://www.gpumag.com/psu-hierarchy/)
 [PSU Hierarchy (June 2023) - Power Supply Unit List](https://www.gamingscan.com/psu-hierarchy/)
 [[EOL] PSU Tier List rev. 14.8 - Power Supplies - Linus Tech Tips](https://linustechtips.com/topic/1116640-eol-psu-tier-list-rev-148/)
+[PSU Tier List rev. 17.0g - Cultists Network](https://cultists.network/140/psu-tier-list/)
 
 - linear PSU (Full bridge rectifiers)
 - switching PSU (AC->high voltage DC->PF corrected high voltage high frequency AC->DC)
@@ -360,7 +368,8 @@ Gamers Nexus
 [What Is CVC Noise Cancellation Technology & How Does It Work? (Solved)](https://headphonecritics.com/cvc-noise-cancellation/) CVC/ENC only works during call
 [What is CVC and ANC? Explanation and Differences - Nerd Techy](https://nerdtechy.com/cvc-anc-definition)
 [Active noise-canceling (ANC) technology types explained - SoundGuys](https://www.soundguys.com/noise-canceling-anc-explained-28344/)
-[抗噪耳機原理一看就懂－2020 年 8 款 ANC 主動降噪耳機推薦](https://blog.witsper.com/tips/top8-anc/)
+[What Is Active Noise Cancellation and How Does It Work?](https://www.makeuseof.com/what-is-active-noise-cancellation/) feedforward, feedback
+[抗噪耳機原理一看就懂－2024 年 8 款 ANC 主動降噪耳機推薦](https://blog.witsper.com/tips/top8-anc/)
 [抗噪耳機興起 主動降噪（ANC）技術大解密 – Earphoneman 耳機人](https://earphoneman.com/knowl/active-noise-cancellation/)
 [降噪耳机怎么选？2020 值得入手蓝牙降噪耳机推荐（双十一福利篇） - 知乎](https://zhuanlan.zhihu.com/p/165154938)
 

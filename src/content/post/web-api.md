@@ -2,7 +2,7 @@
 title: Web API
 description: ""
 created: 2015-11-19
-updated: 2025-01-09
+updated: 2025-04-14
 tags:
   - rest
   - web
@@ -119,17 +119,25 @@ Dredd is a language-agnostic command-line tool for validating API description do
 
 [Swagger | The World's Most Popular Framework for APIs.](http://swagger.io/)
 backed by Wordnik, then donated to [Open API Initiative](https://openapis.org/) in 2016.
+[OpenAPI Fundamentals Training Course | Linux Foundation](https://training.linuxfoundation.org/express-learning/openapi-fundamentals-lfel1011/)
 
 [Swagger Specification](https://swagger.io/specification/)
+[OpenAPI Specification v3.1.1](https://spec.openapis.org/oas/latest.html)
+[OAI/OpenAPI-Specification: The OpenAPI Specification Repository](https://github.com/OAI/OpenAPI-Specification)
+
 [A Guide to What’s New in OpenAPI 3.0 | Swagger](https://swagger.io/blog/news/whats-new-in-openapi-3-0/) ❗!important
+[You Can Get Involved in Creating the OpenAPI Specification, And Here's How - OpenAPI Initiative](https://www.openapis.org/news/blogs/2016/07/you-can-get-involved-creating-openapi-specification-and-heres-how)
 [TDC: Structural Improvements: explaining the 3.0 spec, part 2 - OpenAPI Initiative](https://www.openapis.org/news/blogs/2016/10/tdc-structural-improvements-explaining-30-spec-part-2)
+[The OpenAPI Spec, Based on Swagger, Reaches 3.0](https://www.infoq.com/news/2017/01/openapi-3)
+
+[OpenAPI Tooling](https://tools.openapis.org/)
+[OpenAPI.Tools - an Open Source list of great tools for Open API](https://openapi.tools/)
+[Swagger Editor](https://editor.swagger.io/)
+[SwaggerEditor](https://editor-next.swagger.io/) next
 [OpenAPI Map](http://openapi-map.apihandyman.io/) visualize the OpenAPI spec (2 and 3)
 
 [APIs-guru/awesome-openapi3: 😎 A list of awesome projects related to OpenAPI 3.0.x, curated by the community](https://github.com/APIs-guru/awesome-openapi3)
-[OpenAPI.Tools - an Open Source list of great tools for Open API](https://openapi.tools/)
 
-[OAI/OpenAPI-Specification: The OpenAPI Specification Repository](https://github.com/OAI/OpenAPI-Specification)
-[The OpenAPI Spec, Based on Swagger, Reaches 3.0](https://www.infoq.com/news/2017/01/openapi-3)
 [Documenting APIs: A guide for technical writers and engineers | Documenting REST APIs](https://idratherbewriting.com/learnapidoc/)
 [octokit/routes: machine-readable, always up-to-date GitHub REST API route specifications](https://github.com/octokit/routes/)
 
@@ -140,6 +148,8 @@ backed by Wordnik, then donated to [Open API Initiative](https://openapis.org/) 
 [10 realizations as I was creating my Swagger spec and Swagger UI | I'd Rather Be Writing](http://idratherbewriting.com/2015/12/10/ten-realizations-using-swagger-and-swagger-ui/)
 
 [Writing OpenAPI (Swagger) Specification Tutorial - Part 1 - Introduction | API Handyman](http://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-1-introduction/) Swagger 2.0, part 1-9
+
+[alufers/mitmproxy2swagger: Automagically reverse-engineer REST APIs via capturing traffic](https://github.com/alufers/mitmproxy2swagger) supports HAR
 
 ### Examples
 

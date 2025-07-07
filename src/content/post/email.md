@@ -2,7 +2,7 @@
 title: Email Services
 description: ""
 created: 2015-11-19
-updated: 2025-01-09
+updated: 2025-04-16
 tags:
   - ldap
   - mail
@@ -27,7 +27,7 @@ tags:
 > outgoing
 
 [Simple Mail Transfer Protocol - Wikiwand](http://www.wikiwand.com/en/Simple_Mail_Transfer_Protocol)
-[RFC 5321 - Simple Mail Transfer Protocol](https://tools.ietf.org/html/rfc5321)
+[RFC 5321 - Simple Mail Transfer Protocol](https://datatracker.ietf.org/doc/html/rfc5321)
 
 [16 Command Examples to Send Email From The Linux Command Line](https://blog.edmdesigner.com/send-email-from-linux-command-line/)
 [SMTP · Everything curl](https://ec.haxx.se/usingcurl-smtp.html)
@@ -44,6 +44,11 @@ curl smtp://10.6.64.241 \
 [Open Source Email | Sendmail Sentrion| Proofpoint](https://www.proofpoint.com/us/open-source-email-solution)
 
 [How to set up a multifunction device or application to send email using Office 365 | Microsoft Docs](https://docs.microsoft.com/en-us/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-office-3)
+
+## S/MIME
+
+[RFC 2634 - Enhanced Security Services for S/MIME](https://datatracker.ietf.org/doc/html/rfc2634)
+[RFC 5035 - Enhanced Security Services (ESS) Update: Adding CertID Algorithm Agility](https://datatracker.ietf.org/doc/html/rfc5035)
 
 ## Email template
 

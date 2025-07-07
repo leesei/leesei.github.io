@@ -2,7 +2,7 @@
 title: Philosophy
 description: ""
 created: 2015-06-29
-updated: 2025-01-09
+updated: 2025-05-12
 tags:
   - philosophy
 ---
@@ -14,6 +14,58 @@ tags:
 [Philosophical Questions - YouTube](https://www.youtube.com/@PhilosophicalQuestions)
 [大问题 Dialectic - YouTube](https://www.youtube.com/@question-dialectic)
 [Political Theory & Philosophy - YouTube](https://www.youtube.com/playlist?list=PLQo2I7piiPpi9T4swRDFWD9LmMHT9-Ifd)
+
+## Language Fallacies
+
+[Logical fallacy - RationalWiki](http://rationalwiki.org/wiki/Logical_fallacy)
+[Category:Fallacious arguments - RationalWiki](http://rationalwiki.org/wiki/Category:Fallacious_arguments)
+[List of cognitive biases - Wikiwand](https://www.wikiwand.com/en/List_of_cognitive_biases)
+[Category:Cognitive biases - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Category:Cognitive_biases)
+[Cognitive bias cheat sheet](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.luav9hnu2)
+[Every Logical Fallacy Explained in 11 Minutes - YouTube](https://www.youtube.com/watch?v=pCg-SNOteQQ)
+
+[RationalWiki](http://rationalwiki.org/wiki/Main_Page)
+
+[李天命的思考藝術（最終定本） - 李天命 - Google Books](https://books.google.com.hk/books?id=DeutAAAAQBAJ)
+
+[21 Mind Traps : The Ultimate Guide to your most common Thinking errors - YouTube](https://www.youtube.com/watch?v=nYYkRaU0xh8)
+[Why incompetent people think they're amazing - David Dunning - YouTube](https://www.youtube.com/watch?v=pOLmD_WVY-E) Dunning-Kruger effect
+
+[Why you think you're right -- even if you're wrong | Julia Galef - YouTube](https://www.youtube.com/watch?v=w4RLfVxTGH4)
+Motivated Reasoning (soldier mindset):
+Trying to make some ideas win and others lose; the drive to attack or defend ideas; 輸打贏要
+Scout mindset:
+Trying to get an accurate picture of reality, even when that's unpleasant or inconvenient (against ones believe and prejudice)
+
+### XY problem
+
+The XY problem is asking about your _attempted solution_ (Y) rather than your _actual problem_ (X).
+
+[XyProblem - Greg's Wiki](https://mywiki.wooledge.org/XyProblem)
+[What is the XY problem? - Meta Stack Exchange](https://meta.stackexchange.com/questions/66377/what-is-the-xy-problem)
+
+### Bayesian Trap
+
+[[math#Bayes Theorem]]
+
+[The Bayesian Trap - YouTube](https://www.youtube.com/watch?v=R13BD8qKeTg)
+[Your brain is not a Bayes net (and why that matters) - YouTube](https://www.youtube.com/watch?v=cFv5DvrLDCg)
+
+### Attribution Error
+
+Magical thinking that leads to superstition
+
+[13 Common (But Silly) Superstitions](http://www.livescience.com/14141-13-common-silly-superstitions.html)
+[Cargo cult - Wikiwand](https://www.wikiwand.com/en/Cargo_cult)
+
+#### The Five Monkeys Experiment
+
+[The Famous 'Social Experiment': 5 Monkeys and a Ladder](http://www.wisdompills.com/2014/05/28/the-famous-social-experiment-5-monkeys-a-ladder/)
+[5 Monkeys, Bananas, Ladder, Water. Why do we comply with daft rules in organisations? – What's the PONT](https://whatsthepont.com/2015/03/14/5-monkeys-bananas-ladder-water-why-do-we-comply-with-daft-rules-in-organisations/)
+
+[What Monkeys Can Teach Us About Human Behavior: From Facts to Fiction | Psychology Today](https://www.psychologytoday.com/blog/games-primates-play/201203/what-monkeys-can-teach-us-about-human-behavior-facts-fiction)
+[The Five Monkeys Experiment (with a new lesson) - John Stepper's Blog](http://johnstepper.com/2013/10/26/the-five-monkeys-experiment-with-a-new-lesson/)
+[The Five Monkeys Experiment Obviously Never Happened](http://www.throwcase.com/2014/12/21/that-five-monkeys-and-a-banana-story-is-rubbish/)
 
 ## Happiness
 

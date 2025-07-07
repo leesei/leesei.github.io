@@ -2,7 +2,7 @@
 title: SQLite
 description: ""
 created: 2023-09-26
-updated: 2025-01-09
+updated: 2025-06-24
 tags:
   - comp/database
   - postgresql
@@ -47,6 +47,8 @@ tags:
 [SqliteMan](https://sqliteman.dev/)
 [SQLiteStudio](https://sqlitestudio.pl/)
 [DB Browser for SQLite](http://sqlitebrowser.org/)
+
+[db<>fiddle](https://dbfiddle.uk/) SQL fiddle
 
 ### Datasette
 

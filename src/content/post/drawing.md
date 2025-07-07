@@ -2,7 +2,7 @@
 title: Drawing
 description: ""
 created: 2015-10-27
-updated: 2025-01-09
+updated: 2025-01-31
 tags:
   - trivia
 ---
@@ -10,7 +10,9 @@ tags:
 [Draw with Jazza - YouTube](https://www.youtube.com/channel/UCHu2KNu6TtJ0p4hpSW7Yv7Q)
 [Why people believe they can’t draw - and how to prove they can | Graham Shaw | TEDxHull - YouTube](https://www.youtube.com/watch?v=7TXEZ4tP06c)
 
-[JetPens - The Best Pens & Stationery From Japan & Beyond](https://www.jetpens.com/) compatible refill for stationaries
+[The hidden pattern in the cracks of paintings - YouTube](https://www.youtube.com/watch?v=BcVNGeWmd6I)
+
+[JetPens - The Best Pens & Stationery From Japan & Beyond](https://www.jetpens.com/) compatible refill for stationeries
 [JetPens - YouTube](https://www.youtube.com/channel/UCVbn813ctsoChuTT4LuLqrA)
 
 [Marvel DRAW! - YouTube](https://www.youtube.com/playlist?list=PLNw_hEO5pK1qZr8pVt-1clkHOf2f2EPeK)

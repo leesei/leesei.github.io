@@ -2,7 +2,7 @@
 title: Earphone Owned
 description: ""
 created: 2023-06-15
-updated: 2025-01-09
+updated: 2025-01-22
 tags:
   - bluetooth
   - comp/hardware
@@ -278,7 +278,7 @@ Connects 2 devices
 > out of production
 
 Driver: 12mm
-Impedance:
+Impedance: 32ohm
 Sensitivity:
 S/N Ratio:
 Profiles: Bluetooth 5.0; A2DP, AVRCP, HFP

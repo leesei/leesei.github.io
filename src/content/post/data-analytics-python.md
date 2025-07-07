@@ -2,7 +2,7 @@
 title: Data Analytics (Python)
 description: ""
 created: 2016-09-21
-updated: 2025-01-09
+updated: 2025-06-24
 tags:
   - big-data
   - pandas
@@ -17,6 +17,7 @@ tags:
 
 [Python Data Analysis Library](https://pandas.pydata.org/)(`pandas`) massage data into a tabular state so it can be modeled
 [Spyder - Documentation](https://pythonhosted.org/spyder/#) Scientific PYthon Development EnviRonment
+[Mastering Python’s Built-in Statistics Module: A Complete Guide to Essential Functions - KDnuggets](https://www.kdnuggets.com/mastering-pythons-built-in-statistics-module)
 
 [Python Data Transformation Tools for ETL - Towards Data Science](https://towardsdatascience.com/python-data-transformation-tools-for-etl-2cb20d76fcd0)
 [Data Preprocessing in Data Mining & Machine Learning](https://towardsdatascience.com/data-preprocessing-in-data-mining-machine-learning-79a9662e2eb)
@@ -54,7 +55,7 @@ Try Docker image for [Intel® Distribution for Python\* | Intel® Software](http
 [Indexing — NumPy Manual](https://docs.scipy.org/doc/numpy/reference/arrays.indexing.html)
 [Quickstart tutorial — NumPy Manual](https://numpy.org/devdocs/user/quickstart.html)
 
-[numpy.reshape — NumPy v1.21 Manual](https://numpy.org/doc/stable/reference/generated/numpy.reshape.html)
+[numpy.reshape — NumPy Manual](https://numpy.org/doc/stable/reference/generated/numpy.reshape.html)
 Axis 0: columns
 Axis 1: rows
 Axis 2: height
@@ -63,26 +64,29 @@ Axis 2: height
 [ddbourgin/numpy-ml: Machine learning, in numpy](https://github.com/ddbourgin/numpy-ml)
 
 [Free Deep Learning Tutorial - Deep Learning Prerequisites: The Numpy Stack in Python V2 | Udemy](https://www.udemy.com/course/numpy-python/)
-[How to create NumPy arrays from scratch? - Towards Data Science](https://towardsdatascience.com/how-to-create-numpy-arrays-from-scratch-3e0341f9ffea)
-[A Visual Intro to NumPy and Data Representation – Jay Alammar – Visualizing machine learning one concept at a time](https://jalammar.github.io/visual-numpy/)
-[Numpy Guide for People In a Hurry – Towards Data Science](https://towardsdatascience.com/numpy-guide-for-people-in-a-hurry-22232699259f)
+
 [Reshape numpy arrays—a visualization | Towards Data Science](https://towardsdatascience.com/reshaping-numpy-arrays-in-python-a-step-by-step-pictorial-tutorial-aed5f471cf0b)
+[A Visual Intro to NumPy and Data Representation – Jay Alammar – Visualizing machine learning one concept at a time](https://jalammar.github.io/visual-numpy/)
+
+[NumPy Crash Course: Array Basics - Towards Data Science](https://towardsdatascience.com/numpy-crash-course-array-basics-35c83ea147f5)
+[Look Ma, No For-Loops: Array Programming With NumPy – Real Python](https://realpython.com/numpy-array-programming/)
+[Python Numpy Array Tutorial (article) - DataCamp](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
+[Array Oriented Programming with Python NumPy | by Semi Koen | Towards Data Science](https://towardsdatascience.com/array-oriented-programming-with-python-numpy-e0190dd6ab65)
+[NumPy Ninjutsu: Mastering Array Operations for High-Performance Machine Learning - MachineLearningMastery.com](https://machinelearningmastery.com/numpy-ninjutsu-mastering-array-operations-for-high-performance-machine-learning/)
+
+[How to create NumPy arrays from scratch? - Towards Data Science](https://towardsdatascience.com/how-to-create-numpy-arrays-from-scratch-3e0341f9ffea)
+[Numpy Guide for People In a Hurry – Towards Data Science](https://towardsdatascience.com/numpy-guide-for-people-in-a-hurry-22232699259f)
 [The Easiest Python Numpy Tutorial Ever - Towards Data Science](https://towardsdatascience.com/the-easiest-python-numpy-tutorial-ever-5c206c809a0d)
 [A Complete Beginners Guide to Matrix Multiplication for Data Science with Python Numpy | by Chris I. | Towards Data Science](https://towardsdatascience.com/a-complete-beginners-guide-to-matrix-multiplication-for-data-science-with-python-numpy-9274ecfc1dc6)
-[Array Oriented Programming with Python NumPy | by Semi Koen | Towards Data Science](https://towardsdatascience.com/array-oriented-programming-with-python-numpy-e0190dd6ab65)
-[NumPy Crash Course: Array Basics - Towards Data Science](https://towardsdatascience.com/numpy-crash-course-array-basics-35c83ea147f5)
 [27 NumPy Operations for beginners - Towards Data Science](https://towardsdatascience.com/27-things-that-a-beginner-needs-to-know-about-numpy-edda217fb662)
 [10 quick Numpy tricks that will make life easier for a data scientist | by Harsh Maheshwari | Jun, 2021 | Towards Data Science](https://towardsdatascience.com/10-quick-numpy-tricks-that-will-make-life-easier-for-a-data-scientist-35a0253c7479)
-[Look Ma, No For-Loops: Array Programming With NumPy – Real Python](https://realpython.com/numpy-array-programming/)
 [np.linspace(): Create Evenly or Non-Evenly Spaced Arrays – Real Python](https://realpython.com/np-linspace-numpy/)
-[Python Numpy Array Tutorial (article) - DataCamp](https://www.datacamp.com/community/tutorials/python-numpy-tutorial)
 [NumPy indexing explained. NumPy is the universal standard for… | by Àlex Escolà Nixon | Towards Data Science](https://towardsdatascience.com/numpy-indexing-explained-c376abb2440d)
 [10 quick Numpy tricks that will make life easier for a data scientist | by Harsh Maheshwari | Jun, 2021 | Towards Data Science](https://towardsdatascience.com/10-quick-numpy-tricks-that-will-make-life-easier-for-a-data-scientist-35a0253c7479)
+[A NumPy affair: Broadcasting - Towards Data Science](https://towardsdatascience.com/a-numpy-affair-broadcasting-ead20d9661f)
 
 [Deep Learning Prerequisites: The Numpy Stack in Python (V2+) | Udemy](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/) free
 [Deep Learning Prerequisites: The Numpy Stack in Python Extra Resources - Lazy Programmer](https://lazyprogrammer.me/numpy/)
-
-[A NumPy affair: Broadcasting - Towards Data Science](https://towardsdatascience.com/a-numpy-affair-broadcasting-ead20d9661f)
 
 ### Count value
 
@@ -134,10 +138,13 @@ SciPy is an open-source Python-based tool used for scientific and technical comp
 
 [Numba: High-Performance Python with CUDA Acceleration | Svelte Hacker News](https://hn.svelte.dev/item/15301766)
 [Python Numba or NumPy: understand the differences - Towards Data Science](https://towardsdatascience.com/python-numba-or-numpy-understand-the-differences-b448dabd5b5b)
+[rapidsai/cudf: cuDF - GPU DataFrame Library](https://github.com/rapidsai/cudf)
 [Run Your Python User Defined Functions in Native CUDA Kernels with RAPIDS cuDF | by Jiqun Tu | RAPIDS AI | Medium](https://medium.com/rapids-ai/run-your-python-user-defined-functions-in-native-cuda-kernels-with-rapids-cudf-57477dd94fb3)
+[Mastering GPUs: A Beginner’s Guide to GPU-Accelerated DataFrames in Python - KDnuggets](https://www.kdnuggets.com/2023/07/mastering-gpus-beginners-guide-gpu-accelerated-dataframes-python.html)
 
 [Dask: Scalable analytics in Python](https://dask.org/)
 [Data Pre-Processing in Python: How I learned to love parallelized applies with Dask and Numba](https://towardsdatascience.com/how-i-learned-to-love-parallelized-applies-with-python-pandas-dask-and-numba-f06b0b367138)
+[An Introduction to Dask: The Python Data Scientist’s Power Tool - KDnuggets](https://www.kdnuggets.com/introduction-dask-python-data-scientist-power-tool)
 
 ## xarray
 
@@ -172,28 +179,46 @@ better API to address columns, akin to pandas
 
 [Hannah Stepanek - Thinking like a Panda: Everything you need to know to use pandas the right way. - YouTube](https://www.youtube.com/watch?v=ObUcgEO4N8w)
 [Pandas Cheat Sheet: Data Science and Data Wrangling in Python - KDnuggets](https://www.kdnuggets.com/2017/01/pandas-cheat-sheet.html)
-[Python-Pandas cheat sheet: 30 functions-methods | by Jyoti Kumar | Aug, 2022 | Medium](https://jyoti05iitd.medium.com/python-pandas-cheat-sheet-30-functions-methods-b1176f2e37da)r
+[Python-Pandas cheat sheet: 30 functions-methods | by Jyoti Kumar | Aug, 2022 | Medium](https://jyoti05iitd.medium.com/python-pandas-cheat-sheet-30-functions-methods-b1176f2e37da)
 [pandas - Getting started with pandas | pandas Tutorial](https://riptutorial.com/pandas)
 
 [Learn Python, Data Science & Machine Learning with expert instruction](https://www.dunderdata.com/library)
 [Pandas Tutorials – Dunder Data – Medium](https://medium.com/dunder-data/pandas-tutorials/home)
 
-[Explore Your Dataset With Pandas – Real Python](https://realpython.com/courses/explore-dataset-with-pandas/)
 [Finding Temporal Patterns in Twitter Posts: Exploratory Data Analysis with Python | by Dmitrii Eliuseev | May, 2023 | Towards Data Science](https://towardsdatascience.com/finding-temporal-patterns-in-twitter-posts-exploratory-data-analysis-with-python-8aac618c8699)
 [Full Stack Pandas. Lesser known functionality of the… | by Sayar Banerjee | Towards Data Science](https://towardsdatascience.com/full-stack-pandas-625f134ce0f6)
 [Pandas Makes Python Better. Something I’ve wanted to talk about for… | by Emma Boudreau | Towards Data Science](https://towardsdatascience.com/pandas-makes-python-better-ec6cc1e30233)
 [10 Python Skills They Don’t Teach in Bootcamp | Towards Data Science](https://towardsdatascience.com/10-python-skills-419e5e4c4d66)
 
-[Improve pandas performance with eval and query | Python in Plain English](https://python.plainenglish.io/these-methods-will-change-how-you-use-pandas-921e4669271f)
-[Using numba to make pandas operations faster | Towards Data Science](https://towardsdatascience.com/this-decorator-will-make-python-30-times-faster-715ca5a66d5f)
-
 [Stylin’ with Pandas - Practical Business Python](https://pbpython.com/styling-pandas.html)
-[Efficiently Cleaning Text with Pandas - Practical Business Python](https://pbpython.com/text-cleaning.html)
 
 [10 Python One-Liners That Will Boost Your Data Science Workflow - MachineLearningMastery.com](https://machinelearningmastery.com/10-python-one-liners-that-will-boost-your-data-science-workflow/)
+[A Data Scientist’s Guide to Debugging Common Pandas Errors - KDnuggets](https://www.kdnuggets.com/data-scientists-guide-debugging-common-pandas-errors)
+
+[FireDucks](https://fireducks-dev.github.io/)
+[FireDucks: An Accelerated Fully Compatible Pandas Library - KDnuggets](https://www.kdnuggets.com/fireducks-an-accelerated-fully-compatible-pandas-library)
+
+### Data Cleaning
+
 [7 Ways to Improve Your Data Cleaning Skills with Python - KDnuggets](https://www.kdnuggets.com/7-ways-to-improve-your-data-cleaning-skills-with-python)
+[How to Fully Automate Data Cleaning with Python in 5 Steps - KDnuggets](https://www.kdnuggets.com/how-to-fully-automate-data-cleaning-with-python-in-5-steps)
+[Efficiently Cleaning Text with Pandas - Practical Business Python](https://pbpython.com/text-cleaning.html)
+[Dealing with Outliers: A Complete Guide - KDnuggets](https://www.kdnuggets.com/dealing-with-outliers-a-complete-guide)
+[Creating Automated Data Cleaning Pipelines Using Python and Pandas - KDnuggets](https://www.kdnuggets.com/creating-automated-data-cleaning-pipelines-using-python-and-pandas)
+[How to Fully Automate Data Cleaning with Python in 5 Steps - KDnuggets](https://www.kdnuggets.com/how-to-fully-automate-data-cleaning-with-python-in-5-steps)
+[10 Essential Data Cleaning Techniques Explained in 12 Minutes - KDnuggets](https://www.kdnuggets.com/10-essential-data-cleaning-techniques-explained-in-12-minutes)
+[Seven Clean Steps To Reshape Your Data With Pandas Or How I Use Python Where Excel Fails](https://towardsdatascience.com/seven-clean-steps-to-reshape-your-data-with-pandas-or-how-i-use-python-where-excel-fails-62061f86ef9c)
+
+[pyjanitor documentation](https://pyjanitor-devs.github.io/pyjanitor/)
+[Beginner’s Guide to Data Cleaning with Pyjanitor - KDnuggets](https://www.kdnuggets.com/beginners-guide-to-data-cleaning-with-pyjanitor)
+[The Easiest Data Cleaning Method using Python & Pandas](https://www.marsja.se/easiest-data-cleaning-method-using-python-pandas-pyjanitor/)
+
+### #perfmatters
 
 [pandas-profiling/pandas-profiling: Create HTML profiling reports from pandas DataFrame objects](https://github.com/pandas-profiling/pandas-profiling)
+[Articles: Speed up your data science and scientific computing code](https://pythonspeed.com/datascience/#memory)
+[Improve pandas performance with eval and query | Python in Plain English](https://python.plainenglish.io/these-methods-will-change-how-you-use-pandas-921e4669271f)
+[Using numba to make pandas operations faster | Towards Data Science](https://towardsdatascience.com/this-decorator-will-make-python-30-times-faster-715ca5a66d5f)
 
 ### Validation
 
@@ -211,7 +236,6 @@ better API to address columns, akin to pandas
 [Python Pandas Tutorial](https://www.tutorialspoint.com/python_pandas/index.htm)
 [Python - Data Science Tutorial - Tutorialspoint](https://www.tutorialspoint.com/python_data_science/index.htm)
 [Time Series Tutorial - Tutorialspoint](https://www.tutorialspoint.com/time_series/)
-[Examining Data Using Pandas | Linux Journal](https://www.linuxjournal.com/content/examining-data-using-pandas)
 [Introduction to Pandas | Machine Learning, Deep Learning, and Computer Vision](https://www.ritchieng.com/pandas-introduction/)
 [Fast, Flexible, Easy and Intuitive: How to Speed Up Your Pandas Projects – Real Python](https://realpython.com/fast-flexible-pandas/)
 [3 Excel Functions and How to Do Them in Python! | Towards Data Science](https://towardsdatascience.com/excel-functions-in-python-17d35defebdd)
@@ -219,6 +243,8 @@ better API to address columns, akin to pandas
 
 [Pandas Foundations | DataCamp](https://learn.datacamp.com/courses/pandas-foundations)
 
+[Examining Data Using Pandas | Linux Journal](https://www.linuxjournal.com/content/examining-data-using-pandas)
+[Explore Your Dataset With Pandas – Real Python](https://realpython.com/courses/explore-dataset-with-pandas/)
 [Exploratory Data Analysis using Python | ActiveState](https://www.activestate.com/blog/exploratory-data-analysis-using-python/)
 [Quick and Dirty Data Analysis with Pandas](https://machinelearningmastery.com/quick-and-dirty-data-analysis-with-pandas/)
 
@@ -233,9 +259,6 @@ better API to address columns, akin to pandas
 [Why Are We Teaching Pandas Instead of SQL? | HackerNoon](https://hackernoon.com/why-are-we-teaching-pandas-instead-of-sql) compares Pandas ans SQL,
 
 [An End-to-End Project on Time Series Analysis and Forecasting with Python](https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b)
-
-[The Easiest Data Cleaning Method using Python & Pandas](https://www.marsja.se/easiest-data-cleaning-method-using-python-pandas-pyjanitor/)
-[Seven Clean Steps To Reshape Your Data With Pandas Or How I Use Python Where Excel Fails](https://towardsdatascience.com/seven-clean-steps-to-reshape-your-data-with-pandas-or-how-i-use-python-where-excel-fails-62061f86ef9c)
 
 ### DataFrame
 
@@ -357,8 +380,6 @@ df = pd.DataFrame([120000, 140000, 90000, 101000, 59000], idx, col)
 [My Python Pandas Cheat Sheet. The pandas functions I use everyday as… | by Chris I. | Towards Data Science](https://towardsdatascience.com/my-python-pandas-cheat-sheet-746b11e44368)
 [How To Make Your Pandas Loop 71803 Times Faster | by Benedikt Droste | Towards Data Science](https://towardsdatascience.com/how-to-make-your-pandas-loop-71-803-times-faster-805030df4f06)
 
-[Articles: Speed up your data science and scientific computing code](https://pythonspeed.com/datascience/#memory)
-
 [For the Love of God, Stop Using iterrows() – r y x, r](https://ryxcommar.com/2020/01/15/for-the-love-of-god-stop-using-iterrows/) `df.itertuples(index=False)`
 
 ```python
@@ -448,6 +469,7 @@ df.memory_usage(deep=True)
 [Parallel Pandas – KRSTN](https://krstn.eu/paralell_Pandas/) `concurrent.futures.ProcessPoolExecutor` faster than `multiprocessing.Pool`
 [How to use Pandas the RIGHT way to speed up your code](https://towardsdatascience.com/how-to-use-pandas-the-right-way-to-speed-up-your-code-4a19bd89926d)
 [Parallelize Pandas map() and apply() while accounting for future records – Adeel's Corner](http://blog.adeel.io/2017/02/11/parallelize-pandas-map-and-apply-while-accounting-for-future-records/)
+[Parallelizing Data Processing Pipelines with Pandas](https://www.statology.org/parallelizing-data-processing-pipelines-pandas/)
 
 ## JAX
 

@@ -2,7 +2,7 @@
 title: vcpkg
 description: Open source C/C++ dependency manager from Microsoft
 created: 2023-05-19
-updated: 2025-01-09
+updated: 2025-06-27
 tags:
   - package-manager
   - vcpkg
@@ -10,7 +10,7 @@ tags:
 
 [vcpkg - Open source C/C++ dependency manager from Microsoft](https://vcpkg.io/en/)
 [vcpkg documentation | Microsoft Learn](https://learn.microsoft.com/en-us/vcpkg/)
-[microsoft/vcpkg: C++ Library Manager for Windows, Linux, and MacOS](https://github.com/Microsoft/vcpkg/)
+[microsoft/vcpkg: C++ Library Manager for Windows, Linux, and macOS](https://github.com/Microsoft/vcpkg/)
 
 [Triplet files | Microsoft Learn](https://learn.microsoft.com/en-us/vcpkg/users/triplets) environment configs
 [vcpkg Host Dependencies for Cross-Compilation | C++ Team Blog](https://devblogs.microsoft.com/cppblog/vcpkg-host-dependencies/)

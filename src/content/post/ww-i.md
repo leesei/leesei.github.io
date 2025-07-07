@@ -2,7 +2,7 @@
 title: World War I
 description: ""
 created: 2015-06-07
-updated: 2025-01-09
+updated: 2025-01-22
 tags:
   - history
   - world-war
@@ -11,6 +11,7 @@ tags:
 [World War I - Wikiwand](http://www.wikiwand.com/en/World_War_I)
 [BBC - BBC World War One](https://www.bbc.co.uk/programmes/p01nb93y)
 [About WWI | National WWI Museum and Memorial](https://www.theworldwar.org/about-wwi) Interactive Timeline and Map
+[Modern History of World: What are some cool/unusual facts about soldiers in WWI and WWII? - Quora](https://www.quora.com/Modern-History-of-World-What-are-some-cool-unusual-facts-about-soldiers-in-WWI-and-WWII)
 
 **_Allies_** vs **_Central Power_**
 From 28 July 1914 to 11 November 1918
@@ -39,19 +40,18 @@ Bulgaria (1915-1918)
 [The Great War - 1919 - YouTube](https://www.youtube.com/playlist?list=PLB2vhKMBjSxP6Q3Y_dwL_2az12RZQR8PB) The Great War
 [Epic History: World War One - YouTube](https://www.youtube.com/playlist?list=PLUOc2qodFHp-3iOGL5MHjWLfTvIM4iNdZ)
 [First World War Stories - YouTube](https://www.youtube.com/playlist?list=PLolzHiCNNbO98fnufk1ohzLRUOcRQ0Gtg) Imperial War Museums
-[World War One (ALL PARTS) (age-restricted) - YouTube](https://www.youtube.com/watch?v=GG0LY8OLBG8) EPIC History TV
 [World War I - YouTube](https://www.youtube.com/playlist?list=PLQv7ILzUxt5YvKQdIqUA_IrPedvmrajWL)
-[First World War Stories - YouTube](https://www.youtube.com/playlist?list=PLolzHiCNNbO98fnufk1ohzLRUOcRQ0Gtg) Imperial War Museums
+[WWI - YouTube](https://www.youtube.com/playlist?list=PLpFIBvOQ0N1W69mVDZ5xkcyR6G7-ywSwP) WarsofTheWorld
+[一戰風雲戰役和人物 - YouTube](https://www.youtube.com/playlist?list=PLB1UN3q8P5XfkSGGqmHtncy1neAEUUohf) 历史学
+
+[World War One (ALL PARTS) (age-restricted) - YouTube](https://www.youtube.com/watch?v=GG0LY8OLBG8) EPIC History TV
 [The First World War: The War to End War | WW1 Documentary - YouTube](https://www.youtube.com/watch?v=3ypFeoDIsns) WarsofTheWorld
 [Why Did The First World War Break Out? (July Crisis 1914 Documentary) - YouTube](https://www.youtube.com/watch?v=9KESpCFmYMk)
 [The War That Changed The Course of History | The First World War | WW1 Documentary - YouTube](https://www.youtube.com/watch?v=QJfTfyt3Cfk)
 [【世界大戰系列】25分鐘看完第一次世界大戰（入門版）｜歐洲版圖大洗牌 全因為德國想上位？｜英國、法國、俄羅斯組成「復仇者聯盟」｜美國介入 成為一戰轉捩點 ｜一戰的起因、經過與結局｜#不正常人類 - YouTube](https://www.youtube.com/watch?v=MQFqaOvDjSI)
 [【不止遊戲】一個影片看完整場世界大戰 - YouTube](https://www.youtube.com/watch?v=UKJqsIu_5QE)
 [【講到流淚】二十分鐘講完第一次世界大戰 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=G5y85I52HRg)
-[Modern History of World: What are some cool/unusual facts about soldiers in WWI and WWII? - Quora](https://www.quora.com/Modern-History-of-World-What-are-some-cool-unusual-facts-about-soldiers-in-WWI-and-WWII)
-[WWI - YouTube](https://www.youtube.com/playlist?list=PLpFIBvOQ0N1W69mVDZ5xkcyR6G7-ywSwP) WarsofTheWorld
-[一戰風雲戰役和人物 - YouTube](https://www.youtube.com/playlist?list=PLB1UN3q8P5XfkSGGqmHtncy1neAEUUohf) 历史学
-[Battle of the Somme (WW1 Documentary) | History Documentary | Reel Truth History - YouTube](https://www.youtube.com/watch?v=9BlbdNq1UCE)
+[The Entire History of World War One, I guess - YouTube](https://www.youtube.com/watch?v=lc5aq1L_mks)
 
 <http://podplayer.net/#/?id=3553> via @PodcastAddict
 [Dan Carlin's Hardcore History] Show 51 - Blueprint for Armageddon II
@@ -81,6 +81,11 @@ WWI indirectly lead to the fall of Ottoman Empire and Russian Empire.
 # Technologies
 
 [[aviation#World War I]]
+
+## Chemical Warfare
+
+First used by Germans in the Belgian town Ypres against French soldiers at 1915-04-22
+[How Deadly was Chlorine Gas in WW1? - YouTube](https://www.youtube.com/watch?v=cL-VO7zGVe8)
 
 ---
 

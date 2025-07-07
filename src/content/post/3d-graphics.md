@@ -2,7 +2,7 @@
 title: 3D Graphics
 description: ""
 created: 2019-09-10
-updated: 2025-01-09
+updated: 2025-04-17
 tags:
   - app
   - graphics
@@ -152,8 +152,13 @@ Two Minute Papers
 
 [Raytracing explained: Nvidia, Microsoft lead the way in revolutionizing gaming graphics – Ars Technica](https://arstechnica.com/gadgets/2018/08/microsoft-announces-the-next-step-in-gaming-graphics-directx-raytracing/amp/)
 [NVIDIA’s Ray Tracer - Finally, Real Time! ☀️ - YouTube](https://www.youtube.com/watch?v=W1UDzxtrhes)
+[Control PC: Ray Tracing's Killer App? Plus: Full Xbox One X vs PC Comparison! - YouTube](https://www.youtube.com/watch?v=blbu0g9DAGA)
+[Ray Tracing in Games: How Today's Big Tech Gamble Became Tomorrow's Sure Thing [Sponsored] - YouTube](https://www.youtube.com/watch?v=SJ0NzZAkPlo)
+[How Ray Tracing (Modern CGI) Works And How To Do It 600x Faster - YouTube](https://www.youtube.com/watch?v=gsZiJeaMO48)
 
-[How is CGI [Computer Generated Imagery] Made? 🖥️🏞 🛠️Exploring Ray Tracing and CGI - YouTube](https://www.youtube.com/watch?v=iOlehM5kNSk)
+[The Road to Real Time Global Illumination - YouTube](https://www.youtube.com/playlist?list=PL5sTHXdX47kh4e5MU11VPGw1MWpg3G51S) ❗!important
+
+[How does Ray Tracing Work in Video Games and Movies? - YouTube](https://www.youtube.com/watch?v=iOlehM5kNSk)
 
 Path tracing:
 Global illumination = Direct illumination + Indirect illumination
@@ -169,17 +174,9 @@ Built a binary tree structure to store the triangles in the scene, to quickly fi
 
 [Forget Old School Ray Tracing, NVIDIA Demos Stunning Real-Time Path Tracing](https://hothardware.com/news/nvidia-real-time-path-tracing-gtc-2022)
 [What Is Path Tracing? | NVIDIA Blog](https://blogs.nvidia.com/blog/2022/03/23/what-is-path-tracing/)
-
-[Control PC: Ray Tracing's Killer App? Plus: Full Xbox One X vs PC Comparison! - YouTube](https://www.youtube.com/watch?v=blbu0g9DAGA)
 [Can you REALLY SEE the difference? Raster vs Ray Tracing vs Path Tracing - YouTube](https://www.youtube.com/watch?v=ZFsz0O93c88)
-[Ray Tracing in Games: How Today's Big Tech Gamble Became Tomorrow's Sure Thing [Sponsored] - YouTube](https://www.youtube.com/watch?v=SJ0NzZAkPlo)
-[How Realistic CGI Works (And How To Do It Way Faster) - YouTube](https://www.youtube.com/watch?v=gsZiJeaMO48)
 
-[Ray Tracing Essentials Part 1: Basics of Ray Tracing – NVIDIA Developer News Center](https://news.developer.nvidia.com/ray-tracing-essentials-part-1-basics-of-ray-tracing/)
-[Ray Tracing Essentials Part 2: Rasterization versus Ray Tracing – NVIDIA Developer News Center](https://news.developer.nvidia.com/ray-tracing-essentials-part-2-rasterization-versus-ray-tracing/)
-[Ray Tracing Essentials Part 3: Ray Tracing Hardware – NVIDIA Developer News Center](https://news.developer.nvidia.com/ray-tracing-essentials-part-3-ray-tracing-hardware/)
-[Ray Tracing Essentials Part 4: The Ray Tracing PipelinWe – NVIDIA Developer News Center](https://news.developer.nvidia.com/ray-tracing-essentials-part-4-the-ray-tracing-pipeline/)
-
+[Lewis Stuart - YouTube](https://www.youtube.com/playlist?list=PLzH6n4zXuckqtwDWYeHDlRx9PnnotRB-o) Computerphile
 [What's the Deal With Raytracing? - YouTube](https://www.youtube.com/watch?v=lyfTPG-dwOE)
 [NVIDIA RTX In 2020 - STILL Not Worth It? - YouTube](https://www.youtube.com/watch?v=QETexVf8Gz8)
 
@@ -187,6 +184,16 @@ Gamers Nexus
 [Real-Time Ray Tracing Explained - YouTube](https://www.youtube.com/watch?v=lFnWy0Odsh8)
 [Battlefield V RTX Deep-Dive: Reality vs. Demo Graphics Comparison - YouTube](https://www.youtube.com/watch?v=jaUP4LucmZM)
 [Faking RTX Global Illumination vs. RTX | 100% Ray-Traced Game, Pt 1 - YouTube](https://www.youtube.com/watch?v=CuoER1DwYLY)
+
+[Ray Tracing Essentials Part 1: Basics of Ray Tracing – NVIDIA Developer News Center](https://news.developer.nvidia.com/ray-tracing-essentials-part-1-basics-of-ray-tracing/)
+[Ray Tracing Essentials Part 2: Rasterization versus Ray Tracing – NVIDIA Developer News Center](https://news.developer.nvidia.com/ray-tracing-essentials-part-2-rasterization-versus-ray-tracing/)
+[Ray Tracing Essentials Part 3: Ray Tracing Hardware – NVIDIA Developer News Center](https://news.developer.nvidia.com/ray-tracing-essentials-part-3-ray-tracing-hardware/)
+[Ray Tracing Essentials Part 4: The Ray Tracing PipelinWe – NVIDIA Developer News Center](https://news.developer.nvidia.com/ray-tracing-essentials-part-4-the-ray-tracing-pipeline/)
+
+[Path Tracing – Getting Started With Diffuse and Emissive « The blog at the bottom of the sea](https://blog.demofox.org/2016/09/21/path-tracing-getting-started-with-diffuse-and-emissive/)
+[Casual Shadertoy Path Tracing 1: Basic Camera, Diffuse, Emissive « The blog at the bottom of the sea](https://blog.demofox.org/2020/05/25/casual-shadertoy-path-tracing-1-basic-camera-diffuse-emissive/)
+[Casual Shadertoy Path Tracing 2: Image Improvement and Glossy Reflections « The blog at the bottom of the sea](https://blog.demofox.org/2020/06/06/casual-shadertoy-path-tracing-2-image-improvement-and-glossy-reflections/)
+[Casual Shadertoy Path Tracing 3: Fresnel, Rough Refraction & Absorption, Orbit Camera « The blog at the bottom of the sea](https://blog.demofox.org/2020/06/14/casual-shadertoy-path-tracing-3-fresnel-rough-refraction-absorption-orbit-camera/)
 
 [Intel® Embree](https://www.embree.org/)
 

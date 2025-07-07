@@ -2,7 +2,7 @@
 title: OpenShift
 description: ""
 created: 2014-12-11
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - container
   - dev/deploy
@@ -21,9 +21,9 @@ OpenShift Origin is the upstream community project that backs Red Hat's [OpenShi
 
 [Welcome | About](https://docs.openshift.org/latest/welcome/index.html)
 [Overview | Architecture](https://docs.openshift.org/latest/architecture/index.html)
-[OpenShift - YouTube](https://www.youtube.com/channel/UCZKMj3YI0wP-kq4QYpaKdEA)
+[OpenShift - YouTube](https://www.youtube.com/@OpenShift)
 
-[OpenShift for the Absolute Beginners - YouTube](https://www.youtube.com/playlist?list=PL2We04F3Y_43DDcvM1bAxF7YIPglrMdif)
+[OpenShift for the Absolute Beginners - YouTube](https://www.youtube.com/playlist?list=PL2We04F3Y_43DDcvM1bAxF7YIPglrMdif) KodeKloud
 
 ## versus
 

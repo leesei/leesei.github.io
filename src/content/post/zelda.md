@@ -2,7 +2,7 @@
 title: The Legend of Zelda
 description: ""
 created: 2023-06-06
-updated: 2025-01-09
+updated: 2025-02-16
 tags:
   - games
   - zelda
@@ -21,7 +21,7 @@ tags:
 
 [A Timeline Of The Convoluted Legend Of Zelda Chronology](https://www.ranker.com/list/a-timeline-of-the-legend-of-zelda-chronology/stephanroget)
 [Zelda Timeline - Zelda Wiki](https://zelda.gamepedia.com/Zelda_Timeline)
-[Timeline | Zeldapedia | FANDOM powered by Wikia](https://zelda.fandom.com/wiki/Timeline)
+[Timeline | Zeldapedia | Fandom](https://zelda.fandom.com/wiki/Timeline)
 
 阿揚
 [薩爾達傳說 歷史系列 - YouTube](https://www.youtube.com/playlist?list=PLwie-6_kHiZONnTDDCztqXOkKxxD99mgK)

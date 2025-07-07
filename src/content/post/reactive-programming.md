@@ -2,7 +2,7 @@
 title: Reactive programming
 description: ""
 created: 2016-03-13
-updated: 2025-01-09
+updated: 2025-04-09
 tags:
   - javascript
   - mobx
@@ -60,14 +60,21 @@ tags:
 
 ## Xstate
 
-[XState Docs](https://xstate.js.org/docs/)
-[davidkpiano/xstate: State machines and statecharts for the modern web.](https://github.com/davidkpiano/xstate)
-[@xstate/immer | XState Docs](https://xstate.js.org/docs/packages/xstate-immer/)
-[Welcome to the world of Statecharts - Statecharts](https://statecharts.github.io/)
+> Under statelyai since v5
+
+[XState | Stately](https://stately.ai/docs/xstate)
+[statelyai/xstate: Actor-based state management & orchestration for complex app logic.](https://github.com/statelyai/xstate)
+[XState v5 is here | Stately](https://stately.ai/blog/2023-12-01-xstate-v5)
+
+[XState by Example](https://xstatebyexample.com)
 
 [XState Version 4 Released 🚀. It’s been over a year since I first… | by David Khourshid | Medium](https://medium.com/@DavidKPiano/xstate-version-4-released-665b59409f99)
-[The case for statechart and xstate -- why it matters and how we can benefit from it - DEV Community](https://dev.to/coodoo/the-case-for-statechart-and-xstate-why-it-matters-and-how-we-can-benefit-from-it-51fj)
+[XState Docs](https://xstate.js.org/docs/) v4
+[\@xstate/immer | XState Docs](https://xstate.js.org/docs/packages/xstate-immer/)
+[Welcome to the world of Statecharts - Statecharts](https://statecharts.github.io/)
 [How to use statecharts - Statecharts](https://statecharts.github.io/how-to-use-statecharts.html)
+
+[The case for statechart and xstate -- why it matters and how we can benefit from it - DEV Community](https://dev.to/coodoo/the-case-for-statechart-and-xstate-why-it-matters-and-how-we-can-benefit-from-it-51fj)
 [XState Tutorial](https://flaviocopes.com/xstate/)
 [An Introduction to XState in TypeScript - DEV Community](https://dev.to/giantmachines/an-introduction-to-xstate-in-typescript-1pdn)
 [​State Machines in JavaScript with XState - JavaScript inDepth](https://indepth.dev/posts/1488/state-machines-in-javascript-with-xstate)
@@ -129,13 +136,16 @@ Service = interpret(Machine)
 
 ### Playgrounds/Visualizer
 
-[XState Visualizer](https://xstate.js.org/viz/) live preview your state
-[StatesKit | Visual Statechart and Finite State Machine editor](https://stateskit.com/) live preview your state, more powerful
-[XState TS Viz Template - CodeSandbox](https://codesandbox.io/s/xstate-ts-viz-template-qzdvv?file=/src/index.ts) with TypeScript support
+[Stately | Build complex logic intelligently](https://stately.ai/)
+[XState TS Viz Template - CodeSandbox](https://codesandbox.io/p/sandbox/xstate-ts-viz-template-qzdvv?file=%2Fsrc%2Findex.ts) with TypeScript support
 
-[amitnovick/xstate-devtools](https://github.com/amitnovick/xstate-devtools)
+[Introducing Stately Inspector | Stately](https://stately.ai/blog/2024-01-15-stately-inspector)
+[Introducing Stately Inspector | Stately](https://stately.ai/blog/2024-01-15-stately-inspector)
+[statelyai/inspect: Inspect state transitions and actor communication](https://github.com/statelyai/inspect)
 
-[@xstate/inspect | XState Docs](https://xstate.js.org/docs/packages/xstate-inspect/) open statechart at https://statecharts.io/, only works on web?
+[amitnovick/xstate-devtools](https://github.com/amitnovick/xstate-devtools) 😴inactive
+
+[\@xstate/inspect | XState Docs](https://xstate.js.org/docs/packages/xstate-inspect/) open statechart at https://statecharts.io/, only works on web?
 [xstate/packages/xstate-inspect at master · davidkpiano/xstate · GitHub](https://github.com/davidkpiano/xstate/tree/master/packages/xstate-inspect)
 
 ### Tutorial

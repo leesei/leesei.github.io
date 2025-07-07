@@ -2,7 +2,7 @@
 title: Linux Desktop
 description: ""
 created: 2014-12-12
-updated: 2025-01-09
+updated: 2025-06-30
 tags:
   - desktop
   - gjs
@@ -18,6 +18,10 @@ This post is about using GNU/Linux with [desktop environment](http://www.wikiwan
 
 [Home | Linux Journey](https://linuxjourney.com/)
 [LinuxAndUbuntu - Linux News | Apps Reviews | Linux Tutorials HowTo - Home](http://www.linuxandubuntu.com/home)
+
+[OS Wars_part 1 | Command Line Heroes](https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-1)
+[OS Wars_part 2: Rise of Linux | Command Line Heroes](https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-2-rise-of-linux)
+[(Linux and) The Enduring Magic of Unix](https://www.redhat.com/en/blog/linux-and-enduring-magic-unix)
 
 [Getting Started with Linux: The Complete Guide](http://lifehacker.com/5778882/getting-started-with-linux-the-complete-guide)
 [Introduction to Linux](http://www.tldp.org/LDP/intro-linux/html/index.html)
@@ -121,7 +125,7 @@ The default DE saves you the hassle of going through the setup and probably more
 [DistroTest - Test Linux And Unix Operating Systems Online For Free - OSTechNix](https://ostechnix.com/test-100-linux-and-unix-operating-systems-online-for-free/)
 [Choosing Linux: 2 Awesome Tools To Find Your Perfect Linux OS](https://www.forbes.com/sites/jasonevangelho/2018/11/27/choosing-linux-2-awesome-tools-to-find-your-perfect-linux-os/#4b9a100b3beb)
 
-[littlehorse pc - YouTube](https://www.youtube.com/channel/UCGjCNsYOlYjgkxN0HiJoRBQ/) first impressions
+[littlehorse pc - YouTube](https://www.youtube.com/@littlehorsepc5281) first impressions
 
 [What Is A Linux Distribution? How Are All These Linux Distros Different?](https://fossbytes.com/what-is-a-linux-distribution-how-linux-distros-are-different/)
 [GitHub.io killed the distro star: Why are people so bored with the top Linux makers? • The Register](http://www.theregister.co.uk/2014/08/25/are_linux_distros_boring/)
@@ -139,12 +143,13 @@ The default DE saves you the hassle of going through the setup and probably more
 
 [Newcomer EndeavourOS Offers a Friendlier Arch Linux Experience | Reviews | LinuxInsider](https://www.linuxinsider.com/story/86172.html)
 [Enter the void](https://voidlinux.org/) scratch + any DE, supports RPi
-[Solus Project](https://getsol.us/) [DistroWatch](http://distrowatch.com/table.php?distribution=solus) (formerly Evolve OS) scratch + Budgie
+[Solus Project](https://getsol.us/) scratch + Budgie
 [Ubuntu Budgie | Home](https://ubuntubudgie.org/) Ubuntu + Budgie
 [Ubuntu MATE | For a retrospective future](https://ubuntu-mate.org/) Ubuntu + MATE
-[Nitrux — A Linux for Everyone](https://nxos.org/) Ubuntu + Nomad (Plasma)
+[Nitrux — #DisruptiveByDesign — Official Website](https://nxos.org/) Ubuntu + Nomad (Plasma)
 [elementary OS](https://elementary.io/) [DistroWatch](http://distrowatch.com/table.php?distribution=elementary) Ubuntu + Pantheon, OSX-like
-[Regolith 1.6](https://regolith-linux.org/) Ubuntu + GNOME + i3
+[AerynOS | AerynOS](https://aerynos.com/) atomic updates, moss package manager
+[Regolith Desktop](https://regolith-desktop.com/) Ubuntu + GNOME + i3
 
 > see `arch-linux#arch-distros`
 
@@ -338,13 +343,14 @@ Zorin OS is based on Ubuntu LTS and the desktop is powered by Gnome Shell. In ma
 [Display manager - ArchWiki](https://wiki.archlinux.org/title/Display_manager)
 [Install Display Managers - Manjaro Linux](https://wiki.manjaro.org/index.php?title=Install_Display_Managers)
 
-Upon login the Display Manager allows a user can choose the session (DE) to login to.
+Upon login the Display Manager allows a user can choose the session (DE) to login to (greeter).
 The available sessions are in `/usr/share/xsessions/`.
 
 Some DM use `~/.xinitrc` instead of `/usr/share/xsessions/`.
 [XDM - ArchWiki](https://wiki.archlinux.org/title/XDM)
 
 [LightDM - ArchWiki](https://wiki.archlinux.org/title/LightDM)
+[LightDM – Discovery](https://discovery.endeavouros.com/desktop-environments/lightdm/2021/03/)
 
 ## Display Server
 
@@ -506,7 +512,7 @@ X11 has not one, not two, but _three_ clipboards. They are called:
 [rickyrockrat/parcellite](https://github.com/rickyrockrat/parcellite) obsoleted by Clipit
 
 [EcoPasteHub/EcoPaste: Open source clipboard management tools for Windows, Macos and Linux.](https://github.com/EcoPasteHub/EcoPaste)
-[EcoPaste：适用于 Windows 和 MacOS平台的开源的剪切板管理工具 – 零度解说](https://www.freedidi.com/13552.html)
+[EcoPaste：适用于 Windows 和 macOS平台的开源的剪切板管理工具 – 零度解说](https://www.freedidi.com/13552.html)
 
 ## "Standards"
 
@@ -777,7 +783,14 @@ Use `xev` to open an window that dumps all input event to console.
 [Mouse buttons - ArchWiki](https://wiki.archlinux.org/title/Mouse_buttons)
 [EVDEV(4) manual page](https://www.x.org/releases/X11R7.5/doc/man/man4/evdev.4.html)
 
-Show key code and key symbol: `xmodmap -pke`
+[antofthy.gitlab.io/info/X/event_handling.txt](https://antofthy.gitlab.io/info/X/event_handling.txt)
+
+Show key code sent by keyboard : `sudo showkey -k`
+Show key code and key symbol table: `xmodmap -pke`
+[libvirt: virkeycode-linux](https://libvirt.org/manpages/virkeycode-linux.html)
+
+fn+F9 155 (0x9b) Key name KEY_MAIL
+fn+F10 172 (0xac) Key name KEY_HOMEPAGE
 
 ### xmodmap
 
@@ -979,6 +992,11 @@ ddcutil setvcp --display 1 60 12 # HDMI2
 
 [D-Bus - Wikiwand](https://www.wikiwand.com/en/D-Bus)
 [dbus](https://www.freedesktop.org/wiki/Software/dbus/)
+[D-Bus Specification](https://dbus.freedesktop.org/doc/dbus-specification.html)
+
+[dbus-send](https://dbus.freedesktop.org/doc/dbus-send.1.html)
+[基本的 DBus 偵錯技巧 – Rex's blah blah blah](https://blog.nutsfactory.net/2011/03/08/test-and-debug-dbus/)
+[DebuggingDBus - Ubuntu Wiki](https://wiki.ubuntu.com/DebuggingDBus)
 
 [busctl(1) — Arch manual pages](https://man.archlinux.org/man/core/systemd/busctl.1.en)
 
@@ -988,7 +1006,11 @@ ddcutil setvcp --display 1 60 12 # HDMI2
 
 ### Notification
 
-[jfhbrook/goodify: my personal fork of batify](https://github.com/jfhbrook/goodify)
+[Desktop notifications - ArchWiki](https://wiki.archlinux.org/title/Desktop_notifications)
+[Send desktop notifications and reminders from Linux terminal | Opensource.com](https://opensource.com/article/22/1/linux-desktop-notifications)
+
+[Linux Manpages Online - man.cx manual pages](https://man.cx/notify-send)
+`notify-send "Summary" "Body"`
 
 ```sh
 Usage:
@@ -1006,6 +1028,12 @@ Application Options:
   -h, --hint=TYPE:NAME:VALUE        Specifies basic extra data to pass. Valid types are int, double, string and byte.
   -v, --version                     Version of the package.
 ```
+
+[About ntfy — ntfy documentation](https://ntfy.readthedocs.io/en/latest/)
+[dschep/ntfy: 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.](https://github.com/dschep/ntfy)
+
+[mattn/growl-for-linux @ GitHub](https://mattn.github.io/growl-for-linux/) mimics Growl on macOS
+[jfhbrook/goodify: my personal fork of batify](https://github.com/jfhbrook/goodify)
 
 ## Wayland
 

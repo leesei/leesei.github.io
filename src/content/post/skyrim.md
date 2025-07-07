@@ -2,13 +2,13 @@
 title: Elder Scroll V Skyrim
 description: ""
 created: 2023-08-14
-updated: 2025-01-09
+updated: 2025-06-06
 tags:
   - games
   - skyrim
 ---
 
-[The Elder Scrolls V: Skyrim | Elder Scrolls | FANDOM powered by Wikia](https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Skyrim)
+[The Elder Scrolls V: Skyrim | Elder Scrolls | Fandom](https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Skyrim)
 [Crazy Skyrim Rumors That Turned Out To Actually Be True](https://gamerant.com/skyrim-most-wild-rumors-came-true/amp/)
 [10 Things To Do In Skyrim Most Players Never Discover](https://screenrant.com/discover-skyrim-player-tricks-tips/amp/)
 
@@ -17,9 +17,9 @@ The old version supports all mods with achievements
 [The Elder Scrolls V: Skyrim - Dawnguard on Steam](https://store.steampowered.com/app/211720/The_Elder_Scrolls_V_Skyrim__Dawnguard/)
 [The Elder Scrolls V: Skyrim - Hearthfire on Steam](https://store.steampowered.com/app/220760/The_Elder_Scrolls_V_Skyrim__Hearthfire/)
 [The Elder Scrolls V: Skyrim - Dragonborn on Steam](https://store.steampowered.com/app/226880/The_Elder_Scrolls_V_Skyrim__Dragonborn/)
+[Why Does Skyrim Begin on a Cart? - YouTube](https://www.youtube.com/watch?v=NT_VtStnZzk)
 
-[Buy The Elder Scrolls® V: Skyrim® - Legendary Edition from the Humble Store](https://www.humblebundle.com/store/the-elder-scrolls-v-skyrim-legendary-edition)
-[The Elder Scrolls V: Skyrim - Legendary Edition | PC Steam Game | Fanatical](https://www.fanatical.com/en/game/the-elder-scrolls-v-skyrim-legendary-edition)
+[Why Does Skyrim Begin on a Cart? - YouTube](https://www.youtube.com/watch?v=NT_VtStnZzk)
 
 ## Mods
 

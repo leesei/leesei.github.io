@@ -2,7 +2,7 @@
 title: Microsoft Apps
 description: ""
 created: 2020-08-23
-updated: 2025-01-09
+updated: 2025-06-24
 tags:
   - apps
   - microsoft
@@ -28,7 +28,7 @@ tags:
 [Basic Powershell - batch convert Word Docx to PDF - Stack Overflow](https://stackoverflow.com/questions/16534292/basic-powershell-batch-convert-word-docx-to-pdf/16537996#16537996) Powershell
 [File Converter - Convert & compress everything in 2 clicks!](https://file-converter.org/index.html)
 
-[Word、Excel、Pointpot 最强安装教程！ | 零度解说 - YouTube](https://www.youtube.com/watch?v=VSjRx7Hoa60) volumn licence
+[Word、Excel、Pointpot 最强安装教程！ | 零度解说 - YouTube](https://www.youtube.com/watch?v=VSjRx7Hoa60) volume license
 
 # Word
 
@@ -44,7 +44,7 @@ tags:
 [平常沒在用的「小畫家 3D 」竟然變成 PPT 簡報的最佳神隊友？ | PowerPoint 教學 21 - YouTube](https://www.youtube.com/watch?v=9nJeY8moof4)
 [PowerPoint 手寫字高級動畫技巧！讓行雲流水的一筆一劃勾勒出中文文字之美 - YouTube](https://www.youtube.com/watch?v=zkdExGleigE)
 
-[PowerPoint School - YouTube](https://www.youtube.com/channel/UCngkX2grzKhYBx1stz08Z3Q)
+[PowerPoint School - YouTube](https://www.youtube.com/@PowerPointSchool)
 [Animated PowerPoint Infographic Slide Design Tutorial - YouTube](https://www.youtube.com/watch?v=OZKTzpbnGOA)
 
 [Spice up your Brand - Create your own color palette in PowerPoint - YouTube](https://www.youtube.com/watch?v=r1bu6y0kQMI)
@@ -68,10 +68,12 @@ calender
 [如何製作一個 **讓你看起來有點厲害** 的員工排班表 (下) | Excel 教學 47 - YouTube](https://www.youtube.com/watch?v=ziga9B5Hr_o)
 
 [Make Your Excel Spreadsheets Smarter With Dropdown Lists](https://www.makeuseof.com/smarter-excel-with-dropdowns/)
+[7 productivity hacks I discovered after using Excel for years](https://www.xda-developers.com/productivity-hacks-discovered-after-using-excel-for-years/)
 
 [How to Create a Chart Template in Microsoft Excel](https://www.howtogeek.com/763415/how-to-create-a-chart-template-in-microsoft-excel/)
 [Make Excel Smarter With Dynamic Dropdown Lists: Here's How They Work](https://www.makeuseof.com/excel-dynamic-dropdown-lists/)
 [Make Excel Formulas Dynamic with the This Trick - YouTube](https://www.youtube.com/watch?v=HOmVlf6Bm2g)
+[Clean Up Data Effortlessly With Excel's New TRIMRANGE Function](https://www.makeuseof.com/excel-trimrange-cleanup/)
 
 ## Excel Lambda function
 

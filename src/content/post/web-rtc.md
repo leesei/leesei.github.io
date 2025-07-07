@@ -2,14 +2,15 @@
 title: WebRTC
 description: ""
 created: 2024-03-12
-updated: 2025-01-09
+updated: 2025-04-24
 tags:
   - web
   - webrtc
 ---
 
+[WebRTC - Wikiwand](https://www.wikiwand.com/en/articles/WebRTC)
 [WebRTC API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
-[WebRTC Glossary - WebRTC Glossary](https://webrtcglossary.com/)
+[WebRTC Glossary | BlogGeek.me](https://bloggeek.me/webrtc-glossary/)
 
 [Quick introduction to WebRTC - YouTube](https://www.youtube.com/watch?v=RI5fGsEvDnI)
 [WebRTC Crash Course - YouTube](https://www.youtube.com/watch?v=FExZvpVvYxA)
@@ -39,10 +40,16 @@ tags:
 
 ## NAT
 
-[STUN - Wikiwand](https://www.wikiwand.com/en/STUN)
-[Traversal Using Relays around NAT - Wikiwand](https://www.wikiwand.com/en/Traversal_Using_Relay_NAT) TURN
-[Interactive Connectivity Establishment - Wikiwand](https://www.wikiwand.com/en/Interactive_Connectivity_Establishment) ICE
 [UDP hole punching - Wikiwand](https://www.wikiwand.com/en/UDP_hole_punching)
+
+[STUN - Wikiwand](https://www.wikiwand.com/en/STUN)
+[RFC 8489 - Session Traversal Utilities for NAT (STUN)](https://datatracker.ietf.org/doc/html/rfc8489)
+
+[Traversal Using Relays around NAT - Wikiwand](https://www.wikiwand.com/en/Traversal_Using_Relay_NAT) TURN
+[RFC 8656 - Traversal Using Relays around NAT (TURN): Relay Extensions to Session Traversal Utilities for NAT (STUN)](https://datatracker.ietf.org/doc/html/rfc8656)
+
+[Interactive Connectivity Establishment - Wikiwand](https://www.wikiwand.com/en/Interactive_Connectivity_Establishment) ICE
+[RFC 8445 - Interactive Connectivity Establishment (ICE): A Protocol for Network Address Translator (NAT) Traversal](https://datatracker.ietf.org/doc/html/rfc8445)
 
 [Build the backend services needed for a WebRTC app  |  Articles  |  web.dev](https://web.dev/articles/webrtc-infrastructure)
 [Еnvironment: signaling, STUN and TURN servers – Medialooks Help Center](https://support.medialooks.com/hc/en-us/articles/360000213312-%D0%95nvironment-signaling-STUN-and-TURN-servers)

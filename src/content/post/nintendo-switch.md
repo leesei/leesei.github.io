@@ -2,7 +2,7 @@
 title: Nintendo Switch
 description: ""
 created: 2018-01-09
-updated: 2025-01-09
+updated: 2025-02-16
 tags:
   - games
   - nintendo
@@ -211,7 +211,7 @@ Video playback is blocked since 3.0.0
 ### Dragon Quest
 
 [ドラゴンクエスト Encyclopedia](http://dqe.jp/index.html)
-[Dragon Quest Wiki | FANDOM powered by Wikia](https://dragonquest.fandom.com/wiki/Dragon_Quest_Wiki)
+[Dragon Quest Wiki | Fandom](https://dragonquest.fandom.com/wiki/Dragon_Quest_Wiki)
 [Dragon Quest Series Retrospective - YouTube](https://www.youtube.com/watch?v=mspnURxwYVQ)
 
 #### Dragon Quest XI

@@ -2,7 +2,7 @@
 title: Linux Package Managers
 description: ""
 created: 2017-05-10
-updated: 2025-01-09
+updated: 2025-03-10
 tags:
   - desktop
   - linux
@@ -19,6 +19,7 @@ Cross platform Linux package manager
 [What to Expect (and Not Expect) from Linux Universal Packages - The New Stack](https://thenewstack.io/expect-not-expect-linux-universal-packages/) !important
 [Modern Package Formats » ADMIN Magazine](http://www.admin-magazine.com/Archive/2018/45/Flatpak-Snap-and-AppImage)
 [Linux Package Managers Compared - AppImage vs Snap vs Flatpak](https://www.ostechnix.com/linux-package-managers-compared-appimage-vs-snap-vs-flatpak/)
+[Flatpaks, Snaps, & AppImages: "Do we really need these Universal App Formats?" - YouTube](https://www.youtube.com/watch?v=so_f6OtRWRo)
 
 [Flatpak vs Snaps vs Appimage vs Packages - Linux packaging formats compared - YouTube](https://www.youtube.com/watch?v=9HuExVD56Bo)
 [What are the differences between snaps, appimage, flatpak and others? - Ask Ubuntu](https://askubuntu.com/questions/866511/what-are-the-differences-between-snaps-appimage-flatpak-and-others)

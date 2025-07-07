@@ -2,7 +2,7 @@
 title: Documentation
 description: ""
 created: 2015-06-17
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - comp/lang
   - documentation
@@ -64,10 +64,14 @@ Static site generators supporting file-based routing are also candidates for doc
 [badboy/mdbook-mermaid](https://github.com/badboy/mdbook-mermaid)
 [provide mermaidjs rendering · Issue #762 · rust-lang/mdBook](https://github.com/rust-lang/mdBook/issues/762)
 [mdbook-plantuml - Cargo: packages for Rust](https://crates.io/crates/mdbook-plantuml)
-[lzanini/mdbook-katex: Rust preprocessor for mdBook, converting KaTex equations to HTML.](https://github.com/lzanini/mdbook-katex)
+[lzanini/mdbook-katex: Rust preprocessor for mdBook, converting KaTex equationks to HTML.](https://github.com/lzanini/mdbook-katex)
 [dylanowen/mdbook-confluence](https://github.com/dylanowen/mdbook-confluence)
 
 [Search Results for 'mdbook' - Cargo: packages for Rust](https://crates.io/search?q=mdbook)
+
+## waBook
+
+[wa-lang/wabook: Create book/talk from markdown files. Like Gitbook but implemented in Go](https://github.com/wa-lang/wabook)
 
 ## Makua
 
@@ -91,6 +95,13 @@ Static site generators supporting file-based routing are also candidates for doc
 
 [Create a MkDocs website (like this one) - ABP Computing @ CERN](https://abpcomputing.web.cern.ch/guides/mkdocs_site/)
 
+## Markdoc
+
+[Markdoc | A powerful, flexible, Markdown-based authoring framework](https://markdoc.dev/) parser and renderer pipeline, supports directives
+
+[@astrojs/markdoc | Docs](https://docs.astro.build/en/guides/integrations-guide/markdoc/)
+[Authoring Content in Markdown | Starlight](https://starlight.astro.build/guides/authoring-content/#markdoc)
+
 ## Markdown (generic)
 
 [portray](https://timothycrosley.github.io/portray/)
@@ -100,6 +111,12 @@ Static site generators supporting file-based routing are also candidates for doc
 [Geemili/mdproof: A standalone markdown to PDF converter](https://github.com/Geemili/mdproof)
 
 [Product Docs Alongside Product Code (with Next.js)](https://opstrace.com/blog/product-documentation-with-nextjs) with Unified and Github Actions
+
+## dumi
+
+> for frontend components, with demo codeblock
+
+[dumi - 为组件研发而生的静态站点框架](https://d.umijs.org/)
 
 ## reStructuredText
 

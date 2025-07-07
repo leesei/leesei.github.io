@@ -2,13 +2,13 @@
 title: Diablo
 description: ""
 created: 2023-06-07
-updated: 2025-01-09
+updated: 2025-02-16
 tags:
   - diablo
   - games
 ---
 
-[Diablo Wiki | FANDOM powered by Wikia](http://diablo.fandom.com/wiki/Diablo_Wiki)
+[Diablo Wiki | Fandom](http://diablo.fandom.com/wiki/Diablo_Wiki)
 [Diablo Wiki](https://www.diablowiki.net/Main_Page)
 [acronyms - Diablo](https://www.reddit.com/r/Diablo/wiki/acronyms)
 [Diablo on reddit](https://www.reddit.com/r/Diablo/)

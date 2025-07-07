@@ -2,7 +2,7 @@
 title: The Go Programming Language
 description: Build simple, secure, scalable systems with Go
 created: 2015-02-16
-updated: 2025-01-09
+updated: 2025-05-14
 tags:
   - comp/lang
   - go-lang
@@ -18,8 +18,8 @@ tags:
 [The Fascinating History of Go - YouTube](https://www.youtube.com/watch?v=mSwvS83O9wc)
 [The Why of Go - YouTube](https://www.youtube.com/watch?v=bmZNaUcwBt4)
 
-[Go 1 and the Future of Go Programs - go.dev](https://go.dev/doc/go1compat)
-[How to Write Go Code - go.dev](https://go.dev/doc/code)
+[Go 1 and the Future of Go Programs - The Go Programming Language](https://go.dev/doc/go1compat)
+[How to Write Go Code - The Go Programming Language](https://go.dev/doc/code)
 [Getting started with VS Code Go - YouTube](https://www.youtube.com/watch?v=1MXIGYrMk80) 2021-01
 [Learn Go Programming - Golang Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=YS4e4q9oBaU) 2019-06, 6:39:57
 [Golang Tutorial for Beginners | Full Go Course - YouTube](https://www.youtube.com/watch?v=yyUHQIec83I) 2021-12, 3:24:58
@@ -31,6 +31,9 @@ tags:
 [avelino/awesome-go: A curated list of awesome Go frameworks, libraries and software](https://github.com/avelino/awesome-go)
 [tenntenn/gopher-stickers: gopher stickers](https://github.com/tenntenn/gopher-stickers)
 [travis-ci/gimme: Install go, yay!](https://github.com/travis-ci/gimme) `nvm` for Go
+
+[go-programming](https://www.ardanlabs.com/categories/go-programming/)
+[polarisxu](https://polarisxu.studygolang.com/)
 
 [Tap the power of Google's Go language | InfoWorld](http://www.infoworld.com/article/3190210/application-development/tap-the-power-of-googles-go-language.html)
 [Understand Go in 5 minutes - Je suis un dev](https://www.jesuisundev.com/en/understand-go-in-5-minutes/)
@@ -71,9 +74,9 @@ Now it defaults to `$HOME/go` and stores packages and `GOBIN`
 
 ## Go 2
 
-[Toward Go 2 - go.dev](https://go.dev/blog/toward-go2)
+[Toward Go 2 - The Go Programming Language](https://go.dev/blog/toward-go2)
 [Go2 · golang/go Wiki](https://github.com/golang/go/wiki/Go2)
-[Go 2 Draft Designs - go.dev](https://go.dev/blog/go2draft)
+[Go 2 Draft Designs - The Go Programming Language](https://go.dev/blog/go2draft)
 [Go 2 Draft Designs](https://go.googlesource.com/proposal/+/master/design/go2draft.md)
 
 [Go team proposes parametric polymorphism • DEVCLASS](https://devclass.com/2019/07/30/go-team-proposes-parametric-polymorphism/)
@@ -82,6 +85,8 @@ Now it defaults to `$HOME/go` and stores packages and `GOBIN`
 
 [Vulnerability Management for Go - The Go Programming Language](https://go.dev/blog/vuln)
 [govulncheck command - golang.org/x/vuln/cmd/govulncheck - Go Packages](https://pkg.go.dev/golang.org/x/vuln/cmd/govulncheck)
+
+[google/capslock](https://github.com/google/capslock) capability analysis CLI for Go packages
 
 [air-verse/air: ☁️ Live reload for Go apps](https://github.com/air-verse/air)
 [Using Air with Go to implement live reload - LogRocket Blog](https://blog.logrocket.com/using-air-go-implement-live-reload/)
@@ -107,9 +112,9 @@ godoc -http=":6060"
 godoc pkg Label  # look up function/type
 ```
 
-[Godoc: documenting Go code - go.dev](https://go.dev/blog/godoc)
+[Godoc: documenting Go code - The Go Programming Language](https://go.dev/blog/godoc)
 [Go Doc Comments - The Go Programming Language](https://go.dev/doc/comment)
-[Static analysis features of godoc - go.dev](https://go.dev/lib/godoc/analysis/help)
+[Static analysis features of godoc - The Go Programming Language](https://go.dev/lib/godoc/analysis/help)
 
 [Godocs - Effortless documentation for your go packages - YouTube](https://www.youtube.com/watch?v=80VT3xexcWs)
 [godoctricks package - github.com/fluhus/godoc-tricks - Go Packages](https://pkg.go.dev/github.com/fluhus/godoc-tricks)
@@ -212,7 +217,7 @@ GOOS=wasip1 GOARCH=wasm go build # WAPI preview 1
 - many Go tools are unavailable
 - performance penalty
 
-[C? Go? Cgo! - go.dev](https://go.dev/blog/cgo)
+[C? Go? Cgo! - The Go Programming Language](https://go.dev/blog/cgo)
 [cgo command - cmd/cgo - pkg.go.dev](https://pkg.go.dev/cmd/cgo)
 [cgo · golang/go Wiki](https://github.com/golang/go/wiki/cgo)
 
@@ -281,6 +286,17 @@ go get -u ./... # upgrade recursively in any subdirectories
 go mod tidy ./... # after upgrade
 ```
 
+### Workspaces
+
+[Go Modules Reference - The Go Programming Language](https://go.dev/ref/mod#workspaces)
+[cmd/go: support vendoring in workspace mode · Issue #60056 · golang/go](https://github.com/golang/go/issues/60056)
+
+[Get familiar with workspaces - The Go Programming Language](https://go.dev/blog/get-familiar-with-workspaces)
+[Tutorial: Getting started with multi-module workspaces - The Go Programming Language](https://go.dev/doc/tutorial/workspaces)
+[What are go workspaces and how do I use them? - DEV Community](https://dev.to/gophers/what-are-go-workspaces-and-how-do-i-use-them-1643)
+[Go 1.18新特性前瞻：Go工作区模式 | Tony Bai](https://tonybai.com/2021/11/12/go-workspace-mode-in-go-1-18/)
+[通过一个例子让你彻底掌握 Go 工作区模式](https://polarisxu.studygolang.com/posts/go/workspace/)
+
 ### Environment Variables
 
 [go command - cmd/go - Go Packages](https://pkg.go.dev/cmd/go#hdr-Environment_variables)
@@ -297,7 +313,7 @@ go env
 - `go get` installs to `$GOPATH/src` before 1.11
 - `GO111MODULE=on go get` deprecated in 1.17, use `go install` instead
 
-[The App Engine SDK and workspaces (GOPATH) - go.dev](https://go.dev/blog/appengine-gopath)
+[The App Engine SDK and workspaces (GOPATH) - The Go Programming Language](https://go.dev/blog/appengine-gopath)
 
 ## stdlib
 
@@ -326,9 +342,9 @@ no std package are located at `$GOROOT/src/`
 
 [Projects · golang/go Wiki](https://github.com/golang/go/wiki/Projects)
 [golang-standards/project-layout: Standard Go Project Layout](https://github.com/golang-standards/project-layout)
-[Package names - go.dev](https://go.dev/blog/package-names)
+[Package names - The Go Programming Language](https://go.dev/blog/package-names)
 
-[The Go Programming Language Specification - go.dev](https://go.dev/ref/spec#Package_initialization) Package initialization
+[The Go Programming Language Specification - The Go Programming Language](https://go.dev/ref/spec#Package_initialization) Package initialization
 [The Go init Function | TutorialEdge.net](https://tutorialedge.net/golang/the-go-init-function/)
 [go 打包机制 | 李乾坤的博客](https://qiankunli.github.io/2020/03/15/go_package.html)
 
@@ -799,7 +815,7 @@ go build -v
 [The Go Blog - The Go Programming Language](https://go.dev/blog/)
 [talks - The Go Programming Language](https://go.dev/talks/)
 
-[Get Started - go.dev](https://go.dev/learn/)
+[Get Started - The Go Programming Language](https://go.dev/learn/)
 [A Tour of Go](https://go.dev/tour/), [solutions](https://github.com/golang/tour/tree/master/solutions)
 [How to Write Go Code - The Go Programming Language](https://go.dev/doc/code)
 [Effective Go - The Go Programming Language](https://go.dev/doc/effective_go)
@@ -829,9 +845,13 @@ go build -v
 
 Golang `map[string]struct{}` can be used as a Set type where every element is unique.
 
-[Go at Google: Language Design in the Service of Software Engineering - go.dev](https://go.dev/talks/2012/splash.article)
+[Go at Google: Language Design in the Service of Software Engineering - The Go Programming Language](https://go.dev/talks/2012/splash.article)
 [Analysis of the Go runtime scheduler](http://www1.cs.columbia.edu/~aho/cs6998/reports/12-12-11_DeshpandeSponslerWeiss_GO.pdf)
 [Scalable Go Scheduler Design Doc - Google Docs](https://docs.google.com/document/d/1TTj4T2JO42uD5ID9e89oa0sLKhJYD0Y_kqxDv3I3XMw/edit)
+
+[Scheduling In Go : Part I - OS Scheduler](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)
+[Scheduling In Go : Part II - Go Scheduler](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html)
+[Scheduling In Go : Part III - Concurrency](https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html)
 
 [The Why of Go - YouTube](https://www.youtube.com/watch?v=bmZNaUcwBt4)
 
@@ -890,6 +910,8 @@ Convension of `func newFile(path str) *File` can be used for constructor
 ### Struct
 
 [Structs in Go -Go 101](https://go101.org/article/struct.html)
+[Mastering Go Structs: 7 Advanced Techniques for Efficient Code | by Kuldeep Singh | Stackademic](https://blog.stackademic.com/mastering-go-structs-7-advanced-techniques-for-efficient-code-fe71f3b56613)
+[This is your last video about Golang Structs! - YouTube](https://www.youtube.com/watch?v=c8H0w4yBL10)
 
 ```go
 type S = struct {
@@ -911,10 +933,16 @@ type T struct {
 [How To Use Struct Tags in Go | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-struct-tags-in-go)
 [How to add and read Go struct tags| Practical Go Lessons](https://www.practical-go-lessons.com/post/how-to-add-and-read-go-struct-tags-cbt2mue6togs70jopvi0)
 
+[creasty/defaults: Initialize structs with default values](https://github.com/creasty/defaults)
+[Go Playground - The Go Programming Language](https://go.dev/play/p/rFql2x0Klm4)
+[How to Assign Default Value for Struct Field in Golang? | GeeksforGeeks](https://www.geeksforgeeks.org/how-to-assign-default-value-for-struct-field-in-golang/)
+
 For simple case just use reflection and parse it yourself  
 [structtag package - github.com/fatih/structtag - Go Packages](https://pkg.go.dev/github.com/fatih/structtag#section-readme)
 
 ### Iterators
+
+[Range Over Function Types - The Go Programming Language](https://go.dev/blog/range-functions)
 
 ```go
                               // v iterator callback
@@ -934,7 +962,6 @@ for i, v := range Map(s) {
 
 [Iterators in Go — Bitfield Consulting](https://bitfieldconsulting.com/posts/iterators)
 [Go range iterators demystified | DoltHub Blog](https://www.dolthub.com/blog/2024-07-12-golang-range-iters-demystified/)
-[Range Over Function Types - The Go Programming Language](https://go.dev/blog/range-functions)
 
 [Iterators - Awesome Go / Golang](https://awesome-go.com/iterators/)
 [iterator package - google.golang.org/api/iterator - Go Packages](https://pkg.go.dev/google.golang.org/api/iterator)
@@ -953,6 +980,9 @@ by a simple interface
 [Google I/O 2011: Writing Web Apps in Go - YouTube](https://www.youtube.com/watch?v=-i0hat7pdpk&feature=relmfu)
 [Learn Go Programming by Building 11 Projects – Full Course - YouTube](https://www.youtube.com/watch?v=jFfo23yIWac) 8:24:39
 
+[Flo Woelki - YouTube](https://www.youtube.com/@FloWoelki)
+[Go from Zero to Hero: Learn Golang in 15 minutes! - YouTube](https://www.youtube.com/watch?v=P7dCWOjRwJA)
+
 [ProgrammingPercy - YouTube](https://www.youtube.com/@programmingpercy)
 [samvcodes - YouTube](https://www.youtube.com/@samvcodes)
 
@@ -968,7 +998,7 @@ by a simple interface
 
 [Go Playground - The Go Programming Language](https://go.dev/play/)
 [Introducing the Go Playground - The Go Programming Language](https://go.dev/blog/playground-intro)
-[Inside the Go Playground - go.dev](https://go.dev/blog/playground)
+[Inside the Go Playground - The Go Programming Language](https://go.dev/blog/playground)
 
 [Better Go Playground](https://goplay.tools/)
 
@@ -978,12 +1008,12 @@ by a simple interface
 
 > collection of whitepaper-ish articles in Go Blog
 
-[Article index - go.dev](https://go.dev/blog/all)
-[Text normalization in Go - go.dev](https://go.dev/blog/normalization)
-[Strings, bytes, runes and characters in Go - go.dev](https://go.dev/blog/strings)
-[Gobs of data - go.dev](https://go.dev/blog/gob)
-[JSON and Go - go.dev](https://go.dev/blog/json)
-[Go's Declaration Syntax - go.dev](https://go.dev/blog/declaration-syntax)
+[Article index - The Go Programming Language](https://go.dev/blog/all)
+[Text normalization in Go - The Go Programming Language](https://go.dev/blog/normalization)
+[Strings, bytes, runes and characters in Go - The Go Programming Language](https://go.dev/blog/strings)
+[Gobs of data - The Go Programming Language](https://go.dev/blog/gob)
+[JSON and Go - The Go Programming Language](https://go.dev/blog/json)
+[Go's Declaration Syntax - The Go Programming Language](https://go.dev/blog/declaration-syntax)
 
 ## Book
 
@@ -1003,8 +1033,16 @@ by a simple interface
 
 [An Introduction to Programming in Go | Go Resources](http://www.golang-book.com/books/intro) 2012
 [The Go Handbook](https://flaviocopes.com/access/)
+[Learning Go](https://miek.nl/go/) 2018
 
-[Learning Go](https://miek.nl/go/) 2017
+[Go 语言设计与实现 | Go 语言设计与实现](https://draven.co/golang/) 2021
+[draveness/go-internal: 《Go 语言设计与实现》示例代码](https://github.com/draveness/go-internal)
+
+[gopl-zh/gopl-zh.github.com: :books: Go语言圣经中文版 🇨🇳](https://github.com/gopl-zh/gopl-zh.github.com)
+[chai2010/gopl-notes-zh: :books: Go语言圣经读书笔记](https://github.com/chai2010/gopl-notes-zh)
+[chai2010/go-ast-book: :books: 《Go语言定制指南》(原名：Go语法树入门/开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST)](https://github.com/chai2010/go-ast-book)
+[chai2010/advanced-go-programming-book: :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)](https://github.com/chai2010/advanced-go-programming-book)
+[wa-lang/ugo-compiler-book: :books: µGo语言实现(从头开发一个迷你Go语言编译器)](https://github.com/wa-lang/ugo-compiler-book)
 
 [miekg/learninggo: Learning Go Book in mmark](https://github.com/miekg/learninggo)
 
@@ -1021,6 +1059,7 @@ by a simple interface
 [Gophercises - Coding exercises for budding gophers](https://gophercises.com/)
 [Golang examples and solutions from different packages of the standard library. - golangprograms.com](https://www.golangprograms.com/golang-package-examples.html)
 [Go · How I Start.](https://howistart.org/posts/go/1/)
+[Go coding challenges Series' Articles - DEV Community](https://dev.to/johnscode/series/27729) patterns
 
 [ProgrammingPercy](https://programmingpercy.tech/)
 [Go by Example](https://gobyexample.com/)
@@ -1078,7 +1117,7 @@ Melkey
 
 ## Internals
 
-[src/ - go.dev](https://go.dev/src/)
+[src/ - The Go Programming Language](https://go.dev/src/)
 
 [Scheduling In Go : Part I - OS Scheduler](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)
 [Scheduling In Go : Part II - Go Scheduler](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html)
@@ -1164,8 +1203,8 @@ On why slice, map and function types don't support comparison, please read [this
 
 ### Garbage Collection
 
-[Getting to Go: The Journey of Go's Garbage Collector - go.dev](https://go.dev/blog/ismmkeynote)
-[Go GC: Prioritizing low latency and simplicity - go.dev](https://go.dev/blog/go15gc)
+[Getting to Go: The Journey of Go's Garbage Collector - The Go Programming Language](https://go.dev/blog/ismmkeynote)
+[Go GC: Prioritizing low latency and simplicity - The Go Programming Language](https://go.dev/blog/go15gc)
 [A Guide to the Go Garbage Collector - The Go Programming Language](https://go.dev/doc/gc-guide) 1.19
 [Go’s march to low-latency GC — Twitch Blog](https://blog.twitch.tv/gos-march-to-low-latency-gc-a6fa96f06eb7)
 
@@ -1188,10 +1227,11 @@ On why slice, map and function types don't support comparison, please read [this
 
 [[learn-to-code#Concurrency and Parallelism]]
 
-[Concurrency is not parallelism - go.dev](https://go.dev/blog/waza-talk)
-[Advanced Go Concurrency Patterns - go.dev](https://go.dev/blog/io2013-talk-concurrency)
-[Go Concurrency Patterns: Pipelines and cancellation - go.dev](https://go.dev/blog/pipelines)
-[Go Concurrency Patterns: Timing out, moving on - go.dev](https://go.dev/blog/go-concurrency-patterns-timing-out-and)
+[Concurrency is not parallelism - The Go Programming Language](https://go.dev/blog/waza-talk)
+[Advanced Go Concurrency Patterns - The Go Programming Language](https://go.dev/blog/io2013-talk-concurrency)
+[Go Concurrency Patterns: Pipelines and cancellation - The Go Programming Language](https://go.dev/blog/pipelines)
+[Go Concurrency Patterns: Timing out, moving on - The Go Programming Language](https://go.dev/blog/concurrency-timeouts)
+[Share Memory By Communicating - The Go Programming Language](https://go.dev/blog/codelab-share)
 
 [Concurrency is not Parallelism by Rob Pike - YouTube](https://www.youtube.com/watch?v=oV9rvDllKEg) [slides](https://go.dev/talks/2012/waza.slide)
 [Go: code that grows with grace on Vimeo](https://vimeo.com/53221560) [slides](https://go.dev/talks/2012/chat.slide) using channels for chat, copy interface, matcher
@@ -1200,8 +1240,12 @@ On why slice, map and function types don't support comparison, please read [this
 [Concurrency Patterns In Go - YouTube](https://www.youtube.com/watch?v=YEKjSzIwAdA)
 [Master Go Programming With These Concurrency Patterns (in 40 minutes) - YouTube](https://www.youtube.com/watch?v=qyM8Pi1KiiM) 46:14
 [Concurrency Made Easy (Practical Tips For Effective Concurrency In Go) - YouTube](https://www.youtube.com/watch?v=DqHb5KBe7qI)
+[Golang Concurrency - All the Basics you have to know! - YouTube](https://www.youtube.com/watch?v=y2jP45S9BHk)
+
 [dotgo applied concurrency in go](https://matt.aimonetti.net/posts/2015-12-dotgo-applied-concurrency-in-go/)
+[What are goroutines and how are they scheduled? - DEV Community](https://dev.to/gophers/what-are-goroutines-and-how-are-they-scheduled-2nj3)
 [On using Go channels like Python generators · The Ethically-Trained Programmer](https://blog.carlmjohnson.net/post/on-using-go-channels-like-python-generators/)
+[A complete journey with Goroutines | by Riteek Srivastav | Medium](https://riteeksrivastava.medium.com/a-complete-journey-with-goroutines-8472630c7f5c)
 [Locks versus channels in concurrent Go | Opensource.com](https://opensource.com/article/18/7/locks-versus-channels-concurrent-go)
 
 use `chan struct{}` to signify that this is a channel for event/signal
@@ -1212,8 +1256,7 @@ use `chan struct{}` to signify that this is a channel for event/signal
 [Go Concurrency from the Ground Up | doxsey.net](https://www.doxsey.net/blog/go-concurrency-from-the-ground-up/)
 [Visualizing Concurrency in Go · divan's blog](http://divan.github.io/posts/go_concurrency_visualize/)
 [Goroutine IDs · Scott Mansfield](http://blog.sgmansfield.com/2015/12/goroutine-ids/)
-[Share Memory By Communicating - go.dev](https://go.dev/blog/codelab-share)
-[Codewalk: Share Memory By Communicating - go.dev](https://go.dev/doc/codewalk/sharemem/)
+[Codewalk: Share Memory By Communicating - The Go Programming Language](https://go.dev/doc/codewalk/sharemem/)
 [Share memory by communicating · The Ethically-Trained Programmer](https://blog.carlmjohnson.net/post/share-memory-by-communicating/)
 
 [The Behavior Of Channels](https://www.ardanlabs.com/blog/2017/10/the-behavior-of-channels.html)
@@ -1229,6 +1272,10 @@ use `chan struct{}` to signify that this is a channel for event/signal
 
 [go - Multiple goroutines listening on one channel - Stack Overflow](https://stackoverflow.com/questions/15715605/multiple-goroutines-listening-on-one-channel)
 [rheinardkorf/go-concurrency: A collection of Go concurrency patterns. These are useful as a reference to quickly look up a pattern that you want to implement.](https://github.com/rheinardkorf/go-concurrency)
+
+[Go concurrency through problem solving Series' Articles - DEV Community](https://dev.to/joashxu/series/15760)
+
+[The Producer-Consumer pattern in Go | by nikfarjam | Medium](https://medium.com/@mm.nikfarjam/the-producer-consumer-pattern-in-go-cf97299a0320)
 
 [Introduction to Go - let's build a network application! | Go User Group Berlin](http://synflood.at/tmp/golang-slides/mrmcd2012.html)
 [Directional Channels in Go | Gopher Academy Blog](https://blog.gopheracademy.com/advent-2019/directional-channels/)
@@ -1247,7 +1294,7 @@ use `chan struct{}` to signify that this is a channel for event/signal
 
 [context package - context - pkg.go.dev](https://pkg.go.dev/context)
 
-[Go Concurrency Patterns: Context - go.dev](https://go.dev/blog/context)
+[Go Concurrency Patterns: Context - The Go Programming Language](https://go.dev/blog/context)
 [Context Package Semantics In Go](https://www.ardanlabs.com/blog/2019/09/context-package-semantics-in-go.html)
 [This is the BEST Golang Context Package Tutorial - YouTube](https://www.youtube.com/watch?v=uiUCIz-3CWM)
 
@@ -1260,7 +1307,7 @@ use `chan struct{}` to signify that this is a channel for event/signal
 
 ### Data Race
 
-[Introducing the Go Race Detector - go.dev](https://go.dev/blog/race-detector)
+[Introducing the Go Race Detector - The Go Programming Language](https://go.dev/blog/race-detector)
 [Data races explained · YourBasic Go](https://yourbasic.org/golang/data-races-explained/)
 [Data races in Go(Golang) and how to fix them](https://www.sohamkamani.com/golang/data-races/)
 [Wednesday pop quiz: spot the race | Dave Cheney](https://dave.cheney.net/2015/11/18/wednesday-pop-quiz-spot-the-race)
@@ -1305,9 +1352,9 @@ default:
 ```
 
 [reflect package - reflect - pkg.go.dev](https://pkg.go.dev/reflect)
-[Effective Go - go.dev](https://go.dev/doc/effective_go#type_switch) Type switch/guard with type `T.(type)`
-[The Laws of Reflection - go.dev](https://go.dev/blog/laws-of-reflection)
-[A GIF decoder: an exercise in Go interfaces - go.dev](https://go.dev/blog/gif-decoder-exercise-in-go-interfaces)
+[Effective Go - The Go Programming Language](https://go.dev/doc/effective_go#type_switch) Type switch/guard with type `T.(type)`
+[The Laws of Reflection - The Go Programming Language](https://go.dev/blog/laws-of-reflection)
+[A GIF decoder: an exercise in Go interfaces - The Go Programming Language](https://go.dev/blog/gif-decoder)
 
 [goccy/go-reflect: Zero-allocation reflection library for Go](https://github.com/goccy/go-reflect) uses `*reflect.rtype` instead of casting `interface{}`, stores `unsafe.Pointer` to the value
 
@@ -1330,7 +1377,7 @@ w = r.(io.Writer)  // type assertion
 
 Type assertion is applicable to interface when you know the concrete type.
 Type assertion is performed at runtime.
-[Effective Go - go.dev](https://go.dev/doc/effective_go#interface_conversions)
+[Effective Go - The Go Programming Language](https://go.dev/doc/effective_go#interface_conversions)
 [go - What is the difference between type conversion and type assertion? - Stack Overflow](https://stackoverflow.com/questions/20494229/what-is-the-difference-between-type-conversion-and-type-assertion)
 [Type Assertions vs Type Conversions in Golang](https://www.sohamkamani.com/golang/type-assertions-vs-type-conversions/)
 
@@ -1355,6 +1402,7 @@ fmt.Printf("%T\n", y)
 [An Introduction To Generics - The Go Programming Language](https://go.dev/blog/intro-generics)
 [Tutorial: Getting started with generics - The Go Programming Language](https://go.dev/doc/tutorial/generics)
 
+[What are Go Generics & When Should I use Them? - DEV Community](https://dev.to/gophers/what-are-go-generics-when-should-i-use-them-39bg)
 [Generics can make your Go code slower](https://planetscale.com/blog/generics-can-make-your-go-code-slower)
 [On Go's Generics Implementation and Performance](https://www.infoq.com/news/2022/04/go-generics-performance/)
 
@@ -1397,6 +1445,10 @@ go test -count=1
 ```
 
 [testing package - testing - Go Packages](https://pkg.go.dev/testing)
+[A hands-on guide for proper Unit Testing in Go! - YouTube](https://www.youtube.com/watch?v=W4njY-VzkUU)
+
+[synctest package - testing/synctest - Go Packages](https://pkg.go.dev/testing/synctest)
+[The new synctest package in Golang 1.24 is fantastic! - YouTube](https://www.youtube.com/watch?v=1ZlcsgkOvCk)
 
 [Testing and Test-Driven-Development in Snap — Intel SDI — Medium](https://medium.com/intel-sdi/testing-and-test-driven-development-in-snap-d66359485561#.oc123kqcq)
 [Testing and Test Driven Development in Snap (Part 2) — Intel SDI — Medium](https://medium.com/intel-sdi/testing-and-test-driven-development-in-snap-part-2-6304effa6b22#.ufy3wul7t)
@@ -1438,7 +1490,7 @@ go test -count=1
 [Go Proverbs](https://go-proverbs.github.io/)
 [Go Proverbs - Rob Pike - Gopherfest - November 18, 2015 - YouTube](https://www.youtube.com/watch?v=PAAkCSZUG1c)
 
-[Organizing Go code - go.dev](https://go.dev/blog/organizing-go-code)
+[Organizing Go code - The Go Programming Language](https://go.dev/blog/organizing-go-code)
 [Go best practices, six years in](http://peter.bourgon.org/go-best-practices-2016/)
 [Golang 新手开发需要注意的七个细节 |虞双齐的博客](https://www.yushuangqi.com/blog/2015/7_things-you-may-not-pay-attation-to-in-go.html)
 [when nil is not nil - spf13.com](http://spf13.com/post/when-nil-is-not-nil/)
@@ -1494,15 +1546,16 @@ ENTRYPOINT ["/bin/demo"]
 
 [pkg/errors: Simple error handling primitives](https://github.com/pkg/errors)
 
-[Errors are values - go.dev](https://go.dev/blog/errors-are-values) Error handling does not obscure the flow of control.
-[Error handling and Go - go.dev](https://go.dev/blog/error-handling-and-go)
-[Defer, Panic, and Recover - go.dev](https://go.dev/blog/defer-panic-and-recover)
-[Working with Errors in Go 1.13 - go.dev](https://go.dev/blog/go1.13-errors) error wrapping
+[Errors are values - The Go Programming Language](https://go.dev/blog/errors-are-values) Error handling does not obscure the flow of control.
+[Error handling and Go - The Go Programming Language](https://go.dev/blog/error-handling-and-go)
+[Defer, Panic, and Recover - The Go Programming Language](https://go.dev/blog/defer-panic-and-recover)
+[Working with Errors in Go 1.13 - The Go Programming Language](https://go.dev/blog/go1.13-errors) error wrapping
 [How to compare Go errors - Stack Overflow](https://stackoverflow.com/a/57613539/665507)
 [Go: Creating Custom Error Wrapper and Do Proper Error Equality Check - DEV Community](https://dev.to/tigorlazuardi/go-creating-custom-error-wrapper-and-do-proper-error-equality-check-11k7)
 [Comparing error or error equality in Go (Golang) - Welcome To Golang By Example](https://golangbyexample.com/comparing-error-go/) error wrapping
 [How to get stacktraces from errors in Golang with go-errors/errors | Bugsnag Blog](https://www.bugsnag.com/blog/go-errors)
 [Creating Domain Specific Error Helpers in Go With errors.As · The Ethically-Trained Programmer](https://blog.carlmjohnson.net/post/2020/working-with-errors-as/)
+[Mastering Error Handling in Golang: Best Practices and Tips | by Dwen | ITNEXT](https://itnext.io/mastering-error-handling-in-golang-best-practices-and-tips-f6dbfbd66cdd)
 
 [Testing errors in Go — Bitfield Consulting](https://bitfieldconsulting.com/golang/testing-errors)
 [Comparing Go error values — Bitfield Consulting](https://bitfieldconsulting.com/golang/comparing-errors)
@@ -1567,7 +1620,7 @@ cmd.Process.Release()
 
 [[#Garbage Collection]]
 
-[Profiling Go Programs - go.dev](https://go.dev/blog/pprof)
+[Profiling Go Programs - The Go Programming Language](https://go.dev/blog/pprof)
 [pprof package - runtime/pprof - Go Packages](https://pkg.go.dev/runtime/pprof)
 
 ```sh

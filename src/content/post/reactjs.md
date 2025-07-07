@@ -2,7 +2,7 @@
 title: React.js
 description: The library for web and native user interfaces
 created: 2015-12-04
-updated: 2025-01-09
+updated: 2025-02-16
 tags:
   - frontend
   - javascript
@@ -940,7 +940,7 @@ We noticed you're in Vietnam. Get 70% off the Official React Query Course with c
 #### SWR
 
 [SWR – SWR](https://swr.vercel.app/) ❗!important, stale-while-revalidate
-[RFC 5861 - HTTP Cache-Control Extensions for Stale Content](https://tools.ietf.org/html/rfc5861)
+[RFC 5861 - HTTP Cache-Control Extensions for Stale Content](https://datatracker.ietf.org/doc/html/rfc5861)
 [vercel/swr: React Hooks library for remote data fetching](https://github.com/vercel/swr)
 
 ## Reparenting

@@ -2,7 +2,7 @@
 title: Transformers
 description: ""
 created: 2023-10-07
-updated: 2025-01-09
+updated: 2025-04-15
 tags:
   - anime
 ---
@@ -28,7 +28,7 @@ tags:
 [AKR/PFK說變形金剛 - YouTube](https://www.youtube.com/playlist?list=PLhTbZbHYudXGoIdSQsjFPIWqg_hAWhq1H)
 [變形金剛│Shorts (AKR/PFK) - YouTube](https://www.youtube.com/playlist?list=PLhTbZbHYudXFe96xJlw_VIPN-iKJtzV2e)
 
-[二叔托马斯 - YouTube](https://www.youtube.com/channel/UCPawzI1EqtpKSZXLmG2GlHA)
+[二叔托马斯 - YouTube](https://www.youtube.com/@ErShuTuoMaSi)
 [变形金刚 - YouTube](https://www.youtube.com/playlist?list=PLgmTvH0O5wnz6ELLYibbYqUQE8JxO71uv)
 [变形金刚超能勇士 - YouTube](https://www.youtube.com/playlist?list=PLgmTvH0O5wnyW3yGKXl1ngSm2MMHsaCYV) Beast Wars
 [变形金刚猛兽侠 - YouTube](https://www.youtube.com/playlist?list=PLgmTvH0O5wnxamQG4Ld3j1RtXv9nyyTDN) Beast Machines
@@ -41,6 +41,7 @@ tags:
 [Size class - Transformers Wiki](https://tfwiki.net/wiki/Size_class)
 
 [变形金刚选购指南——WFC SIEGE 围城系列看这篇就够了 - 知乎](https://zhuanlan.zhihu.com/p/165188978)
+[《變形金剛》與《天威勇士》有什麼關係？為什麼麥加登會是手槍？[繁體字幕] | 粵語 | 玩具 | 歷史 | 美國文化 | 日本文化 | 世界趣聞 | 故事 | 動漫人物 | 冷知識 | - YouTube](https://www.youtube.com/watch?v=WX5NDqDMIwc)
 
 刘哥模玩
 [官方变形金刚 - YouTube](https://www.youtube.com/playlist?list=PLSWTwk7f3a8u55lOgUe_OO6PwOZUj_iC0)
@@ -57,3 +58,7 @@ The House Factory THF
 FansToys FT
 大力神 NBK
 MFT THG TFC DX9 UT TW
+
+## Games
+
+[I Played Every Transformers Game - YouTube](https://www.youtube.com/watch?v=tSZlDYRfYys)

@@ -2,7 +2,7 @@
 title: Android notes
 description: ""
 created: 2014-12-17
-updated: 2025-01-09
+updated: 2025-04-28
 tags:
   - aapt
   - adb
@@ -30,6 +30,11 @@ Notes on Android system and console tools available.
 
 [How A/B Partitions and Seamless Updates Affect Custom Development on XDA](https://www.xda-developers.com/how-a-b-partitions-and-seamless-updates-affect-custom-development-on-xda/)
 
+[These 7 Free Android Apps Make My Life So Much Easier](https://www.makeuseof.com/apps-simplify-your-life-boost-productivity/)
+
+[Shizuku](https://shizuku.rikka.app/)
+[timschneeb/awesome-shizuku: Curated list of awesome Android apps making use of Shizuku](https://github.com/timschneeb/awesome-shizuku)
+
 ## Android is not Open
 
 [Here we go again: Android is, apparently, not open – OSnews](https://www.osnews.com/story/27565/here-we-go-again-android-is-apparently-not-open/)
@@ -45,6 +50,9 @@ Notes on Android system and console tools available.
 [Save time with efficiency-boosting Android apps | Computerworld](https://www.computerworld.com/article/3208108/android/android-apps-efficiency-timesaving.html)
 
 [Termux](https://termux.com/) Android terminal emulator and Linux environment app
+
+[Home | MacroDroid](https://www.macrodroid.com/)
+[MacroDroid怎么用？轻松打造个性化自动化流程，告别重复劳动？*手机软件*什么值得买](https://post.smzdm.com/p/aovvgo77/?_did=2b44c78621469f66c19bdafd032bcb18)
 
 ### Play Store Alternatives
 
@@ -66,7 +74,7 @@ Notes on Android system and console tools available.
 
 [When you never close tabs on your mobile Chrome browser - DEV Community 👩‍💻👨‍💻](https://dev.to/piczmar_0/when-you-never-close-tabs-on-your-mobile-chrome-browser-2boj)
 
-```
+```sh
 ./adb forward tcp:9222 localabstract:chrome_devtools_remote
 curl http://localhost:9222/json/list | jq ".[].url" | tr -d '"' > mobile_tabs.txt
 wget -O tabs.json http://localhost:9222/json/list

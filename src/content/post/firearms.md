@@ -2,7 +2,7 @@
 title: Firearms
 description: Weapons with gun powder
 created: 2015-06-13
-updated: 2025-01-10
+updated: 2025-07-03
 tags:
   - weapons
 ---
@@ -13,8 +13,6 @@ tags:
 
 [Firearm - Wikiwand](https://www.wikiwand.com/en/Firearm)
 [History of the firearm - Wikiwand](https://www.wikiwand.com/en/History_of_the_firearm)
-[How a Handgun Works: 1911 .45 - Animagraffs](http://animagraffs.com/how-a-handgun-works-1911-45/)
-[M1911，手槍之王！服役時間最長的手槍，美軍士兵的最愛！擊落零式戰機，戰爭史上的奇跡！點45與9毫米之爭，哪個更好用？| 勃朗寧 | 柯爾特 | M1900 | M9 | 火力君 | - YouTube](https://www.youtube.com/watch?v=UCFBiU8Nycs)
 [Firearms Channel - HowStuffWorks](http://science.howstuffworks.com/firearms-channel.htm)
 
 [Backyard Ballistics - YouTube](https://www.youtube.com/@Backyard.Ballistics)
@@ -22,12 +20,12 @@ tags:
 [Forgotten Weapons - YouTube](https://www.youtube.com/@ForgottenWeapons)
 [Garand Thumb - YouTube](https://www.youtube.com/@GarandThumb)
 [InRangeTV - YouTube](https://www.youtube.com/@InrangeTv)
-[Military History Visualized - YouTube](https://www.youtube.com/@MilitaryHistoryVisualized)
-[TFB TV - YouTube](https://www.youtube.com/tfbtv)
-[The Armchair Historian - YouTube](https://www.youtube.com/@TheArmchairHistorian)
+[TFB TV - YouTube](https://www.youtube.com/@tfbtv)
 [The Most - YouTube](https://www.youtube.com/@themost9058) 3D animation
 [Civilian Use Only - YouTube](https://www.youtube.com/@civilianuseonly)
 [Blue Paw Print - YouTube](https://www.youtube.com/@BluePawPrint)
+[Royal Armouries - YouTube](https://www.youtube.com/@RoyalArmouriesMuseum) cold and hot weapons
+[Ballistic High-Speed - YouTube](https://www.youtube.com/@BallisticHighSpeed)
 
 [Cursed Guns Series - YouTube](https://www.youtube.com/playlist?list=PLmJ2tl71-4QUccyU4Thsrn4_OgmR8gdOF)
 [Firearms History - YouTube](https://www.youtube.com/playlist?list=PLkaaNLbRcosmUxuz0CXGsNrz0fYeQ6tL2) LionHeart FilmWorks
@@ -36,20 +34,6 @@ tags:
 [Balancing Arms - YouTube](https://www.youtube.com/playlist?list=PLNAD3PNmsLmkjinU78E7xXEviIfeIPgH_) Arch, guns in gaming
 
 [GUNS: Everything You Need to Know (Special) - YouTube](https://www.youtube.com/watch?v=GqX2utKCc2w)
-
-More on military vehicles
-[AiTelly - YouTube](https://www.youtube.com/@Aitelly)
-[Armor Cast - YouTube](https://www.youtube.com/@ArmorCast)
-[CRAZY262 - YouTube](https://www.youtube.com/@CRAZY-fu9pj)
-[Found And Explained - YouTube](https://www.youtube.com/@FoundAndExplained)
-[Hunt武器局 - YouTube](https://www.youtube.com/@Hunt_No.2)
-[Not What You Think - YouTube](https://www.youtube.com/@NotWhatYouThink)
-[Task & Purpose - YouTube](https://www.youtube.com/@Taskandpurpose)
-[Tech - YouTube](https://www.youtube.com/@DarkMilitaryTech)
-[兵器說 - YouTube](https://www.youtube.com/@armssay)
-[名将榜 - YouTube](https://www.youtube.com/@agl)
-[火力就是正義（資訊頻道） - YouTube](https://www.youtube.com/@Mr.F)
-[火力施密特 - YouTube](https://www.youtube.com/@HuoLiShiMiTe)
 
 [Fuels, Explosives and Propellants: What's the difference? - YouTube](https://www.youtube.com/watch?v=HEhH7735gSs)
 
@@ -85,6 +69,25 @@ Ahoy
 [【不止遊戲】遊戲中的大殺器 霰彈槍 加特林機槍 馬克沁機槍 真實背景故事 - YouTube](https://www.youtube.com/watch?v=P7Bb5JNwLBM)
 [【不止遊戲】霰彈槍真能像電影中，一槍能把人轟飛幾米遠嗎？ - YouTube](https://www.youtube.com/watch?v=XMwzr1axRCM)
 [【不止遊戲】絕大部分人都不知道，遊戲中瞄具的原理和背後的秘密 - YouTube](https://www.youtube.com/watch?v=pWpaWdF0uXA)
+
+[【不止遊戲】——武器裝備系列 - YouTube](https://www.youtube.com/playlist?list=PLF-ufzZkqoKtMO3SfvwlZeh_4Byo9aotA) 森纳映画
+
+## Night Vision Goggles
+
+[How Do Night Vision Goggles Work? (There's 3 types) - YouTube](https://www.youtube.com/watch?v=UAeJHAFjwPM)
+
+- Active (infrared) illumination
+- Image intensification
+- Thermal Imaging
+
+[The Plates & Tubes Behind Night Vision - YouTube](https://www.youtube.com/watch?v=bqi9aWs1H1I)
+[【不止遊戲】夜視儀 究竟是如何看清楚黑暗的？ - YouTube](https://www.youtube.com/watch?v=CPYSlWv5XzQ)
+[【不止遊戲】熱成像真能如開掛一樣發現目標嗎？ - YouTube](https://www.youtube.com/watch?v=q1W0zbSRasE)
+
+## Hazmat Suit
+
+[Hazmat suit - Wikiwand](https://www.wikiwand.com/en/articles/Hazmat_suit)
+[防護服 - Wikiwand](https://www.wikiwand.com/zh/articles/%E9%98%B2%E8%AD%B7%E6%9C%8D)
 
 ## Ignition
 
@@ -182,6 +185,8 @@ Benefits of detachable magazine:
 [Why use clips when you can use magazines? - YouTube](https://www.youtube.com/watch?v=mjuEJjzon-g&index=4&list=PLzzh7AuEBkElHB4FeRDkq84YUNynOg-Y9)
 However magazine are more expensive, creates extra loads for soldiers and take more volume than clips.
 
+[全世界的步槍，為何都用﻿30發彈匣？從STG-44，到AK-47，再到M-16， 20發彈匣輕便不夠用，50發火力猛卻太笨重！#兵器說 #ak #步槍 - YouTube](https://www.youtube.com/watch?v=_xTHEIZM0lk)
+
 ## Reloading
 
 Mussel loading: the shooter have to stand up and use a stick to push gun powder and the lead ball to the end of the chamber.
@@ -254,6 +259,9 @@ Overlaps with Assault Rifle and SMG
 
 [Assault rifle - Wikiwand](https://www.wikiwand.com/en/Assault%20rifle)
 [突击步枪 - Wikiwand](https://www.wikiwand.com/zh/%E7%AA%81%E6%93%8A%E6%AD%A5%E6%A7%8D)
+
+[Mk 14 Enhanced Battle Rifle - Wikiwand](https://www.wikiwand.com/en/articles/Mk_14_Enhanced_Battle_Rifle) EBR modified from M14
+[Designated marksman rifle - Wikiwand](https://www.wikiwand.com/en/articles/Designated_marksman_rifle) DMR modified from M16
 
 uses rifle calibers (.30-.40) with reduced firepower
 speed and magazine size of a submachine gun + power and range of a rifle
@@ -371,9 +379,15 @@ Bazooka: 以彈頭的火箭為發射動力
 [How did tank guns get so deadly? | Evolution of Firepower - YouTube](https://www.youtube.com/watch?v=8XWAktvFZGI)
 [What Tank Armour Can (& Can't) Do | Evolution of Armour - YouTube](https://www.youtube.com/watch?v=_hRVefl2M0k)
 
+[History of the tank - Wikiwand](https://www.wikiwand.com/en/articles/History_of_the_tank)
+[The Evolution of Tanks | Tank History](https://www.volocars.com/blog/evolution-of-tanks)
+
+The Armchair Historian
 [Evolution of American Tanks | Animated History - YouTube](https://www.youtube.com/watch?v=MEhMOTpbWOY)
 [Evolution of German Tanks | Animated History - YouTube](https://www.youtube.com/watch?v=S7tz1bNiV4s)
+[Evolution of British Tanks | Animated History - YouTube](https://www.youtube.com/watch?v=9YGSZu27wXA)
 [Evolution of Russian Tanks | Animated History - YouTube](https://www.youtube.com/watch?v=LyJSsv3KFpM)
+
 [These Are the Largest Tanks Ever Designed - YouTube](https://www.youtube.com/watch?v=WtblYGKCaRs)
 
 [【軍備科技樹】英國坦克發展史第一期，馬克Ⅰ型，拖拉機廠製造，現代坦克的鼻祖，一戰後歐洲列強軍備競賽的結果 #兵器說 坦克｜一戰 - YouTube](https://www.youtube.com/watch?v=QY6gJCkbls0)
@@ -475,7 +489,7 @@ Non-Explosive Reactive Armor (NERA)
 
 [Why Protecting Tanks is Getting Much More Difficult - YouTube](https://www.youtube.com/watch?v=C4NmOss83XI) RPG history
 
-### Anti-Tank Guided Missile/ATGM
+### Anti-Tank Guided Missile (ATGM)
 
 [Anti-tank guided missile - Wikiwand](https://www.wikiwand.com/en/Anti-tank_guided_missile)
 [The Insane Engineering of the Javelin - YouTube](https://www.youtube.com/watch?v=SUdHzKRiBX8)
@@ -487,7 +501,10 @@ A round of Javelin costs around $200000, while the cost of a battle tank is arou
 
 [高射炮如何擊落飛機！誕生幾百年依然不可替代！末端防空的主力！ - YouTube](https://www.youtube.com/watch?v=VXPHhQhaI7k)
 
-### Ground-to-Air Missile/GTAM
+[【不止遊戲】防空炮是如何打下飛機的？ - YouTube](https://www.youtube.com/watch?v=jAa3MU5hIdE&list=PLF-ufzZkqoKtMO3SfvwlZeh_4Byo9aotA&index=16)
+[【不止遊戲】為戰爭而誕生的建築—防空塔是如何抵禦敵機空襲的？ - YouTube](https://www.youtube.com/watch?v=w3Qup9zVjbo)
+
+### Ground-to-Air Missile (GTAM)
 
 [Surface-to-air missile - Wikiwand](https://www.wikiwand.com/en/articles/Surface-to-air_missile)
 
@@ -541,6 +558,7 @@ It was called Flak 18 to mask to fact that it was designed in the 30's.
 [Schwerer Gustav - Wikiwand](https://www.wikiwand.com/en/Schwerer_Gustav)
 [World’s BIGGEST / MOST POWERFUL GUN ever built! (Heavy Gustav Railway Gun.) - YouTube](https://www.youtube.com/watch?v=As3NzDQknVc)
 [德國二戰的黑科技“多拉巨炮”，射程 50 公里，需要動用 4000 人發射「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=1ZxND8rMwmU)
+[The World's Most Powerful Gun - YouTube](https://www.youtube.com/watch?v=MWtXiFA6Mro)
 
 ## Rocket artillery
 
@@ -591,6 +609,11 @@ It was called Flak 18 to mask to fact that it was designed in the 30's.
 [二战最经典冲锋枪排名，M3 黄油枪倒数第二，波波沙冲锋枪位列榜首 - YouTube](https://www.youtube.com/watch?v=O8h5qcYmmcg)
 [火力最猛重机枪排名，马克沁重机枪垫底，KPV 重机枪位列榜首 - YouTube](https://www.youtube.com/watch?v=6fqWiZySy5w)
 [二战最经典轻机枪排名，日本九九式机枪垫底，榜首实至名归 - YouTube](https://www.youtube.com/watch?v=xZP7gXdFG40)
+
+### Pistol
+
+[How a Handgun Works: 1911 .45 - Animagraffs](http://animagraffs.com/how-a-handgun-works-1911-45/)
+[M1911，手槍之王！服役時間最長的手槍，美軍士兵的最愛！擊落零式戰機，戰爭史上的奇跡！點45與9毫米之爭，哪個更好用？| 勃朗寧 | 柯爾特 | M1900 | M9 | 火力君 | - YouTube](https://www.youtube.com/watch?v=UCFBiU8Nycs)
 
 ### Rifle
 

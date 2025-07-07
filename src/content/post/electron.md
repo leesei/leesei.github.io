@@ -2,7 +2,7 @@
 title: Electron
 description: ""
 created: 2015-07-19
-updated: 2025-01-09
+updated: 2025-03-22
 tags:
   - atom-shell
   - comp/lang
@@ -14,18 +14,18 @@ previously [Atom Shell](https://www.electronjs.org/blog/electron), is a platform
 
 [#216: GitHub's Electron with Zeke Sikelianos - Changelog](https://changelog.com/216/)
 [ELECTRON: why people HATE it, why devs USE it - YouTube](https://www.youtube.com/watch?v=G1K0Mb-rLBU)
-
-[Build a Desktop App with Electron... But Should You? - YouTube](https://www.youtube.com/watch?v=3yqDxhR2XxE&t=0s)
-[How to Use Electron.js for Building Desktop Applications with JavaScript, HTML, and CSS - DEV Community](https://dev.to/bellatrick/how-to-use-electronjs-for-building-desktop-applications-with-javascript-html-and-css-4kpn)
-[Cracking Electron apps open](https://fasterthanli.me/articles/cracking-electron-apps-open)
-
-[sindresorhus/awesome-electron: Useful resources for creating apps with Electron](https://github.com/sindresorhus/awesome-electron)
-[sudhakar3697/awesome-electron-alternatives: A curated list of awesome Electron alternatives.](https://github.com/sudhakar3697/awesome-electron-alternatives)
-
-[Electron 开发，如何入坑？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247485487&idx=1&sn=5e02f85b42f3a4bc966f17c8e42aed60&source=41)
+[Is Electron really that bad? - YouTube](https://www.youtube.com/watch?v=WdmfFmwsGDo)
+[Build a Desktop App with Electron... But Should You? - YouTube](https://www.youtube.com/watch?v=3yqDxhR2XxE)
 
 [Getting Started w/ Electron - YouTube](https://www.youtube.com/playlist?list=PL_2VhOvlMk4XWvfNRz0oS0dbbTewX6iYG) 2021-12
 [Electron Mini Tutorials - YouTube](https://www.youtube.com/playlist?list=PL_2VhOvlMk4XLzvGgqbmjF9PkVgUGMDcJ)
+
+[How to Use Electron.js for Building Desktop Applications with JavaScript, HTML, and CSS - DEV Community](https://dev.to/bellatrick/how-to-use-electronjs-for-building-desktop-applications-with-javascript-html-and-css-4kpn)
+[Cracking Electron apps open](https://fasterthanli.me/articles/cracking-electron-apps-open)
+[Electron 开发，如何入坑？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247485487&idx=1&sn=5e02f85b42f3a4bc966f17c8e42aed60&source=41)
+
+[sindresorhus/awesome-electron: Useful resources for creating apps with Electron](https://github.com/sindresorhus/awesome-electron)
+[sudhakar3697/awesome-electron-alternatives: A curated list of awesome Electron alternatives.](https://github.com/sudhakar3697/awesome-electron-alternatives)
 
 [WebView2 and Electron | Electron](https://www.electronjs.org/blog/webview2) WebView2 is available on OS level
 

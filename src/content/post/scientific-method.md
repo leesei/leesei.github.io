@@ -2,7 +2,7 @@
 title: Scientific Method
 description: ""
 created: 2015-12-11
-updated: 2025-01-10
+updated: 2025-04-25
 tags:
   - science
 ---
@@ -39,6 +39,14 @@ Most research population are WEIRD - Western, Educated and from Industrialized, 
 [Sci-Hub - Wikiwand](https://www.wikiwand.com/en/Sci-Hub) actually piracy
 [Sci-Hub](https://sci-hub.hkvisa.net/)
 [Sci-Hub: removing barriers in the way of science](https://sci-hub.ren/)
+
+[我让AI教我学习，结果她骂我！ - YouTube](https://www.youtube.com/watch?v=9DRkrGinuLo)
+[LYiHub/mad-professor-public: An AI companion for reading papers.](https://github.com/LYiHub/mad-professor-public)
+
+## Generative AI
+
+[A weird phrase is plaguing scientific papers – and we traced it back to a glitch in AI training data](https://theconversation.com/a-weird-phrase-is-plaguing-scientific-papers-and-we-traced-it-back-to-a-glitch-in-ai-training-data-254463) AI learnt "vegetative electron microscopy"
+[[2107.06751] Tortured phrases: A dubious writing style emerging in science. Evidence of critical issues affecting established journals](https://arxiv.org/abs/2107.06751)
 
 ## Replication Crisis
 
@@ -84,14 +92,6 @@ Western studies usually targets WEIRD (Western, educated, industrialized, rich a
 
 Flow visualization
 [The Science Behind Dogs' Incredible Sense Of Smell - YouTube](https://www.youtube.com/watch?v=TILjzuBGkRc) Schlieren Imaging, Shadow Graph, Laser Sheet
-
-[How Do Night Vision Goggles Work? (There's 3 types) - YouTube](https://www.youtube.com/watch?v=UAeJHAFjwPM)
-
-- Active illumination
-- Image intensification
-- Thermal Imaging
-
-[The Plates & Tubes Behind Night Vision - YouTube](https://www.youtube.com/watch?v=bqi9aWs1H1I)
 
 ## Occam's razor
 

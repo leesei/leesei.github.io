@@ -2,7 +2,7 @@
 title: Khronos Group
 description: ""
 created: 2015-01-05
-updated: 2025-01-09
+updated: 2025-03-10
 tags:
   - comp/lang
   - opengl
@@ -37,6 +37,8 @@ The shader programs are loaded to a OpenGL application (context/shell) for execu
 [Shaders : second stage](http://notes.underscorediscovery.com/shaders-second-stage/)
 
 ## [GPGPU](http://en.wikipedia.org/wiki/GPGPU)
+
+[The Chaotic State of GPU Programming - YouTube](https://www.youtube.com/watch?v=9-DiGrnz8l8)
 
 [CUDA](http://en.wikipedia.org/wiki/CUDA) provides an architecture for general-purpose computation in GPU, and is more flexible then shading languages in terms of memory access but lacks some of the graphic specific features. The program is loaded as "kernel" to the GPU without a need for graphic "shell". The host and kernels can communicate and synchronize with each other.
 CUDA sits on top of specific language such as OpenCL, DirectX, CUDA C.

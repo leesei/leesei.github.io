@@ -2,7 +2,7 @@
 title: Ancient Civilizations
 description: ""
 created: 2020-01-23
-updated: 2025-01-09
+updated: 2025-07-05
 tags:
   - history
 ---
@@ -26,21 +26,20 @@ Civilization:
 [Ancient Origins | Reconstructing the story of humanity's past](https://www.ancient-origins.net/)
 [Smarthistory – art history](https://smarthistory.org/)
 
-[The Goths - World History Encyclopedia](https://www.worldhistory.org/Goths/)
-[Phoenician Colonization - World History Encyclopedia](https://www.worldhistory.org/Phoenician_Colonization/)
-[Kings and Generals - YouTube](https://www.youtube.com/@KingsandGenerals/featured)
-[Fall of Civilizations - YouTube](https://www.youtube.com/@FallofCivilizations)
-[英语的前世今生(和七大姑八大姨) - YouTube](https://www.youtube.com/watch?v=uKUjt4gpZNM)
 [Ancient History - YouTube](https://www.youtube.com/playlist?list=PLxZAPogJjW_itd420UVkM1Aq09AW8B9h0)
+[Ancient Mediterranean History - YouTube](https://www.youtube.com/playlist?list=PLDb22nlVXGgd0-Obov_tdEh1cNKIvXcMm) Overly Sarcastic Productions
+[Epimetheus - YouTube](https://www.youtube.com/@EpimetheusHistory/)
+[Fall of Civilizations - YouTube](https://www.youtube.com/@FallofCivilizations)
+[Historia Civilis - YouTube](https://www.youtube.com/@HistoriaCivilis/)
+[Kings and Generals - YouTube](https://www.youtube.com/@KingsandGenerals/featured)
+[Phoenician Colonization - World History Encyclopedia](https://www.worldhistory.org/Phoenician_Colonization/)
+[The Generalist Papers - YouTube](https://www.youtube.com/@TheGeneralistPapers)
+[The Goths - World History Encyclopedia](https://www.worldhistory.org/Goths/)
+[英语的前世今生(和七大姑八大姨) - YouTube](https://www.youtube.com/watch?v=uKUjt4gpZNM)
 
 [【鎮館之寶+系列】大英博物館·序章 人類的最強記憶！ - YouTube](https://www.youtube.com/watch?v=e-kxMY8cmjc)
 
 [Beginnings - 600 BCE | World history | Arts and humanities | Khan Academy](https://www.khanacademy.org/humanities/world-history/world-history-beginnings)
-
-[Historia Civilis - YouTube](https://www.youtube.com/channel/UCv_vLHiWVBh_FR9vbeuiY-A)
-[Epimetheus - YouTube](https://www.youtube.com/channel/UCp9ZtilfKJds0iWytR_pnOQ/about)
-[Fall of Civilizations - YouTube](https://www.youtube.com/channel/UCT6Y5JJPKe_JDMivpKgVXew)
-[Ancient Mediterranean History - YouTube](https://www.youtube.com/playlist?list=PLDb22nlVXGgd0-Obov_tdEh1cNKIvXcMm) Overly Sarcastic Productions
 
 The History of English Podcast 9-12
 [The History of English Podcast] Episode 11: Germanic Ancestors
@@ -70,27 +69,54 @@ the discovery pre-Christian Greek culture caused a cultural revolution in Europe
 Normans = North mans migrated from Scandinavia to northern Franks
 They brings Norse culture to both Franks and England.
 
-## Stone Age
+## Human Evolution
 
+[为什么说人类的直立行走是极端小概率事件？ - YouTube](https://www.youtube.com/watch?v=8pl4uO1d4Ok)
 [【鬼谷闲谈】你给我解释解释什么叫打制石器？啊？石器你就是这么发展的？ - YouTube](https://www.youtube.com/watch?v=E1dSM3PLbZk)
 
 ## The Seven Wonders
 
+[Seven Wonders of the Ancient World - Wikiwand](https://www.wikiwand.com/en/articles/The%20Seven%20Wonders)
 [The Seven Wonders - World History Encyclopedia](https://www.worldhistory.org/The_Seven_Wonders/)
 [The Seven Wonders of Ancient World](https://www.thearchaeologist.org/blog/the-seven-wonders-of-ancient-world)
+[【七週年紀念】世界七大奇蹟 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=5FEqfB-KRmY)
 
-## Alphabet from Greek
+[What happened to the World Wonders? - YouTube](https://www.youtube.com/watch?v=_pKIPqrTh9s)
 
-> Bronze Age history in a linguistic view
+[Great Pyramid of Giza - Wikiwand](https://www.wikiwand.com/en/articles/Great_Pyramid_of_Giza)
+[Hanging Gardens of Babylon - Wikiwand](https://www.wikiwand.com/en/articles/Hanging_Gardens_of_Babylon)
+[Statue of Zeus at Olympia - Wikiwand](https://www.wikiwand.com/en/articles/Statue_of_Zeus_at_Olympia)
+[Temple of Artemis at Ephesus - Wikiwand](https://www.wikiwand.com/en/articles/Temple_of_Artemis)
+[Mausoleum at Halicarnassus - Wikiwand](https://www.wikiwand.com/en/articles/Mausoleum_at_Halicarnassus)
+[Colossus of Rhodes - Wikiwand](https://www.wikiwand.com/en/articles/Colossus_of_Rhodes)
+[Lighthouse of Alexandria - Wikiwand](https://www.wikiwand.com/en/articles/Lighthouse_of_Alexandria)
+
+## Alphabets
 
 [Writing Systems of the World | Abjads, Alphabets, Abugidas, Syllabaries & Logosyllabaries - YouTube](https://www.youtube.com/watch?v=Mmz42awTRsA)
 [Evolution of the Alphabet | Earliest Forms to Modern Latin Script - YouTube](https://www.youtube.com/watch?v=3kGuN8WIGNc)
-[Who Invented the Alphabet? | History | Smithsonian Magazine](https://www.smithsonianmag.com/history/inventing-alphabet-180976520/) findings in Eygpt
+[Who Invented the Alphabet? | History | Smithsonian Magazine](https://www.smithsonianmag.com/history/inventing-alphabet-180976520/) findings in Egypt
 [人類最早的文字是怎麼發明的? 英語、泰文、阿拉伯語..全都是親戚 - YouTube](https://www.youtube.com/watch?v=um611eXu5yM)
 
-[The Generalist Papers - YouTube](https://www.youtube.com/channel/UCN9UPjA8I-uwvAy0-N9maOA)
+The Generalist Papers
 [The History of the Alphabet - YouTube](https://www.youtube.com/watch?v=w6yonf-SAXw)
+[The 7 Forgotten Letters of the Alphabet - YouTube](https://www.youtube.com/watch?v=J18Pd0h_N0c)
 [Why Are There UPPER Case and lower Case Letters? - YouTube](https://www.youtube.com/watch?v=9-clrKOp5Co)
+
+RobWords
+[THE ALPHABET EXPLAINED: The origin of every letter - YouTube](https://www.youtube.com/watch?v=CYqqFqoLnnk)
+[A guide to our alphabet - YouTube](https://www.youtube.com/watch?v=tBQCup27ukE)
+[LOST LETTERS OF THE ALPHABET: 9 letters we stopped using - YouTube](https://www.youtube.com/watch?v=wJxKyh9e5_A)
+
+### Norman Runes
+
+[Why we should go back to writing in runes - YouTube](https://www.youtube.com/watch?v=4npuVmGxXuk)
+
+[ᚠᚢᚦᚩᚱᚳ](https://www.harysdalvi.com/futhorc)
+[Rune Converter](https://valhyr.com/pages/rune-converter)
+[Rundata-net](https://www.rundata.info/)
+
+## Bronze Age history in a linguistic view
 
 rivalry between cultures
 Indo-European vs Egyptian and Semitic civilization:
@@ -119,7 +145,7 @@ the invasion of the sea people, volcanic eruptions, famines attributed to the en
 [The Bronze Age Collapse (approximately 1200 B.C.E.) - YouTube](https://www.youtube.com/watch?v=aq4G-7v-_xI)
 [What was life like after the Bronze Age collapse (Extended Version) - YouTube](https://www.youtube.com/watch?v=uM6JSS3l-IQ) 1:00:12
 
-Semitic linguistic group moved to Canaan. Hebrew called other Semitic speaking tribes living there Canaanite, Greeks called them Phoenician. Hebrew controls southern Canaan after the exodus. Philistines, which is connected to the Greeks (maybe refugee during the invasion of sea people), controlled the southernmost coastline of Canaan and conflicted with the Hebrews. Phoenician is then used to refer to the Semitic speaking tribes living in the northern Canaan.
+Semitic linguistic group moved to Canaan. Hebrew called other Semitic speaking tribes living there Canaanite, Greeks called them Phoenician. Hebrew controls southern Canaan after the Exodus. Philistines, which is connected to the Greeks (maybe refugee during the invasion of sea people), controlled the southernmost coastline of Canaan and conflicted with the Hebrews. Phoenician is then used to refer to the Semitic speaking tribes living in the northern Canaan.
 Phoenicia = Lebanon + northern Syria
 Phoenician is great at trading and have trade routes and colonies throughout Europe spreading to England
 one colony, Carthage in north Africa, fought with Romans in the Punic War during Hannibal's time
@@ -205,9 +231,21 @@ around the same time, the British Romans were attacked by the Celtic Picks from 
 [Ancient Greece – Smarthistory](https://smarthistory.org/ancient-mediterranean/ancient-greece/)
 [古希腊历史/History of Greece - YouTube](https://www.youtube.com/playlist?list=PLoFIX_udvBZnqI678oWSznqlGXXw_T5vO) 佚名
 
+### Greco-Persian Wars
+
 [Greco-Persian Wars - Wikiwand](https://www.wikiwand.com/en/Greco-Persian_Wars) 499–449 BC
 [波希戰爭 - Wikiwand](https://www.wikiwand.com/zh/%E6%B3%A2%E5%B8%8C%E6%88%98%E4%BA%89)
 [波希戰爭 ► 雅典、斯巴達與波斯的愛恨情仇 有趣的古希臘 - YouTube](https://www.youtube.com/watch?v=nG1PhaLkvjk)
+[深度解析『斯巴达300勇士』,野蛮与文明仅仅一步之隔；全面解析波希战争； - YouTube](https://www.youtube.com/watch?v=0nLwUhr9kWs)
+
+[First Persian invasion of Greece - Wikiwand](https://www.wikiwand.com/en/articles/First_Persian_invasion_of_Greece)
+[Battle of Marathon - Wikiwand](https://www.wikiwand.com/en/articles/Battle_of_Marathon)
+First Persian invasion in 493BC ended when Athens defeat Darius I's army at the Battle of Marathon
+
+[Second Persian invasion of Greece - Wikiwand](https://www.wikiwand.com/en/articles/Second_Persian_invasion_of_Greece)
+[Battle of Thermopylae - Wikiwand](https://www.wikiwand.com/en/articles/Battle_of_Thermopylae) 溫泉關
+[Battle of Artemisium - Wikiwand](https://www.wikiwand.com/en/articles/Battle_of_Artemisium)
+f
 [Misunderstood Moments in History - Why the Persians Failed to Conquer Greece - YouTube](https://www.youtube.com/watch?v=ZlwIKh2Qk14)
 
 [雅典式民主如何運作? 一人一票是真民主還是暴民政治? - YouTube](https://www.youtube.com/watch?v=8mu-aRRoy60)
@@ -260,6 +298,7 @@ around the same time, the British Romans were attacked by the Celtic Picks from 
 ## Indian
 
 [古印度歷史|動畫科普|古印度和今天的印度一樣嗎|南亞次大陸|古印度文明|古印度簡介|孔雀王朝|阿育王|印度種姓制度|摩亨佐達羅|印度河文明|印度文明是誰創造的|四大古文明|婆羅門教|古印度怎麼滅亡的| - YouTube](https://www.youtube.com/watch?v=1JhOK9u1n6s)
+[一口氣看完超神奇印度史：印度爲何那麽多神婆神童？印度教為何會取代佛教？玄奘西行有何意圖？| 床台 - YouTube](https://www.youtube.com/watch?v=p5olg-vdlo4)
 
 ## Empires
 
@@ -278,10 +317,25 @@ When Rome Empire crumbles, the Greek speaking officials fled to modern Turkey an
 
 [The History of the Ottoman Empire (All Parts) - 1299 - 1922 - YouTube](https://www.youtube.com/watch?v=f9c4Y7Vf7G0) 1:32:05
 
+## Khmer Empire
+
+[Khmer Empire - Wikiwand](https://www.wikiwand.com/en/articles/Khmer_Empire)
+[高棉帝国 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E5%90%B4%E5%93%A5%E7%8E%8B%E6%9C%9D)
+
+[Angkor - Wikiwand](https://www.wikiwand.com/en/articles/Angkor)
+[吴哥古迹 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E5%90%B4%E5%93%A5%E5%8F%A4%E8%BF%B9)
+[Angkor Wat - Wikiwand](https://www.wikiwand.com/en/articles/Angkor_Wat)
+[吴哥窟 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E5%90%B4%E5%93%A5%E7%AA%9F)
+[吳哥窟：叢林中的亞特蘭蒂斯，100萬人口？前工業時代世界上最大的城市？古代農業黑科技？失落之謎？層層深入，原來這不僅僅是一個旅遊景點……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=LWALlKJ3mBE)
+
 ### Islamic Empire
 
-[伊斯蘭是怎麼來的？穆聖娶了她才建教？古蘭經真的很極端嗎？ ｜中東千年宗教紛爭｜伊斯蘭史詩 01 ｜思維實驗室 - YouTube](https://www.youtube.com/watch?v=KAMQkVzhiMg)
-[伊斯蘭的沒落要怪安史之亂？阿拉伯帝國的興衰原理分析 ｜什葉派與遜尼派的鬥爭｜伊斯蘭史詩 02 ｜思維實驗室 - YouTube](https://www.youtube.com/watch?v=-NIG69wnMoY)
+[List of Muslim states and dynasties - Wikiwand](https://www.wikiwand.com/en/articles/Islamic%20Empire)
+
+The Islamic Empire practiced Theocracy (政教合一), do refer to the religious history
+
+[[religion#Islamism]]
+[[history-middle-east#以巴衝突]]
 
 ### Russian Empire
 
@@ -289,6 +343,7 @@ When Rome Empire crumbles, the Greek speaking officials fled to modern Turkey an
 [是「白俄羅斯」還是「白羅斯」? 烏克蘭、俄羅斯、白羅斯的共同起源故事! (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=cEJWyLzbXbs)
 [恩怨一千年 ▶ 烏克蘭與俄羅斯有什麼深仇大恨? 克里米亞危機、頓巴斯戰爭的前因後果 - YouTube](https://www.youtube.com/watch?v=zuoqLNK8_mc)
 [战斗民族俄罗斯的前世今生 The History of Russia【柴知道 ChaiKnows】【科普】 - YouTube](https://www.youtube.com/watch?v=h4k5UapmYhQ)
+[一口氣看完俄羅斯史：俄烏結局早注定？斯拉夫人的致命弱點！| 為什麼他們侵略成性？ | 床台 - YouTube](https://www.youtube.com/watch?v=oqS2DFWYoa8)
 
 ---
 

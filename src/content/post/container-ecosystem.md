@@ -2,7 +2,7 @@
 title: Container Ecosystem
 description: ""
 created: 2014-12-11
-updated: 2025-01-09
+updated: 2025-06-20
 tags:
   - container
   - dev/deploy
@@ -148,7 +148,7 @@ root         6  0.0  0.0  17504  1984 ?        R+   00:30   0:00 ps aux
 [[docker]]
 [[rkt]]
 
-[Welcome to Vagga’s documentation! — Vagga documentation](http://vagga.readthedocs.org/en/latest/)
+[Welcome to Vagga’s documentation! — Vagga documentation](http://vagga.readthedocs.io/en/latest/)
 
 [Docker vs LXC](https://www.upguard.com/articles/docker-vs-lxc)
 [Flockport - LXC vs Docker](https://archives.flockport.com/lxc-vs-docker/)
@@ -295,6 +295,11 @@ Compared to the Docker Engine, containerd exposes essentially a CRUD interface a
 [Open Container Initiative Launches a Container Image Format Spec - The New Stack](http://thenewstack.io/open-container-initiative-launches-container-image-format-spec/)
 [Containerd 1.0 Release Becomes the Public Face of Containers - The New Stack](https://thenewstack.io/containerd-1-0-release/)
 [Docker components explained](http://alexander.holbreich.org/docker-components-explained/)
+
+### Apple Container
+
+[apple/container: A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.](https://github.com/apple/container)
+[Apple Container vs. Docker Desktop – 4sysops](https://4sysops.com/archives/apple-container-vs-docker-desktop/)
 
 ### Docker in Windows
 

@@ -2,7 +2,7 @@
 title: Writing Good Code
 description: ""
 created: 2023-06-10
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - programmer
 ---
@@ -13,6 +13,7 @@ tags:
 [Clean Coders - YouTube](https://www.youtube.com/@Cleancoders)
 [CodeAesthetic - YouTube](https://www.youtube.com/@CodeAesthetic)
 [Alex Hyett - YouTube](https://www.youtube.com/@alexhyettdev/featured)
+[CodeOpinion - YouTube](https://www.youtube.com/@CodeOpinion)
 
 [Software Programming - YouTube](https://www.youtube.com/playlist?list=PLUxszVpqZTNShoypLQW9a4dEcffsoZT4k)
 Clean Code by Uncle bob

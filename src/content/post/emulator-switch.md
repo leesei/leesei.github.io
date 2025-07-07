@@ -2,7 +2,7 @@
 title: Switch Emulator
 description: ""
 created: 2023-06-12
-updated: 2025-01-09
+updated: 2025-07-06
 tags:
   - emulator
   - games
@@ -27,9 +27,8 @@ tags:
 > Yuzu discontinued due to a lawsuit from Nintendo in 2024-03
 
 [yuzu](https://github.com/yuzu-mirror)
+[Yuzu Emulator Download | Nintendo Switch | Emu Yuzu](https://emuyuzu.com/v6/)
 
-[Quickstart Guide - yuzu](https://yuzu-emu.org/help/quickstart/#setting-up-the-decryption-keys-and-firmware)
-[How to Install NSP Update or DLC on Yuzu and Ryujinx](https://eggnsemulator.com/how-to-install-nsp-update-of-any-game-on-yuzu-and-ryujinx-emulator/)
 `<yuzu>`: "File" > "Open Yuzu Folder"
 Keys: , put under `<yuzu>/keys/`
 Firmware: extract `.nca`'s to `<yuzu>/nand/system/Contents/registered/`
@@ -70,6 +69,12 @@ Mods: Right click game > "Open Mods Directory"
 
 [Guide to Setup Suyu Emulator & Play Switch Games on PC](https://suyuemulator.com/setup/)
 
+## Eden
+
+> based on Yuzu
+
+[Eden - Nintendo Switch Emulator](https://eden-emulator.github.io/)
+
 ## Sudachi
 
 [Sudachi Emulator: Multi-Platform Switch Emulator like Yuzu](https://sudachi-emu.com/home/)
@@ -81,6 +86,10 @@ Mods: Right click game > "Open Mods Directory"
 > Fork of Yuzu
 
 [Nyushu Emulator- New Nintendo Switch Emulator for Android](https://nyushu.net/)
+
+## Citron
+
+[Citron Emulator Nintendo Switch Homebrew 3DS Emulator](https://citron-emu.pro/)
 
 ## Egg NS Emulator
 
@@ -107,51 +116,50 @@ Mods: Right click game > "Open Mods Directory"
 [Nintendo Switch Roms - Download nintendo switch roms for free](https://switchroms.org/)
 [nsw2u.com | Download Switch Roms eShop NSP XCI NSZ](https://nsw2u.com/)
 [Nintendo Switch NSP List - Ziperto](https://www.ziperto.com/nintendo-switch-nsp-list/)
-[NXBrew.com | Free Nintendo Switch Gaming XCI, NSP Downloads](https://nxbrew.com/)
+[Download Game Nintendo - Switch, Wii, WiiU, 3DS, DS](https://nswgame.com/)
+https://nsw2u.com/page/50
 
-[DAVE THE DIVER Switch NSP + Update + DLC (eShop) | NXBrew.com](https://nxbrew.com/dave-the-diver-switch-nsp-update-eshop/)
+DAVE THE DIVER https://nsw2u.com/dave-the-diver-switch-nsp v1.0.3.972 + 4DLC
 
-A Monster's Expedition PUZZLE https://nxbrew.com/a-monsters-expedition-switch-nsp-update-eshop/ https://switchroms.co/a-monsters-expedition/
-[ Switch NSP/XCI + Update 1.0.8 + DLC [ASIA/JPN] | NXBrew.com](https://nxbrew.com/futari-de-nyanko-daisensou-switch-nsp-update-dlc-eshop/)
+[Shady Part of Me XCI NSP NSZ Download | SwitchXCI](https://xcigamesdd.com/shady-part-of-me/)
 
-Slash Quest ARPG
+Chants of Sennaar PUZZLE
 Persona 3 Reload RPG
-Ace Attorney Investigations Collection POINT
 The Rogue Prince of Persia Platformer
 Haven Park RPG
 Terror of Hemasaurus ACT, co-op
 Ember Knights ACT
-SUPER BOMBERMAN R 2 ACT https://nxbrew.com/super-bomberman-r-2-switch-xci-update/
-Mario Kart 8 Deluxe SPORTS https://nxbrew.com/mario-kart-8-deluxe-switch-nsp-update/
-STAR OCEAN: First Departure R RPG https://nxbrew.com/star-ocean-first-departure-r-switch-nsp-eshop/
-STAR OCEAN THE SECOND STORY R RPG https://nxbrew.com/star-ocean-the-second-story-r-switch-xci-update/
-The Simpsons：Hit and Run https://nxbrew.com/the-simpsons%ef%bc%9ahit-and-run-switch-nsp/
-超級舞動 瓦利歐製造 WarioWare Move It https://nxbrew.com/warioware-move-it-switch-xci/ https://nsw2u.com/warioware-move-it-switch-nsp-xci
-Super Mario Bros. Wonder 超級瑪利歐兄弟 驚奇 https://nxbrew.com/super-mario-bros-wonder-switch-xci-nsp/
+SUPER BOMBERMAN R 2 ACT
+Mario Kart 8 Deluxe SPORTS
+STAR OCEAN: First Departure R RPG
+STAR OCEAN THE SECOND STORY R RPG
+The Simpsons：Hit and Run
+超級舞動 瓦利歐製造 WarioWare Move It https://nsw2u.com/warioware-move-it-switch-nsp-xci
+Super Mario Bros. Wonder 超級瑪利歐兄弟 驚奇
+Patapon 1-2
+節奏天國
 
-[METAL GEAR SOLID - Master Collection Version Switch NSP/XCI + Update + DLC [USA/EUR/JPN] (eShop) | NXBrew.com](https://nxbrew.com/metal-gear-solid-master-collection-version-switch-nsp-update-dlc-eshop/)
-[METAL GEAR SOLID - Master Collection Version Switch NSP/XCI + Update + DLC [USA/EUR/JPN] (eShop) | NXBrew.com](https://nxbrew.com/metal-gear-solid-master-collection-version-switch-nsp-update-dlc-eshop/)
-[METAL GEAR SOLID 2: Sons of Liberty - Master Collection Version Switch NSP + Update + DLC (eShop) [USA/JPN] | NXBrew.com](https://nxbrew.com/metal-gear-solid-2-sons-of-liberty-master-collection-version-switch-nsp-update-dlc-eshop/)
-[METAL GEAR SOLID 3 Snake Eater - Master Collection Version Switch NSP + Update + DLC (eShop) | NXBrew.com](https://nxbrew.com/metal-gear-solid-3-snake-eater-master-collection-version-switch-nsp-update-dlc-eshop/)
+METAL GEAR SOLID - Master Collection
+METAL GEAR SOLID 2: Sons of Liberty - Master Collection
+METAL GEAR SOLID 3 Snake Eater - Master Collection
 
 ACTION:
 Death's Door
-Legacy of Kain Soul Reaver 1-2 Remastered
+Legacy of Kain Soul Reaver 1-2 Remastered https://www.ziperto.com/legacy-of-kain-soul-reaver-12-remastered-switch/ https://nsw2u.com/010079901c898000
 Star Wars Bounty Hunter
-Tunic https://nxbrew.com/tunic-switch-nsp-eshop/
-de Blob 2 (co-op) https://nxbrew.com/de-blob-2-switch-nsp-update-eshop/
+Tunic
+de Blob 2 (co-op)
 
 BEAT 'EM UP:
-Fire Emblem Warriors https://eggnsemulator.com/download-fire-emblem-warriors-nsp-xci-rom/ https://nxbrew.com/fire-emblem-warriors-switch-nsp-update-dlc/ Torrent
-Fire Emblem Warriors Three Hopes https://eggnsemulator.com/download-fire-emblem-warriors-three-hopes-nsp-xci-rom/ https://nxbrew.com/fire-emblem-warriors-three-hopes-switch-nsp-eshop/ Torrent
 ONE PIECE: PIRATE WARRIORS 4 https://eggnsemulator.com/download-one-piece-pirate-warriors-4-nsp-xci-rom/
 ONE PIECE: Unlimited World Red Deluxe Edition https://eggnsemulator.com/download-one-piece-unlimited-world-red-deluxe-edition-nsp-xci-rom/
 ONE PIECE World Seeker
 
 PLATFORMER:
+
 The Adventure Pals (co-op) $9.9
 Record of Lodoss War: Deedlit in Wonder Labyrinth
-Disney Illusion Island https://nxbrew.com/disney-illusion-island-switch-nsp-update/
+Disney Illusion Island
 Super Mario 3D World + Bowser's Fury
 
 PUZZLE:
@@ -159,12 +167,12 @@ Fling to the Finish (co-op)
 Moving Out 2 (co-op)
 Luigi Mansion 2 HD
 Captain Toad: Treasure Tracker https://eggnsemulator.com/download-captain-toad-treasure-tracker-nsp-xci-rom/
-BOXBOY! ＋ BOXGIRL! https://nxbrew.com/boxboy-boxgirl-switch-nsp-update-eshop/
-Wizardry School: Escape Room PUZZLE https://nxbrew.com/wizardry-school-escape-room-switch-nsp-eshop/
+BOXBOY! ＋ BOXGIRL!
+Wizardry School: Escape Room
 
 RPG:
 Bravery Default II https://romsfun.me/roms/switch/bravely-default-ii.html https://switchroms.us/switch-game/bravely-default-ii.html
-ONE PIECE ODYSSEY Deluxe Edition https://nxbrew.com/one-piece-odyssey-deluxe-edition-switch-xci/
+ONE PIECE ODYSSEY Deluxe Edition
 Disgaea 1 Complete
 Disgaea 4 Complete
 Disgaea 5 Complete
@@ -182,12 +190,12 @@ FINAL FANTASY X/X-2 HD Remaster https://eggnsemulator.com/download-final-fantasy
 Final Fantasy XII The Zodiac Age
 FINAL FANTASY CRYSTAL CHRONICLES Remastered Edition
 Soulvars
-Voice of Cards: The Isle Dragon Roars https://nxbrew.com/voice-of-cards-the-isle-dragon-roars-switch-nsp-eshop/ https://rpgonly.com/voice-of-cards-the-beasts-of-burden-switch-nsp-all-dlc-v1/
+Voice of Cards: The Isle Dragon Roars https://rpgonly.com/voice-of-cards-the-beasts-of-burden-switch-nsp-all-dlc-v1/
 Voice of Cards: The Forsaken Maiden
 Voice of Cards: The Beasts of Burden
 
 SLG:
-Transformers: Battleground https://nxbrew.com/transformers-battlegrounds-switch-nsp-update-dlcs-eshop/
+Transformers: Battleground
 Front Mission 1st: Remake
 Front Mission 2: Remake
 Front Mission 3: Remake
@@ -236,6 +244,7 @@ Red Dead Redemption v1.0.2
 The Legend of Zelda: Link’s Awakening
 The Legend of Zelda: Skyward Sword HD v1.0.1
 The Legend of Zelda: Tears of the Kingdom v1.2.0
+LEGO Horizon Adventures v1.1.0
 
 ### BEAT 'EM UP
 
@@ -243,6 +252,8 @@ Hyrule Warriors: Age of Calamity v1.3.0+DLCs
 SD Shin Kamen Rider Rumble
 Persona 5 Strikers
 The Wonderful 101: Remastered v1.1.0
+Fire Emblem Warriors v1.5.0+5DLC
+Fire Emblem Warriors Three Hopes v1.0.2+DLC
 
 ### PLATFORMER
 
@@ -251,6 +262,7 @@ Sonic Forces v1.1.0+6DLC
 Sonic Frontiers v1.4.1+9DLC
 
 A Hat in Time
+BAKERU v1.0.2
 Castlevania Dominus Collection
 Disney Epic Mickey: Rebrushed v1.0.2+1D
 Donkey Kong Country Tropical Freeze v1.0.2
@@ -258,14 +270,15 @@ Kirby Star Allies v4.0.0 (co-op)
 Kirby’s Return to Dream Land Deluxe (co-op)
 KLONOA Phantasy Reverie Series v1.0.1+4DLC
 Oddworld: Soulstorm Enhanced Edition v1.1.1
-Prince of Persia: The Lost Crown v1.2.0+3DLC
+Prince of Persia: The Lost Crown v1.2.0+3DLC v1.4.2+6DLC
 Super Mario 3D All Stars (Super Mario 64, Super Mario Sunshine, Super Mario Galaxy) (Ryujinx)
 Trine 5 A Clockwork Conspiracy v1.0.5 (co-op)
 Yoshi's Crafted world (co-op)
+Donkey Kong Country Returns HD
 
 ### POINT AND CLICK
 
-Ace Attorney Investigations v1.0.0.1+DLC
+Ace Attorney Investigations Collection v1.0.0.1+DLC
 Phoenix Wright: Ace Attorney Trilogy (逆転裁判 1-3)
 Apollo Justice Ace Attorney Trilogy (逆転裁判 4-6) (Ryujinx)
 The Great Ace Attorney Chronicles (大逆転裁判 1＆2)
@@ -339,6 +352,7 @@ Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island v2.0.1+1D
 SPYxANYA: Operation Memories v1.0.1
 Super Mario RPG v1.0.1 (remake)
 Trinity Trigger v1.0.4+7DLC
+Stray v1.0.6
 
 ### SIMULATION
 
@@ -350,7 +364,7 @@ Let's Build A Zoo v1.0.6+1DLC
 
 ### SLG
 
-Backpack Hero v1.0.4
+Backpack Hero v1.0.4 <delete>
 Cross Tails v1.01
 Fire Emblem Engage v2.0+2DLC
 Fire Emblem: Three Houses v1.2.0+1DLC
@@ -360,7 +374,7 @@ Metal Slug Tactics v1.0.2
 Persona 5 Tactica 1.0.3+4DLC
 SteamWorld Heist II v1.5
 Tactics Ogre: Reborn v1.0.3
-The Battle Cats Unite / Futari de! Nyanko Daisensou
+The Battle Cats Unite / Futari de! Nyanko Daisensou v1.0.8 + DLC
 Triangle Strategy v1.1.0
 Unicorn Overlord v1.05+2DLC
 
@@ -406,4 +420,4 @@ Graphics -> Advanced -> ASTC Recompression, BC1 or BC3
 [Syncing Yuzu save files :: Steam Deck Discusiones generales](https://steamcommunity.com/app/1675200/discussions/0/3428948355361098509/)
 
 [JDHatten/Switch-Save-Game-Transfer: This script will allow you to easily transfer your game save files between Ryujinx and Yuzu Switch emulators.](https://github.com/JDHatten/Switch-Save-Game-Transfer)
-[Can i transfer Ryujinx save files to Yuzu? : yuzu](https://www.reddit.com/r/yuzu/comments/g2y0wl/comment/jlwq2op/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[Can i transfer Ryujinx save files to Yuzu? : yuzu](https://www.reddit.com/r/yuzu/comments/g2y0wl/comment/jlwq2op/)

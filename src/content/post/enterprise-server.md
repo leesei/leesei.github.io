@@ -2,7 +2,7 @@
 title: Enterprise Server
 description: ""
 created: 2016-02-17
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - comp/hardware
   - enterprise
@@ -228,7 +228,7 @@ Dell EMC SC All-flash Storage Arrays
 [QNAP Helpdesk -](https://helpdesk.qnap.com/index.php?)
 [NAS User Manual](https://www.qnap.com/en/support/con_show.php?cid=11)
 
-[QNAP Systems, Inc. - YouTube](https://www.youtube.com/channel/UCoRW41xIvQXqUW4B4QCqPgg)
+[QNAP Systems, Inc. - YouTube](https://www.youtube.com/@qnapsys)
 [QTS 4.3.5 preview: Enhance your storage to maximize performance - YouTube](https://www.youtube.com/watch?v=Za2smaY5q6M)
 
 [Qnap Advanced Support | Advanced Qnap Technical Support](http://qnapsupport.net/)

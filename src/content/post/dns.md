@@ -2,7 +2,7 @@
 title: DNS
 description: ""
 created: 2015-07-25
-updated: 2025-01-09
+updated: 2025-06-06
 tags:
   - web
 ---
@@ -22,9 +22,9 @@ tags:
 [What happens when a domain expires? | Hostinger Help Center](https://support.hostinger.com/en/articles/3004042-what-happens-when-a-domain-expires) domain name lifecycle
 [The states of domain expiration and redemption – Hover Help Center](https://help.hover.com/hc/en-us/articles/217282387-The-states-of-domain-expiration-and-redemption)
 
-[RFC 1034 - Domain names - concepts and facilities](https://tools.ietf.org/html/rfc1034)
-[RFC 1035 - Domain names - implementation and specification](https://tools.ietf.org/html/rfc1035)
-[RFC 2136 - Dynamic Updates in the Domain Name System (DNS UPDATE)](https://tools.ietf.org/html/rfc2136)
+[RFC 1034 - Domain names - concepts and facilities](https://datatracker.ietf.org/doc/html/rfc1034)
+[RFC 1035 - Domain names - implementation and specification](https://datatracker.ietf.org/doc/html/rfc1035)
+[RFC 2136 - Dynamic Updates in the Domain Name System (DNS UPDATE)](https://datatracker.ietf.org/doc/html/rfc2136)
 
 [An Introduction to Managing DNS | DigitalOcean](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-managing-dns)
 [Domains and DNS :: DigitalOcean Product Documentation](https://www.digitalocean.com/docs/networking/dns/)
@@ -62,6 +62,14 @@ Secondary Name Server (NS record) for second level domains and sub-domains
 
 [[network#Anycast]]
 
+## Public Suffix
+
+> for domain hosting subdomain created by users
+
+[Public Suffix List](https://publicsuffix.org/)
+[publicsuffix/list: The Public Suffix List](https://github.com/publicsuffix/list)
+[Public Suffix List - Wikiwand](https://www.wikiwand.com/en/articles/Public_Suffix_List)
+
 ## Domain Name
 
 [Domain name - Wikiwand](https://www.wikiwand.com/en/Domain_name)
@@ -80,6 +88,10 @@ Secondary Name Server (NS record) for second level domains and sub-domains
 [Security Benefits | Public DNS | Google Developers](https://developers.google.com/speed/public-dns/docs/security#cache_poisoning_attacks)
 
 [It's DNS again 😢 Did you know this Malware Hack? - YouTube](https://www.youtube.com/watch?v=slNe6z9gFv0) using DNS TXT record to distribute script
+
+## Configuring DNS
+
+[The Sisyphean Task Of DNS Client Config on Linux](https://tailscale.com/blog/sisyphean-dns-client-linux)
 
 ## CDN
 
@@ -262,6 +274,8 @@ Server Name Identification (SNI), a technology used by servers hosting multiple 
 
 ## Secure DNS
 
+[DNS over TLS vs. DNS over HTTPS | Secure DNS | Cloudflare](https://www.cloudflare.com/learning/dns/dns-over-tls/)
+[Cloudflare Browser Check | Cloudflare](https://www.cloudflare.com/ssl/encrypted-sni/)
 [Check if your browser uses Secure DNS, DNSSEC, TLS 1.3, and Encrypted SNI - gHacks Tech News](https://www.ghacks.net/2019/04/29/check-if-your-browser-uses-secure-dns-dnssec-tls-1-3-and-encrypted-sni/)
 [DNS Security and Privacy — Choosing the right provider](https://medium.com/@nykolas.z/dns-security-and-privacy-choosing-the-right-provider-61fc6d54b986)
 
@@ -279,9 +293,9 @@ Server Name Identification (SNI), a technology used by servers hosting multiple 
 
 [LINUX Unplugged 309: The Future is Open](https://linuxunplugged.com/309)
 
-[RFC 7626 - DNS Privacy Considerations](https://tools.ietf.org/html/rfc7626)
-[RFC 7858 - Specification for DNS over Transport Layer Security (TLS)](https://tools.ietf.org/html/rfc7858)
-[RFC 8310 - Usage Profiles for DNS over TLS and DNS over DTLS](https://tools.ietf.org/html/rfc8310)
+[RFC 7626 - DNS Privacy Considerations](https://datatracker.ietf.org/doc/html/rfc7626)
+[RFC 7858 - Specification for DNS over Transport Layer Security (TLS)](https://datatracker.ietf.org/doc/html/rfc7858)
+[RFC 8310 - Usage Profiles for DNS over TLS and DNS over DTLS](https://datatracker.ietf.org/doc/html/rfc8310)
 
 ### DNSSEC
 
@@ -291,9 +305,14 @@ Server Name Identification (SNI), a technology used by servers hosting multiple 
 [How DNSSEC Works | Cloudflare](https://www.cloudflare.com/dns/dnssec/how-dnssec-works/)
 [DNSSEC – What Is It and Why Is It Important? - ICANN](https://www.icann.org/resources/pages/dnssec-what-is-it-why-important-2019-03-05-en)
 
-[RFC 4033 - DNS Security Introduction and Requirements](https://tools.ietf.org/html/rfc4033)
-[RFC 4034 - Resource Records for the DNS Security Extensions](https://tools.ietf.org/html/rfc4034)
-[RFC 4035 - Protocol Modifications for the DNS Security Extensions](https://tools.ietf.org/html/rfc4035)
+[RFC 4033 - DNS Security Introduction and Requirements](https://datatracker.ietf.org/doc/html/rfc4033)
+[RFC 4034 - Resource Records for the DNS Security Extensions](https://datatracker.ietf.org/doc/html/rfc4034)
+[RFC 4035 - Protocol Modifications for the DNS Security Extensions](https://datatracker.ietf.org/doc/html/rfc4035)
+
+### Certification Authority Authorization (CAA)
+
+[RFC 8659 - DNS Certification Authority Authorization (CAA) Resource Record](https://datatracker.ietf.org/doc/html/rfc8659)
+[RFC 9495 - Certification Authority Authorization (CAA) Processing for Email Addresses](https://datatracker.ietf.org/doc/html/rfc9495)
 
 ---
 
@@ -317,6 +336,7 @@ Server Name Identification (SNI), a technology used by servers hosting multiple 
 
 ```
 1.1.1.1
+1.0.0.1
 ```
 
 ### OpenDNS

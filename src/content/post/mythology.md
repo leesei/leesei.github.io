@@ -2,7 +2,7 @@
 title: Mythology
 description: ""
 created: 2015-08-01
-updated: 2025-01-09
+updated: 2025-02-07
 tags:
   - trivia
 ---
@@ -19,9 +19,9 @@ tags:
 [时长三小时，一口气带你了解，全世界神话体系—世界神话地图纯享！【环球秘闻档案馆】 - YouTube](https://www.youtube.com/watch?v=hImDxo5bmig)
 
 [World Mythology - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNCG9Vq7vdvJytS-F-xGi7_) CrashCourse
-[Myths from Around the World - YouTube](https://www.youtube.com/playlist?list=PLJicmE8fK0EjW2AVwcSc4NvGyJJaw7bzh)
-[See U in History / Mythology - YouTube](https://www.youtube.com/channel/UC9u3UqkoikJ9Nr8t4wvyNRQ)
-[Extra Mythology (ALL EPISODES) - YouTube](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5BPIbL5ROX4RUByP5IjuGkr)
+[Myths from Around the World - YouTube](https://www.youtube.com/playlist?list=PLJicmE8fK0EjW2AVwcSc4NvGyJJaw7bzh) TED-Ed
+[See U in History / Mythology - YouTube](https://www.youtube.com/@SeeUinHistory)
+[Extra Mythology (ALL EPISODES) - YouTube](https://www.youtube.com/playlist?list=PLhyKYa0YJ_5BPIbL5ROX4RUByP5IjuGkr) Extra History Podcast
 
 [Overly Sarcastic Productions - YouTube](https://www.youtube.com/@OverlySarcasticProductions)
 [Miscellaneous Myths - YouTube](https://www.youtube.com/playlist?list=PLDb22nlVXGgeoPb-HBWwzEeoAwDvckSrC)

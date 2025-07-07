@@ -2,7 +2,7 @@
 title: 裝修
 description: ""
 created: 2020-03-07
-updated: 2025-01-12
+updated: 2025-02-07
 tags:
   - household
   - maker
@@ -12,7 +12,7 @@ tags:
 
 [Call 師傅｜香港最受歡迎 服務超過 30 萬人次｜家居裝修維修服務｜數碼港資助](https://www.callsifu.com/)
 
-[Primitive Tool - YouTube](https://www.youtube.com/user/lookingtoday123)
+[Primitive Tool - YouTube](https://www.youtube.com/@PrimitiveTool)
 
 [香港自學裝修網](https://www.moonskyedu.com/furniture/index.htm)
 

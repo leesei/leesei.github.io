@@ -2,7 +2,7 @@
 title: Reverse Proxy
 description: ""
 created: 2015-06-17
-updated: 2025-01-09
+updated: 2025-05-09
 tags:
   - dev/deploy
   - web
@@ -121,7 +121,7 @@ go get github.com/xyproto/algernon
 ## LiteSpeed
 
 [LiteSpeed Web Server - Apache Alternative - LiteSpeed Technologies](https://www.litespeedtech.com/products/litespeed-web-server) compatible with Apache conf, supports HTTP/2, HTTP/3, event driven
-[LiteSpeed Technologies - YouTube](https://www.youtube.com/channel/UC2gbIbGhz3PR6N_U_MJLrzg)
+[LiteSpeed Technologies - YouTube](https://www.youtube.com/@litespeedtechnologies)
 
 [Get OpenLiteSpeed!](https://openlitespeed.org/)
 [Easily Install OpenLiteSpeed in 1 Click! • OpenLiteSpeed](https://openlitespeed.org/kb/1-click-install/)
@@ -191,6 +191,7 @@ Auto load-balancing, supports multiple service registries (Docker, Kubernetes, M
 
 [Put Wildcard Certificates and SSL on EVERYTHING - Traefik Tutorial - YouTube](https://www.youtube.com/watch?v=liV3c9m_OX8)
 [How to setup Traefik v2 with automatic Let’s Encrypt certificate resolver](https://www.paulsblog.dev/how-to-setup-traefik-with-automatic-letsencrypt-certificate-resolver/)
+[Is this the BEST Reverse Proxy for Docker? // Traefik Tutorial - YouTube](https://www.youtube.com/watch?v=wLrmmh1eI94)
 
 [Nginx to Caddy to Traefik](https://sean.thenewells.us/nginx-to-caddy-to-traefik/) Compose, user network, multiple container
 [Enabling HTTPS termination in Traefik](https://niels.nu/blog/2017/traefik-https-letsencrypt.html)

@@ -2,7 +2,7 @@
 title: Zig Programming Language
 description: General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 created: 2023-03-24
-updated: 2025-01-09
+updated: 2025-02-15
 tags:
   - comp/lang
   - package-manager
@@ -44,6 +44,7 @@ zig zen
 [Zig in 100 Seconds - YouTube](https://www.youtube.com/watch?v=kxT8-C1vmd4)
 [Zig for Impatient Devs - YouTube](https://www.youtube.com/watch?v=5I4ZkmMS4-0)
 [CppCast Episode 342: Zig with Andrew Kelley - YouTube](https://www.youtube.com/watch?v=AdP6seB4sp4) 2022
+[Code With Cypert - YouTube](https://www.youtube.com/@CodeWithCypert) many Zig videos
 
 [Prime Reacts: Is This NEW Language BETTER Than Rust? C++? (Zig First Impressions) - YouTube](https://www.youtube.com/watch?v=alp_Sx5qhn0)
 [Zig is FASTER and SAFER than Rust | Prime Reacts - YouTube](https://www.youtube.com/watch?v=CbQVR4v5PZw)
@@ -131,6 +132,7 @@ ranlib
 [Chapter 3 - Build system | ziglearn.org](https://ziglearn.org/chapter-3/)
 [zig build explained Series' Articles - Zig NEWS](https://zig.news/xq/series/2)
 [Zig Build - Gamedev Guide](https://ikrima.dev/dev-notes/zig/zig-build/)
+[I hated Zig's build system when I first started learning Zig - YouTube](https://www.youtube.com/watch?v=8eEc7jM5vUY)
 
 [Zig Build System - In-depth Overview ⚡ Zig Programming Language](https://ziglang.org/learn/overview/#zig-build-system)
 [Maintain it With Zig | Loris Cro's Blog](https://kristoff.it/blog/maintain-it-with-zig/)

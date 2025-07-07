@@ -2,7 +2,7 @@
 title: Comics
 description: ""
 created: 2015-04-24
-updated: 2025-01-09
+updated: 2025-02-16
 tags:
   - comics
 ---
@@ -47,10 +47,10 @@ More focus on the mental beings of the heroes and villains.
 1616: Ultimate Universe (MCU based on this)
 
 [Marvel Universe Wiki](http://marvel.com/universe/Main_Page) (Official)
-[Marvel Database | FANDOM powered by Wikia](https://marvel.fandom.com/wiki/Marvel_Database)
-[X-Men Wiki | FANDOM powered by Wikia](https://x-men.fandom.com/wiki/X-Men_Wiki)
+[Marvel Database | Fandom](https://marvel.fandom.com/wiki/Marvel_Database)
+[X-Men Wiki | Fandom](https://x-men.fandom.com/wiki/X-Men_Wiki)
 [MarvelDirectory.com](http://www.marveldirectory.com/index.htm)
-[Marvel Animated Universe Wiki | FANDOM powered by Wikia](https://marvelanimated.fandom.com/wiki/Marvel_Animated_Universe_Wiki)
+[Marvel Animated Universe Wiki | Fandom](https://marvelanimated.fandom.com/wiki/Marvel_Animated_Universe_Wiki)
 
 [Marvel Entertainment - YouTube](https://www.youtube.com/@marvel)
 [Marvel 101 - YouTube](https://www.youtube.com/playlist?list=PLK5HARgNfgj-PrPFWJ18sMP1ikSvKP8IW)
@@ -80,7 +80,7 @@ More focus on the mental beings of the heroes and villains.
 
 DC adopts the parallel universe concept, first in Flash, in order to crossover heroes of different origins.
 
-[DC Database | FANDOM powered by Wikia](https://dc.fandom.com/wiki/DC_Comics_Database)
+[DC Database | Fandom](https://dc.fandom.com/wiki/DC_Comics_Database)
 
 # Captain Marvel vs Captain Marvel
 

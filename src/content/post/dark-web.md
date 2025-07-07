@@ -2,15 +2,20 @@
 title: Dark Web
 description: ""
 created: 2023-03-06
-updated: 2025-01-09
+updated: 2025-06-24
 tags:
   - security
   - web
 ---
 
 [The "dark web" is being used to post Medibank data. What is it?](https://thenewdaily.com.au/finance/finance-news/2022/11/17/medibank-dark-web/)
+[dark.fail: Which Tor sites are online?](https://dark.fail/)
 
 [The Hacker’s Choice | Founded in 1995](https://www.thc.org/segfault/) Disposable Root Servers
+
+[Use These 5 Free Tools to Check If Your Data Is on the Dark Web](https://www.makeuseof.com/free-tools-check-data-dark-web/)
+[What Are Dark Web Alerts? Know When Your Info Falls Into the Wrong Hands](https://www.makeuseof.com/what-are-dark-web-alerts/)
+[6 Ways the Dark Web Is Nothing Like in Movies](https://www.makeuseof.com/dark-web-vs-movie-myths/)
 
 [The Best Dark Web Browser for Your Device](https://www.makeuseof.com/tag/dark-web-browser/)
 

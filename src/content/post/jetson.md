@@ -74,7 +74,6 @@ There are two major steps:
    drwxrwxrwt   2 root      root       4096 Feb 21 19:52 tmp/
    drwxr-xr-x  11 root      root       4096 May 21  2018 usr/
    drwxr-xr-x  15 root      root       4096 Jun 18 16:37 var/
-
    ```
 
 2. toolchains for `Jetson TX2` on linux.
@@ -90,7 +89,6 @@ There are two major steps:
    drwxr-xr-x 4 frankchen frankchen 4096 Jun 20 17:01 ../
    drwxr-xr-x 8 frankchen frankchen 4096 Jan 28  2017 gcc-linaro-5.4.1-2017.01-x86_64_aarch64-linux-gnu/
    drwxr-xr-x 8 frankchen frankchen 4096 Jan 23 04:22 gcc-linaro-5.5.0-2017.10-x86_64_aarch64-linux-gnu/
-
    ```
 
    symbolic link tool,
@@ -116,7 +114,6 @@ There are two major steps:
    # Sysroot for the toolchain
    frankchen@:jetson-tx2$ ./toolchains/bin/aarch64-unknown-linux-gnu-gcc --print-sysroot
    /home/frankchen/Documents/jetson-tx2/toolchains/bin/../aarch64-unknown-linux-gnu/sysroot
-
    ```
 
 3. configure to build `Qt` for `nvidia Jetson TX2` on linux host
@@ -138,7 +135,6 @@ There are two major steps:
        -extprefix ~/Documents/jetson-tx2/qt5-jetson-tx2 \
        -nomake tests -nomake examples \
        -skip qtwayland -skip qtlocation -skip qtscript
-
    ```
 
    **Note:**
@@ -167,7 +163,6 @@ There are two major steps:
    ```
 
    **Problems:**
-
    1. errors when building `libwebp`,
 
    ```sh
@@ -195,15 +190,12 @@ There are two major steps:
    # possible solution, using the linaro toolchain with new version(5.5.0-2017.10) maybe fix the bug
    frankchen@:webp$ make clean
    frankchen@:webp$ /home/frankchen/Documents/jetson-tx2/toolchains/gcc-linaro-5.5.0-2017.10-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-gcc -c -pipe -mtune=cortex-a57.cortex-a53 -march=armv8-a --sysroot=/home/frankchen/nvidia/nvidia_sdk/JetPack_4.2_Linux_P3310/Linux_for_Tegra/rootfs -O2 -std=gnu11 -fvisibility=hidden -fno-exceptions -Wall -W -D_REENTRANT -fPIC -DQT_DEPRECATED_WARNINGS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_NO_EXCEPTIONS -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -DQT_NO_DEBUG -DQT_PLUGIN -DQT_GUI_LIB -DQT_CORE_LIB -I. -I../../../3rdparty/libwebp -I../../../3rdparty/libwebp/src -I../../../3rdparty/libwebp/src/dec -I../../../3rdparty/libwebp/src/enc -I../../../3rdparty/libwebp/src/dsp -I../../../3rdparty/libwebp/src/mux -I../../../3rdparty/libwebp/src/utils -I../../../3rdparty/libwebp/src/webp -I/home/frankchen/Qt/5.12.3/Src/qtbase/include -I/home/frankchen/Qt/5.12.3/Src/qtbase/include/QtGui -I/home/frankchen/Qt/5.12.3/Src/qtbase/include/QtCore -I.moc -isystem /home/frankchen/nvidia/nvidia_sdk/JetPack_4.2_Linux_P3310/Linux_for_Tegra/rootfs/usr/include/libdrm -isystem /home/frankchen/nvidia/nvidia_sdk/JetPack_4.2_Linux_P3310/Linux_for_Tegra/rootfs/usr/include -isystem /home/frankchen/nvidia/nvidia_sdk/JetPack_4.2_Linux_P3310/Linux_for_Tegra/rootfs/usr/include/aarch64-linux-gnu -I/home/frankchen/Qt/5.12.3/Src/qtbase/mkspecs/devices/linux-jetson-tx2-g++ -o .obj/dec_neon.o ../../../3rdparty/libwebp/src/dsp/dec_neon.c
-
    ```
 
    similar problems found online:
-
    - (Internal compiler error using -mtune=cortex-a57.cortex-a53 with linaro gcc 5.2.1)[https://bugs.linaro.org/show_bug.cgi?id=2785]
    - (Errors buliding libwebp on NVIDIA TX2 with Linaro gcc-5.4.0 using flags)[https://github.com/opencv/opencv/issues/12322]
    - (internal compiler error in record_operand_use)[https://www.mail-archive.com/gcc-bugs@gcc.gnu.org/msg472065.html]
-
    1. stdlib.h
 
    ```sh
@@ -378,7 +370,6 @@ There are two major steps:
    ```
 
    **Problems:**
-
    1. errors when building `libwebp`,
 
    ```sh
@@ -406,15 +397,12 @@ There are two major steps:
    # possible solution, using the linaro toolchain with new version(5.5.0-2017.10) maybe fix the bug
    frankchen@:webp$ make clean
    frankchen@:webp$ /home/frankchen/Documents/jetson-tx2/toolchains/gcc-linaro-5.5.0-2017.10-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-gcc -c -pipe -mtune=cortex-a57.cortex-a53 -march=armv8-a --sysroot=/home/frankchen/nvidia/nvidia_sdk/JetPack_4.2_Linux_P3310/Linux_for_Tegra/rootfs -O2 -std=gnu11 -fvisibility=hidden -fno-exceptions -Wall -W -D_REENTRANT -fPIC -DQT_DEPRECATED_WARNINGS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_NO_EXCEPTIONS -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -DQT_NO_DEBUG -DQT_PLUGIN -DQT_GUI_LIB -DQT_CORE_LIB -I. -I../../../3rdparty/libwebp -I../../../3rdparty/libwebp/src -I../../../3rdparty/libwebp/src/dec -I../../../3rdparty/libwebp/src/enc -I../../../3rdparty/libwebp/src/dsp -I../../../3rdparty/libwebp/src/mux -I../../../3rdparty/libwebp/src/utils -I../../../3rdparty/libwebp/src/webp -I/home/frankchen/Qt/5.12.3/Src/qtbase/include -I/home/frankchen/Qt/5.12.3/Src/qtbase/include/QtGui -I/home/frankchen/Qt/5.12.3/Src/qtbase/include/QtCore -I.moc -isystem /home/frankchen/nvidia/nvidia_sdk/JetPack_4.2_Linux_P3310/Linux_for_Tegra/rootfs/usr/include/libdrm -isystem /home/frankchen/nvidia/nvidia_sdk/JetPack_4.2_Linux_P3310/Linux_for_Tegra/rootfs/usr/include -isystem /home/frankchen/nvidia/nvidia_sdk/JetPack_4.2_Linux_P3310/Linux_for_Tegra/rootfs/usr/include/aarch64-linux-gnu -I/home/frankchen/Qt/5.12.3/Src/qtbase/mkspecs/devices/linux-jetson-tx2-g++ -o .obj/dec_neon.o ../../../3rdparty/libwebp/src/dsp/dec_neon.c
-
    ```
 
    similiar problems found online:
-
    - (Internal compiler error using -mtune=cortex-a57.cortex-a53 with linaro gcc 5.2.1)[https://bugs.linaro.org/show_bug.cgi?id=2785]
    - (Errors buliding libwebp on NVIDIA TX2 with Linaro gcc-5.4.0 using flags)[https://github.com/opencv/opencv/issues/12322]
    - (internal compiler error in record_operand_use)[https://www.mail-archive.com/gcc-bugs@gcc.gnu.org/msg472065.html]
-
    1. stdlib.h
 
    ```sh

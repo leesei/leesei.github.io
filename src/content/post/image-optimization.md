@@ -2,7 +2,7 @@
 title: Image Optimization
 description: ""
 created: 2016-08-04
-updated: 2025-01-09
+updated: 2025-06-11
 tags:
   - app
   - shell-tools
@@ -18,6 +18,10 @@ tags:
 [JamieMason/ImageOptim-CLI: Make optimisation of images part of your automated build process](https://github.com/JamieMason/ImageOptim-CLI)
 
 [Squoosh](https://squoosh.app/)
+[TinyPNG – Compress AVIF, WebP, PNG and JPEG images](https://tinypng.com/)
+[Compressor.io - optimize and compress JPEG photos and PNG images](https://compressor.io/)
+[Easily compress images at optimal quality in seconds.](https://www.iloveimg.com/compress-image)
+[Image Compressor - Compress Images Online in High Quality](https://imageresizer.com/image-compressor)
 
 [Trimage (lossless) image compressor](https://trimage.org/) advpng, jpegoptim, optipng and pngcrush
 ImageOptim-inspired, with CLI, much slower and worse compression than `@leesei/imgmini`

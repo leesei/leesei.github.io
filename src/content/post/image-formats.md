@@ -2,7 +2,7 @@
 title: Image Formats
 description: ""
 created: 2016-08-04
-updated: 2025-01-09
+updated: 2025-07-06
 tags:
   - standard
 ---
@@ -19,6 +19,8 @@ tags:
 [A rant about image formats - YouTube](https://www.youtube.com/watch?v=pFNmS_HZ2Zs) jpeg, png, svg, webp, avif, jpeg-xl
 
 ## PNG
+
+[PNG is back!](https://www.programmax.net/articles/png-is-back/)
 
 [How PNG Works: Compromising Speed for Quality - YouTube](https://www.youtube.com/watch?v=EFUYNoFRHQI) also on QOI
 [How PNG Works: Compromising Speed for Quality - YouTube](https://www.youtube.com/watch?v=EFUYNoFRHQI)

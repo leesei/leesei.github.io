@@ -2,7 +2,7 @@
 title: Barcode
 description: ""
 created: 2015-09-02
-updated: 2025-01-09
+updated: 2025-07-06
 tags:
   - trivia
 ---
@@ -58,8 +58,11 @@ tags:
 [gillyb/reimg: reimg - A javascript library for converting image formats](https://github.com/gillyb/reimg) implements download logic
 [neocotic/qrious: Pure JavaScript library for QR code generation using canvas](https://github.com/neocotic/qrious)
 
+[Create Custom QR Code Free | QRCode-Panda](https://qrcode-panda.com/)
 [Create Your Free QR Code - Flowcode](https://www.flowcode.com/)
 [QR Code Generator - Create Free QR Codes](https://qrd.by/)
+
+[QR Code Generator | Create Your Free QR Codes](https://www.qr-code-generator.com/) short URL after login (qqrco.de, l.ead.me)
 [QR Code Generator](https://www.the-qrcode-generator.com/)
 [QR Code Generator](http://azonmedia.com/qrcode-generator)
 [Create QR Code - Visualead](http://www.visualead.com/qr-code-generator/)

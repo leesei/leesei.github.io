@@ -2,7 +2,7 @@
 title: Self Hosting
 description: Usage includes homelab and self-hosted components for commercial projects
 created: 2023-06-10
-updated: 2025-01-09
+updated: 2025-03-16
 tags:
   - devops
 ---
@@ -25,6 +25,8 @@ tags:
 
 [Next level data privacy with easy, free and secure self hosting at home - DEV Community](https://dev.to/maxime1992/next-level-data-privacy-with-easy-free-and-secure-self-hosting-at-home-2c84)
 [Paperless-ngx, manage your documents like never before - DEV Community](https://dev.to/maxime1992/paperless-ngx-manage-your-documents-like-never-before-2a3n)
+
+[DIY SSH Bastion Host](https://smallstep.com/blog/diy-ssh-bastion-host/)
 
 ## Linuxserver.io
 

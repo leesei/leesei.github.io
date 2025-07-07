@@ -2,7 +2,7 @@
 title: Latex
 description: ""
 created: 2015-05-20
-updated: 2025-01-09
+updated: 2025-06-01
 tags:
   - asciimath
   - comp/lang
@@ -15,11 +15,16 @@ tags:
 
 [The Not So Short Introduction to LATEX 2](ftp://ftp.ccu.edu.tw/pub/tex/info/lshort/english/lshort.pdf)
 [MathJax basic tutorial and quick reference - Mathematics Meta Stack Exchange](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
-[LaTeX Math Symbols Cheetsheet | Leaf's Blog](http://blog.leafh.pw/2015/05/22/LaTeX-math-symbols-cheetsheet/)
+
+[为了让电脑上的数学公式更好看，这件事折腾了快50年 - YouTube](https://www.youtube.com/watch?v=RF9lcbSCfNg)
+LaTeX was a macro bundle on top of Tex
 
 [| Baeldung on Computer Science](https://www.baeldung.com/cs/category/latex)
 [Wanna learn LaTeX?](https://lukesmith.xyz/latex.html)
 [MarkDown 中使用 LaTeX 数学式 - nowgood - 博客园](https://www.cnblogs.com/nowgood/p/latexstart.html)
+
+[LaTeX Math Symbols Cheetsheet | Leaf's Blog](http://blog.leafh.pw/2015/05/22/LaTeX-math-symbols-cheetsheet/)
+[Using Emoji in (pdf)LaTex | Thom Wiggers](https://thomwiggers.nl/post/emoji-in-latex/)
 
 [如何优雅的编辑数学公式？LaTeX 公式入门 - YouTube](https://www.youtube.com/watch?v=4MkdR6qChSY)
 [文章寫好了卻為排版苦惱？也許你該考慮用 LaTex 完成下一個專業的報告 (使用 Overleaf 雲端編輯器) - YouTube](https://www.youtube.com/watch?v=mQamBS6uTOc)
@@ -29,6 +34,8 @@ tags:
 
 `$...$` inline math
 `$$...$$` display math block
+
+[MiKTeX](https://miktex.org/) modern TeX distribution for Windows, Linux and macOS, includes [TeXworks](https://www.tug.org/texworks/)
 
 ## TikZ
 
@@ -109,4 +116,11 @@ PDF is PostScript instructions
 # Typst
 
 [Typst: Compose papers faster](https://typst.app/)
+[Search packages — Typst: Universe](https://typst.app/universe/search/?kind=packages)
+[Search templates — Typst: Universe](https://typst.app/universe/search/?kind=templates)
+[typst/typst: A new markup-based typesetting system that is powerful and easy to learn.](https://github.com/typst/typst)
+
 [Typst: The LaTeX alternative in Rust - YouTube](https://www.youtube.com/watch?v=sWmlbMh3ol8)
+
+[reflexo-typst Documentation](https://myriad-dreamin.github.io/typst.ts/)
+[Myriad-Dreamin/typst.ts: Run Typst in JavaScriptWorld.](https://github.com/Myriad-Dreamin/typst.ts)

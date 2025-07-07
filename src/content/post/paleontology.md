@@ -2,7 +2,7 @@
 title: Paleontology
 description: ""
 created: 2019-08-09
-updated: 2025-01-09
+updated: 2025-07-06
 tags:
   - geology
   - paleontology
@@ -179,6 +179,7 @@ It's after the evolution of insects, by grinding the dead plants and trees, whic
 [Photosynthesis Unleashes Chemical Superweapon: Oxygen - YouTube](https://www.youtube.com/watch?v=l7BMQAoB8IM)
 
 [How Cyanobacteria Took Over The World - YouTube](https://www.youtube.com/watch?v=ps2GlGs8oso) the prokaryote that can photosyntheses
+[【鬼谷闲谈】紫色地球：一个杀生以护生的故事 - YouTube](https://www.youtube.com/watch?v=SI8lanAKCpc)
 
 ### Boring Billion
 
@@ -313,11 +314,20 @@ Antarctica ice cap melted and forests begin to grow
 
 The proliferation of grass
 
+### Toba eruption
+
+75000ya
+
+[Youngest Toba eruption - Wikiwand](https://www.wikiwand.com/en/articles/Youngest_Toba_eruption) in Sumatra
+[132年前，一位火山專家深入爪哇森林，他發現了無法解釋的古代遺跡……7萬年前，人類遭遇巨災，全球人口只剩下1000人？科學or預言？巨災將在2036年，再次降臨……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=4VcNp6jP8o0)
+
+Caused gene bottleneck in mankind
+
 ### Younger Dryas
 
 12800 ya
-A comet of 1.5km diameter hits the ice cap in Greenland, the water contained and the ice melted created great flood on Earth
-This event might have promoted human spices to practice husbandry and agriculture
+A comet of 1.5km diameter exploded above Greenland and melted the ice cap, the water contained and the ice melted created great flood on Earth and broke the [Thermohaline circulation](https://www.wikiwand.com/en/articles/Thermohaline_circulation) ([溫鹽環流](https://www.wikiwand.com/zh-hk/articles/%E6%BA%AB%E9%B9%BD%E7%92%B0%E6%B5%81)).
+This event might have promoted human spices to practice husbandry and agriculture.
 
 [新仙女木事件 - Wikiwand](https://www.wikiwand.com/zh/%E6%96%B0%E4%BB%99%E5%A5%B3%E6%9C%A8%E4%BA%8B%E4%BB%B6)
 [Younger Dryas impact hypothesis - Wikiwand](https://www.wikiwand.com/en/Younger_Dryas_impact_hypothesis)

@@ -2,7 +2,7 @@
 title: Computer Graphics (Software)
 description: Computer Graphics on the software side, the how and whys, also on how games are rendered
 created: 2015-08-31
-updated: 2025-01-09
+updated: 2025-01-22
 tags:
   - games
   - graphics/software
@@ -16,6 +16,7 @@ See [[3d-graphics]] for tools and specific techniques.
 
 [How Rendering Graphics Works in Games! - YouTube](https://www.youtube.com/watch?v=cvcAjgMUPUA)
 [How do Video Game Graphics Work? - YouTube](https://www.youtube.com/watch?v=C8YtdC8mxTU)
+[Video Game Graphics Peaked... 8 Years ago - YouTube](https://www.youtube.com/watch?v=WAH9kTG5C6w)
 
 [Jasper - YouTube](https://www.youtube.com/@JasperRLZ) mostly on console rendering engine
 [noclip](https://noclip.website/#) Nintendo game assets

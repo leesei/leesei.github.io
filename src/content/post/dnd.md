@@ -2,7 +2,7 @@
 title: Dungeons & Dragons
 description: ""
 created: 2015-12-15
-updated: 2025-01-09
+updated: 2025-02-16
 tags:
   - boardgame
   - games
@@ -17,11 +17,12 @@ tags:
 
 [D&D Official Homepage | Dungeons & Dragons](https://dnd.wizards.com/)
 
-[D&D 5th Edition Wikia | FANDOM powered by Wikia](https://dnd5e.fandom.com/wiki/D%26D_5th_Edition_Wikia)
+[D&D 5th Edition Wikia | Fandom](https://dnd5e.fandom.com/wiki/D%26D_5th_Edition_Wikia)
 [5th Edition D&D](https://www.reddit.com/r/dndnext/)
 [8 Reasons D&D 5th Edition Is Better Than Pathfinder | The Robot's Voice](http://www.therobotsvoice.com/2014/08/8_reasons_dungeons_and_dragons_5th_edition_is_better_than_pathfinder.php)
 
 [10 Tips For Beginner Dungeon Masters - YouTube](https://www.youtube.com/watch?v=0oD6mF9vSRk)
+[How to play D&D — Absolute beginner's guide (2024) - YouTube](https://www.youtube.com/watch?v=hNNBjVmNbQI)
 
 [The Never-Ending Game of Dungeons & Dragons - YouTube](https://www.youtube.com/watch?v=UdAwX8JB66E)
 [Why Dungeons & Dragons is Good for You (In Real Life) | Ethan Gilsdorf | TEDxPiscataquaRiver - YouTube](https://www.youtube.com/watch?v=6PaHJqpQnyw)

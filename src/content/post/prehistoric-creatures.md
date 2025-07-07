@@ -2,7 +2,7 @@
 title: prehistoric-creatures
 description: ""
 created: 2024-02-01
-updated: 2025-01-09
+updated: 2025-06-01
 tags:
   - prehistoric-creatures
   - science
@@ -28,10 +28,3 @@ tags:
 
 [【鬼谷说】鹦鹉螺：我不是活化石 - YouTube](https://www.youtube.com/watch?v=T5GqZ9QTfnk) 奧陶紀
 [黃金螺線，潛艇科技，扛過所有5次大滅絕，給章魚當大哥的鸚鵡螺，螺殼裡到底藏著多少秘密？【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=uyq4xJvPWls)
-
-## 軟骨魚/鯊魚
-
-[主宰海洋上億年的霸主，真正的海王 - 鯊魚，而他們中誰最奇特誰是鯊皇，盤點十大史前鯊魚丨動物之最 - YouTube](https://www.youtube.com/watch?v=tv34a661BrE)
-[億萬年進化后的海洋統治者鯊魚：三億年前的鯊魚長的什麼樣？ 我們的祖先居然都是魚！丨恐龍時代丨特別篇 01 丨黑毛羊駝 - YouTube](https://www.youtube.com/watch?v=EY-AUuAT2qQ)
-[上億年的海底爭霸中鯊魚永遠都是老二？！長久以來的鯊魚造型有什麼變化，它們到底是怎麼進化的丨恐龍時代丨特別篇 02 丨黑毛羊駝 - YouTube](https://www.youtube.com/watch?v=3r3Eoi3p8P4)
-[剛出生體型就長達 2 米，幼年就是頂級掠食者！巨齒鯊：史上最強海怪的誕生之路丨恐龍時代丨特別篇 03 丨黑毛羊駝 - YouTube](https://www.youtube.com/watch?v=a4OY7qmhcb8)

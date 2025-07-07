@@ -2,7 +2,7 @@
 title: Audio-visual Systems
 description: ""
 created: 2018-07-04
-updated: 2025-01-09
+updated: 2025-06-24
 tags:
   - audio-clip
   - clipart
@@ -13,6 +13,7 @@ tags:
   - video-editing
 ---
 
+[Cathode Ray Dude - CRD - YouTube](https://www.youtube.com/@CathodeRayDude)
 [Technology Connections - YouTube](https://www.youtube.com/@TechnologyConnections)
 [Video Tech Explained - YouTube](https://www.youtube.com/@VideoTechExplained)
 
@@ -82,6 +83,10 @@ R: Rhythm
 [Record Discord with Craig](https://twit.tv/shows/floss-weekly/episodes/689)
 [Craig](https://craig.chat/) recording bot for Discord, provides better quality
 [Pricing — Ennuicastr](https://ecastr.com/pricing/) hosted version
+
+### Video from Pictures
+
+[Here's the Easiest Way to Create a Video From Pictures](https://www.makeuseof.com/easy-way-create-video-from-pictures/)
 
 ### HDMI Capture
 
@@ -256,8 +261,10 @@ AICG
 
 ### YouTuber
 
-[YouTube Creators - YouTube](https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ)
+[YouTube Creators - YouTube](https://www.youtube.com/@youtubecreators)
 [How to Add Chapters to Your Videos Using Timestamps - YouTube](https://www.youtube.com/watch?v=b1Fo_M_tj6w)
+
+[老胡油管研究院 - YouTube](https://www.youtube.com/@SeattleLaohu)
 
 [揭露拍片現場的真實情況…如果不是今天想偷懶，我才不會發這影片！【CC 字幕＋ 4K】 - YouTube](https://www.youtube.com/watch?v=SoD6NZm57N0)
 [【悲報】Youtuber 批鬥大會！我到底睇左咩？我都賺夠老點企劃 #1 - YouTube](https://www.youtube.com/watch?v=-_6neM_BiIY)
@@ -340,13 +347,10 @@ document.querySelectorAll("meta[property='og:url']");
 [Subanana | 最多香港用戶選用的 AI 字幕生成器](https://subanana.com/)
 
 [audapolis/audapolis: an editor for spoken-word audio with automatic transcription](https://github.com/audapolis/audapolis)
-
 [What is it? | Parlatype](https://gkarsay.github.io/parlatype/)
 
 [Caption+ – Professional Subtitles for Creators](https://caption.plus/)
-
-[Aegisub Advanced Subtitle Editor](http://www.aegisub.org/)
-[Subtitle Edit 3.4 Help](https://www.nikse.dk/SubtitleEdit/Help)
+[Otter.ai - AI Meeting Note Taker & Real-time AI Transcription](https://otter.ai/)
 
 [Podcast Transcript 101: How to Make Them for Your Episodes - Castos](https://castos.com/podcast-transcription/)
 [Descript | Create podcasts, videos, and transcripts](https://www.descript.com/)
@@ -368,21 +372,26 @@ document.querySelectorAll("meta[property='og:url']");
 [6 Free Tools to Adjust SRT or SUB Subtitle and Synchronize With AVI and DivX • Raymond.CC](https://www.raymond.cc/blog/adjust-srt-or-sub-subtitle-to-synchronize-with-avi-and-divx/view-all/) Windows
 [How to Edit Subtitles in Linux with SubtitleEditor](https://itsfoss.com/editing-subtitles/)
 [command line - How do I merge two \*.srt files - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/2283/how-do-i-merge-two-srt-files)
+[16 Best Subtitle Editors in 2025 for Free](https://www.movavi.com/learning-portal/best-subtitle-editors.html)
 [8 Best VTT Editors for Windows, Mac and Online](https://www.flexclip.com/learn/vtt-editor.html)
 [Subtitle Tools - Online Tools to Sync, Convert and Fix Subtitles](https://subtitletools.com/)
-[Otter.ai - AI Meeting Note Taker & Real-time AI Transcription](https://otter.ai/)
+
+[Aegisub Advanced Subtitle Editor](http://www.aegisub.org/)
+[Subtitle Edit Help](https://www.nikse.dk/SubtitleEdit/Help) web and Windows app
 
 [Subtitles - download movie and TV Series subtitles](https://www.opensubtitles.org/en/search/subs)
 [Subtitles](https://www.podnapisi.net/)
 [Addic7ed.com - The source of latest TV subtitles](https://www.addic7ed.com/)
 [TVsubtitles.net - Download latest TV Show and TV Series subtitles](https://www.tvsubtitles.net/)
 [字幕库(zimuku) -- 字幕下载网站](https://zmk.pw/)
+[字幕库(zimuku,SrtKu) -- 字幕下载网站](https://srtku.com/)
 [分享交流下载字幕平台 - SubHD](https://subhd.tv/)
 [首页 - 射手网(伪) - assrt.net - 字幕下载，字幕组，中文字幕，美剧字幕，英剧字幕，双语字幕，新番字幕](https://assrt.net/)
 
 ## Digital Audio
 
 [Digital Sound - YouTube](https://www.youtube.com/playlist?list=PLv0jwu7G_DFWBEyCKt4tKHIk8ez_pZS_P)
+[Digital Sound and the Compact Disc - YouTube](https://www.youtube.com/playlist?list=PLv0jwu7G_DFWBEyCKt4tKHIk8ez_pZS_P)
 [D/A and A/D | Digital Show and Tell (Monty Montgomery @ xiph.org) - YouTube](https://www.youtube.com/watch?v=cIQ9IXSUzuM)
 
 [DolbyIO/awesome-audio: A curated list of awesome audio technology resources for developers](https://github.com/DolbyIO/awesome-audio)
@@ -401,6 +410,8 @@ document.querySelectorAll("meta[property='og:url']");
 
 [Digital audio used to be stored on videotape — it was the only way we knew how - YouTube](https://www.youtube.com/watch?v=xSnrQBfBCzY)
 
+[4 Tools to Fade Audio In and Out With Just Your Browser](https://www.makeuseof.com/online-tools-to-fade-audio/) online editors
+
 ## Digital Imaging
 
 [The Crazy Computations Inside Your Smartphone Cameras - YouTube](https://www.youtube.com/watch?v=yY8OFp0-UZw&t=5s)
@@ -411,7 +422,7 @@ document.querySelectorAll("meta[property='og:url']");
 ## Audio Codecs
 
 [Auphonic Blog: Opus, the revolutionary open audio codec for podcasts and internet audio](https://auphonic.com/blog/2012/09/26/opus-revolutionary-open-audio-codec-podcasts-and-internet-audio/)
-[RFC 6716 - Definition of the Opus Audio Codec](https://tools.ietf.org/html/rfc6716)
+[RFC 6716 - Definition of the Opus Audio Codec](https://datatracker.ietf.org/doc/html/rfc6716)
 
 [Auphonic Blog: Codec2: a whole Podcast on a Floppy Disk](https://auphonic.com/blog/2018/06/01/codec2-podcast-on-floppy-disk/)
 
@@ -511,6 +522,8 @@ Technology Connections
 Beta II has more or less the same quality as VHS-SP video
 Betacam is based on Betamax but records component video (separating Luminance and Color) on type hence have much better quality (near that of DVD), they are used in professional video production
 
+[Editing Video The Good Ol' Way - YouTube](https://www.youtube.com/watch?v=AEMdmnNbCZA) linear editors
+
 ## Film Video
 
 [Film: the reason some of the past was in HD - YouTube](https://www.youtube.com/watch?v=rVpABCxiDaU)
@@ -535,6 +548,7 @@ The quality of video in the transition from 35mm film to 4K master is inferior t
 [1970's Camera Tech: How they showed you what settings to use - YouTube](https://www.youtube.com/watch?v=r_uBHmAhnfo)
 
 [失傳 100 多年得了諾貝爾獎的彩色照相術，現在被找回來了 | T 客邦](https://www.techbang.com/posts/87655-hotography-nobel-color)
+[流行100年，胶片还会陪我们多久？ - YouTube](https://www.youtube.com/watch?v=__u7ztVak8g)
 
 [为什么加黑边=电影感？关于电影幕幅的最全科普！The most comprehensive science about the screen of the movie! - YouTube](https://www.youtube.com/watch?v=a6kwJhmA9KI)
 
@@ -543,3 +557,18 @@ The quality of video in the transition from 35mm film to 4K master is inferior t
 [陳寗玩音響 - YouTube](https://www.youtube.com/playlist?list=PLW4nBexRDfRXBo2Xd9vpVqt5VcqpScN9P)
 [音響人的基本常識：什麼是 DAC？數位轉類比的金鑰匙!!【4K】 - YouTube](https://www.youtube.com/watch?v=0SEUdnwWWXw)
 [二手價 5 萬為何哥甘願跪著付錢？老 DAC Theta G3 感動開箱！ - YouTube](https://www.youtube.com/watch?v=WTPTHe74l9Q)
+
+## Surround Sound
+
+[What Is Spatial Audio and Is It Different From 3D Positional Audio?](https://www.makeuseof.com/what-is-spatial-audio/)
+
+## IPTV
+
+[安卓TV电视直播源+播放器！完全免费开源，干净无广告，高清播放视频，真爽！！ | 零度解说 - YouTube](https://www.youtube.com/watch?v=f7pr7JAV5cc)
+[开心电视助手【最新版】安卓TV必备的神器！-零度博客](https://www.freedidi.com/14601.html)
+[mytv-android 目前最好用的安卓TV电视直播软件-零度博客](https://www.freedidi.com/14610.html)
+[live/README.md at main · fanmingming/live](https://github.com/fanmingming/live/blob/main/README.md)
+
+[无需IPv6大陆轻松解锁4K电视直播，CCTV频道秒切换不花一分钱！ - YouTube](https://www.youtube.com/watch?v=nQNeJo548rY)
+[免维护IPTV聚合工具肥羊AllInOne | 老苏的blog](https://laosu.tech/2024/11/21/%E5%85%8D%E7%BB%B4%E6%8A%A4IPTV%E8%81%9A%E5%90%88%E5%B7%A5%E5%85%B7%E8%82%A5%E7%BE%8AAllInOne/)
+[youshandefeiyang/allinone - Docker Image | Docker Hub](https://hub.docker.com/r/youshandefeiyang/allinone)

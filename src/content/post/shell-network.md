@@ -2,7 +2,7 @@
 title: Shell Tools (Network)
 description: ""
 created: 2015-09-15
-updated: 2025-01-09
+updated: 2025-06-27
 tags:
   - app
   - iperf
@@ -150,7 +150,7 @@ nmap -sC -sV -oN namp/initial ${host}
 > "quicker than Nmap but less detailed"
 
 [robertdavidgraham/masscan: TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.](https://github.com/robertdavidgraham/masscan)
-[Masscan: A Fast IP Port Scanner for Windows, Linux and MacOS](https://securitytrails.com/blog/masscan)
+[Masscan: A Fast IP Port Scanner for Windows, Linux and macOS](https://securitytrails.com/blog/masscan)
 
 ### rustscan
 
@@ -202,6 +202,7 @@ nc -vzu hostA 5060
 
 [tcpdump - man page - ManKier](https://www.mankier.com/1/tcpdump)
 [tcpdump101.com - Build packet capture syntax online](https://tcpdump101.com/)
+[An introduction to using tcpdump at the Linux command line](https://www.redhat.com/en/blog/introduction-using-tcpdump-linux-command-line)
 [Packet Analyzer: 15 TCPDUMP Command Examples](https://www.thegeekstuff.com/2010/08/tcpdump-command-examples)
 [Tcpdump 101 | Jacques DALBERA's IT world](https://itworldjd.wordpress.com/2014/02/07/tcpdump/)
 [A Quick and Practical Reference for tcpdump | Benjamin Cane](https://bencane.com/2014/10/13/quick-and-practical-reference-for-tcpdump/)
@@ -228,6 +229,7 @@ docker run --net host nicolaka/netshoot ngrep -tpd enp3s0 HTTP
 ## `ss`
 
 [Probe Your Linux Sockets With ss | Linux.com | The source for Linux information](https://www.linux.com/learn/intro-to-linux/2017/4/probe-your-linux-sockets-ss)
+[How to Use Linux SS (Socket Statistics) Command | Ultahost Knowledge Base](https://ultahost.com/knowledge-base/linux-socket-statistics-command/)
 
 ## `traceroute`
 

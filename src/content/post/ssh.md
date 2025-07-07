@@ -2,7 +2,7 @@
 title: SSH
 description: ""
 created: 2014-12-17
-updated: 2025-01-09
+updated: 2025-06-27
 tags:
   - app
   - shell-tool
@@ -11,12 +11,11 @@ tags:
 
 [OpenSSH](https://www.openssh.com/)
 
-[Understanding the SSH Encryption and Connection Process | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process)
 [SSH Essentials: Working with SSH Servers, Clients, and Keys | DigitalOcean](https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys)
 [How to SSH Properly | SSH Security Best Practices | Teleport](https://goteleport.com/blog/how-to-ssh-properly/)
-[SSH Handshake Explained | What is SSH Handshake? | Teleport](https://goteleport.com/blog/ssh-handshake-explained/)
 
 [ssh-agent - OpenSSH authentication agent - man page](https://www.mankier.com/1/ssh-agent)
+[SSH Agent Explained](https://smallstep.com/blog/ssh-agent-explained/)
 [ssh-add command man page - openssh-clients | ManKier](https://www.mankier.com/1/ssh-add)
 
 [ssh-keygen - man page](https://www.mankier.com/1/ssh-keygen)
@@ -35,6 +34,39 @@ tags:
 [Mosh: the mobile shell](https://mosh.org/)
 [What Is the Mosh Shell and How Do You Use It?](https://www.cloudsavvyit.com/1224/what-is-the-mosh-shell-and-how-do-you-use-it/amp/)
 [TimeToogo/tunshell: Remote shell into ephemeral environments 🐚 🦀](https://github.com/TimeToogo/tunshell)
+
+[SSH Tips & Tricks](https://smallstep.com/blog/ssh-tricks-and-tips/)
+
+## Handshake
+
+[SSH Handshake Explained | What is SSH Handshake?](https://goteleport.com/blog/ssh-handshake-explained/)
+[SSH Handshake – Why Abhinav?](https://yabhinav.github.io/security/openssh-handshake-overview/)
+[Understanding the SSH Encryption and Connection Process | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process)
+
+```mermaid
+sequenceDiagram
+    participant C as Client
+    participant S as Server
+
+   Note over C,S: SSH Handshake
+    C->>S: SSH Version Exchange
+    S->>C: Version Response
+    C->>S: SSH_MSG_KEXINIT<br/>(Supported Algorithms)
+    S->>C: SSH_MSG_KEXINIT<br/>(Selected Algorithms)
+    C->>S: SSH_MSG_KEX_ECDH_INIT<br/>(Ephemeral Public Key)
+    S->>C: SSH_MSG_KEX_ECDH_REPLY<br/>(Server Public Key + Signature)
+    C->>C: Verify Server Identity<br/>against Known Hosts
+    C->>S: SSH_MSG_NEWKEYS
+    S->>C: SSH_MSG_NEWKEYS
+    C->>S: SSH_MSG_SERVICE_REQUEST
+```
+
+[Secure Shell (secsh)](https://datatracker.ietf.org/wg/secsh/documents/)
+[RFC 4251 - The Secure Shell (SSH) Protocol Architecture](https://datatracker.ietf.org/doc/html/rfc4251/)
+[RFC 4252 - The Secure Shell (SSH) Authentication Protocol](https://datatracker.ietf.org/doc/html/rfc4252/)
+[RFC 4253 - The Secure Shell (SSH) Transport Layer Protocol](https://datatracker.ietf.org/doc/html/rfc4253/)
+[RFC 4254 - The Secure Shell (SSH) Connection Protocol](https://datatracker.ietf.org/doc/html/rfc4254/)
+[RFC 4419 - Diffie-Hellman Group Exchange for the Secure Shell (SSH) Transport Layer Protocol](https://datatracker.ietf.org/doc/html/rfc4419#section-6.2)
 
 ## `ssh_config`
 
@@ -229,7 +261,7 @@ ssh -D 8080 user@remote_host
 [ssh tunnelling Archives - Everything CLI](https://www.everythingcli.org/tag/ssh-tunnelling/)
 [Running a Bokeh server — Bokeh Documentation](https://docs.bokeh.org/en/latest/docs/user_guide/server.html#ssh-tunnels) via ssh tunnel
 
-[sshuttle/sshuttle: Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.](https://github.com/sshuttle/sshuttle)
+[sshuttle/sshuttle: Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and macOS. Supports DNS tunneling.](https://github.com/sshuttle/sshuttle)
 [sshuttle: where transparent proxy meets VPN meets ssh — sshuttle documentation](https://sshuttle.readthedocs.io/en/stable/)
 [How to use SSH as a VPN with sshuttle - TechRepublic](https://www.techrepublic.com/google-amp/article/how-to-use-ssh-as-a-vpn-with-sshuttle/)
 [VPN Technologies: A primer](http://tomoconnor.eu/blogish/vpn-technologies-primer/#.VvZp1WF96_4)

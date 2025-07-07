@@ -2,7 +2,7 @@
 title: World History
 description: ""
 created: 2015-10-09
-updated: 2025-01-09
+updated: 2025-07-03
 tags:
   - history
   - history/world
@@ -36,14 +36,17 @@ tags:
 [History of the Entire World (Ancient, Medieval, Modern) | World History Documentary - YouTube](https://www.youtube.com/watch?v=T5PwyuzSYcs)
 
 [Art History 1010 TICE - YouTube](https://www.youtube.com/playlist?list=PLtIxZmHhpck8ThggM0tTb9AeqiM4ZmlOm) Leslie Kehl
-[HereIsAleph\_旧闻如是说 - YouTube](https://www.youtube.com/@HereIsAleph)
 [Epic History TV - YouTube](https://www.youtube.com/@EpichistoryTv)
 [Epimetheus - YouTube](https://www.youtube.com/@EpimetheusHistory)
+[HereIsAleph\_旧闻如是说 - YouTube](https://www.youtube.com/@HereIsAleph)
+[Historically - YouTube](https://www.youtube.com/@HeyHistorically)
+[History Hit - YouTube](https://www.youtube.com/@HistoryHit)
 [Made In History - YouTube](https://www.youtube.com/@MadeInHistory)
 [Odyssey - Ancient History Documentaries - YouTube](https://www.youtube.com/@odyssey)
+[Serious History - YouTube](https://www.youtube.com/@SeriousHistory)
 [Simple History - YouTube](https://www.youtube.com/@Simplehistory)
 [The Armchair Historian - YouTube](https://www.youtube.com/@TheArmchairHistorian)
-[History Hit - YouTube](https://www.youtube.com/@HistoryHit)
+[床台 - YouTube](https://www.youtube.com/@bedradio)
 
 [Category:World history - Wikiwand](https://www.wikiwand.com/en/Category:World_history)
 [History of the world - Wikiwand](https://www.wikiwand.com/en/History_of_the_world)

@@ -2,7 +2,7 @@
 title: Web Authentication
 description: ""
 created: 2016-01-21
-updated: 2025-01-09
+updated: 2025-05-09
 tags:
   - authentication
   - security
@@ -47,8 +47,8 @@ tags:
 
 does not to mandate SSL/TLS
 
-[RFC 2617 - HTTP Authentication: Basic and Digest Access Authentication](https://tools.ietf.org/html/rfc2617)
-[RFC 7235 - Hypertext Transfer Protocol (HTTP/1.1): Authentication](https://tools.ietf.org/html/rfc7235)
+[RFC 2617 - HTTP Authentication: Basic and Digest Access Authentication](https://datatracker.ietf.org/doc/html/rfc2617)
+[RFC 7235 - Hypertext Transfer Protocol (HTTP/1.1): Authentication](https://datatracker.ietf.org/doc/html/rfc7235)
 
 `Access-Control-Allow-Origin: *` does not allow requests to supply credentials like HTTP authentication, client-side SSL certificates, or cookies. You have to use `Access-Control-Allow-Headers: Authorization, X-Token` to allow those headers.
 
@@ -124,7 +124,7 @@ Based on [Zanzibar](https://research.google/pubs/pub48190/), Google’s Consiste
 ## TOTP
 
 [Time-based One-time Password algorithm - Wikiwand](https://www.wikiwand.com/en/Time-based_One-time_Password_algorithm)
-[RFC 6238: TOTP: Time-Based One-Time Password Algorithm](https://www.rfc-editor.org/rfc/rfc6238.html)
+[RFC 6238: TOTP: Time-Based One-Time Password Algorithm](https://datatracker.ietf.org/doc/html/rfc6238)
 
 [Google Authenticator - Wikiwand](https://www.wikiwand.com/en/Google_Authenticator)
 [Google 2-Step Verification](https://www.google.com/landing/2step/)
@@ -152,6 +152,8 @@ Based on [Zanzibar](https://research.google/pubs/pub48190/), Google’s Consiste
 physical keys
 [FIDO2 | Yubico](https://www.yubico.com/solutions/fido2/)
 [Titan Security Key Bundle, FIDO U2F BT & NFC - Google Store](https://store.google.com/us/product/titan_security_key_kit?hl=en-US)
+
+[Google Online Security Blog: Toward Quantum Resilient Security Keys](https://security.googleblog.com/2023/08/toward-quantum-resilient-security-keys.html)
 
 ## Node.js
 
@@ -192,8 +194,11 @@ physical keys
 
 ## WebAuthn
 
+> all passkeys are based on WebAuthn
+
 [WebAuthn.io](https://webauthn.io/)
 [WebAuthn - Wikiwand](https://www.wikiwand.com/en/WebAuthn)
+[Guide to Web Authentication](https://webauthn.guide/)
 [Web Authentication API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Authentication_API)
 [Web Authentication: An API for accessing Public Key Credentials Level 1](https://www.w3.org/TR/webauthn/)
 
@@ -202,6 +207,8 @@ physical keys
 [Your First WebAuthn](https://codelabs.developers.google.com/codelabs/webauthn-reauth/index.html)
 [Introduction to Web Authentication: The New W3C Spec](https://auth0.com/blog/introduction-to-web-authentication/)
 [一起來了解 Web Authentication | TechBridge 技術共筆部落格](https://blog.techbridge.cc/2019/08/17/webauthn-intro/)
+
+[Passkeys E2E Playwright Testing via WebAuthn Virtual Authenticator](https://www.corbado.com/blog/passkeys-e2e-playwright-testing-webauthn-virtual-authenticator#webauthn-virtual-authenticator-e2e-passkey-testing)
 
 ## SQRL
 
@@ -330,7 +337,7 @@ does not to mandate SSL/TLS
 [OAuth | hueniverse](http://hueniverse.com/oauth/) 1.0
 [OAuth | hueniverse](http://hueniverse.com/tagged/oauth/)
 [The OAuth 1.0 Guide – hueniverse](https://hueniverse.com/the-oauth-1-0-guide-32503205267e)
-[RFC 5849 - The OAuth 1.0 Protocol](http://tools.ietf.org/html/rfc5849)
+[RFC 5849 - The OAuth 1.0 Protocol](https://datatracker.ietf.org/doc/html/rfc5849)
 
 does not to mandate SSL/TLS
 
@@ -364,10 +371,10 @@ Every time the Refresh Key is used, a new (Access Key, Refresh Key) pair is retu
 [OAuth Community Site](http://oauth.net/) 2.0
 [OAuth / FrontPage](https://wiki.oauth.net/w/page/12238516/FrontPage)
 
-[RFC 6749 - The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749)
-[RFC 6750 - The OAuth 2.0 Authorization Framework: Bearer Token Usage](http://tools.ietf.org/html/rfc6750)
-[RFC 8252 - OAuth 2.0 for Native Apps](https://tools.ietf.org/html/rfc8252)
-[draft-ietf-oauth-security-topics-12 - OAuth 2.0 Security Best Current Practice](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-12)
+[RFC 6749 - The OAuth 2.0 Authorization Framework](https://datatracker.ietf.org/doc/html/rfc6749)
+[RFC 6750 - The OAuth 2.0 Authorization Framework: Bearer Token Usage](https://datatracker.ietf.org/doc/html/rfc6750)
+[RFC 8252 - OAuth 2.0 for Native Apps](https://datatracker.ietf.org/doc/html/rfc8252)
+[draft-ietf-oauth-security-topics-12 - OAuth 2.0 Security Best Current Practice](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics-12)
 
 [An Illustrated Guide to OAuth and OpenID Connect | Okta Developer](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
 [What is OAuth really all about - OAuth tutorial - Java Brains - YouTube](https://www.youtube.com/watch?v=t4-416mg6iU)
@@ -432,13 +439,14 @@ PKSI client send hashed secret before login
 
 ### OpenID
 
-OAuth 2.0 is designed for authorization (permissions), for authentication (identity); hacky way to get user profile and info
+OAuth 2.0 is designed for authorization (permissions), not for authentication (identity); hacky way to get user profile and info
 OpenID Connect is build upon OAuth 2.0 (with `openid` and `profile` scope) designed for authentication
 
 [OpenID Foundation website](https://openid.net/)
 [OpenID Connect | OpenID](https://openid.net/connect/)
 [Final: OpenID Connect Core 1.0 incorporating errata set 1](https://openid.net/specs/openid-connect-core-1_0.html)
-[RFC 8414 - OAuth 2.0 Authorization Server Metadata](https://tools.ietf.org/html/rfc8414) OAuth Discovery
+[Post-Quantum Identity Standards](https://openid.net/post-quantum-identity-standards/)
+[RFC 8414 - OAuth 2.0 Authorization Server Metadata](https://datatracker.ietf.org/doc/html/rfc8414) OAuth Discovery
 
 [OpenID Connect Protocol](https://auth0.com/docs/authenticate/protocols/openid-connect-protocol)
 [panva/node-openid-client: OpenID Certified™ Relying Party (OpenID Connect/OAuth 2.0 Client) implementation for Node.js.](https://github.com/panva/node-openid-client) many links to spec
@@ -483,6 +491,11 @@ OpenID Connect is build upon OAuth 2.0 (with `openid` and `profile` scope) desig
 
 [Keycloak](https://www.keycloak.org/)
 [keycloak/keycloak: Open Source Identity and Access Management For Modern Applications and Services](https://github.com/keycloak/keycloak)
+
+[Welcome | authentik](https://goauthentik.io/)
+[goauthentik/authentik: The authentication glue you need.](https://github.com/goauthentik/authentik)
+[4 reasons Authentik is the best secure sign-in solution for your self-hosted services](https://www.xda-developers.com/authentik-is-the-best-secure-sign-in-solution/)
+[Secure authentication for EVERYTHING! // Authentik - YouTube](https://www.youtube.com/watch?v=N5unsATNpJk)
 
 [luikyv/go-oidc: A configurable OpenID Provider built in Go.](https://github.com/luikyv/go-oidc)
 
@@ -570,12 +583,12 @@ And much more...
 [JWT](http://jwt.io) is the spec for how a _non-opaque token_ should be created. This allows token receiver to parse the token and receive meta without database query.
 [JSON Web Token - Wikiwand](https://www.wikiwand.com/en/JSON_Web_Token)
 
-[RFC 7515 - JSON Web Signature (JWS)](https://tools.ietf.org/html/rfc7515)
-[RFC 7516 - JSON Web Encryption (JWE)](https://tools.ietf.org/html/rfc7516)
-[RFC 7517 - JSON Web Key (JWK)](https://tools.ietf.org/html/rfc7517)
-[RFC 7518 - JSON Web Algorithms (JWA)](https://tools.ietf.org/html/rfc7518)
-[RFC 7519 - JSON Web Token (JWT)](https://tools.ietf.org/html/rfc7519)
-[RFC 7520 - JOSE Cookbook](https://tools.ietf.org/html/rfc7520)
+[RFC 7515 - JSON Web Signature (JWS)](https://datatracker.ietf.org/doc/html/rfc7515)
+[RFC 7516 - JSON Web Encryption (JWE)](https://datatracker.ietf.org/doc/html/rfc7516)
+[RFC 7517 - JSON Web Key (JWK)](https://datatracker.ietf.org/doc/html/rfc7517)
+[RFC 7518 - JSON Web Algorithms (JWA)](https://datatracker.ietf.org/doc/html/rfc7518)
+[RFC 7519 - JSON Web Token (JWT)](https://datatracker.ietf.org/doc/html/rfc7519)
+[RFC 7520 - JOSE Cookbook](https://datatracker.ietf.org/doc/html/rfc7520)
 
 JWT = `{header}.{claim}.{signature}`
 
@@ -700,7 +713,7 @@ Auth0 is the owner of Node.js `jsonwebtoken` module.
 [What are the differences between LDAP and Active Directory? - Stack Overflow](https://stackoverflow.com/questions/663402/what-are-the-differences-between-ldap-and-active-directory)
 [What are the differences between LDAP and Active Directory authentication? - Stack Overflow](https://stackoverflow.com/questions/16209039/what-are-the-differences-between-ldap-and-active-directory-authentication?rq=1)
 
-[RFC 4511 - Lightweight Directory Access Protocol (LDAP): The Protocol](https://tools.ietf.org/html/rfc4511)
+[RFC 4511 - Lightweight Directory Access Protocol (LDAP): The Protocol](https://datatracker.ietf.org/doc/html/rfc4511)
 
 [AD/ADAM vs. LDAP (OpenLDAP and others)](ftp://ftp.uni-duisburg.de/LDAP/Adam-Eval1-0.pdf)
 [Allow external LDAP access to O365 / AzureAD – Customer Feedback for Microsoft Office 365](https://office365.uservoice.com/forums/273493-office-365-admin/suggestions/33936427-allow-external-ldap-access-to-o365-azuread)

@@ -2,19 +2,20 @@
 title: Syntax Highlighting
 description: ""
 created: 2015-10-08
-updated: 2025-01-09
+updated: 2025-04-09
 tags:
   - syntax-highlight
   - web
   - web-dev
 ---
 
-[Implementing a Syntax-Highlighting JavaScript Editor In JavaScript](http://codemirror.net/1/story.html)
-http://codemirror.net/doc/manual.html#modeapi
-https://github.com/codemirror/CodeMirror/blob/master/mode/gfm/gfm.js
-https://github.com/espadrine/ace2cm
+## Expressive Code
 
-http://ace.c9.io/#nav=higlighter
+> using Shiki
+
+[Expressive Code | Expressive Code](https://expressive-code.com/) supports Astro, Next.js, built-in in Starlight
+
+[Astro Docs code blocks with Expressive Code | HenestrosaDev](https://henestrosa.dev/blog/astro-docs-code-blocks-with-expressive-code)
 
 ## Prism
 
@@ -29,7 +30,7 @@ http://ace.c9.io/#nav=higlighter
 
 > TextMate grammars, VS Code themes
 
-[Shiki](https://shiki.matsu.io/)
+[Shiki](https://shiki.style/)
 [shikijs/shiki: A beautiful Syntax Highlighter.](https://github.com/shikijs/shiki)
 
 ## Monarch
@@ -38,14 +39,29 @@ http://ace.c9.io/#nav=higlighter
 
 [Monaco Editor Monarch](https://microsoft.github.io/monaco-editor/monarch.html)
 
+## CodeMirror
+
+[CodeMirror](https://codemirror.net/)
+[codemirror/dev: Development repository for the CodeMirror editor project](https://github.com/codemirror/dev/)
+
+[Implementing a Syntax-Highlighting JavaScript Editor In JavaScript](http://codemirror.net/1/story.html)
+[CodeMirror 5 User Manual](https://codemirror.net/doc/manual.html)
+[codemirror5/mode/gfm/gfm.js at master · codemirror/codemirror5](https://github.com/codemirror/codemirror5/blob/master/mode/gfm/gfm.js)
+
+[Ace - The High Performance Code Editor for the Web](https://ace.c9.io/#nav=higlighter)
+[espadrine/ace2cm: Convert Ace highlight rules to the CodeMirror format.](https://github.com/espadrine/ace2cm)
+
 ## Hightlight.js
 
 [highlight.js](https://highlightjs.org/)
+[highlightjs/highlight.js: JavaScript syntax highlighter with language auto-detection and zero dependencies.](https://github.com/highlightjs/highlight.js)
 
-[highlight.js demo](https://highlightjs.org/static/demo/) demos both language and style
-[Language definition guide — highlight.js documentation](http://highlightjs.readthedocs.org/en/latest/language-guide.html)
+[Demo - highlight.js](https://highlightjs.org/demo) demos both language and theme
+[Language Definition Guide — highlight.js documentation](https://highlightjs.readthedocs.io/en/latest/language-guide.html)
 
 ## Google Code Prettify
+
+> 🗃️archived
 
 [google/code-prettify: Automatically exported from code.google.com/p/google-code-prettify](https://github.com/google/code-prettify)
 [code-prettify/getting_started.md at master · google/code-prettify](https://github.com/google/code-prettify/blob/master/docs/getting_started.md)
@@ -59,10 +75,14 @@ http://ace.c9.io/#nav=higlighter
 
 ## SyntaxHighlighter
 
+> 😴inactive
+
 [SyntaxHighlighter](https://github.com/syntaxhighlighter)
 [SyntaxHighlighter](http://alexgorbatchev.com/SyntaxHighlighter/) dead
 
 ## Rainbow
+
+> 😴inactive
 
 [Rainbow - Javascript Code Syntax Highlighting](https://craig.is/making/rainbows)
 [ccampbell/rainbow: Simple syntax highlighting library written in javascript](https://github.com/ccampbell/rainbow)

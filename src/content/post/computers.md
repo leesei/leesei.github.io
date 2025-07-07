@@ -2,7 +2,7 @@
 title: Computers
 description: ""
 created: 2016-10-18
-updated: 2025-01-09
+updated: 2025-06-12
 tags:
   - comp/hardware
 ---
@@ -30,9 +30,10 @@ tags:
 - HGST HUS726T6TALE6L4 6TB @2023-10
 - Intel AX200 + Antennae $116@2020-10
 - Perixx Periduo-505 ¥298@2021-08
-- Elecom HUGE ¥374@2017-09
+- Elecom HUGE $385@2024-06
 - LG UltraGear 27GP83B 27" 2560x1440 16:9 Nano IPS 4.2/6.3kg $3080@2021-10
 - Philips 245C5-QHAB 24" 1920x1080 16:9 IPS w/speaker $1900@2015-02
+- Fosi Audio A3 Soundbar ¥149@2025-06
 - COOLER MASTER MasterBox NR600 $495@2020-06
   - Cooler Master 202001180-GP 1200 RPM 7 blades
   - Cooler Master 200031171-GP 1200 RPM 9 blades
@@ -57,7 +58,6 @@ $2800@2023-02 (ex-GPU)
 - AGI AI198 1TB (PCIe 3x4, Intel 64L TLC 500TBW, SM2263XT, 1900R/1600W, HBM) $399@2022-11
 - Intel AX200 $49@2024-04
 - GigaByte GeForce GTX 1060 WINDFORCE OC 6G (GV-N1060WF2OC-6GD) $2299@2017-07
-
   - 10 SMM, 40 CU, 1280 CUDA Cores
   - Base: 1582/1556 MHz, Boost:1797/1771 MHz
   - 192 bit interface, 192GBps
@@ -66,7 +66,7 @@ $2800@2023-02 (ex-GPU)
   - L=224 H=131 W=36 mm
   - 120W
 
-- Thermalright TR-TGFX650 SFX 650W $496.5@2017-07
+- Thermalright TR-TGFX650 SFX 650W $496.5@2024-07
 - 閃鱗 S300 Case
   L=312 H=193 W=135 mm 8.1L
   PCI-E 3.0 extension
@@ -87,7 +87,6 @@ https://www.userbenchmark.com/UserRun/59456839 before RAM change
 https://www.userbenchmark.com/UserRun/59459570 after RAM change
 
 [精粤B760I GAMING主板 - Intel LGA1700 - 精粤JGINYUE官网](https://jginyue.com.cn/index/Article/show/cat_id/22/id/10)
-[精粤B760I Snow Dream D4 主板 - Intel LGA1700 - 精粤JGINYUE官网](https://jginyue.com.cn/index/Article/show/cat_id/22/id/14)
 
 ## Acer Swift Edge 16
 
@@ -425,5 +424,5 @@ U330P A 壳
 [LinLap.com [Linux Laptop Wiki]](http://www.linlap.com/)
 [Unlocking Hidden Potential In IvyBridge ThinkPads | Hackaday](https://hackaday.com/2020/02/03/unlocking-hidden-potential-in-ivybridge-thinkpads/)
 
-[LaptopRepairHelp - YouTube](https://www.youtube.com/channel/UCxjZ_nUJ4VOQcBsD3USRdrg)
+[LaptopRepairHelp - YouTube](https://www.youtube.com/@LaptopRepairHelp)
 [Laptop Parts | Replacement Parts For Laptop Repair](http://www.laptopinventory.com/)

@@ -2,7 +2,7 @@
 title: Gnome notes
 description: ""
 created: 2024-09-10
-updated: 2025-01-09
+updated: 2025-06-04
 tags:
   - desktop
   - gnome
@@ -12,6 +12,8 @@ tags:
 > Do use Gnome on X11 (select in Login screen) for `sxhkd` and `xev` is not working well with Wayland
 
 [GNOME – Simple, beautiful, elegant.](https://www.gnome.org/)
+
+[Hari Rana / Refine · GitLab](https://gitlab.gnome.org/TheEvilSkeleton/Refine)
 
 ## Settings
 
@@ -123,9 +125,20 @@ gsettings set org.gnome.mutter locate-pointer-key Shift_R
 gsettings set org.gnome.desktop.interface locate-pointer true
 ```
 
+## Debugging
+
+[Projects/GnomeShell/Debugging – GNOME Wiki Archive](<https://wiki.gnome.org/Projects(2f)GnomeShell(2f)Debugging.html>)
+
+[GNOME/Debugging - Funtoo](https://www.funtoo.org/GNOME/Debugging) `/etc/gdm/custom.conf`
+
+```
+gdm restart
+```
+
 ## Shell Extensions
 
 [GNOME Shell Extensions](https://extensions.gnome.org/)
+[GNOME Shell Extensions - Documentation](https://docs.rockylinux.org/desktop/gnome/gnome-extensions/)
 
 Install browser extension [GNOME Shell integration](https://chromewebstore.google.com/detail/gnome-shell-integration/gphhapmejobijbbhgpjhcjognlahblep) and `yay -Sy gnome-browser-connector`
 

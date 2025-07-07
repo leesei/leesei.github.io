@@ -2,7 +2,7 @@
 title: Buddhism
 description: ""
 created: 2015-10-17
-updated: 2025-01-09
+updated: 2025-07-06
 tags:
   - philosophy
 ---
@@ -39,9 +39,14 @@ tags:
 
 [CCTV 纪录 - YouTube](https://www.youtube.com/user/documentarycntv/search?query=%E6%B0%B8%E8%BF%9C%E7%9A%84%E7%8A%8D%E9%99%80%E7%BD%97)
 
+青蛙刀圣1993
+[用一節課的時間，帶你領悟2500年前的智慧|從零入門佛學概要 - YouTube](https://www.youtube.com/watch?v=iarQPosd9OU)
+
 阿冉
 [中国佛祖，为何却是“黑人丸子头”？透视佛祖发型上的300年政治博弈和宗教演化 - YouTube](https://www.youtube.com/watch?v=iTrojxNGGKU)
 [改变中国2000年的大乘佛教，到底什么来头？大乘佛教：一个佛教版的基督教 - YouTube](https://www.youtube.com/watch?v=XN8fpAdnbDU)
+
+[用100張AI照片還原釋迦牟尼的故事:真實的佛陀是什麽樣子?佛教會影響人類進程?佛祖顯靈的真正原因... | 床台 - YouTube](https://www.youtube.com/watch?v=JqS-keb6XbI)
 
 [全面揭穿佛教系列 - YouTube](https://www.youtube.com/playlist?list=PLbUGnFmS1f5djHPgYlt9sf6gKp2dTLify) 天狗衛視
 
