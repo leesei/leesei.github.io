@@ -8,7 +8,6 @@ title: "Behind the Curtain"
 - TypeScript
 - [Astro](https://astro.build/)
 - [AstroPaper](https://astro-paper.pages.dev/)
-
   - @astrojs/react
   - @astrojs/tailwind
   - fuzzy search with [Fuse.js](https://fusejs.io/)
