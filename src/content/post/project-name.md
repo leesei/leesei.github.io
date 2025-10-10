@@ -2,7 +2,7 @@
 title: Project Name
 description: ""
 created: 2016-01-21
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - comp
 ---
@@ -11,7 +11,7 @@ tags:
 
 [TwoHardThings](http://martinfowler.com/bliki/TwoHardThings.html)
 [Why is naming things hard in computer science, and how can it can be made easier? - Quora](https://www.quora.com/Why-is-naming-things-hard-in-computer-science-and-how-can-it-can-be-made-easier)
-[SE-Radio Episode 278: Peter Hilton on Naming : Software Engineering Radio](http://www.se-radio.net/2016/12/se-radio-episode-278-peter-hilton-on-naming/)
+[SE-Radio Episode 278: Peter Hilton on Naming : Software Engineering Radio](https://www.se-radio.net/2016/12/se-radio-episode-278-peter-hilton-on-naming/)
 
 [What's in a Project Name?](http://blog.codinghorror.com/whats-in-a-project-name/)
 [The Myth of Descriptive Module Names | hueniverse](http://hueniverse.com/2015/09/10/the-myth-of-descriptive-module-names/)

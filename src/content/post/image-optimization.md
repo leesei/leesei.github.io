@@ -2,7 +2,7 @@
 title: Image Optimization
 description: ""
 created: 2016-08-04
-updated: 2025-06-11
+updated: 2025-07-07
 tags:
   - app
   - shell-tools

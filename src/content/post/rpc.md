@@ -2,7 +2,7 @@
 title: Remote Procedure Call (RPC)
 description: ""
 created: 2018-08-02
-updated: 2025-01-09
+updated: 2025-08-07
 tags:
   - comp/lang
   - rpc
@@ -12,7 +12,7 @@ tags:
 [[grpc]]
 [[web-socket]]
 
-[Remote procedure call - Wikiwand](http://www.wikiwand.com/en/Remote_procedure_call)
+[Remote procedure call - Wikiwand](https://www.wikiwand.com/en/Remote_procedure_call)
 Usually an interface description language ([IDL](#idl)) is used to define the data sent over the wire. The IDL that can usually generate bindings for multiple languages.
 
 [Understanding RPC (tour of API protocols, gRPC nodejs walkthrough, and Apache Arrow Flight)](https://main.grokoverflow.com/posts/2022/02-understanding-rpc-node-walkthrough)
@@ -57,7 +57,7 @@ Message queues can be used for RPC calls.
 [jlalmes/trpc-openapi: OpenAPI support for tRPC 🧩](https://github.com/jlalmes/trpc-openapi)
 
 [🪄 | ts-rest](https://ts-rest.com/)
-[GitHub - ts-rest/ts-rest: RPC-like client, contract, and server implementation for a pure REST API](https://github.com/ts-rest/ts-rest)
+[ts-rest/ts-rest: RPC-like client, contract, and server implementation for a pure REST API](https://github.com/ts-rest/ts-rest)
 [I Never Want to Create APIs Any Other Way - YouTube](https://www.youtube.com/watch?v=tjfEkaPiKQQ)
 
 ## RSocket

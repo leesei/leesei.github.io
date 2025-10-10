@@ -2,7 +2,7 @@
 title: Compiler
 description: How source code is turned into machine code
 created: 2023-04-14
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - comp/hardware
   - comp/lang
@@ -18,7 +18,7 @@ tags:
 6. Linking of object files
 
 [KEYNOTE: What Everyone Should Know About How Amazing Compilers Are - Matt Godbolt [C++ on Sea 2019] - YouTube](https://www.youtube.com/watch?v=w0sz5WbS5AM)
-[How A Compiler Works: GNU Toolchain](http://www.slideshare.net/jserv/how-a-compiler-works-gnu-toolchain)
+[How A Compiler Works: GNU Toolchain](https://www.slideshare.net/jserv/how-a-compiler-works-gnu-toolchain)
 [I wrote a programming language. Here’s how you can, too.](https://www.freecodecamp.org/news/the-programming-language-pipeline-91d3f449c919/)
 [Oops, I Wrote a C++ Compiler](https://praeclarum.org/2018/08/27/oops-i-wrote-a-c-compiler.html) C/C++ compiler/interpreter in .NET
 
@@ -83,8 +83,8 @@ $ zig targets | jq ".cpus | map_values(keys)"
 
 ### Cross compile for Windows
 
-[MXE (M cross environment)](http://mxe.cc/)
-[MXE - build-pkg by starius](http://pkg.mxe.cc/)
+[MXE (M cross environment)](https://mxe.cc/)
+[MXE - build-pkg by starius](https://pkg.mxe.cc/)
 
 [Install The Mingw Cross-Compiler - WxWiki](https://wiki.wxwidgets.org/Install_The_Mingw_Cross-Compiler)
 [The Beez' speaks..: Cross compilers, the new wave](https://thebeezspeaks.blogspot.com/2009/04/cross-compilers-new-wave.html)
@@ -100,7 +100,7 @@ From a compiler that I trust, to a compiler (or toolchain) that can compile sour
 [What is Bootstrapping? - Computerphile - YouTube](https://www.youtube.com/watch?v=nslY1s0U9_c)
 [Compilers with Professor Brailsford - YouTube](https://www.youtube.com/playlist?list=PLzH6n4zXuckoJaMwuI1fhr5n8cJL18hYd)
 
-[trust_stack_slides.pdf](http://web.mit.edu/6.033/2014/wwwdocs/assignments/quizzes/trust_stack_slides.pdf)
+[trust_stack_slides.pdf](https://web.mit.edu/6.033/2014/wwwdocs/assignments/quizzes/trust_stack_slides.pdf)
 [Countering "Trusting Trust" - Schneier on Security](https://www.schneier.com/blog/archives/2006/01/countering_trus.html)
 [Reflections on Trusting Trust](https://www.win.tue.nl/~aeb/linux/hh/thompson/trust.html)
 [Backdoor (computing) - Wikiwand](https://www.wikiwand.com/en/Trusting%20trust)
@@ -136,13 +136,13 @@ gcc -### -march=native /usr/include/stdlib.h
 > LLVM defines an intermediate representation (IR) and a backend that targets and optimizes for any instruction set architecture (ISA)
 
 [LLVM - Wikiwand](https://www.wikiwand.com/en/LLVM)
-[The LLVM Compiler Infrastructure Project](http://llvm.org/)
+[The LLVM Compiler Infrastructure Project](https://llvm.org/)
 [LLVM | Everything I Know](https://wiki.nikiv.dev/compilers/llvm)
 
 [The Architecture of Open Source Applications (Volume 1) LLVM](https://aosabook.org/en/v1/llvm.html)
 [A Brief Introduction to LLVM - YouTube](https://www.youtube.com/watch?v=a5-WaD8VV38)
 [LLVM, in Greater Detail](https://www.cs.cmu.edu/afs/cs/academic/class/15745-s13/public/lectures/L6-LLVM-Detail-1up.pdf) PDF
-[SE-Radio Episode 291: Morgan Wilde on LLVM : Software Engineering Radio](http://www.se-radio.net/2017/05/se-radio-episode-291-morgan-wilde-on-llvm/)
+[SE-Radio Episode 291: Morgan Wilde on LLVM : Software Engineering Radio](https://www.se-radio.net/2017/05/se-radio-episode-291-morgan-wilde-on-llvm/)
 
 [LLVM Tutorial](https://llvm.org/docs/tutorial/)
 [My First Language Frontend with LLVM Tutorial — LLVM documentation](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html)

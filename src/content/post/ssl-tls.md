@@ -2,7 +2,7 @@
 title: SSL/TLS
 description: ""
 created: 2015-04-02
-updated: 2025-06-18
+updated: 2025-07-07
 tags:
   - security
   - ssl
@@ -13,7 +13,7 @@ tags:
 [[x-509#PKI]]
 [[ssl-tls-free-certs]]
 
-[Transport Layer Security](http://www.wikiwand.com/en/Transport_Layer_Security) (TLS) and its predecessor, [Secure Sockets Layer](https://www.digicert.com/ssl.htm) (SSL), are cryptographic protocols designed to provide communications security over a computer network.
+[Transport Layer Security](https://www.wikiwand.com/en/Transport_Layer_Security) (TLS) and its predecessor, [Secure Sockets Layer](https://www.digicert.com/ssl.htm) (SSL), are cryptographic protocols designed to provide communications security over a computer network. TLS ensures confidentiality and authentication for the parties.
 
 [What is SSL (Secure Sockets Layer)? | Cloudflare](https://www.cloudflare.com/learning/ssl/what-is-ssl/)
 [What is Transport Layer Security (TLS)? | Cloudflare](https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/)
@@ -108,6 +108,10 @@ TLS v1.3
 [TLS Handshake For Secure Communications Over The Internet](https://www.encryptionconsulting.com/what-is-a-tls-handshake-and-how-does-it-work/)
 [SSH Handshake – Why Abhinav?](https://yabhinav.github.io/security/openssh-handshake-overview/)
 [What is a TLS Handshake and How Does it Work? | Venafi](https://venafi.com/blog/how-does-a-tls-handshake-work/) 0-RTT
+
+The parties specify which version of TLS (TLS 1.0, 1.2, 1.3, etc.) and which cipher suites (see below) they will use
+Authenticate the identity of the server via the server's public key and the SSL certificate authority's digital signature
+Generate session keys in order to use symmetric encryption after the handshake is complete
 
 [What happens in a TLS handshake? | SSL handshake | Cloudflare](https://www.cloudflare.com/learning/ssl/what-happens-in-a-tls-handshake/)
 [What is a session key? | Session keys and TLS handshakes | Cloudflare](https://www.cloudflare.com/learning/ssl/what-is-a-session-key/)
@@ -207,7 +211,7 @@ SHA384: MAC
 
 > always use HTTPS
 
-[HTTP Strict Transport Security - Wikiwand](http://www.wikiwand.com/en/HTTP_Strict_Transport_Security)
+[HTTP Strict Transport Security - Wikiwand](https://www.wikiwand.com/en/HTTP_Strict_Transport_Security)
 [HSTS Preload List Submission](https://hstspreload.appspot.com/)
 
 ## Certificate Transparency
@@ -228,6 +232,13 @@ CT deprecates HPKP
 
 [The Cloudflare mTLS vulnerability - A Deep Dive Analysis - YouTube](https://www.youtube.com/watch?v=xsLqf1Qomn0)
 [mTLS: When certificate authentication is done wrong - The GitHub Blog](https://github.blog/security/vulnerability-research/mtls-when-certificate-authentication-is-done-wrong/)
+
+## Keyless SSL
+
+> [[x-509#Delegated Credentials]]
+
+[Keyless SSL: The Nitty Gritty Technical Details](https://blog.cloudflare.com/keyless-ssl-the-nitty-gritty-technical-details/)
+[cloudflare/gokeyless: Go implementation of the keyless protocol](https://github.com/cloudflare/gokeyless)
 
 ## SSL checkers
 

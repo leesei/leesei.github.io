@@ -2,7 +2,7 @@
 title: God of War
 description: ""
 created: 2023-08-14
-updated: 2025-03-29
+updated: 2025-07-07
 tags:
   - games
   - god-of-war

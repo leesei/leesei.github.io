@@ -2,12 +2,13 @@
 title: Blockchain
 description: ""
 created: 2017-08-18
-updated: 2025-01-09
+updated: 2025-10-10
 tags:
   - blockchain
   - crypto
 ---
 
+[動區動趨-最具影響力的區塊鏈新聞媒體](https://www.blocktempo.com/)
 [Crypto Tokens: A Breakthrough in Open Network Design](https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef)
 
 [Crypto Theses for 2022 - Messari](https://messari.io/crypto-theses-for-2022)
@@ -63,6 +64,14 @@ In "order selection mechanism" (which is called "mining"), blocks will be serial
 
 [Crypto: The World’s Greatest Scam. - YouTube](https://www.youtube.com/watch?v=ORdWE_ffirg)
 [【Joeman】台灣挖礦紀錄片！從崩跌礦難到月入百萬！實際採訪五個千萬等級的大型礦場 @含羞草 - YouTube](https://www.youtube.com/watch?v=IBA3k7GBsWc)
+
+## Layer2 Blockchain
+
+[List of 20 Layer 2 Blockchains (2025)](https://www.alchemy.com/dapps/best/layer-2-blockchains)
+[Layer 1 vs. Layer 2: The Difference Between Blockchain Scaling Solutions](https://www.investopedia.com/what-are-layer-1-and-layer-2-blockchain-scaling-solutions-7104877)
+
+[Global Financial Infrastructure for Everyone | Solana](https://solana.com/)
+[高峰時仍擁堵，Solana 也需要 Layer2 和 Rollup 嗎？ | 動區動趨-最具影響力的區塊鏈新聞媒體](https://www.blocktempo.com/does-the-high-performance-public-blockchain-solana-need-layer2-and-rollups/)
 
 ### Merkle tree
 
@@ -270,6 +279,11 @@ sarcasm
 
 [DIDs and DIDcomm](https://twit.tv/shows/floss-weekly/episodes/685)
 
+[Identity.com: User-Centric Digital Identity](https://www.identity.com/)
+
+[Home - Keri.one](https://keri.one/) Key Event Receipt Infrastructure (KERI) is the first truly fully decentralized identity system.
+[keri | Key Event Receipt Infrastructure - the spec and implementation of the KERI protocol](https://identity.foundation/keri/kids/kid0000.html)
+
 [Wallets across NFT aggregators: Monetization & Build Architecture - Abi Dharshan - Zerion - YouTube](https://www.youtube.com/watch?v=2kJn0zui_l4)
 [解讀 DID 去中心身份》未來大規模採用，具體投資方向在哪？ | 動區動趨-最具影響力的區塊鏈新聞媒體](https://www.blocktempo.com/putting-control-back-into-the-hands-of-users/)
 
@@ -278,6 +292,10 @@ sarcasm
 [Blockchain for Digital Identity | Real World Blockchain Use Cases | Consensys](https://consensys.io/blockchain-use-cases/digital-identity)
 [The Identity Cookbook: Blockchain for Identity: Access Request Management](http://www.theidentitycookbook.com/2016/06/blockchain-for-identity-access-request.html)
 [Anatomy of a zero-knowledge web application - Clipperz, register your creations on the blockchain](https://clipperz.is/blog/2007/08/24/anatomy_zero_knowledge_web_application/)
+
+### Verifiable Credentials
+
+[What Are Verifiable Credentials? Complete Overview](https://www.identity.com/what-are-verifiable-credentials/)
 
 ### UCAN
 
@@ -316,6 +334,17 @@ login with blockchain wallet
 ### Zerion
 
 [Web3 Crypto Wallet With NFT & DeFi Portfolio Tracker - Zerion](https://zerion.io/)
+
+## Real World Asset (RWA)/Tokenization
+
+[Chainlink: The Industry-Standard Oracle Platform](https://chain.link/)
+
+[RWA.io - The Global Hub for Real-World Asset Tokenization](https://www.rwa.io/)
+
+- using [Polygon's zkEVM](https://docs.polygon.technology/zkEVM/) zero-knowledge Ethereum Virtual Machine
+- [What Is a zkEVM? | Chainlink](https://chain.link/education-hub/zkevm)
+
+[What is Lumia Chain? | Lumia - The RWA Chain](https://docs.lumia.org/)
 
 ## Decentralized application (dApp)
 

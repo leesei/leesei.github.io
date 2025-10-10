@@ -2,7 +2,7 @@
 title: Regular expression
 description: ""
 created: 2015-02-26
-updated: 2025-04-28
+updated: 2025-07-07
 tags:
   - comp/lang
   - formal-language
@@ -13,7 +13,7 @@ tags:
   - ruby
 ---
 
-[Regular expression](http://www.wikiwand.com/en/Regular_expression) is a [formal language](http://www.wikiwand.com/en/Formal_language) for pattern matching. Different languages supports different feature sets and have different syntaxes, see summary [here](http://www.greenend.org.uk/rjk/tech/regexp.html).
+[Regular expression](https://www.wikiwand.com/en/Regular_expression) is a [formal language](https://www.wikiwand.com/en/Formal_language) for pattern matching. Different languages supports different feature sets and have different syntaxes, see summary [here](http://www.greenend.org.uk/rjk/tech/regexp.html).
 
 [The true power of regular expressions](https://nikic.github.io/2012/06/15/The-true-power-of-regular-expressions.html)
 
@@ -91,7 +91,7 @@ These highlight matches in input test string.
 [The conditional expression [Bash Hackers Wiki]](http://wiki.bash-hackers.org/syntax/ccmd/conditional_expression)
 [Patterns and pattern matching [Bash Hackers Wiki]](http://wiki.bash-hackers.org/syntax/pattern)
 
-[Bash double bracket regex comparison using negative lookahead error return 2 - Stack Overflow](http://stackoverflow.com/questions/30905017/bash-double-bracket-regex-comparison-using-negative-lookahead-error-return-2)
+[Bash double bracket regex comparison using negative lookahead error return 2 - Stack Overflow](https://stackoverflow.com/questions/30905017/bash-double-bracket-regex-comparison-using-negative-lookahead-error-return-2)
 
 ## Perl (PCRE)
 
@@ -165,7 +165,7 @@ JavaScript's Regex does not have look behind and named captures. Use [XRegExp](h
 [Regular Expressions: Regexes in Python (Part 1) – Real Python](https://realpython.com/regex-python/)
 [Regular Expressions: Regexes in Python (Part 2) – Real Python](https://realpython.com/regex-python-part-2/)
 
-[python - Named regular expression group "(?P<group_name>regexp)": what does "P" stand for? - Stack Overflow](http://stackoverflow.com/questions/10059673/named-regular-expression-group-pgroup-nameregexp-what-does-p-stand-for)
+[python - Named regular expression group "(?P<group_name>regexp)": what does "P" stand for? - Stack Overflow](https://stackoverflow.com/questions/10059673/named-regular-expression-group-pgroup-nameregexp-what-does-p-stand-for)
 
 [Kodos - The Python Regex Debugger](http://kodos.sourceforge.net/)
 [Google Code Archive - kiki-re](https://code.google.com/archive/p/kiki-re/)

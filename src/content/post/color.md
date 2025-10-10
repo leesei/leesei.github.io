@@ -2,7 +2,7 @@
 title: Color
 description: ""
 created: 2014-12-17
-updated: 2025-07-06
+updated: 2025-07-30
 tags:
   - color-palette
   - colorspace
@@ -25,7 +25,7 @@ tags:
 
 [The Amazing Math behind Colors! - YouTube](https://www.youtube.com/watch?v=gnUYoQ1pwes) ❗!important, CIE XYZ colorspace
 [Your Colors Suck (it's not your fault) - YouTube](https://www.youtube.com/watch?v=fv-wlo8yVhk) CIE XYZ colorspace
-[Color: From Hexcodes to Eyeballs](http://jamie-wong.com/post/color/)
+[Color: From Hexcodes to Eyeballs](https://jamie-wong.com/post/color/)
 
 [How Games are HACKING Color Theory - YouTube](https://www.youtube.com/watch?v=j68UW21Nx6g) tone mapping, from real colorspace to one for the display
 
@@ -35,7 +35,7 @@ tags:
 [[optical-illusion#Color Assimilation/Chromatic Adaptation]]
 
 [Colourful in Theory - That Irks Me - YouTube](https://www.youtube.com/watch?v=qKPY2opisRk)
-[Color — Method of Action](http://color.method.ac/) testing your perception and your monitor's rendering of color
+[Color — Method of Action](https://color.method.ac/) testing your perception and your monitor's rendering of color
 
 [The Physics and Psychology of Colour - with Andrew Hanson - YouTube](https://www.youtube.com/watch?v=af78RPi6ayE)
 [How Do We Actually See Color? - YouTube](https://www.youtube.com/watch?v=WN1yCigL3Hk)
@@ -56,8 +56,7 @@ Light source, Color Rendering Index
 
 ## Color Palette/Scheme
 
-[Coolors - The super fast color schemes generator!](http://coolors.co/)
-[Color Hex - ColorHexa.com](http://www.colorhexa.com/)
+[Color Hex - ColorHexa.com](https://www.colorhexa.com/)
 [Adobe Color CC](https://color.adobe.com/zh/)
 
 [Realtime Colors](https://realtimecolors.com/)
@@ -66,11 +65,11 @@ Light source, Color Rendering Index
 [Color meanings: color names and symbolism | Canva Colors](https://www.canva.com/colors/color-meanings/)
 [Spice up your Brand - Create your own color palette in PowerPoint - YouTube](https://www.youtube.com/watch?v=r1bu6y0kQMI)
 
-[Is there a science to picking colors that work well together or is it just subjective? - Quora](http://www.quora.com/Is-there-a-science-to-picking-colors-that-work-well-together-or-is-it-just-subjective)
+[Is there a science to picking colors that work well together or is it just subjective? - Quora](https://www.quora.com/Is-there-a-science-to-picking-colors-that-work-well-together-or-is-it-just-subjective)
 [Which Colors Look Good on Black and White? - DEV Community 👩‍💻👨‍💻](https://dev.to/finnhvman/which-colors-look-good-on-black-and-white-2pe6)
 [Designing accessible color systems](https://stripe.com/blog/accessible-color-systems)
 
-[Color Palette Toolkit : WebSemantics](http://websemantics.github.io/Color-Palette-Toolkit/) from image
+[Color Palette Toolkit : WebSemantics](https://websemantics.github.io/Color-Palette-Toolkit/) from image
 [websemantics/Color-Palette-Toolkit: Turns color values from an Image or PhotoShop ACO file into a list of named colors, lighter and darker shades, css classes and a beautiful style guide.](https://github.com/websemantics/Color-Palette-Toolkit)
 
 [Color Tool - Material Design](https://material.io/resources/color/#!/?view.left=0&view.right=0)
@@ -87,7 +86,7 @@ Light source, Color Rendering Index
 [Color Tools And Resources — Smashing Magazine](https://www.smashingmagazine.com/2021/07/color-tools-resources/)
 [Color Tool - Material Design](https://material.io/color/#!/?view.left=0&view.right=0)
 
-[Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
+[Paletton - The Color Scheme Designer](https://paletton.com/)
 [Happy Hues - Curated colors in context.](https://www.happyhues.co/)
 [Color Leap - History's Palettes](https://colorleap.app/home)
 [Coolors.co - The super fast color schemes generator](https://coolors.co/) single hue
@@ -138,7 +137,8 @@ HTML will turn any string into color
 [Why Tyrian Purple Dye Is So Expensive | So Expensive | Insider Business - YouTube](https://www.youtube.com/watch?v=IVXqisH6VeM)
 
 [Mummy brown - Wikiwand](https://www.wikiwand.com/en/Mummy_brown)
-[The life and death of Mummy Brown - Journal of ART in SOCIETY](http://www.artinsociety.com/the-life-and-death-of-mummy-brown.html)
+[The life and death of Mummy Brown - Journal of ART in SOCIETY](https://www.artinsociety.com/the-life-and-death-of-mummy-brownl.html)
+[When Artists Painted with Real Mummies - JSTOR Daily](https://daily.jstor.org/when-artists-painted-with-real-mummies/)
 [Was This Masterpiece Painted With Ground Mummy?](https://www.nationalgeographic.com/history/article/mummy-art-painting-delacroix-pigment-ancient-Egypt)
 
 [Han purple and Han blue - Wikiwand](https://www.wikiwand.com/en/Han_purple_and_Han_blue)
@@ -146,7 +146,7 @@ HTML will turn any string into color
 [Han Purple - Collections - Asian Art Museum](https://collections.asianart.org/han-purple/)
 [Man-made blue and purple barium copper silicate pigments and the pabstite (BaSnSi3O9) mystery of ancient Chinese wall paintings from Luoyang | Heritage Science | Full Text](https://heritagesciencejournal.springeropen.com/articles/10.1186/s40494-019-0340-4)
 [This 2000-Year-Old Pigment Can Eliminate The Third Dimension](https://gizmodo.com/this-2000-year-old-pigment-can-eliminate-the-third-dime-1661476168)
-[秦始皇帝陵博物院](https://web.archive.org/web/20160305102022/http://www.bmy.com.cn/contents/83/6566.html)
+[秦始皇帝陵博物院](https://web.archive.org/web/20160305102022/https://www.bmy.com.cn/contents/83/6566.html)
 
 ## Colorspace/Color Gamut
 
@@ -177,7 +177,7 @@ Workspace in full colorspace (Adobe RGB) to prevent clipping (overflow/underflow
 HSL_UV => LCH, OKLCH, perceptually uniform
 HSL (RGB) => LAB, OKLAB, negative number, Abney effect
 
-[Awesome Colour](http://awesome-colour.org/)
+[Awesome Colour](https://awesome-colour.org/)
 
 [Data Color Picker – Learn UI Design](https://learnui.design/tools/data-color-picker.html)
 [nschloe/colorio: Tools for color models](https://github.com/nschloe/colorio)
@@ -237,10 +237,9 @@ B' = 1.164*(Y’-16) + 2.017*(Cb'-128)
 
 ### Packaging and colorspace
 
-Packaging is defined by [fourcc](http://www.fourcc.org/yuv.php) and independent of the colorspace.
+Packaging is defined by [fourcc](https://www.fourcc.org/yuv.php) and independent of the colorspace.
 
 Add principles: additive and subtractive
-[JavaScript 进行 RGB 和 HEX(16 进制)颜色转换 - 进击的程序媛，Laker's blog](http://laker.me/blog/2015/10/10/15_1010_rgb_hex_color/#more)
 
 ### Node.js
 
@@ -268,9 +267,8 @@ Add principles: additive and subtractive
 
 ### References
 
-http://en.wikipedia.org/wiki/YUV
-http://www.fourcc.org/fccyvrgb.php
-http://www.fourcc.org/yuv.php
-http://www.martinreddy.net/gfx/faqs/colorconv.faq
-http://blog.weisu.org/2008/01/ycbcr-yuv-sampling.html
-http://discoverybiz.net/enu0/faq/faq_YUV_YCbCr_YPbPr.html
+https://www.wikiwand.com/en/articles/YUV
+https://www.fourcc.org/fccyvrgb.php
+https://www.fourcc.org/yuv.php
+https://www.martinreddy.net/gfx/faqs/colorconv.faq
+https://discoverybiz.net/enu0/faq/faq_YUV_YCbCr_YPbPr.html

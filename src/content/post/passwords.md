@@ -2,7 +2,7 @@
 title: Passwords
 description: ""
 created: 2015-04-08
-updated: 2025-07-07
+updated: 2025-07-15
 tags:
   - passwords
   - security
@@ -108,10 +108,17 @@ Jason Rebholz - TeachMeCyber
 
 ## Passkey
 
+> see [[web-authentication#FIDO]]
+
 [What are Passkeys? | Are Passwords Dead? | A Security Expert Explains - YouTube](https://www.youtube.com/watch?v=AhP0q8c38QU)
 [Faster Logins with Passkeys | Bitwarden Passkey Tutorial - YouTube](https://www.youtube.com/watch?v=o4asbRziCD0)
 [Say Goodbye to Passwords: Passkeys Explained Simply - YouTube](https://www.youtube.com/watch?v=QYdHm7zoF_M)
 [Passkeys SUCK (here’s why + how I use them) - YouTube](https://www.youtube.com/watch?v=_tQbWop1P7o)
+Syncable Passkey: one that can be copied and used on multiple devices
+Single Device Passkey: one that is bound to a physical device
+
+[YubiKeys, Passkeys & Confusion: Let’s Clear It Up - YouTube](https://www.youtube.com/watch?v=GZGHK_f4rrc)
+FIDO2 YubiKeys can store Passkeys
 
 [Wallets vs. Passkeys: What CISOs Need To Know](https://www.itprotoday.com/identity-management-access-control/wallets-vs-passkeys-what-cisos-need-to-know)
 [Why It’s Time to Switch to This Phishing-Resistant Password Alternative](https://www.makeuseof.com/reasons-switch-passcode-instead-password/)

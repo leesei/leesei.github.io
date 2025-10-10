@@ -2,7 +2,7 @@
 title: Caddy
 description: Caddy 2 is a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go
 created: 2023-06-10
-updated: 2025-01-09
+updated: 2025-10-03
 tags:
   - nginx
   - reverse-proxy
@@ -145,10 +145,12 @@ Use `defer` headers to override the value set by the proxied server, c.f. `heade
 [abiosoft/caddy-git: git middleware for Caddy](https://github.com/abiosoft/caddy-git) for deployment
 
 [mholt/caddy-ratelimit: HTTP rate limiting module for Caddy 2](https://github.com/mholt/caddy-ratelimit)
-[caddy-ext/ratelimit at master · RussellLuo/caddy-ext](https://github.com/RussellLuo/caddy-ext/tree/master/ratelimit)
-[greenpau/caddy-auth-portal: Authentication Plugin for Caddy v2 implementing Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication](https://github.com/greenpau/caddy-auth-portal)
-[greenpau/caddy-auth-jwt: JWT Authorization Plugin for Caddy v2](https://github.com/greenpau/caddy-auth-jwt)
+[caddy-ext/ratelimit at master · RussellLuo/caddy-ext](https://github.com/RussellLuo/caddy-ext/tree/master/ratelimit) 😴inactive
 [lucaslorentz/caddy-docker-proxy: Caddy as a reverse proxy for Docker](https://github.com/lucaslorentz/caddy-docker-proxy)
+
+Auth
+[ggicci/caddy-jwt: 🆔 Caddy Module JWT Authentication](https://github.com/ggicci/caddy-jwt)
+[greenpau/caddy-security: 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA/2FA with App Authenticators and Yubico. 💎 Authorization with JWT/PASETO tokens. 🔐](https://github.com/greenpau/caddy-security/tree/main)
 
 [casbin/caddy-authz: Caddy-authz is a middleware for Caddy that blocks or allows requests based on access control policies.](https://github.com/casbin/caddy-authz)
 [casbin/casbin: An authorization library that supports access control models like ACL, RBAC, ABAC in Golang](https://github.com/casbin/casbin)

@@ -2,13 +2,13 @@
 title: Japanese History
 description: ""
 created: 2016-02-14
-updated: 2025-02-07
+updated: 2025-10-04
 tags:
   - history
   - history/japanese
 ---
 
-[日本历史 - Wikiwand](http://www.wikiwand.com/zh/日本历史)
+[日本历史 - Wikiwand](https://www.wikiwand.com/zh/日本历史)
 [日本歷史年表 - Wikiwand](https://www.wikiwand.com/zh/日本历史年表)
 [日本史時代劃分表 - 維基百科，自由的百科全書](http://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8F%B2%E6%99%82%E4%BB%A3%E5%8A%83%E5%88%86%E8%A1%A8)
 
@@ -38,8 +38,9 @@ tags:
 [附時間戳，日本古代史合集，從神紋時代到江戶時代 |彌生時代|古墳時代|飛鳥時代|奈良時代|平安時代|院政時代|鐮倉時代|日本南北朝時代|室町幕府|日本戰國時代|江戶時代|日本天皇|幕府將軍|豐城秀吉| - YouTube](https://www.youtube.com/watch?v=wEXX8GxfmQE)
 [以時代為基礎說完日本全歷史! 簡介所有日本時代! (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=pCADnLc7bSY)
 [【扫盲班】第 17 期：整明白日本历史！ - YouTube](https://www.youtube.com/watch?v=hGnEdkLLHUY)
+[日本：最西端台灣肉眼直接能看到，最東端卻距離東京1800公里，日本領土極限究竟有多遠？地域究竟如何劃分？解析日本版圖下的地理冷知識｜四處觀察 - YouTube](https://www.youtube.com/watch?v=e0zYH051UIQ)
 
-[日本人名 - Wikiwand](http://www.wikiwand.com/zh/日本人名)
+[日本人名 - Wikiwand](https://www.wikiwand.com/zh/日本人名)
 [日本人名 - 維基百科，自由的百科全書](http://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%90%8D)
 
 [科學分析 ▶ 日本人的祖先是誰? 是徐福還是韓國人? - YouTube](https://www.youtube.com/watch?v=1ctBTHk-rNI)

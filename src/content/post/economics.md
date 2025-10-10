@@ -2,7 +2,7 @@
 title: Economics
 description: ""
 created: 2016-09-24
-updated: 2025-06-08
+updated: 2025-09-22
 tags:
   - economics
 ---
@@ -17,6 +17,8 @@ tags:
 [Asianometry - YouTube](https://www.youtube.com/@Asianometry)
 [小岛大浪吹-非正经政经频道 - YouTube](https://www.youtube.com/@xiaodaodalang)
 [Phil Edwards - YouTube](https://www.youtube.com/@PhilEdwardsInc)
+
+[Investopedia](https://www.investopedia.com/)
 
 [Cost of Living](https://www.expatistan.com/cost-of-living)
 
@@ -62,6 +64,11 @@ Public goods
 - 包裝人設, 建立信任
 - 偽科學概念
 
+## Security
+
+[What Are Financial Securities?](https://www.investopedia.com/terms/s/security.asp)
+[经典书籍《海龟交易法则》精读：不预测、只应对、攻守兼备的交易智慧 - YouTube](https://www.youtube.com/watch?v=qFn-TT_8u8M)
+
 ## 財技
 
 [金融危機正在盤旋：我們如何在金融危機中賺錢？|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=vuqLqQtfrjg)
@@ -94,7 +101,6 @@ current account, capital account, financial account
 [How The Triffin Dilemma Affects Currencies](https://www.investopedia.com/financial-edge/1011/how-the-triffin-dilemma-affects-currencies.aspx)
 [The Triffin paradox revisited](https://www.aegonam.com/aegon-insights/macro/the-triffin-paradox-revisited/)
 
-[一定要看：這個世界的「劇本」已經被川普暴露？廣場協議2.0？穩定幣？關稅戰？川普拿到的「劇本」究竟要將我們帶往何處？|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=jcoTKgVx7Tw)
 [关税过山车，特朗普究竟想干嘛？ - YouTube](https://www.youtube.com/watch?v=Op_lsH_ys5g)
 national debt's interest is a big expense of the US government
 Trump tries to depreciate US dollar and re-shpring manufacturing sector

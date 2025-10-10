@@ -2,7 +2,7 @@
 title: Games History
 description: ""
 created: 2019-06-20
-updated: 2025-02-07
+updated: 2025-10-01
 tags:
   - games
   - history
@@ -27,6 +27,7 @@ tags:
 [游研社 YYSTV - YouTube](https://www.youtube.com/@YYSTV)
 [遊戲浪人 - YouTube](https://www.youtube.com/@user-uw2hp5en8q)
 [游戏茶馆 - YouTube](https://www.youtube.com/@gameteahouse)
+[游戏万能机 - YouTube](https://www.youtube.com/@gamemachine1992)
 
 [I am Error - Wikiwand](https://www.wikiwand.com/en/I_am_Error)
 

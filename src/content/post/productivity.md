@@ -2,7 +2,7 @@
 title: Productivity
 description: ""
 created: 2019-08-09
-updated: 2025-03-16
+updated: 2025-08-23
 tags:
   - trivia
 ---
@@ -15,6 +15,7 @@ tags:
 
 [How Task Batching Improved My Focus (and When It Didn’t)](https://www.makeuseof.com/how-task-batching-improved-my-focus/)
 [These 11 Productivity Methods Actually Worked for Me](https://www.makeuseof.com/productivity-methods-that-work/)
+[This One Productivity Rule Fixed My Whole Week](https://www.makeuseof.com/simple-productivity-rule-fix/)
 
 ## Getting Things Done/GTD
 
@@ -60,6 +61,11 @@ Stephen Covey 的 Time Management Matrix
 [doing - BrettTerpstra.com](https://brettterpstra.com/projects/doing/)
 
 [Stretchly - The break time reminder app](https://hovancik.net/stretchly/downloads/)
+
+[Simplenote](https://app.simplenote.com/)
+
+[Joplin](https://joplinapp.org/) open source Simplenote
+[laurent22/joplin: Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.](https://github.com/laurent22/joplin)
 
 ## On the Contrary
 

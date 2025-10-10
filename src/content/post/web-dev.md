@@ -2,7 +2,7 @@
 title: Web Development
 description: ""
 created: 2015-11-19
-updated: 2025-04-05
+updated: 2025-10-08
 tags:
   - css
   - javascript
@@ -94,7 +94,7 @@ tags:
 
 [State of JavaScript: TypeScript rises, Angular falls | InfoWorld](https://www.infoworld.com/article/3242216/javascript/state-of-javascript-typescript-rises-angular-falls.html) 2017-12
 [The State Of JavaScript 2016](http://2016.stateofjs.com/)
-[State of the JavaScript Landscape: A Map for Newcomers](http://www.infoq.com/articles/state-of-javascript-2016) (2016-04)
+[State of the JavaScript Landscape: A Map for Newcomers](https://www.infoq.com/articles/state-of-javascript-2016) (2016-04)
 [The Future of JavaScript: 2016 and Beyond](http://code.tutsplus.com/tutorials/the-future-of-javascript-2016-and-beyond--cms-26305)
 [What does your web stack look like? : node](https://www.reddit.com/r/node/comments/4ig12u/what_does_your_web_stack_look_like/) 2016
 
@@ -258,9 +258,13 @@ If the site is rendered ahead of time at build, it is known as "Static Site Gene
 
 ### Homescreen
 
-[Web Manifest Validator](https://manifest-validator.appspot.com/)
-[Installable Web Apps with the Web App Manifest in Chrome for Android | Web | Google Developers](https://developers.google.com/web/updates/2014/11/Support-for-installable-web-apps-with-webapp-manifest-in-chrome-38-for-Android?hl=en)
-[Increasing Engagement with Web App Install Banners | Web | Google Developers](https://developers.google.com/web/updates/2015/03/increasing-engagement-with-app-install-banners-in-chrome-for-android?hl=en)
+[Web App Manifest Validator | redirection.io](https://redirection.io/tools/web-app-manifest/validator)
+
+[Add a web app manifest  |  Articles  |  web.dev](https://web.dev/articles/add-manifest)
+[How to provide your own in-app install experience  |  Articles  |  web.dev](https://web.dev/articles/customize-install?hl=en)
+[What does it take to be installable?  |  Articles  |  web.dev](https://web.dev/articles/install-criteria)
+
+[cubiq/add-to-homescreen: Add to home screen call-out for mobile devices](https://github.com/cubiq/add-to-homescreen)
 
 ### Tools
 
@@ -312,7 +316,7 @@ If the site is rendered ahead of time at build, it is known as "Static Site Gene
 
 ### Responsive Image
 
-[Implementing Responsive Images with Jason Grigsby | The Web Ahead](http://thewebahead.net/99)
+[Implementing Responsive Images with Jason Grigsby | The Web Ahead](https://thewebahead.net/99)
 [the new code – Web Developer Reading List: Responsive Images](http://thenewcode.com/1177/Web-Developer-Reading-List-Responsive-Images)
 
 [ResponsiveImages.org](https://responsiveimages.org/)
@@ -840,7 +844,7 @@ Async version of WSGI
 
 URI : URL | URN
 [URIs, URLs, and URNs: Clarifications and Recommendations 1.0](https://www.w3.org/TR/uri-clarification/) a bit outdated as its recommendations are already implemented
-[http - What is the difference between URI, URL and URN? - Stack Overflow](http://stackoverflow.com/questions/4913343/what-is-the-difference-between-uri-url-and-urn)
+[http - What is the difference between URI, URL and URN? - Stack Overflow](https://stackoverflow.com/questions/4913343/what-is-the-difference-between-uri-url-and-urn)
 [Difference between URI, URL and URN | Quintuple Developers](https://quintupledev.wordpress.com/2016/02/29/difference-between-uri-url-and-urn/)
 
 [The History of the URL](https://blog.cloudflare.com/the-history-of-the-url/amp/)

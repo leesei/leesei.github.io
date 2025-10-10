@@ -2,7 +2,7 @@
 title: Storage
 description: ""
 created: 2015-05-11
-updated: 2025-06-24
+updated: 2025-07-07
 tags:
   - comp/hardware
   - harddisk
@@ -83,7 +83,7 @@ More precise writing techniques to increase density of magnetic track
 
 [SSD Database | TechPowerUp](https://www.techpowerup.com/ssd-specs/)
 
-[Solid-state storage - Wikiwand](http://www.wikiwand.com/en/Solid-state_storage)
+[Solid-state storage - Wikiwand](https://www.wikiwand.com/en/Solid-state_storage)
 [Solid-state revolution: in-depth on how SSDs really work | Ars Technica](http://arstechnica.com/information-technology/2012/06/inside-the-ssd-revolution-how-solid-state-disks-really-work/)
 [How Do SSDs Work? - ExtremeTech](https://www.extremetech.com/extreme/210492-extremetech-explains-how-do-ssds-work)
 [How SSDs Work - Intel X25-M SSD: Intel Delivers One of the World's Fastest Drives](http://www.anandtech.com/show/2614/2)
@@ -189,7 +189,7 @@ Alignment used to an issue years ago, but no longer.
 
 ### Trim
 
-[Trim (computing) - Wikiwand](<http://www.wikiwand.com/en/Trim_(computing)>)
+[Trim (computing) - Wikiwand](<https://www.wikiwand.com/en/Trim_(computing)>)
 [Garbage Collection and TRIM in SSDs Explained - An SSD Primer | The SSD Review](http://www.thessdreview.com/daily-news/latest-buzz/garbage-collection-and-trim-in-ssds-explained-an-ssd-primer/)
 [Extend the life of your SSD drive with fstrim | Opensource.com](https://opensource.com/article/20/2/trim-solid-state-storage-linux)
 [Explainer: What is SSD Trimming? | TechSpot](https://www.techspot.com/article/2600-ssd-trimming-explained/)
@@ -498,7 +498,7 @@ fio --ioengine=libaio --size=1024m --filename=$HOME/tempfile --direct=1 --loops=
 
 ## SMART
 
-[S.M.A.R.T. - Wikiwand](http://www.wikiwand.com/en/S.M.A.R.T.)
+[S.M.A.R.T. - Wikiwand](https://www.wikiwand.com/en/S.M.A.R.T.)
 [S.M.A.R.T. - ArchWiki](https://wiki.archlinux.org/title/S.M.A.R.T.)
 [smartmontools](https://www.smartmontools.org/)
 [CrystalDiskInfo - Software - Crystal Dew World](http://crystalmark.info/software/CrystalDiskInfo/index-e.html)
@@ -508,7 +508,7 @@ fio --ioengine=libaio --size=1024m --filename=$HOME/tempfile --direct=1 --loops=
 [How Hard Disk S.M.A.R.T. Works?](http://www.hdsentinel.com/smart/index.php)
 [SMART Devices » ADMIN Magazine](https://www.admin-magazine.com/HPC/Articles/SMART-Devices)
 
-[Known ATA S.M.A.R.T. attributes - Wikiwand](http://www.wikiwand.com/en/S.M.A.R.T.#/Known_ATA_S.M.A.R.T._attributes)
+[Known ATA S.M.A.R.T. attributes - Wikiwand](https://www.wikiwand.com/en/S.M.A.R.T.#/Known_ATA_S.M.A.R.T._attributes)
 [Can we believe S.M.A.R.T. ? - S.M.A.R.T. attribute list](http://www.hdsentinel.com/smart/smartattr.php)
 [S.M.A.R.T. Monitoring | Knowledge Base](https://kb.acronis.com/content/9636) with description article
 
@@ -583,11 +583,11 @@ lsscsi -t
 
 This interface is obsolete.
 
-[Parallel ATA - Wikiwand](http://www.wikiwand.com/en/Parallel_ATA)
+[Parallel ATA - Wikiwand](https://www.wikiwand.com/en/Parallel_ATA)
 
 ### SATA
 
-[Serial ATA - Wikiwand](http://www.wikiwand.com/en/Serial_ATA)
+[Serial ATA - Wikiwand](https://www.wikiwand.com/en/Serial_ATA)
 SATA interface devices will use SATA bus.
 
 SATA 1 - 1.5 Gb/s (150 MB)
@@ -598,7 +598,7 @@ SATA 3.2 – 16 Gb/s (1969 MB/s)
 
 ### M.2
 
-[M.2 - Wikiwand](http://www.wikiwand.com/en/M.2)
+[M.2 - Wikiwand](https://www.wikiwand.com/en/M.2)
 
 - M key: 4x
 - B key: 2x

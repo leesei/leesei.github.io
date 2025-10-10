@@ -2,13 +2,13 @@
 title: systemd
 description: ""
 created: 2017-01-05
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - desktop
   - linux
 ---
 
-[systemd - Wikiwand](http://www.wikiwand.com/en/Systemd)
+[systemd - Wikiwand](https://www.wikiwand.com/en/Systemd)
 [systemd - freedesktop.org](http://www.freedesktop.org/wiki/Software/systemd/)
 [systemd - ArchWiki](https://wiki.archlinux.org/title/systemd)
 [systemd - Debian Wiki](https://wiki.debian.org/systemd)

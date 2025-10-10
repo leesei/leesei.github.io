@@ -2,7 +2,7 @@
 title: Gnome notes
 description: ""
 created: 2024-09-10
-updated: 2025-06-04
+updated: 2025-07-07
 tags:
   - desktop
   - gnome

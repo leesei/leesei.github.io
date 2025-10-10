@@ -2,7 +2,7 @@
 title: Espressif (ESP)
 description: ""
 created: 2018-10-20
-updated: 2025-06-27
+updated: 2025-08-16
 tags:
   - esp-c3
   - esp32
@@ -147,6 +147,7 @@ https://pan.baidu.com/s/1ycfadOAvoBZxL1R_L1MY-A 密码 bwle
 [ESP32 Flash Memory - Save Permanent Data | Random Nerd Tutorials](https://randomnerdtutorials.com/esp32-flash-memory/)
 [ESP-NOW: Receive Data from Multiple ESP32 Boards (many-to-one) | Random Nerd Tutorials](https://randomnerdtutorials.com/esp-now-many-to-one-esp32/)
 [problem with MCPWM below 15 Hz frequency · Issue #2255 · espressif/esp-idf](https://github.com/espressif/esp-idf/issues/2255)
+[ESP32 with FreeRTOS (Arduino IDE) - Create Tasks | Random Nerd Tutorials](https://randomnerdtutorials.com/esp32-freertos-arduino-tasks/)
 
 [ESP32 Client-Server Wi-Fi Communication Between Two Boards | Random Nerd Tutorials](https://randomnerdtutorials.com/esp32-client-server-wi-fi/)
 [ESP32 PWM with Arduino IDE | Random Nerd Tutorials](https://randomnerdtutorials.com/esp32-pwm-arduino-ide/)

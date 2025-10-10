@@ -2,7 +2,7 @@
 title: OpenCV
 description: ""
 created: 2014-12-31
-updated: 2025-03-18
+updated: 2025-09-23
 tags:
   - comp/lang
   - opencv
@@ -78,7 +78,7 @@ Murtaza's Workshop
 [OpenCV: Getting Started with Videos](https://docs.opencv.org/master/dd/d43/tutorial_py_video_display.html)
 [Read, Write and Display a video using OpenCV ( C++/ Python ) | Learn OpenCV](https://www.learnopencv.com/read-write-and-display-a-video-using-opencv-cpp-python/)
 [Create a video in Python from images](http://www.xavierdupre.fr/blog/2016-03-30_nojs.html)
-[opencv - Python - Extracting and Saving Video Frames - Stack Overflow](https://stackoverflow.com/questions/33311153/python-extracting-and-saving-video-frames?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
+[opencv - Python - Extracting and Saving Video Frames - Stack Overflow](https://stackoverflow.com/questions/33311153/python-extracting-and-saving-video-frames)
 
 Open video with [`cv::VideoCapture`](https://docs.opencv.org/master/d8/dfe/classcv_1_1VideoCapture.html)
 Output images with [`cv.imwrite()`](https://docs.opencv.org/master/d4/da8/group__imgcodecs.html#gabbc7ef1aa2edfaa87772f1202d67e0ce), [supported image formats](https://docs.opencv.org/master/d4/da8/group__imgcodecs.html#ga288b8b3da0892bd651fce07b3bbd3a56)

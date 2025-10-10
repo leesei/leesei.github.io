@@ -2,7 +2,7 @@
 title: Avalonia UI
 description: ""
 created: 2022-05-03
-updated: 2025-01-09
+updated: 2025-09-23
 tags:
   - app
   - avalonia
@@ -24,6 +24,7 @@ dotnet new avalonia.mvvm -o MyApp
 [Getting started with Avalonia UI | InfoWorld](https://www.infoworld.com/article/3650477/getting-started-with-avalonia-ui.html)
 [A Cross-Platform GUI Theme for Desktop .NET Core Applications](https://medium.com/swlh/cross-platform-gui-for-dotnet-applications-bbd284709600)
 [Multiplatform UI Coding with AvaloniaUI in Easy Samples. Part 1 - AvaloniaUI Building Blocks - CodeProject](https://www.codeproject.com/Articles/5308645/Multiplatform-UI-Coding-with-AvaloniaUI-in-Easy-Sa)
+[Avalonia: An Open Source Option for Cross-Platform UI Work - The New Stack](https://thenewstack.io/avalonia-an-open-source-option-for-cross-platform-ui-work/)
 
 [Avalonia for beginners Series' Articles - DEV Community](https://dev.to/ingvarx/series/7763)
 

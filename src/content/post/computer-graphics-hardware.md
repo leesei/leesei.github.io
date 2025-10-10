@@ -2,7 +2,7 @@
 title: Computer Graphics (Hardware)
 description: Computer Graphics on the hardware side
 created: 2016-10-18
-updated: 2025-06-27
+updated: 2025-10-02
 tags:
   - comp/hardware
   - graphics/hardware
@@ -93,8 +93,8 @@ GDDR6 uses PAM-3 (trinary bit)
 
 ## Antialiasing/Up-sampling/Up-scaling
 
-[Anti-aliasing - Wikiwand](http://www.wikiwand.com/en/Anti-aliasing)
-[Spatial anti-aliasing - Wikiwand](http://www.wikiwand.com/en/Spatial_anti-aliasing)
+[Anti-aliasing - Wikiwand](https://www.wikiwand.com/en/Anti-aliasing)
+[Spatial anti-aliasing - Wikiwand](https://www.wikiwand.com/en/Spatial_anti-aliasing)
 [Glossary:Anti-aliasing (AA) - PCGamingWiki PCGW - bugs, fixes, crashes, mods, guides and improvements for every PC game](<https://www.pcgamingwiki.com/wiki/Glossary:Anti-aliasing_(AA)>)
 [TweakGuides.com - Crysis 3 Tweak Guide](http://www.tweakguides.com/Crysis3_6.html)
 
@@ -155,6 +155,10 @@ In-game generation (need game dev support) > Driver generation
 
 [AMD just dropped the BEST GPU Update and you HAVE to try it! - YouTube](https://www.youtube.com/watch?v=XDQ8NXOD5kU) AFMF2
 [GDC 2023: Introducing the FidelityFX SDK with new technologies, an early look at FSR 3 + more! - AMD GPUOpen](https://gpuopen.com/gdc-2023-fidelityfx-sdk-fsr3/)
+
+[optiscaler/OptiScaler: OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.](https://github.com/optiscaler/OptiScaler)
+[Optiscaler just GOT BETTER!! XeSS Frame Generation, XeLL, Anti-Lag 2 & More!! - YouTube](https://www.youtube.com/watch?v=evH4qa8mx5Q)
+[Tutorial for using FSR 4 through OptiScaler on RDNA 2/3. Setup in less than 5 minutes. : r/radeon](https://www.reddit.com/r/radeon/comments/1njk4s7/tutorial_for_using_fsr_4_through_optiscaler_on/)
 
 ## Resizable BAR
 
@@ -255,6 +259,7 @@ Asynchronous compute shaders in DX12 benefits the most when CPU is the bottlenec
 
 [How Nvidia made the 12VHPWR connector even worse. - YouTube](https://www.youtube.com/watch?v=kb5YzMoVQyw)
 [Why ATX power supplies don't load-balance power connectors - YouTube](https://www.youtube.com/watch?v=BAnQNGs0lOc)
+[I discovered something concerning and I need the Experts to chime in... More 12VHPWR discovery! - YouTube](https://www.youtube.com/watch?v=6FJ_KSizDwM)
 
 ### CLARA
 
@@ -289,7 +294,7 @@ Radeon's DX11 driver was rewritten in 2022-07 which greatly improved stability a
 [AMD RDNA 3 GPU Architecture Deep Dive: The Ryzen Moment for GPUs | Tom's Hardware](https://www.tomshardware.com/news/amd-rdna-3-gpu-architecture-deep-dive-the-ryzen-moment-for-gpus)
 [AMD RDNA3 GPU Architecture Deep-Dive: 7900 XTX Drivers, Rasterization, & Ray Tracing - YouTube](https://www.youtube.com/watch?v=9iEDpXyFLFU)
 
-[ilya-zlobintsev/LACT: Linux AMDGPU Controller](https://github.com/ilya-zlobintsev/LACT)
+[ilya-zlobintsev/LACT: Linux GPU Configuration And Monitoring Tool](https://github.com/ilya-zlobintsev/LACT)
 
 ## Intel Integrated Graphics
 

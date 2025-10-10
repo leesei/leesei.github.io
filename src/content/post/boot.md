@@ -2,7 +2,7 @@
 title: Boot
 description: ""
 created: 2015-05-10
-updated: 2025-07-01
+updated: 2025-10-02
 tags:
   - desktop
   - linux
@@ -89,6 +89,7 @@ GPT (Windows): 128 partitions, bootable only with UEFI
 
 [什么是bootloader？常见嵌入式芯片启动过程的完全分析 - YouTube](https://www.youtube.com/watch?v=17YVRdv7sfo)
 [Embedded/IoT Linux for Red-Blue Teams - YouTube](https://www.youtube.com/playlist?list=PLzKIBgD3ky224kzDxu258qlLjNKiG7M0i) bootloader + kernel
+[What is Bootstrapping Anyway? - Computerphile - YouTube](https://www.youtube.com/watch?v=Pu7LvnxV6N0)
 
 SPL (secondary program loader) is needed when the static RAM cannot hold the whole bootloader and this abstract the specific hardware used form the bootloader.
 [what is the use of SPL (secondary program loader) - Stack Overflow](https://stackoverflow.com/questions/31244862/what-is-the-use-of-spl-secondary-program-loader)
@@ -234,6 +235,12 @@ The Windows ISO cannot be `dd`-ed to USB flash. We must create a bootable NTFS p
 [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB)
 [ValdikSS/windows2usb: Windows 7/8/8.1/10 ISO to Flash Drive burning utility for Linux (MBR/GPT, BIOS/UEFI, FAT32/NTFS)](https://github.com/ValdikSS/windows2usb)
 
+### Diagnostic USB drive
+
+Most Linux distro provides a live environment with network that you can use to diagnostic a system.
+
+[I built a portable PC diagnostic USB with my favorite tools—and it’s open-source](https://www.makeuseof.com/portable-pc-diagnostic-usb-tools/)
+
 ## PXEBoot (network boot)
 
 [What Is Network Booting (PXE) and How Can You Use It?](http://www.howtogeek.com/57601/what-is-network-booting-pxe-and-how-can-you-use-it/)
@@ -303,7 +310,7 @@ UEFI application (in EFI System partition) -> Bootloader -> Kernel -> ...
 
 ### `init`/`sysvinit` (OBSOLETE)
 
-[init - Wikiwand](http://www.wikiwand.com/en/Init)
+[init - Wikiwand](https://www.wikiwand.com/en/Init)
 
 Originates from System V, the oldest and most widely used init system.
 `init` is [LSB](http://refspecs.linuxfoundation.org/lsb.shtml)-compliant.
@@ -337,7 +344,7 @@ sudo update-rc.d nginx defaults
 
 > `upstart` is deprecated
 
-[Upstart - Wikiwand](http://www.wikiwand.com/en/Upstart)
+[Upstart - Wikiwand](https://www.wikiwand.com/en/Upstart)
 [upstart - event-based init daemon](http://upstart.ubuntu.com/)
 
 Use `upstart` instead of `init.d` for Ubuntu:

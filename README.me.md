@@ -4,7 +4,7 @@
 [satnaing/astro-paper: A minimal, accessible and SEO-friendly Astro blog theme](https://github.com/satnaing/astro-paper)
 
 [React Icons](https://react-icons.github.io/react-icons/)
-[Tailwind CSS Cheat Sheet](https://tailwindcomponents.com/cheatsheet/)
+[Tailwind CSS Cheat Sheet](https://www.creative-tim.com/twcomponents/cheatsheet/)
 
 [remarkjs/remark: remark is a popular tool that transforms markdown with plugins. These plugins can inspect and change your markup. You can use remark on the server, the client, CLIs, deno, etc.](https://github.com/remarkjs/remark)
 [remarkjs/awesome-remark: Curated list of awesome remark resources](https://github.com/remarkjs/awesome-remark)

@@ -2,14 +2,14 @@
 title: Honey
 description: ""
 created: 2019-04-22
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - food
   - honey
   - trivia
 ---
 
-[Honey - Wikiwand](http://www.wikiwand.com/en/Honey)
+[Honey - Wikiwand](https://www.wikiwand.com/en/Honey)
 
 [Raw Manuka Honey](https://rawmanukahoney.co.uk/)
 [What’s Unique about the Antibacterial Activity of Manuka Honey?](https://rawmanukahoney.co.uk/manuka-honey/unique-antibacterial-activity-manuka-honey)

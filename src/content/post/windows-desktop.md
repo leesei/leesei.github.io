@@ -2,7 +2,7 @@
 title: Windows Desktop
 description: ""
 created: 2015-01-15
-updated: 2025-07-07
+updated: 2025-10-07
 tags:
   - app
   - desktop
@@ -48,6 +48,7 @@ chcp 65001
 ## Maintenance
 
 [The One Command Every Windows User Should Know And How To Use It](https://hothardware.com/news/windows-system-file-checker-guide)
+[How to Use DISM Commands to Repair Windows 11 System Images](https://www.makeuseof.com/how-to-use-dism-commands/)
 
 ```powershell
 sfc /scannow
@@ -60,6 +61,9 @@ WhoCrashed
 BlueScreenView (minidump viewer)
 [Diagnose memory problems on your PC](http://hs.windows.microsoft.com/hhweb/content/m-en-us/p-6.2/id-4edd5f80-def2-4d32-965c-116d49fb9872/)
 Passmark Memtest86
+
+[ios12checker/Windows-Maintenance-Tool](https://github.com/ios12checker/Windows-Maintenance-Tool)
+[This Free Tool Solves the Most Common Windows Headaches—Effortlessly](https://www.makeuseof.com/windows-maintenance-tool-fix-common-problems/)
 
 ## Windows Modern Standby
 
@@ -124,11 +128,6 @@ xfreerdp /u:JohnDoe /p:Pwd123! /vmconnect:C824F53E-95D2-46C6-9A18-23A5BB403532 /
 
 [EVERY Windows 11 User Should Know About THIS Free Customization Utility! - YouTube](https://www.youtube.com/watch?v=XyrfCWWWTb8)
 [【神器】Windows没做出来的功能，Windhawk这款软件实现了…… - YouTube](https://www.youtube.com/watch?v=BkAHpslWPCs)
-
-## ExplorerPatcher
-
-[valinet/ExplorerPatcher: This project aims to enhance the working environment on Windows](https://github.com/valinet/ExplorerPatcher)
-[I Can't Use Windows Without ExplorerPatcher (Windows 10 & 11 Tutorial) - YouTube](https://www.youtube.com/watch?v=iucq4Ec8ifM)
 
 ## CMD Shell/Batch Script (.bat)
 
@@ -201,6 +200,20 @@ reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\
 [Renegade Project](https://renegade-project.org/#/zh/devices/sdm845/enchilada/status)
 [如何在骁龙 845 设备上安装 Windows - Windows / Installation - Renegade Project](https://forum.renegade-project.org/t/845-windows/36)
 [一加 6 刷入 windows 教程 - Windows / Installation - Renegade Project](https://forum.renegade-project.org/t/6-windows/194)
+
+## Windows 11 Explorer Fix
+
+### WinSetView
+
+[WinSetView | Globally Set Explorer Folder Views](https://lesferch.github.io/WinSetView/Manual.html) disable group by time, use Windows 10 Explorer
+[LesFerch/WinSetView: Globally Set Explorer Folder Views](https://github.com/LesFerch/WinSetView)
+
+[DON’T keep Using File Explorer without watching this video - YouTube](https://www.youtube.com/watch?v=EI8LWca4_GE)
+
+### ExplorerPatcher
+
+[valinet/ExplorerPatcher: This project aims to enhance the working environment on Windows](https://github.com/valinet/ExplorerPatcher)
+[I Can't Use Windows Without ExplorerPatcher (Windows 10 & 11 Tutorial) - YouTube](https://www.youtube.com/watch?v=iucq4Ec8ifM)
 
 ## Windows 10 updates
 
@@ -410,13 +423,12 @@ WSL2 using full Linux kernel (4.19) with Hyber-V debuted in WSL2 in 2019-06.
 
 > TODO: WSL2 GA in 2022-11, remove WSL1 articles
 
-[An overview on the the Windows Subsystem for Linux | Microsoft Docs](https://docs.microsoft.com/en-us/windows/wsl/)
+[Windows Subsystem for Linux Documentation | Microsoft Learn](https://learn.microsoft.com/en-us/windows/wsl/)
 [Windows Subsystem for Linux - Wikiwand](https://www.wikiwand.com/en/articles/Windows_Subsystem_for_Linux)
 
-[Windows Subsystem for Linux (WSL) - Windows Command Line](https://devblogs.microsoft.com/commandline/category/bash-on-ubuntu-on-windows/)
-[Windows Subsystem for Linux | Microsoft Learn](https://learn.microsoft.com/en-us/archive/blogs/wsl/) old
-
 [Comparing WSL Versions | Microsoft Learn](https://learn.microsoft.com/en-us/windows/wsl/compare-versions)
+[Windows Subsystem for Linux (WSL) - Windows Command Line](https://devblogs.microsoft.com/commandline/category/bash-on-ubuntu-on-windows/)
+[Windows Subsystem for Linux | Microsoft Learn](https://learn.microsoft.com/en-us/archive/blogs/wsl/) old, pre 2019
 
 [sirredbeard/Awesome-WSL: Awesome list dedicated to Windows Subsystem for Linux](https://github.com/sirredbeard/Awesome-WSL)
 [A Windows Subsystem for Linux Subreddit](https://www.reddit.com/r/bashonubuntuonwindows/)
@@ -428,7 +440,6 @@ WSL2 using full Linux kernel (4.19) with Hyber-V debuted in WSL2 in 2019-06.
 [What is WSL? — Whitewater Foundry](https://www.whitewaterfoundry.com/what-is-wsl)
 [Windows Subsystem for Linux » ADMIN Magazine](https://www.admin-magazine.com/Articles/WSL-puts-Linux-on-Windows-desktops)
 
-[File System Improvements to the Windows Subsystem for Linux | Microsoft Learn](https://learn.microsoft.com/en-us/archive/blogs/wsl/file-system-improvements-to-the-windows-subsystem-for-linux)
 [What’s new for WSL in Windows 10 version 1903? | Windows Command Line Tools For Developers](https://devblogs.microsoft.com/commandline/whats-new-for-wsl-in-windows-10-version-1903/) 9P file server for Windows to access WSL file system (`\\wsl$\`)
 [Windows/WSL Interop with AF_UNIX | Windows Command Line Tools For Developers](https://devblogs.microsoft.com/commandline/windowswsl-interop-with-af_unix/)
 [Very slow performance - is this normal for WSL? : bashonubuntuonwindows](https://www.reddit.com/r/bashonubuntuonwindows/comments/a23nul/very_slow_performance_is_this_normal_for_wsl/) this IO issue is not yet fixed
@@ -463,29 +474,26 @@ wsl --install kalilinux
 Windows access WSL file system: `\\wsl$\`
 WSL access Windows file system: `/mnt/c/`
 
-### Distros
+[Access Linux filesystems in Windows and WSL 2 - Windows Command Line](https://devblogs.microsoft.com/commandline/access-linux-filesystems-in-windows-and-wsl-2/) `wsl --mount`
+[How I fixed WSL 2 filesystem performance issues – Rob Pomeroy](https://pomeroy.me/2023/12/how-i-fixed-wsl-2-filesystem-performance-issues/) `wsl --mount --vhd`
 
-[WSL - Microsoft Store](https://www.microsoft.com/en-us/search/shop/apps?q=wsl)
-
-[RoliSoft/WSL-Distribution-Switcher: Scripts to replace the distribution behind Windows Subsystem for Linux with any other Linux distribution published on Docker Hub.](https://github.com/RoliSoft/WSL-Distribution-Switcher)
-[Switching the distribution behind the Windows Subsystem for Linux](https://lab.rolisoft.net/blog/switching-the-distribution-behind-the-windows-subsystem-for-linux.html)
+[WSL File System Support | Microsoft Learn](https://learn.microsoft.com/en-us/archive/blogs/wsl/wsl-file-system-support)
+[File System Improvements to the Windows Subsystem for Linux | Microsoft Learn](https://learn.microsoft.com/en-us/archive/blogs/wsl/file-system-improvements-to-the-windows-subsystem-for-linux)
 
 ### WSL2
 
+[microsoft/WSL: Windows Subsystem for Linux](https://github.com/microsoft/WSL) WSL 2.6 goes open source
+[microsoft/WSL2-Linux-Kernel: The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)](https://github.com/microsoft/WSL2-Linux-Kernel)
+
 [WSL 2 | Microsoft Docs](https://docs.microsoft.com/en-us/windows/wsl/wsl2-index)
 [Announcing WSL 2 | Windows Command Line Tools For Developers](https://devblogs.microsoft.com/commandline/announcing-wsl-2/)
-[WSL 2 is now available in Windows Insiders | Windows Command Line Tools For Developers](https://devblogs.microsoft.com/commandline/wsl-2-is-now-available-in-windows-insiders/)
-[Windows Subsystem for Linux 2 (WSL 2) Released to Insiders](https://www.bleepingcomputer.com/news/microsoft/windows-subsystem-for-linux-2-wsl-2-released-to-insiders/)
 [An introduction to WSL 2 | InfoWorld](https://www.infoworld.com/article/3412063/an-introduction-to-wsl-2.html)
 [Trying the New WSL 2. It's Fast! (Windows Subsystem for Linux) ― Scotch.io](https://scotch.io/bar-talk/trying-the-new-wsl-2-its-fast-windows-subsystem-for-linux)
 [WSL 2 Post BUILD FAQ | Windows Command Line Tools For Developers](https://devblogs.microsoft.com/commandline/wsl-2-post-build-faq/)
-[How Windows and Chrome quietly made 2019 the year of Linux on the desktop | PCWorld](https://www-pcworld-com.cdn.ampproject.org/v/s/www.pcworld.com/article/3394680/how-windows-and-chrome-quietly-made-2019-the-year-of-linux-on-the-desktop.amp.html)
 [Windows Subsystem for Linux Brings the Full 4.19 Kernel to Windows - The New Stack](https://thenewstack.io/windows-subsystem-for-linux-brings-the-full-4-19-kernel-to-windows/)
 [The new Windows subsystem for Linux architecture: a deep dive - BRK3068 - YouTube](https://www.youtube.com/watch?v=lwhMThePdIo) WSL2
-[WSL2 will be generally available in Windows 10, version 2004 | Windows Command Line](https://devblogs.microsoft.com/commandline/wsl2-will-be-generally-available-in-windows-10-version-2004/)
 [Linux on Windows - take two (WSL 2) - Avenga](https://www.avenga.com/magazine/linux-on-windows-take-two-wsl-2/)
 [Automating a Linux in Windows dev setup](https://matt.aimonetti.net/posts/2020-08-automating-a-linux-in-windows-dev-setup/)
-[Kali Linux APPS on Windows in 5min (WSLg) - YouTube](https://www.youtube.com/watch?v=27Wn921q_BQ)
 
 [Version control for your WSL distribution with a Dockerfile | radu's blog](https://radu-matei.com/blog/wsl-versioned-filesystem-docker/)
 
@@ -504,10 +512,10 @@ WSL access Windows file system: `/mnt/c/`
 [WSLg Architecture - Windows Command Line](https://devblogs.microsoft.com/commandline/wslg-architecture/)
 [microsoft/wslg: Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios](https://github.com/microsoft/wslg)
 
+[Kali Linux APPS on Windows in 5min (WSLg) - YouTube](https://www.youtube.com/watch?v=27Wn921q_BQ)
+
 [Hands on with WSLg: Running Linux GUI apps in Windows 10](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-wslg-running-linux-gui-apps-in-windows-10/)
 [Running Linux Apps In Windows Is Now A Reality](https://news.itsfoss.com/linux-gui-apps-wsl/)
-
-[Running Linux desktop apps on the Windows Subsystem for Linux | Ctrl blog](https://www.ctrl.blog/entry/how-to-x-on-wsl.html) X on WSL1, should work in WSL2 natively
 
 [X410 - X Server for Windows 10 and Beyond](https://x410.dev/)
 [Using X410 with WSL2 - X410.dev](https://x410.dev/cookbook/wsl/using-x410-with-wsl2/)
@@ -539,6 +547,15 @@ WSL access Windows file system: `/mnt/c/`
 [Developing in the Windows Subsystem for Linux with Visual Studio Code](https://code.visualstudio.com/docs/remote/wsl)
 [Tips and Tricks for Linux development with WSL and Visual Studio Code | Windows Command Line Tools For Developers](https://devblogs.microsoft.com/commandline/tips-and-tricks-for-linux-development-with-wsl-and-visual-studio-code/)
 [Remote - WSL - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
+
+### ~~WSL1~~
+
+[Running Linux desktop apps on the Windows Subsystem for Linux | Ctrl blog](https://www.ctrl.blog/entry/how-to-x-on-wsl.html) X on WSL1, should work in WSL2 natively
+
+#### Distros
+
+[RoliSoft/WSL-Distribution-Switcher: Scripts to replace the distribution behind Windows Subsystem for Linux with any other Linux distribution published on Docker Hub.](https://github.com/RoliSoft/WSL-Distribution-Switcher)
+[Switching the distribution behind the Windows Subsystem for Linux](https://lab.rolisoft.net/blog/switching-the-distribution-behind-the-windows-subsystem-for-linux.html)
 
 ### Pengwin
 
@@ -701,6 +718,7 @@ Never combine
 [How to Use Windows 10: Tips, Tricks, and More | Digital Trends](https://www.digitaltrends.com/computing/how-to-use-windows-10/)
 
 [7 Little-Known Windows Features to Save Time](https://www.makeuseof.com/unknown-windows-features-to-save-time/)
+[These Secret "Run" Commands Unlock Old-School Windows Features](https://www.makeuseof.com/useful-windows-run-commands/)
 
 [100 common Windows 10 problems and how to solve them | TechRadar](https://www.techradar.com/uk/how-to/100-common-windows-10-problems)
 [Top tips and tricks to keep Windows 10 running smoothly | Computerworld](https://www.computerworld.com/article/3205864/microsoft-windows/the-best-enterprise-tips-and-tricks-to-get-the-most-from-windows-10.html)
@@ -765,6 +783,7 @@ Start and type `cmd`, followed by <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Ente
 
 [Windows 7 GodMode: Tips, Tricks, Tweaks | PCWorld](https://www.pcworld.com/article/220753/windows_7_god_mode_tips_tricks_tweaks.html)
 [How to use God Mode in Windows 10 - TechRepublic](https://www.techrepublic.com/google-amp/article/how-to-use-god-mode-in-windows-10/)
+[God Mode is the only way Windows 11 settings actually make sense](https://www.makeuseof.com/make-windows-11-settings-easier-god-mode/)
 
 [I Created Windows SUPER God Mode (Better Than God Mode) - YouTube](https://www.youtube.com/watch?v=CnATL9kJPn8)
 [ThioJoe/Windows-Super-God-Mode: Creates shortcuts to virtually every special location or action built into Windows](https://github.com/ThioJoe/Windows-Super-God-Mode)

@@ -2,7 +2,7 @@
 title: Movies Database
 description: ""
 created: 2015-08-26
-updated: 2025-07-06
+updated: 2025-08-11
 tags:
   - movies
 ---
@@ -85,17 +85,17 @@ Innovative and personalized recommendation system.
 ## Behind the Scenes
 
 [befores & afters - VFX magazine](https://beforesandafters.com/)
-[Corridor Crew - YouTube](https://www.youtube.com/channel/UCSpFnDQr88xCZ80N-X7t0nQ) recreate CG in movies
-[FilMonger - YouTube](https://www.youtube.com/@FilMonger)
-[CGY - YouTube](https://www.youtube.com/@CGWHY)
 [Behind the Seams - YouTube](https://www.youtube.com/@behindtheseams300) fashion and costumes
+[CGY - YouTube](https://www.youtube.com/@CGWHY)
+[Corridor Crew - YouTube](https://www.youtube.com/@CorridorCrew) recreate CG in movies
+[FilMonger - YouTube](https://www.youtube.com/@FilMonger)
+[Iconic Star Rewind - YouTube](https://www.youtube.com/@IconicStarRewind)
 [The Movie Rabbit Hole - YouTube](https://www.youtube.com/@TheMovieRabbitHole)
-[BEHIND THE SCENES & B-ROLL - YouTube](https://www.youtube.com/playlist?list=PLQ7_GA82PpMGBaHHowmE-Ucs__mY7UA5M)
-[經典電影大解密｜ Breaks Down - YouTube](https://www.youtube.com/playlist?list=PLiyT3ZJaRwTvS7o7p9DJoIDPCDO1Ph2co)
 [电影冷知识 - YouTube](https://www.youtube.com/@MR__COLD)
 
 [The Incredible True Story Of How "Titanic" Got Made](https://www.buzzfeednews.com/article/sarahmarshall/20-years-ago-titanic-took-over-the-world-heres-why)
 [經典電影大解密｜Breaks Down - YouTube](https://www.youtube.com/playlist?list=PLiyT3ZJaRwTvS7o7p9DJoIDPCDO1Ph2co)
+[BEHIND THE SCENES & B-ROLL - YouTube](https://www.youtube.com/playlist?list=PLQ7_GA82PpMGBaHHowmE-Ucs__mY7UA5M)
 
 ### Foley
 
@@ -199,7 +199,6 @@ TEEPR 叭啦叭啦研究室
 [汪達與幻視 - YouTube](https://www.youtube.com/@teeprbala/search?query=%E6%B1%AA%E9%81%94%E8%88%87%E5%B9%BB%E8%A6%96) TEEPR 叭啦叭啦研究室
 [汪達與幻視 - YouTube](https://www.youtube.com/playlist?list=PLNsYSXaDLA88-3c-3laTSJlyPcue3ukdH) 超粒方
 [WandaVision - YouTube](https://www.youtube.com/playlist?list=PLDVUo0d8uHheIisoX18XjcIlHqY52yMo4)
-[Honest Trailers | Every MCU Honest Trailer - YouTube](https://www.youtube.com/watch?v=lS41XvrBFvU)
 
 ## Netflix
 

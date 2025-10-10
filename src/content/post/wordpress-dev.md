@@ -2,7 +2,7 @@
 title: WordPress (dev)
 description: ""
 created: 2015-06-21
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - app
   - cms
@@ -84,7 +84,7 @@ Watch and Learn
 [Dance to Calypso | Matt Mullenweg](https://ma.tt/2015/11/dance-to-calypso/)
 [Clearing the air: Is WordPress being rewritten in Node.js and React? | Wes Bos](http://wesbos.com/wordpress-calypso-react/)
 
-[#197: The Future of WordPress and Calypso with Matt Mullenweg - Changelog](https://changelog.com/197/)
+[The future of WordPress and Calypso with Matt Mullenweg, creator of WordPress (Changelog Interviews #197)](https://changelog.com/podcast/197)
 
 ### WordPress Blocks
 

@@ -2,7 +2,7 @@
 title: Music Theory
 description: ""
 created: 2016-10-11
-updated: 2025-07-03
+updated: 2025-08-18
 tags:
   - music
   - trivia
@@ -733,6 +733,8 @@ Pianote
 [revolunet/opentablatures: some tablatures for ukulele beginner](https://github.com/revolunet/opentablatures)
 
 ### Percussion
+
+[MIVENUE - YouTube](https://www.youtube.com/@MIVENUE) Weekly 5 Minutes Concert
 
 [The Encyclopedia of Pitched Percussion - Video Essay - YouTube](https://www.youtube.com/watch?v=6ikARx35U5A)
 [打鼓比你想的複雜！專業鼓手示範 13 個難度級別的鼓技｜科普長知識｜ GQ Taiwan - YouTube](https://www.youtube.com/watch?v=aKHgDLm2f0o) Drum Kit

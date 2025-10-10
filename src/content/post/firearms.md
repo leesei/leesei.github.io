@@ -2,7 +2,7 @@
 title: Firearms
 description: Weapons with gun powder
 created: 2015-06-13
-updated: 2025-07-03
+updated: 2025-10-03
 tags:
   - weapons
 ---
@@ -15,17 +15,22 @@ tags:
 [History of the firearm - Wikiwand](https://www.wikiwand.com/en/History_of_the_firearm)
 [Firearms Channel - HowStuffWorks](http://science.howstuffworks.com/firearms-channel.htm)
 
+Firearms
 [Backyard Ballistics - YouTube](https://www.youtube.com/@Backyard.Ballistics)
-[Brandon Herrera - YouTube](https://www.youtube.com/@BrandonHerrera)
+[Ballistic High-Speed - YouTube](https://www.youtube.com/@BallisticHighSpeed)
 [Forgotten Weapons - YouTube](https://www.youtube.com/@ForgottenWeapons)
+[Brandon Herrera - YouTube](https://www.youtube.com/@BrandonHerrera)
 [Garand Thumb - YouTube](https://www.youtube.com/@GarandThumb)
+[Civilian Use Only - YouTube](https://www.youtube.com/@civilianuseonly)
+[Data illusion - YouTube](https://www.youtube.com/@dataillusion) evolution of firearms/weapons
 [InRangeTV - YouTube](https://www.youtube.com/@InrangeTv)
+[Royal Armouries - YouTube](https://www.youtube.com/@RoyalArmouriesMuseum) cold and hot weapons
 [TFB TV - YouTube](https://www.youtube.com/@tfbtv)
 [The Most - YouTube](https://www.youtube.com/@themost9058) 3D animation
-[Civilian Use Only - YouTube](https://www.youtube.com/@civilianuseonly)
+
+Firearms and vehicles
 [Blue Paw Print - YouTube](https://www.youtube.com/@BluePawPrint)
-[Royal Armouries - YouTube](https://www.youtube.com/@RoyalArmouriesMuseum) cold and hot weapons
-[Ballistic High-Speed - YouTube](https://www.youtube.com/@BallisticHighSpeed)
+[Megaprojects - YouTube](https://www.youtube.com/@megaprojects9649)
 
 [Cursed Guns Series - YouTube](https://www.youtube.com/playlist?list=PLmJ2tl71-4QUccyU4Thsrn4_OgmR8gdOF)
 [Firearms History - YouTube](https://www.youtube.com/playlist?list=PLkaaNLbRcosmUxuz0CXGsNrz0fYeQ6tL2) LionHeart FilmWorks
@@ -118,10 +123,12 @@ Cordite, mix of nitrocellulose and nitroglycerin
 
 ## Dynamite
 
-[Dynamite - Wikiwand](https://www.wikiwand.com/en/Dynamite) a stablized nitroglycerin
+[Dynamite - Wikiwand](https://www.wikiwand.com/en/Dynamite) a stabilized nitroglycerin
 [TNT - Wikiwand](https://www.wikiwand.com/en/TNT)
 [Nitroglycerin - Wikiwand](https://www.wikiwand.com/en/Nitroglycerin)
-[Alfred Nobel - Wikiwand](https://www.wikiwand.com/en/Alfred_Nobel#/Inventions) Nobel invented dynamite, which is used in wars and he wanted to make good by setting up Nobel Prize at his will
+[Alfred Nobel - Wikiwand](https://www.wikiwand.com/en/Alfred_Nobel#/Inventions) Nobel discovered Nitroglycerin, invented guncotton and dynamite in hope of making handling of explosives safer, but they are used in wars to kill millions. He wanted to make good by setting up Nobel Prize at his will.
+
+[This liquid explodes when shaken - YouTube](https://www.youtube.com/watch?v=onr80iOoEXs)
 
 ## Ammo/Cartridge
 
@@ -201,11 +208,12 @@ Toggle Delayed
 
 [Toggle Action Guns - YouTube](https://www.youtube.com/playlist?list=PL9e3UCcU00TTMpD_JlvZDh4nXSzyfPwZ5)
 
-[Trigger (firearms) - Wikiwand](<http://www.wikiwand.com/en/Trigger_(firearms)>)
+[Trigger (firearms) - Wikiwand](<https://www.wikiwand.com/en/Trigger_(firearms)>)
 Single Action: the trigger only releases the lever, the lever has to be manually loaded
 Double Action: the trigger pulls the lever back and releases it
 Single action triggers should provide more accuracy (as the aim is not affected by the sudden release of the spring)
 [Single- and double-action revolvers - YouTube](https://www.youtube.com/watch?v=dggcZeGbVvo)
+[Hammer or Striker? The Debate That Still Splits Gun Owners // How Do Pistols Work? - YouTube](https://www.youtube.com/watch?v=DgEuWPYo-qE)
 
 [【不止遊戲】MP5 是如何成為經典之作的？ - YouTube](https://www.youtube.com/watch?v=txTqu6vlahE) German SMG, more on automatic SMG
 
@@ -221,9 +229,14 @@ Single action triggers should provide more accuracy (as the aim is not affected 
 [Breechblock - Wikiwand](https://www.wikiwand.com/en/Breechblock)
 [Chamber (firearms) - Wikiwand](<https://www.wikiwand.com/en/Breech_(firearms)>) aka breech
 
+## Suppressor/Muffler
+
+[消音器其實根本不“消音”?裝它還有什麽用?解密消音器工作原理與槍聲三大來源,裝上消音器到底會不會影響射程威力與精度?如果將消音器無限做大做長呢|大胖兵 #兵器說 #消音器 #槍戰 #美軍 #fps - YouTube](https://www.youtube.com/watch?v=URTcUvovBIc)
+
 ## Revolvers
 
 [【不止遊戲】第 20 期 鬥陣特攻麥卡雷是怎麼六連發的？ - YouTube](https://www.youtube.com/watch?v=vsVjMWZF5qk)
+[Evolution Of Revolvers (1600 - 2025) - YouTube](https://www.youtube.com/watch?v=jjvXWQu2dHU)
 
 ## Long Guns
 
@@ -296,6 +309,7 @@ Russian RPK, AK-47
 ## Shotgun
 
 [How a Pump Shotgun Works - YouTube](https://www.youtube.com/watch?v=21uh28Z77Xg)
+[Evolution Of Shotguns (1600 - 2024) - YouTube](https://www.youtube.com/watch?v=yWLa5Johq3w)
 
 ## Machine Guns
 
@@ -364,55 +378,12 @@ Bazooka: 以彈頭的火箭為發射動力
 
 [Rocket-propelled grenade - Wikiwand](https://www.wikiwand.com/en/Rocket-propelled_grenade)
 [火箭推進榴彈 - Wikiwand](https://www.wikiwand.com/zh/%E7%81%AB%E7%AE%AD%E6%8E%A8%E9%80%B2%E6%A6%B4%E5%BD%88)
+
 [RPG-7 - Wikiwand](https://www.wikiwand.com/zh/RPG-7)
+[The Great Equalizer, Explained - YouTube](https://www.youtube.com/watch?v=3rBDsDM7FfU)
 
-## Tank
-
-[Tank Encyclopedia, the first online tank museum](https://tanks-encyclopedia.com/)
-[Tanks | Usborne Quicklinks | Be Curious](https://usborne.com/row/quicklinks/quicklink/11137-tanks)
-[Tank Wiki | Fandom](https://tank.fandom.com/wiki/Tank_Wiki)
-
-[ConeOfArc - YouTube](https://www.youtube.com/@ConeOfArc) mostly on Tanks
-
-[Home - The Tank Museum](https://tankmuseum.org/)
-[The Tank Museum - YouTube](https://www.youtube.com/@thetankmuseum)
-[How did tank guns get so deadly? | Evolution of Firepower - YouTube](https://www.youtube.com/watch?v=8XWAktvFZGI)
-[What Tank Armour Can (& Can't) Do | Evolution of Armour - YouTube](https://www.youtube.com/watch?v=_hRVefl2M0k)
-
-[History of the tank - Wikiwand](https://www.wikiwand.com/en/articles/History_of_the_tank)
-[The Evolution of Tanks | Tank History](https://www.volocars.com/blog/evolution-of-tanks)
-
-The Armchair Historian
-[Evolution of American Tanks | Animated History - YouTube](https://www.youtube.com/watch?v=MEhMOTpbWOY)
-[Evolution of German Tanks | Animated History - YouTube](https://www.youtube.com/watch?v=S7tz1bNiV4s)
-[Evolution of British Tanks | Animated History - YouTube](https://www.youtube.com/watch?v=9YGSZu27wXA)
-[Evolution of Russian Tanks | Animated History - YouTube](https://www.youtube.com/watch?v=LyJSsv3KFpM)
-
-[These Are the Largest Tanks Ever Designed - YouTube](https://www.youtube.com/watch?v=WtblYGKCaRs)
-
-[【軍備科技樹】英國坦克發展史第一期，馬克Ⅰ型，拖拉機廠製造，現代坦克的鼻祖，一戰後歐洲列強軍備競賽的結果 #兵器說 坦克｜一戰 - YouTube](https://www.youtube.com/watch?v=QY6gJCkbls0)
-[坦克上的機槍，無用？高射機槍，坦克必備武器！同軸機槍、前列機槍、高射機槍，分別在哪？| M1A2 | M240 | M2HB | T-34 | T-72 | 火力君 | - YouTube](https://www.youtube.com/watch?v=gkjf0MwZDuY)
-
-[【不止遊戲】謝爾曼坦克有什麼有趣的細節？ - YouTube](https://www.youtube.com/watch?v=kWhT3LCt500)
-
-[大名鼎鼎的虎式坦克，為何不使用傾斜裝甲，是設計師盲目自大嗎？ - YouTube](https://www.youtube.com/watch?v=wZpLZAnehuw)
-[德國豹式坦克，二戰坦克巔峰之作，專為剋制 T-34 而生 - YouTube](https://www.youtube.com/watch?v=2qnjy7nV5Oo)
-
-[T-34 - Wikiwand](https://www.wikiwand.com/en/T-34)
-[T-72 - Wikiwand](https://www.wikiwand.com/en/T-72)
-[Stalin's Bunker Buster, The Story of the KV-2 | Cursed By Design - YouTube](https://www.youtube.com/watch?v=F0_dHpyYN-Y)
-[Was the T-34 Really the Best Tank of WW2? - YouTube](https://www.youtube.com/watch?v=iK73kRstoPg)
-
-[【世界最先進主戰坦克 評測】都说自己是第一，究竟誰更強？ M1 主戰坦克 、T-90 主戰坦克、豹 2 主戰坦克、挑戰者主戰坦克、T-14 主戰坦克、阿瓊主戰坦克、勒克萊爾主戰坦克 - YouTube](https://www.youtube.com/watch?v=f1XJyWSr7y0)
-
-[The Insane Engineering of the M1 Abrams - YouTube](https://www.youtube.com/watch?v=NR5pWBy-6Fk)
-[M1坦克40年無敵路，坐著真皮打蘇俄坦克，最完美的美系坦克，海灣戰爭橫掃伊拉克裝甲集團，2000米擊穿2輛蘇系T-72 | 豹式 | M60 | 巴頓 | - YouTube](https://www.youtube.com/watch?v=iCxI0roxgqs)
-[美軍M1「艾布拉姆斯」坦克被長期低估，實際戰力世界領先，M1A2T坦克不可小覷【裝備資訊】#m1a2abrams #m1abrams - YouTube](https://www.youtube.com/watch?v=GBgqNVWsZw8)
-[【M1 坦克堅持人工裝彈的原因】美軍 M1 系列坦克為何不用自動裝彈機？詳解 M1 坦克火力系統！ - YouTube](https://www.youtube.com/watch?v=FZLZ1eN3XZ4)
-
-[【俄制坦克究竟有多差？】俄軍坦克在烏克蘭殘骸遍地！為何俄制坦克總被開罐？ - YouTube](https://www.youtube.com/watch?v=UlF6zZNItAc)
-
-[失去炮塔，反而變更強？瑞典Strv 103主戰坦克，M1艾布拉姆斯都要學它！ - YouTube](https://www.youtube.com/watch?v=1kqstUKg7h8)
+[Yasin (RPG) - Wikiwand](<https://www.wikiwand.com/en/articles/Yasin_(RPG)>)
+[How Hamas RPG Works | Al-Yassin Rocket Propelled Grenade - YouTube](https://www.youtube.com/watch?v=_e_eOBLw0Wg)
 
 ## Anti-Armor/Armor Piercing
 
@@ -440,10 +411,16 @@ Sub-calibre AP rounds have smaller and denser core (碳化鎢), using larger bar
 [尾翼穩定脫殼穿甲彈 - Wikiwand](https://www.wikiwand.com/zh/%E5%B0%BE%E7%BF%BC%E7%A9%A9%E5%AE%9A%E8%84%AB%E6%AE%BC%E7%A9%BF%E7%94%B2%E5%BD%88)
 
 Chemical shells contains explosive filler that will explode on timer, on contact or by proximity.
+
 高爆彈/榴彈 (Armor Piercing High Explosive, APHE): explodes after penetration, the shockwave and shrapnel deal AoE damage; not useful for AP due to reduced mass; also have BC, CBC variants; also used for Anti-Air shells
 [高爆彈\_百度百科](https://baike.baidu.hk/item/%E9%AB%98%E7%88%86%E5%BD%88/10395223)
+
 破甲彈 (High Explosive Anti Tank/HEAT): contains explosives and an (inverted) metal cone, the explosion happens outside of the armor and the shockwave will form focused a jet of metal particles at supersonic speed to pierce the armor and wreck havoc; smooth bore barrel should be used to keep the jet focused; initial velocity is irrelevant; needs room between the explosion and the armor for the jet formation, as seen by the standoff probe in the front to detonate the explosive; also have Ballistic Cap (BC), Capped Ballistic Capped (CBC) variants; used in RPGs; aka HEAT-MP (Multipurpose) or MPAT (Multipurpose Anti Tank)
 尾翼穩定破甲彈 HEAT-FS: Since we're not using rifle, fin stabilizer is used, also reduces the weight of shell
+[蒙羅/諾伊曼效應 - Wikiwand](https://www.wikiwand.com/zh/articles/%E8%92%99%E7%BE%85/%E8%AB%BE%E4%BC%8A%E6%9B%BC%E6%95%88%E6%87%89)
+[“门罗效应”是什么？给炸药加个金属罩，直接影响了战争进程 - YouTube](https://www.youtube.com/watch?v=eW4dqt40ieo)
+[门罗效应\_百度百科](https://baike.baidu.com/item/%E9%96%80%E7%BE%85%E6%95%88%E6%87%89/6558046)
+
 碎甲彈 (High Explosive Squash Head, HESH/High Explosive Plastic, HEP): contains explosive that will deform, spread and stick to outside of armor, explosion will send shockwave through the armor and create spall and shrapnel inside to injure the crews; prefer rifle barrels to spread the HE; used by UK so they tends to keep Challenge 2's rifle barrel
 Armor Piercing Incendiary round
 
@@ -468,9 +445,6 @@ Armor Piercing Incendiary round
 [NLAW - Wikiwand](https://www.wikiwand.com/en/articles/MBT-LAW)
 [【MBT-LAW】英國瑞典共同研發下一代終極坦克殺手，一枚擊毀一輛坦克，單兵就可操作打完就扔，當今主戰坦克的最大威脅 - YouTube](https://www.youtube.com/watch?v=iLyOR-SSVTE)
 
-[FGM-148 Javelin - Wikiwand](https://www.wikiwand.com/en/articles/FGM-148)
-[FGM-148標槍，一枚幹穿T-90！攻頂打擊，可擊毀任何一款坦克！坦克開罐神器，美軍反坦克王牌！標槍升級，更換非製冷導引頭！| M2 | M3 | FGM-77 | AT-4 | 火力君 - YouTube](https://www.youtube.com/watch?v=9vB3IjX4dNQ)
-
 [Barrett M82 - Wikiwand](https://www.wikiwand.com/en/articles/M82A1)
 [M82A1為什麼叫反器材狙擊槍？威力巨大，功能多樣的巴雷特傳奇誕生史|輕武器|狙擊槍|軍事| - YouTube](https://www.youtube.com/watch?v=ILyyz7fvvGk)
 
@@ -487,22 +461,93 @@ Non-Explosive Reactive Armor (NERA)
 [What Are Those Cages on Russian Tanks? | Koala Explains: "Cope Cages" (& Why They're Not Working) - YouTube](https://www.youtube.com/watch?v=cVMVU6vHrT4)
 [爆炸反應裝甲，為什麼只有蘇聯廣泛用？一個小小的方盒子，就能擋住坦克主炮的攻擊，爆反到底有什麼魔力？|俄烏|蘇聯|坦克|冷戰 - YouTube](https://www.youtube.com/watch?v=WVevYSqxLvM)
 
+ARENA actively scans for incoming threats and detonates it early
+
 [Why Protecting Tanks is Getting Much More Difficult - YouTube](https://www.youtube.com/watch?v=C4NmOss83XI) RPG history
+
+## Missiles
+
+[Missile - Wikiwand](https://www.wikiwand.com/en/Missile)
+[導彈 - Wikiwand](https://www.wikiwand.com/zh/%E5%AF%BC%E5%BC%B9)
+
+[meaning - What is the difference between a 'rocket' and a 'missile' - English Language & Usage Stack Exchange](https://english.stackexchange.com/questions/185955/what-is-the-difference-between-a-rocket-and-a-missile)
+
+Guidance Systems:
+
+- GPS
+- Internal Navigation system (INS)
+- Heat Seeking
+- On-board Designator
+- Off-board Designator
+
+[Difference between Ballistic & Cruise missile - YouTube](https://www.youtube.com/watch?v=CG0OOQr2bbw)
+
+[东风 41 能否以德服人，世界洲际导彈哪家强？二战的日本怎么这么搞笑 - YouTube](https://www.youtube.com/watch?v=BeUt5eD62ps)
+[中国东风-17 有多厉害？比东风-41 还要让人畏惧，美军专家：“全球没有任何国家能够拦截” - YouTube](https://www.youtube.com/watch?v=7c3lMlrUho8)
+
+[【不止遊戲】遊戲中的導彈，究竟是如何追著你一直打的？ - YouTube](https://www.youtube.com/watch?v=y-leUDrkpM8)
+
+[ATACMS Army Tactical Missile System MLRS Explained - YouTube](https://www.youtube.com/watch?v=vH4P5PMq_gw) GPS, INS
+
+[How the Bladed R9X Ninja Missile works? | AGM-114 "R9X" Hellfire | Ninja Bomb - YouTube](https://www.youtube.com/watch?v=WjQCnsmqYKI) Heliborne, Laser, Fire and Forget, Off-board Designator
+[The AGM-114 Hellfire & How it Operates | Munitions of Battle - YouTube](https://www.youtube.com/watch?v=puSy0L9cCrk)
+[Real Reason Why AGM-114 Hellfire Missile Is So Expensive - YouTube](https://www.youtube.com/watch?v=BZbtRjvcvOE)
+
+### Ballistic Missile
+
+[Ballistic missile - Wikiwand](https://www.wikiwand.com/en/Ballistic_missile) no wings, like a rocket; enters Low Earth Orbit (LEO)
+[彈道導彈 - Wikiwand](https://www.wikiwand.com/zh/%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9)
+
+[How Hypersonic Missile Works? - YouTube](https://www.youtube.com/watch?v=83Gxpdw6U5Y)
+[Oreshnik Hypersonic Missile | How Russian Intercontinental Ballistic Nuclear Missile Works? - YouTube](https://www.youtube.com/watch?v=29pwX28HKoo) actively changes it path to avoid interception
+
+[How the RS-28 Sarmat 'Satan II' Works: The World's Most Powerful ICBM Explained @Learnfromthebase - YouTube](https://www.youtube.com/watch?v=KWBQZYsZU80)
+
+### Cruise Missile
+
+[Cruise missile - Wikiwand](https://www.wikiwand.com/en/Cruise_missile) like an unmanned airplane; fly within atmosphere (near terrain for TERCOM)
+[巡航導彈 - Wikiwand](https://www.wikiwand.com/zh/%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9)
+[天堂变地狱,“巡航导弹”是如何制导的?【科学火箭叔】 - YouTube](https://www.youtube.com/watch?v=vBjx1OVszow) Terrain Contour Mapping (TERCOM)
+
+[How Do Tomahawk Cruise Missile Work? - YouTube](https://www.youtube.com/watch?v=qjVIupG1XGQ)
+[The Power of the Tomahawk Cruise Missile an How it Works - YouTube](https://www.youtube.com/watch?v=dQEYOmUm4EI)
+
+### Heat Seeking Missile
+
+[How Heat Seeking Missile Works I Aim 9 Sidewinder - YouTube](https://www.youtube.com/watch?v=_Uwk4eiJ07o)
+[Inside the AIM-9 Sidewinder Missile - YouTube](https://www.youtube.com/watch?v=LuhyUP9PmfU)
+
+[All AIM-9 Sidewinder Variants Explained in Exactly 10 minutes - YouTube](https://www.youtube.com/watch?v=YpZpT_HlOnc)
+[How one missile changed air combat | The AIM-9 Sidewinder - YouTube](https://www.youtube.com/watch?v=OY1nRMQ0m18)
+
+Soviet Russia reverse engineered AIM-9B in 1958 for its R3, later R13 (AA2 Atoll)
+China reverse engineered AIM-9B for its PL-2, later PL-5 and PL-8
+AIM-9C used Off-board Designator
+AIM-9X Block II added two-way datalink, enabling lock-on-after-launch
+
+### Active Radar Homing
+
+> On-board Designator
+
+AMRAAM: Advanced Medium Range Air-to-Air Missile
+[The AIM-120 AMRAAM and How it Works.| munitions of battle - YouTube](https://www.youtube.com/watch?v=mqj7V9jc61A)
+
+### Guided Missile
+
+> Off-board Designator
+
+[From failure to redemption | The AIM-7 Sparrow - YouTube](https://www.youtube.com/watch?v=2eMl93Oo65c)
 
 ### Anti-Tank Guided Missile (ATGM)
 
 [Anti-tank guided missile - Wikiwand](https://www.wikiwand.com/en/Anti-tank_guided_missile)
+
+[FGM-148 Javelin - Wikiwand](https://www.wikiwand.com/en/articles/FGM-148) use image, trained in locking phase, for pattern matching; use pre-cursor charge to nullify reactive armor; use shaped charge for armor penetration
+[FGM-148標槍，一枚幹穿T-90！攻頂打擊，可擊毀任何一款坦克！坦克開罐神器，美軍反坦克王牌！標槍升級，更換非製冷導引頭！| M2 | M3 | FGM-77 | AT-4 | 火力君 - YouTube](https://www.youtube.com/watch?v=9vB3IjX4dNQ)
 [The Insane Engineering of the Javelin - YouTube](https://www.youtube.com/watch?v=SUdHzKRiBX8)
 [Javelin Missile | How a Javelin Missile works - YouTube](https://www.youtube.com/watch?v=E5C20L0yvY0)
-
-A round of Javelin costs around $200000, while the cost of a battle tank is around $1 to 2 million.
-
-## Anti-Air
-
-[高射炮如何擊落飛機！誕生幾百年依然不可替代！末端防空的主力！ - YouTube](https://www.youtube.com/watch?v=VXPHhQhaI7k)
-
-[【不止遊戲】防空炮是如何打下飛機的？ - YouTube](https://www.youtube.com/watch?v=jAa3MU5hIdE&list=PLF-ufzZkqoKtMO3SfvwlZeh_4Byo9aotA&index=16)
-[【不止遊戲】為戰爭而誕生的建築—防空塔是如何抵禦敵機空襲的？ - YouTube](https://www.youtube.com/watch?v=w3Qup9zVjbo)
+[Tank Killer Javelin Missile - How to aim a javelin missile - YouTube](https://www.youtube.com/watch?v=fe-s9IiLPcM)
+A round of Javelin costs around $200k, while the cost of a battle tank is around $1 to 2 million.
 
 ### Ground-to-Air Missile (GTAM)
 
@@ -510,87 +555,14 @@ A round of Javelin costs around $200000, while the cost of a battle tank is arou
 
 [FIM-92 Stinger - Wikiwand](https://www.wikiwand.com/en/articles/FIM-92_Stinger)
 [直升機飛行員的噩夢，毒刺防空導彈到底有多強？戰場命中率高達80%#導彈 #防空導彈 - YouTube](https://www.youtube.com/watch?v=wdeKnby6wY8)
+[Stinger Missile | How does a Stinger Missile Works? | MANPADS Stingers - YouTube](https://www.youtube.com/watch?v=suKv8G3Gd88) On-Board IR and UV tracking
 
-## Artillery
+### Anti-Missile
 
-[Artillery | Definition, History, Types, & Facts | Britannica](https://www.britannica.com/technology/artillery)
-[Cannon | weapon | Britannica](https://www.britannica.com/technology/cannon-weapon)
+[The Incredible Challenge Of Destroying A Missile With Lasers - YouTube](https://www.youtube.com/watch?v=9K1pr6IEmHI)
 
-[List of siege artillery - Wikiwand](https://www.wikiwand.com/en/articles/Siege_cannon) immobile
-
-[Field artillery - Wikiwand](https://www.wikiwand.com/en/articles/Field_artillery)
-[Cannon - Wikiwand](https://www.wikiwand.com/en/articles/Cannon)
-[M61 Vulcan - Wikiwand](https://www.wikiwand.com/en/articles/vulcan%20cannon)
-[Field gun - Wikiwand](https://www.wikiwand.com/en/articles/Field_gun)
-[Howitzer - Wikiwand](https://www.wikiwand.com/en/articles/Howitzer)
-[Mortar (weapon) - Wikiwand](<https://www.wikiwand.com/en/articles/Mortar_(weapon)>)
-
-[坦克、突击炮、坦克歼击车、自行火炮究竟是如何分类的？ - YouTube](https://www.youtube.com/watch?v=WrdWbBr2l14)
-
-[How does the ammunition of a towed artillery work? - YouTube](https://www.youtube.com/watch?v=ScZuCDYSM2g)
-[Why Artillery Guns Always Shoot Short at Night - YouTube](https://www.youtube.com/watch?v=pQXVhUObsIw)
-[Why Artillery Guns Always Shoot Short at Night - YouTube](https://www.youtube.com/watch?v=pQXVhUObsIw)
-
-### Recoilless rifle
-
-> fire missiles?
-
-[Recoilless rifle - Wikiwand](https://www.wikiwand.com/en/Recoilless_rifle)
-[無後座力砲 - Wikiwand](https://www.wikiwand.com/zh/%E6%97%A0%E5%90%8E%E5%BA%A7%E5%8A%9B%E7%82%AE)
-
-### Self-propelled Guns
-
-[【自走炮發展史】自走炮如何成為戰爭之神！俄烏遠程對轟！6 門凱撒打爆俄軍 80 門重炮！ - YouTube](https://www.youtube.com/watch?v=4CQqd87s8Ow) "sniper", without torrent, 40-70km with accuracy of 1-10m
-[盘点全球十大榴彈炮，SH15 仅排第二，第一到底是谁？ - YouTube](https://www.youtube.com/watch?v=jRQB5JpEtOc)
-
-[BMP | The Industry Fighting Vehicle - YouTube](https://www.youtube.com/watch?v=4J9Acowtluk)
-
-### German 88mm Flak
-
-It was called Flak 18 to mask to fact that it was designed in the 30's.
-
-[Why Was the German 88mm Flak the BEST Gun Throughout WW2? - YouTube](https://www.youtube.com/watch?v=78Yso7ikUsU)
-[二戰全能火炮，海陸空三位一體，盟軍部隊最大阻礙 I88 毫米高射炮 I 謝爾曼坦克 I - YouTube](https://www.youtube.com/watch?v=vByvx2z-n_A)
-[真正的炮王：88 毫米反一切炮！ - YouTube](https://www.youtube.com/watch?v=fxgUF1dgCIY) more on spec of Flak 18, 36 (anti-tank), 37, 41 (anti-air) and accessories
-
-### Schwerer Gustav
-
-[Schwerer Gustav - Wikiwand](https://www.wikiwand.com/en/Schwerer_Gustav)
-[World’s BIGGEST / MOST POWERFUL GUN ever built! (Heavy Gustav Railway Gun.) - YouTube](https://www.youtube.com/watch?v=As3NzDQknVc)
-[德國二戰的黑科技“多拉巨炮”，射程 50 公里，需要動用 4000 人發射「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=1ZxND8rMwmU)
-[The World's Most Powerful Gun - YouTube](https://www.youtube.com/watch?v=MWtXiFA6Mro)
-
-## Rocket artillery
-
-[Rocket artillery - Wikiwand](https://www.wikiwand.com/en/Rocket_artillery)
-[火箭炮 - Wikiwand](https://www.wikiwand.com/zh/%E7%81%AB%E7%AE%AD%E7%82%AE)
-
-[【不止遊戲】想學迫擊炮怎麼發射么？我教你啊！ - YouTube](https://www.youtube.com/watch?v=D5DqonUg6QA)
-
-## Anti-Air
-
-[【不止遊戲】防空炮是如何打下飛機的？ - YouTube](https://www.youtube.com/watch?v=jAa3MU5hIdE)
-[高射炮如何擊落飛機！誕生幾百年依然不可替代！末端防空的主力！ - YouTube](https://www.youtube.com/watch?v=VXPHhQhaI7k)
-
-[The Secret Invention That Changed World War 2 - YouTube](https://www.youtube.com/watch?v=Dtocpvv88gQ) proximity fuse, reduce the 18000 rounds needed to take down a plane to < 100 rounds, changed the landscape of Pacific Theatre
-
-## Missiles
-
-[Missile - Wikiwand](https://www.wikiwand.com/en/Missile)
-[導彈 - Wikiwand](https://www.wikiwand.com/zh/%E5%AF%BC%E5%BC%B9)
-
-[Ballistic missile - Wikiwand](https://www.wikiwand.com/en/Ballistic_missile) no wings, like a rocket; enters LEO
-[彈道導彈 - Wikiwand](https://www.wikiwand.com/zh/%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9)
-
-[Cruise missile - Wikiwand](https://www.wikiwand.com/en/Cruise_missile) like an unmanned airplane; fly within atmosphere
-[巡航導彈 - Wikiwand](https://www.wikiwand.com/zh/%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9)
-
-[meaning - What is the difference between a 'rocket' and a 'missile' - English Language & Usage Stack Exchange](https://english.stackexchange.com/questions/185955/what-is-the-difference-between-a-rocket-and-a-missile)
-
-[东风 41 能否以德服人，世界洲际导彈哪家强？二战的日本怎么这么搞笑 - YouTube](https://www.youtube.com/watch?v=BeUt5eD62ps)
-[中国东风-17 有多厉害？比东风-41 还要让人畏惧，美军专家：“全球没有任何国家能够拦截” - YouTube](https://www.youtube.com/watch?v=7c3lMlrUho8)
-
-[【不止遊戲】遊戲中的導彈，究竟是如何追著你一直打的？ - YouTube](https://www.youtube.com/watch?v=y-leUDrkpM8)
+[How Anti Ballistic Missile Works | Arrow 3 - YouTube](https://www.youtube.com/watch?v=JXz85MNVQ6o) On-board Designator
+[S400 missile System & Air Defence Missiles | How it Works #missile - YouTube](https://www.youtube.com/watch?v=1VjERtz4LeY)
 
 ## Torpedo
 

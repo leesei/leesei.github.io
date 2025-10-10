@@ -2,7 +2,7 @@
 title: CSS Bundling
 description: ""
 created: 2015-12-21
-updated: 2025-01-09
+updated: 2025-09-23
 tags:
   - npm-css
   - postcss
@@ -15,6 +15,8 @@ If the CSS preprocessor supports `@import` `node_modules`, it supports bundling.
 [Why I don’t use CSS preprocessors | 456 Berea Street](http://www.456bereastreet.com/archive/201603/why_i_dont_use_css_preprocessors/)
 [Deconfusing Pre- and Post-processing – Stefan Baumgartner – Medium](https://medium.com/@ddprrt/deconfusing-pre-and-post-processing-d68e3bd078a3)
 [The Power of CSS Processors in Web Applications Development - Codica](https://www.codica.com/blog/the-power-of-css-processors-in-web-applications-development/)
+
+[So, You Want to Give Up CSS Pre- and Post-Processors... | CSS-Tricks](https://css-tricks.com/so-you-want-to-give-up-css-pre-and-post-processors/)
 
 [BazaarJS: CSS pre and post processors](http://www.leanpanda.com/blog/2015/07/20/css-preprocessors/)
 

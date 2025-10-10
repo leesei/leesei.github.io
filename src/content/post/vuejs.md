@@ -2,7 +2,7 @@
 title: Vue.js
 description: ""
 created: 2016-05-17
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - frontend
   - javascript
@@ -43,7 +43,7 @@ v-on:eventName="expression" @eventName="expression"
 [OverVue](https://www.overvue.io/)
 [OverVue 5.0: Get Started With Vue 3 — FAST | by Ross Lamerson | Jan, 2022 | JavaScript in Plain English](https://javascript.plainenglish.io/overvue-5-0-get-started-with-vue-3-fast-873d8c3dcfa5)
 
-[#184: Discussing Vue.js and Personal Projects With Evan You - The Changelog](https://changelog.com/184/)
+[Discussing Vue.js and Personal Projects with Evan You (Changelog Interviews #184)](https://changelog.com/podcast/184)
 
 ## Vue 3
 

@@ -2,7 +2,7 @@
 title: Functional Programming
 description: ""
 created: 2016-03-13
-updated: 2025-03-26
+updated: 2025-07-07
 tags:
   - javascript
   - web
@@ -46,7 +46,7 @@ Contrast: [Imperative programming - Wikiwand](https://www.wikiwand.com/en/Impera
 [Functional Programming Principles in Javascript - freeCodeCamp.org - Medium](https://medium.com/free-code-camp/functional-programming-principles-in-javascript-1b8fc6c3563f)
 [The Foundations of Functional Concurrency | Manning](https://freecontent.manning.com/the-foundations-of-functional-concurrency/)
 [rpominov/category-theory-notes](https://github.com/rpominov/category-theory-notes)
-[terminology - What is (functional) reactive programming? - Stack Overflow](http://stackoverflow.com/questions/1028250/what-is-functional-reactive-programming)
+[terminology - What is (functional) reactive programming? - Stack Overflow](https://stackoverflow.com/questions/1028250/what-is-functional-reactive-programming)
 [functional-programming Series' Articles - DEV Community](https://dev.to/deepu105/series/1857)
 
 [Curry: cooking up tastier functions – JavaScript, JavaScript…](https://javascriptweblog.wordpress.com/2010/04/05/curry-cooking-up-tastier-functions/)
@@ -174,7 +174,7 @@ Elm is designed to be a functional language compiled to JavaScript for frontend 
 [christianalfoni - Exploring Elm part1](http://www.christianalfoni.com/articles/2015_11_30_Exploring-Elm-part1)
 [christianalfoni - Exploring Elm part2](http://www.christianalfoni.com/articles/2015_12_17_Exploring-Elm-part2)
 
-[#191: Elm and Functional Programming with Richard Feldman - Changelog](https://changelog.com/191/)
+[Elm and Functional Programming with Richard Feldman (Changelog Interviews #191)](https://changelog.com/podcast/191)
 
 [Elm — Monday Morning Haskell](https://mmhaskell.com/elm/)
 [Elm: More Functional Frontend! – Hacker Noon](https://hackernoon.com/elm-more-functional-frontend-c7d8c21c8bce)
@@ -249,7 +249,7 @@ Haskell use monads to carry out side effects
 [Haskell Stack Mega-Tutorial - YouTube](https://www.youtube.com/watch?v=sRonIB8ZStw)
 [LambdaConf 2015 - How to Learn Haskell in Less Than 5 Years Chris Allen - YouTube](https://www.youtube.com/watch?v=Bg9ccYzMbxc)
 
-[#198: Haskell Programming with Chris Allen and Julie Moronuki - Changelog](https://changelog.com/198/)
+[Haskell Programming with Chris Allen and Julie Moronuki (Changelog Interviews #198)](https://changelog.com/podcast/198)
 [Into the Core - Squeezing Haskell into Nine Constructors by Simon Peyton Jones - YouTube](https://www.youtube.com/watch?v=uR_VzYxvbxg)
 
 ### Packages
@@ -287,7 +287,6 @@ Haskell use monads to carry out side effects
 [Erlang/Elixir Syntax: A Crash Course - The Elixir programming language](http://elixir-lang.org/crash-course.html)
 [Elixir School](https://elixirschool.com/en/)
 [Joy of Elixir](https://joyofelixir.com/toc.html)
-[Try Elixir | Code School](https://www.codeschool.com/courses/try-elixir)
 
 [Learning Elixir: First Impressions · Abu Ashraf Masnun](http://masnun.rocks/2017/02/18/learning-elixir-first-impressions/)
 [Why choose Elixir for software development | Skcript](https://www.skcript.com/svr/why-choose-elixir-for-software-development/)
@@ -311,8 +310,8 @@ Haskell use monads to carry out side effects
 [Mix](http://elixir-lang.org/docs/stable/mix/Mix.html) project generator, build tool
 [IEx](http://elixir-lang.org/docs/stable/iex/IEx.html) REPL
 
-[#194: Elixir with José Valim - Changelog](https://changelog.com/194/)
-[#147: Elixir and Phoenix with Chris McCord - Changelog](https://changelog.com/147/)
+[Elixir and the Future of Phoenix with José Valim (Changelog Interviews #194)](https://changelog.com/podcast/194)
+[Elixir and Phoenix with Chris McCord (Changelog Interviews #147)](https://changelog.com/podcast/147)
 [Phoenix and Elm – Making the Web Functional](https://www.infoq.com/presentations/phoenix-elm)
 
 [Phoenix](http://www.phoenixframework.org/) Rails-like web framework
@@ -426,7 +425,7 @@ Source:
 
 Tutorials:
 [Bacon.js for dummies | Neethack](http://neethack.com/2013/02/bacon-dot-js-for-dummies/) basic definition of terms
-[javascript - Bacon.js: practical difference between a stream and a property - Stack Overflow](http://stackoverflow.com/questions/29297328/bacon-js-practical-difference-between-a-stream-and-a-property)
+[javascript - Bacon.js: practical difference between a stream and a property - Stack Overflow](https://stackoverflow.com/questions/29297328/bacon-js-practical-difference-between-a-stream-and-a-property)
 [Sean Voisen » Learning FRP with Bacon.js by Way of Underscore](http://sean.voisen.org/blog/2014/12/functional-reactive-underscore/)
 [Bacon.js Cheat Sheet by ProLoser - Cheatography.com](https://www.cheatography.com/proloser/cheat-sheets/bacon-js/)
 

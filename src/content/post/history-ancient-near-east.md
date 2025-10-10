@@ -2,7 +2,7 @@
 title: Ancient Near East History
 description: ""
 created: 2020-01-23
-updated: 2025-01-09
+updated: 2025-09-23
 tags:
   - history
   - history/near-east
@@ -71,6 +71,7 @@ Middle Assyrian Empire (1392 BC - 934 BC) Neo-Assyrian Empire (911 BC - 609 BC)
 [Cracking Ancient Codes: Cuneiform Writing - with Irving Finkel - YouTube](https://www.youtube.com/watch?v=PfYYraMgiBA)
 [Irving Finkel Teaches Us Cuneiform - YouTube](https://www.youtube.com/watch?v=zOwP0KUlnZg)
 [The Complete and Concise History of the Sumerians and Early Bronze Age Mesopotamia (7000-2000 BC) - YouTube](https://www.youtube.com/watch?v=szFjxmY7jQA)
+[How to Write in Cuneiform, the Oldest Writing System in the World: A Short Introduction | Open Culture](https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html)
 
 腦洞
 [史前古文明 3-蘇美爾 - YouTube](https://www.youtube.com/playlist?list=PLD3Ywi8n56O4GTbjyYH0ACN6wt0nCbDYs) 自說自話的總裁
@@ -119,7 +120,7 @@ Middle Assyrian Empire (1392 BC - 934 BC) Neo-Assyrian Empire (911 BC - 609 BC)
 
 ## Huns
 
-[Huns - Wikiwand](http://www.wikiwand.com/en/Huns)
+[Huns - Wikiwand](https://www.wikiwand.com/en/Huns)
 [Attila - Wikiwand](https://www.wikiwand.com/en/Attila)
 
 [匈人 - Wikiwand](https://www.wikiwand.com/zh/%E5%8C%88%E4%BA%BA)

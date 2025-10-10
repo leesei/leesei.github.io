@@ -2,7 +2,7 @@
 title: Manufacturing
 description: ""
 created: 2023-06-10
-updated: 2025-07-06
+updated: 2025-07-09
 tags:
   - manufacturing
   - science
@@ -19,9 +19,11 @@ New Mind
 [Cloaking With Metamaterials - YouTube](https://www.youtube.com/watch?v=sweVNjEQj0s)
 
 [AddMaker - YouTube](https://www.youtube.com/@addmakertw)
+[Comenster Machinery - YouTube](https://www.youtube.com/@comenster-machinery)
+[Factory Monster - YouTube](https://www.youtube.com/@Factory_Monster)
 [Machine Thinking - YouTube](https://www.youtube.com/@machinethinking)
-[制造原理 - YouTube](https://www.youtube.com/@%E5%88%B6%E9%80%A0%E5%8E%9F%E7%90%86-u5t)
 [SatisFactory Process - YouTube](https://www.youtube.com/@satisfactoryprocess)
+[制造原理 - YouTube](https://www.youtube.com/@%E5%88%B6%E9%80%A0%E5%8E%9F%E7%90%86-u5t)
 [了不起的中国制造了 - YouTube](https://www.youtube.com/playlist?list=PL7aNHwx_SJ55D99mzyXr8Ksqpbz84OW5L) 网易文创
 [Factory tours - YouTube](https://www.youtube.com/playlist?list=PL42a-LTi6YKA_j1aPbwZTRAEk0iuSBfpU) Strange Parts
 [Factory Tours - YouTube](https://www.youtube.com/playlist?list=PLsuVSmND84QuVMZuk2HGUtCSYXR7nmC5a) Gamers Nexus

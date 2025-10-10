@@ -2,7 +2,7 @@
 title: Creative Coding
 description: ""
 created: 2016-04-08
-updated: 2025-01-09
+updated: 2025-10-06
 tags:
   - web
 ---
@@ -39,7 +39,9 @@ tags:
 [Welcome to p5.js](http://hello.p5js.org/)
 [processing/p5.js-video](https://github.com/processing/p5.js-video#hello-p5)
 
-[Code! Programming with p5.js - YouTube](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) The Coding Train
+The Coding Train
+[Code! Programming with p5.js - YouTube](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) 2025-10
+[What's new in p5.js 2! - YouTube](https://www.youtube.com/watch?v=0Ad5Frf8NBM)
 [p5.js tutorials - JavaScript, HTML, and CSS - The Coding Train - YouTube](https://www.youtube.com/user/shiffman/playlists?view=50&shelf_id=14&sort=dd)
 [Q&A #7.1: Comparing p5.js and Processing - Part 1 - YouTube](https://www.youtube.com/watch?v=AmlAiKsiy0o)
 [Q&A #7.2: Comparing p5.js and Processing - Part 2 - YouTube](https://www.youtube.com/watch?v=AsjPJ5AWkDc)

@@ -2,7 +2,7 @@
 title: Ancient Civilizations
 description: ""
 created: 2020-01-23
-updated: 2025-07-05
+updated: 2025-10-05
 tags:
   - history
 ---
@@ -41,9 +41,17 @@ Civilization:
 
 [Beginnings - 600 BCE | World history | Arts and humanities | Khan Academy](https://www.khanacademy.org/humanities/world-history/world-history-beginnings)
 
+[夏朝存在471年，为何始终挖不到？史专家：大禹建立的根本不是夏朝！#文明之旅 #馬未都 #儒家思想 #儒家 #羅振宇 - YouTube](https://www.youtube.com/watch?v=j_qu9EGZ8kQ)
+
+- 一萬三千年出洞
+- 九千年上路
+- 六千年提速
+- 五千年文明
+- 四千年跨步
+- 兩千年鼎新
+
 The History of English Podcast 9-12
 [The History of English Podcast] Episode 11: Germanic Ancestors
-<http://podplayer.net/#/?id=11930406> via @PodcastAddict map
 
 4000B.C. - 1500B.C.
 THE horse, the wheel and language
@@ -188,7 +196,6 @@ they dominated western and northern Europe. the distinction between Germanic and
 Celtics (Greek) and Gauls (Roman) mostly refers to the same people. Romans definition may be limited to those living in France.
 
 [Dan Carlin's Hardcore History] Show 60 - The Celtic Holocaust
-<http://podplayer.net/#/?id=39615952> via @PodcastAddict
 the Gauls crossed the Apes and sacked the early Rome in northern Italy around 391B.C. Celts has since been treated by the Romans as barbarians and threats in the north.
 Around 200B.C., Western Europe was divided into 3 territories: Germanic tribes in the far North, Romans and Greeks in the Mediterranean and Celtics occupying the middle.
 in 120B.C, the Germanic tribes Jutes lead by the Teutons and Kenbre in Denmark moved southeast because of a flood. They defeated the Romans and settled near Rome, bringing fearful memory to the Romans. Around the same time, Celtic territory was infringed by the Germanic tribes from the north and the Romans formed their standing armies. Seeing the stressed Celtics, the Romans, lead by Julius Caesar in 59-55B.C, conquered the Gauls in the name of "stabilizing the region". But he was defeated by British Celts in 55B.C. the Celts unified and revolted in 55B.C., aborting Caesar's second expedition to Britain.
@@ -198,7 +205,7 @@ Celtic language in the European continent had mostly died out after the invasion
 
 After this defeat of Gauls, Germano-Celtic living in the west were still nomadic herders and hard to conquer. In 4AD, the Romans controlled the Province of Germania in the east of Rhine.
 
-[Roman Empire: Battle of the Teutoburg Forest](http://militaryhistory.about.com/od/battleswarsto1000/p/Roman-Empire-Battle-Of-The-Teutoburg-Forest.htm)
+[Roman-Germanic Wars' Battle of the Teutoburg Forest](https://www.thoughtco.com/roman-empire-battle-of-teutoburg-forest-2360864)
 Varus, a highly respected Roman General, was ambushed with 3 legions by revolting Germanic troops lead by his advisory Arminius, son of a German chieftain.
 this stopped the Romans expansion further. Rhine became the de facto boundary between the Roman empire and Germania.
 
@@ -290,10 +297,9 @@ f
 [Was there a real Atlantis? | HowStuffWorks](https://history.howstuffworks.com/history-vs-myth/real-atlantis.htm)
 
 [Helike - Wikiwand](https://www.wikiwand.com/en/Helike)
-[Helike - Real life Atlantis - Naked History](http://www.historynaked.com/helike-real-life-atlantis/)
 
-[atlantipedia.ie/samples/](http://atlantipedia.ie/samples/)
-[Helike |](http://atlantipedia.ie/samples/tag/helike/)
+[atlantipedia.ie/samples/](https://atlantipedia.ie/samples/)
+[Helike |](https://atlantipedia.ie/samples/tag/helike/)
 
 ## Indian
 
@@ -308,7 +314,7 @@ f
 
 ### Byzantine Empire
 
-[Byzantine Empire - Wikiwand](http://www.wikiwand.com/en/Byzantine_Empire)
+[Byzantine Empire - Wikiwand](https://www.wikiwand.com/en/Byzantine_Empire)
 
 [Byzantine Empire Timeline - World History Encyclopedia](https://www.worldhistory.org/timeline/Byzantine_Empire/)
 When Rome Empire crumbles, the Greek speaking officials fled to modern Turkey and created Byzantine Empire, around the time of 唐朝

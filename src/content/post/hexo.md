@@ -2,7 +2,7 @@
 title: Hexo
 description: ""
 created: 2014-12-09
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - app
   - hexo
@@ -47,7 +47,7 @@ Validate YAML with [Online YAML Parser](http://yaml-online-parser.appspot.com/).
 [Plugins · hexojs/hexo Wiki](https://github.com/hexojs/hexo/wiki/Plugins)
 
 [Writing Plugins | Hexo](https://hexo.io/docs/plugins.html)
-[javascript - How to implement a tabbed codeblock tag for Hexo - Stack Overflow](http://stackoverflow.com/questions/35140300/how-to-implement-a-tabbed-codeblock-tag-for-hexo)
+[javascript - How to implement a tabbed codeblock tag for Hexo - Stack Overflow](https://stackoverflow.com/questions/35140300/how-to-implement-a-tabbed-codeblock-tag-for-hexo)
 
 [hexojs/hexo-generator-alias](https://github.com/hexojs/hexo-generator-alias)
 [vseventer/hexo-uncss](https://github.com/vseventer/hexo-uncss)
@@ -150,7 +150,7 @@ and study source code of Hexo and other themes
 Some themes support custom favicon.
 You can also put `favicon.ico` in `source/favicon.ico` so it will be picked up by browsers.
 
-[node.js - Add Favicon to Hexo Blog - Stack Overflow](http://stackoverflow.com/questions/30291588/add-favicon-to-hexo-blog/)
+[node.js - Add Favicon to Hexo Blog - Stack Overflow](https://stackoverflow.com/questions/30291588/add-favicon-to-hexo-blog/)
 
 ## Add doc
 

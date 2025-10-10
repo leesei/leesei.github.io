@@ -2,7 +2,7 @@
 title: Cross Platform Apps (Desktop)
 description: ""
 created: 2022-05-03
-updated: 2025-02-07
+updated: 2025-07-07
 tags:
   - app
 ---
@@ -227,7 +227,7 @@ Rust core + TypeScript UI
 [nodegui/nodegui: A library for building cross-platform native desktop applications with Node.js and CSS 🚀. React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org](https://github.com/nodegui/nodegui)
 [nodegui/packer: Package and deploy apps built with NodeGUI to all platforms](https://github.com/nodegui/packer)
 
-[JS Party #96: Performant Node desktop apps with NodeGui featuring Atul R |> News and podcasts for developers |> Changelog](https://changelog.com/jsparty/96)
+[Performant Node desktop apps with NodeGui featuring Atul R (JS Party #96)](https://changelog.com/jsparty/96)
 [🐕 Announcing NodeGUI and React NodeGUI - Build native desktop apps with Javascript and CSS 🎉 | Blog](https://blog.atulr.com/nodegui-intro/)
 
 [Hello from React NodeGui | React NodeGui](https://react.nodegui.org/)

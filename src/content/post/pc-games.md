@@ -2,7 +2,7 @@
 title: PC Games
 description: ""
 created: 2018-01-03
-updated: 2025-05-18
+updated: 2025-09-25
 tags:
   - games
 ---
@@ -470,6 +470,8 @@ It's easier to use steamtinkerlaunch as launcher for more customization.
 [Games and mods development for Windows, Linux and Mac - Mod DB](http://www.moddb.com/)
 [单机游戏*单机游戏下载\_3DMGAME*中国第一单机游戏论坛 - Powered by Discuz!](http://bbs.3dmgame.com/forum.php)
 
+[Cross Platform Mod Support for Games - mod.io](https://mod.io/)
+
 [Steam Workshop Downloader :: IO](https://steamworkshopdownloader.io/)
 
 ### Fixing HDMI no audio on Intel NUC
@@ -876,6 +878,9 @@ r_soft_shadows none
 
 [8 分鐘帶你縷清劇情脈絡，歧路旅人 2 真結局究竟講了什麽？ - YouTube](https://www.youtube.com/watch?v=RsSFLPbIQYI)
 
+[The Fusion of Nostalgia and Novelty in Octopath Traveler | Unreal Fest Europe 2019 | Unreal Engine - YouTube](https://www.youtube.com/watch?v=K6wW0pO08LE)
+[「HD-2D的问世」八方旅人幕后故事【可乐研游所】 - YouTube](https://www.youtube.com/watch?v=q_bg0Ze9yXE)
+
 # Dishonored
 
 Leya
@@ -920,6 +925,10 @@ Leya
 [Hollow Knight - 6 Years Later. - YouTube](https://www.youtube.com/watch?v=_eDUHT3LBrM)
 [獨立遊戲怎麼那麼好玩呢？《空洞騎士 Hollow Knight》鑒賞【就知道玩遊戲 29】 - YouTube](https://www.youtube.com/watch?v=m4cSE--5rso)
 [What Makes a Good Metroidvania? - YouTube](https://www.youtube.com/watch?v=NcbB09mjMGk)
+
+# SoulCalibur
+
+[The INSANE Origins of SoulCalibur – SoulCalibur Lore - YouTube](https://www.youtube.com/watch?v=kQF93ucqlyE)
 
 # Disgaea
 
@@ -1035,6 +1044,7 @@ Leya
 [黑神话悟空 - YouTube](https://www.youtube.com/playlist?list=PLBxed0O8BXCe61aIa4meqLIUrfDHaDOmb) 艾尔登法环编年史
 [猴学 | 黑神话悟空剧情深度解读 - YouTube](https://www.youtube.com/playlist?list=PL5Nnuy0hm7uotxeMbfyS3N9A7QX1ls_sw) dogsama
 [鬥戰神-黑神話 - YouTube](https://www.youtube.com/playlist?list=PLSQU_UAK-oW8-0NxmVcT0wJN3tA9s6cn_) 遊戲塔樓
+[利维坦mY（本人） - YouTube](https://www.youtube.com/@levitan81/search?query=%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA)
 
 [黑神話:悟空 / Black Myth: Wu Kong - YouTube](https://www.youtube.com/playlist?list=PLwFY2FRIQ7pfdsjMH7iLV6Afw8N5LlDN7)
 [为什么说黑神话是4A大作？万字解析黑神话AI动画技术 - YouTube](https://www.youtube.com/watch?v=LPGckspSuhY)

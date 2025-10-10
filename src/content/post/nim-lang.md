@@ -2,7 +2,7 @@
 title: Nim
 description: Efficient, expressive, elegant
 created: 2023-09-29
-updated: 2025-02-07
+updated: 2025-07-07
 tags:
   - comp/lang
   - nim

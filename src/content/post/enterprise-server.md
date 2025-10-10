@@ -2,7 +2,7 @@
 title: Enterprise Server
 description: ""
 created: 2016-02-17
-updated: 2025-02-07
+updated: 2025-10-08
 tags:
   - comp/hardware
   - enterprise
@@ -63,6 +63,8 @@ Frequency Optimized: ideal for non-parallel/single-threaded applications; CPUs w
 
 SAS (serial attached SCSI) and SATA uses the same connector. Its the protocol over the wire that contributes to the different in characteristics. In terms of reliability and error rate SAS disks are much better compared to the old SATA disks.
 
+[SSD規格比較：2.5吋、mSATA、M.2和U.2｜SSSTC建興儲存科技](https://www.ssstc.com/tw/knowledge-detail/guide-to-ssd-form-factors/)
+
 [SAS and SATA for Server Storage](http://www.tomshardware.co.uk/hdd-enterprise-storage-3.5,review-32244.html) !important
 [Understanding the difference between SAS, SATA and Near Line SAS Hard drives to select for servers. | Outsourced IT and Cloud Computing Technology](http://blog.kurtiskent.com/2012/05/understanding-difference-between-sas.html)
 [SAS vs Near-line SAS vs SATA - Server Fault](http://serverfault.com/questions/394590/sas-vs-near-line-sas-vs-sata)
@@ -90,9 +92,9 @@ DAS = Direct Attached Storage (drives inside a server node)
 HBA = host bus adapter (offload network processing from CPU in FC SAN)
 JBOD?
 
-[Storage area network - Wikiwand](http://www.wikiwand.com/en/Storage_area_network)
-[Network-attached storage - Wikiwand](http://www.wikiwand.com/en/Network-attached_storage)
-[Object storage - Wikiwand](http://www.wikiwand.com/en/Object_storage)
+[Storage area network - Wikiwand](https://www.wikiwand.com/en/Storage_area_network)
+[Network-attached storage - Wikiwand](https://www.wikiwand.com/en/Network-attached_storage)
+[Object storage - Wikiwand](https://www.wikiwand.com/en/Object_storage)
 
 [Introduction to Storage Area Networks](https://www.redbooks.ibm.com/redbooks/pdfs/sg245470.pdf) (PDF)
 [How to create a high-availability configuration with Synology NAS - Tutorials - Synology - Network Attached Storage (NAS)](https://www.synology.com/en-us/knowledgebase/tutorials/585)
@@ -156,7 +158,7 @@ Unified storage unit supports SAN and NAS, with FC and iSCSI interface
 
 ### RAID
 
-[RAID - Wikiwand](http://www.wikiwand.com/en/RAID)
+[RAID - Wikiwand](https://www.wikiwand.com/en/RAID)
 [Standard RAID levels - Wikiwand](https://www.wikiwand.com/en/Standard_RAID_levels)
 [Nested RAID levels - Wikiwand](https://www.wikiwand.com/en/Nested_RAID_levels#/RAID_100_.28RAID_10.2B0.29)
 [RAID - ArchWiki](https://wiki.archlinux.org/title/RAID)

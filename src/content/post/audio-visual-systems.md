@@ -2,7 +2,7 @@
 title: Audio-visual Systems
 description: ""
 created: 2018-07-04
-updated: 2025-06-24
+updated: 2025-10-03
 tags:
   - audio-clip
   - clipart
@@ -330,6 +330,17 @@ document.querySelectorAll("meta[property='og:url']");
 [AI Noise Cancelling TESTED! ROG Strix Go 2.4 Headset Introduction | ASUS ROG Singapore - YouTube](https://www.youtube.com/watch?v=0yvGFC3wcrM&t=152)
 [B550 Is Everything We Wanted! - ASUS TUF Gaming B550-Plus Review - YouTube](https://www.youtube.com/watch?v=S3BWevBbRlw&t=310s)
 
+## Live Stream
+
+[HTTP Live Streaming - Wikiwand](https://www.wikiwand.com/en/articles/HTTP_Live_Streaming)
+[HTTP Live Streaming (HLS) - Apple Developer](https://developer.apple.com/streaming/)
+[What is HTTP Live Streaming? | HLS streaming | Cloudflare](https://www.cloudflare.com/learning/video/what-is-http-live-streaming/)
+[Comprehensive Guide to HLS Streaming](https://www.wowza.com/blog/hls)
+[Deploying an AES-128 Encrypted HTTP Live Stream (HLS)](https://ggicci.me/deploying-an-aes-128-encrypted-http-live-stream-hls/)
+[adimango/http-live-streaming-examples: A repository that contains a collection of samples of HTTP Live Streaming.](https://github.com/adimango/http-live-streaming-examples)
+
+[How Twitch Live Streaming and Chat works through HTTP - Devtooling Twitch - YouTube](https://www.youtube.com/watch?v=X7AQ_f-ki3s)
+
 ## Transcripts
 
 [raryelcostasouza/pyTranscriber: pyTranscriber can be used to generate automatic transcription / automatic subtitles for audio/video files through a friendly graphical user interface.](https://github.com/raryelcostasouza/pyTranscriber)
@@ -374,10 +385,15 @@ document.querySelectorAll("meta[property='og:url']");
 [command line - How do I merge two \*.srt files - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/2283/how-do-i-merge-two-srt-files)
 [16 Best Subtitle Editors in 2025 for Free](https://www.movavi.com/learning-portal/best-subtitle-editors.html)
 [8 Best VTT Editors for Windows, Mac and Online](https://www.flexclip.com/learn/vtt-editor.html)
+
 [Subtitle Tools - Online Tools to Sync, Convert and Fix Subtitles](https://subtitletools.com/)
 
 [Aegisub Advanced Subtitle Editor](http://www.aegisub.org/)
 [Subtitle Edit Help](https://www.nikse.dk/SubtitleEdit/Help) web and Windows app
+
+[Jubler Subtitle Εditor](https://jubler.org/)
+
+[Home - Subtitle Workshop](https://subworkshop.sourceforge.net/)
 
 [Subtitles - download movie and TV Series subtitles](https://www.opensubtitles.org/en/search/subs)
 [Subtitles](https://www.podnapisi.net/)
@@ -387,6 +403,12 @@ document.querySelectorAll("meta[property='og:url']");
 [字幕库(zimuku,SrtKu) -- 字幕下载网站](https://srtku.com/)
 [分享交流下载字幕平台 - SubHD](https://subhd.tv/)
 [首页 - 射手网(伪) - assrt.net - 字幕下载，字幕组，中文字幕，美剧字幕，英剧字幕，双语字幕，新番字幕](https://assrt.net/)
+
+## Dolby
+
+[Dolby.io - High-fidelity Audio and Video For All](https://dolby.io/)
+
+[Dolby Vision 2 is the next HDR push and it’s going to upset a lot of people](https://www.makeuseof.com/dolby-vision-2-hdr-push-upset-people/)
 
 ## Digital Audio
 
@@ -400,7 +422,6 @@ document.querySelectorAll("meta[property='og:url']");
 [Nyquist - Signalling at the Nyquist Rate and the Foundation of the Sampling Theory - YouTube](https://www.youtube.com/watch?v=BT_mWQjO-bo)
 
 [Digital Audio Basics: Audio Sample Rate and Bit Depth](https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html)
-[Dolby.io - High-fidelity Audio and Video For All](https://dolby.io/)
 
 [Audio Handling Basics: Process Audio Files In Command-Line or Python | HackerNoon](https://hackernoon.com/audio-handling-basics-how-to-process-audio-files-using-python-cli-jo283u3y)
 [jiaaro/pydub at hackernoon.com](https://github.com/jiaaro/pydub)
@@ -557,6 +578,8 @@ The quality of video in the transition from 35mm film to 4K master is inferior t
 [陳寗玩音響 - YouTube](https://www.youtube.com/playlist?list=PLW4nBexRDfRXBo2Xd9vpVqt5VcqpScN9P)
 [音響人的基本常識：什麼是 DAC？數位轉類比的金鑰匙!!【4K】 - YouTube](https://www.youtube.com/watch?v=0SEUdnwWWXw)
 [二手價 5 萬為何哥甘願跪著付錢？老 DAC Theta G3 感動開箱！ - YouTube](https://www.youtube.com/watch?v=WTPTHe74l9Q)
+
+[You’re Not Getting the Best Sound From Your Soundbar—Until You Change This One Setting](https://www.makeuseof.com/boost-soundbar-audio-quality-one-setting-tweak/)
 
 ## Surround Sound
 

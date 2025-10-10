@@ -2,7 +2,7 @@
 title: Post Quantum Cryptography
 description: ""
 created: 2025-03-24
-updated: 2025-06-29
+updated: 2025-10-10
 tags:
   - crypto
   - cryptography
@@ -26,7 +26,9 @@ Q-Day: when CRQC is widely available
 [SoK: How (not) to Design and Implement Post-Quantum Cryptography](https://eprint.iacr.org/2021/462)
 
 [Post-Quantum Use In Protocols (pquip)](https://datatracker.ietf.org/wg/pquip/documents/) ❗!important, IETF
-[draft-ietf-pquip-pqc-engineers-12 - Post-Quantum Cryptography for Engineers](https://datatracker.ietf.org/doc/html/draft-ietf-pquip-pqc-engineers/) timeline
+[draft-ietf-pquip-pqc-engineers - Post-Quantum Cryptography for Engineers](https://datatracker.ietf.org/doc/html/draft-ietf-pquip-pqc-engineers/) timeline
+[draft-ietf-pquip-hybrid-signature-spectrums - Hybrid signature spectrums](https://datatracker.ietf.org/doc/html/draft-ietf-pquip-hybrid-signature-spectrums/)
+[draft-ietf-pquip-pqc-hsm-constrained - Adapting Constrained Devices for Post-Quantum Cryptography](https://datatracker.ietf.org/doc/html/draft-ietf-pquip-pqc-hsm-constrained/)
 
 [Chromium Blog: Advancing Our Amazing Bet on Asymmetric Cryptography](https://blog.chromium.org/2024/05/advancing-our-amazing-bet-on-asymmetric.html)
 [Closure | Post-quantum cryptography is too damn big.](https://dadrian.io/blog/posts/pqc-signatures-2024/)
@@ -130,7 +132,9 @@ Authenticated cipher (AEAD) such as AES-GCM are considered quantum resilient wit
 [On Protecting SPHINCS+ Against Fault Attacks | IACR Transactions on Cryptographic Hardware and Embedded Systems](https://icscm.ub.rub.de/index.php/TCHES/article/view/10278)
 [draft-ietf-lamps-cms-sphincs-plus-19](https://datatracker.ietf.org/doc/html/draft-ietf-lamps-cms-sphincs-plus) overview of SLH-DSA
 
-#### FIPS 205: FN-DSA (not final)
+[SPHINCS-α: A Compact Stateless Hash-Based Signature Scheme](https://eprint.iacr.org/2022/059)
+
+#### FIPS 206: FN-DSA (not final)
 
 - FFT (Fast-Fourier transform) over NTRU-Lattice-Based Digital Signature Algorithm
 - stateless signature, NTRU lattice, requires floating point when signing
@@ -168,6 +172,14 @@ Stateless Signature
 
 [draft-wiggers-hbs-state-02](https://datatracker.ietf.org/doc/html/draft-wiggers-hbs-state/)
 
+Chinese Algorithms
+[Aigis密钥封装算法多平台高效实现与优化](https://crad.ict.ac.cn/cn/article/id/4512) Aigis-enc (KEM)
+[基于模格的密钥封装方案的比较分析与优化](https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.2020.20200452) KEM
+[Analysis on Aigis-Enc: asymmetrical and symmetrical.pdf](https://eprint.iacr.org/2020/036.pdf)
+[Analysis of Key Reuse for Aigis-Enc Scheme](http://www.jcr.cacrnet.org.cn/EN/10.13868/j.cnki.jcr.000750)
+[紧凑的Aigis-sig数字签名方案软硬件协同实现方法-【维普期刊官网】- 中文期刊服务平台](https://qikan.cqvip.com/Qikan/Article/Detail?id=7104309375)
+[Aitps：基于非对称模格问题的两方协同签名方案](https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202220533)
+
 ## Adoption
 
 [Latency from post-quantum cryptography shrinks as data increases - Amazon Science](https://www.amazon.science/blog/delays-from-post-quantum-cryptography-may-not-be-so-bad) MLKEM+MLDSA, uses TTLB
@@ -179,6 +191,7 @@ Modern browsers support ML-KEM in TLS
 
 [Cloudflare now uses post-quantum cryptography to talk to your origin server](https://blog.cloudflare.com/post-quantum-to-origins/)
 [Chromium Blog: Protecting Chrome Traffic with Hybrid Kyber KEM](https://blog.chromium.org/2023/08/protecting-chrome-traffic-with-hybrid.html)
+[Automatically Secure: how we upgraded 6,000,000 domains by default to get ready for the Quantum Future](https://blog.cloudflare.com/automatically-secure/)
 
 [Apple's New iMessage, Signal, & Post-Quantum Crypto | CSA](https://cloudsecurityalliance.org/blog/2024/05/17/apple-s-new-imessage-signal-and-post-quantum-cryptography)
 [Blog - iMessage with PQ3: The new state of the art in quantum-secure messaging at scale - Apple Security Research](https://security.apple.com/blog/imessage-pq3/)
@@ -190,16 +203,20 @@ Modern browsers support ML-KEM in TLS
 ## Framework/Library
 
 [Home | Open Quantum Safe](https://openquantumsafe.org/) Another project under Post-Quantum Cryptography Alliance, focuses on the application of PQC
-[Open Quantum Safe](https://github.com/open-quantum-safe)
+[Open Quantum Safe](https://github.com/open-quantum-safe) adopts PQClean implementations
 [open-quantum-safe/oqs-provider: OpenSSL 3 provider containing post-quantum algorithms](https://github.com/open-quantum-safe/oqs-provider)
 [provider - OpenSSL Documentation](https://docs.openssl.org/master/man7/provider/)
 [open-quantum-safe/liboqs: C library for prototyping and experimenting with quantum-resistant cryptography](https://github.com/open-quantum-safe/liboqs) ❗!important
+
+[主页 | PQMagic](https://pqcrypto.dev/)
+[pqcrypto-cn/PQMagic: Post-Quantum Magic Project. See more at https://pqcrypto.dev/ . We also open-sourced at https://gitee.com/pqcrypto/pqmagic.](https://github.com/pqcrypto-cn/PQMagic) Aigis-Enc、Aigis-Sig（PKC 2020）, 国密 hashing
 
 [microsoft/SymCrypt: Cryptographic library](https://github.com/Microsoft/SymCrypt)
 [microsoft/SymCrypt-OpenSSL: OpenSSL engine for use with SymCrypt cryptographic library](https://github.com/microsoft/SymCrypt-OpenSSL)
 [Microsoft's quantum-resistant cryptography is here | Microsoft Community Hub](https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsofts-quantum-resistant-cryptography-is-here/4238780)
 
 [PQClean/PQClean: Clean, portable, tested implementations of post-quantum cryptography](https://github.com/PQClean/PQClean) impose requirements on C implementations
+[backbone-hq/pqcrypto: 👻 Post-quantum cryptography for Python.](https://github.com/backbone-hq/pqcrypto) Python binding for PQClean
 
 [lean cryptography in every aspect](https://leancrypto.org/index.html)
 [smuellerDD/leancrypto: Lean cryptographic library usable for bare-metal environments](https://github.com/smuellerDD/leancrypto)
@@ -217,7 +234,6 @@ Modern browsers support ML-KEM in TLS
 [mupq/mupq: Provides common files for instances of mupq, e.g., for pqm4 and pqriscv](https://github.com/mupq/mupq)
 [mupq/pqm4: Post-quantum crypto library for the ARM Cortex-M4](https://github.com/mupq/pqm4)
 [mupq/pqriscv](https://github.com/mupq/pqriscv)
-
 Supports Open Quantum Safe and `liboqs`, `pqm4`
 
 [colinxu2020/slhdsa: The pure python implement of the slh-dsa algorithm.](https://github.com/colinxu2020/slhdsa)

@@ -2,7 +2,7 @@
 title: Decision Making
 description: ""
 created: 2015-10-14
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - economics
   - philosophy
@@ -23,7 +23,7 @@ People think expensive wine taste better because they know they are more expensi
 
 ## Trolley Problem (and variants)
 
-[Trolley problem - Wikiwand](http://www.wikiwand.com/en/Trolley_problem)
+[Trolley problem - Wikiwand](https://www.wikiwand.com/en/Trolley_problem)
 [How the Trolley Problem Works - HowStuffWorks](http://people.howstuffworks.com/trolley-problem.htm)
 [How Trolley Problems Work | Stuff You Should Know: The Podcast](http://www.stuffyoushouldknow.com/podcasts/how-trolley-problems-work/)
 [Iyad Rahwan: What moral decisions should driverless cars make? | TED Talk](https://www.ted.com/talks/iyad_rahwan_what_moral_decisions_should_driverless_cars_make/transcript?language=en)

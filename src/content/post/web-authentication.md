@@ -2,7 +2,7 @@
 title: Web Authentication
 description: ""
 created: 2016-01-21
-updated: 2025-05-09
+updated: 2025-10-09
 tags:
   - authentication
   - security
@@ -41,9 +41,9 @@ tags:
 
 ## Authentication Protocols
 
-[Basic access authentication - Wikiwand](http://www.wikiwand.com/en/Basic_access_authentication)
-[Digest access authentication - Wikiwand](http://www.wikiwand.com/en/Digest_access_authentication)
-[Secure Remote Password protocol - Wikiwand](http://www.wikiwand.com/en/Secure_Remote_Password_protocol)
+[Basic access authentication - Wikiwand](https://www.wikiwand.com/en/Basic_access_authentication)
+[Digest access authentication - Wikiwand](https://www.wikiwand.com/en/Digest_access_authentication)
+[Secure Remote Password protocol - Wikiwand](https://www.wikiwand.com/en/Secure_Remote_Password_protocol)
 
 does not to mandate SSL/TLS
 
@@ -595,6 +595,7 @@ JWT = `{header}.{claim}.{signature}`
 [JWT, JWS and JWE for Not So Dummies!](https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3#.egmi2svdf)
 [dwyl/learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens)
 [DjangoCon 2014- JSON Web Tokens - YouTube](https://www.youtube.com/watch?v=825hodQ61bg)
+[99% of Developers Don't Get JSON Web Tokens - YouTube](https://www.youtube.com/watch?v=fCP2FttGkt8)
 [JWT - JSON Web Token Crash Course (NodeJS & Postgres) - YouTube](https://www.youtube.com/watch?v=T0k-3Ze4NLo)
 [JWT attacks | Web Security Academy](https://portswigger.net/web-security/jwt)
 [Auth0 | JWT Handbook](https://auth0.com/resources/ebooks/jwt-handbook/)

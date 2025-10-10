@@ -2,7 +2,7 @@
 title: Reactive programming
 description: ""
 created: 2016-03-13
-updated: 2025-04-09
+updated: 2025-07-07
 tags:
   - javascript
   - mobx
@@ -150,7 +150,7 @@ Service = interpret(Machine)
 
 ### Tutorial
 
-[The React Podcast #5: Finite State Machines with David Khourshid | News and podcasts for developers | Changelog](https://changelog.com/reactpodcast/5)
+[Finite State Machines with David Khourshid with David Khourshid (The React Podcast #5)](https://changelog.com/reactpodcast/5)
 [Modeling UI States in A React Form Component Using A Finite State Machine](https://tech.okcupid.com/modeling-ui-states-in-react-form-component-using-finite-state-machine/)
 [Implementing a simple state machine library in JavaScript](https://kentcdodds.com/blog/implementing-a-simple-state-machine-library-in-javascript)
 [Finite State Machines with React | CSS-Tricks](https://css-tricks.com/finite-state-machines-with-react/)
@@ -226,7 +226,7 @@ Service = interpret(Machine)
 [Learn RxJS in 60 Minutes for Beginners - Free Crash Course - YouTube](https://www.youtube.com/watch?v=PhggNGsSQyg)
 
 [MVC to FRP by Gleb Bahmutov - Cycle Conf. Copenhagen 2016 - YouTube](https://www.youtube.com/watch?v=-PCq4pXaDZw)
-[slide](http://slides.com/bahmutov/mvc-frp/) [notes](https://glebbahmutov.com/blog/cycle-conf/)
+[slide](https://slides.com/bahmutov/mvc-frp/) [notes](https://glebbahmutov.com/blog/cycle-conf/)
 [Building realtime applications with CycleJS and RxJS - Pusher Blog](https://blog.pusher.com/building-realtime-applications-with-cyclejs-and-rxjs/)
 
 ## Pubsub

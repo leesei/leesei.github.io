@@ -2,7 +2,7 @@
 title: Batteries
 description: ""
 created: 2016-07-31
-updated: 2025-03-28
+updated: 2025-10-10
 tags:
   - trivia
 ---
@@ -64,6 +64,8 @@ GaN charger allows chargers to be miniaturized once more
 [Choices of Primary Batteries - Battery University](http://batteryuniversity.com/learn/article/choices_of_primary_batteries)
 [Disposable Batteries compared -- Alkaline, Lithium, Carbon Zinc, Oxyride](http://michaelbluejay.com/batteries/disposable.html)
 Alkalines leak more frequently.
+
+[The Hidden History of Battery Letters - YouTube](https://www.youtube.com/watch?v=IdFXoqHf1ho)
 
 [5 秒判断电池电量的极简技巧，你再也不用找遥控器来试了 - 知乎](https://zhuanlan.zhihu.com/p/51452847) 谁弹得高，谁的电量就少
 [alkaline_appman.pdf](http://data.energizer.com/pdfs/alkaline_appman.pdf)
@@ -176,6 +178,15 @@ But it create more dendrites, which can cause short circuit.
 [大厂纷纷放「狠话」：2027年量产装车？全固态电池怎么突然就行了？ - YouTube](https://www.youtube.com/watch?v=6GL5z1WLRoI)
 
 [大众投资了12年的固态电池终于量产了！全球首款无负极设计？ - YouTube](https://www.youtube.com/watch?v=PW1l6pYXlhQ) anode-less, using lithium deposit during charging as anode
+
+[“固态电池”量产，真的要来了？谈谈台湾辉能全球首座固态电池厂前景，核心技术全解密！ - YouTube](https://www.youtube.com/watch?v=NpdZkHxR2JM)
+
+- polymer solid-state
+- oxide solid-state
+- sulfide solid-state
+- semi solid-state
+
+[“固态电池”要量产了！？是锂电革命，还是一场大骗局？真相到底是什么？深度解读背后的技术细节 - YouTube](https://www.youtube.com/watch?v=HuQukyaymdE) mode "solid-state" on market in 2025 is semi solid-state
 
 [Why This Ultra Cheap Battery Breakthrough Matters - YouTube](https://www.youtube.com/watch?v=qZ8z5tFzuIw)
 
@@ -316,7 +327,7 @@ USB PD compatible device has a maximum charging power of 100W (20V, 5A).
 [How to Put USB-C Power on ANYTHING (almost) - YouTube](https://www.youtube.com/watch?v=kZOe7aaiqqE) charge all things with USB-PD
 [An Ultimate PD3.1 Product Buying Guide: Chargers, Cables, Chips, and More - Chargerlab](https://www.chargerlab.com/everything-you-need-to-know-about-pd3-1-chargers-cables-chips-and-more/)
 
-[USB-C Just got Even Better! (PPS) - YouTube](https://www.youtube.com/watch?v=kcmpGbR6xZc)
+[USB-C Just got Even Better! (PPS) - YouTube](https://www.youtube.com/watch?v=kcmpGbR6xZc) PPS allows sink to select variable voltages (in 20mV increments) and currents (in 50mA increments)
 
 [Ralim/usb-pd: USB-PD driver stack for the FUSB302](https://github.com/Ralim/usb-pd/)
 [PD Buddy Sink | Hackaday.io](https://hackaday.io/project/20424-pd-buddy-sink)
@@ -393,9 +404,9 @@ Apple devices supports PD via C-to-Lightening cable.
 [YZXSTUDIO ZY1271 飛龍 USB 電壓電流表簡介及測試 @ 港都狼窩 WolfLSI's Den :: 痞客邦 ::](http://wolflsi.pixnet.net/blog/post/64972513)
 
 [WEB-U3se USB 电压电流表容量-淘宝网](https://item.taobao.com/item.htm?id=577559244358)
-[維簡科技 WEB- U3SE USB 電壓電流表簡介及測試 @ 港都狼窩 WolfLSI's Den :: 痞客邦 ::](http://wolflsi.pixnet.net/blog/post/66254628?utm_source=PIXNET&utm_medium=Hashtag_article)
+[維簡科技 WEB- U3SE USB 電壓電流表簡介及測試 @ 港都狼窩 WolfLSI's Den :: 痞客邦 ::](http://wolflsi.pixnet.net/blog/post/66254628)
 
-[具備 PD 測試功能的 Kotomi Pro 雙 Type-C USB 電壓電流表 @ PIXview3C 　 3C 就看痞客 :: 痞客邦 ::](http://view3c.pixnet.net/blog/post/341223195?utm_source=PIXNET&utm_medium=Hashtag_article)
+[具備 PD 測試功能的 Kotomi Pro 雙 Type-C USB 電壓電流表 @ PIXview3C 　 3C 就看痞客 :: 痞客邦 ::](http://view3c.pixnet.net/blog/post/341223195)
 
 ## Charger
 

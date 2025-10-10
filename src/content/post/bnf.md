@@ -2,7 +2,7 @@
 title: Backus–Naur Form (BNF)
 description: ""
 created: 2015-04-13
-updated: 2025-02-16
+updated: 2025-07-07
 tags:
   - bnf
   - comp/lang
@@ -11,9 +11,9 @@ tags:
 
 > see [[formal-language]] for parsers
 
-[Backus–Naur Form (BNF)](http://www.wikiwand.com/en/Backus–Naur_Form) is a notation that [formally](http://www.wikiwand.com/en/Formal_language) defines a [context free grammar](http://www.wikiwand.com/en/Context-free_grammar).
+[Backus–Naur Form (BNF)](https://www.wikiwand.com/en/Backus–Naur_Form) is a notation that [formally](https://www.wikiwand.com/en/Formal_language) defines a [context free grammar](https://www.wikiwand.com/en/Context-free_grammar).
 
-[Extended Backus–Naur Form (EBNF)](http://www.wikiwand.com/en/Extended_Backus%E2%80%93Naur_Form) was adopted as [ISO 14977](http://www.cl.cam.ac.uk/~mgk25/iso-14977.pdf).
+[Extended Backus–Naur Form (EBNF)](https://www.wikiwand.com/en/Extended_Backus%E2%80%93Naur_Form) was adopted as [ISO 14977](http://www.cl.cam.ac.uk/~mgk25/iso-14977.pdf).
 
 [1. Introduction — Python documentation](https://docs.python.org/3/reference/introduction.html#notation)
 

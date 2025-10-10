@@ -2,7 +2,7 @@
 title: Arch Post Install
 description: ""
 created: 2021-01-08
-updated: 2025-06-27
+updated: 2025-07-10
 tags:
   - arch-linux
   - desktop
@@ -85,6 +85,7 @@ openconnect networkmanager-openconnect networkmanager-pptp tailscale
 
 # server tools
 # electron30 is very large, use electron30-bin
+# use `yay -Rss -dd electron30` to remove existing one
 electron30-bin dbgate-bin #studio-3t sqlitestudio
 ```
 

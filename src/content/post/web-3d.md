@@ -2,7 +2,7 @@
 title: 3D Drawing on the Web
 description: ""
 created: 2016-04-08
-updated: 2025-01-09
+updated: 2025-09-23
 tags:
   - web
   - web-gl
@@ -39,8 +39,6 @@ OpenGL 2 allows programmer to use shaders (GLSL) to control the pipeline. WebGL 
 
 [WebGL Insights](http://webglinsights.com/) book
 
-[[NodeUp] 72 - A WebGL Show.](http://nodeup.com/seventytwo)
-
 [TojiCode: What's coming in WebGL 2.0](http://blog.tojicode.com/2013/09/whats-coming-in-webgl-20.html)
 [TojiCode: Using WebGL on Chrome (AKA: "Why don't I have the WebGLs?!?")](http://blog.tojicode.com/2013/11/the-state-of-webgl-on-chrome-aka-why.html)
 [TojiCode: Holistic WebGL](http://blog.tojicode.com/2013/08/holistic-webgl.html)
@@ -58,6 +56,7 @@ Replacement of WebGL and Three.js
 [Introducing WebGPU: Unlocking modern GPU access for JavaScript - YouTube](https://www.youtube.com/watch?v=m6T-Mq1BPXg)
 [WebGPU: Unlocking modern GPU access in the browser - Chrome Developers](https://developer.chrome.com/blog/webgpu-io2023/)
 [Chrome ships WebGPU - Chrome Developers](https://developer.chrome.com/blog/webgpu-release/)
+[From WebGL to WebGPU  |  Blog  |  Chrome for Developers](https://developer.chrome.com/blog/from-webgl-to-webgpu/)
 
 Visionary 3D
 [WebGPU :: Rendering the future in Real-Time - YouTube](https://www.youtube.com/watch?v=YinfynTz77s)

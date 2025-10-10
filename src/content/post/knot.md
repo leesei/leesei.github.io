@@ -2,14 +2,14 @@
 title: Knot
 description: ""
 created: 2018-07-12
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - knot
   - trivia
 ---
 
 [Knot - Wikiwand](https://www.wikiwand.com/en/Knot)
-[List of knot terminology - Wikiwand](http://www.wikiwand.com/en/List_of_knot_terminology)
+[List of knot terminology - Wikiwand](https://www.wikiwand.com/en/List_of_knot_terminology)
 [Bight (knot) - Wikiwand](<https://www.wikiwand.com/en/Bight_(knot)>) a curved section of rope, for slipped knot
 
 [How strong is your knot? | MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2020/model-how-strong-knot-0102)

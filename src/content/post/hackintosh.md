@@ -2,7 +2,7 @@
 title: Hackintosh
 description: ""
 created: 2015-01-23
-updated: 2025-06-27
+updated: 2025-07-07
 tags:
   - desktop
   - linux

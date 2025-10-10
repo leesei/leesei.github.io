@@ -2,7 +2,7 @@
 title: Unicode
 description: ""
 created: 2015-06-05
-updated: 2025-02-16
+updated: 2025-07-07
 tags:
   - comp/lang
   - emoji
@@ -10,11 +10,10 @@ tags:
 ---
 
 [Unicode - Wikiwand](https://www.wikiwand.com/en/Unicode)
-[Universal Character Set characters - Wikiwand](http://www.wikiwand.com/en/Universal_Character_Set_characters)
-[Code point - Wikiwand](http://www.wikiwand.com/en/Code_point)
-[BMP](<http://www.wikiwand.com/en/Plane_(Unicode)#/Basic_Multilingual_Plane>)
-[SMP](<http://www.wikiwand.com/en/Plane_(Unicode)#/Supplementary_Multilingual_Plane>)
-[Astral Planes](http://www.opoudjis.net/unicode/unicode_astral.html)
+[Universal Character Set characters - Wikiwand](https://www.wikiwand.com/en/Universal_Character_Set_characters)
+[Code point - Wikiwand](https://www.wikiwand.com/en/Code_point)
+[BMP](<https://www.wikiwand.com/en/Plane_(Unicode)#/Basic_Multilingual_Plane>)
+[SMP](<https://www.wikiwand.com/en/Plane_(Unicode)#/Supplementary_Multilingual_Plane>)
 
 [𝚚𝚠𝚎𝚛𝚝𝚢.𝚍𝚎𝚟](https://qwerty.dev/)
 
@@ -32,12 +31,10 @@ In ASCII days, code pages define what the top half of ASCII represents. It is so
 
 <kbd>Alt</kbd> + `Code point` to input unicode character
 
-[Special Characters Ø, ©, ±, °… [PC] | Tim Bird](https://timbobtastic.com/hints-and-tips/special-characters-o-%C2%B1-pc/)
-
-[Programming with Unicode — Programming with Unicode](http://unicodebook.readthedocs.io/index.html)
+[Programming with Unicode — Programming with Unicode](https://unicodebook.readthedocs.io/index.html) ❗!important
 [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!) – Joel on Software](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) !important
 [What every JavaScript developer should know about Unicode](https://dmitripavlutin.com/what-every-javascript-developer-should-know-about-unicode/)
-[Legacy Character Models and an Introduction to Unicode - Slide list](http://www.cip.ifi.lmu.de/~bolzer/unicode_intro/slides/Overview-5.html)
+[Legacy Character Models and an Introduction to Unicode - Slide list](https://www.cip.ifi.lmu.de/~bolzer/unicode_intro/slides/Overview-5.html)
 
 From Python PEP-261:
 
@@ -67,18 +64,15 @@ Two physical characters that represent a single logical character. Part of a con
 A Python type representing a sequence of code points with "string semantics" (e.g. case conversions, regular expression compatibility, etc.) Constructed with the unicode() function.
 ```
 
-[&what: Discover Unicode & HTML Character Entities](http://www.amp-what.com/)
-[Math Unicode Entities](http://symbolcodes.tlt.psu.edu/bylanguage/mathchart.html)
-
-[Unify – Unicode support on browsers and devices](http://unicode.johnholtripley.co.uk/)
+[Discover Unicode Character Entities & Symbols | AmpWhat](https://www.amp-what.com/)
 
 [表意文字小組 - Wikiwand](https://www.wikiwand.com/zh/%E8%A1%A8%E6%84%8F%E6%96%87%E5%AD%97%E5%B0%8F%E7%B5%84)
 [中日韓統一表意文字 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%AD%E6%97%A5%E9%9F%93%E7%B5%B1%E4%B8%80%E8%A1%A8%E6%84%8F%E6%96%87%E5%AD%97)
-[UAX #38: Unicode Han Database (Unihan)](http://www.unicode.org/reports/tr38/)
+[UAX #38: Unicode Han Database (Unihan)](https://www.unicode.org/reports/tr38/)
 
 ## Tools
 
-[Unicode Search 🔎](http://xahlee.info/comp/unicode_index.html?q=)
+[Unicode Search 🔎](https://xahlee.info/comp/unicode_index.html?q=)
 [c2nes/unichoose: Search Unicode characters using Rofi and fzf](https://github.com/c2nes/unichoose)
 
 ## Combining Marks/Normalization
@@ -86,11 +80,11 @@ A Python type representing a sequence of code points with "string semantics" (e.
 [Combining character - Wikiwand](https://www.wikiwand.com/en/Combining_character)
 [Zalgo Text Generator ― LingoJam](https://lingojam.com/ZalgoText) 😄funny
 
-[FAQ - Normalization](http://www.unicode.org/faq/normalization.html)
+[FAQ - Normalization](https://www.unicode.org/faq/normalization.html)
 [Unicode equivalence - Wikiwand](https://www.wikiwand.com/en/Unicode_equivalence)
 [String.prototype.normalize() - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/normalize)
 
-[UAX #15: Unicode Normalization Forms](http://unicode.org/reports/tr15/)
+[UAX #15: Unicode Normalization Forms](https://unicode.org/reports/tr15/)
 
 Normal Form Decomposed (NFD): `é` (U+00E9) = `e` + ` ́` (U+0065 U+0301).
 
@@ -111,14 +105,14 @@ Allows multiple glyphs for one code point
 
 ## Encoding
 
-[UTF-8 - Wikiwand](http://www.wikiwand.com/en/UTF-8)
-[UTF-16 - Wikiwand](http://www.wikiwand.com/en/UTF-16)
-[Surrogates](http://www.wikiwand.com/en/Universal_Character_Set_characters#/Surrogates)
+[UTF-8 - Wikiwand](https://www.wikiwand.com/en/UTF-8)
+[UTF-16 - Wikiwand](https://www.wikiwand.com/en/UTF-16)
+[Surrogates](https://www.wikiwand.com/en/Universal_Character_Set_characters#/Surrogates)
 
 [RFC 3629 - UTF-8, a transformation format of ISO 10646](https://datatracker.ietf.org/doc/html/rfc3629)
 
 [Byte order mark - Wikiwand](https://www.wikiwand.com/en/Byte_order_mark)
-[FAQ - UTF-8, UTF-16, UTF-32 & BOM](http://www.unicode.org/faq/utf_bom.html#BOM)
+[FAQ - UTF-8, UTF-16, UTF-32 & BOM](https://www.unicode.org/faq/utf_bom.html#BOM)
 [UTR#17: Unicode Character Encoding Model](https://www.unicode.org/reports/tr17/)
 
 [research!rsc: UTF-8: Bits, Bytes, and Benefits](https://research.swtch.com/utf8)
@@ -139,8 +133,8 @@ Allows multiple glyphs for one code point
 ## Emoji
 
 [Emoji - Wikiwand](https://www.wikiwand.com/en/Emoji)
-[How emoji conquered the world | The Verge](http://www.theverge.com/2013/3/4/3966140/how-emoji-conquered-the-world)
-[The Oral History Of The Poop Emoji (Or, How Google Brought Poop To America) | Fast Company | Business + Innovation](http://www.fastcompany.com/3037803/the-oral-history-of-the-poop-emoji-or-how-google-brought-poop-to-america)
+[How emoji conquered the world | The Verge](https://www.theverge.com/2013/3/4/3966140/how-emoji-conquered-the-world)
+[The Oral History Of The Poop Emoji (Or, How Google Brought Poop To America) - Fast Company](https://www.fastcompany.com/3037803/the-oral-history-of-the-poop-emoji-or-how-google-brought-poop-to-america)
 [Emoji and the Levitating Businessman - Computerphile - YouTube](https://www.youtube.com/watch?v=tITwM5GDIAI)
 
 Black Woman Astronaut = Woman (U+1F469) + Dark Skin Tone (U+1F3FF) + Zero Width Joiner (U+200D) + Rocket (U+1FD80D)
@@ -176,7 +170,7 @@ Black Woman Astronaut = Woman (U+1F469) + Dark Skin Tone (U+1F3FF) + Zero Width 
 [android - CSS reference to phone's Emoji font? - Stack Overflow](https://stackoverflow.com/questions/27688046/css-reference-to-phones-emoji-font)
 
 [jslegers/emoji-icon-font: An experimental icon font](https://github.com/jslegers/emoji-icon-font)
-[Twemoji Awesome | Like Font Awesome, but for Twitter Emoji.](http://ellekasai.github.io/twemoji-awesome/)
+[Twemoji Awesome | Like Font Awesome, but for Twitter Emoji.](https://ellekasai.github.io/twemoji-awesome/)
 [EmojiSymbols Font](https://emojisymbols.com/)
 [MorbZ/OpenSansEmoji: OpenSans based font which includes the full iOS Emoji set](https://github.com/MorbZ/OpenSansEmoji)
 [EmojiSymbols Font](https://emojisymbols.com/)
@@ -187,25 +181,20 @@ Black Woman Astronaut = Woman (U+1F469) + Dark Skin Tone (U+1F3FF) + Zero Width 
 
 ## Character Table
 
-[Unicode character table](http://unicode-table.com/en/)
+[SYMBL (◕‿◕) Symbols, Emojis, Characters, Scripts, Alphabets, Hieroglyphs and the entire Unicode](https://symbl.cc/)
 [Unicode/UTF-8-character table](https://www.utf8-chartable.de/)
-[Unicodinator](http://unicodinator.com/)
 [Find all Unicode characters from Hieroglyphs to Dingbats – Codepoints](https://codepoints.net/)
-[Unicode codepoint lookup/search tool](http://unicode.scarfboy.com/)
-[&what: Discover Unicode & HTML Character Entities](http://www.amp-what.com/)
-[Unicode Characters ☯ ⚡ ∑ ♥ 😄](http://xahlee.info/comp/unicode_index.html)
-[&what: Discover Unicode & HTML Character Entities](http://www.amp-what.com/)
-[Graphemica - For people who ♥ letters, numbers, punctuation, &c](http://graphemica.com/)
-[Code Charts](http://www.unicode.org/charts/) (Unicode official one, PDFs)
+[Unicode codepoint lookup/search tool](https://unicode.scarfboy.com/)
+[Discover Unicode Character Entities & Symbols | AmpWhat](https://www.amp-what.com/)
+[Graphemica - For people who ♥ letters, numbers, punctuation, &c](https://graphemica.com/)
+[Code Charts](https://www.unicode.org/charts/) (Unicode official one, PDFs)
 [List of Unicode characters - Wikiwand](https://www.wikiwand.com/en/List_of_Unicode_characters)
-[Unicode Table](http://www.tamasoft.co.jp/en/general-info/unicode.html)
-[Unicode/UTF-8-character table](http://www.utf8-chartable.de/unicode-utf8-table.pl?number=1024&unicodeinhtml=hex)
+[Unicode Table](https://www.tamasoft.co.jp/en/general-info/unicode.html)
 
-[Typography Cheatsheet → A Comprehensive Guide to Smart Quotes, Dashes & Other Typographic Characters → Typewolf](http://www.typewolf.com/cheatsheet)
-[Keycodes - Javascript Keyboard Codes, Character Codes, Unicode, HTML Entities](http://keycodes.atjayjo.com/)
+[Typography Cheatsheet → A Comprehensive Guide to Smart Quotes, Dashes & Other Typographic Characters → Typewolf](https://www.typewolf.com/cheatsheet)
 [HTML Symbols – HTML Icon and Entity Code List](https://www.freecodecamp.org/news/html-symbols-html-icon-and-entity-code-list/)
 
-[Shapecatcher: Draw the Unicode character you want!](http://shapecatcher.com/)
+[Shapecatcher: Draw the Unicode character you want!](https://shapecatcher.com/)
 
 ### Guobiao
 
@@ -216,7 +205,7 @@ Black Woman Astronaut = Woman (U+1F469) + Dark Skin Tone (U+1F3FF) + Zero Width 
 
 ## Sorting
 
-[UTS #10: Unicode Collation Algorithm](http://www.unicode.org/reports/tr10/) sorting
+[UTS #10: Unicode Collation Algorithm](https://www.unicode.org/reports/tr10/) sorting
 
 [为什么汉字的“一二三四五六七八九十”的字典顺序和数字顺序不一致，而是“一七三九二五八六十四”？ - 知乎](https://www.zhihu.com/question/533802849/answer/2669904119)
 

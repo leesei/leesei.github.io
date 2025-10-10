@@ -2,7 +2,7 @@
 title: Displays
 description: ""
 created: 2015-04-02
-updated: 2025-07-05
+updated: 2025-09-23
 tags:
   - comp/hardware
   - lcd
@@ -235,12 +235,14 @@ Halo effect for small object since blocks of mini LED are turned on together
 
 ### MicroLED
 
+> Mass Transfer (巨量转移) is the bottleneck for MicroLED
+
 [MicroLEDs: Lighting The Way To A Solid OLED Competitor | Hackaday](https://hackaday.com/2021/04/12/microleds-lighting-the-way-to-a-solid-oled-competitor/)
 [揭開「新視界」序幕：Micro LED 廠商如何跨越成本、良率瓶頸？ | TechNews 科技新報](https://technews.tw/2022/08/17/what-is-micro-led/)
 [顯示技術的終極戰場，Micro LED 全領域展開 | TechNews 科技新報](https://technews.tw/2022/08/17/micro-led-applications-emerge/)
 
 [When Can I BUY a MicroLED TV? - YouTube](https://www.youtube.com/watch?v=ZvO0BotGcqE)
-[王思聪的新电视 110 寸 110 万 详解 MicroLED 技术 买电视我就送特斯拉 Model 3 - YouTube](https://www.youtube.com/watch?v=wfipflFJR-4)
+[王思聪的新电视 110 寸 110 万 详解 MicroLED 技术 买电视我就送特斯拉 Model 3 - YouTube](https://www.youtube.com/watch?v=wfipflFJR-4) Mass Transfer
 Mini LED in principal is LCD with thousands of regions (~3000 in 2021)
 Mini LED have worse viewing angle
 [Micro OLED「先天硬傷」難贏 Micro LED？AR 顯示技術優劣一次看 | TechNews 科技新報](https://technews.tw/2023/08/14/apple-vision-pro-micro-led-micro-oled-lcos-lbs/)
@@ -250,7 +252,7 @@ Both Mini LED and OLED are transitional technologies
 There is limits on how small a MicroLED could be made (in 2022), so MicroLED is only seen on huge screens
 
 [led为什么会发光？Micro-LED还有未来吗？为什么我们需要RGB-LED三色显示技术？ - YouTube](https://www.youtube.com/watch?v=Te8pljjpWFU)
-[MicroLED为什么遥遥无期？“巨量转移”技术为何难量产？一条视频给你详细讲清楚 - YouTube](https://www.youtube.com/watch?v=1_jDwReh2TM) Mass Transfer is the bottleneck for MicroLED
+[MicroLED为什么遥遥无期？“巨量转移”技术为何难量产？一条视频给你详细讲清楚 - YouTube](https://www.youtube.com/watch?v=1_jDwReh2TM)
 
 ## Laser Projector
 
@@ -308,7 +310,7 @@ Latency and Display Analysis Tool (LDAT)
 
 [Home |inputlag.science](https://inputlag.science/)
 
-[OSRTT User Guide & Explainer – Open Source Response Time Tool | TechteamGB](https://techteamgb.co.uk/2022/01/14/osrtt-user-guide-explainer-open-source-response-time-tool/?utm_source=rss&utm_medium=rss&utm_campaign=osrtt-user-guide-explainer-open-source-response-time-tool)
+[OSRTT User Guide & Explainer – Open Source Response Time Tool | TechteamGB](https://techteamgb.co.uk/2022/01/14/osrtt-user-guide-explainer-open-source-response-time-tool/)
 [OSRTT User Guide & Explainer - Open Source Response Time Tool - YouTube](https://www.youtube.com/watch?v=pZjya0h7pgQ)
 
 ## 4K
@@ -349,7 +351,7 @@ LTPO: oxide layer on LTPS (backplane for circuitry), reduce refresh frequency to
 
 ## E Ink
 
-[E Ink - Wikiwand](http://www.wikiwand.com/en/E_Ink)
+[E Ink - Wikiwand](https://www.wikiwand.com/en/E_Ink)
 
 [Display Week 2018: A look at the future of E Ink displays - Android Authority](https://www.androidauthority.com/e-ink-display-future-display-week-2018-868794/)
 [E Ink breakthrough brings full color displays that can stay on indefinitely - Android Authority](https://www.androidauthority.com/e-ink-breakthrough-brings-full-color-displays-can-stay-indefinitely-694969/)

@@ -2,7 +2,7 @@
 title: Debian/Ubuntu notes
 description: ""
 created: 2014-12-08
-updated: 2025-01-09
+updated: 2025-07-30
 tags:
   - debian
   - desktop
@@ -151,6 +151,16 @@ dpkg --contents vim_7.3.547-6ubuntu5_amd64.deb
 
 ### list dependent package
 
+```sh
+apt depends <package_name>
+
+# list package info
+apt show <package_name>
+
+# list package info, also *reverse* dependency (packages that depend on it)
+apt-cache showpkg <package_name>
+```
+
 ### offline install
 
 `sudo dpkg -i *.deb`
@@ -188,7 +198,7 @@ sudo sed -i -e 's/archive.ubuntu.com\|security.ubuntu.com/old-releases.ubuntu.co
 
 [How to fix Ubuntu/Debian apt-get 404 Not Found Package Repository Errors (Saucy, Raring, Quantal, Oneiric, Natty…) | sMyl.es](https://smyl.es/how-to-fix-ubuntudebian-apt-get-404-not-found-package-repository-errors-saucy-raring-quantal-oneiric-natty/)
 
-### install old package
+### install old package/version pinning
 
 ```sh
 # list all versions
@@ -196,6 +206,7 @@ apt show -a libtiff5
 
 apt install -y --allow-downgrades libtiff5=4.0.6-1 libtiff5-dev=4.0.6-1 libtiffxx5=4.0.6-1
 
+# pin the version such that they won't be updated
 apt mark libtiff5=4.0.6-1 libtiff5-dev=4.0.6-1 libtiffxx5=4.0.6-1
 ```
 
@@ -216,24 +227,6 @@ apt mark libtiff5=4.0.6-1 libtiff5-dev=4.0.6-1 libtiffxx5=4.0.6-1
 [Things To Do After Installing Ubuntu 18.04 (Bionic Beaver)](https://www.fossmint.com/things-to-do-after-installing-ubuntu-18-04/)
 [12 Easy Steps to Speed Up Ubuntu Linux](https://www.fossmint.com/speed-up-ubuntu-linux/amp/)
 
-### Netbook
-
-eDongCity NB1000
-
-```sh
-sudo apt install xinput rfkill intel-microcode fonts-noto-cjk
-```
-
-```sh
-# https://www.ubuntuupdates.org/ppa/google_chrome
-wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
-sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
-sudo apt update
-sudo apt install google-chrome-stable
-```
-
-> add [linux-installs.md](https://gist.github.com/leesei/65bf019431fc418f8ce3) here
-
 ## Timezone
 
 ```sh
@@ -249,7 +242,7 @@ $ sudo dpkg-reconfigure tzdata
 
 ## Network
 
-[Netplan](https://netplan.io/) define network config with YAML
+[Netplan](https://netplan.io/) define network config with YAML and renders to NetworkManager/Systemd-networkd config
 
 #### Static IP
 

@@ -2,7 +2,7 @@
 title: 裝修
 description: ""
 created: 2020-03-07
-updated: 2025-02-07
+updated: 2025-08-10
 tags:
   - household
   - maker
@@ -160,6 +160,8 @@ However turpentine cannot wholly dilute lacquer as thinner is more potent
 
 ### 傢俬板材
 
+> [[wood-metal-work#Wood type]]
+
 [傢俬材料的基礎認識 - 萬樺貿易](http://www.mfcl.com.hk/info_01.php)
 [生態板和多層實木板有什麼區別 - 每日頭條](https://kknews.cc/zh-hk/home/j892lm6.html)
 細木工板芯
@@ -176,12 +178,13 @@ E0 級板材之所以甲醛含量低，因其本身不含粘合劑和防潮劑�
 
 [顆粒板刨花板傻傻分不清，這本板材指南請收好 - 每日頭條](https://kknews.cc/home/gzenpp8.html)
 [定製家居選材丨實木顆粒板 PK 實木多層板 - 每日頭條](https://kknews.cc/home/nxvblg2.html)
+[德屋裝潢材料小學堂｜木芯板介紹｜關於木芯板結構、材質、硬度差異大解析 - YouTube](https://www.youtube.com/watch?v=-NACraxauOE)
 
 比較
 刨花板/顆粒板/碎料板=木質邊料打成碎料加熱壓成
 木塑板=植物纖維廢料與塑料加工混合，加熱壓成
 纖維板/密度板=威化餅(由 2, 3 塊木片粘貼, 中間木碎渣, 有低中高密度, 低密度=庶渣板)
-夾板=細木工/多層板芯材的免漆板, 麥芽餅 (由幾塊木片粘貼, 中間木板, 但未必同最外邊木材)
+夾板=細芯板/多層板芯材的免漆板, 麥芽餅/大芯板 (由幾塊木片粘貼, 中間木板, 但未必同最外邊木材)
 實木=原木造(堅固程度松木<橡木<紅木，高級的紫檀、黃花梨、酸枝；中級的樟木、榆木、花梨；次等的松木、雜木)
 松木較適合香港潮濕天氣
 

@@ -2,7 +2,7 @@
 title: Kernel
 description: ""
 created: 2016-03-27
-updated: 2025-03-09
+updated: 2025-09-23
 tags:
   - comp
   - linux
@@ -35,7 +35,7 @@ tags:
 [The Linux Programmer's Guide](http://www.tldp.org/LDP/lpg/)
 [Anatomy of the Linux kernel](https://www.ibm.com/developerworks/library/l-linux-kernel/)
 [25 Years Later: Interview with Linus Torvalds | Linux Journal](https://www.linuxjournal.com/content/25-years-later-interview-linus-torvalds)
-[10 moments that shaped Linux history | Opensource.com](https://opensource.com/article/19/4/top-moments-linux-history?utm_campaign=intrel)
+[10 moments that shaped Linux history | Opensource.com](https://opensource.com/article/19/4/top-moments-linux-history)
 [FOSDEM 2019 - 2019 - Fifty years of Unix and Linux advances](https://fosdem.org/2019/schedule/event/keynote_fifty_years_unix/)
 
 [Linux_Kernel_Newbies - Linux Kernel Newbies](https://kernelnewbies.org/)
@@ -77,6 +77,7 @@ tags:
 [But, what is Virtual Memory? - YouTube](https://www.youtube.com/watch?v=A9WLYbE0p-I)
 [What's Virtual Memory? - Computerphile - YouTube](https://www.youtube.com/watch?v=5lFnKYCZT5o) swapping
 [_(char_)0 = 0; - What Does the C++ Programmer Intend With This Code? - JF Bastien - C++ on Sea 2023 - YouTube](https://www.youtube.com/watch?v=dFIqNZ8VbRY) CPU's Translation Lookaside Buffer (TLB), virt2phys, page table
+[Linux Kernel Internals: Memory Management - YouTube](https://www.youtube.com/watch?v=Gpm2-ktMLWs) Virtual Memory Area for mmap and preallocated address space
 
 [How does KERNEL memory allocation work? //Source Dive// 004 - YouTube](https://www.youtube.com/watch?v=NC_qkXznvkg)
 [The mechanics of VIRTUAL MEMORY //Source Dive// 005 - YouTube](https://www.youtube.com/watch?v=iTic6EV4DP8)
@@ -209,7 +210,7 @@ We could also expose the GPIO via Sysfs interface (`pinctrl` driver) (`/sys/clas
 [关于 /sys/class/gpio 简介 - cjsycyl 的专栏 - CSDN 博客](https://blog.csdn.net/cjsycyl/article/details/46310939)
 [GPIO 接口解析-wangbaolin719-ChinaUnix 博客](http://blog.chinaunix.net/uid-27717694-id-3701921.html)
 [Controlling GPIO from Linux User Space](https://www.emcraft.com/stm32f429discovery/controlling-gpio-from-linux-user-space)
-[RK3399 用户空间 IO 控制 - zhuyong006 的博客 - CSDN 博客](https://blog.csdn.net/zhuyong006/article/details/80907718?utm_source=blogxgwz0)
+[RK3399 用户空间 IO 控制 - zhuyong006 的博客 - CSDN 博客](https://blog.csdn.net/zhuyong006/article/details/80907718)
 [New GPIO User Space Subsystem since kernel 4.8 – SZ Lin with Cybersecurity & Embedded Linux](https://szlin.me/2018/01/31/new-gpio-user-space-subsystem-since-kernel-4-8/)
 [GPIO Programming: Exploring the libgpiod Library | ICS](https://www.ics.com/blog/gpio-programming-exploring-libgpiod-library)
 
@@ -406,12 +407,12 @@ User space permissions and hooks
 
 [IncludeOS](http://www.includeos.org/)
 
-[Unikernels with Idit Levine | Software Engineering Daily](http://softwareengineeringdaily.com/2016/09/14/unikernels-with-idit-levine/) Mirage, Rump, UniK
+[Unikernels with Idit Levine | Software Engineering Daily](https://softwareengineeringdaily.com/2016/09/14/unikernels-with-idit-levine/) Mirage, Rump, UniK
 
 ### MirageOS
 
 [MirageOS](https://mirage.io/) build unikernel for network applications, deploy minimum app, written in OCaml
-[Episode 204: Anil Madhavapeddy on the Mirage Cloud Operating System and the OCaml Language : Software Engineering Radio](http://www.se-radio.net/2014/05/episode-204-anil-madhavapeddy-on-the-mirage-cloud-operating-system-and-the-ocaml-language/)
+[Episode 204: Anil Madhavapeddy on the Mirage Cloud Operating System and the OCaml Language : Software Engineering Radio](https://www.se-radio.net/2014/05/episode-204-anil-madhavapeddy-on-the-mirage-cloud-operating-system-and-the-ocaml-language/)
 [My Other Internet is a Mirage](https://www.infoq.com/presentations/mirage-os)
 
 Boots domain 0 OS
@@ -428,7 +429,7 @@ POSIX compatible unikernel
 
 ### UniK
 
-[unikernels and unik with Scott Weiss | Software Engineering Daily](http://softwareengineeringdaily.com/2016/08/11/unikernels-and-unik-with-scott-weiss/)
+[unikernels and unik with Scott Weiss | Software Engineering Daily](https://softwareengineeringdaily.com/2016/08/11/unikernels-and-unik-with-scott-weiss/)
 
 [emc-advanced-dev/unik: The Unikernel Compilation and Deployment Platform](https://github.com/emc-advanced-dev/unik) Kubernetes for unikernel, supports different providers
 

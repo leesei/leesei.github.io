@@ -2,7 +2,7 @@
 title: Learning
 description: ""
 created: 2018-07-10
-updated: 2025-04-14
+updated: 2025-08-23
 tags:
   - learning
 featured: true
@@ -269,15 +269,16 @@ For video contents use [Video Speed Controller](https://chromewebstore.google.co
 
 ### Tools
 
-[Spritz](http://spritzinc.com/) [Spritzlet: Spritz Bookmarklet](http://www.spritzlet.com/)
-[GET SPRITZ](http://spritzinc.com/get-spritz)
-
 [Squirt](http://www.squirt.io/)
+[cameron/squirt: Speed read the web.](https://github.com/cameron/squirt)
 
+[ds300/jetzt: Speed reader extension for chrome](https://github.com/ds300/jetzt)
 [olegcherr/Reedy-for-Chrome: Read all you want faster with Reedy for Google Chrome!](https://github.com/olegcherr/Reedy-for-Chrome) not associated with the Chrome extension anymore
+[Miserlou/Glance: Good reads, extremely fucking fast.](https://github.com/Miserlou/Glance)
 
-[Miserlou/Glance: Good reads, extremely fucking fast.](https://github.com/Miserlou/Glance) [Android](https://play.google.com/store/apps/details?id=pro.dbro.glance) OSS Sprintz
 [Spreeder | Free online speed reading software](http://www.spreeder.com/) primitive
+
+[Spritz](http://spritzinc.com/) the first into the game, but no longer works
 
 ## Fake News
 

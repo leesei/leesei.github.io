@@ -2,7 +2,7 @@
 title: Node.js
 description: ""
 created: 2014-12-11
-updated: 2025-06-27
+updated: 2025-07-07
 tags:
   - comp/lang
   - javascript/runtime
@@ -199,7 +199,7 @@ See [leesei/openslide-prop2json](https://github.com/leesei/openslide-prop2json).
 [Stream | Node.js Documentation](https://nodejs.org/api/stream.html)
 [Node.js Streams: Everything you need to know](https://www.freecodecamp.org/news/node-js-streams-everything-you-need-to-know-c9141306be93) 2017
 [Understanding Streams in Node.js - NodeSource](https://nodesource.com/blog/understanding-streams-in-nodejs/)
-[stream - What is Streams3 in Node.js and how does it differ from Streams2? - Stack Overflow](http://stackoverflow.com/a/21549237/665507)
+[stream - What is Streams3 in Node.js and how does it differ from Streams2? - Stack Overflow](https://stackoverflow.com/a/21549237/665507)
 
 [Strongly Typed Event Emitters with Conditional Types | by Brian Terlson | Medium](https://medium.com/@bterlson/strongly-typed-event-emitters-2c2345801de8)
 [bterlson/strict-event-emitter-types: A type-only library for strongly typing any event emitter](https://github.com/bterlson/strict-event-emitter-types)
@@ -256,7 +256,7 @@ Streams3 (combined streams) was added to iojs and Node v0.11+.
 
 ### Appending Buffers
 
-Combining stream to a single output [ref](http://stackoverflow.com/a/14269536/665507):
+Combining stream to a single output [ref](https://stackoverflow.com/a/14269536/665507):
 
 ```js
 var bufs = [];

@@ -2,7 +2,7 @@
 title: Anthropology
 description: The study of human history
 created: 2015-08-07
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - anthropology
 ---
@@ -41,7 +41,7 @@ Modern people improved on these categories:
 - taking the hypothetical seriously (so that we can discuss moral principals)
   Science education is to be credited for these.
 
-[peakthebook.com - Home](http://peakthebook.com/index.html)
-[How to Become Great at Just About Anything (Rebroadcast) - Freakonomics Freakonomics](http://freakonomics.com/podcast/peak-rebroadcast/)
+[Peak: Secrets from the New Science of Expertise: Ericsson, Anders, Pool, Robert: 9780544456235: Amazon.com: Books](https://www.amazon.com/Peak-Secrets-New-Science-Expertise/dp/0544456238)
+[How to Become Great at Just About Anything (Rebroadcast) - Freakonomics Freakonomics](https://freakonomics.com/podcast/peak-rebroadcast/)
 Human's standard of excellence have increased
 Deliberate practice >> experience

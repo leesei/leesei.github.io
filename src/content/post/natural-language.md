@@ -2,7 +2,7 @@
 title: Natural Language
 description: ""
 created: 2015-04-10
-updated: 2025-06-30
+updated: 2025-09-25
 tags:
   - chinese
   - korean
@@ -28,7 +28,7 @@ tags:
 
 [What makes a language... a language? - Martin Hilpert - YouTube](https://www.youtube.com/watch?v=_Z_FOtfKyfo)
 A language is a dialect with an army and a navy. - Max Weinreich
-[Dialect vs. Accent: What’s the difference?](https://blog.duolingo.com/dialect-vs-accent-definition/?utm_source=duonews&utm_medium=EN)
+[Dialect vs. Accent: What’s the difference?](https://blog.duolingo.com/dialect-vs-accent-definition/)
 [K Klein - YouTube](https://www.youtube.com/@kklein)
 
 [語之奧秘](http://languagemystery.blogspot.com/)
@@ -122,6 +122,7 @@ Wanda Skyes
 [#MM ｜後生仔就唔識打倉頡 要靠拼音輸入法？1978 年倉頡輸入法由台灣人設計誕生 加速中文電腦普及程度 曾協助倉頡研發者：最終大家會放棄鍵盤輸入，語音輸入才是主流｜#Weekly_pedia #4K - YouTube](https://www.youtube.com/watch?v=I2qRVZLl8EI)
 
 [Online Jyutping Input Method 網上粵拼輸入法](http://www.jyutping.com/)
+[[倉頡速成輸入法] ［倉頡速成輸入法］五色倉頡/速成字典 查字更快更方便](https://www.xn--0vqu8au0tro7d.com/)
 
 [倉頡輸入法 - Wikiwand](https://www.wikiwand.com/zh/%E5%80%89%E9%A0%A1%E8%BC%B8%E5%85%A5%E6%B3%95)
 [倉頡輸入法](https://www.fed.cuhk.edu.hk/readwrite/typing/)
@@ -158,7 +159,10 @@ Wanda Skyes
 [Chinese English Dictionary with Pinyin, Strokes, & Audio - Yabla Chinese](https://chinese.yabla.com/chinese-english-pinyin-dictionary.php) write in stroke
 [MDBG Chinese Dictionary](https://www.mdbg.net/chinese/dictionary) write in stroke
 
-[教育部《成語典》2020 [進階版]](https://dict.idioms.moe.edu.tw/search.jsp)
+[香港小學學習字詞表](https://www.edbchinese.hk/lexlist_ch/) ❗!important
+[基本檢索 - 教育部《重編國語辭典修訂本》2021](https://dict.revised.moe.edu.tw/search.jsp?md=1)
+[教育部《成語典》2020 [進階版]](https://dict.idioms.moe.edu.tw/search.jsp?webMd=2)
+[國家教育研究院 - 教育部國語小字典-首頁](https://dict.mini.moe.edu.tw/)
 [漢語多功能字庫 Multi-function Chinese Character Database](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
 
 [網上普通話字典 | 普通話網](https://www.putonghuaweb.com/dict)
@@ -240,9 +244,10 @@ Wanda Skyes
 
 [沪江韩语-沪江旗下韩语学习资讯网站*韩语入门*在线学韩语](http://kr.hujiang.com/)
 [네이버 중국어사전 (NAVER 韩中词典)](http://cndic.naver.com/)
-[訓民正音 - Wikiwand](http://www.wikiwand.com/zh/訓民正音)
+[訓民正音 - Wikiwand](https://www.wikiwand.com/zh/訓民正音)
 
 [Learn to Read Korean in 5 Minutes (seriously) - YouTube](https://www.youtube.com/watch?v=TE4eplsFSms)
+[[基本韓語] 韓文40音如何學 ? 韓文老師的學習秘訣大公開!! #韓文 #韓文發音 #韓語 #한국어 - YouTube](https://www.youtube.com/watch?v=OXirEE_cCxA)
 
 ## Sign language
 
@@ -275,8 +280,8 @@ Wanda Skyes
 
 ## Indo-European/Proto-Indo-European Language
 
-[Indo-European languages - Wikiwand](http://www.wikiwand.com/en/Indo-European_languages)
-[Proto-Indo-European language - Wikiwand](http://www.wikiwand.com/en/Proto-Indo-European_language)
+[Indo-European languages - Wikiwand](https://www.wikiwand.com/en/Indo-European_languages)
+[Proto-Indo-European language - Wikiwand](https://www.wikiwand.com/en/Proto-Indo-European_language)
 [Proto-Indo-European phonology - Wikiwand](https://www.wikiwand.com/en/Proto-Indo-European_phonology)
 
 [Tracing English as far back as possible - YouTube](https://www.youtube.com/watch?v=IeAx3QZ7eRs)

@@ -2,7 +2,7 @@
 title: Mobile Devices
 description: ""
 created: 2022-02-09
-updated: 2025-05-28
+updated: 2025-08-07
 tags:
   - comp/hardware
   - mobile
@@ -15,7 +15,7 @@ tags:
 ## PC Gaming on Android
 
 [Winlator - Android app](https://winlator.org/)
-[GitHub - brunodev85/winlator: Android application for running Windows applications with Wine and Box86/Box64](https://github.com/brunodev85/winlator)
+[brunodev85/winlator: Android application for running Windows applications with Wine and Box86/Box64](https://github.com/brunodev85/winlator)
 [olegos2/mobox](https://github.com/olegos2/mobox)
 
 [旧手机不要扔，还能做这些事…… - YouTube](https://www.youtube.com/watch?v=EROFDL9sKyo)

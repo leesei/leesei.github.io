@@ -2,7 +2,7 @@
 title: Container on ARM
 description: ""
 created: 2014-12-11
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - architecture/arm
   - container
@@ -20,7 +20,6 @@ tags:
 [How to use Docker Compose to run complex multi container apps on your Raspberry Pi · Docker Pirates ARMed with explosive stuff](http://blog.hypriot.com/post/docker-compose-nodejs-haproxy/)
 
 [alexellis/k8s-on-raspbian: Kubernetes on Raspbian (Raspberry Pi)](https://github.com/alexellis/k8s-on-raspbian)
-[ARMing Kubernetes with OpenEBS #1 | Containerized Me](http://containerized.me/arming-kubernetes-with-openebs-1/)
 
 ## Arm on Cloud
 

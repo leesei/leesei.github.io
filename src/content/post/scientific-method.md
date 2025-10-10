@@ -2,7 +2,7 @@
 title: Scientific Method
 description: ""
 created: 2015-12-11
-updated: 2025-04-25
+updated: 2025-07-07
 tags:
   - science
 ---
@@ -79,7 +79,7 @@ Western studies usually targets WEIRD (Western, educated, industrialized, rich a
 
 ## Graphene
 
-[Graphene - Wikiwand](http://www.wikiwand.com/en/Graphene)
+[Graphene - Wikiwand](https://www.wikiwand.com/en/Graphene)
 [Why graphene hasn’t taken over the world...yet - The Verge](https://www.theverge.com/2018/7/10/17548362/graphene-material-breakthrough-science-technology-hype)
 
 ## Experiments

@@ -2,7 +2,7 @@
 title: Fonts
 description: ""
 created: 2016-04-23
-updated: 2025-07-06
+updated: 2025-10-08
 tags:
   - comp
   - comp/lang
@@ -72,8 +72,8 @@ baseline, descenders (`j`, `p`), line height, kerning
 [justfont - YouTube](https://www.youtube.com/@justfonttaiwan)
 [字體相談室 - YouTube](https://www.youtube.com/playlist?list=PLu-dyDh514xwcM-NNTPqqfojbfuWFMwia) justfont
 
-[Wrangling Typefaces with Jason Santa Maria | The Web Ahead](http://thewebahead.net/83)
-[Delivering Typography with Jason Pamental | The Web Ahead](http://thewebahead.net/87)
+[Wrangling Typefaces with Jason Santa Maria | The Web Ahead](https://thewebahead.net/83)
+[Delivering Typography with Jason Pamental | The Web Ahead](https://thewebahead.net/87)
 
 [Fraktur - 99% Invisible](https://99percentinvisible.org/episode/fraktur/) blackletter
 [【混核理論】VOL.15 妳知道嗎？這款遊戲的字體設計堪稱完美丨機核 - YouTube](https://www.youtube.com/watch?v=F-FTk9GwhUc)
@@ -120,6 +120,8 @@ baseline, descenders (`j`, `p`), line height, kerning
 
 [【霞鹜文楷 0.1 版已发布】 为 Klee 试制简化字（多图预警） — LXGW · 落霞与孤鹜齐飞，秋水共长天一色。](https://lxgw.github.io/2021/01/28/Klee-Simpchin/)
 [lxgw/LxgwWenKai: An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。](https://github.com/lxgw/LxgwWenKai)
+
+[繁體手寫字體大集合，10款免費字體下載，打造溫暖手寫風格 - 筆墨書店](https://bemorewriting.com/handwritingfonts/)
 
 [漢字標準列表 - Wikiwand](https://www.wikiwand.com/zh/%E6%BC%A2%E5%AD%97%E6%A8%99%E6%BA%96%E5%88%97%E8%A1%A8)
 中港台漢字字符有各自標準

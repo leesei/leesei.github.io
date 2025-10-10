@@ -2,13 +2,13 @@
 title: Assassin's Creed
 description: ""
 created: 2018-01-03
-updated: 2025-04-14
+updated: 2025-07-07
 tags:
   - assassins-creed
   - games
 ---
 
-[Assassin's Creed - Wikiwand](http://www.wikiwand.com/en/Assassin%27s_Creed)
+[Assassin's Creed - Wikiwand](https://www.wikiwand.com/en/Assassin%27s_Creed)
 [Assassin's Creed](https://www.reddit.com/r/assassinscreed/)
 [Assassin's Creed Wiki | Fandom](https://assassinscreed.fandom.com/wiki/Assassin%27s_Creed_Wiki)
 

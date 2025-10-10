@@ -2,7 +2,7 @@
 title: Web Security
 description: ""
 created: 2015-05-18
-updated: 2025-02-07
+updated: 2025-07-07
 tags:
   - security
   - ssl
@@ -17,8 +17,8 @@ tags:
 
 > focus of web application and deployment
 
-[Web application security - Wikiwand](http://www.wikiwand.com/en/Web_application_security)
-[Category:Web security exploits - Wikiwand](http://www.wikiwand.com/en/Category:Web_security_exploits)
+[Web application security - Wikiwand](https://www.wikiwand.com/en/Web_application_security)
+[Category:Web security exploits - Wikiwand](https://www.wikiwand.com/en/Category:Web_security_exploits)
 
 [Have I been pwned? Check if your email has been compromised in a data breach](https://haveibeenpwned.com/)
 
@@ -204,7 +204,7 @@ tags:
 
 ## Session Fixation
 
-[Session fixation - Wikiwand](http://www.wikiwand.com/en/Session_fixation)
+[Session fixation - Wikiwand](https://www.wikiwand.com/en/Session_fixation)
 
 ## SRI
 
@@ -267,7 +267,7 @@ The counter-measure is to:
 
 ## XSS
 
-[Cross-site scripting - Wikiwand](http://www.wikiwand.com/en/Cross-site_scripting)
+[Cross-site scripting - Wikiwand](https://www.wikiwand.com/en/Cross-site_scripting)
 [What is cross-site scripting (XSS) and how to prevent it? | Web Security Academy](https://portswigger.net/web-security/cross-site-scripting)
 
 [Cross Site Scripting Prevention - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)

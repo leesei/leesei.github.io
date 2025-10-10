@@ -2,7 +2,7 @@
 title: Tiled Image
 description: ""
 created: 2016-04-08
-updated: 2025-01-09
+updated: 2025-08-13
 tags:
   - tiled-image
   - web
@@ -39,7 +39,7 @@ There are also many viewer to render these images on browser that provide differ
 
 Deep Zoom is a standard by Microsoft. It allows users to pan around and zoom in a large, high resolution image . It reduces the time required for initial load by downloading only the region being viewed or only at the resolution it is displayed at.
 
-[Deep Zoom - Wikiwand](http://www.wikiwand.com/en/Deep_Zoom)
+[Deep Zoom - Wikiwand](https://www.wikiwand.com/en/Deep_Zoom)
 [A deepzoom primer ( explained and coded).. | Microsoft Learn](https://learn.microsoft.com/en-us/archive/blogs/jaimer/a-deepzoom-primer-explained-and-coded)
 [Deep Zoom File Format Overview | Microsoft Learn](<https://learn.microsoft.com/en-us/previous-versions/windows/silverlight/dotnet-windows-silverlight/cc645077(v=vs.95)>) ❗!important
 [Deep Zoom Schema Reference | Microsoft Learn](<https://learn.microsoft.com/en-us/previous-versions/windows/silverlight/dotnet-windows-silverlight/cc645022(v=vs.95)>)
@@ -235,6 +235,9 @@ Another image processing library.
 
 [React-Leaflet · ⚛️ React components for 🍃 Leaflet maps](https://react-leaflet.js.org/)
 [How to use React-Leaflet - LogRocket Blog](https://blog.logrocket.com/how-to-use-react-leaflet/)
+
+[Folium documentation](https://python-visualization.github.io/folium/latest/)
+[python-visualization/folium: Python Data. Leaflet.js Maps.](https://github.com/python-visualization/folium)
 
 [thematic mapping blog: Creating a synchronized view of two maps or images with Leaflet](http://blog.thematicmapping.org/2013/06/creating-synchronized-view-of-two-maps.html) [source](https://github.com/turban/Leaflet.Sync)
 

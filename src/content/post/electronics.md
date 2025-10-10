@@ -2,7 +2,7 @@
 title: Electronics
 description: ""
 created: 2018-09-12
-updated: 2025-07-06
+updated: 2025-09-23
 tags:
   - electronics
   - maker
@@ -88,6 +88,7 @@ Mobile electrons don't push each other to create the current. The current is a r
 [An Introduction to Power Sources and Ohm's Law | Custom | Maker Pro](https://maker.pro/custom/tutorial/an-introduction-to-power-sources-and-ohms-law)
 [How electricity works. . . . animated - YouTube](https://www.youtube.com/watch?v=ZInLPe_bezQ)
 [Do Volts or Amps Kill You? Voltage, Current and Resistance - YouTube](https://www.youtube.com/watch?v=9iKD7vuq-rY)
+[電，到底是什麼？ - YouTube](https://www.youtube.com/watch?v=Lxv-ejQif50)
 
 [Counterintuitive physics property found to be widespread in living organisms](https://phys.org/news/2019-08-counterintuitive-physics-property-widespread.amp) negative resistance
 
@@ -394,6 +395,7 @@ Dupont connector
 [Surface Mount Soldering : CuriousInventor Guides](http://store.curiousinventor.com/guides/Surface_Mount_Soldering)
 
 [10 STUPID ERRORS To AVOID in Soldering and TIPS - YouTube](https://www.youtube.com/watch?v=Fp37DPZVdRI)
+[Do This Before You Solder Anything - YouTube](https://www.youtube.com/watch?v=jz67KgHzXVw)
 
 [Announcing the “Soldering is Easy” Complete Comic Book! | MightyOhm](https://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/)
 [SMT Soldering – It’s easier than you think! | MightyOhm](https://mightyohm.com/blog/2012/05/smt-soldering-its-easier-than-you-think/)
@@ -434,7 +436,7 @@ N-Type (doping with extra electron) and P-Type (doping with less electron)
 
 ## Transistors
 
-[Transistor - Wikiwand](http://www.wikiwand.com/en/Transistor)
+[Transistor - Wikiwand](https://www.wikiwand.com/en/Transistor)
 [Field-effect transistor - Wikiwand](https://www.wikiwand.com/en/Field-effect_transistor)
 [MOSFET - Wikiwand](https://www.wikiwand.com/en/MOSFET)
 [電晶體是如何工作的？發明者自己也不清楚！電晶體反目成仇的發明往事 | T 客邦](https://www.techbang.com/posts/102001-transistor-vacuuml-tubel)

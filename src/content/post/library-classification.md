@@ -2,7 +2,7 @@
 title: Library Classification
 description: ""
 created: 2016-04-17
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - trivia
 ---
@@ -15,8 +15,7 @@ Used in Hong Kong Public Libraries, school libraries
 
 [Dewey Decimal Classification - Wikiwand](https://www.wikiwand.com/en/Dewey_Decimal_Classification)
 [List of Dewey Decimal classes - Wikiwand](https://www.wikiwand.com/en/List_of_Dewey_Decimal_classes)
-[The Dewey Decimal Classification System](http://mypages.iit.edu/~smart/halsey/lesson1.htm)
-http://www.oclc.org/content/dam/oclc/dewey/versions/print/intro.pdf
+[Introduction to the Dewey Decimal Classification](https://www.oclc.org/content/dam/oclc/dewey/versions/print/intro.pdf) PDF
 
 ## Library of Congress Classification
 

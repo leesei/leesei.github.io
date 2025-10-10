@@ -2,7 +2,7 @@
 title: OpenSSL
 description: ""
 created: 2015-09-29
-updated: 2025-06-26
+updated: 2025-07-15
 tags:
   - app
   - openssl
@@ -44,9 +44,11 @@ sudo tcpdump -vvv -s 0 -nni eno1 -w internal.cap host 10.6.64.170 and port 443 &
 openssl s_client -connect 10.6.64.170:443 -state -msg
 ```
 
-[SOL15475 - Troubleshooting SSL/TLS renegotiation](https://support.f5.com/kb/en-us/solutions/public/15000/400/sol15475.html)
-[SOL15292 - Troubleshooting SSL/TLS handshake failures](https://support.f5.com/kb/en-us/solutions/public/15000/200/sol15292.html)
-[SOL10209 - Overview of packet tracing with the ssldump utility](https://support.f5.com/kb/en-us/solutions/public/10000/200/sol10209.html)
+[Test an SSL Connection Using OpenSSL s_client | Liquid Web](https://www.liquidweb.com/blog/how-to-test-ssl-connection-using-openssl/)
+
+[Troubleshooting SSL/TLS renegotiation](https://my.f5.com/manage/s/article/K15475)
+[Troubleshooting SSL/TLS handshake failures](https://my.f5.com/manage/s/article/K15292)
+[Overview of packet tracing with the ssldump utility](https://my.f5.com/manage/s/article/K10209)
 
 ---
 

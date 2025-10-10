@@ -2,7 +2,7 @@
 title: WordPress
 description: ""
 created: 2015-05-21
-updated: 2025-02-07
+updated: 2025-07-07
 tags:
   - app
   - bitnami

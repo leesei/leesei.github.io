@@ -2,7 +2,7 @@
 title: Image Formats
 description: ""
 created: 2016-08-04
-updated: 2025-07-06
+updated: 2025-07-07
 tags:
   - standard
 ---

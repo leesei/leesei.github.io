@@ -2,7 +2,7 @@
 title: Nintendo Switch
 description: ""
 created: 2018-01-09
-updated: 2025-02-16
+updated: 2025-09-29
 tags:
   - games
   - nintendo
@@ -414,6 +414,7 @@ TheJWittz
 
 [The History of Ace Attorney - 20th Anniversary Retrospective | ChrisB Crisps - YouTube](https://www.youtube.com/watch?v=jYv5ZLi3pA8)
 [The Ace Attorney Iceberg Explained - YouTube](https://www.youtube.com/watch?v=FAPpgHxuDA8)
+[Lorekeeping Ace Attorney: 24 minutes of useless Ace Attorney Lore information - YouTube](https://www.youtube.com/watch?v=qoNHUX-McMI)
 
 [逆轉裁判登場人物一覽 - Komica wiki](https://wiki.komica.org/%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%BD)
 [逆轉裁判系列角色列表 - Wikiwand](https://www.wikiwand.com/zh/%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E7%B3%BB%E5%88%97%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8)
@@ -422,6 +423,12 @@ TheJWittz
 [華麗的逆轉（上）成步堂接班人？御劍第一次辯護就上手！【逆轉裁判 3】 - YouTube](https://www.youtube.com/watch?v=JUyV8_efYUc)
 [華麗的逆轉（下）案情翻轉再翻轉，最神之章！華麗的大結局！【逆轉裁判 3】 - YouTube](https://www.youtube.com/watch?v=y0PMd3HrHXo)
 [Steam 上萬好評的推理神作！50 分鐘一次看到華麗的逆轉最大高潮【逆轉裁判 3 精華】 - YouTube](https://www.youtube.com/watch?v=NU4rU8RGpr8)
+
+可乐研游所
+[「初代逆转的诞生」逆转裁判幕后故事 01【可乐研游所】 - YouTube](https://www.youtube.com/watch?v=p_l6gtNxM7M)
+[「艰难的续作开发」逆转裁判幕后故事 02【可乐研游所】 - YouTube](https://www.youtube.com/watch?v=V7Tbb0jY5wI)
+[「华丽的三部曲」逆转裁判幕后故事 03【可乐研游所】 - YouTube](https://www.youtube.com/watch?v=0mwWp5jylT4)
+[「复苏，新章开庭」逆转裁判幕后故事 04【可乐研游所】 - YouTube](https://www.youtube.com/watch?v=Ixx5a4QwxyM)
 
 AMU Game Channel
 [逆轉裁判系列 / Phoenix Wright - YouTube](https://www.youtube.com/playlist?list=PLwFY2FRIQ7pfiWtKDjpLHC9m5pYyjFA5e)
@@ -602,3 +609,9 @@ locked-secret.bin (tag key)
 
 谷粒 Kingkong Controller
 Gamesir T4
+
+### MIG-Switch
+
+[A New Nintendo Switch Flash Cart is Here // MIG-Switch V2 Review - YouTube](https://www.youtube.com/watch?v=2Qap8KCEnFU)
+[The Nintendo Switch Will NEVER Be the Same // MIG-Switch Dumper Review - YouTube](https://www.youtube.com/watch?v=D4A5LR_ipQ4)
+[A New Flash Cart for the Nintendo DS // EZ-Flash Parallel Review - YouTube](https://www.youtube.com/watch?v=8d-53Fi0Kxw)

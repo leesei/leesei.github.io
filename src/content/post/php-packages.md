@@ -2,7 +2,7 @@
 title: PHP Packages
 description: ""
 created: 2023-03-27
-updated: 2025-01-09
+updated: 2025-08-23
 tags:
   - comp/lang
   - php
@@ -68,11 +68,12 @@ tags:
 
 [Laravel - The PHP Framework For Web Artisans](https://laravel.com/)
 [Laravel - Wikiwand](https://www.wikiwand.com/en/Laravel)
+[APP_KEY And You | Tighten](https://tighten.com/insights/app-key-and-you/) ❗!important
+
+[Installation - Laravel - The PHP Framework For Web Artisans](https://laravel.com/docs/)
+[Introduction | Laravel Jetstream](https://jetstream.laravel.com/2.x/introduction.html)
 
 [Laracasts](https://laracasts.com/)
-[Installation - Laravel - The PHP Framework For Web Artisans](https://laravel.com/docs/)
-
-[Introduction | Laravel Jetstream](https://jetstream.laravel.com/2.x/introduction.html)
 
 [Livewire | Laravel Livewire](https://laravel-livewire.com/) Meteor-like, send HTML-partials
 [Inertia.js - The Modern Monolith](https://inertiajs.com/)

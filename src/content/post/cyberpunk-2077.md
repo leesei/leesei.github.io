@@ -2,7 +2,7 @@
 title: Cyberpunk 2077
 description: ""
 created: 2023-08-14
-updated: 2025-01-09
+updated: 2025-08-01
 tags:
   - cyberpunk-2077
   - games
@@ -16,6 +16,8 @@ Leya蕾雅
 
 [Making of Cyberpunk 2077 - Behind The Scenes (Documentary) - YouTube](https://www.youtube.com/watch?v=ckj517wEkI4)
 [Behind the Scenes - Cyberpunk 2077 [Making of] - YouTube](https://www.youtube.com/watch?v=nM0uvkAItno)
+
+[Cyberpunk 2077 - 15 Hidden Free Weapons and Vehicles You Don't Wanna Miss - YouTube](https://www.youtube.com/watch?v=tmEGyNMg5hg)
 
 ## Mods
 

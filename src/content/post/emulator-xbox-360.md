@@ -2,7 +2,7 @@
 title: Xbox 360 Emulator
 description: ""
 created: 2023-06-12
-updated: 2025-05-21
+updated: 2025-07-07
 tags:
   - emulator
   - games

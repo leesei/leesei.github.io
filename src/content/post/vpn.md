@@ -2,7 +2,7 @@
 title: VPN
 description: ""
 created: 2023-04-14
-updated: 2025-07-03
+updated: 2025-09-29
 tags:
   - comp/network
 ---
@@ -25,6 +25,8 @@ tags:
 
 [不良林 - YouTube](https://www.youtube.com/@bulianglin)
 [【进阶•代理模式篇】看懂就能解决 99%的代理问题，详解系统代理、TUN/TAP 代理、真 VPN 代理，clash/v2ray/singbox 虚拟网卡怎么接管系统全局流量？什么是真正的 VPN？看完就知道了 - YouTube](https://www.youtube.com/watch?v=qItL005LUik)
+
+[Tailscale vs Cloudflare Tunnel: Which is Best for Secure Remote Access? (2025) - YouTube](https://www.youtube.com/watch?v=K4AHEetmrW8)
 
 ## Split Tunneling
 
@@ -79,9 +81,17 @@ tags:
 
 [trailofbits/algo: Set up a personal VPN in the cloud](https://github.com/trailofbits/algo) Ansible scripts to setup WireGuard+IPSec
 [Meet Algo, the VPN that works | Trail of Bits Blog](https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/)
-[Meet Algo, your personal VPN in the cloud featuring Dan Guido from Trail of Bits (The Changelog #377) |> News and podcasts for developers |> Changelog](https://changelog.com/podcast/377)
+[Meet Algo, your personal VPN in the cloud featuring Dan Guido from Trail of Bits (Changelog Interviews #377)](https://changelog.com/podcast/377)
 
 [aramperes/onetun: Access your WireGuard network from any device, without root access or having to install WireGuard locally.](https://github.com/aramperes/onetun)
+
+### Pangolin
+
+[Introduction to Pangolin - Pangolin Docs](https://docs.digpangolin.com/)
+[fosrl/pangolin: Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI](https://github.com/fosrl/pangolin)
+[Pangolin is my new self-hosted best friend for my home lab](https://www.xda-developers.com/alternative-to-tailscale-or-nginx-remote-access-home-lab/)
+
+[Better Than Cloudflare Tunnels? - Pangolin Guide - YouTube](https://www.youtube.com/watch?v=8VdwOL7nYkY)
 
 ## Tailscale
 
@@ -103,6 +113,34 @@ tags:
 [Self Host Tailscale with Headscale - How To Setup - YouTube](https://www.youtube.com/watch?v=OECp6Pj2ihg)
 [JimsGarage/Headscale at main · JamesTurland/JimsGarage · GitHub](https://github.com/JamesTurland/JimsGarage/tree/main/Headscale)
 
+## Cloudflare Worker VPN
+
+[Cloudflare免费代理节点教程 | 2025年9月更新 | 解决失效的问题 - YouTube](https://www.youtube.com/watch?v=755G850wXGw) VLESS v2ray
+[Cloudflare免费代理节点最新教程 | 无需ProxyIP，解决ChatGPT、X等网站无法访问的问题 | 完全免费、简单方便、极低门槛 | - YouTube](https://www.youtube.com/watch?v=HcD4xYKXuRY)
+[老方法废了？2025 Cloudflare免费节点重生 Worker极速搭建，极速又好学！永久免费、多节点 VPN！无需优选 IP、无需proxyip、秒开 4K/8K，解锁 ChatGPT，不限流量 - YouTube](https://www.youtube.com/watch?v=QrjgFSQLo_E)
+[yonggekkk/Cloudflare-vless-trojan: CF-workers/pages代理脚本【Vless与Trojan】：支持nat64自动生成proxyip，一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP](https://github.com/yonggekkk/Cloudflare-vless-trojan)
+
+## Cloudflare Tunnel
+
+[Tunnel | Zero Trust App Connector | Cloudflare](https://www.cloudflare.com/products/tunnel/)
+[Cloudflare Tunnel · Cloudflare Zero Trust docs](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/)
+
+[没有公网IP? 免费域名搭建cloudflare内网穿透，不限流量，不用绑卡支付 - YouTube](https://www.youtube.com/watch?v=OJBHG9oJTDk)
+[EXPOSE your home network to the INTERNET!! (it's safe) - YouTube](https://www.youtube.com/watch?v=ey4u7OUAF3c)
+[EASY Remote Access: How to setup CloudFlare Tunnels - YouTube](https://www.youtube.com/watch?v=CfjGCI6bQz4) on Synology NAS
+[You Need to Learn This! Cloudflare Tunnel Easy Tutorial - YouTube](https://www.youtube.com/watch?v=ZvIdFs3M5ic)
+
+[How to use Cloudflare Tunnel in your Homelab (even with Traefik) - YouTube](https://www.youtube.com/watch?v=yMmxw-DZ5Ec)
+[You should NOT use Cloudflare Tunnel (if you do this...) - YouTube](https://www.youtube.com/watch?v=oqy3krzmSMA)
+
+## ExpressVPN
+
+[ExpressVPN: Best VPN Service for Speed & Privacy in 2025](https://www.expressvpn.com/)
+
+[EventVPN](https://www.eventvpn.com/)
+[Introducing EventVPN: The First Free Unlimited Privacy VPN](https://www.expressvpn.com/blog/eventvpn-free-privacy-vpn/)
+[ExpressVPN launches EventVPN, a free VPN service built for privacy | PCWorld](https://www.pcworld.com/article/2913977/expressvpn-launches-eventvpn-a-free-vpn-service-built-for-privacy.html)
+
 ## Meshnet by NordVPN
 
 [Connect devices securely with Meshnet - NordVPN](https://nordvpn.com/meshnet/)
@@ -114,6 +152,8 @@ tags:
 
 [Twingate: It's time to ditch your VPN](https://www.twingate.com/)
 Free for 5 users, 10 networks
+
+[Go Beyond VPN - Let's Deploy Twingate - YouTube](https://www.youtube.com/watch?v=zzyEx-Ue2I4)
 
 NetworkChuck
 [the END of VPNs?! - YouTube](https://www.youtube.com/watch?v=IYmXPF3XUwo)

@@ -2,7 +2,7 @@
 title: Vim notes
 description: A screen-oriented text editor originally created for the Unix operating system
 created: 2015-01-14
-updated: 2025-06-24
+updated: 2025-07-25
 tags:
   - app
   - shell-tool
@@ -114,7 +114,7 @@ Vim Motion is applicable in other editors (as vim mode or vim plugin)
 [vi-vim-cheat-sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
 [Vim cheatsheet](https://devhints.io/vim)
 
-[vim motions](https://www.phind.com/search?cache=588ad35e-8713-4f93-b0ba-6d0844af5f71)
+[vim motions](https://www.phind.com/search/cmdiakgly00002v6tprp5cl6g)
 [Vim: motion.txt](https://vimhelp.org/motion.txt.html)
 [Moving Blazingly Fast With The Core Vim Motions | Barbarian Meets Coding](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/moving-blazingly-fast-with-the-core-vim-motions/)
 [Why Vim Is More than Just an Editor – Vim Language, Motions, and Modes Explained](https://www.freecodecamp.org/news/vim-language-and-motions-explained/)
@@ -187,7 +187,7 @@ zc          - close folded text
 
 ## paste
 
-[editor - Turning off auto indent when pasting text into vim - Stack Overflow](http://stackoverflow.com/questions/2514445/turning-off-auto-indent-when-pasting-text-into-vim)
+[editor - Turning off auto indent when pasting text into vim - Stack Overflow](https://stackoverflow.com/questions/2514445/turning-off-auto-indent-when-pasting-text-into-vim)
 [coderwall.com : establishing geek cred since 1305712800](https://coderwall.com/p/if9mda/automatically-set-paste-mode-in-vim-when-pasting-in-insert-mode)
 
 enter paste mode: `:set paste`

@@ -2,14 +2,14 @@
 title: Minecraft
 description: ""
 created: 2024-12-30
-updated: 2025-04-12
+updated: 2025-07-07
 tags:
   - game
   - learn-to-code
   - minecraft
 ---
 
-[Minecraft - Wikiwand](http://www.wikiwand.com/en/Minecraft)
+[Minecraft - Wikiwand](https://www.wikiwand.com/en/Minecraft)
 [Official site | Minecraft](https://minecraft.net/en-us/)
 
 [The Minecraft Wiki](https://minecraft.wiki/)

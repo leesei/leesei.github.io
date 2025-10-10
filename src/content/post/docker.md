@@ -2,7 +2,7 @@
 title: Docker
 description: ""
 created: 2014-12-11
-updated: 2025-05-09
+updated: 2025-09-23
 tags:
   - container
   - dev/deploy
@@ -86,15 +86,17 @@ Docker overlay2 metacopy issue on Linux 4.19
 
 [A Docker Tutorial for Beginners](https://docker-curriculum.com/)
 [Learn Docker by Building a Microservice](http://www.dwmkerr.com/learn-docker-by-building-a-microservice/)
-[Docker Tutorial: Containers, VMs, and Docker for Beginners - Level UpLevel Up](https://www.level-up.one/docker-tutorial-containers-vms/)
-[A Beginner-Friendly Introduction to Containers, VMs and Docker](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b)
+[The Beginner-Friendly Guide to Containers | by Level Up Education | Medium](https://medium.com/@tao_66792/the-beginner-friendly-guide-to-containers-291d81104d38) 2018
+[Docker Tutorial: Containers, VMs, and Docker for Beginners | by Level Up Education | Medium](https://medium.com/@tao_66792/docker-tutorial-containers-vms-and-docker-for-beginners-cf25cb9c8633) 2018
+[A Beginner-Friendly Introduction to Containers, VMs and Docker](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b) 2016
 [Learn Enough Docker to be Useful – Towards Data Science](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b)
-[alexellis/HandsOnDocker: Get hands-on with Docker through a dozen self-paced and progressive labs.](https://github.com/alexellis/handsondocker/)
-[Docker Basics - Amazon EC2 Container Service](http://docs.aws.amazon.com/AmazonECS/latest/developerguide/docker-basics.html)
+[Intro to Docker Containers for Data Scientists | Towards Data Science](https://towardsdatascience.com/intro-to-docker-containers-for-data-scientists-dda9f2cfe66e/)
+[Creating a container image for use on Amazon ECS - Amazon Elastic Container Service](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/create-container-image.html)
 [Creating a Cross-platform Docker Development Environment | via @codeship](https://blog.codeship.com/cross-platform-docker-development-environment/)
+[Understanding Docker](https://blog.rishabkumar.com/understanding-docker)
 
-[In Docker, what's the difference between a container and an image? - Stack Overflow](http://stackoverflow.com/questions/21498832/in-docker-whats-the-difference-between-a-container-and-an-image)
-[Docker image vs container - Stack Overflow](http://stackoverflow.com/questions/23735149/docker-image-vs-container)
+[In Docker, what's the difference between a container and an image? - Stack Overflow](https://stackoverflow.com/questions/21498832/in-docker-whats-the-difference-between-a-container-and-an-image)
+[Docker image vs container - Stack Overflow](https://stackoverflow.com/questions/23735149/docker-image-vs-container)
 [How to Automate Docker Deployments](http://paislee.io/how-to-automate-docker-deployments/) image, container and image maintenance
 
 [Docker —— 从入门到实践](http://yeasy.gitbooks.io/docker_practice/content/)
@@ -102,7 +104,7 @@ Docker overlay2 metacopy issue on Linux 4.19
 [全面易懂的 Docker 指令大全](http://joshhu.gitdbooks.io/dockercommands/content/)
 [Docker 问答录（100 问） · 大桥下的蜗牛](https://blog.lab99.org/post/docker-2016-07-14-faq.html)
 
-[Should I use Vagrant or Docker.io for creating an isolated environment? - Stack Overflow](http://stackoverflow.com/questions/16647069/should-i-use-vagrant-or-docker-io-for-creating-an-isolated-environment)
+[Should I use Vagrant or Docker.io for creating an isolated environment? - Stack Overflow](https://stackoverflow.com/questions/16647069/should-i-use-vagrant-or-docker-io-for-creating-an-isolated-environment)
 [Docker Do's And Don'ts | devo.ps](http://devo.ps/blog/docker-dos-and-donts/)
 [Vagrant, Docker and Ansible. WTF? | devo.ps](http://devo.ps/blog/vagrant-docker-and-ansible-wtf/)
 
@@ -176,7 +178,7 @@ Production
 [How Docker Manages Its Massive Open Source Project | StackShare](http://stackshare.io/posts/how-docker-manages-its-massive-open-source-project)
 
 Docker started out using LXC, then [docker/libcontainer](https://github.com/docker/libcontainer), then [opencontainers/runc](https://github.com/opencontainers/runc)
-[Docker drops LXC as default execution environment](http://www.infoq.com/news/2014/03/docker_0_9)
+[Docker drops LXC as default execution environment](https://www.infoq.com/news/2014/03/docker_0_9)
 [Docker and Broad Industry Coalition Unite to Create Open Container Project | Docker Blog](http://blog.docker.com/2015/06/open-container-project-foundation/)
 [Containerd: a daemon to control runC | Docker Blog](http://blog.docker.com/2015/12/containerd-daemon-to-control-runc/)
 
@@ -239,15 +241,6 @@ Ambassador pattern: if App container depends on Database container, always creat
 
 [Docker Containers and APIs: A Brief Overview | Nordic APIs |](http://nordicapis.com/docker-containers-and-apis-a-brief-overview/)
 [API-Driven DevOps: Spotlight on Docker | Nordic APIs |](http://nordicapis.com/api-driven-devops-spotlight-on-docker/)
-
-## InfoQ
-
-[深入浅出 Docker - InfoQ](http://www.infoq.com/cn/dockerdeep/)
-[Docker - InfoQ cn](http://www.infoq.com/cn/dockers)
-[Docker - InfoQ](http://www.infoq.com/docker-2)
-
-[Docker 三年回顾：梦想依在，人生正当年](http://www.infoq.com/cn/articles/docker-turns-3)
-[Easier, Better, Faster, Safer Deployment with Docker and Immutable Containers](http://www.infoq.com/presentations/immutable-servers-docker)
 
 ## DigitalOcean
 
@@ -386,7 +379,7 @@ Docker used libnetwork and [Container Network Model (CNM)](https://blog.docker.c
 [dockerfile - Docker: Mount directory from one container to another - Stack Overflow](https://stackoverflow.com/a/33232991/665507) data only container and `--volumes from`
 
 [Named volumes](https://docs.docker.com/engine/reference/commandline/volume_create/) [replaces](https://github.com/docker/docker/issues/17798) data-only containers since 1.9.
-[What is the (best) way to manage permissions for docker shared volumes - Stack Overflow](http://stackoverflow.com/questions/23544282/what-is-the-best-way-to-manage-permissions-for-docker-shared-volumes)
+[What is the (best) way to manage permissions for docker shared volumes - Stack Overflow](https://stackoverflow.com/questions/23544282/what-is-the-best-way-to-manage-permissions-for-docker-shared-volumes)
 
 [Docker Webinar Q&A: Persistent Storage & Docker - Docker Blog](https://blog.docker.com/2015/12/persistent-storage-docker/)
 [Part 1: Docker Basics: Understanding Union Filesystems, Storage and Volumes - docker](https://docker.wistia.com/medias/2pz7q0awzh)
@@ -476,7 +469,7 @@ The Docker Hub is the official hosted registry service by Docker for building an
 [Introducing the Docker Index: Insight from the World’s Most Popular Container Registry - Docker Blog](https://www.docker.com/blog/introducing-the-docker-index/)
 
 [An Overview of Docker Registries - via @codeship | via @codeship](https://blog.codeship.com/overview-of-docker-registries/)
-[Rancher Labs | Comparing Four Hosted Docker Registries | Rancher Labs](http://rancher.com/comparing-four-hosted-docker-registries/)
+[Rancher Labs | Comparing Four Hosted Docker Registries | Rancher Labs](https://rancher.com/comparing-four-hosted-docker-registries/)
 [Docker Registries: the Good, the Bad & the Ugly](https://mesosphere.com/blog/2015/10/14/docker-registries-the-good-the-bad-the-ugly/)
 [Docker Tip #50: Running an Insecure Docker Registry — Nick Janetakis](https://nickjanetakis.com/blog/docker-tip-50-running-an-insecure-docker-registry)
 [Hosted Docker Registry | Deploy Docker Container | Rancher](https://rancher.com/comparing-four-hosted-docker-registries/)
@@ -632,6 +625,8 @@ docker -v  # should >= 17.05
 
 ## Windows/Mac
 
+> Docker Desktop is not free for commercial use
+
 [Docker Desktop for Mac and Windows | Docker](https://www.docker.com/products/docker-desktop) Windows Server 2016 support Docker natively
 [Docker Desktop | Docker Docs](https://docs.docker.com/desktop/)
 [Docker - Installation on Windows - GeeksforGeeks](https://www.geeksforgeeks.org/docker-installation-on-windows/) 2022-08
@@ -648,8 +643,8 @@ docker -v  # should >= 17.05
 
 ## Quickstart
 
-[Get Started, Part 1: Orientation and setup | Docker Documentation](https://docs.docker.com/get-started/)
-[A crash course on Docker — Learn to swim with the big fish](https://blog.sourcerer.io/a-crash-course-on-docker-learn-to-swim-with-the-big-fish-6ff25e8958b0)
+[Get started | Docker Docs](https://docs.docker.com/get-started/)
+[A crash course on Docker — Learn to swim with the big fish | by Adnan Rahić | Sourcerer Blog](https://blog.sourcerer.io/a-crash-course-on-docker-learn-to-swim-with-the-big-fish-6ff25e8958b0)
 
 ```sh
 docker pull ubuntu:22.04
@@ -663,13 +658,11 @@ docker run --read-only --tmpfs /run --tmpfs /tmp -it ubuntu:22.04 /bin/bash
 
 ## Docker CLI
 
-[Use the Docker command line](https://docs.docker.com/engine/reference/commandline/cli/)
+[docker | Docker Docs](https://docs.docker.com/reference/cli/docker/)
 Config and aliases can be stored in `~/.docker/config.json`
 
-[Docker Basic Command | Fast Deploying Systems With Docker](http://chunchio.gitbooks.io/docker/content/DockerBasicCommand.html)
 [wsargent/docker-cheat-sheet: Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 [CLI Tips and Tricks (From Docker Online Meetup)](https://www.bretfisher.com/docker-cli-tips-and-tricks/)
-[10 Tips & Tricks with Docker - Mercure News](https://mercurenews.com/en/10-tips-tricks-with-docker/)
 
 [jmkhael/make-for-docker: Makefile to ease our Docker commands - http://jmkhael.io/makefiles-for-your-dockerfiles/](https://github.com/jmkhael/make-for-docker)
 [j-bennet/wharfee: A CLI with autocompletion and syntax highlighting for Docker commands.](https://github.com/j-bennet/wharfee)
@@ -911,7 +904,7 @@ DOCKER_BUILDKIT=1 docker build .
 [Container Image Immutability and the Power of Metadata - via @codeship | via @codeship](https://blog.codeship.com/container-image-immutability-power-metadata/)
 [Explaining Docker Image IDs](http://www.windsock.io/explaining-docker-image-ids/)
 [MicroBadger](https://microbadger.com/)
-[Finding the layers and layer sizes for each Docker image - Stack Overflow](http://stackoverflow.com/questions/29696656/finding-the-layers-and-layer-sizes-for-each-docker-image)
+[Finding the layers and layer sizes for each Docker image - Stack Overflow](https://stackoverflow.com/questions/29696656/finding-the-layers-and-layer-sizes-for-each-docker-image)
 
 ```sh
 docker history IMAGE
@@ -939,7 +932,7 @@ docker history --no-trunc IMAGE
 [Optimizing Docker image size and why it matters - contains.dev](https://contains.dev/blog/optimizing-docker-image-size)
 [Alpine Linux: Lightweight Docker Java Images | Takipi Blog](http://blog.takipi.com/lean-mean-java-virtual-machine-making-your-docker-7x-lighter-with-alpine-linux/)
 [Refactoring a Dockerfile for image size](https://blog.replicated.com/refactoring-a-dockerfile-for-image-size/)
-[3 simple tricks for smaller Docker images ♦︎ Learnk8s](https://learnk8s.io/blog/smaller-docker-images/)
+[3 simple tricks for smaller Docker images](https://learnkube.com/blog/smaller-docker-images)
 
 [SlimToolkit - Optimize Your Containerized App Dev Experience. Better, Smaller, Faster and More Secure Containers Doing Less! Slim Docker Container Images by up to 30x. · SlimToolkit](https://slimtoolkit.org/)
 [slimtoolkit/slim: Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)](https://github.com/slimtoolkit/slim)
@@ -1136,7 +1129,7 @@ done
 [Dockerfile reference ENTRYPOINT](https://docs.docker.com/engine/reference/builder/#entrypoint)
 [Dockerfile: ENTRYPOINT vs CMD - CenturyLink Cloud Developer Center](https://www.ctl.io/developers/blog/post/dockerfile-entrypoint-vs-cmd/)
 [Docker ENTRYPOINT & CMD: Dockerfile best practices](https://www.freecodecamp.org/news/docker-entrypoint-cmd-dockerfile-best-practices-abc591c30e21)
-[docker - What is the difference between CMD and ENTRYPOINT in a Dockerfile? - Stack Overflow](http://stackoverflow.com/questions/21553353/what-is-the-difference-between-cmd-and-entrypoint-in-a-dockerfile)
+[docker - What is the difference between CMD and ENTRYPOINT in a Dockerfile? - Stack Overflow](https://stackoverflow.com/questions/21553353/what-is-the-difference-between-cmd-and-entrypoint-in-a-dockerfile)
 [Understanding Docker's CMD and ENTRYPOINT Instructions - via @codeship | via @codeship](https://blog.codeship.com/understanding-dockers-cmd-and-entrypoint-instructions/)
 
 [Docker Tip #63: Difference between an Array and String Based CMD — Nick Janetakis](https://nickjanetakis.com/blog/docker-tip-63-difference-between-an-array-and-string-based-cmd)
@@ -1161,7 +1154,7 @@ Default `ENTRYPOINT` is `/bin/sh -c`, you can override `ENTRYPOINT` with `--entr
 
 ### Executable Images
 
-[Executable Images - How to Dockerize Your Development Machine](http://www.infoq.com/articles/docker-executable-images)
+[Executable Images - How to Dockerize Your Development Machine](https://www.infoq.com/articles/docker-executable-images)
 [Using Docker as a Personal Productivity Tool – Running Command Line Apps Bundled in Docker Containers | OUseful.Info, the blog...](https://blog.ouseful.info/2016/05/03/using-docker-as-a-personal-productvity-tool-running-command-line-apps/)
 [Distributing Command Line Tools with Docker](https://spin.atomicobject.com/2015/11/30/command-line-tools-docker/)
 
@@ -1195,7 +1188,7 @@ docker run -it --rm \
 [How docker replaced my virtual machines and chroots - Gernot on developing Software](http://gernotklingler.com/blog/docker-replaced-virtual-machines-chroots/) generating image with \${USER}
 [managing users in docker · rocker-org/rocker Wiki](https://github.com/rocker-org/rocker/wiki/managing-users-in-docker)
 [Deni Bertovic :: Handling Permissions with Docker Volumes](https://denibertovic.com/posts/handling-permissions-with-docker-volumes/)
-[What is the (best) way to manage permissions for docker shared volumes - Stack Overflow](http://stackoverflow.com/questions/23544282/what-is-the-best-way-to-manage-permissions-for-docker-shared-volumes)
+[What is the (best) way to manage permissions for docker shared volumes - Stack Overflow](https://stackoverflow.com/questions/23544282/what-is-the-best-way-to-manage-permissions-for-docker-shared-volumes)
 [Work With Non-Root Containers for Bitnami Applications](https://docs.bitnami.com/containers/how-to/work-with-non-root-containers/)
 
 Use user namespaces introduced in 1.10:
@@ -1425,17 +1418,17 @@ This will merge the layers and make the image smaller.
 `api/server/server.go`: the REST API server
 `dockerfile/builder.go`: Dockerfile parser
 
-[Docker 源码分析（一）：Docker 架构](http://www.infoq.com/cn/articles/docker-source-code-analysis-part1)
-[Docker 源码分析(二)：Docker Client 创建与命令执行](http://www.infoq.com/cn/articles/docker-source-code-analysis-part2)
-[Docker 源码分析（三）：Docker Daemon 启动](http://www.infoq.com/cn/articles/docker-source-code-analysis-part3)
-[Docker 源码分析（四）：Docker Daemon 之 NewDaemon 实现](http://www.infoq.com/cn/articles/docker-source-code-analysis-part4)
-[Docker 源码分析（五）：Docker Server 的创建](http://www.infoq.com/cn/articles/docker-source-code-analysis-part5)
-[Docker 源码分析（六）：Docker Daemon 网络](http://www.infoq.com/cn/articles/docker-source-code-analysis-part6)
-[Docker 源码分析（七）：Docker Container 网络 （上）](http://www.infoq.com/cn/articles/docker-source-code-analysis-part7)
-[Docker 源码分析（八）：Docker Container 网络（下）](http://www.infoq.com/cn/articles/docker-source-code-analysis-part8)
-[Docker 源码分析（九）：Docker 镜像](http://www.infoq.com/cn/articles/docker-source-code-analysis-part9)
-[Docker 源码分析（十）：Docker 镜像下载](http://www.infoq.com/cn/articles/docker-source-code-analysis-part10)
-[Docker 源码分析（十一）：镜像存储](http://www.infoq.com/cn/articles/docker-source-code-analysis-part11)
+[Docker 源码分析（一）：Docker 架构](https://www.infoq.cn/article/docker-source-code-analysis-part1)
+[Docker 源码分析(二)：Docker Client 创建与命令执行](https://www.infoq.cn/article/docker-source-code-analysis-part2)
+[Docker 源码分析（三）：Docker Daemon 启动](https://www.infoq.cn/article/docker-source-code-analysis-part3)
+[Docker 源码分析（四）：Docker Daemon 之 NewDaemon 实现](https://www.infoq.cn/article/docker-source-code-analysis-part4)
+[Docker 源码分析（五）：Docker Server 的创建](https://www.infoq.cn/article/docker-source-code-analysis-part5)
+[Docker 源码分析（六）：Docker Daemon 网络](https://www.infoq.cn/article/docker-source-code-analysis-part6)
+[Docker 源码分析（七）：Docker Container 网络 （上）](https://www.infoq.cn/article/docker-source-code-analysis-part7)
+[Docker 源码分析（八）：Docker Container 网络（下）](https://www.infoq.cn/article/docker-source-code-analysis-part8)
+[Docker 源码分析（九）：Docker 镜像](https://www.infoq.cn/article/docker-source-code-analysis-part9)
+[Docker 源码分析（十）：Docker 镜像下载](https://www.infoq.cn/article/docker-source-code-analysis-part10)
+[Docker 源码分析（十一）：镜像存储](https://www.infoq.cn/article/docker-source-code-analysis-part11)
 
 ### Container as System Service
 

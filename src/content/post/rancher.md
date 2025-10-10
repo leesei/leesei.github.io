@@ -2,7 +2,7 @@
 title: Rancher
 description: ""
 created: 2014-12-11
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - container
   - devops
@@ -32,8 +32,8 @@ Rancher 2 rebased on Kubernetes and become [GA on 2018-05](https://forums.ranche
 [Painless Container Management with Rancher 2.0, Kubernetes, and IBM Cloud](https://medium.com/ibm-watson-data-lab/painless-container-management-with-rancher-2-0-kubernetes-and-ibm-cloud-5a14ac2d4ccc)
 
 1.6 Specific:
-[Understanding Cattle, Swarm and Kubernetes in Rancher | Rancher Labs](http://rancher.com/cattle-swarm-kubernetes-side-side/)
-[Kubernetes, Mesos, and Swarm: Comparing the Rancher Orchestration Engine Options | Rancher Labs](http://rancher.com/comparing-rancher-orchestration-engine-options/)
+[Understanding Cattle, Swarm and Kubernetes in Rancher | Rancher Labs](https://rancher.com/cattle-swarm-kubernetes-side-side/)
+[Kubernetes, Mesos, and Swarm: Comparing the Rancher Orchestration Engine Options | Rancher Labs](https://rancher.com/comparing-rancher-orchestration-engine-options/)
 [Comparing Kubernetes and Docker Swarm | Rancher Labs](https://rancher.com/comparing-kubernetes-and-docker-swarm/)
 
 ## Installation
@@ -47,33 +47,33 @@ Rancher 2 rebased on Kubernetes and become [GA on 2018-05](https://forums.ranche
 
 ## Resources
 
-[A Primer on the Kubernetes Landscape | Rancher Labs](http://rancher.com/primer-kubernetes-landscape/)
-[Container Ecosystem Trends You Need to Know | Rancher Labs](http://rancher.com/container-ecosystem-trends-need-know/)
+[A Primer on the Kubernetes Landscape | Rancher Labs](https://rancher.com/primer-kubernetes-landscape/)
+[Container Ecosystem Trends You Need to Know | Rancher Labs](https://rancher.com/container-ecosystem-trends-need-know/)
 
-[Focus on Services, Not on Containers | Rancher Labs](http://rancher.com/focus-services-not-containers/)
-[Using Containers for a More Cost-Effective Cloud | Rancher Labs](http://rancher.com/using-containers-cost-effective-cloud/)
-[Do Microservices Make SOA Irrelevant? | Rancher Labs](http://rancher.com/microservices-make-soa-irrelevant/)
-[Running Serverless Applications on Rancher | Rancher Labs](http://rancher.com/running-serverless-applications-rancher/)
+[Focus on Services, Not on Containers | Rancher Labs](https://rancher.com/focus-services-not-containers/)
+[Using Containers for a More Cost-Effective Cloud | Rancher Labs](https://rancher.com/using-containers-cost-effective-cloud/)
+[Do Microservices Make SOA Irrelevant? | Rancher Labs](https://rancher.com/microservices-make-soa-irrelevant/)
+[Running Serverless Applications on Rancher | Rancher Labs](https://rancher.com/running-serverless-applications-rancher/)
 
 [Understanding Authentication & Authorization in Rancher 2.0 | Rancher Labs](https://rancher.com/blog/2018/2018-05-04-authentication-authorization-rancher2/)
 
 2016:
-[Getting Microservices Deployments on Kubernetes with Rancher | Rancher Labs](http://rancher.com/getting-micro-services-production-kubernetes/)
+[Getting Microservices Deployments on Kubernetes with Rancher | Rancher Labs](https://rancher.com/getting-micro-services-production-kubernetes/)
 [Creating Microservices Deployments on Kubernetes with Rancher - Part 2 | Rancher Labs](https://rancher.com/creating-microservices-deployments-on-kubernetes-with-rancher-part-2/)
 
 ### Storage
 
-[Block Storage, Object Storage, and File Systems: What They Mean for Containers | Rancher Labs](http://rancher.com/block-object-file-storage-containers/)
-[Rancher Introduces Persistent Storage for Docker | Rancher Labs](http://rancher.com/how-rancher-storage-services-unleash-the-power-of-software-defined-storage/) ❗!important
+[Block Storage, Object Storage, and File Systems: What They Mean for Containers | Rancher Labs](https://rancher.com/block-object-file-storage-containers/)
+[Rancher Introduces Persistent Storage for Docker | Rancher Labs](https://rancher.com/how-rancher-storage-services-unleash-the-power-of-software-defined-storage/) ❗!important
 
 ### Monitoring
 
-[Containers and Real-Time Resource Monitoring | Rancher Labs](http://rancher.com/containers-real-time-resource-monitoring/)
+[Containers and Real-Time Resource Monitoring | Rancher Labs](https://rancher.com/containers-real-time-resource-monitoring/)
 
 ### Service
 
-[How to Run GitLab in Rancher](http://rancher.com/how-to-run-gitlab-in-rancher-1/)
-[How to Run GitLab in Rancher - Part 2 | Rancher Labs](http://rancher.com/run-gitlab-rancher-2/)
+[How to Run GitLab in Rancher](https://rancher.com/how-to-run-gitlab-in-rancher-1/)
+[How to Run GitLab in Rancher - Part 2 | Rancher Labs](https://rancher.com/run-gitlab-rancher-2/)
 
 ### Catalog
 

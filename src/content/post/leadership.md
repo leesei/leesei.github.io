@@ -2,7 +2,7 @@
 title: Leadership
 description: Being a software engineering, this post focus more on software engineering
 created: 2018-11-26
-updated: 2025-03-20
+updated: 2025-09-01
 tags:
   - business
   - programmer
@@ -83,6 +83,8 @@ Mentality and attitude is more important!!
 [5 Key Challenges for Engineering Managers - The New Stack](https://thenewstack.io/5-key-challenges-for-engineering-managers/)
 
 [Effective Techniques for Code Review in Software Engineering - DEV Community](https://dev.to/documatic/effective-techniques-for-code-review-in-software-engineering-29i0)
+
+[Project Management Principles | Free eBook in PDF Format](http://www.free-management-ebooks.com/dldebk/dlpm-principles.htm)
 
 ## Coaching
 

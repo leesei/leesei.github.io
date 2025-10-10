@@ -2,7 +2,7 @@
 title: C and C++
 description: ""
 created: 2023-09-29
-updated: 2025-02-07
+updated: 2025-09-23
 tags:
   - c
   - comp/lang
@@ -312,7 +312,7 @@ len_t len = strnlen_s(nullprt, RSIZE_MAX);
 
 [Boost network performance with libevent and libev](http://www.ibm.com/developerworks/aix/library/au-libev/)
 [libev.schmorp.de/bench.html](http://libev.schmorp.de/bench.html)
-[What's the difference between libev and libevent? - Stack Overflow](http://stackoverflow.com/questions/9433864/whats-the-difference-between-libev-and-libevent)
+[What's the difference between libev and libevent? - Stack Overflow](https://stackoverflow.com/questions/9433864/whats-the-difference-between-libev-and-libevent)
 [libev and libevent | Concurrency in Python](http://blog.gevent.org/2011/04/28/libev-and-libevent/)
 [Will Do — libevent vs. libev vs. libuv](http://willfaught.com/post/131383132618/libevent-vs-libev-vs-libuv)
 
@@ -332,7 +332,7 @@ libuv:
 ### GUI
 
 [C++ UI Libraries • memdump](https://philippegroarke.com/posts/2018/c++_ui_solutions/)
-[A pretty big list of C++ GUI libraries : cpp](https://www.reddit.com/r/cpp/comments/babfl5/a_pretty_big_list_of_c_gui_libraries/?utm_source=amp&utm_medium=&utm_content=post_body)
+[A pretty big list of C++ GUI libraries : cpp](https://www.reddit.com/r/cpp/comments/babfl5/a_pretty_big_list_of_c_gui_libraries/)
 
 [ocornut/imgui](https://github.com/ocornut/imgui)
 Python binding available, see `cross-platform-apps-desktop.md#python`
@@ -376,7 +376,7 @@ Python binding available, see `cross-platform-apps-desktop.md#python`
 [The Boost C++ Libraries](https://theboostcpplibraries.com/) better docs
 [Boost Library Documentation](https://www.boost.org/doc/libs/release/)
 [Boost Getting Started on Unix Variants](https://www.boost.org/doc/libs/release/more/getting_started/unix-variants.html)
-[Official "Boost library" Support for Android and iOS? - Stack Overflow](http://stackoverflow.com/questions/14036311/official-boost-library-support-for-android-and-ios)
+[Official "Boost library" Support for Android and iOS? - Stack Overflow](https://stackoverflow.com/questions/14036311/official-boost-library-support-for-android-and-ios)
 
 [Chapter 21. Boost.Program_options](https://www.boost.org/doc/libs/1_58_0/doc/html/program_options.html)
 [Chapter 63. Boost.ProgramOptions](https://theboostcpplibraries.com/boost.program_options)

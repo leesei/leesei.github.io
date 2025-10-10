@@ -2,14 +2,14 @@
 title: openSUSE
 description: ""
 created: 2016-04-21
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - linux
   - opensuse
 ---
 
 [openSUSE](https://en.opensuse.org/Main_Page)
-[openSUSE - Wikiwand](http://www.wikiwand.com/en/OpenSUSE)
+[openSUSE - Wikiwand](https://www.wikiwand.com/en/OpenSUSE)
 
 openSUSE has a decent [package repo](http://software.opensuse.org/421/en) and [Build Service](https://en.opensuse.org/Portal:Build_Service) (OBS), which is akin to Arch's AUR, but more stable.
 The package manager [YaST](https://en.opensuse.org/YaST_Software_Management) is also highly acclaimed.

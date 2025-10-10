@@ -2,7 +2,7 @@
 title: React.js (Archives)
 description: Archived React.js notes
 created: 2023-03-21
-updated: 2025-01-09
+updated: 2025-08-12
 tags:
   - archived
   - frontend
@@ -97,6 +97,28 @@ Syntax for defining React Component:
 - ES6 `extends React.Component` with class properties
   It is explained [here](http://reactkungfu.com/2015/07/why-and-how-to-bind-methods-in-your-react-component-classes/) (with reference to JS's function calling and ES6 syntax)
   [How to Use Classes and Sleep at Night — Medium](https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4#.cln2rrt6t) Your component should only extends from `Component`; use composition.
+
+## App Frameworks/Distros
+
+### Remix
+
+> Server Side Rendering ONLY, app framework
+
+[Remix - Build Better Websites](https://remix.run/)
+[Remix: A guide to the newly open-sourced React framework - LogRocket Blog](https://blog.logrocket.com/remix-guide-newly-open-sourced-react-framework/)
+[Remix: The Yang to React's Yin](https://kentcdodds.com/blog/remix-the-yang-to-react-s-yin)
+[Why I Love Remix](https://kentcdodds.com/blog/why-i-love-remix)
+[I Built a Blog with RemixJS so You Don't Have To (You're Welcome)](https://blog.openreplay.com/i-built-a-blog-with-remixjs-so-you-don-t-have-to-you-re-welcome)
+[Is Remix JS the Next Framework for You? | Bits and Pieces](https://blog.bitsrc.io/is-remix-the-next-framework-you-have-to-learn-3e7dca13e9d1)
+[An Alternative to Next.JS? - Everything You Need to Know About RemixJS](https://blog.openreplay.com/an-alternative-to-next-js-everything-you-need-to-know-about-remixjs)
+[Remix - Web Standards Are Cool Again - Simple Thread](https://www.simplethread.com/remix-web-standards-are-cool-again/)
+
+[Remix Tutorial with Kent - YouTube](https://www.youtube.com/watch?v=hsIWJpuxNj0) 6 hours
+[Remix is a NEW JavaScript framework you MUST try - YouTube](https://www.youtube.com/watch?v=r4B69HAOXnA)
+
+[Remix vs Next.js | Remix](https://remix.run/blog/remix-vs-next)
+[Remix vs. Next.js: A Detailed Comparison | by Ravidu Perera | Feb, 2022 | Bits and Pieces](https://blog.bitsrc.io/remix-vs-next-js-a-detailed-comparison-6ff557f7b41f)
+[Moving from Next to Remix](https://blog.openreplay.com/moving-from-next-to-remix)
 
 ## Router
 
@@ -239,9 +261,7 @@ Syntax for defining React Component:
 [create-react-app/CHANGELOG.md at master · facebook/create-react-app](https://github.com/facebook/create-react-app/blob/master/CHANGELOG.md) latest
 [Create React App 2.0: Babel 7, Sass, and More – React Blog](https://reactjs.org/blog/2018/10/01/create-react-app-v2.html)
 
-[My Awesome Custom React Environment Variables Setup](https://medium.com/@robertsavian/my-awesome-custom-react-environment-variables-setup-8ebb0797d8ac)
 [Feature/different env config files #1343 by tuchk4 · Pull Request #1344 · facebook/create-react-app](https://github.com/facebook/create-react-app/pull/1344)
-[bkeepers/dotenv: A Ruby gem to load environment variables from `.env`.](https://github.com/bkeepers/dotenv#what-other-env-files-can-i-use)
 
 [Customizing create-react-app: How to Make Your Own Template](https://auth0.com/blog/how-to-configure-create-react-app/)
 

@@ -2,7 +2,7 @@
 title: How Games Work
 description: How games mechanics works, game design and how to make games, apart from rendering
 created: 2015-08-31
-updated: 2025-07-06
+updated: 2025-09-19
 tags:
   - game-design
   - games
@@ -24,6 +24,7 @@ tags:
 [Nick Maltbie - YouTube](https://www.youtube.com/@NickMaltbie)
 [Outrageous Dong Chai - YouTube](https://www.youtube.com/@LiPuDeDongZai) 離譜的東仔, Hacking into games
 [RnL石葉 - YouTube](https://www.youtube.com/@ysrocky1992)
+[Second Wind - YouTube](https://www.youtube.com/@SecondWindGroup)
 [Warbot - YouTube](https://www.youtube.com/channel/UCNOVwMpD-5A1xzcQGbIHNeA)
 [桜井政博のゲーム作るには - YouTube](https://www.youtube.com/@sora_sakurai_jp) 《星之卡比》、《任天堂明星大亂鬥》系列製作人
 [秦无邪OvO - YouTube](https://www.youtube.com/@AibitGames)
@@ -100,6 +101,8 @@ tags:
 [Good Design, Bad Design - YouTube](https://www.youtube.com/playlist?list=PL8K0_g1wdQeoxta9RyvTK-DnhU4jI2QJN)
 
 [Tears of the Kingdom - An Incredible Game That Annoyed Me To No End. - YouTube](https://www.youtube.com/watch?v=a4ldmt3eU2I) good game, bad interface
+
+[一个视频搞懂整个游戏制作流程，架构级拆解梳理，揭秘3A大厂踩过的坑。 - YouTube](https://www.youtube.com/watch?v=Ar-Vp0OaME0)
 
 [10 Illusions Video Games Create to LIE TO YOU - YouTube](https://www.youtube.com/watch?v=kxpGx3XR_vU)
 [10 Things Video Games Use To TRICK YOUR BRAIN - YouTube](https://www.youtube.com/watch?v=2aXOhGYrLu8)
@@ -207,6 +210,8 @@ wave function collapse for specifics, Perlin noise for the category
 [How Do Bullets Work In Video Games? - YouTube](https://www.youtube.com/watch?v=nI2mlnKEKTQ)
 
 ### Bullet
+
+[給遊戲加个FPS視角,為什麽那麽難? - YouTube](https://www.youtube.com/watch?v=j_OQAk_ESKg)
 
 [Bullet Real-Time Physics Simulation | Home of Bullet and PyBullet: physics simulation for games, visual effects, robotics and reinforcement learning.](https://pybullet.org/wordpress/)
 [PyBullet Quickstart Guide - Google Docs](https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#heading=h.2ye70wns7io3)

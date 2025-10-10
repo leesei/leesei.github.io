@@ -2,7 +2,7 @@
 title: Nuclear Weapon
 description: ""
 created: 2023-03-24
-updated: 2025-02-03
+updated: 2025-10-09
 tags:
   - history
   - science
@@ -11,6 +11,7 @@ tags:
 
 [Nuclear weapon - Wikiwand](https://www.wikiwand.com/en/nuclear%20bomb)
 
+[Every Nuclear Weapon Type Explained - YouTube](https://www.youtube.com/watch?v=nMGx_Qy-lpM)
 [How to launch a nuclear missile - YouTube](https://www.youtube.com/watch?v=7Wi8pjzsFD4)
 
 [海底核彈：哥吉拉寓言背後的故事，海底原來有很多顆人類遺失的核彈……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=YT4OodQtydE)

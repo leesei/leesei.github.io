@@ -2,7 +2,7 @@
 title: PostgreSQL
 description: The World's Most Advanced Open Source Relational Database
 created: 2023-06-18
-updated: 2025-03-05
+updated: 2025-09-26
 tags:
   - comp/database
   - postgresql
@@ -20,6 +20,7 @@ tags:
 [PostgreSQL 13 Has Some Performance Boosts! Let us discuss it! - YouTube](https://www.youtube.com/watch?v=wMbTHFXImzI)
 [PostgreSQL v14 Is Faster, and Friendly to Developers – The New Stack](https://thenewstack.io/postgresql-v14-is-faster-and-friendly-to-developers/)
 [PostgreSQL 16 advances query parallelism | InfoWorld](https://www.infoworld.com/article/3697752/postgresql-16-advances-query-parallelism.html)
+[Get Excited About Postgres 18 | Crunchy Data Blog](https://www.crunchydata.com/blog/get-excited-about-postgres-18)
 
 [dhamaniasad/awesome-postgres: A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql](https://github.com/dhamaniasad/awesome-postgres)
 [pg-tr/awesome-postgres: A curated list of awesome PostgreSQL software, libraries, tools and resources, forked from dhamaniasad/awesome-postgres](https://github.com/pg-tr/awesome-postgres)
@@ -174,6 +175,8 @@ Advisory Locks
 [How we optimized PostgreSQL queries 100x | by Vadim Markovtsev | Towards Data Science](https://towardsdatascience.com/how-we-optimized-postgresql-queries-100x-ff52555eabe)
 [Fastest Way to Load Data Into PostgreSQL Using Python | Haki Benita](https://hakibenita.com/fast-load-data-python-postgresql)
 
+[Postgres Logging for Performance Optimization | Crunchy Data Blog](https://www.crunchydata.com/blog/postgres-logging-for-performance-optimization)
+
 ## Data types
 
 [PostgreSQL: Documentation: Chapter 8. Data Types](https://www.postgresql.org/docs/current/datatype.html)
@@ -182,9 +185,24 @@ Advisory Locks
 
 [the-art-of-the-terminal/postgresql-is-not-a-database/02-object-features.sql at master · vivus-ignis/the-art-of-the-terminal](https://github.com/vivus-ignis/the-art-of-the-terminal/blob/master/postgresql-is-not-a-database/02-object-features.sql) custom data type and inheritance
 
+[PostGIS — Spatial and Geographic Objects for PostgreSQL](http://postgis.net/)
+
+### JSONB
+
 [Rob Conery | JSONB and PostgreSQL: Work Faster By Ditching Migrations](http://rob.conery.io/2016/02/27/jsonb-and-postgresql/) 9.4+
 [When to use unstructured datatypes in Postgres–Hstore vs. JSON vs. JSONB](https://www.citusdata.com/blog/2016/07/14/choosing-nosql-hstore-json-jsonb/)
-[PostGIS — Spatial and Geographic Objects for PostgreSQL](http://postgis.net/)
+[Indexing JSONB in Postgres | Crunchy Data Blog](https://www.crunchydata.com/blog/indexing-jsonb-in-postgres)
+
+### pgvector/pgvectorscale
+
+[pgvector/pgvector: Open-source vector similarity search for Postgres](https://github.com/pgvector/pgvector)
+
+[timescale/pgvectorscale: A complement to pgvector for high performance, cost efficient vector search on large workloads.](https://github.com/timescale/pgvectorscale)
+[timescale/pgai: A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL](https://github.com/timescale/pgai)
+
+[Vector Databases Are the Wrong Abstraction](https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/)
+
+[The Problem with Vector Databases (and how to fix it) - YouTube](https://www.youtube.com/watch?v=8oTnUtFYAes)
 
 ## Forward Data Wrappers (FDW)
 

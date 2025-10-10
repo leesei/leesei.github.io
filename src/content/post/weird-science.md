@@ -2,7 +2,7 @@
 title: Weird Science
 description: ""
 created: 2015-12-04
-updated: 2025-02-07
+updated: 2025-07-07
 tags:
   - science
 ---
@@ -27,7 +27,7 @@ phlogiston -> caloric -> thermodynamics
 [About The Ig® Nobel Prizes - Improbable Research](http://www.improbable.com/ig/)
 [Podcast](https://improbable.com/category/the-weekly-improbable-research-podcast/)
 
-[Ig Nobel Prize - Wikiwand](http://www.wikiwand.com/en/Ig_Nobel_Prize)
+[Ig Nobel Prize - Wikiwand](https://www.wikiwand.com/en/Ig_Nobel_Prize)
 [List of Ig Nobel Prize winners - Wikiwand](https://www.wikiwand.com/en/List_of_Ig_Nobel_Prize_winners)
 
 [What Is An Ig Nobel Prize? - Stuff You Should Know (podcast)](https://player.fm/series/stuff-you-should-know/what-is-an-ig-nobel-prize)

@@ -2,7 +2,7 @@
 title: Anime
 description: ""
 created: 2016-05-30
-updated: 2025-05-21
+updated: 2025-09-14
 tags:
   - anime
 ---
@@ -109,7 +109,6 @@ Kanojyo To 彼女, 女友成雙
 寒蟬, 寒蟬鳴泣之時 卒
 叫我對大哥
 新科學小飛俠 GATCHAMAN Crowds
-小林家的龍女僕
 [💫《為美好的世界獻上祝福！》(繁中字幕 )【Ani-One】 - YouTube](https://www.youtube.com/playlist?list=PLC18xlbCdwtTCQstVZEWPQ5ir3Ue5SbzI)
 
 ## Watchlist
@@ -205,9 +204,10 @@ Dragon Ball Z: Resurrection 'F'
 Dragon Ball Super: BROLY
 
 NO GUNS LIFE
+KonoSuba 為美好的世界獻上祝福 第一 二 三季
+《天穗之咲稻姬
 My Hero Academia: Heroes Rising
 My Hero Academia: World Heroes' Mission
-My Hero Academia: You're Next
 Slayers 第一 二 三 四季 SPECIAL(OVA1) EXCELLENT(OVA2) 完全无欠版(剧场版 1) RETURN(剧场版 2) GREAT(剧场版 3) GOURGEOUS(剧场版 4) PREMIUM(剧场版 5)
 Gundam Seed
 Gundam Seed Destiny
@@ -240,8 +240,8 @@ Ironman 2011
 
 我的英雄学院 第一 二 三 四 五 六季
 My Hero Academia: Two Heroes
+My Hero Academia: You're Next
 JOJO 的奇妙冒險 第一 二 三 四 五 六部 岸邊露伴一動不動
-炎炎消防隊 第一 二季
 天元突破
 鋼練 FA
 勇者王 TV ＋ OVA
@@ -253,10 +253,10 @@ Digimon 01, 02, Tri
 一拳超人 第一季 OAD 第二季
 阿爾斯蘭戰記 第一 二季
 記錄的地平線 第一 二季
-石紀元 Dr. Stone 第一 二 三 四季
 為食獵人 第一季(49 集)
 刀劍神域 SAO 第一 二季 劇場版:序列爭戰 外傳:GGO Progressive
 暗杀教室 第一 二季, Q, 课外授课
+甲鐵城的卡巴內里 第一季 海門決戰
 
 Gundam 鐵血孤兒 第一 二季
 Gundam 第 08MS 小隊
@@ -289,8 +289,8 @@ BRAVE10 真田十勇士
 [魔王勇者](https://www.wikiwand.com/zh/%E9%AD%94%E7%8E%8B%E5%8B%87%E8%80%85)
 怕痛的我，把防禦力點滿就對了 第一 二季
 [一口气看完《结界师》 - YouTube](https://www.youtube.com/watch?v=_HhJNKdAgrc)
+持續狩獵史萊姆三百年，不知不覺就練到LV MAX 第一 二季
 
-甲鐵城的卡巴內里 第一季 海門決戰
 潮與虎 第一 二 三季
 電馭叛客：邊緣行者
 工作細胞 第一 二季
@@ -314,12 +314,22 @@ World Trigger 境界觸發者 第一 二 三季
 通靈王 2021
 通靈王 FLOWERS 2024 第一季
 人造人009: 正義使命 Cyborg 009: Call of Justice 2017
-Re:從零開始的異世界生活 2020 第一季
+Re:從零開始的異世界生活 2020 第一 二 三季
 轉生就是劍 第一季
 範馬刃牙 2023 第一二季
-怪兽8号 第一季
+怪兽8号 第一 二季
 輝夜姬想讓人告白 第一 二 三 四季
-Devil May Cry
+地下忍者
+異世界自殺特攻
+治癒魔法的錯誤使用法 第一季
+炎炎消防隊 第一 二 三季
+石紀元 Dr. Stone 第一 二 三 四季
+Devil May Cry 2025
+Pacific Rim Black Gate
+Da Da Dan 膽大黨 第一 二季
+小林家的龍女僕 第一 二季
+治療魔法的錯誤使用法 第一季
+My Hero Academia: Vigilantes 第一季
 
 七大罪 第一二三四五季
 七大罪 啟示錄四騎士 第一 二季
@@ -397,13 +407,15 @@ Reboot: 2020-2021
 [神作！三十六分鐘完全解説進擊的巨人 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=ZN4yFKJuS4Y)
 九大巨人受尤米爾咀咒覺醒後只能活 13 年
 
-## Fullmetal Alchemist
+## 鋼之煉金術師/Fullmetal Alchemist
 
 [Fullmetal Alchemist VS Fullmetal Alchemist Brotherhood - Part 1 | Comparing FMA's Anime and Manga - YouTube](https://www.youtube.com/watch?v=MdRIh0Em58A)
 [Fullmetal Alchemist VS Fullmetal Alchemist Brotherhood - Part 2 | Comparing FMA's Manga and Anime - YouTube](https://www.youtube.com/watch?v=fe-lt5vZJIM)
 
 [老爹講鋼之鍊金術師 - YouTube](https://www.youtube.com/playlist?list=PL271qe52OuA5jIJwXVmdB5GM_zXO6QNYg)
 [纲之炼金术师全集 一朵老香菇解说的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibili](https://space.bilibili.com/40857648/channel/detail?cid=135824)
+
+[一期看完鋼之煉金術師FA完整解說,0負評之作 - YouTube](https://www.youtube.com/watch?v=e-6lIqKb4ZU)
 
 [井川一講《鋼之煉金術師》 - YouTube](https://www.youtube.com/playlist?list=PLv3iA6yjAwsis0nZpum8plakKygFwhpGw)
 [想要保護所有人 就要站在最高的地方 鋼之鍊金術師 人物故事 羅伊 馬斯坦古 老爹講動畫 - YouTube](https://www.youtube.com/watch?v=LB-7ZvHHCtw) 大總統主線

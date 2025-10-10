@@ -2,7 +2,7 @@
 title: Linux Desktop
 description: ""
 created: 2014-12-12
-updated: 2025-06-30
+updated: 2025-09-26
 tags:
   - desktop
   - gjs
@@ -11,13 +11,14 @@ tags:
   - xinput
 ---
 
-This post is about using GNU/Linux with [desktop environment](http://www.wikiwand.com/en/Desktop_environment) as a daily driver.
+This post is about using GNU/Linux with [desktop environment](https://www.wikiwand.com/en/Desktop_environment) as a daily driver.
 [Linux - Wikiwand](https://www.wikiwand.com/en/linux)
 
 [Unix vs Linux - YouTube](https://www.youtube.com/watch?v=jowCUo_UGts)
 
 [Home | Linux Journey](https://linuxjourney.com/)
 [LinuxAndUbuntu - Linux News | Apps Reviews | Linux Tutorials HowTo - Home](http://www.linuxandubuntu.com/home)
+[Linux: The Untold Story - YouTube](https://www.youtube.com/watch?v=obJOwEy62bk)
 
 [OS Wars_part 1 | Command Line Heroes](https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-1)
 [OS Wars_part 2: Rise of Linux | Command Line Heroes](https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-2-rise-of-linux)
@@ -36,8 +37,9 @@ This post is about using GNU/Linux with [desktop environment](http://www.wikiwan
 [DistroTube - YouTube](https://www.youtube.com/@DistroTube)
 
 [Brodie Robertson - YouTube](https://www.youtube.com/@BrodieRobertson)
-[The Linux Experiment - YouTube](https://www.youtube.com/@TheLinuxEXP)
 [Learn Linux TV - YouTube](https://www.youtube.com/@LearnLinuxTV)
+[Linux Tex - YouTube](https://www.youtube.com/@linuxtex)
+[The Linux Experiment - YouTube](https://www.youtube.com/@TheLinuxEXP)
 
 [The Linux Documentation Project](http://www.tldp.org/)
 [The Linux Information Project (LINFO) Home Page](http://www.linfo.org/index.html)
@@ -70,7 +72,7 @@ To distinguish GNU and Linux, and why it is not "correct" to say Linux system, r
 [Unix vs. Linux: The Differences Between and Why It Matters](https://www.makeuseof.com/tag/linux-vs-unix-crucial-differences-matter-linux-professionals/)
 
 [GNU Userland | Linux.org](http://www.linux.org/threads/gnu-userland.7429/)
-[List of GNU packages - Wikiwand](http://www.wikiwand.com/en/List_of_GNU_packages)
+[List of GNU packages - Wikiwand](https://www.wikiwand.com/en/List_of_GNU_packages)
 [GNU-Binutils | Linux.org](http://www.linux.org/threads/gnu-binutils.6544/)
 [GNU Toolchain Explained | Linux.org](http://www.linux.org/threads/gnu-toolchain-explained.6469/)
 
@@ -89,8 +91,8 @@ To distinguish GNU and Linux, and why it is not "correct" to say Linux system, r
 
 ## Distros
 
-[Linux distribution - Wikiwand](http://www.wikiwand.com/en/Linux_distribution)
-[List of Linux distributions - Wikiwand](http://www.wikiwand.com/en/List_of_Linux_distributions)
+[Linux distribution - Wikiwand](https://www.wikiwand.com/en/Linux_distribution)
+[List of Linux distributions - Wikiwand](https://www.wikiwand.com/en/List_of_Linux_distributions)
 [GNU/Linux Distribution Timeline](http://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
 Well, Android is also a [Linux distro](http://www.linux.org/threads/android-and-its-derivatives.6145/) with its own forks.
 [What Are The Components Of A Linux Distribution?](https://fosspost.org/education/what-are-the-components-of-a-linux-distribution)
@@ -244,9 +246,9 @@ faillock --user <user> --reset
 [Desktop environment - ArchWiki](https://wiki.archlinux.org/title/Desktop_environment)
 [Category:Desktop environments - ArchWiki](https://wiki.archlinux.org/title/Category:Desktop_environments)
 [Display manager - ArchWiki](https://wiki.archlinux.org/title/Display_manager)
-[Comparison of X Window System desktop environments - Wikiwand](http://www.wikiwand.com/en/Comparison_of_X_Window_System_desktop_environments)
-[X Window System - Wikiwand](http://www.wikiwand.com/en/X_Window_System)
-[AIGLX - Wikiwand](http://www.wikiwand.com/en/AIGLX)
+[Comparison of X Window System desktop environments - Wikiwand](https://www.wikiwand.com/en/Comparison_of_X_Window_System_desktop_environments)
+[X Window System - Wikiwand](https://www.wikiwand.com/en/X_Window_System)
+[AIGLX - Wikiwand](https://www.wikiwand.com/en/AIGLX)
 
 [The 8 best desktop environments for Linux | CIO](http://www.cio.com/article/2885122/linux/the-8-best-desktop-environments-for-linux.html)
 [10 Best Linux Desktop Environments And Their Comparison | 2018 Edition](https://fossbytes.com/best-linux-desktop-environments/)
@@ -293,7 +295,7 @@ Based on GNOME shell, tiling WM, written in Rust
 
 Minimal, modern desktop written in Qt and Go.
 
-[Deepin - Wikiwand](http://www.wikiwand.com/en/Deepin)
+[Deepin - Wikiwand](https://www.wikiwand.com/en/Deepin)
 [Deepin Desktop Environment - ArchWiki](https://wiki.archlinux.org/title/Deepin_Desktop_Environment)
 [Original Apps | deepin provides a powerful driving force for computers all over the world!](https://www.deepin.org/soft.html)
 
@@ -304,7 +306,7 @@ Minimal, modern desktop written in Qt and Go.
 
 OS X like desktop that is [ported to OS X](http://blog.elementary.io/post/142076012991/introducing-elementary-for-os-x).
 
-[Elementary OS - Wikiwand](http://www.wikiwand.com/en/Elementary_OS)
+[Elementary OS - Wikiwand](https://www.wikiwand.com/en/Elementary_OS)
 [Pantheon - ArchWiki](https://wiki.archlinux.org/title/Pantheon)
 [Get Involved with elementary OS](https://elementary.io/get-involved)
 
@@ -705,7 +707,7 @@ gsettings = cross-platform config with schema validation
 [Projects/dconf - GNOME Wiki!](https://wiki.gnome.org/action/show/Projects/dconf)
 [Apps/DconfEditor - GNOME Wiki!](https://wiki.gnome.org/Apps/DconfEditor)
 [dconf: dconf Reference Manual](https://developer.gnome.org/dconf/unstable/dconf-overview.html)
-[dconf - Wikiwand](http://www.wikiwand.com/en/Dconf)
+[dconf - Wikiwand](https://www.wikiwand.com/en/Dconf)
 
 ```sh
 gsettings list-schemas
@@ -828,7 +830,6 @@ fn+F10 172 (0xac) Key name KEY_HOMEPAGE
 ### `sxhkd`
 
 #keymap
-`
 
 > X input events to commands, supports chord
 
@@ -847,6 +848,8 @@ The keysym names are given by the output of `xev -event keyboard`.
 [Sxhkd: Configuring Window Manager Independent Keybindings - YouTube](https://www.youtube.com/watch?v=PmZAxNSdkQ8)
 
 add `sxhkd.desktop` to `~/.local/share/applications/` and add to UI shell's Start Up Applications
+
+[dots/config/sxhkd/sxhkdrc at master · arkhan/dots](https://github.com/arkhan/dots/blob/master/config/sxhkd/sxhkdrc)
 
 ### xbindkeys
 
@@ -903,9 +906,9 @@ XFree86 -> X Org
 [The Linux Graphics Stack | Clean Rinse](http://blog.mecheye.net/2012/06/the-linux-graphics-stack/)
 [Wayland](http://wayland.freedesktop.org/)
 
-[X Window System - Wikiwand](http://www.wikiwand.com/en/X_Window_System)
-[Display server - Wikiwand](http://www.wikiwand.com/en/Display_server)
-[Windowing system - Wikiwand](http://www.wikiwand.com/en/Windowing_system)
+[X Window System - Wikiwand](https://www.wikiwand.com/en/X_Window_System)
+[Display server - Wikiwand](https://www.wikiwand.com/en/Display_server)
+[Windowing system - Wikiwand](https://www.wikiwand.com/en/Windowing_system)
 
 [[Linux.conf.au 2013] - The real story behind Wayland and X - YouTube](https://www.youtube.com/watch?v=cQoQE_HDG8g)
 
@@ -1084,13 +1087,24 @@ Application Options:
 [winepak - Flatpak-ing Microsoft Windows applications with Wine](https://www.winepak.org/)
 [winepak](https://github.com/winepak)
 
+[scottyhardy/docker-wine: Docker image that includes Wine and Winetricks for running Windows applications on Linux and macOS](https://github.com/scottyhardy/docker-wine)
+
+### Bottles
+
 [Welcome - Bottles](https://docs.usebottles.com/) manages Wine environments (`wineprefixes`)
 [Run Windows Software On Linux With Bottles - OSTechNix](https://ostechnix.com/run-windows-software-on-linux-with-bottles/)
 [Why Bottles? - Bottles](https://docs.usebottles.com/faq/why-bottles)
 
-[scottyhardy/docker-wine: Docker image that includes Wine and Winetricks for running Windows applications on Linux and macOS](https://github.com/scottyhardy/docker-wine)
+## WinBoat
 
-### Bottles
+[WinBoat - Run Windows Apps on Linux with Seamless Integration](https://www.winboat.app/)
+[TibixDev/winboat: Run Windows apps on 🐧 Linux with ✨ seamless integration](https://github.com/TibixDev/winboat)
+[This free and open-source app runs any Windows app on Linux with ease](https://www.xda-developers.com/winboat-free-open-source-runs-windows-app-on-linux/)
+
+## WinApps
+
+[winapps-org/winapps: Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/](https://github.com/winapps-org/winapps)
+[WinApps could put an end to using full Windows on my PC (with some work)](https://www.xda-developers.com/winapps-put-end-using-full-windows-my-pc/)
 
 ## #perfmatters
 

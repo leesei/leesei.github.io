@@ -2,7 +2,7 @@
 title: JavaScript Pipeline (Archives)
 description: Archived JavaScript Pipeline notes
 created: 2021-02-26
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - archived
   - bundler
@@ -478,7 +478,7 @@ if (opts.watch) {
 
 ### dynamic requires
 
-[javascript - Compiling dynamically required modules with Browserify - Stack Overflow](http://stackoverflow.com/questions/21642398/compiling-dynamically-required-modules-with-browserify)
+[javascript - Compiling dynamically required modules with Browserify - Stack Overflow](https://stackoverflow.com/questions/21642398/compiling-dynamically-required-modules-with-browserify)
 [capaj/require-globify](https://github.com/capaj/require-globify)
 [substack/bulkify](https://github.com/substack/bulkify)
 

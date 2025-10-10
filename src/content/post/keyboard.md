@@ -2,7 +2,7 @@
 title: Keyboard
 description: ""
 created: 2015-06-15
-updated: 2025-04-28
+updated: 2025-08-26
 tags:
   - comp/hardware
   - logitech
@@ -44,7 +44,7 @@ Clicky: jade
 
 ## Layout
 
-[Keyboard layout - Wikiwand](http://www.wikiwand.com/en/Keyboard_layout)
+[Keyboard layout - Wikiwand](https://www.wikiwand.com/en/Keyboard_layout)
 [Myth of QWERTY vs Dvorak Layout](http://xahlee.info/kbd/myth_of_qwerty_dvorak_layout.html)
 
 [QWERTY vs Dvorak As Fast as Possible - YouTube](https://www.youtube.com/watch?annotation_id=annotation_1042960797&feature=iv&src_vid=bLBKUbnLYTs&v=tIJNusYZXMA)
@@ -90,6 +90,8 @@ Perixx Periduo-505 (Mouse Combo) ¥298 from Taobao @2021-08
 
 - ARM Cortex-M4 32-bit STM32L432 (128KB Flash)
 - Hot-swappable Switch (5 pin & 3 pin)
+- Fn+Tab: toggle backlight
+- Fn+S: Cycle backlight patterns
 
 [Keychron V10 User Guide – Keychron | Mechanical Keyboards for Mac, Windows and Android](https://www.keychron.com/pages/keychron-v10-user-guide)
 [How to Disassemble the Keychron V series Keyboard – Keychron | Mechanical Keyboards for Mac, Windows and Android](https://www.keychron.com/blogs/archived/how-to-disassemble-the-keychron-v-series-keyboard)

@@ -2,7 +2,7 @@
 title: Wood and Metal Work
 description: ""
 created: 2018-08-31
-updated: 2025-04-14
+updated: 2025-08-10
 tags:
   - maker
 ---
@@ -15,6 +15,7 @@ tags:
 [老師傅終於可以安心退休？台灣一年賣 2000 億的螺絲 扣件產業的未來【超認真少年】 - YouTube](https://www.youtube.com/watch?v=isMyLbqoVXE)
 
 [Why Are There so Many Types of Screws?! - YouTube](https://www.youtube.com/watch?v=5cA9bZRHpZE)
+[What Pros Know About Screws. That Beginners Don't. - YouTube](https://www.youtube.com/watch?v=SMYbr93rsCE)
 
 [8 种你必须知道的螺丝 - YouTube](https://www.youtube.com/watch?v=VciyRyBnWGw)
 
@@ -34,7 +35,7 @@ M3 screw thin thread
 [ISO metric screw thread - Wikiwand](https://www.wikiwand.com/en/ISO_metric_screw_thread)
 
 [Tutorial on Choosing Screw Type, Size Strength](http://store.curiousinventor.com/guides/Metal_Working/Screws)
-
+[7 Things Pros Know about Screws That Beginners Don't - YouTube](https://www.youtube.com/watch?v=D0IEGweeKlU)
 M4 screws for 86 electrical box
 
 [螺絲滑牙救星!!! 3 種方式究竟哪一招最有效?｜ How to remove stripped screws ｜ DIY 實測｜【宅水電】 - YouTube](https://www.youtube.com/watch?v=sRNZo0mtMcg)
@@ -81,10 +82,24 @@ Electronic torque control will stop the motor when torque maxed out and have mor
 [Woodworking - Wikiwand](https://www.wikiwand.com/en/Woodworking)
 [Fine Woodworking Tools & Hand Tools](https://www.highlandwoodworking.com/)
 
+[Five Duck Studio - YouTube](https://www.youtube.com/@fiveduckstudio)
 [Foureyes Furniture - YouTube](https://www.youtube.com/@Foureyes.Furniture)
 [Project Zero Cables - The Cleanest Desk Setup EVER - YouTube](https://www.youtube.com/watch?v=qI2vmqANYcE)
+[Woodworking Channels YouTube Is Hiding From YOU! - YouTube](https://www.youtube.com/watch?v=UTP9ab0S5Z0)
 
 [客觀評價中國古建築木結構和榫卯水平。真不用一根釘子？和歐洲比如何？不自吹不自貶。 | 大鳥俠BigBirdXia - YouTube](https://www.youtube.com/watch?v=EymYrXNPEk0)
+
+[【木工初學者】必須知道的 XX【超認真少年】wood working beginner's tool - YouTube](https://www.youtube.com/watch?v=bUuz_ed2JUE)
+[30 分鐘刻窗花 算快嗎？超實用木工工具推薦清單 鏈鋸 手鋸 雕刻機 CNC【超認真少年】Woodworking: 6 Cutting Tools - Cubiio X, Hand Saw,CNC - YouTube](https://www.youtube.com/watch?v=t5J9PaWvHBM)
+
+[安裝木門與框示範 - YouTube](https://www.youtube.com/watch?v=9Hpbrrnvk7s)
+[实木表面保护产品对比。木油，木蜡，聚氨酯分别如何使用？表面是什么效果？产品中英文名称对照在下面说明区。KENDI DIY - YouTube](https://www.youtube.com/watch?v=WqB8eSkh_TE)
+[How to Paint Kitchen Cabinets Without Brush Marks - Dengarden](https://dengarden.com/home-improvement/How-to-Paint-Kitchen-Cabinets-Without-Brush-Marks)
+
+[A forgotten technology from the old days of woodworking! (Cut nails) - YouTube](https://www.youtube.com/watch?v=7rwcGXIORro)
+
+### Wood type
+
 [花十几万买了一堆金丝楠乌木，几年后仅剩十分之一，大家却说太值了「老蒋根雕」 - YouTube](https://www.youtube.com/watch?v=HlpwIOPbCAs)
 
 [Wooden Ren - YouTube](https://www.youtube.com/c/mylove348) 木頭仁
@@ -101,14 +116,17 @@ Electronic torque control will stop the motor when torque maxed out and have mor
 - 櫻桃木 Cherry, 明顯木紋, 不耐蟲, slow growing
 - 胡桃木 Walnut, slow growing
 
-[【木工初學者】必須知道的 XX【超認真少年】wood working beginner's tool - YouTube](https://www.youtube.com/watch?v=bUuz_ed2JUE)
-[30 分鐘刻窗花 算快嗎？超實用木工工具推薦清單 鏈鋸 手鋸 雕刻機 CNC【超認真少年】Woodworking: 6 Cutting Tools - Cubiio X, Hand Saw,CNC - YouTube](https://www.youtube.com/watch?v=t5J9PaWvHBM)
+[In Time Of - YouTube](https://www.youtube.com/@InTimeOf)
+[DIY 木工房｜木頭亦有軟硬之分？ - YouTube](https://www.youtube.com/watch?v=pEtMmOewjHQ)
 
-[安裝木門與框示範 - YouTube](https://www.youtube.com/watch?v=9Hpbrrnvk7s)
-[实木表面保护产品对比。木油，木蜡，聚氨酯分别如何使用？表面是什么效果？产品中英文名称对照在下面说明区。KENDI DIY - YouTube](https://www.youtube.com/watch?v=WqB8eSkh_TE)
-[How to Paint Kitchen Cabinets Without Brush Marks - Dengarden](https://dengarden.com/home-improvement/How-to-Paint-Kitchen-Cabinets-Without-Brush-Marks)
+[軟木 - Wikiwand](https://www.wikiwand.com/zh-hk/articles/%E8%BB%9F%E6%9C%A8)
+[Softwood - Wikiwand](https://www.wikiwand.com/en/articles/Softwood) gymnosperm: pine
 
-[A forgotten technology from the old days of woodworking! (Cut nails) - YouTube](https://www.youtube.com/watch?v=7rwcGXIORro)
+[硬木 - Wikiwand](https://www.wikiwand.com/zh-hk/articles/%E7%A1%AC%E6%9C%A8)
+[Hardwood - Wikiwand](https://www.wikiwand.com/en/articles/Hardwood) angiosperm trees: oak, 酸枝, 花梨
+
+[軟木 (材料) - Wikiwand](<https://www.wikiwand.com/zh-tw/articles/%E8%BB%9F%E6%9C%A8_(%E6%9D%90%E6%96%99)>)
+[Cork (material) - Wikiwand](<https://www.wikiwand.com/en/articles/Cork_(material)>)
 
 ## Metalworking
 

@@ -2,7 +2,7 @@
 title: Comics
 description: ""
 created: 2015-04-24
-updated: 2025-02-16
+updated: 2025-09-09
 tags:
   - comics
 ---
@@ -19,6 +19,7 @@ The Code was ignored by comic publishers and comics addresses social issues. Ton
 Modern: 1985-today
 More focus on the mental beings of the heroes and villains.
 
+[Read Comics Online for Free | BatCave.biz](https://batcave.biz/)
 [siufublog](https://siufublog.wordpress.com/)
 [The History Of The Marvel Vs DC Rivalry - YouTube](https://www.youtube.com/watch?v=sXmyW7rCVR0)
 
@@ -81,6 +82,7 @@ More focus on the mental beings of the heroes and villains.
 DC adopts the parallel universe concept, first in Flash, in order to crossover heroes of different origins.
 
 [DC Database | Fandom](https://dc.fandom.com/wiki/DC_Comics_Database)
+[All Star Superman (2006) Comics Online Free | High-Quality Scans](https://batcave.biz/7668-all-star-superman-2006.html)
 
 # Captain Marvel vs Captain Marvel
 

@@ -2,7 +2,7 @@
 title: Shell notes
 description: ""
 created: 2014-12-08
-updated: 2025-02-16
+updated: 2025-08-01
 tags:
   - linux
   - shell
@@ -109,6 +109,8 @@ Honorable mentions:
 - [SukkaW/dotfiles: 🔧 My development environment and config](https://github.com/SukkaW/dotfiles) install script to bootstrap
 - [ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles)
 
+### Management
+
 [Yet Another Dotfiles Manager - yadm](https://yadm.io/)
 [direnv – unclutter your .profile | direnv](https://direnv.net/)
 [I'm never using .env files ever again - YouTube](https://www.youtube.com/watch?v=udezempDBVQ)
@@ -130,7 +132,7 @@ Honorable mentions:
 [TechDufus/dotfiles: Fully automated development environment for TechDufus using ansible.](https://github.com/techdufus/dotfiles)
 [Automating your Dotfiles with Ansible: A Showcase - YouTube](https://www.youtube.com/watch?v=hPPIScBt4Gw)
 
-### dotfiler
+#### dotfiler
 
 [svetlyak40wt/dotfiler: Shell agnostic git based dotfiles package manager, written in Python.](https://github.com/svetlyak40wt/dotfiler)
 put your dotfiles into environments, each mirroring files/folder in your `~/`
@@ -138,7 +140,7 @@ environments allow you to separate your configs into app-specific folders
 `dotfiler` supports common folder in different environments by creating the common folder and symlinking each file from the environments
 multiple repos can be used to merge common and machine-specific configs
 
-### chezmoi
+#### chezmoi
 
 [Home | chezmoi.io](https://www.chezmoi.io/) also manage default apps with `run_once_*`
 [twpayne/chezmoi: Manage your dotfiles across multiple machines, securely.](https://github.com/twpayne/chezmoi)
@@ -146,12 +148,12 @@ multiple repos can be used to merge common and machine-specific configs
 [Linux Fu: The Kitchen Sync | Hackaday](https://hackaday.com/2019/01/10/linux-fu-the-kitchen-sync/)
 [The ultimate dotfiles setup - YouTube](https://www.youtube.com/watch?v=-RkANM9FfTM) chezmoi + ansible
 
-### gbck
+#### gbck
 
 [jukben/gbck: 🗳 Intuitive lightweight tool for an easy and seamless backup of your files into Git repository](https://github.com/jukben/gbck)
 [gbck— an easy way how to back up your dotfiles – Jakub Beneš – Medium](https://medium.com/@jukben/gbck-an-easy-way-how-to-back-up-your-dotfiles-2a9bf44ab622)
 
-### Stow
+#### Stow
 
 > suppose do not support common folder in different environments
 
@@ -195,7 +197,7 @@ fi
 
 ## Environment variable
 
-[Environment variable - Wikiwand](http://www.wikiwand.com/en/Environment_variable)
+[Environment variable - Wikiwand](https://www.wikiwand.com/en/Environment_variable)
 [Environment variables - ArchWiki](https://wiki.archlinux.org/title/Environment_variables)
 
 ## Frameworks
@@ -220,7 +222,7 @@ fi
 Follow [The Art of Unix Programming](http://www.faqs.org/docs/artu/), implement filters.
 [Simple filters in Perl, Ruby, and Bourne shell - TechRepublic](http://www.techrepublic.com/blog/software-engineer/simple-filters-in-perl-ruby-and-bourne-shell/)
 
-[Capturing output of find . -print0 into a bash array - Stack Overflow](http://stackoverflow.com/questions/1116992/capturing-output-of-find-print0-into-a-bash-array)
+[Capturing output of find . -print0 into a bash array - Stack Overflow](https://stackoverflow.com/questions/1116992/capturing-output-of-find-print0-into-a-bash-array)
 [Filenames and Pathnames in Shell (bash, dash, ash, ksh, and so on): How to do it Correctly](http://www.dwheeler.com/essays/filenames-in-shell.html)
 [Writing Safe Shell Scripts](https://sipb.mit.edu/doc/safe-shell/)
 
@@ -234,7 +236,7 @@ Follow [The Art of Unix Programming](http://www.faqs.org/docs/artu/), implement 
 [Sambal : Passing options to node on the shebang (#!) line](http://sambal.org/2014/02/passing-options-node-shebang-line/)
 [Executing Python Scripts With a Shebang – Real Python](https://realpython.com/python-shebang/)
 
-[`envns`](http://stackoverflow.com/a/25046028/665507):
+[`envns`](https://stackoverflow.com/a/25046028/665507):
 
 ```sh
 #!/bin/bash
@@ -372,7 +374,7 @@ vim $(which a.sh)
 
 ### Here Doc
 
-[linux - How can I write a here doc to a file in Bash script? - Stack Overflow](http://stackoverflow.com/questions/2953081/how-can-i-write-a-here-doc-to-a-file-in-bash-script)
+[linux - How can I write a here doc to a file in Bash script? - Stack Overflow](https://stackoverflow.com/questions/2953081/how-can-i-write-a-here-doc-to-a-file-in-bash-script)
 [Here Documents](http://tldp.org/LDP/abs/html/here-docs.html)
 
 This is a technique to embed string block in scripts and feed it to an interactive command.
@@ -653,8 +655,8 @@ done
 
 #### passing array to function
 
-[bash how to pass array as an argument to a function - Stack Overflow](http://stackoverflow.com/questions/16461656/bash-how-to-pass-array-as-an-argument-to-a-function)
-[Passing arrays as parameters in bash - Stack Overflow](http://stackoverflow.com/questions/1063347/passing-arrays-as-parameters-in-bash)
+[bash how to pass array as an argument to a function - Stack Overflow](https://stackoverflow.com/questions/16461656/bash-how-to-pass-array-as-an-argument-to-a-function)
+[Passing arrays as parameters in bash - Stack Overflow](https://stackoverflow.com/questions/1063347/passing-arrays-as-parameters-in-bash)
 
 ```sh
 # stringify and reconstruct
@@ -708,7 +710,7 @@ foo array1[@] array2[@]
 [dominictarr/JSON.sh: a pipeable JSON parser written in Bash](https://github.com/dominictarr/JSON.sh)
 [ShellCheck – Shell script analyzer](http://www.shellcheck.net/)
 
-[linux - Unit testing for shell scripts - Stack Overflow](http://stackoverflow.com/questions/971945/unit-testing-for-shell-scripts)
+[linux - Unit testing for shell scripts - Stack Overflow](https://stackoverflow.com/questions/971945/unit-testing-for-shell-scripts)
 [kward/shunit2](https://github.com/kward/shunit2)
 [Wiki Pages - shunit2 - shUnit2 - xUnit based unit testing for Unix shell scripts - Google Project Hosting](https://code.google.com/p/shunit2/w/list)
 [sstephenson/bats](https://github.com/sstephenson/bats)

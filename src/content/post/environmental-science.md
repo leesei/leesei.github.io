@@ -2,7 +2,7 @@
 title: Environmental Science
 description: On climate change and the mitigation, environment protection
 created: 2023-06-28
-updated: 2025-01-09
+updated: 2025-08-06
 tags:
   - climate
   - environment
@@ -14,6 +14,8 @@ tags:
 [Environmental Science - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOikZljhKAe28AkupJXnS2u) CrashCourse
 
 [The Story of Stuff Project - YouTube](https://www.youtube.com/@StoryofStuff) animated explains, environment protection
+
+「一粥一飯, 當思來處不易。半絲半縷, 恆念物力維艱。」 《朱子家訓》
 
 ## Carbon Removal/Carbon Capture and Storage
 

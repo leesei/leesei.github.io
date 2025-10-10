@@ -2,7 +2,7 @@
 title: Web Socket
 description: ""
 created: 2024-03-12
-updated: 2025-03-05
+updated: 2025-07-07
 tags:
   - comp/lang
   - rpc/web-socket
@@ -34,8 +34,6 @@ A persistent connection between the client and the server and both parties can s
 [WebSockets for fun and profit - Stack Overflow Blog](https://stackoverflow.blog/2019/12/18/websockets-for-fun-and-profit/)
 
 [Using WebSockets in React - DEV Community 👩‍💻👨‍💻](https://dev.to/finallynero/using-websockets-in-react-4fkp)
-
-[NodeUp: fortytwo - a scaling websockets show](http://nodeup.com/fortytwo)
 
 ## Kalm
 

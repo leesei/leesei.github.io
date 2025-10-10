@@ -2,7 +2,7 @@
 title: Shell Tools (Network)
 description: ""
 created: 2015-09-15
-updated: 2025-06-27
+updated: 2025-09-23
 tags:
   - app
   - iperf
@@ -145,6 +145,11 @@ nmap -sC -sV -oN namp/initial ${host}
 
 [Zenmap - Official cross-platform Nmap Security Scanner GUI](https://nmap.org/zenmap/)
 
+### nping
+
+[hanshuaikang/Nping: 🏎 Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations](https://github.com/hanshuaikang/Nping)
+[Nping: 网络诊断与故障排除的瑞士军刀](https://mp.weixin.qq.com/s?__biz=MzA5NzQ4ODk0Mw==&mid=2652794680&idx=1&sn=062873bda4352715743ca860396f0c12&exportkey=n_ChQIAhIQseub4Rdi2XOvV9Dc4cN/4RLcAQIE97dBBAEAAAAAAAiWNRXRAr0AAAAOpnltbLcz9gKNyK89dVj0iLthMW0Px4sM7ASem7wRLQmvSUI4poWHzENa753x+qrV0ZJqYLZFcIqts5sxfATFuc8+jQZV5h/TdtBzqeqhdEYZohZDJUsFeifX3ZAfaiztjTjStrW3n3OUEKNStyQp19hbS5i2Ah4pzdcJe7hE68dNrZ9fDuaJtV6vpZpktcA5jpIgLiaeSeMaSjJ8zvywGxcNGUSfoTWcWSvcHN5C9cnpQuzsQF6yErCSFd+fJmQDQ50+e5A=&poc_token=HOZ-0WijAVKfNficilzM5zglyPHeVInSpgMBsFUb)
+
 ### masscan
 
 > "quicker than Nmap but less detailed"
@@ -207,6 +212,7 @@ nc -vzu hostA 5060
 [Tcpdump 101 | Jacques DALBERA's IT world](https://itworldjd.wordpress.com/2014/02/07/tcpdump/)
 [A Quick and Practical Reference for tcpdump | Benjamin Cane](https://bencane.com/2014/10/13/quick-and-practical-reference-for-tcpdump/)
 [Masterclass – Tcpdump – Expressions - Packet Pushers](https://packetpushers.net/masterclass-tcpdump-expressions/)
+[Introduction · GitBook](https://nanxiao.github.io/tcpdump-little-book/)
 
 ```sh
 # dump traffic

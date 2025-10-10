@@ -2,13 +2,13 @@
 title: World War I
 description: ""
 created: 2015-06-07
-updated: 2025-01-22
+updated: 2025-07-07
 tags:
   - history
   - world-war
 ---
 
-[World War I - Wikiwand](http://www.wikiwand.com/en/World_War_I)
+[World War I - Wikiwand](https://www.wikiwand.com/en/World_War_I)
 [BBC - BBC World War One](https://www.bbc.co.uk/programmes/p01nb93y)
 [About WWI | National WWI Museum and Memorial](https://www.theworldwar.org/about-wwi) Interactive Timeline and Map
 [Modern History of World: What are some cool/unusual facts about soldiers in WWI and WWII? - Quora](https://www.quora.com/Modern-History-of-World-What-are-some-cool-unusual-facts-about-soldiers-in-WWI-and-WWII)
@@ -53,18 +53,14 @@ Bulgaria (1915-1918)
 [【講到流淚】二十分鐘講完第一次世界大戰 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=G5y85I52HRg)
 [The Entire History of World War One, I guess - YouTube](https://www.youtube.com/watch?v=lc5aq1L_mks)
 
-<http://podplayer.net/#/?id=3553> via @PodcastAddict
-[Dan Carlin's Hardcore History] Show 51 - Blueprint for Armageddon II
-<http://podplayer.net/#/?id=4590> via @PodcastAddict
-[Dan Carlin's Hardcore History] Show 52 - Blueprint for Armageddon III
-<http://podplayer.net/#/?id=13361706> via @PodcastAddict
-
-[Hardcore History 50 – Blueprint for Armageddon I](http://www.dancarlin.com/product/hardcore-history-50-blueprint-for-armageddon-i/)
-[Hardcore History 51 – Blueprint for Armageddon II](http://www.dancarlin.com/product/hardcore-history-51-blueprint-for-armageddon-ii/)
-[Hardcore History 52 – Blueprint for Armageddon III](http://www.dancarlin.com/product/hardcore-history-52-blueprint-for-armageddon-iii/)
-[Hardcore History 53 – Blueprint for Armageddon IV](http://www.dancarlin.com/hardcore-history-53-blueprint-for-armageddon-iv/)
-[Hardcore History 54 – Blueprint for Armageddon V](http://www.dancarlin.com/home-hh-54/)
-[Hardcore History 55 – Blueprint for Armageddon VI](http://www.dancarlin.com/hh-55/)
+[55 Blueprint For Armageddon VI Hardcore History : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/55-blueprint-for-armageddon-vi-hardcore-history)
+[Blueprint for Armageddon Series – Dan Carlin](https://www.dancarlin.com/product/hardcore-history-50-55-blueprint-for-armageddon-series/)
+[Hardcore History 50 – Blueprint for Armageddon I](https://www.dancarlin.com/product/hardcore-history-50-blueprint-for-armageddon-i/)
+[Hardcore History 51 – Blueprint for Armageddon II](https://www.dancarlin.com/product/hardcore-history-51-blueprint-for-armageddon-ii/)
+[Hardcore History 52 – Blueprint for Armageddon III](https://www.dancarlin.com/product/hardcore-history-52-blueprint-for-armageddon-iii/)
+[Hardcore History 53 – Blueprint for Armageddon IV](https://www.dancarlin.com/hardcore-history-53-blueprint-for-armageddon-iv/)
+[Hardcore History 54 – Blueprint for Armageddon V](https://www.dancarlin.com/product/hardcore-history-54-blueprint-armageddon-v/)
+[Hardcore History 55 – Blueprint for Armageddon VI](https://www.dancarlin.com/product/hardcore-history-55-blueprint-for-armageddon-vi/)
 
 The First World War (the Great war) breaks a century of tranquility between all the Great Powers since the downfall of Napoleon at Waterloo in 1815.
 It started out from the assassination of Austria-Hungary's Archduke, heir to the throne, by the Black Hands in Serbia on 28 June 1914 (The Sarajevo event). Austria-Hungary then declared war to Serbia.

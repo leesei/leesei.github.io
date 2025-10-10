@@ -2,7 +2,7 @@
 title: Data Analytics
 description: ""
 created: 2016-09-21
-updated: 2025-06-24
+updated: 2025-07-07
 tags:
   - big-data
 ---
@@ -13,15 +13,15 @@ tags:
 [[elastic-kibana]]
 [[jupyter]]
 
-[Analytics - Wikiwand](http://www.wikiwand.com/en/Analytics)
+[Analytics - Wikiwand](https://www.wikiwand.com/en/Analytics)
 [Data Analytics Reference Stack | Clear Linux\* Project](https://clearlinux.org/stacks/data-analytics)
 [Data Science Timeline - Noteworthy - The Journal Blog](https://blog.usejournal.com/data-science-timeline-305ef75dceb6)
 [Data Analyst VS Data Scientist – What's the Difference?](https://www.freecodecamp.org/news/data-analyst-vs-data-scientist-whats-the-difference/)
 
-[Software analytics - Wikiwand](http://www.wikiwand.com/en/Software_analytics)
+[Software analytics - Wikiwand](https://www.wikiwand.com/en/Software_analytics)
 [Web analytics - Wikiwand](https://www.wikiwand.com/en/Web_analytics)
-[IT operations analytics - Wikiwand](http://www.wikiwand.com/en/IT_operations_analytics)
-[Session (web analytics) - Wikiwand](<http://www.wikiwand.com/en/Session_(web_analytics)>)
+[IT operations analytics - Wikiwand](https://www.wikiwand.com/en/IT_operations_analytics)
+[Session (web analytics) - Wikiwand](<https://www.wikiwand.com/en/Session_(web_analytics)>)
 
 [Behavioral analytics - Wikiwand](https://www.wikiwand.com/en/Behavioral_analytics)
 not to be confused with User Behavioral Analytics, used in security context for threat detection
@@ -189,10 +189,10 @@ Beam is introducing a framework through which APIs in languages other than Java 
 [Comparison of top data science libraries for Python, R and Scala [Infographic] - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/comparison-of-top-data-science-libraries-for-python-r-and-scala)
 
 [Kaggle: Your Home for Data Science](https://www.kaggle.com/)
-[Introduction to Data Science](http://www.infoq.com/presentations/introduction-data-science)
-[Explore Your Data: The Fundamentals of Network Analysis](http://www.infoq.com/presentations/network-analysis)
+[Introduction to Data Science](https://www.infoq.com/presentations/introduction-data-science)
+[Explore Your Data: The Fundamentals of Network Analysis](https://www.infoq.com/presentations/network-analysis)
 
-[Design vs. Data: Enemies or Friends?](http://www.infoq.com/presentations/design-data) how to evolve and extent a code base.
+[Design vs. Data: Enemies or Friends?](https://www.infoq.com/presentations/design-data) how to evolve and extent a code base.
 
 [Cathy O'Neil on Weapons of Math Destruction | EconTalk | Library of Economics and Liberty](http://www.econtalk.org/archives/2016/10/cathy_oneil_on_1.html) crucial decision made based on machine learn statistics is unreliable as no one really know how the algorithm works
 

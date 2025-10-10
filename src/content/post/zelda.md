@@ -2,7 +2,7 @@
 title: The Legend of Zelda
 description: ""
 created: 2023-06-06
-updated: 2025-02-16
+updated: 2025-07-07
 tags:
   - games
   - zelda

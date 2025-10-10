@@ -2,7 +2,7 @@
 title: Mesos
 description: ""
 created: 2016-03-21
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - dev/deploy
   - devops
@@ -36,14 +36,14 @@ Mesos is best run on bare metal or on VM.
 ## Mini-Mesos
 
 [minimesos.org - Testing infrastructure for Mesos frameworks](https://minimesos.org/)
-[Mini-Mesos: What’s a Nice XPer Doing in a Company Like This? - The New Stack](http://thenewstack.io/mini-mesos/)
+[Mini-Mesos: What’s a Nice XPer Doing in a Company Like This? - The New Stack](https://thenewstack.io/mini-mesos/)
 
 ## Mesosphere
 
 [Introducing The Mesosphere Datacenter Operating System](https://mesosphere.com/) [GitHub](https://github.com/mesosphere)
 [Blog - Mesosphere](https://mesosphere.com/blog/)
 
-[Mesosphere OS manages entire data centers with one click | InfoWorld](http://www.infoworld.com/article/2933324/data-center/mesosphere-os-manages-entire-data-centers-with-one-click.html)
+[Mesosphere OS manages entire data centers with one click | InfoWorld](https://www.infoworld.com/article/2933324/data-center/mesosphere-os-manages-entire-data-centers-with-one-click.html)
 [Taking Mesos to the next level with DC/OS](https://mesosphere.com/blog/2016/04/19/hindman-mesos-dcos/)
 
 ## Marathon
@@ -58,14 +58,14 @@ Marathon is used for long running services.
 
 ## Chronos
 
-[Chronos: Fault tolerant job scheduler for Mesos](http://mesos.github.io/chronos/)
+[Chronos: Fault tolerant job scheduler for Mesos](https://mesos.github.io/chronos/)
 [mesos/chronos: Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules](https://github.com/mesos/chronos)
 Chronos is used to execute services at particular time, like cron, for batch processing.
 
 ## Aurora
 
-[Apache Aurora](http://aurora.apache.org/) [GitHub](https://github.com/apache/aurora)
+[Apache Aurora](https://aurora.apache.org/) [GitHub](https://github.com/apache/aurora)
 Aurora is a Mesos framework for long-running services and batch jobs. It is build by Twitter and the creator Bill Farner joined Docker Inc.
 
 [Introduction to Apache Aurora - YouTube](https://www.youtube.com/watch?v=asd_h6VzaJc)
-[mesos - Marathon vs Aurora and their purposes - Stack Overflow](http://stackoverflow.com/questions/28651922/marathon-vs-aurora-and-their-purposes)
+[mesos - Marathon vs Aurora and their purposes - Stack Overflow](https://stackoverflow.com/questions/28651922/marathon-vs-aurora-and-their-purposes)

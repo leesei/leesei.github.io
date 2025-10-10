@@ -2,7 +2,7 @@
 title: New Energy Source
 description: Renewable Energy, Non-fossil Energy"
 created: 2015-11-04
-updated: 2025-03-05
+updated: 2025-07-07
 tags:
   - energy
   - science
@@ -73,7 +73,7 @@ Two Bit da Vinci
 
 ## Plasma
 
-[Plasma gasification - Wikiwand](http://www.wikiwand.com/en/Plasma_gasification)
+[Plasma gasification - Wikiwand](https://www.wikiwand.com/en/Plasma_gasification)
 [How Plasma Converters Work - HowStuffWorks](http://science.howstuffworks.com/environmental/energy/plasma-converter.htm)
 [How Plasma Waste Converters Work | Stuff You Should Know: The Podcast](http://www.stuffyoushouldknow.com/podcasts/please-listen-to-how-plasma-waste-converters-work/)
 [The Cold Plasma Wand That Heals (Microjet)⚡ - YouTube](https://www.youtube.com/watch?v=wOV8kliF4eo)

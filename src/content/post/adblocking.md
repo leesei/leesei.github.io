@@ -2,7 +2,7 @@
 title: Adblocking
 description: ""
 created: 2018-07-27
-updated: 2025-01-09
+updated: 2025-08-25
 tags:
   - web
 ---
@@ -28,6 +28,12 @@ Adblocker allows Google to filter out those who won't click ads, this increases 
 [uBlock Origin - Wikiwand](https://www.wikiwand.com/en/UBlock_Origin)
 [Home · gorhill/uBlock Wiki](https://github.com/gorhill/uBlock/wiki)
 [uBlock vs. ABP: efficiency compared · gorhill/uBlock Wiki](https://github.com/gorhill/uBlock/wiki/uBlock-vs.-ABP:-efficiency-compared)
+
+```
+# hide same household block
+# also hides UI overlay
+div.nf-modal.interstitial-full-screen[component]
+```
 
 ## ~~Nano Adblocker~~
 

@@ -2,7 +2,7 @@
 title: crypto-rsa-example
 description: ""
 created: 2024-01-23
-updated: 2025-03-26
+updated: 2025-07-07
 tags:
   - crypto
   - cryptography

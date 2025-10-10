@@ -2,7 +2,7 @@
 title: 中國歷史
 description: ""
 created: 2015-10-09
-updated: 2025-07-06
+updated: 2025-09-26
 tags:
   - history
   - history/chinese
@@ -13,6 +13,7 @@ tags:
 [中国历史 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2)
 [《中华上下五千年》在线阅读-名著小说全文阅读-读书 369](http://www.dushu369.com/gushi/zhsxwqn/)
 [主頁 | 中國文化研究院 - 燦爛的中國文明](https://chiculture.org.hk/)
+[知史 - 首頁](https://www.mychistory.com/)
 [History of China - Wikiwand](https://www.wikiwand.com/en/History_of_China)
 [Ancient China: Religion and Dynasties | HISTORY.com - HISTORY](https://www.history.com/topics/ancient-china)
 
@@ -23,19 +24,23 @@ tags:
 [歷史的拐點 The Turning Points of Chinese History - YouTube](https://www.youtube.com/playlist?list=PLGm8cxDg-l7OO4IY6ORTzatcUsbXBDSic)
 [中國古代史，做了一個合集，附時間戳 |動畫中國歷史簡介|夏|商|周|春秋|戰國|秦朝|漢朝|三國|晉朝|隋|唐|宋|元|明|清|秦始皇|漢武帝|劉邦|項羽|曹操|劉邦|司馬懿|趙匡胤|康熙|朱元璋 - YouTube](https://www.youtube.com/watch?v=C9Qie0RFSLQ)
 
-[台灣光復 - YouTube](https://www.youtube.com/playlist?list=PLoiYkHy1rNjnnxnQeIF_N-Uxx3xsBIdak)
-[中華文明五千年 01-15 (all) - YouTube](https://www.youtube.com/playlist?list=PLQQAWI4dNUofkZXAOxaTx7tBoDj44O94R)
-[【中国通史/ChinaHistory 百集历史纪录片】中国迄今为止规模最大的一部历史专题片 - YouTube](https://www.youtube.com/playlist?list=PLOrf2h5ONlwUTW9etWK4b3xQiz8LdgkKS)
-[中國通史 粵語 - YouTube](https://www.youtube.com/playlist?list=PLri61F2aPbPxJ9VQ-5tvaWzhVDyA3tYQt)
-[【Chang'an Meets Rome】从长安到罗马 Ⅰ ｜唤起“沉睡”的丝绸之路，长安与罗马再次牵手 - YouTube](https://www.youtube.com/playlist?list=PLqid5YompiAgTlHR-YY7aHKBhfujWNJel)
-[Chinese History - YouTube](https://www.youtube.com/playlist?list=PLaBYW76inbX7-09r2c5HvE8OHFwePbgV6) Kings and Generals
+[LIFEANO CLUB - YouTube](https://www.youtube.com/@yuansir/) 袁腾飞
 [NewTV Documentary 华语纪录片 - YouTube](https://www.youtube.com/@documentarychinatv)
 [信息素官方 - YouTube](https://www.youtube.com/@xinxisu_1003)
-[LIFEANO CLUB - YouTube](https://www.youtube.com/@yuansir/playlists) 袁腾飞
 [地图里的故事 - YouTube](https://www.youtube.com/@DiTuLiDeGuShi)
-[歷史面面觀 - YouTube](https://www.youtube.com/@history_aspects)
 [李天豪 - YouTube](https://www.youtube.com/@leecehao)
+[歷史面面觀 - YouTube](https://www.youtube.com/@history_aspects)
+[纪实文学馆 - YouTube](https://www.youtube.com/@Chinese.talkshows)
+[罗振宇-罗辑思维 - Luogic TalkShow - YouTube](https://www.youtube.com/@LuogicTalk) 羅振宇 文明之旅, ❗!important
 [蘇老拳 - YouTube](https://www.youtube.com/@PandaSuHistory)
+[艺述史 - YouTube](https://www.youtube.com/@%E8%89%BA%E8%BF%B0%E5%8F%B2)
+
+[【Chang'an Meets Rome】从长安到罗马 Ⅰ ｜唤起“沉睡”的丝绸之路，长安与罗马再次牵手 - YouTube](https://www.youtube.com/playlist?list=PLqid5YompiAgTlHR-YY7aHKBhfujWNJel)
+[【中国通史/ChinaHistory 百集历史纪录片】中国迄今为止规模最大的一部历史专题片 - YouTube](https://www.youtube.com/playlist?list=PLOrf2h5ONlwUTW9etWK4b3xQiz8LdgkKS)
+[Chinese History - YouTube](https://www.youtube.com/playlist?list=PLaBYW76inbX7-09r2c5HvE8OHFwePbgV6) Kings and Generals
+[中國通史 粵語 - YouTube](https://www.youtube.com/playlist?list=PLri61F2aPbPxJ9VQ-5tvaWzhVDyA3tYQt)
+[中華文明五千年 01-15 (all) - YouTube](https://www.youtube.com/playlist?list=PLQQAWI4dNUofkZXAOxaTx7tBoDj44O94R)
+[台灣光復 - YouTube](https://www.youtube.com/playlist?list=PLoiYkHy1rNjnnxnQeIF_N-Uxx3xsBIdak)
 
 [封建制度 (中國) - Wikiwand](<https://www.wikiwand.com/zh/%E5%B0%81%E5%BB%BA%E5%88%B6%E5%BA%A6_(%E4%B8%AD%E5%9C%8B)>)
 [六藝 - Wikiwand](https://www.wikiwand.com/zh/%E5%85%AD%E8%89%BA)
@@ -82,6 +87,7 @@ tags:
 
 [古代為何會出現複姓？全因這 4 個來源 - 歷史 - 網推](https://www.chinatimes.com/hottopic/20220129001717-260812?chdtv)
 複姓出現原因其實很複雜，但最主要與「封邑名、官名、居地名、部族名」4 種來源有關，例如，上官、梁丘屬於封邑名；司馬、司徒、司空、太史為官名；西門、東郭則為居住地；尉遲、呼延及宇文是部族名。
+[司馬、獨孤、上官...歷史上那些罕見的復姓,如今都去哪了?【藝述史】 - YouTube](https://www.youtube.com/watch?v=OgZCw6qBQ30)
 
 [最尊貴的『上古八大姓』是哪八個？如今還剩幾個？ - YouTube](https://www.youtube.com/watch?v=IRzeMLQXpnI)
 [你知道你的姓氏是怎麼來的嗎？中國百家姓的秘密|Do you know where your last name came from? - YouTube](https://www.youtube.com/watch?v=30ySetmdYR8)
@@ -194,15 +200,21 @@ tags:
 [大盤點 ► 俄國到底強佔了中國多少土地 ? 怎麼不敢要回來 ? - YouTube](https://www.youtube.com/watch?v=V0gcvVvt5PM)
 [中國、琉球與日本的愛恨情仇 ▶ 這 500 年發生了什麼事 - YouTube](https://www.youtube.com/watch?v=vq-0-wIlD0g)
 
-## 良渚
+## 仰韶文化
+
+[仰韶文化 - Wikiwand](https://www.wikiwand.com/zh/articles/%E4%BB%B0%E9%9F%B6%E6%96%87%E5%8C%96) 5000BC-2700BC 西安半坡
+
+## 良渚文化
+
+[良渚文化 - Wikiwand](https://www.wikiwand.com/zh/articles/%E8%89%AF%E6%B8%9A%E6%96%87%E5%8C%96) 3300BC-2000BC 長江流域中下游
 
 [良渚遗址，五千年前的史前都邑，世界级的大工程，这是一期全面了解良渚遗址的视频 | 神王之国 | 良渚神徽 - YouTube](https://www.youtube.com/watch?v=C_OBnrkmeFU)
 
-## 仰韶
+## 龍山文化
 
-西安半坡
+[龙山文化 - Wikiwand](https://www.wikiwand.com/zh/articles/%E9%BE%8D%E5%B1%B1%E6%96%87%E5%8C%96) 3000BC-1900BC, 黄河中下游及淮河中游
 
-## 巴蜀
+## 巴蜀文化
 
 巴蜀文明分三個階段
 <https://youtu.be/yla3o6Dncys?t=295>
@@ -330,16 +342,18 @@ tags:
 
 [「千古一帝」秦始皇，究竟是殘忍暴君，還是英明有為的君主？｜【英雄故事書】#25 - YouTube](https://www.youtube.com/watch?v=jqfuvOMEMj4)
 
+[秦始皇的武器：考古學家挖出 8 尊從未見過的兵馬俑，發現了他們手中的武器，原來，這才是秦始皇統一中國的秘密……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=Byn6PdLxN6E)
+
 [秦始皇陵：水銀、祭壇、陰兵……2002 年考古學家全面勘探了秦始皇陵，五個驚奇浮出水面……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=pLxs6WclNMw)
 [秦始皇陵已開挖的部分：我們發現了來自西歐的修陵人，發現了秦始皇家族的復原頭像，還發現了兵馬俑、銅車馬背後的秘密……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=7fi4CuCIsec)
 [秦始皇陵中的黑科技：為什麼兵馬俑會塗裝藍色超導材料？兵馬俑真的是用活人燒成的嗎？為什麼說他們的兵器都是穿越的黑科技？細節當中，我們竟然讀出這麼多不可思議的黑科技故事……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=QamXrTW5z4Q)
-[秦始皇的武器：考古學家挖出 8 尊從未見過的兵馬俑，發現了他們手中的武器，原來，這才是秦始皇統一中國的秘密……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=Byn6PdLxN6E)
 [秦始皇的父親是誰？為什麼司馬遷要暗示他是呂不韋的私生子？秦始皇的皇后為什麼從史書上消失？還有他的弟弟和表叔，為什麼他身邊的親人都故意被刪除？破解四大懸案，我們來看看秦始皇的真面目……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=s8gMPsTmKek)
 [挖開 8000 尊兵馬俑，秦始皇當年究竟想讓我們看到什麽？2023 年 4 月，最的秦陵考古發現，似乎挖出了我們重未見過，也沒有沒有想過的驚奇真相，比如這尊栩栩如生的秦俑頭像……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=e5LVuX1D6AU)
 
 [存放完整，神秘莫測，千年來不被破壞的秦始皇陵隱藏了什麼？「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=BGxr6AS-6-o)
 [千古一帝秦始皇為何不立後？他到底想傳位給誰？揭秘始皇帝兩個最大秘密「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=BAtNHTx_uOc)
 [為何史書不曾記載兵馬俑？焚燬痕跡拜誰所賜？壯觀的兵馬俑背後的秘密「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=KIbloo82kbM)
+[中國863計劃，解開秦始皇陵沒有被盜的真正原因「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=itHj9MzCfvw)
 
 ## 漢
 
@@ -439,7 +453,12 @@ tags:
 李淵為北魏拓跋氏小弟, 鮮卑人, 本姓大野(Dayan, 蒙古語廣闊)
 在突厥支持下統一中國
 
-[唐太宗](https://www.wikiwand.com/zh-hant/articles/%E5%94%90%E5%A4%AA%E5%AE%97)「[貞觀之治](https://www.wikiwand.com/zh-hant/articles/%E8%B2%9E%E8%A7%80%E4%B9%8B%E6%B2%BB)」、[唐高宗](https://www.wikiwand.com/zh-hant/articles/%E5%94%90%E9%AB%98%E5%AE%97)「[永徽之治](https://www.wikiwand.com/zh-hant/articles/%E6%B0%B8%E5%BE%BD%E4%B9%8B%E6%B2%BB)」、[武則天](https://www.wikiwand.com/zh-hant/articles/%E6%AD%A6%E5%89%87%E5%A4%A9)「[貞觀遺風](https://www.wikiwand.com/zh-hant/articles/%E8%B2%9E%E8%A7%80%E9%81%BA%E9%A2%A8)」及[唐玄宗](https://www.wikiwand.com/zh-hant/articles/%E5%94%90%E7%8E%84%E5%AE%97)的「[開元盛世](https://www.wikiwand.com/zh-hant/articles/%E5%BC%80%E5%85%83%E7%9B%9B%E4%B8%96)」
+- [唐太宗](https://www.wikiwand.com/zh-hant/articles/%E5%94%90%E5%A4%AA%E5%AE%97)「[貞觀之治](https://www.wikiwand.com/zh-hant/articles/%E8%B2%9E%E8%A7%80%E4%B9%8B%E6%B2%BB)」
+- [唐高宗](https://www.wikiwand.com/zh-hant/articles/%E5%94%90%E9%AB%98%E5%AE%97)「[永徽之治](https://www.wikiwand.com/zh-hant/articles/%E6%B0%B8%E5%BE%BD%E4%B9%8B%E6%B2%BB)」
+- [武則天](https://www.wikiwand.com/zh-hant/articles/%E6%AD%A6%E5%89%87%E5%A4%A9)「[貞觀遺風](https://www.wikiwand.com/zh-hant/articles/%E8%B2%9E%E8%A7%80%E9%81%BA%E9%A2%A8)」
+- [唐玄宗](https://www.wikiwand.com/zh-hant/articles/%E5%94%90%E7%8E%84%E5%AE%97)「[開元盛世](https://www.wikiwand.com/zh-hant/articles/%E5%BC%80%E5%85%83%E7%9B%9B%E4%B8%96)」
+
+唐玄宗亦定下宗室管理的框架
 
 [1个朝鲜半岛人，却弄丢中国200万平方公里！为什么中国丢了中亚？ - YouTube](https://www.youtube.com/watch?v=gD5_Fkd_sFA) 恒羅斯之戰
 
@@ -468,15 +487,27 @@ tags:
 
 [海龍囤古堡：40 年前，考古隊意外闖入這座傳説中的古堡，然後，一個延續過 700 年的神秘家族浮出了水面……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=vxxnSBf5M3M) 播州楊氏, 於四川釣魚城誅滅蒙古大汗蒙哥, 間接拯救歐洲和中東
 
+### 王安石變法
+
+[熙豐變法 - Wikiwand](https://www.wikiwand.com/zh-tw/articles/%E7%86%99%E8%B1%90%E8%AE%8A%E6%B3%95)
+[王安石变法（中国北宋时期的一次政治改革）\_百度百科](https://baike.baidu.com/item/%E7%8E%8B%E5%AE%89%E7%9F%B3%E8%AE%8A%E6%B3%95/705728)
+"民不加賦而國用饒"
+
+[“民不加赋而国用饶”可能吗？王安石与司马光谁更有理*天地*财富\_公家](https://www.sohu.com/a/505847637_163278)
+[知史 - 王安石與司馬光 變法者與守舊者的深刻思考](https://www.mychistory.com/a001-2/c0204)
+
+[王安石理财有可能成功吗?|罗振宇《文明之旅》之1069 - YouTube](https://www.youtube.com/watch?v=NNWdJboUApE) 青苗法, 政府低息貸款
+
 ## 西夏
 
 [【CCTV 顶级首播-神秘的西夏】探秘被历史遗忘的神秘王朝 Mysterious Tangut | 【1080P 版全十集】 - YouTube](https://www.youtube.com/playlist?list=PLwXMmy5fUrVzqZG93hC0uKFd3QZMMR_0k)
 [自然條件差到離譜，看似弱小的西夏到底是如何在大國間生存100多年？11分鐘看懂中國歷史上最頑強「小國」｜蘇老拳 - YouTube](https://www.youtube.com/watch?v=tC7mvaaNB3U)
+[一個活了200年的王朝，幾乎被正史除名？少有人能叫出它的名字！【藝述史】 - YouTube](https://www.youtube.com/watch?v=sNDB8zZ7qMY)
 
 ## 元
 
-[元朝 - Wikiwand](http://www.wikiwand.com/zh/%E5%85%83%E6%9C%9D) 1271-1368
-[北元 - Wikiwand](http://www.wikiwand.com/zh/%E5%8C%97%E5%85%83) 1368-1388
+[元朝 - Wikiwand](https://www.wikiwand.com/zh/%E5%85%83%E6%9C%9D) 1271-1368
+[北元 - Wikiwand](https://www.wikiwand.com/zh/%E5%8C%97%E5%85%83) 1368-1388
 [蒙哥 - Wikiwand](https://www.wikiwand.com/zh/%E8%92%99%E5%93%A5)
 [忽必烈 - Wikiwand](https://www.wikiwand.com/zh/%E5%BF%BD%E5%BF%85%E7%83%88)
 
@@ -570,6 +601,24 @@ Tengu Media
 
 [辛亥革命 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E8%BE%9B%E4%BA%A5%E9%9D%A9%E5%91%BD)
 
+## 宗室管理制度
+
+[皇亲国戚为什么很难管？｜ 罗振宇《文明之旅》之1035 - YouTube](https://www.youtube.com/watch?v=vqQUQcm_jmY) 行權 vs 守經
+
+唐朝早期每朝換代都血洗宗室
+唐太宗玄武門之變
+唐高宗兄弟相殘
+武周殘殺李唐宗室
+唐玄宗亦血洗皇族
+
+|     |                                           |
+| --- | ----------------------------------------- |
+| 周  | 分封制                                    |
+| 秦  | 郡縣制                                    |
+| 漢  | 推恩令<br/>左官律<br/>附益法              |
+| 晉  | 分封宗室                                  |
+| 唐  | 籠統+監管(自唐玄宗起宗室與朝官不能有私交) |
+
 ## 地理
 
 [地图帝的个人主页\_百度百科](https://baike.baidu.com/usercenter/userpage?uk=5ad10133&authorId=b66f18449d17cf980dfd0021&from=tashuo)
@@ -625,6 +674,8 @@ Tengu Media
 [瑯琊](https://www.wikiwand.com/zh/%E7%90%85%E9%82%AA%E9%83%A1): 山東
 
 [塔克拉瑪干沙漠](https://www.wikiwand.com/zh/%E5%A1%94%E5%85%8B%E6%8B%89%E7%8E%9B%E5%B9%B2%E6%B2%99%E6%BC%A0): 新疆的塔里木盆地中央 (維吾爾語被遺棄的故鄉)
+[雙魚玉珮，史上最強傳說……彭加木、羅布泊、異事件調查團、王莽、穿越、地下深淵、樓蘭古國，一切傳說最全解析|自說自話的總裁|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=2Spyb_u0h1c)
+[羅布泊：未知樓蘭人、真·史前文明、大耳朵真相、大洪水、地球週期之謎——2014年，50人科考隊深入羅布泊駐紮四年，有了五大全新發現……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=VCoEZj--9DE) 塔里木盆地
 
 [中國行政區劃 州郡時期 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%AD%E5%9B%BD%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92#/%E5%B7%9E%E9%83%A1%E6%99%82%E6%9C%9F%EF%BC%88%E5%89%8D221%E5%B9%B4%EF%BC%8D583%E5%B9%B4%EF%BC%89)
 [九州 (中國) - Wikiwand](<https://www.wikiwand.com/zh/%E4%B9%9D%E5%B7%9E_(%E4%B8%AD%E5%9B%BD)>)

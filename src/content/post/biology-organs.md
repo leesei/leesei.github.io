@@ -2,7 +2,7 @@
 title: Organs
 description: ""
 created: 2023-09-03
-updated: 2025-06-09
+updated: 2025-07-08
 tags:
   - biology
   - learning
@@ -78,6 +78,7 @@ What we perceive is the post-processed signals from our brains.
 ### Hearing/Ears
 
 [Do these sound illusions fool you? - YouTube](https://www.youtube.com/watch?v=Sn07AMCfaAI)
+[【鬼谷说】耳鼻喉的演化：什么器官会一气之下换了个赛道 - YouTube](https://www.youtube.com/watch?v=gnR7fVbnaCU)
 
 ### Smell/Nose
 

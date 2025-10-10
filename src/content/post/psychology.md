@@ -2,13 +2,13 @@
 title: Psychology
 description: ""
 created: 2016-07-02
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - science
 ---
 
-[Obsessive–compulsive disorder - Wikiwand](http://www.wikiwand.com/en/Obsessive–compulsive_disorder) you cannot put off the thing discuss you the most
-[Exposure therapy - Wikiwand](http://www.wikiwand.com/en/Exposure_therapy) in a safe environment, exposing the patient to what they fear; treatment to phobia, PTSD and OCD
+[Obsessive–compulsive disorder - Wikiwand](https://www.wikiwand.com/en/Obsessive–compulsive_disorder) you cannot put off the thing discuss you the most
+[Exposure therapy - Wikiwand](https://www.wikiwand.com/en/Exposure_therapy) in a safe environment, exposing the patient to what they fear; treatment to phobia, PTSD and OCD
 
 [Neuro Transmissions - YouTube](https://www.youtube.com/channel/UCYLrBefhyp8YyI9VGPbghvw)
 
@@ -82,7 +82,7 @@ Three identities:
 [The Four Horsemen: Stonewalling](https://www.gottman.com/blog/the-four-horsemen-stonewalling/)
 [The Four Horsemen: The Antidotes](https://www.gottman.com/blog/the-four-horsemen-the-antidotes/)
 
-[Respect, empathy, and compassion (Brain Science #6) |> Changelog](https://changelog.com/brainscience/6)
+[Respect, empathy, and compassion (Brain Science #6)](https://changelog.com/brainscience/6)
 
 ## Lost Aversion
 

@@ -2,7 +2,7 @@
 title: Elastic Stack
 description: ""
 created: 2015-08-03
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - comp/database
   - elastic-stack
@@ -31,7 +31,7 @@ tags:
 [The Complete Guide to the ELK Stack - Logz.io](https://logz.io/learn/complete-guide-elk-stack/)
 [NGINX Log Analysis with Elasticsearch, Logstash, and Kibana](http://logz.io/blog/nginx-log-analysis/)
 
-[System Log Aggregation with the Elastic Stack | A Cloud Guru](https://acloudguru.com/blog/engineering/system-log-aggregation-with-the-elastic-stack)
+[System Log Aggregation with the Elastic Stack](https://www.pluralsight.com/resources/blog/cloud/system-log-aggregation-with-the-elastic-stack)
 
 ## Vulcanizer
 

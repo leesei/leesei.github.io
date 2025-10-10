@@ -2,7 +2,7 @@
 title: Rockchip - comp/hardware
 description: ""
 created: 2018-10-20
-updated: 2025-01-09
+updated: 2025-09-23
 tags:
   - iot
   - rk3288
@@ -145,7 +145,7 @@ sudo upgrade_tool rd
 [radxa/pyRock: Python GPIO module for rockchip platform](https://github.com/radxa/pyRock) RK3188
 
 [rk3128 控制 GPIO - lzpdz 的博客 - CSDN 博客](https://blog.csdn.net/lzpdz/article/details/51853725)
-[RK3399 用户空间 IO 控制 - zhuyong006 的博客 - CSDN 博客](https://blog.csdn.net/zhuyong006/article/details/80907718?utm_source=blogxgwz0)
+[RK3399 用户空间 IO 控制 - zhuyong006 的博客 - CSDN 博客](https://blog.csdn.net/zhuyong006/article/details/80907718)
 [Renegade 3328 GPIO not working - Rockchip 3288 & 3328 - Armbian forum](https://forum.armbian.com/topic/8376-renegade-3328-gpio-not-working/)
 
 [zhansb/pyFireflyP](https://github.com/zhansb/pyFireflyP)

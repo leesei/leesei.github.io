@@ -2,7 +2,7 @@
 title: React Native
 description: Learn once, write anywhere.
 created: 2023-06-10
-updated: 2025-03-31
+updated: 2025-07-07
 tags:
   - app
   - mobile

@@ -2,7 +2,7 @@
 title: Calendar
 description: ""
 created: 2016-09-09
-updated: 2025-02-04
+updated: 2025-07-07
 tags:
   - calendar
   - science
@@ -29,11 +29,11 @@ The Generalist Papers
 
 ## Solar Calendar
 
-[Calendar - Wikiwand](http://www.wikiwand.com/en/Calendar)
-[History of calendars - Wikiwand](http://www.wikiwand.com/en/History_of_calendars)
-[Roman calendar - Wikiwand](http://www.wikiwand.com/en/Roman_calendar)
-[Julian calendar - Wikiwand](http://www.wikiwand.com/`en/Julian_calendar) introduced by Julius Caesar in 46 BC, one leap day every 4 years
-[Gregorian calendar - Wikiwand](http://www.wikiwand.com/en/Gregorian_calendar) introduced by Pope Gregory XIII in 1582, 97 leap days every 400 years
+[Calendar - Wikiwand](https://www.wikiwand.com/en/Calendar)
+[History of calendars - Wikiwand](https://www.wikiwand.com/en/History_of_calendars)
+[Roman calendar - Wikiwand](https://www.wikiwand.com/en/Roman_calendar)
+[Julian calendar - Wikiwand](https://www.wikiwand.com/`en/Julian_calendar) introduced by Julius Caesar in 46 BC, one leap day every 4 years
+[Gregorian calendar - Wikiwand](https://www.wikiwand.com/en/Gregorian_calendar) introduced by Pope Gregory XIII in 1582, 97 leap days every 400 years
 
 [Why Does February Only Have 28 Days? - YouTube](https://www.youtube.com/watch?v=AgKaHTh-_Gs)
 

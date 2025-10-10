@@ -2,7 +2,7 @@
 title: Bicycle
 description: ""
 created: 2015-12-04
-updated: 2025-02-07
+updated: 2025-07-07
 tags:
   - bicycle
   - science

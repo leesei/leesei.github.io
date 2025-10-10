@@ -2,7 +2,7 @@
 title: Science
 description: ""
 created: 2019-08-09
-updated: 2025-05-26
+updated: 2025-09-18
 tags:
   - science
 ---
@@ -58,6 +58,11 @@ tags:
 ### Siphon
 
 [The Pythagorean Siphon Inside Your Washing Machine - YouTube](https://www.youtube.com/watch?v=Cg8KQfaT9xY)
+
+### Mechanics
+
+[Lagrangian vs Newtonian Mechanics - YouTube](https://www.youtube.com/watch?v=_Hp11d1Z-78)
+[What is a Hilbert Space? - YouTube](https://www.youtube.com/watch?v=FFPXm-tuOt8)
 
 ## Standard Model
 
@@ -235,6 +240,7 @@ Weak force has handiness
 [Introducing the amazing concept of gravito-electromagnetism | Cosmos](https://cosmosmagazine.com/mathematics/the-amazing-concept-of-gravito-electromagnetism)
 
 [How Special Relativity Makes Magnets Work - YouTube](https://www.youtube.com/watch?v=1TKSfAkWWN0) Electro-magnetic force is Special Relativity in action
+[Why Do Magnets Attract, at a Fundamental Level? Why? Why? Why? - YouTube](https://www.youtube.com/watch?v=cb9pdRjbQRo)
 
 [MAGNETS: How Do They Work? - YouTube](https://www.youtube.com/watch?v=hFAOXdXZ5TM)
 [Mystery of the Demagnetizer | What's inside? How does it work? - YouTube](https://www.youtube.com/watch?v=RazORgAqEUc)
@@ -334,6 +340,7 @@ Weak force has handiness
 [光速到底是怎么回事，光速不变会推出什么奇怪的结论？ - YouTube](https://www.youtube.com/watch?v=Xp3dQryAmaU)
 [光速為什麽不變？ - YouTube](https://www.youtube.com/watch?v=p8t8Lw_zkW4)
 [反重力裝置真的做得出來？靠近黑洞真的能讓時間變慢？一次看懂愛因斯坦廣義相對論！時間與空間到底為何會互相影響？｜量子熊 ✕ 泛科學 EP15 - YouTube](https://www.youtube.com/watch?v=bem5CpdxCtE)
+[一小時略懂黑洞｜狹義相對論、廣義相對論、白矮星、中子星、奇異點、事件視界、愛因斯坦場方程式、史瓦西度規黑洞資訊悖論、黑洞熱力學、無毛定理、霍金輻射、黑洞蒸發 - YouTube](https://www.youtube.com/watch?v=wA0HsuV0Wq0)
 
 雅桑了嗎
 [8 分鐘讀懂狹義相對論！時間變慢、長度變短、質量變重、E=mc² 一次性全搞明白 | 雅桑了嗎 - YouTube](https://www.youtube.com/watch?v=wspDAnUrHTA)
@@ -372,6 +379,14 @@ Weak force has handiness
 [【量子物理 入门】 - YouTube](https://www.youtube.com/playlist?list=PLg45KLfneaCTEP239hD6WhBd4xQ222GTn) 青蛙刀圣 1993
 [一小時略懂量子力學｜雙狹縫干涉、黑體輻射、薛丁格的貓、光電效應、物質波、量子意識、多重宇宙 - YouTube](https://www.youtube.com/watch?v=IltoID66BV0) PanSci
 [（已完结）【俗說量子】 - YouTube](https://www.youtube.com/playlist?list=PLd-GBkH4nB9liMqQBq3XqRMmAd0J8fEVN) Linvo說宇宙
+
+[Let's Kill You a Billion Times to Make You Immortal - YouTube](https://www.youtube.com/watch?v=7wK4peez9zE)
+
+- linguist: shut up and calculate
+- many-world interpretation
+
+[The Quantum Universe - YouTube](https://www.youtube.com/playlist?list=PLDYAAp81mLrbPDFoNZjda-3yx0f1J6g3h) Arvin Ash
+[How QED Unites Relativity, Quantum Mechanics & Electromagnetism | Quantum Electrodynamics - YouTube](https://www.youtube.com/watch?v=PutOOpAkjQ4)
 
 Looking Glass Universe
 [Quantum mechanics course - YouTube](https://www.youtube.com/playlist?list=PLg-OiIIbfPj1t7zYsf6aj7wrGb9fghFDk)  
@@ -490,6 +505,7 @@ Looking Glass Universe
 [你敢挑戰 140 智商嗎？惠勒延遲選擇實驗中量子如何改寫過去 | 雅桑了嗎 - YouTube](https://www.youtube.com/watch?v=CgCaWc3jxik)
 [手把手教你在家 DIY 物理界最詭異雙縫實驗！揭秘雙縫實驗最大誤解 | 雅桑了嗎 DIY double slits experiment at home - YouTube](https://www.youtube.com/watch?v=Dh7W7WZZO80)
 [【俗說量子】延遲選擇！量子擦除！雙縫干涉實驗的「真相」！ Double Slit Experiment| Linvo 說宇宙 - YouTube](https://www.youtube.com/watch?v=wcwDmvkyNLU)
+[MIT New Double-Slit Experiment Using Single Atoms As Slits｜【震撼】雙縫實驗百年謎團再解開：麻省理工最新實驗突破量子觀測極限，給出驚人答案！ - YouTube](https://www.youtube.com/watch?v=tFqzty1jHZI)
 
 媽咪說
 [双缝干涉 - YouTube](https://www.youtube.com/playlist?list=PLYtoePJQbGmjPQG8kukmuKpevpfBt3CDg)
@@ -621,6 +637,7 @@ Photon -> Photino
 [Is 420j2 stainless steel good? - Knife User](https://knifeuser.com/420j2-steel-review/)
 [420J2 Steel: Is it a Good Knife Steel?](https://www.knifeguides.com/420j2-steel-for-knives/)
 [3Cr13 Steel Review: Is 3cr13 Stainless Steel Good for Knives?](https://www.cherokeeobserver.org/is-3cr13-stainless-steel-good-for-knives/)
+[What is SPCC Steel? What is the production process? - Xino Steel Group](https://www.chinaxinogroup.com/What-is-SPCC-Steel--What-is-the-production-process-_174.html)
 
 [The History of Iron and Steel - YouTube](https://www.youtube.com/watch?v=7E__zqy6xcw)
 [The oldest STEEL sword in the world, Vered Jericho sword of Ancient Israel RECONSTRUCTED - YouTube](https://www.youtube.com/watch?v=BG7YKl7tSfY) Jericho sword is forged in 600BC

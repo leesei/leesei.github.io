@@ -2,7 +2,7 @@
 title: Maritime
 description: ""
 created: 2021-11-10
-updated: 2025-06-30
+updated: 2025-10-03
 tags:
   - transportation
 ---
@@ -21,6 +21,8 @@ tags:
 - stern/aft: back
 - port: left
 - starboard: right
+
+[Why Don't Ships Speak English? - YouTube](https://www.youtube.com/watch?v=bDRqOlL9EMg)
 
 [How Massive Ship Steering Gears Work! - YouTube](https://www.youtube.com/watch?v=99PkWjURKTY)
 
@@ -45,6 +47,7 @@ tags:
 ## Navy Vessel Classes
 
 [All Types of Warships Explained - YouTube](https://www.youtube.com/watch?v=303_Xj8FKJU)
+[Every Type of Naval Warship Explained - YouTube](https://www.youtube.com/watch?v=0sS2bKd2rtk)
 [巡洋舰、驱逐舰、护卫舰，究竟有何区别？它们的名字又是从何而来的？【科学火箭叔】 - YouTube](https://www.youtube.com/watch?v=O_Zgzt4sVhg)
 [中英文舰船分级简介 - 资讯智能交换中心(Lounge) - 深度时空宇宙/太空游戏社区 - Powered by Discuz!](https://bbs.deeptimes.net/forum.php?mod=viewthread&tid=2109513)
 [编号01：基本常识篇01:海军基础知识：军舰的基本定义、存在意义、大小、标准化分类、防护及动力 - 知乎](https://zhuanlan.zhihu.com/p/567751166)
@@ -61,6 +64,7 @@ Sea Tender
 Submarine
 
 [Cities at Sea: How Aircraft Carriers Work - YouTube](https://www.youtube.com/watch?v=c0pS3Zx7Fc8)
+[航母為何不能無限大，甲板又為什麼不能做成對稱型？航母冷知識一個視頻全看完！航母艦艏的球鼻有何作用，建造航母特種鋼材又有多困難？ - YouTube](https://www.youtube.com/watch?v=wum-5z1JkQY)
 
 [Living Underwater: How Submarines Work - YouTube](https://www.youtube.com/watch?v=gdy0gBVWAzE)
 [Submarines – Extreme Technology – Big Bigger Biggest - YouTube](https://www.youtube.com/watch?v=1Esapb0gT3w)

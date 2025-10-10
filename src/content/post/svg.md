@@ -2,7 +2,7 @@
 title: SVG
 description: Scalable Vector Graphics
 created: 2016-02-21
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - svg
   - web
@@ -119,20 +119,20 @@ New library written by Dmitry Baranovskiy, author of Raphaël.
 
 [A Guide to SVG Animations (SMIL) | CSS-Tricks - CSS-Tricks](https://css-tricks.com/guide-svg-animations-smil/)
 [Styling And Animating SVGs With CSS — Smashing Magazine](https://www.smashingmagazine.com/2014/11/styling-and-animating-svgs-with-css/)
-[Shape Morphing Talk at BrookylnJS by chriscoyier](http://slides.com/chriscoyier/gettin-weird-with-shape-morphing-5#/)
+[Shape Morphing Talk at BrookylnJS by chriscoyier](https://slides.com/chriscoyier/gettin-weird-with-shape-morphing-5#/)
 
-[SVG and GreenSock for Complex Animation - Forward 4 Web Summit - YouTube](https://www.youtube.com/watch?v=ZNukcHhpSXg) [slide](http://slides.com/sdrasner/svg-greensock#/)
+[SVG and GreenSock for Complex Animation - Forward 4 Web Summit - YouTube](https://www.youtube.com/watch?v=ZNukcHhpSXg) [slide](https://slides.com/sdrasner/svg-greensock#/)
 
 ## Non-scaling Stroke
 
 This feature is added in [TinySVG](https://www.w3.org/TR/SVGTiny12/) and [SVG2](https://www.w3.org/TR/SVG2/). Not widely supported by browsers.
 
-[SVG resize with non-scaling-stroke value for vector-effect attribute avoiding deformation on path stroke (cross browser) - bl.ocks.org](http://bl.ocks.org/lightjs/5372867)
+[SVG resize with non-scaling-stroke value for vector-effect attribute avoiding deformation on path stroke (cross browser) - bl.ocks.org](https://bl.ocks.org/lightjs/5372867)
 [SVG non-scaling-stroke | Microsoft Connect](https://connect.microsoft.com/IE/feedback/details/788819/svg-non-scaling-stroke)
 
 ## Flattening Transforms
 
-[javascript - Baking transforms into SVG Path Element commands - Stack Overflow](http://stackoverflow.com/questions/5149301/baking-transforms-into-svg-path-element-commands)
+[javascript - Baking transforms into SVG Path Element commands - Stack Overflow](https://stackoverflow.com/questions/5149301/baking-transforms-into-svg-path-element-commands)
 [Flatten.js, general SVG flattener. Flattens transformations of SVG shapes and paths. All shapes and path commands are supported.](https://gist.github.com/timo22345/9413158)
 
 ## Editors

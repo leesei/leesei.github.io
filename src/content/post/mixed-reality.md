@@ -2,7 +2,7 @@
 title: Mixed Reality
 description: ""
 created: 2015-07-14
-updated: 2025-03-23
+updated: 2025-09-23
 tags:
   - augmented-reality
   - comp/hardware
@@ -395,7 +395,7 @@ Outside-in position detection
 
 [Experience augmented reality together with new updates to ARCore](https://blog.google/products/google-vr/experience-augmented-reality-together-new-updates-arcore/)
 
-[arcore - Google Play](https://play.google.com/store/search?q=arcore&utm_source=opensearch)
+[arcore - Google Play](https://play.google.com/store/search?q=arcore)
 
 [Just a Line: The first cross-platform collaborative AR app (for doodling)](https://blog.google/products/google-vr/just-line-first-cross-platform-collaborative-ar-app-doodling/)
 

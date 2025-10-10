@@ -2,7 +2,7 @@
 title: Robotics
 description: ""
 created: 2015-10-19
-updated: 2025-05-18
+updated: 2025-08-10
 tags:
   - maker
 ---
@@ -158,7 +158,7 @@ tags:
 
 ## Motor
 
-[Electric motor - Wikiwand](http://www.wikiwand.com/en/Electric_motor) Electronic speed controllers (ESC)
+[Electric motor - Wikiwand](https://www.wikiwand.com/en/Electric_motor) Electronic speed controllers (ESC)
 [Types of Motors | Adafruit Motor Selection Guide | Adafruit Learning System](https://learn.adafruit.com/adafruit-motor-selection-guide)
 [Motors and Selecting the Right One - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one)
 [Which Motor Type is the Best Generator? || DC, BLDC or Stepper? (Experiment) - YouTube](https://www.youtube.com/watch?v=cJ_vDA7xsGs)
@@ -244,7 +244,7 @@ When using PWM to drive DC motor, do a high pass (of say 8 out of 255 with 8 bit
 ### DC Brushed/Brushless Motors
 
 [摩打 - Wikiwand](https://www.wikiwand.com/zh/电动机)
-[DC motor - Wikiwand](http://www.wikiwand.com/en/DC_motor)
+[DC motor - Wikiwand](https://www.wikiwand.com/en/DC_motor)
 
 Deceleration Motor
 [减速机\_百度百科](https://baike.baidu.com/item/减速机)
@@ -325,6 +325,12 @@ SynRM
 
 - high magnetic reluctancy
 - no back EMF issue
+
+### Electrostatic Motors
+
+[Electrostatic motor - Wikiwand](https://www.wikiwand.com/en/articles/Electrostatic_motor)
+
+[How Electrostatic Motors are Breaking All the Rules - YouTube](https://www.youtube.com/watch?v=44WM5J6AcHo)
 
 ### Servo Motors
 

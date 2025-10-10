@@ -2,7 +2,7 @@
 title: Philosophy
 description: ""
 created: 2015-06-29
-updated: 2025-05-12
+updated: 2025-07-07
 tags:
   - philosophy
 ---

@@ -2,7 +2,7 @@
 title: React.js
 description: The library for web and native user interfaces
 created: 2015-12-04
-updated: 2025-02-16
+updated: 2025-08-19
 tags:
   - frontend
   - javascript
@@ -177,7 +177,7 @@ move files around until it feels right
 [How to Use TypeScript with React Components](https://dmitripavlutin.com/typescript-react-components/)
 [Making the most boring website ever with TypeScript, NodeJs, React. - YouTube](https://www.youtube.com/playlist?list=PL7b0cPjh8z6K_4qLNu_QdE3RpiU6omViC) 2022
 
-[The React.ReactNode type is a black hole |> Changelog](https://changelog.com/posts/the-react-reactnode-type-is-a-black-hole) `<ReactNode>`, in particular `<ReactFragment>` is equivalent to `any`
+[The React.ReactNode type is a black hole](https://changelog.com/posts/the-react-reactnode-type-is-a-black-hole) `<ReactNode>`, in particular `<ReactFragment>` is equivalent to `any`
 
 [reactjs - React createContext issue in Typescript? - Stack Overflow](https://stackoverflow.com/questions/54577865/react-createcontext-issue-in-typescript)
 
@@ -472,6 +472,7 @@ Use `React.createRef()`/`React.useRef()`, not string ref or callback ref
 [openblocks-dev/openblocks: 🔥 🔥 🔥 The Open Source Retool Alternative](https://github.com/openblocks-dev/openblocks)
 
 [Remix vs. Next.js vs. SvelteKit - LogRocket Blog](https://blog.logrocket.com/react-remix-vs-next-js-vs-sveltekit/)
+[Next.js, React Router, TanStack: When To Use Each - The New Stack](https://thenewstack.io/next-js-react-router-tanstack-when-to-use-each/)
 
 ### Refine
 
@@ -481,25 +482,12 @@ Use `React.createRef()`/`React.useRef()`, not string ref or callback ref
 [Getting started with Refine, the React-based framework - LogRocket Blog](https://blog.logrocket.com/getting-started-refine-react-based-framework/)
 [Migrating a React-Admin Application to refine 💖 - DEV Community](https://dev.to/pankod/migrating-a-react-admin-application-to-refine-2j6k)
 
-### Remix
+### React Router
 
-> Server Side Rendering ONLY, app framework
+> 202412: Remix v3 merged into React Router v7
+> [[reactjs-archive#Remix]]
 
-[Remix - Build Better Websites](https://remix.run/)
-[Remix: A guide to the newly open-sourced React framework - LogRocket Blog](https://blog.logrocket.com/remix-guide-newly-open-sourced-react-framework/)
-[Remix: The Yang to React's Yin](https://kentcdodds.com/blog/remix-the-yang-to-react-s-yin)
-[Why I Love Remix](https://kentcdodds.com/blog/why-i-love-remix)
-[I Built a Blog with RemixJS so You Don't Have To (You're Welcome)](https://blog.openreplay.com/i-built-a-blog-with-remixjs-so-you-don-t-have-to-you-re-welcome)
-[Is Remix JS the Next Framework for You? | Bits and Pieces](https://blog.bitsrc.io/is-remix-the-next-framework-you-have-to-learn-3e7dca13e9d1)
-[An Alternative to Next.JS? - Everything You Need to Know About RemixJS](https://blog.openreplay.com/an-alternative-to-next-js-everything-you-need-to-know-about-remixjs)
-[Remix - Web Standards Are Cool Again - Simple Thread](https://www.simplethread.com/remix-web-standards-are-cool-again/)
-
-[Remix Tutorial with Kent - YouTube](https://www.youtube.com/watch?v=hsIWJpuxNj0) 6 hours
-[Remix is a NEW JavaScript framework you MUST try - YouTube](https://www.youtube.com/watch?v=r4B69HAOXnA)
-
-[Remix vs Next.js | Remix](https://remix.run/blog/remix-vs-next)
-[Remix vs. Next.js: A Detailed Comparison | by Ravidu Perera | Feb, 2022 | Bits and Pieces](https://blog.bitsrc.io/remix-vs-next-js-a-detailed-comparison-6ff557f7b41f)
-[Moving from Next to Remix](https://blog.openreplay.com/moving-from-next-to-remix)
+[React Router](https://reactrouter.com/) [source](https://github.com/remix-run/react-router)
 
 ### Ultra
 
@@ -1375,21 +1363,24 @@ Caveat:
 [You Don’t Need A UI Framework — Smashing Magazine](https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/)
 [Unstyled Component Libraries Are A Game Changer - YouTube](https://www.youtube.com/watch?v=yn6vFCRkC3c)
 
-[Reach UI](https://reach.tech/) component-based
-[reach/reach-ui: The Accessible Foundation for React Apps and Design Systems](https://github.com/reach/reach-ui)
-
 [React Aria](https://react-spectrum.adobe.com/react-aria/) by Adobe, hook-based, component in alpha
 [adobe/react-spectrum: A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.](https://github.com/adobe/react-spectrum)
 
 [DCXLibrary / introduction - Page ⋅ Storybook](https://6069a6f47f4b9f002171f8e1-ihpxseoaag.chromatic.com/?path=/story/dcxlibrary-introduction--page)
 [Introducing the DCX React Library](https://capgemini.github.io/development/dcx-react-library/)
 
+[Base UI](https://base-ui.com/) from the creators of Radix UI
+[mui/base-ui: Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.](https://github.com/mui/base-ui)
+
 [Primitives – Radix UI](https://www.radix-ui.com/) more active than Headless UI, component-based
 [radix-ui/primitives: Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.](https://github.com/radix-ui/primitives)
 
 [Headless UI - Unstyled, fully accessible UI components](https://headlessui.com/) from Tailwind Labs, a11y, component-based
 [tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.](https://github.com/tailwindlabs/headlessui/)
-[@headlessui/react Menu Example - CodeSandbox](https://codesandbox.io/s/headlessuireact-menu-example-b6xje?file=/src/App.js)
+[@headlessui/react Menu Example - CodeSandbox](https://codesandbox.io/p/sandbox/headlessuireact-menu-example-b6xje?file=%2Fsrc%2FApp.js)
+
+[Reach UI](https://reach.tech/) component-based, 😴inactive
+[reach/reach-ui: The Accessible Foundation for React Apps and Design Systems](https://github.com/reach/reach-ui)
 
 [Base Web - Base Web React UI framework](https://baseweb.design/) component/hook-based
 [uber/baseweb: A React Component library implementing the Base design language](https://github.com/uber/baseweb)

@@ -2,7 +2,7 @@
 title: HashiCorp
 description: ""
 created: 2016-03-19
-updated: 2025-01-09
+updated: 2025-09-23
 tags:
   - dev/deploy
   - devops
@@ -15,7 +15,7 @@ tags:
 [HashiCorp adopts Business Source License](https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license) 2023-08-10
 [HashiCorp Licensing FAQ](https://www.hashicorp.com/license-faq)
 
-[#180: Otto, Vagrant, and Automation with Mitchell Hashimoto - The Changelog](https://changelog.com/180/)
+[Otto, Vagrant, Automation with Mitchell Hashimoto (Changelog Interviews #180)](https://changelog.com/podcast/180)
 
 ## Vagrant
 
@@ -32,7 +32,7 @@ Packer is a free and open source tool for creating golden images for multiple pl
 [Docker? VMs? EC2? Yes! With Packer.io](http://www.kevinclarke.info/slides/c4l15/#/)
 
 [Developing with Packer and Docker | Sam Thursfield's Blog](https://samthursfield.wordpress.com/2014/10/20/developing-with-packer-and-docker/)
-[linux - Packer,Dockramp vs Dockerfile - Stack Overflow](http://stackoverflow.com/questions/31778106/packer-dockramp-vs-dockerfile)
+[linux - Packer,Dockramp vs Dockerfile - Stack Overflow](https://stackoverflow.com/questions/31778106/packer-dockramp-vs-dockerfile)
 [Packer Build - Create and Build Packer Templates and Images for AWS](https://www.middlewareinventory.com/blog/build-packer-aws-image-example/)
 [Why Docker made me love Packer | Home](http://datafundamentals.com/content/why-docker-made-me-love-packer)
 [Provision Infrastructure with Packer | Terraform - HashiCorp Learn](https://learn.hashicorp.com/tutorials/terraform/packer?in=terraform/provision)
@@ -107,7 +107,6 @@ Declarative: define desired state, not steps
 [Manage AWS Infrastracture as Code with Terraform - M.Labouardy](http://www.blog.labouardy.com/manage-aws-infrastracture-as-code-with-terraform/)
 [Manage AWS VPC as Infrastructure as Code with Terraform - M.Labouardy](http://www.blog.labouardy.com/manage-aws-vpc-as-infrastructure-as-code-with-terraform/)
 [Setup Docker Swarm on AWS using Ansible & Terraform](https://hackernoon.com/setup-docker-swarm-on-aws-using-ansible-terraform-daa1eabbc27d)
-[Why Terraform exceeds Chef, Puppet, Ansible, SaltStack, or CloudFormation - Level UpLevel Up](https://www.level-up.one/why-terraform-exceeds-chef-puppet-ansible-saltstack-or-cloudformation)
 [Infrastructure as Code with Terraform » ADMIN Magazine](http://www.admin-magazine.com/Archive/2018/46/Infrastructure-as-Code-with-Terraform)
 [Using Terraform To Manage Infrastructure Resources - DEV Community 👩‍💻👨‍💻](https://dev.to/pavanbelagatti/using-terraform-to-manage-infrastructure-resources-32da)
 
@@ -122,7 +121,7 @@ A tool for managing secrets.
 [HashiCorp Vault Operator Manages Kubernetes Secrets - The New Stack](https://thenewstack.io/hashicorp-vault-operator-manages-kubernetes-secrets/)
 
 [Introduction to Vault • Seth Vargo - YouTube](https://www.youtube.com/watch?v=yvImdLP3LEA)
-[The Changelog #239: Managing Secrets Using Vault with Seth Vargo | Changelog](https://changelog.com/podcast/239)
+[Managing Secrets Using Vault with Seth Vargo (Changelog Interviews #239)](https://changelog.com/podcast/239)
 
 ## Nomad
 

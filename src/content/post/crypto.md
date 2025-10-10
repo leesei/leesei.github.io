@@ -2,7 +2,7 @@
 title: Cryptography
 description: ""
 created: 2016-01-21
-updated: 2025-07-01
+updated: 2025-10-09
 tags:
   - crypto
   - cryptography
@@ -23,6 +23,10 @@ tags:
 [Cryptology ePrint Archive](https://eprint.iacr.org/) ❗!important
 [Welcome | Practical Cryptography for Developers](https://cryptobook.nakov.com/)
 [nakov/Practical-Cryptography-for-Developers-Book: Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA](https://github.com/nakov/practical-cryptography-for-developers-book)
+
+[科普园地\_国家密码管理局](https://www.oscca.gov.cn/sca/zxfw/kpyd.shtml)
+[密码学报](http://www.jcr.cacrnet.org.cn/CN/home) 中国密码学会
+[中国密码学会 - 密评工作](https://www.cacrnet.org.cn/site/term/123.html)
 
 Course
 [Journey into cryptography | Computer science | Computing | Khan Academy](https://www.khanacademy.org/computing/computer-science/cryptography)
@@ -196,7 +200,7 @@ Slot 1 (0x1): SoftHSM slot ID 0x1
 
 Bit security measures the number of trials required to brute-force a key. 128 bit security means 2128 trials to break.
 
-[Cryptographic nonce - Wikiwand](http://www.wikiwand.com/en/Cryptographic_nonce)
+[Cryptographic nonce - Wikiwand](https://www.wikiwand.com/en/Cryptographic_nonce)
 [Comparison of cryptography libraries - Wikiwand](https://www.wikiwand.com/en/Comparison_of_cryptography_libraries)
 
 [cryptography - Do any security experts recommend bcrypt for password storage? - Information Security Stack Exchange](http://security.stackexchange.com/questions/4781/do-any-security-experts-recommend-bcrypt-for-password-storage)
@@ -225,10 +229,12 @@ Bit security measures the number of trials required to brute-force a key. 128 bi
 
 [SHA-2 - Wikiwand](https://www.wikiwand.com/en/articles/SHA-2)
 [FIPS 180-4, Secure Hash Standard (SHS) | CSRC](https://csrc.nist.gov/pubs/fips/180-4/upd1/final)
+[SHA2 Fatal Flaw? (Hash Length Extension Attack) - Computerphile - YouTube](https://www.youtube.com/watch?v=gOIBUe1fjX0)
+[Coding a SHA2 Length Extension Attack - Computerphile - YouTube](https://www.youtube.com/watch?v=XQo6rLdFlCg)
 
 [SHA-3 - Wikiwand](https://www.wikiwand.com/en/articles/SHA-3) Kaccak, SHAKE
 [FIPS 202, SHA-3 Standard: Permutation-Based Hash and Extendable-Output Functions | CSRC](https://csrc.nist.gov/pubs/fips/202/final)
-SHAKE (Sponge Function) allows for
+SHAKE (Sponge Function) allows for hashing arbitrary length input and generating arbitrary length output
 [SHA-3, Keccak and SHAKE (Sponge Function) - YouTube](https://www.youtube.com/watch?v=bTOJ9An9wpE)
 
 [RFC 6194 - Security Considerations for the SHA-0 and SHA-1 Message-Digest Algorithms](https://datatracker.ietf.org/doc/html/rfc6194) 💀 deprecated
@@ -280,8 +286,8 @@ SHAKE (Sponge Function) allows for
 MAC ~= hashing with shared key
 less prune to replay attack
 
-[Message authentication code - Wikiwand](http://www.wikiwand.com/en/Message_authentication_code) MAC
-[Hash-based message authentication code - Wikiwand](http://www.wikiwand.com/en/Hash-based_message_authentication_code) HMAC, hash with secret key
+[Message authentication code - Wikiwand](https://www.wikiwand.com/en/Message_authentication_code) MAC
+[Hash-based message authentication code - Wikiwand](https://www.wikiwand.com/en/Hash-based_message_authentication_code) HMAC, hash with secret key
 [Moxie Marlinspike >> Blog >> The Cryptographic Doom Principle](http://www.thoughtcrime.org/blog/the-cryptographic-doom-principle/) Encrypt-then-MAC
 [Mandatory Access Control](https://www.cs.cornell.edu/courses/cs5430/2015sp/notes/mac.php)
 
@@ -514,7 +520,7 @@ ARX cipher: add, rotate, xor
 
 ## Public Key Cryptography
 
-[Public-key cryptography - Wikiwand](http://www.wikiwand.com/en/Public-key_cryptography)
+[Public-key cryptography - Wikiwand](https://www.wikiwand.com/en/Public-key_cryptography)
 Public Key crypto simply works with numbers. This means that any messages would have to be converted into a number before being encrypted.
 
 ### RSA

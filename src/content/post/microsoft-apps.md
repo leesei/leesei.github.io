@@ -2,7 +2,7 @@
 title: Microsoft Apps
 description: ""
 created: 2020-08-23
-updated: 2025-06-24
+updated: 2025-09-22
 tags:
   - apps
   - microsoft
@@ -33,12 +33,19 @@ tags:
 # Word
 
 [Word 基礎教學 - YouTube](https://www.youtube.com/playlist?list=PL7enJ2-v6SPlgDsNHXJ1K2RpkZY2b_pm7) PAPAYA 電腦教室
+
 [9 Time-Saving Tips for Formatting Documents in Microsoft Word](https://www.makeuseof.com/time-saving-tips-for-formatting-documents-microsoft-word/)
+[Use Styles in Microsoft Word to Format Your Documents Consistently](https://www.makeuseof.com/format-documents-with-styles-in-microsoft-word/)
+[These Word Style Tweaks Make Document Editing Way Faster](https://www.makeuseof.com/word-style-tweaks-faster-editing/)
+[9 Time-Saving Tips for Formatting Documents in Microsoft Word](https://www.makeuseof.com/time-saving-tips-for-formatting-documents-microsoft-word/) `Shift + F1` Reveal Formatting pane
+[How Indexes Can Make Any Word Document Manageable](https://www.makeuseof.com/indexes-make-word-document-manageable/)
 
 # PowerPoint
 
 [Create professional slide layouts with PowerPoint Designer - Office Support](https://support.microsoft.com/en-us/office/create-professional-slide-layouts-with-powerpoint-designer-53c77d7b-dc40-45c2-b684-81415eac0617)
 [【有靈魂的 PPT 教室】PowerPoint 教學 101 專業風格 不用模板也能簡單做出專業 PPT 拿經濟部的簡報改給你看 - YouTube](https://www.youtube.com/watch?v=m4YKkj8An0s)
+
+[This Underrated PowerPoint Feature Is My Secret to Perfect Presentations](https://www.makeuseof.com/powerpoint-hidden-feature-better-presentations/)
 
 [PowerPoint 基礎教學 - YouTube](https://www.youtube.com/playlist?list=PL7enJ2-v6SPmqEd_I9zQmCd4b6VSJhYqy) PAPAYA 電腦教室
 [平常沒在用的「小畫家 3D 」竟然變成 PPT 簡報的最佳神隊友？ | PowerPoint 教學 21 - YouTube](https://www.youtube.com/watch?v=9nJeY8moof4)
@@ -58,8 +65,6 @@ tags:
 
 [Excel 基礎教學 - YouTube](https://www.youtube.com/playlist?list=PL7enJ2-v6SPm-EHMuRMCG7R7C-vXQugNM) PAPAYA 電腦教室
 
-[An Intro to Using Conditional Formatting in Excel](https://www.makeuseof.com/intro-to-excel-using-conditional-formatting/)
-
 [Excel 不求人 - YouTube](https://www.youtube.com/playlist?list=PL4NLMOC4WqJ-TeP1zJ46CN7FKjAxl_98q)
 [Excel 教學 E23 | 自動化排班表設計 | 學會這些函數，讓你的排班表可以萬年使用~ - YouTube](https://www.youtube.com/watch?v=9WsRNHalqp4)
 
@@ -67,13 +72,21 @@ calender
 [如何製作一個 **讓你看起來有點厲害** 的員工排班表 (上) | Excel 教學 46 - YouTube](https://www.youtube.com/watch?v=j6VLcFoQguk)
 [如何製作一個 **讓你看起來有點厲害** 的員工排班表 (下) | Excel 教學 47 - YouTube](https://www.youtube.com/watch?v=ziga9B5Hr_o)
 
-[Make Your Excel Spreadsheets Smarter With Dropdown Lists](https://www.makeuseof.com/smarter-excel-with-dropdowns/)
-[7 productivity hacks I discovered after using Excel for years](https://www.xda-developers.com/productivity-hacks-discovered-after-using-excel-for-years/)
-
+[7 productivity hacks I diPscovered after using Excel for years](https://www.xda-developers.com/productivity-hacks-discovered-after-using-excel-for-years/)
 [How to Create a Chart Template in Microsoft Excel](https://www.howtogeek.com/763415/how-to-create-a-chart-template-in-microsoft-excel/)
+
+[I Finally Mastered Excel Shortcuts—Here Are the Ones I Use Every Day](https://www.makeuseof.com/excel-shortcuts-use-every-day/)
+[Make Your Excel Spreadsheets Smarter With Dropdown Lists](https://www.makeuseof.com/smarter-excel-with-dropdowns/)
 [Make Excel Smarter With Dynamic Dropdown Lists: Here's How They Work](https://www.makeuseof.com/excel-dynamic-dropdown-lists/)
 [Make Excel Formulas Dynamic with the This Trick - YouTube](https://www.youtube.com/watch?v=HOmVlf6Bm2g)
 [Clean Up Data Effortlessly With Excel's New TRIMRANGE Function](https://www.makeuseof.com/excel-trimrange-cleanup/)
+[6 Power Features in Excel Most People Never Touch (But Should)](https://www.makeuseof.com/excel-features-you-should-use/)
+[Pivot Tables in Excel Explained: What Are They Actually For?](https://www.makeuseof.com/pivot-tables-in-excel-explained/)
+[I stopped using PivotTables in Excel because I found something better](https://www.makeuseof.com/excel-pivot-table-alternative/) PivotChart
+[An Intro to Using Conditional Formatting in Excel](https://www.makeuseof.com/intro-to-excel-using-conditional-formatting/)
+[Most Excel users don't know that these features exist](https://www.makeuseof.com/excel-features-you-didnt-know/)
+
+[How to Use XLOOKUP With Multiple Criteria in Excel](https://www.howtogeek.com/microsoft-excel-xlookup-multiple-criteria/)
 
 ## Excel Lambda function
 
@@ -81,6 +94,7 @@ calender
 [LAMBDA function - Excel](https://support.microsoft.com/en-us/office/lambda-function-bd212d27-1cd1-4321-a34a-ccbf254b8b67)
 [Announcing LAMBDA](https://techcommunity.microsoft.com/t5/excel-blog/announcing-lambda-turn-excel-formulas-into-custom-functions/ba-p/1925546)
 
+[This Excel Trick Lets Me Write Formulas Like a Human](https://www.makeuseof.com/write-excel-formulas-plain-language/)
 [How to use LAMBDA to make Custom Functions in Excel - YouTube](https://www.youtube.com/watch?v=yDNX7V0eZ8U)
 [Excel LAMBDA - HOW & WHEN you Should use it - YouTube](https://www.youtube.com/watch?v=Rm4y5UqauRw)
 

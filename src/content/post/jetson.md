@@ -2,7 +2,7 @@
 title: nVidia Jetson
 description: ""
 created: 2019-08-09
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - iot
   - jetson

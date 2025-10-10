@@ -2,14 +2,14 @@
 title: File Systems
 description: ""
 created: 2015-05-20
-updated: 2025-06-19
+updated: 2025-07-17
 tags:
   - file-system
   - linux
   - storage
 ---
 
-[File system - Wikiwand](http://www.wikiwand.com/en/File_system)
+[File system - Wikiwand](https://www.wikiwand.com/en/File_system)
 [List of file systems - Wikiwand](https://www.wikiwand.com/en/List_of_file_systems)
 
 [Part I. File Systems](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/Storage_Administration_Guide/part-file-systems.html)
@@ -23,16 +23,22 @@ tags:
 
 [Explaining File Systems: NTFS, exFAT, FAT32, ext4 & More - YouTube](https://www.youtube.com/watch?v=_h30HBYxtws)
 
-[Be File System - Wikiwand](http://www.wikiwand.com/en/Be_File_System)
-[exFAT - Wikiwand](http://www.wikiwand.com/en/ExFAT)
-[ext4 - Wikiwand](http://www.wikiwand.com/en/Ext4)
-[F2FS - Wikiwand](http://www.wikiwand.com/en/F2FS)
-[HFS Plus - Wikiwand](http://www.wikiwand.com/en/HFS_Plus)
-[NILFS - Wikiwand](http://www.wikiwand.com/en/NILFS)
-[NTFS - Wikiwand](http://www.wikiwand.com/en/NTFS)
+[Be File System - Wikiwand](https://www.wikiwand.com/en/Be_File_System)
+[exFAT - Wikiwand](https://www.wikiwand.com/en/ExFAT)
+[ext4 - Wikiwand](https://www.wikiwand.com/en/Ext4)
+[F2FS - Wikiwand](https://www.wikiwand.com/en/F2FS)
+[HFS Plus - Wikiwand](https://www.wikiwand.com/en/HFS_Plus)
+[NILFS - Wikiwand](https://www.wikiwand.com/en/NILFS)
+[NTFS - Wikiwand](https://www.wikiwand.com/en/NTFS)
 
 [marook/tagfs](https://github.com/marook/tagfs)
 [NHFS - Nonhierarchical File System - 0815 Blog](https://rffr.de/nhfs-nonhierarchical-file-system/)
+
+Maple Circuit
+[VFS | How your system knows where files are - YouTube](https://www.youtube.com/watch?v=Fq0ks85G6-o)
+[EXT2 | How does it work? - YouTube](https://www.youtube.com/watch?v=ncwn8O70YVg)
+[EXT3 | How does it work? - YouTube](https://www.youtube.com/watch?v=L78B7u1xvD4)
+[EXT4 | How does it work? - YouTube](https://www.youtube.com/watch?v=4KaF2OXWfzg&t=572s)
 
 [Why Do Removable Drives Still Use FAT32 Instead of NTFS?](https://www.howtogeek.com/177529/htg-explains-why-are-removable-drives-still-using-fat32-instead-of-ntfs/)
 
@@ -73,7 +79,7 @@ tags:
 
 ### Btrfs
 
-[Btrfs - Wikiwand](http://www.wikiwand.com/en/Btrfs)
+[Btrfs - Wikiwand](https://www.wikiwand.com/en/Btrfs)
 
 Btrfs is not stable for use outside a test system.
 [btrfs Meltdown | LUP 87 | Jupiter Broadcasting](http://www.jupiterbroadcasting.com/80097/btrfs-meltdown-lup-87/)
@@ -81,13 +87,13 @@ Btrfs is not stable for use outside a test system.
 
 ### XFS
 
-[XFS - Wikiwand](http://www.wikiwand.com/en/XFS)
+[XFS - Wikiwand](https://www.wikiwand.com/en/XFS)
 [XFS: There and back ... and there again? [LWN.net]](http://lwn.net/Articles/638546/)
 [Linux File Systems Part Two: The XFS File System | Learning Tree Blog](https://blog.learningtree.com/linux-file-systems-part-two-the-xfs-file-system/)
 
 ### ZFS
 
-[ZFS - Wikiwand](http://www.wikiwand.com/en/ZFS)
+[ZFS - Wikiwand](https://www.wikiwand.com/en/ZFS)
 ZFS provides bitrot protection.
 
 [ZFS on Linux](http://zfsonlinux.org/)
@@ -132,7 +138,7 @@ ZFS provides bitrot protection.
 Check inode usage: `df -i`
 
 [Journal File System | Linux.org](https://www.linux.org/threads/journal-file-system.8630/)
-[Journaling file system - Wikiwand](http://www.wikiwand.com/en/Journaling_file_system)
+[Journaling file system - Wikiwand](https://www.wikiwand.com/en/Journaling_file_system)
 
 [Is the file table in the filesystem or in memory? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/21325/is-the-file-table-in-the-filesystem-or-in-memory)
 

@@ -2,7 +2,7 @@
 title: Message Queue
 description: ""
 created: 2015-08-03
-updated: 2025-01-09
+updated: 2025-09-23
 tags:
   - comp/database
 ---
@@ -18,12 +18,10 @@ tags:
 [Comparing Apache Kafka and Apache Pulsar](https://www.conduktor.io/blog/comparing-apache-kafka-apache-pulsar)
 [Comparing Apache Kafka, ActiveMQ, and RabbitMQ](https://www.conduktor.io/blog/comparing-apache-kafka-activemq-and-rabbitmq)
 [Pulsar vs Kafka - Comparison and Myths Explored - Kai Waehner](https://www.kai-waehner.de/blog/2020/06/09/apache-kafka-versus-apache-pulsar-event-streaming-comparison-features-myths-explored/)
-[Messaging & Multiplexing - 250bpm](http://250bpm.com/blog:18)
 [Messaging System — Hands On! – Hacker Noon](https://hackernoon.com/messaging-system-hands-on-7dda1afded37)
 [How Message Queues Work in Distributed Systems](https://www.freecodecamp.org/news/message-queues-in-distributed-systesms/) #microservices
 [消息中间件部署及比较：rabbitMQ、activeMQ、zeroMQ、rocketMQ、Kafka、redis - 掘金](https://juejin.im/post/5b32044ef265da59654c3027)
 
-[Queues](http://queues.io/) Job queues, message queues and other queues. Almost all of them in one place.
 [Grow Up. Use Queues.](https://www.openmymind.net/Grow-Up-Use-Queues/)
 [Bus or Queue | Blog](https://ardalis.com/bus-or-queue/)
 [Publish-Subscribe Pattern vs Message Queues vs Request Response (Detailed Discussions with Examples) - YouTube](https://www.youtube.com/watch?v=DXTHb9TqJOs)
@@ -46,12 +44,12 @@ tags:
 
 ## AMQP
 
-[AMQP is the Internet Protocol for Business Messaging | AMQP](http://www.amqp.org/about/what)
-[Advanced Message Queuing Protocol - Wikiwand](http://www.wikiwand.com/en/Advanced_Message_Queuing_Protocol)
+[AMQP is the Internet Protocol for Business Messaging | AMQP](https://www.amqp.org/about/what)
+[Advanced Message Queuing Protocol - Wikiwand](https://www.wikiwand.com/en/Advanced_Message_Queuing_Protocol)
 [Messaging, AMQP and RabbitMQ - A Speed Guide - Compose Articles](https://www.compose.com/articles/messaging-amqp-and-rabbitmq-a-speed-guide/)
 [Tech Spotlight: Advanced Message Queuing Protoc... | element14 | Tech Connection](https://www.element14.com/community/docs/DOC-91119/l/tech-spotlight-advanced-message-queuing-protocol-amqp) disable JavaScript
 
-[AMQP Protocol Downloads | AMQP](http://www.amqp.org/resources/download)
+[AMQP Protocol Downloads | AMQP](https://www.amqp.org/resources/download)
 [RabbitMQ - Protocol Documentation](https://www.rabbitmq.com/protocol.html)
 
 [Speaking Rabbit: A look into AMQP’s frame structure](https://m.alphasights.com/speaking-rabbit-a-look-into-amqps-frame-structure-fbb81516b794)
@@ -62,20 +60,19 @@ tags:
 [Understanding AMQP](https://spring.io/understanding/AMQP)
 [java - JMS and AMQP - RabbitMQ - Stack Overflow](https://stackoverflow.com/questions/15150133/jms-and-amqp-rabbitmq)
 [Using JMS Transport as the Connection Protocol](https://docs.oracle.com/cd/E13222_01/wls/docs103/webserv_adv_rpc/jmstransport.html#wp244314)
-[Understanding the Differences between AMQP & JMS - Mark Richards](http://www.wmrichards.com/amqp.pdf) PDF
 
 ### RabbitMQ
 
 > Gateways for AMQP, HTTP, STOMP, and MQTT protocols
 
-[RabbitMQ - Messaging that just works](http://www.rabbitmq.com/)
+[RabbitMQ - Messaging that just works](https://www.rabbitmq.com/)
 [RabbitMQ - Wikiwand](https://www.wikiwand.com/en/RabbitMQ)
 [RabbitMQ Tutorials — RabbitMQ](https://www.rabbitmq.com/getstarted.html)
 
 [rabbitmq/rabbitmq-server: Open source multi-protocol messaging broker](https://github.com/rabbitmq/rabbitmq-server)
 [rabbitmq/internals: High level architecture overview](https://github.com/rabbitmq/internals)
 
-[RabbitMQ - Getting started with RabbitMQ](http://www.rabbitmq.com/getstarted.html)
+[RabbitMQ - Getting started with RabbitMQ](https://www.rabbitmq.com/getstarted.html)
 [RabbitMQ Is Boring, and I Love It - The New Stack](https://thenewstack.io/rabbitmq-is-boring-and-i-love-it/)
 
 [RabbitMQ in 5 Minutes - YouTube](https://www.youtube.com/watch?v=deG25y_r6OY)
@@ -94,7 +91,7 @@ tags:
 [Blog | Part 4: RabbitMQ for beginners - Exchanges, routing keys and bindings - CloudAMQP, RabbitMQ as a Service](https://www.cloudamqp.com/blog/2015-09-03-part4-rabbitmq-for-beginners-exchanges-routing-keys-bindings.html)
 [Blog | RabbitMQ for developers by Derick Bailey - CloudAMQP, RabbitMQ as a Service](https://www.cloudamqp.com/blog/2015-07-03-rabbitmq-for-developers-by-derick-bailey.html)
 
-[The Changelog #258: 10 Years of RabbitMQ with Karl Nilsson & Michael Klishin | Changelog](https://changelog.com/podcast/258)
+[10 years of RabbitMQ with Karl Nilsson & Michael Klishin (Changelog Interviews #258)](https://changelog.com/podcast/258)
 
 #### Ecosystem
 
@@ -123,7 +120,7 @@ tags:
 
 ### ActiveMQ
 
-[Apache ActiveMQ ™](http://activemq.apache.org/)
+[Apache ActiveMQ ™](https://activemq.apache.org/)
 [Apache ActiveMQ - Wikiwand](https://www.wikiwand.com/en/Apache_ActiveMQ)
 [ActiveMQ in Action Introduction](https://freecontent.manning.com/wp-content/uploads/introduction-to-apache-activemq.pdf)
 
@@ -132,7 +129,7 @@ Supports AMQP, REST, STOMP, MQTT, OpenWire, XMPP and WebSockets.
 [ActiveMQ Command Line Tools](https://activemq.apache.org/activemq-command-line-tools-reference)
 [ActiveMQ Unix Shell Script](https://activemq.apache.org/unix-shell-script)
 
-[Scaling SpringBoot with Message Queues and Kubernetes ♦︎ Learnk8s](https://learnk8s.io/blog/scaling-spring-boot-microservices/)
+[Scaling Microservices with Message Queues, Spring Boot and Kubernetes](https://learnkube.com/blog/scaling-spring-boot-microservices/)
 
 ## ZeroMQ
 
@@ -141,8 +138,8 @@ Supports AMQP, REST, STOMP, MQTT, OpenWire, XMPP and WebSockets.
 [ZeroMQ](https://zeromq.org/)
 [ZeroMQ - Wikiwand](https://www.wikiwand.com/en/ZeroMQ)
 [The ZeroMQ project](https://github.com/zeromq) GitHub Org
+[zeromq/libzmq: ZeroMQ core engine in C++, implements ZMTP/3.1](https://github.com/zeromq/libzmq)
 [Pieter Hintjens talks about ZeroMQ and open source at CERN, 27 June 2013 - YouTube](https://www.youtube.com/watch?v=fh89cdAIiNg) history and design
-Why should I have written ZeroMQ in C, not C++ [part I](https://250bpm.com/blog:4/) [part II](https://250bpm.com/blog:8/)
 
 Sockets are created from context. The context internally acts as a storage mechanism for global state and, to the user, as a pool of I/O threads.
 Its sockets are not thread-safe!!
@@ -156,7 +153,7 @@ Python: "ZMQError('Operation cannot be accomplished in current state')>"
 ```
 
 [ZeroMQ | Get started](https://zeromq.org/get-started/)
-[ØMQ - The Guide - ØMQ - The Guide](http://zguide.zeromq.org/)
+[ØMQ - The Guide - ØMQ - The Guide](https://zguide.zeromq.org/)
 [23/ZMTP | ZeroMQ RFC](https://rfc.zeromq.org/spec/23/)
 [28/REQREP | ZeroMQ RFC](https://rfc.zeromq.org/spec/28/)
 [29/PUBSUB | ZeroMQ RFC](https://rfc.zeromq.org/spec/29/)
@@ -176,7 +173,6 @@ pnumerics
 [ZeroMQ Crash Course - YouTube](https://www.youtube.com/playlist?list=PLGF-b6e06LqvR-K3xTRukrpkPN13zMEU2)
 
 [ZeroMQ: Modern & Fast Networking Stack - igvita.com](https://www.igvita.com/2010/09/03/zeromq-modern-fast-networking-stack/)
-[Design of PUB/SUB subsystem in ØMQ - 250bpm](http://250bpm.com/blog:39)
 [0MQExperiences](https://indico.esss.lu.se/event/546/contributions/4223/attachments/4196/5757/0MQExperiences.pdf)
 
 [Distributed Messaging with ZeroMQ – Brave New Geek](https://bravenewgeek.com/distributed-messaging-with-zeromq/)
@@ -187,18 +183,18 @@ pnumerics
 [Home - NetMQ](https://netmq.readthedocs.io/en/latest/)
 
 [ZeroMQ | NodeJS](https://zeromq.org/languages/nodejs/)
-[zeromq.js](http://zeromq.github.io/zeromq.js/)
+[zeromq.js](https://zeromq.github.io/zeromq.js/)
 [zeromq/zeromq.js: Node.js bindings to the ØMQ library](https://github.com/zeromq/zeromq.js/)
 [Error: Socket is busy writing · Issue #381 · zeromq/zeromq.js](https://github.com/zeromq/zeromq.js/issues/381) use `p-queue` to serialize sending of messages
 
 [ZeroMQ | Python](https://zeromq.org/languages/python/)
 [PyZMQ Documentation](https://pyzmq.readthedocs.io/en/latest/)
 [zeromq/pyzmq: PyZMQ: Python bindings for zeromq](https://github.com/zeromq/pyzmq)
-[Learning ØMQ with pyzmq — Learning 0MQ with examples](https://learning-0mq-with-pyzmq.readthedocs.io/en/latest/index.html)
+[Learning ØMQ with pyzmq — Learning 0MQ with examples](https://learning-0mq-with-pyzmq.readthedocs.io/en/latest/index.html) ❗!important
 
 [rjoydip/node-py-rpc: Node.js and python communication using Remote Procedure Call (RPC)](https://github.com/rjoydip/node-py-rpc)
 
-[zerorpc](http://www.zerorpc.io/)
+[zerorpc](https://www.zerorpc.io/)
 [zerorpc](https://github.com/0rpc)
 [0rpc/zerorpc-node: zerorpc for node.js](https://github.com/0rpc/zerorpc-node)
 [0rpc/zerorpc-python](https://github.com/0rpc/zerorpc-python)
@@ -221,29 +217,21 @@ zmq_send (worker, "OK", 2, 0);
 An IPC/RPC API that uses the Scalability Protocols. nanomsg and NNG should inter-operate (modulo a few caveats).
 Successor of ZeroMQ.
 
-[About Nanomsg](http://nanomsg.org/)
+[About Nanomsg](https://nanomsg.org/)
 
 nanomsg aims to provide a POSIX (BSD socket) API. It uses state-machines to archive thread-safeness.
 [nanomsg/nanomsg: nanomsg library](https://github.com/nanomsg/nanomsg)
 [Getting Started with 'nanomsg'](https://nanomsg.org/gettingstarted/index.html)
+[Bindings](https://nanomsg.org/documentation.html#bindings)
 
 [Differences between nanomsg and ZeroMQ](https://nanomsg.org/documentation-zeromq.html) from Martin Sustrik, the author of both libraries
-[Optimising Subscriptions in nanomsg - 250bpm](http://250bpm.com/blog:19)
-[Getting Rid of ZeroMQ-style Contexts - 250bpm](http://250bpm.com/blog:23)
-[The Callback Hell - 250bpm](http://250bpm.com/blog:24)
-[nanomsg: Towards Full-Blown Configuration Management - 250bpm](http://250bpm.com/blog:26)
-
-[nickdesaulniers/node-nanomsg: Node.js binding for nanomsg](https://github.com/nickdesaulniers/node-nanomsg)
 
 [FLOSS Weekly 469 nanomsg](https://twit.tv/shows/floss-weekly/episodes/469)
 
 ### Scalability Protocols
 
-[About Nanomsg](https://nanomsg.org/)
 [Scalability Protocols](https://staysail.github.io/nng_presentation/nng_presentation.html)
 [A Look at Nanomsg and Scalability Protocols (Why ZeroMQ Shouldn’t Be Your First Choice) – Brave New Geek](https://bravenewgeek.com/a-look-at-nanomsg-and-scalability-protocols/)
-
-[Bindings](https://nanomsg.org/documentation.html#bindings)
 
 [nanocat(1)](https://nanomsg.org/v1.1.5/nanocat.html)
 [https://nng.nanomsg.org/man/v1.3.2/nngcat.1.html](https://nng.nanomsg.org/man/v1.3.2/nngcat.1.html)
@@ -269,7 +257,7 @@ ditched POSIX API, allows callback rather than forcing one to poll file descript
 
 ## Postgres as queue
 
-[Choose Postgres queue technology :: Adriano Caloiaro's personal blog](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/?utm_source=changelog-news)
+[Choose Postgres queue technology :: Adriano Caloiaro's personal blog](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
 
 ## NATS
 
@@ -290,20 +278,20 @@ ditched POSIX API, allows callback rather than forcing one to poll file descript
 
 ## COAP
 
-[CoAP — Constrained Application Protocol | Overview](http://coap.technology/)
+[CoAP — Constrained Application Protocol | Overview](https://coap.space/)
 [Constrained Application Protocol - Wikiwand](https://www.wikiwand.com/en/Constrained_Application_Protocol)
 [RFC 7252 - The Constrained Application Protocol (CoAP)](https://datatracker.ietf.org/doc/html/rfc7252)
 [HTTP vs CoAP · Issue #10 · mcollina/node-coap](https://github.com/mcollina/node-coap/issues/10)
 [Tech Spotlight: The CoAP Protocol | element14 | Tech Connection](https://www.element14.com/community/docs/DOC-90554/l/tech-spotlight-the-coap-protoco) disable JavaScript
 
-[mcollina/node-coap](https://github.com/mcollina/node-coap) binary http over udp
+[coapjs/node-coap: CoAP - Node.js style](https://github.com/coapjs/node-coap)
 
 ## MQTT
 
 MQTT is a pub/sub broker rather than a message queue
 
-[MQTT](http://mqtt.org/)
-[MQTT - Wikiwand](http://www.wikiwand.com/en/MQTT)
+[MQTT](https://mqtt.org/)
+[MQTT - Wikiwand](https://www.wikiwand.com/en/MQTT)
 
 [MQTT Specification](https://mqtt.org/mqtt-specification/)
 [Differences between 3.1.1 and 5.0 · mqtt/mqtt.org Wiki](https://github.com/mqtt/mqtt.org/wiki/Differences-between-3.1.1-and-5.0)
@@ -322,13 +310,12 @@ MQTT is a pub/sub broker rather than a message queue
 
 ### Brokers
 
-[MQTT Dashboard](http://www.mqtt-dashboard.com/)
+[HiveMQ Dashboard](https://www.mqtt-dashboard.com/)
+[HiveMQ - Enterprise ready MQTT to move your IoT data](https://www.hivemq.com/)
 
 [Eclipse Mosquitto](https://mosquitto.org/)
 [Install Mosquitto Broker Raspberry Pi | Random Nerd Tutorials](https://randomnerdtutorials.com/how-to-install-mosquitto-broker-on-raspberry-pi/)
 [mcollina/aedes: Barebone MQTT broker that can run on any stream server, the node way](https://github.com/mcollina/aedes)
-
-[HiveMQ - Enterprise ready MQTT to move your IoT data](https://www.hivemq.com/)
 
 ## XMPP
 
@@ -378,7 +365,7 @@ MQTT is a pub/sub broker rather than a message queue
 
 [Best pub/sub messaging brokers - LogRocket Blog](https://blog.logrocket.com/nodejs-pub-sub-messaging-brokers/)
 
-[Faye: Simple pub-sub messaging for the web](http://faye.jcoglan.com/)
+[Faye: Simple pub/sub messaging for the web](https://faye.jcoglan.com/)
 [faye](https://github.com/faye) Org
 
 [Building A Pub/Sub Service In-House Using Node.js And Redis — Smashing Magazine](https://www.smashingmagazine.com/2018/06/pub-sub-service-in-house-node-js-redis/)
@@ -392,7 +379,7 @@ MQTT is a pub/sub broker rather than a message queue
 
 ## Others
 
-[Ponte - Bringing Things to REST developers](http://eclipse.org/ponte/) Ponte allows you to publish and receive the data using any protocol: HTTP, MQTT and CoAP.
+[Ponte - Bringing Things to REST developers](https://eclipse.org/ponte/) Ponte allows you to publish and receive the data using any protocol: HTTP, MQTT and CoAP.
 [mcollina/ascoltatori: The pub/sub library for node backed by Redis, MongoDB, AMQP (RabbitMQ), ZeroMQ, MQTT (Mosquitto) or just plain node!](https://github.com/mcollina/ascoltatori)
 
 [tj/axon: message-oriented socket library for node.js heavily inspired by zeromq](https://github.com/tj/axon)

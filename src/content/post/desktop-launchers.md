@@ -2,7 +2,7 @@
 title: Desktop Launchers
 description: ""
 created: 2024-01-19
-updated: 2025-01-09
+updated: 2025-09-04
 tags:
   - albert
   - app
@@ -123,11 +123,11 @@ dmenu: run prompt with auto complete
 
 ## Windows
 
-[Wox](http://www.getwox.com/)
+[Flow Launcher](https://www.flowlauncher.com/)
+
 [Find and Run Robot - DonationCoder.com](https://www.donationcoder.com/software/mouser/popular-apps/farr) Launcher
 [LaunchBar Commander - DonationCoder.com](https://www.donationcoder.com/software/mouser/popular-apps/launchbar-commander) Dock
 [donationcoder / mouser - YouTube](https://www.youtube.com/user/mouseryt/featured)
-[Home - Command E](https://getcommande.com/)
 
 ## OSX
 

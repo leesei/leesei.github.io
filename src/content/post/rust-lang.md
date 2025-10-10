@@ -2,7 +2,7 @@
 title: Rust
 description: Static typed, GC-free system language created by Mozilla.
 created: 2015-11-19
-updated: 2025-02-04
+updated: 2025-07-07
 tags:
   - comp/lang
   - package-manager
@@ -52,8 +52,8 @@ GitHub org:
 [The Rust Programming Language - YouTube](https://www.youtube.com/watch?v=d1uraoHM8Gg)
 [C++Now 2017: Niko Matsakis "Rust: Hack Without Fear!" - YouTube](https://www.youtube.com/watch?v=lO1z-7cuRYI)
 
-[#151: Rust with Steve Klabnik and Yehuda Katz - The Changelog](https://changelog.com/151/)
-[SE-Radio Episode 279: Florian Gilcher on Rust : Software Engineering Radio](http://www.se-radio.net/2017/01/se-radio-episode-279-florian-gilcher-on-rust/)
+[The Rust Programming Language with Steve Klabnik and Yehuda Katz (Changelog Interviews #151)](https://changelog.com/podcast/151)
+[SE-Radio Episode 279: Florian Gilcher on Rust : Software Engineering Radio](https://www.se-radio.net/2017/01/se-radio-episode-279-florian-gilcher-on-rust/)
 [Rust in Production](https://www.infoq.com/presentations/rust-production)
 
 ## Getting Started
@@ -789,7 +789,7 @@ Don't choose Rust when requirement is flexible
 
 [Writing a Command Line Tool in Rust](http://mattgathu.github.io/writing-cli-app-rust/)
 [Testing a Rust Command Line Tool](https://mattgathu.github.io/testing-rust-cli-apps/)
-[Rust for Python Programmers by Matt Gathu](http://slides.com/mattgathu/pyrusty#/)
+[Rust for Python Programmers by Matt Gathu](https://slides.com/mattgathu/pyrusty#/)
 
 ---
 

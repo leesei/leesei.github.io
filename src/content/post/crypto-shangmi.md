@@ -2,7 +2,7 @@
 title: Shangmi
 description: A suite of authentication, encryption, and hash algorithms from the People's Republic of China.
 created: 2025-02-20
-updated: 2025-03-24
+updated: 2025-07-07
 tags:
   - crypto
   - cryptography

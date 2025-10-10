@@ -2,7 +2,7 @@
 title: Money and Banking
 description: ""
 created: 2015-10-09
-updated: 2025-01-09
+updated: 2025-09-22
 tags:
   - economics
   - monetary-policy
@@ -32,7 +32,7 @@ tags:
 
 ## Credit Card
 
-[The Fresno Drop - 99% Invisible](http://99percentinvisible.org/episode/the-fresno-drop/) credit card history
+[The Fresno Drop - 99% Invisible](https://99percentinvisible.org/episode/the-fresno-drop/) credit card history
 
 ## Monetary policy
 
@@ -48,11 +48,27 @@ tags:
 - purchasing power parity
 - interest rate parity
 
+### 美元覇權1.0 (黃金)
+
+[Bretton Woods system - Wikiwand](https://www.wikiwand.com/en/articles/Bretton%20Woods%20system)
+[布雷顿森林体系 - Wikiwand](https://www.wikiwand.com/zh/articles/%E5%B8%83%E9%9B%B7%E9%A1%BF%E6%A3%AE%E6%9E%97%E4%BD%93%E7%B3%BB)
+Bretton Woods system collapsed in 1971, US dollar is no longer backed by gold
+
+### 美元覇權2.0 (石油)
+
+[114年前，一位海軍大臣意外獲勝，卻為人類插上了「外血液」系統，離開它300天人類就將崩潰，而生產它的地方，卻是一個遍佈著沙漠與陰謀的地帶……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=L9nTL9lrB8c) 石油促成的美元覇權
+[伊朗：50年前vs50年后，這裡到底發生了什麼？|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=z2kkq_qfvF0)
+[洛克菲勒：人類有史以來第一位萬億富豪，他為何在汽車出現前就認定石油是經濟命脈，真是上帝告訴他的嗎？展開他一生的故事，其中真相，讓人扼腕……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=oiiYS2ucp8c)
+
+### 美元覇權3.0 (StableCoin)
+
+[一定要看：這個世界的「劇本」已經被川普暴露？廣場協議2.0？穩定幣？關稅戰？川普拿到的「劇本」究竟要將我們帶往何處？|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=jcoTKgVx7Tw)
+
 ### Money supply
 
 [货币是怎么产生的？国家要印多少钱？每个人都要了解的财富密码 - YouTube](https://www.youtube.com/watch?v=jW6AxaKjEmE)
 
-[Money supply - Wikiwand](http://www.wikiwand.com/en/Money_supply)
+[Money supply - Wikiwand](https://www.wikiwand.com/en/Money_supply)
 [M1 Definition | Investopedia](http://www.investopedia.com/terms/m/m1.asp)
 [M2 Definition | Investopedia](http://www.investopedia.com/terms/m/m2.asp)
 [M3 Definition | Investopedia](http://www.investopedia.com/terms/m/m3.asp)
@@ -70,6 +86,8 @@ tags:
 
 [【硬核】一口气了解错综复杂的欧债危机 - YouTube](https://www.youtube.com/watch?v=uyAEbrG4vaI)
 [【深度解读】一段视频，看透希腊债务危机！ - YouTube](https://www.youtube.com/watch?v=BcgyPJWclEw)
+
+[週末讀物 | 美國債務的大船很難轉向！瑞·達利歐最新對話，給置身當下的年輕人肺腑建議](https://news.futunn.com/hk/post/62004196/weekend-reading-the-us-debt-juggernaut-is-hard-to-steer)
 
 ## Interest rate/Inflation
 

@@ -2,7 +2,7 @@
 title: Plastics
 description: ""
 created: 2020-09-27
-updated: 2025-03-22
+updated: 2025-07-07
 tags:
   - plastics
   - science

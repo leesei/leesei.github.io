@@ -2,7 +2,7 @@
 title: Google Cloud Platform
 description: ""
 created: 2017-02-11
-updated: 2025-01-09
+updated: 2025-09-26
 tags:
   - gcp
   - google
@@ -63,6 +63,8 @@ gcloud config                 # manage active configuration
 
 [Storing and Retrieving Instance Metadata | Compute Engine Documentation | Google Cloud](https://cloud.google.com/compute/docs/storing-retrieving-metadata)
 
+[永久“白嫖”谷歌云服务器 | 更新整合版 | 创建永久免费VPS、搭建科学上网 | 如何避免反撸扣费 | 每月200G流量 | 试用期过后如何重新激活 - YouTube](https://www.youtube.com/watch?v=12goOU6jG9w)
+
 ## Google Kubernetes Engine (GKE)
 
 [Google Kubernetes Engine | Kubernetes Engine | Google Cloud](https://cloud.google.com/kubernetes-engine/)
@@ -89,7 +91,7 @@ gcloud components install app-engine-python-extras
 Use `gcloud app` subcommand to manage GAE applications.
 
 [Managing Cloud Platform Projects, App Engine Applications, and Billing | App Engine standard environment for Python | Google Cloud Platform](https://cloud.google.com/appengine/docs/python/console/)
-[google app engine - `gcloud app deploy` vs. `appcfg.py` - Stack Overflow](http://stackoverflow.com/questions/39280666/gcloud-app-deploy-vs-appcfg-py)
+[google app engine - `gcloud app deploy` vs. `appcfg.py` - Stack Overflow](https://stackoverflow.com/questions/39280666/gcloud-app-deploy-vs-appcfg-py)
 
 [Google App Engine Documentation | App Engine Documentation | Google Cloud](https://cloud.google.com/appengine/docs/)
 
@@ -142,7 +144,7 @@ Google bought Firebase in 2014 and migrated its Google Cloud Messaging to Fireba
 Also provides static hosting and FaaS.
 
 [Firebase](https://firebase.google.com/)
-[Firebase - Wikiwand](http://www.wikiwand.com/en/Firebase)
+[Firebase - Wikiwand](https://www.wikiwand.com/en/Firebase)
 [Firebase Products](https://firebase.google.com/products-build)
 [Firebase Authentication | Simple, free multi-platform sign-in](https://firebase.google.com/products/auth)
 [Firebase Realtime Database | Store and sync data in real time](https://firebase.google.com/products/realtime-database/)

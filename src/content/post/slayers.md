@@ -2,7 +2,7 @@
 title: Slayers
 description: ""
 created: 2017-11-15
-updated: 2025-06-02
+updated: 2025-07-07
 tags:
   - anime
   - slayers

@@ -2,7 +2,7 @@
 title: Linux Tips and Tricks
 description: ""
 created: 2016-03-11
-updated: 2025-06-09
+updated: 2025-07-29
 tags:
   - app
   - desktop
@@ -169,6 +169,7 @@ free -h
 printf "\n${SWAPFILE} swap swap sw 0 0\n" >> /etc/fstab
 ```
 
+[kernel - Why is swap being used even though I have plenty of free RAM? - Ask Ubuntu](https://askubuntu.com/questions/157793/why-is-swap-being-used-even-though-i-have-plenty-of-free-ram)
 [Linux Add a Swap File – Howto](http://www.cyberciti.biz/faq/linux-add-a-swap-file-howto/)
 [hakavlad/nohang: A sophisticated low memory handler for Linux](https://github.com/hakavlad/nohang)
 

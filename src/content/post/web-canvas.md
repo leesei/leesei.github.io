@@ -2,7 +2,7 @@
 title: HTML Canvas
 description: ""
 created: 2016-04-08
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - web
   - web/2d
@@ -108,7 +108,7 @@ Fork of KineticJS
 
 ### Viewport
 
-[javascript - HTML5 Canvas camera/viewport - how to actally do it? - Stack Overflow](http://stackoverflow.com/questions/16919601/html5-canvas-camera-viewport-how-to-actally-do-it)
+[javascript - HTML5 Canvas camera/viewport - how to actally do it? - Stack Overflow](https://stackoverflow.com/questions/16919601/html5-canvas-camera-viewport-how-to-actally-do-it)
 [A 2d Viewport for Canvas | The Simple Part](http://karlagius.com/2013/03/23/a-2d-viewport-for-canvas/)
 
 ### Saving Canvas as Image

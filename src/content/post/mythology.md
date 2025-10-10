@@ -2,14 +2,14 @@
 title: Mythology
 description: ""
 created: 2015-08-01
-updated: 2025-02-07
+updated: 2025-07-07
 tags:
   - trivia
 ---
 
-[Creation myth - Wikiwand](http://www.wikiwand.com/en/Creation_myth)
-[Rigvedic deities - Wikiwand](http://www.wikiwand.com/en/Rigvedic_deities)
-[Conceptions of God - Wikiwand](http://www.wikiwand.com/en/Conceptions_of_God)
+[Creation myth - Wikiwand](https://www.wikiwand.com/en/Creation_myth)
+[Rigvedic deities - Wikiwand](https://www.wikiwand.com/en/Rigvedic_deities)
+[Conceptions of God - Wikiwand](https://www.wikiwand.com/en/Conceptions_of_God)
 
 [Encyclopedia Mythica: mythology, folklore, and religion.](http://www.pantheon.org/)
 [Gods And Monsters - Ancient to Modern Mythology](http://www.gods-and-monsters.com/)
@@ -148,7 +148,7 @@ Tengu Media, 炎帝為黃河農耕民族 (仰韶, 大地灣, 老官台文化, �
 
 ## Greek
 
-[Greek mythology - Wikiwand](http://www.wikiwand.com/en/Greek_mythology)
+[Greek mythology - Wikiwand](https://www.wikiwand.com/en/Greek_mythology)
 
 [Greek Mythology](http://messagenetcommresearch.com/myths/)
 [THEOI GREEK MYTHOLOGY, Exploring Mythology & the Greek Gods in Classical Literature & Art](http://www.theoi.com/)
@@ -193,9 +193,9 @@ Romans adopts Greek mythology so most (if not all) of Roman deities have Greek c
 
 ## Hindu
 
-[印度神话 - Wikiwand](http://www.wikiwand.com/zh/印度神话)
-[Hindu mythology - Wikiwand](http://www.wikiwand.com/en/Hindu_mythology)
-[Buddhist cosmology - Wikiwand](http://www.wikiwand.com/en/Buddhist_cosmology)
+[印度神话 - Wikiwand](https://www.wikiwand.com/zh/印度神话)
+[Hindu mythology - Wikiwand](https://www.wikiwand.com/en/Hindu_mythology)
+[Buddhist cosmology - Wikiwand](https://www.wikiwand.com/en/Buddhist_cosmology)
 
 [Encyclopedia Mythica: Hindu mythology](http://www.pantheon.org/areas/mythology/asia/hindu/)
 [Hindu mythology and religion | Encyclopedia Mythica](https://pantheon.org/mythology/hindu/)
@@ -205,7 +205,7 @@ Romans adopts Greek mythology so most (if not all) of Roman deities have Greek c
 
 ## Norse
 
-[Norse mythology - Wikiwand](http://www.wikiwand.com/en/Norse_mythology)
+[Norse mythology - Wikiwand](https://www.wikiwand.com/en/Norse_mythology)
 
 [Norse mythology | Encyclopedia Mythica](https://pantheon.org/mythology/norse/)
 
@@ -227,7 +227,7 @@ Upon the discovery of new planets in the Solar system, a God's name was chosen t
 
 # Creatures
 
-[Legendary creature - Wikiwand](http://www.wikiwand.com/en/Legendary_creature)
+[Legendary creature - Wikiwand](https://www.wikiwand.com/en/Legendary_creature)
 [Lists of legendary creatures - Wikiwand](https://www.wikiwand.com/en/Lists_of_legendary_creatures)
 [The List of Mythical Creatures - A Gods and Monsters Exclusive](http://www.gods-and-monsters.com/list-of-mythical-creatures.html)
 [Mythical Creatures - The Ultimate List of Mythological Creatures](http://mythologian.net/mythical-creatures-ultimate-list-mythological-creatures/)

@@ -2,7 +2,7 @@
 title: PlayStation 3 Emulator
 description: ""
 created: 2023-06-12
-updated: 2025-04-28
+updated: 2025-10-01
 tags:
   - emulator
   - games
@@ -109,6 +109,7 @@ Killzone Trilogy
 The Last of Us
 The Last of Us: Left Behind
 Metal Gear Solid 4: Guns of the Patriots
+Odin Sphere: Leifthrasir
 The Ratchet & Clank Trilogy HD Collection
 Ratchet & Clank Future: Tools of Destruction
 Ratchet & Clank Future: A Crack in Time

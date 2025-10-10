@@ -2,7 +2,7 @@
 title: USB
 description: ""
 created: 2019-01-29
-updated: 2025-01-09
+updated: 2025-07-10
 tags:
   - comp/hardware
 ---
@@ -141,6 +141,7 @@ Add your use to `dialout` group
 ## Cables
 
 [USB hardware - Wikiwand](https://www.wikiwand.com/en/USB_hardware#/Connectors)
+[Your USB-C Cable STILL Sucks — I Built a Better One? (DIY or Buy) - YouTube](https://www.youtube.com/watch?v=ZikvlsVDiQY)
 
 [Fastest charging cables - which one is best for you?](https://www.androidauthority.com/fastest-charging-cables-793649/)
 [Google engineer challenges USB-C cables for sale at Amazon - ExtremeTech](https://www.extremetech.com/computing/217556-google-engineer-challenges-usb-c-cables-for-sale-at-amazon)

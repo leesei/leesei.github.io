@@ -2,7 +2,7 @@
 title: Game Emulator
 description: ""
 created: 2017-07-10
-updated: 2025-03-31
+updated: 2025-08-23
 tags:
   - emulator
   - games
@@ -19,6 +19,7 @@ tags:
 [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page)
 [Play classic video games on your computer or mobile device | Emuparadise](https://www.emuparadise.me/)
 [Retro Game Corps](https://retrogamecorps.com/)
+[EmuReady](https://www.emuready.com/)
 
 [N-tertainment X-tended - YouTube](https://www.youtube.com/@n-tertainmentx-tended4760)
 [Alexwpi Game - YouTube](https://www.youtube.com/@AlexwpiGame)

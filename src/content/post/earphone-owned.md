@@ -2,7 +2,7 @@
 title: Earphone Owned
 description: ""
 created: 2023-06-15
-updated: 2025-01-22
+updated: 2025-07-07
 tags:
   - bluetooth
   - comp/hardware

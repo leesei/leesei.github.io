@@ -2,7 +2,7 @@
 title: 戰隊
 description: ""
 created: 2015-05-22
-updated: 2025-01-22
+updated: 2025-07-07
 tags:
   - tokusatsu
 ---

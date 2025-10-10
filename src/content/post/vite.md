@@ -2,7 +2,7 @@
 title: Vite
 description: Next Generation Frontend Tooling
 created: 2023-06-10
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - bundler
   - vite
@@ -23,7 +23,7 @@ tags:
 [Visual Guide to the Modern Frontend Toolchain (Vite) - YouTube](https://www.youtube.com/watch?v=M_edImKoEt8)
 [Vite + \_\_ | CSS-Tricks - CSS-Tricks | CSS-Tricks](https://css-tricks.com/vite-plus-blank/)
 
-[A deep-dive on Vite featuring Evan You (JS Party #212) |> Changelog](https://changelog.com/jsparty/212)
+[A deep-dive on Vite featuring Evan You (JS Party #212)](https://changelog.com/jsparty/212)
 
 ## Comparisons
 
@@ -56,4 +56,4 @@ npm create vite@latest my-react-app -- --template react-ts
 
 [Test your React hooks with Vitest efficiently](https://mayashavin.com/articles/test-react-hooks-with-vitest)
 
-[Vitest && Slidev with Anthony Fu && Patak (JS Party #214) |> Changelog](https://changelog.com/jsparty/214)
+[Vitest && Slidev with Anthony Fu && Patak (JS Party #214)](https://changelog.com/jsparty/214)

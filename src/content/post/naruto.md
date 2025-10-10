@@ -2,7 +2,7 @@
 title: Naruto
 description: ""
 created: 2018-06-21
-updated: 2025-02-16
+updated: 2025-07-07
 tags:
   - anime
   - naruto

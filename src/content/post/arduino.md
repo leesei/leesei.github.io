@@ -2,7 +2,7 @@
 title: Arduino
 description: ""
 created: 2018-09-12
-updated: 2025-01-09
+updated: 2025-07-08
 tags:
   - arduino
   - iot
@@ -11,7 +11,7 @@ tags:
 
 [You can learn Arduino in 15 minutes. - YouTube](https://www.youtube.com/watch?v=nL34zDTPkcs) Arduino is the board and the IDE/Platform, which supports many MCUs
 
-[Arduino - Wikiwand](http://www.wikiwand.com/en/Arduino)
+[Arduino - Wikiwand](https://www.wikiwand.com/en/Arduino)
 [Arduino UNO FAQ | Arduino Tips, Tricks, and Techniques | Adafruit Learning System](https://learn.adafruit.com/arduino-tips-tricks-and-techniques?view=all)
 
 [Is the Arduino Right for Your Project? | Arduino | Maker Pro](https://maker.pro/arduino/tutorial/is-the-arduino-right-for-your-project)
@@ -53,6 +53,25 @@ tags:
 [Arduino v. Arduino | Hackaday](https://hackaday.com/2015/02/25/arduino-v-arduino/)
 [Arduino v Arduino: Part II | Hackaday](https://hackaday.com/2015/03/12/arduino-v-arduino-part-ii/)
 [Arduino vs. Arduino: Musto Out, Banzi In | Hackaday](https://hackaday.com/2017/07/28/arduino-vs-arduino-musto-out-banzi-in/)
+
+## AVR gcc
+
+[Programming AVR microcontrollers in Linux | isamert.net](https://isamert.net/2017/12/22/programming-avr-microcontrollers-in-linux.html)
+
+- `avr-gcc` GNU C compiler for AVR architecture
+- `avr-libc` AVR libraries
+- `avr-binutils` Some AVR tools, we need it to create hex files from compiled programs, because `avrdude` needs a hex file instead of a binary to flash. -` avrdude` A dude that is required to perform flashing
+
+```sh
+# compile for atmega32
+avr-gcc main.c -Os -Wall -mmcu=atmega32 -o main_bin
+# convert bin to hex
+avr-objcopy -j .text -j .data -O ihex main_bin "main.hex"
+# flash to device
+avrdude -c usbasp -p m32 -U flash:w:"main.hex"
+```
+
+[avrdude: driver program for ``simple'' Atmel AVR MCU programmer | avrdude Commands | Man Pages | ManKier](https://www.mankier.com/1/avrdude)
 
 ## Libraries
 

@@ -2,7 +2,7 @@
 title: Remote Desktop
 description: ""
 created: 2016-07-15
-updated: 2025-06-24
+updated: 2025-07-07
 tags:
   - app
 ---

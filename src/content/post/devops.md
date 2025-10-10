@@ -2,16 +2,17 @@
 title: DevOps
 description: ""
 created: 2016-02-17
-updated: 2025-01-09
+updated: 2025-09-23
 tags:
   - dev/deploy
   - devops
 ---
 
+> warning: remove old articles
 > lots of known unknowns and unknown unknowns here
 
-[DevOps - Wikiwand](http://www.wikiwand.com/en/DevOps)
-[System administrator - Wikiwand](http://www.wikiwand.com/en/System_administrator)
+[DevOps - Wikiwand](https://www.wikiwand.com/en/DevOps)
+[System administrator - Wikiwand](https://www.wikiwand.com/en/System_administrator)
 
 [DevOps'ish](https://devopsish.com/)
 [The devo.ps blog | devo.ps](http://devo.ps/blog/)
@@ -64,7 +65,7 @@ tags:
 [DevOps Before and After Kubernetes - The New Stack](https://thenewstack.io/devops-before-and-after-kubernetes/)
 
 [DevOps: Fundamental Answers | Software Engineering Daily](https://softwareengineeringdaily.com/2015/08/31/devops-fundamental-answers/)
-[DevOps at TopTal with Demir Selmanovic - Software Engineering Daily](http://softwareengineeringdaily.com/2016/03/25/devops-toptal-demir-selmanovic/)
+[DevOps at TopTal with Demir Selmanovic - Software Engineering Daily](https://softwareengineeringdaily.com/2016/03/25/devops-toptal-demir-selmanovic/)
 
 [DevOps tools · GitHub](https://github.com/showcases/devops-tools)
 [Must have DevOps tools: make things right from the get-go | IT Svit Blog](https://itsvit.com/blog/must-devops-tools-make-things-right-get-go/)
@@ -95,7 +96,7 @@ tags:
 [Servers for Hackers](https://serversforhackers.com/)
 [High Velocity Ops](https://hvops.com/)
 
-[World's #1 Digital Cloud Certification Course & Training Provider - A Cloud Guru](https://acloudguru.com/) Merged with Linux Academy
+[A Cloud Guru - Get Cloud Certified](https://www.pluralsight.com/cloud-guru) bought with Linux Academy, now part of Pluralsight
 [Adrian Cockcroft's Blog: Ops, DevOps and PaaS (NoOps) at Netflix](http://perfcap.blogspot.hk/2012/03/ops-devops-and-noops-at-netflix.html)
 
 [OneOps | Home](http://oneops.com/) by Walmart
@@ -134,7 +135,7 @@ Reddit:
 [Welcome to WALKOFF’s documentation! — WALKOFF 1.0 documentation](https://walkoff.readthedocs.io/en/latest/)
 [nsacyber/WALKOFF: A flexible, easy to use, automation framework allowing users to integrate their capabilities and devices to cut through the repetitive, tedious tasks slowing them down.](https://github.com/nsacyber/WALKOFF)
 
-[Automating Infrastructure at HashiCorp with Mitchell Hashimoto - Software Engineering Daily](http://softwareengineeringdaily.com/2016/04/05/automating-infrastructure-hashicorp/)
+[Automating Infrastructure at HashiCorp with Mitchell Hashimoto - Software Engineering Daily](https://softwareengineeringdaily.com/2016/04/05/automating-infrastructure-hashicorp/)
 Deployment:
 Acquisition (of resources)
 Provision
@@ -146,7 +147,7 @@ Map set of works to limited resources, simply put: where to execute the next nod
 Abstracts infrastructure provider
 Takes app and deploy to machine
 
-[Category:Cloud infrastructure - Wikiwand](http://www.wikiwand.com/en/Category:Cloud_infrastructure)
+[Category:Cloud infrastructure - Wikiwand](https://www.wikiwand.com/en/Category:Cloud_infrastructure)
 [DevOps for University Students — DevOps for University Students 2014.02.19 documentation](http://lancealbertson.com/slides/devopsbootcamp-scale12x/)
 [Docker And Kubernetes: Furthering The Goals Of DevOps Automation](https://www.forbes.com/sites/forbestechcouncil/2018/10/10/docker-and-kubernetes-furthering-the-goals-of-devops-automation/amp/)
 
@@ -156,8 +157,8 @@ Takes app and deploy to machine
 [Ubuntu Server Guide | Ubuntu](https://ubuntu.com/server/docs)
 [Basic Setup For A New Linux Server | devo.ps](http://devo.ps/blog/basic-setup-for-a-new-linux-server/)
 [DevOps FoMO? Get up to speed on culture and continuous delivery with the DevOps Fundamentals Series — Thiago Almeida](http://www.talmeida.net/blog/devops-fundamentals-series?wt.mc_id=DX_309514)
-[A Transition Guide from System Admin to DevOps Engineer - Level UpLevel Up](https://www.level-up.one/a-transition-guide-from-system-admin-to-devops-engineer/)
-[The Saga of CI/CD and DevOps - Level UpLevel Up](https://www.level-up.one/saga-ci-cd-devops/)
+[A Transition Guide from System Admin to DevOps Engineer | by Level Up Education | Medium](https://medium.com/@tao_66792/a-transition-guide-from-system-admin-to-devops-engineer-16354b571c52) 2018
+[The Saga of CI/CD and DevOps. DevOps is on the rise because it… | by Level Up Education | Good Audience](https://blog.goodaudience.com/the-saga-of-ci-cd-and-devops-1c14a28989dc)
 
 [OpenNebula | Flexible Enterprise Cloud Made Simple](http://opennebula.org/)
 
@@ -409,7 +410,7 @@ Spinnaker is an open source, multi-cloud continuous delivery platform for releas
 Registration: the process for publishing the availability of a service.
 Discovery: the process of looking up the available service.
 
-[SE-Radio Episode 264: James Phillips on Service Discovery : Software Engineering Radio](http://www.se-radio.net/2016/08/se-radio-episode-264-james-phillips-on-service-discovery/)
+[SE-Radio Episode 264: James Phillips on Service Discovery : Software Engineering Radio](https://www.se-radio.net/2016/08/se-radio-episode-264-james-phillips-on-service-discovery/)
 
 [Service Discovery; or, Why each microservice should believe it's the …](http://www.slideshare.net/nearForm/service-discovery-or-why-each-microservice-should-believe-its-the-only-one-in-the-world-by-richard-rodger)
 [An Introduction to Microservices, Part 3: The Service Registry](https://auth0.com/blog/2015/10/02/an-introduction-to-microservices-part-3-the-service-registry/) ❗!important
@@ -550,7 +551,12 @@ Check every X minutes, recheck every Y minutes up to N times before generating a
 [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](http://research.google.com/pubs/pub36356.html)
 [Hypertrace - Open source distributed tracing](https://www.hypertrace.org/)
 
+[Atlas React UI](https://atlasdemo.vnerd.nl/)
+[karam-ajaj/atlas: Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning.](https://github.com/karam-ajaj/atlas)
+
 [Announcing Hubble - Network, Service & Security Observability for Kubernetes — Cilium](https://cilium.io/blog/2019/11/19/announcing-hubble)
+
+[Ryan Jacobs – Medium](https://medium.com/@ryanjjacobs) Kubernetes Monitoring — A Complete Solution series
 
 [Network UPS Tools - Welcome](https://networkupstools.org/)
 [Network UPS Tools (NUT) Ultimate Guide | Techno Tim Documentation](https://docs.technotim.live/posts/NUT-server-guide/)
@@ -564,6 +570,8 @@ Check every X minutes, recheck every Y minutes up to N times before generating a
 
 [Easy, proactive monitoring of Unix systems, network and cloud services | M/Monit](https://mmonit.com/)
 [Bare-Bones Monitoring with Monit and RRDtool | Linux Journal](https://www.linuxjournal.com/content/bare-bones-monitoring-monit-and-rrdtool)
+
+[bluewave-labs/Checkmate: Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: https://discord.com/invite/NAb6H3UTjK :)](https://github.com/bluewave-labs/Checkmate)
 
 [phith0n/vindicator: Vindicator is a lightweight Golang library that is designed to hold and check any blocking function. e.g. subprocess, network connection...](https://github.com/phith0n/vindicator)
 
@@ -688,7 +696,7 @@ Grafana is a modern implementation of Graphite.
 
 [Prometheus - Monitoring system & time series database](https://prometheus.io/)
 [Prometheus](https://github.com/prometheus)
-[Rancher Labs | Docker Monitoring Continued: Prometheus and Sysdig | Rancher Labs](http://rancher.com/docker-monitoring-continued-prometheus-and-sysdig/)
+[Rancher Labs | Docker Monitoring Continued: Prometheus and Sysdig | Rancher Labs](https://rancher.com/docker-monitoring-continued-prometheus-and-sysdig/)
 [Prometheus: The Documentary - YouTube](https://www.youtube.com/watch?v=rT4fJNbfe14)
 [Prometheus (Thanos) Tutorials - YouTube](https://www.youtube.com/playlist?list=PLiMWaCMwGJXk_mMqMJ_1f7feroMNLFlS8)
 
@@ -696,7 +704,7 @@ Grafana is a modern implementation of Graphite.
 
 [Docker Swarm monitoring - ITNEXT](https://itnext.io/docker-swarm-monitoring-4dfe88c72d56)
 
-[Prometheus 原理和源码分析](http://www.infoq.com/cn/articles/Prometheus-theory-source-code)
+[Prometheus 原理和源码分析](https://www.infoq.cn/article/Prometheus-theory-source-code)
 [Monitoring Kubernetes with Prometheus, Grafana and Helm](https://rohanc.me/monitoring-kubernetes-prometheus-grafana/)
 [The Definitive Guide To Prometheus in 2019 – devconnected](http://devconnected.com/the-definitive-guide-to-prometheus-in-2019/)
 [Prometheus For Beginners - ITNEXT](https://itnext.io/prometheus-for-beginners-5f20c2e89b6c)
@@ -716,7 +724,7 @@ Grafana is a modern implementation of Graphite.
 [M3: Uber’s Open Source, Large-scale Metrics Platform for Prometheus](https://eng.uber.com/m3/)
 [M3 and Prometheus, Monitoring at Planet Scale for Everyone - Rob Skillington, Uber - YouTube](https://www.youtube.com/watch?v=EFutyuIpFXQ)
 
-[#168: Prometheus and Service Monitoring with Julius Volz from SoundCloud - The Changelog](https://changelog.com/168/)
+[Prometheus and service monitoring (Changelog Interviews #168)](https://changelog.com/podcast/168)
 
 - Time series tracking
 - Dashboard

@@ -2,10 +2,12 @@
 title: Chinese Politics
 description: ""
 created: 2023-03-27
-updated: 2025-03-20
+updated: 2025-08-06
 tags:
   - politics
 ---
+
+## 現代中國官僚體系
 
 [一個機構兩塊牌子 - Wikiwand](https://www.wikiwand.com/zh-hk/%E4%B8%80%E4%B8%AA%E6%9C%BA%E6%9E%84%E4%B8%A4%E5%9D%97%E7%89%8C%E5%AD%90)
 [一个机构两块牌子 - Wikiwand](https://www.wikiwand.com/zh-cn/articles/%E4%B8%80%E4%B8%AA%E6%9C%BA%E6%9E%84%E4%B8%A4%E5%9D%97%E7%89%8C%E5%AD%90)
@@ -22,3 +24,12 @@ tags:
 
 總統 President
 總理 Prime Minister
+
+## 權
+
+[说话的人和做事的人有何不同？｜罗振宇《文明之旅》之1066 - YouTube](https://www.youtube.com/watch?v=NYtpBw_u_s8)
+20:07 保衛皇權的合法性和穩定性
+24:33 商: 兄終弟及; 周: 父死子繼; 「蓋天下之大利莫如定, 其大害莫如爭」
+30:18: 權: 反常 《說文解字》; 行權 vs 守經; 沒有規矩的時候或不按規矩能作決定謂之權, 所以創做一個反常的環境然後作讓人接受的決定是建立權威的方法, 如商鞅徙木立信, 趙高指鹿為馬
+34:44 有明確及具體的行動目標下, 為干實事並對結果負責, 可以暫時不講是非
+54:30 「物有本末, 事有終紿。知所先後, 則近道矣。」 《大學》

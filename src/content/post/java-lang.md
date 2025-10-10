@@ -2,7 +2,7 @@
 title: Java
 description: ""
 created: 2016-03-04
-updated: 2025-01-09
+updated: 2025-08-24
 tags:
   - clojure
   - comp/lang
@@ -28,6 +28,12 @@ It's easier to extract the JDK tarball and use `JAVA_HOME` to use it.
 
 ```sh
 JAVA_HOME=/usr/local/share/jdk1.8.0_91 java_app
+```
+
+Use this to look up `JAVA_HOME` or a the current Java installation:
+
+```sh
+readlink -f $(which java) | sed "s:bin/java::"
 ```
 
 [OpenJDK](https://openjdk.java.net/)
@@ -112,7 +118,7 @@ mvn archetype:generate -DgroupId={project-packaging}
 
 ## Internals
 
-[JVM Optimization 101](http://www.infoq.com/presentations/jvm-optimization)
+[JVM Optimization 101](https://www.infoq.com/presentations/jvm-optimization)
 [Honey, you have changed quite a bit lately, haven't you? | Elastic](https://www.elastic.co/blog/honey-you-have-changed-quite-a-bit)
 
 [A Primer on JVM Memory Management and Troubleshooting - 1](https://dev.to/rrampage/a-primer-on-jvm-memory-management-and-troubleshooting---1-12b6)
@@ -162,14 +168,14 @@ http service scalability
 
 [JVM Minimal Survival Guide – Hadi Hariri](https://hadihariri.com/2013/12/29/jvm-minimal-survival-guide-for-the-dotnet-developer/)
 
-[SE-Radio Episode 266: Charles Nutter on the JVM as a Language Platform : Software Engineering Radio](http://www.se-radio.net/2016/08/se-radio-episode-266-charles-nutter-on-the-jvm-as-a-language-platform/)
+[SE-Radio Episode 266: Charles Nutter on the JVM as a Language Platform : Software Engineering Radio](https://www.se-radio.net/2016/08/se-radio-episode-266-charles-nutter-on-the-jvm-as-a-language-platform/)
 JRuby history and compile to JVM in general. The project leads to the introduction of `invokedynamic` to JVM instructions which Java 8's lambdas depends on.
 
 [Java Virtual Machine Support for Non-Java Languages](http://docs.oracle.com/javase/7/docs/technotes/guides/vm/multiple-language-support.html)
 
 [Invokedynamic 101 | JavaWorld](http://www.javaworld.com/article/2860079/learn-java/invokedynamic-101.html)
 [Invokedynamic - Java’s Secret Weapon](https://www.infoq.com/articles/Invokedynamic-Javas-secret-weapon)
-[Why are Java 8 lambdas invoked using invokedynamic? - Stack Overflow](http://stackoverflow.com/questions/30002380/why-are-java-8-lambdas-invoked-using-invokedynamic)
+[Why are Java 8 lambdas invoked using invokedynamic? - Stack Overflow](https://stackoverflow.com/questions/30002380/why-are-java-8-lambdas-invoked-using-invokedynamic)
 [The Apache Groovy programming language - Invoke dynamic support](http://groovy-lang.org/indy.html)
 
 ## GraalVM
@@ -209,8 +215,8 @@ There a many compile-to-bytecode language. They have the advantage of:
 [SDKMAN! the Software Development Kit Manager](http://sdkman.io/) install Java related toolchains
 [Why is Scala more popular than Clojure despite the simplicity of the latter? - Quora](https://www.quora.com/Why-is-Scala-more-popular-than-Clojure-despite-the-simplicity-of-the-latter)
 [Scala VS Groovy: A Response | Kevin Wright | LinkedIn](https://www.linkedin.com/pulse/someone-wrong-internet-kevin-wright)
-[Scala vs. Groovy vs. Clojure - Stack Overflow](http://stackoverflow.com/questions/1314732/scala-vs-groovy-vs-clojure)
-[What are the key differences between Scala and Groovy? - Stack Overflow](http://stackoverflow.com/questions/711913/what-are-the-key-differences-between-scala-and-groovy)
+[Scala vs. Groovy vs. Clojure - Stack Overflow](https://stackoverflow.com/questions/1314732/scala-vs-groovy-vs-clojure)
+[What are the key differences between Scala and Groovy? - Stack Overflow](https://stackoverflow.com/questions/711913/what-are-the-key-differences-between-scala-and-groovy)
 
 [Why I abandoned Java in favour of Kotlin - Hashnode](https://hashnode.com/post/why-i-abandoned-java-in-favour-of-kotlin-ciuzhmecf09khdc530m1ghu6d)
 [Groovy vs Kotlin - Which One Is Best ( With Infographics)](https://www.educba.com/groovy-vs-kotlin/)

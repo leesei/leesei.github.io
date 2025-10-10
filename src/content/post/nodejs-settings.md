@@ -2,7 +2,7 @@
 title: Node.js settings
 description: ""
 created: 2014-12-11
-updated: 2025-01-09
+updated: 2025-08-12
 tags:
   - comp/lang
   - nodejs
@@ -370,6 +370,11 @@ I found yargs option are too complicated
 
 #### config files/env
 
+[Dotenv | Secrets for developers](https://www.dotenv.org/)
+[motdotla/dotenv](https://github.com/motdotla/dotenv)
+[dotenvx | a secure dotenv–from the creator of dotenv](https://dotenvx.com/)
+[dotenvx/dotenvx: a secure dotenv–from the creator of `dotenv`](https://github.com/dotenvx/dotenvx)
+
 [davidtheclark/cosmiconfig: Find and load configuration from a package.json property, rc file, or CommonJS module](https://github.com/davidtheclark/cosmiconfig)
 [AdrieanKhisbe/configue: Configue All the Things.js](https://github.com/AdrieanKhisbe/configue)
 [Env](https://env.t3.gg/) from T3
@@ -377,7 +382,6 @@ I found yargs option are too complicated
 [indexzero-nconf](https://github.com/indexzero/nconf) load and merge config files
 [bevry/envfile](https://github.com/bevry/envfile)
 [defunctzombie/localenv](https://github.com/defunctzombie/localenv)
-[motdotla/dotenv](https://github.com/motdotla/dotenv)
 [zeke/local-env: Load your .env file into process.env](https://github.com/zeke/local-env)
 
 [af/envalid: Environment variable validation for Node.js](https://github.com/af/envalid)

@@ -2,7 +2,7 @@
 title: JavaScript
 description: ""
 created: 2014-12-11
-updated: 2025-04-01
+updated: 2025-07-07
 tags:
   - comp/lang
   - javascript
@@ -16,7 +16,7 @@ Harmony stands for the ES5+ feature set. Some of them will be in ES6, some of th
 
 [The Complete JavaScript Handbook](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c)
 
-[ECMAScript - Wikiwand](http://www.wikiwand.com/en/ECMAScript)
+[ECMAScript - Wikiwand](https://www.wikiwand.com/en/ECMAScript)
 [Brendan Eich » Blog Archive » A Brief History of JavaScript](https://brendaneich.com/2010/07/a-brief-history-of-javascript/)
 [A Short History of JavaScript - Web Education Community Group](https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript)
 [DailyJS: History of JavaScript](http://dailyjs.com/history-of-javascript-index/)
@@ -317,7 +317,7 @@ const arr = new Int32Array(sharedBuffer);
 [How do JavaScript closures work under the hood [Dmitry Frank]](http://dmitryfrank.com/articles/js_closures)
 [Understanding JavaScript Closures – JavaScript, JavaScript…](https://javascriptweblog.wordpress.com/2010/10/25/understanding-javascript-closures/)
 [Let’s Learn JavaScript Closures — Free Code Camp](https://medium.freecodecamp.com/lets-learn-javascript-closures-66feb44f6a44#.q1qjzfj4y)
-[How do JavaScript closures work? - Stack Overflow](http://stackoverflow.com/questions/111102/how-do-javascript-closures-work/111200#111200)
+[How do JavaScript closures work? - Stack Overflow](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work/111200#111200)
 
 [Use JavaScript closures efficiently](http://www.ibm.com/developerworks/library/wa-use-javascript-closures-efficiently/index.html)
 [A simple guide to help you understand closures in JavaScript](https://medium.com/@prashantramnyc/javascript-closures-simplified-d0d23fa06ba4)
@@ -468,7 +468,7 @@ db.allDocs().then(docs =>
 
 ## Date
 
-[Javascript date object always one day off? - Stack Overflow](http://stackoverflow.com/questions/7556591/javascript-date-object-always-one-day-off)
+[Javascript date object always one day off? - Stack Overflow](https://stackoverflow.com/questions/7556591/javascript-date-object-always-one-day-off)
 
 `new Date()` and `Date.parse()` treats `YYYY-MM-DD` as UTC time.
 Replace to `/` (`input.replace('-','/','g')`) is a hack to make it parse to local time.
@@ -601,7 +601,7 @@ Prototypal Inheritance: instances inherit directly from other objects. Instances
 ### Object.create()
 
 [Object.create() - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create)
-[javascript - Understanding Crockford's Object.create shim - Stack Overflow](http://stackoverflow.com/questions/10141086/understanding-crockfords-object-create-shim)
+[javascript - Understanding Crockford's Object.create shim - Stack Overflow](https://stackoverflow.com/questions/10141086/understanding-crockfords-object-create-shim)
 
 ```js
 // http://javascript.crockford.com/prototypal.html
@@ -851,7 +851,7 @@ ReasonML is backed by ReScript which compiles OCaml to JavaScript.
 [A Quick Tour Of ES6 (the bits you'll actually use)](http://jamesknelson.com/es6-the-bits-youll-actually-use/)
 
 [lukehoban/es6features: Overview of ECMAScript 6 features](https://github.com/lukehoban/es6features)
-[ES6 Workshop by Kent C. Dodds](http://slides.com/kentcdodds/es6-workshop)
+[ES6 Workshop by Kent C. Dodds](https://slides.com/kentcdodds/es6-workshop)
 
 [ES6 In Depth Articles ✩ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/category/es6-in-depth/)
 [ES6 Overview in 350 Bullet Points - Pony Foo](https://ponyfoo.com/articles/es6)

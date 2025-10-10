@@ -2,7 +2,7 @@
 title: Hadoop
 description: ""
 created: 2015-01-15
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - app
   - big-data
@@ -11,7 +11,7 @@ tags:
 
 [Welcome to Apache™ Hadoop®!](http://hadoop.apache.org/)
 
-[Hadoop 201 -- Deeper into the Elephant](http://www.infoq.com/presentations/hadoop-hdfs-bigtable)
+[Hadoop 201 -- Deeper into the Elephant](https://www.infoq.com/presentations/hadoop-hdfs-bigtable)
 
 [» Prerequisites for Learning Hadoop – Hadoop Training](http://saphanatutorial.com/prerequisites-for-learning-hadoop/)
 [» Hadoop Cluster – Architecture and Core Components](http://saphanatutorial.com/hadoop-cluster-architecture-and-core-components/)

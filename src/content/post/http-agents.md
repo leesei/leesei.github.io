@@ -2,7 +2,7 @@
 title: HTTP agents
 description: ""
 created: 2014-12-11
-updated: 2025-06-27
+updated: 2025-08-27
 tags:
   - curl
   - har
@@ -44,7 +44,7 @@ http --print -Hh OPTIONS \
 
 ## cURL
 
-[#153: 17 Years of curl With Daniel Stenberg - The Changelog](https://changelog.com/153/)
+[17 Years of curl with Daniel Stenberg (Changelog Interviews #153)](https://changelog.com/podcast/153)
 [Everything curl - GitBook](https://www.gitbook.com/book/bagder/everything-curl/details)
 [Chapter 3: cURL | Conquering the Command Line | Softcover.io](http://conqueringthecommandline.com/book/curl)
 [lexiforest/curl-impersonate: An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome and Firefox.](https://github.com/lexiforest/curl-impersonate)
@@ -154,7 +154,49 @@ xh URL foo=bar number:=7 query==value
 # headers
 xh URL header:value remove-header: header-without-value;
 
+cat body.json | xh POST URL
+xh POST URL <<EOF
+{
+  "user": "user",
+  "password": "password"
+}
+EOF
+
+# to support cookie
 xh --session session.json URL
+```
+
+## httpYac
+
+[httpYac](https://httpyac.github.io/)
+
+- CLI app, also have VS Code extension  
+  [httpYac - Rest Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=anweber.vscode-httpyac)  
+  [httpBook - Rest Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=anweber.httpbook)
+- supports `.http` file like Rest Client
+  partial support for Rest Client's System Variables
+- supports OAuth2 and custom auth flow
+- supports GraphQL, gRPC, WebSocket, MQTT, AMQP/RabbitMQ
+- supports scripts and plugins
+- [Feature comparisons | httpYac](https://httpyac.github.io/guide/#feature-comparisons)  
+  better than Rest Client in some aspects  
+  but there is no "exchange" mode (showing all conversions between client and server, akin to `xh -v`)
+
+## aria2
+
+[aria2](https://aria2.github.io/)
+[aria2/aria2: aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.](https://github.com/aria2/aria2)
+
+```sh
+aria2c -x 4 -k 1M [url]  # 4 connections
+```
+
+## HTTrack
+
+[HTTrack Website Copier - Free Software Offline Browser (GNU GPL)](https://www.httrack.com/)
+
+```sh
+httrack -c8 [url]
 ```
 
 ## httpie
@@ -208,27 +250,10 @@ http -b POST https://api.server/tokens "Authorization: Bearer ${TOKEN}" <<EOF
 EOF
 ```
 
-## aria2
-
-[aria2](https://aria2.github.io/)
-[aria2/aria2: aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.](https://github.com/aria2/aria2)
-
-```sh
-aria2c -x 4 -k 1M [url]  # 4 connections
-```
-
-## HTTrack
-
-[HTTrack Website Copier - Free Software Offline Browser (GNU GPL)](https://www.httrack.com/)
-
-```sh
-httrack -c8 [url]
-```
-
 ## GUI App
 
-> I recommend REST Client on VSCode or scripts on HTTPie/xh/curl
-> that way you own your collections
+> I recommend REST Client on VSCode or scripts using xh/HTTPie/curl
+> then you own your collections without depending on SaaS
 
 [Hurl - Run and Test HTTP Requests](https://hurl.dev/) similar to REST Client, but more powerful
 
@@ -249,6 +274,8 @@ httrack -c8 [url]
 
 [REST Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 [Huachao/vscode-restclient: REST Client Extension for Visual Studio Code](https://github.com/Huachao/vscode-restclient)
+
+[System Variables](https://github.com/Huachao/vscode-restclient#system-variables)
 
 [Show request headers as well as response · Issue #99 · Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient/issues/99#issuecomment-332139174)
 Set `previewOption` to `exchange` (default `full`) to view requests

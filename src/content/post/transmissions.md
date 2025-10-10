@@ -2,7 +2,7 @@
 title: Transmission and Drivetrain
 description: ""
 created: 2015-09-23
-updated: 2025-03-16
+updated: 2025-07-07
 tags:
   - automobile
   - drivetrain
@@ -11,7 +11,7 @@ tags:
 
 [CLASSIC: What Do Transmissions Do? - TechStuff (podcast)](https://player.fm/series/techstuff/classic-what-do-transmissions-do)
 
-[Transmission (mechanics) - Wikiwand](<http://www.wikiwand.com/en/Transmission_(mechanics)>)
+[Transmission (mechanics) - Wikiwand](<https://www.wikiwand.com/en/Transmission_(mechanics)>)
 [Continuously variable transmission - Wikiwand](https://www.wikiwand.com/en/Continuously_variable_transmission)
 
 [Car Transmission and Drivetrain Systems | HowStuffWorks](https://auto.howstuffworks.com/car-transmission-drivetrain-systems-channel.htm)

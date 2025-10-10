@@ -2,7 +2,7 @@
 title: Kubernetes
 description: ""
 created: 2014-12-11
-updated: 2025-04-09
+updated: 2025-09-23
 tags:
   - container
   - dev/deploy
@@ -13,14 +13,16 @@ tags:
   - web/deploy
 ---
 
-[Kubernetes by Google](http://kubernetes.io/)
-[Kubernetes - Wikiwand](http://www.wikiwand.com/en/Kubernetes)
+> warning: remove old articles
+
+[Kubernetes by Google](https://kubernetes.io/)
+[Kubernetes - Wikiwand](https://www.wikiwand.com/en/Kubernetes)
 [community/sig-list.md at master · kubernetes/community](https://github.com/kubernetes/community/blob/master/sig-list.md)
 [Exploring the New Kubernetes Maturity Model – The New Stack](https://thenewstack.io/exploring-the-new-kubernetes-maturity-model/)
 
 [Play with Kubernetes Classroom](https://training.play-with-kubernetes.com/)
 [Kubernetes for Beginners](https://training.play-with-kubernetes.com/kubernetes-workshop/)
-[Deploying and Scaling Microservices with Docker and Kubernetes](http://container.training/kube-selfpaced.yml.html#1)
+[Deploying and Scaling Microservices with Docker and Kubernetes](https://container.training/kube-selfpaced.yml.html#1)
 
 [10 Years of Kubernetes: Past, Present, and Future - The New Stack](https://thenewstack.io/10-years-of-kubernetes-past-present-and-future/)
 [Kubernetes: The Documentary [PART 1] - YouTube](https://www.youtube.com/watch?v=BE77h7dmoQU)
@@ -37,7 +39,7 @@ tags:
 [What is Kubernetes?](https://www.redhat.com/en/topics/containers/what-is-kubernetes)
 [What Is Kubernetes? - DZone Cloud](https://dzone.com/articles/what-is-kubernetes)
 [What is Kubernetes?](https://blog.kontena.io/what-is-kubernetes/)
-[How Kubernetes works | InfoWorld](https://www.infoworld.com/article/3617008/how-kubernetes-works.html)
+[How Kubernetes works | InfoWorld](https://www.infoworld.com/article/2265488/how-kubernetes-works.html)
 [Kubernetes: An Overview - The New Stack](https://thenewstack.io/kubernetes-an-overview/) 2016
 [How Does Kubernetes Work? – The New Stack](https://thenewstack.io/how-does-kubernetes-work/) 2020
 [A few things I've learned about Kubernetes - Julia Evans](https://jvns.ca/blog/2017/06/04/learning-about-kubernetes/)
@@ -53,7 +55,7 @@ tags:
 [Kubernetes Crash Course for Absolute Beginners [NEW] - YouTube](https://www.youtube.com/watch?v=s_o8dwzRlu4) 2021-09
 [Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours] - YouTube](https://www.youtube.com/watch?v=X48VuDVv0do) 2020-11
 
-[Kubernetes: The Illustrated Children's Guide to Kubernetes](http://blog.kubernetes.io/2016/06/illustrated-childrens-guide-to-kubernetes.html)
+[The Illustrated Children's Guide to Kubernetes | Kubernetes](https://kubernetes.io/blog/2016/06/illustrated-childrens-guide-to-kubernetes/)
 [Phippy and Friends - Cloud Native Computing Foundation](https://www.cncf.io/phippy/)
 [Azure/phippyandfriends: Simple demonstration, inspired by the Children's Illustrated Guide to Kubernetes, of AKS.](https://github.com/Azure/phippyandfriends)
 [Kubernetes for dummies tutorial - Spectro Cloud](https://www.spectrocloud.com/blog/kubernetes-for-dummies/)
@@ -62,11 +64,11 @@ tags:
 [Kubernetes explained in pictures: the theme park analogy - DEV Community 👩‍💻👨‍💻](https://dev.to/danlebrero/kubernetes-explained-in-pictures-the-theme-park-analogy-3d99)
 [The Illustrated Children's Guide to Kubernetes - YouTube](https://www.youtube.com/watch?v=Q4W8Z-D-gcQ)
 
-[Kubernetes 1.4 makes container orchestration bigger -- and simpler | InfoWorld](http://www.infoworld.com/article/3124401/open-source-tools/kubernetes-14-makes-container-orchestration-bigger-and-simpler.html)
+[Kubernetes 1.4 makes container orchestration bigger -- and simpler | InfoWorld](https://www.infoworld.com/article/3124401/open-source-tools/kubernetes-14-makes-container-orchestration-bigger-and-simpler.html)
 [What’s new in Kubernetes containers | InfoWorld](https://www.infoworld.com/article/3229359/containers/whats-new-in-kubernetes-containers.html) changelog
 [What is Kubernetes? Container orchestration explained | InfoWorld](https://www.infoworld.com/article/3268073/containers/what-is-kubernetes-container-orchestration-explained.html)
-[How to get started with Kubernetes | InfoWorld](http://www.infoworld.com/article/3207686/cloud-computing/how-to-get-started-with-kubernetes.html)
-[4 reasons you should use Kubernetes | InfoWorld](http://www.infoworld.com/article/3173266/data-center/4-reasons-you-should-use-kubernetes.html)
+[How to get started with Kubernetes | InfoWorld](https://www.infoworld.com/article/3207686/cloud-computing/how-to-get-started-with-kubernetes.html)
+[4 reasons you should use Kubernetes | InfoWorld](https://www.infoworld.com/article/3173266/data-center/4-reasons-you-should-use-kubernetes.html)
 [Making Kubernetes work for the average engineer—via PaaS | InfoWorld](https://www.infoworld.com/article/3273104/containers/making-kubernetes-work-for-the-average-engineer-via-paas.html) why k8s is complex
 [Has Kubernetes Already Become Too Unnecessarily Complex for Enterprise IT? - The New Stack](https://thenewstack.io/has-kubernetes-already-become-too-unnecessarily-complex-for-enterprise-it/)
 [Building Applications to Increase Kubernetes Adoption, and Make Life Easier - Kate Kuchin, Heptio - YouTube](https://www.youtube.com/watch?v=X2icFkQMg60) "Kubernetes was designed by systems engineers, for systems engineers, which is great, if you’re a systems engineer."
@@ -85,8 +87,8 @@ tags:
 
 [Forget K9 it's K8S time: A Kubernetes Primer Part I](https://turbonomic.com/blog/on-technology/forget-k9-its-time-for-k8-k8s-that-is-a-kubernetes-primer-part-i/)
 
-[Scaling Docker with Kubernetes](http://www.infoq.com/articles/scaling-docker-with-kubernetes)
-[Demystifying Kubernetes: the tool to manage Google-scale workloads in the cloud](http://www.computerweekly.com/feature/Demystifying-Kubernetes-the-tool-to-manage-Google-scale-workloads-in-the-cloud)
+[Scaling Docker with Kubernetes](https://www.infoq.com/articles/scaling-docker-with-kubernetes)
+[Demystifying Kubernetes: the tool to manage Google-scale workloads in the cloud](https://www.computerweekly.com/feature/Demystifying-Kubernetes-the-tool-to-manage-Google-scale-workloads-in-the-cloud)
 [Containers on Google Cloud Platform - Compute Engine — Google Cloud Platform](https://cloud.google.com/compute/docs/containers)
 
 ## On the contrary
@@ -136,7 +138,7 @@ tags:
 [Components of Kubernetes Architecture - Level Up Coding](https://levelup.gitconnected.com/components-of-kubernetes-architecture-6feea4d5c712)
 [Introduction to Kubernetes - Google Slides](https://docs.google.com/presentation/d/1zrfVlE5r61ZNQrmXKx5gJmBcXnoa_WerHEnTxu5SMco/)
 [jamiehannaford/what-happens-when-k8s: 🤔 What happens when I type kubectl run?](https://github.com/jamiehannaford/what-happens-when-k8s)
-[The Kubernetes Bible for Beginners & Developers - Level UpLevel Up](https://www.level-up.one/kubernetes-bible-beginners/)
+[The Kubernetes Bible for Beginners & Developers | by Level Up Education | Medium](https://medium.com/@tao_66792/the-kubernetes-bible-for-beginners-developers-29cdd7a00a0c)
 [Getting Started With Kubernetes - DZone - Refcardz](https://dzone.com/refcardz/kubernetes-essentials?chapter=1)
 [A Complete Introduction to Kubernetes — an Orchestration Tool for Containers - DZone Cloud](https://dzone.com/articles/a-complete-introduction-to-kubernetes-an-orchestra?fromrel=true)
 [Kubernetes basic glossary – Kamil Lelonek  -  programming blog](https://blog.lelonek.me/kubernetes-basic-glossary-9ca0416e3948)
@@ -162,12 +164,12 @@ Kubernetes pods are a group of containers that act like a single VM: they have a
 [docker101/play-with-kubernetes/concepts/namespace at master · ajeetraina/docker101](https://github.com/ajeetraina/docker101/tree/master/play-with-kubernetes/concepts/namespace)
 [All I Need Is A Kubernetes Namespace | by Luc Juggery | Level Up Coding](https://levelup.gitconnected.com/kubernetes-tips-all-i-need-is-a-namespace-c81dec026294)
 
-[The DevOps 2.3 Toolkit: Kubernetes Workshop](http://vfarcic.github.io/devops23/workshop.html)
+[The DevOps 2.3 Toolkit: Kubernetes Workshop](https://vfarcic.github.io/devops23/workshop.html)
 
 ### Objects/CRD
 
-[Understanding Kubernetes Objects - Kubernetes](https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects)
-[Object Management Using kubectl - Kubernetes](https://kubernetes.io/docs/concepts/overview/object-management-kubectl/)
+[Objects In Kubernetes | Kubernetes](https://kubernetes.io/docs/concepts/overview/working-with-objects/)
+[Kubernetes Object Management | Kubernetes](https://kubernetes.io/docs/concepts/overview/working-with-objects/object-management/)
 
 [Custom Resources - Kubernetes](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/)
 
@@ -178,7 +180,7 @@ Kubernetes pods are a group of containers that act like a single VM: they have a
 [Play with Kubernetes](https://labs.play-with-k8s.com/)
 [Introducing PWK (play with K8s) – Marcos Nils – Medium](https://medium.com/@marcosnils/introducing-pwk-play-with-k8s-159fcfeb787b)
 
-[Learnk8s — the Kubernetes training company](https://learnk8s.io/)
+[LearnKube — the Kubernetes training company](https://learnkube.com/)
 [Learn - kubedex.com](https://kubedex.com/learn/)
 [Learn Kubernetes - Best Kubernetes Tutorials (2019) | gitconnected](https://gitconnected.com/learn/kubernetes)
 [Getting Started with Kubernetes | Pluralsight](https://www.pluralsight.com/courses/getting-started-kubernetes)
@@ -212,7 +214,6 @@ Kubernetes pods are a group of containers that act like a single VM: they have a
 [Martin Pham / kubernetes-fun · GitLab](https://gitlab.com/martinpham/kubernetes-fun)
 
 [A Tutorial Introduction to Kubernetes](https://okigiveup.net/tutorials/a-tutorial-introduction-to-kubernetes/)
-[The Kubernetes Bible for Beginners & Developers - Level UpLevel Up](https://www.level-up.one/kubernetes-bible-beginners/)
 [Kubernetes Tutorial - YouTube](https://www.youtube.com/playlist?list=PLot-YkcC7wZ9xwMzkzR_EkOrPahSofe5Q)
 
 [awesome-kubernetes · GitBook](https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/details)
@@ -294,9 +295,6 @@ Pod spec will be embedded as `spec.template` inside a controller.
 [chef-cookbooks/kubernetes: A cookbook that includes resources for deploying Kubernetes Pods, Replication Controllers, and Services](https://github.com/chef-cookbooks/kubernetes)
 
 [How YOU actually use Kubernetes, starring YAML files - DEV Community 👩‍💻👨‍💻](https://dev.to/azure/how-you-actually-use-kubernetes-starring-yaml-files-3c0k)
-[How to deploy a Cassandra Cluster on Kubernetes with OpenEBS | Containerized Me](http://containerized.me/how-to-deploy-a-cassandra-cluster-ring-on-kubernetes-openebs/)
-[How to deploy Jenkins on Kubernetes + OpenEBS | Containerized Me](http://containerized.me/how-to-deploy-jenkins-on-kubernetes-openebs/)
-[How to deploy a PostgreSQL Cluster on Kubernetes + OpenEBS | Containerized Me](http://containerized.me/how-to-deploy-a-postgresql-cluster-on-kubernetes-openebs/)
 
 [\$65 Kubernetes Cluster on DigitalOcean - Part I – DevsOnDevs – Medium](https://medium.com/devsondevs/65-kubernetes-cluster-on-digitalocean-part-i-3fabea6fc1ba)
 [Add Persistent Volume Support Using DigitalOcean Block Storage - Part II](https://medium.com/devsondevs/add-persistent-volume-support-using-digitalocean-block-storage-part-ii-9fea3eb958fe)
@@ -336,7 +334,7 @@ Pod spec will be embedded as `spec.template` inside a controller.
 [How to Get Your Kubernetes Deployment Priorities Straight | D2iQ](https://d2iq.com/blog/how-to-get-your-kubernetes-deployment-priorities-straight)
 [Lessons Learned Shipping Instana Self-Hosted On Kubernetes - Instana](https://www.instana.com/blog/lessons-learned-shipping-instana-self-hosted-on-kubernetes/)
 
-[Scaling SpringBoot with Message Queues and Kubernetes ♦︎ Learnk8s](https://learnk8s.io/blog/scaling-spring-boot-microservices/)
+[Scaling Microservices with Message Queues, Spring Boot and Kubernetes](https://learnkube.com/blog/scaling-spring-boot-microservices/)
 
 [workshop/k8sprod.md at master · gravitational/workshop](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
 
@@ -358,10 +356,9 @@ Pod spec will be embedded as `spec.template` inside a controller.
 [Adopting Kubernetes? Here's What You Should Definitely Not Do - DZone Cloud](https://dzone.com/articles/adopting-kubernetes-heres-what-you-should-definite)
 [Kubernetes Anti-Patterns: Let's Do GitOps, Not CIOps! - DZone Cloud](https://dzone.com/articles/kubernetes-anti-patterns-lets-do-gitops-not-ciops)
 
-[Learning Center | Komodor](https://komodor.com/learning-center/)
+[Learning Center | Komodor](https://komodor.com/learn/)
 [Kubernetes Failure Stories | SRCco.de](https://srcco.de/posts/kubernetes-failure-stories.html)
 [How to detect Kubernetes overspending by measuring idle costs](https://medium.com/kubecost/detect-overspending-by-measuring-idle-kubernetes-resources-d5d97eb205e0)
-[A Practical Guide to Setting Kubernetes Requests and Limits - Home](http://blog.kubecost.com/blog/requests-and-limits/)
 [How-to guide: Debugging a Kubernetes application | Cloud Native Computing Foundation](https://www.cncf.io/blog/2020/02/14/how-to-guide-debugging-a-kubernetes-application/)
 
 [Kubernetes Master Class Troubleshooting Kubernetes - YouTube](https://www.youtube.com/watch?v=CFvJAPpYfug&feature=youtu.be) [slides](https://info.rancher.com/hubfs/Kubernetes%20Master%20Class%20Series/Troubleshooting%20Kubernetes/Rancher%20Labs%20-%20Kubernetes%20Master%20Class%20-%20Troubleshooting%20Kubernetes.pptx)
@@ -383,12 +380,12 @@ Pod spec will be embedded as `spec.template` inside a controller.
 
 [kubedex.com - Discover and learn about everything Kubernetes](https://kubedex.com/)
 
-[4 cool Kubernetes tools for mastering clusters | InfoWorld](http://www.infoworld.com/article/3196250/application-virtualization/4-cool-kubernetes-tools-for-mastering-clusters.html)
-[3 open source projects that make Kubernetes easier | InfoWorld](https://www.infoworld.com/article/3214627/containers/3-open-source-projects-that-make-kubernetes-easier.html) Heptio, Kubed, Kubicorn
+Heptio, Kubed, Kubicorn
+[4 cool Kubernetes tools for mastering clusters | InfoWorld](https://www.infoworld.com/article/2252380/4-cool-kubernetes-tools-for-mastering-clusters.html)
 [Kubernetes: A Little Guide to Install Options – OpenShift Blog](https://blog.openshift.com/kubernetes-little-guide-install-options/)
 [Top 11 Continuous Delivery Tools for Kubernetes (Part 1) - DZone Cloud](https://dzone.com/articles/top-11-continuous-delivery-tools-for-kubernetes-pa-1)
 [50+ Useful Kubernetes Tools - DZone Cloud](https://dzone.com/articles/50-useful-kubernetes-tools)
-[15 tools to tame Kubernetes deployments | InfoWorld](https://www.infoworld.com/article/3261450/kubernetes/15-tools-to-tame-kubernetes-deployments.html)
+[15 tools that make Kubernetes easier | InfoWorld](https://www.infoworld.com/article/2265016/15-tools-that-make-kubernetes-easier.html)
 [Kubernetes: 6 open source tools to put your cluster to the test | The Enterprisers Project](https://enterprisersproject.com/article/2021/5/kubernetes-6-open-source-tools-to-test-clusters)
 [9 Open Source Developer Tools for Kubernetes - Container Journal](https://containerjournal.com/features/9-open-source-developer-tools-for-kubernetes/)
 [the ULTIMATE kubernetes management tools comparison! - YouTube](https://www.youtube.com/watch?v=R0HlJsugOAE)
@@ -416,7 +413,7 @@ Each installer is actually a "distribution" of Kubernetes.
 [KubeCon*2017*-\_Kernels_and_Distros.pdf](https://schd.ws/hosted_files/kccncna17/ac/KubeCon_2017_-_Kernels_and_Distros.pdf)
 [10 Kubernetes distributions leading the container revolution | InfoWorld](https://www.infoworld.com/article/3265059/10-kubernetes-distributions-leading-the-container-revolution.html)
 [CNCF-Webinar-Navigating-the-Sea-of-Local-Clusters-.pdf](https://www.cncf.io/wp-content/uploads/2020/08/CNCF-Webinar-Navigating-the-Sea-of-Local-Clusters-.pdf)
-[paper11.pdf](http://ceur-ws.org/Vol-2839/paper11.pdf)
+[Profiling Lightweight Container Platforms: MicroK8s and K3s in Comparison to Kubernetes](https://ceur-ws.org/Vol-2839/paper11.pdf) (PDF)
 
 [Picking the Right Solution](https://kubernetes.io/docs/setup/pick-right-solution/)
 [A Comparison of Kubernetes Distributions - DZone Cloud](https://dzone.com/articles/kubernetes-distributions-how-do-i-choose-one)
@@ -455,15 +452,6 @@ Anton Putra
 
 [Project Dolos: Testing Kubernetes on Google and Azure - kubedex.com](https://kubedex.com/project-dolos-testing-kubernetes-on-google-and-azure/)
 [Kubedex/dolos: Time how long Kubernetes takes to start on Cloud platforms](https://github.com/Kubedex/dolos)
-
-#### Pharos
-
-[Kontena Pharos – The simple, solid, certified Kubernetes distribution that just works.](https://www.kontena.io/pharos/)
-[Introduction · Kontena Pharos](https://pharos.sh/docs/)
-[Kontena Pharos 2.1 Released](https://blog.kontena.io/kontena-pharos-2-1-released/)
-[Kubernetes That Just Works: Kontena Pharos 2.0 Released](https://blog.kontena.io/kubernetes-that-just-works-kontena-pharos-2-0-released/)
-[Kontena Pharos 1.3.0](https://blog.kontena.io/kontena-pharos-1-3-0/)
-[Kontena Pharos 1.0 Released: Control the Raw Power of Kubernetes](https://blog.kontena.io/kontena-pharos-1-0-released/)
 
 #### Rancher/RKE
 
@@ -512,12 +500,12 @@ Anton Putra
 
 [Kubernetes.io Blog: Production-Ready Kubernetes Cluster Creation with kubeadm - General Discussions - Discuss Kubernetes](https://discuss.kubernetes.io/t/kubernetes-io-blog-production-ready-kubernetes-cluster-creation-with-kubeadm/3732)
 
-[Using kubeadm to Create a Cluster | Kubernetes](https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/)
-[Setting up a Kubernetes cluster using Docker in Docker | Callista Enterprise](http://callistaenterprise.se/blogg/teknik/2017/12/20/kubernetes-on-docker-in-docker/) with `kubeadm`
+[Creating a cluster with kubeadm | Kubernetes](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/)
+[Setting up a Kubernetes cluster using Docker in Docker | Callista](https://callistaenterprise.se/blogg/teknik/2017/12/20/kubernetes-on-docker-in-docker/) with `kubeadm`
 [Mirantis/kubeadm-dind-cluster: A Kubernetes multi-node test cluster based on kubeadm](https://github.com/Mirantis/kubeadm-dind-cluster)
 
 [Kubernetes on bare-metal in 10 minutes](https://blog.alexellis.io/kubernetes-in-10-minutes/) native with `kubeadm`, Ubuntu 16.04 packages
-[Kubernetes on Ubuntu](http://alexander.holbreich.org/kubernetes-on-ubuntu/) native with `kubeadm`, install dashboard and test with `kube-test-container`
+[Kubernetes on Ubuntu](https://alexander.holbreich.org/kubernetes-on-ubuntu/) native with `kubeadm`, install dashboard and test with `kube-test-container`
 
 [How To Create a Kubernetes Cluster Using Kubeadm on Debian 9 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-create-a-kubernetes-cluster-using-kubeadm-on-debian-9) Ansible + `kubeadm`
 
@@ -709,11 +697,8 @@ kops import cluster --name ${NAME} --region ${AWS_REGION}
 [Simplifying how you define Kubernetes artifacts](http://kedgeproject.org/) previously Opencompose, Docker Compose for Kubernetes
 [kedgeproject/kedge: Kedge : Simple, Concise & Declarative Kubernetes Applications](https://github.com/kedgeproject/kedge)
 
-[Kubernetes + Compose = Kompose](http://kompose.io/)
-[Translate a Docker Compose File to Kubernetes Resources | Kubernetes](https://kubernetes.io/docs/tools/kompose/user-guide/)
-
-[Koki Short](https://docs.koki.io/short/)
-[koki/short: Manageable Kubernetes manifests through a composable, reusable syntax](https://github.com/koki/short)
+[Kompose - Convert your Docker Compose file to Kubernetes or OpenShift](https://kompose.io/)
+[Translate a Docker Compose File to Kubernetes Resources | Kubernetes](https://kubernetes.io/docs/tasks/configure-pod-container/translate-compose-kubernetes/)
 
 [K9s - Manage Your Kubernetes Clusters In Style](https://k9scli.io/)
 
@@ -729,13 +714,15 @@ integrated into `kubeadm` (experimental in 1.16)
 
 #### kubectl
 
-[kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
-[Kubectl Cheat Sheet - Kubernetes Commands — A Cloud Guru](https://acloudguru.com/blog/engineering/kubernetes-cheat-sheet)
-[Overview of kubectl - Kubernetes](https://kubernetes.io/docs/reference/kubectl/overview/)
+[SIG CLI](https://kubectl.docs.kubernetes.io/) Guides and API References for Kubectl and Kustomize
+
+[Command line tool (kubectl) | Kubernetes](https://kubernetes.io/docs/reference/kubectl/)
+[kubectl Quick Reference | Kubernetes](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
+[Kubernetes Kubectl Commands Cheat Sheet](https://www.pluralsight.com/resources/blog/cloud/kubernetes-cheat-sheet)
 [How does 'kubectl exec' work? · Erkan Erol](https://erkanerol.github.io/post/how-kubectl-exec-works/)
 
 [Extend kubectl with plugins - Kubernetes](https://kubernetes.io/docs/tasks/extend-kubectl/kubectl-plugins/) stable in 1.14
-[Boosting your kubectl productivity ♦︎ Learnk8s](https://learnk8s.io/blog/kubectl-productivity/)
+[Boosting your kubectl productivity](https://learnkube.com/blog/kubectl-productivity)
 [Pimp my Kubernetes Shell – ITNEXT](https://itnext.io/pimp-my-kubernetes-shell-f144710232a0)
 [How to set up a serious Kubernetes terminal](https://www.freecodecamp.org/news/how-to-set-up-a-serious-kubernetes-terminal-dd07cab51cd4)
 [GoogleContainerTools/krew: 📦 Package manager for "kubectl plugins"](https://github.com/GoogleContainerTools/krew)
@@ -1145,11 +1132,11 @@ Kubernetes is an evolution of Borg, which is used by Google for more than 10 yea
 
 [How did that sidecar get there? – Dow Jones Tech – Medium](https://medium.com/dowjones/how-did-that-sidecar-get-there-4dcd73f1a0a4)
 [Large-scale cluster management at Google with Borg](https://research.google.com/pubs/pub43438.html)
-[Google Unveils Details about Borg](http://www.infoq.com/news/2015/04/google-borg)
-[Docker 背后的容器集群管理——从 Borg 到 Kubernetes（一）](http://www.infoq.com/cn/articles/docker-container-cluster-management-part-01)
-[Docker 背后的容器集群管理——从 Borg 到 Kubernetes（二）](http://www.infoq.com/cn/articles/docker-container-cluster-management-part-02)
+[Google Unveils Details about Borg](https://www.infoq.com/news/2015/04/google-borg)
+[Docker 背后的容器集群管理——从 Borg 到 Kubernetes（一）](https://www.infoq.cn/article/docker-container-cluster-management-part-01)
+[Docker 背后的容器集群管理——从 Borg 到 Kubernetes（二）](https://www.infoq.cn/article/docker-container-cluster-management-part-02)
 [The InfoQ eMag: Kubernetes: Past, Present and Future](https://www.infoq.com/minibooks/emag-kubernetes)
-[The Changelog #250: The Backstory of Kubernetes with Tim Hockin and Aparna Sinha | Changelog | News and podcasts for developers](https://changelog.com/podcast/250)
+[The Backstory of Kubernetes with Tim Hockin and Aparna Sinha (Changelog Interviews #250)](https://changelog.com/podcast/250)
 
 ### API Extension
 
@@ -1220,7 +1207,7 @@ Kubernetes is an evolution of Borg, which is used by Google for more than 10 yea
 #### SDK
 
 [Introducing Kubebuilder: an SDK for building Kubernetes APIs using CRDs - Kubernetes](https://kubernetes.io/blog/2018/08/10/introducing-kubebuilder-an-sdk-for-building-kubernetes-apis-using-crds/)
-[The Kubebuilder Book](http://book.kubebuilder.io/)
+[The Kubebuilder Book](https://book.kubebuilder.io/)
 [kubernetes-sigs/kubebuilder: Kubebuilder - SDK for building Kubernetes APIs using CRDs](https://github.com/kubernetes-sigs/kubebuilder)
 Expose service's management and operation logic as Kubernetes API, e.g. MySQL API that can be managed by kubectl
 Kubernetes API = Application Controller, Operator
@@ -1266,7 +1253,6 @@ CSI: container storage interface
 [Volumes - Kubernetes](https://kubernetes.io/docs/concepts/storage/volumes/#nfs)
 [Kubernetes: State and Storage – OpenShift Blog](https://blog.openshift.com/kubernetes-state-storage/)
 [Container Storage Architectures: How Does Kubernetes, Docker, and Mesos Compare? - {code}](https://blog.thecodeteam.com/2017/06/27/container-storage-architectures-kubernetes-docker-mesos-compare/)
-[Introduction to Container Storage Interface (CSI) | Containerized Me](http://containerized.me/introduction-to-container-storage-interface-csi/)
 [Dynamically Expand Volume with CSI and Kubernetes - Kubernetes](https://kubernetes.io/blog/2018/08/02/dynamically-expand-volume-with-csi-and-kubernetes/) 0.2.0
 [Kubernetes 1.14: Local Persistent Volumes GA - Kubernetes](https://kubernetes.io/blog/2019/04/04/kubernetes-1.14-local-persistent-volumes-ga/)
 [Dynamic Provisioning and Storage Classes in Kubernetes - Kubernetes](https://kubernetes.io/blog/2017/03/dynamic-provisioning-and-storage-classes-kubernetes/)
@@ -1348,13 +1334,8 @@ CNI: container network interface
 [Planning in-cluster and external networking for apps](https://cloud.ibm.com/docs/containers?topic=containers-cs_network_planning)
 [Debugging network stalls on Kubernetes - The GitHub Blog](https://github.blog/2019-11-21-debugging-network-stalls-on-kubernetes/)
 
-[How Does The Kubernetes Networking Work? : Part 1 - Level UpLevel Up](https://www.level-up.one/kubernetes-networking-pods-levelup/)
-[How Does The Kubernetes Networking Work? : Part 2 - Level UpLevel Up](https://www.level-up.one/kubernetes-networking-series-two/)
-[How Does The Kubernetes Networking Work? : Part 3 - Level UpLevel Up](https://www.level-up.one/kubernetes-networking-3-level-up/)
-
 [Choosing a CNI Network Provider For Kubernetes | Kubernetes musings by chrislovecnm](https://chrislovecnm.com/kubernetes/cni/choosing-a-cni-provider/)
 
-[How Does The Kubernetes Networking Work? : Part 1 - Level UpLevel Up](https://www.level-up.one/kubernetes-networking-pods-levelup/)
 [Kubernetes network deep dive: Did you make the right choice?](https://itnext.io/kubernetes-network-deep-dive-7492341e0ab5)
 
 [Networking with Kubernetes - YouTube](https://www.youtube.com/watch?v=WwQ62OyCNz4)
@@ -1366,6 +1347,7 @@ CNI: container network interface
 [Kubernetes FAQ - How can I route traffic for Kubernetes on bare metal?](https://www.weave.works/blog/kubernetes-faq-how-can-i-route-traffic-for-kubernetes-on-bare-metal) suggest MetalLB, but Træfik is more mature
 
 [Ingress | Kubernetes](https://kubernetes.io/docs/concepts/services-networking/ingress/)
+[Gateway API | Kubernetes](https://kubernetes.io/docs/concepts/services-networking/gateway/)
 [Gateway API | Kubernetes](https://kubernetes.io/docs/concepts/services-networking/gateway/)
 [Service | Kubernetes](https://kubernetes.io/docs/concepts/services-networking/service/)
 
@@ -1381,7 +1363,6 @@ CNI: container network interface
 
 [Get Automatic HTTPS with Let's Encrypt and Kubernetes Ingress](https://akomljen.com/get-automatic-https-with-lets-encrypt-and-kubernetes-ingress/)
 [math-nao/certs: A Let's Encrypt certificates manager for Kubernetes](https://github.com/math-nao/certs)
-[Can you expose your services with an API gateway in Kubernetes?](https://learnk8s.io/kubernetes-ingress-api-gateway/)
 
 [Deploy a Multicluster Ingress on Google Kubernetes Engine - The New Stack](https://thenewstack.io/deploy-a-multicluster-ingress-on-google-kubernetes-engine/)
 [Dynamic Ingress in Kubernetes - Kubernetes](https://kubernetes.io/blog/2018/06/07/dynamic-ingress-in-kubernetes/)
@@ -1392,6 +1373,11 @@ CNI: container network interface
 [gRPC Load Balancing on Kubernetes without Tears - Kubernetes](https://kubernetes.io/blog/2018/11/07/grpc-load-balancing-on-kubernetes-without-tears/) with Linkerd
 
 [Load Balancing with Kubernetes: concepts, use cases, and implementation details - YouTube](https://www.youtube.com/watch?v=FG0ZW5eX1JY) [slides](https://info.rancher.com/hubfs/Kubernetes%20Master%20Class%20Series/Load%20Balancing%20with%20Kubernetes/Rancher%20Labs%20-%20Kubernetes%20Master%20Class%20-%20Load%20Balancing%20with%20Kubernetes.pptx)
+
+#### kgateway
+
+[kgateway](https://kgateway.dev/)
+[kgateway-dev/kgateway: The Cloud-Native API Gateway and AI Gateway](https://github.com/kgateway-dev/kgateway)
 
 #### kube-vip
 
@@ -1454,7 +1440,6 @@ CNI: container network interface
 
 [MetalLB, bare metal load-balancer for Kubernetes](https://metallb.universe.tf/community/)
 [google/metallb: A network load-balancer implementation for Kubernetes using standard routing protocols](https://github.com/google/metallb)
-[Kubernetes metallb bare metal loadbalancer | AdminTome Blog](http://www.admintome.com/blog/kubernetes-metallb-bare-metal-loadbalancer/)
 [MetalLB: a load balancer for bare metal Kubernetes clusters | IT Svit Blog](https://itsvit.com/blog/metallb-load-balancer-bare-metal-kubernetes-clusters/)
 
 #### Rancher

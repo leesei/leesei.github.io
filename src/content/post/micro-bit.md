@@ -2,7 +2,7 @@
 title: Micro:bit
 description: ""
 created: 2018-09-12
-updated: 2025-01-27
+updated: 2025-07-07
 tags:
   - iot
   - maker
@@ -10,7 +10,7 @@ tags:
 ---
 
 [Micro:bit Educational Foundation | micro:bit](https://microbit.org/)
-[Micro Bit - Wikiwand](http://www.wikiwand.com/en/Micro_Bit)
+[Micro Bit - Wikiwand](https://www.wikiwand.com/en/Micro_Bit)
 
 [carlosperate/awesome-microbit: A curated list of BBC micro:bit resources.](https://github.com/carlosperate/awesome-microbit)
 

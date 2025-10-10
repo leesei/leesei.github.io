@@ -2,7 +2,7 @@
 title: Serialization
 description: ""
 created: 2020-03-27
-updated: 2025-05-03
+updated: 2025-09-23
 tags:
   - comp/lang
 ---
@@ -158,6 +158,9 @@ TypeScript
 
 ### JSON serializers
 
+[How we made JSON.stringify more than twice as fast · V8](https://v8.dev/blog/json-stringify) 2025-08
+[JSON just got way better (yes really) - YouTube](https://www.youtube.com/watch?v=0UpMV7KWiCc)
+
 [lxsmnsyc/seroval: Stringify JS values](https://github.com/lxsmnsyc/seroval) JS
 [fastify/fast-json-stringify: 2x faster than JSON.stringify()](https://github.com/fastify/fast-json-stringify) JS
 
@@ -292,7 +295,7 @@ supports partial decode, designed for network communication
 [apache/arrow: Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing](https://github.com/apache/arrow)
 
 [PyArrow - Apache Arrow Python bindings — Apache Arrow v6.0.0](https://arrow.apache.org/docs/python/index.html)
-[arrow package - github.com/apache/arrow/go/arrow - pkg.go.dev](https://pkg.go.dev/github.com/apache/arrow/go/arrow?utm_source=godoc)
+[arrow package - github.com/apache/arrow/go/arrow - pkg.go.dev](https://pkg.go.dev/github.com/apache/arrow/go/arrow)
 [Apache Arrow - v6.0.0](https://arrow.apache.org/docs/js/)
 [arrow/js at master · apache/arrow](https://github.com/apache/arrow/tree/master/js)
 

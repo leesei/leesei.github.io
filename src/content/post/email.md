@@ -2,7 +2,7 @@
 title: Email Services
 description: ""
 created: 2015-11-19
-updated: 2025-04-16
+updated: 2025-09-15
 tags:
   - ldap
   - mail
@@ -11,6 +11,16 @@ tags:
 ---
 
 [Mailconcept · Wiki · Mutt Project / mutt · GitLab](https://gitlab.com/muttmua/mutt/wikis/MailConcept)
+[I Use This Simple Email Trick to Outsmart Spammers](https://www.makeuseof.com/simple-email-trick-to-outsmart-spammers/)
+
+[RFC 7489 - Domain-based Message Authentication, Reporting, and Conformance (DMARC)](https://datatracker.ietf.org/doc/html/rfc7489)
+
+[Gmail spam and authentication - Google Workspace Admin Help](https://support.google.com/a/answer/9948472) SPF, DKIM and DMARC
+[Check if your Gmail message is authenticated - Computer - Gmail Help](https://support.google.com/mail/answer/180707)
+
+[Set up DMARC - Google Workspace Admin Help](https://support.google.com/a/answer/2466580)
+[Troubleshoot DMARC issues - Google Workspace Admin Help](https://support.google.com/a/answer/10032578)
+[Add DMARC record – Titan Mail](https://support.titan.email/hc/en-us/articles/900006395783-Add-DMARC-record)
 
 ## POP
 
@@ -26,7 +36,7 @@ tags:
 
 > outgoing
 
-[Simple Mail Transfer Protocol - Wikiwand](http://www.wikiwand.com/en/Simple_Mail_Transfer_Protocol)
+[Simple Mail Transfer Protocol - Wikiwand](https://www.wikiwand.com/en/Simple_Mail_Transfer_Protocol)
 [RFC 5321 - Simple Mail Transfer Protocol](https://datatracker.ietf.org/doc/html/rfc5321)
 
 [16 Command Examples to Send Email From The Linux Command Line](https://blog.edmdesigner.com/send-email-from-linux-command-line/)
@@ -38,8 +48,7 @@ curl smtp://10.6.64.241 \
   --user 'me@gmail.com:your-accout-password'
 ```
 
-[The Postfix Home Page](http://www.postfix.org/)
-[Postfix Articles and How-To's](http://www.seaglass.com/postfix/articles.html)
+[The Postfix Home Page](https://www.postfix.org/)
 
 [Open Source Email | Sendmail Sentrion| Proofpoint](https://www.proofpoint.com/us/open-source-email-solution)
 

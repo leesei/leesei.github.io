@@ -2,13 +2,13 @@
 title: Data Visualization
 description: ""
 created: 2016-04-08
-updated: 2025-01-09
+updated: 2025-09-23
 tags:
   - big-data
   - visualization
 ---
 
-[Graph drawing - Wikiwand](http://www.wikiwand.com/en/Graph_drawing)
+[Graph drawing - Wikiwand](https://www.wikiwand.com/en/Graph_drawing)
 [The Key Differences Between Charts and Graphs Explained](https://www.worldoweb.co.uk/2019/key-differences-between-charts-and-graphs)
 [Effective Data Visualisation - with Valentina D'Efilippo - YouTube](https://www.youtube.com/watch?v=MIZXqC1-VLc)
 [Foundations of Data Visualisation - Computerphile - YouTube](https://www.youtube.com/watch?v=qQ9Wu1IxsYw)
@@ -36,6 +36,8 @@ tags:
 [Agile Visualization](http://agilevisualization.com/) using [Pharo](http://pharo.org/)
 
 [anvaka/ngraph: Beautiful Graphs](https://github.com/anvaka/ngraph)
+
+[Top 5 Data Visualization Libraries You Should Know in 2025 - DEV Community](https://dev.to/burcs/top-5-data-visualization-libraries-you-should-know-in-2025-21k9) JavaScript
 
 [39 studies about human perception in 30 minutes — Medium](https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73#.j5im2oxbz)
 [Introducing the Snail Chart - Nightingale - Medium](https://medium.com/nightingale/yet-another-alternative-for-bar-charts-introducing-the-snail-chart-4fe69b938594)
@@ -248,6 +250,7 @@ Server-client architecture, with Python, JS, Scala, R clients
 [Visualize and communicate uncertainties clearly with Python and Plotly](https://towardsdatascience.com/visualize-and-communicate-uncertainties-with-python-and-plotly-1f30ece540d8)
 [Simplify data visualization in Python with Plotly | Opensource.com](https://opensource.com/article/20/5/plotly-python)
 [4 Reasons Why I’m Choosing Plotly as My Main Visualization Library | by Dario Radečić | Towards Data Science](https://towardsdatascience.com/4-reasons-why-im-choosing-plotly-as-the-main-visualization-library-dc4a961a402f)
+[How to Create Animated Scatter Plots in Python with Plotly](https://www.statology.org/how-to-create-animated-scatter-plots-in-python-with-plotly/)
 
 [Dash by Plotly - Plotly](https://plot.ly/products/dash/)
 [Creating Interactive Visualizations with Plotly’s Dash Framework - Practical Business Python](https://pbpython.com/plotly-dash-intro.html)
@@ -275,6 +278,7 @@ Server-client architecture, with Python, JS, Scala, R clients
 [Taipy, an open-source Python library for building your web applications frontend & backend.](https://www.taipy.io/)
 [Simplify Your Process of Building Interactive Dashboards with Taipy | by Chi Nguyen | Python in Plain English](https://python.plainenglish.io/simplify-your-process-of-building-interactive-dashboards-with-taipy-1-8f1020fcc04d)
 [Elegant Dashboards for Python ML Apps using Taipy GUI | by Zaccheus Sia | Medium](https://medium.com/@zaccheussia/elegant-dashboards-for-python-ml-apps-using-taipy-gui-6e3c59d70a1f)
+[Creating Slick Data Dashboards with Python, Taipy & Google Sheets - KDnuggets](https://www.kdnuggets.com/creating-slick-data-dashboards-with-python-taipy-google-sheets)
 
 [ODSC Webinar | How to build stunning Data Science Web applications in Python - YouTube](https://www.youtube.com/watch?v=Uo_3hEM12_8)
 

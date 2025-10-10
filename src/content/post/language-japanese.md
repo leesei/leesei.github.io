@@ -2,6 +2,7 @@
 title: Japanese Language
 description: ""
 created: 2025-05-12
+updated: 2025-07-07
 tags:
   - japanese
   - language

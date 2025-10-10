@@ -2,7 +2,7 @@
 title: Python settings
 description: ""
 created: 2014-12-11
-updated: 2025-05-12
+updated: 2025-08-17
 tags:
   - comp/lang
   - package-manager
@@ -62,6 +62,7 @@ python -c "import site; print(site.getsitepackages())"
 [uv IS the Future of Python Packaging! 🐍📦 - YouTube](https://www.youtube.com/watch?v=8UuW8o4bHbw)
 [Production-ready Python Docker Containers with uv](https://hynek.me/articles/docker-uv/)
 
+[用uv管理Python的一切！ - YouTube](https://www.youtube.com/watch?v=aVXs8lb7i9U) `[project.scripts]`, `uv build`
 [uv: An Extremely Fast Python Package Manager - YouTube](https://www.youtube.com/watch?v=gSKTfG1GXYQ)
 [I’ve Switched to UV for Python, and So Should You - YouTube](https://www.youtube.com/watch?v=qh98qOND6MI)
 [uv: Unified Python packaging](https://astral.sh/blog/uv-unified-python-packaging)
@@ -93,11 +94,26 @@ uv python pin 3.11 # writes `.python-version`
 - still depends on system libraries
 - the conda environment could potentially leak
 - could have used Docker nowadays
+- some packages is not free !!!
+
+#### Conda Licensing
+
+[Is conda Free? | Anaconda](https://www.anaconda.com/blog/is-conda-free)
+[Navigating Anaconda Licensing Changes: What You Need to Know | DataCamp](https://www.datacamp.com/blog/navigating-anaconda-licensing)
+[Anaconda packages are not “free” — sunpy.org](https://sunpy.org/posts/2024/2024-08-09-anaconda/)
+[Towards a Vendor-Lock-In-Free conda Experience | prefix.dev](https://prefix.dev/blog/towards_a_vendor_lock_in_free_conda_experience)
+
+I'm not sure if the alternatives (like) stay away from the non-free packages.
+
+`default` channel and Anaconda Distribution (including `miniconda`) are not free
+[conda-forge/miniforge](https://github.com/conda-forge/miniforge) uses the community, free `conda-forge` channel
 
 ### pip
 
+> this should be included with modern Python packages
+
 [pip — documentation](https://pip.pypa.io/en/stable/)
-[Installation — pip documentation](https://pip.pypa.io/en/latest/installing.html)
+[Installation - pip documentation](https://pip.pypa.io/en/latest/installation/)
 
 #### latest
 
@@ -203,7 +219,7 @@ poetry show --top-level --outdated --only=main
 
 ## Virtual Environments
 
-> use `poetry`, `pyenv virtualenv`
+> use `uv venv`, `uv run`
 
 [Python Virtual Environments: A Primer – Real Python](https://realpython.com/python-virtual-environments-a-primer/)
 [An Effective Python Environment: Making Yourself at Home – Real Python](https://realpython.com/effective-python-environment/)
@@ -1414,7 +1430,7 @@ python setup.py build
 [pycodestyle’s documentation](https://pycodestyle.readthedocs.io/en/latest/) pycodestyle is the new pep8
 
 [Pylint vs flake8 detailed comparison as of 2017 - Slant](https://www.slant.co/versus/12630/12632/~pylint_vs_flake8)
-[python - PyLint, PyChecker or PyFlakes? - Stack Overflow](http://stackoverflow.com/questions/1428872/pylint-pychecker-or-pyflakes)
+[python - PyLint, PyChecker or PyFlakes? - Stack Overflow](https://stackoverflow.com/questions/1428872/pylint-pychecker-or-pyflakes)
 
 [Refactoring Python Applications for Simplicity – Real Python](https://realpython.com/python-refactoring/)
 [Python Code Quality: Tools & Best Practices – Real Python](https://realpython.com/python-code-quality/)

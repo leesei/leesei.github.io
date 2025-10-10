@@ -2,7 +2,7 @@
 title: Markdown
 description: ""
 created: 2015-04-23
-updated: 2025-05-14
+updated: 2025-07-07
 tags:
   - comp/lang
   - markdown
@@ -17,7 +17,7 @@ tags:
 [BubuAnabelas/awesome-markdown: Delightful Markdown stuff.](https://github.com/BubuAnabelas/awesome-markdown)
 [mundimark/awesome-markdown: A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)](https://github.com/mundimark/awesome-markdown)
 
-[Lightweight markup language - Wikiwand](http://www.wikiwand.com/en/Lightweight_markup_language)
+[Lightweight markup language - Wikiwand](https://www.wikiwand.com/en/Lightweight_markup_language)
 [Is HTML a Humane Markup Language?](http://blog.codinghorror.com/is-html-a-humane-markup-language/)
 [黑暗執行緒 分類檢視：markdown](https://blog.darkthread.net/blog/category/markdown)
 

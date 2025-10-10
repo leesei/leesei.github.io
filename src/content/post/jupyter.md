@@ -2,10 +2,11 @@
 title: Jupyter
 description: ""
 created: 2025-02-04
+updated: 2025-07-07
 tags:
   - jupyter
-  - jupyterlab
   - jupyter-notebook
+  - jupyterlab
 ---
 
 [Project Jupyter | Home](https://jupyter.org/)

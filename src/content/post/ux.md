@@ -2,7 +2,7 @@
 title: User Experience (UX)
 description: ""
 created: 2015-06-25
-updated: 2025-03-28
+updated: 2025-08-11
 tags:
   - ui
   - ux
@@ -20,7 +20,6 @@ tags:
 [Learn UI Design - Blog](https://learnui.design/blog/)
 [UI Movement - The best UI design inspiration, every day](https://uimovement.com/all-designs/)
 [UX Design Articles and Books | Interaction Design Foundation Literature](https://www.interaction-design.org/literature)
-[Nielsen Norman Group: UX Training, Consulting, & Research](https://www.nngroup.com/)
 [Climbing the User Experience Ladder](https://blog.truematter.com/2019/climbing-the-ux-ladder/)
 [DesignCourse - YouTube](https://www.youtube.com/c/DesignCourse)
 [Design – Vox - YouTube](https://www.youtube.com/playlist?list=PLJ8cMiYb3G5ciSdIo4uRt26NRxmVs0TTQ) Vox
@@ -30,6 +29,11 @@ tags:
 [Google Design](https://www.google.com/design/)
 [iOS Human Interface Guidelines: Designing for iOS](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/)
 [Material Minimal design system](https://material-minimal.com/)
+
+[Nielsen Norman Group: UX Training, Consulting, & Research](https://www.nngroup.com/)
+[UX Research Methods: Glossary - NN/g](https://www.nngroup.com/articles/research-methods-glossary/)
+[UX & Usability Articles from Nielsen Norman Group - NN/g](https://www.nngroup.com/articles/)
+[UX Strategies for Complex-Application Design - NN/g](https://www.nngroup.com/articles/strategies-complex-application-design/)
 
 [10 Commandments for UI Design. Design principles that are frequently… | by Danny Sapio | UX Collective](https://uxdesign.cc/10-commandments-for-ui-design-29ee9687a4)
 [Human Centred Design vs Design Thinking vs Service Design vs UX …. What do they all mean? | Francesca (Franki) Simonds | Pulse | LinkedIn](https://www.linkedin.com/pulse/human-centred-design-vs-thinking-service-ux-what-do-all-simonds)

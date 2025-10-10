@@ -2,7 +2,7 @@
 title: Tailwind CSS
 description: Rapidly build modern websites without ever leaving your HTML
 created: 2023-09-01
-updated: 2025-06-18
+updated: 2025-10-09
 tags:
   - css
   - tailwind
@@ -11,38 +11,35 @@ tags:
 ---
 
 > functional/atomic CSS
+> remove pre-v4 articles
 
 [Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.](https://tailwindcss.com/)
 [tailwindlabs/tailwindcss: A utility-first CSS framework for rapid UI development.](https://github.com/tailwindlabs/tailwindcss)
 [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography)
 
 [Tailwind CSS - A Utility-First CSS Framework for Rapid UI Development](https://tailwindcss.com/docs/)
-[Handling Hover, Focus, and Other States - Tailwind CSS](https://tailwindcss.com/docs/hover-focus-and-other-states)
-
-[Responsive Design - Tailwind CSS](https://tailwindcss.com/docs/responsive-design)
-[Tailwindcss breakpoint inspector, initial idea from https://gist.github.com/jonsugar/6bce22bd7d3673294caad36046c2b7cb · GitHub](https://gist.github.com/Lelectrolux/8f9a78491a5c9617078a73c091e01415)
+[Framework guides - Tailwind CSS](https://tailwindcss.com/docs/installation/framework-guides)
+[Responsive design - Core concepts - Tailwind CSS](https://tailwindcss.com/docs/responsive-design)
+[Tailwind Labs - YouTube](https://www.youtube.com/@TailwindLabs)
 
 ```html
 <script src="https://cdn.tailwindcss.com"></script>
 ```
 
-[Open-sourcing our progress on Tailwind CSS v4.0 - Tailwind CSS](https://tailwindcss.com/blog/tailwindcss-v4-alpha)
+[Tailwind CSS v4.0 - Tailwind CSS](https://tailwindcss.com/blog/tailwindcss-v4) released 2025-04
 [Tailwind V4 Is Bigger Than Expected 👀 - YouTube](https://www.youtube.com/watch?v=ueQRCTbiJOE)
 Uses Lightning CSS (Rust compiler and bundler)
+[Upgrade guide - Getting started - Tailwind CSS](https://tailwindcss.com/docs/upgrade-guide)
+[Migrating from Tailwind CSS v3 to v4: A Complete Developer's Guide - DEV Community](https://dev.to/elechipro/migrating-from-tailwind-css-v3-to-v4-a-complete-developers-guide-cjd)
 
-[Framework Guides - Tailwind CSS](https://tailwindcss.com/docs/installation/framework-guides)
-[Tailwind CSS v3.3: Extended color palette, ESM/TS support, logical properties, and more - Tailwind CSS](https://tailwindcss.com/blog/tailwindcss-v3-3)
-[Tailwind CSS Tutorial for Beginners – How To Start?](https://codete.com/blog/tailwind-css-tutorial-and-examples-for-beginners)
-[Tailwind CSS Tips and Tricks Worth Knowing](https://www.builder.io/blog/tailwind-css-tips-and-tricks)
 [10 Tailwind Classes I Wish I Knew Earlier - YouTube](https://www.youtube.com/watch?v=x1RJ5Q09PqM)
 [Tailwind and the beauty of ugly code](https://boot-and-shoe.vercel.app/posts/skeptics-guide-to-tailwind)
+[Tailwindcss breakpoint inspector, initial idea from https://gist.github.com/jonsugar/6bce22bd7d3673294caad36046c2b7cb · GitHub](https://gist.github.com/Lelectrolux/8f9a78491a5c9617078a73c091e01415)
 
-[Tailwind Labs - YouTube](https://www.youtube.com/tailwindlabs)
 [Tailwind CSS is the worst… - YouTube](https://www.youtube.com/watch?v=lHZwlzOUOZ4)
-[Ultimate Tailwind CSS Tutorial // Build a Discord-inspired Animated Navbar - YouTube](https://www.youtube.com/watch?v=pfaSUYaSgRo) old way, JIT and purge
 
-[Tailwind CSS Cheat Sheet](https://tailwindcomponents.com/cheatsheet/)
 [Tailwind CSS Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
+[Tailwind CSS Cheat Sheet](https://www.creative-tim.com/twcomponents/cheatsheet/)
 [Watching Tailwind Tutorials Is A Waste Of Time - YouTube](https://www.youtube.com/watch?v=Ksn1tThNTjI) use cheatsheet
 
 [Automatic Class Sorting with Prettier - Tailwind CSS](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
@@ -51,15 +48,10 @@ Uses Lightning CSS (Rust compiler and bundler)
 
 ## Customization
 
-[Configuration - Tailwind CSS](https://tailwindcss.com/docs/configuration)
-[Functions & Directives - Tailwind CSS](https://tailwindcss.com/docs/functions-and-directives)
+[Theme variables - Core concepts - Tailwind CSS](https://tailwindcss.com/docs/theme)
+[Functions and directives - Core concepts - Tailwind CSS](https://tailwindcss.com/docs/functions-and-directives)
 
 [How the PROS Use Tailwind - YouTube](https://www.youtube.com/watch?v=QY2Sj7-MMgM) replace rather than extend
-
-[PostCSS 8 · Issue #9664 · facebook/create-react-app](https://github.com/facebook/create-react-app/issues/9664) But CRA does not support PostCSS 8, which is required by Tailwind 2.0
-[Installation - Tailwind CSS](https://tailwindcss.com/docs/installation#post-css-7-compatibility-build)
-
-[partydeck/game at main · itays123/partydeck](https://github.com/itays123/partydeck/tree/main/game) CRA+craco example
 
 ## On the contrary
 
@@ -80,7 +72,7 @@ Uses Lightning CSS (Rust compiler and bundler)
 
 [Typewind – Typesafe Tailwind](https://typewind.dev/)
 
-[Twind.style](https://twind.style/)
+[Twind.style](https://twind.style/) no longer needed
 [Home | Twind](https://twind.dev/) runtime compiler
 [tw-in-js/twind: The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.](https://github.com/tw-in-js/twind)
 
@@ -144,6 +136,9 @@ new CLI that updates instead of replacing your files, you can see the diff
 [Best UI kit for Next.js 13 | shadcn ui tutorial - YouTube](https://www.youtube.com/watch?v=-UE_lWgVpes)
 [Let's Build a Component Library Using Shadcn's UI Components - YouTube](https://www.youtube.com/watch?v=ChjoKSNWiBo)
 [The Best UI Components that EVERYONE is Using! - YouTube](https://www.youtube.com/watch?v=DTGRIaAJYIo) 54:05
+
+[Watch this if you use shadcn/ui - YouTube](https://www.youtube.com/watch?v=vHFZFXtjKNE) Radix team has issues maintaining the project
+[shadcn's thought on Radix / X](https://x.com/shadcn/status/1936082723904565435)
 
 ### Aceternity
 

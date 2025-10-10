@@ -2,7 +2,7 @@
 title: Neovim notes
 description: hyperextensible Vim-based text editor
 created: 2023-10-23
-updated: 2025-03-15
+updated: 2025-07-07
 tags:
   - app
   - neovim
@@ -16,7 +16,7 @@ Vim uses VimScript, Neovim embed Lua/MicroPython
 [Home - Neovim](https://neovim.io/)
 [Documentation - Neovim](https://neovim.io/doc/)
 
-[Why Neovim? with TJ DeVries, Neovim core maintainer (The Changelog #457) |> Changelog](https://changelog.com/podcast/457)
+[Why Neovim? with TJ DeVries, Neovim core maintainer (Changelog Interviews #457)](https://changelog.com/podcast/457)
 [Modern Neovim — init.lua. Craft a modernized development… | by alpha2phi | Medium](https://alpha2phi.medium.com/modern-neovim-init-lua-ab1220e3ecc1)
 [Basic Neovim Commands/Crash Course - DEV Community](https://dev.to/arafat4693/basic-neovim-commands-4hmi)
 

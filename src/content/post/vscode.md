@@ -2,7 +2,7 @@
 title: Visual Studio Code
 description: ""
 created: 2017-06-19
-updated: 2025-06-24
+updated: 2025-08-05
 tags:
   - app
   - package-manager
@@ -294,6 +294,7 @@ module.exports = {
 
 ### REST client
 
+[[http-agents#httpYac]]
 [[http-agents#REST Client]]
 [[http-agents#Thunder Client]]
 

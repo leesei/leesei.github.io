@@ -2,7 +2,7 @@
 title: Prisma
 description: ""
 created: 2023-03-08
-updated: 2025-01-09
+updated: 2025-09-23
 tags:
   - comp/database
   - nodejs
@@ -17,7 +17,7 @@ tags:
 [Prisma](https://github.com/prisma?type=source) GitHub org
 [Relation queries (Concepts) | Prisma Docs](https://www.prisma.io/docs/concepts/components/prisma-client/relation-queries)
 
-[ZenStack - Lighting-Fast Development for Database-Centric Apps | ZenStack](https://zenstack.dev/?utm_campaign=devto&utm_medium=organic&utm_content=ticket)
+[ZenStack - Lighting-Fast Development for Database-Centric Apps | ZenStack](https://zenstack.dev/)
 
 [How Prisma and GraphQL fit together | Prisma](https://www.prisma.io/blog/prisma-and-graphql-mfl5y2r7t49c/) role changes of Prisma
 [Prisma – The Complete ORM for Node.js & TypeScript](https://www.prisma.io/blog/prisma-the-complete-orm-inw24qjeawmb)
@@ -40,7 +40,7 @@ tags:
 [TypeScript, PostgreSQL, Prisma Backend | Authentication, Authorization](https://www.prisma.io/blog/backend-prisma-typescript-orm-with-postgresql-auth-mngp1ps7kip4)
 [TypeScript, PostgreSQL, Prisma | Continuous Integration & Deployment](https://www.prisma.io/blog/backend-prisma-typescript-orm-with-postgresql-deployment-bbba1ps7kip5)
 
-[The Changelog #297: Prisma and the GraphQL data layer with Johannes Schickling | News and podcasts for developers | Changelog](https://changelog.com/podcast/297)
+[Prisma and the GraphQL data layer with Johannes Schickling (Changelog Interviews #297)](https://changelog.com/podcast/297)
 [Prisma: Modern Database Tooling with Johannes Schickling - Software Engineering Daily](https://softwareengineeringdaily.com/2020/06/04/prisma-modern-database-tooling-with-johannes-schickling/)
 
 ## Prisma Studio

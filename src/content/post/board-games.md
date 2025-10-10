@@ -2,7 +2,7 @@
 title: Board Games
 description: ""
 created: 2018-01-03
-updated: 2025-04-06
+updated: 2025-07-07
 tags:
   - board-game
   - games

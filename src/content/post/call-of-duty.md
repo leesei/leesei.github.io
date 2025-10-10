@@ -2,13 +2,13 @@
 title: Call of Duty
 description: ""
 created: 2023-08-13
-updated: 2025-04-16
+updated: 2025-07-07
 tags:
   - cod
   - games
 ---
 
-[Call of Duty - Wikiwand](http://www.wikiwand.com/en/Call_of_Duty)
+[Call of Duty - Wikiwand](https://www.wikiwand.com/en/Call_of_Duty)
 [Call of Duty Wiki | Fandom](https://callofduty.fandom.com/wiki/Call_of_Duty_Wiki)
 [History of Call of Duty (2003 - 2019) - YouTube](https://www.youtube.com/watch?v=_I9l261A_fY)
 [The Dark & Bizzare Call of Duty Iceberg Explained - YouTube](https://www.youtube.com/watch?v=mZKIqKNimcU)

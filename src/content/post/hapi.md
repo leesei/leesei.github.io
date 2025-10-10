@@ -2,7 +2,7 @@
 title: Hapi
 description: ""
 created: 2015-02-16
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - backend
   - hapi
@@ -120,7 +120,7 @@ Many Express plugins are out-of-maintenance and it's difficult to pick a high qu
 ### scope
 
 use scope to handle access control
-[javascript - Role based authentication in HapiJS - Stack Overflow](http://stackoverflow.com/questions/29052940/role-based-authentication-in-hapijs)
+[javascript - Role based authentication in HapiJS - Stack Overflow](https://stackoverflow.com/questions/29052940/role-based-authentication-in-hapijs)
 [Harnessing the magic of Hapi scopes](https://blog.andyet.com/2015/06/16/harnessing-hapi-scopes/)
 
 [hapi.js - 18.3.2 API Reference](https://hapi.dev/api/?v=18.3.2#route-options)

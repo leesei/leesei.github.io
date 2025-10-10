@@ -2,7 +2,7 @@
 title: Wifi
 description: ""
 created: 2019-02-25
-updated: 2025-03-20
+updated: 2025-09-12
 tags:
   - comp/hardware
   - wifi
@@ -61,6 +61,10 @@ Wi-Fi 7: 802.11be (2024)
 
 [A brief history of Wi-Fi security protocols from “oh my, that’s bad” to WPA3 | Ars Technica](https://arstechnica.com/gadgets/2019/03/802-eleventy-who-goes-there-wpa3-wi-fi-security-and-what-came-before-it/2/)
 
+[Aircrack-ng](https://www.aircrack-ng.org/)
+[airmon-ng [Aircrack-ng]](https://www.aircrack-ng.org/doku.php)
+[Mastering Wi-Fi Reconnaissance with Airmon-NG: A Comprehensive Guide for Ethical Hackers | by S3Curiosity | Medium](https://medium.com/@S3Curiosity/mastering-wi-fi-reconnaissance-with-airmon-ng-a-comprehensive-guide-for-ethical-hackers-6d792c6091f9)
+
 ## Windows
 
 Dump Wifi password:
@@ -74,13 +78,29 @@ netsh wlan show profile name="<SSID>" key=clear | findstr Key
 
 ## Linux
 
-`iwd` (iNet wireless daemon) is a wireless daemon for Linux written by Intel that aims to replace WPA supplicant.
-
 [iwd - ArchWiki](https://wiki.archlinux.org/title/iwd)
+`iwd` (iNet wireless daemon) is a wireless daemon for Linux written by Intel that aims to replace WPA supplicant and `wireless_tools` (`iwconfig`, `iwlist`).
 
 [WPA supplicant - ArchWiki](https://wiki.archlinux.org/title/WPA_supplicant)
 
 [uoaerg/wavemon: wavemon is an ncurses-based monitoring application for wireless network devices on Linux.](https://github.com/uoaerg/wavemon)
+
+```sh
+lspci -nnk | grep 0280 -A2
+06:00.0 Network controller [0280]: Intel Corporation Wi-Fi 6 AX200 [8086:2723] (rev 1a)
+        Subsystem: Intel Corporation Wi-Fi 6 AX200NGW [8086:0084]
+        Kernel modules: iwlwifi
+
+
+modprobe -nv rt2800usb # Realtek, RT3070L
+modprobe -nv ath9k_htc # AR9271
+
+# linux-firmware-atheros - Firmware for Qualcomm Atheros WiFi and Bluetooth adapters
+# linux-firmware-broadcom - Firmware for Broadcom and Cypress network adapters
+# linux-firmware-intel - Firmware for Intel devices
+# linux-firmware-mediatek - Firmware for MediaTek and Ralink devices
+# linux-firmware-realtek - Firmware for Realtek devices
+```
 
 ## Signal Boosting
 

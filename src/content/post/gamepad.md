@@ -2,7 +2,7 @@
 title: Gamepad
 description: ""
 created: 2016-09-25
-updated: 2025-02-07
+updated: 2025-07-07
 tags:
   - comp/hardware
 ---

@@ -2,7 +2,7 @@
 title: Computer Memory
 description: ""
 created: 2016-04-26
-updated: 2025-06-30
+updated: 2025-09-26
 tags:
   - comp/hardware
   - ddr
@@ -16,10 +16,19 @@ tags:
 [DDR Memories Comparison and Overview|NXP](http://www.nxp.com/pages/ddr-memories-comparison-and-overview:784_LPBB_DDR)
 [Everything You Need To Know About DDR, DDR2 and DDR3 Memories - Hardware Secrets](http://www.hardwaresecrets.com/everything-you-need-to-know-about-ddr-ddr2-and-ddr3-memories/)
 [Laptop DDR4 caveats - x8 layout versus x16 versus single and dual channel](https://rk.edu.pl/en/laptop-ddr4-caveats-x8-layout-versus-x16-versus-single-and-dual-channel/) channels, x8 and x16 layout
+[5 reasons you need to be more careful with RAM on Ryzen](https://www.xda-developers.com/ryzen-memory-compatibility-stinks-but-so-does-arrow-lake/)
 
 ## History
 
 [DRAM 記憶體 60 年 : 最殘酷的半導體戰爭【DRAM 進化史】 - YouTube](https://www.youtube.com/watch?v=eB8SdLQNAmc)
+
+[HOW TRANSISTORS REMEMBER DATA - YouTube](https://www.youtube.com/watch?v=rM9BjciBLmg) SRAM/latch
+[Capacitors are terrible at remembering data. But for this reason we continue doing it. - YouTube](https://www.youtube.com/watch?v=7WnbIeMgWYA) DRAM
+
+[How does Computer Memory Work? 💻🛠 - YouTube](https://www.youtube.com/watch?v=7J7X7aZvMXQ)
+
+[Dynamic Random Access Memory (DRAM). Part 1: Memory Cell Arrays - YouTube](https://www.youtube.com/watch?v=-Df09el4yDU)
+[Dynamic Random Access Memory (DRAM). Part 2: Read and Write Cycles - YouTube](https://www.youtube.com/watch?v=x3jGqOrXXc8)
 
 ### Magnetic Core Memory
 

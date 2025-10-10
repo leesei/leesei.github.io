@@ -2,7 +2,7 @@
 title: Arch Linux
 description: ""
 created: 2014-12-08
-updated: 2025-01-23
+updated: 2025-07-10
 tags:
   - arch-linux
   - desktop
@@ -10,7 +10,7 @@ tags:
   - package-manager
 ---
 
-[Arch Linux - Wikiwand](http://www.wikiwand.com/en/Arch_Linux)
+[Arch Linux - Wikiwand](https://www.wikiwand.com/en/Arch_Linux)
 [Arch Linux Wiki](https://www.archlinux.org/)
 [Community Wiki | Antergos](http://antergos.com/wiki/)
 [Arch Linux ARM](https://archlinuxarm.org/)
@@ -209,7 +209,7 @@ sudo baobab /
    ```
 
 4. use `smallfiles` for MongoDB
-   [linux - Is it safe to delete the journal file of mongodb? - Stack Overflow](http://stackoverflow.com/questions/19533019/is-it-safe-to-delete-the-journal-file-of-mongodb)
+   [linux - Is it safe to delete the journal file of mongodb? - Stack Overflow](https://stackoverflow.com/questions/19533019/is-it-safe-to-delete-the-journal-file-of-mongodb)
 
 ### `/home` space used up
 
@@ -267,7 +267,7 @@ You may then modify files and use `pacman` to try fix issues.
 ### hardware probing
 
 [Hardware Probing Via Command-line | Linux.org](http://www.linux.org/threads/hardware-probing-via-command-line.7565/)
-[ubuntu - Linux retrieve monitor names - Stack Overflow](http://stackoverflow.com/questions/10500521/linux-retrieve-monitor-names)
+[ubuntu - Linux retrieve monitor names - Stack Overflow](https://stackoverflow.com/questions/10500521/linux-retrieve-monitor-names)
 
 ### partition probing
 
@@ -283,11 +283,10 @@ ls /dev/disk/by-{id,label,uuid}
 
 ## Package manager
 
+[Jguer/yay: Yet another Yogurt - An AUR Helper written in Go](https://github.com/Jguer/yay) ❗!important
+[trizen/trizen: Lightweight AUR Package Manager](https://github.com/trizen/trizen)
 [Powerpill - ArchWiki](https://wiki.archlinux.org/title/Powerpill)
 [bauerbill](https://xyne.archlinux.ca/projects/bauerbill/)
-
-[Jguer/yay: Yet another Yogurt - An AUR Helper written in Go](https://github.com/Jguer/yay)
-[trizen/trizen: Lightweight AUR Package Manager](https://github.com/trizen/trizen)
 
 ### pacman
 

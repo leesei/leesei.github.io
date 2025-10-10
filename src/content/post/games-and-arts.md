@@ -2,7 +2,7 @@
 title: Games and Arts
 description: ""
 created: 2015-08-01
-updated: 2025-07-06
+updated: 2025-09-25
 tags:
   - games
 ---
@@ -34,13 +34,13 @@ And [Stanley Parable](http://store.steampowered.com/app/221910/), which a narrat
 ## Retro style
 
 [DeadLock: The Last of Us vs. Pac-Man, Which is MORE Artistic? - YouTube](https://www.youtube.com/watch?v=Xz3RM3_M9E4)
-[Pixel art games aren't retro, they're the future | The Verge](http://www.theverge.com/2014/7/3/5865849/pixel-art-is-here-to-stay)
+[Pixel art games aren't retro, they're the future | The Verge](https://www.theverge.com/2014/7/3/5865849/pixel-art-is-here-to-stay)
 
 ## Cel-Shading
 
 [What is cel-shading - Plus our pick of cel-shaded games | Fanatical](https://www.fanatical.com/en/blog/what-is-cel-shading)
 
-[Low-Poly 风格的图像、视频处理 Polyvia : Polyvia - 羡辙杂俎](http://zhangwenli.com/blog/2015/06/25/polyvia/)
+[Low-Poly 风格的图像、视频处理 Polyvia : Polyvia - 羡辙杂俎](https://zhangwenli.com/blog/2015/06/25/polyvia/)
 [Ovilia/Polyvia: Low-Poly Image and Video Processing](https://github.com/Ovilia/Polyvia)cxz
 
 [致从没看懂过着色器代码的你 : 着色器天书浅引 - 羡辙杂俎](http://zhangwenli.com/blog/2017/02/24/what-is-a-shader/)
@@ -87,6 +87,7 @@ And [Stanley Parable](http://store.steampowered.com/app/221910/), which a narrat
 [Pixel Art Tutorials - YouTube](https://www.youtube.com/playlist?list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b) MortMort
 [🎨Pixel Art Tutorials - YouTube](https://www.youtube.com/playlist?list=PLr2C_1_x89o3beJ1KTuSgMKPwsDizLvA_) Mochibeans
 [Pixel art tutorial - YouTube](https://www.youtube.com/playlist?list=PLhqJJNjsQ7KEVitqVB9WXfgzcj32Yz-iJ) GDQuest
+[The ONLY Pixel Art Guide You Need (Beginner to Advanced) - YouTube](https://www.youtube.com/watch?v=DKmrBUpd0yw)
 
 ### Pixelate image
 

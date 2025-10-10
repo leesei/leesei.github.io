@@ -2,7 +2,7 @@
 title: Distributed Computing
 description: ""
 created: 2016-09-21
-updated: 2025-02-04
+updated: 2025-07-17
 tags:
   - web
 ---
@@ -58,7 +58,7 @@ A split brain is what happens when you have multiple autonomous sub-clusters for
 [Paxos Made Moderately Complex](http://www.cs.cornell.edu/courses/cs7412/2011sp/paxos.pdf)
 
 [Raft Consensus Algorithm](https://raft.github.io/)
-[Raft (computer science) - Wikiwand](<http://www.wikiwand.com/en/Raft_(computer_science)>)
+[Raft (computer science) - Wikiwand](<https://www.wikiwand.com/en/Raft_(computer_science)>)
 
 ### Byzantine Fault Tolerance
 
@@ -222,6 +222,8 @@ Spectrum-X from nVidia
 ### ROCm
 
 [AMD ROCm™ Software](https://www.amd.com/en/products/software/rocm.html)
+[AMD ROCm documentation — ROCm Documentation](https://rocm.docs.amd.com/en/latest/)
+[Running ROCm Docker containers — ROCm installation (Linux)](https://rocm.docs.amd.com/projects/install-on-linux/en/latest/how-to/docker.html)
 
 ### Triton
 
@@ -256,7 +258,7 @@ Spectrum-X from nVidia
 
 ## OpenMP
 
-[OpenMP - Wikiwand](http://www.wikiwand.com/en/OpenMP)
+[OpenMP - Wikiwand](https://www.wikiwand.com/en/OpenMP)
 [Home - OpenMP](https://www.openmp.org/)
 [openmp - GCC Wiki](https://gcc.gnu.org/wiki/openmp)
 

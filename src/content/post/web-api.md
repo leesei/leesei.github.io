@@ -2,7 +2,7 @@
 title: Web API
 description: ""
 created: 2015-11-19
-updated: 2025-04-14
+updated: 2025-10-06
 tags:
   - rest
   - web
@@ -53,6 +53,8 @@ tags:
 [Virtualization, Sandboxes, and Playgrounds for a Wholesome API | Nordic APIs |](https://nordicapis.com/virtualization-sandboxes-playgrounds-wholesome-api/)
 
 ## API meshing
+
+[Top 10 Free API Providers for Data Science Projects - KDnuggets](https://www.kdnuggets.com/top-10-free-api-providers-for-data-science-projects)
 
 [API Marketplace - Free Public & Open Rest APIs | RapidAPI](https://rapidapi.com/)
 
@@ -158,7 +160,7 @@ backed by Wordnik, then donated to [Open API Initiative](https://openapis.org/) 
 [APIs-guru/openapi-directory: Wikipedia for Web APIs. Directory of REST API specs in OpenAPI(fka Swagger) 2.0 format.](https://github.com/APIs-guru/openapi-directory)
 
 Use `allOf` to create mixins of definition:
-<http://stackoverflow.com/questions/30895944/how-to-make-a-field-in-a-definition-required-for-some-operations-and-not-others>
+<https://stackoverflow.com/questions/30895944/how-to-make-a-field-in-a-definition-required-for-some-operations-and-not-others>
 
 [Ansible Semaphore](https://github.com/ansible-semaphore/semaphore/blob/master/api-docs.yml) [Generated UI](https://ansible-semaphore.github.io/semaphore/)
 
@@ -268,7 +270,7 @@ These tools can validate and bundle multi-files spec.
 
 [APIs.json](http://apisjson.org/)
 
-[The APIs.json Discovery Format: Potential Engine in the API Economy](http://www.infoq.com/articles/apis-json-discovery-format)
+[The APIs.json Discovery Format: Potential Engine in the API Economy](https://www.infoq.com/articles/apis-json-discovery-format)
 
 ## JSON API
 

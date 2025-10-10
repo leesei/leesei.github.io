@@ -2,7 +2,7 @@
 title: Free SSL/TLS Certificates
 description: ""
 created: 2023-05-16
-updated: 2025-01-09
+updated: 2025-07-08
 tags:
   - security
   - ssl
@@ -38,7 +38,7 @@ tags:
 [Staging Environment - Let's Encrypt - Free SSL/TLS Certificates](https://letsencrypt.org/docs/staging-environment/)
 `https://acme-staging-v02.api.letsencrypt.org/directory`
 
-[The Changelog #243: Let's Encrypt the Web with Jacob Hoffman-Andrews | Changelog](https://changelog.com/podcast/243)
+[Let's Encrypt the web with Jacob Hoffman-Andrews (Changelog Interviews #243)](https://changelog.com/podcast/243)
 
 [Let's Encrypt Demo - YouTube](https://www.youtube.com/watch?v=Gas_sSB-5SU)
 [Let’s Encrypt Your Docker Dan’s Trial & Errno](https://blog.danivovich.com/2016/01/28/lets-encrypt-your-docker/)
@@ -70,6 +70,7 @@ tags:
 > integrating Let's Encrypt client into a private DNS server is cool
 
 [ACME Client Implementations - Let's Encrypt](https://letsencrypt.org/docs/client-options/)
+[draft-aaron-acme-profiles-01 - Automated Certificate Management Environment (ACME) Profiles Extension](https://datatracker.ietf.org/doc/html/draft-aaron-acme-profiles/)
 
 [Certbot](https://certbot.eff.org/) [docs](https://certbot.eff.org/docs/) previously `letsencrypt`/`letsencrypt-auto`
 [User Guide — Certbot.documentation](https://certbot.eff.org/docs/using.html)

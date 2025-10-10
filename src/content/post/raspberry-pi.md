@@ -2,7 +2,7 @@
 title: Raspberry Pi
 description: ""
 created: 2018-09-12
-updated: 2025-06-27
+updated: 2025-07-07
 tags:
   - iot
   - maker

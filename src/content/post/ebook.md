@@ -2,7 +2,7 @@
 title: eBook
 description: ""
 created: 2016-09-13
-updated: 2025-01-22
+updated: 2025-07-28
 tags:
   - ebook
 ---
@@ -329,7 +329,6 @@ IT/programming
 [书栈网 · BookStack\_程序员 IT 互联网开源编程书籍免费阅读与下载，取之于猿用之于猿！](https://www.bookstack.cn/)
 [GitBook · Writing made easy](https://www.gitbook.com/)
 [Free Information Technology Research Library of White Papers, Magazines, Reports, and eBooks](https://makeuseof.tradepub.com/category/information-technology/1207/)
-[FREE FILE DOWNLOADS DIGTVBG LINUX BOOK TUTORIALS INFORMATION](https://digtvbg.com/files/)
 [anarcho-copy](https://edu.anarcho-copy.org/)
 [anarcho-copy Directory Tree](https://edu.anarcho-copy.org/tree.html)
 
@@ -339,7 +338,7 @@ Grey sources
 [Share And Download IT Ebook](http://www.it-ebooks.com/)
 [Free Professional and Technical Research Library of White Papers, Magazines, Reports, and eBooks](https://www.tradepub.com/category/information-technology/1207/)
 [Digitale Bibliothek Erkenntnisse finden und austauschen. - DOKUMEN.PUB](https://dokumen.pub/#English)
-[ScanLibs - Ebooks & Elearning For Programming](http://scanlibs.com/)
+[FREE FILE DOWNLOADS DIGTVBG LINUX BOOK TUTORIALS INFORMATION - Hacking](https://digtvbg.com/files/books-for-hacking/)
 
 [ISBN.Directory - Book Search Engine - Price Comparison](http://isbn.directory/)
 

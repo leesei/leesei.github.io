@@ -2,7 +2,7 @@
 title: SSH
 description: ""
 created: 2014-12-17
-updated: 2025-06-27
+updated: 2025-09-02
 tags:
   - app
   - shell-tool
@@ -249,7 +249,7 @@ vi /etc/ssh/sshd_config
 **SOCKS proxy**
 any traffic sent to localhost:8080 will be forwarded to the remote host through the SSH tunnel
 
-```
+```sh
 ssh -D 8080 user@remote_host
 ```
 

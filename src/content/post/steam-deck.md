@@ -2,7 +2,7 @@
 title: Steam Deck
 description: ""
 created: 2022-01-12
-updated: 2025-01-09
+updated: 2025-08-03
 tags:
   - comp/hardware
   - mobile
@@ -128,6 +128,9 @@ Fan The Deck
 [Emulation MEGA Guide for Steam Deck (feat. EmuDeck) - YouTube](https://www.youtube.com/watch?v=AvzSHxccmIg) 2022-06 Yuzu folders, PS3 settings
 [Steam Deck Emulation - EVERY New Switch Exclusive Tested - YouTube](https://www.youtube.com/watch?v=A09_2yy5f2o) 2023-01, EmuDeck, Yuzu
 [ULTIMATE Steam Deck Emulation Guide (EmuDeck 2.1) - YouTube](https://www.youtube.com/watch?v=Mfef3ZH2IgE) 2023-04
+
+[Steam Deck Emulation Guide [EmuDeck 2025] - YouTube](https://www.youtube.com/watch?v=89-LRCob6H8) 2025-05
+[Emulation is LEGAL Steam Deck Switch Emulation Guide with Yuzu + EmuDeck #steamdeck #yuzu #emulator - YouTube](https://www.youtube.com/watch?v=tzwqEL3Zs_g) SRM manual settings
 
 [How to install EmuDeck 2 and RetroDeck on the Steam Deck](https://overkill.wtf/emulation-nintendo-sony-steam-deck/)
 [Nintendo Switch Emulation on Steam Deck: How to run Yuzu](https://overkill.wtf/how-to-setup-yuzu-for-steam-deck/)

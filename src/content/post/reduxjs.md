@@ -2,7 +2,7 @@
 title: Redux
 description: Redux = **_Red_**ucer + Fl**_ux_**
 created: 2015-12-04
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - flux
   - javascript
@@ -241,7 +241,7 @@ const ourAwesomeEnhancer =
 
 ---
 
-[#187: Redux, React, and Functional JavaScript with Dan Abramov - The Changelog](https://changelog.com/187/)
+[Redux, React, and Functional JavaScript with Dan Abramov (Changelog Interviews #187)](https://changelog.com/podcast/187)
 [JSJ The Evolution of Flux Libraries with Andrew Clark and Dan Abramov](https://devchat.tv/js-jabber/181-jsj-the-evolution-of-flux-libraries-with-andrew-clark-and-dan-abramov)
 [Dan Abramov - Live React: Hot Reloading with Time Travel at react-europe 2015 - YouTube](https://www.youtube.com/watch?v=xsSnOQynTHs) The presentation where Redux is born
 [Dan Abramov - The Redux Journey at react-europe 2016 - YouTube](https://www.youtube.com/watch?v=uvAXVMwHJXU)
@@ -303,11 +303,11 @@ const ourAwesomeEnhancer =
 
 [Blogged Answers: Why React Context is Not a "State Management" Tool (and Why It Doesn't Replace Redux) · Mark's Dev Blog](https://blog.isquaredsoftware.com/2021/01/context-redux-differences/)
 [Blogged Answers: Redux - Not Dead Yet! · Mark's Dev Blog](https://blog.isquaredsoftware.com/2018/03/redux-not-dead-yet/)
-[When (and when not) to reach for Redux |> Changelog](https://changelog.com/posts/when-and-when-not-to-reach-for-redux)
+[When (and when not) to reach for Redux](https://changelog.com/posts/when-and-when-not-to-reach-for-redux)
 
 [You Might Not Need Redux – Medium](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
 [Redux feels bloated, complicated and not easy. What are the alternative? : reactjs](https://www.reddit.com/r/reactjs/comments/3towfy/redux_feels_bloated_complicated_and_not_easy_what/)
-[reactjs - What could be the downsides of using Redux instead of Flux - Stack Overflow](http://stackoverflow.com/questions/32021763/what-could-be-the-downsides-of-using-redux-instead-of-flux/32916602#32916602)
+[reactjs - What could be the downsides of using Redux instead of Flux - Stack Overflow](https://stackoverflow.com/questions/32021763/what-could-be-the-downsides-of-using-redux-instead-of-flux/32916602#32916602)
 [Redux isn’t dead - LogRocket Blog](https://blog.logrocket.com/redux-isnt-dead/)
 
 [Introduction - Reatom — state manager with a focus of all needs](https://artalar.github.io/reatom/#/)

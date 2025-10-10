@@ -2,7 +2,7 @@
 title: Linux setup
 description: ""
 created: 2015-01-23
-updated: 2025-02-27
+updated: 2025-07-07
 tags:
   - desktop
   - linux

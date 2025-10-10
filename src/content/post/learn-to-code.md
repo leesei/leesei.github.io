@@ -2,7 +2,7 @@
 title: Learn to code
 description: Learn how to code
 created: 2014-12-08
-updated: 2025-05-27
+updated: 2025-09-26
 tags:
   - comp/lang
   - learning
@@ -52,7 +52,6 @@ Coding vs Programming is like typing vs writing.
 [Honeypot Talks - YouTube](https://www.youtube.com/@honeypottalks7932)
 
 [Programming Literacy — JavaScript Scene — Medium](https://medium.com/javascript-scene/programming-literacy-7bc4ae154b91)
-[Programming Literacy](http://www.programmingliteracy.com/)
 
 [Mitch Resnick: Let's teach kids to code - YouTube](https://www.youtube.com/watch?v=Ok6LbV6bqaE)
 [Why development teams are adopting GraphQL? - DEV Community 👩‍💻👨‍💻](https://dev.to/tomekponiat/why-development-teams-are-adopting-graphql-11mh)
@@ -88,7 +87,7 @@ Coding vs Programming is like typing vs writing.
 [10 Self-Taught Programmers Who Became Full-Time Developers | by Angelica Dietzel | Better Programming](https://betterprogramming.pub/10-self-taught-programmers-who-became-full-time-developers-75e0cf244572)
 [Play the long game when learning to code. - Stack Overflow Blog](https://stackoverflow.blog/2020/10/05/play-the-long-game-when-learning-to-code/)
 
-[IT Archetypes](http://www.itarchetypes.com/index.html)
+[IT Archetypes](https://www.itarchetypes.com/index.html)
 [Developer Roadmaps](https://roadmap.sh/)
 
 [i-programmer.info](https://www.i-programmer.info/)
@@ -171,11 +170,12 @@ No framework or library is a silver bullet. But the right choice can save you a 
 ### Literate Programming
 
 [Literate programming - Wikiwand](https://www.wikiwand.com/en/Literate_programming)
-[Literate Programming](http://www.literateprogramming.com/)
+[Literate Programming](https://www.literateprogramming.com/)
+
 [Why Literate Programming Might Help You Write Better Code – The New Stack](https://thenewstack.io/why-literate-programming-might-help-you-write-better-code/)
 
-[Eve](http://witheve.com/) An IDE like Medium, not Vim
-[Literate Programming and Eve](http://witheve.com/deepdives/literate.html)
+[Eve](https://witheve.com/) An IDE like Medium, not Vim
+[Literate Programming and Eve](https://witheve.com/deepdives/literate.html)
 
 ## Goal of Software Development
 
@@ -185,7 +185,7 @@ Sustainably minimize lead time to business impact.
 
 If you are not embarrassed with the first version of your software, you waited too long to ship.
 
-[Complexity Is Outside the Code](http://www.infoq.com/presentations/complexity-simplicity-esb)
+[Complexity Is Outside the Code](https://www.infoq.com/presentations/complexity-simplicity-esb)
 [The collapse of complex software | Read the Tea Leaves](https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/)
 
 [Jared Spool's answer to Should I focus on a good user experience, or push something out quickly? - Quora](http://www.quora.com/Should-I-focus-on-a-good-user-experience-or-push-something-out-quickly/answer/Jared-Spool)
@@ -285,18 +285,15 @@ Causal Profiler (`coz`)
 
 - select category, append `/all-courses/?price=price-free&instructional_level=intermediate&sortBy=popularity` to the URL
 
-[World's #1 Digital Cloud Certification Course & Training Provider — A Cloud Guru](https://acloudguru.com/)
 [Lesson Directory | Programming Historian](https://programminghistorian.org/en/lessons/)
 [Learn How to Code - Find Coding Tutorials | gitconnected](https://gitconnected.com/learn)
 [Tech Deals](https://deals.androidauthority.com/free)
 [Cloud Assessments](https://www.cloudassessments.com/)
-[MIT OpenCourseWare | Free Online Course Materials](http://ocw.mit.edu/index.htm)
-[Category: Computer Science - VideoLectures.NET](http://videolectures.net/Top/Computer_Science/)
+[MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu/index.htm)
+[Category: Computer Science - VideoLectures.NET](https://videolectures.net/Top/Computer_Science/)
 [Manual | Most Popular HTML, CSS, Javascript Tutorials On The Planet](https://www.rtfmanual.io/)
-[Virtual University ~ Free and Low-cost Web Design and Programming Courses](http://vu.org/)
-[code school](http://codeschool.org/) some courses are free
-[Tutorials for ... and many more latest technologies](http://www.tutorialspoint.com/)
-[reSRC ·](http://resrc.io/)
+[Virtual University Press - Great Classics of the Past and Future](https://vu.org/)
+[Tutorials on Technical and Non Technical Subjects](https://www.tutorialspoint.com/)
 [No Excuse List](http://noexcuselist.com/)
 [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)
 [Free Online Learning at GCFLearnFree](http://www.gcflearnfree.org/)
@@ -353,9 +350,6 @@ Causal Profiler (`coz`)
 
 I also have bundles in Fanatical and Humble Bundle
 
-Mostly paid contents:
-[Learn by Doing - Code School](https://www.codeschool.com/)
-
 ### Kata
 
 [CodeKata](http://codekata.com/)
@@ -393,6 +387,14 @@ Mostly paid contents:
 > [[unicode]]
 
 [The Unreasonable Effectiveness Of Plain Text - YouTube](https://www.youtube.com/watch?v=WgV6M1LyfNY) ❗!important, plain text is easy to maintain and scalable, manage with git repo
+
+## Vibe Coding
+
+[Want to supercharge your vibe coding skills? Here are the best AI models developers can use to generate secure code | IT Pro](https://www.itpro.com/software/development/vibe-coding-best-ai-models-secure-code-generation)
+
+[Humans do it better: study shows the limits of coding agents | heise online](https://www.heise.de/en/news/Humans-do-it-better-study-shows-the-limits-of-coding-agents-10628596.html)
+[Vibe coding with GitHub Copilot: Agent mode and MCP support rolling out to all VS Code users - The GitHub Blog](https://github.blog/news-insights/product-news/github-copilot-agent-mode-activated/)
+[Vibe coding and the future of software development | InfoWorld](https://www.infoworld.com/article/4058076/vibe-coding-and-the-future-of-software-development.html)
 
 ## Tools
 
@@ -554,6 +556,8 @@ Cause a contradiction if self-referencing
 
 [【挑战毕导】停机悖论三句话就能证明不完备性定理？#数学 #math - YouTube](https://www.youtube.com/watch?v=Y1yUHnB9Mwg)
 
+[The Boundary of Computation - YouTube](https://www.youtube.com/watch?v=kmAc1nDizu0&list=WL&index=28)
+
 ## Architecture Design
 
 > move to [[design-patterns]]?
@@ -570,7 +574,7 @@ Cause a contradiction if self-referencing
 
 [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 [The Rule of Three](http://blog.codinghorror.com/rule-of-three/)
-[Programming Should Be More than Coding](http://www.infoq.com/presentations/programming-design-coding)
+[Programming Should Be More than Coding](https://www.infoq.com/presentations/programming-design-coding)
 [In the Loop – CEO Quest Insights – Medium](https://medium.com/ceoquest/in-the-loop/home)
 
 [Choose Boring Technology](https://boringtechnology.club/)
@@ -585,9 +589,10 @@ Cause a contradiction if self-referencing
 2. meet those needs
 3. within economic and technologincal constraints
 
+[jarulraj/periodic-table: A Periodic Table of System Design Principles](https://github.com/jarulraj/periodic-table)
 [What’s the Best Backend for React? 5 Options to Choose From | Boot.dev](https://blog.boot.dev/backend/backend-for-react/) note on decoupled architecture
 
-[Beautiful Structure](http://www.infoq.com/presentations/structural-patterns-complexity)
+[Beautiful Structure](https://www.infoq.com/presentations/structural-patterns-complexity)
 [Systems Engineering - YouTube](https://www.youtube.com/playlist?list=PLn8PRpmsu08owzDpgnQr7vo2O-FUQm_fL)
 [CodeOpinion - YouTube](https://www.youtube.com/@CodeOpinion)
 
@@ -705,7 +710,7 @@ First of all get your commit message right:
 #### Manually curated
 
 [Keep a Changelog](http://keepachangelog.com/)
-[#127: Keep a CHANGELOG with Olivier Lacan - Changelog](https://changelog.com/127/)
+[Keep a CHANGELOG with Olivier Lacan (Changelog Interviews #127)](https://changelog.com/podcast/127)
 
 #### Automated
 
@@ -1099,10 +1104,6 @@ Elm -> ReScript -> F#
 [NekoVM](http://nekovm.org/)
 [A Comparison Of Neko And Lua](http://nekovm.org/lua)
 [doc:begin [NekoVM]](http://nekovm.org/doc/begin)
-
-## Objective-C
-
-[Learn Objective-C - Code School](https://www.codeschool.com/courses/try-objective-c)
 
 ## OCaml
 

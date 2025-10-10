@@ -2,7 +2,7 @@
 title: Social Coding
 description: ""
 created: 2015-07-02
-updated: 2025-01-09
+updated: 2025-08-17
 tags:
   - comp/lang
 ---
@@ -45,9 +45,7 @@ tags:
 
 [OneCompiler - Write, run and share code online | Free online compiler with 60+ languages and databases](https://onecompiler.com/) multi-language, compiled language and frameworks
 [RunKit is Node prototyping](https://runkit.com/home) JavaScript, with npm support (originally Tonic)
-[WebpackBin](http://www.webpackbin.com/)
-[RequireBin](http://requirebin.com/) JavaScript, with npm support
-[README.md – Gomix](https://gomix.com/#!/project/outrageous-production) JavaScript, with npm support (originally Hyperdev)
+
 [Project Jupyter | Home](http://jupyter.org/index.html) multi-language
 [nbviewer](http://nbviewer.jupyter.org/) loads notebook
 [Replit: the collaborative browser based IDE - Replit](https://replit.com/) multi-language, not very scalable
@@ -56,10 +54,8 @@ tags:
 
 [JS Bin - Collaborative JavaScript Debugging](http://jsbin.com/)
 [CodePen - Front End Developer Playground & Code Editor in the Browser](http://codepen.io/)
-[HTMLPen | Visual HTML Editor, HTML Playground & Publishing, Large File Reader](https://htmlpen.com/)
-[Glitch](https://glitch.com/) with transpiler pipeline
+[jsFiddle](http://jsfiddle.net/)
 [Plunker](http://plnkr.co/)
-[codepad](http://codepad.org/)
 [JavaScript Tutor - Visualize JavaScript code execution](http://pythontutor.com/javascript.html)
 
 [CodeSandbox: Online Code Editor Tailored for Web Application Development](https://codesandbox.io/)
@@ -76,20 +72,9 @@ tags:
 
 [Regular Expressions 101](http://regex101.com/) for regex
 
-[Tributary](http://tributary.io/) for D3 diagram
-[bl.ocks.org](http://bl.ocks.org/) for D3 diagram
-
 ### Virtual Machines
 
-[Koding | Say goodbye to your localhost and code in the cloud.](https://koding.com/Home)
-[Nitrous.IO](https://www.nitrous.io/)
-[Setting up MongoDB with Autoparts](http://help.nitrous.io/mongodb/)
-[Run server-side code and discover APIs in your browser](https://runnable.com/)
-
-### Pair Programming
-
-[Codebox | Powerful, Collaborative Online/Offline Cloud IDE](https://www.codebox.io/)
-[jsFiddle](http://jsfiddle.net/)
+[Modern Dev Environment Delivered · Koding](https://www.koding.com/)
 
 ## Discussion
 

@@ -2,7 +2,7 @@
 title: "Dragon's Dogma: Dark Arisen"
 description: ""
 created: 2018-01-08
-updated: 2025-02-16
+updated: 2025-07-07
 tags:
   - games
 ---

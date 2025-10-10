@@ -2,13 +2,13 @@
 title: Star Wars
 description: ""
 created: 2016-02-07
-updated: 2025-02-07
+updated: 2025-07-07
 tags:
   - movies
   - star-wars
 ---
 
-[Star Wars - Wikiwand](http://www.wikiwand.com/en/Star_Wars)
+[Star Wars - Wikiwand](https://www.wikiwand.com/en/Star_Wars)
 [StarWars.com | The Official Star Wars Website](http://www.starwars.com/)
 [The Star Wars Underworld](http://www.starwarsunderworld.com/)
 [Original Trilogy - Star Wars, Film Preservation, and Fan Edits](https://originaltrilogy.com/)

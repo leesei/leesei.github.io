@@ -2,7 +2,7 @@
 title: Dark Web
 description: ""
 created: 2023-03-06
-updated: 2025-06-24
+updated: 2025-07-14
 tags:
   - security
   - web
@@ -13,11 +13,14 @@ tags:
 
 [The Hacker’s Choice | Founded in 1995](https://www.thc.org/segfault/) Disposable Root Servers
 
+[The Best Dark Web Browser for Your Device](https://www.makeuseof.com/tag/dark-web-browser/)
+[Yes, You Can Search the Dark Web—Here’s How](https://www.makeuseof.com/how-to-search-dark-web/)
+[alecmuffett/real-world-onion-sites: This is a list of substantial, commercial-or-social-good mainstream websites which provide onion services.](https://github.com/alecmuffett/real-world-onion-sites)
+
 [Use These 5 Free Tools to Check If Your Data Is on the Dark Web](https://www.makeuseof.com/free-tools-check-data-dark-web/)
 [What Are Dark Web Alerts? Know When Your Info Falls Into the Wrong Hands](https://www.makeuseof.com/what-are-dark-web-alerts/)
 [6 Ways the Dark Web Is Nothing Like in Movies](https://www.makeuseof.com/dark-web-vs-movie-myths/)
-
-[The Best Dark Web Browser for Your Device](https://www.makeuseof.com/tag/dark-web-browser/)
+[The Dark Web Isn't Illegal, But You Should Watch Out for These 7 Things](https://www.makeuseof.com/dark-web-illegal/)
 
 [Tor Project | Anonymity Online](https://www.torproject.org/)
 [Onion Router - an overview | ScienceDirect Topics](https://www.sciencedirect.com/topics/computer-science/onion-router)

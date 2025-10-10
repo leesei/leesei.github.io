@@ -2,7 +2,7 @@
 title: Internet of things
 description: ""
 created: 2018-06-12
-updated: 2025-06-27
+updated: 2025-09-23
 tags:
   - iot
   - maker
@@ -10,9 +10,9 @@ tags:
 
 [[electronics]]
 
-[Internet of things - Wikiwand](http://www.wikiwand.com/en/Internet_of_things)
-[Embedded system - Wikiwand](http://www.wikiwand.com/en/Embedded_system)
-[Microcontroller - Wikiwand](http://www.wikiwand.com/en/Microcontroller)
+[Internet of things - Wikiwand](https://www.wikiwand.com/en/Internet_of_things)
+[Embedded system - Wikiwand](https://www.wikiwand.com/en/Embedded_system)
+[Microcontroller - Wikiwand](https://www.wikiwand.com/en/Microcontroller)
 
 [Mesh networking extends IoT reach - O'Reilly Radar](http://radar.oreilly.com/2014/07/mesh-networking-extends-iot-reach.html)
 [Extracting value from the IoT - O'Reilly Radar](http://radar.oreilly.com/2014/06/extracting-value-from-the-iot.html)
@@ -82,7 +82,7 @@ Firmata is a generic protocol for communicating with microcontrollers from softw
 ### Arduino IDE
 
 Arduino IDE can be used for Arduino-compatible boards. It provides a compile toolchain, editor, standard libraries and libraries convention for embedded system programming.
-[Using Arduino as an Embedded Development Platform](https://predictabledesigns.com/using-arduino-as-an-embedded-development-platform/?utm_source=EmailCampaign&omhide=true&EmailSubscriber=true)
+[Using Arduino as an Embedded Development Platform](https://predictabledesigns.com/using-arduino-as-an-embedded-development-platform/)
 
 [Arduino - ArchWiki](https://wiki.archlinux.org/title/Arduino)
 `pacman -Sy arduino`
@@ -202,8 +202,7 @@ Open source RTOS for ARM Cortex-A. Now supported by Arduino IDE.
 
 ### Frameworks
 
-[NodeUp #73](http://nodeup.com/seventythree)
-[#177: Cylon.js, Gobot, Artoo, and IoT with Ron Evans from The Hybrid Group - Changelog](https://changelog.com/177/)
+[Cylon.js, Gobot, Artoo, IoT with Ron Evans from The Hybrid Group (Changelog Interviews #177)](https://changelog.com/podcast/177)
 
 [Node-RED](http://nodered.org/) A visual tool for wiring the Internet of Things
 [Node-Red 簡介與快速安裝](https://www.arthurtoday.com/2016/10/node-red-introduction-and-installation.html)
@@ -330,7 +329,7 @@ ESP32 with Bluetooth Classic may need a expand to the partition
 [JavaScript engine for Internet of Things](http://jerryscript.net/)
 [jerryscript-project/jerryscript: Ultra-lightweight JavaScript engine for the Internet of Things.](https://github.com/jerryscript-project/jerryscript)
 [Samsung/iotjs](https://github.com/Samsung/iotjs)
-[JerryScript & IoT.js: JavaScript for IoT from Samsung](http://www.infoq.com/news/2015/08/iotjs-jerryscript-samsung)
+[JerryScript & IoT.js: JavaScript for IoT from Samsung](https://www.infoq.com/news/2015/08/iotjs-jerryscript-samsung)
 
 [NodeBots - The Rise of JS Robotics](http://nodebots.io/)
 [Cylon.js - JavaScript framework for robotics, physical computing, and the Internet of Things using Node.js](https://cylonjs.com/)

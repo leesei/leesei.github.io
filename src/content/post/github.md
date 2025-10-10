@@ -2,7 +2,7 @@
 title: GitHub
 description: ""
 created: 2014-12-11
-updated: 2025-06-20
+updated: 2025-09-10
 tags:
   - app
   - git
@@ -148,11 +148,13 @@ rm -rf node_modules/gh-pages/.cache
 [Quickstart for GitHub Copilot - GitHub Docs](https://docs.github.com/en/copilot/quickstart)
 [Request a discount - GitHub Education](https://education.github.com/discount_requests/application) free for teachers and students
 
+[GitHub Copilot concepts: An overview of all services and tools – 4sysops](https://4sysops.com/archives/github-copilot-concepts-an-overview-of-all-services-and-tools/)
+
 [GitHub Copilot for Developer Productivity Series' Articles - DEV Community](https://dev.to/blackgirlbytes/series/19058)
 
-[Copilot for VS Code - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Metatype.copilot-vscode)
-[Vibe coding with GitHub Copilot: Agent mode and MCP support rolling out to all VS Code users - The GitHub Blog](https://github.blog/news-insights/product-news/github-copilot-agent-mode-activated/)
-[Use MCP servers in VS Code (Preview)](https://code.visualstudio.com/docs/copilot/chat/mcp-servers)
+[GitHub Copilot - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+[Use agent mode in VS Code](https://code.visualstudio.com/docs/copilot/chat/chat-agent-mode)
+[Use MCP servers in VS Code](https://code.visualstudio.com/docs/copilot/chat/mcp-servers)
 
 [GitHub Copilot Agent mode vs. Ask and Edit mode in VS Code – 4sysops](https://4sysops.com/archives/github-copilot-agent-mode-vs-ask-and-edit-mode-in-vs-code/)
 [What are GitHub Copilot instruction files? A simple usage example – 4sysops](https://4sysops.com/archives/what-are-github-copilot-instruction-files-a-simple-usage-example/)
@@ -247,9 +249,8 @@ Put YAML in `.github/workflows/`
 [Getting Started with GitHub Actions for .NET Developers - Steve Gordon - Code with Steve](https://www.stevejgordon.co.uk/getting-started-with-github-actions-for-dotnet-developers)
 [CI/CD in Node.js with GitHub Actions - LogRocket Blog](https://blog.logrocket.com/ci-cd-node-js-github-actions/)
 [4 tips for GitHub Actions usability (+2 debugging) | Fleet Device Management](https://blog.fleetdm.com/4-tips-for-github-actions-usability-2-debugging-4c0c920adfd)
-:
 
-[The Changelog #331: GitHub Actions is the next big thing with Kyle Daigle, Director of Ecosystem Engineering at GitHub | News and podcasts for developers | Changelog](https://changelog.com/podcast/331)
+[GitHub Actions is the next big thing with Kyle Daigle, Director of Ecosystem Engineering at GitHub (Changelog Interviews #331)](https://changelog.com/podcast/331)
 
 ## Dependabot
 
@@ -380,8 +381,8 @@ Hi <company username>! You've successfully authenticated...
 
 [Quick Tip: How to Work with GitHub and Multiple Accounts - Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/how-to-work-with-github-and-multiple-accounts--net-22574)
 [Github for work and play (multiple accounts) | ricardian ambivalence](http://ricardianambivalence.com/2013/09/22/github-for-work-and-play-multiple-accounts/)
-[Switch between user identities in one Git on one computer - Stack Overflow](http://stackoverflow.com/questions/9347458/switch-between-user-identities-in-one-git-on-one-computer)
-[git - Multiple github accounts on the same computer? - Stack Overflow](http://stackoverflow.com/questions/3860112/multiple-github-accounts-on-the-same-computer)
+[Switch between user identities in one Git on one computer - Stack Overflow](https://stackoverflow.com/questions/9347458/switch-between-user-identities-in-one-git-on-one-computer)
+[git - Multiple github accounts on the same computer? - Stack Overflow](https://stackoverflow.com/questions/3860112/multiple-github-accounts-on-the-same-computer)
 
 ## Organization
 

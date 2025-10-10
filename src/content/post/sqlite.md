@@ -2,7 +2,7 @@
 title: SQLite
 description: ""
 created: 2023-09-26
-updated: 2025-06-24
+updated: 2025-07-10
 tags:
   - comp/database
   - postgresql
@@ -36,13 +36,15 @@ tags:
 
 [sqlite-utils documentation](https://sqlite-utils.datasette.io/en/stable/) Python
 
-[#201: SQLite with Richard Hipp - Changelog](https://changelog.com/201/)
+[Why SQLite succeeded as a database with Richard Hipp, creator of SQLite (Changelog Interviews #201)](https://changelog.com/podcast/201)
 
 ## libSQL
 
 [SQLite and its weird new fork “libSQL” - YouTube](https://www.youtube.com/watch?v=PGpL5hYpY1o)
 
 ## GUI Client
+
+> prefer multi-db client [[database#UI Client]]
 
 [SqliteMan](https://sqliteman.dev/)
 [SQLiteStudio](https://sqlitestudio.pl/)

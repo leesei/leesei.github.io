@@ -2,7 +2,7 @@
 title: Railway
 description: ""
 created: 2025-01-02
-updated: 2025-06-30
+updated: 2025-07-07
 tags:
   - railway
   - trivia

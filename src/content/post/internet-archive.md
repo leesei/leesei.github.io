@@ -2,7 +2,7 @@
 title: Internet Archive
 description: ""
 created: 2015-12-30
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - web
 ---
@@ -13,7 +13,7 @@ tags:
 [Internet Archive: Wayback Machine](http://archive.org/web/)
 [Internet Arcade : Free Software : Download & Streaming : Internet Archive](https://archive.org/details/internetarcade)
 
-[Archiving The Internet with Jason Scott | The Web Ahead](http://thewebahead.net/97)
+[Archiving The Internet with Jason Scott | The Web Ahead](https://thewebahead.net/97)
 
 [Internet Archive Gets DMCA Exemption To Help Archive Vintage Software](https://archive.org/about/dmca.php)
 [The quest to save today’s gaming history from being lost forever | Ars Technica](http://arstechnica.com/gaming/2015/06/the-quest-to-save-todays-gaming-history-from-being-lost-forever/)

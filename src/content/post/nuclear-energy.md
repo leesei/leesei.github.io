@@ -2,7 +2,7 @@
 title: Nuclear Energy
 description: ""
 created: 2023-05-27
-updated: 2025-03-31
+updated: 2025-09-18
 tags:
   - energy
   - science
@@ -27,6 +27,7 @@ Small Modular Reactor
 [WTF Happened to Nuclear Energy? - YouTube](https://www.youtube.com/watch?v=QzTgZ6kOEM8)
 [Inside a Nuclear Reactor - YouTube](https://www.youtube.com/watch?v=P99C051arMo)
 
+[一小時略懂核能｜第四代核反應爐、核分裂、核廢料、用過核燃料、最終處置、鈉冷快中子、熔鹽反應爐、高溫氣冷反應爐、行波反應爐、新核能 - YouTube](https://www.youtube.com/watch?v=htNUIUEHPJ4)
 [The Future of Nuclear Energy Depends On This... - YouTube](https://www.youtube.com/watch?v=9p-ZxTnNdF4)
 
 - Gen 1: 1950s, prototypes
@@ -68,6 +69,9 @@ Small Modular Reactor
 
 [最安全的核電廠？郭董提的小型核電廠 SMR，在中國已有併網發電實例！用發電量換安全性，真的遇到停電也不怕？ - YouTube](https://www.youtube.com/watch?v=29WGNfuxIxc)
 [台灣反核的同時，世界大國卻拚命發展新技術，「小型核電廠」真有那麼神？-風傳媒](https://www.storm.mg/lifestyle/4116728)
+
+[是忽悠还是真本事？美国微型核电公司Oklo，是什么水平？为何中美都争相发展SMR核电技术？ - YouTube](https://www.youtube.com/watch?v=H2x02J5yXcM)
+[中国小型核站成功商业化！它为什么超安全？深挖一下石岛湾气冷堆SMR项目的技术细节，会是未来绿能的“终极之选”吗？ - YouTube](https://www.youtube.com/watch?v=_Iwfjc6HqGM)
 
 ### Molten Salt Reactor
 

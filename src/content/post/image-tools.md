@@ -2,7 +2,7 @@
 title: Image Tools
 description: ""
 created: 2016-08-04
-updated: 2025-01-09
+updated: 2025-09-24
 tags:
   - app
   - image-magick
@@ -48,16 +48,16 @@ tags:
 
 ```sh
 # crop lower part of image
-convert input.jpg -crop 300x150+0+150 +repage image-cropped.jpg
+magick input.jpg -crop 300x150+0+150 +repage image-cropped.jpg
 
 # add shadow
-convert screenshot.jpg \( +clone -background black -shadow 60×5+0+5 \) +swap -background white -layers merge +repage shadow.jpg
+magick screenshot.jpg \( +clone -background black -shadow 60×5+0+5 \) +swap -background white -layers merge +repage shadow.jpg
 
 # add timestamp, http://www.imagemagick.org/script/escape.php
-convert *.jpg -font Arial -pointsize 72 -gravity SouthEast -fill yellow -annotate +100+100 %[exif:datetime] output-%d.jpg
+magick *.jpg -font Arial -pointsize 72 -gravity SouthEast -fill yellow -annotate +100+100 %[exif:datetime] output-%d.jpg
 
 # convert to pdf
-convert a.png b.png -compress jpeg -resize 1240x1753 \
+magick a.png b.png -compress jpeg -resize 1240x1753 \
                       -extent 1240x1753 -gravity center \
                       -unis PixelsPerInch -density 150x150 multipage.pdf
 
@@ -71,7 +71,7 @@ convert -delay '2x1' *.png output.gif  # 2 sec each frame
 [imagemagick - Apply watermark with text / image using GraphicsMagick - Stack Overflow](https://stackoverflow.com/questions/20997701/apply-watermark-with-text-image-using-graphicsmagick)
 
 ```sh
-convert -background transparent -fill grey -font Calibri -size 140x80 -pointsize 14 -gravity southeast label:'copyright text' output.png
+magick -background transparent -fill grey -font Calibri -size 140x80 -pointsize 14 -gravity southeast label:'copyright text' output.png
 ```
 
 ### Resizing Image
@@ -80,15 +80,15 @@ convert -background transparent -fill grey -font Calibri -size 140x80 -pointsize
 
 ```sh
 # resizing image
-convert -resize 300x300 image.jpg image-small.jpg
-convert -resize 1080 {from_path} {to_path}  # fix weight only
-convert -resize x1080 {from_path} {to_path}  # fix height only
+convert image.jpg -resize 300x300 image-small.jpg
+convert {from_path} -resize 1080 {to_path}  # fix weight only
+convert {from_path} -resize x1080 {to_path}  # fix height only
 
 # very low quality
 convert -thumbnail {width} *.jpg
 
 # resize to max width 1920
-mogrify -resize 1920x\> input_folder/*.jpg -path output_folder/
+mogrify input_folder/*.jpg  -resize 1920x\> -path output_folder/
 ```
 
 [How can I scale all images in a folder to the same width? - Ask Ubuntu](https://askubuntu.com/questions/135477/how-can-i-scale-all-images-in-a-folder-to-the-same-width)
@@ -133,7 +133,7 @@ magick -size 5000x5000 tile:- image.jpg
 
 ```sh
 # get quality of JPEG file
-magick identify -verbose file.jpg | grep Quality
+identify -verbose file.jpg | grep Quality
 ```
 
 #### with text
@@ -187,7 +187,7 @@ magick flower_original.jpeg -negate flower_negative.jpeg
 
 [Wand documentation](http://docs.wand-py.org/en/latest/index.html#)
 [ImageMagick/PythonMagick: PythonMagick](https://github.com/ImageMagick/PythonMagick)
-[python - Documents and examples of PythonMagick - Stack Overflow](http://stackoverflow.com/questions/1740158/documents-and-examples-of-pythonmagick/5188661#5188661)
+[python - Documents and examples of PythonMagick - Stack Overflow](https://stackoverflow.com/questions/1740158/documents-and-examples-of-pythonmagick/5188661#5188661)
 
 [Python Imaging Library (PIL)](http://www.pythonware.com/products/pil/)
 [Pillow — Pillow (PIL Fork) documentation](http://pillow.readthedocs.io/en/latest/)

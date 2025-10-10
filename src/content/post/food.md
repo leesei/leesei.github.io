@@ -2,7 +2,7 @@
 title: Food
 description: ""
 created: 2015-10-09
-updated: 2025-06-01
+updated: 2025-09-27
 tags:
   - food
   - science
@@ -108,12 +108,14 @@ Millet 粟 栗
 [【鬼谷闲谈】小麦如何成为最强主粮？ - YouTube](https://www.youtube.com/watch?v=T1erPWe5yr8)
 [【鬼谷闲谈】一颗大豆背后的千年历史 - YouTube](https://www.youtube.com/watch?v=4U7fL7mk61c)
 
+[如果没有玉米，我们或许吃不上便宜的炸鸡？ - YouTube](https://www.youtube.com/watch?v=n0IHC5D_XPo)
 [为什么大米可以直接吃，小麦总是磨面吃？ - YouTube](https://www.youtube.com/watch?v=1xFSFipVjnU)
 [小麦的恶魔双胞胎：被嫌弃的毒麦的一生 - YouTube](https://www.youtube.com/watch?v=KcAy6CRuUk4)
-[如果没有玉米，我们或许吃不上便宜的炸鸡？ - YouTube](https://www.youtube.com/watch?v=n0IHC5D_XPo)
+[为什么大豆在中国会从主食变成副食？ - YouTube](https://www.youtube.com/watch?v=Vbx9wQxRVas)
 
 [為什麼有人說玉米是外星植物？爆米花竟然可能改變了世界！世界第一糧食作物，其實早已不只是糧食……【老肉雜談】#生物 #玉米 #植物 #都市傳說 - YouTube](https://www.youtube.com/watch?v=QVZlo_cDvvI) 粳米，秈米
 [為什麼說水稻是亞洲人的驕傲？原來它比小麥重要！馴化起源是中國？還是印度？還是…韓國？關於大米飯你應該知道的事【老肉雜談】#生物 #植物 #食物 #米 #水稻 - YouTube](https://www.youtube.com/watch?v=keU9_rKfPG8)
+[中國每年要進口1億噸大豆,為什麼不自己多種點呢?大豆原產於中國,為什麼卻成了巴西和美國的「搖錢樹」?大豆的傳奇故事......【老肉雜談】#植物 #大豆 #科普 #生物 #食物 - YouTube](https://www.youtube.com/watch?v=mgcF55FESP4)
 
 ### Potatoes
 
@@ -163,7 +165,7 @@ Millet 粟 栗
 [西瓜属 - Wikiwand](https://www.wikiwand.com/zh/articles/%E8%A5%BF%E7%93%9C%E5%B1%9E)
 [為什麼西瓜起源的秘密藏在埃及古墓里？西瓜瓤到底是什麼？最適合夏天的水果，西瓜的瘋狂真相……【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=eokC3xIRLm0)
 
-### Solanaceae 茄科 (Potatoes, Peppers)
+### Solanaceae 茄科 (Potatoes, Tomatoes, Peppers)
 
 > 茄目 茄科
 
@@ -175,6 +177,8 @@ Millet 粟 栗
 [爱尔兰大饥荒 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E6%84%9B%E7%88%BE%E8%98%AD%E5%A4%A7%E9%A5%91%E8%8D%92)
 [【鬼谷闲谈】土豆：从剧毒块茎到未来主粮 - YouTube](https://www.youtube.com/watch?v=DPF64hiU_VA)
 [【食录】高产的土豆，是怎么饿死数百万人的？ - YouTube](https://www.youtube.com/watch?v=absYFmbNrhg) 愛爾蘭大饑荒
+
+[為什麼番茄沒以前好吃了？原來基因組里竟暗藏玄機！追求完美的顏值，卻讓番茄失去了靈魂！【老肉雜談】#生物 #植物 #水果 #蔬菜 #番茄 - YouTube](https://www.youtube.com/watch?v=Sc23AFTU-YI)
 
 [Capsicum - Wikiwand](https://www.wikiwand.com/en/articles/Capsicum)
 [辣椒属 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E8%BE%A3%E6%A4%92%E5%B1%AC)
@@ -312,6 +316,7 @@ Nidi larghi
 [不同的巧克力有哪些区别？如何挑一块好吃的巧克力？What are the differences between different chocolates? - YouTube](https://www.youtube.com/watch?v=NDmvwD9yzpc)
 [巧克力的前生今世：药、货币、饮料、甜品 - YouTube](https://www.youtube.com/watch?v=btcGK6FZlPM)
 [【可可】直击裸猿底层bug - YouTube](https://www.youtube.com/watch?v=pHvEDA-OcWg)
+[為什麼說巧克力可能變成奢侈品?情人節還送得起嗎?揭秘神奇的熱帶水果可可,以及用可可製作巧克力的起源和方法!【老肉雜談】#植物 #生物 #巧克力 #可可 #冷知識 - YouTube](https://www.youtube.com/watch?v=HuAcVCqQvyY)
 
 ## Cheese
 
@@ -378,7 +383,7 @@ Third Generation:
 
 ## Date Labels
 
-[Best Enjoyed By - 99% Invisible](http://99percentinvisible.org/episode/best-enjoyed-by/)
+[Best Enjoyed By - 99% Invisible](https://99percentinvisible.org/episode/best-enjoyed-by/)
 "Expires on" for food that is unsafe to eat
 "Best if used by" is only a recommendation for better taste
 

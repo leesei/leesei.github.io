@@ -2,7 +2,7 @@
 title: Writing Good Code
 description: ""
 created: 2023-06-10
-updated: 2025-02-07
+updated: 2025-07-07
 tags:
   - programmer
 ---

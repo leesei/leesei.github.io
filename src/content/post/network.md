@@ -2,7 +2,7 @@
 title: Network
 description: ""
 created: 2016-04-24
-updated: 2025-07-07
+updated: 2025-09-08
 tags:
   - anycast
   - comp/network
@@ -70,8 +70,7 @@ tags:
 ## LAN cable
 
 [你根本不懂网线！双绞线 超五类 Cat5e 六类 Cat6 七类 Cat7 八类 Cat8.1 看这一期就够了哦～ - YouTube](https://www.youtube.com/watch?v=E3whld0N3d8)
-
-[Category 5 cable - Wikiwand](https://www.wikiwand.com/en/Category_5_cable)
+tegory 5 cable - Wikiwand](https://www.wikiwand.com/en/Category_5_cable)
 [Category 6 cable - Wikiwand](https://www.wikiwand.com/en/Category_6_cable)
 
 [拉 Cat.6A 網路線｜網路線有什麼差別?｜簡易測試 WiFi6 速度居然差這麼多!!｜ 10Gbps 區網【水電爸爸】 - YouTube](https://www.youtube.com/watch?v=sUbcXGAuaXQ)
@@ -246,6 +245,14 @@ Chris Greer
 
 [IETF-OPSAWG-WG/draft-ietf-opsawg-pcap: PCAP next generation file format specification](https://github.com/IETF-OPSAWG-WG/draft-ietf-opsawg-pcap) `.pcapng`
 
+## NFLOG/NFQUEUE
+
+[基于netfilter的后门 - FreeBuf网络安全行业门户](https://www.freebuf.com/articles/system/344392.html)
+
+```
+man iptables-extensions
+```
+
 ## Anycast
 
 > or "Addressing methods"?
@@ -299,6 +306,10 @@ Fabrics: A local-area RDMA network is usually referred to as a fabric.
 [File transfer between any computers | Zack Scholl](https://schollz.com/blog/croc6/)
 [schollz/croc: Easily and securely send things from one computer to another](https://github.com/schollz/croc)
 [howeyc/crocgui: GUI for croc](https://github.com/howeyc/crocgui)
+
+[RFC 6887 - Port Control Protocol (PCP)](https://datatracker.ietf.org/doc/html/rfc6887)
+[RFC 7488 - Port Control Protocol (PCP) Server Selection](https://datatracker.ietf.org/doc/html/rfc7488)
+[CGNAT stops you port forwarding, but here's how to get around it](https://www.xda-developers.com/cgnat-port-forwarding-workarounds/)
 
 [RFC 8489: Session Traversal Utilities for NAT (STUN)](https://datatracker.ietf.org/doc/html/rfc8489)
 [RFC 8445: Interactive Connectivity Establishment (ICE): A Protocol for Network Address Translator (NAT) Traversal](https://datatracker.ietf.org/doc/html/rfc8445)
@@ -380,6 +391,8 @@ Fabrics: A local-area RDMA network is usually referred to as a fabric.
 [An IPTABLES Primer | Daniel Miessler](https://danielmiessler.com/study/iptables/)
 [How To Configure iptables Firewall In Linux - LinuxAndUbuntu - Linux News | Apps Reviews | Linux Tutorials HowTo](http://www.linuxandubuntu.com/home/how-to-configure-iptables-firewall-in-linux)
 
+[IPTables Example Configuration](https://networklessons.com/miscellaneous/iptables-example-configuration)
+
 [Viewing all iptables rules - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/205867/viewing-all-iptables-rules)
 [how to query iptables](https://www.phind.com/search?cache=cz5j3ek642nnzmkom9ycqa0b)
 
@@ -399,7 +412,7 @@ Fabrics: A local-area RDMA network is usually referred to as a fabric.
 [Traffic Rules » Linux Magazine](http://www.linux-magazine.com/Issues/2019/226/Nftables)
 [Why you will love nftables – To Linux and beyond !](https://home.regit.org/2014/01/why-you-will-love-nftables/)
 [ungleich blog - IPtables vs. nftables](https://digitalglarus.ch/en-us/cms/blog/2018/08/19/iptables-vs-nftables/)
-[Why you will love nftables – To Linux and beyond !](https://home.regit.org/2014/01/why-you-will-love-nftables/)
+[A Deep Dive into Iptables and Netfilter Architecture | DigitalOcean](https://www.digitalocean.com/community/tutorials/a-deep-dive-into-iptables-and-netfilter-architecture)
 
 ### Firewalld
 
@@ -587,7 +600,7 @@ curl -T uploadfile -u user:passwd ftp://ftp.upload.com/myfile
 [How to Test Internet Connection Speed From the Terminal](https://www.maketecheasier.com/test-internet-connection-speed-from-terminal/)
 
 [Speedtest by Ookla - The Global Broadband Speed Test](http://www.speedtest.net/run) with region selection
-[Internet Speed Test | Fast.com](https://fast.com/en/)by Netflix
+[Internet Speed Test | Fast.com](https://fast.com/en/) by Netflix
 
 [OFCA Broadband Performance Test](http://speedtest.ofca.gov.hk/) web version requires Flash
 
@@ -608,14 +621,27 @@ curl -T uploadfile -u user:passwd ftp://ftp.upload.com/myfile
 [PTP: Timing accuracy and precision for the future of computing](https://engineering.fb.com/2022/11/21/production-engineering/future-computing-ptp/)
 [How Precision Time Protocol is being deployed at Meta](https://engineering.fb.com/2022/11/21/production-engineering/precision-time-protocol-at-meta/)
 
-## Homeplug
+## Homeplug/Powerline
+
+> conversion rate on Homeplug is only about 30 to 35%
 
 [HomePlug - Wikiwand](https://www.wikiwand.com/en/HomePlug)
+[What Are Powerline Adapters? 9 Things You Need to Know](https://www.makeuseof.com/tag/8-things-powerline-adapters-need-know-first/)
+[Debunking the Myths: 5 Surprising Facts About Powerline Adapters](https://www.makeuseof.com/powerline-adapter-myths-busted/)
+[The Surprising Device That Can Transform Your Home Internet: Here's How It Works](https://www.makeuseof.com/how-powerline-adapters-speed-up-home-internet/)
+
+[Powerline Charts - SmallNetBuilder](https://www.smallnetbuilder.com/tools/charts/powerline/view/)
+
 [一學就會！活用 Homeplug 電力貓解決大單位 WI-FI 死角問題的實戰攻略 - by Upsangel](https://upsangel.com/router-2/weak-wifi-homeplug-powerline-solution/)
 [電力網路可以取代實體網路?｜實測 → 電力網路 V.S 實體網路｜電力線網路實用嗎？【弱電通】 - YouTube](https://www.youtube.com/watch?v=pV_vEpAJsVk)
 
+[HomePlug AV 500 Adapter Roundup - SmallNetBuilder](https://www.smallnetbuilder.com/lanwan/lanwan-reviews/homeplug-av-500-adapter-roundup/)
+
 [TL-WPA8630 KIT | AV1300 Gigabit Powerline ac Wi-Fi Kit | TP-Link Hong Kong](https://www.tp-link.com/hk/home-networking/powerline/tl-wpa8630-kit/)
 [TL-PA8010P KIT | AV1200 Gigabit 電力線網路橋接器雙包組(Kit) | TP-Link 香港地區](https://www.tp-link.com/zh-hk/home-networking/powerline/tl-pa8010p-kit/)
+
+[Netgear Powerline Extender - PL1000 | NETGEAR](https://www.netgear.com/home/wired/powerline/pl1000/)
+[Powerline 1200 Extender - PLP1200](https://www.netgear.com/home/wired/powerline/plp1200/)
 
 ## Scaling
 

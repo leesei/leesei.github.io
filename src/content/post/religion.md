@@ -2,7 +2,7 @@
 title: Religion
 description: ""
 created: 2015-04-13
-updated: 2025-07-03
+updated: 2025-07-08
 tags:
   - creationism
   - philosophy
@@ -18,6 +18,7 @@ tags:
 [【一口气看完】佛、道、犹太、基督、伊斯兰 ，婆罗门文化 ！ - YouTube](https://www.youtube.com/watch?v=VPwFhB7hEYk)
 [你知道你生活在一個 虛擬世界中嗎？人越老，對世界的理解越困惑，怎麽辦？ - YouTube](https://www.youtube.com/watch?v=RZ3xY62xWDo)
 [渺小的人類永遠也無法知道的答案！我們到底應如何面對這樣的未知？？ - YouTube](https://www.youtube.com/watch?v=Bd1Hnrx_f_s)
+[深度解析『出埃及记：法老与众神』, 克里斯蒂安深情演绎完美摩西 , 3000年前的蝙蝠侠; - YouTube](https://www.youtube.com/watch?v=-4Gnxsjyy6Y)
 
 [Lawrence Krauss vs Christians on Q&A - Amazing Debate - YouTube](https://www.youtube.com/watch?v=iaHxBFwod9Q)
 
@@ -125,8 +126,10 @@ tags:
 
 [All Christian denominations explained in 12 minutes - YouTube](https://www.youtube.com/watch?v=tzLS4O7YaUg)
 [The best thing about each Christian denomination - YouTube](https://www.youtube.com/watch?v=OPstui-nRrA)
+[History of Christianity - Wikiwand](https://www.wikiwand.com/en/History_of_Christianity)
 
-東正教 Orthodox Church
+[Eastern Orthodox Church - Wikiwand](https://www.wikiwand.com/en/articles/Eastern_Orthodox_Church)
+[東正教 - Wikiwand](https://www.wikiwand.com/zh/articles/%E6%9D%B1%E6%AD%A3%E6%95%99)
 no idols
 
 [Catholic Church - Wikiwand](https://www.wikiwand.com/en/Catholic_Church) venerates Virgin Mary, creates idols and paintings
@@ -150,8 +153,9 @@ no idols
 
 [What each book of the Bible is about - YouTube](https://www.youtube.com/watch?v=J7C9bEHakaU)
 [Explaining ALL 66 BOOKS of the Bible - YouTube](https://www.youtube.com/watch?v=n0vLnHcz68I)
+[Bible In a Nutshell - YouTube](https://www.youtube.com/@BibleNutshells)
 
-Pentateuch in Old Testament = Toran in Jewish Bible
+Pentateuch in Old Testament = Torah in Jewish Bible
 
 [Introduction to the Bible (from an academic point of view) - YouTube](https://www.youtube.com/watch?v=KqSkXmFun14)
 
@@ -172,7 +176,7 @@ Pentateuch in Old Testament = Toran in Jewish Bible
 [Protestantism - Wikiwand](https://www.wikiwand.com/en/Protestantism) forked from Catholic Church when it sold Indulgence, Martin Luther challenged the interpretation of building Christianity upon the Roman Pope
 Gutenberg's printing of German Bible in some way triggered the Reformation
 [基督新教 - Wikiwand](https://www.wikiwand.com/zh/%E6%96%B0%E6%95%99)
-[Reformation - Wikiwand](https://www.wikiwand.com/en/Reformation)
+[Protestant Reformation - Wikiwand](https://www.wikiwand.com/en/Protestant_Reformation)
 [宗教改革 - Wikiwand](https://www.wikiwand.com/zh/%E5%AE%97%E6%95%99%E6%94%B9%E9%9D%A9)
 [Martin Luther - Wikiwand](https://www.wikiwand.com/en/Martin_Luther)
 [馬丁·路德 - Wikiwand](https://www.wikiwand.com/zh/%E9%A6%AC%E4%B8%81%C2%B7%E8%B7%AF%E5%BE%B7)

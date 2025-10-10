@@ -2,7 +2,7 @@
 title: Microservice
 description: ""
 created: 2016-05-15
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - architecture
   - microservice
@@ -214,7 +214,7 @@ Microservices should only be considered in the next phases when the need to scal
 [Honestly, We Shouldn’t Have Used Microservices | by Mika Yeap | CodeX | Apr, 2021 | Medium](https://medium.com/codex/honestly-we-shouldnt-have-used-microservices-443582def48b)
 
 [This Week in Programming: Forget Microservices, Monoliths Are the Way Forward - The New Stack](https://thenewstack.io/this-week-in-programming-forget-microservices-monoliths-are-the-way-forward/)
-[Monoliths are the future |> News and podcasts for developers |> Changelog](https://changelog.com/posts/monoliths-are-the-future)
+[Monoliths are the future](https://changelog.com/posts/monoliths-are-the-future)
 
 [GOTO 2021 • The Problem with Microservices • Dave Farley - YouTube](https://www.youtube.com/watch?v=V3NQt5KP7EM)
 
@@ -252,7 +252,7 @@ Characteristics of a Microservice Architecture:
 ## InfoQ
 
 [Migrating to Microservices](https://www.infoq.com/presentations/migration-cloud-native)
-[Testing Web Services, Microservices and APIs](http://www.infoq.com/presentations/testing-web-services-soap-rest)
+[Testing Web Services, Microservices and APIs](https://www.infoq.com/presentations/testing-web-services-soap-rest)
 [Microservices Retrospective – What We Learned (and Didn’t Learn) from Netflix](https://www.infoq.com/presentations/microservices-netflix-industry/)
 
 ## DZone

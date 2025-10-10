@@ -2,7 +2,7 @@
 title: HTTP
 description: ""
 created: 2022-08-23
-updated: 2025-04-14
+updated: 2025-07-07
 tags:
   - http
   - web
@@ -61,7 +61,7 @@ TCP fast open, put TLS data in syn ack response, but most firewall don't support
 [Best Practice for HTTP2 Front-end deployments](http://blog.cloud66.com/best-practice-for-http2-front-end-deployments/)
 [QUIC Next generation multiplexed transport over UDP - YouTube](https://www.youtube.com/watch?v=cSNT88_gedw)
 
-[#161: HTTP/2 with Ilya Grigorik - The Changelog](https://changelog.com/161/) podcast
+[The HTTP/2 Spec with Ilya Grigorik (Changelog Interviews #161)](https://changelog.com/podcast/161) podcast
 [HTTP/2 is here, let's optimize! - Velocity SC 2015 - Google Slides](https://docs.google.com/presentation/d/1r7QXGYOLCh4fcUq0jDdDwKJWNqWK1o4xMtYpKZCJYjM/present?slide=id.p19)
 [Google's Ilya Grigorik on HTTP 2.0](http://www.slideshare.net/heavybit/heavybit-presents-ilya-grigorik-on)
 
@@ -113,7 +113,7 @@ Server Push is deprecated, use 103 Early Hints instead.
 [HTTP/3: Performance Improvements (Part 2) — Smashing Magazine](https://www.smashingmagazine.com/2021/08/http3-performance-improvements-part2/)
 [HTTP/3: Practical Deployment Options (Part 3) — Smashing Magazine](https://www.smashingmagazine.com/2021/09/http3-practical-deployment-options-part3/)
 
-[The Changelog #299: Curl turns 20, HTTP/2, and QUIC with Daniel Stenberg | News and podcasts for developers | Changelog](https://changelog.com/podcast/299)
+[Curl turns 20, HTTP/2, QUIC with Daniel Stenberg (Changelog Interviews #299)](https://changelog.com/podcast/299)
 
 [Why HTTP/3 is eating the world | APNIC Blog](https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/)
 [HTTP3 Is Eating The World | Prime Reacts - YouTube](https://www.youtube.com/watch?v=-jlYeQ3hOhY)

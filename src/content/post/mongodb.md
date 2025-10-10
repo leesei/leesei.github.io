@@ -2,7 +2,7 @@
 title: MongoDB
 description: ""
 created: 2014-12-17
-updated: 2025-05-22
+updated: 2025-07-07
 tags:
   - app
   - mongodb
@@ -320,7 +320,7 @@ if (!john) {
 [Model Data for Atomic Operations — MongoDB Manual](https://docs.mongodb.com/master/tutorial/model-data-for-atomic-operations/)
 
 [Modelling Entity Relations In MongoDB | Alexander Paterson](https://alexanderpaterson.com/posts/modelling-entity-relations-in-mongodb) populating reference with `$match` and `$unwind`
-[如何将关系型数据导入 MongoDB？](http://www.infoq.com/cn/articles/migrate-from-rmdb-mongodb)
+[如何将关系型数据导入 MongoDB？](https://www.infoq.cn/article/migrate-from-rmdb-mongodb)
 
 [Mongoose v5.12.13: Query Population](https://mongoosejs.com/docs/populate.html)
 [mongoose: Referencing schema in properties or arrays | Alexander Zeitler](https://alexanderzeitler.com/articles/mongoose-referencing-schema-in-properties-and-arrays/)

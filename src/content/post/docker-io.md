@@ -2,7 +2,7 @@
 title: Docker.io
 description: Tools provided by Docker.io
 created: 2014-12-11
-updated: 2025-03-25
+updated: 2025-07-07
 tags:
   - container
   - dev/deploy
@@ -355,7 +355,7 @@ Docker [acquired](https://blog.docker.com/2016/03/docker-welcomes-aurora-project
 
 [Docker Machine, Compose & Swarm Tutorials | Codeship | via @codeship](https://blog.codeship.com/docker-machine-compose-and-swarm-how-they-work-together/)
 [Running Services within a Docker Swarm - via @codeship | via @codeship](https://blog.codeship.com/running-services-within-docker-swarm/) ❗!important
-[linux - how to create docker overlay network between multi hosts? - Stack Overflow](http://stackoverflow.com/questions/34365604/how-to-create-docker-overlay-network-between-multi-hosts/34434948#34434948)
+[linux - how to create docker overlay network between multi hosts? - Stack Overflow](https://stackoverflow.com/questions/34365604/how-to-create-docker-overlay-network-between-multi-hosts/34434948#34434948)
 [Levvel Blog - Running a Distributed Docker Swarm on AWS](http://www.levvel.io/blog-post/running-distributed-docker-swarm-on-aws/)
 [NGINX as a Reverse Proxy for Docker Swarm Clusters | via @codeship](https://blog.codeship.com/nginx-reverse-proxy-docker-swarm-clusters/)
 [Review: Docker Swarm soars, and the sky's the limit | InfoWorld](http://www.infoworld.com/article/2913636/linux/first-look-docker-clustering-with-docker-swarm.html)
@@ -406,7 +406,7 @@ Do note that `generic` driver will change the hostname and [(re)install docker](
 [docker-machine create | Docker Documentation](https://docs.docker.com/machine/reference/create/)
 [Machine drivers | Docker Documentation](https://docs.docker.com/machine/drivers/)
 
-Use `--engine-install-url` with [Rancher's install script](http://rancher.com/docs/rancher/latest/en/hosts/#supported-docker-versions) to install a particular version of Docker on the nodes.
+Use `--engine-install-url` with [Rancher's install script](https://rancher.com/docs/rancher/latest/en/hosts/#supported-docker-versions) to install a particular version of Docker on the nodes.
 
 ```sh
 --engine-install-url=https://get.docker.com/

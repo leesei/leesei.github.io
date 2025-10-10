@@ -2,7 +2,7 @@
 title: Biology
 description: Scientific study of life
 created: 2016-09-24
-updated: 2025-06-06
+updated: 2025-09-25
 tags:
   - biology
   - learning
@@ -49,6 +49,8 @@ vestigial: atrophied, become functionless in the course of evolution
 [古菌 - Wikiwand](https://www.wikiwand.com/zh/%E5%8F%A4%E8%8F%8C)
 [Eukaryote](https://www.wikiwand.com/en/Eukaryote): structures within the cell (endosymbiosis, ~2Ga), with nucleus and cell wall/membrane
 [真核生物 - Wikiwand](https://www.wikiwand.com/zh/%E7%9C%9F%E6%A0%B8%E7%94%9F%E7%89%A9)
+
+[【鬼谷闲谈】甲藻：什么都往DNA里刻会发生什么？ - YouTube](https://www.youtube.com/watch?v=2MRmadabMKQ)
 
 [Evolution of Eukaryotes- How & Why Endosymbiosis Occurred & When First Eukaryotes Evolved | GEO GIRL - YouTube](https://www.youtube.com/watch?v=yIIQFy_Zsp8)
 
@@ -97,16 +99,9 @@ Evolution: Differential survival and reproduction
 Epigenetics: acquired gene, genic expression
 To categorize organisms based upon similarities and differences in their physical or genetic characteristics
 
-Coevolution 協同進化: two or more species reciprocally affect each other's evolution
-[Coevolution - Wikiwand](https://www.wikiwand.com/en/Coevolution)
-[共同演化 - Wikiwand](https://www.wikiwand.com/zh/%E5%85%B1%E5%90%8C%E6%BC%94%E5%8C%96)
-
-Convergent evolution 趨同進化: two unrelated animals evolved similar traits
-[Convergent evolution - Wikiwand](https://www.wikiwand.com/en/Convergent_evolution)
-[趨同演化 - Wikiwand](https://www.wikiwand.com/zh/%E8%B6%8B%E5%90%8C%E6%BC%94%E5%8C%96)
-
 [Ecological niche - Wikiwand](https://www.wikiwand.com/en/Ecological_niche)
 [生態位 - Wikiwand](https://www.wikiwand.com/zh/%E7%94%9F%E6%80%81%E4%BD%8D)
+Aye-aye in Madagascar and woodpeckers
 
 [Island gigantism - Wikiwand](https://www.wikiwand.com/en/Island_gigantism)
 [島嶼巨型化 - Wikiwand](https://www.wikiwand.com/zh/%E5%B3%B6%E5%B6%BC%E5%B7%A8%E5%9E%8B%E5%8C%96)
@@ -116,6 +111,28 @@ Convergent evolution 趨同進化: two unrelated animals evolved similar traits
 [What is Impossible in Evolution? - YouTube](https://www.youtube.com/watch?v=YkS1U5lfSRw)
 
 [The Mystery of Earth's Disappearing Giants | IN OUR NATURE - YouTube](https://www.youtube.com/watch?v=95HP73Yemxo)
+[哺乳动物为啥变成了“哺乳”动物？ - YouTube](https://www.youtube.com/watch?v=mpfMbrq1-Ms)
+
+### Coevolution
+
+Coevolution 協同進化: two or more species reciprocally affect each other's evolution
+[Coevolution - Wikiwand](https://www.wikiwand.com/en/Coevolution)
+[共同演化 - Wikiwand](https://www.wikiwand.com/zh/%E5%85%B1%E5%90%8C%E6%BC%94%E5%8C%96)
+
+### Convergent Evolution
+
+Convergent evolution 趨同進化: two unrelated animals evolved similar traits
+[Convergent evolution - Wikiwand](https://www.wikiwand.com/en/Convergent_evolution)
+[趨同演化 - Wikiwand](https://www.wikiwand.com/zh/%E8%B6%8B%E5%90%8C%E6%BC%94%E5%8C%96)
+
+[Convergent Evolution: Would Aliens Really Look Like Us? - YouTube](https://www.youtube.com/watch?v=JSq2Kj9LM_g)
+
+[Convergent evolution - YouTube](https://www.youtube.com/playlist?list=PL7tWEs4arDuyUVR7KwVbstukvl6z_8Aml)
+[The convergent evolution of caffeine | Convergent evolution explained - YouTube](https://www.youtube.com/watch?v=4X5rRJaMTuw)
+![Synthesis of Caffeine in Plants](./_assets/biology/caffeine_synthesis.png)
+
+[為什麼說進化的終點是螃蟹？原來，至少有 5 類史前蟲子進化成了螃蟹……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=Fu0gTUT_MHk)
+[Why Do Things Keep Evolving Into Crabs? - YouTube](https://www.youtube.com/watch?v=wvfR3XLXPvw)
 
 ## Phylogeny
 

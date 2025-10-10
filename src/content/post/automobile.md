@@ -2,7 +2,7 @@
 title: Automobile
 description: ""
 created: 2020-05-27
-updated: 2025-05-28
+updated: 2025-10-07
 tags:
   - transportation
 ---
@@ -97,18 +97,19 @@ Powersliding after the apex
 
 ## YouTube Channels
 
-[Big Car - YouTube](https://www.youtube.com/@BigCar2)
-[Doug DeMuro - YouTube](https://www.youtube.com/@DougDeMuro) exotic cars review
-[Jay Leno's Garage - YouTube](https://www.youtube.com/@jaylenosgarag)
-[Donut Media - YouTube](https://www.youtube.com/@Donut)
-[JohnnyQ90 - YouTube](https://www.youtube.com/@johnnyq90) RC Cars
-[Aging Wheels - YouTube](https://www.youtube.com/@agingwheels) old cars, funny projects
-[小施汽車生活頻道 - YouTube](https://www.youtube.com/@sscarlife) 2nd hand cars dealer
-[L 佬 LLOTALK - YouTube](https://www.youtube.com/@Llotalk)
-[ISSIMI Official - YouTube](https://www.youtube.com/@ISSIMIOfficial) cars reviews
-[REV Channel - YouTube](https://www.youtube.com/@REVChannelhk)
 [11磅小老虎 - YouTube](https://www.youtube.com/@11bang)
+[Aging Wheels - YouTube](https://www.youtube.com/@agingwheels) old cars, funny projects
+[Big Car - YouTube](https://www.youtube.com/@BigCar2)
+[Donut Media - YouTube](https://www.youtube.com/@Donut)
+[Doug DeMuro - YouTube](https://www.youtube.com/@DougDeMuro) exotic cars review
+[ISSIMI Official - YouTube](https://www.youtube.com/@ISSIMIOfficial) cars reviews
+[Jay Leno's Garage - YouTube](https://www.youtube.com/@jaylenosgarag)
+[JohnnyQ90 - YouTube](https://www.youtube.com/@johnnyq90) RC Cars
+[L 佬 LLOTALK - YouTube](https://www.youtube.com/@Llotalk)
+[REV Channel - YouTube](https://www.youtube.com/@REVChannelhk)
 [TalksWithNoise - YouTube](https://www.youtube.com/@TalksWithNoise)
+[Zip Tie Tuning - YouTube](https://www.youtube.com/@ZipTieTuning)
+[小施汽車生活頻道 - YouTube](https://www.youtube.com/@sscarlife) 2nd hand cars dealer
 
 [Automobile Engineering - YouTube](https://www.youtube.com/playlist?list=PLuUdFsbOK_8rJsh_osoqVKfIRUkb8-rOg)
 [Automotive Engineering - YouTube](https://www.youtube.com/playlist?list=PLpw4kOpfNU9bTCpLAf2mM-SpjpcKpnnPu)

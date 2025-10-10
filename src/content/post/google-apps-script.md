@@ -2,7 +2,7 @@
 title: Google Apps Script
 description: ""
 created: 2021-02-27
-updated: 2025-01-09
+updated: 2025-07-23
 tags:
   - gas
   - google
@@ -143,6 +143,8 @@ clasp deploy 1 "First deployment"
 ### Form -> Sheet
 
 [Google Sheets API - HTML Form Data to Google Sheet - YouTube](https://www.youtube.com/watch?v=BxqfwfQi0jk)
+
+[Apps Script for Google Sheets Is the Productivity Hack You’re Missing](https://www. .com/google-sheets-apps-script-hack/)
 
 [Creating an Editable Webpage With Google Spreadsheets and Tabletop.js | CSS-Tricks](https://css-tricks.com/creating-an-editable-webpage-with-google-spreadsheets-and-tabletop-js/) use Papa Parse instead
 [jsoma/tabletop: Tabletop.js gives spreadsheets legs](https://github.com/jsoma/tabletop)

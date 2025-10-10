@@ -2,12 +2,12 @@
 title: China Town
 description: ""
 created: 2016-02-21
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - history
 ---
 
-[Pagodas and Dragon Gates - 99% Invisible](http://99percentinvisible.org/episode/pagodas-dragon-gates/)
+[Pagodas and Dragon Gates - 99% Invisible](https://99percentinvisible.org/episode/pagodas-dragon-gates/)
 
 Chinese were restricted to live in the Chinatown of San Francisco. Chinese Exclusion Act was not repealed until the 1940s.
 

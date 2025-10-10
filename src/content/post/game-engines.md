@@ -2,7 +2,7 @@
 title: Game Engines
 description: ""
 created: 2015-01-02
-updated: 2025-05-23
+updated: 2025-08-10
 tags:
   - game-dev
   - game-engine
@@ -11,7 +11,7 @@ tags:
 
 [[3d-graphics]]
 
-[Game engine - Wikiwand](http://www.wikiwand.com/en/Game_engine)
+[Game engine - Wikiwand](https://www.wikiwand.com/en/Game_engine)
 [How Game Engines Work! - YouTube](https://www.youtube.com/watch?v=DKrdLKetBZE)
 [你瞭解「遊戲引擎」麼？【就知道玩遊戲 43】 - YouTube](https://www.youtube.com/watch?v=M0Q7iNKI5uc)
 [你瞭解遊戲引擎麼(二)：引擎進化的腳步【就知道玩遊戲 51】 - YouTube](https://www.youtube.com/watch?v=lyqdhw-ws6w)
@@ -24,9 +24,9 @@ tags:
 
 [quill18creates - YouTube](https://www.youtube.com/user/quill18creates)
 
-[List of game engines - Wikiwand](http://www.wikiwand.com/en/List_of_game_engines)
-[First-person shooter engine - Wikiwand](http://www.wikiwand.com/en/First-person_shooter_engine)
-[List of first-person shooter engines - Wikiwand](http://www.wikiwand.com/en/List_of_first-person_shooter_engines)
+[List of game engines - Wikiwand](https://www.wikiwand.com/en/List_of_game_engines)
+[First-person shooter engine - Wikiwand](https://www.wikiwand.com/en/First-person_shooter_engine)
+[List of first-person shooter engines - Wikiwand](https://www.wikiwand.com/en/List_of_first-person_shooter_engines)
 
 [Underrated Game Engines Round-up – GameFromScratch.com](https://gamefromscratch.com/underrated-game-engines-round-up/)
 [Unity Alternatives in 2023 – GameFromScratch.com](https://gamefromscratch.com/unity-alternatives-in-2023/)
@@ -561,11 +561,62 @@ Unity is better for 2D games; Unreal is better for FPS and multiplayer
 Unreal's engine and features are more polished and coherent
 Unreal is in C++ and the UI is less intuitive
 
+[7 Graphics Engines That Look Absolutely INSANE - YouTube](https://www.youtube.com/watch?v=oBHdWvn0AGQ)
+
 ## GPUOpen
 
 [GPUOpen - GPUOpen](https://gpuopen.com/)
 
-an AMD initiative designed to enable developers to create ground-breaking PC games, computer generated imagery and GPU computing applications for great performance and lifelike experiences using no cost and open development tools and software.
+An AMD initiative designed to enable developers to create ground-breaking PC games, computer generated imagery and GPU computing applications for great performance and lifelike experiences using no cost and open development tools and software.
+
+## RE Engine
+
+Company: Capcom
+Titles:
+
+- Resident Evil
+- Street Fighter 6
+- Apollo Justice: Ace Attorney Trilogy
+- Dragon's Dogma 2
+- Monster Hunter Wilds
+
+[RE Engine - Wikiwand](https://www.wikiwand.com/en/articles/RE_Engine)
+
+## Rockstar Advanced Game Engine (RAGE) Engine
+
+Company: Rockstar
+Titles:
+
+- GTA
+- Red Dead Redemption
+
+License: Proprietary
+
+[Rockstar Advanced Game Engine - Wikiwand](https://www.wikiwand.com/en/articles/Rockstar_Advanced_Game_Engine)
+
+## Decima Engine
+
+Company: Guerrilla Games
+Titles:
+
+- Until Dawn
+- Horizon Zero Dawn
+- Death Stranding
+
+License: Proprietary
+
+[Decima (game engine) - Wikiwand](<https://www.wikiwand.com/en/articles/Decima_(game_engine)>)
+
+## IW Engine
+
+Company: Infinity Ward
+Titles:
+
+- Call of Duty
+
+License: Proprietary
+
+[IW (game engine) - Wikiwand](<https://www.wikiwand.com/en/articles/IW_(game_engine)>)
 
 ## CryEngine
 
@@ -574,10 +625,13 @@ Titles:
 
 - FarCry
 - Crysis
+- Sniper: Ghost Warrior
+- Ryse: Son of Rome
+- Kingdom Come: Deliverance
 
 License: ~~Free for development / Pay What You Want~~ 5% royalty after 5.0 (2018)
 
-[CryEngine - Wikiwand](http://www.wikiwand.com/en/CryEngine)
+[CryEngine - Wikiwand](https://www.wikiwand.com/en/CryEngine)
 [CryENGINE | Crytek](http://www.crytek.com/cryengine)
 [CRYENGINE | The complete solution for next generation game development by Crytek](https://www.cryengine.com/)
 [CRYTEK-CRYENGINE/CRYENGINE: CRYENGINE source code.](https://github.com/CRYTEK-CRYENGINE/CRYENGINE)
@@ -593,14 +647,14 @@ Titles:
 
 License: Proprietary
 
-[id Tech 5 - Wikiwand](http://www.wikiwand.com/en/Id_Tech_5)
+[id Tech 5 - Wikiwand](https://www.wikiwand.com/en/Id_Tech_5)
 
-[id Tech 4 - Wikiwand](http://www.wikiwand.com/en/Id_Tech_4)
+[id Tech 4 - Wikiwand](https://www.wikiwand.com/en/Id_Tech_4)
 [Doom3 Source Code Review: Introduction](http://fabiensanglard.net/doom3/)
 [Doom3 BFG Source Code Review: Introduction](http://fabiensanglard.net/doom3_bfg/index.php)
 [Doom3 BFG Documentation](http://fabiensanglard.net/doom3_documentation/index.php)
 
-[id Tech 3 - Wikiwand](http://www.wikiwand.com/en/Id_Tech_3)
+[id Tech 3 - Wikiwand](https://www.wikiwand.com/en/Id_Tech_3)
 [Quake 3 Source Code Review: Architecture](http://fabiensanglard.net/quake3/index.php)
 
 ## Frostbite
@@ -629,12 +683,15 @@ DICE has pushed the Frostbite engine to all games in EA since its bought out in 
 Company: Value
 Titles:
 
+- Counter Strike
 - Half Life
 - Portal
+- Left 4 Dead
+- Dota
 
-License:
+License: Proprietary
 
-[Source (game engine) - Wikiwand](<http://www.wikiwand.com/en/Source_(game_engine)>)
+[Source (game engine) - Wikiwand](<https://www.wikiwand.com/en/Source_(game_engine)>)
 
 ## Unity
 
@@ -642,7 +699,7 @@ better 2.5D on mobile and web, larger community/store
 
 License: free for first \$100 thousand in game revenue
 
-[Unity (game engine) - Wikiwand](<http://www.wikiwand.com/en/Unity_(game_engine)>)
+[Unity (game engine) - Wikiwand](<https://www.wikiwand.com/en/Unity_(game_engine)>)
 [Unity - Game engine, tools and multiplatform](http://unity3d.com/unity)
 [UNITY does WHAT NOW?? The State of Unity - YouTube](https://www.youtube.com/watch?v=iOjisA9KnHA) 2022-12
 
@@ -706,6 +763,8 @@ Titles:
 - Batman Arkham series
 - PUBG
 - Fortnight
+- Final Fantasy VII Remake
+- Elder Scrolls IV Remake
 
 License: free for first \$1 million in game revenue
 
@@ -715,8 +774,9 @@ Cross platform (PC and consoles)
 [The most powerful real-time 3D creation platform - Unreal Engine](https://www.unrealengine.com/en-US/)
 [Epic Online Services featuring Epic Account and Game Services - Unreal Engine](https://www.unrealengine.com/en-US/blog/epic-online-services-featuring-epic-account-and-game-services)
 
-[Unreal Engine - Wikiwand](http://www.wikiwand.com/en/Unreal_Engine)
+[Unreal Engine - Wikiwand](https://www.wikiwand.com/en/Unreal_Engine)
 [Evolution of Unreal Engine 1995-2022 - YouTube](https://www.youtube.com/watch?v=TaLiMiyi2g4)
+[称霸3A游戏市场：一口气了解UE虚幻引擎发展史 - YouTube](https://www.youtube.com/watch?v=XRVHCn7aO3I)
 
 [Online Learning - Unreal Engine](https://www.unrealengine.com/en-US/onlinelearning-courses)
 [80 Level Ratings: Best YouTube Channels With Unreal Engine Tutorials](https://80.lv/articles/80-level-ratings-best-youtube-channels-with-unreal-engine-tutorials/)
@@ -760,13 +820,15 @@ Unreal Sensei
 
 ## REDengine
 
-[REDengine - Wikiwand](https://www.wikiwand.com/zh/REDengine)
-
 Company: CDPR
 Titles:
 
 - Witcher 3
 - Cyberpunk 2077
+
+License: Proprietary
+
+[REDengine - Wikiwand](https://www.wikiwand.com/zh/REDengine)
 
 ## Creation Engine
 

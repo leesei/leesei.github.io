@@ -2,7 +2,7 @@
 title: Cloud Providers
 description: ""
 created: 2015-06-17
-updated: 2025-03-24
+updated: 2025-09-26
 tags:
   - dev/deploy
   - web
@@ -273,8 +273,7 @@ deploy container, Node.js app, database
 [Announcing D1: our first SQL database](https://blog.cloudflare.com/introducing-d1/) SQLite
 [Cloudflare Turnstile, a free CAPTCHA replacement | Cloudflare](https://www.cloudflare.com/products/turnstile/)
 
-[Tunnel | Zero Trust App Connector | Cloudflare](https://www.cloudflare.com/products/tunnel/)
-[没有公网IP? 免费域名搭建cloudflare内网穿透，不限流量，不用绑卡支付 - YouTube](https://www.youtube.com/watch?v=OJBHG9oJTDk)
+[5 Things to Know BEFORE Using Cloudflare! - YouTube](https://www.youtube.com/watch?v=IXpvUD5SDzA&t=352s)
 
 ## Azure
 

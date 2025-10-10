@@ -2,7 +2,7 @@
 title: ffmpeg
 description: A complete, cross-platform solution to record, convert and stream audio and video.
 created: 2015-01-13
-updated: 2025-04-28
+updated: 2025-07-07
 tags:
   - app
   - avconv
@@ -59,7 +59,7 @@ Where the options are as follows:
 
 ## screen capture
 
-[Capture/Desktop – FFmpeg](http://trac.ffmpeg.org/wiki/Capture/Desktop)
+[Capture/Desktop – FFmpeg](https://trac.ffmpeg.org/wiki/Capture/Desktop)
 [FFmpeg Devices Documentation](https://ffmpeg.org/ffmpeg-devices.html)
 
 ```sh
@@ -157,17 +157,17 @@ ffmpeg -i input.mp4 -vf scale=320:-1,fps=1 -to 60 -f image2pipe -vcodec ppm - | 
 ```
 
 Using per frame palettes:
-[High quality GIF with FFmpeg](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html)
+[High quality GIF with FFmpeg](https://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html)
 [lukechilds/gifgen: Simple high quality GIF encoding](https://github.com/lukechilds/gifgen)
 [How do I convert a video to GIF using ffmpeg, with reasonable quality? - Super User](https://superuser.com/questions/556029/how-do-i-convert-a-video-to-gif-using-ffmpeg-with-reasonable-quality)
 
 ## Reference
 
-[Documentation](http://ffmpeg.org/documentation.html)
-[`ffmpeg` Documentation](http://ffmpeg.org/ffmpeg.html)
+[Documentation](https://ffmpeg.org/documentation.html)
+[`ffmpeg` Documentation](https://ffmpeg.org/ffmpeg.html)
 
 [FFmpeg - ArchWiki](https://wiki.archlinux.org/title/FFmpeg)
-[FFmpeg wiki](http://trac.ffmpeg.org/wiki)
+[FFmpeg wiki](https://trac.ffmpeg.org/wiki)
 [Seeking – FFmpeg](https://trac.ffmpeg.org/wiki/Seeking)
 
 [ffmpeg audio/video manipulation](http://howto-pages.org/ffmpeg/)
@@ -190,6 +190,6 @@ Libav is a fork of FFmpeg in 2011 with more transparent governance.
 But the maintainers failed to maintain their original intention and rejected to merge changes from FFmpeg.
 They managed to keep their popularity as Debian/Ubuntu used it as default and claiming FFMpeg that is obsolete. That changed in 2015 and momentum to Libav is lost.
 
-[The FFmpeg/Libav situation](https://web.archive.org/web/20230122183833/http://blog.pkh.me/p/13-the-ffmpeg-libav-situation.html)
+[The FFmpeg/Libav situation](https://web.archive.org/web/20230122183833/https://blog.pkh.me/p/13-the-ffmpeg-libav-situation.html)
 
 [ubuntu - What are the differences and similarities between ffmpeg, libav, and avconv? - Stack Overflow](https://stackoverflow.com/questions/9477115/what-are-the-differences-and-similarities-between-ffmpeg-libav-and-avconv/9477756#9477756)

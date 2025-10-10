@@ -2,7 +2,7 @@
 title: Open Source Copyright
 description: ""
 created: 2023-06-28
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - copyleft
   - foss
@@ -138,7 +138,7 @@ Express grant of patent use
 
 [BadgeApp](https://bestpractices.coreinfrastructure.org/)
 [linuxfoundation/cii-best-practices-badge: Core Infrastructure Initiative Best Practices Badge](https://github.com/linuxfoundation/cii-best-practices-badge)
-[#215: Core Infrastructure Initiative Best Practices Badge with David A. Wheeler - Changelog](https://changelog.com/215/)
+[Best Practices Badge from Core Infrastructure Initiative with David A. Wheeler (Changelog Interviews #215)](https://changelog.com/podcast/215/)
 [FLOSS Weekly 389 Best Practices Badge | TWiT](https://twit.tv/shows/floss-weekly/episodes/389)
 
 [Open Hub, the open source network](https://www.openhub.net/)
@@ -173,7 +173,7 @@ It has been a trend to set up "foundations" to take up successful project from e
 [// TODO: Talk openly, develop openly](http://todogroup.org/)
 [Blog | OSS Capital](https://oss.capital/blog)
 
-[The Changelog #211: Open Source at Facebook with James Pearce | Changelog](https://changelog.com/podcast/211)
+[Open Source at Facebook with James Pearce, head of open source at Facebook (Changelog Interviews #211)](https://changelog.com/podcast/211)
 [Our Projects | Open Source at Facebook | Facebook Code](https://code.facebook.com/projects/)
 [Facebook on GitHub](https://github.com/facebook)
 [React License – Additional Grant of Patent Rights | Hacker News](https://news.ycombinator.com/item?id=8985541)
@@ -184,7 +184,7 @@ It has been a trend to set up "foundations" to take up successful project from e
 [It’s Time for the Open Source Community to Get Real | Blog | InfluxData](https://www.influxdata.com/blog/its-time-for-the-open-source-community-to-get-real/)
 [Open Source Business Models Considered Harmful – John Mark – Medium](https://medium.com/@johnmark/open-source-business-models-considered-harmful-2e697256b1e3)
 
-[The Changelog #245: Open Source at Google with Will Norris | Changelog](https://changelog.com/podcast/245)
+[Open Source at Google with Will Norris (Changelog Interviews #245)](https://changelog.com/podcast/245)
 [Google Open Source – opensource.google.com](https://opensource.google.com/)
 [Google on GitHub](https://github.com/google)
 
@@ -224,7 +224,7 @@ It has been a trend to set up "foundations" to take up successful project from e
 [MongoDB CEO tells hard truths about commercial open source - TechRepublic](https://www.techrepublic.com/google-amp/article/mongodb-ceo-tells-hard-truths-about-commercial-open-source/)
 [Righteous, Expedient, Wrong — /dev/lawyer](https://writing.kemitchell.com/2021/01/20/Righteous-Expedient-Wrong.html)
 
-[Community perspectives on Elastic vs AWS (The Changelog #429) |> Changelog](https://changelog.com/podcast/429)
+[Community perspectives on Elastic vs AWS (Changelog Interviews #429)](https://changelog.com/podcast/429)
 
 [Everything You Need to Know About the OSS Licensing War, Part 1. | Grafana Labs Blog](https://grafana.com/blog/2019/03/20/everything-you-need-to-know-about-the-oss-licensing-war-part-1./)
 [Everything You Need to Know About the OSS Licensing War, Part 2. | Grafana Labs Blog](https://grafana.com/blog/2019/03/28/everything-you-need-to-know-about-the-oss-licensing-war-part-2./)

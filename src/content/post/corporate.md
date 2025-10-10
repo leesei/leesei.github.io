@@ -2,7 +2,7 @@
 title: Corporate
 description: ""
 created: 2015-04-15
-updated: 2025-05-18
+updated: 2025-08-10
 tags:
   - business
   - corporate
@@ -37,9 +37,6 @@ BATH Baidu, Alibaba, Tencent, Huawei
 
 ## Funding
 
-[How Company X Make Money? - Adrian Mejia’s Blog](http://adrianmejia.com/blog/2014/03/09/how-company-x-make-money/)
-[How do our favorite tech companies make money?](https://www.seerinteractive.com/labs/how-do-they-make-money/)
-
 [Crunchbase: Discover innovative companies and the people behind them](https://www.crunchbase.com/)
 [為什麼 AI 之花綻放在硅谷？「創業大學」Y Combinator 的故事｜ ChatGPT 深度探尋 - YouTube](https://www.youtube.com/watch?v=QDvvNHxvk2s)
 
@@ -69,6 +66,7 @@ When a service is free, you are the product/asset.
 
 [The Enshittification of TikTok–And Everything – The Cultural Gutter](https://culturalgutter.com/2023/01/25/the-enshitification-of-tiktok-and-everything/)
 [The Internet is starting to Break - Here's Why. - YouTube](https://www.youtube.com/watch?v=wVYG1mu8Lg8)
+[Amazon's Inevitable Enshitification... - YouTube](https://www.youtube.com/watch?v=ewbWx_DQxAk)
 
 ### Crowdfunding
 
@@ -80,7 +78,7 @@ When a service is free, you are the product/asset.
 
 ## Startup Story
 
-[Out of the picture: why the world's best photo startup is going out of business | The Verge](http://www.theverge.com/2013/11/5/5039216/everpix-life-and-death-inside-the-worlds-best-photo-startup)
+[Out of the picture: why the world’s best photo startup is going out of business | The Verge](https://www.theverge.com/2013/11/5/5039216/everpix-life-and-death-inside-the-worlds-best-photo-startup)
 
 [How We Built a $150 Million Streaming Platform with $100,000 - YouTube](https://www.youtube.com/watch?v=Alqt6RCEWdM) Nebula (+ Curiosity Stream)
 [How Nebula Works - YouTube](https://www.youtube.com/watch?v=0K1pITq4mSk)

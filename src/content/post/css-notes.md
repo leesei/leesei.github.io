@@ -2,7 +2,7 @@
 title: CSS Notes
 description: ""
 created: 2015-12-21
-updated: 2025-01-09
+updated: 2025-08-17
 tags:
   - css
   - web
@@ -149,6 +149,10 @@ Also explains the the “magic” of Styling and Layout on the web
 [You might not need a CSS framework ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2016/04/you-might-not-need-a-css-framework/)
 [Why We Don't Use a CSS Framework - Scott Tolinski, Reactive Conf](https://www.infoq.com/news/2020/06/css-variables-design-systems/)
 
+[Headless, boneless, skinless & lifeless UI · October 16, 2024](https://nerdy.dev/headless-boneless-and-skinless-ui) ❗!important
+[Understanding Headless, Boneless, and Skinless UI in Modern Development | Video Summary by LunaNotes](https://lunanotes.io/summary/understanding-headless-boneless-and-skinless-ui-in-modern-development)
+[Boneless UI - YouTube](https://www.youtube.com/watch?v=ap1poqjUDNs)
+[Watch this if you use shadcn/ui - YouTube](https://www.youtube.com/watch?v=vHFZFXtjKNE)
 [CSS in 2023 - Tailwind vs MUI vs Bootstrap vs Chakra vs... - YouTube](https://www.youtube.com/watch?v=CQuTF-bkOgc)
 
 [The CSS Holy War & How To Think Beyond Dogma – gitconnected | Become a Better Developer](https://levelup.gitconnected.com/the-css-holy-war-how-to-think-beyond-dogma-e2c67692d409)
@@ -405,7 +409,7 @@ CSS Modules creates BEM class names for you to use. Better use with [`classnames
 [All You Need To Know About CSS-in-JS – Hacker Noon](https://hackernoon.com/all-you-need-to-know-about-css-in-js-984a72d48ebc)
 [State of React and CSS — KADIRA VOICE](https://voice.kadira.io/state-of-react-and-css-501d179443d3#.askwfd29x)
 [CSS in JS in CSS](http://blog.namangoel.com/css-in-js-in-css)
-[JavaScript Style Sheets by Oleg Slobodskoi](http://slides.com/kof/javascript-style-sheets#/)
+[JavaScript Style Sheets by Oleg Slobodskoi](https://slides.com/kof/javascript-style-sheets#/)
 [5 things you can do in CSS-in-JS that you didn’t know about](https://blog.logrocket.com/5-things-you-can-do-in-css-in-js-that-you-didnt-know-about-c422fb67ceb6)
 [CSS in JS is like replacing a broken screwdriver with your favorite hammer.](https://zendev.com/2017/09/11/css-in-js.html)
 
@@ -767,7 +771,7 @@ The overlay should be a `absolute` position in a `relative` container, together 
 
 ## Layout
 
-[Laying Out the Future with Rachel Andrew | The Web Ahead](http://thewebahead.net/114)
+[Laying Out the Future with Rachel Andrew | The Web Ahead](https://thewebahead.net/114)
 [The Web Ahead Labs](http://labs.thewebahead.net/thelayoutsahead/)
 [CSS Layout News](http://csslayout.news/)
 [Layout Land - YouTube](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
@@ -1102,7 +1106,7 @@ Responsive layout without media query:
 
 ## Shape
 
-[Changing the Shapes with Sara Soueidan | The Web Ahead](http://thewebahead.net/81) flow text in arbitrary shape, not only rectangle
+[Changing the Shapes with Sara Soueidan | The Web Ahead](https://thewebahead.net/81) flow text in arbitrary shape, not only rectangle
 
 ## Alignment
 

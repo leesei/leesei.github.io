@@ -2,7 +2,7 @@
 title: Web Browser
 description: ""
 created: 2017-06-16
-updated: 2025-06-24
+updated: 2025-09-11
 tags:
   - javascript/runtime
   - web
@@ -323,8 +323,13 @@ Chromium, `h264ify`, and `rpi-chromium-mods` are preinstalled since [2016-09](ht
 ### Watchlist
 
 [The Best Browser Extensions That’ll Save You Money (and Which to Skip)](https://twocents.lifehacker.com/the-best-browser-extensions-that-ll-save-you-money-and-1702736679)
+[These 6 browser extensions changed how I use the web](https://www.makeuseof.com/must-have-browser-extensions/)
 [How to Use Pushbullet to Bridge the Gap Between All Your Devices](https://lifehacker.com/how-to-use-pushbullet-to-bridge-the-gap-between-all-you-1548595270)
-[Just Read](https://chromewebstore.google.com/detail/just-read/dgmanlpmmkibanfdgjocnabmcaclkmod?hl=en)
+
+[Just Read](https://chromewebstore.google.com/detail/just-read/dgmanlpmmkibanfdgjocnabmcaclkmod?hl=en) like Reader View
+[Tabox - Save and Share Tab Groups - Chrome Web Store](https://chromewebstore.google.com/detail/tabox-save-and-share-tab/bdbliblipiempfdkkkjohnecmeknnpoa) tab management and Google Drive sync, like FreshStart
+[Fleeting Notes - Chrome Web Store](https://chromewebstore.google.com/detail/fleeting-notes/gcplhmogdjioeaenmehmapbdonklmdnc) web annotation
+[Smallpdf—Edit, Convert, Compress, & AI Summarize PDF - Chrome Web Store](https://chromewebstore.google.com/detail/smallpdf%E2%80%94edit-convert-com/ohfgljdgelakfkefopgklcohadegdpjf)
 
 ### DevTools
 

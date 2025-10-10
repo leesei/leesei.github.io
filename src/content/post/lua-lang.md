@@ -2,7 +2,7 @@
 title: Lua
 description: Embeddable scripting language
 created: 2016-03-22
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - comp/lang
   - lua
@@ -224,7 +224,7 @@ A `.rockspec` may build multiple rocks.
 ### Concurrency
 
 [Re: Question about multi-threading in Lua](http://lua-users.org/lists/lua-l/2008-05/msg00490.html)
-[What multithreading package for Lua "just works" as shipped? - Stack Overflow](http://stackoverflow.com/questions/5689548/what-multithreading-package-for-lua-just-works-as-shipped)
+[What multithreading package for Lua "just works" as shipped? - Stack Overflow](https://stackoverflow.com/questions/5689548/what-multithreading-package-for-lua-just-works-as-shipped)
 [Lua Coroutine Roundup | William A Adams](https://williamaadams.wordpress.com/2014/01/03/lua-coroutine-roundup/)
 
 ### CLI

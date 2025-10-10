@@ -2,7 +2,7 @@
 title: Computer Hardware
 description: ""
 created: 2016-09-27
-updated: 2025-06-24
+updated: 2025-09-08
 tags:
   - comp/hardware
 ---
@@ -48,6 +48,7 @@ number of slots for GPU = `ceiling(GPU width / 20.3)`
 [What is an Analog Computer? - Definition from Techopedia](https://www.techopedia.com/definition/5955/analog-computer)
 [What is Analog Computer: Definition, Examples, Types, Characteristics, Advantages](https://digitalthinkerhelp.com/what-is-analog-computer-definition-and-its-examples/)
 [Difference between Analog Computer and Digital Computer - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-analog-computer-and-digital-computer/)
+[「電腦」由它開始！19世紀不吃電的「電腦」如何運作？這世界差點走向蒸氣龐克？【晶片崛起 EP1】THE RISE OF CHIPS EP1 - YouTube](https://www.youtube.com/watch?v=ONfntZrrwtM)
 [Are Analogue Computer Hybrids The Future? - YouTube](https://www.youtube.com/watch?v=e2Mtt2rb654) analog signal processing
 
 [Why Lightbulbs Might Be The Best Invention Ever - YouTube](https://www.youtube.com/watch?v=FU_YFpfDqqA) bulb -> vacuum tube -> amplifier -> digital computer
@@ -105,6 +106,7 @@ your kids play Candy Crush on this
 
 [【电脑DIY】从萌新入门到开窍——主板篇 - 知乎](https://zhuanlan.zhihu.com/p/333489243)
 [【硬件科普】电脑主板右下角的散热片下面究竟隐藏着什么？详解主板南桥芯片组的功能和作用 - YouTube](https://www.youtube.com/watch?v=8JpLPenK5v0)
+[2025年全网最详细的主板科普，喵喵折带你重新认识主板！ - YouTube](https://www.youtube.com/watch?v=-sFRMWgclI4)
 
 ## Form Factor
 
@@ -319,6 +321,7 @@ Multiple 12V rails no longer matters (in 2014), quality PSU will have multiple r
 [Specs Dictionary - Rails (PSU) | GamersNexus - Gaming PC Builds & Hardware Benchmarks](https://www.gamersnexus.net/dictionary/6-psu/47-rails-psu)
 
 [Single Rail vs Multi Rail PC Power Supplies as Fast As Possible - YouTube](https://www.youtube.com/watch?v=rC-ImSeYn2A)
+[Single Rail vs Dual Rail PSU - It might be time to upgrade... - YouTube](https://www.youtube.com/watch?v=JaIRzDXETNM)
 
 ## Power Factor
 

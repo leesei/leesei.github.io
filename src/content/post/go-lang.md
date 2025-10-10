@@ -2,7 +2,7 @@
 title: The Go Programming Language
 description: Build simple, secure, scalable systems with Go
 created: 2015-02-16
-updated: 2025-05-14
+updated: 2025-10-03
 tags:
   - comp/lang
   - go-lang
@@ -23,6 +23,7 @@ tags:
 [Getting started with VS Code Go - YouTube](https://www.youtube.com/watch?v=1MXIGYrMk80) 2021-01
 [Learn Go Programming - Golang Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=YS4e4q9oBaU) 2019-06, 6:39:57
 [Golang Tutorial for Beginners | Full Go Course - YouTube](https://www.youtube.com/watch?v=yyUHQIec83I) 2021-12, 3:24:58
+[A Gentle Introduction to Go for Python Programmers - KDnuggets](https://www.kdnuggets.com/a-gentle-introduction-to-go-for-python-programmers)
 
 [Learn Go Fast - Full Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLstEdxtNm3vt_Ft-_MSzvgE98WwdsOIUG) 2023-09, Alex Mux
 [avukadin/goapi: Playing around with go](https://github.com/avukadin/goapi)
@@ -88,10 +89,7 @@ Now it defaults to `$HOME/go` and stores packages and `GOBIN`
 
 [google/capslock](https://github.com/google/capslock) capability analysis CLI for Go packages
 
-[air-verse/air: ☁️ Live reload for Go apps](https://github.com/air-verse/air)
-[Using Air with Go to implement live reload - LogRocket Blog](https://blog.logrocket.com/using-air-go-implement-live-reload/)
-[How To Setup A Golang + Templ Project Structure - YouTube](https://www.youtube.com/watch?v=wttTTFVrQiw)
-[templ - hot reload with air](https://adrianhesketh.com/2021/05/28/templ-hot-reload-with-air/)
+[Goblin](https://goblin.run/#introduction)
 
 ### Linting
 
@@ -511,37 +509,38 @@ Anthony GG
 
 [List of Best Golang Web Frameworks of 2024](https://www.bacancytechnology.com/blog/golang-web-frameworks)
 [The 6 top Go web frameworks - LogRocket Blog](https://blog.logrocket.com/6-top-go-web-frameworks/)
+[Golang: 6 must-have web frameworks for the Google Go language | InfoWorld](https://www.infoworld.com/article/3274464/web-development/6-must-have-web-frameworks-for-the-google-go-language.html)
 [Gorilla Toolkit Open Source Project Becomes Abandonware - The New Stack](https://thenewstack.io/gorilla-toolkit-open-source-project-becomes-abandonware/) compares Gin, Echo, Chi
+[speedwheel/awesome-go-web-frameworks: You may not need a web framework if you design a small application for yourself, but if you're going production then you definitely will need one, a good one.](https://github.com/speedwheel/awesome-go-web-frameworks)
 [mingrammer/go-web-framework-stars: :star: Web frameworks for Go, most starred on GitHub](https://github.com/mingrammer/go-web-framework-stars)
+[rheinardkorf/go-api: A collection of Go API patterns. These are useful as a reference to quickly look up a pattern that you want to implement.](https://github.com/rheinardkorf/go-api)
 [The TRUTH About Golang Backend Frameworks - YouTube](https://www.youtube.com/watch?v=JECZTdEJnOI)
 
-[cosmtrek/air: ☁️ Live reload for Go apps](https://github.com/cosmtrek/air)
+[The standard library now has all you need for advanced routing in Go. - YouTube](https://www.youtube.com/watch?v=H7tbjKFSg58) 1.22, router in `net/http`
+[The complete guide to Go net/http timeouts](https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/)
+
+[air-verse/air: ☁️ Live reload for Go apps](https://github.com/air-verse/air)
 [Using Air with Go to implement live reload - LogRocket Blog](https://blog.logrocket.com/using-air-go-implement-live-reload/)
+[How To Setup A Golang + Templ Project Structure - YouTube](https://www.youtube.com/watch?v=wttTTFVrQiw)
+[templ - hot reload with air](https://adrianhesketh.com/2021/05/28/templ-hot-reload-with-air/)
 
 [RESTful routing in Go](https://www.openmymind.net/RESTful-routing-in-Go/)
 [Go actions responses](https://www.openmymind.net/Go-action-responses/)
 [REST Servers in Go: Part 1 - standard library - Eli Bendersky's website](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/)
 
-[The standard library now has all you need for advanced routing in Go. - YouTube](https://www.youtube.com/watch?v=H7tbjKFSg58) 1.22, router in `net/http`
-
-[rheinardkorf/go-api: A collection of Go API patterns. These are useful as a reference to quickly look up a pattern that you want to implement.](https://github.com/rheinardkorf/go-api)
-
 [codazoda/https-basic-auth-go: A template for using HTTP Basic Authentication in Go](https://github.com/codazoda/https-basic-auth-go)
 [The BEST OAuth Golang Tutorial for Authentication | Sign In With Google - YouTube](https://www.youtube.com/watch?v=iHFQyd__2A0)
 
-[speedwheel/awesome-go-web-frameworks: You may not need a web framework if you design a small application for yourself, but if you're going production then you definitely will need one, a good one.](https://github.com/speedwheel/awesome-go-web-frameworks)
-
-[Golang: 6 must-have web frameworks for the Google Go language | InfoWorld](https://www.infoworld.com/article/3274464/web-development/6-must-have-web-frameworks-for-the-google-go-language.html)
 [go-bootstrap: Generates a lean and mean Go web project](http://go-bootstrap.io/)
 
 [swaggo/swag: Automatically generate RESTful API documentation with Swagger 2.0 for Go.](https://github.com/swaggo/swag) supports multiple frameworks
 [Automatically generate RESTful API documentation in GoLang | by Santosh Shrestha | wesionaryTEAM | Medium](https://medium.com/wesionary-team/automatically-generate-restful-api-documentation-in-golang-76927f8f8935)
 
-[julienschmidt/httprouter: A high performance HTTP request router that scales well](https://github.com/julienschmidt/httprouter) simple wrapper to std lib
-
 [beego/beego: beego is an open-source, high-performance web framework for the Go programming language.](https://github.com/beego/beego) builtin ORM, logging, task, i18n
 
-[chi](https://go-chi.io/#/)
+[julienschmidt/httprouter: A high performance HTTP request router that scales well](https://github.com/julienschmidt/httprouter) simple wrapper to std lib
+
+[chi](https://go-chi.io/#/) routing, middleware, render and docgen
 [go-chi/chi: lightweight, idiomatic and composable router for building Go HTTP services](https://github.com/go-chi/chi)
 
 [Flamingo: Blazingly fast frontends and web apps](https://www.flamingo.me/flamingo.html#Home)
@@ -549,21 +548,21 @@ Anthony GG
 [i-love-flamingo/flamingo: Flamingo Framework and Core Library. Flamingo is a go based framework for pluggable web projects. It is used to build scalable and maintainable (web)applications.](https://github.com/i-love-flamingo/flamingo)
 [i-love-flamingo/swagger: Adds Swagger UI (open API) support](https://github.com/i-love-flamingo/swagger)
 
-[savsgio/atreugo: High performance and extensible micro web framework. Zero memory allocations in hot paths.](https://github.com/savsgio/atreugo) `fasthttp`
-[Nerzal/atreugo-swagger: swagger handler for atreugo](https://github.com/Nerzal/atreugo-swagger)
-
-[goadesign/goa: Design-based APIs and microservices in Go](https://github.com/goadesign/goa)
+[goadesign/goa: Design-first Go framework that generates API code, documentation, and clients. Define once in an elegant DSL, deploy as HTTP and gRPC services with zero drift between code and docs.](https://github.com/goadesign/goa)
 
 [go-zero](https://go-zero.dev/) stack, API and RPC
-[zeromicro/go-zero: go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.](https://github.com/zeromicro/go-zero)
+[zeromicro/go-zero: A cloud-native Go microservices framework with cli tool for productivity.](https://github.com/zeromicro/go-zero)
 [熔断原理与实现 Golang 版 - InfoQ 写作平台](https://xie.infoq.cn/article/3b8bd23dd808e28b8e230d527)
 
-[Getting Started | httpin Docs](https://ggicci.github.io/httpin/)
+[httpin Docs](https://ggicci.github.io/httpin/) Request parsing and validation
+[ggicci/httpin: 🍡 HTTP Input for Go - HTTP Request from/to Go Struct (Bi-directional Data Binding between Go Struct and http.Request)](https://github.com/ggicci/httpin)
+[Decode HTTP Query Params into a Struct in Go](https://ggicci.me/decode-http-query-params-into-a-struct-in-go/)
 
 [valyala/fasthttp: Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http](https://github.com/valyala/fasthttp)
 [panjf2000/gnet: 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。](https://github.com/panjf2000/gnet)
 
-[chi](https://go-chi.io/#/) routing, middleware, render and docgen
+[savsgio/atreugo: High performance and extensible micro web framework. Zero memory allocations in hot paths.](https://github.com/savsgio/atreugo) `fasthttp`, 😴inactive
+[Nerzal/atreugo-swagger: swagger handler for atreugo](https://github.com/Nerzal/atreugo-swagger)
 
 #### Iris
 
@@ -734,7 +733,7 @@ go build -v
 [[sql#ORM (or not)]]
 
 [Comparing database/sql, GORM, sqlx, and sqlc | The GoLand Blog](https://blog.jetbrains.com/go/2023/04/27/comparing-db-packages/)
-[sphireinc/Hydra: A Go library that dynamically hydrates structs with data from multiple databases, offering flexibility and ease for database integration in software development.](https://github.com/sphireinc/Hydra?utm_source=christophberger&utm_medium=email&utm_campaign=brutalism)
+[sphireinc/Hydra: A Go library that dynamically hydrates structs with data from multiple databases, offering flexibility and ease for database integration in software development.](https://github.com/sphireinc/Hydra)
 
 [sql - The Go Programming Language](https://go.dev/pkg/database/sql/)
 [Go database/sql tutorial](http://go-database-sql.org/index.html)
@@ -937,6 +936,8 @@ type T struct {
 [Go Playground - The Go Programming Language](https://go.dev/play/p/rFql2x0Klm4)
 [How to Assign Default Value for Struct Field in Golang? | GeeksforGeeks](https://www.geeksforgeeks.org/how-to-assign-default-value-for-struct-field-in-golang/)
 
+[ggicci/owl: 🦉 Go Struct Tag Framework and Algorithm Driver](https://github.com/ggicci/owl)
+
 For simple case just use reflection and parse it yourself  
 [structtag package - github.com/fatih/structtag - Go Packages](https://pkg.go.dev/github.com/fatih/structtag#section-readme)
 
@@ -1031,7 +1032,7 @@ by a simple interface
 [The Little Go Book](https://www.openmymind.net/The-Little-Go-Book/) 2017
 [karlseguin/the-little-go-book](https://github.com/karlseguin/the-little-go-book)
 
-[An Introduction to Programming in Go | Go Resources](http://www.golang-book.com/books/intro) 2012
+[An Introduction to Programming in Go | Go Resources](https://web.archive.org/web/20250328005010/https://www.golang-book.com/books/intro) 2012
 [The Go Handbook](https://flaviocopes.com/access/)
 [Learning Go](https://miek.nl/go/) 2018
 
@@ -1250,10 +1251,10 @@ On why slice, map and function types don't support comparison, please read [this
 
 use `chan struct{}` to signify that this is a channel for event/signal
 
-[Curious Channels | Dave Cheney](https://dave.cheney.net/2013/04/30/curious-channels)
-[Channel Axioms | Dave Cheney](https://dave.cheney.net/2014/03/19/channel-axioms)
+[Curious Channels | Dave Cheney](https://web.archive.org/web/20250711124028/https://dave.cheney.net/2013/04/30/curious-channels)
+[Channel Axioms | Dave Cheney](https://web.archive.org/web/20250818171744/https://dave.cheney.net/2014/03/19/channel-axioms)
 
-[Go Concurrency from the Ground Up | doxsey.net](https://www.doxsey.net/blog/go-concurrency-from-the-ground-up/)
+[Go Concurrency from the Ground Up | doxsey.net](https://web.archive.org/web/20250408175239/https://www.doxsey.net/blog/go-concurrency-from-the-ground-up/)
 [Visualizing Concurrency in Go · divan's blog](http://divan.github.io/posts/go_concurrency_visualize/)
 [Goroutine IDs · Scott Mansfield](http://blog.sgmansfield.com/2015/12/goroutine-ids/)
 [Codewalk: Share Memory By Communicating - The Go Programming Language](https://go.dev/doc/codewalk/sharemem/)
@@ -1316,7 +1317,7 @@ use `chan struct{}` to signify that this is a channel for event/signal
 ## Date time
 
 [time package - time - pkg.go.dev](https://pkg.go.dev/time)
-[time package - Duration - pkg.go.dev](https://pkg.go.dev/time?utm_source=godoc#Duration)
+[time package - Duration - pkg.go.dev](https://pkg.go.dev/time)
 
 Use reference time (`2006-01-02T15:04:05Z07:00`) to define layout
 [src/time/format.go - The Go Programming Language](https://go.dev/src/time/format.go)
@@ -1483,7 +1484,7 @@ go test -count=1
 
 [The Zen of Go](https://the-zen-of-go.netlify.app/)
 [The Zen of Go / Dave Cheney - YouTube](https://www.youtube.com/watch?v=yd_rtwYaXps)
-[The Zen of Go with Dave Cheney (Go Time #122) |> Changelog](https://changelog.com/gotime/122)
+[The Zen of Go with Dave Cheney (Go Time #122)](https://changelog.com/gotime/122)
 
 [Golang UK Conference 2016 - Mat Ryer - Idiomatic Go Tricks - YouTube](https://www.youtube.com/watch?v=yeetIgNeIkc)
 

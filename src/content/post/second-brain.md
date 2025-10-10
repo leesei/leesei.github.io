@@ -2,7 +2,7 @@
 title: Second Brain
 description: ""
 created: 2023-01-13
-updated: 2025-05-03
+updated: 2025-07-07
 tags:
   - learning
 featured: true

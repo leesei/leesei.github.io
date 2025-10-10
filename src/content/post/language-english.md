@@ -2,7 +2,7 @@
 title: English Language
 description: ""
 created: 2025-02-04
-updated: 2025-05-12
+updated: 2025-07-07
 tags:
   - english
   - language
@@ -98,7 +98,7 @@ Contractions are abbreviations in which letters from the middle of the word are 
 
 ## History of English
 
-[History of the English language - Wikiwand](http://www.wikiwand.com/en/History_of_the_English_language)
+[History of the English language - Wikiwand](https://www.wikiwand.com/en/History_of_the_English_language)
 
 English evolved from Proto-Indo-European language
 
@@ -418,7 +418,7 @@ favor active over passive voice, except for:
 - the done-to is the focus of the sentence
 
 [Advice for Technical Writing | CSS-Tricks](https://css-tricks.com/advice-for-technical-writing/)
-[The developer's guide to content creation with Stephanie Morillo (The Changelog #382) |> Changelog](https://changelog.com/podcast/382)
+[The developer's guide to content creation with Stephanie Morillo (Changelog Interviews #382)](https://changelog.com/podcast/382)
 
 ## Phonics
 

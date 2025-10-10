@@ -2,13 +2,13 @@
 title: Cold Weapons
 description: ""
 created: 2015-10-09
-updated: 2025-07-03
+updated: 2025-08-27
 tags:
   - weapons
 ---
 
-[Cold weapon - Wikiwand](http://www.wikiwand.com/en/Cold_weapon)
-[List of premodern combat weapons - Wikiwand](http://www.wikiwand.com/en/List_of_premodern_combat_weapons)
+[Cold weapon - Wikiwand](https://www.wikiwand.com/en/Cold_weapon)
+[List of premodern combat weapons - Wikiwand](https://www.wikiwand.com/en/List_of_premodern_combat_weapons)
 
 [Weapons and armour - YouTube](https://www.youtube.com/playlist?list=PLCA860ECD7F894424) Lindybeige
 [Walter Sorrells - YouTube](https://www.youtube.com/@WalterSorrellsBlades)
@@ -106,11 +106,11 @@ tags:
 [Catapult - Wikiwand](https://www.wikiwand.com/en/Catapult) umbrella term, tension or torsion energy
 [Onager (weapon) - Wikiwand](<https://www.wikiwand.com/en/Onager_(weapon)>) 弩砲 torsion energy, commonly known as catapult
 [Mangonel - Wikiwand](https://www.wikiwand.com/en/Mangonel) 牽引投石機 traction trebuchet, powered by man
-[Trebuchet - Wikiwand](http://www.wikiwand.com/en/Trebuchet) 重力投石機/配重式投石機 powered by counterweight
+[Trebuchet - Wikiwand](https://www.wikiwand.com/en/Trebuchet) 重力投石機/配重式投石機 powered by counterweight
 [Catapults, trebuchet, onager, mangonel, ballista - YouTube](https://www.youtube.com/watch?v=yCIk9bT2ZTo) vs people
 
-[Siege engine - Wikiwand](http://www.wikiwand.com/en/Siege_engine)
-[Siege tower - Wikiwand](http://www.wikiwand.com/en/Siege_tower)
+[Siege engine - Wikiwand](https://www.wikiwand.com/en/Siege_engine)
+[Siege tower - Wikiwand](https://www.wikiwand.com/en/Siege_tower)
 
 [The Evolution From Arrows To Artillery In Weapon Technology | Our History - YouTube](https://www.youtube.com/watch?v=7bEmrwNRfWA)
 [The TRUTH about medieval CATAPULTS - YouTube](https://www.youtube.com/watch?v=7x-vv0FCIkQ)
@@ -130,9 +130,9 @@ tags:
 
 ## Forging
 
-[Metalworking - Wikiwand](http://www.wikiwand.com/en/Metalworking)
-[Forge - Wikiwand](http://www.wikiwand.com/en/Forge)
-[Forging - Wikiwand](http://www.wikiwand.com/en/Forging)
+[Metalworking - Wikiwand](https://www.wikiwand.com/en/Metalworking)
+[Forge - Wikiwand](https://www.wikiwand.com/en/Forge)
+[Forging - Wikiwand](https://www.wikiwand.com/en/Forging)
 [變軟變硬都靠它？金屬熱處理，退火、淬火、回火的原理解說 - YouTube](https://www.youtube.com/watch?v=u9kpobrLBj4) ❗!important
 
 Heat treat and temper
@@ -141,7 +141,7 @@ Heat treat and temper
 淬火: 以高溫加熱金屬, 再急速冷卻, 提高硬度及與強度, 但同時使金屬變脆
 回火: 以中溫加熱金屬, 再慢慢冷卻, 提高韌性與塑性
 
-[Man at Arms: The Complete Series - YouTube](https://www.youtube.com/playlist?list=PLUUGFk1wE5OHqeNDwp2q9_ZiPqKlWNc6V)
+[Man At Arms - The Complete Series - YouTube](https://www.youtube.com/playlist?list=PLUUGFk1wE5OFOpfPz3ggXQrCSdQdFEslx)
 [Forging a Bronze-Age Sword - YouTube](https://www.youtube.com/watch?v=R62TPFzBQ40)
 
 [Casting swords in the movies - forging a lie - YouTube](https://www.youtube.com/watch?v=8E6TzT0eCYs)
@@ -244,6 +244,15 @@ A stone age tool that predates bow and arrow
 [马镫\_百度百科](https://baike.baidu.com/item/%E9%A9%AC%E9%95%AB)
 [三國時期到底有沒有馬鐙，馬鐙到底是什麼時候出現的？ - 每日頭條](https://kknews.cc/zh-hk/history/5ookgnl.html)
 [到底是誰發明了馬鐙？ - 每日頭條](https://kknews.cc/zh-hk/culture/r8r9q3n.html)
+
+## 陣法
+
+[諸葛亮的陣法究竟多強，為何1000年後的大宋皇帝都想復原？｜冷兵器研究所 - YouTube](https://www.youtube.com/watch?v=StTYt-VlGug)
+
+Roman legion
+Macedonian phalanx
+
+[Roman legion vs Macedonian phalanx - YouTube](https://www.youtube.com/watch?v=FFW-OhRcMXs)
 
 ## 武術 Martial Arts
 

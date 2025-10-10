@@ -2,7 +2,7 @@
 title: Botany
 description: Scientific study of the plant kingdom
 created: 2022-01-20
-updated: 2025-06-15
+updated: 2025-08-13
 tags:
   - biology
   - learning
@@ -24,6 +24,11 @@ The gametes fuse and produce a sporophyte with both genome (duploid)
 
 Bryophytes (mosses) are gametophyte dominate
 Vascular plants are sporophyte dominate
+
+[How Anyone Can Keep Indoor Plants Alive (Even if You're Terrible at It)](https://www.makeuseof.com/how-anyone-can-keep-indoor-plants-alive/)
+[The 6 Best Plant Identifier Apps for Android and iPhone](https://www.makeuseof.com/tag/identify-plants-flowers-phone-camera/)
+[PictureThis - Plant Identifier App | Plant Identification Online](https://www.picturethisai.com/)
+[Plant care app - Keep your plants alive | Planta](https://getplanta.com/)
 
 ## Photosynthesis
 

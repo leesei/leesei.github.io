@@ -2,7 +2,7 @@
 title: Git notes
 description: Git is a content addressable file system
 created: 2014-12-11
-updated: 2025-04-09
+updated: 2025-07-07
 tags:
   - app
   - git
@@ -211,7 +211,7 @@ You can always check reflog to restore commit no matter how you messed with your
 You can name you custom script as `git-mycmd`, place it in you PATH and use `git mycmd` to invoke it.
 [Extending Git: add a custom command](http://blog.santosvelasco.com/2012/06/14/extending-git-add-a-custom-command/)
 [Extend Git with Custom Commands](https://coderwall.com/p/bt93ia/extend-git-with-custom-commands)
-[Extending Git functionality - Stack Overflow](http://stackoverflow.com/questions/10978257/extending-git-functionality/10978296#10978296)
+[Extending Git functionality - Stack Overflow](https://stackoverflow.com/questions/10978257/extending-git-functionality/10978296#10978296)
 [Atlassian Blogs: Extending git](http://blogs.atlassian.com/2013/04/extending-git/)
 
 ## GUI Clients
@@ -321,8 +321,8 @@ Commits to `master` kicks off CI/CD
 `rebase --interactive --autosquash`
 `fixup`
 
-[version control - git workflow and rebase vs merge questions - Stack Overflow](http://stackoverflow.com/questions/457927/git-workflow-and-rebase-vs-merge-questions)
-[version control - When do you use git rebase instead of git merge? - Stack Overflow](http://stackoverflow.com/questions/804115/when-do-you-use-git-rebase-instead-of-git-merge)
+[version control - git workflow and rebase vs merge questions - Stack Overflow](https://stackoverflow.com/questions/457927/git-workflow-and-rebase-vs-merge-questions)
+[version control - When do you use git rebase instead of git merge? - Stack Overflow](https://stackoverflow.com/questions/804115/when-do-you-use-git-rebase-instead-of-git-merge)
 
 ## Video
 
@@ -548,7 +548,7 @@ git rebase -i $parent_of_flawed_commit
 # use 'r' to reword commits
 ```
 
-[Edit an incorrect commit message in Git - Stack Overflow](http://stackoverflow.com/questions/179123/a/180085)
+[Edit an incorrect commit message in Git - Stack Overflow](https://stackoverflow.com/questions/179123/a/180085)
 [Changing a commit message - User Documentation](https://help.github.com/articles/changing-a-commit-message/)
 
 ## check diff before merge
@@ -682,8 +682,8 @@ Tagging and pushing tag to GitHub will aldo allow you to download the zipped cod
 
 [How to Shrink a Git Repository](http://stevelorek.com/how-to-shrink-a-git-repository.html)
 [What is git gc and how does it work? | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/git-gc)
-[Reduce git repository size - Stack Overflow](http://stackoverflow.com/questions/2116778/reduce-git-repository-size)
-[Git pull error: unable to create temporary sha1 filename - Stack Overflow](http://stackoverflow.com/questions/685319/git-pull-error-unable-to-create-temporary-sha1-filename/)
+[Reduce git repository size - Stack Overflow](https://stackoverflow.com/questions/2116778/reduce-git-repository-size)
+[Git pull error: unable to create temporary sha1 filename - Stack Overflow](https://stackoverflow.com/questions/685319/git-pull-error-unable-to-create-temporary-sha1-filename/)
 [Optimize your repository using Git GC | by Ameet Prajapati | codeburst](https://codeburst.io/optimize-your-repository-using-git-gc-c4675ed8b7b2)
 
 ```sh

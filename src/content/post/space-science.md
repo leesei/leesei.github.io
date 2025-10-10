@@ -2,7 +2,7 @@
 title: Space Science
 description: ""
 created: 2018-01-10
-updated: 2025-06-06
+updated: 2025-07-07
 tags:
   - science
 ---
@@ -119,7 +119,7 @@ Which violates conservation of momentum
 
 ## Fermi Paradox
 
-[Fermi paradox - Wikiwand](http://www.wikiwand.com/en/Fermi_paradox)
+[Fermi paradox - Wikiwand](https://www.wikiwand.com/en/Fermi_paradox)
 
 [最神奇的星球，地球以及人類存在的真正原因 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=BLpv9fCZqcs)
 [【費米悖論】人類至今無法發現外星人的 14 種可能，越往後可能性越大 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=N4xXGIrzKJs)

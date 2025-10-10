@@ -2,7 +2,7 @@
 title: Database
 description: ""
 created: 2015-08-03
-updated: 2025-06-27
+updated: 2025-09-26
 tags:
   - comp/database
 ---
@@ -20,8 +20,8 @@ tags:
 # Theory
 
 [ACID vs. BASE: The Shifting pH of Database Transaction Processing | Big Data Articles | DATAVERSITY](http://www.dataversity.net/acid-vs-base-the-shifting-ph-of-database-transaction-processing/)
-[ACID - Wikiwand](http://www.wikiwand.com/en/ACID)
-[Eventual consistency - Wikiwand](http://www.wikiwand.com/en/Eventual_consistency)
+[ACID - Wikiwand](https://www.wikiwand.com/en/ACID)
+[Eventual consistency - Wikiwand](https://www.wikiwand.com/en/Eventual_consistency)
 [Myth: Eric Brewer on Why Banks are BASE Not ACID - Availability Is Revenue - High Scalability -](http://highscalability.com/blog/2013/5/1/myth-eric-brewer-on-why-banks-are-base-not-acid-availability.html)
 [Building Robust Systems With ACID and Constraints — Brandur Leach](https://brandur.org/acid)
 [Relational Database ACID Transactions (Explained by Example) - YouTube](https://www.youtube.com/watch?v=pomxJOFVcQs)
@@ -32,19 +32,19 @@ tags:
 [Don't Get Stuck in the CON Game (V3) - by Pat Helland](https://pathelland.substack.com/p/dont-get-stuck-in-the-con-game-v3)
 
 [Database Theory - MariaDB Knowledge Base](https://mariadb.com/kb/en/library/database-theory/)
-[Linearizability versus Serializability | Peter Bailis](http://www.bailis.org/blog/linearizability-versus-serializability/)
+[Linearizability versus Serializability | Peter Bailis](https://www.bailis.org/blog/linearizability-versus-serializability/)
 
 [VoltDB and the Jepsen Test: What we learned about data accuracy and consistency - VoltDB](https://www.voltdb.com/files/voltdb-jepsen-test/)
 
 ## CAP Theorem
 
-[CAP theorem - Wikiwand](http://www.wikiwand.com/en/CAP_theorem)
+[CAP theorem - Wikiwand](https://www.wikiwand.com/en/CAP_theorem)
 [Brewer's CAP Theorem <= :julianbrowne](http://www.julianbrowne.com/article/viewer/brewers-cap-theorem)
 [CAP Twelve Years Later: How the "Rules" Have Changed](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)
 [Blog | Plan setup, pause-minority, mirrored nodes and the CAP theorem - CloudAMQP, RabbitMQ as a Service](https://www.cloudamqp.com/blog/2015-12-29-cloudamqp-plan-setup-pause-minority-mirrored-nodes-and-the-cap-theorem.html)
 [Spanner, TrueTime and the CAP Theorem – Google AI](https://ai.google/research/pubs/pub45855)
 
-[Episode 227: Eric Brewer: The CAP Theorem, Then and Now : Software Engineering Radio](http://www.se-radio.net/2015/05/the-cap-theorem-then-and-now/)
+[Episode 227: Eric Brewer: The CAP Theorem, Then and Now : Software Engineering Radio](https://www.se-radio.net/2015/05/the-cap-theorem-then-and-now/)
 
 ## RUM Conjecture
 
@@ -57,16 +57,15 @@ Read, Update, Memory amplification
 ## Data Modeling
 
 [Making The Invalid Impossible - Choosing The Right Data Model - DEV Community](https://dev.to/frosnerd/making-the-invalid-impossible---choosing-the-right-data-model-9e6)
-[Developer: Data Modeling - Neo4j Graph Database](http://neo4j.com/developer/data-modeling/) (Neo4j)
-[Database Design - Introduction](http://www.tomjewett.com/dbdesign/dbdesign.php?page=intro.html)
+[Developer: Data Modeling - Neo4j Graph Database](https://neo4j.com/developer/data-modeling/) (Neo4j)
 [A beginner's guide to database table relationships - Vlad Mihalcea](https://vladmihalcea.com/database-table-relationships/)
 
 [Intro, Data Modeling, Databases | Prisma's Data Guide](https://www.prisma.io/dataguide/)
 
 [Database Keys Made Easy - Primary, Foreign, Candidate, Surrogate, & Many More - YouTube](https://www.youtube.com/watch?v=8wUUMOKAK-c)
 [Third normal form - Wikiwand](https://www.wikiwand.com/en/Third_normal_form)
-[An Introduction to Database Normalization | Mike Hillyer's Personal Webspace](http://mikehillyer.com/articles/an-introduction-to-database-normalization/)
-[The Basics of Database Normalization](http://databases.about.com/od/specificproducts/a/normalization.htm)
+[An Introduction to Database Normalization — Mike Hillyer's Personal Webspace](https://mikehillyer.com/articles/an-introduction-to-database-normalization/)
+[The Basics of Database Normalization](https://www.lifewire.com/database-normalization-basics-1019735)
 [Database Normalization Explained - DEV Community 👩‍💻👨‍💻](https://dev.to/nexttech/database-normalization-explained-5b1a)
 [Database Normalization Explained in Simple English - Essential SQL](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
 [Learn Database Normalization - 1NF, 2NF, 3NF, 4NF, 5NF - YouTube](https://www.youtube.com/watch?v=GFQaEYEc8_8)
@@ -104,7 +103,7 @@ BCNF is stronger the 3NF but in practice 99.99% of 3NF are BCNF.
 [ljwagerfield/crdt: CRDT Tutorial for Beginners (a digestible explanation with less math!)](https://github.com/ljwagerfield/crdt)
 [Summary of CRDTs](https://vaughnvernon.co/?p=1012)
 
-[SE-Radio Episode 252: Christopher Meiklejohn on CRDTs : Software Engineering Radio](http://www.se-radio.net/2016/03/se-radio-episode-252-christopher-meiklejohn-on-crdts/)
+[SE-Radio Episode 252: Christopher Meiklejohn on CRDTs : Software Engineering Radio](https://www.se-radio.net/2016/03/se-radio-episode-252-christopher-meiklejohn-on-crdts/)
 [Decentralized Objects with Martin Kleppman | Software Engineering Daily](https://softwareengineeringdaily.com/2017/12/08/decentralized-objects-with-martin-kleppman/)
 
 [dominictarr/crdt: Commutative Replicated Data Types for easy collaborative/distributed systems.](https://github.com/dominictarr/crdt) is this the same?
@@ -123,6 +122,7 @@ This replaces operational transformation for collaborative editing.
 
 [7 Database Paradigms - YouTube](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
 [15 futuristic databases you’ve never heard of - YouTube](https://www.youtube.com/watch?v=jb2AvF8XzII)
+[为什么关系数据库的挑战者都没有好下场【让编程再次伟大#25】 - YouTube](https://www.youtube.com/watch?v=IUUpxfa1SSw)
 
 [Did I Pick The Right Database??? - YouTube](https://www.youtube.com/watch?v=cC6HFd1zcbo)
 
@@ -146,9 +146,9 @@ This replaces operational transformation for collaborative editing.
 [Cassandra vs MongoDB vs CouchDB vs Redis vs Riak vs HBase vs Couchbase vs Hypertable vs ElasticSearch vs Accumulo vs VoltDB vs Scalaris comparison -- Software architect Kristof Kovacs](http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis)
 [CouchDB Vs MongoDB](http://www.slideshare.net/gabriele.lana/couchdb-vs-mongodb-2982288)
 [Couchbase vs CouchDB | Couchbase](http://www.couchbase.com/couchbase-vs-couchdb)
-[NoSQL - MongoDB vs CouchDB - Stack Overflow](http://stackoverflow.com/questions/3375494/nosql-mongodb-vs-couchdb)
+[NoSQL - MongoDB vs CouchDB - Stack Overflow](https://stackoverflow.com/questions/3375494/nosql-mongodb-vs-couchdb)
 [NoSQL grudge match: MongoDB vs. Couchbase Server | InfoWorld](https://www.infoworld.com/article/3190696/application-development/nosql-grudge-match-mongodb-vs-couchbase-server.html)
-[nosql - When to use CouchDB over MongoDB and vice versa - Stack Overflow](http://stackoverflow.com/questions/12437790/when-to-use-couchdb-over-mongodb-and-vice-versa)
+[nosql - When to use CouchDB over MongoDB and vice versa - Stack Overflow](https://stackoverflow.com/questions/12437790/when-to-use-couchdb-over-mongodb-and-vice-versa)
 [Riyad Kalla - Google+ - -Should I use MongoDB or CouchDB (or Redis)--…](https://plus.google.com/107397941677313236670/posts/LFBB233PKQ1)
 [Riyad Kalla's answer to How does MongoDB compare to CouchDB- What are the advantages and disadvantages of each- - Quora](http://www.quora.com/How-does-MongoDB-compare-to-CouchDB-What-are-the-advantages-and-disadvantages-of-each/answer/Riyad-Kalla)
 
@@ -208,7 +208,7 @@ Uber's migration from PostgreSQL (back) to MySQL
 
 # RDBMS/Transactional Database
 
-[Relational database management system - Wikiwand](http://www.wikiwand.com/en/Relational_database_management_system)
+[Relational database management system - Wikiwand](https://www.wikiwand.com/en/Relational_database_management_system)
 
 Most call this categories of DBMS as SQL DB.
 
@@ -297,7 +297,7 @@ sharding should be the last resort, consider partitioning first
 
 [Citus Data](https://github.com/citusdata) PostgreSQL extension, no need for application level sharding
 [Scalable PostgreSQL with Real-Time Analytics | Citus Data](https://www.citusdata.com/)
-[Scaling PostgreSQL with Citus Data's Ozgun Erdogan - Software Engineering Daily](http://softwareengineeringdaily.com/2016/06/01/scaling-postgresql-citus-datas-ozgun-erdogan/)
+[Scaling PostgreSQL with Citus Data's Ozgun Erdogan - Software Engineering Daily](https://softwareengineeringdaily.com/2016/06/01/scaling-postgresql-citus-datas-ozgun-erdogan/)
 [Citus: Scale-Out Clustering and Sharding for PostgreSQL](https://www.xaprb.com/blog/citus/)
 
 [Presto | Distributed SQL Query Engine for Big Data](https://prestosql.io/)
@@ -363,6 +363,9 @@ HAProxy recipes
 [Course introduction — MySQL for Developers — PlanetScale](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction)
 [Learn MySQL - YouTube](https://www.youtube.com/playlist?list=PLQiYtJSQdSEDH7TCBxm6tgdTc8rbKoX6K) PlanetScale
 
+[千疮百孔的MySQL，世界上最流行的数据库【让编程再次伟大#番外1】 - YouTube](https://www.youtube.com/watch?v=KpJCHsRcZ1g)
+[有些数据库是蠢，有些是坏，它是又蠢又坏【让编程再次伟大#番外2】 - YouTube](https://www.youtube.com/watch?v=ConMAwL-cmk)
+
 [Top 5 open source tools for MySQL administrators | InfoWorld](https://www.infoworld.com/article/3241730/database/top-5-open-source-tools-for-mysql-administrators.html)
 
 ```sh
@@ -424,7 +427,7 @@ Basics:
 
 [NoSQL - Wikiwand](https://www.wikiwand.com/en/NoSQL)
 [NOSQL Databases](http://nosql-database.org/)
-[NoSQL: Past, Present, Future](http://www.infoq.com/presentations/NoSQL-History)
+[NoSQL: Past, Present, Future](https://www.infoq.com/presentations/NoSQL-History)
 [Visual Guide To NoSQL Systems](http://blog.nahurst.com/visual-guide-to-nosql-systems)
 [Why SQL Database? - VoltDB](https://www.voltdb.com/product/features-benefits/sql-database/)
 [The basics of NoSQL databases — and why we need them](https://www.freecodecamp.org/news/nosql-databases-5f6639ed9574)
@@ -627,19 +630,18 @@ The first three supports relationship by a second index lookup, `JOIN`-like oper
 [Node.js LevelDB](https://github.com/Level) GitHub org
 [Resources · Level/levelup Wiki](https://github.com/Level/levelup/wiki/Resources)
 [workshopper/levelmeup: Level Me Up Scotty! An intro to Node.js databases via a set of self-guided workshops.](https://github.com/workshopper/levelmeup)
-[LevelDB Review (in 18 parts, seriously) « Another Word For It](http://tm.durusau.net/?p=41113)
+[LevelDB Review (in 18 parts, seriously) « Another Word For It](https://tm.durusau.net/?p=41113)
 [substack/leveldb-handbook: how to modularly database with leveldb](https://github.com/substack/leveldb-handbook)
 [[r.va.gg] Should I use a single LevelDB or many to hold my data?](https://r.va.gg/2013/10/should-i-use-a-single-leveldb-or-many-to-hold-my-data.html)
 
 [syndtr/goleveldb: LevelDB key/value database in Go.](https://github.com/syndtr/goleveldb)
 [oodrive/leveldb.net: LevelDB for Windows and .NET standard](https://github.com/oodrive/leveldb.net)
 
-[NodeUp: A Node.js Podcast - fortyeight - the first nodebase show](http://nodeup.com/fortyeight)
 [Poor Man's Firebase: LevelDB, REST, and WebSockets](http://procbits.com/2014/01/06/poor-mans-firebase-leveldb-rest-and-websockets)
 
 ### Ecosystem
 
-[LevelUp Ecosystem](http://nodejsconfit.levelgraph.io/#13)
+[LevelUp Ecosystem](https://nodejsconfit.levelgraph.io/#13)
 [Modules · Level/levelup Wiki](https://github.com/Level/levelup/wiki/Modules)
 [[r.va.gg] All the levels!](https://r.va.gg/2013/10/all-the-levels.html)
 
@@ -667,7 +669,7 @@ The first three supports relationship by a second index lookup, `JOIN`-like oper
 [JavaScript Databases II](https://r.va.gg/presentations/lxjs2013/)
 
 [Optimizing LevelDB for Performance and Scale (RICON East 2013) - Speaker Deck](https://speakerdeck.com/basho/optimizing-leveldb-for-performance-and-scale-ricon-east-2013)
-[How to Cook a Graph Database in a Night](http://nodejsconfit.levelgraph.io/)
+[How to Cook a Graph Database in a Night](https://nodejsconfit.levelgraph.io/)
 [Build your own database with LevelDB and Node.js](https://mcollina.github.io/levelup-talk-cloudconf/)
 
 ## PouchDB
@@ -689,7 +691,7 @@ CouchDB, LevelDB and browsers compatible
 
 ## RocksDB
 
-[RocksDB | A persistent key-value store | RocksDB](http://rocksdb.org/) forked from LevelDB 1.5, allows multiple writers, reduces stalls and write amplification
+[RocksDB | A persistent key-value store | RocksDB](https://rocksdb.org/) forked from LevelDB 1.5, allows multiple writers, reduces stalls and write amplification
 
 [Getting started | RocksDB](https://rocksdb.org/docs/getting-started.html)
 [Home · facebook/rocksdb Wiki](https://github.com/facebook/rocksdb/wiki)
@@ -698,7 +700,6 @@ CouchDB, LevelDB and browsers compatible
 [Administration and Data Access Tool · facebook/rocksdb Wiki](https://github.com/facebook/rocksdb/wiki/Administration-and-Data-Access-Tool) `ldb` CLI tool
 
 [Under the Hood: Building and open-sourcing RocksDB](https://www.facebook.com/notes/facebook-engineering/under-the-hood-building-and-open-sourcing-rocksdb/10151822347683920)
-[Facebook rocks an open source storage engine for MySQL | InfoWorld](http://www.infoworld.com/article/3114912/open-source-tools/facebook-rocks-an-open-source-storage-engine-for-mysql.html)
 
 [facebook/rocksdb: A library that provides an embeddable, persistent key-value store for fast storage.](https://github.com/facebook/rocksdb)
 [warrenfalk/rocksdb-sharp: .net bindings for the rocksdb by facebook](https://github.com/warrenfalk/rocksdb-sharp)
@@ -736,7 +737,7 @@ A key-value database written in Node.js that supports:
 
 [amark/gun: A realtime, decentralized, offline-first, graph database engine.](https://github.com/amark/gun)
 [The Changelog #236: GunDB, Venture Backed and Decentralized with Mark Nadal | Changelog](https://changelog.com/podcast/236)
-[232 JSJ GunDB and Databases with Mark Nadal](https://devchat.tv/js-jabber/232-jsj-gundb-and-databases-with-mark-nadal)
+[GunDB, Venture Backed and Decentralized with Mark Nadal (Changelog Interviews #236)](https://changelog.com/podcast/236)
 
 ---
 
@@ -750,14 +751,14 @@ RDBMS solutions rely on cheap CPU cycles to enable efficient solutions. NoSQL so
 
 ## CouchDB
 
-[Apache CouchDB](http://couchdb.apache.org/)
+[Apache CouchDB](https://couchdb.apache.org/)
 [#bbuzz: Jan Lehnard "The CouchDB Implementation" - YouTube](https://www.youtube.com/watch?v=edbi9jJZkpg)
 
 [robertkowalski/learnyoucouchdb: Learn you CouchDB for great good!](https://github.com/robertkowalski/learnyoucouchdb)
 
 ## RethinkDB
 
-[RethinkDB: the open-source database for the realtime web](http://rethinkdb.com/)
+[RethinkDB: the open-source database for the realtime web](https://rethinkdb.com/)
 [Frequently asked questions - RethinkDB](https://rethinkdb.com/faq/)
 
 [RethinkDB - Wikiwand](https://www.wikiwand.com/en/RethinkDB)
@@ -775,15 +776,11 @@ Value consistency, unless client explicitly requesting stale data
 
 The company behind RethinkDB shutdown in 2016-10. CNCF bought the rights to the open source project and donated it to The Linux Foundation in 2017-02.
 [RethinkDB is shutting down - RethinkDB](https://rethinkdb.com/blog/rethinkdb-shutdown/)
-[RethinkDB: why we failed](http://www.defstartup.org/2017/01/18/why-rethinkdb-failed.html)
 [RethinkDB joins The Linux Foundation - RethinkDB](https://rethinkdb.com/blog/rethinkdb-joins-linux-foundation/)
 
-[Rob Conery | RethinkDB 2.0 Is Amazing](http://rob.conery.io/2015/04/17/rethinkdb-2-0-is-amazing/)
-[Rob Conery | Optimizing a Big RethinkDB Query, and a Correction](http://rob.conery.io/2015/04/18/optimizing-a-big-rethinkdb-query-and-a-correction/)
-
-[#114: RethinkDB with Slava Akhmechet - Changelog](https://changelog.com/114/)
-[#181: RethinkDB, Databases, and the Realtime Web With Slava Akhmechet - Changelog](https://changelog.com/181/)
-[SE-Radio Episode 243: RethinkDB with Slava Akhmechet : Software Engineering Radio](http://www.se-radio.net/2015/12/se-radio-episode-243-rethinkdb-with-slava-akhmechet/)
+[RethinkDB with Slava Akhmechet (Changelog Interviews #114)](https://changelog.com/podcast/114)
+[RethinkDB, Databases, the Realtime Web with Slava Akhmechet (Changelog Interviews #181)](https://changelog.com/podcast/181)
+[SE-Radio Episode 243: RethinkDB with Slava Akhmechet : Software Engineering Radio](https://www.se-radio.net/2015/12/se-radio-episode-243-rethinkdb-with-slava-akhmechet/)
 
 ### Horizon
 
@@ -805,12 +802,15 @@ The company behind RethinkDB shutdown in 2016-10. CNCF bought the rights to the 
 
 [[elastic-elasticsearch]]
 
-## Crate.io
+## CrateDB
 
-[Crate.IO](https://crate.io/)
+[Real-time Unified Data Layer for Analytics, Search and AI](https://cratedb.com/)
+[CrateDB](https://github.com/crate/) GitHub org
+[CrateDB: Guide](https://cratedb.com/docs/guide/)
+[CrateDB: Reference](https://cratedb.com/docs/crate/reference/en/latest/)
+[CrateDB Academy Course Overview](https://learn.cratedb.com/course-overview)
 
 SQL over Elasticsearch, works for both operation database and analytic (OLTP to OLAP).
-[CrateDB packs NoSQL flexibility, SQL familiarity | InfoWorld](http://www.infoworld.com/article/3151465/database/cratedb-packs-nosql-flexibility-sql-familiarity.html)
 Containerized deployment, meant for scale.
 
 ## MongoDB
@@ -836,14 +836,14 @@ EdgeQL/GraphQL and REST backed by PostgreSQL.
 
 ---
 
-# Columnar
+# Columnar Database/Wide Column Store
 
 [Column vs Row Oriented Databases Explained - YouTube](https://www.youtube.com/watch?v=Vw1fCeD06YI)
 
 ## Apache HBase
 
-[Apache HBase – Apache HBase™ Home](http://hbase.apache.org/)
-[Apache HBase - Wikiwand](http://www.wikiwand.com/en/Apache_HBase)
+[Apache HBase – Apache HBase™ Home](https://hbase.apache.org/)
+[Apache HBase - Wikiwand](https://www.wikiwand.com/en/Apache_HBase)
 implements Google's BigTable with Hadoop and HDFS
 
 [Configuring and deploying HBase [Tutorial] | Packt Hub](https://hub.packtpub.com/configuring-and-deploying-hbase-tutorial/)
@@ -851,8 +851,8 @@ implements Google's BigTable with Hadoop and HDFS
 
 ## Apache Cassandra
 
-[The Apache Cassandra Project](http://cassandra.apache.org/)
-[Apache Cassandra - Wikiwand](http://www.wikiwand.com/en/Apache_Cassandra)
+[The Apache Cassandra Project](https://cassandra.apache.org/)
+[Apache Cassandra - Wikiwand](https://www.wikiwand.com/en/Apache_Cassandra)
 
 [Top 5 reasons to use Apache Cassandra Database | IT Svit Blog](https://itsvit.com/blog/top-5-reasons-use-apache-cassandra-database/)
 
@@ -865,8 +865,8 @@ implements Google's BigTable with Hadoop and HDFS
 
 ## Scylla
 
-[ScyllaDB](http://www.scylladb.com/)
-[Scylla (database) - Wikiwand](<http://www.wikiwand.com/en/Scylla_(database)>)
+[ScyllaDB](https://www.scylladb.com/)
+[Scylla (database) - Wikiwand](<https://www.wikiwand.com/en/Scylla_(database)>)
 Cassandra compatible with higher throughputs and lower latencies
 
 [scylladb/scylla: NoSQL data store using the seastar framework, compatible with Apache Cassandra](https://github.com/scylladb/scylla)
@@ -875,7 +875,7 @@ Cassandra compatible with higher throughputs and lower latencies
 [scylladb/care-pet: Care Pet IoT ScyllaDB example](https://github.com/scylladb/care-pet)
 [Build your First ScyllaDB Application: New Rust, Python & PHP Tutorials - ScyllaDB](https://www.scylladb.com/2023/05/31/build-your-first-scylladb-application-new-rust-python-php-tutorials/)
 
-[Cassandra Compliant ScyllaDB with Dor Laor | Software Engineering Daily](http://softwareengineeringdaily.com/2016/06/28/cassandra-compliant-scylladb-with-dor-laor/)
+[Cassandra Compliant ScyllaDB with Dor Laor | Software Engineering Daily](https://softwareengineeringdaily.com/2016/06/28/cassandra-compliant-scylladb-with-dor-laor/)
 Column store, without join, no atomic transaction (no 2 phase commit, not strongly consistent), schemaful, highly scalable, CQL
 Acknowledge client after reaching quorum in cluster
 Append only, fast write in expense of read
@@ -888,7 +888,7 @@ C++ framework for high-performance server applications on modern hardware
 ## BigTable
 
 [Bigtable - Scalable NoSQL Database Service | Google Cloud](https://cloud.google.com/bigtable/)
-[Bigtable - Wikiwand](http://www.wikiwand.com/en/Bigtable)
+[Bigtable - Wikiwand](https://www.wikiwand.com/en/Bigtable)
 
 [Bigtable: A Distributed Storage System for Structured Data – Google AI](https://ai.google/research/pubs/pub27898)
 
@@ -916,7 +916,7 @@ C++ framework for high-performance server applications on modern hardware
 [In-memory database - Wikiwand](https://www.wikiwand.com/en/In-memory_database)
 [Adding a cache is not as simple as it may seem... - YouTube](https://www.youtube.com/watch?v=bFf-A27Rc9s)
 
-[Lightweight javascript in-memory database: LokiJS](http://techfort.github.io/LokiJS/) Mongo API
+[Lightweight javascript in-memory database: LokiJS](http-agents.md://techfort.github.io/LokiJS/) Mongo API
 [techfort/LokiJS: javascript embeddable / in-memory database](https://github.com/techfort/LokiJS/)
 [LokiJS-Forge/LokiDB: blazing fast, feature-rich in-memory database written in TypeScript](https://github.com/LokiJS-Forge/LokiDB) LokiDB is the official successor of LokiJS, but updated less frequently than LokiJS
 
@@ -927,10 +927,7 @@ C++ framework for high-performance server applications on modern hardware
 [TerminusDB Internals - Part 1: Smaller, Faster, Stronger](https://terminusdb.com/blog/terminusdb-internals)
 [TerminusDB Internals - Part 2: Change is Gonna Come](https://terminusdb.com/blog/terminusdb-internals-2/)
 
-[Galaxy - Parallel Universe](http://www.paralleluniverse.co/galaxy/) in-memory data grid for horizontal scaling
-[SpaceBase - Parallel Universe](http://www.paralleluniverse.co/spacebase/) a real-time spatial database
-
-[node.js - What (in_memory) graph DB if modeling data is focused - Stack Overflow](http://stackoverflow.com/questions/31565386/what-in-memory-graph-db-if-modeling-data-is-focused)
+[node.js - What (in_memory) graph DB if modeling data is focused - Stack Overflow](https://stackoverflow.com/questions/31565386/what-in-memory-graph-db-if-modeling-data-is-focused)
 
 ---
 
@@ -1024,6 +1021,8 @@ The _Standard_ API for interacting with GraphDB.
 
 # Vector Database
 
+> [[datebase-postgresql#pgvector/pgvectorscale]]
+
 [WTF Is a Vector Database: A Beginner's Guide! - DEV Community](https://dev.to/pavanbelagatti/wtf-is-a-vector-database-a-beginners-guide-16p)
 [The Power of Vector Databases For Knowledge Search - YouTube](https://www.youtube.com/watch?v=awIm3rQOBxE)
 [Why are they suddenly so popular? - YouTube](https://www.youtube.com/watch?v=IvyAMw7B39k)
@@ -1050,17 +1049,6 @@ The _Standard_ API for interacting with GraphDB.
 [Vector Database - A Comprehensive Guide | by Navid Rezaei | Towards Data Science](https://towardsdatascience.com/vector-database-a-comprehensive-guide-2b1a3b0a8b9f)
 [Best Vector Database Software in 2023 | G2](https://www.g2.com/categories/vector-database)
 [Vector databases - a look at the AI database market with a comprehensive comparison matrix](https://objectbox.io/vector-database/)
-
-## pgvector/pgvectorscale
-
-[pgvector/pgvector: Open-source vector similarity search for Postgres](https://github.com/pgvector/pgvector)
-
-[timescale/pgvectorscale: A complement to pgvector for high performance, cost efficient vector search on large workloads.](https://github.com/timescale/pgvectorscale)
-[timescale/pgai: A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL](https://github.com/timescale/pgai)
-
-[Vector Databases Are the Wrong Abstraction](https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/)
-
-[The Problem with Vector Databases (and how to fix it) - YouTube](https://www.youtube.com/watch?v=8oTnUtFYAes)
 
 ## Qdrant
 
@@ -1120,7 +1108,7 @@ The _Standard_ API for interacting with GraphDB.
 [NewSQL - Wikiwand](https://www.wikiwand.com/en/NewSQL)
 [NoSQL vs. NewSQL: Choosing the Right Tool - VoltDB](https://www.voltdb.com/blog/2015/04/09/nosql-vs-newsql-choosing-right-tool/)
 
-[NoSQL Is Dead](http://www.infoq.com/presentations/nosql-commonalities)
+[NoSQL Is Dead](https://www.infoq.com/presentations/nosql-commonalities)
 [Thank You for Your Help NoSQL, but We Got It From Here - DZone Database](https://dzone.com/articles/thank-you-for-your-help-nosql-but-we-got-it-from-h)
 
 NewSQL are relational databases that scales easily horizontally
@@ -1139,8 +1127,8 @@ Better scaling strategy than RMDBS
 
 [Jepsen: VoltDB 6.3](https://aphyr.com/posts/331-jepsen-voltdb-6-3)
 
-[VoltDB and In-Memory Databases with John Hugg - Software Engineering Daily](http://softwareengineeringdaily.com/2016/02/23/voltdb-and-in-memory-databases-with-john-hugg/)
-[Episode 199: Michael Stonebraker on Current Developments in Databases : Software Engineering Radio](http://www.se-radio.net/2013/12/episode-199-michael-stonebraker/)
+[VoltDB and In-Memory Databases with John Hugg - Software Engineering Daily](https://softwareengineeringdaily.com/2016/02/23/voltdb-and-in-memory-databases-with-john-hugg/)
+[Episode 199: Michael Stonebraker on Current Developments in Databases : Software Engineering Radio](https://www.se-radio.net/2013/12/episode-199-michael-stonebraker/)
 
 [Intelligent Real-Time Decisions with VoltDB and Apache Kafka](https://embed.vidyard.com/share/t4fPngEM2A3X5e9MY5xZti)
 
@@ -1186,12 +1174,12 @@ Hive long running job, resume interrupted computation
 ## MemSQL
 
 [MemSQL: The Database For Real-Time Applications](https://www.memsql.com/)
-[MemSQL - Wikiwand](http://www.wikiwand.com/en/MemSQL)
+[MemSQL - Wikiwand](https://www.wikiwand.com/en/MemSQL)
 
 ## CockroachDB
 
 [Cockroach Labs](https://www.cockroachlabs.com/)
-[Cockroach Labs - Wikiwand](http://www.wikiwand.com/en/Cockroach_Labs)
+[Cockroach Labs - Wikiwand](https://www.wikiwand.com/en/Cockroach_Labs)
 
 CockroachDB is a cloud-native SQL database for building global, scalable cloud services that survive disasters.
 
@@ -1218,7 +1206,7 @@ CockroachDB is a cloud-native SQL database for building global, scalable cloud s
 [TiDB 社区技术月刊 | TiDB Books](https://tidb.net/book/tidb-monthly/)
 
 [TiDB Operator 1.0 GA: Database Cluster Deployment and Management Made Easy with Kubernetes | TiDB](https://pingcap.com/blog/database-cluster-deployment-and-management-made-easy-with-kubernetes/)
-[How to save time with TiDB | Opensource.com](https://opensource.com/article/19/3/how-save-time-tidb?utm_campaign=intrel)
+[How to save time with TiDB | Opensource.com](https://opensource.com/article/19/3/how-save-time-tidb)
 [5 key differences between MySQL and TiDB | Opensource.com](https://opensource.com/article/18/11/key-differences-between-mysql-and-tidb)
 [Implementing Distributed Transactions the Google Way: Percolator vs. Spanner - The Distributed SQL Blog](https://blog.yugabyte.com/implementing-distributed-transactions-the-google-way-percolator-vs-spanner/)
 
@@ -1277,7 +1265,7 @@ CockroachDB is a cloud-native SQL database for building global, scalable cloud s
 ## OrientDB
 
 [OrientDB - Distributed Graph/Document Multi-Model Database](http://orientdb.com/)
-[OrientDB - Wikiwand](http://www.wikiwand.com/en/OrientDB)
+[OrientDB - Wikiwand](https://www.wikiwand.com/en/OrientDB)
 
 Multi-model database supporting graph, document, key/value, and object models.
 Relationships are managed by graph.
@@ -1288,7 +1276,7 @@ Relationships are managed by graph.
 ## ArangoDB
 
 [ArangoDB - highly available multi-model NoSQL database](https://www.arangodb.com/)
-[ArangoDB - Wikiwand](http://www.wikiwand.com/en/ArangoDB)
+[ArangoDB - Wikiwand](https://www.wikiwand.com/en/ArangoDB)
 Document, Graph, KV
 Supports JavaScript (V8 Engine)
 
@@ -1316,7 +1304,7 @@ multi data model, multi API, multi consistencies database as a service by Micros
 Define a GraphQL schema and it will handle the rest
 distributed ACID document DB
 
-[Fauna is rethinking the database with Evan Weaver, Co-founder and CTO at Fauna (The Changelog #461) |> Changelog](https://changelog.com/podcast/461)
+[Fauna is rethinking the database with Evan Weaver, Co-founder and CTO at Fauna (Changelog Interviews #461)](https://changelog.com/podcast/461)
 [FaunaDB Basics - The Database of your Dreams - YouTube](https://www.youtube.com/watch?v=2CipVwISumA)
 
 ---

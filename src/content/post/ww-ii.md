@@ -2,14 +2,14 @@
 title: World War II
 description: ""
 created: 2015-06-07
-updated: 2025-02-04
+updated: 2025-07-07
 tags:
   - history
   - world-war
 ---
 
 [第二次世界大战 - Wikiwand](https://www.wikiwand.com/zh/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98)
-[World War II - Wikiwand](http://www.wikiwand.com/en/World_War_II)
+[World War II - Wikiwand](https://www.wikiwand.com/en/World_War_II)
 
 **_Allies_** vs **_Axis_**
 [Modern History of World: What are some cool/unusual facts about soldiers in WWI and WWII? - Quora](https://www.quora.com/Modern-History-of-World-What-are-some-cool-unusual-facts-about-soldiers-in-WWI-and-WWII)
@@ -128,7 +128,7 @@ U2511, first type 21 electric U Boats, manufactured in early 1945.
 
 Manhattan Project was the secret project to develop atomic (fission) bomb to end the war.
 
-[Manhattan Project - Wikiwand](http://www.wikiwand.com/en/Manhattan_Project)
+[Manhattan Project - Wikiwand](https://www.wikiwand.com/en/Manhattan_Project)
 [Manhattan Project Facts, information, pictures | Encyclopedia.com articles about Manhattan Project](http://www.encyclopedia.com/topic/Manhattan_Project.aspx)
 [How the Manhattan Project Worked | HowStuffWorks](http://science.howstuffworks.com/manhattan-project.htm/printable)
 [TechStuff Takes Manhattan (Project) - TechStuff (podcast)](https://player.fm/series/techstuff/techstuff-takes-manhattan-project)

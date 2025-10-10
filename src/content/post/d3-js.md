@@ -2,7 +2,7 @@
 title: d3.js
 description: ""
 created: 2016-04-08
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - d3-js
   - web
@@ -11,7 +11,7 @@ tags:
 [D3.js - Data-Driven Documents](https://d3js.org/)
 
 [Popular Blocks - bl.ocks.org](https://bl.ocks.org/)
-[mbostock’s blocks](http://bl.ocks.org/mbostock)
+[mbostock’s blocks](https://bl.ocks.org/mbostock)
 
 [wbkd/awesome-d3: A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
 

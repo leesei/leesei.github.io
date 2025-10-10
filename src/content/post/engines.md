@@ -2,13 +2,13 @@
 title: Engines
 description: ""
 created: 2015-09-22
-updated: 2025-06-29
+updated: 2025-09-14
 tags:
   - automobile
   - engines
 ---
 
-[Engine - Wikiwand](http://www.wikiwand.com/en/Engine) a machine that converts one form of energy to mechanical energy
+[Engine - Wikiwand](https://www.wikiwand.com/en/Engine) a machine that converts one form of energy to mechanical energy
 [EVERY ENGINE SENSOR EXPLAINED - MAF, MAP, IAT, TPS, 02, NOx, EGT - How it works, location, OBD2 code - YouTube](https://www.youtube.com/watch?v=dK4mb1yS0dY)
 
 [Engines | HowStuffWorks](http://auto.howstuffworks.com/car-engine-information-channel.htm)
@@ -54,17 +54,17 @@ Heat difference will create pressure difference in the sealed chamber, this turn
 
 [How Car Engines Work | HowStuffWorks](https://auto.howstuffworks.com/engine.htm)
 
-[External combustion engine - Wikiwand](http://www.wikiwand.com/en/External_combustion_engine)
-[Internal combustion engine - Wikiwand](http://www.wikiwand.com/en/Internal_combustion_engine)
+[External combustion engine - Wikiwand](https://www.wikiwand.com/en/External_combustion_engine)
+[Internal combustion engine - Wikiwand](https://www.wikiwand.com/en/Internal_combustion_engine)
 
-[Two-stroke engine - Wikiwand](http://www.wikiwand.com/en/Two-stroke_engine)
+[Two-stroke engine - Wikiwand](https://www.wikiwand.com/en/Two-stroke_engine)
 [Marine Diesel Two Stroke Engine - How it Works! - YouTube](https://www.youtube.com/watch?v=IM8rxp8qB8k)
 used in the largest diesel engine
 
 - can burn low grade fuel
 - low-speed, high torque by default, no need for reduction gear
 
-[Four-stroke engine - Wikiwand](http://www.wikiwand.com/en/Four-stroke_engine)
+[Four-stroke engine - Wikiwand](https://www.wikiwand.com/en/Four-stroke_engine)
 
 1. Intake stroke (suck)
 2. Compression stroke (squeeze)
@@ -281,11 +281,16 @@ Jet engines has been turbo normalizing for ages to bring the air density back to
 
 ### Gas Turbine
 
-[Turbine - Wikiwand](http://www.wikiwand.com/en/Turbine)
+[Turbine - Wikiwand](https://www.wikiwand.com/en/Turbine)
 
 [Gas turbine - Wikiwand](https://www.wikiwand.com/en/Gas_turbine)
 [How Gas Turbine Engines Work | HowStuffWorks](http://science.howstuffworks.com/transport/flight/modern/turbine.htm)
 [Types of Gas Turbines](https://www.grc.nasa.gov/www/k-12/airplane/trbtyp.html)
+
+渦噴
+渦軸
+渦扇
+渦槳
 
 ### Jet Engine
 

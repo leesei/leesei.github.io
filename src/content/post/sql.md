@@ -2,7 +2,7 @@
 title: SQL
 description: On the Query Language
 created: 2017-06-02
-updated: 2025-06-24
+updated: 2025-09-23
 tags:
   - comp/lang
   - sql
@@ -66,7 +66,7 @@ Low level: Database Driver
 Middle Level: Query Builder
 High Level: ORM
 
-[What ORMs have taught me: just learn SQL](https://wozniak.ca/blog/2014/08/03/1/index.html?utm_source=tuicool&amp%3Butm_medium=referral)
+[What ORMs have taught me: just learn SQL](https://wozniak.ca/blog/2014/08/03/1/index.html)
 [DONT USE AN ORM | Prime Reacts - YouTube](https://www.youtube.com/watch?v=bpGvVI7NM_k)
 [The Only Database Abstraction You Need | Prime Reacts - YouTube](https://www.youtube.com/watch?v=nWchov5Do-o)
 
@@ -131,13 +131,11 @@ inner join, outer join
 
 ## Clients/IDE
 
-[[sqlite#GUI Client]]
+> prefer multi-db client [[database#UI Client]]
+> [[sqlite#GUI Client]]
 
 [Online SQL Editor](https://www.programiz.com/sql/online-compiler/)
 [SQL OnLine IDE](https://sqliteonline.com/)
-
-[DbGate | Open Source (no)SQL Database Client](https://dbgate.org/) ❗!important
-[dbgate/dbgate: Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application](https://github.com/dbgate/dbgate)
 
 [DBeaver | Free Universal Database Tool](https://dbeaver.io/)
 [dbeaver/dbeaver: Free universal database tool and SQL client](https://github.com/dbeaver/dbeaver)
@@ -154,6 +152,9 @@ inner join, outer join
 
 [tora-tool/tora: TOra is an open source SQL IDE for Oracle, MySQL and PostgreSQL dbs](https://github.com/tora-tool/tora) 😴inactive
 [Home · tora-tool/tora Wiki](https://github.com/tora-tool/tora/wiki)
+
+[drawDB | Online database diagram editor and SQL generator](https://www.drawdb.app/)
+[drawdb-io/drawdb: Free, simple, and intuitive online database diagram editor and SQL generator.](https://github.com/drawdb-io/drawdb)
 
 [BlocklySQL Demo: Generating SQL Code with Blocks](https://www.dbinf.informatik.uni-wuerzburg.de/google-blockly-4efa0da/sql/index.html)
 [nicolaipoehner/blocklysql: The web-based visual programming editor with SQL blocks execute database queries.](https://github.com/nicolaipoehner/blocklysql) 😴inactive

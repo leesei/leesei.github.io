@@ -2,7 +2,7 @@
 title: PlayStation 4 Emulator
 description: ""
 created: 2024-08-20
-updated: 2025-04-16
+updated: 2025-07-07
 tags:
   - emulator
   - games

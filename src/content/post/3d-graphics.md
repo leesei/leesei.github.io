@@ -2,7 +2,7 @@
 title: 3D Graphics
 description: ""
 created: 2019-09-10
-updated: 2025-04-17
+updated: 2025-09-30
 tags:
   - app
   - graphics
@@ -29,6 +29,8 @@ tags:
 ## CAD
 
 [OpenSCAD - The Programmers Solid 3D CAD Modeller](https://www.openscad.org/)
+[Designing 3D Printable Mechanisms in OpenSCAD | by Uri Shaked | Medium](https://urish.medium.com/designing-3d-printable-mechanisms-in-openscad-5838dcb65b39)
+
 [Tinkercad | Create 3D digital designs with online CAD](https://www.tinkercad.com/#/)
 [FreeCAD: Your Own 3D Parametric Modeler](https://www.freecadweb.org/)
 [Sign up | Onshape Cloud Product Development Software](https://www.onshape.com/en/sign-up)
@@ -123,6 +125,8 @@ MCRT: Monte-Carlo Ray Tracer
 [Pixar in a Box | Computing | Khan Academy](https://www.khanacademy.org/computing/pixar)
 [The Secrets of Photorealism - YouTube](https://www.youtube.com/watch?v=Z8AAX-ENWvQ)
 
+[How Incompetent Graphics Create Fake Realism & Why Your Brain Hates it. - YouTube](https://www.youtube.com/watch?v=qZtNU-4yqtI)
+
 [Photorealism Series - YouTube](https://www.youtube.com/playlist?list=PLjEaoINr3zgFq73es7U21vOXk_wcn3eMg)
 [Photorealism Explained - YouTube](https://www.youtube.com/watch?v=R1-Ef54uTeU) ❗!important
 
@@ -150,6 +154,7 @@ Two Minute Papers
 [Ray Tracing Gems](https://www.realtimerendering.com/raytracinggems/)
 [Call for Participation: Ray Tracing Gems II](https://www.realtimerendering.com/raytracinggems/rtg2/index.html)
 
+[Everybody\* Hates Ray Tracing - YouTube](https://www.youtube.com/watch?v=XrMeOv7eSmY)
 [Raytracing explained: Nvidia, Microsoft lead the way in revolutionizing gaming graphics – Ars Technica](https://arstechnica.com/gadgets/2018/08/microsoft-announces-the-next-step-in-gaming-graphics-directx-raytracing/amp/)
 [NVIDIA’s Ray Tracer - Finally, Real Time! ☀️ - YouTube](https://www.youtube.com/watch?v=W1UDzxtrhes)
 [Control PC: Ray Tracing's Killer App? Plus: Full Xbox One X vs PC Comparison! - YouTube](https://www.youtube.com/watch?v=blbu0g9DAGA)
@@ -162,21 +167,25 @@ Two Minute Papers
 
 Path tracing:
 Global illumination = Direct illumination + Indirect illumination
-Many shadow rays have to be sent to other objects in the scene for indirect illumination
+Many shadow rays, casted from their original light source, are sent to other objects in the scene for indirect illumination
 The other objects will again calculate its GI acts as a secondary light source to the original object
 
 Screen space ray tracing:
-Using the rasterized image, depth map, normal map of objects rendered in the scene for ray tracing
+Using the rasterized image, depth map, normal map of objects rendered in the scene for ray tracing starting from the camera to the visible objects
 This may not be as accurate as path tracing as object outside the screen space will not be considered
 
 BVH: Bounding Volume Hierarchy
 Built a binary tree structure to store the triangles in the scene, to quickly find the intersection of a ray with the scene
 
+[What's the Difference Between Ray Tracing, Rasterization? | NVIDIA Blog](https://blogs.nvidia.com/blog/whats-difference-between-ray-tracing-rasterization/)
 [Forget Old School Ray Tracing, NVIDIA Demos Stunning Real-Time Path Tracing](https://hothardware.com/news/nvidia-real-time-path-tracing-gtc-2022)
 [What Is Path Tracing? | NVIDIA Blog](https://blogs.nvidia.com/blog/2022/03/23/what-is-path-tracing/)
 [Can you REALLY SEE the difference? Raster vs Ray Tracing vs Path Tracing - YouTube](https://www.youtube.com/watch?v=ZFsz0O93c88)
+[Nvidia Says Real-Time Path Tracing Is On the Horizon, But What Is It? - GameSpot](https://www.gamespot.com/articles/nvidia-says-real-time-path-tracing-is-on-the-horizon-but-what-is-it/1100-6502837/)
+[Ray Tracing Hasn't Yet Lived Up To Its Potential - GameSpot](https://www.gamespot.com/articles/ray-tracing-hasnt-yet-lived-up-to-its-potential/1100-6534526/)
 
 [Lewis Stuart - YouTube](https://www.youtube.com/playlist?list=PLzH6n4zXuckqtwDWYeHDlRx9PnnotRB-o) Computerphile
+[RAY TRACING and other RENDERING METHODS - YouTube](https://www.youtube.com/watch?v=LAsnQoBUG4Q)
 [What's the Deal With Raytracing? - YouTube](https://www.youtube.com/watch?v=lyfTPG-dwOE)
 [NVIDIA RTX In 2020 - STILL Not Worth It? - YouTube](https://www.youtube.com/watch?v=QETexVf8Gz8)
 

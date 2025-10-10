@@ -2,7 +2,7 @@
 title: Quantum Computer
 description: ""
 created: 2015-12-11
-updated: 2025-01-09
+updated: 2025-09-25
 tags:
   - comp/hardware
   - science
@@ -52,6 +52,7 @@ tags:
 
 3blue1brown
 [But what is quantum computing? (Grover's Algorithm) - YouTube](https://www.youtube.com/watch?v=RQWpF2Gb-gU) Grover's Algorithm uses QC to verify a solution, good for solving NP problems
+[Where my explanation of Grover’s algorithm failed - YouTube](https://www.youtube.com/watch?v=Dlsa9EBKDGI)
 
 [Quantum computing in the 21st Century – with David Jamieson - YouTube](https://www.youtube.com/watch?v=zxml8UQSwC0)
 [Quantum Computers Could Solve These Problems - YouTube](https://www.youtube.com/watch?v=IhS6ecYZFdQ)

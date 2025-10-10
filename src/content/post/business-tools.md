@@ -2,7 +2,7 @@
 title: Business Tools
 description: ""
 created: 2018-10-27
-updated: 2025-04-05
+updated: 2025-09-23
 tags:
   - business
 ---
@@ -45,6 +45,9 @@ tags:
 
 [TasksBoard | Desktop app for Google Tasks](https://tasksboard.app/)
 
+[Kanboard](https://kanboard.org/)
+[kanboard/kanboard: Kanban project management software](https://github.com/kanboard/kanboard)
+
 [React Admin](https://marmelab.com/react-admin/)
 [React-admin - Documentation](https://marmelab.com/react-admin/index.html)
 [marmelab/react-admin: A frontend framework for building admin SPAs on top of REST services, using React and Material Design](https://github.com/marmelab/react-admin) 2.x, [`admin-on-rest` (1.x)](https://github.com/marmelab/admin-on-rest) is in maintenance mode
@@ -59,7 +62,13 @@ tags:
 
 ## Invoicing
 
-[Free Open-Source Invoices, Expenses & Time-Tracking | Invoice Ninja](https://www.invoiceninja.com/)
+[Invoice Ninja - Free Invoicing Software for Small Businesses | Invoice Ninja](https://invoiceninja.com/)
+[invoiceninja/invoiceninja: A source-available invoice, quote, project and time-tracking app built with Laravel](https://github.com/invoiceninja/invoiceninja?tab=License-1-ov-file)
+[invoiceninja/invoiceninja-debian - Docker Image | Docker Hub](https://hub.docker.com/r/invoiceninja/invoiceninja-debian)
+[invoiceninja/dockerfiles: Docker files for Invoice Ninja](https://github.com/invoiceninja/dockerfiles)
+
+[SolidInvoice | Free Online Invoicing Software for Small Business & Freelancers](https://solidinvoice.co/) Docker self host
+[SolidInvoice Documentation — SolidInvoice documentation](https://docs.solidinvoice.co/en/latest/)
 
 [Crater Invoice - Financial OS as a Service](https://craterapp.com/)
 [crater-invoice/crater: Open Source Invoicing Solution for Individuals & Businesses](https://github.com/crater-invoice/crater)
@@ -152,9 +161,16 @@ tags:
 
 [Budibase | Build internal tools in minutes, the easy way](https://budibase.com/)
 
+### n8n
+
 [n8n.io - Free and Open Workflow Automation Tool](https://n8n.io/)
 [n8n-io/n8n: Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.](https://github.com/n8n-io/n8n)
 [n8n - an open source, self hosted info transform & workflow automation tool w/ drag and drop ease. - YouTube](https://www.youtube.com/watch?v=lpRsqiBc2JQ)
+
+[AI Agent integrations | Workflow automation with n8n](https://n8n.io/integrations/agent/)
+[AI Agents: From Theory to Practice (+Free Templates) – n8n Blog](https://blog.n8n.io/ai-agents/)
+[AI-Powered Feature Engineering with n8n: Scaling Data Science Intelligence - KDnuggets](https://www.kdnuggets.com/ai-powered-feature-engineering-with-n8n-scaling-data-science-intelligence)
+[AI 狂潮下的求生指南：為何只懂 ChatGPT 讓你離失業更近一步，n8n AI Agent 才是你的救命稻草 - YouTube](https://www.youtube.com/watch?v=rgU0mbVpg0k)
 [我找到了最好用的AI工作流工具 看完就懂 - YouTube](https://www.youtube.com/watch?v=31fHVMs6PVE)
 
 ## SMS Reception

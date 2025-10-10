@@ -2,7 +2,7 @@
 title: Shell Tools
 description: ""
 created: 2015-01-14
-updated: 2025-06-27
+updated: 2025-09-23
 tags:
   - app
   - cpio
@@ -205,7 +205,7 @@ tar --listed-incremental=tarfiles.list cvf images.1.tar images/ > tar.log
 
 ## grep
 
-[grep - Wikiwand](http://www.wikiwand.com/en/Grep)
+[grep - Wikiwand](https://www.wikiwand.com/en/Grep)
 [Grep](http://www.grymoire.com/Unix/Grep.html)
 [grep is a beautiful tool](http://www.eriwen.com/tools/grep-is-a-beautiful-tool/)
 [Cover - GNU GREP and RIPGREP](https://learnbyexample.github.io/learn_gnugrep_ripgrep/)
@@ -240,16 +240,16 @@ cat a b b | sort | uniq -u > c   # c is set difference a \ b
 
 ## find
 
-[grep - Wikiwand](http://www.wikiwand.com/en/Grep)
+[grep - Wikiwand](https://www.wikiwand.com/en/Grep)
 [Find](http://www.grymoire.com/Unix/Find.html)
 [Find is a beautiful tool](http://www.eriwen.com/productivity/find-is-a-beautiful-tool/)
 [Mommy, I found it! — 15 Practical Linux Find Command Examples](http://www.thegeekstuff.com/2009/03/15-practical-linux-find-command-examples/)
 [Unix Find Tutorial](http://www.softpanorama.org/Tools/Find/index.shtml)
 [UsingFind - Greg's Wiki](http://mywiki.wooledge.org/UsingFind)
 
-[Capturing output of find . -print0 into a bash array - Stack Overflow](http://stackoverflow.com/questions/1116992/capturing-output-of-find-print0-into-a-bash-array)
-[linux - exclude directory from find . command - Stack Overflow](http://stackoverflow.com/questions/4210042/exclude-directory-from-find-command/24565095#24565095)
-[regex - How to use '-prune' option of 'find' in sh? - Stack Overflow](http://stackoverflow.com/questions/1489277/how-to-use-prune-option-of-find-in-sh/1489405#1489405)
+[Capturing output of find . -print0 into a bash array - Stack Overflow](https://stackoverflow.com/questions/1116992/capturing-output-of-find-print0-into-a-bash-array)
+[linux - exclude directory from find . command - Stack Overflow](https://stackoverflow.com/questions/4210042/exclude-directory-from-find-command/24565095#24565095)
+[regex - How to use '-prune' option of 'find' in sh? - Stack Overflow](https://stackoverflow.com/questions/1489277/how-to-use-prune-option-of-find-in-sh/1489405#1489405)
 [How to rsync files by date or by size](https://coolaj86.com/articles/how-to-rsync-files-by-date-or-by-size.html) (actually `find` trickery)
 
 ```sh
@@ -346,7 +346,7 @@ Pipe with other tools to provide fuzzy filtering interface
 [rsync - man page](https://www.mankier.com/1/rsync)
 [又一枚瑞士军刀：rsync – Canvas](http://cinvro.com/post/rsync/)
 [Replace Storage Drives with Rsync in Arch Linux | DominicMDominicM](http://dominicm.com/replace-storage-drives-rsync-arch-linux/)
-[How to use advanced rsync for large Linux backups | Opensource.com](https://opensource.com/article/19/5/advanced-rsync?utm_campaign=intrel)
+[How to use advanced rsync for large Linux backups | Opensource.com](https://opensource.com/article/19/5/advanced-rsync)
 
 ```sh
 rsync -avihXP --info=progress2 --stats <SRC> <DEST>
@@ -394,12 +394,12 @@ rename 's/$/.txt/' *
 
 ## sort
 
-[sort (Unix) - Wikiwand](<http://www.wikiwand.com/en/Sort_(Unix)>)
+[sort (Unix) - Wikiwand](<https://www.wikiwand.com/en/Sort_(Unix)>)
 [sort - man page](https://www.mankier.com/1/sort)
 
 ## xargs
 
-[xargs - Wikiwand](http://www.wikiwand.com/en/Xargs)
+[xargs - Wikiwand](https://www.wikiwand.com/en/Xargs)
 [xargs - man page](https://www.mankier.com/1/xargs)
 [Xargs - Charles Martin Reid](http://charlesmartinreid.com/wiki/Xargs)
 [Things you (probably) didn't know about xargs](http://offbytwo.com/2011/06/26/things-you-didnt-know-about-xargs.html)
@@ -666,13 +666,8 @@ fortune | cowsay -f stegosaurus
 [jqterm: jq as a service](https://jqterm.com/?query=.)
 [jq play](https://jqplay.org/)
 
-[jiq - JSON Incremental jq-filterer](https://jq.alhur.es/jiq/)
-[fiatjaf/jiq: jid on jq - interactive JSON query tool using jq expressions](https://github.com/fiatjaf/jiq)
-
 [itchyny/gojq: Pure Go implementation of jq](https://github.com/itchyny/gojq)
 [noahgorstein/jqp: A TUI playground to experiment with jq](https://github.com/noahgorstein/jqp)
-
-[joelpurra/jqnpm: A package manager built for the command-line JSON processor jq.](https://github.com/joelpurra/jqnpm) 😴inactive
 
 [jq/builtin.jq at master · stedolan/jq](https://github.com/stedolan/jq/blob/master/src/builtin.jq)
 [FAQ · stedolan/jq Wiki](https://github.com/stedolan/jq/wiki/FAQ#numbers)
@@ -684,6 +679,7 @@ fortune | cowsay -f stegosaurus
 [jq Cheet Sheet](https://gist.github.com/olih/f7437fb6962fb3ee9fe95bda8d2c8fa4)
 [jq recipes](https://remysharp.com/drafts/jq-recipes)
 [rjz/jq-tutorial: Interactive exercises for learning jq](https://github.com/rjz/jq-tutorial)
+[JQ examples](https://www.devtoolsdaily.com/jq/examples/)
 
 [JSON Tools: Jq - Hyperpolyglot](http://hyperpolyglot.org/json)
 [jq Primer: Munging JSON Data - Andrew Gibiansky](http://andrew.gibiansky.com/blog/command-line/jq-primer/)
@@ -693,6 +689,10 @@ fortune | cowsay -f stegosaurus
 [Parsing JSON with jq](http://www.compciv.org/recipes/cli/jq-for-parsing-json/)
 [Wrestling JSON with jq by Arjan van der Gaag](http://arjanvandergaag.nl/blog/wrestling-json-with-jq.html)
 [The BEST CLI Tool - YouTube](https://www.youtube.com/watch?v=n8sOmEe2SDg)
+
+[joelpurra/jqnpm: A package manager built for the command-line JSON processor jq.](https://github.com/joelpurra/jqnpm) 😴inactive
+[jiq - JSON Incremental jq-filterer](https://jq.alhur.es/jiq/) 😴inactive
+[fiatjaf/jiq: jid on jq - interactive JSON query tool using jq expressions](https://github.com/fiatjaf/jiq)
 
 ```sh
 # pick field from array

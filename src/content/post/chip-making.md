@@ -2,7 +2,7 @@
 title: Chip Making
 description: ""
 created: 2023-06-13
-updated: 2025-07-06
+updated: 2025-09-03
 tags:
   - comp/hardware
   - manufacturing
@@ -112,6 +112,7 @@ tags:
 [EUV 光刻太贵了：替代技术正加快速度转正-快科技-科技改变生活](https://m.mydrivers.com/newsview/870055.html?ref=https%3A//www.google.com/)
 [撼動晶片業！日本推出便宜EUV！？台積電不用當盤子了！？極紫外光EUV大解密！ - YouTube](https://www.youtube.com/watch?v=3_oFWrsfvDs)
 [EUV With Fewer Mirrors? - YouTube](https://www.youtube.com/watch?v=hzsWO-juoQQ)
+[How does EUV Lithography Work? Inside the Most Advanced Machine Ever Made 🛠️⚙️🤯 - YouTube](https://www.youtube.com/watch?v=B2482h_TNwg)
 
 Atomic Layer Deposition (ALD) is used to deposit thin films on the wafer.
 [2奈米以下要靠它？秒懂最強薄膜技術ALD原子層沉積！用超薄材料造出最小電晶體 - YouTube](https://www.youtube.com/watch?v=6QxFJHPhD88)

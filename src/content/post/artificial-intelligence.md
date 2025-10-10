@@ -2,7 +2,7 @@
 title: Artificial Intelligence
 description: ""
 created: 2015-04-14
-updated: 2025-06-20
+updated: 2025-09-24
 tags:
   - ai
   - artificial-intelligence
@@ -32,8 +32,12 @@ tags:
 [Free Courses That Are Actually Free: AI & ML Edition - KDnuggets](https://www.kdnuggets.com/free-courses-that-are-actually-free-ai-ml-edition)
 [The ultimate guide to the state of today’s A.I. – Fortune](https://fortune.com/2020/01/21/the-ultimate-guide-to-the-state-of-todays-a-i/amp/)
 [State Of AI And Machine Learning In 2019](https://www.forbes.com/sites/louiscolumbus/2019/09/08/state-of-ai-and-machine-learning-in-2019/)
-[Machine Learning Terms You Can’t Avoid | by Richmond Alake | Towards Data Science](https://towardsdatascience.com/machine-learning-terms-you-cant-avoid-3528b2a41489)
 [What Machine Learning Trends You Should Watch In 2020](https://www.forbes.com/sites/quora/2020/03/23/what-machine-learning-trends-you-should-watch-in-2020/?sh=620bad2439fc)
+[The State of AI 2025 - Bessemer Venture Partners](https://www.bvp.com/atlas/the-state-of-ai-2025)
+
+[Machine Learning Terms You Can’t Avoid | by Richmond Alake | Towards Data Science](https://towardsdatascience.com/machine-learning-terms-you-cant-avoid-3528b2a41489)
+[10 Essential Machine Learning Key Terms Explained - MachineLearningMastery.com](https://machinelearningmastery.com/10-essential-machine-learning-key-terms-explained/)
+[10 Critical AI Concepts Explained in 5 Minutes - KDnuggets](https://www.kdnuggets.com/10-critical-ai-concepts-explained-in-5-minutes)
 
 [When not to use machine learning or AI | by Cassie Kozyrkov | Towards Data Science](https://towardsdatascience.com/when-not-to-use-machine-learning-or-ai-8185650f6a29)
 [How to tell if AI or machine learning is real | InfoWorld](http://www.infoworld.com/article/3199295/artificial-intelligence/primer-how-to-tell-if-ai-or-machine-learning-is-real.html)
@@ -239,7 +243,7 @@ are ANI (N for narrow), the supposed "AI" is AGI (G for general)
 ## MLOps
 
 [Intro to MLOps: ML Technical Debt | by Vincent Tatan | Towards Data Science](https://towardsdatascience.com/intro-to-mlops-ml-technical-debt-9d3d6107cd95)
-[Social AI with Hugging Face featuring Clément Delangue from Hugging Face (Practical AI #35) |> Changelog](https://changelog.com/practicalai/35)
+[Practical AI | Social AI with Hugging Face](https://practicalai.fm/35)
 
 ## Ethics
 
@@ -513,6 +517,9 @@ Google’s sophisticated WaveNet audio processing neural network, and because it
 [文字轉語音 Archives - 電腦王阿達](https://www.kocpc.com.tw/archives/tag/%e6%96%87%e5%ad%97%e8%bd%89%e8%aa%9e%e9%9f%b3)
 [程式整合 Azure 文字轉語音服務 - PowerShell / C# 範例-黑暗執行緒](https://blog.darkthread.net/blog/azure-tts-example/)
 
+[nari-labs/dia: A TTS model capable of generating ultra-realistic dialogue in one pass.](https://github.com/nari-labs/dia/)
+[A new, open source text-to-speech model called Dia has arrived to challenge ElevenLabs, OpenAI and more](https://venturebeat.com/ai/a-new-open-source-text-to-speech-model-called-dia-has-arrived-to-challenge-elevenlabs-openai-and-more)
+
 [Web Speech API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 [Beautiful React Hooks docs](https://antonioru.github.io/beautiful-react-hooks/#/useSpeechSynthesis)
 [mozilla/TTS: :robot: Deep learning for Text to Speech (Discussion forum: https://discourse.mozilla.org/c/tts)](https://github.com/mozilla/TTS)
@@ -596,8 +603,8 @@ Counterfactual World Modeling
 
 [EraseNet: End-to-End Text Removal in the Wild | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/9180003)
 
+[试卷擦除 - 在线擦除试卷手写痕迹 - 拍试卷](https://www.paishijuan.com/shijuancachu/) PC client has "lifetime" subscription which is quite cheap
 [去手写-帮小忙，腾讯QQ浏览器在线工具箱](https://tool.browser.qq.com/handwriting_erasure.html)
-[试卷擦除 - 在线擦除试卷手写痕迹 - 拍试卷](https://www.paishijuan.com/shijuancachu/)
 
 [产品文档-智慧学习服务](https://ai.youdao.com/DOCSIRMA/html/learn/price/sjsxtcc/index.html)
 

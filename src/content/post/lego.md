@@ -2,7 +2,7 @@
 title: LEGO
 description: ""
 created: 2016-06-12
-updated: 2025-05-18
+updated: 2025-07-07
 tags:
   - lego
   - toys

@@ -2,7 +2,7 @@
 title: Vector Graphics
 description: ""
 created: 2015-05-20
-updated: 2025-07-06
+updated: 2025-07-07
 tags:
   - app
   - graphics
@@ -19,7 +19,7 @@ Selection Tool
 
 ## Bézier Curve
 
-[Bézier curve - Wikiwand](http://www.wikiwand.com/en/Bézier_curve)
+[Bézier curve - Wikiwand](https://www.wikiwand.com/en/Bézier_curve)
 
 [The Bézier Game](https://bezier.method.ac/)
 [Animated Bézier Curves - Jason Davies](https://www.jasondavies.com/animated-bezier/)

@@ -2,7 +2,7 @@
 title: Data Structures and Algorithms
 description: ""
 created: 2023-04-14
-updated: 2025-02-15
+updated: 2025-07-07
 tags:
   - comp/lang
   - learning
@@ -41,8 +41,8 @@ tags:
 [0 FPS – Mostly geometry](https://0fps.net/)
 [Notes on algorithms - DEV Community 👩‍💻👨‍💻](https://dev.to/hexangel616/notes-on-algorithms-36pi)
 
-[Think Data Structures – Green Tea Press](http://greenteapress.com/wp/think-data-structures/)
-[Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures](http://www.openbookproject.net/books/pythonds/)
+[Think Data Structures – Green Tea Press](https://greenteapress.com/wp/think-data-structures/)
+[Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures](https://www.openbookproject.net/books/pythonds/)
 
 [10 Key Data Structures We Use Every Day - YouTube](https://www.youtube.com/watch?v=ouipSd_5ivQ)
 [Before Your Next Interview Watch This - YouTube](https://www.youtube.com/watch?v=RcvQagxK_9w)
@@ -53,11 +53,11 @@ tags:
 [Is there an algorithm to win every (3x3) Tic-Tac-Toe game? - Quora](https://www.quora.com/Is-there-an-algorithm-to-win-every-3x3-Tic-Tac-Toe-game)
 [Tic Tac Toe: Understanding the Minimax Algorithm — Never Stop Building](https://www.neverstopbuilding.com/blog/2013/12/13/tic-tac-toe-understanding-the-minimax-algorithm13/)
 
-[Fast inverse square root - Wikiwand](http://www.wikiwand.com/en/Fast_inverse_square_root)
+[Fast inverse square root - Wikiwand](https://www.wikiwand.com/en/Fast_inverse_square_root)
 [Beyond3D - Origin of Quake3's Fast InvSqrt()](https://www.beyond3d.com/content/articles/8/)
 [Fast Inverse Square Root — A Quake III Algorithm - YouTube](https://www.youtube.com/watch?v=p8u_k2LIZyo)
 
-[Fizz Buzz Test](http://wiki.c2.com/?FizzBuzzTest)
+[Fizz Buzz Test](https://wiki.c2.com/?FizzBuzzTest)
 
 [research!rsc: Lock-Free Bugs](https://research.swtch.com/lockfree)
 
@@ -150,8 +150,8 @@ tags:
 [Automata & Python (Long Version) - Computerphile - YouTube](https://www.youtube.com/watch?v=oHVHkkah3MY)
 [Non-Deterministic Automata - Computerphile - YouTube](https://www.youtube.com/watch?v=NhWDVqR4tZc)
 
-[Ragel State Machine Compiler](http://www.colm.net/open-source/ragel/)
-[State Machines & Tools--Quantum Leaps](http://www.state-machine.com/)
+[Ragel State Machine Compiler](https://www.colm.net/open-source/ragel/)
+[QM Model-Based Design Tool](https://www.state-machine.com/products/qm)
 
 [SCXML - Wikiwand](https://www.wikiwand.com/en/SCXML)
 [State Chart XML (SCXML): State Machine Notation for Control Abstraction](https://www.w3.org/TR/scxml/)
@@ -164,8 +164,8 @@ tags:
 [Automat: Self-service finite-state machines for the programmer on the go. — automat documentation](https://automat.readthedocs.io/en/latest/)
 [glyph/automat: Self-service finite-state machines for the programmer on the go.](https://github.com/glyph/automat)
 
-[Coding State Machines in C and C++ | Embedded Systems Experts](http://www.barrgroup.com/Embedded-Systems/How-To/Coding-State-Machines)
-[c - state machines tutorials - Stack Overflow](http://stackoverflow.com/questions/1371460/state-machines-tutorials)
+[How to Code a State Machine in C or C++](https://barrgroup.com/blog/how-code-state-machine-c-or-c)
+[c - state machines tutorials - Stack Overflow](https://stackoverflow.com/questions/1371460/state-machines-tutorials)
 
 ## Greedy Algorithms
 
@@ -228,12 +228,12 @@ Kuvina Saydaki
 
 [Sorting for Humans : Natural Sort Order](https://blog.codinghorror.com/sorting-for-humans-natural-sort-order/)
 
-[DaveKoelle.com | The Alphanum Algorithm](http://www.davekoelle.com/alphanum.html)
+[Natural sort order - Wikiwand](https://www.wikiwand.com/en/articles/Natural_sort_order)
+[my-flow/alphanum: The Alphanum Algorithm](https://github.com/my-flow/alphanum)
 [c# - Use own IComparer<T> with Linq OrderBy - Stack Overflow](https://stackoverflow.com/questions/985657/use-own-icomparert-with-linq-orderby)
 
 ## Hash table
 
-[Hashtable Naïveté – CrashedTestDummy](http://www.crashedtestdummy.com/?p=54)
 [C++ STL 之哈希表 | unordered_map | 「浮生若梦」 - sczyh30's blog](https://www.sczyh30.com/posts/C-C/cpp-stl-hashmap/)
 [How does C++ STL unordered_map resolve collisions? - Stack Overflow](https://stackoverflow.com/questions/21518704/how-does-c-stl-unordered-map-resolve-collisions)
 [Class template unordered_map - boost](https://www.boost.org/doc/libs/release/doc/html/boost/unordered_map.html)
@@ -245,13 +245,13 @@ Kuvina Saydaki
 
 ## Random Number Generator
 
-[Random number generation - Wikiwand](http://www.wikiwand.com/en/Random_number_generation)
-[Diehard tests - Wikiwand](http://www.wikiwand.com/en/Diehard_tests)
-[Empirical Testing of Random Number Generators](http://simul.iro.umontreal.ca/testu01/tu01.html)
-[Birthday problem - Wikiwand](http://www.wikiwand.com/en/Birthday_problem)
+[Random number generation - Wikiwand](https://www.wikiwand.com/en/Random_number_generation)
+[Diehard tests - Wikiwand](https://www.wikiwand.com/en/Diehard_tests)
+[Empirical Testing of Random Number Generators](https://simul.iro.umontreal.ca/testu01/tu01.html)
+[Birthday problem - Wikiwand](https://www.wikiwand.com/en/Birthday_problem)
 
 [TIFU by using Math.random() — Medium](https://medium.com/@betable/tifu-by-using-math-random-f1c308c4fd9d#.sp9i13hux)
-[V8 JavaScript Engine: There's Math.random(), and then there's Math.random()](http://v8project.blogspot.de/2015/12/theres-mathrandom-and-then-theres.html)
+[There’s Math.random(), and then there’s Math.random() · V8](https://v8.dev/blog/math-random)
 
 ## Perlin noise
 
@@ -292,14 +292,14 @@ Kuvina Saydaki
 
 ## Visualization
 
-[SORTING](http://sorting.at/)
+[SORTING](https://sorting.at/)
 [Sorting Algorithms Explained Visually - YouTube](https://www.youtube.com/watch?v=RfXt_qHDEPw)
 
-[VisuAlgo - visualising data structures and algorithms through animation](http://visualgo.net/)
-[Red Blob Games](http://www.redblobgames.com/)
-[SIGHT & LIGHT - How to create 2D visibility/shadow effects for your game](http://ncase.me/sight-and-light/)
-[Visualizing Algorithms](http://bost.ocks.org/mike/algorithms/)
-[Algorithm Visualizer](http://jasonpark.me/AlgorithmVisualizer) [source](https://github.com/parkjs814/AlgorithmVisualizer)
+[VisuAlgo - visualising data structures and algorithms through animation](https://visualgo.net/)
+[Red Blob Games](https://www.redblobgames.com/)
+[SIGHT & LIGHT - How to create 2D visibility/shadow effects for your game](https://ncase.me/sight-and-light/)
+[Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/)
+[Algorithm Visualizer](https://jasonpark.me/AlgorithmVisualizer) [source](https://github.com/parkjs814/AlgorithmVisualizer)
 
 ## Sketching
 

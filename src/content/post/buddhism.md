@@ -2,7 +2,7 @@
 title: Buddhism
 description: ""
 created: 2015-10-17
-updated: 2025-07-06
+updated: 2025-08-04
 tags:
   - philosophy
 ---
@@ -26,7 +26,9 @@ tags:
 [千萬別反應，反應毀一生 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=VUskYJ0L-jY)
 [八正道 - Wikiwand](https://www.wikiwand.com/zh/八聖道分)
 [十二因缘 - Wikiwand](https://www.wikiwand.com/zh/十二因缘)
-[貪瞋癡 - Wikiwand](http://www.wikiwand.com/zh/三毒)
+[貪瞋癡 - Wikiwand](https://www.wikiwand.com/zh/三毒)
+五蘊
+![四聖諦 八正道](<./_assets/buddhism/四聖諦 八正道.png>)
 
 [涅槃 - Wikiwand](https://www.wikiwand.com/zh/涅槃)
 [四沙門果/聲聞四果 - Wikiwand](https://www.wikiwand.com/zh/四向四果): 初果[須陀洹](https://www.wikiwand.com/zh/須陀洹)、二果[斯陀含](https://www.wikiwand.com/zh/斯陀含)、三果[阿那含](https://www.wikiwand.com/zh/阿那含)、四果[阿罗汉](https://www.wikiwand.com/zh/阿罗汉)

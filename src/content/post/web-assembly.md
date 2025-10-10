@@ -2,7 +2,7 @@
 title: Web Assembly
 description: ""
 created: 2017-06-19
-updated: 2025-02-07
+updated: 2025-09-13
 tags:
   - wasm
   - web
@@ -37,33 +37,43 @@ Playgrounds:
 [mbasso/awesome-wasm: 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.](https://github.com/mbasso/awesome-wasm)
 [WebAssembly Language Support Matrix | Fermyon • Experience the next wave of cloud computing.](https://www.fermyon.com/wasm-languages/webassembly-language-support) !important
 
-[How to Think About WebAssembly (Amid the Hype) | Fermyon • Experience the next wave of cloud computing.](https://www.fermyon.com/blog/how-to-think-about-wasm)
-[Four go wild for wasm: Corporate quartet come together to build safe WebAssembly sandbox • The Register](https://www.theregister.co.uk/AMP/2019/11/13/webassembly_buildup_group/)
-
-[Understand WebAssembly in 5 minutes - Je suis un dev](https://www.jesuisundev.com/en/understand-webassembly-in-5-minutes/)
-[WebAssembly – Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/category/webassembly/)
-[Creating and working with WebAssembly modules - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2017/02/creating-and-working-with-webassembly-modules/)
-[Replacing a hot path in your app's JavaScript with WebAssembly | Web | Google Developers](https://developers.google.com/web/updates/2019/02/hotpath-with-wasm)
-
-[The Three Pillars of WebAssembly – The New Stack](https://thenewstack.io/the-three-pillars-of-webassembly/)
-[Is WebAssembly magic performance pixie dust? — surma.dev](https://surma.dev/things/js-to-asc/index.html)
+Announcement
+[Brendan Eich » Blog Archive » From ASM.JS to WebAssembly](https://brendaneich.com/2015/06/from-asm-js-to-webassembly/) 2015-06
+[What is WebAssembly? The Dawn of a New Era — JavaScript Scene — Medium](https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6)
+[WebAssembly Will Finally Let You Run High-Performance Applications in Your Browser - IEEE Spectrum](https://spectrum.ieee.org/computing/software/webassembly-will-finally-let-you-run-highperformance-applications-in-your-browser) history
 [WebAssembly, Expanding the Pie - Ben Smith at WebAssembly Summit](https://www.infoq.com/news/2020/05/webassembly-summit-2020-apie/) 2020-05
 [Building a Containerless Future with WebAssembly - Kevin Hoffman at WebAssembly Summit](https://www.infoq.com/news/2020/05/webassembly-summit-containerless/) 2020-05
-[What is WebAssembly? The next-generation web platform explained | InfoWorld](https://www.infoworld.com/article/3291780/what-is-webassembly-the-next-generation-web-platform-explained.html) 2022-05
+[4 big changes WebAssembly developers need to know about | InfoWorld](https://www.infoworld.com/article/3966149/4-big-changes-webassembly-developers-need-to-know-about.html) 2025-04
 
-[What is WebAssembly? The Dawn of a New Era — JavaScript Scene — Medium](https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6)
-[Get started with WebAssembly — using only 14 lines of JavaScript](https://www.freecodecamp.org/news/get-started-with-webassembly-using-only-14-lines-of-javascript-b37b6aaca1e4)
-[WebAssembly Will Finally Let You Run High-Performance Applications in Your Browser - IEEE Spectrum](https://spectrum.ieee.org/computing/software/webassembly-will-finally-let-you-run-highperformance-applications-in-your-browser) history
-[An Introduction to WebAssembly - DZone Web Dev](https://dzone.com/articles/an-introduction-to-webassembly)
-[WebAssembly tutorial: Get started with WebAssembly | InfoWorld](https://www.infoworld.com/article/3258547/web-development/webassembly-tutorial-get-started-with-webassembly.html)
-[What’s new in WebAssembly portable browser code | InfoWorld](https://www.infoworld.com/article/3217704/web-development/whats-new-with-webassembly-portable-code.html)
-[WebAssembly gets its own IDE | InfoWorld](https://www.infoworld.com/article/3268872/web-development/webassembly-gets-its-own-ide.html)
-[What is WebAssembly? The next-generation web platform explained | InfoWorld](https://www.infoworld.com/article/3291780/web-development/what-is-webassembly-the-next-generation-web-platform-explained.html)
-
+Introduction
+[Understand WebAssembly in 5 minutes - Je suis un dev](https://www.jesuisundev.com/en/understand-webassembly-in-5-minutes/)
+[The Three Pillars of WebAssembly – The New Stack](https://thenewstack.io/the-three-pillars-of-webassembly/) 2021-08
+[What is WebAssembly? The next-generation web platform explained | InfoWorld](https://www.infoworld.com/article/2255892/what-is-webassembly-the-next-generation-web-platform-explained.html) 2022-05
 [A cartoon intro to WebAssembly - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/)
+
+Adoption
+[Four go wild for wasm: Corporate quartet come together to build safe WebAssembly sandbox • The Register](https://www.theregister.co.uk/AMP/2019/11/13/webassembly_buildup_group/)
+[Figma is powered by WebAssembly](https://www.figma.com/blog/webassembly-cut-figmas-load-time-by-3x/)
+[Replacing a hot path in your app's JavaScript with WebAssembly  |  Blog  |  Chrome for Developers](https://developer.chrome.com/blog/hotpath-with-wasm) 2019-02
+[From JavaScript to WebAssembly in three steps](https://engineering.q42.nl/webassembly/) 2020-09, micr.io's port with AssemblyScript + WebGL
+
+Commentaries
+[How to Think About WebAssembly (Amid the Hype)](https://www.fermyon.com/blog/how-to-think-about-wasm) 2022-02
+[The rise of WebAssembly | InfoWorld](https://www.infoworld.com/article/2334563/the-rise-of-webassembly.html) 2022-02
+[Is WebAssembly magic performance pixie dust? — surma.dev](https://surma.dev/things/js-to-asc/index.html) 2021-04
+
+Hands-on
+[WebAssembly – Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/category/webassembly/)
+[Creating and working with WebAssembly modules - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2017/02/creating-and-working-with-webassembly-modules/)
+[An Introduction to WebAssembly - DZone Web Dev](https://dzone.com/articles/an-introduction-to-webassembly)
+[Get started with WebAssembly — using only 14 lines of JavaScript](https://www.freecodecamp.org/news/get-started-with-webassembly-using-only-14-lines-of-javascript-b37b6aaca1e4)
+[WebAssembly tutorial: Get started with WebAssembly | InfoWorld](https://www.infoworld.com/article/2264559/webassembly-tutorial-get-started-with-webassembly.html)
 [Memory in WebAssembly (and why it’s safer than you think) - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2017/07/memory-in-webassembly-and-why-its-safer-than-you-think/)
 [WebAssembly Interface Types: Interoperate with All the Things! - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2019/08/webassembly-interface-types/)
 [Multi-Value All The Wasm! - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2019/11/multi-value-all-the-wasm/)
+[The anatomy of WebAssembly: Writing your first WebAssembly module using C (C++) | by Uday Hiwarale | JsPoint | Medium](https://medium.com/jspoint/the-anatomy-of-webassembly-writing-your-first-webassembly-module-using-c-c-d9ee18f7ac9b)
+[Programming using Web Assembly – Alexander Curtis – Medium](https://medium.com/@alexc73/programming-using-web-assembly-c4c73a4e09a9)
+
 [Security - WebAssembly](https://webassembly.org/docs/security/)
 
 [Lin Clark: A Cartoon Intro to WebAssembly | JSConf EU 2017 - YouTube](https://www.youtube.com/watch?v=HktWin_LPf4)
@@ -77,17 +87,12 @@ Playgrounds:
 [WebAssembly and the Death of JavaScript - JS Monthly - February 2018 - YouTube](https://www.youtube.com/watch?v=pBYqen3B2gc)
 [WebAssembly: Disrupting JavaScript - YouTube](https://www.youtube.com/watch?v=7mBf3Gig9io)
 
-[WebAssembly -Part I | An Introduction — (Part 1) – tech-lah – Medium](https://medium.com/tech-lah/webassembly-part-i-an-introduction-part-1-205f207d56e9)
+[WebAssembly -Part I | An Introduction — (Part 1) – tech-lah – Medium](https://medium.com/tech-lah/webassembly-part-i-an-introduction-part-1-205f207d56e9) 2019-03
 [WebAssembly -Part II.A | Wasm with Rust – tech-lah – Medium](https://medium.com/tech-lah/webassembly-part-ii-a-wasm-with-rust-2356dbc6526e)
 [WebAssembly -Part II.b | Golang with WASM – tech-lah – Medium](https://medium.com/tech-lah/webassembly-part-ii-b-golang-with-wasm-8b3c690221b4)
 
-[The anatomy of WebAssembly: Writing your first WebAssembly module using C (C++) | by Uday Hiwarale | JsPoint | Medium](https://medium.com/jspoint/the-anatomy-of-webassembly-writing-your-first-webassembly-module-using-c-c-d9ee18f7ac9b)
-[Programming using Web Assembly – Alexander Curtis – Medium](https://medium.com/@alexc73/programming-using-web-assembly-c4c73a4e09a9)
-
-[JS Party #32: WASM is AWSM with Kevin Ball, Suz Hinton, and Jay Phelps | News and podcasts for developers | Changelog](https://changelog.com/jsparty/32)
+[WASM is AWSM with Kevin Ball, Suz Hinton, and Jay Phelps (JS Party #32)](https://changelog.com/jsparty/32)
 [Zoom on Web: WebAssembly SIMD, WebTransport, and WebCodecs](https://www.infoq.com/news/2020/08/zoom-web-chrome-apis/)
-
-[From JavaScript to WebAssembly in three steps](https://engineering.q42.nl/webassembly/) micr.io's port with AssemblyScript + WebGL
 
 ## Fermyon
 
@@ -372,7 +377,7 @@ cp target/wasm32-wasi/release/*wasm .
 ## Go
 
 [WebAssembly · golang/go Wiki](https://github.com/golang/go/wiki/WebAssembly)
-[Go Time BONUS – Go and WebAssembly (Wasm) | News and podcasts for developers | Changelog](https://changelog.com/gotime/bonus-77)
+[BONUS – Go and WebAssembly (Wasm) with Russ Cox (Go Time)](https://changelog.com/gotime/bonus-77)
 
 [dennwc/dom: DOM library for Go and WASM](https://github.com/dennwc/dom)
 

@@ -2,7 +2,7 @@
 title: Forza/Forza Horizon
 description: ""
 created: 2020-05-12
-updated: 2025-02-07
+updated: 2025-07-07
 tags:
   - forza
   - forza-horizon

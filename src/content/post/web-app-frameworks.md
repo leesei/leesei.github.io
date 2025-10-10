@@ -2,7 +2,7 @@
 title: Web App Frameworks
 description: On frameworks running on Node.js ecosystem
 created: 2023-11-16
-updated: 2025-02-07
+updated: 2025-07-07
 tags:
   - backend
   - frontend

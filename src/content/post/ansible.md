@@ -2,7 +2,7 @@
 title: Ansible
 description: ""
 created: 2016-02-17
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - ansible
   - app
@@ -15,7 +15,7 @@ Ansible runs over SSH so there is no need for agent in slave nodes. This reduces
 
 [Ansible is Simple IT Automation](https://www.ansible.com/) [github](https://github.com/ansible/ansible)
 [Ansible Galaxy | Find, reuse, and share the best Ansible content](https://galaxy.ansible.com/) repository for Ansible roles
-[Why use Ansible for automation and orchestration | InfoWorld](https://www.infoworld.com/article/3269748/devops/why-use-ansible-for-automation-and-orchestration.html)
+[Why use Ansible for automation and orchestration | InfoWorld](https://www.infoworld.com/article/2268901/why-use-ansible-for-automation-and-orchestration.html)
 
 [Ansible Documentation](http://docs.ansible.com/)
 [Ansible Resources - Videos](https://www.ansubsible.com/videos)
@@ -29,7 +29,7 @@ Ansible runs over SSH so there is no need for agent in slave nodes. This reduces
 
 [Ansible » ADMIN Magazine](http://www.admin-magazine.com/Articles/Automation-with-Ansible)
 [Jan-Piet Mens :: Configuration management with Ansible](http://jpmens.net/2012/06/06/configuration-management-with-ansible/) a bit old, links are dead
-[Review: Ansible shows the beef | InfoWorld](http://www.infoworld.com/article/3119346/data-center/review-ansible-shows-the-beef.html)
+[Review: Ansible shows the beef | InfoWorld](https://www.infoworld.com/article/2248786/review-ansible-shows-the-beef.html)
 [Lessons from using Ansible exclusively for 2 years.](https://blog.serverdensity.com/what-ive-learnt-from-using-ansible-exclusively-for-2-years/)
 
 [afroisalreadyinu/practical-ansible-intro: A practical guide to Ansible](https://github.com/afroisalreadyinu/practical-ansible-intro)
@@ -83,7 +83,7 @@ ansible_python_interpreter=/usr/bin/python3
 [Ansible basic usage and common issues encountered](http://www.kernel-overload.com/ansible-basic-usage-and-common-issues-encountered/)
 [An Ansible Tutorial - Servers for Hackers](https://serversforhackers.com/an-ansible-tutorial)
 [Ansible 101 — Medium](https://medium.com/@denot/ansible-101-d6dc9f86df0a#.1ojrwyk0w)
-[Ansible 101 | zaiste.net](http://zaiste.net/2014/05/ansible_101/)
+[Ansible 101 · Zaiste Programming](https://zaiste.net/posts/ansible_101/)
 [Configuration Management 101: Writing Ansible Playbooks | DigitalOcean](https://www.digitalocean.com/community/tutorials/configuration-management-101-writing-ansible-playbooks)
 
 Jeff Geerling
@@ -204,7 +204,7 @@ You can use `set_fact` to dynamically create variables:
 Playbooks contain Plays; Plays contain Tasks; Tasks invoke modules.
 Handlers are tasks that can be run once after tasks.
 
-[sed - Ansible playbook shell output - Stack Overflow](http://stackoverflow.com/questions/20563639/ansible-playbook-shell-output)
+[sed - Ansible playbook shell output - Stack Overflow](https://stackoverflow.com/questions/20563639/ansible-playbook-shell-output)
 [ansible.builtin.debug module – Print statements during execution — Ansible Documentation](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/debug_module.html)
 
 [Amon - What I learned from a year using Ansible extensively](https://www.amon.cx/blog/one-year-with-ansible/#) install, test playbook with docker
@@ -309,7 +309,7 @@ ansible-galaxy init <role>
 [Safely storing Ansible playbook secrets | On Web Security](https://www.onwebsecurity.com/configuration/safely-storing-ansible-playbook-secrets.html)
 [OpenSSL the Ansible vault... using PBKDF2 | On Web Security](https://www.onwebsecurity.com/configuration/openssl-the-ansible-vault-using-pbkdf2.html)
 [Python for Network Engineers | Articles](https://pynet.twb-tech.com/blog/ansible/vault.html)
-[Specify sudo password for Ansible - Stack Overflow](http://stackoverflow.com/questions/21870083/specify-sudo-password-for-ansible)
+[Specify sudo password for Ansible - Stack Overflow](https://stackoverflow.com/questions/21870083/specify-sudo-password-for-ansible)
 
 [Ansible: Using Vault - Servers for Hackers](https://serversforhackers.com/video/ansible-using-vault)
 

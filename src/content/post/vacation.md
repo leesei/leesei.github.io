@@ -2,7 +2,7 @@
 title: Vacation
 description: ""
 created: 2023-04-18
-updated: 2025-06-24
+updated: 2025-07-07
 tags:
   - holiday
   - trivia

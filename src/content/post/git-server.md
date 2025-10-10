@@ -2,7 +2,7 @@
 title: Git server
 description: ""
 created: 2016-03-04
-updated: 2025-01-09
+updated: 2025-09-20
 tags:
   - app
   - git
@@ -25,8 +25,7 @@ Git server:
 
 Sharing port 22 with containerized git server
 
-[Share port 22 between Gogs inside Docker & the local system](http://www.ateijelo.com/blog/2016/07/09/share-port-22-between-docker-gogs-ssh-and-local-system)
-[How to config SSH settings - Tips, Tricks, and How-To's - Gogs Discussion](https://discuss.gogs.io/t/how-to-config-ssh-settings/34)
+[Share port 22 between Gogs inside Docker & the local system](https://web.archive.org/web/20250502034418/https://www.ateijelo.com/blog/2016/07/09/share-port-22-between-docker-gogs-ssh-and-local-system)
 
 [ssh forward git user - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02aCapVMBcZwftsFRJFrYPUh5Y4Kg%3A1592008090725&ei=mh3kXv7mK9vXhwOLh5rwBQ&q=ssh+forward+git+user&oq=forward+git+ssh+&gs_lcp=CgZwc3ktYWIQAxgDMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BAgjECc6BAgAEEM6BQgAEJECOgcIABCDARBDOgcIABCxAxBDOgUIABCxAzoCCAA6BwgjEOoCECc6BQgAEMsBUPmLCVivtQlgotUJaAFwAHgAgAFwiAHCCpIBBDE4LjGYAQCgAQGqAQdnd3Mtd2l6sAEK&sclient=psy-ab)
 
@@ -51,7 +50,7 @@ ssh -v git@127.0.0.1:10022 git-receive-pack <path-to-git-repository>
 
 ## git/ssh
 
-[vanilla git/ssh](http://stackoverflow.com/questions/10888300/gitosis-vs-gitolite)
+[vanilla git/ssh](https://stackoverflow.com/questions/10888300/gitosis-vs-gitolite)
 [Howto: Git Server over SSH - SysTutorials](https://www.systutorials.com/set-up-git-server-through-ssh-connection/)
 
 ## git-daemon
@@ -87,7 +86,7 @@ You can even edit it to override the access control.
 [gitolite](http://gitolite.com/gitolite/index.html) replaces gitosis, written in Perl
 [sitaramc/gitolite: Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.](https://github.com/sitaramc/gitolite)
 
-[ssh - How do programs like gitolite work? - Stack Overflow](http://stackoverflow.com/questions/13318715/how-do-programs-like-gitolite-work/)
+[ssh - How do programs like gitolite work? - Stack Overflow](https://stackoverflow.com/questions/13318715/how-do-programs-like-gitolite-work/)
 [Internal Git server with Gitolite](https://sysadmincasts.com/episodes/11-internal-git-server-with-gitolite)
 [How to Set Up A Gitolite Git Server - A Ten-Minute Tutorial - SysTutorials](https://www.systutorials.com/how-to-set-up-gitolite-git-server-a-ten-minute-tutorial/)
 

@@ -2,7 +2,7 @@
 title: Disney Universe
 description: ""
 created: 2016-04-17
-updated: 2025-01-09
+updated: 2025-09-23
 tags:
   - anime
   - disney
@@ -34,4 +34,4 @@ tags:
 ## Lion King
 
 [25 Years Later, 'The Lion King' Is Still a Very Big Deal](https://www.pajiba.com/film_reviews/25-years-later-the-lion-king-is-still-a-very-big-deal.php)
-[Lion King: There's a 25-year-old intellectual property dispute surrounding the Disney film - The Washington Post](https://www.washingtonpost.com/business/2019/07/26/lion-king-has-been-clouded-by-intellectual-property-controversy-years-heres-story-behind-it/?utm_term=.f4e831305d6c) Adblock or stop JavaScript
+[Lion King: There's a 25-year-old intellectual property dispute surrounding the Disney film - The Washington Post](https://www.washingtonpost.com/business/2019/07/26/lion-king-has-been-clouded-by-intellectual-property-controversy-years-heres-story-behind-it/) Adblock or stop JavaScript

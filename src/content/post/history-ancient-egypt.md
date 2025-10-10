@@ -2,7 +2,7 @@
 title: Ancient Egypt History
 description: ""
 created: 2015-10-09
-updated: 2025-06-26
+updated: 2025-09-24
 tags:
   - history
   - history/egypt
@@ -61,7 +61,13 @@ The first two Dynasties have human sacrifices (殉葬)
 [Top 15 Interesting Facts About Ancient Egypt That You May Not Know | Ancient Origins](https://www.ancient-origins.net/history-ancient-traditions/interesting-facts-ancient-egypt-0013496)
 [Love, Sex and Marriage in Ancient Egypt - HistoryExtra](https://www.historyextra.com/period/ancient-egypt/love-sex-and-marriage-in-ancient-egypt/)
 
+## Hieroglyphs
+
+[Egyptian Hieroglyphs (Unicode block) - Wikiwand](<https://www.wikiwand.com/en/articles/Egyptian_Hieroglyphs_(Unicode_block)>)
 [Egyptian Hieroglyphs, 𓀀 𓀁 𓀂 𓀃 𓀄, 1072 symbols, Unicode Range: 13000-1342F (◕‿◕) SYMBL](https://symbl.cc/en/unicode/blocks/egyptian-hieroglyphs/)
+[Egyptian Hieroglyphs - Unicode Explorer](https://unicode-explorer.com/b/13000)
+
+[Hieroglyphs are easier than they look - YouTube](https://www.youtube.com/watch?v=90An1dnvwyc)
 
 ## Pyramids
 

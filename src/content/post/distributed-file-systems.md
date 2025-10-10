@@ -2,7 +2,7 @@
 title: Distributed File Systems
 description: ""
 created: 2015-05-20
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - file-system
   - linux
@@ -26,7 +26,7 @@ tags:
 
 [Distributed Replicated Block Device - Wikiwand](https://www.wikiwand.com/en/Distributed_Replicated_Block_Device)
 
-[filesystems - Distributed File Systems: GridFS vs. GlusterFS vs Ceph vs HekaFS Benchmarks - Stack Overflow](http://stackoverflow.com/questions/17425153/distributed-file-systems-gridfs-vs-glusterfs-vs-ceph-vs-hekafs-benchmarks)
+[filesystems - Distributed File Systems: GridFS vs. GlusterFS vs Ceph vs HekaFS Benchmarks - Stack Overflow](https://stackoverflow.com/questions/17425153/distributed-file-systems-gridfs-vs-glusterfs-vs-ceph-vs-hekafs-benchmarks)
 [Ceph at CERN: A Year in the Life of a Petabyte-Scale Block Storage Service » OpenStack Open Source Cloud Computing Software](https://www.openstack.org/summit/vancouver-2015/summit-videos/presentation/ceph-at-cern-a-year-in-the-life-of-a-petabyte-scale-block-storage-service)
 
 [Testing of several distributed file-systems (HDFS, Ceph and GlusterFS) for supporting the HEP experiments analysis - IOPscience](http://iopscience.iop.org/article/10.1088/1742-6596/513/4/042014/meta) [PDF](http://iopscience.iop.org/article/10.1088/1742-6596/513/4/042014/pdf)
@@ -92,7 +92,7 @@ Kubernetes Operator for Ceph (and many others)
 
 ## GlusterFS
 
-[GlusterFS - Wikiwand](http://www.wikiwand.com/en/GlusterFS)
+[GlusterFS - Wikiwand](https://www.wikiwand.com/en/GlusterFS)
 [Storage for your Cloud. — Gluster](http://www.gluster.org/)
 [Gluster Docs](https://docs.gluster.org/en/latest/)
 [Architecture - Gluster Docs](https://docs.gluster.org/en/latest/Quick-Start-Guide/Architecture/)
@@ -168,7 +168,7 @@ iSCSI LUN: a portion of storage space that can be utilized by initiators by conn
 [OrangeFS](http://orangefs.com/) more info than [orangefs.org](http://www.orangefs.org/)
 
 An open source FS by EMC, the one behind
-[EMC Isilon - Wikiwand](http://www.wikiwand.com/en/EMC_Isilon)
+[EMC Isilon - Wikiwand](https://www.wikiwand.com/en/EMC_Isilon)
 
 ## Stratis
 
@@ -192,7 +192,7 @@ White papers:
 
 ## XtreemFS
 
-[XtreemFS - Wikiwand](http://www.wikiwand.com/en/XtreemFS)
+[XtreemFS - Wikiwand](https://www.wikiwand.com/en/XtreemFS)
 [XtreemFS - Fault-Tolerant Distributed File System](http://www.xtreemfs.org/)
 
 > I tested XtreemFS and found that it does not work well. There are problems like data corruption ([#359][#359]), read errors in degraded mode ([#357][#357]/[#235][#235]), crippled read-only mode ([#358][#358]) etc.; build system is a mess plus XtreemFS depends on old (not updated since 2007) non-free JAR ([#309][#309], [#173][#173]) so XtreemFS is in violation of DFSG and not distributable in Debian. Also I'm not happy about how devs respond to bugs. Finally XtreemFS is written in poor language notorious for inefficient memory management so naturally XtreemFS can't stand against GfarmFS and LizardFS in performance comparison.

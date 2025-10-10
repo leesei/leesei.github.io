@@ -2,7 +2,7 @@
 title: Reverse Proxy
 description: ""
 created: 2015-06-17
-updated: 2025-05-09
+updated: 2025-09-26
 tags:
   - dev/deploy
   - web
@@ -48,6 +48,8 @@ Load balancer is an application of reverse proxy
 [[apache]]
 [[caddy]]
 [[nginx#Reverse Proxy/Load Balancing]]
+
+[9 reverse proxies you should check out for your home network](https://www.xda-developers.com/reverse-proxies-you-should-check-out-for-your-home-network/)
 
 [Pow: Zero-configuration Rack server for Mac OS X](http://pow.cx/)
 
@@ -188,6 +190,8 @@ Auto load-balancing, supports multiple service registries (Docker, Kubernetes, M
 [Let's Encrypt - Træfik](https://docs.traefik.io/configuration/acme/)
 [Let's Encrypt & Docker - Træfik](https://docs.traefik.io/user-guide/docker-and-lets-encrypt/)
 [Swarm Mode Cluster - Træfik](https://docs.traefik.io/user-guide/swarm-mode/)
+
+[I Replaced Nginx Proxy Manager with Traefik in My Home Lab and It Changed Everything - Virtualization Howto](https://www.virtualizationhowto.com/2025/09/i-replaced-nginx-proxy-manager-with-traefik-in-my-home-lab-and-it-changed-everything/)
 
 [Put Wildcard Certificates and SSL on EVERYTHING - Traefik Tutorial - YouTube](https://www.youtube.com/watch?v=liV3c9m_OX8)
 [How to setup Traefik v2 with automatic Let’s Encrypt certificate resolver](https://www.paulsblog.dev/how-to-setup-traefik-with-automatic-letsencrypt-certificate-resolver/)

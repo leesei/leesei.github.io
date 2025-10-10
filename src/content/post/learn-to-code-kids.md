@@ -2,7 +2,7 @@
 title: Learn to code (Kids)
 description: ""
 created: 2014-12-08
-updated: 2025-02-07
+updated: 2025-09-23
 tags:
   - comp/lang
   - learning
@@ -479,7 +479,7 @@ They're both fibers. `inBackground()` have a `fiberDone` callback for clean up a
 
 ## CS w/o computer
 
-[The Changelog #302: Computer Science without a computer featuring Tim Bell | News and podcasts for developers | Changelog](https://changelog.com/podcast/302)
+[Computer Science without a computer featuring Tim Bell (Changelog Interviews #302)](https://changelog.com/podcast/302)
 
 [CS Unplugged](https://csunplugged.org/en/) primary school
 [Computer Science Field Guide](http://csfieldguide.org.nz/en/index.html) high school
@@ -544,6 +544,7 @@ They're both fibers. `inBackground()` have a `fiberDone` callback for clean up a
 [Elevator Saga - the elevator programming game](http://play.elevatorsaga.com/) JavaScript
 [Learn to Code for Free – Grasshopper](https://grasshopper.app/) JavaScript
 [JSRobot](https://lab.reaal.me/jsrobot/) JavaScript
+[Coding For Kids, Kids Online Coding Classes & Games | Tynker](https://www.tynker.com/) Minecraft, Python
 
 ## Learn by Gaming
 

@@ -2,7 +2,7 @@
 title: Design Patterns
 description: ""
 created: 2019-05-24
-updated: 2025-04-09
+updated: 2025-07-07
 tags:
   - comp/lang
 ---
@@ -58,7 +58,7 @@ Contains [Programming paradigm - Wikiwand](https://www.wikiwand.com/en/Programmi
 [Design Patterns Book](http://wiki.c2.com/?DesignPatternsBook)
 [Design Patterns CD: Elements of Reusable Object-Oriented Software](http://www.amazon.com/Design-Patterns-Object-Oriented-Professional-Computing/dp/0201634988)
 
-[Episode 215: Gang of Four – 20 Years Later : Software Engineering Radio](http://www.se-radio.net/2014/11/episode-215-gang-of-four-20-years-later/)
+[Episode 215: Gang of Four – 20 Years Later : Software Engineering Radio](https://www.se-radio.net/2014/11/episode-215-gang-of-four-20-years-later/)
 
 Erich Gamma: <http://en.wikipedia.org/wiki/Erich_Gamma>
 Richard Helm: <http://en.wikipedia.org/wiki/Richard_Helm>
@@ -364,7 +364,6 @@ CodeOpinion
 [Event-Driven Architecture lost its way - YouTube](https://www.youtube.com/watch?v=YusVrd9rHJU) action-centric events instead of data-centric ones
 [Event-Driven Architecture: Explained in 7 Minutes! - YouTube](https://www.youtube.com/watch?v=gOuAqRaDdHA)
 
-[Event-driven architecture, state machines et al. - 250bpm](http://250bpm.com/blog:25)
 [State Machines for Event-Driven Systems | Embedded Systems Experts](http://www.barrgroup.com/Embedded-Systems/How-To/State-Machines-Event-Driven-Systems)
 [From Request/Response to Events - DZone Microservices](https://dzone.com/articles/from-requestresponse-to-events)
 [How to tame event-driven microservices | InfoWorld](https://www.infoworld.com/article/3391592/how-to-tame-event-driven-microservices.html)

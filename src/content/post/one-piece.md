@@ -2,7 +2,7 @@
 title: One Piece
 description: ""
 created: 2016-06-18
-updated: 2025-03-19
+updated: 2025-07-18
 tags:
   - anime
   - manga
@@ -40,6 +40,7 @@ tags:
 900-800 年前為空白的一百年, 從奧哈拉學者得知這百年間有一個巨大王國掘起, 然後被世界政府抹滅掉
 
 [【可乐剧场】海贼王 164 分钟看完海贼王全部剧情 从第一集讲到 919 集的和之国 - YouTube](https://www.youtube.com/watch?v=J2QwvyGfTcg)
+[一口氣看完「海賊最終章」主線！完整盤點3年連載所有重要劇情+設定！四大勢力爭奪ONEPIECE！#海賊王 - YouTube](https://www.youtube.com/watch?v=E7rOq4p9e6o)
 [42 分钟看完海贼王所有主线！史上最细腻的主线梳理！ - YouTube](https://www.youtube.com/watch?v=HQzLHk8X9Zs)
 [海賊王動畫盤點：連載 20 年完整觀影指南！一口氣回顧 900 多集動畫 | 動漫作業本 - YouTube](https://www.youtube.com/watch?v=ZHvqQiV7v4)
 [秃头的白小明 - YouTube](https://www.youtube.com/playlist?list=PLKBpgRASMadBIaMhXBGrPHq3qMsW9T5DM) 入坑海贼王
@@ -86,7 +87,7 @@ tags:
 
 ## 地理
 
-[伟大航路（《海贼王》中的地理名称）\_百度百科](http://baike.baidu.com/subview/1771170/6160842.htm)
+[伟大航路（《海贼王》中的地理名称）\_百度百科](https://baike.baidu.com/subview/1771170/6160842.htm)
 [The One Piece World Explained: Grand Line, Red Line & More! - YouTube](https://www.youtube.com/watch?v=GSHioZ9IPOY)
 
 [网上绝大多数的海贼王世界地图都画错了？深度解析海贼王世界地图的设定以及各个岛屿的确切地理位置！ - YouTube](https://www.youtube.com/watch?v=a_QCgH65t_I)
@@ -138,16 +139,16 @@ Punk Hazard
 
 ## 海贼团
 
-[草帽海贼团\_百度百科](http://baike.baidu.com/view/25011.htm)
+[草帽海贼团\_百度百科](https://baike.baidu.com/view/25011.htm)
 [“五皇團”草帽大船團 7 大勢力詳解！助路飛成為海賊王的恐怖力量 - YouTube](https://www.youtube.com/watch?v=W-YDpPda1II)
 
-[罗杰海贼团\_百度百科](http://baike.baidu.com/view/2715467.htm)
-[黑胡子海贼团\_百度百科](http://baike.baidu.com/view/432966.htm)
+[罗杰海贼团\_百度百科](https://baike.baidu.com/view/2715467.htm)
+[黑胡子海贼团\_百度百科](https://baike.baidu.com/view/432966.htm)
 
-[白胡子海贼团\_百度百科](http://baike.baidu.com/view/432964.htm)
+[白胡子海贼团\_百度百科](https://baike.baidu.com/view/432964.htm)
 [海賊王人物誌 01：20 分鐘完整盤點白鬍子海賊團！一口氣看完 19 名本團角色、43 名麾下海賊！| 動漫作業本 - YouTube](https://www.youtube.com/watch?v=h41ERN-E4YI)
 
-[红发海贼团\_百度百科](http://baike.baidu.com/view/2040565.htm)
+[红发海贼团\_百度百科](https://baike.baidu.com/view/2040565.htm)
 [太阳海贼团\_百度百科](https://baike.baidu.com/item/%E5%A4%AA%E9%98%B3%E6%B5%B7%E8%B4%BC%E5%9B%A2) 魚人海贼团
 倫巴 Brook 的海贼团
 洛克斯海贼团 Rocks 天曆 38 年前在神之谷被羅杰與卡普聯手殲滅, 但羅杰的存在被海军抹去, 卡普成為海軍英雄; 其下金獅子, 白胡子, 大媽, 凱多自立門戶;
@@ -166,33 +167,33 @@ Punk Hazard
 ## 世界政府
 
 於天曆 700 年前, 空白的一百年後成立
-[世界政府\_百度百科](http://baike.baidu.com/view/2328809.htm)
+[世界政府\_百度百科](https://baike.baidu.com/view/2328809.htm)
 [World Government | One Piece Wiki | Fandom](https://onepiece.fandom.com/wiki/World_Government)
 [The World Govt. EXPLAINED: One Piece Rulers & Nobles - YouTube](https://www.youtube.com/watch?v=gttL1OMlGyM)
 
-[海军（《海贼王》中的军队）\_百度百科](http://baike.baidu.com/subview/63064/7200541.htm)
+[海军（《海贼王》中的军队）\_百度百科](https://baike.baidu.com/subview/63064/7200541.htm)
 [Marines | One Piece Wiki | Fandom](https://onepiece.fandom.com/wiki/Marines)
-[海军本部\_百度百科](http://baike.baidu.com/view/1562502.htm)
+[海军本部\_百度百科](https://baike.baidu.com/view/1562502.htm)
 [Marine Headquarters | One Piece Wiki | Fandom](https://onepiece.fandom.com/wiki/Marine_Headquarters)
-[五老星\_百度百科](http://baike.baidu.com/view/1459672.htm)
-[四皇（日本动漫《海贼王》中人物）\_百度百科](http://baike.baidu.com/subview/769484/16868540.htm)
-[王下七武海\_百度百科](http://baike.baidu.com/view/108642.htm)
-[CP0\_百度百科](http://baike.baidu.com/view/10434314.htm)
-[CP9\_百度百科](http://baike.baidu.com/view/247639.htm)
-[天龙人（日本漫画《ONE PIECE》中的世界贵族）\_百度百科](http://baike.baidu.com/subview/1615389/10975384.htm)
+[五老星\_百度百科](https://baike.baidu.com/view/1459672.htm)
+[四皇（日本动漫《海贼王》中人物）\_百度百科](https://baike.baidu.com/subview/769484/16868540.htm)
+[王下七武海\_百度百科](https://baike.baidu.com/view/108642.htm)
+[CP0\_百度百科](https://baike.baidu.com/view/10434314.htm)
+[CP9\_百度百科](https://baike.baidu.com/view/247639.htm)
+[天龙人（日本漫画《ONE PIECE》中的世界贵族）\_百度百科](https://baike.baidu.com/subview/1615389/10975384.htm)
 
 ## 招式
 
-[六式（日本动漫《海贼王》中体术）\_百度百科](http://baike.baidu.com/subview/935209/11156742.htm)
+[六式（日本动漫《海贼王》中体术）\_百度百科](https://baike.baidu.com/subview/935209/11156742.htm)
 [海賊王：“六式”復活！獨特的霸氣衍生招式！ - YouTube](https://www.youtube.com/watch?v=zUAOalPG0Gg)
 
 ### 霸气
 
-[霸气（《海贼王》角色技能）\_百度百科](http://baike.baidu.com/subview/401217/5806440.htm)
+[霸气（《海贼王》角色技能）\_百度百科](https://baike.baidu.com/subview/401217/5806440.htm)
 [Haki | One Piece Wiki | Fandom](http://onepiece.fandom.com/wiki/Haki)
-[见闻色霸气\_百度百科](http://baike.baidu.com/view/5312835.htm)
-[武装色霸气\_百度百科](http://baike.baidu.com/view/6888106.htm)
-[霸王色霸气\_百度百科](http://baike.baidu.com/view/4460327.htm)
+[见闻色霸气\_百度百科](https://baike.baidu.com/view/5312835.htm)
+[武装色霸气\_百度百科](https://baike.baidu.com/view/6888106.htm)
+[霸王色霸气\_百度百科](https://baike.baidu.com/view/4460327.htm)
 
 [海賊王 3 色霸氣完整盤點！武裝色、見聞色、霸王色一口氣看完！ - YouTube](https://www.youtube.com/watch?v=3y3tAwE3Lwc)
 [海賊王：武裝色分 3 大等級！見聞色分 4 大形態！ - YouTube](https://www.youtube.com/watch?v=ro2tWfgwYZY)
@@ -234,7 +235,7 @@ Punk Hazard
 
 ## Movies
 
-[海贼王剧场版\_百度百科](http://baike.baidu.com/view/1708093.htm)
+[海贼王剧场版\_百度百科](https://baike.baidu.com/view/1708093.htm)
 [海賊王特別篇盤點：補齊劇情最後一塊空白，完整回顧所有海賊王特別篇 | 動漫作業本 - YouTube](https://www.youtube.com/watch?v=j2riLtrmsU8) OVA
 SP10 海賊王前傳: 第 0 話
 SP11 娜美篇 Remake 惡龍海贼团

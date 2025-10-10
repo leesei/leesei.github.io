@@ -2,7 +2,7 @@
 title: WebRTC
 description: ""
 created: 2024-03-12
-updated: 2025-04-24
+updated: 2025-07-07
 tags:
   - web
   - webrtc
@@ -31,7 +31,7 @@ tags:
 
 [WebRTC - YouTube](https://www.youtube.com/playlist?list=PL0TfJX6zanDd3jJhoWCiUAE5YIVwsi9Ku)
 
-[Deep in the WebRTC deep end (JS Party #136) |> News and podcasts for developers |> Changelog](https://changelog.com/jsparty/136)
+[Deep in the WebRTC deep end (JS Party #136)](https://changelog.com/jsparty/136)
 
 ## Samples
 

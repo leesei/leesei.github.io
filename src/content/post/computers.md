@@ -2,7 +2,7 @@
 title: Computers
 description: ""
 created: 2016-10-18
-updated: 2025-06-12
+updated: 2025-09-02
 tags:
   - comp/hardware
 ---
@@ -69,7 +69,9 @@ $2800@2023-02 (ex-GPU)
 - Thermalright TR-TGFX650 SFX 650W $496.5@2024-07
 - 閃鱗 S300 Case
   L=312 H=193 W=135 mm 8.1L
+  1.2mm SPCC steel plate, 60mm for CPU heat sink
   PCI-E 3.0 extension
+  Supports GPU wuth L<=305 H<=130 W<=55 mm
 - ID Cooling NO-12015-XT
   - 12015 fan at CPU_FAN header
 
@@ -100,7 +102,7 @@ https://www.userbenchmark.com/UserRun/59459570 after RAM change
 - 16" 3840x2400 16:10 60Hz OLED 400nits 100% sRGB 100% DCI-P3
 - Wi-Fi 6E 160MHz
 - 54 Whr 4 cells battery
-- USB Type-C 65W: 20V/3.25A, 15V/3A, 9V/3A, 5V/3A
+- USB Type-C 65W: 20V/3.25A, 15V/3A, 9V/3A, 5V/3
 
 [Acer Swift Edge SFE16 review - A lightweight 16-inch laptop with AMD power and an OLED display - NotebookCheck.net Reviews](https://www.notebookcheck.net/Acer-Swift-Edge-SFE16-review-A-lightweight-16-inch-laptop-with-AMD-power-and-an-OLED-display.726861.0.html)
 

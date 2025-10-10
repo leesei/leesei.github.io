@@ -2,7 +2,7 @@
 title: Browser automation
 description: Automates browser, for web scraping and testing
 created: 2017-11-20
-updated: 2025-06-28
+updated: 2025-09-22
 tags:
   - automation
   - web
@@ -94,6 +94,7 @@ Inject init script to circumvent this: `delete Object.getPrototypeOf(navigator).
 
 ### Puppeteer
 
+> used Chrome DevTools Protocol (CDP) for Chrome instead of WebDriver
 > v23 added Firefox support
 
 [Puppeteer | Puppeteer](https://pptr.dev/)
@@ -174,6 +175,16 @@ page.on("response", (response) => {
   console.log(`[${response.request().resourceType()}] ${response.url()}`);
 });
 ```
+
+### PyDoll
+
+> used Chrome DevTools Protocol (CDP) for Chrome instead of WebDriver
+> bypass Cloudflare Turnstile and reCAPTCHA v3
+
+[Pydoll - Async Web Automation Library](https://autoscrape-labs.github.io/pydoll/)
+[autoscrape-labs/pydoll: Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.](https://github.com/autoscrape-labs/pydoll)
+
+[Web Scraping With Pydoll: Guide for 2025 | Medium](https://medium.com/@datajournal/web-scraping-with-pydoll-a02613ca4d93)
 
 ## Nightwatch.js
 
@@ -261,6 +272,7 @@ const links = await Promise.all(
 [The Scrapinghub Blog – Turn Web Content Into Useful Data](https://blog.scrapinghub.com/)
 [Scraping the Steam Game Store with Scrapy – The Scrapinghub Blog](https://blog.scrapinghub.com/2017/07/07/scraping-the-steam-game-store-with-scrapy/)
 [How to Build your own Price Monitoring Tool – The Scrapinghub Blog](https://blog.scrapinghub.com/2016/11/24/how-to-build-your-own-price-monitoring-tool/)
+[Web Scraping with Scrapy: A Python Guide | Medium](https://medium.com/@datajournal/web-scraping-with-scrapy-5560a26b6e26)
 
 ### woob
 
@@ -317,3 +329,11 @@ const links = await Promise.all(
 
 [Firecrawl](https://www.firecrawl.dev/)
 [firecrawl/SELF_HOST.md at main · mendableai/firecrawl](https://github.com/mendableai/firecrawl/blob/main/SELF_HOST.md)
+
+[Home - Crawl4AI Documentation (v0.7.x)](https://docs.crawl4ai.com/)
+[unclecode/crawl4ai: 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN](https://github.com/unclecode/crawl4ai)
+
+## Web Scarping by AI
+
+[Introducing pay per crawl: Enabling content owners to charge AI crawlers for access](https://blog.cloudflare.com/introducing-pay-per-crawl/)
+[Content Independence Day: no AI crawl without compensation!](https://blog.cloudflare.com/content-independence-day-no-ai-crawl-without-compensation/)

@@ -2,7 +2,7 @@
 title: Zoology
 description: Scientific study of the animals kingdom
 created: 2021-10-30
-updated: 2025-06-01
+updated: 2025-09-16
 tags:
   - animals
   - biology
@@ -341,6 +341,7 @@ Cougar=Puma, Jaguar, Panther, Leopard 金錢豹 美洲豹
 
 [All 15 Species of Wild Dog (Wolves, Jackals & Dogs) | Canines Pt. 1 - YouTube](https://www.youtube.com/watch?v=qFM92aMtUek)
 
+[狼為何想當狗？從拯救諾姆城的二哈多哥，到超級智商的邊牧Chaser，世界上最特殊的動物——狗【老肉雜談】#動物 #寵物 #狗 #狼 #dog - YouTube](https://www.youtube.com/watch?v=jG0luF6OA8U)
 [從二哈的傳奇故事，到邊牧的超級智商！遠古的狼為何自願變成狗？關於狗的那些真相【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=jG0luF6OA8U)
 
 ## Perissodactyla
@@ -561,11 +562,11 @@ Bee's colony: hive (man-made), nest (natural)
 
 ## Decapoda (shrimps, lobsters, crayfishs, crabs)
 
+> see [[biology#Convergent Evolution]]
+
 [Decapoda - Wikiwand](https://www.wikiwand.com/en/Decapoda)
 
-[為什麼說進化的終點是螃蟹？原來，至少有 5 類史前蟲子進化成了螃蟹……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=Fu0gTUT_MHk)
 [【鬼谷说】虾蟹：只要我变得足够好吃就不会被吃 - YouTube](https://www.youtube.com/watch?v=Cv-FkylVAbA)
-[Why Do Things Keep Evolving Into Crabs? - YouTube](https://www.youtube.com/watch?v=wvfR3XLXPvw)
 
 ## 鰻魚
 

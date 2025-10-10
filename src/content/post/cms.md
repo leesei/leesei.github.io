@@ -2,7 +2,7 @@
 title: Content Management Systems
 description: ""
 created: 2022-07-09
-updated: 2025-01-09
+updated: 2025-08-07
 tags:
   - business
   - cms
@@ -41,7 +41,7 @@ tags:
 [Monica: An Open-Source App for Personal Relationship Management](https://itsfoss.com/monica/)
 
 [ERPNext: Free and Open Source Cloud ERP Software](https://erpnext.com/)
-[GitHub - frappe/erpnext: Free and Open Source Enterprise Resource Planning (ERP)](https://github.com/frappe/erpnext)
+[frappe/erpnext: Free and Open Source Enterprise Resource Planning (ERP)](https://github.com/frappe/erpnext)
 
 ## Headless CMS/Generic Data Model
 

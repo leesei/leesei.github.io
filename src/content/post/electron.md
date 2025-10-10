@@ -2,7 +2,7 @@
 title: Electron
 description: ""
 created: 2015-07-19
-updated: 2025-03-22
+updated: 2025-07-07
 tags:
   - atom-shell
   - comp/lang
@@ -12,8 +12,7 @@ tags:
 [Electron | Build cross-platform desktop apps with JavaScript, HTML, and CSS.](https://www.electronjs.org/) [GitHub](https://github.com/electron/electron)
 previously [Atom Shell](https://www.electronjs.org/blog/electron), is a platform that bundles Chromium’s rendering library and Node.js runtime for developers to write cross-platform desktop applications with JavaScript and HTML.
 
-[#216: GitHub's Electron with Zeke Sikelianos - Changelog](https://changelog.com/216/)
-[ELECTRON: why people HATE it, why devs USE it - YouTube](https://www.youtube.com/watch?v=G1K0Mb-rLBU)
+[GitHub's Electron with Zeke Sikelianos (Changelog Interviews #216)](https://changelog.com/podcast/216)
 [Is Electron really that bad? - YouTube](https://www.youtube.com/watch?v=WdmfFmwsGDo)
 [Build a Desktop App with Electron... But Should You? - YouTube](https://www.youtube.com/watch?v=3yqDxhR2XxE)
 
@@ -36,7 +35,7 @@ previously [Atom Shell](https://www.electronjs.org/blog/electron), is a platform
 Electron is very similar to the [NW.js](http://nwjs.io/) project but the differences are explained [here](https://www.electronjs.org/docs/development/electron-vs-nwjs).
 [NW.js & Electron Compared (2016 Edition) - TangibleJS](https://tangiblejs.com/posts/nw-js-and-electron-compared-2016-edition)
 [Why I prefer NW.js over Electron? (2018 comparison) | Hacker Noon](https://hackernoon.com/why-i-prefer-nw-js-over-electron-2018-comparison-e60b7289752)
-[html5 - What are the functional differences between NW.js, Brackets-Shell and Electron? - Stack Overflow](http://stackoverflow.com/questions/23731517/what-are-the-functional-differences-between-nw-js-brackets-shell-and-electron)
+[html5 - What are the functional differences between NW.js, Brackets-Shell and Electron? - Stack Overflow](https://stackoverflow.com/questions/23731517/what-are-the-functional-differences-between-nw-js-brackets-shell-and-electron)
 [Node-Webkit vs Electron - Stack Overflow](https://stackoverflow.com/questions/23509356/node-webkit-vs-electron)
 
 [Quark](https://quarkjs.io/)

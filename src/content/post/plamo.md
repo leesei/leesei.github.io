@@ -2,7 +2,7 @@
 title: Plamo
 description: ""
 created: 2017-04-25
-updated: 2025-02-16
+updated: 2025-09-23
 tags:
   - toys
 ---
@@ -427,7 +427,7 @@ HG GTO Guncannon First Type ¥86
 
 [Super Mini Pla Products List - HobbySearch Gundam Kit/etc. Store](https://www.1999.co.jp/eng/list/3288/5/1)
 [SUPER MINIPLA | 玩具人 Toy People News](https://www.toy-people.com/?s=SUPER+MINIPLA)
-[super minipla - YouTube](https://www.youtube.com/results?search_query=super+minipla&page&utm_source=opensearch)
+[super minipla - YouTube](https://www.youtube.com/results?search_query=super+minipla&page)
 
 [Super minipla 百獸王【開箱】 動漫電玩節 2018 搶先入手 - ezone.hk - 遊戲動漫 - 動漫玩具 - D180727](https://ezone.ulifestyle.com.hk/article/2118934/)
 [Superminipla 百獸王【素組】 五獅合體必殺十王劍‧巨炮 - ezone.hk - 遊戲動漫 - 動漫玩具 - D180727](https://ezone.ulifestyle.com.hk/article/2122984/)

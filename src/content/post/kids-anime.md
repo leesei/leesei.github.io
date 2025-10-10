@@ -2,7 +2,7 @@
 title: Kids Anime
 description: ""
 created: 2021-08-24
-updated: 2025-06-02
+updated: 2025-07-07
 tags:
   - anime
 ---

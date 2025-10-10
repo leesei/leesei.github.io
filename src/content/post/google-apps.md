@@ -2,7 +2,7 @@
 title: Google Apps
 description: ""
 created: 2017-02-11
-updated: 2025-06-30
+updated: 2025-08-07
 tags:
   - google
   - web
@@ -40,12 +40,15 @@ tags:
 ## Google Docs
 
 [10 Google Docs Features You Might Be Missing Out On](https://www.makeuseof.com/google-docs-features-youre-missing-out-on/)
+[The 7 Google Docs Shortcuts Everyone Forgets But Shouldn't](https://www.makeuseof.com/google-docs-shortcuts-everyone-should-use/)
+[90+ Google Docs Keyboard Shortcuts for Windows and Mac](https://www.makeuseof.com/google-docs-keyboard-shortcuts/)
 
 ## Google Sheets/Forms
 
 [十分鐘精通 Google 表單設計！（訂餐表格、課程報名表、線上測驗） - YouTube](https://www.youtube.com/watch?v=P9nWPWushdY)
 [These 8 Google Sheets Formulas Simplify My Budgeting Spreadsheet](https://www.makeuseof.com/simplify-budgeting-with-google-sheets-formulas/)
 [This Google Sheets Function Shaved Hours Off My Week](https://www.makeuseof.com/google-sheets-function-saves-hours/)
+[30+ Essential Google Sheets Functions](https://www.makeuseof.com/google-sheets-functions/)
 
 ### API/Automation
 
@@ -150,6 +153,7 @@ tags:
 [Google Maps 實用攻略 旅行前幫你輕鬆規劃行程 - Smart Collection - Articles - YOHO](https://www.yohohongkong.com/post/490-Google-Maps-%E5%AF%A6%E7%94%A8%E6%94%BB%E7%95%A5-%E6%97%85%E8%A1%8C%E5%89%8D%E5%B9%AB%E4%BD%A0%E8%BC%95%E9%AC%86%E8%A6%8F%E5%8A%83%E8%A1%8C%E7%A8%8B)
 
 [The secret economics of Google Street View - YouTube](https://www.youtube.com/watch?v=Jp2Qgw44MsA)
+[What Do All the Colors on Google Maps Mean?](https://www.makeuseof.com/google-maps-colors/)
 
 [GeoGuessr - Let's explore the world!](https://www.geoguessr.com/)
 [GeoGuessr Free | Unlimited Mode](https://geoguessr.io/)
@@ -220,11 +224,13 @@ Secret key: 6LeIxAcTAAAAAGG-vFI1TnRWxMZNFuojJ4WifJWe
 Use `www.recaptcha.net` instead of `www.google.com` for global access.
 
 [Anti Captcha: captcha solving service. Bypass reCAPTCHA, FunCaptcha, image captcha.](https://anti-captcha.com/mainpage)
+[Top 6 CAPTCHA Solvers of 2025 - Tested & Reviewed | Medium](https://medium.com/@datajournal/best-captcha-solving-tools-b5af8e6e1e94)
+[Can ChatGPT Agent Mode solve Google CAPTCHA (reCAPTCHA) and validate the Cloudflare Turnstile challenge? – 4sysops](https://4sysops.com/archives/can-chatgpt-agent-mode-solve-google-captcha-recaptcha-and-validate-the-cloudflare-turnstile-challenge/)
 
 ### Alternatives
 
 [Announcing Turnstile, a user-friendly, privacy-preserving alternative to CAPTCHA](https://blog.cloudflare.com/turnstile-private-captcha-alternative/)
-[Cloudflare Turnstile, a free CAPTCHA replacement | Cloudflare](https://www.cloudflare.com/products/turnstile/)
+[Cloudflare Turnstile | CAPTCHA Replacement Solution | Cloudflare](https://www.cloudflare.com/application-services/products/turnstile/)
 [Cloudflare Turnstile · Cloudflare Turnstile docs](https://developers.cloudflare.com/turnstile/)
 
 ## Google Analytics

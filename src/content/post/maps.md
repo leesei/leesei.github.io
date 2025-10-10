@@ -2,7 +2,7 @@
 title: Maps
 description: ""
 created: 2016-04-16
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - maps
   - science
@@ -156,7 +156,7 @@ tags:
 
 ### Latitude
 
-[Latitude - Wikiwand](http://www.wikiwand.com/en/Latitude)
+[Latitude - Wikiwand](https://www.wikiwand.com/en/Latitude)
 Horizontal lines specifying the _north-south_ position of a point on the Earth's surface.
 Ranging from 0° at the Equator to 90° (North or South) at the poles.
 
@@ -164,7 +164,7 @@ Mariners measured the angle between the horizon and stars (e.g.: Polaris – The
 
 ### Longitude
 
-[Longitude - Wikiwand](http://www.wikiwand.com/en/Longitude)
+[Longitude - Wikiwand](https://www.wikiwand.com/en/Longitude)
 Vertical lines (_Meridians_) specifying the _east-west_ position of a point on the Earth's surface.
 Ranging from 0° at the [Prime meridian](https://www.wikiwand.com/en/Prime_meridian) (Greenwich, England) to +180° eastward and −180° westward.
 In October 1884, [Prime meridian (Greenwich)](<https://www.wikiwand.com/en/Prime_meridian_(Greenwich)>) was selected in Washington.

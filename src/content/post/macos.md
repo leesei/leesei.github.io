@@ -2,7 +2,7 @@
 title: macOS
 description: ""
 created: 2016-01-03
-updated: 2025-06-27
+updated: 2025-08-17
 tags:
   - app
   - bootcamp
@@ -17,6 +17,8 @@ tags:
 [A Complete Beginner's Guide to macOS: Get Started in Just 1 Hour](https://www.makeuseof.com/tag/macos-beginners-guide/)
 [How to Install Command Line Tools in Mac OS X (Without Xcode)](http://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/)
 [What Is the Alt Key on Mac? A Complete Guide](https://www.makeuseof.com/alt-key-on-mac/)
+
+[With This Free Mac App, System Settings Are Actually Useful](https://www.howtogeek.com/with-this-free-mac-app-system-settings-are-actually-useful/)
 
 [herrbischoff/awesome-macos-command-line: Use your macOS terminal shell to do awesome things.](https://github.com/herrbischoff/awesome-macos-command-line)
 [dtinth/JXA-Cookbook: Cookbook for JavaScript for Automation in Mac OS X Yosemite](https://github.com/dtinth/JXA-Cookbook)

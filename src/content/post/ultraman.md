@@ -2,7 +2,7 @@
 title: Ultraman
 description: ""
 created: 2015-05-22
-updated: 2025-02-07
+updated: 2025-07-07
 tags:
   - tokusatsu
 ---

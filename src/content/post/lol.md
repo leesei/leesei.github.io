@@ -2,7 +2,7 @@
 title: LOL
 description: ""
 created: 2018-09-03
-updated: 2025-05-02
+updated: 2025-08-14
 tags:
   - lol
   - trivia
@@ -19,6 +19,9 @@ tags:
 [#周深 封神之曲《达拉崩吧》 - YouTube](https://www.youtube.com/watch?v=yM5NU6NPS_o)
 
 [【RPG遊戲】 - YouTube](https://www.youtube.com/playlist?list=PLst9zLbm4U1Sd17fqQKDzZ5wyDaXmK8Ji)
+
+[Programmers are also human - YouTube](https://www.youtube.com/@programmersarealsohuman5909)
+[Interview with Senior DevOps engineer 2025 - YouTube](https://www.youtube.com/watch?v=rXPpkzdS-q4)
 
 [Harmless Pranks to Play On Your Co-Worker When They Step Away From Their Desk](https://www.makeuseof.com/harmless-windows-pranks/)
 
@@ -42,13 +45,15 @@ When it comes to programming career, choose two in: Legal, Well Paid, Interestin
 
 [黃子華 Dayo Wong 棟篤笑 - 官方頻道 - YouTube](https://www.youtube.com/@tzewahofficial)
 
+[明星爆笑社 - YouTube](https://www.youtube.com/@%E6%98%8E%E6%98%9F%E7%88%86%E7%AC%91%E7%A4%BE/playlists)
 [德云欢乐铺 - YouTube](https://www.youtube.com/@DeYunShow)
 [漫品德云相声 - YouTube](https://www.youtube.com/@Crosstalk_DeYun)
 [赛博领笑员 - YouTube](https://www.youtube.com/@%E8%B5%9B%E5%8D%9A%E9%A2%86%E7%AC%91%E5%91%98)
+[Happy Night Live 笑口常开 - YouTube](https://www.youtube.com/@Happy23333)
 
 [YouTube #脱口秀](https://www.youtube.com/hashtag/%E8%84%B1%E5%8F%A3%E7%A7%80)
 
-[Variety show - YouTube](https://www.youtube.com/@C-HitShow/featured)
+[Variety show - YouTube](https://www.youtube.com/@C-HitShow/)
 [【喜剧大会】重磅回归😎🤏😳🕶🤏点击领取今日欢乐！郭麒麟陪你笑不停！ - YouTube](https://www.youtube.com/playlist?list=PLua-L-o3nGJr3gG29eVXXHIW065_HDADb)
 [【喜人奇妙夜】爆笑小品一口气看个够🤣精彩幕后花絮等你来挖🫵 - YouTube](https://www.youtube.com/playlist?list=PLua-L-o3nGJoRQZovKegvgu5di8Fbt3zb)
 [【轻轻松松喜剧节】🎉定档0419🤩和各位新老朋友来一场轻松交流～ - YouTube](https://www.youtube.com/playlist?list=PLua-L-o3nGJqB--BYyLN3lERjszHNKPaV)
@@ -56,8 +61,16 @@ When it comes to programming career, choose two in: Legal, Well Paid, Interestin
 [【脱口秀大会ROCK&ROAST 1-4季】纯享合辑💗原创棚内喜剧脱口秀💗 爆笑段子一次看过瘾，承包你所有笑点 | 每日更新中じ☆ve - YouTube](https://www.youtube.com/playlist?list=PLua-L-o3nGJo0xfJ6uz502wO1Tvdo25sC)
 [😎【Super嘎嘎man】💗“有趣综艺新偶像”选拔类真人秀 💗 好看的皮囊千篇一律，有趣的灵魂万里挑一 | 每日更新中じ☆ve - YouTube](https://www.youtube.com/playlist?list=PLua-L-o3nGJqxphJbmu0GLSHWF8xtZaCA)
 
+[iQIYI 潮综艺 - Get the iQIYI APP - YouTube](https://www.youtube.com/@iQIYISuperShow)
+[iQIYI 爆笑宇宙 - Get the iQIYI APP - YouTube](https://www.youtube.com/@iQIYIHappyWorld)
+[《喜剧之王单口季》🔥𝐅𝐔𝐋𝐋 ▷▶️ 打开喜单，快乐无边😄| The King of Stand-up Comedy | iQIYI潮综艺 - YouTube](https://www.youtube.com/playlist?list=PLdbzRdDJq2My7bqm3Wlt0-twFbRbE8_D-)
+[😉【喜剧之王单口季2】FULL🎙️这个夏天和喜单一起继续爆梗一“夏”！| 喜剧之王单口季2 | The King of Stand-up Comedy 2 | iQIYI爆笑宇宙 - YouTube](https://www.youtube.com/playlist?list=PL1P5vV0rkU8woupe2HtKpwPyNNKPc5MC5)
+
+[喜剧大联盟 - YouTube](https://www.youtube.com/@SuperComedyLeague/playlists)
+[【🤣一年一度喜剧大赛完整版】 经典就是反反复复复复复复复复复复看~#喜剧大联盟 - YouTube](https://www.youtube.com/playlist?list=PL7qOmmwDRGD2sPbdoWNXj_opmAlHyWMax)
+[【😂一年一度喜剧大赛2】 一次看爽 笑到飙泪🤣#喜剧大联盟 - YouTube](https://www.youtube.com/playlist?list=PL7qOmmwDRGD26Ktvi7VUrUX4IbYfrxqzC)
+
 [Watch Together - YouTube](https://www.youtube.com/@video-cntalkshow/playlists)
-[【喜人奇妙夜】 - YouTube](https://www.youtube.com/playlist?list=PLr9yg5FoAw_NxmHSN4gc0nKmVwOSSTB73)
 [【单排喜剧大赛】和徐志胜/郭德纲/阎鹤祥一起感受单排喜剧的快乐~ - YouTube](https://www.youtube.com/playlist?list=PLr9yg5FoAw_OC7jZb8B-wJt9B5TL5-r7N)
 [【脱口秀开小会啦~】和李诞一起来到脱口秀小餐厅 一起畅聊台前幕后、生活趣事、每个人不为人知的小故事！ - YouTube](https://www.youtube.com/playlist?list=PLr9yg5FoAw_MhIm3grelP7-K8YJkB3jev)
 
@@ -65,6 +78,14 @@ When it comes to programming career, choose two in: Legal, Well Paid, Interestin
 [【单排喜剧大赛】郭德纲阎鹤祥徐志胜组建单人喜剧厂牌？！谁才是solo comedy的王！#单排喜剧大赛 #喜剧 #综艺 - YouTube](https://www.youtube.com/playlist?list=PL3483-r9ZH78QpXMK0e04za0GIMvzuNWR)
 [【喜人奇妙夜】马东黄渤秦昊高圆圆贾冰领衔王牌喜剧综艺爆笑回归！ - YouTube](https://www.youtube.com/playlist?list=PL3483-r9ZH7-3TbwjQRSTMnwa-ms20CQN)
 [【脱口秀和Ta的朋友们】脱口秀新综艺！大家的快乐回归了！#脱口秀 #助眠 #talkshow #搞笑 #综艺 #娱乐 #呼兰 #何广智 #赵晓卉 #徐志胜 - YouTube](https://www.youtube.com/playlist?list=PL3483-r9ZH78Udec9SGAdW8FzxhKgXe_1)
+
+## Honest Trailers
+
+[Screen Junkies - YouTube](https://www.youtube.com/@screenjunkies) Honest Movie Trailers
+[Honest Trailers - Tuesdays at 10am PST - YouTube](https://www.youtube.com/playlist?list=PL86F4D497FD3CACCE)
+[Honest Trailers | Every MCU Honest Trailer - YouTube](https://www.youtube.com/watch?v=lS41XvrBFvU)
+
+[Honest Game Trailers - YouTube](https://www.youtube.com/@FandomGames)
 
 ## Meme
 
@@ -77,7 +98,7 @@ When it comes to programming career, choose two in: Legal, Well Paid, Interestin
 
 [Internet Meme Database | Know Your Meme](https://knowyourmeme.com/)
 
-[Homestar Runner Wiki](http://www.hrwiki.org/wiki/Main_Page)
+[Homestar Runner - Wikiwand](https://www.wikiwand.com/en/articles/Homestar_Runner)
 
 [墨鏡哥SG - YouTube](https://www.youtube.com/@SG666)
 [笑中乐 - YouTube](https://www.youtube.com/@%E7%AC%91%E4%B8%AD%E4%B9%90/)
@@ -97,7 +118,7 @@ When it comes to programming career, choose two in: Legal, Well Paid, Interestin
 [Rohit 🤯 on Twitter: "Which of these books do you own?… "](https://twitter.com/romiem/status/1030438339390910464)
 
 [O RLY Parody Book Generator - DEV Community 👩‍💻👨‍💻](https://dev.to/rly)
-[O'Reilly Generator](http://oreilly-generator.com/) Japanese
+[O'Rly Generator – 2](https://arthurbeaulieu.github.io/ORlyGenerator/)
 [O'Reilly Book Cover Generator](https://codepen.io/proudlygeek/pen/vGjgqO) React, image dead link
 
 ## LOL

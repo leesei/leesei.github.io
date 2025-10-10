@@ -2,7 +2,7 @@
 title: Internet History
 description: ""
 created: 2016-08-01
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - browser-war
   - history
@@ -34,20 +34,20 @@ Documents the history of Internet and major events.
 
 [Yet Another JavaScript Framework | CSS-Tricks](https://css-tricks.com/yet-another-javascript-framework/) on frameworks
 
-[How I convinced my government to apologise to Alan Turing |> News and podcasts for developers |> Changelog](https://changelog.com/posts/how-i-convinced-my-government-to-apologise-to-alan-turing)
+[How I convinced my government to apologise to Alan Turing](https://changelog.com/posts/how-i-convinced-my-government-to-apologise-to-alan-turing)
 
 ## The Web Behind
 
-[The Web Behind | The Web Ahead](http://thewebahead.net/34)
-[The Web Behind with John Allsopp | The Web Ahead](http://thewebahead.net/35)
-[The Web Behind with Steven Champeon | The Web Ahead](http://thewebahead.net/37)
-[The Web Behind with Dave Shea | The Web Ahead](http://thewebahead.net/39)
-[The Web Behind with Molly Holzschlag | The Web Ahead](http://thewebahead.net/41)
-[The Web Behind with Chris Wilson | The Web Ahead](http://thewebahead.net/43)
-[The Web Behind with Tom Bruce | The Web Ahead](http://thewebahead.net/44)
-[The Web Behind with Tantek Çelik | The Web Ahead](http://thewebahead.net/46)
-[The Web Behind with Jen Robbins | The Web Ahead](http://thewebahead.net/47)
-[The Web Behind with Danny Sullivan | The Web Ahead](http://thewebahead.net/48)
+[The Web Behind | The Web Ahead](https://thewebahead.net/34)
+[The Web Behind with John Allsopp | The Web Ahead](https://thewebahead.net/35)
+[The Web Behind with Steven Champeon | The Web Ahead](https://thewebahead.net/37)
+[The Web Behind with Dave Shea | The Web Ahead](https://thewebahead.net/39)
+[The Web Behind with Molly Holzschlag | The Web Ahead](https://thewebahead.net/41)
+[The Web Behind with Chris Wilson | The Web Ahead](https://thewebahead.net/43)
+[The Web Behind with Tom Bruce | The Web Ahead](https://thewebahead.net/44)
+[The Web Behind with Tantek Çelik | The Web Ahead](https://thewebahead.net/46)
+[The Web Behind with Jen Robbins | The Web Ahead](https://thewebahead.net/47)
+[The Web Behind with Danny Sullivan | The Web Ahead](https://thewebahead.net/48)
 
 ## The History of the Web
 
@@ -69,7 +69,7 @@ Netscape, IE
 [When Netscape Almost Destroyed Microsoft | Nostalgia Nerd - YouTube](https://www.youtube.com/watch?v=huFRTqxb5BE)
 
 [Microsoft Antitrust with Harry First | Software Engineering Daily](https://softwareengineeringdaily.com/2016/09/13/microsoft-antitrust-with-harry-first/)
-[Request For Commits #11: Funding the Web with Brendan Eich |> News and podcasts for developers |> Changelog](https://changelog.com/rfc/11) Author of JavaScript, browser war
+[Funding the Web with Brendan Eich (Request For Commits #11)](https://changelog.com/rfc/11) Author of JavaScript, browser war
 [Chapter 10: Browser Wars | CSS-Tricks - CSS-Tricks](https://css-tricks.com/chapter-10-browser-wars/)
 
 ## Browser War II

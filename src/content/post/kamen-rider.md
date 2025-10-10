@@ -2,7 +2,7 @@
 title: Kamen Rider
 description: ""
 created: 2024-06-15
-updated: 2025-01-22
+updated: 2025-07-07
 tags:
   - tokusatsu
 ---

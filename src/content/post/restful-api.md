@@ -2,7 +2,7 @@
 title: Restful API
 description: ""
 created: 2016-05-16
-updated: 2025-04-09
+updated: 2025-09-23
 tags:
   - rest
   - web
@@ -26,7 +26,7 @@ tags:
 [Design an easy to use and flexible REST API - DEV Community 👩‍💻👨‍💻](https://dev.to/khalyomede/design-an-easy-to-use-and-flexible-rest-endpoints-3fia)
 [The Case for REST - Prudence: Scalable REST Platform for the JVM - Three Crickets](http://threecrickets.com/prudence/articles/rest/)
 [Thoughts on RESTful API Design](https://restful-api-design.readthedocs.io/en/latest/)
-[A Brief Introduction to REST](http://www.infoq.com/articles/rest-introduction)
+[A Brief Introduction to REST](https://www.infoq.com/articles/rest-introduction)
 [10 Best Practices for Writing Node.js REST APIs – Node.js Collection – Medium](https://medium.com/the-node-js-collection/10-best-practices-for-writing-node-js-rest-apis-7643a7765cd)
 [13 free tools for API design, development, and testing | InfoWorld](https://www.infoworld.com/article/3410586/13-free-tools-for-api-design-development-and-testing.html)
 [API Is Dead – Long Live the APIs - DZone Integration](https://dzone.com/articles/api-is-dead-long-live-the-apis)
@@ -63,4 +63,4 @@ tags:
 [The Hypermedia Debate: JSON link formatting for HATEOAS](http://www.foxycart.com/blog/the-hypermedia-debate)
 [Understanding HATEOAS](http://spring.io/understanding/HATEOAS)
 
-[Spring HATEOAS: Hypermedia APIs with Spring](https://www.infoq.com/presentations/spring-hateoas-1/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Java)
+[Spring HATEOAS: Hypermedia APIs with Spring](https://www.infoq.com/presentations/spring-hateoas-1/)

@@ -2,7 +2,7 @@
 title: JavaScript Snippets
 description: ""
 created: 2014-12-11
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - comp/lang
   - javascript
@@ -337,7 +337,7 @@ function toUtf8ByteArray(str) {
 var express = require("express");
 var restify = require("restify");
 
-// see http://stackoverflow.com/a/13690887/665507
+// see https://stackoverflow.com/a/13690887/665507
 
 // Restify server config here
 var server = restify.createServer({

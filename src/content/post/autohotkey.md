@@ -2,7 +2,7 @@
 title: AutoHotKey
 description: The ultimate automation scripting language for Windows.
 created: 2023-02-16
-updated: 2025-06-18
+updated: 2025-07-08
 tags:
   - app
   - automation
@@ -17,6 +17,7 @@ Use `#Requires AutoHotkey v2.0` to opt-in to v2.
 [List of Keys (Keyboard, Mouse and Controller) | AutoHotkey v2](https://www.autohotkey.com/docs/v2/KeyList.htm)
 [Use AutoHotKey to Paste Text as Typing | Blog](https://ardalis.com/use-autohotkey-to-paste-text-as-typing/)
 [How to Create Custom Keyboard Shortcuts with AutoHotkey](https://www.howtogeek.com/290501/how-to-create-custom-keyboard-shortcuts-with-autohotkey/)
+[14 AutoHotkey Scripts I Use Daily (And Can’t Live Without)](https://www.makeuseof.com/autohotkey-scripts-i-cant-live-without/)
 
 [Joe - AUTOHOTKEY Guru - YouTube](https://www.youtube.com/@JoeGlines-Automator)
 [evilC (Clive Galway)](https://github.com/evilC)

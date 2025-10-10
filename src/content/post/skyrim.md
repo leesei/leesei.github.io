@@ -2,7 +2,7 @@
 title: Elder Scroll V Skyrim
 description: ""
 created: 2023-08-14
-updated: 2025-06-06
+updated: 2025-07-07
 tags:
   - games
   - skyrim

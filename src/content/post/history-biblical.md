@@ -2,7 +2,7 @@
 title: Biblical History
 description: ""
 created: 2016-08-10
-updated: 2025-06-09
+updated: 2025-07-08
 tags:
   - catholic-church
   - dark-ages
@@ -19,9 +19,3 @@ This is at the watershed of the Dark Age and Renaissance:
 the Church was taking the government's role
 printing press allowed for widespread of ideas, and heresy, rapidly
 Money destabilized social structure:poor blue blood vs rich merchants; decrease in supply of peasants due to plague, there's no market they are bound by law to work for their lord
-
-[History of Christianity - Wikiwand](http://www.wikiwand.com/en/History_of_Christianity)
-[Protestant Reformation - Wikiwand](http://www.wikiwand.com/en/Protestant_Reformation)
-[Eastern Orthodox Church - Wikiwand](http://www.wikiwand.com/en/Eastern_Orthodox_Church)
-
-[深度解析『出埃及记：法老与众神』, 克里斯蒂安深情演绎完美摩西 , 3000年前的蝙蝠侠; - YouTube](https://www.youtube.com/watch?v=-4Gnxsjyy6Y)

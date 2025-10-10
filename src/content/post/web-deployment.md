@@ -2,7 +2,7 @@
 title: Web Deployment
 description: ""
 created: 2016-02-05
-updated: 2025-01-09
+updated: 2025-10-03
 tags:
   - dev/deploy
   - web
@@ -39,7 +39,6 @@ tags:
 ## Large Deployments
 
 [Discord Backend Architecture Discussion - YouTube](https://www.youtube.com/watch?v=S3tLp_eKjbk)
-[How Twitch Live Streaming and Chat works through HTTP - Devtooling Twitch - YouTube](https://www.youtube.com/watch?v=X7AQ_f-ki3s)
 
 ## Storage
 

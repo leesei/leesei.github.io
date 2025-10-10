@@ -2,7 +2,7 @@
 title: Warframe
 description: ""
 created: 2024-12-24
-updated: 2025-02-16
+updated: 2025-07-07
 tags:
   - games
   - warframe

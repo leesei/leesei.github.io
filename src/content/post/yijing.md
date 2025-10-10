@@ -2,7 +2,7 @@
 title: 易經
 description: 易經/周易 I Ching/Yijing
 created: 2023-06-14
-updated: 2025-01-09
+updated: 2025-09-19
 tags:
   - trivia
 ---
@@ -23,3 +23,6 @@ tags:
 連山易 神農氏 8萬字 先天64卦
 歸藏易 堯舜 4300字 先天8卦，乾為首
 周易 周文王 一千多字 後天八卦 64卦 孔子10翼，離
+
+[萬事萬物真的存在聯系，西遊記中的隔空猜物竟然真的存在，東方朔，劉伯溫等大師都玩過的易學遊戲究竟是怎麽玩的？射覆真的可以預測未來麽......|總裁聊聊 - YouTube](https://www.youtube.com/watch?v=OAzkZTWoPFk)
+蓍草法 六爻 大六壬 紫微斗數 梅花易

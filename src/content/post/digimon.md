@@ -2,7 +2,7 @@
 title: Digimon
 description: ""
 created: 2016-03-19
-updated: 2025-02-16
+updated: 2025-07-07
 tags:
   - anime
   - digimon
@@ -20,17 +20,17 @@ I only follow Digimon Adventure, Digimon Adventure 02, Digimon Data Squad (05), 
 
 ## Wiki
 
-[Digimon - Wikiwand](http://www.wikiwand.com/en/Digimon)
-[List of Digimon episodes and movies - Wikiwand](http://www.wikiwand.com/en/List_of_Digimon_episodes_and_movies)
+[Digimon - Wikiwand](https://www.wikiwand.com/en/Digimon)
+[List of Digimon episodes and movies - Wikiwand](https://www.wikiwand.com/en/List_of_Digimon_episodes_and_movies)
 
 [Wikimon - The #1 Digimon Wiki](https://wikimon.net/Main_Page)
 [THE DIGIMON ENCYCLOPEDIA](http://digipedia.db-destiny.net/)
 
-[Digimon: The Movie - Wikiwand](http://www.wikiwand.com/en/Digimon:_The_Movie)
-[Digimon Adventure - Wikiwand](http://www.wikiwand.com/en/Digimon_Adventure)
-[Digimon Adventure 02 - Wikiwand](http://www.wikiwand.com/en/Digimon_Adventure_02)
-[Digimon Data Squad - Wikiwand](http://www.wikiwand.com/en/Digimon_Data_Squad)
-[Digimon Adventure tri. - Wikiwand](http://www.wikiwand.com/en/Digimon_Adventure_tri.)
+[Digimon: The Movie - Wikiwand](https://www.wikiwand.com/en/Digimon:_The_Movie)
+[Digimon Adventure - Wikiwand](https://www.wikiwand.com/en/Digimon_Adventure)
+[Digimon Adventure 02 - Wikiwand](https://www.wikiwand.com/en/Digimon_Adventure_02)
+[Digimon Data Squad - Wikiwand](https://www.wikiwand.com/en/Digimon_Data_Squad)
+[Digimon Adventure tri. - Wikiwand](https://www.wikiwand.com/en/Digimon_Adventure_tri.)
 [Digimon Adventure (2020 TV series) - Wikiwand](<https://www.wikiwand.com/en/Digimon_Adventure_(2020_TV_series)>) reboot of the first series
 
 [Digimon Wiki - Wikia](http://digimon.fandom.com/wiki/Digimon_Wiki)
@@ -41,7 +41,7 @@ I only follow Digimon Adventure, Digimon Adventure 02, Digimon Data Squad (05), 
 [Digimon Adventure: | DigimonWiki | Fandom](https://digimon.fandom.com/wiki/Digimon_Adventure:)
 
 [List of characters in Digimon Adventure | DigimonWiki | Fandom](https://digimon.fandom.com/wiki/List_of_characters_in_Digimon_Adventure)
-[数码宝贝大冒险角色列表 - Wikiwand](http://www.wikiwand.com/zh/数码宝贝大冒险角色列表)
+[数码宝贝大冒险角色列表 - Wikiwand](https://www.wikiwand.com/zh/数码宝贝大冒险角色列表)
 
 ## Digivolution
 

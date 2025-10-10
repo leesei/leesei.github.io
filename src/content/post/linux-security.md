@@ -2,7 +2,7 @@
 title: Linux Security
 description: ""
 created: 2016-05-30
-updated: 2025-02-04
+updated: 2025-07-07
 tags:
   - linux
   - security

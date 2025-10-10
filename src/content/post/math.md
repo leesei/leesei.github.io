@@ -2,7 +2,7 @@
 title: Mathematics
 description: ""
 created: 2017-10-31
-updated: 2025-06-15
+updated: 2025-09-02
 tags:
   - math
 ---
@@ -169,6 +169,7 @@ Eigenvalue = sum of squared distances of projected points on principal component
 [Lecture: PCA for Face Recognition - YouTube](https://www.youtube.com/watch?v=8BTv-KZ2Bh8)
 
 [Daniel Pyrathon - A practical guide to Singular Value Decomposition in Python - PyCon 2018 - YouTube](https://www.youtube.com/watch?v=d7iIb_XVkZs) [slide](https://speakerdeck.com/pycon2018/daniel-pyrathon-a-practical-guide-to-singular-value-decomposition-in-python)
+[A Gentle Introduction to Principal Component Analysis (PCA) in Python - KDnuggets](https://www.kdnuggets.com/gentle-introduction-principal-component-analysis-pca-in-python)
 
 [淺談降維方法中的 PCA 與 t-SNE. 在機器學習當中，如果特徵數過多時，有可能會造成一些問題，像是： | by 愷開 | De-Magazine | Medium](https://medium.com/d-d-mag/%E6%B7%BA%E8%AB%87%E5%85%A9%E7%A8%AE%E9%99%8D%E7%B6%AD%E6%96%B9%E6%B3%95-pca-%E8%88%87-t-sne-d4254916925b)
 
@@ -183,6 +184,7 @@ Eigenvalue = sum of squared distances of projected points on principal component
 [Markov chain - Wikiwand](https://www.wikiwand.com/en/Markov%20Chains)
 [Markov Chains Clearly Explained! - YouTube](https://www.youtube.com/playlist?list=PLM8wYQRetTxBkdvBtz-gw8b9lcVkdXQKV)
 [Markov Decision Processes - Computerphile - YouTube](https://www.youtube.com/watch?v=2iF9PRriA7w)
+[The Strange Math That Predicts (Almost) Anything - YouTube](https://www.youtube.com/watch?v=KZeIEiBrT_w)
 
 equilibrium probability = left eigen vector of the adjacency matrix
 
@@ -481,6 +483,10 @@ uses complex number and group theory
 立方體體積倍增
 三等分位意角
 化圓為方
+
+### Non-Euclidean Geometry
+
+[【漫士】千年后的反例：非欧几何、曲率与绝妙定理 - YouTube](https://www.youtube.com/watch?v=bXVrauQPfVw)
 
 ### Fractal
 

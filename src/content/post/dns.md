@@ -2,7 +2,7 @@
 title: DNS
 description: ""
 created: 2015-07-25
-updated: 2025-06-06
+updated: 2025-07-08
 tags:
   - web
 ---
@@ -188,6 +188,11 @@ Server Name Identification (SNI), a technology used by servers hosting multiple 
 
 [Chris's Wiki :: blog/linux/SystemdResolvedNotes](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdResolvedNotes)
 [nss(5) - Linux manual page](http://man7.org/linux/man-pages/man5/nss.5.html)
+
+## DNS for IP Addresses
+
+[We've Issued Our First IP Address Certificate - Let's Encrypt](https://letsencrypt.org/2025/07/01/issuing-our-first-ip-address-certificate/)
+[Let's Encrypt makes free security certificates available for IP addresses - BetaNews](https://betanews.com/2025/07/03/lets-encrypt-makes-free-security-certificates-available-for-ip-addresses/)
 
 ## Registrars
 

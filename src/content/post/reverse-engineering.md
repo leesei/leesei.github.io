@@ -2,7 +2,7 @@
 title: Reverse Engineering
 description: ""
 created: 2023-03-01
-updated: 2025-05-26
+updated: 2025-09-18
 tags:
   - security
 ---
@@ -36,6 +36,8 @@ Low Level Learning
 [Intro to Game Hacking: DEFCON 32 - YouTube](https://www.youtube.com/watch?v=Y0O3SHrBFbE)
 [Unlocking the Secrets of my Favorite Childhood Game. - YouTube](https://www.youtube.com/watch?v=2ZnAS5_0Z3I)
 
+[一口气搞懂二进制漏洞攻防对抗史！ - YouTube](https://www.youtube.com/watch?v=J41EIsUkaYE)
+
 [Level Up Your Reverse Engineering Skills – Angular In Depth](https://blog.angularindepth.com/level-up-your-reverse-engineering-skills-8f910ae10630)
 [Practical application of reverse-engineering guidelines and principles](https://medium.com/react-in-depth/practical-application-of-reverse-engineering-guidelines-and-principles-784c004bb657)
 
@@ -46,6 +48,8 @@ John Hammond
 [Google CTF - BEGINNER Reverse Engineering w/ ANGR - YouTube](https://www.youtube.com/watch?v=RCgEIBfnTEI)
 [Malware - YouTube](https://www.youtube.com/playlist?list=PL1H1sBF1VAKWMn_3QPddayIypbbITTGZv)
 [Snip3 Crypter/RAT Loader - DcRat MALWARE ANALYSIS - YouTube](https://www.youtube.com/watch?v=ElqmQDySy48)
+
+[everything is open source if you know reverse engineering (hack with me!) - YouTube](https://www.youtube.com/watch?v=m0XAPRAOJ8A)
 
 [Intel® XED](https://intelxed.github.io/)
 [intelxed/xed: x86 encoder decoder](https://github.com/intelxed/xed)

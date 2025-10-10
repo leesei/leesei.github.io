@@ -2,7 +2,7 @@
 title: Tmux
 description: ""
 created: 2014-12-11
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - app
   - shell-tool
@@ -58,7 +58,7 @@ $echo case $- in *i*) . ~/.bashrc;; esac >> .bash_profile
 [TMUX – The Terminal Multiplexer (Part 1) | Hawk Host Blog](https://blog.hawkhost.com/2010/06/28/tmux-the-terminal-multiplexer/)
 [TMUX – The Terminal Multiplexer (Part 2) | Hawk Host Blog](https://blog.hawkhost.com/2010/07/02/tmux-%E2%80%93-the-terminal-multiplexer-part-2/)
 
-[screen - Send command to all window in tmux - Stack Overflow](http://stackoverflow.com/questions/9250884/send-command-to-all-window-in-tmux)
+[screen - Send command to all window in tmux - Stack Overflow](https://stackoverflow.com/questions/9250884/send-command-to-all-window-in-tmux)
 
 ## key bindings/cheatsheet
 

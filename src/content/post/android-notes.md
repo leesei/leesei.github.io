@@ -2,7 +2,7 @@
 title: Android notes
 description: ""
 created: 2014-12-17
-updated: 2025-04-28
+updated: 2025-07-07
 tags:
   - aapt
   - adb

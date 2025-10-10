@@ -2,7 +2,7 @@
 title: Redhat
 description: ""
 created: 2016-04-24
-updated: 2025-01-09
+updated: 2025-09-23
 tags:
   - centos
   - desktop
@@ -24,6 +24,7 @@ Package Management: RPM (`dnf` after 22)
 [Fedora (operating system) - Wikiwand](<https://www.wikiwand.com/en/Fedora_(operating_system)>)
 [FedoraProject](https://fedoraproject.org/wiki/Fedora_Project_Wiki)
 
+[The Fedora Project history and family tree - Fedora Magazine](https://fedoramagazine.org/the-fedora-project/)
 [The relationship between Fedora and Red Hat Enterprise Linux | Red Hat](https://www.redhat.com/en/technologies/linux-platforms/articles/relationship-between-fedora-and-rhel)
 [Fedora 21 rolls three versions of Linux into one OS | InfoWorld](http://www.infoworld.com/article/2842575/linux/fedora-21-three-flavors-of-linux-one-os.html)
 [Fedora 25 stakes out leading edge, not bleeding edge | InfoWorld](http://www.infoworld.com/article/3143141/linux/fedora-25-stakes-out-leading-edge-not-bleeding-edge.html)

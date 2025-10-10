@@ -2,7 +2,7 @@
 title: Payload CMS
 description: A code first CMS that works the way you do
 created: 2023-04-30
-updated: 2025-07-01
+updated: 2025-08-23
 tags:
   - cms
   - typescript
@@ -51,6 +51,8 @@ npx create-payload-app@latest --use-bun --example auth -n example-auth
 
 [Payload: The Complete Backend for NextJS - YouTube](https://www.youtube.com/watch?v=121FJ9mov-4&t=751s)
 
+[NLV Codes - YouTube](https://www.youtube.com/@nlv_codes)
+
 Aaron Saunders
 [PAYLOAD CMS - YouTube](https://www.youtube.com/playlist?list=PL2PY2-9rsgl3o_RwTgZ17E2_Z5SuseDbo)
 [Payload CMS Fullstack To Do - YouTube](https://www.youtube.com/playlist?list=PL2PY2-9rsgl2YAgCbrvzxAj5Eqpuhob62)
@@ -87,6 +89,15 @@ For writing apps based on Payload CMS, can overrides access control (default tru
 
 [Local API | Documentation | Payload](https://payloadcms.com/docs/local-api/overview)
 [Using Payload outside Next.js | Documentation | Payload](https://payloadcms.com/docs/local-api/outside-nextjs)
+
+### Custom Components
+
+[Payload CMS Custom Components - YouTube](https://www.youtube.com/playlist?list=PLu4ZqvNbx29sK1DbxJnnwOFTg5OHOcrzL)
+
+### Custom Fields
+
+[Payload CMS: How To Create Custom Array Field for Tags - YouTube](https://www.youtube.com/watch?time_continue=342&v=a2vMXJHClZU)
+[Make Your Payload CMS Fields Work Together Like Magic with Custom Fields - YouTube](https://www.youtube.com/watch?v=EX_DeZtuOqc)
 
 ## Access control/Authorization
 

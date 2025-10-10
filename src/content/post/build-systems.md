@@ -2,7 +2,7 @@
 title: Build Systems
 description: ""
 created: 2015-06-11
-updated: 2025-02-16
+updated: 2025-08-13
 tags:
   - bazel
   - buck
@@ -30,6 +30,7 @@ tags:
 [Self-documenting Makefiles - by Julio Merino](https://blogsystem5.substack.com/p/make-help)
 [帶有 make help 說明的 Makefile – Gea-Suan Lin's BLOG](https://blog.gslin.org/archives/2025/01/12/12201/%e5%b8%b6%e6%9c%89-make-help-%e8%aa%aa%e6%98%8e%e7%9a%84-makefile/)
 
+[The Case for Makefiles in Python Projects (And How to Get Started) - KDnuggets](https://www.kdnuggets.com/the-case-for-makefiles-in-python-projects-and-how-to-get-started)
 [The joy of make at jsconfeu](http://codeofrob.com/entries/the-joy-of-make-at-jsconfeu.html)
 [Practical Makefiles, by example](http://nuclear.mutantstargoat.com/articles/make/)
 [Building Web Applications With Make – Smashing Magazine](http://www.smashingmagazine.com/2015/10/building-web-applications-with-make/)

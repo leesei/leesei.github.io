@@ -2,7 +2,7 @@
 title: Voting Systems
 description: ""
 created: 2015-03-05
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - politics
   - voting
@@ -11,7 +11,7 @@ tags:
 - Primary vs Caucuses
 - Closed/semi-closed/open primary
 
-[Voting system - Wikiwand](http://www.wikiwand.com/en/Voting_system)
+[Voting system - Wikiwand](https://www.wikiwand.com/en/Voting_system)
 [Michael Munger on Choosing in Groups | EconTalk | Library of Economics and Liberty](http://www.econtalk.org/archives/2015/02/michael_munger_1.html)
 
 [RangeVoting.org - Center for Range Voting - front page](https://www.rangevoting.org/) includes Instant Runoff and Approval voting
@@ -31,7 +31,7 @@ tags:
 
 ## Voting is Flawed
 
-[Voting paradox - Wikiwand](http://www.wikiwand.com/en/Voting_paradox) group preference is not transitive
+[Voting paradox - Wikiwand](https://www.wikiwand.com/en/Voting_paradox) group preference is not transitive
 [Arrow's impossibility theorem - Wikiwand](https://www.wikiwand.com/en/Arrow%27s_impossibility_theorem)
 [Why Democracy Is Mathematically Impossible - YouTube](https://www.youtube.com/watch?v=qf7ws2DF-zk)
 Satisfying all five of the following criteria is impossible for a ranked voting system of 3 or more candidates:
@@ -110,7 +110,7 @@ Ranked Choice Voting
 Instant Runoff Voting
 Preferential Voting
 
-[Instant‐runoff voting - Wikiwand](http://www.wikiwand.com/en/Instant‐runoff_voting)
+[Instant‐runoff voting - Wikiwand](https://www.wikiwand.com/en/Instant‐runoff_voting)
 [Single transferable vote - Wikiwand](https://www.wikiwand.com/en/Single_transferable_vote)
 
 [Politics in the Animal Kingdom: Single Transferable Vote - YouTube](https://www.youtube.com/watch?v=l8XOZJkozfI)
@@ -174,11 +174,11 @@ measure _misrepresentation error_, the difference of percentage points between w
 [H.I. #37: Penguins and Politics — Hello Internet](http://www.hellointernet.fm/podcast/37)
 [HI 37 — CGP Grey](http://www.cgpgrey.com/hi-37-rdr) (1:16:03)
 
-[United Kingdom Alternative Vote referendum, 2011 - Wikiwand](http://www.wikiwand.com/en/United_Kingdom_Alternative_Vote_referendum,_2011)
+[United Kingdom Alternative Vote referendum, 2011 - Wikiwand](https://www.wikiwand.com/en/United_Kingdom_Alternative_Vote_referendum,_2011)
 
 ---
 
-[Butterfly Effects | 99% Invisible](http://99percentinvisible.org/episode/butterfly-effects/) US 2000 presidential election, election history and UX
+[Butterfly Effects | 99% Invisible](https://99percentinvisible.org/episode/butterfly-effects/) US 2000 presidential election, election history and UX
 
 ## Electoral College
 

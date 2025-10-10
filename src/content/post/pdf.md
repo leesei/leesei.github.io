@@ -2,7 +2,7 @@
 title: Portable Document Format (PDF)
 description: ""
 created: 2018-10-27
-updated: 2025-06-24
+updated: 2025-09-23
 tags:
   - business
   - desktop
@@ -44,6 +44,9 @@ PDF 簽署 <https://sign.new>
 [PDFgear - Free PDF Editor Software & Online tools](https://www.pdfgear.com/)
 [This Free App Is a Game Changer for PDFs on Windows](https://www.makeuseof.com/this-free-pdf-app-game-changer-on-windows/)
 
+[FlexiPDF | The GDPR-compliant PDF editor alternative to Acrobat](https://www.softmaker.com/en/products/flexipdf) Windows
+
+[This PDF editor is Adobe Acrobat Pro on steroids and I can’t recommend it enough](https://www.xda-developers.com/flexipdf-editor-is-adobe-acrobat-pro-on-steroids/)
 Page manipulation:
 [Split and merge PDF files. Free and open source - PDFsam](https://pdfsam.org/)
 [PDF Chain Project Page - Welcome](https://pdfchain.sourceforge.io/)
@@ -69,6 +72,11 @@ Chop/Watermark:
 
 ## Data Extraction
 
+[6 Methods to Extract Data from PDF 2025](https://klearstack.com/how-to-extract-data-from-pdf/)
+
+[python - How can I extract tables as structured data from PDF documents? - Stack Overflow](https://stackoverflow.com/questions/17591426/how-can-i-extract-tables-as-structured-data-from-pdf-documents)
+[How to extract tables from PDF? : r/PowerShell](https://www.reddit.com/r/PowerShell/comments/16zm51s/how_to_extract_tables_from_pdf/)
+
 [MinerU](https://mineru.net/)
 [opendatalab/MinerU: A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。](https://github.com/opendatalab/MinerU)
 
@@ -78,13 +86,31 @@ Chop/Watermark:
 [Tabula: Extract Tables from PDFs](https://tabula.technology/)
 [tabulapdf/tabula: Tabula is a tool for liberating data tables trapped inside PDF files](https://github.com/tabulapdf/tabula)
 
-[6 Methods to Extract Data from PDF 2025](https://klearstack.com/how-to-extract-data-from-pdf/)
+[PyMuPDF 1.24.9 documentation](https://pymupdf.readthedocs.io/en/latest/)
+[pymupdf/PyMuPDF: PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.](https://github.com/pymupdf/PyMuPDF)
+[Text Extraction with PyMuPDF](https://artifex.com/blog/text-extraction-with-pymupdf)
+[Table Recognition and Extraction With PyMuPDF](https://artifex.com/blog/table-recognition-extraction-from-pdfs-pymupdf-python)
+
+[camelot-py · PyPI](https://pypi.org/project/camelot-py/)
+[tabula-py · PyPI](https://pypi.org/project/tabula-py/)
+[ashima/pdf-table-extract: Extract tables from PDF pages.](https://github.com/ashima/pdf-table-extract/) old
+
+### LLM
 
 [Building a Custom PDF Parser with PyPDF and LangChain - KDnuggets](https://www.kdnuggets.com/building-a-custom-pdf-parser-with-pypdf-and-langchain)
+[nlmatics/llmsherpa: Developer APIs to Accelerate LLM Projects](https://github.com/nlmatics/llmsherpa#layoutpdfreader)
 
 ## Toolkits
 
 [11 of the Best Free Linux PDF Tools - LinuxLinks](https://www.linuxlinks.com/pdftools/)
+
+[Features in PDFsam Basic, free and open source - PDFsam](https://pdfsam.org/pdfsam-basic/) Java, GUI
+`yay -S ttf-ms-win11-auto pdfsam`
+
+[Stirling PDF: Free Adobe Acrobat Alternative (10M+ Downloads)](https://www.stirlingpdf.com/) webui
+[Stirling-Tools/Stirling-PDF: #1 Locally hosted web application that allows you to perform various operations on PDF files](https://github.com/Stirling-Tools/Stirling-PDF)
+
+[Sejda SDK - a Java library to edit PDF files](http://sejda.org/)
 
 [Ghostscript - Wikiwand](https://www.wikiwand.com/en/Ghostscript)
 [pdftex - Why does PDFSIZEOPT not reduce file size much? - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/549501/why-does-pdfsizeopt-not-reduce-file-size-much) `gs` is better
@@ -98,11 +124,12 @@ pdftoppm -f <start_page> -l end_page -jpeg <input.pdf> <output>
 ```
 
 [diff-pdf](https://vslavik.github.io/diff-pdf/)
-[Sejda SDK - a Java library to edit PDF files](http://sejda.org/)
 
 [Coherent PDF Command Line Tools and C/C++/Python/.NET/Java/JavaScript API Community Release](https://community.coherentpdf.com/) non-commercial use
 
 [4 Free Methods to Remove Watermarks From PDFs](https://www.makeuseof.com/free-methods-to-remove-watermarks-pdf/)
+
+[Solutions for all PDF problems - 100% free - PDF24](https://www.pdf24.org/en/) Windows
 
 ### `pdfcpu`
 
@@ -149,12 +176,31 @@ qpdf expanded.pdf orig2.pdf
 
 [pts/pdfsizeopt: PDF file size optimizer](https://github.com/pts/pdfsizeopt) Python 2, use Docker image
 
-`pdfsizeopt --do-require-image-optimizers=no original.pdf optimized.pdf`
+`pdfsizeopt --do-optimize-images=no --do-require-image-optimizers=no original.pdf optimized.pdf`
 
 ```sh
 #!/bin/sh
 exec docker run -v "$PWD:/workdir" -u "$(id -u):$(id -g)" --rm -it ptspts/pdfsizeopt pdfsizeopt "$@"
 ```
+
+### MuPDF
+
+[MuPDF: The ultimate library for managing PDF documents](https://mupdf.com/)
+
+#### MuPDF.js
+
+[MuPDF.js](https://mupdf.com/mupdf-js)
+[MuPDF.js documentation](https://mupdfjs.readthedocs.io/en/latest/)
+[ArtifexSoftware/mupdf.js: JavaScript bindings for MuPDF](https://github.com/ArtifexSoftware/mupdf.js)
+
+#### PyMuPDF
+
+[PyMuPDF](https://mupdf.com/pymupdf)
+[PyMuPDF documentation](https://pymupdf.readthedocs.io/en/latest/)
+[pymupdf/PyMuPDF: PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.](https://github.com/pymupdf/PyMuPDF)
+
+[Text Extraction with PyMuPDF](https://artifex.com/blog/text-extraction-with-pymupdf)
+[Table Recognition and Extraction With PyMuPDF](https://artifex.com/blog/table-recognition-extraction-from-pdfs-pymupdf-python)
 
 ### `gs`
 
@@ -259,13 +305,6 @@ gs -dNOPAUSE -dBATCH -dSAFER \
 
 [Camelot: PDF Table Extraction for Humans — Camelot documentation](https://camelot-py.readthedocs.io/en/master/)
 [camelot-dev/camelot: A Python library to extract tabular data from PDFs](https://github.com/camelot-dev/camelot)
-
-#### PyMuPDF
-
-[PyMuPDF documentation](https://pymupdf.readthedocs.io/en/latest/)
-[pymupdf/PyMuPDF: PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.](https://github.com/pymupdf/PyMuPDF)
-[Text Extraction with PyMuPDF](https://artifex.com/blog/text-extraction-with-pymupdf)
-[Table Recognition and Extraction With PyMuPDF](https://artifex.com/blog/table-recognition-extraction-from-pdfs-pymupdf-python)
 
 #### WeasyPrint
 

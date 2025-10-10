@@ -2,7 +2,7 @@
 title: Desktop Apps
 description: ""
 created: 2015-05-20
-updated: 2025-07-06
+updated: 2025-09-26
 tags:
   - app
   - desktop
@@ -187,9 +187,18 @@ path for dict files, `/usr/share/stardict/dic`?
 
 ## Software KVM
 
+the complicated relationships between Deskflow, Input Leap, Barrier, and Synergy
+[Project Forks · deskflow/deskflow Wiki](https://github.com/deskflow/deskflow/wiki/Project-Forks)
+[History · deskflow/deskflow Wiki](https://github.com/deskflow/deskflow/wiki/History)
+
 [Synergy - Share one mouse & keyboard across computers](https://symless.com/synergy)
 
-[debauchee/barrier: Open-source KVM software](https://github.com/debauchee/barrier) fork of Synergy 1.9
+[Deskflow - ArchWiki](https://wiki.archlinux.org/title/Deskflow) fork of Synergy v1.15, upstream of Synergy v1.15+
+[deskflow/deskflow: Share a single keyboard and mouse between multiple computers.](https://github.com/deskflow/deskflow)
+
+[input-leap/input-leap: Open-source KVM software](https://github.com/input-leap/input-leap) fork of Barrier v2.4, macOS only
+
+[debauchee/barrier: Open-source KVM software](https://github.com/debauchee/barrier) 😴inactive, fork of Synergy v1.9
 [【KVM 教學】Barrier 讓你的鍵盤、滑鼠跨裝置和樹莓派共用！ - AtticEdu](https://atticedu.com/index.php/blog/raspberry-pi-%E6%A8%B9%E8%8E%93%E6%B4%BE/60-%E3%80%90kvm%E6%95%99%E5%AD%B8%E3%80%91barrier%E8%AE%93%E4%BD%A0%E7%9A%84%E9%8D%B5%E7%9B%A4%E3%80%81%E6%BB%91%E9%BC%A0%E8%B7%A8%E8%A3%9D%E7%BD%AE%E5%92%8C%E6%A8%B9%E8%8E%93%E6%B4%BE%E5%85%B1%E7%94%A8%EF%BC%81.html)
 
 ## Batch Renamer
@@ -238,6 +247,9 @@ nomino -pm map.json
 
 [10 Best Comic Book Viewers for Linux](https://www.fossmint.com/best-comic-book-viewers-readers-for-linux/)
 
+[salviati/gomics: A comic book viewer written in Go](https://github.com/salviati/gomics)
+[ACBF Viewer | Advanced Comic Book Format Wiki | Fandom](https://acbf.fandom.com/wiki/ACBF_Viewer)
+[MComix / Wiki / Home](https://sourceforge.net/p/mcomix/wiki/Home/)
 [TIFF, PDF, DjVu, Comic Book Archive (CBR or CBZ), XPS viewer](http://www.stdutility.com/stduviewer.html)
 
 [Geeqie Image Viewer](http://geeqie.org/)
@@ -247,8 +259,7 @@ nomino -pm map.json
 [xyb3rt/sxiv: Simple X Image Viewer](https://github.com/xyb3rt/sxiv)
 [feh – a fast and light image viewer](https://feh.finalrewind.org/) default is not sane
 
-[MComix / Wiki / Home](https://sourceforge.net/p/mcomix/wiki/Home/)
-[leopck/MangaMeeya: MangaMeeya Comic Viewer](https://github.com/leopck/MangaMeeya)
+[leopck/MangaMeeya: MangaMeeya Comic Viewer](https://github.com/leopck/MangaMeeya) Windows
 
 ## PDF
 
@@ -300,7 +311,7 @@ nomino -pm map.json
 
 [[uml]]
 
-[Graph drawing - Wikiwand](http://www.wikiwand.com/en/Graph_drawing)
+[Graph drawing - Wikiwand](https://www.wikiwand.com/en/Graph_drawing)
 [Graphviz | Graphviz - Graph Visualization Software](http://www.graphviz.org/)
 [PlantUML](http://plantuml.sourceforge.net/)
 [Pencil Project](http://pencil.evolus.vn/)
@@ -366,6 +377,7 @@ Criteria:
 [Pencil Project](http://pencil.evolus.vn/) 3.0 is a rewritten Electron app
 [Lumzy](http://lumzy.com/app/)
 [Wireframing Tool for Professionals - WireframeSketcher](http://wireframesketcher.com/index.html)
+[draw.io](https://app.diagrams.net/)
 
 [Frame Box - Lightweight online tool for creating mockups](http://framebox.org/)
 [Online Mockup, Wireframe & UI Prototyping Tool · Moqups](https://moqups.com/)
@@ -376,6 +388,11 @@ Criteria:
 [Wired Elements Showcase](https://wiredjs.com/showcase.html)
 [rough-stuff/wired-elements-react: React wrappers for wired-elements](https://github.com/rough-stuff/wired-elements-react)
 [wired-elements by wiredjs · Bit](https://bit.dev/wiredjs/wired-elements)
+
+SaaS
+[Penpot Transparent Pricing | Professional, Unlimited and Enterprise Plans](https://penpot.app/pricing)
+[penpot/penpot: Penpot: The open-source design tool for design and code collaboration](https://github.com/penpot/penpot) self host
+[Figma: The Collaborative Interface Design Tool](https://www.figma.com/)
 
 ## 3D Graphics
 
@@ -551,6 +568,9 @@ Thunar (from XFCE)
 
 [Overview - VidGear](https://abhitronix.github.io/vidgear/latest/) Python Video Processing Framework
 
+[Home | Immich](https://immich.app/)
+[immich-app/immich: High performance self-hosted photo and video management solution.](https://github.com/immich-app/immich)
+
 ### Player
 
 [Stremio - Watch Instantly](http://www.strem.io/)
@@ -638,7 +658,7 @@ test input key and its binding
 
 [Install Footage on Linux | Flathub](https://flathub.org/apps/io.gitlab.adhami3310.Footage)
 
-Clipchamp
+[Online video editor by Microsoft Clipchamp](https://clipchamp.com/en/)
 
 [mifi/lossless-cut: The swiss army knife of lossless video/audio editing](https://github.com/mifi/lossless-cut) FFmpeg wrapper
 
@@ -669,7 +689,7 @@ Clipchamp
 ### Animation
 
 [OpenToonz](https://opentoonz.github.io/e/) [GitHub org](https://github.com/opentoonz?type=source)
-[Animation software used by Studio Ghibli is going open source | The Verge](http://www.theverge.com/2016/3/21/11275434/toonz-futurama-studio-ghibli-digital-video-dwango)
+[Animation software used by Studio Ghibli is going open source | The Verge](https://www.theverge.com/2016/3/21/11275434/toonz-futurama-studio-ghibli-digital-video-dwango)
 
 [Blender's Animation Tools - Amazing for 2D Artists - YouTube](https://www.youtube.com/watch?v=VmekmH0QJMs)
 
@@ -680,7 +700,7 @@ Clipchamp
 ### Audio Editing
 
 [Audacity ® | Free, open source, cross-platform audio software for multi-track recording and editing.](https://www.audacityteam.org/)
-[Edit music recordings with Audacity on Linux | Opensource.com](https://opensource.com/article/20/4/audacity?utm_campaign=intrel)
+[Edit music recordings with Audacity on Linux | Opensource.com](https://opensource.com/article/20/4/audacity)
 
 [ardour - the digital audio workstation](http://ardour.org/)
 [Make music on Linux with Ardour | Opensource.com](https://opensource.com/article/21/12/music-linux-ardour)
@@ -852,7 +872,7 @@ Windows
 
 [5 free screen-recording apps for Linux | Computerworld](http://www.computerworld.com/article/3209982/linux/5-free-screen-recording-apps-for-linux.html)
 [9 Best Screen Recorders for Linux in 2020](https://itsfoss.com/best-linux-screen-recorders/)
-[What is your favorite screen recording tool for Linux? | Opensource.com](https://opensource.com/article/19/3/screen-recording-linux?utm_campaign=intrel)
+[What is your favorite screen recording tool for Linux? | Opensource.com](https://opensource.com/article/19/3/screen-recording-linux)
 
 [vokoscreen](https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html)
 [VokoscreenNG: Free and Open Source Screencasting Tool](https://itsfoss.com/vokoscreenng/)
@@ -1060,6 +1080,10 @@ gsettings set org.cinnamon.desktop.default-applications.terminal exec open-wezte
 [gnunn1/tilix: A tiling terminal emulator for Linux using GTK+ 3](https://github.com/gnunn1/tilix)
 
 [Hyper™](https://hyper.is/)
+
+[mmulet/term.everything: Run any GUI app in the terminal❗](https://github.com/mmulet/term.everything)
+[term.everything/resources/HowIDidIt.md at main · mmulet/term.everything](https://github.com/mmulet/term.everything/blob/main/resources/HowIDidIt.md)
+[Everything In A Linux Terminal | Hackaday](https://hackaday.com/2025/09/10/everything-in-a-linux-terminal/)
 
 [Tabby - a terminal for a more modern age](https://tabby.sh/) cross platform
 
@@ -1349,8 +1373,8 @@ sensors
 [bootandy/dust: A more intuitive version of du in rust](https://github.com/bootandy/dust)
 [Byron/dua-cli: View disk space usage and delete unwanted data, fast.](https://github.com/Byron/dua-cli)
 [KSXGitHub/parallel-disk-usage: Highly parallelized, blazing fast directory tree analyzer](https://github.com/KSXGitHub/parallel-disk-usage)
-[scullionw/dirstat-rs: (fastest?) disk usage cli, similar to windirstat.](https://github.com/scullionw/dirstat-rs)
 [nachoparker/dutree: a tool to analyze file system usage written in Rust](https://github.com/nachoparker/dutree)
+[scullionw/dirstat-rs: (fastest?) disk usage cli, similar to windirstat.](https://github.com/scullionw/dirstat-rs) MacOS
 
 [xdiskusage download | SourceForge.net](http://sourceforge.net/projects/xdiskusage/)
 
@@ -1397,8 +1421,9 @@ lspci -v -s $(lspci | grep VGA | cut -f1 -d' ')
 [[linux-desktop#xinput]]
 
 [randyrants/sharpkeys: SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.](https://github.com/randyrants/sharpkeys) Windows
+[X-Mouse Button Control](https://www.highrez.co.uk/downloads/xmousebuttoncontrol.htm) Windows
 
-[How to Remap Your Keyboard | PCMag](https://www.pcmag.com/how-to/how-to-remap-your-keyboard) PowerTops, keys only
+[Shortcuts, Hotkeys, Macros, Oh My: How to Remap Your Keyboard | PCMag](https://www.pcmag.com/how-to/remap-your-keyboard) PowerToys, SharpKeys, keyboard only
 
 [ATNSOFT Key Remapper — Key, mouse button and mouse wheel remapper](https://atnsoft.com/keyremapper/) trial
 

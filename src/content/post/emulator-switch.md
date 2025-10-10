@@ -2,12 +2,14 @@
 title: Switch Emulator
 description: ""
 created: 2023-06-12
-updated: 2025-07-06
+updated: 2025-08-23
 tags:
   - emulator
   - games
   - switch
 ---
+
+[New Nintendo Switch Emulators 2025: Eden, Kenji NX, Sumi, and Nyushu - YouTube](https://www.youtube.com/watch?v=mb0Ym4Spz_w)
 
 ## Firmware and Prod Keys
 
@@ -21,6 +23,38 @@ tags:
 
 [Switch Prod Keys v18.1.0 For Yuzu & Ryujinx | Prod.Keys 2024](https://prodkeys.net/win/)
 [Guide to Install Prod & Title Keys on Suyu Emulator [2024]](https://suyuemulator.com/install-keys-suyu/)
+
+## Eden
+
+> based on Yuzu, friendly to non-SnapDragon mobiles
+
+[Eden - Nintendo Switch Emulator](https://eden-emulator.github.io/)
+
+## Nyushu
+
+> Fork of Yuzu, friendly to non-SnapDragon mobiles
+
+[Nyushu Emulator- New Nintendo Switch Emulator for Android](https://nyushu.net/)
+
+## Kenji-NX
+
+> Fork of Ryujinx
+
+[Kenji-NX · GitHub](https://github.com/Kenji-NX)
+
+## Sudachi
+
+> Fork of Yuzu, updates less frequently
+
+[Sudachi Emulator: Multi-Platform Switch Emulator like Yuzu](https://sudachi-emu.com/home/)
+[How to Install and Setup Sudachi Emulator on PC [Guide]](https://sudachi-emu.com/setup-windows/)
+[emuplace/sudachi.emuplace.app](https://github.com/emuplace/sudachi.emuplace.app)
+
+## Citron
+
+> Fork of Yuzu, updates less frequently
+
+[Citron Emulator Nintendo Switch Homebrew 3DS Emulator](https://citron-emu.pro/)
 
 ## Yuzu
 
@@ -41,10 +75,6 @@ Update/DLC: "File" > "Install Files to NAND"
 [Notoriously litigious Nintendo sues maker of Yuzu Switch emulator, alleges it facilitates ‘piracy at a colossal scale’ | Tom's Hardware](https://www.tomshardware.com/video-games/console-gaming/notoriously-litigious-nintendo-sues-maker-of-yuzu-switch-emulator-alleges-it-facilitates-piracy-at-a-colossal-scale)
 [Emulation community expresses defiance in wake of Nintendo’s Yuzu lawsuit | Ars Technica](https://arstechnica.com/gaming/2024/02/emulation-community-expresses-defiance-in-wake-of-nintendos-yuzu-lawsuit/)
 [Developers of Switch emulator Yuzu settle with Nintendo in court for $2.4 million less than a week after being sued | Tom's Hardware](https://www.tomshardware.com/video-games/console-gaming/developers-of-switch-emulator-yuzu-settle-with-nintendo-in-court-for-dollar24-million-less-than-a-week-after-being-sued)
-
-### Yuzu on Android
-
-[Switch Emulation (YUZU) on Snapdragon 8 Gen 2 | RedMagic 8 Pro | Settings, Tips, Gameplay Showcase! - YouTube](https://www.youtube.com/watch?v=SfgEfF8hiLg)
 
 ## Ryujinx
 
@@ -69,29 +99,9 @@ Mods: Right click game > "Open Mods Directory"
 
 [Guide to Setup Suyu Emulator & Play Switch Games on PC](https://suyuemulator.com/setup/)
 
-## Eden
-
-> based on Yuzu
-
-[Eden - Nintendo Switch Emulator](https://eden-emulator.github.io/)
-
-## Sudachi
-
-[Sudachi Emulator: Multi-Platform Switch Emulator like Yuzu](https://sudachi-emu.com/home/)
-[How to Install and Setup Sudachi Emulator on PC [Guide]](https://sudachi-emu.com/setup-windows/)
-[emuplace/sudachi.emuplace.app](https://github.com/emuplace/sudachi.emuplace.app)
-
-## Nyushu
-
-> Fork of Yuzu
-
-[Nyushu Emulator- New Nintendo Switch Emulator for Android](https://nyushu.net/)
-
-## Citron
-
-[Citron Emulator Nintendo Switch Homebrew 3DS Emulator](https://citron-emu.pro/)
-
 ## Egg NS Emulator
+
+> adware warning
 
 [Egg NS Emulator – Nintendo Switch emulator for Android](https://eggns.wordpress.com/)
 [Egg NS Emulator on Twitter: "You guys may don't understand the game setting on the emulator. This time I'll explain each button in detail🧐 Come and optimize the settings for your favorite game.👇🔥 https://t.co/Vfp08uHuoX" / Twitter](https://twitter.com/emulatorns/status/1441417145540177920?lang=en)
@@ -110,18 +120,20 @@ Mods: Right click game > "Open Mods Directory"
 [Dumping Decryption Keys from a Switch Console - yuzu](https://yuzu-emu.org/wiki/dumping-decryption-keys-from-a-switch-console/)
 [Dumping Title Keys - NH Switch Guide](https://nh-server.github.io/switch-guide/extras/dumping_title_keys/)
 
+[Romslab.com - Free Nintendo Switch Games With Emulators](https://romslab.com/)
 [Download NSP & XCI ROMs for Nintendo Switch Emulators](https://eggnsemulator.com/roms/)
 [Switch Roms NSP XCI NSZ Download - xcigamesdd.com](https://xcigamesdd.com/)
 [Nintendo Switch ROMs [NSP | XCI] for Emulator and Console Download](https://switchroms.me/)
 [Nintendo Switch Roms - Download nintendo switch roms for free](https://switchroms.org/)
-[nsw2u.com | Download Switch Roms eShop NSP XCI NSZ](https://nsw2u.com/)
 [Nintendo Switch NSP List - Ziperto](https://www.ziperto.com/nintendo-switch-nsp-list/)
 [Download Game Nintendo - Switch, Wii, WiiU, 3DS, DS](https://nswgame.com/)
-https://nsw2u.com/page/50
+[Compatibility Reports | EmuReady](https://www.emuready.com/listings?systemIds=%5B%2290d549f4-dcd8-493d-9ea2-5e0ddf6364bf%22%5D) on mobiles
 
-DAVE THE DIVER https://nsw2u.com/dave-the-diver-switch-nsp v1.0.3.972 + 4DLC
-
+/media/games/Emulation/Switch ROM.new
+BAKERU v1.0.2 ARPG
 [Shady Part of Me XCI NSP NSZ Download | SwitchXCI](https://xcigamesdd.com/shady-part-of-me/)
+[Fire Emblem Warriors Switch NSP Free Download - Romslab.com](https://romslab.com/fire-emblem-warriors-switch-nsp-free-download-17/) v1.5.0+5DLC?
+[Fire Emblem Warriors: Three Hopes Switch NSP Free Download - Romslab.com](https://romslab.com/fire-emblem-warriors-three-hopes-switch-nsp-free-download-25/)
 
 Chants of Sennaar PUZZLE
 Persona 3 Reload RPG
@@ -134,9 +146,8 @@ Mario Kart 8 Deluxe SPORTS
 STAR OCEAN: First Departure R RPG
 STAR OCEAN THE SECOND STORY R RPG
 The Simpsons：Hit and Run
-超級舞動 瓦利歐製造 WarioWare Move It https://nsw2u.com/warioware-move-it-switch-nsp-xci
+超級舞動 瓦利歐製造 WarioWare Move It
 Super Mario Bros. Wonder 超級瑪利歐兄弟 驚奇
-Patapon 1-2
 節奏天國
 
 METAL GEAR SOLID - Master Collection
@@ -144,9 +155,6 @@ METAL GEAR SOLID 2: Sons of Liberty - Master Collection
 METAL GEAR SOLID 3 Snake Eater - Master Collection
 
 ACTION:
-Death's Door
-Legacy of Kain Soul Reaver 1-2 Remastered https://www.ziperto.com/legacy-of-kain-soul-reaver-12-remastered-switch/ https://nsw2u.com/010079901c898000
-Star Wars Bounty Hunter
 Tunic
 de Blob 2 (co-op)
 
@@ -169,6 +177,7 @@ Luigi Mansion 2 HD
 Captain Toad: Treasure Tracker https://eggnsemulator.com/download-captain-toad-treasure-tracker-nsp-xci-rom/
 BOXBOY! ＋ BOXGIRL!
 Wizardry School: Escape Room
+Chants of Sennaar
 
 RPG:
 Bravery Default II https://romsfun.me/roms/switch/bravely-default-ii.html https://switchroms.us/switch-game/bravely-default-ii.html
@@ -224,11 +233,12 @@ No More Heroes 3 v1.1.0
 No More Heroes v1.2.0
 Travis Strikes Again: No More Heroes v1.2.1+2DLC
 
-Brotato v1.0.3j
 Cult of the Lamb v1.2.1+3DLC
 Have a Nice Death v1.0.0.3
+LEGO Horizon Adventures v1.4.0
 Nobody Saves the World v1.0.1
 Panzer Dragoon Remake v2.0
+Patapon 1+2 v1.0.4
 Sakuna: Of Rice and Ruin 天穗之咲稻姬 v1.0.8
 SD GUNDAM BATTLE ALLIANCE Deluxe Edition v1.4+10DLC
 Song of Nunu: A League of Legends Story v1.0.2
@@ -252,8 +262,6 @@ Hyrule Warriors: Age of Calamity v1.3.0+DLCs
 SD Shin Kamen Rider Rumble
 Persona 5 Strikers
 The Wonderful 101: Remastered v1.1.0
-Fire Emblem Warriors v1.5.0+5DLC
-Fire Emblem Warriors Three Hopes v1.0.2+DLC
 
 ### PLATFORMER
 
@@ -262,7 +270,6 @@ Sonic Forces v1.1.0+6DLC
 Sonic Frontiers v1.4.1+9DLC
 
 A Hat in Time
-BAKERU v1.0.2
 Castlevania Dominus Collection
 Disney Epic Mickey: Rebrushed v1.0.2+1D
 Donkey Kong Country Tropical Freeze v1.0.2
@@ -270,11 +277,12 @@ Kirby Star Allies v4.0.0 (co-op)
 Kirby’s Return to Dream Land Deluxe (co-op)
 KLONOA Phantasy Reverie Series v1.0.1+4DLC
 Oddworld: Soulstorm Enhanced Edition v1.1.1
-Prince of Persia: The Lost Crown v1.2.0+3DLC v1.4.2+6DLC
+Prince of Persia: The Lost Crown v1.4.2+6DLC
 Super Mario 3D All Stars (Super Mario 64, Super Mario Sunshine, Super Mario Galaxy) (Ryujinx)
 Trine 5 A Clockwork Conspiracy v1.0.5 (co-op)
 Yoshi's Crafted world (co-op)
 Donkey Kong Country Returns HD
+Stray v1.6.0
 
 ### POINT AND CLICK
 
@@ -304,16 +312,15 @@ Pikmin 4
 
 Arranger: A Role-Puzzling Adventure v1.1.12
 Bayonetta Origins: Cereza and the Lost Demon
-Blanc v1.1.0 (co-op)
 Cadence of Hyrule: Crypt of the Necrodancer v1.5.0+DLC
 Cocoon v1.0.2
 Good Job! (co-op)
 LEGO Bricktales v1.1.63
 Luigi's Mansion 3 (co-op)
+Is This Seat Taken v1.0.1
 Maquette
 Manifold Garden v1.0.1
 Mario vs. Donkey Kong v1.0.1
-Moncage
 Pack Master
 Paper Trail
 Railbound v3.0.2
@@ -321,18 +328,14 @@ Terracotta
 The Legend of Zelda: Echoes of Wisdom v1.0.1
 The Pedestrian v1.0.1
 The Stretchers 擔架拍擋 (co-op)
-TOEM v3.0
 Untitled Goose Game v1.1.0 (co-op)
 Venba v2023.07.19
 
 ### RPG
 
 Ni no Kuni II Revenant Kingdom All In One Edition v1.10
-Ni no Kuni Remastered: Wrath of the White Witch v1.0.2
 
 Persona 3 Portable
-Persona 4 Golden
-Persona 5 Royal
 
 Atelier Ryza 3: Alchemist of the End & the Secret Key
 Battle Chasers Nightwar v1.0.2
@@ -347,12 +350,10 @@ Octopath Traveler II
 Octopath Traveler v1.0.4
 Paper Mario: Origami Kingdom v1.0.1
 Paper Mario: The Thousand-Year Door v1.0.1 (remake)
-Sea of Stars v1.0.46047
 Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island v2.0.1+1D
 SPYxANYA: Operation Memories v1.0.1
 Super Mario RPG v1.0.1 (remake)
 Trinity Trigger v1.0.4+7DLC
-Stray v1.0.6
 
 ### SIMULATION
 

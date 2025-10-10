@@ -2,7 +2,7 @@
 title: Computer Fundamentals
 description: ""
 created: 2023-04-14
-updated: 2025-04-12
+updated: 2025-09-23
 tags:
   - comp/fundamental
   - comp/hardware
@@ -12,7 +12,8 @@ tags:
 [[floating-point-number]]
 [[unicode]]
 
-[Computer Science - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+[Computer Science Lessons - YouTube](https://www.youtube.com/@ComputerScienceLessons)
+[Computer Science - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) CrashCourse
 [How do computers read code? - YouTube](https://www.youtube.com/watch?v=QXjU9qTsYCc) compiling source code to machine code
 [Back to Basicss - YouTube](https://www.youtube.com/playlist?list=PLF2KJ6Gy3cZ4OSRP8GzWMd2ZPwRwmVsqp)
 
@@ -46,7 +47,7 @@ Computerphile
 
 ## Computer History
 
-[Toppr: Better learning for better results](https://www.toppr.com/?utm_source=guides)
+[Toppr: Better learning for better results](https://www.toppr.com/)
 [History of Computers: Parts, Networking, Operating Systems, FAQs](https://www.toppr.com/guides/computer-aptitude-and-knowledge/basics-of-computers/history-of-computers/)
 
 [【亦】唠唠计算机与 AI 的童年：大器晚成！六一儿童节特别篇 - YouTube](https://www.youtube.com/watch?v=-kGy0_8n68Y) history of computer
@@ -96,8 +97,6 @@ Computerphile
 [Binary-code compatibility - Wikiwand](https://www.wikiwand.com/en/Binary-code_compatibility)
 Calling convention, what register of the CPU are used
 [What are Calling Conventions - CTF Handbook](https://ctf101.org/binary-exploitation/what-are-calling-conventions/)
-
-[Idiot's Guide to ABI Versioning - 250bpm](http://250bpm.com/blog:41)
 
 [20 ABI (Application Binary Interface) breaking changes every C++ developer should know](https://www.acodersjourney.com/20-abi-breaking-changes/)
 

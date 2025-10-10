@@ -2,13 +2,13 @@
 title: Virtualization
 description: ""
 created: 2015-05-10
-updated: 2025-01-09
+updated: 2025-10-06
 tags:
   - linux
   - virtualbox
 ---
 
-[Virtualization - Wikiwand](http://www.wikiwand.com/en/Virtualization)
+[Virtualization - Wikiwand](https://www.wikiwand.com/en/Virtualization)
 
 [OSBoxes - Virtual Machines for VirtualBox & VMware](https://www.osboxes.org/)
 
@@ -92,8 +92,17 @@ Xen only check handle three things: memory, CPU and interrupts
 > Type 2 Hypervisor (actually Ubuntu LTS), plays well with consumer level hardware
 
 [Proxmox VE - Virtualization Management Platform](https://www.proxmox.com/en/proxmox-ve)
-[Proxmox VE](https://pve.proxmox.com/wiki/Main_Page)
+[Proxmox VE Documentation Index](https://pve.proxmox.com/pve-docs/)
+[Proxmox VE wiki](https://pve.proxmox.com/wiki/Main_Page)
 [Virtual Machines Pt. 2 (Proxmox install w/ Kali Linux) - YouTube](https://www.youtube.com/watch?v=_u8qTN3cCnQ)
+
+R[Proxmox Datacenter Manager: A new alternative to VMware vCenter? – 4sysops](https://4sysops.com/archives/proxmox-datacenter-manager-a-new-alternative-to-vmware-vcenter/)
+
+[Hookscripts - Proxmox VE Administration Guide](https://pve.proxmox.com/pve-docs/pve-admin-guide.html#_hookscripts)
+[Unlock the power of Proxmox hookscripts for VM automation](https://www.xda-developers.com/proxmox-hookscripts-are-the-best-automation-feature/)
+
+[Proxmox VE 9.0 – 4sysops](https://4sysops.com/archives/proxmox-ve-90/)
+[Proxmox Backup Server 4.0 – 4sysops](https://4sysops.com/archives/proxmox-backup-server-40/)
 
 [Getting Started with Proxmox 8 - YouTube](https://www.youtube.com/playlist?list=PL4i6XWPjbaYm8FjhPVnKuxC1rM9OtJvqB) virtualize everything
 [5 Things I Would Do On Fresh Install Of ProxMox - YouTube](https://www.youtube.com/watch?v=xD9Xyt2mdSI) use OEM install when creating template, storage pass through
@@ -102,6 +111,8 @@ Xen only check handle three things: memory, CPU and interrupts
 [Perfect Proxmox Template with Cloud Image and Cloud Init - YouTube](https://www.youtube.com/watch?v=shiIi38cJe4)
 [Perfect Proxmox Template with Cloud Image and Cloud Init | Techno Tim Documentation](https://docs.technotim.live/posts/cloud-init-cloud-image/)
 [Let's Install Proxmox 8.0! - YouTube](https://www.youtube.com/watch?v=sZcOlW-DwrU)
+
+[Proxmox vs. XCP-ng: Which one's better for your home lab?](https://www.xda-developers.com/proxmox-vs-xcp-ng/)
 
 [My Proxmox Home Server Walk-Through: Part 1 (TrueNAS, Portainer, Wireguard) - YouTube](https://www.youtube.com/watch?v=_sfddZHhOj4)
 [Remote Gaming and Streaming w/ Proxmox - Proxmox Walk-Through: Part 2 - YouTube](https://www.youtube.com/watch?v=BoMlfk397h0) GPU pass-through
@@ -115,7 +126,14 @@ Xen only check handle three things: memory, CPU and interrupts
 SmartHomeBeginner
 [Mini Homelab Tour - I do a LOT with this Little Proxmox Server and 100+ Docker Apps - YouTube](https://www.youtube.com/watch?v=GfzgNJAM19o)
 [Docker on Proxmox LXC 🚀 Zero Bloat and Pure Performance! - YouTube](https://www.youtube.com/watch?v=-ZSQdJ62r-Q)
-F
+
+## Migrate ESXI to Proxmox
+
+[Proxmox VE Import Wizard: How to import VMs from VMware ESXi](https://www.proxmox.com/en/services/training-courses/videos/proxmox-virtual-environment/proxmox-ve-import-wizard-for-vmware)  
+`apt install --reinstall pve-esxi-import-tools=0.7.2`
+
+Tested issue on version 0.7.4
+Need to down grade to 0.7.2
 
 ## Hyper-V
 
@@ -140,7 +158,10 @@ F
 [virtualization - Difference between KVM and QEMU - Server Fault](https://serverfault.com/questions/208693/difference-between-kvm-and-qemu)
 [Can´t figure out the difference between QEMU and KVM : r/linuxmasterrace](https://www.reddit.com/r/linuxmasterrace/comments/qhrpm8/cant_figure_out_the_difference_between_qemu_and/)
 
+[QEMU 10.0 Open-Source Virtualization Software Released, Here's What's New - 9to5Linux](https://9to5linux.com/qemu-10-0-open-source-virtualization-software-released-heres-whats-new)
+
 [在 QEMU 中安装 Windows7 虚拟机](https://mp.weixin.qq.com/s/f2hj5XIpGvPtuFRwVWCtAg)
+[Emulate Raspberry Pi with QEMU | Azeria Labs](https://azeria-labs.com/emulate-raspberry-pi-with-qemu/)
 
 [quickemu-project/quickemu: Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.](https://github.com/quickemu-project/quickemu)
 [mawalu/qsandbox: Shell sandboxing using QEMU and virtiofsd. Just enter qsandbox run to open your current working dir in a temporary QEMU vm.](https://github.com/mawalu/qsandbox)

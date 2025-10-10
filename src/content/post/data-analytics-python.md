@@ -2,7 +2,7 @@
 title: Data Analytics (Python)
 description: ""
 created: 2016-09-21
-updated: 2025-06-24
+updated: 2025-09-07
 tags:
   - big-data
   - pandas
@@ -18,6 +18,10 @@ tags:
 [Python Data Analysis Library](https://pandas.pydata.org/)(`pandas`) massage data into a tabular state so it can be modeled
 [Spyder - Documentation](https://pythonhosted.org/spyder/#) Scientific PYthon Development EnviRonment
 [Mastering Python’s Built-in Statistics Module: A Complete Guide to Essential Functions - KDnuggets](https://www.kdnuggets.com/mastering-pythons-built-in-statistics-module)
+
+[5 Useful Python Scripts for Busy Data Scientists - KDnuggets](https://www.kdnuggets.com/5-useful-python-scripts-for-busy-data-scientists)
+[balapriyac/data-science-tutorials: If you're coming from one of my data science tutorials, you'll find the code and the links to the tutorials here. I hope you find them helpful. Happy learning and coding!](https://github.com/balapriyac/data-science-tutorials/tree/main)
+[data-science-tutorials/useful-python-scripts at main · balapriyac/data-science-tutorials · GitHub](https://github.com/balapriyac/data-science-tutorials/tree/main/useful-python-scripts)
 
 [Python Data Transformation Tools for ETL - Towards Data Science](https://towardsdatascience.com/python-data-transformation-tools-for-etl-2cb20d76fcd0)
 [Data Preprocessing in Data Mining & Machine Learning](https://towardsdatascience.com/data-preprocessing-in-data-mining-machine-learning-79a9662e2eb)
@@ -74,6 +78,7 @@ Axis 2: height
 [Array Oriented Programming with Python NumPy | by Semi Koen | Towards Data Science](https://towardsdatascience.com/array-oriented-programming-with-python-numpy-e0190dd6ab65)
 [NumPy Ninjutsu: Mastering Array Operations for High-Performance Machine Learning - MachineLearningMastery.com](https://machinelearningmastery.com/numpy-ninjutsu-mastering-array-operations-for-high-performance-machine-learning/)
 
+[Why Numpy Is Better Than ALL Your Code - YouTube](https://www.youtube.com/watch?v=Qhkskqxe4Wk)
 [How to create NumPy arrays from scratch? - Towards Data Science](https://towardsdatascience.com/how-to-create-numpy-arrays-from-scratch-3e0341f9ffea)
 [Numpy Guide for People In a Hurry – Towards Data Science](https://towardsdatascience.com/numpy-guide-for-people-in-a-hurry-22232699259f)
 [The Easiest Python Numpy Tutorial Ever - Towards Data Science](https://towardsdatascience.com/the-easiest-python-numpy-tutorial-ever-5c206c809a0d)

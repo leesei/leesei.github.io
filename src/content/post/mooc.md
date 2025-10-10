@@ -2,7 +2,7 @@
 title: MOOC
 description: ""
 created: 2015-05-08
-updated: 2025-07-06
+updated: 2025-09-23
 tags:
   - learning
   - mooc
@@ -47,7 +47,7 @@ tags:
 [Flackbox.com Homepage - FlackBox](https://www.flackbox.com/)
 [Welcome to recallact.com !](https://www.recallact.com/) Video library for presentations and meetups
 [Free online courses from Harvard to learn how to code - Business Insider](https://www.businessinsider.com/free-harvard-courses-on-coding-programming-computer-science-2020-6)
-[Free Online Courses from upGrad](https://www.upgrad.com/hk/free-courses/?utm_source=BLOG&utm_campaign=ALL_FREE_BLOG_BODY_90914)
+[Free Online Courses from upGrad](https://www.upgrad.com/hk/free-courses/)
 [1000+ Free Developer Certifications](https://www.freecodecamp.org/news/free-certificates/)
 [BrightTALK](https://www.brighttalk.com/)
 
@@ -165,6 +165,7 @@ seneca-in-practice
 
 ## Educational Youtube Channels
 
+[Abide By Reason - YouTube](https://www.youtube.com/@AbideByReason) mostly maths and physicsp
 [Animagraffs - YouTube](https://www.youtube.com/@animagraffs) "How it works" in 3D rendering
 [Arvin Ash - YouTube](https://www.youtube.com/@ArvinAsh) science, explainers
 [AsapSCIENCE - YouTube](https://www.youtube.com/@AsapSCIENCE) animated explainers
@@ -187,6 +188,7 @@ seneca-in-practice
 [Domain of Science - YouTube](https://www.youtube.com/@domainofscience) sciency
 [Dr Ben Miles - YouTube](https://www.youtube.com/@DrBenMiles) sciency
 [engineerguy - YouTube](https://www.youtube.com/@engineerguyvideo) engineering
+[Elephants in Rooms - Ken LaCorte - YouTube](https://www.youtube.com/@ElephantsInRooms) explainers
 [fern - YouTube](https://www.youtube.com/@fern-tv) mini documentaries
 [Fire of Learning - YouTube](https://www.youtube.com/@Fireoflearning) history
 [Freethink - YouTube](https://www.youtube.com/@freethink) explainers
@@ -216,6 +218,7 @@ seneca-in-practice
 [Professor Dave Explains - YouTube](https://www.youtube.com/@ProfessorDaveExplains) sciency, deep dives on various disciplines
 [ProtonsTalk - YouTube](https://www.youtube.com/@ProtonsTalk) sciency
 [Quanta Magazine - YouTube](https://www.youtube.com/@QuantaScienceChannel) sciency
+[Rational Animations - YouTube](https://www.youtube.com/@RationalAnimations) animated explainers, AI
 [Real Engineering - YouTube](https://www.youtube.com/@RealEngineering) engineering
 [Real Science - YouTube](https://www.youtube.com/@realscience) sciency, Insane Biology
 [RealLifeLore - YouTube](https://www.youtube.com/@RealLifeLore) explainers
@@ -249,6 +252,7 @@ seneca-in-practice
 [Wisecrack - YouTube](https://www.youtube.com/@WisecrackEDU) commentary on society and culture
 [Zepherus - YouTube](https://www.youtube.com/@Zepherus) obscure historical/scientific things
 [壹读 iRead - 轻幽默·有情趣 - YouTube](https://www.youtube.com/@feidie1min) animated explainers, abandoned?
+[【驚奇說】正片全集 - YouTube](https://www.youtube.com/playlist?list=PL8U4PMpSw-d0x48nwNiwiKYyrEkYdxaI7)
 [小 Lin 说 - YouTube](https://www.youtube.com/@xiao_lin_shuo) economics and related history
 [差评君 - YouTube](https://www.youtube.com/@xpinman) explainers
 [柴知道 ChaiKnows Official Channel - YouTube](https://www.youtube.com/@chaiknowsofficialchannel982) animated explainers
@@ -256,11 +260,11 @@ seneca-in-practice
 [瑞森老哥 Reason - YouTube](https://www.youtube.com/@reason2188) animated explainers, short history
 [白呀白Talk-科技内容 - YouTube](https://www.youtube.com/playlist?list=PL4l3Q_BiljoFZnAR12G9UiEOWg2frBS8n)
 [知危 - YouTube](https://www.youtube.com/@%E7%9F%A5%E5%8D%B1) explainers, economics
+[知识噪音 Knowledge Noise - YouTube](https://www.youtube.com/@knowledgenoise)
 [科学火箭叔 - YouTube](https://www.youtube.com/@KeXueHuoJianShu) sciency, but citation is poor
 [科學漫聊 - YouTube](https://www.youtube.com/@KXML) sciency
 [秦老闆請鑑價 - YouTube](https://www.youtube.com/@MrChin740)
 [芳斯塔芙 - YouTube](https://www.youtube.com/@Funstuff2018) fun stuff, explainers
-[【驚奇說】正片全集 - YouTube](https://www.youtube.com/playlist?list=PL8U4PMpSw-d0x48nwNiwiKYyrEkYdxaI7)
 
 computer science
 [Polylog - YouTube](https://www.youtube.com/@PolylogCS)

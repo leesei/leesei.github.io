@@ -2,7 +2,7 @@
 title: Cross Platform Apps (Mobile)
 description: ""
 created: 2015-04-03
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - app
   - appcelerator
@@ -38,8 +38,8 @@ The new Cross-Platform is to share business logic, compile to native code and bi
 [Pros and Cons of the Top 5 Cross-Platform Tools - Developer Economics](http://www.developereconomics.com/pros-cons-top-5-cross-platform-tools/)
 [Tools to Build your Mobile App | Developer Economics](http://www.developereconomics.com/search/tools/to/build/#q//sector/47/license//technology//platform//app_category//p/1)
 [Native vs HTML5 - You're Asking The Wrong Question](http://blogs.telerik.com/platform/posts/14-02-21/native-vs-html5---you're-asking-the-wrong-question)
-[Hybrid vs. Native: Choosing a Mobile Strategy](http://www.infoq.com/presentations/hybrid-native-mobile-strategy)
-[android - Struggling between native and phonegap, simple app requirements - Stack Overflow](http://stackoverflow.com/questions/14065610/struggling-between-native-and-phonegap-simple-app-requirements)
+[Hybrid vs. Native: Choosing a Mobile Strategy](https://www.infoq.com/presentations/hybrid-native-mobile-strategy)
+[android - Struggling between native and phonegap, simple app requirements - Stack Overflow](https://stackoverflow.com/questions/14065610/struggling-between-native-and-phonegap-simple-app-requirements)
 [Web vs. native: let’s concede defeat - QuirksBlog](http://www.quirksmode.org/blog/archives/2015/05/web_vs_native_l.html)
 [DHH 谈混合移动应用开发 | | 酷 壳 - CoolShell](https://coolshell.cn/articles/12225.html)
 
@@ -239,7 +239,7 @@ Invoke native SDKs on iOS, Android, Electron, and the Web with one code base.
 
 [Technical Overview - NativeScript Docs](https://docs.nativescript.org/core-concepts/technical-overview)
 [An Introduction to NativeScript](https://code.tutsplus.com/articles/an-introduction-to-nativescript--cms-26771) 2016-07
-[Creating Mobile Native Apps in JavaScript with NativeScript](http://www.infoq.com/news/2015/03/nativescript) 2015-03
+[Creating Mobile Native Apps in JavaScript with NativeScript](https://www.infoq.com/news/2015/03/nativescript) 2015-03
 
 ## Haxe
 

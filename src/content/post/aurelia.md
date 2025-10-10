@@ -2,7 +2,7 @@
 title: Aurelia
 description: ""
 created: 2016-05-10
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - aurelia
   - frontend
@@ -15,7 +15,7 @@ tags:
 Rob Eisenberg from Durandal joined Angular 2 team in 2014, parted later and developed a framework aimed for developer's success.
 Not like Angular, whose roadmap is set internally by Google.
 
-[#140: Aurelia, Durandal, and leaving AngularJS with Rob Eisenberg - Changelog](https://changelog.com/140/)
+[Aurelia, Durandal, Leaving AngularJS (Changelog Interviews #140)](https://changelog.com/podcast/140/)
 
 [behzad888/awesome-aurelia: A curated list of amazingly awesome Aurelia libraries.](https://github.com/behzad888/awesome-aurelia)
 

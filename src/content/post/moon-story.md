@@ -2,7 +2,7 @@
 title: Moon Story
 description: ""
 created: 2016-01-31
-updated: 2025-05-10
+updated: 2025-07-07
 tags:
   - history
   - moon
@@ -31,7 +31,7 @@ tags:
 We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard
 {% endblockquote %}
 
-[Apollo program - Wikiwand](http://www.wikiwand.com/en/Apollo_program)
+[Apollo program - Wikiwand](https://www.wikiwand.com/en/Apollo_program)
 [To the Moon • Russ Olsen - YouTube](https://www.youtube.com/watch?v=l3XwpSKqNZw)
 [Apollo 11’s journey to the moon, annotated - YouTube](https://www.youtube.com/watch?v=OCjhCL2iqlQ)
 [Project Apollo Archive’s albums | Flickr](https://www.flickr.com/photos/projectapolloarchive/albums)

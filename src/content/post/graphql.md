@@ -2,7 +2,7 @@
 title: GraphQL
 description: ""
 created: 2015-12-04
-updated: 2025-02-07
+updated: 2025-07-07
 tags:
   - falcor
   - graphql
@@ -120,8 +120,8 @@ Playground
 [GitHub Dumps REST Calls for Facebook's GraphQL - The New Stack](http://thenewstack.io/github-dumps-rest-graphql-api/)
 [GitHub GraphQL API v4 | GitHub Developer Guide](https://developer.github.com/v4/)
 
-[The Changelog #255: Why Is GraphQL So Cool? with Johannes Schickling | Changelog](https://changelog.com/podcast/255)
-["GraphQL is the bacon that'll make everything better" (JS Party #134) |> News and podcasts for developers |> Changelog](https://changelog.com/jsparty/134)
+[Why is GraphQL so cool? with Johannes Schickling (Changelog Interviews #255)](https://changelog.com/podcast/255)
+["GraphQL is the bacon that'll make everything better" (JS Party #134)](https://changelog.com/jsparty/134)
 [GraphQL Summit 2017 - YouTube](https://www.youtube.com/playlist?list=PLpi1lPB6opQywks7yYYs5jJAIRI3faRTm)
 [From REST To GraphQL - YouTube](https://www.youtube.com/watch?v=ntBU5UXGbM8)
 [Zero To GraphQL In 30 Minutes - YouTube](https://www.youtube.com/watch?v=H8YnVk2vhzg)

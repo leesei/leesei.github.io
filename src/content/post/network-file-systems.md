@@ -2,7 +2,7 @@
 title: Network File Systems
 description: ""
 created: 2015-05-20
-updated: 2025-05-07
+updated: 2025-07-30
 tags:
   - file-system
   - linux
@@ -41,6 +41,8 @@ tags:
 [Using NFS to Share Data Between UNIX and Mac OS X - Stephen Foskett, Pack Rat](http://blog.fosketts.net/2015/03/20/using-nfs-to-share-data-between-unix-and-mac-os-x/)
 
 [Mastering NFS v4 Identity Mapping | by Thilina Viraj | Medium](https://thilinaviraj.medium.com/mastering-nfs-v4-identity-mapping-72146e931a38)
+
+[Mount an NFS Share on Windows 11 with PowerShell – 4sysops](https://4sysops.com/archives/mount-an-nfs-share-on-windows-11-with-powershell/)
 
 ## Samba/CIFS/Windows Share Folder
 

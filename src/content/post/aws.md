@@ -2,7 +2,7 @@
 title: Amazon Web Services
 description: ""
 created: 2015-06-17
-updated: 2025-06-24
+updated: 2025-07-29
 tags:
   - web
 ---
@@ -23,7 +23,7 @@ tags:
 [A Practical Guide To Deploying A Complex, Production Level, Three-tier Architecture On AWS - DEV Community](https://dev.to/kelvinskell/a-practical-guide-to-deploying-a-complex-production-level-three-tier-architecture-on-aws-2hf0)
 [Devs are from Venus, Ops are from Mars, Containers: Amazon Web Services, Part I - Turbonomic](https://turbonomic.com/blog/on-technology/devs-are-from-venus-ops-are-from-mars-containers-amazon-web-services-part-i/)
 [Devs are from Venus, Ops are from Mars, Containers: Amazon Web Services, Part II - Turbonomic](https://turbonomic.com/blog/on-technology/devs-are-from-venus-ops-are-from-mars-containers-amazon-web-services-part-ii/)
-[如何基于 AWS 的基础设施构建高可用、高可扩展的系统](http://www.infoq.com/cn/articles/build-ha-scalability-system-aws-infra)
+[如何基于AWS的基础设施构建高可用、高可扩展的系统*语言 & 开发*汪磊\_InfoQ精选文章](https://www.infoq.cn/article/build-ha-scalability-system-aws-infra/)
 [So, you want to learn AWS? AKA, "How do I learn to be a Cloud Engineer?" : sysadmin](https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be/)
 [100 Days of Learning AWS – Tanya Ruth Selvog – Medium](https://medium.com/@tanyaselvog/100-days-of-learning-aws-c80f5cbd448c)
 
@@ -41,15 +41,15 @@ tags:
 [The Epic Story of Dropbox’s Exodus From the Amazon Cloud Empire | WIRED](https://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire/)
 [How Dropbox Re-architected Its Cloud to Use Higher-Density Storage | Data Center Knowledge](https://www.datacenterknowledge.com/storage/how-dropbox-re-architected-its-cloud-use-higher-density-storage)
 [Here’s How Much Money Dropbox Saved by Moving Out of the Cloud](https://www.datacenterknowledge.com/cloud/here-s-how-much-money-dropbox-saved-moving-out-cloud)
-[SE-Radio Episode 285: James Cowling on Dropbox’s Distributed Storage System : Software Engineering Radio](http://www.se-radio.net/2017/03/se-radio-episode-285-james-cowling-on-dropboxs-distributed-storage-system/)
+[SE-Radio Episode 285: James Cowling on Dropbox’s Distributed Storage System : Software Engineering Radio](https://www.se-radio.net/2017/03/se-radio-episode-285-james-cowling-on-dropboxs-distributed-storage-system/)
 
 ## Services catalog
 
 [Cloud Products & Services - Amazon Web Services (AWS)](https://aws.amazon.com/products/)
-[AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english) ❗!important
+[Amazon Web Services In Plain English](https://expeditedsecurity.com/aws-in-plain-english/) ❗!important
 [CloudAcademy AWS](https://cloudacademy.com/amazon-web-services/#services-list) simple description
 [AWS cloud services features: A guide to the right tools for the job | InfoWorld](https://www.infoworld.com/article/3245925/cloud-computing/aws-cloud-services-guide-the-right-tools-for-the-job.html)
-[Category:Amazon Web Services - Wikiwand](http://www.wikiwand.com/en/Category:Amazon_Web_Services)
+[Category:Amazon Web Services - Wikiwand](https://www.wikiwand.com/en/Category:Amazon_Web_Services)
 [AWSomeBlog.com - Amazon Web Services Tutorials](http://www.awsomeblog.com/)
 
 [Top 50+ AWS Services Explained in 10 Minutes - YouTube](https://www.youtube.com/watch?v=JIbIYCM48to)
@@ -390,7 +390,7 @@ Like Heroku, but on EC2
 ## Lightsail
 
 [Amazon Lightsail – The Power of AWS, the Simplicity of a VPS | AWS Blog](https://aws.amazon.com/blogs/aws/amazon-lightsail-the-power-of-aws-the-simplicity-of-a-vps/)
-[amazon web services - What is difference between Lightsail and EC2? - Stack Overflow](http://stackoverflow.com/questions/40927189/what-is-difference-between-lightsail-and-ec2)
+[amazon web services - What is difference between Lightsail and EC2? - Stack Overflow](https://stackoverflow.com/questions/40927189/what-is-difference-between-lightsail-and-ec2)
 
 [Amazon Lightsail vs. DigitalOcean](https://blog.containership.io/amazon-lightsail-vs.-digitalocean)
 [Cheap virtual box hosters – Amazon's Lightsail is out to destroy you (yes, you, Digital Ocean) • The Register](http://www.theregister.co.uk/2016/11/30/amazon_lightsail/)
@@ -410,8 +410,8 @@ Like Heroku, but on EC2
 [Claudia.js](https://claudiajs.com/)
 [Building a Serverless API with ClaudiaJS - DEV Community](https://dev.to/andrewevans0102/building-a-serverless-api-with-claudiajs-34cd)
 
-[Using your first microservice with AWS Lambda — A Cloud Guru](https://acloudguru.com/blog/engineering/using-your-first-microservice-with-aws-lambda)
-[How to build a serverless contact form on AWS — A Cloud Guru](https://acloudguru.com/blog/engineering/how-to-build-a-serverless-contact-form-on-aws)
+[Using your first microservice with AWS Lambda](https://www.pluralsight.com/resources/blog/cloud/using-your-first-microservice-with-aws-lambda)
+[How to build a serverless contact form on AWS](https://www.pluralsight.com/resources/blog/cloud/how-to-build-a-serverless-contact-form-on-aws)
 [A Deep Dive Into Serverless UI With TypeScript — Smashing Magazine](https://www.smashingmagazine.com/2021/11/deep-dive-into-serverless-ui-typescript/)
 
 [AWS Lambda lifecycle and in-memory caching - TJ Holowaychuk - Medium](https://medium.com/@tjholowaychuk/aws-lambda-lifecycle-and-in-memory-caching-c9cd0844e072)

@@ -2,7 +2,7 @@
 title: PowerShell
 description: ""
 created: 2023-05-19
-updated: 2025-01-22
+updated: 2025-09-04
 tags:
   - comp/lang
   - powershell
@@ -125,6 +125,11 @@ Persist Environment Variables
 | `touch`                          | `New-Item`                                      |
 | `cat`                            | `Get-Content`/`type`                            |
 | `man`                            | `Get-Help`/`help`                               |
+
+## Modules
+
+[PowerShell Gallery | Home](https://www.powershellgallery.com/)
+[I installed these PowerShell modules and they changed how I work](https://www.makeuseof.com/powershell-modules-that-changed-how-i-work/)
 
 ## `CmdletBinding`
 

@@ -2,12 +2,12 @@
 title: SI Units
 description: ""
 created: 2015-08-28
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - science
 ---
 
-[International System of Units - Wikiwand](http://www.wikiwand.com/en/International_System_of_Units)
+[International System of Units - Wikiwand](https://www.wikiwand.com/en/International_System_of_Units)
 [SI Redefinition | NIST](https://www.nist.gov/si-redefinition) redefinition of the 7 SI units based on' nature's fundamental constants
 
 [Sixty Symbols - Physics and Astronomy videos](http://www.sixtysymbols.com/)

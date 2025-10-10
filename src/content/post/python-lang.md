@@ -2,7 +2,7 @@
 title: Python notes
 description: ""
 created: 2014-12-11
-updated: 2025-06-24
+updated: 2025-09-23
 tags:
   - comp/lang
   - python
@@ -117,6 +117,7 @@ Python version should be a requirement to be satisfied (by pinning particular ve
 [Learn Python By Example - PythonForBeginners.com](https://www.pythonforbeginners.com/)
 [Python tutorial - beginner Python tutorial](http://zetcode.com/lang/python/)
 [9 Free Online Courses for Python Beginners](https://www.makeuseof.com/python-online-course-free/)
+[10 Free Online Courses to Master Python in 2025 - KDnuggets](https://www.kdnuggets.com/10-free-online-courses-to-master-python-in-2025)
 
 [【python】B站没人讲过的CodeObject，python底层实现一点都不简单！ - YouTube](https://www.youtube.com/watch?v=2ifX3yAnAFc&list=PLSo-C2L8kdSNAdlCQQ84dlszsiD-gRM5J&index=7) ❗!important
 
@@ -196,7 +197,7 @@ Python version should be a requirement to be satisfied (by pinning particular ve
 [Python 201 | The Mouse Vs. The Python](https://www.blog.pythonlibrary.org/tag/python-201/)
 [Python 101 | The Mouse Vs. The Python](https://www.blog.pythonlibrary.org/tag/python-101/)
 [Learn Python, it's CAKE (Beginners) | Udemy](https://www.udemy.com/learning-python-not-the-snake/)
-[Python for Data Science Course - Free Course](https://courses.analyticsvidhya.com/courses/introduction-to-data-science?utm_source=blog&utm_medium=data-structures-python)
+[Python for Data Science Course - Free Course](https://courses.analyticsvidhya.com/courses/introduction-to-data-science)
 
 [Python Fundamentals Training - YouTube](https://www.youtube.com/playlist?list=PL26BA8B9FC33789FF) !good Python 2.6
 [Google's Python Class - Google for Education](https://developers.google.com/edu/python/) Python 2.5
@@ -212,7 +213,7 @@ Python version should be a requirement to be satisfied (by pinning particular ve
 [Learning Python: From Zero to Hero – freeCodeCamp](https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567)
 [IBM developerWorks : Linux : Technical library](http://www.ibm.com/developerworks/views/linux/libraryview.jsp?type_by=Articles?sort_order=desc&expand=&sort_by=Date&show_abstract=true&view_by=Search&search_by=charming+python%3A) Charming Python, mostly Python 2
 
-[Hidden features of Python - Stack Overflow](http://stackoverflow.com/questions/101268/hidden-features-of-python)
+[Hidden features of Python - Stack Overflow](https://stackoverflow.com/questions/101268/hidden-features-of-python)
 [Advanced Python Features](https://tech.io/playgrounds/500/advanced-python-features)
 [mdipierro/nlib: The book "Annotated Algorithms in Python" and the nlib.py library](https://github.com/mdipierro/nlib)
 [Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures](https://runestone.academy/runestone/static/pythonds/index.html)
@@ -450,6 +451,7 @@ small integer (`-5` to `256` inclusive) and short strings are interned, use `int
 [Built-in Exceptions — Python 3 documentation](https://docs.python.org/3/library/exceptions.html#bltin-exceptions)
 [8. Errors and Exceptions — Python 3 documentation](https://docs.python.org/3/tutorial/errors.html)
 
+[Advanced Error Handling in Python: Beyond Try-Except - KDnuggets](https://www.kdnuggets.com/advanced-error-handling-in-python-beyond-try-except)
 [Exception Handling Tips in Python ⚠ Write Better Python Code Part 7 - YouTube](https://www.youtube.com/watch?v=ZsvftkbbrR0)
 
 Never use catch all `except`, `Ctrl+C` generates `KeyboardInterrupt`
@@ -872,6 +874,8 @@ need `nonlocal`/`global` keywords when referencing non-local variables
 [5 Pairs of Magic Methods in Python That You Should Know | by Yong Cui | Better Programming | Medium](https://medium.com/better-programming/5-pairs-of-magic-methods-in-python-you-should-know-f98f0e5356d6)
 [**getitem** and **setitem** in Python - GeeksforGeeks](https://www.geeksforgeeks.org/__getitem__-and-__setitem__-in-python/) for indexed attributes
 
+[Please Master This MAGIC Python Feature... 🪄 - YouTube](https://www.youtube.com/watch?v=qqp6QN20CpE)
+
 [python - Difference between @staticmethod and @classmethod - Stack Overflow](https://stackoverflow.com/questions/136097/difference-between-staticmethod-and-classmethod) `classmethod` may be overridden by subclass
 
 [type(obj) vs. obj.**class** in Python, and changing an object's class. - YouTube](https://www.youtube.com/watch?v=5vpdzRbfTIM)
@@ -932,6 +936,7 @@ Prints the path the module is form
 [UsingSlots - Python Wiki](https://wiki.python.org/moin/UsingSlots)
 [Python | Use of `__slots__` - GeeksforGeeks](https://www.geeksforgeeks.org/python-use-of-__slots__/)
 Use named tuple rather than `__dict__` for faster access, cannot add new attributes
+[What Does Python’s **slots** Actually Do? - KDnuggets](https://www.kdnuggets.com/what-does-pythons-__slots__-actually-do)
 
 [A Simple & Effective Way To Improve Python Class Performance - YouTube](https://www.youtube.com/watch?v=Fot3_9eDmOs)
 slots breaks multiple inheritance
@@ -1074,6 +1079,8 @@ def logging_decorator(func: Callable[..., Any]):
 [Working with pdb to Debug Python Code | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-the-python-debugger)
 [Debugging memory usage in a live Python web app – dbader.org](https://dbader.org/blog/debugging-python-memory-usage)
 [How to use the Python debugger | InfoWorld](https://www.infoworld.com/article/3327196/python/how-to-use-the-python-debugger.html)
+
+[Debugging Python in Docker: A Tutorial for Beginners - KDnuggets](https://www.kdnuggets.com/debugging-python-in-docker-a-tutorial-for-beginners)
 
 [【python】这个十多年的bug，没点黑魔法还真解决不了 - YouTube](https://www.youtube.com/watch?v=Mp_f1sBckjU) debugger don't work well with closure, a custom wrapper is needed to generate closure bytecode for pdb's eval
 

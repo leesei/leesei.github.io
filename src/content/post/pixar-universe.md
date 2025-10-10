@@ -2,7 +2,7 @@
 title: Pixar Universe
 description: ""
 created: 2016-04-17
-updated: 2025-01-22
+updated: 2025-07-07
 tags:
   - anime
   - pixar

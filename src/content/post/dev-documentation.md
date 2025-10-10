@@ -2,7 +2,7 @@
 title: Documentation
 description: ""
 created: 2015-06-17
-updated: 2025-07-07
+updated: 2025-07-11
 tags:
   - comp/lang
   - documentation
@@ -90,7 +90,7 @@ Static site generators supporting file-based routing are also candidates for doc
 [Build Your Python Project Documentation With MkDocs – Real Python](https://realpython.com/python-project-documentation-with-mkdocs/)
 [MkDocs Markdown Reference | Markdown Guide](https://www.markdownguide.org/tools/mkdocs/)
 
-[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) ❗!important, Material themed
 [squidfunk/mkdocs-material: Documentation that simply works](https://github.com/squidfunk/mkdocs-material)
 
 [Create a MkDocs website (like this one) - ABP Computing @ CERN](https://abpcomputing.web.cern.ch/guides/mkdocs_site/)

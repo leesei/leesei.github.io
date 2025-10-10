@@ -2,7 +2,7 @@
 title: Policy Management/Authorization
 description: Policy for accessing services
 created: 2023-06-15
-updated: 2025-04-01
+updated: 2025-07-07
 tags:
   - authentication
   - authorization

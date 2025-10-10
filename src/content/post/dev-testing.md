@@ -2,7 +2,7 @@
 title: Testing
 description: ""
 created: 2015-06-17
-updated: 2025-06-28
+updated: 2025-07-07
 tags:
   - comp/lang
   - dev/testing
@@ -13,9 +13,9 @@ tags:
 
 [What is Software Testing? The 10 Most Common Types of Tests Developers Use in Projects](https://www.freecodecamp.org/news/types-of-software-testing/)
 
-[Unit testing - Wikiwand](http://www.wikiwand.com/en/Unit_testing)
-[Test automation - Wikiwand](http://www.wikiwand.com/en/Test_automation)
-[List of unit testing frameworks - Wikiwand](http://www.wikiwand.com/en/List_of_unit_testing_frameworks)
+[Unit testing - Wikiwand](https://www.wikiwand.com/en/Unit_testing)
+[Test automation - Wikiwand](https://www.wikiwand.com/en/Test_automation)
+[List of unit testing frameworks - Wikiwand](https://www.wikiwand.com/en/List_of_unit_testing_frameworks)
 [Unit Testing Succinctly - Envato Tuts+ Code Tutorials](http://code.tutsplus.com/series/unit-testing-succinctly--cms-675)
 [Testing Pipeline 101 For Frontend Testing — Smashing Magazine](https://www.smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/)
 
@@ -30,7 +30,7 @@ Integration/Functional Test: do the pieces work together as I expected?
 Unit Test: given input _x_, is the output _y_?
 [JavaScript Testing: Unit vs Functional vs Integration Tests](http://www.sitepoint.com/javascript-testing-unit-functional-integration/) !important
 [What are Unit Testing, Integration Testing and Functional Testing? | CodeUtopia](https://codeutopia.net/blog/2015/04/11/what-are-unit-testing-integration-testing-and-functional-testing/)
-[testing - What is Unit test, Integration Test, Smoke test, Regression Test? - Stack Overflow](http://stackoverflow.com/questions/520064/what-is-unit-test-integration-test-smoke-test-regression-test)
+[testing - What is Unit test, Integration Test, Smoke test, Regression Test? - Stack Overflow](https://stackoverflow.com/questions/520064/what-is-unit-test-integration-test-smoke-test-regression-test)
 [Better software testing through automation | InfoWorld](http://www.infoworld.com/article/3068598/application-development/better-software-testing-through-automation.html)
 
 [bbc/notes-on-perf-testing: An open-source book on system performance testing](https://github.com/bbc/notes-on-perf-testing)
@@ -66,7 +66,7 @@ Unit Test: given input _x_, is the output _y_?
 
 [TDD Changed My Life. It’s 7:15 am and customer support is… | by Eric Elliott | JavaScript Scene | Medium](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80)
 [Common Myths and Misconceptions of Test Driven Development - DEV Community 👩‍💻👨‍💻](https://dev.to/mrlarson2007/common-myths-and-misconceptions-of-test-driven-development-jcn)
-[Six Ways of Improving Behaviour-Driven Development](http://www.infoq.com/news/2015/07/six-bdd-improvements)
+[Six Ways of Improving Behaviour-Driven Development](https://www.infoq.com/news/2015/07/six-bdd-improvements)
 [The WHY behind TDD/BDD and the HOW with RSpec](http://www.slideshare.net/bmabey/the-why-behind-tddbdd-and-the-how-with-rspec)
 [5 Questions Every Unit Test Must Answer — JavaScript Scene — Medium](https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d)
 [5 Common Misconceptions About TDD & Unit Tests — JavaScript Scene — Medium](https://medium.com/javascript-scene/5-common-misconceptions-about-tdd-unit-tests-863d5beb3ce9)
@@ -86,7 +86,6 @@ Unit test cons:
 [Write tests. Not too many. Mostly integration. – kentcdodds](https://blog.kentcdodds.com/write-tests-not-too-many-mostly-integration-5e8c7fff591c)
 [Unit Testing Anti-Patterns, Full List](https://www.yegor256.com/2018/12/11/unit-testing-anti-patterns.html)
 [Kent C. Dodds – Write tests. Not too many. Mostly integration. - YouTube](https://www.youtube.com/watch?v=Fha2bVoC8SE)
-[Unit Test Fetish - 250bpm](http://250bpm.com/blog:40)
 [Exploding Software-Engineering Myths - Microsoft Research](https://www.microsoft.com/en-us/research/blog/exploding-software-engineering-myths/)
 [Why-Most-Unit-Testing-is-Waste.pdf](https://rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf)
 
@@ -173,8 +172,8 @@ Some test runners take the features and generate test scripts in various languag
 
 ## Ad-hoc standard
 
-[xUnit - Wikiwand](http://www.wikiwand.com/en/XUnit)
-[Test Anything Protocol - Wikiwand](http://www.wikiwand.com/en/Test_Anything_Protocol) [TAP](https://testanything.org/) is a simple text-based interface between testing modules in a test harness. Many test frameworks can output TAP results.
+[xUnit - Wikiwand](https://www.wikiwand.com/en/XUnit)
+[Test Anything Protocol - Wikiwand](https://www.wikiwand.com/en/Test_Anything_Protocol) [TAP](https://testanything.org/) is a simple text-based interface between testing modules in a test harness. Many test frameworks can output TAP results.
 [Main Page - Test Anything Protocol](http://testanything.org/)
 
 ---
@@ -202,7 +201,7 @@ Some test runners take the features and generate test scripts in various languag
 [Netflix 混沌工程手册](https://www.infoq.cn/theme/13)
 [微服务架构下的质量迷思——混沌工程](https://www.infoq.cn/article/GQYkuMBWOF00CR_VxgDg)
 
-[SE-Radio-Episode-325: Tammy Butow on Chaos Engineering : Software Engineering Radio](http://www.se-radio.net/2018/05/se-radio-episode-325-tammy-butow-on-chaos-engineering/)
+[SE-Radio-Episode-325: Tammy Butow on Chaos Engineering : Software Engineering Radio](https://www.se-radio.net/2018/05/se-radio-episode-325-tammy-butow-on-chaos-engineering/)
 
 [A Powerful Chaos Engineering Platform for Kubernetes | Chaos Mesh®](https://chaos-mesh.org/)
 
@@ -382,10 +381,10 @@ Some test runners take the features and generate test scripts in various languag
 
 [Essential JavaScript: the top five testing libraries | JavaScript | Creative Bloq](http://www.creativebloq.com/javascript/essential-javascript-top-five-testing-libraries-10126048)
 
-[List of unit testing frameworks (JavaScript) - Wikiwand](http://www.wikiwand.com/en/List_of_unit_testing_frameworks#/JavaScript)
+[List of unit testing frameworks (JavaScript) - Wikiwand](https://www.wikiwand.com/en/List_of_unit_testing_frameworks#/JavaScript)
 [thegrtman/javascript-test-framework-comparison](https://github.com/thegrtman/javascript-test-framework-comparison)
 [coderwall.com : establishing geek cred since 1305712800](https://coderwall.com/p/ntbixw/javascript-test-framework-comparison)
-[JavaScript unit test tools for TDD - Stack Overflow](http://stackoverflow.com/questions/300855/javascript-unit-test-tools-for-tdd)
+[JavaScript unit test tools for TDD - Stack Overflow](https://stackoverflow.com/questions/300855/javascript-unit-test-tools-for-tdd)
 [I tested a React app with Jest, Enzyme, Testing Library and Cypress. Here are the differences. | by Sunil Sandhu | JavaScript in Plain English](https://javascript.plainenglish.io/i-tested-a-react-app-with-jest-testing-library-and-cypress-here-are-the-differences-3192eae03850)
 
 #### lab

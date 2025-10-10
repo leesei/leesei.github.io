@@ -2,12 +2,12 @@
 title: Mobile OS
 description: ""
 created: 2015-06-22
-updated: 2025-01-09
+updated: 2025-07-07
 tags:
   - mobile
 ---
 
-[Comparison of mobile operating systems - Wikiwand](http://www.wikiwand.com/en/Comparison_of_mobile_operating_systems)
+[Comparison of mobile operating systems - Wikiwand](https://www.wikiwand.com/en/Comparison_of_mobile_operating_systems)
 
 [Getting started with Julia: A list of resources (free PDF) - TechRepublic](https://www.techrepublic.com/resource-library/whitepapers/getting-started-with-julia-a-list-of-resources-free-pdf/#ftag=CAD-00-10aag7f)
 [maru - Your phone is your PC](https://maruos.com/)
@@ -16,16 +16,16 @@ tags:
 
 [Tizen](https://www.tizen.org/)
 [Tizen Developers](https://developer.tizen.org/)
-[Tizen - Wikiwand](http://www.wikiwand.com/en/Tizen)
+[Tizen - Wikiwand](https://www.wikiwand.com/en/Tizen)
 
-Native part adopts the abandoned [Bada](http://www.wikiwand.com/en/Bada) project.
+Native part adopts the abandoned [Bada](https://www.wikiwand.com/en/Bada) project.
 
 ## Jolla Sailfish
 
 [SailfishOS - sailfishos.org](https://sailfishos.org/)
 [Sailfish OS - Wikiwand](https://www.wikiwand.com/en/Sailfish_OS)
 
-It is based on [Mer](http://merproject.org/), a fork of the abandoned [MeeGo](http://www.wikiwand.com/en/MeeGo) project.
+It is based on [Mer](https://merproject.org/), a fork of the abandoned [MeeGo](https://www.wikiwand.com/en/MeeGo) project.
 
 ## Google Fuchsia
 
@@ -64,7 +64,7 @@ Concepts:
 
 ## Google Android
 
-[Android (operating system) - Wikiwand](<http://www.wikiwand.com/en/Android_(operating_system)>)
+[Android (operating system) - Wikiwand](<https://www.wikiwand.com/en/Android_(operating_system)>)
 
 ## Apple iOS
 
@@ -73,7 +73,7 @@ Concepts:
 > discontinued in 2016-09
 
 [Firefox OS Help](https://support.mozilla.org/en-US/products/firefox-os)
-[Firefox OS - Wikiwand](http://www.wikiwand.com/en/Firefox_OS)
+[Firefox OS - Wikiwand](https://www.wikiwand.com/en/Firefox_OS)
 
 [Firefox OS - Mozilla | MDN](https://developer.mozilla.org/en-US/Firefox_OS)
 [Firefox OS architecture - Mozilla | MDN](https://developer.mozilla.org/en-US/Firefox_OS/Platform/Architecture)

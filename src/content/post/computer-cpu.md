@@ -2,7 +2,7 @@
 title: CPUs
 description: The history of CPU, companies, ISA and chip fabrication
 created: 2019-05-03
-updated: 2025-05-21
+updated: 2025-10-05
 tags:
   - comp/hardware
   - laptop
@@ -24,6 +24,7 @@ tags:
 [The Evolution Of CPU Processing Power Part 2: Rise Of The x86 - YouTube](https://www.youtube.com/watch?v=kvDBJC_akyg)
 [The Evolution Of CPU Processing Power Part 3: The Origin Of Modern Operating Systems - YouTube](https://www.youtube.com/watch?v=NTLwMgak3Fk)
 [The Evolution Of CPU Processing Power Part 4: The 32 Bit Processor - Pipelines and Caches - YouTube](https://www.youtube.com/watch?v=qRbDWkOE63I&t=4s)
+[Every CPU Architecture Explained in Detail - YouTube](https://www.youtube.com/watch?v=6tbNew87fZU)
 
 [How CPUs are Designed and Built - TechSpot](https://www.techspot.com/article/1821-how-cpus-are-designed-and-built/)
 [How CPUs are Designed and Built, Part 2: CPU Design Process - TechSpot](https://www.techspot.com/article/1830-how-cpus-are-designed-and-built-part-2/)
@@ -37,7 +38,6 @@ tags:
 
 [Actually Hardcore Overclocking - YouTube](https://www.youtube.com/@ActuallyHardcoreOverclocking)
 
-[High Yield - YouTube](https://www.youtube.com/@HighYield)
 [Why we use Code Names for Computer Hardware - YouTube](https://www.youtube.com/watch?v=tElHLQuB3jU)
 
 ## History
@@ -49,6 +49,7 @@ tags:
 [The rise and fall of AMD | Series | Ars Technica](https://arstechnica.com/series/the-rise-and-fall-of-amd/amp/)
 [AMD History and Innovations (1969-2022) | Documentary - YouTube](https://www.youtube.com/watch?v=2DzTGCO-IkM)
 [Every AMD CPU Ever! - YouTube](https://www.youtube.com/watch?v=K8Lz3ANjlDs)
+[How AMD won the CPU crown - YouTube](https://www.youtube.com/watch?v=1kl0RBARJYQ)
 
 Asianometry
 [Intel & AMD: The First 30 Years - YouTube](https://www.youtube.com/watch?v=kZ9ntfjytTI)
@@ -69,6 +70,7 @@ RetroBytes
 
 [一口气了解AMD | 别光盯着英伟达了~ - YouTube](https://www.youtube.com/watch?v=cnTSFpSqYSM)
 [曾经的芯片霸主，如今为何跌落神坛？【英特尔变革史｜商界传奇】 - YouTube](https://www.youtube.com/watch?v=tCkeVMYdp2w)
+[CPU 是怎麼發明的？CISC 跟 RISC 的 50 年戰爭 - YouTube](https://www.youtube.com/watch?v=EGcgI66ReXs)
 
 [How ARM Saved Apple - YouTube](https://www.youtube.com/watch?v=QXgBI8drB-k)
 
@@ -112,6 +114,9 @@ But v4 (AVX512) support is messy, newer Intel CPU don't support, E-Core don't su
 [Arm processors: Everything you need to know | ZDNet](https://www.zdnet.com/google-amp/article/introducing-the-arm-processor-again-what-you-should-know-about-it-now/)
 [ARM Assembly - YouTube](https://www.youtube.com/playlist?list=PLc7W4b0WHTAXkCy3RUAO0Eqx52ALTLUdq)
 [The Magic Of ARM w/ Casey Muratori - YouTube](https://www.youtube.com/watch?v=Zr09I5OlOjs)
+
+[About | Azeria Labs](https://azeria-labs.com/about/)
+[Writing ARM Assembly (Part 1) | Azeria Labs](https://azeria-labs.com/writing-arm-assembly-part-1/)
 
 LowSpecGamer
 [How Amateurs created the world´s most popular Processor - YouTube](https://www.youtube.com/watch?v=nIwdhPOVOUk)
@@ -446,6 +451,11 @@ Core Ultra 200V series is extremely power efficient, comparable to Apple's M3, b
 
 - adds HX3D, Ryzen AI Max to mobile lineup
 - naming convention is changed _again_
+
+[Why Strix Halo is AMD's Future - YouTube](https://www.youtube.com/watch?v=maH6KZ0YkXU)
+Zen 6 Interconnect, RDNA 3.5 GPU
+
+["Our big Middle cores are better than their army of little cores" AMD's Ben Conrad chats about some of the design decisions behind Ryzen AI APUs and what makes Strix Halo tick - NotebookCheck.net News](https://www.notebookcheck.net/Our-big-Middle-cores-are-better-than-their-army-of-little-cores-AMD-s-Ben-Conrad-chats-about-some-of-the-design-decisions-behind-Ryzen-AI-APUs-and-what-makes-Strix-Halo-tick.951459.0.html)
 
 ## TDP
 
