@@ -2,14 +2,14 @@
 title: Cryptography
 description: ""
 created: 2016-01-21
-updated: 2025-10-09
+updated: 2025-11-13
 tags:
   - crypto
   - cryptography
   - security
 ---
 
-> crypto does not mean [[blockchain#Cryptocurrency]]
+> back in my days, crypto does not mean [[blockchain#Cryptocurrency]]
 
 [[enigma-machine]]
 [[crypto-shangmi]]
@@ -23,6 +23,7 @@ tags:
 [Cryptology ePrint Archive](https://eprint.iacr.org/) ❗!important
 [Welcome | Practical Cryptography for Developers](https://cryptobook.nakov.com/)
 [nakov/Practical-Cryptography-for-Developers-Book: Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA](https://github.com/nakov/practical-cryptography-for-developers-book)
+[Cryptography 101 with Alfred Menezes – Video lectures, notes, and exercises in all areas of applied cryptography](https://cryptography101.ca/)
 
 [科普园地\_国家密码管理局](https://www.oscca.gov.cn/sca/zxfw/kpyd.shtml)
 [密码学报](http://www.jcr.cacrnet.org.cn/CN/home) 中国密码学会
@@ -50,6 +51,11 @@ In cryptography, these entities are usually used:
 - Satan: malicious user/hacker
 
 [Education Center | Explore Now | Encryption Consulting](https://www.encryptionconsulting.com/education-center/)
+
+## Benchmarks
+
+[eBACS: ECRYPT Benchmarking of Cryptographic Systems](https://bench.cr.yp.to/)
+[PQ Code Package Benchmarks](https://pq-code-package.github.io/mlkem-native/dev/bench/)
 
 ## Asymmetric Cryptography
 
@@ -91,17 +97,46 @@ PKCS #3: Diffie–Hellman Key Agreement Standard
 [RFC 8018 - PKCS #5: Password-Based Cryptography Specification Version 2.1](https://datatracker.ietf.org/doc/html/rfc8018)
 [PBKDF2 - Wikiwand](https://www.wikiwand.com/en/articles/PBKDF2)
 
-[PKCS 7 - Wikiwand](https://www.wikiwand.com/en/articles/PKCS_7)
-[RFC 2315 - PKCS #7: Cryptographic Message Syntax Version 1.5](https://datatracker.ietf.org/doc/html/rfc2315)
-[RFC 5652 - Cryptographic Message Syntax (CMS)](https://datatracker.ietf.org/doc/html/rfc5652) IETF picked up CMS
-
 [Certificate signing request - Wikiwand](https://www.wikiwand.com/en/articles/Certificate_signing_request)
 [RFC 2986 - PKCS #10: Certification Request Syntax Specification Version 1.7](https://datatracker.ietf.org/doc/html/rfc2986)
 
 [PKCS 12 - Wikiwand](https://www.wikiwand.com/en/articles/PKCS_12)
 [RFC 7292 - PKCS #12: Personal Information Exchange Syntax v1.1](https://datatracker.ietf.org/doc/html/rfc7292)
 
-### PKCS #11
+### PKCS 7/CMS
+
+[PKCS 7 - Wikiwand](https://www.wikiwand.com/en/articles/PKCS_7)
+[RFC 2315 - PKCS #7: Cryptographic Message Syntax Version 1.5](https://datatracker.ietf.org/doc/html/rfc2315)
+[RFC 5652 - Cryptographic Message Syntax (CMS)](https://datatracker.ietf.org/doc/html/rfc5652) IETF picked up CMS, obsoletes 3852
+
+- SignedData
+- EnvelopedData
+- EncryptedData
+- DigestedData
+- AuthenticatedData
+
+[RFC 5083 - Cryptographic Message Syntax (CMS) Authenticated-Enveloped-Data Content Type](https://datatracker.ietf.org/doc/html/rfc5083)
+
+- AuthEnvelopedData
+
+[RFC 3274 - Compressed Data Content Type for Cryptographic Message Syntax (CMS)](https://datatracker.ietf.org/doc/html/rfc3274)
+
+- CompressedData
+
+[RFC 4073 - Protecting Multiple Contents with the Cryptographic Message Syntax (CMS)](https://datatracker.ietf.org/doc/html/rfc4073)
+
+- ContentCollection
+- ContentWithAttributes
+
+[RFC 4108 - Using Cryptographic Message Syntax (CMS) to Protect Firmware Packages](https://datatracker.ietf.org/doc/html/rfc4108)
+[RFC 5958 - Asymmetric Key Packages](https://datatracker.ietf.org/doc/html/rfc5958) obsoletes RFC5208 PKCS#8
+[RFC 6010 - Cryptographic Message Syntax (CMS) Content Constraints Extension](https://datatracker.ietf.org/doc/html/rfc6010)
+[RFC 6160 - Algorithms for Cryptographic Message Syntax (CMS) Protection of Symmetric Key Package Content Types](https://datatracker.ietf.org/doc/html/rfc6160)
+[RFC 6211 - Cryptographic Message Syntax (CMS) Algorithm Identifier Protection Attribute](https://datatracker.ietf.org/doc/html/rfc6211)
+[RFC 7468 - Textual Encodings of PKIX, PKCS, and CMS Structures](https://datatracker.ietf.org/doc/html/rfc7468)
+[RFC 8696 - Using Pre-Shared Key (PSK) in the Cryptographic Message Syntax (CMS)](https://datatracker.ietf.org/doc/html/rfc8696)
+
+### PKCS 11
 
 [PKCS 11 - Wikiwand](https://www.wikiwand.com/en/articles/PKCS_11) Cryptoki, C API to communicate with HSM or smart cards
 [PKCS #11 Specification Version 3.1](https://docs.oasis-open.org/pkcs11/pkcs11-spec/v3.1/pkcs11-spec-v3.1.html)
@@ -246,6 +281,7 @@ SHAKE (Sponge Function) allows for hashing arbitrary length input and generating
 [SP 800-108 Rev. 1, Recommendation for Key Derivation Using Pseudorandom Functions | CSRC](https://csrc.nist.gov/pubs/sp/800/108/r1/upd1/final)
 [SP 800-227, Recommendations for Key-Encapsulation Mechanisms | CSRC](https://csrc.nist.gov/pubs/sp/800/227/ipd)
 
+[Key derivation function - Wikiwand](https://www.wikiwand.com/en/articles/Key_derivation_function)
 [Key Derivation Functions vs. Password Hashing Schemes - Cryptography Stack Exchange](https://crypto.stackexchange.com/questions/70716/key-derivation-functions-vs-password-hashing-schemes)
 [encryption - What is the difference between Key Derivation Function and (salted) Hash? - Information Security Stack Exchange](https://security.stackexchange.com/questions/95410/what-is-the-difference-between-key-derivation-function-and-salted-hash)
 
@@ -347,12 +383,20 @@ no challenges are presented to be validated
 
 ### Diffie–Hellman key exchange
 
+[Diffie–Hellman key exchange - Wikiwand](https://www.wikiwand.com/en/articles/Diffie%E2%80%93Hellman_key_exchange)
+[Elliptic-curve Diffie–Hellman - Wikiwand](https://www.wikiwand.com/en/articles/Elliptic-curve_Diffie%E2%80%93Hellman)
+[Implementation of Diffie-Hellman Algorithm - GeeksforGeeks](https://www.geeksforgeeks.org/implementation-diffie-hellman-algorithm/)
+
+- one party choose and announce `g`, `p`
+- party A choose secret `a` and announce public key `A = g^a%p`
+- party B choose secret `b` and announce public `B = g^b%p`
+- party A compute `B^a%p`, party B compute `A^b%p`
+- the number should be the same (note `B^a = A^b = g^ab` in `mod p` group) and can be used as session key
+
 [PKCS #3: Diffie-Hellman Key-Agreement Standard](https://www.teletrust.de/fileadmin/files/oid/oid_pkcs-3v1-4.pdf)
 [Intro to PKCS #3: Diffie-Hellman Key Agreement Standard – wolfSSL](https://www.wolfssl.com/intro-to-pkcs-3-diffie-hellman-key-agreement-standard-2/)
 
-[Diffie–Hellman key exchange - Wikiwand](https://www.wikiwand.com/en/articles/Diffie%E2%80%93Hellman_key_exchange)
-[Elliptic-curve Diffie–Hellman - Wikiwand](https://www.wikiwand.com/en/articles/Elliptic-curve_Diffie%E2%80%93Hellman)
-
+[RFC 2631 - Diffie-Hellman Key Agreement Method](https://datatracker.ietf.org/doc/html/rfc2631)
 [RFC 7919 - Negotiated Finite Field Diffie-Hellman Ephemeral Parameters for Transport Layer Security (TLS)](https://datatracker.ietf.org/doc/html/rfc7919)
 [RFC 8422 - Elliptic Curve Cryptography (ECC) Cipher Suites for Transport Layer Security (TLS) Versions 1.2 and Earlier](https://datatracker.ietf.org/doc/html/rfc8422)
 
@@ -371,7 +415,7 @@ Signal's protocol, requires identity key
 
 ### Internet Key Exchange (IKE)
 
-> used by many technologies that are protected by IPsec, e.g.L VPN, SFTP, SSH and Point-to-Point Protocol (PPP).
+> used by many technologies that are protected by IPsec, e.g. VPN, SFTP, SSH and Point-to-Point Protocol (PPP).
 
 [IPsec - Wikiwand](https://www.wikiwand.com/en/articles/IPsec)
 [Internet Key Exchange - Wikiwand](https://www.wikiwand.com/en/articles/Internet_Key_Exchange)
@@ -379,45 +423,13 @@ Signal's protocol, requires identity key
 [what is Internet Key Exchange Protocol Version 2 (IKEv2)? - Phind](https://www.phind.com/search/cm8408zf200002v6qsxn7kfbz)
 
 [RFC 4306 - Internet Key Exchange (IKEv2) Protocol](https://datatracker.ietf.org/doc/html/rfc4306/)
+[RFC 4754 - IKE and IKEv2 Authentication Using the Elliptic Curve Digital Signature Algorithm (ECDSA)](https://datatracker.ietf.org/doc/html/rfc4754)
 [RFC 8784 - Mixing Preshared Keys in the Internet Key Exchange Protocol Version 2 (IKEv2) for Post-quantum Security](https://datatracker.ietf.org/doc/html/rfc8784)
 [RFC 9242 - Intermediate Exchange in the Internet Key Exchange Protocol Version 2 (IKEv2)](https://datatracker.ietf.org/doc/html/rfc9242/) allow large-sized keys
 [RFC 9370 - Multiple Key Exchanges in the Internet Key Exchange Protocol Version 2 (IKEv2)](https://datatracker.ietf.org/doc/html/rfc9370/) allows multiple rounds of key exchanges
 [Internet Key Exchange Version 2 (IKEv2) Parameters](https://www.iana.org/assignments/ikev2-parameters/ikev2-parameters.xhtml)
 
 [SIGMA: The ‘SIGn-and-MAc’ Approach to Authenticated Diffie-Hellman and Its Use in the IKE Protocols | SpringerLink](https://link.springer.com/chapter/10.1007/978-3-540-45146-4_24)
-
-[Quantum Security Made Easy with RFC 8784 Standard | Palo Alto Networks](https://live.paloaltonetworks.com/t5/community-blogs/quantum-security-made-easy-with-rfc-8784-standard/ba-p/574825) intermediate solution using preshared keys IDs, hiding the DH parameters
-[Palo Alto Networks Extends Support for Quantum Safe VPN with RFC 9242, RFC 9370 Standards, and Hybrid KEYs | Palo Alto Networks](https://live.paloaltonetworks.com/t5/community-blogs/palo-alto-networks-extends-support-for-quantum-safe-vpn-with-rfc/ba-p/585492)
-
-### PQC Keyex
-
-[tldr.fail](https://tldr.fail/)
-
-[draft-ietf-tls-hybrid-design-12 - Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/html/draft-ietf-tls-hybrid-design/) ❗!important, define the way multiple keys (traditional and next gen) are packed in TLS extension structs, allows key reuse (or duplication?) in ClientHello
-[draft-ietf-tls-ecdhe-mlkem-00 - Post-quantum hybrid ECDHE-MLKEM Key Agreement for TLSv1.3](https://datatracker.ietf.org/doc/html/draft-ietf-tls-ecdhe-mlkem/) ❗!important, X25519MLKEM768, SecP256r1MLKEM768, and SecP384r1MLKEM1024
-[draft-irtf-cfrg-hybrid-kems-03](https://datatracker.ietf.org/doc/html/draft-irtf-cfrg-hybrid-kems/#kdf)
-
-[Post Quantum Cryptography: A short update. | LinkedIn](https://www.linkedin.com/pulse/post-quantum-cryptography-short-update-klaus-haller-cdd0f/) 2024-12
-
-Cloudflare enabled PQC for their customers as described in a 2023 blog. That handles the server side.
-[Post-Quantum Key Agreement at Cloudflare](https://pq.cloudflareresearch.com/) Modern browsers support X25519MLKEM768 in TLS
-https://blog.cloudflare.com/post-quantum-to-origins/ 2023-09
-https://blog.cloudflare.com/post-quantum-for-all/ 2022-10
-https://blog.cloudflare.com/making-protocols-post-quantum/ 2022-02, KEX in TLS and KEMTLS for auth
-https://blog.cloudflare.com/pq-2024/ 2024-03,❗!important, history, KEX and signature
-https://developers.cloudflare.com/ssl/post-quantum-cryptography/pqc-support/
-
-Then Google deployed default support for PQC in desktop Chrome installs for TLS 1.3 and QUIC and on Google's servers. Few people seem to have had problems (or even noticed)!
-[Chromium Blog: Protecting Chrome Traffic with Hybrid Kyber KEM](https://blog.chromium.org/2023/08/protecting-chrome-traffic-with-hybrid.html)
-[Chromium Blog: Advancing Our Amazing Bet on Asymmetric Cryptography](https://blog.chromium.org/2024/05/advancing-our-amazing-bet-on-asymmetric.html) performance
-[Google Online Security Blog: Post-Quantum Cryptography: Standards and Progress](https://security.googleblog.com/2024/08/post-quantum-cryptography-standards.html)
-
-[Apple's New iMessage, Signal, & Post-Quantum Crypto | CSA](https://cloudsecurityalliance.org/blog/2024/05/17/apple-s-new-imessage-signal-and-post-quantum-cryptography)
-[Blog - iMessage with PQ3: The new state of the art in quantum-secure messaging at scale - Apple Security Research](https://security.apple.com/blog/imessage-pq3/)
-[Signal >> Blog >> Quantum Resistance and the Signal Protocol](https://signal.org/blog/pqxdh/)
-
-[Go Post-Quantum with Caddy | Sam Burns' Tech Blog](https://sam-burns.com/posts/go-post-quantum-with-caddy/)
-[cloudflare/go: Go with Cloudflare experimental patches](https://github.com/cloudflare/go)
 
 ## Homomorphic Encryption
 
@@ -446,6 +458,8 @@ Then Google deployed default support for PQC in desktop Chrome installs for TLS 
 [Block cipher mode of operation - Wikiwand](https://www.wikiwand.com/en/Block_cipher_mode_of_operation)
 
 Block ciphers, as the name suggests, encrypts blocks. The methods of segmenting data into blocks is called "modes of operation".
+
+[The Third NIST Workshop on Block Cipher Modes of Operation 2023 | CSRC](https://csrc.nist.gov/Events/2023/third-workshop-on-block-cipher-modes-of-operation)
 
 [Modes of Operation - Computerphile - YouTube](https://www.youtube.com/watch?v=Rk0NIQfEXBA)
 **ECB**: simply divides a message into 16 byte blocks, preserves pattern (for experts only: ECB should never be used except in some very specific cases)
@@ -518,10 +532,20 @@ gpg --output filename.tar.gz --decrypt filename.tar.gz.gpg
 [RFC 8439 - ChaCha20 and Poly1305 for IETF Protocols](https://datatracker.ietf.org/doc/html/rfc8439)
 ARX cipher: add, rotate, xor
 
+[The design of Chacha20](https://loup-vaillant.fr/tutorials/chacha20-design) encryption
+[The design of Poly1305](https://loup-vaillant.fr/tutorials/poly1305-design) MAC
+
 ## Public Key Cryptography
 
 [Public-key cryptography - Wikiwand](https://www.wikiwand.com/en/Public-key_cryptography)
 Public Key crypto simply works with numbers. This means that any messages would have to be converted into a number before being encrypted.
+
+### Backdoor in algorithms
+
+[Why I don’t Trust NIST P-256 | Credelius](https://credelius.com/credelius/?p=97)
+[How to manipulate curve standards: a white paper for the black hat](https://eprint.iacr.org/2014/571.pdf)
+
+[How the NSA (may have) put a backdoor in RSA’s cryptography: A technical primer](https://blog.cloudflare.com/how-the-nsa-may-have-put-a-backdoor-in-rsas-cryptography-a-technical-primer/)
 
 ### RSA
 
@@ -550,11 +574,44 @@ Public Key crypto simply works with numbers. This means that any messages would 
 - Ciphertext c = m^e mod n
 - Plaintext m = c^d mod n
 
+- RSA keypair is actually a trio of numbers `e`, `n` and `d` related such that `m^de%n=m`
+- public key: `(e, n)`, private key: `d`
+- `s = h^d%n`, `s` = signature, `h` = hash of message `m`
+- To verify, check if `s^e%n` equals `h`
+
 [Pretty Good Privacy (PGP) and Digital Signatures | Linux Journal](https://www.linuxjournal.com/content/pretty-good-privacy-pgp-and-digital-signatures)
 
 [Passive SSH Key Compromise via Lattices | Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security](https://dl.acm.org/doi/10.1145/3576915.3616629)
 
-### ECC
+### Elliptic Curve Cryptography (ECC)
+
+[ANSI X9.62-2005_317.pdf](https://img.antpedia.com/standard/pdf/A11/1610/ANSI%20X9.62-2005_317.pdf) The Elliptic Curve Digital Signature Algorithm
+[FIPS 186-5, Digital Signature Standard (DSS) | CSRC](https://csrc.nist.gov/pubs/fips/186-5/final) P-192, P-256, P-384 curves
+[RFC 5639 - Elliptic Curve Cryptography (ECC) Brainpool Standard Curves and Curve Generation](https://datatracker.ietf.org/doc/html/rfc5639) avoid potential patent issues associated other ECC curves
+
+[RFC 6979 - Deterministic Usage of the Digital Signature Algorithm (DSA) and Elliptic Curve Digital Signature Algorithm (ECDSA)](https://datatracker.ietf.org/doc/html/rfc6979)
+[RFC 6605 - Elliptic Curve Digital Signature Algorithm (DSA) for DNSSEC](https://datatracker.ietf.org/doc/html/rfc6605)
+[A (Relatively Easy To Understand) Primer on Elliptic Curve Cryptography](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
+[Elliptic Curve Cryptography: a gentle introduction - Andrea Corbellini](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
+[how does ECDSA works - Phind](https://www.phind.com/search/cm779cpp600012v6s6jieo57z)
+[Paul Miller — Learning fast elliptic-curve cryptography](https://paulmillr.com/posts/noble-secp256k1-fast-ecc/)
+[ECDSA: Elliptic Curve Signatures | Practical Cryptography for Developers](https://cryptobook.nakov.com/digital-signatures/ecdsa-sign-verify-messages)
+[EdDSA and Ed25519 | Practical Cryptography for Developers](https://cryptobook.nakov.com/digital-signatures/eddsa-and-ed25519)
+
+[RFC 8032 - Edwards-Curve Digital Signature Algorithm (EdDSA)](https://datatracker.ietf.org/doc/html/rfc8032)
+[EdDSA Keys and Signatures](https://docs.keyfactor.com/ejbca/9.0/eddsa-keys-and-signatures)
+
+[Ed25519: high-speed high-security signatures](https://ed25519.cr.yp.to/) highly efficient algo with strengh similar to RSA with ~3000-bit keys
+[A Deep dive into Ed25519 Signatures](https://cendyne.dev/posts/2022-03-06-ed25519-signatures.html)
+
+[ECDSA vs EdDSA - Sefik Ilkin Serengil](https://sefiks.com/2023/08/31/ecdsa-vs-eddsa/)
+[cryptography - SSH Key: Ed25519 vs RSA - Information Security Stack Exchange](https://security.stackexchange.com/questions/90077/ssh-key-ed25519-vs-rsa)
+
+#### BLS
+
+[BLS digital signature - Wikiwand](https://www.wikiwand.com/en/articles/BLS_digital_signature)
+[BLS Signature for Busy People](https://gist.github.com/paulmillr/18b802ad219b1aee34d773d08ec26ca2)
+[Crypto Pills #11: BLS Signatures. BLS (Boneh–Lynn–Shacham) signatures… | by Guilherme Balena Versiani | Medium](https://medium.com/@guibv.avatar/crypto-pills-11-bls-signatures-6d492618960c)
 
 ### age
 
@@ -568,13 +625,18 @@ Public Key crypto simply works with numbers. This means that any messages would 
 
 [What are Digital Signatures? - Computerphile - YouTube](https://www.youtube.com/watch?v=s22eJ1eVLTU)
 
-[RFC 8032 - Edwards-Curve Digital Signature Algorithm (EdDSA)](https://datatracker.ietf.org/doc/html/rfc8032)
+[RSA and Digital Signatures - GeeksforGeeks](https://www.geeksforgeeks.org/rsa-and-digital-signatures/)
+[Digital Signature Algorithm (DSA) - GeeksforGeeks](https://www.geeksforgeeks.org/digital-signature-algorithm-dsa/)
+[Blockchain - Elliptic Curve Digital Signature Algorithm (ECDSA) - GeeksforGeeks](https://www.geeksforgeeks.org/blockchain-elliptic-curve-digital-signature-algorithm-ecdsa/)
+
+[[#RSA]]
+[[#Elliptic Curve Cryptography (ECC)]]
 
 ## Framework/Library
 
 [[openssl]]
 
-[cryptlib Encryption Toolkit](https://www.cs.auckland.ac.nz/~pgut001/cryptlib/index.html)
+[cryptlib Encryption Toolkit](https://www.cs.auckland.ac.nz/~pgut001/cryptlib/html)
 [cryptlib/cryptlib: cryptlib security toolkit](https://github.com/cryptlib/cryptlib)
 
 ## Steganography
@@ -592,6 +654,10 @@ Public Key crypto simply works with numbers. This means that any messages would 
 
 [resurrecting-open-source-projects/outguess: Universal steganographic tool](https://github.com/resurrecting-open-source-projects/outguess)
 
+## Zero-Knowledge sharing
+
+[crypt.fyi - Open-Source Zero-Knowledge Post-Quantum End-to-End Encrypted One-Time Secret Sharing](https://www.crypt.fyi/)
+
 ## Zero-knowledge proof/ZKP
 
 [Zero-knowledge proof - Wikiwand](https://www.wikiwand.com/en/Zero-knowledge_proof)
@@ -604,6 +670,7 @@ Public Key crypto simply works with numbers. This means that any messages would 
 [Zero-Knowledge Proof (ZKP) — Explained | Chainlink](https://blog.chain.link/what-is-a-zero-knowledge-proof-zkp/)
 [Zero-knowledge proofs explained in 3 examples](https://www.circularise.com/blogs/zero-knowledge-proofs-explained-in-3-examples)
 [I can prove I’ve solved this Sudoku without revealing it - YouTube](https://www.youtube.com/watch?v=Otvcbw6k4eo)
+[Zero-knowledge Proof: IZKs, NIZKs, SNARKS, STARKS Explained. | by Mayowa Olatunji (@web3MIO) | Coinmonks | Medium](https://medium.com/coinmonks/zero-knowledge-proof-izks-nizks-snarks-starks-5bc06c96c7ee)
 
 [The Magic of Zero-Knowledge Proofs #SoME3 - YouTube](https://www.youtube.com/watch?v=FfeXX6OLq8w)
 
