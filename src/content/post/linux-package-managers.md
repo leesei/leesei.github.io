@@ -2,7 +2,7 @@
 title: Linux Package Managers
 description: ""
 created: 2017-05-10
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - desktop
   - linux

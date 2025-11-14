@@ -2,7 +2,7 @@
 title: Web Security
 description: ""
 created: 2015-05-18
-updated: 2025-07-07
+updated: 2025-10-14
 tags:
   - security
   - ssl
@@ -326,6 +326,7 @@ If markup is allowed, sanitize user input before saving to database
 ## Fingerprinting
 
 [How websites take browser fingerprints | Kaspersky official blog](https://www.kaspersky.com/blog/rc3-fpmon-browser-fingerprinting/38369/)
+[How to Protect Against Browser Fingerprinting and Boost Your Privacy](https://www.makeuseof.com/how-block-browser-fingerprinting/)
 
 [Fighting TLS fingerprinting with Node.js | HTTP Toolkit](https://httptoolkit.tech/blog/tls-fingerprinting-node-js/)
 

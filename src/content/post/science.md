@@ -2,7 +2,7 @@
 title: Science
 description: ""
 created: 2019-08-09
-updated: 2025-09-18
+updated: 2025-10-10
 tags:
   - science
 ---

@@ -2,7 +2,7 @@
 title: How Games Work
 description: How games mechanics works, game design and how to make games, apart from rendering
 created: 2015-08-31
-updated: 2025-09-19
+updated: 2025-10-10
 tags:
   - game-design
   - games

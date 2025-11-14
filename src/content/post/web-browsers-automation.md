@@ -2,7 +2,7 @@
 title: Browser automation
 description: Automates browser, for web scraping and testing
 created: 2017-11-20
-updated: 2025-09-22
+updated: 2025-10-10
 tags:
   - automation
   - web

@@ -2,7 +2,7 @@
 title: Arch Post Install
 description: ""
 created: 2021-01-08
-updated: 2025-07-10
+updated: 2025-10-10
 tags:
   - arch-linux
   - desktop

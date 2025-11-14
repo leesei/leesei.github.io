@@ -2,7 +2,7 @@
 title: Maritime
 description: ""
 created: 2021-11-10
-updated: 2025-10-03
+updated: 2025-11-08
 tags:
   - transportation
 ---
@@ -34,7 +34,6 @@ tags:
 
 [How Ocean Shipping Works (And Why It's Broken) - YouTube](https://www.youtube.com/watch?v=8d5d_HXGeMA)
 
-[Oceanliner Designs - YouTube](https://www.youtube.com/@OceanlinerDesigns)
 [How Do Anchors Actually Work? - YouTube](https://www.youtube.com/watch?v=eR84ap2KMoU)
 
 [How the Diesel Engine Became King of the Seas - YouTube](https://www.youtube.com/watch?v=EgMZeLYlKU8)
@@ -54,17 +53,19 @@ tags:
 [例出海军舰船等级 - Phind](https://www.phind.com/search/cmchw4k650000356uwbt2iwjv)
 
 Aircraft Carrier 航空母舰
-Battleship 战列舰: heavy cannon and armor, wek against toroedos and missiles
+Battleship 战列舰: heavy cannon and armor, wek against tornados and missiles
 Cruiser 巡洋舰: usually bigger and with more guns (but large Destroyers are catching up)
 Destroyer 驱逐舰: jack of all trades to protect the fleet (especially for modern warfare)
 Frigate 巡防艦/護衛艦: usually no air defense, focus on anti-sub
-Corvettes 海防巡邏艦: not blue-sea worthy, missile or anit-sub
+Corvettes 海防巡邏艦: not blue-sea worthy, missile or anti-sub
 Amphibious Assault Ship: mini aircraft
+Landing Helicopter Dock: a type of assault ship
 Sea Tender
 Submarine
 
 [Cities at Sea: How Aircraft Carriers Work - YouTube](https://www.youtube.com/watch?v=c0pS3Zx7Fc8)
 [航母為何不能無限大，甲板又為什麼不能做成對稱型？航母冷知識一個視頻全看完！航母艦艏的球鼻有何作用，建造航母特種鋼材又有多困難？ - YouTube](https://www.youtube.com/watch?v=wum-5z1JkQY)
+[Why Does US Navy Have Two Types of Aircraft Carriers? - YouTube](https://www.youtube.com/watch?v=7RgoBRDKkpI)
 
 [Living Underwater: How Submarines Work - YouTube](https://www.youtube.com/watch?v=gdy0gBVWAzE)
 [Submarines – Extreme Technology – Big Bigger Biggest - YouTube](https://www.youtube.com/watch?v=1Esapb0gT3w)

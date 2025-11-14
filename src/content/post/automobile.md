@@ -2,7 +2,7 @@
 title: Automobile
 description: ""
 created: 2020-05-27
-updated: 2025-10-07
+updated: 2025-10-10
 tags:
   - transportation
 ---

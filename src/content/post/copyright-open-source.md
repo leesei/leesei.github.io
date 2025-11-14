@@ -2,7 +2,7 @@
 title: Open Source Copyright
 description: ""
 created: 2023-06-28
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - copyleft
   - foss

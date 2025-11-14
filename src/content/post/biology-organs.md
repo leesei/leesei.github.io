@@ -2,7 +2,7 @@
 title: Organs
 description: ""
 created: 2023-09-03
-updated: 2025-07-08
+updated: 2025-10-10
 tags:
   - biology
   - learning

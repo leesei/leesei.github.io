@@ -2,7 +2,7 @@
 title: Remote Procedure Call (RPC)
 description: ""
 created: 2018-08-02
-updated: 2025-08-07
+updated: 2025-10-10
 tags:
   - comp/lang
   - rpc

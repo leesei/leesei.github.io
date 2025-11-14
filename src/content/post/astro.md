@@ -2,7 +2,7 @@
 title: Astro
 description: ""
 created: 2023-03-04
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - javascript
   - static-site

@@ -2,7 +2,7 @@
 title: C and C++
 description: ""
 created: 2023-09-29
-updated: 2025-09-23
+updated: 2025-10-10
 tags:
   - c
   - comp/lang

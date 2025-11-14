@@ -2,7 +2,7 @@
 title: JavaScript Pipeline (Archives)
 description: Archived JavaScript Pipeline notes
 created: 2021-02-26
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - archived
   - bundler

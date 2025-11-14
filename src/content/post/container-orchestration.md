@@ -2,7 +2,7 @@
 title: Container Orchestration
 description: ""
 created: 2014-12-11
-updated: 2025-09-23
+updated: 2025-10-10
 tags:
   - container
   - dev/deploy

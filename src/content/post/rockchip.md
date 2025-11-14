@@ -2,7 +2,7 @@
 title: Rockchip - comp/hardware
 description: ""
 created: 2018-10-20
-updated: 2025-09-23
+updated: 2025-10-10
 tags:
   - iot
   - rk3288

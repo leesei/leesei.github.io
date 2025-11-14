@@ -2,7 +2,7 @@
 title: Movies Database
 description: ""
 created: 2015-08-26
-updated: 2025-08-11
+updated: 2025-10-14
 tags:
   - movies
 ---
@@ -202,5 +202,9 @@ TEEPR 叭啦叭啦研究室
 
 ## Netflix
 
-[9 Useful Netflix Features You May Have Missed](https://www.makeuseof.com/lesser-known-useful-netflix-features/)
+`https://www.netflix.com/browse/genre/<CODE>`
+[Netflix Codes: find hidden categories on Netflix (full list)](https://www.netflix-codes.com/)  
 [200+ Secret Netflix Codes to Discover Hidden Movies](https://www.makeuseof.com/tag/netflix-secret-codes-cheat-sheet/)
+[Netflix has hidden categories—here's how to find them and the best ones to use](https://www.makeuseof.com/netflix-has-hidden-categoriesheres-how-to-find-them-and-the-best-ones-to-use/)
+
+[9 Useful Netflix Features You May Have Missed](https://www.makeuseof.com/lesser-known-useful-netflix-features/)

@@ -2,7 +2,7 @@
 title: Keyboard
 description: ""
 created: 2015-06-15
-updated: 2025-08-26
+updated: 2025-11-13
 tags:
   - comp/hardware
   - logitech
@@ -41,6 +41,7 @@ Clicky: jade
 
 [【硬核科普】一个视频了解磁轴，静电容，机械轴，光轴键盘的原理 - YouTube](https://www.youtube.com/watch?v=eTo-_EWB1uY) magnetic and wedged-optical axis can output analog signal
 [【建議收藏】作弊器還是智商稅？一個影片全面認識磁軸和RT！ - YouTube](https://www.youtube.com/watch?v=yAnW2YawiMg) Rapid Trigger on the magnetic axis
+[顛覆認知？0作弊可能？磁軸鍵盤延遲測試2.0上線！【翼王x肚子飽飽】 - YouTube](https://www.youtube.com/watch?v=GJ6JkTJBkOU)
 
 ## Layout
 

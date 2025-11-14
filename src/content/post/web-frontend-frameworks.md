@@ -2,7 +2,7 @@
 title: Web Frontend Frameworks
 description: ""
 created: 2022-08-23
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - frontend
   - javascript

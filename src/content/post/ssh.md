@@ -2,7 +2,7 @@
 title: SSH
 description: ""
 created: 2014-12-17
-updated: 2025-09-02
+updated: 2025-10-17
 tags:
   - app
   - shell-tool
@@ -11,12 +11,9 @@ tags:
 
 [OpenSSH](https://www.openssh.com/)
 
+[Academy](https://www.ssh.com/academy)
 [SSH Essentials: Working with SSH Servers, Clients, and Keys | DigitalOcean](https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys)
 [How to SSH Properly | SSH Security Best Practices | Teleport](https://goteleport.com/blog/how-to-ssh-properly/)
-
-[ssh-agent - OpenSSH authentication agent - man page](https://www.mankier.com/1/ssh-agent)
-[SSH Agent Explained](https://smallstep.com/blog/ssh-agent-explained/)
-[ssh-add command man page - openssh-clients | ManKier](https://www.mankier.com/1/ssh-add)
 
 [ssh-keygen - man page](https://www.mankier.com/1/ssh-keygen)
 [Generating SSH keys - User Documentation](https://help.github.com/articles/generating-ssh-keys/)
@@ -203,11 +200,14 @@ Note: domain resolution is done AFTER SSH (on the SSH server).
 
 **Local port forwarding**
 allows you to forward a **local** port number to a remote server
+[SSH Tunneling: Client Command & Server Configuration](https://www.ssh.com/academy/ssh/tunneling-example#local-forwarding)
 
 ```sh
 # `localhost:3306` (at `server.com`) is accessible at `localhost:8000`
-$ ssh -fNT -L 8000:localhost:3306 user@server.com
-$ ssh -fNT -L 8000:127.0.0.1:3306 coolio@database.server.com
+$ ssh -fNT4 -L 127.0.0.1:8000:localhost:3306 user@server.com
+# expose remote service via local server
+$ ssh -fNT4 -L 0.0.0.0:3306:127.0.0.1:3306 coolio@database.server.com
+$ ssh -NT -L 127.0.0.1:8000:127.0.0.1:27017 kylee@192.168.2.233
 
 # Access `restricted-domain.com:80` via `remote-server.com`, exposed at `localhost:8000`
 $ ssh -L 8000:restricted-domain.com:80 user@remote-server.com
@@ -227,6 +227,7 @@ Host tunnel
 **Remote port forwarding**
 forward all requests to a **remote** servers' port to your machine.
 Can also expose SSH server.
+[SSH Tunneling: Client Command & Server Configuration](https://www.ssh.com/academy/ssh/tunneling-example#remote-forwarding)
 
 ```sh
 # `localhost:3000` will be accessible at `remote-server.com:8000`
@@ -309,9 +310,15 @@ ServerAliveInterval 60
 
 Forward your local machine's credential to remote machine.
 
-[SSH Agent Forwarding: How to use SSH properly and what is SSH Agent Forwarding - DEV](https://dev.to/levivm/how-to-use-ssh-and-ssh-agent-forwarding-more-secure-ssh-2c32)
+[ssh-agent - OpenSSH authentication agent - man page](https://www.mankier.com/1/ssh-agent)
+[ssh-add command man page - openssh-clients | ManKier](https://www.mankier.com/1/ssh-add)
 
+[Bitwarden SSH Agent | Bitwarden](https://bitwarden.com/help/ssh-agent/)
+[How to configure ssh-agent, agent forwarding & protocol](https://www.ssh.com/academy/ssh/agent)
 [Using SSH Agent Forwarding | GitHub Developer Guide](https://developer.github.com/v3/guides/using-ssh-agent-forwarding/)
+[SSH Agent Forwarding: How to use SSH properly and what is SSH Agent Forwarding - DEV](https://dev.to/levivm/how-to-use-ssh-and-ssh-agent-forwarding-more-secure-ssh-2c32)
+[SSH Agent Explained](https://smallstep.com/blog/ssh-agent-explained/)
+
 [How to Access a Remote Server Using a Jump Host](https://www.tecmint.com/access-linux-server-using-a-jump-host/amp/)
 [How to use SSH to proxy through a Linux jump host - TechRepublic](https://www.techrepublic.com/article/how-to-use-ssh-to-proxy-through-a-linux-jump-host/)
 [OpenSSH/Cookbook/Proxies and Jump Hosts - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/OpenSSH/Cookbook/Proxies_and_Jump_Hosts#Jump_Hosts_--_Passing_Through_a_Gateway_or_Two)
@@ -320,7 +327,6 @@ Forward your local machine's credential to remote machine.
 [SSH ProxyCommand example: Going through one host to reach another server - nixCraft](https://www.cyberciti.biz/faq/linux-unix-ssh-proxycommand-passing-through-one-host-gateway-server/)
 
 [SSH Agent forwarding using different usernames and different keys - Super User](https://superuser.com/questions/1140830/ssh-agent-forwarding-using-different-usernames-and-different-keys/1141035#1141035)
-[What is SSH Agent Forwarding and How Do You Use It?](https://www.cloudsavvyit.com/25/what-is-ssh-agent-forwarding-and-how-do-you-use-it/amp/)
 
 ## X11 Forwarding
 

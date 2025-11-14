@@ -2,7 +2,7 @@
 title: Nuclear Energy
 description: ""
 created: 2023-05-27
-updated: 2025-09-18
+updated: 2025-10-10
 tags:
   - energy
   - science

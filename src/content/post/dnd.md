@@ -2,7 +2,7 @@
 title: Dungeons & Dragons
 description: ""
 created: 2015-12-15
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - boardgame
   - games

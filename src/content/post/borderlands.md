@@ -2,7 +2,7 @@
 title: Borderlands
 description: ""
 created: 2023-08-14
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - borderlands
   - games

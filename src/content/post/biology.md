@@ -2,7 +2,7 @@
 title: Biology
 description: Scientific study of life
 created: 2016-09-24
-updated: 2025-09-25
+updated: 2025-10-10
 tags:
   - biology
   - learning

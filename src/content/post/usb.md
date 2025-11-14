@@ -2,7 +2,7 @@
 title: USB
 description: ""
 created: 2019-01-29
-updated: 2025-07-10
+updated: 2025-10-10
 tags:
   - comp/hardware
 ---

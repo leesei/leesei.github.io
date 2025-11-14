@@ -2,7 +2,7 @@
 title: Leadership
 description: Being a software engineering, this post focus more on software engineering
 created: 2018-11-26
-updated: 2025-09-01
+updated: 2025-10-10
 tags:
   - business
   - programmer

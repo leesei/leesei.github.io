@@ -2,7 +2,7 @@
 title: WebRTC
 description: ""
 created: 2024-03-12
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - web
   - webrtc

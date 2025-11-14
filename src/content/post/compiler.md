@@ -2,7 +2,7 @@
 title: Compiler
 description: How source code is turned into machine code
 created: 2023-04-14
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - comp/hardware
   - comp/lang

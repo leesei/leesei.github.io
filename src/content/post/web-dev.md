@@ -2,7 +2,7 @@
 title: Web Development
 description: ""
 created: 2015-11-19
-updated: 2025-10-08
+updated: 2025-10-10
 tags:
   - css
   - javascript

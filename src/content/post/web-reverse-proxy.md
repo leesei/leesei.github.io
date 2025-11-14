@@ -2,7 +2,7 @@
 title: Reverse Proxy
 description: ""
 created: 2015-06-17
-updated: 2025-09-26
+updated: 2025-10-10
 tags:
   - dev/deploy
   - web

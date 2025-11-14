@@ -2,7 +2,7 @@
 title: Virtualization
 description: ""
 created: 2015-05-10
-updated: 2025-10-06
+updated: 2025-10-14
 tags:
   - linux
   - virtualbox
@@ -87,16 +87,21 @@ Xen only check handle three things: memory, CPU and interrupts
 
 [VMware on a Raspberry Pi!?!?! (ESXi Install) - YouTube](https://www.youtube.com/watch?v=6aLyZisehCU)
 
-## Proxmox
+## Proxmox Virtual Environment
 
 > Type 2 Hypervisor (actually Ubuntu LTS), plays well with consumer level hardware
 
-[Proxmox VE - Virtualization Management Platform](https://www.proxmox.com/en/proxmox-ve)
+PVE: Proxmox Virtual Environment
+[Proxmox Virtual Environment - Open-Source Server Virtualization Platform](https://www.proxmox.com/en/products/proxmox-virtual-environment/overview) PVE
 [Proxmox VE Documentation Index](https://pve.proxmox.com/pve-docs/)
 [Proxmox VE wiki](https://pve.proxmox.com/wiki/Main_Page)
 [Virtual Machines Pt. 2 (Proxmox install w/ Kali Linux) - YouTube](https://www.youtube.com/watch?v=_u8qTN3cCnQ)
 
-R[Proxmox Datacenter Manager: A new alternative to VMware vCenter? – 4sysops](https://4sysops.com/archives/proxmox-datacenter-manager-a-new-alternative-to-vmware-vcenter/)
+[Proxmox Mail Gateway - Email Security Solution](https://www.proxmox.com/en/products/proxmox-mail-gateway/overview) PMG
+[Proxmox Backup Server - Open-Source Enterprise Backup Solution](https://www.proxmox.com/en/products/proxmox-backup-server/overview) PBS
+
+[Proxmox Datacenter Manager: A new alternative to VMware vCenter? – 4sysops](https://4sysops.com/archives/proxmox-datacenter-manager-a-new-alternative-to-vmware-vcenter/)
+[This Free Tool Gives Proxmox the Monitoring Dashboard It Always Needed - Virtualization Howto](https://www.virtualizationhowto.com/2025/10/this-free-tool-gives-proxmox-the-monitoring-dashboard-it-always-needed/)
 
 [Hookscripts - Proxmox VE Administration Guide](https://pve.proxmox.com/pve-docs/pve-admin-guide.html#_hookscripts)
 [Unlock the power of Proxmox hookscripts for VM automation](https://www.xda-developers.com/proxmox-hookscripts-are-the-best-automation-feature/)
@@ -119,7 +124,8 @@ R[Proxmox Datacenter Manager: A new alternative to VMware vCenter? – 4sysops](
 
 [IMPORT a Virtual Machine Template (OVA, VMDK, RAW, ...) into Proxmox! - YouTube](https://www.youtube.com/watch?v=k6-miz1Tb80)
 
-[Proxmoxer Documentation](https://proxmoxer.github.io/docs/2.0/)
+[Proxmoxer Documentation](https://proxmoxer.github.io/docs/2.0/) Proxmoxer is a wrapper around the APIs for Proxmox products
+
 [joshpatten/PVE-VDIClient: Proxmox based VDI client](https://github.com/joshpatten/PVE-VDIClient) `proxmoxer` + `virt-viewer`
 [PROXMOX VDI Client - A Better Approach to Thin Clients for Proxmox - YouTube](https://www.youtube.com/watch?v=oLatrZBFQrw)
 

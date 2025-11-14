@@ -2,7 +2,7 @@
 title: Computer Graphics (Software)
 description: Computer Graphics on the software side, the how and whys, also on how games are rendered
 created: 2015-08-31
-updated: 2025-07-07
+updated: 2025-10-21
 tags:
   - games
   - graphics/software
@@ -117,3 +117,17 @@ To backup OSD settings:
 [OCAT - GPUOpen](https://gpuopen.com/ocat/)
 
 [CPU and GPU Bottleneck: A Detailed Guide to Bottlenecking in 2019](https://www.wepc.com/tips/cpu-gpu-bottleneck/)
+
+## API
+
+[The Chaotic State of GPU Programming - YouTube](https://www.youtube.com/watch?v=9-DiGrnz8l8&t=853s)
+[Why GPU Programming Is Chaotic - YouTube](https://www.youtube.com/watch?v=oaOxMdKlJTc)
+
+[DirectX - Wikiwand](https://www.wikiwand.com/en/articles/DirectX)
+[Metal (API) - Wikiwand](<https://www.wikiwand.com/en/articles/Metal_(API)>)
+
+[[khronos-group#Vulkan]]
+[[khronos-group#OpenGL]]
+[[web-3d#WebGPU]]
+
+[NVIDIA-RTX/NVRHI](https://github.com/NVIDIA-RTX/NVRHI) common abstraction layer over multiple graphics APIs (GAPIs): Direct3D 11, Direct3D 12, and Vulkan 1.2

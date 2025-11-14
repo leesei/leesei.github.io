@@ -2,7 +2,7 @@
 title: Internet History
 description: ""
 created: 2016-08-01
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - browser-war
   - history

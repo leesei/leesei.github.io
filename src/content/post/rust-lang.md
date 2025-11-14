@@ -2,7 +2,7 @@
 title: Rust
 description: Static typed, GC-free system language created by Mozilla.
 created: 2015-11-19
-updated: 2025-07-07
+updated: 2025-10-22
 tags:
   - comp/lang
   - package-manager
@@ -44,6 +44,7 @@ GitHub org:
 [Intel and Rust: the Future of Systems Programming: Josh Triplett - YouTube](https://www.youtube.com/watch?v=l9hM0h6IQDo)
 [why rust libraries may never exist. - YouTube](https://www.youtube.com/watch?v=769VqNup21Q) Rust don't have an ABI
 
+[RustBridge](https://github.com/rustbridge)
 [zkat/rust-notes: Personal notes while learning Rust. Mainly documenting pain points along the way.](https://github.com/zkat/rust-notes)
 [C vs. Rust: Which to choose for programming hardware abstractions | Opensource.com](https://opensource.com/article/20/1/c-vs-rust-abstractions)
 

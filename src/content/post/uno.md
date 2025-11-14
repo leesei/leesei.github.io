@@ -2,7 +2,7 @@
 title: Uno
 description: ""
 created: 2025-01-19
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - games
   - table-top-game

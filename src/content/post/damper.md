@@ -2,7 +2,7 @@
 title: Tuned Mass Damper
 description: ""
 created: 2018-07-05
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - damper
   - physics

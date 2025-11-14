@@ -2,7 +2,7 @@
 title: Linux Desktop
 description: ""
 created: 2014-12-12
-updated: 2025-09-26
+updated: 2025-10-10
 tags:
   - desktop
   - gjs

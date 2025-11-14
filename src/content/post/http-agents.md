@@ -2,7 +2,7 @@
 title: HTTP agents
 description: ""
 created: 2014-12-11
-updated: 2025-08-27
+updated: 2025-10-10
 tags:
   - curl
   - har

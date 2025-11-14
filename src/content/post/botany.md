@@ -2,7 +2,7 @@
 title: Botany
 description: Scientific study of the plant kingdom
 created: 2022-01-20
-updated: 2025-08-13
+updated: 2025-10-10
 tags:
   - biology
   - learning

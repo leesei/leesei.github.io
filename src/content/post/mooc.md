@@ -2,7 +2,7 @@
 title: MOOC
 description: ""
 created: 2015-05-08
-updated: 2025-09-23
+updated: 2025-10-31
 tags:
   - learning
   - mooc
@@ -184,6 +184,7 @@ seneca-in-practice
 [Confreaks - YouTube](https://www.youtube.com/@Confreaks) tech conferences
 [CrashCourse - YouTube](https://www.youtube.com/@crashcourse) animated explainers
 [Creative Construction Channel - YouTube](https://www.youtube.com/@creativeconstructionchannel) engineering, experiments
+[Deconstructed - YouTube](https://www.youtube.com/@Deconstructed_Animations) engineering, 3D rendering
 [Dom Burgess - YouTube](https://www.youtube.com/@DomBurgess) explainers
 [Domain of Science - YouTube](https://www.youtube.com/@domainofscience) sciency
 [Dr Ben Miles - YouTube](https://www.youtube.com/@DrBenMiles) sciency
@@ -212,6 +213,7 @@ seneca-in-practice
 [Objectivity - YouTube](https://www.youtube.com/@ObjectivityVideos) science artifacts
 [Periodic Videos - YouTube](https://www.youtube.com/@periodicvideos) chemistry
 [Physics Girl - YouTube](https://www.youtube.com/@physicsgirl) physics
+[Ponderra - YouTube](https://www.youtube.com/@Ponderra) explainers
 [Practical Engineering - YouTube](https://www.youtube.com/@PracticalEngineeringChannel) engineering, experiments
 [Primal Space - YouTube](https://www.youtube.com/@primalspace) sciency, space science
 [Primer - YouTube](https://www.youtube.com/@PrimerBlobs) evolution
@@ -232,6 +234,7 @@ seneca-in-practice
 [Steve Mould - YouTube](https://www.youtube.com/@SteveMould) sciency
 [T. Folse Nuclear - YouTube](https://www.youtube.com/@tfolsenuclear) explainers, nuclear engineer
 [The Efficient Engineer - YouTube](https://www.youtube.com/@TheEfficientEngineer/) engineering
+[The Infographics Show - YouTube](https://www.youtube.com/@TheInfographicsShow) explainers
 [The Engineering Mindset - YouTube](https://www.youtube.com/@EngineeringMindset) explainers, electronics and engineering
 [The RSA - YouTube](https://www.youtube.com/@rsaorg) The Royal Society for Arts, Manufactures and Commerce, animated explainers
 [The School of Life - YouTube](https://www.youtube.com/@theschooloflifetv) animated explainers

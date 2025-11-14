@@ -2,7 +2,7 @@
 title: Desktop Apps
 description: ""
 created: 2015-05-20
-updated: 2025-09-26
+updated: 2025-10-14
 tags:
   - app
   - desktop
@@ -260,6 +260,20 @@ nomino -pm map.json
 [feh – a fast and light image viewer](https://feh.finalrewind.org/) default is not sane
 
 [leopck/MangaMeeya: MangaMeeya Comic Viewer](https://github.com/leopck/MangaMeeya) Windows
+
+## Medical Image Viewer
+
+[3D Slicer image computing platform | 3D Slicer](https://www.slicer.org/)
+[Welcome to 3D Slicer’s documentation! — 3D Slicer documentation](https://slicer.readthedocs.io/en/latest/index.html)
+[DICOM — 3D Slicer documentation](https://slicer.readthedocs.io/en/latest/user_guide/modules/dicom.html)
+
+[RadiAnt DICOM Viewer](https://www.radiantviewer.com/)
+
+[Cornerstone.js | Cornerstone.js](https://www.cornerstonejs.org/)
+[cornerstonejs/cornerstone3D: Cornerstone is a set of JavaScript libraries that can be used to build web-based medical imaging applications. It provides a framework to build radiology applications such as the OHIF Viewer.](https://github.com/cornerstonejs/cornerstone3D)
+[cornerstonejs/dicomParser: JavaScript parser for DICOM Part 10 data](https://github.com/cornerstonejs/dicomParser)
+
+[dwv](https://ivmartel.github.io/dwv/)
 
 ## PDF
 

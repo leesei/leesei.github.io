@@ -2,7 +2,7 @@
 title: Shell notes
 description: ""
 created: 2014-12-08
-updated: 2025-08-01
+updated: 2025-10-10
 tags:
   - linux
   - shell

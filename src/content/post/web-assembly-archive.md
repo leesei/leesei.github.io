@@ -2,7 +2,7 @@
 title: Web Assembly (Archives)
 description: Archived Web Assembly notes
 created: 2023-03-28
-updated: 2025-09-13
+updated: 2025-10-10
 tags:
   - archived
   - wasm

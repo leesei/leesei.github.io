@@ -2,13 +2,15 @@
 title: 3D Graphics
 description: ""
 created: 2019-09-10
-updated: 2025-09-30
+updated: 2025-10-21
 tags:
   - app
   - graphics
   - vtk
 ---
 
+[[computer-graphics-hardware]]
+[[computer-graphics-software]]
 [[sketchup]]
 
 [What Is A Graphics Programmer? - YouTube](https://www.youtube.com/watch?v=O-2viBhLTqI)

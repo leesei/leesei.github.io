@@ -2,7 +2,7 @@
 title: World War II
 description: ""
 created: 2015-06-07
-updated: 2025-07-07
+updated: 2025-10-17
 tags:
   - history
   - world-war
@@ -298,6 +298,8 @@ The 400000 Allied Troops were stranded in Dunkirk and had to be saved by thousan
 [D-Day From the German Perspective | Animated History - YouTube](https://www.youtube.com/watch?v=EUTo1urxwPo)
 
 [The Logistics of D-Day | Nebula](https://nebula.tv/d-day) Real Engineering
+[The Floating Harbors of D-Day - YouTube](https://www.youtube.com/watch?v=zpFLLGkNm7I)
+[Why Was Normandy Selected For D-Day? - YouTube](https://www.youtube.com/watch?v=sYXYG_F1EK0)
 
 #### Operation Mincemeat
 

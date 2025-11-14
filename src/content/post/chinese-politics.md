@@ -2,7 +2,7 @@
 title: Chinese Politics
 description: ""
 created: 2023-03-27
-updated: 2025-08-06
+updated: 2025-10-10
 tags:
   - politics
 ---

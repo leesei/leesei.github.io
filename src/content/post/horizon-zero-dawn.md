@@ -2,7 +2,7 @@
 title: Horizon Zero Dawn
 description: ""
 created: 2023-06-13
-updated: 2025-01-09
+updated: 2025-11-04
 tags:
   - games
   - horizon-zero-dawn
@@ -20,6 +20,7 @@ tags:
 
 [Horizon Zero Dawn on PC: The controls and frame rate sing - Polygon](https://www.polygon.com/platform/amp/2020/8/5/21355602/horizon-zero-dawn-pc-controls-graphics-hunting)
 [Horizon Zero Dawn PC benchmarks: what kind of performance you can expect | Rock Paper Shotgun](https://www.rockpapershotgun.com/horizon-zero-dawn-pc-benchmarks-performance)
+[Horizon Zero Dawn Remastered tech analysis says it's almost more remake than remaster, rivaling the fantastic Shadow of the Colossus and Demon's Souls remakes | GamesRadar+](https://www.gamesradar.com/games/horizon/horizon-zero-dawn-remastered-tech-analysis-says-its-almost-more-remake-than-remaster-rivaling-the-fantastic-shadow-of-the-colossus-and-demons-souls-remakes/)
 
 [Horizon Zero Dawn Review | The Completionist - YouTube](https://www.youtube.com/watch?v=YnsNWqctDe4)
 [黑桐谷歌【地平线 零之曙光】 - YouTube](https://www.youtube.com/playlist?list=PL7PA3hyhaHFLdNdK9AIreo07NoONbpvnJ) play with

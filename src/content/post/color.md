@@ -2,7 +2,7 @@
 title: Color
 description: ""
 created: 2014-12-17
-updated: 2025-07-30
+updated: 2025-11-14
 tags:
   - color-palette
   - colorspace
@@ -161,6 +161,7 @@ HTML will turn any string into color
 [YCbCr - Wikiwand](https://www.wikiwand.com/en/ycbcr)
 [The HSB Color System: A Practitioner's Primer – Learn UI Design](https://learnui.design/blog/the-hsb-color-system-practicioners-primer.html)
 
+[【硬核】色品图是怎么来的？How did the Chromaticity Diagram come about? - YouTube](https://www.youtube.com/watch?v=MYV0_QQRsFU) ❗!important
 [色域转换都发生了什么？SRGB 出图需要用广色域链路吗？究竟是否需要买广色域显示器？风光和人像打印可以用一样的设置吗？什么是黑场补偿，相对比色，可感知渲染意图？ - YouTube](https://www.youtube.com/watch?v=2EKtQeXvAD8)
 相對比色 only map colors out of the target colorspace, keeping colors in intersection intact
 可感知 scale all colors to target colorspace to keep gradients in the original colorspace
@@ -226,13 +227,13 @@ B' =  Y' - 1.8556*Cb + 0.0000*Cr
 ### yCbCr<-->rgb (ITU.BT-565?)
 
 ```
-Y’  = 0.257*R' + 0.504*G' + 0.098*B' + 16
+Y'  = 0.257*R' + 0.504*G' + 0.098*B' + 16
 Cb' = -0.148*R' - 0.291*G' + 0.439*B' + 128
 Cr' = 0.439*R' - 0.368*G' - 0.071*B' + 128
 
-R' = 1.164*(Y’-16) + 1.596*(Cr'-128)
-G' = 1.164*(Y’-16) - 0.813*(Cr'-128) - 0.392*(Cb'-128)
-B' = 1.164*(Y’-16) + 2.017*(Cb'-128)
+R' = 1.164*(Y'-16) + 1.596*(Cr'-128)
+G' = 1.164*(Y'-16) - 0.813*(Cr'-128) - 0.392*(Cb'-128)
+B' = 1.164*(Y'-16) + 2.017*(Cb'-128)
 ```
 
 ### Packaging and colorspace

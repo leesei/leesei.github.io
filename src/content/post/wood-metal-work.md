@@ -2,7 +2,7 @@
 title: Wood and Metal Work
 description: ""
 created: 2018-08-31
-updated: 2025-08-10
+updated: 2025-10-10
 tags:
   - maker
 ---

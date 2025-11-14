@@ -2,7 +2,7 @@
 title: Public Domain Books
 description: ""
 created: 2015-04-18
-updated: 2025-08-06
+updated: 2025-10-14
 tags:
   - ebook
   - learning

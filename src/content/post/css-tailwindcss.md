@@ -2,7 +2,7 @@
 title: Tailwind CSS
 description: Rapidly build modern websites without ever leaving your HTML
 created: 2023-09-01
-updated: 2025-10-09
+updated: 2025-11-14
 tags:
   - css
   - tailwind
@@ -64,17 +64,28 @@ Uses Lightning CSS (Rust compiler and bundler)
 
 ## Ecosystem
 
-[vimeshjs/vimesh-style: Vimesh Style is a full-featured tiny javascript library alternative to Tailwind CSS. Automatically work with any frontend frameworks, including React, Vue, AngularJS ect.](https://github.com/vimeshjs/vimesh-style)
+[Twind.style](https://twind.style/) runtime compiler
+[tw-in-js/twind: The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.](https://github.com/tw-in-js/twind)
+
+[vimeshjs/vimesh-style: Vimesh Style is a full-featured tiny javascript library alternative to Tailwind CSS. Automatically work with any frontend frameworks, including React, Vue, AngularJS ect.](https://github.com/vimeshjs/vimesh-style) zero build CSS classes
+
+[The story behind Tailwind's CN function](https://tigerabrodi.blog/the-story-behind-tailwinds-cn-function)
+[SGLara/cn: A utility function that combines the power of `clsx` and `tailwind-merge` for seamless management of Tailwind CSS class names.](https://github.com/SGLara/cn)
+[cn() - Every Tailwind Coder Needs It (clsx + twMerge) - YouTube](https://www.youtube.com/watch?v=re2JFITR7TI)
+
+```js
+import { clsx, type ClassValue } from "clsx";
+import { twMerge } from "tailwind-merge";
+
+export function cn(...inputs: ClassValue[]) {
+  return twMerge(clsx(inputs));
+}
+```
 
 [dcastil/tailwind-merge: Merge Tailwind CSS classes without style conflicts](https://github.com/dcastil/tailwind-merge)
 [Tailwind-Merge Is Incredibly Useful — And Here's Why! - YouTube](https://www.youtube.com/watch?v=tfgLd5ZSNPc)
-[cn() - Every Tailwind Coder Needs It (clsx + twMerge) - YouTube](https://www.youtube.com/watch?v=re2JFITR7TI)
 
 [Typewind – Typesafe Tailwind](https://typewind.dev/)
-
-[Twind.style](https://twind.style/) no longer needed
-[Home | Twind](https://twind.dev/) runtime compiler
-[tw-in-js/twind: The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.](https://github.com/tw-in-js/twind)
 
 ## Component Libraries
 

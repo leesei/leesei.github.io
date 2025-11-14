@@ -2,7 +2,7 @@
 title: Bun
 description: Fast *all-in-one* JavaScript runtime
 created: 2023-03-14
-updated: 2025-01-09
+updated: 2025-10-27
 tags:
   - javascript/runtime
   - package-manager
@@ -58,8 +58,19 @@ bun add <package>
 ## Bundler
 
 [The Bun Bundler | Bun Blog](https://bun.sh/blog/bun-bundler)
+[Bundler - Bun](https://bun.com/docs/bundler)
 
-Can this be used to build frontend app?
+### Single-file executable
+
+[Single-file executable - Bun](https://bun.com/docs/bundler/executables)
+
+```sh
+bun build --compile --minify --sourcemap ./path/to/my/app.ts --outfile myapp
+#  improve startup time
+bun build --compile --minify --sourcemap --bytecode ./path/to/my/app.ts --outfile myapp
+```
+
+[Single-file executable - Bun](https://bun.com/docs/bundler/executables#full-stack-executables) web server plus assets
 
 ## Package Manager
 

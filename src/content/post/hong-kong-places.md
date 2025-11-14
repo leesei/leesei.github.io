@@ -2,7 +2,7 @@
 title: Hong Kong Places
 description: ""
 created: 2015-05-25
-updated: 2025-07-07
+updated: 2025-10-22
 tags:
   - trivia
 ---
@@ -43,6 +43,11 @@ tags:
 [香港主權移交 20 週年：為什麼 BBC 中文網不說「回歸」？ - BBC News 中文](https://www.bbc.com/zhongwen/trad/chinese-news-40441492)
 [Why Hong Kong’s new textbooks for secondary schools have stopped calling the city a British colony | South China Morning Post](https://www.scmp.com/news/hong-kong/education/article/3182972/why-hong-kongs-new-textbooks-secondary-schools-have)
 [新版香港教科書稱香港不曾是「殖民地」](https://yahoo-news.com.hk/BBCChineseNews/30518/?yptr=yahoo)
+
+### 九龍寨城
+
+[九龍寨城 - Wikiwand](https://www.wikiwand.com/zh-hk/articles/%E4%B9%9D%E9%BE%8D%E5%AF%A8%E5%9F%8E)
+[黑暗之城︰三不管的九龍城寨-攝影札記 Photoblog - 新奇好玩的攝影資訊、攝影技巧教學](https://photoblog.hk/24552/%e9%bb%91%e6%9a%97%e4%b9%8b%e5%9f%8e%ef%b8%b0%e4%b8%89%e4%b8%8d%e7%ae%a1%e7%9a%84%e4%b9%9d%e9%be%8d%e5%9f%8e%e5%af%a8/)
 
 ## 行
 

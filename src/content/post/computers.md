@@ -2,7 +2,7 @@
 title: Computers
 description: ""
 created: 2016-10-18
-updated: 2025-09-02
+updated: 2025-10-10
 tags:
   - comp/hardware
 ---

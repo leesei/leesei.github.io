@@ -2,7 +2,7 @@
 title: Plamo
 description: ""
 created: 2017-04-25
-updated: 2025-09-23
+updated: 2025-10-10
 tags:
   - toys
 ---

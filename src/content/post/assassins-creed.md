@@ -2,7 +2,7 @@
 title: Assassin's Creed
 description: ""
 created: 2018-01-03
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - assassins-creed
   - games

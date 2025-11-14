@@ -2,7 +2,7 @@
 title: Learn to code
 description: Learn how to code
 created: 2014-12-08
-updated: 2025-09-26
+updated: 2025-10-10
 tags:
   - comp/lang
   - learning

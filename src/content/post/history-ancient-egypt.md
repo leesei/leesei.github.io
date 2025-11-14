@@ -2,7 +2,7 @@
 title: Ancient Egypt History
 description: ""
 created: 2015-10-09
-updated: 2025-09-24
+updated: 2025-10-10
 tags:
   - history
   - history/egypt

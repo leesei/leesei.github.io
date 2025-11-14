@@ -2,7 +2,7 @@
 title: Artificial Intelligence
 description: ""
 created: 2015-04-14
-updated: 2025-09-24
+updated: 2025-10-30
 tags:
   - ai
   - artificial-intelligence
@@ -185,7 +185,6 @@ are ANI (N for narrow), the supposed "AI" is AGI (G for general)
 [7 Must-See TED Talks On AI And Machine Learning](https://www.forbes.com/sites/nicolemartin1/2019/08/26/7-must-see-ted-talks-on-ai-and-machine-learning/amp/)
 
 [Alex Wissner-Gross: A new equation for intelligence - YouTube](https://www.youtube.com/watch?v=ue2ZEmTJ_Xo) intelligence is a physical system that find ways to maximize future possibility
-[Jeff Hawkins: How brain science will change computing - YouTube](https://www.youtube.com/watch?v=G6CVj5IQkzk) intelligence should be defined by the ability to make prediction, not the traditional Turing Test
 
 [How to Make an Auto Rotoscoping Tool With Python - Lesterbanks](https://lesterbanks.com/2019/09/how-to-make-an-auto-rotoscoping-tool-with-python/) creating mask for video effects
 
@@ -272,6 +271,8 @@ are ANI (N for narrow), the supposed "AI" is AGI (G for general)
 [François Chollet: Measures of Intelligence | Lex Fridman Podcast #120 - YouTube](https://www.youtube.com/watch?v=PUAdj3w3wO4)
 [How to measure human intelligence | Richard Haier and Lex Fridman - YouTube](https://www.youtube.com/watch?v=EIYYYhXA8sg)
 
+[Jeff Hawkins: How brain science will change computing - YouTube](https://www.youtube.com/watch?v=G6CVj5IQkzk) intelligence should be defined by the ability to make prediction, not the traditional Turing Test
+
 ## Singularity
 
 [Technological singularity - Wikiwand](https://www.wikiwand.com/en/Technological_singularity)
@@ -324,6 +325,7 @@ Harmonic mean of precision and recall
 
 [How to evaluate the performance of a machine learning model](https://medium.com/datadriveninvestor/how-to-evaluate-the-performance-of-a-machine-learning-model-45063a7a38a7)
 [Understand Classification Performance Metrics - Becoming Human: Artificial Intelligence Magazine](https://becominghuman.ai/understand-classification-performance-metrics-cad56f2da3aa)
+[What Is Cross-Validation? A Plain English Guide with Diagrams - KDnuggets](https://www.kdnuggets.com/what-is-cross-validation-a-plain-english-guide-with-diagrams) evaluate the performance of a model using multiple subsets of data
 
 ## Version Control
 
@@ -524,6 +526,9 @@ Google’s sophisticated WaveNet audio processing neural network, and because it
 [Beautiful React Hooks docs](https://antonioru.github.io/beautiful-react-hooks/#/useSpeechSynthesis)
 [mozilla/TTS: :robot: Deep learning for Text to Speech (Discussion forum: https://discourse.mozilla.org/c/tts)](https://github.com/mozilla/TTS)
 
+[jasonppy/VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild](https://github.com/jasonppy/VoiceCraft)
+[[2403.16973] VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild](https://arxiv.org/abs/2403.16973)
+
 [Adding .NET Text-to-Speech Functionality to PowerShell](https://www.itprotoday.com/powershell/how-to-make-powershell-speak-text-to-speech-net-tutorial-)
 [SpeechSynthesizer Class (System.Speech.Synthesis) | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/api/system.speech.synthesis.speechsynthesizer?view=net-8.0)
 
@@ -603,7 +608,7 @@ Counterfactual World Modeling
 
 [EraseNet: End-to-End Text Removal in the Wild | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/9180003)
 
-[试卷擦除 - 在线擦除试卷手写痕迹 - 拍试卷](https://www.paishijuan.com/shijuancachu/) PC client has "lifetime" subscription which is quite cheap
+[试卷擦除 - 在线擦除试卷手写痕迹 - 拍试卷](https://www.paishijuan.com/shijuancachu/) PC client has "lifetime" subscription which is quite cheap; the app also has txt to speech
 [去手写-帮小忙，腾讯QQ浏览器在线工具箱](https://tool.browser.qq.com/handwriting_erasure.html)
 
 [产品文档-智慧学习服务](https://ai.youdao.com/DOCSIRMA/html/learn/price/sjsxtcc/index.html)

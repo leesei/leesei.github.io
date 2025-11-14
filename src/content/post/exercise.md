@@ -2,7 +2,7 @@
 title: Exercise
 description: ""
 created: 2019-04-17
-updated: 2025-01-09
+updated: 2025-11-04
 tags:
   - health
   - hiit
@@ -172,10 +172,10 @@ Isometric: contraction and hold
 [想要燃脂 那你要練的肌肉是... - 減重運動 - Joiiup](https://www.joiiup.com/knowledge/content/151)
 [~粉紅肌訓練法~ @ ~朦朧琉璃月，用愛來供養~ :: 隨意窩 Xuite 日誌](https://m.xuite.net/blog/d0939424024/wretch/126338380)
 [The surprising reason our muscles get tired - Christian Moro - YouTube](https://www.youtube.com/watch?v=rLsimrBoYXc)
+[Every Calisthenics Exercise You Need To Build an Anime Physique (Starting from ZERO) - YouTube](https://www.youtube.com/watch?v=7RO-Fr6cXJs)
 
 [不只練肌肉，還要動筋膜（懶人包） - 照護線上](https://www.careonline.com.tw/2020/10/fascia.html) Eccentric training
 [8 Great Tips to Improve Strength, Speed and Power | STACK](https://www.stack.com/a/8-great-tips-to-improve-strength-speed-and-power)
-
 [Muscle Soreness and Muscle Growth (“BROSCIENCE” REVEALED!) - YouTube](https://www.youtube.com/watch?v=L0BIRPLzohs)
 
 [What Is Your Core? | Abs Workout - YouTube](https://www.youtube.com/watch?v=ZJQ-AV3HRBo&list=PLLALQuK1NDrh-WzJhsFQ_j9o-cUdspF3E)

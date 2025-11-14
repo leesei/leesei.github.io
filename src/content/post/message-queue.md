@@ -2,7 +2,7 @@
 title: Message Queue
 description: ""
 created: 2015-08-03
-updated: 2025-09-23
+updated: 2025-10-10
 tags:
   - comp/database
 ---

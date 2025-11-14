@@ -2,7 +2,7 @@
 title: Computer Memory
 description: ""
 created: 2016-04-26
-updated: 2025-09-26
+updated: 2025-10-10
 tags:
   - comp/hardware
   - ddr

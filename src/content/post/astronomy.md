@@ -2,7 +2,7 @@
 title: Astronomy
 description: ""
 created: 2019-07-16
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - astro-physics
   - astronomy

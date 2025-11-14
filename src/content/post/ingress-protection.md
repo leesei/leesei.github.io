@@ -2,7 +2,7 @@
 title: Ingress Protection
 description: ""
 created: 2016-01-18
-updated: 2025-08-18
+updated: 2025-10-10
 tags:
   - ingress-protection
   - ip-rating

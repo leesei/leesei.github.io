@@ -2,7 +2,7 @@
 title: CSS Notes
 description: ""
 created: 2015-12-21
-updated: 2025-08-17
+updated: 2025-10-10
 tags:
   - css
   - web

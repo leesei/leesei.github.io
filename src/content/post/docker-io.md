@@ -2,7 +2,7 @@
 title: Docker.io
 description: Tools provided by Docker.io
 created: 2014-12-11
-updated: 2025-07-07
+updated: 2025-10-20
 tags:
   - container
   - dev/deploy
@@ -38,17 +38,18 @@ For multi-hosts deployment on _Swarm mode_ use `docker stack` on Docker 1.13+.
 [Best Practices Around Production Ready Web Apps with Docker Compose — Nick Janetakis](https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose)
 [Docker Tip #94: Docker Compose v2 and Profiles Are the Best Thing Ever — Nick Janetakis](https://nickjanetakis.com/blog/docker-tip-94-docker-compose-v2-and-profiles-are-the-best-thing-ever)
 
+[Docker Compose Specification](https://compose-spec.io/)
+[compose-spec/compose-spec: The Compose specification](https://github.com/compose-spec/compose-spec)
+
 [docker/compose-switch](https://github.com/docker/compose-switch)
 
-Compose file can be [stacked](https://docs.docker.com/compose/extends/) for environment specific settings.
+Compose file can be [stacked](https://docs.docker.com/compose/how-tos/multiple-compose-files/extends/) for environment specific settings.
 
-Docker [acquired Orchard](https://blog.docker.com/2014/07/welcoming-the-orchard-and-fig-team/) and used its [Fig](http://www.fig.sh/index.html) as the basis of Docker Compose (released early-2015). See also [decking.io](http://decking.io/).
+Docker [acquired Orchard](https://web.archive.org/web/20140726080839/https://blog.docker.com/2014/07/welcoming-the-orchard-and-fig-team/) and used its [Fig](https://web.archive.org/web/20220407201504/https://fig.sh/) as the basis of Docker Compose (released early-2015).
 
 [Overview of Docker Compose | Docker Documentation](https://docs.docker.com/compose/)
-[Docker Compose Files Version 2 - YouTube](https://www.youtube.com/watch?v=EReEOMS7gsk)
-[Compose file | Docker Documentation](https://docs.docker.com/compose/compose-file/)
-[Compose file version 2 reference | Docker Documentation](https://docs.docker.com/compose/compose-file/compose-file-v2/)
-[Compose file version 3 reference | Docker Documentation](https://docs.docker.com/compose/compose-file/compose-file-v3/)
+[Docker Compose Files Version 2 - YouTube](https://www.youtube.com/watch?v=EReEOMS7gsk) Compose 1.27 merged v2 and v3
+[Compose file reference | Docker Docs](https://docs.docker.com/reference/compose-file/)
 [Controlling startup order in Compose | Docker Documentation](https://docs.docker.com/compose/startup-order/) ❗!important, wait for service
 [Scaling Docker Compose Up | Docker](https://www.docker.com/blog/scaling-docker-compose-up/)
 [The definitive Guide to Docker compose](https://gabrieltanner.org/blog/docker-compose)
@@ -60,8 +61,7 @@ Docker [acquired Orchard](https://blog.docker.com/2014/07/welcoming-the-orchard-
 [The right way to Docker Compose 🐳 🐙 - YouTube](https://www.youtube.com/watch?v=hyJ2oPyaHkY)
 
 Compose Version 3 added `deploy` key, which is ignored in `docker-compose up` for single node deployment. In swarm mode, `docker stack` (supported in 1.13+) will read the settings in `deploy` key and apply them with `docker service` calls internally.
-[docker.github.io/compose-file.md at 8524552f99e5b58452fcb1403e1c273385988b71 · aanand/docker.github.io](https://github.com/aanand/docker.github.io/blob/8524552f99e5b58452fcb1403e1c273385988b71/compose/compose-file.md)
-[docker service create | Docker Documentation](https://docs.docker.com/engine/reference/commandline/service_create/#create-services-using-templates) Template variables for swarm services
+[docker service create | Docker Docs](https://docs.docker.com/reference/cli/docker/service/create/#create-services-using-templates) Template variables for swarm services
 
 [docker/awesome-compose: Awesome Docker Compose samples](https://github.com/docker/awesome-compose)
 
@@ -73,12 +73,12 @@ Compose Version 3 added `deploy` key, which is ignored in `docker-compose up` fo
 [How we happily dockerized our development environment (part 1/2) | Hacker Noon](https://hackernoon.com/how-we-happily-dockerized-our-development-environment-part-1-2-b05fd6927a53)
 [Dockerized development environment on steroids (part 2/2) | Hacker Noon](https://hackernoon.com/dockerized-development-environment-on-steroids-part-2-2-b800a65d0462)
 
-[From Docker to Docker compose way! - DEV Community](https://dev.to/this-is-learning/from-docker-to-docker-compose-way-56h)
-[Introduction to Docker Compose Tool for Multi-Container Applications | Linux.com | The source for Linux information](https://www.linux.com/learn/introduction-docker-compose-tool-multi-container-applications)
-[Docker Volumes and Networks with Compose | Linux.com | The source for Linux information](https://www.linux.com/learn/docker-volumes-and-networks-compose)
-[Docker tutorial: Get started with Docker Compose | InfoWorld](https://www.infoworld.com/article/3254689/devops/docker-tutorial-get-started-with-docker-compose.html)
-[How to Run Multiple Containers with Docker Compose](https://www.freecodecamp.org/news/run-multiple-containers-with-docker-compose/)
-[You’re using docker-compose wrong - Earthly Blog](https://earthly.dev/blog/youre-using-docker-compose-wrong/)
+[Introduction to Docker Compose Tool for Multi-Container Applications | Linux.com | The source for Linux information](https://www.linux.com/learn/introduction-docker-compose-tool-multi-container-applications) 2016-03
+[Docker Volumes and Networks with Compose | Linux.com | The source for Linux information](https://www.linux.com/learn/docker-volumes-and-networks-compose) 2016-04
+[Docker tutorial: Get started with Docker Compose | InfoWorld](https://www.infoworld.com/article/2263594/docker-tutorial-get-started-with-docker-compose.html) 2018-02
+[From Docker to Docker compose way! - DEV Community](https://dev.to/this-is-learning/from-docker-to-docker-compose-way-56h) 2021-11
+[How to Run Multiple Containers with Docker Compose](https://www.freecodecamp.org/news/run-multiple-containers-with-docker-compose/) 2022-04
+[You’re using docker-compose wrong - Earthly Blog](https://earthly.dev/blog/youre-using-docker-compose-wrong/) 2023-07
 
 [Dockerizing Flask with Compose and Machine - from localhost to the cloud - Real Python](https://realpython.com/blog/python/dockerizing-flask-with-compose-and-machine-from-localhost-to-the-cloud/) [realpython/orchestrating-docker](https://github.com/realpython/orchestrating-docker)
 

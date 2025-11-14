@@ -2,7 +2,7 @@
 title: 3D Drawing on the Web
 description: ""
 created: 2016-04-08
-updated: 2025-09-23
+updated: 2025-10-21
 tags:
   - web
   - web-gl
@@ -56,14 +56,29 @@ Replacement of WebGL and Three.js
 [Introducing WebGPU: Unlocking modern GPU access for JavaScript - YouTube](https://www.youtube.com/watch?v=m6T-Mq1BPXg)
 [WebGPU: Unlocking modern GPU access in the browser - Chrome Developers](https://developer.chrome.com/blog/webgpu-io2023/)
 [Chrome ships WebGPU - Chrome Developers](https://developer.chrome.com/blog/webgpu-release/)
-[From WebGL to WebGPU  |  Blog  |  Chrome for Developers](https://developer.chrome.com/blog/from-webgl-to-webgpu/)
+
+[Overview of WebGPU  |  Chrome for Developers](https://developer.chrome.com/docs/web-platform/webgpu/overview)
+[From WebGL to WebGPU  |  Chrome for Developers](https://developer.chrome.com/docs/web-platform/webgpu/from-webgl-to-webgpu)
+[Learn WebGPU for C++ documentation](https://eliemichel.github.io/LearnWebGPU/)
+
+[What is WebGPU? - YouTube](https://www.youtube.com/watch?v=oIur9NATg-I)
 
 Visionary 3D
 [WebGPU :: Rendering the future in Real-Time - YouTube](https://www.youtube.com/watch?v=YinfynTz77s)
 [WebGPU :: Javascript at the speed of Light - YouTube](https://www.youtube.com/watch?v=oAwlk0j5RUM)
 
 [WebGPU Tutorial - Advanced Graphics on the Web Course - YouTube](https://www.youtube.com/watch?v=KTFFdZSDiTU) freeCodeCamp, 2:06:29
-[What is WebGPU? - YouTube](https://www.youtube.com/watch?v=oIur9NATg-I)
+
+### Native Runtime
+
+[Why I switched from WebGPU to NVRHI - YouTube](https://www.youtube.com/watch?v=Vauai1MJogU)
+
+[dawn - Git at Google](https://dawn.googlesource.com/dawn) used by Chrome
+
+[wgpu: portable graphics library for Rust](https://wgpu.rs/)
+[gfx-rs/wgpu-native: Native WebGPU implementation based on wgpu-core](https://github.com/gfx-rs/wgpu-native) used by Firefox
+
+[samdauwe/webgpu-native-examples: Collection of C-language examples that demonstrate basic rendering and computation in WebGPU native.](https://github.com/samdauwe/webgpu-native-examples)
 
 ## Three.js
 

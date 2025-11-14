@@ -2,7 +2,7 @@
 title: Anime
 description: ""
 created: 2016-05-30
-updated: 2025-09-14
+updated: 2025-10-10
 tags:
   - anime
 ---

@@ -2,7 +2,7 @@
 title: ffmpeg
 description: A complete, cross-platform solution to record, convert and stream audio and video.
 created: 2015-01-13
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - app
   - avconv

@@ -2,7 +2,7 @@
 title: Dark Web
 description: ""
 created: 2023-03-06
-updated: 2025-07-14
+updated: 2025-10-27
 tags:
   - security
   - web
@@ -10,6 +10,8 @@ tags:
 
 [The "dark web" is being used to post Medibank data. What is it?](https://thenewdaily.com.au/finance/finance-news/2022/11/17/medibank-dark-web/)
 [dark.fail: Which Tor sites are online?](https://dark.fail/)
+
+[Ahmia — Search Tor Hidden Services](https://ahmia.fi/)
 
 [The Hacker’s Choice | Founded in 1995](https://www.thc.org/segfault/) Disposable Root Servers
 

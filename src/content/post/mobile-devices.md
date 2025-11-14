@@ -2,7 +2,7 @@
 title: Mobile Devices
 description: ""
 created: 2022-02-09
-updated: 2025-08-07
+updated: 2025-10-10
 tags:
   - comp/hardware
   - mobile

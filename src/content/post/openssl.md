@@ -2,7 +2,7 @@
 title: OpenSSL
 description: ""
 created: 2015-09-29
-updated: 2025-07-15
+updated: 2025-10-10
 tags:
   - app
   - openssl

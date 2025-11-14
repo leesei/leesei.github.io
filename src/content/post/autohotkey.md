@@ -2,7 +2,7 @@
 title: AutoHotKey
 description: The ultimate automation scripting language for Windows.
 created: 2023-02-16
-updated: 2025-07-08
+updated: 2025-10-27
 tags:
   - app
   - automation
@@ -23,6 +23,8 @@ Use `#Requires AutoHotkey v2.0` to opt-in to v2.
 [evilC (Clive Galway)](https://github.com/evilC)
 
 ## Koan
+
+[I use this keyboard macro app to save 30 minutes every day](https://www.makeuseof.com/use-autohotkey-to-save-time-on-windows/)
 
 ### Startup
 

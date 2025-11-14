@@ -2,7 +2,7 @@
 title: PowerShell
 description: ""
 created: 2023-05-19
-updated: 2025-09-04
+updated: 2025-10-10
 tags:
   - comp/lang
   - powershell

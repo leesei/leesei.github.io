@@ -2,7 +2,7 @@
 title: Biblical History
 description: ""
 created: 2016-08-10
-updated: 2025-07-08
+updated: 2025-10-10
 tags:
   - catholic-church
   - dark-ages

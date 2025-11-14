@@ -2,7 +2,7 @@
 title: Robotics
 description: ""
 created: 2015-10-19
-updated: 2025-08-10
+updated: 2025-10-10
 tags:
   - maker
 ---

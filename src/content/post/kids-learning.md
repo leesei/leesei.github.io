@@ -2,7 +2,7 @@
 title: Kids Learning
 description: ""
 created: 2016-08-17
-updated: 2025-07-07
+updated: 2025-10-20
 tags:
   - learning
 ---
@@ -39,6 +39,7 @@ tags:
 [Where the Wonders of Learning Never Cease | Wonderopolis](https://www.wonderopolis.org/)
 [Home - Simple Living. Creative Learning](https://simplelivingcreativelearning.com/)
 [Free Math worksheets, Free phonics worksheets, Math Games and Online activities and Quizzes](https://www.softschools.com/)
+[Free Printable Worksheets for Kids - kiddoworksheets](https://www.kiddoworksheets.com/)
 
 [Learn Better 學好一點 - Home](https://www.facebook.com/learnbettereducation/)
 [Learn Better 學好一點 – Children can learn better with the support of parents. 在父母的支持和陪伴下，孩子可以學得更好。](https://learnbettereducation.com/)

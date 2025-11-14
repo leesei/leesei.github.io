@@ -2,7 +2,7 @@
 title: Node.js settings
 description: ""
 created: 2014-12-11
-updated: 2025-08-12
+updated: 2025-10-20
 tags:
   - comp/lang
   - nodejs
@@ -508,6 +508,14 @@ Requirements:
 
 ### globbing
 
+[micromatch/micromatch: Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, ract-native, taro, bulma, browser-sync, stylelint, nyc, ava, and many others!](https://github.com/micromatch/micromatch)
+[micromatch/picomatch: Blazing fast and accurate glob matcher written JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular expressions. Used by GraphQL, Jest, Astro, Snowpack, Storybook, bulma, Serverless, fdir, Netlify, AWS Amplify, Revogrid, rollup, routify, open-wc, imba, ava, docusaurus, fast-glob, globby, chokidar, anymatch, cloudflare/miniflare, pts, and more than 5 million projects!](https://github.com/micromatch/picomatch)
+[micromatch/braces: Faster brace expansion for node.js. Besides being faster, braces is not subject to DoS attacks like minimatch, is more accurate, and has more complete support for Bash 4.3.](https://github.com/micromatch/braces)
+
+[isaacs/minimatch: a glob matcher in javascript](https://github.com/isaacs/minimatch)
+[sindresorhus/multimatch: Extends minimatch.match() with support for multiple patterns](https://github.com/sindresorhus/multimatch) 😴inactive
+[sindresorhus/globby: User-friendly glob matching](https://github.com/sindresorhus/globby)
+
 [isaacs/node-glob: glob functionality for node.js](https://github.com/isaacs/node-glob)
 [Understanding the glob pattern in Node.js - LogRocket Blog](https://blog.logrocket.com/understanding-using-globs-node-js/)
 
@@ -515,12 +523,6 @@ Requirements:
 
 [JS-DevTools/readdir-enhanced: fs.readdir() with filter, recursion, absolute paths, promises, streams, and more!](https://github.com/JS-DevTools/readdir-enhanced)
 [JS-DevTools/file-path-filter: Filters file paths using globs, regular expressions, or custom criteria](https://github.com/JS-DevTools/file-path-filter)
-
-[micromatch/micromatch: Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, taro, bulma, browser-sync, documentation.js, stylelint, nyc, ava, and many others! Please follow micromatch's author: https://github.com/jonschlinkert](https://github.com/micromatch/micromatch)
-[isaacs/minimatch: a glob matcher in javascript](https://github.com/isaacs/minimatch)
-
-[sindresorhus/multimatch: Extends minimatch.match() with support for multiple patterns](https://github.com/sindresorhus/multimatch) 😴inactive
-[sindresorhus/globby: User-friendly glob matching](https://github.com/sindresorhus/globby)
 
 ### file system watcher
 

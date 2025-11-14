@@ -2,7 +2,7 @@
 title: Environmental Science
 description: On climate change and the mitigation, environment protection
 created: 2023-06-28
-updated: 2025-08-06
+updated: 2025-10-10
 tags:
   - climate
   - environment

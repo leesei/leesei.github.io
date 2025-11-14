@@ -2,7 +2,7 @@
 title: Aviation
 description: ""
 created: 2023-02-21
-updated: 2025-10-05
+updated: 2025-11-04
 tags:
   - transportation
 ---
@@ -49,6 +49,14 @@ X: Experiment
 
 [The Design of Airline Route Networks - YouTube](https://www.youtube.com/watch?v=sY7cQNx4Hg4)
 
+CGP Grey
+[The Airplane Boarding Method That's Too Perfect To Use - YouTube](https://www.youtube.com/watch?v=oAHbLRjF0vo)
+[✈️ The Maddening Mess of Airport Codes! ✈️ - YouTube](https://www.youtube.com/watch?v=jfOUVYQnuhw)
+[Runway Numbers: The Earth Made Two Systems - YouTube](https://www.youtube.com/watch?v=HSRmfNDk87s)
+
+[The Airplane Special | MythBusters | Season 5 Episode 25 | Full Episode - YouTube](https://www.youtube.com/watch?v=eBwdiXz0eEs)
+[Solving Plane Myths! | MythBusters | Season 8 Episode 30 | Full Episode - YouTube](https://www.youtube.com/watch?v=upd4kVFvbyc)
+
 ### 瘋狂機長 詹姆士
 
 [型男機長瘋狂詹姆士 - YouTube](https://www.youtube.com/@crazyjames787/)
@@ -89,8 +97,8 @@ suitable for sub-sonic and super-sonic flight
 [Five Iconic World War II Aircraft - YouTube](https://www.youtube.com/watch?v=hXGef2aeRwc)
 
 Real Engineering
-[The Insane Engineering of the Spitfire - YouTube](https://www.youtube.com/watch?v=_m6SEKNgxno)
 [The Insane Engineering of the P-47 Thunderbolt - YouTube](https://www.youtube.com/watch?v=IwqTN5fhMR8)
+[The Insane Engineering of the Spitfire - YouTube](https://www.youtube.com/watch?v=_m6SEKNgxno)
 [The Rise and Fall of the Japanese Zero - YouTube](https://www.youtube.com/watch?v=X0Mu4jJ0S0s)
 [The Unique Engineering of the P-38 Lightning - YouTube](https://www.youtube.com/watch?v=Gb4UBK53sGQ)
 
@@ -101,8 +109,27 @@ WarsofTheWorld
 [4 Aviation Mysteries of WWII... - YouTube](https://www.youtube.com/watch?v=dNgoeiSG20k)
 [4 Peculiar Allied Prototype Planes of WW2... - YouTube](https://www.youtube.com/watch?v=6Ch7cOtDbOU)
 
+Animagraffs
+[How a P-51 Mustang Works - YouTube](https://www.youtube.com/watch?v=hjsrqMe0B3s)
+
 Blue Paw Print
 [Five Iconic World War II Aircraft - YouTube](https://www.youtube.com/watch?v=hXGef2aeRwc)
+
+Yarnhub
+[B-17 Flying Fortress - YouTube](https://www.youtube.com/playlist?list=PLA0QkS9h8CwwN1DNhCTgQRq2ZUToLuFdT)
+
+Imperial War Museums
+[What made the P-51 Mustang so special? - YouTube](https://www.youtube.com/watch?v=Hp1MA7X12wA)
+[Duxford in Depth - YouTube](https://www.youtube.com/playlist?list=PLolzHiCNNbO8ehcr_CBTqSrbIgWel-ecU)
+
+DroneScapes
+[WWII Great Missions - YouTube](https://www.youtube.com/playlist?list=PL28FIzSr3HNsPRQfcbgHGFdMRLkEsQGtL)
+[Airplanes | Icons & Stories - YouTube](https://www.youtube.com/playlist?list=PLBI4gRjPKfnNx3Mp4xzYTtVARDWEr6nrT)
+[The B-29 Superfortress Bomber That Dropped The Atomic Bomb | Enola Gay | Complete Documentary - YouTube](https://www.youtube.com/watch?v=a1UnKZI1csg)
+[The Flying Tigers | FULL DOCUMENTARY + The Legacy Episode | Narrated by Gary Sinise | WW2 History - YouTube](https://www.youtube.com/watch?v=gaJrwwOkEjY)
+
+Timeline - World History Documentaries
+[How The Spitfire Became An Aviation Masterpiece | The Birth Of A Legend | Timeline - YouTube](https://www.youtube.com/watch?v=fR03Mmv2bUs)
 
 War Stories
 [The Wooden Plane That Terrorized The Luftwaffe | Battlefield Mysteries | War Stories - YouTube](https://www.youtube.com/watch?v=TDZlMRVwxEY) De Havilland Mosquito
@@ -112,25 +139,6 @@ Caliban Rising - Aviation History
 [The 6 Most Daring De Havilland Mosquito Missions Of WW2 - YouTube](https://www.youtube.com/watch?v=WJS6RgA9mqc)
 
 [揭秘二戰德國的末日武器，隱身轟炸機HO-229，現代六代機的鼻祖「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=9KiOdYRMdv0)
-
-[How a P-51 Mustang Works - YouTube](https://www.youtube.com/watch?v=hjsrqMe0B3s)
-
-Yarnhub
-[B-17 Flying Fortress - YouTube](https://www.youtube.com/playlist?list=PLA0QkS9h8CwwN1DNhCTgQRq2ZUToLuFdT)
-
-[Duxford in Depth - YouTube](https://www.youtube.com/playlist?list=PLolzHiCNNbO8ehcr_CBTqSrbIgWel-ecU) Imperial War Museums
-
-DroneScapes
-[WWII Great Missions - YouTube](https://www.youtube.com/playlist?list=PL28FIzSr3HNsPRQfcbgHGFdMRLkEsQGtL)
-[Airplanes | Icons & Stories - YouTube](https://www.youtube.com/playlist?list=PLBI4gRjPKfnNx3Mp4xzYTtVARDWEr6nrT)
-[The B-29 Superfortress Bomber That Dropped The Atomic Bomb | Enola Gay | Complete Documentary - YouTube](https://www.youtube.com/watch?v=a1UnKZI1csg)
-[The Flying Tigers | FULL DOCUMENTARY + The Legacy Episode | Narrated by Gary Sinise | WW2 History - YouTube](https://www.youtube.com/watch?v=gaJrwwOkEjY)
-
-Imperial War Museums
-[What made the P-51 Mustang so special? - YouTube](https://www.youtube.com/watch?v=Hp1MA7X12wA)
-
-Timeline - World History Documentaries
-[How The Spitfire Became An Aviation Masterpiece | The Birth Of A Legend | Timeline - YouTube](https://www.youtube.com/watch?v=fR03Mmv2bUs)
 
 [二戰德軍的航空炸彈有多猛？高爆彈穿甲彈空雷輪番登場，盟軍應接不暇 - YouTube](https://www.youtube.com/watch?v=nMkb8zssv-g)
 [為什麼二戰後期零式被美軍吊打？20歲日本飛行員一時心軟，讓零式神話加速破滅！優秀的飛行員和先進的戰機，誰才是致勝關鍵？#A6M零式戰機#太平洋戰爭#中途島海戰 - YouTube](https://www.youtube.com/watch?v=ID-1IIhr6Yk)
@@ -178,6 +186,8 @@ Timeline - World History Documentaries
 [Fairchild Republic A-10 Thunderbolt II - Wikiwand](https://www.wikiwand.com/en/articles/Fairchild_Republic_A-10_Thunderbolt_II)
 [A-10雷霆二式攻擊機 - Wikiwand](https://www.wikiwand.com/zh-hk/articles/A-10%E9%9B%B7%E9%9C%86%E4%BA%8C%E5%BC%8F%E6%94%BB%E6%93%8A%E6%A9%9F) 疣豬 Warthog
 [Inside the A-10 Warthog - YouTube](https://www.youtube.com/watch?v=rY7U69JijUk)
+[The Insane Engineering of the A-10 Warthog - YouTube](https://www.youtube.com/watch?v=wk6Qr6OO5Xo&)
+[The A-10s massive gun halves forward thrust - YouTube](https://www.youtube.com/watch?v=iRupCpvLqTk)
 [The A-10: Worse Than You Think - YouTube](https://www.youtube.com/watch?v=jBzNKS-1ztU)
 [Why The A-10 Warthog Is Totally Invincible - YouTube](https://www.youtube.com/watch?v=PLTdDoR5O1o)
 [When A-10 Warthogs Rained Thunder Over Iraq - YouTube](https://www.youtube.com/watch?v=H2ayCcc6B9s)
@@ -212,6 +222,7 @@ Timeline - World History Documentaries
 [F-22 Raptor: The Ultimate King of Air Supremacy - YouTube](https://www.youtube.com/watch?v=0RXHLAS5-r0)
 [Why the F-22 Raptor Is Practically Unbeatable - YouTube](https://www.youtube.com/watch?v=jyl2F2v8q30)
 [Deep Intel on the F-22 Raptor - YouTube](https://www.youtube.com/watch?v=cMOzbzh-Fpc)
+[F-22s are getting a whole lot of upgrades, including drones. The first 5.5 gen fighter jet? - YouTube](https://www.youtube.com/watch?v=EWrbuDy5gV4)
 
 [McDonnell Douglas F/A-18 Hornet - Wikiwand](https://www.wikiwand.com/en/articles/McDonnell_Douglas_F/A-18_Hornet)
 [F/A-18黃蜂式戰鬥攻擊機 - Wikiwand](https://www.wikiwand.com/zh-hk/articles/F/A-18%E9%BB%83%E8%9C%82%E5%BC%8F%E6%88%B0%E9%AC%A5%E6%94%BB%E6%93%8A%E6%A9%9F)
@@ -228,6 +239,7 @@ Timeline - World History Documentaries
 [Deep Intel on the Damning New F-35 Report - YouTube](https://www.youtube.com/watch?v=LReZ4ejDjpw)
 [The F-35 Lightning II - Why The Hate? - YouTube](https://www.youtube.com/watch?v=OeZ1DrnQl5c)
 [The media is LYING to you about the F-35 (here's why) - YouTube](https://www.youtube.com/watch?v=BB_3UwpG-Do)
+[How F-35 Works? | F-35 [B] VTOL Animation | Three Bearing Swivel Nozzle and Lift System Animation. - YouTube](https://www.youtube.com/watch?v=lOEuHAvedoY)
 
 ### British
 
@@ -304,6 +316,8 @@ Timeline - World History Documentaries
 [战略轰炸机 - Wikiwand](https://www.wikiwand.com/zh-hk/articles/%E6%88%98%E7%95%A5%E8%BD%B0%E7%82%B8%E6%9C%BA)
 [战术轰炸机 - Wikiwand](https://www.wikiwand.com/zh-hk/articles/%E6%88%B0%E8%A1%93%E8%BD%9F%E7%82%B8%E6%A9%9F)
 
+[B-17 Flying Fortress VS. Lancaster Bomber - YouTube](https://www.youtube.com/watch?v=YShmfsVCcZ4)
+
 ### US
 
 [Boeing B-29 Superfortress - Wikiwand](https://www.wikiwand.com/en/articles/Boeing_B-29_Superfortress)
@@ -324,6 +338,7 @@ Timeline - World History Documentaries
 [The Insane Engineering of the B-2 Bomber - YouTube](https://www.youtube.com/watch?v=1wMM87UKr_c)
 [How B-2 Stealth Bombers WIPED OUT Houthi Pirates in Minutes! - YouTube](https://www.youtube.com/watch?v=khQxfMYm82A)
 [B2 Spirit Bomber Plane | How Stealth Works? - YouTube](https://www.youtube.com/watch?v=r7BTJSiUejQ)
+[Stealth - How Does it Work? (Northrop B-2 Spirit) - YouTube](https://www.youtube.com/watch?v=ya8umwgtsLw)
 
 [Northrop Grumman B-21 Raider - Wikiwand](https://www.wikiwand.com/en/articles/Northrop_Grumman_B-21_Raider)
 [Why US Enemies Are Scared of B-21 Raider (Next Generation Stealth Bomber) - YouTube](https://www.youtube.com/watch?v=2795bNju200)
@@ -387,5 +402,7 @@ AC-130 Gunship
 [The AC-130 Gunship's Legend of Air Supremacy - YouTube](https://www.youtube.com/watch?v=AnU-hnaUAI4)
 
 SR-71 Blackbird Reconnaissance aircraft
+[The Insane Engineering of the SR-71 Blackbird - YouTube](https://www.youtube.com/watch?v=3hYSnyVLmGE)
+[Titanium - The Metal That Made The SR-71 Possible - YouTube](https://www.youtube.com/watch?v=obcya0ze6Zo)
 
 [The "Twisted Logic" of a Sky Giant: Secrets of the C-17's Asymmetrical Design - YouTube](https://www.youtube.com/watch?v=HkAaZWDcjWI)

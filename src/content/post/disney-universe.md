@@ -2,7 +2,7 @@
 title: Disney Universe
 description: ""
 created: 2016-04-17
-updated: 2025-09-23
+updated: 2025-10-10
 tags:
   - anime
   - disney

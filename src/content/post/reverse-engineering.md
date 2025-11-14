@@ -2,7 +2,7 @@
 title: Reverse Engineering
 description: ""
 created: 2023-03-01
-updated: 2025-09-18
+updated: 2025-11-03
 tags:
   - security
 ---
@@ -16,6 +16,7 @@ tags:
 Low Level Learning
 [Reverse Engineering Adventures - YouTube](https://www.youtube.com/playlist?list=PLc7W4b0WHTAUonBygdM0Lh5iO2tgX64ew)
 [reverse engineering makes you a better programmer (let’s try it out) - YouTube](https://www.youtube.com/watch?v=1d-6Hv1c39c)
+[The 5 Levels of Reverse Engineering - YouTube](https://www.youtube.com/watch?v=8vk5z9VAaBQ)
 
 # Binary Analysis/Malware Analysis/Reverse Engineering
 
@@ -56,7 +57,7 @@ John Hammond
 
 [io12/pwninit: pwninit - automate starting binary exploit challenges](https://github.com/io12/pwninit)
 
-[angr](http://angr.io/)
+[angr](http://angr.io/) symbolic execution
 [angr/angr: A powerful and user-friendly binary analysis platform!](https://github.com/angr/angr)
 
 [CyberChef](https://gchq.github.io/CyberChef/)
@@ -135,6 +136,25 @@ John Hammond
 ## Cutter
 
 [Cutter](https://cutter.re/)
+
+## Memory Layout
+
+[text, data, bss, and dec](https://mirzafahad.github.io/2021-05-08-text-data-bss/)
+
+```c
+#include <stdlib.h>
+#include <stdio.h>
+char* a = "password";
+
+int main(int argc, char** argv) {
+
+    int b = 2;
+    int* c = malloc(4);
+
+    printf("%p, %p, %p, %p", a, &b, c, main);
+    return 0;
+}
+```
 
 ## ELF
 

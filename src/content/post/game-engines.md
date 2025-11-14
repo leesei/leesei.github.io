@@ -2,7 +2,7 @@
 title: Game Engines
 description: ""
 created: 2015-01-02
-updated: 2025-08-10
+updated: 2025-10-10
 tags:
   - game-dev
   - game-engine

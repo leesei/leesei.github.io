@@ -2,7 +2,7 @@
 title: Decision Making
 description: ""
 created: 2015-10-14
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - economics
   - philosophy

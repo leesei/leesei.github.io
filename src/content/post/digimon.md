@@ -2,7 +2,7 @@
 title: Digimon
 description: ""
 created: 2016-03-19
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - anime
   - digimon

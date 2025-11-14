@@ -2,7 +2,7 @@
 title: Android setup
 description: ""
 created: 2015-01-13
-updated: 2025-07-08
+updated: 2025-10-10
 tags:
   - adb
   - android

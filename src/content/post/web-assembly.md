@@ -2,7 +2,7 @@
 title: Web Assembly
 description: ""
 created: 2017-06-19
-updated: 2025-09-13
+updated: 2025-10-22
 tags:
   - wasm
   - web
@@ -179,8 +179,8 @@ Hands-on
 [AssemblyScript/assemblyscript: Definitely not a TypeScript to WebAssembly compiler 🚀](https://github.com/AssemblyScript/assemblyscript)
 [AssemblyScript - HTTP 203 - YouTube](https://www.youtube.com/watch?v=u0Jgz6QVJqg)
 
+[WebAssembly: byte-code of the future - DEV Community](https://dev.to/joshnuss/webassembly-byte-code-of-the-future-402p)
 [From JavaScript to WebAssembly in three steps](https://engineering.q42.nl/webassembly/)
-
 [WebAssembly/binaryen: Compiler infrastructure and toolchain library for WebAssembly](https://github.com/WebAssembly/binaryen)
 `wasm-opt` to reduce file size
 

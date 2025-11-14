@@ -2,7 +2,7 @@
 title: Corporate
 description: ""
 created: 2015-04-15
-updated: 2025-08-10
+updated: 2025-10-20
 tags:
   - business
   - corporate
@@ -158,9 +158,10 @@ When a service is free, you are the product/asset.
 [Smart Logos with Hidden Symbolism | Webdesigner Depot](http://www.webdesignerdepot.com/2010/07/smart-logos-with-hidden-symbolism/)
 [50 Fantastically Clever Logos | Design Shack](http://designshack.net/articles/graphics/50-fantastically-clever-logos)
 
-## Logo Creator
+### Logo Maker
 
 [Hostinger AI Logo Maker](https://logo.hostinger.com/) requires login
+[AI Logo Maker | Logo Maker | Logo Diffusion](https://logodiffusion.com/)
 
 ## Downfall of Philips
 

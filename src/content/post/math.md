@@ -2,7 +2,7 @@
 title: Mathematics
 description: ""
 created: 2017-10-31
-updated: 2025-09-02
+updated: 2025-10-10
 tags:
   - math
 ---

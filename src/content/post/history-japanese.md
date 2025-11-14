@@ -2,7 +2,7 @@
 title: Japanese History
 description: ""
 created: 2016-02-14
-updated: 2025-10-04
+updated: 2025-10-10
 tags:
   - history
   - history/japanese

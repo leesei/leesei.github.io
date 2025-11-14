@@ -2,7 +2,7 @@
 title: Visual Studio Code
 description: ""
 created: 2017-06-19
-updated: 2025-08-05
+updated: 2025-10-10
 tags:
   - app
   - package-manager

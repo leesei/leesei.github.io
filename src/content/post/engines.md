@@ -2,7 +2,7 @@
 title: Engines
 description: ""
 created: 2015-09-22
-updated: 2025-09-14
+updated: 2025-10-14
 tags:
   - automobile
   - engines
@@ -319,6 +319,7 @@ pulsejet, ramjets, scramjets, and turbojets
 
 [How do Airplanes fly? - YouTube](https://www.youtube.com/watch?v=F077WDnB8P8)
 [Jet Engine, How it works ? - YouTube](https://www.youtube.com/watch?v=KjiUUJdPGX0)
+[How Jet Engines Work - YouTube](https://www.youtube.com/watch?v=L24Wf0VlTE0)
 [人類工業文明皇冠上的明珠，航空發動機壹共分幾種？ - YouTube](https://www.youtube.com/watch?v=FuEtZQkHP6s)
 [為何運輸機還在用古早的螺旋槳？渦噴/渦槳/渦扇，三種飛機引擎有什麼區別？#軍用飛機 #運輸機 #C130 #螺旋槳 - YouTube](https://www.youtube.com/watch?v=LqehN_Ss7e8)
 [飞机发动机的大哥，燃气轮机怎么工作的？中国燃机到底什么水平？ - YouTube](https://www.youtube.com/watch?v=Yl4bU-DhVTI)

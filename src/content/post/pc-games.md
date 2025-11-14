@@ -2,7 +2,7 @@
 title: PC Games
 description: ""
 created: 2018-01-03
-updated: 2025-09-25
+updated: 2025-10-24
 tags:
   - games
 ---
@@ -44,7 +44,7 @@ tags:
 
 [The Co-op Mode - YouTube](https://www.youtube.com/channel/UCpdSQ4MAvvEdRC-T7v4ebLQ)
 [Co-Optimus - Your Prime Source for Co-Op Gaming - Home Page](https://www.co-optimus.com/)
-[Best Local Co-Op & Split-Screen Games On Steam](https://gamerant.com/best-pc-steam-split-screen-local-couch-co-op-games/)
+[Best Couch Co-Op Games On Steam](https://gamerant.com/best-pc-steam-split-screen-local-couch-co-op-games/)
 
 [Games of the Decade • Archive • Eurogamer.net](https://www.eurogamer.net/archive/games-of-the-decade)
 [Best PC games of all time | Rock Paper Shotgun](https://www.rockpapershotgun.com/2017/11/24/best-pc-games/1/)
@@ -266,13 +266,19 @@ Grey markets:
 
 [都是套路！Steam游戏虚假入库的黑灰产手法刨析，当心变肉鸡！ - 先知社区](https://xz.aliyun.com/t/14482?time__1311=GqAxuQi%3DGQoxlxGgx%2BxCuR4jo%3DDg7Brr7aoD)
 [Steam入库，irm steam.work|iex 风险和原理（代码分析） - 哔哩哔哩](https://www.bilibili.com/read/cv33369234/?jump_opus=1)
-
-[SteamTools - 游戏热爱者](https://steamtools.net/)
-[ikunshare/Onekey: Onekey Steam Depot Manifest Downloader](https://github.com/ikunshare/Onekey)
-[【steam】【假CDkey】Steam如何通过清单入库 - 搞七捻三 - LINUX DO](https://linux.do/t/topic/38982)
-[pjy612/SteamManifestCache: Steam Depot Manifest Files Cache[2.13.7]](https://github.com/pjy612/SteamManifestCache/tree/main)
-[SAI Free 可入库列表 · pjy612/SteamManifestCache · Discussion #798 · GitHub](https://github.com/pjy612/SteamManifestCache/discussions/798)
 [分析一个steam假入库行为，附带相关恶意样本 - 逗比大师 - 博客园](https://www.cnblogs.com/0day-li/p/18042274)
+[【steam】【假CDkey】Steam如何通过清单入库 - 搞七捻三 - LINUX DO](https://linux.do/t/topic/38982)
+[Steam假入库原理解析\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV11ReCzPETi/)
+[SteamTools - 游戏热爱者](https://steamtools.net/)
+
+[【白嫖教程】steamtools入库游戏（安全无红信无警告）\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1WcHLzWE6N/)
+[steamtools入库D加密游戏提取授权教程\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1pMetznEMB/)
+[pjy612/SteamManifestCache: Steam Depot Manifest Files Cache[2.13.7]](https://github.com/pjy612/SteamManifestCache/)
+
+[ikunshare/Onekey: Onekey Steam Depot Manifest Downloader](https://github.com/ikunshare/Onekey)
+[pvzcxw/cai-install_stloader](https://github.com/pvzcxw/cai-install_stloader)
+[pvzcxw/Cai-install-Web-GUI](https://github.com/pvzcxw/Cai-install-Web-GUI)
+[免费开源steam入库工具 cai install更新了自动入库所有游戏DLC功能？好看的Web GUI也释放了？\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1qX8gzQE6c/)
 
 Some vendor from Taobao (https://dianjiafen.world.tmall.com/shop/view_shop.htm) sell cheap global region Steam keys. They even give you bonus games in the list on https://www.kdocs.cn/l/cpFa9w9LqZOH.
 The keys won't work on the activation page on web or standard Steam client.

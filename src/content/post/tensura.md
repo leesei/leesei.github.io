@@ -2,7 +2,7 @@
 title: 關於我轉生變成史萊姆這檔事
 description: ""
 created: 2019-03-30
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - anime
 ---

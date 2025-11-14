@@ -2,7 +2,7 @@
 title: Food
 description: ""
 created: 2015-10-09
-updated: 2025-09-27
+updated: 2025-10-10
 tags:
   - food
   - science

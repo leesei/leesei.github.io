@@ -2,7 +2,7 @@
 title: PHP Packages
 description: ""
 created: 2023-03-27
-updated: 2025-08-23
+updated: 2025-10-10
 tags:
   - comp/lang
   - php

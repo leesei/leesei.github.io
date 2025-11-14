@@ -2,7 +2,7 @@
 title: Firearms
 description: Weapons with gun powder
 created: 2015-06-13
-updated: 2025-10-03
+updated: 2025-11-14
 tags:
   - weapons
 ---
@@ -18,11 +18,12 @@ tags:
 Firearms
 [Backyard Ballistics - YouTube](https://www.youtube.com/@Backyard.Ballistics)
 [Ballistic High-Speed - YouTube](https://www.youtube.com/@BallisticHighSpeed)
-[Forgotten Weapons - YouTube](https://www.youtube.com/@ForgottenWeapons)
 [Brandon Herrera - YouTube](https://www.youtube.com/@BrandonHerrera)
-[Garand Thumb - YouTube](https://www.youtube.com/@GarandThumb)
 [Civilian Use Only - YouTube](https://www.youtube.com/@civilianuseonly)
 [Data illusion - YouTube](https://www.youtube.com/@dataillusion) evolution of firearms/weapons
+[Forgotten Weapons - YouTube](https://www.youtube.com/@ForgottenWeapons)
+[Garand Thumb - YouTube](https://www.youtube.com/@GarandThumb)
+[Guns Explained - YouTube](https://www.youtube.com/@Guns.Explained)
 [InRangeTV - YouTube](https://www.youtube.com/@InrangeTv)
 [Royal Armouries - YouTube](https://www.youtube.com/@RoyalArmouriesMuseum) cold and hot weapons
 [TFB TV - YouTube](https://www.youtube.com/@tfbtv)
@@ -39,7 +40,7 @@ Firearms and vehicles
 [Balancing Arms - YouTube](https://www.youtube.com/playlist?list=PLNAD3PNmsLmkjinU78E7xXEviIfeIPgH_) Arch, guns in gaming
 
 [GUNS: Everything You Need to Know (Special) - YouTube](https://www.youtube.com/watch?v=GqX2utKCc2w)
-
+[Every Type of Firearms Explained - YouTube](https://www.youtube.com/watch?v=ZXVxm67fFlk)
 [Fuels, Explosives and Propellants: What's the difference? - YouTube](https://www.youtube.com/watch?v=HEhH7735gSs)
 
 [What are the weirdest and most impractical looking guns you have ever seen? - Quora](https://www.quora.com/What-are-the-weirdest-and-most-impractical-looking-guns-you-have-ever-seen)
@@ -47,6 +48,9 @@ Firearms and vehicles
 
 [Military Mechanics - YouTube](https://www.youtube.com/playlist?list=PLew_Btt-OXp6Q9BpE-46yBxe1bYKK6ZvF) Interesting Engineering, machines
 [Muskets to Machine Guns: Evolution of Weapons (1837-1901) | Animated History - YouTube](https://www.youtube.com/watch?v=9289H6FCA2k)
+[How Guns Actually Work - YouTube](https://www.youtube.com/watch?v=flYYG65yW5I)
+
+[EVERY Deadliest Weapons In Each War Explained in 18 Min - YouTube](https://www.youtube.com/watch?v=PoYS2xKGmrY)
 
 [Search Results gun](http://www.historynet.com/?s=gun)
 [Search Results firearms](http://www.historynet.com/?s=firearms)
@@ -74,6 +78,7 @@ Ahoy
 [【不止遊戲】遊戲中的大殺器 霰彈槍 加特林機槍 馬克沁機槍 真實背景故事 - YouTube](https://www.youtube.com/watch?v=P7Bb5JNwLBM)
 [【不止遊戲】霰彈槍真能像電影中，一槍能把人轟飛幾米遠嗎？ - YouTube](https://www.youtube.com/watch?v=XMwzr1axRCM)
 [【不止遊戲】絕大部分人都不知道，遊戲中瞄具的原理和背後的秘密 - YouTube](https://www.youtube.com/watch?v=pWpaWdF0uXA)
+[【不止遊戲】瞄準鏡的各種圖案，究竟有什麽作用？ - YouTube](https://www.youtube.com/watch?v=B--IqfSmA9I)
 
 [【不止遊戲】——武器裝備系列 - YouTube](https://www.youtube.com/playlist?list=PLF-ufzZkqoKtMO3SfvwlZeh_4Byo9aotA) 森纳映画
 
@@ -132,6 +137,9 @@ Cordite, mix of nitrocellulose and nitroglycerin
 
 ## Ammo/Cartridge
 
+[Every Types of Bullets Explained in 19 Minutes - YouTube](https://www.youtube.com/watch?v=w0t-ElsruUg)
+[All Types of Ammo Used in WW2 Explained - YouTube](https://www.youtube.com/watch?v=9IlkG-IYJGs)
+
 [Ammunition - Wikiwand](https://www.wikiwand.com/en/Ammunition)
 [Cartridge (firearms) - Wikiwand](<https://www.wikiwand.com/en/Cartridge_(firearms)>) shell/case (casing for gun powder) + primer + propellent + bullet
 [Category:Pistol and rifle cartridges - Wikipedia](https://en.wikipedia.org/wiki/Category:Pistol_and_rifle_cartridges?oldformat=true)
@@ -179,6 +187,8 @@ The lead tip is not fully covered by the jacket so the shell expands to a mushro
 The lead tip is even covered less by the jacket, so the shell break into fragments upon hitting the target. It will not penetrate more than 12 inches into the target.
 
 ### Magazine
+
+[All Types of Gun Magazines Explained - YouTube](https://www.youtube.com/watch?v=f_MgPO8AkkE)
 
 Magazine can be detachable or housed within the gun.
 Benefits of detachable magazine:
@@ -259,6 +269,7 @@ Fully Automatic M16 Assault Rifle (~1960) and AK47 (~1950)
 
 ## Sniper Rifle
 
+[All Types of Sniper Rifles Used in WW2 Explained - YouTube](https://www.youtube.com/watch?v=LOmeSIz-sdQ)
 [How Sniper Rifle Scope Technology Has Evolved - YouTube](https://www.youtube.com/watch?v=waCiDF4XdBY)
 
 ## Carbine
@@ -285,6 +296,8 @@ German's STG44 (MP43/MP44) is the grandfather of modern assault rifles
 [Sturmgewehr MP-44 Part I: Mechanics - YouTube](https://www.youtube.com/watch?v=HnXBshjGFo8)
 [Evolution of the Sturmgewehr: MP43/1, MP43, MP44, and StG44 - YouTube](https://www.youtube.com/watch?v=UXkpFajH66A)
 [WW2 Mauser Becomes Heckler & Koch: the StG-45(M), or Gerat 06H - YouTube](https://www.youtube.com/watch?v=NrKhJC35QRA)
+
+[WW2 Guns Still Being Used Today - YouTube](https://www.youtube.com/watch?v=zx0L5fCh0AU)
 
 Belgian FN FAL
 [美國士兵更喜歡M-16還是FN FAL？足以抗衡AK47的世界名槍，外號自由世界的右臂，曾經北約的標準步槍，僱傭兵最愛，差點擊敗M14，俄烏戰爭還在用！|冷戰|步槍|輕武器|歷史|軍事 - YouTube](https://www.youtube.com/watch?v=CTvw7aw4WLE)
@@ -339,6 +352,7 @@ However, repeated firing will still heat up the barrel and wreck the weapon
 Modern incarnations are also called "minigun"
 [Gatling gun | History, Description, & Facts | Britannica](https://www.britannica.com/technology/Gatling-gun)
 [The Gatling Gun – The First Machine Gun?](https://www.forces.net/technology/weapons-and-kit/gatling-gun-first-machine-gun)
+[How M134 Minigun Works 3D Animation - YouTube](https://www.youtube.com/watch?v=gBTLEUMNMbg)
 [用发明战争机器赚来的钱建游乐场？是的，“马克沁”就是这样的人！【科学火箭叔】 - YouTube](https://www.youtube.com/watch?v=2z3EaIUTf9Y)
 
 [The Most Successful Machine Gun in the World? - YouTube](https://www.youtube.com/watch?v=zZgd75hJTbQ)
@@ -360,6 +374,8 @@ Dynamite = Nitro-glycerin + silicon
 ## Grenades
 
 [All Types of Grenades Explained - YouTube](https://www.youtube.com/watch?v=uxvDhmecoYQ)
+[How hand grenades and rifle grenades work? - All about grenades Part 1 - YouTube](https://www.youtube.com/watch?v=6pw_i6oeUKM)
+[How does a grenade launcher work? - All about grenades Part 2 - YouTube](https://www.youtube.com/watch?v=y2GLPo82vac)
 
 [【不止遊戲】揭秘遊戲中那些手榴彈 各種有趣的細節和原理 - YouTube](https://www.youtube.com/watch?v=UjnEgSeuid0)
 [【不止遊戲】轉身背對閃光彈真的能避免被閃光嗎？ - YouTube](https://www.youtube.com/watch?v=cWlKSf7nwd8)
@@ -472,13 +488,27 @@ ARENA actively scans for incoming threats and detonates it early
 
 [meaning - What is the difference between a 'rocket' and a 'missile' - English Language & Usage Stack Exchange](https://english.stackexchange.com/questions/185955/what-is-the-difference-between-a-rocket-and-a-missile)
 
+[How Missiles Work: Engines, Guidance, Warheads, and History Explained - YouTube](https://www.youtube.com/watch?v=_ahR6LqnyYg) ❗!important
+[How Missiles Work: From Air-to-Air to ICBMs | Guided Missile Systems Explained - YouTube](https://www.youtube.com/watch?v=YfsTXcINpKE) ❗!important
+
 Guidance Systems:
 
-- GPS
-- Internal Navigation system (INS)
-- Heat Seeking
-- On-board Designator
-- Off-board Designator
+- Navigation Guidance
+  - Satellite Navigation
+  - Terrain References Navigation
+    - Terrain Contour Mapping (TERCOM)
+    - Digital Scene Matching Area Correlation (DSMAC)
+  - Internal Navigation system (INS)
+- Command Guidance  
+  External Designator sends navigation commands to missile
+  External Designator aims radar, optical sight or laser to target
+  (limited by line of sight)
+- Homing Guidance
+  - Passive Homing Guidance: follow signals emitted by target
+    - Heat Seeking
+    - Image-based Matching
+  - Active Homing Guidance: locate target with on-board radar
+  - Semi-active Homing Guidance: signals sent by plain, use on-board receiver to locate target
 
 [Difference between Ballistic & Cruise missile - YouTube](https://www.youtube.com/watch?v=CG0OOQr2bbw)
 
@@ -497,6 +527,10 @@ Guidance Systems:
 
 [Ballistic missile - Wikiwand](https://www.wikiwand.com/en/Ballistic_missile) no wings, like a rocket; enters Low Earth Orbit (LEO)
 [彈道導彈 - Wikiwand](https://www.wikiwand.com/zh/%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9)
+
+Short Range: 800km
+intermediate Range: 2500km
+Intercontinental: 5500km
 
 [How Hypersonic Missile Works? - YouTube](https://www.youtube.com/watch?v=83Gxpdw6U5Y)
 [Oreshnik Hypersonic Missile | How Russian Intercontinental Ballistic Nuclear Missile Works? - YouTube](https://www.youtube.com/watch?v=29pwX28HKoo) actively changes it path to avoid interception
@@ -519,7 +553,6 @@ Guidance Systems:
 
 [All AIM-9 Sidewinder Variants Explained in Exactly 10 minutes - YouTube](https://www.youtube.com/watch?v=YpZpT_HlOnc)
 [How one missile changed air combat | The AIM-9 Sidewinder - YouTube](https://www.youtube.com/watch?v=OY1nRMQ0m18)
-
 Soviet Russia reverse engineered AIM-9B in 1958 for its R3, later R13 (AA2 Atoll)
 China reverse engineered AIM-9B for its PL-2, later PL-5 and PL-8
 AIM-9C used Off-board Designator
@@ -549,7 +582,7 @@ AMRAAM: Advanced Medium Range Air-to-Air Missile
 [Tank Killer Javelin Missile - How to aim a javelin missile - YouTube](https://www.youtube.com/watch?v=fe-s9IiLPcM)
 A round of Javelin costs around $200k, while the cost of a battle tank is around $1 to 2 million.
 
-### Ground-to-Air Missile (GTAM)
+### Surface-to-Air Missile (STAM)
 
 [Surface-to-air missile - Wikiwand](https://www.wikiwand.com/en/articles/Surface-to-air_missile)
 
@@ -577,6 +610,8 @@ A round of Javelin costs around $200k, while the cost of a battle tank is around
 [List of infantry weapons of World War I - Wikiwand](https://www.wikiwand.com/en/List_of_infantry_weapons_of_World_War_I)
 [List of World War II infantry weapons - Wikiwand](https://www.wikiwand.com/en/List_of_infantry_weapons_of_World_War_II)
 
+[Every American Gun of World War II Explained - YouTube](https://www.youtube.com/watch?v=6pD9vOJ_N3c)
+[All Types of Soviet Guns of WW2 Explained in 20 Minutes - YouTube](https://www.youtube.com/watch?v=xly0MMlJocM)
 [二战美国步兵武器大盘点，每一款都是经典，最长服役长达百年之久 - YouTube](https://www.youtube.com/watch?v=_M9rQM7G3Wk)
 [二战最经典冲锋枪排名，M3 黄油枪倒数第二，波波沙冲锋枪位列榜首 - YouTube](https://www.youtube.com/watch?v=O8h5qcYmmcg)
 [火力最猛重机枪排名，马克沁重机枪垫底，KPV 重机枪位列榜首 - YouTube](https://www.youtube.com/watch?v=6fqWiZySy5w)

@@ -2,7 +2,7 @@
 title: Religion
 description: ""
 created: 2015-04-13
-updated: 2025-07-08
+updated: 2025-10-10
 tags:
   - creationism
   - philosophy

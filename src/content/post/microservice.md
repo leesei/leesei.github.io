@@ -2,7 +2,7 @@
 title: Microservice
 description: ""
 created: 2016-05-15
-updated: 2025-07-07
+updated: 2025-10-14
 tags:
   - architecture
   - microservice
@@ -185,6 +185,7 @@ On an e-Commerce website, Orders, Wishlist, Recommendation, Product Category can
 
 [15 What is Hystrix - Spring Boot Microservices Level 2 - YouTube](https://www.youtube.com/watch?v=SvZ98jLVdM8)
 [Circuit Breaker: Hystrix vs Resilience4J | Microservices #6 - YouTube](https://www.youtube.com/watch?v=37B8ovdX3Eo)
+[Building Fault-Tolerant MicroServices using Netflix’s Hystrix](https://hackernoon.com/building-fault-tolerant-microservices-using-netflixs-hystrix-c36083ca9af5)
 
 ## Testing
 
@@ -516,11 +517,6 @@ An ecosystem which simplifies building and managing microservices
 [Resources · Hydra](https://www.hydramicroservice.com/resources/#resources)
 
 [Building a Microservices Example Game with Distributed Messaging | @RisingStack](https://community.risingstack.com/building-a-microservices-example-game-with-distributed-messaging/)
-
-## Netflix
-
-[Netflix/Hystrix: Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.](https://github.com/Netflix/Hystrix)
-[Building Fault-Tolerant MicroServices using Netflix’s Hystrix](https://hackernoon.com/building-fault-tolerant-microservices-using-netflixs-hystrix-c36083ca9af5)
 
 ## Go micro
 

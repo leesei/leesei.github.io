@@ -2,7 +2,7 @@
 title: Cloud Providers
 description: ""
 created: 2015-06-17
-updated: 2025-09-26
+updated: 2025-11-14
 tags:
   - dev/deploy
   - web
@@ -264,14 +264,25 @@ deploy container, Node.js app, database
 ## CloudFlare
 
 [irazasyed/awesome-cloudflare: ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.](https://github.com/irazasyed/awesome-cloudflare)
+[Cloudflare learnings](https://tigerabrodi.blog/cloudflare-learnings)
 [Cloudflare浑身都是宝，普通用户能白嫖多少服务？盘点cloudflare的免费功能 - YouTube](https://www.youtube.com/watch?v=L1eDBgdCmuU)
 
-[Overview · Cloudflare Pub/Sub](https://developers.cloudflare.com/pub-sub/)
+[Overview · Cloudflare Pub/Sub](https://developers.cloudflare.com/pub-sub/) MQTT
 [Cloudflare R2 documentation · Cloudflare R2 docs](https://developers.cloudflare.com/r2) Key value store
-[Using Durable Objects · Cloudflare Workers docs](https://developers.cloudflare.com/workers/learning/using-durable-objects/)
-[How KV works · Cloudflare Workers docs](https://developers.cloudflare.com/workers/learning/how-kv-works/)
-[Announcing D1: our first SQL database](https://blog.cloudflare.com/introducing-d1/) SQLite
 [Cloudflare Turnstile, a free CAPTCHA replacement | Cloudflare](https://www.cloudflare.com/products/turnstile/)
+
+[Overview · Cloudflare Workers docs](https://developers.cloudflare.com/workers/)
+[Cloudflare Workers Reference Sheet](https://tigerabrodi.blog/cloudflare-workers-reference-sheet)
+
+[Overview · Cloudflare Durable Objects docs](https://developers.cloudflare.com/durable-objects/)
+[Cloudflare Durable Objects Reference Sheet](https://tigerabrodi.blog/cloudflare-durable-objects-reference-sheet)
+
+[Cloudflare Workers KV · Cloudflare Workers KV docs](https://developers.cloudflare.com/kv/)
+[Cloudflare KV Reference Sheet](https://tigerabrodi.blog/cloudflare-kv-reference-sheet)
+
+[Announcing D1: our first SQL database](https://blog.cloudflare.com/introducing-d1/) SQLite
+[Overview · Cloudflare D1 docs](https://developers.cloudflare.com/d1/)
+[Cloudflare D1 Reference Sheet](https://tigerabrodi.blog/cloudflare-d1-reference-sheet)
 
 [5 Things to Know BEFORE Using Cloudflare! - YouTube](https://www.youtube.com/watch?v=IXpvUD5SDzA&t=352s)
 

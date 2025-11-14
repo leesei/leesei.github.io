@@ -2,7 +2,7 @@
 title: "Zelda: Breath of the Wild"
 description: ""
 created: 2019-01-08
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - botw
   - games

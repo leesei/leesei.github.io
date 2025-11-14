@@ -2,7 +2,7 @@
 title: Google Apps
 description: ""
 created: 2017-02-11
-updated: 2025-08-07
+updated: 2025-10-10
 tags:
   - google
   - web

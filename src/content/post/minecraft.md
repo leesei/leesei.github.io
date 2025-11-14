@@ -2,7 +2,7 @@
 title: Minecraft
 description: ""
 created: 2024-12-30
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - game
   - learn-to-code

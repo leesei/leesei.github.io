@@ -2,7 +2,7 @@
 title: Data Visualization on the Web
 description: ""
 created: 2016-04-08
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - big-data
   - visualization

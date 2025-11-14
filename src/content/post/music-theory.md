@@ -2,7 +2,7 @@
 title: Music Theory
 description: ""
 created: 2016-10-11
-updated: 2025-08-18
+updated: 2025-10-10
 tags:
   - music
   - trivia

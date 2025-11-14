@@ -2,7 +2,7 @@
 title: Displays
 description: ""
 created: 2015-04-02
-updated: 2025-09-23
+updated: 2025-10-10
 tags:
   - comp/hardware
   - lcd

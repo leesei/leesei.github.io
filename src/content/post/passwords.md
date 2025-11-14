@@ -2,7 +2,7 @@
 title: Passwords
 description: ""
 created: 2015-04-08
-updated: 2025-07-15
+updated: 2025-10-27
 tags:
   - passwords
   - security
@@ -116,6 +116,8 @@ Jason Rebholz - TeachMeCyber
 [Passkeys SUCK (here’s why + how I use them) - YouTube](https://www.youtube.com/watch?v=_tQbWop1P7o)
 Syncable Passkey: one that can be copied and used on multiple devices
 Single Device Passkey: one that is bound to a physical device
+
+[How Attackers Bypass Synced Passkeys](https://thehackernews.com/2025/10/how-attackers-bypass-synced-passkeys.html)
 
 [YubiKeys, Passkeys & Confusion: Let’s Clear It Up - YouTube](https://www.youtube.com/watch?v=GZGHK_f4rrc)
 FIDO2 YubiKeys can store Passkeys

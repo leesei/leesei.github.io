@@ -2,7 +2,7 @@
 title: Computer Ergonomics
 description: ""
 created: 2023-02-16
-updated: 2025-10-01
+updated: 2025-11-07
 tags:
   - comp/hardware
 ---
@@ -45,12 +45,14 @@ tags:
 [【FView】千元级人体工学椅，如何做到接近极致的坐感？｜全新二代保友金豪 B 深度评测 - YouTube](https://www.youtube.com/watch?v=5d8ts3mNw1U) 2022-11
 
 先看评测
+[为什么靠“撑腰”就能做到销冠?深挖人体工学椅腰托进化史 - YouTube](https://www.youtube.com/watch?v=FQsgGR6BQb0) 2025-10, 黑白調
+[敢卖4000的爆款工学椅，清闲到底凭什么？ - YouTube](https://www.youtube.com/watch?v=9916UphcxLA) 2025-11
+[6 万次报废级测试！工学椅能扛住吗？西昊 C 系列二代评测 - YouTube](https://www.youtube.com/watch?v=vWGtW8AYyrE) 2025-09
 [400个屁股严选，618 人体工学椅选购指南 - YouTube](https://www.youtube.com/watch?v=HhnriwxPXAI) 2025-06, by body build
 [史上最全！人体工学椅选购指南 | 先看评测 - YouTube](https://www.youtube.com/watch?v=cist5QiK-yw) 2024-11
 [等等党大胜利！7折的源头大厂旗舰工学椅，值得冲吗？ - YouTube](https://www.youtube.com/watch?v=79V8V8eC5UE) 2025-09
 [暴力测试 8 把人体工学椅，先看推荐也翻车！ - YouTube](https://www.youtube.com/watch?v=nkXWvn9I3bo) 2023-07
 [工艺比肩赫曼米勒？腾讯、华为都在用的工学椅，到底啥水平？ - YouTube](https://www.youtube.com/watch?v=6HBgMGYljJY) 2024-06, 保友
-[6 万次报废级测试！工学椅能扛住吗？西昊 C 系列二代评测 - YouTube](https://www.youtube.com/watch?v=vWGtW8AYyrE) 2025-09
 
 Timagic时代玩家
 [国产3000元PK国外1万+ 旗舰人体工学椅差距在哪儿 - YouTube](https://www.youtube.com/watch?v=1MI82ZyoY2s) 2024-11

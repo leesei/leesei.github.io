@@ -2,7 +2,7 @@
 title: CPUs
 description: The history of CPU, companies, ISA and chip fabrication
 created: 2019-05-03
-updated: 2025-10-05
+updated: 2025-10-10
 tags:
   - comp/hardware
   - laptop

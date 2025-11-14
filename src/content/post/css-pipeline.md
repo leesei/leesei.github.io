@@ -2,7 +2,7 @@
 title: CSS Bundling
 description: ""
 created: 2015-12-21
-updated: 2025-09-23
+updated: 2025-10-10
 tags:
   - npm-css
   - postcss

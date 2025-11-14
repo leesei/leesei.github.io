@@ -2,7 +2,7 @@
 title: Node.js
 description: ""
 created: 2014-12-11
-updated: 2025-07-07
+updated: 2025-10-22
 tags:
   - comp/lang
   - javascript/runtime
@@ -352,10 +352,10 @@ stream.on("end", function () {
 [mapbox/node-pre-gyp: Node.js tool for easy binary deployment of C++ addons](https://github.com/mapbox/node-pre-gyp)
 [mafintosh/node-gyp-build: Build tool and bindings loader for node-gyp that supports prebuilds](https://github.com/mafintosh/node-gyp-build)
 
-[Neon · Fast and Safe Native Node.js Modules](https://neon-bindings.com/)
+[Neon - Electrify Node.js with the power of Rust! | Neon](https://neon-rs.dev/)
 [Neon: Node + Rust = 💖](http://calculist.org/blog/2015/12/23/neon-node-rust/)
+[neon-bindings/neon: Rust bindings for writing safe and fast native Node.js modules.](https://github.com/neon-bindings/neon)
 [Rust Bridge](https://github.com/rustbridge)
-[RisingStack/node-with-rust](https://github.com/RisingStack/node-with-rust)
 
 [Native JavaScript modules - YouTube](https://www.youtube.com/watch?v=RIct51T6ZoA)
 

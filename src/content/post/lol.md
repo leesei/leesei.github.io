@@ -2,7 +2,7 @@
 title: LOL
 description: ""
 created: 2018-09-03
-updated: 2025-08-14
+updated: 2025-10-10
 tags:
   - lol
   - trivia

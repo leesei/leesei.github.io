@@ -2,7 +2,7 @@
 title: Microsoft Apps
 description: ""
 created: 2020-08-23
-updated: 2025-09-22
+updated: 2025-10-27
 tags:
   - apps
   - microsoft
@@ -75,6 +75,7 @@ calender
 [7 productivity hacks I diPscovered after using Excel for years](https://www.xda-developers.com/productivity-hacks-discovered-after-using-excel-for-years/)
 [How to Create a Chart Template in Microsoft Excel](https://www.howtogeek.com/763415/how-to-create-a-chart-template-in-microsoft-excel/)
 
+[Excel’s INFO and CELL functions tell you what’s happening under the hood](https://www.makeuseof.com/excel-info-and-cell-functions/)
 [I Finally Mastered Excel Shortcuts—Here Are the Ones I Use Every Day](https://www.makeuseof.com/excel-shortcuts-use-every-day/)
 [Make Your Excel Spreadsheets Smarter With Dropdown Lists](https://www.makeuseof.com/smarter-excel-with-dropdowns/)
 [Make Excel Smarter With Dynamic Dropdown Lists: Here's How They Work](https://www.makeuseof.com/excel-dynamic-dropdown-lists/)
@@ -85,6 +86,9 @@ calender
 [I stopped using PivotTables in Excel because I found something better](https://www.makeuseof.com/excel-pivot-table-alternative/) PivotChart
 [An Intro to Using Conditional Formatting in Excel](https://www.makeuseof.com/intro-to-excel-using-conditional-formatting/)
 [Most Excel users don't know that these features exist](https://www.makeuseof.com/excel-features-you-didnt-know/)
+[Once you understand SCAN in Excel, you’ll never build formulas the same way](https://www.makeuseof.com/understand-scan-in-excel/) `reduce()`
+[Old Excel functions you should stop using (and what to replace them with)](https://www.makeuseof.com/replace-old-excel-functions-with-new/) XLOOKUP > VLOOKUP, IFS > IF, TEXTJOIN > CONCATENATE, FILTER and UNIQUE, TEXTSPLIT, TEXTBEFORE, and TEXTAFTER
+[You’re not using Excel right until you master these error functions](https://www.makeuseof.com/handle-excel-errors-smartly/)
 
 [How to Use XLOOKUP With Multiple Criteria in Excel](https://www.howtogeek.com/microsoft-excel-xlookup-multiple-criteria/)
 

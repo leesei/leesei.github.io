@@ -2,7 +2,7 @@
 title: Nuclear Weapon
 description: ""
 created: 2023-03-24
-updated: 2025-10-09
+updated: 2025-10-10
 tags:
   - history
   - science

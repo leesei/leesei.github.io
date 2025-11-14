@@ -2,7 +2,7 @@
 title: Amazon Web Services
 description: ""
 created: 2015-06-17
-updated: 2025-07-29
+updated: 2025-10-31
 tags:
   - web
 ---
@@ -578,6 +578,7 @@ We hope these resources will answer your questions and help you get started usin
 
 [Differences between PUT and POST S3 signed URLs - Advanced Web Machinery](https://advancedweb.hu/2019/07/17/upload_signed_urls_differences/)
 [How S3 Signed URLs work - Advanced Web Machinery](https://advancedweb.hu/how-s3-signed-urls-work/) series
+[How to upload Files to S3 in React using presigned URLs | bobbyhadz](https://bobbyhadz.com/blog/aws-s3-presigned-url-react)
 
 [Paging Through The File List Of An AWS S3 Bucket, w/ Node](http://derickbailey.com/2016/04/13/paging-the-results-of-an-aws-s3-bucket/) JS S3 SDK
 

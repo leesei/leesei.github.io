@@ -2,7 +2,7 @@
 title: GitHub
 description: ""
 created: 2014-12-11
-updated: 2025-09-10
+updated: 2025-10-19
 tags:
   - app
   - git
@@ -279,7 +279,7 @@ Put YAML in `.github/workflows/`
 
 ## Links
 
-```
+```sh
 # browse tree in browser
 https://github.com/<user>/<repo>/tree/<branch>/<folder>
 # e.g.:
@@ -300,7 +300,11 @@ https://github.com/chancejs/chancejs/raw/master/dist/chance.min.js
 
 # to have proper MIME type for viewing in browser
 
-# download latest release
+# latest release tag
+NVM_LATEST_TAG=$(curl -s https://api.github.com/repos/nvm-sh/nvm/releases/latest | jq .name -r)
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/$NVM_LATEST_TAG/install.sh | bash
+
+# download latest release, without jq
 curl -L "https://github.com/jenkins-x/jx/releases/download/$(curl --silent "https://github.com/jenkins-x/jx/releases/latest" | sed 's#.*tag/\(.*\)\".*#\1#')/jx-linux-amd64.tar.gz" | tar xzv "jx"
 ```
 

@@ -2,7 +2,7 @@
 title: Scientific Method
 description: ""
 created: 2015-12-11
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - science
 ---

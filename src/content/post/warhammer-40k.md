@@ -2,7 +2,7 @@
 title: Warhammer 40k
 description: ""
 created: 2023-06-06
-updated: 2025-01-09
+updated: 2025-11-07
 tags:
   - boardgame
   - games
@@ -15,3 +15,8 @@ tags:
 
 [Every single Warhammer 40k (WH40k) Faction Explained | Part 1 - YouTube](https://www.youtube.com/watch?v=xCGKPRiJp84)
 [Every single Warhammer 40k (WH40k) Faction Explained | Part 2 - YouTube](https://www.youtube.com/watch?v=Y6jnsX77TCU)
+
+[EVERY SINGLE Primarch Explained! - YouTube](https://www.youtube.com/watch?v=q5qYIW5cTtw&t=2319s)
+
+The Great Crusade
+The Heresy

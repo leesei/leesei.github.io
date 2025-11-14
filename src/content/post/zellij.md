@@ -2,7 +2,7 @@
 title: Zellij
 description: ""
 created: 2023-06-04
-updated: 2025-01-09
+updated: 2025-11-10
 tags:
   - app
   - shell-tool
@@ -19,3 +19,16 @@ tags:
 - save and edit buffer
 
 [Is Zellij the PERFECT Multiplexer? // Tmux Getting Dethroned! - YouTube](https://www.youtube.com/watch?v=BjfMWqy1hnw)
+
+## Koan
+
+### Dump Scroll Buffer
+
+```sh
+# in Zellij, enter scroll mode, edit
+ctrl + s + e
+# scroll buffer is opened in $EDITOR
+
+# in vi
+:w <filename>
+```

@@ -2,7 +2,7 @@
 title: The Go Programming Language
 description: Build simple, secure, scalable systems with Go
 created: 2015-02-16
-updated: 2025-10-03
+updated: 2025-10-10
 tags:
   - comp/lang
   - go-lang

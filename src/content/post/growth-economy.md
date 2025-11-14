@@ -2,7 +2,7 @@
 title: Growth Economy
 description: ""
 created: 2016-04-17
-updated: 2025-08-25
+updated: 2025-10-10
 tags:
   - economics
 ---

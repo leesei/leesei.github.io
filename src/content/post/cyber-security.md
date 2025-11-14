@@ -2,7 +2,7 @@
 title: Cyber Security
 description: ""
 created: 2022-12-31
-updated: 2025-10-05
+updated: 2025-11-13
 tags:
   - security
 ---
@@ -243,6 +243,9 @@ The focus of the last 3 stages is _DETECTION and RESPONSE_.
 
 [3 FREE Resources for Cyber Defenders - YouTube](https://www.youtube.com/watch?v=bR6s1UJ4aAs)
 [The DFIR Report - Real Intrusions by Real Attackers, The Truth Behind the Intrusion](https://thedfirreport.com/) real world attack reports
+
+[Simulate Phishing Threats & Train Your Employees | CanIPhish](https://caniphish.com/)
+[Free Cyber Security Games | CanIPhish](https://caniphish.com/free-cyber-security-games)
 
 [Free Courses That Are Actually Free: Cybersecurity Edition - KDnuggets](https://www.kdnuggets.com/free-courses-that-are-actually-free-cybersecurity-edition)
 [edX: Try It: Ethical Hacking | edX](https://www.edx.org/learn/computer-programming/edx-try-it-ethical-hacking)
@@ -490,6 +493,10 @@ Server and client (support up to 1.1 of the TAXII standard)
 [eclecticiq/OpenTAXII: TAXII server implementation in Python from EclecticIQ](https://github.com/eclecticiq/OpenTAXII)
 [Cabby documentation](https://cabby.readthedocs.io/en/latest/)
 [eclecticiq/cabby: TAXII client implementation from EclecticIQ](https://github.com/eclecticiq/Cabby)
+
+[IntelOwl Project](https://intelowlproject.github.io/)
+[IntelOwl Project Documentation](https://intelowlproject.github.io/docs/)
+[intelowlproject/IntelOwl: IntelOwl: manage your Threat Intelligence at scale](https://github.com/intelowlproject/IntelOwl)
 
 [Hyperscale ML threat intelligence for early detection & disruption | Microsoft Community Hub](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/hyperscale-ml-threat-intelligence-for-early-detection--disruption/4359763)
 [Simplify your SOC with Rob Lefferts and Allie Mellen](https://ignite.microsoft.com/en-US/sessions/BRK310?source=sessions)
@@ -1228,6 +1235,7 @@ Low Level Learning
 [CWE - Common Weakness Enumeration](https://cwe.mitre.org/)
 [Home | CVE](https://www.cve.org/)
 [NVD - Home](https://nvd.nist.gov/)
+[All Common Vulnerabilities and Exposures (CVE) vendors](https://feedly.com/cve/vendors)
 
 [OWASP Top Ten | OWASP Foundation](https://owasp.org/www-project-top-ten/)
 [OWASP Top 10](https://hacksplaining.com/owasp)
@@ -1241,6 +1249,10 @@ Low Level Learning
 [Exploit Database SearchSploit Manual](https://www.exploit-db.com/searchsploit)
 
 [jfoote/exploitable: The 'exploitable' GDB plugin](https://github.com/jfoote/exploitable)
+
+[Home - vsociety](https://www.vicarius.io/vsociety/)
+[Vicarius Resources | Articles](https://www.vicarius.io/articles)
+[Code Security articles | Blog | Sonar | Sonar](https://www.sonarsource.com/blog/tag/code-security/)
 
 ## Vulnerable Environments/靶機
 
@@ -1275,9 +1287,13 @@ Low Level Learning
 [Now Scammers Are Sending Bank-Draining Malware Through Snail Mail: Here's How](https://www.makeuseof.com/scammers-bank-draining-malware-snail-mail/)
 [AI and Serious Online Crime | Centre for Emerging Technology and Security](https://cetas.turing.ac.uk/publications/ai-and-serious-online-crime)
 
+[Experts Alarmed That AI Is Now Producing Functional Viruses](https://futurism.com/health-medicine/experts-alarmed-ai-viruses)
+
 [Countdown to GovWare 2023 - The Application of Artificial Intelligence (AI) in Cybersecurity - NSFOCUS, Inc., a global network and cyber security leader, protects enterprises and carriers from advanced cyber attacks.](https://nsfocusglobal.com/countdown-to-govware-2023-the-application-of-artificial-intelligence-ai-in-cybersecurity/#Attack_Preparation)
 [Agentic AI Paves the Way for Sophisticated Cyberattacks](https://aibusiness.com/generative-ai/agentic-ai-paves-the-way-for-sophisticated-cyberattacks)
 [Get Ready, the AI Hacks Are Coming](https://gizmodo.com/get-ready-the-ai-hacks-are-coming-2000639625)
+
+[#No1 Fake Detail Generator | Get Whole New Fake Person Identity Generator](https://fakedetail.com/)
 
 [CyberNative/CyberBase-13b · Hugging Face](https://huggingface.co/CyberNative/CyberBase-13b)
 

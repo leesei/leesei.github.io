@@ -2,7 +2,7 @@
 title: Shell Tools (Network)
 description: ""
 created: 2015-09-15
-updated: 2025-09-23
+updated: 2025-10-18
 tags:
   - app
   - iperf
@@ -262,6 +262,8 @@ docker run --net host nicolaka/netshoot ngrep -tpd enp3s0 HTTP
 
 [rolandriegel/nload: Real-time network traffic monitor](https://github.com/rolandriegel/nload) trace interface, simple
 [nload - Monitor Linux Network Bandwidth Usage in Real Time](https://www.tecmint.com/nload-monitor-linux-network-traffic-bandwidth-usage/)
+
+[vgropp/bwm-ng: Bandwidth Monitor NG is a small and simple console-based live network and disk io bandwidth monitor for Linux, BSD, Solaris, Mac OS X and others.](https://github.com/vgropp/bwm-ng)
 
 [GlassWire - Personal Firewall & Network Monitor](https://www.glasswire.com/)
 [Safing Portmaster](https://safing.io/portmaster/)

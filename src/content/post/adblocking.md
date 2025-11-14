@@ -2,7 +2,7 @@
 title: Adblocking
 description: ""
 created: 2018-07-27
-updated: 2025-08-25
+updated: 2025-10-10
 tags:
   - web
 ---

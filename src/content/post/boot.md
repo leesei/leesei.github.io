@@ -2,7 +2,7 @@
 title: Boot
 description: ""
 created: 2015-05-10
-updated: 2025-10-02
+updated: 2025-10-10
 tags:
   - desktop
   - linux

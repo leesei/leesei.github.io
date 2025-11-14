@@ -2,7 +2,7 @@
 title: OpenCV
 description: ""
 created: 2014-12-31
-updated: 2025-09-23
+updated: 2025-10-10
 tags:
   - comp/lang
   - opencv

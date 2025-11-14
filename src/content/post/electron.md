@@ -2,7 +2,7 @@
 title: Electron
 description: ""
 created: 2015-07-19
-updated: 2025-07-07
+updated: 2025-10-22
 tags:
   - atom-shell
   - comp/lang
@@ -50,48 +50,49 @@ Electron is very similar to the [NW.js](http://nwjs.io/) project but the differe
 
 ---
 
-[electron/electron-api-demos: Explore the Electron APIs](https://github.com/electron/electron-api-demos)
-[electron/electron-quick-start: Clone to try a simple Electron app](https://github.com/electron/electron-quick-start)
+[electron/minimal-repro: Clone to try a simple Electron app](https://github.com/electron/minimal-repro)
+
+[electron/electron-api-demos: Explore the Electron APIs](https://github.com/electron/electron-api-demos) 🗃️archived
 
 [Community | Electron](https://electronjs.org/community#boilerplates)
-[sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron)
-[bcomnes/electron-handbook](https://github.com/bcomnes/electron-handbook)
-[maxogden/elementary-electron: NodeSchool workshop for learning Electron](https://github.com/maxogden/elementary-electron)
-[zeke/electron-universe: The Electron app I created as a slide deck for my talk about Electron at GitHub Universe 2016.](https://github.com/zeke/electron-universe)
-
-[sindresorhus/electron-boilerplate: Boilerplate to kickstart creating an app with Electron](https://github.com/sindresorhus/electron-boilerplate)
-[chentsulin/electron-react-boilerplate: Live editing development on desktop app](https://github.com/chentsulin/electron-react-boilerplate)
+[sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) 😴inactive
+[bcomnes/electron-handbook](https://github.com/bcomnes/electron-handbook) 😴inactive
+[max-mapper/elementary-electron: NodeSchool workshop for learning Electron](https://github.com/max-mapper/elementary-electron) 😴inactive
+[zeke/electron-universe: The Electron app I created as a slide deck for my talk about Electron at GitHub Universe 2016.](https://github.com/zeke/electron-universe) 😴inactive
 
 [Electron Userland](https://github.com/electron-userland?type=source)
+
+[Hello from Electron React Boilerplate | Electron React Boilerplate](https://electron-react-boilerplate.js.org/)
+[electron-react-boilerplate/electron-react-boilerplate: A Foundation for Scalable Cross-Platform Apps](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
 
 [Desktop Apps With Electron And Kendo UI -Telerik Developer Network](http://developer.telerik.com/featured/desktop-apps-with-electron-and-kendo-ui/)
 [Creating Desktop Applications With AngularJS and GitHub Electron | Scotch](https://scotch.io/tutorials/creating-desktop-applications-with-angularjs-and-github-electron)
 [Background Processes in Electron](http://blog.smith-kyle.com/background-processes-in-electron/)
 
-## Bundler
-
-[How to create a basic Electron app with Vite and React - YouTube](https://www.youtube.com/watch?v=ONpVol7B7AY)
-
-[Kiyozz/electron-esbuild: Create Electron apps using esbuild and your favorite frontend tool](https://github.com/Kiyozz/electron-esbuild)
-[electron-vite/electron-vite-vue: 🥳 Really simple Electron + Vite + Vue boilerplate.](https://github.com/electron-vite/electron-vite-vue)
-[Next Generation Electron Build Tooling | electron-vite](https://evite.netlify.app/)
-[How to create an Electron application with Vite - DEV Community](https://dev.to/olyno/how-to-create-an-electron-application-with-vite-im)
-[⚡️ Vite 整合 Electron 总结 - 知乎](https://zhuanlan.zhihu.com/p/377697508)
-
 ## Packager
-
-[Distributable Creators](https://github.com/electron/electron-packager#distributable-creators)
 
 [javascript - electron-builder vs electron-packager - Stack Overflow](https://stackoverflow.com/questions/37113815/electron-builder-vs-electron-packager)
 electron-builder > electron-packager
 
 [electron-builder](https://www.electron.build/)
-[electron-userland/electron-builder: Complete solution to package and deploy Electron apps](https://github.com/electron-userland/electron-builder)
+[electron-userland/electron-builder: A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box](https://github.com/electron-userland/electron-builder)
+
+[electron/packager: Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI](https://github.com/electron/packager#distributable-creators)
 
 [Getting Started - Electron Forge](https://www.electronforge.io/)
-[electron-userland/electron-forge: A complete tool for creating, publishing, and installing modern Electron applications](https://github.com/electron-userland/electron-forge)
+[electron/forge: :electron: A complete tool for building and publishing Electron applications](https://github.com/electron/forge)
 
-[electron/electron-packager: Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI](https://github.com/electron/electron-packager)
+### electron-vite
+
+[How to create a basic Electron app with Vite and React - YouTube](https://www.youtube.com/watch?v=ONpVol7B7AY)
+
+[Kiyozz/electron-esbuild: Create Electron apps using esbuild and your favorite frontend tool](https://github.com/Kiyozz/electron-esbuild)
+
+[electron-vite | Next Generation Electron Build Tooling](https://evite.netlify.app/)
+[electron-vite/electron-vite-react: :electron: Electron + Vite + React + Sass boilerplate.](https://github.com/electron-vite/electron-vite-react)
+[electron-vite/electron-vite-vue: 🥳 Really simple Electron + Vite + Vue boilerplate.](https://github.com/electron-vite/electron-vite-vue)
+[How to create an Electron application with Vite - DEV Community](https://dev.to/olyno/how-to-create-an-electron-application-with-vite-im)
+[⚡️ Vite 整合 Electron 总结 - 知乎](https://zhuanlan.zhihu.com/p/377697508)
 
 ## Modules
 

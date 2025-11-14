@@ -2,7 +2,7 @@
 title: eBook
 description: ""
 created: 2016-09-13
-updated: 2025-07-28
+updated: 2025-10-10
 tags:
   - ebook
 ---
@@ -293,6 +293,8 @@ cd zshguide_html; ebook-convert zshguide.html ../zshguide.azw3
 [天火藏書排版系統 ( Kindle/NOOK/iPad 電子書 EPUB MOBI PDF 中文 直書 直排 轉檔 系統 )](http://ebook.cdict.info/)
 
 [BookAuthority: The Best Business Books Recommended By Experts](https://bookauthority.org/)
+
+[LibriVox | free public domain audiobooks](https://librivox.org/?utm_source=MUO-NL&utm_medium=newsletter&utm_campaign=MUO-202510090900)
 
 # Resources
 

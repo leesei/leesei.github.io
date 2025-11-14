@@ -2,7 +2,7 @@
 title: Redux
 description: Redux = **_Red_**ucer + Fl**_ux_**
 created: 2015-12-04
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - flux
   - javascript

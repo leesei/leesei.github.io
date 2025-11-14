@@ -2,7 +2,7 @@
 title: Generative AI
 description: ""
 created: 2023-05-08
-updated: 2025-10-06
+updated: 2025-11-04
 tags:
   - ai
   - aigc
@@ -751,6 +751,8 @@ DeepSeek Papers
 
 [facebook/rag-token-nq · Hugging Face](https://huggingface.co/facebook/rag-token-nq)
 
+[toon-format/toon: 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks & TypeScript implementation.](https://github.com/toon-format/toon?utm_source=changelog-news)
+
 ### On the contrary
 
 [【人工智能】语言究竟是一种交流工具还是思考工具 | MIT论文解读 | 颠覆大语言模型 | 语言和思想之争 | 失语症 | 聋哑儿童 - YouTube](https://www.youtube.com/watch?v=AlJdNDWCP8A)
@@ -851,6 +853,7 @@ Can use online or local LLM, different benchmarks
 [Mastering Prompt Engineering in 2024 - KDnuggets](https://www.kdnuggets.com/mastering-prompt-engineering-in-2024)
 [Measuring Prompt Effectiveness: Metrics and Methods - KDnuggets](https://www.kdnuggets.com/measuring-prompt-effectiveness-metrics-and-methods)
 [5 LLM Prompting Techniques Every Developer Should Know - KDnuggets](https://www.kdnuggets.com/5-llm-prompting-techniques-every-developer-should-know)
+[Prompt Engineering Templates That Work: 7 Copy-Paste Recipes for LLMs - KDnuggets](https://www.kdnuggets.com/prompt-engineering-templates-that-work-7-copy-paste-recipes-for-llms)
 
 [The Best 5 AI Prompt Generators For Any AI Tool](https://www.makeuseof.com/best-ai-prompt-generators-for-any-ai-tool/)
 [Try This AI Prompting Formula and I Guarantee You'll Love the Results](https://www.makeuseof.com/ai-prompting-formula-guaranteed-results/)
@@ -885,7 +888,6 @@ P-L-A-N: Problem, Limit, Action, and Number (When You Need Short, Actionable Ans
 [The Secrets To Making LLMs More Reliable - YouTube](https://www.youtube.com/watch?v=O5rmwjY2lbA) tell it "don't hallucinate"
 [lencx/ChatGPT: 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT)
 [f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts)
-[All ChatGPT Prompts in 1 Article. Create Your Perfect ChatGPT Prompt | by Arslan Mirza | Medium | Level Up Coding](https://levelup.gitconnected.com/all-chatgpt-prompts-in-1-article-2efbacdfa24c)
 [不知道怎麼獲得 ChatGPT 更精準、更詳細的回答嗎？35 個萬用公式整理給你 - 電腦王阿達](https://www.kocpc.com.tw/archives/494045)
 
 [prompt-engineering-note — 提示工程笔记](https://islinxu.github.io/prompt-engineering-note/)
@@ -1016,13 +1018,12 @@ AWQ: Activation-Aware Weight Quantization
 [machine learning - Computational Complexity of Self-Attention in the Transformer Model - Stack Overflow](https://stackoverflow.com/questions/65703260/computational-complexity-of-self-attention-in-the-transformer-model)
 
 [WTF is a Transformer? - KDnuggets](https://www.kdnuggets.com/wtf-is-a-transformer)
-[How do Transformers work?. A bit of Transformer history | by DhanushKumar_idk | Sep, 2023 | Medium](https://medium.com/@danushidk507/how-do-transformers-work-23efb5077755)
+[How do Transformers work?. A bit of Transformer history | by DhanushKumar | Medium](https://medium.com/@danushidk507/how-do-transformers-work-23efb5077755)
 [Illustrated Guide to Transformers- Step by Step Explanation | by Michael Phi | Towards Data Science](https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0)
 [How to Use Transformer-based NLP Models | Towards Data Science](https://towardsdatascience.com/how-to-use-transformer-based-nlp-models-a42adbc292e5)
 [Machine Learning’s Obsession with Kids’ TV Show Characters | by Catherine Yeo | Towards Data Science](https://towardsdatascience.com/machine-learnings-obsession-with-kids-tv-show-characters-728edfb43b3c)
 [Understanding Transformers in NLP: State-of-the-Art Models](https://www.analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/)
 [A Complete Learning Path To Transformers (Guide To 23 Architectures)](https://analyticsindiamag.com/a-complete-learning-path-to-transformers/)
-[NLP with Transformers: Introduction | C. B. Ozer | Medium](https://cbarkinozer.medium.com/nlp-with-transformers-introduction-part-1-e80684de43b2)
 [Navigating Transformers: A Comprehensive Exploration of Encoder-Only and Decoder-Only Models, Right Shift, and Beyond | by Amirhossein Abaskohi | Medium](https://medium.com/@amirhossein.abaskohi/navigating-transformers-a-comprehensive-exploration-of-encoder-only-and-decoder-only-models-right-a0b46bdf6abe)
 
 [Transformer Neural Networks Derived from Scratch #SoME3 - YouTube](https://www.youtube.com/watch?v=kWLed8o5M2Y&t=3s) from CNN to transformers, how CNNs are not efficient for NLP
@@ -1040,8 +1041,6 @@ AWQ: Activation-Aware Weight Quantization
 [🤗 Transformers](https://huggingface.co/docs/transformers/index)
 [huggingface/transformers: 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.](https://github.com/huggingface/transformers)
 [Language Models For Software Developers in 17 Minutes - YouTube](https://www.youtube.com/watch?v=tL1zltXuHO8)
-
-[T5 Text-to-Text Transformer: A Brief Paper Analysis | by Parth Chokhra | Medium](https://parthplc.medium.com/t5-text-to-text-transformer-a-brief-paper-analysis-e4bba797bd68)
 
 [OpenAI Introduces Sparse Transformers for Deep Learning of Longer Sequences](https://www.infoq.com/news/2019/05/openai-sparse-transformers/)
 Transformers (formerly known as `pytorch-transformers` and `pytorch-pretrained-bert`) provides general-purpose architectures (BERT, GPT-2, RoBERTa, XLM, DistilBert, XLNet…) for Natural Language Understanding (NLU) and Natural Language Generation (NLG) with over 32+ pretrained models in 100+ languages and deep interoperability between TensorFlow 2.0 and PyTorch.
@@ -1263,6 +1262,7 @@ Use pipeline instead of agents
 
 [Introduction to MCP: The Ultimate Guide to Model Context Protocol for AI Assistants - MarkTechPost](https://www.marktechpost.com/2025/04/03/introduction-to-mcp-the-ultimate-guide-to-model-context-protocol-for-ai-assistants/)
 [Introducing the Model Context Protocol \ Anthropic](https://www.anthropic.com/news/model-context-protocol)
+[A Gentle Introduction to MCP Servers and Clients - KDnuggets](https://www.kdnuggets.com/a-gentle-introduction-to-mcp-servers-and-clients)
 [MCP: An (Accidentally) Universal Plugin System](https://worksonmymachine.ai/p/mcp-an-accidentally-universal-plugin)
 [MCP是啥？技术原理是什么？一个视频搞懂MCP的一切。Windows系统配置MCP，Cursor,Cline 使用MCP - YouTube](https://www.youtube.com/watch?v=McNRkd5CxFY)
 [抓包分析了MCP通信过程，直接惊呆了！ - YouTube](https://www.youtube.com/watch?v=IjISe8ThHvY)

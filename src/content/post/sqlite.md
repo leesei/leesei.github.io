@@ -2,7 +2,7 @@
 title: SQLite
 description: ""
 created: 2023-09-26
-updated: 2025-07-10
+updated: 2025-10-10
 tags:
   - comp/database
   - postgresql

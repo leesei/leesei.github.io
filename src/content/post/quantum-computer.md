@@ -2,7 +2,7 @@
 title: Quantum Computer
 description: ""
 created: 2015-12-11
-updated: 2025-09-25
+updated: 2025-10-10
 tags:
   - comp/hardware
   - science

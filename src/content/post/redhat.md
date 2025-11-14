@@ -2,7 +2,7 @@
 title: Redhat
 description: ""
 created: 2016-04-24
-updated: 2025-09-23
+updated: 2025-10-10
 tags:
   - centos
   - desktop

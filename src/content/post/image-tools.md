@@ -2,7 +2,7 @@
 title: Image Tools
 description: ""
 created: 2016-08-04
-updated: 2025-09-24
+updated: 2025-10-10
 tags:
   - app
   - image-magick

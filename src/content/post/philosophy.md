@@ -2,7 +2,7 @@
 title: Philosophy
 description: ""
 created: 2015-06-29
-updated: 2025-07-07
+updated: 2025-10-26
 tags:
   - philosophy
 ---
@@ -143,6 +143,8 @@ A brain conjured up from nowhere is more probable then the low entropy state tha
 [Naive Realism - Quora](http://www.quora.com/Naive-Realism)
 
 knowledge is justified true belief
+
+[【漫士】红蓝眼谜题：大家都知道，为何却不能说？ - YouTube](https://www.youtube.com/watch?v=5ACrx4l7_fM) Shared Knowledge (everyone knows) vs Public Knowledge (everyone knows everyone know)
 
 ## Cynicism
 

@@ -2,7 +2,7 @@
 title: Earphone Owned
 description: ""
 created: 2023-06-15
-updated: 2025-07-07
+updated: 2025-10-23
 tags:
   - bluetooth
   - comp/hardware
@@ -40,29 +40,10 @@ S/N Ratio:
 
 # True Wireless (TWS)
 
-## 楠思 SN-02 (s90)
-
-> sound quality is quite good, casing is small
-> supports dual devices
-> recommend
-
-Driver: 13mm
-Impedance: 32ohm
-Sensitivity:
-S/N Ratio:
-Profiles: Bluetooth 5.3; A2DP, AVCTP, AVDTP, AVRCP, HFP, SPP, SMP, ATT, GAP, GATT, RFCCOMM, SDP, L2CAP
-IP77
-双动圈
-
-[2023 新款蓝牙耳机真无线入耳式降噪正品游戏电竞适用华为苹果小米-tmall.com 天猫](https://detail.tmall.com/item.htm?id=708020605855) ¥35.16@2023-06, ¥35.16@2024-08
-[2023 新款蓝牙耳机真无线入耳式降噪正品游戏电竞适用华为苹果小米](https://buyertrade.taobao.com/trade/detail/tradeSnap.htm?spm=a1z09.2.0.0.21a12e8dyfFsqU&tradeID=1911777134465144593&snapShot=true)
-[2024新款蓝牙耳机真无线入耳式降噪正品游戏电竞适用索尼小米苹果](https://buyertrade.taobao.com/trade/detail/tradeSnap.htm?spm=a1z09.2.0.0.67002e8dF7nWKW&tradeID=2275621501335144593&snapShot=true)
-
 ## 四基 SS990 (S90)
 
 > same form factor as 楠思 SN-02
 > sound quality is quite good, casing is small
-> supports dual devices
 > recommend
 
 Driver: 13mm
@@ -121,6 +102,50 @@ IP67
 [真无线蓝牙耳机 2023 年新款女款男高端品质适用苹果华为索尼征骑兵-tmall.com 天猫](https://detail.tmall.com/item.htm?id=692848756377) ¥34.39
 [真无线蓝牙耳机 2022 年新款女款男高端品质适用苹果华为索尼征骑兵](https://buyertrade.taobao.com/trade/detail/tradeSnap.htm?spm=a1z09.2.0.0.21a12e8dyfFsqU&tradeID=1906768922195144593&snapShot=true)
 
+## 魔声M300 (Monster Airstar M300)
+
+> not official product, probably 高仿
+
+Driver: 11mm
+Impedance: 32ohm
+Sensitivity: 117dB
+S/N Ratio:
+Profiles: Bluetooth 6.0; BLE / HFP / A2DP / AVRCP
+Codec: SBC, ?
+Battery: 35mAh; 300mAh case
+IPX4
+
+¥79.2@2022-08
+¥51.7@2022-09
+
+## 山進 Blues01 ANC ()
+
+Driver:
+Impedance:
+Sensitivity:
+S/N Ratio:
+Profiles: Bluetooth 5.4; BLE / HFP / A2DP / AVRCP
+Codec: SBC, ?
+Battery: mAh; mAh case
+ANC:
+IPX5
+
+¥79.2@2022-08
+
+## 兔小诺 Rome2 (Rome2)
+
+Driver:
+Impedance:
+Sensitivity:
+S/N Ratio:
+Profiles: Bluetooth 5.4; BLE / HFP / A2DP / AVRCP
+Codec: SBC, AAC
+Battery: mAh; mAh case
+ANC: 38db
+IP55
+
+¥118@2022-08
+
 ## Redmi Buds 6 Play
 
 Driver: 10mm
@@ -141,6 +166,33 @@ free from Xiaomi
 > the battery lasts longer, less prune to losing
 > I'll look for ANC on this form factor
 
+## Plantronics BackBeat Go 410
+
+> out of production
+> recommend
+
+Driver: 10mm
+Impedance: 32ohm
+Sensitivity: 94dB@1kHz
+S/N Ratio: 120dB
+Profiles: Bluetooth 5.0; A2DP 1.3, AVRCP1.5, SPP 1.2, HSP 1.2, HFP 1.7
+Codec: SBC, AAC
+Battery: 180mAh; 8h w/ANC, 10h w/o ANC
+ANC: -20db, dual-mode (high/low)
+Connects 2 devices
+
+¥330@2020-02
+¥111@2024-10
+¥94@2025-05
+
+[BackBeat - APK Download for Android | Aptoide](https://backbeat.en.aptoide.com/app)
+
+[Plantronics BackBeat Go 410 review: Great for shutting the world out](https://www.soundguys.com/plantronics-backbeat-go-410-review-21066/amp/)
+[细节体现品质，出行必备千元主动降噪耳机 BackBeat GO 410 体验*蓝牙耳机*什么值得买](https://post.smzdm.com/p/a997e8go/)
+[通勤路途的噪音卫士！缤特力 BACKBEAT GO 410 项圈耳机\_腾讯视频](https://v.qq.com/x/page/r0829ojuecu.html)
+
+[缤特力 Voyager 6200UC/backbeat go 410 耳机套耳塞耳帽耳胶硅胶套-淘宝网](https://item.taobao.com/item.htm?id=603844028903)
+
 ## 蛇圣 (F2)
 
 > well built, surprisingly good for this price point
@@ -151,6 +203,7 @@ free from Xiaomi
 
 > turn on by splitting the buds
 > out of production
+>
 > recommend
 
 Driver: 13.6mm
@@ -244,34 +297,23 @@ Battery: 43mAh; 300mAh case
 
 ¥66@2020-11
 
-## ~~Plantronics BackBeat Go 410~~
+## 楠思 SN-02 (s90)
 
-> connected but no audio a year and a half
-> out of production
+> sound quality is quite good, casing is small
+> supports dual devices
 > recommend
 
-Driver: 10mm
+Driver: 13mm
 Impedance: 32ohm
-Sensitivity: 94dB@1kHz
-S/N Ratio: 120dB
-Profiles: Bluetooth 5.0; A2DP 1.3, AVRCP1.5, SPP 1.2, HSP 1.2, HFP 1.7
-Codec: SBC, AAC
-Battery: 180mAh; 8h w/ANC, 10h w/o ANC
-ANC: -20db, dual-mode (high/low)
-Connects 2 devices
+Sensitivity:
+S/N Ratio:
+Profiles: Bluetooth 5.3; A2DP, AVCTP, AVDTP, AVRCP, HFP, SPP, SMP, ATT, GAP, GATT, RFCCOMM, SDP, L2CAP
+IP77
+双动圈
 
-[Plantronics/缤特力 BackBeat GO 410 立体声蓝牙耳机 主动降噪 5.0](https://buyertrade.taobao.com/trade/detail/tradeSnap.htm?spm=a1z09.2.0.0.1dfe2e8d6dvo2s&tradeID=852801633171144593&snapShot=true) ¥330@2020-02
-
-[捡漏旗舰款GO 410无损音质颈挂脖式主动降噪蓝牙入耳式耳机运动-淘宝网](https://item.taobao.com/item.htm?id=756297799667&skuId=5599380623859) ¥111@2024-10
-
-[BackBeat - Apps on Google Play](https://play.google.com/store/apps/details?id=com.plantronics.backbeatcompanion&hl=en_US&gl=US)
-
-[Plantronics BackBeat Go 410 review: Great for shutting the world out](https://www.soundguys.com/plantronics-backbeat-go-410-review-21066/amp/)
-[细节体现品质，出行必备千元主动降噪耳机 BackBeat GO 410 体验*蓝牙耳机*什么值得买](https://post.smzdm.com/p/a997e8go/)
-[通勤路途的噪音卫士！缤特力 BACKBEAT GO 410 项圈耳机\_腾讯视频](https://v.qq.com/x/page/r0829ojuecu.html)
-
-[缤特力 BackBeat GO 410 立体声主动降噪双耳颈挂脖式 fit2 蓝牙耳机-淘宝网](https://item.taobao.com/item.htm?id=596486488251) ¥225
-[缤特力 Voyager 6200UC/backbeat go 410 耳机套耳塞耳帽耳胶硅胶套-淘宝网](https://item.taobao.com/item.htm?id=603844028903)
+[2023 新款蓝牙耳机真无线入耳式降噪正品游戏电竞适用华为苹果小米-tmall.com 天猫](https://detail.tmall.com/item.htm?id=708020605855) ¥35.16@2023-06, ¥35.16@2024-08
+[2023 新款蓝牙耳机真无线入耳式降噪正品游戏电竞适用华为苹果小米](https://buyertrade.taobao.com/trade/detail/tradeSnap.htm?spm=a1z09.2.0.0.21a12e8dyfFsqU&tradeID=1911777134465144593&snapShot=true)
+[2024新款蓝牙耳机真无线入耳式降噪正品游戏电竞适用索尼小米苹果](https://buyertrade.taobao.com/trade/detail/tradeSnap.htm?spm=a1z09.2.0.0.67002e8dF7nWKW&tradeID=2275621501335144593&snapShot=true)
 
 ## ~~小米降噪项圈蓝牙耳机 (Mi Bluetooth Neckband Earphones ANC)~~
 
@@ -299,7 +341,6 @@ Specialized App
 [拆解报告：小米降噪项圈蓝牙耳机 – 我爱音频网](http://www.52audio.com/archives/29137.html)
 
 [适用小米降噪项圈蓝牙耳机配件 降噪椭圆孔耳塞套耳套 硅胶套耳帽-淘宝网](https://item.taobao.com/item.htm?id=629352947990)
-[小米降噪项圈蓝牙耳机套耳帽颈挂式挂脖入耳式蓝牙硅胶耳塞套皮套-淘宝网](https://item.taobao.com/item.htm?id=620382202870)
 
 [小米蓝牙耳机项圈耳机运动跑步入耳式挂脖式降噪无线篮牙耳塞-tmall.com 天猫](https://detail.tmall.com/item.htm?id=718210075437&skuId=5006880840770) ¥99 青春版, no ANC
 

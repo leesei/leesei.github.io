@@ -2,7 +2,7 @@
 title: SQL
 description: On the Query Language
 created: 2017-06-02
-updated: 2025-09-23
+updated: 2025-10-10
 tags:
   - comp/lang
   - sql

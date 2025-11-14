@@ -2,7 +2,7 @@
 title: Unicode
 description: ""
 created: 2015-06-05
-updated: 2025-07-07
+updated: 2025-11-03
 tags:
   - comp/lang
   - emoji
@@ -140,6 +140,7 @@ Allows multiple glyphs for one code point
 Black Woman Astronaut = Woman (U+1F469) + Dark Skin Tone (U+1F3FF) + Zero Width Joiner (U+200D) + Rocket (U+1FD80D)
 
 [iEmoji.com](https://www.iemoji.com/)
+[EmojiDB](https://emojidb.org/) semantic search
 [Emoji searcher](https://emoji.muan.co/)
 [📙 Emojipedia — 😃 Home of Emoji Meanings 💁👌🎍😍](https://emojipedia.org/)
 [😋 Get Emoji — List of all Emojis to ✂ Copy and 📋 Paste 👌](https://getemoji.com/)
@@ -195,6 +196,19 @@ Black Woman Astronaut = Woman (U+1F469) + Dark Skin Tone (U+1F3FF) + Zero Width 
 [HTML Symbols – HTML Icon and Entity Code List](https://www.freecodecamp.org/news/html-symbols-html-icon-and-entity-code-list/)
 
 [Shapecatcher: Draw the Unicode character you want!](https://shapecatcher.com/)
+
+## Braille Patterns
+
+[Braille Patterns - Wikiwand](https://www.wikiwand.com/en/articles/Braille_Patterns)
+[Braille Patterns](https://www.unicode.org/charts/nameslist/c_2800.html)
+[Braille Unicode: A Beginner's Guide](https://braillemusicandmore.com/braille-unicode-guide/)
+
+[Braille Codes and Characters: History and Current Use - Part 1 | Accessworld | American Foundation for the Blind](https://afb.org/aw/jan2023/braille-codes-and-characters-part1)
+[Braille Codes and Characters: History and Current Use - Part 2 | Accessworld | American Foundation for the Blind](https://afb.org/aw/february2023/braille-codes-and-characters-part2)
+[Encoding and Rendering Grade 1 Braille - coolbutuseless](https://coolbutuseless.github.io/2018/07/31/encoding-and-rendering-grade-1-braille/)
+
+[epidemian/snake: A silly snake game on the browser URL](https://github.com/epidemian/snake) snake in URL bar with Braille patterns
+[this is really cool - YouTube](https://www.youtube.com/watch?v=idHR0xu_xmA)
 
 ### Guobiao
 

@@ -2,7 +2,7 @@
 title: Arch Linux
 description: ""
 created: 2014-12-08
-updated: 2025-07-10
+updated: 2025-10-31
 tags:
   - arch-linux
   - desktop
@@ -513,6 +513,7 @@ pactree -c package_name
 
 # show reverse dependencies
 pactree -cru package_name
+pacman -Qi package_name | grep "Required By"
 # wrapper, requires `pkgtools`
 whoneeds package_name
 ```

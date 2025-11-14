@@ -2,7 +2,7 @@
 title: English Language
 description: ""
 created: 2025-02-04
-updated: 2025-07-07
+updated: 2025-10-13
 tags:
   - english
   - language
@@ -117,6 +117,7 @@ Stems are created with several observed rules:
 [The Great Vowel Shift: How We Know Language Now](https://www.wondriumdaily.com/the-great-vowel-shift-how-we-know-language-now/)
 [The Processes of Sound Change](https://www.wondriumdaily.com/the-processes-of-sound-change/)
 
+[The entire history of English in 22 minutes - YouTube](https://www.youtube.com/watch?v=0gHE9blt0mQ)
 [The Latin words you don't know you're using - YouTube](https://www.youtube.com/watch?v=Lf9Q68DZlok)
 
 - 0 AD Roman Times imported military Latin words

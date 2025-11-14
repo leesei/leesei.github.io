@@ -2,7 +2,7 @@
 title: Nintendo Switch
 description: ""
 created: 2018-01-09
-updated: 2025-09-29
+updated: 2025-10-10
 tags:
   - games
   - nintendo

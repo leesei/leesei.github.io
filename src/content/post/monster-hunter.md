@@ -2,7 +2,7 @@
 title: Monster Hunter
 description: ""
 created: 2024-11-06
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - games
   - monhunt

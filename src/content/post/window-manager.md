@@ -2,7 +2,7 @@
 title: Window Manager
 description: ""
 created: 2014-12-12
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - desktop
   - linux

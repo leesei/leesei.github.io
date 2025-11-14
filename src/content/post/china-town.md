@@ -2,7 +2,7 @@
 title: China Town
 description: ""
 created: 2016-02-21
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - history
 ---

@@ -2,7 +2,7 @@
 title: Wifi
 description: ""
 created: 2019-02-25
-updated: 2025-09-12
+updated: 2025-10-10
 tags:
   - comp/hardware
   - wifi

@@ -2,7 +2,7 @@
 title: Hunter X Hunter
 description: ""
 created: 2018-03-12
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - anime
   - hunterxhunter

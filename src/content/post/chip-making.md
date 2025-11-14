@@ -2,7 +2,7 @@
 title: Chip Making
 description: ""
 created: 2023-06-13
-updated: 2025-09-03
+updated: 2025-10-26
 tags:
   - comp/hardware
   - manufacturing
@@ -94,6 +94,9 @@ tags:
 [Transistors - The Invention That Changed The World - YouTube](https://www.youtube.com/watch?v=OwS9aTE2Go4)
 [Transistors Explained - How transistors work - YouTube](https://www.youtube.com/watch?v=J4oO7PT_nzQ)
 [Incredible Engineering- Inventing the Transistor - YouTube](https://www.youtube.com/watch?v=YUJ3FTb3Bf0)
+
+[人类最伟大的发明--PN结 - YouTube](https://www.youtube.com/watch?v=G-6zD_B_Ewk)
+[什么是晶体管？MOSFET 介绍 - YouTube](https://www.youtube.com/watch?v=-q2_lmAiOL0)
 
 [MOSFET - Wikiwand](https://www.wikiwand.com/en/MOSFET)
 [CMOS - Wikiwand](https://www.wikiwand.com/en/CMOS) Complementary MOSFET

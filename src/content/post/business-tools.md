@@ -2,7 +2,7 @@
 title: Business Tools
 description: ""
 created: 2018-10-27
-updated: 2025-09-23
+updated: 2025-10-17
 tags:
   - business
 ---
@@ -164,14 +164,30 @@ tags:
 ### n8n
 
 [n8n.io - Free and Open Workflow Automation Tool](https://n8n.io/)
+[Explore n8n Docs: Your Resource for Workflow Automation and Integrations | n8n Docs](https://docs.n8n.io/)
 [n8n-io/n8n: Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.](https://github.com/n8n-io/n8n)
-[n8n - an open source, self hosted info transform & workflow automation tool w/ drag and drop ease. - YouTube](https://www.youtube.com/watch?v=lpRsqiBc2JQ)
 
 [AI Agent integrations | Workflow automation with n8n](https://n8n.io/integrations/agent/)
 [AI Agents: From Theory to Practice (+Free Templates) – n8n Blog](https://blog.n8n.io/ai-agents/)
 [AI-Powered Feature Engineering with n8n: Scaling Data Science Intelligence - KDnuggets](https://www.kdnuggets.com/ai-powered-feature-engineering-with-n8n-scaling-data-science-intelligence)
 [AI 狂潮下的求生指南：為何只懂 ChatGPT 讓你離失業更近一步，n8n AI Agent 才是你的救命稻草 - YouTube](https://www.youtube.com/watch?v=rgU0mbVpg0k)
 [我找到了最好用的AI工作流工具 看完就懂 - YouTube](https://www.youtube.com/watch?v=31fHVMs6PVE)
+
+[n8n - an open source, self hosted info transform & workflow automation tool w/ drag and drop ease. - YouTube](https://www.youtube.com/watch?v=lpRsqiBc2JQ)
+[Master 80% of n8n in 36 Minutes - YouTube](https://www.youtube.com/watch?v=e3OV3LnrS7o)
+[Master 80% of n8n by Learning Just These 17 Nodes - YouTube](https://www.youtube.com/watch?v=tf1mnCVWJkQ)
+[You NEED to Use n8n RIGHT NOW!! (Free, Local, Private) - YouTube](https://www.youtube.com/watch?v=ONgECvZNI3o)
+[n8n Now Runs My ENTIRE Homelab - YouTube](https://www.youtube.com/watch?v=budTmdQfXYU)
+[Self-Host n8n in 20 Minutes - Easiest & Cheapest Setup - YouTube](https://www.youtube.com/watch?v=c9XyFfzRX8Q)
+
+Hostinger
+[Self-hosted n8n | Secure and scalable automation](https://www.hostinger.com/self-hosted-n8n)
+[How to Use the N8N VPS Template at Hostinger - Hostinger Help Center](https://www.hostinger.com/support/10473267-how-to-use-the-n8n-vps-template-at-hostinger/)
+[Guide to Your n8n Journey - YouTube](https://www.youtube.com/playlist?list=PLN0iSzNpiVQENcKpfV3kbldpdC5081T9_)
+
+[5 Things I Wish I Knew Before Learning n8n - YouTube](https://www.youtube.com/watch?v=ofC4OeNjDx8)
+[Stop Learning n8n in 2025... Learn THIS Instead - YouTube](https://www.youtube.com/watch?v=Dif1hwBejCk)
+[STOP Mastering n8n... Learn What the 1% Are Doing (Before It’s Too Late) - YouTube](https://www.youtube.com/watch?v=Y9wZA2MQGd8)
 
 ## SMS Reception
 

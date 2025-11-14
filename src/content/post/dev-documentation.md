@@ -2,7 +2,7 @@
 title: Documentation
 description: ""
 created: 2015-06-17
-updated: 2025-07-11
+updated: 2025-10-14
 tags:
   - comp/lang
   - documentation
@@ -89,6 +89,8 @@ Static site generators supporting file-based routing are also candidates for doc
 [MkDocs Is The Perfect Open Source Documentation Software](https://fosspost.org/reviews/programs/mkdocs-perfect-open-source-documentation-software)
 [Build Your Python Project Documentation With MkDocs – Real Python](https://realpython.com/python-project-documentation-with-mkdocs/)
 [MkDocs Markdown Reference | Markdown Guide](https://www.markdownguide.org/tools/mkdocs/)
+
+[mkdocs-to-pdf](https://mkdocs-to-pdf.readthedocs.io/en/stable/)
 
 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) ❗!important, Material themed
 [squidfunk/mkdocs-material: Documentation that simply works](https://github.com/squidfunk/mkdocs-material)
@@ -189,6 +191,8 @@ default markup language in Redmine
 [webdoc-labs/webdoc: Documentation generator for the web](https://github.com/webdoc-labs/webdoc)
 
 [daux.io](http://daux.io/) output `html`, `confluence` or `html-file`
+[daux/daux.io - Docker Image | Docker Hub](https://hub.docker.com/r/daux/daux.io)
+
 [docsify](https://docsify.js.org/#/) renders Markdown dynamically
 [documentationjs](http://documentation.js.org/)
 [docpress](https://docpress.github.io/index.html)

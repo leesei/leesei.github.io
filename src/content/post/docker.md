@@ -2,7 +2,7 @@
 title: Docker
 description: ""
 created: 2014-12-11
-updated: 2025-09-23
+updated: 2025-11-11
 tags:
   - container
   - dev/deploy
@@ -255,6 +255,8 @@ Ambassador pattern: if App container depends on Database container, always creat
 > Use Docker's overlay by default, for complex use cases see `kubernetes#cni`
 
 [Connection refused? Docker networking and how it impacts your image](https://pythonspeed.com/articles/docker-connection-refused/) fundamental, network interfaces, listen on 0.0.0.0
+
+Container connect to service on host: `host.docker.internal`
 
 [Networking Overview | Docker Documentation](https://docs.docker.com/network/)
 [Docker - Docker Reference Architecture: Designing Scalable, Portable Docker Container Networks](https://success.docker.com/article/networking) about Docker Swarm
@@ -1189,7 +1191,6 @@ docker run -it --rm \
 [managing users in docker · rocker-org/rocker Wiki](https://github.com/rocker-org/rocker/wiki/managing-users-in-docker)
 [Deni Bertovic :: Handling Permissions with Docker Volumes](https://denibertovic.com/posts/handling-permissions-with-docker-volumes/)
 [What is the (best) way to manage permissions for docker shared volumes - Stack Overflow](https://stackoverflow.com/questions/23544282/what-is-the-best-way-to-manage-permissions-for-docker-shared-volumes)
-[Work With Non-Root Containers for Bitnami Applications](https://docs.bitnami.com/containers/how-to/work-with-non-root-containers/)
 
 Use user namespaces introduced in 1.10:
 

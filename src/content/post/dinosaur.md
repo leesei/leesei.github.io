@@ -2,7 +2,7 @@
 title: Dinosaur
 description: ""
 created: 2020-06-01
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - dinosaur
   - science

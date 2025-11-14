@@ -2,7 +2,7 @@
 title: Game Emulator
 description: ""
 created: 2017-07-10
-updated: 2025-08-23
+updated: 2025-11-03
 tags:
   - emulator
   - games
@@ -42,6 +42,17 @@ MEDNAFEN Multi systems, Good Saturn support
 [The taboo and secret history of Emulation | Documentary on Emulation and Its Controversies - YouTube](https://www.youtube.com/watch?v=gydg-egxDZ4)
 
 [Why Are Emulators Legal? Dolphin vs. Nintendo, and the Fate of Emulation - YouTube](https://www.youtube.com/watch?v=wROQUZDCIMI)
+
+## Recompilation
+
+[hedge-dev/XenonRecomp: A tool for recompiling Xbox 360 games to native executables.](https://github.com/hedge-dev/XenonRecomp)
+[hedge-dev/XenosRecomp: A tool for converting Xbox 360 shaders to HLSL.](https://github.com/hedge-dev/XenosRecomp)
+[hedge-dev/UnleashedRecomp: An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.](https://github.com/hedge-dev/UnleashedRecomp)
+
+[N64Recomp/N64Recomp: Tool to statically recompile N64 games into native executables](https://github.com/N64Recomp/N64Recomp)
+[Zelda64Recomp/Zelda64Recomp: Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)](https://github.com/Zelda64Recomp/Zelda64Recomp)
+[Nearly all Nintendo 64 games can now be recompiled into native PC ports to add proper ray tracing, ultrawide, high FPS, and more | Tom's Hardware](https://www.tomshardware.com/video-games/nearly-all-nintendo-64-games-can-now-be-recompiled-into-native-pc-ports-to-add-proper-ray-tracing-ultrawide-high-fps-and-more)
+[N64 recompilation is here - and its looking good! - YouTube](https://www.youtube.com/watch?v=WK5VuOInqlg)
 
 ## Frontends
 
@@ -204,9 +215,6 @@ KLONOA (prefer Switch port)
 ## N64
 
 [Why is Nintendo 64 emulation still a broken mess in 2025 ? - YouTube](https://www.youtube.com/watch?v=OmKjVpVdHDQ)
-
-[Nearly all Nintendo 64 games can now be recompiled into native PC ports to add proper ray tracing, ultrawide, high FPS, and more | Tom's Hardware](https://www.tomshardware.com/video-games/nearly-all-nintendo-64-games-can-now-be-recompiled-into-native-pc-ports-to-add-proper-ray-tracing-ultrawide-high-fps-and-more)
-[N64 recompilation is here - and its looking good! - YouTube](https://www.youtube.com/watch?v=WK5VuOInqlg)
 
 [simple64 | An easy to use N64 emulator. Available for Windows and Linux](https://simple64.github.io/)
 [loganmc10 | creating games & software | Patreon](https://www.patreon.com/loganmc10)

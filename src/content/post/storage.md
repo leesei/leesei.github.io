@@ -2,7 +2,7 @@
 title: Storage
 description: ""
 created: 2015-05-11
-updated: 2025-07-07
+updated: 2025-10-26
 tags:
   - comp/hardware
   - harddisk
@@ -30,6 +30,7 @@ tags:
 [Seagate Exos X20 and IronWolf Pro 20TB Expand Retail 20TB HDD Options](https://www.anandtech.com/show/17099/seagate-exos-x20-and-ironwolf-pro-20tb-expand-retail-20tb-hdd-options) 2021-12
 
 [The Birth, Boom and Bust of the Hard Disk Drive - YouTube](https://www.youtube.com/watch?v=yt5t84Z7u_I)
+[用最好的动画为你讲解--机械硬盘的原理 - YouTube](https://www.youtube.com/watch?v=rKC4LQ3s0lQ)
 [Exos vs IronWolf Pro - Which is the best HDD option for your NAS? - YouTube](https://www.youtube.com/watch?v=UFDF39TRsl0)
 
 Cable doesn't matter:
@@ -93,6 +94,7 @@ More precise writing techniques to increase density of magnetic track
 [SSD ABC Guide – OCZ Forum](http://oczforum.com/staff/meander/OCZ_SSD_ABC_Guide.pdf) PDF
 [Exploring Solid State Drives and 3D NAND - YouTube](https://www.youtube.com/playlist?list=PL6rx9p3tbsMuk0jnC-dBdwb32Z1g7mD0j)
 [Why SSDs Are Big And Cheap - YouTube](https://www.youtube.com/watch?v=ErV-2tlf9Ls) SLC to PLC
+[用最好的动画为你讲解--固态硬盘(SSD)的原理 - YouTube](https://www.youtube.com/watch?v=k-4PNe83l_Y)
 [你的U盘，其实是个监狱｜flash存储原理：固态硬盘，U盘，SD卡 - YouTube](https://www.youtube.com/watch?v=8wGRYxuPVvU)
 
 [6 Simple Ways to Get More Performance From Your NVMe SSD](https://www.makeuseof.com/ways-optimize-nvme-ssd/)
@@ -359,6 +361,7 @@ done
 
 [4 Tools to Test and Detect Fake or Counterfeit USB Flash Drives • Raymond.CC](https://www.raymond.cc/blog/test-and-detect-fake-or-counterfeit-usb-flash-drives-bought-from-ebay-with-h2testw/)
 [How to Spot a Fake MicroSD Card and Avoid Being Scammed](https://www.makeuseof.com/tag/how-to-spot-fake-microsd-card/)
+[Fake SD cards are everywhere — here’s how to test yours](https://www.makeuseof.com/fake-sd-cards-are-everywhere-heres-how-to-test-yours/)
 
 [F3 by Digirati](http://oss.digirati.com.br/f3/)
 [f3 - Fight Flash Fraud — f3 documentation](https://fight-flash-fraud.readthedocs.io/en/stable/introduction.html)

@@ -2,7 +2,7 @@
 title: Cross Platform Apps (Mobile)
 description: ""
 created: 2015-04-03
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - app
   - appcelerator

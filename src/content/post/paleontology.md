@@ -2,7 +2,7 @@
 title: Paleontology
 description: ""
 created: 2019-08-09
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - geology
   - paleontology

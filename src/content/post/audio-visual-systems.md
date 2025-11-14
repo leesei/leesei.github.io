@@ -2,7 +2,7 @@
 title: Audio-visual Systems
 description: ""
 created: 2018-07-04
-updated: 2025-10-03
+updated: 2025-11-12
 tags:
   - audio-clip
   - clipart
@@ -422,6 +422,7 @@ document.querySelectorAll("meta[property='og:url']");
 [Nyquist - Signalling at the Nyquist Rate and the Foundation of the Sampling Theory - YouTube](https://www.youtube.com/watch?v=BT_mWQjO-bo)
 
 [Digital Audio Basics: Audio Sample Rate and Bit Depth](https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html)
+[I FINALLY understand NOISE and its COLOURS - YouTube](https://www.youtube.com/watch?v=-rUBgPiQngg)
 
 [Audio Handling Basics: Process Audio Files In Command-Line or Python | HackerNoon](https://hackernoon.com/audio-handling-basics-how-to-process-audio-files-using-python-cli-jo283u3y)
 [jiaaro/pydub at hackernoon.com](https://github.com/jiaaro/pydub)
@@ -437,6 +438,8 @@ document.querySelectorAll("meta[property='og:url']");
 
 [The Crazy Computations Inside Your Smartphone Cameras - YouTube](https://www.youtube.com/watch?v=yY8OFp0-UZw&t=5s)
 [The Chips That See: Rise of the Image Sensor - YouTube](https://www.youtube.com/watch?v=4dX2IsZDBfg&t=2s)
+
+[RAW格式到底是什么？RED和尼康专利官司怎么回事？解析从CMOS到人眼可见图像的全过程！ - YouTube](https://www.youtube.com/watch?v=NF0Ph0-WZFI)
 
 [Computerphile - Digital Imaging - Mike Pound - YouTube](https://www.youtube.com/playlist?list=PLboJFH3ATn0yC9uLuRLhaezUvtVPLtQvv)
 

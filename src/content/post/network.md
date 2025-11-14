@@ -2,7 +2,7 @@
 title: Network
 description: ""
 created: 2016-04-24
-updated: 2025-09-08
+updated: 2025-11-10
 tags:
   - anycast
   - comp/network
@@ -119,6 +119,12 @@ Link-local: in absence of DHCP or static address, not routing
 [Classless Inter-Domain Routing - Wikiwand](https://www.wikiwand.com/en/Classless_Inter-Domain_Routing)
 [What is CIDR Notation?](http://whatismyipaddress.com/cidr)
 [What is CIDR (Classless Inter-Domain Routing or supernetting)? - Definition from WhatIs.com](http://searchnetworking.techtarget.com/definition/CIDR)
+
+## Application-aware IPv6 Networking (APN6)
+
+[What Is APN6? Why Do We Need APN6? - Huawei](https://info.support.huawei.com/info-finder/encyclopedia/en/APN6.html)
+[APN6](https://info.support.huawei.com/hedex/api/pages/EDOC1100363264/AEN0403J/05/resources/toctopics/en-us_concept_0000001243908236.html)
+[(IPv6 Series eBook) APN6 - Huawei](https://support.huawei.com/enterprise/en/doc/EDOC1100237550)
 
 ## VLAN
 
@@ -602,7 +608,7 @@ curl -T uploadfile -u user:passwd ftp://ftp.upload.com/myfile
 [Speedtest by Ookla - The Global Broadband Speed Test](http://www.speedtest.net/run) with region selection
 [Internet Speed Test | Fast.com](https://fast.com/en/) by Netflix
 
-[OFCA Broadband Performance Test](http://speedtest.ofca.gov.hk/) web version requires Flash
+[OFCA Broadband Performance Test](https://speedtest.ofca.gov.hk/speedtest.html?isConfirm=Y&checkbox=checkbox&language=english)
 
 ## Physical layer
 

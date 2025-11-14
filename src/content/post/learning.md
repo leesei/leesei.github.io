@@ -2,7 +2,7 @@
 title: Learning
 description: ""
 created: 2018-07-10
-updated: 2025-08-23
+updated: 2025-10-22
 tags:
   - learning
 featured: true
@@ -98,6 +98,10 @@ Podcast and mailing lists is a good way to discover Unknown Unknown
   - overview/intro on the topic
 - ask "Why?"
 - organize the timeline of things happened
+
+[Learn In Public](https://www.swyx.io/learn-in-public)
+[Big L Notation](https://www.swyx.io/big-l-notation)
+[Learning Gears](https://www.swyx.io/learning-gears)
 
 ### Dreyfus model
 

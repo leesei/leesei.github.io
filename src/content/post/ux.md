@@ -2,7 +2,7 @@
 title: User Experience (UX)
 description: ""
 created: 2015-06-25
-updated: 2025-08-11
+updated: 2025-10-10
 tags:
   - ui
   - ux

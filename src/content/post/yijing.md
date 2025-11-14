@@ -2,7 +2,7 @@
 title: 易經
 description: 易經/周易 I Ching/Yijing
 created: 2023-06-14
-updated: 2025-09-19
+updated: 2025-10-10
 tags:
   - trivia
 ---

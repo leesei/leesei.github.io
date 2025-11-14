@@ -2,7 +2,7 @@
 title: Arduino
 description: ""
 created: 2018-09-12
-updated: 2025-07-08
+updated: 2025-10-10
 tags:
   - arduino
   - iot

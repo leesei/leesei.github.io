@@ -2,7 +2,7 @@
 title: Tiled Image
 description: ""
 created: 2016-04-08
-updated: 2025-08-13
+updated: 2025-10-10
 tags:
   - tiled-image
   - web

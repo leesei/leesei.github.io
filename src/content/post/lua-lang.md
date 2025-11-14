@@ -2,7 +2,7 @@
 title: Lua
 description: Embeddable scripting language
 created: 2016-03-22
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - comp/lang
   - lua

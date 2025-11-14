@@ -2,7 +2,7 @@
 title: Linux Tips and Tricks
 description: ""
 created: 2016-03-11
-updated: 2025-07-29
+updated: 2025-10-10
 tags:
   - app
   - desktop

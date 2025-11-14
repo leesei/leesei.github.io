@@ -2,7 +2,7 @@
 title: SSL/TLS
 description: ""
 created: 2015-04-02
-updated: 2025-07-07
+updated: 2025-11-12
 tags:
   - security
   - ssl
@@ -52,6 +52,10 @@ Toolkits:
 
 [Deploying HTTPS: The Green Lock and Beyond (Chrome Dev Summit 2015) - YouTube](https://www.youtube.com/watch?v=9WuP4KcDBpI)
 [Mythbusting HTTPS: Squashing security’s urban legends - Google I/O 2016 - YouTube](https://www.youtube.com/watch?v=YMfW1bfyGSY)
+
+## Cert Validity Period
+
+[Why Shorter TLS Validity Raises the Bar | DigiCert](https://www.digicert.com/blog/crypto-agility-in-action)
 
 ## Standards
 

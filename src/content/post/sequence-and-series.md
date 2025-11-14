@@ -2,7 +2,7 @@
 title: Sequence and Series
 description: ""
 created: 2017-10-31
-updated: 2025-01-09
+updated: 2025-10-13
 tags:
   - math
   - sequence
@@ -32,6 +32,7 @@ Like we (the human race) did to extend rational numbers to real numbers, then to
 [Coding Adventure: Sound (and the Fourier Transform) - YouTube](https://www.youtube.com/watch?v=iA6wRgwl7k0)
 [The Most Important Algorithm Of All Time - YouTube](https://www.youtube.com/watch?v=nmgFG7PUHfo) FFT
 [傅立叶变换如何理解？美颜和变声都是什么原理？李永乐老师告诉你 - YouTube](https://www.youtube.com/watch?v=0LuyxzqI3Hk)
+[【漫士】所以，到底什么是傅里叶变换？ - YouTube](https://www.youtube.com/watch?v=nwMKuChwpMo)
 
 ## Sum of Natural Numbers
 

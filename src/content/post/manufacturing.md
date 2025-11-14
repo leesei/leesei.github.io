@@ -2,7 +2,7 @@
 title: Manufacturing
 description: ""
 created: 2023-06-10
-updated: 2025-07-09
+updated: 2025-10-15
 tags:
   - manufacturing
   - science
@@ -68,3 +68,23 @@ New Mind
 [The Science Of Small Distances - YouTube](https://www.youtube.com/watch?v=Aw-xbs8ZWxE)
 [The Science Of Flatness - YouTube](https://www.youtube.com/watch?v=OWa3F4bKJsE)
 [The Science Of Roundness - YouTube](https://www.youtube.com/watch?v=NjbvOTUSqdI)
+
+## 詹式车钩
+
+[詹氏车钩有什么用？一项黑科技，凭什么能挺 100 多年！【科学火箭叔】 - YouTube](https://www.youtube.com/watch?v=9zXW-MYCJ3Q)
+[一百年前的黑科技，火车车厢的连接“神器”，詹式车钩有多神奇？ - YouTube](https://www.youtube.com/watch?v=hT92PTeZj5c)
+
+## 隧道
+
+[地底的超危險工作!一起蓋捷運! 【上集】挖捷運隧道靠土撥鼠？【超認真少年】Taipei MRT Shield Machine - YouTube](https://www.youtube.com/watch?v=G-ulNnxMPeY)
+[如何製作超難的地底隧道【下集】告別台北捷運隧道地下 30 米作業總算完成了【超認真少年】Taipei MRT Shield Machine EP2 - YouTube](https://www.youtube.com/watch?v=rkwegidU05k)
+[潛盾機貫通隧道 誤差不到 10 公分有多難 老闆幹了很多貫通石要給大家【超認真少年】MRT tunnel breakthrough ceremony - YouTube](https://www.youtube.com/watch?v=SOIRKoo0VmQ)
+
+[世界首座超级工程，时速 350 公里的海底高铁隧道，是怎么建造的？【科学火箭叔】 - YouTube](https://www.youtube.com/watch?v=LEyVt3HN2rE)
+
+- 明挖法
+- 盾構法
+- 礦山法
+- 沉管法
+
+[Why Tunnels Don't Collapse - YouTube](https://www.youtube.com/watch?v=xNDppVTVUss)

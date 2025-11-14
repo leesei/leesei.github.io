@@ -2,7 +2,7 @@
 title: Ancient Civilizations
 description: ""
 created: 2020-01-23
-updated: 2025-10-05
+updated: 2025-10-10
 tags:
   - history
 ---

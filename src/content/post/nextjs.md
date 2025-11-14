@@ -2,7 +2,7 @@
 title: Next.js
 description: ""
 created: 2021-01-19
-updated: 2025-01-09
+updated: 2025-10-29
 tags:
   - reactjs
   - static-site
@@ -379,3 +379,20 @@ export const config = {
 ## Server Side Rendering
 
 [SSR vs SSG in Next.js – tutorial for CTOs and devs](https://tsh.io/blog/ssr-vs-ssg-in-nextjs/)
+
+[javascript - Next.js/React warning when generating random values in a component - Stack Overflow](https://stackoverflow.com/questions/47539922/next-js-react-warning-when-generating-random-values-in-a-component)
+
+```jsx
+import dynamic from "next/dynamic";
+import React from "react";
+
+const NoSsr = ({ children }) => <>{children}</>;
+
+export default dynamic(() => Promise.resolve(NoSsr), {
+  ssr: false,
+});
+```
+
+```jsx
+<NoSsr>{Math.random()}</NoSsr>
+```

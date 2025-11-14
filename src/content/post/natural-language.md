@@ -2,7 +2,7 @@
 title: Natural Language
 description: ""
 created: 2015-04-10
-updated: 2025-09-25
+updated: 2025-10-10
 tags:
   - chinese
   - korean

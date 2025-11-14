@@ -2,7 +2,7 @@
 title: Moon Story
 description: ""
 created: 2016-01-31
-updated: 2025-07-07
+updated: 2025-10-20
 tags:
   - history
   - moon
@@ -100,3 +100,4 @@ CuriousMarc
 [重返月球 1：2024 月球登陸有何不同？ - YouTube](https://www.youtube.com/watch?v=rngR2Y1QLXo)
 
 [I Was SCARED To Say This To NASA... (But I said it anyway) - Smarter Every Day 293 - YouTube](https://www.youtube.com/watch?v=OoJsPvmFixU) changes in Artemis and NASA's communication problems
+[The SHOCKING TRUTH Why We Still Can’t Return to the Moon - YouTube](https://www.youtube.com/watch?v=IxInqs0dudQ&t=599s)

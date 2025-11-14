@@ -2,7 +2,7 @@
 title: Switch Emulator
 description: ""
 created: 2023-06-12
-updated: 2025-08-23
+updated: 2025-10-10
 tags:
   - emulator
   - games

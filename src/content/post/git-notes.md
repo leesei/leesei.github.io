@@ -2,7 +2,7 @@
 title: Git notes
 description: Git is a content addressable file system
 created: 2014-12-11
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - app
   - git

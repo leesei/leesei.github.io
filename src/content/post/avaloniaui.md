@@ -2,7 +2,7 @@
 title: Avalonia UI
 description: ""
 created: 2022-05-03
-updated: 2025-09-23
+updated: 2025-10-10
 tags:
   - app
   - avalonia

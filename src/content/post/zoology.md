@@ -2,7 +2,7 @@
 title: Zoology
 description: Scientific study of the animals kingdom
 created: 2021-10-30
-updated: 2025-09-16
+updated: 2025-10-10
 tags:
   - animals
   - biology

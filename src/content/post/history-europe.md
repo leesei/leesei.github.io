@@ -2,7 +2,7 @@
 title: History Europe
 description: ""
 created: 2016-09-12
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - history
   - history/europe

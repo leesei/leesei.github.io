@@ -2,7 +2,7 @@
 title: Payload CMS
 description: A code first CMS that works the way you do
 created: 2023-04-30
-updated: 2025-08-23
+updated: 2025-10-10
 tags:
   - cms
   - typescript

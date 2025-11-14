@@ -2,7 +2,7 @@
 title: Manga
 description: ""
 created: 2016-05-30
-updated: 2025-09-08
+updated: 2025-10-10
 tags:
   - anime
   - manga

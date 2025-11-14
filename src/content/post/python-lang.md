@@ -2,7 +2,7 @@
 title: Python notes
 description: ""
 created: 2014-12-11
-updated: 2025-09-23
+updated: 2025-11-08
 tags:
   - comp/lang
   - python
@@ -1038,6 +1038,7 @@ with ignored(OSError):
 [Level up your code with Python decorators | by Alexander Bailey | Towards Data Science](https://towardsdatascience.com/level-up-your-code-with-python-decorators-c1966d78607)
 [Tutorial: Geir Arne Hjelle - Introduction to Decorators: Power Up Your Python Code - YouTube](https://www.youtube.com/watch?v=T8CQwGIsrx4)
 [10 Python Decorators To Take Your Code To The Next Level | by Ahmed Besbes | Towards Data Science](https://towardsdatascience.com/12-python-decorators-to-take-your-code-to-the-next-level-a910a1ab3e99)
+[indently/five_decorators: Five useful decorators to inspire your code in Python.](https://github.com/indently/five_decorators)
 
 [Python's Instance, Class, and Static Methods Demystified – Real Python](https://realpython.com/instance-class-and-static-methods-demystified/)
 [Instance vs. Static vs. Class Methods in Python: The Important Differences](https://www.makeuseof.com/tag/python-instance-static-class-methods/) `@staticmethod`, `@classmethod`
@@ -1410,6 +1411,7 @@ def find_path(source, graph=graph, path=[]):
 [Lesser-Known Python Functions That Are Super Useful - KDnuggets](https://www.kdnuggets.com/lesser-known-python-functions-that-are-super-useful)
 
 [5 Tips To Achieve Low Coupling In Your Python Code - YouTube](https://www.youtube.com/watch?v=qR4-PBLUZNw)
+[Why Your Code Isn’t Pythonic (And How to Fix It) - YouTube](https://www.youtube.com/watch?v=bsU7AFjh4m8)
 
 [What are the 10 best features of Python? - Quora](https://www.quora.com/What-are-the-10-best-features-of-Python)
 [Can you amaze me with a Python trick? - Quora](https://www.quora.com/Can-you-amaze-me-with-a-Python-trick)

@@ -2,7 +2,7 @@
 title: Military
 description: ""
 created: 2016-03-13
-updated: 2025-10-05
+updated: 2025-10-31
 tags:
   - military
   - trivia
@@ -34,6 +34,8 @@ More on military vehicles
 
 [Dirty Civilian - YouTube](https://www.youtube.com/@dirty-civilian)
 [Military Terms every Prepared Civilian Should Know - YouTube](https://www.youtube.com/watch?v=baCTj2gMb_U)
+
+[ARMY vs MARINES - What's the Real Difference? - YouTube](https://www.youtube.com/watch?v=uzg-tGiK_y8)
 
 Expert react to guns, armor, combats in games and movies
 [How Real Is It? - YouTube](https://www.youtube.com/playlist?list=PLKfWL8IXgKBuonEBHu-lhO28bCinSqNv4) Insider
@@ -84,7 +86,13 @@ Squad Section
 準下士, 一等兵 lance corporal
 列兵, 二等兵 private
 
-## Tank
+## NATO phonetic alphabet
+
+[NATO phonetic alphabet - Wikiwand](https://www.wikiwand.com/en/articles/NATO_phonetic_alphabet)
+
+[The genius logic of the NATO phonetic alphabet - YouTube](https://www.youtube.com/watch?v=UAT-eOzeY4M)
+
+## Tanks
 
 [Tank Encyclopedia, the first online tank museum](https://tanks-encyclopedia.com/)
 [Tanks | Usborne Quicklinks | Be Curious](https://usborne.com/row/quicklinks/quicklink/11137-tanks)
@@ -111,6 +119,7 @@ The Armchair Historian
 [【軍備科技樹】英國坦克發展史第一期，馬克Ⅰ型，拖拉機廠製造，現代坦克的鼻祖，一戰後歐洲列強軍備競賽的結果 #兵器說 坦克｜一戰 - YouTube](https://www.youtube.com/watch?v=QY6gJCkbls0)
 [坦克上的機槍，無用？高射機槍，坦克必備武器！同軸機槍、前列機槍、高射機槍，分別在哪？| M1A2 | M240 | M2HB | T-34 | T-72 | 火力君 | - YouTube](https://www.youtube.com/watch?v=gkjf0MwZDuY)
 
+[M4 Sherman - The Workhorse of D-Day - YouTube](https://www.youtube.com/watch?v=IJ-7H5GCNp0)
 [【不止遊戲】謝爾曼坦克有什麼有趣的細節？ - YouTube](https://www.youtube.com/watch?v=kWhT3LCt500)
 
 [大名鼎鼎的虎式坦克，為何不使用傾斜裝甲，是設計師盲目自大嗎？ - YouTube](https://www.youtube.com/watch?v=wZpLZAnehuw)
@@ -150,8 +159,12 @@ The Armchair Historian
 
 [Mortar (weapon) - Wikiwand](<https://www.wikiwand.com/en/articles/Mortar_(weapon)>)
 [How to Fire a Mortar? - YouTube](https://www.youtube.com/watch?v=THydm_ViStI)
+[How does a mortar work? - YouTube](https://www.youtube.com/watch?v=boOyuySovko)
 [【不止遊戲】想學迫擊炮怎麼發射么？我教你啊！ - YouTube](https://www.youtube.com/watch?v=D5DqonUg6QA)
 [迫击炮到底是如何瞄准目标的?行家教你射击瞄准【科学火箭叔】 - YouTube](https://www.youtube.com/watch?v=WiPbtVxf450)
+
+[How does the 105mm howitzer work? - YouTube](https://www.youtube.com/watch?v=H021YhaV9JQ)
+[How does the 155mm howitzer work? - YouTube](https://www.youtube.com/watch?v=u4Ujbt-jglY)
 
 [坦克、突击炮、坦克歼击车、自行火炮究竟是如何分类的？ - YouTube](https://www.youtube.com/watch?v=WrdWbBr2l14)
 

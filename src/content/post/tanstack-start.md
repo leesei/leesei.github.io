@@ -2,7 +2,7 @@
 title: TanStack Start
 description: Full-stack React framework powered by TanStack Router
 created: 2024-10-11
-updated: 2025-08-11
+updated: 2025-10-10
 tags:
   - reactjs
   - static-site

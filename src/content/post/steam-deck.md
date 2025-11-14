@@ -2,7 +2,7 @@
 title: Steam Deck
 description: ""
 created: 2022-01-12
-updated: 2025-08-03
+updated: 2025-10-10
 tags:
   - comp/hardware
   - mobile

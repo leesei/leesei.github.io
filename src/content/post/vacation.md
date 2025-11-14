@@ -2,13 +2,22 @@
 title: Vacation
 description: ""
 created: 2023-04-18
-updated: 2025-07-07
+updated: 2025-10-22
 tags:
   - holiday
   - trivia
 ---
 
+[Trip.com官方網站：全球機票、酒店，高鐵網上預訂](https://hk.trip.com/)
+[KKday - 當地旅遊, 旅遊體驗, 旅行規劃, 熱門票券 - KKday](https://www.kkday.com/zh-hk)
+[携程旅行网:酒店预订,机票预订查询,旅游度假,商旅管理](https://ctrip.com/)
+
+[又飛啦！flyagain.la | 提供便宜機票、酒店、套票及著數資訊，幫您省更多旅費！查詢請電郵 flyagainla@gmail.com](https://flyagain.la/)
+[MeetHK.com 旅遊情報網 - 最新平機票及酒店優惠 | 優惠碼 | code](https://www.meethk.com/)
+
+[【去哪儿网】机票查询预订，酒店预订，旅游团购，度假搜索，门票预订-去哪儿网Qunar.com](https://www.qunar.com/)
 [去趣 chicTrip 官方網站 | 最便利的旅遊行程規劃 APP](https://www.chictrip.com.tw/)
+[Cheap Flights: Compare Flights & Flight Tickets | KAYAK](https://www.kayak.com.hk/flights)
 
 ## SIM
 

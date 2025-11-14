@@ -2,7 +2,7 @@
 title: Email Services
 description: ""
 created: 2015-11-19
-updated: 2025-09-15
+updated: 2025-11-11
 tags:
   - ldap
   - mail
@@ -14,13 +14,16 @@ tags:
 [I Use This Simple Email Trick to Outsmart Spammers](https://www.makeuseof.com/simple-email-trick-to-outsmart-spammers/)
 
 [RFC 7489 - Domain-based Message Authentication, Reporting, and Conformance (DMARC)](https://datatracker.ietf.org/doc/html/rfc7489)
+[Home - DMARCLY](https://dmarcly.com/blog/)
 
+[About authentication methods - Google Workspace Admin Help](https://support.google.com/a/answer/10583557)
 [Gmail spam and authentication - Google Workspace Admin Help](https://support.google.com/a/answer/9948472) SPF, DKIM and DMARC
 [Check if your Gmail message is authenticated - Computer - Gmail Help](https://support.google.com/mail/answer/180707)
 
 [Set up DMARC - Google Workspace Admin Help](https://support.google.com/a/answer/2466580)
 [Troubleshoot DMARC issues - Google Workspace Admin Help](https://support.google.com/a/answer/10032578)
 [Add DMARC record – Titan Mail](https://support.titan.email/hc/en-us/articles/900006395783-Add-DMARC-record)
+[SPF/DKIM/DMARC Setup Guide for Google Workspace (formerly known as G Suite) (Gmail for Business) - DMARCLY](https://dmarcly.com/blog/spf-dkim-dmarc-set-up-guide-for-g-suite-gmail-for-business)
 
 ## POP
 
@@ -65,7 +68,26 @@ curl smtp://10.6.64.241 \
 [What is HTML Email?](https://webdesign.tutsplus.com/articles/what-is-html-email--cms-38843)
 
 [React Email](https://react.email/)
-[resendlabs/react-email: 💌 Build and send emails using React](https://github.com/resendlabs/react-email)
+[resend/react-email: 💌 Build and send emails using React](https://github.com/resend/react-email)
+
+## Email signature/encryption
+
+Email will use signature and asymmetric encryption.
+
+https://www.phind.com/search/cm7oa7rk500002v6rojh23o49
+
+[Pretty Good Privacy - Wikiwand](https://www.wikiwand.com/en/articles/Pretty_Good_Privacy)
+[RFC 9580 - OpenPGP](https://datatracker.ietf.org/doc/html/rfc9580)
+[OpenPGP - ArchWiki](https://wiki.archlinux.org/title/OpenPGP)
+[Stateless OpenPGP - ArchWiki](https://wiki.archlinux.org/title/Stateless_OpenPGP)
+[sequoia-pgp / sequoia · GitLab](https://gitlab.com/sequoia-pgp/sequoia)
+
+[S/MIME - Wikiwand](https://www.wikiwand.com/en/articles/S/MIME)
+[RFC 8551 - Secure/Multipurpose Internet Mail Extensions (S/MIME) Version 4.0 Message Specification](https://datatracker.ietf.org/doc/html/rfc8551) obsoletes 5751
+
+[What is PGP Encryption and How Does It Work?](https://www.varonis.com/blog/pgp-encryption)
+[What is PGP Encryption? Pretty Good Privacy Explained | Fortinet](https://www.fortinet.com/resources/cyberglossary/pgp-encryption)
+[What is PGP encryption and how does it work? | Proton](https://proton.me/blog/what-is-pgp-encryption)
 
 ## Email as a Service
 
@@ -76,7 +98,6 @@ curl smtp://10.6.64.241 \
 [All-in-One Marketing Platform for Growing Businesses](https://mailchimp.com/)
 [Transactional Email API Service For Developers | Mailgun](https://www.mailgun.com/)
 [Mailjet - Email Delivery Service for Marketing & Developer Teams](https://www.mailjet.com/)
-[All Your Digital Marketing Tools in One Place – Sendinblue](https://www.sendinblue.com/)
 [Transactional Email | Brevo (formerly Sendinblue)](https://www.brevo.com/products/transactional-email/)
 
 ### Form to Email
@@ -87,13 +108,9 @@ Post to `service.com/youemail@server`, you'll get an activation/verification ema
 Then you'll get a form token that can be used in lieu of the email (`service.com/token`).
 Form submitter will see the service's reCAPTCHA for anti-spamming and submit success page. Paid customer can usually customize these pages.
 
-- [Formaholic - Home](https://formaholic.com/)
 - [EmailJS](https://www.emailjs.com/)
   - 50 submissions / month
   - 2 email templates
-- [formmonkey](https://www.formmonkey.io/)
-  - 30 submissions / month
-  - 1 form
 - [Formspark | HTML Form to Email service](https://formspark.io/) tested
   - [About | Formspark Documentation](https://documentation.formspark.io/)
   - many customization, good for static site
@@ -109,9 +126,7 @@ Form submitter will see the service's reCAPTCHA for anti-spamming and submit suc
   - 50 submissions / month free tier
   - 2 linked email
   - preset reCAPTCHA and success page
-- [Free Form to Email API | Mailthis.to](https://mailthis.to/)
-  - no reCAPTCHA?, not working?
-- [Forms setup | Netlify Docs](https://docs.netlify.com/forms/setup/#html-forms)
+- [Forms setup | Netlify Docs](https://docs.netlify.com/manage/forms/setup/)
 
 [[google-apps-script#Sending Email]]
 

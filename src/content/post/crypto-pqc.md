@@ -2,7 +2,7 @@
 title: Post Quantum Cryptography
 description: ""
 created: 2025-03-24
-updated: 2025-11-13
+updated: 2025-11-14
 tags:
   - crypto
   - cryptography
@@ -241,6 +241,9 @@ Key Factor's EJBCA
 [Mixed Certificate Chains for the Transition to Post-Quantum Authentication in TLS 1.3](https://eprint.iacr.org/2021/1447.pdf)  
 [CA/Browser Forum - Certificate Issuers, Certificate Consumers, and Interested Parties Working to Secure the Web](https://cabforum.org/)
 
+[DigiCert Labs | DigiCert](https://www.digicert.com/digicert-labs)
+[IETF-Hackathon/pqc-certificates: Post-quantum cryptography certificates](https://github.com/IETF-Hackathon/pqc-certificates)
+
 ### PQC SSH adoption
 
 [TLS | Open Quantum Safe](https://openquantumsafe.org/applications/tls.html#oqs-openssl-provider) OpenSSL provider for OpenSSH
@@ -291,6 +294,7 @@ DH Exchange can be modeled as KEM, where
 [aws/s2n-tls: An implementation of the TLS/SSL protocols](https://github.com/aws/s2n-tls)
 
 Cloudflare enabled PQC for their customers as described in a 2023 blog. That handles the server side.
+[Adoption & Usage Worldwide | Cloudflare Radar](https://radar.cloudflare.com/adoption-and-usage#post-quantum-encryption-adoption) PQC adoption
 [Automatically Secure: how we upgraded 6,000,000 domains by default to get ready for the Quantum Future](https://blog.cloudflare.com/automatically-secure/) 2025-09
 [Cloudflare now uses post-quantum cryptography to talk to your origin server](https://blog.cloudflare.com/post-quantum-to-origins/) 2023-09
 [Defending against future threats: Cloudflare goes post-quantum](https://blog.cloudflare.com/post-quantum-for-all/) 2022-10

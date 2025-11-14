@@ -2,7 +2,7 @@
 title: Web Authentication
 description: ""
 created: 2016-01-21
-updated: 2025-10-09
+updated: 2025-11-11
 tags:
   - authentication
   - security
@@ -470,7 +470,10 @@ OpenID Connect is build upon OAuth 2.0 (with `openid` and `profile` scope) desig
 
 [Security token service - Wikiwand](https://www.wikiwand.com/en/Security_token_service)
 
-[Open Source OAuth 2.0 and OpenID Connect Server - gethydra.sh](https://gethydra.sh/)
+[Open Source IAM and CIAM | Ory](https://www.ory.com/open-source)
+[Ory Kratos: Cloud native user management system | Ory](https://www.ory.com/kratos)
+[ory/kratos: Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network.](https://github.com/ory/kratos)
+[Ory Hydra: OAuth 2.0 and OpenID Connect server | Ory](https://www.ory.com/hydra)
 [ory/hydra: OpenID Certified™ OpenID Connect & OAuth2 Server (OP, OpenID Provider) - cloud native, security-first, open source API security for your infrastructure. Written in Go. SDKs for any language.](https://github.com/ory/hydra)
 
 [greenpau/caddy-auth-portal: Authentication Plugin for Caddy v2 implementing Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication](https://github.com/greenpau/caddy-auth-portal)

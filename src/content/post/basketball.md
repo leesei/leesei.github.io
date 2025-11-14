@@ -2,7 +2,7 @@
 title: Basketball
 description: ""
 created: 2016-02-19
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - trivia
 ---

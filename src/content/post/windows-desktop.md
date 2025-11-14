@@ -2,7 +2,7 @@
 title: Windows Desktop
 description: ""
 created: 2015-01-15
-updated: 2025-10-07
+updated: 2025-11-03
 tags:
   - app
   - desktop
@@ -49,10 +49,11 @@ chcp 65001
 
 [The One Command Every Windows User Should Know And How To Use It](https://hothardware.com/news/windows-system-file-checker-guide)
 [How to Use DISM Commands to Repair Windows 11 System Images](https://www.makeuseof.com/how-to-use-dism-commands/)
+[I run this command weekly, and my PC never slows down](https://www.makeuseof.com/run-this-command-weekly-pc-never-slows/)
 
 ```powershell
-sfc /scannow
 dism /online /cleanup-image /restorehealth
+sfc /scannow
 chkdsk /f
 ```
 
@@ -167,6 +168,14 @@ Beware of where you download from, especially don't use download.com.
 
 [Microsoft Provides New Performance Tips for Windows 11 Gamers | Tom's Hardware](https://www.tomshardware.com/news/microsoft-windows-11-gaming-boost-tips)
 [Options to Optimize Gaming Performance in Windows 11](https://prod.support.services.microsoft.com/en-us/windows/options-to-optimize-gaming-performance-in-windows-11-a255f612-2949-4373-a566-ff6f3f474613)
+
+## WinISO patch
+
+~~[FlyOOBE - FlyOOBE](https://flyoobe.net/)~~ unofficial mirror
+[builtbybel/FlyOOBE: Fly through your Windows 11 setup 🐝](https://github.com/builtbybel/Flyoobe)
+[Ditching Windows 10? Here's how I installed Windows 11, removed AI, and stripped out unnecessary features using Flyoobe | Tom's Hardware](https://www.tomshardware.com/software/windows/ditching-windows-10-heres-how-i-installed-windows-11-removed-ai-and-stripped-out-unnecessary-options-using-flyoobe)
+
+[ntdevlabs/nano11: Script to build possibly the most trimmed-down Windows 11 experience.](https://github.com/ntdevlabs/nano11/)
 
 ## Windows 11
 
@@ -1021,8 +1030,14 @@ winmerge
 
 [webinstall.dev](https://webinstall.dev/)
 
+Binaries are installed into `~/.local/opt/`
+
 ```powershell
 curl.exe -A "MS" https://webinstall.dev/webi | powershell
+
+webi node
+webi go+++
+
 ```
 
 ### WinGet
@@ -1093,6 +1108,7 @@ Or toggle setting in "App execution aliases"
 If you do get stuck on the "need to connect to the internet" Windows 11 install page, hit Shift + F10, click the command window, type `start ms-cxh:localonly`, and hit enter.
 
 [How to create bootable USB drive for Windows 11 with Rufus (2025) - Pureinfotech](https://pureinfotech.com/rufus-create-bootable-windows-11-usb/)
+[Windows 11 25H2 後替代 bypassnro的新指令](https://vocus.cc/article/67ebbdc9fd89780001ec5ab3)
 
 [How To Setup Windows 10 Without a Microsoft Account](https://helpdeskgeek.com/windows-10/how-to-setup-windows-10-without-a-microsoft-account/)
 [How To Setup Windows 10 WITHOUT a Microsoft Account in 2020! - YouTube](https://www.youtube.com/watch?v=P9oquwkVkpM) unplug network and reload page

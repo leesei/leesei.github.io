@@ -2,7 +2,7 @@
 title: Aurelia
 description: ""
 created: 2016-05-10
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - aurelia
   - frontend

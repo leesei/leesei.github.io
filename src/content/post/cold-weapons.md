@@ -2,7 +2,7 @@
 title: Cold Weapons
 description: ""
 created: 2015-10-09
-updated: 2025-08-27
+updated: 2025-10-19
 tags:
   - weapons
 ---
@@ -55,6 +55,13 @@ tags:
 [世紀帝國真人版：一場被遺忘的史詩級青銅器大戰 - PanSci 泛科學](https://pansci.asia/archives/99489)
 [Fight Scene Autopsy - YouTube](https://www.youtube.com/playlist?list=PLWklwxMTl4sy0FAFOuGF-2jVV9K8nnFRs) Shadiversity
 [(R)Evolutions of Warfare - YouTube](https://www.youtube.com/playlist?list=PL4VoyER2bxcTY_74KpNHDdI3ME8atrylw) SandRhoman History
+
+## Medieval Europe
+
+Spear
+Pike: great vs horses
+Halberds: great vs armored troops
+[Why did Medieval Soldiers use HALBERDS? - YouTube](https://www.youtube.com/watch?v=SJ1MNlyS7po)
 
 ## 中國
 
@@ -119,6 +126,7 @@ tags:
 [Medieval castle SIEGES in depth - YouTube](https://www.youtube.com/watch?v=Bc2o9mknM-Y)
 [Eastern vs Western Siegecraft: When the Chinese Besieged a Russian Star Fortress in 1686 - YouTube](https://www.youtube.com/watch?v=7DcUVcvpV0E)
 [Hey kid... Wanna Siege a Castle? - YouTube](https://www.youtube.com/watch?v=GZ1-BtL6j14)
+[The Genius Design of Medieval Castles - YouTube](https://www.youtube.com/watch?v=4WlpTvmzwrk)
 
 [古代守城兵爲何不推倒梯子？不是不想而是不能，別被影視劇騙了！ - YouTube](https://www.youtube.com/watch?v=JwG9bOxG438)
 [【不止遊戲】遊戲和電影出現的攻城器械，究竟是如何攻破城牆防禦的？ - YouTube](https://www.youtube.com/watch?v=AnM2If-BbmE)

@@ -2,7 +2,7 @@
 title: Distributed Computing
 description: ""
 created: 2016-09-21
-updated: 2025-07-17
+updated: 2025-10-10
 tags:
   - web
 ---

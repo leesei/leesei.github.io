@@ -2,7 +2,7 @@
 title: Python settings
 description: ""
 created: 2014-12-11
-updated: 2025-08-17
+updated: 2025-10-10
 tags:
   - comp/lang
   - package-manager

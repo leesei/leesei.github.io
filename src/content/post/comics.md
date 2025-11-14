@@ -2,7 +2,7 @@
 title: Comics
 description: ""
 created: 2015-04-24
-updated: 2025-09-09
+updated: 2025-10-10
 tags:
   - comics
 ---

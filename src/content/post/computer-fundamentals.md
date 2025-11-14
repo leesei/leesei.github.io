@@ -2,7 +2,7 @@
 title: Computer Fundamentals
 description: ""
 created: 2023-04-14
-updated: 2025-09-23
+updated: 2025-10-10
 tags:
   - comp/fundamental
   - comp/hardware

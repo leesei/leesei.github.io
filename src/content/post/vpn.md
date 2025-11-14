@@ -2,7 +2,7 @@
 title: VPN
 description: ""
 created: 2023-04-14
-updated: 2025-09-29
+updated: 2025-10-10
 tags:
   - comp/network
 ---

@@ -2,7 +2,7 @@
 title: Shell Tools
 description: ""
 created: 2015-01-14
-updated: 2025-09-23
+updated: 2025-10-10
 tags:
   - app
   - cpio

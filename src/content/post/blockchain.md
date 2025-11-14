@@ -2,7 +2,7 @@
 title: Blockchain
 description: ""
 created: 2017-08-18
-updated: 2025-10-10
+updated: 2025-11-10
 tags:
   - blockchain
   - crypto
@@ -264,7 +264,19 @@ sarcasm
 
 [Govern better, together. Build your DAO now.](https://aragon.org/)
 
-## Wallet/Decentralized ID (DID)
+## Wallet
+
+[MetaMask: The Leading Crypto Wallet Platform, Blockchain Wallet](https://metamask.io/)
+[Tutorial: How to set up an Ethereum wallet on MetaMask | CodeHS](https://codehs.com/tutorial/jkeesh/how-to-set-up-an-ethereum-wallet-on-metamask)
+
+[The Ultimate Guide to Bitcoin Wallets, Seeds, Private Keys, Public Keys, and Addresses](https://bitcoinbriefly.com/ultimate-guide-to-bitcoin-wallets-seeds-private-keys-public-keys-and-addresses/)
+[Public Key ≠ Wallet Address (Beginner's Guide) : r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/comments/pnqgwt/public_key_wallet_address_beginners_guide/)
+[How does a wallet get the public key from an address? - Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/questions/89569/how-does-a-wallet-get-the-public-key-from-an-address)
+[Wallet Address, Public & Private Keys Explained | Blocktrade](https://blocktrade.com/wallet-addresses-public-and-private-keys-explained/)
+[Reducing the Risks of Using Blockchain Private and Public Keys](https://web.archive.org/web/20220928201108/https://www.indexuniverse.eu/accounts-addresses-public-and-private-keys-and-tokens/)
+[Create full Ethereum wallet, keypair and address](https://web.archive.org/web/20251104100204/https://kobl.one/blog/create-full-ethereum-keypair-and-address/)
+
+## Decentralized ID (DID)
 
 [Decentralized identifier - Wikiwand](https://www.wikiwand.com/en/Decentralized_identifier)
 [Decentralized Identifiers (DIDs) v1.0](https://www.w3.org/TR/did-core/)

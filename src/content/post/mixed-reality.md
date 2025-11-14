@@ -2,7 +2,7 @@
 title: Mixed Reality
 description: ""
 created: 2015-07-14
-updated: 2025-09-23
+updated: 2025-11-13
 tags:
   - augmented-reality
   - comp/hardware
@@ -240,6 +240,10 @@ Integrated spacial 3Dof processor
 [XREAL - Building Augmented Reality for Everyone](https://www.xreal.com/one/)
 [XREAL One 體驗：這回全給你縫完了！AR眼鏡完全體！一鍵賽博！｜大狸子切切裡 - YouTube](https://www.youtube.com/watch?v=HGMqScJv114)
 [「花生」当我尝试把手机戴在头上，发现XREAL One是真的牛 - YouTube](https://www.youtube.com/watch?v=OphM9sci_i0)
+
+## Valve Frame
+
+[Every Other VR Headset is Obsolete Now - Steam Frame First Look - YouTube](https://www.youtube.com/watch?v=dU3ru09HTng)
 
 # Second Gen Headsets
 

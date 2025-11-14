@@ -2,7 +2,7 @@
 title: Portable Document Format (PDF)
 description: ""
 created: 2018-10-27
-updated: 2025-09-23
+updated: 2025-11-07
 tags:
   - business
   - desktop
@@ -25,6 +25,11 @@ PDF 簽署 <https://sign.new>
 [Documenso - The Open Source DocuSign Alternative](https://documenso.com/)
 [documenso/documenso at catalins.tech](https://github.com/documenso/documenso?ref=catalins.tech)
 
+## PDF/A
+
+[PDF/A File Format - What is a PDF/A file? | Adobe](https://www.adobe.com/uk/acrobat/resources/document-files/pdf-types/pdf-a.html)
+[PDF vs PDF/A: differences and ways to convert](https://www.onlyoffice.com/blog/2024/03/pdf-vs-pdfa)
+
 ## Viewers
 
 [Free PDF Reader - Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) Windows
@@ -43,6 +48,7 @@ PDF 簽署 <https://sign.new>
 
 [PDFgear - Free PDF Editor Software & Online tools](https://www.pdfgear.com/)
 [This Free App Is a Game Changer for PDFs on Windows](https://www.makeuseof.com/this-free-pdf-app-game-changer-on-windows/)
+[PDFgear - Download and install on Windows | Microsoft Store](https://apps.microsoft.com/detail/xpdlnj2fwvcxr1?hl=en-US&gl=HK)
 
 [FlexiPDF | The GDPR-compliant PDF editor alternative to Acrobat](https://www.softmaker.com/en/products/flexipdf) Windows
 

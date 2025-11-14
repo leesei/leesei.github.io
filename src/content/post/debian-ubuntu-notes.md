@@ -2,7 +2,7 @@
 title: Debian/Ubuntu notes
 description: ""
 created: 2014-12-08
-updated: 2025-07-30
+updated: 2025-10-10
 tags:
   - debian
   - desktop

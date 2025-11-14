@@ -2,7 +2,7 @@
 title: Java
 description: ""
 created: 2016-03-04
-updated: 2025-08-24
+updated: 2025-10-10
 tags:
   - clojure
   - comp/lang

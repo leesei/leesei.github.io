@@ -2,7 +2,7 @@
 title: Serialization
 description: ""
 created: 2020-03-27
-updated: 2025-09-23
+updated: 2025-10-10
 tags:
   - comp/lang
 ---

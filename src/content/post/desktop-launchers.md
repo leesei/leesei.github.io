@@ -2,7 +2,7 @@
 title: Desktop Launchers
 description: ""
 created: 2024-01-19
-updated: 2025-09-04
+updated: 2025-10-10
 tags:
   - albert
   - app

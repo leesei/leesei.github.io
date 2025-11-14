@@ -2,7 +2,7 @@
 title: Internet of things
 description: ""
 created: 2018-06-12
-updated: 2025-09-23
+updated: 2025-10-10
 tags:
   - iot
   - maker

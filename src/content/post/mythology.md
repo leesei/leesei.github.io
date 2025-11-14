@@ -2,7 +2,7 @@
 title: Mythology
 description: ""
 created: 2015-08-01
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - trivia
 ---

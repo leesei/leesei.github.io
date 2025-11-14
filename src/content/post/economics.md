@@ -2,7 +2,7 @@
 title: Economics
 description: ""
 created: 2016-09-24
-updated: 2025-09-22
+updated: 2025-10-10
 tags:
   - economics
 ---

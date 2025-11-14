@@ -2,7 +2,7 @@
 title: Computer Hardware
 description: ""
 created: 2016-09-27
-updated: 2025-09-08
+updated: 2025-10-10
 tags:
   - comp/hardware
 ---

@@ -2,7 +2,7 @@
 title: macOS
 description: ""
 created: 2016-01-03
-updated: 2025-08-17
+updated: 2025-10-10
 tags:
   - app
   - bootcamp

@@ -2,7 +2,7 @@
 title: Build Systems
 description: ""
 created: 2015-06-11
-updated: 2025-08-13
+updated: 2025-10-10
 tags:
   - bazel
   - buck

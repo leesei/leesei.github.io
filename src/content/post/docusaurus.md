@@ -2,7 +2,7 @@
 title: Docusaurus
 description: ""
 created: 2023-02-28
-updated: 2025-01-09
+updated: 2025-10-14
 tags:
   - static-site
   - web
@@ -47,7 +47,7 @@ Variables in MDX: `frontMatter`, `metadata`
 [Awesome Resources | Docusaurus](https://docusaurus.io/community/resources)
 [webbertakken/awesome-docusaurus: A curated list of awesome Docusaurus resources.](https://github.com/webbertakken/awesome-docusaurus)
 
-[kohheepeace/mr-pdf: Generate PDF for document website.](https://github.com/kohheepeace/mr-pdf)
+[vaggeliskls/docusaurus-to-pdf: This repository allows you to generate a PDF from a Docusaurus documentation URL using Docker or a GitHub Actions workflow.](https://github.com/vaggeliskls/docusaurus-to-pdf)
 
 [📦 plugin-content-docs | Docusaurus](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs)
 [📦 plugin-content-blog | Docusaurus](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog)

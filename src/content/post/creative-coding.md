@@ -2,7 +2,7 @@
 title: Creative Coding
 description: ""
 created: 2016-04-08
-updated: 2025-10-06
+updated: 2025-10-10
 tags:
   - web
 ---

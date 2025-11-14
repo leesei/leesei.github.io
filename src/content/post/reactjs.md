@@ -2,7 +2,7 @@
 title: React.js
 description: The library for web and native user interfaces
 created: 2015-12-04
-updated: 2025-08-19
+updated: 2025-10-10
 tags:
   - frontend
   - javascript

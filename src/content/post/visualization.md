@@ -2,7 +2,7 @@
 title: Data Visualization
 description: ""
 created: 2016-04-08
-updated: 2025-09-23
+updated: 2025-10-27
 tags:
   - big-data
   - visualization
@@ -39,8 +39,7 @@ tags:
 
 [Top 5 Data Visualization Libraries You Should Know in 2025 - DEV Community](https://dev.to/burcs/top-5-data-visualization-libraries-you-should-know-in-2025-21k9) JavaScript
 
-[39 studies about human perception in 30 minutes — Medium](https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73#.j5im2oxbz)
-[Introducing the Snail Chart - Nightingale - Medium](https://medium.com/nightingale/yet-another-alternative-for-bar-charts-introducing-the-snail-chart-4fe69b938594)
+[39 studies about human perception in 30 minutes | by kennedy elliott | Medium](https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73)
 
 ## Book
 
@@ -158,8 +157,7 @@ Server-client architecture, with Python, JS, Scala, R clients
 
 [Seaborn: statistical data visualization](https://seaborn.pydata.org/) abstraction layer using Long Form on top of Matplotlib
 [Seaborn Tutorial - Tutorialspoint](https://www.tutorialspoint.com/seaborn/index.htm)
-[Visual Storytelling with Seaborn - The Startup - Medium](https://medium.com/swlh/visual-storytelling-with-seaborn-28dc548dbc4b)
-[Handy Data Visualization Functions in matplotlib & Seaborn to Speed Up Your EDA](https://medium.com/better-programming/handy-data-visualization-functions-in-matplotlib-seaborn-to-speed-up-your-eda-241ba0a9c47d)
+[A Complete Guide to Seaborn - KDnuggets](https://www.kdnuggets.com/a-complete-guide-to-seaborn)
 [Data visualization made simple in Python with Seaborn | Opensource.com](https://opensource.com/article/20/5/seaborn-python)
 
 [Plotting real-time data from Arduino using Python | HalfaGeek](https://importgeek.wordpress.com/2013/06/24/plotting-real-time-data-from-arduino-using-python/)
@@ -168,7 +166,7 @@ Server-client architecture, with Python, JS, Scala, R clients
 [Visualization with Matplotlib | Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html)
 [Visualization — pandas documentation](https://pandas.pydata.org/pandas-docs/stable/visualization.html)
 [Simple Graphing with IPython and Pandas - Practical Business Python](http://pbpython.com/simple-graphing-pandas.html)
-[A Comprehensive Guide To Visualizing and Analyzing DICOM Images in Python](https://medium.com/@hengloose/a-comprehensive-starter-guide-to-visualizing-and-analyzing-dicom-images-in-python-7a8430fcb7ed)
+[A Comprehensive Guide To Visualizing and Analyzing DICOM Images in Python | by Franklin Heng | Medium](https://hengloose.medium.com/a-comprehensive-starter-guide-to-visualizing-and-analyzing-dicom-images-in-python-7a8430fcb7ed)
 
 [python - How to make IPython notebook matplotlib plot inline - Stack Overflow](https://stackoverflow.com/questions/19410042/how-to-make-ipython-notebook-matplotlib-plot-inline)
 [python - matplotlib hooking in to home/back/forward button events - Stack Overflow](https://stackoverflow.com/questions/14896580/matplotlib-hooking-in-to-home-back-forward-button-events)

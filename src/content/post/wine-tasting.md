@@ -2,12 +2,19 @@
 title: Wine Tasting
 description: ""
 created: 2016-09-22
-updated: 2025-01-09
+updated: 2025-10-21
 tags:
   - trivia
 ---
 
 [What Wine Experts Mean - YouTube](https://www.youtube.com/watch?v=ELo8dfmfXr4)
+
+[Whiskey vs. Brandy: What’s the difference? - YouTube](https://www.youtube.com/watch?v=hOH6xsOGjaA)
+Whiskey: distilled grains wine, aged
+Brandy: distilled fruits wine, aged or unaged
+[Rum vs. Brandy: What’s the Real Difference? - YouTube](https://www.youtube.com/watch?v=B2rAFYByzj4)
+Run: distilled molasses wine, aged or unaged
+[Vodka vs Gin: What’s the Real Difference? - YouTube](https://www.youtube.com/watch?v=sYA0S-9aIic)
 
 ## Grapes Wine
 

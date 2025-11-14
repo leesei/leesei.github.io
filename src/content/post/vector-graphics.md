@@ -2,7 +2,7 @@
 title: Vector Graphics
 description: ""
 created: 2015-05-20
-updated: 2025-07-07
+updated: 2025-10-10
 tags:
   - app
   - graphics

@@ -2,7 +2,7 @@
 title: Presentation
 description: ""
 created: 2016-04-24
-updated: 2025-09-25
+updated: 2025-10-17
 tags:
   - business
 ---
@@ -34,6 +34,7 @@ The Genard Method
 [The Best Way To Prepare And Practice Your Presentations](https://www.genardmethod.com/blog/the-best-way-to-prepare-and-practice-your-presentations)
 [What Should Your Opening and Closing PowerPoint Slides Show?](https://www.genardmethod.com/blog/what-should-your-opening-and-closing-powerpoint-slides-show)
 [5 Ways to Be More Effective When You Speak to Leaders](https://www.genardmethod.com/blog/5-ways-to-be-more-effective-when-you-speak-to-leaders)
+[9 Positive Character Traits You Should Show Whenever You Speak](https://www.genardmethod.com/blog/9-positive-character-traits-you-should-show-whenever-you-speak)
 
 [Preparing for a Tech Talk, Part 1: Motivation — Overreacted](https://overreacted.io/preparing-for-tech-talk-part-1-motivation/)
 [Preparing for a Tech Talk, Part 2: What, Why, and How — Overreacted](https://overreacted.io/preparing-for-tech-talk-part-2-what-why-and-how/)

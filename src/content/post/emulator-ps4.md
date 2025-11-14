@@ -2,7 +2,7 @@
 title: PlayStation 4 Emulator
 description: ""
 created: 2024-08-20
-updated: 2025-07-07
+updated: 2025-11-04
 tags:
   - emulator
   - games
@@ -58,5 +58,5 @@ Spider-Man
 Spider-Man 2
 Spider-Man: Miles Morales
 The Last Guardian
-The Order 1886
+The Order: 1886
 Uncharted: The Nathan Drake Collection (1-3)
