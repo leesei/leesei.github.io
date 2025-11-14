@@ -2,3 +2,5 @@
 . "$(dirname -- "$0")/_/husky.sh"
 
 npx lint-staged
+# using my frontmatter-edit tool instead of this script
+# ./scripts/update-updated.sh
