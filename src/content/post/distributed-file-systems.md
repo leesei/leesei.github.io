@@ -2,7 +2,7 @@
 title: Distributed File Systems
 description: ""
 created: 2015-05-20
-updated: 2025-10-10
+updated: 2025-11-18
 tags:
   - file-system
   - linux
@@ -208,9 +208,11 @@ White papers:
 
 > sponsored by [Protocol Labs](https://protocol.ai/)
 
-[IPFS is the Distributed Web](https://ipfs.io/)
+[IPFS: Building blocks for a better web | IPFS](https://ipfs.tech/)
+[IPFS is the Distributed Web](https://ipfs.io/) gateway to files on IPFS
 [How To Get Started With IPFS and Node - Better Programming - Medium](https://medium.com/better-programming/how-to-get-started-with-ipfs-and-node-fa04baec6b3a)
 [Guide to IPFS garbage collection - LogRocket Blog](https://blog.logrocket.com/guide-ipfs-garbage-collection/)
+[IPFS quickstart | MetaMask developer documentation](https://docs.metamask.io/services/reference/ipfs/quickstart)
 [The IPFS Protocol Explained with Examples - Welcome to the Decentralized Web - YouTube](https://www.youtube.com/watch?v=PlvMGpQnqOM)
 [Measuring the Web3.0 Stack - YouTube](https://www.youtube.com/watch?v=yylsaXz00_g)
 
@@ -226,6 +228,10 @@ Cloudflare
 IPFS-based database
 [Home – OrbitDB](https://orbitdb.org/)
 [ThreadDB | Documentation | Textile](https://docs.textile.io/threads/)
+
+An NFT's `tokenURI`
+[QmeSjSinHpPnmXmspMjwiXyN6zS4E9zccariGR3jxcaWtq/142](https://ipfs.io/ipfs/QmeSjSinHpPnmXmspMjwiXyN6zS4E9zccariGR3jxcaWtq/142)
+[QmW27otjkNogcd4ic9hQFeg4Yd91pS3ZF8vExt5dgfVpA2 (631×631)](https://ipfs.io/ipfs/QmW27otjkNogcd4ic9hQFeg4Yd91pS3ZF8vExt5dgfVpA2)
 
 ## FileCoin
 

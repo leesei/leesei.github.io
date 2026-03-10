@@ -2,7 +2,7 @@
 title: Monster Hunter Rise
 description: ""
 created: 2020-01-16
-updated: 2025-10-10
+updated: 2026-01-13
 tags:
   - games
   - mhr
@@ -124,7 +124,7 @@ Assassin 月
 [第七話-狩獵笛｜最強笛子意想不到是這兩把！該如何選擇自己最強的那套？｜ Sky【魔物獵人崛起 MH Rise】 - YouTube](https://www.youtube.com/watch?v=_lu5dufpKL4)
 
 [魔物獵人 崛起 (Monster Hunter Rise) 輕弩強度及特點分析 | 娛樂計程車](https://www.entertainment14.net/blog/post/110971274-%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA-%E5%B4%9B%E8%B5%B7-monster-hunter-rise-%E8%BC%95%E5%BC%A9%E5%BC%B7%E5%BA%A6%E5%8F%8A%E7%89%B9%E9%BB%9E%E5%88%86%E6%9E%90)
-[【心得】靠反動與裝填速起死回生ー Rise 輕弩現況(已更新屬性彈與無視肉質彈) @魔物獵人 哈啦板 - 巴哈姆特](https://m.gamer.com.tw/forum/C.php?bsn=05786&snA=160101&bpage=2&ltype=) !important
+[【心得】靠反動與裝填速起死回生ー Rise 輕弩現況(已更新屬性彈與無視肉質彈) @魔物獵人 哈啦板 - 巴哈姆特](https://m.gamer.com.tw/forum/C.php?bsn=05786&snA=160101&bpage=2&ltype=) ❗!important
 [第六話-輕弩｜高效率刷取護石素材．壹型．貫通神兵｜尾王 07"23 ｜ Sky【魔物獵人崛起 MH Rise】 - YouTube](https://www.youtube.com/watch?v=n6acEdCeX8o)
 
 [【心得】MH RISE 弓箭 全應用&操作 (已更新 2021/4/08) @魔物獵人 哈啦板 - 巴哈姆特](https://m.gamer.com.tw/forum/C.php?bsn=5786&page=&snA=160296&last=)

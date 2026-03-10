@@ -2,7 +2,7 @@
 title: Learning
 description: ""
 created: 2018-07-10
-updated: 2025-10-22
+updated: 2026-01-16
 tags:
   - learning
 featured: true
@@ -19,8 +19,9 @@ See [[second-brain]] on how to record your knowledge
 "First-principal thinking is required to break out of iterative improvements and make order of magnitude improvements" - Simon Eskildsen
 Do learn from first-principal
 
-[Phind - The AI search engine for developers.](https://www.phind.com/) it seems to have less hallucinations
+[Phind - The AI search engine for developers.](https://www.phind.com/)
 [Learn Anything](https://learn-anything.xyz/)
+[Home | Opinionated Guides](https://opguides.info/)
 [How To Get Motivated According To Behavioral Psychology](https://hackernoon.com/how-to-get-motivated-43d3d70a95d4)
 [Efficient Learning for Developers Tips and Strategies - Tav Herzlich - NDC Oslo 2023 - YouTube](https://www.youtube.com/watch?v=msNjvbKlWRE) half life for developer's knowledge: 2-3 years
 [Learning Is a Learned Behavior. Here’s How to Get Better at It.](https://getpocket.com/explore/item/learning-is-a-learned-behavior-here-s-how-to-get-better-at-it)

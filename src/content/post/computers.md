@@ -2,7 +2,7 @@
 title: Computers
 description: ""
 created: 2016-10-18
-updated: 2025-10-10
+updated: 2026-02-03
 tags:
   - comp/hardware
 ---
@@ -92,11 +92,13 @@ https://www.userbenchmark.com/UserRun/59459570 after RAM change
 
 ## Acer Swift Edge 16
 
+> the screen detached from A panel and shows artifacts
+
 - 2024-06
 - 1.17kg
 - SFE16-42-R533
 - AMD Ryzen 7 7735U Zen3+ 8C16T
-- Hynix 4x4GB (H9JCNNNCP3MLYR-N6E) LPDDR5 6400MHz (soldered)
+- SK Hynix 4x4GB (H9JCNNNCP3MLYR-N6E) LPDDR5 6400MT (soldered)
 - 1TB PCEe Gen 4 NVMe SSD (Micron 3400 1TB MTFDKBA1T0TFH?)
 - AMD Radeon 680M
 - 16" 3840x2400 16:10 60Hz OLED 400nits 100% sRGB 100% DCI-P3
@@ -105,6 +107,27 @@ https://www.userbenchmark.com/UserRun/59459570 after RAM change
 - USB Type-C 65W: 20V/3.25A, 15V/3A, 9V/3A, 5V/3
 
 [Acer Swift Edge SFE16 review - A lightweight 16-inch laptop with AMD power and an OLED display - NotebookCheck.net Reviews](https://www.notebookcheck.net/Acer-Swift-Edge-SFE16-review-A-lightweight-16-inch-laptop-with-AMD-power-and-an-OLED-display.726861.0.html)
+
+[Product Support - SFE16-42 | Acer Hong Kong](https://www.acer.com/hk-en/support/product-support/SFE16-42/downloads)
+
+## Lenovo Thinkpad Carbon Gen 10
+
+- 2022
+- 1.12kg
+- Intel Core i5-1245U 2P+8E Alder Lake (4.4GHz/3.3GHz)
+- SK Hynix 8x4GB (H9JCNNNFA5MLYR-N6E) LPDDR5 6400MT@5200MT (soldered)
+- Intel® Iris® Xe Graphics Alder Lake GT2
+- Samsung 970 EVO Plus 1TB (PCIe 3x4, Samsung 96L TLC 600TBW, 3500R/3300W, 1GB DDR4 RAM)
+- 14" 1920x1200 Touch 400 nits
+- Intel AX211 Wi-Fi 6E 160MHz
+- 57Wh Battery
+- USB-C 65W charging
+
+Install Lenovo Vantage from Microsoft Store to update drivers
+
+[laptops and netbooks :: thinkpad x series laptops :: thinkpad x1 carbon 10th gen type 21cb 21cccontentdetail - Lenovo Support US | Drivers & Software](https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/thinkpad-x-series-laptops/thinkpad-x1-carbon-10th-gen-type-21cb-21cc/downloads/driver-list)
+
+[Lenovo ThinkPad X1 Carbon Gen 10 Disassembly SSD Upgrade Battery LCD Screen Replacement Repair - YouTube](https://www.youtube.com/watch?v=N6VG2L5dOgo)
 
 ## Intel NUC (NUC8BEK)
 
@@ -126,13 +149,13 @@ https://www.userbenchmark.com/UserRun/59459570 after RAM change
 
 - 2024-04
 - 1.32kg (52Wh, 4 cells)
-- Intel Core i7-1355U 2P+8E (5GHz/3.7GHz)
-- 2x8GB 5600MT DDR5
+- Intel Core i7-1355U 2P+8E Raptor Lake (5GHz/3.7GHz)
+- 2x8GB 5600MT DDR5 soldered
 - SAMSUNG MZVL4512HBLU-00BLL 512GB
 - Intel UHD Graphics Raptor Lake-P/U GT2
 - 14" 1920x1200 IPS 300nits 45%NTSC
 - Intel Wi-Fi 6E AX211 160MHz
-- USB Type-C 65W: 20V/3.25A, 15V/3A, 9V/2A, 5V/2A
+- Type-C 65W: 20V/3.25A, 15V/3A, 9V/2A, 5V/2A
 
 ## Minisforum Venus UM790 Pro (Work PC)
 
@@ -147,21 +170,7 @@ https://www.userbenchmark.com/UserRun/59459570 after RAM change
 - Dell P2722H 27" 1920x1080 16:9 IPS
 - Dell U2415 24.1" 1920x1080 16:9 IPS
 
-## Minisforum EliteMini HM90 (Work PC)
-
-- 2021
-- AMD Ryzen™ 9 4900H 8C16T 3.3GHz
-- 2x8G Kingston CBD32D4S2S1MF-8 3200MT DDR4
-- AMD Radeon™ Graphics Vega 8
-- Kingston OM8PDP3512B-A01 512G (PCIe 3x4)
-- Intel® Wi-Fi 6 AX201 802.11ax (2x2) and Bluetooth® 5.1
-
-[AMD-Vi: Event logged Error / Newbie Corner / Arch Linux Forums](https://bbs.archlinux.org/viewtopic.php?id=167838)
-
-- install `amd-ucode`
-- disable IOMMU in bios
-
-## Lenovo X1 Extreme Gen 3 (Work Laptop)
+## Lenovo Thinkpad X1 Extreme Gen 3 (Work Laptop)
 
 - 2021
 - 1.8kg
@@ -290,7 +299,7 @@ Philips 190S7FB 19" 1280x1024 5:4 TN $1990@2006-04
 - GTR case
 - built in 2015, GPU upgraded 2017
 
-mother board dead, probably during case change
+motherboard dead, probably during case change
 
 ## Lenovo ThinkPad X260 (Old Work IT Laptop)
 
@@ -331,7 +340,7 @@ mother board dead, probably during case change
 ## ~~Lenovo ThinkPad X1 Carbon Gen 7~~
 
 > sometimes fails to detect the battery, see reconnect fix below
-> died after three years of use 😭
+> power circuit died after three years of use 😭
 
 [ThinkPad,ThinkPad X1 Carbon (7th Gen),Model:20R1001BHH](http://psref.lenovo.com/Detail/ThinkPad/ThinkPad_X1_Carbon_7th_Gen?M=20R1001BHH)
 
@@ -358,7 +367,11 @@ mother board dead, probably during case change
 
 [How to Battery Replacement Lenovo ThinkPad X1 Carbon 7th Generation disassembly - YouTube](https://www.youtube.com/watch?v=3giljS-od8Y)
 [Lenovo X1 Carbon Battery Replacement - YouTube](https://www.youtube.com/watch?v=uHOjWRQ_cUY)
+[Lenovo Thinkpad X1 Carbon - Battery Replacement - YouTube](https://www.youtube.com/watch?v=ic6nqacxd9o)
+
 [X1-Carbon-7th-Gen-Battery-Not-Detected-error-msg - English Community - LENOVO COMMUNITY](https://forums.lenovo.com/t5/ThinkPad-X-Series-Laptops/X1-Carbon-7th-Gen-Battery-Not-Detected-error-msg/m-p/5010935?page=4#5383575)
+[ThinkPad: X Series Laptops-Lenovo Community](https://forums.lenovo.com/t5/ThinkPad-X-Series-Laptops/Battery-Not-Detected-2019-Thinkpad-X1-Carbon-7th-Gen-20QD/m-p/5010935)
+[power management - Lenovo X1 Thinkpad battery not charging in 17.04 - Ask Ubuntu](https://askubuntu.com/questions/980490/lenovo-x1-thinkpad-battery-not-charging-in-17-04)
 
 [ThinkPad X1 Carbon (2nd and 3rd Gen) - Wireless LAN Card Replacement - YouTube](https://www.youtube.com/watch?v=JLpFcDEIPE8)
 

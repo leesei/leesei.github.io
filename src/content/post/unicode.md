@@ -2,7 +2,7 @@
 title: Unicode
 description: ""
 created: 2015-06-05
-updated: 2025-11-03
+updated: 2026-01-13
 tags:
   - comp/lang
   - emoji
@@ -32,7 +32,7 @@ In ASCII days, code pages define what the top half of ASCII represents. It is so
 <kbd>Alt</kbd> + `Code point` to input unicode character
 
 [Programming with Unicode — Programming with Unicode](https://unicodebook.readthedocs.io/index.html) ❗!important
-[The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!) – Joel on Software](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) !important
+[The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!) – Joel on Software](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) ❗!important
 [What every JavaScript developer should know about Unicode](https://dmitripavlutin.com/what-every-javascript-developer-should-know-about-unicode/)
 [Legacy Character Models and an Introduction to Unicode - Slide list](https://www.cip.ifi.lmu.de/~bolzer/unicode_intro/slides/Overview-5.html)
 

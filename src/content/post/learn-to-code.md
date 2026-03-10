@@ -2,7 +2,7 @@
 title: Learn to code
 description: Learn how to code
 created: 2014-12-08
-updated: 2025-10-10
+updated: 2026-02-26
 tags:
   - comp/lang
   - learning
@@ -39,6 +39,7 @@ tags:
 
 [Developer Roadmaps - roadmap.sh](https://roadmap.sh/)
 [kamranahmedse/developer-roadmap: Interactive roadmaps, guides and other educational content to help developers grow in their careers.](https://github.com/kamranahmedse/developer-roadmap)
+[Hacker Laws](https://hacker-laws.com/)
 
 [Programming Languages To Learn In 2020 To Boost Your Career As A Software Developer - DEV Community 👩‍💻👨‍💻](https://dev.to/zaiste/programming-languages-to-learn-in-2020-to-boost-your-career-as-a-software-developer-56ll)
 [Best GitHub learning repositories for developers](https://analyticsindiamag.com/best-github-learning-repositories-for-developers/)
@@ -390,11 +391,27 @@ I also have bundles in Fanatical and Humble Bundle
 
 ## Vibe Coding
 
-[Want to supercharge your vibe coding skills? Here are the best AI models developers can use to generate secure code | IT Pro](https://www.itpro.com/software/development/vibe-coding-best-ai-models-secure-code-generation)
+> [[github#Copilot]]
 
+[Want to supercharge your vibe coding skills? Here are the best AI models developers can use to generate secure code | IT Pro](https://www.itpro.com/software/development/vibe-coding-best-ai-models-secure-code-generation)
 [Humans do it better: study shows the limits of coding agents | heise online](https://www.heise.de/en/news/Humans-do-it-better-study-shows-the-limits-of-coding-agents-10628596.html)
+[5 AI-Assisted Coding Techniques Guaranteed to Save You Time - KDnuggets](https://www.kdnuggets.com/5-ai-assisted-coding-techniques-guaranteed-to-save-you-time)
+
+[How I code with AI right now - YouTube](https://www.youtube.com/watch?v=-g1yKRo5XtY) 2025-12 by Theo
+[You're falling behind. It's time to catch up. - YouTube](https://www.youtube.com/watch?v=Z9UxjmNF7b0) 2026-01, one off code that developers don't bother to code
+[Vibe Coding is For Senior Developers - YouTube](https://www.youtube.com/watch?v=5vp9ypOUgMw) 2026-01
+[Code Is Cheap Now. Software Isn’t. — Chris Gregori](https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt)
+[What happens now? - YouTube](https://www.youtube.com/watch?v=28z6OjsNsUk) 2026-01
+
+[Writing a good CLAUDE.md | HumanLayer Blog](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
+[affaan-m/everything-claude-code: Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.](https://github.com/affaan-m/everything-claude-code)
+
 [Vibe coding with GitHub Copilot: Agent mode and MCP support rolling out to all VS Code users - The GitHub Blog](https://github.blog/news-insights/product-news/github-copilot-agent-mode-activated/)
 [Vibe coding and the future of software development | InfoWorld](https://www.infoworld.com/article/4058076/vibe-coding-and-the-future-of-software-development.html)
+
+[OpenCode | The AI coding agent built for the terminal](https://opencode.ai/)
+[IDE | opencode](https://opencode.ai/docs/ide/)
+[Providers | opencode](https://opencode.ai/docs/providers/#directory)
 
 ## Tools
 
@@ -491,6 +508,9 @@ Used in many Go application for formatting output, e.g. `docker`, `kubectl`
 [Map of Computer Science - YouTube](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 [prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses)
 
+[CS-Notes 面试笔记](https://cyc2018.xyz/)
+[CyC2018/CS-Notes: :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计](https://github.com/CyC2018/CS-Notes/tree/master)
+
 [CS 242: Programming Languages, Fall 2019](https://stanford-cs242.github.io/f19/) with Rust
 
 [Computer Mathematics, AI and Functional Programming](https://www.infoq.com/presentations/ai-ml-functional-programming/)
@@ -571,6 +591,7 @@ Cause a contradiction if self-referencing
 [Software Architecture - The Difference Between Architecture and Design](https://codeburst.io/software-architecture-the-difference-between-architecture-and-design-7936abdd5830)
 [Software Design and Architecture | Coursera](https://www.coursera.org/specializations/software-design-architecture)
 [Minimum Viable Architecture • Randy Shoup • YOW! 2022 - YouTube](https://www.youtube.com/watch?v=9Q7GANXn02k)
+[程序员鱼皮 - YouTube](https://www.youtube.com/channel/UCpdhHoryE8hB6jb5hQROx4Q)
 
 [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 [The Rule of Three](http://blog.codinghorror.com/rule-of-three/)
@@ -874,6 +895,13 @@ Protocol to abstract editor from specific language.
 [Learning to code "Hello, World" in CURSED languages 😰 - YouTube](https://www.youtube.com/watch?v=ehbSTazdhbU)
 [The Perfect Programming Language - YouTube](https://www.youtube.com/watch?v=tDexugp8EmM)
 
+## Polyglot
+
+[Polyglot (computing) - Wikiwand](<https://www.wikiwand.com/en/articles/Polyglot_(computing)>)
+
+[EvanZhouDev/polycompiler: Merge Python and JS code into one file that can be run in both languages.](https://github.com/evanzhoudev/polycompiler)
+[this code runs in both JS and Python. - YouTube](https://www.youtube.com/watch?v=dbf9e7okjm8)
+
 ## Assembly
 
 [[reverse-engineering#Binary Analysis/Malware Analysis/Reverse Engineering]]
@@ -883,6 +911,8 @@ Protocol to abstract editor from specific language.
 [x86 calling conventions - Wikiwand](https://www.wikiwand.com/en/X86_calling_conventions)
 [Intel x86 Opcode Table and Reference](https://shell-storm.org/x86doc/)
 [Guide to x86 Assembly](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+
+[Architecture 1001: x86-64 Assembly | OpenSecurityTraining2](https://ost2.fyi/Arch1001)
 
 [Intel® 64 and IA-32 Architectures Software Developer Manuals](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
 

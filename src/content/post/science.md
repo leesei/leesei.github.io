@@ -2,7 +2,7 @@
 title: Science
 description: ""
 created: 2019-08-09
-updated: 2025-10-10
+updated: 2026-03-03
 tags:
   - science
 ---
@@ -61,7 +61,8 @@ tags:
 
 ### Mechanics
 
-[Lagrangian vs Newtonian Mechanics - YouTube](https://www.youtube.com/watch?v=_Hp11d1Z-78)
+[Lagrangian vs Newtonian Mechanics - YouTube](https://www.youtube.com/watch?v=_Hp11d1Z-78) Lagrangian formula contains the potential energies, scalers rather than the vector forces
+[What we learned from the 3-body problem - YouTube](https://www.youtube.com/watch?v=XKSjCOKDtpk&list=WL&index=4)
 [What is a Hilbert Space? - YouTube](https://www.youtube.com/watch?v=FFPXm-tuOt8)
 
 ## Standard Model
@@ -75,6 +76,8 @@ tags:
 [How To Read Feynman Diagrams - YouTube](https://www.youtube.com/watch?v=oBNZOOuqO6c)
 [Science Made Simple: What Is the Standard Model of Particle Physics?](https://scitechdaily.com/science-made-simple-what-is-the-standard-model-of-particle-physics/)
 Quantum Field Theory, unifies strong, weak, and EM forces; compatible with Quantum Mechanics and Special Relativity
+
+[Nuclear physics ⚛️#xacarose#info - YouTube](https://www.youtube.com/watch?v=SrTHtBLU4E0) colleague level
 
 [The Map of Particle Physics | The Standard Model Explained - YouTube](https://www.youtube.com/watch?v=mYcLuWHzfmE) Domain of Science
 [A New Map of All the Particles and Forces | Quanta Magazine](https://www.quantamagazine.org/a-new-map-of-the-standard-model-of-particle-physics-20201022/)
@@ -96,6 +99,8 @@ Ritz: particles with interaction acts across the gap
 Faraday: field only
 
 [Why Does Changing Just One Proton Change an Element? - YouTube](https://www.youtube.com/watch?v=-cXzWjJCWTI)
+
+[Something Weird Happens When E=-mc² - YouTube](https://www.youtube.com/watch?v=Y-W-w8yNiKU) anti-particles, Dirac's sea of positrons,
 
 [物理學已經出現一個難以跨越的禁區，導致物理學發展停滯不前！ - YouTube](https://www.youtube.com/watch?v=afOsKeRHNyg)
 [現代物理學烏雲系列 - YouTube](https://www.youtube.com/playlist?list=PL2_B1hyW9zTsW7d-Z0VhlwQydiVWlpYMP)

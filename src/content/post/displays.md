@@ -2,7 +2,7 @@
 title: Displays
 description: ""
 created: 2015-04-02
-updated: 2025-10-10
+updated: 2026-03-09
 tags:
   - comp/hardware
   - lcd
@@ -25,10 +25,11 @@ The term "TFT" only indicates that each pixel is controlled by an independent tr
 [【科技杂谈 76】【究极干货】显示器的历史 History of Display Technology - YouTube](https://www.youtube.com/watch?v=LLJ3BkLEL78)
 [从大头到纸片屏幕，显示器是如何发展至今的？【显示器发展史｜仿生之旅】 - YouTube](https://www.youtube.com/watch?v=nuJpDvl30-Q)
 [Advanced Guide on Interfacing with a Video Display](https://predictabledesigns.com/advanced-guide-on-interfacing-with-a-video-display/)
+[Every TV Screen Explained in 12 Minutes - YouTube](https://www.youtube.com/watch?v=EMg87BB4BoU)
+[How early computers TRICKED TVs into making color (out of nothing at all) - YouTube](https://www.youtube.com/watch?v=SqLJox6UQwg)
 
 [Display Calibration 101: Step-By-Step With Datacolor's Spyder4Elite | Tom's Hardware](https://www.tomshardware.com/reviews/spyder4-monitor-calibration-image-quality,3581.html)
 [Imaging Science And Monitor Calibration | Tom's Hardware](https://www.tomshardware.com/reviews/calibrate-your-monitor-theory,3615.html)
-[Display Testing Explained: How We Test PC Monitors | Tom's Hardware](https://www.tomshardware.com/reference/how-we-test-pc-monitors-benchmarking)
 
 [7 Things to Consider Before Using Your TV as a Monitor](https://www.makeuseof.com/things-to-consider-tv-as-monitor/)
 
@@ -155,6 +156,8 @@ P-IPS > H-IPS > S-IPS > AH-IPS > E-IPS
 [What Is the Difference Between QLED, OLED, and UHD? Which Is Best?](https://www.makeuseof.com/qled-vs-uhd-vs-oled/)
 [What Is Mini LED and Is It Better Than OLED?](https://www.makeuseof.com/is-mini-led-better-than-oled/)
 [Micro-LED vs. MiniLED: What's the Difference, & What Should You Buy?](https://www.makeuseof.com/micro-led-vs-miniled-whats-the-difference/)
+OLED has better Motion Picture Response Time (MPRT)
+MiniLED has worse color correctness, causing temperature to increase when displaying high contrast content
 
 硬件茶谈
 [【硬件科普】全网最简洁易懂的 OLED 与 LCD 屏幕工作原理与优劣科普 - YouTube](https://www.youtube.com/watch?v=gZriQjtABCk)
@@ -171,6 +174,7 @@ P-IPS > H-IPS > S-IPS > AH-IPS > E-IPS
 [Why is EVERYONE Buying this TV?? - YouTube](https://www.youtube.com/watch?v=5yuqcfp1xxI) 65"-75" is the mainstream in 2020
 [拿 4K 电视做电脑显示器用！显示器和电视到底有什么区别？！ - YouTube](https://www.youtube.com/watch?v=T-GjdJus-CI)
 [【Joeman】螢幕面板科普！LCD、OLED、Mini LED 優缺點分析！ - YouTube](https://www.youtube.com/watch?v=XFia3csKyWg)
+[【爱否】Mini LED 挑战 OLED，高端显示器要变天吗？ - YouTube](https://www.youtube.com/watch?v=2twzToXCCIQ)
 
 ### LG Nano IPS
 
@@ -197,6 +201,8 @@ And OLED's brightness is limited if the whole screen is bright in order not to d
 LG's WRGB LED used white LED and filter to achieve RGB colors in a pixel, and a white LED to compensate the brightness decrease caused by the filter
 Vendors will limit the brightness to make OLED last longer
 Masking methodology limits the size of OLED panel, this is solved by Quantum Dot (printing to PCB) and Photolithography
+
+OLED's luminance will be reduced when the content is bright (white screen) due to power limit and burn-in prevention, leading to ABL (Auto Brightness Limiter) feature which is more consistent but has lower peak brightness
 
 ### QDLED/QLED/QOLED
 

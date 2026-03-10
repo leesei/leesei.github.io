@@ -2,7 +2,7 @@
 title: Mobile Devices
 description: ""
 created: 2022-02-09
-updated: 2025-10-10
+updated: 2025-12-11
 tags:
   - comp/hardware
   - mobile
@@ -22,6 +22,11 @@ tags:
 [在手机上玩PC游戏！甚至能玩2077？彻底榨干8Gen3！ - YouTube](https://www.youtube.com/watch?v=OTgl6RaImjY)
 [我们用旧手机造出了一台终极游戏掌机！ - YouTube](https://www.youtube.com/watch?v=f4cKo1jFZG0)
 [手机运行黑神话悟空！我们用红魔10S Pro+体验了PC游戏 - YouTube](https://www.youtube.com/watch?v=goGCjAiKv3c)
+
+[Valve Is Putting Steam Games On Your Phone - YouTube](https://www.youtube.com/watch?v=qF42BVdWZLw)
+Proton: Windows emulation
+Fex: x86 translation to ARM
+Lapton: Android emulation
 
 ## Touch Screen
 

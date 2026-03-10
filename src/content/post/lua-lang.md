@@ -2,7 +2,7 @@
 title: Lua
 description: Embeddable scripting language
 created: 2016-03-22
-updated: 2025-10-10
+updated: 2026-01-13
 tags:
   - comp/lang
   - lua
@@ -126,7 +126,7 @@ LuaJIT is faster then v8. However it conforms only to [Lua 5.1](http://www.lua.o
 [L-Bia Home](http://l-bia.sourceforge.net/) but it says it doesn't do that
 [stevedonovan/luabuild: A highly customizable Lua 5.2 build system, allowing for common external modules to be linked in statically, and built-in modules to be excluded](https://github.com/stevedonovan/luabuild) http://lua-users.org/lists/lua-l/2012-04/msg00639.html
 
-[Luiz Henrique de Figueiredo: Libraries and tools for Lua](http://webserver2.tecgraf.puc-rio.br/~lhf/ftp/lua/) !important
+[Luiz Henrique de Figueiredo: Libraries and tools for Lua](http://webserver2.tecgraf.puc-rio.br/~lhf/ftp/lua/) ❗!important
 example of distributed Lua tools, srlua
 [JohnnyMorganz/StyLua: An opinionated Lua code formatter](https://github.com/JohnnyMorganz/StyLua)
 [Lua Toolbox](https://lua-toolbox.com/)

@@ -2,7 +2,7 @@
 title: Storage
 description: ""
 created: 2015-05-11
-updated: 2025-10-26
+updated: 2025-11-25
 tags:
   - comp/hardware
   - harddisk
@@ -136,6 +136,7 @@ DRAM is more important than the protocol
 [1TB 以上的硬碟是怎麼來的？ NAND Flash 進化史 1967 - 2025 - YouTube](https://www.youtube.com/watch?v=Uw_3KKCWRFE)
 [How SSD Technology Keeps Getting WORSE! - Intel 660p Review - YouTube](https://www.youtube.com/watch?v=OffzVc7ZB-o) first QLC drive
 [Explaining SSDs: The Price/Performance Trade-off - YouTube](https://www.youtube.com/watch?v=F8k_XIEhKWo)
+[用最好的动画为你讲解--固态硬盘(SSD)的原理 - YouTube](https://www.youtube.com/watch?v=k-4PNe83l_Y)
 
 Cells stores the bits (1 per cell for SLC, 2 for MLC, 3 for [TLC](http://www.anandtech.com/show/5067/understanding-tlc-nand), 4 per cell QLC, 5 per cell PLC).
 Cells are then organized into pages, then pages into blocks.

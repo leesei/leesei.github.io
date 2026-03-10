@@ -2,7 +2,7 @@
 title: Astronomy
 description: ""
 created: 2019-07-16
-updated: 2025-10-10
+updated: 2026-02-24
 tags:
   - astro-physics
   - astronomy
@@ -307,6 +307,8 @@ Candidates:
 [Weakly interacting massive particles - Wikiwand](https://www.wikiwand.com/en/Weakly_interacting_massive_particles) WIMPs
 [Axion - Wikiwand](https://www.wikiwand.com/en/Axion) 軸子，超軸子
 [Sterile neutrino - Wikiwand](https://www.wikiwand.com/en/Sterile_neutrino)
+Strangelets
+[Why Did No One Think of This? Dark Matter Might Just be Normal Matter - YouTube](https://www.youtube.com/watch?v=ffLDGr2pW0Q)
 
 [A heavyweight candidate for dark matter](https://phys.org/news/2019-08-heavyweight-candidate-dark.amp)
 [Is Dark Matter Real? - with Sabine Hossenfelder - YouTube](https://www.youtube.com/watch?v=U4sw3-__pGo) superfluid dark mater
@@ -341,3 +343,4 @@ Einstein's cosmological constant (his biggest blunder) that will make the univer
 [One Number Shows Something Is Fundamentally Wrong with Our Conception of the Universe | Live Science](https://www.livescience.com/amp/hubble-constant-discrepancy-explained.html)
 [Dark Energy May Be Incompatible With String Theory | Quanta Magazine](https://www.quantamagazine.org/dark-energy-may-be-incompatible-with-string-theory-20180809/)
 [Dark Energy Explained! - YouTube](https://www.youtube.com/playlist?list=PLsPUh22kYmNAv1_8MA9-USkY6f2lfr1hb) PBS Space Time
+[Astronomers Got Dark Energy Wrong, Study Suggests | Extremetech](https://www.extremetech.com/science/astronomers-got-dark-energy-wrong-study-suggests)

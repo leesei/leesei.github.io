@@ -2,7 +2,7 @@
 title: 中國歷史
 description: ""
 created: 2015-10-09
-updated: 2025-10-10
+updated: 2026-02-16
 tags:
   - history
   - history/chinese
@@ -13,6 +13,7 @@ tags:
 [中国历史 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2)
 [《中华上下五千年》在线阅读-名著小说全文阅读-读书 369](http://www.dushu369.com/gushi/zhsxwqn/)
 [主頁 | 中國文化研究院 - 燦爛的中國文明](https://chiculture.org.hk/)
+[中文版 中国考古](http://kaogu.cssn.cn/zwb/)
 [知史 - 首頁](https://www.mychistory.com/)
 [History of China - Wikiwand](https://www.wikiwand.com/en/History_of_China)
 [Ancient China: Religion and Dynasties | HISTORY.com - HISTORY](https://www.history.com/topics/ancient-china)
@@ -28,12 +29,18 @@ tags:
 [NewTV Documentary 华语纪录片 - YouTube](https://www.youtube.com/@documentarychinatv)
 [信息素官方 - YouTube](https://www.youtube.com/@xinxisu_1003)
 [地图里的故事 - YouTube](https://www.youtube.com/@DiTuLiDeGuShi)
+[安州牧 - YouTube](https://www.youtube.com/@anzhoumu)
+[悟空的宝箱 - YouTube](https://www.youtube.com/@Wukong_MagicBox)
+[有点意思研究所 - YouTube](https://www.youtube.com/@%E6%9C%89%E7%82%B9%E6%84%8F%E6%80%9D%E7%A0%94%E7%A9%B6%E6%89%80)
 [李天豪 - YouTube](https://www.youtube.com/@leecehao)
+[歷史任意門 - YouTube](https://www.youtube.com/@%E9%A2%A8%E9%9B%B2%E6%AD%B7%E5%8F%B2-h1n)
 [歷史面面觀 - YouTube](https://www.youtube.com/@history_aspects)
 [纪实文学馆 - YouTube](https://www.youtube.com/@Chinese.talkshows)
 [罗振宇-罗辑思维 - Luogic TalkShow - YouTube](https://www.youtube.com/@LuogicTalk) 羅振宇 文明之旅, ❗!important
-[蘇老拳 - YouTube](https://www.youtube.com/@PandaSuHistory)
 [艺述史 - YouTube](https://www.youtube.com/@%E8%89%BA%E8%BF%B0%E5%8F%B2)
+[蘇老拳 - YouTube](https://www.youtube.com/@PandaSuHistory)
+[話家歷史電台 - YouTube](https://www.youtube.com/@HuajiaHistoricalRadio)
+[长河飞烟 - YouTube](https://www.youtube.com/@%E9%95%BF%E6%B2%B3%E9%A3%9E%E7%83%9F)
 
 [【Chang'an Meets Rome】从长安到罗马 Ⅰ ｜唤起“沉睡”的丝绸之路，长安与罗马再次牵手 - YouTube](https://www.youtube.com/playlist?list=PLqid5YompiAgTlHR-YY7aHKBhfujWNJel)
 [【中国通史/ChinaHistory 百集历史纪录片】中国迄今为止规模最大的一部历史专题片 - YouTube](https://www.youtube.com/playlist?list=PLOrf2h5ONlwUTW9etWK4b3xQiz8LdgkKS)
@@ -185,6 +192,7 @@ tags:
 [中國歷史朝代地圖，看看他們打拚下來的是怎樣的一個國度（二） - 每日頭條](https://kknews.cc/history/62pl3zp.html)
 [中國歷史朝代地圖，他們拼的是怎樣一個天下（三） - 每日頭條](https://kknews.cc/history/l2e42og.html)
 
+[透過地勢圖了解中國歷史上的兵家必爭之地，決定戰爭的攻守態勢，王朝的興衰更替 - YouTube](https://www.youtube.com/watch?v=BTTmk1gMwwc)
 [为什么新疆是中国固有领土，但越南却不是？中国固有领土，到底多大？20分钟讲透【中国】演变800年 - YouTube](https://www.youtube.com/watch?v=Z1Xdu1AJBB8)
 
 李天豪
@@ -199,6 +207,8 @@ tags:
 
 [大盤點 ► 俄國到底強佔了中國多少土地 ? 怎麼不敢要回來 ? - YouTube](https://www.youtube.com/watch?v=V0gcvVvt5PM)
 [中國、琉球與日本的愛恨情仇 ▶ 這 500 年發生了什麼事 - YouTube](https://www.youtube.com/watch?v=vq-0-wIlD0g)
+
+[透過3D地勢圖詳解中國北方政權想要南下擒龍，具體路線該怎麼安排？拿下長江便拿下了全國 - YouTube](https://www.youtube.com/watch?v=7mDPNtP5IKM) 從北方游牧文明馴服了馬匹後，亞歐各國國家史就關被游牧文族關連起來
 
 ## 仰韶文化
 
@@ -216,16 +226,16 @@ tags:
 
 ## 巴蜀文化
 
-巴蜀文明分三個階段
-<https://youtu.be/yla3o6Dncys?t=295>
-寶墩 十二橋
-三星堆
+[三星堆遗址 - Wikiwand](https://www.wikiwand.com/zh-tw/articles/%E4%B8%89%E6%98%9F%E5%A0%86%E9%81%97%E5%9D%80)
+三星堆遺址分三個階段
+第一期（寶墩文化)：2500BC-1700BC （夏前至先夏）商時期
+第二、三期（三星堆文化）：2000BC-1100BC（夏商時期）
+第一期（十二橋文化)：1250BC-650BC（商末周初）
+
 1986 1,2 號坑 青銅神樹, 縱目面具, 青銅大立人
 2019 3-8 號坑
 
 [为何古蜀人要制造面容威严、表情夸张的黄金面具？揭开金沙遗址的重重迷雾《考古中华·四川篇》 第一季 金沙遗址（上）| 中华国宝 - YouTube](https://www.youtube.com/watch?v=aDzZ77UIUzE)
-
-[挖出千年鎮水獸，原來，都江堰背後隱藏著一個被刪除的上古故事……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=P73sBWB3Q5w) 古蜀國, 都江堰
 
 [三星堆三部曲 - YouTube](https://www.youtube.com/playlist?list=PLD3Ywi8n56O6PtwIaD7wjZ2kSdZGbhCN_) 自说自话的总裁
 [這裏出現了太多“不該出現的”東西，和任何古文明都不一樣的三星堆 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=RWuUcYXAleM)
@@ -239,6 +249,9 @@ tags:
 
 [比夏朝還魔幻的存在，只敢發掘不到2%，官方沒有公布的「三星堆文字」的真相！古蜀文明為何突然出現，又突然消失？破解三星堆之謎 [She's Xiaowu 小烏] - YouTube](https://www.youtube.com/watch?v=i01-vbzQHNI) 巴蜀 -> 古蜀 -> 晚商 -> 西周
 
+[三星堆最新考古成果！外來者文明取代古蜀土著？毀滅於內戰的文明？揭秘2025年三星堆論壇三星堆與古代西亞、印度河流域文明、中原、長江流域文明的關係，考古學家不明說的三星堆「國際化」真相！| 喵心揭秘 - YouTube](https://www.youtube.com/watch?v=HavYDouOQJM)
+[三星堆与古蜀国的關係真相！考古學家揭示学界争议，誰在急著實錘“三星堆是古蜀国”？歷史上的真實古蜀國是怎樣的？《三星堆之惑》揭秘有關三星堆的爭議和困惑… | 喵心揭秘 | #三星堆 #古蜀國 - YouTube](https://www.youtube.com/watch?v=8A9z874QoBQ) 三星堆遺址 != 古蜀
+
 ## 夏
 
 [夏朝 - Wikiwand](https://www.wikiwand.com/zh/%E5%A4%8F%E6%9C%9D) 2100BC-1700BC
@@ -250,30 +263,74 @@ tags:
 
 [(開啟字幕) 證據確鑿？西方學者也不承認夏朝的原因，中國到底有三千年還是四千年信史？20210402 - YouTube](https://www.youtube.com/watch?v=aapAXHp59o4)
 [1950年中国一本禁书，撕开清洗3000年的夏朝的真相！ - YouTube](https://www.youtube.com/watch?v=k4k4bwWrXCA)
+[夏朝易經《連山》揭秘神話真相！失傳的夏之易經被找到？ 《連山》裡寫了什麼，能從中得以窺見夏朝的歷史！輯佚版《連山》、《歸藏》和《山海經》的淵源| 喵心揭秘| #連山 #易經 - YouTube](https://www.youtube.com/watch?v=rivLzCteWLc)
+
+#郭靜云
+[夏商周：从神话到史实 - Wikiwand](https://www.wikiwand.com/zh-hk/articles/%E5%A4%8F%E5%95%86%E5%91%A8%EF%BC%9A%E4%BB%8E%E7%A5%9E%E8%AF%9D%E5%88%B0%E5%8F%B2%E5%AE%9E)
+[夏商周：從神話到史實 - YouTube](https://www.youtube.com/watch?v=sq14yGUGDGU)
+[(PDF) 夏是哪国王朝?历史英雄大禹的文化属性暨原乡Which civilization does the Xia Dynasty belong to-The Cultural Attributes and Hometown of the Hero Da Yu](https://www.researchgate.net/publication/353478530_xiashinaguowangchaolishiyingxiongdayudewenhuashuxingjiyuanxiangWhich_civilization_does_the_Xia_Dynasty_belong_to-The_Cultural_Attributes_and_Hometown_of_the_Hero_Da_Yu)
+[关于盘龙城 推荐阅读 《 夏商周:从神话到史实》 - 武汉 - 高楼迷](https://gaoloumi.cc/forum.php?mod=viewthread&tid=3169713)
+[考古發現，夏與周之間不只一個商代！改寫華夏起源的夏商史新解，殷商是外族征服華夏？夏不在二里頭！華夏起源於長江而非黃河！揭秘夏朝找不到的原因#殷墟 #二里頭 #夏朝 #商朝 #歷史 - YouTube](https://www.youtube.com/watch?v=_4vxhBJcm9ca)
+夏為長江石家河文化，湯商（=早商）為夏東邊長江中游從屈家嶺到盤龍城的先楚文明
+華夏起源於長江，北緯26度至32度之間，跟古埃及文明，美索不達米亞文明，古印度河流域文明等同一緯度
+湯商文化亦影響北方城邦二里頭（所以黃河二里頭不是夏都城，二里崗也不是早商文化中心，兩者文物相似，時間重疊，跟晚商文化差別很大，見郭靜云）
+是周朝紀史後埋沒了這段歷史
+
+[夏朝易經《連山》揭秘神話真相！失傳的夏之易經被找到？ 《連山》裡寫了什麼，能從中得以窺見夏朝的歷史！輯佚版《連山》、《歸藏》和《山海經》的淵源| 喵心揭秘| #連山 #易經 - YouTube](https://www.youtube.com/watch?v=rivLzCteWLc)
 
 ## 商
 
 [商朝 - Wikiwand](https://www.wikiwand.com/zh/%E5%95%86%E6%9C%9D) 1700BC-1100BC
-[商朝君主列表 - Wikiwand](https://www.wikiwand.com/zh/%E5%95%86%E6%9C%9D%E5%90%9B%E4%B8%BB%E5%88%97%E8%A1%A8)
+[殷墟 - Wikiwand](https://www.wikiwand.com/zh/articles/%E6%AE%B7%E5%A2%9F)
+[朝歌 - Wikiwand](https://www.wikiwand.com/zh/articles/%E6%9C%9D%E6%AD%8C)
 
+[商朝君主列表 - Wikiwand](https://www.wikiwand.com/zh/%E5%95%86%E6%9C%9D%E5%90%9B%E4%B8%BB%E5%88%97%E8%A1%A8)
 [契 - Wikiwand](https://www.wikiwand.com/zh/%E5%A5%91) 帝嚳之子; 助大禹治水有功, 封於商 (今陝西商洛市); 商朝先公
 [商湯 - Wikiwand](https://www.wikiwand.com/zh/%E5%95%86%E6%B1%A4)
+[帝辛 - Wikiwand](https://www.wikiwand.com/zh/articles/%E5%B8%9D%E8%BE%9B) 紂王
 
 [被抹黑最慘的人 歷史上真實的商紂王 是誰在抹黑商紂王? 酒池肉林、寵信妲己都是假的? - YouTube](https://www.youtube.com/watch?v=jjGCg1EHvws)
 
+喵心揭秘 #郭靜云
+[殷商人種之謎！商人外表如此多元，王族還有白人寵妃！考古學家用古DNA技術研究商族，引發巨大爭議！商人有可能是來自西亞？唐際根的聲明耐人尋味！影視劇誤導了對商朝的認知！| 喵心揭秘| #殷商 #商朝 - YouTube](https://www.youtube.com/watch?v=HTSOeK5i_jM)
+[殷商王族統治中原前，與西亞文明接觸！發祥地不在現中國境內？殷商起源另類解讀，馴馬外族入主華夏！故事從學者許宏的考古新書被禁講起，揭秘《夏商周：從神話到史實》的商族起源別解 | 喵心揭秘 | #殷商 - YouTube](https://www.youtube.com/watch?v=KX3xY07Y1EI)
+[殷商和周是同族，卻被史書刻意掩蓋？夏朝與周有什麼關係？殷商甲骨文沒有記錄夏朝，為何周朝卻知道夏朝的存在？華夏曾從父母雙系轉變到嚴格父系！武王伐紂是家族內鬥 | 喵心揭秘 | #夏商周 - YouTube](https://www.youtube.com/watch?v=DHA5w_h3NS8)
+
+#郭靜云
+先商，早商（傳統認為是黃河二里崗文化），晚商（殷墟）
+郭靜云認為殷商（=晚商）王室為游戰文化的外族，從東北一路打到殷墟並統治了農耕文化的一眾城邦（包括沿自長江夏文化的湯商），並自稱為商，帶來馬，戰車，人牲等文化
+湯商並不是"遷都"至殷墟，而是換主了殷商
+
 [殷墟的三大惊喜与三大惊吓，这是一期全面了解殷墟的视频。 - YouTube](https://www.youtube.com/watch?v=7EWH1yOKf8c)
 [人祭：一段被隱藏了 3000 年的黑暗歷史！華夏文明竟起源於同類相食？周易與甲骨文中的陰森密碼，絕大多數人都沒看懂…[She's Xiaowu @ndwtb] - YouTube](https://www.youtube.com/watch?v=CGY9JH4kYQE)
+
+#许宏
+
+[何以“帝国”：《最早的帝国——二里岗文明冲击波》 - 知乎](https://zhuanlan.zhihu.com/p/648445371)
+
+#李碩
+[翦商：殷周之变与华夏新生 - Wikiwand](https://www.wikiwand.com/zh-hk/articles/%E7%BF%A6%E5%95%86%EF%BC%9A%E6%AE%B7%E5%91%A8%E4%B9%8B%E5%8F%98%E4%B8%8E%E5%8D%8E%E5%A4%8F%E6%96%B0%E7%94%9F)
 [唯一不信神的民族，为何是中国人？ 翦商：一场弑神的权力游戏 - YouTube](https://www.youtube.com/watch?v=ZGdjmcYOZDM)
+[甲骨文上的離奇車禍:3000年前的商朝是食人族,比封神榜更恐怖的商朝 | 歷史暢銷書《翦商》(商周,周朝,人祭,紂王,封神傳,有聲書,讀書) - YouTube](https://www.youtube.com/watch?v=aDN6sx2vXco)
 
 ## 西周
 
 [周朝 - Wikiwand](https://www.wikiwand.com/zh/%E5%91%A8%E6%9C%9D)
 [西周 - Wikiwand](https://www.wikiwand.com/zh/%E8%A5%BF%E5%91%A8) 1100BC-771BC
+[岐山县 - Wikiwand](https://www.wikiwand.com/zh/articles/%E5%B2%90%E5%B1%B1%E5%8E%BF)
+
 [周朝君主列表 - Wikiwand](https://www.wikiwand.com/zh/%E5%91%A8%E6%9C%9D%E5%90%9B%E4%B8%BB%E5%88%97%E8%A1%A8)
 
 [考古發現：商朝滅亡後，紂王后裔曾 4 次復國，所建國家至今仍存！ - YouTube](https://www.youtube.com/watch?v=twVYeJOyyQQ)
 於牧野之戰攻佔殷商, 但商朝勢力仍在
 
+周為殷商所封國號，為殷商捉拿羌人作人牲
+紂王想替換人牲祭祀，被周聯同其他勢力推翻
+殺伯邑考為上古社會'殺首子"的制度
+[伯邑考被周文王故意殺了吃掉！殷墟考古發現歷史真相，「周公解夢」背後隱藏著周朝先祖被後世掩蓋的罪孽，殺首子的黑歷史，殷商的血祭歷史，周公旦的道德事業 |喵心揭秘| #翦商 #華夏文明 - YouTube](https://www.youtube.com/watch?v=Pa2wPEHEIhM)
+
+周禮為周武王之弟周公旦所定立，廢除古社會殘忍風俗
+[周禮 - Wikiwand](https://www.wikiwand.com/zh/articles/%E5%91%A8%E7%A6%AE)
 [宗法 - Wikiwand](https://www.wikiwand.com/zh/%E5%AE%97%E6%B3%95)
 [封建制度 (中國) - Wikiwand](<https://www.wikiwand.com/zh/%E5%B0%81%E5%BB%BA%E5%88%B6%E5%BA%A6_(%E4%B8%AD%E5%9C%8B)>)
 [禮樂制度 - Wikiwand](https://www.wikiwand.com/zh/%E7%A4%BC%E4%B9%90%E5%88%B6%E5%BA%A6)
@@ -288,7 +345,7 @@ tags:
 ## 東周 (春秋戰國)
 
 [東周 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%9C%E5%91%A8) 770BC-256BC
-西周遷都洛邑(今洛陽), 諸侯自立為王, 進入春秋時代
+西周遷都洛邑(今洛陽)後稱東周, 諸侯自立為王, 進入春秋時代
 [極簡歷史系列 - 欣阳漫話 - YouTube](https://www.youtube.com/playlist?list=PL_T3JO9GtG2_I9LcFL00EQIJVQZw8TnQZ)
 
 [春秋時期 - Wikiwand](https://www.wikiwand.com/zh/%E6%98%A5%E7%A7%8B%E6%97%B6%E6%9C%9F)
@@ -408,14 +465,15 @@ tags:
 
 [三國 - Wikiwand](https://www.wikiwand.com/zh/%E4%B8%89%E5%9B%BD) 208-280
 
-[英雄說書 - YouTube](https://www.youtube.com/channel/UCIpRQFB5af6be62BpQyWbuA) mostly 三國
-[說書人柳豫 - YouTube](https://www.youtube.com/channel/UCBY6ricq_NJTBSgFkZ2llkA) mostly 三國
+[英雄說書 - YouTube](https://www.youtube.com/@Herostory) mostly 三國
+[說書人柳豫 - YouTube](https://www.youtube.com/@willowstory) mostly 三國
+[卡羅說書 - YouTube](https://www.youtube.com/@CarloAIstory) mostly 三國
 [三國爭天下 - YouTube](https://www.youtube.com/playlist?list=PLBSs8pc_eAe6z4lvQqdI49hA5WB5rAFGN)
 [腾飞五千年——汉末三国 - YouTube](https://www.youtube.com/playlist?list=PLnzvH6pAJKSqUKcsA3GxzIng7TWEuYz4m) 袁腾飞
 [三國武將官職詳解，大司馬，大將軍，驃騎將軍哪個官職最高？為何出現三位左將軍？| 三國官制詳解 04 | 文大郎 - YouTube](https://www.youtube.com/watch?v=riDi19JYm_c)
 裴松之: 三國志注者
 
-[三國系列 - YouTube](https://www.youtube.com/playlist?list=PLgKat64mmTvUR8jrDivC3FSWu0zivXMgm) 李天豪
+[李天豪 - YouTube](https://www.youtube.com/@Tenhao1978/search?query=%E4%B8%89%E5%9C%8B)
 
 蕭若元
 [中文字幕千古爭議！諸葛亮究竟打不打得〈蕭若元@奇情歷史〉第一講 06 07 2019 - YouTube](https://www.youtube.com/watch?v=dRjTsaG8r2s)
@@ -447,6 +505,8 @@ tags:
 [隋朝 - Wikiwand](https://www.wikiwand.com/zh/%E9%9A%8B%E6%9C%9D) 581-619
 楊堅為北魏拓跋氏小弟
 
+[《開皇大業》 - YouTube](https://www.youtube.com/playlist?list=PLV8IcfuFGvK8lFwliKZrEwSSKJk9p2jPs)
+
 ## 唐
 
 [唐朝 - Wikiwand](https://www.wikiwand.com/zh/%E5%94%90%E6%9C%9D) 618-907
@@ -462,12 +522,17 @@ tags:
 
 [1个朝鲜半岛人，却弄丢中国200万平方公里！为什么中国丢了中亚？ - YouTube](https://www.youtube.com/watch?v=gD5_Fkd_sFA) 恒羅斯之戰
 
+安州牧
+[《大唐創業》 - YouTube](https://www.youtube.com/playlist?list=PLV8IcfuFGvK918V5q_aP1vgGSLUVmBbUq)
+[《從初唐走向盛唐》 - YouTube](https://www.youtube.com/playlist?list=PLV8IcfuFGvK_nHrtNXRhmjMKLsIjtGyCg)
+
 [破解史學界千年謎團！無字碑其實是武則天留在異度空間的“遺言”？普通人看不見無字碑上刻字的真正原因...[She's Xiaowu 小烏] - YouTube](https://www.youtube.com/watch?v=gGfVHZaF4f4)
 
 ### 安史之亂
 
 [安史之亂 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E5%AE%89%E5%8F%B2%E4%B9%8B%E4%BA%82) 755-763
 [歷時 7 年，消滅 1/4 世界人口，2/3 中國人口！最血腥的叛亂，徹底改變歷史走向，整個國家都是修羅場！安史之亂是如何發生的？[Unsolved Mystery Stories | Xiaowu] - YouTube](https://www.youtube.com/watch?v=ei8rWetBCys)
+[《安史之乱》 - YouTube](https://www.youtube.com/playlist?list=PLV8IcfuFGvK84_mfXmpKrWs1LvJG_rJfi)
 
 ## 宋
 
@@ -503,6 +568,7 @@ tags:
 [【CCTV 顶级首播-神秘的西夏】探秘被历史遗忘的神秘王朝 Mysterious Tangut | 【1080P 版全十集】 - YouTube](https://www.youtube.com/playlist?list=PLwXMmy5fUrVzqZG93hC0uKFd3QZMMR_0k)
 [自然條件差到離譜，看似弱小的西夏到底是如何在大國間生存100多年？11分鐘看懂中國歷史上最頑強「小國」｜蘇老拳 - YouTube](https://www.youtube.com/watch?v=tC7mvaaNB3U)
 [一個活了200年的王朝，幾乎被正史除名？少有人能叫出它的名字！【藝述史】 - YouTube](https://www.youtube.com/watch?v=sNDB8zZ7qMY)
+[被外国探险者盗掘的黑水城，解开西夏之谜的关键所在 - YouTube](https://www.youtube.com/watch?v=jQ9mOagO0l4) 呼和浩特黑水城
 
 ## 元
 
@@ -729,7 +795,7 @@ Wuchisan: Alexandria
 [曾經所向披靡的“五胡”各族，為什麼在三百年後集體消失無蹤了？ - YouTube](https://www.youtube.com/watch?v=7vwnIC1jd2c)
 
 [鲜卑 匈奴 契丹 突厥 羯 乌桓 东胡，十分钟彻底搞明白了 - YouTube](https://www.youtube.com/watch?v=Sbw0tjJMwS0)
-[10 分鐘讀懂：匈奴、鮮卑、回鶻、契丹、党項、女真…… - 每日頭條](https://kknews.cc/history/j4xab5e.html) !important
+[10 分鐘讀懂：匈奴、鮮卑、回鶻、契丹、党項、女真…… - 每日頭條](https://kknews.cc/history/j4xab5e.html) ❗!important
 [女真族與契丹 蒙古族有何區別與關聯？ - 每日頭條](https://kknews.cc/history/62oazel.html)
 [女真族和滿洲族是同一個民族嗎？兩個民族的歷史淵源 - 每日頭條](https://kknews.cc/history/epeg9zy.html)
 
@@ -829,8 +895,10 @@ Wuchisan: Alexandria
 
 ## Modern History
 
-[ntdchinainsight - YouTube](https://www.youtube.com/channel/UCX6qzyRD4gmk0PucOi8lhBA) 辛灝年
-[透視中國 - http://tszgtv.com - YouTube](https://www.youtube.com/channel/UCUTYYuGRa_Xzu0FlcM1UvHQ)
+[ntdchinainsight - YouTube](https://www.youtube.com/@ntdchinainsight) 辛灝年
+[透視中國 - http://tszgtv.com - YouTube](https://www.youtube.com/@TSZGtv)
+[张开 - YouTube](https://www.youtube.com/@LAZHANGKAI)
+[mistyefl - YouTube](https://www.youtube.com/@mistyefl)
 [主頁 | 通識·現代中國](https://ls.chiculture.org.hk/)
 
 [辛灝年: 我是怎麼「走進歷史 走出謊言」的 - YouTube](https://www.youtube.com/watch?v=6_IRLY1A0ZI)
@@ -845,6 +913,8 @@ Wuchisan: Alexandria
 
 [第一次國共合作 - Wikiwand](https://www.wikiwand.com/zh/articles/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9B%BD%E5%85%B1%E5%90%88%E4%BD%9C)
 [第二次国共合作 - Wikiwand](https://www.wikiwand.com/zh/articles/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%9B%BD%E5%85%B1%E5%90%88%E4%BD%9C)
+[【新两岸历史教材对比05】三版台湾、大陆历史教材怎么描写国共内战（上）？内战爆发的真正原因是什么？到底是谁的责任？ - YouTube](https://www.youtube.com/watch?v=OFW5_G9puxs)
+[【台湾、大陆历史教材对比06】四版台湾、大陆历史教材怎么描写国共内战（下）？国共互相指责对方发动内战？国民党为什么最后输给了共产党？ - YouTube](https://www.youtube.com/watch?v=SPRujBlsBhg&list=PLekzGhbSrvw4bRTSRvn46e2GJWjl5iUjM&index=11)
 
 [三年困难时期 - Wikiwand](https://www.wikiwand.com/zh/articles/%E4%B8%89%E5%B9%B4%E5%9B%B0%E9%9A%BE%E6%97%B6%E6%9C%9F)
 [大躍進、大飢荒與「三年自然災害」，讀高華《在歷史上的風陵渡口》有感（一）附字幕 - YouTube](https://www.youtube.com/watch?v=HDeHoQCVa78)
@@ -852,17 +922,10 @@ Wuchisan: Alexandria
 
 [文化大革命 - Wikiwand](https://www.wikiwand.com/zh/articles/%E6%96%87%E5%8C%96%E5%A4%A7%E9%9D%A9%E5%91%BD)
 [禍害4000萬人，被中國全面封殺的「文化大革命」，到底發生了什麽？ - YouTube](https://www.youtube.com/watch?v=8mrKfHtxHCU)
+[毛泽东真实的一生1957年-1962年：一个视频彻底搞懂大跃进 - YouTube](https://www.youtube.com/watch?v=blEaZFpwMFQ)
+[毛泽东真实的一生1962年-1977年：一个视频彻底搞懂文化大革命 - YouTube](https://www.youtube.com/watch?v=3nnIZ2i7HYs)
 
 [壹读视频 005 新鲜的中央政府 - YouTube](https://www.youtube.com/watch?v=rZhZNUgvu0U)
 [壹读视频 018 三分钟看懂中国官员级别 - YouTube](https://www.youtube.com/watch?v=n7UYbgGljyc)
 [中国官员的级别是怎么定的？谁大谁小你分的清吗 - YouTube](https://www.youtube.com/watch?v=yYHn9Pfo99A)
 [中国军队的官职级别，总书记、国家主席和军委主席谁才是老大 - YouTube](https://www.youtube.com/watch?v=2TsZGQn3R5o)
-
-## 香港
-
-[香港歷史系列 - YouTube](https://www.youtube.com/playlist?list=PL1396B172772C478A)
-[香港歷史系列 II - YouTube](https://www.youtube.com/playlist?list=PLDD3D336173C40D7F)
-[香港歷史系列 III (Hong Kong History) - YouTube](https://www.youtube.com/playlist?list=PLuwJy35eAVaKpGWWgEPNK_-dDLlN8n-1J)
-[香港歷史系列 IV - YouTube](https://www.youtube.com/playlist?list=PLuwJy35eAVaL-c1rChlz4VnHk4bq5syA8)
-
-[HK History 香港歷史系列 - YouTube](https://www.youtube.com/playlist?list=PLTxl-vBJqYN5kj0FNEMHfAthtwRguxzK7)

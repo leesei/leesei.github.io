@@ -2,7 +2,7 @@
 title: Electronic Components
 description: ""
 created: 2018-09-12
-updated: 2025-10-10
+updated: 2026-02-15
 tags:
   - electronics
   - maker
@@ -1083,6 +1083,15 @@ Funduino Joystick Shield
 [NFC Guide - Shop NFC](https://www.shopnfc.com/en/content/11-nfc-guide)
 [Mifare classic 1k and NFC communication protocol - Stack Overflow](https://stackoverflow.com/questions/7633513/mifare-classic-1k-and-nfc-communication-protocol)
 
+[一群草台班子，让 99% 的门禁卡都在裸奔：如何破解门禁卡？【柴知道】 - YouTube](https://www.youtube.com/watch?v=cpGo6Dg66qk)
+
+- MiFare 1K (M1)
+- 16 sectors, each sector has four 8 bytes record
+- the card UID is the first record in the first sector
+- the last record of each sector is for Key A, Key B
+- MIFARE Classic Tool has built-in rainbow table for common keys
+- Nested Authentication can be cracked if any sector is using the compromised keys
+
 [手机 NFC 到底如何使用？怎么才可以复制加密门禁卡？为什么不能直接复制？ - YouTube](https://www.youtube.com/watch?v=XC2K7VtxUY4)
 [RFID Locks are way too easy to "Hack"! Let me show you! - YouTube](https://www.youtube.com/watch?v=rXuWnwSYC5Y)
 
@@ -1136,6 +1145,11 @@ The MFRC522 requires special sequence to initialize, do refer to data sheet and 
 [MFRC522 NFC/RFID module - Espruino](http://www.espruino.com/MFRC522)
 [www.espruino.com/modules/MFRC522.js](http://www.espruino.com/modules/MFRC522.js)
 [esprfid/esp-rfid: ESP8266 RFID (RC522, PN532, Wiegand, RDM6300) Access Control system featuring WebSocket, JSON, NTP Client, Javascript, SPIFFS](https://github.com/esprfid/esp-rfid)
+
+### Android
+
+[MIFARE Classic Tool - Apps on Google Play](https://play.google.com/store/apps/details?id=de.syss.MifareClassicTool&hl=en)
+[ikarus23/MifareClassicTool: An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.](https://github.com/ikarus23/MifareClassicTool)
 
 ## I/O Expander
 

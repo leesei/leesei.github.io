@@ -1,12 +1,16 @@
 ---
-title: Simple Machines
+title: Mechanics
 description: ""
 created: 2015-09-16
-updated: 2025-01-09
+updated: 2025-12-02
 tags:
   - physics
   - science
 ---
+
+[Engineering Gone Wild - YouTube](https://www.youtube.com/@EngineeringGoneWild)
+
+## Simple Machines
 
 [Simple machine - Wikiwand](https://www.wikiwand.com/en/Simple_machine)
 [The Six Simple Machines | TechStuff](https://shows.howstuffworks.com/techstuff/the-six-simple-machines.htm)
@@ -45,3 +49,5 @@ Scissors: Lever + Wedge
 Cam: turns rotary movement to linear movement
 
 [The Computer-free Automation of a Jukebox (Electromechanics) - YouTube](https://www.youtube.com/watch?v=NmGaXEmfTIo)
+
+[Mechanisms EVERY Mechanical Engineer Should Know - YouTube](https://www.youtube.com/watch?v=vzM_-Rr5mtw)

@@ -2,7 +2,7 @@
 title: Warhammer 40k
 description: ""
 created: 2023-06-06
-updated: 2025-11-07
+updated: 2025-12-08
 tags:
   - boardgame
   - games
@@ -13,10 +13,13 @@ tags:
 [Warhammer 40,000](https://warhammer40000.com/)
 [Warhammer 40k Wiki | Fandom](https://warhammer40k.fandom.com/wiki/Warhammer_40k_Wiki)
 
+[忠诚！一个视频让你看懂《战锤40K》讲了个啥？ - YouTube](https://www.youtube.com/watch?v=LyQZgE_OCKM)
+
 [Every single Warhammer 40k (WH40k) Faction Explained | Part 1 - YouTube](https://www.youtube.com/watch?v=xCGKPRiJp84)
 [Every single Warhammer 40k (WH40k) Faction Explained | Part 2 - YouTube](https://www.youtube.com/watch?v=Y6jnsX77TCU)
 
 [EVERY SINGLE Primarch Explained! - YouTube](https://www.youtube.com/watch?v=q5qYIW5cTtw&t=2319s)
 
+Primarch 原體
 The Great Crusade
 The Heresy

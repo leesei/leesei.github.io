@@ -2,7 +2,7 @@
 title: LEGO
 description: ""
 created: 2016-06-12
-updated: 2025-10-10
+updated: 2026-01-13
 tags:
   - lego
   - toys
@@ -194,8 +194,8 @@ MOC = My Own Creation
 [Galactic Plastics - YouTube](https://www.youtube.com/@nicktrotta)
 
 [Forums - Eurobricks Forums](https://www.eurobricks.com/forum/index.php?/forums/)
-[[KEY TOPIC] Official Lego sets made in LDraw - Digital LEGO: Tools, Techniques, and Projects - Eurobricks Forums](https://www.eurobricks.com/forum/index.php?/forums/topic/48285-key-topic-official-lego-sets-made-in-ldraw/) !important
-[[KEY TOPIC] Official LEGO Sets made in LDD - Digital LEGO: Tools, Techniques, and Projects - Eurobricks Forums](https://www.eurobricks.com/forum/index.php?/forums/topic/41226-key-topic-official-lego-sets-made-in-ldd/) !important
+[[KEY TOPIC] Official Lego sets made in LDraw - Digital LEGO: Tools, Techniques, and Projects - Eurobricks Forums](https://www.eurobricks.com/forum/index.php?/forums/topic/48285-key-topic-official-lego-sets-made-in-ldraw/) ❗!important
+[[KEY TOPIC] Official LEGO Sets made in LDD - Digital LEGO: Tools, Techniques, and Projects - Eurobricks Forums](https://www.eurobricks.com/forum/index.php?/forums/topic/41226-key-topic-official-lego-sets-made-in-ldd/) ❗!important
 
 [首頁-MOC 磚友之家-淘寶網](https://shop261726840.world.taobao.com/)
 
@@ -681,7 +681,7 @@ You cannot add rubber bands or cables in BrickLink Studio. If you want to do tha
 ### LEGO brick parts
 
 [LEGO compatible bricks generator for your 3D printer](http://bricks.lapinoo.net/)
-[Parametric LEGO Generator by paulirotta - Thingiverse](https://www.thingiverse.com/thing:2303714) !important
+[Parametric LEGO Generator by paulirotta - Thingiverse](https://www.thingiverse.com/thing:2303714) ❗!important
 [Parametrized Lego Bricks by wizard23 - Thingiverse](https://www.thingiverse.com/thing:591)
 
 [Lego Block Necklace/Keychain by aubenc - Thingiverse](https://www.thingiverse.com/thing:340321)
@@ -711,13 +711,13 @@ You cannot add rubber bands or cables in BrickLink Studio. If you want to do tha
 
 ### LEGO Technic parts
 
-[AnyBeam - LEGO Compatible Declarative Beam Library for OpenSCAD by DigitalBytes - Thingiverse](https://www.thingiverse.com/thing:250683) !important
+[AnyBeam - LEGO Compatible Declarative Beam Library for OpenSCAD by DigitalBytes - Thingiverse](https://www.thingiverse.com/thing:250683) ❗!important
 [Things/LEGO at master · digitalbytes/Things](https://github.com/digitalbytes/Things/tree/master/LEGO)
 
-[Lego Mindstorm / Technic Part Designer by Cort - Thingiverse](https://www.thingiverse.com/thing:2835927) !important
+[Lego Mindstorm / Technic Part Designer by Cort - Thingiverse](https://www.thingiverse.com/thing:2835927) ❗!important
 [Lego Mindstorm Part Builder – A Posteriori](https://www.aposteriori.com.sg/lego-mindstorm-part-builder/)
 
-[Lego Technic Parts Collection 2.0 by 5665 - Thingiverse](https://www.thingiverse.com/thing:2765212) !important
+[Lego Technic Parts Collection 2.0 by 5665 - Thingiverse](https://www.thingiverse.com/thing:2765212) ❗!important
 [LegoTechnic: Double Angular Beam Customizable by shusy - Thingiverse](https://www.thingiverse.com/thing:2512048)
 [Lego Technic: Perpendicular Beam Connector Customizable by shusy - Thingiverse](https://www.thingiverse.com/thing:2503065)
 [Lego Technic universal joint by GabQ2 - Thingiverse](https://www.thingiverse.com/thing:2739261)
@@ -744,7 +744,7 @@ You cannot add rubber bands or cables in BrickLink Studio. If you want to do tha
 
 ### Custom Products
 
-[Lego Tape, A Flexible LEGO-Compatible Parametric Model by MechEngineerMike - Thingiverse](https://www.thingiverse.com/thing:2197037) !important
+[Lego Tape, A Flexible LEGO-Compatible Parametric Model by MechEngineerMike - Thingiverse](https://www.thingiverse.com/thing:2197037) ❗!important
 
 [3d printed picture frame for Polaroid photos, lego compatible by alejandro183 - Thingiverse](https://www.thingiverse.com/thing:524297)
 
@@ -756,18 +756,18 @@ You cannot add rubber bands or cables in BrickLink Studio. If you want to do tha
 
 ### Mounts/Housing
 
-[Arduino Lego Mount & Robotics Accessories by MechEngineerMike - Thingiverse](https://www.thingiverse.com/thing:2415854) !important
+[Arduino Lego Mount & Robotics Accessories by MechEngineerMike - Thingiverse](https://www.thingiverse.com/thing:2415854) ❗!important
 [Lego, Arduino Mount. by bacawaka - Thingiverse](https://www.thingiverse.com/thing:1165072)
 [Arduino 兼容 乐高零件 Arduino uno 盒子 保护壳 DIY 个性定制设计-淘宝网](https://item.taobao.com/item.htm?id=566895398312) open top, deeper hole underneath
 [seeed 矽递科技 Arduino UNO R3 开发板外壳 乐高高级注塑保护外壳-淘宝网](https://item.taobao.com/item.htm?id=566587031842) regular Lego blocks
-[Construction Block Raspberry Pi Zero two piece by Anathae - Thingiverse](https://www.thingiverse.com/thing:2228155) !important
+[Construction Block Raspberry Pi Zero two piece by Anathae - Thingiverse](https://www.thingiverse.com/thing:2228155) ❗!important
 [Raspberry Pi B+ / 2 LEGO® Compatible Case. by kwh32901 - Thingiverse](https://www.thingiverse.com/thing:1007347)
 [官方原装 树莓派 3B+ LEGO 乐高 积木外壳 3 色可选 可装摄像头-淘宝网](https://item.taobao.com/item.htm?id=532029656705)
-[Parametric LEGO Grove Module Enclosure Generator by paulirotta - Thingiverse](https://www.thingiverse.com/thing:2298129) !important
+[Parametric LEGO Grove Module Enclosure Generator by paulirotta - Thingiverse](https://www.thingiverse.com/thing:2298129) ❗!important
 
-[Lego compatible parts by Vlastimil3 - Thingiverse](https://www.thingiverse.com/thing:2694978) !important
+[Lego compatible parts by Vlastimil3 - Thingiverse](https://www.thingiverse.com/thing:2694978) ❗!important
 [Arduino Robot Tank Chassis by dan241297 - Thingiverse](https://www.thingiverse.com/thing:2863258)
-[Lego compatable 2 Axis TT Motor housing by Majorstrain - Thingiverse](https://www.thingiverse.com/thing:2445714) !important
+[Lego compatable 2 Axis TT Motor housing by Majorstrain - Thingiverse](https://www.thingiverse.com/thing:2445714) ❗!important
 
 [DC-Motor Lego Housing by Philipp2000 - Thingiverse](https://www.thingiverse.com/thing:1973228)
 [Nema 8 - LEGO Technic compatible face-plate by GadgetWorkbench - Thingiverse](https://www.thingiverse.com/thing:2907018)
@@ -780,13 +780,13 @@ Use 1x2 Thin arms to get adjustable angles
 [Lego-like motor mount for 28BYJ-48 Stepper Motor (improved) by rainerunsinn - Thingiverse](https://www.thingiverse.com/thing:1674077)
 [Lego compatible motor mount for 28BYJ-48 Stepper Motor by markbenson - Thingiverse](https://www.thingiverse.com/thing:151616)
 
-[Servo SG90 mount for Lego by ivanpost - Thingiverse](https://www.thingiverse.com/thing:2780938) !important
+[Servo SG90 mount for Lego by ivanpost - Thingiverse](https://www.thingiverse.com/thing:2780938) ❗!important
 [Servo-motor Adapted to Lego: 4 Steps (with Pictures)](https://www.instructables.com/Servo-motor-Adapted-to-Lego/)
 [Servo-motor Converted to Motor (with Speed & Direction Control): 4 Steps (with Pictures)](https://www.instructables.com/Servo-motor-Converted-to-Motor-with-Speed-Directio/)
 
 [Lego PIR Housing: 19 Steps (with Pictures)](https://www.instructables.com/Lego-PIR-Housing/)
 [PIR Sensor Brick Mount by badBrick - Thingiverse](https://www.thingiverse.com/thing:52910)
-[Lego Robot Sensors (Ultrasonic, IR, Button) by MechEngineerMike - Thingiverse](https://www.thingiverse.com/thing:2415906) !important
+[Lego Robot Sensors (Ultrasonic, IR, Button) by MechEngineerMike - Thingiverse](https://www.thingiverse.com/thing:2415906) ❗!important
 [Lego Ultrasonic SR04 & Camera mount by ivanpost - Thingiverse](https://www.thingiverse.com/thing:3063269)
 [HC-SR04 Ultrasonic sensor holder (LEGO compatible) by markster1998 - Thingiverse](https://www.thingiverse.com/thing:2486264)
 
@@ -796,7 +796,7 @@ Use 1x2 Thin arms to get adjustable angles
 
 ### Robotics Parts
 
-[Parametric Servo Gripper Lego Brick Set by MechEngineerMike - Thingiverse](https://www.thingiverse.com/thing:2417814) !important
+[Parametric Servo Gripper Lego Brick Set by MechEngineerMike - Thingiverse](https://www.thingiverse.com/thing:2417814) ❗!important
 [LEGO Gear Ratio Calculator](http://gears.sariel.pl/)
 
 [Geared MOTORs to Meccano and Lego Conversion - Kit Parts - UPDATED - AXLES and PEGS by jlsilicon - Thingiverse](https://www.thingiverse.com/thing:1695615)
@@ -865,9 +865,9 @@ step 4: 63.5% (162)
 step 5: 76.0% (194)
 step 6: 88.2% (225)
 step 7: 100% (255)
-[Sheepo's Garage: Tips and Curiosities: Power Functions](https://www.sheepo.es/2015/05/tips-and-curiosities-power-functions.html) !important
+[Sheepo's Garage: Tips and Curiosities: Power Functions](https://www.sheepo.es/2015/05/tips-and-curiosities-power-functions.html) ❗!important
 [LEGO Tips and Curiosities: Power Functions by Sheepo - YouTube](https://www.youtube.com/watch?v=Z3jPRLu-5TI)
-[LEGO Power Functions Wire Plug Pinout Explained - YouTube](https://www.youtube.com/watch?v=i_4d-XsgdA0) !important
+[LEGO Power Functions Wire Plug Pinout Explained - YouTube](https://www.youtube.com/watch?v=i_4d-XsgdA0) ❗!important
 [piece information - At what voltage do the c1 and c2 lines run at when controlling a lego servo motor? - Bricks](https://bricks.stackexchange.com/questions/6620/at-what-voltage-do-the-c1-and-c2-lines-run-at-when-controlling-a-lego-servo-moto/)
 Out1 and Out2 of the IR Receiver have C1 and C2 in flipped.
 
@@ -884,7 +884,7 @@ Out1 and Out2 of the IR Receiver have C1 and C2 in flipped.
 
 [lego technic 8297 off-roader remote controlled with 2.4GHz transmitter and receiver - YouTube](https://www.youtube.com/watch?v=NAD-14hkb58)
 
-[Brian Zweerink's Awesome Blog: LEGO 2.4 GHz Power Functions Radio Control DIY Circuit](http://brianzawesomeblog.blogspot.com/2014/01/lego-24-ghz-power-functions-radio.html) !important, similar to what I'm doing with Picaxe 14M2
+[Brian Zweerink's Awesome Blog: LEGO 2.4 GHz Power Functions Radio Control DIY Circuit](http://brianzawesomeblog.blogspot.com/2014/01/lego-24-ghz-power-functions-radio.html) ❗!important, similar to what I'm doing with Picaxe 14M2
 
 [MT305 无限 3 通道 2.4G 控 可控制车灯的开关 车模船模遥控器接收器-淘宝网](https://item.taobao.com/item.htm?id=524602039990)
 [特价富斯 GT2 遥控器 模型遥控器 高速车 遥控船遥控器一个-淘宝网](https://item.taobao.com/item.htm?id=21079368463)
@@ -953,7 +953,7 @@ Also have custom chassis with 2.4GHz receiver
 [国产 Buwizz？双鹰 C51027 遥控机器人 开箱评测*开箱晒物*什么值得买](https://post.smzdm.com/p/685838/)
 
 motors:
-[双鹰 CaDA 国产 88003 88004 12787c01(6024100) 电机伺服回力马达-淘宝网](https://item.taobao.com/item.htm?id=568732832644) !important
+[双鹰 CaDA 国产 88003 88004 12787c01(6024100) 电机伺服回力马达-淘宝网](https://item.taobao.com/item.htm?id=568732832644) ❗!important
 [双鹰 cada 科技系列 pf 伺服电机 L 马达锂电池遥控器 moc 机械组动力套装-tmall.com 天猫](https://detail.tmall.com/item.htm?id=568658680251)
 [正版cada咔搭积木伺服马达动力电机锂电池动力套装pf改装升级配件-tmall.com天猫](https://detail.tmall.com/item.htm?id=568658680251&skuId=3808020314090)
 
@@ -1014,7 +1014,7 @@ AA battery box 8801 28-29
 50cm extension 25
 27cm switch 18
 
-[乐拼科技机械马达电机组 PF 摇控器电池盒改装电动积木配件兼容乐高-淘宝网](https://item.taobao.com/item.htm?id=571625557345) !important
+[乐拼科技机械马达电机组 PF 摇控器电池盒改装电动积木配件兼容乐高-淘宝网](https://item.taobao.com/item.htm?id=571625557345) ❗!important
 [国产 ev3 科技 MOC 动力组改装 PF 配件 M 马达拼装积木 8883 电机锂电池-淘宝网](https://item.taobao.com/item.htm?id=572300851787)
 [可编程积木舵机microbit伺服电机DIY小车微型十字输出轴兼容乐高-淘宝网](https://item.taobao.com/item.htm?id=715120853453)
 [齐护180 270 360度兼容乐高大扭力积木舵机数字金属齿轮Mixly编程-淘宝网](https://item.taobao.com/item.htm?id=607216357889)
@@ -1241,7 +1241,7 @@ Mostly pirates LEGO:
 
 Original sets:
 宝玩乐 **星堡** military sets
-[启蒙](http://www.qmjm.com/)/ENLIGHTEN targets small child
+[奇妙积木KEEPPLEY](https://www.qmjm.com/)/启蒙/ENLIGHTEN military sets, Marvel, Sanrio, Ultraman, Conan
 
 全冠 military sets
 開智 military sets

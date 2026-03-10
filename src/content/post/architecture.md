@@ -2,7 +2,7 @@
 title: Architecture
 description: ""
 created: 2025-05-01
-updated: 2025-10-15
+updated: 2025-11-24
 tags:
   - architecture
 ---
@@ -15,3 +15,5 @@ tags:
 [西方建築風格速通！一眼識別各種建築風格，歐洲旅行不發愁！ - YouTube](https://www.youtube.com/watch?v=vsiOxHxX5t8)
 
 [Why You Don’t See Blueprints Anymore - YouTube](https://www.youtube.com/watch?v=l_pwVshpbLM)
+
+[失落的道家黑科技：來自7000年前的仿生學，今天的技術無法複製……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=QJMgCuQqxS4)

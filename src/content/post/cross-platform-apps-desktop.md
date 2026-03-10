@@ -2,7 +2,7 @@
 title: Cross Platform Apps (Desktop)
 description: ""
 created: 2022-05-03
-updated: 2025-10-10
+updated: 2026-01-13
 tags:
   - app
 ---
@@ -15,7 +15,7 @@ tags:
 [[zig-lang#GUI]]
 [[v-lang]]
 
-[Cross-platform GUI Toolkit Trainwreck, 2016 Edition](http://blog.johnnovak.net/2016/05/29/cross-platform-gui-trainwreck-2016-edition/) !important
+[Cross-platform GUI Toolkit Trainwreck, 2016 Edition](http://blog.johnnovak.net/2016/05/29/cross-platform-gui-trainwreck-2016-edition/) ❗!important
 
 [Graphic User Interface FAQ — Python documentation](https://docs.python.org/3/faq/gui.html)
 
@@ -254,6 +254,7 @@ Provides solutions for scientific data visualization
 ## Skia
 
 [Skia](https://skia.org/)
+[Chromium Blog: Introducing Skia Graphite: Chrome's rasterization backend for the future](https://blog.chromium.org/2025/07/introducing-skia-graphite-chromes.html)
 
 Used by Flutter, Android, Chrome, Firefox, Avalonia
 Bindings in Go, C# and other languages
@@ -301,7 +302,7 @@ Binding to native GUI widgets.
 [wxPython API Documentation — wxPython Phoenix documentation](https://docs.wxpython.org/)
 [wxPython API Documentation — wxPython Phoenix documentation](https://wxpython.org/Phoenix/docs/html/index.html)
 [FrontPage - wxPyWiki](https://wiki.wxpython.org/)
-[Wax - Python Wiki](https://wiki.python.org/moin/Wax) inactive
+[Wax - Python Wiki](https://wiki.python.org/moin/Wax) 😴inactive
 
 [wxForty-Two Blog | wxPython](https://www.wxpython.org/blog/)
 [wxPython Tutorial - Tutorialspoint](https://www.tutorialspoint.com/wxpython/index.htm)

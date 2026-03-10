@@ -2,7 +2,7 @@
 title: History Europe
 description: ""
 created: 2016-09-12
-updated: 2025-10-10
+updated: 2026-02-12
 tags:
   - history
   - history/europe
@@ -28,7 +28,7 @@ Herodotus, the first historian
 [8 分钟速读《极简欧洲史》丨 The Shortest History of Europe 丨柴知道丨读书 - YouTube](https://www.youtube.com/watch?v=jBwHvGZZ7wk)
 [History of Europe - 6013 years in 3 minutes - YouTube](https://www.youtube.com/watch?v=uxDyJ_6N-6A)
 [History of Europe [1-2016] [Every year] - YouTube](https://www.youtube.com/watch?v=gn6mYygyxQk)
-[The History of Europe: Every Year - YouTube](https://www.youtube.com/watch?v=oWWLECJnylM) 3650B.C-2016
+[The History of Europe: Every Year - YouTube](https://www.youtube.com/watch?v=oWWLECJnylM) 3650BC-2016
 [英國、德國、法國、義呆利曾是同一個國家!? 歐洲是怎麼誕生的? 【15分鐘了解四大強國歷史】 - YouTube](https://www.youtube.com/watch?v=whKw6NEzN8o)
 [The origin of every European country's name - YouTube](https://www.youtube.com/watch?v=2Pcv2ySMi40)
 [British country names explained - YouTube](https://www.youtube.com/watch?v=aXAjMlTO7Dc)
@@ -44,13 +44,16 @@ Herodotus, the first historian
 
 ## Holy Roman Empire
 
-~800CE, formed Gothic leader
+> "The Holy Roman Empire was neither holy, nor Roman, nor an Empire"
+
+~800 CE, formed Gothic leader formed the Frankish Kingdom in modern German, French and Northern Italy
 
 [How did the Holy Roman Empire Form? | Animated History - YouTube](https://www.youtube.com/watch?v=0PN9f1Sz3bc)
 Charlemagne and Carlin split the Frankish Kingdom into two and had civil war
 Charlemagne reunited the Kingdom with the death of Carlin
 Charlemagne was then christened by the Pope Emperor of the Romans, a title that was held by the Queen of Eastern Roman Empire
 After Charlemagne's death, the Kingdom was again divided into smaller nations due to Frankish succession law
+Later Otto I was elected the king of East Frankish Kingdom, he was again christened by the Pope Emperor of the Romans in 962 CE
 
 ## Crusade
 

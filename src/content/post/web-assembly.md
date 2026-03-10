@@ -2,7 +2,7 @@
 title: Web Assembly
 description: ""
 created: 2017-06-19
-updated: 2025-10-22
+updated: 2026-01-13
 tags:
   - wasm
   - web
@@ -35,7 +35,7 @@ Playgrounds:
 [Compiler Explorer](https://rust.godbolt.org/z/PZqG56)
 
 [mbasso/awesome-wasm: 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.](https://github.com/mbasso/awesome-wasm)
-[WebAssembly Language Support Matrix | Fermyon • Experience the next wave of cloud computing.](https://www.fermyon.com/wasm-languages/webassembly-language-support) !important
+[WebAssembly Language Support Matrix | Fermyon • Experience the next wave of cloud computing.](https://www.fermyon.com/wasm-languages/webassembly-language-support) ❗!important
 
 Announcement
 [Brendan Eich » Blog Archive » From ASM.JS to WebAssembly](https://brendaneich.com/2015/06/from-asm-js-to-webassembly/) 2015-06
@@ -249,10 +249,11 @@ supports CPython compiled to WebAssembly
 [A Brief Tour through Pyodide - Iodide](https://alpha.iodide.io/notebooks/300/) Iodide (deprecated) is for data science
 [Pyodide: Bringing the scientific Python stack to the browser - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/)
 [Pyodide Spin Out and 0.17 Release - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2021/04/pyodide-spin-out-and-0-17-release/)
+[Run Real Python in Browsers With Pyodide and WebAssembly - The New Stack](https://thenewstack.io/run-real-python-in-browsers-with-pyodide-and-webassembly/)
 
 ### PyScript
 
-[PyScript | Run Python in your HTML](https://pyscript.net/) package TypeScrypt + Svelte + Tailwind + Pyodide together
+[PyScript is an open source platform for Python in the browser.](https://pyscript.net/) package TypeScrypt + Svelte + Tailwind + Pyodide together
 [pyscript/pyscript: Home Page: https://pyscript.net Examples: https://pyscript.net/examples](https://github.com/pyscript/pyscript)
 [A First Look at PyScript: Python in the Web Browser – Real Python](https://realpython.com/pyscript-python-in-browser/)
 [PyScript: Making Python Scripts Work In Browser For Web App Creation](https://www.searchenginejournal.com/python-scripts-web-app-creation/454348/)

@@ -2,7 +2,7 @@
 title: The Go Programming Language
 description: Build simple, secure, scalable systems with Go
 created: 2015-02-16
-updated: 2025-10-10
+updated: 2026-02-24
 tags:
   - comp/lang
   - go-lang
@@ -90,6 +90,15 @@ Now it defaults to `$HOME/go` and stores packages and `GOBIN`
 [google/capslock](https://github.com/google/capslock) capability analysis CLI for Go packages
 
 [Goblin](https://goblin.run/#introduction)
+
+### `-trimpath`
+
+The fullpath of source file is embedded in the output binary and will be put in the stacktrace.
+Use `go build -trimpath` to convert the fullpath to relative/module path.
+Use `-trimpath` to remove personal info and create reproducible builds.
+
+[深入剖析 go build -trimpath 隐藏源码路径的技术原理本文将深入剖析 `go build -trimpa - 掘金](https://juejin.cn/post/7477406783859015689)
+[Unexpected side effect of -trimpath for go version -m - Getting Help - Go Forum](https://forum.golangbridge.org/t/unexpected-side-effect-of-trimpath-for-go-version-m/37057)
 
 ### Linting
 
@@ -486,9 +495,12 @@ formatting the value exactly as if it were an integer.
 
 [template package - html/template - Go Packages](https://pkg.go.dev/html/template)
 
+[Generating HTML from Go](https://dcreager.net/languages/go/html-generation/)
+
 #### templ
 
 > language server for transpiling templ
+> see [[web-dev#htmx]]
 
 [Introduction | templ docs](https://templ.guide/)
 [a-h/templ: A language for writing HTML user interfaces in Go.](https://github.com/a-h/templ)
@@ -504,6 +516,10 @@ formatting the value exactly as if it were an integer.
 Anthony GG
 [Coding The Next Big Web Framework (Go, HTMX, And Templ) - YouTube](https://www.youtube.com/watch?v=2KyZJVQFa5M) 2:40:33
 [Getting hot reload working with Go, Templ, Air and Docker! - YouTube](https://www.youtube.com/watch?v=Py_Wb2N2vZE)
+
+#### ZIN
+
+[zin-engine/core: ⚙️ The core Go engine powering ZIN — a minimal zero-boilerplate HTML preprocessor for building dynamic sites with static simplicity.](https://github.com/zin-engine/core)
 
 ### web
 
@@ -633,13 +649,29 @@ Anthony GG
 [Techstructive Blog | Golang: Command Line Arguments](https://www.meetgor.com/golang-command-line-args/)
 [Fun With Flags | Gopher Academy Blog](https://blog.gopheracademy.com/advent-2019/flags/)
 
+[jessevdk/go-flags: go command line option parser](https://github.com/jessevdk/go-flags)
+
+[Welcome - urfave/cli](https://cli.urfave.org/)
+[urfave/cli: A simple, fast, and fun package for building command line apps in Go](https://github.com/urfave/cli)
+
+[hanslub42/rlwrap: A readline wrapper](https://github.com/hanslub42/rlwrap)
+
+[meowgorithm/babyenv: Go environment var parsing, for babies](https://github.com/meowgorithm/babyenv) structure tag for env
+
+### spf13
+
 [Cobra. Dev](https://cobra.dev/)
 [spf13/cobra: A Commander for modern Go CLI interactions](https://github.com/spf13/cobra)
 [spf13/viper: Go configuration with fangs](https://github.com/spf13/viper)
 [Building an Awesome CLI App in Go - OSCON 2017 - spf13.com](https://spf13.com/presentation/building-an-awesome-cli-app-in-go-oscon/) From slide 134
 [This Makes Golang CLI Development So MUCH Better - YouTube](https://www.youtube.com/watch?v=yybzcix10XI)
 
-[jessevdk/go-flags: go command line option parser](https://github.com/jessevdk/go-flags)
+#### TUI
+
+[muesli/termenv: Advanced ANSI style & color support for your terminal applications](https://github.com/muesli/termenv)
+
+[PTerm | A Go library to beautify terminal output](https://pterm.sh/)
+[pterm/pterm: ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform compatible.](https://github.com/pterm/pterm)
 
 [gdamore/tcell: Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.](https://github.com/gdamore/tcell)
 [marcusolsson/tui-go: A UI library for terminal applications.](https://github.com/marcusolsson/tui-go)
@@ -648,16 +680,6 @@ Anthony GG
 
 [Quickstart - termui](https://termui.readthedocs.io/en/latest/quickstart/)
 [gizak/termui: Golang terminal dashboard](https://github.com/gizak/termui)
-
-[hanslub42/rlwrap: A readline wrapper](https://github.com/hanslub42/rlwrap)
-
-[muesli/termenv: Advanced ANSI style & color support for your terminal applications](https://github.com/muesli/termenv)
-
-[AlecAivazis/survey: A golang library for building interactive prompts with full support for windows and posix terminals.](https://github.com/AlecAivazis/survey)
-
-[urfave/cli: A simple, fast, and fun package for building command line apps in Go](https://github.com/urfave/cli)
-
-[meowgorithm/babyenv: Go environment var parsing, for babies](https://github.com/meowgorithm/babyenv)
 
 #### Charm/Bubbletea/Bubbles
 
@@ -1472,6 +1494,9 @@ go test -count=1
 
 [Test-driven development with Go — Bitfield Consulting](https://bitfieldconsulting.com/golang/tdd)
 [Random testing in Go — Bitfield Consulting](https://bitfieldconsulting.com/golang/random-testing)
+
+[dvyukov/go-fuzz: Randomized testing for Go](https://github.com/dvyukov/go-fuzz)
+[google/gofuzz: Fuzz testing for go.](https://github.com/google/gofuzz)
 [Fuzz tests in Go — Bitfield Consulting](https://bitfieldconsulting.com/golang/fuzz-tests)
 [Writing a Go fuzz target — Bitfield Consulting](https://bitfieldconsulting.com/golang/fuzz-target)
 
@@ -1479,6 +1504,18 @@ go test -count=1
 
 [testscript package - github.com/rogpeppe/go-internal/testscript - Go Packages](https://pkg.go.dev/github.com/rogpeppe/go-internal/testscript)
 [Test scripts in Go — Bitfield Consulting](https://bitfieldconsulting.com/golang/test-scripts) series
+
+## Security
+
+[Security - The Go Programming Language](https://go.dev/doc/security/)
+[Go Vulnerability Management - The Go Programming Language](https://go.dev/doc/security/vuln/)
+[Go Vulnerability Database - Go Packages](https://pkg.go.dev/vuln/)
+[govulncheck command - golang.org/x/vuln/cmd/govulncheck - Go Packages](https://pkg.go.dev/golang.org/x/vuln/cmd/govulncheck)
+
+[securego/gosec: Go security checker](https://github.com/securego/gosec)
+[Staticcheck](https://staticcheck.dev/)
+
+[Security assessment techniques for Go projects - The Trail of Bits Blog](https://blog.trailofbits.com/2019/11/07/attacking-go-vr-ttps/)
 
 ## Tips and Tricks
 

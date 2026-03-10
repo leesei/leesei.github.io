@@ -2,7 +2,7 @@
 title: Window Manager
 description: ""
 created: 2014-12-12
-updated: 2025-10-10
+updated: 2026-02-06
 tags:
   - desktop
   - linux
@@ -48,6 +48,7 @@ DistroTube
 
 - list base (dynamic tiler): predetermined layouts
 - tree base (manual tiler): manually specify spawning position for the new window
+- use `xprop` to query window classname for custom roles
 
 [Force Your Terminal To Swallow - YouTube](https://www.youtube.com/watch?v=mBNLzHcUtTo)
 [salman-abedin/devour: X11 window swallower](https://github.com/salman-abedin/devour/)
@@ -110,30 +111,36 @@ Qtile repos's `scripts/gen-keybinding-img` can be used to generate keybinding im
 - good scratchpad implementation
 - good taskbar implementation
 - good documentation (best if you know Python)
+- support X11 or Wayland
 
 ```
 yay -S qtile qtile-extras python-xdg python-dbus-next lxpolkit scrot dex
+```
 
-Optional dependencies for qtile
-    alsa-utils: for volume widget [installed]
-    canto-daemon: for canto widget
-    cmus: for cmus widget
-    jupyter_console: for interaction with qtile via Jupyter
-    khal: for khal_calendar widget
-    libinput: for Wayland backend [installed]
-    libpulse: for pulse_volume and pulseaudio_ffi widget [installed]
-    lm_sensors: for sensors widget [installed]
-    moc: for moc widget
-    python-bowler: for migrating configuration files
-    python-dbus-next: for utils, notifications and several widgets
-    python-iwlib: for wlan widget
-    python-keyring: for imapwidget widget [installed]
-    python-mpd2: mpd2widget widget
-    python-psutil: graph, net and memory widget [installed]
-    python-pywlroots: for Wayland backend [installed]
-    python-setproctitle: change process name to qtile [installed]
-    python-xdg: launchbar widget
-    xorg-xwayland: for XWayland support [installed]
+```
+Optional Deps   :
+ alsa-utils: for volume widget
+ canto-daemon: for canto widget
+ cmus: for cmus widget
+ jupyter_console: for interaction with qtile via Jupyter
+ khal: for khal_calendar widget
+ libinput: for Wayland backend
+ libpulse: for pulse_volume and pulseaudio_ffi widget
+ lm_sensors: for sensors widget
+ moc: for moc widget
+ python-bowler: for migrating configuration files
+ python-dbus-fast: for utils, notifications and several widgets
+ python-iwlib: for wlan widget
+ python-keyring: for imapwidget widget
+ python-libcst: for migrations
+ python-mpd2: mpd2widget widget
+ python-psutil: graph, net and memory widget
+ python-pywayland: for Wayland backend
+ python-pywlroots: for Wayland backend
+ python-setproctitle: change process name to qtile
+ python-xdg: launchbar widget
+ python-xkbcommon: for Wayland backend
+ xorg-xwayland: for XWayland support
 ```
 
 ```sh
@@ -213,9 +220,16 @@ The Linux Cast
 > i3 on Wayland
 
 [Sway](http://swaywm.org/)
+[swaywm/wlroots: A modular Wayland compositor library](https://github.com/swaywm/wlroots)
+[swaywm/wlr-protocol: Wayland protocols designed for use in wlroots (and other compositors)](https://github.com/swaywm/wlr-protocols)
+
 [Sway - A Tiling Wayland i3-Compatible Compositor](https://www.fossmint.com/sway-a-tiling-wayland-i3-compatible-compositor/)
 [Manjaro Sway Edition - Wayland Tiling Window Manager - YouTube](https://www.youtube.com/watch?v=34DIO61GxAE)
 [SwayWM First Impressions - Is it Good? - YouTube](https://www.youtube.com/watch?v=FmEaMntQDzM)
+
+### dwl
+
+[dwl/dwl: dwm for Wayland - Codeberg.org](https://codeberg.org/dwl/dwl)
 
 ### Hyprland
 
@@ -225,14 +239,21 @@ The Linux Cast
 [Hyprland - ArchWiki](https://wiki.archlinux.org/title/Hyprland)
 [hyprwm/Hyprland: Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.](https://github.com/hyprwm/Hyprland)
 
+[Lets Learn HyprLand together! - YouTube](https://www.youtube.com/watch?v=dwJsT5pPmXw)
 [Is Hyprland Good? - A Brief First Look - YouTube](https://www.youtube.com/watch?v=IKDqtGVrIsY)
 
 ## Supporting Components
 
+Since tiling WM replaces DE, some DE features (like panel and notification) have to be handled separately by other components.
+Many components from Xfce and Lxde are used as they don't have much dependencies.
+
+- [[desktop-launchers]]
+- [Hummer12007/brightnessctl](https://github.com/Hummer12007/brightnessctl)
+- [[linux-desktop#xrandr]] monitor settings
+- [jceb/dex: DesktopEntry Execution](https://github.com/jceb/dex)
+
 [Eww - Widgets for everyone! - eww documentation](https://elkowar.github.io/eww/)
 [elkowar/eww: ElKowars wacky widgets](https://github.com/elkowar/eww)
-
-[jceb/dex: DesktopEntry Execution](https://github.com/jceb/dex)
 
 app launcher: rofi, dmenu
 power management: apcid
@@ -250,15 +271,12 @@ autostart: dex
 
 [[desktop-apps#Scratchpad]]
 
-Since tiling WM replaces DE, panel and notification have to be handled separately.
-These also allows for storing you desktop configs with dotfiles and sharing them.
-i3, qTile and dwm have panel built-in.
-Many components from Xfce are used as they don't have much dependencies.
-
 [noctuid/tdrop: A Glorified WM-Independent Dropdown Creator](https://github.com/noctuid/tdrop)
 [Turn Your Window Manager Into A Desktop Environment - YouTube](https://www.youtube.com/watch?v=FX26s8INUYo)
 
 ### Panel/Notification
+
+i3, qTile and dwm have panel built-in.
 
 [Polybar - A fast and easy-to-use tool for creating status bars](https://polybar.github.io/) resource intensive
 [polybar/polybar: A fast and easy-to-use status bar](https://github.com/polybar/polybar)
@@ -284,21 +302,25 @@ notification
 [Nitrogen - ArchWiki](https://wiki.archlinux.org/title/nitrogen)
 [Nitrogen & Feh — ArchLabs Linux Documentation](https://archlabslinux.gitlab.io/docs/customization/nitrogen_and_feh.html)
 
+[dylanaraps/pywal: 🎨 Generate and change color-schemes on the fly.](https://github.com/dylanaraps/pywal) color scheme from wallpaper
+
 ### Compositors
 
-for transparency, shadows
-[chjj/compton: A compositor for X11.](https://github.com/chjj/compton)
-[yshui/picom: A lightweight compositor for X11](https://github.com/yshui/picom)
+for transparency, animations, shadows
+[yshui/picom: A lightweight compositor for X11](https://github.com/yshui/picom) fork of compton
 [Picom: Window Blur Should Always Be This Easy - YouTube](https://www.youtube.com/watch?v=_RrJSKr-o8A)
 
-[cdown/clipmenu: Clipboard management using dmenu](https://github.com/cdown/clipmenu)
+[chjj/compton: A compositor for X11.](https://github.com/chjj/compton) 😴inactive
 
 ### Volume Control
 
-volume-icon, pavucontrol
+volume-icon
 
 [florentc/xob: A lightweight overlay volume (or anything) bar for the X Window System.](https://github.com/florentc/xob)
 [Xob: Bar Overlays Add Extra Flair To Any Linux Desktop - YouTube](https://www.youtube.com/watch?v=ill5AhZFa4U)
+
+`amixer` from [Advanced Linux Sound Architecture (ALSA)](https://wiki.archlinux.org/title/Advanced_Linux_Sound_Architecture)
+[PulseAudio Frontends - ArchWiki](https://wiki.archlinux.org/title/PulseAudio#Console)
 
 ### Screen Lock
 
@@ -446,7 +468,17 @@ wmctrl -i -r $win2 -e 0,$((width/2)),0,$((width/2)),$height
 ## Python X11 interface
 
 [BurntSushi/xpyb: A clone of xorg-xpyb.](https://github.com/BurntSushi/xpyb) 😴inactive
-[tych0/xcffib: A drop-in replacement for xpyb based on cffi](https://github.com/tych0/xcffib#installation)
+[tych0/xcffib: A drop-in replacement for xpyb based on cffi](https://github.com/tych0/xcffib)
+
+## Windows
+
+[RamonUnch/AltSnap: Maintained continuation of Stefan Sundin's AltDrag](https://github.com/RamonUnch/AltSnap)
+[Move and Resize Windows Like a PRO - YouTube](https://www.youtube.com/watch?v=5V55WZ_K1jg)
+[Windows增强小工具AltSnap-子痕的博客](https://www.mzihen.com/altsnap/)
+
+[FancyZones Window Manager for Windows - PowerToys | Microsoft Learn](https://learn.microsoft.com/en-us/windows/powertoys/fancyzones)
+[FancyZones Overview · microsoft/PowerToys Wiki · GitHub](https://github.com/microsoft/PowerToys/wiki/FancyZones-Overview)
+[Windows 10 PowerToys: How to use and configure FancyZones - TechRepublic](https://www.techrepublic.com/article/windows-10-powertoys-how-to-use-and-configure-fancyzones/)
 
 ## OS X
 

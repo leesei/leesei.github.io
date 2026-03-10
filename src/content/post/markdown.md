@@ -2,11 +2,14 @@
 title: Markdown
 description: ""
 created: 2015-04-23
-updated: 2025-10-10
+updated: 2025-11-18
 tags:
   - comp/lang
   - markdown
+  - unifiedjs
 ---
+
+> many Markdown tools are in the [[unifiedjs]] ecosystem
 
 [Markdown Guide](https://www.markdownguide.org/)
 
@@ -109,12 +112,11 @@ tags:
 
 [Choosing the Right Markdown Parser | CSS-Tricks - CSS-Tricks](https://css-tricks.com/choosing-right-markdown-parser/)
 
-[chjj/marked](https://github.com/chjj/marked)
+[micromark/micromark: the smallest commonmark (optionally gfm) compliant markdown parser that exists; new foundation for @unifiedjs (hundreds of projects w/ billions of downloads for dealing w/ content)](https://github.com/micromark/micromark)
 
-Extensible:
-[jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable)
-[markdown-it/markdown-it](https://github.com/markdown-it/markdown-it)
-[keywords:markdown-it-plugin - npm search](https://www.npmjs.com/search?q=keywords:markdown-it-plugin)
+[jonschlinkert/remarkable: Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://github.com/breakdance/breakdance for HTML-to-markdown conversion. Use https://github.com/jonschlinkert/markdown-toc to generate a table of contents.](https://github.com/jonschlinkert/remarkable) extensible
+
+[chjj/marked](https://github.com/chjj/marked)
 
 [phenomic/markdown-as-json](https://github.com/phenomic/markdown-as-json)
 
@@ -138,6 +140,13 @@ Extensible:
 
 [charmbracelet/glamour: Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️](https://github.com/charmbracelet/glamour)
 
+### Markdown-it
+
+[markdown-it/markdown-it: Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed](https://github.com/markdown-it/markdown-it) extensible
+[markdown-it API documentation](https://markdown-it.github.io/markdown-it/)
+
+[keywords:markdown-it-plugin - npm search](https://www.npmjs.com/search?q=keywords:markdown-it-plugin)
+
 ## Frontmatter
 
 [frontmatter · GitHub Topics](https://github.com/topics/frontmatter)
@@ -145,6 +154,8 @@ Extensible:
 [frontmatter - Topics - unified](https://unifiedjs.com/explore/topic/frontmatter/)
 [remark-frontmatter - unified](https://unifiedjs.com/explore/package/remark-frontmatter/)
 [remark-parse-frontmatter - unified](https://unifiedjs.com/explore/package/remark-parse-frontmatter/) provides validation
+
+[micromark/micromark-extension-frontmatter: micromark extension to support frontmatter (YAML, TOML, etc)](https://github.com/micromark/micromark-extension-frontmatter)
 
 [jonschlinkert/gray-matter: Smarter YAML front matter parser](https://github.com/jonschlinkert/gray-matter)
 
@@ -179,82 +190,10 @@ Extensible:
 
 ## Tools
 
+[AutoMD - Markdown, Automated.](https://automd.unjs.io/)
+
 [jaywcjlove/markdown-to-html-cli: Command line tool that converts markdown to HTML.](https://github.com/jaywcjlove/markdown-to-html-cli)
 
 [Mmark: powerful markdown parser](https://mmark.miek.nl/)
 [mmarkdown/mmark: Mmark: a powerful markdown processor in Go geared towards the IETF](https://github.com/mmarkdown/mmark) parser and renderer
 [Learning-Go-zh-cn/Makefile at master · mikespook/Learning-Go-zh-cn](https://github.com/mikespook/Learning-Go-zh-cn/blob/master/Makefile) sample Makefile
-
----
-
-# Unified
-
-[unified](https://unifiedjs.com/)
-[unifiedjs/unified: ☔ friendly interface backed by an ecosystem of plugins built for creating and manipulating content](https://github.com/unifiedjs/unified)
-[unified-args - unified](https://unifiedjs.com/explore/package/unified-args/)
-[unified-engine - unified](https://unifiedjs.com/explore/package/unified-engine/)
-
-[syntax-tree/unist: Universal Syntax Tree used by @unifiedjs](https://github.com/syntax-tree/unist) specification for syntax trees
-
-- [hast](https://github.com/syntax-tree/hast) (for HTML)
-- [nlcst](https://github.com/syntax-tree/nlcst) (for natural language)
-- [mdast](https://github.com/syntax-tree/mdast) (for Markdown)
-- [xast](https://github.com/syntax-tree/xast) (for XML)
-
-[unifiedjs/awesome-unified: Curated list of awesome unified resources](https://github.com/unifiedjs/awesome-unified)
-[unified-plugin · GitHub Topics](https://github.com/topics/unified-plugin)
-[vfile - Keywords - unified](https://unifiedjs.com/explore/keyword/vfile/)
-[vfile - unified](https://unifiedjs.com/explore/package/vfile/)
-[vfile-location - unified](https://unifiedjs.com/explore/package/vfile-location/)
-
-[micromark/micromark: the smallest commonmark (optionally gfm) compliant markdown parser that exists; new foundation for @unifiedjs (hundreds of projects w/ billions of downloads for dealing w/ content)](https://github.com/micromark/micromark)
-[micromark/micromark-extension-frontmatter: micromark extension to support frontmatter (YAML, TOML, etc)](https://github.com/micromark/micromark-extension-frontmatter)
-
-[unified - Open Collective](https://opencollective.com/unified)
-[Crowdsourcing the evolution of text parsing with unified](https://medium.com/unifiedjs/collectively-evolving-through-crowdsourcing-22c359ea95cc)
-
-## Remark
-
-[remarkjs/remark: remark is a popular tool that transforms markdown with plugins. These plugins can inspect and change your markup. You can use remark on the server, the client, CLIs, deno, etc.](https://github.com/remarkjs/remark) markdown processor powered by a plugins ecosystem
-[Change to use `micromark` by wooorm · Pull Request #536 · remarkjs/remark](https://github.com/remarkjs/remark/pull/536)
-
-[remarkjs/awesome-remark: Curated list of awesome remark resources](https://github.com/remarkjs/awesome-remark)
-[remark-plugin · GitHub Topics](https://github.com/topics/remark-plugin)
-[remark - unified](https://unifiedjs.com/explore/package/remark/)
-[remark - Keywords - unified](https://unifiedjs.com/explore/keyword/remark/)
-
-[remarkjs/remark-gemoji: plugin to turn gemoji shortcodes into emoji 👍](https://github.com/remarkjs/remark-gemoji)
-[remarkjs/remark-breaks: plugin to add break support, without needing spaces](https://github.com/remarkjs/remark-breaks)
-[kevin940726/remark-code-import: 📝 Populate code blocks from files](https://github.com/kevin940726/remark-code-import)
-[kevinzunigacuellar/remark-code-title: 🔌 remark plugin to add titles to code blocks](https://github.com/kevinzunigacuellar/remark-code-title)
-[landakram/remark-wiki-link: Parse and render wiki links.](https://github.com/landakram/remark-wiki-link)
-[remarkjs/remark-directive: remark plugin to support directives](https://github.com/remarkjs/remark-directive)
-
-[JulianCataldo/remark-lint-frontmatter-schema: Validate your Markdown frontmatter data against a JSON schema — remark-lint rule plugin](https://github.com/JulianCataldo/remark-lint-frontmatter-schema) VS Code plugin
-
-## Rehype
-
-[rehypejs/rehype: HTML processor powered by plugins part of the @unifiedjs collective](https://github.com/rehypejs/rehype) HTML processor powered by a plugin ecosystem
-
-[rehypejs/awesome-rehype: Curated list of awesome rehype resources](https://github.com/rehypejs/awesome-rehype)
-[rehype-plugin · GitHub Topics](https://github.com/topics/rehype-plugin)
-[rehype - Keywords - unified](https://unifiedjs.com/explore/keyword/rehype/)
-
-[rehypejs/rehype-external-links: rehype plugin to add rel (and target) to external links](https://github.com/rehypejs/rehype-external-links)
-[JS-DevTools/rehype-toc: A rehype plugin that adds a table of contents (TOC) to the page](https://github.com/JS-DevTools/rehype-toc)
-
-## Math
-
-[remarkjs/remark-math: remark and rehype plugins to support math](https://github.com/remarkjs/remark-math)
-[remark-math - unified](https://unifiedjs.com/explore/package/remark-math/)
-[rehype-katex - unified](https://unifiedjs.com/explore/package/rehype-katex/)
-[rehype-mathjax - unified](https://unifiedjs.com/explore/package/rehype-mathjax/)
-
-# Markdown-it
-
-[markdown-it/markdown-it: Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed](https://github.com/markdown-it/markdown-it)
-[markdown-it API documentation](https://markdown-it.github.io/markdown-it/)
-
-## Ecosystem
-
-[keywords:markdown-it-plugin - npm search](https://www.npmjs.com/search?q=keywords:markdown-it-plugin)

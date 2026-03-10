@@ -2,7 +2,7 @@
 title: Automobile
 description: ""
 created: 2020-05-27
-updated: 2025-10-10
+updated: 2026-02-25
 tags:
   - transportation
 ---
@@ -29,6 +29,8 @@ spyder
 
 [【亦】电动汽车覆灭史 - YouTube](https://www.youtube.com/watch?v=g6cWaOqIguo)
 
+[别笑，你也找不到底盘在哪！为什么一聊“底盘”，车企就吹“悬架”？【柴知道：车圈化简】 - YouTube](https://www.youtube.com/watch?v=MZNP8rARBEk)
+
 Start motor
 Overdrive
 Overrun
@@ -37,6 +39,8 @@ Traction control
 ## Driving/Road Safety
 
 [This Image Breaks AI - YouTube](https://www.youtube.com/watch?v=p6CfR3Wpz7Y)
+
+[Ta Sang - YouTube](https://www.youtube.com/@TaSang-j1g/shorts) techniques
 
 [【e ＋車路事】駕車遇交通意外應如何應對？律師教路保障自己 - ezone.hk - 科技焦點 - 科技 - D180727](https://ezone.ulifestyle.com.hk/article/2124744/【e＋車路事】駕車遇交通意外應如何應對？律師教路保障自己)
 [【e ＋車路事】遇交通意外想和解「私了」要點做？ 大律師教你簽和解紙 - ezone.hk - 科技焦點 - 科技 - D180810](https://ezone.ulifestyle.com.hk/article/2125126/【e＋車路事】遇交通意外想和解「私了」要點做？%20大律師教你簽和解紙!)
@@ -258,9 +262,63 @@ Scalable Open Architecture for Embedded Edge
 [soafee.io](https://www.soafee.io/)
 [SOAFEE · GitLab](https://gitlab.com/soafee)
 
+[dissecto - YouTube](https://www.youtube.com/@dissecto) ScapyCon
+
 [Automotive Oscilloscopes: What you need to know - YouTube](https://www.youtube.com/watch?v=LEzkoF-gAn4)
 
 [Car Hacking Village](https://www.carhackingvillage.com/)
+
+## In-vehicle Network
+
+[Test Happens - Teledyne LeCroy Blog: The Evolution of In-vehicle Network Architectures](https://blog.teledynelecroy.com/2023/02/the-evolution-of-in-vehicle-network.html)
+[Secure Automotive Ethernet for automated driving – Elektrobit](https://www.elektrobit.com/blog/automotive-ethernet-automated-driving-multi-level-security/)
+[Vehicle Networks: Digital Heartbeat of Modern Cars - dissecto GmbH](https://dissec.to/tech/vehicle-networks/)
+
+[How In-Vehicle Networking Bolsters Connectivity on the Road](https://www.keysight.com/blogs/en/tech/educ/2024/in-vehicle-networking)
+[Automotive Ethernet: The In-Vehicle Networking of the Future | Keysight Blogs](https://www.keysight.com/blogs/en/tech/educ/2024/automotive-ethernet)
+
+### Cybersecurity
+
+[Pwn2Own Hacking Competition 2025 Review | Trend Micro (US)](https://www.trendmicro.com/en_us/zero-day-initiative/pwn2own.html) event hosted by Trend Micro'ZDI and VicOne
+[TrendAI Zero Day Initiative - YouTube](https://www.youtube.com/@ZeroDayInitiative/playlists) Pwn2Own
+[Zero Day Initiative — Blog](https://www.zerodayinitiative.com/blog)
+[VicOne - Future-Ready Vehicle Protection Reinforced With Proven Automotive Threat Intelligence](https://vicone.com/)
+
+[Automotive Threat Matrix (ATM)](https://atm.automotiveisac.com/home) MITRE for automotive
+
+[WP-Mobile Security Threats in Connected Car Services.pdf](https://approov.io/hubfs/White%20Paper/WP-Mobile%20Security%20Threats%20in%20Connected%20Car%20Services.pdf)
+
+[Accelerating Threat Assessment in Vehicle ECUs | A TARA Case Study - IOActive](https://www.ioactive.com/accelerating-threat-assessment-in-vehicle-ecus/)
+[IOActive_Car_Hacking_Poories.pdf](https://www.ioactive.com/wp-content/uploads/pdfs/IOActive_Car_Hacking_Poories.pdf)
+[Commonalities in Vehicle Vulnerabilities](https://www.ioactive.com/wp-content/uploads/2025/05/IOActive-Commonalities-in-Vehicle-Vulnerabilities-Hammond-v1.pdf) 2018
+[Commonalities in Vehicle Vulnerabilities](https://www.ioactive.com/wp-content/uploads/2016/08/secure-car-wp.pdf) 2016
+[IOActive_Remote_Attack_Surfaces.pdf](https://www.ioactive.com/wp-content/uploads/2018/05/IOActive_Remote_Attack_Surfaces.pdf) 2014
+[IOActive_Adventures_in_Automotive_Networks_and_Control_Units.pdf](https://www.ioactive.com/wp-content/uploads/2018/05/IOActive_Adventures_in_Automotive_Networks_and_Control_Units.pdf) 2014
+
+[dissecto - YouTube](https://www.youtube.com/@dissecto/playlists) ScapyCon
+[ScapyCon 24 - Insights Into Vehicle Attack Vectors - Jan-Peter von Hunnius - YouTube](https://www.youtube.com/watch?v=6eEhJbbvTMs)
+[ScapyCon 25 - Vehicle Forensics - Francis Hoogendijk - YouTube](https://www.youtube.com/watch?v=9j-UxMUgmwE)
+[ScapyCon 24 - Past, Present and Future of Automotive Scapy - Dr. Nils Weiss - YouTube](https://www.youtube.com/watch?v=xoo8NphW-lQ9)
+[ScapyCon 25 - Automotive Ethernet Pentesting - Jonas Horreis - YouTube](https://www.youtube.com/watch?v=DS8naI_1qHk)
+
+[A Systematic Review on Security Attacks and Countermeasures in Automotive Ethernet | ACM Computing Surveys](https://dl.acm.org/doi/full/10.1145/3637059)
+[Cybersecurity of Automotive Wired Networking Systems: Evolution, Challenges, and Countermeasures | MDPI](https://www.mdpi.com/2079-9292/14/3/471)
+
+[Automotive Zero-Day Vulnerability Knowledge Base - VicOne](https://vicone.com/automotive-zero-day-vulnerabilities)
+[Car Hacking: Common Vulnerabilities and Exploits - SecQuest](https://www.secquest.co.uk/white-papers/car-hacking)
+[ATM](https://atm.automotiveisac.com/example)
+
+[Car Hacking: The New Frontier In Cybersecurity | by Redfox Security | Medium](https://redfoxsecurity.medium.com/car-hacking-the-new-frontier-in-cybersecurity-e8455bc9158b)
+[[2508.18155v1] $AutoGuardX$: A Comprehensive Cybersecurity Framework for Connected Vehicles](https://arxiv.org/abs/2508.18155v1)
+
+[Car Hacking Research: Remote Attack Tesla Motors by Keen Security Lab - YouTube](https://www.youtube.com/watch?v=c1XyhReNcHY)
+[free-fall-hacking-tesla-from-wireless-to-can-bus](https://blackhat.com/docs/us-17/thursday/us-17-Nie-Free-Fall-Hacking-Tesla-From-Wireless-To-CAN-Bus-wp.pdf)
+
+[How a Vehicle’s Smart Cockpit Can Get Hacked via a Malicious Update File - VicOne](https://vicone.com/blog/how-a-vehicles-smart-cockpit-can-get-hacked-via-a-malicious-update-file)
+[Hacking Automotive Ethernet Cameras - PlaxidityX](https://plaxidityx.com/blog/cyber-security-blog/hacking-automotive-ethernet-cameras/)
+
+[xCarbon - VicOne](https://vicone.com/products/xcarbon) IDPS
+[Smart Cockpit Protection Solutions - VicOne](https://vicone.com/solutions/smart-cockpit-protection) SDK for VPN, app scanning
 
 ### CAN bus
 

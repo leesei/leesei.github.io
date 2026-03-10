@@ -2,7 +2,7 @@
 title: How Games Work
 description: How games mechanics works, game design and how to make games, apart from rendering
 created: 2015-08-31
-updated: 2025-10-10
+updated: 2026-02-14
 tags:
   - game-design
   - games
@@ -28,6 +28,7 @@ tags:
 [Warbot - YouTube](https://www.youtube.com/channel/UCNOVwMpD-5A1xzcQGbIHNeA)
 [桜井政博のゲーム作るには - YouTube](https://www.youtube.com/@sora_sakurai_jp) 《星之卡比》、《任天堂明星大亂鬥》系列製作人
 [秦无邪OvO - YouTube](https://www.youtube.com/@AibitGames)
+[息焉遊焉 Ludology - YouTube](https://www.youtube.com/@ludology7882)
 
 [Extra Credits - YouTube](https://www.youtube.com/@extracredits) previously on Extra History channel
 [Extra Credits (ALL EPISODES) - YouTube](https://www.youtube.com/playlist?list=PLB9B0CA00461BB187)
@@ -103,6 +104,12 @@ tags:
 [Tears of the Kingdom - An Incredible Game That Annoyed Me To No End. - YouTube](https://www.youtube.com/watch?v=a4ldmt3eU2I) good game, bad interface
 
 [一个视频搞懂整个游戏制作流程，架构级拆解梳理，揭秘3A大厂踩过的坑。 - YouTube](https://www.youtube.com/watch?v=Ar-Vp0OaME0)
+
+[什麼是好玩？怎樣才叫好玩？一套改變遊戲設計史的理論，教你如何拆解分析遊戲 - YouTube](https://www.youtube.com/watch?v=LPq-JmVK8co) MDA framework
+
+- Mechanics
+- Dynamics
+- Aesthetics
 
 [10 Illusions Video Games Create to LIE TO YOU - YouTube](https://www.youtube.com/watch?v=kxpGx3XR_vU)
 [10 Things Video Games Use To TRICK YOUR BRAIN - YouTube](https://www.youtube.com/watch?v=2aXOhGYrLu8)
@@ -284,8 +291,12 @@ A perfectly balanced game is not fun to play as the player have to level up them
 - [chriscourses/pokemon-style-game](https://github.com/chriscourses/pokemon-style-game)
 - Tiled map editor
 
-## Middling of Games
+## Dark Patterns
 
+[Deceptive Patterns (aka Dark Patterns) - spreading awareness since 2010](https://www.deceptive.design/)
+[DarkPattern.games » Healthy Gaming « Avoid Addictive Dark Patterns](https://www.darkpattern.games/)
+
+[為什麼玩遊戲越來越像上班？淺談遊戲與APP中的「暗黑模式」，你的大腦如何被設計 - YouTube](https://www.youtube.com/watch?v=72KtcZvs61E)
 [为什么游戏越来越不好玩了 - YouTube](https://www.youtube.com/watch?v=jkILlqfShFE)
 
 同質化, 換皮
@@ -296,6 +307,17 @@ A perfectly balanced game is not fun to play as the player have to level up them
 [Let’s go whaling: Tricks for monetising mobile game players with free-to-play - YouTube](https://www.youtube.com/watch?v=xNjI03CGkb4)
 [The Tech Industry’s War on Kids - Richard Freed - Medium](https://medium.com/@richardnfreed/the-tech-industrys-psychological-war-on-kids-c452870464ce)
 [5 Psychological Tricks in Free-To-Play Games (and How to Avoid Them)](https://www.howtogeek.com/765113/5-psychological-tricks-in-free-to-play-games-and-how-to-avoid-them/)
+
+## Timeloop
+
+[10 Time Loop Video Games To Mess With Your Brain - YouTube](https://www.youtube.com/watch?v=-BMR1ZZWxXU)
+
+[Time Loop Nihilism - YouTube](https://www.youtube.com/watch?v=dZrEayPIrVE)
+
+[The Problem with Time Loop Games | 12 Minutes Analysis - YouTube](https://www.youtube.com/watch?v=4cl4OAUYddA)
+
+- causal loop
+- iterative loop
 
 ## Digital Right Management
 

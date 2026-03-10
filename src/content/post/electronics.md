@@ -2,14 +2,14 @@
 title: Electronics
 description: ""
 created: 2018-09-12
-updated: 2025-10-10
+updated: 2026-01-13
 tags:
   - electronics
   - maker
 ---
 
 [Keysight University](https://learn.keysight.com/)
-[STEMTera™ Breadboard Beginner's Guide](https://learn.stemtera.com/en/begin/onepage) !important
+[STEMTera™ Breadboard Beginner's Guide](https://learn.stemtera.com/en/begin/onepage) ❗!important
 [PyroElectro News, Projects & Tutorials](http://www.pyroelectro.com/)
 [Beginning Embedded Electronics - SparkFun Electronics](https://www.sparkfun.com/tutorials/category/1)
 [Basic Electronics Tutorials and Revision](https://www.electronics-tutorials.ws/)
@@ -17,7 +17,7 @@ tags:
 [Learning about Electronics](http://www.learningaboutelectronics.com/)
 ["Ultimate Electronics" Book - CircuitLab](https://www.circuitlab.com/textbook/)
 [Lessons In Electric Circuits](http://www.ibiblio.org/kuphaldt/electricCircuits/)
-[Textbook for Electrical Engineering & Electronics](https://www.allaboutcircuits.com/textbook/) !important
+[Textbook for Electrical Engineering & Electronics](https://www.allaboutcircuits.com/textbook/) ❗!important
 [Video Lectures on Electrical Engineering & Electronics](https://www.allaboutcircuits.com/video-lectures/)
 [Electronics I and II: [Analog Devices Wiki]](https://wiki.analog.com/university/courses/electronics/text/electronics-toc)
 [Arduino Playground - ElectroInfoResources](https://playground.arduino.cc/Main/ElectroInfoResources)
@@ -32,7 +32,7 @@ tags:
 [ElProCus - Electronic Projects for Engineering Students - ElProCus is an educational website on electronic projects for ECE and EEE students.](https://www.elprocus.com/)
 
 [Portal:Electronics - Wikiwand](https://www.wikiwand.com/en/Portal:Electronics)
-[Concepts | Tutorials - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/tags/concepts?page=all) !important
+[Concepts | Tutorials - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/tags/concepts?page=all) ❗!important
 
 [Analog vs. Digital - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/analog-vs-digital)
 [Analog to Digital Conversion - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/analog-to-digital-conversion)

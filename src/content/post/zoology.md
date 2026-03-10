@@ -2,7 +2,7 @@
 title: Zoology
 description: Scientific study of the animals kingdom
 created: 2021-10-30
-updated: 2025-10-10
+updated: 2026-02-18
 tags:
   - animals
   - biology
@@ -34,10 +34,10 @@ Bilaterians 兩側對稱動物
 [PBS Eons - YouTube](https://www.youtube.com/@eons)
 [Real Science - YouTube](https://www.youtube.com/@realscience)
 [Real Wild - YouTube](https://www.youtube.com/@RealWild)
+[Textbook Travel - YouTube](https://www.youtube.com/@Textbooktravel) taxonomy
 [TierZoo - YouTube](https://www.youtube.com/@TierZoo) comparing animals with gamified stats
 [Ze Frank - YouTube](https://www.youtube.com/@zefrank) sarcastic comments
 [許伯&簡芝—倉鼠人 - YouTube](https://www.youtube.com/@g8046000)
-[Textbook Travel - YouTube](https://www.youtube.com/@Textbooktravel) taxonomy
 
 [Zoology - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNRgJI4gHRLFtOD_r4hfJaF) CrashCourse
 [Insane Biology - YouTube](https://www.youtube.com/playlist?list=PLAzuPFpwy9ZLIG5hDwjGyccJr6FpTsrEr)
@@ -319,6 +319,7 @@ Batoidea (rays) 鰩總目 有"大翅膀"
 [猫科 - Wikiwand](https://www.wikiwand.com/zh/articles/%E7%8C%AB%E7%A7%91)
 
 [All 40 Species of Wild Cat (Organised by Lineage) - YouTube](https://www.youtube.com/watch?v=cIJkTw9OeKQ)
+[ALL THE CATS, EXPLAINED - YouTube](https://www.youtube.com/watch?v=UWagM1FBB4c)
 
 [骨骼驚奇、天賦異稟的怪貓，叫起來像在罵街，戰鬥力堪比老虎的——猞猁！#老肉雜談 #肉識動物 - YouTube](https://www.youtube.com/watch?v=TeqMfgjxh-w) lynx
 
@@ -339,7 +340,8 @@ Cougar=Puma, Jaguar, Panther, Leopard 金錢豹 美洲豹
 [Canidae - Wikiwand](https://www.wikiwand.com/en/Canidae) Caninae and two distinct subfamily
 [Caninae - Wikiwand](https://www.wikiwand.com/en/Caninae)
 
-[All 15 Species of Wild Dog (Wolves, Jackals & Dogs) | Canines Pt. 1 - YouTube](https://www.youtube.com/watch?v=qFM92aMtUek)
+[All 15 Species of Wild Dog (Wolves, Jackals & Dogs) - YouTube](https://www.youtube.com/watch?v=qFM92aMtUek)
+[ALL THE DOGS, EXPLAINED - YouTube](https://www.youtube.com/watch?v=tuRl8moQbXU)
 
 [狼為何想當狗？從拯救諾姆城的二哈多哥，到超級智商的邊牧Chaser，世界上最特殊的動物——狗【老肉雜談】#動物 #寵物 #狗 #狼 #dog - YouTube](https://www.youtube.com/watch?v=jG0luF6OA8U)
 [從二哈的傳奇故事，到邊牧的超級智商！遠古的狼為何自願變成狗？關於狗的那些真相【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=jG0luF6OA8U)
@@ -352,6 +354,9 @@ Cougar=Puma, Jaguar, Panther, Leopard 金錢豹 美洲豹
 [奇蹄目 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E5%A5%87%E8%B9%84%E7%9B%AE)
 
 [【鬼谷说】奇蹄目：看铁蹄铮铮，踏遍万里河山 - YouTube](https://www.youtube.com/watch?v=k9QIoEqdwRI&t=3s)
+
+[马，这种动物到底有多奇怪？｜生物｜播客｜原来是这样 - YouTube](https://www.youtube.com/watch?v=UE1UlS0kHs8)
+[2026赤馬紅羊劫將至？揭秘馬族極限進化史：向天豎起四根中指，藏起五個心臟？絕不做家畜，基因突變馴化人類！｜總裁聊聊 - YouTube](https://www.youtube.com/watch?v=wSQuccpbx_s)
 
 ## Perissodactyla 偶蹄目
 
@@ -532,10 +537,17 @@ Arms, like those on an octopus, have suction cups the entire length of the limb.
 [Snake - Wikiwand](https://www.wikiwand.com/en/articles/snake)
 [Lists of snakes - Wikiwand](https://www.wikiwand.com/en/articles/List_of_snake_genera)
 
+[The Problem with Antivenom - YouTube](https://www.youtube.com/watch?v=1nY9fDDAGKw)
+[Why Don't Snakes Poison Themselves? - YouTube](https://www.youtube.com/watch?v=EzoqvBZe_gI)
+
 [【蛇年必看】眼鏡蛇噴射毒液，竟是為了對付人類！超級毒液讓人類變得更強？最致命毒蛇大揭秘【老肉雜談】#動物 #蛇 #蛇年 #眼鏡蛇 #生物 - YouTube](https://www.youtube.com/watch?v=33r0MkZVnlc)
 
-Neurotoxic
-Hemotoxic
+[How Horses Save Humans From Snakebites - YouTube](https://www.youtube.com/watch?v=7ziWrneMYss)
+
+Neurotoxic: interfere with neurotransmitters to damage nervous system and brain
+Hemotoxic: disturbs blood coagulation to prevent wounds from healing and causing internal bleeding
+Ctyotoxic: attacks cells to cause blisters, necrosis and cell death
+Myotoxic: destroys muscles and cause paralysis
 
 ## 棘皮动物
 

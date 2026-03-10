@@ -2,7 +2,7 @@
 title: Compiler
 description: How source code is turned into machine code
 created: 2023-04-14
-updated: 2025-10-10
+updated: 2025-12-16
 tags:
   - comp/hardware
   - comp/lang
@@ -26,6 +26,8 @@ tags:
 
 [When Zig Outshines Rust - Memory Efficient Enum Arrays](https://alic.dev/blog/dense-enums) Zig comptime for staged compilation
 [Modernizing Compiler Design for Carbon Toolchain - Chandler Carruth - CppNow 2023 - YouTube](https://www.youtube.com/watch?v=ZI198eFghJk) parsed AST consumes 50x more memory than the source code
+
+[How Real Projects Mix Compiled and Interpreted Languages - YouTube](https://www.youtube.com/watch?v=RnBOOF502p0)
 
 [ThePrimeagen/ts-rust-zig-deez](https://github.com/ThePrimeagen/ts-rust-zig-deez) interpreter in different languages
 

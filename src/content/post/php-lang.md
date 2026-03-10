@@ -2,7 +2,7 @@
 title: PHP
 description: ""
 created: 2021-05-28
-updated: 2025-01-09
+updated: 2026-01-13
 tags:
   - comp/lang
   - php
@@ -102,7 +102,7 @@ EOF
 
 ### Docker PHP FPM
 
-[PHPDocker.io - Generator](https://phpdocker.io/) !important, project creator
+[PHPDocker.io - Generator](https://phpdocker.io/) ❗!important, project creator
 [phpdockerio/php - Docker Image | Docker Hub](https://hub.docker.com/r/phpdockerio/php)
 [phpdocker-io/base-images: Base docker images for PHPDocker.io](https://github.com/phpdocker-io/base-images)
 
@@ -133,7 +133,7 @@ Use `cgi-fcgi` for testing your PHP FPM endpoints.
 ## Learn
 
 [PHP: PHP Manual - Manual](https://www.php.net/manual/en/index.php)
-[PHP: The Right Way](https://www.phptherightway.com/) !important
+[PHP: The Right Way](https://www.phptherightway.com/) ❗!important
 [learning-zone/php-basics: PHP Basics ( v8.x )](https://github.com/learning-zone/php-basics)
 [PHP Best Practices: a short, practical guide for common and confusing PHP tasks](https://phpbestpractices.org)
 

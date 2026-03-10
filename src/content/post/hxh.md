@@ -2,7 +2,7 @@
 title: Hunter X Hunter
 description: ""
 created: 2018-03-12
-updated: 2025-10-10
+updated: 2025-12-11
 tags:
   - anime
   - hunterxhunter
@@ -16,11 +16,12 @@ tags:
 
 [Hunterpedia | Fandom](http://hunterxhunter.fandom.com/wiki/Hunterpedia)
 [全职猎人全集 - YouTube](https://www.youtube.com/playlist?list=PLnYLDv2h47jDfhEpq1Wcgq2ORyCslGBAw) 一朵老香菇
+[热心的邻家小迪 - YouTube](https://www.youtube.com/@%E7%83%AD%E5%BF%83%E7%9A%84%E9%82%BB%E5%AE%B6%E5%B0%8F%E8%BF%AA/)
 
 [現在的獵人到底在演什麼？【獵人】王位繼承戰 劇情整理 第 1 集 - YouTube](https://www.youtube.com/watch?v=efC7bIpMqso) 暗黑大陸篇
 [王位繼承戰【獵人】劇情整理 第 1 集 - YouTube](https://www.youtube.com/watch?v=efC7bIpMqso)
 
-[【全職獵人】無法被超越的卡片戰！40 張咒語卡相生相剋，衍生出無盡的戰鬥方法！貪婪之島的 40 張咒語卡介紹 | 四郎说动漫 - YouTube](https://www.youtube.com/watch?v=KOIv8JXuT4I)
+[猎人精彩战斗 第一名 宿命之战 团长VS西索 （全） 全网最详细解说 - YouTube](https://www.youtube.com/watch?v=nhpAeIT1ifo&t=2094s)
 
 [獵人 - YouTube](https://www.youtube.com/playlist?list=PLI0oExPDZ-97dLot8q1oKx8pNCtOUlz1l) 未來式 ACG
 [全職獵人 Hunter X Hunter - YouTube](https://www.youtube.com/playlist?list=PLHGtcOQ0hBC54WFgVFqf4OU3kJH03BTSA) 夢想家 DreamMaker
@@ -43,6 +44,10 @@ tags:
 [【獵人】上期修正+念能力討論 - YouTube](https://www.youtube.com/watch?v=3PYBqTFJFnk)
 
 [《獵人》最新獵人30人戰力排行（已更新至黑暗大陸） #各位開噴吧 #我臉洗好了 #獵人 #全職獵人#小傑 #奇犽 #庫拉皮卡 #西索 #拿尼加 #動畫 #解說 #流量 #盤點排行 - YouTube](https://www.youtube.com/watch?v=dfubK3rnT6o)
+
+## Greed Island
+
+[【全職獵人】無法被超越的卡片戰！40 張咒語卡相生相剋，衍生出無盡的戰鬥方法！貪婪之島的 40 張咒語卡介紹 | 四郎说动漫 - YouTube](https://www.youtube.com/watch?v=KOIv8JXuT4I)
 
 ## TV
 

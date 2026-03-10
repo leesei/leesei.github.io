@@ -2,7 +2,7 @@
 title: systemd
 description: ""
 created: 2017-01-05
-updated: 2025-10-10
+updated: 2025-11-15
 tags:
   - desktop
   - linux
@@ -203,7 +203,7 @@ systemd specific locale and timezone:
 
 ## systemd-boot
 
-[systemd-boot - ArchWiki](https://wiki.archlinux.org/title/Systemd-boot)
+[[boot#systemd-boot]]
 
 ## Lennart Poettering
 

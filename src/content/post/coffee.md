@@ -2,7 +2,7 @@
 title: Coffee
 description: ""
 created: 2016-07-23
-updated: 2025-10-10
+updated: 2025-11-15
 tags:
   - coffee
   - food
@@ -11,6 +11,7 @@ tags:
 
 [Goatcafe – 華人最大的咖啡知識平台](http://goatcafe.tw/)
 [咖啡茵 TALK - YouTube](https://www.youtube.com/@cafeyingtalk)
+[HJL咖啡分解釋 - YouTube](https://www.youtube.com/@MrJorwy)
 
 [The Secrets of Nespresso Pods - YouTube](https://www.youtube.com/watch?v=HouzvJGazs4)
 

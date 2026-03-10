@@ -2,13 +2,15 @@
 title: Boot
 description: ""
 created: 2015-05-10
-updated: 2025-10-10
+updated: 2026-01-31
 tags:
   - desktop
   - linux
 ---
 
 [Booting - Wikiwand](https://www.wikiwand.com/en/Booting)
+
+[How Linux Boots - YouTube](https://www.youtube.com/watch?v=EjrAzulPsT4)
 
 POST -> BIOS/ROM code -> MBR of boot partition -> Bootloader (SPL)->
 Kernel -> [`init`](https://wiki.archlinux.org/title/Init)/[`systemd`](https://wiki.archlinux.org/title/Systemd) ->
@@ -80,9 +82,6 @@ GPT (Windows): 128 partitions, bootable only with UEFI
 
 ## Bootloader
 
-[[grub]]
-[[systemd#systemd-boot]]
-
 [Bootloader - OSDev Wiki](https://wiki.osdev.org/Bootloader)
 [What is the difference between a Bootrom vs bootloader on ARM systems - Stack Overflow](https://stackoverflow.com/questions/15665052/what-is-the-difference-between-a-bootrom-vs-bootloader-on-arm-systems)
 [linux - Why do we need a bootloader in an embedded device? - Stack Overflow](https://stackoverflow.com/questions/15548004/why-do-we-need-a-bootloader-in-an-embedded-device)
@@ -96,11 +95,39 @@ SPL (secondary program loader) is needed when the static RAM cannot hold the who
 
 [TPL: SPL loading SPL](https://www.denx.de/wiki/pub/U-Boot/MiniSummitELCE2013/tpl-presentation.pdf)
 
+[Lennart Talks Up systemd's SD-Boot + Boot Loader Specification - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=ASG-2019-systemd-SD-Boot)
+
+[Source Dive - YouTube](https://www.youtube.com/playlist?list=PLP29wDx6QmW4Mw8mgvP87Zk33LRcKA9bl) RISC-V QEmu, Kernel
+
 [Home · kexecboot/kexecboot Wiki](https://github.com/kexecboot/kexecboot/wiki) Kexecboot is a nice Linux-As-a-Bootloader implementation based on kexec.
+
+### Grub
+
+[[grub]]
+
+### rEFInd
+
+[rEFInd - ArchWiki](https://wiki.archlinux.org/title/REFInd)
+[The rEFInd Boot Manager](https://www.rodsbooks.com/refind/)
+
+[The rEFInd Boot Manager: Installing and Uninstalling rEFInd](https://www.rodsbooks.com/refind/installing.html) `refind-efi`
+[The rEFInd Boot Manager: Using EFI Drivers](https://www.rodsbooks.com/refind/drivers.html) finding other EFI drivers
+
+### systemd-boot
+
+[systemd-boot - ArchWiki](https://wiki.archlinux.org/title/systemd-boot)
+[systemd-boot](https://www.freedesktop.org/wiki/Software/systemd/systemd-boot/)
+
+[systemd-boot – Discovery](https://discovery.endeavouros.com/installation/systemd-boot/2022/12/) EndeavourOS upgrade
+
+### Das U-Boot
+
+> for embedded systems
 
 [WebHome < U-Boot < DENX](https://www.denx.de/wiki/U-Boot)
 [Das U-Boot - Wikiwand](https://www.wikiwand.com/en/Das_U-Boot)
 [Introduction to the U-Boot bootloader - YouTube](https://www.youtube.com/watch?v=e6wlg9ntPVY)
+
 [Embedded Linux Booting Process (Multi-Stage Bootloaders, Kernel, Filesystem) - YouTube](https://www.youtube.com/watch?v=DV5S_ZSdK0s)
 [Introduction — Depthcharge documentation](https://depthcharge.readthedocs.io/en/latest/)
 
@@ -108,14 +135,22 @@ SPL (secondary program loader) is needed when the static RAM cannot hold the who
 - need U-boot to initialize main memory
 - U-boot can also load kernel from file system
 
-[Lennart Talks Up systemd's SD-Boot + Boot Loader Specification - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=ASG-2019-systemd-SD-Boot)
-
-[Source Dive - YouTube](https://www.youtube.com/playlist?list=PLP29wDx6QmW4Mw8mgvP87Zk33LRcKA9bl) RISC-V QEmu, Kernel
-
 ## Secure boot
 
+> see [[cyber-security#Trusted Computing]]
+
 requires Trusted Platform Module (TPMs)
-[All About TPMs](https://smallstep.com/blog/trusted-platform-modules-tpms/)
+
+[The rEFInd Boot Manager: Managing Secure Boot](https://www.rodsbooks.com/refind/secureboot.html)
+[Managing EFI Boot Loaders for Linux: Dealing with Secure Boot](http://www.rodsbooks.com/efi-bootloaders/secureboot.html)
+
+[Setting up secure boot while dual booting Windows 11 and Arch Linux : r/archlinux](https://www.reddit.com/r/archlinux/comments/13d7rec/setting_up_secure_boot_while_dual_booting_windows/)
+
+- install refind, sbsigntools, mokutil
+- create MOK keys  
+  `refind-install --shim /path/to/shimx64.efi --localkeys`
+- sign kernel with the key in /etc/refind.d/keys  
+  setup pacman hook to sign kernels post-install
 
 ## initramfs
 
@@ -128,13 +163,6 @@ requires Trusted Platform Module (TPMs)
 [dracut 基本介绍 - doscho - 博客园](https://www.cnblogs.com/doscho/p/6269279.html)
 
 [Dracut – Discovery](https://discovery.endeavouros.com/installation/dracut/2022/12/) EndeavourOS upgrade
-
-### systemd-boot
-
-[systemd-boot - ArchWiki](https://wiki.archlinux.org/title/systemd-boot)
-[systemd-boot](https://www.freedesktop.org/wiki/Software/systemd/systemd-boot/)
-
-[systemd-boot – Discovery](https://discovery.endeavouros.com/installation/systemd-boot/2022/12/) EndeavourOS upgrade
 
 ## Boot Partition
 
@@ -166,6 +194,7 @@ Flash BIOS with bare motherboard:
 
 [coreboot](https://www.coreboot.org/) [coreboot - Wikiwand](https://www.wikiwand.com/en/Coreboot)
 [Libreboot project](https://libreboot.org/)
+[Architecture 4031: Introductory coreboot | OpenSecurityTraining2](https://www.ost2.fyi/Arch4031)
 
 ### Fixing MBR
 
@@ -232,8 +261,9 @@ The Windows ISO cannot be `dd`-ed to USB flash. We must create a bootable NTFS p
 [Windows USB/DVD Download Tool - Microsoft Store](https://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool)
 
 [Rufus](https://rufus.ie/)
-[WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB)
-[ValdikSS/windows2usb: Windows 7/8/8.1/10 ISO to Flash Drive burning utility for Linux (MBR/GPT, BIOS/UEFI, FAT32/NTFS)](https://github.com/ValdikSS/windows2usb)
+[WoeUSB/WoeUSB-ng: WoeUSB-ng is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. This is a rewrite of original WoeUSB.](https://github.com/WoeUSB/WoeUSB-ng)
+[WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) 😴inactive
+[ValdikSS/windows2usb: Windows 7/8/8.1/10/11 ISO to Flash Drive burning utility for Linux (MBR/GPT, BIOS/UEFI, FAT32/NTFS)](https://github.com/ValdikSS/windows2usb)
 
 ### Diagnostic USB drive
 
@@ -265,7 +295,12 @@ UEFI application (in EFI System partition) -> Bootloader -> Kernel -> ...
 [Unified Extensible Firmware Interface - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface)
 [Unified Extensible Firmware Interface - ArchWiki](https://wiki.archlinux.org/title/Unified_Extensible_Firmware_Interface)
 [Arch boot process - ArchWiki](https://wiki.archlinux.org/title/Arch_boot_process#Under_UEFI)
-[rEFInd - ArchWiki](https://wiki.archlinux.org/title/REFInd)
+
+[Course | Architecture 4021: Introductory UEFI | OpenSecurityTraining2](https://ost2.fyi/Arch4021)
+[Architecture 4021: Introductory UEFI - YouTube](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-ltETI20mpXOCdqC8rdven6)
+
+[Architecture 4001: x86-64 Intel Firmware Attack & Defense | OpenSecurityTraining2](https://ost2.fyi/Arch4001)
+[Hardware 1101: Intel SPI Analysis | OpenSecurityTraining2](https://ost2.fyi/HW1101)
 
 [UEFI - OSDev Wiki](http://wiki.osdev.org/UEFI)
 [FGA: The EFI boot process.](http://homepage.ntlworld.com/jonathan.deboynepollard/FGA/efi-boot-process.html)
@@ -273,14 +308,14 @@ UEFI application (in EFI System partition) -> Bootloader -> Kernel -> ...
 [UEFI - Install Guide - Manjaro Linux](https://wiki.manjaro.org/index.php?title=UEFI_-_Install_Guide)
 
 [The Boot Loader Specification | systemd](https://systemd.io/BOOT_LOADER_SPECIFICATION)
-[systemd-boot](https://www.freedesktop.org/wiki/Software/systemd/systemd-boot/)
 [pop-os/kernelstub: A simple EFI boot manager manager for Linux](https://github.com/pop-os/kernelstub/)
 [pbatard/uefi-ntfs: UEFI:NTFS - Boot NTFS partitions from UEFI](https://github.com/pbatard/uefi-ntfs)
 
 [Linux on your laptop: A closer look at EFI boot options | ZDNet](https://www.zdnet.com/article/linux-on-your-laptop-a-closer-look-at-efi-boot-options/)
 [Linux on your laptop: Here's what you need to know about UEFI firmware | ZDNet](https://www.zdnet.com/article/linux-on-your-laptop-heres-what-you-need-to-know-about-uefi-firmware/)
 
-[The rEFInd Boot Manager: Installing and Uninstalling rEFInd](https://www.rodsbooks.com/refind/installing.html) `refind-efi`
+[efibootmgr - ArchWiki](https://wiki.archlinux.org/title/Unified_Extensible_Firmware_Interface#efibootmgr)
+[rhboot/efibootmgr: efibootmgr development tree](https://github.com/rhboot/efibootmgr)
 
 ### howtogeek.com
 
@@ -290,13 +325,10 @@ UEFI application (in EFI System partition) -> Bootloader -> Kernel -> ...
 
 ### rodsbooks.com
 
-[A BIOS to UEFI Transformation](https://www.rodsbooks.com/bios2uefi/index.html)
+[A BIOS to UEFI Transformation](https://www.rodsbooks.com/bios2uefi)
 [Managing EFI Boot Loaders for Linux](http://www.rodsbooks.com/efi-bootloaders/)
 [Linux on UEFI: A Quick Installation Guide](http://www.rodsbooks.com/linux-uefi/)
-[The rEFInd Boot Manager](http://www.rodsbooks.com/refind/index.html)
-[Managing EFI Boot Loaders for Linux: Dealing with Secure Boot](http://www.rodsbooks.com/efi-bootloaders/secureboot.html)
-
-[Programming for EFI](http://www.rodsbooks.com/efi-programming/index.html)
+[Programming for EFI](http://www.rodsbooks.com/efi-programming/)
 
 ### x86asm.net
 
@@ -307,6 +339,17 @@ UEFI application (in EFI System partition) -> Bootloader -> Kernel -> ...
 ## Init System (pid 1)
 
 [Linux PID 1 和 Systemd | | 酷 壳 - CoolShell](https://coolshell.cn/articles/17998.html)
+
+### `systemd`
+
+[[systemd]]
+
+### `Launchd`
+
+used by macOS
+
+[Launchd: One Program to Rule them All - YouTube](https://www.youtube.com/watch?v=SjrtySM9Dns)
+[About Daemons and Services](https://developer.apple.com/library/archive/documentation/macOSX/Conceptual/BPSystemStartup/Chapters/Introduction.html)
 
 ### `init`/`sysvinit` (OBSOLETE)
 
@@ -372,14 +415,3 @@ respawn
 exec /usr/bin/docker start -a docker-wordpress
 pre-stop exec /usr/bin/docker stop -a docker-wordpress
 ```
-
-### `systemd`
-
-[[systemd]]
-
-### `Launchd`
-
-used by macOS
-
-[Launchd: One Program to Rule them All - YouTube](https://www.youtube.com/watch?v=SjrtySM9Dns)
-[About Daemons and Services](https://developer.apple.com/library/archive/documentation/macOSX/Conceptual/BPSystemStartup/Chapters/Introduction.html)

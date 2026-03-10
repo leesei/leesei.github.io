@@ -2,7 +2,7 @@
 title: macOS
 description: ""
 created: 2016-01-03
-updated: 2025-10-10
+updated: 2026-02-01
 tags:
   - app
   - bootcamp
@@ -42,7 +42,7 @@ If you have Windows install USB:
 
 If you don't have Windows install USB:
 
-0. Prepare a 16G+ USB, download Windows ISO from Microsoft ([Win7](https://www.microsoft.com/zh-tw/software-download/) [Win10](https://www.microsoft.com/zh-tw/software-download/windows10ISO))
+0. Prepare a 16G+ USB, download Windows ISO from Microsoft ([Windows 10](https://www.microsoft.com/zh-tw/software-download/windows10ISO) [Windows 11](https://www.microsoft.com/zh-tw/software-download/windows11))
 1. Run "Boot Camp Assistant"
 1. Check installation disk creation
 1. Reboot and install Windows
@@ -59,6 +59,7 @@ If you don't have Windows install USB:
 ## Sleep/Hibernate
 
 [How to Hibernate a Mac | Envato Tuts+](https://computers.tutsplus.com/how-to-hibernate-a-mac--cms-23235t)
+[macos - Do MacBooks have a true "Hibernate" option? - Ask Different](https://apple.stackexchange.com/questions/51725/do-macbooks-have-a-true-hibernate-option)
 [sleep wake - Is there a keyboard shortcut for hibernate now a Mac, without changing power settings? - Ask Different](https://apple.stackexchange.com/questions/239177/is-there-a-keyboard-shortcut-for-hibernate-now-a-mac-without-changing-power-set)
 
 [dazuelos/hibernate: shell scripts about hibernation of macOS](https://github.com/dazuelos/hibernate/)
@@ -91,6 +92,8 @@ key remapping
 [Introduction - Raycast API](https://developers.raycast.com/)
 
 ## Package Manager
+
+[MacUpdate | Download Best Mac Software | 30,000+ Free Apps](https://www.macupdate.com/)
 
 ### Homebrew
 

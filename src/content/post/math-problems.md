@@ -2,7 +2,7 @@
 title: Math Problems
 description: Trivia math problems
 created: 2023-06-08
-updated: 2025-10-10
+updated: 2026-03-10
 tags:
   - math
   - trivia
@@ -32,6 +32,11 @@ tags:
 
 ## P vs NP
 
+P: solvable and verifiable in polynomial time
+NP: verifiable in polynomial time
+NP-Complete: not solvable and verifiable in polynomial time
+
 [What P vs NP is actually about - YouTube](https://www.youtube.com/watch?v=6OPsH8PK7xM)
 [Biggest Puzzle in Computer Science: P vs. NP - YouTube](https://www.youtube.com/watch?v=pQsdygaYcE4)
 [P vs. NP: The Unsolvable(?) Computer Science Problem - YouTube](https://www.youtube.com/watch?v=37JDPiJbXmM)
+[The greatest unsolved problem in computer science... - YouTube](https://www.youtube.com/watch?v=x36UmiSiEzc)

@@ -2,7 +2,7 @@
 title: Network
 description: ""
 created: 2016-04-24
-updated: 2025-11-10
+updated: 2026-02-02
 tags:
   - anycast
   - comp/network
@@ -101,6 +101,7 @@ IPv4 address are written in [dot-decimal notation](https://www.wikiwand.com/en/D
 [IPv6 keeps getting hacked on Windows - YouTube](https://www.youtube.com/watch?v=Z_QlUyYlUCg)
 [IPv6 from scratch - the very basics of IPv6 - YouTube](https://www.youtube.com/watch?v=oItwDXraK1M)
 [cheat-sheets/ipv6.md at main · onemarcfifty/cheat-sheets](https://github.com/onemarcfifty/cheat-sheets/blob/main/networking/ipv6.md)
+[What the heck happened to IPv6?](https://www.makeuseof.com/what-the-heck-happened-to-ipv6/)
 
 [RFC 1918 - Address Allocation for Private Internets](https://datatracker.ietf.org/doc/html/rfc1918)
 [Reserved IP addresses - Wikiwand](https://www.wikiwand.com/en/Reserved_IP_addresses)
@@ -240,6 +241,9 @@ Wireshark can open many dump formats (e.g. `.cap`/`.pcap` from `tcpdump`)
 
 [Wireshark · Go Deep.](https://www.wireshark.org/)
 [Track Down Network Problems With Wireshark | PCWorld](http://www.pcworld.com/article/186871/track_down_network_problems_with_wireshark.html)
+
+[Introduction to Wireshark - YouTube](https://www.youtube.com/watch?v=zcc_H-acluw) SPAN (port mirroring)
+[Wireshark Tutorial for Beginners | Network Scanning Made Easy - YouTube](https://www.youtube.com/watch?v=qTaOZrDnMzQ)
 
 Chris Greer
 [Wireshark with Chris Greer - YouTube](https://www.youtube.com/playlist?list=PLhfrWIlLOoKO8522T1OAhR5Bb2mD6Qy_l)
@@ -402,6 +406,14 @@ Fabrics: A local-area RDMA network is usually referred to as a fabric.
 [Viewing all iptables rules - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/205867/viewing-all-iptables-rules)
 [how to query iptables](https://www.phind.com/search?cache=cz5j3ek642nnzmkom9ycqa0b)
 
+````sh
+dig +short ria.ru # got 194.190.139.47
+
+iptables -I FORWARD 1 -d 194.190.139.47 -j DROP # add rule to block ria.ru
+
+iptables -D FORWARD -d 194.190.139.47 -j DROP # remove rule block ria.ru
+```
+
 ### netfilter/nftables (`nft`)
 
 > successor of iptables
@@ -437,7 +449,7 @@ firewall-cmd --info-zone=public
 
 # change zone
 firewall-cmd --zone=home --change-interface=wlan0
-```
+````
 
 ### Uncomplicated Firewall (`ufw`)
 
@@ -464,6 +476,14 @@ ufw delete allow PORT
 ```
 
 ### GFW
+
+[Great Firewall - Wikipedia](https://en.wikipedia.org/wiki/Great_Firewall)
+[Great Firewall Report - GFW Report](https://gfw.report/en/)
+[How the Great Firewall of China Detects and Blocks Fully Encrypted Traffic](https://gfw.report/publications/usenixsecurity23/en/)
+
+[censorship.ai | Exposing and Circumventing China's Censorship of ESNI](https://geneva.cs.umd.edu/posts/china-censors-esni/esni/)
+[Exposing and Circumventing China's Censorship of ESNI](https://gfw.report/blog/gfw_esni_blocking/en/)
+[Exposing and Circumventing China's Censorship of ESNI · Issue #43 · net4people/bbs](https://github.com/net4people/bbs/issues/43#issuecomment-673322409)
 
 [DuyaoSS-机场测速和简介](https://www.duyaoss.com/)
 [逗比根据地 - 世界那么逗，我想出去看看](https://doubibackup.com/)

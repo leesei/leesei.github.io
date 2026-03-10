@@ -2,7 +2,7 @@
 title: Redux
 description: Redux = **_Red_**ucer + Fl**_ux_**
 created: 2015-12-04
-updated: 2025-10-10
+updated: 2026-01-13
 tags:
   - flux
   - javascript
@@ -34,7 +34,7 @@ It also removed most of the need for Redux middlewares (`redux-thunk`, `redux-sa
 
 [React.js Conf 2016 - Lin Clark - A Cartoon Guide to the Wilds of Data Handling - YouTube](https://www.youtube.com/watch?v=WIqbzHdEPVM)
 
-[React Redux Tutorial for Beginners [2019] - RWieruch](https://www.robinwieruch.de/react-redux-tutorial) !important
+[React Redux Tutorial for Beginners [2019] - RWieruch](https://www.robinwieruch.de/react-redux-tutorial) ❗!important
 [How Redux Works: A Counter-Example](https://daveceddia.com/how-does-redux-work/)
 [Understanding Redux: The World’s Easiest Guide to Beginning Redux](https://www.freecodecamp.org/news/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6)
 
@@ -49,7 +49,7 @@ It also removed most of the need for Redux middlewares (`redux-thunk`, `redux-sa
 [Idiomatic Redux: The Tao of Redux, Part 1 - Implementation and Intent · Mark's Dev Blog](https://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-1/)
 [Idiomatic Redux: The Tao of Redux, Part 2 - Practice and Philosophy · Mark's Dev Blog](https://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-2/)
 
-[Redux: The Under The Hood Tour - DEV Community 👩‍💻👨‍💻](https://dev.to/fawwaz2009/redux-the-under-the-hood-tour-2k87) !important, internals
+[Redux: The Under The Hood Tour - DEV Community 👩‍💻👨‍💻](https://dev.to/fawwaz2009/redux-the-under-the-hood-tour-2k87) ❗!important, internals
 
 ## Action and ActionCreator
 
@@ -257,11 +257,11 @@ const ourAwesomeEnhancer =
 
 ## Screencast
 
-[Fundamentals of Redux Course from Dan Abramov | egghead.io](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867) free video course, !important
+[Fundamentals of Redux Course from Dan Abramov | egghead.io](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867) free video course, ❗!important
 [tayiorbeii/egghead.io_redux_course_notes: Notes (and partial transcription) of Dan Abramov's Redux course videos on http://egghead.io](https://github.com/tayiorbeii/egghead.io_redux_course_notes)
-[Building React Applications with Idiomatic Redux | egghead.io](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) free video course, !important
+[Building React Applications with Idiomatic Redux | egghead.io](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) free video course, ❗!important
 
-[Learn Redux — 20 video tutorials to help you learn how to build JavaScript apps with React.js and Redux.](https://learnredux.com/) !important, by Wes Bos
+[Learn Redux — 20 video tutorials to help you learn how to build JavaScript apps with React.js and Redux.](https://learnredux.com/) ❗!important, by Wes Bos
 [Learn Redux - YouTube](https://www.youtube.com/playlist?list=PLu8EoSxDXHP5uyzEWxdlr9WQTJJIzr6jy) by Wes Bos
 
 [17. React Redux with Dan Abramov - YouTube](https://www.youtube.com/watch?v=VJ38wSFbM3A)
@@ -372,7 +372,7 @@ Handles async and side effects:
 [Using redux-saga To Simplify Your Growing React Native Codebase](https://shift.infinite.red/using-redux-saga-to-simplify-your-growing-react-native-codebase-2b8036f650de#.yhy5r2mv2)
 [react-redux-links/redux-side-effects.md at master · markerikson/react-redux-links](https://github.com/markerikson/react-redux-links/blob/master/redux-side-effects.md)
 
-[Cheng Lou - On the Spectrum of Abstraction at react-europe 2016 - YouTube](https://www.youtube.com/watch?v=mVVNJKv9esE) !important
+[Cheng Lou - On the Spectrum of Abstraction at react-europe 2016 - YouTube](https://www.youtube.com/watch?v=mVVNJKv9esE) ❗!important
 
 ## Derived Data
 

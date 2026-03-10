@@ -2,7 +2,7 @@
 title: Magic
 description: ""
 created: 2019-08-21
-updated: 2025-10-10
+updated: 2026-01-05
 tags:
   - magic
   - trivia
@@ -29,3 +29,4 @@ Penn and Teller Fool Us
 [魔术趣玩方信 - YouTube](https://www.youtube.com/@%E6%96%B9%E4%BF%A1FXmagic)
 [魔術師查尼 - YouTube](https://www.youtube.com/@magicchani)
 [YUAN MAGIC-小远同学 - YouTube](https://www.youtube.com/@yuanmagicstudio)
+[刘谦魔术课堂Liuqian - YouTube](https://www.youtube.com/@%E5%88%98%E8%B0%A6%E9%AD%94%E6%9C%AF%E8%AF%BE%E5%A0%82Liuqian)

@@ -2,7 +2,7 @@
 title: Rust
 description: Static typed, GC-free system language created by Mozilla.
 created: 2015-11-19
-updated: 2025-10-22
+updated: 2026-01-16
 tags:
   - comp/lang
   - package-manager
@@ -190,12 +190,13 @@ Getting started:
 [Rust | Opensource.com](https://opensource.com/tags/rust)
 
 [Rustaceans](http://www.rustaceans.org/) the community of Rust users
-[rust-unofficial/awesome-rust: A curated list of Rust code and resources.](https://github.com/rust-unofficial/awesome-rust)
 [gamazeps/Useful-Rust-Projects: List of community wanted libraries](https://github.com/gamazeps/Useful-Rust-Projects)
 [ctjhoa/rust-learning: A bunch of links to blog posts, articles, videos, etc for learning Rust](https://github.com/ctjhoa/rust-learning)
 [mankyKitty/rust-koans: Learn Rust by making tests pass](https://github.com/mankyKitty/rust-koans)
 [Mercateo/rust-for-node-developers: An introduction to the Rust programming language for Node developers.](https://github.com/Mercateo/rust-for-node-developers)
 [fanderzon/rust-for-nodejs-devs: Example code for the `Rust for Node.js developers` series](https://github.com/fanderzon/rust-for-nodejs-devs)
+
+[rust-unofficial/awesome-rust: A curated list of Rust code and resources.](https://github.com/rust-unofficial/awesome-rust)
 
 [From Python to Rust - YouTube](https://www.youtube.com/playlist?list=PLpSOMAcxEB_i81xOdcgL8-Lp8lbrTxEI3)
 [From Python To Rust Series Archives - rebelScience](https://rebelscience.club/category/from-python-to-rust/)
@@ -540,11 +541,12 @@ First party
 [Rust RFCs](https://rust-lang.github.io/rfcs/)
 
 [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/README.html)
-[Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html) Rust's type safety makes this has to be done in unsafe mode
 [24 days of Rust](https://zsiciarz.github.io/24daysofrust/index.html)
 [Introduction to Programming Using Rust](http://gradebot.org/doc/ipur/)
-[Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
 [vinodotdev/node-to-rust](https://github.com/vinodotdev/node-to-rust)
+[Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
+[Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html) Rust's type safety makes this has to be done in unsafe mode
+[A book 📖 of questions for practise in Rust, learn Rust the hard way](https://rust-unofficial.github.io/rust-practise-questions/)
 
 [The Rust Language & Ecosystem - The Rust eBookshelf](https://rams3s.github.io/rust-ebookshelf/)
 [Tracking issue for RFC 1828: Rust Bookshelf · Issue #39588 · rust-lang/rust](https://github.com/rust-lang/rust/issues/39588)

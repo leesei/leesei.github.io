@@ -2,7 +2,7 @@
 title: Nintendo Switch
 description: ""
 created: 2018-01-09
-updated: 2025-10-10
+updated: 2025-12-08
 tags:
   - games
   - nintendo
@@ -425,10 +425,17 @@ TheJWittz
 [Steam 上萬好評的推理神作！50 分鐘一次看到華麗的逆轉最大高潮【逆轉裁判 3 精華】 - YouTube](https://www.youtube.com/watch?v=NU4rU8RGpr8)
 
 可乐研游所
-[「初代逆转的诞生」逆转裁判幕后故事 01【可乐研游所】 - YouTube](https://www.youtube.com/watch?v=p_l6gtNxM7M)
-[「艰难的续作开发」逆转裁判幕后故事 02【可乐研游所】 - YouTube](https://www.youtube.com/watch?v=V7Tbb0jY5wI)
-[「华丽的三部曲」逆转裁判幕后故事 03【可乐研游所】 - YouTube](https://www.youtube.com/watch?v=0mwWp5jylT4)
-[「复苏，新章开庭」逆转裁判幕后故事 04【可乐研游所】 - YouTube](https://www.youtube.com/watch?v=Ixx5a4QwxyM)
+[「逆转裁判」全系列11部作品盘点，入坑推荐【可乐鉴游】 - YouTube](https://www.youtube.com/watch?v=_6h2zNn6T90)
+[「法庭侦探的诞生」逆转裁判1幕后故事【可乐研游所】 - YouTube](https://www.youtube.com/watch?v=p_l6gtNxM7M)
+[「艰难的续作开发」逆转裁判2幕后故事【可乐研游所】 - YouTube](https://www.youtube.com/watch?v=V7Tbb0jY5wI)
+[「华丽的第三章」逆转裁判3幕后故事【可乐研游所】 - YouTube](https://www.youtube.com/watch?v=0mwWp5jylT4)
+[「复苏，新章开庭」逆转裁判4幕后故事【可乐研游所】 - YouTube](https://www.youtube.com/watch?v=Ixx5a4QwxyM)
+[「正传规模的外传」逆转检察官幕后故事【可乐研游所】 - YouTube](https://www.youtube.com/watch?v=ZYSWlB9TV9A)
+[「时隔6年的正传」逆转裁判5幕后故事【可乐研游所】 - YouTube](https://www.youtube.com/watch?v=YTCcYlBggys)
+[「山崎刚的革命与传承」逆转裁判6幕后故事【可乐研游所】 - YouTube](https://www.youtube.com/watch?v=Em8YryuF0JU)
+[「解谜和庭审的碰撞」雷顿教授vs逆转裁判 幕后故事【可乐研游所】 - YouTube](https://www.youtube.com/watch?v=j4VmMhOlyis)
+[「巧舟的最后一舞」大逆转裁判幕后故事【可乐研游所】 - YouTube](https://www.youtube.com/watch?v=RL1OriaPc0E)
+[用一部电影的时间，看完《逆转裁判》系列的开发幕后 - YouTube](https://www.youtube.com/watch?v=COTh4rLbCIk)
 
 AMU Game Channel
 [逆轉裁判系列 / Phoenix Wright - YouTube](https://www.youtube.com/playlist?list=PLwFY2FRIQ7pfiWtKDjpLHC9m5pYyjFA5e)

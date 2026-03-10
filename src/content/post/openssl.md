@@ -2,7 +2,7 @@
 title: OpenSSL
 description: ""
 created: 2015-09-29
-updated: 2025-10-10
+updated: 2026-01-13
 tags:
   - app
   - openssl
@@ -13,11 +13,12 @@ tags:
 
 [OpenSSL](https://www.openssl.org/) is a toolkit for the TLS and SSL.
 [OpenSSL - Wikiwand](https://www.wikiwand.com/en/articles/OpenSSL)
+[OpenSSLWiki](https://wiki.openssl.org/index.php/Main_Page)
 [ossl-guide-introduction - OpenSSL Documentation](https://docs.openssl.org/master/man7/ossl-guide-introduction/)
-[How SSL Certificates Use Digital Signatures](https://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art012)
 
 [OpenSSL Cookbook | Feisty Duck](https://www.feistyduck.com/books/openssl-cookbook/) ❗!important
 
+[OpenSSL Tutorials - YouTube](https://www.youtube.com/playlist?list=PLgBMtP0_D_afzNG7Zs2jr8FSoyeU4yqhi)
 [OpenSSL PKI Tutorial v2.0 — OpenSSL PKI Tutorial](https://pki-tutorial.readthedocs.io/)
 [OpenSSL Essentials: Working with SSL Certificates, Private Keys and CSRs | DigitalOcean](https://www.digitalocean.com/community/tutorials/openssl-essentials-working-with-ssl-certificates-private-keys-and-csrs)
 [Symmetric Key Decryption Methods (AES, ARIA, Blowfish, Camellia, ChaCha20, Cast, DES, 3DES, IDEA, RC2 and RC4)](https://asecuritysite.com/openssl/openssl3) CLI command generator
@@ -49,6 +50,26 @@ openssl s_client -connect 10.6.64.170:443 -state -msg
 [Troubleshooting SSL/TLS renegotiation](https://my.f5.com/manage/s/article/K15475)
 [Troubleshooting SSL/TLS handshake failures](https://my.f5.com/manage/s/article/K15292)
 [Overview of packet tracing with the ssldump utility](https://my.f5.com/manage/s/article/K10209)
+
+## OpenSSL API
+
+OpenSSL provides [`libssl`](https://docs.openssl.org/master/man7/ossl-guide-libssl-introduction) and [`libcrypto`](https://docs.openssl.org/master/man7/ossl-guide-libcrypto-introduction)
+
+[OpenSSL Strategic Architecture - OpenSSL Documentation](https://docs.openssl.org/master/OpenSSLStrategicArchitecture/)
+
+[ossl-guide-libraries-introduction - OpenSSL Documentation](https://docs.openssl.org/master/man7/ossl-guide-libraries-introduction/)
+[openssl/demos at master · openssl/openssl](https://github.com/openssl/openssl/tree/master/demos)
+
+[EVP - OpenSSLWiki](https://wiki.openssl.org/index.php/EVP) high level interface to `libssl` and `libcrypto`
+[evp - OpenSSL Documentation](https://docs.openssl.org/master/man7/evp/#notes)
+[EVP Signing and Verifying - OpenSSLWiki](https://wiki.openssl.org/index.php/EVP_Signing_and_Verifying)
+
+## OpenSSL Provider
+
+[ossl-guide-libraries-introduction - OpenSSL Documentation](https://docs.openssl.org/master/man7/ossl-guide-libraries-introduction/#openssl-providers)
+[provider - OpenSSL Documentation](https://docs.openssl.org/master/man7/provider/#provider_1)
+
+`openssl list -providers`
 
 ---
 

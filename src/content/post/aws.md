@@ -2,7 +2,7 @@
 title: Amazon Web Services
 description: ""
 created: 2015-06-17
-updated: 2025-10-31
+updated: 2026-01-13
 tags:
   - web
 ---
@@ -16,7 +16,6 @@ tags:
 [Amazon.com: Amazon Web Services: Books, Biography, Blog, Audiobooks, Kindle](https://www.amazon.com/Amazon-Web-Services/e/B007R6MVQ6/ref=ntt_dp_epwbk_0)
 [Getting Started with Amazon Web Services (AWS)](https://aws.amazon.com/getting-started/)
 [AWS Overview - Getting Started with AWS](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-what-services-first.html)
-[Introducing-AWS-Hong-Kong-Region](https://www.slideshare.net/AmazonWebServices/introducingawshongkongregion)
 [The 12 Coolest AWS Tools Of 2020 (So Far)](https://www.crn.com/slide-shows/cloud/the-12-coolest-aws-tools-of-2020-so-far-)
 
 [Software Architecture: Architect Your Application with AWS](https://codeburst.io/software-architecture-architect-your-application-with-aws-52d938603a32)
@@ -61,28 +60,19 @@ tags:
 ## Training
 
 [AWS Samples](https://github.com/aws-samples) source code and templates from workshops
-[Home | Qwiklabs + amazon](https://amazon.qwiklab.com/) online lab
 
-[Amazon Web Services’s slideshows on SlideShare](https://www.slideshare.net/AmazonWebServices/tag/summit-hk-2019/) AWS Submit HK 2019
-[AWS re:Invent 2019](https://www.portal.reinvent.awsevents.com/connect/search.ww?trkCampaign=AWS_reInvent_2019)
+[AWS Skill Builder](https://skillbuilder.aws/)
+[AWS Skill Builder](https://skillbuilder.aws/learn/FU5WCYVGKY/aws-cloud-quest-cloud-practitioner/JF9TKU68GT) game-based role-playing experience
 
-[AWS Concepts - A Cloud Guru](https://learn.acloud.guru/course/212ebe6a-8292-422a-ba35-266c05c8447e/overview)
-[Serverless Concepts - A Cloud Guru](https://learn.acloud.guru/course/94e427e8-ef0a-4d15-9994-75d75da1fa37/overview)
-[AWS Certified Solutions Architect - Associate (SAA-C02) - A Cloud Guru](https://learn.acloud.guru/course/certified-solutions-architect-associate/overview) [Orion Papers](http://bit.ly/2nB2gRi)
-[AWS Certified Cloud Practitioner 2020 - A Cloud Guru](https://learn.acloud.guru/course/aws-certified-cloud-practitioner/overview)
-[AWS Identity and Access Management (IAM) Concepts - A Cloud Guru](https://learn.acloud.guru/course/identity-and-access-management-concepts/overview)
+[Getting Started - Cloud Computing Tutorials for Building on AWS](https://aws.amazon.com/getting-started/)
+[Hands-On Tutorials for Amazon Web Services (AWS)](https://aws.amazon.com/getting-started/hands-on/)
+[AWS Tutorial Series - YouTube](https://www.youtube.com/@awstutorialseries/playlists)
+[Amazon Web Services - YouTube](https://www.youtube.com/@amazonwebservices/)
 
-[AWS Tutorials - Getting Started with AWS](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html)
-[Articles & Tutorials : Amazon Web Services](https://aws.amazon.com/articles)
-[AWS Tutorial Series - YouTube](https://www.youtube.com/user/awstutorialseries/playlists)
-[Amazon Web Services - YouTube](https://www.youtube.com/user/AmazonWebServices)
+[Cloud Events, Webinars and Conferences - AWS](https://aws.amazon.com/events/)
 
-[Events & Webinars](https://aws.amazon.com/about-aws/events/)
-[AWS Webinar Series for Hong Kong](https://aws.amazon.com/webinars/hk-webinar-series/)
-
-[open-guides/og-aws: Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws) ❗!important
+[open-guides/og-aws: 📙 Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws) 😴inactive
 [Cloud Computing With Amazon Web Services | Udemy](https://www.udemy.com/cloud-computing-with-amazon-web-services-part-1/)
-[Mastering AWS Development](https://www.packtpub.com/mapt/book/all_books/9781782173632)
 
 ```
 Availability Zone
@@ -99,24 +89,43 @@ VPC
 to have outbound traffic, either connect to Internet Gateway to get a public IP or use NAT in a Public Subnet
 ```
 
-## SDK
+## SDK/CLI tools
 
 [AWS | Tools](https://aws.amazon.com/tools/)
-[AWS SDK for JavaScript in Node.js](https://aws.amazon.com/sdk-for-node-js/) [source](https://github.com/aws/aws-sdk-js)
-[File: README — AWS SDK for JavaScript](http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/index.html)
 
-[AWS SDK for Python](https://aws.amazon.com/sdk-for-python/)
-[Automating AWS with Lambda, Python, and Boto3 - A Cloud Guru](https://learn.acloud.guru/course/d15d3060-fa99-4dbd-90c1-c1b9abb70f53/overview)
-[Boto 3 Documentation](https://boto3.readthedocs.io/en/latest/#)
-[Python, Boto3, and AWS S3: Demystified – Real Python](https://realpython.com/python-boto3-aws-s3/)
+[AWS CLI Command Reference — AWS CLI Command Reference](http://docs.aws.amazon.com/cli/latest/)
+[aws/aws-cli: Universal Command Line Interface for Amazon Web Services](https://github.com/aws/aws-cli)
+[awslabs/aws-shell: An integrated shell for working with the AWS CLI.](https://github.com/awslabs/aws-shell) 😴inactive
 
-[Announcing AWS Amplify and the AWS Mobile CLI | AWS Mobile Blog](https://aws.amazon.com/blogs/mobile/announcing-aws-amplify-and-the-aws-mobile-cli/)
-[Amplify Framework](https://aws-amplify.github.io/docs/)
-[aws/aws-amplify: A declarative library for application development using Cloud services with JavaScript](https://github.com/aws/aws-amplify)
+[AWS Regions and Endpoints - Amazon Web Services](http://docs.aws.amazon.com/general/latest/gr/rande.html)
+[Region Table](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
+[Regions and Availability Zones - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html#concepts-available-regions) Region codes, for APIs
 
-[aws/awsmobile-cli: CLI experience for Frontend developers in the JavaScript ecosystem.](https://github.com/aws/awsmobile-cli)
+```sh
+aws ec2 run-instances --image-id ami-036237e941dccd50e \
+  --instance-type a1.medium --count 1 --key-name keys-jbarr-us-east
+```
+
 [Discovering AWS with the CLI Part 1: Networking and Virtual Machines](https://okigiveup.net/tutorials/discovering-aws-with-cli-part-1-basics/)
 [Discovering AWS with the CLI Part 2: ECS and Fargate](https://okigiveup.net/tutorials/discovering-aws-with-the-cli-part-2-ecs-and-fargate/)
+
+### Boto: AWS SDK for Python
+
+[AWS SDK for Python](https://aws.amazon.com/sdk-for-python/)
+[boto/boto3: AWS SDK for Python](https://github.com/boto/boto3)
+[Boto 3 Documentation](https://boto3.readthedocs.io/en/latest/#)
+
+[Python, Boto3, and AWS S3: Demystified – Real Python](https://realpython.com/python-boto3-aws-s3/)
+
+### JavaScript
+
+[AWS SDK for JavaScript](https://aws.amazon.com/sdk-for-javascript/)
+[AWS SDK for JavaScript in Node.js](https://aws.amazon.com/sdk-for-node-js/)
+[aws/aws-sdk-js-v3: Modularized AWS SDK for JavaScript.](https://github.com/aws/aws-sdk-js-v3)
+[What's the AWS SDK for JavaScript? - AWS SDK for JavaScript](https://docs.aws.amazon.com/sdk-for-javascript/v3/developer-guide/welcome.html)
+
+[Amplify Documentation - AWS Amplify Gen 2 Documentation](https://docs.amplify.aws/)
+[aws-amplify/amplify-js: A declarative JavaScript library for application development using cloud services.](https://github.com/aws-amplify/amplify-js)
 
 ## IAM
 
@@ -154,36 +163,9 @@ to have outbound traffic, either connect to Internet Gateway to get a public IP 
 }
 ```
 
-## CLI
-
-[AWS CLI Command Reference — AWS CLI Command Reference](http://docs.aws.amazon.com/cli/latest/)
-[aws/aws-cli: Universal Command Line Interface for Amazon Web Services](https://github.com/aws/aws-cli)
-[awslabs/aws-shell: An integrated shell for working with the AWS CLI.](https://github.com/awslabs/aws-shell)
-
-[AWS Regions and Endpoints - Amazon Web Services](http://docs.aws.amazon.com/general/latest/gr/rande.html)
-[Region Table](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
-[Regions and Availability Zones - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html#concepts-available-regions) Region codes, for APIs
-
-[cgswong/docker-aws: Dockerized AWS CLI](https://github.com/cgswong/docker-aws)
-
-```sh
-docker run -it --rm --volume ~/.aws:/root/.aws cgswong/aws:latest aws configure
-# aws credentials are stored in ~/.aws
-# subsequent use
-docker run --volume ~/.aws:/root/.aws cgswong/aws:latest aws [some_command]
-```
-
-```sh
-aws ec2 run-instances --image-id ami-036237e941dccd50e \
-  --instance-type a1.medium --count 1 --key-name keys-jbarr-us-east
-```
-
-[AWS Automation Documents » ADMIN Magazine](http://www.admin-magazine.com/Archive/2018/45/AWS-Automation-Documents)
-
 ## Service Helper
 
 [Flightcontrol — AWS Without Pain](https://www.flightcontrol.dev/)
-[Home - Klotho](https://klo.dev/)
 
 ### SST
 
@@ -191,6 +173,23 @@ aws ec2 run-instances --image-id ami-036237e941dccd50e \
 [serverless-stack/sst: 💥 SST makes it easy to build full-stack serverless apps.](https://github.com/serverless-stack/sst)
 
 [SST in 100 seconds - YouTube](https://www.youtube.com/watch?v=JY_d0vf-rfw)
+
+### Karpenter
+
+[Karpenter](https://karpenter.sh/)
+[kubernetes-sigs/karpenter: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.](https://github.com/kubernetes-sigs/karpenter)
+
+[AWS launches Karpenter, an open source autoscaler for Kubernetes clusters | TechCrunch](https://techcrunch.com/2021/11/30/aws-launches-karpenter-an-open-source-autoscaler-for-kubernetes-clusters/)
+
+### InfraCopilot/Klotho
+
+[InfraCopilot | The Intelligent Infra-as-Code Editor](https://infracopilot.io/)
+
+Based on 🗃️archived Klotho project
+[InfraCopilot | How it Works](https://infracopilot.io/how-it-works/)
+
+[klothoplatform/klotho: Klotho - write AWS applications at lightning speed](https://github.com/klothoplatform/klotho)
+[Review of Klotho (Alpha Early Access) Series' Articles - DEV Community](https://dev.to/pawelpiwosz/series/17780)
 
 ---
 
@@ -200,21 +199,18 @@ aws ec2 run-instances --image-id ami-036237e941dccd50e \
 
 [Elastic Compute Cloud (EC2) Cloud Server & Hosting – AWS](https://aws.amazon.com/ec2/)
 [Amazon EC2 Instance Types - Amazon Web Services](https://aws.amazon.com/ec2/instance-types/)
-[EC2 Instance Pricing – Amazon Web Services (AWS)](https://aws.amazon.com/ec2/pricing/reserved-instances/pricing/)
-[Amazon EC2 Reserved Instances](https://aws.amazon.com/ec2/pricing/reserved-instances/)
-[The Nitro Project: Next-Generation EC2 Infrastructure - AWS Online Te…](https://www.slideshare.net/AmazonWebServices/the-nitro-project-nextgeneration-ec2-infrastructure-aws-online-tech-talks)
+[Amazon EC2 - Secure and resizable compute capacity – Amazon Web Services](https://aws.amazon.com/ec2/pricing/reserved-instances/)
+[EC2 Reserved Instance Pricing](https://aws.amazon.com/ec2/pricing/reserved-instances/pricing/)
 
 [Amazon EC2 Instance Comparison](https://instances.vantage.sh/)
-[Instance types - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/instance-types.html)
-[Unlimited mode for burstable performance instances - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/burstable-performance-instances-unlimited-mode.html)
+[Amazon EC2 instance types - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-types.html)
+[Unlimited mode for burstable performance instances - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/burstable-performance-instances-unlimited-mode.html)
 
 - CPU credits and baseline utilization
 - Unlimited mod
 
-[Getting Started with Amazon EC2 Linux Instances - Amazon Elastic Compute Cloud](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html)
-[Connecting to Your Linux Instance Using SSH - Amazon Elastic Compute Cloud](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html)
-
-[Amazon EC2 tutorial: How to set up an EC2 cloud computing instance](https://www.infoworld.com/article/3220410/cloud-computing/amazon-ec2-tutorial-how-to-set-up-an-ec2-instance.html)
+[Get started with Amazon EC2 - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html)
+[Connect to your Linux instance using an SSH client - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/connect-linux-inst-ssh.html)
 
 [JordanReiter/let-me-in: Simple web app for adding/removing EC2 ssh access to an IP](https://github.com/JordanReiter/let-me-in)
 
@@ -232,29 +228,15 @@ Default user name for the AMI that you used to launch your instance:
 [Key metrics for EC2 monitoring](https://www.datadoghq.com/blog/ec2-monitoring/)
 [Datadog’s Amazon EC2 Cheatsheet](https://www.datadoghq.com/resources/datadog-ec2-cheatsheet/)
 
+[Amazon EC2 Spot Workshops :: EC2 Spot Workshops](https://ec2spotworkshops.com/) Spot Instances
 [EC2 Fleet – Manage Thousands of On-Demand and Spot Instances with One Request | AWS News Blog](https://aws.amazon.com/blogs/aws/ec2-fleet-manage-thousands-of-on-demand-and-spot-instances-with-one-request/)
-[Amazon EC2 Spot Workshops :: EC2 Spot Workshops](https://ec2spotworkshops.com/)
 [Accelerating Containerized Workloads with Amazon EC2 Spot Instances - AWS Online Tech Talks - YouTube](https://www.youtube.com/watch?v=Pr7HQFZpTx0)
-
-[Amazon Elastic Inference – GPU-Powered Deep Learning Inference Acceleration | AWS News Blog](https://aws.amazon.com/blogs/aws/amazon-elastic-inference-gpu-powered-deep-learning-inference-acceleration/)
-
-[jimeh/skyhook: A customized set of scripts and config files to deploy projects and control services on Amazon EC2.](https://github.com/jimeh/skyhook)
-[jimeh/skyline: Ruby-based interactive shell tools to send terminal commands to instances in Amazon EC2 AutoScaling groups](https://github.com/jimeh/skyline)
 
 ### Security Best Practices
 
-- Amazon EC2 Security Groups User Guide:
-  https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-network-security.html (Linux)
-  https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/using-network-security.html (Windows)
+[Security, Identity & Compliance | AWS Architecture Center](https://aws.amazon.com/architecture/security-identity-compliance/)
 
-- Tips for Securing EC2 Instances:
-  https://aws.amazon.com/articles/1233 (Linux)
-  https://aws.amazon.com/articles/1767 (Windows)
-
-- Restrict Inbound Access via Security Group: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-network-security.html
-
-- AWS Security Best Practices:
-  https://d0.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf
+[Amazon EC2 security groups for your EC2 instances - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-security-groups.html)
 
 ### Key Management
 
@@ -265,14 +247,14 @@ Default user name for the AMI that you used to launch your instance:
 
 [Amazon Virtual Private Cloud (VPC) Documentation](https://aws.amazon.com/documentation/vpc/)
 
-[What is VPC Peering? - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/AmazonVPC/latest/PeeringGuide/Welcome.html)
-[VPC Peering – Tensult Blogs – Medium](https://medium.com/tensult/vpc-peering-26346a4c0b9c)
+[What is VPC peering? - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html)
 [AWS VPC Peering the way it should be done | IT Svit](https://itsvit.com/blog/aws-vpc-peering-way-done/)
 
-[Transit VPC – Tensult Blogs – Medium](https://medium.com/tensult/transit-vpc-7301ac57240a)
-[Shared Service VPC – Tensult Blogs – Medium](https://medium.com/tensult/shared-service-vpc-5698d743d95b)
-[High Availability: Transit VPC — AWS – Tensult Blogs – Medium](https://medium.com/tensult/high-availability-transit-vpc-aws-2cf76b6892fe)
-[Connect VPCs to make Network of Networks in AWS – Tensult Blogs – Medium](https://medium.com/tensult/connect-vpcs-to-make-network-of-networks-in-aws-f44ab3ded0ed)
+[VPC Peering. This Blog has been moved from Medium to… | by Mohamed Jawad P | Medium](https://medium.com/@jawad846/vpc-peering-26346a4c0b9c)
+[Transit VPC Using Cisco CSR 1000v — AWS | by Mohamed Jawad P | Medium](https://medium.com/@jawad846/transit-vpc-7301ac57240a)
+[Shared Service VPC. This Blog has been moved from Medium to… | by Mohamed Jawad P | Medium](https://medium.com/@jawad846/shared-service-vpc-5698d743d95b)
+[High Availability: Transit VPC — AWS | by Mohamed Jawad P | Medium](https://medium.com/@jawad846/high-availability-transit-vpc-aws-2cf76b6892fe)
+[Connect VPCs to make Network of Networks in AWS | by Mohamed Jawad P | Medium](https://medium.com/@jawad846/connect-vpcs-to-make-network-of-networks-in-aws-f44ab3ded0ed)
 
 ### ECS
 
@@ -280,103 +262,15 @@ Default user name for the AMI that you used to launch your instance:
 
 Run Docker containers in EC2 instances.
 
-[Docker for AWS Setup & Prerequisites | Docker Documentation](https://docs.docker.com/docker-for-aws/)
 [A Guide to Locally Testing Containers with Amazon ECS Local Endpoints and Docker Compose | AWS Compute Blog](https://aws.amazon.com/blogs/compute/a-guide-to-locally-testing-containers-with-amazon-ecs-local-endpoints-and-docker-compose/)
-[Persistent storage with Docker Swarm and NFS](https://www.vip-consult.solutions/post/persistent-storage-docker-swarm-nfs#content)
 [My notes on Amazon's ECS (EC2 Container Service), aka Docker on AWS](http://jpetazzo.github.io/2015/01/14/amazon-docker-ecs-ec2-container-service/)
-[Running Docker on AWS from the ground up](http://www.ybrikman.com/writing/2015/11/11/running-docker-aws-ground-up/)
+[Running Docker on AWS from the ground up](https://www.ybrikman.com/blog/2015/11/11/running-docker-aws-ground-up/)
 [How to Run Docker Containers via AWS Elastic Container Service - DEV Community](https://dev.to/kylegalbraith/how-to-run-docker-containers-via-aws-elastic-container-service-p47)
 
 ### ELB
 
-```
-Thank you for activating Amazon Web Service’s Elastic Load Balancer (ELB) service. We would like to help you get started to make your experience with ELB better. We have put together a few documents, getting started videos and resources which we think will be useful as you familiarize yourself with this product.
-
-Creating your first ELB:
-A video introduction to ELB: https://www.youtube.com/watch?v=8KQ8aLoxVi0
-Getting Started: https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/load-balancer-getting-started.html
-ELB Best Practices: http://aws.amazon.com/articles/1636185810492479
-ELB Deep Dive: https://www.youtube.com/watch?v=9TwkMMogojY
-FAQ's: https://aws.amazon.com/elasticloadbalancing/faqs/
-
-A few How-Tos which will help you setup your ELB environment initially:
-SSL Certificates:
-http://docs.aws.amazon.com/ElasticLoadBalancing/latest/DeveloperGuide/ssl-server-cert.html
-Health Checks:
-http://docs.aws.amazon.com/ElasticLoadBalancing/latest/DeveloperGuide/ts-elb-healthcheck.html
-Listener Configuration:
-http://docs.aws.amazon.com/ElasticLoadBalancing/latest/DeveloperGuide/using-elb-listenerconfig-quickref.html
-
-After getting your ELB setup check out these other ELB features:
-ELB access logs for detailed information for all requests made to your load balancer: http://docs.aws.amazon.com/ElasticLoadBalancing/latest/DeveloperGuide/access-log-collection.html
-Monitoring your ELB with CloudWatch Metrics: http://docs.aws.amazon.com/ElasticLoadBalancing/latest/DeveloperGuide/elb-cloudwatch-metrics.html
-ELB features in detail: http://docs.aws.amazon.com/ElasticLoadBalancing/latest/DeveloperGuide/elb-configure-load-balancer.html
-
-We hope these resources will answer your questions and help you get started using Amazon Elastic Load Balancing. If you have additional questions or concerns, please reach out to us on the AWS EC2 forum: https://forums.aws.amazon.com/forum.jspa?forumID=30
-```
-
-### Auto Scaling
-
-[Kubernetes EC2 autoscaling for fun and profit - DEV Community 👩‍💻👨‍💻](https://dev.to/liquid_chickens/kubernetes-ec2-autoscaling-for-fun-and-profit-1mic)
-[AWS launches Karpenter, an open source autoscaler for Kubernetes clusters | TechCrunch](https://techcrunch.com/2021/11/30/aws-launches-karpenter-an-open-source-autoscaler-for-kubernetes-clusters/)
-
-```
-Thank you for activating Amazon Web Service's Auto Scaling service. We would like to help you get started.  We have put together a few resources that we think will be useful to you as you familiarize yourself with the Auto Scaling service.
-
-We have a selection of resources on our web page to help get you started including blogs, tutorials, and videos:
-http://aws.amazon.com/autoscaling/getting-started/
-
-Auto Scaling helps you to manage the lifecycle of your EC2 instances by automating launches, software configuration, and replacement of impaired instances. Check out this blog post to learn more:
-http://aws.amazon.com/blogs/compute/fleet-management-made-easy-with-auto-scaling/
-
-Auto Scaling can also ensure that your provisioned capacity matches the load on your application by dynamically scaling your number of instances up and down. Capacity can be scaled on a schedule, or according to rules based on CloudWatch metrics.
-
-Scaling on a schedule is the simplest form of dynamic scaling, and works best if your application has predictable load characteristics:
-http://docs.aws.amazon.com/autoscaling/latest/userguide/schedule_time.html
-
-Scaling based on CloudWatch metrics is more flexible because it reacts dynamically to changes in application load. We recommend using Step Scaling policies when scaling based on CloudWatch metrics.
-
-Introduction to Step Policies:
-http://aws.amazon.com/blogs/aws/auto-scaling-update-new-scaling-policies-for-more-responsive-scaling/
-
-Differences Between Dynamic Scaling Policies:
-http://docs.aws.amazon.com/AutoScaling/latest/DeveloperGuide/as-scale-based-on-demand.html
-
-Here are some helpful tutorials to help you through the first steps of setting up Auto Scaling:
-
-Creating your first Auto Scaling Group:
-http://docs.aws.amazon.com/autoscaling/latest/userguide/GettingStartedTutorial.html
-
-Planning your Auto Scaling Group:
-http://docs.aws.amazon.com/autoscaling/latest/userguide/AutoScalingGroup.html
-
-Creating a Load Balanced Auto Scaling Group:
-http://docs.aws.amazon.com/autoscaling/latest/userguide/as-register-lbs-with-asg.html
-
-Here are some additional features of Auto Scaling that may help you with your deployment:
-
-Auto Scaling can automatically replace instances that fail regular Health Checks:
-http://docs.aws.amazon.com/AutoScaling/latest/DeveloperGuide/healthcheck.html
-
-Lifecycle hooks give you control over what happens when Auto Scaling launches or terminates instances:
-http://docs.aws.amazon.com/AutoScaling/latest/DeveloperGuide/introducing-lifecycle-hooks.html
-
-Here is a blog post that illustrates a practical application of lifecycle hooks:
-http://aws.amazon.com/blogs/compute/building-a-backup-system-for-scaled-instances-using-aws-lambda-and-amazon-ec2-run-command/
-
-Other actions such as attaching, detaching, and temporarily removing instances from Auto Scaling:
-http://docs.aws.amazon.com/AutoScaling/latest/DeveloperGuide/WorkingWithASG.html
-
-Finally, did you know that Auto Scaling works with more than just EC2 instances? This is called Application Auto Scaling, and you can learn more about it here:
-http://docs.aws.amazon.com/ApplicationAutoScaling/latest/APIReference/Welcome.html
-
-These blog posts describe how Application Auto Scaling is used by various AWS services:
-http://aws.amazon.com/blogs/compute/automatic-scaling-with-amazon-ecs/
-http://aws.amazon.com/blogs/aws/new-auto-scaling-for-ec2-spot-fleets/
-http://aws.amazon.com/blogs/aws/new-auto-scaling-for-emr-clusters/
-
-We hope these resources will answer your questions and help you get started using Amazon Auto Scaling. If you have additional questions or concerns, please reach out to us on the AWS EC2 forum: https://forums.aws.amazon.com/forum.jspa?forumID=30
-```
+[Elastic Load Balancing Documentation](https://docs.aws.amazon.com/elasticloadbalancing/)
+[Getting started with ELB - Elastic Load Balancing](https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/load-balancer-getting-started.html)
 
 ### Elastic Beanstalk
 
@@ -385,7 +279,6 @@ Like Heroku, but on EC2
 [AWS Elastic Beanstalk – Deploy Web Applications without Managing Infrastructure](https://aws.amazon.com/elasticbeanstalk/)
 [What Is AWS Elastic Beanstalk? - AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html)
 [How to Deploy a Node.js Application to Elastic Beanstalk with Semaphore - Semaphore](https://semaphoreci.com/community/tutorials/how-to-deploy-a-node-js-application-to-elastic-beanstalk-with-semaphore)
-[Using Elastic Beanstalk multi-container with PHP – Un blog sur tout et rien](http://www.michaelgallego.fr/blog/2015/07/18/using-elastic-beanstalk-multi-container-with-php/)
 
 ## Lightsail
 
@@ -527,8 +420,6 @@ Share storage volume
 [AWS Storage Gateway - Amazon Web Services](https://aws.amazon.com/storagegateway/)
 [AWS Storage Gateway » ADMIN Magazine](http://www.admin-magazine.com/Articles/Simplify-integration-of-S3-storage-with-local-resources)
 
-[Building-a-Data-Lake-on-AWS](https://www.slideshare.net/AmazonWebServices/buildingadatalakeonaws)
-
 ## EBS
 
 Block storage to be mounted to EC2 instances.
@@ -565,9 +456,8 @@ We hope these resources will answer your questions and help you get started usin
 
 ## S3
 
+[Cloud Object Storage – Amazon S3 – Amazon Web Services](https://aws.amazon.com/s3/)
 [Object Storage Classes – Amazon S3](https://aws.amazon.com/s3/storage-classes/)
-[Compliance-Data-Archival](https://www.slideshare.net/AmazonWebServices/compliancedataarchival)
-[Cost-effective-Data-Management-with-S3-Batch-Operations-and-the-S3-Storage-Classes](https://www.slideshare.net/AmazonWebServices/costeffectivedatamanagementwiths3batchoperationsandthes3storageclasses)
 [Cloud Storage Pricing | S3 Pricing by Region | Amazon Simple Storage Service](https://aws.amazon.com/s3/pricing/)
 [Understanding your AWS billing and usage reports for Amazon S3 - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/aws-usage-report-understand.html)
 
@@ -575,6 +465,8 @@ We hope these resources will answer your questions and help you get started usin
 
 [s3fs-fuse/s3fs-fuse: FUSE-based file system backed by Amazon S3](https://github.com/s3fs-fuse/s3fs-fuse)
 [Mount an S3 bucket on an EC2 instance at boot using fstab with Mountpoint for Amazon S3 or s3fs-fuse – 4sysops](https://4sysops.com/archives/mount-an-s3-bucket-on-an-ec2-instance-at-boot-using-fstab-with-mountpoint-for-amazon-s3-or-s3fs-fuse/)
+
+[Amazon S3 essentials: definition, features, and more](https://www.qa.com/resources/blog/amazon-s3-essentials-definition-features-and-more/)
 
 [Differences between PUT and POST S3 signed URLs - Advanced Web Machinery](https://advancedweb.hu/2019/07/17/upload_signed_urls_differences/)
 [How S3 Signed URLs work - Advanced Web Machinery](https://advancedweb.hu/how-s3-signed-urls-work/) series
@@ -619,23 +511,28 @@ We hope these resources will answer your questions and help you get started usin
 [How to Setup AWS S3 Access from Specific IPs - Pete Cheslock](https://pete.wtf/2012/05/01/how-to-setup-aws-s3-access-from-specific-ips/)
 [Bucket Policy Examples - Amazon Simple Storage Service](http://docs.aws.amazon.com/AmazonS3/latest/dev/example-bucket-policies.html)
 
-### Static Website Hosting
-
-[Hosting a Static Website on Amazon S3 - Amazon Simple Storage Service](http://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html)
-[Configure a Bucket for Website Hosting - Amazon Simple Storage Service](http://docs.aws.amazon.com/AmazonS3/latest/dev/HowDoIWebsiteConfiguration.html)
-
-[Guidelines for Using the Available Access Policy Options - Amazon Simple Storage Service](http://docs.aws.amazon.com/AmazonS3/latest/dev/access-policy-alternatives-guidelines.html)
+[Access control in Amazon S3 - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-management.html)
 [Access Control List (ACL) Overview - Amazon Simple Storage Service](http://docs.aws.amazon.com/AmazonS3/latest/dev/acl-overview.html)
 [How do S3 permissions work? – Brandon Wamboldt](https://brandonwamboldt.ca/understanding-s3-permissions-1662/)
 [Amazon S3 Security: master S3 bucket polices and ACLs](http://cloudacademy.com/blog/amazon-s3-security-master-bucket-polices-acls/)
 
-[stojanovic/scottyjs: Deploy static websites and single page apps to AWS S3 and CloudFront with a single command](https://github.com/stojanovic/scottyjs)
+### Content Hosting
+
+> Use Amplify or CloudFront for Static Website Hosting
+
+[Deploy React and Server Side Rendered Apps and Static Sites - Amplify Hosting - AWS](https://aws.amazon.com/amplify/hosting/)
+[Welcome to AWS Amplify Hosting - AWS Amplify Hosting](https://docs.aws.amazon.com/amplify/latest/userguide/welcome.html)
+[Deploying a static website to AWS Amplify Hosting from an S3 general purpose bucket - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/website-hosting-amplify.html)
+[Deploying a static website from S3 using the Amplify console - AWS Amplify Hosting](https://docs.aws.amazon.com//amplify/latest/userguide/deploy--from-amplify-console.html)
+
 [bep/s3deploy: A simple tool to deploy static websites to Amazon S3 with Gzip and custom headers support (e.g. "Cache-Control")](https://github.com/bep/s3deploy)
 
 ### CloudFront
 
-[Static website on S3, CloudFront and Route 53, the right way! – Un blog sur tout et rien](http://www.michaelgallego.fr/blog/2013/08/27/static-website-on-s3-cloudfront-and-route-53-the-right-way/)
+[Low-Latency Content Delivery Network (CDN) - Amazon CloudFront - Amazon Web Services](https://aws.amazon.com/cloudfront/) 100GB transfer, 5GB S3 storage free-tier
+[Amazon CloudFront CDN - Plans & Pricing - Try For Free](https://aws.amazon.com/cloudfront/pricing/)
 
+[Get started with CloudFront - Amazon CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/GettingStarted.html)
 [Request and Response Behavior for Amazon S3 Origins - Amazon CloudFront](http://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/RequestAndResponseBehaviorS3Origin.html#RequestBehaviorS3Origin)
 [Serving Private Content through CloudFront - Amazon CloudFront](http://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/PrivateContent.html)
 
@@ -645,25 +542,16 @@ We hope these resources will answer your questions and help you get started usin
 ### GUI client
 
 [S3 Browser - Amazon S3 Client for Windows. User Interface for Amazon S3. S3 Bucket Explorer.](http://s3browser.com/)
-[Amazon S3 UI Client Bucket Explorer](http://www.bucketexplorer.com/)
 
 ### CLI client
 
-[Amazon S3 Authentication Tool for Curl : Sample Code & Libraries : Amazon Web Services](https://aws.amazon.com/code/128)
+[s3 — AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/reference/s3/)
+
 [Amazon S3 Tools: Command Line S3 Client and S3 Backup for Windows, Linux: s3cmd, s3express](http://s3tools.org/s3cmd)
-[cosmin/s3-bash: Access s3 from bash](https://github.com/cosmin/s3-bash)
-[kacole2/s3motion: Object Migration between S3 Compatible Storage Providers](https://github.com/kacole2/s3motion)
-[Uploading to S3 in Bash - BLARGH!! § Tommy Montgomery](http://tmont.com/blargh/2014/1/uploading-to-s3-in-bash)
-[Script Day: Upload Files to Amazon S3 Using Bash :: Things n' Stuff](http://geek.co.il/2014/05/26/script-day-upload-files-to-amazon-s3-using-bash)
 [kennethreitz/bucketstore: A simple library for interacting with Amazon S3.](https://github.com/kennethreitz/bucketstore)
 
-[boto/boto3: AWS SDK for Python](https://github.com/boto/boto3)
-[AWS SDK for Python](https://aws.amazon.com/sdk-for-python/)
-[Boto 3 Documentation — Boto 3 Docs](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
-[Python, Boto3, and AWS S3: Demystified – Real Python](https://realpython.com/courses/python-boto3-aws-s3/)
-
+[Welcome - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/API/Welcome.html)
 [Amazon S3 REST API with curl – Łukasz Adamczak](http://czak.pl/2015/09/15/s3-rest-api-with-curl.html)
-[Curl: Re: AWS S3](https://curl.haxx.se/mail/archive-2014-10/0006.html)
 
 ---
 
@@ -684,12 +572,11 @@ SQS: message queuing
 
 [How I got AWS Machine Learning Certified - Paulthi Victor - Medium](https://medium.com/@paulthi.victor/how-i-got-aws-machine-learning-certified-dd78d4da8bcf)
 
-[Build-Train-Deploy-Machine-Learning-Models-at-Any-Scale](https://www.slideshare.net/AmazonWebServices/buildtraindeploymachinelearningmodelsatanyscale)
-[Accelerating-ML-Adoption-with-Our-New-AI-Services](https://www.slideshare.net/AmazonWebServices/acceleratingmladoptionwithournewaiservices)
-
 [A Beginner’s Guide to AWS’s Machine Learning Services – CloudSavvy IT](https://www.cloudsavvyit.com/2599/a-beginners-guide-to-awss-machine-learning-services/)
 
 ## SageMaker
 
 [What Is Amazon SageMaker? - Amazon SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html)
 [A quick guide to distributed training with TensorFlow and Horovod on Amazon SageMaker | by Shashank Prasanna | Towards Data Science](https://towardsdatascience.com/a-quick-guide-to-distributed-training-with-tensorflow-and-horovod-on-amazon-sagemaker-dae18371ef6e)
+
+[Amazon Elastic Inference – GPU-Powered Deep Learning Inference Acceleration | AWS News Blog](https://aws.amazon.com/blogs/aws/amazon-elastic-inference-gpu-powered-deep-learning-inference-acceleration/)

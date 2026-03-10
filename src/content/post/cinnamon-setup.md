@@ -2,7 +2,7 @@
 title: Cinnamon setup
 description: ""
 created: 2015-05-04
-updated: 2025-10-10
+updated: 2025-12-18
 tags:
   - desktop
   - linux
@@ -194,7 +194,7 @@ Generally delete unused shortcuts.
 Disable NumLock to use keypad keys.
 
 ```sh
-gsettings list-schema org.cinnamon.desktop.keybindings.wm
+gsettings list-recursively org.cinnamon.desktop.keybindings.wm
 dconf dump /org/cinnamon/desktop/keybindings/wm/
 ```
 

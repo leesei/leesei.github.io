@@ -2,7 +2,7 @@
 title: Elasticsearch
 description: ""
 created: 2015-08-03
-updated: 2025-01-09
+updated: 2026-01-13
 tags:
   - comp/database
   - elastic-stack
@@ -148,9 +148,9 @@ http http://elasticsearch:9200/INDEX/TYPE/_mapping?pretty
 
 ### Internals
 
-[Elasticsearch from the Bottom Up, Part 1 | Elastic](https://www.elastic.co/blog/found-elasticsearch-from-the-bottom-up) !important, Lucent links
+[Elasticsearch from the Bottom Up, Part 1 | Elastic](https://www.elastic.co/blog/found-elasticsearch-from-the-bottom-up) ❗!important, Lucent links
 [Elasticsearch from the Top Down | Elastic](https://www.elastic.co/blog/found-elasticsearch-top-down)
-[Elasticsearch in Production | Elastic](https://www.elastic.co/blog/found-elasticsearch-in-production) !important, network partition, profiling endpoints
+[Elasticsearch in Production | Elastic](https://www.elastic.co/blog/found-elasticsearch-in-production) ❗!important, network partition, profiling endpoints
 [Elasticsearch Internals - Tracking in-sync shard copies | Elastic](https://www.elastic.co/blog/tracking-in-sync-shard-copies)
 [Elasticsearch Hot Warm Architecture | Elastic](https://www.elastic.co/blog/hot-warm-architecture-in-elasticsearch-5-x)
 
@@ -172,7 +172,7 @@ Mapping will be generated dynamically but it:
 - all keys in the documents will end up in the index's mapping
 
 [Mapping | Elasticsearch Reference | Elastic](https://www.elastic.co/guide/en/elasticsearch/reference/current/mapping.html)
-[An Introduction to Elasticsearch Mapping | Elastic](https://www.elastic.co/blog/found-elasticsearch-mapping-introduction) !important
+[An Introduction to Elasticsearch Mapping | Elastic](https://www.elastic.co/blog/found-elasticsearch-mapping-introduction) ❗!important
 The schema in Elasticsearch is a mapping that describes the the fields in the JSON documents along with their data type, as well as how they should be indexed in the Lucene indexes that lie under the hood. Because of this, in Elasticsearch terms, we usually call this schema a “mapping”.
 "Mapping type" (keys at root level of mapping) is the name of type in index, see below.
 An field can be of "multi-field" type to support multiple way of indexing (or not at all).
@@ -206,6 +206,7 @@ Elastic search gained the power to ingest logs in 5.0. Consider it a little cous
 [All About Analyzers, Part Two | Elastic](https://www.elastic.co/blog/found-text-analysis-part-2)
 
 _Match query_ also went through [standard analyzer](https://www.elastic.co/guide/en/elasticsearch/reference/current/analysis-standard-analyzer.html) and _term query_ looks for exact match.
+!ar
 
 ### Query
 
@@ -213,7 +214,7 @@ Elasticsearch is powered by Apache Lucene query language.
 
 [Query DSL | Elasticsearch Reference | Elastic](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl.html)
 
-[Troubleshooting Elasticsearch searches, for Beginners | Elastic](https://www.elastic.co/blog/found-beginner-troubleshooting) !important
+[Troubleshooting Elasticsearch searches, for Beginners | Elastic](https://www.elastic.co/blog/found-beginner-troubleshooting) ❗!important
 [Painless Scripting Language | Elasticsearch Reference | Elastic](https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-scripting-painless.html)
 [Lucene Expressions Language | Elasticsearch Reference | Elastic](https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-scripting-expression.html)
 

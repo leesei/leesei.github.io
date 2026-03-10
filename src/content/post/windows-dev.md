@@ -2,7 +2,7 @@
 title: Windows Development
 description: ""
 created: 2020-03-02
-updated: 2025-10-10
+updated: 2026-01-13
 tags:
   - app
 ---
@@ -12,7 +12,7 @@ tags:
 [Windows Developer Blog -](https://blogs.windows.com/windowsdeveloper/)
 [DotNetCurry.com: Learn .NET Core, ASP.NET MVC, C#, Azure DevOps, JavaScript | Tutorials for Beginners and Experienced Developers](https://www.dotnetcurry.com/)
 
-[Developing Desktop applications in .NET | DotNetCurry](https://www.dotnetcurry.com/dotnet/1506/windows-application-dotnet) !important
+[Developing Desktop applications in .NET | DotNetCurry](https://www.dotnetcurry.com/dotnet/1506/windows-application-dotnet) ❗!important
 [Download a Windows 10 virtual machine - Windows app development](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/) Win10 VM
 
 [Microsoft releases free Windows Apps programming course - gHacks Tech News](https://www.ghacks.net/2015/10/01/microsoft-releases-free-windows-apps-programming-course/)

@@ -2,7 +2,7 @@
 title: Household Appliances
 description: ""
 created: 2018-07-05
-updated: 2025-10-10
+updated: 2026-02-13
 tags:
   - aircon
   - cooler
@@ -17,13 +17,14 @@ tags:
 
 [Reviews and Ratings - RTINGS.com](https://www.rtings.com/)
 
-[先看评测 - YouTube](https://www.youtube.com/@%E5%85%88%E7%9C%8B%E8%AF%84%E6%B5%8B)
-[爱否科技 - YouTube](https://www.youtube.com/@FView-CN)
-[TESTV - YouTube](https://www.youtube.com/@testvcn)
-[凰家评测 - YouTube](https://www.youtube.com/@ifengTech)
-[深入了解PreInsight - YouTube](https://www.youtube.com/@preinsight)
-[差评硬件部 - YouTube](https://www.youtube.com/@chapinghardware)
 [Shan Yi talks about decoration - YouTube](https://www.youtube.com/@ShanYalkaboudecoration)
+[TESTV - YouTube](https://www.youtube.com/@testvcn)
+[先看评测 - YouTube](https://www.youtube.com/@%E5%85%88%E7%9C%8B%E8%AF%84%E6%B5%8B)
+[凰家评测 - YouTube](https://www.youtube.com/@ifengTech)
+[差评硬件部 - YouTube](https://www.youtube.com/@chapinghardware)
+[新评科技 - YouTube](https://www.youtube.com/@xpkj2024) more on mobile phones
+[深入了解PreInsight - YouTube](https://www.youtube.com/@preinsight)
+[爱否科技 - YouTube](https://www.youtube.com/@FView-CN)
 
 [海賊王DIY日記 - YouTube](https://www.youtube.com/@pirate-king) fixing household appliances
 

@@ -2,7 +2,7 @@
 title: Web Security
 description: ""
 created: 2015-05-18
-updated: 2025-10-14
+updated: 2026-02-01
 tags:
   - security
   - ssl
@@ -77,9 +77,6 @@ tags:
 
 [14 best open-source web application vulnerability scanners [updated for 2020] | Infosec](https://www.infosecinstitute.com/resources/application-security/14-popular-web-application-vulnerability-scanners/)
 [Error | Infosec](https://www.infosecinstitute.com/the-top-20-penetration-testing-tools-part-2/)
-[Burp Suite - Application Security Testing Software - PortSwigger](https://portswigger.net/burp)
-[Download Burp Suite Community Edition - PortSwigger](https://portswigger.net/burp/communitydownload)
-[Burp for Beginners: Introduction to Burp - YouTube](https://www.youtube.com/watch?v=UgbYozI436M)
 
 [OWASP Zed Attack Proxy Project - OWASP](https://www.owasp.org/index.php/ZAP)
 [zaproxy/zaproxy: The OWASP ZAP core project](https://github.com/zaproxy/zaproxy)
@@ -119,6 +116,12 @@ tags:
 [skipfish - Google Code Archive - Long-term storage for Google Code Project Hosting.](https://code.google.com/archive/p/skipfish/) 😴inactive, last update 2012
 [Skipfish - Penetration Testing tool in Kali Linux - GeeksforGeeks](https://www.geeksforgeeks.org/skipfish-penetration-testing-tool-in-kali-linux/)
 [ratproxy - Google Code Archive - Long-term storage for Google Code Project Hosting.](https://code.google.com/archive/p/ratproxy/) 😴inactive, last update 2009
+
+### Burp Suit
+
+[Burp Suite - Application Security Testing Software - PortSwigger](https://portswigger.net/burp)
+[Download Burp Suite Community Edition - PortSwigger](https://portswigger.net/burp/communitydownload)
+[Burp for Beginners: Introduction to Burp - YouTube](https://www.youtube.com/watch?v=UgbYozI436M)
 
 ### Commercial
 

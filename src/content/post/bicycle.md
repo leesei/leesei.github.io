@@ -2,7 +2,7 @@
 title: Bicycle
 description: ""
 created: 2015-12-04
-updated: 2025-10-10
+updated: 2025-12-23
 tags:
   - bicycle
   - science
@@ -16,7 +16,19 @@ tags:
 [Global Cycling Network - YouTube](https://www.youtube.com/@gcn)
 [GCN's Guide To Buying Your First Road Bike - YouTube](https://www.youtube.com/watch?v=_T7NTe3uBN4)
 
-### Shimano Groupsets
+## Beijing To Paris - Deray
+
+[北京到巴黎 | Deray](https://btp.deray.org/)
+[關於BTP](https://btp.deray.org/btp2007/about_btp.html)
+[Deray 的北京到巴黎 單車旅行 2007年 再次追逐冒險](http://www.deray.org/btp2007/)
+
+[從北京到巴黎，單車護地球 ─Derey - YouTube](https://www.youtube.com/watch?v=KGviGXOK93c)
+
+[薛德瑞 - Wikiwand](https://www.wikiwand.com/zh-hk/articles/%E8%96%9B%E5%BE%B7%E7%91%9E)
+[DerayGa (DerayGa) / Repositories](https://github.com/DerayGa?tab=repositories&type=source)
+[Deray嘎嘎嘎](http://www.deray.org/)
+
+## Shimano Groupsets
 
 [Best components for your road bike. | Shimano Road](https://road.shimano.com/)
 [Shimano - Wikiwand](https://www.wikiwand.com/en/Shimano)
@@ -32,11 +44,11 @@ tags:
 
 [Shimano Tiagra 4500 better than 105 5800? How NOT to upgrade your bike. Test & review - YouTube](https://www.youtube.com/watch?v=zaJDkVJ1K8E) Tiagra 4500 (2016) vs 105 4800 (2018)
 
-### Bike fitting
+## Bike fitting
 
 [How To Make Your Pedalling Technique Smoother Than Ever | GCN's Pro Cycling Tips - YouTube](https://www.youtube.com/watch?v=PAHRvcOCSU4)
 
-### Drive train
+## Drive train
 
 [The Bike Geek Explains: Gear Ratios - YouTube](https://www.youtube.com/watch?v=kkWC_BSb7u8)
 [Compact vs Standard Cranksets Compared (Mid-Compact Too)](https://bikepush.com/compact-vs-standard-crank/)
@@ -52,17 +64,17 @@ tags:
 [Are Chainless Digital Drive Bicycles The Future of Cycling? - YouTube](https://www.youtube.com/watch?v=r-Zyp6jX0HM)
 [Are Chainless String Drive Bicycles a Genius or Terrible Idea? - YouTube](https://www.youtube.com/watch?v=doKhd8kE0Ow)
 
-### Brakes
+## Brakes
 
 [Disc Vs. Rim Brakes: The End of The Debate? - YouTube](https://www.youtube.com/watch?v=EFKxJ5L187M)
 [7 Best Road Bike Brake Pads Reviewed (2021) | Aluminum Alloy Carbon](https://bikepush.com/best-road-bike-brake-pads/)
 
-### Tyres
+## Tyres
 
 [Trend spotting: Why you need to switch to wider tyres | road.cc](https://road.cc/content/feature/trend-spotting-why-you-need-switch-wider-tyres-182519)
 [The Surprising Science Behind Tread Patterns - YouTube](https://www.youtube.com/watch?v=00-30GQl0TM) for cars
 
-### Physics
+## Physics
 
 [Most People Don't Know How Bikes Work - YouTube](https://www.youtube.com/watch?v=9cNmUNHSBac)
 [How Do Bikes Stay Up? - YouTube](https://www.youtube.com/watch?v=oZAc5t2lkvo)

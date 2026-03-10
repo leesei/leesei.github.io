@@ -2,7 +2,7 @@
 title: UML
 description: ""
 created: 2015-04-14
-updated: 2025-10-10
+updated: 2026-03-03
 tags:
   - comp/lang
   - uml
@@ -69,7 +69,7 @@ Candidates are (ranked according to the criteria below):
 [diagrams]: https://diagrams.mingrammer.com/
 [go-diagrams]: https://github.com/blushft/go-diagrams
 [d2]: https://d2lang.com/
-[mermaid]: https://github.com/knsv/mermaid
+[mermaid]: https://github.com/mermaid-js/mermaid
 [jumly]: http://jumly.tmtk.net/
 [structurizr]: https://structurizr.com/
 [js-sequence-diagrams]: http://bramp.github.io/js-sequence-diagrams/
@@ -91,7 +91,6 @@ I ended up choosing PlantUML because:
 BTW, `blockdiag` would be the first runner up. It also features several unique diagram types.
 
 [Draw More, Work Less](http://www.slideshare.net/MichaelBarSinai/generated-siagramspublic)
-[Making Mermaid Diagrams in Markdown | CSS-Tricks - CSS-Tricks](https://css-tricks.com/making-mermaid-diagrams-in-markdown/)
 
 [Protocol | An ASCII Header Generator for Network Protocols](https://www.luismg.com/protocol/) ASCII RFC-like header diagrams
 [luismartingarcia/protocol: An ASCII Header Generator for Network Protocols](https://github.com/luismartingarcia/protocol)
@@ -163,6 +162,15 @@ styling:
 [hackebrot/plantuml-snippets: Code snippets for drawing diagrams with PlantUML](https://github.com/hackebrot/plantuml-snippets)
 [mmmpa/colors_for_plantUML](https://github.com/mmmpa/colors_for_plantUML)
 [templates/plantuml at master - mark.george/templates](https://isgb.otago.ac.nz/infosci/mark.george/templates/tree/master/plantuml)
+
+### Mermaid
+
+[Mermaid | Diagramming and charting tool](https://mermaid.js.org/)
+[mermaid-js/mermaid: Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown](https://github.com/mermaid-js/mermaid)
+
+[Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://mermaid.live/edit)
+
+[Making Mermaid Diagrams in Markdown | CSS-Tricks - CSS-Tricks](https://css-tricks.com/making-mermaid-diagrams-in-markdown/)
 
 ### Pikchr
 

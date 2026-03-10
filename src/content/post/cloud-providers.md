@@ -2,7 +2,7 @@
 title: Cloud Providers
 description: ""
 created: 2015-06-17
-updated: 2025-11-14
+updated: 2026-03-03
 tags:
   - dev/deploy
   - web
@@ -16,6 +16,8 @@ tags:
 
 [The ABCs of virtual private servers, Part 1: Why go virtual? | Ars Technica](https://arstechnica.com/information-technology/2011/02/virtual-private-servers/)
 [The ABCs of virtual private servers, Part 2: Getting started | Ars Technica](https://arstechnica.com/information-technology/2011/02/the-abcs-virtual-private-servers-part-2-getting-started/)
+
+[Xvantage](https://usa.ingrammicro.com/cep/app/cms/en-us/resources/What-to-look-for-in-a-cloud-services-provider-and-what-to-avoid)
 
 # Web Hosting
 

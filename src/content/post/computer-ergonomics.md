@@ -2,7 +2,7 @@
 title: Computer Ergonomics
 description: ""
 created: 2023-02-16
-updated: 2025-11-07
+updated: 2026-02-25
 tags:
   - comp/hardware
 ---
@@ -28,6 +28,7 @@ tags:
 [人體工學椅真的人體工學嗎！？(各種人體工學椅點評) - YouTube](https://www.youtube.com/watch?v=t1B0pNTOuPI)
 [【硬件科普】人体工学椅有哪些结构,各部分对舒适度有什么影响? - YouTube](https://www.youtube.com/watch?v=OtN21fDQ-eo) ❗!important
 [人体工学椅怎么选？揭秘黑幕！这个视频让你少走弯路！ - YouTube](https://www.youtube.com/watch?v=jNH5lfIm2oM)
+[Why do office chairs have 5 legs? - YouTube](https://www.youtube.com/watch?v=kKt46Lch2bo)
 
 [Setting up your Computer Work Station - YouTube](https://www.youtube.com/watch?v=v4v7CXDBTxk)
 [Labour Department - Setting Up Office Workstations (video) (Cantonese version)](https://www.labour.gov.hk/eng/public/officeCantonese.htm)

@@ -2,7 +2,7 @@
 title: USB
 description: ""
 created: 2019-01-29
-updated: 2025-10-10
+updated: 2026-02-12
 tags:
   - comp/hardware
 ---
@@ -148,6 +148,7 @@ Add your use to `dialout` group
 [Total Nightmare: USB-C and Thunderbolt 3 - Stephen Foskett, Pack Rat](http://blog.fosketts.net/2016/10/29/total-nightmare-usb-c-thunderbolt-3/)
 
 [How to tell if your USB-C cable is USB only or supports Thunderbolt 3 | Macworld](https://www.macworld.com/article/3586187/how-to-tell-if-your-usb-c-cable-is-usb-only-or-supports-thunderbolt-3.amp.html)
+[Not all USB-C cables are the same](https://www.makeuseof.com/not-all-usb-c-cables-are-the-same/)
 [USB-C 一统天下❌ 加剧混乱✅ 为什么C口数据线还是不能混用？【柴知道】 - YouTube](https://www.youtube.com/watch?v=fHHJnQjNNI0)
 
 [Dangers of Counterfeit USB-C and Type-C Cables](http://www.belkin.com/us/Resource-Center/USB-C/USB-C-counterfeits/)
@@ -157,6 +158,8 @@ Add your use to `dialout` group
 ```sh
 sudo lsusb -t
 ```
+
+[xsuchy/python-hwdata: Python bindings to hwdata](https://github.com/xsuchy/python-hwdata)
 
 ## Mount USB storage
 

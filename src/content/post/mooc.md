@@ -2,7 +2,7 @@
 title: MOOC
 description: ""
 created: 2015-05-08
-updated: 2025-10-31
+updated: 2026-03-06
 tags:
   - learning
   - mooc
@@ -14,9 +14,12 @@ tags:
 [Massive open online course - Wikiwand](https://www.wikiwand.com/en/Massive_open_online_course)
 [No Excuse List](http://noexcuselist.com/)
 
+[Home - Open edX](https://openedx.org/)
 [Class Central • #1 Search Engine for Free Online Courses & MOOCs](https://www.classcentral.com/)
 [234 Udacity Free Online Courses and MOOCs | Class Central](https://www.classcentral.com/provider/udacity)
 [10 YouTube channel you need to subscribe. - DEV Community](https://dev.to/0shuvo0/10-youtube-channel-you-need-to-subscribe-jeo)
+[Category: 100% Off Coupon - Coupon Scorpion](https://couponscorpion.com/category/100-off-coupons/)
+[Category: Free - Coupon Scorpion](https://couponscorpion.com/category/free100-discount/)
 
 [Khan Academy](https://www.khanacademy.org/) free, university courses, college students
 [Coursera](https://www.coursera.org/) free, university courses
@@ -82,6 +85,7 @@ I've bought several bundles here (with Teachable SSO):
 [The Net Ninja - YouTube](https://www.youtube.com/@NetNinja) mostly frontend
 [Traversy Media - YouTube](https://www.youtube.com/@TraversyMedia) mostly web tech
 [Web Dev Simplified - YouTube](https://www.youtube.com/@WebDevSimplified) mostly web tech
+[OpenSecurityTraining2](https://p.ost2.fyi/) cybersec
 
 [Hussein Nasser - YouTube](https://www.youtube.com/@hnasr) backend technologies, many on databases
 [The Backend Engineering Show - YouTube](https://www.youtube.com/playlist?list=PLQnljOFTspQU0ICDe-cL1EwXC4GDSayKY)
@@ -165,6 +169,7 @@ seneca-in-practice
 
 ## Educational Youtube Channels
 
+[【驚奇說】正片全集 - YouTube](https://www.youtube.com/playlist?list=PL8U4PMpSw-d0x48nwNiwiKYyrEkYdxaI7)
 [Abide By Reason - YouTube](https://www.youtube.com/@AbideByReason) mostly maths and physicsp
 [Animagraffs - YouTube](https://www.youtube.com/@animagraffs) "How it works" in 3D rendering
 [Arvin Ash - YouTube](https://www.youtube.com/@ArvinAsh) science, explainers
@@ -220,6 +225,7 @@ seneca-in-practice
 [Professor Dave Explains - YouTube](https://www.youtube.com/@ProfessorDaveExplains) sciency, deep dives on various disciplines
 [ProtonsTalk - YouTube](https://www.youtube.com/@ProtonsTalk) sciency
 [Quanta Magazine - YouTube](https://www.youtube.com/@QuantaScienceChannel) sciency
+[Rabbit Hole - YouTube](https://www.youtube.com/@rabbithole_video) sciency
 [Rational Animations - YouTube](https://www.youtube.com/@RationalAnimations) animated explainers, AI
 [Real Engineering - YouTube](https://www.youtube.com/@RealEngineering) engineering
 [Real Science - YouTube](https://www.youtube.com/@realscience) sciency, Insane Biology
@@ -230,9 +236,11 @@ seneca-in-practice
 [SciShow - YouTube](https://www.youtube.com/@SciShow) sciency
 [SideQuest - YouTube](https://www.youtube.com/@SideQuestYT) animated history
 [Sixty Symbols - YouTube](https://www.youtube.com/@sixtysymbols) physics and astronomy
+[Slidebean - YouTube](https://www.youtube.com/@slidebean) documentaries
 [SmarterEveryDay - YouTube](https://www.youtube.com/@smartereveryday) sciency, engineering, experiments
 [Steve Mould - YouTube](https://www.youtube.com/@SteveMould) sciency
 [T. Folse Nuclear - YouTube](https://www.youtube.com/@tfolsenuclear) explainers, nuclear engineer
+[TechAltar - YouTube](https://www.youtube.com/techaltar) economics, tech documentaries
 [The Efficient Engineer - YouTube](https://www.youtube.com/@TheEfficientEngineer/) engineering
 [The Infographics Show - YouTube](https://www.youtube.com/@TheInfographicsShow) explainers
 [The Engineering Mindset - YouTube](https://www.youtube.com/@EngineeringMindset) explainers, electronics and engineering
@@ -255,9 +263,9 @@ seneca-in-practice
 [Wisecrack - YouTube](https://www.youtube.com/@WisecrackEDU) commentary on society and culture
 [Zepherus - YouTube](https://www.youtube.com/@Zepherus) obscure historical/scientific things
 [壹读 iRead - 轻幽默·有情趣 - YouTube](https://www.youtube.com/@feidie1min) animated explainers, abandoned?
-[【驚奇說】正片全集 - YouTube](https://www.youtube.com/playlist?list=PL8U4PMpSw-d0x48nwNiwiKYyrEkYdxaI7)
 [小 Lin 说 - YouTube](https://www.youtube.com/@xiao_lin_shuo) economics and related history
 [差评君 - YouTube](https://www.youtube.com/@xpinman) explainers
+[旭岽叨科学 - YouTube](https://www.youtube.com/@Dscience2014) explainers
 [柴知道 ChaiKnows Official Channel - YouTube](https://www.youtube.com/@chaiknowsofficialchannel982) animated explainers
 [混乱博物馆 ChaosMuseum - YouTube](https://www.youtube.com/@chaosmuseum) explainers
 [瑞森老哥 Reason - YouTube](https://www.youtube.com/@reason2188) animated explainers, short history
@@ -267,7 +275,7 @@ seneca-in-practice
 [科学火箭叔 - YouTube](https://www.youtube.com/@KeXueHuoJianShu) sciency, but citation is poor
 [科學漫聊 - YouTube](https://www.youtube.com/@KXML) sciency
 [秦老闆請鑑價 - YouTube](https://www.youtube.com/@MrChin740)
-[芳斯塔芙 - YouTube](https://www.youtube.com/@Funstuff2018) fun stuff, explainers
+[芳斯塔芙 - YouTube](https://www.youtube.com/@Funstuff2018) "fun stuff", explainers
 
 computer science
 [Polylog - YouTube](https://www.youtube.com/@PolylogCS)

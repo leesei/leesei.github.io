@@ -2,7 +2,7 @@
 title: Web Browser
 description: ""
 created: 2017-06-16
-updated: 2025-10-10
+updated: 2026-01-25
 tags:
   - javascript/runtime
   - web
@@ -36,6 +36,7 @@ tags:
 
 [Chrome Flags that will improve your browsing experience](https://www.androidauthority.com/chrome-flags-1009941/)
 [One tweak for a more pain-free Google Chrome browsing experience | ZDNet](https://www.zdnet.com/article/one-tweak-for-a-more-pain-free-google-chrome-browsing-experience/) reduce notification
+[Buried deep in Chrome are 12 hidden settings you’ll actually want to use](https://www.makeuseof.com/chrome-hidden-settings-youll-actually-want-to-use/) flags
 
 `chrome://network-internals`
 `chrome://webrtc-internals`
@@ -267,6 +268,9 @@ Goto chrome://extensions/shortcuts to set shortcuts
 - Charset: ASDZXC
 - PR: sync option
 
+[Nikflix - Chrome Web Store](https://chromewebstore.google.com/detail/nikflix/knjoabokknkpkhbbdclmnjcoeedmgema)
+[Nikflix - Bypass Netflix Household Restriction](https://nikflix.hergol.me/) custom overlay, open-source
+[Netflix Household Bypass - Chrome Web Store](https://chromewebstore.google.com/detail/netflix-household-bypass/lbodffkocdmjcjaanplflfpgmmefkalh) original overlay
 [Petapator](https://chromewebstore.google.com/detail/petapator/eapjillhmgpcgfelagikhjeiboocofcm)
 [Reader View](https://chromewebstore.google.com/detail/reader-view/ecabifbgmdmgdllomnfinbmaellmclnh)
 [Refined GitHub](https://chromewebstore.google.com/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf)

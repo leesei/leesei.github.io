@@ -2,13 +2,25 @@
 title: Household
 description: ""
 created: 2018-07-05
-updated: 2025-01-09
+updated: 2026-01-20
 tags:
   - household
 ---
 
+# 衣
+
+[梅森设计 - YouTube](https://www.youtube.com/@MesionDesign)
+
 [一百元和一千元的 T-Shirt 差在哪？從布料、版型到縫線帶你分辨不同價位 T-Shirt Cheap Vs. Expensive T-shirts ｜ VOGUE 冷知識｜ Vogue Taiwan - YouTube](https://www.youtube.com/watch?v=3mtx6sflGyY)
 [三萬元與一千元的牛仔褲差在哪？Cheap Vs Expensive Jeans ｜ VOGUE 冷知識｜ Vogue Taiwan - YouTube](https://www.youtube.com/watch?v=m89MOtgGxZE)
+
+## Leather
+
+[作为全球最大的皮革消费国，我国99%的消费者对皮的了解几乎为0！ - YouTube](https://www.youtube.com/watch?v=5pw4dM55SK0)
+
+- 皮革 (頭層皮革)
+- 超細纖維合成革 (超纖) (二層皮革, 合成革)
+- 人造皮革 (PVC, PU)
 
 ## Down feather jacket
 

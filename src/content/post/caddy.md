@@ -2,7 +2,7 @@
 title: Caddy
 description: Caddy 2 is a powerful, enterprise-ready, open source web server with automatic HTTPS written in Go
 created: 2023-06-10
-updated: 2025-10-10
+updated: 2026-01-27
 tags:
   - nginx
   - reverse-proxy
@@ -128,6 +128,8 @@ Use `defer` headers to override the value set by the proxied server, c.f. `heade
 [Max Mehl | Docker2Caddy - An automatic Reverse Proxy for Docker containers](https://mehl.mx/blog/2022/docker2caddy-an-automatic-reverse-proxy-for-docker-containers/)
 [fsfe-system-hackers/docker2caddy: Background script that checks Docker containers running on the host and creates their Caddy reverse proxy config - docker2caddy - FSFE Git Service](https://git.fsfe.org/fsfe-system-hackers/docker2caddy)
 
+[lucaslorentz/caddy-docker-proxy: Caddy as a reverse proxy for Docker](https://github.com/lucaslorentz/caddy-docker-proxy)
+
 [Karan Sharma | How I expose services while self hosting](https://mrkaran.dev/posts/exposing-services/)
 
 ### Module/Plugin
@@ -147,6 +149,7 @@ Use `defer` headers to override the value set by the proxied server, c.f. `heade
 [mholt/caddy-ratelimit: HTTP rate limiting module for Caddy 2](https://github.com/mholt/caddy-ratelimit)
 [caddy-ext/ratelimit at master · RussellLuo/caddy-ext](https://github.com/RussellLuo/caddy-ext/tree/master/ratelimit) 😴inactive
 [lucaslorentz/caddy-docker-proxy: Caddy as a reverse proxy for Docker](https://github.com/lucaslorentz/caddy-docker-proxy)
+[sjtug/cerberus: A Caddy module that blocks unwanted requests using a sha256 PoW challenge](https://github.com/SJTUG/cerberus)
 
 Auth
 [ggicci/caddy-jwt: 🆔 Caddy Module JWT Authentication](https://github.com/ggicci/caddy-jwt)

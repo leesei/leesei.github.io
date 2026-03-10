@@ -2,7 +2,7 @@
 title: StyleX
 description: ""
 created: 2023-12-15
-updated: 2025-10-10
+updated: 2026-01-27
 tags:
   - css
   - stylex
@@ -25,6 +25,7 @@ tags:
 - theme/styling system with [`createTheme()`](https://stylexjs.com/docs/api/javascript/createTheme/)/[`defineVars()`](https://stylexjs.com/docs/api/javascript/defineVars/)
 
 [Facebook Did It Again - YouTube](https://www.youtube.com/watch?v=dphmbB77W_4)
+[StyleX vs. Tailwind: Meta's Take on CSS-in-JS Maintainability - The New Stack](https://thenewstack.io/stylex-vs-tailwind-metas-take-on-css-in-js-maintainability/)
 
 t3.gg
 [Facebook Tried Tailwind, Then Built This Instead - YouTube](https://www.youtube.com/watch?v=PHV94q7BivI)

@@ -2,7 +2,7 @@
 title: Desktop Launchers
 description: ""
 created: 2024-01-19
-updated: 2025-10-10
+updated: 2026-02-03
 tags:
   - albert
   - app
@@ -98,6 +98,7 @@ Plugins are Native Qt Plugins
 
 dmenu: run prompt with auto complete
 [Add An Applications Menu To Any Window Manager - YouTube](https://www.youtube.com/watch?v=wMrdCbrQjnQ)
+[Derek Taylor / dmscripts · GitLab](https://gitlab.com/dwt1/dmscripts)
 
 ## Sunbeam
 
@@ -122,6 +123,8 @@ dmenu: run prompt with auto complete
 [cerebro-plugin - npms](https://npms.io/search?q=keywords%3Acerebro-plugin)
 
 ## Windows
+
+[PowerToys Command Palette Utility for Windows | Microsoft Learn](https://learn.microsoft.com/en-us/windows/powertoys/command-palette/overview)
 
 [Flow Launcher](https://www.flowlauncher.com/)
 

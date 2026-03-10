@@ -2,7 +2,7 @@
 title: Database
 description: ""
 created: 2015-08-03
-updated: 2025-10-10
+updated: 2026-01-12
 tags:
   - comp/database
 ---
@@ -817,6 +817,21 @@ Containerized deployment, meant for scale.
 
 [[mongodb]]
 
+## DocumentDB/FerretDB
+
+> Open-source fork of MongoDB implemented using PostgreSQL
+
+[DocumentDB - Open Source Document Database](https://documentdb.io/)
+[documentdb/documentdb: MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity.](https://github.com/documentdb/documentdb)
+[What DocumentDB Means for Open Source - The New Stack](https://thenewstack.io/what-documentdb-means-for-open-source/)
+
+[FerretDB](https://www.ferretdb.com/) formerly MangoDB, adopted DocumentDB in 2.0
+[Introduction | FerretDB](https://docs.ferretdb.io/)
+[FerretDB, an Open-Source Alternative to MongoDB, Releases Version 2.0 - InfoQ](https://www.infoq.com/news/2025/02/ferretdb-documentdb/)
+
+[Pongo](https://event-driven-io.github.io/Pongo/)
+[event-driven-io/Pongo: Pongo - Mongo but on Postgres and with strong consistency benefits](https://github.com/event-driven-io/Pongo)
+
 ## ToroDB
 
 MongoDB protocol and APIs backed by PostgreSQL.
@@ -1292,7 +1307,9 @@ Supports JavaScript (V8 Engine)
 
 ## CosmoDB
 
-[Azure Cosmos DB – Globally Distributed Database Service (formerly DocumentDB) | Microsoft Azure](https://azure.microsoft.com/en-us/services/cosmos-db/)
+> powered by [[#DocumentDB]]
+
+[Azure Cosmos DB | Microsoft Azure](https://azure.microsoft.com/en-us/products/cosmos-db/)
 [Cosmos DB - Wikiwand](https://www.wikiwand.com/en/Cosmos_DB)
 [Introduction to Azure Cosmos DB | Microsoft Docs](https://docs.microsoft.com/en-us/azure/cosmos-db/introduction)
 

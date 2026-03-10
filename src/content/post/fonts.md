@@ -2,7 +2,7 @@
 title: Fonts
 description: ""
 created: 2016-04-23
-updated: 2025-10-10
+updated: 2025-12-16
 tags:
   - comp
   - comp/lang
@@ -273,7 +273,7 @@ Extensions:
 [Fork Awesome, a fork of the iconic font and CSS toolkit](https://forkaweso.me/Fork-Awesome/)
 [Line Awesome — Free Beautiful Icon Font](https://icons8.com/line-awesome)
 [❍ IcoMoon - Icon Fonts Done Right](http://icomoon.io/)
-[Iconfont-阿里巴巴矢量图标库](http://www.iconfont.cn/)
+[Iconfont-阿里巴巴矢量图标库](http://www.*iconfont*.cn/)
 [Open Iconic, a free and open icon set](https://useiconic.com/open/)
 [Octicons](https://primer.style/octicons/)
 [Tabler Icons: over 2150 vector icons for web design](https://tabler-icons.io/) SVG, framework support as separate packages

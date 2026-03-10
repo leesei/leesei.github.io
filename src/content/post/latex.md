@@ -2,7 +2,7 @@
 title: Latex
 description: ""
 created: 2015-05-20
-updated: 2025-10-10
+updated: 2026-01-15
 tags:
   - asciimath
   - comp/lang
@@ -36,6 +36,8 @@ LaTeX was a macro bundle on top of Tex
 `$$...$$` display math block
 
 [MiKTeX](https://miktex.org/) modern TeX distribution for Windows, Linux and macOS, includes [TeXworks](https://www.tug.org/texworks/)
+
+[TeX4ht - TeX Users Group](https://tug.org/tex4ht/)
 
 ## TikZ
 

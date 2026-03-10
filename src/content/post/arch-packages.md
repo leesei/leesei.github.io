@@ -2,7 +2,7 @@
 title: Arch Post Install
 description: ""
 created: 2021-01-08
-updated: 2025-10-10
+updated: 2026-01-17
 tags:
   - arch-linux
   - desktop
@@ -256,7 +256,7 @@ If performance is not an issue it is [recommended](https://wiki.archlinux.org/ti
 [AMDGPU PRO - ArchWiki](https://wiki.archlinux.org/title/AMDGPU_PRO)
 
 ```sh
-
+linux-firmware-amdgpu
 mesa xf86-video-amdgpu
 vulkan-radeon # MESA Vulkan, better performance
 amdvlk  # AMD Vulkan
@@ -286,6 +286,7 @@ lspci -k
 
 ```sh
 # drivers
+linux-firmware-nvidia
 nvidia nvidia-lts nvidia-utils nvidia-libgl lib32-nvidia-utils lib32-nvidia-libgl
 ```
 
@@ -306,7 +307,7 @@ yay -R nvidia nvidia-lts
 # need alternate vulkan driver before uninstalling
 yay -R nvidia-utils nvidia-libgl lib32-nvidia-utils lib32-nvidia-libgl
 # [How to Fix - Failed to Start Light Display Manager Error [Solved]](https://www.debugpoint.com/failed-to-start-lightdm/)
-# !important, regenerate X conf and replace `/etc/X11/xorg.conf`
+# ❗!important, regenerate X conf and replace `/etc/X11/xorg.conf`
 sudo X --configure
 ```
 

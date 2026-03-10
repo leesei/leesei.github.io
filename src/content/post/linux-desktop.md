@@ -2,7 +2,7 @@
 title: Linux Desktop
 description: ""
 created: 2014-12-12
-updated: 2025-10-10
+updated: 2025-12-19
 tags:
   - desktop
   - gjs
@@ -385,32 +385,6 @@ SurfaceFlinger
 [Chrome OS Switches To "Freon" Graphics Stack To Replace X11 - Phoronix](http://www.phoronix.com/scan.php?page=news_item&px=chrome-os-freon-graphics)
 talks to KMS and GLES directly without X
 
-### Wayland
-
-[Wayland - ArchWiki](https://wiki.archlinux.org/title/wayland)
-[Wayland (protocol) - Wikiwand](<https://www.wikiwand.com/en/Wayland_(protocol)>)
-[Wayland](https://wayland.freedesktop.org/)
-[Wayland misconceptions debunked | Drew DeVault’s Blog](https://drewdevault.com/2019/02/10/Wayland-misconceptions-debunked.html)
-[Waypipe Is Successfully Working For This Network-Transparent Wayland Apps/Games Proxy - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Waypipe-Successful-GSoC-2019)
-[The real story behind Wayland and X - YouTube](https://www.youtube.com/watch?v=GWQh_DmDLKQ)
-[Wayland in 2021](https://shibumi.dev/posts/wayland-in-2021/)
-
-[philipl/evdevremapkeys: Daemon to remap events on linux input devices](https://github.com/philipl/evdevremapkeys/tree/master)
-
-[Wayfire](https://wayfire.org/) compositor based on wlroots
-[Writing Wayfire plugins (Part 1)](https://wayfire.org/2020/04/10/Writing-Plugins.html)
-[Writing Wayfire plugins (Part 2)](https://wayfire.org/2020/10/28/Writing-Plugins.html)
-
-[Sway](https://swaywm.org/) a tiling Wayland compositor and a drop-in replacement for the i3 window manage
-[swaywm/wlroots: A modular Wayland compositor library](https://github.com/swaywm/wlroots)
-[swaywm/wlr-protoco`ls`: Wayland protocols designed for use in wlroots (and other compositors)](https://github.com/swaywm/wlr-protocols)
-
-[Hyprland](https://hyprland.org/)
-[hyprwm/Hyprland: Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.](https://github.com/hyprwm/Hyprland)
-[Lets Learn HyprLand together! - YouTube](https://www.youtube.com/watch?v=dwJsT5pPmXw)
-
-[philj56/tofi: Tiny dynamic menu for Wayland](https://github.com/philj56/tofi) ~=rofi
-
 ### Hibernation
 
 [Power management/Suspend and hibernate - ArchWiki](https://wiki.archlinux.org/title/Power_management/Suspend_and_hibernate)
@@ -505,6 +479,7 @@ X11 has not one, not two, but _three_ clipboards. They are called:
 
 [10 Best Clipboard Managers for Linux](https://www.tecmint.com/best-clipboard-managers-for-linux/)
 
+[cdown/clipmenu: Clipboard management using dmenu](https://github.com/cdown/clipmenu)
 [CopyQ](https://hluk.github.io/CopyQ/)
 [CristianHenzel/ClipIt: ClipIt clipboard manager for GTK+](https://github.com/CristianHenzel/ClipIt) tried
 [scottwernervt/clipmanager: GUI clipboard manager](https://github.com/scottwernervt/clipmanager) depends on Qt4
@@ -763,6 +738,15 @@ fc-match "Noto Sans CJK TC"
 fc-cache  # update cache for FontConfig
 ```
 
+## evdev
+
+> kernel input event manager, works without X11
+
+[EVDEV(4) manual page](https://www.x.org/releases/X11R7.5/doc/man/man4/evdev.4.html)
+
+[rvaiya/keyd: A key remapping daemon for linux.](https://github.com/rvaiya/keyd)
+[philipl/evdevremapkeys: Daemon to remap events on linux input devices](https://github.com/philipl/evdevremapkeys/tree/master)
+
 ## xinput
 
 ```sh
@@ -783,7 +767,6 @@ Use `xev` to open an window that dumps all input event to console.
 
 [X keyboard extension - ArchWiki](https://wiki.archlinux.org/title/X_keyboard_extension)
 [Mouse buttons - ArchWiki](https://wiki.archlinux.org/title/Mouse_buttons)
-[EVDEV(4) manual page](https://www.x.org/releases/X11R7.5/doc/man/man4/evdev.4.html)
 
 [antofthy.gitlab.io/info/X/event_handling.txt](https://antofthy.gitlab.io/info/X/event_handling.txt)
 
@@ -822,7 +805,7 @@ fn+F10 172 (0xac) Key name KEY_HOMEPAGE
 
 ### xdo
 
-> emit X input events, wimdow management
+> emit X input events, window management
 
 [baskerville/xdo: Small X utility to perform elementary actions on windows](https://github.com/baskerville/xdo)
 [Xdo: Window Manipulation With A Generic Tool - YouTube](https://www.youtube.com/watch?v=GkGVmuiOUXg)
@@ -832,11 +815,14 @@ fn+F10 172 (0xac) Key name KEY_HOMEPAGE
 #keymap
 
 > X input events to commands, supports chord
+> requires X11, may conflict with DE's keyboard shortcut
+> search by accelerato/binding in DE's keyboard setting to free up binding
+> it may be captured by a DE Extension (and not reflected in gsettings)
 
 [baskerville/sxhkd: Simple X hotkey daemon](https://github.com/baskerville/sxhkd)
 [sxhkd - ArchWiki](https://wiki.archlinux.org/title/Sxhkd)
 
-[Problem creating shortcuts with super-key (win-key/mod4) · Issue #549 · linuxmint/cinnamon · GitHub](https://github.com/linuxmint/cinnamon/issues/549#issuecomment-388763522) DE may capture windows key, change it in Keyboard setting ("Hyper is mapped to Win-keys")
+[Problem creating shortcuts with super-key (win-key/mod4) · Issue #549 · linuxmint/cinnamon · GitHub](https://github.com/linuxmint/cinnamon/issues/549#issuecomment-388763522) DE may capture windows key, change it in Keyboard setting ("Hyper is mapped to Win")
 
 The keysym names are given by the output of `xev -event keyboard`.
 
@@ -850,6 +836,8 @@ The keysym names are given by the output of `xev -event keyboard`.
 add `sxhkd.desktop` to `~/.local/share/applications/` and add to UI shell's Start Up Applications
 
 [dots/config/sxhkd/sxhkdrc at master · arkhan/dots](https://github.com/arkhan/dots/blob/master/config/sxhkd/sxhkdrc)
+[Ubuntu 20.04 BSPWM + SXHD configuration · GitHub](https://gist.github.com/amacgregor/9d0b556103db9f5c5a2f1def6ba874ac)
+[dotfiles/bspwm/.config/sxhkd/sxhkdrc at master · nick-ulle/dotfiles · GitHub](https://github.com/nick-ulle/dotfiles/blob/master/bspwm/.config/sxhkd/sxhkdrc)
 
 ### xbindkeys
 
@@ -1039,6 +1027,30 @@ Application Options:
 [jfhbrook/goodify: my personal fork of batify](https://github.com/jfhbrook/goodify)
 
 ## Wayland
+
+[Wayland - ArchWiki](https://wiki.archlinux.org/title/wayland)
+[Wayland (protocol) - Wikiwand](<https://www.wikiwand.com/en/Wayland_(protocol)>)
+[Wayland](https://wayland.freedesktop.org/)
+[Wayland misconceptions debunked | Drew DeVault’s Blog](https://drewdevault.com/2019/02/10/Wayland-misconceptions-debunked.html)
+[Waypipe Is Successfully Working For This Network-Transparent Wayland Apps/Games Proxy - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Waypipe-Successful-GSoC-2019)
+[The real story behind Wayland and X - YouTube](https://www.youtube.com/watch?v=GWQh_DmDLKQ)
+[Wayland in 2021](https://shibumi.dev/posts/wayland-in-2021/)
+
+[Wayfire](https://wayfire.org/) compositor based on wlroots
+[Writing Wayfire plugins (Part 1)](https://wayfire.org/2020/04/10/Writing-Plugins.html)
+[Writing Wayfire plugins (Part 2)](https://wayfire.org/2020/10/28/Writing-Plugins.html)
+
+[Screen Sharing is Not Working - NOT Wayland · Issue #1331 · IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux/issues/1331) `ELECTRON_OZONE_PLATFORM_HINT=auto` for Electron apps
+
+[philj56/tofi: Tiny dynamic menu for Wayland](https://github.com/philj56/tofi) ~= rofi
+
+[waycrate/swhkd: Sxhkd clone for Wayland (works on TTY and X11 too)](https://github.com/waycrate/swhkd) ~= Sxhkd
+
+## fingerprint
+
+[fprint](https://www.freedesktop.org/wiki/Software/fprint/)
+
+[Using a fingerprint reader with Cinnamon, possibly other DEs - Cinnamon - EndeavourOS](https://web.archive.org/web/20250821135810/https://forum.endeavouros.com/t/using-a-fingerprint-reader-with-cinnamon-possibly-other-des/74109/)
 
 ## PolicyKit
 

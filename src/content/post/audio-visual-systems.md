@@ -2,7 +2,7 @@
 title: Audio-visual Systems
 description: ""
 created: 2018-07-04
-updated: 2025-11-12
+updated: 2026-03-03
 tags:
   - audio-clip
   - clipart
@@ -115,6 +115,10 @@ R: Rhythm
 
 - Blackmagic's tuning kit
 - Camera tracking + UE5 rendered background (Mandalorian set)
+
+### Day for Night
+
+[省下几个亿！电影人们是如何在白天拍出夜晚效果的？ - YouTube](https://www.youtube.com/watch?v=XzpzWnhpoWI)
 
 ### Sound Effects
 
@@ -353,7 +357,7 @@ document.querySelectorAll("meta[property='og:url']");
 [不要再用 pyTranscriber 上字幕了，這有更香又免費的AI上字幕方案，不用嗎┃對不起“付費”字幕廠商，我們的上字幕解決方法太香，可能嚴重影響業績 - YouTube](https://www.youtube.com/watch?v=c5CfREUJEUk) 剪映
 [UP 主们都怎么做字幕？调研 100 位 UP，他们的秘密是... - YouTube](https://www.youtube.com/watch?v=08PFXFA8Rs8)
 
-[TurboScribe: Transcribe Audio and Video to Text or Subtitles in Seconds](https://turboscribe.ai/)
+[TurboScribe: Transcribe Audio and Video to Text or Subtitles in Seconds](https://turboscribe.ai/) Free tier: 30-min per day
 [Amara – Award-winning Subtitle Editor and Enterprise Offerings](https://amara.org/en/)
 [Subanana | 最多香港用戶選用的 AI 字幕生成器](https://subanana.com/)
 
@@ -522,6 +526,8 @@ document.querySelectorAll("meta[property='og:url']");
 
 How videos are encoded, recorded and broadcasted
 
+[Composite video decoding: Theory and practice | Code and Life](https://codeandlife.com/2012/10/09/composite-video-decoding-theory-and-practice/)
+
 [Television - YouTube](https://www.youtube.com/playlist?list=PLv0jwu7G_DFUGEfwEl0uWduXGcRbT7Ran)
 [Closed Captioning: More Ingenious than You Know - YouTube](https://www.youtube.com/watch?v=6SL6zs2bDks)
 
@@ -530,6 +536,9 @@ How videos are encoded, recorded and broadcasted
 Since Chroma signal is put towards the higher frequency end of the spectrum, and it over laps withe the audio signal (in NTSC), it is create a low frequency beat which will be noise to the Luma
 
 [影视飓风将停止制作25帧视频 - YouTube](https://www.youtube.com/watch?v=2JwPbNivR2k) modern panel is optimzed for 60Hz
+
+[Display Testing Explained: How We Test PC Monitors | Tom's Hardware](https://www.tomshardware.com/reference/how-we-test-pc-monitors-benchmarking)
+[Colour Without Colour: Apple II Computer Graphics - Paleotronic Magazine](https://paleotronic.com/2018/10/03/apple-ii-colour-computer-graphics/)
 
 ## Videotape
 
@@ -553,7 +562,11 @@ Betacam is based on Betamax but records component video (separating Luminance an
 [Film: the reason some of the past was in HD - YouTube](https://www.youtube.com/watch?v=rVpABCxiDaU)
 [How Was Video Invented? - YouTube](https://www.youtube.com/watch?v=rjDX5ItsOnQ)
 
+[The Biggest Mistake in the History of Hollywood - YouTube](https://www.youtube.com/watch?v=yN0H_WfWOp4) most digitized master (Digital Intermediates) is only 2K
+
 [啊？胶片还能刻声音？！你绝对想不到的录制技巧！【柴知道】 - YouTube](https://www.youtube.com/watch?v=H5-v27Hq35U)
+[黑边=电影感？被观众们忽略的电影画幅，是如何讲故事的？ - YouTube](https://www.youtube.com/watch?v=ChQMmURL6z4)
+[为什么加黑边=电影感？关于电影幕幅的最全科普！The most comprehensive science about the screen of the movie! - YouTube](https://www.youtube.com/watch?v=a6kwJhmA9KI)
 
 [Why Some Films Can Never Be Remastered - Video Tech Explained - YouTube](https://www.youtube.com/watch?v=x4XEomJZV6I)
 The quality of video in the transition from 35mm film to 4K master is inferior than both ends
@@ -573,8 +586,6 @@ The quality of video in the transition from 35mm film to 4K master is inferior t
 
 [失傳 100 多年得了諾貝爾獎的彩色照相術，現在被找回來了 | T 客邦](https://www.techbang.com/posts/87655-hotography-nobel-color)
 [流行100年，胶片还会陪我们多久？ - YouTube](https://www.youtube.com/watch?v=__u7ztVak8g)
-
-[为什么加黑边=电影感？关于电影幕幅的最全科普！The most comprehensive science about the screen of the movie! - YouTube](https://www.youtube.com/watch?v=a6kwJhmA9KI)
 
 ## Hifi
 

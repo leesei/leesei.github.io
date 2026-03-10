@@ -2,7 +2,7 @@
 title: Bluetooth
 description: ""
 created: 2019-01-29
-updated: 2025-01-09
+updated: 2025-12-21
 tags:
   - bluetooth
   - comp/hardware
@@ -46,6 +46,7 @@ tags:
 [你不了解的「蓝牙」说到蓝牙你觉得你都懂 实际上呢？ 「硬核无线技术」系列视频 蓝牙篇（上） - YouTube](https://www.youtube.com/watch?v=Hn0Nt9qW0IU)
 [蓝牙耳机音质差？延迟高？蓝牙鼠标键盘游戏手柄都有哪些优缺点？蓝牙产品开发者给你讲蓝牙「硬核无线技术」系列视频 蓝牙篇（下） - YouTube](https://www.youtube.com/watch?v=nw_dqxh4ikY)
 
+[aptX vs. LDAC: What's the Difference?](https://www.makeuseof.com/aptx-vs-ldac-whats-the-difference/)
 [What’s the Difference Between Bluetooth A2DP and aptX?](https://www.howtogeek.com/338750/whats-the-difference-between-bluetooth-a2dp-and-aptx/)
 [有关你的蓝牙耳机 蓝牙音箱：史上最重要的蓝牙音频升级 - LE Audio 详解 - YouTube](https://www.youtube.com/watch?v=o4NepbMX944)
 
@@ -56,7 +57,7 @@ tags:
 | aptX          | 384-576         | Quadcomm chipset, good                            |
 | aptX Adaptive | ~1000           | Quadcomm chipset, lossless                        |
 | LHDC          | 560-900         | Savitech, good; used by Oppo, Xiaomi              |
-| LDAC          | -990            | Sony, using EDR (not A2DP), expensive license fee |
+| LDAC          | 330,660,990     | Sony, using EDR (not A2DP), expensive license fee |
 | LC3           | 560-900         | Bluetooth 5.2 LE Audio                            |
 
 [買耳機必看!!藍牙耳機三大缺陷，揭露廠商不告訴你的真相!!【4K】 - YouTube](https://www.youtube.com/watch?v=7sVSB0XoGns)

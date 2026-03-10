@@ -2,7 +2,7 @@
 title: Electron
 description: ""
 created: 2015-07-19
-updated: 2025-10-22
+updated: 2025-12-29
 tags:
   - atom-shell
   - comp/lang
@@ -15,6 +15,7 @@ previously [Atom Shell](https://www.electronjs.org/blog/electron), is a platform
 [GitHub's Electron with Zeke Sikelianos (Changelog Interviews #216)](https://changelog.com/podcast/216)
 [Is Electron really that bad? - YouTube](https://www.youtube.com/watch?v=WdmfFmwsGDo)
 [Build a Desktop App with Electron... But Should You? - YouTube](https://www.youtube.com/watch?v=3yqDxhR2XxE)
+[I Read 500,000 Lines of VS Code Source (Here's What I Found) - YouTube](https://www.youtube.com/watch?v=3csYWQvXjK8)
 
 [Getting Started w/ Electron - YouTube](https://www.youtube.com/playlist?list=PL_2VhOvlMk4XWvfNRz0oS0dbbTewX6iYG) 2021-12
 [Electron Mini Tutorials - YouTube](https://www.youtube.com/playlist?list=PL_2VhOvlMk4XLzvGgqbmjF9PkVgUGMDcJ)

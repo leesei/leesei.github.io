@@ -2,7 +2,7 @@
 title: Next.js
 description: ""
 created: 2021-01-19
-updated: 2025-10-29
+updated: 2025-11-14
 tags:
   - reactjs
   - static-site

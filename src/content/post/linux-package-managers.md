@@ -2,7 +2,7 @@
 title: Linux Package Managers
 description: ""
 created: 2017-05-10
-updated: 2025-10-10
+updated: 2026-01-13
 tags:
   - desktop
   - linux
@@ -16,7 +16,7 @@ Cross platform Linux package manager
 
 [asdf - An extendable version manager](https://asdf-vm.com/#/)
 
-[What to Expect (and Not Expect) from Linux Universal Packages - The New Stack](https://thenewstack.io/expect-not-expect-linux-universal-packages/) !important
+[What to Expect (and Not Expect) from Linux Universal Packages - The New Stack](https://thenewstack.io/expect-not-expect-linux-universal-packages/) ❗!important
 [Modern Package Formats » ADMIN Magazine](http://www.admin-magazine.com/Archive/2018/45/Flatpak-Snap-and-AppImage)
 [Linux Package Managers Compared - AppImage vs Snap vs Flatpak](https://www.ostechnix.com/linux-package-managers-compared-appimage-vs-snap-vs-flatpak/)
 [Flatpaks, Snaps, & AppImages: "Do we really need these Universal App Formats?" - YouTube](https://www.youtube.com/watch?v=so_f6OtRWRo)
@@ -134,7 +134,11 @@ flatpak update
 
 [AppImage | Linux apps that run anywhere](http://appimage.org/)
 App as executable image without the need to install.
-[index.html – AppImages](https://appimage.github.io/)
+
+[Listing – AppImages](https://appimage.github.io/)
+[APPLICATIONS | PORTABLE LINUX APPS](https://portable-linux-apps.github.io/apps)
+
+[ivan-hc/AM: AppImage Package Manager: AppImage sandboxing, local and system installation, update all AppImages, an extensible database of AppImages and portable apps, lists for AppImages and other GNU/Linux binaries, integrate AppImages by drag/drop or install unlisted AppImages, conversion of old AppImage types... and more! Manage AppImages like never before!](https://github.com/ivan-hc/AM)
 
 [AppImages · AppImage/AppImageKit Wiki](https://github.com/AppImage/AppImageKit/wiki/AppImages) catalog and their source
 [Dashboard [Jenkins]](http://aci.pangea.pub/) catalog, [source](https://github.com/appimage-packages)

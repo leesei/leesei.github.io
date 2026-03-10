@@ -2,17 +2,19 @@
 title: Elastic Stack
 description: ""
 created: 2015-08-03
-updated: 2025-10-10
+updated: 2025-11-18
 tags:
   - comp/database
   - elastic-stack
   - visualization
 ---
 
-> Elastic adopted SSPL since 7.11 (2021-02)
+> Elastic adopted SSPL since 7.11 (2021-02), changed back to AGPL in 2024
 
-[Visualizing data with Elasticsearch, Logstash and Kibana](http://blog.webkid.io/visualize-datasets-with-elk/)
+[Logstash: Collect, Parse, Transform Logs | Elastic](https://www.elastic.co/logstash)
+
 [Elastic Stack and Product Documentation | Elastic](https://www.elastic.co/guide/index.html)
+[Visualizing data with Elasticsearch, Logstash and Kibana](http://blog.webkid.io/visualize-datasets-with-elk/)
 [Glossary of terms | Elasticsearch Reference | Elastic](https://www.elastic.co/guide/en/elasticsearch/reference/current/glossary.html)
 
 [Pricing | Logz.io](https://logz.io/pricing/)

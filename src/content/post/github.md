@@ -2,7 +2,7 @@
 title: GitHub
 description: ""
 created: 2014-12-11
-updated: 2025-10-19
+updated: 2026-02-02
 tags:
   - app
   - git
@@ -251,6 +251,14 @@ Put YAML in `.github/workflows/`
 [4 tips for GitHub Actions usability (+2 debugging) | Fleet Device Management](https://blog.fleetdm.com/4-tips-for-github-actions-usability-2-debugging-4c0c920adfd)
 
 [GitHub Actions is the next big thing with Kyle Daigle, Director of Ecosystem Engineering at GitHub (Changelog Interviews #331)](https://changelog.com/podcast/331)
+
+### Alternatives
+
+> GitHub Actions is too slow
+
+[The Fastest Way to Run GitHub Actions | Blacksmith](https://www.blacksmith.sh/) 3000 free minutes per month
+
+[Cut your GitHub Actions bill by 90% - RunsOn](https://runs-on.com/) self-hosted runner
 
 ## Dependabot
 

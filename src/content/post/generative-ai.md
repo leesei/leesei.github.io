@@ -2,7 +2,7 @@
 title: Generative AI
 description: ""
 created: 2023-05-08
-updated: 2025-11-04
+updated: 2026-03-05
 tags:
   - ai
   - aigc
@@ -28,6 +28,7 @@ Generator and Discriminator
 
 [5 YouTube Channels to Master LLMs - KDnuggets](https://www.kdnuggets.com/5-youtube-channels-to-master-llms)
 [Andrej Karpathy - YouTube](https://www.youtube.com/@AndrejKarpathy)
+[CG迷 - YouTube](https://www.youtube.com/@cgmi2023) text and image generation
 [CodeEmporium - YouTube](https://www.youtube.com/@CodeEmporium)
 [Cole Medin - YouTube](https://www.youtube.com/@ColeMedin)
 [Dave Ebbelaar - YouTube](https://www.youtube.com/@daveebbelaar)
@@ -35,8 +36,8 @@ Generator and Discriminator
 [Hung-yi Lee - YouTube](https://www.youtube.com/@HungyiLeeNTU/)
 [Krish Naik - YouTube](https://www.youtube.com/@krishnaik06)
 [Matthew Berman - YouTube](https://www.youtube.com/@matthew_berman)
-[Yannic Kilcher - YouTube](https://www.youtube.com/@YannicKilcher) research paper breakdown
 [Prompt Engineering - YouTube](https://www.youtube.com/@engineerprompt)
+[Yannic Kilcher - YouTube](https://www.youtube.com/@YannicKilcher) research paper breakdown
 
 [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/)
 
@@ -70,13 +71,15 @@ Generator and Discriminator
 [Reproducing Japanese Anime Styles With CartoonGAN AI](https://medium.com/syncedreview/reproducing-japanese-anime-styles-with-cartoongan-ai-cf30d583736e)
 [A Gentle Introduction to StyleGAN the Style Generative Adversarial Network](https://machinelearningmastery.com/introduction-to-style-generative-adversarial-network-stylegan/)
 
+["Generative AI" is not what you think it is - YouTube](https://www.youtube.com/watch?v=ERiXDhLHxmo)
 [Computer evolves to generate baroque music! - YouTube](https://www.youtube.com/watch?v=SacogDL_4JU)
 [No Regrets - What Happens to AI Beyond Generative? - Computerphile - YouTube](https://www.youtube.com/watch?v=fN3gdUMB_Yc)
 [因为AI焦虑了，我该怎么办？ - YouTube](https://www.youtube.com/watch?v=aVebifutUy0)
 
 [5 Fun Generative AI Projects for Absolute Beginners - KDnuggets](https://www.kdnuggets.com/5-fun-generative-ai-projects-for-absolute-beginners)
+[AI工具阁 | 收录国内外AI工具网站 - AI工具阁](https://ai-to.cn/)
 
-[太极AI【终身会员兑换码】使用教程](https://www.yuque.com/disfigured/hwu8v6/txfkgp2n3seb0q5t) I bought "lifetime" license at ¥199, it has image editing and generation
+[太极AI【终身会员兑换码】使用教程](https://www.yuque.com/disfigured/hwu8v6/txfkgp2n3seb0q5t) I bought "lifetime" license at ¥199, it has image editing and generation, the domain do change quite frequently though, https://www.taijiai666.com shall redirect to the latest website
 
 ## Google Courses
 
@@ -108,6 +111,8 @@ Generator and Discriminator
 [AI Watermarking 101: Tools and Techniques](https://huggingface.co/blog/watermarking)
 [How Anyone Can Detect an AI Voice and Avoid Being Fooled](https://www.makeuseof.com/ai-voice-signs/) AI Voice
 
+[How to Spot Fake AI Photos | Hany Farid | TED - YouTube](https://www.youtube.com/watch?v=q5_PrTvNypY)
+
 [Try This "AI or Human?" Test to Challenge Your AI Detection Skills](https://www.makeuseof.com/try-ai-or-human-test-to-challenge-your-ai-detection-skills/)
 [Here's How I Check Whether I'm Chatting With a Real Person or AI](https://www.makeuseof.com/chatting-with-real-person-vs-ai/)
 [AI Checkers Are Useless, and These 5 Examples Prove Why](https://www.makeuseof.com/ai-checkers-are-useless-examples-prove-why/)
@@ -118,6 +123,9 @@ Generator and Discriminator
 [11 Dead Giveaways the Image You’re Seeing Was AI-Generated](https://www.makeuseof.com/ai-image-giveaways/)
 [6 Dead Giveaways the Video You’re Watching Is AI-Generated](https://www.makeuseof.com/dead-giveaways-video-is-ai-generated/)
 [You're Probably Listening to AI Music Without Realizing—Here's How to Spot It](https://www.makeuseof.com/how-spot-avoid-ai-music-streaming/)
+[5 of these 10 photos are AI-generated — can you spot them?](https://www.makeuseof.com/can-you-spot-the-ai-generated-images/)
+
+[假老孫VS真老孫！他們用我聲音，我卻無能為力？ - YouTube](https://www.youtube.com/watch?v=8GVKwLCMsgI)
 
 ## AI Lies
 
@@ -183,6 +191,9 @@ hallucinate
 [27 AI Art Prompt Ideas You Should Try](https://www.makeuseof.com/ai-art-prompt-ideas/)
 [I Used AI to Colorize Old Photos—Here’s How It Turned Out](https://www.makeuseof.com/colorizing-photos-with-ai/)
 [Bored With Studio Ghibli? Try GPT-4o With These 7 AI Art Prompts Instead](https://www.makeuseof.com/chatgpt-ghibli-alternative-ai-prompts/)
+
+[Nano Banana can be prompt engineered for extremely nuanced AI image generation | Max Woolf's Blog](https://minimaxir.com/2025/11/nano-banana-prompts/)
+[Nano Banana Pro深度评测，PS这次真可丢了，超强AI绘画神器 - YouTube](https://www.youtube.com/watch?v=cGU_xn5b30M)
 
 [2023 年視覺生成式 AI 年終大回顧！！ - YouTube](https://www.youtube.com/watch?v=9AahFT8Y3lw)
 [【生成式AI】淺談圖像生成模型 Diffusion Model 原理 - YouTube](https://www.youtube.com/watch?v=azBugJzmz-o)
@@ -408,6 +419,16 @@ Better than DALL-E, also open source
 [25.3k star！让视频创作化繁为简 | 开源免费、一键生成、专业品质，人人都是视频创作达人](https://mp.weixin.qq.com/s?__biz=MzA5NzQ4ODk0Mw==&mid=2652794578&idx=1&sn=eabaa1d70b4748bab5ee6cce6d8e3ad3&poc_token=HKl60WijgQHP7RAYr0qCccWoSaIAngnAFESwHVcx) Open-Sora
 [hpcaitech/Open-Sora: Open-Sora: Democratizing Efficient Video Production for All](https://github.com/hpcaitech/Open-Sora)
 
+[Seedance 2: ByteDance Advanced AI Video Model | Seedance AI](https://seedance.io/seedance-2)
+
+- Nano Banana moment for video generation
+- generates image, audio and video
+- artistic storyboard
+
+[改变视频行业的AI，快来了(但有点恐怖) - YouTube](https://www.youtube.com/watch?v=v-3ob9csK3M)
+[Seedance 2 0深度评测｜AI视频生产力革命 - YouTube](https://www.youtube.com/watch?v=uCQurb4yedQ)
+[Seedance 2.0 到底强在哪？ - YouTube](https://www.youtube.com/watch?v=JTQ6NH2twMg)
+
 [The action figure trend is the latest way people are misusing the power of AI – and I wish I could stop doing it | TechRadar](https://www.techradar.com/computing/artificial-intelligence/the-action-figure-trend-is-the-latest-way-people-are-misusing-the-power-of-ai-and-i-wish-i-could-stop-doing-it)
 
 [【漫士科普】人工智能博士生告诉你SORA扩散模型究竟是怎样生成视频的？#ai #sora #openai #chatgpt - YouTube](https://www.youtube.com/watch?v=FMKa4075VZg)
@@ -492,8 +513,11 @@ Better than DALL-E, also open source
 
 [A Hackers' Guide to Language Models - YouTube](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 
+[mlabonne/llm-course: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.](https://github.com/mlabonne/llm-course) ❗!important
+[PipiHi0926/llm-course-zh: 大型語言模型(LLM)的讀書會內容code部分整理，此github提供簡單、免費、易實作code範例，並由淺入深帶你一步步了解如何基於python建置LLM流程、部屬功能等](https://github.com/PipiHi0926/llm-course-zh)
 [Large Language Models: A Self-Study Roadmap - KDnuggets](https://www.kdnuggets.com/large-language-models-a-self-study-roadmap)
 [Language Models Explained in 5 Minutes - KDnuggets](https://www.kdnuggets.com/language-models-explained-in-5-minutes)
+[The 5 FREE Must-Read Books for Every LLM Engineer - KDnuggets](https://www.kdnuggets.com/the-5-free-must-read-books-for-every-llm-engineer)  
 [The Roadmap for Mastering Language Models in 2025 - MachineLearningMastery.com](https://machinelearningmastery.com/the-roadmap-for-mastering-language-models-in-2025/)
 
 [The Hundred-Page Language Models Book by Andriy Burkov](https://www.thelmbook.com/) ❗!important
@@ -512,6 +536,9 @@ Andrej Karpathy
 [80分鐘快速了解大型語言模型 (5:30 有咒術迴戰雷) - YouTube](https://www.youtube.com/watch?v=wG8-IUtqu-s)
 [【漫士科普】GPT是如何工作的？为什么要学习接下一个词？#gpt #chatgpt #openai - YouTube](https://www.youtube.com/watch?v=j5N2j6Ydhao) foundation model, supervised fine-tuning, reinforcement learning with human feedback (RLHF)
 [LLM reinforcement learning: What is Essential in 2024 ? | by Wiem Souai | Medium](https://medium.com/@wiem.souai/llm-reinforcement-learning-what-is-essential-in-2024-6b0e2d394e2d)
+
+[The Complete Guide to Using Pydantic for Validating LLM Outputs](https://machinelearningmastery.com/the-complete-guide-to-using-pydantic-for-validating-llm-outputs/)
+[data-science-tutorials/pydantic-llm-output-validation at main · balapriyac/data-science-tutorials](https://github.com/balapriyac/data-science-tutorials/tree/main/pydantic-llm-output-validation)
 
 [不要再做One Hot Encoding！！. Categorical feature的正確開啟方式 | by 倢愷 Oscar | Medium](https://axk51013.medium.com/%E4%B8%8D%E8%A6%81%E5%86%8D%E5%81%9Aone-hot-encoding-b5126d3f8a63)
 [【LLM專欄1】如何改進LLM？ - 倢愷 Oscar - Medium](https://axk51013.medium.com/llm%E5%B0%88%E6%AC%841-%E5%A6%82%E4%BD%95%E6%94%B9%E9%80%B2llm-161e7a504658) analyzing why LLM performs badly
@@ -557,6 +584,17 @@ Computerphile
 [效果惊人的 GPT 2.0 模型：它告诉了我们什么 - 知乎](https://zhuanlan.zhihu.com/p/56865533)
 [An AI Wizard of Words | Linux Journal](https://www.linuxjournal.com/content/ai-wizard-words)
 [10 Common Misconceptions About Large Language Models - MachineLearningMastery.com](https://machinelearningmastery.com/10-common-misconceptions-about-large-language-models/)
+
+### Open Responses
+
+> open inference standard initiated by OpenAI
+
+[Open Responses](https://www.openresponses.org/)
+[openresponses/openresponses](https://github.com/openresponses/openresponses)
+
+[Open Responses: What you need to know](https://huggingface.co/blog/open-responses)
+
+[I can't believe nobody's done this before... - YouTube](https://www.youtube.com/watch?v=sFEDAkJy9Dc) Replaces HTTP API with WebSocket to reuse states on sever
 
 ### Models and comparison
 
@@ -605,7 +643,11 @@ AI21's Jurassic-1 is the largest network (178 billion parameters)
 [Run ALL Your AI Locally in Minutes (LLMs, RAG, and more) - YouTube](https://www.youtube.com/watch?v=V_0dNE-H2gw)
 [ai-agents-masterclass/local-ai-packaged at main · coleam00/ai-agents-masterclass](https://github.com/coleam00/ai-agents-masterclass/tree/main/local-ai-packaged) n8n
 
+[Your local LLM is 10x slower than it should be - YouTube](https://www.youtube.com/watch?v=L9QZ97y9Exg)
+
 [How to Install and Run LLMs Locally on Android Phones - KDnuggets](https://www.kdnuggets.com/install-run-llms-locally-android-phones)
+
+[Qwen3-Coder-Next 实测：本地更友好的模型规模 + 真实编码能力（论文亮点/部署） - YouTube](https://www.youtube.com/watch?v=IY1cHup5tLk)
 
 [Running Ollama on AMD iGPU - Robert's blog](https://blog.machinezoo.com/Running_Ollama_on_AMD_iGPU)
 [Integrated AMD GPU support · Issue #2637 · ollama/ollama](https://github.com/ollama/ollama/issues/2637)
@@ -618,6 +660,17 @@ AI21's Jurassic-1 is the largest network (178 billion parameters)
 [Run Deepseek R1 at Home on Hardware from $250 to $25,000: From Installation to Questions - YouTube](https://www.youtube.com/watch?v=e-EG3B5Uj78)
 
 [This Free App Lets Me Run AI Chatbots on My Smartphone Without the Internet](https://www.makeuseof.com/pocket-pal-offline-ai/) on mobile phones
+
+#### LM Studio
+
+[LM Studio - Local AI on your computer](https://lmstudio.ai/)
+[Model Catalog - LM Studio](https://lmstudio.ai/models)
+
+LM Studio is more efficient in terms of memory and CPU usage thanks to its support of Apple's [MLX framework](https://opensource.apple.com/projects/mlx/)
+[Ollama vs LM Studio on macOS | 🔓 Unl0ckd](https://www.chrislockard.net/posts/ollama-vs-lmstudio-macos/)
+
+Ollama added MLX support in 2026-01
+[Add experimental MLX backend and engine with imagegen support by dhiltgen · Pull Request #13648 · ollama/ollama](https://github.com/ollama/ollama/pull/13648)
 
 #### Ollama
 
@@ -723,6 +776,7 @@ DeepSeek Papers
 [I Tried DeepSeek, a New Chinese-Developed Super-Powerful AI Model](https://www.makeuseof.com/what-is-deepseek-ai-chatbot-worth-using/) V3
 [DeepSeek is a Game Changer for AI - Computerphile - YouTube](https://www.youtube.com/watch?v=gY4Z-9QlZ64)
 [A Slightly Technical Breakdown of DeepSeek-R1 - YouTube](https://www.youtube.com/watch?v=CiS9gDfYZ-w)
+[DeepSeek V3.2 Just Broke SoTA Again… But How? - YouTube](https://www.youtube.com/watch?v=pljoUcBniPQ)
 
 ### MiniMax
 
@@ -766,7 +820,6 @@ DeepSeek Papers
 [I Tested 4 Chrome Browser Extension AI Chatbots, and This Is the Best One](https://www.makeuseof.com/best-chrome-ai-chatbot-browser-extension/)
 
 [Sage - Poe](https://poe.com/) integrates multiple LLMs
-[Phind: AI search engine](https://www.phind.com/)
 [Free AI Writing, PDF, Image, and other Online Tools - TinyWow](https://tinywow.com/)
 [Meco: The #1 newsletter aggregator | Declutter your inbox](https://meco.app/)
 [Komo](https://komo.ai/)
@@ -847,6 +900,7 @@ Can use online or local LLM, different benchmarks
 
 [Learn Prompting: Your Guide to Communicating with AI](https://learnprompting.org/)
 [Most Useful ChatGPT Prompts｜ExplainThis](https://www.explainthis.io/en/chatgpt)
+[Prompt Packs | OpenAI Academy](https://academy.openai.com/public/tags/prompt-packs-6849a0f98c613939acef841c)
 
 [dair-ai/Prompt-Engineering-Guide: 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
 [The Only Prompting Framework for Every Use - KDnuggets](https://www.kdnuggets.com/the-only-prompting-framework-for-every-use)
@@ -862,6 +916,7 @@ Can use online or local LLM, different benchmarks
 [I Ran the Same Prompt on Three AI Chatbots, and This One Responded Best](https://www.makeuseof.com/what-best-ai-chatbot-gemini-chatgpt-claude/)
 [How I Stop AI Chatbots From Agreeing With Me All the Time](https://www.makeuseof.com/stop-ai-chatbot-agreement/)
 [These 6 Prompts Make ChatGPT My Perfect Microlearning Tutor for Any Topic](https://www.makeuseof.com/chatgpt-microlearning-prompts/)
+[How to Stop Getting Fluff from AI and Start Saving Hours with the GRWC Framework | by Julia Davidava | Medium](https://medium.com/@ydavidava/how-to-stop-getting-fluff-from-ai-and-start-saving-hours-with-the-grwc-framework-dac513ff563a) GRWC
 [5 Ways I Get Better Brainstorming Results From ChatGPT](https://www.makeuseof.com/better-brainstorming-with-chatgpt/)
 [For the Best ChatGPT Prompts, Always Ask It to Be an Expert](https://www.makeuseof.com/how-get-best-chatgpt-answers-expert-prompts/)
 [I Get Perfect Answers From ChatGPT Every Time With These Prompts](https://www.makeuseof.com/get-perfect-answers-from-chatgpt-with-these-prompts/)
@@ -872,6 +927,7 @@ F-L-O-W: Function, Level, Output, and Win Metric (Optimize Technical or Creative
 R-O-S-E: Role, Objective, Steps, and Expected Result
 P-I-V-O: Problem, Insight, Voice, and Outcome (Solve Problems With a System)
 P-L-A-N: Problem, Limit, Action, and Number (When You Need Short, Actionable Answers)
+G-R-W-C: Goal, Return format, Warnings (constraints), Context dump
 
 ![Promting Cheet Sheet](/_assets/generative-ai/prompting_cheet_sheet.jpeg)
 
@@ -1018,6 +1074,7 @@ AWQ: Activation-Aware Weight Quantization
 [machine learning - Computational Complexity of Self-Attention in the Transformer Model - Stack Overflow](https://stackoverflow.com/questions/65703260/computational-complexity-of-self-attention-in-the-transformer-model)
 
 [WTF is a Transformer? - KDnuggets](https://www.kdnuggets.com/wtf-is-a-transformer)
+[How Transformers Think: The Information Flow That Makes Language Models Work - KDnuggets](https://www.kdnuggets.com/how-transformers-think-the-information-flow-that-makes-language-models-work)
 [How do Transformers work?. A bit of Transformer history | by DhanushKumar | Medium](https://medium.com/@danushidk507/how-do-transformers-work-23efb5077755)
 [Illustrated Guide to Transformers- Step by Step Explanation | by Michael Phi | Towards Data Science](https://towardsdatascience.com/illustrated-guide-to-transformers-step-by-step-explanation-f74876522bc0)
 [How to Use Transformer-based NLP Models | Towards Data Science](https://towardsdatascience.com/how-to-use-transformer-based-nlp-models-a42adbc292e5)
@@ -1202,6 +1259,7 @@ Transformers (formerly known as `pytorch-transformers` and `pytorch-pretrained-b
 [Introducing Our Agent Leaderboard on Hugging Face - Galileo AI](https://www.galileo.ai/blog/agent-leaderboard)
 [Taxonomy of Failure Mode in Agentic AI Systems](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Taxonomy-of-Failure-Mode-in-Agentic-AI-Systems-Whitepaper.pdf)
 [Why LLMs Aren’t Enough: The Rise of Agentic AI](https://www.educative.io/courses/advanced-model-context-protocol/why-llms-arent-enough-the-rise-of-agentic-ai)
+[The Roadmap for Mastering Agentic AI in 2026 - MachineLearningMastery.com](https://machinelearningmastery.com/the-roadmap-for-mastering-agentic-ai-in-2026/)
 
 [5 No-Cost Learning Resources for LLM Agents - KDnuggets](https://www.kdnuggets.com/5-no-cost-learning-resources-for-llm-agents)
 [Agentic AI: A Self-Study Roadmap - KDnuggets](https://www.kdnuggets.com/agentic-ai-a-self-study-roadmap)
@@ -1240,6 +1298,25 @@ Use pipeline instead of agents
 [Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training \ Anthropic](https://www.anthropic.com/research/sleeper-agents-training-deceptive-llms-that-persist-through-safety-training)
 
 [我让六个AI合租，居然出了个海王？ - YouTube](https://www.youtube.com/watch?v=n_ItIpBB5zM)
+
+#### OpenClaw
+
+> The default setup is vulnerable to cyberattacks
+
+[OpenClaw — Personal AI Assistant](https://openclaw.ai/)
+[openclaw/openclaw: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞](https://github.com/openclaw/openclaw)
+[Scan OpenClaw agent skills for security vulnerabilities with the Cisco AI Skill Scanner – 4sysops](https://4sysops.com/archives/scan-openclaw-agent-skills-for-security-vulnerabilities-with-the-cisco-ai-skill-scanner/)
+
+[一个视频搞懂OpenClaw！ - YouTube](https://www.youtube.com/watch?v=jPn-yoz5tbI)
+
+[ClawHub](https://clawhub.ai/)
+[openclaw/skills: All versions of all skills that are on clawdhub.com archived](https://github.com/openclaw/skills)
+
+Do scan for malicious Claw Skills before usage
+[Clawdex - AI Skill Security Scanner](https://clawdex.koi.security/)
+[ClawHavoc: 341 Malicious Clawed Skills Found by the Bot They Were Targeting](https://www.koi.ai/blog/clawhavoc-341-malicious-clawedbot-skills-found-by-the-bot-they-were-targeting)
+
+[5 Lightweight and Secure OpenClaw Alternatives to Try Right Now - KDnuggets](https://www.kdnuggets.com/5-lightweight-and-secure-openclaw-alternatives-to-try-right-now)
 
 #### SnitchBench
 
@@ -1288,6 +1365,7 @@ Use pipeline instead of agents
 [Building A Simple MCP Server - KDnuggets](https://www.kdnuggets.com/building-a-simple-mcp-server)
 [How to Build an MCP Server with Gradio](https://huggingface.co/blog/gradio-mcp)
 
+[Use MCP servers in VS Code](https://code.visualstudio.com/docs/copilot/customization/mcp-servers)
 [Cline - AI Autonomous Coding Agent for VS Code](https://cline.bot/)
 [cline/cline: Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.](https://github.com/cline/cline)
 
@@ -1313,23 +1391,19 @@ Use pipeline instead of agents
 [Introducing Transformers Agents 2.0 | by Amanatullah | Medium](https://medium.com/@amanatulla1606/introducing-transformers-agents-2-0-14a5601ade0b)
 [🤗 Hugging Face Transformers Agent | LangChain comparisons - YouTube](https://www.youtube.com/watch?v=rn4eIxuxx2g)
 
+#### Agent Skills
+
+[Agent Skills](https://agentskills.io/home)
+[Use Agent Skills in VS Code](https://code.visualstudio.com/docs/copilot/customization/agent-skills)
+
+[The-Complete-Guide-to-Building-Skill-for-Claude.pdf](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)
+
 #### Universal Tool Calling Protocol (UTCP)
 
 [Introduction | Universal Tool Calling Protocol (UTCP)](https://www.utcp.io/)
 [Universal Tool Calling Protocol](https://github.com/universal-tool-calling-protocol)
 
 [Understanding the Universal Tool Calling Protocol (UTCP) - MarkTechPost](https://www.marktechpost.com/2025/09/21/understanding-the-universal-tool-calling-protocol-utcp/)
-
-#### Semantic Router
-
-[Semantic Router | Aurelio AI](https://www.aurelio.ai/semantic-router)
-[aurelio-labs/semantic-router: Superfast AI decision making and intelligent processing of multi-modal data.](https://github.com/aurelio-labs/semantic-router)
-
-#### OpenRouter
-
-[OpenRouter](https://openrouter.ai/)
-
-[OpenRouter: A Unified Interface for LLMs - KDnuggets](https://www.kdnuggets.com/openrouter-a-unified-interface-for-llms)
 
 #### Agentic RAG
 
@@ -1342,6 +1416,17 @@ Use pipeline instead of agents
 [infiniflow/ragflow: RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs](https://github.com/infiniflow/ragflow)
 
 [DeepSearcher深度解读：Agentic RAG的出现，传统RAG的黄昏](https://mp.weixin.qq.com/s?mid=2247508404&sn=341a2dddd094cb4710816a6e466ce72e&idx=1&__biz=MzUzMDI5OTA5NQ==&scene=169&subscene=200&sessionid=1745371311&flutter_pos=2&clicktime=1745372136&enterid=1745372136&poc_token=HLt70WijyEQaj9DCz1MMvorCUTviilQzNEMuJ8u6)
+
+#### Semantic Router
+
+[Semantic Router | Aurelio AI](https://www.aurelio.ai/semantic-router)
+[aurelio-labs/semantic-router: Superfast AI decision making and intelligent processing of multi-modal data.](https://github.com/aurelio-labs/semantic-router)
+
+#### OpenRouter
+
+[OpenRouter](https://openrouter.ai/)
+
+[OpenRouter: A Unified Interface for LLMs - KDnuggets](https://www.kdnuggets.com/openrouter-a-unified-interface-for-llms)
 
 #### AIOps
 

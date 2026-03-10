@@ -2,7 +2,7 @@
 title: Python settings
 description: ""
 created: 2014-12-11
-updated: 2025-10-10
+updated: 2026-01-19
 tags:
   - comp/lang
   - package-manager
@@ -271,7 +271,7 @@ source my_env/bin/activate
 [The ABCs of Pipenv and Python Package Management | Dennis O'Keeffe Blog](https://blog.dennisokeeffe.com/blog/2020-07-04-abcs-of-pipenv)
 [Managing Application Dependencies — Python Packaging User Guide](https://packaging.python.org/en/latest/tutorials/managing-dependencies/)
 
-[Why you should use pyenv + Pipenv for your Python projects](https://hackernoon.com/reaching-python-development-nirvana-bb5692adf30c) !important
+[Why you should use pyenv + Pipenv for your Python projects](https://hackernoon.com/reaching-python-development-nirvana-bb5692adf30c) ❗!important
 [The Python virtual environment with Pyenv & Pipenv - DEV Community 👩‍💻👨‍💻](https://dev.to/writingcode/the-python-virtual-environment-with-pyenv-pipenv-3mlo)
 [Python Environment 101. How are pyenv and pipenv different and… | by Shinichi Okada | Towards Data Science](https://towardsdatascience.com/python-environment-101-1d68bda3094d)
 [Pyenv support broken since version 2018.10.09 ? · Issue #3136 · pypa/pipenv](https://github.com/pypa/pipenv/issues/3136)
@@ -379,7 +379,7 @@ pyenv local VENV|VERSION
 
 [Virtualenv](https://virtualenv.pypa.io/en/stable/) create python environment in local folder
 [virtualenvwrapper documentation](https://virtualenvwrapper.readthedocs.io/en/latest/) create python environment in a centralized folder
-[Virtualenv vs Virtualenvwrapper · Saurabh Kumar](https://saurabh-kumar.com/blog/virtualenv-vs-virtualenvwrapper.html) !important
+[Virtualenv vs Virtualenvwrapper · Saurabh Kumar](https://saurabh-kumar.com/blog/virtualenv-vs-virtualenvwrapper.html) ❗!important
 
 [Code4ReferenceTutorial Python virtual environment .](http://code4reference.com/2014/05/python-virtual-environment/)
 [Bob's Blog - Crafting Software: Getting Started with virtualenv and virtualenvwrapper in Python](http://www.silverwareconsulting.com/index.cfm/2012/7/24/Getting-Started-with-virtualenv-and-virtualenvwrapper-in-Python)
@@ -1047,6 +1047,7 @@ anthonywritescode
 [Python Logging: In-Depth Tutorial | Toptal](https://www.toptal.com/python/in-depth-python-logging)
 [Logging in Python ~ The Python Corner](https://www.thepythoncorner.com/2018/05/logging-in-python.html)
 [Logging — The Hitchhiker's Guide to Python](https://docs.python-guide.org/writing/logging/)
+[The Complete Guide to Logging for Python Developers - KDnuggets](https://www.kdnuggets.com/the-complete-guide-to-logging-for-python-developers)
 
 [Logging in Python – Real Python](https://realpython.com/python-logging/)
 [Python Logging: A Stroll Through the Source Code – Real Python](https://realpython.com/python-logging-source-code/)
@@ -1156,7 +1157,7 @@ The resulting search path is accessible in the Python variable `sys.path` which 
 [Python Packaging User Guide — Python Packaging User Guide](https://packaging.python.org/)
 [Packaging Python Projects — Python Packaging User Guide](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
 [Tool recommendations — Python Packaging User Guide](https://packaging.python.org/en/latest/guides/tool-recommendations/)
-[Publishing your own Python package - Towards Data Science](https://towardsdatascience.com/publishing-your-own-python-package-3762f0d268ec) 2019, !important
+[Publishing your own Python package - Towards Data Science](https://towardsdatascience.com/publishing-your-own-python-package-3762f0d268ec) 2019, ❗!important
 [Publishing Python Packages](https://www.manning.com/books/publishing-python-packages) 2022
 
 [How to Publish an Open-Source Python Package to PyPI – Real Python](https://realpython.com/pypi-publish-python-package/)
@@ -1253,7 +1254,7 @@ Defines `pyproject.toml`, decouples from `setuptools` to allow multiple build to
 [David-OConnor/pyflow: An installation and dependency system for Python](https://github.com/David-OConnor/pyflow)
 
 [ofek/hatch: A modern project, package, and virtual env manager for Python](https://github.com/ofek/hatch) build, test and upload with one CLI
-[About - Hatch](https://hatch.pypa.io/latest/)
+[Hatch - Hatch](https://hatch.pypa.io/latest/)
 
 [PyBuilder — Usage Documentation](https://pybuilder.io/documentation/manual) `pbr`, not using `pyproject.toml`
 [OpenStack Docs: `pbr` Usage](https://docs.openstack.org/pbr/latest/user/using.html)
@@ -1406,7 +1407,7 @@ python setup.py build
 
 [Python Code Quality Authority](https://github.com/PyCQA)
 [An Introduction to the PyCQA](http://meta.pycqa.org/en/latest/introduction.html)
-[Python Code Quality: Tools & Best Practices – Real Python](https://realpython.com/python-code-quality/) !important
+[Python Code Quality: Tools & Best Practices – Real Python](https://realpython.com/python-code-quality/) ❗!important
 [7 Python libraries for more maintainable code | Opensource.com](https://opensource.com/article/18/7/7-python-libraries-more-maintainable-code)
 
 [Auto formatters for Python 👨‍💻🤖 - 3YOURMIND-Tech - Medium](https://medium.com/3yourmind/auto-formatters-for-python-8925065f9505)
@@ -1454,7 +1455,7 @@ Type Guard: boolean value that have implication to type of variables of union ty
 [PEP 561 – Distributing and Packaging Type Information | peps.python.org](https://peps.python.org/pep-0561/) `.pyi`, `py.typed`
 [Our journey to type checking 4 million lines of Python | Dropbox Tech Blog](https://blogs.dropbox.com/tech/2019/09/our-journey-to-type-checking-4-million-lines-of-python/)
 
-[Python Type Checking (Guide) – Real Python](https://realpython.com/python-type-checking/) !important
+[Python Type Checking (Guide) – Real Python](https://realpython.com/python-type-checking/) ❗!important
 [the state of type hints in Python](https://www.bernat.tech/the-state-of-type-hints-in-python/)
 [Stanford Seminar - Optional Static Typing for Python - YouTube](https://www.youtube.com/watch?v=GiZKuyLKvAA)
 [Types at the edges in Python – MeadSteve's Dev Blog](https://blog.meadsteve.dev/programming/2020/02/10/types-at-the-edges-in-python/)

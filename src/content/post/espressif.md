@@ -2,7 +2,7 @@
 title: Espressif (ESP)
 description: ""
 created: 2018-10-20
-updated: 2025-10-10
+updated: 2026-01-13
 tags:
   - esp-c3
   - esp32
@@ -108,7 +108,7 @@ Pros: Wifi and Bluetooth, price, memory, many specializations
 Cons: power hungry, Bluetooth 4.2 only, deep sleep causes a reboot, low quality ADC
 
 [ESP32 Development Boards Review and Comparison - Maker Advisor](https://makeradvisor.com/esp32-development-boards-review-comparison/)
-[Getting Started with the ESP32 Development Board | Random Nerd Tutorials](https://randomnerdtutorials.com/getting-started-with-esp32/) !important
+[Getting Started with the ESP32 Development Board | Random Nerd Tutorials](https://randomnerdtutorials.com/getting-started-with-esp32/) ❗!important
 [Introduction to the ESP32 WiFi / Bluetooth Wireless Microcontroller](https://predictabledesigns.com/introduction-to-the-esp32-wifi-bluetooth-wireless-microcontroller)
 [Using ESP32 built-in hall effect sensor - Hackster.io](https://www.hackster.io/myhomethings/using-esp32-built-in-hall-effect-sensor-d6a5ad)
 
@@ -138,7 +138,7 @@ https://pan.baidu.com/s/1ycfadOAvoBZxL1R_L1MY-A 密码 bwle
 [ESP32 - YouTube](https://www.youtube.com/playlist?list=PL3XBzmAj53RnZPeWe799F-uoXERBldhn9)
 [How to add WiFi Control to any project || ESP32 Beginner's Guide - YouTube](https://www.youtube.com/watch?v=ZAqNKaX3LQ0)
 
-[The Internet of Things with ESP32](http://esp32.net/) !important
+[The Internet of Things with ESP32](http://esp32.net/) ❗!important
 [ESP32 Hardware Reference — ESP-IDF Programming Guide documentation](https://esp-idf.readthedocs.io/en/latest/hw-reference/)
 [espressif/arduino-esp32: Arduino core for the ESP32](https://github.com/espressif/arduino-esp32)
 [nkolban/ESP32_BLE_Arduino: The library source for the ESP32 BLE support for Arduino.](https://github.com/nkolban/ESP32_BLE_Arduino)
@@ -186,7 +186,7 @@ https://pan.baidu.com/s/1ycfadOAvoBZxL1R_L1MY-A 密码 bwle
 
 ### Pinout
 
-[ESP32 Pinout Reference: Which GPIO pins should you use? | Random Nerd Tutorials](https://randomnerdtutorials.com/esp32-pinout-reference-gpios/) !important
+[ESP32 Pinout Reference: Which GPIO pins should you use? | Random Nerd Tutorials](https://randomnerdtutorials.com/esp32-pinout-reference-gpios/) ❗!important
 LuaNode/Doit ESP-WROOM32 30pins
 
 ## ESP32-S2
@@ -224,10 +224,10 @@ Compared with ESP32
 [esp8266/Arduino: ESP8266 core for Arduino](https://github.com/esp8266/Arduino)
 [Welcome to ESP8266 Arduino Core’s documentation!](https://arduino-esp8266.readthedocs.io/en/latest/)
 
-[Getting Started with the ESP8266 - Alasdair Allan - Medium](https://medium.com/@aallan/getting-started-with-the-esp8266-270e30feb4d1) !important
+[Getting Started with the ESP8266 - Alasdair Allan - Medium](https://medium.com/@aallan/getting-started-with-the-esp8266-270e30feb4d1) ❗!important
 flashing different firmwares
 [ESP8266 Thing Hookup Guide - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/esp8266-thing-hookup-guide/all)
-[Getting Started with ESP8266 WiFi Transceiver (Review) | Random Nerd Tutorials](https://randomnerdtutorials.com/getting-started-with-esp8266-wifi-transceiver-review/) !important
+[Getting Started with ESP8266 WiFi Transceiver (Review) | Random Nerd Tutorials](https://randomnerdtutorials.com/getting-started-with-esp8266-wifi-transceiver-review/) ❗!important
 [ESP8266 Pinout Reference: Which GPIO pins should you use? | Random Nerd Tutorials](https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/)
 [WeMos D1 mini pins and diagram](https://escapequotes.net/esp8266-wemos-d1-mini-pins-and-diagram/)
 [Getting Started with the ESP8266 – Alasdair Allan – Medium](https://medium.com/@aallan/getting-started-with-the-esp8266-270e30feb4d1)

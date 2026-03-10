@@ -2,7 +2,7 @@
 title: Internet History
 description: ""
 created: 2016-08-01
-updated: 2025-10-10
+updated: 2026-01-13
 tags:
   - browser-war
   - history
@@ -19,6 +19,7 @@ Documents the history of Internet and major events.
 [A Complete History Archive - The History of the Web](https://thehistoryoftheweb.com/complete-history/)
 [Learn the History of the Internet in Dr. Chuck's 9-Hour Course](https://www.freecodecamp.org/news/learn-the-history-of-the-internet-in-dr-chucks/) ❗!important
 [Internet History, Technology, and Security - Full Course from Dr. Chuck - YouTube](https://www.youtube.com/watch?v=47NRaBVxgVM) also computer's history
+[Japanese Peril Created the Internet - YouTube](https://www.youtube.com/watch?v=6P8_72cNZ8k) The Rise of Internet
 [How the Internet Works in 9 Minutes - YouTube](https://www.youtube.com/watch?v=sMHzfigUxz4)
 
 [How the Internet Crossed the Sea | Nostalgia Nerd - YouTube](https://www.youtube.com/watch?v=A8q7Ayvw5kA)
@@ -35,6 +36,8 @@ Documents the history of Internet and major events.
 [Yet Another JavaScript Framework | CSS-Tricks](https://css-tricks.com/yet-another-javascript-framework/) on frameworks
 
 [How I convinced my government to apologise to Alan Turing](https://changelog.com/posts/how-i-convinced-my-government-to-apologise-to-alan-turing)
+
+[BCP 9](https://datatracker.ietf.org/doc/bcp9/) The Internet Standards Process from the The Internet Engineering Task Force
 
 ## The Web Behind
 

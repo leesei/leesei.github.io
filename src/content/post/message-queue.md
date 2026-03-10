@@ -2,13 +2,20 @@
 title: Message Queue
 description: ""
 created: 2015-08-03
-updated: 2025-10-10
+updated: 2025-12-25
 tags:
   - comp/database
 ---
 
 [Message broker - Wikiwand](https://www.wikiwand.com/en/Message_broker)
 [Kafka vs. RabbitMQ vs. Messaging Middleware vs. Pulsar - YouTube](https://www.youtube.com/watch?v=x4k1XEjNzYQ)
+
+[看了这个视频，你就不用学消息队列了！ - YouTube](https://www.youtube.com/watch?v=BJ2858SGd4I)
+
+- mode of operation: simple, work queue, pubsub, routing, topic, RPC
+- persistence: message, queue, gateway
+- acknowledgement: producer ack, consumer ack
+- idempotency: message/task id
 
 [Choosing Your Messaging Protocol: AMQP, MQTT, or STOMP - VMware vFabric Blog - VMware Blogs](https://blogs.vmware.com/vfabric/2013/02/choosing-your-messaging-protocol-amqp-mqtt-or-stomp.html)
 [An overview of realtime protocols](https://deepstreamhub.com/blog/an-overview-of-realtime-protocols/)

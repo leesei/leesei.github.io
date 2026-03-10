@@ -2,7 +2,7 @@
 title: Leadership
 description: Being a software engineering, this post focus more on software engineering
 created: 2018-11-26
-updated: 2025-10-10
+updated: 2025-12-22
 tags:
   - business
   - programmer
@@ -145,6 +145,8 @@ Traits is a spectrum instead of binary!
 [九型人格 - Wikiwand](https://www.wikiwand.com/zh/%E4%B9%9D%E5%9E%8B%E4%BA%BA%E6%A0%BC)
 [九型人格測試](https://www.ifreesite.com/enneagram/)
 
+[IDRlabs](https://www.idrlabs.com/)
+
 ### "Big 5"
 
 Big five, Five factor, OCEAN/CANOE
@@ -182,6 +184,14 @@ model each personality trait as a spectrum
 
 [测测你的性格 人际关系 优势弱点 | MBTI 性格测试 - YouTube](https://www.youtube.com/watch?v=hIB__ksuFlk)
 [每次做心理測驗，都覺得準爆？MBTI 人格測驗是真的還是在唬爛？《 七七心理學 》EP 032 ｜志祺七七 - YouTube](https://www.youtube.com/watch?v=YaEy-I7LFlQ)
+
+雪力的心理學筆記
+[【特輯】MBTI全類型解說 - YouTube](https://www.youtube.com/playlist?list=PLESeIiZxylyPjG2ZNjUorNycF7DJDNQzv)
+[【特輯】MBTI全類型的愛情 - YouTube](https://www.youtube.com/playlist?list=PLESeIiZxylyNe7-JKB-lXLrtIFc6SZtAc)
+
+劉曣全 Allen Liu
+[MBTI 是什麼? 真正搞懂 MBTI \*INFP不快樂? - YouTube](https://www.youtube.com/watch?v=uYb9FUGmNzk)
+[為什麼台灣充滿假 INFP INFJ？ 你的人格其實測錯了嗎？ - YouTube](https://www.youtube.com/watch?v=m5XiBzk9clI)
 
 [The Rise Of The Myers-Briggs, Chapter 1: Katharine | Science Diction | WNYC Studios](https://www.wnycstudios.org/podcasts/science-diction/articles/the-rise-of-the-myers-briggs-chapter-1-katharine)
 [The Rise Of The Myers-Briggs, Chapter 2: Isabel | Science Diction | WNYC Studios](https://www.wnycstudios.org/podcasts/science-diction/articles/rise-myers-briggs-chapter-2-isabel)

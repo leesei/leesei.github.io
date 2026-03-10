@@ -2,7 +2,7 @@
 title: DNS
 description: ""
 created: 2015-07-25
-updated: 2025-10-10
+updated: 2026-01-06
 tags:
   - web
 ---
@@ -237,7 +237,8 @@ Server Name Identification (SNI), a technology used by servers hosting multiple 
 
 [5 Best Dynamic DNS Providers You Can Lookup for Free Today](http://www.makeuseof.com/tag/5-best-dynamic-dns-providers-can-lookup-free-today/)
 
-[nip.io - wildcard DNS for any IP Address](https://nip.io/) resolves `[*.]<IP>.xip.io` to `<IP>`.
+[Welcome to nip.io / sslip.io](https://sslip.io/) resolves `<IP>.nip.io` to `<IP>`.
+[traefik.me](https://traefik.me/)
 
 [Freenom - A Name for Everyone](https://www.freenom.com/en/index.html) domain
 

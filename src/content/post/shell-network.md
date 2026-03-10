@@ -2,7 +2,7 @@
 title: Shell Tools (Network)
 description: ""
 created: 2015-09-15
-updated: 2025-10-18
+updated: 2026-01-26
 tags:
   - app
   - iperf
@@ -108,7 +108,9 @@ unicorn scan
 [Hack Like a Pro: How to Conduct Active Reconnaissance and DOS Attacks with Nmap « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/hack-like-pro-conduct-active-reconnaissance-and-dos-attacks-with-nmap-0146950/)
 [Hack Like a Pro: Advanced Nmap for Reconnaissance « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/hack-like-pro-advanced-nmap-for-reconnaissance-0151619/)
 
-[Nmap Scripting Engine (NSE) | Nmap Network Scanning](https://nmap.org/book/man-nse.html)
+[Nmap Scripting Engine (NSE) | Nmap Network Scanning](https://nmap.org/book/man-nse.html) Lua scripts
+[nmap/scripts at master · nmap/nmap](https://github.com/nmap/nmap/tree/master/scripts)
+[cldrn/nmap-nse-scripts: My collection of nmap NSE scripts](https://github.com/cldrn/nmap-nse-scripts)
 [Hack Like a Pro: Using the Nmap Scripting Engine (NSE) for Reconnaissance « Null Byte :: WonderHowTo](https://null-byte.wonderhowto.com/how-to/hack-like-pro-using-nmap-scripting-engine-nse-for-reconnaissance-0158681/)
 [giterlizzi/nmap-log4shell: Nmap Log4Shell NSE script for discovery Apane Log4j RCE (CVE-2021-44228)](https://github.com/giterlizzi/nmap-log4shell)
 
@@ -143,7 +145,10 @@ nmap -sC -sV -oN namp/initial ${host}
                 and Grepable format, respectively, to the given filename.
 ```
 
+Scan hostname via netbios: `nmap -sU --script nbstat.nse ${host}`
+
 [Zenmap - Official cross-platform Nmap Security Scanner GUI](https://nmap.org/zenmap/)
+[Ullaakut/nmap: Idiomatic nmap library for go developers](https://github.com/Ullaakut/nmap)
 
 ### nping
 
@@ -159,13 +164,13 @@ nmap -sC -sV -oN namp/initial ${host}
 
 ### rustscan
 
-[RustScan/RustScan: 🤖 The Modern Port Scanner 🤖](https://github.com/RustScan/RustScan)
+[bee-san/RustScan: 🤖 The Modern Port Scanner 🤖](https://github.com/bee-san/RustScan)
 
 - scans all 65k ports in 3 seconds
-- [Scripting Engine](https://github.com/RustScan/RustScan/wiki/RustScan-Scripting-Engine)
+- [RustScan Scripting Engine · bee-san/RustScan Wiki](https://github.com/bee-san/RustScan/wiki/RustScan-Scripting-Engine)
 
-[Usage · RustScan/RustScan Wiki](https://github.com/RustScan/RustScan/wiki/Usage)
-[Things you may want to do with RustScan but don't understand how · RustScan/RustScan Wiki](https://github.com/RustScan/RustScan/wiki/Things-you-may-want-to-do-with-RustScan-but-don't-understand-how)
+[Usage · bee-san/RustScan Wiki](https://github.com/bee-san/RustScan/wiki/Usage)
+[Things you may want to do with RustScan but don't understand how · bee-san/RustScan Wiki](https://github.com/bee-san/RustScan/wiki/Things-you-may-want-to-do-with-RustScan-but-don't-understand-how)
 
 ### check process listening on port
 
@@ -277,6 +282,11 @@ docker run --net host nicolaka/netshoot ngrep -tpd enp3s0 HTTP
 ## `scapy`
 
 [Scapy](https://scapy.net/) Python package to craft and send packets
+[secdev/scapy: Scapy: the Python-based interactive packet manipulation program & library.](https://github.com/secdev/scapy)
+[TLS in Scapy should have more doc · Issue #4377 · secdev/scapy](https://github.com/secdev/scapy/issues/4377)
+[secdev/awesome-scapy: Great packages that use Scapy](https://github.com/secdev/awesome-scapy)
+
+[tintinweb/scapy-ssl_tls: SSL/TLS layers for scapy the interactive packet manipulation tool](https://github.com/tintinweb/scapy-ssl_tls) 😴inactive
 
 [Data Harvest » Linux Magazine](http://www.linuxpromagazine.com/Online/Features/Packet-Analysis-with-Scapy)
 [Python Network Hacking with Kali Linux and Scapy = attack one! 😀 - YouTube](https://www.youtube.com/watch?v=YKxKnVE5FaE)

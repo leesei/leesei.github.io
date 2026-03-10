@@ -2,7 +2,7 @@
 title: Barcode
 description: ""
 created: 2015-09-02
-updated: 2025-10-10
+updated: 2025-11-24
 tags:
   - trivia
 ---
@@ -52,6 +52,7 @@ tags:
 
 [nayuki/QR-Code-generator: High-quality QR Code generator library in Java, JavaScript, Python, C++, C, Rust, TypeScript.](https://github.com/nayuki/QR-Code-generator)
 [davidshimjs/qrcodejs: Cross-browser QRCode generator for javascript](https://github.com/davidshimjs/qrcodejs)
+[uqr · Packages · UnJS](https://unjs.io/packages/uqr)
 
 [QRCode.react demo](http://zpao.github.io/qrcode.react/)
 [How to Build a QR Code Generator in React | HackerNoon](https://hackernoon.com/how-to-build-a-qr-code-generator-in-react)

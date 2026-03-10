@@ -2,7 +2,7 @@
 title: Steam Deck
 description: ""
 created: 2022-01-12
-updated: 2025-10-10
+updated: 2025-12-23
 tags:
   - comp/hardware
   - mobile
@@ -35,6 +35,7 @@ Hardware:
 
 [Fan The Deck - YouTube](https://www.youtube.com/@FanTheDeck)
 [Steam Deck Gaming - YouTube](https://www.youtube.com/@SteamDeckGaming)
+[Deck Ready - YouTube](https://www.youtube.com/@DeckReady)
 
 [overkill.wtf | Steam Deck news, reviews and more](https://overkill.wtf/)
 

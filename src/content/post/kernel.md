@@ -2,7 +2,7 @@
 title: Kernel
 description: ""
 created: 2016-03-27
-updated: 2025-10-10
+updated: 2026-02-01
 tags:
   - comp
   - linux
@@ -14,6 +14,8 @@ tags:
 
 [Think OS – Green Tea Press](http://greenteapress.com/wp/think-os/)
 [cs4414: Operating Systems](http://rust-class.org/index.html) write a kernel in Rust
+
+[Architecture 2001: x86-64 OS Internals | OpenSecurityTraining2](https://ost2.fyi/Arch2001)
 
 [Workplace OS History: IBM’s \$2 Billion Microkernel of Failure](https://tedium.co/2019/02/28/ibm-workplace-os-taligent-history/) OS2
 
@@ -78,6 +80,10 @@ tags:
 [What's Virtual Memory? - Computerphile - YouTube](https://www.youtube.com/watch?v=5lFnKYCZT5o) swapping
 [_(char_)0 = 0; - What Does the C++ Programmer Intend With This Code? - JF Bastien - C++ on Sea 2023 - YouTube](https://www.youtube.com/watch?v=dFIqNZ8VbRY) CPU's Translation Lookaside Buffer (TLB), virt2phys, page table
 [Linux Kernel Internals: Memory Management - YouTube](https://www.youtube.com/watch?v=Gpm2-ktMLWs) Virtual Memory Area for mmap and preallocated address space
+
+[Page Tables | The Backend Engineering Show - YouTube](https://www.youtube.com/watch?v=aJpcysMJkvk) multilevel paging (9bits\*4, radix tree)
+[How Huge Pages Work in Linux - YouTube](https://www.youtube.com/watch?v=ezq8tIMkPB0)
+[All Kernel Page Faults Explained - YouTube](https://www.youtube.com/watch?v=FnMwGC2XHVM)
 
 [How does KERNEL memory allocation work? //Source Dive// 004 - YouTube](https://www.youtube.com/watch?v=NC_qkXznvkg)
 [The mechanics of VIRTUAL MEMORY //Source Dive// 005 - YouTube](https://www.youtube.com/watch?v=iTic6EV4DP8)
@@ -375,6 +381,11 @@ User space permissions and hooks
 [Windows: Under the Covers - From Hello World to Kernel Mode by a Windows Developer - YouTube](https://www.youtube.com/watch?v=Gf-dwrwVcMs)
 
 [A Syscall Journey in the Windows Kernel - Alice Climent-Pommeret](https://alice.climent-pommeret.red/posts/a-syscall-journey-in-the-windows-kernel/)
+
+## OS X
+
+[24C3: Inside the Mac OS X Kernel - YouTube](https://www.youtube.com/watch?v=-7GMHB3Plc8&list=WL&index=88)
+[Hidden macOS History: Why the “X” in Mac OS X Never Really left - YouTube](https://www.youtube.com/watch?v=RWU_SMmfvuM)
 
 ## Unikernel
 

@@ -2,7 +2,7 @@
 title: Paleontology
 description: ""
 created: 2019-08-09
-updated: 2025-10-10
+updated: 2026-02-12
 tags:
   - geology
   - paleontology
@@ -34,13 +34,15 @@ Algol
 [Ben G Thomas - YouTube](https://www.youtube.com/@BenGThomas)
 [CHimerasuchus - YouTube](https://www.youtube.com/@chimerasuchus)
 [E.D.G.E - YouTube](https://www.youtube.com/@EDGEscience)
-[GEO GIRL - YouTube](https://www.youtube.com/@GEOGIRL)
 [Factor Trace - YouTube](https://www.youtube.com/@FactorTrace)
+[GEO GIRL - YouTube](https://www.youtube.com/@GEOGIRL)
 [Henry the PaleoGuy - YouTube](https://www.youtube.com/@HenrythePaleoGuy)
 [History of the Earth - YouTube](https://www.youtube.com/@HistoryoftheEarth)
+[Jay Hona - YouTube](https://www.youtube.com/@jay_hona)
 [PBS Eons - YouTube](https://www.youtube.com/@eons)
-[黑毛羊駝 Official Channel - YouTube](https://www.youtube.com/@Heimaoyangtuo)
+[Spinosnack - YouTube](https://www.youtube.com/@spinosnack)
 [芳斯塔芙 - YouTube](https://www.youtube.com/@Funstuff2018)
+[黑毛羊駝 Official Channel - YouTube](https://www.youtube.com/@Heimaoyangtuo)
 
 [The Paleontology Fringe Theories Iceberg | Tier 1 - YouTube](https://www.youtube.com/watch?v=b9elMHLG7Rc)
 [The Paleontology Fringe Theories Iceberg | Tier 2 (Part 1) - YouTube](https://www.youtube.com/watch?v=uribueDj4HQ)

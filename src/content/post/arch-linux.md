@@ -2,7 +2,7 @@
 title: Arch Linux
 description: ""
 created: 2014-12-08
-updated: 2025-10-31
+updated: 2026-02-11
 tags:
   - arch-linux
   - desktop
@@ -363,15 +363,14 @@ gpg --keyserver pool.sks-keyservers.net --recv-keys 931FF8E79F0876134EDDBDCCA87F
 `pacman-key` is a wrapper around gpg
 
 ```sh
-# if antergos-keyring reports unknown trust
-sudo pacman -Sy archlinux-keyring && sudo pacman -Su
+# if pacman reports unknown trust
+sudo pacman -Sy archlinux-keyring
+sudo pacman-key --populate archlinux
+sudo pacman-key --refresh-keys
 
 # change key server
 # keyserver hkp://keyserver.ubuntu.com
 # keyserver hkps://hkps.pool.sks-keyservers.net:443
-
-sudo pacman-key --populate archlinux
-sudo pacman-key --refresh-keys
 
 # install a specific key
 sudo pacman-key -r 1D1F0DC78F173680
@@ -461,6 +460,12 @@ pacman -Sg group_name
 #### clean cache (-S -c|--clean)
 
 ```sh
+# remove cached packages except for the most recent three
+sudo paccache -r
+
+# remove cached packages that are not installed
+sudo pacman -Sc
+
 sudo pacman -Scc
 # pacman only keeps install version so it is not possible to rollback
 ```
@@ -547,7 +552,7 @@ yay -S --aur package_name
 yay -G yay
 sudo pacman -R yay
 sudo pacman -Syu
-cd yay && makepkg -si
+git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
 yay
 ```
 

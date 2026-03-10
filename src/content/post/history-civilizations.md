@@ -2,7 +2,7 @@
 title: Ancient Civilizations
 description: ""
 created: 2020-01-23
-updated: 2025-10-10
+updated: 2026-03-09
 tags:
   - history
 ---
@@ -32,6 +32,8 @@ Civilization:
 [Fall of Civilizations - YouTube](https://www.youtube.com/@FallofCivilizations)
 [Historia Civilis - YouTube](https://www.youtube.com/@HistoriaCivilis/)
 [Kings and Generals - YouTube](https://www.youtube.com/@KingsandGenerals/featured)
+[NORTH 02 - YouTube](https://www.youtube.com/@NORTH02) apes to Bronze age
+[Paleolithic Productions - YouTube](https://www.youtube.com/@PaleolithicProduction)
 [Phoenician Colonization - World History Encyclopedia](https://www.worldhistory.org/Phoenician_Colonization/)
 [The Generalist Papers - YouTube](https://www.youtube.com/@TheGeneralistPapers)
 [The Goths - World History Encyclopedia](https://www.worldhistory.org/Goths/)
@@ -81,6 +83,7 @@ They brings Norse culture to both Franks and England.
 
 [为什么说人类的直立行走是极端小概率事件？ - YouTube](https://www.youtube.com/watch?v=8pl4uO1d4Ok)
 [【鬼谷闲谈】你给我解释解释什么叫打制石器？啊？石器你就是这么发展的？ - YouTube](https://www.youtube.com/watch?v=E1dSM3PLbZk)
+[一個視頻看懂恐怖直立猿起源的兩大主流學說：地球上生命演化真正的黑神話丨片羽尋靈02丨黑毛羊駝 - YouTube](https://www.youtube.com/watch?v=-m5yKes8zEw)
 
 ## The Seven Wonders
 
@@ -152,6 +155,7 @@ the invasion of the sea people, volcanic eruptions, famines attributed to the en
 [1177 B.C.: When Civilization Collapsed | Eric Cline - YouTube](https://www.youtube.com/watch?v=M4LRHJlijVU)
 [The Bronze Age Collapse (approximately 1200 B.C.E.) - YouTube](https://www.youtube.com/watch?v=aq4G-7v-_xI)
 [What was life like after the Bronze Age collapse (Extended Version) - YouTube](https://www.youtube.com/watch?v=uM6JSS3l-IQ) 1:00:12
+[北美挖出1萬年前的史前銅器，總計超50萬噸，這是亞特蘭蒂斯的遺物嗎？國家級的重工業嗎？當時全人類都還處於石器時代啊⋯⋯|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=7sXUnPFodbE) 1500 BCE volcano eruption in Iceland cause "Atlantis" to invade the Mediterranean
 
 Semitic linguistic group moved to Canaan. Hebrew called other Semitic speaking tribes living there Canaanite, Greeks called them Phoenician. Hebrew controls southern Canaan after the Exodus. Philistines, which is connected to the Greeks (maybe refugee during the invasion of sea people), controlled the southernmost coastline of Canaan and conflicted with the Hebrews. Phoenician is then used to refer to the Semitic speaking tribes living in the northern Canaan.
 Phoenicia = Lebanon + northern Syria

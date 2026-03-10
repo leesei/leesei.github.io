@@ -2,7 +2,7 @@
 title: Node.js settings
 description: ""
 created: 2014-12-11
-updated: 2025-10-20
+updated: 2025-11-24
 tags:
   - comp/lang
   - nodejs
@@ -244,10 +244,8 @@ npm ls --location=global --depth 0 | grep -P '(?<= ).*(?=@)' -o | grep -v npm | 
 # home
 @google/clasp bunyan csslint fancy-server faucet fixpack github-commits-since-tag-cli htmlhint json jsonlint json-server licenseify live-server markdown-tools nodemon npm-check pipeable-js prettier pxt refine-manhuaren yarn
 
-@google/clasp fixpack json-server licenseify nodemon prettier yarn
-
 # work
-@google/clasp @leesei/imgmini bun corepack depcheck fixpack httpbin.js json-server licenseify nodemon prettier serve ts-node typescript yarn
+@google/clasp @leesei/imgmini bun depcheck httpbin.js json-server licenseify nodemon prettier serve
 ```
 
 ## npm fails
@@ -341,11 +339,12 @@ if (positionals.length === 0) {
 }
 ```
 
-[lukeed/sade: Smooth (CLI) Operator 🎶](https://github.com/lukeed/sade) built on mri
+[nodeca/argparse: CLI arguments parser for node.js. JS port of python's argparse module.](https://github.com/nodeca/argparse) 😴inactive
+[citty · Packages · UnJS](https://unjs.io/packages/citty) fork of mri
 [tj/commander.js: node.js command-line interfaces made easy](https://github.com/tj/commander.js)
-[nodeca/argparse: CLI arguments parser for node.js. JS port of python's argparse module.](https://github.com/nodeca/argparse)
 [sindresorhus/meow: CLI app helper](https://github.com/sindresorhus/meow)
-[hapijs/bossy: Command line options parser](https://github.com/hapijs/bossy)
+[hapijs/bossy: Command line options parser](https://github.com/hapijs/bossy) 😴inactive
+[lukeed/sade: Smooth (CLI) Operator 🎶](https://github.com/lukeed/sade) built on mri
 [leo/args: Minimal toolkit for building CLIs](https://github.com/leo/args) 😴inactive, built on mri
 [lukeed/mri: Quickly scan for CLI flags and arguments](https://github.com/lukeed/mri) 😴inactive
 [75lb/command-line-args: A mature, feature-complete library to parse command-line options.](https://github.com/75lb/command-line-args) 😴inactive
@@ -371,22 +370,20 @@ I found yargs option are too complicated
 #### config files/env
 
 [Dotenv | Secrets for developers](https://www.dotenv.org/)
-[motdotla/dotenv](https://github.com/motdotla/dotenv)
+[motdotla/dotenv: Loads environment variables from .env for nodejs projects.](https://github.com/motdotla/dotenv)
 [dotenvx | a secure dotenv–from the creator of dotenv](https://dotenvx.com/)
 [dotenvx/dotenvx: a secure dotenv–from the creator of `dotenv`](https://github.com/dotenvx/dotenvx)
 
-[davidtheclark/cosmiconfig: Find and load configuration from a package.json property, rc file, or CommonJS module](https://github.com/davidtheclark/cosmiconfig)
-[AdrieanKhisbe/configue: Configue All the Things.js](https://github.com/AdrieanKhisbe/configue)
 [Env](https://env.t3.gg/) from T3
-[lorenwest/node-config: Node.js Application Configuration](https://github.com/lorenwest/node-config)
-[indexzero-nconf](https://github.com/indexzero/nconf) load and merge config files
 [bevry/envfile](https://github.com/bevry/envfile)
-[defunctzombie/localenv](https://github.com/defunctzombie/localenv)
-[zeke/local-env: Load your .env file into process.env](https://github.com/zeke/local-env)
-
 [af/envalid: Environment variable validation for Node.js](https://github.com/af/envalid)
-[dominictarr/rc: The non-configurable configuration loader for lazy people.](https://github.com/dominictarr/rc)
-[MoOx/rc-loader: Runtime configuration loader that supports YAML, JSON or JS.](https://github.com/MoOx/rc-loader)
+
+[unjs/rc9: Read/Write config couldn't be easier!](https://github.com/unjs/rc9)
+[node-config/node-config: Node.js Application Configuration](https://github.com/node-config/node-config)
+[cosmiconfig/cosmiconfig: Find and load configuration from a package.json property, rc file, TypeScript module, and more!](https://github.com/cosmiconfig/cosmiconfig)
+[indexzero-nconf](https://github.com/indexzero/nconf) load and merge config files
+[dominictarr/rc: The non-configurable configuration loader for lazy people.](https://github.com/dominictarr/rc) 😴inactive
+[MoOx/rc-loader: Runtime configuration loader that supports YAML, JSON or JS.](https://github.com/MoOx/rc-loader) 😴inactive
 
 #### frameworks
 
@@ -396,24 +393,23 @@ I found yargs option are too complicated
 [CLI Flags in Practice + How to Make Your Own CLI Command with oclif | Heroku](https://blog.heroku.com/cli-flags-get-started-with-oclif)
 [Open CLI Framework: Create Command Line Tools Your Users Love - YouTube](https://www.youtube.com/watch?v=ZBRmOS7dmD0)
 
-[weidagang-line-parser-js](https://github.com/weidagang/line-parser-js) configuration over implementation
-[Omelette by f](http://f.github.io/omelette/) generates event from given command and you only have to implement the handlers
-[dscape-frameless](https://github.com/dscape/frameless) event framework for CLI app
-[vdemedes-sushi](https://github.com/vdemedes/sushi) Express for CLI
+[weidagang-line-parser-js](https://github.com/weidagang/line-parser-js) 0 dependencies, configuration over implementation
+[Omelette by f](https://blog.fka.dev/omelette/) 😴inactive, generates event from given command and you only have to implement the handlers
+
+[dscape-frameless](https://github.com/dscape/frameless) 😴inactive, event framework for CLI app
+[vdemedes-sushi](https://github.com/vdemedes/sushi) 😴inactive, Express for CLI
 
 ### sub-shell
 
 These allows you to build a sub-shell or yeoman-like app.
 
-[prompt](https://www.npmjs.org/package/prompt)
-[readline-sync](https://www.npmjs.com/package/readline-sync)
-[scottcorgan/nash: Craft command-line masterpieces in Node.js](https://github.com/scottcorgan/nash)
-[scottcorgan/nash-usage: Help/usage display plugin for Nash command line masterpieces](https://github.com/scottcorgan/nash-usage)
-[tj/nshell: scriptable command-line shell written with node.js](https://github.com/tj/nshell)
-[enquirer/enquirer: Intuitive, plugin-based prompt system for node.js. Much faster alternative to Inquirer, with all the same prompt types and more.](https://github.com/enquirer/enquirer)
 [SBoudrias/Inquirer.js: A collection of common interactive command line user interfaces.](https://github.com/SBoudrias/Inquirer.js/)
-[anseki/readline-sync: Synchronous Readline for interactively running to have a conversation with the user via a console(TTY).](https://github.com/anseki/readline-sync)
+[enquirer/enquirer: Stylish, intuitive and user-friendly prompts. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, hygen, hardhat, AWS Amplify, GitHub Actions Toolkit, @airbnb/nimbus, and more! Please follow Enquirer's author: https://github.com/jonschlinkert](https://github.com/enquirer/enquirer)
+[scottcorgan/nash: Craft command-line masterpieces in Node.js](https://github.com/scottcorgan/nash) 😴inactive
+[scottcorgan/nash-usage: Help/usage display plugin for Nash command line masterpieces](https://github.com/scottcorgan/nash-usage) 😴inactive
+[flatiron/prompt: a beautiful command-line prompt for node.js](https://github.com/flatiron/prompt) 😴inactive
 
+[tj/nshell: scriptable command-line shell written with node.js](https://github.com/tj/nshell) 😴inactive
 [dthree-vorpal](https://github.com/dthree/vorpal) create REPL
 [dthree-vantage](https://github.com/dthree/vantage)
 
@@ -470,28 +466,28 @@ Workshop:
 
 Requirements:
 
-- log to console and file simultaneously
+- log to console and file simultaneously ("transport")
 - log rotation
+- sub-log/module/prefix
 - debug level
 - search (optional)
 
-[Comparing Node.js logging tools - LogRocket Blog](https://blog.logrocket.com/comparing-node-js-logging-tools/) 2021
-[NodeJS logging made right. Logging on steroids with CLS and Proxy | by Andrey Goncharov | ITNEXT](https://itnext.io/nodejs-logging-made-right-117a19e8b4ce) 2019
+[Logging in Node.js: A Comparison of the Top 8 Libraries | Better Stack Community](https://betterstack.com/community/guides/logging/best-nodejs-logging-libraries/)
+[Node.js Logging Tools: A Detailed Analysis and Comparison | Leapcell](https://leapcell.io/blog/nodejs-logging-tools-detailed-analysis-comparison)
 
-[trentm/node-bunyan](https://github.com/trentm/node-bunyan) 😴inactive
+[trentm/node-bunyan](https://github.com/trentm/node-bunyan) 😴inactive, structured logging
 [Bunyan JSON Logs with Fluentd and Graylog – The JS Blog](https://jsblog.insiderattack.net/bunyan-json-logs-with-fluentd-and-graylog-187a23b49540)
 
 [rvagg/bole](https://github.com/rvagg/bole) based on idea of bunyan generally, simple yet flexible API
 
-[npm/npmlog: The logger that npm uses](https://github.com/npm/npmlog) npm's logger
+[winstonjs/winston](https://github.com/winstonjs/winston) structured logging
 
-[winstonjs/winston](https://github.com/winstonjs/winston)
-
-[nuxt/consola: 🐨 Elegant Console Logger](https://github.com/nuxt/consola)
-[klauscfhq/signale: 👋 Hackable console logger](https://github.com/klauscfhq/signale) fancy
-[bevry/caterpillar](https://github.com/bevry/caterpillar)
+[unjs/consola: 🐨 Elegant Console Logger for Node.js and Browser](https://github.com/unjs/consola)
+[klaudiosinani/signale: Highly configurable logging library](https://github.com/klaudiosinani/signale) fancy
+[bevry/caterpillar: Caterpillar is the ultimate logging system for Deno, Node.js, and Web Browsers. Log levels are implemented to the RFC standard. Log entries can be filtered and piped to various streams, including coloured output to the terminal, the browser's console, and debug files. You can even write your own transforms.](https://github.com/bevry/caterpillar)
 [debug-js/debug: A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers](https://github.com/debug-js/debug) support DEBUG in env to toggle log
-[expressjs/morgan: HTTP request logger middleware for node.js](https://github.com/expressjs/morgan) 😴inactive, express's logger
+[expressjs/morgan: HTTP request logger middleware for node.js](https://github.com/expressjs/morgan) express's logger
+[npm/npmlog: The logger that npm uses](https://github.com/npm/npmlog) 😴inactive, npm's logger
 
 ### Pino
 

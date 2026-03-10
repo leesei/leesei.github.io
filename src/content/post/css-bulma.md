@@ -2,7 +2,7 @@
 title: Bulma
 description: The modern CSS framework that just works
 created: 2023-09-01
-updated: 2025-01-09
+updated: 2026-01-22
 tags:
   - bulma
   - css
@@ -40,7 +40,7 @@ tags:
 [Bulma CSS Framework - complete tutorial - YouTube](https://www.youtube.com/watch?v=LBzZLzu2GKo)
 [Setting up Bulma with SASS (SCSS) using NPM - YouTube](https://www.youtube.com/watch?v=iK0Y9eW7N8E) customize
 
-[Introduction to Bulma with React](https://alligator.io/react/intro-react-bulma-components/)
+[Introduction to Bulma CSS with React | DigitalOcean](https://www.digitalocean.com/community/tutorials/react-intro-react-bulma-components)
 [Bulma-Extensions](https://wikiki.github.io/)
 [Free Bulma templates](https://bulmatemplates.github.io/bulma-templates/)
 

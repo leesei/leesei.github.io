@@ -1,17 +1,21 @@
 ---
-title: Hyperledger
+title: Hyperledger Fabric
 description: Open Source Private Blockchain
 created: 2023-04-01
-updated: 2025-01-09
+updated: 2025-12-03
 tags:
   - blockchain
   - hyperledger
+  - lfdt
 ---
 
-[Hyperledger – Open Source Blockchain Technologies](https://www.hyperledger.org/)
-[Hyperledger - Hyperledger - Hyperledger Foundation](https://wiki.hyperledger.org/)
-[A Blockchain Platform for the Enterprise — hyperledger-fabricdocs main documentation](https://hyperledger-fabric.readthedocs.io/en/latest/)
+[Hyperledger rolls into Linux Foundation Decentralized Trust as Hedera transfers code - Ledger Insights - blockchain for enterprise](https://www.ledgerinsights.com/hyperledger-rolls-into-linux-foundation-decentralized-trust-as-hedera-transfers-code/)
 
+[LF Decentralized Trust - The open source foundation for decentralized technologies](https://www.lfdecentralizedtrust.org/)
+[Home · LF-Decentralized-Trust/wiki Wiki](https://github.com/LF-Decentralized-Trust/wiki/wiki)
+[LF Decentralized Trust - LF Decentralized Trust - LF Decentralized Trust](https://lf-hyperledger.atlassian.net/wiki/spaces/HYP/overview?mode=global) Legacy Hyperledger Wiki
+
+[A Blockchain Platform for the Enterprise — Hyperledger Fabric Docs main documentation](https://hyperledger-fabric.readthedocs.io/en/latest/)
 Hyperledger Fabric v2.2 (2020-09) uses Raft for Orderer consensus and deprecated Solo and Kafka consensus.
 
 [How does Hyperledger Fabric work? | by Muntasir Mamun | Coinmonks | Medium](https://medium.com/coinmonks/how-does-hyperledger-fabric-works-cdb68e6066f5)
@@ -24,7 +28,7 @@ Hyperledger Fabric v2.2 (2020-09) uses Raft for Orderer consensus and deprecated
 
 [Alternative Uses for Blockchain - Computerphile - YouTube](https://www.youtube.com/watch?v=qBAOsB6ETrY)
 
-[Hyperledger Foundation - YouTube](https://www.youtube.com/@Hyperledger)
+[LF Decentralized Trust - YouTube](https://www.youtube.com/@lfdecentralizedtrust)
 [Hyperledger Fabric - YouTube](https://www.youtube.com/playlist?list=PL0MZ85B_96CH7wvtrRzV7SvtRY0sI0DEg)
 
 Pavan Adhav
@@ -37,18 +41,16 @@ Pavan Adhav
 [Hyperledger Fabric Fundamentals(JavaScript) – KBA eLearning](https://learn.kba.ai/course/hyperledger-fabric-fundamentals/)
 [Hyperledger Fabric Fundamentals(Go) – KBA eLearning](https://learn.kba.ai/course/hyperledger-fabric-fundamentals-golang/)
 
-[Hyperledger Fabric for Developers Training Course | Linux Foundation](https://training.linuxfoundation.org/training/hyperledger-fabric-for-developers-lfd272/#)
+[Hyperledger Fabric: Design, Develop, and Deploy (LFS270) + Hyperledger Fabric Certified Practitioner (HFCP) Exam Bundle - Linux Foundation - Education](https://training.linuxfoundation.org/certification/hyperledger-fabric-design-develop-and-deploy-lfs270-hyperledger-fabric-certified-practitionere-hfcp-exam-bundle/#)
 
 # Ecosystem
 
-[Projects | Hyperledger](https://www.hyperledger.org/projects)
+[LF Decentralized Trust - Projects](https://www.lfdecentralizedtrust.org/projects)
 
 [Hyperledger Fabric Release Dashboard | Hack to show days since last release for main Hyperledger Fabric repos](https://hyperledgendary.github.io/release-dashboard/)
 
-[Labs - Hyperledger Labs](https://labs.hyperledger.org/) Hyperledger related projects
-[Hyperledger Labs Home - Hyperledger Labs - Hyperledger Foundation](https://wiki.hyperledger.org/display/labs)
-
-[Hyperledger - Hyperledger - Hyperledger Foundation](https://wiki.hyperledger.org/) check official projects under Hyperledger Foundation
+[Introduction | LF Decentralized Trust Labs](https://lf-decentralized-trust-labs.github.io/) Hyperledger related projects
+[LF Decentralized Trust Labs Home - LFDT Labs - LF Decentralized Trust](https://lf-hyperledger.atlassian.net/wiki/spaces/labs/overview)
 
 [Hyperledgendary](https://github.com/hyperledgendary?type=source)
 
@@ -64,8 +66,7 @@ Pavan Adhav
 
 [IBM-Blockchain/microfab: Microfab is a containerized Hyperledger Fabric runtime for use in development environments (considering moving to Hyperledger Labs - want to help?)](https://github.com/IBM-Blockchain/microfab)
 
-[Minifabric - Hyperledger Labs](https://labs.hyperledger.org/labs/minifabric.html)
-[hyperledger-labs/minifabric: Do fabric network the right and easy way.](https://github.com/hyperledger-labs/minifabric)
+[hyperledger-labs/minifabric: Do fabric network the right and easy way.](https://github.com/hyperledger-labs/minifabric) 🗃️archived
 
 [hyperledger-labs/fablo: Fablo is a simple tool to generate the Hyperledger Fabric blockchain network and run it on Docker. It supports RAFT and solo consensus protocols, multiple organizations and channels, chaincode installation and upgrade.](https://github.com/hyperledger-labs/fablo)
 
@@ -84,7 +85,7 @@ Pavan Adhav
 [Hyperledger Cello Overview-May 2018.pptx - Google Slides](https://docs.google.com/presentation/d/1sq4hnTRpH9qaPJe96f6Egx9LclbCC5KcQjnBmv2LO68/edit)
 [hyperledger/cello: Operating System for Enterprise Blockchain](https://github.com/hyperledger/cello)
 
-[hyperledgendary/full-stack-asset-transfer-guide: Interactive workshop showing a complete, end-to-end, hybrid cloud development platform and sample application for Hyperledger Fabric.](https://github.com/hyperledgendary/full-stack-asset-transfer-guide) with K8s
+[hyperledgendary/full-stack-asset-transfer-guide: Interactive workshop showing a complete, end-to-end, hybrid cloud development platform and sample application for Hyperledger Fabric.](https://github.com/hyperledgendary/full-stack-asset-transfer-guide) 🗃️archived, with K8s
 
 ## PDC
 
@@ -107,12 +108,11 @@ Pavan Adhav
 
 ## Chaincode
 
-[Writing Your First Chaincode — hyperledger-fabricdocs main documentation](https://hyperledger-fabric.readthedocs.io/en/latest/chaincode4ade.html?highlight=chaincode)
+[Writing Your First Chaincode — hyperledger-fabricdocs main documentation](https://hyperledger-fabric.readthedocs.io/en/latest/chaincode4ade.html)
 [Deploying a smart contract to a channel — hyperledger-fabricdocs main documentation](https://hyperledger-fabric.readthedocs.io/en/latest/deploy_chaincode.html)
 
-[s7techlab/cckit: Programming toolkit for building Hyperledger Fabric Golang on-chain (chaincode) and off-chain applications](https://github.com/s7techlab/cckit)
-
-[satota2/fabric-opssc: Operations Smart Contract (OpsSC) for Hyperledger Fabric v2.x](https://github.com/satota2/fabric-opssc)
+[hyperledger-labs/cckit: Programming toolkit for developing and testing Hyperledger Fabric applications, started as https://github.com/s7techlab/cckit](https://github.com/hyperledger-labs/cckit)
+[hyperledger-labs/fabric-opssc: Operations Smart Contract (OpsSC) for Hyperledger Fabric v2.x](https://github.com/hyperledger-labs/fabric-opssc)
 
 ## Hyperledger Firefly
 
@@ -127,9 +127,8 @@ Pavan Adhav
 
 ## Monitoring/Dashboard
 
-[IBM/fablet: Fablet, a browser-based dashboard and tools set for Hyperledger Fabric blockchain platform.](https://github.com/IBM/fablet)
+[IBM/fablet: Fablet, a browser-based dashboard and tools set for Hyperledger Fabric blockchain platform.](https://github.com/IBM/fablet) 😴inactive
 
-[Hyperledger Explorer – Hyperledger Foundation](https://www.hyperledger.org/use/explorer)
 [Hyperledger Explorer documentation — Hyperledger Explorer documentation](https://blockchain-explorer.readthedocs.io/en/main/)
 [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer)
 [Integration of Blockchain Explorer with Hyperledger Fabric - YouTube](https://www.youtube.com/playlist?list=PLSBNVhWU6KjVbbbd4TeOCQnFpKkAf8Tsq)
@@ -141,10 +140,8 @@ Pavan Adhav
 
 ## Benchmark
 
-[Hyperledger Caliper - Hyperledger Caliper - Hyperledger Foundation](https://wiki.hyperledger.org/display/caliper)
-[hyperledger/caliper: A blockchain benchmark framework to measure performance of multiple blockchain solutions https://wiki.hyperledger.org/display/caliper](https://github.com/hyperledger/caliper)
+[Hyperledger Caliper - Hyperledger Caliper - LF Decentralized Trust](https://lf-hyperledger.atlassian.net/wiki/spaces/caliper/overview)
+[hyperledger-caliper/caliper: A blockchain benchmark framework to measure performance of multiple blockchain solutions https://wiki.hyperledger.org/display/caliper](https://github.com/hyperledger-caliper/caliper)
 
 [Hyperledger Caliper - YouTube](https://www.youtube.com/playlist?list=PL0MZ85B_96CH90E9HH0ezyEquUTe9spoU)
 [Caliper Integration with Hyperledger Fabric - YouTube](https://www.youtube.com/playlist?list=PLSBNVhWU6KjXRadn0Cezi5mCbLMXzjewX)
-
----

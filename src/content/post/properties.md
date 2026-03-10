@@ -2,14 +2,13 @@
 title: 置業
 description: ""
 created: 2018-01-09
-updated: 2025-01-09
+updated: 2026-01-13
 tags:
   - finance
 ---
 
 [地產站 (Property Station)](http://ps.hket.com/web/)
 [香港置業工具 - 買樓、租屋應注意事項及流程。 - 28Hse 香港屋網](https://www.28hse.com/tools/)
-[蘋果 ATM - Home](https://www.facebook.com/appledailyatm/?hc_ref=ARQiKSf5QnTFvoo47rpWMzWoOWc5eRQh5AHdO2GHcDbWG0S7W--EZTATQi0i3Z80ZhI)
 [香港物業買賣租賃流程須知及房地產資訊 | squarefoot.com.hk](https://www.squarefoot.com.hk/%E6%88%BF%E5%9C%B0%E7%94%A2%E6%8C%87%E5%8D%97/)
 
 ## 成交流程
@@ -50,7 +49,7 @@ RVD A 類樓價 開工紙 入伙紙
 [睇樓時要注意的事情 - 置業指引 - 28Hse 香港屋網](https://www.28hse.com/tools/buy-property/property-inspection)
 [二手樓 8 大陷阱 | 二手置業 | 置業須知 | 實用工具 - 地產站 (Property Station)](http://ps.hket.com/web/useful-tool/guide/二手樓8大陷阱)
 
-[驗樓清單](http://ps.hket.com/res/doc/guide/check_list.doc) !important
+[驗樓清單](http://ps.hket.com/res/doc/guide/check_list.doc) ❗!important
 [落訂前 15 分鐘速驗樓盤 | 驗樓裝修 | 置業須知 | 實用工具 - 地產站 (Property Station)](http://ps.hket.com/web/useful-tool/guide/落訂前15分鐘速驗樓盤)
 [如何避免買中「化粧樓」？ | 二手置業 | 置業須知 | 實用工具 - 地產站 (Property Station)](http://ps.hket.com/web/useful-tool/guide/如何避免買中「化粧樓」？)
 

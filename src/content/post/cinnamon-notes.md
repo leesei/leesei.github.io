@@ -2,7 +2,7 @@
 title: Cinnamon notes
 description: ""
 created: 2015-05-04
-updated: 2025-01-09
+updated: 2025-12-18
 tags:
   - cinnamon
   - desktop
@@ -11,6 +11,7 @@ tags:
 
 > I've been using Cinnamon as my desktop environment for 7+ years.
 > But Cinnamon 6 has been a bit buggy, so I'm switching to Gnome in Fall 2024 (also to enjoy its vast extensions).
+> Then Gnome dropped X11 support in 2025-09 so I switched back to Cinnamon.
 
 Applets, extensions are installed at `~/.local/share/cinnamon/`.
 User configs are at `~/.cinnamon/`.

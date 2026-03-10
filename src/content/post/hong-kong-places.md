@@ -2,7 +2,7 @@
 title: Hong Kong Places
 description: ""
 created: 2015-05-25
-updated: 2025-10-22
+updated: 2026-01-29
 tags:
   - trivia
 ---
@@ -74,11 +74,6 @@ tags:
 
 [Parent Club 家長會 - Posts](https://www.facebook.com/132836596795097/posts/1824555680956505/)
 [All In One 美日入口母嬰生活百貨 - Home](https://www.facebook.com/623allinone/)
-[All In One 美日入口母嬰生活百貨](http://findshop.hk/city/觀塘區/listing/all-in-one-美日入口母嬰生活百貨/)
-[Kids Me Baby 歐美日韓嬰兒用品店](http://findshop.hk/city/觀塘區/listing/kids-me-baby-歐美日韓嬰兒用品店/)
-[嬰之寶嬰兒用品店 MySmartBB Store](http://findshop.hk/city/觀塘區/listing/嬰之寶嬰兒用品店-mysmartbb-store/)
-[mobile buddy 專業手機維修中心 - 觀塘 - Home](https://www.facebook.com/HKMobileBuddy/?locale2=zh_HK)
-[Aqua Fun 水動樂](http://findshop.hk/city/觀塘區/listing/aqua-fun-水動樂/)
 
 戶外
 [The Overlander](https://www.overlander.com.hk/)
@@ -86,7 +81,7 @@ tags:
 
 [周末童樂日 | 香港海洋公園](https://www.oceanpark.com.hk/tc/experience/parents-panel/young-explorers-club/weekend-discovery-fun-day)
 
-[ecubeclub](https://www.e3club.com.hk/)
+[E Cube Club](https://www.e3club.com.hk/)
 
 [Nature's Harvest 清新地 - Home](https://www.facebook.com/naturesharvest)
 [【室內玩樂好去處】嚴選港九室內玩樂熱點，落雨都冇有怕 | MoneyHero](https://www.moneyhero.com.hk/blog/zh/%E6%97%A5%E6%9B%AC%E9%9B%A8%E6%B7%8B%E5%86%87%E6%9C%89%E6%80%95-%E5%9A%B4%E9%81%B8%E4%BB%8A%E5%A4%8F20%E5%A4%A7%E5%AE%A4%E5%85%A7%E7%8E%A9%E6%A8%82%E5%A5%BD%E5%8E%BB%E8%99%95)
@@ -125,6 +120,12 @@ tags:
 
 [全港 22 個嬉水池全面睇 邊個池最多滑水梯？ | Oh!爸媽 - Ohpama.com 一站式升學、親子網站](http://www.ohpama.com/176889/24parent/全港22個嬉水池全面睇-邊個池最多滑水梯？/)
 [【暑假下水禮】全港 11 大滑水梯 \$8 有得瀡 | 即時新聞 | 地區資訊 | 20180730](https://hk.news.appledaily.com/district/realtime/article/20180730/58497676)
+
+### 音樂會
+
+[撲飛 POPTICKET - Ticketing | Buy and sell tickets to any event or live stream event](https://www.popticket.hk/)
+[城市售票[城市售票網](https://www.urbtix.hk/)
+網](https://www.urbtix.hk/)
 
 ## 食
 

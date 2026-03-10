@@ -2,7 +2,7 @@
 title: Health
 description: ""
 created: 2015-12-11
-updated: 2025-10-10
+updated: 2026-02-12
 tags:
   - science
 ---
@@ -36,6 +36,7 @@ Crash Course
 [Immune System, Part 3: Crash Course A&P #47 - YouTube](https://www.youtube.com/watch?v=rd2cf5hValM)
 
 [萬字解讀炎症的真相，流感死亡，衰老記憶的真正原因，為甚麽左右生命最重要的機制，來自一個外來戶？ - YouTube](https://www.youtube.com/watch?v=Z2HIrndr_ck)
+[补档【鬼谷闲谈】诺奖解读：免疫系统如何用神级管理调教千军万马 - YouTube](https://www.youtube.com/watch?v=lIBk7HyWNco)
 
 [120 万一针的抗癌神药为啥这么贵？免疫疗法 CAR-T 能治好所有癌症吗？ - YouTube](https://www.youtube.com/watch?v=Y2nFl0OY2bs) 免疫系統
 
@@ -104,6 +105,7 @@ Retroviruses replicate in a backwards manner, It will insert itself into DNA/RNA
 
 [抗生素是什么原理？How does antibiotic work?【柴知道 ChaiKnows】【科普 Science】【冷知识 Trivia】 - YouTube](https://www.youtube.com/watch?v=5L2D40MVzBo)
 [The Antibiotic Apocalypse Explained - YouTube](https://www.youtube.com/watch?v=xZbcwi7SfZE)
+[40 Years Without A New Antibiotic. Why? - YouTube](https://www.youtube.com/watch?v=hItlmfXZBQU)
 
 [细菌对人类有什么作用？为什么要勤洗手、戴口罩？ - YouTube](https://www.youtube.com/watch?v=er2QBBvMQs4)
 
@@ -188,6 +190,7 @@ Traditional vaccine will have left over egg protein or methanol which may cause 
 [120万一针的抗癌神药为啥这么贵？免疫疗法CAR-T能治好所有癌症吗？ - YouTube](https://www.youtube.com/watch?v=Y2nFl0OY2bs)
 [Your Body Killed Cancer 5 Minutes Ago - YouTube](https://www.youtube.com/watch?v=zFhYJRqz_xk)
 [Everything We've Learned About Cancer | Compilation - YouTube](https://www.youtube.com/watch?v=GkxrJSTLH_s)
+[一小時看懂癌症：為什麼會有癌症，為什麼有些大型動物不會患癌？什麼是癌症演化？癌細胞曾經救治了幾億生命！如何利用癌變？｜思維實驗室·合輯 - YouTube](https://www.youtube.com/watch?v=47QYy1iNXT4)
 
 [1000萬可以救血癌，你相信嗎？CAR-T 細胞療法用自己的T細胞來抵抗癌症！ - YouTube](https://www.youtube.com/watch?v=xKwC0Za-_L8)
 [癌細胞最怕的免疫療法有了新突破，對抗實體腫瘤癌症通過臨床一期！另外新CAR-T技術真的能成功抗癌嗎？ - YouTube](https://www.youtube.com/watch?v=e_MEfPp6Ep4)

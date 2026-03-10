@@ -2,7 +2,7 @@
 title: Anime
 description: ""
 created: 2016-05-30
-updated: 2025-10-10
+updated: 2026-02-05
 tags:
   - anime
 ---
@@ -22,9 +22,10 @@ tags:
 [次元动漫社 Animation Club - YouTube](https://www.youtube.com/@CYAnimation01)
 [Ani-One Asia - YouTube](https://www.youtube.com/@AniOneAsia)
 [Ani-One 中文官方動畫頻道 - YouTube](https://www.youtube.com/@AniOneAnime)
+[黑白動漫 - YouTube](https://www.youtube.com/@BWDM)
 
-[Anime1.me 動畫線上看 – 上百部動漫免費線上看！](https://anime1.me/)
 [Anime1.cc 動畫線上看 – 上千部動漫免費線上看！](https://anime1.cc/)
+[Anime1.me 動畫線上看 – 上百部動漫免費線上看！](https://anime1.me/) NSFW ads
 [D1-DM 第一動漫 線上看動畫](https://d1-dm.online/)
 [動漫線上看 - Gimy TV 劇迷 - 第 1 頁 - PttPlay 線上看](https://pttplay.cc/type/4.html)
 
@@ -101,6 +102,7 @@ Hajime no Ippo 第一神拳
 SSSS.GRIDMAN
 SSSS.DYNAZENON
 聖 ☆ 哥傳
+黃泉使者
 
 全員惡玉 (2020)
 シャアの日常
@@ -297,7 +299,7 @@ BRAVE10 真田十勇士
 机动奥特曼 [ULTRAMAN アニメ公式サイト](https://anime.heros-ultraman.com/)
 派對咖孔明 第一季
 靈能百分百 第一 二 三季
-Spy vs Family 間諜家家酒 第一 二季
+Spy vs Family 間諜家家酒 第一 二 三季
 Spy × Family Code: White
 肌肉魔法使 MASHLE 第一 二季
 轉生貴族憑鑑定技能扭轉人生 第一季
@@ -329,7 +331,7 @@ Pacific Rim Black Gate
 Da Da Dan 膽大黨 第一 二季
 小林家的龍女僕 第一 二季
 治療魔法的錯誤使用法 第一季
-My Hero Academia: Vigilantes 第一季
+My Hero Academia: Vigilantes 第一 二季
 
 七大罪 第一二三四五季
 七大罪 啟示錄四騎士 第一 二季
@@ -430,10 +432,10 @@ Reboot: 2020-2021
 
 ## 一拳超人
 
+[The One Punch Man Iceberg Explained - YouTube](https://www.youtube.com/watch?v=galOq9bfdtk)
 [一拳超人誕生前的插曲，接續 2014 年最強製作團隊的成神之路。【原畫師＃4】 - YouTube](https://www.youtube.com/watch?v=EvzVdmb6RqM)
 
 [一拳超人：S 級英雄的能力是什麼你都知道嗎？ - 趣聞遊樂園](https://play01ground.com/?p=52084)
-
 [一拳超人戰力大解析！老師之外誰最強？第一名竟吊打波羅斯！ - YouTube](https://www.youtube.com/watch?v=0OuPpi_kEY4)
 
 [The Philosophy of ONE PUNCH MAN – Wisecrack Edition - YouTube](https://www.youtube.com/watch?v=EQB6ctBXNzs) Saitama renders other character's struggle irrelevant, he is a ["deus ex machina"](https://www.wikiwand.com/en/Deus_ex_machina)
@@ -546,6 +548,7 @@ S 级安年
 [熱血新番《咒術回戰》 - YouTube](https://www.youtube.com/playlist?list=PLUOUwzjVgRraBQNSy-fWmPnQ1Rrwjj1sj) S 级安年
 [咒術回戰 - YouTube](https://www.youtube.com/playlist?list=PLSAiAOuMABHHiQmh1nD7tlmtkUbLau03L) 暴躁宅男阿偉, 0 卷
 
+[【咒術迴戰】五條悟 vs 宿儺終極解析！你真的看懂這場神戰了嗎？ - YouTube](https://www.youtube.com/watch?v=DslKe5kk_2A)
 [【咒術回戰】四大特級術師全介紹！人類的最強戰力天花板有多強 - YouTube](https://www.youtube.com/watch?v=Wj8b_IUX7QQ)
 [【咒术回战】七大最强领域全介绍！五条、宿傩、伏黑谁更强 - YouTube](https://www.youtube.com/watch?v=crJAeEdiO8c)
 [【咒术回战】盘点五条悟的全部能力！他为什么能消灭人类 - YouTube](https://www.youtube.com/watch?v=EgH_hVOQ9ys)
@@ -753,6 +756,7 @@ E N
 ## 怪兽8号
 
 [一口气看完，怪兽8号！动画第1季+漫画1-109话！怪兽来袭！ - YouTube](https://www.youtube.com/watch?v=ofCKax7C53E)
+[【怪獸8號】22隻怪獸全曝光！你還記得第8號有多恐怖嗎？ - YouTube](https://www.youtube.com/watch?v=QITU5khLbBc)
 
 ## 香格里拉邊境
 

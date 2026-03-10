@@ -2,7 +2,7 @@
 title: PostgreSQL
 description: The World's Most Advanced Open Source Relational Database
 created: 2023-06-18
-updated: 2025-10-17
+updated: 2026-02-01
 tags:
   - comp/database
   - postgresql
@@ -28,13 +28,6 @@ tags:
 
 [Why Postgres? | Crunchy Data](https://www.crunchydata.com/why-postgres)
 [Why old-school PostgreSQL is so hip again | InfoWorld](https://www.infoworld.com/article/3240064/sql/why-old-school-postgresql-is-so-hip-again.html)
-[Wait... PostgreSQL can do WHAT? - YouTube](https://www.youtube.com/watch?v=VEWXmdjzIpQ)
-
-- Multi-version concurrent control, new record created upon write
-- Heavy rely on process, each client is a process
-- Provides extension API, provides low layer data store abstraction
-- Rows are stored in heap according to row index (think of it as a hidden primary key), create and update are always O(1)
-- Indices points to offset in heap and may become stale (needs to be vacuumed)
 
 [PG4E - Postgres for Everybody](https://www.pg4e.com/)
 [PostgreSQL for Everybody | Coursera](https://www.coursera.org/specializations/postgresql-for-everybody)
@@ -62,7 +55,7 @@ tags:
 [PostgreSQL: Feature Matrix](https://www.postgresql.org/about/featurematrix/)
 [Postgres hidden gems - Craig Kerstiens](http://www.craigkerstiens.com/2018/01/31/postgres-hidden-gems/)
 
-[Postgres Indexes for Newbies](https://blog.crunchydata.com/blog/postgres-indexes-for-newbies)
+[Postgres Tutorials | Crunchy Data](https://www.crunchydata.com/developers/tutorials)
 [Data Loading in Postgres for Newbies](https://www.crunchydata.com/blog/data-loading-in-postgres-for-newbies)
 [Postgres Insider Terminology](https://www.crunchydata.com/blog/challenging-postgres-terminology)
 
@@ -80,6 +73,27 @@ Advisory Locks
 
 [PG Casts](https://www.pgcasts.com/)
 [SE-Radio Episode 362: Simon Riggs on Advanced Features of PostgreSQL : Software Engineering Radio](https://www.se-radio.net/2019/04/se-radio-episode-362-simon-riggs-on-advanced-features-of-postgresql/)
+
+## PostgreSQL all the things
+
+[Postgres can replace your entire stack... - YouTube](https://www.youtube.com/watch?v=1qs9bQ0MlpQ)
+[为什么说PostgreSQL是数据库天花板？它为何这么全能？ - YouTube](https://www.youtube.com/watch?v=fSQeeUia8es)
+[养活国内大半自研数据库团队？PostgreSQL是什么？架构是怎么样的？ - YouTube](https://www.youtube.com/watch?v=iWcskTGXM-o)
+
+[Wait... PostgreSQL can do WHAT? - YouTube](https://www.youtube.com/watch?v=VEWXmdjzIpQ)
+
+- Multi-version concurrent control, new record created upon write
+- Heavy rely on process, each client is a process
+- Provides extension API, provides low layer data store abstraction
+- Rows are stored in heap according to row index (think of it as a hidden primary key), create and update are always O(1)
+- Indices points to offset in heap and may become stale (needs to be vacuumed)
+
+Message broker: [[#Pub/Sub]], [[#Message queue]]
+Document DB: [[#JSONB]]
+Fulltext search: [[#Logging Database]]
+Geo: [[#Geo-spatial]]
+Vector: [[#Vector]]
+External data source: [[#Forward Data Wrappers (FDW)]]
 
 ## Clients
 
@@ -100,6 +114,11 @@ Advisory Locks
 
 [Quicker serverless Postgres connections - Neon](https://neon.tech/blog/quicker-serverless-postgres) websocket, TLS
 
+## Indices
+
+[PostgreSQL: Documentation: 11.2. Index Types](https://www.postgresql.org/docs/current/indexes-types.html)
+[Postgres Indexes for Newbies](https://blog.crunchydata.com/blog/postgres-indexes-for-newbies)
+
 ## Extensions
 
 [Trunk](https://tembo-io.github.io/trunk/)
@@ -108,6 +127,7 @@ Advisory Locks
 
 [Top 10 PostgreSQL Extensions You Should Know About | Airbyte](https://airbyte.com/data-engineering-resources/postgresql-extensions)
 [Wait... PostgreSQL can do WHAT? - YouTube](https://www.youtube.com/watch?v=VEWXmdjzIpQ)
+[Postgres Is All You Need - YouTube](https://www.youtube.com/watch?v=U2NGda_Nc3E)
 
 [PostgREST Documentation](https://postgrest.org/)
 [PostgREST/postgrest: REST API for any Postgres database](https://github.com/PostgREST/postgrest)
@@ -157,7 +177,8 @@ Advisory Locks
 
 [logfellow/logstash-logback-encoder: Logback JSON encoder and appenders](https://github.com/logfellow/logstash-logback-encoder)
 
-[PostgreSQL: Documentation: 12.11. Limitations](https://www.postgresql.org/docs/current/textsearch-limitations.html)
+[Full Text Search](https://www.postgresql.org/docs/current/textsearch.html)
+[PostgreSQL: Documentation: Limitations](https://www.postgresql.org/docs/current/textsearch-limitations.html)
 [Why we replaced Elasticsearch with Postgres Full-Text Search](https://blog.blockost.com/why-we-replaced-elasticsearch-with-postgres-full-text-search)
 
 ## GUI
@@ -186,7 +207,10 @@ Advisory Locks
 
 [the-art-of-the-terminal/postgresql-is-not-a-database/02-object-features.sql at master · vivus-ignis/the-art-of-the-terminal](https://github.com/vivus-ignis/the-art-of-the-terminal/blob/master/postgresql-is-not-a-database/02-object-features.sql) custom data type and inheritance
 
+### Geo-spatial
+
 [PostGIS — Spatial and Geographic Objects for PostgreSQL](http://postgis.net/)
+[Introduction to PostGIS — Introduction to PostGIS](https://postgis.net/workshops/postgis-intro/)
 
 ### JSONB
 
@@ -194,7 +218,7 @@ Advisory Locks
 [When to use unstructured datatypes in Postgres–Hstore vs. JSON vs. JSONB](https://www.citusdata.com/blog/2016/07/14/choosing-nosql-hstore-json-jsonb/)
 [Indexing JSONB in Postgres | Crunchy Data Blog](https://www.crunchydata.com/blog/indexing-jsonb-in-postgres)
 
-### pgvector/pgvectorscale
+### Vector
 
 [pgvector/pgvector: Open-source vector similarity search for Postgres](https://github.com/pgvector/pgvector)
 
@@ -202,6 +226,7 @@ Advisory Locks
 [timescale/pgai: A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL](https://github.com/timescale/pgai)
 
 [Vector Databases Are the Wrong Abstraction](https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/)
+[PostgreSQL as a Vector Database: A Complete Guide](https://www.yugabyte.com/key-concepts/using-postgresql-as-a-vector-database/)
 
 [The Problem with Vector Databases (and how to fix it) - YouTube](https://www.youtube.com/watch?v=8oTnUtFYAes)
 
@@ -218,10 +243,10 @@ Advisory Locks
 
 ## Computed Values
 
-[PostgreSQL: Documentation: 14: CREATE AGGREGATE](https://www.postgresql.org/docs/current/sql-createaggregate.html)
+[PostgreSQL: Documentation: CREATE AGGREGATE](https://www.postgresql.org/docs/current/sql-createaggregate.html)
 
-[PostgreSQL: Documentation: 14: 2.7. Aggregate Functions](https://www.postgresql.org/docs/current/tutorial-agg.html)
-[PostgreSQL: Documentation: 14: 9.21. Aggregate Functions](https://www.postgresql.org/docs/current/functions-aggregate.html)
+[PostgreSQL: Documentation: 2.7. Aggregate Functions](https://www.postgresql.org/docs/current/tutorial-agg.html)
+[PostgreSQL: Documentation: 9.21. Aggregate Functions](https://www.postgresql.org/docs/current/functions-aggregate.html)
 
 ## Monitoring
 

@@ -2,7 +2,7 @@
 title: Aviation
 description: ""
 created: 2023-02-21
-updated: 2025-11-04
+updated: 2025-12-10
 tags:
   - transportation
 ---
@@ -51,7 +51,7 @@ X: Experiment
 
 CGP Grey
 [The Airplane Boarding Method That's Too Perfect To Use - YouTube](https://www.youtube.com/watch?v=oAHbLRjF0vo)
-[✈️ The Maddening Mess of Airport Codes! ✈️ - YouTube](https://www.youtube.com/watch?v=jfOUVYQnuhw)
+[✈️ The Maddening Mess of Airport Codes! ✈️ - YouTube](https://www.youtube.com/watch?v=jfOUVYQnuhw) IATA: 3 letters, ICAO: 4 letters
 [Runway Numbers: The Earth Made Two Systems - YouTube](https://www.youtube.com/watch?v=HSRmfNDk87s)
 
 [The Airplane Special | MythBusters | Season 5 Episode 25 | Full Episode - YouTube](https://www.youtube.com/watch?v=eBwdiXz0eEs)
@@ -400,6 +400,7 @@ MQ-1 Predator
 AC-130 Gunship
 [AC-130 Gunship How it Works #plane - YouTube](https://www.youtube.com/watch?v=h6zj0X0IHsk)
 [The AC-130 Gunship's Legend of Air Supremacy - YouTube](https://www.youtube.com/watch?v=AnU-hnaUAI4)
+[死神天降！AC-130的前世今生！ - YouTube](https://www.youtube.com/watch?v=hdx2Avmcm4M)
 
 SR-71 Blackbird Reconnaissance aircraft
 [The Insane Engineering of the SR-71 Blackbird - YouTube](https://www.youtube.com/watch?v=3hYSnyVLmGE)

@@ -2,7 +2,7 @@
 title: Computer Graphics (Software)
 description: Computer Graphics on the software side, the how and whys, also on how games are rendered
 created: 2015-08-31
-updated: 2025-10-21
+updated: 2026-02-12
 tags:
   - games
   - graphics/software
@@ -73,6 +73,9 @@ Sprite: image rendered on separate layer
 [【极客周刊】玩游戏为何要 60 帧才流畅，电影却只需 24 帧？ - YouTube](https://www.youtube.com/watch?v=--OKrYxOb6Y)
 [为什么 24 帧的电影很顺畅，30 帧的游戏没法儿玩？24 FPS Movie and 30 FPS Game【柴知道 ChaiKnows】【科普 Science】【冷知识 Trivia】 - YouTube](https://www.youtube.com/watch?v=5hKhEX7vODU)
 [【聊電 Jing】什麼是 1% & 0.1% Lows 為何它比平均 FPS 還要更重要? - YouTube](https://www.youtube.com/watch?v=hR4zl3RKWH8)
+
+[The human eye can see 39,620 Hz - YouTube](https://www.youtube.com/watch?v=Sb_7uN7sfTw)
+[Flicker Test](https://codepen.io/techless/full/jErrKZr)
 
 [Does High FPS make you a better gamer? Ft. Shroud - FINAL ANSWER - YouTube](https://www.youtube.com/watch?v=OX31kZbAXsA)
 [Does 240Hz Matter for Gaming ft. Gav from Slow Mo Guys - YouTube](https://www.youtube.com/watch?v=tV8P6T5tTYs)

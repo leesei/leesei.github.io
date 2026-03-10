@@ -2,7 +2,7 @@
 title: awk notes
 description: ""
 created: 2015-01-13
-updated: 2025-01-09
+updated: 2026-02-24
 tags:
   - app
   - awk
@@ -41,7 +41,7 @@ CONDITION {action}
 END {...}
 ```
 
-A Awk program is executed on a row basis, with optional rules to switch the statements (block) to execute
+An Awk program is executed on a row basis, with optional rules to switch the statements (block) to execute
 each row is parsed into fields by the separator.
 The default action is `{ print $0 }` (print the whole row).
 We can add condition before statement to serve as filter, condition can use field, regular expression and comparisons.

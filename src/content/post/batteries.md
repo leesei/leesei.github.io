@@ -2,7 +2,7 @@
 title: Batteries
 description: ""
 created: 2016-07-31
-updated: 2025-10-10
+updated: 2026-01-31
 tags:
   - trivia
 ---
@@ -64,6 +64,7 @@ GaN charger allows chargers to be miniaturized once more
 [Choices of Primary Batteries - Battery University](http://batteryuniversity.com/learn/article/choices_of_primary_batteries)
 [Disposable Batteries compared -- Alkaline, Lithium, Carbon Zinc, Oxyride](http://michaelbluejay.com/batteries/disposable.html)
 Alkalines leak more frequently.
+[I wasted so much money on AA batteries because I missed this tiny detail](https://www.makeuseof.com/wasted-money-over-aa-battery-code-meaning/)
 
 [The Hidden History of Battery Letters - YouTube](https://www.youtube.com/watch?v=IdFXoqHf1ho)
 
@@ -102,6 +103,8 @@ ZMI 彩虹电池 ¥23.9 24 節
 [How Does Fast Charging Work? | Digital Trends](https://www.digitaltrends.com/mobile/how-does-fast-charging-work/)
 [Does Fast Charging ACTUALLY Ruin Your Battery? - YouTube](https://www.youtube.com/watch?v=UpqaQR4ikig)
 
+[What _Really_ happens to used Electric Car Batteries? - (you might be surprised) - YouTube](https://www.youtube.com/watch?v=s2xrarUWVRQ) battery recycling
+
 > Note: all charging works in pull mode, the device pull the current it needed from the supplier
 
 Charging at high voltage (QC, PD) means the device have to do voltage conversion, thus generating heat. Most mobile device will remain at normal mode (5V) when being used while charging.
@@ -127,6 +130,8 @@ Cells below 2.8V is considered dead.
 10440: AAA 900-1200mAH
 14500: AA, 1800-2600mAH
 There are products on Taobao that has embedded USB port for charing without specific charger.
+
+[The Perfect Battery Material Is Dangerous - YouTube](https://www.youtube.com/watch?v=AGglJehON5g)
 
 [4680 電池開始量產，馬斯克的特斯拉在革了誰的命？為什麼這麼多用戶在期待 4680 電池？ - YouTube](https://www.youtube.com/watch?v=iee4Pp4Zjdw)
 [锂离子电池真正的工作原理？很多人都会忽视的细节！没用的知识又增加了！How Lithium-ion Battery Actually Works? - YouTube](https://www.youtube.com/watch?v=ZaR9U7UCoW0)
@@ -261,7 +266,7 @@ Samsung: 2.4V at D+ D-
 
 QC2 and QC3 uses the data lines (D+/D-) for the INOV (Intelligent Negotiation for Optimum Voltage) that changes the voltage on VBUS, which does not conform to the USB Type C spec, so devices supporting QC2/QC3 are not compatible with USB PD.
 
-[Quick, Rapid, Fast, and Power Delivery charging explained: What you need to know about charging your smartphone (2019 edition)](https://www.androidpolice.com/2019/04/12/quick-rapid-turbo-and-fast-charging-explained-what-you-need-to-know-about-charging-your-smartphone/) !important, history of fast charging technologies
+[Quick, Rapid, Fast, and Power Delivery charging explained: What you need to know about charging your smartphone (2019 edition)](https://www.androidpolice.com/2019/04/12/quick-rapid-turbo-and-fast-charging-explained-what-you-need-to-know-about-charging-your-smartphone/) ❗!important, history of fast charging technologies
 
 [Chargerlab - Charger, Battery, Cell, Power Bank, Gadgets News And Review](https://www.chargerlab.com/)
 [ChargerLAB - YouTube](https://www.youtube.com/@ChargerLAB)
@@ -328,6 +333,7 @@ USB PD compatible device has a maximum charging power of 100W (20V, 5A).
 [An Ultimate PD3.1 Product Buying Guide: Chargers, Cables, Chips, and More - Chargerlab](https://www.chargerlab.com/everything-you-need-to-know-about-pd3-1-chargers-cables-chips-and-more/)
 
 [USB-C Just got Even Better! (PPS) - YouTube](https://www.youtube.com/watch?v=kcmpGbR6xZc) PPS allows sink to select variable voltages (in 20mV increments) and currents (in 50mA increments)
+[USB-C接口给电脑上240W快充，这事没那么简单 - YouTube](https://www.youtube.com/watch?v=M9GuYJcQCxI)
 
 [Ralim/usb-pd: USB-PD driver stack for the FUSB302](https://github.com/Ralim/usb-pd/)
 [PD Buddy Sink | Hackaday.io](https://hackaday.io/project/20424-pd-buddy-sink)

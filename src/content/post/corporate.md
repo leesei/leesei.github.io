@@ -2,7 +2,7 @@
 title: Corporate
 description: ""
 created: 2015-04-15
-updated: 2025-10-20
+updated: 2026-01-08
 tags:
   - business
   - corporate
@@ -22,6 +22,7 @@ tags:
 [经济洞察 - YouTube](https://www.youtube.com/playlist?list=PLlRfc9iRmW9Z8CT1VatBzq_llDd9r6r4i)
 [消费战争 - YouTube](https://www.youtube.com/playlist?list=PLlRfc9iRmW9YBf6iT_44SReiVgq7iIZK2)
 [十萬個品牌故事 100k Brand Stories - YouTube](https://www.youtube.com/@100kBrandStories)
+[硅谷101 - YouTube](https://www.youtube.com/@TheValley101)
 
 [外國的月亮就是圓？從元氣森林名創優品到傑士邦，真國產為什麽總用假洋牌忽悠人？- IC 實驗室出品 - YouTube](https://www.youtube.com/watch?v=-kn_hOyMLF0)
 [賣吊牌一年血賺 13 億？股價秒殺茅台，3 個月漲幅 133%？揭秘中國貼牌宇宙是如何坑消費者的錢的？- IC 實驗室出品 - YouTube](https://www.youtube.com/watch?v=U8Q7oNZMnr8)
@@ -82,6 +83,12 @@ When a service is free, you are the product/asset.
 
 [How We Built a $150 Million Streaming Platform with $100,000 - YouTube](https://www.youtube.com/watch?v=Alqt6RCEWdM) Nebula (+ Curiosity Stream)
 [How Nebula Works - YouTube](https://www.youtube.com/watch?v=0K1pITq4mSk)
+
+## LLC vs Inc.
+
+Limited Liability Company (LLC) or Corporation (Inc)
+[LLC vs Inc: Key Differences Explained | Wolters Kluwer](https://www.wolterskluwer.com/en/expert-insights/llc-vs-inc-understanding-the-key-similarities-and-differences-between-an-llc-and-inc)
+[LLC vs Corporation: Key Differences, Pros & Cons Explained](https://www.mycorporation.com/learningcenter/llc-vs-corporation.jsp)
 
 ## Lenovo
 
@@ -162,6 +169,7 @@ When a service is free, you are the product/asset.
 
 [Hostinger AI Logo Maker](https://logo.hostinger.com/) requires login
 [AI Logo Maker | Logo Maker | Logo Diffusion](https://logodiffusion.com/)
+[AI Icon Generator - AI Icon](https://ai-icon.top/?ref=aitoolsup)
 
 ## Downfall of Philips
 

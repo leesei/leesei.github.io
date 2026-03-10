@@ -2,7 +2,7 @@
 title: PC Games
 description: ""
 created: 2018-01-03
-updated: 2025-10-24
+updated: 2026-01-29
 tags:
   - games
 ---
@@ -16,9 +16,10 @@ tags:
 
 [/r/pcgaming/](https://www.reddit.com/r/pcgaming/)
 
-[Worth A Buy - YouTube](https://www.youtube.com/@WorthABuyreviews)
+[Goosiest - YouTube](https://www.youtube.com/@Goosiest) playing coop games
 [Stumpt - YouTube](https://www.youtube.com/@stumpt) playing coop games
 [Lextorias - YouTube](https://www.youtube.com/@Lextorias) game history
+[Worth A Buy - YouTube](https://www.youtube.com/@WorthABuyreviews)
 
 [Viva La Dirt League - YouTube](https://www.youtube.com/@VivaLaDirtLeague) game and movie logic parodies
 [LowSpecGamer - YouTube](https://www.youtube.com/@LowSpecGamer)
@@ -265,7 +266,10 @@ Grey markets:
 ### Steam 假入庫
 
 [都是套路！Steam游戏虚假入库的黑灰产手法刨析，当心变肉鸡！ - 先知社区](https://xz.aliyun.com/t/14482?time__1311=GqAxuQi%3DGQoxlxGgx%2BxCuR4jo%3DDg7Brr7aoD)
-[Steam入库，irm steam.work|iex 风险和原理（代码分析） - 哔哩哔哩](https://www.bilibili.com/read/cv33369234/?jump_opus=1)
+[Steam入库，irm steam.work|iex 原理详细分析（2025.1） - 知乎](https://zhuanlan.zhihu.com/p/20447699787)
+[Steam入库，irm steam.work|iex 风险和原理（代码分析） - 哔哩哔哩](https://www.bilibili.com/opus/912188403001327621)
+[关于 steam.work 激活码诈骗脚本的分析 - 吾爱破解 - 52pojie.cn](https://www.52pojie.cn/thread-1949495-1-1.html)
+[淘宝steam超低价游戏的原理 - HgTrojan](https://blog.hgtrojan.com/index.php/archives/466/)
 [分析一个steam假入库行为，附带相关恶意样本 - 逗比大师 - 博客园](https://www.cnblogs.com/0day-li/p/18042274)
 [【steam】【假CDkey】Steam如何通过清单入库 - 搞七捻三 - LINUX DO](https://linux.do/t/topic/38982)
 [Steam假入库原理解析\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV11ReCzPETi/)
@@ -468,6 +472,21 @@ It's easier to use steamtinkerlaunch as launcher for more customization.
 [Merrit/nyrna: Nyrna - Suspend games and applications.](https://github.com/Merrit/nyrna)
 [FeralInteractive/gamemode: Optimisle Linux system performance on demand](https://github.com/FeralInteractive/gamemode)
 [DadSchoorse/vkBasalt: a vulkan post processing layer for linux](https://github.com/DadSchoorse/vkBasalt) Reshade
+
+## PC Emulation on ARM
+
+[Steam - FEX-Emu Wiki](https://wiki.fex-emu.com/index.php/Steam)
+[39C3 - Breaking architecture barriers: Running x86 games and apps on ARM - YouTube](https://www.youtube.com/watch?v=3yDXyW1WERg)
+
+[GameSir GameHub](https://gamehub.xiaoji.com/)
+
+[Producdevity/gamehub-lite: GameHub Lite is a community-maintained modified version of GameHub for education purposes](https://github.com/Producdevity/gamehub-lite)
+
+[GameNative - Play Steam Games on Android](https://gamenative.app/?ref=gardinerbryant.com)
+[utkarshdalal/GameNative: Lightweight unofficial Steam client for Android](https://github.com/utkarshdalal/GameNative)
+
+[Winlator - Android app](https://winlator.org/) the choice befire FEX-Emu
+[brunodev85/winlator: Android application for running Windows applications with Wine and Box86/Box64](https://github.com/brunodev85/winlator)
 
 ## Game Mods
 

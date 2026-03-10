@@ -2,7 +2,7 @@
 title: CPUs
 description: The history of CPU, companies, ISA and chip fabrication
 created: 2019-05-03
-updated: 2025-10-10
+updated: 2026-01-29
 tags:
   - comp/hardware
   - laptop
@@ -30,6 +30,7 @@ tags:
 [How CPUs are Designed and Built, Part 2: CPU Design Process - TechSpot](https://www.techspot.com/article/1830-how-cpus-are-designed-and-built-part-2/)
 [How CPUs are Designed, Part 3: Building the Chip - TechSpot](https://www.techspot.com/article/1840-how-cpus-are-designed-and-built-part-3/)
 [How CPUs are Designed, Part 4: Where is Computer Architecture and Design Headed? - TechSpot](https://www.techspot.com/article/1853-how-cpus-are-designed-the-future/)
+
 [💻 - See How a CPU Works - YouTube](https://www.youtube.com/watch?v=cNN_tTXABUA)
 [💻 - See How Computers Add Numbers In One Lesson - YouTube](https://www.youtube.com/watch?v=VBDoT8o4q00)
 [CRAFTING A CPU TO RUN PROGRAMS - YouTube](https://www.youtube.com/watch?v=GYlNoAMBY6o)
@@ -89,6 +90,7 @@ RetroBytes
 
 [【亦】x86 已死？ - YouTube](https://www.youtube.com/watch?v=0Rs6AasXJag)
 [RISC vs CISC - Is it Still a Thing? - YouTube](https://www.youtube.com/watch?v=g16wZWKcao4)
+[Legends of the RISC Wars - YouTube](https://www.youtube.com/watch?v=vJP_oKN4Ez0&t=1146s)
 
 [Why X86 Needs To Die | Hackaday](https://hackaday.com/2024/03/21/why-x86-needs-to-die/)
 [Why x86 Doesn’t Need to Die – Chips and Cheese](https://chipsandcheese.com/2024/03/27/why-x86-doesnt-need-to-die/)
@@ -456,6 +458,14 @@ Core Ultra 200V series is extremely power efficient, comparable to Apple's M3, b
 Zen 6 Interconnect, RDNA 3.5 GPU
 
 ["Our big Middle cores are better than their army of little cores" AMD's Ben Conrad chats about some of the design decisions behind Ryzen AI APUs and what makes Strix Halo tick - NotebookCheck.net News](https://www.notebookcheck.net/Our-big-Middle-cores-are-better-than-their-army-of-little-cores-AMD-s-Ben-Conrad-chats-about-some-of-the-design-decisions-behind-Ryzen-AI-APUs-and-what-makes-Strix-Halo-tick.951459.0.html)
+
+## 2026
+
+### Intel
+
+[英特尔Ultra X9深度评测：完美的轻薄本处理器！ - YouTube](https://www.youtube.com/watch?v=jrygnUnBRNI)
+
+### AMD
 
 ## TDP
 

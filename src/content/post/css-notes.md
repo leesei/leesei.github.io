@@ -2,7 +2,7 @@
 title: CSS Notes
 description: ""
 created: 2015-12-21
-updated: 2025-10-10
+updated: 2026-01-27
 tags:
   - css
   - web
@@ -959,8 +959,9 @@ Alignment:
 
 #### Libraries
 
-[[#Bulma]]
-[[#Tailwind CSS]]
+[[css-bulma]]
+[[css-tailwindcss]]
+[[css-stylex]]
 
 [React Blocks](http://whoisandy.github.io/react-blocks/)
 

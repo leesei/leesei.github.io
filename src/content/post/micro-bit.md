@@ -2,7 +2,7 @@
 title: Micro:bit
 description: ""
 created: 2018-09-12
-updated: 2025-10-10
+updated: 2026-01-13
 tags:
   - iot
   - maker
@@ -106,7 +106,7 @@ max current for pins: 90mA
 
 ## Education
 
-[Intro to CS - Microsoft MakeCode](https://makecode.microbit.org/courses/csintro) !important, 14 week Introduction to Computer Science course
+[Intro to CS - Microsoft MakeCode](https://makecode.microbit.org/courses/csintro) ❗!important, 14 week Introduction to Computer Science course
 [From Getting Started to Games - starting Computer Science with the BBC micro:bit | micro:bit](https://microbit.org/en/2018-01-19-train_the_trainer/)
 [Physical Computing with the Micro:Bit](http://www.launchcs.com/shop#!/Physical-Computing-with-the-Micro-Bit/p/106450337/category=29069031) 10 Lesson Unit on Physical Computing with the Micro:Bit
 [microbit for primary schools – Schemes of work, lesson plans and resources for teachers](http://mb4ps.co.uk/)
@@ -153,9 +153,7 @@ In JavaScript mode, the left panel have an "Explorer" tree in which you can see 
 [Microsoft/pxt-microbit: A Blocks / JavaScript code editor for the micro:bit built on Microsoft MakeCode](https://github.com/Microsoft/pxt-microbit)
 
 [Micro:bit offline App](https://makecode.microbit.org/offline-app)
-
-[Makecode-Kittenbot](https://www.kittenbot.cn/newsinfo/969084.html)
-[真·Makecode 离线版本下载，串口演示教程（201811111 更新 3.4 版本） - Micro:bit&Robot:bit - Kittenbot 小喵科技——专注图形化编程教育 - Powered by Discuz!](http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=156)
+[Kittenblock | Kittenbot](https://kittenbot.cn/kittencode)
 
 #### Sharable link
 

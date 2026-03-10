@@ -2,7 +2,7 @@
 title: MongoDB
 description: ""
 created: 2014-12-17
-updated: 2025-10-10
+updated: 2025-11-18
 tags:
   - app
   - mongodb
@@ -16,34 +16,31 @@ tags:
 [MongoDB Evolved – Version History | MongoDB](https://www.mongodb.com/resources/products/mongodb-version-history)
 [MongoDB 8.0 Is Available Now | MongoDB](https://www.mongodb.com/products/updates/version-release)
 [MongoDB 6.0 Brings Encrypted Queries, Time-Series Data Collection – The New Stack](https://thenewstack.io/mongodb-6-0-brings-encrypted-queries-time-series-data-collection/)
+[Performance Best Practices: Hardware and OS Configuration | MongoDB](https://www.mongodb.com/blog/post/performance-best-practices-hardware-and-os-configuration) 2020
 
-[Manual Reference - Database Manual v8.0 - MongoDB Docs](https://www.mongodb.com/docs/manual/reference/)
-[What is MongoDB? - Database Manual v8.0 - MongoDB Docs](https://www.mongodb.com/docs/manual/)
+[Manual Reference - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/reference/)
+[What is MongoDB? - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/)
 [MongoDB - Back to Basics - YouTube](https://www.youtube.com/playlist?list=PLyROlY1vFlbdA45cHtcId5NLxPDHJ_lpb)
+[MongoDB Tutorial for Beginners - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u)
 
 [MongoDB Courses and Trainings | MongoDB University](https://learn.mongodb.com/catalog)
-[MongoDB Tutorials | Studio 3T](https://studio3t.com/knowledge-base/categories/mongodb-tutorials/)
-[MongoDB Tutorial for Beginners - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u)
-[Manipulating Data With MongoDB. Learn the basics of CRUD with PyMongo | by Benedict Soh | Towards Data Science](https://towardsdatascience.com/manipulating-data-with-mongodb-bd561f09d76a)
-
+[MongoDB Tutorial: Learn MongoDB in 2 Hours | Academy 3T](https://studio3t.com/academy/)
 [How To Manage Data with MongoDB | DigitalOcean](https://www.digitalocean.com/community/tutorial_series/how-to-manage-data-with-mongodb)
-[Stock Price Notifications with Mongoose and MongoDB Change Streams | www.thecodebarbarian.com](http://thecodebarbarian.com/stock-price-notifications-with-mongoose-and-mongodb-change-streams.html)
 
 [karlseguin/the-little-mongodb-book: The Little MongoDB Book](https://github.com/karlseguin/the-little-mongodb-book) 2.6
-
-[Simple Steps to Optimize Your App Performance with MongoDB, Redis, and Node.js - By](https://hackernoon.com/simple-steps-to-optimize-your-app-performance-5700d8b58f58)
-[Performance Best Practices: Hardware and OS Configuration | MongoDB](https://www.mongodb.com/blog/post/performance-best-practices-hardware-and-os-configuration)
+[Stock Price Notifications with Mongoose and MongoDB Change Streams | www.thecodebarbarian.com](http://thecodebarbarian.com/stock-price-notifications-with-mongoose-and-mongodb-change-streams.html) 2018
+[Simple Steps to Optimize Your App Performance with MongoDB, Redis, and Node.js - By](https://hackernoon.com/simple-steps-to-optimize-your-app-performance-5700d8b58f58) 2018
 
 ## Percona Server for MongoDB
 
-[MongoDB Runs Better with Percona](https://www.percona.com/solutions/mongodb-runs-better-with-percona)
-[Percona Server for MongoDB](https://www.percona.com/software/mongodb/percona-server-for-mongodb)
+[Percona Software for MongoDB - Best MongoDB Server Alternative](https://www.percona.com/mongodb/software)
 
 ## `mongod` server
 
-[mongod - Database Manual v8.0 - MongoDB Docs](https://www.mongodb.com/docs/manual/reference/program/mongod/)
-[Authentication on Self-Managed Deployments - Database Manual v8.0 - MongoDB Docs](https://www.mongodb.com/docs/manual/core/authentication/)
-[Role-Based Access Control in Self-Managed Deployments - Database Manual v8.0 - MongoDB Docs](https://www.mongodb.com/docs/manual/core/authorization/)
+[mongod - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/reference/program/mongod/)  
+[Authentication on Self-Managed Deployments - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/core/authentication/)  
+DO add `authSource` to mongourl: `mongodb://${MONGO_ROOT}:${MONGO_PASSWORD}$@127.0.0.1:27017/${COLLECTION}?authSource=admin`  
+[Role-Based Access Control in Self-Managed Deployments - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/core/authorization/)
 
 [Booting a mongoDB container with user specified credentials | Lakshmi Narasimhan](https://www.lakshminp.com/docker-mongodb)
 
@@ -149,11 +146,88 @@ mongoexport --db users --collection contacts --type=csv --headerline contacts.cs
 
 [Comparing MongoDB performance on public clouds: AWS, Azure & DigitalOcean](https://scalegrid.io/blog/comparing-mongodb-performance-on-public-clouds-aws-azure-digital-ocean/)
 
-[Interpret Explain Plan Results - Database Manual v8.0 - MongoDB Docs](https://www.mongodb.com/docs/manual/tutorial/analyze-query-plan/)
-[Query Plans - Database Manual v8.0 - MongoDB Docs](https://www.mongodb.com/docs/manual/core/query-plans/)
+[Explain Results - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/reference/explain-results/)
+[Interpret Explain Plan Results - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/tutorial/analyze-query-plan/)
+[Query Plans - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/core/query-plans/)
+[Getting started with MongoDB explain() | by Guy Harrison | MongoDB Performance Tuning | Medium](https://medium.com/mongodb-performance-tuning/getting-started-with-mongodb-explain-8a3d0c6c7e68)
 
-[Partition-Based Sync - Atlas App Services - MongoDB Docs](https://www.mongodb.com/docs/atlas/app-services/reference/partition-based-sync/)
-[Partition-Based Sync - Atlas App Services - MongoDB Docs](https://www.mongodb.com/docs/atlas/app-services/reference/partition-based-sync/#std-label-partition-strategies) Partition Strategies
+```js
+mongo> function quick_explain(explainPlan) {
+  var stepNo = 1;
+  var printInputStage = function(step) {
+    if ("inputStage" in step) {
+      printInputStage(step.inputStage);
+    }
+    if ("inputStages" in step) {
+      step.inputStages.forEach(function(inputStage){
+        printInputStage(inputStage);
+      });
+    }
+    if ("indexName" in step) {
+      print(stepNo++, step.stage, step.indexName);
+    } else {
+      print(stepNo++, step.stage);
+    }
+  };
+  printInputStage(explainPlan);
+}
+mongo> var explainDoc=db.collection.explain().<query>
+mongo> var explainJson = explainDoc.next();
+mongo> quick_explain(explainJson.queryPlanner.winningPlan);
+1      IXSCAN Phone_1
+2     FETCH
+3    SORT_KEY_GENERATOR
+4   SORT
+5  PROJECTION
+mongo> quick_explain(explainJson.queryPlanner.rejectedPlans[1])
+```
+
+```js
+mongo> function executionStats(execStats) {
+  var stepNo = 1;
+  print('\n');
+  var printSpaces = function(n) {
+    var s = '';
+    for (var i = 1; i < n; i++) {
+      s += ' ';
+    }
+    return s;
+  };
+  var printInputStage = function(step, depth) {
+    if ('inputStage' in step) {
+      printInputStage(step.inputStage, depth + 1);
+    }
+    if ('inputStages' in step) {
+      step.inputStages.forEach(function(inputStage) {
+        printInputStage(inputStage, depth + 1);
+      });
+    }
+    var extraData = '(';
+    if ('indexName' in step) extraData += ' ' + step.indexName;
+    if ('executionTimeMillisEstimate' in step) {
+      extraData += ' ms:' + step.executionTimeMillisEstimate;
+    }
+    if ('keysExamined' in step)
+       extraData += ' keys:' + step.keysExamined;
+    if ('docsExamined' in step)
+       extraData += ' docs:' + step.docsExamined;
+    extraData += ')';
+    print(stepNo++, printSpaces(depth), step.stage, extraData);
+  };
+  printInputStage(execStats.executionStages, 1);
+  print(
+    '\nTotals:  ms:',
+    execStats.executionTimeMillis,
+    ' keys:',
+    execStats.totalKeysExamined,
+    ' Docs:',
+    execStats.totalDocsExamined
+  );
+}
+mongo> var explainDoc = db.collection.explain("executionStats").<query>
+mongo> var explainJson = explainDoc.next();
+mongo> executionStats(explainJson.executionStats);
+```
 
 ## Internals
 
@@ -168,22 +242,37 @@ Clustered Collections in 5.3 merged the two index and `_id` index's leaves are t
 
 ## Indexes
 
-[Indexing Strategies - Database Manual v8.0 - MongoDB Docs](https://www.mongodb.com/docs/manual/applications/indexes/)
+[Indexing Strategies - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/applications/indexes/)
 [How To Use Indexes in MongoDB | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-indexes-in-mongodb)
 
-[Indexes - Database Manual v8.0 - MongoDB Docs](https://www.mongodb.com/docs/manual/indexes/)
-[Compound Indexes - Database Manual v8.0 - MongoDB Docs](https://www.mongodb.com/docs/manual/core/indexes/index-types/index-compound/)
-[Multikey Indexes - Database Manual v8.0 - MongoDB Docs](https://www.mongodb.com/docs/manual/core/indexes/index-types/index-multikey/) for arrays in documents
-[Hashed Indexes - Database Manual v8.0 - MongoDB Docs](https://www.mongodb.com/docs/manual/core/indexes/index-types/index-hashed/) when index field > 1024 bytes
-[db.collection.createIndex() - Database Manual v8.0 - MongoDB Docs](https://www.mongodb.com/docs/manual/reference/method/db.collection.createIndex/)
+[Indexes - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/indexes/)
+[Compound Indexes - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/core/indexes/index-types/index-compound/)
+[Multikey Indexes - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/core/indexes/index-types/index-multikey/) for arrays in documents
+[Hashed Indexes - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/core/indexes/index-types/index-hashed/)when index field > 1024 bytes
+[db.collection.createIndex() (mongosh method) - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/reference/method/db.collection.createindex/)
 
 [\[SERVER-3294\] Ability to keep data on disk in ~ index order - MongoDB Jira](https://jira.mongodb.org/browse/SERVER-3294) WiredTiger does not implement (and cannot guarantee) index clustering on disk level
+
+```
+# mongosh
+# show indexes
+> db.collection.getIndexes()
+
+# create index
+> db.collection.createIndex({ "key": 1 },   {
+      unique: true,
+      sparse: true,
+      expireAfterSeconds: 3600
+  })
+
+# can use `db.collection.createIndexes()` if they share the same options
+```
 
 ### Text Search
 
 Create a text index, the use `collection.find( { $text: { $search: value } } )`
 
-[Perform a Text Search (Self-Managed Deployments) - Database Manual v8.0 - MongoDB Docs](https://www.mongodb.com/docs/manual/core/link-text-indexes/)
+[Text Search on Self-Managed Deployments - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/core/text-search/on-prem/)
 [How To Perform Full-text Search in MongoDB | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-perform-full-text-search-in-mongodb)
 
 [mongodb - Text search query for text "other" always returns no results? - Stack Overflow](https://stackoverflow.com/questions/35122049/text-search-query-for-text-other-always-returns-no-results) stemmed word match, non-language words must be exact match
@@ -191,10 +280,10 @@ Create a text index, the use `collection.find( { $text: { $search: value } } )`
 stop words are by default skipped, use `{"language": "none"}` when creating index to override this behavior
 [mongo/src/mongo/db/fts at v4.4 · mongodb/mongo · GitHub](https://github.com/mongodb/mongo/tree/v4.4/src/mongo/db/fts)
 
-[$regex - Database Manual v8.0 - MongoDB Docs](https://www.mongodb.com/docs/manual/reference/operator/query/regex/)
+[$regex - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/reference/operator/query/regex/)
 `db.collection.find( { field: { $regex: query, $options: "i" } } )`
 
-### TTL/Auto expiry
+### TTL (Auto Expiry)
 
 Create index on a date field with `expireAfterSeconds` option
 
@@ -205,8 +294,8 @@ db.collection.createIndex({ expireAt: 1 }, { expireAfterSeconds: 0 }); // manual
 
 Using manual field you can change the expire period without recreating the index.
 
-[TTL Indexes - Database Manual v8.0 - MongoDB Docs](https://www.mongodb.com/docs/manual/core/index-ttl/)
-[Expire Data from Collections by Setting TTL - Database Manual v8.0 - MongoDB Docs](https://www.mongodb.com/docs/manual/tutorial/expire-data/)
+[TTL Indexes - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/core/index-ttl/)
+[Expire Data from Collections by Setting TTL - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/tutorial/expire-data/)
 [How to Erase Expired Docs Automatically with MongoDB (TTL index) | Hacker Noon](https://hackernoon.com/how-to-erase-expired-docs-automatically-with-mongodb-ttl-index-97283wll)
 [MongoDB Auto Expire Documents - DEV Community](https://dev.to/sks147/mongodb-auto-expire-documents-6c9)
 
@@ -216,7 +305,7 @@ Since 3.6, provides causal consistency, multi-document transactions
 
 [MongoDB’s ACID Transaction Guarantee | MongoDB](https://www.mongodb.com/products/capabilities/transactions)
 [Transactions - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/core/transactions/)
-[Session - Database Manual v8.0 - MongoDB Docs](https://www.mongodb.com/docs/manual/reference/method/Session/)
+[Session - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/reference/method/session/)
 
 [A Node.js Perspective on MongoDB 4.0: Transactions | www.thecodebarbarian.com](http://thecodebarbarian.com/a-node-js-perspective-on-mongodb-4-transactions.html)
 
@@ -335,13 +424,17 @@ if (!john) {
 [6 Rules of Thumb for MongoDB Schema Design: Part 2 | MongoDB](https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design-part-2)
 [6 Rules of Thumb for MongoDB Schema Design: Part 3 | MongoDB](https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design-part-3)
 
-## Aggregation (Join)
+## Aggregation
 
 > MongoDB 5.0 deprecated map-reduce and improved aggregation pipeline
+> use `$lookup` and `$unwind` for "joining" operations
 
 [Aggregation Operations — MongoDB Manual](https://www.mongodb.com/docs/manual/aggregation/)
-[Aggregation Pipeline Operators — MongoDB Manual](https://www.mongodb.com/docs/manual/reference/operator/aggregation/)
+[Complete Aggregation Pipeline Tutorials - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/tutorial/aggregation-complete-examples/#std-label-aggregation-complete-examples)
 [Aggregation Reference — MongoDB Manual](https://www.mongodb.com/docs/manual/reference/aggregation/)
+[Aggregation Stages - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/reference/mql/aggregation-stages/)
+[Expressions - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/reference/mql/expressions/) operators can also be used for stages
+[Updates with Aggregation Pipeline - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/tutorial/update-documents-with-aggregation-pipeline/#std-label-updates-agg-pipeline)
 [MongoDB Aggregation: tutorial with examples and exercises | Studio 3T](https://studio3t.com/knowledge-base/articles/mongodb-aggregation-framework/)
 
 `$lookup` is used for join, `$unwind` is used for flatten array (expanding to multiple documents so the array elements are top level documents)
@@ -359,8 +452,8 @@ if (!john) {
 
 [node.js - Mongoose (mongodb) batch insert? - Stack Overflow](https://stackoverflow.com/questions/16726330/mongoose-mongodb-batch-insert/24848148#24848148) no need to use Bulk API, `Model.collection.insertMany()` is fast enough (and without out of heap issue) (`Model.insertMany()` suffers from these issues)
 [javascript - Bulk insert in MongoDB using mongoose - Stack Overflow](https://stackoverflow.com/questions/37379180/bulk-insert-in-mongodb-using-mongoose/37379532)
-[Bulk Operations in MongoDB - dbKoda - Medium](https://medium.com/dbkoda/bulk-operations-in-mongodb-ed49c109d280)
-[Guy Harrison - Yet Another Database Blog - Bulk inserts in MongoDB](http://guyharrison.squarespace.com/blog/2016/11/7/bulk-inserts-in-mongodb.html)
+
+[Bulk Operations in MongoDB. Like most databases, mongoDB has… | by Guy Harrison | dbKoda | Medium](https://web.archive.org/web/20251117031201/https://medium.com/dbkoda/bulk-operations-in-mongodb-ed49c109d280)
 
 [mongodb - Difference between findOneAndDelete() and findOneAndRemove() - Stack Overflow](https://stackoverflow.com/questions/50602037/difference-between-findoneanddelete-and-findoneandremove) prefer `findOneAndDelete()`
 
@@ -385,9 +478,3 @@ collection.updateMany(QUERY, [
   },
 ]);
 ```
-
----
-
-## MangoDB
-
-[A truly Open Source MongoDB alternative - getmango](https://www.mangodb.io/) expose PostgreSQL as MongoDB API

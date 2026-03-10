@@ -2,7 +2,7 @@
 title: Passwords
 description: ""
 created: 2015-04-08
-updated: 2025-10-27
+updated: 2026-02-01
 tags:
   - passwords
   - security
@@ -67,6 +67,7 @@ tags:
 [Manage your passwords in the Linux terminal | Opensource.com](https://opensource.com/article/22/1/manage-passwords-linux-terminal)
 [This is perhaps my favorite password manager for the terminal - YouTube](https://www.youtube.com/watch?v=FhwsfH2TpFA)
 [Linux Pass: A Text-Based Password Manager - The New Stack](https://thenewstack.io/linux-pass-a-text-based-password-manager/)
+[carnager/rofi-pass: rofi frontend for pass](https://github.com/carnager/rofi-pass)
 
 [gopass - the team password manager](https://www.gopass.pw/) ❗!important
 [gopasspw/gopass: The slightly more awesome standard unix password manager for teams](https://github.com/gopasspw/gopass)
@@ -111,6 +112,8 @@ Jason Rebholz - TeachMeCyber
 > see [[web-authentication#FIDO]]
 
 [What are Passkeys? | Are Passwords Dead? | A Security Expert Explains - YouTube](https://www.youtube.com/watch?v=AhP0q8c38QU)
+[What is a Passkey? - Computerphile - YouTube](https://www.youtube.com/watch?v=xYfiOnufBSk)
+[Implementing Passkeys in Practice - Computerphile - YouTube](https://www.youtube.com/watch?v=lypcC79k-gg)
 [Faster Logins with Passkeys | Bitwarden Passkey Tutorial - YouTube](https://www.youtube.com/watch?v=o4asbRziCD0)
 [Say Goodbye to Passwords: Passkeys Explained Simply - YouTube](https://www.youtube.com/watch?v=QYdHm7zoF_M)
 [Passkeys SUCK (here’s why + how I use them) - YouTube](https://www.youtube.com/watch?v=_tQbWop1P7o)
@@ -124,6 +127,7 @@ FIDO2 YubiKeys can store Passkeys
 
 [Wallets vs. Passkeys: What CISOs Need To Know](https://www.itprotoday.com/identity-management-access-control/wallets-vs-passkeys-what-cisos-need-to-know)
 [Why It’s Time to Switch to This Phishing-Resistant Password Alternative](https://www.makeuseof.com/reasons-switch-passcode-instead-password/)
+[Passkeys were designed to simplify logins, but I’ve never been more confused](https://www.makeuseof.com/passkeys-designed-to-simplify-logins-but-im-more-confused/)
 [What is Passkey? | Trusted Reviews](https://www.trustedreviews.com/explainer/what-is-passkey-4231178)
 [Is Passkey Authentication More Secure Traditional Passwords?](https://www.itprotoday.com/identity-management-and-access-control/passkey-authentication-more-secure-traditional-passwords)
 

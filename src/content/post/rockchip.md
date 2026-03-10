@@ -2,7 +2,7 @@
 title: Rockchip - comp/hardware
 description: ""
 created: 2018-10-20
-updated: 2025-10-10
+updated: 2026-01-13
 tags:
   - iot
   - rk3288
@@ -131,7 +131,7 @@ sudo upgrade_tool rd
 
 ## GPIO
 
-[RK3288 的 gpio 设置 - keleming1 的博客 - CSDN 博客](https://blog.csdn.net/keleming1/article/details/51034766) !important
+[RK3288 的 gpio 设置 - keleming1 的博客 - CSDN 博客](https://blog.csdn.net/keleming1/article/details/51034766) ❗!important
 `/kernel/drivers/pinctrl/pinctrl-rockchip.c`
 `/kernel/arch/arm/boot/dts/rk3288-pinctrl.dtsi`
 
@@ -175,7 +175,7 @@ Tinker Board S has built-in 16G eMMC flash
 
 ## Fireduino
 
-[Fireduino](http://www.t-firefly.com/doc/product/index/id/7.html) !important
+[Fireduino](http://www.t-firefly.com/doc/product/index/id/7.html) ❗!important
 RKNanoD
 [Fireduino Arduino Compatible Board Features Rockchip RKnanoD Dual Core Cortex-M3 MCU (Crowdfunding)](https://www.cnx-software.com/2016/06/21/fireduino-arduino-compatible-board-features-rockchip-rknanod-dual-core-cortex-m3-mcu-crowdfunding/)
 [Using the new Fireduino board with Linux - YouTube](https://www.youtube.com/watch?v=7ZgoaiY37m8) have to start IDE as root

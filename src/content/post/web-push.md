@@ -2,7 +2,7 @@
 title: Web Push Technologies
 description: ""
 created: 2024-03-12
-updated: 2025-01-09
+updated: 2025-12-03
 tags:
   - server-send-event
   - web
@@ -17,6 +17,10 @@ tags:
 [[grpc]]
 [[web-socket]]
 [[web-rtc]]
+
+[Centrifugo – scalable real-time messaging server in a language-agnostic way. Set up once and forever. | Centrifugo](https://centrifugal.dev/)
+[centrifugal/centrifugo: Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably, socket.io, Phoenix.PubSub, SignalR. Set up once and forever.](https://github.com/centrifugal/centrifugo)
+[Centrifugo v4 released – a little revolution | Centrifugo](https://centrifugal.dev/blog/2022/07/19/centrifugo-v4-released)
 
 ---
 
@@ -120,9 +124,7 @@ Intermediaries may buffer response leading to high latency
 
 [WebTransport](https://www.w3.org/TR/webtransport/)
 [w3c/webtransport: WebTransport is a web API for flexible data transport](https://github.com/w3c/webtransport)
+[Using WebTransport  |  Capabilities  |  Chrome for Developers](https://developer.chrome.com/docs/capabilities/web-apis/webtransport)
+[What is WebTransport and can it replace WebSockets?](https://ably.com/blog/can-webtransport-replace-websockets)
 
-[Experimenting with WebTransport](https://web.dev/webtransport/)
-[Experimenting with QUIC and WebTransport in Go - Centrifugo](https://centrifugal.github.io/centrifugo/blog/quic_web_transport/)
-
-[What is WebTransport and can it replace WebSockets? | Ably Blog: Data in Motion](https://ably.com/blog/can-webtransport-replace-websockets)
 [WebTransport is a Game Changer Protocol - YouTube](https://www.youtube.com/watch?v=SEF8VBYlLik)

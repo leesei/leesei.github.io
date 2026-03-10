@@ -2,7 +2,7 @@
 title: Virtualization
 description: ""
 created: 2015-05-10
-updated: 2025-10-14
+updated: 2025-12-18
 tags:
   - linux
   - virtualbox
@@ -62,7 +62,7 @@ Intel's VTx technology improved the performance of visualization (rendering bina
 [Documents - KVM](https://www.linux-kvm.org/page/Documents)
 [How to Install Kvm on Ubuntu 20.04 | Linuxize](https://linuxize.com/post/how-to-install-kvm-on-ubuntu-20-04/)
 
-[Virtual Machine Manager](https://virt-manager.org/) virt-manager
+[Virtual Machine Manager](https://virt-manager.org/) `virt-manager`
 
 [How to Use Virtualbox VMs on KVM In Linux](https://www.tecmint.com/migrate-virtualbox-vms-into-kvm-vms/amp/)
 

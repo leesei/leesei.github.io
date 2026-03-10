@@ -2,7 +2,7 @@
 title: Kotlin
 description: ""
 created: 2019-04-04
-updated: 2025-01-09
+updated: 2026-01-13
 tags:
   - comp/lang
   - kotlin
@@ -131,7 +131,7 @@ Scratches can be created in IntelliJ IDEA to show result of each statement (and 
 
 Good for veteran programmers
 
-[Kotlin for Java Developers | Coursera](https://www.coursera.org/learn/kotlin-for-java-developers/) !important, audit for free, with exercises in IntelliJ IDEA Educational Edition
+[Kotlin for Java Developers | Coursera](https://www.coursera.org/learn/kotlin-for-java-developers/) ❗!important, audit for free, with exercises in IntelliJ IDEA Educational Edition
 
 [The Kotlin Guide for the Busy Java Developer – ProAndroidDev](https://proandroiddev.com/the-kotlin-guide-for-the-busy-java-developer-93dde84a77b7)
 [Kotlin for Python developers | kotlin-for-python-developers](https://khan.github.io/kotlin-for-python-developers/)

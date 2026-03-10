@@ -2,7 +2,7 @@
 title: Business Tools
 description: ""
 created: 2018-10-27
-updated: 2025-10-17
+updated: 2026-02-24
 tags:
   - business
 ---
@@ -156,12 +156,27 @@ tags:
 [Joget Workflow for Google Apps - G Suite Marketplace](https://gsuite.google.com/marketplace/app/joget_workflow_for_google_apps/337924726811)
 [Joget Workflow v6 - Apps and the App Center - YouTube](https://www.youtube.com/watch?v=WrKdr4FR2Bc)
 
-[Wexflow - Open source workflow engine](https://wexflow.github.io/)
-[Imixs-Workflow | Open Source Workflow Engine](https://www.imixs.org/)
+[Wexflow - Open source workflow engine](https://wexflow.github.io/) MIT
+[aelassas/wexflow: Workflow Automation Engine](https://github.com/aelassas/wexflow)
 
-[Budibase | Build internal tools in minutes, the easy way](https://budibase.com/)
+[AI-first automation for every team · Activepieces](https://www.activepieces.com/) Open core
+[activepieces/activepieces: AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents](https://github.com/activepieces/activepieces)
+
+[Windmill | Build, deploy and monitor internal software at scale](https://www.windmill.dev/) AGPLv3
+[windmill-labs/windmill: Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.](https://github.com/windmill-labs/windmill)
+
+[Pipedream | Connect APIs, AI, databases and more](https://pipedream.com/)
+[PipedreamHQ/pipedream: Connect APIs, remarkably fast. Free for developers.](https://github.com/PipedreamHQ/pipedream)
+
+[Imixs-Workflow | Open Source Workflow Engine](https://www.imixs.org/) EPL(Eclipse)/GPL
+
+[imixs/imixs-workflow: The open source technology for business process management](https://github.com/imixs/imixs-workflow)
+
+[Budibase | Build internal tools in minutes, the easy way](https://budibase.com/) SaaS
 
 ### n8n
+
+> free for internal workflow only
 
 [n8n.io - Free and Open Workflow Automation Tool](https://n8n.io/)
 [Explore n8n Docs: Your Resource for Workflow Automation and Integrations | n8n Docs](https://docs.n8n.io/)
@@ -172,6 +187,7 @@ tags:
 [AI-Powered Feature Engineering with n8n: Scaling Data Science Intelligence - KDnuggets](https://www.kdnuggets.com/ai-powered-feature-engineering-with-n8n-scaling-data-science-intelligence)
 [AI 狂潮下的求生指南：為何只懂 ChatGPT 讓你離失業更近一步，n8n AI Agent 才是你的救命稻草 - YouTube](https://www.youtube.com/watch?v=rgU0mbVpg0k)
 [我找到了最好用的AI工作流工具 看完就懂 - YouTube](https://www.youtube.com/watch?v=31fHVMs6PVE)
+[n8n + AI + X，如何吃掉一切重复工作？我用AI+飞书+n8n，把短视频生产和小红书自动发布变成"按时打卡"？7x24小时AI短视频自动化运营系统 - YouTube](https://www.youtube.com/watch?v=Sj133Lm320E)
 
 [n8n - an open source, self hosted info transform & workflow automation tool w/ drag and drop ease. - YouTube](https://www.youtube.com/watch?v=lpRsqiBc2JQ)
 [Master 80% of n8n in 36 Minutes - YouTube](https://www.youtube.com/watch?v=e3OV3LnrS7o)
@@ -179,6 +195,8 @@ tags:
 [You NEED to Use n8n RIGHT NOW!! (Free, Local, Private) - YouTube](https://www.youtube.com/watch?v=ONgECvZNI3o)
 [n8n Now Runs My ENTIRE Homelab - YouTube](https://www.youtube.com/watch?v=budTmdQfXYU)
 [Self-Host n8n in 20 Minutes - Easiest & Cheapest Setup - YouTube](https://www.youtube.com/watch?v=c9XyFfzRX8Q)
+
+[WTF dude.. - YouTube](https://www.youtube.com/watch?v=UlZjPsTWg-U)
 
 Hostinger
 [Self-hosted n8n | Secure and scalable automation](https://www.hostinger.com/self-hosted-n8n)
@@ -188,6 +206,18 @@ Hostinger
 [5 Things I Wish I Knew Before Learning n8n - YouTube](https://www.youtube.com/watch?v=ofC4OeNjDx8)
 [Stop Learning n8n in 2025... Learn THIS Instead - YouTube](https://www.youtube.com/watch?v=Dif1hwBejCk)
 [STOP Mastering n8n... Learn What the 1% Are Doing (Before It’s Too Late) - YouTube](https://www.youtube.com/watch?v=Y9wZA2MQGd8)
+
+### Zapier
+
+[Zapier: Automate AI Workflows, Agents, and Apps](https://zapier.com/)
+
+Free tier:
+
+- 100 tasks per month
+- 2 step Zaps (Trigger + Action)
+
+[9 Everyday Tasks You Can Automate Using Zapier](https://www.makeuseof.com/everyday-tasks-automate-using-zapier/)
+[It’s high time you stopped sleeping on this brilliant free automation tool](https://www.makeuseof.com/brilliant-free-automation-tool/)
 
 ## SMS Reception
 
@@ -314,6 +344,9 @@ US and Canada long codes requires A2P 10DLC registration
 [Create Free Online Surveys, Quizzes and Forms - FreeOnlineSurveys](https://freeonlinesurveys.com/)
 [Free Online Form Builder & Form Creator | JotForm](https://www.jotform.com/)
 [Cognito Forms: Free Online Form Builder](https://www.cognitoforms.com/)
+
+[The Form.io Core Is An Open Source Form Builder - Form.io](https://form.io/open-source/)
+[formio/formio: A Form and Data Management Platform for Progressive Web Applications.](https://github.com/formio/formio)
 
 [Join a presentation - Mentimeter](https://www.menti.com/) response to word cloud
 

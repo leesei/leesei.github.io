@@ -2,7 +2,7 @@
 title: Portable Document Format (PDF)
 description: ""
 created: 2018-10-27
-updated: 2025-11-07
+updated: 2026-02-10
 tags:
   - business
   - desktop
@@ -135,11 +135,14 @@ pdftoppm -f <start_page> -l end_page -jpeg <input.pdf> <output>
 
 [4 Free Methods to Remove Watermarks From PDFs](https://www.makeuseof.com/free-methods-to-remove-watermarks-pdf/)
 
+### PDF24
+
 [Solutions for all PDF problems - 100% free - PDF24](https://www.pdf24.org/en/) Windows
+[I can’t believe this full PDF tool is completely free](https://www.makeuseof.com/best-free-pdf-tool-pdf24/)
 
 ### `pdfcpu`
 
-[PDF processor api & cli | pdfcpu](http://pdfcpu.io/)
+[PDF processor api & cli | pdfcpu](http://pdfcpu.io/) written in Go
 [pdfcpu/pdfcpu: A PDF processor written in Go.](https://github.com/pdfcpu/pdfcpu)
 
 ### `PDFtk`

@@ -2,7 +2,7 @@
 title: Reverse Engineering
 description: ""
 created: 2023-03-01
-updated: 2025-11-03
+updated: 2026-02-03
 tags:
   - security
 ---
@@ -31,6 +31,14 @@ Low Level Learning
 
 [Reverse Engineering 101 - Reverse Engineering - 0x00sec - The Home of the Hacker](https://0x00sec.org/t/reverse-engineering-101/1233)
 
+[Reverse Engineering 3011: Reversing C++ Binaries | OpenSecurityTraining2](https://www.ost2.fyi/RE3011)
+[Reverse Engineering 3011: Reversing C++ Binaries - YouTube](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-nHQqoXhGE2IJ0ldDSxOpz3) 2023-05
+[2013 The Life of Binaries (major update) - YouTube](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-n_Na6jwqopTt1Ki57vMIc3)
+[2013 Intro Reverse Engineering Software - YouTube](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-nXcDG89jS9iqKBnNHmz7Qw)
+
+[Vulnerabilities 1001: C-Family Software Implementation Vulnerabilities | OpenSecurityTraining2](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Vulns1001_C-family+2023_v1/about)
+[Vulnerabilities 1002: C-Family Software Implementation Vulnerabilities | OpenSecurityTraining2](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Vulns1002_C-family+2023_v1/about)
+
 [Reverse engineering visual novels 101 – Hacker Noon](https://hackernoon.com/reverse-engineering-visual-novels-101-d0bc3bf7ab8)
 [Reverse engineering visual novels 101, part 2 – Hacker Noon](https://hackernoon.com/reverse-engineering-visual-novels-101-part-2-9258f547262a)
 
@@ -56,9 +64,6 @@ John Hammond
 [intelxed/xed: x86 encoder decoder](https://github.com/intelxed/xed)
 
 [io12/pwninit: pwninit - automate starting binary exploit challenges](https://github.com/io12/pwninit)
-
-[angr](http://angr.io/) symbolic execution
-[angr/angr: A powerful and user-friendly binary analysis platform!](https://github.com/angr/angr)
 
 [CyberChef](https://gchq.github.io/CyberChef/)
 [gchq/CyberChef: The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis](https://github.com/gchq/CyberChef)
@@ -120,6 +125,7 @@ John Hammond
 [HackadayU: Reverse Engineering with Ghidra Class 1 - YouTube](https://www.youtube.com/watch?v=d4Pgi5XML8E)
 [Ghidra - Journey from Classified NSA Tool to Open Source - YouTube](https://www.youtube.com/watch?v=kx2xp7IQNSc)
 [Reversing WannaCry - YouTube](https://www.youtube.com/playlist?list=PLniOzp3l9V83Yf52IXJTvW9rjstdqkduP)
+[Debuggers 1102: Introductory Ghidra | OpenSecurityTraining2](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Dbg1102_IntroGhidra+2024_v2/about)
 
 ## Hopper Disassembler
 
@@ -135,7 +141,25 @@ John Hammond
 
 ## Cutter
 
+> Cutter is GUI for multi-platform reverse engineering tool Rizin
+
 [Cutter](https://cutter.re/)
+[Rizin](https://rizin.re/)
+
+## Binary Ninja
+
+> free for non-commercial use
+
+[Binary Ninja](https://binary.ninja/)
+[Debuggers 1103: Introductory Binary Ninja | OpenSecurityTraining2](https://www.ost2.fyi/Dbg1103)
+
+## Symbolic Analysis/Symbolic Execution
+
+[Reverse Engineering 3201: Symbolic Analysis | OpenSecurityTraining2](https://www.ost2.fyi/RE3201)
+[Reverse Engineering 3201: Symbolic Analysis - YouTube](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-mNJiNoZJfw2_-83lhwi5rK) 2023-05
+
+[angr](http://angr.io/)
+[angr/angr: A powerful and user-friendly binary analysis platform!](https://github.com/angr/angr)
 
 ## Memory Layout
 
@@ -306,15 +330,26 @@ objdump -d -Mintel <binary>
 [Fibratus Video Teaser – Rabbit Stack](https://rabbitstack.github.io/operating%20systems/fibratus-video-teaser/) run filter or Python filaments
 [Fibratus Teaser - YouTube](https://www.youtube.com/watch?v=7Isrn-eb8Ws)
 
+[HyperDbg Debugger](https://hyperdbg.org/)
+[HyperDbg/HyperDbg: State-of-the-art native debugging tools](https://github.com/HyperDbg/HyperDbg)
+[Debuggers 3301: HyperDbg | OpenSecurityTraining2](https://www.ost2.fyi/Dbg3301)
+
 ## ReClass.NET
 
 [ReClassNET/ReClass.NET: More than a ReClass port to the .NET platform.](https://github.com/ReClassNET/ReClass.NET)
 
 [Reclass Tutorial - ReClass.NET - How To Reverse Structures - YouTube](https://www.youtube.com/watch?v=vQb21RM9-5M)
 
+## WinDbg
+
+[Debuggers 1011: Introductory WinDbg | OpenSecurityTraining2](https://www.ost2.fyi/Dbg1011)
+[Debuggers 2011: Intermediate WinDbg | OpenSecurityTraining2](https://www.ost2.fyi/Dbg2011)
+
 ## gdb
 
 [[learn-to-code#Debugging]]
+
+[Debuggers 1012: Introductory GDB | OpenSecurityTraining2](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Dbg1012_IntroGDB+2024_v1/about)
 
 [nakst/gf: A GDB frontend for Linux.](https://github.com/nakst/gf)
 

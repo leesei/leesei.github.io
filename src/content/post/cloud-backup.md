@@ -2,7 +2,7 @@
 title: Cloud Backup
 description: ""
 created: 2016-04-02
-updated: 2025-10-10
+updated: 2026-02-06
 tags:
   - web
 ---
@@ -254,8 +254,9 @@ The founders of the project are dissatisfied with ownCloud.com's management, IP 
 
 [OpenMediaVault - The open network attached storage solution](http://www.openmediavault.org/)
 [Build your own NAS with OpenMediaVault](https://www.howtoforge.com/tutorial/install-open-media-vault-nas/)
-[omv-extras.org Joomla](http://omv-extras.org/joomla/)
-[omv-extras.org Simple](http://omv-extras.org/simple/)
+[OpenMediaVault, a Linux-Based Solution for Building a NAS - The New Stack](https://thenewstack.io/openmediavault-a-linux-based-solution-for-building-a-nas/)
+
+[start [omv-extras.org]](https://wiki.omv-extras.org/)
 
 ## FreeNAS/TrueNAS
 
@@ -270,9 +271,17 @@ The founders of the project are dissatisfied with ownCloud.com's management, IP 
 
 ## fnOS
 
-[飞牛私有云 fnOS](https://www.fnnas.com/)
+[飞牛私有云 fnOS](https://www.*fnnas*.com/)
 [全新NAS系统：飞牛fnOS沉浸式体验、相册、影视体验好像有点意思？！全兼容X86平台不挑硬件、黑群外的好选择 - YouTube](https://www.youtube.com/watch?v=dR7BuiJ8IqY)
 [飞牛NAS系统「fnOS」公测版 深度体验 - YouTube](https://www.youtube.com/watch?v=CfsWagvk3mc)
+
+## Seafile
+
+> Google Drive like delta-sync
+
+[Seafile - 开源的企业私有网盘 私有云存储软件 企业维基 知识管理](https://www.seafile.com/home/)
+
+[This Nextcloud alternative turned my PC into a local Google Drive — without the cloud](https://www.makeuseof.com/nextcloud-alternative-turned-pc-into-local-google-drive-without-cloud/)
 
 ## Unraid
 

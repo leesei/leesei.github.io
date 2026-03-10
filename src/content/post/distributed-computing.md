@@ -2,7 +2,7 @@
 title: Distributed Computing
 description: ""
 created: 2016-09-21
-updated: 2025-10-10
+updated: 2026-01-13
 tags:
   - web
 ---
@@ -66,6 +66,8 @@ A split brain is what happens when you have multiple autonomous sub-clusters for
 [Byzantine Fault Tolerance Explained | Binance Academy](https://academy.binance.com/blockchain/byzantine-fault-tolerance-explained)
 [The-Byzantine-Generals-Problem.pdf](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Byzantine-Generals-Problem.pdf)
 [How does blockchain solve the Byzantine generals problem?](https://cointelegraph.com/blockchain-for-beginners/how-does-blockchain-solve-the-byzantine-generals-problem)
+
+[The Two Generals’ Problem - YouTube](https://www.youtube.com/watch?v=IP-rGJKSZ3s) send idempotent token with message
 
 ## Node.js
 
@@ -187,7 +189,7 @@ Spectrum-X from nVidia
 [Different CUDA versions shown by nvcc and NVIDIA-smi - Stack Overflow](https://stackoverflow.com/questions/53422407/different-cuda-versions-shown-by-nvcc-and-nvidia-smi)
 
 `nvidia-smi`'s return the CUDA driver's version (around 410.48), not the CUDA runtime version, use `nvcc --version`
-[Different CUDA versions shown by nvcc and NVIDIA-smi - Stack Overflow](https://stackoverflow.com/questions/53422407/different-cuda-versions-shown-by-nvcc-and-nvidia-smi) !important
+[Different CUDA versions shown by nvcc and NVIDIA-smi - Stack Overflow](https://stackoverflow.com/questions/53422407/different-cuda-versions-shown-by-nvcc-and-nvidia-smi) ❗!important
 [How to get the CUDA version? - Stack Overflow](https://stackoverflow.com/questions/9727688/how-to-get-the-cuda-version)
 
 [PyCUDA](https://mathema.tician.de/software/pycuda/)

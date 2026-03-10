@@ -2,7 +2,7 @@
 title: Natural Language
 description: ""
 created: 2015-04-10
-updated: 2025-10-10
+updated: 2026-02-25
 tags:
   - chinese
   - korean
@@ -48,6 +48,9 @@ A language is a dialect with an army and a navy. - Max Weinreich
 
 [Linguistics - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtP5mp25nStsuDzk2blncJDW)
 [The Linguistics Iceberg Explained - YouTube](https://www.youtube.com/watch?v=GFz6KqZurFY)
+
+[八項奧斯卡提名 | 挖掘外星人入侵背後的，語言學奧秘！ - YouTube](https://www.youtube.com/watch?v=I4HgvhWsfsk) phoneme, meaning derived from differences of concepts
+[我們的語言何止是交流的工具，更是......| 揭開語言的面紗，難道真的自性本空？ - YouTube](https://www.youtube.com/watch?v=aLSUA-Ow940)
 
 ## Humor
 
@@ -103,7 +106,8 @@ Wanda Skyes
 
 [hapi](https://xyne.archlinux.ca/projects/hapi/) annotating Mandarin Chinese with phonetics (pinyin, zhuyin, etc.) and colors by tone
 
-[ABCs of Chinese - YouTube](https://www.youtube.com/channel/UC3KmSR_bllwxv0V1vO-nQDA)
+[漢字叔叔講漢字 - YouTube](https://www.youtube.com/@UncleHanzi)
+[ABCs of Chinese - YouTube](https://www.youtube.com/@ABCsOfChinese)
 [汉字密码 - YouTube](https://www.youtube.com/playlist?list=PLBsaUodNhf0_GnXrvXLreKDCvZ3Dd8nMr)
 
 [金庸版本的奇妙世界 @YLib Blog](http://blog.ylib.com/butterfly)
@@ -144,6 +148,8 @@ Wanda Skyes
 
 [汉语拼音 - Wikiwand](https://www.wikiwand.com/zh/%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3)
 [拼音（拼读音节的过程）\_百度百科](https://baike.baidu.com/item/%E6%8B%BC%E9%9F%B3/322252)
+
+[普通話拼音音節拼讀表](https://www.ifreesite.com/pinyin/phonics.htm)
 
 [香港政府粵語拼音 - Wikiwand](https://www.wikiwand.com/zh/%E9%A6%99%E6%B8%AF%E6%94%BF%E5%BA%9C%E7%B2%B5%E8%AA%9E%E6%8B%BC%E9%9F%B3)
 [香港語言學學會粵語拼音方案 - Wikiwand](https://www.wikiwand.com/zh/%E9%A6%99%E6%B8%AF%E8%AA%9E%E8%A8%80%E5%AD%B8%E5%AD%B8%E6%9C%83%E7%B2%B5%E8%AA%9E%E6%8B%BC%E9%9F%B3%E6%96%B9%E6%A1%88)

@@ -2,7 +2,7 @@
 title: Ancient Egypt History
 description: ""
 created: 2015-10-09
-updated: 2025-10-10
+updated: 2026-02-05
 tags:
   - history
   - history/egypt
@@ -79,6 +79,9 @@ The first two Dynasties have human sacrifices (殉葬)
 [金字塔建造記錄出土？梅勒日記被稱為「21 世紀古埃及最重要發現」！【老肉雜談】 - YouTube](https://www.youtube.com/watch?v=4EIGcUo2gZ8)
 [Updating the Great Pyramid Internal Ramp Theory - YouTube](https://www.youtube.com/watch?v=_JlnMs616Z0)
 [How Were the Pyramids Built? - YouTube](https://www.youtube.com/watch?v=lotbZQ55SgU)
+
+[PYRAMIDS Architecture, Power, and Mystery](https://damileepyramids.framer.website/)
+[This New Pyramid Theory Explains the Missing Evidence - YouTube](https://www.youtube.com/watch?v=h5kWDOuY2Uo) a Pyramids is "unbuilt"
 
 [金字塔：年齡？用途？建造者？建造方法？不能說的秘密？|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=KfQrQv72I8U)
 [金字塔的秘密，特斯拉知曉：1984年，一個工程師破解了所有的密碼，原來，那個全球無線輸電的構想並不玄幻……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=DtiWP-Tpg3M)

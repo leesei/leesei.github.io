@@ -2,7 +2,7 @@
 title: Arduino
 description: ""
 created: 2018-09-12
-updated: 2025-10-10
+updated: 2026-01-13
 tags:
   - arduino
   - iot
@@ -25,8 +25,8 @@ tags:
 
 [Arduino to Go | Introduction to the Arduino and Physical Computing](http://arduinotogo.com/)
 [Adafruit Learning System](https://learn.adafruit.com/category/learn-arduino?view=all) all
-[Adafruit Learning System](https://learn.adafruit.com/series/ladyadas-learn-arduino?view=all) !important, lady ada
-[Adafruit Learning System](https://learn.adafruit.com/series/learn-arduino) !important, simon monk
+[Adafruit Learning System](https://learn.adafruit.com/series/ladyadas-learn-arduino?view=all) ❗!important, Lady Ada
+[Adafruit Learning System](https://learn.adafruit.com/series/learn-arduino) ❗!important, Simon Monk
 [Free Online Arduino Class](https://www.instructables.com/class/Arduino-Class/)
 [Arduino Tutorials | Maker Pro](https://maker.pro/arduino/tutorial)
 [Arduino 101 » Linux Magazine](http://www.linux-magazine.com/Online/Features/Arduino-101)
@@ -149,7 +149,7 @@ Digispark/ATTiny86
 [How to use Atmel ATtiny85 with Arduino || Arduino tutorial - YouTube](https://www.youtube.com/watch?v=gff_Jxfqcio)
 
 [digispark:tutorials:connecting [Digistump Wiki]](http://digistump.com/wiki/digispark/tutorials/connecting)
-[Installing Drivers and Programming the DigiSpark ATtiny85 dev boards - Tutorial - YouTube](https://www.youtube.com/watch?v=MmDBvgrYGZs) !important
+[Installing Drivers and Programming the DigiSpark ATtiny85 dev boards - Tutorial - YouTube](https://www.youtube.com/watch?v=MmDBvgrYGZs) ❗!important
 [Digispark Attiny 85 With Arduino IDE: 3 Steps](https://www.instructables.com/Digispark-Attiny-85-With-Arduino-IDE/)
 
 [How Do You Power the Digispark?](https://digistump.com/board/index.php?topic=16.0)

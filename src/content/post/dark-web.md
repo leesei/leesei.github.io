@@ -2,7 +2,7 @@
 title: Dark Web
 description: ""
 created: 2023-03-06
-updated: 2025-10-27
+updated: 2025-11-26
 tags:
   - security
   - web
@@ -34,6 +34,11 @@ tags:
 [How to be Invisible Online (and the hard truth about it)... - YouTube](https://www.youtube.com/watch?v=LEbAxsYRMcQ)
 [Be Invisible Online and Hack like a Ghost - YouTube](https://www.youtube.com/watch?v=4ljq8JMFbJM)
 [洋葱浏览器安全性最高？卡巴斯基爆出洋葱浏览器被第三方植入了专门窃取中文用户数据病毒「SIGNOW」 - YouTube](https://www.youtube.com/watch?v=GuYP47yQyDg)
+
+[Tractor](https://tractor.frama.io/tractor/)
+[Carburetor](https://tractor.frama.io/carburetor/)
+[I found a Linux tool for private browsing that isn’t a VPN or Tor](https://www.makeuseof.com/linux-tool-for-private-browsing-that-isnt-vpn-or-tor/)
+[Carburetor | The One-Click Privacy Tool for Linux (You Need This) - YouTube](https://www.youtube.com/watch?v=-7L2ZSH1tPY)
 
 [Full Documentary: Dark Web - YouTube](https://www.youtube.com/watch?v=cL3pEe47qyk)
 [Dark Web - Security | iamLucid - YouTube](https://www.youtube.com/playlist?list=PLVybQEgltqsJ2Jwh1xDEbilndy2s8t4Qe)

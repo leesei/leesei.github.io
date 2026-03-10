@@ -2,7 +2,7 @@
 title: eBook
 description: ""
 created: 2016-09-13
-updated: 2025-10-10
+updated: 2025-12-16
 tags:
   - ebook
 ---
@@ -142,6 +142,8 @@ kindlegen [-c0|-c2] <input>
 [How to use Pandoc to write a research paper | Opensource.com](https://opensource.com/article/18/9/pandoc-research-paper)
 [Turn your book into a website and an ePub using Pandoc | Opensource.com](https://opensource.com/article/18/10/book-to-website-epub-using-pandoc)
 [cheat_sheet_pandoc.pdf](https://opensource.com/sites/default/files/gated-content/cheat_sheet_pandoc.pdf)
+
+[Customizing pandoc to generate beautiful pdf and epub from markdown](https://learnbyexample.github.io/customizing-pandoc/)
 
 [Introducing My Workflow With Pandoc Markdown - YouTube](https://www.youtube.com/watch?v=lMIlNsi3eAY)
 [Pandoc Flavoured Markdown: Guide To Your First Document - YouTube](https://www.youtube.com/watch?v=xFuKLLLX85Y)
@@ -308,6 +310,7 @@ cd zshguide_html; ebook-convert zshguide.html ../zshguide.azw3
 [Jiumo Search 鸠摩搜索 - 文档搜索引擎](https://www.jiumodiary.com/) baidu search
 [苦瓜书盘](https://kgbook.com/)
 [明朝那些事儿-明朝那些事儿全集在线阅读](http://www.mingchaonaxieshier.com/)
+[電子書下載地圖](https://library.proletarian.me/ebook_map.html)
 
 [Leanpub: Publish Early, Publish Often](https://leanpub.com/) try adding `/read` to url
 [allinurl:https://leanpub.com read - Google Search](https://www.google.com.hk/search?sclient=psy-ab&site=&source=hp&q=allinurl:https://leanpub.com+read&oq=allinurl:https://leanpub.com+read)

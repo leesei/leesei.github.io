@@ -2,7 +2,7 @@
 title: History Europe
 description: ""
 created: 2016-09-12
-updated: 2025-10-10
+updated: 2026-02-12
 tags:
   - history
   - history/roman
@@ -14,6 +14,8 @@ tags:
 [Roman Republic - World History Encyclopedia](https://www.worldhistory.org/Roman_Republic/)
 [Roman Empire - World History Encyclopedia](https://www.worldhistory.org/Roman_Empire/)
 [Roman Empire Timeline - World History Encyclopedia](https://www.worldhistory.org/timeline/Roman_Empire/)
+Roman Empire split into 2 in 395 CE upon the death of Theodosius I
+Western Roman Empire fell under the Germans in 476 CE
 
 [Digital Map of the Roman Empire](http://pelagios.org/maps/greco-roman/)
 [Roman Empire: Timeline and Fall | HISTORY.com - HISTORY](https://www.history.com/topics/ancient-rome)

@@ -2,7 +2,7 @@
 title: Computer Fundamentals
 description: ""
 created: 2023-04-14
-updated: 2025-10-10
+updated: 2025-11-23
 tags:
   - comp/fundamental
   - comp/hardware
@@ -47,9 +47,14 @@ Computerphile
 
 ## Computer History
 
+[Vacuum tube - Wikiwand](https://www.wikiwand.com/en/articles/Vacuum_tube)
+[真空管 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E7%9C%9F%E7%A9%BA%E7%AE%A1)
+[学计算机的都应该看--电子管的原理 - YouTube](https://www.youtube.com/watch?v=rKZL0iPTJMQ)
+
 [Toppr: Better learning for better results](https://www.toppr.com/)
 [History of Computers: Parts, Networking, Operating Systems, FAQs](https://www.toppr.com/guides/computer-aptitude-and-knowledge/basics-of-computers/history-of-computers/)
 
+[How History Shaped the Programming Terms We Still Use Today - YouTube](https://www.youtube.com/watch?v=qgwrt7vYY4U)
 [【亦】唠唠计算机与 AI 的童年：大器晚成！六一儿童节特别篇 - YouTube](https://www.youtube.com/watch?v=-kGy0_8n68Y) history of computer
 [Intel predicted the future - YouTube](https://www.youtube.com/watch?v=5-eFLcCDNo8) Intel's education material from 1996
 

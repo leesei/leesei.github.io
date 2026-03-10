@@ -2,7 +2,7 @@
 title: Maker
 description: ""
 created: 2018-10-16
-updated: 2025-10-10
+updated: 2026-02-12
 tags:
   - maker
 ---
@@ -78,7 +78,7 @@ Clay like when opened, rubber like after one day.
 - 選擇性激光燒結 SLS/SLM
   粉末類
 
-![Filament Comparision](./_assets/maker/filament_comparison.jpg)
+![Filament Comparison](./_assets/maker/filament_comparison.jpg)
 
 [Thingiverse - Digital Designs for Physical Objects](https://www.thingiverse.com/)
 [Thangs | Free 3D model community | Geometric Search](https://www.thangs.com/)
@@ -94,6 +94,7 @@ Clay like when opened, rubber like after one day.
 [The 3D Print General - YouTube](https://www.youtube.com/@3DPrintGeneral)
 [MSC 製樂喵 - YouTube](https://www.youtube.com/@MSCShopHK)
 [Vector 3D - YouTube](https://www.youtube.com/@Vector3DP)
+[喵星考拉official - YouTube](https://www.youtube.com/@miaoxingkoala)
 
 [The Best 3D Printers of 2024](https://www.makeuseof.com/best-3d-printers-for-beginners/)
 
@@ -101,11 +102,13 @@ Clay like when opened, rubber like after one day.
 
 [该入坑了！普通人也可以买3D打印机！ - YouTube](https://www.youtube.com/watch?v=8B--BVKKJLo)
 [2025年，最强家用3D打印机能做什么？ - YouTube](https://www.youtube.com/watch?v=v7SAYdWRRVE)
-
+[公司用上3D打印之后… - YouTube](https://www.youtube.com/watch?v=3ju-CFrZLs8)
 [【硬件科普】什么是 3D 打印，3D 打印有哪些种类，优劣分别是什么？ - YouTube](https://www.youtube.com/watch?v=YqY6BbhkbGA)
+
 [『3D 列印小潔堂』 - YouTube](https://www.youtube.com/playlist?list=PLtVJQPo_KE7vad_4nNTLlioaU94RN0023)
 [Introduction to 3D Printing - YouTube](https://www.youtube.com/playlist?list=PLL3HlcMqxH5LmXMFLifsk031FZhVaL5np)
-[公司用上3D打印之后... - YouTube](https://www.youtube.com/watch?v=3ju-CFrZLs8)
+
+[3D打印件一掰就断？我们都是应力集中的受害者！3D打印工程耗材应力集中测试 | 碳纤尼龙强度测试 | 退火 | inslogic - YouTube](https://www.youtube.com/watch?v=0MptNGn4aCw) 倒角, filament comparison, 尼龍退火
 
 [3D Printer Calibration Method I Can't Live Without - YouTube](https://www.youtube.com/watch?v=dbWAhb40kG4)
 [[3D 列印 EP07]每個月都會發生幾次? 堵料? 出料不順終結者 教你輕鬆讓 3D 列印機乖的像小貓(上集/初心者篇) - YouTube](https://www.youtube.com/watch?v=x-BnrgAzZwU)

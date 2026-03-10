@@ -2,7 +2,7 @@
 title: Reverse Proxy
 description: ""
 created: 2015-06-17
-updated: 2025-10-10
+updated: 2026-02-12
 tags:
   - dev/deploy
   - web
@@ -24,6 +24,7 @@ tags:
 [Load Balancing](https://samwho.dev/load-balancing/)
 [I Finally Understand Load Balancing - YouTube](https://www.youtube.com/watch?v=jdRTpslyvP4)
 
+[Stop Confusing API Gateway, Load Balancer And Reverse Proxy - YouTube](https://www.youtube.com/watch?v=DVR0zvDYJgY)
 [Load Balancer vs Reverse Proxy (Explained by Example) - YouTube](https://www.youtube.com/watch?v=S8J2fkN2FeI)
 [What is a Reverse Proxy vs. Load Balancer? - NGINX](https://www.nginx.com/resources/glossary/reverse-proxy-vs-load-balancer/)
 Load balancer is an application of reverse proxy

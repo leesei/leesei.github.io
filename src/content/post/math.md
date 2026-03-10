@@ -2,7 +2,7 @@
 title: Mathematics
 description: ""
 created: 2017-10-31
-updated: 2025-10-10
+updated: 2026-01-31
 tags:
   - math
 ---
@@ -221,6 +221,7 @@ equilibrium probability = left eigen vector of the adjacency matrix
 [Euler's formula with introductory group theory - YouTube](https://www.youtube.com/watch?v=mvmuCPvRoWQ)
 
 [Group Theory — Introduction to Higher Mathematics - YouTube](https://www.youtube.com/watch?v=KufsL2VgELo)
+[Modular Arithmetic Visually - YouTube](https://www.youtube.com/playlist?list=PLrm9Y---qlNyWBQEKBSrr_Uh16gEWhJzw)
 
 [Steiner system - Wikiwand](https://www.wikiwand.com/en/Steiner_system)
 [What are...Steiner systems? - YouTube](https://www.youtube.com/watch?v=uAX0RAfo1WU)
@@ -495,15 +496,48 @@ uses complex number and group theory
 
 [Draw the Mandelbrot Set in Python – Real Python](https://realpython.com/mandelbrot-set-python/)
 
-## Prover/Formal verification
+## Prover/Solver/Formal verification
+
+> see [[algorithm#Constraint programming]]
 
 [Formal verification - Wikiwand](https://www.wikiwand.com/en/articles/Formal_verification)
+[Formal language - Wikiwand](https://www.wikiwand.com/en/articles/Formal_model)
 
 [Program Proofs · Program Proofs book site](https://program-proofs.com/)
+[A method for symbolic analysis of security protocols - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0304397505001659)
 
 [The story of mathematical proof – with John Stillwell - YouTube](https://www.youtube.com/watch?v=S1AEWuCFq6A)
 
 [Isabelle](https://isabelle.in.tum.de/)
+
+### EasyCrypt
+
+[EasyCrypt](https://www.easycrypt.info/)
+[Tutorial Overview | EasyCrypt](https://easycrypt.gitlab.io/easycrypt-web/docs/tutorials/)
+[EasyCrypt Reference Manual](https://www.easycrypt.info/easycrypt-doc/refman.pdf)
+
+[formosa-crypto/crypto-specs: EasyCrypt specifications of crypto primitives](https://github.com/formosa-crypto/crypto-specs)
+
+### DY\*
+
+[DY\* | REPROSEC](https://reprosec.org/dystar/)
+[REPROSEC/dolev-yao-star: DY\*: A Modular Symbolic Verification Framework for Executable Cryptographic Protocol Code](https://github.com/REPROSEC/dolev-yao-star)
+
+[A Tutorial-Style Introduction to DY\* | REPROSEC](https://reprosec.org/bibliography/guttmanfest2021.html)
+[DY\*: A Modular Symbolic Verification Framework for Executable Cryptographic Protocol Code | REPROSEC](https://reprosec.org/bibliography/dystareurosp2021.html)
+[An In-Depth Symbolic Security Analysis of the ACME Standard | REPROSEC](https://reprosec.org/bibliography/acmeccs2021.html)
+[Layered Symbolic Security Analysis in DY\* | REPROSEC](https://reprosec.org/bibliography/Bhargavanetal-ESORICS-2023.html)
+
+[Case Studies | REPROSEC](https://reprosec.org/case-studies/)
+
+### Failures Divergence Refinement (FDR)
+
+[FDR (software) - Wikiwand](<https://www.wikiwand.com/en/articles/FDR_(software)>)
+[Communicating sequential processes - Wikiwand](https://www.wikiwand.com/en/articles/Communicating_sequential_processes)
+
+[FDR3 — A Modern Refinement Checker for CSP](https://www.cs.ox.ac.uk/files/6001/Document.pdf)
+[FDR4 - The CSP Refinement Checker](https://cocotec.io/fdr/) academic use only
+[dcreager/csp-models: FDR via Docker and various interesting CSP models](https://github.com/dcreager/csp-models)
 
 ### Tamarin
 

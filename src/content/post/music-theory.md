@@ -2,7 +2,7 @@
 title: Music Theory
 description: ""
 created: 2016-10-11
-updated: 2025-10-10
+updated: 2026-01-08
 tags:
   - music
   - trivia
@@ -62,8 +62,11 @@ tags:
 Melodic intervals: play notes sequentially
 Harmonic intervals: play notes simultaneously
 
-[ANDREW HUANG - YouTube](https://www.youtube.com/channel/UCdcemy56JtVTrsFIOoqvV8g)
+[ANDREW HUANG - YouTube](https://www.youtube.com/@andrewhuang)
 [Learn music theory in half an hour. - YouTube](https://www.youtube.com/watch?v=rgaTLrZGlk0)
+
+[Piano Mario - YouTube](https://www.youtube.com/@Montechait)
+[Music Theory / Education - YouTube](https://www.youtube.com/playlist?list=PLUg0I6-YWvYVhH4-oTsqsKZ3xR-tI7h_8)
 
 [音乐常识补充（一）](https://www.douban.com/note/322287138/)
 
@@ -100,7 +103,9 @@ Harmonic intervals: play notes simultaneously
 [Music And Measure Theory - YouTube](https://www.youtube.com/watch?v=cyW5z-M2yzw)
 
 [Why are there 12 different notes? - YouTube](https://www.youtube.com/watch?v=NgW3zUWVWnI) ❗!important
-Just Intonation (using overtone's ratios, only work for the starting note) => Pythagorean Tuning (Perfect fifths, rounding error) => Equal temperament
+Just Intonation (using overtone's ratios, only work for the starting note) =>
+Pythagorean Tuning (Perfect fifths, rounding error) =>
+Equal temperament
 [Understanding Musical Scales: Pentatonic, Diatonic, Chromatic - YouTube](https://www.youtube.com/watch?v=sfLn0DIfCdI) ❗!important
 
 David Bennett Piano
@@ -255,6 +260,7 @@ C C♯/D♭ D D♯/E♭ E F F♯/G♭ G G♯/A♭ A A♯/B♭ B/C♭ C
 [十二平均律 - Wikiwand](https://www.wikiwand.com/zh/%E5%8D%81%E4%BA%8C%E5%B9%B3%E5%9D%87%E5%BE%8B) 朱載堉
 [Why Does Music Only Use 12 Different Notes? - YouTube](https://www.youtube.com/watch?v=lvmzgVtZtUQ)
 [Why It's Impossible to Tune a Piano - YouTube](https://www.youtube.com/watch?v=1Hqm0dYKUx4)
+[Why are there 12 different notes? - YouTube](https://www.youtube.com/watch?v=NgW3zUWVWnI)
 
 ### Major and Minor Scale
 
@@ -302,8 +308,11 @@ F♯, C♯, G♯, D♯, A♯, E♯/F, B♯
 ### Chord
 
 [Chord (music) - Wikiwand](<https://www.wikiwand.com/en/Chord_(music)>)
+[Chord progression - Wikiwand](https://www.wikiwand.com/en/articles/chord%20progression)
+[List of chord progressions - Wikiwand](https://www.wikiwand.com/en/articles/List_of_chord_progressions)
 [What Are Major Scale Diatonic Chords? | StudyBass](https://www.studybass.com/lessons/harmony/what-are-major-scale-diatonic-chords/)
 [Music Theory Fundamentals—Major, Minor, and Diminished Chords - YouTube](https://www.youtube.com/watch?v=Ymkp56PfQmo)
+[Chord Progressions & Functional Harmony − Music Theory Lesson - YouTube](https://www.youtube.com/watch?v=yI9MVYdoUT4)
 
 The 1st, 3rd, 5th notes on a scale is called a triad.
 The 1st and 5th notes of major chord and minor chord are always the same (perfect fifth = 3.5 tones).
@@ -321,12 +330,14 @@ The lowest note us called the root of the chord
 On piano the left hand can play the first and third note of the chord triad one octave lower
 
 Harmonic Analysis uses Roman numerals to denote whether a chord is major/minor
-I ii iii IV V vi vii I
-
-On C major:
+I ii iii IV V vi vii°
 1 2m 3m 4 5 6m 7dim
 m: minor
 dim: diminish minor
+
+I: Tonic chord
+IV: Sub-dominant chord
+V: Dominant chord
 
 We can add variance to the chord, e.g: adding the 7th note, adding flats/sharps to the notes of the chord
 
@@ -339,6 +350,7 @@ Second inversion: move the root note of First inversion to one octave higher
 
 #### 萬能 chord/Pop Progression
 
+[I–V–vi–IV progression - Wikiwand](https://www.wikiwand.com/en/articles/List_of_songs_containing_the_I%E2%80%93V%E2%80%93vi%E2%80%93IV_progression)
 Major progression:
 I V vi IV
 1 5 6m 4
@@ -691,6 +703,8 @@ Pianote
 [Can't Help Falling In Love on a Kalimba - YouTube](https://www.youtube.com/watch?v=kd7KC3PaEaA)
 
 ### Piano
+
+[Piano Mario - YouTube](https://www.youtube.com/@Montechait)
 
 [好和弦的《學鋼琴完全指南》！想學鋼琴嗎？看這部就好～ - YouTube](https://www.youtube.com/watch?v=esljyLyIj7Q)
 [好和弦的「鋼琴視譜」完全指南！讓你秒讀五線譜的完整訓練課程～ - YouTube](https://www.youtube.com/watch?v=aB6q7P3AAkc)

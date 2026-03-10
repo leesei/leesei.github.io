@@ -2,7 +2,7 @@
 title: JavaScript Pipeline
 description: ""
 created: 2015-12-21
-updated: 2025-01-09
+updated: 2026-02-06
 tags:
   - bundler
   - web
@@ -151,10 +151,6 @@ Vite and Next.js replaced it with more features
 [Turbopack](https://turbo.build/pack)
 caches source files and dependencies during build, good for large project, built with Rust
 
-# PWA
-
-[PWA](https://pwa.cafe/)
-
 # Rollup.js
 
 [rollup.js](http://rollupjs.org/)
@@ -196,6 +192,7 @@ caches source files and dependencies during build, good for large project, built
 # Parcel
 
 [📦 Parcel](https://parceljs.org/)
+[parcel-bundler/parcel: The zero configuration build tool for the web. 📦🚀](https://github.com/parcel-bundler/parcel)
 [parcel-bundler/awesome-parcel: 🔗 A curated list of awesome Parcel resources, libraries, tools and boilerplates](https://github.com/parcel-bundler/awesome-parcel)
 
 [Everything You Need To Know About Parcel: The Blazing Fast Web App Bundler 🚀](https://www.freecodecamp.org/news/all-you-need-to-know-about-parcel-dbe151b70082)

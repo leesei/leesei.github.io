@@ -2,7 +2,7 @@
 title: Philosophy
 description: ""
 created: 2015-06-29
-updated: 2025-10-26
+updated: 2025-12-08
 tags:
   - philosophy
 ---
@@ -13,6 +13,7 @@ tags:
 
 [Philosophical Questions - YouTube](https://www.youtube.com/@PhilosophicalQuestions)
 [大问题 Dialectic - YouTube](https://www.youtube.com/@question-dialectic)
+[柏拉图的石头PlatoStoneOfficial - YouTube](https://www.youtube.com/@PlatoStone)
 [Political Theory & Philosophy - YouTube](https://www.youtube.com/playlist?list=PLQo2I7piiPpi9T4swRDFWD9LmMHT9-Ifd)
 
 ## Language Fallacies
@@ -23,6 +24,7 @@ tags:
 [Category:Cognitive biases - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Category:Cognitive_biases)
 [Cognitive bias cheat sheet](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.luav9hnu2)
 [Every Logical Fallacy Explained in 11 Minutes - YouTube](https://www.youtube.com/watch?v=pCg-SNOteQQ)
+[一口气看懂22个逻辑谬误，45分钟了解逻辑谬误！ - YouTube](https://www.youtube.com/watch?v=JpwE02gi8z4)
 
 [RationalWiki](http://rationalwiki.org/wiki/Main_Page)
 

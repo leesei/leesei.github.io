@@ -2,7 +2,7 @@
 title: New Energy Source
 description: Renewable Energy, Non-fossil Energy"
 created: 2015-11-04
-updated: 2025-10-10
+updated: 2026-01-31
 tags:
   - energy
   - science
@@ -15,6 +15,8 @@ tags:
 [Renewable Energy - YouTube](https://www.youtube.com/playlist?list=PLHebb5GJgeFd3_6WIS8YgRboGvawbRHo7)
 
 [Renewable energy: Why US counties often ban solar, wind power plants](https://www.usatoday.com/story/news/investigations/2024/02/04/us-counties-ban-renewable-energy-plants/71841063007/)
+
+[You are being misled about renewable energy technology. - YouTube](https://www.youtube.com/watch?v=KtQ9nt2ZeGM)
 
 [How We Solved Renewables BIGGEST Problem - YouTube](https://www.youtube.com/watch?v=j1HWNXmmld4)
 
@@ -59,6 +61,7 @@ Solar Thermal Plant
 [Geothermal Energy: How Big is the Potential? - YouTube](https://www.youtube.com/watch?v=l6UGpaKnkS0)
 
 [Fracking for Clean Energy (wait, what?) - YouTube](https://www.youtube.com/watch?v=cCE1i2tJQQY) enhanced geothermal = fracking
+[The Geothermal Advantage Nobody Talks About - YouTube](https://www.youtube.com/watch?v=jCb8Y1sqz-Y)
 
 [This Fusion Tech is Solving the Geothermal Energy Problem - YouTube](https://www.youtube.com/watch?v=psyCWvavYt0)
 

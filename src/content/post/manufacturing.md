@@ -2,7 +2,7 @@
 title: Manufacturing
 description: ""
 created: 2023-06-10
-updated: 2025-10-15
+updated: 2025-11-21
 tags:
   - manufacturing
   - science
@@ -51,6 +51,7 @@ New Mind
 LinusTechTips
 [Checking on my Investment in Person - Framework Laptop Factory Tour - YouTube](https://www.youtube.com/watch?v=7nXVJBGowmY)
 [I made my own RAM! - Micron Factory Tour - YouTube](https://www.youtube.com/watch?v=-EhDlXx3okU)
+[This TV Factory is the Coolest I’ve Ever Seen - YouTube](https://www.youtube.com/watch?v=Cmnfwabz0bA)
 
 Smarter Every Day
 [The Mind-Blowing Machines that Stamp Millions of Metal Parts - Smarter Every Day 288 - YouTube](https://www.youtube.com/watch?v=GDzBE6vz5r0) progressive metal stamping, vs transfer die

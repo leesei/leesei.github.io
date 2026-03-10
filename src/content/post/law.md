@@ -2,7 +2,7 @@
 title: Law
 description: ""
 created: 2018-01-21
-updated: 2025-01-09
+updated: 2026-01-16
 tags:
   - law
 ---

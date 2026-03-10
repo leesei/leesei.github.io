@@ -2,7 +2,7 @@
 title: Post Quantum Cryptography
 description: ""
 created: 2025-03-24
-updated: 2025-11-14
+updated: 2026-03-10
 tags:
   - crypto
   - cryptography
@@ -21,7 +21,8 @@ Q-Day: when CRQC is widely available
 [PQC for non-cryptographers – Key Material](https://keymaterial.net/2024/08/30/pqc-for-non-cryptographers/)  
 [PQC-Almanac.pdf](https://downloads.bouncycastle.org/java/docs/PQC-Almanac.pdf) 2025-04-11  
 [State of the post-quantum Internet in 2025](https://blog.cloudflare.com/pq-2025/) 2025-10  
-[The state of the post-quantum Internet](https://blog.cloudflare.com/pq-2024/) 2024-03,❗!important, history, KEX and signature
+[The state of the post-quantum Internet](https://blog.cloudflare.com/pq-2024/) 2024-03,❗!important, history, KEX and signature  
+[You don’t need quantum hardware for post-quantum security](https://blog.cloudflare.com/you-dont-need-quantum-hardware/) 2025-09, PQC vs QKD
 
 [Post-Quantum Cryptography Conference Austin 2025 - YouTube](https://www.youtube.com/playlist?list=PL-BLLaXQJAfTLuRXJYwAAiJmZRGzhOvFd)  
 Post-Quantum Cryptography Conference Kuala Lumpur 2025  
@@ -45,6 +46,7 @@ This makes asymmetric cryptographic algorithms like RSA, ECC, DH vulnerable to C
 [Cost analysis of hash collisions: Will quantum computers make SHARCS obsolete?](https://cr.yp.to/hash/collisioncost-20090823.pdf)
 
 Authenticated cipher (AEAD) such as AES-GCM are considered quantum resilient with enough key length.
+[NIST’s pleasant post-quantum surprise](https://blog.cloudflare.com/nist-post-quantum-surprise/) also comparison of PQC algorithms
 
 [KEMs and Post-Quantum age](https://words.filippo.io/dispatches/post-quantum-age/)  
 [Understanding Post-Quantum Cryptography | Entrust](https://www.entrust.com/resources/learn/post-quantum-cryptography)  
@@ -55,7 +57,7 @@ Authenticated cipher (AEAD) such as AES-GCM are considered quantum resilient wit
 
 [The White House Roundtable: Preparing for PQC Migration](https://quantumxc.com/blog/white-house-roundtable-pqc-migration/)  
 [Cryptographic Agility & the Cost of Implementing PQC](https://quantumxc.com/blog/cryptographic-agility-the-cost-of-implementing-quantum-cryptography/)  
-[draft-hoffman-c2pq-07 - The Transition from Classical to Post-Quantum Cryptography](https://datatracker.ietf.org/doc/html/draft-hoffman-c2pq/) expired
+[draft-hoffman-c2pq - The Transition from Classical to Post-Quantum Cryptography](https://datatracker.ietf.org/doc/html/draft-hoffman-c2pq/) expired
 
 [Why Quantum Computers Can Break RSA But Not Lattice Cryptography](https://www.linkedin.com/pulse/why-quantum-computers-can-break-rsa-lattice-timothy-hollebeek-vi8re)  
 [【商密前沿】后量子密码最新进展（2024年2月） - 沃通WoTrus安全资讯站](https://www.wosign.com/article/zixun/2332.html)
@@ -65,7 +67,7 @@ Authenticated cipher (AEAD) such as AES-GCM are considered quantum resilient wit
 [PQC Roundtable: When (and When Not to Use) Hybrid Encryption](https://quantumxc.com/blog/white-house-pqc-roundtable-hybrid-encryption/)
 
 [RFC 9794 - Terminology for Post-Quantum Traditional Hybrid Schemes](https://datatracker.ietf.org/doc/html/rfc9794/) ❗!important  
-[draft-ietf-pquip-hybrid-signature-spectrums-07 - Hybrid signature spectrums](https://datatracker.ietf.org/doc/html/draft-ietf-pquip-hybrid-signature-spectrums/)
+[draft-ietf-pquip-hybrid-signature-spectrums - Hybrid signature spectrums](https://datatracker.ietf.org/doc/html/draft-ietf-pquip-hybrid-signature-spectrums) overview of signature methodologies
 
 [Transitioning to a Quantum-Resistant Public Key Infrastructure](https://eprint.iacr.org/2017/460) unforgeability, non-separability  
 [A Note on Hybrid Signature Schemes](https://eprint.iacr.org/2023/423) defines weak separability, strong separability, backwards/forwards compatibility, simultaneous verification, hybrid generality
@@ -92,6 +94,19 @@ Authenticated cipher (AEAD) such as AES-GCM are considered quantum resilient wit
 
 [Post-Quantum signatures zoo](https://pqshield.github.io/nist-sigs-zoo/)  
 [Kyber and Dilithium – Cryptography 101 with Alfred Menezes](https://cryptography101.ca/kyber-dilithium/)
+[A look at the latest post-quantum signature standardization candidates](https://blog.cloudflare.com/another-look-at-pq-signatures/)
+
+#### China's Commercial Cryptographic/ShangMi
+
+China's [ICCS](https://www.niccs.org.cn/symmbzyjy/index.html) was established for the Next-generation Commercial Cryptographic Algorithms Program (NGCC).
+See [[crypto-shangmi#Standard]].
+
+Aegis-enc
+Aegis-sig
+LMS-SM3
+Scloud+
+LAC.PKE
+CTRU
 
 #### FIPS 203: ML-KEM
 
@@ -114,6 +129,7 @@ Authenticated cipher (AEAD) such as AES-GCM are considered quantum resilient wit
 - `pqcrystals-dilithium` library is also replaced by `ml-dsa`
 - almost drop-in replacement for RSA and ECDSA
 - outperforms SLH-DSA in both signature generation and validation time, as well as in signature size
+- larger key sizes
 
 [what is Module-Lattice-Based Digital Signature Standard (ML-DSA) - Phind](https://www.phind.com/search/cm6wmlirv00012v6q7f3g0sva)  
 [In-Depth Overview of FIPS 204: Module-Lattice-Based Digital Signature Standard](https://www.encryptionconsulting.com/understanding-fips-204/)
@@ -204,16 +220,20 @@ Chinese Algorithms
 
 [RFC 9180 - Hybrid Public Key Encryption](https://datatracker.ietf.org/doc/html/rfc9180/)
 [RFC 9370 - Multiple Key Exchanges in the Internet Key Exchange Protocol Version 2 (IKEv2)](https://datatracker.ietf.org/doc/html/rfc9370) allows for PQC protocol
+[draft-hu-ipsecme-pqt-hybrid-auth - Post-Quantum Traditional (PQ/T) Hybrid PKI Authentication in the Internet Key Exchange Version 2 (IKEv2)](https://datatracker.ietf.org/doc/html/draft-hu-ipsecme-pqt-hybrid-auth)
 
 [Quantum Security Made Easy with RFC 8784 Standard | Palo Alto Networks](https://live.paloaltonetworks.com/t5/community-blogs/quantum-security-made-easy-with-rfc-8784-standard/ba-p/574825) intermediate solution using preshared keys IDs, hiding the DH parameters
 [Palo Alto Networks Extends Support for Quantum Safe VPN with RFC 9242, RFC 9370 Standards, and Hybrid KEYs | Palo Alto Networks](https://live.paloaltonetworks.com/t5/community-blogs/palo-alto-networks-extends-support-for-quantum-safe-vpn-with-rfc/ba-p/585492)
 
 ## PQC Certs X.509 adoption
 
-[draft-ietf-lamps-pq-composite-sigs - Composite ML-DSA for use in X.509 Public Key Infrastructure and CMS](https://datatracker.ietf.org/doc/html/draft-ietf-lamps-pq-composite-sigs/) ❗!important, used by draft-reddy-tls-composite-mldsa, replaced draft-ounsworth-pq-composite-kem  
-[RFC 9881 - Internet X.509 Public Key Infrastructure -- Algorithm Identifiers for the Module-Lattice-Based Digital Signature Algorithm (ML-DSA)](https://datatracker.ietf.org/doc/html/rfc9881) used by draft-ietf-tls-mldsa  
-[RFC 9802 - Use of the HSS and XMSS Hash-Based Signature Algorithms in Internet X.509 Public Key Infrastructure](https://datatracker.ietf.org/doc/html/rfc9802)  
-[draft-ietf-lamps-x509-slhdsa - Internet X.509 Public Key Infrastructure: Algorithm Identifiers for SLH-DSA](https://datatracker.ietf.org/doc/html/draft-ietf-lamps-x509-slhdsa/) used by draft-reddy-tls-slhdsa
+[draft-reddy-pquip-pqc-signature-migration - Guidance for Migration to Composite, Dual, or PQC Authentication](https://datatracker.ietf.org/doc/html/draft-reddy-pquip-pqc-signature-migration) ❗!important, overview of cert methodologies
+[RFC 9763 - Related Certificates for Use in Multiple Authentications within a Protocol](https://datatracker.ietf.org/doc/html/rfc9763) multiple certs, was draft-ietf-lamps-cert-binding-for-multi-auth
+
+[draft-ietf-lamps-pq-composite-sigs - Composite ML-DSA for use in X.509 Public Key Infrastructure and CMS](https://datatracker.ietf.org/doc/html/draft-ietf-lamps-pq-composite-sigs/) ❗!important, composite cert, used by draft-reddy-tls-composite-mldsa, replaced draft-ounsworth-pq-composite-sigs  
+[RFC 9881 - Internet X.509 Public Key Infrastructure -- Algorithm Identifiers for the Module-Lattice-Based Digital Signature Algorithm (ML-DSA)](https://datatracker.ietf.org/doc/html/rfc9881) was draft-ietf-lamps-dilithium-certificates, used by draft-ietf-tls-mldsa  
+[RFC 9802 - Use of the HSS and XMSS Hash-Based Signature Algorithms in Internet X.509 Public Key Infrastructure](https://datatracker.ietf.org/doc/html/rfc9802)
+[RFC 9909 - Internet X.509 Public Key Infrastructure -- Algorithm Identifiers for the Stateless Hash-Based Digital Signature Algorithm (SLH-DSA)](https://datatracker.ietf.org/doc/html/rfc9909) was draft-ietf-lamps-x509-slhdsa, used by draft-reddy-tls-slhdsa
 
 [draft-davidben-tls-merkle-tree-certs - Merkle Tree Certificates](https://datatracker.ietf.org/doc/html/draft-davidben-tls-merkle-tree-certs/)  
 [davidben/merkle-tree-certs](https://github.com/davidben/merkle-tree-certs)
@@ -224,7 +244,7 @@ Chinese Algorithms
 [RFC 9882 - Use of the ML-DSA Signature Algorithm in the Cryptographic Message Syntax (CMS)](https://datatracker.ietf.org/doc/rfc9882/)
 
 [draft-uri-lake-pquake - PQuAKE - Post-Quantum Authenticated Key Exchange](https://datatracker.ietf.org/doc/html/draft-uri-lake-pquake/) expired, integration to IKEv2  
-[draft-ietf-lamps-pq-composite-kem - Composite ML-KEM for use in X.509 Public Key Infrastructure and CMS](https://datatracker.ietf.org/doc/html/draft-ietf-lamps-pq-composite-kem/)  
+[draft-ietf-lamps-pq-composite-kem - Composite ML-KEM for use in X.509 Public Key Infrastructure and CMS](https://datatracker.ietf.org/doc/html/draft-ietf-lamps-pq-composite-kem/) replaces draft-ounsworth-pq-composite-kem
 [RFC 9629 - Using Key Encapsulation Mechanism (KEM) Algorithms in the Cryptographic Message Syntax (CMS)](https://datatracker.ietf.org/doc/rfc9629/)
 
 Key Factor's EJBCA  
@@ -253,7 +273,7 @@ Key Factor's EJBCA
 [open-quantum-safe/oqs-provider: OpenSSL 3 provider containing post-quantum algorithms](https://github.com/open-quantum-safe/oqs-provider#note-on-openssl-versions) limitation: CMS not working for < 3.2, TLS working for < 3.2
 
 [draft-kampanakis-curdle-ssh-pq-ke - PQ/T Hybrid Key Exchange in SSH](https://datatracker.ietf.org/doc/html/draft-kampanakis-curdle-ssh-pq-ke/) obsolete  
-[open-quantum-safe/openssh: Fork of OpenSSH that includes prototype quantum-resistant key exchange and authentication in SSH based on liboqs. PROJECT INACTIVE. CONTRIBUTORS WANTED.](https://github.com/open-quantum-safe/openssh) OpenSSH v9.7_p1, based on `kampanakis-curdle-ssh-pq-ke` and `liboqs` based on OpenSSL 1.1.1 (pre-provider)  
+[open-quantum-safe/openssh: Fork of OpenSSH that includes prototype quantum-resistant key exchange and authentication in SSH based on liboqs. PROJECT INACTIVE. CONTRIBUTORS WANTED.](https://github.com/open-quantum-safe/openssh) 😴inactive, OpenSSH v9.7_p1, based on `kampanakis-curdle-ssh-pq-ke` and `liboqs` based on OpenSSL 1.1.1 (pre-provider)  
 [open-quantum-safe/libssh: [DEPRECATED — See notice in README.md] Fork of libssh that includes prototype quantum-resistant algorithms based on liboqs.](https://github.com/open-quantum-safe/libssh) works with `OQS-OpenSSH` above
 
 [Quantum Computing & Post-Quantum Algorithms](https://www.ssh.com/academy/cryptography/quantum-computing-resilient-algorithms#hybrid-approach) why hybrid
@@ -278,8 +298,8 @@ DH Exchange can be modeled as KEM, where
 - `Encaps(pk = g^x) -> (ct = g^y, ss = g^xy)`
 - `Decaps(sk = x, ct = g^y) -> ss = g^xy`
 
-[draft-ietf-tls-hybrid-design-13 - Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/html/draft-ietf-tls-hybrid-design/) ❗!important, define the way multiple keys (traditional and next gen) are packed in TLS extension structs, allows key reuse (or duplication?) in ClientHello
-[draft-ietf-tls-ecdhe-mlkem - Post-quantum hybrid ECDHE-MLKEM Key Agreement for TLSv1.3](https://datatracker.ietf.org/doc/html/draft-ietf-tls-ecdhe-mlkem/) ❗!important, X25519MLKEM768, SecP256r1MLKEM768, and SecP384r1MLKEM1024, replaced draft-kwiatkowski-tls-ecdhe-mlkem
+[draft-ietf-tls-hybrid-design - Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/html/draft-ietf-tls-hybrid-design/) ❗!important, define the way multiple keys (traditional and next gen) are packed in TLS extension structs, allows key reuse (or duplication?) in ClientHello
+[draft-ietf-tls-ecdhe-mlkem - Post-quantum hybrid ECDHE-MLKEM Key Agreement for TLSv1.3](https://datatracker.ietf.org/doc/html/draft-ietf-tls-ecdhe-mlkem/) ❗!important, X25519MLKEM768, SecP256r1MLKEM768, and SecP384r1MLKEM1024, replaced draft-kwiatkowski-tls-ecdhe-mlkem, X25519MLKEM768 supported by most browsers and servers
 [draft-connolly-cfrg-xwing-kem - X-Wing: general-purpose hybrid post-quantum KEM](https://datatracker.ietf.org/doc/html/draft-connolly-cfrg-xwing-kem/)
 [draft-tls-westerbaan-xyber768d00](https://datatracker.ietf.org/doc/html/draft-tls-westerbaan-xyber768d00/) deprecated, X25519Kyber768Draft00
 
@@ -296,7 +316,7 @@ DH Exchange can be modeled as KEM, where
 Cloudflare enabled PQC for their customers as described in a 2023 blog. That handles the server side.
 [Adoption & Usage Worldwide | Cloudflare Radar](https://radar.cloudflare.com/adoption-and-usage#post-quantum-encryption-adoption) PQC adoption
 [Automatically Secure: how we upgraded 6,000,000 domains by default to get ready for the Quantum Future](https://blog.cloudflare.com/automatically-secure/) 2025-09
-[Cloudflare now uses post-quantum cryptography to talk to your origin server](https://blog.cloudflare.com/post-quantum-to-origins/) 2023-09
+[Cloudflare now uses post-quantum cryptography to talk to your origin server](https://blog.cloudflare.com/post-quantum-to-origins/) 2023-09, disection of MLKEM
 [Defending against future threats: Cloudflare goes post-quantum](https://blog.cloudflare.com/post-quantum-for-all/) 2022-10
 [Making protocols post-quantum](https://blog.cloudflare.com/making-protocols-post-quantum/) 2022-02, KEX in TLS and KEMTLS for auth
 [PQC support · Cloudflare SSL/TLS docs](https://developers.cloudflare.com/ssl/post-quantum-cryptography/pqc-support/)
@@ -317,18 +337,22 @@ Then Google deployed default support for PQC in desktop Chrome installs for TLS 
 
 #### KEMTLS
 
+> not common
+
 [Publications | Thom Wiggers](https://thomwiggers.nl/publication/)
-[Post-Quantum TLS without handshake signatures | Thom Wiggers](https://thomwiggers.nl/publication/kemtls/) 2020-05, [2022-03](https://eprint.iacr.oxrg/2020/534)
+[KEMTLS](https://github.com/kemtls)
+[kemtls/Tamarin-multi-stage-model: Tamarin proof for the KEMTLS protocol using the multi-stage AKE model](https://github.com/kemtls/Tamarin-multi-stage-model)
 [thomwiggers/kemtls-experiment: Experimental implementation of KEMTLS in Rustls](https://github.com/thomwiggers/kemtls-experiment) Rust
+
+[Post-Quantum TLS without handshake signatures | Thom Wiggers](https://thomwiggers.nl/publication/kemtls/) 2020-05, [2022-03](https://eprint.iacr.oxrg/2020/534)
 [Implementing and Measuring KEMTLS | Thom Wiggers](https://thomwiggers.nl/publication/measuring-kemtls/) 2021-09, Go implementation, KEMTLS over the internet, review TLS 1.3 and `tls-ecdhe-mlkem`
 [A tale of two models: formal verification of KEMTLS in Tamarin | Thom Wiggers](https://thomwiggers.nl/publication/kemtls-tamarin/) 2022-08, formal proof, Tamarin model of KEMTLS(-PDK)
-[kemtls/Tamarin-multi-stage-model: Tamarin proof for the KEMTLS protocol using the multi-stage AKE model](https://github.com/kemtls/Tamarin-multi-stage-model)
 [KEMTLS vs. Post-Quantum TLS: Performance on Embedded Systems | Thom Wiggers](https://thomwiggers.nl/publication/kemtls-embedded/) 2022-12
 [Post-Quantum TLS | Thom Wiggers](https://thomwiggers.nl/publication/thesis/) 2024-01
 [More efficient post-quantum KEMTLS with pre-distributed public keys | Thom Wiggers](https://thomwiggers.nl/publication/kemtlspdk/) 2021-09, pre-distributed public keys (PDK)
 
 [KEMTLS: Post-quantum TLS without signatures](https://blog.cloudflare.com/kemtls-post-quantum-tls-without-signatures/)
-[draft-celi-wiggers-tls-authkem-04 - KEM-based Authentication for TLS 1.3](https://datatracker.ietf.org/doc/draft-celi-wiggers-tls-authkem/)
+[draft-celi-wiggers-tls-authkem - KEM-based Authentication for TLS 1.3](https://datatracker.ietf.org/doc/html/draft-celi-wiggers-tls-authkem/)
 
 #### Performance
 
@@ -387,6 +411,13 @@ Then Google deployed default support for PQC in desktop Chrome installs for TLS 
 [pq-code-package/mlkem-native: High-assurance, high-performance C90 implementation of ML-KEM](https://github.com/pq-code-package/mlkem-native)  
 [pq-code-package/mldsa-native](https://github.com/pq-code-package/mldsa-native)
 
+### Formosa Crypto
+
+[Formosa Crypto | The Formosa project federates multiple tools and projects in machine-checked cryptography and high-assurance cryptographic engineering under a single banner, to better support developers and users.](https://formosa-crypto.org/)
+
+[jasmin-lang/jasmin: Language for high-assurance and high-speed cryptography](https://github.com/jasmin-lang/jasmin)
+[formosa-crypto/libjade: Crypto library](https://github.com/formosa-crypto/libjade)
+
 ### PQClean
 
 [PQClean/PQClean: Clean, portable, tested implementations of post-quantum cryptography](https://github.com/PQClean/PQClean) impose requirements on C implementations, clean and AVX2 implementations  
@@ -444,3 +475,4 @@ X.509 and PKCS#7 generator and parser support
 
 [10 Step Checklist For Tech Leaders: Simplify Your Transition to New NIST Algorithms](https://www.keyfactor.com/resources/content/10-step-checklist-simplify-your-transition-to-new-nist-algorithms)  
 [SoK: How (not) to Design and Implement Post-Quantum Cryptography](https://eprint.iacr.org/2021/462)
+[Ready for Quantum: Practical Steps for Cybersecurity Teams](https://postquantum.com/post-quantum/practical-steps-quantum/)

@@ -2,7 +2,7 @@
 title: Assassin's Creed
 description: ""
 created: 2018-01-03
-updated: 2025-10-10
+updated: 2026-01-13
 tags:
   - assassins-creed
   - games
@@ -73,7 +73,7 @@ In Unity/Syndicate and Origins/Odyssey, the first release is developed by Ubisof
 [Definitive ACR Parkour Mod at Assassin's Creed: Revelations Nexus - Mods and community](https://www.nexusmods.com/assassinscreedrevelations/mods/120)
 [Definitive AC4 Parkour Mod (Beta) at Assassin's Creed IV: Black Flag Nexus - Mods and community](https://www.nexusmods.com/assassinscreedivblackflag/mods/570)
 
-[[Rogue Academy] Classic Assassin's Creed | Movement Guide - YouTube](https://www.youtube.com/watch?v=MXrg_3_3FBA) !important
+[[Rogue Academy] Classic Assassin's Creed | Movement Guide - YouTube](https://www.youtube.com/watch?v=MXrg_3_3FBA) ❗!important
 The first game and Ezio trilogy implemented a highly cancellable movement system
 
 - high profile modifier

@@ -2,7 +2,7 @@
 title: Ansible
 description: ""
 created: 2016-02-17
-updated: 2025-10-10
+updated: 2026-01-13
 tags:
   - ansible
   - app
@@ -22,7 +22,7 @@ Ansible runs over SSH so there is no need for agent in slave nodes. This reduces
 [Ansible Blog | Ansible.com | Ansible](https://www.ansible.com/blog/topic/ansible)
 [Ansible Blog | Ansible.com | Getting Started](https://www.ansible.com/blog/topic/getting-started)
 
-[Ansible Webinar On Demand Introduction To Ansible](https://www.ansible.com/webinar-on-demand-ansible-introduction) !important
+[Ansible Webinar On Demand Introduction To Ansible](https://www.ansible.com/webinar-on-demand-ansible-introduction) ❗!important
 [Ansible Resources - AnsibleFest San Francisco 2017 Videos](https://www.ansible.com/videos-ansiblefest-sanfran-2017)
 [Ansible Tutorial](https://codereviewvideos.com/course/ansible-tutorial)
 [Ansible Tutorial for Beginners: Playbook & Examples | Spacelift.io](https://spacelift.io/blog/ansible-tutorial)
@@ -128,7 +128,7 @@ Jeff Geerling
 
 [15 Things You Should Know About Ansible](http://codeheaven.io/15-things-you-should-know-about-ansible/)
 
-[How to use Vagrant provision with Ansible for playbook development – Linuxserver.io](https://www.linuxserver.io/index.php/2016/02/08/how-to-use-vagrant-provision-with-ansible-for-playbook-development/) !important
+[How to use Vagrant provision with Ansible for playbook development – Linuxserver.io](https://www.linuxserver.io/index.php/2016/02/08/how-to-use-vagrant-provision-with-ansible-for-playbook-development/) ❗!important
 
 ## Event-Driven
 

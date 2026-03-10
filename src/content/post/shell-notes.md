@@ -2,7 +2,7 @@
 title: Shell notes
 description: ""
 created: 2014-12-08
-updated: 2025-10-10
+updated: 2026-01-16
 tags:
   - linux
   - shell
@@ -13,7 +13,7 @@ Most of the following are compatible to `bash` and `zsh`.
 
 [We all <3 Terminals. - Terminals Are Sexy](https://terminalsare.sexy/)
 [Philip James, Asheesh Laroia - Type python, press enter. What happens? - PyCon 2015 - YouTube](https://www.youtube.com/watch?v=XVhSjZYwZJo) how shell invocation works
-[Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.](https://commandlinepoweruser.com/) !important, by Wes Bos
+[Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.](https://commandlinepoweruser.com/) ❗!important, by Wes Bos
 [Coding like a Hacker in the terminal – Caleb Taylor – Medium](https://medium.com/@caleb89taylor/coding-like-a-hacker-in-the-terminal-79e22954968e)
 [You’re Missing Out on a Better Mac Terminal Experience](https://medium.com/@caulfieldOwen/youre-missing-out-on-a-better-mac-terminal-experience-d73647abf6d7)
 [The birth of the Bash shell | Opensource.com](https://opensource.com/19/9/command-line-heroes-bash)
@@ -24,6 +24,7 @@ Most of the following are compatible to `bash` and `zsh`.
 [The Modern CLI Renaissance | Gabe Venberg](https://gabevenberg.com/posts/cli-renaissance/)
 [CLIs Are Making A Comeback - YouTube](https://www.youtube.com/watch?v=-gmWbD5kGIk)
 
+[The Complete Bash Scripting Course - ysap.sh](https://course.ysap.sh/)
 [Bash Automation & Scripting Basics (Part 1) – CloudSavvy IT](https://www.cloudsavvyit.com/9676/bash-automation-scripting-basics-part-1/)
 [Bash Automation and Scripting Basics (Part 2) – CloudSavvy IT](https://www.cloudsavvyit.com/9760/bash-automation-and-scripting-basics-part-2/)
 [Bash Automation and Scripting Basics (Part 3) – CloudSavvy IT](https://www.cloudsavvyit.com/9768/bash-automation-and-scripting-basics-part-3/)
@@ -722,6 +723,7 @@ foo array1[@] array2[@]
 [Shell / Command Line | Linux.org](http://www.linux.org/forums/shell-command-line.49/)
 [GNU/Linux Command-Line Tools Summary](http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/html/index.html)
 [Heiner's SHELLdorado](http://www.shelldorado.com/)
+[Effective Shell](https://effective-shell.com/introduction/)
 [An Introduction to Shell Scripting | DigitalOcean](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-shell-scripting)
 [Portable Shell - Autoconf](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.69/html_node/Portable-Shell.html#Portable-Shell)
 [Shell 特殊变量： $0, $#, $*, $@, $?, $$, $!, $_和命令行参数$n - Gikor - CSDN 博客](https://blog.csdn.net/w746805370/article/details/51044352)
@@ -735,21 +737,14 @@ foo array1[@] array2[@]
 [Advanced Bash-Scripting Guide](http://www.tldp.org/LDP/abs/html/)
 [Bash Hackers Wiki Frontpage [Bash Hackers Wiki]](http://wiki.bash-hackers.org/doku.php)
 [Bash Scripting Tutorial - Ryans Tutorials](http://ryanstutorials.net/bash-scripting-tutorial/)
-http://justinlilly.com/bash/forgotten_friend_1.html
-http://justinlilly.com/bash/forgotten_friend_2.html
-http://justinlilly.com/bash/forgotten_friend_3.html
-http://www.dsj.net/compedge/shellbasics.html
-http://www.dsj.net/compedge/shellbasics1.html
-http://www.dsj.net/compedge/regex.html
-http://www.dsj.net/compedge/morebashfun2.html
-http://www.dsj.net/compedge/bashit.html
+[Bash: Your forgotten friend (part 1)](https://justinlilly.com/bash/forgotten_friend_1.html)
+[Bash: Your forgotten friend (part 2)](https://justinlilly.com/bash/forgotten_friend_2.html)
+[Bash: Your forgotten friend (part 3)](https://justinlilly.com/bash/forgotten_friend_3.html)
 
 **Zsh**:
-http://zsh.sourceforge.net/Doc/Release/zsh_toc.html
-http://grml.org/zsh/zsh-lovers.html
-http://www.zzapper.co.uk/zshtips.html
-http://fendrich.se/blog/2012/09/28/no/
-http://www.tuxradar.com/content/z-shell-made-easy
+[zsh: Table of Contents](https://zsh.sourceforge.io/Doc/Release/zsh_toc.html)
+[ZSH-LOVERS(1)](https://grml.org/zsh/zsh-lovers.html)
+[No, really. Use Zsh. - IFHO](http://fendrich.se/blog/2012/09/28/no/)
 
 **Fish**:
-https://wiki.archlinux.org/title/Fish
+[fish - ArchWiki](https://wiki.archlinux.org/title/Fish)

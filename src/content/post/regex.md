@@ -2,7 +2,7 @@
 title: Regular expression
 description: ""
 created: 2015-02-26
-updated: 2025-10-10
+updated: 2025-11-24
 tags:
   - comp/lang
   - formal-language
@@ -133,10 +133,9 @@ there are no regular expressions that are pathological for the Thompson NFA impl
 
 ## JavaScript
 
-JavaScript's Regex does not have look behind and named captures. Use [XRegExp](http://xregexp.com/) if you need them.
+> JavaScript's Regex did not have lookbehind and named captures before 2018. Now they are widely supported.
 
-> [Upcoming Regular Expression Features | Web | Google Developers](https://developers.google.com/web/updates/2017/07/upcoming-regexp-features) Chrome begin to support these features in 2018
-
+[Regular expressions - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions) check features and support
 [Cover - JavaScript RegExp](https://learnbyexample.github.io/learn_js_regexp/)
 [JavaScript Regular Expression Cheatsheet - Debuggex](https://www.debuggex.com/cheatsheet/regex/javascript)
 
@@ -145,11 +144,17 @@ JavaScript's Regex does not have look behind and named captures. Use [XRegExp](h
 
 [RegExps — Centralized place for community-driven collections of RegExp patterns and tools that can make our life easier.](http://regexps.github.io/)
 
-[hokein/Automata.js](https://github.com/hokein/Automata.js) converts Regex to FSM
-[jwerle/sregex](https://github.com/jwerle/sregex)
-[dtao/simplex](https://github.com/dtao/simplex)
+[Introducing ArkRegex](https://arktype.io/docs/blog/arkregex) RegExp with types
+[slevithan/regex: JS regexes ➕ future. A template tag for readable, high-performance, native JS regexes with extended syntax, context-aware interpolation, and always-on best practices.](https://github.com/slevithan/regex)
 
-[VerbalExpressions/JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions)
+[Home - magic-regexp](https://regexp.dev/)
+[unjs/magic-regexp: A compiled-away, type-safe, readable RegExp alternative](https://github.com/unjs/magic-regexp)
+
+[jwerle/sregex: Simple string regular expression that exposes matches in defined variables](https://github.com/jwerle/sregex)
+[dtao/simplex: Simpler than regular expressions](https://github.com/dtao/simplex)
+[VerbalExpressions/JSVerbalExpressions: JavaScript Regular expressions made easy](https://github.com/VerbalExpressions/JSVerbalExpressions)
+
+[hokein/Automata.js: A regular expression converter](https://github.com/hokein/Automata.js) converts Regex to FSM
 
 ## Python
 
@@ -158,9 +163,9 @@ JavaScript's Regex does not have look behind and named captures. Use [XRegExp](h
 [Python regex: How to use Python regular expressions | InfoWorld](https://www.infoworld.com/article/3608409/unleash-the-power-of-python-regular-expressions.html)
 [Python Regular Expressions - Google for Education — Google Developers](https://developers.google.com/edu/python/regular-expressions)
 
+[Cover - Understanding Python re(gex)?](https://learnbyexample.github.io/py_regular_expressions/)
 [Python Regular Expression Cheatsheet - Debuggex](https://www.debuggex.com/cheatsheet/regex/python)
 [The Ultimate Guide to using the Python regex module](https://towardsdatascience.com/the-ultimate-guide-to-using-the-python-regex-module-69aad9e9ba56)
-[Cover - Python re(gex)?](https://learnbyexample.github.io/py_regular_expressions/)
 
 [Regular Expressions: Regexes in Python (Part 1) – Real Python](https://realpython.com/regex-python/)
 [Regular Expressions: Regexes in Python (Part 2) – Real Python](https://realpython.com/regex-python-part-2/)

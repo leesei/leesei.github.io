@@ -2,7 +2,7 @@
 title: ffmpeg
 description: A complete, cross-platform solution to record, convert and stream audio and video.
 created: 2015-01-13
-updated: 2025-10-10
+updated: 2026-01-28
 tags:
   - app
   - avconv
@@ -40,6 +40,10 @@ ffmpeg -ss 01:23:45 -i input -frames:v 1 -q:v 2 output.jpg
 
 # capture 10s of frames starting from 5 minute mark
 ffmpeg -ss 05:00 -to 05:10 -i <input> screenshot%05d.png
+
+ffmpeg -ss 05:00 -to 05:10 -i <input>  -vf "fps=10,scale=320:-1:flags=lanczos,split[s0][s1];[s0]palettegen[p];[s1][p]paletteuse" output.gif
+
+ffmpeg -ss 05:00 -to 05:10 -i <input> -vcodec libwebp -filter:v fps=fps=20 -lossless 0 -loop 1 -preset default -an -vsync 0 -s 720:405 output.webp
 ```
 
 ## cropping

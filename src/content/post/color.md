@@ -2,7 +2,7 @@
 title: Color
 description: ""
 created: 2014-12-17
-updated: 2025-11-14
+updated: 2025-11-25
 tags:
   - color-palette
   - colorspace
@@ -162,6 +162,7 @@ HTML will turn any string into color
 [The HSB Color System: A Practitioner's Primer – Learn UI Design](https://learnui.design/blog/the-hsb-color-system-practicioners-primer.html)
 
 [【硬核】色品图是怎么来的？How did the Chromaticity Diagram come about? - YouTube](https://www.youtube.com/watch?v=MYV0_QQRsFU) ❗!important
+[什么是 Gamma？What is Gamma? - YouTube](https://www.youtube.com/watch?v=pa7Bvzewta0) Gamma Transform allocates more bits to dark region where human perception is more sensitive
 [色域转换都发生了什么？SRGB 出图需要用广色域链路吗？究竟是否需要买广色域显示器？风光和人像打印可以用一样的设置吗？什么是黑场补偿，相对比色，可感知渲染意图？ - YouTube](https://www.youtube.com/watch?v=2EKtQeXvAD8)
 相對比色 only map colors out of the target colorspace, keeping colors in intersection intact
 可感知 scale all colors to target colorspace to keep gradients in the original colorspace

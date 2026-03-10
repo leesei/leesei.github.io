@@ -2,7 +2,7 @@
 title: Hostinger
 description: ""
 created: 2021-05-10
-updated: 2025-10-10
+updated: 2025-11-24
 tags:
   - web
 ---
@@ -57,6 +57,13 @@ In summary, web hosting is a cost-effective option for small to medium websites 
 
 [How to Export MySQL Database Using phpMyAdmin – Step-by-Step Guide](https://www.hostinger.com/tutorials/export-mysql-database-with-phpmyadmin)
 [How to Restore Your MySQL Database From a Backup Using phpMyAdmin](https://www.hostinger.com/tutorials/mysql/restoring-mysql-database-from-backup-phpmyadmin)
+
+## API
+
+[Hostinger API Reference](https://developers.hostinger.com/#description/overview)
+[SDK & Tools - Hostinger API Reference](https://developers.hostinger.com/#description/sdks--tools)
+[URL forward - Hostinger API Reference](https://developers.hostinger.com/#tag/domains-forwarding/post/apidomainsv1forwarding)
+[DNS - Hostinger API Reference](https://developers.hostinger.com/#tag/dns-zone/put/apidnsv1zonesdomain)
 
 ## hPanel
 

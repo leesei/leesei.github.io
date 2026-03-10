@@ -2,7 +2,7 @@
 title: Switch Emulator
 description: ""
 created: 2023-06-12
-updated: 2025-10-10
+updated: 2025-12-15
 tags:
   - emulator
   - games
@@ -205,6 +205,7 @@ Voice of Cards: The Beasts of Burden
 
 SLG:
 Transformers: Battleground
+FINAL FANTASY TACTICS - The Ivalice Chronicles Nintendo
 Front Mission 1st: Remake
 Front Mission 2: Remake
 Front Mission 3: Remake

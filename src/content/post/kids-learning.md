@@ -2,7 +2,7 @@
 title: Kids Learning
 description: ""
 created: 2016-08-17
-updated: 2025-10-20
+updated: 2026-02-08
 tags:
   - learning
 ---
@@ -200,10 +200,16 @@ tags:
 ## Flashcard
 
 [Anki - powerful, intelligent flashcards](https://apps.ankiweb.net/)
+[Anki (software) - Wikiwand](<https://www.wikiwand.com/en/articles/Anki_(software)>)
+[Introduction - Anki Manual](https://docs.ankiweb.net/intro.html)
+
+[AnkiBrain (AnkiChatGPT) - GPT-4, GPT 3.5 with auto-cards and document analysis - AnkiWeb](https://ankiweb.net/shared/info/1915225457)
+
+[醫學生的K書法：Anki使用心得（上）-基礎概念＆模版分享 - 鞠雨融（Yvonne Jiu ） - Medium](https://medium.com/@yvonnejiu/%E9%86%AB%E5%AD%B8%E7%94%9F%E7%9A%84k%E6%9B%B8%E6%B3%95-anki%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97-%E4%B8%8A-%E5%9F%BA%E7%A4%8E%E6%A6%82%E5%BF%B5-%E6%A8%A1%E7%89%88%E5%88%86%E4%BA%AB-329defff54cc)
+[醫學生的K書法：Anki使用心得（下）- 製作卡片模板 - 鞠雨融（Yvonne Jiu ） | Medium](https://medium.com/@yvonnejiu/%E9%86%AB%E5%AD%B8%E7%94%9F%E7%9A%84k%E6%9B%B8%E6%B3%95-anki%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97-%E4%B8%8B-%E8%A3%BD%E4%BD%9C%E5%8D%A1%E7%89%87%E6%A8%A1%E6%9D%BF-4f4bde84ca19)
 
 ## 手工/Hand Crafting
 
-[儿童手工 diy 创意制作材料包纸盘贴贴画幼儿园益智力男女孩玩具-淘宝网](https://item.taobao.com/item.htm?id=587408365712)
 [ShaSha hand made 【DIY】 - YouTube](https://www.youtube.com/@shashahandmae1225)
 [SLICK SLIME SAM Live - YouTube](https://www.youtube.com/@SLICKSLIMESAMLive)
 [Kimberly Toon - YouTube](https://www.youtube.com/@KimberlyToon)
@@ -334,11 +340,15 @@ synthetic phonics
 
 [【溫數學】免費初小溫習工作紙　運算、圖形、度量衡及統計圖｜香港 01 ｜親子](https://www.hk01.com/%E8%A6%AA%E5%AD%90/390481/)
 [自製數學工作紙](https://www.facebook.com/107792393977946/posts/215059739917877/)
+[Reference Exercises - 小學數學科 模擬試卷](https://www.mamaloveprint.com/p/reference-exercises_7.html)
 
 [Free Online Graph Paper / Asymmetric and Specialty Grid Paper PDFs](https://incompetech.com/graphpaper/)
 [Isometric Drawing Tool](https://www.nctm.org/Classroom-Resources/Illuminations/Interactives/Isometric-Drawing-Tool/)
 
 [小学三年级数学题你会做吗？快速判断 7、11、13、17、19…的倍数 - YouTube](https://www.youtube.com/watch?v=XaEp9evvFdE)
+
+[The Euclidean Algorithm: How and Why, Visually - YouTube](https://www.youtube.com/watch?v=Jwf6ncRmhPg)
+[The extended Euclidean algorithm in one simple idea - YouTube](https://www.youtube.com/watch?v=IwRtISxAHY4)
 
 ## Raising kids
 
@@ -383,6 +393,16 @@ synthetic phonics
 [甩的越乱，飞的越稳，直升机的螺旋桨怎么就转得这么反直觉？【科学火箭叔】 - YouTube](https://www.youtube.com/watch?v=K8w4Pmf8G_c)
 [引擎故障后，飞机能迫降，那么直升机也能迫降吗？【科学火箭叔】 - YouTube](https://www.youtube.com/watch?v=MeUtFoq6FqY)
 
+### Siphon
+
+[How does a Siphon Work ? 🤔 | How to Siphon with a hose ? | Siphon - YouTube](https://www.youtube.com/watch?v=mS2u0NjEgCU)
+[Automatic Bell Siphon Explained - YouTube](https://www.youtube.com/watch?v=_vV_z_0lFQ8)
+[Seeing Inside a Self-Starting Siphon - YouTube](https://www.youtube.com/watch?v=BA1te3mmY5k)
+[How To Make a Self-Starting Siphon - YouTube](https://www.youtube.com/watch?v=1vq_h4myH1E)
+[Water powered timers hidden in public restrooms - YouTube](https://www.youtube.com/watch?v=XjQc8Bf0UlM)
+[The Pythagorean Siphon Inside Your Washing Machine - YouTube](https://www.youtube.com/watch?v=Cg8KQfaT9xY)
+[一個實驗認識虹吸現象 #實驗 #科普 #知識 #物理 #知識科普#甘的实验室 - YouTube](https://www.youtube.com/shorts/bS_dBBJnrQs)
+
 ### Tensegrity
 
 [LEGO Tensegrity Sculpture Tutorial - YouTube](https://www.youtube.com/watch?v=6xbnrEqMr5Y)
@@ -401,6 +421,10 @@ synthetic phonics
 modeling by rod which popped up when pivoted on the surface
 [World Record Chain Fountain? The Mould Effect Explained - YouTube](https://www.youtube.com/watch?v=qTLR7FwXUU4)
 [The Mind-Blowing Self-Pouring Chain Fountain—How Does It Actually Work? - YouTube](https://www.youtube.com/watch?v=xHsKJJvcFLQ)
+
+## 常識/人文
+
+[Reference Exercises - 小學常識科 模擬試卷](https://www.mamaloveprint.com/p/reference-exercises_6.html)
 
 ## Kindergarden
 

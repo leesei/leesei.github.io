@@ -2,7 +2,7 @@
 title: SSH
 description: ""
 created: 2014-12-17
-updated: 2025-10-17
+updated: 2025-12-17
 tags:
   - app
   - shell-tool
@@ -119,6 +119,7 @@ openssl rsa -in jwtRS256.key -pubout -outform PEM -out jwtRS256.key.pub
 # generate ssh key pair (if you don't have one)
 ssh-keygen -t rsa
 ssh-keygen -t ed25519 -C <email>
+
 # generate key with no passphrase
 ssh-keygen -t rsa -b 4096 -f privateKey.pem -N ""
 openssl rsa -in privateKey.pem -pubout -outform PEM -out publicKey.pem

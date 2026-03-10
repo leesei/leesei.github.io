@@ -2,7 +2,7 @@
 title: Windows Desktop
 description: ""
 created: 2015-01-15
-updated: 2025-11-03
+updated: 2026-03-05
 tags:
   - app
   - desktop
@@ -52,9 +52,11 @@ chcp 65001
 [I run this command weekly, and my PC never slows down](https://www.makeuseof.com/run-this-command-weekly-pc-never-slows/)
 
 ```powershell
-dism /online /cleanup-image /restorehealth
-sfc /scannow
 chkdsk /f
+sfc /scannow
+dism /online /cleanup-image /checkhealth
+dism /online /cleanup-image /scanhealth
+dism /online /cleanup-image /restorehealth
 ```
 
 Windows Reliability Monitor Tool
@@ -102,6 +104,8 @@ xfreerdp /u:JohnDoe /p:Pwd123! /vmconnect:C824F53E-95D2-46C6-9A18-23A5BB403532 /
 
 ## PowerToys
 
+[[window-manager#Windows]]
+
 [Microsoft PowerToys | Microsoft Docs](https://docs.microsoft.com/en-us/windows/powertoys/)
 [Windows PowerToys](https://www.makeuseof.com/tag/windows-10-powertoys/)
 
@@ -112,23 +116,11 @@ xfreerdp /u:JohnDoe /p:Pwd123! /vmconnect:C824F53E-95D2-46C6-9A18-23A5BB403532 /
 [Getting Started With Microsoft PowerToys](https://www.itprotoday.com/windows-11/getting-started-with-microsoft-powertoys)
 [9 Best Microsoft PowerToys Tools for Windows Customization](https://www.itprotoday.com/windows-11/my-9-favorite-powertoys-tools-for-windows-customization)
 
-[Windows 10 PowerToys: How to use and configure FancyZones - TechRepublic](https://www.techrepublic.com/article/windows-10-powertoys-how-to-use-and-configure-fancyzones/)
-[FancyZones Overview · microsoft/PowerToys Wiki · GitHub](https://github.com/microsoft/PowerToys/wiki/FancyZones-Overview)
-
 [微軟竟給 Windows 量身打造了一套生產力小工具？看在這誠意的份上我只好安裝了 PowerToys - YouTube](https://www.youtube.com/watch?v=EAoIGJjWdbA)
 
 [Microsoft's Secret Windows Tools for Power Users - YouTube](https://www.youtube.com/watch?v=o8TP-7XrVqY) 2020-07
 [Awesome New Windows Tools You NEED - YouTube](https://www.youtube.com/watch?v=0U9SnmgLClo) 2022-11
 [The Coolest New Tools in Microsoft PowerToys - YouTube](https://www.youtube.com/watch?v=JinQIyEhfew) 2023-10
-
-## Windhawk
-
-[Windhawk](https://windhawk.net/)
-[ramensoftware/windhawk: The customization marketplace for Windows programs: https://windhawk.net/](https://github.com/ramensoftware/windhawk)
-[ramensoftware/windhawk-mods: The official collection of Windhawk mods](https://github.com/ramensoftware/windhawk-mods)
-
-[EVERY Windows 11 User Should Know About THIS Free Customization Utility! - YouTube](https://www.youtube.com/watch?v=XyrfCWWWTb8)
-[【神器】Windows没做出来的功能，Windhawk这款软件实现了…… - YouTube](https://www.youtube.com/watch?v=BkAHpslWPCs)
 
 ## CMD Shell/Batch Script (.bat)
 
@@ -154,24 +146,27 @@ Beware of where you download from, especially don't use download.com.
 [How to Quickly Remove Bloatware From Windows 11](https://www.makeuseof.com/how-to-quickly-remove-bloatware-from-windows-11/)
 [Your New Windows PC Is Already Sluggish—Here’s the First Thing to Do](https://www.makeuseof.com/make-sluggish-pc-faster/)
 
+[WinScript | Make Windows Yours.](https://winscript.cc/) !❗!important, customizable, privacy, performance, remove widgets
+[WinScript | Online](https://online.winscript.cc/) online editor
+[flick9000/winscript: Open-source tool to build your Windows script from scratch. It includes debloat, privacy, performance & app installing scripts.](https://github.com/flick9000/winscript)
+
+[Raphire/Win11Debloat: A simple powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.](https://github.com/Raphire/Win11Debloat) customizable, non-destructive
+
 [AtlasOS — Home](https://atlasos.net/)
 [DaddyMadu/Windows10GamingFocus: This is the Ultimate Windows 10/11 Debloat and Gaming Tweaks Optimization based on ChrisTitusTechScript which is based on multiple debloat scripts and gists from github.](https://github.com/DaddyMadu/Windows10GamingFocus)
+[Sparkle | Ultimate Windows Optimizer](https://getsparkle.net/)
 [Sycnex/Windows10Debloater: Script to remove Windows 10 bloatware.](https://github.com/Sycnex/Windows10Debloater) 🗃️archived
-[Raphire/Win11Debloat: A simple powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.](https://github.com/Raphire/Win11Debloat)
 
 [Winhance - Windows Enhancement Toolkit](https://winhance.net/)
 [This Free Open-Source App Is the Ultimate Windows Optimization Tool for Power Users](https://www.makeuseof.com/winhance-free-open-source-windows-optimization-tool/)
 [Winhance is the best free and open-source tool to customize and optimize your Windows 11 install](https://www.xda-developers.com/winhance-customization-optimization-tool-windows-11/)
-
-[WinScript | Make Windows Yours.](https://winscript.cc/)
-[flick9000/winscript: Open-source tool to build your Windows script from scratch. It includes debloat, privacy, performance & app installing scripts.](https://github.com/flick9000/winscript)
 
 [Microsoft Provides New Performance Tips for Windows 11 Gamers | Tom's Hardware](https://www.tomshardware.com/news/microsoft-windows-11-gaming-boost-tips)
 [Options to Optimize Gaming Performance in Windows 11](https://prod.support.services.microsoft.com/en-us/windows/options-to-optimize-gaming-performance-in-windows-11-a255f612-2949-4373-a566-ff6f3f474613)
 
 ## WinISO patch
 
-~~[FlyOOBE - FlyOOBE](https://flyoobe.net/)~~ unofficial mirror
+~~[FlyOOBE - FlyOOBE](https://flyoobe.net/)~~ WARNING, unofficial mirror
 [builtbybel/FlyOOBE: Fly through your Windows 11 setup 🐝](https://github.com/builtbybel/Flyoobe)
 [Ditching Windows 10? Here's how I installed Windows 11, removed AI, and stripped out unnecessary features using Flyoobe | Tom's Hardware](https://www.tomshardware.com/software/windows/ditching-windows-10-heres-how-i-installed-windows-11-removed-ai-and-stripped-out-unnecessary-options-using-flyoobe)
 
@@ -188,16 +183,20 @@ Beware of where you download from, especially don't use download.com.
 [How to Bypass Windows 11's TPM, CPU and RAM Requirements | Tom's Hardware](https://www.tomshardware.com/how-to/bypass-windows-11-tpm-requirement)
 [How to Use Rufus to Bypass TPM and Secure Boot Requirements in Windows 11](https://www.makeuseof.com/rufus-bypass-tpm-secure-boot-requirements-windows-11/)
 
-[Windows 11’s Right-Click Context Menu Sucks: Here’s How I Restored the Classic One](https://www.makeuseof.com/restore-classic-windows-right-click-context-menu/)
-[valinet/ExplorerPatcher: This project aims to enhance the working environment on Windows](https://github.com/valinet/ExplorerPatcher)
+### StartAllBack
 
-[StartAllBack to fix all Windows 11 deal-breaking UI issues](https://www.startallback.com/) classic Start Menu, taskbar ungrouping
-`winget install startallback`
+[StartAllBack to fix all Windows 11 deal-breaking UI issues](https://www.startallback.com/) classic Start Menu, taskbar ungrouping  
+`winget install StartIsBack.StartAllBack --scope machine`
 
-```ps
-# restore Windows 10 context menu
-reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve
-```
+### Windhawk
+
+[Windhawk](https://windhawk.net/)
+[ramensoftware/windhawk: The customization marketplace for Windows programs: https://windhawk.net/](https://github.com/ramensoftware/windhawk)
+[ramensoftware/windhawk-mods: The official collection of Windhawk mods](https://github.com/ramensoftware/windhawk-mods)
+
+[This tiny Windhawk tweak solved a problem Windows never fixed](https://www.makeuseof.com/windhawk-tweak-fixes-file-folder-size-issue-windows/)
+[EVERY Windows 11 User Should Know About THIS Free Customization Utility! - YouTube](https://www.youtube.com/watch?v=XyrfCWWWTb8)
+[【神器】Windows没做出来的功能，Windhawk这款软件实现了…… - YouTube](https://www.youtube.com/watch?v=BkAHpslWPCs)
 
 ### On Phone
 
@@ -212,6 +211,15 @@ reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\
 
 ## Windows 11 Explorer Fix
 
+[Files • Download](https://files.community/download)
+
+[Windows 11’s Right-Click Context Menu Sucks: Here’s How I Restored the Classic One](https://www.makeuseof.com/restore-classic-windows-right-click-context-menu/)
+
+```ps
+# restore Windows 10 context menu
+reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve
+```
+
 ### WinSetView
 
 [WinSetView | Globally Set Explorer Folder Views](https://lesferch.github.io/WinSetView/Manual.html) disable group by time, use Windows 10 Explorer
@@ -220,6 +228,8 @@ reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\
 [DON’T keep Using File Explorer without watching this video - YouTube](https://www.youtube.com/watch?v=EI8LWca4_GE)
 
 ### ExplorerPatcher
+
+> seemingly unreliable
 
 [valinet/ExplorerPatcher: This project aims to enhance the working environment on Windows](https://github.com/valinet/ExplorerPatcher)
 [I Can't Use Windows Without ExplorerPatcher (Windows 10 & 11 Tutorial) - YouTube](https://www.youtube.com/watch?v=iucq4Ec8ifM)
@@ -366,18 +376,6 @@ REG ADD HKEY_CLASSES_ROOT\rtsp /f /v "URL Protocol" /t REG_SZ
 REG ADD HKEY_CLASSES_ROOT\rtsp\shell\open\command /f /ve /d "\"C:\Program Files\VideoLAN\VLC\vlc.exe\" %%1"
 ```
 
-### Shell Right Click Registration
-
-```reg
-Windows Registry Editor Version 5.00
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\shell\sublime]
-@="Open with Sublime Text..."
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\shell\sublime\command]
-@="\"C:\\Program Files\\Sublime Text 3\\subl.exe\" \"%1\""
-```
-
 ### Disable AntiSpyware
 
 The `Antimalware Service Executable` is hogging CPU even after Windows Defender is disabled. You can disable it via Registry.
@@ -423,7 +421,10 @@ You can go all the way to install [Cygwin](https://www.cygwin.com/) or use
 
 ## WSA (Windows Subsystem for Android)
 
-[ADeltaX/WSAGAScript: Scripts to install Google Apps into a WSA image. Plus optional ADB root](https://github.com/ADeltaX/WSAGAScript)
+[Don't USE Windows Subsystem for Android in 2025 - Its useless NOW - YouTube](https://www.youtube.com/watch?v=WBRwHF-X5Ow)
+
+[MustardChef/WSABuilds: Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.](https://github.com/MustardChef/WSABuilds)
+[WSA-Community/WSAGAScript: Scripts to install Google Apps into a WSA image. Plus optional root](https://github.com/WSA-Community/WSAGAScript) 😴inactive
 
 ## WSL (Windows Subsystem for Linux)
 
@@ -441,7 +442,7 @@ WSL2 using full Linux kernel (4.19) with Hyber-V debuted in WSL2 in 2019-06.
 
 [sirredbeard/Awesome-WSL: Awesome list dedicated to Windows Subsystem for Linux](https://github.com/sirredbeard/Awesome-WSL)
 [A Windows Subsystem for Linux Subreddit](https://www.reddit.com/r/bashonubuntuonwindows/)
-[Sysinternals/SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux)
+[microsoft/SysmonForLinux: Sysmon for Linux](https://github.com/microsoft/SysmonForLinux)
 
 [Microsoft/WSL: Issues found on WSL](https://github.com/Microsoft/WSL)
 [Windows 10 WSL - Phoronix](https://www.phoronix.com/scan.php?page=search&q=Windows+10+WSL)
@@ -466,12 +467,9 @@ WSL2 using full Linux kernel (4.19) with Hyber-V debuted in WSL2 in 2019-06.
 [Troubleshooting Windows Subsystem for Linux | Microsoft Learn](https://learn.microsoft.com/en-us/windows/wsl/troubleshooting)
 
 ```sh
-# legacy
-dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
-dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
-
 wsl --install # since Windows 10 build 2004
 wsl --update
+# https://github.com/microsoft/WSL/releases
 
 wsl --list --online # list distros
 wsl --install archlinux
@@ -488,6 +486,19 @@ WSL access Windows file system: `/mnt/c/`
 
 [WSL File System Support | Microsoft Learn](https://learn.microsoft.com/en-us/archive/blogs/wsl/wsl-file-system-support)
 [File System Improvements to the Windows Subsystem for Linux | Microsoft Learn](https://learn.microsoft.com/en-us/archive/blogs/wsl/file-system-improvements-to-the-windows-subsystem-for-linux)
+
+[Get started mounting a Linux disk in WSL 2 | Microsoft Learn](https://learn.microsoft.com/en-us/windows/wsl/wsl2-mount-disk)
+
+```sh
+# DrvFS supports NTFS, ReFS, FAT, and SMB.
+
+sudo mkdir /mnt/e
+sudo mount -t drvfs E: /mnt/e
+Mounting Network Drives
+
+sudo mkdir /mnt/networkshare
+sudo mount -t drvfs '\\server\share' /mnt/networkshare
+```
 
 ### WSL2
 
@@ -616,23 +627,70 @@ shell:SendTo -> %APPDATA%\Microsoft\Windows\SendTo
 
 ## Settings
 
+[Wintoys - Free download and install on Windows | Microsoft Store](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=HK)
+[I barely open the Windows Settings app anymore thanks to this free tool](https://www.makeuseof.com/manage-windows-settings-with-wintoys/)
+
 `Control Panel\System and Security\Security and Maintenance`
 Disable Windows Defender, Firewall and their warnings
 
-### Explorer's right click menu
+`Settings\Advancec Keyboard Settings\Input language hot keys`, set input language toggle to <kbd>Alt</kbd>+<kbd>Shift</kbd>
+`Powertoys\Command Palette`, set to <kbd>Win</kbd>+<kbd>Space</kbd>, with low level hoo
 
+#### Arch Linux
+
+[Install Arch Linux on WSL - ArchWiki](https://wiki.archlinux.org/title/Install_Arch_Linux_on_WSL)
+
+```sh
+pacman -S --needed base-devel git fish
+echo "%wheel ALL=(ALL) ALL" > /etc/sudoers.d/wheel
+useradd -m -G wheel ${username}
+passwd ${username}
+```
+
+```sh
+wsl -u ${username} --cd ~
+# entered WSL as user
+chsh -s /usr/bin/fish
+sudo vim /etc/locale.gen
+# uncomment the line with "en_US.UTF-8"
+sudo locale-gen
+
+# yay must be installed as non-root
+cd /tmp
+git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
+
+
+# binaries in `caravan/applications/bin` is not working
+yay -S ffmpeg imagemagick python vim wget curl
+yay -S bat dust eza fd fzf jq rg starship tmux uv xh yq zoxide
+
+ln -s /mnt/c/Users/{USER} ~/winhome
+ln -s ~/winhome/Desktop/ ~/
+ln -s ~/winhome/Documents/ ~/
+ln -s ~/winhome/Downloads/ ~/
+ln -s ~/winhome/Dropbox/ ~/
+ln -s ~/winhome/Pictures/ ~/
+ln -s ~/winhome/Videos/ ~/
+
+sudo mkdir ~/pCloudDrive
+sudo mount -t drvfs P: ~/pCloudDrive
+```
+
+### Explorer's right click menu (Context Menu)
+
+[[Fix] Slow Right Click and Crashes Caused by Shell Extensions » Winhelponline](https://web.archive.org/web/20251215055450/https://www.winhelponline.com/blog/fix-slow-right-click-crashes-shell-extensions/)
+[Manage the context-menu entries for files, folders, drives and Namespace objects](https://web.archive.org/web/20250901215244/https://www.winhelponline.com/xp/context_folders.htm)
+[Extending Shortcut Menus - Win32 apps | Microsoft Learn](https://learn.microsoft.com/en-us/windows/win32/shell/context?redirectedfrom=MSDN)
+[How to Clean Up Your Messy Windows Context Menu](https://www.howtogeek.com/1348/how-to-clean-up-your-messy-windows-context-menu/) images are wrong though
+[Add Cascading Menus for Programs in Desktop and My Computer Context Menus in Windows 7 and Later – AskVG](https://www.askvg.com/add-cascading-menus-for-your-favorite-programs-in-windows-7-desktop-context-menu/)
+[Editing the Windows 11 Explorer context (right-click) top level menu - Microsoft Q&A](https://learn.microsoft.com/en-us/answers/questions/2225674/editing-the-windows-11-explorer-context-%28right-cli)
 [How to Manually Edit the Right Click Menu in Windows](https://www.online-tech-tips.com/computer-tips/windows-right-click-context-menu)
-
-[ShellMenuView: Disable / enable context menu items of Explorer](https://www.nirsoft.net/utils/shell_menu_view.html)
-[ShellExView - Shell Extension Manager For Windows](https://www.nirsoft.net/utils/shexview.html)
-
-#### Editing
 
 Files:
 
 ```reg
-HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\
 HKEY_CLASSES_ROOT\*\shell
+HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\
 HKEY_CLASSES_ROOT\AllFileSystemObjects\ShellEx\ContextMenuHandlers
 ```
 
@@ -643,7 +701,24 @@ HKEY_CLASSES_ROOT\Folder\shellex\ContextMenuHandlers\
 HKEY_CLASSES_ROOT\Directory\shell
 ```
 
+Add `LegacyDisable` (REG_SZ) to disble item, `Extended` (REG_SZ) to move it to extended menu.
+
+[branhill/windows-11-context-menu-manager: Windows 11 Context Menu Manager is a simple tool that allows you to disable unwanted entries in Windows 11 Explorer new right-click context menu.](https://github.com/branhill/windows-11-context-menu-manager)
+[BluePointLilac/ContextMenuManager: 🖱️ 纯粹的Windows右键菜单管理程序](https://github.com/BluePointLilac/ContextMenuManager)
+[Ultimate Windows Context Menu Customizer](https://www.door2windows.com/ultimate-windows-context-menu-customizer-customize-context-menu-in-windows-xp-vista-7/)
+
+Still works for Windows 11, useful for cleaning context menu
+[ShellMenuView: Disable / enable context menu items of Explorer](https://www.nirsoft.net/utils/shell_menu_view.html)
+[ShellExView - Shell Extension Manager For Windows](https://www.nirsoft.net/utils/shexview.html)
+
+Obsolete:  
+Enable Classic context menu with WinScript, trim menu items with other apps
+[Classic context menu on Windows 11 - Windhawk](https://windhawk.net/mods/explorer-context-menu-classic)
+[Remove Unwanted Context Menu Items (Classic Menu Only) - Windhawk](https://windhawk.net/mods/remove-context-menu-items)
+
 #### Adding item
+
+[Burgaud.com - Open Command Window Here](https://www.burgaud.com/open-command-window-here/)
 
 ```reg
 Windows Registry Editor Version 5.00
@@ -652,7 +727,20 @@ Windows Registry Editor Version 5.00
 @="C:\\thing.exe \"%1\""
 ```
 
+```reg
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\shell\sublime]
+@="Open with Sublime Text..."
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\shell\sublime\command]
+@="\"C:\\Program Files\\Sublime Text 3\\subl.exe\" \"%1\""
+```
+
+Sample repos
+
 [WindowsDevTools/cmd_here_windows_10-reg at master · yanglr/WindowsDevTools](https://github.com/yanglr/WindowsDevTools/tree/master/cmd_here_windows_10-reg)
+[VincentBounce/Windows-Context-Menu-Tools: Windows Context Menu Tools🧰 using only Windows 10-11 built-in commands](https://github.com/VincentBounce/Windows-Context-Menu-Tools)
 
 ### Audio panel
 
@@ -664,26 +752,27 @@ Hibernation needs to be enabled manually
 Windows 11 disabled the UI setting for hibernate automatically after idle timeout.
 
 [Shut down, sleep, or hibernate your PC - Microsoft Support](https://support.microsoft.com/en-us/windows/shut-down-sleep-or-hibernate-your-pc-2941d165-7d0a-a5e8-c5ad-8c972e8e6eff)
-[How to set Windows 11 to hibernate automatically (hibernate - Microsoft Community](https://answers.microsoft.com/en-us/windows/forum/all/how-to-set-windows-11-to-hibernate-automatically/84231535-7f8f-49aa-9b26-fa8d25bb6fcc)
+[Activity- Microsoft confirms Windows 11 no longer triggers unexpected wake-ups or battery drain due to Modern Standby | Windows Latest](https://4sysops.com/members/michael-pietroforte/activity/73609/)
 
 ```powershell
 # in admin shell
 
+# show available sleep states
+powercfg /a
+
 # enable hibernation
-powercfg /HIBERNATE ON
+powercfg /HIBERNATE ON /TYPE REDUCED
 
 # query power plan
 powercfg /Q
 # look for Hibernate after (HIBERNATEIDLE) block
 
 # set hibernation timeout on battery to 20 minutes
-powercfg /x  hibernate-timeout-dc 20
+powercfg /x hibernate-timeout-dc 20
 
 # set hibernation timeout on power to 60 minutes
-powercfg /x  hibernate-timeout-ac 60
+powercfg /x hibernate-timeout-ac 60
 ```
-
-[how to create a hibernate shortcut on my desktop in Windows 10 - Microsoft Community](https://answers.microsoft.com/en-us/windows/forum/windows_10-start-winpc/how-to-create-a-hibernate-shortcut-on-my-desktop/ff0f8f3d-324e-4cc7-b0e5-7ecbc47ea74e)
 
 ### Passwordless login
 
@@ -927,8 +1016,12 @@ scoop install vscode
 [bcurran3/ChocolateyPackages: My published Chocolatey packages](https://github.com/bcurran3/ChocolateyPackages)
 [ChocolateyPackages/choco-cleaner at master · bcurran3/ChocolateyPackages](https://github.com/bcurran3/ChocolateyPackages/tree/master/choco-cleaner)
 
+[Chocolatey Software | Installing Chocolatey](https://chocolatey.org/install)
+
 ```sh
-Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+Get-ExecutionPolicy
+
+Set-ExecutionPolicy AllSigned -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 ```
 
 ```sh
@@ -949,15 +1042,11 @@ cup all -y
 
 ```
 7zip
+altsnap
 autohotkey.portable
 cdex
 chocolatey
-chocolatey-compatibility.extension
-chocolatey-core.extension
-chocolatey-font-helpers.extension
-chocolatey-misc-helpers.extension
-chocolatey-windowsupdate.extension
-cpu-z.portable
+cpu-z
 crystaldiskinfo.portable
 DotNet4.6.1
 epicgameslauncher
@@ -965,7 +1054,7 @@ gimp
 git
 GoogleChrome
 gsmartcontrol
-hwinfo.portable
+hwinfo
 irfanview
 onlyoffice
 mediainfo
@@ -974,12 +1063,10 @@ mpvio
 nerd-fonts-FiraCode
 openhardwaremonitor
 pinta
-ripgrep
-steam
-sumatrapdf.install
+powertoys
+sumatrapdf
 vscode
-wget
-yt-dlp
+windhawk
 ```
 
 ### Gaming setup
@@ -1002,12 +1089,10 @@ autohotkey.portable
 dotnet-sdk
 git
 GoogleChrome
-lockhunter
 mediainfo
 nerd-fonts-FiraCode
 notepad2-mod
 ripgrep
-sumatrapdf.install
 tightvnc
 visualstudio2019community
 vscode
@@ -1039,6 +1124,11 @@ webi node
 webi go+++
 
 ```
+
+### Store CLI
+
+[microsoft/msstore-cli: Microsoft Store CLI](https://github.com/microsoft/msstore-cli)
+[I tested Windows 11's secret "Store CLI" that lets you manage Microsoft Store apps via Terminal](https://www.windowslatest.com/2026/02/10/store-cli-is-a-winget-rival-for-managing-microsoft-store-apps/)
 
 ### WinGet
 
@@ -1105,7 +1195,7 @@ Or toggle setting in "App execution aliases"
 [How to Install and Log In to Windows 11 Without a Microsoft Account | Tom's Hardware](https://www.tomshardware.com/how-to/install-windows-11-without-microsoft-account)
 [Install Windows 11 24H2 without TPM and Secure Boot requirements · GitHub](https://gist.github.com/djibe/87b6ae5157c309fb611b428445e9fce9)
 
-If you do get stuck on the "need to connect to the internet" Windows 11 install page, hit Shift + F10, click the command window, type `start ms-cxh:localonly`, and hit enter.
+When going through the OOBE, disconnect from internet, upon "need to connect to the internet" page, hit Shift + F10, click the command window, type `start ms-cxh:localonly`, and hit enter.
 
 [How to create bootable USB drive for Windows 11 with Rufus (2025) - Pureinfotech](https://pureinfotech.com/rufus-create-bootable-windows-11-usb/)
 [Windows 11 25H2 後替代 bypassnro的新指令](https://vocus.cc/article/67ebbdc9fd89780001ec5ab3)

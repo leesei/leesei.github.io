@@ -2,7 +2,7 @@
 title: Email Services
 description: ""
 created: 2015-11-19
-updated: 2025-11-11
+updated: 2026-02-11
 tags:
   - ldap
   - mail
@@ -75,12 +75,6 @@ curl smtp://10.6.64.241 \
 Email will use signature and asymmetric encryption.
 
 https://www.phind.com/search/cm7oa7rk500002v6rojh23o49
-
-[Pretty Good Privacy - Wikiwand](https://www.wikiwand.com/en/articles/Pretty_Good_Privacy)
-[RFC 9580 - OpenPGP](https://datatracker.ietf.org/doc/html/rfc9580)
-[OpenPGP - ArchWiki](https://wiki.archlinux.org/title/OpenPGP)
-[Stateless OpenPGP - ArchWiki](https://wiki.archlinux.org/title/Stateless_OpenPGP)
-[sequoia-pgp / sequoia · GitLab](https://gitlab.com/sequoia-pgp/sequoia)
 
 [S/MIME - Wikiwand](https://www.wikiwand.com/en/articles/S/MIME)
 [RFC 8551 - Secure/Multipurpose Internet Mail Extensions (S/MIME) Version 4.0 Message Specification](https://datatracker.ietf.org/doc/html/rfc8551) obsoletes 5751

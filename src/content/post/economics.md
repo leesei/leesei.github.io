@@ -2,7 +2,7 @@
 title: Economics
 description: ""
 created: 2016-09-24
-updated: 2025-10-10
+updated: 2026-02-16
 tags:
   - economics
 ---
@@ -17,6 +17,7 @@ tags:
 [Asianometry - YouTube](https://www.youtube.com/@Asianometry)
 [小岛大浪吹-非正经政经频道 - YouTube](https://www.youtube.com/@xiaodaodalang)
 [Phil Edwards - YouTube](https://www.youtube.com/@PhilEdwardsInc)
+[硬核熊猫说 - YouTube](https://www.youtube.com/@YingHeXiongMaoShuo)
 
 [Investopedia](https://www.investopedia.com/)
 
@@ -83,6 +84,8 @@ Level 3: CDS insurances for MBS/ABS/CDO, CDS², CDS³, ...
 [【止凡】價投講財技三\_公司缺水點算？莊家供股玩法你又知幾多？【財自話語 第三十三話】 - YouTube](https://www.youtube.com/watch?v=AtZ4_t2zhag)
 [【止凡】價投講財技四*講下玩弄股權*合股*拆股*咩個案被人溝淡左二萬倍？【財自話語 第三十四話】 - YouTube](https://www.youtube.com/watch?v=xrz22HL9nzE)
 [【止凡】價投講財技五\_炒重組點高班法？莊家有乜辦法令你高位接佢貨？【財自話語 第三十五話】 - YouTube](https://www.youtube.com/watch?v=CKx6vmSLy5M&t=2s)
+
+[史上最難賺錢嘅投資工具！隨時一舖清袋！ - YouTube](https://www.youtube.com/watch?v=PXAHW69eCrI)
 
 [【硬核】苹果海外千亿税款如何避税 | 欧美政府税收反击战 - YouTube](https://www.youtube.com/watch?v=dQ2bjo07aNs)
 [一口气搞清避税天堂的资本游戏 - YouTube](https://www.youtube.com/watch?v=eT8xd3ap5oU)

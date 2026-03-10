@@ -2,7 +2,7 @@
 title: Java
 description: ""
 created: 2016-03-04
-updated: 2025-10-10
+updated: 2026-02-12
 tags:
   - clojure
   - comp/lang
@@ -124,6 +124,14 @@ mvn archetype:generate -DgroupId={project-packaging}
 [A Primer on JVM Memory Management and Troubleshooting - 1](https://dev.to/rrampage/a-primer-on-jvm-memory-management-and-troubleshooting---1-12b6)
 [JVM Primer Part 2 - Debugging memory issues](https://dev.to/rrampage/jvm-primer-part-2---debugging-performance-issues-1od)
 [How to Read a Thread Dump - DZone Java](https://dzone.com/articles/how-to-read-a-thread-dump)
+
+### Cryptography Extensions
+
+[[crypto-pkcs#Clients]]
+
+[Java Cryptography Architecture (JCA) Reference Guide](https://docs.oracle.com/javase/7/docs/technotes/guides/security/crypto/CryptoSpec.html)
+[What is the difference between JNI, JCE and JSSE? - wolfSSL](https://www.wolfssl.com/what-is-the-difference-between-jni-jce-and-jsse/)
+[java安全体系之JCA、JCE、JAAS、JSSE及其关系 - zhjh256 - 博客园](https://www.cnblogs.com/zhjh256/p/6337164.html)
 
 ## Libraries
 

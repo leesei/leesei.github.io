@@ -2,7 +2,7 @@
 title: Exercise
 description: ""
 created: 2019-04-17
-updated: 2025-11-04
+updated: 2026-03-10
 tags:
   - health
   - hiit
@@ -21,7 +21,7 @@ x 製造疲動的運動
 general adaptation syndrome
 stress recovery adaptation
 
-[【不要再这样拉伸了!】如何科学有效的热身! - YouTube](https://www.youtube.com/watch?v=CLNBn9doUUg)
+[#家居健康操系列 - YouTube](https://www.youtube.com/hashtag/%E5%AE%B6%E5%B1%85%E5%81%A5%E5%BA%B7%E6%93%8D%E7%B3%BB%E5%88%97)
 
 [好邱夫妻 - YouTube](https://www.youtube.com/channel/UC8W3EOCExdh-zzCZ_NFEGXQ)
 [范老师的光头 - YouTube](https://www.youtube.com/channel/UC47mpLOo-Y-sg3nnPpc4b0w)
@@ -138,6 +138,8 @@ Steady State Cardio/Long Slow Distance vs HIIT
 
 [【克服懒惰】早晨做这 4 件事帮你快速起床! - YouTube](https://www.youtube.com/watch?v=cE8lvuFb2H0)
 
+[StoryFit - YouTube](https://www.youtube.com/@storyfit888) interactive exercise
+
 [May Fit - YouTube](https://www.youtube.com/@MayFit8572)
 
 [Gladys Fit Life - YouTube](https://www.youtube.com/@GladysFitLife)
@@ -187,6 +189,7 @@ Isometric: contraction and hold
 [Stop Doing Abs Like This! (SAVE A FRIEND) - YouTube](https://www.youtube.com/watch?v=RMBLUjJblM4)
 [The Perfect PUSH-UP Workout (3 LEVELS) - YouTube](https://www.youtube.com/watch?v=AhdtowFDKT0)
 [Do Crunches Every Day And See What Happens To Your Body - YouTube](https://www.youtube.com/watch?v=QJYU-Et5eag)
+[【收藏向】不懂这些，俯卧撑易受伤、难突破！保姆级细节详解 - YouTube](https://www.youtube.com/watch?v=3HAQQ17AndY)
 
 [The “22 Day” Ab Workout (NO REST!) - YouTube](https://www.youtube.com/watch?v=9VsDP584zyQ)
 
@@ -273,6 +276,8 @@ Gladys Fit Life
 ## Stretching
 
 dynamic stretching is better than static holding
+
+[【不要再这样拉伸了!】如何科学有效的热身! - YouTube](https://www.youtube.com/watch?v=CLNBn9doUUg)
 
 [5 分钟运动前后全身热身拉筋运动，拉伸瑜伽初级入门 【周六野 Zoey】 - YouTube](https://www.youtube.com/watch?v=pNBw5o7EE6g)
 [健身前的 10 大動態伸展動作 (中文字幕) - YouTube](https://www.youtube.com/watch?v=-r0TYqz7INw)

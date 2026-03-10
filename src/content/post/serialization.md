@@ -2,7 +2,7 @@
 title: Serialization
 description: ""
 created: 2020-03-27
-updated: 2025-10-10
+updated: 2026-01-19
 tags:
   - comp/lang
 ---
@@ -19,6 +19,8 @@ tags:
 
 [Graphtage Documentation](https://trailofbits.github.io/graphtage/latest/index.html)
 [trailofbits/graphtage: A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.](https://github.com/trailofbits/graphtage)
+
+[CSV vs. Parquet vs. Arrow: Storage Formats Explained - KDnuggets](https://www.kdnuggets.com/csv-vs-parquet-vs-arrow-storage-formats-explained)
 
 ## IDL
 
@@ -62,17 +64,26 @@ TypeScript
 
 ## JavaScript Validators
 
-[samchon/typescript-json: Super-fast Runtime type checkers (validators) and JSON.stringify() function](https://github.com/samchon/typescript-json) `TSON`, zod is slow
+[Runtype Benchmarks](https://moltar.github.io/typescript-runtime-type-benchmarks/)
 
-[Comparing schema validation libraries: Zod vs. Yup - LogRocket Blog](https://blog.logrocket.com/comparing-schema-validation-libraries-zod-vs-yup/) Yup is pre-TypeScript
-
-[jquense/yup: Dead simple Object schema validation](https://github.com/jquense/yup)
-
+[Intro | Zod](https://zod.dev/) Zod v4 us a response to Validbot to reduce package size and improve performance
+[Zod Mini | Zod](https://zod.dev/packages/mini) modular design like Valibot
 [colinhacks/zod: TypeScript-first schema validation with static type inference](https://github.com/colinhacks/zod)
 [Zod Tutorial | Total TypeScript](https://www.totaltypescript.com/tutorials/zod)
 [Learn "Zod" In 5 Minutes - DEV Community](https://dev.to/arafat4693/learn-zod-in-5-minutes-17pn)
+Custom validation is called "refinement"
 
-[mattkingshott/iodine: A micro JavaScript validation library.](https://github.com/mattkingshott/iodine)
+[Valibot: The modular and type safe schema library](https://valibot.dev/)
+[Introducing Valibot, a < 1kb Zod Alternative](https://www.builder.io/blog/introducing-valibot)
+
+[ArkType: TypeScript's 1:1 validator, optimized from editor to runtime](https://arktype.io/)
+
+[Zod VS Valibot: JS/TS Validator Battle! - YouTube](https://www.youtube.com/watch?v=6P-2urhScwk&t=369s)
+[Comparing schema validation libraries: Zod vs. Yup - LogRocket Blog](https://blog.logrocket.com/comparing-schema-validation-libraries-zod-vs-yup/) Yup is pre-TypeScript
+
+[samchon/typia: Super-fast/easy runtime validators and serializers via transformation](https://github.com/samchon/typia) Protocol Buffer codec
+
+[jquense/yup: Dead simple Object schema validation](https://github.com/jquense/yup)
 
 [Introduction - Superstruct](https://docs.superstructjs.org/)
 [ianstormtaylor/superstruct: A simple and composable way to validate data in JavaScript (and TypeScript).](https://github.com/ianstormtaylor/superstruct)

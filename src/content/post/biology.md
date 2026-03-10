@@ -2,7 +2,7 @@
 title: Biology
 description: Scientific study of life
 created: 2016-09-24
-updated: 2025-10-10
+updated: 2026-01-18
 tags:
   - biology
   - learning
@@ -85,6 +85,7 @@ vestigial: atrophied, become functionless in the course of evolution
 
 ## Evolution
 
+[这才是进化论的完整故事：一场持续百年的“弑神”与“封神”之战｜睡前科学故事｜进化论 - YouTube](https://www.youtube.com/watch?v=9Xi-cIQ7zV4)
 [重磅發現！從魚開始進化到人類，演化的奧秘被首次正式揭開了？丨黑毛羊駝 - YouTube](https://www.youtube.com/watch?v=D8wOfJb5-q0)
 [聊聊大家關注的那些進化論話題！長頸鹿長脖子之謎，25 年前才出現的、即將引起生態浩劫的新物種！ - YouTube](https://www.youtube.com/watch?v=vX9XX06t9gA)
 [How Evolution works - YouTube](https://www.youtube.com/watch?v=hOfRN0KihOU)
@@ -133,6 +134,7 @@ Convergent evolution 趨同進化: two unrelated animals evolved similar traits
 
 [為什麼說進化的終點是螃蟹？原來，至少有 5 類史前蟲子進化成了螃蟹……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=Fu0gTUT_MHk)
 [Why Do Things Keep Evolving Into Crabs? - YouTube](https://www.youtube.com/watch?v=wvfR3XLXPvw)
+[Why Does EVERYTHING Evolve Into Crabs? - YouTube](https://www.youtube.com/watch?v=GXg1gEZaHas)
 
 ## Phylogeny
 
@@ -143,6 +145,7 @@ Convergent evolution 趨同進化: two unrelated animals evolved similar traits
 
 A model that traces the evolutionary history of between organisms.
 Phylogenic characteristics are used to help establish taxanomic groupings.
+以生殖隔離區分物種(生物學物種)是過去的方法, 現代物種是以系統發育上的單系群來定義的(系統發育種)
 
 Professor Dave Explains
 [Phylogeny and the Tree of Life - YouTube](https://www.youtube.com/watch?v=KLMn4XwS8Tw) ❗!important

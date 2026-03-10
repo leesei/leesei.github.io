@@ -2,7 +2,7 @@
 title: One Piece
 description: ""
 created: 2016-06-18
-updated: 2025-10-10
+updated: 2025-11-14
 tags:
   - anime
   - manga
@@ -77,6 +77,7 @@ tags:
 878-890: 世界會議篇
 891-: 和之國篇
 [Wano War will be the "War of the Worst" - ONE PIECE Fanpage](https://www.opfanpage.com/2020/05/24/the-war-of-the-worst/)
+[一口氣看完神之谷事件！洛克斯弒神失敗！全員皇級集結！最巔峰傳奇混戰！ - YouTube](https://www.youtube.com/watch?v=k_ihIi61Xq4)
 
 ## 扉頁故事
 

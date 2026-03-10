@@ -2,7 +2,7 @@
 title: Build Systems
 description: ""
 created: 2015-06-11
-updated: 2025-10-10
+updated: 2026-02-01
 tags:
   - bazel
   - buck
@@ -111,6 +111,8 @@ Examples:
 
 [Introduction - Just Programmer's Manual](https://just.systems/man/en/)
 [casey/just: 🤖 Just a command runner](https://github.com/casey/just)
+
+[I'm never writing another Makefile ever again - YouTube](https://www.youtube.com/watch?v=_aQ8xJ5DuHY)
 
 ## Buck
 

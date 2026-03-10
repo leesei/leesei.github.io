@@ -2,7 +2,7 @@
 title: VPN
 description: ""
 created: 2023-04-14
-updated: 2025-10-10
+updated: 2026-01-16
 tags:
   - comp/network
 ---
@@ -112,6 +112,10 @@ tags:
 [gurucomputing/headscale-ui: A web frontend for the headscale Tailscale-compatible coordination server](https://github.com/gurucomputing/headscale-ui)
 [Self Host Tailscale with Headscale - How To Setup - YouTube](https://www.youtube.com/watch?v=OECp6Pj2ihg)
 [JimsGarage/Headscale at main · JamesTurland/JimsGarage · GitHub](https://github.com/JamesTurland/JimsGarage/tree/main/Headscale)
+
+## fastd
+
+[Welcome to fastd’s documentation! — fastd 23 documentation](https://fastd.readthedocs.io/en/stable/index.html)
 
 ## Cloudflare Worker VPN
 

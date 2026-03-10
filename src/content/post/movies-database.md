@@ -2,7 +2,7 @@
 title: Movies Database
 description: ""
 created: 2015-08-26
-updated: 2025-10-14
+updated: 2025-12-23
 tags:
   - movies
 ---
@@ -92,10 +92,18 @@ Innovative and personalized recommendation system.
 [Iconic Star Rewind - YouTube](https://www.youtube.com/@IconicStarRewind)
 [The Movie Rabbit Hole - YouTube](https://www.youtube.com/@TheMovieRabbitHole)
 [电影冷知识 - YouTube](https://www.youtube.com/@MR__COLD)
+[RJR Productions - YouTube](https://www.youtube.com/@rjr_productions) Movie props with cardboard
 
 [The Incredible True Story Of How "Titanic" Got Made](https://www.buzzfeednews.com/article/sarahmarshall/20-years-ago-titanic-took-over-the-world-heres-why)
 [經典電影大解密｜Breaks Down - YouTube](https://www.youtube.com/playlist?list=PLiyT3ZJaRwTvS7o7p9DJoIDPCDO1Ph2co)
 [BEHIND THE SCENES & B-ROLL - YouTube](https://www.youtube.com/playlist?list=PLQ7_GA82PpMGBaHHowmE-Ucs__mY7UA5M)
+
+### False Perspective
+
+[Is This The GREATEST In-Camera Effect of ALL TIME? - YouTube](https://www.youtube.com/watch?v=MVUuoXAkuUg)
+
+Traditional False Perspective shots are nodally locked  
+LotR is the first one to introduce camera movement by creating parallax effect
 
 ### Foley
 
@@ -121,6 +129,7 @@ Innovative and personalized recommendation system.
 [這部電影還原了一千年前，耶路撒冷的殺戮、仇恨與狂熱【天國王朝(1/3)】 - YouTube](https://www.youtube.com/watch?v=ZEVBhnoespI)
 [一場1000年前的無差別屠殺，挑起了耶路撒冷的戰爭漩渦【天國王朝(2/3)】 - YouTube](https://www.youtube.com/watch?v=nHSgLEBgTz0)
 [教皇說這是上帝的戰爭，人性卻説這是不義的殺戮【天國王朝(3/4)】 - YouTube](https://www.youtube.com/watch?v=-9v0ZR02tzM)
+[十字軍殺了我們的人，但我放下了宗教仇恨的執著 | 薩拉丁【天國王朝(4/4)】 - YouTube](https://www.youtube.com/watch?v=BqLmRS-riZU)
 
 # Comics Movies
 

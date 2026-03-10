@@ -2,7 +2,7 @@
 title: Testing
 description: ""
 created: 2015-06-17
-updated: 2025-10-10
+updated: 2026-01-31
 tags:
   - comp/lang
   - dev/testing
@@ -28,7 +28,7 @@ Smoke tests (quickly determine if the system is "working")
 
 Integration/Functional Test: do the pieces work together as I expected?
 Unit Test: given input _x_, is the output _y_?
-[JavaScript Testing: Unit vs Functional vs Integration Tests](http://www.sitepoint.com/javascript-testing-unit-functional-integration/) !important
+[JavaScript Testing: Unit vs Functional vs Integration Tests](http://www.sitepoint.com/javascript-testing-unit-functional-integration/) ❗!important
 [What are Unit Testing, Integration Testing and Functional Testing? | CodeUtopia](https://codeutopia.net/blog/2015/04/11/what-are-unit-testing-integration-testing-and-functional-testing/)
 [testing - What is Unit test, Integration Test, Smoke test, Regression Test? - Stack Overflow](https://stackoverflow.com/questions/520064/what-is-unit-test-integration-test-smoke-test-regression-test)
 [Better software testing through automation | InfoWorld](http://www.infoworld.com/article/3068598/application-development/better-software-testing-through-automation.html)
@@ -223,6 +223,7 @@ Some test runners take the features and generate test scripts in various languag
 [google/AFL: american fuzzy lop - a security-oriented fuzzer](https://github.com/google/AFL/) 😴inactive,
 [Fuzzing With AFL-Fuzz, a Practical Example ( AFL vs Binutils )](https://www.evilsocket.net/2015/04/30/Fuzzing-with-AFL-Fuzz-a-Practical-Example-AFL-vs-binutils/)
 [the 7z rabbit hole is extremely deep. (1000's of crashes) - YouTube](https://www.youtube.com/watch?v=i5L9xEk_adw) `afl-gcc`, `afltriage`
+[Fuzzing 1001: Introductory white-box fuzzing with AFL++ | OpenSecurityTraining2](https://www.ost2.fyi/Fuzz1001)
 
 [The AFL++ fuzzing framework | AFLplusplus](https://aflplus.plus/)
 [AFLplusplus/AFLplusplus: The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!](https://github.com/AFLplusplus/AFLplusplus)
@@ -319,7 +320,7 @@ Some test runners take the features and generate test scripts in various languag
 
 > TODO: Define "Test runner", "Assertion", "Framework"
 
-[An Overview of JavaScript Testing in 2017 – powtoon-engineering – Medium](https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a) !important
+[An Overview of JavaScript Testing in 2017 – powtoon-engineering – Medium](https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a) ❗!important
 [Testing Node.js in 2018 – Hacker Noon](https://hackernoon.com/testing-node-js-in-2018-10a04dd77391)
 [Incredibly convenient testing of front-end Javascript with Node.js - Staal Forge](http://staal.io/blog/2013/08/17/incredibly-convenient-testing-of-frontend-javascript-with-node-dot-js/)
 [5 Questions Every Unit Test Must Answer — JavaScript Scene — Medium](https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d)

@@ -2,7 +2,7 @@
 title: Container Orchestration
 description: ""
 created: 2014-12-11
-updated: 2025-10-10
+updated: 2026-01-13
 tags:
   - container
   - dev/deploy
@@ -32,7 +32,7 @@ See projects under [Cloud Native Computing Foundation](https://www.cncf.io/proje
 [Container Orchestration Tools: Kubernetes vs Docker vs Apache Mesos](https://www.itprotoday.com/containerization/comparing-container-orchestration-tools-kubernetes-docker-swarm-apache-mesos) 2024-04
 [Kubernetes vs Docker Swarm: A comparison of cloud container tools](https://www.cbronline.com/in-depth/kubernetes-vs-docker-container-tools) 2018-02
 [Docker Swarm Management: A Quick Overview of Rancher, Portainer and Shipyard](https://www.servethehome.com/docker-swarm-management-a-quick-overview-of-rancher-portainer-and-shipyard/) 2017-02
-[Kubernetes, Mesos, and Swarm: Comparing the Rancher Orchestration Engine Options | Rancher Labs](https://rancher.com/comparing-rancher-orchestration-engine-options/) 2016-10 !important
+[Kubernetes, Mesos, and Swarm: Comparing the Rancher Orchestration Engine Options | Rancher Labs](https://rancher.com/comparing-rancher-orchestration-engine-options/) 2016-10 ❗!important
 [Docker Orchestrations Compared: Kubernetes vs Amazon ECS vs Docker Cloud / Swarm / EE / Cloud (PART I)](https://sematext.com/blog/2017/04/24/docker-orchestration-poll-kubernetes-swarm-amazon-ecs/) 2017-04
 [Choosing the Right Containerization and Cluster Management Tool](https://blog.kublr.com/choosing-the-right-containerization-and-cluster-management-tool-fdfcec5700df) 2017-02
 [Container Orchestration Wars - YouTube](https://www.youtube.com/watch?v=C_u4_l84ED8) 2016-07
@@ -150,7 +150,7 @@ Rancher > Portainer > shipyard
 
 > PaaS
 
-[Dokploy - Effortless Deployment Solutions](https://dokploy.com/)
+[Dokploy - Deploy your applications with ease](https://dokploy.com/)
 [Dokploy/dokploy: Open Source Alternative to Vercel, Netlify and Heroku.](https://github.com/Dokploy/dokploy)
 
 ## Portainer

@@ -2,7 +2,7 @@
 title: Monster Hunter XX
 description: ""
 created: 2018-01-11
-updated: 2025-10-10
+updated: 2026-01-13
 tags:
   - games
   - mhxx
@@ -44,8 +44,8 @@ tags:
 
 [ライトボウガン最終強化 | 【MHXX】モンハンダブルクロス攻略レシピ](http://wiki.mhxg.org/data/2712.html)
 
-[【心得】MHXX 推薦輕弩（雜誌圖與磚頭書資料誤植？速射補正實驗與影片） @魔物獵人 哈啦板 - 巴哈姆特](https://forum.gamer.com.tw/C.php?bsn=5786&snA=133934) !important
-[【心得】輕弩可一點都不輕鬆－寫給新米看的輕弩通論 @魔物獵人 哈啦板 - 巴哈姆特](https://forum.gamer.com.tw/C.php?bsn=05786&snA=130756) !important
+[【心得】MHXX 推薦輕弩（雜誌圖與磚頭書資料誤植？速射補正實驗與影片） @魔物獵人 哈啦板 - 巴哈姆特](https://forum.gamer.com.tw/C.php?bsn=5786&snA=133934) ❗!important
+[【心得】輕弩可一點都不輕鬆－寫給新米看的輕弩通論 @魔物獵人 哈啦板 - 巴哈姆特](https://forum.gamer.com.tw/C.php?bsn=05786&snA=130756) ❗!important
 [【心得】久違的順風－ＭＨＸ輕弩心得 @魔物獵人 哈啦板 - 巴哈姆特](https://forum.gamer.com.tw/C.php?bsn=05786&snA=131502)
 
 [弾,リロード性能 -(MHXX)モンスターハンターダブルクロス攻略データ wiki](http://mhx-wiki.com/index.php?弾%2Cリロード性能)

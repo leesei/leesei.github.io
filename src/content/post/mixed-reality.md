@@ -2,7 +2,7 @@
 title: Mixed Reality
 description: ""
 created: 2015-07-14
-updated: 2025-11-13
+updated: 2025-12-27
 tags:
   - augmented-reality
   - comp/hardware
@@ -188,6 +188,7 @@ Pattern (picture) marker:
 
 [科幻电影里的高科技眼镜来了 - YouTube](https://www.youtube.com/watch?v=by6EMFkJVto) 1:06:47, history and prediction
 
+[在方寸间驯化光--AR眼镜的使命 - YouTube](https://www.youtube.com/watch?v=onZ-Rhr86xA)
 [未来十年是 AR 可能替代手机 - YouTube](https://www.youtube.com/watch?v=fpO2sHQPTCM)
 
 - 全能型
@@ -244,6 +245,7 @@ Integrated spacial 3Dof processor
 ## Valve Frame
 
 [Every Other VR Headset is Obsolete Now - Steam Frame First Look - YouTube](https://www.youtube.com/watch?v=dU3ru09HTng)
+[Steam Frame vs. Every Other VR Headset! - YouTube](https://www.youtube.com/watch?v=NVVvAH6cd6k)
 
 # Second Gen Headsets
 

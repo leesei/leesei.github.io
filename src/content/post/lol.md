@@ -2,7 +2,7 @@
 title: LOL
 description: ""
 created: 2018-09-03
-updated: 2025-10-10
+updated: 2026-02-02
 tags:
   - lol
   - trivia
@@ -15,6 +15,8 @@ tags:
 [【系列】雪櫃冷笑話 ☃️ - YouTube](https://www.youtube.com/playlist?list=PLCLioSzos2YvXiSIFcLXICwUniJBjZhWp)
 
 [十萬個冷笑話 第一季~第三季 - YouTube](https://www.youtube.com/playlist?list=PLi_OO5MFnSj0MU5UMCCLnIG1bqcia4HFh)
+
+[逗比錘錘 - YouTube](https://www.youtube.com/@funnyhammer-me/shorts) animal voice overs
 
 [#周深 封神之曲《达拉崩吧》 - YouTube](https://www.youtube.com/watch?v=yM5NU6NPS_o)
 
@@ -45,11 +47,13 @@ When it comes to programming career, choose two in: Legal, Well Paid, Interestin
 
 [黃子華 Dayo Wong 棟篤笑 - 官方頻道 - YouTube](https://www.youtube.com/@tzewahofficial)
 
-[明星爆笑社 - YouTube](https://www.youtube.com/@%E6%98%8E%E6%98%9F%E7%88%86%E7%AC%91%E7%A4%BE/playlists)
+[哈哈综艺秀 - YouTube](https://www.youtube.com/@%E5%93%88%E5%93%88%E7%BB%BC%E8%89%BA%E7%A7%80cdrama27)
+[Happy Night Live 笑口常开 - YouTube](https://www.youtube.com/@Happy23333)
+[奇趣综艺局 - YouTube](https://www.youtube.com/@%E5%A5%87%E8%B6%A3%E7%BB%BC%E8%89%BA%E5%B1%80)
 [德云欢乐铺 - YouTube](https://www.youtube.com/@DeYunShow)
+[明星爆笑社 - YouTube](https://www.youtube.com/@%E6%98%8E%E6%98%9F%E7%88%86%E7%AC%91%E7%A4%BE/playlists)
 [漫品德云相声 - YouTube](https://www.youtube.com/@Crosstalk_DeYun)
 [赛博领笑员 - YouTube](https://www.youtube.com/@%E8%B5%9B%E5%8D%9A%E9%A2%86%E7%AC%91%E5%91%98)
-[Happy Night Live 笑口常开 - YouTube](https://www.youtube.com/@Happy23333)
 
 [YouTube #脱口秀](https://www.youtube.com/hashtag/%E8%84%B1%E5%8F%A3%E7%A7%80)
 

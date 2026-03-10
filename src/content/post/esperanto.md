@@ -2,7 +2,7 @@
 title: Esperanto
 description: ""
 created: 2019-04-20
-updated: 2025-10-10
+updated: 2026-01-13
 tags:
   - esperanto
   - language
@@ -11,7 +11,7 @@ tags:
 [Esperanto - Wikiwand](https://www.wikiwand.com/en/Esperanto)
 [Esperanto – Esperanto: the international language](http://esperanto.net/en/)
 
-[A multilingual site for learning the international language Esperanto - lernu.net](https://lernu.net/en) !important
+[A multilingual site for learning the international language Esperanto - lernu.net](https://lernu.net/en) ❗!important
 [Esperanto in 12 days | The Fastest Course for the Basics](https://learn.esperanto.com/)
 [Esperanto - The International Language](http://esperanto.davidgsimpson.com/index.html)
 

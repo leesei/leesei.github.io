@@ -2,7 +2,7 @@
 title: React.js
 description: The library for web and native user interfaces
 created: 2015-12-04
-updated: 2025-10-10
+updated: 2025-11-20
 tags:
   - frontend
   - javascript
@@ -53,7 +53,7 @@ React blends view and controller more the higher up in the component hierarchy. 
 [React Labs: What We've Been Working On – February 2024 – React](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)
 [React 19 Is Here - Are You Ready? - YouTube](https://www.youtube.com/watch?v=B-tjhF7ojeA)
 
-[Watch The 2020 Reactathon San Francisco Developer Conference for Free](https://www.freecodecamp.org/news/reactathon-2020-conference-live-youtube/)
+[From 0 to Production - The Modern React Tutorial (RSCs, Next.js, Shadui, Drizzle, TS and more) - YouTube](https://www.youtube.com/watch?v=d5x0JCZbAJs)
 
 ## Introduction
 
@@ -545,6 +545,8 @@ Use two-pass rendering to prevent invalid default state, `useHasMounted()`.
 > since 16.6
 
 `<Suspense>` captures a _thrown_ `Promise` from its children in render tree and renders the component in `fallback` prop.
+[<Suspense> – React](https://react.dev/reference/react/Suspense)
+
 [React Suspense: Bringing a Bit of Hitchcock to UI Performance](https://medium.com/@mark.okeeffe_11887/react-suspense-bringing-a-bit-of-hitchcock-to-ui-performance-d132aa986e99)
 [Understanding Suspense-ful coding in React - DEV Community](https://dev.to/zackdotcomputer/understanding-suspense-ful-coding-in-react-3n53) uses [`suspension`](https://github.com/zackdotcomputer/suspension)
 
@@ -564,7 +566,6 @@ Present and future
 
 Another use case is for data fetching (experimental), using `react-cache` (experimental).
 This function also be archived by Hooks as of now.
-[The Suspense is Killing Redux - Ryan Florence - Medium](https://medium.com/@ryanflorence/the-suspense-is-killing-redux-e888f9692430)
 [Suspense for Data Fetching (Experimental) – React](https://reactjs.org/docs/concurrent-mode-suspense.html#approach-3-render-as-you-fetch-using-suspense)
 [React Suspense in Practice | CSS-Tricks](https://css-tricks.com/react-suspense-in-practice/)
 [How to use React Suspense for Data Fetching Now | Level Up Coding](https://levelup.gitconnected.com/how-you-can-use-react-suspense-for-data-fetching-in-real-world-applications-now-9fda8138f687)
@@ -573,8 +574,8 @@ This function also be archived by Hooks as of now.
 
 `<SuspenseList>` controls order of rendering
 [First Look at React Suspense List - YouTube](https://www.youtube.com/watch?v=KO8rPRyCZd4)
-[Concurrent UI Patterns (Experimental) – React](https://reactjs.org/docs/concurrent-mode-patterns.html)
-[Concurrent Mode API Reference (Experimental) – React](https://reactjs.org/docs/concurrent-mode-reference.html#suspenselist)
+[React v18.0 – React](https://react.dev/blog/2022/03/29/react-v18#gradually-adopting-concurrent-features) Concurrent React
+[The Ultimate Guide to React: Conquering Concurrent Mode and Suspense - DEV Community](https://dev.to/codesensei/the-ultimate-guide-to-react-conquering-concurrent-mode-and-suspense-3ahb)
 
 ## Hook
 
@@ -583,11 +584,10 @@ This function also be archived by Hooks as of now.
 
 new API to replace life cycle API, co-locate effect/logic and state to a reusable function
 
-[Introducing Hooks – React](https://reactjs.org/docs/hooks-intro.html) ❗!important
-[Rules of Hooks – React](https://reactjs.org/docs/hooks-rules.html)
-[Hooks at a Glance – React](https://reactjs.org/docs/hooks-overview.html)
-[Hooks FAQ – React](https://reactjs.org/docs/hooks-faq.html)
-[Hooks API Reference – React](https://reactjs.org/docs/hooks-reference.html)
+[Quick Start – React](https://react.dev/learn#using-hooks)
+[Rules of Hooks – React](https://react.dev/reference/rules/rules-of-hooks)
+[Built-in React Hooks – React](https://react.dev/reference/react/hooks)
+[Hooks FAQ – React](https://legacy.reactjs.org/docs/hooks-faq.html)
 
 [One Hook Per Screen: a simple architecture for scalable React Native apps | Theodo](https://blog.theodo.com/2023/02/one-hook-per-screen/) application, best practice, custom hook
 
@@ -727,7 +727,7 @@ useEffect(() => {
 }, [props.source]);
 ```
 
-For DOM related effects use [`useLayoutEffect()`](https://reactjs.org/docs/hooks-reference.html#uselayouteffect)
+For DOM related effects use [`useLayoutEffect()`](https://react.dev/reference/react/useLayoutEffect)
 
 ### `useReducer()`
 
@@ -796,7 +796,7 @@ const BookEntryList = (props) => {
 [usehooks-ts - React hooks library, written in Typescript](https://usehooks-ts.com/)
 [useHooks - Easy to understand React Hook recipes](https://usehooks.com/)
 [imbhargav5/rooks: Essential React custom hooks ⚓ to super charge your components!](https://github.com/imbhargav5/rooks)
-[@mantine/hooks](https://mantine.dev/hooks/)
+[Get started | Mantine hooks](https://mantine.dev/hooks/package/)
 [@mantine/hooks - npm](https://www.npmjs.com/package/@mantine/hooks)
 [streamich/react-use: React Hooks — 👍](https://github.com/streamich/react-use)
 [pmndrs/its-fine: 🐶🔥 A collection of escape hatches for React.](https://github.com/pmndrs/its-fine)
@@ -805,7 +805,7 @@ const BookEntryList = (props) => {
 [kripod/react-hooks: Essential set of React Hooks for convenient Web API consumption and state management.](https://github.com/kripod/react-hooks) 😴inactive
 [rehooks/awesome-react-hooks: Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks) 😴inactive
 [beizhedenglong/react-hooks-lib: A set of reusable React Hooks.](https://github.com/beizhedenglong/react-hooks-lib) 😴inactive
-[Hooks.guide](https://hooks-guide.netlify.app/) 😴inactive
+[Hooks.guide](https://hooks-guide.*netlify*.app/) 😴inactive
 
 [React Hooks: Recipes - codeburst](https://codeburst.io/react-hooks-recipes-1c18e5984abe) ❗!important
 [11 Useful Custom React Hooks for Your Next Web App - Bits and Pieces](https://blog.bitsrc.io/11-useful-custom-react-hooks-for-your-next-app-c66307cf0f0c)
@@ -813,7 +813,7 @@ const BookEntryList = (props) => {
 [How to execute a function only after the user stops typing? - DEV](https://dev.to/przemwo/how-to-execute-a-function-only-after-the-user-stops-typing-beh) `useEffect()` for debouncing
 [15 Custom Hooks to Make your React Component Lightweight - DEV Community](https://dev.to/nilanth/15-custom-hooks-to-make-your-react-component-lightweight-17cd)
 
-[Building Your Own Hooks – React](https://reactjs.org/docs/hooks-custom.html)
+[Reusing Logic with Custom Hooks – React](https://react.dev/learn/reusing-logic-with-custom-hooks)
 [React: Writing a custom API hook - DEV Community 👩‍💻👨‍💻](https://dev.to/patrixr/react-writing-a-custom-api-hook-l16)
 [Writing Your Own React Hooks, the Return Value - DEV Community 👩‍💻👨‍💻](https://dev.to/namick/writing-your-own-react-hooks-the-return-value-3lp6)
 [Build your own React hook - DEV Community 👩‍💻👨‍💻](https://dev.to/notrab/build-a-react-hook-from-scratch-15ia)

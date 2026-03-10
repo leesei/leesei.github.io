@@ -2,7 +2,7 @@
 title: Hydraulic Engineering
 description: ""
 created: 2023-06-12
-updated: 2025-10-10
+updated: 2026-01-20
 tags:
   - science
 ---
@@ -26,9 +26,14 @@ bridges 橋梁, dams 水壩, channels 河道, canals 運河, levees 堤防, weir
 [堰 #shorts](https://www.youtube.com/shorts/O1AOUZDuM5c)
 [三分鐘模擬動畫，詳解都江堰的原理。史上最直觀展示古代水利工程的智慧奇蹟，都江堰的建造流程及結構。 - YouTube](https://www.youtube.com/watch?v=v--prkxIFs0)
 
-[都江堰 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E9%83%BD%E6%B1%9F%E5%A0%B0) 戰國
+[都江堰 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E9%83%BD%E6%B1%9F%E5%A0%B0) 據史記為戰國秦人李冰父子修建
 [千年奇迹都江堰：2300年前的水利工程如何造就天府之国？ - YouTube](https://www.youtube.com/watch?v=gtFSBftabeU)
 [中华上下五千年，都江堰运转2300年！这是如何做到的？| DUJIANGYAN: CHENGDU'S LIFEBLOOD【星球研究所】 - YouTube](https://www.youtube.com/watch?v=Q_lSS9oBX5o)
+[挖出千年鎮水獸，原來，都江堰背後隱藏著一個被刪除的上古故事……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=P73sBWB3Q5w) 古蜀國, 都江堰
+
+- 魚嘴, 把岷江分成內外江, 二次分沙減少內江往寶瓶口的沙量, 較深的內江也控制分水量
+- 寶瓶口, 開鑿玉疊山而成的運河, 往成都平原
+- 飛沙堰, 內江往外注的油洪口, 分流寶瓶口水量, 水量少時則成了內江往寶瓶口的壩, 亦可自然處理沉降的泥沙
 
 ## 運河
 

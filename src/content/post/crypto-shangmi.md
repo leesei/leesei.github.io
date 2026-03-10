@@ -2,7 +2,7 @@
 title: Shangmi
 description: A suite of authentication, encryption, and hash algorithms from the People's Republic of China.
 created: 2025-02-20
-updated: 2025-10-10
+updated: 2026-02-24
 tags:
   - crypto
   - cryptography
@@ -10,7 +10,15 @@ tags:
   - shangmi
 ---
 
+[[tlcp]]
+
 [PKI - 一文读懂SM1、SM2、SM3、SM4等国密算法-腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/2421525)
+[中国商用密码算法标准概况 - 商用密码标准研究院](https://www.niccs.org.cn/symmbzyjy/tzgg/pc/content/1937424224048648192/content_1937424224048648192.html)
+[Update on the IT Security Standards in China – atsec](https://atsec.com/update-on-the-it-security-standards-in-china/)
+
+[前言 - 商用密码技术最佳实践白皮书](https://openanolis.github.io/whitebook-shangmi/overview.html)
+[直播回顾：如何基于Linux内核构建起商用密码基础设施？| 龙蜥技术*51CTO博客*基于Linux内核](https://blog.51cto.com/u_15308345/4731698)
+
 国密即国家商用密码管理办公室认定的国产密码算法。主要有SM1，SM2，SM3，SM4。密钥长度和分组长度均为128位。
 国密算法是指国家密码管理局认定的一系列国产密码算法，包括SM1-SM9以及ZUC等。其中
 
@@ -23,12 +31,14 @@ tags:
 ## Standard
 
 [商用密码标准研究院](https://www.niccs.org.cn/) PQC
-[中国商用密码算法标准概况----商用密码标准研究院](https://www.niccs.org.cn/tzgg/202503/t20250314_484777.html)
+[关于开展新一代商用密码算法征集活动的公告 - 商用密码标准研究院](https://www.niccs.org.cn/symmbzyjy/tzgg/pc/content/1937422988373135360/content_1937422988373135360.html)
+[关于征集新一代公钥密码算法提案的通知 - 商用密码标准研究院](https://www.niccs.org.cn/symmbzyjy/tzgg/pc/content/1976155884915003392/content_1976155884915003392.html)
+[关于征集新一代密码杂凑算法提案的通知 - 商用密码标准研究院](https://www.niccs.org.cn/symmbzyjy/tzgg/pc/content/1976158633115258880/content_1976158633115258880.html)
 
 [标准规范查询\_国家商用密码管理办公室](https://www.oscca.gov.cn/app-zxfw/zxfw/bzgfcx.jsp)
 
 [国家标准全文阅读|标准检索](https://openstd.samr.gov.cn/bzgk/gb/std_list?p.p1=0&p.p90=circulation_date&p.p91=desc&p.p2=15843) GB/T 15843 Entity authentication
-[国家标准|GB/T 15843.2-2017](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=B66B686C5FFDA6C6F1DA03FB832B9EFB) symmetric encryption
+[国家标准|GB/T 15843.2-2024](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=44E4F346D0EFFAB85080C2C159AE5CFC) symmetric encryption
 [国家标准|GB/T 15843.2-2024](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=44E4F346D0EFFAB85080C2C159AE5CFC) authenticated encryption
 [国家标准|GB/T 15843.3-2023](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=865E7FB3C0272066308DB6139BEADBD2) digital signature
 [国家标准|GB/T 15843.4-2024](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=2545231D229CB1E9082350F76959B029) cryptographic check
@@ -44,6 +54,8 @@ tags:
 
 ## Implementation
 
+[OpenAnolis 国密算法库 - 商用密码技术最佳实践白皮书](https://openanolis.github.io/whitebook-shangmi/crypto_library.html)
+
 ### OpenSSL
 
 > OpenSSL added SM2, SM3, SM4 support since 1.1.1i in 2018
@@ -54,16 +66,22 @@ tags:
 
 ### GMSSL
 
-> probably obsolete
-
 [The GmSSL Project](http://gmssl.org/)
-[guanzhi/GmSSL: 支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱](https://github.com/guanzhi/GmSSL)
+[guanzhi/GmSSL: 支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱](https://github.com/guanzhi/GmSSL) 北京大学自主开发的国产商用密码开源库
+[GmSSL/OpenSSL-Compatibility-Layer: OpenSSL Compatibility Layer of GmSSL](https://github.com/GmSSL/OpenSSL-Compatibility-Layer/tree/main) OpenSSL 1.1.1 API
+
+### 铜锁 Tongsuo
+
+> fork of OpenSSL 3.0, rebrand from BabaSSL in 2022-07
+
+[Hello from OpenAtom 铜锁/Tongsuo | OpenAtom 铜锁/Tongsuo](https://tongsuo.net/)
+[Tongsuo-Project/Tongsuo: 铜锁/Tongsuo is a Modern Cryptographic Primitives and Protocols Library](https://github.com/Tongsuo-Project/Tongsuo)
 
 ## ShangMi SM2
 
 > asymmetric cipher based on ECC
 
-- SM2 Cryptography Algorithm: A public key crypto scheme based on elliptic curves. An overview of the specification, in Chinese, can be found in [GM/T 0009-2012](http://www.gmbz.org.cn/main/viewfile/2018011001400692565.html).
+- SM2 Cryptography Algorithm: A public key crypto scheme based on elliptic curves. An overview of the specification, in Chinese, can be found in [GM/T 0009-2023](https://std.samr.gov.cn/hb/search/stdHBDetailed?id=1BF26B7A9FF6FD76E06397BE0A0A81D8).
 
 - Additional specifications can be found in:
   - [GB/T 32918](https://openstd.samr.gov.cn/bzgk/gb/std_list?p.p1=0&p.p90=circulation_date&p.p91=desc&p.p2=GB/T%2032918)

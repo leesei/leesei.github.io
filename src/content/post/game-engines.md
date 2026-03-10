@@ -2,7 +2,7 @@
 title: Game Engines
 description: ""
 created: 2015-01-02
-updated: 2025-10-10
+updated: 2026-02-18
 tags:
   - game-dev
   - game-engine
@@ -66,6 +66,8 @@ tags:
 [ccMixter - Welcome to ccMixter](http://ccmixter.org/)
 [Freesound - Freesound](https://freesound.org/)
 [incompetech Music Search](https://incompetech.com/music/royalty-free/music.html)
+[Free AI Voice Generator & Voice Agents Platform | ElevenLabs](https://elevenlabs.io/)
+[Professional Sound Effects - Royalty-Free SFX | Unlimited Downloads](https://www.soundsnap.com/)
 
 ## Comparisons
 
@@ -636,7 +638,13 @@ License: ~~Free for development / Pay What You Want~~ 5% royalty after 5.0 (2018
 [CRYENGINE | The complete solution for next generation game development by Crytek](https://www.cryengine.com/)
 [CRYTEK-CRYENGINE/CRYENGINE: CRYENGINE source code.](https://github.com/CRYTEK-CRYENGINE/CRYENGINE)
 
+[CryEngine: What the Heck Happened? - YouTube](https://www.youtube.com/watch?v=rh62WgGLU2I&embeds_referring_euri=https%3A%2F%2Fgamefromscratch.com%2Fwhat-happened-to-cryengine%2F&source_ve_path=MjM4NTE)
+[What Happened to CryEngine?  – GameFromScratch.com](https://gamefromscratch.com/what-happened-to-cryengine/)
+
 [Amazon Lumberyard - Free AAA Game Engine](https://aws.amazon.com/lumberyard/) Amazon's fork, with integration with its AWS and Twitch business
+
+[Home - O3DE](https://o3de.org/) Amazon's fork, originally Lumberyard
+[o3de/o3de: Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.](https://github.com/o3de/o3de)
 
 ## id Tech
 

@@ -2,7 +2,7 @@
 title: Microservice
 description: ""
 created: 2016-05-15
-updated: 2025-10-14
+updated: 2026-01-13
 tags:
   - architecture
   - microservice
@@ -28,7 +28,7 @@ On an e-Commerce website, Orders, Wishlist, Recommendation, Product Category can
 [Chapter 13: SOA Primer | dan chak](https://dan.chak.org/enterprise-rails/chapter-13-soa-primer/)
 [From Monoliths to Microservices: An Architectural Strategy - The New Stack](http://thenewstack.io/from-monolith-to-microservices/)
 [Code inComplete - SOA - Overview](http://codeincomplete.com/posts/2014/9/1/soa/)
-[How to build resilient microservices | InfoWorld](https://www.infoworld.com/article/3310946/application-development/how-to-build-resilient-microservices.html) !important, Ballerina
+[How to build resilient microservices | InfoWorld](https://www.infoworld.com/article/3310946/application-development/how-to-build-resilient-microservices.html) ❗!important, Ballerina
 [Of Microservices & Containers - By Spruha Pandya](https://hackernoon.com/https-medium-com-spruha-pandya-of-microservices-containers-6f0ea25dac3)
 [What are Microservices? | Netlify](https://www.netlify.com/blog/2019/11/18/what-are-microservices/)
 
@@ -233,7 +233,7 @@ Microservices should only be considered in the next phases when the need to scal
 
 ## Martin Fowler
 
-[Microservices](http://martinfowler.com/articles/microservices.html) !important
+[Microservices](http://martinfowler.com/articles/microservices.html) ❗!important
 [Microservices • Martin Fowler - YouTube](https://www.youtube.com/watch?v=wgdBVIX9ifA)
 Characteristics of a Microservice Architecture:
 
@@ -335,7 +335,7 @@ Convergence of Envoy and eBPF, removing side car
 
 ## Istio
 
-[Istio](https://istio.io/) !important, heavyweight, uses Envoy, let Google run it
+[Istio](https://istio.io/) ❗!important, heavyweight, uses Envoy, let Google run it
 [istio/istio: Sample code, build and tests and governance material for the Istio project.](https://github.com/istio/istio)
 [Istio / The Evolution of Istio's APIs](https://istio.io/blog/2019/evolving-istios-apis/)
 [回归单体 —— Istio 的自我救赎？ · Service Mesh|服务网格中文社区](https://www.servicemesher.com/blog/istio-self-salvation/)

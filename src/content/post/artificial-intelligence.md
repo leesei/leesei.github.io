@@ -2,7 +2,7 @@
 title: Artificial Intelligence
 description: ""
 created: 2015-04-14
-updated: 2025-10-30
+updated: 2026-02-12
 tags:
   - ai
   - artificial-intelligence
@@ -281,6 +281,8 @@ are ANI (N for narrow), the supposed "AI" is AGI (G for general)
 [A.I. For Good](https://aiforgood.com/)
 [Artificial Intelligence to Help the World - AI for Good Foundation](http://ai4good.org/)
 
+[Three Specific Ways AI Could Kill Us All - YouTube](https://www.youtube.com/watch?v=AxHMvghsXXg)
+
 ## Symbolic AI
 
 [Symbolic artificial intelligence - Wikiwand](https://www.wikiwand.com/en/Symbolic_artificial_intelligence) represented by Lisp
@@ -488,11 +490,17 @@ Google’s sophisticated WaveNet audio processing neural network, and because it
 [SpeechRecognition - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition)
 
 [openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision](https://github.com/openai/whisper)
+[How to Turn Your Voice Into Text With OpenAI’s Whisper for Windows](https://www.makeuseof.com/dictate-documents-openai-whisper/)
 [SYSTRAN/faster-whisper: Faster Whisper transcription with CTranslate2](https://github.com/SYSTRAN/faster-whisper)
 [Purfview/whisper-standalone-win: Whisper & Faster-Whisper standalone executables for those who don't want to bother with Python.](https://github.com/Purfview/whisper-standalone-win)
+[This local voice-to-text app replaced every paid service for me](https://www.makeuseof.com/this-local-voice-to-text-app-replaced-every-paid-service-for-me/)
+[ahmetoner/whisper-asr-webservice: OpenAI Whisper ASR Webservice API](https://github.com/ahmetoner/whisper-asr-webservice)
+[Speech Box Desktop App](https://speechbox.gumroad.com/l/desktop-app)
 
 [DeepSpeech 0.6: Mozilla's Speech-to-Text Engine Gets Fast, Lean, and Ubiquitous - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2019/12/deepspeech-0-6-mozillas-speech-to-text-engine/)
 [Mozilla updates DeepSpeech with an English language model that runs 'faster than real time' | VentureBeat](https://venturebeat.com/2019/12/05/mozilla-updates-deepspeech-with-an-english-language-model-that-runs-faster-than-real-time/)
+
+[coqui-ai/STT: 🐸STT - The deep learning toolkit for Speech-to-Text. Training and deploying STT models has never been so easy.](https://github.com/coqui-ai/STT) last update 2023-08
 
 [Convert Audio File into Text With Machine Learning - DZone AI](https://dzone.com/articles/convert-audio-file-into-text-with-machine-learning) with Android
 
@@ -505,9 +513,13 @@ Google’s sophisticated WaveNet audio processing neural network, and because it
 [Sound of Text](https://soundoftext.com/) normal quality
 [Voicemaker® - Text to Speech Converter](https://voicemaker.in/)
 [Speechify: Free Text to Speech Reader | 500,000+ 5-star Reviews](https://speechify.com/) 50,000 characters free
+[ElevenLabs Pricing for Creators & Businesses of All Sizes](https://elevenlabs.io/pricing) 10k credits per month
+[Free Text to Speech Online - TTSMaker](https://ttsmaker.com/)
 
 [Mimic 3 - Mycroft](https://mycroft.ai/mimic-3/)
 [Mimic TTS - Mycroft AI](https://mycroft-ai.gitbook.io/docs/mycroft-technologies/mimic-tts/)
+
+[OHF-Voice/piper1-gpl: Fast and local neural text-to-speech engine](https://github.com/OHF-Voice/piper1-gpl) embeds `espeak-ng`
 
 [MassTTS/replace_files at main · anyvoiceai/MassTTS](https://github.com/anyvoiceai/MassTTS/tree/main/replace_files)
 
@@ -522,9 +534,16 @@ Google’s sophisticated WaveNet audio processing neural network, and because it
 [nari-labs/dia: A TTS model capable of generating ultra-realistic dialogue in one pass.](https://github.com/nari-labs/dia/)
 [A new, open source text-to-speech model called Dia has arrived to challenge ElevenLabs, OpenAI and more](https://venturebeat.com/ai/a-new-open-source-text-to-speech-model-called-dia-has-arrived-to-challenge-elevenlabs-openai-and-more)
 
+[Coqui TTS & XTTS V2: AI Text to Speech in 8 Languages](https://coquitts.com/) reincarnation
+[coqui-ai/TTS: 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production](https://github.com/coqui-ai/TTS) last update 2024-02, spin off from Mozilla TTS, shutdown 2024-01
+[TTS 0.22.0 documentation](https://docs.coqui.ai/en/latest/index.html)
+[mozilla/TTS: :robot: Deep learning for Text to Speech (Discussion forum: https://discourse.mozilla.org/c/tts)](https://github.com/mozilla/TTS)
+
+[kyutai-labs/pocket-tts: A TTS that fits in your CPU (and pocket)](https://github.com/kyutai-labs/pocket-tts)
+[Pocket TTS: A high quality TTS that gives your CPU a voice](https://kyutai.org/blog/2026-01-13-pocket-tts)
+
 [Web Speech API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 [Beautiful React Hooks docs](https://antonioru.github.io/beautiful-react-hooks/#/useSpeechSynthesis)
-[mozilla/TTS: :robot: Deep learning for Text to Speech (Discussion forum: https://discourse.mozilla.org/c/tts)](https://github.com/mozilla/TTS)
 
 [jasonppy/VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild](https://github.com/jasonppy/VoiceCraft)
 [[2403.16973] VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild](https://arxiv.org/abs/2403.16973)
@@ -608,7 +627,7 @@ Counterfactual World Modeling
 
 [EraseNet: End-to-End Text Removal in the Wild | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/9180003)
 
-[试卷擦除 - 在线擦除试卷手写痕迹 - 拍试卷](https://www.paishijuan.com/shijuancachu/) PC client has "lifetime" subscription which is quite cheap; the app also has txt to speech
+[试卷擦除 - 在线擦除试卷手写痕迹 - 拍试卷](https://www.paishijuan.com/shijuancachu/) PC client has "lifetime" subscription which is quite cheap; the app also has txt to speech, c.f. 试卷宝 app
 [去手写-帮小忙，腾讯QQ浏览器在线工具箱](https://tool.browser.qq.com/handwriting_erasure.html)
 
 [产品文档-智慧学习服务](https://ai.youdao.com/DOCSIRMA/html/learn/price/sjsxtcc/index.html)
@@ -921,6 +940,7 @@ Generative Query Network: 3D reconstruction based on 2D images
 
 [Making AI Play Lots of Videogames Could Be Huge (No, Seriously) | WIRED](https://www.wired.com/2016/04/videogames-ai-learning/)
 [AI's Game Playing Challenge - Computerphile - YouTube](https://www.youtube.com/watch?v=5oXyibEgJr0)
+[SIMA 2: A Gemini-Powered AI Agent for 3D Virtual Worlds - Google DeepMind](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/)
 
 [AI Learns to Play Super Mario Bros! - YouTube](https://www.youtube.com/watch?v=CI3FRsSAa_U)
 [AI Learns To Play Super Mario Bros Using A Genetic Algorithm And Neural Network | Chrispresso - All things programming, all things AI](https://chrispresso.io/AI_Learns_To_Play_SMB_Using_GA_And_NN)

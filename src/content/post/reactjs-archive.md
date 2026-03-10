@@ -2,7 +2,7 @@
 title: React.js (Archives)
 description: Archived React.js notes
 created: 2023-03-21
-updated: 2025-10-10
+updated: 2026-02-06
 tags:
   - archived
   - frontend
@@ -103,6 +103,7 @@ Syntax for defining React Component:
 ### Remix
 
 > Server Side Rendering ONLY, app framework
+> Merged with React Router
 
 [Remix - Build Better Websites](https://remix.run/)
 [Remix: A guide to the newly open-sourced React framework - LogRocket Blog](https://blog.logrocket.com/remix-guide-newly-open-sourced-react-framework/)

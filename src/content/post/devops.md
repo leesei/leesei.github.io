@@ -2,7 +2,7 @@
 title: DevOps
 description: ""
 created: 2016-02-17
-updated: 2025-10-10
+updated: 2025-11-18
 tags:
   - dev/deploy
   - devops
@@ -624,6 +624,8 @@ Goals for a logging system:
 
 One way is to persistent log to `fluentd` for 2 weeks and then store them in Elasticsearch
 
+[Write Logs for Machines, use JSON | Paul Querna](https://paul.querna.org/articles/2011/12/26/log-for-machines-in-json/)
+[Logging best practices | Documentation | Splunk Developer Program](https://dev.splunk.com/enterprise/docs/developapps/addsupport/logging/loggingbestpractices/)
 [12 Logging BEST Practices in 12 minutes - YouTube](https://www.youtube.com/watch?v=I2mWnh66Bkg)
 
 [Centralized Logging and Monitoring | Technology Conversations](http://technologyconversations.com/2016/02/17/centralized-logging-and-monitoring/)
@@ -647,8 +649,8 @@ One way is to persistent log to `fluentd` for 2 weeks and then store them in Ela
 [Open Source: Declarative Tracking for React Apps | by Jeremy Gayed | NYT Open](https://open.nytimes.com/introducing-react-tracking-declarative-tracking-for-react-apps-2c76706bb79a)
 [nytimes/react-tracking: 🎯 Declarative tracking for React apps.](https://github.com/NYTimes/react-tracking)
 [react-tracking: Declarative tracking for React apps - LogRocket Blog](https://blog.logrocket.com/react-tracking-declarative-tracking-react-apps/)
-[react-tracking: Declarative tracking for React apps - LogRocket Blog](https://blog.logrocket.com/react-tracking-declarative-tracking-react-apps/)
 
+[SIEM, Log Management & API Protection](https://graylog.org/)
 [Graylog Log Management » ADMIN Magazine](http://www.admin-magazine.com/Articles/Installing-and-operating-the-Graylog-SIEM-solution)
 
 [Faster logging with SLF4J | What is coming to myhead](https://whatiscomingtomyhead.wordpress.com/2010/12/03/faster-logging-with-slf4j/)

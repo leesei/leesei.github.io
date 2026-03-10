@@ -2,7 +2,7 @@
 title: Web Development
 description: ""
 created: 2015-11-19
-updated: 2025-10-10
+updated: 2026-01-22
 tags:
   - css
   - javascript
@@ -224,19 +224,19 @@ If the site is rendered ahead of time at build, it is known as "Static Site Gene
 
 > A Progressive Web App uses modern web capabilities to deliver an app-like user experience.
 
-[Progressive Web Apps | Web | Google Developers](https://developers.google.com/web/progressive-web-apps/)
-[Get started with Progressive Web Apps - Microsoft Edge Development | Microsoft Docs](https://docs.microsoft.com/en-us/microsoft-edge/progressive-web-apps/get-started?wt.mc_id=devto-blog-jopapa)
-[A selection of Progressive Web Apps](https://pwa.rocks/)
-[Make Progressive Web App (PWA) Your Best Friend – Yudiz Solutions – Medium](https://medium.com/yudiz-solutions/make-progressive-web-app-pwa-your-best-friend-3da4b4455ff7)
+[Progressive Web Apps  |  web.dev](https://web.dev/explore/progressive-web-apps)
+[Web Capabilities (Project Fugu 🐡)](https://www.chromium.org/teams/web-capabilities-fugu/)
+
 [A Beginner's Guide To Progressive Web Apps – Smashing Magazine](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/)
-[What are Progressive Web Apps? | The Official Ionic Blog](http://blog.ionic.io/what-is-a-progressive-web-app/)
+[What are Progressive Web Apps? - Ionic Blog](https://ionic.io/blog/what-is-a-progressive-web-app)
 [Progressive Web App Overview – codeburst](https://codeburst.io/progressive-web-app-overview-52a81ff4a5ee)
 [Progressive Web Applications: A Progressive State of the Web](https://codeburst.io/progressive-web-applications-a-progressive-state-of-the-web-ea37fd27b54b)
-[Progressive Web Apps (PWA), its got electrolytes! – codeburst](https://codeburst.io/traditional-web-apps-vs-progressive-web-apps-pwa-its-got-electrolytes-ba0aba67c27b)
+[Progressive Web Apps (PWA), its got electrolytes! | by Prashant Ram | codeburst](https://codeburst.io/traditional-web-apps-vs-progressive-web-apps-pwa-its-got-electrolytes-ba0aba67c27b)
+[Make Progressive Web App (PWA) Your Best Friend | by Leet Hudka | Yudiz Solutions | Medium](https://medium.com/yudiz-solutions/make-progressive-web-app-pwa-your-best-friend-3da4b4455ff7)
 [Progressive Web Apps coming to all Chrome platforms](https://medium.com/@kennethrohde/progressive-web-apps-coming-to-all-chrome-platforms-80e31272e2a8)
 [Creating a Progressive Web App in React A Beginners Guide - DEV Community](https://dev.to/varshithvhegde/creating-a-progressive-web-app-in-react-a-beginners-guide-3l9g)
 [Building Progressive Web Apps [Book]](https://www.safaribooksonline.com/library/view/building-progressive-web/9781491961643/)
-[Top 7 Features of Progressive Web Apps](https://blog.frontity.org/top-7-features-of-progressive-web-apps/#more-2372)
+[Top 7 Features of Progressive Web Apps](https://frontity.org/blog/top-7-features-of-progressive-web-apps/)
 
 [Progressive Web Apps (PWAs) FTW — Pt. 1 | by Omer Goldberg | HackerNoon.com | Medium](https://medium.com/hackernoon/pwas-ftw-pt-1-37729432d529)
 [Progressive Web Apps (PWAs) FTW — Pt. 2 | by Omer Goldberg | HackerNoon.com | Medium](https://medium.com/hackernoon/progressive-web-apps-pwas-ftw-pt-2-31c2779e55c4)
@@ -247,26 +247,23 @@ If the site is rendered ahead of time at build, it is known as "Static Site Gene
 [Progressive Web Apps with React.js: Part 2 — Page Load Performance – Medium](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-2-page-load-performance-33b932d97cf2#.qg5ur9306)
 [Progressive Web Apps with React.js: Part 3 — Offline support and network resilience – Medium](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-3-offline-support-and-network-resilience-c84db889162c#.a7eyeeva9)
 
-[Making Progressive Web Apps (PWAs) with React ← Alligator.io](https://alligator.io/react/react-progressive-web-apps/)
-[Making a Progressive Web App · Create React App](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-[How to use IndexedDB to build Progressive Web Apps - ITNEXT](https://itnext.io/indexeddb-your-second-step-towards-progressive-web-apps-pwa-dcbcd6cc2076)
+[Making Progressive Web Apps (PWAs) with React | DigitalOcean](https://www.digitalocean.com/community/tutorials/react-react-progressive-web-apps)
 
 [A one year PWA retrospective – Pinterest Engineering – Medium](https://medium.com/@Pinterest_Engineering/a-one-year-pwa-retrospective-f4a2f4129e05)
-
-[sonarwhal, a linting tool for the web](https://sonarwhal.com/)
-[Optimizing web apps with the Sonarwhal linter | InfoWorld](https://www.infoworld.com/article/3268918/application-testing/optimizing-web-apps-with-the-sonarwhal-linter.html)
 
 ### Homescreen
 
 [Web App Manifest Validator | redirection.io](https://redirection.io/tools/web-app-manifest/validator)
 
 [Add a web app manifest  |  Articles  |  web.dev](https://web.dev/articles/add-manifest)
-[How to provide your own in-app install experience  |  Articles  |  web.dev](https://web.dev/articles/customize-install?hl=en)
+[How to provide your own in-app install experience  |  Articles  |  web.dev](https://web.dev/articles/customize-install)
 [What does it take to be installable?  |  Articles  |  web.dev](https://web.dev/articles/install-criteria)
 
-[cubiq/add-to-homescreen: Add to home screen call-out for mobile devices](https://github.com/cubiq/add-to-homescreen)
+[cubiq/add-to-homescreen: Add to home screen call-out for mobile devices](https://github.com/cubiq/add-to-homescreen) 😴inactive
 
 ### Tools
+
+[PWA](https://pwa.cafe/) `@pwa/cli`, 😴inactive
 
 [GoogleChrome/lighthouse: auditing and performance metrics for Progressive Web Apps](https://github.com/googlechrome/lighthouse)
 [Question: How to test page behind authentication? · Issue #1418 · GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse/issues/1418)
@@ -661,6 +658,8 @@ convert -resize x60  input.png apple-touch-icon-60x60.png
 [[fastify]]
 [[feathersjs]]
 [[hapi]]
+
+[SaltyAom/bun-http-framework-benchmark: Compare throughput benchmark from various Bun HTTP framework](https://github.com/SaltyAom/bun-http-framework-benchmark)
 
 [Build internal web apps quickly in the language you already know | Pglet](https://pglet.io/) Python, Node.js, Bash, PowerShell
 
@@ -1138,11 +1137,16 @@ Forward?
 [Libscore](http://libscore.com/) scan site for library usage
 [Sibbell](https://sibbell.com/about/) get release updates for your starred projects.
 
+[Packages · UnJS](https://unjs.io/packages?q=&order=1&orderBy=title)
+
 [lodash/lodash: A modern JavaScript utility library delivering modularity, performance, & extras.](https://github.com/lodash/lodash)
 [Licia: Useful Utility Collection with Zero Dependencies:)](https://licia.liriliri.io/)
 [mout : Modular JavaScript Utilities](http://moutjs.com/docs/latest/)
 [Bit - utils. Javascript components by bit.](https://bitsrc.io/bit/utils)
 [andrewplummer/Sugar: A Javascript library for working with native objects.](https://github.com/andrewplummer/Sugar)
+
+[unjs/defu: 🌊 Assign default properties recursively](https://github.com/unjs/defu)
+[hapijs/hoek: Node utilities shared among the extended hapi universe](https://github.com/hapijs/hoek)
 
 [nathancahill/split: Unopinionated utilities for resizeable split views](https://github.com/nathancahill/split)
 

@@ -2,7 +2,7 @@
 title: Railway
 description: ""
 created: 2025-01-02
-updated: 2025-10-10
+updated: 2026-02-18
 tags:
   - railway
   - trivia
@@ -12,6 +12,8 @@ tags:
 [Why Don’t Railroads Need Expansion Joints? - YouTube](https://www.youtube.com/watch?v=Rdj5-6t6QI8)
 
 ## 中国铁路
+
+[搶不到火車票，真的是你手速慢嗎？ - YouTube](https://www.youtube.com/watch?v=MaLChOX724U)
 
 [火车上的字母、数字大全！原来藏着这么多秘密|动车组|客车*新浪科技*新浪网](https://finance.sina.com.cn/tech/discovery/2024-06-27/doc-incaaxwt2887587.shtml)
 [中国铁路列车车次 - Wikiwand](https://www.wikiwand.com/zh-hk/articles/%E4%B8%AD%E5%9B%BD%E9%93%81%E8%B7%AF%E5%88%97%E8%BD%A6%E8%BD%A6%E6%AC%A1)

@@ -2,7 +2,7 @@
 title: Cold Weapons
 description: ""
 created: 2015-10-09
-updated: 2025-10-19
+updated: 2026-02-05
 tags:
   - weapons
 ---
@@ -13,13 +13,14 @@ tags:
 [Weapons and armour - YouTube](https://www.youtube.com/playlist?list=PLCA860ECD7F894424) Lindybeige
 [Walter Sorrells - YouTube](https://www.youtube.com/@WalterSorrellsBlades)
 [epicfantasy - YouTube](https://www.youtube.com/@epicfantasy)
-[scholagladiatoria - YouTube](https://www.youtube.com/@scholagladiatoria)
-[SandRhoman History - YouTube](https://www.youtube.com/@SandRhomanHistory) battles
-[Tod's Workshop - YouTube](https://www.youtube.com/@tods_workshop)
 [Royal Armouries - YouTube](https://www.youtube.com/@RoyalArmouriesMuseum) cold and hot weapons
-[艾姆霸霸 - YouTube](https://www.youtube.com/@%E8%89%BE%E5%A7%86%E9%9C%B8%E9%9C%B8) check old videos in playlist
-[極端武力 - YouTube](https://www.youtube.com/@%E6%A5%B5%E7%AB%AF%E6%AD%A6%E5%8A%9B)
+[SandRhoman History - YouTube](https://www.youtube.com/@SandRhomanHistory) battles
+[scholagladiatoria - YouTube](https://www.youtube.com/@scholagladiatoria)
+[Tod's Workshop - YouTube](https://www.youtube.com/@tods_workshop)
 [冷兵器研究所OfficialChannel - YouTube](https://www.youtube.com/@%E5%86%B7%E5%85%B5%E5%99%A8%E7%A0%94%E7%A9%B6%E6%89%80Official)
+[弓手冬郎 - YouTube](https://www.youtube.com/@%E5%BC%93%E6%89%8B%E5%86%AC%E9%83%8E-i7r)
+[極端武力 - YouTube](https://www.youtube.com/@%E6%A5%B5%E7%AB%AF%E6%AD%A6%E5%8A%9B)
+[艾姆霸霸 - YouTube](https://www.youtube.com/@%E8%89%BE%E5%A7%86%E9%9C%B8%E9%9C%B8) check old videos in playlist
 
 [Association for Renaissance Martial Arts](http://www.thearma.org/)
 [Mediaeval Sword](http://www.vikingsword.com/)
@@ -70,9 +71,14 @@ Halberds: great vs armored troops
 [《古兵器大揭秘》 第二季|揭示古兵器相生相克的秘密【全 10 集】 - YouTube](https://www.youtube.com/playlist?list=PLwXMmy5fUrVxM9p2mQkPFSIXYlat8FkYM)
 
 [十八般兵器 - Wikiwand](https://www.wikiwand.com/zh/%E5%8D%81%E5%85%AB%E8%88%AC%E5%85%B5%E5%99%A8)
-[戈 (武器) - Wikiwand](<https://www.wikiwand.com/zh/%E6%88%88_(%E6%AD%A6%E5%99%A8)>) 以勾擊為主要攻擊方式
+[戈 (武器) - Wikiwand](<https://www.wikiwand.com/zh/%E6%88%88_(%E6%AD%A6%E5%99%A8)>) 短兵器，用銅量比劍少
+[戈，被后世讹传出笑话的兵器 - YouTube](https://www.youtube.com/watch?v=ooFhusSjki0)
 [矛 - Wikiwand](https://www.wikiwand.com/zh/%E7%9F%9B) 跟槍、槊同樣
 [戟 - Wikiwand](https://www.wikiwand.com/zh/%E6%88%9F) 結合戈與矛
+
+[古代战场，钝器无敌？鞭和锏，有什么区别？ - YouTube](https://www.youtube.com/watch?v=yoCq0wVIqDU) 鞭為㘣，鐧為方
+
+[夏朝怎么打仗？散落在文献中的一场夏朝军事变革 - YouTube](https://www.youtube.com/watch?v=OG4MB1iN_0w)
 
 [中华兵器巡礼 - YouTube](https://www.youtube.com/playlist?list=PLE_JCp32FjBXryqQbvVPmrNLBnbv4haH2) 冷兵器研究所
 [東方武器如何在美國創業，拐如何成爲警用裝備，拐的威力到底有多大 - YouTube](https://www.youtube.com/watch?v=bc8NRl3Eb2Y)
@@ -211,6 +217,7 @@ Buckler: round shield hold at the center facing forward
 A stone age tool that predates bow and arrow
 
 [Spear-thrower - Wikiwand](https://www.wikiwand.com/en/Spear-thrower) but spear is a thrusting weapon
+[The Atlatl – Humanity’s First Superweapon - YouTube](https://www.youtube.com/watch?v=aHjbYMCDnqw)
 [The Atlatl: Most Underrated Stone Age Tool? - YouTube](https://www.youtube.com/watch?v=YGGvWazDM_g)
 [How to Throw an Atlatl | Live Free or Die: DIY - YouTube](https://www.youtube.com/watch?v=NHgUMUk3YwY)
 [Hunting the Ancient Bison. Primitive hunting with the Atlatl & Exploring Experimental Archaeology - YouTube](https://www.youtube.com/watch?v=l7jMxfopKjM)
@@ -266,6 +273,9 @@ Macedonian phalanx
 
 [脚滑的冒险者 - YouTube](https://www.youtube.com/@Maoxianzhe1101)
 [千万不要被咏春拳贴脸 - YouTube](https://www.youtube.com/watch?v=y16XXSUFi6A)
+
+[Kevin Lee - YouTube](https://www.youtube.com/@KevinLeeVlog) Wing Chun
+[This Is (Not) Wing Chun - YouTube](https://www.youtube.com/watch?v=A9GAfbUk25E)
 
 Tengu Media
 [武道史！ - YouTube](https://www.youtube.com/playlist?list=PLbUGnFmS1f5dgZrjMSe-wxNd0eFNMgSV3)  

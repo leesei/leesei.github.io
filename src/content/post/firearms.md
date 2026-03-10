@@ -2,7 +2,7 @@
 title: Firearms
 description: Weapons with gun powder
 created: 2015-06-13
-updated: 2025-11-14
+updated: 2026-02-03
 tags:
   - weapons
 ---
@@ -28,6 +28,7 @@ Firearms
 [Royal Armouries - YouTube](https://www.youtube.com/@RoyalArmouriesMuseum) cold and hot weapons
 [TFB TV - YouTube](https://www.youtube.com/@tfbtv)
 [The Most - YouTube](https://www.youtube.com/@themost9058) 3D animation
+[Chasing the Trigger - YouTube](https://www.youtube.com/@allalphaarmory) 老郭寻枪
 
 Firearms and vehicles
 [Blue Paw Print - YouTube](https://www.youtube.com/@BluePawPrint)

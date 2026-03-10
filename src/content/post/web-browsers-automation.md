@@ -2,7 +2,7 @@
 title: Browser automation
 description: Automates browser, for web scraping and testing
 created: 2017-11-20
-updated: 2025-10-10
+updated: 2026-01-29
 tags:
   - automation
   - web
@@ -53,6 +53,11 @@ Inject init script to circumvent this: `delete Object.getPrototypeOf(navigator).
 
 [Antibot](https://bot.sannysoft.com/)
 [java - Selenium webdriver: Modifying navigator.webdriver flag to prevent selenium detection - Stack Overflow](https://stackoverflow.com/questions/53039551/selenium-webdriver-modifying-navigator-webdriver-flag-to-prevent-selenium-detec)
+
+[Anubis: Web AI Firewall Utility | Anubis](https://anubis.techaro.lol/)
+[TecharoHQ/anubis: Weighs the soul of incoming HTTP requests to stop AI crawlers](https://github.com/TecharoHQ/anubis/)
+
+[sjtug/cerberus: A Caddy module that blocks unwanted requests using a sha256 PoW challenge](https://github.com/SJTUG/cerberus)
 
 ## Selenium
 
@@ -300,6 +305,8 @@ const links = await Promise.all(
 [PuerkitoBio/goquery: A little like that j-thing, only in Go.](https://github.com/PuerkitoBio/goquery)
 
 [tech-engine/goscrapy: GoScrapy: Harnessing Go's power for blazingly fast web scraping, inspired by Python's Scrapy framework.](https://github.com/tech-engine/goscrapy)
+
+[projectdiscovery/katana: A next-generation crawling and spidering framework.](https://github.com/projectdiscovery/katana)
 
 [antchfx/htmlquery: htmlquery is golang XPath package for HTML query.](https://github.com/antchfx/htmlquery)
 [antchfx/xpath: XPath package for Golang, supports HTML, XML, JSON document query.](https://github.com/antchfx/xpath)

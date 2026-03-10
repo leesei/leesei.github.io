@@ -2,7 +2,7 @@
 title: Makeblock
 description: ""
 created: 2019-06-12
-updated: 2025-01-09
+updated: 2026-01-13
 tags:
   - comp/hardware
   - iot
@@ -51,7 +51,7 @@ tags:
 [Makeblock-official/mbot_nodebots](https://github.com/Makeblock-official/mbot_nodebots)
 
 [Getting Started: Wire up Your Creation - Makeblock](https://www.makeblock.com/project/step-1-wiring-color-marker-show-the-modules-connection-for-correct)
-[Advanced Makeblock Sensors (DIY): 32 Steps (with Pictures)](https://www.instructables.com/Advanced-Makeblock-Sensors-DIY/) !important
+[Advanced Makeblock Sensors (DIY): 32 Steps (with Pictures)](https://www.instructables.com/Advanced-Makeblock-Sensors-DIY/) ❗!important
 [Me RJ25 Adapter - Makeblock](https://www.makeblock.com/project/me-rj25-adapter)
 
 [mBot Serial Port Protocol - Makeblock](https://www.makeblock.com/project/mbot-serial-port-protocol)
@@ -129,8 +129,8 @@ It is also known as Baseboard
 [Technology-at-school/Robots/Makeblock at master · Tauvic/Technology-at-school](https://github.com/Tauvic/Technology-at-school/tree/master/Robots/Makeblock)
 [機器人齊步走 mBlock5 mbot*ver8*探奇邱信仁](https://www.slideshare.net/renchiou/mblock5-mbotver8)
 [2017 探奇 mBot mblock 機器人齊步走 15 小時課程講義 v7](https://www.slideshare.net/renchiou/2017-mbot-mblock-15-v7)
-[[mbot] 我的 mbot 教學記錄 II (2018~已完成) @zfang の科學小玩意](http://n.sfs.tw/content/index/12238) !important
-[[合集] mBot 教學 - makeblock education](http://education.makeblock.com/zh-hans/resource/%E5%90%88%E9%9B%86-mbot-%E6%95%99%E5%AD%B8/) [吳錫修](https://www.slideshare.net/sshiouwu/presentations) !important, 2018 version
+[[mbot] 我的 mbot 教學記錄 II (2018~已完成) @zfang の科學小玩意](http://n.sfs.tw/content/index/12238) ❗!important
+[[合集] mBot 教學 - makeblock education](http://education.makeblock.com/zh-hans/resource/%E5%90%88%E9%9B%86-mbot-%E6%95%99%E5%AD%B8/) [吳錫修](https://www.slideshare.net/sshiouwu/presentations) ❗!important, 2018 version
 [Programming With Scratch X for Makeblock MBot : 4 Steps](https://www.instructables.com/Programming-With-Scratch-X-for-Makeblock-MBot/)
 
 [mBot - YouTube](https://www.youtube.com/playlist?list=PL0SbEqiUD3gxR2nv5ZcHzFudksPz6e2tc) 粤語

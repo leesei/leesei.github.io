@@ -2,7 +2,7 @@
 title: Robotics
 description: ""
 created: 2015-10-19
-updated: 2025-10-10
+updated: 2026-02-03
 tags:
   - maker
 ---
@@ -46,6 +46,10 @@ tags:
 ## Animatronics
 
 [Disney's Animatronics: A Living History - YouTube](https://www.youtube.com/watch?v=jjNca1L6CUk)
+
+## Necrobotics
+
+[AI科技vs亡靈機械，最細思極恐的搞笑諾貝爾。當人類意識到軀體才是最強機械零件，科技是否通往《戰錘40K》式恐怖未來？｜總裁聊聊 - YouTube](https://www.youtube.com/watch?v=cZ6Z2DO-14w)
 
 ## Robotics Operating System (ROS)
 

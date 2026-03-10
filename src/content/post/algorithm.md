@@ -2,7 +2,7 @@
 title: Data Structures and Algorithms
 description: ""
 created: 2023-04-14
-updated: 2025-10-10
+updated: 2025-12-08
 tags:
   - comp/lang
   - learning
@@ -256,8 +256,11 @@ Kuvina Saydaki
 ## Perlin noise
 
 [Perlin noise - Wikiwand](https://www.wikiwand.com/en/Perlin_noise) a smoother gradient noise
+
 [The Theory of Noise: An Overview of Perlin Noise - YouTube](https://www.youtube.com/watch?v=H6FhG9VKhJg)
 [How to turn a few Numbers into Worlds (Perlin Noise) - YouTube](https://www.youtube.com/watch?v=ZsEnnB2wrbI)
+[一个算法生成整个游戏世界？“柏林噪声算法”为什么这么强！ - YouTube](https://www.youtube.com/watch?v=mXGM8-zzRiE)
+
 [Understanding Perlin Noise](https://adrianb.io/2014/08/09/perlinnoise.html)
 [Mathf.PerlinNoise | Smooth Random Values | Unity Quick Tutorial - YouTube](https://www.youtube.com/watch?v=gdSFs0PeBNQ)
 

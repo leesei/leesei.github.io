@@ -2,7 +2,7 @@
 title: SI Units
 description: ""
 created: 2015-08-28
-updated: 2025-10-15
+updated: 2025-12-02
 tags:
   - science
 ---
@@ -16,8 +16,6 @@ tags:
 
 [Seven Dimensions - YouTube](https://www.youtube.com/watch?v=bI-FS7aZJpY) use SI units as basis and matrices for unit conversion
 
-[Origins of Precision - YouTube](https://www.youtube.com/watch?v=gNRnrn5DE58)
-
 [The curious origins of imperial and metric units - YouTube](https://www.youtube.com/watch?v=pM3c328VifA)
 
 The Efficient Engineer
@@ -25,6 +23,11 @@ The Efficient Engineer
 [Understanding GD&T - YouTube](https://www.youtube.com/watch?v=G7wnGeR_69k) tolerance
 
 [國家教育研究院雙語詞彙、學術名詞暨辭書資訊網](https://terms.naer.edu.tw/) translations for scientific terms
+
+## Tolerances
+
+[Origins of Precision - YouTube](https://www.youtube.com/watch?v=gNRnrn5DE58)
+[Tolerances Didn’t Make Sense Until I Learned This - YouTube](https://www.youtube.com/watch?v=zhW1RXr-Wgk)
 
 ## Dimensional Analysis
 

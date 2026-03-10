@@ -2,7 +2,7 @@
 title: React Native
 description: Learn once, write anywhere.
 created: 2023-06-10
-updated: 2025-10-10
+updated: 2026-02-06
 tags:
   - app
   - mobile
@@ -167,6 +167,12 @@ Bare Workflow: `expo eject` to manage native Android/iOS project
 ### Auth
 
 [Super Easy React Native AUTHENTICATION with Firebase 🔒 - YouTube](https://www.youtube.com/watch?v=ONAVmsGW6-M)
+
+## Rock
+
+[Rock](https://www.rockjs.dev/)
+[callstackincubator/rock: Modular toolkit for teams building React Native apps](https://github.com/callstackincubator/rock)
+[Rock - Modular toolkit for teams building React Native apps | Callstack](https://www.callstack.com/open-source/rock)
 
 ## Routing
 

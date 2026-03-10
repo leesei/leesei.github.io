@@ -2,7 +2,7 @@
 title: Wood and Metal Work
 description: ""
 created: 2018-08-31
-updated: 2025-10-10
+updated: 2026-01-18
 tags:
   - maker
 ---
@@ -42,6 +42,10 @@ M4 screws for 86 electrical box
 
 [膨脹螺絲(壁虎)總是滑牙鎖不緊? 鑽尾該如何選擇? 施工技巧大公開｜ How to fix heavy things to Wall ｜ DIY 教學｜【宅水電】 - YouTube](https://www.youtube.com/watch?v=8Q5wfIHk7sA) expansion bolts 拉爆
 
+## Wrench
+
+[How a torque wrench works - YouTube](https://www.youtube.com/watch?v=0BtXgE6NSYE)
+
 ## Drills/電鑽
 
 1 分 = 1/8 寸 = 3.175mm
@@ -50,6 +54,7 @@ M4 screws for 86 electrical box
 [Drill vs Impact Driver vs Hammer Drill - YouTube](https://www.youtube.com/watch?v=Cqr9CxDYj0I)
 [How to Use a Drill/Driver, Impact Driver, & Hammer Drill and How They're Different - YouTube](https://www.youtube.com/watch?v=s5dx6Xf2b3U)
 [When To Use an Impact Driver VS Drill: The ULTIMATE Guide - YouTube](https://www.youtube.com/watch?v=43cuU0lP6To)
+[Hammer Drills Don't Hammer - Every Drill Explained - YouTube](https://www.youtube.com/watch?v=dPYVDz5SSlw)
 [整体了解 Drill/Driver/Wrench，电钻/电动螺丝刀/电动扳手几种工具的用法和区别，家用 DIY 基础工具介绍，入门第一集。KENDI DIY - YouTube](https://www.youtube.com/watch?v=qURpuCCe60Y)
 [【超認真少年】如何快速分辨使用各種電鑽和使用基礎教學 ，每個人都需要買一支適合自己的電鑽 How to use Cordless Drill - YouTube](https://www.youtube.com/watch?v=rMdGMKPpii4)
 [【超認真少年】最容易搞混的電鑽 震動電鑽等級分類及保養方法 美沃奇震動電鑽Ｍ 12 X M18 介紹 Milwaukee Hammer Drill - YouTube](https://www.youtube.com/watch?v=0DG2Yvdhl_Y)

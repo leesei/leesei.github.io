@@ -2,7 +2,7 @@
 title: Python notes
 description: ""
 created: 2014-12-11
-updated: 2025-11-08
+updated: 2025-11-18
 tags:
   - comp/lang
   - python
@@ -1521,7 +1521,7 @@ Gist:
 
 ### Faster CPython
 
-> official project to make CPython fast
+> official project to make CPython fast, Microsoft cancelled its support in May 2025
 
 [Guido And Microsoft Want To Make Python x2 Faster](https://www.i-programmer.info/news/216-python/14573-guido-and-microsoft-want-to-make-python-x2-faster.html)
 [Faster CPython at PyCon, part one [LWN.net]](https://lwn.net/Articles/930705/)

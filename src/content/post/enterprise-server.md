@@ -2,7 +2,7 @@
 title: Enterprise Server
 description: ""
 created: 2016-02-17
-updated: 2025-10-10
+updated: 2026-01-13
 tags:
   - comp/hardware
   - enterprise
@@ -65,7 +65,7 @@ SAS (serial attached SCSI) and SATA uses the same connector. Its the protocol ov
 
 [SSD規格比較：2.5吋、mSATA、M.2和U.2｜SSSTC建興儲存科技](https://www.ssstc.com/tw/knowledge-detail/guide-to-ssd-form-factors/)
 
-[SAS and SATA for Server Storage](http://www.tomshardware.co.uk/hdd-enterprise-storage-3.5,review-32244.html) !important
+[SAS and SATA for Server Storage](http://www.tomshardware.co.uk/hdd-enterprise-storage-3.5,review-32244.html) ❗!important
 [Understanding the difference between SAS, SATA and Near Line SAS Hard drives to select for servers. | Outsourced IT and Cloud Computing Technology](http://blog.kurtiskent.com/2012/05/understanding-difference-between-sas.html)
 [SAS vs Near-line SAS vs SATA - Server Fault](http://serverfault.com/questions/394590/sas-vs-near-line-sas-vs-sata)
 [Why is Enterprise Storage so expensive? - Server Fault](http://serverfault.com/questions/263694/why-is-enterprise-storage-so-expensive/)
@@ -165,7 +165,7 @@ Unified storage unit supports SAN and NAS, with FC and iSCSI interface
 
 [What is RAID 0, 1, 5, & 10? - YouTube](https://www.youtube.com/watch?v=U-OCdTeZLac)
 [RAID levels and benefits explained](https://searchstorage.techtarget.com/answer/RAID-types-and-benefits-explained)
-[Understanding RAID Performance at Various Levels - StorageCraft](http://www.storagecraft.com/blog/raid-performance/) !important
+[Understanding RAID Performance at Various Levels - StorageCraft](http://www.storagecraft.com/blog/raid-performance/) ❗!important
 [Which Type of RAID Should You Use For Your Servers?](https://www.cloudsavvyit.com/3590/which-type-of-raid-should-you-use-for-your-servers/amp/)
 
 [Hardware Raid is Dead and is a Bad Idea in 2022 - YouTube](https://www.youtube.com/watch?v=l55GfAwa8RI)

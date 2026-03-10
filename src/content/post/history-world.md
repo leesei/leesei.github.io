@@ -2,7 +2,7 @@
 title: World History
 description: ""
 created: 2015-10-09
-updated: 2025-10-10
+updated: 2026-01-13
 tags:
   - history
   - history/world
@@ -92,7 +92,7 @@ crude but true facts
 [AncientHistory - YouTube](https://www.youtube.com/channel/UCaI59Uhzg6A7Ckx5tiSNJMQ)
 [Archaeology - YouTube](https://www.youtube.com/playlist?list=PL26F99D743DDB5026) Lindybeige
 
-[The History of the World: Every Year - YouTube](https://www.youtube.com/watch?v=-6Wu0Q7x5D0) !important
+[The History of the World: Every Year - YouTube](https://www.youtube.com/watch?v=-6Wu0Q7x5D0) ❗!important
 [History of the World Research - Google Docs](https://docs.google.com/document/d/1_oJx72M75tuai2mo6yD13qqQB1g_auQxdXxG9u__u94/edit)
 [Ollie Bye - YouTube](https://www.youtube.com/channel/UC6gNjP1W4FXWExT5QpYkmhQ)
 

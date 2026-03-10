@@ -2,7 +2,7 @@
 title: Desktop Apps
 description: ""
 created: 2015-05-20
-updated: 2025-10-14
+updated: 2026-02-25
 tags:
   - app
   - desktop
@@ -187,7 +187,9 @@ path for dict files, `/usr/share/stardict/dic`?
 
 ## Software KVM
 
-the complicated relationships between Deskflow, Input Leap, Barrier, and Synergy
+[Control Multiple Computers with PowerToys Mouse Without Borders | Microsoft Learn](https://learn.microsoft.com/en-us/windows/powertoys/mouse-without-borders)
+
+The complicated relationships between Deskflow, Input Leap, Barrier, and Synergy
 [Project Forks · deskflow/deskflow Wiki](https://github.com/deskflow/deskflow/wiki/Project-Forks)
 [History · deskflow/deskflow Wiki](https://github.com/deskflow/deskflow/wiki/History)
 
@@ -196,7 +198,9 @@ the complicated relationships between Deskflow, Input Leap, Barrier, and Synergy
 [Deskflow - ArchWiki](https://wiki.archlinux.org/title/Deskflow) fork of Synergy v1.15, upstream of Synergy v1.15+
 [deskflow/deskflow: Share a single keyboard and mouse between multiple computers.](https://github.com/deskflow/deskflow)
 
-[input-leap/input-leap: Open-source KVM software](https://github.com/input-leap/input-leap) fork of Barrier v2.4, macOS only
+[feschber/lan-mouse: mouse & keyboard sharing via LAN](https://github.com/feschber/lan-mouse)
+
+[input-leap/input-leap: Open-source KVM software](https://github.com/input-leap/input-leap) 😴inactive, fork of Barrier v2.4, macOS only
 
 [debauchee/barrier: Open-source KVM software](https://github.com/debauchee/barrier) 😴inactive, fork of Synergy v1.9
 [【KVM 教學】Barrier 讓你的鍵盤、滑鼠跨裝置和樹莓派共用！ - AtticEdu](https://atticedu.com/index.php/blog/raspberry-pi-%E6%A8%B9%E8%8E%93%E6%B4%BE/60-%E3%80%90kvm%E6%95%99%E5%AD%B8%E3%80%91barrier%E8%AE%93%E4%BD%A0%E7%9A%84%E9%8D%B5%E7%9B%A4%E3%80%81%E6%BB%91%E9%BC%A0%E8%B7%A8%E8%A3%9D%E7%BD%AE%E5%92%8C%E6%A8%B9%E8%8E%93%E6%B4%BE%E5%85%B1%E7%94%A8%EF%BC%81.html)
@@ -255,6 +259,7 @@ nomino -pm map.json
 [Geeqie Image Viewer](http://geeqie.org/)
 [nomacs | Image Lounge](http://nomacs.org/)
 [EMULSION | A lightweight and minimalistic image viewer.](https://arturkovacs.github.io/emulsion-website/)
+[Home | PhotoDemon: the fast, free, portable photo editor](https://photodemon.org/) (Windows)
 
 [xyb3rt/sxiv: Simple X Image Viewer](https://github.com/xyb3rt/sxiv)
 [feh – a fast and light image viewer](https://feh.finalrewind.org/) default is not sane
@@ -585,6 +590,9 @@ Thunar (from XFCE)
 [Home | Immich](https://immich.app/)
 [immich-app/immich: High performance self-hosted photo and video management solution.](https://github.com/immich-app/immich)
 
+[YouTranser官方下载-ZigZagSin](https://www.zzsin.com/YouTranser.html)
+[redknotmiaoyuqiao/YouTranser](https://github.com/redknotmiaoyuqiao/YouTranser) "lossless" transcoder using B-frame
+
 ### Player
 
 [Stremio - Watch Instantly](http://www.strem.io/)
@@ -674,13 +682,13 @@ test input key and its binding
 
 [Online video editor by Microsoft Clipchamp](https://clipchamp.com/en/)
 
+[LosslessCut](https://mifi.no/losslesscut/)
 [mifi/lossless-cut: The swiss army knife of lossless video/audio editing](https://github.com/mifi/lossless-cut) FFmpeg wrapper
 
 [Shotcut - Home](https://www.shotcut.org/)
 [Shotcut - YouTube](https://www.youtube.com/playlist?list=PLF9C79uP5504S3C95Ir6tiB94cIMvDibh) Video Editing in a Minute
 
 [Easy to use, free solution for complex camera control | digiCamControl](http://digicamcontrol.com/)
-[OpenShot Video Editor | Free, Open, and Award-Winning Video Editor for Linux, Mac, and Windows!](http://www.openshot.org/)
 
 [OpenShot Video Editor | Free, Open, and Award-Winning Video Editor for Linux, Mac, and Windows!](https://www.openshot.org/)
 
@@ -693,7 +701,7 @@ test input key and its binding
 [Olive - Professional Open-Source Video Editor](https://www.olivevideoeditor.org/)
 [Meet Olive: The First Open Source Video Editor Worth Talking About - The Passthrough POST](https://passthroughpo.st/meet-olive-the-first-open-source-video-editor-worth-talking-about/)
 
-[ozmartian/vidcutter](https://github.com/\ozmartian/vidcutter)
+[Zulko/moviepy: Video editing with Python](https://github.com/Zulko/moviepy)
 [User Guide — MoviePy documentation](https://zulko.github.io/moviepy/index.html)
 
 [Pitivi, a free and open source video editor for Linux](http://www.pitivi.org/)
@@ -805,6 +813,9 @@ npm install upnp-ssdp peer-ssdp upnp-mediarenderer-client upnp-device upnpserver
 [youtube-dlg](https://mrs0m30n3.github.io/youtube-dl-gui/)
 [Tartube - The Easy Way To Watch And Download Videos](https://tartube.sourceforge.io/)
 
+[Home | YouTube.js](https://ytjs.dev/)
+[LuanRT/YouTube.js: A JavaScript client for YouTube's private API, known as InnerTube.](https://github.com/LuanRT/YouTube.js)
+
 [yt-dlp/yt-dlp: A youtube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)
 [blackjack4494/yt-dlc: media downloader and library for various sites.](https://github.com/blackjack4494/yt-dlc) 😴inactive
 [deepjyoti30/ytmdl: A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.](https://github.com/deepjyoti30/ytmdl)
@@ -845,8 +856,8 @@ yt-dlp.exe --download-sections "*1:22:22-inf" # to the end
 yt-dlp --list-subs URL
 yt-dlp --write-sub --sub-format vtt --sub-lang zh-HK --skip-download URL
 # --sub-lang en/zh-HK/zh-TW/zh-Hant/zh-Hans --convert-subs=srt
-yt-dl "https://www.youtube.com/playlist?list=PLJV1h9xQ7Hx-b-L_VagAJgnnTJXb5YCuS" -- --write-sub --sub-format vtt --sub-lang zh-HK
-yt-dl "https://www.youtube.com/playlist?list=PLxSscENEp7JhHilZTy4u4rr_s8-nEM1-8" -- --write-auto-sub --sub-format vtt --sub-lang en
+yt-dl --sub zh-HK -o "" "https://www.youtube.com/playlist?list=PLJV1h9xQ7Hx-b-L_VagAJgnnTJXb5YCuS"
+yt-dl --auto-sub en "https://www.youtube.com/playlist?list=PLxSscENEp7JhHilZTy4u4rr_s8-nEM1-8" -- --write-auto-sub --sub-format vtt --sub-lang en
 ```
 
 [You-Get](https://you-get.org/)
@@ -879,6 +890,11 @@ Windows
 [Take Screenshot in Windows 10 | Tutorials](https://www.tenforums.com/tutorials/6102-take-screenshot-windows-10-a.html)
 [Greenshot](https://getgreenshot.org/)
 [PicPick - All-in-one Graphic Design, Best Screen Capture and Recording Software, Image Editor, Color Picker, Pixel Ruler and More](https://picpick.app/en/)
+
+[PowerToys Crop And Lock for Windows | Microsoft Learn](https://learn.microsoft.com/en-us/windows/powertoys/crop-and-lock)
+[Color Picker Utility in PowerToys for Windows | Microsoft Learn](https://learn.microsoft.com/en-us/windows/powertoys/color-picker)
+
+Windows Snipping Tool: <kbd>Win</kbd>+<kbd>Shift</kbd>+<kbd>S</kbd>
 [Why I'm Not Using The Windows Snipping Tool - gHacks Tech News](https://www.ghacks.net/2010/11/24/why-im-not-using-the-windows-snipping-tool/)
 [Goodbye Snipping Tool Hello Screen Sketch - gHacks Tech News](https://www.ghacks.net/2018/07/01/goodbye-snipping-tool-hello-screen-sketch/)
 
@@ -1148,8 +1164,12 @@ Kitty defied a graphics protocol for terminal emulators
 ```sh
 ghostty +list-themes
 ghostty +show-config
+ghostty +show-config --default
 ghostty +validate-config
-ghostty +reload_config
+ghostty +reload_config  # ctrl+shift+,
+
+ghostty +list-keybinds
+ghostty +list-keybinds --default
 ```
 
 ### WezTerm
@@ -1161,7 +1181,7 @@ ghostty +reload_config
 [More fun in the terminal with Wezterm! - YouTube](https://www.youtube.com/watch?v=hqP0XdB7VcA)
 [How I Use Wezterm & Zsh For An Amazing Terminal Setup On My Mac - YouTube](https://www.youtube.com/watch?v=TTgQV21X0SQ)
 
-[Working directory not preserved when opened from Nemo file manager · Issue #1982 · wez/wezterm](https://github.com/wez/wezterm/issues/1982) use `open-wezterm-here` for shell integrtation
+[Working directory not preserved when opened from Nemo file manager · Issue #1982 · wez/wezterm](https://github.com/wez/wezterm/issues/1982) use `/usr/bin/open-wezterm-here` for shell integrtation
 
 ### Alacritty
 
@@ -1276,6 +1296,9 @@ Solarize Dark
 [Data Recovery On A 1TB Western Digital Hard Drive - YouTube](https://www.youtube.com/watch?v=6hQZ09sdcRs)
 [command line - What's the difference between ddrescue, gddrescue, and dd_rescue? - Ask Ubuntu](https://askubuntu.com/questions/211578/whats-the-difference-between-ddrescue-gddrescue-and-dd-rescue)
 
+[korczis/foremost: Foremost is a console program to recover files based on their headers, footers, and internal data structures. This process is commonly referred to as data carving. Foremost can work on image files, such as those generated by dd, Safeback, Encase, etc, or directly on a drive. The headers and footers can be specified by a configuration file or you can use command line switches to specify built-in file types. These built-in types look at the data structures of a given file format allowing for a more reliable and faster recovery.](https://github.com/korczis/foremost)
+[Recover Deleted Data on Kali Linux: Using the Foremost Tool - YouTube](https://www.youtube.com/watch?v=Cga_BlOsOFg)
+
 [Download Recuva | Recover deleted files, free!](https://www.ccleaner.com/recuva)
 
 [Ddrescue - GNU Project - Free Software Foundation (FSF)](http://www.gnu.org/software/ddrescue/ddrescue.html) GNU ddrescue/gddrescue
@@ -1350,6 +1373,7 @@ numactl
 [Glances - Terminal-Based System Monitoring Tool - YouTube](https://www.youtube.com/watch?v=Sc-L5egqz1g)
 
 [Conky - Home](http://conky.sourceforge.net/)
+[brndnmtthws/conky: Light-weight system monitor for X, Wayland, and other things, too](https://github.com/brndnmtthws/conky)
 
 [Psensor | wpitchoune](http://wpitchoune.net/blog/psensor/)
 [monitoring - How do I get the CPU temperature? - Ask Ubuntu](http://askubuntu.com/questions/15832/how-do-i-get-the-cpu-temperature)
@@ -1365,13 +1389,17 @@ sensors
 [Sysprof - Statistical, system-wide Profiler for Linux](http://www.sysprof.com/)
 [Profiling entire system activity with sysprof | Linux.com | The source for Linux information](https://www.linux.com/news/profiling-entire-system-activity-sysprof)
 
-[PowerTOP | 01.org](https://01.org/powertop)
+[PowerTOP | 01.org](https://01.org/potertop)
 [smem memory reporting tool](https://www.selenic.com/smem/)
 
-[Windows Sysinternals: Documentation, downloads and additional resources](https://technet.microsoft.com/en-us/sysinternals/default)
+### Sysinternals
+
+[Sysinternals - Sysinternals | Microsoft Learn](https://learn.microsoft.com/en-us/sysinternals/)
+[Process Explorer - Sysinternals | Microsoft Learn](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer)
+[Autoruns - Sysinternals | Microsoft Learn](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)
+
 [A free, almost foolproof way to check for malware | InfoWorld](http://www.infoworld.com/article/3014323/security/a-free-almost-foolproof-way-to-check-for-malware.html)
-[Process Explorer](https://technet.microsoft.com/en-us/sysinternals/bb896653)
-[Autoruns for Windows](https://technet.microsoft.com/en-us/sysinternals/bb963902.aspx)
+[5 Windows Sysinternals tools I use to catch suspicious behavior](https://www.makeuseof.com/windows-sysinternals-tools-i-use-to-catch-suspicious-behavior/)
 
 ### Disk Usage
 
@@ -1424,6 +1452,7 @@ lspci -v -s $(lspci | grep VGA | cut -f1 -d' ')
 
 ## Unlocking file
 
+[File Locksmith Utility for Windows - PowerToys | Microsoft Learn](https://learn.microsoft.com/en-us/windows/powertoys/file-locksmith)  
 [LockHunter is a free 64/32 bit tool to delete files blocked by any processes](https://www.lockhunter.com/index.htm)
 [IObit Unlocker, Solution for "undelete files or folders" Problems on Windows 8, 7, Vista, XP, 10 - IObit](https://www.iobit.com/en/iobit-unlocker.php)
 

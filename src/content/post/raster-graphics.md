@@ -2,7 +2,7 @@
 title: Raster Graphics
 description: ""
 created: 2019-05-21
-updated: 2025-10-10
+updated: 2025-11-26
 tags:
   - app
   - desktop
@@ -35,12 +35,14 @@ tags:
 ## GIMP
 
 [GIMP Tutorials - YouTube](https://www.youtube.com/playlist?list=PLynG8gQD-n8Dl23X0o1HFu_5PmBl79niz)
-[arbaes/GimpPs: Gimp Theme to be more photoshop like](https://github.com/arbaes/GimpPs) install script
 [Make GIMP 2.10 Look Like Photoshop CC 2020 - YouTube](https://www.youtube.com/watch?v=dY7g2JGyJeQ)
 [Customize the GIMP Toolbox | Single Column, Icon Colors, Grouped Tools - YouTube](https://www.youtube.com/watch?v=oYmXU8_gb7Y)
 
 [All 39 GIMP Tools Explained - YouTube](https://www.youtube.com/watch?v=_z9cFpwak9c)
 [HOW TO USE GIMP - Complete Tutorial for Beginners 2020 - YouTube](https://www.youtube.com/watch?v=x6pXJ7Ijir0)
+
+[arbaes/GimpPs: Gimp Theme to be more photoshop like](https://github.com/arbaes/GimpPs) GIMP 2.10
+[Diolinux/PhotoGIMP: A Patch for GIMP 3+ for Photoshop Users](https://github.com/Diolinux/PhotoGIMP)
 
 ## Tips and Tricks
 

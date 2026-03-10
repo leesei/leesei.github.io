@@ -2,14 +2,14 @@
 title: Gnome notes
 description: ""
 created: 2024-09-10
-updated: 2025-10-10
+updated: 2025-12-18
 tags:
   - desktop
   - gnome
   - linux
 ---
 
-> Do use Gnome on X11 (select in Login screen) for `sxhkd` and `xev` is not working well with Wayland
+> Gnome 49 dropped X11 support in 2025-09 so `sxhkd` and `xev` will not work
 
 [GNOME – Simple, beautiful, elegant.](https://www.gnome.org/)
 

@@ -2,7 +2,7 @@
 title: Chip Making
 description: ""
 created: 2023-06-13
-updated: 2025-10-26
+updated: 2026-02-06
 tags:
   - comp/hardware
   - manufacturing
@@ -14,6 +14,8 @@ tags:
 [High Yield - YouTube](https://www.youtube.com/@HighYield)
 [老石谈芯 - YouTube](https://www.youtube.com/@laoshi_tec)
 [谈三圈 - YouTube](https://www.youtube.com/@tan3quan)
+[M亿财富MEmoney - YouTube](https://www.youtube.com/@memoney.M)
+[晶片崛起 THE RISE OF CHIPS - YouTube](https://www.youtube.com/playlist?list=PLBbGP5YXTYgmzvD-YmQC1Y6lQM2sg3xp6) PanSci
 
 [Semiconductor device fabrication - Wikiwand](https://www.wikiwand.com/en/articles/Semiconductor_device_fabrication)
 [Why making chips is so hard - YouTube](https://www.youtube.com/watch?v=CkNn98WE5_k)
@@ -101,6 +103,21 @@ tags:
 [MOSFET - Wikiwand](https://www.wikiwand.com/en/MOSFET)
 [CMOS - Wikiwand](https://www.wikiwand.com/en/CMOS) Complementary MOSFET
 
+### Memristor
+
+> combines computation with memory, non-von Neumann architecture
+
+[Memristor - Wikiwand](https://www.wikiwand.com/en/articles/Memristor)
+
+[The End of the Transistor? The Chip That Thinks Like a Brain - YouTube](https://www.youtube.com/watch?v=AHZxhdjCBSo&t=5s)
+[Brain-Like (Neuromorphic) Computing - Computerphile - YouTube](https://www.youtube.com/watch?v=Qow8pIvExH4)
+
+Asianometry
+[AI’s Hardware Problem - YouTube](https://www.youtube.com/watch?v=5tmGKTNW8DQ) Compute-in-memory
+[The Special Memory Powering the AI Revolution - YouTube](https://www.youtube.com/watch?v=yAw63F1W_Us)
+[Why Brain-like Computers Are Hard - YouTube](https://www.youtube.com/watch?v=FegeRT5N3A4)
+[Memristors for Analog AI Chips - YouTube](https://www.youtube.com/watch?v=LMuqWQcuy_0)
+
 ## Photolithography
 
 [How CPUs Are Made As Fast As Possible - YouTube](https://www.youtube.com/watch?v=N7ut61pSLwk)
@@ -108,6 +125,12 @@ tags:
 [Introduction to Photolithography - ( Negative or Positive Photoresist ) - YouTube](https://www.youtube.com/watch?v=IF2pDoPBv10)
 [How Photolithography works (ZEISS) - YouTube](https://www.youtube.com/playlist?list=PLB_IY29eVwsVZqvesN78qewu75kakmITJ)
 [How Extreme Ultraviolet Lithography works (ZEISS) - YouTube](https://www.youtube.com/playlist?list=PLB_IY29eVwsXzs45HeIu_85UHcF966IMm)
+[The World's Most Important Machine - YouTube](https://www.youtube.com/watch?v=MiUHjLxm3V0)
+
+1. Coat
+2. Expose
+3. Etch
+4. Deposit
 
 [芯片制造的核心：光刻机！中芯国际在购得 EUV 光刻机后差距还有多大？梁孟松的传奇（58） - YouTube](https://www.youtube.com/watch?v=-w2Cvd3rxsU)
 [Vol.137 如何在纳米尺度雕刻芯片？ - YouTube](https://www.youtube.com/watch?v=Co7-_d1NjkM)
@@ -122,6 +145,8 @@ Atomic Layer Deposition (ALD) is used to deposit thin films on the wafer.
 
 [用 GPU 榨干光刻机性能！英伟达计算光刻要改写芯片历史？ - YouTube](https://www.youtube.com/watch?v=N8gb_nABdWs)
 [You Didn’t Build your PC… This Did. - YouTube](https://www.youtube.com/watch?v=pfU20SAR21A) ASML's EUV machine
+
+[台積電供應鏈9級地震！Substrate宣稱用十分之一價格做出同級光刻機，ASML要倒了？ - YouTube](https://www.youtube.com/watch?v=ovAr03YVgVI) Substrate's X-ray Lithography
 
 @Asianometry
 [How Carl Zeiss Crafts Optics for a $150 Million EUV Machine - YouTube](https://www.youtube.com/watch?v=V__HbVlnICc)
@@ -175,6 +200,9 @@ FinFET is used for nodes < 28nm
 [The Gate-All-Around Transistor is Coming - YouTube](https://www.youtube.com/watch?v=5RPFfPtgw7g)
 [Gate-All-Around — The Future of Transistors - YouTube](https://www.youtube.com/watch?v=bfkIp_j0Iv8)
 GAA/RibbonFET is used for nodes < 3nm
+[GAAFET 來了！台積電有優勢嗎？三星更早推出 FinFET，為何沒領先？【晶片崛起 EP12】THE RISE OF CHIPS EP12 - YouTube](https://www.youtube.com/watch?v=76Zi1adKI30)
+
+[地球首枚1.8纳米芯片：人类科技的双重豪赌？GAA晶体管与晶圆背部供电【英特尔18A深度解读】 - YouTube](https://www.youtube.com/watch?v=uU8VIawu4zE)
 
 ## Packaging
 

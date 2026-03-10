@@ -2,7 +2,7 @@
 title: SSL/TLS
 description: ""
 created: 2015-04-02
-updated: 2025-11-12
+updated: 2026-02-26
 tags:
   - security
   - ssl
@@ -11,14 +11,19 @@ tags:
 ---
 
 [[x-509#PKI]]
+[[tlcp]]
 [[ssl-tls-free-certs]]
 
 [Transport Layer Security](https://www.wikiwand.com/en/Transport_Layer_Security) (TLS) and its predecessor, [Secure Sockets Layer](https://www.digicert.com/ssl.htm) (SSL), are cryptographic protocols designed to provide communications security over a computer network. TLS ensures confidentiality and authentication for the parties.
+
+[SSL/TLS and PKI History](https://www.feistyduck.com/ssl-tls-and-pki-history/)
+[Library: Bulletproof TLS Guide | Feisty Duck](https://www.feistyduck.com/library/bulletproof-tls-guide/) ❗!important
 
 [What is SSL (Secure Sockets Layer)? | Cloudflare](https://www.cloudflare.com/learning/ssl/what-is-ssl/)
 [What is Transport Layer Security (TLS)? | Cloudflare](https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/)
 [Creating Secure Web Apps: What Every Developer Needs to Know About HTTPS Today | Heroku](https://www.heroku.com/tech-sessions/creating-secure-web-apps)
 [SSL: Secure Sockets Layer](https://www.cs.cornell.edu/courses/cs5430/2015sp/notes/ssl.php) from SSL to TLS 1.2
+[密码学学习笔记*07*TLS通信协议 - 知乎](https://zhuanlan.zhihu.com/p/564452283)
 [Exploring HTTPS With Python – Real Python](https://realpython.com/python-https/)
 [What are SSL/TLS Certificates? Why do we Need them? and How do they Work? - YouTube](https://www.youtube.com/watch?v=r1nJT63BFQ0)
 
@@ -40,7 +45,6 @@ Toolkits:
 [Is TLS Fast Yet?](https://istlsfastyet.com/)
 [ImperialViolet - Overclocking SSL](https://www.imperialviolet.org/2010/06/25/overclocking-ssl.html) HTTPS is fast since 2010
 [ImperialViolet - Public key pinning](https://www.imperialviolet.org/2011/05/04/pinning.html)
-[Survival Guide - TLS/SSL and SSL (X.509) Certificates (CA-signed and Self-Signed)](http://www.zytrax.com/tech/survival/ssl.html)
 [Rolling out Public Key Pinning with HPKP Reporting — Google Web Updates](https://developers.google.com/web/updates/2015/09/HPKP-reporting-with-chrome-46)
 [SSL: it’s hard to do right | The Recompiler](https://recompilermag.com/issues/issue-1/ssl-its-hard-to-do-right/)
 [Nick Craver - HTTPS on Stack Overflow: The End of a Long Road](https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/)
@@ -67,17 +71,18 @@ TLS 1.3 = SSL 3.4 (2018)
 [Transport Layer Security (tls)](https://datatracker.ietf.org/wg/tls/documents/)
 
 [RFC 8446 - The Transport Layer Security (TLS) Protocol Version 1.3](https://datatracker.ietf.org/doc/html/rfc8446)
-[RFC 9147 - The Datagram Transport Layer Security (DTLS) Protocol Version 1.3](https://datatracker.ietf.org/doc/html/rfc9147/)
+[RFC 9147 - The Datagram Transport Layer Security (DTLS) Protocol Version 1.3](https://datatracker.ietf.org/doc/html/rfc9147/) TLS over UDP (QUIC)
+[RFC 6066 - Transport Layer Security (TLS) Extensions: Extension Definitions](https://datatracker.ietf.org/doc/html/rfc6066)
 [RFC 6101 - The Secure Sockets Layer (SSL) Protocol Version 3.0](https://datatracker.ietf.org/doc/html/rfc6101)
 [Transport Layer Security (TLS) Parameters](https://www.iana.org/assignments/tls-parameters/tls-parameters.xhtml)
-[draft-ietf-tls-rfc8446bis-12](https://datatracker.ietf.org/doc/html/draft-ietf-tls-rfc8446bis/) update
-[draft-ietf-tls-rfc9147bis-00](https://datatracker.ietf.org/doc/html/draft-ietf-tls-rfc9147bis/) update
+[draft-ietf-tls-rfc8446bis](https://datatracker.ietf.org/doc/html/draft-ietf-tls-rfc8446bis/) update 8446
+[draft-ietf-tls-rfc9147bis](https://datatracker.ietf.org/doc/html/draft-ietf-tls-rfc9147bis/) update 9147
 
 TLS v1.3
 
 - allow client's guessing of keyshares to reduce one round trip
 - reduces supported ciphers, uses only AEAD Algorithms  
-  [draft-irtf-cfrg-aead-properties-09 - Properties of AEAD Algorithms](https://datatracker.ietf.org/doc/html/draft-irtf-cfrg-aead-properties/)  
+  [RFC 9771 - Properties of Authenticated Encryption with Associated Data (AEAD) Algorithms](https://datatracker.ietf.org/doc/html/rfc9771)
   [Authenticated Encryption with Associated Data (AEAD)  |  Tink  |  Google for Developers](https://developers.google.com/tink/aead)  
   [Authenticated encryption — Cryptography documentation](https://cryptography.io/en/latest/hazmat/primitives/aead/)
 - Encrypt-Then-MAC by default
@@ -102,7 +107,7 @@ TLS v1.3
 [A Detailed Look at RFC 8446 (a.k.a. TLS 1.3)](https://blog.cloudflare.com/rfc-8446-aka-tls-1-3/) ❗!important
 
 [RFC 8701 - Applying Generate Random Extensions And Sustain Extensibility (GREASE) to TLS Extensibility](https://datatracker.ietf.org/doc/rfc8701/) to help identify [protocol ossification](https://www.wikiwand.com/en/articles/Protocol_ossification) in middlebox
-[tldr.fail](https://tldr.fail/) middlebox fails to handle large ClientHello
+[tldr.fail](https://tldr.fail/) middlebox fails to handle large (split) ClientHello
 
 ### Handshake
 
@@ -123,9 +128,6 @@ Generate session keys in order to use symmetric encryption after the handshake i
 SessionTicket replaces SessionID for session resumption in [RFC 5077 - Transport Layer Security (TLS) Session Resumption without Server-Side State](https://datatracker.ietf.org/doc/html/rfc5077)
 a.k.a. session caching, stateless resumption
 Session data is encrypted with a secret key known only by the server
-
-[Good-bye ESNI, hello ECH!](https://blog.cloudflare.com/encrypted-client-hello/) Encrypted Client Hello, replaces Encrypted SNI
-[Decoding TLS Encrypted Client Hello extension | Thibaut Probst](https://thibautprobst.fr/en/posts/ech/)
 
 Command Line Fanatic
 [How SSL Certificates Use Digital Signatures](https://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art012)
@@ -154,6 +156,17 @@ sequenceDiagram
     S->>C: Finished (Encrypted)
 ```
 
+### Encrypted SNI/Encrypted Client Hello
+
+[draft-ietf-tls-esni - TLS Encrypted Client Hello](https://datatracker.ietf.org/doc/html/draft-ietf-tls-esni)
+
+[What is encrypted SNI? | How ESNI works | Cloudflare](https://www.cloudflare.com/learning/ssl/what-is-encrypted-sni/)
+[Encrypt it or lose it: how encrypted SNI works](https://blog.cloudflare.com/encrypted-sni/) 2018
+
+[Good-bye ESNI, hello ECH!](https://blog.cloudflare.com/encrypted-client-hello/) 2020, Encrypted Client Hello, replaces Encrypted SNI
+[Decoding TLS Encrypted Client Hello extension | Thibaut Probst](https://thibautprobst.fr/en/posts/ech/) 2025-03
+[Understand Encrypted Client Hello (ECH) | Firefox Help](https://support.mozilla.org/en-US/kb/understand-encrypted-client-hello) 2025-07
+
 ### Packet Dump
 
 [The Illustrated TLS 1.3 Connection: Every Byte Explained](https://tls13.xargs.org/) ❗!important
@@ -181,14 +194,26 @@ sequenceDiagram
 
 [Ciphersuite Info](https://ciphersuite.info/)
 [An Introduction to Cipher Suites | Encryption Consulting](https://www.encryptionconsulting.com/ssl-cipher-suites/)
+[Fastly TLS prerequisites and limitations | Fastly Documentation](https://www.fastly.com/documentation/guides/getting-started/domains/securing-domains/tls-prerequisites-and-limitations/#supported-cipher-suites)
 
 [Security/Server Side TLS - MozillaWiki](https://wiki.mozilla.org/Security/Server_Side_TLS#Recommended_Ciphersuite)
 [Generate Mozilla Security Recommended Web Server Configuration Files](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
 
+```sh
+nmap --script ssl-enum-ciphers -p 443 <hostname_or_IP>
+```
+
+[/bin/bash based SSL/TLS tester: testssl.sh](https://testssl.sh/)
+[testssl/testssl.sh: Testing TLS/SSL encryption anywhere on any port](https://github.com/testssl/testssl.sh)
+
+[Get-TlsCipherSuite (TLS) | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/module/tls/get-tlsciphersuite?view=windowsserver2025-ps) IIS
+
+[security - How do I list the SSL/TLS cipher suites a particular website offers? - Super User](https://superuser.com/questions/109213/how-do-i-list-the-ssl-tls-cipher-suites-a-particular-website-offers)
+
+[RFC 6209 - Addition of the ARIA Cipher Suites to Transport Layer Security (TLS)](https://datatracker.ietf.org/doc/html/rfc6209/)
 [RFC 7919 - Negotiated Finite Field Diffie-Hellman Ephemeral Parameters for Transport Layer Security (TLS)](https://datatracker.ietf.org/doc/html/rfc7919) "Supported Groups Registry"
 
-[RFC 8998 - ShangMi (SM) Cipher Suites for TLS 1.3](https://datatracker.ietf.org/doc/html/rfc8998)
-[国密SSL协议是什么？与标准TLS协议的区别- 沃通SSL证书!](https://www.wosign.com/FAQ/faq_2019062501.htm)
+[Transport Layer Security (TLS) Parameters](https://www.iana.org/assignments/tls-parameters/tls-parameters.xml)
 
 `TLS_DHE_RSA_AES256_SHA256`
 
@@ -211,23 +236,20 @@ RSA: authentication
 AES_256_GCM: data encryption
 SHA384: MAC
 
+## Kernel TLS (kTLS)
+
+Let kernel handles the symmetric encryption data-path after handshake, mostly to improve `sendfie()` performance
+
+[Kernel TLS — The Linux Kernel documentation](https://docs.kernel.org/networking/tls.html)
+[Improving NGINX Performance with Kernel TLS and SSL_sendfile( ) | F5](https://www.f5.com/company/blog/nginx/improving-nginx-performance-with-kernel-tls)
+[Kernel TLS（KTLS）实践 - 商用密码技术最佳实践白皮书](https://openanolis.github.io/whitebook-shangmi/kernel_tls.html)
+
 ## HSTS
 
 > always use HTTPS
 
 [HTTP Strict Transport Security - Wikiwand](https://www.wikiwand.com/en/HTTP_Strict_Transport_Security)
 [HSTS Preload List Submission](https://hstspreload.appspot.com/)
-
-## Certificate Transparency
-
-[Introducing Certificate Transparency and Nimbus](https://blog.cloudflare.com/introducing-certificate-transparency-and-nimbus/)
-
-[RFC 9162 - Certificate Transparency Version 2.0](https://datatracker.ietf.org/doc/html/rfc9162)
-[Certificate Transparency - Wikiwand](https://www.wikiwand.com/en/articles/Certificate_Transparency)
-
-CT deprecates HPKP
-[RFC 7469 - Public Key Pinning Extension for HTTP](https://datatracker.ietf.org/doc/html/rfc7469)
-[HTTP Public Key Pinning - Wikiwand](https://www.wikiwand.com/en/articles/HTTP_Public_Key_Pinning)
 
 ## Mutual TLS/mTLS
 
@@ -253,6 +275,7 @@ CT deprecates HPKP
 
 [/bin/bash based SSL/TLS tester: testssl.sh](https://testssl.sh/) offline tool
 [crt.sh | Certificate Search](https://crt.sh/)
+[Hardenize: Comprehensive web site configuration test](https://www.hardenize.com/)
 [Qualys SSL Labs](https://www.ssllabs.com/)
 [Free SSL Checker Tool - Check SSL Certificate](https://www.thesslstore.com/ssltools/ssl-checker.php)
 [SSL Certificate Checker - Diagnostic Tool | DigiCert.com](https://www.digicert.com/help/)
@@ -271,6 +294,10 @@ CT deprecates HPKP
 ## Man-in-the-Middle (MITM)
 
 [Monsters in the Middleboxes: Introducing Two New Tools for Detecting HTTPS Interception](https://blog.cloudflare.com/monsters-in-the-middleboxes/amp/)
+[HTTPS/TLS Proxy | NetworkAcademy.io](https://www.networkacademy.io/ccie-enterprise/sdwan/https-tls-proxy)
+[What is a TLS Proxy? Definition & FAQs | Avi Networks](https://avinetworks.com/glossary/tls-proxy/)
+
+[Practical Guide: Intercepting HTTPS Traffic with Burp Suite](https://www.infosectrain.com/blog/practical-guide-intercepting-https-traffic-with-burp-suite)
 
 [mitmproxy - an interactive HTTPS proxy](https://mitmproxy.org/)
 [mitm.it](http://mitm.it/) CA for mitmproxy
@@ -300,14 +327,11 @@ CT deprecates HPKP
 [Fiddler Everywhere | Debugging Proxy for Mac, Linux, Windows](https://www.telerik.com/fiddler/fiddler-everywhere) forward TLS proxy, paid
 [Charles Web Debugging Proxy • HTTP Monitor / HTTP Proxy / HTTPS & SSL Proxy / Reverse Proxy](https://www.charlesproxy.com/) forward TLS proxy, paid
 
-[HTTPS/TLS Proxy | NetworkAcademy.io](https://www.networkacademy.io/ccie-enterprise/sdwan/https-tls-proxy)
-[What is a TLS Proxy? Definition & FAQs | Avi Networks](https://avinetworks.com/glossary/tls-proxy/)
-
 [Rebex TLS Proxy (free) - Rebex.NET](https://www.rebex.net/tls-proxy/)
 
 [iPhone and Android WiFi Man-in-the-middle attack // PYTHON Scapy scripts for attacking networks - YouTube](https://www.youtube.com/watch?v=O1jpck31Ask)
 
-## Perfect Forward Secrecy (PFS)
+## Perfect Forward Secrecy ([[tlcp]])
 
 [SSL Enabling Forward Secrecy | DigiCert.com](https://www.digicert.com/ssl-support/ssl-enabling-perfect-forward-secrecy.htm)
 
@@ -317,16 +341,15 @@ CT deprecates HPKP
 
 ### Heartbleed (2014)
 
-> see `web-security.md#heartbleed`
+[[cyber-security#Heartbleed]]
 
 ### Renegotiation Gap (2009)
 
 [Truth in SOA: Really Understanding the SSL/TLS Vulnerability (Part 1)](http://soatruth.blogspot.hk/2009/12/really-understanding-ssltls.html)
 
-## Localhost certs
+## Self signed Certs
 
-[FiloSottile/mkcert: A simple zero-config tool to make locally-trusted development certificates with any names you'd like.](https://github.com/FiloSottile/mkcert) add local CA to system
-[Why and How to Use HTTPS in Your Local Development Environment](https://auth0.com/blog/using-https-in-your-development-environment/)
+[[x-509#Cert generation]]
 
 ## Free SSL/TLS Certs
 

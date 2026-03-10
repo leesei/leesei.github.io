@@ -2,7 +2,7 @@
 title: Zsh shell
 description: ""
 created: 2014-12-08
-updated: 2025-01-09
+updated: 2026-01-16
 tags:
   - linux
   - oh-my-zsh
@@ -22,6 +22,7 @@ That's when I jumped ship to [[shell-fish]].
 [zsh-users](https://github.com/zsh-users/)
 
 [unixorn/awesome-zsh-plugins: A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.](https://github.com/unixorn/awesome-zsh-plugins)
+[A Swiss Army Knife for Zsh Unix shell | Z-Shell](https://wiki.zshell.dev/)
 
 [Minimalistic, powerful and extremely customizable Zsh prompt - Spaceship](https://spaceship-prompt.sh/)
 [spaceship-prompt/spaceship-prompt: Minimalistic, powerful and extremely customizable Zsh prompt](https://github.com/spaceship-prompt/spaceship-prompt)

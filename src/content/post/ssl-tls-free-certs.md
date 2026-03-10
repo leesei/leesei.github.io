@@ -2,7 +2,7 @@
 title: Free SSL/TLS Certificates
 description: ""
 created: 2023-05-16
-updated: 2025-10-10
+updated: 2026-01-05
 tags:
   - security
   - ssl
@@ -15,10 +15,41 @@ tags:
 [SSL For Free - Free SSL Certificates in Minutes](https://www.sslforfree.com/)
 
 [How To Get A Trusted SSL Certificate for FREE (Works 2020) - YouTube](https://www.youtube.com/watch?v=K90RxdQp9OE)
-[How to Install Free SSL From Let’s Encrypt on Shared Hosting](https://www.hostinger.com/tutorials/ssl/how-to-install-free-ssl-from-lets-encypt-on-shared-hosting)
+[Do I Need an SSL Certificate? How SSL Can Protect Your Site](https://www.hostinger.com/tutorials/ssl-benefits)
 
 [Roland Bracewell Shoemaker: Let's Encrypt -- What launching a free CA looks like - YouTube](https://www.youtube.com/watch?v=g2_wbp5vxNs)
 [Let's Encrypt with J.C. Jones - YouTube](https://www.youtube.com/watch?v=S7CIHwrroec)
+
+## Automatic Certificate Management Environment (ACME)
+
+[Automatic Certificate Management Environment - Wikiwand](https://www.wikiwand.com/en/articles/Automatic_Certificate_Management_Environment)
+[RFC 8555 - Automatic Certificate Management Environment (ACME)](https://datatracker.ietf.org/doc/html/rfc8555/)
+[An In-Depth Symbolic Security Analysis of the ACME Standard](https://eprint.iacr.org/2021/1457) formal proof
+
+[How It Works - Let's Encrypt](https://letsencrypt.org/how-it-works/)
+[Challenge Types - Let's Encrypt](https://letsencrypt.org/docs/challenge-types/)
+[Multi-Perspective Validation Improves Domain Validation Security - Let's Encrypt](https://letsencrypt.org/2020/02/19/multi-perspective-validation)
+
+### http-01
+
+Server visits `http://<domain.name>/.well-known/acme-challenge/<TOKEN>`
+
+### dns-01
+
+[A Technical Deep Dive: Securing the Automation of ACME DNS Challenge Validation | Electronic Frontier Foundation](https://www.eff.org/deeplinks/2018/02/technical-deep-dive-securing-automation-acme-dns-challenge-validation)
+[dns-01-challenge · GitHub Topics](https://github.com/topics/dns-01-challenge) plugin for certbots
+
+[Automating Let's Encrypt Certificate Renewal using DNS Challenge Type — Chariot Solutions](https://chariotsolutions.com/blog/post/automating-lets-encrypt-certificate-renewal-using-dns-challenge-type/)
+
+Dynamic DNS updates on Hostinger server by API:
+
+```sh
+curl https://developers.hostinger.com/api/dns/v1/zones/<domain.name> \ --request PUT \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer <API_KEY>' \ --data '{ "overwrite": true, "zone": [ { "name": "_acme-challenge", "records": [ { "content": "<TOKEN>" } ], "ttl": 300, "type": "TXT" } ] }'
+```
+
+### tls-alpn-01
+
+[RFC 8737 - Automated Certificate Management Environment (ACME) TLS Application-Layer Protocol Negotiation (ALPN) Challenge Extension](https://datatracker.ietf.org/doc/html/rfc8737)
 
 ## Let's Encrypt
 
@@ -51,14 +82,15 @@ tags:
 [Generate free SSL certificates with Docker and LetsEncrypt | Tit Petrič](https://scene-si.org/2016/01/23/generate-free-ssl-certificates-with-docker-and-letsencrypt/)
 [How to Set Up Free SSL Certificates from Let's Encrypt using Docker and Nginx](https://www.humankode.com/ssl/how-to-set-up-free-ssl-certificates-from-lets-encrypt-using-docker-and-nginx)
 
-[certbot-docker/certbot-docker: Source files for Certbot's Docker images](https://github.com/certbot-docker/certbot-docker)
-[JrCs/docker-letsencrypt-nginx-proxy-companion: LetsEncrypt companion container for nginx-proxy](https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion)
-[linuxserver/docker-letsencrypt](https://github.com/linuxserver/docker-letsencrypt)
-[staticfloat/docker-nginx-certbot: Create and renew website certificates using the Letsencrypt free certificate authority.](https://github.com/staticfloat/docker-nginx-certbot)
+[nginx-proxy/acme-companion: Automated ACME SSL certificate generation for nginx-proxy](https://github.com/nginx-proxy/acme-companion)
+[linuxserver/docker-swag: Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.](https://github.com/linuxserver/docker-swag)
+[JonasAlfredsson/docker-nginx-certbot: Automatically create and renew website certificates for free using the Let's Encrypt certificate authority.](https://github.com/JonasAlfredsson/docker-nginx-certbot/)
 
 [Two domains on one droplet with one SSL certificate | DigitalOcean](https://www.digitalocean.com/community/questions/two-domains-on-one-droplet-with-one-ssl-certificate)
 [How To Secure Nginx with Let's Encrypt on Ubuntu 16.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-16-04)
 
+[如何免费的让网站启用 HTTPS | | 酷 壳 - CoolShell](https://coolshell.cn/articles/18094.html)
+[Complete guide to configure SSL on Nginx with Let's Encrypt (Ubuntu/Centos/RHEL) - LinuxTechLab](https://linuxtechlab.com/complete-guide-to-configure-ssl-on-nginx-with-lets-encrypt-ubuntu-centos-rhel/)
 [Let's Encrypt with HAProxy](https://coolaj86.com/articles/lets-encrypt-with-haproxy/)
 [Let's Encrypt on Raspberry Pi](https://coolaj86.com/articles/lets-encrypt-on-raspberry-pi/)
 [adventures in haproxy: tcp, tls, https, ssh, openvpn](https://coolaj86.com/articles/adventures-in-haproxy-tcp-tls-https-ssh-openvpn/)
@@ -74,15 +106,14 @@ tags:
 
 [Certbot](https://certbot.eff.org/) [docs](https://certbot.eff.org/docs/) previously `letsencrypt`/`letsencrypt-auto`
 [User Guide — Certbot.documentation](https://certbot.eff.org/docs/using.html)
-[如何免费的让网站启用 HTTPS | | 酷 壳 - CoolShell](https://coolshell.cn/articles/18094.html)
-[Complete guide to configure SSL on Nginx with Let's Encrypt (Ubuntu/Centos/RHEL) - LinuxTechLab](https://linuxtechlab.com/complete-guide-to-configure-ssl-on-nginx-with-lets-encrypt-ubuntu-centos-rhel/)
+[certbot/certbot: Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.](https://github.com/certbot/certbot)
+
+[zerossl/zerossl-bot: The repository for the ZeroSSL certbot wrapper](https://github.com/zerossl/zerossl-bot)
+
+[Lego :: Let’s Encrypt client and ACME library written in Go.](https://go-acme.github.io/lego/)
+[go-acme/lego: Let's Encrypt/ACME client and library written in Go](https://github.com/go-acme/lego) Used in Caddy
 
 [diafygi/acme-tiny: A tiny script to issue and renew TLS certs from Let's Encrypt](https://github.com/diafygi/acme-tiny)
-
-[xenolf/lego: Let's Encrypt client and ACME library written in Go](https://github.com/xenolf/lego) Used in Caddy
-
-[Daplie/node-letsencrypt: letsencrypt for node.js](https://github.com/Daplie/node-letsencrypt)
-[DylanPiercey/auto-sni: Free, automated HTTPS for NodeJS made easy.](https://github.com/DylanPiercey/auto-sni)
 
 ### acme-client
 
@@ -131,12 +162,3 @@ The main differences between using Cloudflare with Hostinger directly with and C
 - DNS zone can be fully managed from Hostinger side – so you don’t need to worry about updating DNS Records in different places: all of your domain’s DNS management will be in one place
 - All main setting of Cloudflare can be found in hPanel – so changing security level will only take a few clicks
 - One time activation fee – and Cloudflare will secure your domain and all of your subdomains as long as your domain is hosted with us 💜
-
-### Heroku
-
-[Announcing Heroku Free SSL Beta and Flexible Dyno Hours | Heroku](https://blog.heroku.com/archives/2016/5/18/announcing_heroku_free_ssl_beta_and_flexible_dyno_hours)
-[Let's Encrypt and Heroku [Solved] - Server - Let's Encrypt Community Support](https://community.letsencrypt.org/t/lets-encrypt-and-heroku-solved/4272/18)
-[Let's Encrypt with a Rails app on Heroku // Collective Idea | Crafting web and mobile software based in Holland, Michigan](http://collectiveidea.com/blog/archives/2016/01/12/lets-encrypt-with-a-rails-app-on-heroku/)
-[Use Let’s Encrypt TLS certificate on Heroku — Sikachu’s Blog — Medium](https://sikac.hu/use-let-s-encrypt-tls-certificate-on-heroku-65f853870d90#.ut542pcuk)
-[SSL Endpoint | Heroku Dev Center](https://devcenter.heroku.com/articles/ssl-endpoint)
-[Set up CloudFlare's free SSL on Heroku](https://robots.thoughtbot.com/set-up-cloudflare-free-ssl-on-heroku)

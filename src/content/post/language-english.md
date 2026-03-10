@@ -2,7 +2,7 @@
 title: English Language
 description: ""
 created: 2025-02-04
-updated: 2025-10-13
+updated: 2026-01-14
 tags:
   - english
   - language
@@ -74,6 +74,7 @@ Order of multiple adjectives:
 [English Dictionary, Thesaurus, & grammar help | Oxford Dictionaries](https://en.oxforddictionaries.com/)
 [Dictionary, Encyclopedia and Thesaurus - The Free Dictionary](http://www.thefreedictionary.com/)
 [Thesaurus.plus - Online Thesaurus Dictionary of the English language](https://thesaurus.plus/)
+[American Heritage Dictionary - Search](https://www.ahdictionary.com/)
 
 ## Abbreviations
 
@@ -239,7 +240,7 @@ RobWords
 [DeepL Write: AI-powered writing companion](https://www.deepl.com/write)
 
 [语法 - YouTube](https://www.youtube.com/playlist?list=PLiRHe7F8P0-0ykWSiVY9Ia431TB-HzQm0) 英语兔
-[一个视频说清整个英语语法体系(重塑你的语法认知框架) - YouTube](https://www.youtube.com/watch?v=is7vn5URVcc) !important
+[一个视频说清整个英语语法体系(重塑你的语法认知框架) - YouTube](https://www.youtube.com/watch?v=is7vn5URVcc) ❗!important
 [非谓语动词详解: 不定式, 动名词, 现在分词, 过去分词 - YouTube](https://www.youtube.com/watch?v=LhbZ4TAjgUo)
 [英语"虚拟语气"就是这么简单(看完就懂!) - YouTube](https://www.youtube.com/watch?v=-Skm12wNLa8)
 [英语核心语法概念 | 英语兔](https://www.yingyutu.com/hxyf)

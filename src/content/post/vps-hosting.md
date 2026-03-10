@@ -2,7 +2,7 @@
 title: VPS Hosting
 description: ""
 created: 2015-07-26
-updated: 2025-01-09
+updated: 2026-02-11
 tags:
   - digital-ocean
   - hostinger
@@ -13,18 +13,21 @@ tags:
 
 [[aws#EC2]]
 
+[The best VPS hosting services for 2026: Expert tested and reviewed | ZDNET](https://www.zdnet.com/article/best-vps-hosting-service/)
 [DigitalOcean vs Linode: Which One is Actually Better [2023]](https://www.websiteplanet.com/blog/digitalocean-vs-linode/)
 
 ## DigitalOcean
 
 [Droplet Pricing | DigitalOcean](https://www.digitalocean.com/pricing/droplets)
-[/reference/api/](https://docs.digitalocean.com/documentation/)
 
-[Review: DigitalOcean keeps the cloud simple | InfoWorld](http://www.infoworld.com/article/3155347/cloud-computing/review-digitalocean-keeps-cloud-simple.html)
+[Review: DigitalOcean keeps the cloud simple | InfoWorld](https://www.infoworld.com/article/2251217/review-digitalocean-keeps-cloud-simple-2.html)
 [An Introduction to Managing DNS | DigitalOcean](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-managing-dns)
 
 [kbknapp/docli-rs: Command-line utility for managing DigitalOcean infrastructure](https://github.com/kbknapp/docli-rs)
+[doctl Command Line Interface (CLI) | DigitalOcean Documentation](https://docs.digitalocean.com/reference/doctl/)
+
 [kbknapp/doapi-rs: Wrapper library for utilizing DigitalOcean API v2 in Rust](https://github.com/kbknapp/doapi-rs)
+[API Overview | DigitalOcean Documentation](https://docs.digitalocean.com/reference/api/)
 
 ### Choosing Region
 

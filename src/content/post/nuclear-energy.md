@@ -2,7 +2,7 @@
 title: Nuclear Energy
 description: ""
 created: 2023-05-27
-updated: 2025-10-10
+updated: 2025-12-18
 tags:
   - energy
   - science
@@ -17,6 +17,7 @@ Thorium Reactor (Molten Salt Reactor with Thorium as fuel)
 Small Modular Reactor
 
 [Nuclear Future - YouTube](https://www.youtube.com/playlist?list=PLHebb5GJgeFeohV1B4H2uwjpbUIFSaJDf) Two Bit da Vinci
+[核能【核融合、第四代核電廠、核廢料】 - YouTube](https://www.youtube.com/playlist?list=PLBbGP5YXTYgmwqK9PadflHjDv7Vl3F0eX) PanSci
 
 ## Nuclear Fission
 

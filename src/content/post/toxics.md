@@ -2,12 +2,15 @@
 title: Toxics
 description: ""
 created: 2016-10-02
-updated: 2025-10-10
+updated: 2026-03-06
 tags:
   - science
 ---
 
 Paracelsus, a 16th-century alchemist, and physician coined a great phrase: “All things are poison and nothing is without poison; only the dose makes a thing not a poison.”
+
+Psychedelics are non-addictive: LSD,. Psilocybin, DMT
+Stimulant are addictive: Cocain, Opium, Amphetamine (Speed, Meth, MDMA)
 
 ## Poisons
 
@@ -30,6 +33,7 @@ Cyanide 山埃
 
 ## LSD
 
+[LSD - Wikiwand](https://www.wikiwand.com/en/LSD)
 [LSD History | Curious Minds - Curious Minds Podcast](http://www.cmpod.net/the-history-of-lsd-pt-1-how-does-it-feel-to-be-crazy/)
 [LSD History, Pt.2: Timothy Leary | Curious Minds - Curious Minds Podcast](http://www.cmpod.net/the-history-of-lsd-pt-2-the-most-dangerous-man-in-america/)
 LSD is not addictive, and is one of the strongest drugs known to man
@@ -37,6 +41,12 @@ the common dose is a mere 50ug
 comparing to that of cocaine 100mg
 [【科技史】史上最强致幻剂LSD的魔幻往事 - YouTube](https://www.youtube.com/watch?v=R0qL02FXWaY)
 麥角 Ergot
+
+## DMT
+
+[Dimethyltryptamine - Wikiwand](https://www.wikiwand.com/en/Dimethyltryptamine)
+
+[The Most Mysterious Drug in the World - YouTube](https://www.youtube.com/watch?v=hhjhU5MXZOo)
 
 ## Cannabis/Marijuana
 

@@ -2,7 +2,7 @@
 title: Git server
 description: ""
 created: 2016-03-04
-updated: 2025-10-10
+updated: 2025-12-17
 tags:
   - app
   - git
@@ -15,11 +15,12 @@ Git server:
 - enforce access control
 - include web interface for better access
 
-[GitPrep](http://gitprep.yukikimoto.com/) GitHub clone in Perl
-[gitbucket/gitbucket](https://github.com/gitbucket/gitbucket) GitHub clone
-[Gerrit Code Review](https://www.gerritcodereview.com/) by Google
-
 [Run your own GitHub-like service with the help of Docker · Docker Pirates ARMed with explosive stuff](http://blog.hypriot.com/post/run-your-own-github-like-service-with-docker/)
+
+## Comparisons
+
+[Gitea vs Gogs vs Forgejo | Which Git Server is Best in 2025? - YouTube](https://www.youtube.com/watch?v=53THE25uiAw)
+[Gitea vs Gogs vs Forgejo - Which Git Server is BETTER in 2025? (FULL REVIEW!) - YouTube](https://www.youtube.com/watch?v=NYFoyyUCEkg)
 
 ## Sharing port 22
 
@@ -52,6 +53,97 @@ ssh -v git@127.0.0.1:10022 git-receive-pack <path-to-git-repository>
 
 [vanilla git/ssh](https://stackoverflow.com/questions/10888300/gitosis-vs-gitolite)
 [Howto: Git Server over SSH - SysTutorials](https://www.systutorials.com/set-up-git-server-through-ssh-connection/)
+
+## GitLab
+
+[GitLab](https://about.gitlab.com/) GitHub clone, bought [gitorious](https://gitorious.org/)
+
+[GitLab Documentation](https://docs.gitlab.com/)
+
+The Omnibus package (by Chef) simplifies the setup of GitLab ALOT
+[Download GitLab Community Edition (CE) | GitLab](https://about.gitlab.com/downloads/)
+
+[GitLab 11.0 released with Auto DevOps and License Management | GitLab](https://about.gitlab.com/2018/06/22/gitlab-11-0-released/)
+[Easy & simple guide to Backup & Restore GITLAB - LinuxTechLab](https://linuxtechlab.com/simple-guide-backup-restore-gitlab/)
+
+Upgrading GitLab is as simple as:
+
+```sh
+sudo gitlab-ctl stop unicorn
+sudo gitlab-ctl stop sidekiq
+sudo gitlab-rake gitlab:backup:create
+sudo dpkg -i gitlab_x.x.x-omnibus.xxx.deb
+sudo gitlab-ctl reconfigure
+```
+
+[Gitlab - ArchWiki](https://wiki.archlinux.org/title/gitlab)
+[README.md · master · GitLab.org / omnibus-gitlab · GitLab](https://gitlab.com/gitlab-org/omnibus-gitlab/blob/master/README.md)
+[How To Set Up GitLab As Your Very Own Private GitHub Clone | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-gitlab-as-your-very-own-private-github-clone) from scratch
+
+## Gogs
+
+[Gogs](http://gogs.io/) Extremely Lightweight
+[Gogs Discussion](https://discuss.gogs.io/)
+
+[Introduction - Gogs - Go Git Service](https://gogs.io/docs)
+[Troubleshooting - Gogs - Go Git Service](https://gogs.io/docs/intro/troubleshooting.html)
+[Config Cheat Sheet - Gogs](https://gogs.io/docs/advanced/configuration_cheat_sheet)
+
+[Gogs, an alternative to Gitlab](http://jbrodriguez.io/gogs-an-alternative-to-gitlab/)
+
+### API
+
+[gogs/docs-api: A repository for Gogs API v1 documentation.](https://github.com/gogs/docs-api)
+
+[mattddowney/gogs-bash: Bash Script for Interacting with the GOGS API](https://github.com/mattddowney/gogs-bash)
+[unfoldingWord-dev/node-gogs-client: A client library for interacting with the gogs REST api](https://github.com/unfoldingWord-dev/node-gogs-client)
+[gogs_client — gogs_client documentation](https://pythonhosted.org/gogs-client/index.html) Python
+[gogs/go-gogs-client: Gogs API client in Go.](https://github.com/gogs/go-gogs-client) official Go one
+
+## Gitea
+
+> turned into for-profit company in [2022-10](https://blog.gitea.com/open-source-sustainment/)
+
+[Gitea](https://gitea.io/en-us/) OAuth2, CI/CD, LFS, Container Registry, Lightweight
+[What is Gitea? | Gitea Documentation](https://docs.gitea.com/)
+
+Gitea is a [fork of Gogs](https://blog.gitea.io/welcome-to-gitea/) in 2016-11 that is more community based.
+
+[Gitea compared to other Git hosting options - Docs](https://docs.gitea.io/en-us/comparison/)
+
+## Forgejo
+
+> fork of Gitea v1.22
+
+[Forgejo – Beyond coding. We forge.](https://forgejo.org/) OAuth2, CI/CD, LFS, Container Registry, Lightweight
+[Forgejo v13.0 documentation | Forgejo – Beyond coding. We forge.](https://forgejo.org/docs/latest/)
+
+Forgejo is a [fork of Gitea](https://gitea-open-letter.coding.social/) in 2022-10
+
+[Comparison with other Forges | Forgejo – Beyond coding. We forge.](https://forgejo.org/compare/)
+
+[Codeberg.org](https://codeberg.org/) hosted version
+
+## OneDev
+
+[OneDev - The powerful and simple DevOps platform](https://onedev.io/) OpenID auth, CI/CD, Kanban, Lightweight
+[Quickstart | OneDev Documentation](https://docs.onedev.io/)
+
+[Performance Compasion of OneDev and GitLab | by Robin Shen | FAUN.dev() 🐾](https://faun.pub/performance-compasion-of-onedev-and-gitlab-c11fc27b25be)
+
+## Pagure
+
+[Home - Pagure.io](https://pagure.io/) hosted version
+
+[Overview - pagure - Pagure.io](https://pagure.io/pagure)
+[Pagure — pagure documentation](https://docs.pagure.org/pagure/)
+
+## sourcehut
+
+[sourcehut: A software development platform for hackers](https://sr.ht/~sircmpwn/sourcehut/)
+[sourcehut docs - man.sr.ht](https://man.sr.ht/)
+
+[sourcehut pricing - the hacker's forge](https://sourcehut.org/pricing/) paid hosted version
 
 ## git-daemon
 
@@ -90,76 +182,6 @@ You can even edit it to override the access control.
 [Internal Git server with Gitolite](https://sysadmincasts.com/episodes/11-internal-git-server-with-gitolite)
 [How to Set Up A Gitolite Git Server - A Ten-Minute Tutorial - SysTutorials](https://www.systutorials.com/how-to-set-up-gitolite-git-server-a-ten-minute-tutorial/)
 
-## GitLab
-
-[GitLab](https://about.gitlab.com/) GitHub clone, bought [gitorious](https://gitorious.org/)
-
-[GitLab Documentation](https://docs.gitlab.com/)
-
-The Omnibus package (by Chef) simplifies the setup of GitLab ALOT
-[Download GitLab Community Edition (CE) | GitLab](https://about.gitlab.com/downloads/)
-
-[GitLab 11.0 released with Auto DevOps and License Management | GitLab](https://about.gitlab.com/2018/06/22/gitlab-11-0-released/)
-[Easy & simple guide to Backup & Restore GITLAB - LinuxTechLab](https://linuxtechlab.com/simple-guide-backup-restore-gitlab/)
-
-Upgrading GitLab is as simple as:
-
-```sh
-sudo gitlab-ctl stop unicorn
-sudo gitlab-ctl stop sidekiq
-sudo gitlab-rake gitlab:backup:create
-sudo dpkg -i gitlab_x.x.x-omnibus.xxx.deb
-sudo gitlab-ctl reconfigure
-```
-
-[Gitlab - ArchWiki](https://wiki.archlinux.org/title/gitlab)
-[README.md · master · GitLab.org / omnibus-gitlab · GitLab](https://gitlab.com/gitlab-org/omnibus-gitlab/blob/master/README.md)
-[How To Set Up GitLab As Your Very Own Private GitHub Clone | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-gitlab-as-your-very-own-private-github-clone) from scratch
-
-## Gogs
-
-[Gogs](http://gogs.io/) GitHub clone in Go
-[Gogs Discussion](https://discuss.gogs.io/)
-
-[Introduction - Gogs - Go Git Service](https://gogs.io/docs)
-[Troubleshooting - Gogs - Go Git Service](https://gogs.io/docs/intro/troubleshooting.html)
-[Config Cheat Sheet - Gogs](https://gogs.io/docs/advanced/configuration_cheat_sheet)
-
-[Gogs, an alternative to Gitlab](http://jbrodriguez.io/gogs-an-alternative-to-gitlab/)
-
-### API
-
-[gogs/docs-api: A repository for Gogs API v1 documentation.](https://github.com/gogs/docs-api)
-
-[mattddowney/gogs-bash: Bash Script for Interacting with the GOGS API](https://github.com/mattddowney/gogs-bash)
-[unfoldingWord-dev/node-gogs-client: A client library for interacting with the gogs REST api](https://github.com/unfoldingWord-dev/node-gogs-client)
-[gogs_client — gogs_client documentation](https://pythonhosted.org/gogs-client/index.html) Python
-[gogs/go-gogs-client: Gogs API client in Go.](https://github.com/gogs/go-gogs-client) official Go one
-
-## Gitea
-
-[Gitea](https://gitea.io/en-us/)
-
-Gitea is a [fork of Gogs](https://blog.gitea.io/2016/12/welcome-to-gitea/) at 2016-11 that is more community based.
-
-[Gitea compared to other Git hosting options - Docs](https://docs.gitea.io/en-us/comparison/)
-
-## Pagure
-
-[Pagure — pagure documentation](https://docs.pagure.org/pagure/)
-[Overview - pagure - Pagure.io](https://pagure.io/pagure)
-
-[Home - Pagure.io](https://pagure.io/)
-
-## CodeFever
-
-[CodeFever Community](https://codefever.cn/)
-[PGYER/codefever: CodeFever Community Edition (A Self-hosted Git Services)](https://github.com/PGYER/codefever)
-
-## sr.ht
-
-[sr.ht - software hosting for hackers](https://meta.sr.ht/)
-
 ## gitweb
 
 ```sh
@@ -171,3 +193,9 @@ git instaweb -d webrick --start
 # stop server
 git instaweb -d webrick --stop
 ```
+
+## Others
+
+[GitPrep](http://gitprep.yukikimoto.com/) GitHub clone in Perl
+[gitbucket/gitbucket](https://github.com/gitbucket/gitbucket) GitHub clone
+[Gerrit Code Review](https://www.gerritcodereview.com/) by Google

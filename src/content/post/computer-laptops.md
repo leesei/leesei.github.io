@@ -2,7 +2,7 @@
 title: Laptop
 description: Mostly my study of laptop on market in 2019
 created: 2019-05-03
-updated: 2025-01-09
+updated: 2026-01-30
 tags:
   - comp/hardware
   - laptop
@@ -33,20 +33,16 @@ D: Bottom Case
 [ThinkWiki](https://www.thinkwiki.org/wiki/ThinkWiki)
 
 Lookup spec by product ID
-[partslookup - HK](https://support.lenovo.com/hk/en/partslookup)
+[Lenovo Computer Parts | Genuine Spare Parts | Lenovo Support HK](https://support.lenovo.com/hk/en/parts-lookup)
 [Home - Global Support - US](https://support.lenovo.com/us/en/)
 [Product Specifications Reference(PSREF)](http://psref.lenovo.com/)
 
 [THINK: A brief history of ThinkPads, from IBM to Lenovo - NotebookCheck.net News](https://www.notebookcheck.net/THINK-A-brief-history-of-ThinkPads-from-IBM-to-Lenovo.418728.0.html)
-[ThinkPad 综合站 - 知乎](https://zhuanlan.zhihu.com/thinkpad)
+
+Install Lenovo Vantage from Microsoft Store to update drivers and view parts
+
 [2019 年 ThinkPad X390、T490、T490s 新機速報！ - 知乎](https://zhuanlan.zhihu.com/p/58196612)
 [Lenovo ThinkPad T480s vs. Lenovo ThinkPad X1 Carbon | Digital Trends](https://www.digitaltrends.com/computing/lenovo-thinkpad-t480s-vs-lenovo-thinkpad-x1-carbon/)
-
-[How to upgrade the SSD in Lenovo's ThinkPad X1 Carbon | Windows Central](https://www.windowscentral.com/how-upgrade-ssd-lenovo-thinkpad-x1-carbon?amp)
-
-[Lenovo Thinkpad X1 Carbon - Battery Replacement - YouTube](https://www.youtube.com/watch?v=ic6nqacxd9o)
-[ThinkPad: X Series Laptops-Lenovo Community](https://forums.lenovo.com/t5/ThinkPad-X-Series-Laptops/Battery-Not-Detected-2019-Thinkpad-X1-Carbon-7th-Gen-20QD/m-p/5010935)
-[power management - Lenovo X1 Thinkpad battery not charging in 17.04 - Ask Ubuntu](https://askubuntu.com/questions/980490/lenovo-x1-thinkpad-battery-not-charging-in-17-04)
 
 ## 13.3"
 

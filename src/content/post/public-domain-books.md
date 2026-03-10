@@ -2,7 +2,7 @@
 title: Public Domain Books
 description: ""
 created: 2015-04-18
-updated: 2025-10-14
+updated: 2025-12-11
 tags:
   - ebook
   - learning
@@ -22,3 +22,4 @@ tags:
 [古詩大全,經典詩歌,詩詞名句,古文言文大全-詩詞古文大全網](https://www.iccie.tw/) 注釋
 [中華古詩文古書籍網*古詩文詞*詩詞佳句*詩文作者*古書古籍](https://www.arteducation.com.tw/) 注釋
 [世界名著网电子书在线阅读\_用心感受世界名著的力量](http://t.icesmall.cn/)
+[圖書下載 – Open Books Hong Kong](https://openbookshongkong.com/book/)

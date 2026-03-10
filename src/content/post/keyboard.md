@@ -2,7 +2,7 @@
 title: Keyboard
 description: ""
 created: 2015-06-15
-updated: 2025-11-13
+updated: 2026-01-30
 tags:
   - comp/hardware
   - logitech
@@ -14,6 +14,9 @@ tags:
 [【硬件科普】键鼠是怎么工作的，高端主板为什么要保留 PS2 接口？8K 回报率有意义吗？ - YouTube](https://www.youtube.com/watch?v=DLyR8M4xhDM)
 [¥200和¥8000的机械键盘有什么区别？键盘侠们在折腾什么？【柴知道】 - YouTube](https://www.youtube.com/watch?v=R55RQqesrRk)
 [超詳細鍵盤入坑指南！一個視頻告訴你，鍵盤到底在買什麼！差價幾十倍的鍵盤怎麼選？包懂的！｜大狸子切切裡 - YouTube](https://www.youtube.com/watch?v=C_QfIcAkOIg)
+
+[键盘里隐藏的秘密｜技术｜播客｜原来是这样 - YouTube](https://www.youtube.com/watch?v=X-Iqqma4OfQ)
+[Ctrl、Alt、F4...每个按键都是怎么来的？｜技术｜播客｜原来是这样 - YouTube](https://www.youtube.com/watch?v=_VLHFwC5iU4)
 
 ## Switches
 

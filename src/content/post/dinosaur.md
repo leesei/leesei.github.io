@@ -2,7 +2,7 @@
 title: Dinosaur
 description: ""
 created: 2020-06-01
-updated: 2025-10-10
+updated: 2026-01-13
 tags:
   - dinosaur
   - science
@@ -20,8 +20,8 @@ tags:
 [恐龙百科分类\_百度百科](https://baike.baidu.com/wikicategory/view?categoryName=%E6%81%90%E9%BE%99%E5%A4%A7%E5%85%A8)
 [Dinosaur Images & Facts - The Online Database](https://dinosaurpictures.org/)
 
-[Zoom Dinosaurs - EnchantedLearning.com](https://www.enchantedlearning.com/subjects/dinosaurs/) !important
-[Dinosaurs | Natural History Museum](https://www.nhm.ac.uk/discover/dinosaurs.html) !important
+[Zoom Dinosaurs - EnchantedLearning.com](https://www.enchantedlearning.com/subjects/dinosaurs/) ❗!important
+[Dinosaurs | Natural History Museum](https://www.nhm.ac.uk/discover/dinosaurs.html) ❗!important
 [Dinopedia | Fandom](https://dinopedia.fandom.com/wiki/Main_Page)
 [Dinosaur Facts | Types of Dinosaurs | DK Find Out](https://www.dkfindout.com/uk/dinosaurs-and-prehistoric-life/dinosaurs/)
 

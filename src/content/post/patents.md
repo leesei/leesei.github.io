@@ -2,7 +2,7 @@
 title: Patents
 description: ""
 created: 2023-06-28
-updated: 2025-01-09
+updated: 2025-11-26
 tags:
   - ip/patent
   - law
@@ -33,6 +33,13 @@ Using generic computers to automate established human tasks cannot qualify as an
 [GitLab freezes GraphQL project amid looming Facebook patent fears • The Register](https://www.theregister.co.uk/2017/09/20/gitlab_suspends_graphql_project_over_facebook_license_terms/)
 
 [Patent terminology: Provisional vs nonprovisional - Fast Answers](https://asklib.library.hbs.edu/faq/267581)
+
+## Patent search
+
+[Quick reference guides | USPTO](https://www.uspto.gov/patents/search/patent-public-search/quick-reference-guides)
+[Multi-Step U.S. Patent Search Strategy | USPTO](https://www.uspto.gov/patents/search/patent-search-strategy)
+
+[Perplexity’s new AI tool aims to simplify patent research | The Verge](https://www.theverge.com/news/811340/perplexity-ai-patent-research-tool)
 
 ## Patent trolls
 

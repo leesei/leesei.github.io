@@ -2,7 +2,7 @@
 title: Computer Memory
 description: ""
 created: 2016-04-26
-updated: 2025-10-10
+updated: 2025-11-23
 tags:
   - comp/hardware
   - ddr
@@ -20,7 +20,17 @@ tags:
 
 ## History
 
-[DRAM 記憶體 60 年 : 最殘酷的半導體戰爭【DRAM 進化史】 - YouTube](https://www.youtube.com/watch?v=eB8SdLQNAmc)
+[DRAM 記憶體 60 年 : 最殘酷的半導體戰爭 - YouTube](https://www.youtube.com/watch?v=eB8SdLQNAmc)
+
+Redknot-乔红
+[CPU中寄存器的原理 - YouTube](https://www.youtube.com/watch?v=XuWpV1eFZAw)
+[一次性搞懂锁存器，触发器，寄存器 - YouTube](https://www.youtube.com/watch?v=z1IrTEdljK8) L2/L3 cache
+[用最好的动画为你讲解--内存的原理 - YouTube](https://www.youtube.com/watch?v=bqImyyk1bMQ)
+[内存和显存的区别 - YouTube](https://www.youtube.com/watch?v=xenDvvSGfwA)
+
+[Flip-flop (electronics) - Wikiwand](<https://www.wikiwand.com/en/articles/Flip-flop_(electronics)>)
+[锁存器 - Wikiwand](https://www.wikiwand.com/zh-cn/articles/%E9%94%81%E5%AD%98%E5%99%A8)
+[触发器 - Wikiwand](https://www.wikiwand.com/zh-tw/articles/%E8%A7%A6%E5%8F%91%E5%99%A8)
 
 [HOW TRANSISTORS REMEMBER DATA - YouTube](https://www.youtube.com/watch?v=rM9BjciBLmg) SRAM/latch
 [Capacitors are terrible at remembering data. But for this reason we continue doing it. - YouTube](https://www.youtube.com/watch?v=7WnbIeMgWYA) DRAM
@@ -31,6 +41,8 @@ tags:
 [Dynamic Random Access Memory (DRAM). Part 2: Read and Write Cycles - YouTube](https://www.youtube.com/watch?v=x3jGqOrXXc8)
 
 ### Magnetic Core Memory
+
+> this brings us the "core dump"
 
 [Magnetic Core Memory From Soviet Russia - YouTube](https://www.youtube.com/shorts/mrBz9-9qgGw)
 [Core Memory Explained and Demonstrated - YouTube](https://www.youtube.com/watch?v=AwsInQLmjXc)

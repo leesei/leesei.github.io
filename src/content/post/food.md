@@ -2,7 +2,7 @@
 title: Food
 description: ""
 created: 2015-10-09
-updated: 2025-10-10
+updated: 2026-02-16
 tags:
   - food
   - science
@@ -19,8 +19,6 @@ tags:
 
 [Food for thought - STYLE Origins series | South China Morning Post](https://series.scmp.com/style/food-origins/)
 [Origins series | South China Morning Post](https://www.scmp.com/magazines/style/topics/origins-series)
-
-[A New Apple Is Born «](http://www.sporkful.com/a-new-apple-is-born/)
 
 [Miraculin - Wikiwand](https://www.wikiwand.com/en/Miraculin) make sour sweet
 [Flavor Tripping with the Miracle Berry | HowStuffWorks](https://shows.howstuffworks.com/foodstuff/miracle-fruit.htm)
@@ -117,10 +115,6 @@ Millet 粟 栗
 [為什麼說水稻是亞洲人的驕傲？原來它比小麥重要！馴化起源是中國？還是印度？還是…韓國？關於大米飯你應該知道的事【老肉雜談】#生物 #植物 #食物 #米 #水稻 - YouTube](https://www.youtube.com/watch?v=keU9_rKfPG8)
 [中國每年要進口1億噸大豆,為什麼不自己多種點呢?大豆原產於中國,為什麼卻成了巴西和美國的「搖錢樹」?大豆的傳奇故事......【老肉雜談】#植物 #大豆 #科普 #生物 #食物 - YouTube](https://www.youtube.com/watch?v=mgcF55FESP4)
 
-### Potatoes
-
-[Solanaceae - Wikiwand](https://www.wikiwand.com/en/articles/Solanaceae)
-
 ### Banana
 
 [Banana - Wikiwand](https://www.wikiwand.com/en/articles/Banana)
@@ -130,7 +124,9 @@ Millet 粟 栗
 
 ### Apple
 
+[Malus - Wikiwand](https://www.wikiwand.com/en/articles/Malus)
 [Apple - Wikiwand](https://www.wikiwand.com/en/articles/Apple)
+[A New Apple Is Born «](http://www.sporkful.com/a-new-apple-is-born/)
 
 [“一天一苹果，医生远离我”，为什么苹果总是被神化？ - YouTube](https://www.youtube.com/watch?v=WZ05tGiBTKc)
 
@@ -177,8 +173,10 @@ Millet 粟 栗
 [爱尔兰大饥荒 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E6%84%9B%E7%88%BE%E8%98%AD%E5%A4%A7%E9%A5%91%E8%8D%92)
 [【鬼谷闲谈】土豆：从剧毒块茎到未来主粮 - YouTube](https://www.youtube.com/watch?v=DPF64hiU_VA)
 [【食录】高产的土豆，是怎么饿死数百万人的？ - YouTube](https://www.youtube.com/watch?v=absYFmbNrhg) 愛爾蘭大饑荒
+[土豆这么有营养，为什么不用它做主食？ - YouTube](https://www.youtube.com/watch?v=H7JLwZIPTkk)
 
 [為什麼番茄沒以前好吃了？原來基因組里竟暗藏玄機！追求完美的顏值，卻讓番茄失去了靈魂！【老肉雜談】#生物 #植物 #水果 #蔬菜 #番茄 - YouTube](https://www.youtube.com/watch?v=Sc23AFTU-YI)
+[【鬼谷闲谈】番茄：夺舍它人的命运 - YouTube](https://www.youtube.com/watch?v=PWG4q_HgPmw)
 
 [Capsicum - Wikiwand](https://www.wikiwand.com/en/articles/Capsicum)
 [辣椒属 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E8%BE%A3%E6%A4%92%E5%B1%AC)
@@ -200,6 +198,17 @@ Millet 粟 栗
 [番薯屬 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E7%95%AA%E8%96%AF%E5%B1%9E)
 [Sweet potato - Wikiwand](https://www.wikiwand.com/en/articles/Sweet_potato)
 [番薯 - Wikiwand](https://www.wikiwand.com/zh-hant/articles/%E7%95%AA%E8%96%AF)
+
+### 蔥屬
+
+[Allium - Wikiwand](https://www.wikiwand.com/en/articles/allium)
+[蔥屬 - Wikiwand](https://www.wikiwand.com/zh/articles/%E8%94%A5%E5%B1%AC)
+五菜: 葵、韭、藿、薤、葱
+
+韭菜: Allium tuberosum
+葱: Allium fistulosum
+薤 (藠頭): Allium chinenese
+[【鬼谷闲谈】大蒜：在祛病和驱魔中选择了去腥 - YouTube](https://www.youtube.com/watch?v=-rJExlBVuJ8)
 
 ### Pasta
 

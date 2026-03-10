@@ -2,7 +2,7 @@
 title: Web Socket
 description: ""
 created: 2024-03-12
-updated: 2025-10-10
+updated: 2026-01-15
 tags:
   - comp/lang
   - rpc/web-socket
@@ -48,21 +48,23 @@ A persistent connection between the client and the server and both parties can s
 
 > Bun and Node.js has built-in support
 
-[8 Node.js Web Socket Libraries For 2018 – Bits and Pieces](https://blog.bitsrc.io/8-node-js-web-socket-libraries-for-2018-818e7e5b67cf)
+[8 best WebSocket libraries for Node](https://ably.com/blog/websocket-libraries-for-node) 2023-29
 
 [websockets/ws: Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js](https://github.com/websockets/ws)
 [WebSockets tutorial: How to go real-time with Node and React - LogRocket Blog](https://blog.logrocket.com/websocket-tutorial-real-time-node-react/)
 
 [uNetworking/uWebSockets: Simple, secure & standards compliant web server for the most demanding of applications](https://github.com/uNetworking/uWebSockets) C/C++, different bindings ❗!important
-[uNetworking/uWebSockets.js: TypeScript web server - 15x faster than Deno](https://github.com/uNetworking/uWebSockets.js)
+[uNetworking/uWebSockets.js: μWebSockets for Node.js back-ends :metal:](https://github.com/uNetworking/uWebSockets.js)
 [The story of “uws” so far. µWebSockets (“uws”) is an open source… | by uNetworking AB | Medium](https://unetworkingab.medium.com/the-story-of-uws-so-far-493ac0c05ccb)
 
-[soketi/soketi: Just another simple, fast, and resilient open-source WebSockets server. 📣](https://github.com/soketi/soketi)
-[primus/primus: Primus, the creator god of the transformers & an abstraction layer for real-time to prevent module lock-in.](https://github.com/primus/primus)
-[hugmanrique/turbo-ws: Blazing fast low-level WebSocket server](https://github.com/hugmanrique/turbo-ws)
-[faye/faye-websocket-node: Standards-compliant WebSocket client and server](https://github.com/faye/faye-websocket-node)
+[crossws · Packages · UnJS](https://unjs.io/packages/crossws)
+[h3js/crossws: 🔌 Cross-platform WebSocket Servers for Node.js, Deno, Bun and Cloudflare Workers.](https://github.com/h3js/crossws)
 
 [kataras/neffos: A modern, fast and scalable websocket framework with elegant API written in Go](https://github.com/kataras/neffos)
+
+[primus/primus: Primus, the creator god of the transformers & an abstraction layer for real-time to prevent module lock-in.](https://github.com/primus/primus) 😴inactive
+[faye/faye-websocket-node: Standards-compliant WebSocket client and server](https://github.com/faye/faye-websocket-node) 😴inactive
+[soketi/soketi: Just another simple, fast, and resilient open-source WebSockets server. 📣](https://github.com/soketi/soketi) 😴inactive
 
 [Implementing a WebSocket Server with Node.js – Hacker Noon](https://hackernoon.com/implementing-a-websocket-server-with-node-js-d9b78ec5ffa8) from scratch
 [Node.js & WebSocket — Simple chat tutorial – Martin Sikora – Medium](https://medium.com/@martin.sikora/node-js-websocket-simple-chat-tutorial-2def3a841b61)
@@ -85,39 +87,6 @@ const app = require("http").createServer(handler);
 
 [Site Contents — autobahn documentation](https://autobahn.readthedocs.io/en/latest/contents.html)
 [crossbario/autobahn-testsuite: Autobahn WebSocket protocol testsuite](https://github.com/crossbario/autobahn-testsuite)
-
-## Socket.io
-
-> avoid, old code, inefficient and memory leak
-
-[Socket.IO](https://socket.io/)
-[WebSocket and Socket.IO](https://davidwalsh.name/websocket)
-[Beyond REST: Using WebSockets for two-way communication in your React app](https://blog.logrocket.com/beyond-rest-using-websockets-for-two-way-communication-in-your-react-app-884eff6655f5)
-[Using hapi.js with Socket.io](http://matt-harrison.com/using-hapi-js-with-socket-io/)
-[WebSocket + Node.js + Express — Step by step using Typescript](https://medium.com/factory-mind/websocket-node-js-express-step-by-step-using-typescript-725114ad5fe4)
-
-[Node.js: Better Performance With Socket.IO and doT](https://code.tutsplus.com/tutorials/nodejs-better-performance-with-socketio-and-dot--net-35076)
-[Understanding Socket.IO - NodeSource](https://nodesource.com/blog/understanding-socketio)
-[Adding Socket.io to multi-threaded Node.js](https://www.freecodecamp.org/news/how-to-add-socket-io-to-multi-threaded-node-js-df404b424276)
-[Understanding the basics of Socket.io - DEV Community 👩‍💻👨‍💻](https://dev.to/uf4no/understanding-the-basics-of-socket-io-3a0e)
-
-[WebSockets in 100 Seconds & Beyond with Socket.io - YouTube](https://www.youtube.com/watch?v=1BfCnjr_Vjg)
-[Realtime Chat With Users & Rooms - Socket.io, Node & Express - YouTube](https://www.youtube.com/watch?v=jD7FnbI76Hg)
-
-### On the contrary
-
-[Why you don’t need Socket.IO – codeburst](https://codeburst.io/why-you-don-t-need-socket-io-6848f1c871cd) 2016
-[node.js - Differences between socket.io and websockets - Stack Overflow](https://stackoverflow.com/questions/10112178/differences-between-socket-io-and-websockets/38558531#38558531)
-
-## Sock.js
-
-> avoid, fallback no longer needed
-
-[sockjs/sockjs-client: WebSocket emulation - Javascript client](https://github.com/sockjs/sockjs-client)
-[sockjs/sockjs-node: WebSocket emulation - Node.js server](https://github.com/sockjs/sockjs-node)
-[substack/shoe: streaming sockjs for node and the browser](https://github.com/substack/shoe)
-
-[WebSockets in React, the component way! – Practo Engineering – Medium](https://medium.com/practo-engineering/websockets-in-react-the-component-way-368730334eef)
 
 ## Authentication
 
@@ -147,3 +116,36 @@ const app = require("http").createServer(handler);
 [Distributed locks with Redis – Redis](https://redis.io/topics/distlock)
 
 ---
+
+## Socket.io
+
+> avoid, old code, inefficient and memory leak
+
+[Socket.IO](https://socket.io/)
+[WebSocket and Socket.IO](https://davidwalsh.name/websocket)
+[Beyond REST: Using WebSockets for two-way communication in your React app](https://blog.logrocket.com/beyond-rest-using-websockets-for-two-way-communication-in-your-react-app-884eff6655f5)
+[Using hapi.js with Socket.io](http://matt-harrison.com/using-hapi-js-with-socket-io/)
+[WebSocket + Node.js + Express — Step by step using Typescript](https://medium.com/factory-mind/websocket-node-js-express-step-by-step-using-typescript-725114ad5fe4)
+
+[Node.js: Better Performance With Socket.IO and doT](https://code.tutsplus.com/tutorials/nodejs-better-performance-with-socketio-and-dot--net-35076)
+[Understanding Socket.IO - NodeSource](https://nodesource.com/blog/understanding-socketio)
+[Adding Socket.io to multi-threaded Node.js](https://www.freecodecamp.org/news/how-to-add-socket-io-to-multi-threaded-node-js-df404b424276)
+[Understanding the basics of Socket.io - DEV Community 👩‍💻👨‍💻](https://dev.to/uf4no/understanding-the-basics-of-socket-io-3a0e)
+
+[WebSockets in 100 Seconds & Beyond with Socket.io - YouTube](https://www.youtube.com/watch?v=1BfCnjr_Vjg)
+[Realtime Chat With Users & Rooms - Socket.io, Node & Express - YouTube](https://www.youtube.com/watch?v=jD7FnbI76Hg)
+
+### On the contrary
+
+[Why you don’t need Socket.IO. Asynchronous communication between… | by Ivan Vanderbyl | codeburst](https://codeburst.io/why-you-don-t-need-socket-io-6848f1c871cd) 2016
+[node.js - Differences between socket.io and websockets - Stack Overflow](https://stackoverflow.com/questions/10112178/differences-between-socket-io-and-websockets/38558531#38558531)
+
+## Sock.js
+
+> avoid, fallback no longer needed
+
+[sockjs/sockjs-client: WebSocket emulation - Javascript client](https://github.com/sockjs/sockjs-client)
+[sockjs/sockjs-node: WebSocket emulation - Node.js server](https://github.com/sockjs/sockjs-node)
+[substack/shoe: streaming sockjs for node and the browser](https://github.com/substack/shoe)
+
+[WebSockets in React, the component way! – Practo Engineering – Medium](https://medium.com/practo-engineering/websockets-in-react-the-component-way-368730334eef)

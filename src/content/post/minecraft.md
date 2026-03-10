@@ -2,7 +2,7 @@
 title: Minecraft
 description: ""
 created: 2024-12-30
-updated: 2025-10-10
+updated: 2025-11-17
 tags:
   - game
   - learn-to-code
@@ -35,6 +35,14 @@ Server administration is difficult
 [Coding with Minecraft](https://turtleappstore.com/book/)
 
 [Why Do These Minecraft YouTubers Look The Same? - YouTube](https://www.youtube.com/watch?v=FkO-BxZLeFU)
+
+## Hello Minecraft! Launcher (HMCL)
+
+[Hello Minecraft! Launcher](https://hmcl.huangyuhui.net/)
+[HMCL 新手导航 - HMCL 文档](https://docs.hmcl.net/)
+[HMCL-dev/HMCL: A Minecraft Launcher which is multi-functional, cross-platform and popular](https://github.com/HMCL-dev/HMCL)
+
+[来“我的世界”编程吧！ - 少儿编程 - HelloWorld少儿编程 - 少儿编程网校！](https://www.helloworldroom.com/article/249)
 
 ## Minecraft: Bedrock Edition
 
