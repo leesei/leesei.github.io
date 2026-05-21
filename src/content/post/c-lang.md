@@ -24,6 +24,7 @@ History of Programming papers:
 [Programming in Modern C with a Sneak Peek into C23 - Dawid Zalewski - ACCU 2023 - YouTube](https://www.youtube.com/watch?v=lLv1s7rKeCM) ❗!important, 【Modern C
 [Modern C and What We Can Learn From It - Luca Sas [ ACCU 2021 ] - YouTube](https://www.youtube.com/watch?v=QpAhX-gsHMs)
 [C Constructs That Don't Work in C++](https://lospi.net/c/c++/programming/developing/software/2019/04/28/c-constructs-that-dont-work-in-cpp.html)
+[C Constructs That Still Don't Work in C++](https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/) 2026 follow-up covering C++20, C23, and language-mode-specific compatibility notes
 
 [C & GUI Programming - The MagPi MagazineThe MagPi Magazine](https://www.raspberrypi.org/magpi/issues/c-gui-programming/) for beginners, using GTK, some advanced concepts are intentionally not covered
 [The C Beginner's Handbook: Learn C Programming Language basics in just a few hours](https://www.freecodecamp.org/news/the-c-beginners-handbook/amp/)
