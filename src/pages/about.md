@@ -10,7 +10,7 @@ title: "Behind the Curtain"
 - [AstroPaper](https://astro-paper.pages.dev/)
   - @astrojs/react
   - @astrojs/tailwind
-  - fuzzy search with [Fuse.js](https://fusejs.io/)
+  - fuzzy search with [Pagefind | Pagefind — Static low-bandwidth search at scale](https://pagefind.app/)
   - [Tag: release | AstroPaper](https://astro-paper.pages.dev/tags/release/)
 
 - ...
@@ -80,6 +80,11 @@ Finally I moved back to [vfile](https://unifiedjs.com/explore/package/vfile/) an
 
 ## Customizing AstroPaper v2
 
+> Forking form [satnaing/astro-paper@9e62b63](https://github.com/satnaing/astro-paper/commit/9e62b63) from 2023-03-17
+
+[Astro 3.0 | Astro](https://astro.build/blog/astro-3/)
+[AstroPaper 3.0 | AstroPaper](https://astro-paper.pages.dev/posts/astro-paper-v3/)
+
 Due credits must be given to Astro and AstroPaper.
 Astro make a great static site generator with:
 
@@ -91,7 +96,12 @@ Astro make a great static site generator with:
 
 AstroPaper adopted many best practices. While I do not agree with some of its decisions, it is highly customizable. It provide me a kick start and I completed these in 4 days (part time):
 
-- [x] disable smartypants
+- [x] rename `blog/` to `post/`
+- [x] disable smartypants in `astro.config.mjs`
+- [x] Post date in `content/_schemas.ts`
+      `pubDatetime` -> `created`
+      `modDatetime` -> `updated`
+      use date only in `<Datetime>`
 - [x] TailwindCSS Typography customization
       remove `"` in `::before` and `::after` of `<blockquote>` (Markdown `> `)
 - [x] line break
@@ -105,8 +115,8 @@ AstroPaper adopted many best practices. While I do not agree with some of its de
 - [x] add `<Tag/>` in `<Card/>`
       convert `<Tag/>` from `.astro` to `.tsx`
 - [x] use `post.slug` (filename) as `/post/{slug}`
-      search also with `post.slug` (filename)
-      _slug defualts to filename in AstroPaper v4_
+      add `post.slug` (filename) to `<Search>`
+      _Note: slug defaults to filename in Astro v4_
 - [x] layout tuning
       increase max width to `max-w-6xl`
       tune `<Header/>`'s nav (menubar) to `justify-end`
@@ -137,25 +147,55 @@ I gradually added these features:
       Need to manually specify `/index` upon import, see [here](https://github.com/react-icons/react-icons/issues/509#issuecomment-1470087348)
 - [x] render `updated` date
       Post lists sort by `updated || created`
-      _added in AstroPaper v4_
+      _Note: added in AstroPaper v4_
 - [x] sort out post assets in Foam and Astro
       `_assets` in `post/` for Foam's preview
       with `_` prefix so Astro will ignore it
       all my posts refer to `./_assets/{path}`
       in `package.json:build` do a copy to `dist/`
 
-## TODO
+## Customizing AstroPaper v6
 
-### Astro
+> Forking form [satnaing/astro-paper@](https://github.com/satnaing/astro-paper/commit/) from 2026-xx-xx
 
+Astro v4 to v6 introduced some major updates, so is AstroPaper
+
+[Astro 4.0 | Astro](https://astro.build/blog/astro-4/)
+[Astro 5.0 | Astro](https://astro.build/blog/astro-5/)
+[Astro 6.0 | Astro](https://astro.build/blog/astro-6/)
+[AstroPaper 4.0 | AstroPaper](https://astro-paper.pages.dev/posts/astro-paper-v4/)
+[AstroPaper 5.0 | AstroPaper](https://astro-paper.pages.dev/posts/astro-paper-v5/)
+[AstroPaper 6.0 | AstroPaper](https://astro-paper.pages.dev/posts/astro-paper-v6/)
+
+- [x] rename `blog/` to `post/`
+      _Note: moved from `src/data/blog/` to `src/content/posts/` in AstroPaper v6_
+- [ ] disable dynamic OG image in `config.ts`
+- [ ] disable smartypants
+- [ ] Post date in `?.ts`
+      `pubDatetime`->`created`
+      `modDatetime`->`updated`
+      use date only in`<Datetime>`
+- [ ] update `slugify.ts`
+      don't use `kebabcase()`
+- [ ] support special characters (e.g. `/`, `.`) in tags
+      tags are slugified by default
+      this change effectively introduced tag_slug
+      add mapping of `tag_slug` <-> `tag` with `getTagsDB()`
 - [ ] TOC on right hand side
       and tracks location, (like [Docusaurus](https://docusaurus.io/docs/installation))
       `file.data.astro.frontmatter` in plugin
       `Astro.props.frontmatter` in layout
-      https://docs.astro.build/en/guides/markdown-content/#modifying-frontmatter-programmatically
       https://github.com/withastro/docs
-- [ ] MDX support?
-      https://github.com/mdx-js/mdx/tree/main/packages/remark-mdx
+      https://github.com/withastro/starlight/blob/main/packages/starlight/utils/generateToC.ts (parse `PageProps.headings`, called while generating routes)
+      https://medium.com/@rezahedi/how-to-build-table-of-contents-in-astro-and-sectionize-the-markdown-content-78bee84e6a7f
+      https://www.npmjs.com/package/@hbsnow/rehype-sectionize
+- [ ] PDF files
+      use [Astro Content Layer](https://astro.build/blog/astro-5/#content-layer)?
+
+## TODO
+
+### Astro
+
 - [ ] link to edit post in github
 - [ ] github issue as comments/discussion
 - [ ] add search to `/tags` Page
