@@ -20,7 +20,8 @@ for file in $MODIFIED_MD_FILES; do
         MODIFIED_DATE=$(stat -c "%y" $file)
         MODIFIED_DATE_ISO=$MODIFIED_DATE | cut -d' ' -f1
         sed '/^---/,/^---/s/^updated:.*$/updated: '"$MODIFIED_DATE_ISO"'/' "$file" > "$TMP_FILE" && mv "$TMP_FILE" "$file"
-        touch -m "$MODIFIED_DATE" "$file"
+        # restore the modified time to match the file's last modification time
+        touch -m -d "$MODIFIED_DATE" "$file"
 
         # Re-stage the modified file so the changes are included in the commit
         git add "$file"
