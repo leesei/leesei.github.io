@@ -2,7 +2,7 @@
 title: Elasticsearch
 description: ""
 created: 2015-08-03
-updated: 2026-01-13
+updated: 2026-03-13
 tags:
   - comp/database
   - elastic-stack

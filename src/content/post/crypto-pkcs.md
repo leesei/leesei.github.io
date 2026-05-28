@@ -2,7 +2,7 @@
 title: Public-Key Cryptography Standard
 description: ""
 created: 2016-01-21
-updated: 2026-02-12
+updated: 2026-03-26
 tags:
   - crypto
   - cryptography
@@ -37,6 +37,8 @@ PKCS #3: Diffie–Hellman Key Agreement Standard
 - EncryptedData
 - DigestedData
 - AuthenticatedData
+
+Defines the Content-encryption Process, especially `PKCS7Padding` used for block ciphers: appends N bytes, each with the value N, where N = number of padding bytes needed. Even if the original data is aligned, say to block size 16, 16 byte of `16` will still be added to make unpadding deterministic.
 
 [RFC 5083 - Cryptographic Message Syntax (CMS) Authenticated-Enveloped-Data Content Type](https://datatracker.ietf.org/doc/html/rfc5083)
 

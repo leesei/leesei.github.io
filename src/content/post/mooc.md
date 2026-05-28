@@ -2,7 +2,7 @@
 title: MOOC
 description: ""
 created: 2015-05-08
-updated: 2026-03-06
+updated: 2026-05-28
 tags:
   - learning
   - mooc
@@ -91,6 +91,7 @@ I've bought several bundles here (with Teachable SSO):
 [The Backend Engineering Show - YouTube](https://www.youtube.com/playlist?list=PLQnljOFTspQU0ICDe-cL1EwXC4GDSayKY)
 [Boot.dev Blog](https://blog.boot.dev/) backend dev
 [Tech Primers - YouTube](https://www.youtube.com/@TechPrimers) enterprise application
+[CodeCrafters | The Hardest Programming Challenges on the Internet](https://codecrafters.io/)
 
 [VideoLectures.NET - VideoLectures.NET](https://videolectures.net/)
 
@@ -190,7 +191,8 @@ seneca-in-practice
 [CrashCourse - YouTube](https://www.youtube.com/@crashcourse) animated explainers
 [Creative Construction Channel - YouTube](https://www.youtube.com/@creativeconstructionchannel) engineering, experiments
 [Deconstructed - YouTube](https://www.youtube.com/@Deconstructed_Animations) engineering, 3D rendering
-[Dom Burgess - YouTube](https://www.youtube.com/@DomBurgess) explainers
+[Dom Burgess - YouTube](https://www.youtube.com/@DomBurgess) explainers[Deconstructed - YouTube](https://www.youtube.com/@Deconstructed_Animations)
+
 [Domain of Science - YouTube](https://www.youtube.com/@domainofscience) sciency
 [Dr Ben Miles - YouTube](https://www.youtube.com/@DrBenMiles) sciency
 [engineerguy - YouTube](https://www.youtube.com/@engineerguyvideo) engineering
@@ -198,6 +200,7 @@ seneca-in-practice
 [fern - YouTube](https://www.youtube.com/@fern-tv) mini documentaries
 [Fire of Learning - YouTube](https://www.youtube.com/@Fireoflearning) history
 [Freethink - YouTube](https://www.youtube.com/@freethink) explainers
+[Future Energy & Technology - YouTube](https://www.youtube.com/@futureenergytechnology) sciency
 [Future Proof - YouTube](https://www.youtube.com/@FutureProofTV) brands and products
 [IETF - Internet Engineering Task Force - YouTube](https://www.youtube.com/@ietf) meeting recordings
 [Integza - YouTube](https://www.youtube.com/@integza) sciency, experiments
@@ -213,14 +216,16 @@ seneca-in-practice
 [MegaBuilds - YouTube](https://www.youtube.com/@MegaBuildsYT) sciency, construction projects
 [MinuteEarth - YouTube](https://www.youtube.com/@MinuteEarth) sciency, animated explainers
 [minutephysics - YouTube](https://www.youtube.com/@MinutePhysics) animated physics
+[New Mind - YouTube](https://www.youtube.com/@NewMind) explainers
 [NileBlue - YouTube](https://www.youtube.com/@NileBlue) sciency, experiments
 [Numberphile - YouTube](https://www.youtube.com/@numberphile) math
 [Objectivity - YouTube](https://www.youtube.com/@ObjectivityVideos) science artifacts
+[ObjectOrigins - YouTube](https://www.youtube.com/@ObjectOrigins-h6f) explainers, history
 [Periodic Videos - YouTube](https://www.youtube.com/@periodicvideos) chemistry
 [Physics Girl - YouTube](https://www.youtube.com/@physicsgirl) physics
 [Ponderra - YouTube](https://www.youtube.com/@Ponderra) explainers
 [Practical Engineering - YouTube](https://www.youtube.com/@PracticalEngineeringChannel) engineering, experiments
-[Primal Space - YouTube](https://www.youtube.com/@primalspace) sciency, space science
+[Primal Space - YouTube](https://www.youtube.com/@primalspace) explainers, sciency
 [Primer - YouTube](https://www.youtube.com/@PrimerBlobs) evolution
 [Professor Dave Explains - YouTube](https://www.youtube.com/@ProfessorDaveExplains) sciency, deep dives on various disciplines
 [ProtonsTalk - YouTube](https://www.youtube.com/@ProtonsTalk) sciency

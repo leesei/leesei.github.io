@@ -2,7 +2,7 @@
 title: WordPress
 description: ""
 created: 2015-05-21
-updated: 2025-10-10
+updated: 2026-05-27
 tags:
   - app
   - bitnami
@@ -288,6 +288,8 @@ Just do a copy of `public_html` and sqldump the database
 
 [Search Results for “backup” | WordPress.org](https://wordpress.org/plugins/search/backup/)
 
+[Akeeba Backup for WordPress - Akeeba Ltd](https://www.akeeba.com/products/akeeba-backup-wordpress.html) good free tool
+
 [Migration, Backup, Staging – WPvivid – WordPress plugin | WordPress.org](https://wordpress.org/plugins/wpvivid-backuprestore/) supports some cloud storage and FTP in free version
 [Migration, Backup, Staging – WPvivid – WordPress plugin | WordPress.org](https://wordpress.org/plugins/wpvivid-backuprestore/)
 
@@ -311,3 +313,5 @@ export to cloud is usually behind pay wall
 [How to Customize a Password Protected Page in Wordpress - YouTube](https://www.youtube.com/watch?v=JKhCoAVD22Q&t=70s)
 
 [WordPress Changes Not Showing? Three Methods to Fix It Right Away](https://www.hostinger.com/tutorials/wordpress-changes-not-showing)
+
+[Admin Tools for WordPress - Akeeba Ltd](https://www.akeeba.com/products/admin-tools-wordpress.html)

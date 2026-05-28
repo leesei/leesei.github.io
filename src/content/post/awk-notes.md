@@ -2,14 +2,14 @@
 title: awk notes
 description: ""
 created: 2015-01-13
-updated: 2026-02-24
+updated: 2026-03-25
 tags:
   - app
   - awk
   - shell-tool
 ---
 
-[AWK](http://en.wikipedia.org/wiki/AWK) is an interpreted programming language designed for text processing and typically used as a data extraction and reporting tool.
+[AWK](https://www.wikiwand.com/en/AWK) is an interpreted programming language designed for text processing and typically used as a data extraction and reporting tool.
 
 [The GNU Awk User’s Guide](http://www.gnu.org/software/gawk/manual/gawk.html)
 [Cover - GNU AWK](https://learnbyexample.github.io/learn_gnuawk/)

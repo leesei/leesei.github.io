@@ -2,7 +2,7 @@
 title: Enterprise Server
 description: ""
 created: 2016-02-17
-updated: 2026-01-13
+updated: 2026-05-20
 tags:
   - comp/hardware
   - enterprise
@@ -83,6 +83,8 @@ SAS (serial attached SCSI) and SATA uses the same connector. Its the protocol ov
 [Performance Characteristics of Common Network Fabrics | Microway](https://www.microway.com/knowledge-center-articles/performance-characteristics-of-common-network-fabrics/)
 
 [NETGEAR_Whitepaper_10_Gigabit.pdf](http://wiki.networksecuritytoolkit.org/nstwiki/images/NETGEAR_Whitepaper_10_Gigabit.pdf) iSCSI/Ethernet
+
+[NVMe over TCP is the coolest networked storage protocol you haven't heard of](https://www.xda-developers.com/nvme-over-tcp-coolest-networked-storage-protocol/)
 
 ### Storage Types
 
@@ -166,7 +168,7 @@ Unified storage unit supports SAN and NAS, with FC and iSCSI interface
 [What is RAID 0, 1, 5, & 10? - YouTube](https://www.youtube.com/watch?v=U-OCdTeZLac)
 [RAID levels and benefits explained](https://searchstorage.techtarget.com/answer/RAID-types-and-benefits-explained)
 [Understanding RAID Performance at Various Levels - StorageCraft](http://www.storagecraft.com/blog/raid-performance/) ❗!important
-[Which Type of RAID Should You Use For Your Servers?](https://www.cloudsavvyit.com/3590/which-type-of-raid-should-you-use-for-your-servers/amp/)
+[Which Type of RAID Should You Use For Your Servers?](https://www.howtogeek.com/devops/which-type-of-raid-should-you-use-for-your-servers/)
 
 [Hardware Raid is Dead and is a Bad Idea in 2022 - YouTube](https://www.youtube.com/watch?v=l55GfAwa8RI)
 

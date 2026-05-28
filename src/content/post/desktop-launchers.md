@@ -2,7 +2,7 @@
 title: Desktop Launchers
 description: ""
 created: 2024-01-19
-updated: 2026-02-03
+updated: 2026-05-05
 tags:
   - albert
   - app
@@ -130,7 +130,7 @@ dmenu: run prompt with auto complete
 
 [Find and Run Robot - DonationCoder.com](https://www.donationcoder.com/software/mouser/popular-apps/farr) Launcher
 [LaunchBar Commander - DonationCoder.com](https://www.donationcoder.com/software/mouser/popular-apps/launchbar-commander) Dock
-[donationcoder / mouser - YouTube](https://www.youtube.com/user/mouseryt/featured)
+[donationcoder / mouser - YouTube](https://www.youtube.com/@mouseryt)
 
 ## OSX
 

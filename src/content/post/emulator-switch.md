@@ -2,7 +2,7 @@
 title: Switch Emulator
 description: ""
 created: 2023-06-12
-updated: 2025-12-15
+updated: 2026-05-20
 tags:
   - emulator
   - games
@@ -54,7 +54,8 @@ tags:
 
 > Fork of Yuzu, updates less frequently
 
-[Citron Emulator Nintendo Switch Homebrew 3DS Emulator](https://citron-emu.pro/)
+[citron-neo.github.io//](https://citron-neo.github.io/)
+[citron-neo/emulator: The switch fell off https://citron-neo.org/](https://github.com/citron-neo/emulator)
 
 ## Yuzu
 

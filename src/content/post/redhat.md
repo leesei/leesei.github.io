@@ -2,7 +2,7 @@
 title: Redhat
 description: ""
 created: 2016-04-24
-updated: 2025-10-10
+updated: 2026-04-04
 tags:
   - centos
   - desktop
@@ -11,11 +11,13 @@ tags:
   - redhat
 ---
 
+> derivatives: Fedora, Rocky, Alma, CentOS
+
 [Red Hat Enterprise Linux operating system](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) freezes the Fedora a year or two before its release
 [CentOS Project](https://www.centos.org/) is an community fork of RHEL, like a beta stream sitting between Fedora and Redhat
 [Fedora](https://getfedora.org/) is the official open source version of RHEL, bleeding edge, test ground for RHEL features
-[AlmaLinux OS - Forever-Free Enterprise-Grade Operating System](https://almalinux.org/)
-[Korora Project](https://kororaproject.org/) [discontinued](https://kororaproject.org/about/news/time-for-a-break)
+[Rocky Linux](https://rockylinux.org/) binary‑compatible rebuild of RHEL by original CentOS creators
+[AlmaLinux OS - Forever-Free Enterprise-Grade Operating System](https://almalinux.org/) another binary‑compatible rebuild of RHEL
 
 ## Fedora
 
@@ -52,8 +54,12 @@ Rawhide is the Fedora's rolling release
 
 [DNF command on CentOS 8 - what is DNF command - DNF tutorial](https://blog.eldernode.com/dnf-command-on-centos-8/)
 
-EPEL: AUR for CentOS
+EPEL (Extra Packages for Enterprise Linux): AUR for CentOS
 [Top 8 YUM ThirdParty Repositories for CentOS and RHEL](https://www.tecmint.com/yum-thirdparty-repositories-for-centos-rhel/amp/)
+
+RPM Fusion supplies legal, patent-encumbered multimedia codecs, drivers, and non-free software.
+
+EPEL (Extra Packages for Enterprise Linux) and RPM Fusion are complementary, third-party repositories for RHEL/Fedora clones (Rocky, Alma, CentOS). EPEL provides high-quality, open-source server/system tools not in base repos.
 
 ### Copr
 

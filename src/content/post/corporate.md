@@ -2,12 +2,13 @@
 title: Corporate
 description: ""
 created: 2015-04-15
-updated: 2026-01-08
+updated: 2026-05-28
 tags:
   - business
   - corporate
   - funding
   - logo
+  - trivia
 ---
 
 [Company Man - YouTube](https://www.youtube.com/channel/UCQMyhrt92_8XM0KgZH6VnRg)
@@ -15,6 +16,7 @@ tags:
 [History of Gadgets - YouTube](https://www.youtube.com/@history.of.gadgets) tech companies
 [Logically Answered - YouTube](https://www.youtube.com/@LogicallyAnswered)
 [MegaLag - YouTube](https://www.youtube.com/@MegaLag) exposé investigation
+[The Science of Products - YouTube](https://www.youtube.com/@thescienceofproducts)
 
 [Office Snapshots - Discover Worldwide Office Design](https://officesnapshots.com/)
 
@@ -56,6 +58,7 @@ When a service is free, you are the product/asset.
 ### Enshittification
 
 [Enshittification - Wikiwand](https://www.wikiwand.com/en/articles/Enshittification)
+[Embrace, extend, and extinguish - Wikipedia](https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish)
 
 1. provide competitive (cheap and/or high quality) product to lock-in users
 2. make product worse to better serve (lock-in) business customers
@@ -121,6 +124,10 @@ Limited Liability Company (LLC) or Corporation (Inc)
 ## IKEA
 
 [The INSANE Truth About IKEA - YouTube](https://www.youtube.com/watch?v=8uNgfFwbziU)
+
+## Muji
+
+[Muji – The Brand That Designed “Nothing” - YouTube](https://www.youtube.com/watch?v=kfeytgohT6A)
 
 ## Product placement
 

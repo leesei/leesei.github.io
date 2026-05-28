@@ -2,7 +2,7 @@
 title: Decentralized ID
 description: ""
 created: 2026-02-11
-updated: 2026-03-10
+updated: 2026-05-22
 tags:
   - blockchain
   - crypto
@@ -10,6 +10,19 @@ tags:
   - lfdt
   - openpgp
 ---
+
+> Decentralized ID is a type of Digital ID that enables individuals to represent and prove who they are across different contexts without relying on centralized identity registries
+
+[Decentralized identifier - Wikiwand](https://www.wikiwand.com/en/Decentralized_identifier)
+[Decentralized Identity Playbook — walt.id White Papers](https://walt.id/white-paper/decentralized-identity-playbook)
+
+[Digital ID Wallets Explained: Ultimate Guide 2025 | Gataca](https://www.gataca.io/resources/blog/id-wallets-explained/)
+
+[The Ultimate Guide to Verifiable Credentials (VC) and DIDs | Gataca](https://www.gataca.io/resources/blog/self-sovereign-identity-ssi-101-decentralized-identifiers-dids-verifiable-credentials-vcs/)
+[35 Self-Sovereign Identity Use Cases | Gataca | Gataca](https://www.gataca.io/resources/blog/ssi-essentials-35-use-cases-of-decentralized-identities-that-will-make-your-life-easier/)
+
+[eIDAS 2.0 | Identity Verification with ID Wallets | Gataca](https://www.gataca.io/eidas/) electronic IDentification, Authentication, and Trust Services
+[eIDAS v2 Demystified: What it means for the SSI community? | Gataca](https://www.gataca.io/resources/blog/here-s-what-the-new-eidas-proposal-really-means-for-the-ssi-community-in-6-key-points/)
 
 ## OpenPGP
 
@@ -29,10 +42,21 @@ tags:
 [Setting up WKD for self-hosted automatic key discovery](https://gist.github.com/kafene/0a6e259996862d35845784e6e5dbfc79)
 [Web Key Directory - Tester](https://wkd.dp42.dev/)
 
+## Mobile Driver's License (mDL)
+
+- utilizes mobile's TEE
+- supports offline use
+- selective disclosure
+- non-blockchain related
+
+[ISO/IEC 18013-5:2021 - Personal identification — ISO-compliant driving licence — Part 5: Mobile driving licence (mDL) application](https://www.iso.org/standard/69084.html)
+[What Is a Mobile Driver's License (mDL)? Your 2026 Guide](https://docs.walt.id/concepts/digital-credentials/mdoc-mdl-iso)
+
 ## DID with Blockchain
 
 [Decentralized identifier - Wikiwand](https://www.wikiwand.com/en/Decentralized_identifier)
 [Decentralized Identifiers (DIDs) v1.0](https://www.w3.org/TR/did-1.0/)
+[Decentralised Identifiers](https://docs.walt.id/concepts/decentralised-identifiers)
 
 - Identifies a person, organization, or device.
 - Has a resolvable DID Document describing public keys, service endpoints, etc.
@@ -50,6 +74,7 @@ tags:
 [Self-sovereign identity - Wikiwand](https://www.wikiwand.com/en/Self-sovereign_identity)
 [Self-Sovereign Identity: The Ultimate Guide 2025](https://www.dock.io/post/self-sovereign-identity)
 [Self-sovereign identities | Bosch Global](https://www.bosch.com/stories/self-sovereign-identities/)
+[A gentle introduction to self-sovereign identity – Bits on Blocks](https://bitsonblocks.net/2017/05/17/gentle-introduction-self-sovereign-identity/)
 [Hyperledger In-depth: An hour with Poste Italiane: The Path to SSI: A proposal from Poste Italiane | Hyperledger](https://www.lfdecentralizedtrust.org/events/hyperledger-in-depth-an-hour-with-poste-italiane-the-path-to-ssi-a-proposal-from-poste-italiane)
 
 [DIDComm](https://didcomm.org/)
@@ -70,6 +95,40 @@ tags:
 [The Identity Cookbook: Blockchain for Identity: Access Request Management](http://www.theidentitycookbook.com/2016/06/blockchain-for-identity-access-request.html)
 [Anatomy of a zero-knowledge web application - Clipperz, register your creations on the blockchain](https://clipperz.is/blog/2007/08/24/anatomy_zero_knowledge_web_application/)
 [What Is Decentralized Identity? A Complete Guide for Beginners](https://www.1kosmos.com/identity-management/decentralized-identity-complete-guide/)
+
+### Decentralized Autonomous Organization/DAO
+
+[Decentralized autonomous organization - Wikiwand](https://www.wikiwand.com/en/Decentralized_autonomous_organization)
+[Govern better, together. Build your DAO now.](https://aragon.org/)
+
+### Self-sovereign identity/SSI
+
+Blockchain can be used as Public Key Infrastructure (PKI), but not the necessary condition.
+
+[Self-sovereign identity - Wikiwand](https://www.wikiwand.com/en/Self-sovereign_identity)
+[Self Sovereign Identity & Decentralized Identity - An Unlimited Guide - 101 Blockchains](https://101blockchains.com/self-sovereign-identity-and-decentralized-identity/)
+[What is self-sovereign identity? Definition from WhatIs.com](https://www.techtarget.com/searchsecurity/definition/self-sovereign-identity)
+
+[SSI Essentials: Everything you need to know about Decentralized Identity | Gataca](https://www.gataca.io/resources/blog/ssi-essentials-everything-you-need-to-know-about-decentralized-identity/)
+[SSI Essentials: A crash course on Digital ID Wallets | Gataca](https://www.gataca.io/resources/blog/ssi-essentials-a-crash-course-on-digital-id-wallets/)
+[The Role of Trust Registries in an SSI Ecosystem | Gataca | Gataca](https://www.gataca.io/resources/blog/the-role-of-trust-registries-in-an-ssi-ecosystem/)
+[Reusable KYC: Integrating SSI Technology into KYC Processes | Gataca](https://www.gataca.io/resources/blog/self-sovereign-identity-integrated-kyc/)
+[Gataca DID Registry: Achieving blockchain interoperability | Gataca](https://www.gataca.io/resources/blog/this-is-how-gataca-achieves-blockchain-interoperability/) DID Registry links natural person to DID documents on blockchain
+[EBSI DID Method v2: What has changed? | Gataca | Gataca](https://www.gataca.io/resources/blog/ebsi-did-v2-a-test-to-ssi-usability-and-its-use-of-blockchain-technology/)
+
+- European Blockchain Services Infrastructure deemed DIDs as personal hence storage of DID on public is non-GDPR-friendly for natural persons
+- EBSI DID v2 embeds the public key in the DID identifier
+- EBSI DID v2 is not backed by a ledger
+
+[SSI and Digital wallets](https://twit.tv/shows/floss-weekly/episodes/670)
+[Frontiers of Trust](https://twit.tv/shows/floss-weekly/episodes/673)
+
+[Trust Over IP - Defining a complete architecture for Internet-scale digital trust](https://trustoverip.org/)
+[Sovrin Governance Framework - Sovrin](https://sovrin.org/library/sovrin-governance-framework/)
+
+[Decentralized Identifiers (DIDs) v1.0](https://w3c.github.io/did-core/) rejected by Google, Apple and Mozilla as there are too many (> 150) verification protocols, some requiring blockchain
+
+[Find an Ethereum Wallet | ethereum.org](https://ethereum.org/en/wallets/find-wallet/)
 
 ### Projects
 
@@ -122,6 +181,39 @@ tags:
 [Verifiable Credentials Data Model v2.0](https://www.w3.org/TR/vc-data-model-2.0/)
 [Verifiable Credentials Data Model](https://w3c.github.io/vc-data-model/) latest
 [What Are Verifiable Credentials? Complete Overview](https://www.identity.com/what-are-verifiable-credentials/)
+[What are Verifiable Credentials? Examples and Use Cases | Gataca](https://www.gataca.io/resources/blog/what-are-verifiable-credentials/)
+
+[Building interoperable ZKP credential systems | by Decentralized Identity Foundation | Decentralized Identity Foundation | Medium](https://medium.com/decentralized-identity/building-interoperable-zkp-credential-systems-70bc20a8a809)
+
+[(PDF) Towards a Novel Identity Check Using Latest W3C standards & Hybrid Blockchain for Paperless Verification](https://www.researchgate.net/publication/373187202_Towards_a_Novel_Identity_Check_Using_Latest_W3C_standards_Hybrid_Blockchain_for_Paperless_Verification)
+
+[Verifiable Credentials: A Simple Guide to How They Work](https://docs.walt.id/concepts/digital-credentials/verifiable-credentials-w3c)
+[MATTR Learn](https://learn.mattr.global/) Digital credentials resources and tools you’ll actually enjoy using
+
+#### OpenID for Verifiable Credential Issuance (OID4VCI)
+
+[OpenID for Verifiable Credential Issuance 1.0](https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html)
+[What is OpenID4VCI? The Developer's Guide (2026)](https://docs.walt.id/concepts/data-exchange-protocols/openid4vci)
+[OID4VCI | MATTR Learn](https://learn.mattr.global/docs/issuance/oid4vci-overview)
+[OpenID for Verifiable Credential Issuance - Authlete](https://www.authlete.com/developers/oid4vci/)
+
+#### Selective Disclosure
+
+> [[crypto#bbs-signatures]]
+> [[crypto#zk-SNARKs]]
+
+[RFC 9901 - Selective Disclosure for JSON Web Tokens](https://datatracker.ietf.org/doc/html/rfc9901)
+
+[Selective Disclosure](https://docs.walt.id/concepts/selective-disclosure)
+[SD-JWT VC Explained: A Practical Guide for 2026](https://docs.walt.id/concepts/digital-credentials/sd-jwt-vc)
+[Selective Disclosure Guide: Privacy Feature of Verifiable Credentials](https://www.dock.io/post/selective-disclosure)
+[Selective disclosure in digital credentials: A review - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2405959524000614)
+
+[Zero Knowledge Proof (ZKP) and Selective Disclosure | Gataca](https://web.archive.org/web/20260113021410/https://gataca.io/resources/blog/ssi-essentials-which-selective-disclosure-protocol-will-succeed/) ❗!important, different SD approaches
+[Selectively Disclosed Verifiable Credentials | by Julian Voelkel | 51nodes | Medium](https://web.archive.org/web/20241119114935/https://medium.com/51nodes/selectively-disclosed-verifiable-credentials-79a236b81ee2) predicates, Zero-Knowledge-Set-Membership (ZKSM), Zero-Knowledge-Range-Proofs (ZKRP)
+
+[Linked-Data-based Verifiable Credentials with Selective Disclosure, Unlinkability, and Predicate Proofs - Speaker Deck](https://speakerdeck.com/yamdan/linked-data-based-verifiable-credentials-with-selective-disclosure-unlinkability-and-predicate-proofs)
+[zkp-ld](https://github.com/zkp-ld) GitHub org
 
 #### Anoncreds
 
@@ -132,7 +224,7 @@ tags:
 [Hyperledger AnonCreds - Hyperledger AnonCreds - LF Decentralized Trust](https://lf-hyperledger.atlassian.net/wiki/spaces/ANONCREDS/overview)
 
 [anoncreds/anoncreds](https://github.com/anoncreds/anoncreds)
-[anoncreds/anoncreds-v2-rs: Anonymous Credential Exchange 2.0](https://github.com/anoncreds/anoncreds-v2-rs) supports BBS signatures
+[anoncreds/anoncreds-v2-rs: Anonymous Credential Exchange 2.0](https://github.com/anoncreds/anoncreds-v2-rs) supports BBS (Boneh-Boyen-Shacham) signatures, a privacy-preserving signature scheme that offers zero-knowledge proof-like properties by allowing selective disclosure of specific signed attributes without revealing the entire set of signed data, not PQC ready
 
 #### TrustVC
 
@@ -140,6 +232,11 @@ tags:
 
 [TrustVC - Verifiable Credentials Platform](https://trustvc.io/)
 [TrustVC/trustvc](https://github.com/trustvc/trustvc)
+
+#### Blockcerts
+
+[Blockcerts : The Open Standard for Blockchain Credentials](https://www.blockcerts.org/)
+Blockcerts V3 aligns to W3C's Verifiable Credentials & Decentralized Identifiers
 
 ### UCAN
 

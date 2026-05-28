@@ -2,7 +2,7 @@
 title: Music Theory
 description: ""
 created: 2016-10-11
-updated: 2026-01-08
+updated: 2026-05-17
 tags:
   - music
   - trivia
@@ -116,14 +116,18 @@ Pentatonic Scale: 12356 on C major, only full steps, one of the oldest scale
 
 [Musical Scales and Modes - Online Piano & Music Notes](https://pulse.berklee.edu/?id=4&lesson=73)
 
-### 音名/唱名
+### 音名/唱名/Solfège
+
+音名 corresponds to a note at specific frequency
+唱名 is am alias given to the n-th note in the scale
 
 [音名 - Wikiwand](https://www.wikiwand.com/zh/%E9%9F%B3%E5%90%8D)
 [Key signature names and translations - Wikiwand](https://www.wikiwand.com/en/Key_signature_names_and_translations)
+
 [Solfège - Wikiwand](https://www.wikiwand.com/en/Solf%C3%A8ge)
 [唱名 - Wikiwand](https://www.wikiwand.com/zh/%E5%94%B1%E5%90%8D)
-音名 corresponds to a note at specific frequency
-唱名 is am alias given to the n-th note in the scale
+[Solfège Explained! Learn & Use sol-fa notes Like a Pro in No Time! (PDF included) - YouTube](https://www.youtube.com/watch?v=jNyo6fFpuxQ)
+Minor Scales: Often start on "La" (La, Ti, Do, Re, Mi, Fa, So, La).
 
 |      |     |     |     |     |     |     |     |
 | ---- | --- | --- | --- | --- | --- | --- | --- |
@@ -679,16 +683,18 @@ Pianote
 [Piano Teachers REACT to The Legend Of Zelda's Soundtrack #legendofzelda - YouTube](https://www.youtube.com/watch?v=eAVSJmPA604)
 [Top 20 Video Game Songs 🎮 (ft. Jemma Heigis) - YouTube](https://www.youtube.com/watch?v=sknqbJjsh7c)
 
+[不只好聽、還能互動！深入解析「遊戲配樂」的藝術，從潛龍諜影、最終幻想、到薩爾達傳說 - YouTube](https://www.youtube.com/watch?v=RS_KYACSrSw)
+
 ## Classical Music
 
 [Classic FM - The World's Greatest Music](http://www.classicfm.com/)
 [The transformative power of classical music | Benjamin Zander - YouTube](https://www.youtube.com/watch?v=r9LCwI5iErE)
 [Gramophone – classical music magazine, podcast and reviews | Gramophone](https://www.gramophone.co.uk/)
 
-[AVROTROS Klassiek - YouTube](https://www.youtube.com/channel/UC2UIXt4VQnhQ-VZM4P1bUMQ)
-[Akademia Filmu i Telewizji - YouTube](https://www.youtube.com/channel/UCCk4w8DxIhtTvBjKwNLB1cA)
-[Voices of Music - YouTube](https://www.youtube.com/channel/UC9qItJ2Gs8Xfu6y_ERKNsxw)
-[Alejandro Sanz - YouTube](https://www.youtube.com/user/percu1/videos)
+[AVROTROS Klassiek - YouTube](https://www.youtube.com/@AVROTROSKlassiek)
+[Akademia Filmu i Telewizji - YouTube](https://www.youtube.com/@AkademiaFilmuiTelewizji)
+[Voices of Music - YouTube](https://www.youtube.com/@VoicesofMusic)
+[Alejandro Sanz - YouTube](https://www.youtube.com/@Musica_Practica)
 
 [EP.38 ｜古典系列 - 為何現代人還要聽歌劇？聊聊欣賞歌劇的發展歷史 - YouTube](https://www.youtube.com/watch?v=HX920DeiXZs)
 
@@ -697,6 +703,23 @@ Pianote
 [The 1812 Overture: the hit that Tchaikovsky hated - Classic FM](http://www.classicfm.com/composers/tchaikovsky/guides/1812-hated-hit/)
 [How to tell a story with music: a brief narrative analysis of the 1812 overture](https://blog.jungsoo.kim/tchaikovsky-1812/)
 [Tchaikovsky's 1812 Overture: the complete guide | Gramophone](https://www.gramophone.co.uk/features/article/tchaikovsky-s-1812-overture-the-complete-guide)
+
+### Verdi's Requiem
+
+> Dies irae
+
+[無人不曉的「這首」音樂，讓你聽到世界末日的恐懼!? 威爾第-安魂曲 Verdi's Requiem - YouTube](https://www.youtube.com/watch?v=JHBvHUI_AVE)
+
+### Carmina Burana 布蘭詩歌
+
+> O Fortuna
+
+[Orff - Carmina Burana | Cristian Măcelaru | WDR Sinfonieorchester | WDR Rundfunkchor - YouTube](https://www.youtube.com/watch?v=Yb6jULNu5ik) 1:00:55
+
+[Most epic version - O Fortuna (Carmina Burana) - YouTube](https://www.youtube.com/watch?v=qATbf5-D8bU)
+[O Fortuna Misheard Lyrics - YouTube](https://www.youtube.com/watch?v=nIwrgAnx6Q8)
+
+[尺度超大、超震撼的世紀名曲「布蘭詩歌」 - YouTube](https://www.youtube.com/watch?v=dzCdonszNWA)
 
 ## Instruments
 
@@ -748,10 +771,20 @@ Pianote
 
 ### Percussion
 
+[The Encyclopedia of Pitched Percussion - Video Essay - YouTube](https://www.youtube.com/watch?v=6ikARx35U5A)
+[打鼓比你想的複雜！專業鼓手示範 13 個難度級別的鼓技｜科普長知識｜ GQ Taiwan - YouTube](https://www.youtube.com/watch?v=aKHgDLm2f0o) drum kit
+
+[That Swedish Drummer - YouTube](https://www.youtube.com/@ThatSwedishDrummer) drum kit
+
 [MIVENUE - YouTube](https://www.youtube.com/@MIVENUE) Weekly 5 Minutes Concert
 
-[The Encyclopedia of Pitched Percussion - Video Essay - YouTube](https://www.youtube.com/watch?v=6ikARx35U5A)
-[打鼓比你想的複雜！專業鼓手示範 13 個難度級別的鼓技｜科普長知識｜ GQ Taiwan - YouTube](https://www.youtube.com/watch?v=aKHgDLm2f0o) Drum Kit
+[Love To Learn Drums - YouTube](https://www.youtube.com/@love_to_learn_drums)
+
+[Percussion Methods - YouTube](https://www.youtube.com/@percussionmethods)
+[Snare Drum - YouTube](https://www.youtube.com/playlist?list=PL6IPcpU6geqdyRn4dBUi5J5NbIjWJmpNF)
+
+[Stephen Clark - YouTube](https://www.youtube.com/@thenonglamorousdrummer) drum kit
+[How to hold your sticks (for the absolute BEGINNER) - YouTube](https://www.youtube.com/watch?v=8HImpAK8e44)
 
 ### Acapella
 

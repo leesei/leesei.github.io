@@ -2,7 +2,7 @@
 title: Docusaurus
 description: ""
 created: 2023-02-28
-updated: 2025-10-14
+updated: 2026-04-21
 tags:
   - static-site
   - web
@@ -42,6 +42,10 @@ Variables in MDX: `frontMatter`, `metadata`
 
 [Access to docs metadata from individual doc pages · Issue #6302 · facebook/docusaurus](https://github.com/facebook/docusaurus/issues/6302) add frontmatter to docs data
 
+Image caption
+[Feedback | Docusaurus](https://docusaurus.io/feature-requests/p/image-captions)
+[Creating captions for images? · facebook/docusaurus · Discussion #4633](https://github.com/facebook/docusaurus/discussions/4633)
+
 ## Ecosystem/Plugins
 
 [Awesome Resources | Docusaurus](https://docusaurus.io/community/resources)
@@ -49,6 +53,7 @@ Variables in MDX: `frontMatter`, `metadata`
 
 [vaggeliskls/docusaurus-to-pdf: This repository allows you to generate a PDF from a Docusaurus documentation URL using Docker or a GitHub Actions workflow.](https://github.com/vaggeliskls/docusaurus-to-pdf)
 
+[MDX Plugins | Docusaurus](https://docusaurus.io/docs/markdown-features/plugins)
 [📦 plugin-content-docs | Docusaurus](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs)
 [📦 plugin-content-blog | Docusaurus](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog)
 [📦 plugin-content-pages | Docusaurus](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-pages)

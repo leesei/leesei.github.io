@@ -2,7 +2,7 @@
 title: Computers
 description: ""
 created: 2016-10-18
-updated: 2026-02-03
+updated: 2026-03-27
 tags:
   - comp/hardware
 ---
@@ -92,7 +92,7 @@ https://www.userbenchmark.com/UserRun/59459570 after RAM change
 
 ## Acer Swift Edge 16
 
-> the screen detached from A panel and shows artifacts
+> display panel detached from A panel and shows artifacts after one year of use 😭
 
 - 2024-06
 - 1.17kg
@@ -110,9 +110,9 @@ https://www.userbenchmark.com/UserRun/59459570 after RAM change
 
 [Product Support - SFE16-42 | Acer Hong Kong](https://www.acer.com/hk-en/support/product-support/SFE16-42/downloads)
 
-## Lenovo Thinkpad Carbon Gen 10
+## Lenovo Thinkpad X1 Carbon Gen 10
 
-- 2022
+- 2026-02
 - 1.12kg
 - Intel Core i5-1245U 2P+8E Alder Lake (4.4GHz/3.3GHz)
 - SK Hynix 8x4GB (H9JCNNNFA5MLYR-N6E) LPDDR5 6400MT@5200MT (soldered)

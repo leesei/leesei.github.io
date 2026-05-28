@@ -2,7 +2,7 @@
 title: Science
 description: ""
 created: 2019-08-09
-updated: 2026-03-03
+updated: 2026-05-05
 tags:
   - science
 ---
@@ -100,7 +100,8 @@ Faraday: field only
 
 [Why Does Changing Just One Proton Change an Element? - YouTube](https://www.youtube.com/watch?v=-cXzWjJCWTI)
 
-[Something Weird Happens When E=-mc² - YouTube](https://www.youtube.com/watch?v=Y-W-w8yNiKU) anti-particles, Dirac's sea of positrons,
+[Something Weird Happens When E=-mc² - YouTube](https://www.youtube.com/watch?v=Y-W-w8yNiKU) anti-particles, Dirac's sea of positrons
+[Why Is CERN Making Antimatter? - YouTube](https://www.youtube.com/watch?v=jjp3WC8Unj8) Matter -Antimatter asymmetry, 1 in every billion normal particle survived the annihilation
 
 [物理學已經出現一個難以跨越的禁區，導致物理學發展停滯不前！ - YouTube](https://www.youtube.com/watch?v=afOsKeRHNyg)
 [現代物理學烏雲系列 - YouTube](https://www.youtube.com/playlist?list=PL2_B1hyW9zTsW7d-Z0VhlwQydiVWlpYMP)
@@ -610,7 +611,7 @@ Photon -> Photino
 
 [Metallurgy - Wikiwand](https://www.wikiwand.com/en/Metallurgy)
 [冶金学 - Wikiwand](https://www.wikiwand.com/zh/%E5%86%B6%E9%87%91%E5%AD%A6)
-[MetallurgyData - YouTube](https://www.youtube.com/channel/UCsHUpI4UfxcZtAtLXxIwsgQ/videos)
+[Matallurgy Data - YouTube](https://www.youtube.com/@MetallurgyData)
 [Some Aspects of the Metallurgy and Production of European Armor - The Oakeshott Institute](http://oakeshott.org/some-aspects-of-the-metallurgy-and-production-of-european-armor/)
 [Episode 2.28: Digression-Metallurgy - The Scientific Odyssey](http://thescientificodyssey.typepad.com/my-blog/2015/12/episode-228-digression-metallurgy.html)
 

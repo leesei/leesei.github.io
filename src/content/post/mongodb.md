@@ -2,9 +2,8 @@
 title: MongoDB
 description: ""
 created: 2014-12-17
-updated: 2025-11-18
+updated: 2026-05-28
 tags:
-  - app
   - mongodb
 ---
 
@@ -16,7 +15,6 @@ tags:
 [MongoDB Evolved – Version History | MongoDB](https://www.mongodb.com/resources/products/mongodb-version-history)
 [MongoDB 8.0 Is Available Now | MongoDB](https://www.mongodb.com/products/updates/version-release)
 [MongoDB 6.0 Brings Encrypted Queries, Time-Series Data Collection – The New Stack](https://thenewstack.io/mongodb-6-0-brings-encrypted-queries-time-series-data-collection/)
-[Performance Best Practices: Hardware and OS Configuration | MongoDB](https://www.mongodb.com/blog/post/performance-best-practices-hardware-and-os-configuration) 2020
 
 [Manual Reference - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/reference/)
 [What is MongoDB? - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/)
@@ -24,12 +22,11 @@ tags:
 [MongoDB Tutorial for Beginners - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u)
 
 [MongoDB Courses and Trainings | MongoDB University](https://learn.mongodb.com/catalog)
-[MongoDB Tutorial: Learn MongoDB in 2 Hours | Academy 3T](https://studio3t.com/academy/)
+[Level Up Your MongoDB Skills](https://learn.mongodb.com/skills)
 [How To Manage Data with MongoDB | DigitalOcean](https://www.digitalocean.com/community/tutorial_series/how-to-manage-data-with-mongodb)
 
 [karlseguin/the-little-mongodb-book: The Little MongoDB Book](https://github.com/karlseguin/the-little-mongodb-book) 2.6
 [Stock Price Notifications with Mongoose and MongoDB Change Streams | www.thecodebarbarian.com](http://thecodebarbarian.com/stock-price-notifications-with-mongoose-and-mongodb-change-streams.html) 2018
-[Simple Steps to Optimize Your App Performance with MongoDB, Redis, and Node.js - By](https://hackernoon.com/simple-steps-to-optimize-your-app-performance-5700d8b58f58) 2018
 
 ## Percona Server for MongoDB
 
@@ -51,56 +48,13 @@ DO add `authSource` to mongourl: `mongodb://${MONGO_ROOT}:${MONGO_PASSWORD}$@127
 [docs/mongo at master · docker-library/docs · GitHub](https://github.com/docker-library/docs/tree/master/mongo#initializing-a-fresh-instance)
 [Initializing mongo db in docker-compose with init script · GitHub](https://gist.github.com/gbzarelli/c15b607d62fc98ae436564bf8129ea8e)
 
-## `mongo` client (`mongosh`)
+## `mongosh` client
 
-[mongo — MongoDB Manual](https://docs.mongodb.com/manual/reference/program/mongo/)
-[mongo Shell Quick Reference — MongoDB Manual](https://docs.mongodb.com/manual/reference/mongo-shell/)
-[mongo Shell Methods — MongoDB Manual](https://docs.mongodb.com/manual/reference/method/)
-
-[MongoDB CRUD Operations — MongoDB Manual](https://docs.mongodb.com/manual/crud/)
-[Operators — MongoDB Manual](https://docs.mongodb.com/manual/reference/operator/)
+[Welcome to MongoDB Shell (mongosh) - mongosh - MongoDB Docs](https://www.mongodb.com/docs/mongodb-shell/)
+[mongosh Methods - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/reference/method/)
+[Geospatial Queries - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/geospatial-queries/)
 
 [mongodb-labs/mongosh-snippets: An experimental plugin feature for mongosh](https://github.com/mongodb-labs/mongosh-snippets/)
-
-```
-mongosh --host host --port port -u database
-
-# show databases
-> show dbs
-# use a database
-> use <db_name>
-
-# show collections
-> show collections
-
-# operations
-> db.<collection>.<operation>(<options>)
-# query
-> db.foo.find({name: 'bar'})
-# show schema
-> db.foo.findOne()
-
-# drop database
-> use db1
-switched to db db1
-> db.dropDatabase()
-{ "dropped" : "db1", "ok" : 1 }
-> show dbs
-local   0.078125GB
-sessions        0.203125GB
-```
-
-Using `mongo` in shell script:
-
-```sh
-mongo "$rootAuthDatabase" <<-EOJS
-                db.createUser({
-                    user: $(_js_escape "$MONGO_INITDB_ROOT_USERNAME"),
-                    pwd: $(_js_escape "$MONGO_INITDB_ROOT_PASSWORD"),
-                    roles: [ { role: 'root', db: $(_js_escape "$rootAuthDatabase") } ]
-                })
-            EOJS
-```
 
 ### `mongodump`/`mongorestore`
 
@@ -144,90 +98,16 @@ mongoexport --db users --collection contacts --type=csv --headerline contacts.cs
 
 ## #perfmatters
 
+[Performance Best Practices: Hardware and OS Configuration | MongoDB](https://www.mongodb.com/blog/post/performance-best-practices-hardware-and-os-configuration) 2020
+[Simple Steps to Optimize Your App Performance with MongoDB, Redis, and Node.js - By](https://hackernoon.com/simple-steps-to-optimize-your-app-performance-5700d8b58f58) 2018
+
+[MongoDB Performance - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/administration/analyzing-mongodb-performance/)
 [Comparing MongoDB performance on public clouds: AWS, Azure & DigitalOcean](https://scalegrid.io/blog/comparing-mongodb-performance-on-public-clouds-aws-azure-digital-ocean/)
 
 [Explain Results - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/reference/explain-results/)
 [Interpret Explain Plan Results - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/tutorial/analyze-query-plan/)
 [Query Plans - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/core/query-plans/)
 [Getting started with MongoDB explain() | by Guy Harrison | MongoDB Performance Tuning | Medium](https://medium.com/mongodb-performance-tuning/getting-started-with-mongodb-explain-8a3d0c6c7e68)
-
-```js
-mongo> function quick_explain(explainPlan) {
-  var stepNo = 1;
-  var printInputStage = function(step) {
-    if ("inputStage" in step) {
-      printInputStage(step.inputStage);
-    }
-    if ("inputStages" in step) {
-      step.inputStages.forEach(function(inputStage){
-        printInputStage(inputStage);
-      });
-    }
-    if ("indexName" in step) {
-      print(stepNo++, step.stage, step.indexName);
-    } else {
-      print(stepNo++, step.stage);
-    }
-  };
-  printInputStage(explainPlan);
-}
-mongo> var explainDoc=db.collection.explain().<query>
-mongo> var explainJson = explainDoc.next();
-mongo> quick_explain(explainJson.queryPlanner.winningPlan);
-1      IXSCAN Phone_1
-2     FETCH
-3    SORT_KEY_GENERATOR
-4   SORT
-5  PROJECTION
-mongo> quick_explain(explainJson.queryPlanner.rejectedPlans[1])
-```
-
-```js
-mongo> function executionStats(execStats) {
-  var stepNo = 1;
-  print('\n');
-  var printSpaces = function(n) {
-    var s = '';
-    for (var i = 1; i < n; i++) {
-      s += ' ';
-    }
-    return s;
-  };
-  var printInputStage = function(step, depth) {
-    if ('inputStage' in step) {
-      printInputStage(step.inputStage, depth + 1);
-    }
-    if ('inputStages' in step) {
-      step.inputStages.forEach(function(inputStage) {
-        printInputStage(inputStage, depth + 1);
-      });
-    }
-    var extraData = '(';
-    if ('indexName' in step) extraData += ' ' + step.indexName;
-    if ('executionTimeMillisEstimate' in step) {
-      extraData += ' ms:' + step.executionTimeMillisEstimate;
-    }
-    if ('keysExamined' in step)
-       extraData += ' keys:' + step.keysExamined;
-    if ('docsExamined' in step)
-       extraData += ' docs:' + step.docsExamined;
-    extraData += ')';
-    print(stepNo++, printSpaces(depth), step.stage, extraData);
-  };
-  printInputStage(execStats.executionStages, 1);
-  print(
-    '\nTotals:  ms:',
-    execStats.executionTimeMillis,
-    ' keys:',
-    execStats.totalKeysExamined,
-    ' Docs:',
-    execStats.totalDocsExamined
-  );
-}
-mongo> var explainDoc = db.collection.explain("executionStats").<query>
-mongo> var explainJson = explainDoc.next();
-mongo> executionStats(explainJson.executionStats);
-```
 
 ## Internals
 
@@ -252,21 +132,6 @@ Clustered Collections in 5.3 merged the two index and `_id` index's leaves are t
 [db.collection.createIndex() (mongosh method) - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/reference/method/db.collection.createindex/)
 
 [\[SERVER-3294\] Ability to keep data on disk in ~ index order - MongoDB Jira](https://jira.mongodb.org/browse/SERVER-3294) WiredTiger does not implement (and cannot guarantee) index clustering on disk level
-
-```
-# mongosh
-# show indexes
-> db.collection.getIndexes()
-
-# create index
-> db.collection.createIndex({ "key": 1 },   {
-      unique: true,
-      sparse: true,
-      expireAfterSeconds: 3600
-  })
-
-# can use `db.collection.createIndexes()` if they share the same options
-```
 
 ### Text Search
 
@@ -323,8 +188,8 @@ Since 3.6
 
 Showing validation rules:
 
-```
-db.getCollectionInfos({name: "myCollection"})
+```js
+db.getCollectionInfos({ name: "myCollection" });
 ```
 
 ### Mongoose
@@ -352,37 +217,6 @@ mongose.model("Model", mongooseSchema);
 
 [node.js - MongoDB: output 'id' instead of '\_id' - Stack Overflow](https://stackoverflow.com/a/42763286)
 
-```js
-const reshapingOptions = {
-  // include .id (it's a virtual)
-  virtuals: true,
-
-  // exclude .__v
-  versionKey: false,
-
-  // exclude ._id
-  transform: function (doc, ret) {
-    delete ret._id;
-    return ret;
-  },
-};
-
-const friendSchema = mongoose.Schema(
-  {
-    givenName: String,
-    familyName: String,
-  },
-  { toJSON: reshapingOptions },
-);
-
-const friendModel = mongoose.model("Friend", friendSchema);
-
-const john = friendModel.findOne({ givenName: "John" });
-if (!john) {
-  res.status(404).json({ error: "No John Found" });
-}
-```
-
 [What is the difference between Mongoose toObject and toJSON? - Stack Overflow](https://stackoverflow.com/questions/31756673/what-is-the-difference-between-mongoose-toobject-and-tojson)
 [Documentation: clarify the difference between toObject() and toJSON() · Issue #2072 · Automattic/mongoose](https://github.com/Automattic/mongoose/issues/2072#issuecomment-481378112)
 [Mongoose toObject and toJSON transform behavior with sub-documents | Alexander Zeitler](https://alexanderzeitler.com/articles/mongoose-tojson-toobject-transform-with-subdocuments/)
@@ -395,8 +229,8 @@ if (!john) {
 
 ## Scaling
 
-[Replication — MongoDB Manual](https://docs.mongodb.com/manual/replication/)
-[Sharding — MongoDB Manual](https://docs.mongodb.com/manual/sharding/)
+[Replication - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/replication/)
+[Sharding - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/sharding/)
 
 [MongoDB is web scale](http://www.mongodb-is-web-scale.com/)
 [Indexing, Replicating, and Sharding in MongoDB [Tutorial] | Packt Hub](https://hub.packtpub.com/indexing-replicating-and-sharding-in-mongodb-tutorial/)
@@ -404,14 +238,15 @@ if (!john) {
 
 ## Data Modeling
 
-[Data Modeling Introduction — MongoDB Manual](https://docs.mongodb.com/manual/core/data-modeling-introduction/)
-[Database References — MongoDB Manual](https://docs.mongodb.com/manual/reference/database-references/)
-[Model Data for Atomic Operations — MongoDB Manual](https://docs.mongodb.com/master/tutorial/model-data-for-atomic-operations/)
+[Data Modeling in MongoDB - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/data-modeling/)
+[Database References - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/reference/database-references/)
+[MongoDB CRUD Operations - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/crud/)
+[Model Data for Atomic Operations - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/upcoming/tutorial/model-data-for-atomic-operations/)
 
 [Modelling Entity Relations In MongoDB | Alexander Paterson](https://alexanderpaterson.com/posts/modelling-entity-relations-in-mongodb) populating reference with `$match` and `$unwind`
 [如何将关系型数据导入 MongoDB？](https://www.infoq.cn/article/migrate-from-rmdb-mongodb)
 
-[Mongoose v5.12.13: Query Population](https://mongoosejs.com/docs/populate.html)
+[Mongoose v9.6.3: Query Population](https://mongoosejs.com/docs/populate.html)
 [mongoose: Referencing schema in properties or arrays | Alexander Zeitler](https://alexanderzeitler.com/articles/mongoose-referencing-schema-in-properties-and-arrays/)
 
 [A Node.js Perspective on MongoDB 3.4: Collations | www.thecodebarbarian.com](http://thecodebarbarian.com/a-nodejs-perspective-on-mongodb-34-collations)
@@ -436,6 +271,7 @@ if (!john) {
 [Expressions - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/reference/mql/expressions/) operators can also be used for stages
 [Updates with Aggregation Pipeline - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/tutorial/update-documents-with-aggregation-pipeline/#std-label-updates-agg-pipeline)
 [MongoDB Aggregation: tutorial with examples and exercises | Studio 3T](https://studio3t.com/knowledge-base/articles/mongodb-aggregation-framework/)
+[An Introduction to Mongoose Aggregate - Mastering JS](https://masteringjs.io/tutorials/mongoose/aggregate)
 
 `$lookup` is used for join, `$unwind` is used for flatten array (expanding to multiple documents so the array elements are top level documents)
 [MongoDB Join Two Collections Simplified | Hevo](https://hevodata.com/learn/mongodb-join-two-collections/)
@@ -453,9 +289,7 @@ if (!john) {
 [node.js - Mongoose (mongodb) batch insert? - Stack Overflow](https://stackoverflow.com/questions/16726330/mongoose-mongodb-batch-insert/24848148#24848148) no need to use Bulk API, `Model.collection.insertMany()` is fast enough (and without out of heap issue) (`Model.insertMany()` suffers from these issues)
 [javascript - Bulk insert in MongoDB using mongoose - Stack Overflow](https://stackoverflow.com/questions/37379180/bulk-insert-in-mongodb-using-mongoose/37379532)
 
-[Bulk Operations in MongoDB. Like most databases, mongoDB has… | by Guy Harrison | dbKoda | Medium](https://web.archive.org/web/20251117031201/https://medium.com/dbkoda/bulk-operations-in-mongodb-ed49c109d280)
-
-[mongodb - Difference between findOneAndDelete() and findOneAndRemove() - Stack Overflow](https://stackoverflow.com/questions/50602037/difference-between-findoneanddelete-and-findoneandremove) prefer `findOneAndDelete()`
+[mongodb - Difference between findOneAndDelete() and findOneAndRemove() - Stack Overflow](https://stackoverflow.com/questions/50602037/difference-between-findoneanddelete-and-*findoneandremove*) prefer `findOneAndDelete()`, the native MongoDB function
 
 [mongodb - Possibility of duplicate Mongo ObjectId's being generated in two different collections? - Stack Overflow](https://stackoverflow.com/questions/4677237/possibility-of-duplicate-mongo-objectids-being-generated-in-two-different-colle)
 
@@ -463,6 +297,9 @@ if (!john) {
 
 ### Call function
 
+> deprecated, use Aggregation instead
+
+[$function (expression operator) - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/reference/operator/aggregation/function/)
 [Using $function in updateMany not working - Working with Data - MongoDB Developer Community Forums](https://www.mongodb.com/community/forums/t/using-function-in-updatemany-not-working/8801/4)
 
 > the function has to be stringified
@@ -472,7 +309,7 @@ collection.updateMany(QUERY, [
   {
     $addFields: {
       field: {
-        $function: { args: ["$field"], lang: "js", body: "function() {}" },
+        $function: { args: ["$field"], lang: "js", body: "function(field) {}" },
       },
     },
   },

@@ -2,7 +2,7 @@
 title: 中國歷史
 description: ""
 created: 2015-10-09
-updated: 2026-02-16
+updated: 2026-05-16
 tags:
   - history
   - history/chinese
@@ -33,7 +33,7 @@ tags:
 [悟空的宝箱 - YouTube](https://www.youtube.com/@Wukong_MagicBox)
 [有点意思研究所 - YouTube](https://www.youtube.com/@%E6%9C%89%E7%82%B9%E6%84%8F%E6%80%9D%E7%A0%94%E7%A9%B6%E6%89%80)
 [李天豪 - YouTube](https://www.youtube.com/@leecehao)
-[歷史任意門 - YouTube](https://www.youtube.com/@%E9%A2%A8%E9%9B%B2%E6%AD%B7%E5%8F%B2-h1n)
+[歷史任意門 - YouTube](https://www.youtube.com/@%E9%A2%A8%E9%9B%B2%E6%AD%B7%E5%8F%B2-h1n) historical maps
 [歷史面面觀 - YouTube](https://www.youtube.com/@history_aspects)
 [纪实文学馆 - YouTube](https://www.youtube.com/@Chinese.talkshows)
 [罗振宇-罗辑思维 - Luogic TalkShow - YouTube](https://www.youtube.com/@LuogicTalk) 羅振宇 文明之旅, ❗!important
@@ -275,6 +275,15 @@ tags:
 華夏起源於長江，北緯26度至32度之間，跟古埃及文明，美索不達米亞文明，古印度河流域文明等同一緯度
 湯商文化亦影響北方城邦二里頭（所以黃河二里頭不是夏都城，二里崗也不是早商文化中心，兩者文物相似，時間重疊，跟晚商文化差別很大，見郭靜云）
 是周朝紀史後埋沒了這段歷史
+
+[夏朝存在471年，为何始终挖不到？史专家：大禹建立的根本不是夏朝！#文明之旅 #馬未都 #儒家思想 #儒家 #羅振宇 - YouTube](https://www.youtube.com/watch?v=j_qu9EGZ8kQ)
+
+- 一萬三千年出洞
+- 九千年上路
+- 六千年提速
+- 五千年文明
+- 四千年跨步
+- 兩千年鼎新
 
 [夏朝易經《連山》揭秘神話真相！失傳的夏之易經被找到？ 《連山》裡寫了什麼，能從中得以窺見夏朝的歷史！輯佚版《連山》、《歸藏》和《山海經》的淵源| 喵心揭秘| #連山 #易經 - YouTube](https://www.youtube.com/watch?v=rivLzCteWLc)
 
@@ -851,7 +860,7 @@ Wuchisan: Alexandria
 [吐火罗人 - Wikiwand](https://www.wikiwand.com/zh/%E5%90%90%E7%81%AB%E7%BD%97%E4%BA%BA)
 
 奄蔡 = 阿蘭王國, 西漢起於高加索地區活動, 350 年匈人吞并了阿蘭王國
-[奄蔡 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E5%A5%84%E8%94%A1?oldformat=true)
+[奄蔡 - Wikiwand](https://www.wikiwand.com/zh/%E5%A5%84%E8%94%A1)
 [阿蘭王國 - Wikiwand](https://www.wikiwand.com/zh/%E9%98%BF%E8%98%AD%E7%8E%8B%E5%9C%8B)
 [Alans - Wikiwand](https://www.wikiwand.com/en/Alans)
 

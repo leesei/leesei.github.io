@@ -2,7 +2,7 @@
 title: The Go Programming Language
 description: Build simple, secure, scalable systems with Go
 created: 2015-02-16
-updated: 2026-02-24
+updated: 2026-05-06
 tags:
   - comp/lang
   - go-lang
@@ -243,6 +243,14 @@ CGO_ENABLED=1 GOOS=linux CC="zig cc -target aarch64-linux-musl" go build
 ```
 
 [runtime: provide centralized facility for managing (c)go pointer handles · Issue #37033 · golang/go](https://github.com/golang/go/issues/37033)
+
+## Publishing
+
+[Developing and publishing modules - The Go Programming Language](https://go.dev/doc/modules/developing)
+[Publishing a module - The Go Programming Language](https://go.dev/doc/modules/publishing)
+[Module release and versioning workflow - The Go Programming Language](https://go.dev/doc/modules/release-workflow)
+
+[gzuidhof/go-npm: Distribute and install Go binaries via NPM](https://github.com/gzuidhof/go-npm)
 
 ## Package Manager
 
@@ -689,7 +697,7 @@ Anthony GG
 [charmbracelet/bubbles: TUI components for Bubble Tea 🍡](https://github.com/charmbracelet/bubbles)
 [charmbracelet/lipgloss: Style definitions for nice terminal layouts 👄](https://github.com/charmbracelet/lipgloss)
 
-[Charm CLI - YouTube](https://www.youtube.com/@charmcli/featured)
+[Charm CLI - YouTube](https://www.youtube.com/@charmcli)
 [Charm CLI Community - YouTube](https://www.youtube.com/@charmclicommunity)
 [Bubble Tea Tutorials - YouTube](https://www.youtube.com/playlist?list=PLLLtqOZfy0pd1wu0E1kCMPqU7d6o3NAgD)
 [Cool Projects with Charm CLI - YouTube](https://www.youtube.com/playlist?list=PLLLtqOZfy0pdhFwETwMr77CJld866jy35)
@@ -1345,6 +1353,8 @@ Use reference time (`2006-01-02T15:04:05Z07:00`) to define layout
 [src/time/format.go - The Go Programming Language](https://go.dev/src/time/format.go)
 
 [Time Conversion in Go (Golang) - Welcome To Golang By Example](https://golangbyexample.com/time-conversion-in-golang/)
+
+[tj/go-naturaldate: Natural date/time parsing for Go.](https://github.com/tj/go-naturaldate)
 
 ## regex
 

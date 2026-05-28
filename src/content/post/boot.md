@@ -2,7 +2,7 @@
 title: Boot
 description: ""
 created: 2015-05-10
-updated: 2026-01-31
+updated: 2026-04-21
 tags:
   - desktop
   - linux
@@ -54,7 +54,7 @@ shell/display manager (login) -> `startx`/`xinit` -> DE
 ```
 
 [System Initialization (x86) - OSDev Wiki](<https://wiki.osdev.org/System_Initialization_(x86)>)
-[Linux startup process - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Linux_startup_process)
+[Booting process of Linux - Wikiwand](https://www.wikiwand.com/en/Booting_process_of_Linux)
 [Arch boot process - ArchWiki](https://wiki.archlinux.org/title/Arch_boot_process)
 [Inside the Linux boot process](http://www.ibm.com/developerworks/linux/library/l-linuxboot/)
 [The BIOS/MBR Boot Process](https://neosmart.net/wiki/mbr-boot-process/)
@@ -152,6 +152,8 @@ requires Trusted Platform Module (TPMs)
 - sign kernel with the key in /etc/refind.d/keys  
   setup pacman hook to sign kernels post-install
 
+[Why Windows Secure Boot can be bypassed so easily (and what Microsoft isn't telling you)](https://www.makeuseof.com/why-windows-secure-boot-can-be-bypassed-so-easily/)
+
 ## initramfs
 
 [Initial ramdisk - Wikiwand](https://www.wikiwand.com/en/Initial_ramdisk)
@@ -166,9 +168,9 @@ requires Trusted Platform Module (TPMs)
 
 ## Boot Partition
 
-[Master boot record - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Master_boot_record)
+[Master boot record - Wikiwand](https://www.wikiwand.com/en/Master_boot_record)
 [MBR (x86) - OSDev Wiki](<http://wiki.osdev.org/MBR_(x86)>)
-[GUID Partition Table - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/GUID_Partition_Table)
+[GUID Partition Table - Wikiwand](https://www.wikiwand.com/en/GUID_Partition_Table)
 [Make the most of large drives with GPT and Linux](http://www.ibm.com/developerworks/linux/library/l-gpt/index.html)
 [Converting to or from GPT](http://www.rodsbooks.com/gdisk/mbr2gpt.html)
 
@@ -190,7 +192,7 @@ Flash BIOS with bare motherboard:
 
 [OpenBIOS - Wikiwand](https://www.wikiwand.com/en/OpenBIOS)
 [OpenBIOS](http://www.openfirmware.info/Welcome_to_OpenBIOS)
-[Category:Free BIOS implementations - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Category:Free_BIOS_implementations)
+[Category:Free BIOS implementations - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Category:Free_BIOS_implementations?oldformat=true)
 
 [coreboot](https://www.coreboot.org/) [coreboot - Wikiwand](https://www.wikiwand.com/en/Coreboot)
 [Libreboot project](https://libreboot.org/)
@@ -292,7 +294,7 @@ Most Linux distro provides a live environment with network that you can use to d
 POST -> UEFI -> Boot Manager (in UEFI) ->
 UEFI application (in EFI System partition) -> Bootloader -> Kernel -> ...
 
-[Unified Extensible Firmware Interface - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface)
+[UEFI - Wikiwand](https://www.wikiwand.com/en/UEFI)
 [Unified Extensible Firmware Interface - ArchWiki](https://wiki.archlinux.org/title/Unified_Extensible_Firmware_Interface)
 [Arch boot process - ArchWiki](https://wiki.archlinux.org/title/Arch_boot_process#Under_UEFI)
 

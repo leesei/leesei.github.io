@@ -2,7 +2,7 @@
 title: Net Neutrality
 description: ""
 created: 2015-02-27
-updated: 2025-01-09
+updated: 2026-03-25
 tags:
   - net-neutrality
   - web
@@ -18,18 +18,17 @@ Some analogues the ISP market with the electricity market where providers should
 
 [What's the Deal with Net Neutrality? - YouTube](https://www.youtube.com/watch?v=uw-4pMdbbmg)
 
-[H.I. #12: Hamburgers in the Pipes — Hello Internet](http://www.hellointernet.fm/podcast/12) at [44:30](https://youtu.be/C2k6Ui70sMY?t=2671)
+[H.I. #12: Hamburgers in the Pipes — Hello Internet](https://www.hellointernet.fm/podcast/12) at [44:30](https://youtu.be/C2k6Ui70sMY?t=2671)
 
 [Bandwidth Costs Almost Killed Twitch (A Rant About Net Neutrality) - YouTube](https://www.youtube.com/watch?v=ztbdbAfopl4)
 
-[Net neutrality - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Net_neutrality)
-[Save the Internet | Free Press](http://www.savetheinternet.com/sti-home)
+[Net neutrality - Wikiwand](https://www.wikiwand.com/en/Net_neutrality)
 [Webmaker Training: Teach the Web | | Concepts](https://training.webmakerprototypes.org/en/net-neutrality/concepts/)
 [Effects of Net Neutrality- Continued | GRAYBOX](https://graybox.co/knowledge/blog/effects-of-net-neutrality-continued)
 
 [What is a Common Carrier? | TechStuff](https://shows.howstuffworks.com/techstuff/what-is-a-common-carrier.htm) 2015
 [Revisiting Net Neutrality | TechStuff](https://shows.howstuffworks.com/techstuff/revisiting-net-neutrality.htm) 2017
 [Why is There a Battle Over Net Neutrality? | Stuff You Should Know](https://www.stuffyoushouldknow.com/podcasts/why-battle-over-net-neutrality.htm) 2017
-[Common Carrier legal definition of Common Carrier](http://legal-dictionary.thefreedictionary.com/Common+Carrier)
+[Common carrier legal definition of common carrier](https://legal-dictionary.thefreedictionary.com/Common+Carrier)
 
 [How the ‘Net works: an introduction to peering and transit | Ars Technica](https://arstechnica.com/features/2008/09/peering-and-transit/)

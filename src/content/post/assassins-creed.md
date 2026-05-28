@@ -2,7 +2,7 @@
 title: Assassin's Creed
 description: ""
 created: 2018-01-03
-updated: 2026-01-13
+updated: 2026-05-07
 tags:
   - assassins-creed
   - games
@@ -31,9 +31,10 @@ Nothing is true, everything is permitted
 [【刺客教條現代線完結!!?】『用最大反派的視角，告訴你 刺客教條到底在演什麼』 - YouTube](https://www.youtube.com/watch?v=OBICbOMY2j0)
 [Explaining The Messy Modern-Day Storyline Of Assassin's Creed Valhalla](https://kotaku.com/lets-recap-the-messy-modern-day-storyline-of-assassins-1845624847)
 
-`Leya蕾雅
+Leya蕾雅
 [你是否記得, 刺客信條最好的模樣?【刺客信條2】完全鑒賞 ︳刺客教條2 ︳Assassin's Creed II Retrospective - YouTube](https://www.youtube.com/watch?v=hzPK5R7BQHQ)
 [艾吉奧的巔峰, 卻是育碧的原罪?【刺客信條兄弟會】完全鑒賞 ︳刺客教條兄弟会 ︳Assassin's Creed Brotherhood Retrospective - YouTube](https://www.youtube.com/watch?v=vWBT72Ebaj4)
+[最不刺客的一部, 憑什麼人氣爆棚?【刺客教條4:黑旗】完全鑒賞 - 如果世上無黃金，我們早已是英雄 ︳刺客信條4:黑旗 ︳Assassin's Creed IV: Black Flag - YouTube](https://www.youtube.com/watch?v=V6-HTEf746M)
 
 [The Full Chronological Order of Assassin's Creed Games](https://gamerant.com/assassins-creed-chronological-order-how-play-odyssey-first-last/)
 [The Truly Complete Assassins Creed Timeline | The Leaderboard - YouTube](https://www.youtube.com/watch?v=dC_vE4_a8mI) 2019

@@ -2,7 +2,7 @@
 title: Desktop Apps
 description: ""
 created: 2015-05-20
-updated: 2026-02-25
+updated: 2026-05-05
 tags:
   - app
   - desktop
@@ -258,8 +258,11 @@ nomino -pm map.json
 
 [Geeqie Image Viewer](http://geeqie.org/)
 [nomacs | Image Lounge](http://nomacs.org/)
-[EMULSION | A lightweight and minimalistic image viewer.](https://arturkovacs.github.io/emulsion-website/)
-[Home | PhotoDemon: the fast, free, portable photo editor](https://photodemon.org/) (Windows)
+
+Windows
+[ImageGlass - A lightweight, versatile image viewer](https://imageglass.org/)
+[Home | PhotoDemon: the fast, free, portable photo editor](https://photodemon.org/)
+[riyasy/FlyPhotos: A blazing fast ultra-light photo viewer replacement for Windows. Works similar to Picasa Photo Viewer.](https://github.com/riyasy/FlyPhotos/)
 
 [xyb3rt/sxiv: Simple X Image Viewer](https://github.com/xyb3rt/sxiv)
 [feh – a fast and light image viewer](https://feh.finalrewind.org/) default is not sane
@@ -296,6 +299,7 @@ nomino -pm map.json
 
 [GIMP - The GNU Image Manipulation Program](http://www.gimp.org/)
 [Pinta: Painting Made Simple!](http://pinta-project.com/) modeled after Paint.NET
+[LazPaint](https://lazpaint.blogspot.com/) modeled after Paint.NET
 [Hugin - Panorama photo stitcher](http://hugin.sourceforge.net/)
 [MyPaint](http://mypaint.org/)
 [Krita | Digital Painting. Creative Freedom.](https://krita.org/)
@@ -397,6 +401,7 @@ Criteria:
 [Lumzy](http://lumzy.com/app/)
 [Wireframing Tool for Professionals - WireframeSketcher](http://wireframesketcher.com/index.html)
 [draw.io](https://app.diagrams.net/)
+[Penpot: The Design Tool for Design & Code Collaboration](https://penpot.app/) self-host available
 
 [Frame Box - Lightweight online tool for creating mockups](http://framebox.org/)
 [Online Mockup, Wireframe & UI Prototyping Tool · Moqups](https://moqups.com/)
@@ -593,6 +598,9 @@ Thunar (from XFCE)
 [YouTranser官方下载-ZigZagSin](https://www.zzsin.com/YouTranser.html)
 [redknotmiaoyuqiao/YouTranser](https://github.com/redknotmiaoyuqiao/YouTranser) "lossless" transcoder using B-frame
 
+[Home - Exact Audio Copy](https://www.exactaudiocopy.de/)
+[I've been ripping CDs wrong for years — this tool changed everything](https://www.makeuseof.com/ive-been-ripping-cds-wrong-for-years-exact-audio-copy/)
+
 ### Player
 
 [Stremio - Watch Instantly](http://www.strem.io/)
@@ -715,7 +723,7 @@ test input key and its binding
 
 [Blender's Animation Tools - Amazing for 2D Artists - YouTube](https://www.youtube.com/watch?v=VmekmH0QJMs)
 
-[InspirationTuts 2D - YouTube](https://www.youtube.com/@InspirationTuts2D/videos)
+[InspirationTuts 2D - YouTube](https://www.youtube.com/@InspirationTuts2D)
 
 [[raster-graphics#Photopea]] Timeline
 
@@ -1002,7 +1010,7 @@ dconf load /org/gnome/mutter/keybindings/ < mutter.dconf
 [fontanon/udev-discover](https://github.com/fontanon/udev-discover)
 
 [GPRename](http://gprename.sourceforge.net/screenshot.php)
-[GParted](http://en.wikipedia.org/wiki/GParted)
+[GParted - Wikiwand](https://www.wikiwand.com/en/GParted)
 
 [Display Driver Uninstaller (DDU) | Wagnardsoft](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-)
 [This serious issue was a simple fix... Here's how! - YouTube](https://www.youtube.com/watch?v=F8OLhUAPDq0) clean GPU driver install
@@ -1256,6 +1264,11 @@ wt `
   nt -d $env:APPDATA --title "App data"
 ```
 
+```powershell
+# Quake mode,  toggel with "Win + `"
+wt -w _quake
+```
+
 Sometimes the `wt.exe` alias is broken after update, go to "App execution alias" and toggle to recreate the alias.
 
 [Add "open Windows terminal here" into right-click context menu · Issue #1060 · microsoft/terminal](https://github.com/microsoft/terminal/issues/1060)
@@ -1365,7 +1378,7 @@ numactl
 
 [oguzhaninan/Stacer: Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web](https://github.com/oguzhaninan/Stacer)
 
-[GNOME Disks](http://en.wikipedia.org/wiki/GNOME_Disks)
+[GNOME Disks - Wikiwand](https://www.wikiwand.com/en/GNOME_Disks)
 [GSmartControl :: Home & News](http://gsmartcontrol.sourceforge.net/home/)
 
 [Glances - An Eye on your system](https://nicolargo.github.io/glances/)

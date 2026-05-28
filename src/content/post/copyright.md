@@ -2,7 +2,7 @@
 title: Copyright
 description: ""
 created: 2015-04-13
-updated: 2025-01-09
+updated: 2026-04-22
 tags:
   - ip/copyright
   - law
@@ -141,6 +141,11 @@ An other exception is sampling, but the use of copyrighted work shall be de mini
 
 [Tetris Holding, LLC v. Xio Interactive, Inc. - Wikiwand](https://www.wikiwand.com/en/Tetris_Holding,_LLC_v._Xio_Interactive,_Inc.)
 [Protecting fashion designers from copycats.](https://slate.com/news-and-politics/2009/05/protecting-fashion-designers-from-copycats.html)
+
+## United States v. Swartz
+
+[United States v. Swartz - Wikipedia](https://en.wikipedia.org/wiki/United_States_v._Swartz)
+[Aaron Swartz and the Case Against Intellectual Property](https://www.unm.edu/~dcorreia/David_Correia/Essays/Entries/2013/2/13_Aaron_Swartz_and_the_Case_Against_Intellectual_Property.html)
 
 ## Blogs
 

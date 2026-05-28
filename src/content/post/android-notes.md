@@ -2,7 +2,7 @@
 title: Android notes
 description: ""
 created: 2014-12-17
-updated: 2025-10-10
+updated: 2026-05-20
 tags:
   - aapt
   - adb
@@ -14,9 +14,8 @@ tags:
 
 Notes on Android system and console tools available.
 
-[Android (and Friends) Reading Guide | Linux.org](http://www.linux.org/threads/android-and-friends-reading-guide.6146/)
-[hellogv 的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/hellogv)
-[Android Device - eLinux.org](http://elinux.org/Android_Device)
+[欧巴Godwin-CSDN博客](https://blog.csdn.net/hellogv)
+[Android Device - eLinux.org](https://elinux.org/Android_Device)
 [Android Trends in 2020 - AndroidPub](https://android.jlelse.eu/android-trends-in-2020-d6a2930596a)
 [Mind The Robot](https://mindtherobot.com/)
 
@@ -61,6 +60,11 @@ Notes on Android system and console tools available.
 [F-Droid - Free and Open Source Android App Repository](https://f-droid.org/en/)
 
 [当贝市场 TV 版*最新版当贝市场下载*安卓电视 APK\_当贝市场](https://m.dangbei.com/wap-view-463.html)
+
+## GApps
+
+[Download MindTheGapps: Custom Google Apps Package for Android](https://mindthegapps.com/)
+[MindTheGapps](https://github.com/MindTheGapps)
 
 ## UserLAnd
 
@@ -145,7 +149,7 @@ s
 [Data Binding Library  |  Android Developers](https://developer.android.com/topic/libraries/data-binding)
 [Data Binding in Android: A tutorial with examples - LogRocket Blog](https://blog.logrocket.com/data-binding-android-tutorial-with-examples/)
 
-[Compose From First Principles | Intelligible Babble](http://intelligiblebabble.com/compose-from-first-principles/)
+[Compose From First Principles | Intelligible Babble](https://intelligiblebabble.com/compose-from-first-principles/)
 [Store grand re-opening: loading Android data with coroutines - Dropbox](https://dropbox.tech/mobile/store-grand-re-opening-loading-android-data-with-coroutines)
 
 ### Room ORM
@@ -217,9 +221,7 @@ Deprecated from Android 12
 ## APK download
 
 [F-Droid - Free and Open Source Android App Repository](https://f-droid.org/en/)
-[Download APK from Google Play Store free online downloader | APKPure.com](http://apkpure.com/)
-[APK Download of Free Android Apps - AndroidDrawer.com](http://www.androiddrawer.com/)
-[APK Downloader [Latest] Download Directly | Chrome Extension v3 (Evozi Official)](http://apps.evozi.com/apk-downloader/)
+[Download APK from Google Play Store free online downloader | APKPure.com](https://apkpure.com/)
 [QooApp 遊戲庫](https://apps.qoo-app.com/)
 
 [SmartTube (Official Site)](https://smarttubeapp.github.io/)
@@ -229,12 +231,12 @@ Deprecated from Android 12
 
 ## Remote mouse
 
-[悟空遥控器TV版*最新版悟空遥控器下载*安卓电视APK\_当贝市场](https://www.dangbei.com/app/tv/2014/0411/449.html)
+[悟空遥控器app下载安装手机版-悟空遥控器apk官方版下载v3.9.8.420 安卓最新版本-2265安卓网](http://www.2265.com/soft/4296.html)
 Android app that is able to allow mobile to control Android STB remotely. The server app does not require rooting and system integration. It draws the cursor on an overlay layer and issue commands to `Input` framework.
 
-[Programmatically Injecting Events on Android - Part 1 - PocketMagic](http://www.pocketmagic.net/injecting-events-programatically-on-android/)
-[Programmatically Injecting Events on Android - Part 2 - PocketMagic](http://www.pocketmagic.net/programmatically-injecting-events-on-android-part-2/)
-[Android Overlay Mouse Cursor - PocketMagic](http://www.pocketmagic.net/android-overlay-cursor/)
+[Programmatically Injecting Events on Android – Part 1 – PocketMagic](https://www.pocketmagic.net/injecting-events-programatically-on-android/)
+[Programmatically Injecting Events on Android - Part 2 - PocketMagic](https://www.pocketmagic.net/programmatically-injecting-events-on-android-part-2/)
+[Android Overlay Mouse Cursor - PocketMagic](https://www.pocketmagic.net/android-overlay-cursor/)
 
 ## OTA update
 
@@ -254,6 +256,17 @@ Android app that is able to allow mobile to control Android STB remotely. The se
 ## Debugging
 
 [bytedance/btrace: 🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Systrace, it support to define custom events automatically during building apk and using bhook to provider more native events like IO.](https://github.com/bytedance/btrace)
+
+### Diagnostic Tools
+
+[7 secret Android codes I didn't know existed until I went looking](https://www.makeuseof.com/7-secret-android-codes-i-didnt-know-existed-until-i-went-looking/)
+
+- `*#06#` Device Info
+- `*#*#4636#*#*` Phone Information (V2)
+- `*#*#225#*#*` Calender
+- `*#*#426#*#` Firebase Cloud Messaging
+- `*#*#7287#*#*` Pixel only?
+- `*#888#` OnePlus only
 
 ### adb
 
@@ -320,10 +333,6 @@ tag: `^(?!.*(DeskClock|dalvik|wpa)).*$`, `^(?!(BluetoothAdapter|AbsListView))`
 [JakeWharton/pidcat: Colored logcat script which only shows log entries for a specific application package.](https://github.com/JakeWharton/pidcat)
 
 ## Android on Linux
-
-[Android Apps on Linux | Linux.org](http://www.linux.org/threads/android-apps-on-linux.7431/) via Chrome
-[Best Ways To Use Android Apps In Ubuntu - LinuxAndUbuntu - Linux News | Apps Reviews | Linux Tutorials HowTo](http://www.linuxandubuntu.com/home/best-ways-to-use-android-apps-in-ubuntu)
-[Anbox Runs Android In Your Linux Without Emulation - LinuxAndUbuntu - Linux News | Apps Reviews | Linux Tutorials HowTo](http://www.linuxandubuntu.com/home/anbox-runs-android-in-your-linux-without-emulation)
 
 [Genymobile/scrcpy: Display and control your Android device](https://github.com/Genymobile/scrcpy)
 [Scrcpy & Sndcpy: Screencast Any Android Phone To Your Computer - YouTube](https://www.youtube.com/watch?v=zTYYdPS4SOA)

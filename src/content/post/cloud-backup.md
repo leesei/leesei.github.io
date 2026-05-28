@@ -2,7 +2,7 @@
 title: Cloud Backup
 description: ""
 created: 2016-04-02
-updated: 2026-02-06
+updated: 2026-05-04
 tags:
   - web
 ---
@@ -220,6 +220,8 @@ Virtual file system
 
 [kimono-koans/httm: Interactive, file-level Time Machine-like tool for ZFS/btrfs](https://github.com/kimono-koans/httm)
 
+[9001/copyparty: Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file](https://github.com/9001/copyparty)
+
 ## Syncthing
 
 > sync between your machines, works best with Tailscale
@@ -257,6 +259,14 @@ The founders of the project are dissatisfied with ownCloud.com's management, IP 
 [OpenMediaVault, a Linux-Based Solution for Building a NAS - The New Stack](https://thenewstack.io/openmediavault-a-linux-based-solution-for-building-a-nas/)
 
 [start [omv-extras.org]](https://wiki.omv-extras.org/)
+
+## HexOS
+
+> based on TrueNAS
+> investment from LinuxTechTips
+
+[HexOS](https://hexos.com/)
+[HexOS Docs](https://docs.hexos.com/)
 
 ## FreeNAS/TrueNAS
 

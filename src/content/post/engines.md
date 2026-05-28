@@ -2,7 +2,7 @@
 title: Engines
 description: ""
 created: 2015-09-22
-updated: 2025-11-17
+updated: 2026-05-26
 tags:
   - automobile
   - engines
@@ -161,6 +161,8 @@ Atkinson cycle: shorter intake, longer expansion, delayed compression
 smaller cylinder, more energy with less fuel
 can be implemented with variable valve timing
 
+Atkinson cycle is efficient at cruising speed, but lacks the power when needed
+
 ### Ignition
 
 Diesel engines are more efficient as it is compressed until it ignites, no spark needed.
@@ -218,6 +220,8 @@ SPCCI (Spark Controlled Combustion Ignition) compresses the gasoline-air mixture
 
 ## Hybrid Engine
 
+[[automobile#Electric/Hybrid Cars]]
+
 - mild hybrid
   ISG: only use motor for starter and charge battery upon brake
 - full series hybrid
@@ -228,8 +232,6 @@ SPCCI (Spark Controlled Combustion Ignition) compresses the gasoline-air mixture
 
 [【龍 Sir 學堂 Ep06】拆解豐田/凌志 Hybrid 省油耐用之謎｜#REVchannel - YouTube](https://www.youtube.com/watch?v=faqTGBo1JQc)
 [【龍 Sir 教室 Ep27】混能系統工作原理 新一代 Honda Jazz Hybrid 有何特別？（內附字幕）｜ TopGear HK 極速誌 topgearhk - YouTube](https://www.youtube.com/watch?v=ax4Gh2RswaQ)
-
-[Electric and Hybrid Cars - YouTube](https://www.youtube.com/playlist?list=PL2ir4svMoaYj48N0VWoic25P9LaU2wlbA)
 
 ## Superchargers/Turbochargers
 
@@ -378,6 +380,8 @@ first multistage rocket, detach booster in Korolev cross fashion (still used in 
 
 [Is SpaceX's Raptor engine the king of rocket engines? - YouTube](https://www.youtube.com/watch?v=LbH1ZDImaI8)
 [The INSANE Engineering Of SpaceX Raptor Engines! - YouTube](https://www.youtube.com/watch?v=NTzcRtHo_54)
+[This Engine Will Reinvent Space Travel - YouTube](https://www.youtube.com/watch?v=4K8zt8NzlVo)
+
 [So, it turns out SpaceX is pretty good at rocketing | Ars Technica](https://arstechnica.com/science/2020/12/starship-rises-high-performs-a-flawless-flip-but-doesnt-quite-stick-the-landing/)
 [Rocket Report: Raptor engine sets record, Northrop may say “Aloha!” to Omega | Ars Technica](https://arstechnica.com/science/2020/08/rocket-report-raptor-engine-sets-record-northrop-may-say-aloha-to-omega/)
 [SpaceX “猛禽”（Raptor engine）全流量循环发动机，浅谈火箭发动机（rocket engine）的循环方式 - YouTube](https://www.youtube.com/watch?v=ZmOZFAhEGwk)
@@ -394,7 +398,7 @@ first multistage rocket, detach booster in Korolev cross fashion (still used in 
 
 ![Raptor engine](./_assets/engines/raptor-engine.png)
 
-- full flow, staged combustion
+- close cycle, full flow, staged combustion
 - Methalox: liquid methane @-180°C + LOX (liquid oxygen) @-207°C
 - spark ignition
 - uses two preburners (gas generators) for turbines to spin the main pumps

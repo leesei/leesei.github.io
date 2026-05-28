@@ -2,7 +2,7 @@
 title: Zoology
 description: Scientific study of the animals kingdom
 created: 2021-10-30
-updated: 2026-02-18
+updated: 2026-05-06
 tags:
   - animals
   - biology
@@ -386,6 +386,7 @@ Deer 鹿/梅花鹿: small; Elk 麋鹿/馬鹿, Reindeer 馴鹿: mid-sized; Moose 
 Old World deer: Elk, Muntjac, Chital, Tufted deer
 New World deer: Moose, Reindeer, Roe deer
 
+[鹿科動物到底有多離譜？谷歌翻譯和iPhone翻譯竟然全搞錯！給聖誕老人拉雪橇的鹿原來是牠？看完這期讓你恍然大悟……【老肉雜談】#動物 #生物 #知識 #鹿 - YouTube](https://www.youtube.com/watch?v=L3ev6OwNWYs)
 [鹿：大自然的死侍，擁有超級血液，能再生器官、百毒不侵，還能輕功飛天、一葦渡江，這就是為什麼無論東西方都認為它是仙獸的真正原因……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=xTQyYwumROk)
 
 ### Camelidae
@@ -571,6 +572,10 @@ Bee's colony: hive (man-made), nest (natural)
 ### Cicadas
 
 [Actual Clickbait - Smarter Every Day 299 - YouTube](https://www.youtube.com/watch?v=TWc48iVC8u8)
+
+### Blattodea (蜚蠊目)
+
+[【鬼谷说】蜚蠊目：飒爽奔跑在演化的夹缝中 - YouTube](https://www.youtube.com/watch?v=lxsOBpgdxgI)
 
 ## Decapoda (shrimps, lobsters, crayfishs, crabs)
 

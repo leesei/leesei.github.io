@@ -2,7 +2,7 @@
 title: Build Systems
 description: ""
 created: 2015-06-11
-updated: 2026-02-01
+updated: 2026-03-13
 tags:
   - bazel
   - buck
@@ -101,7 +101,7 @@ Examples:
 ## Pants
 
 [Pants](https://www.pantsbuild.org/)
-[How does Pants work?](https://www.pantsbuild.org/docs/how-does-pants-work)
+[How does Pants work? | Pantsbuild](https://www.pantsbuild.org/stable/docs/introduction/how-does-pants-work)
 
 [Build Tools with Benjy Weinberger - Software Engineering Daily](https://softwareengineeringdaily.com/2022/01/17/build-tools-with-benjy-weinberger/)
 

@@ -2,7 +2,7 @@
 title: Bun
 description: Fast *all-in-one* JavaScript runtime
 created: 2023-03-14
-updated: 2025-10-27
+updated: 2026-05-22
 tags:
   - javascript/runtime
   - package-manager
@@ -47,6 +47,16 @@ bun add <package>
 [SFNode Meetup: Bun with Jarred Sumner - YouTube](https://www.youtube.com/watch?v=eF48Ar-JjT8)
 [JS FASTER THAN RUST??? (Probably not but still) HOW IS BUN SO FAST - YouTube](https://www.youtube.com/watch?v=Rp5yvwX7orE)
 
+## Rust rewrite
+
+Bun version 1.3.14 is expected to be the final release based on Zig
+
+Bun was acquired by Anthropic late 2025, used Claude Code to rewrite Bun from Zug to Rust, citing Zig's slow build time, memory leaks and not accepting AI code as issue.
+The generated Rust code was not idiomatic and full of `unsafe` blocks.
+
+[Bun Was Rewritten in Rust. But the Code... - YouTube](https://www.youtube.com/watch?v=AMf6X0J8IeA)
+[I wish this was clickbait - YouTube](https://www.youtube.com/watch?v=gILMoijqeGA)
+
 ## Comparison
 
 [Bun, Node, and Deno: What's the Difference? - YouTube](https://www.youtube.com/watch?v=ApRGWUpW9wg)
@@ -71,6 +81,39 @@ bun build --compile --minify --sourcemap --bytecode ./path/to/my/app.ts --outfil
 ```
 
 [Single-file executable - Bun](https://bun.com/docs/bundler/executables#full-stack-executables) web server plus assets
+
+### Including binaries
+
+1. **Bundle your application**  
+   Use `bun build` to compile your JS/TS into an executable while specifying the external native binaries you want to exclude from the core bundle (so they remain referenced). [](https://github.com/oven-sh/bun/issues/15374)
+2. **Embed files at build time**  
+   Use Bun’s built-in `embeddedFiles` array to bundle the binary directly into the generated executable.
+3. **Extract at runtime**  
+   Have your application's entry point extract the embedded binary to a temporary system directory (e.g., `os.tmpdir()`) every time the executable launches.
+4. **Update the import path**  
+   Point your library requiring the native module (like `sharp` or `better-sqlite3`) to this new temporary path.
+
+["bun build" does not embed binaries from node_modules correctly · Issue #15374 · oven-sh/bun](https://github.com/oven-sh/bun/issues/15374)
+
+```js
+import { file, write, $ } from "bun";
+import { tmpdir } from "node:os";
+import { join } from "node:path";
+
+// Extract the embedded binary from the compiled executable
+const tempDir = join(tmpdir(), "my-app-binaries");
+const binaryPath = join(tempDir, "vendor-binary.node");
+
+// embeddedFiles[0] represents the binary you bundled
+await write(binaryPath, embeddedFiles[0]);
+
+// Ensure execution permissions are set
+await $`chmod 755 ${binaryPath}`;
+
+// Load your library and force it to use the extracted binary
+process.env.LIBRARY_BINARY_PATH = binaryPath;
+import("./your-native-library.js");
+```
 
 ## Package Manager
 

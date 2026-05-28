@@ -2,7 +2,7 @@
 title: Firearms
 description: Weapons with gun powder
 created: 2015-06-13
-updated: 2026-02-03
+updated: 2026-05-05
 tags:
   - weapons
 ---
@@ -21,18 +21,24 @@ Firearms
 [Brandon Herrera - YouTube](https://www.youtube.com/@BrandonHerrera)
 [Civilian Use Only - YouTube](https://www.youtube.com/@civilianuseonly)
 [Data illusion - YouTube](https://www.youtube.com/@dataillusion) evolution of firearms/weapons
+[EXP - YouTube](https://www.youtube.com/@WatchEXP) expert reacts
 [Forgotten Weapons - YouTube](https://www.youtube.com/@ForgottenWeapons)
 [Garand Thumb - YouTube](https://www.youtube.com/@GarandThumb)
 [Guns Explained - YouTube](https://www.youtube.com/@Guns.Explained)
 [InRangeTV - YouTube](https://www.youtube.com/@InrangeTv)
+[MM Loadout - YouTube](https://www.youtube.com/@MMLoadout)
 [Royal Armouries - YouTube](https://www.youtube.com/@RoyalArmouriesMuseum) cold and hot weapons
 [TFB TV - YouTube](https://www.youtube.com/@tfbtv)
 [The Most - YouTube](https://www.youtube.com/@themost9058) 3D animation
 [Chasing the Trigger - YouTube](https://www.youtube.com/@allalphaarmory) 老郭寻枪
+[咕咕米老板 Mr GGM - YouTube](https://www.youtube.com/@fanpeng01)
+[王五咕咕棍 - YouTube](https://www.youtube.com/@Gugu5gun)
 
 Firearms and vehicles
 [Blue Paw Print - YouTube](https://www.youtube.com/@BluePawPrint)
 [Megaprojects - YouTube](https://www.youtube.com/@megaprojects9649)
+[Willow Run Assembled - YouTube](https://www.youtube.com/@Willowrunassembled/)
+[Hidden Mechanics - YouTube](https://www.youtube.com/@HiddenMechanicz)
 
 [Cursed Guns Series - YouTube](https://www.youtube.com/playlist?list=PLmJ2tl71-4QUccyU4Thsrn4_OgmR8gdOF)
 [Firearms History - YouTube](https://www.youtube.com/playlist?list=PLkaaNLbRcosmUxuz0CXGsNrz0fYeQ6tL2) LionHeart FilmWorks
@@ -82,6 +88,10 @@ Ahoy
 [【不止遊戲】瞄準鏡的各種圖案，究竟有什麽作用？ - YouTube](https://www.youtube.com/watch?v=B--IqfSmA9I)
 
 [【不止遊戲】——武器裝備系列 - YouTube](https://www.youtube.com/playlist?list=PLF-ufzZkqoKtMO3SfvwlZeh_4Byo9aotA) 森纳映画
+
+## Sights
+
+[All Types Of Sights Explained - YouTube](https://www.youtube.com/watch?v=SY0lLxlJIQE)
 
 ## Night Vision Goggles
 
@@ -285,8 +295,7 @@ Overlaps with Assault Rifle and SMG
 [Assault rifle - Wikiwand](https://www.wikiwand.com/en/Assault%20rifle)
 [突击步枪 - Wikiwand](https://www.wikiwand.com/zh/%E7%AA%81%E6%93%8A%E6%AD%A5%E6%A7%8D)
 
-[Mk 14 Enhanced Battle Rifle - Wikiwand](https://www.wikiwand.com/en/articles/Mk_14_Enhanced_Battle_Rifle) EBR modified from M14
-[Designated marksman rifle - Wikiwand](https://www.wikiwand.com/en/articles/Designated_marksman_rifle) DMR modified from M16
+[Why Every Assault Rifle Has Exactly 30 Rounds (Not More) - YouTube](https://www.youtube.com/watch?v=Om6CzYqiHcU)
 
 uses rifle calibers (.30-.40) with reduced firepower
 speed and magazine size of a submachine gun + power and range of a rifle
@@ -300,12 +309,18 @@ German's STG44 (MP43/MP44) is the grandfather of modern assault rifles
 
 [WW2 Guns Still Being Used Today - YouTube](https://www.youtube.com/watch?v=zx0L5fCh0AU)
 
+[Mk 14 Enhanced Battle Rifle - Wikiwand](https://www.wikiwand.com/en/articles/Mk_14_Enhanced_Battle_Rifle) EBR modified from M14
+[Designated marksman rifle - Wikiwand](https://www.wikiwand.com/en/articles/Designated_marksman_rifle) DMR modified from M16
+
+[what Every Bullpup Rifle is Actually Like - YouTube](https://www.youtube.com/watch?v=llUjGencjIo)
+
 Belgian FN FAL
 [美國士兵更喜歡M-16還是FN FAL？足以抗衡AK47的世界名槍，外號自由世界的右臂，曾經北約的標準步槍，僱傭兵最愛，差點擊敗M14，俄烏戰爭還在用！|冷戰|步槍|輕武器|歷史|軍事 - YouTube](https://www.youtube.com/watch?v=CTvw7aw4WLE)
 
 US M16/M4A1, AR-15
 [How an AR-15 Works - YouTube](https://www.youtube.com/watch?v=omv85cLfmxU)
 [世界最強步槍AR-15，遠超AK系列！為何AR-15步槍具有統治地位？1950年代設計的步槍能用至少一百年！|AR-15|M-4|M-16|AK-47|尤金斯通納| - YouTube](https://www.youtube.com/watch?v=ZAlG7Bo5ohw)
+[M16A2/A4 vs AR-15 - How Do They Compare and What's the Difference? - YouTube](https://www.youtube.com/watch?v=RLV2aTCyPYA)
 
 German HK416 (modified AR-15)
 [HK416，真正的特種部隊之槍！三角洲御用槍械，暢銷歐洲多國！擊斃兩大頭目，真正的槍中鬼見愁！|HK416|海豹突擊隊|HK416F|HK416N|活塞式自動步槍| - YouTube](https://www.youtube.com/watch?v=bKuwiOTjuF8)
@@ -315,10 +330,9 @@ Russian RPK, AK-47
 [【不止遊戲】究竟如何區分如此多的 AK 型號？ - YouTube](https://www.youtube.com/watch?v=ln7P5R0-W5Q)
 [為什麼都喜歡魔改AK47，AK-47步槍，20世紀世界十大名槍之首！AM-47產量上億支，足跡遍佈全球，步槍之王！AK-47 VS M16，越南戰場實戰！| 氣吹式 | AKM | AK-74 | - YouTube](https://www.youtube.com/watch?v=QXa6WENHT1c)
 [Why Almost All Fighters Use The AK-47 - YouTube](https://www.youtube.com/watch?v=Ywp_wokASZI)
+[The Real Reason The AK-47 Never Jams And Why American Engineers Spent 30 Years Trying To Copy It - YouTube](https://www.youtube.com/watch?v=tPXEsPrJiaI)
 
 [槍口上跳嚴重的AUG步槍，如何成為世界10大知名步槍之一？史上第一款大規模列裝的無託式步槍，開啟全球無託時代|武器|歷史|步槍 - YouTube](https://www.youtube.com/watch?v=nGw-df3nQlI)
-
-[M16A2/A4 vs AR-15 - How Do They Compare and What's the Difference? - YouTube](https://www.youtube.com/watch?v=RLV2aTCyPYA)
 
 ## Shotgun
 

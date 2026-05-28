@@ -2,7 +2,7 @@
 title: Ancient Civilizations
 description: ""
 created: 2020-01-23
-updated: 2026-03-09
+updated: 2026-05-05
 tags:
   - history
 ---
@@ -25,16 +25,16 @@ Civilization:
 [The Archaeologist](https://www.thearchaeologist.org/)
 [Ancient Origins | Reconstructing the story of humanity's past](https://www.ancient-origins.net/)
 [Smarthistory – art history](https://smarthistory.org/)
+[Phoenician Colonization - World History Encyclopedia](https://www.worldhistory.org/Phoenician_Colonization/)
 
 [Ancient History - YouTube](https://www.youtube.com/playlist?list=PLxZAPogJjW_itd420UVkM1Aq09AW8B9h0)
 [Ancient Mediterranean History - YouTube](https://www.youtube.com/playlist?list=PLDb22nlVXGgd0-Obov_tdEh1cNKIvXcMm) Overly Sarcastic Productions
 [Epimetheus - YouTube](https://www.youtube.com/@EpimetheusHistory/)
 [Fall of Civilizations - YouTube](https://www.youtube.com/@FallofCivilizations)
 [Historia Civilis - YouTube](https://www.youtube.com/@HistoriaCivilis/)
-[Kings and Generals - YouTube](https://www.youtube.com/@KingsandGenerals/featured)
+[Kings and Generals - YouTube](https://www.youtube.com/@KingsandGenerals)
 [NORTH 02 - YouTube](https://www.youtube.com/@NORTH02) apes to Bronze age
 [Paleolithic Productions - YouTube](https://www.youtube.com/@PaleolithicProduction)
-[Phoenician Colonization - World History Encyclopedia](https://www.worldhistory.org/Phoenician_Colonization/)
 [The Generalist Papers - YouTube](https://www.youtube.com/@TheGeneralistPapers)
 [The Goths - World History Encyclopedia](https://www.worldhistory.org/Goths/)
 [英语的前世今生(和七大姑八大姨) - YouTube](https://www.youtube.com/watch?v=uKUjt4gpZNM)
@@ -42,15 +42,6 @@ Civilization:
 [【鎮館之寶+系列】大英博物館·序章 人類的最強記憶！ - YouTube](https://www.youtube.com/watch?v=e-kxMY8cmjc)
 
 [Beginnings - 600 BCE | World history | Arts and humanities | Khan Academy](https://www.khanacademy.org/humanities/world-history/world-history-beginnings)
-
-[夏朝存在471年，为何始终挖不到？史专家：大禹建立的根本不是夏朝！#文明之旅 #馬未都 #儒家思想 #儒家 #羅振宇 - YouTube](https://www.youtube.com/watch?v=j_qu9EGZ8kQ)
-
-- 一萬三千年出洞
-- 九千年上路
-- 六千年提速
-- 五千年文明
-- 四千年跨步
-- 兩千年鼎新
 
 The History of English Podcast 9-12
 [The History of English Podcast] Episode 11: Germanic Ancestors

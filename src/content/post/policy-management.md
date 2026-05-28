@@ -2,7 +2,7 @@
 title: Policy Management/Authorization
 description: Policy for accessing services
 created: 2023-06-15
-updated: 2025-10-10
+updated: 2026-04-17
 tags:
   - authentication
   - authorization
@@ -41,6 +41,11 @@ tags:
 ### Keycloak
 
 [Keycloak](https://www.keycloak.org/)
+
+### Cerbos
+
+[Cerbos: Authorization for Enterprise Software and AI](https://www.cerbos.dev/)
+[cerbos/cerbos: Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.](https://github.com/cerbos/cerbos)
 
 ### Permify
 

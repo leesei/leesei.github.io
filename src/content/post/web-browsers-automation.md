@@ -2,7 +2,7 @@
 title: Browser automation
 description: Automates browser, for web scraping and testing
 created: 2017-11-20
-updated: 2026-01-29
+updated: 2026-05-20
 tags:
   - automation
   - web
@@ -18,11 +18,16 @@ tags:
 [lorien/awesome-web-scraping: List of libraries, tools and APIs for web scraping and data processing.](https://github.com/lorien/awesome-web-scraping)
 [BruceDone/awesome-crawler: A collection of awesome web crawler,spider in different languages](https://github.com/BruceDone/awesome-crawler)
 
-[THE SCRAPINGHUB BLOG](https://blog.scrapinghub.com/)
+[Web Scraping Blog | Stay Updated with Zyte for the Latest in Web Scraping and Data Extraction](https://www.zyte.com/blog/)
 [A guide to Web Scraping without getting blocked · daolf](https://www.daolf.com/posts/avoiding-being-blocked-while-scraping-ultimate-guide/)
 [A guide to Web Scraping without getting blocked](https://www.scrapingninja.co/blog/web-scraping-without-getting-blocked)
 [Introduction to web scraping](https://librarycarpentry.org/lc-webscraping/)
 [Web scraping for beginners | Apify Documentation](https://docs.apify.com/academy/web-scraping-for-beginners)
+
+[Blog | ScrapeOps](https://scrapeops.io/blog/)
+[The Web Scraping Playbook | ScrapeOps](https://scrapeops.io/web-scraping-playbook/)
+[The Python Web Scraping Playbook | ScrapeOps](https://scrapeops.io/python-web-scraping-playbook/)
+[The NodeJs Web Scraping Playbook | ScrapeOps](https://scrapeops.io/nodejs-web-scraping-playbook/)
 
 [Big Data: What is Web Scraping and how to use it | IT Svit Blog](https://itsvit.com/blog/big-data-what-is-web-scraping-and-how-to-use-it/)
 [Big Data Scraping vs Web Data Crawling | IT Svit Blog](https://itsvit.com/big-data/big-data-scraping-vs-web-data-crawling/)
@@ -37,14 +42,22 @@ tags:
 [Google Open Source Blog: Introducing WebDriver](http://google-opensource.blogspot.hk/2009/05/introducing-webdriver.html)
 [WebdriverIO · Next-gen WebDriver test framework for Node.js](https://webdriver.io/)
 
-[Browserbase: Headless browsers for AI agents & applications](https://www.browserbase.com/) Browser scraping as a service
-
 task runner for browser tests:
 [testem/testem: Test'em 'Scripts! A test runner that makes Javascript unit testing fun.](https://github.com/testem/testem)
 [substack/testling: unit tests in all the browsers](https://github.com/substack/testling)
 
 [Introducing fuite: a tool for finding memory leaks in web apps | Read the Tea Leaves](https://nolanlawson.com/2021/12/17/introducing-fuite-a-tool-for-finding-memory-leaks-in-web-apps/)
+
 [nolanlawson/fuite: A tool for finding memory leaks in web apps](https://github.com/nolanlawson/fuite)
+
+## Scraping as a service
+
+[Best Scraper API (best web scraping API) of 2025 | TechRadar](https://www.techradar.com/pro/software-services/best-scraper-api-best-web-scraping-api-of-year)
+[Actually, web scraping APIs are cheaper](https://www.zyte.com/blog/web-scraping-apis-are-cheaper/)
+
+[ScrapeOps - The DevOps Tool For Web Scraping. | ScrapeOps](https://scrapeops.io/)
+[Browserbase: Headless browsers for AI agents & applications](https://www.browserbase.com/)
+[Web Scraping API - All-in-one Web Scraper | Zyte API](https://www.zyte.com/zyte-api/)
 
 ## Bot Detection
 
@@ -117,6 +130,7 @@ bunx @puppeteer/browsers install chrome@stable --path $HOME/.cache/puppeteer
 
 [Puppeteer Tutorial](https://www.tutorialspoint.com/puppeteer/index.htm)
 [Introduction to Puppeteer](https://flaviocopes.com/puppeteer/)
+[The Puppeteer Web Scraping Playbook | ScrapeOps](https://scrapeops.io/puppeteer-web-scraping-playbook/)
 [Automating Google Chrome with Node.js - Tutorialzine](https://tutorialzine.com/2017/08/automating-google-chrome-with-node-js) with Puppeteer
 [The Guide To Ethical Scraping Of Dynamic Websites With Node.js And Puppeteer — Smashing Magazine](https://www.smashingmagazine.com/2021/03/ethical-scraping-dynamic-websites-nodejs-puppeteer/)
 [Tutorial: User Interface Testing with Jest and Puppeteer](https://www.valentinog.com/blog/ui-testing-jest-puppetteer/)
@@ -209,6 +223,7 @@ page.on("response", (response) => {
 
 [Playwright - YouTube](https://www.youtube.com/playlist?list=PLjHVyq6aPCTMZqcTBw4c-VDRSIk6Dkmbt)
 
+[The Playwright Web Scraping Playbook | ScrapeOps](https://scrapeops.io/playwright-web-scraping-playbook/)
 [Mastering Web Scraping in Python: Avoid Blocking Like a Ninja - ZenRows](https://www.zenrows.com/blog/stealth-web-scraping-in-python-avoid-blocking-like-a-ninja)
 
 [Crawlee · Build reliable crawlers. Fast. | Crawlee](https://crawlee.dev/)
@@ -277,6 +292,7 @@ const links = await Promise.all(
 [The Scrapinghub Blog – Turn Web Content Into Useful Data](https://blog.scrapinghub.com/)
 [Scraping the Steam Game Store with Scrapy – The Scrapinghub Blog](https://blog.scrapinghub.com/2017/07/07/scraping-the-steam-game-store-with-scrapy/)
 [How to Build your own Price Monitoring Tool – The Scrapinghub Blog](https://blog.scrapinghub.com/2016/11/24/how-to-build-your-own-price-monitoring-tool/)
+[The Python Scrapy Playbook | ScrapeOps](https://scrapeops.io/python-scrapy-playbook/)
 [Web Scraping with Scrapy: A Python Guide | Medium](https://medium.com/@datajournal/web-scraping-with-scrapy-5560a26b6e26)
 
 ### woob
@@ -339,6 +355,9 @@ const links = await Promise.all(
 
 [Home - Crawl4AI Documentation (v0.7.x)](https://docs.crawl4ai.com/)
 [unclecode/crawl4ai: 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN](https://github.com/unclecode/crawl4ai)
+
+[ScribeAgent: Fine-Tuning Open-Source LLMs for Enhanced Web Navigation – Machine Learning Blog | ML@CMU | Carnegie Mellon University](https://blog.ml.cmu.edu/2024/12/06/scribeagent-fine-tuning-open-source-llms-for-enhanced-web-navigation/)
+[colonylabs/ScribeAgent: Code for ScribeAgent paper](https://github.com/colonylabs/ScribeAgent)
 
 ## Web Scarping by AI
 

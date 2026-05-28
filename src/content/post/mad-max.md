@@ -2,12 +2,12 @@
 title: Mad Max
 description: ""
 created: 2024-06-23
-updated: 2025-01-09
+updated: 2026-03-25
 tags:
   - mad-max
 ---
 
-[Mad Max: Fury Road - Wikipedia](https://en.wikipedia.org/wiki/Mad_Max:_Fury_Road)
+[Mad Max: Fury Road - Wikiwand](https://www.wikiwand.com/en/Mad_Max:_Fury_Road)
 [Furiosa: A Mad Max Saga - Wikiwand](https://www.wikiwand.com/en/Furiosa:_A_Mad_Max_Saga)
 
 [一口氣看完《瘋狂麥斯》系列！置身廢土世界癲狂！無縫連接《芙莉歐莎：瘋狂麥斯傳奇篇章》 #瘋狂麥斯 #芙莉歐莎瘋狂麥斯傳奇篇章 - YouTube](https://www.youtube.com/watch?v=hu2zMyswJH0)

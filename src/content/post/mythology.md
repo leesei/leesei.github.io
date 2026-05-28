@@ -2,7 +2,7 @@
 title: Mythology
 description: ""
 created: 2015-08-01
-updated: 2025-10-10
+updated: 2026-03-25
 tags:
   - trivia
 ---
@@ -49,7 +49,7 @@ tags:
 [中国鬼怪排行榜 - YouTube](https://www.youtube.com/playlist?list=PLK5xZu3SLGqbQp4zFirGgfJ3VeC_bru3A)
 [华夏众神 - YouTube](https://www.youtube.com/playlist?list=PLK5xZu3SLGqb8_2GuJ_wWcKFHcl-bFLRQ)
 
-[File: 馬王堆絲畫 - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/File:Mawangdui_silk_banner_from_tomb_no1.jpg)
+[File: 馬王堆絲畫 - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/File:Mawangdui_silk_banner_from_tomb_no1.jpg?oldformat=true)
 
 ### 三皇五帝
 

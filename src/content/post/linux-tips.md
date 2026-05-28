@@ -2,7 +2,7 @@
 title: Linux Tips and Tricks
 description: ""
 created: 2016-03-11
-updated: 2025-10-10
+updated: 2026-05-28
 tags:
   - app
   - desktop
@@ -319,6 +319,7 @@ augenrules --load
 
 [eBPF for security: a beginner's guide | Red Canary](https://redcanary.com/blog/threat-detection/ebpf-for-security/)
 [Master Linux Security with Tetragon and Wazuh: Real-Time Monitoring and Seamless SIEM Integration - YouTube](https://www.youtube.com/watch?v=Mfnrp3X1E-k)
+[eBPF on Linux: What It Is and How to Get Started (2026 Guide)](https://www.fosslinux.com/156903/ebpf-on-linux-what-it-is-why-it-matters-and-your-first-bpftrace-commands.htm)
 
 ### logrotate
 

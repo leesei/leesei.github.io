@@ -2,7 +2,7 @@
 title: Image Optimization
 description: ""
 created: 2016-08-04
-updated: 2025-10-10
+updated: 2026-05-02
 tags:
   - app
   - shell-tools
@@ -48,15 +48,16 @@ ImageOptim-inspired, with CLI, much slower and worse compression than `@leesei/i
 
 [The Problem with JPEG - Computerphile - YouTube](https://www.youtube.com/watch?v=yBX8GFqt6GA)
 
-[Comparison of JPEG Lossless Compression Tools - blarg.co.uk](https://blarg.co.uk/blog/comparison-of-jpeg-lossless-compression-tools)
-
 [mozilla/mozjpeg: Improved JPEG encoder.](https://github.com/mozilla/mozjpeg)
+[ImageProcessing-ElectronicPublications/jpeg-recompress: Utilities for lossy recompress JPEGs](https://github.com/ImageProcessing-ElectronicPublications/jpeg-recompress) test for best compression quality (structural similarity (SSIM), SmallFry, MPE)
+[tjko/jpegoptim: jpegoptim - utility to optimize/compress JPEG files](https://github.com/tjko/jpegoptim)
+`jpegoptim -P -p --all-progressive -s -m 90 --no-action <file>`
+
+[JPEGclub.org](https://jpegclub.org/) `jpegtran` is for lossless transcode
 
 [Lepton image compression: saving 22% losslessly from images at 15MB/s | Dropbox Tech Blog](https://blogs.dropbox.com/tech/2016/07/lepton-image-compression-saving-22-losslessly-from-images-at-15mbs/)
 
 [The home of PackJPG](http://www.elektronik.htw-aalen.de/packjpg/)
-
-`jpegoptim -P -p --all-progressive -s -m 90 --no-action <file>`
 
 # PNG
 
@@ -96,13 +97,37 @@ pingo
 > imagemin provides prebuilt native binaries
 
 [imagemin](https://github.com/imagemin?type=source) not actively maintained, dependencies are old
-[imagemin/imagemin-cli: Minify images seamlessly](https://github.com/imagemin/imagemin-cli)
-[imagemin/imagemin: Minify images seamlessly](https://github.com/imagemin/imagemin)
+[imagemin/imagemin-cli: Minify images seamlessly](https://github.com/imagemin/imagemin-cli) default tools is not good enough
+[imagemin/imagemin: Minify images seamlessly](https://github.com/imagemin/imagemin) the library
 [1000ch/gulp-image: Optimize PNG, JPEG, GIF, SVG images with gulp task.](https://github.com/1000ch/gulp-image) uses `imagemin` binaries
 
 ```sh
 npm i -g imagemin-cli imagemin-mozjpeg imagemin-pngcrush imagemin-pngquant
 imagemin --plugin=pngcrush --plugin=pngquant --plugin=mozjpeg --plugin=gifsicle --plugin=svgo "images/**" "outdir"
+```
+
+```
+cwebp-bin
+gifsicle
+jpeg-recompress-bin
+jpegtran-bin
+mozjpeg
+optipng-bin
+pngcrush-bin
+pngquant-bin
+pngout-bin
+zopflipng-bin
+
+
+imagemin-webp
+imagemin-svgo
+imagemin-jpeg-recompress
+imagemin-jpegtran (a bit useless)
+imagemin-jpegoptim
+imagemin-pngquant
+imagemin-optipng
+imagemin-pngcrush
+imagemin-gifsicle
 ```
 
 [imgmini - npm](https://www.npmjs.com/package/imgmini) `gulp-image` contains all the binaries, provides intuitive reporting interface

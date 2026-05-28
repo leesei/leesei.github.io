@@ -2,7 +2,7 @@
 title: Paradox
 description: ""
 created: 2015-06-18
-updated: 2025-10-10
+updated: 2026-03-25
 tags:
   - paradox
   - philosophy
@@ -105,6 +105,13 @@ Related: probabilistic comparison may not be transitive
 ## Braess's Paradox
 
 [This mechanism shrinks when pulled - YouTube](https://www.youtube.com/watch?v=-QTkPfq7w1A) removing a shortcut ia better for everyone
+
+## Newcomb's Paradox
+
+[Newcomb's problem - Wikiwand](https://www.wikiwand.com/en/Newcomb's_problem)
+Expected Utility vs Strategic Dominance
+
+[The Obvious Problem That No One Can Agree On - YouTube](https://www.youtube.com/watch?v=Ol18JoeXlVI)
 
 ## False Positive Paradox
 

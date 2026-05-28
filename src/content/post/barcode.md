@@ -2,7 +2,7 @@
 title: Barcode
 description: ""
 created: 2015-09-02
-updated: 2025-11-24
+updated: 2026-05-01
 tags:
   - trivia
 ---
@@ -59,17 +59,19 @@ tags:
 [gillyb/reimg: reimg - A javascript library for converting image formats](https://github.com/gillyb/reimg) implements download logic
 [neocotic/qrious: Pure JavaScript library for QR code generation using canvas](https://github.com/neocotic/qrious)
 
-[Create Custom QR Code Free | QRCode-Panda](https://qrcode-panda.com/)
+[Create Custom QR Code Free | QRCode-Panda](https://qrcode-panda.com/) color, pattern, logo, framing
 [Create Your Free QR Code - Flowcode](https://www.flowcode.com/)
 [QR Code Generator - Create Free QR Codes](https://qrd.by/)
 
-[QR Code Generator | Create Your Free QR Codes](https://www.qr-code-generator.com/) short URL after login (qqrco.de, l.ead.me)
+[QR.io: QR Code Generator | Create QR Codes](https://qr.io/) requires login, short URL with tracking (qr.code), framing
+[QR Code Generator | Create Your Free QR Codes](https://www.qr-code-generator.com/) requires login, short URL with tracking (qqrco.de, l.ead.me)
 [QR Code Generator](https://www.the-qrcode-generator.com/)
 [QR Code Generator](http://azonmedia.com/qrcode-generator)
 [Create QR Code - Visualead](http://www.visualead.com/qr-code-generator/)
 [QR Code Generator from the ZXing Project](http://zxing.appspot.com/generator)
 [QR Code Generator: QR Stuff Free Online QR Code Creator And Encoder For Brochures, Print Advertising, Business Cards & Stickers](http://www.qrstuff.com/)
 [QR Code Generator – create QR codes for free (Logo, T-Shirt, vCard, EPS)](http://goqr.me/)
+[QR code API: command “create-qr-code” (generate QR code, QR code generator)](https://goqr.me/api/doc/create-qr-code/) `https://api.qrserver.com`
 
 [Online rMQR Generator](https://rmqr.oudon.xyz/)
 

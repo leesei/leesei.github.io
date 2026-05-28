@@ -2,7 +2,7 @@
 title: Hydraulic Engineering
 description: ""
 created: 2023-06-12
-updated: 2026-01-20
+updated: 2026-04-25
 tags:
   - science
 ---
@@ -17,6 +17,10 @@ bridges 橋梁, dams 水壩, channels 河道, canals 運河, levees 堤防, weir
 [Groundwater - YouTube](https://www.youtube.com/playlist?list=PLTZM4MrZKfW82of7NOkmzFpdBWmb3hHQf)
 
 [The Crazy Engineering of Venice - YouTube](https://www.youtube.com/watch?v=77omYd0JOeA)
+
+## Pumps
+
+[How To Pump Stones (and cameras) - YouTube](https://www.youtube.com/watch?v=fAgdpfB8qbM)
 
 ## 堰
 

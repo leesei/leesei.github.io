@@ -2,7 +2,7 @@
 title: Civil Right Movements
 description: ""
 created: 2016-09-06
-updated: 2025-10-10
+updated: 2026-03-27
 tags:
   - law
   - politics
@@ -25,6 +25,13 @@ tags:
 [Magnitsky Act - Wikiwand](https://www.wikiwand.com/en/Magnitsky_Act)
 [The Magnitsky Law Is Taking Over The European Union](https://www.forbes.com/sites/ewelinaochab/2018/12/10/the-magnitsky-law-is-taking-over-the-european-union/#319ff7f31eca)
 [What is the Global Magnitsky Act, and why are U.S. senators invoking this on Saudi Arabia? - The Washington Post](https://beta.washingtonpost.com/news/monkey-cage/wp/2018/10/12/what-is-the-global-magnitsky-act-and-why-are-u-s-senators-invoking-this-on-saudi-arabia/?outputType=amp)
+
+## Age Verification Law
+
+[The TBOTE Project](https://tboteproject.com/)
+[Ageless Linux — Software for Humans of Indeterminate Age](https://agelesslinux.org/index.html)
+
+[Microslop Wants Your Health Data. Big Tech wants your AGE. Linux Fights Back. - YouTube](https://www.youtube.com/watch?v=0aisC9KRcDo)
 
 ## 政治光譜
 

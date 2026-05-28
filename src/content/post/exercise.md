@@ -2,7 +2,7 @@
 title: Exercise
 description: ""
 created: 2019-04-17
-updated: 2026-03-10
+updated: 2026-05-28
 tags:
   - health
   - hiit
@@ -53,6 +53,7 @@ TDEE: Total Daily Energy Expenditure
 [TDEE Calculator: Learn Your Total Daily Energy Expenditure](https://tdeecalculator.net/)
 [Weight-loss concepts: What is BMR? What is PAL? What is TDEE? - | WellBeing.com.au](https://www.wellbeing.com.au/community/natural-health-glossary/weight-loss-concepts-what-is-bmr-what-is-pal-what-is-tdee.html)
 [TDEE 與基礎代謝率 BMR 計算機｜ Peeta Fitness 健身網](https://www.peeta.tw/weight-loss/tdee-and-bmr/)
+[30岁以后,减脂为什么突然变难了?!(如何提升代谢） - YouTube](https://www.youtube.com/watch?v=ST-GmV8VqrY)
 [May 教妳如何增肌 💪🏻(10 分鐘精華版) 訓練&飲食安排 | 能不能同時增肌減脂？ - YouTube](https://www.youtube.com/watch?v=fC7Tmv4AjW4)
 [How to Lose Fat the Right Way (MEN VS WOMEN!) - YouTube](https://www.youtube.com/watch?v=Yz7Ofr9z1co&t=488s)
 [千萬不要放過你的新手福利期！5 分鐘看完此文，同時增肌減脂對於你來說易如反掌！ - MR. MUSCULAR - 健身知識交流天地](https://mmuscular.com/2020/08/19/%e5%8d%83%e8%90%ac%e4%b8%8d%e8%a6%81%e6%94%be%e9%81%8e%e4%bd%a0%e7%9a%84%e6%96%b0%e6%89%8b%e7%a6%8f%e5%88%a9%e6%9c%9f%ef%bc%815%e5%88%86%e9%90%98%e7%9c%8b%e5%ae%8c%e6%ad%a4%e6%96%87%ef%bc%8c%e5%90%8c/)
@@ -119,6 +120,7 @@ TDEE = BMR * PAL
 [局部減脂不存在，如何一邊減脂一邊瘦肚腩？丨范老師 - YouTube](https://www.youtube.com/watch?v=cpNmXdj2eDA) routines
 [【减小腰围!】如何 3 步减掉内脏脂肪(含详细攻略) - YouTube](https://www.youtube.com/watch?v=RClZ5yRkSzk)
 [🔴30 歲之後必須知道的健康知識 🔴 最強瘦肚子的方法 🔴 關於内臟脂肪 🔴 内臓脂肪の話 🔴 聽書 有聲書（怎麽樣才能遠離大肚腩）減肥減脂控糖 健康飲食方法 ｜ Fox 面讀書説書【020】 - YouTube](https://www.youtube.com/watch?v=9F9uJC2sZyw)
+[4 Boring Habits That Quietly Burn Belly Fat - YouTube](https://www.youtube.com/watch?v=Y3_vwnvWkIw)
 
 [睡眠中燃燒更多脂肪 8 種技巧,柏格醫生 Dr Berg - YouTube](https://www.youtube.com/watch?v=hVr5ETRnCkg)
 
@@ -267,6 +269,22 @@ Gladys Fit Life
 ## Bicycle
 
 [[bicycle]]
+
+## Football/Soccer
+
+Unisport
+[BALL MASTERY DRILLS - YouTube](https://www.youtube.com/playlist?list=PLDajd5cEUzZlChL8zHuzCqyDGQBhtZH1h)
+[FOOTBALL TUTORIALS - Unisport - YouTube](https://www.youtube.com/playlist?list=PLDajd5cEUzZl3mi2DWL0urWOAU1GS2jYy)
+[FREESTYLE TUTORIALS - YouTube](https://www.youtube.com/playlist?list=PLDajd5cEUzZm2dpErmO0DLAGc-Hx2mKv5)
+[How to DRIBBLE while SPRINTING - YouTube](https://www.youtube.com/watch?v=_tHAD1Quyao)
+
+[The Secret To Elite Level Dribbling | How To Dribble More Effectively - YouTube](https://www.youtube.com/watch?v=Zj9igi2B5z0)
+
+[How to control ANY ball out of the air - YouTube](https://www.youtube.com/watch?v=6sMfu056PtY)
+[How To Control A Soccer Ball In The Air With Your Foot - YouTube](https://www.youtube.com/watch?v=4PFyNV-MDNE)
+
+[How To ACTUALLY Juggle A FOOTBALL For Beginners - YouTube](https://www.youtube.com/watch?v=5PQgz2SUPdk&t=193s)
+[The Ultimate Guide To Juggling (Full Masterclass) - YouTube](https://www.youtube.com/watch?v=9wslCudJ6sU)
 
 ## Yoga
 

@@ -2,7 +2,7 @@
 title: Steam Deck
 description: ""
 created: 2022-01-12
-updated: 2025-12-23
+updated: 2026-05-20
 tags:
   - comp/hardware
   - mobile
@@ -104,7 +104,10 @@ Gaming On Linux
 [Enhance Your Steam Deck With Plugins From Decky Loader - Steam Deck HQ](https://steamdeckhq.com/tips-and-guides/enhance-your-steam-deck-with-plugins-from-decky-loader/)
 [Steam Deck plugins get EASIER than ever - YouTube](https://www.youtube.com/watch?v=ujP6ZB0-eIA)
 [Must Have plugins for your Steam Deck - How to Install Decky Loader - YouTube](https://www.youtube.com/watch?v=IONuww8pXqM)
-[Decky Loader, get easy Steam Deck Plugins and make colours POP! - YouTube](https://www.youtube.com/watch?v=YQhvNiI3hKI&list=PLRikbCj_P-2Ghffnr_MPIGI3BcU2WfypW&index=12)
+[Decky Loader, get easy Steam Deck Plugins and make colours POP! - YouTube](https://www.youtube.com/watch?v=YQhvNiI3hKI)
+
+[Unifideck's New Update Brings Custom Install Buttons And Epic Offline Support - Steam Deck HQ](https://steamdeckhq.com/news/unifidecks-update-custom-install-buttons/)
+[mubaraknumann/unifideck: A Decky Loader plugin that brings together games from Steam, Epic Games Store, GOG, Amazon, Ubisoft and XCloud into a single, unified library experience on your Steam Deck.](https://github.com/mubaraknumann/unifideck)
 
 - Animation Changer
 - Pause Games

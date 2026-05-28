@@ -2,7 +2,7 @@
 title: Household
 description: ""
 created: 2018-07-05
-updated: 2026-01-20
+updated: 2026-03-22
 tags:
   - household
 ---
@@ -13,6 +13,10 @@ tags:
 
 [一百元和一千元的 T-Shirt 差在哪？從布料、版型到縫線帶你分辨不同價位 T-Shirt Cheap Vs. Expensive T-shirts ｜ VOGUE 冷知識｜ Vogue Taiwan - YouTube](https://www.youtube.com/watch?v=3mtx6sflGyY)
 [三萬元與一千元的牛仔褲差在哪？Cheap Vs Expensive Jeans ｜ VOGUE 冷知識｜ Vogue Taiwan - YouTube](https://www.youtube.com/watch?v=m89MOtgGxZE)
+
+## Zippers
+
+[Making A Giant Zipper To Explain How It Works - YouTube](https://www.youtube.com/watch?v=9szhjhO9epA)
 
 ## Leather
 

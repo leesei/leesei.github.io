@@ -2,7 +2,7 @@
 title: LOL
 description: ""
 created: 2018-09-03
-updated: 2026-02-02
+updated: 2026-05-05
 tags:
   - lol
   - trivia
@@ -38,7 +38,7 @@ When it comes to programming career, choose two in: Legal, Well Paid, Interestin
 
 ## Stand ups
 
-[laugh out loud flix - YouTube](https://www.youtube.com/@lolflix/featured)
+[laugh out loud flix - YouTube](https://www.youtube.com/@lolflix)
 [Two Jews - YouTube](https://www.youtube.com/@twojewscomedy)
 [Don McMillan - YouTube](https://www.youtube.com/@donmcmillancomedy)
 [louis ck - YouTube](https://www.youtube.com/results?search_query=louis+ck)

@@ -2,7 +2,7 @@
 title: Raspberry Pi
 description: ""
 created: 2018-09-12
-updated: 2025-10-10
+updated: 2026-05-05
 tags:
   - iot
   - maker
@@ -36,8 +36,8 @@ tags:
 [Why Every Tech Geek Should Own a Raspberry Pi](https://www.tomshardware.com/news/why-own-raspberry-pi,38809.html)
 
 [Setting up your Raspberry Pi - Introduction | Raspberry Pi Projects](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up)
-[How to Set Up a Raspberry Pi for the First Time](https://www.tomshardware.com/reviews/raspberry-pi-set-up-how-to,6029.html)
-[How to Quickly Setup a Raspberry Pi 4 with Ubuntu 20.04 or 20.10](https://www.cloudsavvyit.com/7727/how-to-quickly-setup-a-raspberry-pi-4-with-ubuntu-20-04-or-20-10/amp/)
+[How to Set Up a Raspberry Pi for the First Time | Tom's Hardware](https://www.tomshardware.com/how-to/set-up-raspberry-pi)
+[How to Quickly Setup a Raspberry Pi 4 with Ubuntu 20.04 or 20.10](https://www.howtogeek.com/devops/how-to-quickly-setup-a-raspberry-pi-4-with-ubuntu-20-04-or-20-10/)
 
 [Python Programming Tutorial: Getting Started with the Raspberry Pi - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/python-programming-tutorial-getting-started-with-the-raspberry-pi/configure-your-pi)
 [How to Set Up a Headless Raspberry Pi, No Monitor Needed | Tom's Hardware](https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html)

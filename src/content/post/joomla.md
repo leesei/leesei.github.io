@@ -2,7 +2,7 @@
 title: Joomla
 description: ""
 created: 2021-05-11
-updated: 2025-01-09
+updated: 2026-05-27
 tags:
   - app
   - cms
@@ -199,12 +199,11 @@ Components: extent core functionality of Joomla, includes its own plugins and mo
 
 [Copying a Joomla website - Joomla! Documentation](https://docs.joomla.org/Copying_a_Joomla_website)
 
+[Akeeba Backup for Joomla! - Akeeba Ltd](https://www.akeeba.com/products/akeeba-backup.html) good free tool
 [Kickstart Official Releases](https://www.akeeba.com/download/official/akeeba-kickstart.html)
-
 [Akeeba Backup for Joomla! Documentation](https://www.akeeba.com/documentation/akeeba-backup-documentation.html)
 [Kickstart Documentation](https://www.akeeba.com/documentation/akeeba-kickstart-documentation.html)
 [Restoring a Site on Any Server - Akeeba Ltd](https://www.akeeba.com/videos/1212-akeeba-backup/1618-abtc04-restore-site-new-server.html) video
-
 [Akeeba Backup for Joomla!](https://www.akeeba.com/support/akeeba-backup-3x/Ticket/8995:jpa-versa-zip-backup-files.html) JPA vs Zip
 [Akeeba eXtract Wizard has been discontinued - Akeeba Ltd](https://www.akeeba.com/news/1724-akeeba-extract-wizard-has-been-discontinued.html)
 

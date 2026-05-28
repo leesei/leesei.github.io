@@ -2,7 +2,7 @@
 title: Audio-visual Systems
 description: ""
 created: 2018-07-04
-updated: 2026-03-03
+updated: 2026-05-24
 tags:
   - audio-clip
   - clipart
@@ -96,6 +96,13 @@ R: Rhythm
 
 [BASICS OF GREEN SCREEN - Everything You Need To Know - YouTube](https://www.youtube.com/watch?v=OH8TWTt51W8)
 [The Ultimate Small Room Greenscreen Guide - YouTube](https://www.youtube.com/watch?v=GnsR3TI4LLU)
+
+CorridorKey: unmixing object using neural network
+[nikopueringer/CorridorKey: Perfect Green Screen Keys](https://github.com/nikopueringer/CorridorKey)
+[edenaion/EZ-CorridorKey: Perfect Green Screen Keys made EZ!](https://github.com/edenaion/EZ-CorridorKey) GUI
+[alexandremendoncaalvaro/CorridorKey-Runtime: Native AI keying runtime and OFX plugin for DaVinci Resolve, built in collaboration with Corridor Digital](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime)
+[It Took Me 30 Years to Solve this VFX Problem - YouTube](https://www.youtube.com/watch?v=3Ploi723hg4)
+[I accidentally started a green screen revolution... - YouTube](https://www.youtube.com/watch?v=Y3Dfw969itU)
 
 [How to Light a Green Screen in 2019/2020! Slim Tube RGB Lights! - YouTube](https://www.youtube.com/watch?v=IP3cCmpPaZA)
 [How To DIY Bank Lighting For Filmmaking - Basic Filmmaker Ep 114 - YouTube](https://www.youtube.com/watch?v=BpOakYp-gJ4)
@@ -267,6 +274,8 @@ AICG
 
 [YouTube Creators - YouTube](https://www.youtube.com/@youtubecreators)
 [How to Add Chapters to Your Videos Using Timestamps - YouTube](https://www.youtube.com/watch?v=b1Fo_M_tj6w)
+
+[How Private Equity Turns Your Favorite Channels Into Slop - YouTube](https://www.youtube.com/watch?v=ZoibAbdQf58)
 
 [老胡油管研究院 - YouTube](https://www.youtube.com/@SeattleLaohu)
 
@@ -449,6 +458,8 @@ document.querySelectorAll("meta[property='og:url']");
 
 ## Audio Codecs
 
+[The Audio Stuff You Probably Never Knew - YouTube](https://www.youtube.com/watch?v=ad9OdWQcylY)
+
 [Auphonic Blog: Opus, the revolutionary open audio codec for podcasts and internet audio](https://auphonic.com/blog/2012/09/26/opus-revolutionary-open-audio-codec-podcasts-and-internet-audio/)
 [RFC 6716 - Definition of the Opus Audio Codec](https://datatracker.ietf.org/doc/html/rfc6716)
 
@@ -457,6 +468,8 @@ document.querySelectorAll("meta[property='og:url']");
 [A Real-Time Wideband Neural Vocoder at 1.6 kb/s Using LPCNet](https://people.xiph.org/~jm/demo/lpcnet_codec/)
 
 ## Video Codecs
+
+[Video Compression and Codecs Explained - YouTube](https://www.youtube.com/watch?v=MqP8ur-FNuA)
 
 [Why Snow and Confetti Ruin YouTube Video Quality - YouTube](https://www.youtube.com/watch?v=r6Rp-uo6HmI) motion takes up bits
 [Why dark video is a terrible mess - YouTube](https://www.youtube.com/watch?v=h9j89L8eQQk) color banding
@@ -535,7 +548,10 @@ How videos are encoded, recorded and broadcasted
 [29.97FPS這個幀率是怎麼來的? 直接用30FPS很難嗎? 最終解答公佈 Part2 - YouTube](https://www.youtube.com/watch?v=WjT6CKwr0h8)
 Since Chroma signal is put towards the higher frequency end of the spectrum, and it over laps withe the audio signal (in NTSC), it is create a low frequency beat which will be noise to the Luma
 
-[影视飓风将停止制作25帧视频 - YouTube](https://www.youtube.com/watch?v=2JwPbNivR2k) modern panel is optimzed for 60Hz
+[The Biggest Mistake in the History of TV - YouTube](https://www.youtube.com/watch?v=CFol4HFxVec) 24 FPS movies, 3:2 pull down for TV, TruMotion in TV
+[Why Inventing Color TV Was So Difficult - YouTube](https://www.youtube.com/watch?v=hyjCmIbRRvs)
+
+[影视飓风将停止制作25帧视频 - YouTube](https://www.youtube.com/watch?v=2JwPbNivR2k) modern panels are optimzed for 60Hz
 
 [Display Testing Explained: How We Test PC Monitors | Tom's Hardware](https://www.tomshardware.com/reference/how-we-test-pc-monitors-benchmarking)
 [Colour Without Colour: Apple II Computer Graphics - Paleotronic Magazine](https://paleotronic.com/2018/10/03/apple-ii-colour-computer-graphics/)

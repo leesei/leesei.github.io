@@ -2,7 +2,7 @@
 title: Window Manager
 description: ""
 created: 2014-12-12
-updated: 2026-02-06
+updated: 2026-05-16
 tags:
   - desktop
   - linux
@@ -242,6 +242,24 @@ The Linux Cast
 [Lets Learn HyprLand together! - YouTube](https://www.youtube.com/watch?v=dwJsT5pPmXw)
 [Is Hyprland Good? - A Brief First Look - YouTube](https://www.youtube.com/watch?v=IKDqtGVrIsY)
 
+### Niri
+
+> Wayland
+
+[niri](https://niri-wm.github.io/niri/)
+[Niri - ArchWiki](https://wiki.archlinux.org/title/Niri)
+
+```sh
+curl -fsSL https://install.danklinux.com | sh
+```
+
+[niri-wm/niri: A scrollable-tiling Wayland compositor.](https://github.com/niri-wm/niri)
+[niri-wm/awesome-niri: An awesome list for niri related projects [Maintainer - @Vortriz] · GitHub](https://github.com/niri-wm/awesome-niri)
+
+[The Future is Niri | Ersei 'n Stuff](https://ersei.net/en/blog/niri)
+[A Quick First Look At The Niri Window Manager - YouTube](https://www.youtube.com/watch?v=uiXiD5foFCI)
+[THIS IS INSANE NIRI UBUNTU Setup (Ft. DMS) 🤫 - YouTube](https://www.youtube.com/watch?v=dLL3uD1hnhE) using Dank Shell
+
 ## Supporting Components
 
 Since tiling WM replaces DE, some DE features (like panel and notification) have to be handled separately by other components.
@@ -266,6 +284,24 @@ key binding: xshkd, xbindrc
 automount usb storage: coldfix, udiskie
 PolicyKit: lxpolkit
 autostart: dex
+
+### Quickshell
+
+[Quickshell](https://quickshell.org/) building blocks for your desktop
+[About Quickshell](https://quickshell.org/about/)
+[Quickshell Tutorial - Build Your Own Bar](https://www.tonybtw.com/tutorial/quickshell/)
+[How To Install And Use QuickShell To Create OSD's | Arch Hyprland - YouTube](https://www.youtube.com/watch?v=9IxjhJ3WY60)
+
+Post Qt update, rebuild Quickshell against the latest library:
+`yay -S --rebuild quickshell-git`
+
+[Modern Desktop Suite | Dank Linux](https://danklinux.com/) glue DE for tiling WM
+[DankInstall | Dank Linux](https://danklinux.com/docs/dankinstall)
+[AvengeMedia/DankMaterialShell: Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.](https://github.com/AvengeMedia/DankMaterialShell) `dms`
+[The Dank Material Shell - A Wayland Desktop Suite - YouTube](https://www.youtube.com/watch?v=1ILZevPGgJw)
+
+[Overview | Noctalia](https://docs.noctalia.dev/)
+[noctalia-dev/noctalia-shell: A sleek and minimal desktop shell thoughtfully crafted for Wayland.](https://github.com/noctalia-dev/noctalia-shell)
 
 ### Scratchpad/Popup Terminal
 

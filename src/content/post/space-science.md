@@ -2,7 +2,7 @@
 title: Space Science
 description: ""
 created: 2018-01-10
-updated: 2025-10-10
+updated: 2026-05-24
 tags:
   - science
 ---
@@ -34,6 +34,7 @@ Crash Course
 [Discovery With Andy - YouTube](https://www.youtube.com/@discoverywithandy3049)
 [Everyday Astronaut - YouTube](https://www.youtube.com/@EverydayAstronaut)
 [Isaac Arthur - YouTube](https://www.youtube.com/@isaacarthurSFIA)
+[JWST - YouTube](https://www.youtube.com/@JWST107)
 [Marcus House - YouTube](https://www.youtube.com/@MarcusHouse)
 [PBS Space Time - YouTube](https://www.youtube.com/@pbsspacetime)
 [Primal Space - YouTube](https://www.youtube.com/@primalspace)
@@ -259,6 +260,10 @@ Primal Space
 [What If We Turned On Voyager 1’s Camera? - YouTube](https://www.youtube.com/watch?v=yCkM6XEsrRo)
 [How Voyager 2 Threaded The Needle Through Space - YouTube](https://www.youtube.com/watch?v=NbsHgE89qO4)
 
+JWST
+[Voyager 1 - YouTube](https://www.youtube.com/playlist?list=PLjtmkTbrgPC4Zz_R7cI58P2aa3RED1rOT)
+[Voyager 2 - YouTube](https://www.youtube.com/playlist?list=PLjtmkTbrgPC4EY4hotmBZjAyzoSbVnoY5)
+
 [aizquier/voyagerimb: Voyager's Golden Disk Image Browser](https://github.com/aizquier/voyagerimb)
 [Voyager Golden Record: encoded image data by Ozma Records](https://soundcloud.com/user-482195982/voyager-golden-record-encoded-images)
 
@@ -274,7 +279,7 @@ Primal Space
 ### Rovers
 
 [Why NASA's Mars Rovers Were Not Equipped With Solar Panels - YouTube](https://www.youtube.com/watch?v=fSIhNMYB9E0)
-[File:PIA22835-MarsProbes-SingleSolGeneratedEnergy-20181130-corrected.png - Wikipedia](https://en.wikipedia.org/wiki/File:PIA22835-MarsProbes-SingleSolGeneratedEnergy-20181130-corrected.png)
+[File:PIA22835-MarsProbes-SingleSolGeneratedEnergy-20181130-corrected.png - Wikipedia](https://en.wikipedia.org/wiki/File:PIA22835-MarsProbes-SingleSolGeneratedEnergy-20181130-corrected.png?oldformat=true)
 [Mars Rover Landing CRASH COURSE- 3 DAYS LEFT! - YouTube](https://www.youtube.com/watch?v=tH2tKigOPBU)
 
 [Mars Pathfinder - NASA Mars](https://mars.nasa.gov/programmissions/missions/past/pathfinder/)
@@ -416,6 +421,7 @@ Starship Launch System (SLS), using Superheavy as first stage booster
 [Why Elon Musk's Big, Shiny Starship Sparked a Passive-Aggressive Fight with NASA | Live Science](https://www.livescience.com/starship-crew-dragon-spacex-nasa-bridenstine.html)
 [Complete Guide To Starship: Falcon 9 VS Starship. What's new? What's different? - YouTube](https://www.youtube.com/watch?v=-8p2JDTd13k)
 [SLS VS Starship: Why does SLS still exist?! - YouTube](https://www.youtube.com/watch?v=KA69Oh3_obY)
+[How SpaceX Reinvented The Rocket! - YouTube](https://www.youtube.com/watch?v=7vE95eBX6M0)
 [How SpaceX and Boeing will get Astronauts to the ISS - YouTube](https://www.youtube.com/watch?v=RqLNIBAroGY)
 [Starship - YouTube](https://www.youtube.com/playlist?list=PLBQ5P5txVQr9_jeZLGa0n5EIYvsOJFAnY) SN8 began to trial flip landing
 [What's Inside The SpaceX Starship? - YouTube](https://www.youtube.com/watch?v=OKy2Z2BnyU8)

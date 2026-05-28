@@ -2,14 +2,14 @@
 title: sed notes
 description: ""
 created: 2015-01-13
-updated: 2025-01-09
+updated: 2026-03-25
 tags:
   - app
   - sed
   - shell-tool
 ---
 
-[sed](http://en.wikipedia.org/wiki/Sed) (stream editor) is a Unix utility that parses and transforms text, using a simple, compact programming language.
+[sed](https://www.wikiwand.com/en/Sed) (stream editor) is a Unix utility that parses and transforms text, using a simple, compact programming language.
 
 ```sh
 sed 'commands' file

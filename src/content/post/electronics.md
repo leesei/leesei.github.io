@@ -2,7 +2,7 @@
 title: Electronics
 description: ""
 created: 2018-09-12
-updated: 2026-01-13
+updated: 2026-05-05
 tags:
   - electronics
   - maker
@@ -48,7 +48,7 @@ tags:
 [AddOhms Video Tutorials](http://addohms.com/)
 [All AddOhms Tutorials - YouTube](https://www.youtube.com/playlist?list=PLRIGIzu0Z7KlBkiI9nNfMmRy4ZTzGr0RN)
 [Bald Engineer - Electronics Tutorials for Enginerds](https://www.baldengineer.com/)
-[Simply Electronics - YouTube](https://www.youtube.com/user/sutty6/featured)
+[Simply Electronics - YouTube](https://www.youtube.com/@SimplyElectronicsOfficial)
 [RimstarOrg - YouTube](https://www.youtube.com/@RimstarOrg)
 [ElectroBOOM101 - YouTube](https://www.youtube.com/playlist?list=PLr_CZLgMkHeWFl1uf5yR2ouhIh00ycHn9) ElectroBOOM
 
@@ -384,16 +384,14 @@ Dupont connector
 [Soldering Crash Course: Basic Techniques, Tips and Advice! - YouTube](https://www.youtube.com/watch?v=6rmErwU5E-k)
 [Soldering 101 - Tutorial Australia](https://core-electronics.com.au/tutorials/soldering-101.html)
 [Basics: How Not to Solder | Evil Mad Scientist Laboratories](https://www.evilmadscientist.com/2015/how-not-to-solder/)
+[How to Solder : CuriousInventor Guides](http://store.curiousinventor.com/guides/How_to_Solder)
+[Surface Mount Soldering : CuriousInventor Guides](http://store.curiousinventor.com/guides/Surface_Mount_Soldering)
 
 [How To Solder Wires Like A Pro - YouTube](https://www.youtube.com/watch?v=qxqZJH3SfN4)
 [Soldering Multiple Wires for a Distribution Joint: 4 Steps (with Pictures)](https://www.instructables.com/Soldering-multiple-wires-for-a-distribution-joint/)
 [How to Securely Connect Two Wires with Heat Shrink - YouTube](https://www.youtube.com/watch?v=7Miq63ydE3U)
 [How to Securely Connect Multiple Wires with Heat Shrink - YouTube](https://www.youtube.com/watch?v=sIQ82GKtLbQ)
 [【教學】焊接電子電路，理解原理什麼都會焊 - YouTube](https://www.youtube.com/watch?v=UUIHBjsaMeM)
-
-[How to Solder : CuriousInventor Guides](http://store.curiousinventor.com/guides/How_to_Solder)
-[Surface Mount Soldering : CuriousInventor Guides](http://store.curiousinventor.com/guides/Surface_Mount_Soldering)
-
 [10 STUPID ERRORS To AVOID in Soldering and TIPS - YouTube](https://www.youtube.com/watch?v=Fp37DPZVdRI)
 [Do This Before You Solder Anything - YouTube](https://www.youtube.com/watch?v=jz67KgHzXVw)
 

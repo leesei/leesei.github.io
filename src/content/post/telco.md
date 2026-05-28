@@ -2,7 +2,7 @@
 title: Telecommunication
 description: ""
 created: 2019-06-13
-updated: 2025-01-09
+updated: 2026-03-25
 tags:
   - 4g
   - 5g
@@ -64,6 +64,8 @@ Chinese government gives different bandwidth to different providers for differen
 [5G will augment Wi-Fi, not replace it | Network World](https://www.networkworld.com/article/3399978/5g-will-augment-wi-fi-not-replace-it.html)
 
 [凭什么？！只有美版 iPhone12 才有毫米波？【全方位了解毫米波和 5G 技术】 - YouTube](https://www.youtube.com/watch?v=JFHXMqm_Iwc)
+
+[5G 是一場世紀騙局嗎？花費數千億美金，為什麼我們卻「完全沒感覺」？ - YouTube](https://www.youtube.com/watch?v=u9XOFIEzY7o)
 
 ---
 

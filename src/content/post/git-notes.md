@@ -2,7 +2,7 @@
 title: Git notes
 description: Git is a content addressable file system
 created: 2014-12-11
-updated: 2025-10-10
+updated: 2026-05-05
 tags:
   - app
   - git
@@ -266,6 +266,10 @@ You can name you custom script as `git-mycmd`, place it in you PATH and use `git
 
 [VFS for Git: Git at Enterprise Scale](https://vfsforgit.org/) formerly GVFS
 [Microsoft/VFSForGit: Virtual File System for Git: Enable Git at Enterprise Scale](https://github.com/Microsoft/VFSForGit)
+
+## Client Libraries
+
+[go-git/go-git: A highly extensible Git implementation in pure Go.](https://github.com/go-git/go-git)
 
 ---
 

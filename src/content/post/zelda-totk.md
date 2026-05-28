@@ -2,7 +2,7 @@
 title: "Zelda: Tears of the Kingdom"
 description: ""
 created: 2023-06-06
-updated: 2025-01-09
+updated: 2026-05-05
 tags:
   - games
   - nintendo
@@ -137,7 +137,7 @@ Red Arcade
 
 [Zelda TOTK - YouTube](https://www.youtube.com/playlist?list=PLAp_O-WDBQLDk0owRTliK7G7FUrKuFS6q) Top Gaming Plays
 
-[SupaArcade Switch - YouTube](https://www.youtube.com/@supaarcadeswitch/featured)
+[SupaArcade Switch - YouTube](https://www.youtube.com/@supaarcadeswitch)
 
 ## Sages
 

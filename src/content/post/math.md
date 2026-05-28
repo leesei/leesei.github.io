@@ -2,7 +2,7 @@
 title: Mathematics
 description: ""
 created: 2017-10-31
-updated: 2026-01-31
+updated: 2026-05-28
 tags:
   - math
 ---
@@ -74,6 +74,8 @@ Uncountably infinite (2^ℵ): 1-1 correspondence with Real Numbers, non-enumerab
 [这是一个数学无法回答的问题 #高等数学 #math - YouTube](https://www.youtube.com/watch?v=8S_wP7aHl9A)
 Continuum Hypothesis: no set has cardinality between ℵ₀ and 2^ℵ
 Godel proved we cannot disprove it, Cohen proved we cannot prove it
+
+[Infinity isn’t a number. It's something much weirder. - YouTube](https://www.youtube.com/watch?v=IqU9onfl5eA)
 
 [Why can't you divide by zero? - TED-Ed - YouTube](https://www.youtube.com/watch?v=NKmGVE85GUU)
 
@@ -338,7 +340,7 @@ data set that creates same simple statistics but are totally different
 
 [拉普拉斯妖为何不存在？有办法消除随机吗？柯氏复杂度的不可计算性 - YouTube](https://www.youtube.com/watch?v=WBJoNNz8D48) randomness, Kolmogorov complexity
 
-### p-value
+### p-value/Significant Level
 
 p-value is the probability that random chance generated the data, or something else that is equal or rarer.
 
@@ -350,11 +352,14 @@ p-value is the probability that random chance generated the data, or something e
 [False Discovery Rates, FDR, clearly explained - YouTube](https://www.youtube.com/watch?v=K8LQSvtjcEo)
 [p-hacking and power calculations - YouTube](https://www.youtube.com/watch?v=UFhJefdVCjE)
 
+[“P 小于0.05” 是怎么批量制造学术垃圾的 - YouTube](https://www.youtube.com/watch?v=rCy_bv2T7hs)
+
 ### Central Limit Theorem
 
 [Central limit theorem - Wikiwand](https://www.wikiwand.com/en/Central%20Limit%20Theorem)
 
 [But what is the Central Limit Theorem? - YouTube](https://www.youtube.com/watch?v=zeJD6dqJ5lo)
+[【漫士】大数定律：凭什么看末位数字就能打假论文？ - YouTube](https://www.youtube.com/watch?v=j7qY0BXeoO8)
 
 ### Benford's Law
 

@@ -2,7 +2,7 @@
 title: Coffee
 description: ""
 created: 2016-07-23
-updated: 2025-11-15
+updated: 2026-03-13
 tags:
   - coffee
   - food

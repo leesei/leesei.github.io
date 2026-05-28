@@ -2,7 +2,7 @@
 title: Distributed File Systems
 description: ""
 created: 2015-05-20
-updated: 2025-11-18
+updated: 2026-03-16
 tags:
   - file-system
   - linux
@@ -45,8 +45,13 @@ tags:
 
 ## Ceph
 
+> use Rook for Kubernetes deployment
+
 [Ceph (software) - Wikiwand](<https://www.wikiwand.com/en/Ceph_(software)>)
 [ceph.com](http://ceph.com/)
+[Ceph.io — Documentation](https://ceph.com/en/users/documentation/)
+[Welcome to Ceph — Ceph Documentation](https://docs.ceph.com/en/latest/)
+
 Ceph is a flexible object storage system, with four access methods: Amazon S3 RESTful API, CephFS, Rados Block Device and iSCSI gateway.
 
 > Note that ceph has several aspects: `rados` is the underlying object-storage, quite solid and libraries for most languages; `radosgw` is an S3/Swift compatible system; `rbd` is a shared-block-storage (similar to iSCSI, supported by KVM, OpenStack, and others); CephFS is the POSIX-compliant mountable filesystem.
@@ -58,8 +63,6 @@ Ceph is a flexible object storage system, with four access methods: Amazon S3 RE
 
 [Bootstrap your Ceph cluster in Docker](http://ceph.com/planet/bootstrap-your-ceph-cluster-in-docker/)
 [ceph/ceph-docker: Docker files and images to run Ceph in containers](https://github.com/ceph/ceph-docker)
-
-> use Rook
 
 [Ceph Intro and Architectural Overview by Ross Turk - YouTube](https://www.youtube.com/watch?v=OyH1C0C4HzM)
 [Ceph Intro & Architectural Overview - YouTube](https://www.youtube.com/watch?v=7I9uxoEhUdY)

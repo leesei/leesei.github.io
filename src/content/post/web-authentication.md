@@ -2,7 +2,7 @@
 title: Web Authentication
 description: ""
 created: 2016-01-21
-updated: 2025-11-11
+updated: 2026-05-14
 tags:
   - authentication
   - security
@@ -121,10 +121,13 @@ Based on [Zanzibar](https://research.google/pubs/pub48190/), Google’s Consiste
 
 [Bruteforcing MFA & Fail2ban Manipulation - TryHackMe! (Biteme) - YouTube](https://www.youtube.com/watch?v=vAlkrw-o7m4)
 
+[beemdevelopment/Aegis: A free, secure and open source app for Android to manage your 2-step verification tokens.](https://github.com/beemdevelopment/Aegis)
+
 ## TOTP
 
 [Time-based One-time Password algorithm - Wikiwand](https://www.wikiwand.com/en/Time-based_One-time_Password_algorithm)
-[RFC 6238: TOTP: Time-Based One-Time Password Algorithm](https://datatracker.ietf.org/doc/html/rfc6238)
+[RFC 6238 - TOTP: Time-Based One-Time Password Algorithm](https://datatracker.ietf.org/doc/html/rfc6238)
+[RFC 4226 - HOTP: An HMAC-Based One-Time Password Algorithm](https://datatracker.ietf.org/doc/html/rfc4226)
 
 [Google Authenticator - Wikiwand](https://www.wikiwand.com/en/Google_Authenticator)
 [Google 2-Step Verification](https://www.google.com/landing/2step/)
@@ -750,21 +753,3 @@ Auth0 is the owner of Node.js `jsonwebtoken` module.
 [kumar303/mohawk: Python library for Hawk HTTP authorization](https://github.com/kumar303/mohawk)
 
 [outmoded/oz: Web Authorization Protocol](https://github.com/outmoded/oz)
-
-## Self-sovereign identity/SSI
-
-Blockchain can be used as Public Key Infrastructure (PKI), but not the necessary condition.
-
-[Self-sovereign identity - Wikiwand](https://www.wikiwand.com/en/Self-sovereign_identity)
-[Self Sovereign Identity & Decentralized Identity - An Unlimited Guide - 101 Blockchains](https://101blockchains.com/self-sovereign-identity-and-decentralized-identity/)
-[What is self-sovereign identity? Definition from WhatIs.com](https://www.techtarget.com/searchsecurity/definition/self-sovereign-identity)
-
-[SSI and Digital wallets](https://twit.tv/shows/floss-weekly/episodes/670)
-[Frontiers of Trust](https://twit.tv/shows/floss-weekly/episodes/673)
-
-[Trust Over IP - Defining a complete architecture for Internet-scale digital trust](https://trustoverip.org/)
-[Sovrin Governance Framework - Sovrin](https://sovrin.org/library/sovrin-governance-framework/)
-
-[Decentralized Identifiers (DIDs) v1.0](https://w3c.github.io/did-core/) rejected by Google, Apple and Mozilla as there are too many (> 150) verification protocols, some requiring blockchain
-
-[Find an Ethereum Wallet | ethereum.org](https://ethereum.org/en/wallets/find-wallet/)

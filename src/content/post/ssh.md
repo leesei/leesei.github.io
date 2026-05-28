@@ -2,7 +2,7 @@
 title: SSH
 description: ""
 created: 2014-12-17
-updated: 2025-12-17
+updated: 2026-05-05
 tags:
   - app
   - shell-tool
@@ -29,8 +29,8 @@ tags:
 [networking - How can I specify a local port when establishing SSH connections? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/526745/how-can-i-specify-a-local-port-when-establishing-ssh-connections)
 
 [Mosh: the mobile shell](https://mosh.org/)
-[What Is the Mosh Shell and How Do You Use It?](https://www.cloudsavvyit.com/1224/what-is-the-mosh-shell-and-how-do-you-use-it/amp/)
-[TimeToogo/tunshell: Remote shell into ephemeral environments 🐚 🦀](https://github.com/TimeToogo/tunshell)
+[mobile-shell/mosh: Mobile Shell](https://github.com/mobile-shell/mosh)
+[What Is the Mosh Shell and How Do You Use It?](https://www.howtogeek.com/devops/what-is-the-mosh-shell-and-how-do-you-use-it/)
 
 [SSH Tips & Tricks](https://smallstep.com/blog/ssh-tricks-and-tips/)
 
@@ -61,11 +61,24 @@ sequenceDiagram
 [Secure Shell (secsh)](https://datatracker.ietf.org/wg/secsh/documents/)
 [RFC 4251 - The Secure Shell (SSH) Protocol Architecture](https://datatracker.ietf.org/doc/html/rfc4251/)
 [RFC 4252 - The Secure Shell (SSH) Authentication Protocol](https://datatracker.ietf.org/doc/html/rfc4252/)
-[RFC 4253 - The Secure Shell (SSH) Transport Layer Protocol](https://datatracker.ietf.org/doc/html/rfc4253/)
+[RFC 4253 - The Secure Shell (SSH) Transport Layer Protocol](https://datatracker.ietf.org/doc/html/rfc4253/) packet, key exchange
 [RFC 4254 - The Secure Shell (SSH) Connection Protocol](https://datatracker.ietf.org/doc/html/rfc4254/)
-[RFC 4419 - Diffie-Hellman Group Exchange for the Secure Shell (SSH) Transport Layer Protocol](https://datatracker.ietf.org/doc/html/rfc4419#section-6.2)
+[RFC 4419 - Diffie-Hellman Group Exchange for the Secure Shell (SSH) Transport Layer Protocol](https://datatracker.ietf.org/doc/html/rfc4419)
+[RFC 5656 - Elliptic Curve Algorithm Integration in the Secure Shell Transport Layer](https://datatracker.ietf.org/doc/html/rfc5656)
+[RFC 8731 - Secure Shell (SSH) Key Exchange Method Using Curve25519 and Curve448](https://datatracker.ietf.org/doc/html/rfc8731)
 
-## `ssh_config`
+> see [[crypto-pqc#PQC SSH adoption]]
+
+## SSH Client/`ssh_config`
+
+```sh
+ssh -Q cipher       # List supported ciphers
+ssh -Q mac          # List supported MACs
+ssh -Q key          # List supported public key types
+ssh -Q kex          # List supported key exchange algorithms
+
+ssh -G {server}       # Query the configuration that ssh is actually using
+```
 
 [Using the SSH Config File | Linuxize](https://linuxize.com/post/using-the-ssh-config-file/)
 [Simplify Your Life With an SSH Config File | Nerderati](http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
@@ -73,6 +86,28 @@ sequenceDiagram
 [ssh_config(5): OpenSSH SSH client config files - Linux man page](https://linux.die.net/man/5/ssh_config)
 
 [moul/advanced-ssh-config: make your ssh client smarter](https://github.com/moul/advanced-ssh-config)
+
+[Hardening your client SSH config file | by Ben Montour | Medium](https://medium.com/@benmontour/hardening-your-client-ssh-config-file-43eb596425d4)
+
+### Parallel SSH
+
+> poor-man's Ansible
+
+[lilydjwg/pssh: Parallel SSH Tools](https://github.com/lilydjwg/pssh)
+[pssh(1): parallel ssh program - Linux man page](https://linux.die.net/man/1/pssh)
+
+[How to use parallel ssh (PSSH) for executing commands in parallel on a number of Linux/Unix/BSD servers - nixCraft](https://www.cyberciti.biz/cloud-computing/how-to-use-pssh-parallel-ssh-program-on-linux-unix/)
+
+## SSH Server
+
+[SSH Security Best Practices using Certificates, 2FA and Bastions](https://goteleport.com/blog/how-to-ssh-properly/)
+[SSH Security Best Practices: Protect Your Remote Access Infrastructure](https://tailscale.com/learn/ssh-security-best-practices-protecting-your-remote-access-infrastructure)
+[10 Essential SSH Server Security Tips & Best Practices | by Abdul Issa | InfoSec Write-ups](https://infosecwriteups.com/10-essential-ssh-server-security-tips-best-practices-b5643e3d509b#470e)
+[Advanced SSH Configuration and Security Best Practices – Jadaptive Limited](https://jadaptive.com/advanced-ssh-configuration-and-security-best-practices/)
+
+### `sshd_config`
+
+[sshd_config is the OpenSSH server configuration file. How to configure and troubleshoot. Avoid getting accidentally locked out of remote server.](https://www.ssh.com/academy/ssh/sshd_config)
 
 ## force password login
 
@@ -89,9 +124,9 @@ You can specify host alias, user and id in `~/.ssh/config`:
 
 ```
 Host 64.28
-    HostName 10.6.64.28
-    User kylee
-    IdentityFile ~/.ssh/kylee.id_rsa
+  HostName 10.6.64.28
+  User kylee
+  IdentityFile ~/.ssh/kylee.id_rsa
 ```
 
 I now use this setting instead of multiple global `IdentityFile` entries.
@@ -102,10 +137,10 @@ Also see `ssh-copy-id` command instead of using `scp` as below.
 It handles pushing public key to server and properly setting the permissions of the key.
 
 With CA signed cert and not personal SSH cert
-[SSH Recipes in Go — An interlude – Tarka Labs Blog – Medium](https://medium.com/tarkalabs/ssh-recipes-in-go-an-interlude-6fa88a03d458)
-[Signed SSH Certificates - SSH - Secrets Engines - Vault by HashiCorp](https://www.vaultproject.io/docs/secrets/ssh/signed-ssh-certificates.html)
+[Using SSH certificates — (SSH Recipes in Go) — An interlude | by Vagmi Mudumbai | Tarka Labs Blogs](https://blog.tarkalabs.com/ssh-recipes-in-go-an-interlude-6fa88a03d458)
+[Signed SSH certificates | Vault | HashiCorp Developer](https://developer.hashicorp.com/vault/docs/secrets/ssh/signed-ssh-certificates)
 [Improving security by drawing identicons for SSH keys - DEV Community 👩‍💻👨‍💻](https://dev.to/krofdrakula/improving-security-by-drawing-identicons-for-ssh-keys-24mc)
-[How to Lock Down Your SSH Server](https://www.cloudsavvyit.com/363/how-to-lock-down-your-ssh-server/amp/)
+[How to Lock Down Your SSH Server](https://www.howtogeek.com/devops/how-to-lock-down-your-ssh-server/)
 
 ### on client
 
@@ -175,11 +210,10 @@ use `-t` to allocate pesudo-terminal to enter password
 ssh -t SERVER "sudo COMMAND"
 ```
 
-## `sshd_config`
-
-[sshd_config is the OpenSSH server configuration file. How to configure and troubleshoot. Avoid getting accidentally locked out of remote server.](https://www.ssh.com/academy/ssh/sshd_config)
-
 ## SSH Tunneling
+
+[Tunshell - Remote shell into ephemeral environments](https://tunshell.com/)
+[TimeToogo/tunshell: Remote shell into ephemeral environments 🐚 🦀](https://github.com/TimeToogo/tunshell)
 
 [How an SSH tunnel can bypass firewalls, add encryption to application protocols, and help access services remotely.](https://www.ssh.com/academy/ssh/tunneling)
 [Quick-Tip: SSH Tunneling Made Easy](https://www.revsys.com/writings/quicktips/ssh-tunnel.html)
@@ -205,13 +239,16 @@ allows you to forward a **local** port number to a remote server
 
 ```sh
 # `localhost:3306` (at `server.com`) is accessible at `localhost:8000`
-$ ssh -fNT4 -L 127.0.0.1:8000:localhost:3306 user@server.com
+$ ssh -fNT4 -L localhost:8000:localhost:3306 user@server.com
 # expose remote service via local server
 $ ssh -fNT4 -L 0.0.0.0:3306:127.0.0.1:3306 coolio@database.server.com
 $ ssh -NT -L 127.0.0.1:8000:127.0.0.1:27017 kylee@192.168.2.233
 
 # Access `restricted-domain.com:80` via `remote-server.com`, exposed at `localhost:8000`
 $ ssh -L 8000:restricted-domain.com:80 user@remote-server.com
+
+# to kill tunnel
+ps ax | grep ssh | grep -- "-fNT4 -L"
 ```
 
 ```sh
@@ -302,7 +339,7 @@ You should look into the `ClientAliveInterval` keyword for `sshd_config` and the
 
 ```
 Host *
-ServerAliveInterval 60
+  ServerAliveInterval 60
 ```
 
 `ssh -o TCPKeepAlive=yes -o ServerAliveInterval=300`

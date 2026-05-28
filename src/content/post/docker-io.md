@@ -2,7 +2,7 @@
 title: Docker.io
 description: Tools provided by Docker.io
 created: 2014-12-11
-updated: 2025-10-20
+updated: 2026-05-05
 tags:
   - container
   - dev/deploy
@@ -13,7 +13,9 @@ tags:
 
 [Mirantis acquires Docker Enterprise – TechCrunch](https://techcrunch.com/2019/11/13/mirantis-acquires-docker-enterprise/amp/)
 
-[Container Orchestration with Docker and Swarm](http://container.training/swarm-selfpaced.yml.html#1) ❗!important
+[Container Training](https://container.training/)
+[Container Orchestration with Docker and Swarm](https://container.training/swarm-selfpaced.yml.html) ❗!important
+
 [Docker Swarm Workshop](http://vfarcic.github.io/docker-swarm/#/cover)
 
 [Docker Playground](http://labs.play-with-docker.com/)
@@ -97,8 +99,8 @@ Docker 1.12 (June 2016) included _Swarm mode_ (via SwarmKit) for Swarm capabilit
 [Comparing Swarm, Swarmkit and Swarm Mode | Sreenivas Makam's Blog](https://sreeninet.wordpress.com/2016/07/14/comparing-swarm-swarmkit-and-swarm-mode/)
 [swarm/README.md at master · docker/swarm](https://github.com/docker/swarm/blob/master/README.md#swarm-disambiguation)
 [Docker tutorial: Get started with Docker swarm mode | InfoWorld](https://www.infoworld.com/article/3259872/containers/docker-tutorial-get-started-with-docker-swarm-mode.html)
-[Container Orchestration with Docker and Swarm](http://container.training/swarm-selfpaced.yml.html)
-[What is Docker Swarm Mode and When Should You Use It? – CloudSavvy IT](https://www.cloudsavvyit.com/13049/what-is-docker-swarm-mode-and-when-should-you-use-it/)
+[Container Orchestration with Docker and Swarm](https://container.training/swarm-selfpaced.yml.html)
+[What is Docker Swarm Mode and When Should You Use It?](https://www.howtogeek.com/devops/what-is-docker-swarm-mode-and-when-should-you-use-it/) 2021
 
 [Overview - User Guide| Alibaba Cloud Documentation Center](https://www.alibabacloud.com/help/doc-detail/52580.htm) Docker Swarm standalone vs Swarm mode
 [Docker Swarm vs Swarm Mode | Neil Cresswell | Pulse | LinkedIn](https://www.linkedin.com/pulse/docker-swarm-vs-mode-neil-cresswell/)

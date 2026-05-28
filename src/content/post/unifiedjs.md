@@ -1,7 +1,8 @@
 ---
 title: Unified
-description: "Content as structured data"
+description: Content as structured data
 created: 2025-11-14
+updated: 2026-04-21
 tags:
   - comp/lang
   - markdown
@@ -35,6 +36,8 @@ tags:
 
 ## Remark
 
+> processes the Markdown AST
+
 [remark](https://github.com/remarkjs)
 [remarkjs/remark: remark is a popular tool that transforms markdown with plugins. These plugins can inspect and change your markup. You can use remark on the server, the client, CLIs, deno, etc.](https://github.com/remarkjs/remark) markdown processor powered by a plugins ecosystem
 [Change to use `micromark` by wooorm · Pull Request #536 · remarkjs/remark](https://github.com/remarkjs/remark/pull/536)
@@ -54,6 +57,8 @@ tags:
 [JulianCataldo/remark-lint-frontmatter-schema: Validate your Markdown frontmatter data against a JSON schema — remark-lint rule plugin](https://github.com/JulianCataldo/remark-lint-frontmatter-schema) VS Code plugin
 
 ## Rehype
+
+> processes the Hypertext AST
 
 [rehype](https://github.com/rehypejs)
 [rehypejs/rehype: HTML processor powered by plugins part of the @unifiedjs collective](https://github.com/rehypejs/rehype) HTML processor powered by a plugin ecosystem

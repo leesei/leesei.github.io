@@ -2,7 +2,7 @@
 title: Microsoft Apps
 description: ""
 created: 2020-08-23
-updated: 2025-10-27
+updated: 2026-05-04
 tags:
   - apps
   - microsoft
@@ -89,6 +89,7 @@ calender
 [Once you understand SCAN in Excel, you’ll never build formulas the same way](https://www.makeuseof.com/understand-scan-in-excel/) `reduce()`
 [Old Excel functions you should stop using (and what to replace them with)](https://www.makeuseof.com/replace-old-excel-functions-with-new/) XLOOKUP > VLOOKUP, IFS > IF, TEXTJOIN > CONCATENATE, FILTER and UNIQUE, TEXTSPLIT, TEXTBEFORE, and TEXTAFTER
 [You’re not using Excel right until you master these error functions](https://www.makeuseof.com/handle-excel-errors-smartly/)
+[Excel's LET function is the most underrated thing in the entire program](https://www.makeuseof.com/excels-let-function-most-underrated-entire-program/)
 
 [How to Use XLOOKUP With Multiple Criteria in Excel](https://www.howtogeek.com/microsoft-excel-xlookup-multiple-criteria/)
 

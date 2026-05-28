@@ -2,7 +2,7 @@
 title: Cyber Security
 description: ""
 created: 2022-12-31
-updated: 2026-03-10
+updated: 2026-05-23
 tags:
   - security
 ---
@@ -28,6 +28,8 @@ Cyber attack lifecycle/kill chain
 [What's The Difference Between Cybersecurity Vs Information Security?](https://www.bizmanualz.com/better-disaster-security-planning/whats-difference-between-cyber-security-vs-information-security.html)
 Cyber security targets online threats while information security takes a holistic approach.
 
+[Essential Skills Every Hacker Should Master | Black Hat Ethical Hacking](https://www.blackhatethicalhacking.com/articles/essential-skills-every-hacker-should-master/)
+
 [carpedm20/awesome-hacking: A curated list of awesome Hacking tutorials, tools and resources](https://github.com/carpedm20/awesome-hacking)
 [onlurking/awesome-infosec: A curated list of awesome infosec courses and training resources.](https://github.com/onlurking/awesome-infosec)
 
@@ -35,6 +37,7 @@ Cyber security targets online threats while information security takes a holisti
 [DEFCONConference - YouTube](https://www.youtube.com/@DEFCONConference)
 [Black Hat - YouTube](https://www.youtube.com/@BlackHatOfficialYT)
 [Cybernews - YouTube](https://www.youtube.com/@cybernews)
+[Update Your Security I.Q. - CyberArk Resource Center](https://www.cyberark.com/resources)
 
 [OpenSecurityTraining2](https://opensecuritytraining.info/)/[OpenSecurityTraining2](https://p.ost2.fyi/)
 [OpenSecurityTraining2 - YouTube](https://www.youtube.com/@OpenSecurityTraining)
@@ -102,7 +105,7 @@ NetworkChuck
 
 1: Categories 2 and 4 target hash collision resistance at the 128-bit and 192-bit levels, respectively, rather than a symmetric key search. This distinction exists because certain attacks (especially on digital signatures or hash-based designs) are limited by how hard it is to find any two inputs with the same hash output, as opposed to guessing a specific secret key. NIST treated collision search separately to ensure such scenarios are covered. Notably, NIST assumes the ordering 1 < 2 < 3 < 4 < 5 in strength; for example, a brute-force collision on SHA-256 (Category 2) is expected to become feasible sooner than a brute-force key search on AES-192 (Category 3).
 
-![](./cyber-security/US-NIST-Round-3-DSAs-The-NIST-Level-shows-the-NIST-security-level-according-to-Table-1.png)
+![](./_assets/cyber-security/US-NIST-Round-3-DSAs-The-NIST-Level-shows-the-NIST-security-level-according-to-Table-1.png)
 
 ## Glossaries
 
@@ -244,6 +247,7 @@ The focus of the last 3 stages is _DETECTION and RESPONSE_.
 [Learn to Hack](https://www.hacksplaining.com/)
 
 [An Interactive Cyber Security Platform | Defend the Web](https://defendtheweb.net/) originally HackThis!!
+[Courses | Black Hat Ethical Hacking](https://www.blackhatethicalhacking.com/courses/)
 
 [OverTheWire: Wargames](https://overthewire.org/wargames/)
 
@@ -294,6 +298,7 @@ The focus of the last 3 stages is _DETECTION and RESPONSE_.
 [Tyler Ramsbey || Hack Smarter - YouTube](https://www.youtube.com/@TylerRamsbey)
 [webpwnized - YouTube](https://www.youtube.com/user/webpwnized)
 [x33fcon - YouTube](https://www.youtube.com/@x33fcon)
+[Nullvora - YouTube](https://www.youtube.com/@Nullvora) 2026-05, new
 
 [Jack Rhysider - YouTube](https://www.youtube.com/@JackRhysider/) hacker story
 
@@ -323,6 +328,7 @@ The focus of the last 3 stages is _DETECTION and RESPONSE_.
 > Comptia Sec+, Cysa+, CASP are all respectful certifications but Pentest+ ... won't teach you how to pen test.
 
 [Cyber Security Certificate Tier List - YouTube](https://www.youtube.com/watch?v=VBH5fEsfs18)
+[InfoSec: Security Certifications](https://www.infosec.gov.hk/en/useful-resources/security-certifications)
 
 [Course Specific Resources for Offsec Students – OffSec Support Portal](https://help.offsec.com/hc/en-us/categories/6965809783316-Course-Specific-Resources-for-Offsec-Students)
 
@@ -385,10 +391,16 @@ The focus of the last 3 stages is _DETECTION and RESPONSE_.
 
 [Get CISSP Certified: A Self-Study Guide to Success | Schellman](https://www.schellman.com/blog/cybersecurity/get-cissp-certified-a-self-study-guide-to-success)
 
+### Certified Information Security Professional (CISP)
+
+> China's CISSP
+
+[注册信息安全专业人员（CISP） - 【官网】国家信息安全水平考试NISP—NISP全国运营中心](https://www.nisphome.cn/article-detail?id=143)
+[Certified Information Security Professional_Baiduwiki](https://baike.baidu.com/en/item/Certified%20Information%20Security%20Professional/1424474)
+
 ### CompTIA Security+
 
-https://www.comptia.org/certifications/security
-[Attention Required! | Cloudflare](https://www.comptia.org/certifications/security)
+[Security+ (Plus) Certification | CompTIA](https://www.comptia.org/en-us/certifications/security/)
 
 ### Certified Ethical Hacker (CEH)
 
@@ -396,6 +408,14 @@ https://www.comptia.org/certifications/security
 
 [CEH Certification | Ethical Hacking Training & Course | EC-Council](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/)
 [Certified Ethical Hacker Online Training | CEH Training](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/)
+
+## ISO 27001
+
+[ISO/IEC 27001 Lead Auditor - Wikiwand](https://www.wikiwand.com/en/ISO/IEC_27001_Lead_Auditor)
+[New Grad Student Seeking Guidance: How to Become an ISO 27001 Auditor : r/ISO27001](https://www.reddit.com/r/ISO27001/comments/1kt9l70/new_grad_student_seeking_guidance_how_to_become/)
+[What are the opportunities like for an ISO 27001 Lead Auditor and what materials can I use to prepare? : r/ISO27001](https://www.reddit.com/r/ISO27001/comments/1fa4bjz/what_are_the_opportunities_like_for_an_iso_27001/)
+
+[Tech career hack: why ISO auditing is the most underrated high-income and high demand skill - YouTube](https://www.youtube.com/watch?v=wBSAkshAPaM)
 
 ### Burp Suite Certified Practitioner
 
@@ -566,14 +586,20 @@ curl --request GET --url https://www.cybersechub.hk/api/getFeed?keywords=<keywor
 
 [Snort - Network Intrusion Detection & Prevention System](https://www.snort.org/)
 
-[The Zeek Network Security Monitor](https://zeek.org/)
-[Zeek Documentation — Book of Zeek](https://docs.zeek.org/en/current/)
-[zeek/zeek: Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.](https://github.com/zeek/zeek)
-
 [CrowdSec - The open-source & collaborative security suite](https://www.crowdsec.net/)
 [How to Install and Configure CrowdSec on OPNsense](https://homenetworkguy.com/how-to/install-and-configure-crowdsec-on-opnsense/)
 
 [oisd | domain blocklist](https://oisd.nl/)
+
+### Zeek
+
+> also for network packet analysis
+
+[The Zeek Network Security Monitor](https://zeek.org/)
+[Zeek Documentation — Book of Zeek](https://docs.zeek.org/en/current/)
+[Zeek - YouTube](https://www.youtube.com/@Zeekurity)
+
+[Zeek Scripting Tutorial: Learn the Fundamentals - YouTube](https://www.youtube.com/watch?v=nae8cdrUUKY)
 
 #### Suricata
 
@@ -686,11 +712,72 @@ sudo suricata-update   # Do not forget to update rules after activating source
 
 [Open Source & Software Supply Chain Risks Blog | Synopsys](https://www.synopsys.com/blogs/software-security/category/open-source-and-software-supply-chain-risks/)
 [Snyk Vulnerability Database | Snyk](https://security.snyk.io/)
+[Socket - Block zero-day supply chain attacks](https://socket.dev/)
+
+[Device Protection for developer workstations | Aikido Security](https://www.aikido.dev/protect/device-protection)
+[AikidoSec/safe-chain: Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. · GitHub](https://github.com/AikidoSec/safe-chain)
 
 [Home · Sigstore](https://www.sigstore.dev/)
 [sigstore/rekor: Software Supply Chain Transparency Log](https://github.com/sigstore/rekor)
 
+GitHub's CI/CD is pawned by cache poisoning with malicious pull request (`pull_request_target`), this is used to spread Mini Shai-Hulud worm and affected many NPM, PyPI and Rust packages
+[This is bad... - YouTube](https://www.youtube.com/watch?v=XKA94rcu8b8)
+[Mini Shai-Hulud: The Worm Returns and Goes Public | Akamai](https://www.akamai.com/blog/security-research/mini-shai-hulud-worm-returns-goes-public)
+[A Mini Shai-Hulud Has Appeared: Obfuscated Bun Runtime Payloads Hit SAP-Related npm Packages - StepSecurity](https://www.stepsecurity.io/blog/a-mini-shai-hulud-has-appeared)
+
+Poisoning of LLM prompt to infect CI/CD pipeline
+[The problem with AI agents.. - YouTube](https://www.youtube.com/watch?v=74FjlxQgftg)
+
+GitHub staff is pawned by malicious VS Code extension
+[The Wild West of VS Code extensions and how a poisoned extension breached GitHub](https://www.aikido.dev/blog/vs-code-extension-github-breach)
+
 [npm audit: Broken by Design — Overreacted](https://overreacted.io/npm-audit-broken-by-design/) audit tools should not cause noise
+
+[Package Managers are Evil - gingerBill](https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/)
+[It just keeps getting worse - YouTube](https://www.youtube.com/watch?v=Ws-Nc9S8i_Y)
+
+### Exclude New Packages
+
+#### `bun`
+
+```sh
+# 259200 = 3600 * 24 * 3 (3 days in seconds)
+bun add <package> --minimum-release-age 259200
+bun update --minimum-release-age 259200
+```
+
+In `bunfig.toml`:
+
+```toml
+[install]
+minimumReleaseAge = 259200 # 3 days (in seconds)
+```
+
+#### `pnpm`
+
+> Since v11, `minimumReleaseAge` is defaulted to 1440 (one day)
+
+In `pnpm-workspace.yaml`:
+
+```yaml
+# 4320 = 60 * 24 * 3 (3 days in minutes)
+minimumReleaseAge: 4320
+```
+
+#### `uv`
+
+```sh
+uv pip install --exclude-newer 2026-05-01T00:00:00Z <package>
+uv pip install --exclude-newer "1 week" <package>
+uv pip install --exclude-newer "3 days" <package>
+```
+
+Or in `pyproject.toml`:
+
+```toml
+[tool.uv]
+exclude-newer = "3 days"
+```
 
 ## Social Engineering
 
@@ -898,7 +985,9 @@ sudo suricata-update   # Do not forget to update rules after activating source
 [HoneyTrap | HoneyTrap](https://docs.honeytrap.io/)
 [honeytrap/honeytrap: Advanced Honeypot framework.](https://github.com/honeytrap/honeytrap?tab=License-1-ov-file#readme)
 
-[lyrebird/honeypot-base - Docker Image | Docker Hub](https://hub.docker.com/r/lyrebird/honeypot-base/) uses mitmproxy to capture SSH traffic
+[lyrebird/honeypot-base - Docker Image | Docker Hub](https://hub.docker.com/r/lyrebird/honeypot-base/) uses mitmproxy to capture SSH trpaffic
+
+[beelzebub-labs/beelzebub: A secure low code honeypot framework, leveraging AI for System Virtualization.](https://github.com/beelzebub-labs/beelzebub) MCP honeypot to detect prompt injection, use LLM to mimic high-interactive honeypot
 
 #### Honeynet Project
 
@@ -1079,6 +1168,8 @@ Hashcat: dictionary attack
 
 [Intro Trusted Computing - YouTube](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-kBgdLhorJD6BR66D5kGoUV) 2013-01
 
+[TPM (Trusted Platform Module) - Computerphile - YouTube](https://www.youtube.com/watch?v=RW2zHvVO09g)
+
 [All About TPMs](https://smallstep.com/blog/trusted-platform-modules-tpms/)
 [TrustedComputingGroup/TPM: TCG Trusted Platform Module](https://github.com/TrustedComputingGroup/TPM)
 [Trusted Computing 2202: TPM 2.0 Programming using Python and the tpm2-pytss libraries | OpenSecurityTraining2](https://ost2.fyi/TC2202)
@@ -1090,6 +1181,32 @@ Hashcat: dictionary attack
 
 [DICE | Trusted Computing Group](https://trustedcomputinggroup.org/work-groups/dice-architectures/)
 [TrustedComputingGroup/DICE: Device Identifier Composition Engine](https://github.com/TrustedComputingGroup/DICE)
+
+## Trusted Execution Environment
+
+[Intel SGX Processors](https://www.intel.com/content/www/us/en/architecture-and-technology/software-guard-extensions-processors.html)
+
+[Welcome | Confidential Computing 101](https://docs.enclaive.cloud/confidential-cloud)
+
+## Privacy-enhancing technologies (PET)
+
+> ISACA's Privacy-enhancing technologies (PET) seminar on 2026-05-14
+
+- Federated Learning
+- Secure Multi-Party Computation (SMPC)
+- Differential Privacy
+- Confidential Computing (Secure Enclaves/TEE)
+- Zero-Knowledge Proof
+- Anonymization and Pseudonymization
+
+[Privacy-enhancing technologies - Wikiwand](https://www.wikiwand.com/en/Privacy-enhancing_technologies)
+[What are privacy-enhancing technologies?](https://www.decentriq.com/article/what-are-privacy-enhancing-technologies)
+[ITIF Technology Explainer: What Are Privacy Enhancing Technologies? | Knowledge Base Articles | Sep 2, 2025 | ITIF](https://itif.org/publications/2025/09/02/itif-technology-explainer-privacy-enhancing-technologies/)
+[Privacy enhancing technologies | OECD](https://www.oecd.org/en/topics/privacy-enhancing-technologies.html)
+
+[Privacy Enhancing Technology Sandboxes | IMDA](https://www.imda.gov.sg/how-we-can-help/data-innovation/privacy-enhancing-technology-sandboxes)
+
+[A blockchain empowered and privacy preserving digital contact tracing platform - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S030645732100073X)
 
 ## Zero Trust Network
 
@@ -1104,13 +1221,15 @@ Workload id, service id
 - continuous monitoring
 
 [Zero Trust: Time to Get Rid of Your VPN – The New Stack](https://thenewstack.io/zero-trust-time-to-get-rid-of-your-vpn/)
-[ZTNA: What is Zero Trust Network Access? | Twingate](https://www.twingate.com/blog/ztna/)
+[Why Access Management Is Step One for Zero Trust Security – The New Stack](https://thenewstack.io/why-access-management-is-step-one-for-zero-trust-security/)
 [Why zero-trust models should replace legacy VPNs](https://searchcloudsecurity.techtarget.com/post/Why-zero-trust-models-should-replace-legacy-VPNs)
+[Zero Trust | Fundamental to Digital Trust | DigiCert Insights](https://www.digicert.com/insights/zero-trust)
 [Zero Trust Maturity Model | CISA](https://www.cisa.gov/publication/zero-trust-maturity-model)
 [The Death of the Corporate Network](https://auth0.com/blog/the-death-of-the-corporate-network/)
-[Architecting Network Connectivity for a Zero Trust Future | Twingate](https://www.twingate.com/blog/network-connectivity-for-zero-trust/)
-[Why Access Management Is Step One for Zero Trust Security – The New Stack](https://thenewstack.io/why-access-management-is-step-one-for-zero-trust-security/)
 [Zero Trust Data Exchange: Overview & Benefits](https://www.kiteworks.com/risk-compliance-glossary/zero-trust-data-exchange/)
+
+[ZTNA: What is Zero Trust Network Access? | Twingate](https://www.twingate.com/blog/ztna/)
+[Architecting Network Connectivity for a Zero Trust Future | Twingate](https://www.twingate.com/blog/network-connectivity-for-zero-trust/)
 
 [Guest Blog: k8s tunnels with Kudelski Security](https://blog.cloudflare.com/guest-blog-zero-trust-access-kubernetes/)
 
@@ -1278,6 +1397,8 @@ David Bombal
 [Getting started with the proxmark3 easy - DT Info - Dangerous Things Forum](https://forum.dangerousthings.com/t/getting-started-with-the-proxmark3-easy/9050)
 [RfidResearchGroup/proxmark3: Iceman Fork - Proxmark3](https://github.com/RfidResearchGroup/proxmark3)
 
+[Can you steal $10,000 from a locked iPhone? - YouTube](https://www.youtube.com/watch?v=PPJ6NJkmDAo) MitM and bits flipping to trick the phone and payment terminal, only works on iPhone's Transit Mode with Visa card which does not sign its message
+
 ## Binary Analysis/Malware Analysis/Reverse Engineering
 
 [[reverse-engineering]]
@@ -1309,6 +1430,18 @@ Low Level Learning
 [Open-Source Malware vs. Vulnerable Components: Knowing the Difference Matters](https://www.itprotoday.com/vulnerabilities-threats/open-source-malware-vs-vulnerable-components-knowing-the-difference-matters)
 [Linux Malware: What To Know About the Malware Threat](https://www.itprotoday.com/linux-os/linux-malware-what-to-know-about-the-malware-threat)
 [Linux Kernel Exploits: Common Threats and How To Prevent Them](https://www.itprotoday.com/vulnerabilities-threats/linux-kernel-exploits-how-attackers-gain-root-access-and-how-to-defend-against-it)
+
+## Vulnerability Scanners
+
+[CERT-Polska/Artemis: A modular vulnerability scanner with automatic report generation capabilities.](https://github.com/CERT-Polska/Artemis) websites
+
+[cisagov/thorium: A scalable file analysis and data generation platform that allows users to easily orchestrate arbitrary docker/vm/shell tools at scale.](https://github.com/cisagov/thorium)
+[mandiant/capa: The FLARE team's open-source tool to identify capabilities in executable files.](https://github.com/mandiant/capa)
+[fkie-cad/cwe_checker: cwe_checker finds vulnerable patterns in binary executables](https://github.com/fkie-cad/cwe_checker)
+[ssdeep-project/ssdeep: Fuzzy hashing API and fuzzy hashing tool](https://github.com/ssdeep-project/ssdeep)
+[mandiant/flare-floss: FLARE Obfuscated String Solver - Automatically extract obfuscated strings from malware.](https://github.com/mandiant/flare-floss)
+
+[Chekov: Open-source static code analysis tool - Help Net Security](https://www.helpnetsecurity.com/2025/10/02/chekov-open-source-static-code-analysis-tool-iac/)
 
 ## Vulnerability Database
 
@@ -1412,8 +1545,15 @@ How they work together
 
 ## Generative AI
 
+[red.anthropic.com](https://red.anthropic.com/)
+[AI for Cyber Defenders \ red.anthropic.com](https://red.anthropic.com/2025/ai-for-cyber-defenders/)
+[0-Days \ red.anthropic.com](https://red.anthropic.com/2026/zero-days/)
+[Making frontier cybersecurity capabilities available to defenders \ Anthropic](https://www.anthropic.com/news/claude-code-security)
+
 [AI and Cybersecurity: The Dual Role of Automation in Threat Mitigation and Attack Facilitation](https://www.itprotoday.com/vulnerabilities-threats/ai-and-cybersecurity-the-dual-role-of-automation-in-threat-mitigation-and-attack-facilitation)
 [Fortifying Your Organization Against AI-Driven Injection Attacks](https://www.itprotoday.com/vulnerabilities-threats/fortifying-your-organization-against-ai-driven-injection-attacks)
+[Become Mythos ready with agentic AI & exposure management | Tenable®](https://www.tenable.com/blog/5-steps-to-become-mythos-ready-ai-cybersecurity)
+[The Future of Network Security: Automated Internal and External Pentesting](https://thehackernews.com/2024/12/the-future-of-network-security.html?m=1)
 
 [Now Scammers Are Sending Bank-Draining Malware Through Snail Mail: Here's How](https://www.makeuseof.com/scammers-bank-draining-malware-snail-mail/)
 [AI and Serious Online Crime | Centre for Emerging Technology and Security](https://cetas.turing.ac.uk/publications/ai-and-serious-online-crime)
@@ -1425,14 +1565,74 @@ How they work together
 [Agentic AI Paves the Way for Sophisticated Cyberattacks](https://aibusiness.com/generative-ai/agentic-ai-paves-the-way-for-sophisticated-cyberattacks)
 [Get Ready, the AI Hacks Are Coming](https://gizmodo.com/get-ready-the-ai-hacks-are-coming-2000639625)
 
+Mythos from Anthropic
+[Claude Mythos Preview \ red.anthropic.com](https://red.anthropic.com/2026/mythos-preview/)
+[Mythos autonomously exploited vulnerabilities that survived 27 years of human review. Security teams need a new detection playbook | VentureBeat](https://venturebeat.com/security/mythos-detection-ceiling-security-teams-new-playbook)
+[I’m scared about the future of security - YouTube](https://www.youtube.com/watch?v=ND9CSuzvrIY)
+[Mythos finds a curl vulnerability | daniel.haxx.se](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/) Curl author tried Mythos, he thinks its a marketing stunt
+[Mythos has been unleashed (we have results) - YouTube](https://www.youtube.com/watch?v=IS4OgH74gY4)
+
+GPT‑5.4‑Cyber and Codex Security from OpenAI
+[Codex Security: now in research preview | OpenAI](https://openai.com/index/codex-security-now-in-research-preview/)
+[Trusted access for the next era of cyber defense | OpenAI](https://openai.com/index/scaling-trusted-access-for-cyber-defense/)
+
 [#No1 Fake Detail Generator | Get Whole New Fake Person Identity Generator](https://fakedetail.com/)
 
-[CyberNative/CyberBase-13b · Hugging Face](https://huggingface.co/CyberNative/CyberBase-13b)
+[Everything is pwn’d now - YouTube](https://www.youtube.com/watch?v=M_HxHr7du5M) LLM can easily monitor patches and determine if thay are security related and write PoC
+
+[publications/MADBugs at main · califio/publications](https://github.com/califio/publications/tree/main/MADBugs) Month of AI-Discovered Bugs
+
+[CyberNative (Byte)](https://huggingface.co/CyberNative) Dataset and CyberBase
+[CyberNative-AI (CyberNative AI)](https://huggingface.co/CyberNative-AI)
+[AlicanKiraz0/Seneca-Cybersecurity-LLM-Q4_K_M-GGUF · Hugging Face](https://huggingface.co/AlicanKiraz0/Seneca-Cybersecurity-LLM-Q4_K_M-GGUF)
 
 [trailofbits/buttercup](https://github.com/trailofbits/buttercup) AI-driven system for discovering and patching vulnerabilities
 [Buttercup is now open-source! -The Trail of Bits Blog](https://blog.trailofbits.com/2025/08/08/buttercup-is-now-open-source/)
 
-### Jailbreak
+[Open-Source AI Penetration Testing Framework | BlacksmithAI](https://bs.kahanlabs.com/)
+[yohannesgk/blacksmith: BlacksmithAI is an OPEN-SOURCE advanced penetration testing framework that leverages multiple AI agents to automate security assessments. The system orchestrates specialized agents through a complete penetration testing lifecycle, from reconnaissance to post-exploitation using professional security tools in a controlled environment.](https://github.com/yohannesgk/blacksmith)
+[BlacksmithAI: Open-source AI-powered penetration testing framework - Help Net Security](https://www.helpnetsecurity.com/2026/03/02/blacksmithai-open-source-ai-powered-penetration-testing-framework/)
+
+[VulHunt](https://vulhunt.re/)
+[vulhunt-re/vulhunt: Vulnerability detection framework by Binarly's REsearch team](https://github.com/vulhunt-re/vulhunt)
+[VulHunt: Open-source vulnerability detection framework - Help Net Security](https://www.helpnetsecurity.com/2026/03/16/vulhunt-open-source-vulnerability-detection-framework/)
+
+[AgentFlocks/flocks: Flocks is an agentic SecOps platform.](https://github.com/AgentFlocks/flocks)
+[国人搞了个AI安全运营平台，两周迭代12个版本](https://mp.weixin.qq.com/s/rKH0va4WmPzN_vltm-Kosg?from=groupmessage&scene=1&subscene=10000&sessionid=1776389356&clicktime=1776392598&enterid=1776392598&ascene=1&fasttmpl_type=0&fasttmpl_fullversion=8217173-zh_CN-zip&fasttmpl_flag=0&realreporttime=1776392598891&poc_token=HKmj4Wmj6ogFa27LbrFz3lHkTfAsmrVZ149P6l2t)
+
+### Benchmarks
+
+[LYiHub/OpenClaw-AWD-Arena: An automated Attack-with-Defense platform where LLM-powered agents compete in real-time. · GitHub](https://github.com/LYiHub/OpenClaw-AWD-Arena)
+[六个AI入侵服务器！谁是黑客之王？ - YouTube](https://www.youtube.com/watch?v=an7Dbkh7no4)
+
+[CyberGym](https://www.cybergym.io/)
+[sunblaze-ucb/cybergym: CyberGym is a large-scale, high-quality cybersecurity evaluation framework designed to rigorously assess the capabilities of AI agents on real-world vulnerability analysis tasks. · GitHub](https://github.com/sunblaze-ucb/cybergym)
+[[2506.02548] CyberGym: Evaluating AI Agents' Real-World Cybersecurity Capabilities at Scale](https://arxiv.org/abs/2506.02548)
+[CyberGym: The Future of AI-Driven Cybersecurity Benchmarks | by Rudra Tiwari | Apr, 2026 | Medium](https://medium.com/@rudratech/cybergym-the-future-of-ai-driven-cybersecurity-benchmarks-f13e7379cc6c)
+[CyberGym Benchmark Leaderboard](https://llm-stats.com/benchmarks/cybergym)
+
+#### Cybench
+
+[Cybench](https://cybench.github.io/)
+[[2408.08926] Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risks of Language Models](https://arxiv.org/abs/2408.08926)
+[andyzorigin/cybench](https://github.com/andyzorigin/cybench)
+
+#### CyberSecEval
+
+[2404.13161v1] CyberSecEval 2: A Wide-Ranging Cybersecurity Evaluation Suite for Large Language Models
+[CYBERSECEVAL 3: Advancing the Evaluation of Cybersecurity Risks and Capabilities in Large Language Models | Research - AI at Meta](https://ai.meta.com/research/publications/cyberseceval-3-advancing-the-evaluation-of-cybersecurity-risks-and-capabilities-in-large-language-models/)
+
+- benchmark to quantify LLM security
+  risks and capabilities
+- False Refusal Rate (FRR) of prompts
+- LLM's capabilities of exploiting software
+  vulnerabilities
+
+[CyberSecEval 3 | CyberSecEval 3](https://meta-llama.github.io/PurpleLlama/)
+[PurpleLlama/CybersecurityBenchmarks at main · meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks) ❗!important
+[meta-llama/PurpleLlama: Set of tools to assess and improve LLM security.](https://github.com/meta-llama/PurpleLlama)
+
+### Jailbreaking LLM
 
 [Universal and Transferable Attacks on Aligned Language Models](https://llm-attacks.org/)
 [[2307.15043] Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)
@@ -1456,21 +1656,6 @@ How they work together
 - CyberPal. AI, a family of cyber-security expert LLMs (Llama3 8B, Mistral 8B, ...)
 - SecKnowledge-Eval, evaluation datasets and public benchmarks
 - improvement of up to 24% in training-aligned tasks and up to 10% in public cyber-security benchmarks
-
-### CyberSecEval
-
-[2404.13161v1] CyberSecEval 2: A Wide-Ranging Cybersecurity Evaluation Suite for Large Language Models
-[CYBERSECEVAL 3: Advancing the Evaluation of Cybersecurity Risks and Capabilities in Large Language Models | Research - AI at Meta](https://ai.meta.com/research/publications/cyberseceval-3-advancing-the-evaluation-of-cybersecurity-risks-and-capabilities-in-large-language-models/)
-
-- benchmark to quantify LLM security
-  risks and capabilities
-- False Refusal Rate (FRR) of prompts
-- LLM's capabilities of exploiting software
-  vulnerabilities
-
-[CyberSecEval 3 | CyberSecEval 3](https://meta-llama.github.io/PurpleLlama/)
-[PurpleLlama/CybersecurityBenchmarks at main · meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks) ❗!important
-[meta-llama/PurpleLlama: Set of tools to assess and improve LLM security.](https://github.com/meta-llama/PurpleLlama)
 
 ### Project Naptime
 
@@ -1773,6 +1958,7 @@ nltest /server:ASPDC02 /domain_trusts
 [Z4kSec/Masky: Python library with CLI allowing to remotely dump domain user credentials via an ADCS without dumping the LSASS process memory](https://github.com/Z4kSec/Masky)
 [GhostPack/Certify: Active Directory certificate abuse.](https://github.com/GhostPack/Certify)
 [ly4k/Certipy: Tool for Active Directory Certificate Services enumeration and abuse](https://github.com/ly4k/Certipy)
+[CravateRouge/bloodyAD: BloodyAD is an Active Directory Privilege Escalation Framework](https://github.com/CravateRouge/bloodyAD)
 
 ## PHP
 
@@ -1843,7 +2029,7 @@ Use time difference in array comparison to brute force the digest byte by byte.
 
 ## BREACH
 
-[BREACH ATTACK](http://breachattack.com/)
+[BREACH ATTACK](http://breachattack.com/) attacks HTTP compressed TLS payload
 [BREACH (security exploit) - Wikiwand](<https://www.wikiwand.com/en/BREACH_(security_exploit)>)
 
 ## Stuxnet
@@ -1853,6 +2039,13 @@ Use time difference in array comparison to brute force the digest byte by byte.
 [Stuxnet: a 3-Parts Series | Curious Minds - Curious Minds Podcast](http://www.cmpod.net/stuxnet-the-malware-that-struck-the-iranian-nuclear-program-pt-1/)
 [Stuxnet: Advanced Persistent Threat - Ran Levi](http://www.cmpod.net/all-transcripts/stuxnet-the-malware-that-struck-the-iranian-nuclear-program-text/)
 [The Most Sophisticated Malware Ever Made (That We Know Of)🎙Darknet Diaries Ep. 29: Stuxnet - YouTube](https://www.youtube.com/watch?v=9DCwyuH29SI)
+
+## FrontJacking
+
+[CYE | FrontJacking: An Attack Threatening Reverse Proxy Servers](https://cyesec.com/blog/frontjacking-new-attack-that-threatens-reverse-proxy-servers)
+injection vulnerability for proxy using `$uri` and `$document_uri`
+
+`https://your-domain.name/%20HTTP/1.1%0d%0aHost:%20omriinbar-cyesec.github.io%0d%0a%0d%0a`
 
 ## Memory Address Scanning
 
@@ -1871,17 +2064,6 @@ Use time difference in array comparison to brute force the digest byte by byte.
 
 [RAMPAGE AND GUARDION](https://rampageattack.com/)
 [Every Android Device Since 2012 Impacted by RAMpage Vulnerability](https://www.bleepingcomputer.com/news/security/every-android-device-since-2012-impacted-by-rampage-vulnerability/)
-
-## Dirty COW
-
-[Dirty COW (CVE-2016-5195)](https://dirtycow.ninja/)
-[Dirty COW - Wikiwand](https://www.wikiwand.com/en/Dirty_COW)
-
-## RegreSSHion
-
-[OpenSSH 'RegreSSHion' RCE Vulnerability](https://www.varonis.com/blog/openssh-regresshion-rce-vulnerability)
-[xonoxitron/regreSSHion: CVE-2024-6387 (regreSSHion) Exploit (PoC), a vulnerability in OpenSSH's server (sshd) on glibc-based Linux systems.](https://github.com/xonoxitron/regreSSHion/tree/main)
-[xonoxitron/regreSSHion-checker: Quickly identifies servers vulnerable to OpenSSH 'regreSSHion' (CVE-2024-6387).](https://github.com/xonoxitron/regreSSHion-checker)
 
 ## Meltdown and Spectre
 
@@ -1903,6 +2085,46 @@ Two major computer processor security bugs, dubbed Meltdown and Spectre, affect 
 
 [speed47/spectre-meltdown-checker: Spectre & Meltdown vulnerability/mitigation checker for Linux](https://github.com/speed47/spectre-meltdown-checker)
 [IAIK/meltdown: This repository contains several applications, demonstrating the Meltdown bug.](https://github.com/IAIK/meltdown)
+
+## Linux Kernel
+
+### Dirty COW
+
+[Dirty COW (CVE-2016-5195)](https://dirtycow.ninja/)
+[Dirty COW - Wikiwand](https://www.wikiwand.com/en/Dirty_COW)
+[NVD - CVE-2016-5195](https://nvd.nist.gov/vuln/detail/CVE-2016-5195)
+
+### Dirty Pipe
+
+[The Dirty Pipe Vulnerability — The Dirty Pipe Vulnerability documentation](https://dirtypipe.cm4all.com/)
+[NVD - CVE-2022-0847](https://nvd.nist.gov/vuln/detail/CVE-2022-0847)
+
+[Dirty Pipe Explained - CVE-2022-0847](https://www.hackthebox.com/blog/Dirty-Pipe-Explained-CVE-2022-0847)
+
+### Copy Fail
+
+[Copy Fail — CVE-2026-31431](https://copy.fail/)
+[Copy Fail - Wikiwand](https://www.wikiwand.com/en/Copy_Fail)
+[NVD - CVE-2026-31431](https://nvd.nist.gov/vuln/detail/CVE-2026-31431)
+
+[CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments | Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/)
+[This Exploits LITERALLY Every Linux Distro - YouTube](https://www.youtube.com/watch?v=MaFK5AXpXXw)
+
+### Dirty Frag
+
+[NVD - CVE-2026-43284](https://nvd.nist.gov/vuln/detail/CVE-2026-43284)
+
+[V4bel/dirtyfrag · GitHub](https://github.com/V4bel/dirtyfrag)
+[Active attack: Dirty Frag Linux vulnerability expands post-compromise risk | Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/)
+[Why Your Linux Kernel is "Dirty" Again: 8 Takeaways from the Dirty Frag Crisis - Thrive](https://thrivenextgen.com/why-your-linux-kernel-is-dirty-again-8-takeaways-from-the-dirty-frag-crisis/)
+[SERIOUSLY? AGAIN? - YouTube](https://www.youtube.com/watch?v=8s9jaIPR7PU)
+
+## RegreSSHion
+
+[NVD - CVE-2024-6387](https://nvd.nist.gov/vuln/detail/CVE-2024-6387)
+[OpenSSH 'RegreSSHion' RCE Vulnerability](https://www.varonis.com/blog/openssh-regresshion-rce-vulnerability)
+[xonoxitron/regreSSHion: CVE-2024-6387 (regreSSHion) Exploit (PoC), a vulnerability in OpenSSH's server (sshd) on glibc-based Linux systems.](https://github.com/xonoxitron/regreSSHion/tree/main)
+[xonoxitron/regreSSHion-checker: Quickly identifies servers vulnerable to OpenSSH 'regreSSHion' (CVE-2024-6387).](https://github.com/xonoxitron/regreSSHion-checker)
 
 ## Pixnapping
 
@@ -1948,10 +2170,9 @@ using hidden overlay and the time needed for bluring opertation to compute a gra
 
 [Snyk Open Source Advisor | Snyk](https://snyk.io/advisor/)
 
-[red.anthropic.com](https://red.anthropic.com/)
-[Making frontier cybersecurity capabilities available to defenders \ Anthropic](https://www.anthropic.com/news/claude-code-security)
-[AI for Cyber Defenders \ red.anthropic.com](https://red.anthropic.com/2025/ai-for-cyber-defenders/)
-[0-Days \ red.anthropic.com](https://red.anthropic.com/2026/zero-days/)
+[checkov](https://www.checkov.io/)
+static code analysis tool for infrastructure as code, software composition analysis (SCA)
+[bridgecrewio/checkov: Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.](https://github.com/bridgecrewio/checkov)
 
 [Semgrep — Find bugs and enforce code standards](https://semgrep.dev/)
 [Explore | Semgrep](https://semgrep.dev/explore)

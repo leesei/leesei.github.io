@@ -2,7 +2,7 @@
 title: Kids Learning
 description: ""
 created: 2016-08-17
-updated: 2026-02-08
+updated: 2026-04-22
 tags:
   - learning
 ---
@@ -341,6 +341,8 @@ synthetic phonics
 [【溫數學】免費初小溫習工作紙　運算、圖形、度量衡及統計圖｜香港 01 ｜親子](https://www.hk01.com/%E8%A6%AA%E5%AD%90/390481/)
 [自製數學工作紙](https://www.facebook.com/107792393977946/posts/215059739917877/)
 [Reference Exercises - 小學數學科 模擬試卷](https://www.mamaloveprint.com/p/reference-exercises_7.html)
+[翰林數位 - 翰林數位](https://hanlindigi.hle.com.tw/main)
+[翰林立體形體](https://3dshape.hle.com.tw/)
 
 [Free Online Graph Paper / Asymmetric and Specialty Grid Paper PDFs](https://incompetech.com/graphpaper/)
 [Isometric Drawing Tool](https://www.nctm.org/Classroom-Resources/Illuminations/Interactives/Isometric-Drawing-Tool/)

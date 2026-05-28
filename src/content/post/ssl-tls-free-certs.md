@@ -2,13 +2,15 @@
 title: Free SSL/TLS Certificates
 description: ""
 created: 2023-05-16
-updated: 2026-01-05
+updated: 2026-03-27
 tags:
   - security
   - ssl
   - tls
   - web
 ---
+
+> using [[x-509#Automatic Certificate Management Environment (ACME)]] for automatic cert enrollment
 
 [Let's Encrypt](https://letsencrypt.org/)
 [Free SSL Certificates and SSL Tools - ZeroSSL](https://zerossl.com/)
@@ -19,37 +21,6 @@ tags:
 
 [Roland Bracewell Shoemaker: Let's Encrypt -- What launching a free CA looks like - YouTube](https://www.youtube.com/watch?v=g2_wbp5vxNs)
 [Let's Encrypt with J.C. Jones - YouTube](https://www.youtube.com/watch?v=S7CIHwrroec)
-
-## Automatic Certificate Management Environment (ACME)
-
-[Automatic Certificate Management Environment - Wikiwand](https://www.wikiwand.com/en/articles/Automatic_Certificate_Management_Environment)
-[RFC 8555 - Automatic Certificate Management Environment (ACME)](https://datatracker.ietf.org/doc/html/rfc8555/)
-[An In-Depth Symbolic Security Analysis of the ACME Standard](https://eprint.iacr.org/2021/1457) formal proof
-
-[How It Works - Let's Encrypt](https://letsencrypt.org/how-it-works/)
-[Challenge Types - Let's Encrypt](https://letsencrypt.org/docs/challenge-types/)
-[Multi-Perspective Validation Improves Domain Validation Security - Let's Encrypt](https://letsencrypt.org/2020/02/19/multi-perspective-validation)
-
-### http-01
-
-Server visits `http://<domain.name>/.well-known/acme-challenge/<TOKEN>`
-
-### dns-01
-
-[A Technical Deep Dive: Securing the Automation of ACME DNS Challenge Validation | Electronic Frontier Foundation](https://www.eff.org/deeplinks/2018/02/technical-deep-dive-securing-automation-acme-dns-challenge-validation)
-[dns-01-challenge · GitHub Topics](https://github.com/topics/dns-01-challenge) plugin for certbots
-
-[Automating Let's Encrypt Certificate Renewal using DNS Challenge Type — Chariot Solutions](https://chariotsolutions.com/blog/post/automating-lets-encrypt-certificate-renewal-using-dns-challenge-type/)
-
-Dynamic DNS updates on Hostinger server by API:
-
-```sh
-curl https://developers.hostinger.com/api/dns/v1/zones/<domain.name> \ --request PUT \ --header 'Content-Type: application/json' \ --header 'Authorization: Bearer <API_KEY>' \ --data '{ "overwrite": true, "zone": [ { "name": "_acme-challenge", "records": [ { "content": "<TOKEN>" } ], "ttl": 300, "type": "TXT" } ] }'
-```
-
-### tls-alpn-01
-
-[RFC 8737 - Automated Certificate Management Environment (ACME) TLS Application-Layer Protocol Negotiation (ALPN) Challenge Extension](https://datatracker.ietf.org/doc/html/rfc8737)
 
 ## Let's Encrypt
 

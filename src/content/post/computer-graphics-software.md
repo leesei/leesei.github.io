@@ -2,7 +2,7 @@
 title: Computer Graphics (Software)
 description: Computer Graphics on the software side, the how and whys, also on how games are rendered
 created: 2015-08-31
-updated: 2026-02-12
+updated: 2026-03-13
 tags:
   - games
   - graphics/software

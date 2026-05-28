@@ -2,7 +2,7 @@
 title: Plamo
 description: ""
 created: 2017-04-25
-updated: 2025-10-10
+updated: 2026-04-05
 tags:
   - toys
 ---
@@ -36,25 +36,15 @@ tags:
 [鋼彈全系列產品 一口氣看完【阿蛋哥】 - YouTube](https://www.youtube.com/watch?v=XK5G-MbVUEY)
 [What is the Difference between the Grades of Gundams - SDEX Real RG, Perfect PG, High HG, NG, Master MG & RE/100 Grade - Gundam Toys Shop](http://www.gundamtoyshop.com/gundamts-news/what-is-the-difference-between-the-grades-of-gundams-rg-pg-hguc-mg)
 
+[高達模型｜BANDAI HOBBY SITE](https://global.bandai-hobby.net/hk/gunpla/)
+
+[Gunpla Wiki | Fandom](https://gunpla.fandom.com/wiki/Gunplapedia)
 [Master Grade | The Gundam Wiki | Fandom](http://gundam.fandom.com/wiki/Master_Grade)
 [Real Grade | The Gundam Wiki | Fandom](http://gundam.fandom.com/wiki/Real_Grade)
 [Perfect Grade | The Gundam Wiki | Fandom](http://gundam.fandom.com/wiki/Perfect_Grade)
 
 [Figurines database - My Anime Shelf](https://www.shelf.moe/figures/)
 [달롱이의 건플라 리뷰](http://www.dalong.net/)
-
-[RG(1/144) ガンプラ他 通販](http://www.1999.co.jp/list/681/0/1)
-[HG HGUC etc. (1/144) Gundam Kit/etc. Store](http://www.1999.co.jp/eng/list/679/0/1)
-[HG REVIVE ガンプラ他 通販](https://www.1999.co.jp/search?typ1_c=109&cat=gundam&target=Series&searchkey=REVIVE)
-[HG GUNPLA EVOLUTION PROJECT ガンプラ他 通販](https://www.1999.co.jp/list/679/0/1?ItemSeries=GUNPLA+EVOLUTION+PROJECT)
-[HG THE ORIGIN ガンプラ他 通販](https://www.1999.co.jp/list/679/0/1?SeriesTitle=機動戦士ガンダム+THE+ORIGIN)
-
-[RG［リアルグレード］｜ガンプラ｜バンダイ ホビーサイト](http://bandai-hobby.net/brand/rg/)
-[HG UNIVERSAL CENTURY ｜ガンプラ｜バンダイ ホビーサイト](http://bandai-hobby.net/brand/hguc/)
-[HG［ハイグレード］｜ガンプラ｜バンダイ ホビーサイト](http://bandai-hobby.net/brand/hg/)
-
-[GUNPLA ｜ RG (REAL GRADE)｜ PREMIUM BANDAI](http://p-bandai.hk/hobby/a0001/b0002/list-da10-n0/)
-[HG (HIGH GRADE)｜ PREMIUM BANDAI 香港](http://p-bandai.hk/hobby/a0001/b0003/list-da10-n0/)
 
 [U. C. HARD GRAPH :: MOBILE SUIT GUNDAM](http://www.gundam-hardgraph.net/) 軍模
 
@@ -168,7 +158,17 @@ RG Tallgeese EW [ZakuAurelius](https://www.youtube.com/watch?v=Pr5_4V-gI-0) ¥11
 [RX-78 GP02A Gundam GP02 PHYSALIS (HGUC) (Gundam Model Kits)](https://www.1999.co.jp/eng/10049594) ¥99.9@2017-04
 [Zaku I (Char Aznable`s) (HGO) (Gundam Model Kits)](https://www.1999.co.jp/eng/10444044) ¥91@2017-04
 
+### Haropla
+
+[Haropla Ball Haro (Gundam Model Kits) - HobbySearch Gundam Kit/etc. Store](https://www.1999.co.jp/eng/10550830)
+[【普拉模】#4 萌球出擊 HAROPLA 007 球艇哈囉製作報告 - YouTube](https://www.youtube.com/watch?v=QUL6TwZ1OF4)
+[Haropla Zakrello Haro (Gundam Model Kits) - HobbySearch Gundam Kit/etc. Store](https://www.1999.co.jp/eng/10638095)
+[Haropla Haro Loader (Gundam Model Kits) - HobbySearch Gundam Kit/etc. Store](https://www.1999.co.jp/eng/10667784)
+
 ### Iron Blood Orphan
+
+[High Grade IRON-BLOODED ORPHANS | The Gundam Wiki | Fandom](https://gundam.fandom.com/wiki/High_Grade_IRON-BLOODED_ORPHANS)
+[MOBILE SUIT GUNDAM IRON-BLOODED ORPHANS | GUNPLA](https://hk.gundam.info/series/tekketsu/category/gunpla/index.html)
 
 [Gundam Barbatos (HG) (Gundam Model Kits) - HobbySearch Gundam Kit/etc. Store](https://www.1999.co.jp/eng/10338392) [ZakuAurelius](https://www.youtube.com/watch?v=qI9TkgqUk6Y) [dalong](http://www.dalong.net/reviews/ib/ibh01/ibh01_p.htm) ¥48.9@2020-12, with inner frame
 [927 - Gunpla Quick-Fix Ep.4: HG Gundam Barbatos Mace Modification - YouTube](https://www.youtube.com/watch?v=joe9RplE4v8)
@@ -178,11 +178,15 @@ RG Tallgeese EW [ZakuAurelius](https://www.youtube.com/watch?v=Pr5_4V-gI-0) ¥11
 
 ### Gundam The Origin
 
-[RX-78-02 Gundam (GUNDAM THE ORIGIN Ver.) (MG) (Gundam Model Kits)](https://www.1999.co.jp/eng/10345132) [ZakuAurelius](https://www.youtube.com/watch?v=JBvtiXlXQ3g) [dalong](http://www.dalong.net/review/mg/m190/m190_i.htm) ¥216@2017-04
+[High Grade Gundam The Origin | The Gundam Wiki | Fandom](https://gundam.fandom.com/wiki/High_Grade_Gundam_The_Origin)
 
-[RX-78-02 Gundam (Gundam The Origin Ver.) (HG) (Gundam Model Kits) - HobbySearch Gundam Kit/etc. Store](https://www.1999.co.jp/eng/10667779) [ZakuAurelius](https://www.youtube.com/watch?v=EeKrsZQyF6s) [dalong](http://www.dalong.net/reviews/hg/ho26/ho26_p.htm) ¥107.9@2020-12
+[MG RX-78-02 Gundam (Gundam The Origin Ver.) | Gunpla Wiki | Fandom](https://gunpla.fandom.com/wiki/MG_RX-78-02_Gundam) ¥216@2017-04
+[【評頭論足】第46期 BANDAI MG GTO RX-78-2 元祖鋼彈 GUNDAM THE ORIGIN gunpla - YouTube](https://www.youtube.com/watch?v=9Rld92uJACk)
+[ZakuAurelius](https://www.youtube.com/watch?v=JBvtiXlXQ3g) [dalong](http://www.dalong.net/review/mg/m190/m190_i.htm)
+
+[HGGTO RX-78-01［FSD］Gundam FSD | Gunpla Wiki | Fandom](https://gunpla.fandom.com/wiki/HGGTO_RX-78-01%EF%BC%BBFSD%EF%BC%BDGundam_FSD) ¥107.9@2020-12
+[ZakuAurelius](https://www.youtube.com/watch?v=EeKrsZQyF6s) [dalong](http://www.dalong.net/reviews/hg/ho26/ho26_p.htm)
 [【鋼普拉】#30 HGGTO 026 鋼彈 THE ORIGIN 版製作報告 - YouTube](https://www.youtube.com/watch?v=6Habgz2jP3Q)
-[【評頭論足】第 46 期 BANDAI MG GTO RX-78-2 元祖鋼彈 GUNDAM THE ORIGIN gunpla - YouTube](https://www.youtube.com/watch?v=9Rld92uJACk)
 
 ### UC0096
 
@@ -203,28 +207,37 @@ RG Sinanju, while more or less the same price as the HG kit, is not recommended:
 [MG Sinanju OVA Ver. (Review) - YouTube](https://www.youtube.com/watch?v=N86AuftbRmw)
 [【评头论足】BANDAI MG MSN-6S SINNANJUN 新安洲 OVA 版高达模型 GUNPAL GUNDAM - YouTube](https://www.youtube.com/watch?v=_QmpPCM6VLg)
 
+### MGSD
+
+[MGSD 高達巴巴托司](https://hk.gundam-official.com/feature/mgsd/002/)
+[MGSD 高達巴巴托司｜BANDAI HOBBY SITE](https://global.bandai-hobby.net/hk/item/01_4994/) 國產¥58@2024-11
+
+[MGSD 飛翼高達零式EW](https://hk.gundam.info/content/mgsd/003/) 國產 白雪姬¥53.1@2025-11
+
+[MGSD 風靈高達｜BANDAI HOBBY SITE](https://global.bandai-hobby.net/hk/item/01_5962/) 國產¥45.8@2026-03
+
 ### SDCS
 
-[SD Gundam Cross Silhouette - HobbySearch PVC Figure Store](https://www.1999.co.jp/eng/search?typ1_c=101&cat=&state=&sold=0&sortid=0&searchkey=SD+Gundam+Cross+Silhouette)
-[SD Cross Silhouette - HobbySearch PVC Figure Store](https://www.1999.co.jp/eng/search?typ1_c=101&cat=&state=&sold=0&sortid=0&searchkey=SD+Cross+Silhouette)
-
-[SDCS 戴萌兔 - YouTube](https://www.youtube.com/channel/UCb12qREp0SwOGB2gpN0WMiA/search?query=SDCS)
-[SDCS R-Team - YouTube](https://www.youtube.com/channel/UCAxtVPkcfG47XIgCt9h0lPQ/search?query=sdcs)
-[【好男人模型開箱】 有骨架的ＳＤ鋼彈模型！？ SDCS 系列 - YouTube](https://www.youtube.com/watch?v=UALy3FxBx6Q)
-[【深夜手痒】有骨架的 SD 你见过没？RX-78-2 高达【SDCS 系列】 - YouTube](https://www.youtube.com/watch?v=VXC1dZwnQPQ)
-[【鋼普拉】#4 新 SD 鋼普拉系列 SD 骨架、CS 骨架大解析 - YouTube](https://www.youtube.com/watch?v=o5iVP4wVMBo)
 [1659 - SDCS RX-78-2 Gundam + CS Frame (OOB Review) - YouTube](https://www.youtube.com/watch?v=rsz_KIhORl0)
 
-[SD Gundam Cross Silhouette RX-78-2 Gundam & MS-06S ZAKU II (SD) (Gundam Model Kits) - HobbySearch Gundam Kit/etc. Store](https://www.1999.co.jp/eng/10682491) ¥99@2020-12
+[SD Gundam Cross Silhouette RX-78-2 Gundam & MS-06S ZAKU II](https://www.gundam.my/gundam-model-kits-sd-gundam-cross-silhouette-rx-78-2-gundam-ms-06s-zaku-ii-itemid-5659.html) ¥105@2020-12
 [變化莫測! SDCS「RX-78-2 鋼彈& CS 骨架組」開箱補色製作 ! | 玩具人 Toy People News](https://www.toy-people.com/?p=43871)
 
-[SD Cross Silhouette Gaogaigar (SD)](https://www.1999.co.jp/eng/10631860) ¥86@2019-10
+[SDCS Gundam Barbatos Lupus Rex - Iron Blooded Orphans UNBOXING and Review (PLUS Aura Effect Tip!) - YouTube](https://www.youtube.com/watch?v=ipirV9M4t8Q) 國產¥18.4@2026-03
+[【鋼普拉】#31 SDCS 16 天狼王型獵魔鋼彈製作報告 - YouTube](https://www.youtube.com/watch?v=PpyFOM832Qk)
+[【评头论足】靓丽狼崽！万代 SDCS 巴巴托斯 天狼座帝王形态 高达模型介绍 - YouTube](https://www.youtube.com/watch?v=LHr6WYqcBck)
+[Has Science Gone Too Far?! - It's Teenage Gundam Barbatos Lupus Rex! - YouTube](https://www.youtube.com/watch?v=qqopHZQtHik)
+
+[SDCS Gundam Calibarn - Gundam The Witch from Mercury UNBOXING and Review! - YouTube](https://www.youtube.com/watch?v=V2_QzBZ0Lt8) ¥35.9@2026-03
+
+[SD Cross Silhouette Gaogaigar](https://www.gundam.my/other-series-kits-sd-cross-silhouette-gaogaigar-itemid-5029.html.html) ¥86@2019-10
 [【普拉模】#20 勇者降臨 SDCS 05 勇者王我王凱牙製作報告 - YouTube](https://www.youtube.com/watch?v=1ypGtUnh49o)
 
-[SD Cross Silhouette Mazinger Z (SD) (Gundam Model Kits) (Plastic model) - HobbySearch Gundam Kit/etc. Store](https://www.1999.co.jp/eng/10562470) 魔神 Z ¥45@2020-12
-[SD Cross Silhouette Great Mazinger (SD) (Gundam Model Kits) (Plastic model) - HobbySearch Gundam Kit/etc. Store](https://www.1999.co.jp/eng/10562474) 大魔神 ¥45@2020-12
-[SD Cross Silhouette Mazinkaiser (SD) (Gundam Model Kits) (Plastic model) - HobbySearch Gundam Kit/etc. Store](https://www.1999.co.jp/eng/10595731) 魔神凱撒 ¥68@2020-12
+[SD Cross Silhouette Mazinger Z](https://www.gundam.my/gundam-model-kits-sd-cross-silhouette-mazinger-z-itemid-4406.html) 魔神 Z ¥45@2020-12
+[SD Cross Silhouette Great Mazinger](https://www.gundam.my/other-series-kits-sd-cross-silhouette-great-mazinger-sd-itemid-4407.html) 大魔神 ¥45@2020-12
+[SD Cross Silhouette Mazinkaiser – Gundam Planet](https://www.gundamplanet.com/products/sd-cross-silhouette-mazinkaiser) 魔神凱撒 ¥68@2020-12
 [【普拉模】#9 黑鋼兄弟 SDCS 魔神 Z&大魔神(無敵鐵金剛)製作報告 - YouTube](https://www.youtube.com/watch?v=L8iGGNgSv8c)
+[【普拉模】#17 黑鋼皇帝 SDCS 03 魔神凱撒(無敵鐵金剛凱撒)製作報告 - YouTube](https://www.youtube.com/watch?v=MQVd2-H6LP8)
 
 ### SD/Others
 
@@ -243,6 +256,8 @@ Buzz Lightyear ¥167@2019-10
 [【深夜手痒】自己动手拼装一个巴斯光年，还有意外小机关？【玩具总动员 4】 - YouTube](https://www.youtube.com/watch?v=xHwOc6qbmHo)
 
 [【開箱片】BANDAI【幪面超人 BLACK】組裝模型【仮面ライダー BLACK】Masked Rider Black【Figure-Rise Standard】Model Kit Unboxing - YouTube](https://www.youtube.com/watch?v=LNYo5eeB1QU) ¥159@2022-08
+
+[曾经的龙神丸如今成了这个样子？万代 HG Amplified IMGN RYUJINMARU龙神丸 魔神英雄传 【评头论足】 - YouTube](https://www.youtube.com/watch?v=dRlrE_cD3co) 國產¥25.1@2026-02
 
 小号手模型 08100 大黄蜂 ¥58@2020-12
 
@@ -312,17 +327,43 @@ Not bought:
 [喵匠 HOBBY MIO-高達補件店-淘寶網](https://shop109217966.world.taobao.com/category-1468021078.htm)
 [喵匠 模型软头马克笔 尖头补色笔 金属色水性 高达马克笔 尖头-淘宝网](https://item.taobao.com/item.htm?id=624421551880)
 
-[Rating Every RG (Real Grade) In One Video - Pt.1 Regular Release - YouTube](https://www.youtube.com/watch?v=bm9J1ghO8KE)
+[Bandai HG Amplified IMGN 龍王丸 RYUOUMARU #魔神英雄傳#ワタル #龍神丸#空神丸#鳳王#鳳龍劍#素組 - YouTube](https://www.youtube.com/watch?v=7SMNJVPHvFc)
+
+壽屋 D Style
+[Adam Savage Reviews Bandai's 1/144 Saturn V Model Set! - YouTube](https://www.youtube.com/watch?v=hDU7tj7whLE&t=0s)
+[Apollo 13 & Saturn V Rocket (Completed) - HobbySearch Anime Robot/SFX Store](https://www.1999.co.jp/eng/10222448)
+
+### MG
+
+[MG [MASTER GRADE]｜BANDAI HOBBY SITE](https://global.bandai-hobby.net/hk/brand/mg/)
+[Master Grade | Gunpla Wiki | Fandom](https://gunpla.fandom.com/wiki/Master_Grade)
+[Master Grade | The Gundam Wiki | Fandom](https://gundam.fandom.com/wiki/Master_Grade)
 
 [RX-78-2 Gundam Ver.Ka (MG) (Gundam Model Kits)](http://www.1999.co.jp/eng/10028423) [dalong](http://www.dalong.net/review/mg/m57/m57_i.htm) Too old and not movable, ~MG1.5
 [RX-78-2 Gundam Ver. O.Y.W 0079 Animetion Color (MG) (Gundam Model Kits)](http://www.1999.co.jp/eng/10059968) [dalong](http://www.dalong.net/review/mg/m78/m78_i.htm) ~MG2.0
 [1146 - MG RX-78-2 Gundam 3.0 (OOB Review) - YouTube](https://www.youtube.com/watch?v=NAuC76qPygM)
+
+### RG
+
+[RG [REAL GRADE]｜BANDAI HOBBY SITE](https://global.bandai-hobby.net/hk/brand/rg/)
+[Real Grade | Gunpla Wiki | Fandom](https://gunpla.fandom.com/wiki/Real_Grade)
+[Real Grade | The Gundam Wiki | Fandom](https://gundam.fandom.com/wiki/Real_Grade)
+
+[Rating Every RG (Real Grade) In One Video - Pt.1 Regular Release - YouTube](https://www.youtube.com/watch?v=bm9J1ghO8KE)
 
 [RG Nu Gundam (Review) - YouTube](https://www.youtube.com/watch?v=aChjEIUCAh0) ¥215
 [1687 - RG Sazabi (OOB Review) - YouTube](https://www.youtube.com/watch?v=YLwsgMSdhlY) ¥229
 
 RG MSN-02 ZEONG Normal ¥288 Deluxe ¥488
 [【餓模人開箱】RG 1/144 吉翁克 Last Shooting 最終射擊特效零件組 Real Grade ジオング Zeong - YouTube](https://www.youtube.com/watch?v=4ofH02YpGNM)
+
+### HG
+
+[HG [HIGH GRADE]｜BANDAI HOBBY SITE](https://global.bandai-hobby.net/hk/brand/hg/)
+[High Grade | Gunpla Wiki | Fandom](https://gunpla.fandom.com/wiki/High_Grade)
+[High Grade Universal Century | Gunpla Wiki | Fandom](https://gunpla.fandom.com/wiki/High_Grade_Universal_Century)
+[High Grade | The Gundam Wiki | Fandom](https://gundam.fandom.com/wiki/High_Grade)
+[High Grade Universal Century | The Gundam Wiki | Fandom](https://gundam.fandom.com/wiki/High_Grade_Universal_Century#2012_)
 
 HGUC Unicorn Destroy Mode
 [【鋼普拉】#12 HGUC 215 月鋼彈製作報告 - YouTube](https://www.youtube.com/watch?v=oTaPAHHUc5I)
@@ -335,10 +376,7 @@ HGUC Unicorn Destroy Mode
 [1509 - RG Unicorn Gundam 02 Banshee Norn (OOB Review) - YouTube](https://www.youtube.com/watch?v=JWtZr9OVNVw)
 [1645 - HGUC Unicorn Gundam 03 Phenex [Destroy Mode] [Narrative Ver.] (OOB Review) - YouTube](https://www.youtube.com/watch?v=YMeWNKV75E4)
 
-SDCS Gundam Barbatos Lupus Rex
-SDCS F9之1改
 HG GUNDAM BUILD FIGHTERS TRY 神爆熱高達
-
 [Try Burning Gundam (HGBF) (Gundam Model Kits) - HobbySearch Gundam Kit/etc. Store](https://www.1999.co.jp/eng/10306421) ¥99
 [219 - HGBF TBG-001B Try Burning Gundam OOB Review - YouTube](https://www.youtube.com/watch?v=d-9qtUvMURk)
 [1/144 HGBF TRY Burning Gundam | REVIEW - YouTube](https://www.youtube.com/watch?v=5nuZ5pTClEU)
@@ -348,39 +386,6 @@ HG GUNDAM BUILD FIGHTERS TRY 神爆熱高達
 
 Grimoire
 [【鋼普拉】#2 HGBD-003 紅扁帽格利摩亞+HGBC-037 旋翼背包製作報告 - YouTube](https://www.youtube.com/watch?v=1o6lqwKnMQE)
-
-壽屋 D Style
-
-[Adam Savage Reviews Bandai's 1/144 Saturn V Model Set! - YouTube](https://www.youtube.com/watch?v=hDU7tj7whLE&t=0s)
-[Apollo 13 & Saturn V Rocket (Completed) - HobbySearch Anime Robot/SFX Store](https://www.1999.co.jp/eng/10222448)
-
-### MGSD
-
-[MASTER GRADE SD 自由高達](https://hk.gundam.info/content/mgsd/001/)
-[MGSD 高達巴巴托司](https://hk.gundam.info/content/mgsd/002/)
-[MGSD 飛翼高達零式EW](https://hk.gundam.info/content/mgsd/003/)
-
-[MGSD 戴萌兔 - YouTube](https://www.youtube.com/@demon2_/search?query=MGSD)
-[MGSD 评头论足 - YouTube](https://www.youtube.com/@pingtoulunzu/search?query=mgsd)
-[搜尋結果：MGSD｜香港01](https://www.hk01.com/search?q=MGSD)
-
-### Haropla
-
-[Haropla Ball Haro (Gundam Model Kits) - HobbySearch Gundam Kit/etc. Store](https://www.1999.co.jp/eng/10550830)
-[【普拉模】#4 萌球出擊 HAROPLA 007 球艇哈囉製作報告 - YouTube](https://www.youtube.com/watch?v=QUL6TwZ1OF4)
-[Haropla Zakrello Haro (Gundam Model Kits) - HobbySearch Gundam Kit/etc. Store](https://www.1999.co.jp/eng/10638095)
-[Haropla Haro Loader (Gundam Model Kits) - HobbySearch Gundam Kit/etc. Store](https://www.1999.co.jp/eng/10667784)
-
-### SDCS
-
-[SD Gundam Cross Silhouette RX-78-2 Gundam & MS-06S ZAKU II (SD) (Gundam Model Kits) - HobbySearch Gundam Kit/etc. Store](https://www.1999.co.jp/eng/10682491) ¥99
-[GUNDAM... PERFECTED - YouTube](https://www.youtube.com/watch?v=62pBuPk_Av4)
-
-SD Cross Silhouette Booster ~¥20
-SD Cross Silhouette Frame ~¥27
-[Ground Gundam Gone Kawaii! SD Cross Silhouette Ground Gundam Review - YouTube](https://www.youtube.com/watch?v=1kyvGvH3HVM)
-[【普拉模】#17 黑鋼皇帝 SDCS 03 魔神凱撒(無敵鐵金剛凱撒)製作報告 - YouTube](https://www.youtube.com/watch?v=MQVd2-H6LP8)
-[【普拉模】#19 進化之光 SDCS 04 真蓋特製作報告 - YouTube](https://www.youtube.com/watch?v=LgoGowwOsp0)
 
 ### Gundam The Origin
 
@@ -394,18 +399,43 @@ HG GTO Guncannon First Type ¥86
 [MG Gundam Barbatos (Review) - YouTube](https://www.youtube.com/watch?v=hOeZqug14QI)
 [【评头论足】2019 压轴，冲击年度最佳？万代 MG 巴巴托斯高达 第四形态 - YouTube](https://www.youtube.com/watch?v=vNB5DerSLC8)
 
-[MOBILE SUIT GUNDAM IRON-BLOODED ORPHANS | GUNPLA](https://hk.gundam.info/series/tekketsu/category/gunpla/index.html)
 [沒有光劍的世界：鋼彈鐵血孤兒格鬥兵器譜 | 玩具人 Toy People News](https://www.toy-people.com/?p=37270)
-[371 - HGIBA Option Set 1 & CGS Mobile Worker (OOB Review) - YouTube](https://www.youtube.com/watch?v=FhK0x1wZYxo&t=4s)
+[371 - HGIBA Option Set 1 & CGS Mobile Worker (OOB Review) - YouTube](https://www.youtube.com/watch?v=FhK0x1wZYxo&)
 [478 - HGIBA Option Set 2 and CGS Mobile Worker Space Type (OOB Review) - YouTube](https://www.youtube.com/watch?v=DY8BC_HvWr8)
 [530 - HGIBA Option Set 3 and Gjallarhorn Mobile Worker (OOB Review) - YouTube](https://www.youtube.com/watch?v=6bkKO1bsTj0)
 [851 - HGIBA MS Option Set 5 & Tekkadan Mobile Worker (OOB Review) - YouTube](https://www.youtube.com/watch?v=wnA6l4wwVzo) Barbatos kit
 
-[SD Gundam Cross Silhouette Gundam Barbatos Lupus Rex (SD) (Gundam Model Kits) - HobbySearch Gundam Kit/etc. Store](https://www.1999.co.jp/eng/10667786)
-[SDCS Gundam Barbatos Lupus Rex - Iron Blooded Orphans UNBOXING and Review (PLUS Aura Effect Tip!) - YouTube](https://www.youtube.com/watch?v=ipirV9M4t8Q)
-[【鋼普拉】#31 SDCS 16 天狼王型獵魔鋼彈製作報告 - YouTube](https://www.youtube.com/watch?v=PpyFOM832Qk)
-[【评头论足】靓丽狼崽！万代 SDCS 巴巴托斯 天狼座帝王形态 高达模型介绍 - YouTube](https://www.youtube.com/watch?v=LHr6WYqcBck)
-[Has Science Gone Too Far?! - It's Teenage Gundam Barbatos Lupus Rex! - YouTube](https://www.youtube.com/watch?v=qqopHZQtHik)
+### MGSD
+
+[MASTER GRADE SD｜BANDAI HOBBY SITE](https://global.bandai-hobby.net/hk/brand/mgsd/)
+[Category:Master Grade SD | Gunpla Wiki | Fandom](https://gunpla.fandom.com/wiki/Category:Master_Grade_SD)
+[Master Grade SD | The Gundam Wiki | Fandom](https://gundam.fandom.com/wiki/Master_Grade_SD)
+
+[MGSD 戴萌兔 - YouTube](https://www.youtube.com/@demon2_/search?query=MGSD)
+[MGSD 评头论足 - YouTube](https://www.youtube.com/@pingtoulunzu/search?query=mgsd)
+[搜尋結果：MGSD｜香港01](https://www.hk01.com/search?q=MGSD)
+
+### SDCS
+
+[SD CROSS SILHOUETTE｜BANDAI HOBBY SITE](https://global.bandai-hobby.net/hk/brand/sdcs/)
+[Category:SD Gundam Cross Silhouette | Gunpla Wiki | Fandom](https://gunpla.fandom.com/wiki/Category:SD_Gundam_Cross_Silhouette)
+[SD Gundam Cross Silhouette | The Gundam Wiki | Fandom](https://gundam.fandom.com/wiki/SD_Gundam_Cross_Silhouette)
+[GUNDAM... PERFECTED - YouTube](https://www.youtube.com/watch?v=62pBuPk_Av4)
+
+[SDCS 戴萌兔 - YouTube](https://www.youtube.com/channel/UCb12qREp0SwOGB2gpN0WMiA/search?query=SDCS)
+[SDCS R-Team - YouTube](https://www.youtube.com/channel/UCAxtVPkcfG47XIgCt9h0lPQ/search?query=sdcs)
+[SD Gundam Cross Silhouette (SDCS) - YouTube](https://www.youtube.com/playlist?list=PLqNHTxR4XW3S-EJbtVg5hQYNveBIDaTAO)
+[【好男人模型開箱】 有骨架的ＳＤ鋼彈模型！？ SDCS 系列 - YouTube](https://www.youtube.com/watch?v=UALy3FxBx6Q)
+[【深夜手痒】有骨架的 SD 你见过没？RX-78-2 高达【SDCS 系列】 - YouTube](https://www.youtube.com/watch?v=VXC1dZwnQPQ)
+[【鋼普拉】#4 新 SD 鋼普拉系列 SD 骨架、CS 骨架大解析 - YouTube](https://www.youtube.com/watch?v=o5iVP4wVMBo)
+
+SDCS Gundam Barbatos Lupus Rex
+SDCS F9之1改
+[Ground Gundam Gone Kawaii! SD Cross Silhouette Ground Gundam Review - YouTube](https://www.youtube.com/watch?v=1kyvGvH3HVM)
+[【普拉模】#19 進化之光 SDCS 04 真蓋特製作報告 - YouTube](https://www.youtube.com/watch?v=LgoGowwOsp0)
+
+SD Cross Silhouette Booster ~¥20
+SD Cross Silhouette Frame ~¥27
 
 ### G Frame
 
@@ -658,10 +688,10 @@ Gunpla painting usually uses oil base and water base paint as base and washing. 
 [How to Use: Lahmian Medium - YouTube](https://www.youtube.com/watch?v=4LnI6lzsliI&feature=youtu.be)
 
 [How to use Lahmian Medium #1: Washes and Glazes - YouTube](https://www.youtube.com/watch?v=tSxrMa4OZXo)
-[How to use Lahmian Medium #2: applying weathering pigments - YouTube](https://www.youtube.com/watch?v=0Eb8B85PPCI)
-[How to use Lahmian Medium #3: alternatives - YouTube](https://www.youtube.com/watch?v=DkVsaObpe_k)
+o
 
-[40 周年 PGU 鋼彈 X 世界冠軍舊化技法!!!MAD 開箱做起來又來啦! - YouTube](https://www.youtube.com/watch?v=MaSsZp7EE88)
+[How to use Lahmian Medium #2: applying weathering pigments - YouTube](https://www.youtube.com/watch?v=0Eb8B85PPCI)
+[How to use Lahmian Medium #3: alternatives - YouTube](https://www.youtube.com/watch?v=DkVsaObpe_k40 周年 PGU 鋼彈 X 世界冠軍舊化技法!!!MAD 開箱做起來又來啦! - YouTube](https://www.youtube.com/watch?v=MaSsZp7EE88)
 [【模人改造】完成夢想中的千年鷹! 不用噴漆也能完成的舊化技巧(上) Millennium Falcon Customized Build Vol.3 ｜ Mr.Joe Hobby.tv - YouTube](https://www.youtube.com/watch?v=zJDb9i8N0GI)
 [【模人改造】150 小時塗完千年鷹模型!! 完全不用噴漆也能完成的舊化技巧 (下) Millennium Falcon Customized Build Vol.4 ｜ Mr.Joe Hobby.tv - YouTube](https://www.youtube.com/watch?v=SneTHqpY2ZQ)
 
@@ -686,6 +716,7 @@ Gunpla painting usually uses oil base and water base paint as base and washing. 
 [【最貼服?】[😁Henry 模型教室 😁] 模型刮貼教學!!由淺入深!💪💪 EP.5{廣東話旁述}未有字幕#Henry - YouTube](https://www.youtube.com/watch?v=kznXXnDblFU&list=PLk6yL2i5h5_o9OQZS_ytGcIlrXQoIPRb3&index=5)
 [畫龍點睛的警示標誌！ MSN-06S 新安洲 水貼光澤研磨技法 | 玩具人 Toy People News](https://www.toy-people.com/?p=34430)
 [【模型制作教程】做模型水贴怎么贴？10 分钟教你避开贴水贴的坑！ - YouTube](https://www.youtube.com/watch?v=3BI4cycSNUk)
+[GUNPLA TIP: Waterslide Decals - YouTube](https://www.youtube.com/watch?v=TzzTfVXiZ4o&feature=youtu.be)
 
 雪焰 薄
 大林 稍厚, 款多

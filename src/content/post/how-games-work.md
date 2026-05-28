@@ -2,7 +2,7 @@
 title: How Games Work
 description: How games mechanics works, game design and how to make games, apart from rendering
 created: 2015-08-31
-updated: 2026-02-14
+updated: 2026-05-05
 tags:
   - game-design
   - games
@@ -65,13 +65,14 @@ tags:
 [Game development resources - The MagPi MagazineThe MagPi Magazine](https://www.raspberrypi.org/magpi/game-development-resources-raspberry-pi/)
 [GameFromScratch.com – Game Development News, Tutorials and More](https://gamefromscratch.com/)
 
-[KidsCanCode - YouTube](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg/featured) PyGame, Godot, algorithms
+[AdamCYounis - YouTube](https://www.youtube.com/@AdamCYounis)
 [Brackeys - YouTube](https://www.youtube.com/@Brackeys) Unity (old), Godot (2024)
-[Digital Foundry - YouTube](https://www.youtube.com/channel/UC9PBzalIcEQCsiIkq36PyUA) analysis on game engine, rendering techniques and hardware
+[Digital Foundry - YouTube](https://www.youtube.com/@DigitalFoundry) analysis on game engine, rendering techniques and hardware
 [Gamefromscratch - YouTube](https://www.youtube.com/@gamefromscratch)
+[KidsCanCode - YouTube](https://www.youtube.com/@Kidscancode) PyGame, Godot, algorithms
+[Retro Game Mechanics Explained - YouTube](https://www.youtube.com/@RGMechEx)
+[Table Flip Games - YouTube](https://www.youtube.com/@TableFlipGames)
 [Game Programming Tutorials - YouTube](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmqFs83T4W-FZQ9kK983tZC) freeCodeCamp.org
-[Table Flip Games - YouTube](https://www.youtube.com/channel/UCjG7y5Iw4TLHcK6ckuqUj_A)
-[Retro Game Mechanics Explained - YouTube](https://www.youtube.com/channel/UCwRqWnW5ZkVaP_lZF7caZ-g)
 
 [Nintendo Switch Cartridges Are Not Cartridges - YouTube](https://www.youtube.com/watch?v=ZywVAsgr9l0) cartridge in the original sense **is** the memory
 
@@ -80,12 +81,13 @@ tags:
 [Gamasutra - Game Design Deep Dives](https://gamasutra.com/deepdives)
 
 [Masahiro Sakurai on Creating Games - YouTube](https://www.youtube.com/@sora_sakurai_en) of Kirby and Super Smash Bros. fame
-[Marshall McGee - YouTube](https://www.youtube.com/@MarshallMcGee) sound elements
-[RealityEscape - YouTube](https://www.youtube.com/@RealityEscape) many on game genre
+[Arch - YouTube](https://www.youtube.com/@OfficialArch
 [Ceave Perspective - YouTube](https://www.youtube.com/@StefanPerspective-yb1rm)
 [Curious Archive - YouTube](https://www.youtube.com/@CuriousArchive)
 [Game Endeavor - YouTube](https://www.youtube.com/@GameEndeavor)
 [Good Blood - YouTube](https://www.youtube.com/@GoodBloodGames)
+[Marshall McGee - YouTube](https://www.youtube.com/@MarshallMcGee) sound elements
+[RealityEscape - YouTube](https://www.youtube.com/@RealityEscape) many on game genre
 
 [GDQuest - YouTube](https://www.youtube.com/@Gdquest)
 [Game design tutorial - YouTube](https://www.youtube.com/playlist?list=PLhqJJNjsQ7KHI3oYZfZ9nLEnQMBEhbmP8)

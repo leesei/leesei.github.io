@@ -2,7 +2,7 @@
 title: eBook
 description: ""
 created: 2016-09-13
-updated: 2025-12-16
+updated: 2026-05-16
 tags:
   - ebook
 ---
@@ -23,6 +23,7 @@ tags:
 ## Amazon Kindle
 
 [Amazon.com Help - Which Kindle E-reader Do I Have?](https://www.amazon.com/gp/help/customer/display.html?nodeId=201263790)
+[Amazon is Bricking Kindles... Here's What You Can Do - YouTube](https://www.youtube.com/watch?v=WbFGK-tjiEY) Kindle pre-201
 
 [Kindle Paperwhite 3](<https://www.wikiwand.com/en/Amazon_Kindle#/Kindle_Paperwhite_(3rd_generation)>):
 
@@ -41,6 +42,11 @@ tags:
 - flat screen
 - waterproof with an IPX8
 - bluetooth audio
+
+### Jailbreaking
+
+[KindleModding - Home](https://kindlemodding.org/)
+[Your Kindle's not obsolete, it just needs a jailbreak - and I'll show you how it's done | ZDNET](https://www.zdnet.com/article/your-kindles-not-obsolete-it-needs-a-jailbreak-ill-show-you-how-its-done/)
 
 ## 京東博閱
 
@@ -77,6 +83,10 @@ Paper Sizes:
 A4 210 x 297 mm 8.3 x 11.7 in
 A5 148 x 210 mm 5.8 x 8.3 in
 A6 105 x 148 mm 4.1 x 5.8 in
+[The paper scale system is broken. - YouTube](https://www.youtube.com/watch?v=XllQPr8FtPE)
+[International standard paper sizes - Wikiwand](https://www.wikiwand.com/en/International_standard_paper_sizes) ISO 216
+B is the geometric mean of two A sizes.
+C is the geometric mean of a A below and a B above, used as envelope size to contain the A paper.
 
 Printing to A5 or A6 PDF would be ok.
 

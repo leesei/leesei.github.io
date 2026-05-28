@@ -2,7 +2,7 @@
 title: Maps
 description: ""
 created: 2016-04-16
-updated: 2025-10-10
+updated: 2026-05-23
 tags:
   - maps
   - science
@@ -41,7 +41,7 @@ tags:
 [HK Maps](http://www.hkmaps.hk/)
 [Old Maps | Historic Maps | Antique Maps | Map Reproductions](http://www.mapsofthepast.com/)
 [BBC - Travel - The world’s oldest medieval map](http://www.bbc.com/travel/gallery/20190324-the-worlds-oldest-medieval-map)
-[File:Carta Marina.jpeg - Wikipedia](https://en.wikipedia.org/wiki/File:Carta_Marina.jpeg)
+[File:Carta Marina.jpeg - Wikipedia](https://en.wikipedia.org/wiki/File:Carta_Marina.jpeg?oldformat=true)
 
 [World’s FIRST Map of Ancient AFRICA Will Shock You - YouTube](https://www.youtube.com/watch?v=swkZUgqFJxs)
 
@@ -101,6 +101,7 @@ tags:
   - similar to blowing up the earth inside a cylinder (central cylindrical), but expands towards the polars (applying the latitudinal movement bias to longitude)
   - preserves direction and angle (constant true direction, conformal), good for navigation by following strict line of map, which is actually not the shortest distance
   - preserves shapes, distorts distances and land areas (greater when the further away from equator)
+  - [Something Strange Happens When You Flatten the Earth… - YouTube](https://www.youtube.com/watch?v=p-9wxYdJing)
   - [Web Mercator Tile Visibility / Jake Low / Observable](https://observablehq.com/@jake-low/web-mercator-tile-visibility)
 - Gall-Peters projection
   - preserves areas, distorts shape
@@ -147,6 +148,8 @@ tags:
 
 ## Navigation
 
+> [[si-units#Horology]]
+
 [History of longitude - Wikiwand](https://www.wikiwand.com/en/History_of_longitude)long
 [Longitude Act 1714 - Wikiwand](https://www.wikiwand.com/en/Longitude_Act)
 
@@ -183,7 +186,7 @@ Chronometer method, famously pioneered by John Harrison, became the preferred wa
 [what3words - Wikiwand](https://www.wikiwand.com/en/What3words)
 
 [The Official Web Site of the Natural Area Coding System](http://www.nacgeo.com/nacsite/) NAC "hashes" the lat-long as strings
-https://en.wikipedia.org/wiki/Natural_Area_Code
+[Natural Area Code - Wikiwand](https://www.wikiwand.com/en/Natural_Area_Code)
 
 ## Digital Map
 

@@ -2,13 +2,13 @@
 title: Gold Standard
 description: ""
 created: 2014-12-26
-updated: 2025-01-09
+updated: 2026-03-25
 tags:
   - economics
 ---
 
 Also "Gold-based Economy".
-[Gold standard - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Gold_standard)
+[Gold standard - Wikiwand](https://www.wikiwand.com/en/Gold_standard)
 
 [Game Theory: World of Warcraft will SAVE the Economy - YouTube](https://www.youtube.com/watch?v=fDfNoCjtXvQ&index=14&list=PL35FE5C4B157509C9)
 

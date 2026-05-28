@@ -2,7 +2,7 @@
 title: Japanese History
 description: ""
 created: 2016-02-14
-updated: 2025-10-10
+updated: 2026-05-05
 tags:
   - history
   - history/japanese
@@ -40,8 +40,7 @@ tags:
 [【扫盲班】第 17 期：整明白日本历史！ - YouTube](https://www.youtube.com/watch?v=hGnEdkLLHUY)
 [日本：最西端台灣肉眼直接能看到，最東端卻距離東京1800公里，日本領土極限究竟有多遠？地域究竟如何劃分？解析日本版圖下的地理冷知識｜四處觀察 - YouTube](https://www.youtube.com/watch?v=e0zYH051UIQ)
 
-[日本人名 - Wikiwand](https://www.wikiwand.com/zh/日本人名)
-[日本人名 - 維基百科，自由的百科全書](http://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%90%8D)
+[日本人名 - Wikiwand](https://www.wikiwand.com/zh/%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%90%8D)
 
 [科學分析 ▶ 日本人的祖先是誰? 是徐福還是韓國人? - YouTube](https://www.youtube.com/watch?v=1ctBTHk-rNI)
 [關於日本的最古老文字記載竟然是《三國志》! 比大和王權更早的神秘國家 (繁體中文字幕) - YouTube](https://www.youtube.com/watch?v=2zd3-CdQwu8)
@@ -62,7 +61,7 @@ tags:
 豐田秀吉
 德川家康
 
-[The Shogunate - YouTube](https://www.youtube.com/@TheShogunate/featured)
+[The Shogunate - YouTube](https://www.youtube.com/@TheShogunate)
 
 ## 明治時代
 

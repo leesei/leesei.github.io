@@ -2,7 +2,7 @@
 title: Environmental Science
 description: On climate change and the mitigation, environment protection
 created: 2023-06-28
-updated: 2025-10-10
+updated: 2026-04-17
 tags:
   - climate
   - environment
@@ -10,6 +10,8 @@ tags:
 
 [[new-energy-source]]
 [[nuclear-energy]]
+
+[Just Have a Think - YouTube](https://www.youtube.com/@JustHaveaThink)
 
 [Environmental Science - YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOikZljhKAe28AkupJXnS2u) CrashCourse
 

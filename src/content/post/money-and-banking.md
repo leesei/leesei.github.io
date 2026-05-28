@@ -2,7 +2,7 @@
 title: Money and Banking
 description: ""
 created: 2015-10-09
-updated: 2025-10-10
+updated: 2026-05-11
 tags:
   - economics
   - monetary-policy
@@ -75,6 +75,25 @@ Bretton Woods system collapsed in 1971, US dollar is no longer backed by gold
 
 [纸币被印出来之后是怎么进入市场流通的？How does cash come into circulation?【柴知道 ChaiKnows】【科普 Science】【冷知识 Trivia】 - YouTube](https://www.youtube.com/watch?v=JVGk6lxaGbc)
 [More Money Less Problems | Radiolab | WNYC Studios](https://www.wnycstudios.org/podcasts/radiolab/articles/more-money-less-problems)
+
+### Digital Currency/Electronic Payment (DCEP)
+
+Digital Fiat Currency is M0, while the value in Electronic Payment tools (支付工具) is M2
+
+Digital Fiat Currency should:
+
+- be decoupled from bank account
+- have no transaction fee
+- support anonymous and offline electronic payment
+
+[Hong Kong Monetary Authority - e-CNY](https://www.hkma.gov.hk/eng/smart-consumers/e-cny/)
+[Hong Kong Monetary Authority - Central Bank Digital Currency (CBDC)](https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/fintech/central-bank-digital-currency/)
+[e-HKD Pilot Programme Phase 2 Report](./money-and-banking/20251028%20e-HKD%20Pilot%20Programme%20Phase%202%20Report.pdf)
+[Taking Digital Currencies Offline](https://www.imf.org/en/publications/fandd/issues/2022/09/kiff-taking-digital-currencies-offline)
+
+[支付寶微信就是數字人民幣嗎？一文讀懂數字貨幣--科普中國--人民網](http://kpzg.people.com.cn/BIG5/n1/2022/0614/c404214-32446167.html)
+[數字人民幣與支付寶、微信支付的關係是怎樣的？ | PANews](https://www.panewslab.com/zh-hant/articles/N2076097)
+[內地電子支付｜數字人民幣懶人包！ 一文睇清開通+增值方法/試點地區/賺盡優惠貼士！](https://hk.news.yahoo.com/%E5%85%A7%E5%9C%B0%E6%97%85%E9%81%8A-%E6%95%B8%E5%AD%97%E4%BA%BA%E6%B0%91%E5%B9%A3-%E6%87%B6%E4%BA%BA%E5%8C%85-%E4%B8%80%E6%96%87%E7%9D%87%E6%B8%85-%E9%96%8B%E9%80%9A-%E5%A2%9E%E5%80%BC-%E6%96%B9%E6%B3%95-%E8%A9%A6%E9%BB%9E%E5%9C%B0%E5%8D%80-%E7%B4%85%E5%8C%85%E5%84%AA%E6%83%A0-053632848.html)
 
 ## National Debt
 

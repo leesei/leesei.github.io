@@ -2,7 +2,7 @@
 title: 3D Graphics
 description: ""
 created: 2019-09-10
-updated: 2025-10-21
+updated: 2026-05-28
 tags:
   - app
   - graphics
@@ -236,11 +236,21 @@ Gamers Nexus
 
 [Point Cloud to Mesh · GitBook](https://fabacademy.org/2018/docs/FabAcademy-Tutorials/week5_3dscanning_and_printing/point_cloud_mesh.html)
 
+### 3D Reconstruction
+
+> Simultaneous localization and mapping (SLAM)
+
 [Monster Mash: New Sketch-Based Modeling and Animation Tool](https://monstermash.zone/)
 [Turn 2D Images into 3D Objects with Monster Mash! (Free Web Tool) - YouTube](https://www.youtube.com/watch?v=k043OByAG-4)
 
 [无人机扫描整座山！耗费 30 天，用 10000 张照片还原世界文化遗产 - YouTube](https://www.youtube.com/watch?v=Fyo-RV-BedQ)
 [The Ultimate Guide to 3D Scanning | FULL WORKFLOW - YouTube](https://www.youtube.com/watch?v=U67RJG6DJ_8)
+
+[THIS is the Biggest Thing Since CGI - YouTube](https://www.youtube.com/watch?v=X8yRlA7jqEQ)
+
+- PhotoScan
+- Neural Radiance Field (NeRF)
+- Gaussian Splat (also Radiance Field)
 
 ### Software
 

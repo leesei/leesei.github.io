@@ -2,7 +2,7 @@
 title: Anime
 description: ""
 created: 2016-05-30
-updated: 2026-02-05
+updated: 2026-05-28
 tags:
   - anime
 ---
@@ -22,6 +22,7 @@ tags:
 [次元动漫社 Animation Club - YouTube](https://www.youtube.com/@CYAnimation01)
 [Ani-One Asia - YouTube](https://www.youtube.com/@AniOneAsia)
 [Ani-One 中文官方動畫頻道 - YouTube](https://www.youtube.com/@AniOneAnime)
+[Ani-One 精選 - YouTube](https://www.youtube.com/@AniOneCollection)
 [黑白動漫 - YouTube](https://www.youtube.com/@BWDM)
 
 [Anime1.cc 動畫線上看 – 上千部動漫免費線上看！](https://anime1.cc/)
@@ -418,6 +419,7 @@ Reboot: 2020-2021
 [纲之炼金术师全集 一朵老香菇解说的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibili](https://space.bilibili.com/40857648/channel/detail?cid=135824)
 
 [一期看完鋼之煉金術師FA完整解說,0負評之作 - YouTube](https://www.youtube.com/watch?v=e-6lIqKb4ZU)
+[深度解析經典神作:《鋼之鍊金術師》故事核心劇情完整解讀 - YouTube](https://www.youtube.com/watch?v=yVGXiQp9zpY)
 
 [井川一講《鋼之煉金術師》 - YouTube](https://www.youtube.com/playlist?list=PLv3iA6yjAwsis0nZpum8plakKygFwhpGw)
 [想要保護所有人 就要站在最高的地方 鋼之鍊金術師 人物故事 羅伊 馬斯坦古 老爹講動畫 - YouTube](https://www.youtube.com/watch?v=LB-7ZvHHCtw) 大總統主線
@@ -427,7 +429,6 @@ Reboot: 2020-2021
 [井川一青春豬頭 WRYYY - YouTube](https://www.youtube.com/@wryyy3481)
 
 [井川帶你看《天元突破》 - YouTube](https://www.youtube.com/playlist?list=PLv3iA6yjAwsgFOvX2DOOjYoiQE3B_C441)
-
 [【天元突破】慶祝神魔合作！帶你看天元主角西蒙從男孩蛻變成男人的成長之路! / 井川一 ACG 英雄譚#17 - YouTube](https://www.youtube.com/watch?v=fc_GZzrJAHk)
 
 ## 一拳超人
@@ -752,6 +753,10 @@ E N
 [【我的英雄學院】灰廻航一是「最弱」也可能是「最強」 | 從非法英雄到美國傳奇！| 【ILLEGALS Vigilante】 - YouTube](https://www.youtube.com/watch?v=XU_aS0dEfLc)
 
 [【我的英雄學院】RU 華後輸鬼滅&咒術 ⋯ 漫畫劇情每況愈下的《我英》到底怎麼了？｜井川一點評 - YouTube](https://www.youtube.com/watch?v=DqdezHXMKY4)
+
+[【我的英雄學院】裝甲綠谷名次飆升？爆豪排行超低理由爆笑😂 完結後「前十名英雄」公佈!｜井川一 - YouTube](https://www.youtube.com/watch?v=gMFleAjQBDw)
+[【我的英雄學院】超甜發糖+戰鬥加戲=完美！一口氣解說《我英》真結局隱藏的65個致敬&彩蛋!｜井川一 - YouTube](https://www.youtube.com/watch?v=pgVWZorm-cY)
+[【我的英雄學院】歐叔安享晚年！安德瓦結局催淚？昔日的「頂尖英雄」8年後都在做什麼？｜井川一 - YouTube](https://www.youtube.com/watch?v=gdl9p19logY)
 
 ## 怪兽8号
 

@@ -2,7 +2,7 @@
 title: English Language
 description: ""
 created: 2025-02-04
-updated: 2026-01-14
+updated: 2026-05-26
 tags:
   - english
   - language
@@ -201,7 +201,7 @@ RobWords
 
 ## Readability
 
-[Flesch–Kincaid readability tests - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests)
+[Flesch–Kincaid readability tests - Wikiwand](https://www.wikiwand.com/en/Flesch%E2%80%93Kincaid_readability_tests)
 
 - Flesch Reading Ease Score (FRES)
 - Flesch–Kincaid Grade Level Score
@@ -350,6 +350,8 @@ em-dash used like colon to introduce list, or comma to separate out indefinite r
 [Em Dash: When Should I Use It? | Grammarly](https://www.grammarly.com/blog/why-you-should-love-the-em-dash/)
 [How To Use An Em Dash (—) | Lexico](https://www.lexico.com/grammar/dash-and-em-dash)
 
+[Hanged by a comma - YouTube](https://www.youtube.com/watch?v=VHNXMFtSaZ8)
+
 ### 五大句型
 
 [五大句型及動詞種類介紹 - YouTube](https://www.youtube.com/watch?v=5AC6wet6vB8)
@@ -421,6 +423,7 @@ favor active over passive voice, except for:
 
 [Advice for Technical Writing | CSS-Tricks](https://css-tricks.com/advice-for-technical-writing/)
 [The developer's guide to content creation with Stephanie Morillo (Changelog Interviews #382)](https://changelog.com/podcast/382)
+[Diátaxis](https://diataxis.fr/) A systematic approach to technical documentation authoring.
 
 ## Phonics
 

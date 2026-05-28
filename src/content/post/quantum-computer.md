@@ -2,7 +2,7 @@
 title: Quantum Computer
 description: ""
 created: 2015-12-11
-updated: 2025-10-10
+updated: 2026-05-27
 tags:
   - comp/hardware
   - science
@@ -50,10 +50,6 @@ tags:
 [量子霸權，比世界上最強的超級計算機快十五億倍的量子電腦 | 老高與小茉 Mr & Mrs Gao - YouTube](https://www.youtube.com/watch?v=7l6BeKyLc3Y)
 [十分鐘略懂量子運算：量子物理、量子電腦、量子位元、量子閘、量子演算法與量子未來應用 - YouTube](https://www.youtube.com/watch?v=hXHrhnt2TEI)
 
-3blue1brown
-[But what is quantum computing? (Grover's Algorithm) - YouTube](https://www.youtube.com/watch?v=RQWpF2Gb-gU) Grover's Algorithm uses QC to verify a solution, good for solving NP problems
-[Where my explanation of Grover’s algorithm failed - YouTube](https://www.youtube.com/watch?v=Dlsa9EBKDGI)
-
 [Quantum computing in the 21st Century – with David Jamieson - YouTube](https://www.youtube.com/watch?v=zxml8UQSwC0)
 [Quantum Computers Could Solve These Problems - YouTube](https://www.youtube.com/watch?v=IhS6ecYZFdQ)
 
@@ -83,11 +79,30 @@ full-scale error correction will require tens of qubits to make just one logical
 
 [Quantum Teleportation Has Been Reported in a Qutrit For The First Time](https://www.sciencealert.com/quantum-teleportation-has-been-reported-in-a-qutrit-for-the-first-time/amp)
 
+## Neutral Atom Quantum Computing
+
+[[2603.28627] Shor's algorithm is possible with as few as 10,000 reconfigurable atomic qubits](https://arxiv.org/abs/2603.28627)
+[Google Quantum AI to include neutral atom computing](https://blog.google/innovation-and-ai/technology/research/neutral-atom-quantum-computers/)
+
 ## Cooling
 
 [Cool technology enables quantum computing – Physics World](https://physicsworld.com/a/cool-technology-enables-quantum-computing/)
 [Hot qubits break one of the biggest constraints to practical quantum computers](https://phys.org/news/2020-04-hot-qubits-biggest-constraints-quantum.amp) 1.5K instead of 0.1K
 [New electronic cooling technology to enable miniaturization of quantum computers](https://phys.org/news/2020-04-electronic-cooling-technology-enable-miniaturization.amp)
+
+## Grover's algorithm
+
+3blue1brown
+[But what is quantum computing? (Grover's Algorithm) - YouTube](https://www.youtube.com/watch?v=RQWpF2Gb-gU) Grover's Algorithm uses QC to verify a solution, good for solving NP problems
+[Where my explanation of Grover’s algorithm failed - YouTube](https://www.youtube.com/watch?v=Dlsa9EBKDGI)
+
+## Shor's algorithm
+
+[Shor's algorithm - Wikiwand](https://www.wikiwand.com/en/articles/Shor's_algorithm)  
+[Demonstration of Shor’s factoring algorithm for N $$=$$ 21 on IBM quantum processors | Scientific Reports](https://www.nature.com/articles/s41598-021-95973-w)  
+[How Quantum Computers Break Encryption | Shor's Algorithm Explained - YouTube](https://www.youtube.com/watch?v=lvTqbM5Dq4Q)  
+[How Quantum Computers Break The Internet... Starting Now - YouTube](https://www.youtube.com/watch?v=-UrdExQW0cs) RSA and Shor's Algorithm, Lattice PQC  
+[Cost analysis of hash collisions: Will quantum computers make SHARCS obsolete?](https://cr.yp.to/hash/collisioncost-20090823.pdf)
 
 ## Programming
 

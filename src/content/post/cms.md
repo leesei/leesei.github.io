@@ -2,7 +2,7 @@
 title: Content Management Systems
 description: ""
 created: 2022-07-09
-updated: 2025-10-10
+updated: 2026-05-28
 tags:
   - business
   - cms
@@ -54,6 +54,7 @@ tags:
 
 [An overview of headless CMS for blogfolio in 2022](https://hungvu.tech/headless-cms-for-portfolio-and-blogs)
 [Strapi vs Directus vs Payload, Headless CMS Comparison](https://hungvu.tech/strapi-vs-directus-vs-payload-headless-cms-comparison)
+[Strapi vs Payload (they lied) - YouTube](https://www.youtube.com/watch?v=5Iw3Z88wFcg)
 
 [[appsmith-cms]]
 [[directus-cms]]
@@ -83,6 +84,15 @@ tags:
 
 [Overview - ROAPI Documentation](https://roapi.github.io/docs/index.html)
 [roapi/docs: ROAPI user documentation](https://github.com/roapi/docs)
+
+### EmDash
+
+> A modern, Astro-native CMS
+
+[EmDash | EmDash](https://docs.emdashcms.com/)
+[Introducing EmDash — the spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/)
+
+[Is WordPress Finally Dead Testing Cloudflare's New EmDash CMS - WebSensePro](https://websensepro.com/blog/is-wordpress-finally-dead-testing-cloudflares-new-emdash-cms/)
 
 ### Baserow
 

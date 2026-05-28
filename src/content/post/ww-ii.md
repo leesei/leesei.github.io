@@ -2,7 +2,7 @@
 title: World War II
 description: ""
 created: 2015-06-07
-updated: 2025-10-17
+updated: 2026-05-16
 tags:
   - history
   - world-war
@@ -84,6 +84,7 @@ Casualties
 [A History Teachers Reacts | Oversimplified - WW2 (Part 2) - YouTube](https://www.youtube.com/watch?v=32CKIbLTrXQ)
 
 [15 分鐘講完二次世界大戰 (簡史、重點、趣聞) - YouTube](https://www.youtube.com/watch?v=TqHD3Qo0Qec)
+[地圖推演看懂二戰爆發全過程，直覺感受德國崛起之路 - YouTube](https://www.youtube.com/watch?v=YZPR6NA3I2s)
 [一口气看完 《第二次世界大战》完整版 Best World War II commentary - YouTube](https://www.youtube.com/watch?v=gj8s5Xdm7Hk)
 [二戰中的熊戰士：抽煙、喝酒、把妹，還能晉升下士……|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=PhAmanpIA8U)
 [二戰敦刻爾克大逃亡：希特勒把40萬英法聯軍逼入絕境，卻為何停止進攻？「曉涵哥來了」 - YouTube](https://www.youtube.com/watch?v=eB_iBBWcQQo)

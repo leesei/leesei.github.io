@@ -2,7 +2,7 @@
 title: Web Assembly Runtimes
 description: Runtimes for Web Assembly
 created: 2023-03-28
-updated: 2025-01-09
+updated: 2026-04-04
 tags:
   - wasm
   - wasm/runtime
@@ -75,6 +75,9 @@ stand-alone WebAssembly runtime that can be used as a CLI tool or embedded into 
 [Alfonso de la Rocha: @adlrocha - Playing with Wasmtime and Web Assembly's linear memory](https://adlrocha.substack.com/p/adlrocha-playing-with-wasmtime-and)
 
 [WebAssembly Reference Types Implemented in wasmtime, Lets Wasm Modules Handle Complex Types](https://www.infoq.com/news/2020/09/wasm-reference-types-wasmtime/)
+
+[wasmtime/crates/wizer at main · bytecodealliance/wasmtime · GitHub](https://github.com/bytecodealliance/wasmtime/tree/main/crates/wizer)
+Originally [bytecodealliance/wizer: The WebAssembly Pre-Initializer · GitHub](https://github.com/bytecodealliance/wizer?tab=readme-ov-file#using-wizer-as-a-library)
 
 ### Wamr
 

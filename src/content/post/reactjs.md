@@ -2,7 +2,7 @@
 title: React.js
 description: The library for web and native user interfaces
 created: 2015-12-04
-updated: 2025-11-20
+updated: 2026-05-21
 tags:
   - frontend
   - javascript
@@ -501,15 +501,15 @@ Use `React.createRef()`/`React.useRef()`, not string ref or callback ref
 > this is a React + Next.js thing (Next.js adding [[nextjs#Server Actions]])
 > the paradigm is quite different from React on client, I won't try this yet
 
-[Understanding React Server Components – Vercel](https://vercel.com/blog/understanding-react-server-components#why-do-we-need-server-components)
+[Understanding React Server Components – Vercel](https://vercel.com/blog/understanding-react-server-components)
 [Getting Started: React Essentials | Next.js](https://nextjs.org/docs/getting-started/react-essentials#server-components)
 
 [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
-[React Server Components: A Comprehensive Breakdown - YouTube](https://www.youtube.com/watch?v=VIwWgV3Lc6s) 52:41, theo
-
+[Understanding React Server Components | Tony Alicea](https://tonyalicea.dev/blog/understanding-react-server-components/)
 [My take on the current React & Server Components controversy | phryneas.de](https://phryneas.de/react-server-components-controversy)
-
 [The Two Reacts — overreacted](https://overreacted.io/the-two-reacts/) dan abramov
+
+[React Server Components: A Comprehensive Breakdown - YouTube](https://www.youtube.com/watch?v=VIwWgV3Lc6s) 52:41, theo
 [Rethinking React - YouTube](https://www.youtube.com/watch?v=KuhfT6-I3QU)
 client side component allows optimistic rendering for feedback of user action
 
@@ -521,6 +521,7 @@ client side component allows optimistic rendering for feedback of user action
 [React Server Components in Next.js 12 - LogRocket Blog](https://blog.logrocket.com/react-server-components-nextjs-12/)
 [React Advanced Features: Server Components | by Nivetha Krishnan | Feb, 2022 | Bits and Pieces](https://blog.bitsrc.io/react-advanced-features-server-components-9c9e44a19f79)
 
+[Did RSCs Really Turn React Into PHP? - YouTube](https://www.youtube.com/watch?v=hr_y1hIdZHs)
 [Did RSCs Really Turn React Into PHP? - YouTube](https://www.youtube.com/watch?v=hr_y1hIdZHs)
 PHP vs Next.js Pages vs Next.js App Router
 
@@ -1810,25 +1811,23 @@ Table/Date Grid:
 ### Storybook
 
 [Storybook - UI dev environment you'll love to use](https://storybook.js.org/)
+[Storybook Tutorials](https://storybook.js.org/tutorials/)
+[Get started with Storybook | Storybook docs](https://storybook.js.org/docs)
 [Addons | Storybook](https://storybook.js.org/addons/)
-[Storybook Tutorials](https://www.learnstorybook.com/)
-[The Storybook Story – Storybook – Medium](https://medium.com/storybookjs/the-storybook-story-dd3c1ab0d2ce)
-[Storybook for React](https://storybook.js.org/docs/guides/guide-react/)
-[Getting Started with Storybook in React](https://geekflare.com/storybook-in-react/)
-[Creating a React component library using Storybook 6](https://prateeksurana.me/blog/react-component-library-using-storybook-6/) 2021-09
-[How to Start a React Component Library With Storybook and Create-React-App – CloudSavvy IT](https://www.cloudsavvyit.com/15679/how-to-start-a-react-component-library-with-storybook-and-create-react-app/) 2022-03
-[A Dive into React Storybook](https://blog.openreplay.com/a-dive-into-react-storybook)
-[NextJS, SvelteKit, Remix and the future of Storybook](https://storybook.js.org/blog/framework-api/)
 
-[storybooks/storybook: Interactive UI component dev & test: React, React Native, Vue, Angular, Ember](https://github.com/storybooks/storybook)
+[The Storybook Story – Storybook – Medium](https://medium.com/storybookjs/the-storybook-story-dd3c1ab0d2ce) 2017
+[A Dive into React Storybook](https://blog.openreplay.com/a-dive-in-to-react-storybook/) 2022
+[NextJS, SvelteKit, Remix and the future of Storybook](https://storybook.js.org/blog/framework-api/) 2022
+
+[storybookjs/storybook: Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation](https://github.com/storybookjs/storybook)
 Component Story Format
 
-[How to Create Your Own React Component Library | by Akilesh Rao | Jan, 2022 | JavaScript in Plain English](https://javascript.plainenglish.io/how-to-create-your-own-react-component-library-e305a1a53b49)
+[How to Create Your Own React Component Library | by Akilesh Rao | JavaScript in Plain English](https://javascript.plainenglish.io/how-to-create-your-own-react-component-library-e305a1a53b49) 2022
 [NPM Tutorial (2021) Part 3 : Create and publish your own React component library. - YouTube](https://www.youtube.com/watch?v=d8oztfRBGrI)
 
-[Step by step: How to setup Storybook with Next.js and Tailwind CSS - DEV Community](https://dev.to/theodorusclarence/step-by-step-how-to-setup-storybook-with-nextjs-and-tailwind-css-lf)
+[Step by step: How to setup Storybook with Next.js and Tailwind CSS - DEV Community](https://dev.to/theodorusclarence/step-by-step-how-to-setup-storybook-with-nextjs-and-tailwind-css-lf) 2021
 
-[Component-Driven Development Using Storybook | recallact.com](https://www.recallact.com/presentation/component-driven-development-using-storybook)
+[Component-Driven Development Using Storybook | recallact.com](https://www.recallact.com/presentation/component-driven-development-using-storybook) 2019
 
 [Using Storybook to develop React components faster - LogRocket Blog](https://blog.logrocket.com/using-storybook-to-develop-react-components-faster/)
 [How to use Storybook with React - DEV Community 👩‍💻👨‍💻](https://dev.to/tducasse/how-to-use-storybook-with-react-10g1)
@@ -1840,10 +1839,6 @@ Component Story Format
 
 [gumdrops.gumgum.com - Storybook](https://gumdrops.gumgum.com)
 [gumgum/gumdrops: GumGum's React Reusable Component Library](https://github.com/gumgum/gumdrops)
-
-[storybook.netlify.com - Storybook](https://storybook.netlify.com)
-
-[storybook.storefrontui.io - Storybook](https://storybook.storefrontui.io/)
 
 [newline-sandbox/react-d3-charts: D3 chart visualizations built with React](https://github.com/newline-sandbox/react-d3-charts)
 

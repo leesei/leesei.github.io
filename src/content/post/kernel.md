@@ -2,7 +2,7 @@
 title: Kernel
 description: ""
 created: 2016-03-27
-updated: 2026-02-01
+updated: 2026-05-24
 tags:
   - comp
   - linux
@@ -104,6 +104,11 @@ tags:
 
 [Syscalls, Kernel vs. User Mode and Linux Kernel Source Code - bin 0x09 - YouTube](https://www.youtube.com/watch?v=fLS99zJDHOc)
 [Searchable Linux Syscall Table for x86 and x86_64 | PyTux](https://filippo.io/linux-syscall-table/)
+
+#### ARM SVC
+
+[arm64.syscall.sh](https://arm64.syscall.sh/)
+[Finding hidden function calls using SVC instruction - YouTube](https://www.youtube.com/watch?v=UFBbu37aBxY)
 
 ### Scheduler
 
@@ -456,3 +461,11 @@ POSIX compatible unikernel
 
 [Microkernel - Wikiwand](https://www.wikiwand.com/en/Microkernel)
 [Is Linux kernel design outdated? : linux](https://www.reddit.com/r/linux/comments/69umqo/is_linux_kernel_design_outdated/)
+
+### QNX
+
+[QNX - Wikiwand](https://www.wikiwand.com/en/QNX)
+QNX is a highly reliable, commercial Unix-like real-time operating system (RTOS) owned by BlackBerry. It is primarily designed for mission-critical and embedded systems where safety, security, and instantaneous response times are mandatory.
+[qnx.com/developers/docs/qnxeverywhere/index.html](https://www.qnx.com/developers/docs/qnxeverywhere/index.html)
+
+[QNX Architecture Explained Simply – Why It Never Crashes (Microkernel Secret) - YouTube](https://www.youtube.com/watch?v=cpP2KVzKbcc)

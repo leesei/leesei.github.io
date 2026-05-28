@@ -2,7 +2,7 @@
 title: LEGO
 description: ""
 created: 2016-06-12
-updated: 2026-01-13
+updated: 2026-05-17
 tags:
   - lego
   - toys
@@ -14,6 +14,7 @@ tags:
 [Why Lego Is So Expensive | So Expensive | Business Insider - YouTube](https://www.youtube.com/watch?v=-d8sNML3WT8)
 [Why Lego won - YouTube](https://www.youtube.com/watch?v=pSdJBKhDmNo)
 [風靡一世的樂高為何走上窮途末路？專利過期、還也還不完的巨額負債，超強 CEO 用 1 招殺出重圍！ - YouTube](https://www.youtube.com/watch?v=IxSo-vVPYB0)
+[Why everyone hates Lego now - YouTube](https://www.youtube.com/watch?v=dSgwNvydXhI)
 
 [乐高 篇一：让我告诉你在乐高中国总部搭建新品 10261 过山车是种什么体验*开箱晒物*什么值得买](https://post.smzdm.com/p/731665/?nozhiyou)
 [乐高 篇二：那个你心心念念的乐高中国总部 是不是该了解一下？*生活记录*什么值得买](https://post.smzdm.com/p/728862/)
@@ -176,7 +177,7 @@ MOC = My Own Creation
 [Brick Science - YouTube](https://www.youtube.com/@Brick_Science)
 [brickitect - YouTube](https://www.youtube.com/@brickitect)
 [BrickMecha - YouTube](https://www.youtube.com/@BrickMecha) mini-scale
-[Charbel's LEGO TECHNIC Creations - YouTube](https://www.youtube.com/@CharbelLEGOcreation/featured) Technic, cars
+[Charbel's LEGO TECHNIC Creations - YouTube](https://www.youtube.com/@CharbelLEGOcreation) Technic, cars
 [DesignJunkie58 - YouTube](https://www.youtube.com/@DesignJunkie58) Technic, cars
 [Jamie's Lego Jams - YouTube](https://www.youtube.com/@JamiesLegoJams)
 [LegoForces - YouTube](https://www.youtube.com/@legoforces8830/) Technic, cars and military
@@ -238,7 +239,7 @@ Nathanael Kuipers, ex Lego designer
 [JK Brickworks - YouTube](https://www.youtube.com/@JKBrickworks) Technic, machines
 
 [Sariel.pl » Ideas](http://sariel.pl/category/ideas/)
-[Sariel's LEGO® Workshop - YouTube](https://www.youtube.com/user/searme/featured)
+[Sariel's Bricks & Pets - YouTube](https://www.youtube.com/@searme)
 
 [The Building Block Blog – Lego Technic MOC'S and more…](https://thebuildingblockblog.wordpress.com/)
 [LEGO Engineering – Inspiration and support for LEGO-based engineering in the classroom](http://www.legoengineering.com/)
@@ -951,6 +952,7 @@ Control with proprietary controller, sticks control port 3 and 4 (yellow and bla
 Also have custom chassis with 2.4GHz receiver
 
 [国产 Buwizz？双鹰 C51027 遥控机器人 开箱评测*开箱晒物*什么值得买](https://post.smzdm.com/p/685838/)
+[CaDA BOTapp-官方正版软件2026最新版本免费下载-应用宝官网](https://sj.qq.com/appdetail/com.shuangying.syrobot?fromcase=40003&from_wxz=1)
 
 motors:
 [双鹰 CaDA 国产 88003 88004 12787c01(6024100) 电机伺服回力马达-淘宝网](https://item.taobao.com/item.htm?id=568732832644) ❗!important

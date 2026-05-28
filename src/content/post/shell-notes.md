@@ -2,7 +2,7 @@
 title: Shell notes
 description: ""
 created: 2014-12-08
-updated: 2026-01-16
+updated: 2026-05-05
 tags:
   - linux
   - shell
@@ -25,9 +25,9 @@ Most of the following are compatible to `bash` and `zsh`.
 [CLIs Are Making A Comeback - YouTube](https://www.youtube.com/watch?v=-gmWbD5kGIk)
 
 [The Complete Bash Scripting Course - ysap.sh](https://course.ysap.sh/)
-[Bash Automation & Scripting Basics (Part 1) – CloudSavvy IT](https://www.cloudsavvyit.com/9676/bash-automation-scripting-basics-part-1/)
-[Bash Automation and Scripting Basics (Part 2) – CloudSavvy IT](https://www.cloudsavvyit.com/9760/bash-automation-and-scripting-basics-part-2/)
-[Bash Automation and Scripting Basics (Part 3) – CloudSavvy IT](https://www.cloudsavvyit.com/9768/bash-automation-and-scripting-basics-part-3/)
+[Bash Automation & Scripting Basics (Part 1)](https://www.howtogeek.com/devops/bash-automation-scripting-basics-part-1/)
+[Bash Automation and Scripting Basics (Part 2)](https://www.howtogeek.com/devops/bash-automation-and-scripting-basics-part-2/)
+[Bash Automation and Scripting Basics (Part 3)](https://www.howtogeek.com/devops/bash-automation-and-scripting-basics-part-3/)
 
 ## Choosing shell
 
@@ -175,6 +175,10 @@ multiple repos can be used to merge common and machine-specific configs
 [omerxx/dotfiles](https://github.com/omerxx/dotfiles)
 [eeowaa/stow-dotfiles](https://github.com/eeowaa/stow-dotfiles)
 
+#### home-manager
+
+[nix-community/home-manager: Manage a user environment using Nix [maintainer=@khaneliman, @rycee]](https://github.com/nix-community/home-manager) for NixOS
+
 ### switching OS and host
 
 ```sh
@@ -213,8 +217,8 @@ fi
 
 ## Subprocess
 
-[How to Use Multi-Threaded Processing in Bash Scripts – CloudSavvy IT](https://www.cloudsavvyit.com/12277/how-to-use-multi-threaded-processing-in-bash-scripts/)
-[Bash Process Termination Hacks – CloudSavvy IT](https://www.cloudsavvyit.com/9290/bash-process-termination-hacks/)
+[How to Use Multi-Threaded Processing in Bash Scripts](https://www.howtogeek.com/devops/how-to-use-multi-threaded-processing-in-bash-scripts/)
+[Bash Process Termination Hacks](https://www.howtogeek.com/devops/bash-process-termination-hacks/)
 
 ## Common tasks
 

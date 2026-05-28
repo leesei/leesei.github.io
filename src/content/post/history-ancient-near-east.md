@@ -2,7 +2,7 @@
 title: Ancient Near East History
 description: ""
 created: 2020-01-23
-updated: 2025-10-10
+updated: 2026-03-25
 tags:
   - history
   - history/near-east
@@ -105,7 +105,7 @@ Middle Assyrian Empire (1392 BC - 934 BC) Neo-Assyrian Empire (911 BC - 609 BC)
 
 [Medes - Wikiwand](https://www.wikiwand.com/en/Medes) 678-549B.C. conquered by Persian Cyrus the Great
 [米底王国 - Wikiwand](https://www.wikiwand.com/zh/%E7%B1%B3%E5%BA%95%E7%8E%8B%E5%9B%BD)
-[File:Pre-Achaemenid Era.gif - Wikipedia](https://en.wikipedia.org/wiki/File:Pre-Achaemenid_Era.gif) Median, Persia
+[File:Pre-Achaemenid Era.gif - Wikipedia](https://en.wikipedia.org/wiki/File:Pre-Achaemenid_Era.gif?oldformat=true) Median, Persia
 
 ## Anatolia
 

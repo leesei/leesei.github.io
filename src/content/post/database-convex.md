@@ -2,7 +2,7 @@
 title: Convex
 description: Convex is the open-source reactive database for app developers.
 created: 2025-02-13
-updated: 2025-10-10
+updated: 2026-03-13
 tags:
   - comp/database
   - convex

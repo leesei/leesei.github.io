@@ -2,7 +2,7 @@
 title: Board Games
 description: ""
 created: 2018-01-03
-updated: 2025-10-10
+updated: 2026-04-13
 tags:
   - board-game
   - games
@@ -20,6 +20,7 @@ tags:
 
 [How to play D&D on PC: A primer on popular virtual tabletops | PC Gamer](https://www.pcgamer.com/au/how-to-play-dd-on-pc-a-primer-on-popular-virtual-tabletops/)
 [D&D Beyond - An official digital toolset for Dungeons & Dragons (D&D) Fifth Edition (5e)](https://www.dndbeyond.com/)
+[How To Play D&D - YouTube](https://www.youtube.com/watch?v=HpmL4CX4E8g)
 
 [Rolisteam - Rolisteam](https://rolisteam.org/)
 

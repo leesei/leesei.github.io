@@ -2,7 +2,7 @@
 title: Linux Desktop
 description: ""
 created: 2014-12-12
-updated: 2025-12-19
+updated: 2026-05-20
 tags:
   - desktop
   - gjs
@@ -282,15 +282,6 @@ Wait [until 2.0](http://news.softpedia.com/news/solus-2-0-operating-system-to-in
 [In Full Sail | Solus](https://getsol.us/2018/10/27/in-full-sail/) what happened when Ikey left the core team
 [Package Repo Migration Now Available | Solus](https://getsol.us/2018/09/11/package-repo-migration-now-available/)
 
-### COSMIC
-
-Based on GNOME shell, tiling WM, written in Rust
-
-[System76 Blog — Pop!\_OS 21.04: A Release of COSMIC Proportions](https://blog.system76.com/post/655369428109869056/popos-2104-a-release-of-cosmic-proportions)
-[Pop!\_OS 21.04 Full Review - Cosmic is Awesome! - YouTube](https://www.youtube.com/watch?v=aID3UVTGlMo)
-
-[pop-os/cosmic: Computer Operating System Main Interface Components](https://github.com/pop-os/cosmic)
-
 ### Deepin DE
 
 Minimal, modern desktop written in Qt and Go.
@@ -324,23 +315,32 @@ OS X like desktop that is [ported to OS X](http://blog.elementary.io/post/142076
 [Pop!\_OS by System76](https://pop.system76.com/)
 [Pop!\_OS - Wikiwand](https://www.wikiwand.com/en/Pop!_OS)
 
+[The Pop!\_OS 24.04 LTS Upgrade is here! - System76 Blog](https://blog.system76.com/post/pop-24-04-lts-upgrade)
+[Pop!\_OS Features: Productivity For All - YouTube](https://www.youtube.com/watch?v=IyXzjnd6q3g)
+[Pop!\_OS 24.04 Full Review | The COSMIC Desktop is Here! - YouTube](https://www.youtube.com/watch?v=IOp7g7BNzRE)
+[POP!\_OS COSMIC Is Finally Here - And It’s AWESOME! - YouTube](https://www.youtube.com/watch?v=T2DOYZiRrXU)
+
 [Pop OS Review: Is This Beautiful Linux Distribution Worth Your Time?](https://itsfoss.com/pop-os-linux-review/)
 
 [Using Pop Shell on other GNOME Desktops - System76 Support](https://support.system76.com/articles/pop-shell/)
 [pop-os/shell: Pop!\_OS Shell](https://github.com/pop-os/shell)
 `gnome-shell-extension-pop-shell-bin`
 
+The DE COSMIC is based on GNOME shell, tiling WM, written in Rust
+
 [New shiny for the COSMIC and Xfce desktops is coming • The Register](https://www.theregister.com/2023/02/02/system76_cosmic_xfce_updates/)
 [pop-os/cosmic-epoch: Next generation Cosmic desktop environment](https://github.com/pop-os/cosmic-epoch)
+
+[EndeavourOS-Community-Editions/cosmic: Installer files to install Cosmic Desktop from EndeavourOS ISO](https://github.com/EndeavourOS-Community-Editions/cosmic)
+[pop-os/cosmic-epoch: Next generation Cosmic desktop environment](https://github.com/pop-os/cosmic-epoch)
+[pop-os/gnome-shell-extension-pop-cosmic: GNOME Shell extension. See cosmic-epoch for COSMIC Epoch](https://github.com/pop-os/gnome-shell-extension-pop-cosmic)
 
 ### Zorin
 
 Zorin OS is based on Ubuntu LTS and the desktop is powered by Gnome Shell. In making it OSX-like some features are not that friendly.
 [Zorin OS](https://zorinos.com/) is the distro pushing Zorin desktop
 
-## Display Manager
-
-> Display Manager = Login Manager
+## Display Manager/Login Manager/Greeter
 
 [Display manager - ArchWiki](https://wiki.archlinux.org/title/Display_manager)
 [Install Display Managers - Manjaro Linux](https://wiki.manjaro.org/index.php?title=Install_Display_Managers)
@@ -351,7 +351,7 @@ The available sessions are in `/usr/share/xsessions/`.
 Some DM use `~/.xinitrc` instead of `/usr/share/xsessions/`.
 [XDM - ArchWiki](https://wiki.archlinux.org/title/XDM)
 
-[LightDM - ArchWiki](https://wiki.archlinux.org/title/LightDM)
+[LightDM - ArchWiki](https://wiki.archlinux.org/title/LightDM) Greeter is a separate package and needs to be configured in `/etc/lightdm/lightdm.conf`.
 [LightDM – Discovery](https://discovery.endeavouros.com/desktop-environments/lightdm/2021/03/)
 
 ## Display Server
@@ -616,7 +616,7 @@ xdg-mime query filetype text/plain
 # query default
 xdg-mime query default inode/directory
 # set default
-xdg-mime default sublime_text.desktop text/plain
+xdg-mime default vscode.desktop text/plain
 xdg-mime default nemo.desktop inode/directory
 
 # shows recommended apps
@@ -738,16 +738,39 @@ fc-match "Noto Sans CJK TC"
 fc-cache  # update cache for FontConfig
 ```
 
-## evdev
+## Keymapping/Keybinding
 
-> kernel input event manager, works without X11
+[Keyboard input - ArchWiki](https://wiki.archlinux.org/title/Keyboard_input)
+
+### evdev
+
+> kernel input event manager, works in X11 and Wayland
 
 [EVDEV(4) manual page](https://www.x.org/releases/X11R7.5/doc/man/man4/evdev.4.html)
+[Evemu](https://www.freedesktop.org/wiki/Evemu/)
+
+[fedora - Keyboard emulation in Wayland - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/381831/keyboard-emulation-in-wayland)
 
 [rvaiya/keyd: A key remapping daemon for linux.](https://github.com/rvaiya/keyd)
 [philipl/evdevremapkeys: Daemon to remap events on linux input devices](https://github.com/philipl/evdevremapkeys/tree/master)
 
-## xinput
+[libevdev Python wrapper — libevdev Python wrapper 0.13.1 documentation](https://python-libevdev.readthedocs.io/en/latest/)
+[sezanzeb/input-remapper: 🎮 ⌨ An easy to use tool to change the behaviour of your input devices. · GitHub](https://github.com/sezanzeb/input-remapper)
+
+### Wayland
+
+[waycrate/swhkd: Sxhkd clone for Wayland (works on TTY and X11 too)](https://github.com/waycrate/swhkd) ~= Sxhkd
+
+[ydotool(1) — Arch manual pages](https://man.archlinux.org/man/ydotool.1.en) `xdotool`
+[ReimuNotMoe/ydotool: Generic command-line automation tool](https://github.com/ReimuNotMoe/ydotool)
+[Tutorial: Getting started with ydotool to automate key presses (or mouse movements) in Linux | GabrielStaples.com](https://gabrielstaples.com/ydotool-tutorial/#gsc.tab=0)
+
+#### wev
+
+[Keyboard input - ArchWiki](https://wiki.archlinux.org/title/Keyboard_input)
+[~sircmpwn/wev - Wayland event viewer - sourcehut git](https://git.sr.ht/~sircmpwn/wev)
+
+### xinput/X11
 
 ```sh
 xinput list
@@ -777,7 +800,7 @@ Show key code and key symbol table: `xmodmap -pke`
 fn+F9 155 (0x9b) Key name KEY_MAIL
 fn+F10 172 (0xac) Key name KEY_HOMEPAGE
 
-### xmodmap
+#### xmodmap
 
 #keymap
 
@@ -787,7 +810,7 @@ fn+F10 172 (0xac) Key name KEY_HOMEPAGE
 [Make Caps Lock Great Again By Remapping It With Xmodmap - YouTube](https://www.youtube.com/watch?v=r3hxmzwwyyE)
 [XKeyCaps](https://www.jwz.org/xkeycaps/) graphical front-end to xmodmap
 
-### xdotool
+#### xdotool
 
 > emit X input events
 
@@ -795,7 +818,7 @@ fn+F10 172 (0xac) Key name KEY_HOMEPAGE
 
 [jordansissel/xdotool: fake keyboard/mouse input, window management, and more](https://github.com/jordansissel/xdotool)
 
-### xte
+#### xte
 
 > emit X input events
 
@@ -803,14 +826,14 @@ fn+F10 172 (0xac) Key name KEY_HOMEPAGE
 [Using xte to script your workflow – Mike's Software Blog](https://mike42.me/blog/2014-11-07_using_xte_to_script_your_workflow)
 [linux - How can I simulate pressing `{` with xte? - Super User](https://superuser.com/questions/1543063/how-can-i-simulate-pressing-with-xte)
 
-### xdo
+#### xdo
 
 > emit X input events, window management
 
 [baskerville/xdo: Small X utility to perform elementary actions on windows](https://github.com/baskerville/xdo)
 [Xdo: Window Manipulation With A Generic Tool - YouTube](https://www.youtube.com/watch?v=GkGVmuiOUXg)
 
-### `sxhkd`
+#### `sxhkd`
 
 #keymap
 
@@ -818,10 +841,12 @@ fn+F10 172 (0xac) Key name KEY_HOMEPAGE
 > requires X11, may conflict with DE's keyboard shortcut
 > search by accelerato/binding in DE's keyboard setting to free up binding
 > it may be captured by a DE Extension (and not reflected in gsettings)
+> see `swhkd` for Wayland equivalent
 
 [baskerville/sxhkd: Simple X hotkey daemon](https://github.com/baskerville/sxhkd)
 [sxhkd - ArchWiki](https://wiki.archlinux.org/title/Sxhkd)
 
+[ubuntu 22.04, (减少鼠标 多用键盘, 集中思路), sxhkd(按键)+xdotool(X11窗口工具）\_ubuntu安装xdotool-CSDN博客](https://blog.csdn.net/hfcaoguilin/article/details/137141089)
 [Problem creating shortcuts with super-key (win-key/mod4) · Issue #549 · linuxmint/cinnamon · GitHub](https://github.com/linuxmint/cinnamon/issues/549#issuecomment-388763522) DE may capture windows key, change it in Keyboard setting ("Hyper is mapped to Win")
 
 The keysym names are given by the output of `xev -event keyboard`.
@@ -839,7 +864,7 @@ add `sxhkd.desktop` to `~/.local/share/applications/` and add to UI shell's Star
 [Ubuntu 20.04 BSPWM + SXHD configuration · GitHub](https://gist.github.com/amacgregor/9d0b556103db9f5c5a2f1def6ba874ac)
 [dotfiles/bspwm/.config/sxhkd/sxhkdrc at master · nick-ulle/dotfiles · GitHub](https://github.com/nick-ulle/dotfiles/blob/master/bspwm/.config/sxhkd/sxhkdrc)
 
-### xbindkeys
+#### xbindkeys
 
 #keymap
 
@@ -855,7 +880,7 @@ add `sxhkd.desktop` to `~/.local/share/applications/` and add to UI shell's Star
 [Mapping Your Mouse Buttons in Linux • thecrumb](https://www.thecrumb.com/posts/xbindkeys/)
 Bing keys to program, with `xte` of `xautomation` it is another (better and more versatile) way of binding input keys than editing `xorg.conf.d/`.
 
-### Gesture recognition
+#### Gesture recognition
 
 [jersou/mouse-actions: mouse-actions execute some command from mouse events such as clicks/wheel on the side/corners of the screen, or drawing shapes. It's a mix between Easystroke and Compiz edge commands.](https://github.com/jersou/mouse-actions)
 
@@ -900,7 +925,7 @@ XFree86 -> X Org
 
 [[Linux.conf.au 2013] - The real story behind Wayland and X - YouTube](https://www.youtube.com/watch?v=cQoQE_HDG8g)
 
-[File:Free and open-source-software display servers and UI toolkits.svg](https://en.wikipedia.org/wiki/File:Free_and_open-source-software_display_servers_and_UI_toolkits.svg)
+[File:Free and open-source-software display servers and UI toolkits.svg](https://en.wikipedia.org/wiki/File:Free_and_open-source-software_display_servers_and_UI_toolkits.svg?oldformat=true)
 
 ### xhost
 
@@ -953,6 +978,8 @@ xrandr --output HDMI2 --scale 1.2 # zoom out
 xrandr -q
 xrandr --output DisplayPort-0 --mode 1920x1080 --rate 60.00
 ```
+
+[phillipberndt/autorandr: Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr](https://github.com/phillipberndt/autorandr)
 
 ### ddcutil
 
@@ -1040,11 +1067,20 @@ Application Options:
 [Writing Wayfire plugins (Part 1)](https://wayfire.org/2020/04/10/Writing-Plugins.html)
 [Writing Wayfire plugins (Part 2)](https://wayfire.org/2020/10/28/Writing-Plugins.html)
 
+[Supreeeme/xwayland-satellite: Xwayland outside your Wayland](https://github.com/Supreeeme/xwayland-satellite)
+
 [Screen Sharing is Not Working - NOT Wayland · Issue #1331 · IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux/issues/1331) `ELECTRON_OZONE_PLATFORM_HINT=auto` for Electron apps
 
-[philj56/tofi: Tiny dynamic menu for Wayland](https://github.com/philj56/tofi) ~= rofi
+[Useful Utilities – Hyprland Wiki](https://wiki.hypr.land/Useful-Utilities/)
 
-[waycrate/swhkd: Sxhkd clone for Wayland (works on TTY and X11 too)](https://github.com/waycrate/swhkd) ~= Sxhkd
+[waycrate/waylevel: A tool to print Wayland toplevels status and info.](https://github.com/waycrate/waylevel)
+[waycrate/wayout: Simple tool to set output modes for wlroots compositors implementing zwlr_output_power_management_v1.](https://github.com/waycrate/wayout)
+
+[hyprwm/hyprpicker: A wlroots-compatible Wayland color picker that does not suck.](https://github.com/hyprwm/hyprpicker)
+
+[Simon Ser / kanshi · GitLab](https://gitlab.freedesktop.org/emersion/kanshi) `xrandr`/`autorandr` for Wayland
+
+[philj56/tofi: Tiny dynamic menu for Wayland](https://github.com/philj56/tofi) ~= rofi
 
 ## fingerprint
 
@@ -1112,6 +1148,14 @@ Application Options:
 [WinBoat - Run Windows Apps on Linux with Seamless Integration](https://www.winboat.app/)
 [TibixDev/winboat: Run Windows apps on 🐧 Linux with ✨ seamless integration](https://github.com/TibixDev/winboat)
 [This free and open-source app runs any Windows app on Linux with ease](https://www.xda-developers.com/winboat-free-open-source-runs-windows-app-on-linux/)
+
+### Winux
+
+> distro with Winboat, tools and Windows theme preinstalled
+
+[Winux 11 - The Successor to Windows 10 for Your Current PC by Linuxfx LLC](https://www.winux.is/) originally Linuxfx Wubuntu, but they have leaked user data
+
+[Wubuntu - An Illegal Windows Like Distro - YouTube](https://www.youtube.com/watch?v=apZwCXy8E9U)
 
 ## WinApps
 

@@ -2,7 +2,7 @@
 title: Learning
 description: ""
 created: 2018-07-10
-updated: 2026-01-16
+updated: 2026-05-09
 tags:
   - learning
 featured: true
@@ -30,8 +30,9 @@ Do learn from first-principal
 
 [Explore and Contribute to Knowledge | Golden](https://golden.com/explore)
 [Quora](https://www.quora.com/)
-[Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Main_Page)
-[Wikiwand](https://www.wikiwand.com/en/)
+[Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Main_Page?oldformat=true)
+[Wikiwand](https://www.wikiwand.com/en/) better layout IMO, but breaks table formating sometimes, append `?oldformat=true` to URL to skip redirection
+[Wikipedia Pressed the Red button on Odin | TheStandup - YouTube](https://www.youtube.com/watch?v=uo1I6lS5DYU) is Wikipedia's requirement for notability valid?
 
 [Your Goals Kinda Suck - LEVEL UP As A Developer - YouTube](https://www.youtube.com/watch?v=rzwaaWH0ksk) importance of setting achievable goal
 

@@ -2,7 +2,7 @@
 title: Qt
 description: All the tools you need for creating software applications or embedded devices
 created: 2019-09-19
-updated: 2025-01-09
+updated: 2026-05-05
 tags:
   - app
   - qml
@@ -118,7 +118,7 @@ Qt 5 gives you essentially five (5!) UI toolkits
 
 [Qt for Python Tutorial HelloQML - Qt Wiki](https://wiki.qt.io/Qt_for_Python_Tutorial_HelloQML)
 [Python & QML Akademy_2018.pdf](https://conf.kde.org/system/event_attachments/attachments/000/000/019/original/Akademy_2018.pdf)
-[Jason Codes Qt - YouTube](https://www.youtube.com/@josys363/videos)
+[Jason Codes Qt - YouTube](https://www.youtube.com/@josys363) PySide
 
 [PySide6.QtQml - Qt for Python](https://doc.qt.io/qtforpython-6/PySide6/QtQml/)
 [PySide6.QtQuick — Qt for Python](https://doc.qt.io/qtforpython-6/PySide6/QtQuick/)
@@ -262,7 +262,6 @@ The name of the project is **Qt for Python** and the name of the module is **PyS
 [PySide2.QtGui — Qt for Python](https://doc.qt.io/qtforpython-6/PySide6/QtGui/index.html)
 [PySide2.QtWidgets — Qt for Python](https://doc.qt.io/qtforpython-6/PySide6/QtWidgets/index.html)
 [QObject — Qt for Python](https://doc.qt.io/qtforpython-6/PySide6/QtCore/QObject.html#more)
-[Jason Codes Qt - YouTube](https://www.youtube.com/@josys363/videos) PySide
 
 [Riverbank | Software | PyQt | What is PyQt?](https://riverbankcomputing.com/software/pyqt/intro) PyQt is GPL, use with care
 [pyqt/python-qt5: Unofficial PyQt5 via PyPI for Python 2.7 64-bit on Windows](https://github.com/pyqt/python-qt5)

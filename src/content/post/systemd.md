@@ -2,7 +2,7 @@
 title: systemd
 description: ""
 created: 2017-01-05
-updated: 2025-11-15
+updated: 2026-04-17
 tags:
   - desktop
   - linux
@@ -257,17 +257,28 @@ journalctl -r
 journalctl -f
 # time filtering `--since` and `--until`
 journalctl --since "2019-09-25 15:00"
-# filter to `docker` service
-journalctl -u docker.service
-# add entry to journal
-echo "here" | systemd-cat
-
 # kernel logs (akin to dmesg)
 journalctl -k
+
+# only show SERVICE_NAME
+journalctl -u SERVICE_NAME
+# exclude SERVICE_NAME
+journalctl --exclude-identifier=SERVICE_NAME  # needs systemd v256+
+# exclude SERVICE_NAME
+journalctl -g '^(?!.*servicename)'
+# exclude SERVICE_NAME
+journalctl | grep -v 'servicename'
+# exclude PID
+journalctl | grep -v "\[PID\]:"
+
+
+# add entry to journal
+echo "here" | systemd-cat
 
 # formatting output
 # man 7 system.journal-fields
 journalctl -o verbose
+journalctl -o json
 journalctl -o json-pretty
 ```
 

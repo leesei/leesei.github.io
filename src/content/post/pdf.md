@@ -2,7 +2,7 @@
 title: Portable Document Format (PDF)
 description: ""
 created: 2018-10-27
-updated: 2026-02-10
+updated: 2026-04-15
 tags:
   - business
   - desktop
@@ -121,19 +121,22 @@ Chop/Watermark:
 [Ghostscript - Wikiwand](https://www.wikiwand.com/en/Ghostscript)
 [pdftex - Why does PDFSIZEOPT not reduce file size much? - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/549501/why-does-pdfsizeopt-not-reduce-file-size-much) `gs` is better
 
-[How to convert pdf to image on Linux command line - nixCraft](https://www.cyberciti.biz/faq/how-to-convert-pdf-to-image-on-linux-command-line/)
-
-```sh
-pdftoppm <input.pdf> <output> -jpeg
-pdftoppm <input.pdf> <output> -jpeg
-pdftoppm -f <start_page> -l end_page -jpeg <input.pdf> <output>
-```
-
 [diff-pdf](https://vslavik.github.io/diff-pdf/)
 
 [Coherent PDF Command Line Tools and C/C++/Python/.NET/Java/JavaScript API Community Release](https://community.coherentpdf.com/) non-commercial use
 
 [4 Free Methods to Remove Watermarks From PDFs](https://www.makeuseof.com/free-methods-to-remove-watermarks-pdf/)
+
+### PDF to Image
+
+[How to convert pdf to image on Linux command line - nixCraft](https://www.cyberciti.biz/faq/how-to-convert-pdf-to-image-on-linux-command-line/)
+
+```sh
+# output is basename
+pdftoppm <input.pdf> <output> -jpeg
+pdftoppm <input.pdf> <output> -jpeg
+pdftoppm -f <start_page> -l end_page -jpeg <input.pdf> <output>
+```
 
 ### PDF24
 
@@ -289,6 +292,7 @@ gs -dNOPAUSE -dBATCH -dSAFER \
 [Chapter 13 – Working with PDF and Word Documents - Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter13/)
 
 [Comparison with other PDF Table Extraction libraries and tools · camelot-dev/camelot Wiki · GitHub](https://github.com/camelot-dev/camelot/wiki/Comparison-with-other-PDF-Table-Extraction-libraries-and-tools)
+[Comparison with other PDF libraries · jsvine/pdfplumber](https://github.com/jsvine/pdfplumber#specific-comparisons)
 
 [pikepdf Documentation](https://pikepdf.readthedocs.io/en/latest/) QPDF wrapper
 
@@ -302,7 +306,9 @@ gs -dNOPAUSE -dBATCH -dSAFER \
 
 [Free and Open source PDF generator library! | pdfme](https://pdfme.com/) define template and insert data
 
-[PDFMiner](https://euske.github.io/pdfminer/)
+[jsvine/pdfplumber: Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.](https://github.com/jsvine/pdfplumber) uses pdfminer.six
+[pdfminer/pdfminer.six: Community maintained fork of pdfminer - we fathom PDF](https://github.com/pdfminer/pdfminer.six)
+
 [pmaupin/pdfrw: pdfrw is a pure Python library that reads and writes PDFs](https://github.com/pmaupin/pdfrw)
 
 [stapler · PyPI](https://pypi.org/project/stapler/)

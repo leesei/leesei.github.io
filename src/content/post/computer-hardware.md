@@ -2,7 +2,7 @@
 title: Computer Hardware
 description: ""
 created: 2016-09-27
-updated: 2025-11-23
+updated: 2026-03-25
 tags:
   - comp/hardware
 ---
@@ -389,7 +389,7 @@ Gamers Nexus
 [音質小教室：耳機振膜材質－鑽石](https://blog.witsper.com/tips/diamond/)
 [音質科普：耳機振膜材質－鈦 | 智選 Blog](https://blog.witsper.com/tips/titanium/)
 
-### [OMTP](http://en.wikipedia.org/wiki/Open_Mobile_Terminal_Platform)
+### [OMTP](https://www.wikiwand.com/en/Open_Mobile_Terminal_Platform)
 
 Apple devices (Chinese)
 HTC (Chinese)

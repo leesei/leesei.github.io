@@ -2,7 +2,7 @@
 title: Amazon Web Services
 description: ""
 created: 2015-06-17
-updated: 2026-01-13
+updated: 2026-05-05
 tags:
   - web
 ---
@@ -571,8 +571,8 @@ SQS: message queuing
 # AI
 
 [How I got AWS Machine Learning Certified - Paulthi Victor - Medium](https://medium.com/@paulthi.victor/how-i-got-aws-machine-learning-certified-dd78d4da8bcf)
-
-[A Beginner’s Guide to AWS’s Machine Learning Services – CloudSavvy IT](https://www.cloudsavvyit.com/2599/a-beginners-guide-to-awss-machine-learning-services/)
+[AWS ML Basics Guide for Beginners | Medium](https://medium.com/@AlexanderObregon/a-beginners-introductory-guide-to-aws-machine-learning-services-92ae189ab1c4)
+[Machine Learning 101 with AWS - DEV Community](https://dev.to/leonardkachi/machine-learning-101-with-aws-164k)
 
 ## SageMaker
 

@@ -2,7 +2,7 @@
 title: Blockchain
 description: ""
 created: 2017-08-18
-updated: 2026-03-10
+updated: 2026-05-26
 tags:
   - blockchain
   - crypto
@@ -13,7 +13,9 @@ tags:
 [[hyperledger-fabric]]
 
 [動區動趨-最具影響力的區塊鏈新聞媒體](https://www.blocktempo.com/)
+
 [Crypto Tokens: A Breakthrough in Open Network Design](https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef)
+[What Are Token Standards?](https://www.binance.com/en/academy/articles/what-are-token-standards)
 
 [Crypto Theses for 2022 - Messari](https://messari.io/crypto-theses-for-2022)
 [Cambridge Bitcoin Electricity Consumption Index (CBECI)](https://ccaf.io/cbeci/index/comparisons)
@@ -34,6 +36,7 @@ In "order selection mechanism" (which is called "mining"), blocks will be serial
 
 [The top 5 problems with blockchain | Computerworld](https://www.computerworld.com/article/3236480/emerging-technology/the-top-5-problems-with-blockchain.html)
 [Will blockchain run afoul of GDPR? (Yes and no) | Computerworld](https://www.computerworld.com/article/3269750/blockchain/will-blockchain-run-afoul-of-gdpr-yes-and-no.html)
+[Best Crypto APIs for Web3 Developers (2026) - Hashlock](https://hashlock.com/blog/best-crypto-apis-for-web3-developers-2026)
 
 [Crypto Courses | Learn Blockchain & Web3 for Free](https://www.binance.com/en/academy/courses)
 
@@ -73,6 +76,8 @@ In "order selection mechanism" (which is called "mining"), blocks will be serial
 
 ## Stable Coin
 
+> mostly likely a replacement of USD in clearing and international trade, not for daily use
+
 [Stablecoin 101 - YouTube](https://www.youtube.com/playlist?list=PLoJwRn8qrG24u3Vyt3JUxYyLlSsp797C4) Circle
 
 [Demystifying Stablecoins: The use cases, the pegging mechanism, and the implications on financial market | J.P. Morgan Private Bank Asia](https://privatebank.jpmorgan.com/apac/en/insights/markets-and-investing/demystifying-stablecoins)
@@ -82,13 +87,44 @@ Algorithm pegging is not reliable
 [Arthur Hayes 觀點全文》詳談 UST 死亡螺旋，回顧各類穩定幣、行情後勢判斷 | 動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)](https://www.blocktempo.com/luna-brothers-inc-by-arthur-hayes/)
 [研究報告 | 算法穩定幣是什麼，有哪些類型？以 UST、OHM、FRAX 為例 | 動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)](https://www.blocktempo.com/how-many-algothrimic-stablecoins-are-there-and-what-are-the-types/)
 
-## Layer2 Blockchain
+## MultiversX Sovereign Chains
+
+> dispite its name, this is a L2 chain
+
+[Sovereign Chains - MultiversX](https://multiversx.com/sovereign-chains)
+[Sovereign Chains - Next-gen blockchains - YouTube](https://www.youtube.com/watch?v=VrQm-lDxeGs)
+
+## Layer 2 Blockchain
+
+[Graphical Depiction of Ethereum Scaling Solutions | Samuel Laferriere’s website](https://samlaf.github.io/blockchain/graphical-depiction-of-ethereum-scaling-solutions.html) ❗!important
+
+Layer 1: increased block size, side chains, merged mining, sharding
+Layer 2: state channels (side chain), plasma, rollups
 
 [List of 20 Layer 2 Blockchains (2025)](https://www.alchemy.com/dapps/best/layer-2-blockchains)
 [Layer 1 vs. Layer 2: The Difference Between Blockchain Scaling Solutions](https://www.investopedia.com/what-are-layer-1-and-layer-2-blockchain-scaling-solutions-7104877)
 
 [高峰時仍擁堵，Solana 也需要 Layer2 和 Rollup 嗎？ | 動區動趨-最具影響力的區塊鏈新聞媒體](https://www.blocktempo.com/does-the-high-performance-public-blockchain-solana-need-layer2-and-rollups/)
+[What Are Rollups? Understanding Blockchain’s Layer 2 Scaling Solution](https://cryptoapis.io/blog/226-what-are-rollups-understanding-blockchains-layer-2-scaling-solution)
+[A Guide Understanding Blockchain Rollups: ZK vs Optimistic Rollups](https://www.cyfrin.io/blog/what-are-blockchain-rollups-a-full-guide-to-zk-and-optimistic-rollups)
+Optimistic Rollups takes days to finalize the transaction, what's happening
 [What Are ZK Rollups? | Chainlink](https://chain.link/education-hub/zero-knowledge-rollup)
+[What are "Rollups" in crypto? | Coinbase](https://www.coinbase.com/zh-sg/learn/wallet/what-are-rollups-in-crypto)
+[Alchemy Rollups Overview | Alchemy Docs](https://www.alchemy.com/docs/rollups)
+
+[The different types of ZK-EVMs](https://vitalik.eth.limo/general/2022/08/04/zkevm.html)
+[New Paradigm in Ethereum L2 Scaling: Multi-proving and ZK-VMs — Mikko Ikola](https://www.mikkoikola.com/blog/2023/12/11/new-paradigm-in-ethereum-l2-scaling-multi-proving-and-zk-vms)
+
+[Upgrading Every EVM Chain to ZK: Introducing the Type 1 Prover](https://polygon.technology/blog/upgrade-every-evm-chain-to-zk-introducing-the-type-1-prover)
+
+[ZKsync.io](https://www.zksync.io/)
+[100 Days to Mainnet. We are proud to announce zkSync 2.0… | by Matter Labs | Matter Labs](https://blog.matter-labs.io/100-days-to-mainnet-6f230893bd73)
+
+[Linea: The L2 Where Ethereum Wins](https://linea.build/) target to make its zkEVM to L1 zkEVM
+[Build Where Ethereum Wins](https://linea.build/developers)
+[Linea Explained: The Ethereum Layer-2 Scaling Solution SWIFT is Testing](https://www.ccn.com/education/crypto/linea-ethereum-layer2-swift-defi-scaling-solution/)
+[Linea is Ethereum | Linea Blog](https://linea.build/blog/linea-is-ethereum)
+[Ethereum Goes All in on Zero-Knowledge — Full zkEVM Rollout Starts This Year | CCN.com](https://www.ccn.com/news/crypto/ethereum-all-in-on-full-zkevm-rollout/)
 
 ## Cosmos
 
@@ -113,9 +149,18 @@ Algorithm pegging is not reliable
 [What is the merkle tree in Bitcoin? - YouTube](https://www.youtube.com/watch?v=V6gLY-1G4Mc&t=8s)
 [How Merkle Trees Enable the Decentralized Web! - YouTube](https://www.youtube.com/watch?v=YIc6MNfv5iQ)
 
+Ethereum is using Patricia Merkle Tries (PMT)
+[Merkle Patricia Trie | ethereum.org](https://ethereum.org/developers/docs/data-structures-and-encoding/patricia-merkle-trie/)
+[What are Patricia Merkle Tries? | Alchemy Docs](https://www.alchemy.com/docs/patricia-merkle-tries)
+[以太坊 Merkle Patricia Tree 全解析 - 知乎](https://zhuanlan.zhihu.com/p/46702178)
+
 ### Verkle Trees
 
-[Verkle Trees for Statelessness](https://verkle.info/)
+[Verkle trees](https://vitalik.eth.limo/general/2021/06/18/verkle.html)
+[Verkle trees | ethereum.org](https://ethereum.org/roadmap/verkle-trees/)
+[Verkle tree structure | Ethereum Foundation Blog](https://blog.ethereum.org/2021/12/02/verkle-tree-structure)
+[What are Verkle Trees in Ethereum?](https://blog.web3labs.com/what-are-verkle-trees-in-ethereum/)
+[The Verge -Ethereum’s Efficient Verifiable Query Technique: Verkle Trees | by ZAN | Medium](https://medium.com/@zan.top/the-verge-ethereums-efficient-verifiable-query-technique-verkle-trees-a063f1b9d4b0)
 [V神大讚的「Verkle Trees」是什麼、比默克爾樹更好？目標今年上線以太坊實現無狀態驗證 | 動區動趨-最具影響力的區塊鏈新聞媒體](https://www.blocktempo.com/verkle-trees-for-statelessness/)
 
 ## Scalability/Sidechains/Interoperability
@@ -169,16 +214,39 @@ Algorithm pegging is not reliable
 ## Ethereum
 
 [Home | ethereum.org](https://ethereum.org/en/)
-[Ethereum development documentation | ethereum.org](https://ethereum.org/developers/docs)
+[Ethereum development documentation | ethereum.org](https://ethereum.org/developers/docs/)
+[Fellowship of Ethereum Magicians](https://ethereum-magicians.org/)
+
+[Mastering Ethereum: 2nd Edition](https://masteringethereum.xyz/) O'Reilly book
+
+[Ethereum Blockchain Developer](https://www.ethereum-blockchain-developer.com/)
 [Blockchain Foundation Program – KBA eLearning](https://learn.kba.ai/course/blockchain-foundation-program/)
 [Ethereum Fundamentals – KBA eLearning](https://learn.kba.ai/course/ethereum-fundamentals/)
-[ethereum-blockchain-developer.com](https://www.ethereum-blockchain-developer.com/)
+[A gentle introduction to Ethereum – Bits on Blocks](https://bitsonblocks.net/2016/10/02/gentle-introduction-ethereum/)
+
+[Overview of Ethereum Forks](https://onekey.so/blog/ecosystem/overview-of-ethereum-forks/)
+[Vitalik: The next hard fork of Ethereum will include multiple EIPs, with mid-term goals focusing on the state layer | Foresight_News on Binance Square](https://www.binance.com/en/square/post/314440829235874)
+[Ethereum Pectra Upgrade: Everything you need to know](https://consensys.io/ethereum-pectra-upgrade) May 7, 2025
+
+[Ethereum Blockchain Developer Bootcamp With Solidity (2025) | Udemy](https://www.udemy.com/course/blockchain-developer/) bought
+[Ethereum Blockchain Developer Mini Courses](https://www.ethereum-blockchain-developer.com/advanced-mini-courses)
+[Ethereum Blockchain Developer Courses](https://www.ethereum-blockchain-developer.com/courses/introduction/your-instructor-for-this-course) free version
+
+[The Complete Guide to Full Stack Ethereum Development - DEV Community](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
+[The Complete Guide to Full Stack Ethereum Development - Tutorial for Beginners [2021] - YouTube](https://www.youtube.com/watch?v=a0osIaAOFSE)
+
+[WTF Academy](https://www.wtf.academy/en) ❗!important
+[AmazingAng/WTF-Solidity: WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy · GitHub](https://github.com/AmazingAng/WTF-Solidity)
+
+[The Merge terminology - HackMD](https://hackmd.io/@n0ble/the-merge-terminology) Consensus-layer and Execution-layer
 
 [ERC | Ethereum Improvement Proposals](https://eips.ethereum.org/erc)
+[什麼是 ERC-20、ERC-721、ERC-1155？差別為何？NFT 是哪一種？ - 幣學 ｜ BShare.io](https://bshare.io/nft/erc20_721_1155/)
 
-[ERC-20: Token Standard](https://eips.ethereum.org/EIPS/eip-20)
+[ERC-20: Token Standard](https://eips.ethereum.org/EIPS/eip-20) fungible, interchangeable, indistinguishable
 [ERC-20 Token Standard | ethereum.org](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
 [What Is ERC-20 and What Does It Mean for Ethereum?](https://www.investopedia.com/news/what-erc20-and-what-does-it-mean-ethereum/)
+[An Introduction to ERC-20 Tokens](https://www.binance.com/en/academy/articles/an-introduction-to-erc-20-tokens)
 "ERC20" refers to a scripting standard used within the Ethereum blockchain.
 
 [ERC-721: Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-721)
@@ -189,19 +257,37 @@ Algorithm pegging is not reliable
 [ERC-1967: Proxy Storage Slots](https://eips.ethereum.org/EIPS/eip-1967) Proxy Contract
 [ERC-2678: Revised Ethereum Smart Contract Packaging Standard (EthPM v3)](https://eips.ethereum.org/EIPS/eip-2678)
 
+[ERC-1155: Multi Token Standard](https://eips.ethereum.org/EIPS/eip-1155)
+
+[EIP-8141 Frame Transaction | EIP-8141](https://eip8141.io/) native account abstraction
+[EIP-8141: Frame Transaction](https://eips.ethereum.org/EIPS/eip-8141)
+[EIP-8141: Frame Transaction - A Deep Dive into Native AA - HackMD](https://hackmd.io/wolcJaYBS1K88yKq8Ux9Cw)
+Add a new transaction whose validity and gas payment can be defined abstractly. Instead of relying solely on a single ECDSA signature, accounts may freely define and interpret their signature scheme using any cryptographic system.
+[What EIP-8141 Means for Developers](https://www.openfort.io/blog/eip-8141-means-for-developers)
+[EIP-8141: The Ethereum Upgrade That Changes Everything About Transactions | LinkedIn](https://www.linkedin.com/pulse/eip-8141-ethereum-upgrade-changes-everything-pandit-dhamdhere-c0fwf/)
+[Ethereum Account Abstraction EIP-8141 Changes for Validators | Everstake](https://everstake.one/resources/blog/native-account-abstraction-on-ethereum-what-eip-8141-means-for-validators)
+[原生帳戶抽象 + 抗量子威脅：EIP-8141 為何還沒成以太坊 Hegotá 主打功能？ | 動區動趨-最具影響力的區塊鏈新聞媒體](https://www.blocktempo.com/why-eip-8141-not-become-a-core-feature-of-ethereums-hegota-platform/)
+
 [What is ERC20 on Solana? | Solana](https://solana.com/developers/evm-to-svm/erc20)
 [How USDC Works On Ethereum: ERC-20 Token Standard - YouTube](https://www.youtube.com/watch?v=un8wHvDxRQM)
 
 [Ethereum Platform with Preethi Kasireddy | Software Engineering Daily](https://softwareengineeringdaily.com/2017/10/11/ethereum-platform-with-preethi-kasireddy/)
 
-[Ethereum Blockchain Developer Bootcamp With Solidity (2025) | Udemy](https://www.udemy.com/course/blockchain-developer/) bought
-[Ethereum Blockchain Developer Courses](https://www.ethereum-blockchain-developer.com/courses/introduction/your-instructor-for-this-course) free version
+### Gas
 
-[Ethereum Blockchain Developer Mini Courses](https://www.ethereum-blockchain-developer.com/advanced-mini-courses)
+[Ethereum Gas Tracker | Etherscan](https://etherscan.io/gastracker)
+[ethereum Gas Tracker API - Owlracle](https://owlracle.info/eth)
+[Blocknative — Web3's Most Trusted Gas Solution](https://www.blocknative.com/)
+
+[交易卡住該怎麼辦？MetaMask 交易取消小技巧 (交易停滯、錢包設定、Gas Fee調整) - 幣學 ｜ BShare.io](https://bshare.io/wallet/metamask_tips/)
+
+[Uniswap Introduction](https://www.ethereum-blockchain-developer.com/advanced-mini-courses/uniswap-introduction/overview)
+
+[Gas Station Network](https://opengsn.org/) pay gas without ETH
+
+[ERC-4337: Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
 [The Ultimate ERC-4337 Tutorial: A Guide to Ethereum Gasless Onboarding](https://www.ethereum-blockchain-developer.com/advanced-mini-courses/gasless-onboarding-erc2612-erc4337-eip7702)
-
-[The Complete Guide to Full Stack Ethereum Development - DEV Community](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
-[The Complete Guide to Full Stack Ethereum Development - Tutorial for Beginners [2021] - YouTube](https://www.youtube.com/watch?v=a0osIaAOFSE)
+[EC4337: Account Abstraction](https://www.ethereum-blockchain-developer.com/advanced-mini-courses/erc4337-account-abstraction-end-to-end-development/overview)
 
 ### IDE
 
@@ -209,18 +295,27 @@ Algorithm pegging is not reliable
 [remix-project-org/remix-desktop](https://github.com/remix-project-org/remix-desktop)
 [Ethereum Remix - YouTube](https://www.youtube.com/channel/UCjTUPyFEr2xDGN6Cg8nKDaA)
 
+[OpenZeppelin Contracts Wizard](https://wizard.openzeppelin.com/)
+
 [Hardhat 3](https://hardhat.org/)
 
 [foundry - Ethereum Development Framework](https://getfoundry.sh/)
 
 [Remix vs Truffle vs Hardhat vs Foundry](https://www.ethereum-blockchain-developer.com/advanced-mini-courses/remix-vs-truffle-vs-hardhat-vs-foundry) Truffle is EOL-ed
 
+## Gnosis Chain
+
+[Gnosis Chain | Gnosis Chain](https://docs.gnosischain.com/)
+
 ## Solana
 
 [Global Financial Infrastructure for Everyone | Solana](https://solana.com/)
 [Solana (blockchain platform) - Wikiwand](<https://www.wikiwand.com/en/articles/Solana_(blockchain_platform)>)
-
+[Learn how the Solana blockchain works | Solana](https://solana.com/docs)
 [Solana: A new architecture for a high performance blockchain](https://solana.com/solana-whitepaper.pdf) Whitepaper
+
+[Solana Learn](https://solana.com/learn)
+[solana-foundation/curriculum: A collection of resources to teach Solana in universities and bootcamps](https://github.com/solana-foundation/curriculum)
 
 ## Algorand
 
@@ -229,6 +324,7 @@ Algorithm pegging is not reliable
 
 [Algorand’s post-quantum blockchain technology | Algorand](https://algorand.co/technology/post-quantum)
 this does use Falcon signature, consensus upgrade pending
+[Technical Brief: Quantum-resistant transactions on Algorand with Falcon signatures](https://algorand.co/blog/technical-brief-quantum-resistant-transactions-on-algorand-with-falcon-signatures)
 [Algorand Developers - YouTube](https://www.youtube.com/@algodevs)
 
 [Algorand Developer Docs - Algorand Developer Portal](https://developer.algorand.org/docs/)
@@ -244,29 +340,48 @@ this does use Falcon signature, consensus upgrade pending
 
 [What are Web3 domains? | Algorand Foundation News](https://algorand.co/learn/what-are-web3-domains)
 
+## BNB Smart Chain (BSC)
+
+[An Introduction to BNB Smart Chain (BSC)](https://www.binance.com/en/academy/articles/an-introduction-to-bnb-smart-chain-bsc#What-Is-BNB-Smart-Chain-BSC)
+[bnb-chain · GitHub](https://github.com/bnb-chain)
+[BNB Smart Chain](https://docs.bnbchain.org/bnb-smart-chain/)
+[bnb-chain/whitepaper: BNB Smart Chain · GitHub](https://github.com/bnb-chain/whitepaper)
+
+[BSC Post-Quantum Cryptography Migration Report - BNB Chain Blog](https://www.bnbchain.org/en/blog/bsc-post-quantum-cryptography-migration-report)
+[all: post quantum migration poc by fynnss · Pull Request #3660 · bnb-chain/bsc · GitHub](https://github.com/bnb-chain/bsc/pull/3660)
+
 ## Smart Contracts
 
-[A gentle introduction to smart contracts | Bits on blocks](https://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts/)
-
-[Gnosis Chain | Gnosis Chain](https://docs.gnosischain.com/)
+[A gentle introduction to smart contracts – Bits on Blocks](https://bitsonblocks.net/2016/02/01/gentle-introduction-smart-contracts/)
 
 [Smart Contract Security with Emin Gün Sirer | Software Engineering Daily](https://softwareengineeringdaily.com/2017/10/20/4085/)
 
 [How to Not Destroy Millions in Smart Contracts (Pt. 1) | by Omer Goldberg | HackerNoon.com | Medium](https://medium.com/hackernoon/how-to-not-destroy-millions-in-smart-contracts-pt-1-bdefac3656b7)
 [How to Not Destroy Millions in Smart Contracts (Pt.2) | by Omer Goldberg | HackerNoon.com | Medium](https://medium.com/hackernoon/how-to-not-destroy-millions-in-smart-contracts-pt-2-85c4d8edd0cf)
 
-[The role of Solidity and JavaScript in Web3 applications - LogRocket Blog](https://blog.logrocket.com/solidity-javascript-web3-blockchain-applications/)
-
-[Hardhat | Ethereum development environment for professionals by Nomic Foundation](https://hardhat.org/)
-[Hardhat | Ethereum development environment for professionals by Nomic Foundation](https://hardhat.org/plugins/nomiclabs-hardhat-waffle.html)
+[Hardhat 3](https://hardhat.org/) Ethereum development environment for professionals
+[Hardhat 3 official plugins | Hardhat 3](https://hardhat.org/docs/plugins/official-plugins)
 [Waffle](https://getwaffle.io/) smart contracts testing
 
-[Solidity in 100 Seconds - YouTube](https://www.youtube.com/watch?v=kdvVwGrV7ec)
-[Welcome - Smart Docs | Smart Docs](https://smart-docs.vercel.app/) Easiest documentation viewer for Solidity smart contracts.
+[OpenZeppelin Monitor | OpenZeppelin Docs](https://docs.openzeppelin.com/monitor/) monitor and notification framework
+[OpenZeppelin Relayer | OpenZeppelin Docs](https://docs.openzeppelin.com/relayer/) multichain relay framework
+
+[Vyper — Vyper documentation](https://vyper.readthedocs.io/en/stable/) pythonic programming language for Ethereum Virtual Machine (EVM)
+
+### Solidity
+
+A language for writing smart contract supporting multiple blockchain (mainly EVM)
 
 [Solidity documentation](https://docs.soliditylang.org/en/latest/)
-[Vyper — Vyper documentation](https://vyper.readthedocs.io/en/stable/) pythonic programming language for Ethereum Virtual Machine (EVM)
+[OpenZeppelin Contracts | OpenZeppelin Docs](https://docs.openzeppelin.com/contracts) A library of secure, modular, and reusable Solidity components for building custom contracts
+[Welcome - Smart Docs | Smart Docs](https://smart-docs.vercel.app/) Easiest documentation viewer for Solidity smart contracts.
+[Quick Solidity Code Examples](https://www.ethereum-blockchain-developer.com/solidity-examples/overview)
 [Blockchain for Beginners Tutorial – Learn to Code Smart Contracts with JavaScript and Solidity](https://www.freecodecamp.org/news/introduction-to-blockchain/)
+[The role of Solidity and JavaScript in Web3 applications - LogRocket Blog](https://blog.logrocket.com/solidity-javascript-web3-blockchain-applications/)
+
+[Solidity in 100 Seconds - YouTube](https://www.youtube.com/watch?v=kdvVwGrV7ec)
+[Learn Solidity in 20 Minutes! - YouTube](https://www.youtube.com/watch?v=RQzuQb0dfBM)
+[Solidity Tutorial for Beginners - Full Course in 4 Hours (2023) - YouTube](https://www.youtube.com/watch?v=AYpftDFiIgk)
 
 ## Exchanges
 
@@ -358,13 +473,18 @@ sarcasm
 [Hack the block](https://resources.kudelskisecurity.com/fumblechain)
 [kudelskisecurity/fumblechain: A Purposefully Vulnerable Blockchain](https://github.com/kudelskisecurity/fumblechain)
 
+[Blogs | Hashlock](https://hashlock.com/blogs)
+
 [Blockchain Security Series — Part 1 | by IBM PTC Security | Medium](https://medium.com/@ibm_ptc_security/blockchain-security-series-fdde5ccad7e4)
 [Blockchain Security Series — Part 2 | by IBM PTC Security | Medium](https://medium.com/@ibm_ptc_security/blockchain-security-series-f28ffde73b54)
 [Blockchain Security Series — Part 3 | by IBM PTC Security | Medium](https://medium.com/@ibm_ptc_security/blockchain-security-series-part-3-a5a5dfb39e48)
 
-## Decentralized Autonomous Organization/DAO
+[Learn Smart Contract Security and Auditing - Cyfrin Updraft](https://updraft.cyfrin.io/courses/security)
+[Cyfrin/security-and-auditing-full-course-s23: The ultimate, most advanced, security, DeFi, assembly, web3 auditor course ever created. · GitHub](https://github.com/Cyfrin/security-and-auditing-full-course-s23)
 
-[Govern better, together. Build your DAO now.](https://aragon.org/)
+[Sherlock — A Complete Guide to Solidity Security Audits for Web3 Protocols](https://sherlock.xyz/post/a-complete-guide-to-solidity-security-audits-for-web3-protocols)
+[Essential Tools for Auditing Solidity Smart Contracts: A Practical Guide | by Dehvcurtis | Medium](https://medium.com/@dehvcurtis/essential-tools-for-auditing-solidity-smart-contracts-a-practical-guide-4a6b5e1b5709)
+[Advanced Security Auditing Methods for Solidity-Based Smart Contracts](https://www.mdpi.com/2079-9292/13/20/4093)
 
 ## Wallet
 
@@ -442,11 +562,14 @@ Storage The wallet (comprising a tree of key pairs) can be stored:
 
 [Deep Dive : State Of Multi Party Computation Wallets in 2025 | Techandtips123 on Binance Square](https://www.binance.com/en/square/post/23815520474738)
 [Multi-Party Computation in Blockchain: What are MPC Wallets? - Hashlock](https://web.archive.org/web/20260228044542/https://hashlock.com/blog/multi-party-computation-in-blockchain-what-are-mpc-wallets#elementor-toc__heading-anchor-0)
+[Understanding MPC Wallets: A Complete Guide to Multi-Party Computation Security](<https://www.nervos.org/zh/knowledge-base/understanding_mpc_wallets_(explainCKBot)>)
 
 [What Is MPC (Multi-Party Computation)? - MPC 101 - Fireblocks](https://www.fireblocks.com/what-is-mpc)
 [Introducing MPC-CMP - 8X Faster MPC Wallet Signing - Fireblocks](https://www.fireblocks.com/blog/pushing-mpc-wallet-signing-speeds-8x-with-mpc-cmp-9)
 [UC Non-Interactive, Proactive, Threshold ECDSA](https://eprint.iacr.org/2020/492) MPC-CMP
 [Fast Multiparty Threshold ECDSA with Fast Trustless Setup | Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security](https://dl.acm.org/doi/10.1145/3243734.3243859) MPC-GG18
+
+[MPC vs Multisig Wallets: Which Is Best in 2025?](https://www.iofinnet.com/post/mpc-vs-multisig) Multisig is not chain agnostic
 
 ### Hardware Wallet
 
@@ -460,6 +583,7 @@ Storage The wallet (comprising a tree of key pairs) can be stored:
 
 - using [Polygon's zkEVM](https://docs.polygon.technology/zkEVM/) zero-knowledge Ethereum Virtual Machine
 - [What Is a zkEVM? | Chainlink](https://chain.link/education-hub/zkevm)
+- [Sunsetting Polygon zkEVM Mainnet Beta in 2026 - Announcements - Polygon Community Forum](https://forum.polygon.technology/t/sunsetting-polygon-zkevm-mainnet-beta-in-2026/21020)
 
 [What is Lumia Chain? | Lumia - The RWA Chain](https://docs.lumia.org/)
 

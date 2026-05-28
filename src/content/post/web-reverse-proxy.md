@@ -2,7 +2,7 @@
 title: Reverse Proxy
 description: ""
 created: 2015-06-17
-updated: 2026-02-12
+updated: 2026-05-05
 tags:
   - dev/deploy
   - web
@@ -184,13 +184,20 @@ Depends on Zookeeper
 
 [Træfɪk](https://traefik.io/)
 [Traefik Tutorial: Traefik Reverse Proxy with LetsEncrypt for Docker Media Server](https://www.smarthomebeginner.com/traefik-reverse-proxy-tutorial-for-docker/amp/)
-[How to Route Traffic to Docker Containers With Traefik Reverse Proxy – CloudSavvy IT](https://www.cloudsavvyit.com/15223/how-to-route-traffic-to-docker-containers-with-traefik-reverse-proxy/)
+[How to Route Traffic to Docker Containers With Traefik Reverse Proxy](https://www.howtogeek.com/devops/how-to-route-traffic-to-docker-containers-with-traefik-reverse-proxy/)
 
 Auto load-balancing, supports multiple service registries (Docker, Kubernetes, Mesos/Marathon, Consul, Etcd, and more to come)
 
-[Let's Encrypt - Træfik](https://docs.traefik.io/configuration/acme/)
-[Let's Encrypt & Docker - Træfik](https://docs.traefik.io/user-guide/docker-and-lets-encrypt/)
-[Swarm Mode Cluster - Træfik](https://docs.traefik.io/user-guide/swarm-mode/)
+[Overview - Traefik](https://doc.traefik.io/traefik/expose/overview/)
+[Traefik & ACME Certificates Resolver - Traefik](https://doc.traefik.io/traefik/reference/install-configuration/tls/certificate-resolvers/acme/)
+
+[Setup Traefik Proxy in Docker Standalone - Traefik](https://doc.traefik.io/traefik/setup/docker/)
+[Basic Docker - Traefik](https://doc.traefik.io/traefik/expose/docker/basic/)
+[Advanced Docker- Traefik](https://doc.traefik.io/traefik/expose/docker/advanced/#generate-certificates-with-lets-encrypt)
+
+[Setup Traefik Proxy in Docker Swarm - Traefik](https://doc.traefik.io/traefik/setup/swarm/)
+[Basic Swarm - Traefik](https://doc.traefik.io/traefik/expose/swarm/basic/)
+[Advanced Swarm - Traefik](https://doc.traefik.io/traefik/expose/swarm/advanced/)
 
 [I Replaced Nginx Proxy Manager with Traefik in My Home Lab and It Changed Everything - Virtualization Howto](https://www.virtualizationhowto.com/2025/09/i-replaced-nginx-proxy-manager-with-traefik-in-my-home-lab-and-it-changed-everything/)
 

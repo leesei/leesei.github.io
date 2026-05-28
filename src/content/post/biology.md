@@ -2,7 +2,7 @@
 title: Biology
 description: Scientific study of life
 created: 2016-09-24
-updated: 2026-01-18
+updated: 2026-05-06
 tags:
   - biology
   - learning
@@ -192,7 +192,8 @@ Ranks other than Genus and Species is not necessary in specifying an species
 - (Phylum/Division 門)
 - Class 綱
 - Order 目, -iformes/-ia
-- (Superfamily 超科, -oidae)
+- (總科, -oidea)
+- (Superfamily 超科/領科, -oidae)
 - (Family 科, -idae)
 - (Subfamily 亞科, -inae)
 - Genus 屬, -us
@@ -230,3 +231,7 @@ Ranks other than Genus and Species is not necessary in specifying an species
 - paratype - any specimen (or illustration) cited in the original description that is not the holotype nor an isotype, nor one of the syntypes
 - neotype - a specimen or illustration selected to serve as nomenclatural type if no material from the original description is available
 - epitype - a specimen or illustration selected to serve as an interpretative type, usually when another kind of type does not show the critical features needed for identification
+
+## Bioluminescence
+
+[We Made The Stuff That Makes Fireflies Glow In A Lab - YouTube](https://www.youtube.com/watch?v=fbuJSmpxiNY)

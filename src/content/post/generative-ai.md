@@ -2,7 +2,7 @@
 title: Generative AI
 description: ""
 created: 2023-05-08
-updated: 2026-03-05
+updated: 2026-05-28
 tags:
   - ai
   - aigc
@@ -148,6 +148,7 @@ hallucinate
 [[2305.18153] Do Large Language Models Know What They Don't Know?](https://arxiv.org/abs/2305.18153)
 [GPT 總愛「一本正經的胡說八道」怎麼辦？OpenAI 稱找到解決 AI「幻覺」方法 | T 客邦](https://www.techbang.com/posts/106813-what-to-do-with-ai-making-up-nonsense-openai-claims-to-find-a)
 [為什麼 ChatGPT 總是會「一本正經的胡說八道」？瞭解 GPT 語言模型的 6 個缺點與問題 | T 客邦](https://www.techbang.com/posts/104718-dark-side-of-chatgpt)
+[They solved AI hallucinations! - YouTube](https://www.youtube.com/watch?v=1ONwQzauqkc)
 
 [5 Hilarious Times AI Chatbots Went Wild and Hallucinated](https://www.makeuseof.com/best-examples-ai-chatbot-hallucination/)
 [What Is AI Hallucination, and How Do You Spot It?](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/)
@@ -194,6 +195,7 @@ hallucinate
 
 [Nano Banana can be prompt engineered for extremely nuanced AI image generation | Max Woolf's Blog](https://minimaxir.com/2025/11/nano-banana-prompts/)
 [Nano Banana Pro深度评测，PS这次真可丢了，超强AI绘画神器 - YouTube](https://www.youtube.com/watch?v=cGU_xn5b30M)
+[Ultimate prompting guide for Nano Banana | Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/ultimate-prompting-guide-for-nano-banana)
 
 [2023 年視覺生成式 AI 年終大回顧！！ - YouTube](https://www.youtube.com/watch?v=9AahFT8Y3lw)
 [【生成式AI】淺談圖像生成模型 Diffusion Model 原理 - YouTube](https://www.youtube.com/watch?v=azBugJzmz-o)
@@ -411,6 +413,10 @@ Better than DALL-E, also open source
 
 [The 9 Best AI Video Generators (Text-to-Video)](https://www.makeuseof.com/best-ai-video-generators-text-to-video/)
 
+[But how do AI images and videos actually work? | Guest video by Welch Labs - YouTube](https://www.youtube.com/watch?v=iv-5mZ_9CPY)
+[How AI Image Generators Work (Stable Diffusion / Dall-E) - Computerphile - YouTube](https://www.youtube.com/watch?v=1CIpzeNxIhU)
+[How Generative AI Video Works - Computerphile - YouTube](https://www.youtube.com/watch?v=hJHfZKYUKMw) Diffusion on autoencoder's more condensed latent space
+
 [AI Image Generator - Create Art, Images & Video | Leonardo AI](https://leonardo.ai/)
 [Luma AI | AI Video Generation with Ray2 & Dream Machine | Luma AI](https://lumalabs.ai/)
 [KLING AI: Next-Generation AI Creative Studio](https://www.klingai.com/)
@@ -498,6 +504,9 @@ Better than DALL-E, also open source
 [Large language model - Wikiwand](https://www.wikiwand.com/en/Large_language_model)
 [The 3 Horizons of LLM Evolution - KDnuggets](https://www.kdnuggets.com/the-3-horizons-of-llm-evolution) LLM -> RAG -> LLM Agent
 [Exploring The Impact Of MCP, A2A and Agentic Ai On RAG-Based Applications – SMBtech](https://smbtech.au/thought-leadership/exploring-the-impact-of-mcp-a2a-and-agentic-ai-on-rag-based-applications/)
+[Comparing AI protocols: MCP, A2A, AGP, AGNTCY, IBM ACP, Zed ACP – 4sysops](https://4sysops.com/archives/comparing-ai-protocols-mcp-a2a-agp-agntcy-ibm-acp-zed-acp/)
+
+[How I run heavy open-source LLMs for free without a GPU](https://www.howtogeek.com/how-i-run-heavy-open-source-llms-for-free-without-a-gpu/) running Juypter notebooks on Kaggle
 
 程序员老王
 [AI技术 - YouTube](https://www.youtube.com/playlist?list=PLeYA2mrASg3HpDL09QUoIfQsYzlz-CKyX)
@@ -510,8 +519,10 @@ Better than DALL-E, also open source
 ["Catching up on the weird world of LLMs" - Simon Willison (North Bay Python 2023) - YouTube](https://www.youtube.com/watch?v=h8Jth_ijZyY)
 [LLM Foundations (LLM Bootcamp) - YouTube](https://www.youtube.com/watch?v=MyFrMFab6bo)
 [Stanford CS224N: Natural Language Processing with Deep Learning | 2023 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
+[Language Models Explained in 5 Minutes - KDnuggets](https://www.kdnuggets.com/language-models-explained-in-5-minutes)
 
 [A Hackers' Guide to Language Models - YouTube](https://www.youtube.com/watch?v=jkrNMKz9pWU)
+[Large language models: how the AI behind the likes of ChatGPT actually works](https://theconversation.com/large-language-models-how-the-ai-behind-the-likes-of-chatgpt-actually-works-244701)
 
 [mlabonne/llm-course: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.](https://github.com/mlabonne/llm-course) ❗!important
 [PipiHi0926/llm-course-zh: 大型語言模型(LLM)的讀書會內容code部分整理，此github提供簡單、免費、易實作code範例，並由淺入深帶你一步步了解如何基於python建置LLM流程、部屬功能等](https://github.com/PipiHi0926/llm-course-zh)
@@ -547,6 +558,8 @@ Andrej Karpathy
 [【LLM 10大觀念-2】Good Data is All You Need | by 倢愷 Oscar | Medium](https://axk51013.medium.com/llm%E5%B0%88%E6%AC%84-%E8%BF%8E%E6%8E%A52024%E5%B9%B4-10%E5%80%8B%E5%BF%85%E9%A0%88%E8%A6%81%E6%90%9E%E6%87%82%E7%9A%84llm%E6%A6%82%E5%BF%B5-2-good-data-is-all-you-need-1e9e760c016a)
 
 林亦LYi
+[LYiHub · GitHub](https://github.com/LYiHub)
+[linyiLYi · GitHub](https://github.com/linyiLYi)
 [从零开始学习大语言模型（一） - YouTube](https://www.youtube.com/watch?v=biMrHwwsK-M)
 [不要199！免费教程速通大模型！AI是怎么学会讲人话的？ - YouTube](https://www.youtube.com/watch?v=2YRFaaHrZTI) token, n-gram encoding
 [大模型是怎么学会讲人话的？ - YouTube](https://www.youtube.com/watch?v=6-wpuac27Bk)
@@ -585,6 +598,13 @@ Computerphile
 [An AI Wizard of Words | Linux Journal](https://www.linuxjournal.com/content/ai-wizard-words)
 [10 Common Misconceptions About Large Language Models - MachineLearningMastery.com](https://machinelearningmastery.com/10-common-misconceptions-about-large-language-models/)
 
+### LLM Usage Transparency
+
+For CISO
+
+[Ceros - Secure & Monitor Your AI Ecosystem](https://www.beyondidentity.ai/)
+[Ceros: The AI Trust Layer for AI Governance, Shadow AI Discovery, and Session Control - YouTube](https://www.youtube.com/watch?v=ZCO1UqxU9V0)
+
 ### Open Responses
 
 > open inference standard initiated by OpenAI
@@ -612,6 +632,7 @@ Computerphile
 [7 Popular LLMs Explained in 7 Minutes - KDnuggets](https://www.kdnuggets.com/7-popular-llms-explained-in-7-minutes)
 [GPT-3 vs BERT: Comparing LLMs | Exxact Corp.](https://www.exxactcorp.com/blog/deep-learning/gpt-3-vs-bert-llm-comparison)
 [Top 7 Small Language Models - KDnuggets](https://www.kdnuggets.com/top-7-small-language-models)
+[Best Small Language Models on Hugging Face Right Now! - KDnuggets](https://www.kdnuggets.com/best-small-language-models-on-hugging-face-right-now)
 
 [ELMO, BERT, GPT - YouTube](https://www.youtube.com/watch?v=UYPa347-DdE)
 
@@ -630,11 +651,17 @@ AI21's Jurassic-1 is the largest network (178 billion parameters)
 
 ### Local LLM
 
+林亦LYi
 [苹果 M2 Ultra：干翻英伟达！决战 AI 之巅 - YouTube](https://www.youtube.com/watch?v=UsfmqTb2NVY) The unified memory on Apple SoC fits large transformer models very well
-[大模型解决不了英伟达的难题，AI新范式必将出现：专访安克创新CEO阳萌 - YouTube](https://www.youtube.com/watch?v=kMBjzxKYWw4) von Neumann -> unified memory -> 存算一體
+[本地AI哪家强？统一内存大横评！ - YouTube](https://www.youtube.com/watch?v=A5w_k3GAwrQ)
+
+老石谈芯
+[大模型解决不了英伟达的难题，AI新范式必将出现：专访安克创新CEO阳萌 - YouTube](https://www.youtube.com/watch?v=kMBjzxKYWw4) von Neumann bottleneck -> unified memory -> 存算一體, using elctrical property for weighted sum
+[秘密研发三年！安克这颗存算一体芯片，如何违背了所有祖宗的决定？【全网最深度解读】 - YouTube](https://www.youtube.com/watch?v=2Ukh6B70IK4) NOR flash
 
 [【Fun科技】Intel顯卡逆襲！兩張A770跑32B大模型，能贏RTX4090麼？ - YouTube](https://www.youtube.com/watch?v=eFWJY7F9E-c)
 [Feed Your OWN Documents to a Local Large Language Model! - YouTube](https://www.youtube.com/watch?v=fFgyOucIFuk)
+[Your local LLM is 10x slower than it should be - YouTube](https://www.youtube.com/watch?v=L9QZ97y9Exg)
 
 [Llama3–70B inference on Intel Core Ultra 5 125H | by Wei Lu | Medium](https://medium.com/@GenerationAI/llama3-70b-inference-on-intel-core-ultra-5-125h-a796560c2c3a)
 [Cheap mini runs a 70B LLM 🤯 - YouTube](https://www.youtube.com/watch?v=xyKEQjUzfAk) on Intel Core Ultra 5 125H w/ 96G RAM
@@ -643,9 +670,8 @@ AI21's Jurassic-1 is the largest network (178 billion parameters)
 [Run ALL Your AI Locally in Minutes (LLMs, RAG, and more) - YouTube](https://www.youtube.com/watch?v=V_0dNE-H2gw)
 [ai-agents-masterclass/local-ai-packaged at main · coleam00/ai-agents-masterclass](https://github.com/coleam00/ai-agents-masterclass/tree/main/local-ai-packaged) n8n
 
-[Your local LLM is 10x slower than it should be - YouTube](https://www.youtube.com/watch?v=L9QZ97y9Exg)
-
 [How to Install and Run LLMs Locally on Android Phones - KDnuggets](https://www.kdnuggets.com/install-run-llms-locally-android-phones)
+[Self-Hosted LLMs in the Real World: Limits, Workarounds, and Hard Lessons - KDnuggets](https://www.kdnuggets.com/self-hosted-llms-in-the-real-world-limits-workarounds-and-hard-lessons)
 
 [Qwen3-Coder-Next 实测：本地更友好的模型规模 + 真实编码能力（论文亮点/部署） - YouTube](https://www.youtube.com/watch?v=IY1cHup5tLk)
 
@@ -841,6 +867,9 @@ DeepSeek Papers
 
 ### Leaderboard/Benchmark/Evaluation
 
+[Center for Responsible, Decentralized Intelligence at Berkeley](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
+[It's all fake - YouTube](https://www.youtube.com/watch?v=Oq5e_8zvick)
+
 [AI Model & API Providers Analysis | Artificial Analysis](https://artificialanalysis.ai/)
 [LiveBench](https://livebench.ai/#/)
 [Aider LLM Leaderboards | aider](https://aider.chat/docs/leaderboards/)
@@ -860,6 +889,8 @@ DeepSeek Papers
 [Open LLM Leaderboard 2 - a Hugging Face Space by open-llm-leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) using Evaluation Harness
 [EleutherAI/lm-evaluation-harness: A framework for few-shot evaluation of language models.](https://github.com/EleutherAI/lm-evaluation-harness)
 [Evaluate LLMs using Evaluation Harness and Hugging Face TGI/vLLM](https://www.philschmid.de/evaluate-llms-with-lm-eval-and-tgi-vllm)
+
+[ARC Prize - Leaderboard](https://arcprize.org/leaderboard)
 
 [Training & Fine-Tuning LLMs: Evaluation - YouTube](https://www.youtube.com/watch?v=CqO8P5xz6fk)
 
@@ -884,7 +915,13 @@ Can use online or local LLM, different benchmarks
 
 [Advanced LLM Evaluation Platform by datumo](https://datumo.com/en/) redteaming LLM
 
+[petergpt/bullshit-benchmark: BullshitBench measures whether AI models challenge nonsensical prompts instead of confidently answering them, created by Peter Gostev. · GitHub](https://github.com/petergpt/bullshit-benchmark)
+[Inside BullshitBench: AI Models and Nonsense Detection](https://arena.ai/blog/inside-bullshitbench/)
+[The Bullsh\*\* Benchmark - YouTube](https://www.youtube.com/watch?v=QTf9RKMGAuI)
+
 ### Zero-shot Learning/Few-shot Learning/Prompt Engineering
+
+> many maybe outdated for LLM in 2026
 
 [Your AI is a Smart Intern, Not a Strategist: How to Use Planners to Get World-Class Results - The AI Hat](https://theaihat.com/your-ai-is-a-smart-intern-not-a-strategist-how-to-use-planners-to-get-world-class-results/)
 [A Gentle Introduction to Context Engineering in LLMs - KDnuggets](https://www.kdnuggets.com/a-gentle-introduction-to-context-engineering-in-llms)
@@ -901,6 +938,7 @@ Can use online or local LLM, different benchmarks
 [Learn Prompting: Your Guide to Communicating with AI](https://learnprompting.org/)
 [Most Useful ChatGPT Prompts｜ExplainThis](https://www.explainthis.io/en/chatgpt)
 [Prompt Packs | OpenAI Academy](https://academy.openai.com/public/tags/prompt-packs-6849a0f98c613939acef841c)
+[How to train your chatbot through prompt engineering – Computerworld](https://www.computerworld.com/article/1620842/how-to-train-your-chatbot-through-prompt-engineering.html)
 
 [dair-ai/Prompt-Engineering-Guide: 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
 [The Only Prompting Framework for Every Use - KDnuggets](https://www.kdnuggets.com/the-only-prompting-framework-for-every-use)
@@ -908,6 +946,11 @@ Can use online or local LLM, different benchmarks
 [Measuring Prompt Effectiveness: Metrics and Methods - KDnuggets](https://www.kdnuggets.com/measuring-prompt-effectiveness-metrics-and-methods)
 [5 LLM Prompting Techniques Every Developer Should Know - KDnuggets](https://www.kdnuggets.com/5-llm-prompting-techniques-every-developer-should-know)
 [Prompt Engineering Templates That Work: 7 Copy-Paste Recipes for LLMs - KDnuggets](https://www.kdnuggets.com/prompt-engineering-templates-that-work-7-copy-paste-recipes-for-llms)
+
+[JuliusBrussee/caveman: 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman · GitHub](https://github.com/JuliusBrussee/caveman)
+[wilpel/caveman-compression: Caveman Compression is a semantic compression method for LLM contexts. It removes predictable grammar while preserving the unpredictable, factual content that defines meaning. · GitHub](https://github.com/wilpel/caveman-compression)
+[No way this actually works - YouTube](https://www.youtube.com/watch?v=L29q2LRiMRc)
+[What is Caveman Prompt? Reduce LLM token usage by 60% | by Mehul Gupta | Data Science in Your Pocket | Apr, 2026 | Medium](https://medium.com/data-science-in-your-pocket/what-is-caveman-prompt-reduce-llm-token-usage-by-60-6a552734a493)
 
 [The Best 5 AI Prompt Generators For Any AI Tool](https://www.makeuseof.com/best-ai-prompt-generators-for-any-ai-tool/)
 [Try This AI Prompting Formula and I Guarantee You'll Love the Results](https://www.makeuseof.com/ai-prompting-formula-guaranteed-results/)
@@ -918,6 +961,7 @@ Can use online or local LLM, different benchmarks
 [These 6 Prompts Make ChatGPT My Perfect Microlearning Tutor for Any Topic](https://www.makeuseof.com/chatgpt-microlearning-prompts/)
 [How to Stop Getting Fluff from AI and Start Saving Hours with the GRWC Framework | by Julia Davidava | Medium](https://medium.com/@ydavidava/how-to-stop-getting-fluff-from-ai-and-start-saving-hours-with-the-grwc-framework-dac513ff563a) GRWC
 [5 Ways I Get Better Brainstorming Results From ChatGPT](https://www.makeuseof.com/better-brainstorming-with-chatgpt/)
+[This one ChatGPT prompt exposes the holes in any idea — I use it before every major decision](https://www.makeuseof.com/chatgpt-prompt-use-it-before-every-major-decision/)
 [For the Best ChatGPT Prompts, Always Ask It to Be an Expert](https://www.makeuseof.com/how-get-best-chatgpt-answers-expert-prompts/)
 [I Get Perfect Answers From ChatGPT Every Time With These Prompts](https://www.makeuseof.com/get-perfect-answers-from-chatgpt-with-these-prompts/)
 R-A-I-N: Role, Aim, Input, and Numeric Target
@@ -929,7 +973,7 @@ P-I-V-O: Problem, Insight, Voice, and Outcome (Solve Problems With a System)
 P-L-A-N: Problem, Limit, Action, and Number (When You Need Short, Actionable Answers)
 G-R-W-C: Goal, Return format, Warnings (constraints), Context dump
 
-![Promting Cheet Sheet](/_assets/generative-ai/prompting_cheet_sheet.jpeg)
+![Promting Cheet Sheet](./_assets/generative-ai/prompting_cheet_sheet.jpeg)
 
 [Prompt Engineering - YouTube](https://www.youtube.com/@engineerprompt)
 [【專欄】如何用ChatGPT打造一個AI產品？ Part2: 基礎Prompt Engineering入門 - 倢愷 Oscar - Medium](https://axk51013.medium.com/%E5%B0%88%E6%AC%84-%E5%A6%82%E4%BD%95%E7%94%A8chatgpt%E6%89%93%E9%80%A0%E4%B8%80%E5%80%8Bai%E7%94%A2%E5%93%81-part2-%E5%9F%BA%E7%A4%8Eprompt-engineering%E5%85%A5%E9%96%80-11d6cc3161ac)
@@ -1058,6 +1102,10 @@ AWQ: Activation-Aware Weight Quantization
 [大语言模型量化方法对比：GPTQ、GGUF、AWQ-腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/2361027)
 [LLM Quantization: Quantize Model with GPTQ, AWQ and Bitsandbytes | Towards AI](https://pub.towardsai.net/llm-quantisation-quantise-hugging-face-model-with-gptq-awq-and-bitsandbytes-a4ad45cd8b48)
 [Exploring Bits-and-Bytes, AWQ, GPTQ, EXL2, and GGUF Quantization Techniques with Practical Examples | by kirouane Ayoub | GoPenAI](https://blog.gopenai.com/exploring-bits-and-bytes-awq-gptq-exl2-and-gguf-quantization-techniques-with-practical-examples-74d590063d34)
+
+[Google Introduces TurboQuant: A New Compression Algorithm that Reduces LLM Key-Value Cache Memory by 6x and Delivers Up to 8x Speedup, All with Zero Accuracy Loss - MarkTechPost](https://www.marktechpost.com/2026/03/25/google-introduces-turboquant-a-new-compression-algorithm-that-reduces-llm-key-value-cache-memory-by-6x-and-delivers-up-to-8x-speedup-all-with-zero-accuracy-loss/)
+[TurboQuant: Is the Compression and Performance Worth the Hype? - KDnuggets](https://www.kdnuggets.com/turboquant-is-the-compression-and-performance-worth-the-hype)
+[Effective KV Compression with TurboQuant - MachineLearningMastery.com](https://machinelearningmastery.com/effective-kv-compression-with-turboquant/)
 
 ### Distillation
 
@@ -1251,6 +1299,30 @@ Transformers (formerly known as `pytorch-transformers` and `pytorch-pretrained-b
 [RAG with Open WebUI-Guide, Tips, and Demo - YouTube](https://www.youtube.com/watch?v=W0nAZiFMnYw)
 [Open WebUI, Ollama, GPT-4o, RAG, Tool Use, Agent-Mastering Building Your Own AI - YouTube](https://www.youtube.com/live/B6gG729hjAA)
 
+### LLM Guardrail
+
+Hardening LLM server
+Can be a reverse proxy monitoring prompts and LLM response
+Or integrated the AI Harness
+
+[The Hard Problem of Controlling Powerful AI Systems - Computerphile - YouTube](https://www.youtube.com/watch?v=JAcwtV_bFp4)
+[[2504.10374] Ctrl-Z: Controlling AI Agents via Resampling](https://arxiv.org/abs/2504.10374)
+[Trust - OpenClaw](https://trust.openclaw.ai/)
+
+At this phase Charlotte will study the docs and architecture of agentic systems
+We'll also setup OpenClaw locally
+By skill and tools I meant this two "standards", I'm not sure if or how common they are used by the frameworks
+Please comment
+
+[Introducing OpenAI Privacy Filter | OpenAI](https://openai.com/index/introducing-openai-privacy-filter/)
+[Nvidia NeMo Guardrails](https://github.com/NVIDIA-NeMo/Guardrails)
+
+[The Attack and Defense Landscape of Agentic AI: A Comprehensive Survey](https://arxiv.org/abs/2603.11088)
+[[2603.07496v1] From Thinker to Society: Security in Hierarchical Autonomy Evolution of AI Agents](https://arxiv.org/abs/2603.07496v1)
+
+[The Hard Problem of Controlling Powerful AI Systems - Computerphile - YouTube](https://www.youtube.com/watch?v=JAcwtV_bFp4) usefulness vs security, Trust Model as guardrail
+[[2504.10374] Ctrl-Z: Controlling AI Agents via Resampling](https://arxiv.org/abs/2504.10374)
+
 ### Agentic System
 
 > LangGraph of [[#LangChain]]
@@ -1258,23 +1330,18 @@ Transformers (formerly known as `pytorch-transformers` and `pytorch-pretrained-b
 
 [Introducing Our Agent Leaderboard on Hugging Face - Galileo AI](https://www.galileo.ai/blog/agent-leaderboard)
 [Taxonomy of Failure Mode in Agentic AI Systems](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Taxonomy-of-Failure-Mode-in-Agentic-AI-Systems-Whitepaper.pdf)
+[How agentic AI makes decisions and solves problems – Computerworld](https://www.computerworld.com/article/3617392/what-are-ai-agents-and-why-are-they-now-so-pervasive.html)
 [Why LLMs Aren’t Enough: The Rise of Agentic AI](https://www.educative.io/courses/advanced-model-context-protocol/why-llms-arent-enough-the-rise-of-agentic-ai)
 [The Roadmap for Mastering Agentic AI in 2026 - MachineLearningMastery.com](https://machinelearningmastery.com/the-roadmap-for-mastering-agentic-ai-in-2026/)
+[Agentic Programming: A Roadmap - MachineLearningMastery.com](https://machinelearningmastery.com/agentic-programming-a-roadmap/)
 
 [5 No-Cost Learning Resources for LLM Agents - KDnuggets](https://www.kdnuggets.com/5-no-cost-learning-resources-for-llm-agents)
 [Agentic AI: A Self-Study Roadmap - KDnuggets](https://www.kdnuggets.com/agentic-ai-a-self-study-roadmap)
 [AI Agents in Analytics Workflows: Too Early or Already Behind? - KDnuggets](https://www.kdnuggets.com/ai-agents-in-analytics-workflows-too-early-or-already-behind)
-[A practical guide to building agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) PDF
-
-[Minusx | What makes Claude Code so damn good (and how to recreate that magic in your agent)!?](https://minusx.ai/blog/decoding-claude-code/)
-
-[Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training \ Anthropic](https://www.anthropic.com/research/sleeper-agents-training-deceptive-llms-that-persist-through-safety-training)
-[AI Sleeper Agents: How Anthropic Trains and Catches Them - Video — LessWrong](https://www.lesswrong.com/posts/ozkv7xJkCjurdesBA/ai-sleeper-agents-how-anthropic-trains-and-catches-them)
-[AI Sleeper Agents: How Anthropic Trains and Catches Them - YouTube](https://www.youtube.com/watch?v=Z3WMt_ncgUI)
-
-[Why Agent Frameworks Will Fail (and what to use instead) - YouTube](https://www.youtube.com/watch?v=KY8n96Erp5Q)
-Use pipeline instead of agents
+[OpenAI Releases a Practical Guide to Building LLM Agents for Real-World Applications - MarkTechPost](https://www.marktechpost.com/2025/04/17/openai-releases-a-practical-guide-to-building-llm-agents-for-real-world-applications/)
+[How to Build a Multi-Agent Research Assistant in Python - MachineLearningMastery.com](https://machinelearningmastery.com/how-to-build-a-multi-agent-research-assistant-in-python/)
 [How to Build an Agent - Amp](https://ampcode.com/how-to-build-an-agent)
+[A practical guide to building agents - OpenAI](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) PDF
 
 [Agents - OpenAI API](https://platform.openai.com/docs/guides/agents)
 [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/)
@@ -1295,19 +1362,62 @@ Use pipeline instead of agents
 [Agentic AI Engineering: Complete 4-Hour Workshop feat. MCP, CrewAI and OpenAI Agents SDK - YouTube](https://www.youtube.com/watch?v=LSk5KaEGVk4)
 [ed-donner/action: Repo to accompany Jon Krohn and Ed Donner's workshop on Agentic AI in Action at ODSC East](https://github.com/ed-donner/action)
 [Agentic AI Hands-On in Python: A Video Tutorial - KDnuggets](https://www.kdnuggets.com/agentic-ai-hands-on-in-python-a-video-tutorial)
-[Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training \ Anthropic](https://www.anthropic.com/research/sleeper-agents-training-deceptive-llms-that-persist-through-safety-training)
+
+[BerriAI/litellm-agent-platform: Self-hosted platform for running coding agents (Claude Code, Codex, Hermes) in isolated sandboxes with vault proxy. · GitHub](https://github.com/BerriAI/litellm-agent-platform)
+[Meet LiteLLM Agent Platform: A Kubernetes-Based, Self-Hosted Infrastructure Layer for Isolated Agent Sandboxes and Persistent Session Management in Production - MarkTechPost](https://www.marktechpost.com/2026/05/16/meet-litellm-agent-platform-a-kubernetes-based-self-hosted-infrastructure-layer-for-isolated-agent-sandboxes-and-persistent-session-management-in-production/)
 
 [我让六个AI合租，居然出了个海王？ - YouTube](https://www.youtube.com/watch?v=n_ItIpBB5zM)
 
+#### Evaluation
+
+[Minusx | What makes Claude Code so damn good (and how to recreate that magic in your agent)!?](https://minusx.ai/blog/decoding-claude-code/)
+[Agent Evaluation: A Detailed Guide](https://cameronrwolfe.substack.com/p/agent-evals)
+
+[Why Agent Frameworks Will Fail (and what to use instead) - YouTube](https://www.youtube.com/watch?v=KY8n96Erp5Q)
+Use pipeline instead of agents
+
+#### Security
+
+[智能体规范应用与创新发展实施意见\_中央网络安全和信息化委员会办公室](https://www.cac.gov.cn/2026-05/08/c_1779979789523320.htm)
+
+[人工智能安全治理框架](./_assets/generative-ai/《人工智能安全治理框架》2.0版.pdf)
+
+[Introducing RAMPART and Clarity: Open source tools to bring safety into Agent development workflow | Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/2026/05/20/introducing-rampart-and-clarity-open-source-tools-to-bring-safety-into-agent-development-workflow/)
+[microsoft/RAMPART: A pytest-native safety and security testing framework for agentic AI applications · GitHub](https://github.com/microsoft/RAMPART)
+[microsoft/clarity-agent: Distill intent. Surface failure modes. Keep the plan current. · GitHub](https://github.com/microsoft/clarity-agent/)
+
+[Defense in depth for autonomous AI agents | Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/2026/05/14/defense-in-depth-autonomous-ai-agents/)
+
+#### Sleeper Agents
+
+[Sleeper Agents in Large Language Models - Computerphile - YouTube](https://www.youtube.com/watch?v=wL22URoMZjo)
+
+[Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training \ Anthropic](https://www.anthropic.com/research/sleeper-agents-training-deceptive-llms-that-persist-through-safety-training)
+[AI Sleeper Agents: How Anthropic Trains and Catches Them - Video — LessWrong](https://www.lesswrong.com/posts/ozkv7xJkCjurdesBA/ai-sleeper-agents-how-anthropic-trains-and-catches-them)
+[AI Sleeper Agents: How Anthropic Trains and Catches Them - YouTube](https://www.youtube.com/watch?v=Z3WMt_ncgUI)
+
+#### Zero
+
+[Zero | An agent-first language experiment.](https://zerolang.ai/)
+
 #### OpenClaw
 
-> The default setup is vulnerable to cyberattacks
+> The default setup was insecure and has been changed to require confirmation before execution
 
 [OpenClaw — Personal AI Assistant](https://openclaw.ai/)
 [openclaw/openclaw: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞](https://github.com/openclaw/openclaw)
+[Trust - OpenClaw](https://trust.openclaw.ai/)
+
+[ClawSec: A Security Skill Suite for OpenClaw Agents](https://prompt.security/clawsec)
+[prompt-security/clawsec: A complete security skill suite for OpenClaw's and NanoClaw agents (and variants). Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrity verification. All from one installable suite.](https://github.com/prompt-security/clawsec)
+[Clawsec - Open Source Security Guardrails for AI Agents](https://www.clawsec.bot/)
+[clawdsec/clawsec: Clawsec Plugin](https://github.com/clawdsec/clawsec)
 [Scan OpenClaw agent skills for security vulnerabilities with the Cisco AI Skill Scanner – 4sysops](https://4sysops.com/archives/scan-openclaw-agent-skills-for-security-vulnerabilities-with-the-cisco-ai-skill-scanner/)
 
 [一个视频搞懂OpenClaw！ - YouTube](https://www.youtube.com/watch?v=jPn-yoz5tbI)
+
+[OneClaw — 一键上手 OpenClaw](https://oneclaw.cn/)
+[oneclaw/oneclaw: OneClaw](https://github.com/oneclaw/oneclaw) 一分钟装好，即刻开聊。零配置、零依赖的 OpenClaw 桌面客户端。
 
 [ClawHub](https://clawhub.ai/)
 [openclaw/skills: All versions of all skills that are on clawdhub.com archived](https://github.com/openclaw/skills)
@@ -1397,6 +1507,7 @@ Do scan for malicious Claw Skills before usage
 [Use Agent Skills in VS Code](https://code.visualstudio.com/docs/copilot/customization/agent-skills)
 
 [The-Complete-Guide-to-Building-Skill-for-Claude.pdf](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)
+[tw93/Waza: 🥷 Engineering habits you already know, turned into skills Claude can run.](https://github.com/tw93/Waza)
 
 #### Universal Tool Calling Protocol (UTCP)
 
@@ -1537,6 +1648,8 @@ Streamlit
 [Google Open-Sources ALBERT Natural Language Model](https://www.infoq.com/news/2020/01/google-albert-ai-nlp/)
 [Rust Artificial Intelligence (The Simple Way) - YouTube](https://www.youtube.com/watch?v=StMP7g-0wK4) `rust-bert`
 [Practical AI | BERT: one NLP model to rule them all](https://practicalai.fm/22)
+
+[One keyboard shortcut cut my Google app-hopping in half](https://www.makeuseof.com/one-keyboard-shortcut-cut-my-google-app-hopping-in-half/) Gemini shortcuts to Google Apps
 
 ### Bard
 

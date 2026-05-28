@@ -2,7 +2,7 @@
 title: Distributed Computing
 description: ""
 created: 2016-09-21
-updated: 2026-01-13
+updated: 2026-03-25
 tags:
   - web
 ---
@@ -66,6 +66,8 @@ A split brain is what happens when you have multiple autonomous sub-clusters for
 [Byzantine Fault Tolerance Explained | Binance Academy](https://academy.binance.com/blockchain/byzantine-fault-tolerance-explained)
 [The-Byzantine-Generals-Problem.pdf](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Byzantine-Generals-Problem.pdf)
 [How does blockchain solve the Byzantine generals problem?](https://cointelegraph.com/blockchain-for-beginners/how-does-blockchain-solve-the-byzantine-generals-problem)
+
+[一文看懂区块链中的拜占庭容错（BFT）机制](<https://www.nervos.org/zh/knowledge-base/BFT_consensus_mechanisms_(explainCKBot)>)
 
 [The Two Generals’ Problem - YouTube](https://www.youtube.com/watch?v=IP-rGJKSZ3s) send idempotent token with message
 
@@ -240,6 +242,7 @@ Spectrum-X from nVidia
 ## NPU
 
 [Do we really need NPUs now? - YouTube](https://www.youtube.com/watch?v=a9NprGqBr54) questionable as there is current no need for long running AI app in the background
+[Comparing AI chips: GPU, ASIC, and NPU – 4sysops](https://4sysops.com/archives/comparing-ai-chips-gpu-asic-and-npu/)
 
 ##　Pacemaker
 

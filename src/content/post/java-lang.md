@@ -2,7 +2,7 @@
 title: Java
 description: ""
 created: 2016-03-04
-updated: 2026-02-12
+updated: 2026-05-20
 tags:
   - clojure
   - comp/lang
@@ -34,6 +34,7 @@ Use this to look up `JAVA_HOME` or a the current Java installation:
 
 ```sh
 readlink -f $(which java) | sed "s:bin/java::"
+java -XshowSettings:properties -version 2>&1 | grep "java.home"
 ```
 
 [OpenJDK](https://openjdk.java.net/)
@@ -116,6 +117,11 @@ mvn archetype:generate -DgroupId={project-packaging}
 [Java roadmap: Eclipse’s Jakarta EE enterprise Java takes shape | InfoWorld](https://www.infoworld.com/article/3269210/java/java-roadmap-eclipses-jakarta-ee-enterprise-java-takes-shape.html)
 [What's New With Jakarta NoSQL? (Part 1): Intro to Document With MongoDB - DZone Database](https://dzone.com/articles/whats-new-with-jakarta-nosql-part-i-introduction-t)
 
+### ActiveJ
+
+[ActiveJ | Alternative Java platform for web, high load, and cloud programming | ActiveJ 6.0](https://activej.io/)
+[Introduction to ActiveJ | Baeldung](https://www.baeldung.com/activej)
+
 ## Internals
 
 [JVM Optimization 101](https://www.infoq.com/presentations/jvm-optimization)
@@ -169,6 +175,11 @@ http service scalability
 
 [JHipster - Full Stack Platform for the Modern Developer!](https://www.jhipster.tech/)
 [jhipster/generator-jhipster: JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.](https://github.com/jhipster/generator-jhipster)
+
+### ActiveJ
+
+[ActiveJ | Alternative Java platform for web, high load, and cloud programming | ActiveJ 6.0](https://activej.io/)
+[Introduction to ActiveJ | Baeldung](https://www.baeldung.com/activej)
 
 ---
 

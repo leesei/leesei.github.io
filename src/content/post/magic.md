@@ -2,7 +2,7 @@
 title: Magic
 description: ""
 created: 2019-08-21
-updated: 2026-01-05
+updated: 2026-05-18
 tags:
   - magic
   - trivia
@@ -20,13 +20,15 @@ Penn and Teller Fool Us
 5. Natural Laws Defied
 
 [Confused feat - YouTube](https://www.youtube.com/@Confusedfeat/shorts)
+[Dingyao Magic - YouTube](https://www.youtube.com/@DingyaoMagic) magic reveals
 [irehman7 - YouTube](https://www.youtube.com/@irehman7) magic reveals
 [Jeremy Tan - YouTube](https://www.youtube.com/@jeremytanmagic/)
 [magic qingfeng - YouTube](https://www.youtube.com/@magicqingfeng/shorts)
 [Magician VEVE - YouTube](https://www.youtube.com/@magician_veve)
 [MW Magic Tutorials - YouTube](https://www.youtube.com/@MwMagicTutorials)
-[玩牌的天天tiant - YouTube](https://www.youtube.com/@tiant238)
-[魔术趣玩方信 - YouTube](https://www.youtube.com/@%E6%96%B9%E4%BF%A1FXmagic)
-[魔術師查尼 - YouTube](https://www.youtube.com/@magicchani)
 [YUAN MAGIC-小远同学 - YouTube](https://www.youtube.com/@yuanmagicstudio)
 [刘谦魔术课堂Liuqian - YouTube](https://www.youtube.com/@%E5%88%98%E8%B0%A6%E9%AD%94%E6%9C%AF%E8%AF%BE%E5%A0%82Liuqian)
+[玩牌的天天tiant - YouTube](https://www.youtube.com/@tiant238)
+[魔术师林剑伟Magician Lin Jianwei - YouTube](https://www.youtube.com/@MagicianLinJianwei01/featured)
+[魔术趣玩方信 - YouTube](https://www.youtube.com/@%E6%96%B9%E4%BF%A1FXmagic)
+[魔術師查尼 - YouTube](https://www.youtube.com/@magicchani)

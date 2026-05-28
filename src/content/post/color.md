@@ -2,7 +2,7 @@
 title: Color
 description: ""
 created: 2014-12-17
-updated: 2025-11-25
+updated: 2026-03-13
 tags:
   - color-palette
   - colorspace

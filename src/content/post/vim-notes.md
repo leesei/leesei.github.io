@@ -2,7 +2,7 @@
 title: Vim notes
 description: A screen-oriented text editor originally created for the Unix operating system
 created: 2015-01-14
-updated: 2025-10-10
+updated: 2026-03-25
 tags:
   - app
   - shell-tool
@@ -11,7 +11,7 @@ tags:
 
 [[neovim-notes]]
 
-[vim](<https://en.wikipedia.org/wiki/Vim_(text_editor)>)
+[Vim (text editor) - Wikiwand](<https://www.wikiwand.com/en/Vim_(text_editor)>)
 [Vim: help.txt](https://vimhelp.org/)
 [Vim Tips Wiki | Fandom](https://vim.fandom.com/wiki/Vim_Tips_Wiki)
 

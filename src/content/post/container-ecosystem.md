@@ -2,7 +2,7 @@
 title: Container Ecosystem
 description: ""
 created: 2014-12-11
-updated: 2025-10-10
+updated: 2026-05-20
 tags:
   - container
   - dev/deploy
@@ -575,6 +575,8 @@ State metrics
 
 [Monitor your applications with Prometheus](https://blog.alexellis.io/prometheus-monitoring/) Prometheus, NodeExporter
 [Monitoring Your Kubernetes Cluster with Grafana, Prometheus, and Alertmanager - YouTube](https://www.youtube.com/watch?v=4HIn5SBGjCg)
+
+[Kepler | CNCF](https://www.cncf.io/projects/kepler/) Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe energy related system stats and exports as Prometheus metrics.
 
 ### Zabbix
 

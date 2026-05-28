@@ -2,7 +2,7 @@
 title: Star Wars
 description: ""
 created: 2016-02-07
-updated: 2025-10-10
+updated: 2026-05-05
 tags:
   - movies
   - star-wars
@@ -105,11 +105,11 @@ Episode VII-IX
 
 ### Fan Films
 
-[Transmute Pictures - YouTube](https://www.youtube.com/c/TransmutePictures/featured) Bucketheads
+[Transmute Pictures - YouTube](https://www.youtube.com/c/TransmutePictures) Bucketheads
 
-[Loacher Films - YouTube](https://www.youtube.com/c/loacherfilms)
+[Loacher Films - YouTube](https://www.youtube.com/@loacherfilms)
 
-[Auralnauts - YouTube](https://www.youtube.com/c/Auralnauts)
+[Auralnauts - YouTube](https://www.youtube.com/@Auralnauts)
 [Auralnauts Star Wars Saga - YouTube](https://www.youtube.com/playlist?list=PLINl9l0igYjzIipxsD4Y59_Jjxe4N3pZo)
 [Existential Troopers - The Mandalorian - YouTube](https://www.youtube.com/watch?v=gKppwACQ-qk)
 [Existential Troopers Episode 2: The Mandalorian - YouTube](https://www.youtube.com/watch?v=eoU_7Xg3Zzw)

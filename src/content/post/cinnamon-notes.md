@@ -2,7 +2,7 @@
 title: Cinnamon notes
 description: ""
 created: 2015-05-04
-updated: 2025-12-18
+updated: 2026-04-14
 tags:
   - cinnamon
   - desktop
@@ -16,6 +16,19 @@ tags:
 Applets, extensions are installed at `~/.local/share/cinnamon/`.
 User configs are at `~/.cinnamon/`.
 
+## GDM issue
+
+> [Cinnamon (X11) fails to load after update / Applications & Desktop Environments / Arch Linux Forums](https://bbs.archlinux.org/viewtopic.php?id=313015)
+
+Since 2026-04, GDM not working for X11 even with `WaylandEnable=false` in `/etc/gdm/custom.conf`
+**Only used GDM for GNOME session**
+
+```sh
+sudo pacman -S lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings
+sudo systemctl disable gdm
+sudo systemctl enable lightdm # reboot or add `--now`
+```
+
 ## Writing Extensions
 
 [How to make a Cinnamon theme : Cinnamon](http://cinnamon.linuxmint.com/?p=144)
@@ -28,7 +41,6 @@ User configs are at `~/.cinnamon/`.
 
 ## Nemo Actions
 
-[Behind the curtain.. Nemo actions ← Segfault](http://segfault.linuxmint.com/2013/05/behind-the-curtain-nemo-actions/)
 Write a `.nemo_action` file in
 
 - `/usr/share/nemo/actions/`
@@ -38,8 +50,6 @@ Write a `.nemo_action` file in
 [nemo/files/usr/share/nemo/actions at master · linuxmint/nemo](https://github.com/linuxmint/nemo/tree/master/files/usr/share/nemo/actions)
 [[Solved: Github nemo patch available]:nemo actions: problem with single quotes in filenames? - Linux Mint Forums](https://forums.linuxmint.com/viewtopic.php?t=248214)
 [smurphos/nemo_actions_and_cinnamon_scripts: A collection of custom context menu items for the Nemo file manager, along with some miscellaneous feature scripts intended for the Cinnamon desktop environment.](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts)
-
-[14.04 - Missing nemo right-click "extract/compress files" - Ask Ubuntu](https://askubuntu.com/questions/532714/missing-nemo-right-click-extract-compress-files)
 
 [AUR (en) - nemo-meld-compare](https://aur.archlinux.org/packages/nemo-meld-compare)
 

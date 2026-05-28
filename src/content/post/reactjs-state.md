@@ -2,7 +2,7 @@
 title: React.js
 description: React.js state
 created: 2023-03-21
-updated: 2025-01-09
+updated: 2026-05-17
 tags:
   - frontend
   - javascript
@@ -38,12 +38,6 @@ tags:
 [Simple Painter in ReactJS — useContext, useState – Prima – Medium](https://medium.com/@anMagpie/simple-painter-in-reactjs-usecontext-usestate-2f7c1dfc898d)
 [The modern guide to React state patterns - LogRocket Blog](https://blog.logrocket.com/modern-guide-react-state-patterns/)
 
-[React Tracked](https://react-tracked.js.org/)
-[dai-shi/react-tracked: State usage tracking with Proxies. Optimize re-renders for useState/useReducer, React Redux, Zustand and others.](https://github.com/dai-shi/react-tracked)
-
-[Pullstate · Simple state stores using immer and React hooks](https://lostpebble.github.io/pullstate/)
-[lostpebble/pullstate: Simple state stores using immer and React hooks - re-use parts of your state by pulling it anywhere you like!](https://github.com/lostpebble/pullstate)
-
 ## Context API
 
 > since 16.3
@@ -56,8 +50,6 @@ Store states local to a compound component, alleviate the need for Redux
 
 [Heres how React's New Context API Works - YouTube](https://www.youtube.com/watch?v=XLJN4JfniH4)
 [What can the React Context API do for you? Multi-language text, Modals, and Themes](https://codeburst.io/what-can-react-context-api-do-for-you-multi-language-text-modals-and-theme-switchers-9cfbc8e5ee5e)
-
-[diegohaz/constate: React Context + State](https://github.com/diegohaz/constate)
 
 [Digging Into React Context | CSS-Tricks](https://css-tricks.com/digging-into-react-context/)
 [Understanding the React Context API | DigitalOcean](https://www.digitalocean.com/community/tutorials/react-context-api)
@@ -139,7 +131,9 @@ export const StoreProvider = (props) => {
 
 [Zustand](https://zustand-demo.pmnd.rs/)
 [Zustand Documentation](https://docs.pmnd.rs/zustand/)
+
 [Working with Zustand | TkDodo's blog](https://tkdodo.eu/blog/working-with-zustand)
+[React | Context API vs Zustand - DEV Community](https://dev.to/shubhamtiwari909/react-context-api-vs-zustand-pki)
 
 [Why Everyone Loves Zustand - YouTube](https://www.youtube.com/watch?v=14B85quRQhw)
 

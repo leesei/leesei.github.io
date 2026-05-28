@@ -2,7 +2,7 @@
 title: Design Patterns
 description: ""
 created: 2019-05-24
-updated: 2025-10-10
+updated: 2026-05-20
 tags:
   - comp/lang
 ---
@@ -22,6 +22,7 @@ Contains [Programming paradigm - Wikiwand](https://www.wikiwand.com/en/Programmi
 [Home | Patterns 42](https://patterns.arc42.org/home/)
 [Table of Contents · Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html)
 [Patterns - Sam Newman](https://samnewman.io/patterns/)
+[Design Patterns - YouTube](https://www.youtube.com/playlist?list=PLC0nd42SBTaNf0bVJVd9e2oBV-mcUuxS0) ArjanCodes, Python
 
 [Design a Basic Search Engine (Google or Bing) | System Design Interview Prep - YouTube](https://www.youtube.com/watch?v=0LTXCcVRQi0)
 [20 System Design Concepts Explained in 10 Minutes - YouTube](https://www.youtube.com/watch?v=i53Gi_K3o7I)
@@ -60,10 +61,10 @@ Contains [Programming paradigm - Wikiwand](https://www.wikiwand.com/en/Programmi
 
 [Episode 215: Gang of Four – 20 Years Later : Software Engineering Radio](https://www.se-radio.net/2014/11/episode-215-gang-of-four-20-years-later/)
 
-Erich Gamma: <http://en.wikipedia.org/wiki/Erich_Gamma>
-Richard Helm: <http://en.wikipedia.org/wiki/Richard_Helm>
-Ralph Johnson: <http://en.wikipedia.org/wiki/Ralph_Johnson_(computer_scientist>)
-John Vlissides: <http://en.wikipedia.org/wiki/John_Vlissides>
+[Erich Gamma - Wikiwand](https://www.wikiwand.com/en/Erich_Gamma)
+[Richard Helm - Wikiwand](https://www.wikiwand.com/en/Richard_Helm)
+[Ralph Johnson (computer scientist) - Wikiwand](<https://www.wikiwand.com/en/Ralph_Johnson_(computer_scientist)>)
+[John Vlissides - Wikiwand](https://www.wikiwand.com/en/John_Vlissides)
 
 ### Creational Patterns
 
@@ -165,7 +166,7 @@ with function(s) to initialize the remaining states and return a working class
 
 ## CSP
 
-[Communicating sequential processes - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Communicating_sequential_processes)
+[Communicating sequential processes - Wikiwand](https://www.wikiwand.com/en/Communicating_sequential_processes)
 [Communicating Sequential Processes (CSP), by C. A. R. Hoare (Electronic Version)](http://www.usingcsp.com/)
 
 [CSP and transducers in JavaScript](http://phuu.net/2014/08/31/csp-and-transducers.html)
@@ -200,6 +201,7 @@ D: Dependency Inversion Principle
 [Applying SOLID To React. SOLID principles were developed to help… | by Eduardo Moniz | Docler Engineering | Apr, 2021 | Medium](https://medium.com/docler-engineering/applying-solid-to-react-ca6d1ff926a4)
 [5 Principles that will make you a SOLID JavaScript Developer](http://thefullstack.xyz/solid-javascript/)
 [SOLID Principles: Improve Object-Oriented Design in Python – Real Python](https://realpython.com/solid-principles-python/)
+[SOLID principles for JavaScript - DEV Community](https://dev.to/logrocket/solid-principles-for-javascript-3ogm)
 
 [Software Design - Introduction to SOLID Principles in 8 Minutes - YouTube](https://www.youtube.com/watch?v=yxf2spbpTSw)
 [Uncle Bob SOLID principles - YouTube](https://www.youtube.com/watch?v=zHiWqnTWsn4)

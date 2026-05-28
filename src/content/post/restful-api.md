@@ -2,7 +2,7 @@
 title: Restful API
 description: ""
 created: 2016-05-16
-updated: 2025-10-10
+updated: 2026-05-16
 tags:
   - rest
   - web
@@ -33,6 +33,9 @@ tags:
 [How to design better APIs](https://r.bluethl.net/how-to-design-better-apis)
 [The REST API Handbook – How to Build, Test, Consume, and Document REST APIs](https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api/)
 
+[Your API Can’t Handle Real-World Integrations - YouTube](https://www.youtube.com/watch?v=rZpwFN_n2-g) custom data with Python's SQLAlchemy
+[examples/2026/apidata at main · ArjanCodes/examples](https://github.com/ArjanCodes/examples/tree/main/2026/apidata)
+
 [Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
 [zally | A minimalistic, simple-to-use API linter](https://opensource.zalando.com/zally/)
 
@@ -58,7 +61,7 @@ tags:
 
 ## HATEOAS
 
-[HATEOAS - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/HATEOAS)
+[HATEOAS - Wikiwand](https://www.wikiwand.com/en/HATEOAS)
 [REST: From GET to HATEOAS](http://www.slideshare.net/josdirksen/rest-from-get-to-hateoas)
 [The Hypermedia Debate: JSON link formatting for HATEOAS](http://www.foxycart.com/blog/the-hypermedia-debate)
 [Understanding HATEOAS](http://spring.io/understanding/HATEOAS)

@@ -2,7 +2,7 @@
 title: Shangmi
 description: A suite of authentication, encryption, and hash algorithms from the People's Republic of China.
 created: 2025-02-20
-updated: 2026-02-24
+updated: 2026-03-27
 tags:
   - crypto
   - cryptography
@@ -51,6 +51,10 @@ tags:
 [国家标准全文阅读|标准检索](https://openstd.samr.gov.cn/bzgk/gb/std_list?p.p1=0&p.p90=circulation_date&p.p91=desc&p.p2=18238) GB/T 18238 Hash-functions
 [国家标准|GB/T 18238.2-2024](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=E1F6984DC836072596990A77DD601590) Hash-functions using a block cipher
 [国家标准|GB/T 18238.3-2024](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=32ACFBC48508F86581B476169B1CD1B8) dedicated hash-function
+
+X.509 with Shangmi algorithms
+[Structure Analysis and Generation of X.509 Digital Certificate Based on National Secret - IOPscience](https://iopscience.iop.org/article/10.1088/1742-6596/1187/4/042067)
+[An example of a X.509 certificate using SM2 / SM3 · GitHub](https://gist.github.com/ronaldtse/11e7e3caf98781498ae431fd9f897065)
 
 ## Implementation
 

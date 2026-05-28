@@ -2,7 +2,7 @@
 title: SSL/TLS
 description: ""
 created: 2015-04-02
-updated: 2026-02-26
+updated: 2026-05-27
 tags:
   - security
   - ssl
@@ -15,9 +15,11 @@ tags:
 [[ssl-tls-free-certs]]
 
 [Transport Layer Security](https://www.wikiwand.com/en/Transport_Layer_Security) (TLS) and its predecessor, [Secure Sockets Layer](https://www.digicert.com/ssl.htm) (SSL), are cryptographic protocols designed to provide communications security over a computer network. TLS ensures confidentiality and authentication for the parties.
+[Server Name Indication - Wikiwand](https://www.wikiwand.com/en/Server_Name_Indication) multi-tenants on the same IP
 
 [SSL/TLS and PKI History](https://www.feistyduck.com/ssl-tls-and-pki-history/)
 [Library: Bulletproof TLS Guide | Feisty Duck](https://www.feistyduck.com/library/bulletproof-tls-guide/) ❗!important
+[TLS 1.3 Explained: Speed & Safety Upgrade](https://www.onlinehashcrack.com/guides/cryptography-algorithms/tls-1-3-explained-speed-safety-upgrade.php)
 
 [What is SSL (Secure Sockets Layer)? | Cloudflare](https://www.cloudflare.com/learning/ssl/what-is-ssl/)
 [What is Transport Layer Security (TLS)? | Cloudflare](https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/)
@@ -32,9 +34,6 @@ tags:
 [HTTPS: an awesome, secure tale (pt 1) | by Omer Goldberg | Bits and Pieces](https://blog.bitsrc.io/https-an-awesome-secure-tale-pt-1-32d2ba5ac0c1)
 
 [ESNI: A Privacy-Protecting Upgrade to HTTPS | Electronic Frontier Foundation](https://www.eff.org/deeplinks/2018/09/esni-privacy-protecting-upgrade-https)
-[Server Name Indication - Wikiwand](https://www.wikiwand.com/en/Server_Name_Indication) multi-tenants on the same IP
-
-[Cloudflare now uses post-quantum cryptography to talk to your origin server](https://blog.cloudflare.com/post-quantum-to-origins/)
 
 Toolkits:
 
@@ -75,8 +74,8 @@ TLS 1.3 = SSL 3.4 (2018)
 [RFC 6066 - Transport Layer Security (TLS) Extensions: Extension Definitions](https://datatracker.ietf.org/doc/html/rfc6066)
 [RFC 6101 - The Secure Sockets Layer (SSL) Protocol Version 3.0](https://datatracker.ietf.org/doc/html/rfc6101)
 [Transport Layer Security (TLS) Parameters](https://www.iana.org/assignments/tls-parameters/tls-parameters.xhtml)
-[draft-ietf-tls-rfc8446bis](https://datatracker.ietf.org/doc/html/draft-ietf-tls-rfc8446bis/) update 8446
-[draft-ietf-tls-rfc9147bis](https://datatracker.ietf.org/doc/html/draft-ietf-tls-rfc9147bis/) update 9147
+[draft-ietf-tls-rfc8446bis - The Transport Layer Security (TLS) Protocol Version 1.3](https://datatracker.ietf.org/doc/html/draft-ietf-tls-rfc8446bis/) update 8446
+[draft-ietf-tls-rfc9147bis - The Datagram Transport Layer Security (DTLS) Protocol Version 1.3](https://datatracker.ietf.org/doc/html/draft-ietf-tls-rfc9147bis/) update 9147
 
 TLS v1.3
 
@@ -89,15 +88,18 @@ TLS v1.3
 - The client and the server then exchange two keys: one for the encryption and another for the verification
 - advertise itself as 1.2 since revision 22 to increase adoption and avoid ossification in middlebox
 - [A Cryptographic Analysis of the TLS 1.3 Handshake Protocol](https://eprint.iacr.org/2020/1044)
+- [TLS Extensions Database | JA3 Fingerprinting Reference](https://scrapfly.io/web-scraping-tools/ja3-fingerprint/extensions)
 
+[RFC 7250 - Using Raw Public Keys in Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS)](https://datatracker.ietf.org/doc/html/rfc7250)
 [RFC 7301 - Transport Layer Security (TLS) Application-Layer Protocol Negotiation Extension](https://datatracker.ietf.org/doc/html/rfc7301) ALPN, allows applications to use the existing, secure communications links
 [RFC 7918 - Transport Layer Security (TLS) False Start](https://datatracker.ietf.org/doc/html/rfc7918)
+[RFC 7924 - Transport Layer Security (TLS) Cached Information Extension](https://datatracker.ietf.org/doc/html/rfc7924)
 [RFC 7925 - Transport Layer Security (TLS) / Datagram Transport Layer Security (DTLS) Profiles for the Internet of Things](https://datatracker.ietf.org/doc/html/rfc7925)
 [RFC 8449 - Record Size Limit Extension for TLS](https://datatracker.ietf.org/doc/html/rfc8449)
 [RFC 9325 - Recommendations for Secure Use of Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS)](https://datatracker.ietf.org/doc/html/rfc9325)
-[draft-ietf-tls-keylogfile-03](https://datatracker.ietf.org/doc/html/draft-ietf-tls-keylogfile/) `SSLKEYLOGFILE`
-[draft-ietf-tls-extended-key-update-04 - Extended Key Update for Transport Layer Security (TLS) 1.3](https://datatracker.ietf.org/doc/html/draft-ietf-tls-extended-key-update/)
-[draft-ietf-tls-ctls-10](https://datatracker.ietf.org/doc/html/draft-ietf-tls-ctls/) expired draft
+[draft-ietf-tls-keylogfile - The SSLKEYLOGFILE Format for TLS](https://datatracker.ietf.org/doc/html/draft-ietf-tls-keylogfile/) `SSLKEYLOGFILE`
+[draft-ietf-tls-extended-key-update - Extended Key Update for Transport Layer Security (TLS) 1.3](https://datatracker.ietf.org/doc/html/draft-ietf-tls-extended-key-update/)
+[draft-ietf-tls-ctls - Compact TLS 1.3](https://datatracker.ietf.org/doc/html/draft-ietf-tls-ctls/) expired draft
 
 [Transport Layer Security, TLS 1.2 and 1.3 (Explained by Example) - YouTube](https://www.youtube.com/watch?v=AlE5X1NlHgg)
 [Understanding TLS 1.2 and TLS 1.3  | Encryption Consulting](https://www.encryptionconsulting.com/tls-1-2-and-tls-1-3/)
@@ -108,6 +110,8 @@ TLS v1.3
 
 [RFC 8701 - Applying Generate Random Extensions And Sustain Extensibility (GREASE) to TLS Extensibility](https://datatracker.ietf.org/doc/rfc8701/) to help identify [protocol ossification](https://www.wikiwand.com/en/articles/Protocol_ossification) in middlebox
 [tldr.fail](https://tldr.fail/) middlebox fails to handle large (split) ClientHello
+
+> see [[crypto-pqc#PQC TLS adoption]]
 
 ### Handshake
 
@@ -158,7 +162,7 @@ sequenceDiagram
 
 ### Encrypted SNI/Encrypted Client Hello
 
-[draft-ietf-tls-esni - TLS Encrypted Client Hello](https://datatracker.ietf.org/doc/html/draft-ietf-tls-esni)
+[RFC 9849 - TLS Encrypted Client Hello](https://datatracker.ietf.org/doc/html/rfc9849)
 
 [What is encrypted SNI? | How ESNI works | Cloudflare](https://www.cloudflare.com/learning/ssl/what-is-encrypted-sni/)
 [Encrypt it or lose it: how encrypted SNI works](https://blog.cloudflare.com/encrypted-sni/) 2018
@@ -212,8 +216,10 @@ nmap --script ssl-enum-ciphers -p 443 <hostname_or_IP>
 
 [RFC 6209 - Addition of the ARIA Cipher Suites to Transport Layer Security (TLS)](https://datatracker.ietf.org/doc/html/rfc6209/)
 [RFC 7919 - Negotiated Finite Field Diffie-Hellman Ephemeral Parameters for Transport Layer Security (TLS)](https://datatracker.ietf.org/doc/html/rfc7919) "Supported Groups Registry"
+[Transport Layer Security (TLS) Parameters - Supported Groups](https://www.iana.org/assignments/tls-parameters/tls-parameters.xhtml#tls-parameters-8)
 
-[Transport Layer Security (TLS) Parameters](https://www.iana.org/assignments/tls-parameters/tls-parameters.xml)
+There may be a Key Share Entry for each record of Supported Group.  
+Trivia: Wireshark shows the Key Share Entry Group in decimal and the Supported Group in hexadecimal.
 
 `TLS_DHE_RSA_AES256_SHA256`
 
@@ -283,6 +289,9 @@ Let kernel handles the symmetric encryption data-path after handshake, mostly to
 [SSL Checker](https://www.sslshopper.com/ssl-checker.html?hostname=)
 [SSL/TLS Client Test - TLS Fingerprinting - BrowserLeaks](https://browserleaks.com/tls)
 
+[sslscan](https://github.com/rbsec/sslscan)
+[Review the various colour coding in sslscan · Issue #333 · rbsec/sslscan](https://github.com/rbsec/sslscan/issues/333)
+
 [SSH Pentesting. SSH (TCP/22) is a protocol used to… | by 0liverFlow | Medium](https://olivierkonate.medium.com/ssh-pentesting-c68c9f5c3000) pentest and audit tools
 [OWASP/O-Saft: O-Saft - OWASP SSL advanced forensic tool](https://github.com/OWASP/O-Saft)
 
@@ -310,6 +319,8 @@ Let kernel handles the symmetric encryption data-path after handshake, mostly to
 [alufers/mitmproxy2swagger: Automagically reverse-engineer REST APIs via capturing traffic](https://github.com/alufers/mitmproxy2swagger)
 
 [c2FmZQ/tlsproxy: A simple TLS proxy, Reverse proxy, and Web server that uses Let's Encrypt automatically.](https://github.com/c2FmZQ/tlsproxy)
+
+[upsangel/kali-mitm-easy-script](https://github.com/upsangel/kali-mitm-easy-script)
 
 [bettercap/bettercap: The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.](https://github.com/bettercap/bettercap)
 

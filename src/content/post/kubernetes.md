@@ -2,7 +2,7 @@
 title: Kubernetes
 description: ""
 created: 2014-12-11
-updated: 2025-10-10
+updated: 2026-05-05
 tags:
   - container
   - dev/deploy
@@ -22,7 +22,7 @@ tags:
 
 [Play with Kubernetes Classroom](https://training.play-with-kubernetes.com/)
 [Kubernetes for Beginners](https://training.play-with-kubernetes.com/kubernetes-workshop/)
-[Deploying and Scaling Microservices with Docker and Kubernetes](https://container.training/kube-selfpaced.yml.html#1)
+[Container Training](https://container.training/)
 
 [10 Years of Kubernetes: Past, Present, and Future - The New Stack](https://thenewstack.io/10-years-of-kubernetes-past-present-and-future/)
 [Kubernetes: The Documentary [PART 1] - YouTube](https://www.youtube.com/watch?v=BE77h7dmoQU)

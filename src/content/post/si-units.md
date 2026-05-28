@@ -2,7 +2,7 @@
 title: SI Units
 description: ""
 created: 2015-08-28
-updated: 2025-12-02
+updated: 2026-05-23
 tags:
   - science
 ---
@@ -49,7 +49,10 @@ The Efficient Engineer
 [1 秒持续多长时间？从日晷到原子钟——时间单位的变迁 - YouTube](https://www.youtube.com/watch?v=P5iiuB3YoVU)
 [How Do Atomic Clocks Work? - YouTube](https://www.youtube.com/watch?v=l8CI3bs9rvY)
 
+### Horology
+
 [How the Germans Measured Milliseconds MECHANICALLY - Smarter Every Day 283 - YouTube](https://www.youtube.com/watch?v=Q07CTj4fUeY)
+[The Genius of Mechanical Time - YouTube](https://www.youtube.com/watch?v=sahhVSYkyg4) escapement
 
 ## Length (m)
 

@@ -2,7 +2,7 @@
 title: CSS Notes
 description: ""
 created: 2015-12-21
-updated: 2026-01-27
+updated: 2026-04-03
 tags:
   - css
   - web
@@ -1212,6 +1212,16 @@ use responsive font size (`vw`/`vh`) on small screen, use fixed font size on lar
 [小 tips: 純 CSS 實現打字動畫效果\_張鑫旭 - MdEditor](https://www.gushiciku.cn/pl/2HrM/zh-hk)
 [Typewriter Effect with CSS - DEV Community](https://dev.to/alvaromontoro/typewriter-effect-with-css-38im)
 [Typewriter Animation That Handles Anything You Throw at It | CSS-Tricks](https://css-tricks.com/typewriter-animation-that-handles-anything-you-throw-at-it/)
+
+### Pretext
+
+> pre-render text in canvas instead of DOM
+
+[Pretext.js - Text measurement that never touches the DOM.](https://pretextjs.dev/)
+[chenglou/pretext · GitHub](https://github.com/chenglou/pretext)
+
+[Pretext](https://simonwillison.net/2026/Mar/29/pretext/)
+[He just crawled through hell to fix the browser… - YouTube](https://www.youtube.com/watch?v=vd14EElCRvs)
 
 ### Fitting Text/Responsive Typography
 

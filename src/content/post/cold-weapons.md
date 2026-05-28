@@ -2,7 +2,7 @@
 title: Cold Weapons
 description: ""
 created: 2015-10-09
-updated: 2026-02-05
+updated: 2026-05-28
 tags:
   - weapons
 ---
@@ -10,13 +10,13 @@ tags:
 [Cold weapon - Wikiwand](https://www.wikiwand.com/en/Cold_weapon)
 [List of premodern combat weapons - Wikiwand](https://www.wikiwand.com/en/List_of_premodern_combat_weapons)
 
-[Weapons and armour - YouTube](https://www.youtube.com/playlist?list=PLCA860ECD7F894424) Lindybeige
-[Walter Sorrells - YouTube](https://www.youtube.com/@WalterSorrellsBlades)
 [epicfantasy - YouTube](https://www.youtube.com/@epicfantasy)
 [Royal Armouries - YouTube](https://www.youtube.com/@RoyalArmouriesMuseum) cold and hot weapons
 [SandRhoman History - YouTube](https://www.youtube.com/@SandRhomanHistory) battles
 [scholagladiatoria - YouTube](https://www.youtube.com/@scholagladiatoria)
 [Tod's Workshop - YouTube](https://www.youtube.com/@tods_workshop)
+[Walter Sorrells - YouTube](https://www.youtube.com/@WalterSorrellsBlades)
+[Weapons and armour - YouTube](https://www.youtube.com/playlist?list=PLCA860ECD7F894424) Lindybeige
 [冷兵器研究所OfficialChannel - YouTube](https://www.youtube.com/@%E5%86%B7%E5%85%B5%E5%99%A8%E7%A0%94%E7%A9%B6%E6%89%80Official)
 [弓手冬郎 - YouTube](https://www.youtube.com/@%E5%BC%93%E6%89%8B%E5%86%AC%E9%83%8E-i7r)
 [極端武力 - YouTube](https://www.youtube.com/@%E6%A5%B5%E7%AB%AF%E6%AD%A6%E5%8A%9B)
@@ -118,7 +118,7 @@ Halberds: great vs armored troops
 
 [Catapult - Wikiwand](https://www.wikiwand.com/en/Catapult) umbrella term, tension or torsion energy
 [Onager (weapon) - Wikiwand](<https://www.wikiwand.com/en/Onager_(weapon)>) 弩砲 torsion energy, commonly known as catapult
-[Mangonel - Wikiwand](https://www.wikiwand.com/en/Mangonel) 牽引投石機 traction trebuchet, powered by man
+[Mangonel - Wikiwand](https://www.wikiwand.com/en/Mangonel) 牽引投石機 traction trebuchet, powered by tension (men pulling strings), faster to load than torsion and gravity designs
 [Trebuchet - Wikiwand](https://www.wikiwand.com/en/Trebuchet) 重力投石機/配重式投石機 powered by counterweight
 [Catapults, trebuchet, onager, mangonel, ballista - YouTube](https://www.youtube.com/watch?v=yCIk9bT2ZTo) vs people
 
@@ -128,6 +128,7 @@ Halberds: great vs armored troops
 [The Evolution From Arrows To Artillery In Weapon Technology | Our History - YouTube](https://www.youtube.com/watch?v=7bEmrwNRfWA)
 [The TRUTH about medieval CATAPULTS - YouTube](https://www.youtube.com/watch?v=7x-vv0FCIkQ)
 [A point about sieges - YouTube](https://www.youtube.com/watch?v=7IO-CooA4_Y)
+[How Medieval Sieges Actually Worked - YouTube](https://www.youtube.com/watch?v=tCHk2ZteXEo)
 [Sieges and Siege-craft - YouTube](https://www.youtube.com/watch?v=iq1EHbWTbFU)
 [Medieval castle SIEGES in depth - YouTube](https://www.youtube.com/watch?v=Bc2o9mknM-Y)
 [Eastern vs Western Siegecraft: When the Chinese Besieged a Russian Star Fortress in 1686 - YouTube](https://www.youtube.com/watch?v=7DcUVcvpV0E)

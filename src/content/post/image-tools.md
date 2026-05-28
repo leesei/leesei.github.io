@@ -2,7 +2,7 @@
 title: Image Tools
 description: ""
 created: 2016-08-04
-updated: 2025-10-10
+updated: 2026-03-13
 tags:
   - app
   - image-magick
@@ -87,8 +87,10 @@ convert {from_path} -resize x1080 {to_path}  # fix height only
 # very low quality
 convert -thumbnail {width} *.jpg
 
-# resize to max width 1920
+# resize to max width 1920, output to folder
 mogrify input_folder/*.jpg  -resize 1920x\> -path output_folder/
+# max 1200 on any dimension, aspect ratio is preserved
+mogrify -resize 1200x1200 yourfiles*.jpg
 ```
 
 [How can I scale all images in a folder to the same width? - Ask Ubuntu](https://askubuntu.com/questions/135477/how-can-i-scale-all-images-in-a-folder-to-the-same-width)

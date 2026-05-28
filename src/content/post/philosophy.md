@@ -21,7 +21,7 @@ tags:
 [Logical fallacy - RationalWiki](http://rationalwiki.org/wiki/Logical_fallacy)
 [Category:Fallacious arguments - RationalWiki](http://rationalwiki.org/wiki/Category:Fallacious_arguments)
 [List of cognitive biases - Wikiwand](https://www.wikiwand.com/en/List_of_cognitive_biases)
-[Category:Cognitive biases - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Category:Cognitive_biases)
+[Category:Cognitive biases - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Category:Cognitive_biases?oldformat=true)
 [Cognitive bias cheat sheet](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.luav9hnu2)
 [Every Logical Fallacy Explained in 11 Minutes - YouTube](https://www.youtube.com/watch?v=pCg-SNOteQQ)
 [一口气看懂22个逻辑谬误，45分钟了解逻辑谬误！ - YouTube](https://www.youtube.com/watch?v=JpwE02gi8z4)
@@ -187,6 +187,14 @@ categorical: locates morality in certain duties and rights (absolute moral requi
 [Justice with Michael Sandel - YouTube](https://www.youtube.com/playlist?list=PL30C13C91CFFEFEA6)
 
 [When is Torture Justified? | Lt. Col. Jon S. Jackson | TEDxMemphis - YouTube](https://www.youtube.com/watch?v=3548Ac9wGN8)
+
+### Equality vs Equity vs Justice
+
+![](./_assets/philosophy/a-cool-guide-equality-equity-and-justice.webp)
+
+[Top 5 Equity graphics - Supply Chain Sustainability School Limited](https://www.supplychainschool.au/top-5-equity-graphics/)
+
+[The differences between Equality, Equity, and Justice - YouTube](https://www.youtube.com/watch?v=I4wPyaIAxiI)
 
 ### Utilitarianism
 

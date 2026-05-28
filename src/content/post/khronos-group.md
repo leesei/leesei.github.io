@@ -2,7 +2,7 @@
 title: Khronos Group
 description: ""
 created: 2015-01-05
-updated: 2025-10-10
+updated: 2026-03-25
 tags:
   - comp/lang
   - opengl
@@ -36,14 +36,14 @@ The shader programs are loaded to a OpenGL application (context/shell) for execu
 [Primer : Shaders](http://notes.underscorediscovery.com/shaders-a-primer/)
 [Shaders : second stage](http://notes.underscorediscovery.com/shaders-second-stage/)
 
-## [GPGPU](http://en.wikipedia.org/wiki/GPGPU)
+## [GPGPU](https://www.wikiwand.com/en/General-purpose_computing_on_graphics_processing_units)
 
 [The Chaotic State of GPU Programming - YouTube](https://www.youtube.com/watch?v=9-DiGrnz8l8)
 
-[CUDA](http://en.wikipedia.org/wiki/CUDA) provides an architecture for general-purpose computation in GPU, and is more flexible then shading languages in terms of memory access but lacks some of the graphic specific features. The program is loaded as "kernel" to the GPU without a need for graphic "shell". The host and kernels can communicate and synchronize with each other.
+[CUDA](https://www.wikiwand.com/en/CUDA) provides an architecture for general-purpose computation in GPU, and is more flexible then shading languages in terms of memory access but lacks some of the graphic specific features. The program is loaded as "kernel" to the GPU without a need for graphic "shell". The host and kernels can communicate and synchronize with each other.
 CUDA sits on top of specific language such as OpenCL, DirectX, CUDA C.
 
-[OpenCL](http://en.wikipedia.org/wiki/OpenCL) is a framework for writing programs that execute across heterogeneous platforms consisting of central processing units (CPUs), graphics processing units (GPUs), digital signal processors (DSPs) and other processors.
+[OpenCL](https://www.wikiwand.com/en/OpenCL) is a framework for writing programs that execute across heterogeneous platforms consisting of central processing units (CPUs), graphics processing units (GPUs), digital signal processors (DSPs) and other processors.
 HLSL 5.0 for DirectX 11 is going to add new GPGPU functions like CUDA that also works for AMD's and Intel's GPU.
 These GPGPU framework can access the GPU without needing a graphics context.
 Programmers that need to be platform agnostic will have to stick to GLSL before OpenCL is widely supported.

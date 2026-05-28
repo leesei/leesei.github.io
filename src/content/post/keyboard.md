@@ -2,7 +2,7 @@
 title: Keyboard
 description: ""
 created: 2015-06-15
-updated: 2026-01-30
+updated: 2026-05-16
 tags:
   - comp/hardware
   - logitech
@@ -102,6 +102,12 @@ Perixx Periduo-505 (Mouse Combo) ¥298 from Taobao @2021-08
 
 [qmk_firmware/keyboards/keychron at playground · Keychron/qmk_firmware · GitHub](https://github.com/Keychron/qmk_firmware/tree/playground/keyboards/keychron)
 [How to use VIA to program your keyboard – Keychron Hong Kong](https://keychronhk.com/blogs/archived/how-to-use-via-to-program-your-keyboard)
+
+Add this udev in Linux (`/etc/udev/rules.d/99-via.rules`):
+
+```
+ACTION!="remove", KERNEL=="hidraw*", SUBSYSTEM=="hidraw", MODE="0666", TAG+="uaccess", TAG+="udev-acl"
+```
 
 ### Split Keyboard
 

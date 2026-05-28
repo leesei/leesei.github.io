@@ -2,7 +2,7 @@
 title: Displays
 description: ""
 created: 2015-04-02
-updated: 2026-03-09
+updated: 2026-05-20
 tags:
   - comp/hardware
   - lcd
@@ -146,6 +146,7 @@ P-IPS > H-IPS > S-IPS > AH-IPS > E-IPS
 [What is an IPS Monitor? A Practical Guide to Understanding Display Technology](http://www.slrlounge.com/what-is-an-ips-monitor-understanding-ips-displays/)
 [LCD Panel Technology: IPS, VA, PLS, AHVA & TN Monitors](http://www.pchardwarehelp.com/guides/lcd-panel-types.php)
 [Display Tech Compared: TN vs. VA vs. IPS | TechSpot](https://www.techspot.com/article/2322-display-tech-compared/)
+[Display Tech Comparison: IPS vs. VA vs. TN vs. QD-OLED vs. WOLED | TechSpot](https://www.techspot.com/article/2929-display-tech-lcd-oled/)
 [Display Panel Type Differences Defined - TN vs. IPS, PLS, VA, & More | Gamers Nexus - Gaming PC Builds & Hardware Benchmarks](http://www.gamersnexus.net/guides/1890-panel-comparison-tn-ips-pls-va-crt)
 [What is VA (Vertical Alignment) Technology? - YouTube](https://www.youtube.com/watch?v=X863ajSVAbs)
 [PLS vs IPS - Which Panel Type Should I Choose? [Simple Guide]](https://www.displayninja.com/pls-vs-ips/)

@@ -2,7 +2,7 @@
 title: SQLite
 description: ""
 created: 2023-09-26
-updated: 2025-10-10
+updated: 2026-05-20
 tags:
   - comp/database
   - postgresql
@@ -40,7 +40,18 @@ tags:
 
 ## libSQL
 
+[libSQL - Turso](https://docs.turso.tech/libsql)
+[tursodatabase/libsql: libSQL is a fork of SQLite that is both Open Source, and Open Contributions.](https://github.com/tursodatabase/libsql)
+
 [SQLite and its weird new fork “libSQL” - YouTube](https://www.youtube.com/watch?v=PGpL5hYpY1o)
+
+## Turso
+
+[Welcome to Turso - Turso](https://docs.turso.tech/introduction)
+[tursodatabase/turso: Turso is an in-process SQL database, compatible with SQLite.](https://github.com/tursodatabase/turso)
+
+[Introducing Limbo: A complete rewrite of SQLite in Rust](https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust)
+[Distributed SQLite: Why LibSQL and Turso are the New Standard in 2026 - DEV Community](https://dev.to/dataformathub/distributed-sqlite-why-libsql-and-turso-are-the-new-standard-in-2026-58fk)
 
 ## GUI Client
 

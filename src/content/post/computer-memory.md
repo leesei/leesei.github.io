@@ -2,7 +2,7 @@
 title: Computer Memory
 description: ""
 created: 2016-04-26
-updated: 2025-11-23
+updated: 2026-05-20
 tags:
   - comp/hardware
   - ddr
@@ -85,6 +85,8 @@ AMD's EXPO (for DDR5 on AM5) allow modules to run at lower clock speed upon idle
 
 [Does RAM Speed REALLY Matter?? (DDR5 Edition) - YouTube](https://www.youtube.com/watch?v=b-WFetQjifc)
 latency is more crucial
+
+[4 ways DDR5 is better than DDR4](https://www.xda-developers.com/how-ddr5-is-better-than-ddr4/)
 
 [DDR5 is FINALLY HERE... and I've got it - YouTube](https://www.youtube.com/watch?v=aJEq7H4Wf6U)
 [DDR5 導讀~邁入新世代記憶體 DDR5 入門篇 - YouTube](https://www.youtube.com/watch?v=cKqq4O7qVTU)

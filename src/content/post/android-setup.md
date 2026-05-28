@@ -2,7 +2,7 @@
 title: Android setup
 description: ""
 created: 2015-01-13
-updated: 2025-10-10
+updated: 2026-03-25
 tags:
   - adb
   - android
@@ -105,7 +105,6 @@ SUBSYSTEM=="usb", ATTR{idVendor}=="04e8", ATTR{idProduct}=="6860", MODE="0666", 
 [Android USB Connections Explained: MTP, PTP, and USB Mass Storage](https://www.howtogeek.com/192732/android-usb-connections-explained-mtp-ptp-and-usb-mass-storage/)
 [MTP - ArchWiki](https://wiki.archlinux.org/title/MTP)
 [MTPfs « Dual Elephants](https://www.adebenham.com/mtpfs/)
-[Mount MTP device on Debian 7 wheezy | Roger Steneteg](http://roger.steneteg.org/299/mount-mtp-device-on-debian-7-wheezy/)
 [[GUIDE] How-To Automount Your Note 10.1 to Linux with MTP - xda-developers](https://forum.xda-developers.com/showthread.php?t=2140939)
 [Getting MTP enabled devices to work with Ubuntu? - Ask Ubuntu](https://askubuntu.com/questions/87667/getting-mtp-enabled-devices-to-work-with-ubuntu/308366)
 

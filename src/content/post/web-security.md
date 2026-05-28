@@ -2,7 +2,7 @@
 title: Web Security
 description: ""
 created: 2015-05-18
-updated: 2026-02-01
+updated: 2026-05-14
 tags:
   - security
   - ssl
@@ -279,7 +279,8 @@ The counter-measure is to:
 [Excess XSS: A comprehensive tutorial on cross-site scripting](http://excess-xss.com/)
 [What is cross-site scripting (XSS) and how to prevent it? | Web Security Academy](https://portswigger.net/web-security/cross-site-scripting)
 
-[What is cross-site scripting (XSS) and how to prevent it? | Web Security Academy](https://portswigger.net/web-security/cross-site-scripting#what-is-cross-site-scripting-xss)
+[Goodbye innerHTML, Hello setHTML: Stronger XSS Protection in Firefox 148 - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/)
+
 [DOM clobbering | Web Security Academy](https://portswigger.net/web-security/dom-based/dom-clobbering)
 
 [Your API-Centric Web App Is Probably Not Safe Against XSS and CSRF](http://www.redotheweb.com/2015/11/09/api-security.html)
@@ -328,9 +329,15 @@ If markup is allowed, sanitize user input before saving to database
 
 ## Fingerprinting
 
+[What Is Browser Fingerprinting and How Does It Work? | SEON](https://seon.io/resources/browser-fingerprinting/)
 [How websites take browser fingerprints | Kaspersky official blog](https://www.kaspersky.com/blog/rc3-fpmon-browser-fingerprinting/38369/)
-[How to Protect Against Browser Fingerprinting and Boost Your Privacy](https://www.makeuseof.com/how-block-browser-fingerprinting/)
 
+[Browser Fingerprint Test - Detect Your Unique Browser Signature](https://scrapfly.io/web-scraping-tools/browser-fingerprint)
+[JA3/JA4 TLS Fingerprint - Detect Browser TLS/SSL Fingerprinting](https://scrapfly.io/web-scraping-tools/ja3-fingerprint?algo=ja3)
+[HTTP/2 Fingerprint - Detect Browser HTTP/2 Configuration](https://scrapfly.io/web-scraping-tools/http2-fingerprint)
+[Device Fingerprint - TCP/IP & UDP/IP Network Fingerprinting](https://scrapfly.io/web-scraping-tools/device-fingerprint?tab=tcp)
+
+[How to Protect Against Browser Fingerprinting and Boost Your Privacy](https://www.makeuseof.com/how-block-browser-fingerprinting/)
 [Fighting TLS fingerprinting with Node.js | HTTP Toolkit](https://httptoolkit.tech/blog/tls-fingerprinting-node-js/)
 
 [Researchers use GPU fingerprinting to track users online](https://www.bleepingcomputer.com/news/security/researchers-use-gpu-fingerprinting-to-track-users-online/)
@@ -338,7 +345,6 @@ If markup is allowed, sanitize user input before saving to database
 [CSS Security Vulnerabilities | CSS-Tricks - CSS-Tricks](https://css-tricks.com/css-security-vulnerabilities/)
 [CSS-Based Fingerprinting | CSS-Tricks - CSS-Tricks](https://css-tricks.com/css-based-fingerprinting/)
 
-[What Is Browser Fingerprinting and How Does It Work? | SEON](https://seon.io/resources/browser-fingerprinting/)
 [FingerprintJS Open Source Demo](https://fingerprintjs.github.io/fingerprintjs/)
 
 [The device intelligence platform | Fingerprint](https://fingerprint.com/)

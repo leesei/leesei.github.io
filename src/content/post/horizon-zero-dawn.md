@@ -2,7 +2,7 @@
 title: Horizon Zero Dawn
 description: ""
 created: 2023-06-13
-updated: 2025-11-04
+updated: 2026-05-20
 tags:
   - games
   - horizon-zero-dawn
@@ -55,6 +55,8 @@ tags:
 [How to get Shield-Weaver Early - Horizon Zero Dawn - YouTube](https://www.youtube.com/watch?v=4eocXnyNsJM)
 [How to get the Shield-Weaver Armor under an hour! Horizon Zero Dawn best armor - YouTube](https://www.youtube.com/watch?v=Ws_-wUVvRvI)
 [Horizon: Zero Dawn - How to find all 12 Vantage points (Vantage points guide ) - YouTube](https://www.youtube.com/watch?v=KS9eDf1KnpM)
+
+[The Best Armor In Horizon Zero Dawn Remastered, Ranked](https://gamerant.com/horizon-zero-dawn-remastered-best-armor-ranked/)
 
 ## Tips and Tricks
 

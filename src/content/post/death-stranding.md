@@ -2,11 +2,13 @@
 title: Death Stranding
 description: ""
 created: 2023-08-25
-updated: 2025-01-09
+updated: 2026-04-29
 tags:
   - death-stranding
   - games
 ---
+
+[《死亡擱淺2》那些爛梗其實不是亂塞 - YouTube](https://www.youtube.com/watch?v=dNNZwT5mQYw)
 
 Gamker
 [孩子順利出生，父子平安！【Gamker攻殼·開箱】 - YouTube](https://www.youtube.com/watch?v=iKiC6r-9xHc)

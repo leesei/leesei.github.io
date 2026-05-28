@@ -2,7 +2,7 @@
 title: Image Formats
 description: ""
 created: 2016-08-04
-updated: 2025-10-10
+updated: 2026-04-03
 tags:
   - standard
 ---
@@ -16,6 +16,7 @@ tags:
 [Is WebP really better than JPEG? – siipo.la](https://siipo.la/blog/is-webp-really-better-than-jpeg)
 [What’s the best lossless image format? PNG, WebP, AVIF, and JPEG XL compared – siipo.la](https://siipo.la/blog/whats-the-best-lossless-image-format-comparing-png-webp-avif-and-jpeg-xl)
 
+[Why There Are So Many Image Formats - YouTube](https://www.youtube.com/watch?v=W31xBdl5tNA)
 [A rant about image formats - YouTube](https://www.youtube.com/watch?v=pFNmS_HZ2Zs) jpeg, png, svg, webp, avif, jpeg-xl
 
 ## PNG

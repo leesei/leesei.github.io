@@ -2,7 +2,7 @@
 title: Middle East History
 description: ""
 created: 2019-07-31
-updated: 2025-10-10
+updated: 2026-03-13
 tags:
   - history
   - history/middle-east
@@ -67,6 +67,8 @@ AD135, 羅馬皇帝哈德良將迦南地區(在含耶路撒冷)納入敍利亞�
 [從0開始,看懂伊朗:波斯文明爲什麽會突然消失?以色列將帶給伊朗人什麼改變?中國明教與波斯拜火教有什麼關係?| 床台 - YouTube](https://www.youtube.com/watch?v=nDlafBs4674)
 
 [伊朗：50年前vs50年后，這裡到底發生了什麼？|自說自話的總裁 - YouTube](https://www.youtube.com/watch?v=z2kkq_qfvF0) 巴列維組織石油七姐妹(OPEC) 控制油價, 擺脫美國控制, 沙地投靠美國, 美國蘇聯發動1978年伊斯蘭革命, 1979霍梅尼回國建立神權國家, 各大國家在1080年兩伊戰爭中支持伊拉克候賽因
+
+[【川普為何要打伊朗？】這兩年「中東發生了什麼事？」 伊朗戰略崩盤的真正原因 - YouTube](https://www.youtube.com/watch?v=NDMQxW9dpf4)
 
 ## Turkey
 

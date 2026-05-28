@@ -2,13 +2,13 @@
 title: Database
 description: ""
 created: 2015-08-03
-updated: 2026-01-12
+updated: 2026-05-22
 tags:
   - comp/database
 ---
 
 > TODO: merge `caravan/database/` here
-> split `datebase-mysql`, `datebase-redis`, `datebase-tikv-tidb`, `datebase-graph`, `datebase-as-a-service`, `datebase-transactional`, `datebase-kv`, `datebase-document`, `datebase-lightweight`, `datebase-multimodal`, `datebase-vector`
+> split `database-mysql`, `database-redis`, `database-tikv-tidb`, `database-graph`, `database-as-a-service`, `database-transactional`, `database-kv`, `database-document`, `database-lightweight`, `database-multimodal`, `database-vector`
 
 [Database - Wikiwand](https://www.wikiwand.com/en/Database)
 [Databases 101 - Thomas LaRock](https://thomaslarock.com/2018/07/databases-101/)
@@ -820,10 +820,12 @@ Containerized deployment, meant for scale.
 ## DocumentDB/FerretDB
 
 > Open-source fork of MongoDB implemented using PostgreSQL
+> Not to be confused with AWS's DocumentDB
 
 [DocumentDB - Open Source Document Database](https://documentdb.io/)
 [documentdb/documentdb: MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity.](https://github.com/documentdb/documentdb)
 [What DocumentDB Means for Open Source - The New Stack](https://thenewstack.io/what-documentdb-means-for-open-source/)
+[DocumentDB: Open-Source Announcement | Microsoft Open Source Blog](https://opensource.microsoft.com/blog/2025/01/23/documentdb-open-source-announcement/)
 
 [FerretDB](https://www.ferretdb.com/) formerly MangoDB, adopted DocumentDB in 2.0
 [Introduction | FerretDB](https://docs.ferretdb.io/)
@@ -1036,7 +1038,9 @@ The _Standard_ API for interacting with GraphDB.
 
 # Vector Database
 
-> [[datebase-postgresql#pgvector/pgvectorscale]]
+> [[database-postgresql#pgvector/pgvectorscale]]
+
+[VectorDBBench: An Open-Source VectorDB Benchmark Tool](https://zilliz.com/vdbbench-leaderboard?dataset=vectorSearch)
 
 [WTF Is a Vector Database: A Beginner's Guide! - DEV Community](https://dev.to/pavanbelagatti/wtf-is-a-vector-database-a-beginners-guide-16p)
 [The Power of Vector Databases For Knowledge Search - YouTube](https://www.youtube.com/watch?v=awIm3rQOBxE)
@@ -1051,6 +1055,9 @@ The _Standard_ API for interacting with GraphDB.
 [Document-Oriented Agents: Vector Databases, LLMs, Langchain, FastAPI, and Docker | Towards Data Science](https://towardsdatascience.com/document-oriented-agents-a-journey-with-vector-databases-llms-langchain-fastapi-and-docker-be0efcd229f4)
 [Explaining Vector Databases in 3 Levels of Difficulty | by Leonie Monigatti | Towards Data Science](https://towardsdatascience.com/explaining-vector-databases-in-3-levels-of-difficulty-fc392e48ab78)
 [How to implement a vector database for AI - LogRocket Blog](https://blog.logrocket.com/implement-vector-database-ai/)
+
+[alibaba/zvec: A lightweight, lightning-fast, in-process vector database · GitHub](https://github.com/alibaba/zvec)
+[Alibaba Open-Sources Zvec: An Embedded Vector Database Bringing SQLite-like Simplicity and High-Performance On-Device RAG to Edge Applications - MarkTechPost](https://www.marktechpost.com/2026/02/10/alibaba-open-sources-zvec-an-embedded-vector-database-bringing-sqlite-like-simplicity-and-high-performance-on-device-rag-to-edge-applications/)
 
 [【上集】向量数据库技术鉴赏 - YouTube](https://www.youtube.com/watch?v=W_ZUUDJsUtA)
 [【下集】向量数据库技术鉴赏 - YouTube](https://www.youtube.com/watch?v=ct20Kv8yn0U)
@@ -1118,7 +1125,7 @@ The _Standard_ API for interacting with GraphDB.
 
 # NewSQL
 
-[[datebase-postgresql]]
+[[database-postgresql]]
 
 [NewSQL - Wikiwand](https://www.wikiwand.com/en/NewSQL)
 [NoSQL vs. NewSQL: Choosing the Right Tool - VoltDB](https://www.voltdb.com/blog/2015/04/09/nosql-vs-newsql-choosing-right-tool/)

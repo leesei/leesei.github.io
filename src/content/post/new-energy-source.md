@@ -2,7 +2,7 @@
 title: New Energy Source
 description: Renewable Energy, Non-fossil Energy"
 created: 2015-11-04
-updated: 2026-01-31
+updated: 2026-04-17
 tags:
   - energy
   - science
@@ -49,12 +49,15 @@ Solar Thermal Plant
 
 [The Problem with Wind Energy - YouTube](https://www.youtube.com/watch?v=LklUVkMPl8g)
 
-## Fuel Cell
+## Fuel Cell (usually Hydrogen)
 
 [Fuel cell - Wikiwand](https://www.wikiwand.com/en/Fuel_cell)
 [A Basic Overview of Fuel Cell Technology](http://americanhistory.si.edu/fuelcells/basics.htm)
 
 [How Fuel Cells Work - HowStuffWorks](http://auto.howstuffworks.com/fuel-efficiency/alternative-fuels/fuel-cell.htm)
+
+[Blue Hydrogen. The greatest fossil fuel scam in history? - YouTube](https://www.youtube.com/watch?v=2EA4tDYwNYo)
+[Color shades of Hydrogen 🎨 | Types of Hydrogen #hydrogen #greenhydrogen #shorts - YouTube](https://www.youtube.com/shorts/vifdcUXUHFM)
 
 ## Geothermal
 

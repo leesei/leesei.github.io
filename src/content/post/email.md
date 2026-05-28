@@ -2,7 +2,7 @@
 title: Email Services
 description: ""
 created: 2015-11-19
-updated: 2026-02-11
+updated: 2026-05-17
 tags:
   - ldap
   - mail
@@ -88,6 +88,8 @@ https://www.phind.com/search/cm7oa7rk500002v6rojh23o49
 [Email Delivery Service](https://sendgrid.com/) Twilio SendGrid, 100 emails / day
 [EmailJS](https://www.emailjs.com/) 200 monthly requests
 [Resend](https://resend.com/) 100 emails / day, 3000 emails / month
+
+[Free Email Forwarding for Custom Domains - #1 Open Source Email Service 2026](https://forwardemail.net/en)
 
 [All-in-One Marketing Platform for Growing Businesses](https://mailchimp.com/)
 [Transactional Email API Service For Developers | Mailgun](https://www.mailgun.com/)

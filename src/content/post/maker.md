@@ -2,7 +2,7 @@
 title: Maker
 description: ""
 created: 2018-10-16
-updated: 2026-02-12
+updated: 2026-05-20
 tags:
   - maker
 ---
@@ -79,6 +79,9 @@ Clay like when opened, rubber like after one day.
   粉末類
 
 ![Filament Comparison](./_assets/maker/filament_comparison.jpg)
+
+[Try these filament combinations for Multi-Material and Supports! - YouTube](https://www.youtube.com/watch?v=5VV2fbJ0apg)
+[Printing In Multi-material? Use These Filament Combos | Hackaday](https://hackaday.com/2024/12/07/printing-in-multi-material-use-these-filament-combos/)
 
 [Thingiverse - Digital Designs for Physical Objects](https://www.thingiverse.com/)
 [Thangs | Free 3D model community | Geometric Search](https://www.thangs.com/)

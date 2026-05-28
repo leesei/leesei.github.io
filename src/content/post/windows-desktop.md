@@ -2,7 +2,7 @@
 title: Windows Desktop
 description: ""
 created: 2015-01-15
-updated: 2026-03-05
+updated: 2026-03-13
 tags:
   - app
   - desktop
@@ -661,7 +661,7 @@ git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
 
 
 # binaries in `caravan/applications/bin` is not working
-yay -S ffmpeg imagemagick python vim wget curl
+yay -S ffmpeg ghostscript imagemagick python openssh vim wget curl
 yay -S bat dust eza fd fzf jq rg starship tmux uv xh yq zoxide
 
 ln -s /mnt/c/Users/{USER} ~/winhome

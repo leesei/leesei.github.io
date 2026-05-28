@@ -2,7 +2,7 @@
 title: 裝修
 description: ""
 created: 2020-03-07
-updated: 2025-10-10
+updated: 2026-05-23
 tags:
   - household
   - maker
@@ -179,6 +179,7 @@ E0 級板材之所以甲醛含量低，因其本身不含粘合劑和防潮劑�
 [顆粒板刨花板傻傻分不清，這本板材指南請收好 - 每日頭條](https://kknews.cc/home/gzenpp8.html)
 [定製家居選材丨實木顆粒板 PK 實木多層板 - 每日頭條](https://kknews.cc/home/nxvblg2.html)
 [德屋裝潢材料小學堂｜木芯板介紹｜關於木芯板結構、材質、硬度差異大解析 - YouTube](https://www.youtube.com/watch?v=-NACraxauOE)
+[The Science of Plywood - YouTube](https://www.youtube.com/watch?v=oZZBQa_5ePc)
 
 比較
 刨花板/顆粒板/碎料板=木質邊料打成碎料加熱壓成

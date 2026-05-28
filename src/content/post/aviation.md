@@ -2,7 +2,7 @@
 title: Aviation
 description: ""
 created: 2023-02-21
-updated: 2025-12-10
+updated: 2026-03-25
 tags:
   - transportation
 ---
@@ -325,11 +325,11 @@ Caliban Rising - Aviation History
 [Boeing B-52 Stratofortress - Wikiwand](https://www.wikiwand.com/en/articles/Boeing_B-52_Stratofortress)
 [B52 Bomber Boeing Plane | How it Works US Airforce Bomber - YouTube](https://www.youtube.com/watch?v=OWYADawjp2M)
 
-[Rockwell B-1 Lancer - Wikipedia](https://en.wikipedia.org/wiki/Rockwell_B-1_Lancer)
+[Rockwell B-1 Lancer - Wikiwand](https://www.wikiwand.com/en/Rockwell_B-1_Lancer)
 
 #### Stealth Bombers
 
-[Lockheed F-117 Nighthawk - Wikiwand](https://www.wikiwand.com/en/articles/Lockheed_F-117_Nighthawk)
+[Lockheed F-117 Nighthawk - Wikiwand](https://www.wikiwand.com/en/Lockheed_F-117_Nighthawk)
 [The Insane Engineering of the F-117 Nighthawk - YouTube](https://www.youtube.com/watch?v=1zjcnnx7igc)
 [51区上空的幽灵:F117它前身的故事【科学火箭叔】 - YouTube](https://www.youtube.com/watch?v=LnBUCyZXanA)
 [假想殲20?退役13年,世界上首款隱身戰機F117為什麼復飛了?| #探索時分 - YouTube](https://www.youtube.com/watch?v=qaZKc0qyJsY)

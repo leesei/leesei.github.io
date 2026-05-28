@@ -2,7 +2,7 @@
 title: Transmission and Drivetrain
 description: ""
 created: 2015-09-23
-updated: 2025-10-10
+updated: 2026-05-19
 tags:
   - automobile
   - drivetrain
@@ -119,6 +119,7 @@ Frame:
 
 [Why you should not PARTIALLY press the Clutch ? - YouTube](https://www.youtube.com/watch?v=_hKvS6xTC0E)
 [We got sent a super weird clutch and installed it anyway - YouTube](https://www.youtube.com/watch?v=Jnfkdm_wGAs)
+[How Engineers Spent a Century Solving the Clutch - YouTube](https://www.youtube.com/watch?v=lu8JgtnOU6Q)
 
 ## Brakes
 

@@ -2,7 +2,7 @@
 title: Mixed Reality
 description: ""
 created: 2015-07-14
-updated: 2025-12-27
+updated: 2026-05-20
 tags:
   - augmented-reality
   - comp/hardware
@@ -131,7 +131,6 @@ Real VR has to be like this:
 [WebAR Playground - Create Augmented Reality in a Few Clicks with AR.js](https://webxr.io/webar-playground/) `AR.js`
 [8 Web AR examples where brands offered a memorable immersive experience](https://www.wowso.me/blog/webar-examples)
 [Augmented Reality On Web | Web AR Solutions | WOWSOME](https://www.wowso.me/products/augmented-reality-on-web)
-[JINI, powered by 8th Wall Web](https://apps.8thwall.com/8w/jini/)
 [JSARToolKit5 examples](https://kalwalt.github.io/jsartoolkit5/examples/)
 [argon.js Samples](https://samples.argonjs.io/)
 
@@ -144,6 +143,10 @@ Real VR has to be like this:
 [Augmented Reality With HTML5: What Can Mobile Web Browsers Do?](https://marmelab.com/blog/2017/06/19/augmented-reality-html5.html)
 [Building an Augmented Reality Treasure Hunt with A-Frame and AR.js | Women Who Code](https://www.womenwhocode.com/blog/building-an-augmented-reality-treasure-hunt-with-a-frame-and-ar-js)
 [AR.js: A Guide To Developing An Augmented Reality Web App | 3 SIDED CUBE](https://3sidedcube.com/ar-js-a-guide-to-developing-an-augmented-reality-web-app/)
+
+[8th Wall - Open Source AR & 3D](https://8thwall.org/)
+[Getting Started with 8th Wall | 8th Wall](https://8thwall.org/docs/getting-started)
+[8thwall/8thwall: Build immersive AR and interactive 3D. Free and open.](https://github.com/8thwall/8thwall)
 
 [nicolocarpignoli/GeoAR.js: A lightweight library for Web Location-based Augmented Reality.](https://github.com/nicolocarpignoli/GeoAR.js)
 [Location Based (GPS) Augmented Reality on the Web - Chialab Open Source - Medium](https://medium.com/chialab-open-source/location-based-gps-augmented-reality-on-the-web-7a540c515b3c)

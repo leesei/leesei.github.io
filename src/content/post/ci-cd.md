@@ -2,7 +2,7 @@
 title: CI/CD
 description: ""
 created: 2019-11-04
-updated: 2025-01-09
+updated: 2026-05-17
 tags:
   - dev/deploy
   - devops
@@ -217,6 +217,11 @@ Community migrated to Jenkins fork early 2011 after Hudson is bought by Oracle b
 [Continuous Integration and Deployment service for Windows developers - Appveyor](https://www.appveyor.com/)
 
 [Wercker - From code to containers](http://wercker.com/)
+
+[The CI/CD platform for high velocity teams | RWX](https://www.rwx.com/)
+[The Fastest Way to Run GitHub Actions | Blacksmith](https://www.blacksmith.sh/)
+[Woodpecker CI](https://woodpecker-ci.org/)
+[Depot - Up to 55x Faster Builds, Half the Cost | Docker & GitHub Actions](https://depot.dev/)
 
 ### Saucer
 

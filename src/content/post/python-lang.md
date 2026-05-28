@@ -2,7 +2,7 @@
 title: Python notes
 description: ""
 created: 2014-12-11
-updated: 2025-11-18
+updated: 2026-05-20
 tags:
   - comp/lang
   - python
@@ -738,8 +738,10 @@ Use `dis.dis()` to pretty print a function's byte code; see `adaptive`, `show_ca
 [Python moves to remove the GIL and boost concurrency | InfoWorld](https://www.infoworld.com/article/3704248/python-moves-to-remove-the-gil-and-boost-concurrency.html)
 [Talks - Łukasz Langa: Working Around the GIL with asyncio - YouTube](https://www.youtube.com/watch?v=oVhJAVS3g00)
 [python is removing the GIL! (PEP 703) (advanced) anthony explains #550 - YouTube](https://www.youtube.com/watch?v=OC2gnyfmwL8)
+[State of Python 3.13 Performance: Free-Threading - CodSpeed](https://codspeed.io/blog/state-of-python-3-13-performance-free-threading#real-world-impact-the-pagerank-example)
 
 [Python Thread Safety: Using a Lock and Other Techniques – Real Python](https://realpython.com/python-thread-lock/)
+[How Python's GIL actually works (and when it bites you) - DEV Community](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2)
 
 [Understanding the Python GIL - YouTube](https://www.youtube.com/watch?v=Obt-vMVdM8s)
 [Talks - Alireza Farhidzadeh: Getting Around the GIL: Parallelizing Python for Better Performance - YouTube](https://www.youtube.com/watch?v=7d2FLFu2zJY)

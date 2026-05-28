@@ -2,7 +2,7 @@
 title: Astro
 description: ""
 created: 2023-03-04
-updated: 2025-10-10
+updated: 2026-05-28
 tags:
   - javascript
   - static-site
@@ -19,28 +19,36 @@ tags:
 [A Look at Building with Astro | CSS-Tricks](https://css-tricks.com/a-look-at-building-with-astro/)
 [Tag Archive astro](https://daily-dev-tips.com/tags/astro/)
 
+[Astro: To the Moon 🚀 and Back | flori.dev](https://flori.dev/reads/astro-to-the-moon-and-back/) Astro as a full-stack application framework
+
 [Astro 2.0 | Astro](https://astro.build/blog/astro-2/) 2023-01
 [Astro just Launched.... Could it be the ultimate web framework? - YouTube](https://www.youtube.com/watch?v=gxBkghlglTg)
 [Building a multi-framework dashboard with Astro - LogRocket Blog](https://blog.logrocket.com/building-multi-framework-dashboard-with-astro/)
 [Your First Steps with the Astro Framework: A Quickstart Guide](https://www.danywalls.com/your-first-steps-with-the-astro-framework-a-quickstart-guide)
 
-[Astro 3.0 | Astro](https://astro.build/blog/astro-3/)
+[Astro 3.0 | Astro](https://astro.build/blog/astro-3/) 2023-08
 [Upgrade to Astro v3 🚀 Astro Documentation](https://docs.astro.build/en/guides/upgrade-to/v3/)
 [Astro's New Features Have Me Rethinking Everything - YouTube](https://www.youtube.com/watch?v=CYuujJvgmns) Astro 3.0, element transition animation
 [Does Astro make heavy JS frameworks obsolete? - YouTube](https://www.youtube.com/watch?v=4Ohi9G-RCcE) 2023-09, 1:31:01, Astro 3.0
 [The Astro Crash Course - YouTube](https://www.youtube.com/watch?v=rRxuVOutmFQ) 3.0, demo project with SolidJS
 
-[Astro 5.0 Beta Release | Astro](https://astro.build/blog/astro-5-beta/)
-[Astro 5.0 | Astro](https://astro.build/blog/astro-5/)
+[Astro 5.0 | Astro](https://astro.build/blog/astro-5/) 2024-12
 [Content Layer: A Deep Dive | Astro](https://astro.build/blog/content-layer-deep-dive/)
 [Astro’s BIG new feature - YouTube](https://www.youtube.com/watch?v=NdIzsGGYuTk) Content Collection
 [Astro stole my favorite parts of Next (and I'm hyped) - YouTube](https://www.youtube.com/watch?v=3xqa0SsRbdM)
-[Repository search results](https://github.com/search?q=%22astro-loader%22&type=repositories&s=updated&o=desc&p=1)
 
-[Astro Crash Course in 20 Minutes! - YouTube](https://www.youtube.com/watch?v=zrPVTf761OI) 2022-12
-[Astro Crash Course - YouTube](https://www.youtube.com/watch?v=Oi9z5gfIHJs) 2022-08, 1:35:00
-[Astro Crash Course - YouTube](https://www.youtube.com/playlist?list=PLtLXFsdHI8JSX0qJsHfMDSTR3taqvXa5S) 2021-2022
-[Astro makes websites faster & easier to build - YouTube](https://www.youtube.com/watch?v=acgIGT0J99U) 2023-06, 22:54, refactor a site using Astro components
+[Astro 6.0 | Astro](https://astro.build/blog/astro-6/) 2026-03
+[Astro 6: Everything Changed - YouTube](https://www.youtube.com/watch?v=e7C6A-E60kw)
+[Astro just hit the jackpot - YouTube](https://www.youtube.com/watch?v=QcCV5NZe-QQ) Cloudflare acquisition, 6.0
+[Content collections | Docs](https://docs.astro.build/en/guides/content-collections/) Live Content Collection
+[Astro Loaders by LekoArts](https://astro-loaders.lekoarts.de/)
+[VivekGupta137/ninjatype: A minimalist, blazingly fast typing practice application built with Astro and React.](https://github.com/VivekGupta137/ninjatype)
+
+Astro 7.0 stable Rust compiler
+
+[Astro Crash Course - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hXL99yOeCcUrdUee8u36s3) 2026-03
+[Astro (v5) Full Course - YouTube](https://www.youtube.com/playlist?list=PL7X1ln_EaF6JAW4hflPyD8T63PMDhkQyy) 2026-03, 17 videos from
+[Astro Course | Premium Web Development Course](https://learnastro.dev/)
 
 ## Starlight
 

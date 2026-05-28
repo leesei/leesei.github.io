@@ -2,7 +2,7 @@
 title: Artificial Intelligence
 description: ""
 created: 2015-04-14
-updated: 2026-02-12
+updated: 2026-05-18
 tags:
   - ai
   - artificial-intelligence
@@ -515,6 +515,13 @@ Google’s sophisticated WaveNet audio processing neural network, and because it
 [Speechify: Free Text to Speech Reader | 500,000+ 5-star Reviews](https://speechify.com/) 50,000 characters free
 [ElevenLabs Pricing for Creators & Businesses of All Sizes](https://elevenlabs.io/pricing) 10k credits per month
 [Free Text to Speech Online - TTSMaker](https://ttsmaker.com/)
+
+[Speaking of Voxtral | Mistral AI](https://mistral.ai/news/voxtral-tts)
+[[2603.25551] Voxtral TTS](https://arxiv.org/abs/2603.25551)
+[mistralai/Voxtral-4B-TTS-2603 · Hugging Face](https://huggingface.co/mistralai/Voxtral-4B-TTS-2603)
+[Mistral AI just released a text-to-speech model it says beats ElevenLabs — and it's giving away the weights for free | VentureBeat](https://venturebeat.com/orchestration/mistral-ai-just-released-a-text-to-speech-model-it-says-beats-elevenlabs-and)
+[Mistral Voxtral TTS Beats ElevenLabs? - YouTube](https://www.youtube.com/watch?v=Uu9tSn9zMNQ)
+[Voxtral 4B TTS 2603: Installation + 9-Language Demo (Open-Source ElevenLabs Alternative) - YouTube](https://www.youtube.com/watch?v=cKqF8qIW2rI)
 
 [Mimic 3 - Mycroft](https://mycroft.ai/mimic-3/)
 [Mimic TTS - Mycroft AI](https://mycroft-ai.gitbook.io/docs/mycroft-technologies/mimic-tts/)

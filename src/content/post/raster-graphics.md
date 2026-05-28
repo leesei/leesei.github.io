@@ -2,7 +2,7 @@
 title: Raster Graphics
 description: ""
 created: 2019-05-21
-updated: 2025-11-26
+updated: 2026-05-05
 tags:
   - app
   - desktop
@@ -24,7 +24,7 @@ tags:
 [DART 100 Intro To Digital Arts Photoshop Section - YouTube](https://www.youtube.com/playlist?list=PL-lCJfwI1FupYOH6BeYwIMuu2BXf2XRbl)
 [Photoshop Course: Tools in-Depth (FREE) - YouTube](https://www.youtube.com/playlist?list=PLf0N3CF2JlRx7o9oVObgk4y5X6WBF_g21)
 
-[Logos By Nick - YouTube](https://www.youtube.com/c/LogosByNick/featured) GIMP and Illustrator
+[Logos By Nick - YouTube](https://www.youtube.com/@LogosByNick) GIMP and Illustrator
 
 ## Photopea
 

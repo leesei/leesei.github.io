@@ -2,7 +2,7 @@
 title: Unicode
 description: ""
 created: 2015-06-05
-updated: 2026-01-13
+updated: 2026-05-06
 tags:
   - comp/lang
   - emoji
@@ -146,6 +146,7 @@ Black Woman Astronaut = Woman (U+1F469) + Dark Skin Tone (U+1F3FF) + Zero Width 
 [😋 Get Emoji — List of all Emojis to ✂ Copy and 📋 Paste 👌](https://getemoji.com/)
 [emojidex - custom emoji service and apps](https://www.emojidex.com/)
 [Full Emoji List, v14.0](https://www.unicode.org/emoji/charts/full-emoji-list.html)
+[Emoji API | emojiapi.dev](https://emojiapi.dev/emojis)
 
 [🎁 Emoji cheat sheet for GitHub, Basecamp, Slack & more](https://www.webfx.com/tools/emoji-cheat-sheet/)
 

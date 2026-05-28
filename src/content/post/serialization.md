@@ -2,7 +2,7 @@
 title: Serialization
 description: ""
 created: 2020-03-27
-updated: 2026-01-19
+updated: 2026-05-28
 tags:
   - comp/lang
 ---
@@ -198,12 +198,12 @@ jq -c .[]  a.json > a.ndjson
 [Binary Formats - JSON for Modern C++](https://json.nlohmann.me/features/binary_formats/)
 
 [BSON (Binary JSON) Serialization](https://bsonspec.org/) MongoDB, in-place update, designed for storage and lookup
-[JSON and BSON | MongoDB](https://www.mongodb.com/json-and-bson)
-[BSON Types — MongoDB Manual](https://docs.mongodb.com/manual/reference/bson-types/)
-[mongodb/js-bson: BSON Parser for node and browser](https://github.com/mongodb/js-bson)
+[JSON And BSON | MongoDB](https://www.mongodb.com/resources/basics/json-and-bson)
+[BSON Types - Database Manual - MongoDB Docs](https://www.mongodb.com/docs/manual/reference/bson-types/)
 [bson package - go.mongodb.org/mongo-driver/bson - Go Packages](https://pkg.go.dev/go.mongodb.org/mongo-driver/bson)
 
 [CBOR — Concise Binary Object Representation | Overview](https://cbor.io/) Web Assembly, based-on MsgPack, supports partial decode, designed for network communication
+[The CBOR, dCBOR, and Gordian Envelope Book](https://cborbook.com/)
 [RFC 8949 - Concise Binary Object Representation (CBOR)](https://datatracker.ietf.org/doc/html/rfc8949)
 [RFC 8610 - Concise Data Definition Language (CDDL): A Notational Convention to Express Concise Binary Object Representation (CBOR) and JSON Data Structures](https://datatracker.ietf.org/doc/html/rfc8610)
 [draft-ietf-cose-merkle-tree-proofs-10](https://datatracker.ietf.org/doc/html/draft-ietf-cose-merkle-tree-proofs-10)

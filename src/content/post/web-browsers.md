@@ -2,7 +2,7 @@
 title: Web Browser
 description: ""
 created: 2017-06-16
-updated: 2026-01-25
+updated: 2026-04-04
 tags:
   - javascript/runtime
   - web
@@ -152,6 +152,8 @@ Sparkplug is positioned as a "super-fast" non-optimizing compiler. Sparkplug is 
 [your webkit port is special (just like every other port)](http://ariya.ofilabs.com/2011/06/your-webkit-port-is-special-just-like-every-other-port.html) 2011
 [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm) Tali Garsiel 2009
 [Performance Calendar » Rendering: repaint, reflow/relayout, restyle](http://calendar.perfplanet.com/2009/rendering-repaint-reflow-relayout-restyle/) 2009
+[A crash course in just-in-time (JIT) compilers - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/) 2017
+
 2007:
 [WebCore Rendering I – The Basics | WebKit](https://webkit.org/blog/114/webcore-rendering-i-the-basics/)
 [WebCore Rendering II – Blocks and Inlines | WebKit](https://webkit.org/blog/115/webcore-rendering-ii-blocks-and-inlines/)

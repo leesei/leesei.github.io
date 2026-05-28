@@ -2,7 +2,7 @@
 title: Web Development
 description: ""
 created: 2015-11-19
-updated: 2026-01-22
+updated: 2026-05-20
 tags:
   - css
   - javascript
@@ -78,6 +78,7 @@ tags:
 
 [Web Dev Simplified Blog](https://blog.webdevsimplified.com/) pure HTML/CSS tricks
 [Web Dev Simplified - YouTube](https://www.youtube.com/@WebDevSimplified)
+[Kyle Cook from Web Dev Simplified - YouTube](https://www.youtube.com/@KyleCookWDS)
 
 [Learn With Jason - YouTube](https://www.youtube.com/@learnwithjason)
 [Watch and Learn - YouTube](https://www.youtube.com/@WatchandLearnTutorials)
@@ -443,7 +444,7 @@ In SPA, scroll position is loss upon back
 [Using Micro-Frontends to Permanently Solve the Legacy JavaScript Problem](https://medium.com/hacking-talent/using-micro-frontends-to-permanently-solve-the-legacy-javascript-problem-5fba18b0ceac)
 [Two years of micro-frontends: A retrospective - Hacking Talent - Medium](https://medium.com/hacking-talent/two-years-of-micro-frontends-a-retrospective-522526f76df4)
 [Building micro-frontends with webpack's Module Federation - LogRocket Blog](https://blog.logrocket.com/building-micro-frontends-webpacks-module-federation/)
-
+[Setup a Micro-Frontend architecture in 15min with Vite! - DEV Community](https://dev.to/onepoint/setup-a-micro-frontend-architecture-in-15min-with-vite-4pbg)
 [Microfrontends based on React - DEV Community 👩‍💻👨‍💻](https://dev.to/florianrappl/microfrontends-based-on-react-4oo9)
 [Piral - Portal Solutions using Microfrontends](https://piral.io/)
 

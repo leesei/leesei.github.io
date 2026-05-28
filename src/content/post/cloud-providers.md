@@ -2,7 +2,7 @@
 title: Cloud Providers
 description: ""
 created: 2015-06-17
-updated: 2026-03-03
+updated: 2026-05-28
 tags:
   - dev/deploy
   - web
@@ -13,6 +13,7 @@ tags:
 [AWS vs. Azure vs. Google: Detailed Cloud Comparison](https://levelup.gitconnected.com/aws-vs-azure-vs-google-detailed-cloud-comparison-b075a35fc8b8)
 
 [The Best Alternatives To Heroku - Theo's Deployment Recommendations - YouTube](https://www.youtube.com/watch?v=prjMJtXCR-g)
+[Where Should You Deploy In 2026? - YouTube](https://www.youtube.com/watch?v=yfxDdQo2cyI)
 
 [The ABCs of virtual private servers, Part 1: Why go virtual? | Ars Technica](https://arstechnica.com/information-technology/2011/02/virtual-private-servers/)
 [The ABCs of virtual private servers, Part 2: Getting started | Ars Technica](https://arstechnica.com/information-technology/2011/02/the-abcs-virtual-private-servers-part-2-getting-started/)
@@ -246,6 +247,18 @@ Use CNAME to the Netlify URL when dealing with subdomains
 [Authentication - Exploring Appwrite.io with React Series - DEV Community](https://dev.to/daryllukas/authentication-exploring-appwrite-io-with-react-series-1iec)
 [Building a message board with Next.js and AppWrite - DEV Community](https://dev.to/livecycle/building-a-message-board-with-nextjs-and-appwrite-3910)
 [Building a customer support app with live chat and notifications using Next.js, Novu and Appwrite - DEV Community](https://dev.to/arshadayvid/building-a-customer-support-app-with-live-chat-and-notifications-using-nextjs-novu-and-appwrite-2fn8) `account.createEmailSession()`, `account.get()`
+
+## Coolify
+
+> An open-source & self-hostable alternative to Vercel, Heroku, Netlify and Railway
+
+[Coolify](https://coolify.io/)
+[Coolify Docs](https://coolify.io/docs/)
+
+[Notes on My Latest Server Migrations with Coolify · Ministry of Intrigue](https://www.andrlik.org/dispatches/notes-on-my-latest-server-migrations/)
+
+[Multiple Servers | Coolify Docs](https://coolify.io/docs/knowledge-base/server/multiple-servers)
+[Multi-Server Coolify Setup: Scaling Beyond a Single VPS | MassiveGRID Blog](https://massivegrid.com/blog/coolify-multi-server-setup/)
 
 ## Railway
 

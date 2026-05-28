@@ -2,7 +2,7 @@
 title: Business Tools
 description: ""
 created: 2018-10-27
-updated: 2026-02-24
+updated: 2026-05-22
 tags:
   - business
 ---
@@ -182,12 +182,20 @@ tags:
 [Explore n8n Docs: Your Resource for Workflow Automation and Integrations | n8n Docs](https://docs.n8n.io/)
 [n8n-io/n8n: Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.](https://github.com/n8n-io/n8n)
 
+[Release notes v2.0| n8n Docs](https://docs.n8n.io/release-notes/#n8n200)
+[n8n 2.0 Is Here: The Good, The Bad, and Everything You Need to Know - YouTube](https://www.youtube.com/watch?v=evW_jc1gKQ0)
+
 [AI Agent integrations | Workflow automation with n8n](https://n8n.io/integrations/agent/)
 [AI Agents: From Theory to Practice (+Free Templates) – n8n Blog](https://blog.n8n.io/ai-agents/)
 [AI-Powered Feature Engineering with n8n: Scaling Data Science Intelligence - KDnuggets](https://www.kdnuggets.com/ai-powered-feature-engineering-with-n8n-scaling-data-science-intelligence)
 [AI 狂潮下的求生指南：為何只懂 ChatGPT 讓你離失業更近一步，n8n AI Agent 才是你的救命稻草 - YouTube](https://www.youtube.com/watch?v=rgU0mbVpg0k)
 [我找到了最好用的AI工作流工具 看完就懂 - YouTube](https://www.youtube.com/watch?v=31fHVMs6PVE)
 [n8n + AI + X，如何吃掉一切重复工作？我用AI+飞书+n8n，把短视频生产和小红书自动发布变成"按时打卡"？7x24小时AI短视频自动化运营系统 - YouTube](https://www.youtube.com/watch?v=Sj133Lm320E)
+
+[AI Agency with n8n - YouTube](https://www.youtube.com/playlist?list=PLcJnubAa0-XFWH3sVqRSsETK05sEpCTu7)
+[Claude Code Just Changed AI Automation FOREVER - YouTube](https://www.youtube.com/watch?v=YgkqoPXsv7w)
+[The Fastest Way to Connect Claude Code to n8n - YouTube](https://www.youtube.com/watch?v=JfudgkIm9lE)
+[Stop Learning n8n in 2026... Learn THIS Instead - YouTube](https://www.youtube.com/watch?v=1d77LRUS-wc)
 
 [n8n - an open source, self hosted info transform & workflow automation tool w/ drag and drop ease. - YouTube](https://www.youtube.com/watch?v=lpRsqiBc2JQ)
 [Master 80% of n8n in 36 Minutes - YouTube](https://www.youtube.com/watch?v=e3OV3LnrS7o)
@@ -202,6 +210,8 @@ Hostinger
 [Self-hosted n8n | Secure and scalable automation](https://www.hostinger.com/self-hosted-n8n)
 [How to Use the N8N VPS Template at Hostinger - Hostinger Help Center](https://www.hostinger.com/support/10473267-how-to-use-the-n8n-vps-template-at-hostinger/)
 [Guide to Your n8n Journey - YouTube](https://www.youtube.com/playlist?list=PLN0iSzNpiVQENcKpfV3kbldpdC5081T9_)
+[10 practical n8n workflow examples for business automation](https://www.hostinger.com/tutorials/n8n-workflow-examples)
+[How to build an AI workflow in n8n](https://www.hostinger.com/tutorials/how-to-build-ai-workflows-in-n8n)
 
 [5 Things I Wish I Knew Before Learning n8n - YouTube](https://www.youtube.com/watch?v=ofC4OeNjDx8)
 [Stop Learning n8n in 2025... Learn THIS Instead - YouTube](https://www.youtube.com/watch?v=Dif1hwBejCk)

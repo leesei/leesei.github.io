@@ -2,7 +2,7 @@
 title: Payload CMS
 description: A code first CMS that works the way you do
 created: 2023-04-30
-updated: 2025-10-10
+updated: 2026-05-07
 tags:
   - cms
   - typescript
@@ -15,6 +15,10 @@ tags:
 
 [Payload: The fastest growing open-source headless CMS](https://payloadcms.com/)
 [payloadcms/payload: Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.](https://github.com/payloadcms/payload)
+
+Nick Vogel
+[PayloadCMS Tutorials - YouTube](https://www.youtube.com/playlist?list=PLu4ZqvNbx29tmRFvp0kn3PbQllepMsDyn)
+[PayloadCMS Upgrade Guides (Tutorials) - YouTube](https://www.youtube.com/playlist?list=PLu4ZqvNbx29uZrPrLMsUhn89asadW0LOE)
 
 [I tried Payload 3.0. Beta for 40 hours so you don’t have to | by MouCZnik | Medium](https://medium.com/@moucznik6/i-tried-payload-3-0-beta-for-40-hours-so-you-dont-have-to-34fa83a304fd)
 
@@ -83,6 +87,10 @@ Sam Thoyre
 Custom Endpoints can be added to collection without the need to change `server.ts`.
 [REST API | Documentation | Payload](https://payloadcms.com/docs/rest-api/overview#custom-endpoints)
 
+[Adding Super fast MongoDB Atlas Search to Payload CMS | All about Payload #payloadcms - YouTube](https://www.youtube.com/watch?v=61FnDV8PL1A) override default regex search with Atlas search
+
+Use `payload.db.collections["<slug>"]` in v3 (contrast `payload.collections["<slug>"].Model` in v2) to retrieve the Mongoose model which you can call `aggregate()` on.
+
 ### Local API
 
 For writing apps based on Payload CMS, can overrides access control (default true)
@@ -92,7 +100,7 @@ For writing apps based on Payload CMS, can overrides access control (default tru
 
 ### Custom Components
 
-[Payload CMS Custom Components - YouTube](https://www.youtube.com/playlist?list=PLu4ZqvNbx29sK1DbxJnnwOFTg5OHOcrzL)
+[Payload CMS Custom Components - YouTube](https://www.youtube.com/playlist?list=PLu4ZqvNbx29sK1DbxJnnwOFTg5OHOcrzL) Nick Vogel
 
 ### Custom Fields
 
@@ -135,6 +143,7 @@ For writing apps based on Payload CMS, can overrides access control (default tru
 
 [Plugins | Documentation | Payload](https://payloadcms.com/docs/plugins/overview)
 [payload-plugin · GitHub Topics](https://github.com/topics/payload-plugin)
+[PayloadCMS Plugins - YouTube](https://www.youtube.com/playlist?list=PLu4ZqvNbx29uGZpDMvCVnxQt3AXomWszE) Nick Vogel
 
 [thgh/payload-plugin-oauth: Add oAuth sign in to your Payload CMS site](https://github.com/thgh/payload-plugin-oauth)
 [finkinfridom/payload-auth0-plugin: Extends payloadcms with Auth0 integration](https://github.com/finkinfridom/payload-auth0-plugin)

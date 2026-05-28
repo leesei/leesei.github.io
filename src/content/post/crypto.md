@@ -2,7 +2,7 @@
 title: Cryptography
 description: ""
 created: 2016-01-21
-updated: 2026-03-10
+updated: 2026-05-27
 tags:
   - crypto
   - cryptography
@@ -20,11 +20,12 @@ tags:
 [Survival Guide - Encryption, Authentication, Digests, MAC and Signatures](https://www.zytrax.com/tech/survival/encryption.html) ❗!important
 [The Genius Math of Modern Encryption - YouTube](https://www.youtube.com/watch?v=XSJLyK9LlnY)
 
-[Category:Theory of cryptography - Wikipedia](https://en.wikipedia.org/wiki/Category:Theory_of_cryptography)
+[Category:Theory of cryptography - Wikipedia](https://en.wikipedia.org/wiki/Category:Theory_of_cryptography?oldformat=true)
 
 [Crypto Forum (cfrg)](https://datatracker.ietf.org/rg/cfrg/documents/) ❗!important, IETF
 [Limited Additional Mechanisms for PKIX and SMIME (lamps)](https://datatracker.ietf.org/wg/lamps/documents/) ❗!important, IETF
 [Cryptology ePrint Archive](https://eprint.iacr.org/) ❗!important
+[C2SP/C2SP: Community Cryptography Specification Project](https://github.com/C2SP/C2SP) maintains specs and test vectors
 [Welcome | Practical Cryptography for Developers](https://cryptobook.nakov.com/)
 [nakov/Practical-Cryptography-for-Developers-Book: Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA](https://github.com/nakov/practical-cryptography-for-developers-book)
 [Cryptography 101 with Alfred Menezes – Video lectures, notes, and exercises in all areas of applied cryptography](https://cryptography101.ca/)
@@ -78,8 +79,9 @@ In cryptography, these entities are usually used:
 
 ### Block Ciphers
 
-> contrast "stream ciphers", where encrypted strings are the same length as the plaintext
+> where input are segmented into blocks and the encrypted output are the same length as the input, contrast "stream ciphers"
 
+[Block cipher - Wikiwand](https://www.wikiwand.com/en/Block_cipher)
 [Lecture3 Lecture 3: Block Ciphers and the Data Encryption Standard](https://engineering.purdue.edu/kak/compsec/NewLectures/Lecture3.pdf)
 
 [Anatomy of a password disaster – Adobe’s giant-sized cryptographic blunder – Naked Security](https://nakedsecurity.sophos.com/2013/11/04/anatomy-of-a-password-disaster-adobes-giant-sized-cryptographic-blunder/) study of Adobe's leaked password database
@@ -95,9 +97,11 @@ Block ciphers, as the name suggests, encrypts blocks. The methods of segmenting 
 [The Third NIST Workshop on Block Cipher Modes of Operation 2023 | CSRC](https://csrc.nist.gov/Events/2023/third-workshop-on-block-cipher-modes-of-operation)
 
 [Modes of Operation - Computerphile - YouTube](https://www.youtube.com/watch?v=Rk0NIQfEXBA)
-**ECB**: simply divides a message into 16 byte blocks, preserves pattern (for experts only: ECB should never be used except in some very specific cases)
-**CBC**: first block XORed with Initialization Vector (IV) (nonce), every other block XORed with the ciphertext of the block preceding it; however this introduces dependency on previous block and encryption cannot be parallelized
-**CTR**: uses counter and nonce (similar to IV) per block to allow each block to be encrypted concurrently
+**ECB (Electronic codebook)**: simply divides a message into 16 byte blocks, preserves pattern (for experts only: ECB should never be used except in some very specific cases)
+**CBC (Cipher-block chaining)**: first block XORed with Initialization Vector (IV) (nonce), every other block XORed with the ciphertext of the block preceding it; however this introduces dependency on previous block and encryption cannot be parallelized
+**PCBC (Propagating cipher-block chaining)**: similar to CBC, but the plaintext is also XORed with the ciphertext for next round
+**CTR (Counter mode)**: uses counter and nonce (similar to IV) per block to allow each block to be encrypted concurrently
+**GCM (Galois/Counter Mode)**: authenticated encryption with associated data (AEAD), Galois MAC is computed and used for next round
 
 CBC mode is suspectable to [Padding oracle attack (Vaudenay Attack)](https://www.wikiwand.com/en/articles/Padding_oracle_attack)
 [Moxie Marlinspike >> Blog >> The Cryptographic Doom Principle](https://moxie.org/2011/12/13/the-cryptographic-doom-principle.html)
@@ -170,6 +174,11 @@ gpg --output filename.tar.gz --decrypt filename.tar.gz.gpg
 
 ### Stream Ciphers
 
+[Stream cipher - Wikiwand](https://www.wikiwand.com/en/Stream_cipher)
+
+Block Ciphers are more mature.
+Some Block Ciphers in **counter mode** can be used as Stream Ciphers.
+
 #### Chacha Cipher
 
 > alternative to AES
@@ -210,7 +219,7 @@ However, not all algorithms can perform all functions:
 [How the NSA (may have) put a backdoor in RSA’s cryptography: A technical primer](https://blog.cloudflare.com/how-the-nsa-may-have-put-a-backdoor-in-rsas-cryptography-a-technical-primer/)
 
 NIST's P-256, P-384, P-521 curves are distrusted
-Curve25519, Curve448 are used by the community
+Curve25519, Curve448 are used by the community (x25519 for ECDH, ed25519/EdDSA for signature)
 
 ### RSA
 
@@ -218,6 +227,7 @@ Curve25519, Curve448 are used by the community
 
 [RSA (cryptosystem) - Wikiwand](<https://www.wikiwand.com/en/RSA_(cryptosystem)>)
 [How does RSA work? – Hacker Noon](https://hackernoon.com/how-does-rsa-work-f44918df914b)
+[Understanding the RSA Algorithm: A Deep Dive into Asymmetric Cryptography](https://www.onlinehashcrack.com/guides/cryptography-algorithms/understanding-the-rsa-algorithm-a-deep-dive-into-asymmetric-cryptography.php)
 
 [PKCS 1 - Wikiwand](https://www.wikiwand.com/en/articles/PKCS_1)
 [RFC 8017 - PKCS #1: RSA Cryptography Specifications Version 2.2](https://datatracker.ietf.org/doc/html/rfc8017)
@@ -289,7 +299,7 @@ Curve25519, Curve448 are used by the community
 - indistinguishability under adaptive chosen ciphertext attack (IND-CCA2)
 
 These are useful for proving the protocol is Universal Composable.
-[Universal composability - Wikipedia](https://en.wikipedia.org/wiki/Universal_composability)
+[Universal composability - Wikiwand](https://www.wikiwand.com/en/Universal_composability)
 [Universally Composable Security: A New Paradigm for Cryptographic Protocols](https://eprint.iacr.org/2000/067)
 [encryption - What is universal composability guaranteeing, specifically? Where does it apply, and where does it not? - Cryptography Stack Exchange](https://crypto.stackexchange.com/questions/85739/what-is-universal-composability-guaranteeing-specifically-where-does-it-apply)
 
@@ -403,14 +413,17 @@ Certificate Authorities: a trusted third party that will digitally sign and publ
 
 ## Implementation
 
+## Implementation
+
 Most TLS library provides crypto layer
 [[openssl]]
 [[openssl#Alternate Implementations]]
 
-[[openssl]]
-
 [The Linux Crypto API for user applications](https://blog.cloudflare.com/the-linux-crypto-api-for-user-applications/)
 This is slower than OpenSSL
+
+[Noise Protocol Framework](https://noiseprotocol.org/index.html)
+[The Noise Protocol Framework](https://noiseprotocol.org/noise.html)
 
 [Welcome to pyca/cryptography — Cryptography documentation](https://cryptography.io/en/latest/)
 [pyca/cryptography: cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.](https://github.com/pyca/cryptography)
@@ -456,6 +469,7 @@ no challenges are presented to be validated
 [Diffie–Hellman key exchange - Wikiwand](https://www.wikiwand.com/en/articles/Diffie%E2%80%93Hellman_key_exchange)
 [Elliptic-curve Diffie–Hellman - Wikiwand](https://www.wikiwand.com/en/articles/Elliptic-curve_Diffie%E2%80%93Hellman)
 [Implementation of Diffie-Hellman Algorithm - GeeksforGeeks](https://www.geeksforgeeks.org/implementation-diffie-hellman-algorithm/)
+[Unraveling the Diffie-Hellman Key Exchange: A Foundation of Modern Cryptography](https://www.onlinehashcrack.com/guides/cryptography-algorithms/unraveling-the-diffie-hellman-key-exchange-a-foundation-of-modern-cryptography.php)
 
 Traditional DH:
 
@@ -504,9 +518,6 @@ Signal's protocol, requires identity key
 
 [RFC 4306 - Internet Key Exchange (IKEv2) Protocol](https://datatracker.ietf.org/doc/html/rfc4306/)
 [RFC 4754 - IKE and IKEv2 Authentication Using the Elliptic Curve Digital Signature Algorithm (ECDSA)](https://datatracker.ietf.org/doc/html/rfc4754)
-[RFC 8784 - Mixing Preshared Keys in the Internet Key Exchange Protocol Version 2 (IKEv2) for Post-quantum Security](https://datatracker.ietf.org/doc/html/rfc8784)
-[RFC 9242 - Intermediate Exchange in the Internet Key Exchange Protocol Version 2 (IKEv2)](https://datatracker.ietf.org/doc/html/rfc9242/) allow large-sized keys
-[RFC 9370 - Multiple Key Exchanges in the Internet Key Exchange Protocol Version 2 (IKEv2)](https://datatracker.ietf.org/doc/html/rfc9370/) allows multiple rounds of key exchanges
 [Internet Key Exchange Version 2 (IKEv2) Parameters](https://www.iana.org/assignments/ikev2-parameters/ikev2-parameters.xhtml)
 
 [SIGMA: The ‘SIGn-and-MAc’ Approach to Authenticated Diffie-Hellman and Its Use in the IKE Protocols | SpringerLink](https://link.springer.com/chapter/10.1007/978-3-540-45146-4_24)
@@ -598,6 +609,7 @@ Zero-Knowledge sharing
 [Zero-knowledge proofs explained in 3 examples](https://www.circularise.com/blogs/zero-knowledge-proofs-explained-in-3-examples)
 [What are Zero Knowledge Proofs? – OpenMined](https://openmined.org/blog/zero-knowledge-proof/)
 [Zero-knowledge Proof: IZKs, NIZKs, SNARKS, STARKS Explained. | by Mayowa Olatunji (@web3MIO) | Coinmonks | Medium](https://medium.com/coinmonks/zero-knowledge-proof-izks-nizks-snarks-starks-5bc06c96c7ee)
+[Full Guide to Understanding zk-SNARKs and zk-STARKS](https://www.cyfrin.io/blog/a-full-comparison-what-are-zk-snarks-and-zk-starks)
 
 [I can prove I’ve solved this Sudoku without revealing it - YouTube](https://www.youtube.com/watch?v=Otvcbw6k4eo)
 [Zero Knowledge Proofs: A Technical Deep Dive - YouTube](https://www.youtube.com/watch?v=JOCUTtEeXyk)
@@ -607,44 +619,70 @@ Zero-Knowledge sharing
 [The Magic of Zero-Knowledge Proofs #SoME3 - YouTube](https://www.youtube.com/watch?v=FfeXX6OLq8w)
 
 - zk-SNARKs (Succinct Non-Interactive Argument of Knowledge)
-  [scipr-lab/libsnark: C++ library for zkSNARKs](https://github.com/scipr-lab/libsnark)
-  [OpenMined/PyZPK: Python wrapper for open source Zero Proof Knowledge Library](https://github.com/OpenMined/PyZPK)
 - zk-STARKs (Scalable Transparent ARguments of Knowledge)
 - Bulletproofs
 - Folding Schemes
 - Lookup
-
-[Full Guide to Understanding zk-SNARKs and zk-STARKS](https://www.cyfrin.io/blog/a-full-comparison-what-are-zk-snarks-and-zk-starks)
 
 [Leveraging Verifiable Credentials and Zero Knowledge Proofs with Sindri GSP1302 - YouTube](https://www.youtube.com/watch?v=fYGwj7mxXZI)
 [Zero Knowledge Selective Disclosure (ZK-SD-VCs) | IOTA Documentation](https://docs.iota.org/developer/iota-identity/how-tos/verifiable-credentials/zero-knowledge-selective-disclosure)
 [General-Purpose Zero-Knowledge Proofs for Verifiable Credentials](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/appliedcrypto/education/theses/masters-thesis_damiano-mombelli.pdf) PDF
 [rwot9-prague/topics-and-advance-readings/verifiable-credentials-and-zero-knowledge-proof-systems.md at master · WebOfTrustInfo/rwot9-prague](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/topics-and-advance-readings/verifiable-credentials-and-zero-knowledge-proof-systems.md)
 
-[LeastAuthority/moonmath-manual: A resource for anyone interested in understanding and unlocking the potential of zk-SNARKs, from beginners to experts.](https://github.com/LeastAuthority/moonmath-manual)
 [ZK Math Explained: Homomorphisms](https://web.archive.org/web/20251007205447/https://www.cyfrin.io/blog/zk-math-101-homomorphisms)
 [ZK Math Explained: Understanding Elliptic Curves](https://web.archive.org/web/20251119082137/https://www.cyfrin.io/blog/zk-math-101-understanding-elliptic-curves)
 [ZK Math Explained: The Elliptic Curve Discrete Logarithm Problem](https://web.archive.org/web/20251119073556/https://www.cyfrin.io/blog/zk-math-101-the-elliptic-curve-discrete-logarithm-problem)
 
 ZPK uses different signatures
-[draft-irtf-cfrg-bbs-signatures - The BBS Signature Scheme](https://datatracker.ietf.org/doc/draft-irtf-cfrg-bbs-signatures/)
-[decentralized-identity/bbs-signature: The BBS Signature Scheme](https://github.com/decentralized-identity/bbs-signature)
 [Short Randomizable Signatures](https://eprint.iacr.org/2015/525.pdf) "PS" signature
 [Zhiyi-Zhang/PS-Signature-and-EL-PASSO: A C++ Implementation of Short Randomizable Signatures (PS Signatures) and EL PASSO (Privacy-preserving, Asynchronous Single Sign-On)](https://github.com/Zhiyi-Zhang/PS-Signature-and-EL-PASSO)
 [Practical Post-Quantum Signatures for Privacy](https://eprint.iacr.org/2024/131.pdf)
 [Signatures with efficient protocols](https://grokipedia.com/page/signatures_with_efficient_protocols) Camenisch-Lysyanskaya signature (CL signature), obsolete, signature size linear to message size
 
 [LaZer: a Lattice Library for Zero-Knowledge and Succinct Proofs (RWC 2024) - YouTube](https://www.youtube.com/watch?v=NlQNOPlxFOQ)
-[zk-creds: Flexible Anonymous Credentials from zkSNARKs and Existing Identity... (RWC 2024) - YouTube](https://www.youtube.com/watch?v=TKudtC481g4)
 
 [Zero-Knowledge Proofs: How it Works & Use Cases in 2026](https://aimultiple.com/zero-knowledge-proofs)
 [Zero-Knowledge Proof (ZKP) — Explained | Chainlink](https://chain.link/education/zero-knowledge-proof-zkp)
 [Zero-Knowledge Proof: Applications & Use Cases - Chainlink](https://chain.link/education-hub/zero-knowledge-proof-use-cases)
 [(PDF) Zero-knowledge proof framework for privacy-preserving financial compliance](https://www.researchgate.net/publication/390476626_Zero-knowledge_proof_framework_for_privacy-preserving_financial_compliance)
 
+### BBS Signatures
+
+> Boneh-Boyen-Shacham signatures
+
+![](./_assets/crypto/bbs+.png)
+
+- multi-message signatures with built-in ZKP for selective disclosure and unlinkability
+- requires an array of scaler -> Termwise encoding of claims
+
+[draft-irtf-cfrg-bbs-signatures - The BBS Signature Scheme](https://datatracker.ietf.org/doc/draft-irtf-cfrg-bbs-signatures/)
+[decentralized-identity/bbs-signature: The BBS Signature Scheme](https://github.com/decentralized-identity/bbs-signature) used for W3C SD
+[Anonymous Attestation Using the Strong Diffie Hellman Assumption Revisited](https://eprint.iacr.org/2016/663.pdf)
+
+[jsonld-signatures-bbs/sample at master · mattrglobal/jsonld-signatures-bbs](https://github.com/mattrglobal/jsonld-signatures-bbs)
+
+[Intro to ZKPs using BBS+ signatures - YouTube](https://www.youtube.com/watch?v=hXxQqQLBVZ8)
+[BBS+ Signatures – Part 2 - YouTube](https://www.youtube.com/watch?v=AVnCVzW0rkI)
+
+### zk-SNARKs
+
+[Non-interactive zero-knowledge proof - Wikiwand](https://www.wikiwand.com/en/Non-interactive_zero-knowledge_proof)
+[snark-credentials/whitepaper.pdf at master · decentralized-identity/snark-credentials](https://github.com/decentralized-identity/snark-credentials/blob/master/whitepaper.pdf)
+
+[scipr-lab/libsnark: C++ library for zkSNARKs](https://github.com/scipr-lab/libsnark)
+[OpenMined/PyZPK: Python wrapper for open source Zero Proof Knowledge Library](https://github.com/OpenMined/PyZPK)
+
+[LeastAuthority/moonmath-manual: A resource for anyone interested in understanding and unlocking the potential of zk-SNARKs, from beginners to experts.](https://github.com/LeastAuthority/moonmath-manual)
+
+[zk-creds: Flexible Anonymous Credentials from zkSNARKs and Existing Identity... (RWC 2024) - YouTube](https://www.youtube.com/watch?v=TKudtC481g4)
+
 ### zkVMs
 
-[The different types of ZK-EVMs](https://vitalik.eth.limo/general/2022/08/04/zkevm.html)
-
 [The Evolution of Rust inside zkVMs - Erik Kadena | RISC Zero - YouTube](https://www.youtube.com/watch?v=6yVNyuY7lDY)
-[Zeroing into zkVMs — Taiko Labs](https://taiko.mirror.xyz/e_5GeGGFJIrOxqvXOfzY6HmWcRjCjRyG0NQF1zbNpNQ)
+[Zeroing into zkVMs](https://web.archive.org/web/20251205234036/https://paragraph.com/@taiko-labs/zeroing-into-zkvms)
+
+### zkTLS
+
+[zkTLS: Building A Verifiable and Private Web](https://oasis.net/blog/zktls-blockchain-security)
+[Reclaim Protocol - Cryptographic Verification for Identity, Education, Employment & Travel](https://www.reclaimprotocol.org/) [whitepaper](https://drive.google.com/file/d/1Tok4J6mv7PwRCbwxVNhv4alS82sQJI4E/view) [Security Analysis](https://eprint.iacr.org/2024/733)
+[Nascent.xyz | Crypto’s AirTag Moment: Unlocking Mass Adoption with Web Proofs](https://web.archive.org/web/20260222042357/https://www.nascent.xyz/idea/cryptos-airtag-moment)

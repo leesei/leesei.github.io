@@ -2,7 +2,7 @@
 title: PC Games
 description: ""
 created: 2018-01-03
-updated: 2026-01-29
+updated: 2026-05-20
 tags:
   - games
 ---
@@ -46,6 +46,10 @@ tags:
 [The Co-op Mode - YouTube](https://www.youtube.com/channel/UCpdSQ4MAvvEdRC-T7v4ebLQ)
 [Co-Optimus - Your Prime Source for Co-Op Gaming - Home Page](https://www.co-optimus.com/)
 [Best Couch Co-Op Games On Steam](https://gamerant.com/best-pc-steam-split-screen-local-couch-co-op-games/)
+[The 33 Best Local Co-Op Games on Steam](https://gamerant.com/best-pc-steam-split-screen-local-couch-co-op-games/)
+[8 Best Co-Op Games For Short Sessions](https://gamerant.com/best-co-op-games-for-short-sessions/)
+[Best Co-Op Medieval Games](https://gamerant.com/best-co-op-medieval-games/)
+[The Best 2D Co-Op Games](https://gamerant.com/best-2d-co-op-games/)
 
 [Games of the Decade • Archive • Eurogamer.net](https://www.eurogamer.net/archive/games-of-the-decade)
 [Best PC games of all time | Rock Paper Shotgun](https://www.rockpapershotgun.com/2017/11/24/best-pc-games/1/)
@@ -366,6 +370,9 @@ Login Steam first:
 [Microsoft Should be VERY Afraid - Noob's Guide to Linux Gaming - YouTube](https://www.youtube.com/watch?v=Co6FePZoNgE)
 [Can SteamOS and Steam Deck make Linux mainstream? - YouTube](https://www.youtube.com/watch?v=kZEHKQ4CmTk)
 
+[unlbslk/arch-deckify: A script to easily set up a SteamOS-like gaming session on Arch Linux.](https://github.com/unlbslk/arch-deckify)
+[I built my own Steam Machine, and I love it](https://www.makeuseof.com/i-built-my-own-steam-machine-and-i-love-it/)
+
 [tkashkin/GameHub: All your games in one place](https://github.com/tkashkin/GameHub)
 [kra-mo/cartridges: A GTK4 + Libadwaita game launcher](https://github.com/kra-mo/cartridges)
 
@@ -649,6 +656,15 @@ Beast
 # Psychonauts
 
 [Psychonauts 2 Full Story & Ending Explained | Screen Rant](https://screenrant.com/psychonauts-2-full-story-ending-maligula-raz/)
+
+# Vampire Survivors
+
+[How To Solve Vampire Survivors: Ode to Castlevania's Secrets](https://gamerant.com/vampire-survivors-ode-to-castlevania-secrets-riddles-answers/)
+
+# Detroit: Become Human
+
+[為什麼現在玩這款遊戲會感到恐懼？| 《底特律：變人》 - YouTube](https://www.youtube.com/watch?v=_etgxg6ulD0&t=3336s)
+[一口气看完《底特律：变人》完整故事！超燃结局引发终极思考！ - YouTube](https://www.youtube.com/watch?v=Q8bDUB7ajak)
 
 # Crysis
 

@@ -2,7 +2,7 @@
 title: Network
 description: ""
 created: 2016-04-24
-updated: 2026-02-02
+updated: 2026-05-11
 tags:
   - anycast
   - comp/network
@@ -477,9 +477,11 @@ ufw delete allow PORT
 
 ### GFW
 
-[Great Firewall - Wikipedia](https://en.wikipedia.org/wiki/Great_Firewall)
+[Great Firewall - Wikiwand](https://www.wikiwand.com/en/Great_Firewall)
 [Great Firewall Report - GFW Report](https://gfw.report/en/)
 [How the Great Firewall of China Detects and Blocks Fully Encrypted Traffic](https://gfw.report/publications/usenixsecurity23/en/)
+
+[🧭 How to Escape China’s Great Firewall (GFW): 3 Effective Methods Ranked | Frank' Wiki](https://liviaerxin.github.io/blog/how-to-escape-gfw)
 
 [censorship.ai | Exposing and Circumventing China's Censorship of ESNI](https://geneva.cs.umd.edu/posts/china-censors-esni/esni/)
 [Exposing and Circumventing China's Censorship of ESNI](https://gfw.report/blog/gfw_esni_blocking/en/)
@@ -491,6 +493,7 @@ ufw delete allow PORT
 
 [中国防火墙究竟是怎么运作的？为什么我说防火墙才是最辱华的东西？中共是如何通过言论管控来削弱地方政府力量的？史上对中国防火墙最透彻的一次探讨 | 互联网防火墙 | 翻墙 | 愚民政策 | 言论自由 - YouTube](https://www.youtube.com/watch?v=i8Iiv9yFTdM)
 [【我翻牆不違法】一句話，揭開中國翻牆背後沒人敢講的真相！| 張內咸脫口秀 - YouTube](https://www.youtube.com/watch?v=KqvPzPwQem0) 2025翻牆不違法
+[中國史上最嚴VPN禁令!｜翻墻罰款的時代來了...｜信息自由何去何從? - YouTube](https://www.youtube.com/watch?v=OEhC-p0MdUw) 2026-03 拘留個別翻墻人仕
 
 #### Soft Router
 

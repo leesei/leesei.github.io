@@ -2,7 +2,7 @@
 title: PostgreSQL
 description: The World's Most Advanced Open Source Relational Database
 created: 2023-06-18
-updated: 2026-02-01
+updated: 2026-05-22
 tags:
   - comp/database
   - postgresql
@@ -77,6 +77,7 @@ Advisory Locks
 ## PostgreSQL all the things
 
 [Postgres can replace your entire stack... - YouTube](https://www.youtube.com/watch?v=1qs9bQ0MlpQ)
+[I replaced my entire stack with Postgres... - YouTube](https://www.youtube.com/watch?v=TdondBmyNXc)
 [为什么说PostgreSQL是数据库天花板？它为何这么全能？ - YouTube](https://www.youtube.com/watch?v=fSQeeUia8es)
 [养活国内大半自研数据库团队？PostgreSQL是什么？架构是怎么样的？ - YouTube](https://www.youtube.com/watch?v=iWcskTGXM-o)
 
@@ -88,12 +89,12 @@ Advisory Locks
 - Rows are stored in heap according to row index (think of it as a hidden primary key), create and update are always O(1)
 - Indices points to offset in heap and may become stale (needs to be vacuumed)
 
-Message broker: [[#Pub/Sub]], [[#Message queue]]
-Document DB: [[#JSONB]]
-Fulltext search: [[#Logging Database]]
-Geo: [[#Geo-spatial]]
-Vector: [[#Vector]]
-External data source: [[#Forward Data Wrappers (FDW)]]
+Message broker: [[database-postgresql#Pub/Sub]], [[database-postgresql#Message queue]]
+Document DB: [[database-postgresql#JSONB]]
+Fulltext search: [[database-postgresql#Logging Database]]
+Geo: [[database-postgresql#Geo-spatial]]
+Vector: [[database-postgresql#Vector]]
+External data source: [[database-postgresql#Forward Data Wrappers (FDW)]]
 
 ## Clients
 
@@ -170,6 +171,8 @@ External data source: [[#Forward Data Wrappers (FDW)]]
 
 ### Time series
 
+BRIN index group data by start time and end time
+
 [PostgreSQL ++ for time series and events | Timescale](https://www.timescale.com/)
 [timescale/timescaledb: An open-source time-series SQL database optimized for fast ingest and complex queries. Packaged as a PostgreSQL extension.](https://github.com/timescale/timescaledb)
 
@@ -193,6 +196,10 @@ External data source: [[#Forward Data Wrappers (FDW)]]
 [DBeaver Community | Free Universal Database Tool](https://dbeaver.io/)
 
 ## #perfmatters
+
+[PostgresqlCO.NF: PostgreSQL configuration for humans](https://postgresqlco.nf/)
+[PostgreSQL: Documentation: 19.1. Setting Parameters](https://www.postgresql.org/docs/current/config-setting.html)
+[我们仍未知道 PostgreSQL 的性能上限【让PostgreSQL再次伟大#01】 - YouTube](https://www.youtube.com/watch?v=wmGikV_393Y)
 
 [How we optimized PostgreSQL queries 100x | by Vadim Markovtsev | Towards Data Science](https://towardsdatascience.com/how-we-optimized-postgresql-queries-100x-ff52555eabe)
 [Fastest Way to Load Data Into PostgreSQL Using Python | Haki Benita](https://hakibenita.com/fast-load-data-python-postgresql)
@@ -227,6 +234,7 @@ External data source: [[#Forward Data Wrappers (FDW)]]
 
 [Vector Databases Are the Wrong Abstraction](https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/)
 [PostgreSQL as a Vector Database: A Complete Guide](https://www.yugabyte.com/key-concepts/using-postgresql-as-a-vector-database/)
+[Building Vector Similarity Search in PostgreSQL with pgvector](https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/)
 
 [The Problem with Vector Databases (and how to fix it) - YouTube](https://www.youtube.com/watch?v=8oTnUtFYAes)
 

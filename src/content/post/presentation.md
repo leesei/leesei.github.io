@@ -2,7 +2,7 @@
 title: Presentation
 description: ""
 created: 2016-04-24
-updated: 2025-10-17
+updated: 2026-05-26
 tags:
   - business
 ---
@@ -99,12 +99,10 @@ docker run --rm -t --net=host -v $(pwd):/slides astefanutti/decktape http://loca
 
 [Remark](https://remarkjs.com/)
 [gnab/remark: A simple, in-browser, markdown-driven slideshow tool.](https://github.com/gnab/remark)
-[Remarkise —render your markdown as remark slides, in real time](https://remarkjs.com/remarkise)
+[Remarkise —render your markdown as remark slides, in real time](https://remarkjs.com/remarkise) web service
 [Coders, here's a JavaScript presentation tool you'll love | InfoWorld](https://www.infoworld.com/article/3186253/application-development/coders-heres-a-javascript-presentation-tool-youll-love.html)
 
 [sinedied/backslide: CLI tool for making HTML presentations with Remark.js using Markdown](https://github.com/sinedied/backslide)
-
-[michaeljoseph/remarkable: Create remarkable HTML presentations from Markdown](https://github.com/michaeljoseph/remarkable)
 
 ## Next.js
 
@@ -149,26 +147,20 @@ Examples:
 [Marp for VS Code - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
 
 [marp-team/marp-cli: A CLI interface for Marp and Marpit based converters](https://github.com/marp-team/marp-cli)
+[marp-team/awesome-marp: A curated list of awesome things related to Marp](https://github.com/marp-team/awesome-marp)
 [yhatt/marp-cli-example: The good starter for using Marp via Marp CLI, by the author of Marp](https://github.com/yhatt/marp-cli-example)
 
 ```sh
 marp -s .
 marp slide.md -o <output.ext>
-npx marp --pdf --output=dist --input-dir=src  --allow-local-files
-npx marp --pptx --output=dist --input-dir=src --allow-local-files
+npx @marp-team/marp-cli@latest --pdf --output=dist --input-dir=src --allow-local-files
+npx @marp-team/marp-cli@latest --pptx --output=dist --input-dir=src --allow-local-files
 ```
 
-[Marp Basic Example - Speaker Deck](https://speakerdeck.com/yhatt/marp-basic-example)
-[Marpit Markdown](https://marpit.marp.app/markdown)
-[Usage - Presenter notes](https://marpit.marp.app/usage?id=presenter-notes)
-[Theme CSS](https://marpit.marp.app/theme-css)
-[marp-core/themes at main · marp-team/marp-core](https://github.com/marp-team/marp-core/tree/main/themes)
-
-[Split header-footer with logos · marp-team · Discussion #244](https://github.com/orgs/marp-team/discussions/244)
+[Marp CLI: How to make custom transition | Blog | Marp](https://marp.app/blog/how-to-make-custom-transition)
 
 [Introduction](https://marpit.marp.app/)
 [marp-team/marpit: The skinny framework for creating slide deck from Markdown](https://github.com/marp-team/marpit)
-[[RFC] The future plan of Marpit (delayed) · Issue #194 · marp-team/marpit](https://github.com/marp-team/marpit/issues/194)
 
 [The story of Marp Next | Blog | Marp](https://marp.app/blog/the-story-of-marp-next)
 
@@ -176,7 +168,72 @@ npx marp --pptx --output=dist --input-dir=src --allow-local-files
 [Seven Tips For Getting The Most Out Of Marp | #! code](https://www.hashbangcode.com/article/seven-tips-getting-most-out-marp)
 
 [hashbangcode/marp-talk-template](https://github.com/hashbangcode/marp-talk-template)
+
+### Marpit Markdown
+
+[Marpit Markdown](https://marpit.marp.app/markdown)
+[Marp Basic Example - Speaker Deck](https://speakerdeck.com/yhatt/*marp*-basic-example)
+[Marp Next example](https://gist.github.com/yhatt/a7d33a306a87ff634df7bb96aab058b5)
+
+- [Image syntax](https://marpit.marp.app/image-syntax)  
+  `![w:32 h:32](image.jpg)`, `![bg contain]`, `![bg left:33%]`  
+  [center image · Issue #141 · marp-team/marpit](https://github.com/marp-team/marpit/issues/141)
+  [Marp: Advanced Image Positioning](https://miriam-mueller.com/marp-advanced-image-positioning/)
+- [Presenter notes](https://marpit.marp.app/usage?id=presenter-notes)  
+  use HTML comments
+- [Fragmented list](https://marpit.marp.app/fragmented-list) `*` list, would need `<!-- prettier-ignore -->`
+  [Allow for fragmented list from a directive · Issue #357 · marp-team/marpit](https://github.com/marp-team/marpit/issues/357)
+  [More flexible fragments · Issue #195 · marp-team/marpit](https://github.com/marp-team/marpit/issues/195) `<div data-marpit-fragment></div>`, requires `--html` in CLI
+- [Header and footer](https://marpit.marp.app/directives?id=header-and-footer)
+- [Custom directives](https://marpit.marp.app/directives?id=custom-directives)
+- Prefers HTML instead of remark syntax  
+  can use plugin to replicate something similar
+  [Add content classes · marp-team · Discussion #538](https://github.com/orgs/marp-team/discussions/538)
+
+Supports [jdecked/twemoji](https://github.com/jdecked/twemoji) Emoji
+
+Settings (directives) can be defined at frontmatter
+
+```yaml
+---
+transition: cube
+---
+```
+
+Or defined/overridden on a slide
+
+```md
+# First page
+
+---
+
+<!-- transition: cover -->
+
+# Second page
+```
+
+`transition` will override default value for the following slides
+`_transition` will override default value for the current slide only
+
+### Koan
+
+[Support for FontAwesome Icons on MARP preview · marp-team · Discussion #83](https://github.com/orgs/marp-team/discussions/83)
+[kazumatu981/markdown-it-fontawesome](https://github.com/kazumatu981/markdown-it-fontawesome)
+
+[marp-cli/docs/bespoke-transitions/README.md at main · marp-team/marp-cli](https://github.com/marp-team/marp-cli/blob/main/docs/bespoke-transitions/README.md#built-in-transitions)
+[Marp CLI: How to make custom transition | Blog | Marp](https://marp.app/blog/how-to-make-custom-transition)
+[Slide transitions for Marp have made stably available now! · marp-team · Discussion #168](https://github.com/orgs/marp-team/discussions/168)
+
+[Split header-footer with logos · marp-team · Discussion #244](https://github.com/orgs/marp-team/discussions/244)
+
+### Themes
+
+[Theme CSS](https://marpit.marp.app/theme-css)
+[marp-core/themes at main · marp-team/marp-core](https://github.com/marp-team/marp-core/themes) builtin themes
 [cunhapaulo/marpstyle: Repository for Marp Themes created with beauty and simplicity in mind.](https://github.com/cunhapaulo/marpstyle)
+[cunhapaulo/MarpX: Try MarpX - Marp themes still created with beauty and simplicity in mind. (Marpstyle 2.0)](https://github.com/cunhapaulo/MarpX/tree/main)
+
+[Marp / marp-template-hsmw · GitLab](https://git.hs-mittweida.de/marp/marp-template-hsmw)
 
 ## present (Go)
 
@@ -187,6 +244,7 @@ npx marp --pptx --output=dist --input-dir=src --allow-local-files
 [Home | Slidev](https://sli.dev/)
 
 Built with Vite
+With animations, Vue components
 
 ## Spectacle
 

@@ -2,7 +2,7 @@
 title: Cross Platform Apps (Mobile)
 description: ""
 created: 2015-04-03
-updated: 2025-10-10
+updated: 2026-03-25
 tags:
   - app
   - appcelerator
@@ -17,7 +17,7 @@ tags:
 [[react-native]]
 [[cross-platform-apps-desktop#Quasar]]
 
-[Cross-platform - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Cross-platform)
+[Cross-platform software - Wikiwand](https://www.wikiwand.com/en/Cross-platform_software)
 
 It is difficult to develop and maintain apps which support multiple mobile platforms. Luckily there are abstraction layers which developers can write code on and deploy to multiple platforms.
 

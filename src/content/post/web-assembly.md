@@ -2,7 +2,7 @@
 title: Web Assembly
 description: ""
 created: 2017-06-19
-updated: 2026-01-13
+updated: 2026-04-04
 tags:
   - wasm
   - web
@@ -117,6 +117,11 @@ Hands-on
 
 [bytecodealliance/wit-bindgen: A language binding generator for WebAssembly interface types](https://github.com/bytecodealliance/wit-bindgen)
 [component-model/WIT.md at main · WebAssembly/component-model](https://github.com/WebAssembly/component-model/blob/main/design/mvp/WIT.md)
+
+[Introduction - The WebAssembly Component Model](https://component-model.bytecodealliance.org/) The Component Book
+[Keynote: What is a Component (and Why)? - Luke Wagner, Distinguished Engineer, Fastly - YouTube](https://www.youtube.com/watch?v=tAACYA1Mwv4)
+[WebAssembly/component-model: Repository for design and specification of the Component Model · GitHub](https://github.com/webassembly/component-model)
+[Why is WebAssembly a second-class language on the web? - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/)
 
 [wasmerio/wai: A language binding generator for `wai` (a precursor to WebAssembly interface types)](https://github.com/wasmerio/wai) for Wasmer
 [wai/WAI.md at main · wasmerio/wai](https://github.com/wasmerio/wai/blob/main/WAI.md)

@@ -2,7 +2,7 @@
 title: VPN
 description: ""
 created: 2023-04-14
-updated: 2026-01-16
+updated: 2026-05-27
 tags:
   - comp/network
 ---
@@ -13,6 +13,8 @@ tags:
 [The 5 Best Free Chrome VPNs to Unblock Any Website](https://nira.com/chrome-vpn/)
 
 # VPN
+
+[[crypto-pqc#PQC VPN adoption]]
 
 [OpenMPTCProuter - Internet connection bonding - Home](https://www.openmptcprouter.com/)
 
@@ -65,6 +67,7 @@ tags:
 
 [WireGuard: fast, modern, secure VPN tunnel](https://www.wireguard.com/) kernel VPN module, replaces IPsec, UDP only
 [howto/wireguard](https://dn42.net/howto/wireguard)
+[WireGuard: Next Generation Kernel Network Tunnel](https://www.wireguard.com/papers/wireguard.pdf) white paper
 [What is WireGuard? Why Linux Users Going Crazy Over it?](https://itsfoss.com/wireguard/)
 [Why WireGuard :: Blog :: TheOrangeOne](https://theorangeone.net/posts/whyreguard/)
 [Getting started with WireGuard :: Blog :: TheOrangeOne](https://theorangeone.net/posts/wireguard-getting-started/)
@@ -79,11 +82,42 @@ tags:
 [Alpine Linux set up WireGuard VPN server](https://www.cyberciti.biz/faq/how-to-set-up-wireguard-vpn-server-on-alpine-linux/amp/)
 [Ubuntu 20.04 set up WireGuard VPN server - nixCraft](https://www.cyberciti.biz/faq/ubuntu-20-04-set-up-wireguard-vpn-server/)
 
+[Home - wg-easy](https://wg-easy.github.io/wg-easy/v15.2/)
+[wg-easy/wg-easy: The easiest way to run WireGuard VPN + Web-based Admin UI.](https://github.com/wg-easy/wg-easy)
+
 [trailofbits/algo: Set up a personal VPN in the cloud](https://github.com/trailofbits/algo) Ansible scripts to setup WireGuard+IPSec
 [Meet Algo, the VPN that works | Trail of Bits Blog](https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/)
 [Meet Algo, your personal VPN in the cloud featuring Dan Guido from Trail of Bits (Changelog Interviews #377)](https://changelog.com/podcast/377)
 
 [aramperes/onetun: Access your WireGuard network from any device, without root access or having to install WireGuard locally.](https://github.com/aramperes/onetun)
+[cloudflare/boringtun: Userspace WireGuard® Implementation in Rust](https://github.com/cloudflare/boringtun)
+
+## Tailscale
+
+> free for personal and community on GitHub
+> self-hosting available
+
+[Tailscale · Best VPN Service for Secure Networks](https://tailscale.com/)
+[Tailscale - YouTube](https://www.youtube.com/@Tailscale)
+
+[Docs · Tailscale Docs](https://tailscale.com/docs)
+[Tailscale Funnel · Tailscale Docs](https://tailscale.com/docs/features/tailscale-funnel)
+[Tailscale Serve · Tailscale Docs](https://tailscale.com/docs/features/tailscale-serve)
+[Tailscale: How it works](https://tailscale.com/blog/how-tailscale-works)
+
+[5 things you didn't know you could do with Tailscale | Recorded for PlatformCon NYC 2025 - YouTube](https://www.youtube.com/watch?v=dZs-xPKD2vM)
+
+[Free pricing plans and discounts · Tailscale](https://tailscale.com/kb/1154/free-plans-discounts/)
+
+[Tailnet lock white paper · Tailscale](https://tailscale.com/kb/1230/tailnet-lock-whitepaper/)
+[Tailscale: A Virtual Private Network for Zero Trust Security – The New Stack](https://thenewstack.io/tailscale-a-virtual-private-network-for-zero-trust-security/)
+
+## Tailscale Open Source Alternatives
+
+[[#Nebula]]
+
+[Compare · Tailscale](https://tailscale.com/compare)
+[Tailscale -> FOSS alternatives : r/selfhosted](https://www.reddit.com/r/selfhosted/comments/1rctxgc/tailscale_foss_alternatives/)
 
 ### Pangolin
 
@@ -93,29 +127,35 @@ tags:
 
 [Better Than Cloudflare Tunnels? - Pangolin Guide - YouTube](https://www.youtube.com/watch?v=8VdwOL7nYkY)
 
-## Tailscale
-
-> free for personal and community on GitHub
-> self-hosting available
-
-[Tailscale · Best VPN Service for Secure Networks](https://tailscale.com/)
-[Tailscale - YouTube](https://www.youtube.com/@Tailscale)
-[5 things you didn't know you could do with Tailscale | Recorded for PlatformCon NYC 2025 - YouTube](https://www.youtube.com/watch?v=dZs-xPKD2vM)
-
-[Free pricing plans and discounts · Tailscale](https://tailscale.com/kb/1154/free-plans-discounts/)
-
-[Tailnet lock white paper · Tailscale](https://tailscale.com/kb/1230/tailnet-lock-whitepaper/)
-[Tailscale: A Virtual Private Network for Zero Trust Security – The New Stack](https://thenewstack.io/tailscale-a-virtual-private-network-for-zero-trust-security/)
+### Headscale
 
 [Headscale](https://headscale.net/) compatible with Tailscale client
 [Container - Headscale](https://headscale.net/running-headscale-container/)
+[juanfont/headscale: An open source, self-hosted implementation of the Tailscale control server](https://github.com/juanfont/headscale)
 [gurucomputing/headscale-ui: A web frontend for the headscale Tailscale-compatible coordination server](https://github.com/gurucomputing/headscale-ui)
 [Self Host Tailscale with Headscale - How To Setup - YouTube](https://www.youtube.com/watch?v=OECp6Pj2ihg)
-[JimsGarage/Headscale at main · JamesTurland/JimsGarage · GitHub](https://github.com/JamesTurland/JimsGarage/tree/main/Headscale)
+
+[JimsGarage/Headscale at main · JamesTurland/JimsGarage · GitHub](https://github.com/JamesTurland/JimsGarage/tree/main/Headscale) docker compose
+
+### Netmaker
+
+[Netmaker: Zero Trust Platform for Secure Networking](https://www.netmaker.io/)
+[Getting Started | Netmaker](https://learn.netmaker.io/)
+[gravitl/netmaker: Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.](https://github.com/gravitl/netmaker)
+
+### OpenZiti
+
+[OpenZiti](https://netfoundry.io/docs/openziti/)
+[OpenZiti](https://github.com/openziti) GitHub org
+[NetFoundry Self-Hosted | NetFoundry Documentation](https://netfoundry.io/docs/selfhosted/intro/)
+
+[Home - zrok by NetFoundry](https://zrok.io/)
+[openziti/zrok: Secure internet sharing made simple.](https://github.com/openziti/zrok)
+[Deploy zrok on Docker | NetFoundry Documentation](https://netfoundry.io/docs/zrok/self-hosting/deployment/docker/)
 
 ## fastd
 
-[Welcome to fastd’s documentation! — fastd 23 documentation](https://fastd.readthedocs.io/en/stable/index.html)
+[Welcome to fastd’s documentation! — fastd documentation](https://fastd.readthedocs.io/en/stable/index.html)
 
 ## Cloudflare Worker VPN
 
@@ -163,11 +203,6 @@ NetworkChuck
 [the END of VPNs?! - YouTube](https://www.youtube.com/watch?v=IYmXPF3XUwo)
 [Access ANY Network (remotely) - YouTube](https://www.youtube.com/watch?v=1lZ3FQSv-wI)
 
-## Netbird
-
-[Pricing - NetBird](https://netbird.io/pricing) 5 users, 100 machines
-[netbirdio/netbird: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.](https://github.com/netbirdio/netbird)
-
 ## SoftEther VPN
 
 [SoftEther VPN Project - SoftEther VPN Project](https://www.softether.org/)
@@ -210,14 +245,34 @@ multiple technologies
 
 [zerotier/awesome-zerotier: A collection of things you can do with ZeroTier, how-to guides, and more](https://github.com/zerotier/awesome-zerotier)
 
+## NetBird
+
+> integrated Rosenpass' PQC keyex
+
+[NetBird - Open Source Zero Trust Networking](https://netbird.io/)
+[Self-Hosting Quickstart Guide (5 min) - NetBird Docs](https://docs.netbird.io/selfhosted/selfhosted-quickstart)
+[netbirdio/netbird: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.](https://github.com/netbirdio/netbird)
+
+[Pricing - NetBird](https://netbird.io/pricing) 5 users, 100 machines
+
+[NetBird - YouTube](https://www.youtube.com/@netbirdio)
+[NetBird Explained: Architecture for Simple and Secure Remote Access - YouTube](https://www.youtube.com/watch?v=CFa7SY4Up9k)
+[Cloudflare Mesh vs NetBird vs Tailscale: Performance Compared - YouTube](https://www.youtube.com/watch?v=McCluatv9lw)
+[we added a REVERSE PROXY! - Open Source Cloudflare Alternative - YouTube](https://www.youtube.com/watch?v=edYQOxIQIGM)
+[Self-Hosted VPN: Home Access + Geo-Shifting in One Setup - YouTube](https://www.youtube.com/watch?v=6X-OOB01bDM)
+
+[Netbird: The Easy to Use Open-Source Wireguard Based Overlay VPN That You Can Host Yourself - YouTube](https://www.youtube.com/watch?v=Kwrff6h0rEw)
+
 ## Nebula
 
 [Introducing Nebula, the open source global overlay network from Slack - Slack Engineering](https://slack.engineering/introducing-nebula-the-open-source-global-overlay-network-from-slack/) encrypted mesh network, UDP only, cross providers, security group, testable
+[Introduction to Nebula | Nebula Docs](https://nebula.defined.net/docs/)
+[slackhq/nebula: A scalable overlay networking tool with a focus on performance, simplicity and security](https://github.com/slackhq/nebula)
+[nebula/config.yml at master · slackhq/nebula](https://github.com/slackhq/nebula/blob/master/examples/config.yml) sample config
+
 [Nebula mesh network - an introduction :: TheOrangeOne](https://theorangeone.net/posts/nebula-intro/)
 [Nebula VPN routes between hosts privately, flexibly, and efficiently – Ars Technica](https://arstechnica.com/gadgets/2019/12/nebula-vpn-routes-between-hosts-privately-flexibly-and-efficiently/amp/)
 [How to set up your own Nebula mesh VPN, step by step – Ars Technica](https://arstechnica.com/gadgets/2019/12/how-to-set-up-your-own-nebula-mesh-vpn-step-by-step/amp/)
-[slackhq/nebula: A scalable overlay networking tool with a focus on performance, simplicity and security](https://github.com/slackhq/nebula)
-[nebula/config.yml at master · slackhq/nebula](https://github.com/slackhq/nebula/blob/master/examples/config.yml) sample config
 [Nebula Offline Certificate Management with a Raspberry Pi using Bash – A nice guy's view on life](https://jon.sprig.gs/blog/post/2234)
 [Unsafe routes with Nebula :: Blog :: TheOrangeOne](https://theorangeone.net/posts/nebula-unsafe-routes/)
 

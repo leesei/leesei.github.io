@@ -2,7 +2,7 @@
 title: Data Structures and Algorithms
 description: ""
 created: 2023-04-14
-updated: 2025-12-08
+updated: 2026-04-15
 tags:
   - comp/lang
   - learning
@@ -95,6 +95,7 @@ tags:
 > aka digital tree, prefix tree
 
 [Trie - Wikiwand](https://www.wikiwand.com/en/Trie)
+[Tree vs Trie: Understanding the Differences and Use Cases - DEV Community](https://dev.to/imsushant12/tree-vs-trie-understanding-the-differences-and-use-cases-1430)
 
 [Tries - YouTube](https://www.youtube.com/watch?v=9HqbKLcxQmo) Building a Trie data structure in Go
 

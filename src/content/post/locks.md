@@ -2,13 +2,17 @@
 title: Locks
 description: ""
 created: 2016-12-26
-updated: 2025-01-09
+updated: 2026-05-07
 tags:
   - lock
   - trivia
 ---
 
+[Lock Noob - YouTube](https://www.youtube.com/@LockNoob)
+[Works By Design - YouTube](https://www.youtube.com/@worksbydesign)
 [LockPickingLawyer - YouTube](https://www.youtube.com/@lockpickinglawyer)
+[Artichoke2000 - YouTube](https://www.youtube.com/@ArtichokeTwoThousand)
+
 [Keynote - LockPickingLawyer - YouTube](https://www.youtube.com/watch?v=IH0GXWQDk0Q)
 
 [Lockpicking Guides: Types of Locks and How to Pick them](https://www.lockpickworld.com/pages/lockpicking-guides-types-of-locks-and-how-to-pick-them)
@@ -25,6 +29,9 @@ tags:
 Works by Design
 [[503] Works by Design “Unpickable” Adaptive Pin Lock Picked and Partially Gutted - YouTube](https://www.youtube.com/watch?v=LWaglcRDWo0)
 [Making another pickproof lock (but better) - YouTube](https://www.youtube.com/watch?v=xCg3qNnh59w)
+[Making the most pickproof lock yet - YouTube](https://www.youtube.com/watch?v=-qUu8kIliy8)
+[Defeated! Picking Works By Design’s Unpickable Lock - YouTube](https://www.youtube.com/watch?v=rMi1dIqMwNw)
+[Foiled Again! Second Defeat of Works By Design’s Unpickable NPX Lock - YouTube](https://www.youtube.com/watch?v=R4k6Tpjk5Qw)
 
 Stuff Made Here
 [TWO Unpickable (?) Locks for Lock Picking Lawyer! - YouTube](https://www.youtube.com/watch?v=2A2NY29iQdI)

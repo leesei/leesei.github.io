@@ -2,7 +2,7 @@
 title: Computer Fundamentals
 description: ""
 created: 2023-04-14
-updated: 2025-11-23
+updated: 2026-05-11
 tags:
   - comp/fundamental
   - comp/hardware
@@ -93,6 +93,7 @@ Computerphile
 > [[kernel]]
 
 [What Does It Take to Make a Kernel? | Linux Journal](https://www.linuxjournal.com/content/what-does-it-take-make-kernel-0)
+[Every operating system concept in one video… - YouTube](https://www.youtube.com/watch?v=MtxP2pyCvYA&t=690s)
 
 [How a Single Bit Inside Your Processor Shields Your Operating System's Integrity - YouTube](https://www.youtube.com/watch?v=H4SDPLiUnv4) user mode, kernel mode
 [Why Applications Are Operating-System Specific - YouTube](https://www.youtube.com/watch?v=eP_P4KOjwhs) syscall, ABI

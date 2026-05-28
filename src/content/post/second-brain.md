@@ -2,7 +2,7 @@
 title: Second Brain
 description: ""
 created: 2023-01-13
-updated: 2025-10-10
+updated: 2026-04-27
 tags:
   - learning
 featured: true
@@ -170,6 +170,7 @@ Some thoughts are on general methodology
 [Top 10 Obsidian Plugins I Can't Do Without - YouTube](https://www.youtube.com/watch?v=W7kTtn9empU)
 [Obsidian Gems of the Year 2022: Best Plugins | by Prakash Joshi Pax | Feb, 2023 | Medium](https://beingpax.medium.com/obsidian-gems-of-the-year-2022-best-plugins-ed666dcec4cb)
 [The Must-Have Obsidian plugins | Personal Knowledge Management Journal](https://pkmjournal.com/the-must-have-obsidian-plugins-5a99821b18b2)
+[These 5 Obsidian plugins made my markdown cleaner than I thought possible](https://www.makeuseof.com/obsidian-plugins-cleaner-markdown/)
 
 [blacksmithgu/obsidian-dataview: A high-performance data index and query language over Markdown files, for https://obsidian.md/.](https://github.com/blacksmithgu/obsidian-dataview)
 [How to use the Obsidian Dataview plugin - YouTube](https://www.youtube.com/watch?v=JTObSymEvWA)

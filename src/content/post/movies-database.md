@@ -2,7 +2,7 @@
 title: Movies Database
 description: ""
 created: 2015-08-26
-updated: 2025-12-23
+updated: 2026-05-24
 tags:
   - movies
 ---
@@ -98,9 +98,12 @@ Innovative and personalized recommendation system.
 [經典電影大解密｜Breaks Down - YouTube](https://www.youtube.com/playlist?list=PLiyT3ZJaRwTvS7o7p9DJoIDPCDO1Ph2co)
 [BEHIND THE SCENES & B-ROLL - YouTube](https://www.youtube.com/playlist?list=PLQ7_GA82PpMGBaHHowmE-Ucs__mY7UA5M)
 
+[The Insane VFX of Old Movies - YouTube](https://www.youtube.com/watch?v=TunR4zCQ5Fk)
+
 ### False Perspective
 
 [Is This The GREATEST In-Camera Effect of ALL TIME? - YouTube](https://www.youtube.com/watch?v=MVUuoXAkuUg)
+[I SHRUNK the Greatest In-Camera Effect From Lord of the Rings! - YouTube](https://www.youtube.com/watch?v=fERSX9oV0kE) as diorama
 
 Traditional False Perspective shots are nodally locked  
 LotR is the first one to introduce camera movement by creating parallax effect

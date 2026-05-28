@@ -2,7 +2,7 @@
 title: Automobile
 description: ""
 created: 2020-05-27
-updated: 2026-02-25
+updated: 2026-05-26
 tags:
   - transportation
 ---
@@ -104,7 +104,6 @@ Powersliding after the apex
 [11磅小老虎 - YouTube](https://www.youtube.com/@11bang)
 [Aging Wheels - YouTube](https://www.youtube.com/@agingwheels) old cars, funny projects
 [Big Car - YouTube](https://www.youtube.com/@BigCar2)
-[Donut Media - YouTube](https://www.youtube.com/@Donut)
 [Doug DeMuro - YouTube](https://www.youtube.com/@DougDeMuro) exotic cars review
 [ISSIMI Official - YouTube](https://www.youtube.com/@ISSIMIOfficial) cars reviews
 [Jay Leno's Garage - YouTube](https://www.youtube.com/@jaylenosgarag)
@@ -114,6 +113,15 @@ Powersliding after the apex
 [TalksWithNoise - YouTube](https://www.youtube.com/@TalksWithNoise)
 [Zip Tie Tuning - YouTube](https://www.youtube.com/@ZipTieTuning)
 [小施汽車生活頻道 - YouTube](https://www.youtube.com/@sscarlife) 2nd hand cars dealer
+
+[Donut Media - YouTube](https://www.youtube.com/@Donut) bought out by private equity
+[Science Garage - Cars Down to the Atom - YouTube](https://www.youtube.com/playlist?list=PLFl907chpCa7R39l29VY5DygA8RgBQZBf)
+["Up To Speed" - Everything You Need to Know About Every Car - YouTube](https://www.youtube.com/playlist?list=PLFl907chpCa6jrRxyMZOnIrC7UE5e1FI3)
+[The Evolution Series - YouTube](https://www.youtube.com/playlist?list=PLFl907chpCa5U6EK4Q6aQhpM5qFgxy2Yc)
+[WHEELHOUSE - Answering All the Questions You Never Thought to Ask - YouTube](https://www.youtube.com/playlist?list=PLFl907chpCa5DYVuU6KDMQ_O3F3AJpjzC)
+Former Donut hosts
+[BigTime - YouTube](https://www.youtube.com/@bigtimebigtimebigtime)
+[Speeed - YouTube](https://www.youtube.com/@SpeeedCo)
 
 [Automobile Engineering - YouTube](https://www.youtube.com/playlist?list=PLuUdFsbOK_8rJsh_osoqVKfIRUkb8-rOg)
 [Automotive Engineering - YouTube](https://www.youtube.com/playlist?list=PLpw4kOpfNU9bTCpLAf2mM-SpjpcKpnnPu)
@@ -156,6 +164,8 @@ Powersliding after the apex
 [SHELBY - Everything You Need to Know | Up to Speed - YouTube](https://www.youtube.com/watch?v=oxN9MOYc7LY)
 Great racer, designed the Shelby Cobra with British AC Cars with Ford Engine; then hired by Ford for design of GT and by Chrysler for Dodge Viper
 [KEN MILES - Everything You Need to Know | Up to Speed - YouTube](https://www.youtube.com/watch?v=aE0gq9KxHOw)
+
+[🚗 BYD : The biggest SCAM of the car industry ? - YouTube](https://www.youtube.com/watch?v=tS_fJJxMjn4)
 
 [Who ACTUALLY Made Your Car? | WheelHouse - YouTube](https://www.youtube.com/watch?v=pBs9bpIFNgg&feature=emb_rel_pause)
 [Volkswagen Group - Wikiwand](https://www.wikiwand.com/en/Volkswagen_Group#/Operations)
@@ -218,16 +228,20 @@ Hybrid Electric Vehicle (HEV) 油電混動: 非插電式混動
 [#驱动技术](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=2402216471663116289)
 
 - Serial 串聯/增程式
+  Engine is used for the generator only
 - Parallel 並聯
+  Engine contributes to the drivetrain
 - Serial+Parallel 串並聯
 - Power Split 功率分配
   like 串並聯 but with planetary gears
+  See [Nobody understands the point of hybrid cars - YouTube](https://www.youtube.com/watch?v=KnUFH5GX_fI)
 
 Engineering Explained
 [Electric and Hybrid Cars - YouTube](https://www.youtube.com/playlist?list=PL2ir4svMoaYj48N0VWoic25P9LaU2wlbA)
 
 Technology Connections
 [Electric Vehicles - YouTube](https://www.youtube.com/playlist?list=PLv0jwu7G_DFV47UBHArs6fiwVHvstp9ja)
+[Nobody understands the point of hybrid cars - YouTube](https://www.youtube.com/watch?v=KnUFH5GX_fI)
 
 ## Vehicle Autonomy
 
@@ -322,7 +336,8 @@ Scalable Open Architecture for Embedded Edge
 
 ### CAN bus
 
-[CAN bus - Wikiwand](https://www.wikiwand.com/en/CAN_bus) ISO 11898-1 AND ISO 11898-2
+[CAN bus - Wikiwand](https://www.wikiwand.com/en/CAN_bus) ISO 11898-1 and ISO 11898-2 (hardware), ISO 15765-2 (protocol)
+[ISO 15765-2 - Wikiwand](https://www.wikiwand.com/en/ISO_15765-2)
 [CAN Bus Explained - A Simple Intro [2023] – CSS Electronics](https://www.csselectronics.com/pages/can-bus-simple-intro-tutorial)
 [CAN Bus Protocol: The Ultimate Guide (2023)](https://www.autopi.io/blog/can-bus-explained/)
 [The CAN Bus Protocol - Kvaser](https://www.kvaser.com/about-can/the-can-protocol/)

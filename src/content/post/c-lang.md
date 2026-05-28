@@ -2,7 +2,7 @@
 title: C and C++
 description: ""
 created: 2023-09-29
-updated: 2025-10-10
+updated: 2026-05-02
 tags:
   - c
   - comp/lang
@@ -254,8 +254,9 @@ len_t len = strnlen_s(nullprt, RSIZE_MAX);
 [google/tcmalloc](https://github.com/google/tcmalloc)
 [gperftools/gperftools: Main gperftools repository](https://github.com/gperftools/gperftools)
 
+[oneAPI Threading Building Blocks (oneTBB) — oneTBB documentation](https://uxlfoundation.github.io/oneTBB/index.html)
+[uxlfoundation/oneTBB: oneAPI Threading Building Blocks (oneTBB)](https://github.com/uxlfoundation/oneTBB)
 [​Intel® Threading Building Blocks](https://software.intel.com/content/www/us/en/develop/tools/threading-building-blocks.html)
-[oneapi-src/oneTBB: Official Threading Building Blocks (TBB) GitHub repository. For Commercial Intel® TBB distribution, please click here: https://software.intel.com/en-us/tbb](https://github.com/oneapi-src/oneTBB)
 
 ## Embedded languages
 

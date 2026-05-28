@@ -2,7 +2,7 @@
 title: Regular expression
 description: ""
 created: 2015-02-26
-updated: 2025-11-24
+updated: 2026-03-25
 tags:
   - comp/lang
   - formal-language
@@ -87,7 +87,7 @@ These highlight matches in input test string.
 ## POSIX ERE
 
 [Tech Stuff - Regular Expressions - A Gentle User Guide and Tutorial](http://zytrax.com/tech/web/regex.htm)
-[Regular expression - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Regular_expression#Standards)
+[Regular expression - Wikiwand](https://www.wikiwand.com/en/Regular_expression)
 [The conditional expression [Bash Hackers Wiki]](http://wiki.bash-hackers.org/syntax/ccmd/conditional_expression)
 [Patterns and pattern matching [Bash Hackers Wiki]](http://wiki.bash-hackers.org/syntax/pattern)
 

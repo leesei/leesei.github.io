@@ -2,7 +2,7 @@
 title: Fonts
 description: ""
 created: 2016-04-23
-updated: 2025-12-16
+updated: 2026-03-18
 tags:
   - comp
   - comp/lang
@@ -125,6 +125,9 @@ baseline, descenders (`j`, `p`), line height, kerning
 
 [漢字標準列表 - Wikiwand](https://www.wikiwand.com/zh/%E6%BC%A2%E5%AD%97%E6%A8%99%E6%BA%96%E5%88%97%E8%A1%A8)
 中港台漢字字符有各自標準
+
+[首頁 - 全字庫 CNS11643 (2024)](https://www.cns11643.gov.tw/)
+[說文解字 True Type 字型 - 全字庫 CNS11643 (2024)](https://www.cns11643.gov.tw/downloadList.jsp?ID=2&ID2=20)
 
 [新字形](https://www.wikiwand.com/zh/%E6%96%B0%E5%AD%97%E5%BD%A2) 為按照[印刷通用漢字字形表](https://www.wikiwand.com/zh/%E5%8D%B0%E5%88%B7%E9%80%9A%E7%94%A8%E6%B1%89%E5%AD%97%E5%AD%97%E5%BD%A2%E8%A1%A8)規範的字體
 [舊字形 - Wikiwand](https://www.wikiwand.com/zh/%E8%88%8A%E5%AD%97%E5%BD%A2)

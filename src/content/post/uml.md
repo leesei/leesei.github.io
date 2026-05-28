@@ -2,7 +2,7 @@
 title: UML
 description: ""
 created: 2015-04-14
-updated: 2026-03-03
+updated: 2026-03-25
 tags:
   - comp/lang
   - uml
@@ -25,7 +25,7 @@ tags:
 
 [UML class diagrams in draw.io - draw.io](https://drawio-app.com/uml-class-diagrams-in-draw-io/)
 
-[Business Process Model and Notation (BPMN)](http://en.wikipedia.org/wiki/Business_Process_Model_and_Notation) is very similar to activity diagram
+[Business Process Model and Notation (BPMN)](https://www.wikiwand.com/en/Business_Process_Model_and_Notation) is very similar to activity diagram
 [Web-based tooling for BPMN, DMN, CMMN, and Forms | bpmn.io](https://bpmn.io/)
 
 [[learn-to-code#Architecture Design]]

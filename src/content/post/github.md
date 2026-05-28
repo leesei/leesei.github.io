@@ -2,7 +2,7 @@
 title: GitHub
 description: ""
 created: 2014-12-11
-updated: 2026-02-02
+updated: 2026-05-22
 tags:
   - app
   - git
@@ -146,7 +146,6 @@ rm -rf node_modules/gh-pages/.cache
 [How GitHub Copilot is getting better at understanding your code - The GitHub Blog](https://github.blog/2023-05-17-how-github-copilot-is-getting-better-at-understanding-your-code/)
 [Inside GitHub: Working with the LLMs behind GitHub Copilot - The GitHub Blog](https://github.blog/2023-05-17-inside-github-working-with-the-llms-behind-github-copilot/)
 [Quickstart for GitHub Copilot - GitHub Docs](https://docs.github.com/en/copilot/quickstart)
-[Request a discount - GitHub Education](https://education.github.com/discount_requests/application) free for teachers and students
 
 [GitHub Copilot concepts: An overview of all services and tools – 4sysops](https://4sysops.com/archives/github-copilot-concepts-an-overview-of-all-services-and-tools/)
 
@@ -162,13 +161,11 @@ rm -rf node_modules/gh-pages/.cache
 [What are VS Code chat participants, chat variables, and slash commands for GitHub Copilot? – 4sysops](https://4sysops.com/archives/what-are-vs-code-chat-participants-chat-variables-and-slash-commands-for-github-copilot/)
 [Install Microsoft Playwright MCP server in VS Code for AI-powered-browser automation in GitHub Copilot Agent Mode – 4sysops](https://4sysops.com/archives/install-microsoft-playwright-mcp-server-in-vs-code-for-ai-powered-browser-automation-in-github-copilot-agent-mode/)
 [New GitHub Copilot features in VS Code: custom chat modes, chat tool sets, undoing edits, and Simple Browser – 4sysops](https://4sysops.com/archives/new-github-copilot-features-in-vs-code-custom-chat-modes-chat-tool-sets-undoing-edits-and-simple-browser/)
+[Improve code generation with custom instructions for GitHub Copilot – John Lokerse | Azure & DevOps Engineering](https://johnlokerse.dev/2024/11/11/improve-code-generation-with-custom-instruction-for-github-copilot/)
 
 [Get Started with the Future of Coding: GitHub Copilot - YouTube](https://www.youtube.com/watch?v=Fi3AJZZregI)
 [CoPilot Review: My Thoughts After 6 Months - YouTube](https://www.youtube.com/watch?v=RDd71IUIgpg)
 [GitHub Copilot Just Changed the Game - YouTube](https://www.youtube.com/watch?v=IavOJI5OV7g)
-
-[Introducing Copilot for VS Code – AngularDoc – Medium](https://medium.com/angulardoc/introducing-copilot-for-vs-code-c1b1a16bdd21)
-[前端工程师的必备 VS Code 插件 -- Copilot - 知乎](https://zhuanlan.zhihu.com/p/62929504)
 
 [GitHub Copilot CLI: AI for the Command-Line - YouTube](https://www.youtube.com/watch?v=pw0SH7AHIFI)
 
@@ -230,6 +227,7 @@ Put YAML in `.github/workflows/`
 [Building Your First GitHub Action | Azure DevOps Blog](https://devblogs.microsoft.com/devops/building-your-first-github-action/)
 [GitHub Actions Documentation - GitHub Docs](https://docs.github.com/en/free-pro-team@latest/actions)
 [Workflow syntax for GitHub Actions - GitHub Docs](https://docs.github.com/en/free-pro-team@latest/actions/reference/workflow-syntax-for-github-actions)
+[How to Set Up GitHub Actions for Continuous Integration - DEV Community](https://dev.to/angelotheman/how-to-set-up-github-actions-for-continuous-integration-2054)
 
 [Deploying Self-Hosted GitHub Actions Runners with Docker | TestDriven.io](https://testdriven.io/blog/github-actions-docker/)
 [Deploying Self-Hosted GitLab CI Runners with Docker | TestDriven.io](https://testdriven.io/blog/gitlab-ci-docker/)

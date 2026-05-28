@@ -2,7 +2,7 @@
 title: PowerShell
 description: ""
 created: 2023-05-19
-updated: 2025-10-10
+updated: 2026-05-05
 tags:
   - comp/lang
   - powershell
@@ -52,8 +52,6 @@ Use "`" to escape ";" (like "\" in Linux)
 
 [lextm/windowsterminal-shell: Install/uninstall scripts for Windows Terminal context menu items](https://github.com/lextm/windowsterminal-shell)
 [Hosting PowerShell in a Python script - PowerShell Team](https://devblogs.microsoft.com/powershell/hosting-powershell-in-a-python-script/)
-
-[How to Debug a PowerShell Script – CloudSavvy IT](https://www.cloudsavvyit.com/8712/how-to-debug-a-powershell-script/)
 
 ## Profile
 
@@ -126,10 +124,44 @@ Persist Environment Variables
 | `cat`                            | `Get-Content`/`type`                            |
 | `man`                            | `Get-Help`/`help`                               |
 
+### `robocopy`
+
+> `rsync` equivalent (for local files)
+
+```powershell
+robocopy "D:\Files" "E:\Backup" /E /Z
+
+# /E — this copies all subdirectories, including empty ones
+# /Z — this enables a restartable mode to resume interrupted transfers
+# /MIR — this switch mirrors the source to the destination, including deletion of files at the destination that no longer exist at the source
+# /L — this is like a dry run, testing the copy operation safely before committing
+```
+
+### `taskkill`
+
+> `kill` equivalent
+
+```powershell
+taskkill /IM chrome.exe /F /T
+
+# /F — forces termination
+# /IM — specifies the process by image name (e.g., chrome.exe)
+# /T — terminates the entire process tree, including child processes
+# /PID — alternative to /IM if you know the process ID from tasklist
+```
+
 ## Modules
 
 [PowerShell Gallery | Home](https://www.powershellgallery.com/)
 [I installed these PowerShell modules and they changed how I work](https://www.makeuseof.com/powershell-modules-that-changed-how-i-work/)
+
+## Debugging
+
+[How to Debug a PowerShell Script](https://www.howtogeek.com/devops/how-to-debug-a-powershell-script/)
+[How to successfully debug PowerShell scripts | TechTarget](https://www.techtarget.com/searchitoperations/tutorial/How-to-successfully-debug-PowerShell-scripts)
+
+[PowerShell Command Line Debugging - YouTube](https://www.youtube.com/watch?v=TCs8KmyZCgs)
+[Debugging PowerShell Scripts in Visual Studio Code - YouTube](https://www.youtube.com/watch?v=K2Rl5GxAzv4)
 
 ## `CmdletBinding`
 

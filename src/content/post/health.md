@@ -2,7 +2,7 @@
 title: Health
 description: ""
 created: 2015-12-11
-updated: 2026-02-12
+updated: 2026-03-28
 tags:
   - science
 ---
@@ -200,3 +200,5 @@ Traditional vaccine will have left over egg protein or methanol which may cause 
 [癌症有疫苗了!? 莫德納、BNT等大廠重大突破，mRNA疫苗真的能攻克癌症？ ft.癌症問康健 - YouTube](https://www.youtube.com/watch?v=A-QvDbb1C9c)
 [以毒攻毒！抗癌的未來寄託在「細菌」上？細菌為什麼能消滅癌細胞？ feat.【研之有物】 - YouTube](https://www.youtube.com/watch?v=ZE6ClkPlXrI)
 [對腫瘤最終兵器！癌症療法新選擇，基改溶瘤病毒為何備受期待？ - YouTube](https://www.youtube.com/watch?v=gQZQ_kBVuTw) oncolytic virotherapy
+
+[AI用半張A4紙治愈癌症？揭秘「程序員救狗」神話背後，真正的AI生化黑科技......|總裁聊聊 - YouTube](https://www.youtube.com/watch?v=OiAfafESZmA)

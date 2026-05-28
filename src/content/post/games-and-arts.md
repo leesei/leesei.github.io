@@ -2,7 +2,7 @@
 title: Games and Arts
 description: ""
 created: 2015-08-01
-updated: 2025-10-10
+updated: 2026-04-24
 tags:
   - games
 ---
@@ -61,6 +61,7 @@ And [Stanley Parable](http://store.steampowered.com/app/221910/), which a narrat
 [Pixel Overload - YouTube](https://www.youtube.com/@PixelOverloadChannel)
 [Pixel Pete (Peter Milko) - YouTube](https://www.youtube.com/@PeterMilko)
 [10 most common pixelart mistakes by beginners - YouTube](https://www.youtube.com/watch?v=R44hZgtqMI8)
+[Pixel Art Class - YouTube](https://www.youtube.com/playlist?list=PLLdxW--S_0h4dlWUpl-TzBp-ulqK3NiM_) AdamCYounis
 
 [So you wanna make pixel art - General guide for ART 464 - YouTube](https://www.youtube.com/watch?v=wdz2IIuTBbs) Paint.NET
 

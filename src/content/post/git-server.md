@@ -2,7 +2,7 @@
 title: Git server
 description: ""
 created: 2016-03-04
-updated: 2025-12-17
+updated: 2026-05-20
 tags:
   - app
   - git
@@ -25,12 +25,14 @@ Git server:
 ## Sharing port 22
 
 Sharing port 22 with containerized git server
-
-[Share port 22 between Gogs inside Docker & the local system](https://web.archive.org/web/20250502034418/https://www.ateijelo.com/blog/2016/07/09/share-port-22-between-docker-gogs-ssh-and-local-system)
-
-[ssh forward git user - Google Search](https://www.google.com/search?newwindow=1&sxsrf=ALeKk02aCapVMBcZwftsFRJFrYPUh5Y4Kg%3A1592008090725&ei=mh3kXv7mK9vXhwOLh5rwBQ&q=ssh+forward+git+user&oq=forward+git+ssh+&gs_lcp=CgZwc3ktYWIQAxgDMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BAgjECc6BAgAEEM6BQgAEJECOgcIABCDARBDOgcIABCxAxBDOgUIABCxAzoCCAA6BwgjEOoCECc6BQgAEMsBUPmLCVivtQlgotUJaAFwAHgAgAFwiAHCCpIBBDE4LjGYAQCgAQGqAQdnd3Mtd2l6sAEK&sclient=psy-ab)
-
 `Match User` block with `ForceCommand` in `/etc/ssh/sshd_config`
+
+```
+Match User git
+    ForceCommand ssh -W %h:%p internal-git-server
+```
+
+[Share port 22 between Gogs inside Docker & the local system](https://web.archive.org/web/20250502034418/https://www.ateijelo.com/blog/2016/07/09/share-port-22-between-docker-gogs-ssh-and-local-system) actual git user with gitserver's `.ssh` symlinked
 [How to SSH gate forwarding git user to gitserver? - Server Fault](https://serverfault.com/questions/437952/how-to-ssh-gate-forwarding-git-user-to-gitserver)
 [ssh - Have sshd forward logins of git user to a (GitLab) Docker container - Stack Overflow](https://stackoverflow.com/questions/33042817/have-sshd-forward-logins-of-git-user-to-a-gitlab-docker-container)
 [ssh - Forward git user's login name to (gitlab) docker container with sshd](https://try2explore.com/questions/12062988)
@@ -53,6 +55,8 @@ ssh -v git@127.0.0.1:10022 git-receive-pack <path-to-git-repository>
 
 [vanilla git/ssh](https://stackoverflow.com/questions/10888300/gitosis-vs-gitolite)
 [Howto: Git Server over SSH - SysTutorials](https://www.systutorials.com/set-up-git-server-through-ssh-connection/)
+
+[charmbracelet/soft-serve: The mighty, self-hostable Git server for the command line🍦](https://github.com/charmbracelet/soft-serve)
 
 ## GitLab
 
@@ -116,11 +120,17 @@ Gitea is a [fork of Gogs](https://blog.gitea.io/welcome-to-gitea/) in 2016-11 th
 > fork of Gitea v1.22
 
 [Forgejo – Beyond coding. We forge.](https://forgejo.org/) OAuth2, CI/CD, LFS, Container Registry, Lightweight
-[Forgejo v13.0 documentation | Forgejo – Beyond coding. We forge.](https://forgejo.org/docs/latest/)
+[Forgejo documentation | Forgejo – Beyond coding. We forge.](https://forgejo.org/docs/latest/)
+[Forgejo Administrator Guide | Forgejo – Beyond coding. We forge.](https://forgejo.org/docs/latest/admin/)
 
 Forgejo is a [fork of Gitea](https://gitea-open-letter.coding.social/) in 2022-10
-
 [Comparison with other Forges | Forgejo – Beyond coding. We forge.](https://forgejo.org/compare/)
+
+Every 4 version (4n-1) us an LTS with 1 year support
+[Release schedule | Forgejo – Beyond coding. We forge.](https://forgejo.org/docs/latest/admin/release-schedule/)
+
+[Configuration Cheat Sheet | Forgejo – Beyond coding. We forge.](https://forgejo.org/docs/latest/admin/config-cheat-sheet/)
+[How To: Setup and configure Forgejo with support for Forgejo Actions and more!](https://nickcunningh.am/blog/how-to-setup-and-configure-forgejo-with-support-for-forgejo-actions-and-more)
 
 [Codeberg.org](https://codeberg.org/) hosted version
 

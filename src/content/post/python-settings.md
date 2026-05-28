@@ -2,7 +2,7 @@
 title: Python settings
 description: ""
 created: 2014-12-11
-updated: 2026-01-19
+updated: 2026-05-02
 tags:
   - comp/lang
   - package-manager
@@ -76,6 +76,7 @@ uv python install 3.10 3.11 3.12
 uv init <project> # creates `pyproject.toml`
 uv add <deps>
 uv sync
+uv lock --upgrade
 
 uv venv --python 3.12.0
 uv python pin 3.11 # writes `.python-version`
@@ -828,6 +829,7 @@ print({section: dict(config[section]) for section in config.sections()})
 [python-cmd2/cmd2: cmd2 - quickly build feature-rich and user-friendly interactive command line applications in Python](https://github.com/python-cmd2/cmd2)
 
 [Textualize/textual: The lean application framework for Python. Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.](https://github.com/Textualize/textual) CLI and GUI
+[Python Textual: Build Beautiful UIs in the Terminal – Real Python](https://realpython.com/python-textual/)
 
 [Introducing Textual](https://www.willmcgugan.com/blog/tech/post/textual-progress/) uses Rich internally
 [Building Rich terminal dashboards](https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/)

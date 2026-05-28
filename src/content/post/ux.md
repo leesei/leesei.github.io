@@ -2,7 +2,7 @@
 title: User Experience (UX)
 description: ""
 created: 2015-06-25
-updated: 2025-10-10
+updated: 2026-04-07
 tags:
   - ui
   - ux
@@ -131,6 +131,7 @@ Most Advanced. Yet Acceptable.
 [Laws of UX, Every Designer Should Know About. | by UI Blogger | UX Planet](https://uxplanet.org/laws-of-ux-every-designer-should-know-about-9cf25176d183)
 [Laws of UX, Every Designer Should Know About (Part II) | by UI Blogger | Dec, 2021 | UX Planet](https://uxplanet.org/laws-of-ux-part-ii-ed6e89778152)
 
+[Penpot UI Design Course](https://penpot.app/courses/)`
 [Design Principles – A List of the Principles of Design](https://www.freecodecamp.org/news/design-principles-a-list-of-the-principles-of-design/)
 
 [UX Laws 101: Jakob’s Law of familiarity - UX Collective](https://uxdesign.cc/ux-laws-101-jakobs-law-962d18f4cc26)
@@ -203,12 +204,14 @@ Most Advanced. Yet Acceptable.
 [Object-Oriented UX · An A List Apart Article](http://alistapart.com/article/object-oriented-ux)
 [OOUX: A Foundation for Interaction Design · An A List Apart Article](http://alistapart.com/article/ooux-a-foundation-for-interaction-design)
 
-## Errors
+## Errors/Loading
 
 [Error Screens and Messages: UX Design Practices](https://blog.tubikstudio.com/error-screens-and-messages/)
 [Best Practices on Preventing Errors in User Interfaces](https://blog.tubikstudio.com/preventing-errors-in-user-interfaces/)
 
-[andrico1234/sane-error-messages: Gone are the days of useless generic error messaging. Keep your end-users happy with `sane-error-messages`.](https://github.com/andrico1234/sane-error-messages#readme)
+[andrico1234/sane-error-messages: Gone are the days of useless generic error messaging. Keep your end-users happy with `sane-error-messages`.](https://github.com/andrico1234/sane-error-messages)
+
+[The Ridiculous Engineering of Loading Screens - YouTube](https://www.youtube.com/watch?v=XqhduyTnEM8)
 
 ## App Shell/Skeleton Screens
 

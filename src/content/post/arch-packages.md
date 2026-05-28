@@ -2,7 +2,7 @@
 title: Arch Post Install
 description: ""
 created: 2021-01-08
-updated: 2026-01-17
+updated: 2026-05-13
 tags:
   - arch-linux
   - desktop
@@ -42,7 +42,9 @@ See [pigmonkey/spark: Arch Linux Provisioning with Ansible](https://github.com/p
 ```sh
 # priority packages
 # console tools
-yay -S --needed --noconfirm eza fish guake kitty ttf-firacode-nerd noto-fonts-cjk noto-fonts-emoji sshfs starship tmux tree neovim vim xsel yq
+yay -S --needed --noconfirm eza fish ttf-firacode-nerd noto-fonts-cjk noto-fonts-emoji sshfs starship tree neovim vim xsel
+# terminal emulators
+yay -S --needed --noconfirm guake kitty ghostty tmux wezterm
 yay -S --needed --noconfirm colordiff diff-so-fancy fpp hadolint jshon plocate shellcheck-bin zoxide
 # new way to rebind mouse/keyboard keys (rather than using X11 conf)
 yay -S --needed --noconfirm sxhkd xautomation xev xdo xdotool
@@ -366,7 +368,7 @@ pacman -Syyu
 
 ## IME
 
-[黑眼珠 2: GNOME3： 選擇您的輸入法(openSUSE 13.1)](http://swyear.blogspot.hk/2013/12/gnome3-opensuse-131.html)
+[黑眼珠2: GNOME3： 選擇您的輸入法(openSUSE 13.1)](https://swyear.blogspot.com/2013/12/gnome3-opensuse-131.html)
 
 ### fcitx
 
@@ -528,10 +530,19 @@ STEAM_RUNTIME=0 steam
 sudo systemctl enable --now teamviewerd
 ```
 
-## mlocate
+## file search
 
 ```sh
+# mlocate
 sudo updatedb
+
+locate <PATTERN>
+```
+
+[Commandline reference - LocalSearch](https://gnome.pages.gitlab.gnome.org/localsearch/commandline.html#localsearch-search)
+
+```sh
+localsearch search <PATTERN>
 ```
 
 ## add user to group
@@ -545,6 +556,6 @@ sudo usermod -a -G wireshark $USER
 sudo usermod -a -G http $USER
 chgrp -R http /www/public/
 
-# for /dev/tty*
+# for /dev/tty* (USB serial)
 sudo usermod -a -G uucp $USER
 ```

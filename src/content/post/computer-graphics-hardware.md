@@ -2,7 +2,7 @@
 title: Computer Graphics (Hardware)
 description: Computer Graphics on the hardware side
 created: 2016-10-18
-updated: 2025-10-10
+updated: 2026-03-13
 tags:
   - comp/hardware
   - graphics/hardware

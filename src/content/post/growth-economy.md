@@ -2,7 +2,7 @@
 title: Growth Economy
 description: ""
 created: 2016-04-17
-updated: 2025-10-10
+updated: 2026-05-03
 tags:
   - economics
 ---
@@ -67,6 +67,12 @@ trolley problem, reaction vs decision
 
 [機器人會搶走我的工作嗎？物理學家霍金點出「另一個問題，你才該害怕」](https://tw.news.yahoo.com/%E6%A9%9F%E5%99%A8%E4%BA%BA%E6%9C%83%E6%90%B6%E8%B5%B0%E6%88%91%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%97%8E%EF%BC%9F%E7%89%A9%E7%90%86%E5%AD%B8%E5%AE%B6%E9%9C%8D%E9%87%91%E9%BB%9E%E5%87%BA%E3%80%8C%E5%8F%A6%E4%B8%80%E5%80%8B%E5%95%8F%E9%A1%8C%EF%BC%8C%E4%BD%A0%E6%89%8D%E8%A9%B2%E5%AE%B3%E6%80%95%E3%80%8D-230007826.html)
 [AWS CEO says AI replacing junior staff is 'dumbest idea' • The Register](https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/)
+[【漫士】AI时代，我们真的会失业吗？怎么办？ - YouTube](https://www.youtube.com/watch?v=vOIkUSYfUMo)
+
+[THE 2028 GLOBAL INTELLIGENCE CRISIS](https://www.citriniresearch.com/p/2028gic) a novel set in 2028 reflecting the AI boom
+[AI时代，如何求生？解读《2028年全球智能危机》 - YouTube](https://www.youtube.com/watch?v=HBu9SdDLO_U)
+[视频日记试运行 Day 5 - YouTube](https://www.youtube.com/watch?v=6UZvqioKrWA)
+[视频日记 Day16 ｜未来人类只分为“创造者”和“旁观者” - YouTube](https://www.youtube.com/watch?v=zrglSbgKhwM)
 
 ### Books
 

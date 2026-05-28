@@ -2,7 +2,7 @@
 title: Hong Kong Places
 description: ""
 created: 2015-05-25
-updated: 2026-01-29
+updated: 2026-05-13
 tags:
   - trivia
 ---
@@ -131,3 +131,7 @@ tags:
 
 [香港餐廳指南 – 飲食資訊 | OpenRice 香港開飯喇](http://www.openrice.com/zh/hongkong)
 [KC 賞味隨筆](http://gourmetkc.blogspot.hk/)
+
+[港媽救星！工人姐姐煮飯神器App登場！100+家常菜食譜中英印菲語對照 網民讚：救無數家庭 | ezone](https://ezone.hk/article/20096701/%E6%B8%AF%E5%AA%BD%E6%95%91%E6%98%9F-%E5%B7%A5%E4%BA%BA%E5%A7%90%E5%A7%90-%E7%85%AE%E9%A3%AF%E7%A5%9E%E5%99%A8-app-%E7%99%BB%E5%A0%B4-%E5%85%A7%E7%BD%AE-%E5%AE%B6%E5%B8%B8%E8%8F%9C%E9%A3%9F%E8%AD%9C-%E4%B8%AD%E8%8B%B1%E5%8D%B0%E8%8F%B2%E8%AA%9E%E5%B0%8D%E7%85%A7-%E7%B6%B2%E6%B0%91%E5%A4%A7%E8%AE%9A-%E6%8B%AF%E6%95%91%E7%84%A1%E6%95%B8%E5%AE%B6%E5%BA%AD)
+[《鑊氣》App - App Store](https://apps.apple.com/hk/app/%E9%91%8A%E6%B0%A3/id6766081667)
+[好多謝大家既支持, "鑊氣"今日已經衝到上飲食類第1位, 免費App總排行第8位 前7位全部都係D公司account整既 app. 我地兩夫妻作為獨立小薯developer衝到上第8已經覺得係不可能的任務. 請大家記得follow我,因為我呢個小薯好易比演算法沖走🤣 Android 版本close beta正式推出 因為我地只係individual developer而唔係公司 所以google對我地既限制比較大, 係正式上架前需要過一系列既beta test 但係大家可以透過以下步驟搶先下載Android版 1.加入以下google群組:https://groups.google.com/g/wokmate 2.用以下連結加入成為tester: https://play.google.com/apps/testing/com.wokmate.app 3.用以下連結下載"鑊氣":https://play.google.com/store/apps/details?id=com.wokmate.app Android版仲係"搶先測試"階段, 如果有任何bug, 歡迎話比我地知](https://www.threads.com/@singlovehk/post/DYI6PSgknIK/%E5%A5%BD%E5%A4%9A%E8%AC%9D%E5%A4%A7%E5%AE%B6%E6%97%A2%E6%94%AF%E6%8C%81-%E9%91%8A%E6%B0%A3%E4%BB%8A%E6%97%A5%E5%B7%B2%E7%B6%93%E8%A1%9D%E5%88%B0%E4%B8%8A%E9%A3%B2%E9%A3%9F%E9%A1%9E%E7%AC%AC1%E4%BD%8D-%E5%85%8D%E8%B2%BBapp%E7%B8%BD%E6%8E%92%E8%A1%8C%E7%AC%AC8%E4%BD%8D%E5%89%8D7%E4%BD%8D%E5%85%A8%E9%83%A8%E9%83%BD%E4%BF%82d%E5%85%AC%E5%8F%B8account%E6%95%B4%E6%97%A2-app-%E6%88%91%E5%9C%B0%E5%85%A9%E5%A4%AB%E5%A6%BB%E4%BD%9C%E7%82%BA%E7%8D%A8%E7%AB%8B%E5%B0%8F%E8%96%AFdeveloper)

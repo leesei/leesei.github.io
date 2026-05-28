@@ -2,7 +2,7 @@
 title: Gundam
 description: ""
 created: 2020-11-04
-updated: 2025-01-09
+updated: 2026-05-05
 tags:
   - anime
   - gundam
@@ -22,7 +22,7 @@ tags:
 [【不止模型】5 分鐘明白鋼彈前哨站沒有動畫的原因&萬代、創通與日昇的錯綜關係 - YouTube](https://www.youtube.com/watch?v=fj2tJv-O7HU)
 
 [anime hobby land - YouTube](https://www.youtube.com/@animehobbyland)
-[小Ken - YouTube](https://www.youtube.com/user/adsl2x/videos)
+[小Ken - YouTube](https://www.youtube.com/@Little_Ken)
 [量產型男 - YouTube](https://www.youtube.com/@Mass-Production-Type-Man)
 [old p is price - YouTube](https://www.youtube.com/@LaoPJiuShiPROCE)
 [CM收藏夾 - YouTube](https://www.youtube.com/@cmexe)

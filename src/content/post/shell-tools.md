@@ -2,7 +2,7 @@
 title: Shell Tools
 description: ""
 created: 2015-01-14
-updated: 2025-10-10
+updated: 2026-05-13
 tags:
   - app
   - cpio
@@ -667,7 +667,8 @@ fortune | cowsay -f stegosaurus
 [jq play](https://jqplay.org/)
 
 [itchyny/gojq: Pure Go implementation of jq](https://github.com/itchyny/gojq)
-[noahgorstein/jqp: A TUI playground to experiment with jq](https://github.com/noahgorstein/jqp)
+[noahgorstein/jqp: A TUI playground to experiment with jq](https://github.com/noahgorstein/jqp) Bullbletea TUI for `jq`, inspired by `jqq`
+[jcsalterego/jqq: jq Querier: an interactive wrapper around jq](https://github.com/jcsalterego/jqq)
 
 [jq/builtin.jq at master · stedolan/jq](https://github.com/stedolan/jq/blob/master/src/builtin.jq)
 [FAQ · stedolan/jq Wiki](https://github.com/stedolan/jq/wiki/FAQ#numbers)
@@ -690,6 +691,8 @@ fortune | cowsay -f stegosaurus
 [Wrestling JSON with jq by Arjan van der Gaag](http://arjanvandergaag.nl/blog/wrestling-json-with-jq.html)
 [The BEST CLI Tool - YouTube](https://www.youtube.com/watch?v=n8sOmEe2SDg)
 
+[mikefarah/yq: yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor](https://github.com/mikefarah/yq) Go, `jq`-like syntax
+[kislyuk/yq: Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents](https://github.com/kislyuk/yq) Python `jq` wrapper
 [joelpurra/jqnpm: A package manager built for the command-line JSON processor jq.](https://github.com/joelpurra/jqnpm) 😴inactive
 [jiq - JSON Incremental jq-filterer](https://jq.alhur.es/jiq/) 😴inactive
 [fiatjaf/jiq: jid on jq - interactive JSON query tool using jq expressions](https://github.com/fiatjaf/jiq)

@@ -2,7 +2,7 @@
 title: Calendar
 description: ""
 created: 2016-09-09
-updated: 2025-10-10
+updated: 2026-03-25
 tags:
   - calendar
   - science
@@ -113,7 +113,7 @@ Conservatives refuses to drop the practice of celebrating 1st April as beginning
 
 ### Day of week
 
-[Doomsday rule - Wikipedia](https://en.m.wikipedia.org/wiki/Doomsday_rule)
+[Doomsday rule - Wikiwand](https://www.wikiwand.com/en/Doomsday_rule)
 [The Doomsday Algorithm](https://www.timeanddate.com/date/doomsday-weekday.html)
 [The Doomsday Rule](https://www.timeanddate.com/date/doomsday-rule.html)
 [Doomsday Algorithm](https://www.rudy.ca/doomsday.html)

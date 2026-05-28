@@ -2,14 +2,14 @@
 title: Model of Grief
 description: ""
 created: 2014-12-26
-updated: 2025-01-09
+updated: 2026-03-25
 tags:
   - model-of-grief
   - psychology
   - trivia
 ---
 
-[Kübler-Ross model - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model)
+[Five stages of grief - Wikiwand](https://www.wikiwand.com/en/Five_stages_of_grief)
 Kübler-Ross Model，描述的是當人遭逢巨變或災難以後，心理上經歷的五重階段： 否認隔絕(Denial)、憤怒激動(Anger)、討價還價(Bargaining)、抑鬱頹喪(Depression)、接受現實(Acceptance)
 
 5 stages of people handling grief (**DABDA**):

@@ -2,7 +2,7 @@
 title: Game Engines
 description: ""
 created: 2015-01-02
-updated: 2026-02-18
+updated: 2026-05-27
 tags:
   - game-dev
   - game-engine
@@ -22,12 +22,14 @@ tags:
 [The Evolution of Video Game Graphics Is Complicated - YouTube](https://www.youtube.com/watch?v=l5nxZ8Jycc0)
 [Game Development with Frameworks and Libraries - YouTube](https://www.youtube.com/watch?v=JFnLPyqkaTs)
 
-[quill18creates - YouTube](https://www.youtube.com/user/quill18creates)
+[quill18creates - YouTube](https://www.youtube.com/@quill18creates) Unity and Godot
+[samyam - YouTube](https://www.youtube.com/@samyam)
 
 [List of game engines - Wikiwand](https://www.wikiwand.com/en/List_of_game_engines)
 [First-person shooter engine - Wikiwand](https://www.wikiwand.com/en/First-person_shooter_engine)
 [List of first-person shooter engines - Wikiwand](https://www.wikiwand.com/en/List_of_first-person_shooter_engines)
 
+[Every Game Engine Explained in 6 Minutes - YouTube](https://www.youtube.com/watch?v=TDPDvoj_Zkk)
 [Underrated Game Engines Round-up – GameFromScratch.com](https://gamefromscratch.com/underrated-game-engines-round-up/)
 [Unity Alternatives in 2023 – GameFromScratch.com](https://gamefromscratch.com/unity-alternatives-in-2023/)
 
@@ -41,7 +43,7 @@ tags:
 [GMTK Game Jam 2022 - itch.io](https://itch.io/jam/gmtk-jam-2022#:~:text=i%20need%20art%20and%20audio!) resources
 [ellisonleao/magictools: A list of Game Development resources to make magic happen.](https://github.com/ellisonleao/magictools)
 
-[Kenney · Assets](https://kenney.nl/assets)
+[Home · Kenney](https://kenney.nl/)
 
 [OpenGameArt.org](https://opengameart.org/)
 [Pixeland · Manipulating pre-made game assets](https://pixeland.io/blog/manipulating-pre-made-game-assets)
@@ -700,6 +702,10 @@ Titles:
 License: Proprietary
 
 [Source (game engine) - Wikiwand](<https://www.wikiwand.com/en/Source_(game_engine)>)
+
+[s&box](https://sbox.game/)
+[s&box on Steam](https://store.steampowered.com/app/590830/sbox/)
+[Valve Just Signed The Deal That Changes Indie Gaming - YouTube](https://www.youtube.com/watch?v=EZY1KsPwiHQ)
 
 ## Unity
 

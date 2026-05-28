@@ -2,10 +2,12 @@
 title: Robotics
 description: ""
 created: 2015-10-19
-updated: 2026-02-03
+updated: 2026-05-23
 tags:
   - maker
 ---
+
+[日美机器人，为啥被中国超越了? - YouTube](https://www.youtube.com/watch?v=UmscIYotuWA)
 
 [The Complete History And Future of Robots | WIRED](https://www.wired.com/story/wired-guide-to-robots/)
 [9 Most Advanced AI Robots - Humanoid & Industrial Robots - YouTube](https://www.youtube.com/watch?v=Jky9I1ihAkg)
@@ -62,7 +64,7 @@ tags:
 
 ## Boston Dynamics
 
-[Boston Dynamics - YouTube](https://www.youtube.com/user/BostonDynamics/videos)
+[Boston Dynamics - YouTube](https://www.youtube.com/@BostonDynamics)
 [Evolution of Boston Dynamic’s Robots [1992-2022] - YouTube](https://www.youtube.com/watch?v=Rdm2ggtFvmQ)
 [Evolution Of Boston Dynamics Since 2012 | HIGHLIGHTS - YouTube](https://www.youtube.com/watch?v=NR32ULxbjYc)
 [Do You Love Me? - YouTube](https://www.youtube.com/watch?v=fn3KWM1kuAw) 2020 show case
@@ -81,6 +83,8 @@ tags:
 [DIY Arduino Gimbal | Self-Stabilizing Platform - HowToMechatronics](https://howtomechatronics.com/projects/diy-arduino-gimbal-self-stabilizing-platform/)
 
 [Spiderin, a four-legs spider robot | Open Electronics](https://www.open-electronics.org/spiderin-a-four-legs-spider-robot/) principles of moving legs with servo motor
+
+[Haptic Rendering - Computerphile - YouTube](https://www.youtube.com/watch?v=0jmJdvI6f-A)
 
 ## Bio-inspired Robots
 
@@ -149,6 +153,7 @@ tags:
 
 [Inertial measurement unit - Wikiwand](https://www.wikiwand.com/en/Inertial_measurement_unit)
 [The GENIUS of Inertial Navigation Systems Explained - YouTube](https://www.youtube.com/watch?v=Pq_PDaYclAw)
+[The Genius Of Gyroscopic Navigation - YouTube](https://www.youtube.com/watch?v=KZZwX80iQzc)
 
 [Accelerometer - Wikiwand](https://www.wikiwand.com/en/Accelerometer)
 [Accelerometer Basics - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/accelerometer-basics/all)

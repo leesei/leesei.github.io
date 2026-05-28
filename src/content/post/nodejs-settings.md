@@ -2,7 +2,7 @@
 title: Node.js settings
 description: ""
 created: 2014-12-11
-updated: 2025-11-24
+updated: 2026-05-17
 tags:
   - comp/lang
   - nodejs
@@ -374,7 +374,8 @@ I found yargs option are too complicated
 [dotenvx | a secure dotenv–from the creator of dotenv](https://dotenvx.com/)
 [dotenvx/dotenvx: a secure dotenv–from the creator of `dotenv`](https://github.com/dotenvx/dotenvx)
 
-[Env](https://env.t3.gg/) from T3
+[Env](https://env.t3.gg/) from T3, prevents variable leakage to client
+[t3-oss/t3-env · GitHub](https://github.com/t3-oss/t3-env)
 [bevry/envfile](https://github.com/bevry/envfile)
 [af/envalid: Environment variable validation for Node.js](https://github.com/af/envalid)
 
@@ -455,9 +456,10 @@ Workshop:
 
 ### Colorizer
 
+[doowb/ansi-colors: Easily add ANSI colors to your text and symbols in the terminal. ansi-colors is the official ansi styling library for gulp. Used by hundreds of projects, including enquirer, vscode, codeql, azure data studio, aws-cdk, redwoodjs, leaflet, mocha, and many others.](https://github.com/doowb/ansi-colors)
 [chalk/chalk: 🖍 Terminal string styling done right](https://github.com/chalk/chalk)
 [jorgebucaran/clorox: Node.js library for colorizing text using ANSI escape sequences.](https://github.com/jorgebucaran/clorox)
-[lukeed/kleur: The fastest Node.js library for formatting terminal text with ANSI colors~!](https://github.com/lukeed/kleur)
+[lukeed/kleur: The fastest Node.js library for formatting terminal text with ANSI colors~!](https://github.com/lukeed/kleur) 😴inactive
 [Marak/colors.js](https://github.com/Marak/colors.js) use chalk instead
 
 [danielb2-purdy.js](https://github.com/danielb2/purdy.js) colored object inspect

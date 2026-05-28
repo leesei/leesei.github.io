@@ -2,7 +2,7 @@
 title: Latex
 description: ""
 created: 2015-05-20
-updated: 2026-01-15
+updated: 2026-05-17
 tags:
   - asciimath
   - comp/lang
@@ -123,6 +123,7 @@ PDF is PostScript instructions
 [typst/typst: A new markup-based typesetting system that is powerful and easy to learn.](https://github.com/typst/typst)
 
 [Typst: The LaTeX alternative in Rust - YouTube](https://www.youtube.com/watch?v=sWmlbMh3ol8)
+[Friendship Ended with Obsidian/LaTeX, Now Typst is My Best Friend | Ersei 'n Stuff](https://ersei.net/en/blog/typst)
 
 [reflexo-typst Documentation](https://myriad-dreamin.github.io/typst.ts/)
 [Myriad-Dreamin/typst.ts: Run Typst in JavaScriptWorld.](https://github.com/Myriad-Dreamin/typst.ts)

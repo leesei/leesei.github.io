@@ -2,7 +2,7 @@
 title: Learn to code
 description: Learn how to code
 created: 2014-12-08
-updated: 2026-02-26
+updated: 2026-05-16
 tags:
   - comp/lang
   - learning
@@ -152,7 +152,7 @@ No framework or library is a silver bullet. But the right choice can save you a 
 [haoel/leetcode: LeetCode Problems' Solutions](https://github.com/haoel/leetcode)
 [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/) better ordering
 [How to Solve Leetcode Problems With Python One-Liners](https://www.freecodecamp.org/news/solve-leetcode-problems-using-python-list-comprehension/)
-[NeetCode - YouTube](https://www.youtube.com/c/NeetCode/featured)
+[NeetCode - YouTube](https://www.youtube.com/@NeetCode)
 [How to use Leetcode in 2020 - YouTube](https://www.youtube.com/watch?v=6jf6SK9qWBc)
 
 [Codeforces](https://codeforces.com/)
@@ -317,6 +317,7 @@ Causal Profiler (`coz`)
 [ThePrimeagen - YouTube](https://www.youtube.com/@ThePrimeagen)
 [ThePrimeTime - YouTube](https://www.youtube.com/@ThePrimeTimeagen)
 [TechWorld with Nana - YouTube](https://www.youtube.com/@TechWorldwithNana)
+[Matt Pocock - YouTube](https://www.youtube.com/@mattpocockuk) web, TypeScript
 
 [strager - YouTube](https://www.youtube.com/@strager_) C++, Rust
 [Low Level - YouTube](https://www.youtube.com/@LowLevel) low level, security
@@ -354,6 +355,8 @@ I also have bundles in Fanatical and Humble Bundle
 ### Kata
 
 [CodeKata](http://codekata.com/)
+
+[Codewars - Achieve mastery through coding practice and developer mentorship](https://www.codewars.com/)
 
 [Learn JavaScript by doing it](https://jskatas.org/)
 
@@ -402,6 +405,8 @@ I also have bundles in Fanatical and Humble Bundle
 [Vibe Coding is For Senior Developers - YouTube](https://www.youtube.com/watch?v=5vp9ypOUgMw) 2026-01
 [Code Is Cheap Now. Software Isn’t. — Chris Gregori](https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt)
 [What happens now? - YouTube](https://www.youtube.com/watch?v=28z6OjsNsUk) 2026-01
+["Software Fundamentals Matter More Than Ever" — Matt Pocock - YouTube](https://www.youtube.com/watch?v=v4F1gFy-hqg)
+[Am I in trouble? - YouTube](https://www.youtube.com/watch?v=JHDfWOzIFIo) AI content and AI itself replacing programming tutorials, which is bad
 
 [Writing a good CLAUDE.md | HumanLayer Blog](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
 [affaan-m/everything-claude-code: Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.](https://github.com/affaan-m/everything-claude-code)
@@ -1093,6 +1098,7 @@ Elm -> ReScript -> F#
 ## Odin
 
 > C alternative for the joy of programming
+> the language does not have package manager, libraries are vendored
 
 [Odin Programming Language](https://odin-lang.org/)
 [odin-lang/Odin: Odin Programming Language](https://github.com/odin-lang/Odin)
@@ -1169,6 +1175,7 @@ Elm -> ReScript -> F#
 [The Perl Programming Language - www.perl.org](https://www.perl.org/)
 [Learn Perl - learn.perl.org](http://learn.perl.org/)
 [Learn Perl - www.perl.org](https://www.perl.org/learn.html)
+[Raku (programming language) - Wikiwand](<https://www.wikiwand.com/en/Raku_(programming_language)>) Perl 6
 
 [Perl 101 - Index](http://perl101.org/)
 [Introduction to Perl one-liners - good coders code, great reuse](http://www.catonmat.net/blog/introduction-to-perl-one-liners/)
@@ -1176,6 +1183,8 @@ Elm -> ReScript -> F#
 
 [The Official RPerl Website](http://rperl.org/)
 [This Perl goes to 11](http://perl11.org/) JIT compiler and Perl 6
+
+[Why Perl Quietly Disappeared - YouTube](https://www.youtube.com/watch?v=RCHhAEjEjKw)
 
 ## R
 

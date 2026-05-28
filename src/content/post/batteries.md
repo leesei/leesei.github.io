@@ -2,7 +2,7 @@
 title: Batteries
 description: ""
 created: 2016-07-31
-updated: 2026-01-31
+updated: 2026-05-23
 tags:
   - trivia
 ---
@@ -193,6 +193,7 @@ But it create more dendrites, which can cause short circuit.
 
 [“固态电池”要量产了！？是锂电革命，还是一场大骗局？真相到底是什么？深度解读背后的技术细节 - YouTube](https://www.youtube.com/watch?v=HuQukyaymdE) mode "solid-state" on market in 2025 is semi solid-state
 
+[Solid State Batteries are FINALLY Here - I tested EVERYTHING! - YouTube](https://www.youtube.com/watch?v=xQFVIs4leig)
 [Why This Ultra Cheap Battery Breakthrough Matters - YouTube](https://www.youtube.com/watch?v=qZ8z5tFzuIw)
 
 - dry printing of electrodes
